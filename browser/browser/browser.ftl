@@ -61,38 +61,74 @@ urlbar-eme-notification-anchor =
     .tooltiptext = Менаџирање со користење на софтвер со DRM
 urlbar-web-authn-anchor =
     .tooltiptext = Отворете Панел за автентикација на веб
+urlbar-canvas-notification-anchor =
+    .tooltiptext = Управувајте со дозволата за екстракција на платно
 urlbar-web-rtc-share-microphone-notification-anchor =
     .tooltiptext = Менаџирајте го споделувањето на вашиот микрофон со ова место
 urlbar-default-notification-anchor =
     .tooltiptext = Отвори го панелот со пораки
+urlbar-geolocation-notification-anchor =
+    .tooltiptext = Отворете го панелот за барање локација
+urlbar-xr-notification-anchor =
+    .tooltiptext = Отворете го панелот за дозволи за виртуелна реалност
+urlbar-storage-access-anchor =
+    .tooltiptext = Отворете ја таблата за дозволи за активност на прелистување
 urlbar-translate-notification-anchor =
     .tooltiptext = Преведи ја оваа страница
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Менаџирајте го споделувањето на вашите прозорци или екран со ова место
+urlbar-indexed-db-notification-anchor =
+    .tooltiptext = Отворете ја таблата за пораки за офлајн складирање
+urlbar-password-notification-anchor =
+    .tooltiptext = Отворете го панелот за пораки за зачувување лозинка
 urlbar-translated-notification-anchor =
     .tooltiptext = Менаџирање со превод на страници
 urlbar-plugins-notification-anchor =
     .tooltiptext = Менаџирајте го користењето на приклучоци
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Менаџирајте го споделувањето на вашата камера и/или микрофон со ова место
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Управувајте со споделување други говорници со страницата
+urlbar-autoplay-notification-anchor =
+    .tooltiptext = Отворете го панелот за автоматска репродукција
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Складирани податоци во Трајно складиште
+urlbar-addons-notification-anchor =
+    .tooltiptext = Отворетего панелот со пораки за инсталација на додатоци
 urlbar-tip-help-icon =
     .title = Побарајте помош
+urlbar-search-tips-confirm = Во ред, разбрав
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Совет:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-onboard = Напишете помалку, најдете повеќе: Барајте { $engineName } директно од лентата за адреси.
+urlbar-search-tips-redirect-2 = Започнете го вашето пребарување во лентата за адреси за да ги видите предлозите од { $engineName } и вашата историја на прелистување.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Изберете ја оваа кратенка за побрзо да го пронајдете она што ви треба.
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Обележувачи
+urlbar-search-mode-tabs = Јазичиња
+urlbar-search-mode-history = Историја
 
 ##
 
 urlbar-geolocation-blocked =
     .tooltiptext = Го блокиравте пристапот до локациските информации за ова мрежно место.
+urlbar-xr-blocked =
+    .tooltiptext = Го блокиравте пристапот до уредот за виртуелна реалност за оваа веб-локација.
 urlbar-web-notifications-blocked =
     .tooltiptext = Ги блокиравте известувањата за ова мрежно место.
 urlbar-camera-blocked =
@@ -101,9 +137,33 @@ urlbar-microphone-blocked =
     .tooltiptext = Го блокиравте пристапот до микрофонот за ова мрежно место.
 urlbar-screen-blocked =
     .tooltiptext = Го блокиравте споделувањето на екранот од страна на ова мрежно место.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Го блокиравте постојаното складирање за оваа веб-локација.
+urlbar-popup-blocked =
+    .tooltiptext = Имате блокирано скокачки прозорци за оваа веб-локација.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Ја блокиравте автоматската репродукција на медиуми со звук за оваа веб-локација.
+urlbar-canvas-blocked =
+    .tooltiptext = Го блокиравте извлекувањето податоци од платно за оваа веб-локација.
+urlbar-midi-blocked =
+    .tooltiptext = Го блокиравте пристапот до MIDI за оваа веб-локација.
+urlbar-install-blocked =
+    .tooltiptext = Ја блокиравте инсталацијата на додатокот за оваа веб-локација.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Уредете го овој обележувач ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Обележете ја оваа страница ({ $shortcut })
 
 ## Page Action Context Menu
 
+page-action-manage-extension =
+    .label = Управувајте со наставката…
+page-action-remove-extension =
+    .label = Отстранете ја екстензијата
 
 ## Auto-hide Context Menu
 
@@ -116,6 +176,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of search shortcuts in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Овој пат, побарајте со:
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Промени поставки за пребарување
 search-one-offs-context-open-new-tab =
@@ -124,6 +187,27 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Постави како основен пребарувач
     .accesskey = П
+search-one-offs-context-set-as-default-private =
+    .label = Поставете како стандарден пребарувач за приватен Windows
+    .accesskey = П
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Додадете „{ $engineName }“
+    .tooltiptext = Додајте пребарувач „{ $engineName }“
+    .aria-label = Додајте пребарувач „{ $engineName }“
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu =
+    .label = Додадете пребарувач
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -132,12 +216,35 @@ search-one-offs-context-set-as-default =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Обележувачи ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Јазичиња ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Историја ({ $restrict })
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Додадете обележувач
+bookmarks-edit-bookmark = Уредете го обележувачот
 bookmark-panel-cancel =
     .label = Откажи
     .accesskey = О
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [1] Отстранете обележувач
+            [one] Отстранете обележувач
+           *[other] Отстранете ги обележувачите { $count }
+        }
+    .accesskey = р
+bookmark-panel-show-editor-checkbox =
+    .label = Прикажи уредник при зачувување
+    .accesskey = П
+bookmark-panel-save-button =
+    .label = Зачувај
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -146,21 +253,46 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Информации за локацијата за { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Безбедност на врската за { $host }
 identity-connection-not-secure = Врската не е безбедна
 identity-connection-secure = Врската е безбедна
+identity-connection-failure = Неуспех на врската
 identity-connection-internal = Ова е безбедна страница на { -brand-short-name }.
 identity-connection-file = Оваа страница е складирана на вашиот компјутер.
 identity-extension-page = Оваа страница е вчитана преку проширување.
 identity-active-blocked = { -brand-short-name } блокираше делови од оваа страница што не се безбедни.
+identity-custom-root = Врската е потврдена од издавач на сертификат што не е препознаен од Mozilla.
 identity-passive-loaded = Делови од оваа страница не се безбедни (како на пример, сликите).
 identity-active-loaded = Ја исклучивте заштитата за оваа страница.
 identity-weak-encryption = Оваа страница користи слаба енкрипција.
 identity-insecure-login-forms = Најавувањата на оваа страница можат да бидат злоупотребени.
+identity-https-only-connection-upgraded = (надградено на HTTPS)
+identity-https-only-label = Режим само HTTPS
+identity-https-only-dropdown-on =
+    .label = Вклучено
+identity-https-only-dropdown-off =
+    .label = Исклученo
+identity-https-only-dropdown-off-temporarily =
+    .label = Исклучено привремено
+identity-https-only-info-turn-on2 = Вклучете го режимот само HTTPS за оваа локација ако сакате { -brand-short-name } да ја надгради врската кога е можно.
+identity-https-only-info-turn-off2 = Ако страницата се чини дека е проблематична, можеби ќе сакате да го исклучите режимот само HTTPS за оваа страница повторно да се вчита со користење на небезбеден HTTP.
+identity-https-only-info-no-upgrade = Не може да се надгради врската од HTTP.
+identity-permissions-storage-access-header = Колачиња меѓу страници
+identity-permissions-storage-access-hint = Овие страни може да користат колачиња и податоци за веб-локации додека сте на оваа страница.
+identity-permissions-storage-access-learn-more = Дознајте повеќе
 identity-permissions-reload-hint = Можно е да треба да ја превчитате страницата за измените да имаат ефект.
 identity-clear-site-data =
     .label = Исчисти колачиња и податоци за мрежно место
 identity-connection-not-secure-security-view = Вие не сте безбедно поврзани со оваа страница.
 identity-connection-verified = Вие сте безбедно поврзани со оваа страница.
+identity-ev-owner-label = Сертификат издаден на:
+identity-description-custom-root = Mozilla не го препознава издавачот на овој сертификат. Можеби е додаден од вашиот оперативен систем или од администратор. <label data-l10n-name="link">Дознајте повеќе</label>
 identity-remove-cert-exception =
     .label = Отстрани исклучок
     .accesskey = Д
@@ -189,29 +321,89 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Минимизира
+browser-window-maximize-button =
+    .tooltiptext = Максимизирај
+browser-window-restore-down-button =
+    .tooltiptext = Врати надолу
 browser-window-close-button =
     .tooltiptext = Затвора
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = ИГРАЊЕ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = БЕЗГЛАСНО
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = AUTOPLAY БЛОКИРАНО
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = СЛИКА-ВО-СЛИКА
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] ИСКЛУЧИ ТАБ
+        [one] ИСКЛУЧИ ТАБ
+       *[other] ИСКЛУЧИ ТАБОВИ { $count }
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] Вклучи го звукот на ТАБ
+        [one] Вклучи го звукот на ТАБ
+       *[other] Вклучи го звукот на { $count } ТАБОВИ
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] PLAY ТАБ
+        [one] PLAY ТАБ
+       *[other] PLAY { $count } ТАБОВИ
+    }
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Увезете обележувачи…
+    .tooltiptext = Увезете обележувачи од друг прелистувач во { -brand-short-name }.
+bookmarks-toolbar-empty-message = За брз пристап, поставете ги вашите обележувачи овде на лентата со алатки за обележувачи. <a data-l10n-name="manage-bookmarks">Управувајте со обележувачи…</a>
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera-device =
+    .value = Камера:
+    .accesskey = Ц
+popup-select-camera-icon =
+    .tooltiptext = Камера
+popup-select-microphone-device =
+    .value = Микрофон:
+    .accesskey = М
+popup-select-microphone-icon =
+    .tooltiptext = Микрофон
+popup-select-speaker-icon =
+    .tooltiptext = Звучници
 popup-all-windows-shared = Сите видливи прозорци на вашиот екран ќе бидат споделени.
+popup-screen-sharing-block =
+    .label = Блокирај
+    .accesskey = Б
+popup-screen-sharing-always-block =
+    .label = Секогаш блокирај
+    .accesskey = Њ
+popup-mute-notifications-checkbox = Исклучете го звукот на известувањата на веб-локациите додека споделувате
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Споделувате { -brand-short-name }. Другите луѓе може да видат кога ќе се префрлите на ново јазиче.
+sharing-warning-screen = Го споделувате целиот екран. Другите луѓе може да видат кога ќе се префрлите на ново јазиче.
+sharing-warning-proceed-to-tab =
+    .label = Продолжете на јазиче
+sharing-warning-disable-for-session =
+    .label = Оневозможи заштита за споделување за оваа сесија
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = За да ја користите кратенката F12, прво отворете DevTools преку менито Web Developer.
 
 ## URL Bar
 
@@ -219,6 +411,45 @@ popup-all-windows-shared = Сите видливи прозорци на ваш�
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Барај или внеси адреса
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Пребарајте на Интернет
+    .aria-label = Пребарај со { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Внесете термини за пребарување
+    .aria-label = Пребарај { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Внесете термини за пребарување
+    .aria-label = Пребарајте обележувачи
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Внесете термини за пребарување
+    .aria-label = Историја на пребарување
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Внесете термини за пребарување
+    .aria-label = Јазичиња за пребарување
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Пребарајте со { $name } или внесете адреса
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Прелистувачот е под далечински управувач (причина: { $component })
+urlbar-permissions-granted =
+    .tooltiptext = На оваа веб-локација и дадовте дополнителни дозволи.
 urlbar-switch-to-tab =
     .value = Оди до јазиче:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -232,19 +463,70 @@ urlbar-page-action-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Used when the private browsing engine differs from the default engine.
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-in-private-w-engine = Пребарувајте со { $engine } во приватен прозорец
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = Пребарување во приватен прозорец
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Пребарај со { $engine }
+urlbar-result-action-sponsored = Спонзорирано
+urlbar-result-action-switch-tab = Префрлете се на јазиче
+urlbar-result-action-visit = Посетете
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Притиснете Tab за да пребарувате со { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Притиснете Tab за да пребарувате { $engine }
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Пребарувајте со { $engine } директно од лентата за адреси
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Пребарувајте { $engine } директно од лентата за адреси
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Копирај
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Барај во обележувачите
+urlbar-result-action-search-history = Барај во историјата
+urlbar-result-action-search-tabs = Јазичиња за пребарување
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use sentence case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = Предлози за { $engine }
 
 ## Full Screen and Pointer Lock UI
 
@@ -264,9 +546,22 @@ pointerlock-warning-no-domain = Овој документ ви ја презем
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Дел од оваа страница падна.</strong> За да го известите { -brand-product-name } за овој проблем и да го поправите побрзо, поднесете извештај.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Дел од оваа страница падна. За да го известите { -brand-product-name } за овој проблем и да го поправите побрзо, поднесете извештај.
+crashed-subframe-learnmore-link =
+    .value = Дознајте повеќе
+crashed-subframe-submit =
+    .label = Поднесете извештај
+    .accesskey = П
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = Управувајте со обележувачите
+bookmarks-recent-bookmarks-panel-subheader = Неодамнешни обележувачи
 bookmarks-toolbar-chevron =
     .tooltiptext = Покажува уште обележувачи
 bookmarks-sidebar-content =
@@ -289,6 +584,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Скриј алатник со обележувачи
            *[other] Прикажи алатник со обележувачи
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Сокриј ја лентата со алатки за обележувачи
+           *[other] Прикажи лента со алатки за обележувачи
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -301,26 +602,58 @@ bookmarks-tools =
     .label = Алатки за обележување
 bookmarks-bookmark-edit-panel =
     .label = Уреди го овој обележувач
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Алатник со обележувачи
+    .accesskey = Б
+    .aria-label = Обележувачи
 bookmarks-toolbar-menu =
     .label = Алатник со обележувачи
 bookmarks-toolbar-placeholder =
     .title = Ставки во алатникот со обележувачи
 bookmarks-toolbar-placeholder-button =
     .label = Ставки во алатникот со обележувачи
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Обележете го тековното јазиче
 
 ## Library Panel items
 
 library-bookmarks-menu =
     .label = Обележувачи
+library-recent-activity-title =
+    .value = Скорешна активност
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = Зачувај во { -pocket-brand-name }
+    .tooltiptext = Зачувај во { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Поправете го кодирањето на текстот
+    .tooltiptext = Одберете го точното кодирање на текст од содржината на страницата
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Додатоци и теми
+    .tooltiptext = Управувајте со вашите додатоци и теми ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Поставки
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Отворете ги поставките ({ $shortcut })
+           *[other] Отворете ги поставките
+        }
 
 ## More items
 
@@ -330,21 +663,59 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Прилагоди мени…
     .accesskey = П
+toolbar-button-email-link =
+    .label = Врска за е-пошта
+    .tooltiptext = Испратете е-пошта со врска до оваа страница
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Зачувајте ја страницата
+    .tooltiptext = Зачувајте ја оваа страница ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Отворете датотека
+    .tooltiptext = Отворете датотека ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Синхронизирани јазичиња
+    .tooltiptext = Прикажи јазичиња од други уреди
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Нов приватен прозорец
+    .tooltiptext = Отворете нов приватен прозорец за прелистување ({ $shortcut })
 
 ## EME notification panel
 
+eme-notifications-drm-content-playing = Некои аудио или видеа на оваа страница користат софтвер за DRM, што може да го ограничи она што { -brand-short-name } може да ви дозволи да го правите со него.
+eme-notifications-drm-content-playing-manage = Управувајте со поставките
+eme-notifications-drm-content-playing-manage-accesskey = М
+eme-notifications-drm-content-playing-dismiss = Откажи
+eme-notifications-drm-content-playing-dismiss-accesskey = Д
 
 ## Password save/update panel
 
+panel-save-update-username = Корисничко име
+panel-save-update-password = Лозинка
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Да се отстрани { $name }?
+addon-removal-abuse-report-checkbox = Пријавете ја оваа екстензија на { -vendor-short-name }
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Уреди ја сметката
+remote-tabs-sync-now = Синхронизирај сега
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Повеќе…
 ui-tour-info-panel-close =
     .tooltiptext = Затвори
 
@@ -363,16 +734,33 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Не ја покажувај оваа порака кога се блокираат скокачки прозорци
     .accesskey = Н
+edit-popup-settings =
+    .label = Управувајте со поставките за скокачки прозорци…
+    .accesskey = М
+picture-in-picture-hide-toggle =
+    .label = Сокриј го менувачот слика-во-слика
+    .accesskey = Х
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-right =
+    .label = Преместете го копчето „Слика во слика“ на десната страна
+    .accesskey = R
+picture-in-picture-move-toggle-left =
+    .label = Преместете го копчето „Слика во слика“ на левата страна
+    .accesskey = Л
 
 ##
 
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Навигација
 navbar-downloads =
     .label = Преземања
 navbar-overflow =
@@ -382,6 +770,9 @@ navbar-overflow =
 navbar-print =
     .label = Печати
     .tooltiptext = Печати ја оваа страница… ({ $shortcut })
+navbar-home =
+    .label = Дома
+    .tooltiptext = { -brand-short-name } Home Page
 navbar-library =
     .label = Библиотека
     .tooltiptext = Преглед на историјата на прелистување, снимените обележувачи и друго
@@ -402,6 +793,9 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Отворете ги претходните јазичиња?</strong> Можете да ја вратите претходната сесија од менито на апликацијата { -brand-short-name } <img data-l10n-name="icon"/>, под Историја.
+restore-session-startup-suggestion-button = Покажи ми како.
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 

@@ -137,6 +137,7 @@ ssl-error-feature-not-supported-for-ssl2 = SSL особеноста не е по
 ssl-error-feature-not-supported-for-servers = SSL особеноста не е поддржана за врски со сервери.
 ssl-error-feature-not-supported-for-clients = SSL особеноста не е поддржана за врски со клиенти.
 ssl-error-invalid-version-range = Опсегот на верзија SSL не е валидна.
+ssl-error-feature-not-supported-for-version = SSL особеноста не е поддржана за оваа верзија на протоколот.
 sec-error-io = Се случи I/O грешка за време на сигурносната авторизација.
 sec-error-library-failure = security library failure.
 sec-error-bad-data = безбедносна библиотека: добив неиспавни податоци.
