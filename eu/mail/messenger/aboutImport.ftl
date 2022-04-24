@@ -49,12 +49,23 @@ addr-book-sqlite-file = SQLite datubase fitxategia (.sqlite)
 addr-book-mab-file = Mork datubase fitxategia (.mab)
 addr-book-file-picker = Hautatu helbide-liburuen fitxategia
 addr-book-csv-field-map-title = Bat egin (elkartu) eremu izenak
+addr-book-csv-field-map-desc = Aukeratu helbide liburuko eremuak jatorri eremuekin bat datozenak. Desautatu inportatu nahi ez dituzun eremuak.
+addr-book-directories-pane-title = Aukeratu zein direktoriora inportatu nahi duzun:
 addr-book-directories-pane-source = Iturburu fitxategia:
 addr-book-import-into-new-directory = Sortu direktorio berria
 
+## Import from address book file steps
+
+import-from-calendar-file-desc = Aukeratu inportatu nahi zenukeen iCalendar (.ics) fitxategia.
+calendar-items-loading = Elementuak kargatzen…
+calendar-items-filter-input =
+    .placeholder = Elementuak iragazi…
+calendar-select-all-items = Hautatu dena
+calendar-deselect-all-items = Desautatu denak
+calendar-import-into-new-calendar = Sortu egutegi berria
+
 ## Import dialog
 
-progress-pane-title = Inportatzen
 progress-pane-importing = Inportatzen
 progress-pane-exporting = Esportatzen
 progress-pane-finished-desc = Amaitua
@@ -63,9 +74,17 @@ error-pane-title = Errorea
 error-message-zip-file-too-big = Hautatutako Zip fitxategia 2GB baino handiagoa da. Mesedez, erauzi lehenengo eta gero inportatu erauzitako karpeta.
 error-message-extract-zip-file-failed = Huts egin du zip fitxategia erauzteak. Mesedez erauzi eskuz, ondoren inportatu erauzitako karpeta.
 error-message-failed = Huts egin du inportazioak ustekabean, informazio gehiago eskuragarri errore kontsolan.
+error-failed-to-parse-ics-file = Ez dira inportatzeko elementuak aurkitu fitxategian.
+error-export-failed = Huts egin du esportazioak ustekabean, informazio gehiago eskuragarri errore kontsolan.
 
 ## <csv-field-map> element
 
+csv-first-row-contains-headers = Lehenengo lerroak eremuen izenak dauzka
+csv-source-field = Iturburu eremua:
+csv-source-first-record = Lehen erregistroa
+csv-source-second-record = Bigarren erregistroa
+csv-target-field = Helbide-liburuko eremua
 
 ## Export tab
 
+export-profile-desc = Esportatu posta kontuak, posta mezuak, helbide liburuak, ezarpenak zip fitxategi batera. Behar duzunean, zip fitxategitik inportatuz zure profila berreskura zenezake.
