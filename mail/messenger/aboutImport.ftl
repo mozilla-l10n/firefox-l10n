@@ -88,3 +88,7 @@ csv-target-field = Helbide-liburuko eremua
 ## Export tab
 
 export-profile-desc = Esportatu posta kontuak, posta mezuak, helbide liburuak, ezarpenak zip fitxategi batera. Behar duzunean, zip fitxategitik inportatuz zure profila berreskura zenezake.
+export-profile-desc2 = Zure profila 2GB baino handiagoa bada zure aldetik segurtasun kopia egitea gomendatzen dizugu.
+export-open-profile-folder = Ireki profilaren karpeta
+export-file-picker = Esportatu zip fitxategira
+export-brand-name = { -brand-product-name }
