@@ -67,6 +67,9 @@ mail-uidensity-normal =
 mail-uidensity-touch =
     .label = Ukipena
     .accesskey = U
+menu-spaces-toolbar-button =
+    .label = Guneen tresna-barra
+    .accesskey = G
 
 ## File
 
