@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $organizer (String) - The participant that created the original invitation.
+calendar-invitation-panel-intro = { $organizer }(e)k gonbidatu zaitu:
+# Variables:
+# $summary (String) - A short summary or title of the event.
+calendar-invitation-panel-title = { $summary }
 calendar-invitation-panel-action-button = Gorde
 calendar-invitation-panel-accept-button = Bai
 calendar-invitation-panel-decline-button = Ez
