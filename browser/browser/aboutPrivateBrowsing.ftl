@@ -45,11 +45,6 @@ about-private-browsing-focus-promo-text-c = { -focus-brand-name } ले वि�
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
 about-private-browsing-search-banner-title = { $engineName } निजी विन्डोजमा तपाईंको पूर्वनिर्धारित खोज इन्जिन हो
-about-private-browsing-search-banner-description =
-    { PLATFORM() ->
-        [windows] फरक खोज इन्जिन चयन गर्न  <a data-l10n-name="link-options"> विकल्प </a> मा जानुहोस् ।
-       *[other] फरक खोज इन्जिन चयन गर्न <a data-l10n-name="link-options"> मा जानुहोस् ।
-    }
 about-private-browsing-search-banner-close-button =
     .aria-label = बन्द गर्नुहोस्
 about-private-browsing-promo-close-button =
