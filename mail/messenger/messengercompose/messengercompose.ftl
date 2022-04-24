@@ -155,6 +155,33 @@ menu-smime =
 menu-encrypt =
     .label = Zifratu
     .accesskey = Z
+menu-encrypt-subject =
+    .label = Zifratu gaia
+    .accesskey = i
+menu-sign =
+    .label = Digitalki sinatu
+    .accesskey = D
+menu-manage-keys =
+    .label = Gako laguntzailea
+    .accesskey = g
+menu-view-certificates =
+    .label = Erakutsi hartzaileen ziurtagiriak
+    .accesskey = h
+menu-open-key-manager =
+    .label = Gako kudeatzailea
+    .accesskey = k
+openpgp-key-issue-notification-one = Muturretik muturrerako zifratzeak { $addr }(e)n gako arazoak konpontzea eskatzen du.
+openpgp-key-issue-notification-many = Muturretik muturrerako zifratzeak { $count } hartzaileen gako arazoak konpontzea eskatzen du.
+smime-cert-issue-notification-one = Muturretik muturrerako zifratzeak { $addr }(e)n ziurtagiri arazoak konpontzea eskatzen du.
+smime-cert-issue-notification-many = Muturretik muturrerako zifratzeak { $count } hartzaileen ziurtagiri arazoak konpontzea eskatzen du.
+key-notification-disable-encryption =
+    .label = Ez zifratu
+    .accesskey = E
+    .tooltiptext = desgaitu muturretik muturrerako zifratzea
+key-notification-resolve =
+    .label = Ebatzi…
+    .accesskey = E
+    .tooltiptext = Ireki OpenPGP gako laguntzailea
 
 ## Addressing Area
 
