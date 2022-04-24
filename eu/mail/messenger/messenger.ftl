@@ -169,6 +169,7 @@ no-reply-reply-anyway-button = Erantzun hala ere
 
 ## error messages
 
+decrypt-and-copy-failures = { $total }(e)tik { $failures } mezu ezin izan dira deszifratu eta ez dira kopiatuko.
 
 ## Spaces toolbar
 
@@ -227,6 +228,29 @@ spaces-pinned-button-menuitem-settings =
     .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
     .label = { spaces-toolbar-button-show.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+            [one] irakurri gabeko mezu bat
+           *[other] { $count } mezu irakurri gabe
+        }
 
 ## Spaces toolbar customize panel
 
+spaces-context-customize =
+    .label = Pertsonalizatu…
+spaces-customize-panel-title = Guneen tresna-barra ezarpenak
+spaces-customize-background-color = Atzeko planoko kolorea
+spaces-customize-icon-color = Botoi kolorea
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Aukeratutako botoi atzeko plano kolorea
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Aukeratutako botoi kolorea
+spaces-customize-button-restore = Berrezarri lehenetsiak
+    .accesskey = B
+spaces-customize-button-save = Eginda
+    .accesskey = E

@@ -30,6 +30,13 @@ pill-tooltip-not-in-address-book = { $email } ez dago zure helbide liburuan
 pill-action-edit =
     .label = Editatu helbidea
     .accesskey = E
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Aukeratu { $type } motako helbide guztiak
+    .accesskey = m
+pill-action-select-all-pills =
+    .label = Aukeratu helbide guztiak
+    .accesskey = A
 pill-action-move-to =
     .label = Eraman hona
     .accesskey = m
@@ -74,19 +81,26 @@ context-menuitem-attach-files =
     .label = Erantsi fitxategia(k)…
     .accesskey = r
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = Nire vCard
+    .accesskey = C
+context-menuitem-attach-openpgp-key =
+    .label = Nire OpenPGP gako publikoa
+    .accesskey = g
 #   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] Eranskin { $count }
-            [one] Eranskin { $count }
-           *[other] { $count } eranskin
-        }
-    .accesskey = e
+attachment-bucket-count-value =
+    { $count ->
+        [1] Eranskina
+        [one] Eranskin { $count }
+       *[other] { $count } eranskin
+    }
 expand-attachment-pane-tooltip =
     .tooltiptext = Erakutsi eranskinen panela ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Gorde eranskinen panela ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+attachment-area-show =
+    .title = Erakutsi eranskinen panela ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 drop-file-label-attachment =
     { $count ->
         [one] Gehitu eranskina bezala
@@ -238,7 +252,10 @@ encrypted-bcc-ignore-button = Ulertua
 compose-tool-button-remove-text-styling =
     .tooltiptext = Kendu testu estiloak
 
-## FileLink
+## Filelink
+
+
+# Placeholder file
 
 
 # Template
