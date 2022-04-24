@@ -316,6 +316,17 @@
 <!ENTITY editMsgAsNewCmd.label "Upraviť správu ako novú">
 <!ENTITY editMsgAsNewCmd.accesskey "U">
 <!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Upraviť ako novú správu">
+<!ENTITY editAsNewMsgCmd.accesskey "U">
+<!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Upraviť koncept správy">
+<!ENTITY editDraftMsgCmd.accesskey "c">
+<!ENTITY editTemplateMsgCmd.label "Upraviť šablónu">
+<!ENTITY editTemplateMsgCmd.accesskey "a">
+<!ENTITY newMsgFromTemplateCmd.label "Nová správa zo šablóny">
+<!-- LOCALIZATION NOTE (newMsgFromTemplateCmd.keycode):
+     Do not localize VK_RETURN. -->
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN">
 <!ENTITY createFilter.label "Vytvoriť filter zo správy…">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY archiveMsgCmd.label "Archivovať">
@@ -470,6 +481,12 @@
 <!ENTITY contextOpenNewTab.accesskey "k">
 <!ENTITY contextEditAsNew.label "Upraviť ako novú…">
 <!ENTITY contextEditAsNew.accesskey "n">
+<!ENTITY contextEditMsgAsNew.label "Upraviť ako novú správu">
+<!ENTITY contextEditMsgAsNew.accesskey "U">
+<!ENTITY contextEditDraftMsg.label "Upraviť koncept správy">
+<!ENTITY contextEditTemplate.label "Upraviť šablónu">
+<!ENTITY contextEditTemplate.accesskey "a">
+<!ENTITY contextNewMsgFromTemplate.label "Nová správa zo šablóny">
 <!ENTITY contextReplySender.label "Odpovedať odosielateľovi">
 <!ENTITY contextReplySender.accesskey "d">
 <!ENTITY contextReplyList.label "Odpovedať zoznamu">
