@@ -487,11 +487,11 @@
 <!ENTITY runJunkControls.label "Kontrolu cajkoweje e-maile na zarědnik nałožyś">
 <!ENTITY runJunkControls.accesskey "c">
 <!ENTITY deleteJunk.label "E-mail markěrowanu ako cajk w zarědniku lašowaś">
-<!ENTITY deleteJunk.accesskey "E">
+<!ENTITY deleteJunk.accesskey "m">
 <!ENTITY importCmd.label "Importěrowaś…">
-<!ENTITY importCmd.accesskey "m">
+<!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "Eksportěrowaś…">
-<!ENTITY exportCmd.accesskey "k">
+<!ENTITY exportCmd.accesskey "E">
 <!ENTITY clearRecentHistory.label "Aktualnu historiju lašowaś…">
 <!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd2.label "Kontowe nastajenja">
