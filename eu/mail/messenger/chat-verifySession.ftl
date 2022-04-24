@@ -11,3 +11,4 @@ verify-dialog =
     .buttonaccesskeyaccept = B
     .buttonlabelextra2 = Ez datoz bat
     .buttonaccesskeyextra2 = E
+challenge-label = Egiaztatu erakutsitako esaldia bat datorrela bestaldean erakutsitakoaz.
