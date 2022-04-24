@@ -7,6 +7,9 @@
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
 <!ENTITY pref.scripts.title              "Skripty a zásuvné moduly">
 
+<!--LOCALIZATION NOTE : FILE The 'Scripts' preferences dialog -->
+<!ENTITY pref.scripts2.title             "Skripty">
+
 <!ENTITY navigator.label                 "Prehliadač">
 <!ENTITY navigator.accesskey             "r">
 

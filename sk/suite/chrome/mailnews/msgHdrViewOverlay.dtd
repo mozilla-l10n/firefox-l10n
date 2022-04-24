@@ -23,8 +23,13 @@
 <!ENTITY inReplyToField.label "In-Reply-To: ">
 <!ENTITY originalWebsite.label "Webový server:">
 
-<!ENTITY editMessage.label                 "Upraviť konceptu…">
+<!ENTITY editMessage.label                 "Upraviť koncept…">
 <!ENTITY editMessage.accesskey             "v">
+
+<!ENTITY editDraft.label                   "Upraviť koncept…">
+<!ENTITY editDraft.accesskey               "c">
+<!ENTITY editTemplate.label                "Upraviť šablónu…">
+<!ENTITY editTemplate.accesskey            "a">
 
 <!ENTITY attachmentsTree.label             "Prílohy:">
 <!ENTITY attachmentsTree.accesskey         "o">
