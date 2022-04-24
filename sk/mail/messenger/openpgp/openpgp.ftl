@@ -4,6 +4,16 @@
 
 e2e-intro-description = Ak chcete odosielať šifrované alebo digitálne podpísané správy, musíte nakonfigurovať šifrovaciu technológiu, buď OpenPGP alebo S/MIME.
 e2e-intro-description-more = Vyberte svoj osobný kľúč pre použitie OpenPGP alebo svoj osobný certifikát pre použitie S/MIME. Pre osobný kľúč alebo certifikát, pre ktorý vlastníte zodpovedajúci tajný kľúč.
+e2e-signing-description = Digitálny podpis umožňuje príjemcom overiť, že správu ste odoslali vy a jej obsah sa nezmenil. Šifrované správy sú štandardne vždy podpísané.
+e2e-sign-message =
+    .label = Podpísať nešifrované správy
+    .accesskey = P
+e2e-disable-enc =
+    .label = Zakázať šifrovanie pre nové správy
+    .accesskey = Z
+e2e-enable-enc =
+    .label = Povoliť šifrovanie pre nové správy
+    .accesskey = o
 e2e-advanced-section = Rozšírené nastavenia
 e2e-attach-key =
     .label = Pri pridávaní môjho digitálneho podpisu OpenPGP pripojiť aj môj verejný kľúč
