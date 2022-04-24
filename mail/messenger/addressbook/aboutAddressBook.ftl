@@ -132,9 +132,12 @@ about-addressbook-details-phone-numbers-header = Telefono zenbakiak
 about-addressbook-details-home-address-header = Etxeko helbidea
 about-addressbook-details-work-address-header = Laneko helbidea
 about-addressbook-details-other-info-header = Bestelako informazioa
+about-addressbook-unsaved-changes-prompt-title = Gorde gabeko aldaketak
+about-addressbook-unsaved-changes-prompt = Aldaketak gorde nahi dituzu editatze ikuspegitik irten aurretik?
 
 # Photo dialog
 
+about-addressbook-photo-drop-target = Arrastatu edo itsatsi argazki bat hemen edo klik fitxategi bat aukeratzeko.
 about-addressbook-photo-drop-loading = Argazkia kargatzen…
 about-addressbook-photo-drop-error = Huts egin du argazkia kargatzeak.
 about-addressbook-photo-filepicker-title = Hautatu irudi-fitxategia

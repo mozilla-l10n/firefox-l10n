@@ -116,6 +116,9 @@ mail-context-delete-messages =
             [one] Ezabatu mezua
            *[other] Ezabatu hautatutako mezuak
         }
+context-menu-decrypt-to-folder =
+    .label = Kopiatu deszifratua hona
+    .accesskey = z
 
 ## Message header pane
 
@@ -169,15 +172,9 @@ no-reply-reply-anyway-button = Erantzun hala ere
 
 ## Spaces toolbar
 
-spaces-toolbar-button-mail =
-    .title = Aldatu posten fitxara
-spaces-toolbar-button-address-book =
-    .title = Aldatu helbide-liburu fitxara
-spaces-toolbar-button-calendar =
-    .title = Aldatu egutegiaren fitxara
-spaces-toolbar-button-tasks =
-    .title = Aldatu zereginen fitxara
-spaces-toolbar-button-chat =
-    .title = Aldatu txat fitxara
-spaces-toolbar-button-settings =
-    .title = Aldatu ezarpenen fitxara
+
+## Spaces toolbar pinned tab menupopup
+
+
+## Spaces toolbar customize panel
+
