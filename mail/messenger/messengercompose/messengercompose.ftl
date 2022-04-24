@@ -354,11 +354,28 @@ cloud-file-template-size = Tamaina:
 cloud-file-template-link = Lotura:
 cloud-file-template-password-protected-link = Pasahitzaz babestutako lotura:
 cloud-file-template-expiry-date = Iraungitze data:
+cloud-file-template-download-limit = Deskargatzeko limitea:
 
 # Messages
 
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-connection-error-title = Konexio errorea
+cloud-file-connection-error = { -brand-short-name } lineaz kanpo dago. Ezin da konektatu { $provider }(e)kin.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = { $filename } { $provider }(e)ra igotzeak huts egin du.
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-rename-error-title = Errorea izena aldatzean
+cloud-file-rename-error = Arazo bat gertatu da { $filename } berrizendatzean { $provider }(e)n.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = { $filename } { $provider }(e)n berrizendatzeak huts egin du.
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } ezin du jada igota daude fitxategiak berrizendatu.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Filelink eranste errorea
+cloud-file-attachment-error = Huts egin du eguneratzea { $filename } eranskina Filelinken, fitxategi lokala mugitu edo ezabatu delako.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Filelink kontuan errorea
+cloud-file-account-error = Huts egin du eguneratzea { $filename } eranskina Filelinken, Filelink kontua ezabatu delako.
