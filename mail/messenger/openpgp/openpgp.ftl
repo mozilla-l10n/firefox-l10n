@@ -4,6 +4,7 @@
 
 e2e-intro-description = Zo byšće zaklučowane abo digitalnje signowane powěsće pósłał, dyrbiće zaklučowansku technologiju konfigurować, pak OpenPGP pak S/MIME.
 e2e-intro-description-more = Wubjerće swój wosobinski kluč, zo byšće wužiwanje OpenPGP zmóžnił, abo wosobinski certifikat, zo byšće wužiwanje S/MIME zmóžnił. Za wosobinski kluč abo certifikat maće wotpowědny tajny kluč.
+e2e-signing-description = Digitalna signatura přijimarjam zmóžnja, přepruwować, zo powěsć je so wot was pósłała, a hač jeje wobsah njeje so změnił. Zaklučowane powěsće so přeco po standardźe signuja.
 e2e-sign-message =
     .label = Njezaklučowane powěsće signować
     .accesskey = e
@@ -13,6 +14,7 @@ e2e-disable-enc =
 e2e-enable-enc =
     .label = Zaklučowanje za nowe powěsće zmóžnić
     .accesskey = z
+e2e-enable-description = Móžeće zaklučowanje za jednotliwe powěsće znjemóžnić.
 e2e-advanced-section = Rozšěrjene nastajenja
 e2e-attach-key =
     .label = Mój zjawny kluč připowěsnyć, hdyž so digitalna signatura OpenPGP přidawa
@@ -361,6 +363,7 @@ key-expired-simple = Kluč je spadnył
 key-revoked-simple = Kluč je so wotwołał
 key-do-you-accept = Akceptujeće, zo so za tutón kluč digitalne signatury a zaklučowanje powěsćow přepruwuje?
 key-accept-warning = Njeakceptujće strašny kluč. Wužiwajće druhi komunikaciski kanal hač e-mejlowy kanal, zo byšće porstowy wotćišć kluča swojeho dopisowarja přepruwował.
+key-verification = Přepruwujće porstowy wućišć kluča z pomocu druheho wěsteho komunikaciskeho kanala hač e-mejl, zo byšće zawěsćił, zo kluč woprawdźe { $addr } słuša.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Njeje móžno powěsć słać, dokelž je problem z wašim wosobinskim klučom. { $problem }
 cannot-encrypt-because-missing = Njeje móžno, tutu powěsć ze zaklučowanjom kónc do kónca pósłác, dokelž su problemy z klučemi slědowacych přijimarjow: { $problem }
