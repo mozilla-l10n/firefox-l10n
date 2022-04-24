@@ -6,7 +6,9 @@ account-provisioner-tab-title = Lortu posta elektroniko helbide berria zerbitzu 
 provisioner-searching-icon =
     .alt = Bilatzen…
 account-provisioner-title = Sortu posta elektroniko berri bat
+account-provisioner-description = Erabili gure bazkide fidagarriak posta elektroniko helbide seguru eta pribatua lortzeko.
 account-provisioner-mail-account-title = Erosi posta elektroniko berri bat
+account-provisioner-mail-account-description = Thunderbird <a data-l10n-name="mailfence-home-link">Mailfence</a>kin bazkidetu da zuri posta elektroniko pribatu eta segurua eskaintzeko. Edonork posta elektroniko seguru bat behar duela sinisten dugu.
 account-provisioner-domain-title = Erosi posta helbidea eta domeinua zuretzat
 
 ## Forms
