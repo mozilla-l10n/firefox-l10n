@@ -4,6 +4,7 @@
 
 e2e-intro-description = Aby skoděrowane abo digitalnje signěrowane powěsći pósłał, musyśo koděrowańsku technologiju konfigurěrowaś, pak OpenPGP pak S/MIME.
 e2e-intro-description-more = Wubjeŕśo swój wósobinski kluc, aby wužywanje OpenPGP zmóžnił, abo wósobinski certifikat, aby wužywanje S/MIME zmóžnił. Za wósobinski kluc abo certifikat maśo wótpowědny pótajmny kluc.
+e2e-signing-description = Digitalna signatura dostawarjam zmóžnja, pśeglědowaś, až powěsć jo se wót was pósłała, a lěc jeje wopśimjeśe njejo se změniło. Skoděrowane powěsći se pśecej pó standarźe signěruju.
 e2e-sign-message =
     .label = Njeskoděrowane powěsći signěrowaś
     .accesskey = e
@@ -13,6 +14,7 @@ e2e-disable-enc =
 e2e-enable-enc =
     .label = Koděrowanje za nowe powěsći zmóžniś
     .accesskey = z
+e2e-enable-description = Móžośo koděrowanje za jadnotliwe powěsći znjemóžniś.
 e2e-advanced-section = Rozšyrjone nastajenja
 e2e-attach-key =
     .label = Mój zjawny kluc pśipowjesyś, gaž se digitalna signatura OpenPGP pśidawa
@@ -361,6 +363,7 @@ key-expired-simple = Kluc jo spadnuł
 key-revoked-simple = Kluc jo se wótwołał
 key-do-you-accept = Akceptěrujośo, až se za toś ten kluc digitalne signatury a koděrowanje powěsćow pśeglědujo?
 key-accept-warning = Njeakceptěrujśo tšašny kluc. Wužywajśo drugi komunikaciski kanal ako e-mailowy kanal, aby palcowy wótśišć kluca swójogo dopisowarja pśeglědował.
+key-verification = Pśeglědajśo palcowy wuśišć kluca z pomocu drugego wěstego komunikaciskego kanala ako e-mail, aby zawěsćił, až kluc napšawdu { $addr } słuša.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Njejo móžno powěsć słaś, dokulaž dajo problem z wašym wósobinskim klucom. { $problem }
 cannot-encrypt-because-missing = Njejo móžno, toś tu powěsć z koděrowanim kóńc do kóńca pósłác, dokulaž daju problemy z klucami slědujucych dostawarjow: { $problem }
