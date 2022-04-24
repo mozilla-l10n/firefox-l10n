@@ -172,9 +172,61 @@ no-reply-reply-anyway-button = Erantzun hala ere
 
 ## Spaces toolbar
 
+spaces-toolbar-element =
+    .toolbarname = Guneen tresna-barra
+    .aria-label = Guneen tresna-barra
+    .aria-description = Tresna-barra bertikala guneen artean aldatzeko. Erabili gezi teklak nabigatzeko botoi erabilgarrien artean.
+spaces-toolbar-button-mail2 =
+    .title = Posta
+spaces-toolbar-button-address-book2 =
+    .title = Helbide-liburua
+spaces-toolbar-button-calendar2 =
+    .title = Egutegia
+spaces-toolbar-button-tasks2 =
+    .title = Zereginak
+spaces-toolbar-button-chat2 =
+    .title = Txata
+spaces-toolbar-button-overflow =
+    .title = Gune gehiago...
+spaces-toolbar-button-settings2 =
+    .title = Ezarpenak
+spaces-toolbar-button-hide =
+    .title = Ezkutatu guneen tresna-barra
+spaces-toolbar-button-show =
+    .title = Erakutsi guneen tresna-barra
+spaces-context-new-tab-item =
+    .label = Ireki fitxa berrian
+spaces-context-new-window-item =
+    .label = Ireki leiho berrian
+# Variables:
+# $tabName (String) - The name of the tab this item will switch to.
+spaces-context-switch-tab-item =
+    .label = Aldatu { $tabName }(e)ra
+settings-context-open-settings-item =
+    .label = Ireki ezarpenak
+settings-context-open-account-settings-item =
+    .label = Ireki kontu-ezarpenak
+settings-context-open-addons-item =
+    .label = Ireki gehigarriak eta itxurak
 
 ## Spaces toolbar pinned tab menupopup
 
+spaces-toolbar-pinned-tab-button =
+    .tooltiptext = Guneen menua
+spaces-pinned-button-menuitem-mail =
+    .label = { spaces-toolbar-button-mail2.title }
+spaces-pinned-button-menuitem-address-book =
+    .label = { spaces-toolbar-button-address-book2.title }
+spaces-pinned-button-menuitem-calendar =
+    .label = { spaces-toolbar-button-calendar2.title }
+spaces-pinned-button-menuitem-tasks =
+    .label = { spaces-toolbar-button-tasks2.title }
+spaces-pinned-button-menuitem-chat =
+    .label = { spaces-toolbar-button-chat2.title }
+spaces-pinned-button-menuitem-settings =
+    .label = { spaces-toolbar-button-settings2.title }
+spaces-pinned-button-menuitem-show =
+    .label = { spaces-toolbar-button-show.title }
 
 ## Spaces toolbar customize panel
 
