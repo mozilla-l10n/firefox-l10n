@@ -101,6 +101,8 @@ collapse-attachment-pane-tooltip =
     .tooltiptext = Gorde eranskinen panela ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-show =
     .title = Erakutsi eranskinen panela ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+attachment-area-hide =
+    .title = Gorde eranskinen panela ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 drop-file-label-attachment =
     { $count ->
         [one] Gehitu eranskina bezala
@@ -132,6 +134,27 @@ message-to-be-signed-icon =
     .alt = Sinatu mezua
 message-to-be-encrypted-icon =
     .alt = Zifratu mezua
+encryption-menu =
+    .label = Segurtasuna
+    .accesskey = S
+encryption-toggle =
+    .label = Zifratu
+    .tooltiptext = Erabili muturretik muturrerako zifraketa mezu honetan
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = Erakutsi edo aldatu OpenPGP zifratze ezarpenak
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = Erakutsi edo aldatu S/MIME zifratze ezarpenak
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = O
+menu-smime =
+    .label = S/MIME
+    .accesskey = S
+menu-encrypt =
+    .label = Zifratu
+    .accesskey = Z
 
 ## Addressing Area
 
