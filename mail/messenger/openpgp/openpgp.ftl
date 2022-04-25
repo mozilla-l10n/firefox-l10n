@@ -4,6 +4,17 @@
 
 e2e-intro-description = To send encrypted or digitally signed messages, you need to configure an encryption technology, either OpenPGP or S/MIME.
 e2e-intro-description-more = Select your personal key to enable the use of OpenPGP, or your personal certificate to enable the use of S/MIME. For a personal key or certificate you own the corresponding secret key.
+e2e-signing-description = A digital signature allows recipients to verify that the message was sent by you and its content was not changed. Encrypted messages are always signed by default.
+e2e-sign-message =
+    .label = Sign unencrypted messages
+    .accesskey = u
+e2e-disable-enc =
+    .label = Disable encryption for new messages
+    .accesskey = D
+e2e-enable-enc =
+    .label = Enable encryption for new messages
+    .accesskey = n
+e2e-enable-description = You will be able to disable encryption for individual messages.
 e2e-advanced-section = Advanced settings
 e2e-attach-key =
     .label = Attach my public key when adding an OpenPGP digital signature
@@ -44,6 +55,8 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = Advanced…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">NOTE: Key generation may take up to several minutes to complete.</a> Do not exit the application while key generation is in progress. Actively browsing or performing disk-intensive operations during key generation will replenish the “randomness pool” and speed-up the process. You will be alerted when key generation is completed.
+openpgp-key-created-label =
+    .label = Created
 openpgp-key-expiry-label =
     .label = Expiry
 openpgp-key-id-label =
@@ -221,6 +234,7 @@ openpgp-key-details-structure-tab =
     .label = Structure
 openpgp-key-details-uid-certified-col =
     .label = User ID / Certified by
+openpgp-key-details-key-id-label = Key ID
 openpgp-key-details-user-id2-label = Alleged Key Owner
 openpgp-key-details-id-label =
     .label = ID
@@ -335,6 +349,7 @@ key-expired-simple = The key has expired
 key-revoked-simple = The key was revoked
 key-do-you-accept = Do you accept this key for verifying digital signatures and for encrypting messages?
 key-accept-warning = Avoid accepting a rogue key. Use a communication channel other than email to verify the fingerprint of your correspondent’s key.
+key-verification = Verify the fingerprint of the key using a secure communication channel other than email to make sure that it’s really the key of { $addr }.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Unable to send the message, because there is a problem with your personal key. { $problem }
 cannot-encrypt-because-missing = Unable to send this message with end-to-end encryption, because there are problems with the keys of the following recipients: { $problem }
