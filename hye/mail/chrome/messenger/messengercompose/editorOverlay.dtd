@@ -281,5 +281,19 @@
 <!ENTITY underlineToolbarCmd.tooltip "Ընդգծուած">
 <!ENTITY bulletListToolbarCmd.tooltip "Կիրառել կամ հեռացնել կետաւորուած ցանկը">
 <!ENTITY numberListToolbarCmd.tooltip "Կիրառել կամ հեռացնել թուաւորուած ցանկը">
+<!ENTITY outdentToolbarCmd.tooltip "Արտաքին գրոյթ (շարժել դէպի ձախ)">
+<!ENTITY indentToolbarCmd.tooltip "Ներքին գրոյթ (շարժել դէպի աջ)">
+<!ENTITY AlignPopupButton.tooltip "Ընտրել գրոյթի հաւասարեցումը">
+<!ENTITY InsertPopupButton.tooltip "Ներմուծէ՛ք յղում, խարիսխ, նկար, հորիզոնական գիծ կամ աղիւսակ">
+<!ENTITY alignLeftButton.tooltip "Հաւասարեցնել գրոյթը ձախ լուսանցքին">
+<!ENTITY alignCenterButton.tooltip "Հաւասարեցնել գրոյթը կենտրոնում">
+<!ENTITY alignRightButton.tooltip "Հաւասարեցնել գրոյթը աջ լուսանցքին">
+<!ENTITY alignJustifyButton.tooltip "Հաւասարեցնել գրոյթը աջ լուսանցքին">
 
 <!-- TOC manipulation -->
+<!ENTITY insertTOC.label          "Ներմուծել">
+<!ENTITY insertTOC.accesskey      "ն">
+<!ENTITY updateTOC.label          "Թարմացնել">
+<!ENTITY updateTOC.accesskey      "թ">
+<!ENTITY removeTOC.label          "Հեռացնել">
+<!ENTITY removeTOC.accesskey      "հ">
