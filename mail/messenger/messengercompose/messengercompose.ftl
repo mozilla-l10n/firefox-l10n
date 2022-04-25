@@ -89,6 +89,13 @@ context-menuitem-attach-files =
     .label = Atodi Ffeil(iau)…
     .accesskey = F
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = Fy vCard
+    .accesskey = v
+context-menuitem-attach-openpgp-key =
+    .label = Fy Allwedd Gyhoeddus OpenPGP
+    .accesskey = O
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
@@ -147,6 +154,33 @@ message-to-be-signed-icon =
     .alt = Llofnodi neges
 message-to-be-encrypted-icon =
     .alt = Amgryptio neges
+encryption-menu =
+    .label = Diogelwch
+    .accesskey = D
+encryption-toggle =
+    .label = Amgryptio
+    .tooltiptext = Defnyddio amgryptiad ben-i-ben ar gyfer y neges yma
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = Gweld neu newid gosodiadau amgryptio OpenPGP
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = Gweld neu newid goodiadau amgryptio S/MIME
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = O
+menu-smime =
+    .label = S/MIME
+    .accesskey = S
+menu-encrypt =
+    .label = Amgryptio
+    .accesskey = A
+menu-encrypt-subject =
+    .label = Amgryptio Pwnc
+    .accesskey = p
+menu-sign =
+    .label = Llofnodi Digidol
+    .accesskey = L
 
 ## Addressing Area
 
