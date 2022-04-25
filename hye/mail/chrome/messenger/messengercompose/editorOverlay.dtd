@@ -108,9 +108,31 @@
 <!ENTITY styleAbbr.label "Կրճատում">
 <!ENTITY styleAbbr.accesskey "Կ">
 <!ENTITY styleAcronym.label "Յապաւում">
+<!ENTITY styleAcronym.accesskey "r">
+<!ENTITY styleCode.label "Այղագիր">
+<!ENTITY styleCode.accesskey "o">
+<!ENTITY styleSamp.label "Նմուշի արդիւնք">
+<!ENTITY styleSamp.accesskey "ու">
+<!ENTITY styleVar.label "Փոփոխական">
+<!ENTITY styleVar.accesskey "Փ">
 
+<!ENTITY formatFontColor.label "Գրոյթի գոյն…">
+<!ENTITY formatFontColor.accesskey "Գ">
+<!ENTITY tableOrCellColor.label "Աղիւսակի եւ վանդակի յետնապատկերի գոյնը...">
+<!ENTITY tableOrCellColor.accesskey "Յ">
 
+<!ENTITY formatRemoveStyles.key "Y">
+<!ENTITY formatRemoveLinks.key "K">
+<!ENTITY formatRemoveNamedAnchors.label "Հեռացնել անուանուած խարիսխները">
+<!ENTITY formatRemoveNamedAnchors.accesskey "Հ">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
+<!ENTITY paragraphMenu.label "Պարբերութիւն">
+<!ENTITY paragraphMenu.accesskey "Պ">
+<!ENTITY paragraphParagraphCmd.label "Պարբերութիւն">
+<!ENTITY paragraphParagraphCmd.accesskey "Պ">
+<!ENTITY heading1Cmd.label "Վերնագիր 1">
+<!ENTITY heading1Cmd.accesskey "1">
 
 <!-- List menu items -->
 
