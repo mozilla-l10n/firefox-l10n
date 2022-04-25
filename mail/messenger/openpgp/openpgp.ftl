@@ -349,6 +349,7 @@ key-expired-simple = La clave ya expiró
 key-revoked-simple = La clave fue revocada
 key-do-you-accept = ¿Acepta está clave para verificar firmas digitales y para cortar mensajes?
 key-accept-warning = Evite aceptar una clave falsa. Utilice un canal de comunicación que no sea el correo electrónico para verificar la huella digital de la clave de su interlocutor.
+key-verification = Verifique la huella digital de la clave utilizando un canal de comunicación seguro que no sea el correo electrónico para asegurarse de que realmente sea la clave de { $addr }.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = No se puede enviar el mensaje porque hay un problema con su clave personal. { $problem }
 cannot-encrypt-because-missing = No se puede enviar este mensaje cifardo de punta a punta porque hay problemas con las claves de los siguientes destinatarios: { $problem }
