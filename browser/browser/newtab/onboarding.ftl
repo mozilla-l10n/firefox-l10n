@@ -343,7 +343,7 @@ fx100-thank-you-pin-primary-button-label =
         [macos] Закріпити { -brand-short-name } у Dock
        *[other] Закріпити { -brand-short-name } на панелі завдань
     }
-fx100-upgrade-thanks-header = 100 Дякуємо вам
+fx100-upgrade-thanks-header = 100 разів дякуємо вам
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Це наш 100-й випуск { -brand-short-name }. Дякуємо <em>вам</em> за допомогу в створенні кращого та здоровішого інтернету.
