@@ -192,24 +192,94 @@
 <!ENTITY decreaseIndent.accesskey "Փ">
 <!ENTITY decreaseIndent.key "[">
 
+<!ENTITY colorsAndBackground.label "Էջի գոյները եւ յետնապատկերը…">
+<!ENTITY colorsAndBackground.accesskey "կ">
 
 <!-- Table Menu -->
+<!ENTITY tableMenu.label "Աղիւսակ">
+<!ENTITY tableMenu.accesskey "իւ">
 
 <!-- Select Submenu -->
+<!ENTITY tableSelectMenu.label "Ընտրել">
+<!ENTITY tableSelectMenu.accesskey "Ը">
 
+<!ENTITY tableSelectMenu2.label "Ընտրել աղիւսակ">
+<!ENTITY tableSelectMenu2.accesskey "Ը">
+<!ENTITY tableInsertMenu2.label "Ներմուծել աղիւսակ">
+<!ENTITY tableInsertMenu2.accesskey "Ն">
+<!ENTITY tableDeleteMenu2.label "Ջնջել աղիւսակը">
+<!ENTITY tableDeleteMenu2.accesskey "Ջ">
 
 <!-- Insert SubMenu -->
+<!ENTITY tableInsertMenu.label "Ներմուծել">
+<!ENTITY tableInsertMenu.accesskey "Ն">
+<!ENTITY tableTable.label "Աղիւսակ">
+<!ENTITY tableTable.accesskey "Ա">
+<!ENTITY tableRow.label "Տող">
+<!ENTITY tableRows.label "Տողեր">
+<!ENTITY tableRow.accesskey "Տ">
+<!ENTITY tableRowAbove.label "Տողը վերեւում">
+<!ENTITY tableRowAbove.accesskey "Տ">
+<!ENTITY tableRowBelow.label "Տողը ներքեւում">
+<!ENTITY tableRowBelow.accesskey "Ն">
+<!ENTITY tableColumn.label "Սիւնակ">
+<!ENTITY tableColumns.label "Սիւնակ(ներ)">
+<!ENTITY tableColumn.accesskey "իւ">
+<!ENTITY tableColumnBefore.label "Մինչ սիւնը">
+<!ENTITY tableColumnBefore.accesskey "ի">
+<!ENTITY tableColumnAfter.label "Սիւնից յետոյ">
+<!ENTITY tableColumnAfter.accesskey "Յ">
+<!ENTITY tableCell.label "Վանդակ">
+<!ENTITY tableCells.label "Վանդակ(ներ)">
+<!ENTITY tableCell.accesskey "Վ">
+<!ENTITY tableCellContents.label "Վանդակի պարունակութիւնը">
+<!ENTITY tableCellContents.accesskey "ն">
+<!ENTITY tableAllCells.label "Բոլոր վանդակները">
+<!ENTITY tableAllCells.accesskey "Բ">
+<!ENTITY tableCellBefore.label "Մինչ վանդակը">
+<!ENTITY tableCellBefore.accesskey "Վ">
+<!ENTITY tableCellAfter.label "Վանդակից յետոյ">
+<!ENTITY tableCellAfter.accesskey "ե">
 <!-- Delete SubMenu -->
+<!ENTITY tableDeleteMenu.label "Ջնջել">
+<!ENTITY tableDeleteMenu.accesskey "Ջ">
 
 <!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
+<!ENTITY tableJoinCells.label "j">
+<!ENTITY tableJoinCells.accesskey "j">
+<!ENTITY tableSplitCell.label "Կտրել վանդակը">
+<!ENTITY tableSplitCell.accesskey "Վ">
+<!ENTITY convertToTable.label "Ստեղծել աղիւսակ ընտրուածից">
+<!ENTITY convertToTable.accesskey "տ">
+<!ENTITY tableProperties.label "Աղիւսակի յատկութիւնները…">
+<!ENTITY tableProperties.accesskey "տ">
 
 <!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Պատկեր">
+<!ENTITY imageToolbarCmd.tooltip "Ներմուծել նոր նկար կամ խմբագրել նկարի յատկութիւնները">
+<!ENTITY hruleToolbarCmd.label "Հ.Գիծ">
+<!ENTITY hruleToolbarCmd.tooltip "Ներմուծէ՛ք հորիզոնական գիծ կամ խմբագրէ՛ք ընտրուած տողի յատկութիւնները">
+<!ENTITY tableToolbarCmd.label "Աղիւսակ">
+<!ENTITY tableToolbarCmd.tooltip "Ներմուծէ՛ք նոր աղիւսակ կամ խմբագրէ՛ք աղիւսակի յատկութիւնները">
+<!ENTITY linkToolbarCmd.label "Յղում">
+<!ENTITY linkToolbarCmd.tooltip "Ներմուծէ՛ք նոր յղում կամ խմբագրէ՛ք ընտրուած յղման յատկութիւնները">
+<!ENTITY anchorToolbarCmd.label "Խարիսխ">
+<!ENTITY anchorToolbarCmd.tooltip "Ներմուծէ՛ք նոր անունով խարիսխ կամ խմբագրէ՛ք ընտրուած խարիսխի յատկութիւնները">
+<!ENTITY TextColorButton.tooltip "Ընտրէք գրոյթի գոյնը">
+<!ENTITY BackgroundColorButton.tooltip "Ընտրէ՛ք գոյն յետնապատկերի համար">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Սահմանէ՛ք տառաչափը">
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Տառատեսակի փոքր չափ">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Տառատեսակի մեծ չափ">
+<!ENTITY boldToolbarCmd.tooltip "Թաւ">
+<!ENTITY italicToolbarCmd.tooltip "Շեղ">
+<!ENTITY underlineToolbarCmd.tooltip "Ընդգծուած">
+<!ENTITY bulletListToolbarCmd.tooltip "Կիրառել կամ հեռացնել կետաւորուած ցանկը">
+<!ENTITY numberListToolbarCmd.tooltip "Կիրառել կամ հեռացնել թուաւորուած ցանկը">
 
 <!-- TOC manipulation -->
