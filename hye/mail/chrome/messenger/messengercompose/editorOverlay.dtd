@@ -5,8 +5,16 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- Edit menu items -->
+<!ENTITY pasteNoFormatting.label "Տեղադրել առանց փոփոխման">
+<!ENTITY pasteNoFormatting.accesskey "n">
+<!ENTITY pasteNoFormatting.key "V">
+<!ENTITY pasteAsQuotationCmd.label "Տեղադրել որպէս մէջբերում">
+<!ENTITY pasteAsQuotationCmd.accesskey "Մ">
 
 <!-- Insert menu items -->
+<!ENTITY insertMenu.label "Արտածել">
+<!ENTITY insertMenu.accesskey "Ա">
+<!ENTITY insertLinkCmd2.label "Յղում…">
 <!ENTITY insertImageCmd.label "Պատկեր…">
 
 <!-- Used just in context popup. -->
