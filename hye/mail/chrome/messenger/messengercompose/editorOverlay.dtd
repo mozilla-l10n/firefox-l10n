@@ -26,17 +26,80 @@
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertMathCmd.label "Մաթեմատիկայ…">
 <!ENTITY insertMathCmd.accesskey "Մ">
+<!ENTITY insertCharsCmd.label "Գրանշաններ եւ սիմւոլներ…">
+<!ENTITY insertCharsCmd.accesskey "Գ">
+<!ENTITY insertBreakAllCmd.label "Կտրէ՛ք պատկերը(ները) ներքեւում">
+<!ENTITY insertBreakAllCmd.accesskey "k">
 
 <!-- Used just in context popup. -->
+<!ENTITY createLinkCmd.label "Ստեղծել յղում…">
+<!ENTITY createLinkCmd.accesskey "k">
+<!ENTITY editLinkCmd.label "Խմբագրել յղումը «Նոր կոմպոզիտոր»-ում">
+<!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.tooltip "Ընտրել տառատեսակ">
+<!ENTITY fontfaceMenu.label "Տառատեսակ">
+<!ENTITY fontfaceMenu.accesskey "Տ">
+<!ENTITY fontVarWidth.label "Փոփոխական լայնութիւն">
+<!ENTITY fontVarWidth.accesskey "Փ">
+<!ENTITY fontFixedWidth.label "Հաստատուն լայնութիւն">
+<!ENTITY fontFixedWidth.accesskey "ս">
+<!ENTITY fontFixedWidth.key "T">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey "l">
+<!ENTITY fontTimes.label "Times">
+<!ENTITY fontTimes.accesskey "T">
+<!ENTITY fontCourier.label "Courier">
+<!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
- <!-- < is above this key on many keyboards -->
- <!-- > is above this key on many keyboards -->
+<!ENTITY FontSizeSelect.tooltip "Ընտրել տառատեսակի չափը">
+<!ENTITY decreaseFontSize.label "Աւելի փոքր">
+<!ENTITY decreaseFontSize.accesskey "ր">
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY increaseFontSize.label "Աւելի մեծ">
+<!ENTITY increaseFontSize.accesskey "լ">
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
+<!ENTITY fontSizeMenu.label "Չափ">
+<!ENTITY fontSizeMenu.accesskey "փ">
+<!ENTITY size-tinyCmd.label "Փոքրիկ">
+<!ENTITY size-tinyCmd.accesskey "Փ">
+<!ENTITY size-smallCmd.label "Փոքր">
+<!ENTITY size-smallCmd.accesskey "Փ">
+<!ENTITY size-mediumCmd.label "Միջին">
+<!ENTITY size-mediumCmd.accesskey "Մ">
+<!ENTITY size-largeCmd.label "Մեծ">
+<!ENTITY size-largeCmd.accesskey "Մ">
+<!ENTITY size-extraLargeCmd.label "Շատ մեծ">
+<!ENTITY size-extraLargeCmd.accesskey "ա">
+<!ENTITY size-hugeCmd.label "Հսկայական">
+<!ENTITY size-hugeCmd.accesskey "Հ">
 
 <!-- Font Style SubMenu -->
+<!ENTITY fontStyleMenu.label "Գրոյթի ոճ">
+<!ENTITY fontStyleMenu.accesskey "Ո">
+<!ENTITY styleBoldCmd.label "Թաւ">
+<!ENTITY styleBoldCmd.accesskey "Թ">
+<!ENTITY styleBoldCmd.key "B">
+<!ENTITY styleItalicCmd.label "Շեղագիր">
+<!ENTITY styleItalicCmd.accesskey "Շ">
+<!ENTITY styleItalicCmd.key "I">
+<!ENTITY styleUnderlineCmd.label "Ընդգծուած">
+<!ENTITY styleUnderlineCmd.accesskey "Ը">
+<!ENTITY styleUnderlineCmd.key "U">
+<!ENTITY styleStrikeThruCmd.label "Գծուած">
+<!ENTITY styleStrikeThruCmd.accesskey "ա">
+<!ENTITY styleSuperscriptCmd.label "վերնագրուածք">
+<!ENTITY styleSuperscriptCmd.accesskey "ր">
+<!ENTITY styleSubscriptCmd.label "Ենթագրուածք">
+<!ENTITY styleSubscriptCmd.accesskey "Ե">
+<!ENTITY styleNonbreakingCmd.label "Չընդհատուող">
+<!ENTITY styleNonbreakingCmd.accesskey "Չ">
+<!ENTITY styleEm.label "Շեշտադրում">
 
 
 
