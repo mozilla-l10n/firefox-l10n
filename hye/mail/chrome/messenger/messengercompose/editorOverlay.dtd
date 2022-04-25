@@ -18,6 +18,14 @@
 <!ENTITY insertLinkCmd2.accesskey "Յ">
 <!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertImageCmd.label "Պատկեր…">
+<!ENTITY insertHLineCmd.label "Հորիզոնական տող">
+<!ENTITY insertHLineCmd.accesskey "ո">
+<!ENTITY insertTableCmd.label "Աղիւսակ">
+<!ENTITY insertTableCmd.accesskey "Ա">
+<!ENTITY insertHTMLCmd.label "HTML…">
+<!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Մաթեմատիկայ…">
+<!ENTITY insertMathCmd.accesskey "Մ">
 
 <!-- Used just in context popup. -->
 
