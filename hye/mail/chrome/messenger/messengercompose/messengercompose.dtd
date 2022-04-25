@@ -3,9 +3,31 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "Գրել․ (առանց թեմայի)">
 
 <!-- File Menu -->
+<!ENTITY fileMenu.label "Նիշ">
+<!ENTITY fileMenu.accesskey "ն">
+<!ENTITY newMenu.label "Նոր">
+<!ENTITY newMenu.accesskey "Ն">
+<!ENTITY newMessage.label "Հաղորդագրութիւն">
+<!ENTITY newMessage.accesskey "Հ">
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newContact.label "Հասցէագրքի կապորդ…">
+<!ENTITY newContact.accesskey "Կ">
+<!ENTITY attachMenu.label "Կցել">
+<!ENTITY attachMenu.accesskey "լ">
+<!ENTITY attachCloudCmd.label "Նիշի յղում">
+<!ENTITY attachCloudCmd.accesskey "ի">
+<!ENTITY attachPageCmd.label "Վեբ էջ…">
+<!ENTITY attachPageCmd.accesskey "Վ">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "Անձնական քարտ (vCard)">
+<!ENTITY attachVCardCmd.accesskey "Ա">
+<!ENTITY remindLater.label "Յիշեցնել աւելի ուշ">
+<!ENTITY remindLater.accesskey "Ու">
+<!ENTITY closeCmd.label "Փակել">
+<!ENTITY closeCmd.key "W">
 
 <!-- Edit Menu -->
 

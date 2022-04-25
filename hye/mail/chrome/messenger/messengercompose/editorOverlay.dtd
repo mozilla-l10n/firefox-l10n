@@ -17,7 +17,10 @@
 <!ENTITY insertLinkCmd2.label "Յղում…">
 <!ENTITY insertLinkCmd2.accesskey "Յ">
 <!ENTITY insertLinkCmd2.key "K">
+<!ENTITY insertAnchorCmd.label "Անուանուած խարիսխ…">
+<!ENTITY insertAnchorCmd.accesskey "Ա">
 <!ENTITY insertImageCmd.label "Պատկեր…">
+<!ENTITY insertImageCmd.accesskey "Պ">
 <!ENTITY insertHLineCmd.label "Հորիզոնական տող">
 <!ENTITY insertHLineCmd.accesskey "ո">
 <!ENTITY insertTableCmd.label "Աղիւսակ">
@@ -297,3 +300,5 @@
 <!ENTITY updateTOC.accesskey      "թ">
 <!ENTITY removeTOC.label          "Հեռացնել">
 <!ENTITY removeTOC.accesskey      "հ">
+<!ENTITY tocMenu.label            "Պարունակութեան աղիւսակը…">
+<!ENTITY tocMenu.accesskey        "ս">

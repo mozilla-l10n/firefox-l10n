@@ -3,4 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY attachImageSource.label         "Կցել այս նկարը նամակին">
+<!ENTITY attachImageSource.accesskey     "ս">
 
+<!ENTITY attachLinkSource.label          "Կցել այս յղման աղբեւրը նամակին">
+<!ENTITY attachLinkSource.accesskey      "ս">
