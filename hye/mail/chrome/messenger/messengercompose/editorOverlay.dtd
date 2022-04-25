@@ -100,6 +100,14 @@
 <!ENTITY styleNonbreakingCmd.label "Չընդհատուող">
 <!ENTITY styleNonbreakingCmd.accesskey "Չ">
 <!ENTITY styleEm.label "Շեշտադրում">
+<!ENTITY styleEm.accesskey "Շ">
+<!ENTITY styleStrong.label "Խիստ շեշտադրում">
+<!ENTITY styleStrong.accesskey "ի">
+<!ENTITY styleCite.label "Մէջբերում">
+<!ENTITY styleCite.accesskey "Մ">
+<!ENTITY styleAbbr.label "Կրճատում">
+<!ENTITY styleAbbr.accesskey "Կ">
+<!ENTITY styleAcronym.label "Յապաւում">
 
 
 
