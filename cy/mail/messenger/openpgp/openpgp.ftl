@@ -4,6 +4,17 @@
 
 e2e-intro-description = I anfon negeseuon wedi'u hamgryptio neu wedi'u llofnodi'n ddigidol, mae angen i chi ffurfweddu technoleg amgryptio, naill ai OpenPGP neu S / MIME.
 e2e-intro-description-more = Dewiswch eich allwedd bersonol i alluogi defnyddio OpenPGP, neu'ch tystysgrif bersonol i alluogi defnyddio S/MIME. Ar gyfer allwedd neu dystysgrif bersonol chi sy'n berchen ar yr allwedd gyfrinachol gyfatebol.
+e2e-signing-description = Mae llofnod digidol yn caniatáu i dderbynwyr wirio bod y neges wedi'i hanfon gennych chi ac nad yw'r cynnwys wedi'i newid. Mae negeseuon amgryptiedig wedi eu llofnodi drwy ragosodiad.
+e2e-sign-message =
+    .label = Llofnodi negeseuon heb eu hamgryptio
+    .accesskey = h
+e2e-disable-enc =
+    .label = Analluogi amgryptio ar gyfer negeseuon newydd
+    .accesskey = A
+e2e-enable-enc =
+    .label = Galluogi amgryptio ar gyfer negeseuon newydd
+    .accesskey = G
+e2e-enable-description = Byddwch yn gallu analluogi amgryptio ar gyfer negeseuon unigol.
 e2e-advanced-section = Gosodiadau uwch
 e2e-attach-key =
     .label = Atodwch fy allwedd gyhoeddus wrth ychwanegu llofnod digidol OpenPGP
@@ -44,6 +55,8 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = Uwch…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">SYLWCH: Gall cynhyrchu allweddol gymryd rhai munudau i'w gwblhau.</a> Peidiwch â gadael y rhaglen tra bo'r allwedd yn cael ei gynhyrchu. Bydd pori neu berfformio gweithrediadau disg-ddwys yn ystod cynhyrchu'r allwedd yn ailgyflenwi'r 'gronfa ar hap' ac yn cyflymu'r broses. Cewch eich rhybuddio pan fydd cynhyrchu'r allweddol wedi'i gwblhau.
+openpgp-key-created-label =
+    .label = Crëwyd
 openpgp-key-expiry-label =
     .label = Dod i ben
 openpgp-key-id-label =
@@ -245,6 +258,7 @@ openpgp-key-details-structure-tab =
     .label = Strwythur
 openpgp-key-details-uid-certified-col =
     .label = ID Defnyddiwr / Ardystiedig gan
+openpgp-key-details-key-id-label = ID Allwedd
 openpgp-key-details-user-id2-label = Perchennog Honedig Allwedd
 openpgp-key-details-id-label =
     .label = ID
@@ -363,6 +377,7 @@ key-expired-simple = Mae'r allwedd wedi dod i ben
 key-revoked-simple = Mae'r allwedd wedi'i dirymu
 key-do-you-accept = Ydych chi'n derbyn yr allwedd hon ar gyfer gwirio llofnodion digidol ac ar gyfer amgryptio negeseuon?
 key-accept-warning = Peidiwch â derbyn allweddi twyllodrus. Defnyddiwch sianel gyfathrebu heblaw e-bost i wirio bysbrint allwedd eich gohebydd.
+key-verification = Dilyswch bysbrint yr allwedd gan ddefnyddio sianel gyfathrebu ddiogel ar wahân i e-bost i wneud yn siŵr mai dyma allwedd go iawn { $addr }.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Methu anfon y neges, oherwydd mae problem gyda'ch allwedd bersonol. { $problem }
 cannot-encrypt-because-missing = Methu anfon y neges hon gydag amgryptio pen-i-ben, oherwydd mae problemau gydag allweddi'r derbynwyr canlynol: { $problem }
