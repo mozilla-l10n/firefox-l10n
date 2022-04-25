@@ -181,6 +181,27 @@ menu-encrypt-subject =
 menu-sign =
     .label = Llofnodi Digidol
     .accesskey = L
+menu-manage-keys =
+    .label = Cynorthwy-ydd Allwedd
+    .accesskey = C
+menu-view-certificates =
+    .label = Gweld Tystysgrifau Derbynwyr
+    .accesskey = G
+menu-open-key-manager =
+    .label = Rheolwr Allwedd
+    .accesskey = R
+openpgp-key-issue-notification-one = Mae amgryptio pen-i-ben yn gofyn am ddatrys materion allweddi ar gyfer { $addr }
+openpgp-key-issue-notification-many = Mae amgryptio pen-i-ben yn gofyn am ddatrys materion allweddi ar gyfer { $count } derbynnydd.
+smime-cert-issue-notification-one = Mae amgryptio pen-i-ben yn gofyn am ddatrys materion tystysgrifau ar gyfer { $addr }.
+smime-cert-issue-notification-many = Mae amgryptio pen-i-ben yn gofyn am ddatrys materion tystysgrifau ar gyfer { $count } derbynnydd.
+key-notification-disable-encryption =
+    .label = Peidio ag Amgryptio
+    .accesskey = P
+    .tooltiptext = Analluogi amgryptio pen-i-ben
+key-notification-resolve =
+    .label = Datrys...
+    .accesskey = D
+    .tooltiptext = Agor Cynorthwydd Allweddi OpenPGP
 
 ## Addressing Area
 
