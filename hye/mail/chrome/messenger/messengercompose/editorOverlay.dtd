@@ -15,6 +15,8 @@
 <!ENTITY insertMenu.label "Արտածել">
 <!ENTITY insertMenu.accesskey "Ա">
 <!ENTITY insertLinkCmd2.label "Յղում…">
+<!ENTITY insertLinkCmd2.accesskey "Յ">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertImageCmd.label "Պատկեր…">
 
 <!-- Used just in context popup. -->
