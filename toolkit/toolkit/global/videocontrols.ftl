@@ -12,14 +12,38 @@ videocontrols-volume-control =
     .aria-label = Garsas
 videocontrols-closed-caption-button =
     .aria-label = Titrai
+videocontrols-play-button =
+    .aria-label = Groti
+videocontrols-pause-button =
+    .aria-label = Pristabdyti
+videocontrols-mute-button =
+    .aria-label = Išjungti garsą
+videocontrols-unmute-button =
+    .aria-label = Įjungti garsą
 videocontrols-enterfullscreen-button =
     .aria-label = Visas ekranas
 videocontrols-exitfullscreen-button =
     .aria-label = Normalioji veiksena
 videocontrols-casting-button-label =
     .aria-label = Nukreipti į ekraną
+videocontrols-closed-caption-off =
+    .offlabel = Išjungta
 videocontrols-error-aborted = Vaizdo įkėlimas sustabdytas.
 videocontrols-error-network = Vaizdo atkūrimas nutrauktas dėl tinklo klaidos.
+videocontrols-error-decode = Vaizdo leisti neįmanoma, nes failas sugadintas.
 videocontrols-error-src-not-supported = Vaizdo formatas arba MIME tipas nepalaikomas.
 videocontrols-error-no-source = Nerastas palaikomo formato ir MIME tipo vaizdas.
 videocontrols-error-generic = Vaizdo atkūrimas nutrauktas dėl nežinomos klaidos.
+# This message shows the current position and total video duration
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+#
+# For example, when at the 5 minute mark in a 6 hour long video,
+# $position would be "5:00" and $duration would be "6:00:00", result
+# string would be "5:00 / 6:00:00". Note that $duration is not always
+# available. For example, when at the 5 minute mark in an unknown
+# duration video, $position would be "5:00" and the string which is
+# surrounded by <span> would be deleted, result string would be "5:00".
+videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
