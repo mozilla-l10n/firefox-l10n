@@ -28,9 +28,26 @@ videocontrols-casting-button-label =
     .aria-label = Képernyőre vetítés
 videocontrols-closed-caption-off =
     .offlabel = Ki
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = Kép a képben
 videocontrols-error-aborted = A videó betöltése leállt.
 videocontrols-error-network = A videólejátszás leállt hálózati hiba miatt.
 videocontrols-error-decode = A videót nem lehet lejátszani, mert a fájl sérült.
 videocontrols-error-src-not-supported = A videó formátuma vagy MIME-típusa nem támogatott.
 videocontrols-error-no-source = Nincs támogatott formátumú vagy MIME-típusú videó.
 videocontrols-error-generic = A videólejátszás leállt ismeretlen hiba miatt.
+videocontrols-status-picture-in-picture = Ez a videó kép a képben módban van lejátszva.
+# This message shows the current position and total video duration
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+#
+# For example, when at the 5 minute mark in a 6 hour long video,
+# $position would be "5:00" and $duration would be "6:00:00", result
+# string would be "5:00 / 6:00:00". Note that $duration is not always
+# available. For example, when at the 5 minute mark in an unknown
+# duration video, $position would be "5:00" and the string which is
+# surrounded by <span> would be deleted, result string would be "5:00".
+videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
