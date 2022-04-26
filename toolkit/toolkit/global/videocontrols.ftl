@@ -31,9 +31,18 @@ videocontrols-closed-caption-off =
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = תמונה בתוך תמונה
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = צפייה בתמונה בתוך תמונה
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer = הפעלת סרטונים ברקע בזמן שעושים דברים אחרים ב־{ -brand-short-name }
 videocontrols-error-aborted = טעינת הווידאו הופסקה.
 videocontrols-error-network = נגינת הוידאו הופסקה בעקבות שגיאת רשת.
 videocontrols-error-decode = לא ניתן לנגן את הוידאו מכיוון שהקובץ פגום.
+videocontrols-error-src-not-supported = תבנית הווידאו או סוג ה־MIME אינו נתמך.
+videocontrols-error-no-source = לא נמצא וידאו עם תבנית וסוג MIME נתמכים.
 videocontrols-error-generic = נגינת הוידאו הופסקה בעקבות שגיאה לא ידועה.
 videocontrols-status-picture-in-picture = סרטון זה מתנגן במצב תמונה בתוך תמונה.
 # This message shows the current position and total video duration
