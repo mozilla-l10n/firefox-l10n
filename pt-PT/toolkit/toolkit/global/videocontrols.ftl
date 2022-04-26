@@ -12,3 +12,5 @@ videocontrols-volume-control =
     .aria-label = Volume
 videocontrols-closed-caption-button =
     .aria-label = Legendas de áudio
+videocontrols-play-button =
+    .aria-label = Reproduzir
