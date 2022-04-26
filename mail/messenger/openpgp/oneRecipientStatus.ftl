@@ -26,3 +26,7 @@ openpgp-key-undecided = Não aceita (pendente)
 openpgp-key-rejected = Não aceita (rejeitada)
 openpgp-key-expired = Expirado
 openpgp-intro = Chaves públicas disponíveis de { $key }
+openpgp-pubkey-import-id = ID: { $kid }
+pubkey-import-button =
+    .buttonlabelaccept = Importar
+    .buttonaccesskeyaccept = I
