@@ -28,12 +28,23 @@ videocontrols-casting-button-label =
     .aria-label = ਸਕਰੀਨ ਉੱਤੇ ਕਾਸਟ ਕਰੋ
 videocontrols-closed-caption-off =
     .offlabel = ਬੰਦ
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = ਤਸਵੀਰ-‘ਚ-ਤਸਵੀਰ
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਢੰਗ ਵਿੱਚ ਵੇਖੋ
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer = ਜਦੋਂ ਤੁਸੀਂ { -brand-short-name } ਵਿੱਚ ਹੋਰ ਕੰਮ ਕਰ ਰਹੇ ਹੋਵੋ ਤਾਂ ਵੀਡੀਓ ਨੂੰ ਸਾਹਮਣੇ ਚੱਲਦੀ ਰੱਖੋ
 videocontrols-error-aborted = ਵੀਡੀਓ ਲੋਡ ਹੋਣ ਤੋਂ ਰੁਕ ਗਈ ਹੈ
 videocontrols-error-network = ਨੈੱਟਵਰਕ ਗਲਤੀ ਕਰਕੇ ਵਿਡੀਓ ਪਲੇਅਬੈਕ ਨੂੰ ਅਧੂਰਾ ਛੱਡਿਆ।
 videocontrols-error-decode = ਫਾਈਲ ਖਰਾਬ ਹੋਣ ਕਰਕੇ ਵਿਡੀਓ ਚਲਾਈ ਨਹੀਂ ਜਾ ਸਕਦੀ।
 videocontrols-error-src-not-supported = ਵਿਡੀਓ ਫਾਰਮੈਟ ਜਾਂ MIME ਕਿਸਮ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।
 videocontrols-error-no-source = ਸਹਾਇਕ ਫਾਰਮੈਟ ਤੇ MIME ਕਿਸਮ ਵਾਲੀ ਕੋਈ ਵਿਡੀਓ ਨਹੀਂ ਲੱਭੀ।
 videocontrols-error-generic = ਵੀਡੀਓ ਪਲੇਅਬੈਕ ਨੂੰ ਅਣਜਾਣ ਕਾਰਨ ਕਰਕੇ ਛੱਡਿਆ ਗਿਆ।
+videocontrols-status-picture-in-picture = ਇਹ ਵਿਡੀਓ ਤਸਵੀਰ-'ਚ-ਤਸਵੀਰ ਢੰਗ ਚੱਲ ਰਿਹਾ ਹੈ।
 # This message shows the current position and total video duration
 #
 # Variables:
