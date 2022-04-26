@@ -4,9 +4,9 @@
 
 <!ENTITY pane.title                   "Վերադարձնել ստացականները">
 <!ENTITY useGlobalPrefs.label         "Աւգտագոչծել իմ ընդհանուր վերադարձուած ստացականների նախընտրութիւններն այս հաշուի համար">
-<!ENTITY useGlobalPrefs.accesskey     "U">
+<!ENTITY useGlobalPrefs.accesskey     "Աւ">
 <!ENTITY globalReceipts.label         "Ընդհանուր նախընտրութիւններ…">
-<!ENTITY globalReceipts.accesskey     "G">
+<!ENTITY globalReceipts.accesskey     "Հ">
 <!ENTITY useCustomPrefs.label         "Յարմարեցնել ստացականների վերադարձը այս հաշուի համար">
 <!ENTITY useCustomPrefs.accesskey     "C">
 <!ENTITY requestReceipt.label         "Երբ ուղարկում էք հաղորդագրութիւններ, միշտ հայցէք վերադարձնել ստացականներ">

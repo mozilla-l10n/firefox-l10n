@@ -4,8 +4,8 @@
 
 <!ENTITY window.title "Կարգաւորել գլխագրերը">
 <!ENTITY addButton.label "Աւելացնել">
-<!ENTITY addButton.accesskey "A">
+<!ENTITY addButton.accesskey "Ա">
 <!ENTITY removeButton.label "Հեռացնել">
-<!ENTITY removeButton.accesskey "R">
+<!ENTITY removeButton.accesskey "Հ">
 <!ENTITY newMsgHeader.label "Նոր նամակի գլխագիրը.">
 <!ENTITY newMsgHeader.accesskey "N">

@@ -27,11 +27,9 @@
 <!ENTITY retentionKeepAll.label "Մի ջնջէք ցանկացած հաղորդագրութիւն">
 <!ENTITY retentionKeepAll.accesskey "n">
 <!ENTITY retentionKeepRecent.label "Ջնջել բոլորը բացի ամենավերջինից">
-<!ENTITY retentionKeepRecent.accesskey "b">
 <!ENTITY retentionApplyToFlagged.label "Միշտ պահել աստղանշուած հաղորդագրութիւնները">
 <!ENTITY retentionApplyToFlagged.accesskey "k">
 <!ENTITY nntpRemoveMsgBody.label "Հեռացնել գրուածքներն հաղորդագրութիւններից աւելին քան">
-<!ENTITY nntpRemoveMsgBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "Նշէք տեղեկատու խմբերը՝ անցանց աւգտագործման համար…">
 <!ENTITY offlineSelectNntp.accesskey "Ն">
 <!ENTITY offlineImapAdvancedOffline.label "Բարելաւուած…">

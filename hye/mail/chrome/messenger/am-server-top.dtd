@@ -19,7 +19,6 @@
                 biffEnd.label   "minutes for new messages Check"
 -->
 <!ENTITY biffStart.label "Ստուգել իւրաքանչիւր նոր նամակի համար ">
-<!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "րոպէներ">
 <!ENTITY useIdleNotifications.label "Թոյղատրել սպասարկչի անմիջական ծանուցումները, երբ նոր հաղորդագրութիւններ էք ստանում">
 <!ENTITY useIdleNotifications.accesskey "w">
@@ -36,12 +35,10 @@
 <!ENTITY headersOnly.label "Դուրսբերոել միայն գլխագիրները">
 <!ENTITY headersOnly.accesskey "e">
 <!ENTITY deleteByAgeFromServer.label "Առաւելագոյնի համար">
-<!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "աւրեր">
 <!ENTITY deleteOnServer2.label "Մինչ դրանք ջնջեմ">
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Ինքնաբերաբար ներբեռնել նոր նամակները">
-<!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY deleteMessagePrefix.label "Երբ ես ջնջեմ հաղորդագրութիւնը,">
 <!ENTITY modelMoveToTrash.label "Տեղափոխէք այն այս պանակում.">
 <!ENTITY modelMoveToTrash.accesskey "o">
@@ -72,14 +69,12 @@
 <!ENTITY abbreviateOn.label "Ամբողջական անունները (աւրինակ՝ 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Յապաւել անունները (աւրինակ՝ 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Բարելաւուած…">
-<!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Գրոյթի լռելեայն կոդաւորում․">
 <!ENTITY localPath1.label "Տեղային գրացուցակ.">
 <!ENTITY localFolderPicker.label "Նշէք տեղային գրացուցակը">
 <!ENTITY browseFolder.label "Դիտարկել…">
-<!ENTITY browseFolder.accesskey "B">
+<!ENTITY browseFolder.accesskey "Դ">
 <!ENTITY browseNewsrc.label "Դիտարկել…">
-<!ENTITY browseNewsrc.accesskey "e">
 
 <!ENTITY accountTitle.label "Հաշուի կարգաւորումներ ">
 <!ENTITY accountSettingsDesc.label "Հետեւեալը յատուկ հաշիւ է։ Այստէղ չկայ դրա հետ համակցուած ինքնութիւններ:">

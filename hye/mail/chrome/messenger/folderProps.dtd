@@ -7,10 +7,10 @@
 <!ENTITY generalInfo.label                       "Ընդհանուր տեղեկութիւն">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Վերակառուցել վերջնական ֆայղի ցուցիչը">
 <!ENTITY folderRebuildSummaryFile2.label         "Վերականգնել պանակը">
-<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "Վ">
 <!ENTITY folderRebuildSummaryFile.explanation    "Երբեմն թղթապանակի ինդեքսի ֆայղը (.msf) վնասուում է եւ նամակները կարող են չերեւալ կամ ջնջուել, թղթապանակի վերականգնումը կարող է ուղղել այս սխալը։">
 <!ENTITY folderIncludeInGlobalSearch.label       "Ներառել հաղոդագրութիւները այս պանակում ՝ համաշխարհային որոնման արդիւնքների ներքոյ">
-<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "Հ">
 
 <!ENTITY retention.label "Պահպանման քաղաքականութիւն">
 <!ENTITY retentionUseAccount.label  "Աւգտագործել իմ հաշուի կարգաւորումները">
@@ -36,12 +36,10 @@
 <!ENTITY offlineFolder.check.label               "Ընտրել այս պանակը անցանց աւգտագործելու համար">
 <!ENTITY offlineFolder.check.accesskey           "Ը">
 <!ENTITY offlineFolder.button.label              "Ներբեռնել հիմա">
-<!ENTITY offlineFolder.button.accesskey          "Ն">
 
 <!ENTITY selectofflineNewsgroup.check.label      "Ընտրել այս տեղեկատուախումբը անցանց աւգտագործման համար">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
 <!ENTITY offlineNewsgroup.button.label           "Ներբեռնել հիմա">
-<!ENTITY offlineNewsgroup.button.accesskey       "D">
 
 <!ENTITY folderProps.name.label                  "Անուն՝">
 <!ENTITY folderProps.name.accesskey              "N">
@@ -53,7 +51,6 @@
 
 <!ENTITY folderSharingTab.label                  "Տարածում">
 <!ENTITY privileges.button.label                 "Արտաւնութիւններ…">
-<!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Դուք ունէք հետեւեալ թոյղտուութիւնները.">
 <!ENTITY folderOtherUsers.label                  "Միւսները, ում հասանելի է այս թղթապանակը․">
 <!ENTITY folderType.label                        "Թղթապանակի տեսակը․">

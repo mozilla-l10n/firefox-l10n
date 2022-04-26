@@ -7,25 +7,22 @@
 <!ENTITY serverDirectory.label "IMAP սպասարկչի գրացուցակ.">
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Ցուցադրել միայն բաժանորդագրուած պանակները">
-<!ENTITY usingSubscription.accesskey "w">
 <!ENTITY dualUseFolders.label "Սպասարկիչը աջակցում է այն պանակներին, որոնք պարունակում են ենթապանակներ եւ ուղերձներ">
 <!ENTITY dualUseFolders.accesskey "f">
 <!ENTITY maximumConnectionsNumber.label "Սպասարկչի միացման շտեմի առաւելագոյն թիւը">
-<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!ENTITY maximumConnectionsNumber.accesskey "Ա">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Այս նախընտրութիւնների հատկորոշումը Ձեր համակարգչի IMAP սպասարկչի անուանատարածքում է">
 <!ENTITY personalNamespace.label "Անձնական անուանատարածք.">
 <!ENTITY personalNamespace.accesskey "P">
 <!ENTITY publicNamespace.label "Հանրային (համաւգտագործուած).
 ">
-<!ENTITY publicNamespace.accesskey "u">
 <!ENTITY otherUsersNamespace.label "Այղ աւգտատէրեր.">
 <!ENTITY otherUsersNamespace.accesskey "O">
 <!ENTITY overrideNamespaces.label "Թոյղատրէք սպասարկչին վերագրել այս անուանատարածքում">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3DeferringDesc.label "Երբ ներբեռնուում է փոստը այս հաշուի սպասարկչում, գործածէք հետեւեալ պանակը նոր հաղորդագրութիւններ պահելու համար.">
 <!ENTITY accountInbox.label "Մուտքի արկղ այս հաշուի համար">
-<!ENTITY accountInbox.accesskey "s">
 <!ENTITY deferToServer.label "Մուտքի արկղ ուրիշ հաշուի համար">
 <!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "Ներառէք այս սպասարկչին, երբ ստանում էք նոր փոստ">
