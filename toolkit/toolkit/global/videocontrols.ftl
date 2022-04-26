@@ -14,5 +14,7 @@ videocontrols-closed-caption-button =
     .aria-label = Capsiynau Caeedig
 videocontrols-play-button =
     .aria-label = Chwarae
+videocontrols-pause-button =
+    .aria-label = Oedi
 videocontrols-mute-button =
     .aria-label = Tewi
