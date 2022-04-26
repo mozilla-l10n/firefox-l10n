@@ -28,12 +28,23 @@ videocontrols-casting-button-label =
     .aria-label = Lançar para o ecrã
 videocontrols-closed-caption-off =
     .offlabel = Desligado
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = Vídeo em janela flutuante
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = Ver o vídeo numa janela flutuante
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer = Reproduzir vídeo em primeiro plano enquanto faz outras coisas no { -brand-short-name }
 videocontrols-error-aborted = O carregamento do vídeo parou.
 videocontrols-error-network = Reprodução de vídeo abortada devido a um erro de rede.
 videocontrols-error-decode = O vídeo não pode ser reproduzido porque o ficheiro está danificado.
 videocontrols-error-src-not-supported = Formato de vídeo ou tipo MIME não suportado.
 videocontrols-error-no-source = Não foi encontrado nenhum vídeo com um formato e tipo MIME suportado.
 videocontrols-error-generic = Reprodução de vídeo abortada devido a um erro desconhecido.
+videocontrols-status-picture-in-picture = Este vídeo está a ser reproduzido numa janela flutuante.
 # This message shows the current position and total video duration
 #
 # Variables:
