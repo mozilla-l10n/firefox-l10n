@@ -38,20 +38,16 @@ menu-quit =
             [windows] х
            *[other] х
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Изход от { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Изход от { -brand-shorter-name }
-
 menu-about =
     .label = Относно { -brand-shorter-name }
     .accesskey = О
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Препратка по имейл…
     .accesskey = е
+menu-file-share-url =
+    .label = Споделяне
+    .accesskey = С
 menu-file-print-setup =
     .label = Настройки на отпечатване…
     .accesskey = Н
@@ -168,7 +167,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Основен стил
     .accesskey = О
-
 menu-view-repair-text-encoding =
     .label = Поправка на кодировката
     .accesskey = к
@@ -214,7 +212,6 @@ menu-history-undo-menu =
     .label = Последно затворени раздели
 menu-history-undo-window-menu =
     .label = Последно затворени прозорци
-
 menu-history-reopen-all-tabs = Възстановяване на всички раздели
 menu-history-reopen-all-windows = Възстановяване на всички прозорци
 
