@@ -14,6 +14,12 @@ videocontrols-closed-caption-button =
     .aria-label = כתוביות
 videocontrols-play-button =
     .aria-label = ניגון
+videocontrols-pause-button =
+    .aria-label = השהיה
+videocontrols-mute-button =
+    .aria-label = השתקה
+videocontrols-unmute-button =
+    .aria-label = ביטול השתקה
 videocontrols-enterfullscreen-button =
     .aria-label = מסך מלא
 videocontrols-exitfullscreen-button =
@@ -22,7 +28,14 @@ videocontrols-casting-button-label =
     .aria-label = שידור ל־Screen
 videocontrols-closed-caption-off =
     .offlabel = כיבוי
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = תמונה בתוך תמונה
 videocontrols-error-aborted = טעינת הווידאו הופסקה.
+videocontrols-error-network = נגינת הוידאו הופסקה בעקבות שגיאת רשת.
+videocontrols-error-decode = לא ניתן לנגן את הוידאו מכיוון שהקובץ פגום.
+videocontrols-error-generic = נגינת הוידאו הופסקה בעקבות שגיאה לא ידועה.
+videocontrols-status-picture-in-picture = סרטון זה מתנגן במצב תמונה בתוך תמונה.
 # This message shows the current position and total video duration
 #
 # Variables:
