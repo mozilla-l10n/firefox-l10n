@@ -10,3 +10,7 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Se încarcă:
 videocontrols-volume-control =
     .aria-label = Volum
+videocontrols-play-button =
+    .aria-label = Redare
+videocontrols-pause-button =
+    .aria-label = Pauză
