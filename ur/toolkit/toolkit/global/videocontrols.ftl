@@ -26,12 +26,16 @@ videocontrols-casting-button-label =
     .aria-label = سکرین پر ڈالیں
 videocontrols-closed-caption-off =
     .offlabel = بند
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = پکچر-ان-پکچر
 videocontrols-error-aborted = وڈیو لوڈ ہونا رک گئی۔
 videocontrols-error-network = نیٹ ورک نقص کی وجہ سے وڈیو پلے بیک ساقط کر دیا گیا۔
 videocontrols-error-decode = وڈیو چلائی نہیں جا سکتی کیونکہ مسل خراب ہے۔
 videocontrols-error-src-not-supported = وڈیو وضع کاری یا MIME قسم معاونت شدہ نہیں۔
 videocontrols-error-no-source = معاونت شدہ وضع اور MIME قسم کی کوئی وڈیو نہیں ملی۔
 videocontrols-error-generic = وڈیو پلے بیک نامعلوم نقص کی وجی سے ساقط کر دیا گیا۔
+videocontrols-status-picture-in-picture = یہ ویڈیو پکچر ان پکچر موڈ میں چل رہی ہے۔
 # This message shows the current position and total video duration
 #
 # Variables:
