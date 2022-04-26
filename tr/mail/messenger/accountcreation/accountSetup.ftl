@@ -247,6 +247,7 @@ account-setup-address-book-ldap-button = Bir LDAP adres defterine bağlanın
 account-setup-calendar-button = Uzak bir takvime bağlanın
 account-setup-linked-services-title = Hizmetlerinizi bağlayın
 account-setup-linked-services-description = { -brand-short-name }, e-posta hesabınızla bağlantılı başka hizmetler buldu.
+account-setup-no-linked-description = { -brand-short-name } uygulamasından en iyi şekilde yararlanmak için diğer hizmetleri kurun.
 # Variables:
 # $count (Number) - The number of calendars found during autoconfig.
 account-setup-found-calendars-description =
