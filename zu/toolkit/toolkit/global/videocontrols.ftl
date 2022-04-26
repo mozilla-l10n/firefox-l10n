@@ -16,6 +16,7 @@ videocontrols-exitfullscreen-button =
     .aria-label = Iskrini esigcwele
 videocontrols-error-aborted = Ukulayishwa kwevidiyo kumisiwe.
 videocontrols-error-network = Ukudlalwa kwevidiyo kumisiwe ngenxa yephutha lenethiwekhi.
+videocontrols-error-decode = Ividiyo ayikwazi ukudlalwa ngoba ifayela lonakele.
 videocontrols-error-src-not-supported = Ifometi levidiyo noma ihlobo lwe-MIME ayixhasiwe.
 videocontrols-error-no-source = Ayikho ividiyo yefometi exhasiwe nohlobo lwe-MIME etholiwe.
 videocontrols-error-generic = Ukudlalwa kwevidiyo kumisiwe ngenxa yephutha elingaziwa.
