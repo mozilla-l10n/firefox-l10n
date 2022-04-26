@@ -8,18 +8,18 @@
 <!ENTITY  accountManagerCloseButton.label "Փակել">
 
 <!ENTITY accountActionsButton.label "Հաշուի գործողութիւններ">
-<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY accountActionsButton.accesskey "Հ">
 <!ENTITY addMailAccountButton.label "Աւելացնել եղեկտրոնային հասցէ…">
-<!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addMailAccountButton.accesskey "Հ">
 <!ENTITY addIMAccountButton.label "Աւելացնել զրոյցի հաշիւ…">
-<!ENTITY addIMAccountButton.accesskey "C">
+<!ENTITY addIMAccountButton.accesskey "Զ">
 <!ENTITY addFeedAccountButton.accesskey "F">
 <!ENTITY addOtherAccountButton.label "Աւելացնել այղ հաշիւ…">
-<!ENTITY addOtherAccountButton.accesskey "O">
+<!ENTITY addOtherAccountButton.accesskey "Ա">
 <!ENTITY setDefaultButton.label "Սահմանել որպէս սկզբնադիր">
 <!ENTITY setDefaultButton.accesskey "D">
 <!ENTITY removeButton.label "Ջնջել հաշիւը">
-<!ENTITY removeButton.accesskey "R">
+<!ENTITY removeButton.accesskey "Ջ">
 
 <!ENTITY addonsButton.label "Յաւելումներ &amp; Հիմնապատկերներ">
 
