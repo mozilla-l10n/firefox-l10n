@@ -130,6 +130,19 @@ message-header-msg-flagged =
 message-header-msg-not-flagged =
     .title = Mensagem não marcada com estrela
 
+## Message header cutomize panel
+
+message-header-customize-panel-title = Configurações do cabeçalho de mensagens
+message-header-customize-button-style =
+    .value = Estilo de botões
+    .accesskey = b
+message-header-button-style-default =
+    .label = Ícones e texto
+message-header-button-style-text =
+    .label = Texto
+message-header-button-style-icons =
+    .label = Ícones
+
 ## Action Button Context Menu
 
 toolbar-context-menu-manage-extension =
@@ -172,24 +185,6 @@ decrypt-and-copy-failures = { $failures } de { $total } mensagens não puderam s
 
 ## Spaces toolbar
 
-spaces-toolbar =
-    .toolbarname = Barra de ferramentas de espaços
-spaces-toolbar-button-mail =
-    .title = Alternar para a aba de email
-spaces-toolbar-button-address-book =
-    .title = Alternar para a aba de catálogo de endereços
-spaces-toolbar-button-calendar =
-    .title = Alternar para a aba de agenda
-spaces-toolbar-button-tasks =
-    .title = Alternar para a aba de tarefas
-spaces-toolbar-button-chat =
-    .title = Alternar para a aba de conversa
-spaces-toolbar-button-settings =
-    .title = Alternar para a aba de configurações
-spaces-toolbar-button-collapse =
-    .title = Recolher barra de ferramentas de espaços
-spaces-toolbar-button-reveal =
-    .title = Mostrar barra de ferramentas de espaços
 spaces-toolbar-element =
     .toolbarname = Barra de espaços
     .aria-label = Barra de espaços
@@ -241,8 +236,6 @@ spaces-pinned-button-menuitem-tasks =
     .label = { spaces-toolbar-button-tasks.title }
 spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
-spaces-pinned-button-menuitem-reveal =
-    .label = { spaces-toolbar-button-reveal.title }
 spaces-pinned-button-menuitem-settings =
     .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
@@ -260,6 +253,8 @@ chat-button-unread-messages = { $count }
 
 spaces-context-customize =
     .label = Personalizar…
+menuitem-customize-label =
+    .label = Personalizar…
 spaces-customize-panel-title = Configurações da barra de espaços
 spaces-customize-background-color = Cor de fundo
 spaces-customize-icon-color = Cor dos botões
@@ -272,4 +267,6 @@ spaces-customize-accent-text-color = Cor do botão selecionado
 spaces-customize-button-restore = Restaurar padrão
     .accesskey = R
 spaces-customize-button-save = Pronto
+    .accesskey = P
+customize-panel-button-save = Pronto
     .accesskey = P
