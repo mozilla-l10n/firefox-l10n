@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Addrbook.label                        "Հասցէագիրք">
-<!ENTITY Addrbook.accesskey                    "B">
 <!ENTITY GeneratedName.label                   "Անուն">
 <!ENTITY GeneratedName.accesskey               "N">
 <!ENTITY PrimaryEmail.label                    "Եղեկտրոնային հասցէ">
@@ -18,13 +17,11 @@
 <!ENTITY Department.label                      "Բաժին">
 <!ENTITY Department.accesskey                  "r">
 <!ENTITY JobTitle.label                        "Վերնագիր">
-<!ENTITY JobTitle.accesskey                    "T">
+<!ENTITY JobTitle.accesskey                    "Վ">
 <!ENTITY CellularNumber.label                  "Բջջային">
-<!ENTITY CellularNumber.accesskey              "M">
 <!ENTITY PagerNumber.label                     "Հեռատող">
-<!ENTITY PagerNumber.accesskey                 "P">
+<!ENTITY PagerNumber.accesskey                 "Հ">
 <!ENTITY FaxNumber.label                       "Հեռապատճէն">
-<!ENTITY FaxNumber.accesskey                   "F">
 <!ENTITY HomePhone.label                       "Տնային հեռախաւս">
 <!ENTITY HomePhone.accesskey                   "H">
 <!ENTITY WorkPhone.label                       "Աշխատանքային հեռախաւս">

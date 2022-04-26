@@ -7,9 +7,8 @@
 <!ENTITY directoryHostname.label           "Խնամորդի անունը:">
 <!ENTITY directoryHostname.accesskey       "o">
 <!ENTITY directoryBaseDN.label             "Հիմնահաւաքածու DN։">
-<!ENTITY directoryBaseDN.accesskey         "b">
 <!ENTITY findButton.label                  "Գտնել">
-<!ENTITY findButton.accesskey              "f">
+<!ENTITY findButton.accesskey              "գ">
 <!ENTITY directorySecure.label             "Աւգտագործել անվտանգ միացում (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
 <!ENTITY directoryLogin.label              "Կապել DN․">
@@ -18,7 +17,7 @@
 <!ENTITY Offline.tab                       "Անցանց">
 <!ENTITY Advanced.tab                      "Բարելաւուած">
 <!ENTITY portNumber.label                  "Միացքի համար։">
-<!ENTITY portNumber.accesskey              "p">
+<!ENTITY portNumber.accesskey              "մ">
 <!ENTITY searchFilter.label                "Որոնման զտում.">
 <!ENTITY searchFilter.accesskey            "f">
 <!ENTITY scope.label                       "Շրջանակ:">
@@ -26,7 +25,6 @@
 <!ENTITY scopeOneLevel.label               "Առաջին մակարդակ">
 <!ENTITY scopeOneLevel.accesskey           "L">
 <!ENTITY scopeSubtree.label                "Ենթախումբ">
-<!ENTITY scopeSubtree.accesskey            "S">
 <!ENTITY return.label                      "Մի՛ վերադարձրեք աւելին, քան․․․">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "արդիւնքներ">

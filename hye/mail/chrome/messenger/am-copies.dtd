@@ -16,7 +16,7 @@
 <!ENTITY ccAddressList.placeholder "Առանձնացնել հասցէները ստորակետով">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Այս եղեկտրոնային հասցէները աւելացնել «Կոյր պատճէնացանկ»-ում․">
-<!ENTITY bccAddress.accesskey "B">
+<!ENTITY bccAddress.accesskey "Կ">
 <!ENTITY bccAddressList.placeholder "Առանձնացնել հասցէները ստորակետով">
 <!ENTITY saveMessageDlg.label "Ցուցադրել հաստատման պատուհանը նամակները պահելիս">
 <!ENTITY saveMessageDlg.accesskey "w">
@@ -30,7 +30,7 @@
 <!ENTITY keepArchives.label "Պահել նամակի արխիւները.">
 <!ENTITY keepArchives.accesskey "K">
 <!ENTITY archiveHierarchyButton.label "Արխիւի ընտրանքներ…">
-<!ENTITY archiveHierarchyButton.accesskey "A">
+<!ENTITY archiveHierarchyButton.accesskey "Ա">
 <!ENTITY archivesFolderOn.label "&quot;Արխիւներ&quot; թղթապանակում՝">
 <!ENTITY archivesFolderOn.accesskey "n">
 <!ENTITY archiveInOtherFolder.label "Այլ.">
