@@ -11,6 +11,7 @@
 <!ENTITY importFromOutlook.label        "Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
 
+<!ENTITY importSource.title             "Կարգաւորումների եւ փոստի պանակների ներածում">
 
 <!ENTITY migrating.title                "Ներածել…">
 

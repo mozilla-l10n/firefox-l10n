@@ -3,13 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Բարի գալուստ &brandShortName;">
+<!ENTITY header2.label "Կը ցանկանա՞ք նոր եղ-փոստի հասցէ">
+<!ENTITY error.line1 "Ներեցէք, մենք չկարողացանք գտնել առաջարկուող եղ-փոստի հասցէներ:">
 
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
+<!ENTITY error.suggest.middle "անվճար այղընտրանքային եղ֊փոստի ծառայութիւններ">
 
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
+<!ENTITY tinyheader.existing "Բաց թողնել եւ աւգտագործել առկայ եղ․ հասցէն">
+<!ENTITY successful.write "Գրէք որեւէ էլ-փոստ">
+<!ENTITY successful.attach "Կցել անձնական ստորագրություն նամակին">
 <!ENTITY input.namePlaceholder "Ձեր անունը, կամ կեղծանունը">

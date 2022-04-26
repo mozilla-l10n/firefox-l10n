@@ -6,5 +6,8 @@
 
 <!ENTITY MsgSynchronize.label "Ներբեռնել եւ համաժամեցնել հաղորդագրութիւնները">
 <!ENTITY MsgSelect.label "Տարրեր անցնանց աւգտագործման համար">
+<!ENTITY syncTypeMail.label "Փոստային հաղորդագրութիւններ">
+<!ENTITY syncTypeMail.accesskey "Մ">
 <!ENTITY workOffline.label "Աշխատել անցանց, երբ ներբեռնումը եւ/կամ համաժամեցումը աւարտուի">
 <!ENTITY workOffline.accesskey "Ա">
+<!ENTITY MsgSelectDesc.label "Ընտրէք փոստային պանակներ եւ տեղեկատուախմբեր՝ անցանց աւգտագործման համար։">
