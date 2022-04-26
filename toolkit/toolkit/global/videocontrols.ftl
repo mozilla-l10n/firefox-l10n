@@ -14,3 +14,6 @@ videocontrols-closed-caption-button =
     .aria-label = Podnaslovi
 videocontrols-play-button =
     .aria-label = Pokreni
+videocontrols-error-aborted = Učitavanje videa zaustavljeno.
+videocontrols-error-src-not-supported = Video format ili MIME vrsta nisu podržani.
+videocontrols-error-no-source = Nije pronađen video s podržanim formatom ili MIME vrstom.
