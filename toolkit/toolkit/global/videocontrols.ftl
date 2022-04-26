@@ -7,4 +7,6 @@ videocontrols-pause-button =
 videocontrols-enterfullscreen-button =
     .aria-label = Skrin Penuh
 videocontrols-error-aborted = Video yang dimuatkan berhenti.
+videocontrols-error-network = Video ulangan digugurkan kerana kesalahan rangkaian.
 videocontrols-error-src-not-supported = Format video atau jenis MIME adalah tidak disokong.
+videocontrols-error-generic = Pemaparan video diberhentikan kerana masalah yang tidak diketahui.
