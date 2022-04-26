@@ -49,7 +49,24 @@ pill-action-move-bcc =
 ## Addressing Area
 
 bcc-compose-address-row-label =
-    .value = Bcc
+    .value = Կոյր պատճէնացանկ
+#   $key (String) - the shortcut key for this field
+bcc-compose-show-address-row-menuitem =
+    .label = { bcc-compose-address-row-label.value } Դաշտ
+    .accesskey = Բ
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+bcc-compose-show-address-row-label =
+    .value = { bcc-compose-address-row-label.value }
+    .tooltiptext = Ցուցադրել { bcc-compose-address-row-label.value } Դաշտը ({ bcc-compose-show-address-row-menuitem.acceltext })
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-info = Ում եւ Պատճէնացանկ-ի { $count } հասցէատէրերը կը տեսնեն միմեանց հասցէն: Դուք կարող էք խուսափել հասցէատերերի բացայայտումից՝ փոխարէնը աւգտագործելով Կոյր պատճէնացանկ:
+bcc-address-row-label =
+    .value = Կոյր պատճէնացանկ
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Կոյր պատճէնացանկ դաշտ
+    .accesskey = Կ
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 
 ## Notifications
 
