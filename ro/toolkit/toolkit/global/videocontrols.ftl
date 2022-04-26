@@ -26,9 +26,26 @@ videocontrols-casting-button-label =
     .aria-label = Proiectează pe ecran
 videocontrols-closed-caption-off =
     .offlabel = Dezactivează
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer = Redai videoclipuri în prim plan în timp ce faci altceva în { -brand-short-name }
 videocontrols-error-aborted = Încărcarea videoclipului a fost oprită.
 videocontrols-error-network = Redarea videoclipului a fost abandonată datorită unei erori de rețea.
 videocontrols-error-decode = Videoclipul nu poate fi redat deoarece fișierul este corupt.
 videocontrols-error-src-not-supported = Formatul videoclipului sau tipul MIME nu este suportat.
 videocontrols-error-no-source = Nu s-a găsit niciun videoclip cu format sau tip MIME suportat.
 videocontrols-error-generic = Redarea videoclipului a fost abandonată datorită unei erori necunoscute.
+# This message shows the current position and total video duration
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+#
+# For example, when at the 5 minute mark in a 6 hour long video,
+# $position would be "5:00" and $duration would be "6:00:00", result
+# string would be "5:00 / 6:00:00". Note that $duration is not always
+# available. For example, when at the 5 minute mark in an unknown
+# duration video, $position would be "5:00" and the string which is
+# surrounded by <span> would be deleted, result string would be "5:00".
+videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
