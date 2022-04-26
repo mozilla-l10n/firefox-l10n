@@ -306,15 +306,11 @@ mr2-onboarding-start-browsing-button-label = Inizia a navigare
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "European Spanish"
 
 onboarding-live-language-header = Scegli la tua lingua
-onboarding-live-language-subtitle = { -brand-short-name } sta utilizzando { $appLanguage } mentre il tuo sistema utilizza { $systemLanguage }.
 
-onboarding-live-language-switch-button-label = Passa a { $negotiatedLanguage }
 onboarding-live-language-button-label-downloading = Download del pacchetto lingua per { $negotiatedLanguage }…
-onboarding-live-language-waiting-subtitle = Sembra che il tuo sistema e { -brand-short-name } stiano utilizzando lingue diverse.
 onboarding-live-language-waiting-button = Recupero elenco delle lingue disponibili…
 onboarding-live-language-installing = Installazione del pacchetto lingua per { $negotiatedLanguage }…
 onboarding-live-language-secondary-cancel-download = Annulla
-onboarding-live-language-not-now-button-label = Non adesso
 onboarding-live-language-skip-button-label = Salta
 
 ## Firefox 100 Thank You screens
