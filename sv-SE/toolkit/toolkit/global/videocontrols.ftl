@@ -31,6 +31,13 @@ videocontrols-closed-caption-off =
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Bild-i-bild
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = Titta med bild-i-bild
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer = Titta på video i förgrunden medan du gör andra saker med { -brand-short-name }
 videocontrols-error-aborted = Laddning av video stoppad.
 videocontrols-error-network = Avspelning av videon avbröts på grund av nätverksfel.
 videocontrols-error-decode = Video kan inte spelas eftersom filen är skadad.
