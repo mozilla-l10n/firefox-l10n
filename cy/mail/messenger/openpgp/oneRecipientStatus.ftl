@@ -26,3 +26,5 @@ openpgp-key-undecided = Heb ei dderbyn (heb benderfynu)
 openpgp-key-rejected = Heb ei dderbyn (gwrthodwyd)
 openpgp-key-expired = Daeth i Ben
 openpgp-intro = Allweddi cyhoeddus sydd ar gael ar gyfer { $key }
+openpgp-pubkey-import-id = ID: { $kid }
+openpgp-pubkey-import-fpr = Bysbrint: { $fpr }
