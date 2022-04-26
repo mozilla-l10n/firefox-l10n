@@ -12,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Грешка при свързване с { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Код на грешката: { $error }
-
 psmerr-ssl-disabled = Не може да бъде осъществена безопасна връзка, защото SSL протоколът е изключен.
 psmerr-ssl2-disabled = Не може да бъде осъществена безопасна връзка, защото страницата използва стара и несигурна версия на протокола SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Вие получихте невалиден сертификат. Моля, свържете се с администратора на сървъра и дайте следната информация:
     
     Вашият сертификат съдържа същия сериен номер като друг, издаден от сертификатора. Моля, дайте нов сертификат с уникален сериен номер.
-
 ssl-error-export-only-server = Не може да се осъществи сигурна комуникация. Партньорът не поддържа висококачествено шифроване.
 ssl-error-us-only-server = Не може да се осъществи сигурна комуникация. Партньорът изисква неподдържано висококачествено шифроване.
 ssl-error-no-cypher-overlap = Не може да се осъществи сигурна комуникация. Няма общи алгоритми за шифроване.
@@ -342,7 +338,7 @@ sec-error-cert-signature-algorithm-disabled = Сертификатът е под
 mozilla-pkix-error-key-pinning-failure = Сървърът използва закотвяне на ключове (HPKP), но не може да се построи доверена верига от сертификати, която да съвпада със закотвянето (pinset). Нарушенията при закотвяне на ключове не могат да бъдат пренебрегнати.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Сървърът използва сертификат с разширение за основни ограничения, определящи го като удостоверител на сертификати (CA). Това не може да е така при правилно издаден сертификат.
 mozilla-pkix-error-inadequate-key-size = Сървърът предостави сертификат с дължина на ключ, която е твърде малка за осигуряване на сигурна връзка.
-mozilla-pkix-error-v1-cert-used-as-ca = За издаване на сървърния сертификат е използван сертификат X.509 версия 1, който не е доверена опора. Сертификатите X.509 версия 1 са излезли от употреба и не трябва да се използват за подписване на други сертификати.
+mozilla-pkix-error-v1-cert-used-as-ca = За издаване на сървърния сертификат е използван сертификат X.509 версия 1, който не е доверена опора. Сертификатите X.509 версия 1 са изведени от употреба и не трябва да се използват за подписване на други сертификати.
 mozilla-pkix-error-not-yet-valid-certificate = Сървърът предостави сертификат, който все още не е валиден.
 mozilla-pkix-error-not-yet-valid-issuer-certificate = За издаване на сървърския сертификат е използван все още невалиден сертификат.
 mozilla-pkix-error-signature-algorithm-mismatch = Подписващият алгоритъм в полето с подпис на сертификата не съвпада с алгоритъма в неговото поле signatureAlgorithm.
