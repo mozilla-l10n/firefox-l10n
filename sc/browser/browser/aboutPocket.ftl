@@ -18,7 +18,9 @@ pocket-panel-saved-error-not-saved = Pàgina non sarvada
 pocket-panel-saved-error-no-internet = Depes tènnere connessione a internet pro sarvare in su { -pocket-brand-name }. Connete·ti a internet e torra a proare.
 pocket-panel-saved-page-removed = Pàgina bogada
 pocket-panel-saved-page-saved = Sarvadu a { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Sarvadu in { -pocket-brand-name }.
 pocket-panel-saved-processing-remove = Boghende sa pàgina…
+pocket-panel-saved-removed = Pàgina bogada dae sa lista mia
 pocket-panel-saved-processing-tags = Agiunghende etichetas…
 pocket-panel-saved-remove-page = Boga sa pàgina
 pocket-panel-saved-save-tags = Sarva
@@ -26,6 +28,8 @@ pocket-panel-saved-saving-tags = Sarvende...
 pocket-panel-saved-suggested-tags = Etichetas cussigiadas
 pocket-panel-saved-tags-saved = Etichetas agiuntas
 pocket-panel-signup-view-list = Ammustra sa lista
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Agiunghe etichetas:
 
 ## about:pocket-signup panel
 
@@ -66,3 +70,4 @@ pocket-panel-header-sign-in = Identìfica·ti
 pocket-panel-button-show-all = Ammustra totu
 pocket-panel-button-add-tags = Agiunghe etichetas
 pocket-panel-button-activate = Ativa { -pocket-brand-name } in { -brand-product-name }
+pocket-panel-button-remove = Boga

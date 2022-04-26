@@ -88,6 +88,9 @@ extension-controlled-websites-content-blocking-all-trackers = Un'estensione, <im
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Un'estensione, <img data-l10n-name="icon"/> { $name }, est controllende comente { -brand-short-name } si connetet a internet.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> rechedet is ischedas cuntenidoras.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -181,11 +184,46 @@ containers-remove-alert-msg =
        *[other] Si bogas custu cuntenidore immoe, s'ant a serrare { $count } ischedas cuntenidoras. Seguru chi boles bogare custu cuntenidore?
     }
 containers-remove-ok-button = Boga custu cuntenidore
+containers-remove-cancel-button = Non boghes custu cuntenidore
 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Limbas e aspetu
 fonts-and-colors-header = Caràteres e colores
+preferences-web-appearance-header = Aspetu de is sitos web
+preferences-web-appearance-description = Unos cantos sitos web adatant s'ischema de colore suo de acordu cun is preferèntzias tuas. Sèbera cale ischema de colore dias bòlere impreare pro cussos sitos.
+preferences-web-appearance-choice-browser = Tema de { -brand-short-name }
+preferences-web-appearance-choice-system = Tema de su sistema
+preferences-web-appearance-choice-light = Craru
+preferences-web-appearance-choice-dark = Iscuru
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Imprea is cunfiguratziones de is temas de { -brand-short-name } pro is isfundos e is cuntenutos de is sitos web.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Imprea is cunfiguratziones de su sistema tuo pro is isfundos e is cuntenutos de is sitos web.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Imprea un'aspetu craru pro is isfundos e is cuntenutos de is sitos web.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Imprea un'aspetu iscuru pro is isfundos e is cuntenutos de is sitos web.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Is seletziones de colore tuas sunt sostituende s'aspetu de su situ web. <a data-l10n-name="colors-link">Gesti is colores</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Gesti is temas de { -brand-short-name } in <a data-l10n-name="themes-link">Estensiones e temas</a>
+preferences-colors-header = Colores
+preferences-colors-description = Sostitui is colores predefinidos de { -brand-short-name } pro is testos, is isfundos de is sitos web e is ligòngios.
+preferences-colors-manage-button =
+    .label = Gesti is colores…
+    .accesskey = c
+preferences-fonts-header = Caràteres
 default-font = Caràtere predefinidu
     .accesskey = C
 default-font-size = Mannària

@@ -328,3 +328,25 @@ onboarding-live-language-skip-button-label = Brinca
 
 ## Firefox 100 Thank You screens
 
+# "Hero Text" displayed on left side of welcome screen. This text can be
+# formatted to span multiple lines as needed. The <span data-l10n-name="zap">
+# </span> in this string allows a "zap" underline style to be automatically
+# added to the text inside it. "Yous" should stay inside the zap span, but
+# "Thank" can be put inside instead if there's no "you" in the translation.
+# The English text would normally be "100 Thank-Yous" i.e., plural noun, but for
+# aesthetics of splitting it across multiple lines, the hyphen is omitted.
+fx100-thank-you-hero-text =
+    100
+    <span data-l10n-name="zap">gràtzias</span>
+fx100-thank-you-subtitle = Est sa de 100 versione nostra! Gràtzias de nos agiudare a creare un'internet mègius e prus sanu.
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Mantene { -brand-short-name } in su Dock
+       *[other] Apica { -brand-short-name } a sa barra de is tareas
+    }
+fx100-upgrade-thanks-header = 100 gràtzias
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = Est sa de 100 versione de { -brand-short-name }. <em>Gràtzias</em> de nos agiudare a creare un'internet mègius e prus sanu.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = Est sa de 100 versione nostra! Gràtzias de èssere parte de sa comunidade nostra. Mantene { -brand-short-name } a distàntzia de un'incarcada pro is pròssimas 100!

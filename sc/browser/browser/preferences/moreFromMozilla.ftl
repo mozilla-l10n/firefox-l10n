@@ -18,6 +18,8 @@ more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } agi
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description = Pone is datos tuos a su servìtziu de un'internet mègius pro totus.
+# This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-description-advanced = Dona is datos tuos pro istùdios de investigatzione, pro fàghere un'internet prus seguru, prus abertu e chi agiudet a sa gente, no a is aziendas mannas.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally-2 = Aderi a { -rally-short-name }

@@ -30,6 +30,10 @@ about-private-browsing-hide-activity = Cua s'atividade e sa positzione tuas, in 
 about-private-browsing-get-privacy = Ampara sa riservadesa tua in onni situ chi sias bisitende
 about-private-browsing-hide-activity-1 = Cua s'atividade e sa positzione tuas cun { -mozilla-vpn-brand-name }. Crea una connessione segura cun unu clic ebbia, fintzas in retes Wi-Fi pùblicas.
 about-private-browsing-prominent-cta = Ampara sa riservadesa tua cun { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Iscàrriga { -focus-brand-name }
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -42,3 +46,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Serra
+about-private-browsing-promo-close-button =
+    .title = Serra
