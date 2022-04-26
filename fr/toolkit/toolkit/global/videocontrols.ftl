@@ -18,9 +18,32 @@ videocontrols-pause-button =
     .aria-label = Pause
 videocontrols-mute-button =
     .aria-label = Muet
+videocontrols-unmute-button =
+    .aria-label = Audible
 videocontrols-enterfullscreen-button =
     .aria-label = Plein écran
 videocontrols-exitfullscreen-button =
     .aria-label = Sortie du mode plein écran
+videocontrols-casting-button-label =
+    .aria-label = Diffuser sur l’écran
+videocontrols-closed-caption-off =
+    .offlabel = Désactivés
 videocontrols-error-aborted = Chargement de la vidéo arrêté.
+videocontrols-error-network = La lecture de la vidéo a été interrompue à cause d’une erreur de réseau.
 videocontrols-error-decode = La vidéo ne peut être visionnée car le fichier est corrompu.
+videocontrols-error-src-not-supported = Le format vidéo ou le type MIME n’est pas géré.
+videocontrols-error-no-source = Aucune vidéo dont le format ou le type MIME est géré n’a été trouvée.
+videocontrols-error-generic = La lecture de la vidéo a été interrompue à cause d’une erreur inconnue.
+# This message shows the current position and total video duration
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+#
+# For example, when at the 5 minute mark in a 6 hour long video,
+# $position would be "5:00" and $duration would be "6:00:00", result
+# string would be "5:00 / 6:00:00". Note that $duration is not always
+# available. For example, when at the 5 minute mark in an unknown
+# duration video, $position would be "5:00" and the string which is
+# surrounded by <span> would be deleted, result string would be "5:00".
+videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
