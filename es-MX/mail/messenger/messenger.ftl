@@ -272,3 +272,5 @@ spaces-customize-button-restore = Restaurar predeterminados
     .accesskey = R
 spaces-customize-button-save = Hecho
     .accesskey = D
+customize-panel-button-save = Hecho
+    .accesskey = D
