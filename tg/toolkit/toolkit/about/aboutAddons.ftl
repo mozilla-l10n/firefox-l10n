@@ -177,6 +177,10 @@ shortcuts-sidebarAction = Нишон/пинҳон кардани навори ҷ
 shortcuts-modifier-mac = Ctrl, Alt ё аломати «⌘»-ро илова кунед
 shortcuts-modifier-other = Ctrl ё Alt-ро илова кунед
 shortcuts-letter = Ҳарферо ворид кунед
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Аллакай аз тарафи { $addon } истифода мешавад
 shortcuts-card-collapse-button = Камтар нишон диҳед
 header-back-button =
     .title = Бозгашт

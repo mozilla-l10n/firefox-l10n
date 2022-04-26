@@ -7,6 +7,8 @@
 ## Localization for remote types defined in RemoteType.h
 ##
 
+process-type-web = Муҳтавои сомона
+process-type-extension = Васеъшавӣ
 # process used to open file:// URLs
 process-type-file = Файли маҳаллӣ
 # process used to isolate webpages that requested special

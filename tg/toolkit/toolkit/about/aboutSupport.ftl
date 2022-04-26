@@ -51,6 +51,7 @@ app-basics-memory-use = Истифодаи ҳофиза
 app-basics-performance = Самаранокӣ
 app-basics-third-party = Модулҳои тарафҳои сеюм
 app-basics-profiles = Профилҳо
+app-basics-remote-processes-count = Равандҳои дурдаст
 app-basics-location-service-key-google = Калиди хидмати ҷойгиршавии Google
 app-basics-key-mozilla = Калиди хидмати ҷойгиршавии Mozilla
 app-basics-safe-mode = Реҷаи бехатар
@@ -75,6 +76,7 @@ graphics-features-title = Хусусиятҳо
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
 a11y-title = Қобилияти дастрасӣ
+a11y-activated = Фаъолшуда
 copy-text-to-clipboard-label = Нусха бардоштани матн ба ҳофизаи муваққатӣ
 copy-raw-data-to-clipboard-label = Нусха бардоштани иттилооти нокорам ба ҳофизаи муваққатӣ
 troubleshoot-mode-title = Ташхис кардани мушкилиҳо
@@ -191,5 +193,6 @@ support-printing-prefs-value = Қимат
 ## Normandy sections
 
 support-remote-experiments-name = Ном
+support-remote-features-title = Хусусиятҳои дурдаст
 support-remote-features-name = Ном
 support-remote-features-status = Вазъият

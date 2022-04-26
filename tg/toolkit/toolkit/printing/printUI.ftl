@@ -54,6 +54,12 @@ printui-backgrounds-checkbox = Чоп кардани заминаҳо
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".
 
+# The section title.
+printui-source-label = Формат
+# Option for printing the original page.
+printui-source-radio = Аслӣ
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = Интихоб
 
 ##
 

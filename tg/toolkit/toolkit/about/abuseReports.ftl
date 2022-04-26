@@ -51,3 +51,5 @@ abuse-report-messagebar-action-cancel = Бекор кардан
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-settings-suggestions-search = Танзимоти ҷустуҷӯи пешфарзи шуморо иваз мекунад
+abuse-report-settings-suggestions-homepage = Саҳифаи асосӣ ва варақаи нави шуморо иваз мекунад
