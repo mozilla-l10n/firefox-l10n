@@ -32,9 +32,14 @@ about-private-browsing-hide-activity-1 = Cua s'atividade e sa positzione tuas cu
 about-private-browsing-prominent-cta = Ampara sa riservadesa tua cun { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Iscàrriga { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: navigatzione privada in ònnia logu
+about-private-browsing-focus-promo-text = S'aplicatzione mòbile nostra progetada pro sa navigatzione anònima lìmpiat sa cronologia e is testimòngios ònnia borta.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = Bati sa navigatzione privada a su telèfonu tuo
+about-private-browsing-focus-promo-text-b = Imprea { -focus-brand-name } pro cuddas chircas privadas chi non boles a ddas bìdere su navigadore printzipale tuo.
+about-private-browsing-focus-promo-header-c = Riservadesa de livellu superiore pro dispositivos mòbiles
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } lìmpiat sa cronologia ònnia borta, blochende fintzas publitzidade e sighidores.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

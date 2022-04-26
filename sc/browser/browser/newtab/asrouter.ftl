@@ -159,6 +159,7 @@ spotlight-total-cookie-protection-secondary-button = Immoe nono
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Un'internet mègius cumintzat dae tue
 spotlight-better-internet-body = Impreende { -brand-short-name }, ses votende pro unu internet prus abertu e atzessìbile, chi est mègius pro totus.
 spotlight-peace-mind-header = Semus semper cun tue
 spotlight-peace-mind-body = Ònnia mese, { -brand-short-name } blocat una mèdia de prus che 3.000 sighiduras pro ònnia utente. Proite nudda si diat dèpere pònnere in mesu intre tue e s'internet bonu, mescamente genas pro sa riservadesa che a is sighiduras.

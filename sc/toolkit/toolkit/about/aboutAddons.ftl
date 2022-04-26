@@ -50,6 +50,8 @@ detail-update-manual =
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Disativada in is ventanas privadas
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Rechedet atzessu a is ventanas privadas
 detail-private-browsing-on =
     .label = Permite
     .tooltiptext = Ativa in sa navigatzione privada
