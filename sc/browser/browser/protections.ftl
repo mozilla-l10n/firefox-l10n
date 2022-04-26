@@ -45,6 +45,9 @@ cryptominer-tab-title = Cripto-minadores
 protections-close-button2 =
     .aria-label = Serra
     .title = Serra
+mobile-app-title = Bloca is elementos sighidores de publitzidade in prus dispositivos
+mobile-app-card-content = Imprea su navigadore pro dispositivos mòbiles cun sa protetzione integrada contra de is annùntzios publitzitàrios chi ti sighint.
+mobile-app-links = Su navigadore { -brand-product-name } pro <a data-l10n-name="android-mobile-inline-link">Android</a> e <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Non t'iscaressas mai prus nissuna crae
 lockwise-title-logged-in2 = Gestione de craes
 lockwise-header-content = { -lockwise-brand-name } sarvat is craes in manera segura a intro de su navigadore.
@@ -62,6 +65,13 @@ protection-report-passwords-save-passwords-button = Sarva craes
     .title = Sarva craes
 protection-report-passwords-manage-passwords-button = Gesti is craes
     .title = Gesti is craes
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] Diat pòdere èssere chi una crae si siat esposta in una violatzione de datos.
+       *[other] Diat pòdere èssere chi { $count } craes si siant espostas in una violatzione de datos.
+    }
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
@@ -73,6 +83,24 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Comente funtzionat
 monitor-link = Comente funtzionat
+monitor-header-content-signed-in = { -monitor-brand-name } t'avisat si is informatziones tuas aparent in una violatzione de datos connota.
+monitor-sign-up-link = Registra·ti pro retzire is avisos subra de is violatziones
+    .title = Registra·ti pro retzire is avisos subra de is violatziones in { -monitor-brand-name }
+auto-scan = Iscansionadu in automàticu oe
+monitor-emails-tooltip =
+    .title = Ammustra is indiritzos de posta eletrònica controllados in { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Ammustra is violatziones de datos in { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Ammustra is craes espostas in { -monitor-brand-short-name }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Indiritzu de posta eletrònica controlladu
+       *[other] Indiritzos de posta eletrònica controllados
+    }
 monitor-no-breaches-title = Noas bellas!
 monitor-manage-breaches-link = Gesti is violatziones
     .title = Gesti is violatziones in { -monitor-brand-short-name }
