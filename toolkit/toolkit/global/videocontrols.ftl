@@ -26,6 +26,12 @@ videocontrols-casting-button-label =
     .aria-label = Proiectează pe ecran
 videocontrols-closed-caption-off =
     .offlabel = Dezactivează
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = Picture-in-Picture
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = Vizionează în modul Picture-in-Picture
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
@@ -36,6 +42,7 @@ videocontrols-error-decode = Videoclipul nu poate fi redat deoarece fișierul es
 videocontrols-error-src-not-supported = Formatul videoclipului sau tipul MIME nu este suportat.
 videocontrols-error-no-source = Nu s-a găsit niciun videoclip cu format sau tip MIME suportat.
 videocontrols-error-generic = Redarea videoclipului a fost abandonată datorită unei erori necunoscute.
+videocontrols-status-picture-in-picture = Acest videoclip este redat în modul Picture-in-Picture.
 # This message shows the current position and total video duration
 #
 # Variables:
