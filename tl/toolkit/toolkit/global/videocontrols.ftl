@@ -12,3 +12,5 @@ videocontrols-volume-control =
     .aria-label = Volume
 videocontrols-closed-caption-button =
     .aria-label = Mga Closed Caption
+videocontrols-enterfullscreen-button =
+    .aria-label = Buong Screen
