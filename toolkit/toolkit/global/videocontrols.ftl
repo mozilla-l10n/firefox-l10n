@@ -22,6 +22,7 @@ videocontrols-error-aborted = Caregamento do video fermou.
 videocontrols-error-network = Riproduçion video fermâ a caoza de 'n'erô da ræ.
 videocontrols-error-src-not-supported = Formou video ò tipo MIME no soportou.
 videocontrols-error-no-source = Niscun video con formato ò tipo MIME soportou.
+videocontrols-error-generic = Riproduçion video fermâ pe caxon de n'erô sconosciuo.
 # This message shows the current position and total video duration
 #
 # Variables:
