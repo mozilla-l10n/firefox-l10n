@@ -12,3 +12,7 @@ videocontrols-volume-control =
     .aria-label = Јачина звука
 videocontrols-closed-caption-button =
     .aria-label = Титл
+videocontrols-casting-button-label =
+    .aria-label = Пребаци на екран
+videocontrols-closed-caption-off =
+    .offlabel = Искључено
