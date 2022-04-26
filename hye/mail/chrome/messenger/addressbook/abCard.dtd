@@ -70,6 +70,7 @@
 <!ENTITY HomeCountry.accesskey          "u">
 <!ENTITY HomeWebPage.label              "Կայք էջ․">
 <!ENTITY Birthday.label                 "Ծննդեան ամսաթիւ․">
+<!ENTITY Birthday.accesskey             "Ծ">
 <!ENTITY Month.placeholder              "Ամիս">
 <!ENTITY Day.placeholder                "Աւր">
 <!ENTITY Year.placeholder               "Տարի">

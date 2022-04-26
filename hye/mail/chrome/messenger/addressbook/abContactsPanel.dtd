@@ -24,6 +24,7 @@
 <!ENTITY addtoBccFieldMenu.label            "Աւելացնել «Կոյր պատճէնացանկ» դաշտում">
 <!ENTITY addtoBccFieldMenu.accesskey        "Կ">
 <!ENTITY deleteAddrBookCard.label           "Ջնջել">
+<!ENTITY deleteAddrBookCard.accesskey       "Ջ">
 <!ENTITY propertiesContext.label            "Յատկութիւնները">
 <!ENTITY propertiesContext.accesskey        "i">
 <!ENTITY abPropertiesContext.label          "Յատկութիւնները">
@@ -34,6 +35,7 @@
 
 <!ENTITY newContactAbContext.label          "Նոր կապորդ">
 <!ENTITY newListAbContext.label             "Նոր ցանկ">
+<!ENTITY newListAbContext.accesskey         "Ց">
 
 <!ENTITY toButton.label                     "Աւելացնել To դաշտում.">
 <!ENTITY ccButton.label                     "Աւելացնել Պատճէնացանկ դաշտում.">

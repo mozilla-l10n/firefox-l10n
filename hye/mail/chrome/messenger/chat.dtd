@@ -14,7 +14,7 @@
 <!ENTITY chat.accountWizard.button       "Սկսել">
 <!ENTITY chat.noConnectedAccount.title             "Ձեր զրոյցի հաշիւը միացուած չէ">
 <!ENTITY chat.noConnectedAccount.description       "Դուք կարող էք դրանք միացնել «Զրուցարանի կարգավիճակ» -ի պատուհանից.">
-<!ENTITY chat.showAccountManager.button       "Ցուցադրել զրոյցի կարգավիճակը">
+<!ENTITY chat.showAccountManager.button       "Ցուցադրել զրուցարանի կարգավիճակը">
 
 <!ENTITY chat.participants             "Մասնակիցներ.">
 <!ENTITY chat.previousConversations    "Նախորդ խաւսակցութիւնները.">

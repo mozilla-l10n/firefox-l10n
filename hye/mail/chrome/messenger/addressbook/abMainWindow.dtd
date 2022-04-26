@@ -39,7 +39,7 @@
 <!ENTITY editMenu.accesskey                             "E">
 <!ENTITY deleteCmd.label                                "Ջնջել">
 <!ENTITY deleteAbCmd.label                              "Ջնջել հասցէագիրքը">
-<!ENTITY deleteAbCmd.accesskey                          "ջ">
+<!ENTITY deleteAbCmd.accesskey                          "Ջ">
 <!ENTITY removeAbCmd.label                              "Հեռացնել հասցէագիրքը">
 <!ENTITY deleteContactCmd.label                         "Ջնջել կապորդը">
 <!ENTITY deleteContactsCmd.label                        "Ջնջել կապորդները">
@@ -64,6 +64,7 @@
 <!ENTITY menubarCmd.accesskey                           "Ը">
 <!ENTITY showAbToolbarCmd.label                         "Հասցէագրքի գործիքագաւտի">
 <!ENTITY showTaskbarCmd.label                           "Վիճակագաւտի">
+<!ENTITY showTaskbarCmd.accesskey                       "Ց">
 <!ENTITY customizeToolbar.label                         "Յարմարեցնել…">
 <!ENTITY customizeToolbar.accesskey                     "Յ">
 <!ENTITY layoutMenu.label                               "Շարակարգ">
@@ -102,6 +103,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.label                         "Նոր կապորդ">
 <!ENTITY newContactButton.accesskey                     "Կ">
 <!ENTITY newlistButton.label                            "Նոր ցանկ">
+<!ENTITY newlistButton.accesskey                        "ց">
 <!ENTITY showAsDefault.label                            "Սկզբնադիր գործարկման գրացուցակ">
 <!ENTITY showAsDefault.accesskey                        "S">
 <!ENTITY editPropertiesButton.label                     "Խմբագրել">

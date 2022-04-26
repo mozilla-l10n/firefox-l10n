@@ -105,7 +105,7 @@
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Նշէք անունը, որին ցանանում էք կցել այս հաշիւը (աւրինակ՝ &quot; աշխատանքային հաշիւ &quot;, &quot; տնային հաշիւ &quot; կամ &quot; նորութիւնների հաշիւ &quot;)։">
 <!ENTITY accnameLabel.label "Հաշուի անուն.">
-<!ENTITY accnameLabel.accesskey "A">
+<!ENTITY accnameLabel.accesskey "Հ">
 
 <!-- Entities for Done (Congratulations) page -->
 
