@@ -62,7 +62,6 @@
 <!ENTITY sendUnsentCmd.label "Ուղարկել չուղարկուած նամակները">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Բաժանորդագրուել…">
-<!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY deleteFolder.label "Ջնջել թղթապանակը">
 <!ENTITY deleteFolder.accesskey "e">
 <!ENTITY renameFolder.label "Վերանուանել թղթապանակը…">
@@ -100,7 +99,6 @@
 <!ENTITY deleteFolderCmd.label "Ջնջել թղթապանակը">
 <!ENTITY deleteFolderCmd.accesskey "D">
 <!ENTITY unsubscribeNewsgroupCmd.label "Բաժանորդագրութիւնն աւարտել">
-<!ENTITY unsubscribeNewsgroupCmd.accesskey "b">
 <!ENTITY selectMenu.label "Ընտրել">
 <!ENTITY selectMenu.accesskey "S">
 <!ENTITY all.label "Բոլորը">
@@ -131,11 +129,10 @@
 
 <!-- View Menu -->
 <!ENTITY menubarCmd.label "Ցանկագաւտի">
-<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY menubarCmd.accesskey "Ց">
 <!ENTITY showMessengerToolbarCmd.label "Փոստային գործիքներ">
-<!ENTITY showMessengerToolbarCmd.accesskey "օ">
 <!ENTITY customizeToolbar.label "Կարգաւորել…">
-<!ENTITY customizeToolbar.accesskey "C">
+<!ENTITY customizeToolbar.accesskey "Յ">
 
 <!ENTITY messagePaneLayoutStyle.label "Դասաւորութիւն">
 <!ENTITY messagePaneLayoutStyle.accesskey "L">
@@ -171,32 +168,23 @@
 <!ENTITY sortMenu.label "Տեսակաւորել ըստ">
 <!ENTITY sortMenu.accesskey "Տ">
 <!ENTITY sortByDateCmd.label "Ամսաթիւ">
-<!ENTITY sortByDateCmd.accesskey "e">
 <!ENTITY sortByReceivedCmd.label "Ստացուած">
-<!ENTITY sortByReceivedCmd.accesskey "v">
 <!ENTITY sortByStarCmd.label "Աստղ">
-<!ENTITY sortByStarCmd.accesskey "S">
+<!ENTITY sortByStarCmd.accesskey "Տ">
 <!ENTITY sortByAttachmentsCmd.label "Կցորդներ">
-<!ENTITY sortByAttachmentsCmd.accesskey "m">
 <!ENTITY sortByPriorityCmd.label "Առաջնահերթ">
-<!ENTITY sortByPriorityCmd.accesskey "P">
+<!ENTITY sortByPriorityCmd.accesskey "Ա">
 <!ENTITY sortBySizeCmd.label "Չափը">
-<!ENTITY sortBySizeCmd.accesskey "z">
 <!ENTITY sortByStatusCmd.label "Կարգավիճակ">
-<!ENTITY sortByStatusCmd.accesskey "Կ">
 <!ENTITY sortByTagsCmd.label "Պիտակներ">
-<!ENTITY sortByTagsCmd.accesskey "g">
 <!ENTITY sortByJunkStatusCmd.label "Թափաւնի կարգավիճակ">
 <!ENTITY sortByJunkStatusCmd.accesskey "Թ">
 <!ENTITY sortBySubjectCmd.label "Թեմայ">
-<!ENTITY sortBySubjectCmd.accesskey "b">
 <!ENTITY sortByFromCmd.label "Ումից">
 <!ENTITY sortByFromCmd.accesskey "Ու">
 <!ENTITY sortByRecipientCmd.label "Ստացողը">
-<!ENTITY sortByRecipientCmd.accesskey "բ">
 <!ENTITY sortByCorrespondentCmd.label "Բաժանորդներ">
 <!ENTITY sortByUnreadCmd.label "Ընթերցել">
-<!ENTITY sortByUnreadCmd.accesskey "Ը">
 <!ENTITY sortByOrderReceivedCmd.label "Պատուերը ստացուել է">
 <!ENTITY sortByOrderReceivedCmd.accesskey "Պ">
 <!ENTITY sortAscending.label "Աճող">
@@ -208,7 +196,7 @@
 <!ENTITY sortUnthreaded.label "Անթեմատիկ">
 <!ENTITY sortUnthreaded.accesskey "ա">
 <!ENTITY groupBySort.label "Դասաւորել ըստ տեսակի">
-<!ENTITY groupBySort.accesskey "Դ">
+<!ENTITY groupBySort.accesskey "Խ">
 <!ENTITY msgsMenu.label "Նամակներ">
 <!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "Քննարկումներ">
@@ -236,11 +224,11 @@
 <!ENTITY headersNormalCmd.label "Նորմալ">
 <!ENTITY headersNormalCmd.accesskey "Ն">
 <!ENTITY bodyMenu.label "Նամակի տեքստը ըստ">
-<!ENTITY bodyMenu.accesskey "Տ">
+<!ENTITY bodyMenu.accesskey "Բ">
 <!ENTITY bodyAllowHTML.label "Բնաւրինակ HTML">
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "Պարզ HTML">
-<!ENTITY bodySanitized.accesskey "Պ">
+<!ENTITY bodySanitized.accesskey "Մ">
 <!ENTITY bodyAsPlaintext.label "Սովորական գրոյթ">
 <!ENTITY bodyAsPlaintext.accesskey "Ս">
 <!ENTITY bodyAllParts.label "Բոլոր մասերը">
