@@ -20,6 +20,8 @@ videocontrols-unmute-button =
     .aria-label = انمیوٹ
 videocontrols-enterfullscreen-button =
     .aria-label = پوری سکرین
+videocontrols-exitfullscreen-button =
+    .aria-label = پوری سکرین سے باہر نکلیں
 videocontrols-casting-button-label =
     .aria-label = سکرین پر ڈالیں
 videocontrols-closed-caption-off =
@@ -30,3 +32,16 @@ videocontrols-error-decode = وڈیو چلائی نہیں جا سکتی کیون
 videocontrols-error-src-not-supported = وڈیو وضع کاری یا MIME قسم معاونت شدہ نہیں۔
 videocontrols-error-no-source = معاونت شدہ وضع اور MIME قسم کی کوئی وڈیو نہیں ملی۔
 videocontrols-error-generic = وڈیو پلے بیک نامعلوم نقص کی وجی سے ساقط کر دیا گیا۔
+# This message shows the current position and total video duration
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+#
+# For example, when at the 5 minute mark in a 6 hour long video,
+# $position would be "5:00" and $duration would be "6:00:00", result
+# string would be "5:00 / 6:00:00". Note that $duration is not always
+# available. For example, when at the 5 minute mark in an unknown
+# duration video, $position would be "5:00" and the string which is
+# surrounded by <span> would be deleted, result string would be "5:00".
+videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
