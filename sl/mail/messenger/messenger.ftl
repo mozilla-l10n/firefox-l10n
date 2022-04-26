@@ -143,6 +143,9 @@ message-header-button-style-text =
     .label = Besedilo
 message-header-button-style-icons =
     .label = Ikone
+message-header-large-subject =
+    .label = Velika zadeva
+    .accesskey = z
 
 ## Action Button Context Menu
 
