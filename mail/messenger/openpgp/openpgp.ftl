@@ -240,6 +240,7 @@ openpgp-key-man-select-all-key =
     .key = A
 openpgp-key-man-key-details-key =
     .key = I
+openpgp-ign-addr-intro = Akceptujeće, zo tutón kluč za slědowace wubrane e-mejlowe adresy wužiwaće:
 openpgp-key-details-title =
     .title = KLučowe kajkosće
 openpgp-key-details-signatures-tab =
