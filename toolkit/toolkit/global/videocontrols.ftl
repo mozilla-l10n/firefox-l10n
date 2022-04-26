@@ -24,3 +24,16 @@ videocontrols-error-decode = ಕಡತವು ಹಾಳಾಗಿರುವ ಕಾ�
 videocontrols-error-src-not-supported = ವೀಡಿಯೊ ವಿನ್ಯಾಸ ಅಥವ MIME ಬಗೆಗೆ ಬೆಂಬಲವಿಲ್ಲ.
 videocontrols-error-no-source = ಬೆಂಬಲಿತವಾದ ವಿನ್ಯಾಸ ಮತ್ತು MIME ಬಗೆಯೊಂದಿಗೆ ಯಾವುದೆ ವಿಡಿಯೊ ಕಂಡುಬಂದಿಲ್ಲ.
 videocontrols-error-generic = ಅಜ್ಞಾತ ಕಾರಣದಿಂದಾಗಿ ವಿಡಿಯೊ ಚಾಲನೆಯು ನಿಂತುಹೋಗಿದೆ.
+# This message shows the current position and total video duration
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+#
+# For example, when at the 5 minute mark in a 6 hour long video,
+# $position would be "5:00" and $duration would be "6:00:00", result
+# string would be "5:00 / 6:00:00". Note that $duration is not always
+# available. For example, when at the 5 minute mark in an unknown
+# duration video, $position would be "5:00" and the string which is
+# surrounded by <span> would be deleted, result string would be "5:00".
+videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
