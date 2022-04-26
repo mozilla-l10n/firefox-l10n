@@ -37,6 +37,7 @@ videocontrols-error-decode = Video tidak dapat diputar karena berkasnya rusak.
 videocontrols-error-src-not-supported = Format atau jenis MIME video tidak dudukung.
 videocontrols-error-no-source = Tidak ditemukan video dalam format atau jenis MIME yang didukung.
 videocontrols-error-generic = Pemutaran video dibatalkan karena galat tidak dikenal.
+videocontrols-status-picture-in-picture = Video ini diputar dalam mode Gambar-dalam-Gambar.
 # This message shows the current position and total video duration
 #
 # Variables:
