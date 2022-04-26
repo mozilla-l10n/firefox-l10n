@@ -31,6 +31,13 @@ videocontrols-closed-caption-off =
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Gambar-dalam-gambar
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = Tonton dalam format Gambar-dalam-Gambar
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer = Putar video di latar depan saat Anda melakukan hal lain di { -brand-short-name }
 videocontrols-error-aborted = Pemuatan video dihentikan.
 videocontrols-error-network = Pemutaran video dibatalkan karena ada galat jaringan.
 videocontrols-error-decode = Video tidak dapat diputar karena berkasnya rusak.
