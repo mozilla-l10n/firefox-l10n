@@ -28,8 +28,33 @@ videocontrols-casting-button-label =
     .aria-label = 投放至裝置
 videocontrols-closed-caption-off =
     .offlabel = 關閉
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = 子母畫面
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = 使用子畫面觀賞
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer = 讓您在 { -brand-short-name } 作別的事情時，同時能在前景播放影片
 videocontrols-error-aborted = 已停止載入視訊。
 videocontrols-error-network = 因為網路錯誤，已中止視訊播放。
 videocontrols-error-decode = 因為檔案毀損，無法播放視訊。
 videocontrols-error-src-not-supported = 不支援的視訊格式或 MIME 類型。
+videocontrols-error-no-source = 找不到支援格式與 MIME 類型的影片。
 videocontrols-error-generic = 因為未知錯誤，已中止視訊播放。
+videocontrols-status-picture-in-picture = 正以子母畫面模式播放此影片。
+# This message shows the current position and total video duration
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+#
+# For example, when at the 5 minute mark in a 6 hour long video,
+# $position would be "5:00" and $duration would be "6:00:00", result
+# string would be "5:00 / 6:00:00". Note that $duration is not always
+# available. For example, when at the 5 minute mark in an unknown
+# duration video, $position would be "5:00" and the string which is
+# surrounded by <span> would be deleted, result string would be "5:00".
+videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
