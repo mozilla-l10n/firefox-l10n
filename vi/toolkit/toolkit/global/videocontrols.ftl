@@ -20,3 +20,7 @@ videocontrols-unmute-button =
     .aria-label = Bật tiếng
 videocontrols-enterfullscreen-button =
     .aria-label = Toàn màn hình
+videocontrols-error-aborted = Đã dừng nạp video.
+videocontrols-error-network = Không thể xem video vì lỗi kết nối.
+videocontrols-error-no-source = Không có video với định đạng được hỗ trợ.
+videocontrols-error-generic = Không thể xem video vì một lỗi chưa biết.
