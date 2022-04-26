@@ -4,3 +4,11 @@
 
 videocontrols-scrubber =
     .aria-label = Позиција
+videocontrols-play-button =
+    .aria-label = Пушти
+videocontrols-pause-button =
+    .aria-label = Паузирај
+videocontrols-mute-button =
+    .aria-label = Занеми
+videocontrols-unmute-button =
+    .aria-label = Пушти звук
