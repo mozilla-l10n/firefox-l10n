@@ -37,6 +37,7 @@ about-private-browsing-focus-promo-text = יישומון הגלישה הפרטי
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = לקחת את הגלישה הפרטית לטלפון שלך
+about-private-browsing-focus-promo-text-b = ניתן להשתמש ב־{ -focus-brand-name } עבור החיפושים הפרטיים שאין ברצונך שיופיעו בדפדפן הראשי שלך בנייד.
 about-private-browsing-focus-promo-text-c = ‏{ -focus-brand-name } מנקה את ההיסטוריה שלך בכל פעם, תוך חסימת פרסומות ורכיבי מעקב.
 # This string is the title for the banner for search engine selection
 # in a private window.
@@ -50,7 +51,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = סגירה
-about-private-browsing-dismiss-button =
-    .title = סגירה
 about-private-browsing-promo-close-button =
     .title = סגירה
