@@ -31,6 +31,13 @@ videocontrols-closed-caption-off =
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Tugna-deg-tugna
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = Wali deg Tugna-deg-tugna
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer = Senker tavidyut deg uɣawas n sdat mi ara txeddmeḍ ayen-nniḍen deg { -brand-short-name }
 videocontrols-error-aborted = Asali n tvidyut yeḥbes
 videocontrols-error-network = Urar n tvidyutt yeḥbes acku tella tuccḍa deg uẓeṭṭa.
 videocontrols-error-decode = Ur tezmireḍ ara ad twaliḍ tavidyutt acku afaylu diri-t.
