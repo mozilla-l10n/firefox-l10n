@@ -6,6 +6,9 @@
 thunderbird-import-name = Thunderbird
 # Description of the import module
 thunderbird-import-description = Thunderbird profil dizininden postaları içe aktar.
+import-from-thunderbird-zip =
+    .label = Thunderbird (dışa aktarılan profil yedeği, 2 GB'den küçük zip dosyası)
+    .accesskey = Z
 import-from-thunderbird-dir =
     .label = Thunderbird (profil klasörü)
     .accesskey = T

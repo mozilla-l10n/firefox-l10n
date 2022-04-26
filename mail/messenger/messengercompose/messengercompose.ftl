@@ -30,6 +30,13 @@ pill-tooltip-not-in-address-book = { $email } adres defterinizde yok
 pill-action-edit =
     .label = Adresi düzenle
     .accesskey = d
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = { $type } içindeki tüm adresleri seç
+    .accesskey = t
+pill-action-select-all-pills =
+    .label = Tüm adresleri seç
+    .accesskey = m
 pill-action-move-to =
     .label = Kime alanına taşı
     .accesskey = m
@@ -74,19 +81,13 @@ context-menuitem-attach-files =
     .label = Dosya ekle…
     .accesskey = D
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
-#   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } ek
-            [one] { $count } ek
-           *[other] { $count } ek
-        }
-    .accesskey = e
-expand-attachment-pane-tooltip =
-    .tooltiptext = Ek bölmesini göster ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Ek bölmesini gizle ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = vCard'ım
+    .accesskey = C
+context-menuitem-attach-openpgp-key =
+    .label = OpenPGP ortak anahtarım
+    .accesskey = k
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
@@ -94,6 +95,10 @@ attachment-bucket-count-value =
         [one] { $count } ek
        *[other] { $count } ek
     }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Ek bölmesini göster ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Ek bölmesini gizle ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-show =
     .title = Ek bölmesini göster ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -129,6 +134,21 @@ message-to-be-signed-icon =
     .alt = İletiyi imzala
 message-to-be-encrypted-icon =
     .alt = İletiyi şifrele
+encryption-menu =
+    .label = Güvenlik
+    .accesskey = G
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = O
+menu-smime =
+    .label = S/MIME
+    .accesskey = S
+menu-encrypt =
+    .label = Şifrele
+    .accesskey = e
+menu-encrypt-subject =
+    .label = Konuyu şifrele
+    .accesskey = o
 
 ## Addressing Area
 
@@ -235,7 +255,10 @@ encrypted-bcc-ignore-button = Anladım
 compose-tool-button-remove-text-styling =
     .tooltiptext = Metin stilini kaldır
 
-## FileLink
+## Filelink
+
+
+# Placeholder file
 
 
 # Template
@@ -262,14 +285,6 @@ cloud-file-service-provider-footer-single = { $link } hakkında daha fazla bilgi
 cloud-file-service-provider-footer-multiple = { $firstLinks } ve { $lastLink } hakkında daha fazla bilgi alın.
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Parola korumalı bağlantı
-# Used in a list of stats about a specific file
-# Service - the used service provider to host the file (CloudFile Service: BOX.com)
-# Size - the size of the file (Size: 4.2 MB)
-# Link - the link to the file (Link: https://some.provider.com)
-# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
-# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
-#                  (Download Limit: 6)
-cloud-file-template-service = CloudFile hizmeti:
 cloud-file-template-size = Boyut:
 cloud-file-template-link = Bağlantı:
 cloud-file-template-password-protected-link = Parola korumalı bağlantı:

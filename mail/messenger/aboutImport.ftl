@@ -52,9 +52,17 @@ addr-book-directories-pane-title = İçeri aktarmak istediğiniz dizini seçin:
 addr-book-directories-pane-source = Kaynak dosya:
 addr-book-import-into-new-directory = Yeni dizin oluştur
 
+## Import from address book file steps
+
+calendar-items-loading = Öğeler yükleniyor…
+calendar-items-filter-input =
+    .placeholder = Öğeleri filtrele…
+calendar-select-all-items = Tümünü seç
+calendar-deselect-all-items = Seçimi temizle
+calendar-import-into-new-calendar = Yeni bir takvim oluştur
+
 ## Import dialog
 
-progress-pane-title = İçe aktarılıyor
 progress-pane-importing = İçe aktarılıyor
 progress-pane-exporting = Dışa aktarılıyor
 progress-pane-finished-desc = Tamamlandı.
@@ -63,6 +71,7 @@ error-pane-title = Hata
 error-message-zip-file-too-big = Seçilen zip dosyası 2 GB'den büyük. Lütfen önce dosyayı arşivden çıkarıp bunun yerine çıkarılan klasörden içe aktarın.
 error-message-extract-zip-file-failed = Zip dosyası çıkarılamadı. Lütfen elle çıkardıktan sonra klasörden içe aktarın.
 error-message-failed = İçe aktarma beklenmedik bir şekilde başarısız oldu. Hata Konsolu'nda daha fazla bilgi mevcut olabilir.
+error-failed-to-parse-ics-file = Dosyada içe aktarılabilir öğe bulunamadı.
 error-export-failed = Dışa aktarma beklenmedik bir şekilde başarısız oldu. Hata Konsolu'nda daha fazla bilgi mevcut olabilir.
 
 ## <csv-field-map> element
