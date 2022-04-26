@@ -130,6 +130,13 @@ message-header-msg-flagged =
 message-header-msg-not-flagged =
     .title = Message non marcate per stellas
 
+## Message header cutomize panel
+
+message-header-button-style-text =
+    .label = Texto
+message-header-button-style-icons =
+    .label = Icones
+
 ## Action Button Context Menu
 
 toolbar-context-menu-manage-extension =
@@ -172,24 +179,6 @@ decrypt-and-copy-failures = { $failures } de { $total } messages non pote esser 
 
 ## Spaces toolbar
 
-spaces-toolbar =
-    .toolbarname = Barra del spatios
-spaces-toolbar-button-mail =
-    .title = Passar al scheda del posta
-spaces-toolbar-button-address-book =
-    .title = Passar al scheda del libro del adresses
-spaces-toolbar-button-calendar =
-    .title = Passar al scheda del agenda
-spaces-toolbar-button-tasks =
-    .title = Passar al scheda del activitate
-spaces-toolbar-button-chat =
-    .title = Passar al scheda del chat
-spaces-toolbar-button-settings =
-    .title = Passar al scheda del parametros
-spaces-toolbar-button-collapse =
-    .title = Comprimer le barra del spatios
-spaces-toolbar-button-reveal =
-    .title = Monstrar le barra del instrumentos de spatios
 spaces-toolbar-element =
     .toolbarname = Barra de instrumentos del spatios
     .aria-label = Barra de instrumentos del spatios
@@ -241,8 +230,6 @@ spaces-pinned-button-menuitem-tasks =
     .label = { spaces-toolbar-button-tasks.title }
 spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
-spaces-pinned-button-menuitem-reveal =
-    .label = { spaces-toolbar-button-reveal.title }
 spaces-pinned-button-menuitem-settings =
     .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
@@ -259,6 +246,8 @@ chat-button-unread-messages = { $count }
 ## Spaces toolbar customize panel
 
 spaces-context-customize =
+    .label = Personalisar…
+menuitem-customize-label =
     .label = Personalisar…
 spaces-customize-panel-title = Parametros de barra del instrumentos spatios
 spaces-customize-background-color = Color de fundo
