@@ -17,9 +17,7 @@
 <!ENTITY newListCmd.label                               "Փոստացանկ…">
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "Հասցէագիրք…">
-<!ENTITY newAddressBookCmd.accesskey                    "B">
 <!ENTITY newCardDAVBookCmd.label                        "CardDAV Հասցէագիրք…">
-<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP գրացուցակ...">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Հաղորդագրութիւն">
@@ -35,16 +33,14 @@
 <!ENTITY printContactCmd.accesskey                      "P">
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Տպագրման հասցէագիրք…">
-<!ENTITY printAddressBook.accesskey                     "A">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Խմբագրել">
 <!ENTITY editMenu.accesskey                             "E">
 <!ENTITY deleteCmd.label                                "Ջնջել">
 <!ENTITY deleteAbCmd.label                              "Ջնջել հասցէագիրքը">
-<!ENTITY deleteAbCmd.accesskey                          "D">
+<!ENTITY deleteAbCmd.accesskey                          "ջ">
 <!ENTITY removeAbCmd.label                              "Հեռացնել հասցէագիրքը">
-<!ENTITY removeAbCmd.accesskey                          "d">
 <!ENTITY deleteContactCmd.label                         "Ջնջել կապորդը">
 <!ENTITY deleteContactsCmd.label                        "Ջնջել կապորդները">
 <!ENTITY deleteListCmd.label                            "Ջնջել ցուցակը">
@@ -55,7 +51,6 @@
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
 <!ENTITY abPropertiesMenu.label                         "Հասցէագրքի յատկութիւններ">
-<!ENTITY abPropertiesMenu.accesskey                     "i">
 <!ENTITY contactPropertiesMenu.label                    "Կապորդի յատկութիւններ">
 <!ENTITY contactPropertiesMenu.accesskey                "i">
 <!ENTITY mailingListPropertiesMenu.label                "Փոստացանկի յատկութիւններ">

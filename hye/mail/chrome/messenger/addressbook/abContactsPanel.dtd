@@ -6,7 +6,6 @@
 <!ENTITY propertiesMenu.accesskey           "i">
 <!ENTITY propertiesCmd.key                  "i">
 <!ENTITY abPropertiesMenu.label             "Հասցէագրքի յատկութիւները">
-<!ENTITY abPropertiesMenu.accesskey         "i">
 <!ENTITY contactPropertiesMenu.label        "Կապի հատկութիւներ">
 <!ENTITY contactPropertiesMenu.accesskey    "i">
 <!ENTITY mailingListPropertiesMenu.label    "Փոստային ցուցակների յատկութիւներ">
@@ -14,7 +13,6 @@
 
 <!ENTITY abContextMenuButton.tooltip        "Ցուցադրել հասցէների գրքի համատեքստի ընտրացանկը">
 <!ENTITY addressbookPicker.label            "Հասցէագիրք.">
-<!ENTITY addressbookPicker.accesskey        "k">
 <!ENTITY searchContacts.label               "Փնտրել կապորդներ:">
 <!ENTITY searchContacts.accesskey           "n">
 <!ENTITY SearchNameOrEmail.label            "Անուն կամ եղեկտրոնային հասցէ">
@@ -26,24 +24,19 @@
 <!ENTITY addtoBccFieldMenu.label            "Աւելացնել «Կոյր պատճէնացանկ» դաշտում">
 <!ENTITY addtoBccFieldMenu.accesskey        "Կ">
 <!ENTITY deleteAddrBookCard.label           "Ջնջել">
-<!ENTITY deleteAddrBookCard.accesskey       "D">
 <!ENTITY propertiesContext.label            "Յատկութիւնները">
 <!ENTITY propertiesContext.accesskey        "i">
 <!ENTITY abPropertiesContext.label          "Յատկութիւնները">
-<!ENTITY abPropertiesContext.accesskey      "i">
 <!ENTITY editContactContext.label           "Փոփոխել կապորդին">
 <!ENTITY editContactContext.accesskey       "E">
 <!ENTITY editMailingListContext.label       "Փոփոխել ցանկը">
 <!ENTITY editMailingListContext.accesskey   "E">
 
 <!ENTITY newContactAbContext.label          "Նոր կապորդ">
-<!ENTITY newContactAbContext.accesskey      "C">
 <!ENTITY newListAbContext.label             "Նոր ցանկ">
-<!ENTITY newListAbContext.accesskey         "L">
 
 <!ENTITY toButton.label                     "Աւելացնել To դաշտում.">
-<!ENTITY toButton.accesskey                 "A">
-<!ENTITY ccButton.label                     "Աւելացնել CC դաշտում.">
-<!ENTITY ccButton.accesskey                 "C">
+<!ENTITY ccButton.label                     "Աւելացնել Պատճէնացանկ դաշտում.">
+<!ENTITY ccButton.accesskey                 "Պ">
 <!ENTITY bccButton.label                    "Աւելացնել «Կոյր պատճէնացանկ» դաշտում.">
-<!ENTITY bccButton.accesskey                "B">
+<!ENTITY bccButton.accesskey                "Կ">

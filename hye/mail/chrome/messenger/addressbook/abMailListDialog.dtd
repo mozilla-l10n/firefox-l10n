@@ -7,7 +7,7 @@
 
 <!-- Labels and Access Keys -->
 <!ENTITY addToAddressBook.label         "Աւելացնել․">
-<!ENTITY addToAddressBook.accesskey     "A">
+<!ENTITY addToAddressBook.accesskey     "Ա">
 <!ENTITY ListName.label                 "Ցանկի անունը.">
 <!ENTITY ListName.accesskey             "Լ">
 <!ENTITY ListNickName.label             "Ցանկի մականուն․">

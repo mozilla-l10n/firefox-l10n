@@ -67,9 +67,21 @@ show-bcc-row-main-menuitem =
     .label = Կոյր պատճէնացանկ դաշտ
     .accesskey = Կ
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Կոյր պատճէնացանկ
+    .accesskey = Բ
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Կոյր պատճէնացանկ
+    .title = Ցուցադրել Կոյր պատճէնացանկի դաշտը ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+many-public-recipients-bcc =
+    .label = Փոխարենը աւգտագործէք Կոյր պատճէնացանկը
+    .accesskey = օ
 
 ## Notifications
 
+encrypted-bcc-ignore-button = Հասկանալի է
 
 ## Editing
 

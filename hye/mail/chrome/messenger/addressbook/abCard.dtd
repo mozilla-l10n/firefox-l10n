@@ -51,11 +51,8 @@
 <!ENTITY HomePhone.label                "Տուն․">
 <!ENTITY HomePhone.accesskey            "m">
 <!ENTITY FaxNumber.label                "Հեռապատճէն.">
-<!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Հեռատող․">
-<!ENTITY PagerNumber.accesskey          "g">
 <!ENTITY CellularNumber.label           "Բջջային․">
-<!ENTITY CellularNumber.accesskey       "b">
 
 <!ENTITY Home.tab                       "Անձնական">
 <!ENTITY Home.accesskey                 "P">
@@ -72,9 +69,7 @@
 <!ENTITY HomeCountry.label              "Երկիր․">
 <!ENTITY HomeCountry.accesskey          "u">
 <!ENTITY HomeWebPage.label              "Կայք էջ․">
-<!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "Ծննդեան ամսաթիւ․">
-<!ENTITY Birthday.accesskey             "B">
 <!ENTITY Month.placeholder              "Ամիս">
 <!ENTITY Day.placeholder                "Աւր">
 <!ENTITY Year.placeholder               "Տարի">
@@ -84,7 +79,6 @@
 <!ENTITY Work.tab                       "Աշխատանք">
 <!ENTITY Work.accesskey                 "W">
 <!ENTITY JobTitle.label                 "Վերնագիր․">
-<!ENTITY JobTitle.accesskey             "i">
 <!ENTITY Department.label               "Բաժին․">
 <!ENTITY Department.accesskey           "m">
 <!ENTITY Company.label                  "Կազմակերպութիւն․">
@@ -102,7 +96,6 @@
 <!ENTITY WorkCountry.label              "Երկիր․">
 <!ENTITY WorkCountry.accesskey          "u">
 <!ENTITY WorkWebPage.label              "Կայք էջ․">
-<!ENTITY WorkWebPage.accesskey          "e">
 
 <!ENTITY Other.tab                      "Այղ">
 <!ENTITY Other.accesskey                "h">
@@ -146,9 +139,7 @@
 <!ENTITY PhotoFile.label                "Այս համակարգչի վրայ">
 <!ENTITY PhotoFile.accesskey            "n">
 <!ENTITY BrowsePhoto.label              "Զննարկել">
-<!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "Համացանցում">
-<!ENTITY PhotoURL.accesskey             "b">
 <!ENTITY PhotoURL.placeholder           "Տեղադրէք կամ հաւաքէք նկարի յղումը">
 <!ENTITY UpdatePhoto.label              "Թարմացնել">
 <!ENTITY UpdatePhoto.accesskey          "u">
