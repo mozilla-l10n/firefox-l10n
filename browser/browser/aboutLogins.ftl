@@ -169,6 +169,11 @@ about-logins-confirm-remove-all-sync-dialog-title =
         [one] Премахване на { $count } регистрация от всички устройства?
        *[other] Премахване на { $count } регистрации от всички устройства?
     }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [one] Така ще бъде премахната запазената във { -brand-short-name } регистрация от всички устройства, синхронизирани с { -fxaccount-brand-name }. Също и всички известия за пробиви, появяващи се тук. Действието е необратимо.
+       *[other] Така ще бъдат премахнати запазените във { -brand-short-name } регистрации от всички устройства, синхронизирани с { -fxaccount-brand-name }. Също и всички известия за пробиви, появяващи се тук. Действието е необратимо.
+    }
 about-logins-confirm-export-dialog-title = Изнасяне на регистрации и пароли
 about-logins-confirm-export-dialog-message = Вашите пароли ще бъдат запазени като четим текст (например Лош@Пар0ла), така че всеки, който има достъп до изнесения файл ще може да ги види.
 about-logins-confirm-export-dialog-confirm-button = Изнасяне…

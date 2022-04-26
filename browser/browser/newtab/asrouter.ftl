@@ -84,6 +84,13 @@ cfr-whatsnew-release-notes-link-text = Прочетете бележките к�
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] { -brand-short-name } е спрял повече от <b>{ $blockCount }</b> проследявания от { DATETIME($date, month: "long", year: "numeric") }!
+    }
 cfr-doorhanger-milestone-ok-button = Показване на всички
     .accesskey = с
 cfr-doorhanger-milestone-close-button = Затваряне
@@ -98,6 +105,7 @@ cfr-doorhanger-doh-secondary-button = Изключване
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-header = Изолирана страница
 cfr-doorhanger-fission-primary-button = Добре, разбрах
     .accesskey = Д
 cfr-doorhanger-fission-secondary-button = Научете повече
@@ -118,6 +126,10 @@ cfr-doorhanger-video-support-primary-button = Обновяване
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
+spotlight-public-wifi-vpn-header = Изглежда, че използвате обществена безжична мрежа
+spotlight-public-wifi-vpn-primary-button = Запазете поверителността си с { -mozilla-vpn-brand-name }
+    .accesskey = З
 spotlight-public-wifi-vpn-link = Не сега
     .accesskey = Н
 
