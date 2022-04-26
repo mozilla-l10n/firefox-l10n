@@ -14,12 +14,23 @@ videocontrols-closed-caption-button =
     .aria-label = คำบรรยายแบบปิด
 videocontrols-play-button =
     .aria-label = เล่น
+videocontrols-pause-button =
+    .aria-label = หยุดชั่วคราว
 videocontrols-mute-button =
     .aria-label = ปิดเสียง
+videocontrols-unmute-button =
+    .aria-label = เลิกปิดเสียง
+videocontrols-enterfullscreen-button =
+    .aria-label = เต็มหน้าจอ
 videocontrols-exitfullscreen-button =
     .aria-label = ออกจากภาพเต็มหน้าจอ
+videocontrols-casting-button-label =
+    .aria-label = ฉายขึ้นหน้าจอ
 videocontrols-closed-caption-off =
     .offlabel = ปิด
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = ภาพที่เล่นควบคู่
 videocontrols-error-aborted = วิดีโอหยุดโหลด
 videocontrols-error-network = การเล่นวิดีโอถูกยกเลิกเนื่องจากข้อผิดพลาดทางเครือข่าย
 videocontrols-error-decode = ไม่สามารถเล่นวิดีโอได้เนื่องจากไฟล์เสียหาย
