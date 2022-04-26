@@ -20,4 +20,21 @@ videocontrols-mute-button =
     .aria-label = 음소거
 videocontrols-enterfullscreen-button =
     .aria-label = 전체 화면 표시
+videocontrols-casting-button-label =
+    .aria-label = 화면으로 출력
+videocontrols-closed-caption-off =
+    .offlabel = 끔
 videocontrols-error-decode = 파일이 깨져서 동영상을 재생할 수 없습니다.
+# This message shows the current position and total video duration
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+#
+# For example, when at the 5 minute mark in a 6 hour long video,
+# $position would be "5:00" and $duration would be "6:00:00", result
+# string would be "5:00 / 6:00:00". Note that $duration is not always
+# available. For example, when at the 5 minute mark in an unknown
+# duration video, $position would be "5:00" and the string which is
+# surrounded by <span> would be deleted, result string would be "5:00".
+videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
