@@ -26,6 +26,21 @@ videocontrols-exitfullscreen-button =
     .aria-label = 退出全屏
 videocontrols-casting-button-label =
     .aria-label = 投射到屏幕
+videocontrols-closed-caption-off =
+    .offlabel = 关
 videocontrols-error-network = 视频播放因网络错误中止。
 videocontrols-error-decode = 视频无法播放，因为该文件已损坏。
 videocontrols-error-generic = 视频播放因未知错误中止。
+# This message shows the current position and total video duration
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+#
+# For example, when at the 5 minute mark in a 6 hour long video,
+# $position would be "5:00" and $duration would be "6:00:00", result
+# string would be "5:00 / 6:00:00". Note that $duration is not always
+# available. For example, when at the 5 minute mark in an unknown
+# duration video, $position would be "5:00" and the string which is
+# surrounded by <span> would be deleted, result string would be "5:00".
+videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
