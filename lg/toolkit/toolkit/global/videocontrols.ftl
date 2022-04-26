@@ -16,6 +16,7 @@ videocontrols-exitfullscreen-button =
     .aria-label = Fuluma Olutimbe Olujjuvu
 videocontrols-error-aborted = Okutika video kukomye.
 videocontrols-error-network = Okuzanya vidiyo kukomeddwa olwensobi munyunga.
+videocontrols-error-decode = Vidiyo teyinza kuzanyibwa kubanga fayiro eyononese.
 videocontrols-error-src-not-supported = Engeri ya vidiyo oba ekika kya MIME tekiwagirwa.
 videocontrols-error-no-source = Tewali vidiyo eyentereza ewagirwa ne ekika kya MIME kyizulidwa.
 videocontrols-error-generic = Okuzanya vidiyo kukomezeddwa olwensobi etamanyiddwa.
