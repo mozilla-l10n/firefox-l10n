@@ -37,6 +37,7 @@ videocontrols-error-decode = ไม่สามารถเล่นวิดี
 videocontrols-error-src-not-supported = ไม่สามารถเล่นวิดีโอรูปแบบนี้ หรือ MIME ชนิดนี้ได้
 videocontrols-error-no-source = ไม่พบวิดีโอที่อยู่ในรูปแบบหรือชนิดของ MIME ที่เล่นได้
 videocontrols-error-generic = การเล่นวิดีโอถูกยกเลิกเนื่องจากข้อผิดพลาดที่ไม่ระบุไม่ได้
+videocontrols-status-picture-in-picture = วิดีโอนี้กำลังเล่นในโหมดภาพที่เล่นควบคู่
 # This message shows the current position and total video duration
 #
 # Variables:
