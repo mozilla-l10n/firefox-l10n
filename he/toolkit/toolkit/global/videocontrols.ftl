@@ -20,6 +20,8 @@ videocontrols-exitfullscreen-button =
     .aria-label = יציאה ממסך מלא
 videocontrols-casting-button-label =
     .aria-label = שידור ל־Screen
+videocontrols-closed-caption-off =
+    .offlabel = כיבוי
 videocontrols-error-aborted = טעינת הווידאו הופסקה.
 # This message shows the current position and total video duration
 #
