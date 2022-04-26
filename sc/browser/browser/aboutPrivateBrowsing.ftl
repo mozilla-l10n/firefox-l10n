@@ -31,6 +31,7 @@ about-private-browsing-get-privacy = Ampara sa riservadesa tua in onni situ chi 
 about-private-browsing-hide-activity-1 = Cua s'atividade e sa positzione tuas cun { -mozilla-vpn-brand-name }. Crea una connessione segura cun unu clic ebbia, fintzas in retes Wi-Fi pùblicas.
 about-private-browsing-prominent-cta = Ampara sa riservadesa tua cun { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Iscàrriga { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: navigatzione privada in ònnia logu
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 

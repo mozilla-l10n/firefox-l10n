@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Inglesu (IUA)
+#define MOZ_LANG_TITLE Sardu
