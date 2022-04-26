@@ -89,7 +89,7 @@ cfr-whatsnew-release-notes-link-text = Прочетете бележките к�
 #   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
-       *[other] { -brand-short-name } е спрял повече от <b>{ $blockCount }</b> проследявания от { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] { -brand-short-name } е спрял повече от <b>{ $blockedCount }</b> проследявания от { DATETIME($date, month: "long", year: "numeric") }
     }
 cfr-doorhanger-milestone-ok-button = Показване на всички
     .accesskey = с
