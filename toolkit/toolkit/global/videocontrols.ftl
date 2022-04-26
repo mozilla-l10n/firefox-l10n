@@ -12,3 +12,7 @@ videocontrols-volume-control =
     .aria-label = Lefel y sain
 videocontrols-closed-caption-button =
     .aria-label = Capsiynau Caeedig
+videocontrols-play-button =
+    .aria-label = Chwarae
+videocontrols-mute-button =
+    .aria-label = Tewi
