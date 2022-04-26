@@ -24,11 +24,14 @@ videocontrols-enterfullscreen-button =
     .aria-label = Layar Penuh
 videocontrols-exitfullscreen-button =
     .aria-label = Keluar dari Layar Penuh
+videocontrols-casting-button-label =
+    .aria-label = Proyeksikan ke Layar
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Gambar-dalam-gambar
 videocontrols-error-aborted = Pemuatan video dihentikan.
 videocontrols-error-network = Pemutaran video dibatalkan karena ada galat jaringan.
+videocontrols-error-decode = Video tidak dapat diputar karena berkasnya rusak.
 videocontrols-error-src-not-supported = Format atau jenis MIME video tidak dudukung.
 videocontrols-error-no-source = Tidak ditemukan video dalam format atau jenis MIME yang didukung.
 videocontrols-error-generic = Pemutaran video dibatalkan karena galat tidak dikenal.
