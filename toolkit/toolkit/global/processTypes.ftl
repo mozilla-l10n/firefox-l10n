@@ -43,7 +43,7 @@ process-type-socket = Socket
 # process used to decode media
 process-type-rdd = RDD
 # process used to run some IPC actor in their own sandbox
-process-type-utility = Agente IPC em sandbox
+process-type-utility = Agente IPC em isolamento (sandbox)
 
 ##
 ## Other
