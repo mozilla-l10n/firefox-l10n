@@ -132,6 +132,19 @@ message-header-msg-flagged =
 message-header-msg-not-flagged =
     .title = Повідомлення, не позначене зірочкою
 
+## Message header cutomize panel
+
+message-header-customize-panel-title = Налаштування заголовка повідомлення
+message-header-customize-button-style =
+    .value = Стиль кнопки
+    .accesskey = к
+message-header-button-style-default =
+    .label = Піктограми й текст
+message-header-button-style-text =
+    .label = Текст
+message-header-button-style-icons =
+    .label = Піктограми
+
 ## Action Button Context Menu
 
 toolbar-context-menu-manage-extension =
@@ -174,24 +187,6 @@ decrypt-and-copy-failures = Не вдалося розшифрувати та с
 
 ## Spaces toolbar
 
-spaces-toolbar =
-    .toolbarname = Панель Місць
-spaces-toolbar-button-mail =
-    .title = Перемкнутись на вкладку пошти
-spaces-toolbar-button-address-book =
-    .title = Перемкнутись на вкладку адресної книги
-spaces-toolbar-button-calendar =
-    .title = Перемкнутись на вкладку календаря
-spaces-toolbar-button-tasks =
-    .title = Перемкнутись на вкладку завдань
-spaces-toolbar-button-chat =
-    .title = Перемкнутись на вкладку бесіди
-spaces-toolbar-button-settings =
-    .title = Перемкнутись на вкладку налаштувань
-spaces-toolbar-button-collapse =
-    .title = Згорнути панель місць
-spaces-toolbar-button-reveal =
-    .title = Показати панель місць
 spaces-toolbar-element =
     .toolbarname = Панель Місць
     .aria-label = Панель Місць
@@ -243,8 +238,6 @@ spaces-pinned-button-menuitem-tasks =
     .label = { spaces-toolbar-button-tasks.title }
 spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
-spaces-pinned-button-menuitem-reveal =
-    .label = { spaces-toolbar-button-reveal.title }
 spaces-pinned-button-menuitem-settings =
     .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
@@ -263,6 +256,8 @@ chat-button-unread-messages = { $count }
 
 spaces-context-customize =
     .label = Налаштувати…
+menuitem-customize-label =
+    .label = Налаштувати…
 spaces-customize-panel-title = Налаштування панелі місць
 spaces-customize-background-color = Колір тла
 spaces-customize-icon-color = Колір кнопки
@@ -275,4 +270,6 @@ spaces-customize-accent-text-color = Вибраний колір кнопки
 spaces-customize-button-restore = Відновити типові
     .accesskey = В
 spaces-customize-button-save = Готово
+    .accesskey = Г
+customize-panel-button-save = Готово
     .accesskey = Г
