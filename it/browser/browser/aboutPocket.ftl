@@ -72,6 +72,5 @@ pocket-panel-header-sign-in = Accedi
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Visualizza tutto
-pocket-panel-button-add-tags = Aggiungi etichette
 pocket-panel-button-activate = Attiva { -pocket-brand-name } in { -brand-product-name }
 pocket-panel-button-remove = Rimuovi
