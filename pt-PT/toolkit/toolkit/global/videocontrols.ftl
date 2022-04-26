@@ -14,3 +14,7 @@ videocontrols-closed-caption-button =
     .aria-label = Legendas de áudio
 videocontrols-play-button =
     .aria-label = Reproduzir
+videocontrols-error-aborted = O carregamento do vídeo parou.
+videocontrols-error-network = Reprodução de vídeo abortada devido a um erro de rede.
+videocontrols-error-src-not-supported = Formato de vídeo ou tipo MIME não suportado.
+videocontrols-error-generic = Reprodução de vídeo abortada devido a um erro desconhecido.
