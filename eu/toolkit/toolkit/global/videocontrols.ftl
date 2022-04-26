@@ -31,6 +31,13 @@ videocontrols-closed-caption-off =
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Bideoa beste leiho batean
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = Ikusi bideoa beste leiho batean
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer = Erreproduzitu bideoak aurreko planoan { -brand-short-name }(e)n beste gauza batzuk egin bitartean
 videocontrols-error-aborted = Bideoa kargatzea geldituta.
 videocontrols-error-network = Bideoaren erreprodukzioa abortatuta sareko errore batengatik.
 videocontrols-error-decode = Ezin da bideoa erreproduzitu fitxategia hondatuta dagoelako.
