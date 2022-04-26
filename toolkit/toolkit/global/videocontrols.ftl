@@ -24,6 +24,9 @@ videocontrols-casting-button-label =
     .aria-label = 화면으로 출력
 videocontrols-closed-caption-off =
     .offlabel = 끔
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = 화면 속 화면
 videocontrols-error-decode = 파일이 깨져서 동영상을 재생할 수 없습니다.
 # This message shows the current position and total video duration
 #
