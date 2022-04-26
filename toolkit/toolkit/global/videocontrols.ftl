@@ -16,6 +16,9 @@ videocontrols-casting-button-label =
     .aria-label = Пребаци на екран
 videocontrols-closed-caption-off =
     .offlabel = Искључено
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = Слика у слици
 # This message shows the current position and total video duration
 #
 # Variables:
