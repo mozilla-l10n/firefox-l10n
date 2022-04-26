@@ -26,6 +26,9 @@ videocontrols-exitfullscreen-button =
     .aria-label = Ffeɣ seg uskar n ugdil ačuran
 videocontrols-closed-caption-off =
     .offlabel = Yensa
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = Tugna-deg-tugna
 videocontrols-error-aborted = Asali n tvidyut yeḥbes
 videocontrols-error-network = Urar n tvidyutt yeḥbes acku tella tuccḍa deg uẓeṭṭa.
 videocontrols-error-decode = Ur tezmireḍ ara ad twaliḍ tavidyutt acku afaylu diri-t.
