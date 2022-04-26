@@ -28,4 +28,5 @@ videocontrols-error-aborted = Se detuvo la carga del video.
 videocontrols-error-network = Reproducción de video interrumpida por un error de red.
 videocontrols-error-decode = No puede reproducirse el video porque el archivo está corrupto.
 videocontrols-error-src-not-supported = El formato o tipo MIME del video no se admite.
+videocontrols-error-no-source = No se encontró ningún video que tenga un formato y tipo MIME compatibles.
 videocontrols-error-generic = La reproducción del video se detuvo por un error desconocido.
