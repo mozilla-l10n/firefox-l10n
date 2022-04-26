@@ -28,10 +28,19 @@ videocontrols-casting-button-label =
     .aria-label = Транслировать на экран
 videocontrols-closed-caption-off =
     .offlabel = Выкл.
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = Картинка в картинке
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = Смотреть в режиме «Картинка в картинке»
 videocontrols-error-aborted = Загрузка видео остановлена.
 videocontrols-error-network = Воспроизведение видео прервано из-за ошибки сети.
 videocontrols-error-decode = Видео не может быть воспроизведено, так как файл повреждён.
+videocontrols-error-src-not-supported = Формат видео или MIME-тип не поддерживается.
+videocontrols-error-no-source = Видео в поддерживаемом формате и MIME-типе не найдено.
 videocontrols-error-generic = Воспроизведение видео прервано из-за неизвестной ошибки.
+videocontrols-status-picture-in-picture = Это видео воспроизводится в режиме «Картинка в картинке».
 # This message shows the current position and total video duration
 #
 # Variables:
