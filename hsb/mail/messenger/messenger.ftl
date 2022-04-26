@@ -134,6 +134,15 @@ message-header-msg-flagged =
 message-header-msg-not-flagged =
     .title = Powěsć bjez hwěžki
 
+## Message header cutomize panel
+
+message-header-button-style-default =
+    .label = Symbole a tekst
+message-header-button-style-text =
+    .label = Tekst
+message-header-button-style-icons =
+    .label = Symbole
+
 ## Action Button Context Menu
 
 toolbar-context-menu-manage-extension =
@@ -176,24 +185,6 @@ decrypt-and-copy-failures = { $failures } z { $total } powěsćow njejsu so deš
 
 ## Spaces toolbar
 
-spaces-toolbar =
-    .toolbarname = Lajsta dźělnych programow
-spaces-toolbar-button-mail =
-    .title = K e-mejlowemu rajtarkej přeńć
-spaces-toolbar-button-address-book =
-    .title = K rajtarkej adresnika přeńć
-spaces-toolbar-button-calendar =
-    .title = K protykowemu rajtarkej přeńć
-spaces-toolbar-button-tasks =
-    .title = K nadawkowemu rajtarkej přepinać
-spaces-toolbar-button-chat =
-    .title = K chattowemu rajtarkej přeńć
-spaces-toolbar-button-settings =
-    .title = K rajtarkej nastajenjow přeńć
-spaces-toolbar-button-collapse =
-    .title = Lajstu dźělnych programow schować
-spaces-toolbar-button-reveal =
-    .title = Lajstu dźělnych programow pokazać
 spaces-toolbar-element =
     .toolbarname = Lajsta dźělowych programow
     .aria-label = Lajsta dźělowych programow
@@ -245,8 +236,6 @@ spaces-pinned-button-menuitem-tasks =
     .label = { spaces-toolbar-button-tasks.title }
 spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
-spaces-pinned-button-menuitem-reveal =
-    .label = { spaces-toolbar-button-reveal.title }
 spaces-pinned-button-menuitem-settings =
     .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
@@ -266,6 +255,8 @@ chat-button-unread-messages = { $count }
 
 spaces-context-customize =
     .label = Přiměrić…
+menuitem-customize-label =
+    .label = Přiměrić…
 spaces-customize-panel-title = Nastajenja lajsty dźělnych programow
 spaces-customize-background-color = Pozadkowa barba
 spaces-customize-icon-color = Tłóčatkowa barba
@@ -278,4 +269,6 @@ spaces-customize-accent-text-color = Barba wubraneho tłóčatka
 spaces-customize-button-restore = Standard wobnowić
     .accesskey = b
 spaces-customize-button-save = Dokónčeny
+    .accesskey = D
+customize-panel-button-save = Dokónčeny
     .accesskey = D

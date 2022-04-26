@@ -193,6 +193,8 @@ openpgp-key-man-reload =
 openpgp-key-man-change-expiry =
     .label = Datum spadnjenja změnić
     .accesskey = D
+openpgp-key-man-ignored-ids =
+    .label = E-mejlowe adresy
 openpgp-key-man-del-key =
     .label = Kluče zhašeć
     .accesskey = h
@@ -363,7 +365,7 @@ key-expired-simple = Kluč je spadnył
 key-revoked-simple = Kluč je so wotwołał
 key-do-you-accept = Akceptujeće, zo so za tutón kluč digitalne signatury a zaklučowanje powěsćow přepruwuje?
 key-accept-warning = Njeakceptujće strašny kluč. Wužiwajće druhi komunikaciski kanal hač e-mejlowy kanal, zo byšće porstowy wotćišć kluča swojeho dopisowarja přepruwował.
-key-verification = Přepruwujće porstowy wućišć kluča z pomocu druheho wěsteho komunikaciskeho kanala hač e-mejl, zo byšće zawěsćił, zo kluč woprawdźe { $addr } słuša.
+key-verification = Přepruwujće porstowy wotćišć kluča z pomocu druheho wěsteho komunikaciskeho kanala hač e-mejl, zo byšće zawěsćił, zo kluč woprawdźe { $addr } słuša.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Njeje móžno powěsć słać, dokelž je problem z wašim wosobinskim klučom. { $problem }
 cannot-encrypt-because-missing = Njeje móžno, tutu powěsć ze zaklučowanjom kónc do kónca pósłác, dokelž su problemy z klučemi slědowacych přijimarjow: { $problem }
