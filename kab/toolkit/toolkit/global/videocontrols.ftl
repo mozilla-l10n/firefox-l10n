@@ -24,6 +24,8 @@ videocontrols-enterfullscreen-button =
     .aria-label = Agdil ačuṛan
 videocontrols-exitfullscreen-button =
     .aria-label = Ffeɣ seg uskar n ugdil ačuran
+videocontrols-casting-button-label =
+    .aria-label = Zuzer ɣef ugdil
 videocontrols-closed-caption-off =
     .offlabel = Yensa
 # This string is used as part of the Picture-in-Picture video toggle button when
@@ -35,6 +37,7 @@ videocontrols-error-decode = Ur tezmireḍ ara ad twaliḍ tavidyutt acku afaylu
 videocontrols-error-src-not-supported = Amasal tvidyutt neɣ tawsit MIME ur ţusefraken ara.
 videocontrols-error-no-source = Ulac tavidyutt yettwafen anda tawsit MIME tettusefrak.
 videocontrols-error-generic = Urar n tvidyutt yeḥbes acku tella tuccḍa tarussint.
+videocontrols-status-picture-in-picture = Tavidyut-a tattwaɣray akka tura deg uskar usliɣ.
 # This message shows the current position and total video duration
 #
 # Variables:
