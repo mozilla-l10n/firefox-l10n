@@ -31,6 +31,13 @@ videocontrols-closed-caption-off =
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Slika u slici
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = Gledaj u prikazu slike-u-slici
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer = Reproduciraj videozapise u prvom planu dok radiš druge stvari u { -brand-short-name }u
 videocontrols-error-aborted = Učitavanje videa zaustavljeno.
 videocontrols-error-network = Reprodukcija videa je prekinuta zbog mrežne greške.
 videocontrols-error-decode = Video nije moguće reproducirati jer je datoteka oštećena.
