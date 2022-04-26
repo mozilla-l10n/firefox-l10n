@@ -35,16 +35,3 @@ videocontrols-error-src-not-supported = جۆری ڤیدیۆکە یان جۆری 
 videocontrols-error-no-source = هیچ ڤیدیۆیەک بە جۆری پشتگیریکراو یان جۆری MIME نەدۆزرایەوە.
 videocontrols-error-generic = پێکردنەوەی ڤیدیۆ وەستا بەهۆی هەڵەیەکی نەزانراو.
 videocontrols-status-picture-in-picture = ئەم ڤیدیۆیە پێدەکرێت بە شێوەی وێنە-لەناو-وێنە .
-# This message shows the current position and total video duration
-#
-# Variables:
-#   $position (String): The current media position
-#   $duration (String): The total video duration
-#
-# For example, when at the 5 minute mark in a 6 hour long video,
-# $position would be "5:00" and $duration would be "6:00:00", result
-# string would be "5:00 / 6:00:00". Note that $duration is not always
-# available. For example, when at the 5 minute mark in an unknown
-# duration video, $position would be "5:00" and the string which is
-# surrounded by <span> would be deleted, result string would be "5:00".
-videocontrols-position-and-duration-labels = #١<span data-l10n-name="position-duration-format">\#٢</span>
