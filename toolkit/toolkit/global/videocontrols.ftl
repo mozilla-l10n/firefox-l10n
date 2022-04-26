@@ -16,5 +16,6 @@ videocontrols-exitfullscreen-button =
     .aria-label = पडदाभरपासून बाहेर पडा
 videocontrols-error-aborted = व्हिडीओ लोड करणे थांबवले.
 videocontrols-error-network = नेटवर्क त्रुटीमुळे व्हिडीओ चालवणे बंद केले.
+videocontrols-error-src-not-supported = व्हिडीओ रूपण किंवा MIME प्रकार समर्थीत नाही.
 videocontrols-error-no-source = समर्थीत रूपण व MIME प्रकारसह व्हिडीओ आढळले नाही.
 videocontrols-error-generic = अपरिचीत त्रुटीमुळे व्हिडीओ चालवणे रद्द केले.
