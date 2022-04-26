@@ -28,6 +28,9 @@ videocontrols-casting-button-label =
     .aria-label = Вивести на екран
 videocontrols-closed-caption-off =
     .offlabel = Вимкнено
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = Зображення в зображенні
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
@@ -38,6 +41,7 @@ videocontrols-error-decode = Відео не може бути відтворе�
 videocontrols-error-src-not-supported = Відеоформат або тип MIME не підтримується.
 videocontrols-error-no-source = Не знайдено відео у підтримуваному форматі та типі MIME.
 videocontrols-error-generic = Відтворення відео зупинено через невідому помилку.
+videocontrols-status-picture-in-picture = Це відео відтворюється в режимі "Зображення в зображенні".
 # This message shows the current position and total video duration
 #
 # Variables:
