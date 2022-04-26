@@ -34,6 +34,7 @@ videocontrols-error-decode = La vidéo ne peut être visionnée car le fichier e
 videocontrols-error-src-not-supported = Le format vidéo ou le type MIME n’est pas géré.
 videocontrols-error-no-source = Aucune vidéo dont le format ou le type MIME est géré n’a été trouvée.
 videocontrols-error-generic = La lecture de la vidéo a été interrompue à cause d’une erreur inconnue.
+videocontrols-status-picture-in-picture = Cette vidéo est en cours de lecture en mode incrustation.
 # This message shows the current position and total video duration
 #
 # Variables:
