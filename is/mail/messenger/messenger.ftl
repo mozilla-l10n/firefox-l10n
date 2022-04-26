@@ -131,6 +131,22 @@ message-header-msg-not-flagged =
     .title = Ekki stjörnumerkt
     .aria-label = Ekki stjörnumerkt
 
+## Message header cutomize panel
+
+message-header-customize-panel-title = Stillingar á skilaboðahaus
+message-header-customize-button-style =
+    .value = Hnappastíll
+    .accesskey = H
+message-header-button-style-default =
+    .label = Tákn og texti
+message-header-button-style-text =
+    .label = Texti
+message-header-button-style-icons =
+    .label = Táknmyndir
+message-header-large-subject =
+    .label = Stór efnislína
+    .accesskey = S
+
 ## Action Button Context Menu
 
 toolbar-context-menu-manage-extension =
@@ -173,24 +189,6 @@ decrypt-and-copy-failures = Ekki var hægt að afkóða { $failures } af { $tota
 
 ## Spaces toolbar
 
-spaces-toolbar =
-    .toolbarname = Svæða-verkfæraslá
-spaces-toolbar-button-mail =
-    .title = Skipta yfir í póstflipa
-spaces-toolbar-button-address-book =
-    .title = Skipta yfir í nafnaskrárflipa
-spaces-toolbar-button-calendar =
-    .title = Skipta yfir á dagatalsflipa
-spaces-toolbar-button-tasks =
-    .title = Skipta yfir á verkefnaflipa
-spaces-toolbar-button-chat =
-    .title = Skipta yfir á spjallflipa
-spaces-toolbar-button-settings =
-    .title = Skipta yfir á stillingaflipa
-spaces-toolbar-button-collapse =
-    .title = Fella saman Svæða-verkfæraslá
-spaces-toolbar-button-reveal =
-    .title = Birta Svæða-verkfæraslána
 spaces-toolbar-element =
     .toolbarname = Svæða-verkfæraslá
     .aria-label = Svæða-verkfæraslá
@@ -242,8 +240,6 @@ spaces-pinned-button-menuitem-tasks =
     .label = { spaces-toolbar-button-tasks.title }
 spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
-spaces-pinned-button-menuitem-reveal =
-    .label = { spaces-toolbar-button-reveal.title }
 spaces-pinned-button-menuitem-settings =
     .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
@@ -261,6 +257,8 @@ chat-button-unread-messages = { $count }
 
 spaces-context-customize =
     .label = Sérsníða…
+menuitem-customize-label =
+    .label = Sérsníða…
 spaces-customize-panel-title = Stillingar Svæða-verkfæraslár
 spaces-customize-background-color = Bakgrunnslitur
 spaces-customize-icon-color = Litur á hnapp
@@ -273,4 +271,6 @@ spaces-customize-accent-text-color = Valinn litur á hnapp
 spaces-customize-button-restore = Endurstilla sjálfgefin gildi
     .accesskey = r
 spaces-customize-button-save = Lokið
+    .accesskey = k
+customize-panel-button-save = Lokið
     .accesskey = k
