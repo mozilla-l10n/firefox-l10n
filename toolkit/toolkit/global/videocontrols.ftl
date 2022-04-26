@@ -18,3 +18,5 @@ videocontrols-mute-button =
     .aria-label = Tắt tiếng
 videocontrols-unmute-button =
     .aria-label = Bật tiếng
+videocontrols-enterfullscreen-button =
+    .aria-label = Toàn màn hình
