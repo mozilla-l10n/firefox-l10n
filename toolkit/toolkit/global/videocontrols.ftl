@@ -16,10 +16,14 @@ videocontrols-play-button =
     .aria-label = Pokreni
 videocontrols-closed-caption-off =
     .offlabel = Isključeno
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = Slika u slici
 videocontrols-error-aborted = Učitavanje videa zaustavljeno.
 videocontrols-error-decode = Video nije moguće reproducirati jer je datoteka oštećena.
 videocontrols-error-src-not-supported = Video format ili MIME vrsta nisu podržani.
 videocontrols-error-no-source = Nije pronađen video s podržanim formatom ili MIME vrstom.
+videocontrols-status-picture-in-picture = Ovaj videozapis reproducira u načinu rada Slika u slici.
 # This message shows the current position and total video duration
 #
 # Variables:
