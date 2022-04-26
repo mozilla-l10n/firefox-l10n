@@ -31,6 +31,13 @@ videocontrols-closed-caption-off =
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = ภาพที่เล่นควบคู่
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = ดูในแบบภาพที่เล่นควบคู่
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer = เล่นวิดีโอในเบื้องหน้าขณะที่คุณทำอย่างอื่นใน { -brand-short-name }
 videocontrols-error-aborted = วิดีโอหยุดโหลด
 videocontrols-error-network = การเล่นวิดีโอถูกยกเลิกเนื่องจากข้อผิดพลาดทางเครือข่าย
 videocontrols-error-decode = ไม่สามารถเล่นวิดีโอได้เนื่องจากไฟล์เสียหาย
