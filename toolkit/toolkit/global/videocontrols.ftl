@@ -12,3 +12,7 @@ videocontrols-volume-control =
     .aria-label = Volume
 videocontrols-closed-caption-button =
     .aria-label = Sotítulos
+videocontrols-play-button =
+    .aria-label = Reproducir
+videocontrols-pause-button =
+    .aria-label = Posar
