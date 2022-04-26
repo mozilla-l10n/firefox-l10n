@@ -40,6 +40,7 @@ videocontrols-picture-in-picture-toggle-label = Watch in Picture-in-Picture
 videocontrols-picture-in-picture-explainer = Play videos in the foreground while you do other things in { -brand-short-name }
 videocontrols-error-aborted = Video loading stopped.
 videocontrols-error-network = Video playback aborted due to a network error.
+videocontrols-error-decode = Video can’t be played because the file is corrupt.
 videocontrols-error-src-not-supported = Video format or MIME type is not supported.
 videocontrols-error-no-source = No video with supported format and MIME type found.
 videocontrols-error-generic = Video playback aborted due to an unknown error.
