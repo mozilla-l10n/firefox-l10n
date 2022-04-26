@@ -12,3 +12,5 @@ videocontrols-volume-control =
     .aria-label = ხმის სიმაღლე
 videocontrols-closed-caption-button =
     .aria-label = დახურული სუბტიტრები
+videocontrols-unmute-button =
+    .aria-label = ხმის ჩართვა
