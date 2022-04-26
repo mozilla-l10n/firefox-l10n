@@ -28,6 +28,16 @@ videocontrols-casting-button-label =
     .aria-label = Diffuser sur l’écran
 videocontrols-closed-caption-off =
     .offlabel = Désactivés
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = Incrustation vidéo
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = Regarder en mode incrustation
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer = Gardez un œil sur des vidéos au premier plan tout en faisant autre chose dans { -brand-short-name }
 videocontrols-error-aborted = Chargement de la vidéo arrêté.
 videocontrols-error-network = La lecture de la vidéo a été interrompue à cause d’une erreur de réseau.
 videocontrols-error-decode = La vidéo ne peut être visionnée car le fichier est corrompu.
