@@ -39,7 +39,6 @@
 <!ENTITY widthEditField.label "Լայնութիւն․">
 <!ENTITY widthEditField.accessKey "Լ">
 <!ENTITY constrainCheckbox.label "Պահպանել համամասնութիւնները">
-<!ENTITY constrainCheckbox.accessKey "Հ">
 <!ENTITY constrainCheckbox.tooltip "Պահպանել պատկերի յարաբերակցութիւնը">
 
 <!-- These controls are in the Image Map box of the expanded area -->
@@ -68,7 +67,7 @@
 <!ENTITY showImageLinkBorder.label "Ցուցադրել սահմանը կցուած պատկերի շուրջ">
 <!ENTITY showImageLinkBorder.accessKey "Ս">
 <!ENTITY LinkAdvancedEditButton.label "Կցել ընդլայնուած խմբագրումը…">
-<!ENTITY LinkAdvancedEditButton.accessKey "Կ">
+<!ENTITY LinkAdvancedEditButton.accessKey "Յ">
 <!ENTITY LinkAdvancedEditButton.tooltip "Աւելացնել կամ փոփոխել HTML֊ի, ոճի յատկանիշները եւ JavaScript-ը">
 
 <!-- These tabs are currently used in the image input dialog -->

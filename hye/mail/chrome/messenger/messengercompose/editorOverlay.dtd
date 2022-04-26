@@ -99,9 +99,8 @@
 <!ENTITY styleSuperscriptCmd.label "վերնագրուածք">
 <!ENTITY styleSuperscriptCmd.accesskey "ր">
 <!ENTITY styleSubscriptCmd.label "Ենթագրուածք">
-<!ENTITY styleSubscriptCmd.accesskey "Ե">
+<!ENTITY styleSubscriptCmd.accesskey "Բ">
 <!ENTITY styleNonbreakingCmd.label "Չընդհատուող">
-<!ENTITY styleNonbreakingCmd.accesskey "Չ">
 <!ENTITY styleEm.label "Շեշտադրում">
 <!ENTITY styleEm.accesskey "Շ">
 <!ENTITY styleStrong.label "Խիստ շեշտադրում">
@@ -109,7 +108,6 @@
 <!ENTITY styleCite.label "Մէջբերում">
 <!ENTITY styleCite.accesskey "Մ">
 <!ENTITY styleAbbr.label "Կրճատում">
-<!ENTITY styleAbbr.accesskey "Կ">
 <!ENTITY styleAcronym.label "Յապաւում">
 <!ENTITY styleAcronym.accesskey "r">
 <!ENTITY styleCode.label "Այղագիր">
@@ -122,7 +120,6 @@
 <!ENTITY formatFontColor.label "Գրոյթի գոյն…">
 <!ENTITY formatFontColor.accesskey "Գ">
 <!ENTITY tableOrCellColor.label "Աղիւսակի եւ վանդակի յետնապատկերի գոյնը...">
-<!ENTITY tableOrCellColor.accesskey "Յ">
 
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
@@ -157,9 +154,7 @@
 <!ENTITY noneCmd.label "Չկայ">
 <!ENTITY noneCmd.accesskey "Չ">
 <!ENTITY listBulletCmd.label "Կետաւորուած">
-<!ENTITY listBulletCmd.accesskey "Կ">
 <!ENTITY listNumberedCmd.label "Թուակալուած">
-<!ENTITY listNumberedCmd.accesskey "ա">
 <!ENTITY listTermCmd.label "Սահման">
 <!ENTITY listTermCmd.accesskey "Ս">
 <!ENTITY listDefinitionCmd.label "Որոշում">
@@ -196,11 +191,9 @@
 <!ENTITY decreaseIndent.key "[">
 
 <!ENTITY colorsAndBackground.label "Էջի գոյները եւ յետնապատկերը…">
-<!ENTITY colorsAndBackground.accesskey "կ">
 
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "Աղիւսակ">
-<!ENTITY tableMenu.accesskey "իւ">
 
 <!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Ընտրել">
@@ -227,22 +220,18 @@
 <!ENTITY tableRowBelow.accesskey "Ն">
 <!ENTITY tableColumn.label "Սիւնակ">
 <!ENTITY tableColumns.label "Սիւնակ(ներ)">
-<!ENTITY tableColumn.accesskey "իւ">
 <!ENTITY tableColumnBefore.label "Մինչ սիւնը">
-<!ENTITY tableColumnBefore.accesskey "ի">
 <!ENTITY tableColumnAfter.label "Սիւնից յետոյ">
 <!ENTITY tableColumnAfter.accesskey "Յ">
 <!ENTITY tableCell.label "Վանդակ">
 <!ENTITY tableCells.label "Վանդակ(ներ)">
 <!ENTITY tableCell.accesskey "Վ">
 <!ENTITY tableCellContents.label "Վանդակի պարունակութիւնը">
-<!ENTITY tableCellContents.accesskey "ն">
 <!ENTITY tableAllCells.label "Բոլոր վանդակները">
-<!ENTITY tableAllCells.accesskey "Բ">
+<!ENTITY tableAllCells.accesskey "Ա">
 <!ENTITY tableCellBefore.label "Մինչ վանդակը">
 <!ENTITY tableCellBefore.accesskey "Վ">
 <!ENTITY tableCellAfter.label "Վանդակից յետոյ">
-<!ENTITY tableCellAfter.accesskey "ե">
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Ջնջել">
 <!ENTITY tableDeleteMenu.accesskey "Ջ">
@@ -252,14 +241,12 @@
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
-<!ENTITY tableJoinCells.label "j">
-<!ENTITY tableJoinCells.accesskey "j">
+<!ENTITY tableJoinCells.label "մ">
+<!ENTITY tableJoinCells.accesskey "մ">
 <!ENTITY tableSplitCell.label "Կտրել վանդակը">
 <!ENTITY tableSplitCell.accesskey "Վ">
 <!ENTITY convertToTable.label "Ստեղծել աղիւսակ ընտրուածից">
-<!ENTITY convertToTable.accesskey "տ">
 <!ENTITY tableProperties.label "Աղիւսակի յատկութիւնները…">
-<!ENTITY tableProperties.accesskey "տ">
 
 <!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Պատկեր">
@@ -301,4 +288,3 @@
 <!ENTITY removeTOC.label          "Հեռացնել">
 <!ENTITY removeTOC.accesskey      "հ">
 <!ENTITY tocMenu.label            "Պարունակութեան աղիւսակը…">
-<!ENTITY tocMenu.accesskey        "ս">

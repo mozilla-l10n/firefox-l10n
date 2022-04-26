@@ -18,7 +18,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFeeds.label        "Բաժանորդագրութիւններ">
 <!ENTITY importFeeds.accesskey    "d">
 <!ENTITY importAddressbook.label  "Հասցէագրքեր">
-<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importAddressbook.accesskey "Հ">
 <!ENTITY importSettings.label     "Կարգաւորումներ">
 <!ENTITY importSettings.accesskey "S">
 <!ENTITY importFilters.label      "Զտիչներ">

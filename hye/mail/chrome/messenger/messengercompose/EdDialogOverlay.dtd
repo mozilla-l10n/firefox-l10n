@@ -8,7 +8,6 @@
 <!ENTITY chooseFileButton.label "Ընտրել նիշ…">
 <!ENTITY chooseFileButton.accessKey "Ն">
 <!ENTITY chooseFileLinkButton.label "Ընտրել նիշ…">
-<!ENTITY chooseFileLinkButton.accessKey "տ">
 <!ENTITY makeUrlRelative.label "URL-ը յարաբերական է էջի գտնուելու վայրին">
 <!ENTITY makeUrlRelative.accessKey "հ">
 <!ENTITY makeUrlRelative.tooltip "Փոփոխութիւն յարաբերական եւ բացարձակ URL-ի միջեւ: Սա փոխելու համար, նախ պէտք է պահպանել էջը:">
