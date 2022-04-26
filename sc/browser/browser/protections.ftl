@@ -101,15 +101,49 @@ info-monitored-emails =
         [one] Indiritzu de posta eletrònica controlladu
        *[other] Indiritzos de posta eletrònica controllados
     }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Una violatzione de datos connota at espostu is informatziones tuas
+       *[other] Prus violatziones de datos connotas ant espostu is informatziones tuas
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Una violatzione de datos connota est istada sinnalada comente risolta
+       *[other] Prus violatziones de datos connotas sunt istadas sinnaladas comente risoltas
+    }
 monitor-no-breaches-title = Noas bellas!
+monitor-no-breaches-description = Non ddoe at nissuna violatzione connota. Si custu cambiat, t'amus a avisare.
+monitor-view-report-link = Ammustra s'informe
+    .title = Risolve is violatziones in { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Risolve is violatziones tuas
+monitor-breaches-unresolved-description = A pustis de àere revisionadu is detàllios de is violatziones e de àere pigadu is mesuras pro nd'amparare is informatziones tuas, podes sinnalare is violatziones comente risoltas.
 monitor-manage-breaches-link = Gesti is violatziones
     .title = Gesti is violatziones in { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Bene meda! As risoltu totu is violatziones connotas.
+monitor-breaches-resolved-description = Si s'indiritzu de posta eletrònica tuo aparet in cale si siat violatzione noa, t'amus a avisare.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } de { $numBreaches } violatziones sinnaladas comente risoltas
+       *[other] { $numBreachesResolved } de { $numBreaches } violatziones sinnaladas comente risoltas
+    }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% cumpletadu
 monitor-partial-breaches-motivation-title-start = Bonu cumentzu!
 monitor-partial-breaches-motivation-title-middle = Sighi aici!
 monitor-partial-breaches-motivation-title-end = As casi acabbadu! Sighi aici.
+monitor-partial-breaches-motivation-description = Risolve su restu de is violatziones in { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Risolve is violatziones
+    .title = Risolve is violatziones in { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
