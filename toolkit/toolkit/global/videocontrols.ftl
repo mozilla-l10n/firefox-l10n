@@ -28,12 +28,16 @@ videocontrols-casting-button-label =
     .aria-label = Transmititu pantailara
 videocontrols-closed-caption-off =
     .offlabel = Desaktibatu
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = Bideoa beste leiho batean
 videocontrols-error-aborted = Bideoa kargatzea geldituta.
 videocontrols-error-network = Bideoaren erreprodukzioa abortatuta sareko errore batengatik.
 videocontrols-error-decode = Ezin da bideoa erreproduzitu fitxategia hondatuta dagoelako.
 videocontrols-error-src-not-supported = Bideo-formatua edo MIME mota ez da onartzen.
 videocontrols-error-no-source = Ez da bideorik aurkitu onartutako bideo-formatu eta MIME motarekin.
 videocontrols-error-generic = Bideoaren erreprodukzioa abortatuta errore ezezagun batengatik.
+videocontrols-status-picture-in-picture = Bideoa beste leiho batean ari da erreproduzitzen.
 # This message shows the current position and total video duration
 #
 # Variables:
