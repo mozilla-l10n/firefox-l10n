@@ -363,7 +363,7 @@ key-expired-simple = Kluc jo spadnuł
 key-revoked-simple = Kluc jo se wótwołał
 key-do-you-accept = Akceptěrujośo, až se za toś ten kluc digitalne signatury a koděrowanje powěsćow pśeglědujo?
 key-accept-warning = Njeakceptěrujśo tšašny kluc. Wužywajśo drugi komunikaciski kanal ako e-mailowy kanal, aby palcowy wótśišć kluca swójogo dopisowarja pśeglědował.
-key-verification = Pśeglědajśo palcowy wuśišć kluca z pomocu drugego wěstego komunikaciskego kanala ako e-mail, aby zawěsćił, až kluc napšawdu { $addr } słuša.
+key-verification = Pśeglědajśo palcowy wótśišć kluca z pomocu drugego wěstego komunikaciskego kanala ako e-mail, aby zawěsćił, až kluc napšawdu { $addr } słuša.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Njejo móžno powěsć słaś, dokulaž dajo problem z wašym wósobinskim klucom. { $problem }
 cannot-encrypt-because-missing = Njejo móžno, toś tu powěsć z koděrowanim kóńc do kóńca pósłác, dokulaž daju problemy z klucami slědujucych dostawarjow: { $problem }
