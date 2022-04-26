@@ -28,9 +28,13 @@ videocontrols-casting-button-label =
     .aria-label = 投射到屏幕
 videocontrols-closed-caption-off =
     .offlabel = 关
+videocontrols-error-aborted = 视频载入已停止。
 videocontrols-error-network = 视频播放因网络错误中止。
 videocontrols-error-decode = 视频无法播放，因为该文件已损坏。
+videocontrols-error-src-not-supported = 视频格式或 MIME 类型不受支持。
+videocontrols-error-no-source = 没有找到支持的视频格式和 MIME 类型。
 videocontrols-error-generic = 视频播放因未知错误中止。
+videocontrols-status-picture-in-picture = 正以画中画模式播放此视频。
 # This message shows the current position and total video duration
 #
 # Variables:
