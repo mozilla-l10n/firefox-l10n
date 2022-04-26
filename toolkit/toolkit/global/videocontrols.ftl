@@ -26,3 +26,4 @@ videocontrols-error-aborted = Зареждането на видео спря.
 videocontrols-error-network = Зареждането на видео е прекъснато поради мрежова грешка.
 videocontrols-error-decode = Видеото не може да бъде възпроизведено, защото файлът е развален.
 videocontrols-error-src-not-supported = Видеоформатът или този вид MIME не се поддържа.
+videocontrols-error-no-source = Не е намерен поддържан видео формат и вид MIME.
