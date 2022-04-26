@@ -28,9 +28,26 @@ videocontrols-casting-button-label =
     .aria-label = Tilg air an sgrìn
 videocontrols-closed-caption-off =
     .offlabel = Dheth
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = Dealbh am broinn deilbh
 videocontrols-error-aborted = Sguireadh de luchdadh a' video.
 videocontrols-error-network = Sguireadh cluich a' video air sgàth mearachd lìonraidh.
 videocontrols-error-decode = Cha ghabh a' video a chluich a chionn 's gu bheil am faidhle coirbte.
 videocontrols-error-src-not-supported = Chan eil taic ann ri fòrmat a' video no an seòrsa MIME.
 videocontrols-error-no-source = Cha deach video a lorg aig a bheil fòrmat no seòrsa MIME a tha taic ris.
 videocontrols-error-generic = Sguireadh de chluich a' video air sgàth mearachd neo-aithnichte.
+videocontrols-status-picture-in-picture = Tha a’ video seo a’ cluich sa mhodh dealbh am broinn deilbh.
+# This message shows the current position and total video duration
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+#
+# For example, when at the 5 minute mark in a 6 hour long video,
+# $position would be "5:00" and $duration would be "6:00:00", result
+# string would be "5:00 / 6:00:00". Note that $duration is not always
+# available. For example, when at the 5 minute mark in an unknown
+# duration video, $position would be "5:00" and the string which is
+# surrounded by <span> would be deleted, result string would be "5:00".
+videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
