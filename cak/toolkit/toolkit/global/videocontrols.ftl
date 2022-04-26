@@ -28,9 +28,33 @@ videocontrols-casting-button-label =
     .aria-label = Titaq el pa ruwäch
 videocontrols-closed-caption-off =
     .offlabel = Chupül
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = Picture-in-Picture
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = Titz'et pa Picture-in-Picture
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer = Titzij silowäch pa nab'ey k'ojlib'äl toq nab'än ch'aqa' chik taq wachinäq pa { -brand-short-name }
 videocontrols-error-aborted = Xpa'e' ri rutzijik silowachib'äl.
 videocontrols-error-network = Xq'at rutzijik silowachib'äl ruma jun sachoj pa ruk'u'x samaj.
 videocontrols-error-decode = Man tikirel ta nitz'et ri silowachib'äl ruma chi itzel ri yakb'äl.
 videocontrols-error-src-not-supported = Ri rub'anikil o ruwäch
 videocontrols-error-no-source = Majun silowachib'äl xelitäj, ri nikixïm ki' pa MIME rub'anikil chuqa' ruwäch.
 videocontrols-error-generic = Xpa'e' ri rutzijik silowachib'äl ruma jun sachoj ri man etaman ta.
+videocontrols-status-picture-in-picture = Re silowäch re' nitzij rik'in Picture-in-Picture rub'anikil.
+# This message shows the current position and total video duration
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+#
+# For example, when at the 5 minute mark in a 6 hour long video,
+# $position would be "5:00" and $duration would be "6:00:00", result
+# string would be "5:00 / 6:00:00". Note that $duration is not always
+# available. For example, when at the 5 minute mark in an unknown
+# duration video, $position would be "5:00" and the string which is
+# surrounded by <span> would be deleted, result string would be "5:00".
+videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
