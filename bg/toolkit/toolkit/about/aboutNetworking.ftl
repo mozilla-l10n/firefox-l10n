@@ -6,6 +6,7 @@ about-networking-title = Относно Мрежарството
 about-networking-http = HTTP
 about-networking-sockets = Сокети
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = Изчистване на склада на DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Опресняване
 about-networking-auto-refresh = Oпресняване на всеки 3 секунди
