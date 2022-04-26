@@ -12,3 +12,7 @@ videocontrols-volume-control =
     .aria-label = 볼륨
 videocontrols-closed-caption-button =
     .aria-label = 선택 자막
+videocontrols-play-button =
+    .aria-label = 재생
+videocontrols-mute-button =
+    .aria-label = 음소거
