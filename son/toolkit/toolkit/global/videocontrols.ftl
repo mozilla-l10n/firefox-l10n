@@ -2,3 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+videocontrols-pause-button =
+    .aria-label = Hunanzam
+videocontrols-mute-button =
+    .aria-label = Jinde daabu
+videocontrols-unmute-button =
+    .aria-label = Jinde feeri
