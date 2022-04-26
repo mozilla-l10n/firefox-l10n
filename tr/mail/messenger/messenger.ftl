@@ -128,6 +128,18 @@ message-header-msg-not-flagged =
     .title = Yıldızsız
     .aria-label = Yıldızsız
 
+## Message header cutomize panel
+
+message-header-customize-button-style =
+    .value = Düğme stili
+    .accesskey = D
+message-header-button-style-default =
+    .label = Simgeler ve metin
+message-header-button-style-text =
+    .label = Metin
+message-header-button-style-icons =
+    .label = Simgeler
+
 ## Action Button Context Menu
 
 toolbar-context-menu-manage-extension =
@@ -170,22 +182,18 @@ decrypt-and-copy-failures = { $total } iletinin { $failures } tanesinin şifresi
 
 ## Spaces toolbar
 
-spaces-toolbar-button-mail =
-    .title = E-posta sekmesine geç
-spaces-toolbar-button-address-book =
-    .title = Adres defteri sekmesine geç
-spaces-toolbar-button-calendar =
-    .title = Takvim sekmesine geç
-spaces-toolbar-button-tasks =
-    .title = Görevler sekmesine geç
-spaces-toolbar-button-chat =
-    .title = Sohbet sekmesine geç
-spaces-toolbar-button-settings =
-    .title = Ayarlar sekmesine geç
-spaces-toolbar-button-collapse =
-    .title = Alanlar araç çubuğunu daralt
-spaces-toolbar-button-reveal =
-    .title = Alanlar araç çubuğunu göster
+spaces-toolbar-button-mail2 =
+    .title = E-posta
+spaces-toolbar-button-address-book2 =
+    .title = Adres Defteri
+spaces-toolbar-button-calendar2 =
+    .title = Takvim
+spaces-toolbar-button-tasks2 =
+    .title = Görevler
+spaces-toolbar-button-chat2 =
+    .title = Sohbet
+spaces-toolbar-button-settings2 =
+    .title = Ayarlar
 spaces-context-new-tab-item =
     .label = Yeni sekmede aç
 spaces-context-new-window-item =
@@ -215,8 +223,6 @@ spaces-pinned-button-menuitem-tasks =
     .label = { spaces-toolbar-button-tasks.title }
 spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
-spaces-pinned-button-menuitem-reveal =
-    .label = { spaces-toolbar-button-reveal.title }
 # Variables:
 # $count (Number) - Number of unread messages.
 chat-button-unread-messages = { $count }
