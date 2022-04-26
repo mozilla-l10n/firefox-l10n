@@ -130,6 +130,22 @@ message-header-msg-flagged =
 message-header-msg-not-flagged =
     .title = Nem csillagozott üzenet
 
+## Message header cutomize panel
+
+message-header-customize-panel-title = Üzenetfejléc beállításai
+message-header-customize-button-style =
+    .value = Gombstílus
+    .accesskey = G
+message-header-button-style-default =
+    .label = Ikonok és szöveg
+message-header-button-style-text =
+    .label = Szöveg
+message-header-button-style-icons =
+    .label = Ikonok
+message-header-large-subject =
+    .label = Nagy tárgy
+    .accesskey = t
+
 ## Action Button Context Menu
 
 toolbar-context-menu-manage-extension =
@@ -172,24 +188,6 @@ decrypt-and-copy-failures = { $failures } / { $total } üzenetet nem sikerült v
 
 ## Spaces toolbar
 
-spaces-toolbar =
-    .toolbarname = Helyek eszköztár
-spaces-toolbar-button-mail =
-    .title = Átváltás a levelezés lapra
-spaces-toolbar-button-address-book =
-    .title = Átváltás a címjegyzék lapra
-spaces-toolbar-button-calendar =
-    .title = Átváltás a naptár lapra
-spaces-toolbar-button-tasks =
-    .title = Átváltás a feladatok lapra
-spaces-toolbar-button-chat =
-    .title = Átváltás a csevegés lapra
-spaces-toolbar-button-settings =
-    .title = Átváltás a beállítások lapra
-spaces-toolbar-button-collapse =
-    .title = Helyek eszköztár összecsukása
-spaces-toolbar-button-reveal =
-    .title = Helyek eszköztár megjelenítése
 spaces-toolbar-element =
     .toolbarname = Helyek eszköztár
     .aria-label = Helyek eszköztár
@@ -241,8 +239,6 @@ spaces-pinned-button-menuitem-tasks =
     .label = { spaces-toolbar-button-tasks.title }
 spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
-spaces-pinned-button-menuitem-reveal =
-    .label = { spaces-toolbar-button-reveal.title }
 spaces-pinned-button-menuitem-settings =
     .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
@@ -260,6 +256,8 @@ chat-button-unread-messages = { $count }
 
 spaces-context-customize =
     .label = Testreszabás…
+menuitem-customize-label =
+    .label = Testreszabás…
 spaces-customize-panel-title = Helyek eszköztár beállításai
 spaces-customize-background-color = Háttérszín
 spaces-customize-icon-color = Gomb színe
@@ -272,4 +270,6 @@ spaces-customize-accent-text-color = Kiválasztott gomb színe
 spaces-customize-button-restore = Alapértelmezések helyreállítása
     .accesskey = h
 spaces-customize-button-save = Kész
+    .accesskey = K
+customize-panel-button-save = Kész
     .accesskey = K
