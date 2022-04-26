@@ -20,3 +20,5 @@ videocontrols-mute-button =
     .aria-label = Silenciar
 videocontrols-unmute-button =
     .aria-label = Escuchar
+videocontrols-enterfullscreen-button =
+    .aria-label = Pantalla completa
