@@ -28,6 +28,9 @@ videocontrols-closed-caption-off =
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = 화면 속 화면
 videocontrols-error-decode = 파일이 깨져서 동영상을 재생할 수 없습니다.
+videocontrols-error-src-not-supported = 동영상 형식 또는 MIME 유형을 지원하지 않습니다.
+videocontrols-error-no-source = 지원되는 형식 및 MIME 유형의 동영상를 찾을 수 없습니다.
+videocontrols-status-picture-in-picture = 이 동영상은 화면 속 화면 모드에서 재생 중입니다.
 # This message shows the current position and total video duration
 #
 # Variables:
