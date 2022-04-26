@@ -144,6 +144,9 @@ message-header-button-style-text =
     .label = Текст
 message-header-button-style-icons =
     .label = Піктограми
+message-header-large-subject =
+    .label = Велика тема
+    .accesskey = В
 
 ## Action Button Context Menu
 
