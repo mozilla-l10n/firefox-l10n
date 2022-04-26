@@ -28,9 +28,33 @@ videocontrols-casting-button-label =
     .aria-label = Na wobrazowku projicěrowaś
 videocontrols-closed-caption-off =
     .offlabel = Wušaltowany
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = Wobraz-we-wobrazu
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = We „wobraz-we-wobrazu“ se woglědaś
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer = Wótgrajśo  wideo na prědku, mjaztym až něco druge w { -brand-short-name } cyniśo
 videocontrols-error-aborted = Zacytowanje wideo jo se zastajiło.
 videocontrols-error-network = Wótgrawanje wideo jo se seśoweje zmólki dla pśetergnuło.
 videocontrols-error-decode = Wideo njedajo se wótgraś, dokulaž dataja jo wobškóźona.
 videocontrols-error-src-not-supported = Wideowy format abo MIME-typ se njepódpěra.
 videocontrols-error-no-source = Wideo z pódpěranym formatom a MIME-typom njejo so namakało.
 videocontrols-error-generic = Wotgrawanje wideo jo se njeznateje zmólki dla pśetergnuło.
+videocontrols-status-picture-in-picture = Toś to wideo se w modusu wobraz-we-wobrazu wótgrawa.
+# This message shows the current position and total video duration
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+#
+# For example, when at the 5 minute mark in a 6 hour long video,
+# $position would be "5:00" and $duration would be "6:00:00", result
+# string would be "5:00 / 6:00:00". Note that $duration is not always
+# available. For example, when at the 5 minute mark in an unknown
+# duration video, $position would be "5:00" and the string which is
+# surrounded by <span> would be deleted, result string would be "5:00".
+videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
