@@ -131,6 +131,22 @@ message-header-msg-not-flagged =
     .title = No destacado
     .aria-label = No destacado
 
+## Message header cutomize panel
+
+message-header-customize-panel-title = Ajustes del encabezado del mensaje
+message-header-customize-button-style =
+    .value = Estilo del botón
+    .accesskey = B
+message-header-button-style-default =
+    .label = Íconos y texto
+message-header-button-style-text =
+    .label = Texto
+message-header-button-style-icons =
+    .label = Íconos
+message-header-large-subject =
+    .label = Tema grande
+    .accesskey = s
+
 ## Action Button Context Menu
 
 toolbar-context-menu-manage-extension =
@@ -173,24 +189,6 @@ decrypt-and-copy-failures = { $failures } de { $total } mensajes no pudieron ser
 
 ## Spaces toolbar
 
-spaces-toolbar =
-    .toolbarname = Barra de herramientas de espacios
-spaces-toolbar-button-mail =
-    .title = Cambiar a la pestaña de correo electronico
-spaces-toolbar-button-address-book =
-    .title = Cambiar a la pestaña de libreta de direcciones
-spaces-toolbar-button-calendar =
-    .title = Cambiar a la pestaña del calendario
-spaces-toolbar-button-tasks =
-    .title = Cambiar a la pestaña de tareas
-spaces-toolbar-button-chat =
-    .title = Cambiar a la pestaña de chat
-spaces-toolbar-button-settings =
-    .title = Cambiar a la pestaña de ajustes
-spaces-toolbar-button-collapse =
-    .title = Contraer barra de herramientas de espacios
-spaces-toolbar-button-reveal =
-    .title = Mostrar la barra de herramientas de espacios
 spaces-toolbar-element =
     .toolbarname = Barra de herramientas de espacios
     .aria-label = Barra de herramientas de espacios
@@ -242,8 +240,6 @@ spaces-pinned-button-menuitem-tasks =
     .label = { spaces-toolbar-button-tasks.title }
 spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
-spaces-pinned-button-menuitem-reveal =
-    .label = { spaces-toolbar-button-reveal.title }
 spaces-pinned-button-menuitem-settings =
     .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
@@ -260,6 +256,8 @@ chat-button-unread-messages = { $count }
 ## Spaces toolbar customize panel
 
 spaces-context-customize =
+    .label = Personalizar…
+menuitem-customize-label =
     .label = Personalizar…
 spaces-customize-panel-title = Configuración de la barra de herramientas de espacios
 spaces-customize-background-color = Color de fondo
