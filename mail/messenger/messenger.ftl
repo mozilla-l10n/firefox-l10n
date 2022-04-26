@@ -134,6 +134,16 @@ message-header-msg-flagged =
 message-header-msg-not-flagged =
     .title = Sporočilo, ki ni označeno z zvezdico
 
+## Message header cutomize panel
+
+message-header-customize-panel-title = Nastavitve glav sporočil
+message-header-button-style-default =
+    .label = Ikone in besedilo
+message-header-button-style-text =
+    .label = Besedilo
+message-header-button-style-icons =
+    .label = Ikone
+
 ## Action Button Context Menu
 
 toolbar-context-menu-manage-extension =
@@ -182,24 +192,6 @@ decrypt-and-copy-failures =
 
 ## Spaces toolbar
 
-spaces-toolbar =
-    .toolbarname = Vrstica komponent
-spaces-toolbar-button-mail =
-    .title = Preklopi na zavihek s pošto
-spaces-toolbar-button-address-book =
-    .title = Preklopi na zavihek z imenikom
-spaces-toolbar-button-calendar =
-    .title = Preklopi na zavihek s koledarji
-spaces-toolbar-button-tasks =
-    .title = Preklopi na zavihek z opravili
-spaces-toolbar-button-chat =
-    .title = Preklopi na zavihek s klepetom
-spaces-toolbar-button-settings =
-    .title = Preklopi na zavihek z nastavitvami
-spaces-toolbar-button-collapse =
-    .title = Skrij orodno vrstico komponent
-spaces-toolbar-button-reveal =
-    .title = Pokaži orodno vrstico komponent
 spaces-toolbar-element =
     .toolbarname = Vrstica komponent
     .aria-label = Vrstica komponent
@@ -251,8 +243,6 @@ spaces-pinned-button-menuitem-tasks =
     .label = { spaces-toolbar-button-tasks.title }
 spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
-spaces-pinned-button-menuitem-reveal =
-    .label = { spaces-toolbar-button-reveal.title }
 spaces-pinned-button-menuitem-settings =
     .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
@@ -272,6 +262,8 @@ chat-button-unread-messages = { $count }
 
 spaces-context-customize =
     .label = Prilagodi …
+menuitem-customize-label =
+    .label = Prilagodi …
 spaces-customize-panel-title = Nastavitve vrstice komponent
 spaces-customize-background-color = Barva ozadja
 spaces-customize-icon-color = Barva gumbov
@@ -284,4 +276,6 @@ spaces-customize-accent-text-color = Barva izbranega gumba
 spaces-customize-button-restore = Povrni privzeto
     .accesskey = v
 spaces-customize-button-save = Končaj
+    .accesskey = K
+customize-panel-button-save = Končano
     .accesskey = K
