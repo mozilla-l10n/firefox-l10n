@@ -28,6 +28,11 @@ videocontrols-casting-button-label =
     .aria-label = Перакінуць на экран
 videocontrols-closed-caption-off =
     .offlabel = Адключана
+videocontrols-error-aborted = Загрузка відэа прыпынена.
+videocontrols-error-network = Прайграванне відэа абарвана праз сеткавую памылку.
+videocontrols-error-decode = Відэа не можа быць прайграна, бо файл пашкоджаны.
+videocontrols-error-src-not-supported = Фармат відэая або тып MIME не падтрымліваюцца.
+videocontrols-error-generic = Прайграванне відэа абарвана праз невядомую памылку.
 # This message shows the current position and total video duration
 #
 # Variables:
