@@ -28,12 +28,16 @@ videocontrols-casting-button-label =
     .aria-label = قالب بر اساس صفحه نمایش
 videocontrols-closed-caption-off =
     .offlabel = غیر فعال
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = تصویر-در-تصویر
 videocontrols-error-aborted = بارگیری فیلم متوقف شد.
 videocontrols-error-network = پخش ویدئو به دلیل خطای شبکه متوقف گردید.
 videocontrols-error-decode = به دلیل خراب بودن فایل، این ویدئو قابل پخش نیست.
 videocontrols-error-src-not-supported = قالب ویدئو یا نوع MIME پشتیبانی نمیشود.
 videocontrols-error-no-source = هیچ ویدئویی با قالب پشتیبانی شده و نوع MIME یافت نشد.
 videocontrols-error-generic = به دلیل خطای نامشخض، پخش ویدئو متوقف گردید.
+videocontrols-status-picture-in-picture = ویدئو در حال اجرا در حالت تصویر-در-تصویر است.
 # This message shows the current position and total video duration
 #
 # Variables:
