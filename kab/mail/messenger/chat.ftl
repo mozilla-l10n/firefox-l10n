@@ -17,6 +17,11 @@ chat-participant-voiced-role-icon2 =
 chat-verify-identity =
     .label = Senqed timagit
     .accesskey = T
+chat-identity-verified =
+    .label = Tettwasenqed timagit yakan
+chat-buddy-identity-status = Lam n uwgelhen
+chat-buddy-identity-status-verified = Yettwasenqed
+chat-buddy-identity-status-unverified = Ur yettwasenqed ara
 
 ## Conversation invite notification box
 
