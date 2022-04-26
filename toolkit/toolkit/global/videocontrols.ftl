@@ -16,5 +16,7 @@ videocontrols-play-button =
     .aria-label = Reproducir
 videocontrols-pause-button =
     .aria-label = Pausar
+videocontrols-mute-button =
+    .aria-label = Silenciar
 videocontrols-unmute-button =
     .aria-label = Escuchar
