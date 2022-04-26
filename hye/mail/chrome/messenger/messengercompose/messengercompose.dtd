@@ -30,6 +30,7 @@
 <!ENTITY closeCmd.key "W">
 
 <!-- Edit Menu -->
+<!ENTITY findBarCmd.accesskey "Փ">
 
 <!-- Reorder Attachment Panel -->
 
@@ -41,8 +42,12 @@
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 
 <!-- View Menu -->
+<!ENTITY viewToolbarsMenuNew.accesskey "Գ">
+<!ENTITY menubarCmd.accesskey "Ց">
+<!ENTITY showFormattingBarCmd.accesskey "Ձ">
 <!ENTITY showTaskbarCmd.label "Վիճակագաւտի">
 <!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY customizeToolbar.accesskey "Ա">
 
 
 <!-- Format Menu -->
@@ -53,6 +58,8 @@
 
 
 <!-- Tools Menu -->
+<!ENTITY addressBookCmd.accesskey "հ">
+<!ENTITY accountManagerCmd2.label "Հաշուի կարգաւորումներ">
 
 <!--  Mac OS X Window Menu -->
 
@@ -64,6 +71,7 @@
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY subject.accesskey "Ա">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->
 
@@ -84,5 +92,6 @@
 <!-- Identity popup customize menuitem -->
 
 <!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Հաղորդագրութեան բովանդակութիւն">
 
 <!-- Status Bar -->

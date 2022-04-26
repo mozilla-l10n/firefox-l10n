@@ -13,7 +13,6 @@
 <!ENTITY tableColumns.label               "Սիւներ.">
 <!ENTITY tableColumns.accessKey           "Ս">
 <!ENTITY tableHeight.label                "Բարձրութիւն.">
-<!ENTITY tableHeight.accessKey            "Բ">
 <!ENTITY tableWidth.label                 "Լայնութիւն․">
 <!ENTITY tableWidth.accessKey             "Լ">
 <!ENTITY tableBorderSpacing.label         "Եզրագծերը եւ բացատները">
@@ -28,7 +27,6 @@
 <!ENTITY tableAlignment.label             "Աղիւսակի հաւասարեցում.">
 <!ENTITY tableAlignment.accessKey         "Ա">
 <!ENTITY tableCaption.label               "Գլխագիր․">
-<!ENTITY tableCaption.accessKey           "Գ">
 <!ENTITY tableCaptionAbove.label          "Աղիւսակից վեր">
 <!ENTITY tableCaptionBelow.label          "Աղիւսակից վար">
 <!ENTITY tableCaptionLeft.label           "Աղիւսակից ձախ">

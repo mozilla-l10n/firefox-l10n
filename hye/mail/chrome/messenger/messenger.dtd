@@ -9,11 +9,10 @@
 <!ENTITY newFolderCmd.label "Թղթապանակ…">
 <!ENTITY newFolderCmd.accesskey "F">
 <!ENTITY closeTabCmd2.label "Փակել ներդիրը">
-<!ENTITY closeTabCmd2.accesskey "C">
+<!ENTITY closeTabCmd2.accesskey "Փ">
 <!ENTITY closeOtherTabsCmd2.label "Փակել մեւս ներդիրները">
-<!ENTITY closeOtherTabsCmd2.accesskey "o">
 <!ENTITY recentlyClosedTabsCmd.label "Վերջին փակուած ներդիրները">
-<!ENTITY recentlyClosedTabsCmd.accesskey "R">
+<!ENTITY recentlyClosedTabsCmd.accesskey "վ">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
