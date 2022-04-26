@@ -10,5 +10,7 @@ videocontrols-enterfullscreen-button =
     .aria-label = నిండు తెర
 videocontrols-exitfullscreen-button =
     .aria-label = నిండు తెర నిష్క్రమించు
+videocontrols-casting-button-label =
+    .aria-label = తెరకు ప్రసారంచేయి
 videocontrols-error-src-not-supported = వీడియో ఫార్మాట్ లేదా MIME రకముకు తోడ్పాటు లేదు.
 videocontrols-error-no-source = తోడ్పాటు నిచ్చు ఫార్మాట్ లేదా MIME రకముతో యే వీడియో కనబడలేదు.
