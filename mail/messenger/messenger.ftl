@@ -130,6 +130,18 @@ message-header-msg-flagged =
 message-header-msg-not-flagged =
     .title = Μήνυμα χωρίς αστέρι
 
+## Message header cutomize panel
+
+message-header-button-style-default =
+    .label = Εικονίδια και κείμενο
+message-header-button-style-text =
+    .label = Κείμενο
+message-header-button-style-icons =
+    .label = Εικονίδια
+message-header-large-subject =
+    .label = Μεγάλο θέμα
+    .accesskey = γ
+
 ## Action Button Context Menu
 
 toolbar-context-menu-manage-extension =
@@ -172,24 +184,6 @@ decrypt-and-copy-failures = Δεν ήταν δυνατή η αποκρυπτογ
 
 ## Spaces toolbar
 
-spaces-toolbar =
-    .toolbarname = Γραμμή χώρων
-spaces-toolbar-button-mail =
-    .title = Μετάβαση στην καρτέλα αλληλογραφίας
-spaces-toolbar-button-address-book =
-    .title = Εναλλαγή στην καρτέλα ευρετηρίων
-spaces-toolbar-button-calendar =
-    .title = Εναλλαγή στην καρτέλα ημερολογίου
-spaces-toolbar-button-tasks =
-    .title = Εναλλαγή στην καρτέλα εργασιών
-spaces-toolbar-button-chat =
-    .title = Εναλλαγή στην καρτέλα συνομιλίας
-spaces-toolbar-button-settings =
-    .title = Εναλλαγή στην καρτέλα ρυθμίσεων
-spaces-toolbar-button-collapse =
-    .title = Σύμπτυξη γραμμής χώρων
-spaces-toolbar-button-reveal =
-    .title = Εμφάνιση γραμμής χώρων
 spaces-toolbar-element =
     .toolbarname = Γραμμή χώρων
     .aria-label = Γραμμή χώρων
@@ -241,8 +235,6 @@ spaces-pinned-button-menuitem-tasks =
     .label = { spaces-toolbar-button-tasks2.title }
 spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat2.title }
-spaces-pinned-button-menuitem-reveal =
-    .label = { spaces-toolbar-button-reveal.title }
 spaces-pinned-button-menuitem-settings =
     .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
@@ -260,6 +252,8 @@ chat-button-unread-messages = { $count }
 
 spaces-context-customize =
     .label = Προσαρμογή…
+menuitem-customize-label =
+    .label = Προσαρμογή…
 spaces-customize-panel-title = Ρυθμίσεις γραμμής χώρων
 spaces-customize-background-color = Χρώμα φόντου
 spaces-customize-icon-color = Χρώμα κουμπιού
@@ -272,4 +266,6 @@ spaces-customize-accent-text-color = Επιλεγμένο χρώμα κουμπ�
 spaces-customize-button-restore = Επαναφορά προεπιλογών
     .accesskey = φ
 spaces-customize-button-save = Τέλος
+    .accesskey = Τ
+customize-panel-button-save = Τέλος
     .accesskey = Τ
