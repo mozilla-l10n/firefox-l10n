@@ -12,6 +12,18 @@ videocontrols-volume-control =
     .aria-label = Јачина звука
 videocontrols-closed-caption-button =
     .aria-label = Титл
+videocontrols-play-button =
+    .aria-label = Пусти
+videocontrols-pause-button =
+    .aria-label = Паузирај
+videocontrols-mute-button =
+    .aria-label = Искључи звук
+videocontrols-unmute-button =
+    .aria-label = Укључи звук
+videocontrols-enterfullscreen-button =
+    .aria-label = Режим приказа преко целог екрана
+videocontrols-exitfullscreen-button =
+    .aria-label = Изађи из режима целог екрана
 videocontrols-casting-button-label =
     .aria-label = Пребаци на екран
 videocontrols-closed-caption-off =
@@ -19,6 +31,20 @@ videocontrols-closed-caption-off =
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Слика у слици
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = Гледај у режиму „Слика у слици”
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer = Пуштајте видео-снимке у предњем плану док радите нешто друго у програму { -brand-short-name }
+videocontrols-error-aborted = Учитавање видео-снимка је заустављено.
+videocontrols-error-network = Репродукција видео-снимка је прекинута због грешке на мрежи.
+videocontrols-error-decode = Видео се не може репродуковати јер је датотека оштећена.
+videocontrols-error-src-not-supported = Видео-формат или MIME тип нису подржани.
+videocontrols-error-no-source = Није пронађен ниједан видео-снимак са подржаним форматом и MIME типом.
+videocontrols-error-generic = Репродукција видео-снимка је прекинута због непознате грешке.
+videocontrols-status-picture-in-picture = Овај видео се репродукује у режиму „Слика у слици”.
 # This message shows the current position and total video duration
 #
 # Variables:
