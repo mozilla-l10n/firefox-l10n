@@ -136,12 +136,19 @@ message-header-msg-not-flagged =
 
 ## Message header cutomize panel
 
+message-header-customize-panel-title = Nastajenja hłowy powěsće
+message-header-customize-button-style =
+    .value = Tłóčatkowy stil
+    .accesskey = T
 message-header-button-style-default =
     .label = Symbole a tekst
 message-header-button-style-text =
     .label = Tekst
 message-header-button-style-icons =
     .label = Symbole
+message-header-large-subject =
+    .label = Wulka tema
+    .accesskey = u
 
 ## Action Button Context Menu
 
