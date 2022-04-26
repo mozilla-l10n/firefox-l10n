@@ -31,6 +31,13 @@ videocontrols-closed-caption-off =
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Kép a képben
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = Nézze kép a képben módban
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer = Játsszon le videókat az előtérben, miközben egyéb dolgokat csinál a { -brand-short-name }ban
 videocontrols-error-aborted = A videó betöltése leállt.
 videocontrols-error-network = A videólejátszás leállt hálózati hiba miatt.
 videocontrols-error-decode = A videót nem lehet lejátszani, mert a fájl sérült.
