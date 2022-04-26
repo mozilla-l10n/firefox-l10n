@@ -4,6 +4,8 @@
 
 videocontrols-mute-button =
     .aria-label = အသံပိတ်ထားပါ
+videocontrols-closed-caption-off =
+    .offlabel = ပိတ်
 videocontrols-error-network = ကွန်ရက်အမှား တစ်ခုကြောင့် ဗီဒီယို ပြန်ဖွင့်ခြင်း ရပ်တန့်သွားပါတယ်။
 videocontrols-error-decode = ဖိုင်ပျက်နေပါသောကြောင့် ဗီဒီယိုဖွင့်၍ မရနိုင်ပါ။
 videocontrols-error-src-not-supported = ဗီဒီယို ဖောမက် သို့ MIME အမျိုးအစားကို အထောက်အပံ့ မပေးပါ။
