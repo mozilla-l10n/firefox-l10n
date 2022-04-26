@@ -18,9 +18,20 @@ videocontrols-pause-button =
     .aria-label = Pausar
 videocontrols-enterfullscreen-button =
     .aria-label = Plen schermo
+videocontrols-casting-button-label =
+    .aria-label = Transmitter per le schermo
 videocontrols-closed-caption-off =
     .offlabel = Inactive
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = Spectar in Picture-in-Picture
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer = Reproduce videos in prime plano durante que tu face altere cosas in { -brand-short-name }
+videocontrols-error-network = Reproduction del video abortate per un error de rete.
 videocontrols-error-decode = Le video non pote ser reproducite perque le file es corrumpite.
+videocontrols-error-src-not-supported = Formato video o typo MIME non supportate.
 videocontrols-error-generic = Le lectura del video ha essite interrumpite a causa de un error incognite.
 # This message shows the current position and total video duration
 #
