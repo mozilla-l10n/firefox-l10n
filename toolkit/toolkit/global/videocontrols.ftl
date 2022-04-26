@@ -14,3 +14,5 @@ videocontrols-closed-caption-button =
     .aria-label = დახურული სუბტიტრები
 videocontrols-unmute-button =
     .aria-label = ხმის ჩართვა
+videocontrols-exitfullscreen-button =
+    .aria-label = სრულეკრანიანი რეჟიმიდან გამოსვლა
