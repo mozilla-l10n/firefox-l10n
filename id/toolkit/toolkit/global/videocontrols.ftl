@@ -26,6 +26,8 @@ videocontrols-exitfullscreen-button =
     .aria-label = Keluar dari Layar Penuh
 videocontrols-casting-button-label =
     .aria-label = Proyeksikan ke Layar
+videocontrols-closed-caption-off =
+    .offlabel = Mati
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Gambar-dalam-gambar
