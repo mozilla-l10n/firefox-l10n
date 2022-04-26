@@ -54,6 +54,7 @@ about-processes-socket-process = Rhwydwaith ({ $pid })
 about-processes-remote-sandbox-broker-process = Brocer Blwch Tywod Pell ({ $pid })
 about-processes-fork-server-process = Gweinydd Fforc ({ $pid })
 about-processes-preallocated-process = Wedi'i rhagddyrannu ({ $pid })
+about-processes-utility-process = Gwasanaeth ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -66,8 +67,8 @@ about-processes-unknown-process = Arall: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, gweithiwr gwasanaeth)
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, mawr)
+about-processes-web-serviceworker = { $origin } ({ $pid }, gweithiwr gwasanaeth)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, traws-darddiad ynysig)
 about-processes-web-isolated-process-private = { $origin } — Preifat ({ $pid })
 about-processes-web-large-allocation-process-private = { $origin } — Preifat ({ $pid }, mawr)
@@ -129,6 +130,9 @@ about-processes-frame-name-one = Is-ffrâm: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Is-fframiau ({ $number }): { $shortUrl }
+# Utility process actor names
+about-processes-utility-actor-unknown = Actor anhysbys
+about-processes-utility-actor-audio-decoder = Datgodiwr Sain
 
 ## Displaying CPU (percentage and total)
 ## Variables:

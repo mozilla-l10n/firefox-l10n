@@ -392,6 +392,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Beth ddylai { -brand-short-name } ei wneud gyda ffeiliau eraill?
+applications-save-for-new-types =
+    .label = Cadw ffeiliau
+    .accesskey = C
+applications-ask-before-handling =
+    .label = Gofyn a ydych am agor neu gadw ffeiliau
+    .accesskey = G
 drm-content-header = Cynnwys Rheoli Hawliau Digidol (DRM)
 play-drm-content =
     .label = Chwarae cynnwys wedi ei reoli gan DRM
@@ -935,12 +942,12 @@ sitedata-option-block-cross-site-tracking-cookies-including-social-media =
     .label = Cwcis tracio traws-gwefan - yn cynnwys cwcis cyfryngau cymdeithasol
 sitedata-option-block-cross-site-cookies-including-social-media =
     .label = Cwcis traws-gwefan - yn cynnwys cwcis cyfryngau cymdeithasol
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = Tracwyr traws-safle a chyfryngau cymdeithasol, ac ynysu'r cwcis sy'n weddill
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Cwcis tracio traws-gwefan
 sitedata-option-block-cross-site-cookies =
     .label = Cwcis tracio traws-gwefan, ac ynysu cwcis traws-gwefan eraill
-sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
-    .label = Tracwyr traws-safle a chyfryngau cymdeithasol, ac ynysu'r cwcis sy'n weddill
 sitedata-option-block-unvisited =
     .label = Cwcis o wefannau heb ymweld â nhw
 sitedata-option-block-all-third-party =
