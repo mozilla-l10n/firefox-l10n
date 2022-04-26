@@ -24,8 +24,24 @@ videocontrols-exitfullscreen-button =
     .aria-label = Sair de ecrã completo
 videocontrols-casting-button-label =
     .aria-label = Lançar para o ecrã
+videocontrols-closed-caption-off =
+    .offlabel = Desligado
 videocontrols-error-aborted = O carregamento do vídeo parou.
 videocontrols-error-network = Reprodução de vídeo abortada devido a um erro de rede.
 videocontrols-error-decode = O vídeo não pode ser reproduzido porque o ficheiro está danificado.
 videocontrols-error-src-not-supported = Formato de vídeo ou tipo MIME não suportado.
+videocontrols-error-no-source = Não foi encontrado nenhum vídeo com um formato e tipo MIME suportado.
 videocontrols-error-generic = Reprodução de vídeo abortada devido a um erro desconhecido.
+# This message shows the current position and total video duration
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+#
+# For example, when at the 5 minute mark in a 6 hour long video,
+# $position would be "5:00" and $duration would be "6:00:00", result
+# string would be "5:00 / 6:00:00". Note that $duration is not always
+# available. For example, when at the 5 minute mark in an unknown
+# duration video, $position would be "5:00" and the string which is
+# surrounded by <span> would be deleted, result string would be "5:00".
+videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
