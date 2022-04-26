@@ -69,7 +69,7 @@ upgrade-dialog-theme-system = Системна тема
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-start-title = Живот в цвят
-upgrade-dialog-start-subtitle = Изразителни цветни комбинации. Предлагат се за ограничено време.
+upgrade-dialog-start-subtitle = Изразителни цветни комбинации. Достъпни за ограничен период.
 upgrade-dialog-start-primary-button = Разглеждане на цветови комбинации
 upgrade-dialog-start-secondary-button = Не сега
 

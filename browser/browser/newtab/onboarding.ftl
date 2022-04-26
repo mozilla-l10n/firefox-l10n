@@ -60,6 +60,8 @@ onboarding-multistage-theme-secondary-button-label = Не сега
 onboarding-multistage-theme-label-automatic = Автоматично
 onboarding-multistage-theme-label-light = Светла
 onboarding-multistage-theme-label-dark = Тъмна
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -127,6 +129,9 @@ mr1-onboarding-import-primary-button-label-attribution = Внасяне от { $
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Внасяне от предишен четец
 mr1-onboarding-import-secondary-button-label = Не сега
+mr2-onboarding-colorway-header = Цветен живот
+mr2-onboarding-colorway-subtitle = Изразителни цветни комбинации. Достъпни за ограничен период.
+mr2-onboarding-colorway-primary-button-label = Запазване на цветовата комбинация
 mr2-onboarding-colorway-secondary-button-label = Не сега
 mr2-onboarding-colorway-label-soft = Мека
 mr2-onboarding-colorway-label-balanced = Умерена
@@ -226,6 +231,15 @@ mr2-onboarding-theme-tooltip =
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = Използвайте тази цветна комбинация
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Разгледайте цветовите комбинации на { $colorwayName }.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = Разгледайте цветовите комбинации на { $colorwayName }.
 
 ## Strings for Thank You page
 

@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Управление на използването на приставки
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Управление споделянето на вашата камера и/или микрофон със сайта
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Управлявайте споделянето на други говорители със страницата
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Отваряне на панел за автоматично възпроизвеждане
 urlbar-persistent-storage-notification-anchor =
@@ -509,6 +513,16 @@ urlbar-result-action-search-tabs = Търсене на раздели
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use sentence case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = Предложения от { $engine }
 
 ## Full Screen and Pointer Lock UI
 
@@ -691,6 +705,9 @@ remote-tabs-sync-now = Синхронизиране
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Още…
 ui-tour-info-panel-close =
     .tooltiptext = Затваряне
 
@@ -709,6 +726,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Без съобщение при блокиране на изскачащи прозорци
     .accesskey = Б
+edit-popup-settings =
+    .label = Управление на изскачащи прозорци…
+    .accesskey = и
 picture-in-picture-hide-toggle =
     .label = Скриване на бутона за превключване на картина в картината
     .accesskey = с

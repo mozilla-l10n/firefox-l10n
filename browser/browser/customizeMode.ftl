@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = Отмяна
 customize-mode-lwthemes-my-themes =
     .value = Моите теми
+customize-mode-lwthemes-link = Управление на темите
 customize-mode-touchbar-cmd =
     .label = Настройки на лентата за докосване…
 customize-mode-downloads-button-autohide =
