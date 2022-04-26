@@ -159,6 +159,11 @@ about-logins-confirm-remove-all-dialog-title =
         [one] Премахване на { $count } регистрация?
        *[other] Премахване на { $count } регистрации?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [one] Така ще бъде премахната запазената във { -brand-short-name } регистрация и всички известия за пробиви, появяващи се тук. Действието е необратимо.
+       *[other] Така ще бъдат премахнати запазените във { -brand-short-name } регистрации и всички известия за пробиви, появяващи се тук. Действието е необратимо.
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Премахване на { $count } регистрация от всички устройства?
