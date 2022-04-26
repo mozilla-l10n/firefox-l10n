@@ -134,6 +134,22 @@ message-header-msg-flagged =
 message-header-msg-not-flagged =
     .title = Powěsć bźez gwězdki
 
+## Message header cutomize panel
+
+message-header-customize-panel-title = Nastajenja głowy powěsći
+message-header-customize-button-style =
+    .value = Tłocaškowy stil
+    .accesskey = T
+message-header-button-style-default =
+    .label = Symbole a tekst
+message-header-button-style-text =
+    .label = Tekst
+message-header-button-style-icons =
+    .label = Symbole
+message-header-large-subject =
+    .label = Wjelika tema
+    .accesskey = l
+
 ## Action Button Context Menu
 
 toolbar-context-menu-manage-extension =
@@ -176,24 +192,6 @@ decrypt-and-copy-failures = { $failures } z { $total } powěsćow njejsu se deš
 
 ## Spaces toolbar
 
-spaces-toolbar =
-    .toolbarname = Rědka źělnych programow
-spaces-toolbar-button-mail =
-    .title = K e-mailowemu rejtarikoju pśejś
-spaces-toolbar-button-address-book =
-    .title = K rejtarikoju adresnika pśejś
-spaces-toolbar-button-calendar =
-    .title = Ku kalenderowemu rejtarikoju pśejś
-spaces-toolbar-button-tasks =
-    .title = K nadawkowemu rejtarkoju pśejś
-spaces-toolbar-button-chat =
-    .title = K e-chattowemu rejtarikoju pśejś
-spaces-toolbar-button-settings =
-    .title = K rejtarikoju nastajenjow pśejś
-spaces-toolbar-button-collapse =
-    .title = Rědku źělnych programow schowaś
-spaces-toolbar-button-reveal =
-    .title = Rědku źělnych programow pokazaś
 spaces-toolbar-element =
     .toolbarname = Rědka źělnych programow
     .aria-label = Rědka źělnych programow
@@ -245,8 +243,6 @@ spaces-pinned-button-menuitem-tasks =
     .label = { spaces-toolbar-button-tasks.title }
 spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
-spaces-pinned-button-menuitem-reveal =
-    .label = { spaces-toolbar-button-reveal.title }
 spaces-pinned-button-menuitem-settings =
     .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
@@ -266,6 +262,8 @@ chat-button-unread-messages = { $count }
 
 spaces-context-customize =
     .label = Pśiměriś…
+menuitem-customize-label =
+    .label = Pśiměriś…
 spaces-customize-panel-title = Nastajenja rědki źělnych programow
 spaces-customize-background-color = Slězynowa barwa
 spaces-customize-icon-color = Tłocaškowa barwa
@@ -278,4 +276,6 @@ spaces-customize-accent-text-color = Barwa wubranego tłocaška
 spaces-customize-button-restore = Standard wótnowiś
     .accesskey = S
 spaces-customize-button-save = Dokóńcony
+    .accesskey = D
+customize-panel-button-save = Dokóńcony
     .accesskey = D
