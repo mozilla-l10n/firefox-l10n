@@ -4,18 +4,25 @@
 
 chat-joining-chat-icon2 =
     .alt = Timerna ɣer udiwenni
-
 chat-left-chat-icon2 =
     .alt = Ffeɣ seg udiwenni
-
 chat-participant-owner-role-icon2 =
     .alt = Bab
-
 chat-participant-administrator-role-icon2 =
     .alt = Anedbal
-
 chat-participant-moderator-role-icon2 =
     .alt = Imḍebbar
-
 chat-participant-voiced-role-icon2 =
     .alt = Imttekki yezmer ad isuffeɣ iznan
+chat-verify-identity =
+    .label = Senqed timagit
+    .accesskey = T
+
+## Conversation invite notification box
+
+chat-conv-invite-accept =
+    .label = Qbel
+    .accesskey = Q
+chat-conv-invite-deny =
+    .label = Agi
+    .accesskey = A
