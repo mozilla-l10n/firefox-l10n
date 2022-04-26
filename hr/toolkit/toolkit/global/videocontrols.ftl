@@ -12,3 +12,5 @@ videocontrols-volume-control =
     .aria-label = Glasnoća
 videocontrols-closed-caption-button =
     .aria-label = Podnaslovi
+videocontrols-play-button =
+    .aria-label = Pokreni
