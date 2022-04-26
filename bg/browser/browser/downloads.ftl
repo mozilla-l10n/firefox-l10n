@@ -132,6 +132,11 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+downloading-file-opens-in-hours-and-minutes = Отваряне след { $hours } часа и { $minutes } минути
+downloading-file-opens-in-minutes = Отваряне след { $minutes } минути
+downloading-file-opens-in-minutes-and-seconds = Отваряне след { $minutes } минути и { $seconds } секунди
+downloading-file-opens-in-seconds = Отваряне след { $seconds } секунди
+downloading-file-opens-in-some-time = Отваряне, когато приключи…
 
 ##
 

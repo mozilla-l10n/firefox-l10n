@@ -34,6 +34,8 @@ return-to-amo-add-extension-label = Добавяне на разширениет
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Добре дошли при <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = Бърз, безопасен и поверителен браузър, подкрепен от организация с нестопанска цел.
+onboarding-multistage-welcome-primary-button-label = Стартирайте настройките
 onboarding-multistage-welcome-secondary-button-label = Вход
 onboarding-multistage-welcome-secondary-button-text = Имате профил?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
@@ -42,9 +44,11 @@ onboarding-multistage-set-default-header = Изберете { -brand-short-name 
 onboarding-multistage-set-default-subtitle = Скорост, безопасност и сигурност всеки път когато разглеждате.
 onboarding-multistage-set-default-primary-button-label = Задаване като стандартен
 onboarding-multistage-set-default-secondary-button-label = Не сега
+onboarding-multistage-pin-default-subtitle = Бързо, безопасно и напълно поверително разглеждане всеки път, когато ползвате интернет.
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = Така ще закачите { -brand-short-name } към лентата със задачи и ще се отворят настройките
 onboarding-multistage-pin-default-primary-button-label = Избиране на { -brand-short-name } за основен четец
+onboarding-multistage-import-subtitle = Ползвали сте друг мрежов четец? Лесно е да прехвърлите всичко към { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Внасяне
 onboarding-multistage-import-secondary-button-label = Не сега
 
