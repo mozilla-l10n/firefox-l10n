@@ -22,9 +22,24 @@ videocontrols-enterfullscreen-button =
     .aria-label = Toàn màn hình
 videocontrols-casting-button-label =
     .aria-label = Chiếu ra màn hình
+videocontrols-closed-caption-off =
+    .offlabel = Tắt
 videocontrols-error-aborted = Đã dừng nạp video.
 videocontrols-error-network = Không thể xem video vì lỗi kết nối.
 videocontrols-error-decode = Không thể xem video vì tập tin bị hỏng.
 videocontrols-error-src-not-supported = Định dạng video hoặc kiểu MIME không được hỗ trợ.
 videocontrols-error-no-source = Không có video với định đạng được hỗ trợ.
 videocontrols-error-generic = Không thể xem video vì một lỗi chưa biết.
+# This message shows the current position and total video duration
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+#
+# For example, when at the 5 minute mark in a 6 hour long video,
+# $position would be "5:00" and $duration would be "6:00:00", result
+# string would be "5:00 / 6:00:00". Note that $duration is not always
+# available. For example, when at the 5 minute mark in an unknown
+# duration video, $position would be "5:00" and the string which is
+# surrounded by <span> would be deleted, result string would be "5:00".
+videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
