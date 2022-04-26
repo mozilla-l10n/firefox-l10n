@@ -28,12 +28,23 @@ videocontrols-casting-button-label =
     .aria-label = Difusar sus l'ecran
 videocontrols-closed-caption-off =
     .offlabel = Desactivat
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = Vidèo incrustada
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = Agachar en vidèo incrustada
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer = Agachatz de vidèos en primièr plan mentre que fasètz d’autras causas dins { -brand-short-name }
 videocontrols-error-aborted = Cargament de la vidèo arrestat.
 videocontrols-error-network = La lectura de la vidèo es estada arrestada a causa d'una error de ret.
 videocontrols-error-decode = La vidèo pòt pas èsser visionada perque lo fichièr es corromput.
 videocontrols-error-src-not-supported = Lo format vidèo o lo tipe MIME es pas gerit.
 videocontrols-error-no-source = Cap de vidèo que lo format o lo tipe MIME es pas gerit es pas estada trobada.
 videocontrols-error-generic = La lectura de la vidèo es estada arrestada a causa d'una error desconeguda.
+videocontrols-status-picture-in-picture = Aquesta vidèo es en lectura en mòde Vidèo incrustada
 # This message shows the current position and total video duration
 #
 # Variables:
