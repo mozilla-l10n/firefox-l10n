@@ -12,5 +12,34 @@ videocontrols-volume-control =
     .aria-label = Volume
 videocontrols-closed-caption-button =
     .aria-label = Mga Closed Caption
+videocontrols-play-button =
+    .aria-label = I-play
+videocontrols-pause-button =
+    .aria-label = I-pause
+videocontrols-unmute-button =
+    .aria-label = I-unmute
 videocontrols-enterfullscreen-button =
     .aria-label = Buong Screen
+videocontrols-casting-button-label =
+    .aria-label = Isalin sa Screen
+videocontrols-closed-caption-off =
+    .offlabel = Nakapatay
+videocontrols-error-aborted = Ang pagload ng video ay tumigil.
+videocontrols-error-network = Ang pagplay ng video ay nahinto dahil sa network error.
+videocontrols-error-decode = Ang video ay hindi maipapalabas dahil sira ang file.
+videocontrols-error-src-not-supported = Ang format ng video o MIME type ay hindi suportado.
+videocontrols-error-no-source = Walang suportadong format at MIME type ng video ang nahanap.
+videocontrols-error-generic = Ang pagplay ng video ay nahinto sa hindi malamang error.
+# This message shows the current position and total video duration
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+#
+# For example, when at the 5 minute mark in a 6 hour long video,
+# $position would be "5:00" and $duration would be "6:00:00", result
+# string would be "5:00 / 6:00:00". Note that $duration is not always
+# available. For example, when at the 5 minute mark in an unknown
+# duration video, $position would be "5:00" and the string which is
+# surrounded by <span> would be deleted, result string would be "5:00".
+videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
