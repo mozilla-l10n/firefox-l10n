@@ -31,6 +31,13 @@ videocontrols-closed-caption-off =
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Նկար-նկարում
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = Դիտել նկար-նկարում
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer = Նուագարկէք տեսանիւթերն առաջնաշերտում, մինչ այլ գործեր էք անում { -brand-short-name }-ում:
 videocontrols-error-aborted = Տեսանիւթի բեռնումը կանգնեցուել է։
 videocontrols-error-network = Տեսանիւթի վերարտադրումը կանգնեցուել է ցանցի սխալի պատճառով:
 videocontrols-error-decode = Տեսանիւթը չի կարող վերարտադրուել, որովհետեւ նիշքը վնասուած է:
