@@ -28,7 +28,33 @@ videocontrols-casting-button-label =
     .aria-label = Экранға шақыру
 videocontrols-closed-caption-off =
     .offlabel = Сөнд
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = Суреттегі сурет
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = Суреттегі сурет режимінде қарау
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer = { -brand-short-name } ішінде басқа нәрсені жасаған кезде, видеоларды фонда ойнатыңыз
 videocontrols-error-aborted = Видеоны жүктеу тоқтатылған.
 videocontrols-error-network = Видеоны жүктеу желілік қате салдарынан үзілді.
 videocontrols-error-decode = Видео файлын ойнату мүмкін емес, өйткені ол зақымдалған.
+videocontrols-error-src-not-supported = Видео пішімі немесе MIME түріне қолдау жоқ.
+videocontrols-error-no-source = Пішімі немесе MIME түріне қолдауы бар ешбір видео табылмады.
 videocontrols-error-generic = Видеоны ойнату белгісіз қате салдарынан үзілді.
+videocontrols-status-picture-in-picture = Бұл видео суреттегі сурет режимінде ойнатылады.
+# This message shows the current position and total video duration
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+#
+# For example, when at the 5 minute mark in a 6 hour long video,
+# $position would be "5:00" and $duration would be "6:00:00", result
+# string would be "5:00 / 6:00:00". Note that $duration is not always
+# available. For example, when at the 5 minute mark in an unknown
+# duration video, $position would be "5:00" and the string which is
+# surrounded by <span> would be deleted, result string would be "5:00".
+videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
