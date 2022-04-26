@@ -22,13 +22,19 @@ videocontrols-unmute-button =
     .aria-label = Slå lyd til
 videocontrols-enterfullscreen-button =
     .aria-label = Fuld skærm
+videocontrols-exitfullscreen-button =
+    .aria-label = Afslut fuld skærm
 videocontrols-casting-button-label =
     .aria-label = Cast til skærm
 videocontrols-closed-caption-off =
     .offlabel = Slået fra
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = Billede-i-billede
 videocontrols-error-aborted = Indlæsning af video stoppet.
 videocontrols-error-network = Afspilning af video stoppet på grund af en netværksfejl.
 videocontrols-error-decode = Videoen kan ikke afspilles fordi filen er ødelagt.
 videocontrols-error-src-not-supported = Videoformat eller MIME-type understøttes ikke.
 videocontrols-error-no-source = Ingen videokilde med understøttet MIME-type fundet.
 videocontrols-error-generic = Afspilning af video  stoppet på grund af ukendt fejl.
+videocontrols-status-picture-in-picture = Denne video afspilles i tilstanden billede-i-billede.
