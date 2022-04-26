@@ -130,6 +130,22 @@ message-header-msg-flagged =
 message-header-msg-not-flagged =
     .title = Net mei stjer markearre berjocht
 
+## Message header cutomize panel
+
+message-header-customize-panel-title = Berjochtkopynstellingen
+message-header-customize-button-style =
+    .value = Knopstyl
+    .accesskey = K
+message-header-button-style-default =
+    .label = Piktogrammen en tekst
+message-header-button-style-text =
+    .label = Tekst
+message-header-button-style-icons =
+    .label = Piktogrammen
+message-header-large-subject =
+    .label = Grut ûnderwerp
+    .accesskey = n
+
 ## Action Button Context Menu
 
 toolbar-context-menu-manage-extension =
@@ -172,24 +188,6 @@ decrypt-and-copy-failures = { $failures } fan { $total } berjochten koene net û
 
 ## Spaces toolbar
 
-spaces-toolbar =
-    .toolbarname = Taakbalke
-spaces-toolbar-button-mail =
-    .title = Wikselje nei it e-mailljepblêd
-spaces-toolbar-button-address-book =
-    .title = Wikselje nei it adresboekljepblêd
-spaces-toolbar-button-calendar =
-    .title = Wikselje nei it agindaljepblêd
-spaces-toolbar-button-tasks =
-    .title = Wikselje nei it takenljepblêd
-spaces-toolbar-button-chat =
-    .title = Wikselje nei it chatljepblêd
-spaces-toolbar-button-settings =
-    .title = Wikselje nei it ynstellingenljepblêd
-spaces-toolbar-button-collapse =
-    .title = Taakbalke ynklappe
-spaces-toolbar-button-reveal =
-    .title = Taakbalke toane
 spaces-toolbar-element =
     .toolbarname = Taakbalke
     .aria-label = Taakbalke
@@ -241,8 +239,6 @@ spaces-pinned-button-menuitem-tasks =
     .label = { spaces-toolbar-button-tasks.title }
 spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
-spaces-pinned-button-menuitem-reveal =
-    .label = { spaces-toolbar-button-reveal.title }
 spaces-pinned-button-menuitem-settings =
     .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
@@ -260,6 +256,8 @@ chat-button-unread-messages = { $count }
 
 spaces-context-customize =
     .label = Oanpasse…
+menuitem-customize-label =
+    .label = Oanpasse…
 spaces-customize-panel-title = Taakbalkynstellingen
 spaces-customize-background-color = Eftergrûnkleur
 spaces-customize-icon-color = Knopkleur
@@ -272,4 +270,6 @@ spaces-customize-accent-text-color = Kleur selektearre knop
 spaces-customize-button-restore = Standertwearden werstelle
     .accesskey = w
 spaces-customize-button-save = Dien
+    .accesskey = D
+customize-panel-button-save = Dien
     .accesskey = D
