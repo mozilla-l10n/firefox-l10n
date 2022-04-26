@@ -26,6 +26,9 @@ videocontrols-exitfullscreen-button =
     .aria-label = Ffeɣ seg uskar n ugdil ačuran
 videocontrols-closed-caption-off =
     .offlabel = Yensa
+videocontrols-error-decode = Ur tezmireḍ ara ad twaliḍ tavidyutt acku afaylu diri-t.
+videocontrols-error-src-not-supported = Amasal tvidyutt neɣ tawsit MIME ur ţusefraken ara.
+videocontrols-error-no-source = Ulac tavidyutt yettwafen anda tawsit MIME tettusefrak.
 # This message shows the current position and total video duration
 #
 # Variables:
