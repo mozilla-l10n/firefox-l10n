@@ -85,6 +85,7 @@ ssl-error-handshake-failure-alert = Ҳамсони SSL оид ба маҷмӯи 
 ssl-error-illegal-parameter-alert = Ҳамсони SSL ба сабаби муҳтавои ғайримақбул паёми дастфишориро рад кард.
 ssl-error-unsupported-cert-alert = Ҳамсони SSL навъи гувоҳиномаҳои қабулшударо дастгирӣ намекунад.
 ssl-error-certificate-unknown-alert = Ҳамсони SSL нисбат ба гувоҳиномаи қабулшуда бо мушкилии номаълум дучор шуд.
+ssl-error-generate-random-failure = SSL дар кори тавлидгри рақамҳои тасодуфии худ бо нокоршоямӣ дучор шуд.
 ssl-error-mac-computation-failure = Хатои ҳисобкунии MAC.
 ssl-error-user-canceled-alert = Корбари ҳамсон дастфишориро бекор кард.
 ssl-error-rx-unexpected-uncompressed-record = SSL сабти ногаҳони фишурданашударо қабул кард.
