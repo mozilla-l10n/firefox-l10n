@@ -289,7 +289,7 @@ compose-tool-button-remove-text-styling =
 
 # Title for the html placeholder file.
 # $filename - name of the file
-cloud-file-placeholder-title = { $filename } - Amsedday Filelink
+cloud-file-placeholder-title = { $filename } - Amedday Filelink
 
 # Template
 
