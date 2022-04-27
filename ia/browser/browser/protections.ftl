@@ -97,7 +97,7 @@ monitor-sign-up-link = Inscriber te al Avisos de violation
     .title = Inscriber te al Avisos de violation sur { -monitor-brand-name }
 auto-scan = Controlate automaticamente hodie
 monitor-emails-tooltip =
-    .title = Vider le adresses de e-mail surveliate sur { -monitor-brand-short-name }
+    .title = Vider le adresses email surveliate sur { -monitor-brand-short-name }
 monitor-breaches-tooltip =
     .title = Vider le violationes de datos cognoscite sur { -monitor-brand-short-name }
 monitor-passwords-tooltip =
@@ -107,8 +107,8 @@ monitor-passwords-tooltip =
 # your localization, because it would result in the number showing twice.
 info-monitored-emails =
     { $count ->
-        [one] Adresse de e-mail surveliate
-       *[other] Adresses de e-mail surveliate
+        [one] Adresse email surveliate
+       *[other] Adresses email surveliate
     }
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
