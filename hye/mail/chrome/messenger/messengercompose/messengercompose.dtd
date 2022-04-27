@@ -186,21 +186,64 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Հասցէագիրք">
 <!ENTITY addressBookCmd.accesskey "հ">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd2.label "Հաշուի կարգաւորումներ">
+<!ENTITY accountManagerCmd2.accesskey "Կ">
+<!ENTITY accountManagerCmdUnix2.accesskey "Կ">
 
 <!--  Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Փոքրացնել">
+<!ENTITY bringAllToFront.label "Բոլորին բերել առաջ">
+<!ENTITY zoomWindow.label "Մեծացնել">
+<!ENTITY windowMenu.label "Պատուհան">
 
 <!-- Mail Toolbar -->
+<!ENTITY sendButton.label "Ուղարկել">
+<!ENTITY quoteButton.label "Մէջբերում">
+<!ENTITY addressButton.label "Կապորդներ">
+<!ENTITY spellingButton.label "Ուղղագրութիւն">
+<!ENTITY saveButton.label "Պահպանել">
+<!ENTITY printButton.label "Տպել">
 
 <!-- Mail Toolbar Tooltips -->
+<!ENTITY sendButton.tooltip "Ուղարկել այս հաղորդագրութիւնը հիմա">
+<!ENTITY sendlaterButton.tooltip "Ուղղարկել այս հաղորդագրութիւնը յետոյ">
+<!ENTITY quoteButton.tooltip "Մեջբերել նախորդ հաղորդագրութիւնը">
+<!ENTITY addressButton.tooltip "Հասցէագրքից ընտրել հասցեատիրոջը">
+<!ENTITY spellingButton.tooltip "Ստուգել ընտրուածի կամ ամբողջ հաղորդագրութեան ուղղագրութիւնը">
+<!ENTITY saveButton.tooltip "Պահպանել այս հաղորդագրութիւնը">
+<!ENTITY cutButton.tooltip              "Կտրել">
 <!ENTITY copyButton.tooltip             "Պատճէնել">
+<!ENTITY pasteButton.tooltip            "Տեղադրել">
+<!ENTITY printButton.tooltip "Տպել այս հաղորդագրութիւնը">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY subject.accesskey "Ա">
+<!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY extraRecipients.tooltip "Հասցէագրման դաշտերի այղ տեսակներ">
+<!ENTITY fromAddr2.label "Ումից">
+<!ENTITY fromAddr.accesskey "մ">
+<!ENTITY replyAddr2.label "Պատասխանել՝">
+<!ENTITY newsgroupsAddr2.label "Լրախումբ">
+<!ENTITY followupAddr2.label "Հետեւել՝">
+<!ENTITY subject2.label "Վերնագիր">
+<!ENTITY subject.accesskey "Վ">
+<!ENTITY attachmentBucketCloseButton.tooltip "Թաքցնել կցորդի վահանակը">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->
+<!ENTITY SmileButton.tooltip "Ներդնել ժպտացող դէմք">
+<!ENTITY smiley1Cmd.label "Ժպիտ">
+<!ENTITY smiley2Cmd.label "Մռայլ">
+<!ENTITY smiley3Cmd.label "Աչքով տուող">
+<!ENTITY smiley4Cmd.label "Լէզուն֊դուրս">
+<!ENTITY smiley5Cmd.label "Ծիծաղող">
+<!ENTITY smiley6Cmd.label "Շփոթուած">
+<!ENTITY smiley7Cmd.label "Անորոշ">
+<!ENTITY smiley8Cmd.label "Անակնկալ">
+<!ENTITY smiley9Cmd.label "Համբուրող">
+<!ENTITY smiley10Cmd.label "Գոռացող">
 
 <!-- Message Pane Context Menu -->
 <!ENTITY copy.label "Պատճէնել">
