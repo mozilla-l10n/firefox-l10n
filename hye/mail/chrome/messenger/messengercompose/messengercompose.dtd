@@ -92,26 +92,49 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Վերադասաւորել կցորդները">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Տեղափոխել միասին">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Դասակարգել․ Ա-ից Ք">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Դասակարգել․ Ք-ից Ա">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Դասակարգել ընտրութիւնը․ Ա-ից Ք">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Տեսակաւորել ընտրութիւնը. Ք֊ից Ա">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
+<!ENTITY viewMenu.label "Տեսք">
+<!ENTITY viewMenu.accesskey "տ">
+<!ENTITY viewToolbarsMenuNew.label "Գործիքաշար">
 <!ENTITY viewToolbarsMenuNew.accesskey "Գ">
+<!ENTITY menubarCmd.label "Ցանկաշար">
 <!ENTITY menubarCmd.accesskey "Ց">
+<!ENTITY showCompositionToolbarCmd.label "Ստեղծագործական գործիքաշար">
+<!ENTITY showCompositionToolbarCmd.accesskey "տ">
+<!ENTITY showFormattingBarCmd.label "Ձեւաչափման վահանակ">
 <!ENTITY showFormattingBarCmd.accesskey "Ձ">
 <!ENTITY showTaskbarCmd.label "Վիճակագաւտի">
-<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY showTaskbarCmd.accesskey "Վ">
+<!ENTITY customizeToolbar.label "Կարգաւորել…">
 <!ENTITY customizeToolbar.accesskey "Ա">
 
+<!ENTITY addressSidebar.label "Կապորդերի անուագաւտի">
+<!ENTITY addressSidebar.accesskey "ա">
 
 <!-- Format Menu -->
+<!ENTITY formatMenu.label "Ձեւափաչել">
+<!ENTITY formatMenu.accesskey "եւ">
 
 <!-- Options Menu -->
+<!ENTITY optionsMenu.label "Ընտրանքներ">
+<!ENTITY optionsMenu.accesskey "ն">
+<!ENTITY checkSpellingCmd2.label "Ստուգել ուղղագրութիւնը…">
+<!ENTITY checkSpellingCmd2.key "ղ">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
