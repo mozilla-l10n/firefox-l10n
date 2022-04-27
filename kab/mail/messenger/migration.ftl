@@ -12,3 +12,4 @@ migration-progress-header = Aheyyi n { -brand-short-name }…
 
 migration-task-test-fast = Asekyed n usnifel arurad
 migration-task-test-slow = Asekyed n usnifel ẓẓayen
+migration-task-test-progress = Asekyed n ufeggag n tiddin
