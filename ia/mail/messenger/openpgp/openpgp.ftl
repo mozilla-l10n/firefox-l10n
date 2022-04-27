@@ -228,6 +228,7 @@ openpgp-key-man-select-all-key =
     .key = e
 openpgp-key-man-key-details-key =
     .key = I
+openpgp-ign-addr-intro = Tu accepta usar iste clave pro le sequente adresses email eligite:
 openpgp-key-details-title =
     .title = Proprietates del clave
 openpgp-key-details-signatures-tab =
