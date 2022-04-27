@@ -277,19 +277,44 @@
 <!ENTITY removeAttachment.accesskey "Ռ">
 <!ENTITY renameAttachment.label "Վերանուանել">
 <!ENTITY renameAttachment.accesskey "Վ">
+<!ENTITY reorderAttachments.label "Վերադասաւորել կցորդները…">
+<!ENTITY reorderAttachments.accesskey "ը">
+<!ENTITY removeAllAttachments.label "Հեռացնել բոլոր կցորդները">
+<!ENTITY removeAllAttachments.accesskey "ն">
+<!ENTITY selectAll.label "Ընտրել բոլորը">
+<!ENTITY selectAll.accesskey "Բ">
+<!ENTITY attachCloud.label "Նիշի յղումը…">
+<!ENTITY attachCloud.accesskey "ի">
+<!ENTITY convertCloud.label "Փոխարկել…">
+<!ENTITY convertCloud.accesskey "Փ">
+<!ENTITY cancelUpload.label "Չեղարկել վերբեռնումը">
+<!ENTITY cancelUpload.accesskey "ղ">
+<!ENTITY convertRegularAttachment.label "Կանոնաւոր կցորդ">
+<!ENTITY convertRegularAttachment.accesskey "Կ">
+<!ENTITY attachPage.label "Կցել վեբ էջ…">
+<!ENTITY attachPage.accesskey "Վ">
 
 <!-- Attachment Pane Header Bar Context Menu -->
 <!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
      Should use the same wording as startExpandedCmd.label
      in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Սկզբում ցուցադրէք յաւելուածի վահանակը">
+<!ENTITY initiallyShowAttachmentPane.accesskey "Ց">
 
 <!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Աւելացնել բառարաններ…">
+<!ENTITY spellAddDictionaries.accesskey "Ա">
 
 <!-- Title for the address picker panel -->
+<!ENTITY addressesSidebarTitle.label "Կապորդներ">
 
 <!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Կարգաւորել հասցէից…">
+<!ENTITY customizeFromAddress.accesskey "Հ">
 
 <!-- Accessibility name for the document -->
 <!ENTITY aria.message.bodyName "Հաղորդագրութեան բովանդակութիւն">
 
 <!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Ուղղագրութեան ստուգման լեզու">
+<!ENTITY encodingStatusPanel.tooltip "Գրոյթի կոդաւորում">
