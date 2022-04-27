@@ -130,6 +130,19 @@ message-header-msg-flagged =
 message-header-msg-not-flagged =
     .title = Ej stjärnmärkt meddelande
 
+## Message header cutomize panel
+
+message-header-customize-panel-title = Inställningar för meddelanderubrik
+message-header-customize-button-style =
+    .value = Knappstil
+    .accesskey = K
+message-header-button-style-default =
+    .label = Ikoner och text
+message-header-button-style-text =
+    .label = Text
+message-header-button-style-icons =
+    .label = Ikoner
+
 ## Action Button Context Menu
 
 toolbar-context-menu-manage-extension =
@@ -172,24 +185,6 @@ decrypt-and-copy-failures = { $failures } av { $total } meddelanden kunde inte d
 
 ## Spaces toolbar
 
-spaces-toolbar =
-    .toolbarname = Flikmeny
-spaces-toolbar-button-mail =
-    .title = Växla till e-postfliken
-spaces-toolbar-button-address-book =
-    .title = Växla till adressboksfliken
-spaces-toolbar-button-calendar =
-    .title = Växla till fliken kalender
-spaces-toolbar-button-tasks =
-    .title = Växla till fliken uppgifter
-spaces-toolbar-button-chat =
-    .title = Växla till chattfliken
-spaces-toolbar-button-settings =
-    .title = Växla till fliken Inställningar
-spaces-toolbar-button-collapse =
-    .title = Komprimera flikmeny
-spaces-toolbar-button-reveal =
-    .title = Visa flikmenyn
 spaces-toolbar-element =
     .toolbarname = Flikmeny
     .aria-label = Flikmeny
@@ -241,8 +236,6 @@ spaces-pinned-button-menuitem-tasks =
     .label = { spaces-toolbar-button-tasks.title }
 spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
-spaces-pinned-button-menuitem-reveal =
-    .label = { spaces-toolbar-button-reveal.title }
 spaces-pinned-button-menuitem-settings =
     .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
@@ -260,6 +253,8 @@ chat-button-unread-messages = { $count }
 
 spaces-context-customize =
     .label = Anpassa…
+menuitem-customize-label =
+    .label = Anpassa…
 spaces-customize-panel-title = Inställningar för flikmeny
 spaces-customize-background-color = Bakgrundsfärg
 spaces-customize-icon-color = Färg för knapp
@@ -272,4 +267,6 @@ spaces-customize-accent-text-color = Vald knappfärg
 spaces-customize-button-restore = Återställ standard
     .accesskey = t
 spaces-customize-button-save = Klar
+    .accesskey = K
+customize-panel-button-save = Klar
     .accesskey = K

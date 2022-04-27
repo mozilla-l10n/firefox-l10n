@@ -26,3 +26,13 @@ openpgp-key-undecided = Ej accepterad (obestämd)
 openpgp-key-rejected = Ej accepterad (avvisad)
 openpgp-key-expired = Upphörd
 openpgp-intro = Tillgängliga publika nycklar för { $key }
+openpgp-pubkey-import-id = ID: { $kid }
+openpgp-pubkey-import-fpr = Fingeravtryck: { $fpr }
+openpgp-pubkey-import-intro =
+    { $num ->
+        [one] Filen innehåller en offentlig nyckel som visas nedan:
+       *[other] Filen innehåller { $num } offentliga nycklar som visas nedan:
+    }
+pubkey-import-button =
+    .buttonlabelaccept = Importera
+    .buttonaccesskeyaccept = m
