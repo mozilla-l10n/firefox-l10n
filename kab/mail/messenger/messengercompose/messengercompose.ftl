@@ -136,6 +136,12 @@ encryption-menu =
 encryption-toggle =
     .label = Wgelhen
     .tooltiptext = Seqdec awgelhen seg yixef ɣer yixef i yizen-a
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = O
+menu-encrypt =
+    .label = Wgelhen
+    .accesskey = W
 
 ## Addressing Area
 
@@ -176,6 +182,11 @@ show-to-row-main-menuitem =
     .label = Urti i
     .accesskey = U
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = I
+    .accesskey = I
 # No acceltext should be shown.
 # The label should match the show-bcc-row-button text.
 show-bcc-row-extra-menuitem =
