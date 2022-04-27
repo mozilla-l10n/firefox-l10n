@@ -40,11 +40,58 @@
 <!ENTITY saveAsDraftCmd.accesskey "Ս">
 <!ENTITY saveAsTemplateCmd.label "Նմուշ">
 <!ENTITY saveAsTemplateCmd.accesskey "Ն">
+<!ENTITY sendNowCmd.label "Ուղարկել հիմա">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "d">
+<!ENTITY sendLaterCmd.label "Ուղարկել յետոյ">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "Յ">
+<!ENTITY printCmd.label "Տպել…">
+<!ENTITY printCmd.key "Տ">
+<!ENTITY printCmd.accesskey "Տ">
 
 <!-- Edit Menu -->
+<!ENTITY editMenu.label "Խմբագրել">
+<!ENTITY editMenu.accesskey "խ">
+<!ENTITY undoCmd.label "Յետարկել">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "յ">
+<!ENTITY redoCmd.label "Վերարկել">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "վ">
+<!ENTITY cutCmd.key "X">
+<!ENTITY copyCmd.key "C">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY editRewrapCmd.accesskey "ր">
+<!ENTITY deleteCmd.label "Ջնջել">
+<!ENTITY deleteCmd.accesskey "ջ">
+<!ENTITY editRewrapCmd.label "Վերաշարադրել">
+<!ENTITY editRewrapCmd.key "Վ">
+<!ENTITY renameAttachmentCmd.label "Վերանուանել կցորդը…">
+<!ENTITY renameAttachmentCmd.accesskey "ե">
+<!ENTITY reorderAttachmentsCmd.label "Վերադասաւորել կցորդները…">
+<!ENTITY reorderAttachmentsCmd.accesskey "ը">
+<!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY findBarCmd.label "Փնտրել…">
 <!ENTITY findBarCmd.accesskey "Փ">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Գտնել եւ փոխարինել...">
+<!ENTITY findReplaceCmd.accesskey "տ">
+<!ENTITY findReplaceCmd.key "H">
+<!ENTITY findAgainCmd.label "Կրկին փնտրել">
+<!ENTITY findAgainCmd.accesskey "ր">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Փնտրել նախորդը">
+<!ENTITY findPrevCmd.accesskey "ո">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "Վերադասաւորել կցորդները">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
