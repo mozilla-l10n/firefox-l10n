@@ -10,6 +10,7 @@ chat-encryption-generic = Imcettel
 chat-encryption-log =
     .label = Rnu iznan yettwawgelhen seg yixef ɣer yixef deg yiɣmisen n udiwenni
 chat-encryption-label = Awgelhen adigan seg yixef ɣer yixef
+chat-encryption-description = { $protocol } ttmuddun awgelhen seg yixef ɣer yixef i yiznan n udiwenni. Aya ad issewḥel wis kraḍ seg usmuzget i umeslay. Ahat ilaq usesteb-nniḍen nnig i wakken ad yili uwgelhen d amahlan.
 chat-encryption-status = Addaden n uwgelhen
 chat-encryption-placeholder = Awgelhen ur yettuwennez ara.
 chat-encryption-sessions = Tiɣimiyen
