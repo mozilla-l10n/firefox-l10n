@@ -132,10 +132,19 @@ message-header-msg-not-flagged =
 
 ## Message header cutomize panel
 
+message-header-customize-panel-title = Configurationes del titulo del message
+message-header-customize-button-style =
+    .value = Stylo de button
+    .accesskey = b
+message-header-button-style-default =
+    .label = Icones e texto
 message-header-button-style-text =
     .label = Texto
 message-header-button-style-icons =
     .label = Icones
+message-header-large-subject =
+    .label = Subjecto large
+    .accesskey = s
 
 ## Action Button Context Menu
 
@@ -261,4 +270,6 @@ spaces-customize-accent-text-color = Color del button eligite
 spaces-customize-button-restore = Restaurar le predefinitiones
     .accesskey = R
 spaces-customize-button-save = Facite
+    .accesskey = F
+customize-panel-button-save = Facite
     .accesskey = F

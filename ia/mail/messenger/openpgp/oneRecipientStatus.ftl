@@ -26,8 +26,12 @@ openpgp-key-undecided = Non acceptate (non-decidite)
 openpgp-key-rejected = Non acceptate (rejectate)
 openpgp-key-expired = Expirate
 openpgp-intro = Activar claves public pro { $key }
+openpgp-pubkey-import-id = ID: { $kid }
 openpgp-pubkey-import-accept =
     { $num ->
         [one] Accepta tu iste clave pro verificar firmas digital e pro cryptar messages, pro tote le adresses email monstrate?
        *[other] Accepta tu iste claves pro verificar firmas digital e pro cryptar messages, pro tote le adresses email monstrate?
     }
+pubkey-import-button =
+    .buttonlabelaccept = Importar
+    .buttonaccesskeyaccept = I
