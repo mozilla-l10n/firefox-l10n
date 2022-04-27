@@ -148,6 +148,9 @@ bcc-compose-show-address-row-menuitem =
     .label = Urti { bcc-compose-address-row-label.value }
     .accesskey = B
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+bcc-compose-show-address-row-label =
+    .value = { bcc-compose-address-row-label.value }
+    .tooltiptext = Sken urti { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
 to-address-row-label =
     .value = Ɣer
 #   $key (String) - the shortcut key for this field
@@ -182,6 +185,11 @@ compose-tool-button-remove-text-styling =
 
 # Template
 
+cloud-file-template-size = Teɣzi:
+cloud-file-template-link = Aseɣwen:
+cloud-file-template-password-protected-link = Aseɣwen yettummesten s wawal uffir:
+cloud-file-template-expiry-date = Azemz i ifaten:
+cloud-file-template-download-limit = Talast n usader:
 
 # Messages
 
