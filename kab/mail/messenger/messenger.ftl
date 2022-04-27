@@ -2,6 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Window controls
+
+messenger-window-minimize-button =
+    .tooltiptext = Semẓi
+messenger-window-maximize-button =
+    .tooltiptext = Semɣer
+messenger-window-restore-down-button =
+    .tooltiptext = Err-d
+messenger-window-close-button =
+    .tooltiptext = Mdel
 # Variables:
 # $count (Number) - Number of unread messages.
 unread-messages-os-tooltip =
@@ -9,7 +20,6 @@ unread-messages-os-tooltip =
         [one] 1 n yizen ur nettwaɣra ara
        *[other] { $count } n yiznan ur nettwaɣra ara
     }
-
 about-rights-notification-text = { -brand-short-name } d aseɣzan ilelli n teɣbalut yeldin, tebna temɣiwent n yimelyan n yimdanen seg yal tama n umaḍal.
 
 ## Content tabs
@@ -26,11 +36,9 @@ content-tab-security-broken-icon =
 addons-and-themes-toolbarbutton =
     .label = Izegrar d yisental
     .tooltiptext = Sefrek izegrar-inek·inem
-
 quick-filter-toolbarbutton =
     .label = Imzizdeg arurad
     .tooltiptext = Sizdeg iznan
-
 redirect-msg-button =
     .label = Abeddel n uwelleh
     .tooltiptext = Abeddel n uwelleh i yizen yettufernen
@@ -40,10 +48,8 @@ redirect-msg-button =
 folder-pane-toolbar =
     .toolbarname = Afeggag n ugalis n ukaram
     .accesskey = A
-
 folder-pane-toolbar-options-button =
     .tooltiptext = Tixtiṛiyin n ugalis n yikaramen
-
 folder-pane-header-label = Ikaramen
 
 ## Folder Toolbar Header Popup
@@ -51,27 +57,21 @@ folder-pane-header-label = Ikaramen
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Ffer afeggag n ifecka
     .accesskey = F
-
 show-all-folders-label =
     .label = Akk ikaramen
     .accesskey = A
-
 show-unread-folders-label =
     .label = Ikaramen ur nettwaɣra ara
     .accesskey = n
-
 show-favorite-folders-label =
     .label = Ikaramen inurifen
     .accesskey = I
-
 show-smart-folders-label =
     .label = Ikaramen yedduklen
     .accesskey = I
-
 show-recent-folders-label =
     .label = Ikaramen ineggura
     .accesskey = I
-
 folder-toolbar-toggle-folder-compact-view =
     .label = Timeẓri yessden
     .accesskey = T
@@ -81,6 +81,9 @@ folder-toolbar-toggle-folder-compact-view =
 redirect-msg-menuitem =
     .label = Abeddel n uwelleh
     .accesskey = A
+menu-file-save-as-file =
+    .label = Afaylu…
+    .accesskey = A
 
 ## AppMenu
 
@@ -88,19 +91,18 @@ redirect-msg-menuitem =
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Ismenyifen
-
+appmenu-save-as-file =
+    .label = Afaylu…
+appmenu-settings =
+    .label = Iɣewwaren
 appmenu-addons-and-themes =
     .label = Izegrar d yisental
-
 appmenu-help-enter-troubleshoot-mode =
     .label = Askar n usellek…
-
 appmenu-help-exit-troubleshoot-mode =
     .label = Sens askar n ferru n wuguren
-
 appmenu-help-more-troubleshooting-info =
     .label = Ugar n talɣut n usellek
-
 appmenu-redirect-msg =
     .label = Abeddel n uwelleh
 
@@ -113,6 +115,9 @@ context-menu-redirect-msg =
 
 other-action-redirect-msg =
     .label = Abeddel n uwelleh
+
+## Message header cutomize panel
+
 
 ## Action Button Context Menu
 
@@ -127,7 +132,6 @@ toolbar-context-menu-remove-extension =
 
 message-header-address-in-address-book-icon =
     .alt = Tansa ha-tt deg umedlis n tansiwin
-
 message-header-address-not-in-address-book-icon =
     .alt = Tansa ulac-itt deg umedlis n tansiwin
 
@@ -138,11 +142,9 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = Kkes { $name }?
 addon-removal-confirmation-button = Kkes
 addon-removal-confirmation-message = Kkes { $name } am netta am twila-ines d yisefka-ines seg { -brand-short-name }?
-
 caret-browsing-prompt-title = Tunigin s teḥnaccaṭ
 caret-browsing-prompt-text = Asiti ɣef F7 ad irmed neɣ ad irermed tunigin s teḥnaccat. Twuri-agi ad tsers taḥnaccaṭ ileḥḥun s war kra n ugbur, ayen ad yanfen afran n uḍris s unasiw, tebɣiḍ ad tremdeḍ tunigin s teḥnaccaṭ?
 caret-browsing-prompt-check-text = Ur d-sutur ara tikelt nniḍen.
-
 repair-text-encoding-button =
     .label = Ṣeggem asettengel n uḍris
     .tooltiptext = Af-d asettenggel ameɣt n uḍris seg ugbur n yizen
@@ -152,3 +154,15 @@ repair-text-encoding-button =
 no-reply-title = Tiririt ur tettusefrak ara
 no-reply-message = Tansa n tririt ({ $email }) ur d-tban ara d tansa yettuɛassen. Iznan yettwaznen ɣer tensa-a ulac ahat win i ten-yeɣran.
 no-reply-reply-anyway-button = Err akken ibɣu yili
+
+## error messages
+
+
+## Spaces toolbar
+
+
+## Spaces toolbar pinned tab menupopup
+
+
+## Spaces toolbar customize panel
+

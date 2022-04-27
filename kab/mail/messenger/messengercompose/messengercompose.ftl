@@ -284,6 +284,8 @@ cloud-file-service-provider-footer-single = Issin ugar ɣef { $link }.
 #                        of the first n-1 used providers
 # $lastLink (string) - html a-tag pointing the web page of the n-th used provider
 cloud-file-service-provider-footer-multiple = Issin ugar ɣef { $firstLinks } d { $lastLink }.
+# Tooltip for an icon, indicating that the link is protected by a password.
+cloud-file-tooltip-password-protected-link = Aseɣwen yettummestnen s wawal uffir
 cloud-file-template-size = Teɣzi:
 cloud-file-template-link = Aseɣwen:
 cloud-file-template-password-protected-link = Aseɣwen yettummesten s wawal uffir:
@@ -292,3 +294,12 @@ cloud-file-template-download-limit = Talast n usader:
 
 # Messages
 
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Tuccḍa deg tuqqna
+cloud-file-connection-error = { -brand-short-name } d aruqqin. Yegguma ad yeqqen ɣer { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Tuzna n { $filename } ɣer { $provider } tecceḍ
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Tuccḍa deg ubeddel n yisem
