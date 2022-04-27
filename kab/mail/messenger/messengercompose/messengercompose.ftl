@@ -30,6 +30,9 @@ pill-tooltip-not-in-address-book = { $email } mačči d amedlis-ik.im n tansa
 pill-action-edit =
     .label = Ẓreg tansa
     .accesskey = r
+pill-action-select-all-pills =
+    .label = Fren akk tansiwin
+    .accesskey = F
 pill-action-move-to =
     .label = Awi ɣer
     .accesskey = A
@@ -39,6 +42,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Awi ɣer unɣal uffir
     .accesskey = ɣ
+pill-action-expand-list =
+    .label = Snerni tabdart
+    .accesskey = n
 
 ## Attachment widget
 
@@ -58,6 +64,10 @@ toolbar-button-add-attachment =
     .tooltiptext = Rnu amedday ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
 add-attachment-notification-reminder =
     .label = Rnu amedday
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+add-attachment-notification-reminder2 =
+    .label = Rnu amsedday…
+    .accesskey = R
     .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
 menuitem-attach-files =
     .label = Afaylu(i-a)…
@@ -94,6 +104,11 @@ drop-file-label-attachment =
         [one] Rnu amedday
        *[other] Rnu imeddayen
     }
+drop-file-label-inline =
+    { $count ->
+        [one] Rnu ɣer tfekka n yizen
+       *[other] Rnu ɣer tfekka n yiznan
+    }
 
 ## Reorder Attachment Panel
 
@@ -118,6 +133,9 @@ message-to-be-encrypted-icon =
 encryption-menu =
     .label = Taɣellist
     .accesskey = ɣ
+encryption-toggle =
+    .label = Wgelhen
+    .tooltiptext = Seqdec awgelhen seg yixef ɣer yixef i yizen-a
 
 ## Addressing Area
 
