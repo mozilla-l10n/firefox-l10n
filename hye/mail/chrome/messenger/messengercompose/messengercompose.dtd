@@ -135,8 +135,15 @@
 <!ENTITY checkSpellingCmd2.label "Ստուգել ուղղագրութիւնը…">
 <!ENTITY checkSpellingCmd2.key "ղ">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "տ">
+<!ENTITY enableInlineSpellChecker.label "Ստուգել ուղղագրութիւնը, ինչպէս նշուած է">
+<!ENTITY enableInlineSpellChecker.accesskey "Ս">
+<!ENTITY quoteCmd.label "Մէջբերել նամակը">
+<!ENTITY quoteCmd.accesskey "Մ">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCard.label "Կցել անձնական քարտ (vCard)">
+<!ENTITY attachVCard.accesskey "v">
 
 
 <!-- Tools Menu -->
