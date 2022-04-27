@@ -18,6 +18,8 @@ security-software-title = Нармафзори амният
 security-software-type = Навъ
 security-software-name = Ном
 security-software-antivirus = Антивирус
+security-software-antispyware = Бар зидди ҷосусӣ
+security-software-firewall = Девори оташ (Firewall)
 features-title = Хусусиятҳои { -brand-short-name }
 features-name = Ном
 features-version = Силсила
@@ -42,25 +44,46 @@ app-basics-update-history = Таърихи навсозиҳо
 app-basics-show-update-history = Намоиши таърихи навсозиҳо
 # Represents the path to the binary used to start the application.
 app-basics-binary = Файли дуии барнома
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] Феҳристи профил
+       *[other] Ҷузвдони профил
+    }
+app-basics-enabled-plugins = Плагинҳои фаъолшуда
+app-basics-build-config = Танзимоти сохт
 app-basics-user-agent = Восити корбарӣ
+app-basics-os = OS
 app-basics-os-theme = Мавзуи OS
 # Rosetta is Apple's translation process to run apps containing x86_64
 # instructions on Apple Silicon. This should remain in English.
 app-basics-rosetta = Раванди тарҷумаи Rosetta
 app-basics-memory-use = Истифодаи ҳофиза
 app-basics-performance = Самаранокӣ
+app-basics-service-workers = Коркунони хизматрасонии бақайдгирифташуда
 app-basics-third-party = Модулҳои тарафҳои сеюм
 app-basics-profiles = Профилҳо
+app-basics-launcher-process-status = Роҳандозии раванд
+app-basics-multi-process-support = Равзанаҳои серраванд
+app-basics-fission-support = Равзанаҳои «Fission»
 app-basics-remote-processes-count = Равандҳои дурдаст
+app-basics-enterprise-policies = Сиёсати корхона
 app-basics-location-service-key-google = Калиди хидмати ҷойгиршавии Google
+app-basics-safebrowsing-key-google = Калиди «Google Safebrowsing»
 app-basics-key-mozilla = Калиди хидмати ҷойгиршавии Mozilla
 app-basics-safe-mode = Реҷаи бехатар
+app-basics-memory-size = Андозаи ҳофиза (RAM)
+app-basics-disk-available = Фазои дастрас дар диск
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Кушодан дар ҷӯянда
         [windows] Кушодани ҷузвдон
        *[other] Кушодани феҳрист
     }
+environment-variables-title = Тағйирёбандаҳои муҳит
 environment-variables-name = Ном
 environment-variables-value = Қимат
 experimental-features-title = Хусусиятҳои таҷрибавӣ
@@ -69,6 +92,7 @@ experimental-features-value = Қимат
 modified-key-prefs-title = Афзалиятҳои муҳими тағйирёфта
 modified-prefs-name = Ном
 modified-prefs-value = Қимат
+user-js-title = Хусусиятҳои «user.js»
 locked-prefs-name = Ном
 locked-prefs-value = Қимат
 graphics-title = Графика
