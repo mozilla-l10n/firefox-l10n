@@ -14,6 +14,7 @@ chat-encryption-description = { $protocol } ttmuddun awgelhen seg yixef ɣer yix
 chat-encryption-status = Addaden n uwgelhen
 chat-encryption-placeholder = Awgelhen ur yettuwennez ara.
 chat-encryption-sessions = Tiɣimiyen
+chat-encryption-sessions-description = I wakken awgelhen seg yixef ɣer yixef ad iddu akken iwata, ilaq ad tamneḍ i tɣimiyin-nniḍen yeqqnen ɣer umiḍan-ik·im amiran. Amyigew akked umsaɣ-nniɣen yettwasra i usenqed n tɣimit. Asenqed n tɣimit yezmer ad yerr akk tiɣimiyin i ssentem, ad ttwasnetmen sɣur { -brand-short-name }.
 chat-encryption-session-verify = Senqed
     .title = Senqed timagit n tɣimit-a
 chat-encryption-session-trusted = yettwaman
