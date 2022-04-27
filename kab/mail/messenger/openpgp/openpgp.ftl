@@ -409,10 +409,27 @@ msg-compose-cannot-save-draft = Tuccḍæ deg usekles n urewway
 compose-menu-attach-key =
     .label = Seddu tasarut-iw tazayazt
     .accesskey = S
+compose-menu-encrypt-subject =
+    .label = Awgelhen n usentel
+    .accesskey = g
+# Strings used in decryption.jsm
+do-import-multiple =
+    Kter tisura-a?
+    { $key }
 do-import-one = Kter { $name } ({ $id })?
+cant-import = Tuccḍa deg uktar n tasarut tazayazt
+invalid-email = Tuccḍa - tansa(tansiwin) n yimayl tarameɣtut(tirimeɣta)
 dlg-button-view = &Sken
+# Strings used in encryption.jsm
+not-required = Tuccḍa - ulac assuter n uwgelhen
+# Strings used in windows.jsm
+no-photo-available = Ulac tawlaft yellan
+debug-log-title = Aɣmis n temseɣtayt OpenPGP
+# Strings used in dialog.jsm
+repeat-prefix = Alɣu-a ad d-yettuɣal { $count }
 repeat-suffix-singular = ugar n wakud.
 repeat-suffix-plural = ugar n wakuden.
+no-repeat = Alɣu dayen ur d-yettεawad ara.
 dlg-button-ok = &IH
 dlg-button-close = &Mdel
 dlg-button-cancel = &Sefsex
