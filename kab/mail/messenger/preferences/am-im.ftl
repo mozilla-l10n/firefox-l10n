@@ -15,3 +15,5 @@ chat-encryption-placeholder = Awgelhen ur yettuwennez ara.
 chat-encryption-sessions = Tiɣimiyen
 chat-encryption-session-verify = Senqed
     .title = Senqed timagit n tɣimit-a
+chat-encryption-session-trusted = yettwaman
+    .title = Timagit n tɣimit-a tettwasenqed
