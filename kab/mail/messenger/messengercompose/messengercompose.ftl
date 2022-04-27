@@ -67,10 +67,28 @@ context-menuitem-attach-files =
     .label = Seddu afaylu (i-a)…
     .accesskey = A
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = vCard inu
+    .accesskey = C
+context-menuitem-attach-openpgp-key =
+    .label = Tasart-iw tazayazt OpenPGP
+    .accesskey = S
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } umsedday
+        [one] { $count } umsedday
+       *[other] { $count } yimseddayen
+    }
 expand-attachment-pane-tooltip =
     .tooltiptext = Sken agalis n umedday ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Ffer agalis n umedday ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+attachment-area-show =
+    .title = Sken agalis n umedday ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+attachment-area-hide =
+    .title = Ffer agalis n umedday ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 drop-file-label-attachment =
     { $count ->
         [one] Rnu amedday
@@ -93,6 +111,10 @@ button-return-receipt =
 
 ## Encryption
 
+message-to-be-signed-icon =
+    .alt = Sezmel izen
+message-to-be-encrypted-icon =
+    .alt = Wgelhen izen
 encryption-menu =
     .label = Taɣellist
     .accesskey = ɣ
@@ -138,6 +160,7 @@ show-to-row-main-menuitem =
 show-bcc-row-extra-menuitem =
     .label = Anɣ.Uff.I
     .accesskey = A
+many-public-recipients-prompt-cancel = Sefsex tuzna
 
 ## Notifications
 
