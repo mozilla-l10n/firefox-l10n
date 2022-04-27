@@ -2,8 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## View Menu
+toolbar-context-menu-menu-bar =
+    .toolbarname = Afeggag n wumuɣ
+    .accesskey = M
 
 ## Tools Menu
 
@@ -12,7 +13,9 @@
 menu-tools-preferences =
     .label = Ismenyifen
     .accesskey = I
-
+menu-tools-settings =
+    .label = Iɣewwaren
+    .accesskey = e
 menu-addons-and-themes =
     .label = Izegrar d yisental
     .accesskey = I
@@ -22,11 +25,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Askar n usellek…
     .accesskey = A
-
 menu-help-exit-troubleshoot-mode =
     .label = Sens askar n ferru n wuguren
     .accesskey = S
-
 menu-help-more-troubleshooting-info =
     .label = Ugar n talɣut n usellek
     .accesskey = U
@@ -57,18 +58,21 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Taneẓẓi
     .accesskey = T
-
 mail-uidensity-compact =
     .label = Ussid
     .accesskey = U
-
 mail-uidensity-normal =
     .label = Amagnu
     .accesskey = A
-
 mail-uidensity-touch =
     .label = Amennal
     .accesskey = A
+menu-spaces-toolbar-button =
+    .label = Afeggag n yifecka n tallunin
+    .accesskey = L
 
 ## File
 
+file-new-newsgroup-account =
+    .label = Amiḍan n isallen n ugraw…
+    .accesskey = l

@@ -4,7 +4,11 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
-
 # Description of the import module
 thunderbird-import-description = Kter imayl seg ukaram n umaɣnu n Thunderbird.
-
+import-from-thunderbird-dir =
+    .label = Thunderbird (akaram n umaɣnu)
+    .accesskey = T
+zip-file-too-big-title = Afaylu zip meqqer aṭas
+wizardpage-failed =
+    .label = Aktar yecceḍ
