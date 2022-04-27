@@ -41,6 +41,11 @@ options-collapse-attrs-label = Tronca attributi DOM
 options-collapse-attrs-tooltip =
     .title = Tronca gli attributi troppo lunghi in Analisi pagina
 
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Fai clic e trascina per modificare il valore di una dimensione
+options-inspector-draggable-properties-tooltip =
+    .title = Fai clic e trascina per modificare il valore di una dimensione per le regole in Analisi pagina.
+
 ## "Default Color Unit" options for the Inspector
 
 options-default-color-unit-label = Unità predefinita colori:
