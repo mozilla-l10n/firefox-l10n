@@ -247,9 +247,13 @@ show-bcc-row-extra-menuitem =
 show-bcc-row-button = Anɣ.Uff.I
     .title = Sken urti n Anɣ.Uff.I ({ ctrl-cmd-shift-pretty-prefix }{ $key })
 many-public-recipients-prompt-cancel = Sefsex tuzna
+many-public-recipients-prompt-send = Azen akken ibɣu yili
 
 ## Notifications
 
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = Timagit tasuft icedden ar tensa Si ur tettwaf ara. Izen ad yettwazen s useqdec n wurti Si akked iɣewwaṛen n tmagit { $identity }.
 encrypted-bcc-ignore-button = Yettwafham
 
 ## Editing
@@ -268,6 +272,18 @@ compose-tool-button-remove-text-styling =
 
 # Template
 
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service provider.
+# $link (string) - html a-tag for a link pointing to the web page of the provider
+cloud-file-service-provider-footer-single = Issin ugar ɣef { $link }.
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers. Links for the used providers are
+# split into a comma separated list of the first n-1 providers and a single entry
+# at the end.
+# $firstLinks (string) - comma separated list of html a-tags pointing to web pages
+#                        of the first n-1 used providers
+# $lastLink (string) - html a-tag pointing the web page of the n-th used provider
+cloud-file-service-provider-footer-multiple = Issin ugar ɣef { $firstLinks } d { $lastLink }.
 cloud-file-template-size = Teɣzi:
 cloud-file-template-link = Aseɣwen:
 cloud-file-template-password-protected-link = Aseɣwen yettummesten s wawal uffir:
