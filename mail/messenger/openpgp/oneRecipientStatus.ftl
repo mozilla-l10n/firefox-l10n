@@ -26,3 +26,17 @@ openpgp-key-undecided = 不接受（未決定）
 openpgp-key-rejected = 不接受（已拒絕）
 openpgp-key-expired = 已過期
 openpgp-intro = { $key } 可用的公鑰
+openpgp-pubkey-import-id = ID: { $kid }
+openpgp-pubkey-import-fpr = 指紋: { $fpr }
+openpgp-pubkey-import-intro =
+    { $num ->
+       *[other] 檔案包含下列共 { $num } 把公鑰:
+    }
+openpgp-pubkey-import-accept =
+    { $num ->
+       *[one] 您要接受將此金鑰用來驗證下列所有電子郵件地址的數位簽章與加密訊息嗎？
+        [other] 您要接受將這些金鑰用來驗證下列所有電子郵件地址的數位簽章與加密訊息嗎？
+    }
+pubkey-import-button =
+    .buttonlabelaccept = 匯入
+    .buttonaccesskeyaccept = I
