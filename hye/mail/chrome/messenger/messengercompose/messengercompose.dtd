@@ -145,8 +145,46 @@
 <!ENTITY attachVCard.label "Կցել անձնական քարտ (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
+<!ENTITY returnReceiptMenu.label "Պահանջել ստացական">
+<!ENTITY returnReceiptMenu.accesskey "հ">
+<!ENTITY dsnMenu.label "Առաքման վիճակի տեղեկութիւն">
+<!ENTITY dsnMenu.accesskey "Տ">
+<!ENTITY deliveryFormatMenu.label "Առաքման ձեւաչափ">
+<!ENTITY deliveryFormatMenu.accesskey "Ձ">
+<!ENTITY autoFormatCmd.label "Ինքնաբացայայտում">
+<!ENTITY autoFormatCmd.accesskey "ի">
+<!ENTITY plainTextFormatCmd.label "Միայն պարզ գրոյթ">
+<!ENTITY plainTextFormatCmd.accesskey "պ">
+<!ENTITY htmlFormatCmd.label "Միայն հարուստ (HTML) գրոյթ">
+<!ENTITY htmlFormatCmd.accesskey "հ">
+<!ENTITY bothFormatCmd.label "Պարզ եւ հարուստ (HTML) գրոյթ">
+<!ENTITY bothFormatCmd.accesskey "ա">
+<!ENTITY priorityMenu.label "Առաջնահերթութիւն">
+<!ENTITY priorityMenu.accesskey "ա">
+<!ENTITY priorityButton.title "Առաջնահերթութիւն">
+<!ENTITY priorityButton.tooltiptext "Փոխել հաղորդագրութեան առաջնահերթութիւնը">
+<!ENTITY priorityButton.label "Առաջնահերթութիւն․">
+<!ENTITY lowestPriorityCmd.label "Ամենացածր">
+<!ENTITY lowestPriorityCmd.accesskey "ա">
+<!ENTITY lowPriorityCmd.label "Ցածր">
+<!ENTITY lowPriorityCmd.accesskey "ա">
+<!ENTITY normalPriorityCmd.label "Սովորական">
+<!ENTITY normalPriorityCmd.accesskey "ս">
+<!ENTITY highPriorityCmd.label "Բարձր">
+<!ENTITY highPriorityCmd.accesskey "ա">
+<!ENTITY highestPriorityCmd.label "Ամենաբարձր">
+<!ENTITY highestPriorityCmd.accesskey "Ա">
+<!ENTITY fileCarbonCopyCmd.label "Ուղարկել պատճէնը">
+<!ENTITY fileCarbonCopyCmd.accesskey "լ">
+<!ENTITY fileHereMenu.label "Նիշն այստեղ">
 
 <!-- Tools Menu -->
+<!ENTITY tasksMenu.label "Գործիքներ">
+<!ENTITY tasksMenu.accesskey "T">
+<!ENTITY messengerCmd.label "Փոստ &amp; տեղեկատուախմբեր">
+<!ENTITY messengerCmd.accesskey "փ">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "Հասցէագիրք">
 <!ENTITY addressBookCmd.accesskey "հ">
 <!ENTITY accountManagerCmd2.label "Հաշուի կարգաւորումներ">
 
