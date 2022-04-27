@@ -136,12 +136,27 @@ encryption-menu =
 encryption-toggle =
     .label = Wgelhen
     .tooltiptext = Seqdec awgelhen seg yixef ɣer yixef i yizen-a
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = Wali neɣ beddel iɣewwaren n uwgelhen OpenPGP
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = Wali neɣ beddel iɣewwaren n uwgelhen n S/MIME
 menu-openpgp =
     .label = OpenPGP
     .accesskey = O
+menu-smime =
+    .label = S/MIME
+    .accesskey = S
 menu-encrypt =
     .label = Wgelhen
     .accesskey = W
+menu-encrypt-subject =
+    .label = Asentel n uwgelhen
+    .accesskey = S
+menu-sign =
+    .label = Azmul umḍin
+    .accesskey = i
 
 ## Addressing Area
 
