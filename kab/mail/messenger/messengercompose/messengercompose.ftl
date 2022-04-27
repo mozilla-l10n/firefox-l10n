@@ -128,6 +128,16 @@ bcc-compose-show-address-row-menuitem =
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 to-address-row-label =
     .value = Ɣer
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = Urti i
+    .accesskey = U
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Anɣ.Uff.I
+    .accesskey = A
 
 ## Notifications
 
