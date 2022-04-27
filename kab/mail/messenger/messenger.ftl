@@ -116,14 +116,36 @@ mail-context-delete-messages =
             [one] Kkes izen
            *[other] Kkes iznan yettwafernen
         }
+context-menu-decrypt-to-folder =
+    .label = Nqel am wakken yettuwgelhen ɣer
+    .accesskey = q
 
 ## Message header pane
 
 other-action-redirect-msg =
     .label = Abeddel n uwelleh
+message-header-msg-flagged =
+    .title = Ɣur-s itri
+    .aria-label = Ɣur-s itri
+message-header-msg-not-flagged =
+    .title = S war itri
+    .aria-label = S war itri
 
 ## Message header cutomize panel
 
+message-header-customize-panel-title = Iɣewwaren n uqerru n yizen
+message-header-customize-button-style =
+    .value = Talɣa n tqeffalt
+    .accesskey = Q
+message-header-button-style-default =
+    .label = Tignit d uḍris
+message-header-button-style-text =
+    .label = Aḍris
+message-header-button-style-icons =
+    .label = Tigniyin
+message-header-large-subject =
+    .label = Asentel ameqqran
+    .accesskey = s
 
 ## Action Button Context Menu
 
