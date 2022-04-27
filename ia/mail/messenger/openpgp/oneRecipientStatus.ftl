@@ -27,6 +27,12 @@ openpgp-key-rejected = Non acceptate (rejectate)
 openpgp-key-expired = Expirate
 openpgp-intro = Activar claves public pro { $key }
 openpgp-pubkey-import-id = ID: { $kid }
+openpgp-pubkey-import-fpr = Dactylogramma: { $fpr }
+openpgp-pubkey-import-intro =
+    { $num ->
+        [one] Le file contine un clave public como monstrate infra:
+       *[other] Le file contine { $num } claves public como monstrate infra:
+    }
 openpgp-pubkey-import-accept =
     { $num ->
         [one] Accepta tu iste clave pro verificar firmas digital e pro cryptar messages, pro tote le adresses email monstrate?
