@@ -142,6 +142,9 @@ message-header-button-style-text =
     .label = Text
 message-header-button-style-icons =
     .label = Ikoner
+message-header-large-subject =
+    .label = Stort ämne
+    .accesskey = n
 
 ## Action Button Context Menu
 
