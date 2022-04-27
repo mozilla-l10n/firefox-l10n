@@ -12,3 +12,6 @@ chat-encryption-log =
 chat-encryption-label = Awgelhen adigan seg yixef ɣer yixef
 chat-encryption-status = Addaden n uwgelhen
 chat-encryption-placeholder = Awgelhen ur yettuwennez ara.
+chat-encryption-sessions = Tiɣimiyen
+chat-encryption-session-verify = Senqed
+    .title = Senqed timagit n tɣimit-a
