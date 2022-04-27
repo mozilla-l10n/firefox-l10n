@@ -157,6 +157,17 @@ menu-encrypt-subject =
 menu-sign =
     .label = Azmul umḍin
     .accesskey = i
+menu-open-key-manager =
+    .label = Amsefrak n tsura
+    .accesskey = A
+key-notification-disable-encryption =
+    .label = Ur ttuwgelhin ara
+    .accesskey = U
+    .tooltiptext = Sens awgelhen seg yixef ɣer yixef
+key-notification-resolve =
+    .label = Fru…
+    .accesskey = F
+    .tooltiptext = Ldi tallalt n tsarut n OpenPGP
 
 ## Addressing Area
 
@@ -202,11 +213,39 @@ show-to-row-main-menuitem =
 show-to-row-extra-menuitem =
     .label = I
     .accesskey = I
+#   $key (String) - the shortcut key for this field
+show-to-row-button = To
+    .title = Sken i wurti ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+cc-address-row-label =
+    .value = Anɣ.I
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Urti n Anɣ.I
+    .accesskey = U
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Anɣ.I
+    .accesskey = A
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = Anɣ.I
+    .title = Sken urti n Anɣ.I ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+bcc-address-row-label =
+    .value = Anɣ.Uff.I
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Urti n Anɣ.Uff.I
+    .accesskey = F
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }
 # No acceltext should be shown.
 # The label should match the show-bcc-row-button text.
 show-bcc-row-extra-menuitem =
     .label = Anɣ.Uff.I
     .accesskey = A
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Anɣ.Uff.I
+    .title = Sken urti n Anɣ.Uff.I ({ ctrl-cmd-shift-pretty-prefix }{ $key })
 many-public-recipients-prompt-cancel = Sefsex tuzna
 
 ## Notifications
