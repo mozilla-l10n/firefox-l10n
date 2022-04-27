@@ -8,6 +8,7 @@ export-dialog =
     .buttonlabelaccept = Ɣer sdat
 export-dialog-button-finish = Fak
 export-dialog-file-picker = Sifeḍ afaylu s umasal zip
+export-dialog-description1 = Sifeḍ imiḍanen n yimayl, iznan n yimayl, imedlisen n tansiwin, iɣewwaren s ufaylu zip.
 export-dialog-desc2 = Ma yili yettusra, tzemreḍ ad tketreḍ afaylu zip i wakken ad d-terreḍ amaɣnu-inek·inem.
 export-dialog-exporting = Aktar…
 export-dialog-exported = Yettwakter!

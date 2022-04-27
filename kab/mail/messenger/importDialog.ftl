@@ -9,6 +9,7 @@ thunderbird-import-description = Kter imayl seg ukaram n umaɣnu n Thunderbird.
 import-from-thunderbird-dir =
     .label = Thunderbird (akaram n umaɣnu)
     .accesskey = T
+import-select-profile-dir = Fren akaram n umaqnu
 zip-file-too-big-title = Afaylu zip meqqer aṭas
 wizardpage-failed =
     .label = Aktar yecceḍ

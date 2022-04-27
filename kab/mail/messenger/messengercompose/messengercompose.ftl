@@ -260,6 +260,10 @@ show-bcc-row-extra-menuitem =
 #   $key (String) - the shortcut key for this field
 show-bcc-row-button = Anɣ.Uff.I
     .title = Sken urti n Anɣ.Uff.I ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+many-public-recipients-ignore =
+    .label = Anef iɣerwiḍen izayazen
+    .accesskey = A
+many-public-recipients-prompt-title = Aṭas n yiɣerwiḍen izayazen
 many-public-recipients-prompt-cancel = Sefsex tuzna
 many-public-recipients-prompt-send = Azen akken ibɣu yili
 
@@ -283,6 +287,9 @@ compose-tool-button-remove-text-styling =
 
 # Placeholder file
 
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } - Amsedday Filelink
 
 # Template
 
@@ -300,6 +307,14 @@ cloud-file-service-provider-footer-single = Issin ugar ɣef { $link }.
 cloud-file-service-provider-footer-multiple = Issin ugar ɣef { $firstLinks } d { $lastLink }.
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Aseɣwen yettummestnen s wawal uffir
+# Used in a list of stats about a specific file
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
+# Size - the size of the file (Size: 4.2 MB)
+# Link - the link to the file (Link: https://some.provider.com)
+# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
+# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
+#                  (Download Limit: 6)
+cloud-file-template-service-name = Amezlu Filelink:
 cloud-file-template-size = Teɣzi:
 cloud-file-template-link = Aseɣwen:
 cloud-file-template-password-protected-link = Aseɣwen yettummesten s wawal uffir:
@@ -317,3 +332,9 @@ cloud-file-upload-error-with-custom-message-title = Tuzna n { $filename } ɣer {
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-rename-error-title = Tuccḍa deg ubeddel n yisem
+cloud-file-rename-error = Yella wugur deg ubeddel n yisem n { $filename } ɣef { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Abeddel n yisem n { $filename } ɣef { $provider } yecceḍ
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } ur issefrak ara beddel n yisem n yifuyla i d-yettwasulin yakan.
