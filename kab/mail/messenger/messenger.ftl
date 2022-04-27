@@ -110,6 +110,12 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Abeddel n uwelleh
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [one] Kkes izen
+           *[other] Kkes iznan yettwafernen
+        }
 
 ## Message header pane
 
