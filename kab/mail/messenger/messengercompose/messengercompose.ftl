@@ -338,3 +338,5 @@ cloud-file-rename-error = Yella wugur deg ubeddel n yisem n { $filename } ɣef {
 cloud-file-rename-error-with-custom-message-title = Abeddel n yisem n { $filename } ɣef { $provider } yecceḍ
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } ur issefrak ara beddel n yisem n yifuyla i d-yettwasulin yakan.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Tuccḍa n umedday Filelink
