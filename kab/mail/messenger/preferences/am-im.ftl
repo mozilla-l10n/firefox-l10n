@@ -4,3 +4,6 @@
 
 account-settings-title = Iɣewwaṛen n usesteb
 account-channel-title = Ibuda imezwer
+chat-autologin =
+    .label = Kcem di tnekra
+chat-encryption-generic = Imcettel
