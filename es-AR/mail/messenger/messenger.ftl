@@ -130,6 +130,16 @@ message-header-msg-flagged =
 message-header-msg-not-flagged =
     .title = Mensaje no marcado con estrella
 
+## Message header cutomize panel
+
+message-header-customize-panel-title = Configuración del encabezado del mensaje
+message-header-button-style-default =
+    .label = Íconos y texto
+message-header-button-style-text =
+    .label = Texto
+message-header-button-style-icons =
+    .label = Íconos
+
 ## Action Button Context Menu
 
 toolbar-context-menu-manage-extension =
@@ -172,24 +182,6 @@ decrypt-and-copy-failures = { $failures } de { $total } mensajes no pudieron ser
 
 ## Spaces toolbar
 
-spaces-toolbar =
-    .toolbarname = Barra de herramientas de Espacios
-spaces-toolbar-button-mail =
-    .title = Cambiar a la pestaña de Correo
-spaces-toolbar-button-address-book =
-    .title = Cambiar a la pestaña de la Libreta de direcciones
-spaces-toolbar-button-calendar =
-    .title = Cambiar a la pestaña del Calendario
-spaces-toolbar-button-tasks =
-    .title = Cambiar a la pestaña de Tareas
-spaces-toolbar-button-chat =
-    .title = Cambiar a la pestaña de Chat
-spaces-toolbar-button-settings =
-    .title = Cambiar a la pestaña de Preferencias
-spaces-toolbar-button-collapse =
-    .title = Contraer la barra de Espacios
-spaces-toolbar-button-reveal =
-    .title = Mostrar la barra de Espacios
 spaces-toolbar-element =
     .toolbarname = Barra de herramientas de Espacios
     .aria-label = Barra de herramientas de Espacios
@@ -241,8 +233,6 @@ spaces-pinned-button-menuitem-tasks =
     .label = { spaces-toolbar-button-tasks2.title }
 spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat2.title }
-spaces-pinned-button-menuitem-reveal =
-    .label = { spaces-toolbar-button-reveal.title }
 spaces-pinned-button-menuitem-settings =
     .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
@@ -260,6 +250,8 @@ chat-button-unread-messages = { $count }
 
 spaces-context-customize =
     .label = Personalizar…
+menuitem-customize-label =
+    .label = Personalizar…
 spaces-customize-panel-title = Configuración de la barra de Espacios
 spaces-customize-background-color = Color de fondo
 spaces-customize-icon-color = Color del botón
@@ -273,3 +265,5 @@ spaces-customize-button-restore = Restaurar predeterminados
     .accesskey = R
 spaces-customize-button-save = Listo
     .accesskey = L
+customize-panel-button-save = Hecho
+    .accesskey = D
