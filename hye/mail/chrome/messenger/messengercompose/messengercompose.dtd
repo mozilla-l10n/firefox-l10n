@@ -244,11 +244,39 @@
 <!ENTITY smiley8Cmd.label "Անակնկալ">
 <!ENTITY smiley9Cmd.label "Համբուրող">
 <!ENTITY smiley10Cmd.label "Գոռացող">
+<!ENTITY smiley11Cmd.label "Զիլ">
+<!ENTITY smiley12Cmd.label "Փողի֊բերան">
+<!ENTITY smiley13Cmd.label "Ոտքը֊բերանում">
+<!ENTITY smiley14Cmd.label "Միամիտ">
+<!ENTITY smiley15Cmd.label "Լացող">
+<!ENTITY smiley16Cmd.label "Բերանփակ">
 
 <!-- Message Pane Context Menu -->
+<!ENTITY spellCheckNoSuggestions.label "Առաջարկութիւններ չեն գտնուել">
+<!ENTITY spellCheckIgnoreWord.label "Անտեսել բառը">
+<!ENTITY spellCheckIgnoreWord.accesskey "Ա">
+<!ENTITY spellCheckAddToDictionary.label "Աւելացնել բառարանում">
+<!ENTITY spellCheckAddToDictionary.accesskey "ն">
+<!ENTITY undo.label "Յետարկել">
+<!ENTITY undo.accesskey "Յ">
+<!ENTITY cut.label "Կտրել">
+<!ENTITY cut.accesskey "ր">
 <!ENTITY copy.label "Պատճէնել">
+<!ENTITY copy.accesskey "Պ">
+<!ENTITY paste.label "Տեղադրել">
+<!ENTITY paste.accesskey "Տ">
+<!ENTITY pasteQuote.label "Տեղադրել որպէս մէջբերում">
+<!ENTITY pasteQuote.accesskey "Մ">
 
 <!-- Attachment Item and List Context Menus -->
+<!ENTITY openAttachment.label "Բացել">
+<!ENTITY openAttachment.accesskey "Բ">
+<!ENTITY delete.label "Ջնջել">
+<!ENTITY delete.accesskey "Ջ">
+<!ENTITY removeAttachment.label "Հեռացնել կցորդները">
+<!ENTITY removeAttachment.accesskey "Ռ">
+<!ENTITY renameAttachment.label "Վերանուանել">
+<!ENTITY renameAttachment.accesskey "Վ">
 
 <!-- Attachment Pane Header Bar Context Menu -->
 <!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
