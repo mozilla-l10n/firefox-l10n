@@ -28,6 +28,18 @@
 <!ENTITY remindLater.accesskey "Ու">
 <!ENTITY closeCmd.label "Փակել">
 <!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "փ">
+<!ENTITY saveCmd.label "Պահպանել">
+<!ENTITY saveCmd.key "Պ">
+<!ENTITY saveCmd.accesskey "պ">
+<!ENTITY saveAsCmd.label "Պահպանել որպէս">
+<!ENTITY saveAsCmd.accesskey "Ո">
+<!ENTITY saveAsFileCmd.label "Նիշ…">
+<!ENTITY saveAsFileCmd.accesskey "Ն">
+<!ENTITY saveAsDraftCmd.label "Սեւագիր">
+<!ENTITY saveAsDraftCmd.accesskey "Ս">
+<!ENTITY saveAsTemplateCmd.label "Նմուշ">
+<!ENTITY saveAsTemplateCmd.accesskey "Ն">
 
 <!-- Edit Menu -->
 <!ENTITY findBarCmd.accesskey "Փ">
