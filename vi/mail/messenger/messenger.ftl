@@ -129,6 +129,22 @@ message-header-msg-not-flagged =
     .title = Không gắn sao
     .aria-label = Không gắn sao
 
+## Message header cutomize panel
+
+message-header-customize-panel-title = Cài đặt header thư
+message-header-customize-button-style =
+    .value = Kiểu nút
+    .accesskey = B
+message-header-button-style-default =
+    .label = Biểu tượng và văn bản
+message-header-button-style-text =
+    .label = Văn bản
+message-header-button-style-icons =
+    .label = Biểu tượng
+message-header-large-subject =
+    .label = Chủ đề lớn
+    .accesskey = s
+
 ## Action Button Context Menu
 
 toolbar-context-menu-manage-extension =
@@ -171,24 +187,10 @@ decrypt-and-copy-failures = Không thể giải mã { $failures } trong tổng s
 
 ## Spaces toolbar
 
-spaces-toolbar =
+spaces-toolbar-element =
     .toolbarname = Thanh công cụ Spaces
-spaces-toolbar-button-mail =
-    .title = Chuyển sang thẻ thư
-spaces-toolbar-button-address-book =
-    .title = Chuyển sang thẻ sổ địa chỉ
-spaces-toolbar-button-calendar =
-    .title = Chuyển sang thẻ lịch
-spaces-toolbar-button-tasks =
-    .title = Chuyển sang thẻ nhiệm vụ
-spaces-toolbar-button-chat =
-    .title = Chuyển sang thẻ trò chuyện
-spaces-toolbar-button-settings =
-    .title = Chuyển sang thẻ cài đặt
-spaces-toolbar-button-collapse =
-    .title = Thu gọn thanh công cụ Spaces
-spaces-toolbar-button-reveal =
-    .title = Hiển thị thanh công cụ Spaces
+    .aria-label = Thanh công cụ Spaces
+    .aria-description = Thanh công cụ dọc để chuyển đổi giữa các không gian khác nhau. Sử dụng các phím mũi tên để điều hướng các nút có sẵn.
 spaces-toolbar-button-mail2 =
     .title = Thư
 spaces-toolbar-button-address-book2 =
@@ -236,8 +238,6 @@ spaces-pinned-button-menuitem-tasks =
     .label = { spaces-toolbar-button-tasks.title }
 spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
-spaces-pinned-button-menuitem-reveal =
-    .label = { spaces-toolbar-button-reveal.title }
 spaces-pinned-button-menuitem-settings =
     .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
@@ -254,6 +254,8 @@ chat-button-unread-messages = { $count }
 
 spaces-context-customize =
     .label = Tùy biến…
+menuitem-customize-label =
+    .label = Tùy biến…
 spaces-customize-panel-title = Cài đặt thanh công cụ Spaces
 spaces-customize-background-color = Màu nền:
 spaces-customize-icon-color = Màu nút
@@ -266,4 +268,6 @@ spaces-customize-accent-text-color = Màu của Nút đã chọn
 spaces-customize-button-restore = Khôi phục về mặc định
     .accesskey = R
 spaces-customize-button-save = Xong
+    .accesskey = D
+customize-panel-button-save = Xong
     .accesskey = D

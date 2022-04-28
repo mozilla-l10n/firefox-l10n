@@ -26,3 +26,16 @@ openpgp-key-undecided = Không được chấp nhận (chưa quyết định)
 openpgp-key-rejected = Không được chấp nhận (bị từ chối)
 openpgp-key-expired = Đã hết hạn
 openpgp-intro = Các khóa công khai có sẵn cho { $key }
+openpgp-pubkey-import-id = ID: { $kid }
+openpgp-pubkey-import-fpr = Vân tay: { $fpr }
+openpgp-pubkey-import-intro =
+    { $num ->
+       *[other] Tập tin chứa { $num } khóa công khai như được hiển thị bên dưới:
+    }
+openpgp-pubkey-import-accept =
+    { $num ->
+       *[other] Bạn có chấp nhận các khóa này để xác minh chữ ký số và mã hóa thư, cho tất cả các địa chỉ email được hiển thị không?
+    }
+pubkey-import-button =
+    .buttonlabelaccept = Nhập
+    .buttonaccesskeyaccept = I
