@@ -28,6 +28,13 @@ pill-tooltip-not-in-address-book = { $email } không có trong sổ địa chỉ
 pill-action-edit =
     .label = Chỉnh sửa địa chỉ
     .accesskey = e
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Chọn tất cả địa chỉ trong { $type }
+    .accesskey = A
+pill-action-select-all-pills =
+    .label = Chọn tất cả địa chỉ
+    .accesskey = S
 pill-action-move-to =
     .label = Chuyển sang Đến
     .accesskey = t
@@ -72,24 +79,23 @@ context-menuitem-attach-files =
     .label = Đính kèm tập tin…
     .accesskey = F
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
-#   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } đính kèm
-           *[other] { $count } đính kèm
-        }
-    .accesskey = m
-expand-attachment-pane-tooltip =
-    .tooltiptext = Hiển thị ngăn đính kèm ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Ẩn ngăn đính kèm ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = vCard của tôi
+    .accesskey = C
+context-menuitem-attach-openpgp-key =
+    .label = Khóa công khai OpenPGP của tôi
+    .accesskey = K
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
         [1] { $count } đính kèm
        *[other] { $count } đính kèm
     }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Hiển thị ngăn đính kèm ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Ẩn ngăn đính kèm ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-show =
     .title = Hiển thị ngăn đính kèm ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -119,6 +125,48 @@ message-to-be-signed-icon =
     .alt = Ký thư
 message-to-be-encrypted-icon =
     .alt = Mã hóa thư
+encryption-menu =
+    .label = Bảo mật
+    .accesskey = c
+encryption-toggle =
+    .label = Mã hóa
+    .tooltiptext = Sử dụng mã hóa đầu cuối cho tin nhắn này
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = Xem hoặc thay đổi cài đặt mã hóa OpenPGP
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = Xem hoặc thay đổi cài đặt mã hóa S/MIME
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = O
+menu-smime =
+    .label = S/MIME
+    .accesskey = S
+menu-encrypt =
+    .label = Mã hóa
+    .accesskey = E
+menu-encrypt-subject =
+    .label = Mã hóa chủ đề
+    .accesskey = B
+menu-view-certificates =
+    .label = Xem chứng nhận của người nhận
+    .accesskey = V
+menu-open-key-manager =
+    .label = Quản lý khóa
+    .accesskey = M
+openpgp-key-issue-notification-one = Mã hóa đầu cuối yêu cầu giải quyết các vấn đề của khóa đối với { $addr }
+openpgp-key-issue-notification-many = Mã hóa đầu cuối yêu cầu giải quyết các vấn đề của khóa đối với { $count } người nhận.
+smime-cert-issue-notification-one = Mã hóa đầu cuối yêu cầu giải quyết các vấn đề về chứng chỉ đối với { $addr }.
+smime-cert-issue-notification-many = Mã hóa end-to-end yêu cầu giải quyết các vấn đề về chứng chỉ đối với { $count } người nhận.
+key-notification-disable-encryption =
+    .label = Không mã hóa
+    .accesskey = D
+    .tooltiptext = Tắt mã hóa đầu cuối
+key-notification-resolve =
+    .label = Giải quyết…
+    .accesskey = R
+    .tooltiptext = Mở trợ lý khóa OpenPGP
 
 ## Addressing Area
 

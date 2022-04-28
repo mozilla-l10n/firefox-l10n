@@ -5,18 +5,15 @@
 otr-finger =
     .buttonlabelaccept = Đóng
     .title = Trước đây đã thấy dấu vân tay OTR
-
+otr-finger-title = Trước đây đã xem dấu vân tay OTR
 finger-intro = Dấu vân tay OTR từ các cuộc hội thoại được mã hóa đầu cuối trước đó.
-
 finger-screen-name =
     .label = Liên hệ
 finger-verified =
     .label = Tình trạng xác minh
 finger-fingerprint =
     .label = Dấu vân tay
-
 finger-remove =
     .label = Xóa mục đã chọn
-
 finger-remove-all =
     .label = Xóa tất cả
