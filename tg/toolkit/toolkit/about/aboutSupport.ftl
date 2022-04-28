@@ -131,7 +131,15 @@ media-capabilities-enumerate = Ҳисоббарории пойгоҳи итти�
 
 ##
 
+intl-title = Байналмилалисозӣ ва маҳаллисозӣ
 intl-app-title = Танзимоти барнома
+intl-locales-requested = Забонҳои дархостшуда
+intl-locales-available = Забонҳои дастрас
+intl-locales-supported = Забонҳои барнома
+intl-locales-default = Забони пешфарз
+intl-os-title = Низоми амалкунанда
+intl-os-prefs-system-locales = Забонҳои низом
+intl-regional-prefs = Танзимоти минтақавӣ
 
 ## Remote Debugging
 ##
@@ -142,10 +150,19 @@ intl-app-title = Танзимоти барнома
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Ислоҳи нуқсонҳо ба таври дурдаст (Протоколи Chromium)
+remote-debugging-accepting-connections = Пайвастҳои қабулшаванда
 remote-debugging-url = Нишонии URL
 
 ##
 
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] Гузоришҳо дар бораи садама аз { $days } рӯзи охир
+       *[other] Гузоришҳо дар бораи садама аз { $days } рӯзи охир
+    }
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
