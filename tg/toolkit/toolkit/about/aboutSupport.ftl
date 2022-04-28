@@ -113,9 +113,21 @@ restart-button-label = Аз нав оғоз кардан
 
 ## Media titles
 
+media-title = Расона
+media-output-devices-title = Дастгоҳҳои содиротӣ
+media-input-devices-title = Дастгоҳҳои воридотӣ
 media-device-name = Ном
 media-device-group = Гурӯҳ
 media-device-vendor = Фурӯшанда
+media-device-state = Вазъият
+media-device-preferred = Пазируфта
+media-device-format = Формат
+media-device-channels = Шабакаҳо
+media-device-rate = Зичӣ
+media-device-latency = Таъхир
+media-capabilities-title = Қобилиятҳои расона
+# List all the entries of the database.
+media-capabilities-enumerate = Ҳисоббарории пойгоҳи иттилоотӣ
 
 ##
 

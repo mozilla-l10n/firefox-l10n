@@ -264,6 +264,7 @@ addon-name-disabled = { $name } (ғайрифаъол)
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> тоза карда шуд.
 pending-uninstall-undo-button = Бекор кардан
+addon-detail-updates-label = Иҷозат барои навсозиҳои худкор
 addon-detail-updates-radio-default = Пешфарз
 addon-detail-updates-radio-on = Фаъол
 addon-detail-updates-radio-off = Ғайрифаъол
