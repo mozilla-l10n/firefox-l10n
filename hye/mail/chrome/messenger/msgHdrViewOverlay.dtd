@@ -86,9 +86,25 @@
 <!ENTITY saveAllAttachmentsCmd.accesskey    "Պ">
 <!ENTITY detachAllAttachmentsCmd.label    "Ապակցել բոլորը…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "Ա">
+<!ENTITY deleteAllAttachmentsCmd.label    "Ջնջել բոլորը…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "ն">
 
+<!ENTITY openAttachment.tooltip "Բացել կցուած նիշը">
 
+<!ENTITY detachedAttachmentFolder.show.label        "Բացել պարունակող պանակը">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "Պ">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Ցուցադրել որոնումում">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "Ո">
 
 <!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton1.label       "Պահպանել">
+<!ENTITY saveAttachmentButton1.tooltip     "Պահպանել կցուած նիշը">
+<!ENTITY saveAllAttachmentsButton1.label   "Պահպանել բոլորը">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Պահպանել բոլոր կցուած նիշերը">
 
+<!ENTITY copyLinkCmd.label        "Պատճէնել յղման հասցէն">
+<!ENTITY copyLinkCmd.accesskey    "Պ">
 
+<!ENTITY CopyMessageId.label "Պատճենել հաղորդագրութեան ID֊ն">
+<!ENTITY CopyMessageId.accesskey "Պ">
+<!ENTITY OpenMessageForMsgId.label "Բացել հաղորդագրութիւն ID-ի Համար">
