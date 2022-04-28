@@ -26,14 +26,66 @@
 <!ENTITY hdrSmartReplyButton1.label "Խելացի Պատասխան">
 <!ENTITY hdrReplyButton1.label "Պատասխանել">
 <!ENTITY hdrReplyButton2.tooltip "Պատասպանել այս հաղորդագրութիւնը ուղարկողին">
-<!ENTITY hdrReplyAllButton1.label "Պատասխանել Բոլորին">
+<!ENTITY hdrReplyAllButton1.label "Պատասխանել բոլորին">
+<!ENTITY hdrReplyAllButton1.tooltip "Պատասխանել ուղարկողին եւ բոլոր ստացողներին">
+<!ENTITY hdrReplyListButton1.label "Պատասխանների ցանկ">
 <!ENTITY hdrReplyListButton1.tooltip "Պատասխանել փոստացանկին">
+<!ENTITY hdrFollowupButton1.label "Հետեւել">
+<!ENTITY hdrFollowupButton1.tooltip "Հետեւել այս լրատուական խմբին">
+<!ENTITY hdrForwardButton1.label "Փոխանցել">
+<!ENTITY hdrForwardButton1.tooltip "Փոխանցել այս հաղորդագրութիւնը">
+<!ENTITY hdrJunkButton1.label "Թափաւն">
+<!ENTITY hdrJunkButton1.tooltip "Նշել այս հաղորդագրութիւնը որպէս անպէտք">
+<!ENTITY hdrTrashButton1.label "Ջնջել">
+<!ENTITY hdrTrashButton1.tooltip "Ջնջել այս հաղորդագրութիւնը">
 
+<!ENTITY hdrViewToolbarShowFull.label "Ցուցադրել պատկերները եւ գրոյթը">
+<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY hdrViewToolbarShowIcons.label "Ցուցադրել միայն պատկերները">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "Պ">
+<!ENTITY hdrViewToolbarShowText.label "Ցուցադրել միայն գրոյթը">
+<!ENTITY hdrViewToolbarShowText.accesskey "Գ">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Միշտ ցուցադրել պատասխանը ուղարկողին">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "Պ">
 
+<!ENTITY otherActionsButton2.label "Աւելին">
+<!ENTITY otherActionsButton.tooltip "Աւելի շատ գործողութիւններ">
+<!ENTITY otherActionsOpenConversation1.label "Բացել զրուցաշարում">
+<!ENTITY otherActionsOpenConversation1.accesskey "Զ">
+<!ENTITY otherActionsOpenInNewWindow1.label "Բացել նոր պատուհանում">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "Պ">
+<!ENTITY otherActionsOpenInNewTab1.label "Բացել նոր ներդիրում">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "Ն">
+<!ENTITY markAsReadMenuItem1.label "Նշել որպէս ընթերցուած">
+<!ENTITY markAsReadMenuItem1.accesskey "Ը">
+<!ENTITY markAsUnreadMenuItem1.label "Նշել որպէս չընթերցուած">
+<!ENTITY markAsUnreadMenuItem1.accesskey "ը">
+<!ENTITY saveAsMenuItem1.label "Պահպանել որպէս…">
+<!ENTITY saveAsMenuItem1.accesskey "Պ">
+<!ENTITY viewSourceMenuItem1.label "Դիտել աղբեւրը">
+<!ENTITY viewSourceMenuItem1.accesskey "Դ">
+<!ENTITY otherActionsPrint1.label "Տպել…">
+<!ENTITY otherActionsPrint1.accesskey "Տ">
 
 <!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Սկզբում ցուցադրել կցորդի վահանակը">
+<!ENTITY startExpandedCmd.accesskey    "Ց">
 
 <!-- Attachment context menu items -->
+<!ENTITY openAttachmentCmd.label    "Բացել">
+<!ENTITY openAttachmentCmd.accesskey    "Բ">
+<!ENTITY saveAsAttachmentCmd.label    "Պահպանել որպէս…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "Պ">
+<!ENTITY detachAttachmentCmd.label    "Ապակցել…">
+<!ENTITY detachAttachmentCmd.accesskey    "Ա">
+<!ENTITY deleteAttachmentCmd.label    "Ջնջել">
+<!ENTITY deleteAttachmentCmd.accesskey    "ն">
+<!ENTITY openAllAttachmentsCmd.label    "Բացել բոլորը…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "Բ">
+<!ENTITY saveAllAttachmentsCmd.label    "Պահպանել բոլորը...">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "Պ">
+<!ENTITY detachAllAttachmentsCmd.label    "Ապակցել բոլորը…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "Ա">
 
 
 
