@@ -4,7 +4,9 @@
 
 <!ENTITY window.title "Բարի գալուստ &brandShortName;">
 <!ENTITY header2.label "Կը ցանկանա՞ք նոր եղ-փոստի հասցէ">
+<!ENTITY other.languages "Մենք միայն ցուցադրում ենք մատակարարներ, որոնք առաջարկում են հասցէներ Ձեր տարածքում: Սեղմէք այստեղ՝ ցուցադրելու բոլոր մատակարարներին:">
 <!ENTITY error.line1 "Ներեցէք, մենք չկարողացանք գտնել առաջարկուող եղ-փոստի հասցէներ:">
+<!ENTITY error.line2 "Աւելի շատ հասցէներ գտնելու համար կարող էք փորձել որոնել կեղծանուններ կամ այղ տերմիններ:">
 
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into

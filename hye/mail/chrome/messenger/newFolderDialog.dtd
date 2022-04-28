@@ -4,3 +4,12 @@
 
 <!-- Labels -->
 <!ENTITY newFolderDialog.title      "Նոր պանակ">
+<!ENTITY name.label                 "Անուն՝">
+<!ENTITY name.accesskey             "ա">
+<!ENTITY description.label          "Ստեղծել որպէս ենթապանակ․">
+<!ENTITY description.accesskey      "ս">
+<!ENTITY folderRestriction1.label   "Այս սպասարկիչը սահմանափակում է պանակները երկու յատուկ տեսակի։">
+<!ENTITY folderRestriction2.label   "Թոյղատրէք, որ Ձեր նոր պանակը պարունակի՝">
+<!ENTITY foldersOnly.label          "Միայն պանակները">
+<!ENTITY messagesOnly.label         "Միայն հաղորդագրութիւնները">
+<!ENTITY accept.label               "Ստեղծել պանակ">
