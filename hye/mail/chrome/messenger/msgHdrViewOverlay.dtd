@@ -108,3 +108,6 @@
 <!ENTITY CopyMessageId.label "Պատճենել հաղորդագրութեան ID֊ն">
 <!ENTITY CopyMessageId.accesskey "Պ">
 <!ENTITY OpenMessageForMsgId.label "Բացել հաղորդագրութիւն ID-ի Համար">
+<!ENTITY OpenMessageForMsgId.accesskey "O">
+<!ENTITY OpenBrowserWithMsgId.label "Բացել դիտարկիչը հաղորդագրութեան ID-ով">
+<!ENTITY OpenBrowserWithMsgId.accesskey "Դ">
