@@ -12,12 +12,23 @@
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
+<!ENTITY error.suggest.before "Նաեւ կարող էք փորձել սրանցից մեկը՝">
 <!ENTITY error.suggest.middle "անվճար այղընտրանքային եղ֊փոստի ծառայութիւններ">
+<!ENTITY error.suggest.after ".">
 
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
+<!ENTITY success.title.before "Ողջոյն">
+<!ENTITY success.title.after ", հետեւեալ եղ-փոստի հասցէները հասանելի են Ձեզ համար">
+<!ENTITY success.tip "(Աւելի շատ հասցէներ գտնելու համար կարող էք որոնել կեղծանուններ կամ այղ տերմիններ)">
+<!ENTITY partnership.description "Համագործակցելով մի քանի մատակարարների հետ, &brandShortName; կարող է առաջարկել Ձեզ նոր եղ-հասցէի հաշիւ: Պարզապէս մուտքագրէք Ձեր անունը եւ ազգանունը կամ որեւէ այղ բառեր որոնք դուք ցանկանում էք, որ վերը նշուած դաշտերը սկսեն:">
+<!ENTITY existing.header "Արդէն ունէ՞ք հասցէ, որը ցանկանում էք աւգտագործել">
+<!ENTITY tinyheader.title "Ստացե՞լ էք հասցէ">
 <!ENTITY tinyheader.existing "Բաց թողնել եւ աւգտագործել առկայ եղ․ հասցէն">
-<!ENTITY successful.write "Գրէք որեւէ էլ-փոստ">
+<!ENTITY content.close "Կարծում եմ, որ կը կարգաւորեմ իմ հաշիւը աւելի ուշ։">
+<!ENTITY successful.title "Շնորհաւորանքնե՜ր">
+<!ENTITY successful.successMessage "Դուք հաջողութեամբ ստեղծեցիք Ձեր հաշիւը:">
+<!ENTITY successful.write "Գրէք որեւէ եղ-փոստ">
 <!ENTITY successful.attach "Կցել անձնական ստորագրություն նամակին">
 <!ENTITY input.namePlaceholder "Ձեր անունը, կամ կեղծանունը">
