@@ -25,6 +25,12 @@ chat-buddy-identity-status-unverified = Ur yettwasenqed ara
 
 ## Conversation invite notification box
 
+# This string appears in a notification bar at the top of the Contacts window
+# when someone invited the user to a multi user chat conversation, to request
+# the user to confirm they want to join the chat.
+# Variables:
+#   $conversation (String) - Name of the conversation the user is invited to.
+chat-conv-invite-label = Tremdeḍ-d tinubga i wakken ad temmeslayeḍ deg { $conversation }
 chat-conv-invite-accept =
     .label = Qbel
     .accesskey = Q

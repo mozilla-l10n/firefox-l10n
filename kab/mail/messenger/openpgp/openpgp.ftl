@@ -386,6 +386,7 @@ key-valid-disabled = yensa
 key-valid-revoked = yettwaḥwi
 key-valid-expired = yemmut
 key-trust-untrusted = ur yettwaman ara
+key-trust-full = yettwaman
 key-trust-group = (agraw)
 # Strings used in commonWorkflows.js
 import-key-file = Kter afaylu n tsarut OpenPGP
