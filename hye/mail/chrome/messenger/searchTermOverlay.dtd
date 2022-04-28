@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY matchAll.label     "Համեմատել բոլոր հետեւորդներին">
-<!ENTITY matchAll.accesskey "a">
-<!ENTITY matchAny.label     "Համեմատել որեւէ մեկ հետեւորդի">
+<!ENTITY matchAll.accesskey "բ">
+<!ENTITY matchAny.label     "Համապատասխանեցնել որևէ մեկին">
 <!ENTITY matchAny.accesskey "o">
-<!ENTITY matchAllMsgs.label     "Համեմատեք բոլոր հաղորդագրութիւնները">
-<!ENTITY matchAllMsgs.accesskey "m">
+<!ENTITY matchAllMsgs.label     "Համապատասխանեցնել բոլոր հաղորդագրութիւնները">
+<!ENTITY matchAllMsgs.accesskey "Հ">
 
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the search widgets.
