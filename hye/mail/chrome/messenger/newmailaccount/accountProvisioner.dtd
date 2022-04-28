@@ -30,5 +30,17 @@
 <!ENTITY successful.title "Շնորհաւորանքնե՜ր">
 <!ENTITY successful.successMessage "Դուք հաջողութեամբ ստեղծեցիք Ձեր հաշիւը:">
 <!ENTITY successful.write "Գրէք որեւէ եղ-փոստ">
+<!ENTITY successful.write.desc "Տեղեկացրեք Ձեր ընկերներին եւ ընտանիքին Ձեր նոր հասցէի մասին։<br/> Ահա թէ ինչու էք ստացել այս նոր հաշիւը, այնպէս չէ՞։">
+<!ENTITY successful.customize "Յարմարեցրէք &brandShortName;֊ը որոշ յաւելումների հետ։">
+<!ENTITY successful.customize.desc "Կան հազարաւոր յաւելումներ, որոնք թոյղ են տալիս յարմարեցնել &brandShortName;֊ը որպէսզի այն համապատասխանի Ձեր յատուկ կարիքներին։">
 <!ENTITY successful.attach "Կցել անձնական ստորագրություն նամակին">
+<!ENTITY successful.attach.desc "Դուք կարող էք ինքնաշխատ կերպով կցել մեջբերում կամ որոշ տեղեկութիւն Ձեր մասին Ձեր ուղարկած իւրաքանչիւր հաղորդագրութեան վերջում։
+">
+<!ENTITY successful.close "Փակել այս պատուհանը։">
 <!ENTITY input.namePlaceholder "Ձեր անունը, կամ կեղծանունը">
+<!ENTITY input.search "Որոնել">
+<!ENTITY search_engine.title "Յարմարացրէք Ձեր որոնաման շարժիչը">
+<!ENTITY search_engine.message "Ձեր եղ֊փոստի մատակարարը կարող է նաեւ տրամադրել վեբ որոնման հնարաւորութիւններ:
+
+">
+<!ENTITY search_engine.button "Աւարտել">
