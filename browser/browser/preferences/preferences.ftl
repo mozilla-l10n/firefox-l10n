@@ -380,6 +380,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Mida peaks { -brand-short-name } tegema teiste failidega?
+applications-save-for-new-types =
+    .label = Salvesta failid
+    .accesskey = S
+applications-ask-before-handling =
+    .label = Küsitakse, kas failid peaks avama või salvestama
+    .accesskey = K
 drm-content-header = Autoriõiguse digitaalkaitsega (DRM) sisu
 play-drm-content =
     .label = DRMiga kaitstud sisu esitamine lubatakse
@@ -919,12 +926,12 @@ sitedata-option-block-cross-site-tracking-cookies-including-social-media =
     .label = saitideülesed jälitavad küpsised — sisaldab sotsiaalmeedia küpsiseid
 sitedata-option-block-cross-site-cookies-including-social-media =
     .label = saitideülesed küpsised — sisaldab sotsiaalmeedia küpsiseid
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = saitideülesed ja sotsiaalmeedia jälitajad, ülejäänud küpsised isoleeritakse
 sitedata-option-block-cross-site-tracking-cookies =
     .label = saitideülesed jälitamisküpsised
 sitedata-option-block-cross-site-cookies =
     .label = saitideülesed jälitavad küpsised, muud saitideülesed küpsised isoleeritakse
-sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
-    .label = saitideülesed ja sotsiaalmeedia jälitajad, ülejäänud küpsised isoleeritakse
 sitedata-option-block-unvisited =
     .label = küpsised külastamata veebisaitidelt
 sitedata-option-block-all-third-party =
