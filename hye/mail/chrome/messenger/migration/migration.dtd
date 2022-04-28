@@ -3,8 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY migrationWizard.title          "Ներմուծել աւգնական">
 
+<!ENTITY importFromWin.label            "Ներմուծել ընտրանքներ, հաշուի կարգաւորումներ, հասցէագիրք, զտիչներ եւ այղ տուեալներ՝">
+<!ENTITY importFromNonWin.label         "Ներմուծել նախընտրութիւններ, հաշուի կարգաւորումներ, հասցէագիրք, զտիչներ, եւ այղ տուեալներ՝">
+<!ENTITY importSourceNotFound.label     "Տուեալներ ներմուծելու յաւելուած չի գտնուել:">
 
+<!ENTITY importFromNothing.label        "Ոչինչ չներմուծել">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 կամ աւելի ուշ">
 <!ENTITY importFromSeamonkey3.accesskey "S">
@@ -12,7 +17,14 @@
 <!ENTITY importFromOutlook.accesskey    "O">
 
 <!ENTITY importSource.title             "Կարգաւորումների եւ փոստի պանակների ներածում">
+<!ENTITY importItems.title              "Ներմուծուող տարրեր">
+<!ENTITY importItems.label              "Ընտրէ՛ք, թե ինչ պէտք է ներմուծուի․">
 
-<!ENTITY migrating.title                "Ներածել…">
+<!ENTITY migrating.title                "Ներմուծուում է…">
+<!ENTITY migrating.label                "Ներկայ պահին ներմուծուում են հետեւեալ բաղադրիչները…">
 
+<!ENTITY selectProfile.title            "Ընտրէք հաշիւը">
+<!ENTITY selectProfile.label            "Կարող էք ներմուծել հետեւեալ հաշիւներից․">
 
+<!ENTITY done.title                     "Ներմուծումն աւարտուեց">
+<!ENTITY done.label                     "Հետեւեալ տարրերը յաջողութեամբ ներմուծուել են.">
