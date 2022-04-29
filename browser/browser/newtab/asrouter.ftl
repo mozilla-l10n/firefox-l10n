@@ -109,6 +109,13 @@ cfr-doorhanger-fission-secondary-button = ఇంకా తెలుసుకో�
 cfr-doorhanger-video-support-primary-button = ఇప్పుడే తాజాకరించు
     .accesskey = U
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = ఇంకా తెలుసుకోండి
+    .title = ఈ విశేషం గురించి మరింత తెలుసుకోడానికి విస్తరించండి
+spotlight-learn-more-expanded = ఇంకా తెలుసుకోండి
+    .title = మూసివేయి
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
@@ -117,3 +124,11 @@ cfr-doorhanger-video-support-primary-button = ఇప్పుడే తాజా
 
 spotlight-public-wifi-vpn-link = ఇప్పుడు కాదు
     .accesskey = N
+
+## Total Cookie Protection Rollout
+
+spotlight-total-cookie-protection-secondary-button = ఇప్పుడు కాదు
+
+## Emotive Continuous Onboarding
+
+spotlight-pin-secondary-button = ఇప్పుడు కాదు

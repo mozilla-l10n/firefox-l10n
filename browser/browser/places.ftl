@@ -41,6 +41,14 @@ places-delete-domain-data =
 places-sortby-name =
     .label = పేరు ద్వారా క్రమపరచు
     .accesskey = r
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] సంచయాన్ని తొలగించు
+            [one] సంచయాన్ని తొలగించు
+           *[other] సంచయాలను తొలగించు
+        }
+    .accesskey = D
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = ఇతర ఇష్టాంశాలు

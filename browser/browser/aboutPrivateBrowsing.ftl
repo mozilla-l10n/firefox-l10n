@@ -20,6 +20,9 @@ about-private-browsing-info-description = మీరు అనువర్తన�
 about-private-browsing-need-more-privacy = మరింత అంతరంగికత కావాలా?
 about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name }‌ను ప్రయత్నించండి
 about-private-browsing-learn-more-link = ఇంకా తెలుసుకోండి
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -32,3 +35,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = మూసివేయి
+about-private-browsing-promo-close-button =
+    .title = మూసివేయి
