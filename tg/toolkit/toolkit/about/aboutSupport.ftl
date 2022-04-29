@@ -101,6 +101,16 @@ graphics-diagnostics-title = Ташхис
 graphics-failure-log-title = Сабти рӯйдодҳои нокомӣ
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Сабти рӯйдодҳои қарор
+graphics-crash-guards-title = Хусусиятҳои ғайрифаъолшуда бо муҳофизи зидди вайроншавӣ
+graphics-workarounds-title = Усулҳои бартарафсозӣ
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Протоколи идоракунии равзанаҳо
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Муҳити мизи корӣ
+place-database-title = Пойгоҳи иттилоотии ҷойҳо
+place-database-integrity = Яклухтӣ
+place-database-verify-integrity = Санҷиши яклухтӣ
 a11y-title = Қобилияти дастрасӣ
 a11y-activated = Фаъолшуда
 copy-text-to-clipboard-label = Нусха бардоштани матн ба ҳофизаи муваққатӣ
