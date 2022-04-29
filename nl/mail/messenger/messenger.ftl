@@ -132,6 +132,7 @@ message-header-msg-not-flagged =
 
 ## Message header cutomize panel
 
+message-header-customize-panel-title = Instellingen berichtkop
 message-header-customize-button-style =
     .value = Knopstijl
     .accesskey = K
