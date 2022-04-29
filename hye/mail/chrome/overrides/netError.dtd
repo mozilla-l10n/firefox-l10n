@@ -164,14 +164,26 @@
 <!ENTITY corruptedContentErrorv2.title "Վնասուած բովանդակութեան սխալ">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Էջը, որը փորձում էք դիտել, հնարաւոր չէ ցուցադրել, քանի որ տուեալների փոխանցման մէջ սխալ է յայտնաբերուել:</p><ul><li>Խնդրում ենք կապ հաստատել կայքը տնաւրինողների հետ խնդիրը մասին տեղեկացնելու համար:</li></ul>">
 
+<!ENTITY securityOverride.linkText "Կամ կարող էք աւելացնել բացառութիւն…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Դու՛րս բեր ինձ այստեղից։">
+<!ENTITY securityOverride.exceptionButtonLabel "Աւելացնել բացառութիւն…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
+<!ENTITY securityOverride.warningContent "
+<p>Դուք չպէտք է բացառութիւն աւելացնէք, եթե աւգտագործում էք ինտերնետ կապ, որին լիովին չէք վստահում կամ եթե սովոր չէք այս սպասարկչի համար նախազգուշացում տեսնելուն:</p>
 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;&securityOverride.exceptionButtonLabel;</button>
+">
 
+<!ENTITY remoteXUL.title "Հեռակայ XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Խնդրում ենք կապ հաստատել կայքը տնաւրինողների հետ` նրանց այս խնդիրը տեղեկացնելու համար:</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "Ձեր կապն ապահով չէ">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
