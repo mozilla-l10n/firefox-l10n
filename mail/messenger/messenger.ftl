@@ -133,12 +133,18 @@ message-header-msg-not-flagged =
 ## Message header cutomize panel
 
 message-header-customize-panel-title = Configuración del encabezado del mensaje
+message-header-customize-button-style =
+    .value = Estilo de botón
+    .accesskey = b
 message-header-button-style-default =
     .label = Íconos y texto
 message-header-button-style-text =
     .label = Texto
 message-header-button-style-icons =
     .label = Íconos
+message-header-large-subject =
+    .label = Asunto grande
+    .accesskey = s
 
 ## Action Button Context Menu
 
