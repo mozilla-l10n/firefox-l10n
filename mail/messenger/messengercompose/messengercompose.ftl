@@ -155,6 +155,33 @@ menu-smime =
 menu-encrypt =
     .label = Krüptimine
     .accesskey = K
+menu-encrypt-subject =
+    .label = Pealkiri krüptitakse
+    .accesskey = P
+menu-sign =
+    .label = Kiri digiallkirjastatakse
+    .accesskey = d
+menu-manage-keys =
+    .label = Võtmeassistent
+    .accesskey = V
+menu-view-certificates =
+    .label = Vaata saatjate serte
+    .accesskey = V
+menu-open-key-manager =
+    .label = Võtmehaldur
+    .accesskey = h
+openpgp-key-issue-notification-one = Otspunktkrüptimine nõuab aadressi { $addr } võtmeprobleemide lahendamist
+openpgp-key-issue-notification-many = Otspunktkrüptimine nõuab { $count } saaja võtmeprobleemide lahendamist.
+smime-cert-issue-notification-one = Otspunktkrüptimine nõuab aadressi { $addr } serdiprobleemide lahendamist
+smime-cert-issue-notification-many = Otspunktkrüptimine nõuab { $count } saaja serdiprobleemide lahendamist.
+key-notification-disable-encryption =
+    .label = Ära krüpti
+    .accesskey = r
+    .tooltiptext = Otspunktkrüptimine keelatakse
+key-notification-resolve =
+    .label = Lahenda…
+    .accesskey = L
+    .tooltiptext = Ava OpenPGP võtmeassistent
 
 ## Addressing Area
 
