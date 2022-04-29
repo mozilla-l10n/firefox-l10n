@@ -343,6 +343,7 @@ key-revoked-simple = Tasarut ettwasefsex
 # Strings in keyserver.jsm
 keyserver-error-aborted = Yettwaseḥbes
 keyserver-error-unknown = Taḍra-d tuccda tarussint
+keyserver-error-server-error = Aqeddac n tsarut yuzen-d aneqqis n tuccḍa.
 # Strings in gpg.jsm
 unknown-signing-alg = Alguritm n uzmel arussin (asulay : { $id })
 unknown-hash-alg = Adṣil umḍil arussin (Asulay : { $id })
