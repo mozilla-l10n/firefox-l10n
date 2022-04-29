@@ -3,3 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY virtualFolderListTitle.title        "Ընտրել պանակ(ները)">
+<!ENTITY virtualFolderDesc.label       "Ընտրէք պանակները որոնելու համար.">
+<!ENTITY folderName.label "Պանակի անուն">
+<!ENTITY folderSearch.label "Որոնել">
