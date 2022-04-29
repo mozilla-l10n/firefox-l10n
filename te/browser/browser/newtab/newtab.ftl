@@ -8,6 +8,8 @@
 newtab-page-title = కొత్త ట్యాబు
 newtab-settings-button =
     .title = మీ కొత్త ట్యాబు పేజీని మలచుకోండి
+newtab-personalize-dialog-label =
+    .aria-label = వ్యక్తిగతీకరించు
 
 ## Search box component.
 
@@ -33,6 +35,7 @@ newtab-search-box-search-the-web-input =
     .placeholder = జాలంలో వెతకండి
     .title = జాలంలో వెతకండి
     .aria-label = జాలంలో వెతకండి
+newtab-search-box-text = జాలంలో వెతకండి
 newtab-search-box-input =
     .placeholder = జాలంలో వెతకండి
     .aria-label = జాలంలో వెతకండి
