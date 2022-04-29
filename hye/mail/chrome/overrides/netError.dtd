@@ -30,6 +30,10 @@
     ">
 
 <!ENTITY fileNotFound.title "Նիշը չի գտնուել">
+<!ENTITY fileNotFound.longDesc "<ul>
+  <li>Ստուգէք նիշի անունը մեծատառերի կամ այղ տպագրական սխալների համար։</li>
+  <li>Ստուգէք, թէ արդեւք նիշքը չի տեղափոխուել, անուանափոխուել կամ ջնջուել։</li>
+</ul> ">
 
 <!ENTITY fileAccessDenied.title "Նիշ մուտք գործելու հասանելիութիւնը մերժուեց">
 <!ENTITY fileAccessDenied.longDesc "<ul>
@@ -186,5 +190,9 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.title "Ձեր կապն ապահով չէ">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> աւգտագործում է անվտանգութեան տեխնոլոգիայ, որը հնացած է եւ խոցելի հարձակման համար: Հարձակուողը կարող է հեշտութեամբ բացայայտել այն տեղեկութիւնները, որոնք, Ձեր կարծիքով, անվտանգ են: Կայքի վարիչին անհրաժեշտ է ուղղել սպասարկչը, նախքան կայք այցելելը:</p><p>Սխալի կոդը. NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Արգելափակուած էջ">
 
+<!ENTITY networkProtocolError.title "Ցանցի հաղորդակարգի սխալ">
+<!ENTITY networkProtocolError.longDesc "<p>Էջը, որը փորձում էք դիտել, հնարաւոր չէ ցոյց տալ, քանի որ ցանցային արձանագրութեան մէջ սխալ է յայտնաբերուել:</p><ul><li>Խնդրում ենք կապ հաստատել կայքը տնաւրինողների հետ` նրանց այս խնդիրը տեղեկացնելու համար:</li></ul>">
