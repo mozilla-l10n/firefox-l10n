@@ -81,6 +81,13 @@ context-menuitem-attach-files =
     .label = Agiuntar datoteca(s)
     .accesskey = d
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = Mia vCard
+    .accesskey = C
+context-menuitem-attach-openpgp-key =
+    .label = Mia clav publica OpenPGP
+    .accesskey = c
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
@@ -126,6 +133,33 @@ message-to-be-signed-icon =
     .alt = Signar il messadi
 message-to-be-encrypted-icon =
     .alt = Criptar il messadi
+encryption-menu =
+    .label = Segirezza
+    .accesskey = z
+encryption-toggle =
+    .label = Criptar
+    .tooltiptext = Utilisar il criptadi da fin a fin per quest messadi.
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = Consultar u midar ils parameters dal criptadi OpenPGP
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = Consultar u midar ils parameters dal criptadi S/MIME
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = O
+menu-smime =
+    .label = S/MIME
+    .accesskey = S
+menu-encrypt =
+    .label = Criptar
+    .accesskey = i
+menu-encrypt-subject =
+    .label = Criptar l'object
+    .accesskey = b
+menu-sign =
+    .label = Suttascriver a moda digitala
+    .accesskey = t
 
 ## Addressing Area
 
