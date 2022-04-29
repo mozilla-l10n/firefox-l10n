@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-httpsonly-title-alert = Огоҳӣ оид ба реҷаи «Танҳо HTTPS»
+about-httpsonly-title-connection-not-available = Пайвасти бехатар дастрас нест
+about-httpsonly-title-site-not-available = Сомонаи бехатар дастрас нест
 about-httpsonly-button-continue-to-site = Ба сомонаи HTTP идома диҳед
 about-httpsonly-button-go-back = Бозгашт
 about-httpsonly-link-learn-more = Маълумоти бештар…
