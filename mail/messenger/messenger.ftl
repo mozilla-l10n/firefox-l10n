@@ -131,6 +131,22 @@ message-header-msg-not-flagged =
     .title = Tähistamata
     .aria-label = Tähistamata
 
+## Message header cutomize panel
+
+message-header-customize-panel-title = Kirja päise sätted
+message-header-customize-button-style =
+    .value = Nupu stiil
+    .accesskey = N
+message-header-button-style-default =
+    .label = Ikoonid ja tekst
+message-header-button-style-text =
+    .label = Tekst
+message-header-button-style-icons =
+    .label = Ikoonid
+message-header-large-subject =
+    .label = Teemat kuvatakse suurelt
+    .accesskey = T
+
 ## Action Button Context Menu
 
 toolbar-context-menu-manage-extension =
@@ -173,24 +189,6 @@ decrypt-and-copy-failures = { $failures } kirja { $total } kirjast polnud võima
 
 ## Spaces toolbar
 
-spaces-toolbar =
-    .toolbarname = Rakenduskaartide tööriistariba
-spaces-toolbar-button-mail =
-    .title = Lülitu e-posti kaardile
-spaces-toolbar-button-address-book =
-    .title = Lülitu aadressiraamatu kaardile
-spaces-toolbar-button-calendar =
-    .title = Lülitu kalendri kaardile
-spaces-toolbar-button-tasks =
-    .title = Lülitu ülesannete kaardile
-spaces-toolbar-button-chat =
-    .title = Lülitu vestluste kaardile
-spaces-toolbar-button-settings =
-    .title = Lülitu sätete kaardile
-spaces-toolbar-button-collapse =
-    .title = Ahenda rakenduskaartide tööriistariba
-spaces-toolbar-button-reveal =
-    .title = Kuva rakenduskaartide tööriistariba
 spaces-toolbar-element =
     .toolbarname = Rakenduskaartide tööriistariba
     .aria-label = Rakenduskaartide tööriistariba
@@ -242,8 +240,6 @@ spaces-pinned-button-menuitem-tasks =
     .label = { spaces-toolbar-button-tasks.title }
 spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
-spaces-pinned-button-menuitem-reveal =
-    .label = { spaces-toolbar-button-reveal.title }
 spaces-pinned-button-menuitem-settings =
     .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
@@ -261,6 +257,8 @@ chat-button-unread-messages = { $count }
 
 spaces-context-customize =
     .label = Kohanda...
+menuitem-customize-label =
+    .label = Kohanda...
 spaces-customize-panel-title = Rakenduskaartide menüü sätted
 spaces-customize-background-color = Taustavärv
 spaces-customize-icon-color = Nupu värv
@@ -273,4 +271,6 @@ spaces-customize-accent-text-color = Valitud nupu värv
 spaces-customize-button-restore = Taasta vaikeväärtused
     .accesskey = T
 spaces-customize-button-save = Valmis
+    .accesskey = V
+customize-panel-button-save = Valmis
     .accesskey = V
