@@ -113,8 +113,15 @@ place-database-integrity = Яклухтӣ
 place-database-verify-integrity = Санҷиши яклухтӣ
 a11y-title = Қобилияти дастрасӣ
 a11y-activated = Фаъолшуда
+a11y-force-disabled = Ғайрифаъолсозии қобилияти дастрасӣ
 copy-text-to-clipboard-label = Нусха бардоштани матн ба ҳофизаи муваққатӣ
 copy-raw-data-to-clipboard-label = Нусха бардоштани иттилооти нокорам ба ҳофизаи муваққатӣ
+sandbox-sys-call-age = Сония пеш
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Навъи раванд
+sandbox-sys-call-number = Дархости низом
+sandbox-sys-call-args = Бузургиҳо
 troubleshoot-mode-title = Ташхис кардани мушкилиҳо
 restart-in-troubleshoot-mode-label = Реҷаи ислоҳи нуқсонҳо…
 clear-startup-cache-title = Пок кардани зерҳофизаи оғози кори барнома
@@ -125,6 +132,8 @@ restart-button-label = Аз нав оғоз кардан
 
 ## Media titles
 
+audio-backend = Зернизоми аудиоӣ
+max-audio-channels = Шумораи ҳадди аксари шабакаҳо
 media-title = Расона
 media-output-devices-title = Дастгоҳҳои содиротӣ
 media-input-devices-title = Дастгоҳҳои воридотӣ
@@ -196,6 +205,8 @@ crashes-time-days =
         [one] { $days } рӯз пеш
        *[other] { $days } рӯз пеш
     }
+raw-data-copied = Маълумоти коркарднашуда ба ҳофизаи муваққатӣ нусха бардошта шуд
+text-copied = Матн ба ҳофизаи муваққатӣ нусха бардошта шуд
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -252,6 +263,8 @@ policies-error = Хато
 
 ## Printing section
 
+support-printing-title = Чопкунӣ
+support-printing-troubleshoot = Ҷустуҷӯ ва ислоҳи нуқсонҳо
 support-printing-prefs-name = Ном
 support-printing-prefs-value = Қимат
 
