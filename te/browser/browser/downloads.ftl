@@ -31,6 +31,13 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = ఫైండర్‌లో చూపించు
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] ఫైండర్‌లో చూపించు
+           *[other] సంచయంలో చూపించు
+        }
+    .accesskey = F
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -40,6 +47,10 @@ downloads-cmd-show-menuitem-mac =
 downloads-cmd-use-system-default =
     .label = వ్యవస్థ దర్శనిలో తెరువు
     .accesskey = V
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = { $handler }లో తెరువు
+    .accesskey = I
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
