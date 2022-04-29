@@ -36,20 +36,16 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } నిష్క్రమించు
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } నిష్క్రమించు
-
 menu-about =
     .label = { -brand-shorter-name } గురించి
     .accesskey = A
@@ -91,6 +87,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = లింకును ఈమెయిలు చేయి…
     .accesskey = E
+menu-file-share-url =
+    .label = పంచుకోండి
+    .accesskey = h
 menu-file-print-setup =
     .label = పేజీ అమరిక...
     .accesskey = u

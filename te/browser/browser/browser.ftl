@@ -699,6 +699,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+restore-session-startup-suggestion-button = ఎలానో నాకు చూపించు
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 

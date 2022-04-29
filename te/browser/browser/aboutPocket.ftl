@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ట్యాగులను చేర్చు
-
 pocket-panel-saved-error-generic = { -pocket-brand-name }కు భద్రపరచడానికి ప్రయత్నిస్తున్నప్పుడు లోపం తలెత్తింది.
 pocket-panel-saved-error-tag-length = ట్యాగులు 25 అక్షరాలకు పరిమితం
 pocket-panel-saved-error-only-links = కేవలం లంకెలను మాత్రమే భద్రపరచగలరు
@@ -43,3 +42,13 @@ pocket-panel-signup-tagline-story-two = ఏ పరికరంలో అయి�
 
 pocket-panel-home-my-list = నా జాబితా
 pocket-panel-home-welcome-back = పునఃస్వాగతం
+pocket-panel-home-explore-popular-topics = ప్రాచుర్య అంశాలను చూడండి
+pocket-panel-home-discover-more = మరింత కనుగొనండి
+
+## Pocket panel header component
+
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = అన్నీ చూపించు
+pocket-panel-button-remove = తీసివేయి
