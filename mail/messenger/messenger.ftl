@@ -128,6 +128,22 @@ message-header-msg-flagged =
 message-header-msg-not-flagged =
     .title = 非星标邮件
 
+## Message header cutomize panel
+
+message-header-customize-panel-title = 消息标题设置
+message-header-customize-button-style =
+    .value = 按钮样式
+    .accesskey = B
+message-header-button-style-default =
+    .label = 图标和文本
+message-header-button-style-text =
+    .label = 文本
+message-header-button-style-icons =
+    .label = 图标
+message-header-large-subject =
+    .label = 放大主题
+    .accesskey = s
+
 ## Action Button Context Menu
 
 toolbar-context-menu-manage-extension =
@@ -170,24 +186,6 @@ decrypt-and-copy-failures = 共计 { $total } 条消息，有 { $failures } 条�
 
 ## Spaces toolbar
 
-spaces-toolbar =
-    .toolbarname = 侧工具栏
-spaces-toolbar-button-mail =
-    .title = 切换到邮件页
-spaces-toolbar-button-address-book =
-    .title = 切换到通讯录页
-spaces-toolbar-button-calendar =
-    .title = 切换到日历页
-spaces-toolbar-button-tasks =
-    .title = 切换到任务页
-spaces-toolbar-button-chat =
-    .title = 切换到聊天页
-spaces-toolbar-button-settings =
-    .title = 切换到设置页
-spaces-toolbar-button-collapse =
-    .title = 折叠侧工具栏
-spaces-toolbar-button-reveal =
-    .title = 显示侧工具栏
 spaces-toolbar-element =
     .toolbarname = 侧工具栏
     .aria-label = 侧工具栏
@@ -239,8 +237,6 @@ spaces-pinned-button-menuitem-tasks =
     .label = { spaces-toolbar-button-tasks.title }
 spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
-spaces-pinned-button-menuitem-reveal =
-    .label = { spaces-toolbar-button-reveal.title }
 spaces-pinned-button-menuitem-settings =
     .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
@@ -257,6 +253,8 @@ chat-button-unread-messages = { $count }
 
 spaces-context-customize =
     .label = 定制…
+menuitem-customize-label =
+    .label = 定制…
 spaces-customize-panel-title = 侧工具栏设置
 spaces-customize-background-color = 背景颜色
 spaces-customize-icon-color = 按钮颜色
@@ -269,4 +267,6 @@ spaces-customize-accent-text-color = 选定按钮的颜色
 spaces-customize-button-restore = 恢复默认设置
     .accesskey = R
 spaces-customize-button-save = 完成
+    .accesskey = D
+customize-panel-button-save = 完成
     .accesskey = D
