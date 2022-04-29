@@ -81,6 +81,13 @@ context-menuitem-attach-files =
     .label = Lisa fail(id)...
     .accesskey = F
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = Minu vCard
+    .accesskey = v
+context-menuitem-attach-openpgp-key =
+    .label = Minu OpenPGP avalik võti
+    .accesskey = O
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
@@ -127,6 +134,27 @@ message-to-be-signed-icon =
     .alt = Signeeri kiri
 message-to-be-encrypted-icon =
     .alt = Krüpti kiri
+encryption-menu =
+    .label = Turvalisus
+    .accesskey = T
+encryption-toggle =
+    .label = Krüptitakse
+    .tooltiptext = Selle kirja jaoks kasutatakse otspunktkrüptimist
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = Vaata või muuda OpenPGPga krüptimise sätteid
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = Vaata või muuda S/MIME'iga krüptimise sätteid
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = O
+menu-smime =
+    .label = S/MIME
+    .accesskey = S
+menu-encrypt =
+    .label = Krüptimine
+    .accesskey = K
 
 ## Addressing Area
 
