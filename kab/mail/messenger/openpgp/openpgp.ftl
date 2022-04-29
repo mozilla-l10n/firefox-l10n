@@ -340,6 +340,7 @@ key-does-not-expire = Tasarut ur tettmettat ara
 key-expired-date = Tasarut temmut deg { $keyExpiry }
 key-expired-simple = Tasarut temmut
 key-revoked-simple = Tasarut ettwasefsex
+window-locked = Asfaylu n usuddes yemdel; tuzna tettwasefsex
 # Strings in keyserver.jsm
 keyserver-error-aborted = Yettwaseḥbes
 keyserver-error-unknown = Taḍra-d tuccda tarussint
