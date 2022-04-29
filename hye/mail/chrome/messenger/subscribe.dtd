@@ -10,6 +10,13 @@
 <!ENTITY newGroupsTab.label           "Նոր խմբեր">
 <!ENTITY newGroupsTab.accesskey       "Ն">
 <!ENTITY refreshButton.label          "Թարմացնել">
-<!ENTITY stopButton.label             "Կանգնեցնել">
+<!ENTITY refreshButton.accesskey      "Թ">
+<!ENTITY stopButton.label             "Կանգ">
+<!ENTITY stopButton.accesskey         "ա">
+<!ENTITY server.label                 "Հաշիւ`">
+<!ENTITY server.accesskey             "Հ">
+<!ENTITY subscribedHeader.label       "Բաժանորդագրուել">
 <!-- commenting out until bug 38906 is fixed
 <!ENTITY messagesHeader.label         "Messages"> -->
+<!ENTITY namefield.label              "Ցուցադրել տարրերը, որոնք պարունակում են՝">
+<!ENTITY namefield.accesskey          "ու">
