@@ -12,4 +12,9 @@
 <!ENTITY window.title "Դուք գործարկել էք &brandProductName;֊ի հին տարբերակը">
 <!ENTITY window.style "width: 490px;">
 
+<!ENTITY window.nosync2 "&brandProductName;- ի նոր տարբերակը հնարաւոր է Ձեր հաշիւում փոփոխութիւններ կատարի, որոնք այլեւս համատեղելի չեն այս հին տարբերակի հետ: Աւգտագործէք այս հաշիւը միայն այդ նոր տարբերակով կամ ստեղծէք նոր հաշիւ &brandShortName;- ի տեղադրման համար: Նոր հաշիւ ստեղծելու համար անհրաժեշտ է նորից կարգաւորել Ձեր հաշիւները, աւրացոյցերը եւ յաւելումները:">
 
+<!ENTITY window.moreinfo "Լրացուցիչ տեղեկութիւններ">
+<!ENTITY window.create "Ստեղծել նոր հաշիւ">
+<!ENTITY window.quit-win "Ելք">
+<!ENTITY window.quit-nonwin "Լքել">
