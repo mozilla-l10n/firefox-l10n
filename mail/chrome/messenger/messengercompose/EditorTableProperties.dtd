@@ -34,7 +34,7 @@
 <!ENTITY tableCaptionLeft.label           "Links van tabel">
 <!ENTITY tableCaptionRight.label          "Rechts van tabel">
 <!ENTITY tableCaptionNone.label           "Geen">
-<!ENTITY tableInheritColor.label          "(Paginakleur laten doorschijnen)">
+<!ENTITY tableInheritColor.label           "(Paginakleur laten doorschijnen)">
 
 <!ENTITY cellSelection.label              "Selectie">
 <!ENTITY cellSelectCell.label             "Cel">
@@ -53,7 +53,7 @@
 <!ENTITY cellStyle.label                  "Celstijl:">
 <!ENTITY cellStyle.accessKey              "s">
 <!ENTITY cellNormal.label                 "Normaal">
-<!ENTITY cellHeader.label                 "Kop">
+<!ENTITY cellHeader.label                 "Kopregel">
 <!ENTITY cellTextWrap.label               "Tekstterugloop:">
 <!ENTITY cellTextWrap.accessKey           "l">
 <!ENTITY cellWrap.label                   "Teruglopen">
