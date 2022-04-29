@@ -16,5 +16,5 @@
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label      "berichtkoppen">
 <!ENTITY headers.accesskey  "k">
-<!ENTITY mark.label         "Overige berichten markeren als gelezen">
+<!ENTITY mark.label         "Overige berichtkoppen markeren als gelezen">
 <!ENTITY mark.accesskey     "m">

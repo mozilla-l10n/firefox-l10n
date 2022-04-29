@@ -7,5 +7,5 @@
 <!ENTITY addButton.accesskey "T">
 <!ENTITY removeButton.label "Verwijderen">
 <!ENTITY removeButton.accesskey "V">
-<!ENTITY newMsgHeader.label "Nieuwe kopregel:">
+<!ENTITY newMsgHeader.label "Nieuwe berichtkop:">
 <!ENTITY newMsgHeader.accesskey "N">

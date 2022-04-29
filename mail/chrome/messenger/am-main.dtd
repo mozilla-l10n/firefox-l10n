@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-main.xul -->
-
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Accountinstellingen">
@@ -15,7 +13,7 @@
 <!ENTITY name.accesskey "U">
 <!ENTITY email.label "E-mailadres:">
 <!ENTITY email.accesskey "E">
-<!ENTITY catchAll.label "Vanuit deze identiteit reageren als de afleverheaders overeenkomen met:">
+<!ENTITY catchAll.label "Vanuit deze identiteit reageren als de afleverkopregels overeenkomen met:">
 <!ENTITY catchAll.accesskey "d">
 <!ENTITY replyTo.label "Antwoordadres:">
 <!ENTITY replyTo.accesskey "n">
