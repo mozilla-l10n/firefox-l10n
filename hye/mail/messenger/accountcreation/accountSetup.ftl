@@ -239,8 +239,64 @@ account-setup-addon-no-protocol = Այս եղ․փոստի սպասարկիչը,
 ## Success view
 
 account-setup-settings-button = Հաշուի կարգաւորումներ
+account-setup-encryption-button = Ծայրէծայր գաղտնագրում
+account-setup-signature-button = Աւելացնել ստորագրութիւն
+account-setup-dictionaries-button = Ներբեռնել բառարաններ
+account-setup-address-book-carddav-button = Միանալ CardDAV հասցէագրքին
+account-setup-address-book-ldap-button = Միանալ LDAP հասցէագրքին
+account-setup-calendar-button = Միանալ հեռաւար աւրացոյցին
+account-setup-linked-services-title = Միանալ Ձեր կապակցուած ծառայութիւններին
+account-setup-linked-services-description = { -brand-short-name }֊ը յայտնաբերել է Ձեր եղ․փոստի հաշուին կապուած այղ ծառայութիւնները:
+account-setup-no-linked-description = Տեղակայէք այղ ծառայութիւններ Ձեր { -brand-short-name }֊ի փորձից առաւելագոյնը ստանալու համար:
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name }֊ը գտել է մեկ հասցէագիրք կապուած Ձեր եղեկտրոնային փոստի հաշուին:
+       *[other] { -brand-short-name } գտնուել են { $count } հասցէագրքեր կապուած Ձեր եղեկտրոնային փոստի հաշուին:
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name }֊ը գտել է մեկ աւրացոյց կապուած Ձեր եղեկտրոնային փոստի հաշուին:
+       *[other] { -brand-short-name } գտնուել են { $count } աւրացոյցներ կապուած Ձեր ղլեկտրոնային փոստի հաշուին:
+    }
+account-setup-button-finish = Աւարտել
+    .accesskey = Ա
+account-setup-looking-up-address-books = Հասցէագրքերի որոնում…
+account-setup-looking-up-calendars = Աւրացոյցների որոնում…
+account-setup-address-books-button = Հասցէագրքեր
+account-setup-calendars-button = Աւրացոյցեր
+account-setup-connect-link = Միացնել
+account-setup-existing-address-book = Կապակցուած
+    .title = Հասցէագիրքը արդէն կապակցուած է
+account-setup-existing-calendar = Կապակցուած
+    .title = Աւրացոյցը արդէն կապակցուած է
+account-setup-connect-all-calendars = Կապակցել բոլոր աւրացոյցերը
+account-setup-connect-all-address-books = Կապկցել բոլոր հասցէագրքերը
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Կապակցել աւրացոյցը
+calendar-dialog-cancel-button = Չեղարկել
+    .accesskey = Չ
+calendar-dialog-confirm-button = Կապակցել
+    .accesskey = պ
+account-setup-calendar-name-label = Անուն
+account-setup-calendar-name-input =
+    .placeholder = Իմ աւրացոյցը
+account-setup-calendar-color-label = Գոյն
+account-setup-calendar-refresh-label = Թարմացնել
+account-setup-calendar-refresh-manual = Ինքնաշխատ կերպով
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Ամէն րոպէ
+       *[other] Ամէն { $count } րոպէ
+    }
+account-setup-calendar-read-only = Միայն֊կարդալու
+    .accesskey = Մ
+account-setup-calendar-show-reminders = Ցուցադրել յիշեցումները
+    .accesskey = Ց
 account-setup-calendar-offline-support = Անցանց աջակցութիւն
     .accesskey = Ա
