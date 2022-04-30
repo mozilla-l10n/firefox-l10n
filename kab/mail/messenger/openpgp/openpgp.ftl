@@ -349,6 +349,8 @@ key-expired-date = Tasarut temmut deg { $keyExpiry }
 key-expired-simple = Tasarut temmut
 key-revoked-simple = Tasarut ettwasefsex
 key-do-you-accept = Ad tqebleḍ tasarut-a i usenqed n yizmulen umḍinen akked tukksa n uwgelhen i yiznan?
+key-accept-warning = Ḍmen iman-ik ur tqebbleḍ ara tisura ur nettusireg ara. Seqdec abadu-nniḍen n teywalt ɣef yimayl i usenqed n udsil umḍin n tsarut n unermis-ik.
+key-verification = Senqed adsil umḍin n tsarut s usenqed n ubadu n teywalt aɣellsan deg wadeg n yimayl i wakken ad tḍemneḍ belli d tidet d tasarut n { $addr }.
 window-locked = Asfaylu n usuddes yemdel; tuzna tettwasefsex
 # Strings in keyserver.jsm
 keyserver-error-aborted = Yettwaseḥbes
