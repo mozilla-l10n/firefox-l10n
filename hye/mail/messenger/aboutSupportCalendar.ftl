@@ -28,3 +28,6 @@ calendars-table-capabilities-privacy-supported = Գաղտնիութիւնը աջ
 calendars-table-capabilities-priority-supported = Առաջնահերթութիւնը աջակցուում է
 calendars-table-capabilities-events-supported = Միջոցառումը աջակցուում է
 calendars-table-capabilities-tasks-supported = Առաջադրանքն աջակցուում է
+calendars-table-capabilities-timezones-floating-supported = Աջակցուում է տեղական ժամանակով
+calendars-table-capabilities-timezones-utc-supported = UTC/GMT֊ը աջակցուում է
+calendars-table-capabilities-autoschedule-supported = Ինքնա֊ժամակարգումը աջակցուում է
