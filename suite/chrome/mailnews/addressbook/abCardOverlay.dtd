@@ -128,7 +128,7 @@
 <!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">
 <!ENTITY Skype.accesskey                "e">
-<!ENTITY QQ.label                       "QQ">
+<!ENTITY QQ.label                       "QQ:">
 <!ENTITY QQ.accesskey                   "Q">
 <!ENTITY MSN.label                      "MSN:">
 <!ENTITY MSN.accesskey                  "M">
