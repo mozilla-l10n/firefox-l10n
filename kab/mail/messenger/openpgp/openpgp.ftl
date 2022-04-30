@@ -272,6 +272,9 @@ openpgp-acceptance-unverified-label =
     .label = Ih, maca ur sneqdeɣ ara ma yella d tasarut tameɣtut.
 openpgp-acceptance-verified-label =
     .label = Ih, sneqdeɣ akken iwata belli tasarut-a ɣer-s adsil umḍin ameɣtu.
+key-accept-personal =
+    I tsarut-a, ɣur-k udem azayaz d wudem uffir ɣef tikkelt. Tzemreḍ ad tt-tesqedceḍ am tsarut tudmawant.
+    Ma yella tasarut-a d amdan-nniḍen i ak-tt-id-yefkan, ur tt-sseqdac ara am tsarut tudmawant.
 openpgp-personal-no-label =
     .label = Uhu, ur tt-seqdaceɣ ara am tsarut-iw tudmawant.
 openpgp-personal-yes-label =
