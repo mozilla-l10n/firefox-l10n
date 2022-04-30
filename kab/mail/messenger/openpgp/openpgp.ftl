@@ -351,6 +351,8 @@ key-revoked-simple = Tasarut ettwasefsex
 key-do-you-accept = Ad tqebleḍ tasarut-a i usenqed n yizmulen umḍinen akked tukksa n uwgelhen i yiznan?
 key-accept-warning = Ḍmen iman-ik ur tqebbleḍ ara tisura ur nettusireg ara. Seqdec abadu-nniḍen n teywalt ɣef yimayl i usenqed n udsil umḍin n tsarut n unermis-ik.
 key-verification = Senqed adsil umḍin n tsarut s usenqed n ubadu n teywalt aɣellsan deg wadeg n yimayl i wakken ad tḍemneḍ belli d tidet d tasarut n { $addr }.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = D awezɣi tuzna n yizen, acku yella wugur deg tsarut-ik tudmawant. { $problem }
 window-locked = Asfaylu n usuddes yemdel; tuzna tettwasefsex
 # Strings in keyserver.jsm
 keyserver-error-aborted = Yettwaseḥbes
