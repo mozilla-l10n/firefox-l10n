@@ -132,6 +132,10 @@ message-header-msg-not-flagged =
 
 ## Message header cutomize panel
 
+message-header-customize-panel-title = Ρυθμίσεις κεφαλίδας μηνυμάτων
+message-header-customize-button-style =
+    .value = Στυλ κουμπιών
+    .accesskey = κ
 message-header-button-style-default =
     .label = Εικονίδια και κείμενο
 message-header-button-style-text =
