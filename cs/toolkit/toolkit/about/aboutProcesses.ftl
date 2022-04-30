@@ -51,6 +51,7 @@ about-processes-socket-process = Síť ({ $pid })
 about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Fork Server ({ $pid })
 about-processes-preallocated-process = Předalokováno ({ $pid })
+about-processes-utility-process = Nástroj ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -63,8 +64,8 @@ about-processes-unknown-process = Ostatní: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, velký)
+about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, izolovaný cross-origin)
 about-processes-web-isolated-process-private = { $origin } — anonymní ({ $pid })
 about-processes-web-large-allocation-process-private = { $origin } — anonymní ({ $pid }, velký)
@@ -120,6 +121,9 @@ about-processes-frame-name-one = Podrám: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Podrámy ({ $number }): { $shortUrl }
+# Utility process actor names
+about-processes-utility-actor-unknown = Neznámý actor
+about-processes-utility-actor-audio-decoder = Dekodér zvuku
 
 ## Displaying CPU (percentage and total)
 ## Variables:
