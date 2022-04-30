@@ -79,6 +79,17 @@ account-setup-looking-up-isp = Ձեւակազմի որոնում․ եղ․փո�
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
 account-setup-looking-up-db = Կարգաւորման որոնում․ Mozilla ISP շտեմարան…
 account-setup-looking-up-mx = Ձեւակազմի որոնում. Մուտքային փոստի տիրոյթ…
+account-setup-looking-up-exchange = Կազմաձևման որոնում. սպասարկչի փոխանակում…
+account-setup-checking-password = Գաղտնաբառի ստուգում…
+account-setup-installing-addon = Յաւելասարքի ներբեռնում եւ տեղադրում…
+account-setup-success-half-manual = Յետեւեալ կարգաւորումները յայտնաբերուել են տուեալ սպասարկչի զոնդաւորման միջոցով.
+account-setup-success-guess = Ձեւակազմը յայտնաբերուեց՝ փորձելով սովորական սպասարկչի անունները:
+account-setup-success-guess-offline = Դուք անցանց էք: Մենք գուշակեցինք որոշ կարգաւորումներ, բայց դուք պէտք է մուտքագրէք ճիշտ կարգաւորումները:
+account-setup-success-password = Գաղտնաբառը ճիշտ է
+account-setup-success-addon = Յաւելասարքը յաջողութեամբ տեղադրուել է
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-success-settings-db = Կարգաւորումնորը գտնուեցին Mozilla ISP ֊ի շտեմարանում
+account-setup-success-settings-disk = Ձեւակազը գտնուել է { -brand-short-name }֊ի տեղադրման ժամանակ։
 
 ## Illustrations
 
