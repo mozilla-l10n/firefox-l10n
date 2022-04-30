@@ -27,6 +27,9 @@ account-provisioner-button-back = Յետ գնալ
 ## Notifications
 
 account-provisioner-fetching-provisioners = Մատակարարների առբերում…
+account-provisioner-connection-issues = Անհնար է հաղորդակցուել մեր գրանցման սպասարկիչի հետ: Խնդրում ենք ստուգել Ձեր կապը:
+account-provisioner-searching-email = Հասանելի եղ․փոստի հաշիւների որոնում…
+account-provisioner-searching-domain = Հասանելի տիրոյթների որոնում…
 
 ## Illustrations
 
