@@ -30,6 +30,12 @@ about-private-browsing-hide-activity = Oculteu la vostra activitat i ubicació, 
 about-private-browsing-get-privacy = Protegiu la vostra privadesa arreu on navegueu
 about-private-browsing-hide-activity-1 = Oculteu l'activitat de navegació i la ubicació amb el { -mozilla-vpn-brand-name }. Creeu una connexió segura amb un sol clic, fins i tot en connexions Wi-Fi públiques.
 about-private-browsing-prominent-cta = Protegiu la vostra privadesa amb el { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Baixa el { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Navegació privada a tot arreu
+about-private-browsing-focus-promo-text = La nostra aplicació mòbil dedicada a la navegació privada esborra l'historial i les galetes cada vegada que s'utilitza.
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -42,3 +48,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Tanca
+about-private-browsing-promo-close-button =
+    .title = Tanca
