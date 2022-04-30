@@ -4,3 +4,14 @@
 
 account-central-title = Բարի գալուստ { -brand-full-name }
 account-settings = Հաշուի կարգաւորումներ
+#   $accounts (Number) - the number of configured accounts
+setup-title =
+    { $accounts ->
+        [0] Ընտրէք ինչ տեղակայել
+        [one] տեղակայէք մեկ այղ հաշիւ
+       *[other] տեղակայէք մեկ այղ հաշիւ
+    }
+about-title = { -brand-full-name } -­ի մասին
+resources-title = Աշխատապաշարներ
+release-notes =
+    .title = { -brand-full-name }-­ի մասին
