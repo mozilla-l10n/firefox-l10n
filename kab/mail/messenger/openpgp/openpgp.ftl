@@ -356,6 +356,8 @@ key-verification = Senqed adsil umḍin n tsarut s usenqed n ubadu n teywalt aɣ
 cannot-use-own-key-because = D awezɣi tuzna n yizen, acku yella wugur deg tsarut-ik tudmawant. { $problem }
 cannot-encrypt-because-missing = D awezɣi ad yettwazen yizen s uwgelhen seg yixef ɣer yixef. Acku llan wuguren akked tsura n uɣerwaḍ-a: { $problem }
 window-locked = Asfaylu n usuddes yemdel; tuzna tettwasefsex
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Aḥric n yizen yettwawgelhen
 # Strings in keyserver.jsm
 keyserver-error-aborted = Yettwaseḥbes
 keyserver-error-unknown = Taḍra-d tuccda tarussint
