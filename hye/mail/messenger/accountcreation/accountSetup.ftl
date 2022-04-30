@@ -189,21 +189,56 @@ account-setup-advanced-setup-button = Ընդլայնուած կազմաձեւ
 
 ## Warning insecure server dialog
 
+account-setup-insecure-title = Զգուշացու՛մ։
+account-setup-insecure-incoming-title = Ելքային կարգաւորումներ.
+account-setup-insecure-outgoing-title = Ելքային կարգաւորումներ.
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> չի աւգտագործում գաղտնագրում:
+account-setup-warning-cleartext-details = Անապահով փոստի սպասարկիչները չեն աւգտագործում գաղտնագրուած կապեր՝ Ձեր գաղտնաբառերը եւ անձնական տեղեկութիւնները պաշտպանելու համար: Այս սպասարկիչին միանալով՝ դուք կարող էք բացայայտել Ձեր գաղտնաբառը եւ անձնական տուեալները:
+account-setup-insecure-server-checkbox = Ես գիտակցում եմ վտանգը
+    .accesskey = գ
+account-setup-insecure-description = { -brand-short-name }-ը կարող է թոյղ տալ Ձեզ մուտք գործել Ձեր փոստ՝ աւգտագործելով տրամադրուած ձեւակազմերը: Այնուամենայնիւ, դուք պէտք է դիմէք Ձեր վարիչին կամ եղ․փոստի մատակարարին այս ոչ պատշաճ կապերի վերաբերեալ: Լրացուցիչ տեղեկութիւնների համար տես <a data-l10n-name="thunderbird-faq-link">Thunderbird FAQ</a>:
+insecure-dialog-cancel-button = Փոխել կարգաւորումները
+    .accesskey = Կ
+insecure-dialog-confirm-button = Հաստատել
+    .accesskey = Հ
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name }-ը գտել է Ձեր հաշուի կարգաւորումների մասին տեղեկութիւնները { $domain }-ում: Ցանկանու՞մ էք առաջ անցնել եւ ներկայացնել Ձեր հաւատարմագրերը:
+exchange-dialog-confirm-button = Մուտք գործել
+exchange-dialog-cancel-button = Չեղարկել
 
 ## Dismiss account creation dialog
 
+exit-dialog-title = Ոչ մի եղ․փոստի հաշիւ կազմաձեւուած չէ
+exit-dialog-description = Վստա՞հ էք, որ ուզում էք չեղարկել կարգաւորման գործընթացը: { -brand-short-name }-ը դեռ կարող է աւգտագործուել առանց էեղ․փոստի հաշուի, սակայն շատ գործառոյթներ հասանելի չեն լինի:
+account-setup-no-account-checkbox = Աւգտագործեք { -brand-short-name } առանց եղ․փոստի հաշվի
+    .accesskey = Ա
+exit-dialog-cancel-button = Շարունակէք տեղակայումը
+    .accesskey = Շ
+exit-dialog-confirm-button = Դուրս գալ տեղակայումից
+    .accesskey = Դ
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Հաշուի ստեղծման խափանում
+account-setup-error-server-exists = Մուտքային սպասարկիչն արդէն գոյութիւն ունի։
+account-setup-confirm-advanced-title = Հաստատէք ընդլայնուած կազմաձեւումը
+account-setup-confirm-advanced-description = Այս երկխաւսութիւնը կը փակուի, եւ ընթացիկ կարգաւորումներով հաշիւ կը ստեղծուի, նոյնիսկ եթե ձեւակազմը սխալ է: Ցանկանու՞մ էք առաջ անցնել:
 
 ## Addon installation section
 
+account-setup-addon-install-title = Տեղադրել
+account-setup-addon-install-intro = Երրորդ կողմի յաւելումը կարող է թոյղ տալ Ձեզ մուտք գործել Ձեր եղ․փոստի հաշիւ այս սպասարկիչում.
+account-setup-addon-no-protocol = Այս եղ․փոստի սպասարկիչը, ցաւաւք, չի աջակցում բաց արձանագրութիւններին: { account-setup-addon-install-intro }
 
 ## Success view
 
+account-setup-settings-button = Հաշուի կարգաւորումներ
 
 ## Calendar synchronization dialog
 
