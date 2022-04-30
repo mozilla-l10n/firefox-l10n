@@ -150,15 +150,42 @@ account-setup-result-username-different = Մուտքային. { $incoming }, Ե�
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Վաւերացումը չյաջողուեց։ Կա՛մ մուտքագրուած հաւատարմագրերը սխալ են, կա՛մ մուտք գործելու համար անհրաժեշտ է առանձին աւգտանուն: Այս աւգտանունը սովորաբար Ձեր Windows տիրոյթի մուտքն է՝ տիրոյթով կամ առանց դրա (օրինակ՝ janedoe կամ AD\\janedoe)
+account-setup-credentials-wrong = Վաւերացումը ձախողուեց։ Խնդրում ենք ստուգել աւգտանունը եւ գաղտնաբառը
+account-setup-find-settings-failed = { -brand-short-name }֊ը ձախողեց գտնել կարգաւորումները Ձեր եղ․հասցէի համար
+account-setup-exchange-config-unverifiable = Կազմաձեւը չյաջողուեց ստուգել: Եթե ​​Ձեր աւգտանունը եւ գաղտնաբառը ճիշտ են, հաւանական է, որ սպասարկիչի համակարգավարն անջատել է Ձեր հաշուի ընտրուած կազմաձեւը: Փորձէք ընտրել մեկ այղ արձանագրութիւն:
+account-setup-provisioner-error = { -brand-short-name }-ում Ձեր նոր հաշիւը կարգաւորելիս տեղի ունեցաւ խափանում: Խնդրում ենք, փորձէք ձեռքով կարգաւորել Ձեր հաշիւը՝ Ձեր հաւատարմագրերով:
 
 ## Manual configuration area
 
+account-setup-manual-config-title = Ինքնուրոյն կազմաձեւում
+account-setup-incoming-server-legend = Մուտքային սպասարկիչ
+account-setup-protocol-label = Հաղորդակարգ՝
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Հիւրընկալողի անունը՝
+account-setup-port-label = Միացք.
+    .title = Ինքնորոշման համար միացքի համարը սահմանէք 0
+account-setup-auto-description = { -brand-short-name }-ը կը փորձի ինքնաշխատ կերպով յայտնաբերել դաշտերը, որոնք դատարկ են մնացել:
+account-setup-ssl-label = Միացման անվտանգութիւն՝
+account-setup-outgoing-server-legend = Ելքային սպասարկիչ
 
 ## Incoming/Outgoing SSL Authentication options
 
+ssl-autodetect-option = Ինքնայայտնաբերել
+ssl-no-authentication-option = Վաւերացում չկայ
+ssl-cleartext-password-option = Սովորական գաղտնաբառ
+ssl-encrypted-password-option = Գաղտնագրուած գաղտնաբառ
 
 ## Incoming/Outgoing SSL options
 
+ssl-noencryption-option = Չկայ
+account-setup-auth-label = Վաւերացման եղանակ՝
+account-setup-username-label = Աւգտանուն՝
+account-setup-advanced-setup-button = Ընդլայնուած կազմաձեւ
+    .accesskey = Ը
 
 ## Warning insecure server dialog
 
