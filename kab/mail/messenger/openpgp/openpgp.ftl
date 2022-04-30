@@ -259,6 +259,7 @@ openpgp-key-details-legend-secret-missing = I tsura yettwacerḍen s (!), ulac t
 openpgp-key-details-sel-action =
     .label = Fren tigawt…
     .accesskey = r
+openpgp-key-details-also-known-label = Timagin-nniḍen i d-imudd n bab n tsarut:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Mdel
 openpgp-acceptance-label =
