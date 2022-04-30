@@ -275,6 +275,7 @@ openpgp-acceptance-verified-label =
 key-accept-personal =
     I tsarut-a, ɣur-k udem azayaz d wudem uffir ɣef tikkelt. Tzemreḍ ad tt-tesqedceḍ am tsarut tudmawant.
     Ma yella tasarut-a d amdan-nniḍen i ak-tt-id-yefkan, ur tt-sseqdac ara am tsarut tudmawant.
+key-personal-warning = D kečč i d-isnulfan tasarut-a, bab n tsarut daɣen i d-yettwaskanen d kečč?
 openpgp-personal-no-label =
     .label = Uhu, ur tt-seqdaceɣ ara am tsarut-iw tudmawant.
 openpgp-personal-yes-label =
@@ -311,6 +312,7 @@ openpgp-radio-none =
 openpgp-radio-none-desc = Ur seqdac ara OpenPGP i tmagit-a.
 openpgp-radio-key-not-usable = Tasarut-a ur tezmir ara ad tettuseqdac am tsaraut tudmawant, acku tasarut tuffirt truḥ!
 openpgp-radio-key-not-accepted = I useqdec n tsarut-a, ilaq ad tt-tmuddeḍ am tsarut tudmawant!
+openpgp-radio-key-not-found = Tasarut-a tegguma ad tettwaf! Ma yella tebɣiḍ ad tt-tesqedceḍ, ilaq ad tt-id-tketreḍ seg { -brand-short-name }.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Azemz n taggara: { $date }
 #   $key (String) - the expiration date of the OpenPGP key
@@ -324,6 +326,7 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Ḥwi tasarut
 openpgp-key-edit-title = Beddel tasarut OpenPGP
 openpgp-key-edit-date-title = Degger azemz n taggara
+openpgp-manager-description = Seqdec amsefrak n tsura OpenPGP i wakken ad tesneqdeḍ akked daɣen ad tesferkeḍ tisura tizayazin n yinermisen-ik, akked meṛṛa tisura-nniḍen ur d-nettwabder ara ukessar.
 openpgp-manager-button =
     .label = Amsefrak n tsarut OpenPGP
     .accesskey = m
@@ -345,6 +348,7 @@ key-does-not-expire = Tasarut ur tettmettat ara
 key-expired-date = Tasarut temmut deg { $keyExpiry }
 key-expired-simple = Tasarut temmut
 key-revoked-simple = Tasarut ettwasefsex
+key-do-you-accept = Ad tqebleḍ tasarut-a i usenqed n yizmulen umḍinen akked tukksa n uwgelhen i yiznan?
 window-locked = Asfaylu n usuddes yemdel; tuzna tettwasefsex
 # Strings in keyserver.jsm
 keyserver-error-aborted = Yettwaseḥbes
