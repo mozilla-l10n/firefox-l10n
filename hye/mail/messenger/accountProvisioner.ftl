@@ -30,9 +30,26 @@ account-provisioner-fetching-provisioners = Մատակարարների առբե�
 account-provisioner-connection-issues = Անհնար է հաղորդակցուել մեր գրանցման սպասարկիչի հետ: Խնդրում ենք ստուգել Ձեր կապը:
 account-provisioner-searching-email = Հասանելի եղ․փոստի հաշիւների որոնում…
 account-provisioner-searching-domain = Հասանելի տիրոյթների որոնում…
+account-provisioner-searching-error = Չյաջողուեց գտնել հասցէներ առաջարկելու համար: Փորձէք փոխել որոնման պայմանները:
 
 ## Illustrations
 
+account-provisioner-step1-image =
+    .title = Ընտրէք հաշիւ՝ ստեղծելու համար
 
 ## Search results
 
+# Variables:
+# $count (Number) - The number of domains found during search.
+account-provisioner-results-title =
+    { $count ->
+        [one] Գտնուել է մեկ հասանելի հասցէ՝
+       *[other] Գտնուել են { $count } հասանելի հասցէներ՝
+    }
+account-provisioner-mail-results-caption = Դուք կարող էք փորձել որոնել մականուններ կամ որեւէ այղ տերմին՝ աւելի շատ եղ․փոստեր գտնելու համար:
+account-provisioner-domain-results-caption = Դուք կարող էք փորձել որոնել մականուններ կամ որեւէ այղ տերմին՝ աւելի շատ տիրոյթներ գտնելու համար:
+account-provisioner-free-account = Անվճար
+account-provision-price-per-year = { $price } տարեկան
+account-provisioner-all-results-button = Ցոյց տալ բոլոր արդիւնքները
+account-provisioner-open-in-tab-img =
+    .title = Բացուում է նոր ներդիրում
