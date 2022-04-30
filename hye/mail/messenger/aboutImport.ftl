@@ -48,12 +48,31 @@ addr-book-vcard-file = vCard նիշ (.vcf, .vcard)
 addr-book-sqlite-file = SQLite տուեալների շտեմարանի նիշ (.sqlite)
 addr-book-mab-file = Mork տուեալների շտեմարանի նիշ (.mab)
 addr-book-file-picker = Ընտրէք հասցէագրքի նիշ
+addr-book-csv-field-map-title = Համապատասխանող դաշտերի անունները
+addr-book-csv-field-map-desc = Ընտրէք հասցէագրքի դաշտերը, որոնք համապատասխանում են սկզբնական աղբեւրի դաշտերին: Ապանշէք այն դաշտերը, որոնք չէք ցանկանում ներմուծել:
+addr-book-directories-pane-title = Ընտրէք այն գրացուցակը, որում ցանկանում էք ներմուծել.
+addr-book-directories-pane-source = Աղբեւրի նիշ․
+addr-book-import-into-new-directory = Ստեղծել նոր գրացուցակ
 
 ## Import from address book file steps
 
+import-from-calendar-file-desc = Ընտրէք iCalendar (.ics)֊ի այն նիշը, որը ցանկանում եք ներմուծել:
+calendar-items-loading = Տարրերի բեռնում…
+calendar-items-filter-input =
+    .placeholder = Զտուող տարրեր․․․
+calendar-select-all-items = Ընտրել բոլորը
+calendar-deselect-all-items = Ապանշել բոլորը
+calendar-import-into-new-calendar = Ստեղծել նոր աւրացոյց
 
 ## Import dialog
 
+progress-pane-importing = Ներմուծուում է
+progress-pane-exporting = Արտածուում է
+progress-pane-finished-desc = Աւարտուել է։
+progress-pane-restart-desc = Վերսկսեք՝ ներմուծումն աւարտելու համար։
+error-pane-title = Սխալ
+error-message-zip-file-too-big = Ընտրուած խտացուած  (zip) նիշը 2 ԳԲ-ից մեծ է: Խնդրում ենք նախ արտահանել այն, ապա փոխարենը ներմուծել արտահանուած պանակից:
+error-message-extract-zip-file-failed = Չյաջողուեց արտահանել խտացուած (zip) նիշը: Խնդրում ենք նախ արտահանել այն, այնուհետեւ ներմուծել արտահանուած պանակից:
 
 ## <csv-field-map> element
 
