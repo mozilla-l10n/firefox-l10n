@@ -59,3 +59,4 @@ pocket-panel-header-sign-in = Inicia la sessió
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Mostra-ho tot
+pocket-panel-button-activate = Activa el { -pocket-brand-name } en el { -brand-product-name }
