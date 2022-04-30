@@ -90,14 +90,63 @@ account-setup-success-addon = Յաւելասարքը յաջողութեամբ տ
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
 account-setup-success-settings-db = Կարգաւորումնորը գտնուեցին Mozilla ISP ֊ի շտեմարանում
 account-setup-success-settings-disk = Ձեւակազը գտնուել է { -brand-short-name }֊ի տեղադրման ժամանակ։
+account-setup-success-settings-isp = Ձեւակազմը գտնուել է եղ․փոստի մատակարարում։
+# Note: Microsoft Exchange is a product name.
+account-setup-success-settings-exchange = Կարգաւորումը գտնուեց Microsoft Exchange սպսարկիչի համար։
 
 ## Illustrations
 
+account-setup-step1-image =
+    .title = Սկզբնական տեղակայում
 account-setup-step2-image =
     .title = Բեռնում…
+account-setup-step3-image =
+    .title = Ձեւակազմը գտնուեց
+account-setup-step4-image =
+    .title = Միացման խափանում
+account-setup-step5-image =
+    .title = Հաշիւը ստեղծուել է
+account-setup-privacy-footnote2 = Ձեր հաւատարմագրերը միայն կը դասկարգուեն Ձեր համակարգչի վրայ։
+account-setup-selection-help = Վստահ չէ՞ք ընտրութեան հարցում։
+account-setup-selection-error = Աւգնութեան կարիք ունէ՞ք
+account-setup-success-help = Վստահ չէ՞ք Ձեր յետագայ քայղերի համար:
+account-setup-documentation-help = Տեղակայման փաստաթղթեր
+account-setup-forum-help = Աջակցման կենտրոն
+account-setup-privacy-help = Գաղտնիութեան քաղաքականութիւն
+account-setup-getting-started = Սկսուում է
 
 ## Results area
 
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [one] Հասանելի կարգաւորում
+       *[other] Հասանելի կարգաւորումներ
+    }
+# Note: IMAP is the name of a protocol.
+account-setup-result-imap = IMAP
+account-setup-result-imap-description = Պահել Ձեր պանակները եւ եղ․փոստերը Ձեր սպասարկչի հետ համաժամեցուած
+# Note: POP3 is the name of a protocol.
+account-setup-result-pop = POP3
+account-setup-result-pop-description = Պահել Ձեր պանակները եւ եղ․փոստերը Ձեր համակարգչում
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = Exchange
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Աւգտագործէք Microsoft Exchange սպասարկիչը կամ Office365 ամպային ծառայութիւնները
+account-setup-incoming-title = Մուտքային
+account-setup-outgoing-title = Ելքային
+account-setup-username-title = Աւգտանուն
+account-setup-exchange-title = Սպասարկիչ
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Ծածկագրում չկայ
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Աւգտագործէք առկայ ելքային SMTP սպասարկիչը
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Մուտքային. { $incoming }, Ելքային. { $outgoing }
 
 ## Error messages
 
