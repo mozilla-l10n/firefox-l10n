@@ -17,9 +17,9 @@
 <!ENTITY reorderTopButton.accessKey "G">
 <!ENTITY reorderTopButton.toolTip "Diesen Filter vor allen anderen ausführen">
 <!ENTITY reorderUpButton.label "Nach oben">
-<!ENTITY reorderUpButton.accesskey "N">
+<!ENTITY reorderUpButton.accesskey "o">
 <!ENTITY reorderDownButton.label "Nach unten">
-<!ENTITY reorderDownButton.accesskey "N">
+<!ENTITY reorderDownButton.accesskey "u">
 <!ENTITY reorderBottomButton "Ganz nach unten">
 <!ENTITY reorderBottomButton.accessKey "z">
 <!ENTITY reorderBottomButton.toolTip "Diesen Filter nach allen anderen ausführen">
@@ -34,6 +34,6 @@
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "Ausgewählte(n) Filter anwenden auf:">
 <!ENTITY folderPickerPrefix.accesskey "A">
-<!ENTITY choosethis.label "diesen Ordner wählen">
-<!ENTITY choosethisnewsserver.label "diesen News-Server wählen">
+<!ENTITY choosethis.label "">
+<!ENTITY choosethisnewsserver.label "">
 <!ENTITY searchBox.emptyText "Nach Filternamen suchen…">

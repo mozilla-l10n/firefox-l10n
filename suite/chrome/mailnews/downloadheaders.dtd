@@ -12,7 +12,7 @@
 -->
 
 <!ENTITY download.label     "Herunterladen">
-<!ENTITY download.accesskey "l">
+<!ENTITY download.accesskey "H">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label      "Kopfzeilen">
 <!ENTITY headers.accesskey  "K">
