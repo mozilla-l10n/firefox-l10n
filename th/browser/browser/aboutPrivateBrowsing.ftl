@@ -30,6 +30,13 @@ about-private-browsing-hide-activity = ซ่อนกิจกรรมแล�
 about-private-browsing-get-privacy = รับการปกป้องความเป็นส่วนตัวในทุกที่ที่คุณเรียกดู
 about-private-browsing-hide-activity-1 = ซ่อนกิจกรรมการเรียกดูและตำแหน่งที่ตั้งด้วย { -mozilla-vpn-brand-name } สร้างการเชื่อมต่อที่ปลอดภัยในคลิกเดียวแม้ใช้ Wi-Fi สาธารณะ
 about-private-browsing-prominent-cta = เป็นส่วนตัวอยู่เสมอด้วย { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = ดาวน์โหลด { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: การท่องเว็บแบบส่วนตัวขณะเดินทาง
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
+about-private-browsing-focus-promo-header-b = ท่องเว็บแบบส่วนตัวบนโทรศัพท์ของคุณ
+about-private-browsing-focus-promo-header-c = ความเป็นส่วนตัวระดับถัดไปบนมือถือ
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -42,5 +49,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = ปิด
-about-private-browsing-dismiss-button =
+about-private-browsing-promo-close-button =
     .title = ปิด
