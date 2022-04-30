@@ -21,9 +21,12 @@ account-provisioner-domain-input =
     .placeholder = Ձեր անունը, կեղծանունը կամ այղ որոնման տերմին
 account-provisioner-search-button = Որոնել
 account-provisioner-button-cancel = Չեղարկել
+account-provisioner-button-existing = Աւգտագործէք գոյութիւն ունեցող եղ․ փոստի հասցէ
+account-provisioner-button-back = Յետ գնալ
 
 ## Notifications
 
+account-provisioner-fetching-provisioners = Մատակարարների առբերում…
 
 ## Illustrations
 
