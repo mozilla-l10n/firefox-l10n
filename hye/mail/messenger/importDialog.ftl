@@ -4,3 +4,6 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
+import-from-thunderbird-dir =
+    .label = Thunderbird (հաշիւի պանակ)
+    .accesskey = T
