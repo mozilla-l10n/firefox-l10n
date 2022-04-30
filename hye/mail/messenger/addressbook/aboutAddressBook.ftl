@@ -60,10 +60,87 @@ about-addressbook-name-format-display =
 about-addressbook-name-format-firstlast =
     .label = Առաջինից վերջին
 about-addressbook-name-format-lastfirst =
-    .label = Վերջին, առաջին
+    .label = Վերջինից առաջին
+about-addressbook-sort-name-ascending =
+    .label = Տեսակաւորել ըստ անուանման (Ա > Ք)
+about-addressbook-sort-name-descending =
+    .label = Տեսակաւորել ըստ անուանման (Ք > Ա)
+about-addressbook-sort-email-ascending =
+    .label = Տեսակաւորել ըստ եղեկտրոնային փոստի հասցէի (Ա > Ք)
+about-addressbook-sort-email-descending =
+    .label = Տեսակաւորել ըստ եղեկտրոնային փոստի հասցէի (Ք > Ա)
+about-addressbook-cards-context-write =
+    .label = Գրել
+about-addressbook-confirm-delete-mixed-title = Ջնջել կապորդները եւ ցուցակները
+# Variables:
+# $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
+about-addressbook-confirm-delete-mixed = Վստա՞հ էք, որ ուզում էք ջնջել այս { $count } կապորդները եւ ցուցակները:
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+about-addressbook-confirm-delete-lists-title =
+    { $count ->
+        [one] Ջնջել ցուցակը
+       *[other] Ջնջել ցուցակները
+    }
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+# $name (String) - The name of the list to be deleted, if $count is 1.
+about-addressbook-confirm-delete-lists =
+    { $count ->
+        [one] Վստա՞հ էք, որ ուզում էք ջնջել { $name } ցուցակը:
+       *[other] Վստա՞հ էք, որ ուզում էք ջնջել { $count } ցուցակները:
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+about-addressbook-confirm-remove-contacts-title =
+    { $count ->
+        [one] Հեռացնել կապորդը
+       *[other] Հեռացնել կապորդները
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+# $name (String) - The name of the contact to be removed, if $count is 1.
+# $list (String) - The name of the list that contacts will be removed from.
+about-addressbook-confirm-remove-contacts =
+    { $count ->
+        [one] Համոզուա՞ծ էք որ ուզում էք հեռացնել { $name }-ը { $list }-ից:
+       *[other] Համոզուա՞ծ էք որ ուզում էք հեռացնել { $name } կապորդները { $list }-ից:
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+about-addressbook-confirm-delete-contacts-title =
+    { $count ->
+        [one] Ջնջել կապորդը
+       *[other] Ջնջել կապորդները
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+# $name (String) - The name of the contact to be deleted, if $count is 1.
+about-addressbook-confirm-delete-contacts =
+    { $count ->
+        [one] Համոզուա՞ծ էք որ ուզում էք ջնջել { $name } կապորդը:
+       *[other] Համոզուա՞ծ էք որ ուզում էք ջնջել այս { $count } կապորդները:
+    }
 
 ## Details
 
+about-addressbook-begin-edit-contact-button = Խմբագրել
+about-addressbook-cancel-edit-contact-button = Չեղարկել
+about-addressbook-save-edit-contact-button = Պահպանել
+about-addressbook-details-email-addresses-header = Եղեկտրոնային փոստի հասցէներ
+about-addressbook-details-phone-numbers-header = Հեռախաւսահամարներ
+about-addressbook-details-home-address-header = Տան հասցէ
+about-addressbook-details-work-address-header = Աշխատանքի հասցէ
+about-addressbook-details-other-info-header = Այղ տեղեկութիւն
+about-addressbook-unsaved-changes-prompt-title = Չպահպանուած փոփոխութիւններ
+about-addressbook-unsaved-changes-prompt = Ցանկանու՞մ էք պահպանել Ձեր փոփոխութիւնները խմբագրման վիճակից դուրս գալուց առաջ:
 
 # Photo dialog
 
+about-addressbook-photo-drop-target = Գցէք կամ տեղադրէք լուսանկար այստեղ, կամ սեղմէք՝ նիշ ընտրելու համար:
+about-addressbook-photo-drop-loading = Լուսանկարը բեռնուում է…
+about-addressbook-photo-drop-error = Չյաջողուեց բեռնել լուսանկարը:
+about-addressbook-photo-filepicker-title = Ընտրէք պատկերի նիշ
+about-addressbook-photo-discard = Հեռացնել առկայ լուսանկարը
+about-addressbook-photo-cancel = Չեղարկել
+about-addressbook-photo-save = Պահպանել
