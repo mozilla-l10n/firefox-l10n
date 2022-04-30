@@ -255,6 +255,7 @@ openpgp-key-details-expiry-header = Azemz n taggara
 openpgp-key-details-usage-label =
     .label = Aseqdec
 openpgp-key-details-fingerprint-label = Adsil umḍin
+openpgp-key-details-legend-secret-missing = I tsura yettwacerḍen s (!), ulac tasarut tuffirt.
 openpgp-key-details-sel-action =
     .label = Fren tigawt…
     .accesskey = r
