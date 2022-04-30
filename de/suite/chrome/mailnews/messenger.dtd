@@ -317,11 +317,16 @@
 <!ENTITY editMsgAsNewCmd.accesskey "b">
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY editAsNewMsgCmd.label "Als neue Nachricht bearbeiten">
+<!ENTITY editAsNewMsgCmd.accesskey "b">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Entwurf bearbeiten">
+<!ENTITY editDraftMsgCmd.accesskey "w">
 <!ENTITY editTemplateMsgCmd.label "Vorlage bearbeiten">
+<!ENTITY editTemplateMsgCmd.accesskey "o">
 <!ENTITY newMsgFromTemplateCmd.label "Neue Nachricht aus Vorlage">
 <!-- LOCALIZATION NOTE (newMsgFromTemplateCmd.keycode):
      Do not localize VK_RETURN. -->
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN">
 <!ENTITY createFilter.label "Filter aus Nachricht erstellen…">
 <!ENTITY createFilter.accesskey "F">
 <!ENTITY archiveMsgCmd.label "Archivieren">
@@ -477,8 +482,10 @@
 <!ENTITY contextEditAsNew.label "Als neu bearbeiten…">
 <!ENTITY contextEditAsNew.accesskey "u">
 <!ENTITY contextEditMsgAsNew.label "Als neue Nachricht bearbeiten">
+<!ENTITY contextEditMsgAsNew.accesskey "u">
 <!ENTITY contextEditDraftMsg.label "Entwurf bearbeiten">
 <!ENTITY contextEditTemplate.label "Vorlage bearbeiten">
+<!ENTITY contextEditTemplate.accesskey "o">
 <!ENTITY contextNewMsgFromTemplate.label "Neue Nachricht aus Vorlage">
 <!ENTITY contextReplySender.label "Antwort nur an Absender">
 <!ENTITY contextReplySender.accesskey "A">
