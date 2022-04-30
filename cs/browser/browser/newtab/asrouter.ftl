@@ -167,7 +167,7 @@ spotlight-learn-more-expanded = Zjistit více
 
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Zdá se, že používáte veřejnou Wi-Fi síť
-spotlight-public-wifi-vpn-body = Pokud chcete skrýt svou polohu a aktivity během prohlížení internetu, zvažte využítí služby virtuální privátní sítě. Poskytne vám ochranu během prohlížení internetu na veřejných místech, v kavárně nebo na letišti.
+spotlight-public-wifi-vpn-body = Pokud chcete skrýt svou polohu a aktivity během prohlížení internetu, zvažte využití služby virtuální privátní sítě. Poskytne vám ochranu během prohlížení internetu na veřejných místech, v kavárně nebo na letišti.
 spotlight-public-wifi-vpn-primary-button =
     Ochraňte své soukromí { -mozilla-vpn-brand-name.gender ->
         [masculine] s { -mozilla-vpn-brand-name(case: "ins") }
