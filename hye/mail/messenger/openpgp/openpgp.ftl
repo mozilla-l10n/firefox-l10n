@@ -539,7 +539,62 @@ gnupg-file = GnuPG նիշեր
 import-keys-failed = Բանալիների նարմուծումը ձաախողուեց
 passphrase-prompt = Խնդրում ենք մուտքագրել անցաբառը, որն ապակողպում է հետեւեալ բանալին․ { $key }
 file-to-big-to-import = Այս նիշը չափից դուրս մեծ է։ Խնդրում ենք միանգամից չներմուծել բանալիների մեծ հաւաքածու:
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Ստեղծել եւ պահպանել յետկանչման վկայականը
+revoke-cert-ok = Չեղեալ յայտարարման վկայականը յաջողութեամբ ստեղծուել է: Դուք կարող էք այն աւգտագործել Ձեր հանրային բանալին անվաւեր ճանաչելու համար, աւրինակ. եթե դուք կորցնէք Ձեր գաղտնի բանալին:
+revoke-cert-failed = Չեղեալ յայտարարման վկայականը չյաջողուեց ստեղծել:
+gen-going = Բանալիների ստեղծումն արդէն ընթացքի մէջ է։
+keygen-missing-user-name = Ընտրուած հաշուի/ինքնութեան համար անուն նշուած չէ: Խնդրում ենք մուտքագրել արժէք «Ձեր անունը» դաշտում՝ հաշուի կարգաւորումներում:
+expiry-too-short = Ձեր բանալին պէտք է վաւեր լինի առնուազն մեկ աւրով:
+expiry-too-long = Դուք չէք կարող ստեղծել բանալի, որի ժամկէտը լրանում է աւելի քան 100 տարուց:
+key-confirm = Ստեղծե՞լ հանրային եւ գաղտնի բանալի «{ $id }»-ի համար:
+key-man-button-generate-key = &Ստեղծել բանալի
+key-abort = Չեղարկե՞լ բանալիների ստեղծումը։
+key-man-button-generate-key-abort = &Չեղարկել բանալիների ստեղծումը
+key-man-button-generate-key-continue = &Շարունակել բանալիների ստեղծումը
 
 # Strings used in enigmailMessengerOverlay.js
 
 failed-decrypt = Սխալ. վերծանումը ձախողուեց
+fix-broken-exchange-msg-failed = Չյաջողուեց վերանորոգել այս հաղորդագրութիւնը:
+attachment-no-match-from-signature = Չյաջողուեց «{ $attachment }» նիշը համապատասխանեցնել կցորդին
+attachment-no-match-to-signature = Չյաջողուեց «{ $attachment }» կցորդը համապատասխանեցնել նիշին
+signature-verified-ok = { $attachment } կցորդի նշանը յաջողութեամբ հաստատուեց
+signature-verify-failed = { $attachment } կցորդի նշանը չյաջողուեց հաստատել
+decrypt-ok-no-sig =
+    Զգուշացում
+    Վերծանումը յաջող էր, սակայն նշանը ճշտաւրէն չհաստատուեց
+msg-ovl-button-cont-anyway = &Շարունակել ամեն դէպքում
+enig-content-note = *Այս հաղորդագրութեան կցորդները նշուած եւ ծածկագրուած չեն*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Ուղարկել հաղորդագրութիւն
+msg-compose-details-button-label = Մանրամասներ…
+msg-compose-details-button-access-key = Մ
+send-aborted = Ուղարկելու գործողութիւնը ընդհատուել է:
+key-not-trusted = «{ $key }» բանալին անվստահելի է
+key-not-found = «{ $key }» բանալին չի գտնուել
+key-revoked = «{ $key }» բանալին չեղարկուած է
+key-expired = «{ $key }» բանալու ժամկէտը սպառուել է։
+msg-compose-internal-error = Տեղի է ունեցել ներքին սխալ:
+keys-to-export = Տեղադրելու համար ընտրէք OpenPGP բանալին
+msg-compose-partially-encrypted-inlinePGP =
+    Հաղորդագրութիւնը, որին պատասխանում էք, պարունակում էր ինչպէս չծածկագրուած, այնպէս էլ ծածկագրուած հատուածներ: Եթե ուղարկողն ի սկզբանէ չի կարողացել վերծանել հաղորդագրութեան որոշ հատուածներ, դուք կարող էք գաղտնի տեղեկատուութիւն կորցնել, որը ուղարկողը չի կարողացել վերծանել ինքնուրոյն:
+    Խնդրում ենք այս ուղարկողի հաղորդագրութեան Ձեր պատասխանից ամբողջ մէջբերուած գրոյթը հեռացնել:
+msg-compose-cannot-save-draft = Սխալ՝ սեւագիրը պահելիս
+msg-compose-partially-encrypted-short = Զգուշացէք զգայուն տեղեկատուութեան արտահոսքից՝ յատկապէս ծածկագրուած  եղետրոնային փոստից։
+quoted-printable-warn =
+    Դուք միացրել էք «մէջբերուած-տպուող» կոդաւորումը հաղորդագրութիւններ ուղարկելու համար: Սա կարող է յանգեցնել Ձեր հաղորդագրութեան սխալ վերծանման եւ/կամ հաստատման:
+    Ցանկանու՞մ էք այժմ անջատել «մէջբերուած-տպուող» հաղորդագրութիւնների ուղարկումը:
+dlg-button-close = &Փակել
+dlg-button-cancel = &Չեղարկել
+dlg-no-prompt = Այղեւս ցոյց մի տուէք ինձ այս երկխաւսութիւնը
+enig-prompt = OpenPGP հուշուածք
+enig-confirm = OpenPGP հաստատում
+enig-alert = OpenPGP զգուշացում
+enig-info = OpenPGP տեղեկութիւն
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &վերափորձել
+dlg-button-skip = &բաց թողնել
+# Strings used in enigmailMsgBox.js
+enig-alert-title =
+    .title = OpenPGP զգուշացում
