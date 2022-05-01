@@ -230,6 +230,47 @@ settings-context-open-addons-item =
 
 spaces-toolbar-pinned-tab-button =
     .tooltiptext = Գործիքաշերտի ցանկ
+spaces-pinned-button-menuitem-mail =
+    .label = { spaces-toolbar-button-mail.title }
+spaces-pinned-button-menuitem-address-book =
+    .label = { spaces-toolbar-button-address-book.title }
+spaces-pinned-button-menuitem-calendar =
+    .label = { spaces-toolbar-button-calendar.title }
+spaces-pinned-button-menuitem-tasks =
+    .label = { spaces-toolbar-button-tasks.title }
+spaces-pinned-button-menuitem-chat =
+    .label = { spaces-toolbar-button-chat.title }
+spaces-pinned-button-menuitem-settings =
+    .label = { spaces-toolbar-button-settings2.title }
+spaces-pinned-button-menuitem-show =
+    .label = { spaces-toolbar-button-show.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+            [one] Մեկ չընթերցուած հաղորդագրութիւն
+           *[other] { $count } չընթերցուած հաղորդագրութիւններ
+        }
 
 ## Spaces toolbar customize panel
 
+spaces-context-customize =
+    .label = յարմարեցնել
+menuitem-customize-label =
+    .label = Յարմարեցնել…
+spaces-customize-panel-title = Բացատների գործիքագաւտու կարգաւորումներ
+spaces-customize-background-color = յետնպատկերի գոյնը
+spaces-customize-icon-color = կոճակի գոյնը
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Ընտրուած կոճակի յետնապատկերի գոյնը
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Ընտրուած կոճակի գոյնը
+spaces-customize-button-restore = Վերականգնել սկզբնադիրը
+    .accesskey = Վ
+spaces-customize-button-save = Պատրաստ է
+    .accesskey = Պ
+customize-panel-button-save = Պատրաստ է
+    .accesskey = Պ
