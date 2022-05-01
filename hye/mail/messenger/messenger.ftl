@@ -116,9 +116,20 @@ mail-context-delete-messages =
             [one] Ջնջել հաղորդագրութիւնը
            *[other] Ջնջել ընտրուած հաղորդագրութիւնները
         }
+context-menu-decrypt-to-folder =
+    .label = Պատճէնել, որպէս վերծանուած
+    .accesskey = ե
 
 ## Message header pane
 
+other-action-redirect-msg =
+    .label = Վերահասցէաւորել
+message-header-msg-flagged =
+    .title = Աստղանշուած
+    .aria-label = Աստղանշուած
+message-header-msg-not-flagged =
+    .title = Չաստղանշուած
+    .aria-label = Չաստղանշուած
 
 ## Message header cutomize panel
 
