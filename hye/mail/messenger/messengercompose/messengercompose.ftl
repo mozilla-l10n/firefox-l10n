@@ -235,24 +235,21 @@ show-cc-row-main-menuitem =
     .label = Cc Դաշտ
     .accesskey = C
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
-bcc-address-row-label =
-    .value = Կոյր պատճէնացանկ
-#   $key (String) - the shortcut key for this field
-show-bcc-row-main-menuitem =
-    .label = Կոյր պատճէնացանկ դաշտ
-    .accesskey = Կ
-    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 # No acceltext should be shown.
-# The label should match the show-bcc-row-button text.
-show-bcc-row-extra-menuitem =
-    .label = Կոյր պատճէնացանկ
-    .accesskey = Բ
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Cc
+    .accesskey = C
 #   $key (String) - the shortcut key for this field
-show-bcc-row-button = Կոյր պատճէնացանկ
-    .title = Ցուցադրել Կոյր պատճէնացանկի դաշտը ({ ctrl-cmd-shift-pretty-prefix }{ $key })
-many-public-recipients-bcc =
-    .label = Փոխարենը աւգտագործէք Կոյր պատճէնացանկը
-    .accesskey = օ
+show-cc-row-button = Cc
+    .title = Ցուցադրել Cc դաշտը ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+extra-address-rows-menu-button =
+    .title = Հասցէաւորման այղ դաշտեր ցուցադրելու համար
+many-public-recipients-ignore =
+    .label = Ստացողներին պահէք հրապարակային
+    .accesskey = պ
+many-public-recipients-prompt-title = Չափազանց շատ հրապարակային ստացողներ
+many-public-recipients-prompt-cancel = Չեղարկել ուղարկումը
 
 ## Notifications
 
