@@ -382,7 +382,45 @@ converter-decrypt-body-failed =
     Ցանկանու՞մ էք նորից փորձել այղ անցաբառով, թե՞ ուզում էք բաց թողնել հաղորդագրութիւնը:
 # Strings in gpg.jsm
 unknown-signing-alg = Անյայտ ստորագրման հաշուեկարգ (ID: { $id })
+unknown-hash-alg = Անյայտ ծածկագրային պատահական տուեալներ  (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon = Ձեր բանալու { $desc } ժամկէտը կը լրանա աւելի քիչ, քան { $days } աւրից։ Մենք առաջարկում ենք, որ դուք ստեղծէք նոր բանալիների զոյգ եւ կարգաւորեք համապատասխան հաշիւները այն աւգտագործելու համար։
+expiry-keys-expire-soon = Ձեր բանալու { $desc } ժամկէտը կը լրանա աւելի քիչ, քան { $days } աւրից․ Մենք առաջարկում ենք, որ դուք ստեղծէք նոր բանալիների զոյգ եւ կարգաւորէք համապատասխան հաշիւները այն աւգտագործելու համար։
+expiry-key-missing-owner-trust =
+    Ձեր { $desc } գաղտնի բանալին վստահութիւն չունի:
+    Մենք խորհուրդ ենք տալիս հիմնական յատկութիւններում «Դուք ապաւինում էք հաւաստագրերին»֊ը սահմանել «առաւելագոյն»֊ի:
+expiry-keys-missing-owner-trust =
+    Ձեր գաղտնի բանալիներից հետեւեալները վստահութիւն չունէն:
+    { $desc }:
+    Մենք խորհուրդ ենք տալիս հիմնական յատկութիւններում «Դուք ապաւինում էք հաւաստագրերին»֊ը սահմանել «առաւելագոյն»֊ի:
+expiry-open-key-manager = Բացել OpenPGP բանալու կառավարիչը
+expiry-open-key-properties = Բացել բանալու յատկութիւնները
+# Strings filters.jsm
+filter-folder-required = Դուք պէտք է ընտրէք թիրախային թղթապանակ:
+filter-decrypt-move-warn-experimental =
+    Զգուշացում. «մշտապէս վերծանել» զտիչի գործողութիւնը կարող է յանգեցնել հաղորդագրութիւնների ոչնչացմանը:
+    Մենք խստաւրէն խորհուրդ ենք տալիս նախ փորձել «ստեղծել վերծանուած պատճէն» զտիչը, ուշադիր ստուգել արդիւնքը եւ ապա սկսել աւգտագործել այս զտիչը միայն արդիւնքից գոհ լինելուց յետոյ:
+filter-term-pgpencrypted-label = OpenPGP֊ն գաղտնագրուած է
+filter-key-required = Նշէք ընդունիչ բանալին։
+filter-key-not-found = Չյաջողուեց գտնել «{ $desc }»-ի կոդաւորման բանալին:
+filter-warn-key-not-secret =
+    Զգուշացում. «ծածկագրել բանալուն» զտիչի գործողութիւնը փոխարինում է ստացողներին:
+    Եթե չունէք «{ $desc }»-ի գաղտնի բանալին, այղեւս չէք կարողանայ կարդալ հաղորդագրութիւնները:
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Մշտապէս վերծանել (OpenPGP)
+filter-decrypt-copy-label = Ստեղծել գաղտնազերծուած պատճէն (OpenPGP)
+filter-encrypt-label = Ծածկագրել բանալին (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Յաջողուե՜ց։ Բանալիները ներմուծուած են
+import-info-bits = Բիթեր
+import-info-created = Ստեղծուել է
 import-info-fpr = Մատնահետք
+import-info-details = Դիտէք մանրամասները եւ կառաւարէք բանալիների ընդունումը
+import-info-no-keys = Ներմուծուած բանալիներ չկայն:
+# Strings in enigmailKeyManager.js
+import-from-clip = Ցանկանու՞մ եք որոշ բանալի(ներ) ներմուծել սեղմատախտակից:
+import-from-url = Ներբեռնեք հանրային բանալին այս URL-ից.
 
 ## Account settings export output
 
