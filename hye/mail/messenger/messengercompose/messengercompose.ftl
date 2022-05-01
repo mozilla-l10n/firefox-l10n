@@ -6,20 +6,27 @@
 ## Addressing widget
 
 #   $type (String) - the type of the addressing row
+remove-address-row-button =
+    .title = Հեռացնել { $type } դաշտը
+#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
         [0] { $type }
         [one] { $type } մեկ հասցէով, աւգտագործեք ձախ սլաքի ստեղնը դրա վրա կենտրոնանալու համար:
-       *[other] { $type }֊ի հետ { $count }{ $count } հասցէներով, աւգտագործեք ձախ սլաքի ստեղնը դրանց վրա կենտրոնանալու համար:
+       *[other] { $type }֊ի հետ { $count }{ $count } հասցէներով, աւգտագործէք ձախ սլաքի ստեղնը՝ դրանց վրայ կենտրոնանալու համար:
     }
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
     { $count ->
-        [one] { $email }։ սեղմեք Enter- ը խմբագրելու համար, ջնջել հեռացնելու համար:
-       *[other] { $email }, 1 { $count }․ սեղմել Enter ՝ խմբագրելու համար, ջնջել հեռացնելու համար:
+        [one] { $email }։ սեղմեք Enter- ը խմբագրելու համար, ջնջել՝ հեռացնելու համար:
+       *[other] { $email }, 1 { $count }․ սեղմել Enter ՝ խմբագրելու համար, ջնջել՝ հեռացնելու համար:
     }
+#   $email (String) - the email address
+pill-tooltip-invalid-address = { $email } վաւեր եղեկտրոնային փոստի հասցէ չէ
+#   $email (String) - the email address
+pill-tooltip-not-in-address-book = { $email }֊ը Ձեր հասցէագրքում չէ
 pill-action-edit =
     .label = Խմբագրել հասցէները
     .accesskey = e
@@ -27,18 +34,80 @@ pill-action-edit =
 pill-action-select-all-sibling-pills =
     .label = Ընտրել բոլոր հասցէներեը { $type }֊ում
     .accesskey = հ
+pill-action-select-all-pills =
+    .label = Ընտրել բոլոր հասցէները
+    .accesskey = Ը
 pill-action-move-to =
-    .label = Տեղափոխել դէպի
-    .accesskey = T
+    .label = Տեղափոխել Ում
+    .accesskey = Տ
 pill-action-move-cc =
     .label = Տեղափոխել Cc
     .accesskey = C
 pill-action-move-bcc =
-    .label = Տեղափոխել Կոյր պատճէնացանկ
-    .accesskey = Կ
+    .label = Տեղափոխել Bcc
+    .accesskey = B
+pill-action-expand-list =
+    .label = Լայնարձակել Ցանկը
+    .accesskey = ա
 
 ## Attachment widget
 
+ctrl-cmd-shift-pretty-prefix =
+    { PLATFORM() ->
+        [macos] ⇧ ⌘{ " " }
+       *[other] Ctrl+Shift+
+    }
+trigger-attachment-picker-key = A
+toggle-attachment-pane-key = M
+menuitem-toggle-attachment-pane =
+    .label = Կցորդի վահանակ
+    .accesskey = դ
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+toolbar-button-add-attachment =
+    .label = Կցել
+    .tooltiptext = Աւելացնել Կցորդ ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
+add-attachment-notification-reminder =
+    .label = Աւելացնել կցորդ…
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+add-attachment-notification-reminder2 =
+    .label = Աւելացնել կցորդ…
+    .accesskey = Ա
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+menuitem-attach-files =
+    .label = Նիշ(եր)…
+    .accesskey = Ն
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+context-menuitem-attach-files =
+    .label = Կցել նիշ(եր)…
+    .accesskey = Ն
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = Իմ vCard֊ը
+    .accesskey = C
+context-menuitem-attach-openpgp-key =
+    .label = Իմ OpenPGP հանրային բանալին
+    .accesskey = Բ
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } Յաւելուած
+        [one] { $count } Յաւելուած
+       *[other] { $count } Յաւելուածներ
+    }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Ցուցադրել կցորդի վահանակը ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Թաքցնել կցորդի վահանակը ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+attachment-area-show =
+    .title = Ցուցադրել կցորդի վահանակը ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+attachment-area-hide =
+    .title = Թաքցնել կցորդի վահանակը ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+drop-file-label-attachment =
+    { $count ->
+        [one] Աւելացնել որպէս կցորդ
+       *[other] Աւելացնել որպէս կցորդներ
+    }
 
 ## Reorder Attachment Panel
 
