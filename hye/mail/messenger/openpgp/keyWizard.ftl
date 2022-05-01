@@ -82,6 +82,14 @@ openpgp-key-confirm = Ստեղծե՞լ հասարակական եւ գաղտնի 
 
 openpgp-import-key-title = Աւելացնել եւ աւգտագործել անձնական OpenPGP բանալի
 openpgp-import-key-legend = Ընտրէք նախկինում կրկնաւրինակուած նիշ:
+openpgp-import-key-description = Դուք կարող էք ներմուծել անձնական բանալիներ, որոնք ստեղծուել են այղ OpenPGP ծրագրաշարում:
+openpgp-import-key-info = Այս ծրագրաշարը կարող է նկարագրել անձնական բանալին՝ աւգտագործելով այղընտրանքային տերմիններ, ինչպիսիք են՝ Ձեր սեփական բանալին, գաղտնի բանալին, մասնաւոր բանալին կամ բանալիների զոյգը:
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] Thunderbird-ը գտել է մեկ բանալի, որը կարելի է ներմուծել:
+       *[other] Thunderbird֊ը գտել է բանալիներ որոնք կարելի է ներմուծել
+    }
 gnupg-file = GnuPG Նիշեր
 openpgp-import-fingerprint-label = Մատնահետք
 
