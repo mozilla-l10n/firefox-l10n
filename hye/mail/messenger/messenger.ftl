@@ -133,15 +133,46 @@ message-header-msg-not-flagged =
 
 ## Message header cutomize panel
 
+message-header-customize-panel-title = Հաղորդագրութեան գլխագրի կարգաւորումներ
+message-header-customize-button-style =
+    .value = Կոճակի ոճը
+    .accesskey = Կ
+message-header-button-style-default =
+    .label = Պատկերներ եւ գրոյթ
+message-header-button-style-text =
+    .label = Գրոյթ
+message-header-button-style-icons =
+    .label = Պատկերներ
+message-header-large-subject =
+    .label = Մեծ թեմայ
+    .accesskey = թ
 
 ## Action Button Context Menu
 
+toolbar-context-menu-manage-extension =
+    .label = Կառավարել յաւելումը
+    .accesskey = յ
+toolbar-context-menu-remove-extension =
+    .label = Հեռացնել ընդլայնումը
+    .accesskey = վ
 
 ## Message headers
 
+message-header-address-in-address-book-icon =
+    .alt = Հասցէն գտնուում է հասցէագրքում
+message-header-address-not-in-address-book-icon =
+    .alt = Հասցէն հասցէագրքում չէ
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Հեռացնե՞լ { $name }-ը:
+addon-removal-confirmation-button = Հեռացնել
+addon-removal-confirmation-message = Հեռացնե՞լ { $name }-ը, ինչպէս նաեւ դրա կազմաձեւումն ու տուեալները { -brand-short-name }-ից:
+caret-browsing-prompt-title = Ստեղնային դիտարկում
+caret-browsing-prompt-text = Սեղմելով F7-ը միացնում կամ անջատում է ստեղնային դիտարկումը: Այս յատկութիւնը տեղաւորում է շարժական նշորդը որոշ բովանդակութեան մէջ՝ թոյղ տալով ընտրել գրոյթը ստեղնաշարով: Ցանկանու՞մ էք միացնել ստեղնային դիտարկումը:
+caret-browsing-prompt-check-text = Այղեւս չհարցնել։
 
 ## no-reply handling
 
