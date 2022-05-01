@@ -293,9 +293,39 @@ openpgp-description =
         [one] Thunderbird֊ը գտաւ { $count } անձնական OpenPGP բանալի կապուած <b>{ $identity }</b> ֊ի հետ
        *[other] Thunderbird֊ը գտաւ { $count } անձնական OpenPGP բանալիներ կապուած <b>{ $identity }</b> ֊ի հետ
     }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Ձեր ներկայիս կարգաբերումը աւգտագործում է բանալու ID <b>{ $key }</b>
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Ձեր ներկայիս կարգաբերումը աւգտագործում է բանալի <b>{ $key }</b>, որն արդէն ժամկէնտանց է։
+openpgp-add-key-button =
+    .label = Աւելացնել բանալի…
+    .accesskey = Ա
+e2e-learn-more = Իմանալ աւելին
+openpgp-keygen-success = OpenPGP բանալին յաջողութեամբ ստեղծուեց:
+openpgp-keygen-import-success = OpenPGP բանալիները ներմուծուեցին յաջողութեամբ։
+openpgp-keygen-external-success = Արտաքին GnuPG բանալու ID֊ն պահպանուել է։
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Ոչ
+openpgp-radio-none-desc = Մի՛ աւգտագործէք OpenPGP ֊ն այս ինքնութեան համար։
+openpgp-radio-key-not-usable = Այս բանալին աւգտագործելի չէ, որպէս անձնական բանալի, քանի որ գաղտնի բանալին բացակայում է։
+openpgp-radio-key-not-accepted = Այս բանալին աւգտագործելուց նախ եւ առաջ դուք պէտք է դա հաստատէք որպէս անձնական բանալի։
+openpgp-radio-key-not-found = Այս բանալին չյաջողուեց գտնել։ Եթե ցանկանում էք դա աւգտագործել, պէտք է դա ներմուծել { -brand-short-name } ֊ում։
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Ժամկէտը կը լրանա․ { $date }֊ին
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Ժամկէտը լրացել է․ { $date }֊ին
+openpgp-key-expires-within-6-months-icon =
+    .title = Բանալու ժամկէտը կը լրանա աւելի քիչ, քան 6 ամսից
+openpgp-key-has-expired-icon =
+    .title = Բանալին ժամկէտանց է
+openpgp-key-expand-section =
+    .tooltiptext = Լրացուցիչ տեղեկատուութիւն
+openpgp-key-revoke-title = Չեղեալ համարել բանալին
+openpgp-key-edit-title = Փոխել OpenPGP բանալին
+openpgp-key-edit-date-title = Երկարացնել ժամկէտի լրանալու ամսաթիւը
 import-info-fpr = Մատնահետք
 
 ## Account settings export output
