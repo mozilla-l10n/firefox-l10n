@@ -254,11 +254,45 @@ openpgp-key-details-created-header = Ստեղծուել է
 openpgp-key-details-expiry-label =
     .label = Ժամկէտ
 openpgp-key-details-expiry-header = Ժամկէտ
+openpgp-key-details-usage-label =
+    .label = Աւգտագործում
+openpgp-key-details-fingerprint-label = Մատնաhետք
+openpgp-key-details-legend-secret-missing = (!)-ով նշուած ստեղների համար գաղտնի բանալին հասանելի չէ:
+openpgp-key-details-sel-action =
+    .label = Ընտրել գործողութիւնը․․․
+    .accesskey = Ը
+openpgp-key-details-also-known-label = Բանալու սեփականատիրոջ ենթադրեալ այղընտրանքային ինքնութիւնները.
+openpgp-card-details-close-window-label =
+    .buttonlabelaccept = Փակել
+openpgp-acceptance-label =
+    .label = Ձեր թոյղտուութիւնը
+openpgp-acceptance-rejected-label =
+    .label = Ոչ, դրժէք այս բանալին։
+openpgp-acceptance-undecided-label =
+    .label = Ոչ հիմա, երեւի ուշ։
+openpgp-acceptance-unverified-label =
+    .label = Այո, բայց ես չէմ ընդունել, որ դա ճիշտ բանալի է։
+openpgp-acceptance-verified-label =
+    .label = Այո, ես վաւերացրել եմ այս մարդուն, որի բանալին ունի ճշգրիտ մատնահետքը։
+key-accept-personal = Այս բանալու համար, դուք ունէք եւ՛ հասարակական, եւ՛ գաղտնի մասեր։ Դուք կարող էք աւգտագործել դա որպէս անձնական բանալի։ Եթե այս բանալին Ձեզ տրուած է այղ անձի կողմից, ուրեմն մի՛ աւգտագործէք դա որպէս անձնական բանալի։
+key-personal-warning = Դուք ինքնե՞րդ էք ստեղծել այս բանալին, եւ դրա ցուցադրուած սեփականութիւնը Ձե՞զ է պատկանում։
+openpgp-personal-no-label =
+    .label = Ոչ, մի՛ աւգտագործեք դա որպէս իմ անձնական բանալի։
+openpgp-personal-yes-label =
+    .label = Այո, վերաբերուէք այս բանալուն ինչպէս անձնական բանալի։
 openpgp-copy-cmd-label =
-    .label = Պատճէն
+    .label = Պատճէնել
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird-ը չունի անձնական OpenPGP բանալի <b>{ $identity }</b> ֊ի համար
+        [one] Thunderbird֊ը գտաւ { $count } անձնական OpenPGP բանալի կապուած <b>{ $identity }</b> ֊ի հետ
+       *[other] Thunderbird֊ը գտաւ { $count } անձնական OpenPGP բանալիներ կապուած <b>{ $identity }</b> ֊ի հետ
+    }
 
 ## OpenPGP Key selection area
 
