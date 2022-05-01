@@ -65,9 +65,23 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Փակել
     .accesskey = Փ
+openpgp-keygen-missing-username = Ընթացիկ հաշուի համար անուն նշուած չէ: Խնդրում ենք մուտքագրել արժէք «Ձեր անունը» դաշտում՝ հաշուի կարգաւորումներում:
+openpgp-keygen-long-expiry = Դուք չէք կարող ստեղծել բանալի, որի ժամկէտը լրանում է ավելի քան 100 տարի յետոյ։
+openpgp-keygen-short-expiry = Ձեր բանալին պէտք է վաւեր լինի առնուազն մեկ աւր:
+openpgp-keygen-ongoing = Բանալիների ստեղծումը արդէն ընթացքի մէջ է:
+openpgp-keygen-error-core = Հնարաւոր չէ սկզբնավորել OpenPGP իմնական ծառայութիւնը
+openpgp-keygen-error-failed = OpenPGP բանալիների գեներացիան չյաջողուեց
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = OpenPGP բանալին յաջողութեամբ ստեղծուեց, բայց չեղարկուեց  { $key } բանալու համար
+openpgp-keygen-abort-title = Կրկնե՞լ բանալիների գեներացիան
+openpgp-keygen-abort = OpenPGP բանալու ստեղծումը ընթացքի մէջ է, արդեւք դուք ուզու՞մ եք չեղարկել այն։
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Ստեղծե՞լ հասարակական եւ գաղտնի բանալիներ { $identity }֊ի համար։
 
 ## Import Key section
 
+openpgp-import-key-title = Աւելացնել եւ աւգտագործել անձնական OpenPGP բանալի
+openpgp-import-key-legend = Ընտրէք նախկինում կրկնաւրինակուած նիշ:
 gnupg-file = GnuPG Նիշեր
 openpgp-import-fingerprint-label = Մատնահետք
 
