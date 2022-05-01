@@ -108,12 +108,59 @@ drop-file-label-attachment =
         [one] Աւելացնել որպէս կցորդ
        *[other] Աւելացնել որպէս կցորդներ
     }
+drop-file-label-inline =
+    { $count ->
+        [one] Տեղադրել բովանդակութեան մէջ
+       *[other] Տեղադրել բովանդակութեան մէջ
+    }
 
 ## Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = Տեղափոխել առաջին
+move-attachment-left-panel-button =
+    .label = Տեղափոխել ձախ
+move-attachment-right-panel-button =
+    .label = Տեղափոխել աջ
+move-attachment-last-panel-button =
+    .label = Տեղափոխել վերջ
+button-return-receipt =
+    .label = Ստացական
+    .tooltiptext = Պահանջել յետադարձ ստացական նամակի համար
 
 ## Encryption
 
+message-to-be-signed-icon =
+    .alt = Ստորագրել հաղորդագրութիւնը
+message-to-be-encrypted-icon =
+    .alt = Ծածկագրել հաղորդագրութիւնը
+encryption-menu =
+    .label = Անվտանգութիւն
+    .accesskey = վ
+encryption-toggle =
+    .label = Ծածկագրել
+    .tooltiptext = Աւգտագործէք ծայրէծայր ծածկագրում այս հաղորդագրութեան համար
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = Դիտել կամ փոփոխել OpenPGP ծածկագրման կարգաւորումները
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = Դիտել կամ փոփոխել  S/MIME ծածկագրման կարգաւորումները
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = O
+menu-smime =
+    .label = S/MIME
+    .accesskey = S
+menu-encrypt =
+    .label = Գաղտնագրել
+    .accesskey = Գ
+menu-encrypt-subject =
+    .label = Գաղտնագրել թեմայն
+    .accesskey = մ
+menu-sign =
+    .label = Թուային ստոգրագրութիւն
+    .accesskey = ո
 
 ## Addressing Area
 
