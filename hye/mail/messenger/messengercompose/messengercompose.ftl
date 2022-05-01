@@ -161,21 +161,80 @@ menu-encrypt-subject =
 menu-sign =
     .label = Թուային ստոգրագրութիւն
     .accesskey = ո
+menu-manage-keys =
+    .label = Բանալի աւգնական
+    .accesskey = ա
+menu-view-certificates =
+    .label = Դիտել ստացողների վկայագրերը
+    .accesskey = Դ
+menu-open-key-manager =
+    .label = Հիմնական կառավարիչ
+    .accesskey = կ
+openpgp-key-issue-notification-one = Ծայրէծայր գաղտնագրումը պահանջում է լուծել հիմնական խնդիրները { $addr }-ի համար
+openpgp-key-issue-notification-many = Ծայրէծայր գաղտնագրումը պահանջում է լուծել հիմնական խնդիրները { $count }-ի համար
+smime-cert-issue-notification-one = Ծայրէծայր գաղտնագրումը պահանջում է լուծել վկայագրի խնդիրները { $addr }-ի համար
+smime-cert-issue-notification-many = Ծայրէծայր գաղտնագրումը պահանջում է լուծել վկայագրի խնդիրները { $count }-ի համար
+key-notification-disable-encryption =
+    .label = Չծածկագրել
+    .accesskey = Չ
+    .tooltiptext = Անջատել ծայրէծայր գաղտնագրումը
+key-notification-resolve =
+    .label = Ուղղել․․․
+    .accesskey = Ո
+    .tooltiptext = Բացել OpenPGP հիմնական աւգնականը
 
 ## Addressing Area
 
-bcc-compose-address-row-label =
-    .value = Կոյր պատճէնացանկ
+to-compose-address-row-label =
+    .value = Ում
+#   $key (String) - the shortcut key for this field
+to-compose-show-address-row-menuitem =
+    .label = { to-compose-address-row-label.value } Դաշտ
+    .accesskey = T
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+to-compose-show-address-row-label =
+    .value = { to-compose-address-row-label.value }
+    .tooltiptext = Ցուցադրել { to-compose-address-row-label.value } Դաշտը ({ to-compose-show-address-row-menuitem.acceltext })
+cc-compose-address-row-label =
+    .value = Cc
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = { cc-compose-address-row-label.value } Դաշտ
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+cc-compose-show-address-row-label =
+    .value = { cc-compose-address-row-label.value }
+    .tooltiptext = Ցուցադրել { cc-compose-address-row-label.value } Դաշտը ({ cc-compose-show-address-row-menuitem.acceltext })
 #   $key (String) - the shortcut key for this field
 bcc-compose-show-address-row-menuitem =
     .label = { bcc-compose-address-row-label.value } Դաշտ
-    .accesskey = Բ
+    .accesskey = B
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Ցուցադրել { bcc-compose-address-row-label.value } Դաշտը ({ bcc-compose-show-address-row-menuitem.acceltext })
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-many-public-recipients-info = Ում եւ Պատճէնացանկ-ի { $count } հասցէատէրերը կը տեսնեն միմեանց հասցէն: Դուք կարող էք խուսափել հասցէատերերի բացայայտումից՝ փոխարէնը աւգտագործելով Կոյր պատճէնացանկ:
+to-address-row-label =
+    .value = Ում
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = Ում (To) Դաշտ
+    .accesskey = Դ
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = Ում (To)
+    .accesskey = Ո
+#   $key (String) - the shortcut key for this field
+show-to-row-button = Ում (To)
+    .title = Ցոյց տալ Ում (To) դաշտը ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+cc-address-row-label =
+    .value = Cc
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Cc Դաշտ
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 bcc-address-row-label =
     .value = Կոյր պատճէնացանկ
 #   $key (String) - the shortcut key for this field
