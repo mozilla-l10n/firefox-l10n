@@ -585,6 +585,17 @@ msg-compose-partially-encrypted-short = Զգուշացէք զգայուն տեղ
 quoted-printable-warn =
     Դուք միացրել էք «մէջբերուած-տպուող» կոդաւորումը հաղորդագրութիւններ ուղարկելու համար: Սա կարող է յանգեցնել Ձեր հաղորդագրութեան սխալ վերծանման եւ/կամ հաստատման:
     Ցանկանու՞մ էք այժմ անջատել «մէջբերուած-տպուող» հաղորդագրութիւնների ուղարկումը:
+# Strings used in windows.jsm
+no-photo-available = Լուսանկար չկայ
+error-photo-path-not-readable = «{ $photo }» լուսանկարի ուղին ընթեռնելի չէ
+debug-log-title = OpenPGP վրիպազերծման գրանցամատեան
+# Strings used in dialog.jsm
+repeat-prefix = Այս ահազանգը կը կրկնուի { $count }
+repeat-suffix-singular = աւելի շատ ժամանակ:
+repeat-suffix-plural = Շատ անգամներ
+no-repeat = Այս զգուշացումն այղեւս չի ցուցադրուի:
+dlg-keep-setting = Հիշէք իմ պատասխանը եւ այղեւս մի հարցրէք ինձ
+dlg-button-ok = &Լաւ
 dlg-button-close = &Փակել
 dlg-button-cancel = &Չեղարկել
 dlg-no-prompt = Այղեւս ցոյց մի տուէք ինձ այս երկխաւսութիւնը
