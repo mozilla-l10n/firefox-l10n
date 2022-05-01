@@ -326,6 +326,27 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Չեղեալ համարել բանալին
 openpgp-key-edit-title = Փոխել OpenPGP բանալին
 openpgp-key-edit-date-title = Երկարացնել ժամկէտի լրանալու ամսաթիւը
+openpgp-manager-description = Աւգտագործէք OpenPGP բանալու համակարգը՝ դիտելու եւ կառավարելու Ձեր հասարակական բանալիները, Ձեր թղթակիցների եւ բոլոր այղ ստեղների, որոնք վերը նշուած չեն:
+openpgp-manager-button =
+    .label = OpenPGP բանալիների կառավարիչ
+    .accesskey = Բ
+openpgp-key-remove-external =
+    .label = Հեռացնել արտաքին բանալու ID-ն
+    .accesskey = ա
+key-external-label = Արտաքին GnuPG բանալի
+# Strings in keyDetailsDlg.xhtml
+key-type-public = հանրային բանալի
+key-type-primary = առաջնային բանալի
+key-type-subkey = ենթաբանալի
+key-type-pair = բանալու զոյգ (գաղտնի բանալի եւ հանրային բանալի)
+key-expiry-never = երբեք
+key-usage-encrypt = Ծածկագրում
+key-usage-sign = Ստորագրել
+key-usage-certify = Հաւաստագրել
+key-usage-authentication = Վաւերացում
+key-does-not-expire = Բանալին չի սպառուում
+key-expired-date = Բանալին սպառուել է { $keyExpiry }֊ին
+key-expired-simple = Բանալին ժամկէտանց է
 import-info-fpr = Մատնահետք
 
 ## Account settings export output
