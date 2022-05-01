@@ -250,9 +250,13 @@ many-public-recipients-ignore =
     .accesskey = պ
 many-public-recipients-prompt-title = Չափազանց շատ հրապարակային ստացողներ
 many-public-recipients-prompt-cancel = Չեղարկել ուղարկումը
+many-public-recipients-prompt-send = Ուղարկել ամէն պարագայում
 
 ## Notifications
 
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = Հասցէին համապատասխանող եզակի ինքնութիւն չի գտնուել: Հաղորդագրութիւնը կուղարկուի ընթացիկ From դաշտի եւ ինքնութեան կարգաւորումների միջոցով { $identity }
 encrypted-bcc-ignore-button = Հասկանալի է
 
 ## Editing
