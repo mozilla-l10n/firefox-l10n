@@ -380,6 +380,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = ¿Qué debería hacer { -brand-short-name } con otros archivos?
+applications-save-for-new-types =
+    .label = Guardar archivos
+    .accesskey = s
+applications-ask-before-handling =
+    .label = Preguntar si abrir o guardar archivos
+    .accesskey = a
 drm-content-header = Contenido sujeto a administración de derechos de autor (DRM)
 play-drm-content =
     .label = Reproducir contenido controlado por DRM
@@ -919,12 +926,12 @@ sitedata-option-block-cross-site-tracking-cookies-including-social-media =
     .label = Cookies de rastreo entre sitios — incluye las cookies de redes sociales
 sitedata-option-block-cross-site-cookies-including-social-media =
     .label = Cookies entre sitios — incluye las cookies de redes sociales
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = Rastreadores de sitios cruzados y redes sociales, y aislamiento del resto de las cookies
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Cookies de rastreo entre sitios
 sitedata-option-block-cross-site-cookies =
     .label = Cookies de rastreo de sitios cruzados, y aislamiento de otras cookies de sitios cruzados
-sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
-    .label = Rastreadores de sitios cruzados y redes sociales, y aislamiento del resto de las cookies
 sitedata-option-block-unvisited =
     .label = Cookies de sitios web no visitados
 sitedata-option-block-all-third-party =

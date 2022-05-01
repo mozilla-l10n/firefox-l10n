@@ -50,6 +50,7 @@ about-processes-socket-process = Red ({ $pid })
 about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Fork Server ({ $pid })
 about-processes-preallocated-process = Preasignado ({ $pid })
+about-processes-utility-process = Utilidad ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -62,8 +63,8 @@ about-processes-unknown-process = Otro: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, grande)
+about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, origen cruzado aislado)
 about-processes-web-isolated-process-private = { $origin } — Privado ({ $pid })
 about-processes-web-large-allocation-process-private = { $origin } — Privado ({ $pid }, grande)
@@ -117,6 +118,9 @@ about-processes-frame-name-one = Submarco: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Submarcos ({ $number }): { $shortUrl }
+# Utility process actor names
+about-processes-utility-actor-unknown = Actor desconocido
+about-processes-utility-actor-audio-decoder = Decodificador de audio
 
 ## Displaying CPU (percentage and total)
 ## Variables:
