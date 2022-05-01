@@ -450,9 +450,46 @@ export-keypair-to-file = Արտահանել գաղտնի եւ հասարակակ
 export-secret-key = Ցանկանու՞մ եք ներառել գաղտնի բանալին, պահպանուած OpenPGP բանալու նիշերի մեջ․
 save-keys-ok = Բանալիները յաջողութեամբ պահպանուեցին
 save-keys-failed = Բանալիների պահպանումը ձախողուեց
+default-pub-key-filename = Արտահանուած հանրային բանալիներ
+default-pub-sec-key-filename = Գաղտնի բանալիների կրկնաւրինակում
+refresh-key-warn = Զգուշացում․ կախուած բանալիների քանակից եւ կապի արագութիւնից, բոլոր բանալիների թարմացումը կարող է բաւականին երկար գործընթաց լինել։
+preview-failed = Հնարաւոր չէ կարդալ հանրային բանալու նիշը։
+general-error = Սխալ․ { $reason }
+dlg-button-delete = &Ջնջել
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Հանրային բանալին յաջողութեամբ արտահանուեց</b>
+openpgp-export-public-fail = <b>Հնարավոր չէ արտահանել ընտրուած հանրային բանալին:</b>
+openpgp-export-secret-success = <b>Գաղտնի բանալին յաջողութեամբ արտահանուեց:</b>
+openpgp-export-secret-fail = <b>Հնարավոր չէ արտահանել ընտրուած գաղտնի բանալին:</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Բանալին { $userId } (բանալու ID { $keyId }) չեղեալ է յայտարարուել:
+key-ring-pub-key-expired = Բանալին { $userId } (բանալու ID { $keyId }) ժամկէտանց է:
+key-ring-no-secret-key = Դուք, կարծէս, չունէք { $userId }-ի (բանալու ID { $keyId }յ) գաղտնի բանալի Ձեր ստեղնաշարի վրայ; դուք չէք կարող աւգտագործել բանալին ստորագրման համար:
+key-ring-pub-key-not-for-signing = Բանալին { $userId } (բանալու ID { $keyId }) չի կարող աւգտագործուել ստորագրման համար:
+key-ring-pub-key-not-for-encryption = Բանալին { $userId } (բանալու ID { $keyId }) չի կարող աւգտագործուել գաղտնագրման համար:
+key-ring-sign-sub-keys-revoked = { $userId } (բանալու ID { $keyId }) ստեղնաշարի բոլոր ենթաբանալիները չեղեալ են յայտարարուել:
+key-ring-sign-sub-keys-expired = { $userId } (բանալու ID { $keyId }) ստեղնաշարի բոլոր ստորագրման ենթաբանալիների ժամկէտը սպառուել է:
+key-ring-enc-sub-keys-revoked = Բանալու { $userId } (բանալու ID { $keyId }) գաղտնագրման բոլոր ենթաբանալիները չեղեալ են յայտարարուել:
+key-ring-enc-sub-keys-expired = Բանալու { $userId } (բանալու ID { $keyId }) բոլոր գաղտնագրման ենթաբանալիների ժամկէտը սպառուել է:
+# Strings in gnupg-keylist.jsm
+keyring-photo = Լուսանկար
+user-att-photo = Աւգտագործողի յատկանիշ (JPEG պատկեր)
+# Strings in key.jsm
+already-revoked = Այս բանալին արդէն յետ է կանչուել:
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Դուք պատրաստուում էք չեղարկել «{ $identity }» բանալին:
+    Դուք այղեւս չէք կարողանայ ստորագրել այս բանալիով, եւ երբ այն բաժանուի, մեւսները այղեւս չեն կարողանայ ծածկագրել այդ բանալիով: Դուք դեռ կարող էք բանալին աւգտագործել հին հաղորդագրութիւնները վերծանելու համար:
+    Ցանկանու՞մ էք շարունակել:
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Դուք չունէք բանալի (0x{ $keyId }), որը կը համապատասխանի այս յետկանչման վկայականին:
+    Եթե Դուք կորցրել էք Ձեր բանալին, դուք պէտք է ներածէք այն (աւրինակ՝ բանալի սպասարկիչից) նախքան յետկանչման վկայականը ներածելը:
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = 0x{ $keyId } բանալին արդէն չեղարկուել է:
+key-man-button-revoke-key = &Հետ կանչել բանալին
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Ներածել
 
