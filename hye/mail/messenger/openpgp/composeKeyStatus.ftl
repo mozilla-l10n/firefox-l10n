@@ -16,3 +16,9 @@ openpgp-recip-missing = բանալի հասանելի չէ
 openpgp-recip-none-accepted = ընդունուած բանալի չկայ
 openpgp-compose-general-info-alias = { -brand-short-name }֊ը սովորաբար պահանջում է, որ յաճախորդի հասարակական բանալին պարունակի աւգտատիրոջ ID , նոյնանման փոստային հասցէով։ Դա կարող է կարդացուել աւգտագործելով OpenPGP ստացողի կանոններ։
 openpgp-compose-general-info-alias-learn-more = Իմանալ աւելին
+openpgp-compose-alias-status-direct =
+    { $count ->
+        [one] քարտէզագրուած է այղանուան բանալիով
+       *[other] քարտեզագրուած է { $count } այղանաուն բանալիներով
+    }
+openpgp-compose-alias-status-error = Ոչ աւգտագործելի/անհասանելի այղանուան բանալի
