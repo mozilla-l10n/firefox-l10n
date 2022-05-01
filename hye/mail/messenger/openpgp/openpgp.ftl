@@ -114,8 +114,43 @@ openpgp-key-man-discover-cmd =
     .accesskey = Բ
 openpgp-key-man-discover-prompt = OpenPGP բանալիները առցանց, բանալի սպասարկիչների վրայ կամ WKD արձանագրութեան միջոցով յայտնաբերելու համար մուտքագրէք կամ եղ․ փոստի հասցէն կամ բանալու ID֊ն:
 openpgp-key-man-discover-progress = Որոնում…
+openpgp-key-copy-key =
+    .label = Պատճենել հանրային բանալին
+    .accesskey = Պ
+openpgp-key-export-key =
+    .label = Արտածել հանրային բանալին դէպի նիշ
+    .accesskey = Ա
+openpgp-key-backup-key =
+    .label = Կրկնաւրինակել պահեստային գաղտնի բանալին դէպի նիշքը
+    .accesskey = Կ
+openpgp-key-send-key =
+    .label = Ուղարկել հանրային բանալին եղ. փոստով
+    .accesskey = Ո
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Պատճէնել բանալու ID-ն սեղմատախտակի վրայ
+           *[other] Պատճէնել բանալու ID֊ն սեղմատախտակի վրայ
+        }
+    .accesskey = բ
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] Պատճէնել մատնահետքը սեղմատախտակի վրայ
+           *[other] Պատճէնել մատնահետքերը սեղմատախտակի վրայ
+        }
+    .accesskey = մ
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+            [one] Պատճէնել հանրային բանալին սեղմատախտակի վրայ
+           *[other] Պատճէնել հանրային բանալիները սեղմատախտակի վրայ
+        }
+    .accesskey = հ
+openpgp-key-man-ctx-expor-to-file-label =
+    .label = Արտածել բանալիները դէպի նիշ
 openpgp-key-man-ctx-copy =
-    .label = Պատճէն
+    .label = Պատճէնել
     .accesskey = Պ
 openpgp-copy-cmd-label =
     .label = Պատճէն
