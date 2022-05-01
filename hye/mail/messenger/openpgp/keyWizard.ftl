@@ -111,6 +111,17 @@ openpgp-import-identity-label = Ինքնութիւն
 openpgp-import-fingerprint-label = Մատնահետք
 openpgp-import-created-label = Ստեղծուած
 openpgp-import-bits-label = Բիթեր
+openpgp-import-key-props =
+    .label = Բանալու յատկութիւնները
+    .accesskey = Բ
 
 ## External Key section
 
+openpgp-external-key-title = Արտաքին GnuPG բանալի
+openpgp-external-key-description = Կազմաձեւել արտաքին GnuPG բանալին՝ գրելով բանալիի ID-ն
+openpgp-external-key-info = Կախուածութեան դէպքում դուք պէտք է աւգտագործէք բանալիների կառավարիչ՝ ներուծման համար, եւ ընդունէք համապատասխան հանրային բանալին։
+openpgp-external-key-warning = <b> Դուք կարող էք կարգաւորել միայն մեկ արտաքին GnuPG բանալի։</b> Ձեր նախորդ գրառումը կը փոխարինուի։
+openpgp-save-external-button = Պահպանել բանալու հասցէն
+openpgp-external-key-label = Գաղտնի բանալու հասցէ
+openpgp-external-key-input =
+    .placeholder = 123456789341298340
