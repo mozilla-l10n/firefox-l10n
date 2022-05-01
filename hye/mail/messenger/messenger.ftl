@@ -173,9 +173,15 @@ addon-removal-confirmation-message = Հեռացնե՞լ { $name }-ը, ինչպէ
 caret-browsing-prompt-title = Ստեղնային դիտարկում
 caret-browsing-prompt-text = Սեղմելով F7-ը միացնում կամ անջատում է ստեղնային դիտարկումը: Այս յատկութիւնը տեղաւորում է շարժական նշորդը որոշ բովանդակութեան մէջ՝ թոյղ տալով ընտրել գրոյթը ստեղնաշարով: Ցանկանու՞մ էք միացնել ստեղնային դիտարկումը:
 caret-browsing-prompt-check-text = Այղեւս չհարցնել։
+repair-text-encoding-button =
+    .label = Վերականգնել տեքստի կոդաւորումը
+    .tooltiptext = Գուշակիր տեքստի ճիշտ կոդաւորումը հաղորդագրութեան բովանդակութիւնից
 
 ## no-reply handling
 
+no-reply-title = Պատասխանը չի աջակցուում
+no-reply-message = Պատասխանի հասցէն ({ $email }) կարծէս վերահսկուող հասցէ չէ: Այս հասցէին ուղղուած հաղորդագրութիւնները հաւանաբար ոչ ոք չի կարդայ:
+no-reply-reply-anyway-button = Պատասխանել ամէն դէպքում
 
 ## error messages
 
