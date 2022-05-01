@@ -26,3 +26,5 @@ openpgp-key-undecided = დაუშვებელი (გადაუწყვ
 openpgp-key-rejected = დაუშვებელი (უარყოფილი)
 openpgp-key-expired = ვადაგასულია
 openpgp-intro = ხელმისაწვდომია საჯარო გასაღებები { $key }-სთვის
+openpgp-pubkey-import-id = ID: { $kid }
+openpgp-pubkey-import-fpr = ანაბეჭდი: { $fpr }

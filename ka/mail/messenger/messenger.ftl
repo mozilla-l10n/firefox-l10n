@@ -130,6 +130,22 @@ message-header-msg-flagged =
 message-header-msg-not-flagged =
     .title = უვარსკვლავო წერილი
 
+## Message header cutomize panel
+
+message-header-customize-panel-title = წერილის თავსართი პარამეტრები
+message-header-customize-button-style =
+    .value = ღილაკის გაფორმება
+    .accesskey = კ
+message-header-button-style-default =
+    .label = ხატულები და წარწერები
+message-header-button-style-text =
+    .label = წარწერა
+message-header-button-style-icons =
+    .label = ხატულები
+message-header-large-subject =
+    .label = თემა გადიდებულად
+    .accesskey = ე
+
 ## Action Button Context Menu
 
 toolbar-context-menu-manage-extension =
@@ -172,24 +188,6 @@ decrypt-and-copy-failures = { $failures }, ჯამში { $total } წერ�
 
 ## Spaces toolbar
 
-spaces-toolbar =
-    .toolbarname = არეების ზოლი
-spaces-toolbar-button-mail =
-    .title = გადასვლა ფოსტის ჩანართზე
-spaces-toolbar-button-address-book =
-    .title = გადასვლა წიგნაკის ჩანართზე
-spaces-toolbar-button-calendar =
-    .title = გადასვლა კალენდრის ჩანართზე
-spaces-toolbar-button-tasks =
-    .title = გადასვლა დავალებების ჩანართზე
-spaces-toolbar-button-chat =
-    .title = გადასვლა სასაუბროს ჩანართზე
-spaces-toolbar-button-settings =
-    .title = გადასვლა პარამეტრების ჩანართზე
-spaces-toolbar-button-collapse =
-    .title = არეების ზოლის შეკეცვა
-spaces-toolbar-button-reveal =
-    .title = არეების ზოლის გამოჩენა
 spaces-toolbar-element =
     .toolbarname = არეების ზოლი
     .aria-label = არეების ზოლი
@@ -241,8 +239,6 @@ spaces-pinned-button-menuitem-tasks =
     .label = { spaces-toolbar-button-tasks.title }
 spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
-spaces-pinned-button-menuitem-reveal =
-    .label = { spaces-toolbar-button-reveal.title }
 spaces-pinned-button-menuitem-settings =
     .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
@@ -260,6 +256,8 @@ chat-button-unread-messages = { $count }
 
 spaces-context-customize =
     .label = მორგება…
+menuitem-customize-label =
+    .label = მორგება…
 spaces-customize-panel-title = არეების მენიუს პარამეტრები
 spaces-customize-background-color = ფონის ფერი
 spaces-customize-icon-color = ღილაკის ფერი
@@ -272,4 +270,6 @@ spaces-customize-accent-text-color = არჩეული ღილაკის
 spaces-customize-button-restore = ნაგულისხმევის აღდგენა
     .accesskey = ნ
 spaces-customize-button-save = მზადაა
+    .accesskey = ზ
+customize-panel-button-save = მზადაა
     .accesskey = ზ
