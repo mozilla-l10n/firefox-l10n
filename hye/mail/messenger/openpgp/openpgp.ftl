@@ -490,8 +490,35 @@ revoke-key-not-present =
 #   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = 0x{ $keyId } բանալին արդէն չեղարկուել է:
 key-man-button-revoke-key = &Հետ կանչել բանալին
+openpgp-key-revoke-success = Բանալին յաջողութեամբ յետ է կանչուել:
+after-revoke-info =
+    Բանալին յետ է առնուել։
+    Կրկին տարածէք այս հանրային բանալին՝ ուղարկելով այն եղ. փոստով կամ վերբեռնելով բանալի սպասարկիչներ՝ ուրիշներին տեղեկացնելով, որ դուք յետ եք առել Ձեր բանալին:
+    Հէնց որ այղ մարդկանց կողմից աւգտագործուող ծրագրաշարն իմանայ յետ կանչման մասին, այն կը դադարի աւգտագործել Ձեր հին բանալին:
 # Strings in keyRing.jsm & decryption.jsm
-key-man-button-import = &Ներածել
+key-man-button-import = &Ներմուծել
+delete-key-title = Ջնջել OpenPGP բանալին
+delete-external-key-title = Հեռացնել արտաքին GnuPG բանալին
+delete-external-key-description = Ցանկանու՞մ էք հեռացնել այս արտաքին GnuPG բանալու ID-ն․
+key-in-use-title = OpenPGP բանալին ներկայ պահին աւգտագործուում է
+delete-key-in-use-description = Անհնար է շարունակել: Բանալին, որը դուք ընտրել էք ջնջելու համար, ներկայումս աւգտագործուում է այս ինքնութեան կողմից: Ընտրէք մեկ այղ բանալի կամ մի ընտրէք ոչ մեկը եւ կրկին փորձէք:
+revoke-key-in-use-description = Անհնար է շարունակել։ Բանալին, որը դուք ընտրել էք ջնջելու համար, ներկայումս աւգտագործուում է այս ինքնութեան կողմից: Ընտրէք մեկ այղ բանալի կամ մի ընտրէք ոչ մեկը եւ կրկին փորձէք:
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = Եղ․փոստի հասցէն «{ $keySpec }» չի համընկնում Ձեր ստեղնաշարի բանալիի հետ:
+key-error-key-id-not-found = Կազմաձեւուած բանալու ID-ն «{ $keySpec }» չի գտնուել Ձեր ստեղնաշարի վրայ:
+key-error-not-accepted-as-personal = Դուք չէք հաստատել, որ «{ $keySpec }» ID-ով բանալին Ձեր անձնականն է:
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Ձեր ընտրած գործառոյթը հասանելի չէ ցանցից դուրս։ Խնդրում ենք միանալ ցանցին եւ կրկին փորձել։
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Մենք չկարողացանք գտնել որեւէ բանալի, որը համապատասխանում է նշուած որոնման չափանիշներին:
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Սխալ․ բանալիների արտահանման հրամանը ձախողուեց
+# Strings used in keyRing.jsm
+fail-cancel = Խափանում ֊ բանալու ստացումը չեղարկուեց աւգտատիրոջ կողմից
+not-first-block = Խափանում ֊ առաջին OpenPGP արգելափակման ոչ հանրային բանալու արգելափակում
+import-key-confirm = Ներմուծե՞լ հասարակական բանալի(ները) ներմուծուած հաղորդագրութեան մէջ։
+fail-key-import = Խափանում ֊ բանալու ներածումը խափանուեց
+file-write-failed = Չյաջողուեց գրել նիշում { $output }
 
 # Strings used in enigmailMessengerOverlay.js
 
