@@ -185,14 +185,51 @@ no-reply-reply-anyway-button = Պատասխանել ամէն դէպքում
 
 ## error messages
 
+decrypt-and-copy-failures = { $failures } { $total } հաղորդագրութիւններից հնարաւոր չէ վերծանել եւ պատճենուել
 
 ## Spaces toolbar
 
+spaces-toolbar-element =
+    .toolbarname = Բացատների գործիքագաւտի
+    .aria-label = Բացատների գործիքագաւտի
+    .aria-description = Ուղղահայեաց գործիքագաւտի՝ տարբեր տարածքների միջեւ անցում կատարելու համար: Աւգտագործէք սլաքների ստեղները՝ հասանելի կոճակներով ուղղորդուելու համար:
+spaces-toolbar-button-mail2 =
+    .title = Փոստ
+spaces-toolbar-button-address-book2 =
+    .title = Հասցէագիրք
+spaces-toolbar-button-calendar2 =
+    .title = Աւրացոյց
+spaces-toolbar-button-tasks2 =
+    .title = Առաջադրանքներ
+spaces-toolbar-button-chat2 =
+    .title = Զրուցարան
+spaces-toolbar-button-overflow =
+    .title = Աւելի շատ տարածքներ․․․
+spaces-toolbar-button-settings2 =
+    .title = Կարգաւորումներ
+spaces-toolbar-button-hide =
+    .title = Թաքցնել բացատների գործիքագաւտին
+spaces-toolbar-button-show =
+    .title = Ցոյց տալ բացատների գործիքագաւտին
+spaces-context-new-tab-item =
+    .label = Բացել նոր ներդիր
+spaces-context-new-window-item =
+    .label = Բացել նոր պատուհանում
+# Variables:
+# $tabName (String) - The name of the tab this item will switch to.
+spaces-context-switch-tab-item =
+    .label = Անցնել { $tabName }-ին
+settings-context-open-settings-item =
+    .label = Բացել կարգաւորումները
+settings-context-open-account-settings-item =
+    .label = Բացել հաշուի կարգաւորումները
 settings-context-open-addons-item =
     .label = Բացել յաւելումներ եւ հիմնապատկերներ
 
 ## Spaces toolbar pinned tab menupopup
 
+spaces-toolbar-pinned-tab-button =
+    .tooltiptext = Գործիքաշերտի ցանկ
 
 ## Spaces toolbar customize panel
 
