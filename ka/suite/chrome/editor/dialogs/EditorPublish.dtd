@@ -51,7 +51,7 @@
 <!ENTITY siteUrl.label                "გამოქვეყნების მისამართი (მაგ.: 'ftp://ftp.myisp.com/myusername'):">
 <!ENTITY siteUrl.accesskey            "a">
 <!ENTITY siteUrl.tooltip              "FTP:// ან HTTP:// მისამართი, რომელიც თქვენმა ISP-მ ან მასპინძელმა სერვერმა მოგაწოდათ">
-<!ENTITY browseUrl.label              "თქვენი სათაო გვერდის HTTP მისამართი (მაგ.: 'http://www.myisp.com/myusername'):">
+<!ENTITY browseUrl.label              "თქვენი საწყისი გვერდის HTTP-მისამართი (მაგ.: „http://www.chemiisp.com/zedmetsakheli“):">
 <!ENTITY browseUrl.accesskey          "T">
 <!ENTITY browseUrl.tooltip            "HTTP:// მისამართი ან საბაზო საქაღალდე (ფაილის სახელი არ მიუთითოთ)">
 <!ENTITY username.label               "თქვენი სახელი:">
