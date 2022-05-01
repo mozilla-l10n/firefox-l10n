@@ -347,6 +347,25 @@ key-usage-authentication = Վաւերացում
 key-does-not-expire = Բանալին չի սպառուում
 key-expired-date = Բանալին սպառուել է { $keyExpiry }֊ին
 key-expired-simple = Բանալին ժամկէտանց է
+key-revoked-simple = Բանալին մերժուած է
+key-do-you-accept = Ընդունու՞մ էք այս բանալին թուային ստորագրութիւնները ստուգելու եւ հաղորդագրութիւնների ծածկագրման համար:
+key-accept-warning = Խուսափէք կեղծ բանալին ընդունելուց: Ձեր թղթակցի բանալու մատնահետքը ստուգելու համար աւգտագործէք այղ հաղորդակցման ալիք բացի եղ․փոստից:
+key-verification = Ստուգէք բանալու մատնահետքը՝ աւգտագործելով անվտանգ հաղորդակցման ալիք, բացի եղ․փոստից, համոզուելու համար, որ դա իսկապէս { $addr }-ի բանալին է
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Հնարաւոր չէ ուղարկել հաղորդագրութիւնը, քանի որ խնդիր կայ Ձեր անձնական բանալու հետ: { $problem }
+cannot-encrypt-because-missing = Հնարաւոր չէ ուղղարկել այս նամակը ծայրէծայր ծածկագրումով, քանի որ խնդիրներ կան հետեւալ հասցէատէրերի բանալիների հետ․{ $problem }
+window-locked = Կազմելու պատուհանը կողպուած է; ուղարկումը չեկարկուել է
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Կոդաւորուած հաղորդագրութեան մաս
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-concealed-data = Սա հաղորդագրութեան ծածկագրուած մաս է։ Դուք պէտք է այն բացէք առանձին պատուհանում՝ սեղմելով յաւելուածի վրայ:
+# Strings in keyserver.jsm
+keyserver-error-aborted = Ընդհատուած
+keyserver-error-unknown = Տեղի ունեցաւ անյայտ սխալ
+keyserver-error-server-error = Բանալիների սպասարկիչը յայտնել է սխալի մասին:
+keyserver-error-import-error = Չյաջողուեց ներմուծել ներբեռնուած բանալին:
+keyserver-error-unavailable = Բանալու սպասարկիչը հասանելի չէ:
+keyserver-error-security-error = Բանալիների սպասարկիչը չի աջակցում գաղտնագրուած մուտքին:
 import-info-fpr = Մատնահետք
 
 ## Account settings export output
