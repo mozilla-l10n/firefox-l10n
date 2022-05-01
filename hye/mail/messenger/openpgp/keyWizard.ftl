@@ -90,8 +90,27 @@ openpgp-import-key-list-amount =
         [one] Thunderbird-ը գտել է մեկ բանալի, որը կարելի է ներմուծել:
        *[other] Thunderbird֊ը գտել է բանալիներ որոնք կարելի է ներմուծել
     }
+openpgp-import-key-list-description = Հաստատէք, թե որ բանալիները կարող են դիտուել, որպէս Ձեր անձնական բանալիներ: Որպէս անձնական բանալիներ պէտք է աւգտագործուեն միայն այն բանալիները, որոնք դուք ինքներդ էք ստեղծել, եւ որոնք ցոյց են տալիս Ձեր ինքնութիւնը: Դուք կարող եք փոխել այս տարբերակը աւելի ուշ՝ հիմնական յատկութիւնների երկխաւսութեան մէջ:
+openpgp-import-key-list-caption = Բանալիները, որոնք նշուած են որպէս անձնական բանալիներ, կը ցուցադրուեն ծայրէծայր ծածկագրման բաժնում: Մեւսները հասանելի կը լինեն բանալիների կառավարիչի ներսում:
+openpgp-passphrase-prompt-title = Պահանջուում է անցաբառ
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Խնդրում ենք մուտքագրել անցաբառը՝ յետեւալ բանալին բացելու համար. { $key }
+openpgp-import-key-button =
+    .label = Ընտրել նիշ՝ ներմուծման համար
+    .accesskey = Ը
+import-key-file = Ներմուծել OpenPGP բանալի նիշը
+import-key-personal-checkbox =
+    .label = Վերաբերուէք այս բանալուն, որպէս անձնական բանալի
 gnupg-file = GnuPG Նիշեր
+import-error-file-size = <b>Սխալ</b> 5 ՄԲ-ից մեծ նիշերը չեն աջակցուում:
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Սխալ</b> Չյաջողուեց ներմուծել նիշը: { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Սխալ</b> Չյաջողուեց ներմուծել բանալիները: { $error }
+openpgp-import-identity-label = Ինքնութիւն
 openpgp-import-fingerprint-label = Մատնահետք
+openpgp-import-created-label = Ստեղծուած
+openpgp-import-bits-label = Բիթեր
 
 ## External Key section
 
