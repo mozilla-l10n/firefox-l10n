@@ -152,6 +152,82 @@ openpgp-key-man-ctx-expor-to-file-label =
 openpgp-key-man-ctx-copy =
     .label = Պատճէնել
     .accesskey = Պ
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+            [one] Մատնահետք
+           *[other] Մատնահետքեր
+        }
+    .accesskey = Մ
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Բանալու ID
+           *[other] Բանալու ID֊ներ
+        }
+    .accesskey = Բ
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+            [one] Հանրային բանալի
+           *[other] Հանրային բանալիներ
+        }
+    .accesskey = Հ
+openpgp-key-man-close =
+    .label = Փակել
+openpgp-key-man-reload =
+    .label = Վերաբեռնել բանալիների յիշապահեստը
+    .accesskey = Վ
+openpgp-key-man-change-expiry =
+    .label = Փոխել ժամկէտի աւարտման ամսաթիւը
+    .accesskey = ժ
+openpgp-key-man-ignored-ids =
+    .label = Եղ․ փոստի հասցէներ
+openpgp-key-man-del-key =
+    .label = Ջնջել բանալին(ները)
+    .accesskey = Ջ
+openpgp-delete-key =
+    .label = Ջնջել բանալին
+    .accesskey = Ջ
+openpgp-key-man-revoke-key =
+    .label = Չեղեալ համարել բանալին
+    .accesskey = Չ
+openpgp-key-man-key-props =
+    .label = Բանալու յատկութիւնները
+    .accesskey = K
+openpgp-key-man-key-more =
+    .label = Աւելին
+    .accesskey = Ա
+openpgp-key-man-view-photo =
+    .label = Նկարի ID
+    .accesskey = Ն
+openpgp-key-man-ctx-view-photo-label =
+    .label = Դիտել լուսանկարի ID-ն
+openpgp-key-man-show-invalid-keys =
+    .label = Ցոյց տալ անվաւեր բանալիները
+    .accesskey = Ց
+openpgp-key-man-show-others-keys =
+    .label = Ցոյց տալ այղ մարդկանց բանալիները
+    .accesskey = ա
+openpgp-key-man-user-id-label =
+    .label = Անուն
+openpgp-key-man-fingerprint-label =
+    .label = Մանտնահետք
+openpgp-key-man-select-all =
+    .label = Ընտրել բոլոր բանալիները
+    .accesskey = բ
+openpgp-key-man-empty-tree-tooltip =
+    .label = Մուտքագրէք որոնման տուեալները վերեւի վանդակում
+openpgp-key-man-nothing-found-tooltip =
+    .label = Ոչ մի բանալի չի համապատասխանում Ձեր որոնման տերմիններին
+openpgp-key-man-please-wait-tooltip =
+    .label = Խնդրում ենք սպասել մինչեւ բանալիները բեռնուեն…
+openpgp-key-man-filter-label =
+    .placeholder = Որոնել բանալիներ
+openpgp-key-man-select-all-key =
+    .key = A
+openpgp-key-man-key-details-key =
+    .key = I
 openpgp-copy-cmd-label =
     .label = Պատճէն
 
