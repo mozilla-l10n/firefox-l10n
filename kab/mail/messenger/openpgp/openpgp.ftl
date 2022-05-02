@@ -448,6 +448,15 @@ delete-key-title = Kkes tasarut OpenPGP
 delete-external-key-title = Kkes tasarut tazɣarayt GnuPG
 delete-external-key-description = Tebɣiḍ ad tekkseḍ asulay-a n tsarut tazɣarayt GnuPG?
 key-in-use-title = Tasarut OpenPGP la tettwaseqdac akka tura
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = Tansa n yimayl ‘{ $keySpec }’ ur temṣada ula d yiwet tsarut tesεiḍ deg uqettun n tsura i tesεiḍ.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Tuccḍa - tiludna n tussfa n tsarut ur teddi ara
+# Strings used in keyRing.jsm
+fail-cancel = Tuccḍa - armas n tsarut tettwasefsex sɣur aseqdac
+not-first-block = Tuccḍa - Iḥder amezwaru OpenPGP mačči d iḥder n tsarut tazayazt
+fail-key-import = Tuccḍa - aktar n tsarut yecceḍ
+file-write-failed = Tuccḍa n tira deg ufaylu { $output }
 # Strings used in trust.jsm
 key-valid-unknown = arussin
 key-valid-invalid = arameɣtu
@@ -455,16 +464,24 @@ key-valid-disabled = yensa
 key-valid-revoked = yettwaḥwi
 key-valid-expired = yemmut
 key-trust-untrusted = ur yettwaman ara
+key-trust-marginal = adisan
 key-trust-full = yettwaman
+key-trust-ultimate = amagdez
 key-trust-group = (agraw)
 # Strings used in commonWorkflows.js
 import-key-file = Kter afaylu n tsarut OpenPGP
 gnupg-file = Ifuyla GnuPG
+import-keys-failed = Aktar n tsura ur yeddi ara
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Rnu & Sekles aselkin n uḥway
 gen-going = Asirew n tsarut yebda yakan iteddu!
 expiry-too-short = Tasarut-ik·im ilaq ad tili d tameɣtut xerṣum yiwen wass.
 expiry-too-long = Ur tezmireḍ ara ad d-tesnulfuḍ tasarut ara yemmten deg wugar n 100 n yiseggasen.
 key-confirm = Sirew tasarut tazayezt tufurt i ‘{ $id }’?
+key-man-button-generate-key = Sirew tasarut
 key-abort = Sefsex asirew n tsarut
+key-man-button-generate-key-abort = &Sefsex asirew n tsarut
+key-man-button-generate-key-continue = &Kemmel asirew n tsarut
 
 # Strings used in enigmailMessengerOverlay.js
 
@@ -479,6 +496,7 @@ key-expired = Tasarut ‘{ $key }’ temmut
 msg-compose-internal-error = Tella-d tuccḍa tagensant.
 keys-to-export = Fren tisura OpenPGP ara terreḍ
 msg-compose-cannot-save-draft = Tuccḍæ deg usekles n urewway
+save-attachment-header = Sekles amedday yettwawgelhen
 compose-menu-attach-key =
     .label = Seddu tasarut-iw tazayazt
     .accesskey = S
@@ -491,6 +509,7 @@ do-import-multiple =
     { $key }
 do-import-one = Kter { $name } ({ $id })?
 cant-import = Tuccḍa deg uktar n tasarut tazayazt
+sig-mismatch = Tuccḍa - Asezmel ur yemṣada ara
 invalid-email = Tuccḍa - tansa(tansiwin) n yimayl tarameɣtut(tirimeɣta)
 dlg-button-view = &Sken
 # Strings used in encryption.jsm
