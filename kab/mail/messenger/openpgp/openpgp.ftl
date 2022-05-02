@@ -365,11 +365,15 @@ mime-decrypt-encrypted-part-concealed-data = Wagi d aḥric n yizen yettwawgelhe
 keyserver-error-aborted = Yettwaseḥbes
 keyserver-error-unknown = Taḍra-d tuccda tarussint
 keyserver-error-server-error = Aqeddac n tsarut yuzen-d aneqqis n tuccḍa.
-keyserver-error-import-error = Aktar n tsarut n usali yecceḍ.
+keyserver-error-import-error = Aktar n tsarut n usader yecceḍ.
 keyserver-error-unavailable = Ulac aqeddac n tsura.
 keyserver-error-security-error = Aqeddac n tsura ur issefrak ara anekcum awgelhan.
 keyserver-error-certificate-error = Aselkin n uqeddac n tsura d arameɣtu.
 keyserver-error-unsupported = Aqeddac n tsura ur yettusefrak ara.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Asaǧǧaw-inek n yimayl issesfer assuter-ik n tuzna n tsarut-ik tazayazt ɣer ukaram n tsura web OpenPGP.
+    Ma ulac aɣilif, sentem i wakken ad yemmed usuffeɣ n tsarut-ik tazayazt.
 # Strings in gpg.jsm
 unknown-signing-alg = Alguritm n uzmel arussin (asulay : { $id })
 unknown-hash-alg = Adṣil umḍil arussin (Asulay : { $id })
@@ -394,6 +398,11 @@ import-info-details = Sken talqayt daɣen sefrek aqbayl n tsura
 import-info-no-keys = Ulac tisura i d-yettwaketren.
 # Strings in enigmailKeyManager.js
 import-from-clip = Tebɣiḍ ad tketreḍ kra n tsura yellan ɣef afus?
+copy-to-clipbrd-ok = Tasarut(tisura) tettwanɣel(ttwaneɣlent) ɣer tecfawt
+delete-pub-key =
+    Tebɣiḍd ad tekkseḍ tasarut tazayazt
+    ‘{ $userId }’?
+delete-selected-pub-key = Tebɣiḍd ad tekkseḍ tasarut tazayazt?
 export-to-file = Sifeḍ tasarut tazayezt ɣer ufaylu
 general-error = Tuccḍa: { $reason }
 dlg-button-delete = &Kkes
