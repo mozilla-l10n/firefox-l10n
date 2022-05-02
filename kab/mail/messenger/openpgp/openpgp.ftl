@@ -472,8 +472,11 @@ key-trust-group = (agraw)
 import-key-file = Kter afaylu n tsarut OpenPGP
 gnupg-file = Ifuyla GnuPG
 import-keys-failed = Aktar n tsura ur yeddi ara
+passphrase-prompt = Ma ulac aɣilif, sekcem tafyirt n uɛeddi ara yeldi n tasarut: { $key }
+file-to-big-to-import = Afaylu-a d ameqqran aṭas. Ma ulac aɣilif, ur d-ketter ara taggayt tameqqrant n tsura ɣef tikkelt.
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Rnu & Sekles aselkin n uḥway
+revoke-cert-failed = Aselkin yettuẓaɛen yegguma ad yettaru.
 gen-going = Asirew n tsarut yebda yakan iteddu!
 expiry-too-short = Tasarut-ik·im ilaq ad tili d tameɣtut xerṣum yiwen wass.
 expiry-too-long = Ur tezmireḍ ara ad d-tesnulfuḍ tasarut ara yemmten deg wugar n 100 n yiseggasen.
