@@ -403,6 +403,7 @@ delete-pub-key =
     Tebɣiḍd ad tekkseḍ tasarut tazayazt
     ‘{ $userId }’?
 delete-selected-pub-key = Tebɣiḍd ad tekkseḍ tasarut tazayazt?
+refresh-all-question = Ur tefrineḍ ula d yiwet n tsarut. Tebɣiḍ asmiren n meṛṛa tisura?
 export-to-file = Sifeḍ tasarut tazayezt ɣer ufaylu
 general-error = Tuccḍa: { $reason }
 dlg-button-delete = &Kkes
