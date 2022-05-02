@@ -168,6 +168,7 @@ protocol-exchange-option = { account-setup-result-exchange }
 account-setup-hostname-label = Asenneftaɣ:
 account-setup-port-label = Tawwurt:
     .title = Sbadu amḍan n tewwurt ɣer 0 i tifin tawurmant
+account-setup-auto-description = { -brand-short-name } yettaɛraḍ ad d-yaf s wudem awurman urtiyen yeqqimen d ilmawen.
 account-setup-ssl-label = Taɣellist n tuqqna:
 account-setup-outgoing-server-legend = Aqeddac uffiɣen
 
@@ -197,6 +198,7 @@ account-setup-warning-cleartext = <b>{ $server }</b> ur isseqdac ara awgelhen.
 account-setup-warning-cleartext-details = Iqeddacen n tirawt ur nelli ara d iɣalsanen ur seqdacen ara tuqqna tawgelhant akken ad mmestnen awalen-inek uffiren akked talɣut-inek tusligt.
 account-setup-insecure-server-checkbox = Gziɣ d acu ara d-yeḍrun
     .accesskey = G
+account-setup-insecure-description = { -brand-short-name } yezmer ak-isireg akken ad tawiḍ imayl inek s useqdec n twila d-ittunefken. Acu kan,  yessefk ad tenermseḍ anebdal-inek neɣ win i k-d-imudden imayl inek s tuqqniwin ur nwata yara. Wali <a data-l10n-name="thunderbird-faq-link">Isteqsiyen FAQ</a> i wugar n telɣut.
 insecure-dialog-cancel-button = Snifel tawila
     .accesskey = S
 insecure-dialog-confirm-button = Sentem
@@ -213,6 +215,7 @@ exchange-dialog-cancel-button = Sefsex
 ## Dismiss account creation dialog
 
 exit-dialog-title = Ulac amiḍan n yimayl yettusawlen
+exit-dialog-description = D tidet tebɣiḍ ad tesfesxeḍ akala n usesteb? Ur { -brand-short-name } mazal yezmer ad yettuseqdec s war amiḍan n yimayl, maca aṭas n tmahilin ur ttilint ara.
 account-setup-no-account-checkbox = Seqdec { -brand-short-name } s war amiḍan n yimayl
     .accesskey = S
 exit-dialog-cancel-button = Kemmel tawila
