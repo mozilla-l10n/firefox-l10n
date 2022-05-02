@@ -234,6 +234,7 @@ account-setup-confirm-advanced-description = Adiwenni-a ad imdel, amaɣnu s yiɣ
 
 account-setup-addon-install-title = Sebded
 account-setup-addon-install-intro = Azegrir wis tlata ad k-yeǧǧ ad tkecmeḍ ɣer umiḍan-ik n tirawt ɣef uqeddac-a:
+account-setup-addon-no-protocol = Nesḥassef, aqeddac-a n yimayl ur issefrak ara ineggafen yeldin. { account-setup-addon-install-intro }
 
 ## Success view
 
