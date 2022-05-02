@@ -38,3 +38,6 @@ openpgp-pubkey-import-accept =
         [one] Accettare questa chiave per la verifica delle firme digitali e per la crittatura dei messaggi, per tutti gli indirizzi email visualizzati?
        *[other] Accettare queste chiavi per la verifica delle firme digitali e per la crittatura dei messaggi, per tutti gli indirizzi email visualizzati?
     }
+pubkey-import-button =
+    .buttonlabelaccept = Importa
+    .buttonaccesskeyaccept = m

@@ -163,13 +163,24 @@ menu-sign =
 menu-manage-keys =
     .label = Assistente chiavi
     .accesskey = A
+menu-view-certificates =
+    .label = Visualizza certificati dei destinatari
+    .accesskey = V
 menu-open-key-manager =
     .label = Gestore chiavi
     .accesskey = G
+openpgp-key-issue-notification-one = Per utilizzare la crittografia end-to-end è necessario risolvere i problemi con la chiave per { $addr }
+openpgp-key-issue-notification-many = Per utilizzare la crittografia end-to-end è necessario risolvere i problemi con la chiave per { $count } destinatari.
+smime-cert-issue-notification-one = Per utilizzare la crittografia end-to-end è necessario risolvere i problemi con il certificato per { $addr }
+smime-cert-issue-notification-many = Per utilizzare la crittografia end-to-end è necessario risolvere i problemi con il certificato per { $count } destinatari.
 key-notification-disable-encryption =
     .label = Non crittare
     .accesskey = N
     .tooltiptext = Disattiva la crittografia end-to-end
+key-notification-resolve =
+    .label = Risolvi…
+    .accesskey = R
+    .tooltiptext = Apri l’assistente chiavi OpenPGP
 
 ## Addressing Area
 
