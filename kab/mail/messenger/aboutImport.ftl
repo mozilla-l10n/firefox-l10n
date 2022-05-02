@@ -49,6 +49,7 @@ addr-book-sqlite-file = Afaylu n taffa n yisefka n SQLite (.sqlite)
 addr-book-mab-file = Afaylu n taffa n yisefka s umasal Mork (.mab)
 addr-book-file-picker = Fren afaylu n yimedlis n tensa
 addr-book-csv-field-map-title = Semṣadi gar yismawen n wurti
+addr-book-csv-field-map-desc = Fren urtiyen n umedlis n tansiwin yemṣaddan d wurtiyen iɣbual. Kkes aṛcam i wurtiyen ur tebɣiḍ ara ad d-tketreḍ.
 addr-book-directories-pane-title = Fren akaram i tebqiḍ ad d-tketreḍ:
 addr-book-directories-pane-source = Afaylu aɣbalu:
 addr-book-import-into-new-directory = Snulfu-d akaram amaynut
@@ -65,12 +66,12 @@ calendar-import-into-new-calendar = Rnu awitay amaynut
 
 ## Import dialog
 
-progress-pane-title = Aktar
 progress-pane-importing = Aktar
 progress-pane-exporting = Asifeḍ
 progress-pane-finished-desc = Ifuk.
 progress-pane-restart-desc = Ales asenker i wakken ad yemmed uktar.
 error-pane-title = Tuccḍa
+error-message-zip-file-too-big = Teɣzi n ufaylu zip yettwafernen meqqer ɣef 2GAṬ. Ma ulac aɣilif, ssenf-it qbel syen kter seg ukaram n tussfa xiṛ.
 
 ## <csv-field-map> element
 
