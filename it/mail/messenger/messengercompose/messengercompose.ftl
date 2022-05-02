@@ -81,6 +81,13 @@ context-menuitem-attach-files =
     .label = Allega file…
     .accesskey = f
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = La mia vCard
+    .accesskey = C
+context-menuitem-attach-openpgp-key =
+    .label = La mia chiave pubblica OpenPGP
+    .accesskey = O
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
@@ -126,6 +133,43 @@ message-to-be-signed-icon =
     .alt = Firma il messaggio
 message-to-be-encrypted-icon =
     .alt = Critta il messaggio
+encryption-menu =
+    .label = Sicurezza
+    .accesskey = S
+encryption-toggle =
+    .label = Critta
+    .tooltiptext = Utilizza crittografia end-to-end per questo messaggio
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = Visualizza o modifica le impostazioni della crittografia OpenPGP
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = Visualizza o modifica le impostazioni della crittografia S/MIME
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = O
+menu-smime =
+    .label = S/MIME
+    .accesskey = S
+menu-encrypt =
+    .label = Critta
+    .accesskey = C
+menu-encrypt-subject =
+    .label = Critta l’oggetto
+    .accesskey = o
+menu-sign =
+    .label = Apponi firma digitale
+    .accesskey = f
+menu-manage-keys =
+    .label = Assistente chiavi
+    .accesskey = A
+menu-open-key-manager =
+    .label = Gestore chiavi
+    .accesskey = G
+key-notification-disable-encryption =
+    .label = Non crittare
+    .accesskey = N
+    .tooltiptext = Disattiva la crittografia end-to-end
 
 ## Addressing Area
 
