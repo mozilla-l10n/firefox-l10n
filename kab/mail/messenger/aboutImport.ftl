@@ -74,6 +74,8 @@ error-pane-title = Tuccḍa
 error-message-zip-file-too-big = Teɣzi n ufaylu zip yettwafernen meqqer ɣef 2GAṬ. Ma ulac aɣilif, ssenf-it qbel syen kter seg ukaram n tussfa xiṛ.
 error-message-extract-zip-file-failed = Tecceḍ tussfa n ufaylu zip. Ma ulac aɣilif, ssef-it s ufus syen kter seg ukaram yettwaseffen deg wadeg n wayen.
 error-message-failed = Aktar yecceḍ, d ayen ur nettwarǧa ara. Ugar n telɣut tezmer ad tili deg Console n tuccḍa.
+error-failed-to-parse-ics-file = Ulac iferdisen ara yettwaktaren deg ufaylu.
+error-export-failed = Asifeḍ yecceḍ, d ayen ur nettwarǧa ara. Ugar n telɣut tezmer ad tili deg Console n tuccḍa.
 
 ## <csv-field-map> element
 
@@ -85,6 +87,8 @@ csv-target-field = Urtan n imedlis n tensa
 
 ## Export tab
 
+export-profile-desc = Sifeḍ imianen n yimayl, iznan n yimayl, imedlisen n tansiwin, iɣewwaren ɣer ufaylu zip. Mi ara yettwasra, tzemreḍ ad tketreḍ afaylu zip i tririt n umaɣnu.
+export-profile-desc2 = Ma yella amaɣun-ik amiran meqqer nnig 2GAṬ, ad ak-nsumer ad t-tḥerzeḍ kečč s timmad-ik.
 export-open-profile-folder = Ldi akaram n umaɣnu
 export-file-picker = Sifeḍ afaylu s umasal zip
 export-brand-name = { -brand-product-name }
