@@ -112,6 +112,7 @@ openpgp-key-man-backup-secret-keys =
 openpgp-key-man-discover-cmd =
     .label = Nadi tisura srid
     .accesskey = N
+openpgp-key-man-discover-prompt = I unadi n tsura OpenPGP srid, ɣef yiqeddacen n tsura neɣ s useqdec n uneggaf WKD, sekcem tansa n yimayl neɣ asulay n tsarut.
 openpgp-key-man-discover-progress = Anadi…
 openpgp-key-copy-key =
     .label = Nɣel tasarut tazayazt
@@ -358,10 +359,17 @@ cannot-encrypt-because-missing = D awezɣi ad yettwazen yizen s uwgelhen seg yix
 window-locked = Asfaylu n usuddes yemdel; tuzna tettwasefsex
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Aḥric n yizen yettwawgelhen
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-concealed-data = Wagi d aḥric n yizen yettwawgelhen. Tesriḍd ad t-teldiḍ deg usfaylu weḥd-s s usiti ɣef umedday.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Yettwaseḥbes
 keyserver-error-unknown = Taḍra-d tuccda tarussint
 keyserver-error-server-error = Aqeddac n tsarut yuzen-d aneqqis n tuccḍa.
+keyserver-error-import-error = Aktar n tsarut n usali yecceḍ.
+keyserver-error-unavailable = Ulac aqeddac n tsura.
+keyserver-error-security-error = Aqeddac n tsura ur issefrak ara anekcum awgelhan.
+keyserver-error-certificate-error = Aselkin n uqeddac n tsura d arameɣtu.
+keyserver-error-unsupported = Aqeddac n tsura ur yettusefrak ara.
 # Strings in gpg.jsm
 unknown-signing-alg = Alguritm n uzmel arussin (asulay : { $id })
 unknown-hash-alg = Adṣil umḍil arussin (Asulay : { $id })
