@@ -478,6 +478,7 @@ file-to-big-to-import = Afaylu-a d ameqqran aṭas. Ma ulac aɣilif, ur d-ketter
 save-revoke-cert-as = Rnu & Sekles aselkin n uḥway
 revoke-cert-failed = Aselkin yettuẓaɛen yegguma ad yettaru.
 gen-going = Asirew n tsarut yebda yakan iteddu!
+keygen-missing-user-name = Ulac akk isem i d-yettufernen i umiḍan/timagit yettwafernen. Ttxil-k·m sekcem azal deg wurti•"isem-inek·inem" deg yiɣewwaren n umiḍan.
 expiry-too-short = Tasarut-ik·im ilaq ad tili d tameɣtut xerṣum yiwen wass.
 expiry-too-long = Ur tezmireḍ ara ad d-tesnulfuḍ tasarut ara yemmten deg wugar n 100 n yiseggasen.
 key-confirm = Sirew tasarut tazayezt tufurt i ‘{ $id }’?
@@ -489,6 +490,8 @@ key-man-button-generate-key-continue = &Kemmel asirew n tsarut
 # Strings used in enigmailMessengerOverlay.js
 
 failed-decrypt = Tuccḍa - awgelhen yecceḍ
+fix-broken-exchange-msg-failed = D awezɣi uṣeggem n yizen.
+attachment-no-match-from-signature = Ur yezmir ara ad yemṣada ufaylu n usezmel '{ $attachment }' ɣer kra n umedday
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Azen izen
 msg-compose-details-button-label = Talqayt…
