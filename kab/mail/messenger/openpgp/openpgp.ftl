@@ -404,7 +404,15 @@ delete-pub-key =
     ‘{ $userId }’?
 delete-selected-pub-key = Tebɣiḍd ad tekkseḍ tasarut tazayazt?
 refresh-all-question = Ur tefrineḍ ula d yiwet n tsarut. Tebɣiḍ asmiren n meṛṛa tisura?
+key-man-button-export-sec-key = Sifeḍ tisura &tuffirin
+key-man-button-export-pub-key = Sifeḍ kan tisura &tizayazin
+key-man-button-refresh-all = &Smiren akk tisura
+key-man-loading-keys = Asali n tsura, ttxil-k rǧu…
+no-key-selected = Ilaq ad tferneḍ xerṣum yiwet n tsarut i wakken ad teddu temhelt yettwafernen
 export-to-file = Sifeḍ tasarut tazayezt ɣer ufaylu
+export-keypair-to-file = Sifeḍ tasarut tuffirt d tsarut  tazayezt ɣer ufaylu
+export-secret-key = Tebɣiḍ ad tseddduḍ tasarut tuffirt deg ufaylu n tsura OpenPGP yettwaskelsen?
+save-keys-ok = Tisura ttwaskelsen akken iwata
 general-error = Tuccḍa: { $reason }
 dlg-button-delete = &Kkes
 
