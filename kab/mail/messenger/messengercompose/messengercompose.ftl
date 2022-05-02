@@ -293,6 +293,14 @@ cloud-file-placeholder-title = { $filename } - Amedday Filelink
 
 # Template
 
+# A line of text describing how many uploaded files have been appended to this
+# message. Emphasis should be on sharing as opposed to attaching. This item is
+# used as a header to a list, hence the colon.
+cloud-file-count-header =
+    { $count ->
+        [one] Qqneɣ { $count } ufaylu ɣer yimayl-a:
+       *[other] Qqneɣ { $count } yifuyla ɣer yimayl-a:
+    }
 # A text used in a footer, instructing the reader where to find additional
 # information about the used service provider.
 # $link (string) - html a-tag for a link pointing to the web page of the provider
@@ -340,5 +348,7 @@ cloud-file-rename-error-with-custom-message-title = Abeddel n yisem n { $filenam
 cloud-file-rename-not-supported = { $provider } ur issefrak ara beddel n yisem n yifuyla i d-yettwasulin yakan.
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-attachment-error-title = Tuccḍa n umedday Filelink
+cloud-file-attachment-error = Yecceḍ uleqqem n umedday n Filelink { $filename }, acku afaylu-ines adigan yettwasikez neɣ yettwakkes.
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Tuccḍa n umiḍan Filelink
+cloud-file-account-error = Yecceḍ uleqqem n umedday n Filelink { $filename }, acku amiḍan n Filelink yettwakkes.
