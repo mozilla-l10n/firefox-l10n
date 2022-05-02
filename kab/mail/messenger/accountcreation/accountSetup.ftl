@@ -155,6 +155,7 @@ account-setup-credentials-incomplete = Asesteb ur iddi ara. Isem n useqdac d waw
 account-setup-credentials-wrong = Asesteb ur iddi ara. Ttxil sefqed isem n useqdac d wawal uffir
 account-setup-find-settings-failed = { -brand-short-name } ur yessaweḍ ara ad d-yaf iɣewwaṛen i umiḍan-inek n tirawt.
 account-setup-exchange-config-unverifiable = Ur nessaweḍ ara ad nsenqed tawila. Ma yella isem-inek/inem n useqdac d wawal uffis d imeɣta, yezmer anedbal n uqeddac isens tawila yettwafernen i umiḍan-inek/inem. Ɛreḍ ad tferneḍ aneggaf-nniḍen.
+account-setup-provisioner-error = Tella-d tuccḍa lawan n usesteb n umiḍan-ik·im amay deg { -brand-short-name }. Ma ulac aɣilif, ɛreḍ ad tsestbeḍ s ufus amiḍan-ik·im s yinekcam-ik•im.
 
 ## Manual configuration area
 
