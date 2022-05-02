@@ -589,7 +589,7 @@ msg-compose-partially-encrypted-inlinePGP =
 msg-compose-cannot-save-draft = Errore durante il salvataggio della bozza
 msg-compose-partially-encrypted-short = Attenzione alla fuga di informazioni sensibili: l’email è solo parzialmente crittata.
 quoted-printable-warn =
-    È stata attivata la codifica “quoted-printable” per l'invio dei messaggi. Questo potrebbe causare errori durante la decrittazione o la verifica del messaggio.
+    È stata attivata la codifica “quoted-printable” per l’invio dei messaggi. Questo potrebbe causare errori durante la decrittazione o la verifica del messaggio.
     Disattivare l’invio di messaggi “quoted-printable”?
 minimal-line-wrapping =
     Il ritorno a capo è impostato a { $width } caratteri. Per crittare o firmare correttamente, questo valore deve essere di almeno 68 caratteri.
@@ -625,7 +625,7 @@ key-in-message-body = È stata trovata una chiave nel corpo del messaggio. Fare 
 sig-mismatch = Errore: mancata corrispondenza della firma
 invalid-email = Errore: indirizzo email non valido
 attachment-pgp-key =
-    L'allegato “{ $name }” che si sta aprendo sembra essere un file della chiave OpenPGP.
+    L’allegato “{ $name }” che si sta aprendo sembra essere un file della chiave OpenPGP.
     Fare clic su “Importa” per importare le chiavi contenute o su “Visualizza” per visualizzare il contenuto del file in una finestra del browser
 dlg-button-view = &Visualizza
 # Strings used in enigmailMsgHdrViewOverlay.js
