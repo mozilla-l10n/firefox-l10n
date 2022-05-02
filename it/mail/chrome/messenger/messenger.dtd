@@ -546,7 +546,7 @@
 <!ENTITY folderLocationToolbarItem.title "Posizione cartella">
 <!ENTITY tagButton.label "Etichetta">
 <!ENTITY compactButton.label "Compatta">
-<!ENTITY appmenuButton.label "AppMenu">
+<!ENTITY appmenuButton.label "Menu applicazione">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Ricerca avanzata">
