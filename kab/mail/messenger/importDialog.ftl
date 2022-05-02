@@ -18,3 +18,4 @@ zip-file-too-big-title = Afaylu zip meqqer aṭas
 zip-file-too-big-message = Teɣzi n ufaylu zip yettwafernen meqqer ɣef 2GAṬ. Ma ulac aɣilif, ssenf-it qbel syen kter seg ukaram n tussfa xiṛ.
 wizardpage-failed =
     .label = Aktar yecceḍ
+wizardpage-failed-message = Aktar yecceḍ, d ayen ur nettwarǧa ara. Ugar n telɣut tezmer ad tili deg Console n tuccḍa.

@@ -11,3 +11,4 @@ verify-dialog =
     .buttonaccesskeyaccept = M
     .buttonlabelextra2 = Ur mṣadan ara
     .buttonaccesskeyextra2 = U
+challenge-label = Senqed ma yella azrir i d-yettwaskanen yemṣada ɣer teskant n tama-nniḍen.

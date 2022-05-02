@@ -133,9 +133,11 @@ about-addressbook-details-home-address-header = Tansa n uxxam
 about-addressbook-details-work-address-header = Tansa n umahil
 about-addressbook-details-other-info-header = Talɣut-nniḍen
 about-addressbook-unsaved-changes-prompt-title = Asnifel ur yettwasekles ara
+about-addressbook-unsaved-changes-prompt = Tebɣiḍ ad teskelseḍ isnifal-inek send ad teffɣeḍ seg taskant n uẓrag?
 
 # Photo dialog
 
+about-addressbook-photo-drop-target = Sers neɣ senteḍ tawlaft da, neɣ sit i ufran n ufaylu.
 about-addressbook-photo-drop-loading = Asali n tewlaft…
 about-addressbook-photo-drop-error = Asali n tewlaft yecceḍ
 about-addressbook-photo-filepicker-title = Fren afaylu n tugna

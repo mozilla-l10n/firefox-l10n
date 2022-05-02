@@ -203,6 +203,9 @@ insecure-dialog-confirm-button = Sentem
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } yufa-d talɣut n twila n umiḍan-ik deg { $domain }. Tebɣiḍ ad tkemmleḍ daɣen ad tazneḍ talɣut n usulu ?
 exchange-dialog-confirm-button = Kcem
 exchange-dialog-cancel-button = Sefsex
 

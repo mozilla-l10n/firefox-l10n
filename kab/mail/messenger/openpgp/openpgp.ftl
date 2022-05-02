@@ -398,6 +398,8 @@ import-info-details = Sken talqayt daɣen sefrek aqbayl n tsura
 import-info-no-keys = Ulac tisura i d-yettwaketren.
 # Strings in enigmailKeyManager.js
 import-from-clip = Tebɣiḍ ad tketreḍ kra n tsura yellan ɣef afus?
+import-from-url = Sader tasarut tazayazt seg URL-a:
+copy-to-clipbrd-failed = ur tezmir(zmirent) ara ad tettwanɣel tsarut(tsura) ɣer tecfawt.
 copy-to-clipbrd-ok = Tasarut(tisura) tettwanɣel(ttwaneɣlent) ɣer tecfawt
 delete-pub-key =
     Tebɣiḍd ad tekkseḍ tasarut tazayazt
@@ -436,11 +438,16 @@ keyring-photo = Tawlaft
 user-att-photo = Seqdec imyerr (tugna JPEG)
 # Strings in key.jsm
 already-revoked = Tasarut-a tettwaḥwi yakan.
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = Tasarut Ox { $keyId } tettwaḥwi yakan.
 key-man-button-revoke-key = &Ḥwi tasarut
 openpgp-key-revoke-success = Tasarut tettwaḥwi akken iwata.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Kter
 delete-key-title = Kkes tasarut OpenPGP
+delete-external-key-title = Kkes tasarut tazɣarayt GnuPG
+delete-external-key-description = Tebɣiḍ ad tekkseḍ asulay-a n tsarut tazɣarayt GnuPG?
+key-in-use-title = Tasarut OpenPGP la tettwaseqdac akka tura
 # Strings used in trust.jsm
 key-valid-unknown = arussin
 key-valid-invalid = arameɣtu
