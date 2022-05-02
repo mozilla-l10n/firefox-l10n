@@ -368,7 +368,7 @@ applications-use-os-default-label =
 
 ##
 
-applications-handle-new-file-types-description = { -brand-short-name }로 다른 파일은 어떤 작업을 하시겠습니까?
+applications-handle-new-file-types-description = { -brand-short-name }로 다른 파일 형식은 어떤 작업을 하시겠습니까?
 applications-save-for-new-types =
     .label = 파일 저장
     .accesskey = S
@@ -910,12 +910,12 @@ sitedata-option-block-cross-site-tracking-cookies-including-social-media =
     .label = 교차 사이트 추적 쿠키 — 소셜 미디어 쿠키 포함
 sitedata-option-block-cross-site-cookies-including-social-media =
     .label = 교차 사이트 쿠키 — 소셜 미디어 쿠키 포함
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = 교차 사이트 및 소셜 미디어 추적기, 그리고 나머지 쿠키 격리
 sitedata-option-block-cross-site-tracking-cookies =
     .label = 교차 사이트 추적 쿠키
 sitedata-option-block-cross-site-cookies =
     .label = 교차 사이트 추적 쿠키, 그리고 기타 교차 사이트 쿠키 격리
-sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
-    .label = 교차 사이트 및 소셜 미디어 추적기, 그리고 나머지 쿠키 격리
 sitedata-option-block-unvisited =
     .label = 방문하지 않은 웹 사이트의 쿠키
 sitedata-option-block-all-third-party =
