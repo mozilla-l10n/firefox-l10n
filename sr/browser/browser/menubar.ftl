@@ -36,7 +36,6 @@ menu-application-touch-bar =
 menu-quit =
     .label = Изађи
     .accesskey = И
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label =
@@ -46,11 +45,9 @@ menu-quit-mac =
             [neuter] { -brand-shorter-name(case: "gen") }
            *[other] програма { -brand-shorter-name }
         }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
@@ -61,7 +58,6 @@ menu-quit-button-win =
             [neuter] { -brand-shorter-name(case: "gen") }
            *[other] програма { -brand-shorter-name }
         }
-
 menu-about =
     .label =
         О { -brand-shorter-name.gender ->
@@ -335,6 +331,9 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = Пошаљи повратне информације
     .accesskey = ш
+menu-help-share-ideas =
+    .label = Поделите идеје и повратне податке…
+    .accesskey = д
 menu-help-enter-troubleshoot-mode2 =
     .label = Режим за решавање проблема…
     .accesskey = Р
