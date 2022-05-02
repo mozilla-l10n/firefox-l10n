@@ -72,6 +72,8 @@ progress-pane-finished-desc = Ifuk.
 progress-pane-restart-desc = Ales asenker i wakken ad yemmed uktar.
 error-pane-title = Tuccḍa
 error-message-zip-file-too-big = Teɣzi n ufaylu zip yettwafernen meqqer ɣef 2GAṬ. Ma ulac aɣilif, ssenf-it qbel syen kter seg ukaram n tussfa xiṛ.
+error-message-extract-zip-file-failed = Tecceḍ tussfa n ufaylu zip. Ma ulac aɣilif, ssef-it s ufus syen kter seg ukaram yettwaseffen deg wadeg n wayen.
+error-message-failed = Aktar yecceḍ, d ayen ur nettwarǧa ara. Ugar n telɣut tezmer ad tili deg Console n tuccḍa.
 
 ## <csv-field-map> element
 
