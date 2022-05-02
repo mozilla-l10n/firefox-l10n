@@ -413,17 +413,34 @@ export-to-file = Sifeḍ tasarut tazayezt ɣer ufaylu
 export-keypair-to-file = Sifeḍ tasarut tuffirt d tsarut  tazayezt ɣer ufaylu
 export-secret-key = Tebɣiḍ ad tseddduḍ tasarut tuffirt deg ufaylu n tsura OpenPGP yettwaskelsen?
 save-keys-ok = Tisura ttwaskelsen akken iwata
+save-keys-failed = Asekles n tsura ur yeddi ara
+default-pub-key-filename = Tisura-tizayazin-yettwasifḍen
+default-pub-sec-key-filename = Aḥraz-n-tsura-tuffirin
+preview-failed = Taɣuri n ufaylu n tsarut tazayazt d awezɣi.
 general-error = Tuccḍa: { $reason }
 dlg-button-delete = &Kkes
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Tasarut tazayazt tettusifeḍ akken iwata!</b>
+openpgp-export-public-fail = <b>D awezɣi ad tettusifeḍ tsarut tazayazt i yettwafernen!</b>
+openpgp-export-secret-success = <b>Tasarut tuffirtt tettusifeḍ akken iwata!</b>
+openpgp-export-secret-fail = <b>D awezɣi ad tettusifeḍ tsarut tuffirtt i yettwafernen!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Tasarut { $userId } (Asulay n tsarut { $keyId }) yettwaḥwi.
+key-ring-pub-key-expired = Tasarut { $userId } (Asulay n tsarut { $keyId }) temmut.
+key-ring-pub-key-not-for-signing = Tasarut { $userId } (Asulay n tsarut { $keyId }) ur tezmir ara ad tettuseqdac i tuqqna.
+key-ring-pub-key-not-for-encryption = Tasarut { $userId } (Asulay n tsarut { $keyId }) ur tezmir ara ad tettuseqdac i uwgelhen.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Tawlaft
 user-att-photo = Seqdec imyerr (tugna JPEG)
+# Strings in key.jsm
+already-revoked = Tasarut-a tettwaḥwi yakan.
 key-man-button-revoke-key = &Ḥwi tasarut
+openpgp-key-revoke-success = Tasarut tettwaḥwi akken iwata.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Kter
+delete-key-title = Kkes tasarut OpenPGP
 # Strings used in trust.jsm
 key-valid-unknown = arussin
 key-valid-invalid = arameɣtu
