@@ -34,6 +34,10 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = Абсякаць атрыбуты DOM
 options-collapse-attrs-tooltip =
     .title = Абсякаць доўгія атрыбуты ў інспектары
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Націснуць і перацягнуць, каб змяніць значэнні памеру
+options-inspector-draggable-properties-tooltip =
+    .title = Націснуць і перацягваць для змянення значэнняў памеру ў праглядзе правілаў інспектара.
 
 ## "Default Color Unit" options for the Inspector
 
