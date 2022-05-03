@@ -216,6 +216,8 @@ download-header = Ներբեռնումներ
 download-save-to =
     .label = Ֆայլերը պահպանել`
     .accesskey = ե
+download-save-where = Ֆայլերը պահպանել`
+    .accesskey = ե
 download-choose-folder =
     .label =
         { PLATFORM() ->
