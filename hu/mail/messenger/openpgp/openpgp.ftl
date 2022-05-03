@@ -244,6 +244,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Típus
 openpgp-key-details-key-part-label =
     .label = Kulcsrész
+openpgp-key-details-attr-ignored = Figyelmeztetés: Előfordulhat, hogy ez a kulcs nem a várt módon működik, mert egyes tulajdonságai nem biztonságosak, és figyelmen kívül lesznek hagyva.
 openpgp-key-details-algorithm-label =
     .label = Algoritmus
 openpgp-key-details-size-label =
@@ -294,6 +295,15 @@ openpgp-description =
         [0] A Thunderbird nem rendelkezik OpenPGP-kulccsal a következőhöz: <b>{ $identity }</b>
         [one] A Thunderbird { $count } személyes OpenPGP-kulcsot köt a következőhöz: <b>{ $identity }</b>
        *[other] A Thunderbird { $count } személyes OpenPGP-kulcsot köt a következőhöz: <b>{ $identity }</b>
+    }
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = A { -brand-short-name } nem rendelkezik személyes OpenPGP-kulccsal a következőhöz: <b>{ $identity }</b>
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] A { -brand-short-name } { $count } személyes OpenPGP-kulcsot köt a következőhöz: <b>{ $identity }</b>
+       *[other] A { -brand-short-name } { $count } személyes OpenPGP-kulcsot köt a következőhöz: <b>{ $identity }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = A jelenlegi konfiguráció a(z) <b>{ $key }</b> kulcsazonosítót használja.
@@ -357,8 +367,6 @@ key-verification = Ellenőrizze a kulcs ujjlenyomatát az e-mailtől eltérő bi
 cannot-use-own-key-because = Az üzenet nem küldhető el, mert probléma van a személyes kulcsával. { $problem }
 cannot-encrypt-because-missing = Az üzenetet nem lehet végpontok közötti titkosítással elküldeni, mert problémák vannak a következő címzettek kulcsaival: { $problem }
 window-locked = Az írási ablak zárolva van; küldés megszakítva
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Titkosított üzenetrész
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Ez egy titkosított üzenetrész. A mellékletre kattintva, egy külön ablakban kell megnyitnia.
 # Strings in keyserver.jsm
