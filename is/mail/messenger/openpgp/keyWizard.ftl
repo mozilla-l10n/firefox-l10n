@@ -90,6 +90,12 @@ openpgp-import-key-list-amount =
         [one] Thunderbird fann einn lykil sem hægt er að flytja inn.
        *[other] Thunderbird fann { $count } lykla sem hægt er að flytja inn.
     }
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount-2 =
+    { $count ->
+        [one] { -brand-short-name } fann einn lykil sem hægt er að flytja inn.
+       *[other] { -brand-short-name } fann { $count } lykla sem hægt er að flytja inn.
+    }
 openpgp-import-key-list-description = Staðfestu hvaða lykla má meðhöndla sem persónulega lykla þína. Aðeins lyklar sem þú bjóst til sjálfur og sýna auðkenni þín ætti að nota sem persónulega lykla. Þú getur breytt þessu vali síðar í glugganum fyrir eiginleika lykla.
 openpgp-import-key-list-caption = Lyklar sem merktir eru til að meðhöndla sem einkalykla verða skráðir í hlutann yfir enda-í-enda dulritun. Hinir verða tiltækir í lyklastýringunni.
 openpgp-passphrase-prompt-title = Aðgangsorðs krafist
