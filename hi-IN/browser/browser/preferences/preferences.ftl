@@ -196,6 +196,8 @@ download-header = डाउनलोड
 download-save-to =
     .label = यहाँ फ़ाइल सहेजें
     .accesskey = v
+download-save-where = यहाँ फ़ाइल सहेजें
+    .accesskey = v
 download-choose-folder =
     .label =
         { PLATFORM() ->
