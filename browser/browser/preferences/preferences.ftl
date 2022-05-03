@@ -114,6 +114,8 @@ download-header = Преземања
 download-save-to =
     .label = Снимај ги датотеките во
     .accesskey = м
+download-save-where = Снимај ги датотеките во
+    .accesskey = м
 download-choose-folder =
     .label =
         { PLATFORM() ->
