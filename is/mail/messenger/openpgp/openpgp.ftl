@@ -244,6 +244,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Tegund
 openpgp-key-details-key-part-label =
     .label = Lykilhluti
+openpgp-key-details-attr-ignored = Aðvörun: Þessi lykill gæti mögulega ekki virkað eins og búist má við, vegna þess að sumir eiginleikar hans eru óöruggir og gætu verið hunsaðir.
 openpgp-key-details-algorithm-label =
     .label = Reiknirit
 openpgp-key-details-size-label =
@@ -294,6 +295,15 @@ openpgp-description =
         [0] Thunderbird er ekki með neinn persónulegan OpenPGP-lykil fyrir <b>{ $identity }</b>
         [one] Thunderbird fann { $count } persónulegan OpenPGP-lykil tengdann <b>{ $identity }</b>
        *[other] Thunderbird fann { $count } persónulega OpenPGP-lykla tengda <b>{ $identity }</b>
+    }
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name } er ekki með persónulegan OpenPGP-lykil fyrir <b>{ $identity }</b>
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] { -brand-short-name } fann { $count } persónulegan OpenPGP-lykil tengdan <b>{ $identity }</b>
+       *[other] { -brand-short-name } fann { $count } persónulega OpenPGP-lykla tengda <b>{ $identity }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Núverandi uppsetning þín notar lykil með auðkennið <b>{ $key }</b>
@@ -357,8 +367,6 @@ key-verification = Staðfestu fingrafar lykilsins með því að nota örugga sa
 cannot-use-own-key-because = Ekki er hægt að senda skilaboðin vegna þess að það er vandamál með persónulega lykilinn þinn. { $problem }
 cannot-encrypt-because-missing = Ekki er hægt að senda þessi skilaboð með enda-í-enda dulritun vegna þess að vandamál eru með dulritunarlykla eftirfarandi viðtakenda: { $problem }
 window-locked = Skrifgluggi er læstur; hætt við sendingu
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Dulritaður hluti skilaboða
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Þetta er dulritaður hluti skilaboða. Þú þarft að opna það í sérstökum glugga með því að smella á viðhengið.
 # Strings in keyserver.jsm
