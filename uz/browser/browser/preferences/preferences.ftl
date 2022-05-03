@@ -182,6 +182,8 @@ download-header = Yuklab olishlar
 download-save-to =
     .label = Fayllarni saqlash manzili:
     .accesskey = s
+download-save-where = Fayllarni saqlash manzili:
+    .accesskey = s
 download-choose-folder =
     .label =
         { PLATFORM() ->
