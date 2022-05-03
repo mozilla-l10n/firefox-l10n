@@ -279,6 +279,8 @@ download-header = 다운로드
 download-save-to =
     .label = 저장 위치
     .accesskey = v
+download-save-where = 저장 위치
+    .accesskey = v
 download-choose-folder =
     .label =
         { PLATFORM() ->
