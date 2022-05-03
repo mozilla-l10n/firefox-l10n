@@ -150,6 +150,8 @@ download-header = डाउनलोडहरू
 download-save-to =
     .label = फाइलहरू यहाँ सङ्ग्रह गर्नुहोस्
     .accesskey = v
+download-save-where = फाइलहरू यहाँ सङ्ग्रह गर्नुहोस्
+    .accesskey = v
 download-choose-folder =
     .label =
         { PLATFORM() ->
