@@ -5,17 +5,13 @@
 pane-general-title = Sapasap
 category-general =
     .tooltiptext = { pane-general-title }
-
 pane-search-title = Search
 category-search =
     .tooltiptext = { pane-search-title }
-
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
 focus-search =
     .key = f
-
 close-button =
     .aria-label = Close
 
@@ -43,24 +39,19 @@ restart-later = Irugi Manen Intono Madamdama
 
 startup-header = Pagirugian
 
-
 ## General Section - Language & Appearance
 
 default-font-size = Kadakkel
     .accesskey = K
-
 advanced-fonts =
     .label = Nangatngato...
     .accesskey = a
-
 colors-settings =
     .label = Maris...
     .accesskey = C
-
 choose-button =
     .label = Pilien...
     .accesskey = o
-
 translate-exceptions =
     .label = Laksid...
     .accesskey = x
@@ -68,22 +59,19 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = Downloads
-
 download-save-to =
     .label = Pagidulinan ti intar
     .accesskey = v
-
+download-save-where = Pagidulinan ti intar
+    .accesskey = v
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } nga intar
 applications-action-save =
     .label = Idulin ti Intar
-
 applications-select-helper = Pilien ti Mannulong nga Aplikasion
-
 applications-manage-app =
     .label = Detalie ti Aplikasion...
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
@@ -95,19 +83,14 @@ applications-type-description-with-type = { $type-description } ({ $type })
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -145,6 +128,7 @@ choose-bookmark =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
 ##
 
 
@@ -152,7 +136,6 @@ choose-bookmark =
 
 search-choose-keyword-column =
     .label = Balikas-tulbek
-
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Napamindua a Balikas-tulbek
@@ -160,14 +143,8 @@ search-keyword-warning-title = Napamindua a Balikas-tulbek
 ## Containers Section
 
 
-## Sync Section - Signed out
-
-
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
-
-
-## Sync Section - Signed in
 
 
 ## Firefox Account - Signed in
@@ -184,17 +161,14 @@ search-keyword-warning-title = Napamindua a Balikas-tulbek
 sync-engine-bookmarks =
     .label = Pannanda
     .accesskey = m
-
 sync-engine-history =
     .label = Pakasaritaan
     .accesskey = r
 
 ## The device name controls.
 
+
 ## Privacy Section
-
-
-## Privacy Section - Forms
 
 
 ## Privacy Section - Logins and Passwords
@@ -202,14 +176,13 @@ sync-engine-history =
 forms-exceptions =
     .label = Laksid...
     .accesskey = x
-
 forms-master-pw-change =
     .label = Sukatan ti Kontrasenias a Maestro...
     .accesskey = M
-
 forms-master-pw-fips-desc = Napaay ti Panagsukat ti Kontrasenias
 
 ## OS Authentication dialog
+
 
 ## Privacy Section - History
 
@@ -220,7 +193,6 @@ history-private-browsing-permanent =
 ## Privacy Section - Site Data
 
 sitedata-total-size-calculating = Bilbilangen ti kadakkel dagiti datos ti sitio ken impempen a damdamag …
-
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
@@ -238,6 +210,7 @@ sitedata-total-size = Dagiti indulin a galietas, datos ti sitio ken dadduma nga 
 
 ##
 
+
 ## Privacy Section - Tracking
 
 
@@ -246,7 +219,6 @@ sitedata-total-size = Dagiti indulin a galietas, datos ti sitio ken dadduma nga 
 permissions-block-popups-exceptions =
     .label = Laksid...
     .accesskey = E
-
 permissions-addon-exceptions =
     .label = Laksid...
     .accesskey = E
@@ -266,8 +238,8 @@ certs-header = Sertipiko
 
 ## Privacy Section - HTTPS-Only
 
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Eskritorio
 downloads-folder-name = Downloads
-
