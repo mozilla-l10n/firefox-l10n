@@ -12,13 +12,13 @@ compose-send-auto-menu-item =
     .label = Automático
     .accesskey = A
 compose-send-both-menu-item =
-    .label = Tanto HTML como Texto Plano
+    .label = Tanto HTML como Texto sin formato
     .accesskey = B
 compose-send-html-menu-item =
     .label = Solo HTML
     .accesskey = H
 compose-send-plain-menu-item =
-    .label = Solo Texto Plano
+    .label = Solo Texto sin formato
     .accesskey = P
 
 ## Addressing widget
