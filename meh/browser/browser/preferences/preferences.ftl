@@ -168,6 +168,8 @@ download-header = Da a xinuun
 download-save-to =
     .label = Chuva´a tutu nuu
     .accesskey = C
+download-save-where = Chuva´a tutu nuu
+    .accesskey = C
 download-choose-folder =
     .label =
         { PLATFORM() ->
