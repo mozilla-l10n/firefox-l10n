@@ -305,6 +305,14 @@ openpgp-description =
     }
 #   $identity (String) - the email address of the currently selected identity
 openpgp-description-no-key = { -brand-short-name } не має особистого ключа OpenPGP для <b>{ $identity }</b>
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] { -brand-short-name } знайшов один особистий ключ OpenPGP, пов'язаний з <b>{ $identity }</b>
+        [few] { -brand-short-name } знайшов { $count } особисті ключі OpenPGP, пов’язані з <b>{ $identity }</b>
+       *[many] { -brand-short-name } знайшов { $count } особистих ключів OpenPGP, пов’язаних з <b>{ $identity }</b>
+    }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Ваші поточні налаштування використовують ID ключів <b>{ $key }</b>
 #   $key (String) - the currently selected OpenPGP key
