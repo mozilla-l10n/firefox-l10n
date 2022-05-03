@@ -90,6 +90,12 @@ openpgp-import-key-list-amount =
         [one] Thunderbird encontró una clave que puede ser importada.
        *[other] Thunderbird encontró { $count } claves que pueden ser importadas.
     }
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount-2 =
+    { $count ->
+        [one] { -brand-short-name } encontró una llave que puede importarse.
+       *[other] { -brand-short-name } encontró { $count } llaves que pueden importarse.
+    }
 openpgp-import-key-list-description = Confirma qué claves pueden tratarse como tus claves personales. Solo las claves que tú mismo creaste y que muestran tu propia identidad deben usarse como claves personales. Puedes cambiar esta opción más adelante en el cuadro de diálogo Propiedades de clave.
 openpgp-import-key-list-caption = Las claves marcadas para ser tratadas como claves personales se enumerarán en la sección Cifrado de extremo a extremo. Los demás estarán disponibles dentro del Administrador de claves.
 openpgp-passphrase-prompt-title = Se requiere contraseña
