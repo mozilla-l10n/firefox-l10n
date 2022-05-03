@@ -5,17 +5,13 @@
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
-
 pane-search-title = Search
 category-search =
     .tooltiptext = { pane-search-title }
-
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
 focus-search =
     .key = f
-
 close-button =
     .aria-label = Close
 
@@ -43,57 +39,42 @@ restart-later = Restart Later
 ## General Section
 
 startup-header = Startup
-
 always-check-default =
     .label = Always check if { -brand-short-name } is your default browser
     .accesskey = y
-
 is-default = { -brand-short-name } is currently your default browser
 is-not-default = { -brand-short-name } is not your default browser
-
 tabs-group-header = Tabs
-
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cycles through tabs in recently used order
     .accesskey = T
-
 show-tabs-in-taskbar =
     .label = Show tab previews in the Windows taskbar
     .accesskey = k
-
 browser-containers-enabled =
     .label = Enable Container Tabs
     .accesskey = n
-
 browser-containers-learn-more = Learn more
-
 
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = Fonts & Colours
-
 advanced-fonts =
     .label = Advanced…
     .accesskey = A
-
 colors-settings =
     .label = Colours…
     .accesskey = C
-
 choose-language-description = Choose your preferred language for displaying pages
-
 choose-button =
     .label = Choose…
     .accesskey = o
-
 translate-web-pages =
     .label = Translate web content
     .accesskey = T
-
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Translations by <img data-l10n-name="logo"/>
-
 translate-exceptions =
     .label = Exceptions…
     .accesskey = x
@@ -101,11 +82,11 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = Downloads
-
 download-save-to =
     .label = Save files to
     .accesskey = v
-
+download-save-where = Save files to
+    .accesskey = v
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -117,45 +98,36 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
-
 applications-type-column =
     .label = Content Type
     .accesskey = T
-
 applications-action-column =
     .label = Action
     .accesskey = A
-
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } file
 applications-action-save =
     .label = Save File
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Use { $app-name }
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Use { $app-name } (default)
-
 applications-use-other =
     .label = Use other…
 applications-select-helper = Select Helper Application
-
 applications-manage-app =
     .label = Application Details…
 applications-always-ask =
     .label = Always ask
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -167,26 +139,20 @@ applications-use-plugin-in =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
 
 ##
 
 play-drm-content-learn-more = Learn more
-
 update-application-use-service =
     .label = Use a background service to install updates
     .accesskey = b
@@ -200,19 +166,15 @@ performance-allow-hw-accel =
 ## General Section - Browsing
 
 browsing-title = Browsing
-
 browsing-use-autoscroll =
     .label = Use autoscrolling
     .accesskey = a
-
 browsing-use-smooth-scrolling =
     .label = Use smooth scrolling
     .accesskey = m
-
 browsing-use-onscreen-keyboard =
     .label = Show a touch keyboard when necessary
     .accesskey = k
-
 browsing-use-cursor-navigation =
     .label = Always use the cursor keys to navigate within pages
     .accesskey = c
@@ -239,7 +201,6 @@ use-current-pages =
            *[other] Use Current Pages
         }
     .accesskey = C
-
 choose-bookmark =
     .label = Use Bookmark…
     .accesskey = B
@@ -250,32 +211,27 @@ choose-bookmark =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
 ##
 
 
 ## Search Section
 
 search-engine-default-header = Default Search Engine
-
 search-suggestions-option =
     .label = Provide search suggestions
     .accesskey = s
-
 search-suggestions-cant-show = Search suggestions will not be shown in location bar results because you have configured { -brand-short-name } to never remember history.
-
 search-choose-engine-column =
     .label = Search Engine
 search-choose-keyword-column =
     .label = Keyword
-
 search-restore-default =
     .label = Restore Default Search Engines
     .accesskey = D
-
 search-remove-engine =
     .label = Remove
     .accesskey = R
-
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicate Keyword
@@ -285,9 +241,6 @@ search-keyword-warning-engine = You have chosen a keyword that is currently in u
 search-keyword-warning-bookmark = You have chosen a keyword that is currently in use by a bookmark. Please select another.
 
 ## Containers Section
-
-
-## Sync Section - Signed out
 
 
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
@@ -303,14 +256,10 @@ search-keyword-warning-bookmark = You have chosen a keyword that is currently in
 # to your language, but should not be changed or translated.
 sync-mobile-promo = Download Firefox for <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> or <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> to sync with your mobile device.
 
-## Sync Section - Signed in
-
-
 ## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Change profile picture
-
 sync-signedin-unverified = ​ { $email } is not verified.
 sync-signedin-login-failure = Please sign in to reconnect { $email } ​
 
@@ -325,7 +274,6 @@ sync-signedin-login-failure = Please sign in to reconnect { $email } ​
 sync-engine-bookmarks =
     .label = Bookmarks
     .accesskey = m
-
 sync-engine-history =
     .label = History
     .accesskey = r
@@ -337,51 +285,41 @@ sync-device-name-header = Device Name
 ## Privacy Section
 
 
-## Privacy Section - Forms
-
-
 ## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = Exceptions…
     .accesskey = x
-
 forms-saved-logins =
     .label = Saved Logins…
     .accesskey = L
 forms-master-pw-change =
     .label = Change Master Password…
     .accesskey = M
-
 forms-master-pw-fips-desc = Password Change Failed
 
 ## OS Authentication dialog
 
+
 ## Privacy Section - History
 
 history-header = History
-
 history-remember-option-all =
     .label = Remember history
 history-remember-option-never =
     .label = Never remember history
 history-remember-option-custom =
     .label = Use custom settings for history
-
 history-dontremember-description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the Web.
-
 history-private-browsing-permanent =
     .label = Always use private browsing mode
     .accesskey = p
-
 history-remember-search-option =
     .label = Remember search and form history
     .accesskey = f
-
 history-clear-on-close-option =
     .label = Clear history when { -brand-short-name } closes
     .accesskey = r
-
 history-clear-on-close-settings =
     .label = Settings…
     .accesskey = t
@@ -407,21 +345,19 @@ addressbar-locbar-openpage-option =
 
 ##
 
+
 ## Privacy Section - Tracking
 
 
 ## Privacy Section - Permissions
 
 permissions-notification = Notifications
-
 permissions-block-popups =
     .label = Block pop-up windows
     .accesskey = B
-
 permissions-block-popups-exceptions =
     .label = Exceptions…
     .accesskey = E
-
 permissions-addon-exceptions =
     .label = Exceptions…
     .accesskey = E
@@ -437,7 +373,6 @@ permissions-addon-exceptions =
 security-enable-safe-browsing =
     .label = Block dangerous and deceptive content
     .accesskey = B
-
 security-block-downloads =
     .label = Block dangerous downloads
     .accesskey = d
@@ -445,16 +380,15 @@ security-block-downloads =
 ## Privacy Section - Certificates
 
 certs-header = Certificates
-
 certs-enable-ocsp =
     .label = Query OCSP responder servers to confirm the current validity of certificates
     .accesskey = Q
 
 ## Privacy Section - HTTPS-Only
 
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Downloads
 choose-download-folder-title = Choose Download Folder:
-
