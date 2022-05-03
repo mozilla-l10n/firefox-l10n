@@ -234,6 +234,8 @@ download-header = Preuzimanja
 download-save-to =
     .label = Spremi datoteke u
     .accesskey = u
+download-save-where = Spremi datoteke u
+    .accesskey = u
 download-choose-folder =
     .label =
         { PLATFORM() ->
