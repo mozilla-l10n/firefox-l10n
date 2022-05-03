@@ -3,6 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
+compose-send-format-menu =
+    .label = Küldési formátum
+    .accesskey = f
+compose-send-auto-menu-item =
+    .label = Automatikus
+    .accesskey = A
+compose-send-both-menu-item =
+    .label = HTML és egyszerű szöveg egyaránt
+    .accesskey = s
+compose-send-html-menu-item =
+    .label = Csak HTML
+    .accesskey = H
+compose-send-plain-menu-item =
+    .label = Csak egyszerű szöveg
+    .accesskey = e
+
 ## Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -130,10 +148,6 @@ button-return-receipt =
 
 ## Encryption
 
-message-to-be-signed-icon =
-    .alt = Üzenet aláírása
-message-to-be-encrypted-icon =
-    .alt = Üzenet titkosítása
 encryption-menu =
     .label = Biztonság
     .accesskey = B
