@@ -175,6 +175,14 @@ containers-remove-cancel-button = ไม่เอาการแยกข้อ�
 
 language-and-appearance-header = ภาษาและลักษณะที่ปรากฏ
 fonts-and-colors-header = แบบอักษรและสี
+preferences-web-appearance-header = ลักษณะที่ปรากฏของเว็บไซต์
+preferences-web-appearance-choice-system = ชุดตกแต่งระบบ
+preferences-web-appearance-choice-light = สว่าง
+preferences-web-appearance-choice-dark = มืด
+preferences-colors-manage-button =
+    .label = จัดการสี…
+    .accesskey = C
+preferences-fonts-header = แบบอักษร
 default-font = แบบอักษรเริ่มต้น
     .accesskey = บ
 default-font-size = ขนาด
@@ -321,6 +329,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = { -brand-short-name } ควรจะทำอะไรกับไฟล์อื่น?
+applications-save-for-new-types =
+    .label = บันทึกไฟล์
+    .accesskey = S
+applications-ask-before-handling =
+    .label = ถามว่าจะเปิดหรือบันทึกไฟล์
+    .accesskey = A
 drm-content-header = เนื้อหา Digital Rights Management (DRM)
 play-drm-content =
     .label = เล่นเนื้อหาที่ถูกควบคุมโดย DRM
@@ -349,6 +364,9 @@ update-application-warning-cross-user-setting = การตั้งค่า�
 update-application-use-service =
     .label = ใช้บริการเบื้องหลังเพื่อติดตั้งการอัปเดต
     .accesskey = ช
+update-application-suppress-prompts =
+    .label = แสดงการแจ้งเตือนการอัปเดตน้อยลง
+    .accesskey = n
 update-setting-write-failure-title2 = เกิดข้อผิดพลาดในการบันทึกการตั้งค่าการอัปเดต
 # Variables:
 #   $path (String) - Path to the configuration file
