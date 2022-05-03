@@ -34,6 +34,10 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = Gzem imyerren DOM
 options-collapse-attrs-tooltip =
     .title = Gzem imyerren iɣezfanen ɣef umaswaḍ
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Sit syen zuɣer i wwakken ad tbeddleḍ azalen n teɣzi
+options-inspector-draggable-properties-tooltip =
+    .title = Sit syen zuɣer i wwakken ad tbeddleḍ azalen n teɣzi deg teskant n yilugan n umaswaḍ.
 
 ## "Default Color Unit" options for the Inspector
 
