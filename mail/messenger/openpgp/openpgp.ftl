@@ -250,6 +250,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Тип
 openpgp-key-details-key-part-label =
     .label = Частина ключа
+openpgp-key-details-attr-ignored = Попередження: цей ключ може працювати не так, як очікувалося, оскільки деякі його властивості небезпечні та можуть бути знехтувані.
 openpgp-key-details-algorithm-label =
     .label = Алгоритм
 openpgp-key-details-size-label =
@@ -302,6 +303,8 @@ openpgp-description =
         [few] Thunderbird знайшов { $count } особисті ключі OpenPGP, пов’язаних з <b>{ $identity }</b>
        *[many] Thunderbird знайшов { $count } особистих ключів OpenPGP, пов’язаних з <b>{ $identity }</b>
     }
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name } не має особистого ключа OpenPGP для <b>{ $identity }</b>
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Ваші поточні налаштування використовують ID ключів <b>{ $key }</b>
 #   $key (String) - the currently selected OpenPGP key
@@ -364,8 +367,6 @@ key-verification = Перевірте відбиток ключа за допо�
 cannot-use-own-key-because = Не вдається надіслати повідомлення, оскільки є проблема з вашим особистим ключем. { $problem }
 cannot-encrypt-because-missing = Не вдається надіслати це повідомлення захищене наскрізним шифруванням, оскільки є проблеми з ключами таких одержувачів: { $problem }
 window-locked = Вікно написання заблоковано; надсилання скасовано
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Захищена частина повідомлення
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Це захищена частина повідомлення. Необхідно відкрити її в окремому вікні, натиснувши на вкладення.
 # Strings in keyserver.jsm

@@ -3,6 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
+compose-send-format-menu =
+    .label = Формат надсилання
+    .accesskey = Ф
+compose-send-auto-menu-item =
+    .label = Автоматично
+    .accesskey = А
+compose-send-both-menu-item =
+    .label = І HTML, і звичайний текст
+    .accesskey = І
+compose-send-html-menu-item =
+    .label = Лише HTML
+    .accesskey = H
+compose-send-plain-menu-item =
+    .label = Лише звичайний текст
+    .accesskey = з
+
 ## Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -135,10 +153,6 @@ button-return-receipt =
 
 ## Encryption
 
-message-to-be-signed-icon =
-    .alt = Підписати повідомлення
-message-to-be-encrypted-icon =
-    .alt = Зашифрувати повідомлення
 encryption-menu =
     .label = Безпека
     .accesskey = з
