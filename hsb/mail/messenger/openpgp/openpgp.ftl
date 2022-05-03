@@ -309,6 +309,17 @@ openpgp-description =
         [few] Thunderbird ma { $count } wosobinske OpenPGP-kluče za <b>{ $identity }</b>
        *[other] Thunderbird ma { $count } wosobinskich OpenPGP-klučow za <b>{ $identity }</b>
     }
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name } wosobinski OpenPGP-kluč za <b>{ $identity }</b> nima
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] { -brand-short-name } je { $count } wosobinski OpenPGP-kluč za <b>{ $identity }</b> namakał
+        [two] { -brand-short-name } je { $count } wosobinskej OpenPGP-klučej za <b>{ $identity }</b> namakał
+        [few] { -brand-short-name } je { $count } wosobinske OpenPGP-kluče za <b>{ $identity }</b> namakał
+       *[other] { -brand-short-name } je { $count } wosobinskich OpenPGP-klučow za <b>{ $identity }</b> namakał
+    }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Waša aktualna konfiguracija klučowe ID <b>{ $key }</b> wužiwa
 #   $key (String) - the currently selected OpenPGP key
@@ -371,8 +382,6 @@ key-verification = Přepruwujće porstowy wotćišć kluča z pomocu druheho wě
 cannot-use-own-key-because = Njeje móžno powěsć słać, dokelž je problem z wašim wosobinskim klučom. { $problem }
 cannot-encrypt-because-missing = Njeje móžno, tutu powěsć ze zaklučowanjom kónc do kónca pósłác, dokelž su problemy z klučemi slědowacych přijimarjow: { $problem }
 window-locked = Wobdźěłowanske wokno je zawrjene; słanje je so přetorhnyło
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Zaklučowany dźěl powěsće
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = To je zaklučowany powěsćowy dźěl. Klikńće na přiwěšk, zo byšće jón w separatnym woknje wočinił.
 # Strings in keyserver.jsm
