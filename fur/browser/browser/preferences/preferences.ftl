@@ -210,6 +210,8 @@ download-header = Discjamâts
 download-save-to =
     .label = Salve i files in
     .accesskey = S
+download-save-where = Salve i files in
+    .accesskey = S
 download-choose-folder =
     .label =
         { PLATFORM() ->
