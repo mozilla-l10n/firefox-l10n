@@ -236,6 +236,8 @@ download-header = Descărcări
 download-save-to =
     .label = Salvează fișierele în
     .accesskey = v
+download-save-where = Salvează fișierele în
+    .accesskey = v
 download-choose-folder =
     .label =
         { PLATFORM() ->
