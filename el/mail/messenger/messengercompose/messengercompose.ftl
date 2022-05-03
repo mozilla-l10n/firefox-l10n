@@ -3,6 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
+compose-send-format-menu =
+    .label = Μορφή αποστολής
+    .accesskey = Μ
+compose-send-auto-menu-item =
+    .label = Αυτόματη
+    .accesskey = Α
+compose-send-both-menu-item =
+    .label = HTML και απλό κείμενο
+    .accesskey = H
+compose-send-html-menu-item =
+    .label = Μόνο HTML
+    .accesskey = ν
+compose-send-plain-menu-item =
+    .label = Μόνο απλό κείμενο
+    .accesskey = λ
+
 ## Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -129,10 +147,6 @@ button-return-receipt =
 
 ## Encryption
 
-message-to-be-signed-icon =
-    .alt = Υπογραφή μηνύματος
-message-to-be-encrypted-icon =
-    .alt = Κρυπτογράφηση μηνύματος
 encryption-menu =
     .label = Ασφάλεια
     .accesskey = φ
