@@ -34,6 +34,10 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = Κόψιμο ιδιοτήτων DOM
 options-collapse-attrs-tooltip =
     .title = Κόψιμο μεγάλων ιδιοτήτων στην επιθεώρηση
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Κάντε κλικ και σύρετε για να επεξεργαστείτε τις τιμές μεγέθους
+options-inspector-draggable-properties-tooltip =
+    .title = Κάντε κλικ και σύρετε για να επεξεργαστείτε τις τιμές μεγέθους στην προβολή κανόνων επιθεώρησης.
 
 ## "Default Color Unit" options for the Inspector
 
