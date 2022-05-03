@@ -3,6 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
+compose-send-format-menu =
+    .label = Słanski format
+    .accesskey = S
+compose-send-auto-menu-item =
+    .label = Awtomatiski
+    .accesskey = A
+compose-send-both-menu-item =
+    .label = HTML a luty tekst
+    .accesskey = H
+compose-send-html-menu-item =
+    .label = Jenož HTML
+    .accesskey = J
+compose-send-plain-menu-item =
+    .label = Jenož luty tekst
+    .accesskey = l
+
 ## Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -140,10 +158,6 @@ button-return-receipt =
 
 ## Encryption
 
-message-to-be-signed-icon =
-    .alt = Powěsć signować
-message-to-be-encrypted-icon =
-    .alt = Powěsć zaklučować
 encryption-menu =
     .label = Wěstota
     .accesskey = W
