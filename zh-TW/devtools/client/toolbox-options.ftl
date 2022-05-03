@@ -34,6 +34,10 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = 截斷 DOM 屬性
 options-collapse-attrs-tooltip =
     .title = 截斷檢測器中的長屬性
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = 點擊並拖曳，即可編輯大小值
+options-inspector-draggable-properties-tooltip =
+    .title = 點擊並拖曳，即可在檢測器的規則畫面編輯大小值。
 
 ## "Default Color Unit" options for the Inspector
 
