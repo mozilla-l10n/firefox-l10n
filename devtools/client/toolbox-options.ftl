@@ -34,6 +34,10 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = DOM attribútumok csonkítása
 options-collapse-attrs-tooltip =
     .title = Hosszú attribútumok csonkítása a vizsgálóban
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Kattintson és húzza a méretértékek szerkesztéséhez
+options-inspector-draggable-properties-tooltip =
+    .title = Kattintson és húzza a méretértékek szerkesztéséhez a vizsgáló szabályok nézetében.
 
 ## "Default Color Unit" options for the Inspector
 
