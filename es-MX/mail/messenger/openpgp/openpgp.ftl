@@ -244,6 +244,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Tipo
 openpgp-key-details-key-part-label =
     .label = Parte de la clave
+openpgp-key-details-attr-ignored = Advertencia: Esta llave puede no funcionar como se espera, porque algunas de sus propiedades son inseguras y pueden ignorarse.
 openpgp-key-details-algorithm-label =
     .label = Algoritmo
 openpgp-key-details-size-label =
@@ -294,6 +295,15 @@ openpgp-description =
         [0] Thunderbird no tiene una clave OpenPGP personal para <b>{ $identity }</b>
         [one] Thunderbird encontró { $count } clave OpenPGP personal asociada con <b>{ $identity }</b>
        *[other] Thunderbird encontró { $count } claves OpenPGP personales asociadas con <b>{ $identity }</b>
+    }
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name } no tiene una llave OpenPGP personal para <b>{ $identity }</b>
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] { -brand-short-name } encontró { $count } llave personal OpenPGP asociada con <b>{ $identity }</b>
+       *[other] { -brand-short-name } encontró { $count } llaves personales OpenPGP asociadas con <b>{ $identity }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Tu configuración actual usa ID de clave <b>{ $key }</b>
@@ -357,8 +367,6 @@ key-verification = Verifica la huella digital de la clave usando un canal de com
 cannot-use-own-key-because = No se puede enviar el mensaje porque hay un problema con tu clave personal. { $problem }
 cannot-encrypt-because-missing = No se puede enviar este mensaje con cifrado de un extremo a extremo porque hay problemas con las claves de los siguientes destinatarios: { $problem }
 window-locked = La ventana de redacción está bloqueada; envío cancelado
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Parte del mensaje cifrado
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Esta es una parte del mensaje cifrado. Necesitas abrirlo en una ventana separada haciendo clic en el archivo adjunto.
 # Strings in keyserver.jsm
