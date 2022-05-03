@@ -101,6 +101,8 @@ download-header = ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ
 download-save-to =
     .label = ᱨᱮ ᱨᱮᱫ ᱠᱚ ᱥᱟᱺᱪᱟᱣ
     .accesskey = v
+download-save-where = ᱨᱮ ᱨᱮᱫ ᱠᱚ ᱥᱟᱺᱪᱟᱣ
+    .accesskey = v
 download-choose-folder =
     .label =
         { PLATFORM() ->
