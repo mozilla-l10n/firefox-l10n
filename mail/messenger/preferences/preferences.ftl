@@ -459,6 +459,7 @@ compose-send-html-option =
 compose-send-html-description = Sumir viðtakendur gætu hugsanlega ekki lesið skilaboðin án þess að vera með hreinan texta til vara.
 compose-send-plain-option =
     .label = Aðeins hreinn texti
+compose-send-plain-description = Sumum stíl verður breytt í hreintexta til vara, á meðan aðrir ritunareiginleikar verða óvirkir.
 autocomplete-description = Þegar slegið er inn póstfang, leita að samsvörun í:
 ab-label =
     .label = Staðbundnar nafnaskrár
