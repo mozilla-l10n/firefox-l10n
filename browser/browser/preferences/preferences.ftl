@@ -94,6 +94,9 @@ extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> hallitsee tätä asetusta.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> vaatii eristettyjä välilehtiä.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> hallitsee tätä asetusta.
@@ -205,6 +208,28 @@ preferences-web-appearance-choice-browser = { -brand-short-name }in teema
 preferences-web-appearance-choice-system = Järjestelmän teema
 preferences-web-appearance-choice-light = Vaalea
 preferences-web-appearance-choice-dark = Tumma
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Täsmää { -brand-short-name }in teema-asetukset verkkosivustojen taustalle ja sisällölle.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Täsmää järjestelmän asetukset verkkosivustojen taustalle ja sisällölle.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Käytä vaaleaa ulkoasua verkkosivuston taustalle ja sisällölle.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Käytä tummaa ulkoasua verkkosivuston taustalle ja sisällölle.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Värivalintasi ohittavat verkkosivuston ulkoasun. <a data-l10n-name="colors-link">Hallinnoi värejä</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Hallinnoi { -brand-short-name }in teemoja <a data-l10n-name="themes-link">Laajennukset ja teemat -osiossa</a>
 preferences-colors-header = Värit
 preferences-colors-description = Ohita { -brand-short-name }n oletusvärit tekstille, verkkosivustojen taustoille ja linkeille.
 preferences-colors-manage-button =
@@ -357,6 +382,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Mitä { -brand-short-name }in pitäisi tehdä muille tiedostoille?
+applications-save-for-new-types =
+    .label = Tallenna tiedostot
+    .accesskey = s
+applications-ask-before-handling =
+    .label = Kysy avataanko vai tallennetaanko tiedostot
+    .accesskey = A
 drm-content-header = Käyttöoikeuksien hallintaa (DRM) käyttävä sisältö
 play-drm-content =
     .label = Toista DRM-suojattua sisältöä
@@ -385,6 +417,9 @@ update-application-warning-cross-user-setting = Tämä asetus koskee kaikkia Win
 update-application-use-service =
     .label = Asenna päivitykset taustalla toimivalla palvelulla
     .accesskey = u
+update-application-suppress-prompts =
+    .label = Näytä vähemmän päivitysilmoituksia
+    .accesskey = n
 update-setting-write-failure-title2 = Päivitysasetusten tallennusvirhe
 # Variables:
 #   $path (String) - Path to the configuration file
@@ -897,6 +932,8 @@ sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Sivustorajat ylittävät ja sosiaalisen median seuraimet, eristä jäljelle jäävät evästeet
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Sivustorajat ylittävät seurainevästeet
+sitedata-option-block-cross-site-cookies =
+    .label = Sivustorajat ylittävät evästeet, eristä muut sivustorajat ylittävät evästeet
 sitedata-option-block-unvisited =
     .label = Evästeet vierailemattomilta sivustoilta
 sitedata-option-block-all-third-party =
