@@ -330,6 +330,7 @@ fx100-thank-you-hero-text =
     kiitosta
     <span data-l10n-name="zap">teille</span>
 fx100-thank-you-subtitle = Tämä on 100:s julkaisumme! Kiitos, että autat meitä rakentamaan paremman ja terveellisemmän internetin.
+fx100-upgrade-thanks-header = 100 kiitosta
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Tämä on 100:s { -brand-short-name }in julkaisu. Kiitos <em>sinulle</em>, että autat meitä rakentamaan paremman ja terveellisemän internetin.
