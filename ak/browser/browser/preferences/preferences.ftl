@@ -5,17 +5,13 @@
 pane-general-title = Gyɛnɛral
 category-general =
     .tooltiptext = { pane-general-title }
-
 pane-search-title = Hwehwɛ
 category-search =
     .tooltiptext = { pane-search-title }
-
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
 focus-search =
     .key = f
-
 close-button =
     .aria-label = To-mu
 
@@ -42,32 +38,24 @@ should-restart-title = San hyɛ { -brand-short-name } ase
 ## General Section
 
 startup-header = Nhyɛase
-
 is-default = { -brand-short-name } yɛ wo brawsa a ɛyɛ difɔlt seisei
-
 tabs-group-header = Ntab
-
 show-tabs-in-taskbar =
     .label = Kyerɛ ntab priviw wɔ Windows taskbaa ne so
     .accesskey = b
-
 
 ## General Section - Language & Appearance
 
 advanced-fonts =
     .label = Akɔenim…
     .accesskey = A
-
 colors-settings =
     .label = Ahosu…
     .accesskey = h
-
 choose-language-description = Paw kasa a wo pɛ sɛ wo de kyerɛ nkrataafa
-
 choose-button =
     .label = Paw…
     .accesskey = w
-
 translate-exceptions =
     .label = Ngyegye…
     .accesskey = g
@@ -75,11 +63,11 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = Ntwe
-
 download-save-to =
     .label = Sie mfael kɔ
     .accesskey = e
-
+download-save-where = Sie mfael kɔ
+    .accesskey = e
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -91,45 +79,36 @@ download-choose-folder =
             [macos] w
            *[other] a
         }
-
 applications-type-column =
     .label = Emu nsɛm tebea
     .accesskey = t
-
 applications-action-column =
     .label = Dwumadi
     .accesskey = D
-
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } fael
 applications-action-save =
     .label = Fa fael no sie
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Fa { $app-name } yɛ
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Fa { $app-name } (difɔlt)
-
 applications-use-other =
     .label = Fa foforo…
 applications-select-helper = Paw ɔboafo aplekehyen
-
 applications-manage-app =
     .label = Aplekehyen nhunumu…
 applications-always-ask =
     .label = Bisa bere biara
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -141,19 +120,14 @@ applications-use-plugin-in =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -172,15 +146,12 @@ performance-allow-hw-accel =
 ## General Section - Browsing
 
 browsing-title = Ɛrebrawse
-
 browsing-use-autoscroll =
     .label = Yɛ otomatik mpia
     .accesskey = o
-
 browsing-use-smooth-scrolling =
     .label = Yɛ apia tɔtee
     .accesskey = p
-
 browsing-use-cursor-navigation =
     .label = Fa kɛɛsa akee nom kyini akrataafa mu
     .accesskey = k
@@ -207,7 +178,6 @@ use-current-pages =
            *[other] Fa Nkrataafa Nseiseiara di dwuma
         }
     .accesskey = S
-
 choose-bookmark =
     .label = Fa Bukmaak di dwuma…
     .accesskey = B
@@ -218,6 +188,7 @@ choose-bookmark =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
 ##
 
 
@@ -226,7 +197,6 @@ choose-bookmark =
 search-remove-engine =
     .label = Yi
     .accesskey = Y
-
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = San kyerɛw Kasafua-titiriw
@@ -238,14 +208,8 @@ search-keyword-warning-bookmark = Wo apaw kasafua-titiriw a bukmaak de redi dwum
 ## Containers Section
 
 
-## Sync Section - Signed out
-
-
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
-
-
-## Sync Section - Signed in
 
 
 ## Firefox Account - Signed in
@@ -262,17 +226,14 @@ search-keyword-warning-bookmark = Wo apaw kasafua-titiriw a bukmaak de redi dwum
 sync-engine-bookmarks =
     .label = Mbukmaak
     .accesskey = m
-
 sync-engine-history =
     .label = Abakɔsɛm
     .accesskey = s
 
 ## The device name controls.
 
+
 ## Privacy Section
-
-
-## Privacy Section - Forms
 
 
 ## Privacy Section - Logins and Passwords
@@ -280,14 +241,13 @@ sync-engine-history =
 forms-exceptions =
     .label = Ngyegye…
     .accesskey = g
-
 forms-master-pw-change =
     .label = Sesa Ehintasɛmfua Panin…
     .accesskey = m
-
 forms-master-pw-fips-desc = Ehintasɛmfua nsakrae dii nkugu
 
 ## OS Authentication dialog
+
 
 ## Privacy Section - History
 
@@ -297,21 +257,16 @@ history-remember-option-never =
     .label = Mma nnkae abakɔsɛm biara
 history-remember-option-custom =
     .label = Hyehyɛ abakɔsɛm ankorankorɛ
-
 history-dontremember-description = { -brand-short-name } de nhyehyɛe te sɛ brawsen praevet de bedi dwuma, na ɔrennkae wo abakɔsɛm biara wɔ bere a wo brawse Wɛb no so.
-
 history-private-browsing-permanent =
     .label = Fa tebea praevet a wɔde brawse di dwuma abere biara
     .accesskey = p
-
 history-remember-search-option =
     .label = Kae abakɔsɛm fa nhwehwɛ ne fɔɔm ho
     .accesskey = f
-
 history-clear-on-close-option =
     .label = Pepa abakɔsɛm sɛ { -brand-short-name } to mu a
     .accesskey = a
-
 history-clear-on-close-settings =
     .label = Nhyehyɛe…
     .accesskey = h
@@ -331,6 +286,7 @@ history-clear-on-close-settings =
 
 ##
 
+
 ## Privacy Section - Tracking
 
 
@@ -339,11 +295,9 @@ history-clear-on-close-settings =
 permissions-block-popups =
     .label = Siw ntokuro mpɔpap
     .accesskey = S
-
 permissions-block-popups-exceptions =
     .label = Ngyegye…
     .accesskey = e
-
 permissions-addon-exceptions =
     .label = Ngyegye…
     .accesskey = e
@@ -363,9 +317,9 @@ certs-header = Abasobɔde nkrataa
 
 ## Privacy Section - HTTPS-Only
 
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Dɛsktɔp
 downloads-folder-name = Atwe siane
 choose-download-folder-title = Paw atwe folda:
-
