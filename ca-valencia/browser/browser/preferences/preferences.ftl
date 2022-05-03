@@ -242,6 +242,8 @@ download-header = Baixades
 download-save-to =
     .label = Guarda els fitxers a
     .accesskey = s
+download-save-where = Guarda els fitxers a
+    .accesskey = s
 download-choose-folder =
     .label =
         { PLATFORM() ->
