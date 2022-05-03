@@ -187,6 +187,8 @@ download-header = దింపుకోళ్ళు
 download-save-to =
     .label = ఫైళ్ళను ఇక్కడ భద్రపరచు
     .accesskey = v
+download-save-where = ఫైళ్ళను ఇక్కడ భద్రపరచు
+    .accesskey = v
 download-choose-folder =
     .label =
         { PLATFORM() ->
