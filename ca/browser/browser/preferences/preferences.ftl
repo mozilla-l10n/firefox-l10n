@@ -242,6 +242,8 @@ download-header = Baixades
 download-save-to =
     .label = Desa els fitxers a
     .accesskey = s
+download-save-where = Desa els fitxers a
+    .accesskey = s
 download-choose-folder =
     .label =
         { PLATFORM() ->
