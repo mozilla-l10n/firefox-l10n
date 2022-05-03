@@ -33,3 +33,34 @@ msgevent-rcvdmsg-general-err = Անսպասելի սխալ տեղի ունեցա
 #   $name (String) - the screen name of a chat contact person
 #   $msg (string) - the message that was received.
 msgevent-rcvdmsg-unencrypted = { $name }-ից ստացուած հետեւեալ հաղորդագրութիւնը գաղտնագրուած չէ. { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-unrecognized = Դուք ստացել էք չճանաչուած OTR հաղորդագրութիւն { $name }-ից:
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-for-other-instance = { $name }-ն ուղարկել է հաղորդագրութիւն, որը նախատեսուած է մեկ այղ աշխատաշրջանի համար: Եթե Դուք մի քանի անգամ մուտք էք գործել, ապա մեկ այղ աշխատաշրջան կարող է հաղորդագրութիւն ստանալ:
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone-secure-private = Սկսուել է անձնական զրոյց { $name }-ի հետ:
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone-secure-unverified = Սկսուեց գաղտնագրուած, բայց չստուգուած խաւսակցութիւնը { $name }-ի հետ:
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still-secure = { $name }-ի հետ գաղտնագրուած խաւսակցութիւնը յաջողութեամբ թարմացուեց:
+error-enc = Հաղորդագրութիւնը գաղտնագրելիս սխալ է տեղի ունեցել:
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not-priv = Դուք գաղտնագրուած տուեալներ էք ուղարկել { $name }-ին, ով չէր սպասում:
+error-unreadable = Դուք փոխանցել էք անընթեռնելի կոդաւորուած հաղորդագրութիւն:
+error-malformed = Դուք սխալ ձեւաչափով տուեալների հաղորդագրութիւն էք փոխանցել:
+resent = [վերաուղարկուած]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name }-ն աւարտել է Ձեզ հետ գաղտնագրուած խաւսակցութիւնը. Դուք պէտք է նոյնն անէք:
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name }-ը խնդրել է գրառումից դուրս (OTR) գաղտնագրուած զրոյց: Այնուամենայնիվ, Դուք դրան աջակցելու աւժանդակիչ չունէք: Տեսէք https://en.wikipedia.org/wiki/Off-the-Record_Messaging՝ լրացուցիչ տեղեկութիւնների համար:
