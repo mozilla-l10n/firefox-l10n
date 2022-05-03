@@ -182,6 +182,8 @@ download-header = ڈاؤن لوڈ
 download-save-to =
     .label = مسل محفوظ کریں بر
     .accesskey = v
+download-save-where = مسل محفوظ کریں بر
+    .accesskey = v
 download-choose-folder =
     .label =
         { PLATFORM() ->
