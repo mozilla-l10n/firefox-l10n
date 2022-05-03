@@ -236,6 +236,8 @@ download-header = Pobrania
 download-save-to =
     .label = Spamiyntuj zbiory do
     .accesskey = v
+download-save-where = Spamiyntuj zbiory do
+    .accesskey = v
 download-choose-folder =
     .label =
         { PLATFORM() ->
