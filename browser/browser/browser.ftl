@@ -718,7 +718,7 @@ remote-tabs-sync-now = Сінхранізаваць зараз
 
 # "More" item in macOS share menu
 menu-share-more =
-    .label = Больш...
+    .label = Больш…
 ui-tour-info-panel-close =
     .tooltiptext = Закрыць
 
