@@ -3,6 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
+compose-send-format-menu =
+    .label = Tuzna n Umasal
+    .accesskey = U
+compose-send-auto-menu-item =
+    .label = Awurman
+    .accesskey = A
+compose-send-html-menu-item =
+    .label = HTML kan
+    .accesskey = H
+compose-send-plain-menu-item =
+    .label = Aḍris aḥerfi kan
+    .accesskey = A
+
 ## Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -130,10 +145,6 @@ button-return-receipt =
 
 ## Encryption
 
-message-to-be-signed-icon =
-    .alt = Sezmel izen
-message-to-be-encrypted-icon =
-    .alt = Wgelhen izen
 encryption-menu =
     .label = Taɣellist
     .accesskey = ɣ

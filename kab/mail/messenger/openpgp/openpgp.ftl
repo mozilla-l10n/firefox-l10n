@@ -295,6 +295,15 @@ openpgp-description =
         [one] Thunderbird yufa-d { $count } tasarut OpenPGP tudmawant i icudden ɣer </b> { $identity } </b>
        *[other] Thunderbird yufa-d { $count } tisura OpenPGP tudmawanin i icudden ɣer <b> { $identity } </b>
     }
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name } ur yesεi ara tasarut tudmawant OpenPGP i <b>{ $identity }</b>
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] Thunderbird yufa-d { $count } tsarut OpenPGP tudmawanin i icudden ɣer <b> { $identity } </b>
+       *[other] { -brand-short-name } yufa-d { $count } tsura OpenPGP tudmawanin i icudden ɣer <b> { $identity } </b>
+    }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Tawila-inek·inem tamirant tesseqdac asula n tsarut <b>{ $key }</b>
 #   $key (String) - the currently selected OpenPGP key
@@ -357,8 +366,6 @@ key-verification = Senqed adsil umḍin n tsarut s usenqed n ubadu n teywalt aɣ
 cannot-use-own-key-because = D awezɣi tuzna n yizen, acku yella wugur deg tsarut-ik tudmawant. { $problem }
 cannot-encrypt-because-missing = D awezɣi ad yettwazen yizen s uwgelhen seg yixef ɣer yixef. Acku llan wuguren akked tsura n uɣerwaḍ-a: { $problem }
 window-locked = Asfaylu n usuddes yemdel; tuzna tettwasefsex
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Aḥric n yizen yettwawgelhen
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Wagi d aḥric n yizen yettwawgelhen. Tesriḍd ad t-teldiḍ deg usfaylu weḥd-s s usiti ɣef umedday.
 # Strings in keyserver.jsm
