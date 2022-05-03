@@ -34,6 +34,10 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = DOM 속성 줄이기
 options-collapse-attrs-tooltip =
     .title = 검사기에서 긴 속성을 줄입니다
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = 클릭하고 드래그하여 크기 값 편집
+options-inspector-draggable-properties-tooltip =
+    .title = 검사기 규칙 보기에서 크기 값을 편집하려면 클릭하고 드래그하세요.
 
 ## "Default Color Unit" options for the Inspector
 
