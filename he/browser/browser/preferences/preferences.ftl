@@ -291,6 +291,8 @@ download-header = הורדות
 download-save-to =
     .label = שמירת קבצים אל
     .accesskey = ק
+download-save-where = שמירת קבצים אל
+    .accesskey = ק
 download-choose-folder =
     .label =
         { PLATFORM() ->
