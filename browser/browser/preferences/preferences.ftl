@@ -168,6 +168,8 @@ download-header = Íoslódálacha
 download-save-to =
     .label = Sábháil comhaid i
     .accesskey = S
+download-save-where = Sábháil comhaid i
+    .accesskey = S
 download-choose-folder =
     .label =
         { PLATFORM() ->
