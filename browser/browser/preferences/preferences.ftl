@@ -291,6 +291,8 @@ download-header = Allalaadimised
 download-save-to =
     .label = Failid salvestatakse asukohta
     .accesskey = v
+download-save-where = Failid salvestatakse asukohta
+    .accesskey = v
 download-choose-folder =
     .label =
         { PLATFORM() ->
