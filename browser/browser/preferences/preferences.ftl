@@ -230,6 +230,8 @@ download-header = การดาวน์โหลด
 download-save-to =
     .label = บันทึกไฟล์ไปยัง
     .accesskey = ฟ
+download-save-where = บันทึกไฟล์ไปยัง
+    .accesskey = ฟ
 download-choose-folder =
     .label =
         { PLATFORM() ->
