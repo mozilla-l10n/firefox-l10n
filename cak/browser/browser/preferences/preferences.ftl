@@ -228,6 +228,8 @@ download-header = Taq qasanïk
 download-save-to =
     .label = Keyak yakb'äl pa
     .accesskey = y
+download-save-where = Keyak yakb'äl pa
+    .accesskey = y
 download-choose-folder =
     .label =
         { PLATFORM() ->
