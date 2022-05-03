@@ -223,6 +223,8 @@ download-header = Изтегляния
 download-save-to =
     .label = Запазване на файловете в
     .accesskey = З
+download-save-where = Запазване на файловете в
+    .accesskey = З
 download-choose-folder =
     .label =
         { PLATFORM() ->
