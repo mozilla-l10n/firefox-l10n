@@ -227,6 +227,8 @@ download-header = Descargues
 download-save-to =
     .label = Guardar los ficheros en
     .accesskey = d
+download-save-where = Guardar los ficheros en
+    .accesskey = d
 download-choose-folder =
     .label =
         { PLATFORM() ->
