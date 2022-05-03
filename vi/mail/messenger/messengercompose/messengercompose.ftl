@@ -3,6 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
+compose-send-format-menu =
+    .label = Định dạng gửi
+    .accesskey = F
+compose-send-auto-menu-item =
+    .label = Tự động
+    .accesskey = A
+compose-send-both-menu-item =
+    .label = Cả HTML và văn bản thuần túy
+    .accesskey = B
+compose-send-html-menu-item =
+    .label = Chỉ HTML
+    .accesskey = H
+compose-send-plain-menu-item =
+    .label = Chỉ văn bản thuần túy
+    .accesskey = P
+
 ## Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -121,10 +139,6 @@ button-return-receipt =
 
 ## Encryption
 
-message-to-be-signed-icon =
-    .alt = Ký thư
-message-to-be-encrypted-icon =
-    .alt = Mã hóa thư
 encryption-menu =
     .label = Bảo mật
     .accesskey = c
@@ -149,6 +163,9 @@ menu-encrypt =
 menu-encrypt-subject =
     .label = Mã hóa chủ đề
     .accesskey = B
+menu-sign =
+    .label = Chữ ký số
+    .accesskey = i
 menu-view-certificates =
     .label = Xem chứng nhận của người nhận
     .accesskey = V
