@@ -61,8 +61,8 @@ about-processes-unknown-process = אחר: { $type } ‏({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } (‏{ $pid })
-about-processes-web-serviceworker = { $origin } (‏{ $pid },‏ serviceworker)
 about-processes-web-large-allocation-process = { $origin } (‏{ $pid }, גדול)
+about-processes-web-serviceworker = { $origin } (‏{ $pid },‏ serviceworker)
 about-processes-web-isolated-process-private = { $origin } — פרטי ({ $pid })
 about-processes-web-large-allocation-process-private = { $origin } — פרטי ({ $pid }, גדול)
 
@@ -114,6 +114,7 @@ about-processes-frame-name-one = מסגרת משנה: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = מסגרות משנה ({ $number }): { $shortUrl }
+about-processes-utility-actor-audio-decoder = מפענח אודיו
 
 ## Displaying CPU (percentage and total)
 ## Variables:
