@@ -303,6 +303,8 @@ download-header = Llwytho i Lawr
 download-save-to =
     .label = Cadw ffeiliau yn
     .accesskey = a
+download-save-where = Cadw ffeiliau yn
+    .accesskey = a
 download-choose-folder =
     .label =
         { PLATFORM() ->
