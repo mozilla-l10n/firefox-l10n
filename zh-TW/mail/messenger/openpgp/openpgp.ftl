@@ -238,6 +238,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = 類型
 openpgp-key-details-key-part-label =
     .label = 金鑰部分
+openpgp-key-details-attr-ignored = 警告: 由於這把金鑰的部份屬性不安全且將被忽略，可能無法正常使用。
 openpgp-key-details-algorithm-label =
     .label = 演算法
 openpgp-key-details-size-label =
@@ -285,6 +286,14 @@ openpgp-description =
     { $count ->
         [0] Thunderbird 沒有用於 <b>{ $identity }</b> 的 OpenPGP 個人金鑰
        *[other] Thunderbird 找到 { $count } 把 <b>{ $identity }</b> 的 OpenPGP 個人金鑰
+    }
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name } 沒有 <b>{ $identity }</b> 的私人 OpenPGP 金鑰
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+       *[other] { -brand-short-name } 找到 { $count } 把 <b>{ $identity }</b> 的 OpenPGP 私人金鑰
     }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = 您目前設定使用 ID 為 <b>{ $key }</b> 的金鑰
@@ -348,8 +357,6 @@ key-verification = 請使用電子郵件以外的安全通訊方式確認金鑰�
 cannot-use-own-key-because = 您的個人金鑰有問題，無法傳送訊息。{ $problem }
 cannot-encrypt-because-missing = 由於下列收件者的金鑰有問題，無法用端到端加密的方式傳送此訊息: { $problem }
 window-locked = 信件撰寫視窗已鎖定，取消傳送
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = 加密訊息部分
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = 這是加密過的訊息部分。請點擊附件用獨立視窗開啟。
 # Strings in keyserver.jsm
