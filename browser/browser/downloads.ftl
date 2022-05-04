@@ -201,3 +201,12 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = ఈ సెషన్‌కు ఏ దింపుకోళ్ళు లేవు.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] ఇంకా { $count } ఫైలును దించుకుంటుంది
+       *[other] ఇంకా { $count } ఫైళ్ళను దించుకుంటుంది
+    }
