@@ -244,6 +244,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Tüüp
 openpgp-key-details-key-part-label =
     .label = Võtme osa
+openpgp-key-details-attr-ignored = Hoiatus: see võti ei pruugi ootuspäraselt töötada, sest mõned selle atribuudid on ebaturvalises ja neid võidakse ignoreerida.
 openpgp-key-details-algorithm-label =
     .label = Algoritm
 openpgp-key-details-size-label =
@@ -294,6 +295,15 @@ openpgp-description =
         [0] Thunderbirdil pole isiklikku OpenPGP võtit identiteedile <b>{ $identity }</b>
         [one] Thunderbird leidis ühe identiteediga <b>{ $identity }</b> seotud OpenPGP võtme
        *[other] Thunderbird leidis { $count } identiteediga <b>{ $identity }</b> seotud OpenPGP võtit
+    }
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name }il puudub isiklik OpenPGP võti aadressi <b>{ $identity }</b> jaoks
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] { -brand-short-name } leidis { $count } identiteediga <b>{ $identity }</b> seotud isikliku OpenPGP võtme
+       *[other] { -brand-short-name } leidis { $count } identiteediga <b>{ $identity }</b> seotud isiklikku OpenPGP võtit
     }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Sinu praegune seadistus kasutab võtit IDga <b>{ $key }</b>
@@ -357,8 +367,6 @@ key-verification = Kontrolli võtme sõrmejälge, kasutades muud turvalist sidek
 cannot-use-own-key-because = Kirja saatmine pole võimalik, sest esineb probleem sinu isikliku võtmega. { $problem }
 cannot-encrypt-because-missing = Otspunktkrüptitud kirja pole võimalik saata, sest järgnevate saajate võtmetega on probleeme: { $problem }
 window-locked = Koostamise aken on lukus, saatmine katkestati
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Krüptitud kirja osa
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = See on krüptitud kirja osa. Selle avamiseks eraldi aknas pead klõpsama manusel.
 # Strings in keyserver.jsm

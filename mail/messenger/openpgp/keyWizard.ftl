@@ -90,6 +90,12 @@ openpgp-import-key-list-amount =
         [one] Thunderbird leidis ühe imporditava võtme.
        *[other] Thunderbird leidis { $count } imporditavat võtit.
     }
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount-2 =
+    { $count ->
+        [one] { -brand-short-name } leidis ühe imporditava võtme.
+       *[other] { -brand-short-name } leidis { $count } imporditavat võtit.
+    }
 openpgp-import-key-list-description = Määra isiklike võtmetena käsitletavad võtmed. Ainult võtmeid, mille oled loonud ise ja mis näitavad sinu identiteeti, peaks kasutama isiklike võtmetena. Seda sätet on võimalik hiljem võtme omaduste juures muuta.
 openpgp-import-key-list-caption = Isiklike võtmetena käsitletavaid võtmeid kuvatakse otspunktkrüptimise jaotises. Teised võtmed on nähtavad võtmehalduris.
 openpgp-passphrase-prompt-title = Parool on nõutud
