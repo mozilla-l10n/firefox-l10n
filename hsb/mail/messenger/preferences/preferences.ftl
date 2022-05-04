@@ -459,6 +459,7 @@ compose-send-html-option =
 compose-send-html-description = Někotři přijimarjo snano njemóža powěsć bjez alternatiwy luteho teksta čitać.
 compose-send-plain-option =
     .label = Jenož luty tekst
+compose-send-plain-description = Někotre stile so do alternatiwy luteho teksta konwertuja, mjeztym zo druhe pisanske funkcije so znjemóžnja.
 autocomplete-description = Při adresowanju powěsće za přihódnymi zapiskami pytać:
 ab-label =
     .label = w lokalnych adresnikach
