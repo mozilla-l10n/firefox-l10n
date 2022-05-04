@@ -38,3 +38,24 @@ permission-dialog-set-change-app-link = Sèbera un'aplicatzione diferente.
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Sèbera aplicatzione
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Aberi su ligòngiu
+    .buttonaccesskeyaccept = A
+chooser-dialog-description = Sèbera un'aplicatzione pro abèrrere su ligòngiu { $scheme }.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Imprea semper custa aplicatzione pro abèrrere is ligòngios <strong>{ $scheme }</strong>
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Custu podet èssere cambiadu in is optziones de { -brand-short-name }.
+       *[other] Custu podet èssere cambiadu in is preferèntzias de { -brand-short-name }.
+    }
+choose-other-app-description = Sèbera un'àtera aplicatzione
+choose-app-btn =
+    .label = Sèbera...
+    .accessKey = S
+choose-other-app-window-title = Un'àtera aplicatzione...
+# Displayed under the name of a protocol handler in the Launch Application dialog.
+choose-dialog-privatebrowsing-disabled = Disativada in is ventanas privadas
