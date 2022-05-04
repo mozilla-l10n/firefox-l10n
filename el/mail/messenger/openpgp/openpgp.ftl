@@ -244,6 +244,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Τύπος
 openpgp-key-details-key-part-label =
     .label = Τμήμα Κλειδιού
+openpgp-key-details-attr-ignored = Προειδοποίηση: Αυτό το κλειδί ενδέχεται να μην λειτουργεί όπως αναμένεται, επειδή ορισμένες από τις ιδιότητές του δεν είναι ασφαλείς και ενδέχεται να αγνοηθούν.
 openpgp-key-details-algorithm-label =
     .label = Αλγόριθμος
 openpgp-key-details-size-label =
@@ -357,8 +358,6 @@ key-verification = Επαληθεύστε το αποτύπωμα του κλε�
 cannot-use-own-key-because = Δεν είναι δυνατή η αποστολή του μηνύματος, επειδή υπάρχει πρόβλημα με το προσωπικό σας κλειδί. { $problem }
 cannot-encrypt-because-missing = Δεν είναι δυνατή η αποστολή αυτού του μηνύματος με κρυπτογράφηση από άκρο σε άκρο, επειδή υπάρχουν προβλήματα με τα κλειδιά των ακόλουθων παραληπτών: { $problem }
 window-locked = Το παράθυρο σύνθεσης είναι κλειδωμένο· η αποστολή ακυρώθηκε
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Κρυπτογραφημένο μέρος μηνύματος
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Αυτό είναι ένα τμήμα κρυπτογραφημένου μηνύματος. Πρέπει να το ανοίξετε σε ξεχωριστό παράθυρο κάνοντας κλικ στο συνημμένο.
 # Strings in keyserver.jsm
