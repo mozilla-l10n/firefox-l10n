@@ -36,6 +36,8 @@ options-collapse-attrs-tooltip =
     .title = Trunkera långa attribut i inspektören
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Klicka och dra för att redigera storleksvärden
+options-inspector-draggable-properties-tooltip =
+    .title = Klicka och dra för att redigera storleksvärden i vyn för inspektörsregler.
 
 ## "Default Color Unit" options for the Inspector
 
