@@ -137,6 +137,9 @@ message-header-msg-not-flagged =
 ## Message header cutomize panel
 
 message-header-customize-panel-title = Nastavitve glav sporočil
+message-header-customize-button-style =
+    .value = Slog gumbov
+    .accesskey = g
 message-header-button-style-default =
     .label = Ikone in besedilo
 message-header-button-style-text =
@@ -263,8 +266,6 @@ chat-button-unread-messages = { $count }
 
 ## Spaces toolbar customize panel
 
-spaces-context-customize =
-    .label = Prilagodi …
 menuitem-customize-label =
     .label = Prilagodi …
 spaces-customize-panel-title = Nastavitve vrstice komponent
@@ -278,7 +279,5 @@ spaces-customize-accent-background-color = Barva ozadja izbranega gumba
 spaces-customize-accent-text-color = Barva izbranega gumba
 spaces-customize-button-restore = Povrni privzeto
     .accesskey = v
-spaces-customize-button-save = Končaj
-    .accesskey = K
 customize-panel-button-save = Končano
     .accesskey = K
