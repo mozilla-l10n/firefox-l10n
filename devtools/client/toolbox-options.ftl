@@ -34,6 +34,10 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = 截短 DOM 属性
 options-collapse-attrs-tooltip =
     .title = 截短查看器中的长属性
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = 点击并拖动编辑大小值
+options-inspector-draggable-properties-tooltip =
+    .title = 在查看器规则视图中单击并拖动编辑大小值。
 
 ## "Default Color Unit" options for the Inspector
 
