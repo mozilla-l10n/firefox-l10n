@@ -72,6 +72,10 @@ font-language-group-odia =
     .label = Աւդիայ
 font-language-group-telugu =
     .label = Տելուգու
+font-language-group-kannada =
+    .label = Կաննադա
+font-language-group-sinhala =
+    .label = Սինհալերէն
 font-language-group-tibetan =
     .label = Տիբեթերէն
 
@@ -93,12 +97,25 @@ font-serif-label =
 font-sans-serif-label =
     .value = Sans-serif
     .accesskey = n
+font-monospace-label =
+    .value = Համաչափ
+    .accesskey = Հ
 font-min-size-label =
     .value = Տառատեսակի նուազագոյն չափը.
     .accesskey = փ
+min-size-none =
+    .label = Ոչ
 
 ## Fonts in message
 
+font-control-legend = Տառատեսակի կառավարում
+use-document-fonts-checkbox =
+    .label = Աւգտագործել նաեւ այղ տառատեսակներ
+    .accesskey = ո
+use-fixed-width-plain-checkbox =
+    .label = Պարզ տեքստային հաղորդագրութիւնների համար աւօգտագործէք փիքսուած լայնութեան տառատեսակ
+    .accesskey = ք
 
 ## Language settings
 
+text-encoding-legend = Տեքստի կոդաւորումը
