@@ -244,6 +244,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Type
 openpgp-key-details-key-part-label =
     .label = Key Part
+openpgp-key-details-attr-ignored = Warning: This key might not work as expected, because some of its properties are unsafe and might be ignored.
 openpgp-key-details-algorithm-label =
     .label = Algorithm
 openpgp-key-details-size-label =
@@ -294,6 +295,15 @@ openpgp-description =
         [0] Thunderbird doesn't have a personal OpenPGP key for <b>{ $identity }</b>
         [one] Thunderbird found { $count } personal OpenPGP key associated with <b>{ $identity }</b>
        *[other] Thunderbird found { $count } personal OpenPGP keys associated with <b>{ $identity }</b>
+    }
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name } doesn’t have a personal OpenPGP key for <b>{ $identity }</b>
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] { -brand-short-name } found { $count } personal OpenPGP key associated with <b>{ $identity }</b>
+       *[other] { -brand-short-name } found { $count } personal OpenPGP keys associated with <b>{ $identity }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Your current configuration uses key ID <b>{ $key }</b>
@@ -357,8 +367,6 @@ key-verification = Verify the fingerprint of the key using a secure communicatio
 cannot-use-own-key-because = Unable to send the message, because there is a problem with your personal key. { $problem }
 cannot-encrypt-because-missing = Unable to send this message with end-to-end encryption, because there are problems with the keys of the following recipients: { $problem }
 window-locked = Compose window is locked; send cancelled
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Encrypted message part
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = This is an encrypted message part. You need to open it in a separate window by clicking on the attachment.
 # Strings in keyserver.jsm
