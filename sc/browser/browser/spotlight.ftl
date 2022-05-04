@@ -9,6 +9,14 @@ spotlight-dialog-close-button =
 
 ## Mobile download button strings
 
+spotlight-android-marketplace-button =
+    .title = A disponimentu in Google Play
+spotlight-ios-marketplace-button =
+    .title = Iscàrriga·ddu dae s'App Store
 
 ## Firefox Focus promo message strings
 
+spotlight-focus-promo-title = Otene { -focus-brand-name }
+spotlight-focus-promo-subtitle = Iscansiona su còdighe QR pro iscarrigare.
+spotlight-focus-promo-qr-code =
+    .alt = Iscansiona su còdighe QR pro iscarrigare { -focus-brand-name }
