@@ -96,10 +96,10 @@ extension-controlling-password-saving = Tha an roghainn seo fo stiùireadh <img 
 extension-controlling-web-notifications = Tha an roghainn seo fo stiùireadh <img data-l10n-name="icon"/><strong>{ $name }</strong>.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlling-privacy-containers = Tha <img data-l10n-name="icon"/><strong>{ $name }</strong> feumach air tabaichean soithich.
+extension-controlling-privacy-containers = Tha <img data-l10n-name="icon"/> <strong>{ $name }</strong> feumach air tabaichean soithich.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
-extension-controlling-websites-content-blocking-all-trackers = Tha an roghainn seo fo stiùireadh <img data-l10n-name="icon"/><strong>{ $name }</strong>.
+extension-controlling-websites-content-blocking-all-trackers = Tha an roghainn seo fo stiùireadh <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlling-proxy-config = Tha mar a nì { -brand-short-name } ceangal gun eadar-lìon fo stiùireadh <img data-l10n-name ="icon"/> <strong>{ $name }</strong>
@@ -131,6 +131,9 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Aisig an seisean mu dheireadh
     .accesskey = s
+startup-restore-windows-and-tabs =
+    .label = Fosgail na h-uinneagan ’s tabaichean roimhe
+    .accesskey = s
 startup-restore-warn-on-quit =
     .label = Thoir rabhadh nuair a dh’fhàgas tu am brabhsair
 disable-extension =
@@ -145,6 +148,17 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Thoir rabhadh mus dùin mi iomadh taba còmhla
     .accesskey = m
+confirm-on-close-multiple-tabs =
+    .label = Dearbh mus dèid iomadh taba a dhùnadh
+    .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Dearbh mus dèid fàgail an-seo le { $quitKey }
+    .accesskey = b
 warn-on-open-many-tabs =
     .label = Ma tha cunnart gun cuir cus thabaichean maille air { -brand-short-name }, thoir rabhadh
     .accesskey = d
@@ -194,6 +208,17 @@ containers-remove-cancel-button = Na thoir an soitheach seo air falbh
 
 language-and-appearance-header = Cànan is coltas
 fonts-and-colors-header = Cruthan-clò ⁊ dathan
+preferences-web-appearance-header = Coltas nan làrach
+preferences-web-appearance-description = Cuiridh cuid a làraichean-lìn gleus air sgeama an dathan a-rèir nan roghainnean agad-sa. Tagh an sgeama dhathan a bu mhiann leat dha na làraichean ud.
+preferences-web-appearance-choice-browser = Ùrlar { -brand-short-name }
+preferences-web-appearance-choice-system = Ùrlar an t-siostaim
+preferences-web-appearance-choice-light = Soilleir
+preferences-web-appearance-choice-dark = Dorcha
+preferences-colors-header = Dathan
+preferences-colors-manage-button =
+    .label = Stiùirich na dathan…
+    .accesskey = c
+preferences-fonts-header = Cruthan-clò
 default-font = An cruth-clò bunaiteach
     .accesskey = u
 default-font-size = Meud
@@ -339,6 +364,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Dè nì { -brand-short-name } le faidhlichean eile?
+applications-save-for-new-types =
+    .label = Sàbhail na faidhlichean
+    .accesskey = S
+applications-ask-before-handling =
+    .label = Faighnich dhìom a bheil mi airson faidhlichean fhosgladh no dùnadh
+    .accesskey = a
 drm-content-header = Susbaint Digital Rights Management (DRM)
 play-drm-content =
     .label = Cluich susbaint fo smachd DRM
