@@ -50,6 +50,7 @@ about-processes-socket-process = Réseau ({ $pid })
 about-processes-remote-sandbox-broker-process = Broker du bac à sable distant ({ $pid })
 about-processes-fork-server-process = Copie du serveur ({ $pid })
 about-processes-preallocated-process = Préalloué ({ $pid })
+about-processes-utility-process = Utilitaire ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -62,8 +63,8 @@ about-processes-unknown-process = Autre : { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, ServiceWorker)
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, grande allocation)
+about-processes-web-serviceworker = { $origin } ({ $pid }, ServiceWorker)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, processus multiorigine isolé)
 about-processes-web-isolated-process-private = { $origin } — Privé ({ $pid })
 about-processes-web-large-allocation-process-private = { $origin } — Privé ({ $pid }, grande allocation)
@@ -117,6 +118,9 @@ about-processes-frame-name-one = Iframe imbriqué : { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Iframes imbriqués ({ $number }) : { $shortUrl }
+# Utility process actor names
+about-processes-utility-actor-unknown = Utilitaire inconnu
+about-processes-utility-actor-audio-decoder = Décodeur audio
 
 ## Displaying CPU (percentage and total)
 ## Variables:

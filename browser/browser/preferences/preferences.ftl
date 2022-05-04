@@ -382,6 +382,9 @@ applications-use-os-default-label =
 
 ##
 
+applications-save-for-new-types =
+    .label = Enregistrer les fichiers
+    .accesskey = E
 drm-content-header = Contenu protégé par des composants de gestion des droits numériques (DRM)
 play-drm-content =
     .label = Lire le contenu protégé par des DRM
