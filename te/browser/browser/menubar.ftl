@@ -78,6 +78,16 @@ menu-file-open-file =
 menu-file-close =
     .label = మూసివేయి
     .accesskey = C
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] ట్యాబును మూసివేయి
+            [one] ట్యాబును మూసివేయి
+           *[other] { $tabCount } ట్యాబులను మూసివేయి
+        }
+    .accesskey = C
 menu-file-close-window =
     .label = విండో మూసివేయి
     .accesskey = d

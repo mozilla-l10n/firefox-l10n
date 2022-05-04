@@ -9,6 +9,10 @@ about-private-browsing-info-title = మీరు అంతరంగిక వి
 about-private-browsing-info-myths = అంతరంగిక విహారణ గురించి సామాన్య అపోహలు
 about-private-browsing-search-btn =
     .title = జాలంలో వెతకండి
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = { $engine }‌తో వెతకండి లేదా చిరునామా ఇవ్వండి
 about-private-browsing-handoff-no-engine =
     .title = వెతకండి లేదా చిరునామాను ఇవ్వండి
 # Variables
@@ -20,9 +24,12 @@ about-private-browsing-info-description = మీరు అనువర్తన�
 about-private-browsing-need-more-privacy = మరింత అంతరంగికత కావాలా?
 about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name }‌ను ప్రయత్నించండి
 about-private-browsing-learn-more-link = ఇంకా తెలుసుకోండి
+about-private-browsing-get-privacy = విహరిస్తున్న ప్రతిచోటా అంతరంగికతా సంరక్షణలను పొందండి
+about-private-browsing-focus-promo-cta = { -focus-brand-name }‌ను దించుకోండి
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-c = మొబైలులో తర్వాతి-స్థాయి అంతరంగికత
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

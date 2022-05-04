@@ -45,6 +45,8 @@ pocket-panel-home-my-list = నా జాబితా
 pocket-panel-home-welcome-back = పునఃస్వాగతం
 pocket-panel-home-explore-popular-topics = ప్రాచుర్య అంశాలను చూడండి
 pocket-panel-home-discover-more = మరింత కనుగొనండి
+pocket-panel-home-most-recent-saves = ఇటీవల మీరు భద్రపరచినవి ఇవి:
+pocket-panel-home-new-user-message = మీరు ఇటీవల భద్రపరచిన వాటిని ఇక్కడ చూడవచ్చు.
 
 ## Pocket panel header component
 

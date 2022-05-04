@@ -6,6 +6,12 @@
 ## App Menu
 
 appmenuitem-protection-dashboard-title = సంరక్షణల డాష్‌బోర్డ్
+appmenuitem-banner-update-available =
+    .label = తాజాకరణ అందుబాటులో ఉంది — ఇప్పుడే దించుకోండి
+appmenuitem-banner-update-manual =
+    .label = తాజాకరణ అందుబాటులో ఉంది — ఇప్పుడే దించుకోండి
+appmenuitem-banner-update-restart =
+    .label = తాజాకరణ అందుబాటులో ఉంది — ఇప్పుడే పునఃప్రారంభించండి
 appmenuitem-new-tab =
     .label = కొత్త ట్యాబు
 appmenuitem-new-window =
@@ -102,6 +108,11 @@ profiler-popup-learn-more-button =
     .label = ఇంకా తెలుసుకోండి
 profiler-popup-settings =
     .value = అమరికలు
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = అమరికలను మార్చండి…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = అమరికలను మార్చండి…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
@@ -122,6 +133,8 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-networking-label =
+    .label = నెట్‌వర్కింగ్
 
 ## History panel
 
