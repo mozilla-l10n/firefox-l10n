@@ -447,6 +447,7 @@ format-description = Configurar comportamento del formato texto
 send-options-label =
     .label = Inviar optiones…
     .accesskey = I
+compose-send-format-title = Formato de invio
 compose-send-automatic-option =
     .label = Automatic
 compose-send-both-option =

@@ -5,6 +5,9 @@
 
 ## Send Format
 
+compose-send-format-menu =
+    .label = Formato de invio
+    .accesskey = F
 compose-send-auto-menu-item =
     .label = Automatic
     .accesskey = A
