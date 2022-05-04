@@ -86,6 +86,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Chan eil taba fosgailte
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Cuir air sioncronachadh nan tabaichean airson cothrom fhaighinn air na tabaichean agad o uidheaman eile.
+appmenu-remote-tabs-opensettings =
+    .label = Roghainnean
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = A bheil thu airson na tabaichean a tha agad air uidheaman eile fhaicinn an-seo?
@@ -140,10 +142,10 @@ profiler-popup-settings =
     .value = Roghainnean
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Deasaich na roghainnean…
+profiler-popup-disabled = Tha a pròifilear à comas an-dràsta, dh’fhaoidte gu bheil uinneag a’ bhrabhsaidh phrìobhaidich fosgailte.
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Deasaich na roghainnean…
-profiler-popup-disabled = Tha a pròifilear à comas an-dràsta, dh’fhaoidte gu bheil uinneag a’ bhrabhsaidh phrìobhaidich fosgailte.
 profiler-popup-recording-screen = ’Ga chlàradh…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -209,6 +211,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Cuir thugainn do bheachdan…
     .accesskey = C
+appmenu-help-share-ideas =
+    .label = Co-roinn do bheachdan…
+    .accesskey = b
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
