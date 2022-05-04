@@ -4,17 +4,13 @@
 
 notifications-dialog-window =
     .title = Անհատականացրեք Նոր փոստի ազդանշանը
-
 customize-alert-description = Ընտրեք, թէ որ դաշտերը պէտք է ցուցադրուեն ազդարարման ծանուցման մէջ.
-
 preview-text-checkbox =
     .label = Հաղորդագրութեան նախադիտման գրոյթ
     .accesskey = M
-
 subject-checkbox =
     .label = Առարկայ
     .accesskey = S
-
 sender-checkbox =
     .label = Ուղարկող
     .accesskey = e
@@ -26,8 +22,7 @@ sender-checkbox =
 ## to translate the whole sentence.
 
 open-time-label-before =
-    .value = Ցույց տալ նոր Էլ․փոստի ազդանշանը
+    .value = Ցույց տալ նոր եղ․փոստի ազդանշանը
     .accesskey = N
-
 open-time-label-after =
     .value = Վայրկեաններ
