@@ -8,6 +8,9 @@
 newtab-page-title = కొత్త ట్యాబు
 newtab-settings-button =
     .title = మీ కొత్త ట్యాబు పేజీని మలచుకోండి
+newtab-personalize-icon-label =
+    .title = కొత్త ట్యాబును వ్యక్తిగతీకరించుకోండి
+    .aria-label = కొత్త ట్యాబును వ్యక్తిగతీకరించుకోండి
 newtab-personalize-dialog-label =
     .aria-label = వ్యక్తిగతీకరించు
 
@@ -217,10 +220,16 @@ newtab-pocket-read-more = ప్రముఖ అంశాలు:
 newtab-pocket-more-recommendations = మరిన్ని సిఫారసులు
 newtab-pocket-learn-more = ఇంకా తెలుసుకోండి
 newtab-pocket-cta-button = { -pocket-brand-name } పొందండి
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = మరిన్న కథనాలను చూపించు
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+newtab-pocket-last-card-title = అన్నీ చూసేసారు!
+newtab-pocket-last-card-desc = మరిన్నిటి కోసం కాసేపటి తర్వాత చూడండి.
+newtab-pocket-last-card-image =
+    .alt = అన్నీ చూసేసారు
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

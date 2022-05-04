@@ -21,6 +21,13 @@ onboarding-not-now-button-label = ఇప్పుడు కాదు
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = అద్భుతం, మీరు { -brand-short-name }‌ను తెచ్చుకున్నారు
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = ఇప్పుడు <img data-l10n-name="icon"/> <b>{ $addon-name }</b> తెచ్చుకుందాం.
+return-to-amo-add-extension-label = పొడగింతను చేర్చు
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
@@ -40,6 +47,7 @@ onboarding-multistage-import-header = మీ సంకేతపదాలను, 
 onboarding-multistage-import-subtitle = మరో విహారిణి నుండి వస్తున్నారా? కావలసిన వాటన్నింటినీ { -brand-short-name }‌కి తెచ్చుకోవడం చాలా తేలిక.
 onboarding-multistage-import-primary-button-label = దిగుమతిని మొదలుపెట్టు
 onboarding-multistage-import-secondary-button-label = ఇప్పుడు కాదు
+return-to-amo-add-theme-label = అలంకారాన్ని చేర్చు
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -82,10 +90,13 @@ mr1-onboarding-set-default-secondary-button-label = ఇప్పుడు కా
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
 mr1-onboarding-import-secondary-button-label = ఇప్పడు కాదు
+mr2-onboarding-colorway-header = జీవితం రంగులమయం
 mr2-onboarding-colorway-secondary-button-label = ఇప్పుడు కాదు
 mr2-onboarding-colorway-label-balanced = సంతులితం
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = అప్రమేయం
+mr1-onboarding-theme-header = దీన్ని మీ స్వంతం చేసుకోండి
+mr1-onboarding-theme-subtitle = ఒక అలంకారంతో { -brand-short-name }‌ని వ్యక్తిగతీకరించుకోండి.
 mr1-onboarding-theme-primary-button-label = అలంకారాన్ని భద్రపరుచు
 mr1-onboarding-theme-secondary-button-label = ఇప్పుడు కాదు
 # System theme uses operating system color settings
