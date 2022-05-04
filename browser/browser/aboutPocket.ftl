@@ -47,6 +47,9 @@ pocket-panel-home-paragraph = ’S urrainn dhut { -pocket-brand-name } a chleach
 pocket-panel-home-explore-popular-topics = Rùraich sna cuspairean fèillmhor
 pocket-panel-home-discover-more = Fidir barrachd
 pocket-panel-home-explore-more = Rùraich
+pocket-panel-home-most-recent-saves = Seo na shàbhail thu o chionn goirid:
+pocket-panel-home-most-recent-saves-loading = A’ luchdadh na shàbhail thu o chionn goirid…
+pocket-panel-home-new-user-message = Faic na shàbhail thu o chionn goirid an-seo.
 
 ## Pocket panel header component
 
@@ -56,4 +59,3 @@ pocket-panel-header-sign-in = Clàraich a-steach
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Seall na h-uile
-pocket-panel-button-add-tags = Cuir tagaichean ris

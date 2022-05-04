@@ -38,20 +38,16 @@ menu-quit =
             [windows] F
            *[other] F
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Fàg { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Fàg { -brand-shorter-name }
-
 menu-about =
     .label = Mu { -brand-shorter-name }
     .accesskey = M
@@ -168,7 +164,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Stoidhle bhunaiteach na duilleige
     .accesskey = b
-
 menu-view-repair-text-encoding =
     .label = Càraich còdachadh an teacsa
     .accesskey = c
@@ -214,7 +209,6 @@ menu-history-undo-menu =
     .label = Tabaichean a dhùin thu o chionn goirid
 menu-history-undo-window-menu =
     .label = Uinneagan a dhùin thu o chionn goirid
-
 menu-history-reopen-all-tabs = Ath-fhosgail gach taba
 menu-history-reopen-all-windows = Ath-fhosgail gach uinneag
 
@@ -316,6 +310,9 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = Cuir thugainn do bheachdan…
     .accesskey = C
+menu-help-share-ideas =
+    .label = Co-roinn do bheachdan…
+    .accesskey = b
 menu-help-enter-troubleshoot-mode2 =
     .label = Modh fuasglaidh air duilgheadasan…
     .accesskey = M
