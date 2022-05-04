@@ -254,8 +254,6 @@ chat-button-unread-messages = { $count }
 
 ## Spaces toolbar customize panel
 
-spaces-context-customize =
-    .label = Personalizar…
 menuitem-customize-label =
     .label = Personalizar…
 spaces-customize-panel-title = Configuración de la barra de Espacios
@@ -269,7 +267,5 @@ spaces-customize-accent-background-color = Color de fondo del botón seleccionad
 spaces-customize-accent-text-color = Color del botón seleccionado
 spaces-customize-button-restore = Restaurar predeterminados
     .accesskey = R
-spaces-customize-button-save = Listo
-    .accesskey = L
 customize-panel-button-save = Hecho
-    .accesskey = D
+    .accesskey = H
