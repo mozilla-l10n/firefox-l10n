@@ -3,6 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
+compose-send-format-menu =
+    .label = Oblika pošiljanja
+    .accesskey = O
+compose-send-auto-menu-item =
+    .label = Samodejno
+    .accesskey = a
+compose-send-both-menu-item =
+    .label = HTML in navadno besedilo
+    .accesskey = i
+compose-send-html-menu-item =
+    .label = Samo HTML
+    .accesskey = H
+compose-send-plain-menu-item =
+    .label = Samo navadno besedilo
+    .accesskey = n
+
 ## Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -139,10 +157,6 @@ button-return-receipt =
 
 ## Encryption
 
-message-to-be-signed-icon =
-    .alt = Podpiši sporočilo
-message-to-be-encrypted-icon =
-    .alt = Šifriraj sporočilo
 encryption-menu =
     .label = Varnost
     .accesskey = a
