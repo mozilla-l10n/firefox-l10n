@@ -12,6 +12,12 @@ fonts-label-default-unnamed =
     .label = Սկզբնադիր
 fonts-encoding-dialog-title =
     .title = Տառատեսակներ եւ գաղտնագրեր
+fonts-language-legend =
+    .value = Տառատեսակներ
+    .accesskey = Տ
+fonts-proportional-label =
+    .value = Համաչափ․
+    .accesskey = Հ
 
 ## Languages
 
