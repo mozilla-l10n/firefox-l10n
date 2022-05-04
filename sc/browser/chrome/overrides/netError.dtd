@@ -49,7 +49,17 @@
 
 
 
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+ <li>Informa s'amministratzione de su situ web de custu problema.</li>
+</ul>
+">
 
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+ <li>Informa s'amministratzione de su situ web de custu problema.</li>
+</ul>
+">
 
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
