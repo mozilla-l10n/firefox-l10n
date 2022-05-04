@@ -103,6 +103,18 @@ places-remove-bookmark =
            *[other] Thoir na comharran-lìn air falbh
         }
     .accesskey = r
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Sguab às an comharra-lìn
+            [one] Sguab às an comharra-lìn
+            [two] Sguab às na comharran-lìn
+            [few] Sguab às na comharran-lìn
+           *[other] Sguab às an comharran-lìn
+        }
+    .accesskey = S
 places-manage-bookmarks =
     .label = Stiùirich na comharran-lìn
     .accesskey = m
