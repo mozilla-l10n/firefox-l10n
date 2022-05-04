@@ -34,6 +34,8 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = Trunkera DOM-attribut
 options-collapse-attrs-tooltip =
     .title = Trunkera långa attribut i inspektören
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Klicka och dra för att redigera storleksvärden
 
 ## "Default Color Unit" options for the Inspector
 
