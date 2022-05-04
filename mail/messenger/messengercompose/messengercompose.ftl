@@ -3,6 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
+compose-send-format-menu =
+    .label = Sändningsformat
+    .accesskey = f
+compose-send-auto-menu-item =
+    .label = Automatisk
+    .accesskey = A
+compose-send-both-menu-item =
+    .label = Både HTML och vanlig text
+    .accesskey = B
+compose-send-html-menu-item =
+    .label = Endast HTML
+    .accesskey = H
+compose-send-plain-menu-item =
+    .label = Endast vanlig text
+    .accesskey = v
+
 ## Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -129,10 +147,6 @@ button-return-receipt =
 
 ## Encryption
 
-message-to-be-signed-icon =
-    .alt = Signera meddelande
-message-to-be-encrypted-icon =
-    .alt = Kryptera meddelande
 encryption-menu =
     .label = Säkerhet
     .accesskey = S

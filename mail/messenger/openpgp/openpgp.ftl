@@ -244,6 +244,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Typ
 openpgp-key-details-key-part-label =
     .label = Nyckeldel
+openpgp-key-details-attr-ignored = Varning: Den här nyckeln kanske inte fungerar som förväntat, eftersom vissa av dess egenskaper är osäkra och kan ignoreras.
 openpgp-key-details-algorithm-label =
     .label = Algoritm
 openpgp-key-details-size-label =
@@ -294,6 +295,15 @@ openpgp-description =
         [0] Thunderbird har inte en personlig OpenPGP-nyckel för <b>{ $identity }</b>
         [one] Thunderbird hittade { $count } personlig OpenPGP-nyckel associerad med <b>{ $identity }</b>
        *[other] Thunderbird hittade { $count } personliga OpenPGP-nycklar associerade med <b>{ $identity }</b>
+    }
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name } har ingen personlig OpenPGP-nyckel för <b>{ $identity }</b>
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] { -brand-short-name } hittade { $count } personlig OpenPGP-nyckel kopplad till <b>{ $identity }</b>
+       *[other] { -brand-short-name } hittade { $count } personliga OpenPGP-nycklar kopplade till <b>{ $identity }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Din nuvarande konfiguration använder nyckel-ID <b>{ $key }</b>
@@ -357,8 +367,6 @@ key-verification = Verifiera nyckelns fingeravtryck med en annan säker kommunik
 cannot-use-own-key-because = Det går inte att skicka meddelandet eftersom det finns ett problem med din personliga nyckel. { $problem }
 cannot-encrypt-because-missing = Det går inte att skicka meddelandet med end-to-end kryptering eftersom det finns problem med nycklarna för följande mottagare: { $problem }
 window-locked = Skrivfönstret är låst; skicka avbruten
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Krypterad meddelandedel
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Detta är en krypterad meddelandedel. Du måste öppna det i ett separat fönster genom att klicka på bilagan.
 # Strings in keyserver.jsm
