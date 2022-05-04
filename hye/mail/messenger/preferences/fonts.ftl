@@ -54,6 +54,8 @@ font-language-group-armenian =
     .label = Հայերէն
 font-language-group-bengali =
     .label = Բենգալերէն
+font-language-group-canadian =
+    .label = Միացեալ Կանադական Սիլաբարի
 font-language-group-ethiopic =
     .label = Եթովպերէն
 font-language-group-georgian =
@@ -119,3 +121,13 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Տեքստի կոդաւորումը
+text-encoding-description = Գրանշանների ծրագրային կոդաւորումը՝ նամակը ուղարկելիս կամ ստանալիս
+font-outgoing-email-label =
+    .value = Ելքային հաղորդագրութիւններ.
+    .accesskey = լ
+font-incoming-email-label =
+    .value = Մուտքային հաղորդագրություններ.
+    .accesskey = Մ
+default-font-reply-checkbox =
+    .label = Հնարաւորութեան դէպքում, պատասխանելիս աւգտագործէք ծրագրային կոդաւորումը.
+    .accesskey = ն

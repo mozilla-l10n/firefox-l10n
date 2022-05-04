@@ -3,9 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tag-dialog-window =
-    .title = Նոր Պիտակ
-
+    .title = Նոր պիտակ
 tag-name-label =
-    .value = Պիտակի Անուն․
-    .accesskey = T
-
+    .value = Պիտակի անուն․
+    .accesskey = Պ
+tag-color-label =
+    .value = Գոյնը:
+    .accesskey = Գ
