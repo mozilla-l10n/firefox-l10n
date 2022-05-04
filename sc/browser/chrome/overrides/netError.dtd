@@ -40,6 +40,9 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; non podet carrigare custa pàgina pro calicuna resone.</p>">
 
 <!ENTITY captivePortal.title "Atzede a sa rete">
+<!ENTITY captivePortal.longDesc2 "
+<p>Depes fàghere s'atzessu a custa rete prima de pòdere atzèdere a Internet.</p>
+">
 
 <!ENTITY openPortalLoginPage.label2 "Aberi sa pàgina de atzessu a sa rete">
 
@@ -48,6 +51,11 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Preme &quot;Torra·bi a proare&quot; pro colare a sa modalidade in lìnia e torra a carrigare sa pàgina.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.longDesc "
 <ul>
@@ -65,6 +73,11 @@
 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Podet dare chi depas installare àteros programmas pro abèrrere custu indiritzu.</li>
+</ul>
+">
 
 
 
