@@ -34,6 +34,10 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = Tocio priodoleddau DOM
 options-collapse-attrs-tooltip =
     .title = Tocio'r priodoleddau hir yn yr arolygydd
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Cliciwch a llusgwch i olygu gwerthoedd maint
+options-inspector-draggable-properties-tooltip =
+    .title = Cliciwch a llusgwch i olygu gwerthoedd maint yng ngolwg rheolau'r arolygydd.
 
 ## "Default Color Unit" options for the Inspector
 
