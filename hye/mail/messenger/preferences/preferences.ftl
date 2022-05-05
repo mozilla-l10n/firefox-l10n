@@ -123,6 +123,35 @@ remove-search-engine =
     .label = Հեռացնել
     .accesskey = ց
 add-opensearch-provider-title = Աւելացնել OpenSearch մատակարարին
+add-opensearch-provider-text = Աւելացնելու համար մուտքագրէք OpenSearch մատակարարի URL֊ը: Աւգտագործէք OpenSearch նկարագրության նիշի ուղղակի URL-ը, կամ URL, որտեղ այն կարող է ինքնաշխատ կերպով յայտնաբերուել:
+adding-opensearch-provider-failed-title = OpenSearch մատակարար աւելացնելիս սխալ առաջացաւ
+adding-opensearch-provider-failed-text = Չստացուեց աւելացնել OpenSearch մատակարարին { $url }֊ի համար։
+minimize-to-tray-label =
+    .label = Երբ { -brand-short-name }-ը նուազեցուի, տեղափոխէք այն համակարգային սկուտեղի մէջ
+    .accesskey = խ
+new-message-arrival = Երբ նոր հաղորդագրութիւնը հասնում է տեղ՝
+mail-play-sound-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Նուագարկել հետեւեալ ձայնային նիշը՝
+           *[other] Նուագարկել ձայն
+        }
+    .accesskey = ն
+mail-play-button =
+    .label = Նուագարկել
+    .accesskey = Ն
+change-dock-icon = Փոփոխել նախընտրութիւնները ծրագրի պատկերի համար
+app-icon-options =
+    .label = Ծրագրի պատկերի ընտրանքներ…
+    .accesskey = ր
+notification-settings = Զգուշացումները եւ սկզբնադիր ձայնը կարող են անջատուել համակարգի նախապատուութիւնների ծանուցման պատուհանում:
+notification-settings2 = Ծանուցումները եւ սկզբնադիր ձայնը կարող են անջատուել համակարգի կարգաւորումների՝ ծանուցումների վահանակից:
+animated-alert-label =
+    .label = Ցուցադրել զգուշացումը
+    .accesskey = Ց
+customize-alert-label =
+    .label = Յարմարեցնել…
+    .accesskey = Յ
 check-default-button =
     .label = Ստուգել հիմայ…
     .accesskey = հ
