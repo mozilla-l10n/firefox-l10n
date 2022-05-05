@@ -489,9 +489,52 @@ add-cloud-account =
     .label = Աւելացնել…
     .accesskey = Ա
     .defaultlabel = Աւելացնել…
+remove-cloud-account =
+    .label = Ջնջել։
+    .accesskey = Ջ
+find-cloud-providers =
+    .value = Գտնել աւելի շատ մատակարարներ…
+cloud-account-description = Աւելացնել նոր նիշի յղման կրիչ սարք
 
 ## Privacy Tab
 
+mail-content = Եղ․փոստի բովանդակութիւն
+remote-content-label =
+    .label = Թոյղատրել նամակի հեռակայ բովանդակութիւնը
+    .accesskey = կ
+exceptions-button =
+    .label = Բացառութիւններ...
+    .accesskey = Բ
+remote-content-info =
+    .value = Իմացիր աւելին՝ հեռակայ բովանդակութեան անվտանգութեան մասին
+web-content = Վեբ բովանդակութիւն
+history-label =
+    .label = Յիշել իմ այցելած կայքերը եւ յղումները
+    .accesskey = Յ
+cookies-label =
+    .label = Ընդունել նշոցիկներ հետեւեալ կայքերից՝
+    .accesskey = Ը
+third-party-label =
+    .value = Ընդունել երրորդ կողմի նշոցիկները.
+    .accesskey = ն
+third-party-always =
+    .label = Միշտ
+third-party-never =
+    .label = Երբեք
+third-party-visited =
+    .label = Այցելածներից
+keep-label =
+    .value = Պահել մինչև՝
+    .accesskey = Պ
+keep-expire =
+    .label = դրանք սպառուում են
+keep-close =
+    .label = Ես փակում եմ { -brand-short-name }֊ը
+keep-ask =
+    .label = Ամէն անգամ հարցնել ինձ
+cookies-button =
+    .label = Ցուցարել նշոցիկները
+    .accesskey = Ց
 
 ## Chat Tab
 
