@@ -535,6 +535,35 @@ keep-ask =
 cookies-button =
     .label = Ցուցարել նշոցիկները
     .accesskey = Ց
+do-not-track-label =
+    .label = Ուղարկել կայքերին “Չյետագծել“ ազդանշանը, որ դուք չէք ցանկանում յետագծուել
+    .accesskey = ր
+learn-button =
+    .label = Իմանալ աւելին
+passwords-description = { -brand-short-name }֊ը կարող է յիշել Ձեր բոլոր հաշիւների գաղտնաբառերը։
+passwords-button =
+    .label = Պահպանուած գաղտնաբառերը․․․
+    .accesskey = Պ
+primary-password-description = Հիմնական գաղտնաբառը պաշտպանում է Ձեր բոլոր գաղտնաբառերը, բայց Դուք պէտք է մուտքագրէք այն իւրաքանչիւր աշխատաշրջանում մեկ անգամ:
+primary-password-label =
+    .label = Աւգտագործէք հիմնական գաղտնաբառ
+    .accesskey = Ա
+primary-password-button =
+    .label = Փոխել հիմնական գաղտնաբառը
+    .accesskey = Փ
+forms-primary-pw-fips-title = Դուք գտնուում էք FIPS աշխատակերպի մէջ։ FIPS֊ը պահանջում է ոչ֊դատարկ հիմնական գաղտնաբառ։
+forms-master-pw-fips-desc = Գաղտնաբառի փոփոխումը ձախողուեց
+junk-description = Սահմանէք Ձեր սկզբնադիր անպէտք փոստի կարգաւորումները: Հաշուի յատուկ անպէտք փոստի կարգաւորումները կարող են կարգաբերուել հաշուի կարգաւորումներում:
+junk-label =
+    .label = Երբ ես նշեմ նամակները, որպէս անպիտան՝
+    .accesskey = Ե
+junk-move-label =
+    .label = Տեղափոխել դրանք փոստարկղի "Թափաւն" թղթապանակ
+    .accesskey = ե
+junk-delete-label =
+    .label = Ջնջել դրանց
+    .accesskey = Ջ
+antivirus-description = { -brand-short-name }-ը կարող է հեշտացնել ստացուած նամակների հակավիրուսային ստուգումը՝ մինչեւ դրանք համակարգիչ ներբեռնելը։
 
 ## Chat Tab
 
