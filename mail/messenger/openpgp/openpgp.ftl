@@ -244,6 +244,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Type
 openpgp-key-details-key-part-label =
     .label = Sleuteldeel
+openpgp-key-details-attr-ignored = Waarschuwing: deze sleutel werkt mogelijk niet zoals verwacht, omdat sommige eigenschappen onveilig zijn en mogelijk worden genegeerd.
 openpgp-key-details-algorithm-label =
     .label = Algoritme
 openpgp-key-details-size-label =
@@ -294,6 +295,15 @@ openpgp-description =
         [0] Thunderbird heeft geen persoonlijke OpenPGP-sleutel voor <b>{ $identity }</b>
         [one] Thunderbird heeft { $count } persoonlijke OpenPGP-sleutel gevonden die is gekoppeld aan <b>{ $identity }</b>
        *[other] Thunderbird heeft { $count } persoonlijke OpenPGP-sleutels gevonden die zijn gekoppeld aan <b>{ $identity }</b>
+    }
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name } heeft geen persoonlijke OpenPGP-sleutel voor <b>{ $identity }</b>
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] { -brand-short-name } heeft { $count } persoonlijke OpenPGP-sleutel gevonden die is gekoppeld aan <b>{ $identity }</b>
+       *[other] { -brand-short-name } heeft { $count } persoonlijke OpenPGP-sleutels gevonden die zijn gekoppeld aan <b>{ $identity }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Uw huidige configuratie gebruikt sleutel-ID <b>{ $key }</b>
@@ -357,8 +367,6 @@ key-verification = Controleer de vingerafdruk van de sleutel met een ander bevei
 cannot-use-own-key-because = Kan het bericht niet verzenden, omdat er een probleem is met uw persoonlijke sleutel. { $problem }
 cannot-encrypt-because-missing = Kan dit bericht niet verzenden met end-to-end-versleuteling, omdat er problemen zijn met de sleutels van de volgende ontvangers: { $problem }
 window-locked = Het opstelvenster is vergrendeld; verzenden geannuleerd
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Versleuteld berichtgedeelte
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Dit is een versleuteld berichtgedeelte. U moet het in een apart venster openen door op de bijlage te klikken.
 # Strings in keyserver.jsm
