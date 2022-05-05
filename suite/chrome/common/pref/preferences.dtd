@@ -46,6 +46,7 @@
 
 <!ENTITY advance.label "Rozšířené">
 <!ENTITY scriptsAndWindows.label "Skripty a zásuvné moduly">
+<!ENTITY scriptsAndWindows2.label "Skripty">
 <!ENTITY keynav.label "Navigace klávesnicí">
 <!ENTITY findAsYouType.label "Najít přímo při psaní">
 <!ENTITY cache.label "Mezipaměť">
@@ -54,7 +55,6 @@
 <!ENTITY httpnetworking.label "HTTP spojení">
 <!ENTITY smart.label "Instalace software">
 <!ENTITY mousewheel.label "Kolečko myši">
-
 <!ENTITY debugging.label "Ladění">
 
 <!ENTITY focusSearch.key "f">

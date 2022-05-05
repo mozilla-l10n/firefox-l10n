@@ -316,6 +316,13 @@
 <!ENTITY editMsgAsNewCmd.label "Upravit zprávu jako novou">
 <!ENTITY editMsgAsNewCmd.accesskey "U">
 <!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Upravit jako novou zprávu">
+<!ENTITY editDraftMsgCmd.label "Upravit koncept zprávy">
+<!ENTITY editTemplateMsgCmd.label "Upravit šablonu">
+<!ENTITY newMsgFromTemplateCmd.label "Nová zpráva ze šablony">
+<!-- LOCALIZATION NOTE (newMsgFromTemplateCmd.keycode):
+     Do not localize VK_RETURN. -->
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN">
 <!ENTITY createFilter.label "Vytvořit filtr ze zprávy…">
 <!ENTITY createFilter.accesskey "v">
 <!ENTITY archiveMsgCmd.label "Archivovat">
@@ -470,6 +477,10 @@
 <!ENTITY contextOpenNewTab.accesskey "p">
 <!ENTITY contextEditAsNew.label "Upravit jako novou…">
 <!ENTITY contextEditAsNew.accesskey "n">
+<!ENTITY contextEditMsgAsNew.label "Upravit jako novou zprávu">
+<!ENTITY contextEditDraftMsg.label "Upravit koncept zprávy">
+<!ENTITY contextEditTemplate.label "Upravit šablonu">
+<!ENTITY contextNewMsgFromTemplate.label "Nová zpráva ze šablony">
 <!ENTITY contextReplySender.label "Odpovědět pouze odesílateli">
 <!ENTITY contextReplySender.accesskey "i">
 <!ENTITY contextReplyList.label "Odpovědět do konference">
