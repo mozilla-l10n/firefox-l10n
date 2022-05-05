@@ -244,6 +244,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Typo
 openpgp-key-details-key-part-label =
     .label = Parte del clave
+openpgp-key-details-attr-ignored = ATTENTION: Iste clave pote non functionar como expectate, perque parte de su proprietates es non secur e poterea esser ignorate.
 openpgp-key-details-algorithm-label =
     .label = Algorithmo
 openpgp-key-details-size-label =
@@ -295,6 +296,8 @@ openpgp-description =
         [one] Thunderbird ha trovate { $count } clave personal OpenPGP associate con <b>{ $identity }</b>
        *[other] Thunderbird ha trovate { $count } claves personal OpenPGP associate con <b>{ $identity }</b>
     }
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name } non ha un clave OpenPGP personal pro <b>{ $identity }</b>
 #   $count (Number) - the number of configured keys associated with the current identity
 #   $identity (String) - the email address of the currently selected identity
 openpgp-description-has-keys =
