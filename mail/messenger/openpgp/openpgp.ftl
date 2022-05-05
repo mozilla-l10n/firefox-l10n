@@ -256,6 +256,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Typ
 openpgp-key-details-key-part-label =
     .label = Klucowy źěl
+openpgp-key-details-attr-ignored = Warnowanje: Toś ten kluc snaź ako wótcakany njefunkcioněrujo, dokulaž někotare z jogo kakosćow su njewěste a mógli se ignorěrowaś.
 openpgp-key-details-algorithm-label =
     .label = Algoritmus
 openpgp-key-details-size-label =
@@ -308,6 +309,17 @@ openpgp-description =
         [two] Thunderbird ma { $count } wósobinskej OpenPGP-kluca za <b>{ $identity }</b>
         [few] Thunderbird ma { $count } wósobinske OpenPGP-kluce za <b>{ $identity }</b>
        *[other] Thunderbird ma { $count } wósobinskich OpenPGP-klucow za <b>{ $identity }</b>
+    }
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name } wósobinski OpenPGP-kluc za <b>{ $identity }</b> njama
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] { -brand-short-name } jo namakał { $count } wósobinski OpenPGP-kluc za <b>{ $identity }</b>
+        [two] { -brand-short-name } jo namakał { $count } wósobinskej OpenPGP-kluca za <b>{ $identity }</b>
+        [few] { -brand-short-name } jo namakał { $count } wósobinske OpenPGP-kluce za <b>{ $identity }</b>
+       *[other] { -brand-short-name } jo namakał { $count } wósobinskich OpenPGP-klucow za <b>{ $identity }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Waša aktualna konfiguracija klucowe ID <b>{ $key }</b> wužywa
@@ -371,8 +383,6 @@ key-verification = Pśeglědajśo palcowy wótśišć kluca z pomocu drugego wě
 cannot-use-own-key-because = Njejo móžno powěsć słaś, dokulaž dajo problem z wašym wósobinskim klucom. { $problem }
 cannot-encrypt-because-missing = Njejo móžno, toś tu powěsć z koděrowanim kóńc do kóńca pósłác, dokulaž daju problemy z klucami slědujucych dostawarjow: { $problem }
 window-locked = Wobźěłowańske wokno jo zastajone; słanje jo se pśetergnuło
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Skoděrowany źěl powěsći
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = To jo skoděrowany powěsćowy źěl. Klikniśo na pśidank, aby jen w separatnem woknje wócynił.
 # Strings in keyserver.jsm
