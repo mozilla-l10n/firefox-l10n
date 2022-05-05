@@ -70,21 +70,48 @@ manage-messenger-languages-button =
 confirm-messenger-language-change-description = Այս փոփոխութիւնները կիրառելու համար վերագործարկեք { -brand-short-name }֊ը
 confirm-messenger-language-change-button = Կիրառել եւ վերագործարկել
 update-setting-write-failure-title = Սխալ թարմացուող նախապատուութիւնների պահպանում
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name }-ում խնդիրներ առաջացան, եւ այս փոփոխութիւնը չպահպանուեց: Յիշէք, որ թարմացման այս նախընտրութեան հաստատման համար հարկաւոր է թոյղատրել գրառում կատարել ստորեւ նիշում: Դուք կամ համակարգավարը կարող էք շտկել սխալը, եթե աւգտատէրերի խմբին լիարժէք վերահսկողութիւն տաք այս նիշին:
+    
+    Չյաջողուեց գրել նիշի մէջ. { $path }
 update-in-progress-title = Թարմացումն ընթացքի մէջ է
 update-in-progress-message = Ցանկանում եք { -brand-short-name }֊ը շարունակի այս թարմացումը
 update-in-progress-ok-button = Հրաժարուել
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = & Շարունակել
+account-button = Հաշուի կարգաւորումներ
 open-addons-sidebar-button = Յաւելումներ ու հիմնապատկերներ
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Առաջնային գաղտնաբառ ստեղծելու համար, մուտքագրէք Ձեր Windows-ի մուտքի հաւատարմագրերը։ Սա կաւգնի ապահովել Ձեր հաշիւների անվտանգութիւնը։
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = Ստեղծել առաջնային գաղտնաբառ
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+focus-search-shortcut =
+    .key = f
+focus-search-shortcut-alt =
+    .key = k
+general-legend = { -brand-short-name }-ի մեկնարկային էջը
+start-page-label =
+    .label = Երբ { -brand-short-name }-ը մեկնարկուի, ցուցադրել ուղերձի տարածքում մեկնարկի էջը
+    .accesskey = Ե
+location-label =
+    .value = Տեղակայումը՝
+    .accesskey = ե
 restore-default-label =
     .label = Վերականգնել սկզբնադիրը
     .accesskey = Վ
