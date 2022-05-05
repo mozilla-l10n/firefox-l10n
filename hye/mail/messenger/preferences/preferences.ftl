@@ -369,16 +369,69 @@ open-msg-tab =
 open-msg-window =
     .label = Նոր հաղորդագրութեան պանուհանը
     .accesskey = ն
+open-msg-ex-window =
+    .label = Աւգտագործուող հաղորդագրութեան պատուհանը
+    .accesskey = Ա
+close-move-delete =
+    .label = Փակել նամակի էջը/պատուհանը ջնջելուց յետոյ
+    .accesskey = Փ
+display-name-label =
+    .value = Ցուցադրուող անունը․
+condensed-addresses-label =
+    .label = Ցոյց տալ միայն Ձեր հասցէագրքում գտնուող մարդկանց ցուցադրուող անունը
+    .accesskey = Ց
 
 ## Compose Tab
 
+forward-label =
+    .value = Փոխանցել նամակները՝
+    .accesskey = Փ
+inline-label =
+    .label = Ներտող
+as-attachment-label =
+    .label = Որպէս կցորդ
+extension-label =
+    .label = աւելացնել յաւելում նիշի անուանը
+    .accesskey = յ
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
 
+auto-save-label =
+    .label = Ինքնաբերաբար պահել իւրաքանչիւր՝
+    .accesskey = Ի
+auto-save-end = րոպէներ
 
 ##
 
+warn-on-send-accel-key =
+    .label = Հաստատէք, երբ աւգտագործում էք ստեղնաշարի դիւրանցում՝ հաղորդագրութիւն ուղարկելու համար
+    .accesskey = Հ
+spellcheck-label =
+    .label = Ուղարկելուց առաջ ստուգել ուղղագրութիւնը
+    .accesskey = Ո
+spellcheck-inline-label =
+    .label = Միացնել ուղղագրութեան ստուգումը
+    .accesskey = Մ
+language-popup-label =
+    .value = Լեզուն.
+    .accesskey = Լ
+download-dictionaries-link = Ներբեռնել աւելի շատ բառարաններ
+font-label =
+    .value = Տառատեսակը․
+    .accesskey = Տ
+font-size-label =
+    .value = Չափը.
+    .accesskey = Չ
+default-colors-label =
+    .label = Աւգտագործել ընթերցողի սկզբնադիր գոյները
+    .accesskey = ս
+font-color-label =
+    .value = Տեքստի գույնը.
+    .accesskey = Տ
+bg-color-label =
+    .value = Յետնապատկերի գոյնը.
+    .accesskey = Յ
 restore-html-label =
     .label = Վերականգնել սկզբնադիրը
     .accesskey = Վ
