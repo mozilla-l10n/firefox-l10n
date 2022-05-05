@@ -383,6 +383,9 @@ applications-use-os-default-label =
 ##
 
 applications-handle-new-file-types-description = Hvad skal { -brand-short-name } gøre med andre filer?
+applications-save-for-new-types =
+    .label = Gem filer
+    .accesskey = G
 applications-ask-before-handling =
     .label = Spørg om filer skal åbnes eller gemmes
     .accesskey = S
