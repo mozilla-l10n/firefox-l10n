@@ -3,6 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
+compose-send-format-menu =
+    .label = Fformat Anfon
+    .accesskey = F
+compose-send-auto-menu-item =
+    .label = Awtomatig
+    .accesskey = A
+compose-send-both-menu-item =
+    .label = HTML a Thestun Plaen
+    .accesskey = H
+compose-send-html-menu-item =
+    .label = Dim ond HTML
+    .accesskey = D
+compose-send-plain-menu-item =
+    .label = Dim ond Testun Plaen
+    .accesskey = T
+
 ## Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -150,10 +168,6 @@ button-return-receipt =
 
 ## Encryption
 
-message-to-be-signed-icon =
-    .alt = Llofnodi neges
-message-to-be-encrypted-icon =
-    .alt = Amgryptio neges
 encryption-menu =
     .label = Diogelwch
     .accesskey = D

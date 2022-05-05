@@ -268,6 +268,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Math
 openpgp-key-details-key-part-label =
     .label = Rhan Allwedd
+openpgp-key-details-attr-ignored = Rhybudd: Efallai na fydd yr allwedd hon yn gweithio yn ôl y disgwyl, oherwydd bod rhai o'i phriodweddau'n anniogel ac y mae modd eu hanwybyddu.
 openpgp-key-details-algorithm-label =
     .label = Algorithm
 openpgp-key-details-size-label =
@@ -322,6 +323,19 @@ openpgp-description =
         [few] Mae Thunderbird wedi canfod { $count } allwedd OpenPGP personol sy'n gysylltiedig â <b>{ $identity }</b>
         [many] Mae Thunderbird wedi canfod { $count } allwedd OpenPGP personol sy'n gysylltiedig â <b>{ $identity }</b>
        *[other] Mae Thunderbird wedi canfod { $count } allwedd OpenPGP personol sy'n gysylltiedig â <b>{ $identity }</b>
+    }
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = Nid oes gan { -brand-short-name } allwedd OpenPGP personol ar gyfer <b>{ $identity }</b>
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [zero] Mae { -brand-short-name } wedi canfod { $count } allwedd OpenPGP personol sy'n gysylltiedig â <b>{ $identity }</b>
+        [one] Mae { -brand-short-name } wedi canfod { $count } allwedd OpenPGP personol sy'n gysylltiedig â <b>{ $identity }</b>
+        [two] Mae { -brand-short-name } wedi canfod { $count } allwedd OpenPGP personol sy'n gysylltiedig â <b>{ $identity }</b>
+        [few] Mae { -brand-short-name } wedi canfod { $count } allwedd OpenPGP personol sy'n gysylltiedig â <b>{ $identity }</b>
+        [many] Mae { -brand-short-name } wedi canfod { $count } allwedd OpenPGP personol sy'n gysylltiedig â <b>{ $identity }</b>
+       *[other] Mae { -brand-short-name } wedi canfod { $count } allwedd OpenPGP personol sy'n gysylltiedig â <b>{ $identity }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Mae eich ffurfweddiad cyfredol yn defnyddio ID allwedd <b>{ $key }</b>
@@ -385,8 +399,6 @@ key-verification = Dilyswch bysbrint yr allwedd gan ddefnyddio sianel gyfathrebu
 cannot-use-own-key-because = Methu anfon y neges, oherwydd mae problem gyda'ch allwedd bersonol. { $problem }
 cannot-encrypt-because-missing = Methu anfon y neges hon gydag amgryptio pen-i-ben, oherwydd mae problemau gydag allweddi'r derbynwyr canlynol: { $problem }
 window-locked = Mae'r ffenestr gyfansoddi wedi'i chloi; anfon wedi'i ddiddymu
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Rhan o neges wedi'i hamgryptio
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Mae hon yn rhan o neges wedi'i hamgryptio. Mae angen i chi ei hagor mewn ffenestr ar wahân trwy glicio ar yr atodiad.
 # Strings in keyserver.jsm
