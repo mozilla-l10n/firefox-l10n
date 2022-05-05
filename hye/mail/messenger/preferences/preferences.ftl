@@ -192,10 +192,55 @@ browsing-gtk-use-non-overlay-scrollbars =
     .label = Մշտապէս ցուցադրել ոլորագաւտիները
     .accesskey = լ
 system-integration-legend = Համակարգի ամբողջացում
+always-check-default =
+    .label = Միշտ ստուգէք ՝ արդեւք գործարկման ժամանակ { -brand-short-name }-ը  փոստի սկզբնադիր յաճախորդն է
+    .accesskey = Մ
 check-default-button =
     .label = Ստուգել հիմայ…
     .accesskey = հ
+# Note: This is the search engine name for all the different platforms.
+# Platforms that don't support it should be left blank.
+search-engine-name =
+    { PLATFORM() ->
+        [macos] Լուսարձակ
+        [windows] Պատուհանների որոնում
+       *[other] { "" }
+    }
+search-integration-label =
+    .label = Թոյղատրել { search-engine-name }֊ին որոնել նամակներ
+    .accesskey = ո
+config-editor-button =
+    .label = Կազմաձեւել խմբագրիչը…
+    .accesskey = Կ
+return-receipts-description = Որոշէք, թե ինչպէս { -brand-short-name }-ը վարուա վերադարձի ստացականների հետ
+return-receipts-button =
+    .label = Վերադարձի ստացականներ…
+    .accesskey = Վ
+update-app-legend = { -brand-short-name }-ի թարմացումներ
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Տարբերակ { $version }
+allow-description = Թոյլատրել { -brand-short-name }-ին
+automatic-updates-label =
+    .label = Ինքնաշխատ տեղադրել թարմացումները (խորհուրդ է տրուում)
+    .accesskey = Ի
+check-updates-label =
+    .label = Ստուգել թարմացումները, բայց ես ինքս կորոշեմ տեղադրել այն, թե ոչ
+    .accesskey = Ս
+update-history-button =
+    .label = Ցուցադրել թարմացումների պատմութիւնը
+    .accesskey = ր
+use-service =
+    .label = Աւգտագործել յետնապատկերի ծառայութիւները՝ թարմացումները տեղադրելու համար
+    .accesskey = յ
+cross-user-udpate-warning = Այս կարգաբերումը կը կիրառուի Windows- ի բոլոր հաշիւների եւ { -brand-short-name }-ի համար; { -brand-short-name }-ի այս տեղադրումը աւգտագործող հաշիւներ:
+networking-legend = Կապակցում
+proxy-config-description = Կազմաձեւեք, թե ինչպէս { -brand-short-name }-ը կապակցուի համացանցին:
+network-settings-button =
+    .label = Կարգաւորումներ...
+    .accesskey = Կ
 offline-legend = Անցանց
+offline-settings = Կազմաձեւել անցանցի կարգաւորումները։
 offline-settings-button =
     .label = Անցանց…
     .accesskey = Ա
