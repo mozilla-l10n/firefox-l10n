@@ -244,20 +244,72 @@ offline-settings = Կազմաձեւել անցանցի կարգաւորումն�
 offline-settings-button =
     .label = Անցանց…
     .accesskey = Ա
+diskspace-legend = Սկաւառակի տարածութիւն
+offline-compact-folder =
+    .label = Սեղմել բոլոր թղթապանակները, եթե դա կը խնայի՝
+    .accesskey = ե
+offline-compact-folder-automatically =
+    .label = Հարցնել ամեն անգամ սեղմելուց առաջ
+    .accesskey = ա
+compact-folder-size =
+    .value = ՄԲ ընդամէնը
 
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
 
+use-cache-before =
+    .value = Աւգտագործել մինչեւ
+    .accesskey = Ա
+use-cache-after = ՄԲ պահոցի համար
 
 ##
 
+smart-cache-label =
+    .label = Վերագրել պահոցի ինքնաշխատ կառավարումը
+    .accesskey = ր
+clear-cache-button =
+    .label = Մաքրել հիմայ
+    .accesskey = Մ
+fonts-legend = Տառատեսակները եւ գոյները
 default-font-label =
     .value = Սկզբնադիր տառատեսակ
     .accesskey = Ս
 default-size-label =
     .value = Չափ․
     .accesskey = Չ
+font-options-button =
+    .label = Լրացուցիչ…
+    .accesskey = Լ
+color-options-button =
+    .label = Գոյներ…
+    .accesskey = Գ
+display-width-legend = Սովորական տեքստային նամակ
+# Note : convert-emoticons-label 'Emoticons' are also known as 'Smileys', e.g. :-)
+convert-emoticons-label =
+    .label = Ցուցադրել զմայղիկները, որպէս գրաֆիկայ
+    .accesskey = զ
+display-text-label = Մէջբերուած սովորական տեքստային նամակները ցուցադրելիս.
+style-label =
+    .value = Ոճ
+    .accesskey = Ո
+regular-style-item =
+    .label = Կանոնաւոր
+bold-style-item =
+    .label = Թաւ
+italic-style-item =
+    .label = Շեղ
+bold-italic-style-item =
+    .label = Հաստ շեղ
+size-label =
+    .value = Չափս․
+    .accesskey = Չ
+regular-size-item =
+    .label = Կանոնաւոր
+bigger-size-item =
+    .label = Աւելի մեծ
+smaller-size-item =
+    .label = Աւելի փոքր
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
