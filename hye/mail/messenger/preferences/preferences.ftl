@@ -122,6 +122,7 @@ add-web-search-engine =
 remove-search-engine =
     .label = Հեռացնել
     .accesskey = ց
+add-opensearch-provider-title = Աւելացնել OpenSearch մատակարարին
 check-default-button =
     .label = Ստուգել հիմայ…
     .accesskey = հ
