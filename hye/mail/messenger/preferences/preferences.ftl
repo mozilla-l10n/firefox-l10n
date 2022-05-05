@@ -2,9 +2,27 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Փակել
+preferences-doc-title = Նախընտրութիւններ
+preferences-doc-title2 = Կարգաւորումներ
+category-list =
+    .aria-label = Անուանակարգեր
 pane-general-title = Ընդհանուր
 category-general =
     .tooltiptext = { pane-general-title }
+pane-compose-title = Կազմուածք
+category-compose =
+    .tooltiptext = Կազմուածք
+pane-privacy-title = Գաղտնիութիւն եւ անվտանգութիւն
+category-privacy =
+    .tooltiptext = Գաղտնիութիւն եւ անվտանգութիւն
+pane-chat-title = Զրոյց
+category-chat =
+    .tooltiptext = Զրոյց
+pane-calendar-title = Աւրացոյց
+category-calendar =
+    .tooltiptext = Աւրացոյց
 general-language-and-appearance-header = Լեզուն եւ տեսքը
 general-incoming-mail-header = Մուտքային փոստեր
 general-files-and-attachment-header = Նիշքեր եւ Կցորդներ
@@ -20,7 +38,8 @@ compose-html-style-title = HTML Ոճ
 composition-addressing-header = հասցեւորում
 privacy-main-header = Գաղտնիութիւն
 privacy-passwords-header = Գաղտնաբառեր
-privacy-junk-header = Թափոն
+privacy-junk-header = Թափաւն
+collection-header = { -brand-short-name }-ի տուեալների հաւաքում եւ աւգտագործում
 privacy-security-header = Անվտանգութիւն
 privacy-scam-detection-title = Խաբեութեան յայտնաբերում
 privacy-anti-virus-title = հակաւիրուսային
