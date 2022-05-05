@@ -23,24 +23,27 @@
 <!ENTITY inReplyToField.label "V odpovědi na: ">
 <!ENTITY originalWebsite.label "Webový server:">
 
-<!ENTITY editMessage.label "Upravit rozepsané…">
-<!ENTITY editMessage.accesskey "U">
+<!ENTITY editMessage.label                 "Upravit rozepsané…">
+<!ENTITY editMessage.accesskey             "U">
 
-<!ENTITY attachmentsTree.label "Přílohy:">
-<!ENTITY attachmentsTree.accesskey "P">
-<!ENTITY openAttachmentCmd.label "Otevřít">
-<!ENTITY openAttachmentCmd.accesskey "O">
-<!ENTITY viewAttachmentCmd.label "Zobrazit zdrojový kód">
-<!ENTITY viewAttachmentCmd.accesskey "V">
-<!ENTITY saveAsAttachmentCmd.label "Uložit jako…">
-<!ENTITY saveAsAttachmentCmd.accesskey "j">
-<!ENTITY detachAttachmentCmd.label "Vyčlenit…">
-<!ENTITY detachAttachmentCmd.accesskey "V">
-<!ENTITY deleteAttachmentCmd.label "Smazat">
-<!ENTITY deleteAttachmentCmd.accesskey "m">
-<!ENTITY saveAllAttachmentsCmd.label "Uložit vše…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "U">
-<!ENTITY detachAllAttachmentsCmd.label "Vyčlenit vše…">
+<!ENTITY editDraft.label                   "Upravit koncept…">
+<!ENTITY editTemplate.label                "Upravit šablonu…">
+
+<!ENTITY attachmentsTree.label             "Přílohy:">
+<!ENTITY attachmentsTree.accesskey         "P">
+<!ENTITY openAttachmentCmd.label           "Otevřít">
+<!ENTITY openAttachmentCmd.accesskey       "O">
+<!ENTITY viewAttachmentCmd.label           "Zobrazit zdrojový kód">
+<!ENTITY viewAttachmentCmd.accesskey       "V">
+<!ENTITY saveAsAttachmentCmd.label         "Uložit jako…">
+<!ENTITY saveAsAttachmentCmd.accesskey     "j">
+<!ENTITY detachAttachmentCmd.label         "Vyčlenit…">
+<!ENTITY detachAttachmentCmd.accesskey     "V">
+<!ENTITY deleteAttachmentCmd.label         "Smazat">
+<!ENTITY deleteAttachmentCmd.accesskey     "m">
+<!ENTITY saveAllAttachmentsCmd.label       "Uložit vše…">
+<!ENTITY saveAllAttachmentsCmd.accesskey   "U">
+<!ENTITY detachAllAttachmentsCmd.label     "Vyčlenit vše…">
 <!ENTITY detachAllAttachmentsCmd.accesskey "V">
-<!ENTITY deleteAllAttachmentsCmd.label "Smazat vše">
+<!ENTITY deleteAllAttachmentsCmd.label     "Smazat vše">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "S">
