@@ -4,6 +4,8 @@
 
 failed-pp-change = Ниҳонвожаи асосӣ тағйир дода намешавад.
 pp-erased-ok = Шумо ниҳонвожаи асосии худро нест кардед. { pp-empty-warning }
+pw-change-success-title = Ниҳонвожа бо муваффақият тағйир ёфт
+pw-change-failed-title = Ниҳонвожа тағйир дода нашуд
 pw-remove-button =
     .label = Тоза кардан
 primary-password-dialog =
@@ -15,5 +17,9 @@ set-password-meter = Дараҷаи сифати ниҳонвожа
 set-password-meter-loading = Бор шуда истодааст
 remove-primary-password =
     .title = Тоза кардани ниҳонвожаи ибтидоӣ
+remove-info =
+    .value = Барои идома додан, шумо бояд ниҳонвожаи ҷории худро ворид кунед:
+remove-primary-password-warning1 = Ниҳонвожаи асосии шумо барои муҳофизат кардани маълумоти ҳассос монанди воридшавиҳо ва ниҳонвожаҳо истифода мешавад.
+remove-primary-password-warning2 = Агар шумо ниҳонвожаи асосии худро тоза кунед, маълумоти шумо муҳофизат карда намешавад, агар шахсони бегона ба компютери шумо дастрасӣ пайдо кунанд.
 remove-password-old-password =
     .value = Ниҳонвожаи ҷорӣ:
