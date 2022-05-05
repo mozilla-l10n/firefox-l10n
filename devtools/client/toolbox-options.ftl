@@ -34,6 +34,10 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = DOM-attributen ôfkappe
 options-collapse-attrs-tooltip =
     .title = Lange attributen yn de ynspektor ôfkappe
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Klik en sleep om ôfmjittingswearden te bewurkjen
+options-inspector-draggable-properties-tooltip =
+    .title = Klik en sleep om de ôfmjittingswearden te bewurkjen yn de ynspektorrigelwerjefte.
 
 ## "Default Color Unit" options for the Inspector
 
