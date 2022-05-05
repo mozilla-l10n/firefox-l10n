@@ -45,7 +45,7 @@ about-processes-privilegedmozilla-process = { -vendor-short-name }-websteder ({ 
 about-processes-gmp-plugin-process = Gecko media-plugins ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
-about-processes-rdd-process = Data-afkoder ({ $pid })
+about-processes-rdd-process = Data-dekoder ({ $pid })
 about-processes-socket-process = Netværk ({ $pid })
 about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Fork-server ({ $pid })
@@ -63,8 +63,8 @@ about-processes-unknown-process = Andet: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, stor)
+about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, cross-origin-isoleret)
 about-processes-web-isolated-process-private = { $origin } — Privat ({ $pid })
 about-processes-web-large-allocation-process-private = { $origin } — Privat ({ $pid }, stor)
@@ -120,6 +120,7 @@ about-processes-frame-name-one = Subframe: { $url }
 about-processes-frame-name-many = Subframes ({ $number }): { $shortUrl }
 # Utility process actor names
 about-processes-utility-actor-unknown = Ukendt aktør
+about-processes-utility-actor-audio-decoder = Lyd-dekoder
 
 ## Displaying CPU (percentage and total)
 ## Variables:
