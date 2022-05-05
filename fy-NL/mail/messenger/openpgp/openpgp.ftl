@@ -244,6 +244,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Type
 openpgp-key-details-key-part-label =
     .label = Kaaidiel
+openpgp-key-details-attr-ignored = Warskôging: dizze kaai wurket mooglik net as ferwachte, omdat guon eigenskippen ûnfeilich binne en mooglik negearre wurde.
 openpgp-key-details-algorithm-label =
     .label = Algoritme
 openpgp-key-details-size-label =
@@ -294,6 +295,15 @@ openpgp-description =
         [0] Thunderbird hat gjin persoanlike OpenPGP-kaai foar <b>{ $identity }</b>
         [one] Thunderbird hat { $count } persoanlike OpenPGP-kaai fûn dy’t keppele is oan <b>{ $identity }</b>
        *[other] Thunderbird hat { $count } persoanlike OpenPGP-kaaien fûn dy’t keppele binne oan <b>{ $identity }</b>
+    }
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name } hat gjin persoanlike OpenPGP-kaai foar <b>{ $identity }</b>
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] { -brand-short-name } hat { $count } persoanlike OpenPGP-kaai fûn dy’t keppele is oan <b>{ $identity }</b>
+       *[other] { -brand-short-name } hat { $count } persoanlike OpenPGP-kaaien fûn dy’t keppele binne oan <b>{ $identity }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Jo aktuele konfiguraasje brûkt kaai-ID <b>{ $key }</b>
@@ -357,8 +367,6 @@ key-verification = Kontrolearje de fingerôfdruk fan de kaai fia in oar befeilig
 cannot-use-own-key-because = Kin it berjocht net ferstjoere, omdat der in probleem is mei jo persoanlike kaai. { $problem }
 cannot-encrypt-because-missing = Kin dit berjocht net ferstjoere mei end-to-end-fersifering, omdat der problemen binne mei de kaaien fan de folgjende ûntfangers: { $problem }
 window-locked = It opstelfinster is beskoattele; ferstjoeren annulearre
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Fersifere berjochtdiel
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Dit is in fersifere berjochtdiel. Jo moatte it yn in apart finster iepenje troch op de bylage te klikken.
 # Strings in keyserver.jsm
