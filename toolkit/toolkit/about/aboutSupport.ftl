@@ -98,13 +98,13 @@ user-js-description = Notandamappan þín inniheldur <a data-l10n-name="user-js-
 locked-key-prefs-title = Mikilvægir læstir valkostir
 locked-prefs-name = Nafn
 locked-prefs-value = Gildi
-graphics-title = Grafík
+graphics-title = Myndgerð
 graphics-features-title = Eiginleikar
 graphics-diagnostics-title = Greining
 graphics-failure-log-title = Villu loggur
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
-graphics-decision-log-title = Atburðaskrá fyrir ákvarðanir
+graphics-decision-log-title = Atvikaskrá fyrir ákvarðanir
 graphics-crash-guards-title = Óvirkar stillingar fyrir hrunvara
 graphics-workarounds-title = Leiðir framhjá villum
 # Windowing system in use on Linux (e.g. X11, Wayland).
@@ -133,7 +133,7 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Breytur
 troubleshoot-mode-title = Greina vandamál
 restart-in-troubleshoot-mode-label = Úrræðaleitarhamur…
-clear-startup-cache-title = Prófaðu að hreinsa skyndiminni ræsingar
+clear-startup-cache-title = Prófa að hreinsa skyndiminni ræsingar
 clear-startup-cache-label = Hreinsa skyndiminni ræsingar...
 startup-cache-dialog-title2 = Endurræsa { -brand-short-name } til að hreinsa skyndiminni ræsingar?
 startup-cache-dialog-body2 = Þetta mun ekki breyta stillingum þínum eða fjarlægja viðbætur.
@@ -192,8 +192,8 @@ remote-debugging-url = Vefslóð
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
     { $days ->
-        [one] Hrunskýrslur fyrir seinasta { $days } dag
-       *[other] Hrunskýrslur fyrir seinustu { $days } daga
+        [one] Hrunskýrslur fyrir síðasta { $days } dag
+       *[other] Hrunskýrslur fyrir síðustu { $days } daga
     }
 # Variables
 # $minutes (integer) - Number of minutes since crash
@@ -291,7 +291,7 @@ uses-tiling = Notar flísar
 content-uses-tiling = Notar flísar (innihald)
 off-main-thread-paint-enabled = Litun fyrir utan aðalþráð virkt
 off-main-thread-paint-worker-count = Fjöldi vinnsluþráða fyrir litun fyrir utan aðalþráð
-target-frame-rate = Markhraði ramma
+target-frame-rate = Marktíðni ramma
 min-lib-versions = Bjóst við lágmarksútgáfu
 loaded-lib-versions = Útgáfa í notkun
 has-seccomp-bpf = Seccomp-BPF (System Call sía)
@@ -336,7 +336,7 @@ fission-status-enabled-by-user-pref = Virkjað af notanda
 fission-status-disabled-by-user-pref = Gert óvirkt af notanda
 fission-status-disabled-by-e10s-other = E10s óvirkt
 fission-status-enabled-by-rollout = Gert virkt af útfærslu í áföngum
-async-pan-zoom = Ósamstillt Hliðrun/Aðdráttur
+async-pan-zoom = Ósamstillt hliðrun/aðdráttur
 apz-none = ekkert
 wheel-enabled = músa skrunhjól virkt
 touch-enabled = snertiskjár virkur

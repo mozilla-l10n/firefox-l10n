@@ -14,10 +14,10 @@ about-webrtc-save-page-dialog-title = vista about:webrtc sem
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
-about-webrtc-aec-logging-msg-label = AEC atburðaskráning
-about-webrtc-aec-logging-off-state-label = Byrja AEC atburðaskráningu
-about-webrtc-aec-logging-on-state-label = Hætta AEC atburðaskráningu
-about-webrtc-aec-logging-on-state-msg = AEC atburðaskráning virk (talaðu við viðmælanda í nokkrar mínútur og stöðvaðu svo skráninguna)
+about-webrtc-aec-logging-msg-label = AEC atvikaskráning
+about-webrtc-aec-logging-off-state-label = Byrja AEC-atvikaskráningu
+about-webrtc-aec-logging-on-state-label = Hætta AEC-atvikaskráningu
+about-webrtc-aec-logging-on-state-msg = AEC-atvikaskráning virk (talaðu við viðmælanda í nokkrar mínútur og stöðvaðu svo skráninguna)
 
 ##
 
@@ -81,11 +81,11 @@ about-webrtc-debug-mode-off-state-label = Byrja í villuleitarham
 about-webrtc-debug-mode-on-state-label = Hætta í villuleitarham
 about-webrtc-stats-heading = Tölfræði lotunnar
 about-webrtc-stats-clear = Hreinsa feril
-about-webrtc-log-heading = Atburðaskrá tenginga
+about-webrtc-log-heading = Atvikaskrá tenginga
 about-webrtc-log-clear = Hreinsa annál
-about-webrtc-log-show-msg = sýna atburðaskrá
+about-webrtc-log-show-msg = sýna atvikaskrá
     .title = smelltu til að stækka þetta svæði
-about-webrtc-log-hide-msg = fela atburðaskrá
+about-webrtc-log-hide-msg = fela atvikaskrá
     .title = smelltu til að fella saman þetta svæði
 
 ## These are used to display a header for a PeerConnection.
@@ -138,7 +138,7 @@ about-webrtc-frame-stats-heading = Tölfræði myndramma - MediaStreamTrack ID: 
 about-webrtc-save-page-msg = síða vistuð á: { $path }
 about-webrtc-debug-mode-off-state-msg = rakningarskrá er að finna á: { $path }
 about-webrtc-debug-mode-on-state-msg = villuleitarhamur virkur, rakningarskrá á: { $path }
-about-webrtc-aec-logging-off-state-msg = hægt er að finna skrár fyrir atburðaskráningu í: { $path }
+about-webrtc-aec-logging-off-state-msg = hægt er að finna skrár fyrir atvikaskráningu í: { $path }
 
 ##
 
