@@ -295,6 +295,13 @@ openpgp-description =
         [one] Thunderbird ha trovate { $count } clave personal OpenPGP associate con <b>{ $identity }</b>
        *[other] Thunderbird ha trovate { $count } claves personal OpenPGP associate con <b>{ $identity }</b>
     }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] { -brand-short-name } ha trovate un clave personal OpenPGP associate con <b>{ $identity }</b>
+       *[other] { -brand-short-name } ha trovate { $count } claves personal OpenPGP associate con <b>{ $identity }</b>
+    }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Tu actual configuration usa ID clave <b>{ $key }</b>
 #   $key (String) - the currently selected OpenPGP key
@@ -357,8 +364,6 @@ key-verification = Verifica le dactylogramma del clave per un canal de communica
 cannot-use-own-key-because = Impossibile inviar le message, perque il ha un problema con tu clave personal. { $problem }
 cannot-encrypt-because-missing = Impossibile inviar iste message con cryptographia end-to-end, perque il ha problemas con le claves del sequente destinatarios: { $problem }
 window-locked = Le fenestra de composition es blocate; invio cancellate
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Parte de message cryptate
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Isto es un parte de message cryptate. Tu debe aperir lo in un fenestra separate cliccante sur le annexo.
 # Strings in keyserver.jsm
