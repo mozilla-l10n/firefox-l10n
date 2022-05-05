@@ -13,6 +13,7 @@
 <!ENTITY  saveFile.label              "Нигоҳ доштани файл">
 <!ENTITY  saveFile.accesskey          "н">
 
+<!ENTITY  rememberChoice.label        "Минбаъд ин амалро барои файлҳои ба ин монанд ба таври худкор иҷро намоед.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
 
