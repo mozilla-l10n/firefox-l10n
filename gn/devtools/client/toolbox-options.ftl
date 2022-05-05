@@ -34,6 +34,8 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = Tekome’ẽ DOM ñemboyke
 options-collapse-attrs-tooltip =
     .title = Tekome’ẽ ipukúva moambuekuaávape ñemboyke
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Eikutu ha embosyryry rehaijey hag̃ua tuichakue térã michĩngue
 
 ## "Default Color Unit" options for the Inspector
 
