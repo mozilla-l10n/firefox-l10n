@@ -34,6 +34,10 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = DOM-atributy wótrězaś
 options-collapse-attrs-tooltip =
     .title = Dłujke atributy w Inspektorje wótrězaś
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Klikniśo a śěgniśo, aby gódnoty wjelikosćow wobźěłował
+options-inspector-draggable-properties-tooltip =
+    .title = Klikniśo a śěgniśo, aby gódnoty wjelikosćow w naglěźe inspektorowych pšawidłow wobźěłował.
 
 ## "Default Color Unit" options for the Inspector
 
