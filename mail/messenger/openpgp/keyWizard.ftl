@@ -95,7 +95,7 @@ openpgp-import-key-list-amount =
 #   $count (Number) - the number of keys found in the selected files
 openpgp-import-key-list-amount-2 =
     { $count ->
-        [one] { -brand-short-name }d je { $count } kluč namakał, kotryž da so importować.
+        [one] { -brand-short-name } je { $count } kluč namakał, kotryž da so importować.
         [two] { -brand-short-name } je { $count } klučej namakał, kotrejž datej so importować.
         [few] { -brand-short-name } je { $count } kluče namakał, kotrež dadźa so importować.
        *[other] { -brand-short-name } je { $count } klučow namakał, kotrež da so importować.
