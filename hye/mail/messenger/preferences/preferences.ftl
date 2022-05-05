@@ -310,13 +310,65 @@ bigger-size-item =
     .label = Աւելի մեծ
 smaller-size-item =
     .label = Աւելի փոքր
+quoted-text-color =
+    .label = Գոյն․
+    .accesskey = ո
+search-handler-table =
+    .placeholder = Զտել բովանդակութեան տեսակներն ու գործողութիւնները
+type-column-header = Բովանդակութեան տեսակը
+action-column-header = Գործողութիւն
+save-to-label =
+    .label = Նիշերը պահել՝
+    .accesskey = Ն
+choose-folder-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Ընտրել․․․
+           *[other] Զննել․․․
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] Ը
+           *[other] Զ
+        }
+always-ask-label =
+    .label = Միշտ հարցնել ինձ, թե նիշերը որտեղ պահել
+    .accesskey = Մ
+display-tags-text = Պիտակներով կարող էք կարգաւորել եւ դասակարգել Ձեր նամակները։
+new-tag-button =
+    .label = Նոր...
+    .accesskey = Ն
+edit-tag-button =
+    .label = Խմբագրել...
+    .accesskey = Խ
+delete-tag-button =
+    .label = Ջնջել
+    .accesskey = Ջ
+auto-mark-as-read =
+    .label = Ինքնաբերաբար նշել նամակները ընթերցուած
+    .accesskey = Ի
+mark-read-no-delay =
+    .label = Բացելուց անմիջապէս յետոյ
+    .accesskey = ա
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Ցուցադրելուց յետոյ՝
+    .accesskey = Ց
+seconds-label = վայրկեաններ
 
 ##
 
+open-msg-label =
+    .value = Բացել նամակները՝
+open-msg-tab =
+    .label = Նոր ներդիրը
+    .accesskey = ն
+open-msg-window =
+    .label = Նոր հաղորդագրութեան պանուհանը
+    .accesskey = ն
 
 ## Compose Tab
 
