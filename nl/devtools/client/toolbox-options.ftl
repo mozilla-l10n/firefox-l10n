@@ -34,6 +34,10 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = DOM-attributen afkappen
 options-collapse-attrs-tooltip =
     .title = Lange attributen in de inspector afkappen
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Klik en sleep om de afmetingswaarden te bewerken
+options-inspector-draggable-properties-tooltip =
+    .title = Klik en sleep om de afmetingswaarden te bewerken in de inspectorregelweergave.
 
 ## "Default Color Unit" options for the Inspector
 
