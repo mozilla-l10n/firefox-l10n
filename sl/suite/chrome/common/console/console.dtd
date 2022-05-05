@@ -14,10 +14,13 @@
 <!ENTITY messages.label       "Sporočila">
 <!ENTITY clear.label          "Počisti">
 <!ENTITY evaluate.label       "Ovrednoti">
+<!ENTITY filter2.label        "Filter:">
 
 <!ENTITY copyCmd.label         "Kopiraj">
 <!ENTITY sortFirst.label       "Vrstni red Prvi > Zadnji">
 <!ENTITY sortLast.label        "Vrstni red Zadnji > Prvi">
 
+<!ENTITY entryToolbar.tooltip  "Orodnica za vnos javascripta">
 <!ENTITY toolbarsCmd.label     "Prikaži/Skrij">
 <!ENTITY toolbarMode.label     "Način">
+<!ENTITY toolbarEval.label     "Vnos JavaScript">
