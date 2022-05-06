@@ -30,4 +30,5 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
+removed-search-engine-message = <strong>Su motore de chirca predefinidu tuo est cambiadu.</strong> { $oldEngine } no est prus a disponimentu comente motore de chirca predefinidu in { -brand-short-name }. { $newEngine } est immoe su motore de chirca predefinidu tuo. Pro torrare a cambiare su motore de chirca predefinidu tuo, bae a is cunfiguratziones. <label data-l10n-name="remove-search-engine-article">Àteras informatziones</label>
 remove-search-engine-button = Andat bene

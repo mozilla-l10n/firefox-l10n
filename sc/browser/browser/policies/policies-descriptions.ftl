@@ -70,7 +70,7 @@ policy-HardwareAcceleration = Si su valore est "false", s'atzellerada hardware e
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Cunfigura e, si boles, bloca sa pàgina initziale.
 policy-InstallAddonsPermission = Permite a tzertos sitos de installare cumplementos.
-policy-LegacyProfiles = Istuda sa funtzione chi rechedet unu profilu separadu pro ònnia installatzione.
+policy-LegacyProfiles = Istuda sa funtzione chi pedit unu profilu separadu pro ònnia installatzione.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
