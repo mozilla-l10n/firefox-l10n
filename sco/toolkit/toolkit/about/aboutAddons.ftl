@@ -387,3 +387,12 @@ addons-heading-search-input =
     .placeholder = Sairch addons.mozilla.org
 addon-page-options-button =
     .title = Tools fur aw eik-ons
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+details-notification-unsigned-and-disabled-link = Mair Information
+details-notification-unsigned-link = Mair Information
+details-notification-blocked-link = Mair Information
+details-notification-softblocked-link = Mair Information
