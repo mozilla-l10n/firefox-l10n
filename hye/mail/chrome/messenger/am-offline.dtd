@@ -25,11 +25,13 @@
 <!ENTITY retentionKeepMsg.label "Ջնջել հաղորդագրութիւններն աւելին քան">
 <!ENTITY retentionKeepMsg.accesskey "ե">
 <!ENTITY retentionKeepAll.label "Մի ջնջէք ցանկացած հաղորդագրութիւն">
-<!ENTITY retentionKeepAll.accesskey "n">
+<!ENTITY retentionKeepAll.accesskey "ն">
 <!ENTITY retentionKeepRecent.label "Ջնջել բոլորը բացի ամենավերջինից">
+<!ENTITY retentionKeepRecent.accesskey "բ">
 <!ENTITY retentionApplyToFlagged.label "Միշտ պահել աստղանշուած հաղորդագրութիւնները">
-<!ENTITY retentionApplyToFlagged.accesskey "k">
+<!ENTITY retentionApplyToFlagged.accesskey "պ">
 <!ENTITY nntpRemoveMsgBody.label "Հեռացնել գրուածքներն հաղորդագրութիւններից աւելին քան">
+<!ENTITY nntpRemoveMsgBody.accesskey "ա">
 <!ENTITY offlineSelectNntp.label "Նշէք տեղեկատու խմբերը՝ անցանց աւգտագործման համար…">
 <!ENTITY offlineSelectNntp.accesskey "Ն">
 <!ENTITY offlineImapAdvancedOffline.label "Բարելաւուած…">
@@ -44,9 +46,9 @@
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
 <!ENTITY allAutosync.label               "Համաժամեցնել բոլոր տեղային հաղորդագրութիւններն անկախ ժամկետից">
-<!ENTITY allAutosync.accesskey           "c">
+<!ENTITY allAutosync.accesskey           "մ">
 <!ENTITY ageAutosyncBefore.label         "Համաժամեցնել ամենավերջինը">
-<!ENTITY ageAutosync.accesskey           "z">
+<!ENTITY ageAutosync.accesskey           "ց">
 <!ENTITY ageAutosyncMiddle.label         "">
 <!ENTITY dayAgeInterval.label            "Աւրեր">
 <!ENTITY weekAgeInterval.label           "Շաբաթներ">

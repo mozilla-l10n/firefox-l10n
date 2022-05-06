@@ -33,6 +33,7 @@ source-file = Ներածել նիշից
 ## Import from file selections
 
 file-calendar = Ներածել աւրացոյցները
+file-addressbook = Ներածել հասցէագրքերը
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Ներմուծել { $app } ֊ից

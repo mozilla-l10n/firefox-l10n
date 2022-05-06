@@ -5,18 +5,20 @@
 <!ENTITY serverAdvanced.label "Բարելաւուած հաշուի կարգաւորումները">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP սպասարկչի գրացուցակ.">
-<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY serverDirectory.accesskey "գ">
 <!ENTITY usingSubscription.label "Ցուցադրել միայն բաժանորդագրուած պանակները">
+<!ENTITY usingSubscription.accesskey "լ">
 <!ENTITY dualUseFolders.label "Սպասարկիչը աջակցում է այն պանակներին, որոնք պարունակում են ենթապանակներ եւ ուղերձներ">
-<!ENTITY dualUseFolders.accesskey "f">
+<!ENTITY dualUseFolders.accesskey "պ">
 <!ENTITY maximumConnectionsNumber.label "Սպասարկչի միացման շտեմի առաւելագոյն թիւը">
 <!ENTITY maximumConnectionsNumber.accesskey "Ա">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Այս նախընտրութիւնների հատկորոշումը Ձեր համակարգչի IMAP սպասարկչի անուանատարածքում է">
 <!ENTITY personalNamespace.label "Անձնական անուանատարածք.">
-<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY personalNamespace.accesskey "Ա">
 <!ENTITY publicNamespace.label "Հանրային (համաւգտագործուած).
 ">
+<!ENTITY publicNamespace.accesskey "ա">
 <!ENTITY otherUsersNamespace.label "Այղ աւգտատէրեր.">
 <!ENTITY otherUsersNamespace.accesskey "O">
 <!ENTITY overrideNamespaces.label "Թոյղատրէք սպասարկչին վերագրել այս անուանատարածքում">
