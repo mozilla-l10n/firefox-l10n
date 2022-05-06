@@ -203,7 +203,12 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name }  - { -brand-short-name } { $version } bilan mos emas.
+details-notification-unsigned-and-disabled = { $name } qo‘shimcha dasturi { -brand-short-name } brauzerida foydalanish uchun tasdiqdan o‘tmadi, shuning uchun u o‘chirib qo‘yildi.
+details-notification-unsigned-and-disabled-link = Batafsil ma’lumot
+details-notification-unsigned = { $name } qo‘shimcha dasturi { -brand-short-name } brauzerida foydalanish uchun tasdiqdan o‘tmadi. Jarayonni ehtiyotkorlik bilan davom ettiring.
+details-notification-unsigned-link = Batafsil ma’lumot
 details-notification-blocked = { $name } xavfsizlik va ishonchlilik sabablariga koʻra oʻchirib qoʻyildi.
 details-notification-blocked-link = Koʻproq ma`lumot
 details-notification-softblocked = { $name } xavfsizlik va mustahkamlikka ta`sir qilishi aniqlangan.
 details-notification-softblocked-link = Koʻproq ma`lumot
+details-notification-gmp-pending = { $name } tezda o‘rnatiladi.
