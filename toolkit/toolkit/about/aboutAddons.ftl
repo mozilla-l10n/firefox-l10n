@@ -397,3 +397,15 @@ addons-heading-search-input =
     .placeholder = Ieškoti per addons.mozilla.org
 addon-page-options-button =
     .title = Visiems priedams taikomos priemonės
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = Priedas „{ $name }“ yra nesuderinamas su „{ -brand-short-name } { $version }“.
+details-notification-blocked = Priedas „{ $name }“ išjungtas saugumo arba stabilumo sumetimais.
+details-notification-blocked-link = Plačiau
+details-notification-softblocked = Yra duomenų, jog priedas „{ $name }“ sukelia saugumo arba stabilumo problemas.
+details-notification-softblocked-link = Plačiau
