@@ -3,6 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
+compose-send-format-menu =
+    .label = Format d’expédition
+    .accesskey = F
+compose-send-auto-menu-item =
+    .label = Automatique
+    .accesskey = A
+compose-send-both-menu-item =
+    .label = HTML et texte brut
+    .accesskey = H
+compose-send-html-menu-item =
+    .label = Uniquement en HTML
+    .accesskey = U
+compose-send-plain-menu-item =
+    .label = Uniquement en texte brut
+    .accesskey = b
+
 ## Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -30,6 +48,13 @@ pill-tooltip-not-in-address-book = { $email } ne figure pas dans votre carnet d�
 pill-action-edit =
     .label = Modifier l’adresse
     .accesskey = M
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Sélectionner toutes les adresses dans { $type }
+    .accesskey = a
+pill-action-select-all-pills =
+    .label = Sélectionner toutes les adresses
+    .accesskey = S
 pill-action-move-to =
     .label = Déplacer vers Pour
     .accesskey = p
@@ -74,24 +99,23 @@ context-menuitem-attach-files =
     .label = Joindre fichier(s)…
     .accesskey = f
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
-#   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } pièce jointe
-           *[other] { $count } pièces jointes
-        }
-    .accesskey = o
-expand-attachment-pane-tooltip =
-    .tooltiptext = Afficher le volet des pièces jointes ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Masquer le volet des pièces jointes ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = Ma vCard
+    .accesskey = C
+context-menuitem-attach-openpgp-key =
+    .label = Ma clé publique OpenPGP
+    .accesskey = O
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
         [1] { $count } pièce jointe
        *[other] { $count } pièces jointes
     }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Afficher le volet des pièces jointes ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Masquer le volet des pièces jointes ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-show =
     .title = Afficher le volet des pièces jointes ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -123,10 +147,27 @@ button-return-receipt =
 
 ## Encryption
 
-message-to-be-signed-icon =
-    .alt = Signer le message
-message-to-be-encrypted-icon =
-    .alt = Chiffrer le message
+encryption-menu =
+    .label = Sécurité
+    .accesskey = c
+encryption-toggle =
+    .label = Chiffrer
+    .tooltiptext = Utiliser le chiffrement de bout en bout pour ce message
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = Voir ou modifier les paramètres de chiffrement OpenPGP
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = Voir ou modifier les paramètres de chiffrement S/MIME
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = O
+menu-smime =
+    .label = S/MIME
+    .accesskey = S
+menu-encrypt =
+    .label = Chiffrer
+    .accesskey = C
 
 ## Addressing Area
 
@@ -321,3 +362,6 @@ cloud-file-attachment-error = Échec de la mise à jour de la pièce jointe File
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Erreur de compte Filelink
 cloud-file-account-error = Échec de la mise à jour de la pièce jointe Filelink { $filename }, car son compte Filelink a été supprimé.
+
+## Link Preview
+
