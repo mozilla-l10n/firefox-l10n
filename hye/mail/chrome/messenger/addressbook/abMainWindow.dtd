@@ -19,6 +19,7 @@
 <!ENTITY newAddressBookCmd.label                        "Հասցէագիրք…">
 <!ENTITY newAddressBookCmd.accesskey                    "Գ">
 <!ENTITY newCardDAVBookCmd.label                        "CardDAV Հասցէագիրք…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP գրացուցակ...">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "Գ">
 <!ENTITY newMessageCmd.label                            "Հաղորդագրութիւն">
@@ -43,15 +44,22 @@
 <!ENTITY deleteAbCmd.label                              "Ջնջել հասցէագիրքը">
 <!ENTITY deleteAbCmd.accesskey                          "Ջ">
 <!ENTITY removeAbCmd.label                              "Հեռացնել հասցէագիրքը">
+<!ENTITY removeAbCmd.accesskey                          "ա">
 <!ENTITY deleteContactCmd.label                         "Ջնջել կապորդը">
 <!ENTITY deleteContactsCmd.label                        "Ջնջել կապորդները">
 <!ENTITY deleteListCmd.label                            "Ջնջել ցուցակը">
 <!ENTITY deleteListsCmd.label                           "Ջնջել ցուցակները">
 <!ENTITY deleteItemsCmd.label                           "Ջնջել տարրերը">
+<!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY propertiesMenu.label                           "Յատկութիւններ">
+<!ENTITY propertiesMenu.accesskey                       "ե">
+<!ENTITY propertiesCmd.key                              "i">
 <!ENTITY abPropertiesMenu.label                         "Հասցէագրքի յատկութիւններ">
+<!ENTITY abPropertiesMenu.accesskey                     "ե">
 <!ENTITY contactPropertiesMenu.label                    "Կապորդի յատկութիւններ">
+<!ENTITY contactPropertiesMenu.accesskey                "ե">
 <!ENTITY mailingListPropertiesMenu.label                "Փոստացանկի յատկութիւններ">
+<!ENTITY mailingListPropertiesMenu.accesskey            "ե">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Տեսք">
@@ -61,6 +69,7 @@
 <!ENTITY menubarCmd.label                               "Ցանկագաւտի">
 <!ENTITY menubarCmd.accesskey                           "Ց">
 <!ENTITY showAbToolbarCmd.label                         "Հասցէագրքի գործիքագաւտի">
+<!ENTITY showAbToolbarCmd.accesskey                     "ո">
 <!ENTITY showTaskbarCmd.label                           "Վիճակագաւտի">
 <!ENTITY showTaskbarCmd.accesskey                       "Վ">
 <!ENTITY customizeToolbar.label                         "Յարմարեցնել…">
@@ -106,7 +115,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY showAsDefault.accesskey                        "Գ">
 <!ENTITY editPropertiesButton.label                     "Խմբագրել">
 <!ENTITY propertiesContext.label                        "Յատկութիւններ">
+<!ENTITY propertiesContext.accesskey                    "ե">
 <!ENTITY abPropertiesContext.label                      "Յատկութիւններ">
+<!ENTITY abPropertiesContext.accesskey                  "ե">
 <!ENTITY syncContext.label                              "Համաժամեցնել">
 <!ENTITY syncContext.accesskey                          "ի">
 <!ENTITY editContactContext.label                       "Խմբագրել կապորդը">
@@ -141,6 +152,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY SearchNameOrEmail.label                        "Անուն կամ եղեկտրոնային հասցէ">
 <!ENTITY SearchNameOrEmail.accesskey                    "Ա">
 <!ENTITY advancedButton.tooltip                         "Բարելաւուած հասցէների որոնում">
+<!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Արագ որոնում">
 
 <!-- Results Pane -->

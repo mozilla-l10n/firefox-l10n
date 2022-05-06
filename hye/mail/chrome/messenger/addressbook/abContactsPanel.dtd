@@ -3,41 +3,46 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY propertiesMenu.label               "Յատկութիւններ">
-<!ENTITY propertiesMenu.accesskey           "i">
+<!ENTITY propertiesMenu.accesskey           "ե">
 <!ENTITY propertiesCmd.key                  "i">
 <!ENTITY abPropertiesMenu.label             "Հասցէագրքի յատկութիւները">
-<!ENTITY contactPropertiesMenu.label        "Կապի հատկութիւներ">
-<!ENTITY contactPropertiesMenu.accesskey    "i">
+<!ENTITY abPropertiesMenu.accesskey         "ե">
+<!ENTITY contactPropertiesMenu.label        "Կապի յատկութիւններ">
+<!ENTITY contactPropertiesMenu.accesskey    "ե">
 <!ENTITY mailingListPropertiesMenu.label    "Փոստային ցուցակների յատկութիւներ">
-<!ENTITY mailingListPropertiesMenu.accesskey "i">
+<!ENTITY mailingListPropertiesMenu.accesskey "ե">
 
 <!ENTITY abContextMenuButton.tooltip        "Ցուցադրել հասցէների գրքի համատեքստի ընտրացանկը">
 <!ENTITY addressbookPicker.label            "Հասցէագիրք.">
+<!ENTITY addressbookPicker.accesskey        "ք">
 <!ENTITY searchContacts.label               "Փնտրել կապորդներ:">
-<!ENTITY searchContacts.accesskey           "n">
+<!ENTITY searchContacts.accesskey           "պ">
 <!ENTITY SearchNameOrEmail.label            "Անուն կամ եղեկտրոնային հասցէ">
 
 <!ENTITY addtoToFieldMenu.label             "Աւելացնել To դաշտում">
-<!ENTITY addtoToFieldMenu.accesskey         "A">
-<!ENTITY addtoCcFieldMenu.label             "Աւելացնել CC դաշտում">
-<!ENTITY addtoCcFieldMenu.accesskey         "C">
+<!ENTITY addtoToFieldMenu.accesskey         "Ա">
+<!ENTITY addtoCcFieldMenu.label             "Աւելացնել Պատճէն դաշտում">
+<!ENTITY addtoCcFieldMenu.accesskey         "Պ">
 <!ENTITY addtoBccFieldMenu.label            "Աւելացնել Ծածկապատճէն դաշտում">
 <!ENTITY addtoBccFieldMenu.accesskey        "Ծ">
 <!ENTITY deleteAddrBookCard.label           "Ջնջել">
 <!ENTITY deleteAddrBookCard.accesskey       "Ջ">
 <!ENTITY propertiesContext.label            "Յատկութիւնները">
-<!ENTITY propertiesContext.accesskey        "i">
+<!ENTITY propertiesContext.accesskey        "ե">
 <!ENTITY abPropertiesContext.label          "Յատկութիւնները">
-<!ENTITY editContactContext.label           "Փոփոխել կապորդին">
-<!ENTITY editContactContext.accesskey       "E">
-<!ENTITY editMailingListContext.label       "Փոփոխել ցանկը">
-<!ENTITY editMailingListContext.accesskey   "E">
+<!ENTITY abPropertiesContext.accesskey      "ե">
+<!ENTITY editContactContext.label           "Խմբագրել կապորդը">
+<!ENTITY editContactContext.accesskey       "Խ">
+<!ENTITY editMailingListContext.label       "Խմբագրել ցանկը">
+<!ENTITY editMailingListContext.accesskey   "Խ">
 
 <!ENTITY newContactAbContext.label          "Նոր կապորդ">
+<!ENTITY newContactAbContext.accesskey      "կ">
 <!ENTITY newListAbContext.label             "Նոր ցանկ">
 <!ENTITY newListAbContext.accesskey         "Ց">
 
 <!ENTITY toButton.label                     "Աւելացնել To դաշտում.">
+<!ENTITY toButton.accesskey                 "Ա">
 <!ENTITY ccButton.label                     "Աւելացնել Պատճէնացանկ դաշտում.">
 <!ENTITY ccButton.accesskey                 "Պ">
 <!ENTITY bccButton.label                    "Աւելացնել Ծածկապատճէն դաշտում.">
