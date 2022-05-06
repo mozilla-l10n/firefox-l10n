@@ -184,3 +184,4 @@ details-notification-blocked = Tá { $name } díchumasaithe mar gheall ar fhadhb
 details-notification-blocked-link = Tuilleadh Eolais
 details-notification-softblocked = Tá { $name } freagrach as fadhbanna slándála nó cobhsaíochta.
 details-notification-softblocked-link = Tuilleadh Eolais
+details-notification-gmp-pending = Suiteálfar { $name } ar ball beag.
