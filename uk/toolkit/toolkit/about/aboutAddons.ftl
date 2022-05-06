@@ -394,3 +394,12 @@ addons-heading-search-input =
     .placeholder = Пошук на addons.mozilla.org
 addon-page-options-button =
     .title = Інструменти для всіх додатків
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } несумісний з { -brand-short-name } { $version }.
+details-notification-softblocked = В { $name } є відомі проблеми з безпекою та стабільністю.
