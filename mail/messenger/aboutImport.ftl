@@ -6,8 +6,11 @@ import-page-title = Importěrowaś
 
 ## Header
 
+import-start = Importěrowański rěd
+import-start-desc = Importěrowańske nastajenja abo daty z nałoženja abo dataje.
 import-from-app = Z nałoženja importěrowaś
 import-from-app-desc = Wubjeŕśo, wótkulž maju se konta, adresniki, kalendarje a druge daty importěrowaś:
+import-from-file = Z dataje importěrowaś
 import-address-book = Adresnikowu dataju importěrowaś
 import-calendar = Dataju kalendarja importěrowaś
 export-profile = Eksportěrowaś
@@ -26,6 +29,13 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-file = Z dataje importěrowaś
+
+## Import from file selections
+
+file-profile = Zawěsćony profil (.zip) importěrowaś
+file-calendar = Kalendarje importěrowaś
+file-addressbook = Adresniki importěrowaś
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Z { $app } importěrowaś
@@ -66,7 +76,6 @@ calendar-import-into-new-calendar = Nowy kalender napóraś
 
 ## Import dialog
 
-progress-pane-title = Importěrowanje
 progress-pane-importing = Importěrowanje
 progress-pane-exporting = Eksportěrowanje
 progress-pane-finished-desc = Dokóńcone.
