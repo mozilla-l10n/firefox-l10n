@@ -388,3 +388,15 @@ addons-heading-search-input =
     .placeholder = addons.mozilla.org-ға іздеу
 addon-page-options-button =
     .title = Барлық қосымшалар үшін құралдар
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } үйлеспейді, осы { -brand-short-name } { $version } нұсқасымен.
+details-notification-blocked = { $name } қауіпсіздік не тұрақтылық мәселелер салдарынан сөндірілген.
+details-notification-blocked-link = Көбірек ақпарат
+details-notification-softblocked = { $name } қауіпсіздік не тұрақтылықпен мәселелер туғызатыны белгілі.
+details-notification-softblocked-link = Көбірек ақпарат
