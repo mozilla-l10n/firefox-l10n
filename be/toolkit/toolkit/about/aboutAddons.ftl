@@ -405,7 +405,12 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } несумяшчальна з { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = Праца { $name } у { -brand-short-name } не была праверана, таму яно было адключана.
+details-notification-unsigned-and-disabled-link = Больш звестак
+details-notification-unsigned = Праца { $name } у { -brand-short-name } не была праверана. Працягвайце з асцярогай.
+details-notification-unsigned-link = Больш звестак
 details-notification-blocked = { $name } забаронены, бо маюцца праблемы сумяшчальнасці або ўстойлівасці.
 details-notification-blocked-link = Падрабязней
 details-notification-softblocked = Вядома, што { $name } мае праблемы сумяшчальнасці або ўстойлівасці.
 details-notification-softblocked-link = Падрабязней
+details-notification-gmp-pending = { $name } будзе хутка усталявана.
