@@ -170,3 +170,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } असंगत अछि { -brand-short-name } { $version } क सँग.
+details-notification-blocked = { $name } केँ सुरक्षा अथवा स्थायित्व कारण सँ निष्क्रिय कएल गेल अछि.
+details-notification-blocked-link = बेसी  सूचना
+details-notification-softblocked = { $name } सुरक्षा अथवा स्थायित्व कारण केँ पैदा करब क लेल जएनाइ जाएत अछि.
+details-notification-softblocked-link = बेसी  सूचना
