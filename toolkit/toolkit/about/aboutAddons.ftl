@@ -396,3 +396,20 @@ addons-heading-search-input =
     .placeholder = Поиск на addons.mozilla.org
 addon-page-options-button =
     .title = Инструменты для всех дополнений
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } несовместимо с { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = Работа { $name } в { -brand-short-name } не была проверена, поэтому оно было отключено.
+details-notification-unsigned-and-disabled-link = Подробная информация
+details-notification-unsigned = Работа { $name } в { -brand-short-name } не была проверена. Действуйте с осторожностью.
+details-notification-unsigned-link = Подробная информация
+details-notification-blocked = { $name } было отключено из-за проблем со стабильностью или безопасностью.
+details-notification-blocked-link = Подробная информация
+details-notification-softblocked = { $name } вызывает проблемы со стабильностью или безопасностью.
+details-notification-softblocked-link = Подробная информация
+details-notification-gmp-pending = { $name } будет скоро установлено.
