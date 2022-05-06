@@ -137,6 +137,7 @@ about-addressbook-confirm-delete-contacts =
 ## Details
 
 about-addressbook-begin-edit-contact-button = Wobźěłaś
+about-addressbook-delete-edit-contact-button = Lašowaś
 about-addressbook-cancel-edit-contact-button = Pśetergnuś
 about-addressbook-save-edit-contact-button = Składowaś
 about-addressbook-details-email-addresses-header = E-mailowe adrese

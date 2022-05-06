@@ -409,3 +409,8 @@ cloud-file-attachment-error = Pśidank { $filename } Filelink njedajo se aktuali
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Kontowa zmólka Filelink
 cloud-file-account-error = Pśidank { $filename } Filelink njedajo se aktualizěrowaś, dokulaž jogo lokalna dataja jo se wulašowała.
+
+## Link Preview
+
+link-preview-title = Wótkazowy pśeglěd
+link-preview-description = { -brand-short-name } móžo zasajźony pśeglěd pśidaś, gaž se wótkaze zasajźaju.
