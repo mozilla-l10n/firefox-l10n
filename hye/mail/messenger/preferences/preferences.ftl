@@ -563,6 +563,22 @@ junk-move-label =
 junk-delete-label =
     .label = Ջնջել դրանց
     .accesskey = Ջ
+junk-read-label =
+    .label = Անպէտք հաղորդագրութիւնները նշել որպէս ընթերցուած
+    .accesskey = ն
+junk-log-label =
+    .label = Միացնել թափաւնի յարմարողական զտիչի մատեանը
+    .accesskey = Մ
+junk-log-button =
+    .label = Ցուցադրել մատեանը
+    .accesskey = Ց
+reset-junk-button =
+    .label = Վերակայել ուսուցման տուեալը
+    .accesskey = Վ
+phishing-description = { -brand-short-name }-ը կարող է վերլուծել հաղորդագրութիւնները՝ յայտնաբերելու կասկածելի նամակներ, որոնք ուղարկուել են խաբեբաների կողմից՝ ստուգելով դրանք որոշակի հնարքների եւ մեթոդների համար, որոնք աւգտագործուում են Ձեզ մոլորեցնելու համար:
+phishing-label =
+    .label = Տեղեկացնել ինձ, եթե իմ կարդացած նամակը հանդիսանում է եղ․փոստի խաբկանք
+    .accesskey = Տ
 antivirus-description = { -brand-short-name }-ը կարող է հեշտացնել ստացուած նամակների հակավիրուսային ստուգումը՝ մինչեւ դրանք համակարգիչ ներբեռնելը։
 
 ## Chat Tab
