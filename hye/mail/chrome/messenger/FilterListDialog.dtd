@@ -19,18 +19,18 @@
 <!ENTITY reorderDownButton.label "Տեղափոխել ներքեւ">
 <!ENTITY reorderDownButton.accesskey "Վ">
 <!ENTITY reorderBottomButton "Տեղափոխել դեպի ներքեւ">
+<!ENTITY reorderBottomButton.accessKey "Ն">
 <!ENTITY reorderBottomButton.toolTip "Վերադասաւորել զտիչը, որ այն գործի բոլորից յետոյ">
 <!ENTITY filterHeader.label "Միացուած զտիչները կը գործարկուէն միանգամից։">
 <!ENTITY filtersForPrefix.label "Զտիչներ՝">
-<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY filtersForPrefix.accesskey "Զ">
 <!ENTITY viewLogButton.label "Զտիչի մատեան">
 <!ENTITY viewLogButton.accesskey "Մ">
 <!ENTITY runFilters.label "Գործարկել հիմա">
-<!ENTITY runFilters.accesskey "R">
+<!ENTITY runFilters.accesskey "Գ">
 <!ENTITY stopFilters.label "Կանգնեցնել">
-<!ENTITY stopFilters.accesskey "S">
+<!ENTITY stopFilters.accesskey "Կ">
 <!ENTITY folderPickerPrefix.label "Աշխատեցնել ընտրուած զտիչները.">
-<!ENTITY folderPickerPrefix.accesskey "c">
 <!ENTITY helpButton.label "Աւգնութիւն">
-<!ENTITY closeCmd.key "W">
+<!ENTITY helpButton.accesskey "Աւ">
 <!ENTITY searchBox.emptyText "Որոնել զտիչներ անունով…">

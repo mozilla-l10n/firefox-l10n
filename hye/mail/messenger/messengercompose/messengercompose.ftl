@@ -263,10 +263,25 @@ show-bcc-row-button = Ծածկապատճէն
     .title = Ցուցադրել Ծածկապատճէնի դաշտը ({ ctrl-cmd-shift-pretty-prefix }{ $key })
 extra-address-rows-menu-button =
     .title = Հասցէաւորման այղ դաշտեր ցուցադրելու համար
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] Ձեր հաղորդագրութիւնն ունի հանրային ստացող: Դուք կարող էք խուսափել ստացողների բացայայտումից փոխարէնը աւգտագործելով Bcc:
+       *[other] Ում եւ Պատճէնացանկ֊ի { $count } հասցէատէրերը կը տեսնեն միմեանց հասցէն: Դուք կարող էք խուսափել ստացողների բացայայտումից փոխարէնը աւգտագործելով Ծածկապատճէն:
+    }
+many-public-recipients-bcc =
+    .label = Փոխարէնը աւգտագործէք Ծածկապատճէն
+    .accesskey = ա
 many-public-recipients-ignore =
     .label = Ստացողներին պահէք հրապարակային
     .accesskey = պ
 many-public-recipients-prompt-title = Չափազանց շատ հրապարակային ստացողներ
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] Ձեր հաղորդագրութիւնն ունի հանրային հասցէատէր: Սա կարող է լինել գաղտնիութեան խնդիր: Դուք կարող էք խուսափել դրանից փոխարէնը տեղափոխելով ստացողին Ում/Պատճէնացանկ դաշտերից՝  Ծածկապատճէն դաշտ:
+       *[other] Ձեր հաղորդագրութիւնն ունի { $count } հանրային հասցէատէրեր, ովքեր կը կարողանան տեսնել միմեանց հասցէները: Սա կարող է լինել գաղտնիութեան խնդիր: Դուք կարող էք խուսափել հասցէատերերի բացայայտումից տեղափոխելով նրանց Ծածկապատճէն դաշտ:
+    }
 many-public-recipients-prompt-cancel = Չեղարկել ուղարկումը
 many-public-recipients-prompt-send = Ուղարկել ամէն պարագայում
 

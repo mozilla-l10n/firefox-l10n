@@ -8,29 +8,30 @@
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Նիշ">
-<!ENTITY fileMenu.accesskey                             "F">
+<!ENTITY fileMenu.accesskey                             "Ն">
 <!ENTITY newMenu.label                                  "Նոր">
-<!ENTITY newMenu.accesskey                              "N">
+<!ENTITY newMenu.accesskey                              "Ն">
 <!ENTITY newContact.label                               "Հասցէգրքի կապորդ…">
-<!ENTITY newContact.accesskey                           "C">
-<!ENTITY newContact.key                                 "N">
+<!ENTITY newContact.accesskey                           "Կ">
+<!ENTITY newContact.key                                 "Ն">
 <!ENTITY newListCmd.label                               "Փոստացանկ…">
-<!ENTITY newListCmd.accesskey                           "L">
+<!ENTITY newListCmd.accesskey                           "Ց">
 <!ENTITY newAddressBookCmd.label                        "Հասցէագիրք…">
+<!ENTITY newAddressBookCmd.accesskey                    "Գ">
 <!ENTITY newCardDAVBookCmd.label                        "CardDAV Հասցէագիրք…">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP գրացուցակ...">
-<!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "Գ">
 <!ENTITY newMessageCmd.label                            "Հաղորդագրութիւն">
-<!ENTITY newMessageCmd.key                              "M">
-<!ENTITY newMessageCmd.accesskey                        "M">
+<!ENTITY newMessageCmd.key                              "Հ">
+<!ENTITY newMessageCmd.accesskey                        "Հ">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label                           "Աւգտագործել Mac OS X-ի հասցէագիրքը">
 <!ENTITY osxAddressBook.accesskey                       "O">
 <!ENTITY closeCmd.label                                 "Փակել">
-<!ENTITY closeCmd.key                                   "W">
-<!ENTITY closeCmd.accesskey                             "C">
+<!ENTITY closeCmd.key                                   "">
+<!ENTITY closeCmd.accesskey                             "Փ">
 <!ENTITY printContactCmd.label                          "Տպել կապորդը…">
-<!ENTITY printContactCmd.accesskey                      "P">
+<!ENTITY printContactCmd.accesskey                      "Տ">
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Տպագրման հասցէագիրք…">
 

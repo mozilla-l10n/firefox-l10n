@@ -11,6 +11,7 @@
 <!ENTITY signer.name "Ստորագրուած․">
 <!ENTITY recipient.name "Գաղտնագրուած․">
 <!ENTITY email.address "Եղեկրոնային հասցէ․">
+<!ENTITY issuer.name "Հաւաստագիրը տրուած է․">
 
 <!-- LOCALIZATION NOTE(SMIME.label): This a name for a technical standard. You should not translate it, but if applicable, you may write it using localized characters. -->
 <!ENTITY SMIME.label "S/MIME">
