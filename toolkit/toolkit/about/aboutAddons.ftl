@@ -259,4 +259,8 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } అనునది { -brand-short-name } { $version } తో సారూప్యంగా లేదు.
+details-notification-unsigned-and-disabled = { -brand-short-name }‌లో వాడుకకు { $name }‌ను తనిఖీ చేయలేకున్నాం కనుక అచేతనం చేసాం.
+details-notification-unsigned-and-disabled-link = మరింత సమాచారం
+details-notification-unsigned-link = మరింత సమాచారం
 details-notification-blocked = రక్షణ లేదా స్థిరత్వ సమస్యల కారణంగా { $name } అచేతనపరచబడింది.
+details-notification-gmp-pending = { $name } త్వరలో స్థాపించబడుతుంది.
