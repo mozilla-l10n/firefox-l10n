@@ -26,3 +26,13 @@ openpgp-key-undecided = Non acceptée (aucune décision)
 openpgp-key-rejected = Non acceptée (rejetée)
 openpgp-key-expired = Expirée
 openpgp-intro = Clés publiques disponibles pour { $key }
+openpgp-pubkey-import-id = ID : { $kid }
+openpgp-pubkey-import-fpr = Empreinte numérique : { $fpr }
+openpgp-pubkey-import-intro =
+    { $num ->
+        [one] Le fichier contient une clé publique, comme indiqué ci-dessous :
+       *[other] Le fichier contient { $num } clés publiques, comme indiqué ci-dessous :
+    }
+pubkey-import-button =
+    .buttonlabelaccept = Importer
+    .buttonaccesskeyaccept = I
