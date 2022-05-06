@@ -397,9 +397,12 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } ur imṣada ara d { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = { $name } ur iţusenqed ara i weseqdec-ines ɣef { -brand-short-name }, atan ihi irermed.
 details-notification-unsigned-and-disabled-link = Ugar n telɣut
+details-notification-unsigned = { $name } ur iţusenqed ara i weseqdec-ines ɣef { -brand-short-name }. Ɣuṛ-k.
 details-notification-unsigned-link = Ugar n telɣut
 details-notification-blocked = { $name } yensa imi d-imuger uguren n tɣellist neɣ n urkad.
 details-notification-blocked-link = Ugar n telɣut
+details-notification-softblocked = { $name } iţwassen dakken iggar-d uguren n tɣellist neɣ n urkad.
 details-notification-softblocked-link = Ugar n telɣut
 details-notification-gmp-pending = { $name } ad iţwasebded si sya ɣer da.
