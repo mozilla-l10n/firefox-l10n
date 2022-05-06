@@ -165,3 +165,4 @@ details-notification-blocked = { $name } କୁ ସୁରକ୍ଷା କିମ�
 details-notification-blocked-link = ଅଧିକ ସୂଚନା
 details-notification-softblocked = { $name } ସୁରକ୍ଷା କିମ୍ବା ସ୍ଥାୟୀତ୍ୱ ସମସ୍ୟା ଘଟାଇଥିବାର ଜଣାପଡ଼ିଛି।
 details-notification-softblocked-link = ଅଧିକ ସୂଚନା
+details-notification-gmp-pending = { $name } ଖୁବ ଚଞ୍ଚଳ ଇନଷ୍ଟଲ ହେବ ।
