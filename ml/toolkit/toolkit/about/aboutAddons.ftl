@@ -178,5 +178,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { -brand-short-name } { $version }-നോടൊപ്പം { $name } പൊരുത്തപ്പെടുന്നു.
+details-notification-blocked = സുരക്ഷാ, സ്ഥിരത പ്രശ്നങ്ങള്‍ കാരണം { $name } പ്രവര്‍ത്തന രഹിതമാണു്.
+details-notification-blocked-link = കൂടുതല്‍ വിവരങ്ങള്‍
 details-notification-softblocked = സുരക്ഷാ, സ്ഥിരത പ്രശ്നങ്ങള്‍ക്കു് { $name } കാരണമാകുന്നു.
 details-notification-softblocked-link = കൂടുതല്‍ വിവരം
