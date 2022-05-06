@@ -393,3 +393,11 @@ cloud-file-attachment-error = Nem sikerült frissíteni a(z) { $filename } Filel
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Filelink fiókhiba
 cloud-file-account-error = Nem sikerült frissíteni a(z) { $filename } Filelink mellékletet, mert a Filelink-fiókot törölték.
+
+## Link Preview
+
+link-preview-title = Hivatkozás előnézete
+link-preview-description = A { -brand-short-name } beágyazott előnézetet adhat hozzá a hivatkozások beillesztésekor.
+link-preview-autoadd = Hivatkozások előnézetének automatikus hozzáadása, ha lehetséges
+link-preview-replace-now = Hozzáad egy előnézetet ehhez a hivatkozáshoz?
+link-preview-yes-replace = Igen

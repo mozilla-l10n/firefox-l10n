@@ -125,6 +125,7 @@ about-addressbook-confirm-delete-contacts =
 ## Details
 
 about-addressbook-begin-edit-contact-button = Szerkesztés
+about-addressbook-delete-edit-contact-button = Törlés
 about-addressbook-cancel-edit-contact-button = Mégse
 about-addressbook-save-edit-contact-button = Mentés
 about-addressbook-details-email-addresses-header = E-mail-címek
