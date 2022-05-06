@@ -408,3 +408,4 @@ addon-page-options-button =
 details-notification-incompatible = { $name } is niet compatibel met { -brand-short-name } { $version }.
 details-notification-blocked-link = Meer informatie
 details-notification-softblocked-link = Meer informatie
+details-notification-gmp-pending = { $name } zal straks worden geïnstalleerd.
