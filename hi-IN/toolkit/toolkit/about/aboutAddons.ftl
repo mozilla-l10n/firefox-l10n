@@ -290,3 +290,15 @@ addons-heading-search-input =
     .placeholder = addons.mozilla.org खोजें
 addon-page-options-button =
     .title = सभी सहयुक्तियों के लिए औज़ार
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } असंगत है { -brand-short-name } { $version } के साथ.
+details-notification-blocked = { $name } को सुरक्षा या स्थायित्व कारणों से निष्क्रिय किया गया है.
+details-notification-blocked-link = अधिक सूचना
+details-notification-softblocked = { $name } सुरक्षा या स्थायित्व कारणों को पैदा करने के लिए जाना जाता है.
+details-notification-softblocked-link = अधिक सूचना
