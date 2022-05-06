@@ -399,7 +399,12 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+details-notification-unsigned-and-disabled = { $name } não pôde ser verificado para uso em { -brand-short-name } e foi desativado.
+details-notification-unsigned-and-disabled-link = Mais informações
+details-notification-unsigned = { $name } não pôde ser verificado para uso em { -brand-short-name }. Proceda com cautela.
+details-notification-unsigned-link = Mais informações
 details-notification-blocked = O { $name } foi desativado devido a problemas de segurança ou estabilidade.
 details-notification-blocked-link = Mais informações
 details-notification-softblocked = O { $name } é reconhecido como causa de problemas de segurança ou estabilidade.
 details-notification-softblocked-link = Mais informações
+details-notification-gmp-pending = { $name } será instalado em instantes.
