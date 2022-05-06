@@ -374,3 +374,15 @@ addons-heading-search-input =
     .placeholder = חיפוש ב־addons.mozilla.org
 addon-page-options-button =
     .title = כלים עבור כל התוספות
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } אינו תואם ל־{ -brand-short-name } { $version }.
+details-notification-blocked = התוספת { $name } נחסמה עקב בעיות אבטחה או יציבות.
+details-notification-blocked-link = מידע נוסף
+details-notification-softblocked = התוספת { $name } נודעת בגרימת בעיות אבטחה או יציבות.
+details-notification-softblocked-link = מידע נוסף
