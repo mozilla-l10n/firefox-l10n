@@ -3,65 +3,46 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Saytukatu modili mottali yi
-
 search-header-shortcut =
     .key = f
-
 list-empty-installed =
     .value = Amuloo benn modil bu mel nii te sampu
-
 list-empty-available-updates =
     .value = Amul benn yeesal
-
 list-empty-recent-updates =
     .value = Toog nga lu yàgg yeesaloo say modili mottali
-
 list-empty-find-updates =
     .label = Wut ay yeesal
-
 list-empty-button =
     .label = Gënati jàngaat ci modili mottali yi
-
 detail-version =
     .label = Sumb
-
 detail-last-updated =
     .label = Yeesal bi mujj
-
 detail-contributions-description = Tàllalkatu modil  day ñaan nga dimbali ko as tuut ngir mu mottali liggéey bi
-
 detail-update-type =
     .value = Yeesali boppam
-
 detail-update-default =
     .label = Ñakk ndigal
     .tooltiptext = Yeesal yi dina ñu sampul seen bopp su fekkeeni regalaasu ñakk ndigal la
-
 detail-update-automatic =
     .label = Suqali
     .tooltiptext = Sampal boppam yeesal yi
-
 detail-update-manual =
     .label = Suux
     .tooltiptext = Du sampal boppam yeesal yi
-
 detail-home =
     .label = Xëtu dalal
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Jëmmalinu modil bi
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Wut ay yeesal yu féex
     .accesskey = W
     .tooltiptext = Wut ay yeesal yu féex pur modil bi
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -78,13 +59,10 @@ detail-show-preferences =
             [windows] Soppali tànnéefi modil yi
            *[other] Soppi taamu modil bi
         }
-
 detail-rating =
     .value = Yëgg
-
 addon-restart-now =
     .label = Tambaliwaatal léegi
-
 addon-category-extension = Yokk yi
 addon-category-extension-title =
     .title = Yokk yi
@@ -113,7 +91,6 @@ extensions-warning-check-compatibility-button = Suqali
 extensions-warning-update-security = Wóoralu yeesali kaarange modili mottali yi dafa suux. Xëyna da nga am ay modili mottali yu wóorul.
 extensions-warning-update-security-button = Suqali
     .title = Suqali wóoralu yeesali kaaraange yu modili mottali yi
-
 
 ## Strings connected to add-on updates
 
@@ -168,9 +145,23 @@ addon-install-from-file-filter-name = Modili mottali
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+
 ##
+
 
 ## Page headings
 
 addon-page-options-button =
     .title = Jumtukaayi modil yépp
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } andul ak { -brand-short-name } { $version }.
+details-notification-blocked = { $name } suuxal nañu ko ndax ay tolof tolofi kaaraange ak yanq.
+details-notification-blocked-link = Xibaar yu gën bari
+details-notification-softblocked = { $name } liñu ko xame mooy indi ay tolof tolofi kaarange ak yanq.
+details-notification-softblocked-link = Xibaar yu gën bari
