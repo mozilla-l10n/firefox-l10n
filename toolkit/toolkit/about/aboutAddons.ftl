@@ -404,7 +404,12 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = A(z) { $name } nem kompatibilis ezzel: { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = { $name } használhatósága nem ellenőrizhető a { -brand-short-name } programban, és le lett tiltva.
+details-notification-unsigned-and-disabled-link = További információ
+details-notification-unsigned = { $name } használhatósága nem ellenőrizhető a { -brand-short-name } programban. Legyen óvatos.
+details-notification-unsigned-link = További információ
 details-notification-blocked = A(z) { $name } le lett tiltva biztonsági vagy stabilitási problémák miatt.
 details-notification-blocked-link = További információ
 details-notification-softblocked = A(z) { $name } biztonsági vagy stabilitási problémát okoz.
 details-notification-softblocked-link = További információ
+details-notification-gmp-pending = { $name } hamarosan telepítésre kerül.
