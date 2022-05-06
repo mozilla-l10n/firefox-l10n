@@ -382,3 +382,20 @@ addons-heading-search-input =
     .placeholder = Serĉi en addons.mozilla.org
 addon-page-options-button =
     .title = Iloj por ĉiuj aldonaĵoj
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } estas nekongrua kun { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = { $name } ne povis esti kontrolita por uzo en { -brand-short-name } kaj estis malaktivigita.
+details-notification-unsigned-and-disabled-link = Pli da informo
+details-notification-unsigned = { $name } ne povis esti kontrolita por uzo en { -brand-short-name }. Daŭrigu singarde.
+details-notification-unsigned-link = Pli da informo
+details-notification-blocked = { $name } esti blokita pro sekurecaj kaj stabilecaj problemoj.
+details-notification-blocked-link = Plia informo
+details-notification-softblocked = Estas konata fakto ke { $name } povas okazigi sekurecajn kaj stabilecajn problemojn.
+details-notification-softblocked-link = Plia informo
+details-notification-gmp-pending = { $name } estos baldaŭ instalita.
