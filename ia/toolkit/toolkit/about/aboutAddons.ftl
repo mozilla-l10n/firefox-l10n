@@ -382,3 +382,13 @@ addons-heading-search-input =
     .placeholder = Cercar sur addons.mozilla.org
 addon-page-options-button =
     .title = Instrumentos pro tote le additivos
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+details-notification-unsigned-and-disabled-link = Plus de informationes
+details-notification-unsigned = { $name } non ha potite esser verificate pro le utilisation in { -brand-short-name }. Procede con prudentia.
+details-notification-unsigned-link = Plus de informationes
+details-notification-blocked-link = Plus de informationes
+details-notification-softblocked-link = Plus de informationes
