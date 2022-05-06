@@ -165,9 +165,13 @@ because displayed names don't have the comma in between. -->
 <!ENTITY ChatName.label                                 "Զրուցարանի անուն">
 <!ENTITY ChatName.accesskey                             "Զ">
 <!ENTITY Company.label                                  "Կազմակերպութիւն">
+<!ENTITY Company.accesskey                              "կ">
 <!ENTITY NickName.label                                 "Մականուն">
+<!ENTITY NickName.accesskey                             "ա">
 <!ENTITY SecondEmail.label                              "Լրացուցիչ եղեկտրոնային հասցէ">
+<!ENTITY SecondEmail.accesskey                          "չ">
 <!ENTITY Department.label                               "Բաժին">
+<!ENTITY Department.accesskey                           "ժ">
 <!ENTITY JobTitle.label                                 "Վերնագիր">
 <!ENTITY JobTitle.accesskey                             "Վ">
 <!ENTITY CellularNumber.label                           "Բջջային">
@@ -185,10 +189,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.label                           "Վարընթաց">
 <!ENTITY sortDescending.accesskey                       "Վ">
 <!ENTITY _PhoneticName.label                            "Հնչիւնաբանական անուն">
-<!ENTITY _PhoneticName.accesskey                        "o">
+<!ENTITY _PhoneticName.accesskey                        "իւ">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
+<!ENTITY contact.heading                                "Կապորդ">
 <!ENTITY home.heading                                   "Տուն">
 <!ENTITY other.heading                                  "Այղ">
 <!ENTITY chat.heading                                   "Զրուցարան">

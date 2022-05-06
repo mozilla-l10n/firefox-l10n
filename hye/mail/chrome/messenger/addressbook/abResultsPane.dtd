@@ -9,12 +9,15 @@
 <!ENTITY PrimaryEmail.label                    "Եղեկտրոնային հասցէ">
 <!ENTITY PrimaryEmail.accesskey                "Ե">
 <!ENTITY Company.label                         "Կազմակերպութիւն">
+<!ENTITY Company.accesskey                     "կ">
 <!ENTITY _PhoneticName.label                   "Հնչիւնային անուն">
-<!ENTITY _PhoneticName.accesskey               "o">
+<!ENTITY _PhoneticName.accesskey               "ի">
 <!ENTITY NickName.label                        "Մականուն">
-<!ENTITY NickName.accesskey                    "i">
+<!ENTITY NickName.accesskey                    "ա">
 <!ENTITY SecondEmail.label                     "Լրացուցիչ եղեկտրոնային հասցէ">
+<!ENTITY SecondEmail.accesskey                 "չ">
 <!ENTITY Department.label                      "Բաժին">
+<!ENTITY Department.accesskey                  "ժ">
 <!ENTITY JobTitle.label                        "Վերնագիր">
 <!ENTITY JobTitle.accesskey                    "Վ">
 <!ENTITY CellularNumber.label                  "Բջջային">
