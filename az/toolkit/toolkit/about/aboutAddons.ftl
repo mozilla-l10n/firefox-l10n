@@ -3,91 +3,64 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Əlavə idarəçisi
-
 search-header =
     .placeholder = addons.mozilla.org saytında axtar
     .searchbuttonlabel = Axtar
-
 search-header-shortcut =
     .key = f
-
 list-empty-installed =
     .value = Bu növ qurulmuş əlavəniz yoxdur
-
 list-empty-available-updates =
     .value = Yenilənmə tapılmadı
-
 list-empty-recent-updates =
     .value = Yaxın vaxtlarda hər hansı bir əlavəni yeniləmədiniz
-
 list-empty-find-updates =
     .label = Yeniləmələri yoxla
-
 list-empty-button =
     .label = Əlavələr haqqında daha çox öyrənin
-
 help-button = Əlavə Dəstəyi
-
 sidebar-help-button-title =
     .title = Əlavə Dəstəyi
-
 show-unsigned-extensions-button =
     .label = Bəzi uzantılar təsdiqlənə bilmirlər
-
 show-all-extensions-button =
     .label = Bütün uzantıları göstər
-
 detail-version =
     .label = Buraxılış
-
 detail-last-updated =
     .label = Son yenilənmə
-
 detail-contributions-description = Bu əlavəninin inkişaf etdiricisi, sizdən kiçik bir maddi kömək edərək əlavəni inkişaf etdirmə işini dəstəkləməyinizi istəyir.
-
 detail-update-type =
     .value = Avtomatik yeniləmə
-
 detail-update-default =
     .label = Standart
     .tooltiptext = Yeniləmələri sadəcə standart tənzimləmə budusa avtomatik quraşdır
-
 detail-update-automatic =
     .label = Açıqdır
     .tooltiptext = Yeniləmələri avtomatik quraşdır
-
 detail-update-manual =
     .label = Bağlı
     .tooltiptext = Yeniləmələri avtomatik quraşdırma
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Məxfi Pəncərələrdə işlət
-
 detail-private-browsing-on =
     .label = İcazə ver
     .tooltiptext = Məxfi Pəncərələrdə aktivləşdir
-
 detail-private-browsing-off =
     .label = İcazə vermə
     .tooltiptext = Məxfi Pəncərələrdə söndür
-
 detail-home =
     .label = Ana səhifə
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Əlavənin ID nömrəsi
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Yeniləmələrə bax…
     .accesskey = b
     .tooltiptext = Bu əlavənin yeniləmələri üçün bax
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -104,31 +77,20 @@ detail-show-preferences =
             [windows] Bu əlavənin seçimlərini dəyiş
            *[other] Bu əlavənin seçimlərini dəyiş
         }
-
 detail-rating =
     .value = Bəyənilmə
-
 addon-restart-now =
     .label = İndi yenidən başlat
-
 disabled-unsigned-heading =
     .value = Bəzi əlavələr söndürüldü
-
 disabled-unsigned-description = Bu əlavələr { -brand-short-name } səyyahında işlətmək üçün təsdiqlənməyiblər. Siz <label data-l10n-name="find-addons">yerinə başqasını tapa</label> və ya tərtibatçıdan onları təsdiqləməsini istəyə bilərsiz.
-
 disabled-unsigned-learn-more = Sizi onlayn təhlükəsiz tutmaq üçün etdiklərimiz haqqında ətraflı öyrənin.
-
 disabled-unsigned-devinfo = Əlavələrinin təsdiqlənməsini istəyən tərtibatçılar <label data-l10n-name="learn-more">təlimatları</label> oxumaqla başlaya bilərlər.
-
 plugin-deprecation-description = Nəsə çatışmır? Bəzi qoşmalar artıq { -brand-short-name } tərəfindən dəstəklənmir. <label data-l10n-name="learn-more">Ətraflı Öyrən.</label>
-
 legacy-warning-show-legacy = Köhnəlmiş qoşmaları göstər
-
 legacy-extensions =
     .value = Köhnəlmiş Qoşmalar
-
 legacy-extensions-description = Bu qoşmalar hazırkı { -brand-short-name } standartlarına cavab vermirlər və bu səbəbdən söndürüldülər. <label data-l10n-name="legacy-learn-more">Əlavələrə olan dəyişikliklər haqqında öyrən</label>
-
 addon-category-extension = Uzantılar
 addon-category-extension-title =
     .title = Uzantılar
@@ -160,7 +122,6 @@ extensions-warning-check-compatibility-button = Aktiv et
 extensions-warning-update-security = Əlavə yeniləmə təhlükəsizliyinə  nəzarəti söndürülüb. Yeniləmələr təhlükəli ola bilər.
 extensions-warning-update-security-button = Aktiv et
     .title = Əlavə yeniləmə təhlükəsizliyinə  nəzarəti aktivləşdir
-
 
 ## Strings connected to add-on updates
 
@@ -207,29 +168,23 @@ addon-open-about-debugging = Əlavələri Sazla
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Uzantı Qısa-yollarını İdarə et
     .accesskey = S
-
 shortcuts-no-addons = Aktiv uzantınız yoxdur.
 shortcuts-no-commands = Bu uzantıların qısa-yolları yoxdur:
 shortcuts-input =
     .placeholder = Qısayol yazın
-
 shortcuts-pageAction = Səhifə əməliyyatını aktivləşdir
 shortcuts-sidebarAction = Yan Paneli Aç/Qapat
-
 shortcuts-modifier-mac = Ctrl, Alt və ya ⌘ istifadə edin
 shortcuts-modifier-other = Ctrl və ya Alt istifadə edin
 shortcuts-invalid = Səhv kombinasiya
 shortcuts-letter = Hərf yazın
 shortcuts-system = { -brand-short-name } qısayolu dəyişdirilə bilməz
-
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Daha { $numberToShow } dənə göstər
        *[other] Daha { $numberToShow } dənə göstər
     }
-
 shortcuts-card-collapse-button = Daha az göstər
-
 header-back-button =
     .title = Geri get
 
@@ -248,7 +203,9 @@ enable-addon-button = Aktiv et
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+
 ##
+
 
 ## Page headings
 
@@ -259,9 +216,19 @@ dictionary-heading = Lüğətlərini idarə et
 locale-heading = Dillərini idarə et
 discover-heading = { -brand-short-name } səyyahınızı şəxsiləşdirin
 shortcuts-heading = Uzantı Qısa-yollarını İdarə et
-
 addons-heading-search-input =
     .placeholder = addons.mozilla.org saytında axtar
-
 addon-page-options-button =
     .title = Bütün əlavələr üçün alətlər
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } əlavəsi { -brand-short-name } { $version } ile uyğun deyil.
+details-notification-blocked = { $name } təhlükəsizlik və sabitlik səbəbi ilə söndürüldü.
+details-notification-blocked-link = Daha çox məlumati
+details-notification-softblocked = { $name } əlavəsinin təhlükəsizlik və ya sabitlik problemlərinə səbəb olduğu məlumdur.
+details-notification-softblocked-link = Daha çox məlumati
