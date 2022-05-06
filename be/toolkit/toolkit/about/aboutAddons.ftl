@@ -397,3 +397,15 @@ addons-heading-search-input =
     .placeholder = Пошук на addons.mozilla.org
 addon-page-options-button =
     .title = Прылады для ўсіх дадаткаў
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } несумяшчальна з { -brand-short-name } { $version }.
+details-notification-blocked = { $name } забаронены, бо маюцца праблемы сумяшчальнасці або ўстойлівасці.
+details-notification-blocked-link = Падрабязней
+details-notification-softblocked = Вядома, што { $name } мае праблемы сумяшчальнасці або ўстойлівасці.
+details-notification-softblocked-link = Падрабязней
