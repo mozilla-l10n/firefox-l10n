@@ -267,3 +267,5 @@ spaces-customize-accent-background-color = Couleur de fond du bouton sélectionn
 spaces-customize-accent-text-color = Couleur du bouton sélectionné
 spaces-customize-button-restore = Configuration par défaut
     .accesskey = C
+customize-panel-button-save = Terminé
+    .accesskey = T
