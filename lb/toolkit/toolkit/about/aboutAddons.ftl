@@ -4,16 +4,12 @@
 
 detail-version =
     .label = Versioun
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-rating =
     .value = Bewäertung
-
 addon-category-extension = Erweiderungen
 addon-category-extension-title =
     .title = Erweiderungen
@@ -62,7 +58,18 @@ addon-category-locale-title =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+
 ##
+
 
 ## Page headings
 
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+details-notification-unsigned-and-disabled-link = Méi Informatiounen
+details-notification-unsigned-link = Méi Informatiounen
+details-notification-blocked-link = Méi Informatiounen
+details-notification-softblocked-link = Méi Informatiounen
