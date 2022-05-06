@@ -397,7 +397,11 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = Dodatak { $name } je nekompatibilan s { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = { $name } nije mogao biti verificiran za rad u { -brand-short-name } te je onemogućen.
+details-notification-unsigned-and-disabled-link = Više informacija
+details-notification-unsigned-link = Više informacija
 details-notification-blocked = Dodatak { $name } je blokiran zbog problema sa sigurnosti ili stabilnosti.
 details-notification-blocked-link = Više informacija
 details-notification-softblocked = Dodatak { $name } je poznat po problemima sa sigurnosti ili stabilnosti.
 details-notification-softblocked-link = Više informacija
+details-notification-gmp-pending = { $name } će ubrzo biti instaliran.
