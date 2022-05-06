@@ -390,3 +390,15 @@ addons-heading-search-input =
     .placeholder = Na addons.mozilla.org pytaś
 addon-page-options-button =
     .title = Rědy za wšykne dodanki
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } njejo z kompatibelny z { -brand-short-name } { $version }.
+details-notification-blocked = { $name } jo se dla problemow wěstoty abo stabilnosći znjemóžnił.
+details-notification-blocked-link = Dalšne informacije
+details-notification-softblocked = { $name } jo za to znaty, až zawinujo problemy wěstoty abo stabilnosći.
+details-notification-softblocked-link = Dalšne informacije
