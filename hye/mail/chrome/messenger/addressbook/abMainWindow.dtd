@@ -32,12 +32,13 @@
 <!ENTITY closeCmd.accesskey                             "Փ">
 <!ENTITY printContactCmd.label                          "Տպել կապորդը…">
 <!ENTITY printContactCmd.accesskey                      "Տ">
-<!ENTITY printContactCmd.key                            "P">
+<!ENTITY printContactCmd.key                            "Տ">
 <!ENTITY printAddressBook.label                         "Տպագրման հասցէագիրք…">
+<!ENTITY printAddressBook.accesskey                     "Հ">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Խմբագրել">
-<!ENTITY editMenu.accesskey                             "E">
+<!ENTITY editMenu.accesskey                             "Խ">
 <!ENTITY deleteCmd.label                                "Ջնջել">
 <!ENTITY deleteAbCmd.label                              "Ջնջել հասցէագիրքը">
 <!ENTITY deleteAbCmd.accesskey                          "Ջ">
@@ -47,18 +48,14 @@
 <!ENTITY deleteListCmd.label                            "Ջնջել ցուցակը">
 <!ENTITY deleteListsCmd.label                           "Ջնջել ցուցակները">
 <!ENTITY deleteItemsCmd.label                           "Ջնջել տարրերը">
-<!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY propertiesMenu.label                           "Յատկութիւններ">
-<!ENTITY propertiesMenu.accesskey                       "i">
-<!ENTITY propertiesCmd.key                              "i">
 <!ENTITY abPropertiesMenu.label                         "Հասցէագրքի յատկութիւններ">
 <!ENTITY contactPropertiesMenu.label                    "Կապորդի յատկութիւններ">
-<!ENTITY contactPropertiesMenu.accesskey                "i">
 <!ENTITY mailingListPropertiesMenu.label                "Փոստացանկի յատկութիւններ">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Տեսք">
-<!ENTITY viewMenu.accesskey                             "V">
+<!ENTITY viewMenu.accesskey                             "Տ">
 <!ENTITY viewToolbarsMenu.label                         "Գործիքագաւտիներ">
 <!ENTITY viewToolbarsMenu.accesskey                     "Գ">
 <!ENTITY menubarCmd.label                               "Ցանկագաւտի">
