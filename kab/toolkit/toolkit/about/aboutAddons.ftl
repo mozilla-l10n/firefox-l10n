@@ -399,6 +399,7 @@ addon-page-options-button =
 details-notification-incompatible = { $name } ur imṣada ara d { -brand-short-name } { $version }.
 details-notification-unsigned-and-disabled-link = Ugar n telɣut
 details-notification-unsigned-link = Ugar n telɣut
+details-notification-blocked = { $name } yensa imi d-imuger uguren n tɣellist neɣ n urkad.
 details-notification-blocked-link = Ugar n telɣut
 details-notification-softblocked-link = Ugar n telɣut
 details-notification-gmp-pending = { $name } ad iţwasebded si sya ɣer da.
