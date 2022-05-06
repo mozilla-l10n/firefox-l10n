@@ -393,3 +393,15 @@ addons-heading-search-input =
     .placeholder = Tìm kiếm addons.mozilla.org
 addon-page-options-button =
     .title = Công cụ cho tất cả tiện ích
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } không tương thích với { -brand-short-name } { $version }.
+details-notification-blocked = { $name } đã bị vô hiệu hóa vì vấn đề bảo mật hoặc tính ổn định.
+details-notification-blocked-link = Thông tin Chi tiết
+details-notification-softblocked = { $name } được cho là gây ra các vấn đề về bảo mật hoặc tính ổn định.
+details-notification-softblocked-link = Thông tin Chi tiết
