@@ -452,3 +452,13 @@ addons-heading-search-input =
     .placeholder = Vyhledat na addons.mozilla.org
 addon-page-options-button =
     .title = Nástroje doplňků
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = Doplněk { $name } je nekompatibilní s aplikací { -brand-short-name } { $version }.
+details-notification-blocked-link = Více informací
+details-notification-softblocked-link = Více informací
