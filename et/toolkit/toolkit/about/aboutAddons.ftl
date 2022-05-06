@@ -384,3 +384,20 @@ addons-heading-search-input =
     .placeholder = Otsi saidilt addons.mozilla.org
 addon-page-options-button =
     .title = Tööriistad kõigile lisadele
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = Lisa { $name } ei ühildu { -brand-short-name }i versiooniga { $version }.
+details-notification-unsigned-and-disabled = Lisa { $name } polnud võimalik { -brand-short-name }is kasutamiseks verifitseerida ja see keelati.
+details-notification-unsigned-and-disabled-link = Rohkem teavet
+details-notification-unsigned = Lisa { $name } polnud võimalik { -brand-short-name }is kasutamiseks verifitseerida. Tasub olla ettevaatlik.
+details-notification-unsigned-link = Rohkem teavet
+details-notification-blocked = Lisa { $name } on turvalisuse või stabiilsuse probleemide tõttu keelatud.
+details-notification-blocked-link = Rohkem teavet
+details-notification-softblocked = Lisa { $name } on tunnistatud turvalisuse või stabiilsuse probleeme tekitavaks.
+details-notification-softblocked-link = Rohkem teavet
+details-notification-gmp-pending = { $name } paigaldatakse peagi.
