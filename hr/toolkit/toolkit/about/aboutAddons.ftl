@@ -389,3 +389,14 @@ addons-heading-search-input =
     .placeholder = Pretraži addons.mozilla.org
 addon-page-options-button =
     .title = Alati za sve dodatke
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = Dodatak { $name } je nekompatibilan s { -brand-short-name } { $version }.
+details-notification-blocked-link = Više informacija
+details-notification-softblocked = Dodatak { $name } je poznat po problemima sa sigurnosti ili stabilnosti.
+details-notification-softblocked-link = Više informacija
