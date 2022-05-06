@@ -286,3 +286,19 @@ plugin-heading = Gesti is cumplementos tuos
 dictionary-heading = Gesti is ditzionàrios tuos
 locale-heading = Gesti is lìnguas
 updates-heading = Gesti is atualizatziones tuas
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } no est cumpatìbile cun { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled-link = Àteras informatziones
+details-notification-unsigned = { $name } no est averiguadu pro s'impreu in { -brand-short-name }. Sighi cun atentzione.
+details-notification-unsigned-link = Àteras informatziones
+details-notification-blocked = { $name } est istadu disativadu pro more de problemas de seguresa o de istabilidade.
+details-notification-blocked-link = Àteras informatziones
+details-notification-softblocked = { $name } podet generare problemas de seguresa e de istabilidade.
+details-notification-softblocked-link = Àteras informatziones
+details-notification-gmp-pending = { $name } at a èssere installadu de immoe a pagu.
