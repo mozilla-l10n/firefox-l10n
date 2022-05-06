@@ -59,43 +59,43 @@
 <!ENTITY viewToolbarsMenu.label                         "Գործիքագաւտիներ">
 <!ENTITY viewToolbarsMenu.accesskey                     "Գ">
 <!ENTITY menubarCmd.label                               "Ցանկագաւտի">
-<!ENTITY menubarCmd.accesskey                           "Ը">
+<!ENTITY menubarCmd.accesskey                           "Ց">
 <!ENTITY showAbToolbarCmd.label                         "Հասցէագրքի գործիքագաւտի">
 <!ENTITY showTaskbarCmd.label                           "Վիճակագաւտի">
-<!ENTITY showTaskbarCmd.accesskey                       "Ց">
+<!ENTITY showTaskbarCmd.accesskey                       "Վ">
 <!ENTITY customizeToolbar.label                         "Յարմարեցնել…">
 <!ENTITY customizeToolbar.accesskey                     "Յ">
 <!ENTITY layoutMenu.label                               "Շարակարգ">
-<!ENTITY layoutMenu.accesskey                           "Լ">
+<!ENTITY layoutMenu.accesskey                           "Շ">
 <!ENTITY showDirectoryPane.label                        "Գրացուցակի վահանակ">
-<!ENTITY showDirectoryPane.accesskey                    "D">
+<!ENTITY showDirectoryPane.accesskey                    "Գ">
 <!ENTITY showContactPane2.label                         "Կապորդների վահանակ">
-<!ENTITY showContactPane2.accesskey                     "C">
+<!ENTITY showContactPane2.accesskey                     "Կ">
 <!ENTITY menu_ShowNameAs.label                          "Ցուցադրել անունը որպէս">
-<!ENTITY menu_ShowNameAs.accesskey                      "N">
+<!ENTITY menu_ShowNameAs.accesskey                      "Ա">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Անուն Ազգանուն">
-<!ENTITY firstLastCmd2.accesskey                        "F">
+<!ENTITY firstLastCmd2.accesskey                        "Ա">
 <!ENTITY lastFirstCmd.label                             "Ազգանուն, Անուն">
-<!ENTITY lastFirstCmd.accesskey                         "L">
+<!ENTITY lastFirstCmd.accesskey                         "Ա">
 <!ENTITY displayNameCmd.label                           "Ցուցադրուող անուն">
-<!ENTITY displayNameCmd.accesskey                       "D">
+<!ENTITY displayNameCmd.accesskey                       "Ց">
 <!ENTITY sortMenu.label                                 "Տեսակաւորել ըստ՝">
-<!ENTITY sortMenu.accesskey                             "S">
+<!ENTITY sortMenu.accesskey                             "Տ">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Գործիքներ">
-<!ENTITY tasksMenu.accesskey                            "T">
+<!ENTITY tasksMenu.accesskey                            "Գ">
 <!ENTITY messengerCmd.label                             "Եղ․ փոստ  &amp; եւ նորութիւնների խմբեր">
-<!ENTITY messengerCmd.accesskey                         "M">
+<!ENTITY messengerCmd.accesskey                         "Ե">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Որոնել հասցէները․․․">
-<!ENTITY searchAddressesCmd.accesskey                   "S">
+<!ENTITY searchAddressesCmd.accesskey                   "Ո">
 <!ENTITY importCmd.label                                "Ներածել…">
-<!ENTITY importCmd.accesskey                            "I">
+<!ENTITY importCmd.accesskey                            "Ն">
 <!ENTITY exportCmd.label                                "Արտածել…">
-<!ENTITY exportCmd.accesskey                            "E">
+<!ENTITY exportCmd.accesskey                            "Ա">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Նոր կապորդ">
@@ -103,25 +103,26 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.label                            "Նոր ցանկ">
 <!ENTITY newlistButton.accesskey                        "ց">
 <!ENTITY showAsDefault.label                            "Սկզբնադիր գործարկման գրացուցակ">
-<!ENTITY showAsDefault.accesskey                        "S">
+<!ENTITY showAsDefault.accesskey                        "Գ">
 <!ENTITY editPropertiesButton.label                     "Խմբագրել">
 <!ENTITY propertiesContext.label                        "Յատկութիւններ">
-<!ENTITY propertiesContext.accesskey                    "i">
 <!ENTITY abPropertiesContext.label                      "Յատկութիւններ">
 <!ENTITY syncContext.label                              "Համաժամեցնել">
-<!ENTITY syncContext.accesskey                          "y">
+<!ENTITY syncContext.accesskey                          "ի">
 <!ENTITY editContactContext.label                       "Խմբագրել կապորդը">
-<!ENTITY editContactContext.accesskey                   "E">
+<!ENTITY editContactContext.accesskey                   "Խ">
 <!ENTITY editMailingListContext.label                   "Խմբագրել ցանկը">
+<!ENTITY editMailingListContext.accesskey               "Խ">
 <!ENTITY newmsgButton.label                             "Գրել">
+<!ENTITY newmsgButton.accesskey                         "Գ">
 <!ENTITY newIM.label                                    "Առաջնահերթ նամակ">
-<!ENTITY newIM.accesskey                                "I">
+<!ENTITY newIM.accesskey                                "Ա">
 <!ENTITY printButton.label                              "Տպել…">
-<!ENTITY printButton.accesskey                          "Պ">
+<!ENTITY printButton.accesskey                          "Տ">
 <!ENTITY deleteButton2.label                            "Ջնջել">
 <!ENTITY deleteButton2.accesskey                        "Ջ">
 <!ENTITY removeButton.label                             "Հեռացնել">
-<!ENTITY removeButton.accesskey                         "R">
+<!ENTITY removeButton.accesskey                         "Հ">
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Ընտրել ցուցադրուող սիւնակները">
@@ -138,45 +139,44 @@ because displayed names don't have the comma in between. -->
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Անուն կամ եղեկտրոնային հասցէ">
+<!ENTITY SearchNameOrEmail.accesskey                    "Ա">
 <!ENTITY advancedButton.tooltip                         "Բարելաւուած հասցէների որոնում">
-<!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Արագ որոնում">
 
 <!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Հասցէագիրք">
+<!ENTITY Addrbook.accesskey                             "Գ">
 <!ENTITY GeneratedName.label                            "Անուն">
-<!ENTITY GeneratedName.accesskey                        "N">
+<!ENTITY GeneratedName.accesskey                        "Ա">
 <!ENTITY PrimaryEmail.label                             "Եղեկտրոնային հասցէ">
 <!ENTITY PrimaryEmail.accesskey                         "Ե">
 <!ENTITY ChatName.label                                 "Զրուցարանի անուն">
-<!ENTITY ChatName.accesskey                             "C">
+<!ENTITY ChatName.accesskey                             "Զ">
 <!ENTITY Company.label                                  "Կազմակերպութիւն">
-<!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "Մականուն">
-<!ENTITY NickName.accesskey                             "i">
 <!ENTITY SecondEmail.label                              "Լրացուցիչ եղեկտրոնային հասցէ">
 <!ENTITY Department.label                               "Բաժին">
-<!ENTITY Department.accesskey                           "r">
 <!ENTITY JobTitle.label                                 "Վերնագիր">
 <!ENTITY JobTitle.accesskey                             "Վ">
 <!ENTITY CellularNumber.label                           "Բջջային">
+<!ENTITY CellularNumber.accesskey                       "Բ">
 <!ENTITY PagerNumber.label                              "Հեռատող">
 <!ENTITY PagerNumber.accesskey                          "Հ">
 <!ENTITY FaxNumber.label                                "Հեռապատճէն">
+<!ENTITY FaxNumber.accesskey                            "Հ">
 <!ENTITY HomePhone.label                                "Տնային հեռախաւս">
-<!ENTITY HomePhone.accesskey                            "H">
+<!ENTITY HomePhone.accesskey                            "Տ">
 <!ENTITY WorkPhone.label                                "Աշխատանքային հեռախաւս">
-<!ENTITY WorkPhone.accesskey                            "W">
+<!ENTITY WorkPhone.accesskey                            "Ա">
 <!ENTITY sortAscending.label                            "Վերընթաց">
-<!ENTITY sortAscending.accesskey                        "A">
+<!ENTITY sortAscending.accesskey                        "Վ">
 <!ENTITY sortDescending.label                           "Վարընթաց">
-<!ENTITY sortDescending.accesskey                       "D">
+<!ENTITY sortDescending.accesskey                       "Վ">
 <!ENTITY _PhoneticName.label                            "Հնչիւնաբանական անուն">
 <!ENTITY _PhoneticName.accesskey                        "o">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-<!ENTITY contact.heading                                "">
 <!ENTITY home.heading                                   "Տուն">
 <!ENTITY other.heading                                  "Այղ">
 <!ENTITY chat.heading                                   "Զրուցարան">
@@ -195,6 +195,6 @@ because displayed names don't have the comma in between. -->
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label                               "Պատուհան">
 <!ENTITY minimizeWindow.label                           "Փոքրացնել">
-<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY minimizeWindow.key                             "փ">
 <!ENTITY bringAllToFront.label                          "Բոլոր պատուհանները բերել առաջնային մաս">
 <!ENTITY zoomWindow.label                               "Խոշորացոյց">
