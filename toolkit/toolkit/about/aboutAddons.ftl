@@ -410,3 +410,4 @@ details-notification-blocked = { $name } es estat desactivat en seguida de probl
 details-notification-blocked-link = Mai d'informacions
 details-notification-softblocked = { $name } es conegut per provocar de problèmas de seguretat o d'estabilitat.
 details-notification-softblocked-link = Mai d'informacions
+details-notification-gmp-pending = { $name } serà installat lèu.
