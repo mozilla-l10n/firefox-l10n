@@ -172,3 +172,15 @@ addons-heading-search-input =
     .placeholder = Cuardaigh in addons.mozilla.org
 addon-page-options-button =
     .title = Uirlisí le haghaidh gach breiseán
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = Níl { $name } comhoiriúnach le { -brand-short-name } { $version }.
+details-notification-blocked = Tá { $name } díchumasaithe mar gheall ar fhadhbanna slándála nó cobhsaíochta.
+details-notification-blocked-link = Tuilleadh Eolais
+details-notification-softblocked = Tá { $name } freagrach as fadhbanna slándála nó cobhsaíochta.
+details-notification-softblocked-link = Tuilleadh Eolais
