@@ -91,6 +91,7 @@ ssl-error-encryption-failure = S'algoritmu de tzifradu de datos de massa at fall
 ssl-error-decryption-failure = S'algoritmu de detzifratzione de datos de massa at fallidu in su pachete de tzifrados seberadu.
 ssl-error-md5-digest-failure = S’esecutzione de sa funtzione MD5 digest est fallida.
 ssl-error-sha-digest-failure = S’esecutzione de sa funtzione SHA-1 digest est fallida.
+ssl-error-init-cipher-suite-failure = Faddina in s'aviu de su pachete de tzifrados seberadu.
 ssl-error-user-canceled-alert = S'utente de s'àtera parte at annulladu s'istabilimentu de connessione (handshake).
 sec-error-retry-password = New password entered incorrectly. Torra·bi a proare.
 sec-error-user-cancelled = S'utente at incarcadu Annulla.

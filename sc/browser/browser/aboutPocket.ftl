@@ -16,6 +16,7 @@ pocket-panel-saved-error-tag-length = Sa longària màssima de is etichetas depe
 pocket-panel-saved-error-only-links = Faghet a sarvare isceti is ligòngios
 pocket-panel-saved-error-not-saved = Pàgina non sarvada
 pocket-panel-saved-error-no-internet = Depes tènnere connessione a internet pro sarvare in su { -pocket-brand-name }. Connete·ti a internet e torra a proare.
+pocket-panel-saved-error-remove = Ddoe at àpidu una faddina proende a bogare custa pàgina.
 pocket-panel-saved-page-removed = Pàgina bogada
 pocket-panel-saved-page-saved = Sarvadu a { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Sarvadu in { -pocket-brand-name }.
@@ -68,6 +69,5 @@ pocket-panel-header-sign-in = Identìfica·ti
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Ammustra totu
-pocket-panel-button-add-tags = Agiunghe etichetas
 pocket-panel-button-activate = Ativa { -pocket-brand-name } in { -brand-product-name }
 pocket-panel-button-remove = Boga

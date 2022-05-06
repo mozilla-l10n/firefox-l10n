@@ -88,9 +88,18 @@ extension-controlled-websites-content-blocking-all-trackers = Un'estensione, <im
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Un'estensione, <img data-l10n-name="icon"/> { $name }, est controllende comente { -brand-short-name } si connetet a internet.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controllat custa configuratzione.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> rechedet is ischedas cuntenidoras.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controllat custa configuratzione.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> controllat comente { -brand-short-name } si connetet a internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -370,6 +379,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Ite depet fàghere { -brand-short-name } cun is àteros archìvios?
+applications-save-for-new-types =
+    .label = Sarva is archìvios
+    .accesskey = S
+applications-ask-before-handling =
+    .label = Pregonta si boles abèrrere o sarvare is archìvios
+    .accesskey = P
 drm-content-header = Cuntenutu DRM (Digital Rights Management, Gestione de deretos digitales)
 play-drm-content =
     .label = Reprodue cuntenutu protetu dae DRM
