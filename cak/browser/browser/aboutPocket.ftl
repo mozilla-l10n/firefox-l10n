@@ -18,6 +18,7 @@ pocket-panel-saved-error-not-saved = Man Yakon ta re Ruxaq
 pocket-panel-saved-error-no-internet = K'o chi okisan pa k'amaya'l richin niyak pa { -pocket-brand-name }. Katok pa k'amaya'l chuqa' tatojtob'ej chik.
 pocket-panel-saved-page-removed = Yujun Ruxaq
 pocket-panel-saved-page-saved = Yakon pa { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Yakon pa { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Tajin Niyuj Ruxaq…
 pocket-panel-saved-processing-tags = Tajin yetz'aqatisäx taq etal…
 pocket-panel-saved-remove-page = Tiyuj Ruxaq
@@ -26,6 +27,8 @@ pocket-panel-saved-saving-tags = Tajin niyak…
 pocket-panel-saved-suggested-tags = Chilab'en taq Etal
 pocket-panel-saved-tags-saved = Xetz'aqatisäx Taq Etal
 pocket-panel-signup-view-list = Titz'et Cholb'äl
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Ketz'aqatisäx Taq Etal:
 
 ## about:pocket-signup panel
 
@@ -38,7 +41,6 @@ pocket-panel-signup-signup-firefox = Tatz'ib'aj ab'i' rik'in { -brand-product-na
 pocket-panel-signup-tagline = Ke'ayaka' ri taq rucholna'oj chuqa' taq rusilowachib'äl { -brand-product-name } richin natz'ët pa { -pocket-brand-name } pa jun chik okisaxel, xab'achike ramaj.
 pocket-panel-signup-tagline-story-one = Tapitz'a' rupitz'b'al { -pocket-brand-name } richin nayäk jun rucholna'oj, rusilowachib'äl o jun ruxaq { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Titz'et pa { -pocket-brand-name } pa jun chik okisaxel, xab'achike ramaj.
-pocket-panel-signup-cta-a = Ri yaköl apitz'b'al richin k'amaya'l.
 pocket-panel-signup-cta-a-fix = Ri yaköl apitz'b'al richin k'amaya'l.
 pocket-panel-signup-cta-b = Tapitz'a' { -pocket-brand-name } richin ye'ayäk taq cholna'oj, silowäch chuqa' taq ximonel. Tatz'eta' ri acholb'al pa xab'achike okisab'äl pa xab'achike ramaj.
 pocket-panel-signup-cta-b-short = Tapitz'a' ri { -pocket-brand-name } pitz'b'äl richin ye'ayäk taq cholna'oj, silowäch chuqa' taq ximonel.
@@ -64,5 +66,4 @@ pocket-panel-header-sign-in = Titikirisäx Molojri'ïl
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Tik'ut Ronojel
-pocket-panel-button-add-tags = Ketz'aqatisäx Taq Etal
 pocket-panel-button-activate = Titzij { -pocket-brand-name } pa { -brand-product-name }
