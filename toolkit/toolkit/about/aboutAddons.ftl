@@ -193,5 +193,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } tidak serasi dengan { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = { $name } tidak dapat disahkan untuk digunakan di { -brand-short-name } dan ia telah dinyahdayakan.
+details-notification-unsigned = { $name } tidak dapat disahkan untuk digunakan di { -brand-short-name }. Teruskan dengan berhati-hati.
 details-notification-softblocked = { $name } telah dikenalpasti sebagai punca dalam isu keselamatan dan kestabilan.
 details-notification-gmp-pending = { $name } akan dipasang sebentar lagi.
