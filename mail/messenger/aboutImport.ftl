@@ -6,8 +6,11 @@ import-page-title = Importálás
 
 ## Header
 
+import-start = Importálási eszköz
+import-start-desc = Beállítások vagy adatok importálása alkalmazásból vagy fájlból.
 import-from-app = Importálás alkalmazásból
 import-from-app-desc = Fiókok, címjegyzékek, naptárak és egyéb adatok importálása innen:
+import-from-file = Importálás fájlból
 import-address-book = Címjegyzékfájl importálása
 import-calendar = Naptárfájl importálása
 export-profile = Exportálás
@@ -26,6 +29,13 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-file = Importálás fájlból
+
+## Import from file selections
+
+file-profile = Mentett profil importálása (.zip)
+file-calendar = Naptárak importálása
+file-addressbook = Címjegyzékek importálása
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Importálás innen: { $app }
@@ -66,7 +76,6 @@ calendar-import-into-new-calendar = Új naptár létrehozása
 
 ## Import dialog
 
-progress-pane-title = Importálás
 progress-pane-importing = Importálás
 progress-pane-exporting = Exportálás
 progress-pane-finished-desc = Kész.
