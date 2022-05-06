@@ -405,7 +405,12 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = Priedas „{ $name }“ yra nesuderinamas su „{ -brand-short-name } { $version }“.
+details-notification-unsigned-and-disabled = Nepavyko patikrinti „{ $name }“ suderinamumo su „{ -brand-short-name }“, tad jis buvo išjungtas.
+details-notification-unsigned-and-disabled-link = Daugiau informacijos
+details-notification-unsigned = Nepavyko patikrinti „{ $name }“ suderinamumo su „{ -brand-short-name }“. Elkitės atsargiai.
+details-notification-unsigned-link = Daugiau informacijos
 details-notification-blocked = Priedas „{ $name }“ išjungtas saugumo arba stabilumo sumetimais.
 details-notification-blocked-link = Plačiau
 details-notification-softblocked = Yra duomenų, jog priedas „{ $name }“ sukelia saugumo arba stabilumo problemas.
 details-notification-softblocked-link = Plačiau
+details-notification-gmp-pending = „{ $name }“ bus netrukus įdiegtas.
