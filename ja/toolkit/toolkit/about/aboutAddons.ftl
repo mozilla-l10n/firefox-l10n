@@ -160,6 +160,9 @@ addon-updates-view-updates = 最近更新したアドオンを表示
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
 # (^m^) en-US: Update Add-ons Autmatically
 addon-updates-update-addons-automatically = アドオンを既定で自動更新する
     .accesskey = A
@@ -169,6 +172,7 @@ addon-updates-update-addons-automatically = アドオンを既定で自動更新
 ## update checking behavior for all add-ons to the default global behavior
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
+
 # (^m^) 原文が直感的でないため実際の動作に合わせて、"Automatically / Manually" を使わない表現に変更した。
 # https://github.com/mozilla-japan/gecko-l10n/issues/263
 addon-updates-reset-updates-to-automatic = すべてのアドオンの更新設定を既定にリセット
@@ -304,11 +308,9 @@ addon-detail-version-label = バージョン
 addon-detail-last-updated-label = 最終更新日
 addon-detail-homepage-label = ホームページ
 addon-detail-rating-label = 評価
-
 # Message for add-ons with a staged pending update.
 install-postponed-message = この拡張機能は { -brand-short-name } の再起動時に更新されます。
 install-postponed-button = 今すぐ更新
-
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
@@ -343,19 +345,21 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = 許可した場合、この拡張機能はプライベートブラウジング中であってもユーザーのオンライン行動にアクセスできます。<a data-l10n-name="learn-more">詳細情報</a>
 addon-detail-private-browsing-allow = 許可する
 addon-detail-private-browsing-disallow = 許可しない
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
 addon-badge-recommended2 =
     .title = { -brand-product-name } は Mozilla が定めた安全性とパフォーマンスの基準に適合する拡張機能のみをおすすめします
     .aria-label = { addon-badge-recommended2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-  .title = Mozilla により作成された公式の拡張機能です。安全性とパフォーマンスの基準に適合します
-  .aria-label = { addon-badge-line3.title }
+    .title = Mozilla により作成された公式の拡張機能です。安全性とパフォーマンスの基準に適合します
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
-  .title = この拡張機能はセキュリティとパフォーマンスの基準に適合するようレビューされています。
-  .aria-label = { addon-badge-verified2.title }
+    .title = この拡張機能はセキュリティとパフォーマンスの基準に適合するようレビューされています。
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
@@ -390,3 +394,20 @@ addons-heading-search-input =
     .placeholder = addons.mozilla.org を検索
 addon-page-options-button =
     .title = アドオンツール
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } は { -brand-short-name } { $version } と互換性がありません。
+details-notification-unsigned-and-disabled = { $name } は { -brand-short-name } での使用が検証できないため無効化されています。
+details-notification-unsigned-and-disabled-link = 詳細情報
+details-notification-unsigned = { $name } は { -brand-short-name } での使用が検証できません。配布元を確認して慎重に使用してください。
+details-notification-unsigned-link = 詳細情報
+details-notification-blocked = { $name } はセキュリティまたは安定性に問題があるため無効化されています。
+details-notification-blocked-link = 詳細情報
+details-notification-softblocked = { $name } はセキュリティまたは安定性の問題を引き起こすことが知られています。
+details-notification-softblocked-link = 詳細情報
+details-notification-gmp-pending = { $name } はすぐにインストールされます。
