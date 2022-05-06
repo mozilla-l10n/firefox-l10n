@@ -414,3 +414,6 @@ cloud-file-account-error = Pśidank { $filename } Filelink njedajo se aktualizě
 
 link-preview-title = Wótkazowy pśeglěd
 link-preview-description = { -brand-short-name } móžo zasajźony pśeglěd pśidaś, gaž se wótkaze zasajźaju.
+link-preview-autoadd = Wótkazowe pśeglědy awtomatiski pśidaś, jolic móžno
+link-preview-replace-now = Wótkazowy pśeglěd za toś ten wótkaz pśidaś?
+link-preview-yes-replace = Jo
