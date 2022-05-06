@@ -386,3 +386,19 @@ addons-heading-search-input =
     .placeholder = Eheka addons.mozilla.org
 addon-page-options-button =
     .title = Tembipuru opaite moimbahápe g̃uarã
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } ndojokupytýi { -brand-short-name } { $version } ndive.
+details-notification-unsigned-and-disabled = { $name } ndaikatúi ojehechajey ojepuru hag̃ua { -brand-short-name }-pe ha oñemongéma.
+details-notification-unsigned-and-disabled-link = Maranduve
+details-notification-unsigned = { $name } ndaikatúi ojehechajey ojepuru hag̃ua { -brand-short-name }-pe. Ejesareko porãke hese.
+details-notification-unsigned-link = Maranduve
+details-notification-blocked = { $name } oñemongéma oguereko rupi apañuãi tekorosãrã térã tekopytápe.
+details-notification-blocked-link = Maranduve
+details-notification-softblocked = Ojeikuaa { $name } omoapañuãiha tekorosã térã tekoporã.
+details-notification-softblocked-link = Maranduve
