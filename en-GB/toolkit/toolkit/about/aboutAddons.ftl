@@ -394,3 +394,15 @@ addons-heading-search-input =
     .placeholder = Search addons.mozilla.org
 addon-page-options-button =
     .title = Tools for all add-ons
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } is incompatible with { -brand-short-name } { $version }.
+details-notification-blocked = { $name } has been disabled due to security or stability issues.
+details-notification-blocked-link = More Information
+details-notification-softblocked = { $name } is known to cause security or stability issues.
+details-notification-softblocked-link = More Information
