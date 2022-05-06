@@ -3,71 +3,50 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Topitorde Ɓeyditte
-
 search-header-shortcut =
     .key = f
-
 list-empty-installed =
     .value = A alaa hay ɓeydital gootal aafaangal e oo fannu
-
 list-empty-available-updates =
     .value = Alaa kesɗitine njiytaa
-
 list-empty-recent-updates =
     .value = A hesɗitinaani hay beyditere wootere sakket
-
 list-empty-find-updates =
     .label = Yuurno Kesɗitine
-
 list-empty-button =
     .label = Ɓeydu humpito e ɓeyditte
-
 show-unsigned-extensions-button =
     .label = Won e timmitte koriima ƴeewteede
-
 show-all-extensions-button =
     .label = Hollu timmitte fof
-
 detail-version =
     .label = Yamre
-
 detail-last-updated =
     .label = Hesɗitinaa Sakket
-
 detail-contributions-description = Tototooɗo ngal ɓeydital ena naamnii yo a wallit ɗum tambaade topagol ñiiɓngol so addude dokkal hay so seeɗa.
-
 detail-update-type =
     .value = Kesɗitine Jaajol
-
 detail-update-default =
     .label = Goowaaɗo
     .tooltiptext = Aaf kesɗitine e jaajol so wonaa tawa ko ɗum goowaɗum
-
 detail-update-automatic =
     .label = Kuɓɓol
     .tooltiptext = Aaf kesɗitine e jaajol
-
 detail-update-manual =
     .label = Ñifol
     .tooltiptext = Hoto aaf kesɗitine e jaajol
-
 detail-home =
     .label = Hello jaɓɓorgo
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Heftinirde Ɓeyditte
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Yuurno kesɗitine
     .accesskey = k
     .tooltiptext = Yuurno kesɗitine ngal ɓeydital
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -84,31 +63,20 @@ detail-show-preferences =
             [windows] Waylu cuɓe ngal ɓeydital
            *[other] Waylu cuɓoraaɗe ngal ɓeydital
         }
-
 detail-rating =
     .value = Ɓetagol
-
 addon-restart-now =
     .label = Hurmitin jooni
-
 disabled-unsigned-heading =
     .value = Won e ɓeyditte ko daaƴaaɗe
-
 disabled-unsigned-description = Ɗee ɓeyditte ƴeewtaaka ngam kuutoree e { -brand-short-name }. Aɗa waawi <label data-l10n-name="find-addons">yiytude lomtooje</label> walla naamno-ɗaa topaajo oo yoo ƴeewto-ɗe.
-
 disabled-unsigned-learn-more = Ɓeydu humpito baɗte darnde amen e wallude ma hisde e geese.
-
 disabled-unsigned-devinfo = Topayɓe hatojinɓe e ƴeewtaade ɓeyditte mum'en ena mbaawi jokkude tarde <label data-l10n-name="learn-more">famminorde</label>amen.
-
 plugin-deprecation-description = Ena ŋakki huunde? Won ceŋe nattuɗe tammiteede e { -brand-short-name }. <label data-l10n-name="learn-more">Ɓeydu Humpito.</label>
-
 legacy-warning-show-legacy = Hollu Jokke donaaɗe
-
 legacy-extensions =
     .value = Timmite gaadanteeje
-
 legacy-extensions-description = Ɗee timmitte ɗooftaaki nanondiraaɗe { -brand-short-name } wadde ɗe ndaaƴaama. <label data-l10n-name="legacy-learn-more">Ɓeydu humpito baɗte waylooji ɓeyditte</label>
-
 addon-category-extension = Timmitte
 addon-category-extension-title =
     .title = Timmitte
@@ -140,7 +108,6 @@ extensions-warning-check-compatibility-button = Daaƴtu
 extensions-warning-update-security = Ƴeewtagol kisnal ɓeyditte koko daaƴaa. Aɗa waawi heɓde caɗe e kesɗitine.
 extensions-warning-update-security-button = Daaƴtu
     .title = Daaƴtu ƴeewtagol kisnal ɓeyditte
-
 
 ## Strings connected to add-on updates
 
@@ -197,9 +164,23 @@ addon-open-about-debugging = Buggito Ɓeyditte
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+
 ##
+
 
 ## Page headings
 
 addon-page-options-button =
     .title = Kuutorɗe ɓeyditte fof
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } jaaɓdaani e { -brand-short-name } { $version }.
+details-notification-blocked = { $name } daaƴaama sabu caɗe kisal walla jamɗugol.
+details-notification-blocked-link = Ɓeydu Humpito
+details-notification-softblocked = { $name } ena anndiraa addude caɗe kisal walla jamɗugol.
+details-notification-softblocked-link = Ɓeydu Humpito
