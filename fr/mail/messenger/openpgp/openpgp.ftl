@@ -54,6 +54,8 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = Avancé…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">REMARQUE : la génération de clé peut prendre plusieurs minutes.</a> Veuillez ne pas quitter l’application tant que la génération de clé est en cours. Naviguer de façon soutenue sur le Web ou exécuter des opérations qui sollicitent le disque pendant la génération de clé renforcera le caractère aléatoire du processus et l’accélérera. Vous serez averti·e lorsque la génération de clé sera terminée.
+openpgp-key-created-label =
+    .label = Date de création
 openpgp-key-expiry-label =
     .label = Date d’expiration
 openpgp-key-id-label =
