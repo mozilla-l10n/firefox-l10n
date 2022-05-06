@@ -398,7 +398,9 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } { -brand-short-name } { $version } ਦੇ ਲਈ ਢੁੱਕਵੀਂ ਨਹੀਂ ਹੈ।
+details-notification-unsigned-and-disabled = { $name } ਨੂੰ { -brand-short-name } ਵਿੱਚ ਵਰਤਣ ਲਈ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ ਅਤੇ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ।
 details-notification-unsigned-and-disabled-link = ਹੋਰ ਜਾਣਕਾਰੀ
+details-notification-unsigned = { $name } ਨੂੰ { -brand-short-name } ਵਿੱਚ ਵਰਤਣ ਲਈ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ। ਧਿਆਨ ਨਾਲ ਵਰਤੋਂ।
 details-notification-unsigned-link = ਹੋਰ ਜਾਣਕਾਰੀ
 details-notification-blocked = { $name } ਨੂੰ ਸੁਰੱਖਿਆ ਜਾਂ ਸਥਿਰਤਾ ਸਮੱਸਿਆਵਾਂ ਕਰਕੇ ਬੰਦ ਕੀਤਾ ਗਿਆ ਹੈ।
 details-notification-blocked-link = ਹੋਰ ਜਾਣਕਾਰੀ
