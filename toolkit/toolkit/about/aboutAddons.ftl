@@ -406,3 +406,4 @@ details-notification-blocked = { $name } is útskeakele om reden fan feilichheid
 details-notification-blocked-link = Mear ynformaasje
 details-notification-softblocked = { $name } kin feilichheids- of stabiliteitsproblemen feroarsaakje.
 details-notification-softblocked-link = Mear ynformaasje
+details-notification-gmp-pending = { $name } sil ynkoarten ynstallearre wurde.
