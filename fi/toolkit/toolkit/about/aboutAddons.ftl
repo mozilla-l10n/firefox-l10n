@@ -387,3 +387,20 @@ addons-heading-search-input =
     .placeholder = Etsi addons.mozilla.orgista
 addon-page-options-button =
     .title = Työkaluja kaikille lisäosille
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = Lisäosa { $name } on epäyhteensopiva { -brand-short-name }in version { $version } kanssa.
+details-notification-unsigned-and-disabled = Lisäosaa { $name } ei ole varmennettu käytettäväksi { -brand-short-name }issa ja on otettu pois päältä.
+details-notification-unsigned-and-disabled-link = Lisätietoja
+details-notification-unsigned = Lisäosaa { $name } ei ole varmennettu käytettäväksi { -brand-short-name }issa. Ole varovainen.
+details-notification-unsigned-link = Lisätietoja
+details-notification-blocked = Lisäosa { $name } poistettiin käytöstä turvallisuus- tai vakausongelmien takia.
+details-notification-blocked-link = Lisätietoja
+details-notification-softblocked = Lisäosa { $name } aiheuttaa tunnetusti turvallisuus- tai vakausongelmia.
+details-notification-softblocked-link = Lisätietoja
+details-notification-gmp-pending = { $name } asennetaan kohta.
