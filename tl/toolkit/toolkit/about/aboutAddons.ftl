@@ -360,7 +360,15 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = Ang { $name } ay di akma para sa { -brand-short-name } { $version }.
 details-notification-unsigned-and-disabled = Ang { $name } ay hindi maaaring patunayan para magamit sa { -brand-short-name } at kasalukuyang hindi pinagana.
+details-notification-unsigned-and-disabled-link = Karagdagang Impormasyon
 details-notification-unsigned = Ang { $name } ay hindi maaaring mapatunayan para magamit sa { -brand-short-name }. Maingat na magpatuloy.
+details-notification-unsigned-link = Karagdagang Impormasyon
 details-notification-blocked = Ang { $name } ay kasalukuyang hindi pinagana dahil sa mga isyu sa seguridad o stabilidad.
+details-notification-blocked-link = Karagdagang Impormasyon
 details-notification-softblocked = Ang { $name } ay kilala na magdudulot ng mga isyu sa seguridad at stabilidad.
+details-notification-softblocked-link = Karagdagang Impormasyon
+details-notification-gmp-pending = Ang { $name } ay ikakabit sa ilang sandali.
