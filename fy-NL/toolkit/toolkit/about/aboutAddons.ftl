@@ -394,3 +394,15 @@ addons-heading-search-input =
     .placeholder = addons.mozilla.org trochsykje
 addon-page-options-button =
     .title = Ark foar alle add-ons
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } is ynkompatibel mei { -brand-short-name } { $version }.
+details-notification-blocked = { $name } is útskeakele om reden fan feilichheid of stabiliteit.
+details-notification-blocked-link = Mear ynformaasje
+details-notification-softblocked = { $name } kin feilichheids- of stabiliteitsproblemen feroarsaakje.
+details-notification-softblocked-link = Mear ynformaasje
