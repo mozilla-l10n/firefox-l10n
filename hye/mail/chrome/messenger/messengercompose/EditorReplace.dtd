@@ -10,8 +10,9 @@
 <!ENTITY replaceField.label "Փոխարինել՝">
 <!ENTITY replaceField.accesskey "խ">
 <!ENTITY caseSensitiveCheckbox.label "Ըստ համընկման">
+<!ENTITY caseSensitiveCheckbox.accesskey "Հ">
 <!ENTITY wrapCheckbox.label "Տողադարձել">
-<!ENTITY wrapCheckbox.accesskey "Ծ">
+<!ENTITY wrapCheckbox.accesskey "Տ">
 <!ENTITY backwardsCheckbox.label "Որոնել յետադարձները">
 <!ENTITY backwardsCheckbox.accesskey "յ">
 <!ENTITY findNextButton.label "Գտնել յաջորդը">
