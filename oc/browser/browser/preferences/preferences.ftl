@@ -381,6 +381,10 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Qué deu far { -brand-short-name } amb los autres fichièrs ?
+applications-save-for-new-types =
+    .label = Enregistrar los fichièrs
+    .accesskey = E
 applications-ask-before-handling =
     .label = Demandar se cal dobrir o salvar los fichièrs
     .accesskey = D
