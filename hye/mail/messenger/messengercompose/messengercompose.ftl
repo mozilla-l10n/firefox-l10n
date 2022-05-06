@@ -243,13 +243,13 @@ show-to-row-extra-menuitem =
     .label = Ում
     .accesskey = Ո
 #   $key (String) - the shortcut key for this field
-show-to-row-button = Ում (To)
-    .title = Ցոյց տալ Ում (To) դաշտը ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+show-to-row-button = Ում
+    .title = Ցոյց տալ Ում դաշտը ({ ctrl-cmd-shift-pretty-prefix }{ $key })
 cc-address-row-label =
-    .value = Cc
+    .value = Պատճէն
 #   $key (String) - the shortcut key for this field
 show-cc-row-main-menuitem =
-    .label = Cc Դաշտ
+    .label = Պատճէնացանկ
     .accesskey = C
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 # No acceltext should be shown.
