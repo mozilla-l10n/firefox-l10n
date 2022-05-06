@@ -22,8 +22,8 @@
 <!ENTITY overrideNamespaces.label "Թոյղատրէք սպասարկչին վերագրել այս անուանատարածքում">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3DeferringDesc.label "Երբ ներբեռնուում է փոստը այս հաշուի սպասարկչում, գործածէք հետեւեալ պանակը նոր հաղորդագրութիւններ պահելու համար.">
-<!ENTITY accountInbox.label "Մուտքի արկղ այս հաշուի համար">
-<!ENTITY deferToServer.label "Մուտքի արկղ ուրիշ հաշուի համար">
+<!ENTITY accountInbox.label "Մուտքարկղ այս հաշուի համար">
+<!ENTITY deferToServer.label "Մուտքարկղ տարբեր հաշուի համար">
 <!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "Ներառէք այս սպասարկչին, երբ ստանում էք նոր փոստ">
 <!ENTITY deferGetNewMail.accesskey "Ն">

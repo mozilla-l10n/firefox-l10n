@@ -47,7 +47,7 @@
 <!ENTITY modelDeleteImmediately.label "Անմիջապէս հեռացրէք այն ">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Մաքրել (&quot; Expunge &quot;) մուտքի արկղը ելի ժամանակ">
+<!ENTITY expungeOnExit.label "Մաքրել (&quot; Expunge &quot;) մուտքարկղը ելքի ժամանակ">
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Դատարկ աղբարկղ ելքի ժամանակ">
 <!ENTITY emptyTrashOnExit.accesskey "x">
