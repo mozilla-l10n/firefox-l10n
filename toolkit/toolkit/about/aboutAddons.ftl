@@ -398,3 +398,13 @@ addons-heading-search-input =
     .placeholder = Search addons.mozilla.org
 addon-page-options-button =
     .title = Offer ar gyfer pob ychwanegyn
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = Mae { $name } yn anghydnaws â { -brand-short-name } { $version }.
+details-notification-blocked-link = Rhagor o Wybodaeth
+details-notification-softblocked-link = Rhagor o Wybodaeth
