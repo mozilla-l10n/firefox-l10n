@@ -190,3 +190,12 @@ addons-heading-search-input =
     .placeholder = addons.mozilla.org-ত সন্ধান কৰক
 addon-page-options-button =
     .title = সকলো এড-অনৰ পৰা সঁজুলিসমূহ
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+details-notification-blocked = { $name } সুৰক্ষা অথবা স্থিৰতা বিষয়ৰ কাৰণে অসামৰ্থবান কৰা হৈছে।
+details-notification-blocked-link = অধিক তথ্য
+details-notification-softblocked = { $name } সুৰক্ষা অথবা স্থিৰতা বিষয় সৃষ্টি কৰাৰ কাৰণে জনাজাত
+details-notification-softblocked-link = অধিক তথ্য
