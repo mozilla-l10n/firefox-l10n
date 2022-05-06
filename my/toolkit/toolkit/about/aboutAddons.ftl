@@ -173,7 +173,12 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } is incompatible with { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = { -brand-short-name } တွင် အသုံးပြုရန်အတွက် { $name } ကို အတည်မပြုနိုင်ပါ။ ထို့ကြောင့် ၄င်းကို ပိတ်ထားသည်။
+details-notification-unsigned-and-disabled-link = အချက်အလက် ပိုမိုကြည့်ရန်
+details-notification-unsigned = { -brand-short-name } တွင် အသုံးပြုရန်အတွက် { $name } ကို အတည်မပြုနိုင်ပါ။ သတိထားပြီး ဆက်လက်ဆောင်ရွက်ပါ။
+details-notification-unsigned-link = အချက်အလက် ပိုမိုကြည့်ရန်
 details-notification-blocked = { $name } has been disabled due to security or stability issues.
 details-notification-blocked-link = နောက်ထပ်အချက်အလက်များ
 details-notification-softblocked = { $name } is known to cause security or stability issues.
 details-notification-softblocked-link = နောက်ထပ်အချက်အလက်များ
+details-notification-gmp-pending = { $name } ကို အချိန်တိုအတွင်း ထည့်သွင်းတပ်ဆင်ပါမည်။
