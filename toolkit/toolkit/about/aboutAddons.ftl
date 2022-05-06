@@ -390,7 +390,12 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } bateraezina da { -brand-short-name } { $version } bertsioarekin.
+details-notification-unsigned-and-disabled = Ezin da { $name } gehigarria { -brand-short-name }(r)en erabiltzeko egiaztatu eta desgaitu egin da.
+details-notification-unsigned-and-disabled-link = Informazio gehiago
+details-notification-unsigned = Ezin da { $name } gehigarria { -brand-short-name }(r)en erabiltzeko egiaztatu. Kontuz jarraitu.
+details-notification-unsigned-link = Informazio gehiago
 details-notification-blocked = { $name } desgaitu egin da segurtasun- edo egonkortasun-arazoengatik.
 details-notification-blocked-link = Informazio gehiago
 details-notification-softblocked = { $name } gehigarriak segurtasun- edo egonkortasun-arazoak eragiten dituela jakina da.
 details-notification-softblocked-link = Informazio gehiago
+details-notification-gmp-pending = { $name } laster instalatuko da.
