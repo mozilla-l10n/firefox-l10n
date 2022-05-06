@@ -168,6 +168,33 @@ menu-smime =
 menu-encrypt =
     .label = Chiffrer
     .accesskey = C
+menu-encrypt-subject =
+    .label = Chiffrer le sujet
+    .accesskey = u
+menu-sign =
+    .label = Signer numériquement
+    .accesskey = n
+menu-manage-keys =
+    .label = Assistant de clés
+    .accesskey = A
+menu-view-certificates =
+    .label = Voir les certificats des destinataires
+    .accesskey = V
+menu-open-key-manager =
+    .label = Gestionnaire de clés
+    .accesskey = G
+openpgp-key-issue-notification-one = Pour utiliser le chiffrement de bout en bout vous devez résoudre les problèmes de clé pour { $addr }
+openpgp-key-issue-notification-many = Pour utiliser le chiffrement de bout en bout vous devez résoudre les problèmes de clés pour { $count } destinataires.
+smime-cert-issue-notification-one = Pour utiliser le chiffrement de bout en bout vous devez résoudre les problèmes de certificat pour { $addr }
+smime-cert-issue-notification-many = Pour utiliser le chiffrement de bout en bout vous devez résoudre les problèmes de certificat pour { $count } destinataires.
+key-notification-disable-encryption =
+    .label = Ne pas chiffrer
+    .accesskey = N
+    .tooltiptext = Désactiver le chiffrement de bout en bout
+key-notification-resolve =
+    .label = Résoudre…
+    .accesskey = R
+    .tooltiptext = Ouvrir l’assistant de clés OpenPGP
 
 ## Addressing Area
 
@@ -290,6 +317,9 @@ compose-tool-button-remove-text-styling =
 
 ## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Envoyé sur un compte Filelink inconnu.
 
 # Placeholder file
 
@@ -365,3 +395,8 @@ cloud-file-account-error = Échec de la mise à jour de la pièce jointe Filelin
 
 ## Link Preview
 
+link-preview-title = Aperçu du lien
+link-preview-description = { -brand-short-name } peut ajouter un aperçu intégré lors du collage des liens.
+link-preview-autoadd = Ajouter automatiquement un aperçu des liens lorsque cela est possible
+link-preview-replace-now = Ajouter un aperçu pour ce lien ?
+link-preview-yes-replace = Oui

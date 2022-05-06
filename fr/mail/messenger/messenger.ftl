@@ -130,6 +130,22 @@ message-header-msg-flagged =
 message-header-msg-not-flagged =
     .title = Message non suivi
 
+## Message header cutomize panel
+
+message-header-customize-panel-title = Paramètres d’en-tête des messages
+message-header-customize-button-style =
+    .value = Style du bouton
+    .accesskey = B
+message-header-button-style-default =
+    .label = Icônes et texte
+message-header-button-style-text =
+    .label = Texte
+message-header-button-style-icons =
+    .label = Icônes
+message-header-large-subject =
+    .label = Grand sujet
+    .accesskey = s
+
 ## Action Button Context Menu
 
 toolbar-context-menu-manage-extension =
@@ -172,24 +188,10 @@ decrypt-and-copy-failures = { $failures } des { $total } messages n’ont pas pu
 
 ## Spaces toolbar
 
-spaces-toolbar =
+spaces-toolbar-element =
     .toolbarname = Barre d’espaces
-spaces-toolbar-button-mail =
-    .title = Aller à l’onglet courrier
-spaces-toolbar-button-address-book =
-    .title = Aller à l’onglet du carnet d’adresses
-spaces-toolbar-button-calendar =
-    .title = Aller à l’onglet de l’agenda
-spaces-toolbar-button-tasks =
-    .title = Aller à l’onglet des tâches
-spaces-toolbar-button-chat =
-    .title = Aller à l’onglet de messagerie instantanée
-spaces-toolbar-button-settings =
-    .title = Aller à l’onglet des paramètres
-spaces-toolbar-button-collapse =
-    .title = Réduire la barre d’outils des espaces
-spaces-toolbar-button-reveal =
-    .title = Afficher la barre d’outils des espaces
+    .aria-label = Barre d’espaces
+    .aria-description = Barre d’outils verticale pour passer d’un espace à un autre. Utilisez les flèches pour naviguer entre les boutons disponibles.
 spaces-toolbar-button-mail2 =
     .title = Courrier
 spaces-toolbar-button-address-book2 =
@@ -237,8 +239,6 @@ spaces-pinned-button-menuitem-tasks =
     .label = { spaces-toolbar-button-tasks.title }
 spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
-spaces-pinned-button-menuitem-reveal =
-    .label = { spaces-toolbar-button-reveal.title }
 spaces-pinned-button-menuitem-settings =
     .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
@@ -254,7 +254,7 @@ chat-button-unread-messages = { $count }
 
 ## Spaces toolbar customize panel
 
-spaces-context-customize =
+menuitem-customize-label =
     .label = Personnaliser…
 spaces-customize-panel-title = Paramètres de la barre d’espaces
 spaces-customize-background-color = Couleur du fond
@@ -267,5 +267,3 @@ spaces-customize-accent-background-color = Couleur de fond du bouton sélectionn
 spaces-customize-accent-text-color = Couleur du bouton sélectionné
 spaces-customize-button-restore = Configuration par défaut
     .accesskey = C
-spaces-customize-button-save = Terminé
-    .accesskey = T
