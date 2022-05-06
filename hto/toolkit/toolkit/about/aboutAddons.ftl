@@ -4,16 +4,12 @@
 
 show-all-extensions-button =
     .label = Nana árera ákatari
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 addon-restart-now =
     .label = Bíeri ábɨdo taɨne
-
 addon-category-extension = Árera
 addon-category-extension-title =
     .title = Árera
@@ -67,7 +63,15 @@ addon-install-from-file-filter-name = Jɨaɨe
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+
 ##
+
 
 ## Page headings
 
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+details-notification-gmp-pending = { $name } raɨre ñúe fɨnoye.
