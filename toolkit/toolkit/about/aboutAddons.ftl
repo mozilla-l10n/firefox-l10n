@@ -392,3 +392,14 @@ addons-heading-search-input =
     .placeholder = Αναζήτηση στο addons.mozilla.org
 addon-page-options-button =
     .title = Εργαλεία για όλα τα πρόσθετα
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = Το { $name } είναι ασύμβατο με τον { -brand-short-name } { $version }.
+details-notification-blocked = Το { $name } έχει απενεργοποιηθεί για λόγους ασφαλείας ή σταθερότητας.
+details-notification-blocked-link = Περισσότερες πληροφορίες
+details-notification-softblocked = Το { $name } είναι γνωστό ότι προκαλεί προβλήματα ασφαλείας ή σταθερότητας.
