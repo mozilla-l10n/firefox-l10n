@@ -8,6 +8,8 @@ styleeditor-new-button =
 styleeditor-import-button =
     .tooltiptext = ייבוא והוספה של גליון סגנון קיים למסמך
     .accesskey = ב
+styleeditor-filter-input =
+    .placeholder = סינון גליונות סגנון
 styleeditor-visibility-toggle =
     .tooltiptext = הפעלה או נטרול של הצגת גליון הסגנון
     .accesskey = ש
@@ -28,3 +30,5 @@ styleeditor-copy-url =
 styleeditor-go-to-line =
     .label = קפיצה לשורה…
     .accesskey = ק
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = לא נמצא גיליון סגנונות תואם.
