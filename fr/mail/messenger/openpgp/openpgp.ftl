@@ -295,6 +295,13 @@ openpgp-description =
     }
 #   $identity (String) - the email address of the currently selected identity
 openpgp-description-no-key = { -brand-short-name } ne dispose pas de clé personnelle OpenPGP pour <b>{ $identity }</b>
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] { -brand-short-name } a trouvé une clé personnelle OpenPGP associée avec <b>{ $identity }</b>
+       *[other] { -brand-short-name } a trouvé { $count } clés personnelles OpenPGP associées avec <b>{ $identity }</b>
+    }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Votre configuration actuelle utilise l’identifiant de clé <b>{ $key }</b>
 #   $key (String) - the currently selected OpenPGP key
@@ -352,6 +359,7 @@ key-expired-simple = La clé a expiré
 key-revoked-simple = La clé a été révoquée
 key-do-you-accept = Acceptez-vous cette clé pour vérifier les signatures numériques et pour chiffrer les messages ?
 key-accept-warning = Assurez-vous de n’accepter que des clés authentiques. Utilisez un canal de communication alternatif au courriel pour vérifier l’empreinte de la clé de votre correspondant.
+key-verification = Vérifiez l’empreinte numérique de la clé à l’aide d’un canal de communication sécurisé autre que le courrier électronique pour vous assurer qu’il s’agit bien de la clé de { $addr }.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Impossible d’envoyer le message, car il y a un problème avec votre clé personnelle. { $problem }
 cannot-encrypt-because-missing = Impossible d’envoyer ce message avec un chiffrement de bout en bout, car il y a des problèmes avec les clés des destinataires suivants : { $problem }
