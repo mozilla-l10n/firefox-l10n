@@ -177,4 +177,15 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } nav savītuojams ar { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = { $name } navar puorbaudeit izmontuošonai ar { -brand-short-name } i ir deaktiveits.
+details-notification-unsigned-and-disabled-link = Vairuok informacejis
+details-notification-unsigned = { $name } navar puorbaudeit izmontuošonai ar { -brand-short-name }. Esit pīsardzeigi.
+details-notification-unsigned-link = Vairuok informacejis
+details-notification-blocked = { $name } ir blokeits drūseibys i stabilitātes nūlūkūs.
+details-notification-blocked-link = Vairuok informacejis
+details-notification-softblocked = Ir zynoms, ka { $name } roda drūseibys voi stabilitātes problemys.
+details-notification-softblocked-link = Vairuok informacejis
 details-notification-gmp-pending = { $name } will be installed shortly.
