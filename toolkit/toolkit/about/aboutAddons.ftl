@@ -394,3 +394,10 @@ addons-heading-search-input =
     .placeholder = addons.mozilla.org საიტზე მოძიება
 addon-page-options-button =
     .title = ხელსაწყოები ყველა დამატებისთვის
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+details-notification-blocked = { $name } გამორთულია უსაფრთხოების მიზნით ან არამდგრადობის გამო.
+details-notification-softblocked = { $name } მიჩნეულია არამდგრადად და საფრთხის შემცველად.
