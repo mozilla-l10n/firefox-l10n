@@ -7,7 +7,7 @@
 <!ENTITY title.label "Հաղորդագրութեան անվտանգութիւնը">
 <!ENTITY subject.plaintextWarning "Խնդրում ենք յիշել. նամակի բովանդակութեան տողերը երբեք չեն ծածկագրուել:">
 <!ENTITY status.heading "Նամակի բովանդակութիւնը կուղարկուի որպէս`">
-<!ENTITY status.signed "Թուային ստորագրութեամբ․">
+<!ENTITY status.signed "Ստորագրուած․">
 <!ENTITY status.encrypted "Գաղտնագրուած.">
 <!ENTITY status.certificates "Վկայագրեր․">
 <!ENTITY view.label "Տեսք">

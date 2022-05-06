@@ -15,7 +15,7 @@
 <!ENTITY menu_securityEncryptRequire2.label "Թոյղ տալ ծածկագրել">
 <!ENTITY menu_securityEncryptRequire.accesskey "Ծ">
 
-<!ENTITY menu_securitySign.label "Թուայնապէս ստորագրել այս հաղորդագրութիւնը">
+<!ENTITY menu_securitySign.label "Թուային ստորագրութիւն այս հաղորդագրութեան համար">
 <!ENTITY menu_securitySign.accesskey "Հ">
 
 <!ENTITY menu_securityTech.label "Ծածկագրման տեխնողոգիայ">
