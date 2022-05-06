@@ -22,7 +22,9 @@
 <!ENTITY menu_securityTech.accesskey "Տ">
 
 <!ENTITY menu_techPGP.label "OpenPGP">
+<!ENTITY menu_techPGP.accesskey "O">
 <!ENTITY menu_techSMIME.label "S/MIME">
+<!ENTITY menu_techSMIME.accesskey "S">
 
 <!ENTITY menu_securityStatus.label "Դիտել տեղեկատուութիւն անվտանգութեան մասին">
 <!ENTITY menu_securityStatus.accesskey "Տ">

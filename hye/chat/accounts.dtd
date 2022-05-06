@@ -14,6 +14,7 @@
 <!ENTITY accountManager.close.label          "Փակել">
 <!ENTITY accountManager.close.accesskey      "ա">
 <!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Ոչ մի հաշիւ դեռ կարգաբերուած չէ">
 <!ENTITY accountManager.noAccount.description "Սեղմէք &accountManager.newAccount.label; կոճակը, որպէսզի &brandShortName;֊ն աւգնի Ձեզ նոր հաշիւ ստեղծելու գործընթացում։">
