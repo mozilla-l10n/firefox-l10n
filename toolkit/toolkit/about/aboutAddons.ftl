@@ -177,7 +177,12 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } is onversoenbaar met { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = { $name } kon nie vir gebruik in { -brand-short-name } geverifieer word nie en is gedeaktiveer.
+details-notification-unsigned-and-disabled-link = Meer inligting
+details-notification-unsigned = { $name } kon nie vir gebruik in { -brand-short-name } geverifieer word nie. Wees versigtig.
+details-notification-unsigned-link = Meer inligting
 details-notification-blocked = { $name } is gedeaktiveer weens sekuriteit- of stabiliteitprobleme.
 details-notification-blocked-link = Meer inligting
 details-notification-softblocked = { $name } is bekend daarvoor dat dit sekuriteit- of stabiliteitprobleme oplewer.
 details-notification-softblocked-link = Meer inligting
+details-notification-gmp-pending = { $name } sal binnekort geïnstalleer word.
