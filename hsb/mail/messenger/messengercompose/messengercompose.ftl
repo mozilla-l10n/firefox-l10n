@@ -409,3 +409,11 @@ cloud-file-attachment-error = Přiwěšk { $filename } Filelink njeda so aktuali
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Kontowy zmylk Filelink
 cloud-file-account-error = Přiwěšk { $filename } Filelink njeda so aktualizować, dokelž jeho lokalna dataja je so zhašała.
+
+## Link Preview
+
+link-preview-title = Wotkazowy přehlad
+link-preview-description = { -brand-short-name } móže zasadźeny přehlad přidać, hdyž so wotkazy zasadźeja.
+link-preview-autoadd = Wotkazowe přehlady awtomatisce přidać, jeli móžno
+link-preview-replace-now = Wotkazowy přehlad za tutón wotkaz přidać?
+link-preview-yes-replace = Haj
