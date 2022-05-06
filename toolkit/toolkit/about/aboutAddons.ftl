@@ -398,3 +398,13 @@ addons-heading-search-input =
     .placeholder = addons.mozilla.org doorzoeken
 addon-page-options-button =
     .title = Hulpmiddelen voor alle add-ons
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } is niet compatibel met { -brand-short-name } { $version }.
+details-notification-blocked-link = Meer informatie
+details-notification-softblocked-link = Meer informatie
