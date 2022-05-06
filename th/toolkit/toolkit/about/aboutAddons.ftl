@@ -392,3 +392,10 @@ addons-heading-search-input =
     .placeholder = ค้นหา addons.mozilla.org
 addon-page-options-button =
     .title = เครื่องมือสำหรับส่วนเสริมทั้งหมด
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+details-notification-blocked-link = ข้อมูลเพิ่มเติม
+details-notification-softblocked-link = ข้อมูลเพิ่มเติม
