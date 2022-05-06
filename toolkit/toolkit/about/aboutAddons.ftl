@@ -382,3 +382,12 @@ addons-heading-search-input =
     .placeholder = Buscar en addons.mozilla.org
 addon-page-options-button =
     .title = Herramientas para todos los complementos
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+details-notification-unsigned-and-disabled = { $name } no pudo ser verificado para su uso en { -brand-short-name } y ha sido desactivado.
+details-notification-unsigned-and-disabled-link = Más información
+details-notification-unsigned-link = Más información
+details-notification-gmp-pending = { $name } será instalado en breve.
