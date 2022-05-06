@@ -12,7 +12,7 @@
 <!ENTITY requestReceipt.label         "Երբ ուղարկում էք հաղորդագրութիւններ, միշտ հայցէք վերադարձնել ստացականներ">
 <!ENTITY requestReceipt.accesskey     "W">
 <!ENTITY receiptArrive.label          "Նոր ստացական ստանալիս.">
-<!ENTITY leaveIt.label                "Թողնել այն իմ մուտքի արկղում">
+<!ENTITY leaveIt.label                "Թողնել այն մուտքարկղում">
 <!ENTITY leaveIt.accesskey            "I">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label             "Տեղափոխել այն իմ &quot; ուղարկուած &quot; պանակում">
