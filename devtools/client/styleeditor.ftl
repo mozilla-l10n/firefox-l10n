@@ -8,6 +8,8 @@ styleeditor-new-button =
 styleeditor-import-button =
     .tooltiptext = Mevcut bir stil sayfasını içe al ve belgeye ekle
     .accesskey = e
+styleeditor-filter-input =
+    .placeholder = Stil dosyalarını filtrelere
 styleeditor-visibility-toggle =
     .tooltiptext = Stil sayfası görünürlüğünü aç/kapat
     .accesskey = K
@@ -28,3 +30,5 @@ styleeditor-copy-url =
 styleeditor-go-to-line =
     .label = Satıra git…
     .accesskey = r
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Eşleşen stil dosyası bulunamadı.
