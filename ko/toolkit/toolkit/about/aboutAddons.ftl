@@ -392,4 +392,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name }는 { -brand-short-name } { $version }와 호환되지 않습니다.
+details-notification-unsigned-and-disabled-link = 추가 정보
+details-notification-unsigned-link = 추가 정보
 details-notification-softblocked = { $name }는 보안이나 안정성 문제를 일으킬 수 있습니다.
+details-notification-gmp-pending = { $name } 부가 기능이 곧 설치됩니다.
