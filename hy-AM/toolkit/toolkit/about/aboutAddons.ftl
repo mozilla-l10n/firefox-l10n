@@ -363,3 +363,15 @@ addons-heading-search-input =
     .placeholder = Որոնել  addons.mozilla.org֊-ում
 addon-page-options-button =
     .title = Գործիքներ բոլոր հավելումների համար
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name }-ը և { -brand-short-name } { $version }-ը անհամատեղելի են:
+details-notification-blocked = { $name }-ը անջատվել է` անվտանգություն կամ կայունություն ապահովելու նպատակով:
+details-notification-blocked-link = Ավելի շատ տեղեկություն
+details-notification-softblocked = Հայտնի է, որ { $name }-ը պատճառում է ապահովության կամ կայունության խնդիրներ:
+details-notification-softblocked-link = Ավելի շատ տեղեկություն
