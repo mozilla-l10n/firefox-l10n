@@ -382,6 +382,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Ի՞նչ պետք է { -brand-short-name } անի այղ նիշերի հետ
+applications-save-for-new-types =
+    .label = Պահպանել նիշերը
+    .accesskey = Պ
+applications-ask-before-handling =
+    .label = Հարցնել բացել կամ պահպանել նիշերը
+    .accesskey = Հ
 drm-content-header = Թուային իրաւունքների կառավարման (DRM) բովանդակութիւն
 play-drm-content =
     .label = Նվագարկել DRM-ղեկաւարուող բովանդակութիւնը
