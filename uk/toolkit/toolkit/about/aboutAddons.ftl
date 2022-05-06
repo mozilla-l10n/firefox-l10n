@@ -406,6 +406,7 @@ details-notification-unsigned-and-disabled = Додаток { $name } не бу�
 details-notification-unsigned-and-disabled-link = Докладніше
 details-notification-unsigned = Додаток { $name } не був перевірений для використання в { -brand-short-name }. Продовжуйте з обережністю.
 details-notification-unsigned-link = Докладніше
+details-notification-blocked = { $name } було вимкнено, у зв'язку з проблемами безпеки чи стабільності.
 details-notification-blocked-link = Докладніше
 details-notification-softblocked = В { $name } є відомі проблеми з безпекою та стабільністю.
 details-notification-softblocked-link = Докладніше
