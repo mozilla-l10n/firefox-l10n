@@ -180,7 +180,12 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } ஆனது { -brand-short-name } { $version }-உடன் ஒத்தியல்பாக இல்லை.
+details-notification-unsigned-and-disabled = { $name } ஐ { -brand-short-name } என்பதில் பயன்படுத்துவதற்குச் சரிபார்க்க இயலாததால் முடக்கப்பட்டது.
+details-notification-unsigned-and-disabled-link = கூடுதல் தகவல்
+details-notification-unsigned = { $name } ஐ { -brand-short-name } என்பதில் பயன்படுத்துவதற்குச் சரிபார்க்க இயலவில்லை. எச்சரிக்கையுடன் தொடரவும்.
+details-notification-unsigned-link = கூடுதல் தகவல்
 details-notification-blocked = { $name } பாதுகாப்பு அல்லது நிலைப்புத்தன்மை சிக்கல்களால் செயல்நீக்கப்பட்டது.
 details-notification-blocked-link = கூடுதல் தகவல்
 details-notification-softblocked = { $name } பாதுகாப்பு அல்லது நிலைப்புத்தன்மை சிக்கல்களை உருவாக்குவதாகும்.
 details-notification-softblocked-link = கூடுதல் தகவல்
+details-notification-gmp-pending = { $name } விரைவில் நிறுவப்படும்.
