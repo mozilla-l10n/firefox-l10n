@@ -52,17 +52,20 @@
 <!ENTITY HomePhone.label                "Տուն․">
 <!ENTITY HomePhone.accesskey            "m">
 <!ENTITY FaxNumber.label                "Հեռապատճէն.">
+<!ENTITY FaxNumber.accesskey            "ն">
 <!ENTITY PagerNumber.label              "Հեռատող․">
+<!ENTITY PagerNumber.accesskey          "ռ">
 <!ENTITY CellularNumber.label           "Բջջային․">
+<!ENTITY CellularNumber.accesskey       "ջ">
 
 <!ENTITY Home.tab                       "Անձնական">
-<!ENTITY Home.accesskey                 "P">
+<!ENTITY Home.accesskey                 "Ա">
 <!ENTITY HomeAddress.label              "Հասցէ․">
-<!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress.accesskey          "ա">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Քաղաք․">
-<!ENTITY HomeCity.accesskey             "y">
+<!ENTITY HomeCity.accesskey             "ք">
 <!ENTITY HomeState.label                "Տարածաշրջան․">
 <!ENTITY HomeState.accesskey            "S">
 <!ENTITY HomeZipCode.label              "ZIP/փոստային կոդ․">
@@ -70,6 +73,7 @@
 <!ENTITY HomeCountry.label              "Երկիր․">
 <!ENTITY HomeCountry.accesskey          "u">
 <!ENTITY HomeWebPage.label              "Կայք էջ․">
+<!ENTITY HomeWebPage.accesskey          "ա">
 <!ENTITY Birthday.label                 "Ծննդեան ամսաթիւ․">
 <!ENTITY Birthday.accesskey             "Ծ">
 <!ENTITY Month.placeholder              "Ամիս">
@@ -79,41 +83,43 @@
 <!ENTITY Age.placeholder                "Տարիք">
 
 <!ENTITY Work.tab                       "Աշխատանք">
-<!ENTITY Work.accesskey                 "W">
+<!ENTITY Work.accesskey                 "Ա">
 <!ENTITY JobTitle.label                 "Վերնագիր․">
+<!ENTITY JobTitle.accesskey             "ե">
 <!ENTITY Department.label               "Բաժին․">
-<!ENTITY Department.accesskey           "m">
+<!ENTITY Department.accesskey           "ժ">
 <!ENTITY Company.label                  "Կազմակերպութիւն․">
-<!ENTITY Company.accesskey              "n">
+<!ENTITY Company.accesskey              "կ">
 <!ENTITY WorkAddress.label              "Հասցէ․">
-<!ENTITY WorkAddress.accesskey          "d">
+<!ENTITY WorkAddress.accesskey          "ա">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Քաղաք․">
-<!ENTITY WorkCity.accesskey             "y">
+<!ENTITY WorkCity.accesskey             "ք">
 <!ENTITY WorkState.label                "Տարածաշրջան․">
 <!ENTITY WorkState.accesskey            "S">
 <!ENTITY WorkZipCode.label              "ZIP/փոստային կոդ․">
 <!ENTITY WorkZipCode.accesskey          "Z">
 <!ENTITY WorkCountry.label              "Երկիր․">
-<!ENTITY WorkCountry.accesskey          "u">
+<!ENTITY WorkCountry.accesskey          "ի">
 <!ENTITY WorkWebPage.label              "Կայք էջ․">
+<!ENTITY WorkWebPage.accesskey          "ա">
 
 <!ENTITY Other.tab                      "Այղ">
 <!ENTITY Other.accesskey                "h">
-<!ENTITY Custom1.label                  "Հարմարեցուած 1․">
+<!ENTITY Custom1.label                  "Յարմարեցուած 1․">
 <!ENTITY Custom1.accesskey              "1">
-<!ENTITY Custom2.label                  "Հարմարեցուած 2․">
+<!ENTITY Custom2.label                  "Յարմարեցուած 2․">
 <!ENTITY Custom2.accesskey              "2">
-<!ENTITY Custom3.label                  "Հարմարեցուած 3․">
+<!ENTITY Custom3.label                  "Յարմարեցուած 3․">
 <!ENTITY Custom3.accesskey              "3">
-<!ENTITY Custom4.label                  "Հարմարեցուած 4․">
+<!ENTITY Custom4.label                  "Յարմարեցուած 4․">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Գրառումներ․">
-<!ENTITY Notes.accesskey                "N">
+<!ENTITY Notes.accesskey                "Գ">
 
 <!ENTITY Chat.tab                       "Զրուցարան">
-<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Chat.accesskey                 "ա">
 <!ENTITY Gtalk.label                    "Google talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
@@ -134,15 +140,17 @@
 <!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Լուսանկար">
-<!ENTITY Photo.accesskey                "o">
+<!ENTITY Photo.accesskey                "ա">
 <!ENTITY GenericPhoto.label             "Հիմնական նկար">
-<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY GenericPhoto.accesskey         "Հ">
 <!ENTITY DefaultPhoto.label             "Սկզբնադիր">
 <!ENTITY PhotoFile.label                "Այս համակարգչի վրայ">
-<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY PhotoFile.accesskey            "ս">
 <!ENTITY BrowsePhoto.label              "Զննարկել">
+<!ENTITY BrowsePhoto.accesskey          "ն">
 <!ENTITY PhotoURL.label                 "Համացանցում">
+<!ENTITY PhotoURL.accesskey             "մ">
 <!ENTITY PhotoURL.placeholder           "Տեղադրէք կամ հաւաքէք նկարի յղումը">
 <!ENTITY UpdatePhoto.label              "Թարմացնել">
-<!ENTITY UpdatePhoto.accesskey          "u">
+<!ENTITY UpdatePhoto.accesskey          "թ">
 <!ENTITY PhotoDropTarget.label          "Կից տեղադրէք նոր նկար">
