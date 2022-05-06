@@ -406,6 +406,10 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } er inkompatibel med { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = { $name } kunne ikke verificeres til brug i { -brand-short-name } og er blevet deaktiveret.
+details-notification-unsigned-and-disabled-link = Læs mere
+details-notification-unsigned = { $name } kunne ikke verificeres til brug i { -brand-short-name }. Fortsæt på eget ansvar.
+details-notification-unsigned-link = Læs mere
 details-notification-blocked = { $name } er blevet deaktiveret af sikkerheds- eller stabilitetsgrunde.
 details-notification-blocked-link = Mere information
 details-notification-softblocked = { $name } har kendte sikkerheds- og/eller stabilitetsproblemer.
