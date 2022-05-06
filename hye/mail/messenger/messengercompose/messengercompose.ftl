@@ -246,7 +246,7 @@ show-to-row-extra-menuitem =
 show-to-row-button = Ում
     .title = Ցոյց տալ Ում դաշտը ({ ctrl-cmd-shift-pretty-prefix }{ $key })
 cc-address-row-label =
-    .value = Պատճէն
+    .value = Պատճէնացանկ
 #   $key (String) - the shortcut key for this field
 show-cc-row-main-menuitem =
     .label = Պատճէնացանկ
@@ -255,11 +255,11 @@ show-cc-row-main-menuitem =
 # No acceltext should be shown.
 # The label should match the show-cc-row-button text.
 show-cc-row-extra-menuitem =
-    .label = Cc
-    .accesskey = C
+    .label = Պատճէնացանկ
+    .accesskey = Պ
 #   $key (String) - the shortcut key for this field
-show-cc-row-button = Cc
-    .title = Ցուցադրել Cc դաշտը ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+show-cc-row-button = Պատճէնացանկ
+    .title = Ցուցադրել պատճէնացանկը ({ ctrl-cmd-shift-pretty-prefix }{ $key })
 bcc-address-row-label =
     .value = Ծածկապատճէն
 #   $key (String) - the shortcut key for this field
@@ -394,3 +394,7 @@ cloud-file-account-error = Ձախողուեց թարմացնել նիշի յղմ
 
 ## Link Preview
 
+link-preview-title = Յղման նախադիտում
+link-preview-autoadd = Ինքնաբար աւելացնում է յղման նախադիտում, երբ հնարաւոր է
+link-preview-replace-now = Այս յղման համար աւելացնե՞լ յղման նախադիտում
+link-preview-yes-replace = Այո

@@ -9,9 +9,9 @@
 <!ENTITY serverName.label "Սպասարկչի անունը.">
 <!ENTITY serverName.accesskey "Ս">
 <!ENTITY userName.label "Աւգտատիրոջ անունը.">
-<!ENTITY userName.accesskey "N">
+<!ENTITY userName.accesskey "ա">
 <!ENTITY port.label "Միացք.">
-<!ENTITY port.accesskey "P">
+<!ENTITY port.accesskey "Մ">
 <!ENTITY serverPortDefault.label "Սկզբանդիր․">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
@@ -19,11 +19,12 @@
                 biffEnd.label   "minutes for new messages Check"
 -->
 <!ENTITY biffStart.label "Ստուգել իւրաքանչիւր նոր նամակի համար ">
+<!ENTITY biffStart.accesskey "ր">
 <!ENTITY biffEnd.label "րոպէներ">
 <!ENTITY useIdleNotifications.label "Թոյղատրել սպասարկչի անմիջական ծանուցումները, երբ նոր հաղորդագրութիւններ էք ստանում">
-<!ENTITY useIdleNotifications.accesskey "w">
+<!ENTITY useIdleNotifications.accesskey "ե">
 <!ENTITY connectionSecurity.label "Կապակցման անվտանգութիւն.">
-<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurity.accesskey "ա">
 <!ENTITY connectionSecurityType-0.label "Չկայ">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, եթե առկայ է">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
