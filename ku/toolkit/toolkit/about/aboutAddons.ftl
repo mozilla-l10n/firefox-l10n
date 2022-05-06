@@ -3,65 +3,46 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Rêveberiya Add-onan
-
 search-header-shortcut =
     .key = f
-
 list-empty-installed =
     .value = Tu add-onên te yên sazkirî yên ji vê cureyê nîn in
-
 list-empty-available-updates =
     .value = Tu rojanekirin nehat dîtin
-
 list-empty-recent-updates =
     .value = Di demeke nêz de te tu add-on rojane nekiriye
-
 list-empty-find-updates =
     .label = Ji bo Rojanekirinan Kontrol Bike
-
 list-empty-button =
     .label = Derbarê add-onan de zêdetir agahiyan bistîne
-
 detail-version =
     .label = Guherto
-
 detail-last-updated =
     .label = Rojanekirina dawî
-
 detail-contributions-description = Pêşdebira vê add-onê daxwaza alîkariya piştgiriyê ji te dike da ku piştgirî bidome.
-
 detail-update-type =
     .value = Rojanekirinên Xweber
-
 detail-update-default =
     .label = Standard
     .tooltiptext = Eger tenê ev standard be, rojanekirinan xweber saz bike
-
 detail-update-automatic =
     .label = Çalak
     .tooltiptext = Rojanekirinan xweber saz bike
-
 detail-update-manual =
     .label = Neçalak
     .tooltiptext = Rojanekirinan xweber saz neke
-
 detail-home =
     .label = Serûpel
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Profîla Add-onê
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Li rojanekirinan bigere
     .accesskey = L
     .tooltiptext = Ji bo vê add-onê rojanekirinan kontrol bike
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -78,13 +59,10 @@ detail-show-preferences =
             [windows] Vebijêrkên vê add-onê biguherîne
            *[other] Vebijêrkên vê add-onê biguherîne
         }
-
 detail-rating =
     .value = Dengdan
-
 addon-restart-now =
     .label = Niha ji nû ve bide destpêkirin
-
 addon-category-extension = Pêvek
 addon-category-extension-title =
     .title = Pêvek
@@ -113,7 +91,6 @@ extensions-warning-check-compatibility-button = Çalakkirin
 extensions-warning-update-security = Di rojanekirina add-onan de kontrolkirina ewlekariyê girtî ye. Dibe ku rojanekirin ne ewle bin.
 extensions-warning-update-security-button = Çalakkirin
     .title = Destûrê bide kontrolkirina ewlekariyê ya rojanekirina add-onan
-
 
 ## Strings connected to add-on updates
 
@@ -168,9 +145,23 @@ addon-install-from-file-filter-name = Add-on
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+
 ##
+
 
 ## Page headings
 
 addon-page-options-button =
     .title = Amûrên ji bo hemû add-onan
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } û { -brand-short-name } { $version } hev nagirin.
+details-notification-blocked = { $name } ji ber sedemên ewlekariyê an jî kêmasiyên hevgiriyê hate neçalakirin.
+details-notification-blocked-link = Zêdetir agahî
+details-notification-softblocked = Tê zanîn ku { $name } dibe sedema kêmasiyên ewlekarî an jî hevgiriyê.
+details-notification-softblocked-link = Zêdetir agahî
