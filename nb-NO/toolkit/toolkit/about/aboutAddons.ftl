@@ -394,3 +394,20 @@ addons-heading-search-input =
     .placeholder = Søk på addons.mozilla.org
 addon-page-options-button =
     .title = Verktøy for alle utvidelser
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } er inkompatibel med { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = { $name } har ikke blitt bekreftet for bruk i { -brand-short-name } og har blitt slått av.
+details-notification-unsigned-and-disabled-link = Mer informasjon
+details-notification-unsigned = { $name } har ikke blitt bekreftet for bruk i { -brand-short-name }. Fortsett med varsomhet.
+details-notification-unsigned-link = Mer informasjon
+details-notification-blocked = { $name } er avslått av sikkerhets- eller stabilitetshensyn .
+details-notification-blocked-link = Mer informasjon
+details-notification-softblocked = { $name } er kjent for å skape sikkerhets- eller stabilitetsproblemer.
+details-notification-softblocked-link = Mer informasjon
+details-notification-gmp-pending = { $name } vil installeres snart.
