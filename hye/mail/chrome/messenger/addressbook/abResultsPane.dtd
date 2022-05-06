@@ -28,8 +28,8 @@
 <!ENTITY WorkPhone.label                       "Աշխատանքային հեռախաւս">
 <!ENTITY WorkPhone.accesskey                   "Ա">
 <!ENTITY ChatName.label                        "Զրուցարանի անուն">
-<!ENTITY ChatName.accesskey                    "C">
+<!ENTITY ChatName.accesskey                    "Զ">
 <!ENTITY sortAscending.label                   "Աճող">
-<!ENTITY sortAscending.accesskey               "A">
+<!ENTITY sortAscending.accesskey               "Ա">
 <!ENTITY sortDescending.label                  "Նուազող">
-<!ENTITY sortDescending.accesskey              "D">
+<!ENTITY sortDescending.accesskey              "Դ">
