@@ -8,6 +8,8 @@ styleeditor-new-button =
 styleeditor-import-button =
     .tooltiptext = Kter u rnu tiferkit n uɣanib yellan ɣer isemli
     .accesskey = r
+styleeditor-filter-input =
+    .placeholder = Sizdeg tiferkit n uɣanib
 styleeditor-visibility-toggle =
     .tooltiptext = Sken/Ffer tiferkit n uɣanib
     .accesskey = k
@@ -28,3 +30,5 @@ styleeditor-copy-url =
 styleeditor-go-to-line =
     .label = Ddu ɣeṛ uzirig …
     .accesskey = D
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Ulac tiferkit n uɣanib yemṣadan i yettwafen.
