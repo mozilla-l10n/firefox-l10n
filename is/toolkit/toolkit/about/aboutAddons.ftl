@@ -395,3 +395,15 @@ addons-heading-search-input =
     .placeholder = Leita á addons.mozilla.org
 addon-page-options-button =
     .title = Verkfæri fyrir allar viðbætur
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } er ósamhæfð við { -brand-short-name } { $version }.
+details-notification-blocked = { $name } hefur verið gerð óvirk vegna vandamála með öryggi eða stöðugleika.
+details-notification-blocked-link = Meiri upplýsingar
+details-notification-softblocked = { $name } er þekkt fyrir að valda vandamálum með öryggi eða stöðugleika.
+details-notification-softblocked-link = Meiri upplýsingar
