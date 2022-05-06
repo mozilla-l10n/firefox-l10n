@@ -3,45 +3,32 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Mangimaton ti Raman
-
 search-header-shortcut =
     .key = f
-
 list-empty-installed =
     .value = Awan ti raman a nakainstala a kastoy
-
 list-empty-available-updates =
     .value = Awan ti nabirokan a pannarimaan
-
 list-empty-recent-updates =
     .value = Saan pay a nanarimaan ti raman
-
 list-empty-find-updates =
     .label = Palutputen ti Pannanarimaan
-
 detail-version =
     .label = Bersion
-
 detail-last-updated =
     .label = Kaudian a Panagtarimaan
-
 detail-home =
     .label = Umuna a panid
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Palutputen ti Pannanarimaan
     .accesskey = f
     .tooltiptext = Palutputen ti pananarimaan kadaytoy a raman
-
 addon-restart-now =
     .label = Irugi manen itan
-
 addon-category-plugin = Anay
 addon-category-plugin-title =
     .title = Anay
@@ -105,9 +92,19 @@ addon-install-from-file-filter-name = Raman
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+
 ##
+
 
 ## Page headings
 
 addon-page-options-button =
     .title = Ramit ti paganay
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = Saan nga agkatunos ti { $name } iti { -brand-short-name } { $version }.
