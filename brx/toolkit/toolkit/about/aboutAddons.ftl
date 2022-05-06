@@ -231,6 +231,8 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } आ { -brand-short-name } { $version } जों गोरोबा।
+details-notification-unsigned-and-disabled-link = गोबां फोरमायथिहोग्रा
+details-notification-unsigned-link = गोबां फोरमायथिहोग्रा
 details-notification-blocked = { $name } खौ रैखाथि एबा दिदोमथि जेंनानि थाखाय लोरबां खालामनाय जाबाय।
 details-notification-blocked-link = गोबां फोरमायथिहोग्रा
 details-notification-softblocked = { $name } खौ रैखाथि एबा दिदोमथि जेंनानि थाखाय मोनथिजायो।
