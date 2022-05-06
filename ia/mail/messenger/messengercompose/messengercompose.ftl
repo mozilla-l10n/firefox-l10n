@@ -392,3 +392,7 @@ cloud-file-attachment-error = Impossibile actualisar le annexo Filelink { $filen
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Error de conto Filelink
 cloud-file-account-error = Impossibile actualisar le annexo de Filelink { $filename }, perque su conto de Filelink ha essite delite.
+
+## Link Preview
+
+link-preview-title = Vista preliminar de ligamine
