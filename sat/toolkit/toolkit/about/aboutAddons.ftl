@@ -154,3 +154,15 @@ available-updates-heading = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱚ ᱢᱮᱱᱟᱜ�
 
 addon-page-options-button =
     .title = जोतो एड-ऑनस ला़गित् टुल्स को
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } दो { -brand-short-name } { $version } सांव बाङ सोंगोता.
+details-notification-blocked = { $name } दो जा़पती आर बाङ तिंगु थिर काथा को कारोन ते बाङ हुय होचो आकाना
+details-notification-blocked-link = ढेर ला़य सोदोर
+details-notification-softblocked = { $name }दो जा़पती आर बाङ तिंगु थिर काथा को कारोन ते बाडाया काना.
+details-notification-softblocked-link = ढेर ला़य सोदोर
