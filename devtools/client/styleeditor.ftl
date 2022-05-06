@@ -30,3 +30,5 @@ styleeditor-copy-url =
 styleeditor-go-to-line =
     .label = Перайсці да радка…
     .accesskey = с
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Адпаведная табліца стыляў не знойдзена.
