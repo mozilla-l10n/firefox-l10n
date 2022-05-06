@@ -3,65 +3,46 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Msimamizi Kifaa cha Nyongeza
-
 search-header-shortcut =
     .key = f
-
 list-empty-installed =
     .value = Huna vifaa vya nyongeza vya aina hii vilivyosakinishwa
-
 list-empty-available-updates =
     .value = Hakuna visasaisho vilivyopatikana
-
 list-empty-recent-updates =
     .value = Hivi karibuni hujasasaisha vifaa vyovyote vya nyongeza
-
 list-empty-find-updates =
     .label = Kagua Visasaisho
-
 list-empty-button =
     .label = Jifunze zaidi kuhusu vifaa vya nyongeza
-
 detail-version =
     .label = Toleo
-
 detail-last-updated =
     .label = Ilisasaishwa Mwisho
-
 detail-contributions-description = Mwendelezaji wa vifaa hivi vya nyongeza huuliza usaidie kuauni uendelezaji wa kwendelea kwa kufanya mchango kidogo.
-
 detail-update-type =
     .value = Visasaisho Kiotomatiki
-
 detail-update-default =
     .label = Chaguo msingi
     .tooltiptext = Sakinisha kiotomatiki visasaisho kama hili ni chaguo msingi
-
 detail-update-automatic =
     .label = Imewashwa
     .tooltiptext = Sakinisha visasaisho kiotomatiki
-
 detail-update-manual =
     .label = Imezimwa
     .tooltiptext = Usisakinishe visasaisho kiotomatiki
-
 detail-home =
     .label = Ukurasa maskani
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Umbo la Vifaa vya nyongeza
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Kagua kwa Visasaisho
     .accesskey = k
     .tooltiptext = Kagua kwa visasaisho kwa kifaa hiki cha nyongeza
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -78,13 +59,10 @@ detail-show-preferences =
             [windows] Badilisha chaguo hili la vifaa vya nyongeza
            *[other] Badilisha mapendeleo haya ya vifaa vya nyongeza
         }
-
 detail-rating =
     .value = Kadirio
-
 addon-restart-now =
     .label = Anza upya sasa
-
 addon-category-extension = Izithasiselo
 addon-category-extension-title =
     .title = Izithasiselo
@@ -113,7 +91,6 @@ extensions-warning-check-compatibility-button = Wezesha
 extensions-warning-update-security = Ukaguzi wa usalama wa kisasaisho cha vifaa vya nyongeza. Waweza kuwa umeafikiwa na visasaisho.
 extensions-warning-update-security-button = Wezesha
     .title = Wezesha ukaguzi wa usalama wa visasaisho vya vifaa vya nyongeza
-
 
 ## Strings connected to add-on updates
 
@@ -168,9 +145,23 @@ addon-install-from-file-filter-name = Vifaa vya nyongeza
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+
 ##
+
 
 ## Page headings
 
 addon-page-options-button =
     .title = Zana za vifaa vyote vya nyongeza
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } sitangamanifu na { -brand-short-name } { $version }.
+details-notification-blocked = { $name } imelemazwa kwa sababu ya usalama au mambo ya uthabiti.
+details-notification-blocked-link = Maelezo Zaidi
+details-notification-softblocked = { $name } inajulikana kusababisha usalama au mambo ya uthabiti.
+details-notification-softblocked-link = Maelezo Zaidi
