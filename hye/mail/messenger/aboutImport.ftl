@@ -6,8 +6,10 @@ import-page-title = Ներմուծել
 
 ## Header
 
+import-start = Ներածման գործիք
 import-from-app = Ներմուծել յաւելուածից
 import-from-app-desc = Ընտրէք ներմուծել հաշիւներ, հասցէագրքեր, աւրացոյցներ եւ այղ տուեալներ հետեւեալից.
+import-from-file = Ներածել նիշից
 import-address-book = Ներմուծել հասցէագրքի նիշը
 import-calendar = Ներմուծել աւրացոյցի նիշը
 export-profile = Արտածել
@@ -26,6 +28,11 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-file = Ներածել նիշից
+
+## Import from file selections
+
+file-calendar = Ներածել աւրացոյցները
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Ներմուծել { $app } ֊ից
