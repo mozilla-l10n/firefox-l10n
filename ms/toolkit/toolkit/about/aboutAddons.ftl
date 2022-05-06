@@ -194,3 +194,4 @@ addon-page-options-button =
 #   $version (String): application version.
 details-notification-incompatible = { $name } tidak serasi dengan { -brand-short-name } { $version }.
 details-notification-softblocked = { $name } telah dikenalpasti sebagai punca dalam isu keselamatan dan kestabilan.
+details-notification-gmp-pending = { $name } akan dipasang sebentar lagi.
