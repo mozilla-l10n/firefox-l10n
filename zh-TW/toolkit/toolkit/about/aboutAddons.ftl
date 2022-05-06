@@ -380,3 +380,20 @@ addons-heading-search-input =
     .placeholder = 在 addons.mozilla.org 搜尋
 addon-page-options-button =
     .title = 所有附加元件的工具
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } 與 { -brand-short-name } { $version } 不相容。
+details-notification-unsigned-and-disabled = 無法驗證 { $name } 於 { -brand-short-name } 使用，已被停用。
+details-notification-unsigned-and-disabled-link = 更多資訊
+details-notification-unsigned = 無法驗證 { $name } 於 { -brand-short-name } 使用，請小心。
+details-notification-unsigned-link = 更多資訊
+details-notification-blocked = 因為安全性或穩定性因素，{ $name } 已被停用。
+details-notification-blocked-link = 更多資訊
+details-notification-softblocked = 已知 { $name } 會造成安全性或穩定性問題。
+details-notification-softblocked-link = 更多資訊
+details-notification-gmp-pending = 即將安裝 { $name }。
