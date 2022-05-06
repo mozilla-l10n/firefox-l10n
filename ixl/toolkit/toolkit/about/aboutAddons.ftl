@@ -4,10 +4,8 @@
 
 search-header-shortcut =
     .key = f
-
 detail-version =
     .label = Tilax ivatz
-
 addon-category-locale = Yolb'al
 addon-category-locale-title =
     .title = Yolb'al
@@ -42,9 +40,7 @@ addon-install-from-file-filter-name = Tzajsal tetz
 ## Recommended add-ons page
 
 discopane-notice-learn-more = Ootzi ka'te
-
 privacy-policy = Ootzib'al ti' ib'anb'el ti jikil
-
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Tilpu isuuchil
@@ -58,7 +54,6 @@ preferences-addon-button =
        *[other] Uve' ni chit asa'
     }
 permissions-addon-button = Aq'b'al okeb'al
-
 addon-detail-version-label = Tilax ivatz
 
 ## Pending uninstall message bar
@@ -68,10 +63,19 @@ addon-detail-updates-radio-default = A' chite' at kan
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+
 ##
+
 
 ## Page headings
 
 theme-heading = Nuk' unq'a kame'
 locale-heading = Nuk' unq'a va yolb'ale'
 
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+details-notification-unsigned-and-disabled-link = Joltu txumb'al
+details-notification-unsigned-link = Joltu txumb'al
+details-notification-softblocked-link = Joltu txumb'al
