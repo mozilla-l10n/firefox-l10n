@@ -398,3 +398,15 @@ addons-heading-search-input =
     .placeholder = Søg på addons.mozilla.org
 addon-page-options-button =
     .title = Indstillinger for alle tilføjelser
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } er inkompatibel med { -brand-short-name } { $version }.
+details-notification-blocked = { $name } er blevet deaktiveret af sikkerheds- eller stabilitetsgrunde.
+details-notification-blocked-link = Mere information
+details-notification-softblocked = { $name } har kendte sikkerheds- og/eller stabilitetsproblemer.
+details-notification-softblocked-link = Mere information
