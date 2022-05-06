@@ -180,7 +180,12 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } е некомпатибилна со { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = { $name } не може да се верифицира за употреба во { -brand-short-name } и беше исклучен.
+details-notification-unsigned-and-disabled-link = Повеќе информации
+details-notification-unsigned = { $name } не може да се верифицира за употреба во { -brand-short-name }. Бидете внимателни.
+details-notification-unsigned-link = Повеќе информации
 details-notification-blocked = { $name } е онеспособен поради проблем со безбедност или стабилност.
 details-notification-blocked-link = Повеќе информации
 details-notification-softblocked = Познато е дека { $name } предизвикува проблеми со безбедноста и стабилноста.
 details-notification-softblocked-link = Повеќе информации
+details-notification-gmp-pending = { $name } ќе се инсталира за кратко.
