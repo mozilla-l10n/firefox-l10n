@@ -390,3 +390,14 @@ addons-heading-search-input =
     .placeholder = addons.mozilla.org ਨੂੰ ਖੋਜੋ
 addon-page-options-button =
     .title = ਸਭ ਐਡ-ਆਨ ਲਈ ਟੂਲ
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } { -brand-short-name } { $version } ਦੇ ਲਈ ਢੁੱਕਵੀਂ ਨਹੀਂ ਹੈ।
+details-notification-blocked = { $name } ਨੂੰ ਸੁਰੱਖਿਆ ਜਾਂ ਸਥਿਰਤਾ ਸਮੱਸਿਆਵਾਂ ਕਰਕੇ ਬੰਦ ਕੀਤਾ ਗਿਆ ਹੈ।
+details-notification-blocked-link = ਹੋਰ ਜਾਣਕਾਰੀ
+details-notification-softblocked-link = ਹੋਰ ਜਾਣਕਾਰੀ
