@@ -362,7 +362,12 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = Digeverlec'h eo { $name } gant { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = N'haller ket gwiriekaat arver { $name } e { -brand-short-name } ha diweredekaet eo bet.
+details-notification-unsigned-and-disabled-link = Muioc'h a ditouroù
+details-notification-unsigned = N'haller ket gwiriekaat arver { $name } e { -brand-short-name }. Kendalc'hit gant evezh.
+details-notification-unsigned-link = Muioc'h a ditouroù
 details-notification-blocked = Diweredekaet eo bet { $name } en abeg da gudennoù a-fet diogelroez pe stabilded.
 details-notification-blocked-link = Muioc'h a ditouroù
 details-notification-softblocked = Anavezet eo { $name } evit degas kudennoù e-keñver diogelroez pe stabilded.
 details-notification-softblocked-link = Muioc'h a ditouroù
+details-notification-gmp-pending = Staliet e vo { $name } a-benn nebeut.
