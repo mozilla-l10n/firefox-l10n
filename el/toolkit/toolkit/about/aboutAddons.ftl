@@ -400,6 +400,9 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = Το { $name } είναι ασύμβατο με τον { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled-link = Περισσότερες πληροφορίες
+details-notification-unsigned-link = Περισσότερες πληροφορίες
 details-notification-blocked = Το { $name } έχει απενεργοποιηθεί για λόγους ασφαλείας ή σταθερότητας.
 details-notification-blocked-link = Περισσότερες πληροφορίες
 details-notification-softblocked = Το { $name } είναι γνωστό ότι προκαλεί προβλήματα ασφαλείας ή σταθερότητας.
+details-notification-gmp-pending = Το πρόσθετο { $name } θα εγκατασταθεί σύντομα.
