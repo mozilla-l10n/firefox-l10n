@@ -395,3 +395,4 @@ link-preview-title = 鏈結預覽
 link-preview-description = 貼上鏈結時，{ -brand-short-name } 可嵌入鏈結預覽。
 link-preview-autoadd = 可用時，自動新增鏈結預覽
 link-preview-replace-now = 要新增此鏈結的預覽圖嗎？
+link-preview-yes-replace = 好的
