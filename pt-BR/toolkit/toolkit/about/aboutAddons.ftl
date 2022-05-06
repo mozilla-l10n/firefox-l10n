@@ -394,3 +394,12 @@ addons-heading-search-input =
     .placeholder = Pesquisar em addons.mozilla.org
 addon-page-options-button =
     .title = Ferramentas para todas as extensões
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+details-notification-blocked = O { $name } foi desativado devido a problemas de segurança ou estabilidade.
+details-notification-blocked-link = Mais informações
+details-notification-softblocked = O { $name } é reconhecido como causa de problemas de segurança ou estabilidade.
+details-notification-softblocked-link = Mais informações
