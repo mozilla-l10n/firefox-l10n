@@ -389,3 +389,15 @@ addons-heading-search-input =
     .placeholder = addons.mozilla.org’da ara
 addon-page-options-button =
     .title = Tüm eklentiler için araçlar
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } eklentisi { -brand-short-name } { $version } ile uyumsuz.
+details-notification-blocked = { $name } güvenlik veya kararlılık gerekçesiyle devre dışı bırakıldı.
+details-notification-blocked-link = Daha fazla bilgi
+details-notification-softblocked = { $name } eklentisinin güvenlik veya kararlılık sorunlarına yol açtığı biliniyor.
+details-notification-softblocked-link = Daha fazla bilgi
