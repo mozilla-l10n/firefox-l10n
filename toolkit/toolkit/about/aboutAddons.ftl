@@ -407,4 +407,5 @@ details-notification-unsigned-link = Περισσότερες πληροφορί
 details-notification-blocked = Το { $name } έχει απενεργοποιηθεί για λόγους ασφαλείας ή σταθερότητας.
 details-notification-blocked-link = Περισσότερες πληροφορίες
 details-notification-softblocked = Το { $name } είναι γνωστό ότι προκαλεί προβλήματα ασφαλείας ή σταθερότητας.
+details-notification-softblocked-link = Περισσότερες πληροφορίες
 details-notification-gmp-pending = Το πρόσθετο { $name } θα εγκατασταθεί σύντομα.
