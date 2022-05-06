@@ -404,3 +404,11 @@ cloud-file-attachment-error = Priponke Filelink { $filename } ni bilo mogoče po
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Napaka računa Filelink
 cloud-file-account-error = Priponke Filelink { $filename } ni bilo mogoče posodobiti, ker je bil račun za Filelink izbrisan.
+
+## Link Preview
+
+link-preview-title = Predogled povezave
+link-preview-description = { -brand-short-name } lahko pri lepljenju povezav doda vdelan predogled.
+link-preview-autoadd = Samodejno dodajaj predoglede povezav, kadar je to mogoče
+link-preview-replace-now = Želite dodati predogled za to povezavo?
+link-preview-yes-replace = Da
