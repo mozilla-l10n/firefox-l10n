@@ -197,6 +197,10 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { -brand-short-name } { $version } සමඟ { $name } අනුකූල නොවේ.
+details-notification-unsigned-and-disabled = { -brand-short-name } හි භාවිතය සඳහා { $name } තහවුරු කළ නොහැකි බැවින් අක්‍රීය කර ඇත.
+details-notification-unsigned-and-disabled-link = වැඩිදුර තොරතුරු
+details-notification-unsigned = { -brand-short-name } හි භාවිතයට { $name } තහවුරු කළ නොහැක. අවධානයෙන් ඉදිරියට යන්න.
+details-notification-unsigned-link = වැඩිදුර තොරතුරු
 details-notification-blocked = ආරක්ෂක හෝ ස්ථායිතා ප්‍රශ්ණ නිසා { $name } අබල (Disable) කර ඇත.
 details-notification-blocked-link = වැඩිදුර තොරතුරු
 details-notification-softblocked = { $name } ආරක්ෂක හෝ ස්ථායිතා ප්‍රශ්ණ ඇති කරනු ඇතැයි හඳුනාගෙන ඇත.
