@@ -402,3 +402,4 @@ details-notification-blocked = { $name } oñemongéma oguereko rupi apañuãi te
 details-notification-blocked-link = Maranduve
 details-notification-softblocked = Ojeikuaa { $name } omoapañuãiha tekorosã térã tekoporã.
 details-notification-softblocked-link = Maranduve
+details-notification-gmp-pending = { $name } oñemohendáta sapy’aitépe.
