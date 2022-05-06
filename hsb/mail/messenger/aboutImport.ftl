@@ -6,8 +6,11 @@ import-page-title = Importować
 
 ## Header
 
+import-start = Importowanski nastroj
+import-start-desc = Importowanske nastajenja abo daty z nałoženja abo dataje.
 import-from-app = Z nałoženja importować
 import-from-app-desc = Wubjerće, zwotkelž maja so konta, adresniki, protyki a druhe daty importować:
+import-from-file = Z dataje importować
 import-address-book = Adresnikowu dataju importować
 import-calendar = Dataju protyki importować
 export-profile = Eksportować
@@ -26,6 +29,10 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-file = Z dataje importować
+
+## Import from file selections
+
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Z { $app } importować
@@ -66,7 +73,6 @@ calendar-import-into-new-calendar = Nowu protyku wutworić
 
 ## Import dialog
 
-progress-pane-title = Importowanje
 progress-pane-importing = Importowanje
 progress-pane-exporting = Eksportowanje
 progress-pane-finished-desc = Dokónčene.
