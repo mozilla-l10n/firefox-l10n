@@ -460,5 +460,8 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = Doplněk { $name } je nekompatibilní s aplikací { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled-link = Více informací
+details-notification-unsigned-link = Více informací
 details-notification-blocked-link = Více informací
 details-notification-softblocked-link = Více informací
+details-notification-gmp-pending = { $name } bude brzy nainstalován.
