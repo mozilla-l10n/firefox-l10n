@@ -20,12 +20,13 @@
 ">
 <!ENTITY publicNamespace.accesskey "ա">
 <!ENTITY otherUsersNamespace.label "Այղ աւգտատէրեր.">
-<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY otherUsersNamespace.accesskey "Ա">
 <!ENTITY overrideNamespaces.label "Թոյղատրէք սպասարկչին վերագրել այս անուանատարածքում">
-<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY overrideNamespaces.accesskey "Թ">
 <!ENTITY pop3DeferringDesc.label "Երբ ներբեռնուում է փոստը այս հաշուի սպասարկչում, գործածէք հետեւեալ պանակը նոր հաղորդագրութիւններ պահելու համար.">
 <!ENTITY accountInbox.label "Մուտքարկղ այս հաշուի համար">
+<!ENTITY accountInbox.accesskey "ա">
 <!ENTITY deferToServer.label "Մուտքարկղ տարբեր հաշուի համար">
-<!ENTITY deferToServer.accesskey "d">
+<!ENTITY deferToServer.accesskey "տ">
 <!ENTITY deferGetNewMail.label "Ներառէք այս սպասարկչին, երբ ստանում էք նոր փոստ">
 <!ENTITY deferGetNewMail.accesskey "Ն">

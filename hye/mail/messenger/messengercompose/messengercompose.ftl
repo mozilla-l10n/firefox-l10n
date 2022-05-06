@@ -5,6 +5,21 @@
 
 ## Send Format
 
+compose-send-format-menu =
+    .label = Ուղարկման ձեւաչափ
+    .accesskey = ձ
+compose-send-auto-menu-item =
+    .label = Ինքնաշխատ
+    .accesskey = Ի
+compose-send-both-menu-item =
+    .label = Ինչպէս HTML, այնպես էլ պարզ տեքստ
+    .accesskey = Ի
+compose-send-html-menu-item =
+    .label = Միայն HTML
+    .accesskey = H
+compose-send-plain-menu-item =
+    .label = Միայն պարզ տեքստ
+    .accesskey = պ
 
 ## Addressing widget
 
@@ -60,8 +75,7 @@ ctrl-cmd-shift-pretty-prefix =
         [macos] ⇧ ⌘{ " " }
        *[other] Ctrl+Shift+
     }
-trigger-attachment-picker-key = A
-toggle-attachment-pane-key = M
+trigger-attachment-picker-key = Կ
 menuitem-toggle-attachment-pane =
     .label = Կցորդի վահանակ
     .accesskey = դ
@@ -220,13 +234,13 @@ to-address-row-label =
     .value = Ում
 #   $key (String) - the shortcut key for this field
 show-to-row-main-menuitem =
-    .label = Ում (To) Դաշտ
-    .accesskey = Դ
+    .label = Ում դաշտ
+    .accesskey = Ո
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 # No acceltext should be shown.
 # The label should match the show-to-row-button text.
 show-to-row-extra-menuitem =
-    .label = Ում (To)
+    .label = Ում
     .accesskey = Ո
 #   $key (String) - the shortcut key for this field
 show-to-row-button = Ում (To)

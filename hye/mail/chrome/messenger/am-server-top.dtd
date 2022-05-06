@@ -7,7 +7,7 @@
 <!ENTITY serverSettings.label "Սպասարկչի կարգաւորումներ">
 <!ENTITY serverType.label "Սպասարկչի տեսակը.">
 <!ENTITY serverName.label "Սպասարկչի անունը.">
-<!ENTITY serverName.accesskey "S">
+<!ENTITY serverName.accesskey "Ս">
 <!ENTITY userName.label "Աւգտատիրոջ անունը.">
 <!ENTITY userName.accesskey "N">
 <!ENTITY port.label "Միացք.">
