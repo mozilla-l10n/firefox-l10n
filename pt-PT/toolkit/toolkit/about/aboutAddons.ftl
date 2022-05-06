@@ -394,3 +394,15 @@ addons-heading-search-input =
     .placeholder = Pesquisar addons.mozilla.org
 addon-page-options-button =
     .title = Ferramentas para todos os extras
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } é incompatível com o { -brand-short-name } { $version }.
+details-notification-blocked-link = Mais informação
+details-notification-softblocked = { $name } é conhecido por causar problemas de estabilidade ou de segurança.
+details-notification-softblocked-link = Mais informação
+details-notification-gmp-pending = { $name } será instalado dentro de momentos.
