@@ -244,6 +244,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Տեսակ
 openpgp-key-details-key-part-label =
     .label = Բանալու մաս
+openpgp-key-details-attr-ignored = Զգուշացում. այս բանալին կարող է չաշխատել այնպէս, ինչպէս սպասուում էր, քանի որ դրա որոշ յատկութիւններ անվտանգ չեն եւ կարող են անտեսուել:
 openpgp-key-details-algorithm-label =
     .label = Հաշուէկարգ
 openpgp-key-details-size-label =
@@ -292,6 +293,15 @@ openpgp-description =
         [0] Thunderbird-ը չունի անձնական OpenPGP բանալի <b>{ $identity }</b> ֊ի համար
         [one] Thunderbird֊ը գտաւ { $count } անձնական OpenPGP բանալի կապուած <b>{ $identity }</b> ֊ի հետ
        *[other] Thunderbird֊ը գտաւ { $count } անձնական OpenPGP բանալիներ կապուած <b>{ $identity }</b> ֊ի հետ
+    }
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name }-ը չունի անձնական OpenPGP բանալի <b>{ $identity }</b>-ի համար
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] Գտնուել է { -brand-short-name } { $count } անձնական OpenPGP բանալի՝ կապուած <b>{ $identity }</b>-ի հետ
+       *[other] Գտնվել են { -brand-short-name } { $count } անձնական OpenPGP բանալիներ՝ կապուած <b>{ $identity }</b>-ի հետ
     }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Ձեր ներկայիս կարգաբերումը աւգտագործում է բանալու ID <b>{ $key }</b>
@@ -355,8 +365,6 @@ key-verification = Ստուգէք բանալու մատնահետքը՝ աւգտ
 cannot-use-own-key-because = Հնարաւոր չէ ուղարկել հաղորդագրութիւնը, քանի որ խնդիր կայ Ձեր անձնական բանալու հետ: { $problem }
 cannot-encrypt-because-missing = Հնարաւոր չէ ուղղարկել այս նամակը ծայրէծայր ծածկագրումով, քանի որ խնդիրներ կան հետեւալ հասցէատէրերի բանալիների հետ․{ $problem }
 window-locked = Կազմելու պատուհանը կողպուած է; ուղարկումը չեկարկուել է
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Կոդաւորուած հաղորդագրութեան մաս
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Սա հաղորդագրութեան ծածկագրուած մաս է։ Դուք պէտք է այն բացէք առանձին պատուհանում՝ սեղմելով յաւելուածի վրայ:
 # Strings in keyserver.jsm
@@ -599,6 +607,33 @@ save-attachment-header = Պահպանել կոդաւորուած կցորդը
 no-temp-dir =
     Հնարաւոր չէ գտնել ժամանակաւոր գրացուցակ գրելու համար․
     Խնդրում ենք սահմանել TEMP միջավայրի փոփոխականը
+possibly-pgp-mime = Հաղորդագրութիւնը կարող է գաղտնագրուած կամ ստորագրուած լինել PGP/MIME-ով, ստուգելու համար աւգտագործէք «Decrypt/Verify» գործառոյթը
+cannot-send-sig-because-no-own-key = Հնարաւոր չէ թուային ստորագրել այս հաղորդագրութիւնը, քանի որ Դուք դեռ չէք կարգաբերել ծայրէծայր գաղտնագրումը { $key }֊ի համար
+cannot-send-enc-because-no-own-key = Հնարաւոր չէ ծածկագրուած ուղարկել այս հաղորդագրութիւնը, քանի որ Դուք դեռ չէք կարգաբերել ծայրէծայր գաղտնագրումը { $key }֊ի համար
+compose-menu-attach-key =
+    .label = Կցել իմ հանրային բանալին
+    .accesskey = Կ
+compose-menu-encrypt-subject =
+    .label = Թեմայի գաղտնագրում
+    .accesskey = մ
+# Strings used in decryption.jsm
+do-import-multiple =
+    Ներածե՞լ հետեւեալ բանալիները՝
+    { $key }
+do-import-one = Ներածե՞լ { $name } ({ $id })։
+cant-import = Հանրային բանալին ներածելու սխալ
+unverified-reply = Հաղորդագրութեան (պատասխանի) հատուածը հաւանաբար փոփոխուել է
+key-in-message-body = Հաղորդագրութեան մարմնում բանալի է յայտնաբերուել: Բանալին ներածելու համար սեղմէք «Import Key» :
+sig-mismatch = Սխալ․ ստորագրութիւնը չի համապատասխանում
+invalid-email = Սխալ․ անվաւեր եղ․հասցէ(ներ)
+attachment-pgp-key =
+    «{ $name }» յաւելուածը, որը Դուք բացում էք, կարծես թե OpenPGP բանալի նիշ է:
+    Սեղմէք «ներածել»՝ պարունակուող ստեղները ներմուծելու համար, կամ ՝ «դիտել»  դիտարկիչի պատուհանում նիշի բովանդակութիւնը դիտելու համար
+dlg-button-view = &Դիտել
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Ապակոդաւորուած հաղորդագրութիւն (վերականգնուած կոտրուած PGP եղ․փոստի ձեւաչափը, հաւանաբար, առաջացել է հին փոխանակման սպասարկչի կողմից, այնպէս որ արդիւնքը կարող է կատարեալ չլինել կարդալու համար)
+# Strings used in encryption.jsm
+not-required = Սխալ. գաղտնագրում չի պահանջուում
 # Strings used in windows.jsm
 no-photo-available = Լուսանկար չկայ
 error-photo-path-not-readable = «{ $photo }» լուսանկարի ուղին ընթեռնելի չէ
