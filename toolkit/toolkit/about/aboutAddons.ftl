@@ -410,3 +410,4 @@ details-notification-blocked = { $name } було вимкнено, у зв'яз
 details-notification-blocked-link = Докладніше
 details-notification-softblocked = В { $name } є відомі проблеми з безпекою та стабільністю.
 details-notification-softblocked-link = Докладніше
+details-notification-gmp-pending = { $name } незабаром буде встановлено.
