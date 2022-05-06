@@ -396,3 +396,15 @@ addons-heading-search-input =
     .placeholder = Keresés itt: addons.mozilla.org
 addon-page-options-button =
     .title = Eszközök minden kiegészítőhöz
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = A(z) { $name } nem kompatibilis ezzel: { -brand-short-name } { $version }.
+details-notification-blocked = A(z) { $name } le lett tiltva biztonsági vagy stabilitási problémák miatt.
+details-notification-blocked-link = További információ
+details-notification-softblocked = A(z) { $name } biztonsági vagy stabilitási problémát okoz.
+details-notification-softblocked-link = További információ
