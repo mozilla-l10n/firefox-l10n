@@ -14,6 +14,7 @@ e2e-disable-enc =
 e2e-enable-enc =
     .label = Activer le chiffrement pour les nouveaux messages
     .accesskey = A
+e2e-enable-description = Vous serez en mesure de désactiver le chiffrement pour des messages au cas par cas.
 e2e-advanced-section = Paramètres avancés
 e2e-attach-key =
     .label = Joindre ma clé publique lors de l’ajout d’une signature numérique OpenPGP
