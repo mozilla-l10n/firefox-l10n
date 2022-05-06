@@ -393,3 +393,20 @@ addons-heading-search-input =
     .placeholder = Buscar en addons.mozilla.org
 addon-page-options-button =
     .title = Herramientas para todos los complementos
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } es incompatible con { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = { $name } no ha podido ser verificado para su uso en { -brand-short-name } y ha sido desactivado.
+details-notification-unsigned-and-disabled-link = Más información
+details-notification-unsigned = { $name } no se ha podido verificar para su uso en { -brand-short-name }. Proceda con precaución.
+details-notification-unsigned-link = Más información
+details-notification-blocked = { $name } ha sido desactivado debido a problemas de seguridad o estabilidad.
+details-notification-blocked-link = Más información
+details-notification-softblocked = Se sabe que { $name } es causa de problemas de seguridad o estabilidad.
+details-notification-softblocked-link = Más información
+details-notification-gmp-pending = { $name } se instalará en breves momentos.
