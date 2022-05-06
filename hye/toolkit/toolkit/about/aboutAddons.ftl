@@ -389,3 +389,20 @@ addons-heading-search-input =
     .placeholder = Որոնել  addons.mozilla.org֊ում
 addon-page-options-button =
     .title = Գործիքներ բոլոր յաւելումների համար
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name }-ը եւ { -brand-short-name } { $version }-ը անհամատեղելի են:
+details-notification-unsigned-and-disabled = { $name }-ը չէր կարող հաստատուել { -brand-short-name }-ում աւգտագործման համար եւ անջատուել է։
+details-notification-unsigned-and-disabled-link = Աւելի շատ տեղեկութիւն
+details-notification-unsigned = { $name }-ը չէր կարող վաւերացուել { -brand-short-name }-ում աւգտագործման համար։ Շարունակէք զգուշաւրէն։
+details-notification-unsigned-link = Աւելի շատ տեղեկութիւն
+details-notification-blocked = { $name }-ը անջատուել է` անվտանգութիւն կամ կայունութիւն ապահովելու նպատակով:
+details-notification-blocked-link = Աւելի շատ տեղեկութիւն
+details-notification-softblocked = Յայտնի է, որ { $name }-ը պատճառում է ապահովութեան կամ կայունութեան խնդիրներ:
+details-notification-softblocked-link = Աւելի շատ տեղեկութիւն
+details-notification-gmp-pending = { $name }-ը շուտով կը տեղադրուի:
