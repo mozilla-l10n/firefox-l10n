@@ -195,3 +195,15 @@ theme-heading = Mavzularni boshqarish
 locale-heading = Tillarni boshqarish
 addon-page-options-button =
     .title = Barcha qoʻshimcha dasturlar uchun asboblar
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name }  - { -brand-short-name } { $version } bilan mos emas.
+details-notification-blocked = { $name } xavfsizlik va ishonchlilik sabablariga koʻra oʻchirib qoʻyildi.
+details-notification-blocked-link = Koʻproq ma`lumot
+details-notification-softblocked = { $name } xavfsizlik va mustahkamlikka ta`sir qilishi aniqlangan.
+details-notification-softblocked-link = Koʻproq ma`lumot
