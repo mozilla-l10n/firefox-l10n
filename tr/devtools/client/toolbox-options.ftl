@@ -34,6 +34,10 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = DOM özniteliklerini kısalt
 options-collapse-attrs-tooltip =
     .title = Denetçideki uzun öznitelikleri kısaltır
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Boyut değerlerini düzenlemek için tıklayıp sürükleyin
+options-inspector-draggable-properties-tooltip =
+    .title = Denetçi kuralları görünümünde boyut değerlerini düzenlemek için tıklayıp sürükleyin.
 
 ## "Default Color Unit" options for the Inspector
 
