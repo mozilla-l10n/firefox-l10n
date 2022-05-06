@@ -397,8 +397,15 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } เข้ากันไม่ได้กับ { -brand-short-name } { $version }
+details-notification-unsigned-and-disabled = { $name } ไม่สามารถยืนยันสำหรับใช้ใน { -brand-short-name } และถูกปิดใช้งาน
 details-notification-unsigned-and-disabled-link = ข้อมูลเพิ่มเติม
+details-notification-unsigned = { $name } ไม่สามารถยืนยันสำหรับใช้ใน { -brand-short-name } ดำเนินการต่อด้วยความระมัดระวัง
 details-notification-unsigned-link = ข้อมูลเพิ่มเติม
+details-notification-blocked = { $name } ถูกปิดใช้งานเนื่องจากปัญหาด้านความปลอดภัยหรือเสถียรภาพ
 details-notification-blocked-link = ข้อมูลเพิ่มเติม
+details-notification-softblocked = { $name } เป็นที่ทราบว่าก่อให้เกิดปัญหาด้านความปลอดภัยหรือเสถียรภาพ
 details-notification-softblocked-link = ข้อมูลเพิ่มเติม
 details-notification-gmp-pending = { $name } จะถูกติดตั้งในไม่ช้า
