@@ -382,3 +382,16 @@ addons-heading-search-input =
     .placeholder = 在 addons.mozilla.org 搜索
 addon-page-options-button =
     .title = 用于所有附加组件的工具
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } 不兼容 { -brand-short-name } { $version }。
+details-notification-unsigned-and-disabled-link = 了解详情
+details-notification-unsigned-link = 了解详情
+details-notification-blocked = { $name } 由于安全或稳定性问题已被禁用。
+details-notification-blocked-link = 了解详情
+details-notification-gmp-pending = { $name } 即将安装。
