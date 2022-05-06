@@ -264,5 +264,7 @@ details-notification-unsigned-and-disabled-link = మరింత సమాచ�
 details-notification-unsigned = { -brand-short-name }‌లో వాడుకకు { $name }‌ను తనిఖీ చేయబడలేదు. జాగ్రత్తతో కొనసాగండి.
 details-notification-unsigned-link = మరింత సమాచారం
 details-notification-blocked = రక్షణ లేదా స్థిరత్వ సమస్యల కారణంగా { $name } అచేతనపరచబడింది.
+details-notification-blocked-link = మరింత సమాచారం
 details-notification-softblocked = { $name } రక్షణ లేదా స్థిరత్వ సమస్యలకు కారణం.
+details-notification-softblocked-link = మరింత సమాచారం
 details-notification-gmp-pending = { $name } త్వరలో స్థాపించబడుతుంది.
