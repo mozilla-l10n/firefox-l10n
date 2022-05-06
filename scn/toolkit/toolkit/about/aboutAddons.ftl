@@ -4,13 +4,10 @@
 
 search-header-shortcut =
     .key = f
-
 list-empty-button =
     .label = Cchiù nfurmazziuna supra l'agghiuncitini
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository-value =
     .value = { detail-repository.label }
 
@@ -53,7 +50,18 @@ pending-uninstall-undo-button = Sfai
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+
 ##
+
 
 ## Page headings
 
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+details-notification-unsigned-and-disabled-link = Cchiù nfurmazziuna
+details-notification-unsigned-link = Cchiù nfurmazziuna
+details-notification-blocked-link = Cchiù nfurmazziuna
+details-notification-softblocked-link = Cchiù nfurmazziuna
