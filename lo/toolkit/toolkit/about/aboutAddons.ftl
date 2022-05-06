@@ -3,76 +3,54 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = ຕົວຈັດການກັບ Add-ons
-
 search-header-shortcut =
     .key = f
-
 list-empty-installed =
     .value = ທ່ານບໍ່ໄດ້ຕິດຕັ້ງ Add-ons ປະເພດນີ້ໄວ້
-
 list-empty-available-updates =
     .value = ບໍ່ພົບການອັບເດດ
-
 list-empty-recent-updates =
     .value = ທ່ານບໍ່ໄດ້ອັບເດດ Add-ons ຈັກອັນເລີຍ
-
 list-empty-find-updates =
     .label = ກວດເບິງການອັບເດດ
-
 list-empty-button =
     .label = ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ Add-ons ນີ້
-
 show-unsigned-extensions-button =
     .label = ບໍ່ສາມາດຢືນຢັນບາງ extension ໄດ້
-
 show-all-extensions-button =
     .label = ສະແດງ extension ທັງຫມົດ
-
 detail-version =
     .label = ເວີຊັນ
-
 detail-last-updated =
     .label = ອັດເດດຫຼ້າສຸດ
-
 detail-update-type =
     .value = ອັບເດດອັດຕະໂນມັດ
-
 detail-update-automatic =
     .label = ເປີດ
     .tooltiptext = ຕິດຕັ້ງອັບເດດໂດຍອັດຕະໂນມັດ
-
 detail-update-manual =
     .label = ປິດ
     .tooltiptext = ບໍ່ຕິດຕັ້ງອັບເດດໂດຍອັດຕະໂນມັດ
-
 detail-private-browsing-on =
     .label = ອະນຸຍາດ
     .tooltiptext = ເປີດນຳໃຊ້ໃນການຄົ້ນຫາແບບສ່ວນໂຕ
-
 detail-private-browsing-off =
     .label = ບໍ່ອະນຸຍາດ
     .tooltiptext = ປິດນຳໃຊ້ໃນການຄົ້ນຫາແບບສ່ວນໂຕ
-
 detail-home =
     .label = ຫນ້າທຳອິດ
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = ກວດສອບການອັບເດດ
     .accesskey = F
     .tooltiptext = ກວດເບິ່ງການອັບເດດນີ້ສຳລັບ add-on
-
 detail-rating =
     .value = ຄະແນນ
-
 addon-restart-now =
     .label = ເລີ່ມລະບົບໃໝ່ດຽວນີ້
-
 addon-category-extension = ສ່ວນຂະຫຍາຍ
 addon-category-extension-title =
     .title = ສ່ວນຂະຫຍາຍ
@@ -95,7 +73,6 @@ addon-category-available-updates-title =
 ## These are global warnings
 
 extensions-warning-safe-mode = Add-on ທັງຫມົດໄດ້ຖືກປິດນຳໃຊ້ໂດຍໂຫມດປອດໄພ.
-
 
 ## Strings connected to add-on updates
 
@@ -144,9 +121,20 @@ addon-open-about-debugging = ດີບັກ Add-on
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+
 ##
+
 
 ## Page headings
 
 addon-page-options-button =
     .title = ເຄື່ອງມືສຳລັບທຸກ Add-ons
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+details-notification-unsigned-and-disabled-link = ຂໍ້ມູນເພີ່ມເຕີມ
+details-notification-unsigned-link = ຂໍ້ມູນເພີ່ມເຕີມ
+details-notification-blocked-link = ຂໍ້ມູນເພີ່ມເຕີມ
+details-notification-softblocked-link = ຂໍ້ມູນເພີ່ມເຕີມ
