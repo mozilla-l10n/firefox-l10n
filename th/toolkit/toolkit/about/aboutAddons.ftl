@@ -397,5 +397,8 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+details-notification-unsigned-and-disabled-link = ข้อมูลเพิ่มเติม
+details-notification-unsigned-link = ข้อมูลเพิ่มเติม
 details-notification-blocked-link = ข้อมูลเพิ่มเติม
 details-notification-softblocked-link = ข้อมูลเพิ่มเติม
+details-notification-gmp-pending = { $name } จะถูกติดตั้งในไม่ช้า
