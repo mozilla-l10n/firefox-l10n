@@ -180,7 +180,12 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } jaaɓdaani e { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = { $name } horiima ƴeewteede ngam huutoraade e { -brand-short-name } tee daaƴaama kisa.
+details-notification-unsigned-and-disabled-link = Ɓeydu Humpito
+details-notification-unsigned = { $name } horiima ƴeewteede ngam huutoraade e { -brand-short-name }. Waɗtu heen hakkille.
+details-notification-unsigned-link = Ɓeydu Humpito
 details-notification-blocked = { $name } daaƴaama sabu caɗe kisal walla jamɗugol.
 details-notification-blocked-link = Ɓeydu Humpito
 details-notification-softblocked = { $name } ena anndiraa addude caɗe kisal walla jamɗugol.
 details-notification-softblocked-link = Ɓeydu Humpito
+details-notification-gmp-pending = { $name } maa aafe ko leelaani.
