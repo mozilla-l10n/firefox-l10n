@@ -389,3 +389,13 @@ addons-heading-search-input =
     .placeholder = Cari addons.mozilla.org
 addon-page-options-button =
     .title = Alat untuk semua pengaya
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } tidak kompatibel dengan { -brand-short-name } { $version }.
+details-notification-blocked = { $name } telah dimatikan karena masalah keamanan atau kestabilan.
+details-notification-softblocked = { $name } telah dikenali mengakibatkan masalah keamanan atau kestabilan.
