@@ -125,7 +125,7 @@ remove-search-engine =
 add-opensearch-provider-title = Աւելացնել OpenSearch մատակարարին
 add-opensearch-provider-text = Աւելացնելու համար մուտքագրէք OpenSearch մատակարարի URL֊ը: Աւգտագործէք OpenSearch նկարագրության նիշի ուղղակի URL-ը, կամ URL, որտեղ այն կարող է ինքնաշխատ կերպով յայտնաբերուել:
 adding-opensearch-provider-failed-title = OpenSearch մատակարար աւելացնելիս սխալ առաջացաւ
-adding-opensearch-provider-failed-text = Չստացուեց աւելացնել OpenSearch մատակարարին { $url }֊ի համար։
+adding-opensearch-provider-failed-text = Չստացուեց աւելացնել OpenSearch-ի մատակարար { $url }֊ի համար։
 minimize-to-tray-label =
     .label = Երբ { -brand-short-name }-ը նուազեցուի, տեղափոխէք այն համակարգային սկուտեղի մէջ
     .accesskey = խ
@@ -580,9 +580,35 @@ phishing-label =
     .label = Տեղեկացնել ինձ, եթե իմ կարդացած նամակը հանդիսանում է եղ․փոստի խաբկանք
     .accesskey = Տ
 antivirus-description = { -brand-short-name }-ը կարող է հեշտացնել ստացուած նամակների հակավիրուսային ստուգումը՝ մինչեւ դրանք համակարգիչ ներբեռնելը։
+antivirus-label =
+    .label = Թոյղատրել հակավիրուսին կարանտինի ենթարկել անհատական ​​մուտքային հաղորդագրութիւնները
+    .accesskey = Թ
+certificate-description = Երբ սպասարկիչը պահանջում է հաւաստագիր.
+certificate-auto =
+    .label = Ինքնաբերաբար ընտրել որեւէ մեկը
+    .accesskey = ը
+certificate-ask =
+    .label = Ամէն անգամ հարցնել
+    .accesskey = հ
+ocsp-label =
+    .label = Հարցում OCSP պատասխանիչի սպասարկիչին՝
+    .accesskey = պ
+certificate-button =
+    .label = Կառավարել հաւաստագրերը․․․
+    .accesskey = Կ
+security-devices-button =
+    .label = Անվտանգութեան սարքեր...
+    .accesskey = ս
 
 ## Chat Tab
 
+startup-label =
+    .value = Երբ { -brand-short-name }-ը սկսուում է՝
+    .accesskey = ս
+offline-label =
+    .label = Պահել զրոյցի իմ հաշիւը անցանց
+auto-connect-label =
+    .label = Ինքնաբերաբար կապակցել իմ զրոյցի հաշիւները
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -590,16 +616,115 @@ antivirus-description = { -brand-short-name }-ը կարող է հեշտացնե�
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Տեղեկացնել իմ կապորդներին, որ ես բացակայում եմ
+    .accesskey = ե
+idle-time-label = պասիւ րոպէներ
 
 ##
 
+away-message-label =
+    .label = եւ դարձնել իմ կարգավիճակը «Հեռու եմ» գրութեամբ.
+    .accesskey = ա
+send-typing-label =
+    .label = Ուղարկել մուտքագրուող ծանուցումները զրուցաշարով
+    .accesskey = մ
+notification-label = Երբ Ձեզ հասցէագրուած նամակները հասնում են.
+show-notification-label =
+    .label = Ցուցադրել ծանուցումները.
+    .accesskey = ո
+notification-all =
+    .label = ուղարկողի անունով եւ հաղորդագրութեան նախադիտումով
+notification-name =
+    .label = միայն ուղարկողի անունով
+notification-empty =
+    .label = առանց որեւէ տեղեկութեան
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Շարժունացնել գործիքագաւտու պատկերը
+           *[other] Թերթել առաջադրանքագաւտու տարրը
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] տ
+           *[other] Թ
+        }
+chat-play-sound-label =
+    .label = Նվագարկել ձայնը
+    .accesskey = ն
+chat-play-button =
+    .label = Նվագարկել
+    .accesskey = Ն
+chat-system-sound-label =
+    .label = Սկզբնադիր համակարգի ձայն եղ․ փոստի փոստի համար
+    .accesskey = Ս
+chat-custom-sound-label =
+    .label = Աւգատգործել հետեւեալ ձայնային նիշը
+    .accesskey = Ա
+chat-browse-sound-button =
+    .label = Զննարկել…
+    .accesskey = Զ
 theme-label =
     .value = Հիմնապատկերներ
     .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-mail =
+    .label = { -brand-short-name }
+style-bubbles =
+    .label = Պղպջակներ
+style-dark =
+    .label = Մուգ
+style-paper =
+    .label = Թղթի թերթեր
+style-simple =
+    .label = Պարզ
+preview-label = Նախադիտում.
+no-preview-label = Նախադիտումը հասանելի չէ
 no-preview-description = Այս հիմնապատկերը վաւեր չէ կամ ներկայումս անհասանելի է։
+chat-variant-label =
+    .value = Տարբերակ․
+    .accesskey = Տ
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = Որոնել նախընտրութիւններում
 
 ## Preferences UI Search Results
 
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input2 =
+    .style = width: 15.4em
+    .placeholder = Որոնել կարգաւորումներում
 
 ## Settings UI Search Results
 
+search-results-header = Որոնման արդիւնքներ
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Ներողութիւ՜ն։ Կարգաւորումներում արդիւնքներ չկայն “<span data-l10n-name="query"></span>”-ի համար:
+       *[other] Ներողութիւ՜ն։ Նախընտրութիւններում արդիւնքներ չկայն <span data-l10n-name="query">֊ի համար։
+    }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 =
+    { PLATFORM() ->
+        [windows] Ներողութիւ՜ն։ Կարգաւորումներում արդիւնքներ չկայն <span data-l10n-name="query">-ի համար:
+       *[other] Ներողութիւ՜ն։ Նախընտրութիւններում արդիւնքներ չկայն <span data-l10n-name="query">֊ի համար։
+    }
+search-results-help-link = Աւգնութիւ՞ն է պէտք: Այցելէք <a data-l10n-name="url">{ -brand-short-name } Աջակցում</a>
