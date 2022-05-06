@@ -388,3 +388,10 @@ cloud-file-attachment-error = 由於本機檔案被移動或刪除，雲端鏈�
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = 雲端鏈結帳號錯誤
 cloud-file-account-error = 由於雲端鏈結帳號已遭刪除，雲端鏈結附件 { $filename } 更新失敗。
+
+## Link Preview
+
+link-preview-title = 鏈結預覽
+link-preview-description = 貼上鏈結時，{ -brand-short-name } 可嵌入鏈結預覽。
+link-preview-autoadd = 可用時，自動新增鏈結預覽
+link-preview-replace-now = 要新增此鏈結的預覽圖嗎？

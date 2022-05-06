@@ -6,8 +6,11 @@ import-page-title = 匯入
 
 ## Header
 
+import-start = 匯入工具
+import-start-desc = 從應用程式或檔案匯入設定或資料。
 import-from-app = 從應用程式匯入
 import-from-app-desc = 選擇從下列位置匯入帳號、通訊錄、行事曆與其他資料:
+import-from-file = 從檔案匯入
 import-address-book = 匯入通訊錄檔案
 import-calendar = 匯入行事曆檔案
 export-profile = 匯出
@@ -26,6 +29,13 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-file = 從檔案匯入
+
+## Import from file selections
+
+file-profile = 匯入設定檔備份（.zip）
+file-calendar = 匯入行事曆
+file-addressbook = 匯入通訊錄
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = 從 { $app } 匯入
@@ -66,7 +76,6 @@ calendar-import-into-new-calendar = 建立新的行事曆
 
 ## Import dialog
 
-progress-pane-title = 匯入中
 progress-pane-importing = 匯入中
 progress-pane-exporting = 匯出中
 progress-pane-finished-desc = 完成。
