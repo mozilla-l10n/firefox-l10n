@@ -391,7 +391,9 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = Добавката { $name } е несъвместима с { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = Добавката { $name } не може да бъде проверена, за да бъде използвана от { -brand-short-name }, и беше изключена.
 details-notification-unsigned-and-disabled-link = Повече информация
+details-notification-unsigned = Добавката { $name } не може да бъде проверена, за да бъде използвана от { -brand-short-name }. Бъдете внимателни.
 details-notification-unsigned-link = Повече информация
 details-notification-blocked = Добавката { $name } беше изключена поради съображения за сигурност или стабилност.
 details-notification-blocked-link = Повече информация
