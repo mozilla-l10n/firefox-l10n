@@ -397,5 +397,12 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } tidak kompatibel dengan { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = { $name } tidak dapat diverifikasi untuk digunakan di { -brand-short-name } dan telah dinonaktifkan.
+details-notification-unsigned-and-disabled-link = Informasi Lebih Lanjut
+details-notification-unsigned = { $name } tidak dapat diverifikasi untuk digunakan di { -brand-short-name }. Lanjutkan dengan hati-hati.
+details-notification-unsigned-link = Informasi Lebih Lanjut
 details-notification-blocked = { $name } telah dimatikan karena masalah keamanan atau kestabilan.
+details-notification-blocked-link = Informasi Lebih Lanjut
 details-notification-softblocked = { $name } telah dikenali mengakibatkan masalah keamanan atau kestabilan.
+details-notification-softblocked-link = Informasi Lebih Lanjut
+details-notification-gmp-pending = { $name } akan diinstal sebentar lagi.
