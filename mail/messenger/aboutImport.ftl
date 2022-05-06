@@ -33,6 +33,9 @@ source-file = Z dataje importować
 
 ## Import from file selections
 
+file-profile = Zawěsćeny profil (.zip) importować
+file-calendar = Protyki importować
+file-addressbook = Adresniki importować
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Z { $app } importować
