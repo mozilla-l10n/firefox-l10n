@@ -387,3 +387,12 @@ addons-heading-search-input =
     .placeholder = Rechercher sur addons.mozilla.org
 addon-page-options-button =
     .title = Outils pour tous les modules
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } est incompatible avec { -brand-short-name } { $version }.
+details-notification-blocked = { $name } a été désactivé suite à des problèmes de sécurité ou de stabilité.
