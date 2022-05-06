@@ -8,6 +8,8 @@ styleeditor-new-button =
 styleeditor-import-button =
     .tooltiptext = Importar e adjunger un nove folio de stilo al documento
     .accesskey = I
+styleeditor-filter-input =
+    .placeholder = Filtrar folios de stilo
 styleeditor-visibility-toggle =
     .tooltiptext = Monstrar/celar le folio de stilo
     .accesskey = S
@@ -28,3 +30,5 @@ styleeditor-copy-url =
 styleeditor-go-to-line =
     .label = Saltar al linea…
     .accesskey = S
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Nulle folios de stilo concordante trovate.
