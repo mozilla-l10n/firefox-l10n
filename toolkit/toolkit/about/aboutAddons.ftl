@@ -3,65 +3,46 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = ଏଡ-ଅନ ପରିଚାଳକ
-
 search-header-shortcut =
     .key = f
-
 list-empty-installed =
     .value = ଆପଣଙ୍କ ପାଖରେ ଏହି ପ୍ରକାରର କୌଣସି ଏଡ-ଅନ ସ୍ଥାପିତ ନାହିଁ
-
 list-empty-available-updates =
     .value = କୌଣସି ଅପଡେଟ ମିଳିଲା ନାହିଁ
-
 list-empty-recent-updates =
     .value = ଆପଣ ନିକଟରେ କୌଣସି ଆଡ଼-ଅନ ଅପଡେଟ କରିନାହାନ୍ତି
-
 list-empty-find-updates =
     .label = ଅପଡେଟଗୁଡ଼ିକ ପାଇଁ ଯାଞ୍ଚ କରନ୍ତୁ
-
 list-empty-button =
     .label = ଏଡ-ଅନଗୁଡ଼ିକ ବିଷୟରେ ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ
-
 detail-version =
     .label = ସଂସ୍କରଣ
-
 detail-last-updated =
     .label = ଅନ୍ତିମ ଅଦ୍ୟତନ
-
 detail-contributions-description = ଏହି ଏଡ-ଅନର ବିକାଶକାରୀ ପଚାରିଥାଏ ଯେ  ଆପଣ ଏକ ଛୋଟ ଯୋଗଦାନ କରି ଏହାର ବିକାଶକୁ ଅଗ୍ରସର କରିବା ପାଇଁ ସହାୟତା କରିପାରିବେ।
-
 detail-update-type =
     .value = ସ୍ୱୟଂଚାଳିତ  ଅଦ୍ୟତନଗୁଡ଼ିକ
-
 detail-update-default =
     .label = ପୂର୍ବନିର୍ଦ୍ଧାରିତ
     .tooltiptext = ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ସ୍ଥାପନ କରନ୍ତୁ ଯଦି ତାହା କେବଳ ପୂର୍ବନିର୍ଦ୍ଧାରିତ ହୋଇଥାଏ
-
 detail-update-automatic =
     .label = ଅନ
     .tooltiptext = ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ସ୍ଥାପନ କରନ୍ତୁ
-
 detail-update-manual =
     .label = ଅଫ
     .tooltiptext = ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ସ୍ଥାପନ କରନ୍ତୁ ନାହିଁ
-
 detail-home =
     .label = ମୂଳ ପୃଷ୍ଠା
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = ଏଡ-ଅନ ରୂପରେଖା
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = ଅଦ୍ୟତନଗୁଡ଼ିକୁ ଯାଞ୍ଚକରନ୍ତୁ
     .accesskey = f
     .tooltiptext = ଏହି ଏଡ-ଅନ ପାଇଁ ଅଦ୍ୟତନଗୁଡ଼ିକୁ ଯାଞ୍ଚକରନ୍ତୁ
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -78,13 +59,10 @@ detail-show-preferences =
             [windows] ଏହି ଏଡ-ଅନର ବିକଳ୍ପକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ
            *[other] ଏହି ଏଡ-ଅନର ପସନ୍ଦକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ
         }
-
 detail-rating =
     .value = ମୂଲ୍ୟାଙ୍କନ
-
 addon-restart-now =
     .label = ବର୍ତ୍ତମାନ ପୁନଃଚାଳନ କରନ୍ତୁ
-
 addon-category-extension = ଅନୁଲଗ୍ନଗୁଡ଼ିକ
 addon-category-extension-title =
     .title = ଅନୁଲଗ୍ନଗୁଡ଼ିକ
@@ -113,7 +91,6 @@ extensions-warning-check-compatibility-button = ସକ୍ରିୟ
 extensions-warning-update-security = ଆଡ଼-ଅନ ଅପଡେଟ ସୁରକ୍ଷା ଯାଞ୍ଚକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି । ଆପଣ ହୁଏତ ଅପଡେଟଗୁଡ଼ିକ ସହିତ ବୁଝାମଣା କରିଛନ୍ତି ।
 extensions-warning-update-security-button = ସକ୍ରିୟ
     .title = ଆଡ଼-ଅନ ଅପଡେଟ ସୁରକ୍ଷା ଯାଞ୍ଚକୁ ସକ୍ରିୟ କରନ୍ତୁ
-
 
 ## Strings connected to add-on updates
 
@@ -168,9 +145,23 @@ addon-install-from-file-filter-name = ଏଡ-ଅନଗୁଡ଼ିକ
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+
 ##
+
 
 ## Page headings
 
 addon-page-options-button =
     .title = ସମସ୍ତ ଏଡ-ଅନ ପାଇଁ ସାଧନ
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } ଟି  { -brand-short-name } { $version } ସହିତ ସୁସଂଗତ ନୁହଁ
+details-notification-blocked = { $name } କୁ ସୁରକ୍ଷା କିମ୍ବା ସ୍ଥାୟୀତ୍ୱ ସମସ୍ୟାଗୁଡ଼ିକ କାରଣରୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି।
+details-notification-blocked-link = ଅଧିକ ସୂଚନା
+details-notification-softblocked = { $name } ସୁରକ୍ଷା କିମ୍ବା ସ୍ଥାୟୀତ୍ୱ ସମସ୍ୟା ଘଟାଇଥିବାର ଜଣାପଡ଼ିଛି।
+details-notification-softblocked-link = ଅଧିକ ସୂଚନା
