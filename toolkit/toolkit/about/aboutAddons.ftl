@@ -393,5 +393,6 @@ details-notification-unsigned = «{ $name }» no s'ha pogut verificar per al seu
 details-notification-unsigned-link = Més informació
 details-notification-blocked = S'ha inhabilitat { $name } per motius de seguretat o d'estabilitat.
 details-notification-blocked-link = Més informació
+details-notification-softblocked = «{ $name }» pot causar problemes de seguretat o d'estabilitat.
 details-notification-softblocked-link = Més informació
 details-notification-gmp-pending = «{ $name }» s'instal·larà aviat.
