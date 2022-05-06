@@ -396,3 +396,7 @@ cloud-file-account-error = Impossibile actualisar le annexo de Filelink { $filen
 ## Link Preview
 
 link-preview-title = Vista preliminar de ligamine
+link-preview-description = { -brand-short-name } pote adder, collante ligamines, un vista preliminar integrate.
+link-preview-autoadd = Automaticamente adder vistas preliminar quando possibile.
+link-preview-replace-now = Adder vista preliminar pro iste ligamine.
+link-preview-yes-replace = Si
