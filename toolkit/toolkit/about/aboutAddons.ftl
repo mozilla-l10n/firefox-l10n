@@ -394,4 +394,5 @@ details-notification-unsigned-and-disabled-link = 了解详情
 details-notification-unsigned-link = 了解详情
 details-notification-blocked = { $name } 由于安全或稳定性问题已被禁用。
 details-notification-blocked-link = 了解详情
+details-notification-softblocked-link = 了解详情
 details-notification-gmp-pending = { $name } 即将安装。
