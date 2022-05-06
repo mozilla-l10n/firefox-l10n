@@ -392,7 +392,15 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } isnae compatible wi { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = { $name } couldnae be trystmakkit fur yaise in { -brand-short-name } and has been disabled.
 details-notification-unsigned-and-disabled-link = Mair Information
+details-notification-unsigned = { $name } couldnae be trystmakkit fur yaise in { -brand-short-name }. Gang forrit wi tent.
 details-notification-unsigned-link = Mair Information
+details-notification-blocked = { $name } has been disabled acause o siccarness or stieveness issues.
 details-notification-blocked-link = Mair Information
+details-notification-softblocked = { $name } is kent tae cause siccarness or stieveness issues.
 details-notification-softblocked-link = Mair Information
+details-notification-gmp-pending = { $name } will be instawed jist the noo.
