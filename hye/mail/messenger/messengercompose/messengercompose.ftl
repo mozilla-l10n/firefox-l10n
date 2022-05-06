@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
+
 ## Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -44,8 +47,8 @@ pill-action-move-cc =
     .label = Տեղափոխել Cc
     .accesskey = C
 pill-action-move-bcc =
-    .label = Տեղափոխել Bcc
-    .accesskey = B
+    .label = Տեղափոխել Ծածկապատճէնում
+    .accesskey = Ծ
 pill-action-expand-list =
     .label = Լայնարձակել Ցանկը
     .accesskey = ա
@@ -130,10 +133,6 @@ button-return-receipt =
 
 ## Encryption
 
-message-to-be-signed-icon =
-    .alt = Ստորագրել հաղորդագրութիւնը
-message-to-be-encrypted-icon =
-    .alt = Ծածկագրել հաղորդագրութիւնը
 encryption-menu =
     .label = Անվտանգութիւն
     .accesskey = վ
@@ -205,14 +204,18 @@ cc-compose-show-address-row-menuitem =
 cc-compose-show-address-row-label =
     .value = { cc-compose-address-row-label.value }
     .tooltiptext = Ցուցադրել { cc-compose-address-row-label.value } Դաշտը ({ cc-compose-show-address-row-menuitem.acceltext })
+bcc-compose-address-row-label =
+    .value = Ծածկապատճէն
 #   $key (String) - the shortcut key for this field
 bcc-compose-show-address-row-menuitem =
     .label = { bcc-compose-address-row-label.value } Դաշտ
-    .accesskey = B
+    .accesskey = Ծ
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Ցուցադրել { bcc-compose-address-row-label.value } Դաշտը ({ bcc-compose-show-address-row-menuitem.acceltext })
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-info = Ում եւ Պատճէնացանկ-ի { $count } հասցէատէրերը կը տեսնեն միմեանց հասցէն: Դուք կարող էք խուսափել հասցէատէրերի բացայայտումից՝ փոխարէնը աւգտագործելով Ծածկապատճէն:
 to-address-row-label =
     .value = Ում
 #   $key (String) - the shortcut key for this field
@@ -243,6 +246,21 @@ show-cc-row-extra-menuitem =
 #   $key (String) - the shortcut key for this field
 show-cc-row-button = Cc
     .title = Ցուցադրել Cc դաշտը ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+bcc-address-row-label =
+    .value = Ծածկապատճէն
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Ծածկապատճէնի դաշտ
+    .accesskey = Ծ
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Ծածկապատճէն
+    .accesskey = Ծ
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Ծածկապատճէն
+    .title = Ցուցադրել Ծածկապատճէնի դաշտը ({ ctrl-cmd-shift-pretty-prefix }{ $key })
 extra-address-rows-menu-button =
     .title = Հասցէաւորման այղ դաշտեր ցուցադրելու համար
 many-public-recipients-ignore =
@@ -344,3 +362,6 @@ cloud-file-attachment-error = Ձախողուեց թարմացնել նիշի յ�
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Նիշի յղմայն հաշուի սխալ
 cloud-file-account-error = Ձախողուեց թարմացնել նիշի յղման յաելուածը { $filename }, քանի որ նիշի յղմայն հաշիւը ջնջուել է։
+
+## Link Preview
+

@@ -21,8 +21,8 @@
 <!ENTITY addtoToFieldMenu.accesskey         "A">
 <!ENTITY addtoCcFieldMenu.label             "Աւելացնել CC դաշտում">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
-<!ENTITY addtoBccFieldMenu.label            "Աւելացնել «Կոյր պատճէնացանկ» դաշտում">
-<!ENTITY addtoBccFieldMenu.accesskey        "Կ">
+<!ENTITY addtoBccFieldMenu.label            "Աւելացնել Ծածկապատճէն դաշտում">
+<!ENTITY addtoBccFieldMenu.accesskey        "Ծ">
 <!ENTITY deleteAddrBookCard.label           "Ջնջել">
 <!ENTITY deleteAddrBookCard.accesskey       "Ջ">
 <!ENTITY propertiesContext.label            "Յատկութիւնները">
@@ -40,5 +40,5 @@
 <!ENTITY toButton.label                     "Աւելացնել To դաշտում.">
 <!ENTITY ccButton.label                     "Աւելացնել Պատճէնացանկ դաշտում.">
 <!ENTITY ccButton.accesskey                 "Պ">
-<!ENTITY bccButton.label                    "Աւելացնել «Կոյր պատճէնացանկ» դաշտում.">
-<!ENTITY bccButton.accesskey                "Կ">
+<!ENTITY bccButton.label                    "Աւելացնել Ծածկապատճէն դաշտում.">
+<!ENTITY bccButton.accesskey                "Ծ">

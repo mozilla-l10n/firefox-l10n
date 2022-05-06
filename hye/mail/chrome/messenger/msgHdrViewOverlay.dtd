@@ -11,6 +11,7 @@
 
 <!ENTITY subjectField4.label "Վերնագիր">
 <!ENTITY ccField4.label "Cc">
+<!ENTITY bccField4.label "Ծածկապատճէն">
 <!ENTITY newsgroupsField4.label "Տեղեկատուախումբ">
 <!ENTITY followupToField4.label "Հետեւել">
 <!ENTITY tagsHdr4.label "Պիտակներ">

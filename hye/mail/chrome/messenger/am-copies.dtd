@@ -15,8 +15,8 @@
 <!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "Առանձնացնել հասցէները ստորակետով">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Այս եղեկտրոնային հասցէները աւելացնել «Կոյր պատճէնացանկ»-ում․">
-<!ENTITY bccAddress.accesskey "Կ">
+<!ENTITY bccAddress.label "Այս եղեկտրոնային հասցէները աւելացնել Ծածկապատճէնում․">
+<!ENTITY bccAddress.accesskey "Ծ">
 <!ENTITY bccAddressList.placeholder "Առանձնացնել հասցէները ստորակետով">
 <!ENTITY saveMessageDlg.label "Ցուցադրել հաստատման պատուհանը նամակները պահելիս">
 <!ENTITY saveMessageDlg.accesskey "w">
