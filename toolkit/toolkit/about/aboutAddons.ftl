@@ -390,3 +390,20 @@ addons-heading-search-input =
     .placeholder = Na addons.mozilla.org pytać
 addon-page-options-button =
     .title = Nastroje za wšě přidatki
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } kompatibelny z { -brand-short-name } { $version } njeje.
+details-notification-unsigned-and-disabled = { $name } njeda so za wužiwanje w { -brand-short-name } wobkrućić a je so znjemóžnił.
+details-notification-unsigned-and-disabled-link = Dalše informacije
+details-notification-unsigned = { $name } njeda so za wužiwanje w { -brand-short-name } wobkrućić. Pokročujće z kedźbliwosću.
+details-notification-unsigned-link = Dalše informacije
+details-notification-blocked = { $name } je so dla problemow wěstoty abo stabilnosće znjemóžnił.
+details-notification-blocked-link = Dalše informacije
+details-notification-softblocked = { $name } je za to znaty, zo problemy wěstoty abo stabilnosće zawinuje.
+details-notification-softblocked-link = Dalše informacije
+details-notification-gmp-pending = { $name } budźe so bórze instalować.
