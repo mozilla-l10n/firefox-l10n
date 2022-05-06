@@ -173,6 +173,11 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } nda { -brand-short-name } { $version } ši cere kanbe.
+details-notification-unsigned-and-disabled-link = Alhabar tontoni
+details-notification-unsigned = { $name } mana hin ka korosandi ka goy nda { -brand-short-name }. War ma hawgay.
+details-notification-unsigned-link = Alhabar tontoni
+details-notification-blocked = { $name } kay saajaw wala tabatiyan-jaŋay sabbu se.
 details-notification-blocked-link = Alhabar tontoni
 details-notification-softblocked = { $name } bayray ra, ga hin ka saajaw wala tabatiyan šenday tee.
 details-notification-softblocked-link = Alhabar tontoni
+details-notification-gmp-pending = { $name } ga kaa ka sinja kayna da.
