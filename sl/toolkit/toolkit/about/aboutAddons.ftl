@@ -396,3 +396,20 @@ addons-heading-search-input =
     .placeholder = Iskanje po addons.mozilla.org
 addon-page-options-button =
     .title = Orodja za vse dodatke
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = Dodatek { $name } ni združljiv z brskalnikom { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = { $name } ni bilo mogoče potrditi za uporabo v { -brand-short-name }u, zato je onemogočen.
+details-notification-unsigned-and-disabled-link = Več informacij
+details-notification-unsigned = { $name } ni bilo mogoče potrditi za uporabo v { -brand-short-name }u. Bodite pazljivi.
+details-notification-unsigned-link = Več informacij
+details-notification-blocked = Dodatek { $name } je onemogočen zaradi večje varnosti in zanesljivosti.
+details-notification-blocked-link = Več informacij
+details-notification-softblocked = Dodatek { $name } lahko ogroža varno in zanesljivo delovanje.
+details-notification-softblocked-link = Več informacij
+details-notification-gmp-pending = { $name } bo kmalu nameščen.
