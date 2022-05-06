@@ -379,3 +379,14 @@ addons-heading-search-input =
     .placeholder = Cerca a addons.mozilla.org
 addon-page-options-button =
     .title = Eines per a tots els complements
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } no és compatible amb el { -brand-short-name } { $version }.
+details-notification-blocked = S'ha inhabilitat { $name } per motius de seguretat o d'estabilitat.
+details-notification-blocked-link = Més informació
+details-notification-softblocked-link = Més informació
