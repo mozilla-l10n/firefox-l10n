@@ -384,3 +384,12 @@ addons-heading-search-input =
     .placeholder = addons.mozilla.org 검색
 addon-page-options-button =
     .title = 부가 기능 도구
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name }는 { -brand-short-name } { $version }와 호환되지 않습니다.
+details-notification-softblocked = { $name }는 보안이나 안정성 문제를 일으킬 수 있습니다.
