@@ -406,7 +406,11 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = Mae { $name } yn anghydnaws â { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled-link = Rhagor o Wybodaeth
+details-notification-unsigned = Nid oedd modd dilysu { $name } i'w defnyddio yn { -brand-short-name }. Cymerwch ofal.
+details-notification-unsigned-link = Rhagor o Wybodaeth
 details-notification-blocked = Mae { $name } wedi ei analluogi o ganlyniad i faterion diogelwch a sefydlogrwydd.
 details-notification-blocked-link = Rhagor o Wybodaeth
 details-notification-softblocked = Mae'n hysbys fod { $name } yn achosi anawsterau diogelwch a sefydlogrwydd.
 details-notification-softblocked-link = Rhagor o Wybodaeth
+details-notification-gmp-pending = Bydd { $name } yn cael ei osod yn fuan.
