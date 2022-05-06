@@ -393,3 +393,11 @@ cloud-file-attachment-error = No se pudo actualizar el archivo adjunto de Fileli
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Error en la cuenta de Filelink
 cloud-file-account-error = No se pudo actualizar el archivo adjunto de Filelink { $filename }, porque se ha eliminado tu cuenta de Filelink.
+
+## Link Preview
+
+link-preview-title = Vista previa del enlace
+link-preview-description = { -brand-short-name } puede agregar una vista previa incrustrada al pegar enlaces.
+link-preview-autoadd = Agregar automáticamente vista previas de enlaces cuando sea posible
+link-preview-replace-now = ¿Agregar vista para este enlace?
+link-preview-yes-replace = Sí
