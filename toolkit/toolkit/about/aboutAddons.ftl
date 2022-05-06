@@ -410,3 +410,4 @@ details-notification-blocked = { $name } er blevet deaktiveret af sikkerheds- el
 details-notification-blocked-link = Mere information
 details-notification-softblocked = { $name } har kendte sikkerheds- og/eller stabilitetsproblemer.
 details-notification-softblocked-link = Mere information
+details-notification-gmp-pending = { $name } vil snart blive installeret.
