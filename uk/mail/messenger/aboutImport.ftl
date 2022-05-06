@@ -6,8 +6,11 @@ import-page-title = Імпорт
 
 ## Header
 
+import-start = Інструмент імпортування
+import-start-desc = Імпорт налаштувань або даних із застосунку чи файлу.
 import-from-app = Імпорт із застосунку
 import-from-app-desc = Виберіть імпортування облікових записів, адресних книг, календарів та інших даних із:
+import-from-file = Імпорт з файлу
 import-address-book = Імпорт файлу адресної книги
 import-calendar = Імпорт файлу календаря
 export-profile = Експорт
@@ -26,6 +29,13 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Інтернет-пошта
 app-name-apple-mail = Пошта Apple
+source-file = Імпорт з файлу
+
+## Import from file selections
+
+file-profile = Імпорт резервного профілю (.zip)
+file-calendar = Імпорт календарів
+file-addressbook = Імпорт адресних книг
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Імпорт із { $app }
@@ -66,7 +76,6 @@ calendar-import-into-new-calendar = Створити новий календар
 
 ## Import dialog
 
-progress-pane-title = Імпортування
 progress-pane-importing = Імпортування
 progress-pane-exporting = Експортування
 progress-pane-finished-desc = Завершено.
