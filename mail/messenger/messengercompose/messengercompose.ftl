@@ -392,3 +392,11 @@ cloud-file-attachment-error = Det gick inte att uppdatera fillänksbilagan { $fi
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Fillänkskontofel
 cloud-file-account-error = Det gick inte att uppdatera fillänksbilagan { $filename }, eftersom dess fillänkskonto har tagits bort.
+
+## Link Preview
+
+link-preview-title = Förhandsvisning av länk
+link-preview-description = { -brand-short-name } kan lägga till en inbäddad förhandsvisning när du klistrar in länkar.
+link-preview-autoadd = Lägg automatiskt till förhandsvisningar av länk när det är möjligt
+link-preview-replace-now = Vill du lägga till en förhandsvisning för den här länken?
+link-preview-yes-replace = Ja
