@@ -399,6 +399,7 @@ addon-page-options-button =
 details-notification-incompatible = Dodatak { $name } je nekompatibilan s { -brand-short-name } { $version }.
 details-notification-unsigned-and-disabled = { $name } nije mogao biti verificiran za rad u { -brand-short-name } te je onemogućen.
 details-notification-unsigned-and-disabled-link = Više informacija
+details-notification-unsigned = { $name } nije mogao biti verificiran za upotrebu u { -brand-short-name }. Nastavi s oprezom.
 details-notification-unsigned-link = Više informacija
 details-notification-blocked = Dodatak { $name } je blokiran zbog problema sa sigurnosti ili stabilnosti.
 details-notification-blocked-link = Više informacija
