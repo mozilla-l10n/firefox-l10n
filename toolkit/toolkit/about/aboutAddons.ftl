@@ -397,7 +397,12 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } eklentisi { -brand-short-name } { $version } ile uyumsuz.
+details-notification-unsigned-and-disabled = { $name } { -brand-short-name } üzerinde kullanım için doğrulanamadı ve etkisizleştirildi.
+details-notification-unsigned-and-disabled-link = Daha fazla bilgi
+details-notification-unsigned = { $name } { -brand-short-name } üzerinde kullanım için doğrulanamadı. Lütfen dikkatli olun.
+details-notification-unsigned-link = Daha fazla bilgi
 details-notification-blocked = { $name } güvenlik veya kararlılık gerekçesiyle devre dışı bırakıldı.
 details-notification-blocked-link = Daha fazla bilgi
 details-notification-softblocked = { $name } eklentisinin güvenlik veya kararlılık sorunlarına yol açtığı biliniyor.
 details-notification-softblocked-link = Daha fazla bilgi
+details-notification-gmp-pending = { $name } az sonra yüklenecektir.
