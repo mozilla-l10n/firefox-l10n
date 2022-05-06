@@ -26,6 +26,9 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+
+## Import from file selections
+
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Importer depuis { $app }
@@ -49,13 +52,23 @@ addr-book-sqlite-file = Fichier de base de données SQLite (.sqlite)
 addr-book-mab-file = Base de données Mork (.mab)
 addr-book-file-picker = Sélectionner un fichier de carnet d’adresses
 addr-book-csv-field-map-title = Faire correspondre les noms de champs
+addr-book-csv-field-map-desc = Sélectionnez les champs du carnet d’adresses correspondant aux champs source. Décochez les champs que vous ne voulez pas importer.
 addr-book-directories-pane-title = Sélectionnez le répertoire depuis lequel vous souhaitez importer :
 addr-book-directories-pane-source = Fichier source :
 addr-book-import-into-new-directory = Créer un nouveau répertoire
 
+## Import from address book file steps
+
+import-from-calendar-file-desc = Sélectionnez le fichier iCalendar (.ics) que vous voulez importer.
+calendar-items-loading = Chargement des éléments…
+calendar-items-filter-input =
+    .placeholder = Filtrer les éléments…
+calendar-select-all-items = Tout sélectionner
+calendar-deselect-all-items = Tout désélectionner
+calendar-import-into-new-calendar = Créer un nouvel agenda
+
 ## Import dialog
 
-progress-pane-title = Importation
 progress-pane-importing = Importation
 progress-pane-exporting = Exportation
 progress-pane-finished-desc = Terminé.
@@ -64,6 +77,7 @@ error-pane-title = Erreur
 error-message-zip-file-too-big = La taille du fichier zip sélectionné est supérieure à 2 Go. Veuillez d’abord l’extraire, puis importer les données à partir du dossier d’extraction.
 error-message-extract-zip-file-failed = Échec de l’extraction du fichier zip. Veuillez plutôt l’extraire manuellement, puis l’importer depuis le dossier extrait.
 error-message-failed = L’importation a échoué de manière inattendue, des informations supplémentaires peuvent être disponibles dans la console d’erreurs.
+error-failed-to-parse-ics-file = Aucun élément importable trouvé dans le fichier.
 error-export-failed = L’exportation a échoué de manière inattendue, des informations supplémentaires peuvent être disponibles dans la console d’erreurs.
 
 ## <csv-field-map> element
@@ -76,6 +90,8 @@ csv-target-field = Champ du carnet d’adresses
 
 ## Export tab
 
+export-profile-desc = Exportez les comptes de messagerie, les messages électroniques, les carnets d’adresses et les paramètres vers un fichier zip. Si nécessaire, vous pouvez importer le fichier zip pour restaurer votre profil.
+export-profile-desc2 = Si votre profil actuel est supérieur à 2 Go, nous vous recommandons de le sauvegarder vous-même.
 export-open-profile-folder = Ouvrir le dossier de profil
 export-file-picker = Exporter vers un fichier au format Zip
 export-brand-name = { -brand-product-name }
