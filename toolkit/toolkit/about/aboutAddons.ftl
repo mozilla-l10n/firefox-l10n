@@ -396,7 +396,12 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } үйлеспейді, осы { -brand-short-name } { $version } нұсқасымен.
+details-notification-unsigned-and-disabled = { $name } { -brand-short-name } ішінде қолданылу үшін растау мүмкін емес, сондықтан ол сөндірілді.
+details-notification-unsigned-and-disabled-link = Көбірек ақпарат
+details-notification-unsigned = { $name } { -brand-short-name } ішінде қолданылу үшін растау мүмкін емес. Абайлап жалғастырыңыз.
+details-notification-unsigned-link = Көбірек ақпарат
 details-notification-blocked = { $name } қауіпсіздік не тұрақтылық мәселелер салдарынан сөндірілген.
 details-notification-blocked-link = Көбірек ақпарат
 details-notification-softblocked = { $name } қауіпсіздік не тұрақтылықпен мәселелер туғызатыны белгілі.
 details-notification-softblocked-link = Көбірек ақпарат
+details-notification-gmp-pending = { $name } жақында орнатылады.
