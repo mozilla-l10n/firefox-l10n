@@ -383,3 +383,18 @@ addons-heading-search-input =
     .placeholder = търсене в addons.mozilla.org
 addon-page-options-button =
     .title = Инструменти за всички добавки
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = Добавката { $name } е несъвместима с { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled-link = Повече информация
+details-notification-unsigned-link = Повече информация
+details-notification-blocked = Добавката { $name } беше изключена поради съображения за сигурност или стабилност.
+details-notification-blocked-link = Повече информация
+details-notification-softblocked = Добавката { $name } може да причини проблеми със сигурността или стабилността.
+details-notification-softblocked-link = Повече информация
+details-notification-gmp-pending = Добавката { $name } ще бъде инсталирана след малко.
