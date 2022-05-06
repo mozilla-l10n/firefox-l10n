@@ -28,5 +28,7 @@ styleeditor-open-link-new-tab =
 styleeditor-copy-url =
     .label = URL 복사
 styleeditor-go-to-line =
-    .label = 지정 행 이동…
+    .label = 줄 이동…
     .accesskey = J
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = 일치하는 스타일 시트를 찾지 못했습니다.
