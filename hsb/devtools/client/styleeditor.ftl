@@ -8,6 +8,8 @@ styleeditor-new-button =
 styleeditor-import-button =
     .tooltiptext = Eksistowacy stil importować a k dokumentej připowěsnyć
     .accesskey = I
+styleeditor-filter-input =
+    .placeholder = Stilowe předłohi filtrować
 styleeditor-visibility-toggle =
     .tooltiptext = Widźomnosć stilowej předłohi přepinyć
     .accesskey = S
@@ -28,3 +30,5 @@ styleeditor-copy-url =
 styleeditor-go-to-line =
     .label = K slědowacej lince skočić…
     .accesskey = l
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Přihódna stilowa předłoha njeje so namakała.
