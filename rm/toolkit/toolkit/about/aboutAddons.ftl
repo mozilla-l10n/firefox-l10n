@@ -393,3 +393,20 @@ addons-heading-search-input =
     .placeholder = Tschertgar sin addons.mozilla.org
 addon-page-options-button =
     .title = Utensils per tut ils supplements
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } n'è betg cumpatibel cun { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = Impussibel da verifitgar { $name } per l'utilisaziun en { -brand-short-name }. Il suplement è vegnì deactivà.
+details-notification-unsigned-and-disabled-link = Ulteriuras infurmaziuns
+details-notification-unsigned = Impussibel da verifitgar { $name } per l'utilisaziun en { -brand-short-name }. Cuntinuar cun precauziun.
+details-notification-unsigned-link = Ulteriuras infurmaziuns
+details-notification-blocked = { $name } è vegnì deactivà pervia da problems da segirezza u da stabilitad.
+details-notification-blocked-link = Dapli infurmaziuns
+details-notification-softblocked = { $name } po chaschunar problems da segirezza u da stabilitad.
+details-notification-softblocked-link = Ulteriuras infurmaziuns
+details-notification-gmp-pending = { $name } vegn installà en curt mument.
