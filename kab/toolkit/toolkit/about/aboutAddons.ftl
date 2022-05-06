@@ -389,3 +389,16 @@ addons-heading-search-input =
     .placeholder = Nadi addons.mozilla.org
 addon-page-options-button =
     .title = Ifecka i yizegrar imaṛṛa
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } ur imṣada ara d { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled-link = Ugar n telɣut
+details-notification-unsigned-link = Ugar n telɣut
+details-notification-blocked-link = Ugar n telɣut
+details-notification-softblocked-link = Ugar n telɣut
+details-notification-gmp-pending = { $name } ad iţwasebded si sya ɣer da.
