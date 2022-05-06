@@ -228,7 +228,12 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } əlavəsi { -brand-short-name } { $version } ile uyğun deyil.
+details-notification-unsigned-and-disabled = { $name } { -brand-short-name } üzərində işlədilmək üçün təsdiqlənə bilmədi və söndürüldü.
+details-notification-unsigned-and-disabled-link = Ətraflı Məlumat
+details-notification-unsigned = { $name } { -brand-short-name } üzərində işlədilmək üçün təsdiqlənə bilmədi. Ehtiyyatla davam edin.
+details-notification-unsigned-link = Ətraflı Məlumat
 details-notification-blocked = { $name } təhlükəsizlik və sabitlik səbəbi ilə söndürüldü.
 details-notification-blocked-link = Daha çox məlumati
 details-notification-softblocked = { $name } əlavəsinin təhlükəsizlik və ya sabitlik problemlərinə səbəb olduğu məlumdur.
 details-notification-softblocked-link = Daha çox məlumati
+details-notification-gmp-pending = { $name } qısa müddətdə quraşdırılacaq.
