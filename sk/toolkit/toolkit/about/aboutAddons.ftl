@@ -396,3 +396,15 @@ addons-heading-search-input =
     .placeholder = Hľadať na addons.mozilla.org
 addon-page-options-button =
     .title = Nástroje pre všetky doplnky
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = Doplnok { $name } nie je kompatibilný s verziou { $version } aplikácie { -brand-short-name }.
+details-notification-blocked = Doplnok { $name } bol zablokovaný kvôli problémom so stabilitou alebo bezpečnosťou.
+details-notification-blocked-link = Ďalšie informácie
+details-notification-softblocked = Doplnok { $name } zapríčiňuje problémy so stabilitou alebo bezpečnosťou.
+details-notification-softblocked-link = Ďalšie informácie
