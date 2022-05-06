@@ -392,3 +392,20 @@ addons-heading-search-input =
     .placeholder = Kërkoni te addons.mozilla.org
 addon-page-options-button =
     .title = Mjete për krejt shtesat
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } është e papërputhshme me { -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = { $name } s’u verifikua dot për përdorim te { -brand-short-name } dhe u çaktivizua.
+details-notification-unsigned-and-disabled-link = Më Tepër të Dhëna
+details-notification-unsigned = { $name } s’u verifikua dot për përdorim te { -brand-short-name }. Vazhdoni, por me kujdes.
+details-notification-unsigned-link = Më Tepër të Dhëna
+details-notification-blocked = { $name } është çaktivizuar për shkak problemesh sigurie ose qëndrueshmërie.
+details-notification-blocked-link = Më Tepër të Dhëna
+details-notification-softblocked = { $name } njihet si shkaktare problemesh sigurie ose qëndrueshmërie.
+details-notification-softblocked-link = Më Tepër të Dhëna
+details-notification-gmp-pending = { $name } do të instalohet pas pak.
