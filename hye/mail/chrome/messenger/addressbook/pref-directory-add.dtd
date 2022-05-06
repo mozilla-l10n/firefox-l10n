@@ -22,20 +22,21 @@
 <!ENTITY searchFilter.label                "Որոնման զտում.">
 <!ENTITY searchFilter.accesskey            "զ">
 <!ENTITY scope.label                       "Շրջանակ:">
-<!ENTITY scope.accesskey                   "c">
+<!ENTITY scope.accesskey                   "ր">
 <!ENTITY scopeOneLevel.label               "Առաջին մակարդակ">
-<!ENTITY scopeOneLevel.accesskey           "L">
+<!ENTITY scopeOneLevel.accesskey           "մ">
 <!ENTITY scopeSubtree.label                "Ենթախումբ">
-<!ENTITY return.label                      "Մի՛ վերադարձրեք աւելին, քան․․․">
-<!ENTITY return.accesskey                  "r">
+<!ENTITY scopeSubtree.accesskey            "Ե">
+<!ENTITY return.label                      "Մի՛ վերադարձրէք աւելին, քան․․․">
+<!ENTITY return.accesskey                  "վ">
 <!ENTITY results.label                     "արդիւնքներ">
 <!ENTITY offlineText.label                 "Կարող էք ներբեռնել այս գրացուցակի տեղական պատճէնը ,որպէսզի լինի հասանելի անցանց աւգտագրծման դեպքում։">
 <!ENTITY saslMechanism.label               "Մուտքի եղանակ․">
-<!ENTITY saslMechanism.accesskey           "m">
+<!ENTITY saslMechanism.accesskey           "ե">
 <!ENTITY saslOff.label                     "Հասարակ">
-<!ENTITY saslOff.accesskey                 "l">
+<!ENTITY saslOff.accesskey                 "ա">
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
-<!ENTITY saslGSSAPI.accesskey              "Կ">
+<!ENTITY saslGSSAPI.accesskey              "K">
 
 <!-- Localization note: this is here because the width of the dialog
      is determined by the width of the base DN box; and that is likely
