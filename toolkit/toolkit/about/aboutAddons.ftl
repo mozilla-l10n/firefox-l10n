@@ -382,3 +382,15 @@ addons-heading-search-input =
     .placeholder = Bilatu addons.mozilla.org gunean
 addon-page-options-button =
     .title = Tresnak gehigarri guztientzat
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } bateraezina da { -brand-short-name } { $version } bertsioarekin.
+details-notification-blocked = { $name } desgaitu egin da segurtasun- edo egonkortasun-arazoengatik.
+details-notification-blocked-link = Informazio gehiago
+details-notification-softblocked = { $name } gehigarriak segurtasun- edo egonkortasun-arazoak eragiten dituela jakina da.
+details-notification-softblocked-link = Informazio gehiago
