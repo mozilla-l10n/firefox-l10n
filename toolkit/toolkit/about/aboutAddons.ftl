@@ -382,7 +382,12 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } אינו תואם ל־{ -brand-short-name } { $version }.
+details-notification-unsigned-and-disabled = לא ניתן לאמת את { $name } לשימוש ב־{ -brand-short-name } ולכן תוספת זו נוטרלה.
+details-notification-unsigned-and-disabled-link = מידע נוסף
+details-notification-unsigned = לא ניתן לאמת את { $name } לשימוש ב־{ -brand-short-name }. נא להיזהר.
+details-notification-unsigned-link = מידע נוסף
 details-notification-blocked = התוספת { $name } נחסמה עקב בעיות אבטחה או יציבות.
 details-notification-blocked-link = מידע נוסף
 details-notification-softblocked = התוספת { $name } נודעת בגרימת בעיות אבטחה או יציבות.
 details-notification-softblocked-link = מידע נוסף
+details-notification-gmp-pending = התוספת { $name } תותקן בהקדם.
