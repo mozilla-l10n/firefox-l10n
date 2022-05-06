@@ -351,3 +351,15 @@ addons-heading-search-input =
     .placeholder = جست‌ و جو addons.mozilla.org
 addon-page-options-button =
     .title = ابزارهای مخصوص همهٔ افزودنی‌ها
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } با نسخهٔ { $version } از { -brand-short-name } ناسازگار است.
+details-notification-blocked = { $name } به دلیل مشکلات امنیتی یا پایداری غیر فعال گردیده است.
+details-notification-blocked-link = اطلاعات بیشتر
+details-notification-softblocked = { $name } مشکلات امنیتی یا پایداری ایجاد می‌کند.
+details-notification-softblocked-link = اطلاعات بیشتر
