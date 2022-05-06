@@ -459,6 +459,7 @@ compose-send-both-option =
 compose-send-both-description = L’application de messagerie du destinataire déterminera la version à afficher.
 compose-send-html-option =
     .label = Uniquement en HTML
+compose-send-html-description = Certains destinataires peuvent ne pas être en mesure de lire le message sans possibilité d’avoir recours au texte brut.
 compose-send-plain-option =
     .label = Uniquement en texte brut
 compose-send-plain-description = Certains styles seront convertis en une alternative simple, tandis que d’autres fonctionnalités de rédaction seront désactivées.
