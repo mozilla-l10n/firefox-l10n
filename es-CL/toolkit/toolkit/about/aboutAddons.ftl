@@ -387,7 +387,15 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } es incompatible con { -brand-short-name } { $version }.
 details-notification-unsigned-and-disabled = { $name } no pudo ser verificado para su uso en { -brand-short-name } y ha sido desactivado.
 details-notification-unsigned-and-disabled-link = Más información
+details-notification-unsigned = { $name } no pudo ser verificado para su uso en { -brand-short-name }. Procede con precaución.
 details-notification-unsigned-link = Más información
+details-notification-blocked = { $name } ha sido deshabilitado debido a problemas de seguridad o estabilidad.
+details-notification-blocked-link = Más información
+details-notification-softblocked = { $name } es conocido por causar problemas de seguridad o de estabilidad
+details-notification-softblocked-link = Más información
 details-notification-gmp-pending = { $name } será instalado en breve.
