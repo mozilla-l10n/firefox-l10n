@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Contact.tab                     "Կապորդ">
-<!ENTITY Contact.accesskey               "C">
+<!ENTITY Contact.accesskey               "Կ">
 <!ENTITY Name.box                        "Անուն">
 
 <!-- LOCALIZATION NOTE:
@@ -24,30 +24,31 @@
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Առաջին․">
-<!ENTITY NameField1.accesskey           "F">
+<!ENTITY NameField1.accesskey           "Ա">
 <!ENTITY NameField2.label               "Վերջին․">
-<!ENTITY NameField2.accesskey           "L">
+<!ENTITY NameField2.accesskey           "Վ">
 <!ENTITY PhoneticField1.label           "Արտասանութիւն:">
 <!ENTITY PhoneticField2.label           "Արտասանութիւն:">
 <!ENTITY DisplayName.label              "Ցուցադրիչ․">
-<!ENTITY DisplayName.accesskey          "D">
+<!ENTITY DisplayName.accesskey          "Ց">
 <!ENTITY preferDisplayName.label        "Միշտ նամակի անունը ցուցադրել գլխագրից վեր">
-<!ENTITY preferDisplayName.accesskey    "y">
+<!ENTITY preferDisplayName.accesskey    "շ">
 <!ENTITY NickName.label                 "Մականուն․">
-<!ENTITY NickName.accesskey             "Կ">
+<!ENTITY NickName.accesskey             "Մ">
 
 <!ENTITY PrimaryEmail.label             "Եղեկտրոնային հասցէ․">
 <!ENTITY PrimaryEmail.accesskey         "Ե">
 <!ENTITY SecondEmail.label              "Լրացուցիչ եղեկտրոնային հասցէ․">
+<!ENTITY SecondEmail.accesskey          "ու">
 <!ENTITY PreferMailFormat.label         "Նախընտրում է ստանալ հաղորդագրութիւնները ձեւաչափուած որպէս՝">
-<!ENTITY PreferMailFormat.accesskey     "v">
+<!ENTITY PreferMailFormat.accesskey     "ա">
 <!ENTITY PlainText.label                "Պարզ գրուածք">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Անյայտ">
 <!ENTITY chatName.label                 "Զրուցարանի անուանում․">
 
 <!ENTITY WorkPhone.label                "Աշխատանքային․">
-<!ENTITY WorkPhone.accesskey            "k">
+<!ENTITY WorkPhone.accesskey            "ք">
 <!ENTITY HomePhone.label                "Տուն․">
 <!ENTITY HomePhone.accesskey            "m">
 <!ENTITY FaxNumber.label                "Հեռապատճէն.">

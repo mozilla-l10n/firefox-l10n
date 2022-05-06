@@ -12,12 +12,14 @@
 <!ENTITY editButton.label "Խմբագրել…">
 <!ENTITY editButton.accesskey "Խ">
 <!ENTITY deleteButton.label "Ջնջել">
+<!ENTITY deleteButton.accesskey "ե">
 <!ENTITY reorderTopButton "Տեղափոխել վերեւ">
+<!ENTITY reorderTopButton.accessKey "ե">
 <!ENTITY reorderTopButton.toolTip "Վերադասաւորել զտիչը, որ այն գործի բոլորից առաջ">
 <!ENTITY reorderUpButton.label "Տեղափոխել վերեւ">
 <!ENTITY reorderUpButton.accesskey "Վ">
 <!ENTITY reorderDownButton.label "Տեղափոխել ներքեւ">
-<!ENTITY reorderDownButton.accesskey "Վ">
+<!ENTITY reorderDownButton.accesskey "ն">
 <!ENTITY reorderBottomButton "Տեղափոխել դեպի ներքեւ">
 <!ENTITY reorderBottomButton.accessKey "Ն">
 <!ENTITY reorderBottomButton.toolTip "Վերադասաւորել զտիչը, որ այն գործի բոլորից յետոյ">
@@ -31,6 +33,8 @@
 <!ENTITY stopFilters.label "Կանգնեցնել">
 <!ENTITY stopFilters.accesskey "Կ">
 <!ENTITY folderPickerPrefix.label "Աշխատեցնել ընտրուած զտիչները.">
+<!ENTITY folderPickerPrefix.accesskey "ա">
 <!ENTITY helpButton.label "Աւգնութիւն">
 <!ENTITY helpButton.accesskey "Աւ">
+<!ENTITY closeCmd.key "W">
 <!ENTITY searchBox.emptyText "Որոնել զտիչներ անունով…">
