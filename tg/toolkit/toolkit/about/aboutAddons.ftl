@@ -307,3 +307,20 @@ addons-heading-search-input =
     .placeholder = Ҷустуҷӯ дар addons.mozilla.org
 addon-page-options-button =
     .title = Абзорҳо барои ҳамаи ҷузъҳои иловагӣ
+
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
+# Variables:
+#   $version (String): application version.
+details-notification-incompatible = { $name } ба { -brand-short-name } { $version } мувофиқат намекунад.
+details-notification-unsigned-and-disabled = Истифодаи { $name } дар { -brand-short-name } санҷида нашуд ва бо ин сабаб ғайрифаъол карда шуд.
+details-notification-unsigned-and-disabled-link = Маълумоти бештар
+details-notification-unsigned = Истифодаи { $name } дар { -brand-short-name } санҷида нашуд. Бо эҳтиёт истифода баред.
+details-notification-unsigned-link = Маълумоти бештар
+details-notification-blocked = Ба сабабҳои мушкилиҳои амниятӣ ё ноустувории кор, { $name } ғайрифаъол карда шуд.
+details-notification-blocked-link = Маълумоти бештар
+details-notification-softblocked = { $name } мушкилиҳои амниятӣ ва ноустувории корро ба вуҷуд меорад.
+details-notification-softblocked-link = Маълумоти бештар
+details-notification-gmp-pending = { $name } ба зудӣ насб карда мешавад.
