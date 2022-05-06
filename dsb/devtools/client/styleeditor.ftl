@@ -8,6 +8,8 @@ styleeditor-new-button =
 styleeditor-import-button =
     .tooltiptext = Eksistěrujucy stil importěrowaś a k dokumentoju pśipowjesyś
     .accesskey = I
+styleeditor-filter-input =
+    .placeholder = Stilowe pśedłogi filtrowaś
 styleeditor-visibility-toggle =
     .tooltiptext = Widobnosć stiloweje pśedłogi pśepěś
     .accesskey = S
@@ -28,3 +30,5 @@ styleeditor-copy-url =
 styleeditor-go-to-line =
     .label = K slědujucej smužce skócyś…
     .accesskey = l
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Pśigódna stilowa pśedłoga njejo se namakała.
