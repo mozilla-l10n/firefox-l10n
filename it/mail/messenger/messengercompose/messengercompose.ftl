@@ -396,6 +396,7 @@ cloud-file-account-error = Non è stato possibile aggiornare l’allegato Fileli
 ## Link Preview
 
 link-preview-title = Anteprima del link
+link-preview-description = { -brand-short-name } può incorporare un’anteprima quando viene inserito un link.
 link-preview-autoadd = Aggiungi automaticamente un’anteprima dei link quando possibile
 link-preview-replace-now = Aggiungere un’anteprima per questo link?
 link-preview-yes-replace = Sì
