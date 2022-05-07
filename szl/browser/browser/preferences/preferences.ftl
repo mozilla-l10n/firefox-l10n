@@ -215,6 +215,30 @@ preferences-web-appearance-choice-tooltip-browser =
     .title = Przipasuj sztalōnki motywu aplikacyje { -brand-short-name } do zadku i zawartości strōny.
 preferences-web-appearance-choice-tooltip-system =
     .title = Przipasuj sztalōnki motywu aplikacyje do zadku i zawartości strōny.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Używej jasnego wyglōndu zadku i zawartości strōn.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Używej ćmawego wyglōndu zadku i zawartości strōn.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Sztalōnki farbōw nadpisujōm wyglōnd strōny. <a data-l10n-name="colors-link">Regiyruj farbami</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Regiyruj motywami aplikacyje { -brand-short-name } w <a data-l10n-name="themes-link">Rozszyrzynia i motywy</a>
+preferences-colors-header = Farby
+preferences-colors-description = Nadpisuj bazowe farby aplikacyje { -brand-short-name } do tekstu, zadkōw strōn i linkōw.
+preferences-colors-manage-button =
+    .label = Regiyruj farbami…
+    .accesskey = R
+preferences-fonts-header = Fōnty
 default-font = Bazowy fōnt
     .accesskey = B
 default-font-size = Srogość
@@ -248,6 +272,7 @@ confirm-browser-language-change-button = Wkludź i resztartuj
 translate-web-pages =
     .label = Przekłodanie strōn
     .accesskey = P
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Przekłady ôd <img data-l10n-name="logo"/>
@@ -360,6 +385,10 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Co { -brand-short-name } mo zrobić z inkszymi zbiorami?
+applications-save-for-new-types =
+    .label = Spamiyntej zbiory
+    .accesskey = S
 drm-content-header = Zawartość Digital Rights Management (DRM)
 play-drm-content =
     .label = Puszczanie zawartości brōniōnyj ôd DRM
@@ -433,6 +462,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Używej miynkigo przesuwanio
     .accesskey = m
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Zawdy pokazuj poski przewijanio
+    .accesskey = o
 browsing-use-onscreen-keyboard =
     .label = Jak trza, pokazuj tastatura do tykanio
     .accesskey = t
