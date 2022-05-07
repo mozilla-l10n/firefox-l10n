@@ -148,6 +148,21 @@ spotlight-public-wifi-vpn-link = Niy teroz
 
 ## Total Cookie Protection Rollout
 
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    Sprōbuj naszyj nojsiylniyjszyj
+    funkcyji do ôchrōny prywatności
+spotlight-total-cookie-protection-body = Połno ôchrōna cookies zastawio śledzōnce elymynty, coby niy używały cookies do śledzynio cie po internecie.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } buduje naôbkoło cookies płot, bez co ôstowajōm na strōnie, na keryj żeś je, tak co sledzōnce elymynty niy mogōm ich użyć do śledzynio cie. Jak załōnczysz ta fōnkcyjo, to pōmożesz jōm zôptymalizować, tak co poradzymy durch budować lepszy internet do wszyskich.
+spotlight-total-cookie-protection-primary-button = Załōncz połno ôchrōna cookies
+spotlight-total-cookie-protection-secondary-button = Niy teroz
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Lepszy internet zaczyno sie ôd ciebie
+spotlight-better-internet-body = Jak używosz aplikacyje { -brand-short-name }, to welujesz ôtwarty, dostympniyjszy internet, co je lepszy do wszyskich.
+spotlight-peace-mind-header = Dowōmy na ciebie pozōr
+spotlight-peace-mind-body = Kożdy miesiōnc { -brand-short-name } szperuje kole 3,000 śledzōncych elymyntōw na użytkownika. Bo nic, a ôsobliwie niy takie detajle jak sledzōnce elymynty, niy śmiōm stoć miyndzy tobōm a dobrym internetym.
