@@ -296,6 +296,8 @@ openpgp-description =
         [one] Το Thunderbird βρήκε { $count } προσωπικό κλειδί OpenPGP που σχετίζεται με το <b>{ $identity }</b>
        *[other] Το Thunderbird βρήκε { $count } προσωπικά κλειδιά OpenPGP που σχετίζονται με το <b>{ $identity }</b>
     }
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = Το { -brand-short-name } δεν έχει προσωπικό κλειδί OpenPGP για <b>{ $identity }</b>
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Η τρέχουσα ρύθμισή σας χρησιμοποιεί το ID κλειδιού <b>{ $key }</b>
 #   $key (String) - the currently selected OpenPGP key

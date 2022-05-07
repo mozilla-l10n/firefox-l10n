@@ -6,8 +6,11 @@ import-page-title = Εισαγωγή
 
 ## Header
 
+import-start = Εργαλείο εισαγωγής
+import-start-desc = Εισαγάγετε ρυθμίσεις ή δεδομένα από μια εφαρμογή ή αρχείο.
 import-from-app = Εισαγωγή από εφαρμογή
 import-from-app-desc = Επιλέξτε για εισαγωγή Λογαριασμών, Βιβλίων διευθύνσεων, Ημερολογίων και άλλων δεδομένων από:
+import-from-file = Εισαγωγή από αρχείο
 import-address-book = Εισαγωγή αρχείου ευρετηρίου
 import-calendar = Εισαγωγή αρχείου ημερολογίου
 export-profile = Εξαγωγή
@@ -26,6 +29,13 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-file = Εισαγωγή από αρχείο
+
+## Import from file selections
+
+file-profile = Εισαγωγή εφεδρικού προφίλ (.zip)
+file-calendar = Εισαγωγή ημερολογίων
+file-addressbook = Εισαγωγή ευρετηρίων διευθύνσεων
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Εισαγωγή από { $app }
@@ -66,7 +76,6 @@ calendar-import-into-new-calendar = Δημιουργία νέου ημερολο
 
 ## Import dialog
 
-progress-pane-title = Εισαγωγή
 progress-pane-importing = Εισαγωγή
 progress-pane-exporting = Εξαγωγή
 progress-pane-finished-desc = Ολοκληρώθηκε.
