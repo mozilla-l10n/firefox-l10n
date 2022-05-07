@@ -8,6 +8,9 @@ places-open =
 places-open-in-tab =
     .label = Ôdewrzij w nowyj karcie
     .accesskey = w
+places-open-in-container-tab =
+    .label = Ôtwōrz we nowyj kōntynerowyj karcie
+    .accesskey = i
 places-open-all-bookmarks =
     .label = Ôdewrzij wszyskie zokłodki
     .accesskey = O
@@ -81,6 +84,18 @@ places-remove-folder =
            *[many] Wyciep katalogi
         }
     .accesskey = w
+places-edit-folder2 =
+    .label = Edytuj katalog
+    .accesskey = E
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Skasuj katalogi
+            [one] Skasuj katalog
+            [few] Skasuj katalogi
+           *[many] Skasuj katalogi
+        }
+    .accesskey = S
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Regiyrowane zokłodki
@@ -101,9 +116,28 @@ places-remove-bookmark =
            *[many] Wyciep zokłodki
         }
     .accesskey = e
+places-show-in-folder =
+    .label = Pokoż w katalogu
+    .accesskey = P
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Kasuj zokłodki
+            [one] Skasuj zokłodka
+            [few] Skasuj zokłodki
+           *[many] Skasuj zokłodki
+        }
+    .accesskey = K
 places-manage-bookmarks =
     .label = Regiyruj zokłodkami
     .accesskey = R
+places-forget-about-this-site-confirmation-title = Przepōminanie tyj strōny
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Ta akcyjo skasuje wszyskie dane zwiōnzane ze serwerym { $hostOrBaseDomain }, w tym historyjo, hasła, cookies, podrynczno pamiyńć i sztalōnki zawartości. Na zicher chcesz iść dalij?
+places-forget-about-this-site-forget = Przepōmnij
 places-library =
     .title = Bibliotyka
     .style = width:700px; height:500px;
