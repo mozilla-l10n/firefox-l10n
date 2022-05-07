@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Rykōmyndowano funkcyjo
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Po jakimu to widza?
-
 cfr-doorhanger-extension-cancel-button = Niy teroz
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Przidej teroz
     .accesskey = P
-
 cfr-doorhanger-extension-manage-settings-button = Nasztalowania rykōmyndacyji
     .accesskey = n
-
 cfr-doorhanger-extension-never-show-recommendation = Niy pokozuj mi tyj rykōmyndacyje
     .accesskey = T
-
 cfr-doorhanger-extension-learn-more-link = Przewiydz sie wiyncyj
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = autōr: { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekōmyndacyjo
 cfr-doorhanger-extension-notification2 = Rekōmyndacyjo
     .tooltiptext = Rekōmyndacyjo rozszyrzynio
     .a11y-announcement = Rekōmyndacyjo rozszyrzynio je dostympno
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekōmyndacyjo
@@ -67,9 +59,6 @@ cfr-doorhanger-extension-total-users =
        *[many] { $total } użytkownikōw
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Miyj swoje zokłodki wszyńdzie zsynchrōnizowane.
@@ -90,32 +79,10 @@ cfr-protections-panel-link-text = Przewiydz sie wiyncyj
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nowo funkcyjo:
-
 cfr-whatsnew-button =
     .label = Co je nowego
     .tooltiptext = Co je nowego
-
 cfr-whatsnew-release-notes-link-text = Poczytej informacyje ô wydaniu
-
-## Search Bar
-
-## Search bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -130,25 +97,8 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Pokoż wszyskie
     .accesskey = P
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Zawrzij
     .accesskey = Z
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -168,18 +118,6 @@ cfr-doorhanger-fission-primary-button = OK, rozumia
 cfr-doorhanger-fission-secondary-button = Przewiydz sie wiyncyj
     .accesskey = P
 
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Przi tyj wersyji aplikacyje { -brand-short-name } filmy na tyj strōnie mogōm sie niy puszczać dobrze. Zaktualizuj aplikacyjo { -brand-short-name }, coby mieć pōłno ôbsuga filmōw.
@@ -187,9 +125,29 @@ cfr-doorhanger-video-support-header = Zaktualizuj aplikacyjo { -brand-short-name
 cfr-doorhanger-video-support-primary-button = Aktualizuj teroz
     .accesskey = A
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = Przewiydz sie wiyncyj
+    .title = Rozszyrz, coby przewiedzieć sie wiyncyj ô tyj funkcyji
+spotlight-learn-more-expanded = Przewiydz sie wiyncyj
+    .title = Zawrzij
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
+
+# This header text can be explicitly wrapped.
+spotlight-public-wifi-vpn-header = Zdo sie, iże używosz publicznego necu Wi-Fi
+spotlight-public-wifi-vpn-body = Coby skryć informacyje ô swojim placu i przeglōndaniu, rozwoż wirtualny prywatny nec. Pōmoże ci ôstać pod ôchrōnōm, jak przeglōndosz w publicznych placach: lotniskach abo kafyjach.
+spotlight-public-wifi-vpn-primary-button = Chrōń przywatność z usugōm { -mozilla-vpn-brand-name }
+    .accesskey = C
+spotlight-public-wifi-vpn-link = Niy teroz
+    .accesskey = N
+
+## Total Cookie Protection Rollout
+
+
+## Emotive Continuous Onboarding
 
