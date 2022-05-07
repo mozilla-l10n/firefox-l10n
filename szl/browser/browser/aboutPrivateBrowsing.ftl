@@ -23,10 +23,23 @@ about-private-browsing-not-private = Niy je żeś teroz we prywatnym ôknie.
 about-private-browsing-info-description = { -brand-short-name } ôprōznio historyjo wyszukowanio i przeglōndanio, jak wyłōnczysz aplikacyjo abo jak zawrzisz wszyske prywatne karty i ôkna. Skuli tego niy je sie anonimowym do strōn ani dostowcōw necowych usug. Snadnij ale możesz skryć swoja aktywność w internecie przed inkszymi, co używajōm tego kōmputra.
 about-private-browsing-need-more-privacy = Potrzebujesz wiynkszyj prywatności?
 about-private-browsing-turn-on-vpn = Sprōbuj { -mozilla-vpn-brand-name(case: "acc") }
+about-private-browsing-info-description-private-window = Prywatne ôkno: { -brand-short-name } pucuje twoja historyjo szukanio i przeglōndanio, jak zawrzesz wszyskie prywatne ôkna. To niy dowo ci anonimowości.
+about-private-browsing-info-description-simplified = Prywatne ôkno: { -brand-short-name } pucuje twoja historyjo szukanio i przeglōndanio, jak zawrzesz wszyskie prywatne ôkna, ale niy dowo ci to anonimowości.
 about-private-browsing-learn-more-link = Przewiydz sie wiyncyj
+about-private-browsing-hide-activity = Skryj swoja aktywność i plac wszyńdzie, kaj przeglōndosz
+about-private-browsing-get-privacy = Chrōń swoja prywatność wszyńdzie, kaj przeglōndosz
+about-private-browsing-hide-activity-1 = Skryj swoje przeglōndanie i plac z usugōm { -mozilla-vpn-brand-name }. Jednym klikniyńciym rychtujesz bezpieczne połōnczynie, tyż w publicznych necach Wi-Fi.
+about-private-browsing-prominent-cta = Chrōń przywatność z usugōm { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Pobier { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: prywatnie przeglōndanie w drōdze
+about-private-browsing-focus-promo-text = Nasza szpecjalno mobilniokowo aplikacyjo do prywatnego przeglōndanio kożdy roz pucuje twoja historyjo i cookies.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = Używej prywatnego przeglōndanio na swojim telefōnie
+about-private-browsing-focus-promo-text-b = Używej { -focus-brand-name(case: "acc") } to tych prywatnych zeszukiwań, co ich niy mo uwidzieć głōwno przeglōndarka na mobilnioku.
+about-private-browsing-focus-promo-header-c = Wyższy poziōm prywatności na mobilnioku
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } kożdy roz pucuje twoja historyjo, a ku tymu szperuje reklamy i śledzōnce elymynty.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -39,3 +52,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Zawrzij
+about-private-browsing-promo-close-button =
+    .title = Zawrzij
