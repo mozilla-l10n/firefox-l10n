@@ -125,6 +125,7 @@ about-addressbook-confirm-delete-contacts =
 ## Details
 
 about-addressbook-begin-edit-contact-button = Breyta
+about-addressbook-delete-edit-contact-button = Eyða
 about-addressbook-cancel-edit-contact-button = Hætta við
 about-addressbook-save-edit-contact-button = Vista
 about-addressbook-details-email-addresses-header = Tölvupóstfang

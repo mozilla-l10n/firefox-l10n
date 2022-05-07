@@ -6,8 +6,11 @@ import-page-title = Flytja inn
 
 ## Header
 
+import-start = Innflutningsverkfæri
+import-start-desc = Flytja inn stillingar eða gögn úr forriti eða skrá.
 import-from-app = Flytja inn úr forriti
 import-from-app-desc = Velja að flytja inn reikninga, nafnaskrár, dagatöl og önnur gögn frá:
+import-from-file = Flytja inn úr skrá
 import-address-book = Flytja inn nafnaskrá
 import-calendar = Flytja inn dagatalsskrá
 export-profile = Flytja út
@@ -26,6 +29,12 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-file = Flytja inn úr skrá
+
+## Import from file selections
+
+file-calendar = Flytja inn dagatöl
+file-addressbook = Flytja inn nafnaskrár
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Flytja inn úr { $app }
@@ -66,7 +75,6 @@ calendar-import-into-new-calendar = Búa til nýtt dagatal
 
 ## Import dialog
 
-progress-pane-title = Flyt inn
 progress-pane-importing = Innflutningur
 progress-pane-exporting = Útflutningur
 progress-pane-finished-desc = Lokið.
