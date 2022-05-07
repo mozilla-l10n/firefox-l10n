@@ -244,6 +244,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Tipo
 openpgp-key-details-key-part-label =
     .label = Parte della chiave
+openpgp-key-details-attr-ignored = Attenzione: questa chiave potrebbe non funzionare come previsto, poiché alcune delle sue proprietà non sono sicure e potrebbero essere ignorate.
 openpgp-key-details-algorithm-label =
     .label = Algoritmo
 openpgp-key-details-size-label =
@@ -294,6 +295,15 @@ openpgp-description =
         [0] Thunderbird non dispone di una chiave personale OpenPGP per <b>{ $identity }</b>
         [one] Thunderbird ha trovato { $count } chiave personale OpenPGP associata a <b>{ $identity }</b>
        *[other] Thunderbird ha trovato { $count } chiavi personali OpenPGP associate a <b>{ $identity }</b>
+    }
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name } non ha una chiave personale OpenPGP per <b>{ $identity }</b>
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] { -brand-short-name } ha trovato una chiave personale OpenPGP associata a <b>{ $identity }</b>
+       *[other] { -brand-short-name } ha trovato { $count } chiavi personali OpenPGP associate a <b>{ $identity }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = La configurazione attuale utilizza la chiave con ID <b>{ $key }</b>
@@ -357,8 +367,6 @@ key-verification = Verifica l’impronta digitale della chiave con un canale di 
 cannot-use-own-key-because = Impossibile inviare il messaggio perché si è verificato un problema con la chiave personale. { $problem }
 cannot-encrypt-because-missing = Impossibile inviare questo messaggio con la crittografia end-to-end poiché ci sono problemi con le chiavi dei seguenti destinatari: { $problem }
 window-locked = La finestra di composizione è bloccata; invio annullato
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Parte crittata del messaggio
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Questa è una parte crittata del messaggio. È necessario aprirlo in una finestra separata facendo clic sull’allegato.
 # Strings in keyserver.jsm
