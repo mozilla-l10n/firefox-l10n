@@ -6,8 +6,10 @@ import-page-title = Kter
 
 ## Header
 
+import-start = Kter ifecka
 import-from-app = Kter seg usnas
 import-from-app-desc = Fren aktar n yimiḍanen, imedlisen n tansiwin, iwitayen akked yisefka-nniḍen seg:
+import-from-file = Kter seg ufaylu
 import-address-book = Kter afaylu n umedlis n tansiwin
 import-calendar = Kter afaylu n uwitay
 export-profile = Sifeḍ
@@ -26,6 +28,12 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-file = Kter seg ufaylu
+
+## Import from file selections
+
+file-calendar = Kter iwitayen
+file-addressbook = Kter imedlisen n tansiwin
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Kter seg { $app }

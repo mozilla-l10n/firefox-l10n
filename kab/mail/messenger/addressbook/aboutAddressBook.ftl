@@ -125,6 +125,7 @@ about-addressbook-confirm-delete-contacts =
 ## Details
 
 about-addressbook-begin-edit-contact-button = Ẓreg
+about-addressbook-delete-edit-contact-button = Kkes
 about-addressbook-cancel-edit-contact-button = Sefsex
 about-addressbook-save-edit-contact-button = Sekles
 about-addressbook-details-email-addresses-header = Tansiwin n yimayl
