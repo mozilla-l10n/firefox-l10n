@@ -33,6 +33,7 @@ source-file = Flytja inn úr skrá
 
 ## Import from file selections
 
+file-profile = Flytja inn afritað notandasnið (.zip)
 file-calendar = Flytja inn dagatöl
 file-addressbook = Flytja inn nafnaskrár
 # Variables:

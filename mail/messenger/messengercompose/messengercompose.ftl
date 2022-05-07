@@ -397,3 +397,7 @@ cloud-file-account-error = Mistókst að uppfæra Filelink-viðhengið { $filena
 ## Link Preview
 
 link-preview-title = Forskoðun tengla
+link-preview-description = { -brand-short-name } getur bætt við ívafinni forskoðun þegar tenglar eru límdir.
+link-preview-autoadd = Bæta sjálfkrafa við forskoðunum tengla þegar mögulegt er
+link-preview-replace-now = Bæta við forskoðun tengils fyrir þennan tengil?
+link-preview-yes-replace = Já
