@@ -9,11 +9,6 @@ experimental-features-css-masonry2 =
 experimental-features-css-masonry-description = Включает поддержку экспериментальной «Masonry-раскладки» в CSS. Прочтите <a data-l10n-name="explainer">объяснения</a> для получения высокоуровневого описания функции. Оставляйте свои отзывы и комментарии в <a data-l10n-name="w3c-issue">этой issue на GitHub</a> или в <a data-l10n-name="bug">этом баг-репорте</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-css-cascade-layers =
-    .label = CSS: Каскадные Слои
-experimental-features-css-cascade-layers-description = Включает поддержку каскадных слоев CSS. Для получения подробностей см. <a data-l10n-name="spec">спецификацию в стадии разработки</a>. В случае возникновения проблем, вызванных этой возможностью, создавайте сообщения об ошибках с блокировкой <a data-l10n-name="bugzilla">запроса 1699215</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Этот новый API предоставляет низкоуровневую поддержку совершения вычислений и отображения графики с помощью <a data-l10n-name="wikipedia">графических процессоров (GPU)</a> компьютера пользователя. <a data-l10n-name="spec">Спецификация</a> всё ещё находится в разработке. Дополнительную информацию можно узнать в  <a data-l10n-name="bugzilla">баге 1602129</a>.
@@ -59,7 +54,7 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Кук
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = Кэш запуска about:home
-experimental-features-abouthome-startup-cache-description = Кэш для изначального документа about:home, который загружается по умолчанию при запуске. Целью кеша является повышение скорости запуска.
+experimental-features-abouthome-startup-cache-description = Кэширование начальной страницы about:home, по умолчанию загружающейся при запуске. Целью кэширования является повышение скорости запуска.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -94,7 +89,3 @@ experimental-features-multi-pip-description = Экспериментальная
 experimental-features-ime-search =
     .label = Адресная строка: показывать результаты при составлении IME
 experimental-features-ime-search-description = IME (Input Method Editor - Редактор методов ввода) - это инструмент, позволяющий вводить сложные символы, например, используемые в письменности языков Восточной Азии или Индии, с помощью стандартной клавиатуры. Включение этого эксперимента позволит держать панель адресной строки открытой, показывая результаты поиска и предложения при использовании IME для ввода текста. Обратите внимание, что IME может отображать панель, закрывающую результаты адресной строки, поэтому данная настройка предлагается только для IME не использующего этот тип панели.
-# Firefox 100
-experimental-features-firefox-100 =
-    .label = Строка User-Agent { -brand-product-name } 100
-experimental-features-firefox-100-description = При включении этого параметра { -brand-short-name } будет отправлять веб-сайтам строку User-Agent, характерную для { -brand-product-name } версии 100. Используйте это, чтобы проверить, будут ли веб-сайты работать, если версия { -brand-short-name } станет трехзначной. Выпуск реальной версии { -brand-product-name } 100 запланирован на май 2022 года, поэтому начните тестировать веб-сайты уже сейчас!
