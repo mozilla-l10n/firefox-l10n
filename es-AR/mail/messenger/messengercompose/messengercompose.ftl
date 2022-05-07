@@ -393,3 +393,8 @@ cloud-file-attachment-error = Fallo la actualización del adjunto Filelink { $fi
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Error de cuenta Filelink
 cloud-file-account-error = Fallo la actualización del adjunto Filelink { $filename } porque la cuenta Filelink fue borrada.
+
+## Link Preview
+
+link-preview-title = Vista previa de enlace
+link-preview-description = { -brand-short-name } puede agregar una vista previa incrustada al pegar enlaces.
