@@ -392,3 +392,7 @@ cloud-file-attachment-error = Αποτυχία ενημέρωσης του συ�
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Σφάλμα λογαριασμού FileLink
 cloud-file-account-error = Αποτυχία ενημέρωσης του συνημμένου «{ $filename }» στο FileLink, επειδή ο λογαριασμός FileLink του έχει διαγραφεί.
+
+## Link Preview
+
+link-preview-yes-replace = Ναι
