@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = Cofnij
 customize-mode-lwthemes-my-themes =
     .value = Moje motywy
+customize-mode-lwthemes-link = Regiyruj motywami
 customize-mode-touchbar-cmd =
     .label = Nasztaluj posek  Touch Bar…
 customize-mode-downloads-button-autohide =
