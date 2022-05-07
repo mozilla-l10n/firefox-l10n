@@ -8,6 +8,8 @@ styleeditor-new-button =
 styleeditor-import-button =
     .tooltiptext = Импорт и добавление к документу существующей таблицы стилей
     .accesskey = м
+styleeditor-filter-input =
+    .placeholder = Фильтр таблиц стилей
 styleeditor-visibility-toggle =
     .tooltiptext = Включить/выключить видимость таблицы стилей
     .accesskey = х
@@ -28,3 +30,5 @@ styleeditor-copy-url =
 styleeditor-go-to-line =
     .label = Перейти к строке…
     .accesskey = е
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Подходящая таблица стилей не найдена.
