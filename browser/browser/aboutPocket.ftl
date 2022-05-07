@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = افزودن برچسب
-
 pocket-panel-saved-error-generic = خطایی در هنگام تلاش برای ذخیره‌سازی در { -pocket-brand-name } رخ داده است.
 pocket-panel-saved-error-tag-length = برچسب‌ها شامل محدودیت ۲۵ حرفی می‌باشند
 pocket-panel-saved-error-only-links = تنها لینک‌ها می توانند ذخیره شوند
@@ -39,6 +38,7 @@ pocket-panel-signup-signup-firefox = ثبت نام با { -brand-product-name }
 pocket-panel-signup-tagline = مقاله‌ها و ویدئوها را با { -brand-product-name } ذخیره کنید و در هر زمان و دستگاهی به وسیله‌ی { -pocket-brand-name } ببینید.
 pocket-panel-signup-tagline-story-one = بر روی دکمه { -pocket-brand-name } کلیک کنید تا مقاله، ویدئو یا صفحات را از طریق { -brand-product-name } ذخیره کنید.
 pocket-panel-signup-tagline-story-two = نمایش در { -pocket-brand-name } در هر دستگاه و در هر زمانی.
+pocket-panel-signup-cta-a-fix = دکمه ذخیره شما برای اینترنت
 
 ## about:pocket-home panel
 
@@ -48,3 +48,9 @@ pocket-panel-home-paragraph = از { -pocket-brand-name } می‌توانید ب
 pocket-panel-home-explore-popular-topics = موضوعات جالب را پیدا کنید
 pocket-panel-home-discover-more = بیشتر ببینید
 pocket-panel-home-explore-more = کاوش
+
+## Pocket panel header component
+
+
+## Pocket panel buttons
+
