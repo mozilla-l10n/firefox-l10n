@@ -125,6 +125,7 @@ about-addressbook-confirm-delete-contacts =
 ## Details
 
 about-addressbook-begin-edit-contact-button = Επεξεργασία
+about-addressbook-delete-edit-contact-button = Διαγραφή
 about-addressbook-cancel-edit-contact-button = Ακύρωση
 about-addressbook-save-edit-contact-button = Αποθήκευση
 about-addressbook-details-email-addresses-header = Διευθύνσεις email
