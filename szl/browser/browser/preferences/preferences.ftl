@@ -389,6 +389,9 @@ applications-handle-new-file-types-description = Co { -brand-short-name } mo zro
 applications-save-for-new-types =
     .label = Spamiyntej zbiory
     .accesskey = S
+applications-ask-before-handling =
+    .label = Pytej sie, jeźli ôdewrzić abo spamiyntać zbiōr
+    .accesskey = P
 drm-content-header = Zawartość Digital Rights Management (DRM)
 play-drm-content =
     .label = Puszczanie zawartości brōniōnyj ôd DRM
@@ -417,6 +420,9 @@ update-application-warning-cross-user-setting = Te nasztalowanie bydzie wkludzō
 update-application-use-service =
     .label = Używej usugi, co funguje na zadku, coby zainsztalować aktualizacyje
     .accesskey = z
+update-application-suppress-prompts =
+    .label = Pokozuj mynij powiadōmiyń ô aktualizacyjach
+    .accesskey = m
 update-setting-write-failure-title2 = Feler przi spamiyntywaniu sztalōnkōw aktualizacyji
 # Variables:
 #   $path (String) - Path to the configuration file
@@ -840,6 +846,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Jeżeś prawie w trybie FIPS, co potrzebuje niyprōżnego głōwnego hasła.
 forms-master-pw-fips-desc = Zmiana hasła sie niy podarziła
+forms-windows-sso =
+    .label = Przizwolej na pojedyncze logowanie do kōnt Microsoft, roboczych i szkolnych
+forms-windows-sso-learn-more-link = Przewiydz sie wiyncyj
+forms-windows-sso-desc = Regiyruj kōntami w sztalōnkach masziny
 
 ## OS Authentication dialog
 
@@ -926,6 +936,10 @@ sitedata-option-block-cross-site-cookies-including-social-media =
     .label = Cookies elymyntōw miyndzy strōnami — społym ze cookies ze social mydiōw
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Elymynta śledzōnce miyndzy strōnami i ôd społecznościowych serwisōw, a tyż izolowanie inkszych cookies
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = Cookies elymyntōw, co śledzōm miyndzy strōnami
+sitedata-option-block-cross-site-cookies =
+    .label = Cookies elymyntōw, co śledzōm miyndzy strōnami i izolowanie inkszych cookies miyndzy strōnami
 sitedata-option-block-unvisited =
     .label = Cookies z niynawiydzōnych strōn
 sitedata-option-block-all-third-party =
@@ -1006,6 +1020,14 @@ content-blocking-all-windows-tracking-content = Śledzōnce elymynta we wszyskic
 content-blocking-all-third-party-cookies = Wszyskie cookies z inkszych firmōw
 content-blocking-cryptominers = Elymynta, co fedrujōm kryptopiniōndze
 content-blocking-fingerprinters = Elymynta, co rychtujōm ôdcisk ôd przeglōndarki
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Sprōbuj naszyj nojsiylniyjszyj funkcyji do ôchrōny prywatności
+    .accesskey = S
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Połno ôchrōna cookies trzimie cookies na strōnie, na keryj żeś je, tak co elymynty śledzōnce niy idōm za tobōm miyndzy strōnami.
+content-blocking-etp-standard-tcp-rollout-learn-more = Przewiydz sie wiyncyj
 content-blocking-warning-title = Pozōr!
 content-blocking-and-isolating-etp-warning-description = Skuli szperowanio zawartości niykere i izolowanio cookies strōny mogōm mieć gorszo funkcjōnalność. Przeladuj strōna ze załōnczōnymi śledzōncymi elymyntami, coby pokozać cołko zawartość.
 content-blocking-and-isolating-etp-warning-description-2 = Skuli tego sztalōnku niykere strōny mogōm sie dobrze niy pokazować abo działać felernie. Jak strōna zdo sie felerno, idzie wyłōnczyć ôchrōna ôd śledzynio na tyj strōnie, coby poradziyła zaladować cołko zawartość.
@@ -1082,6 +1104,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Wyjōntki…
     .accesskey = W
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Wyjōntki…
+    .accesskey = y
+    .searchkeywords = popups
 permissions-addon-install-warning =
     .label = Dowej znać, jak strōny prōbujōm zainsztalować rozszyrzynia
     .accesskey = D
