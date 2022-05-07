@@ -3,6 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
+compose-send-format-menu =
+    .label = Formato di invio
+    .accesskey = F
+compose-send-auto-menu-item =
+    .label = Automatico
+    .accesskey = A
+compose-send-both-menu-item =
+    .label = HTML e testo semplice
+    .accesskey = H
+compose-send-html-menu-item =
+    .label = Solo HTML
+    .accesskey = S
+compose-send-plain-menu-item =
+    .label = Solo testo semplice
+    .accesskey = t
+
 ## Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -129,10 +147,6 @@ button-return-receipt =
 
 ## Encryption
 
-message-to-be-signed-icon =
-    .alt = Firma il messaggio
-message-to-be-encrypted-icon =
-    .alt = Critta il messaggio
 encryption-menu =
     .label = Sicurezza
     .accesskey = S
@@ -378,3 +392,10 @@ cloud-file-attachment-error = Non è stato possibile aggiornare l’allegato Fil
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Errore con l’account Filelink
 cloud-file-account-error = Non è stato possibile aggiornare l’allegato Filelink { $filename } in quanto il relativo account Filelink è stato eliminato.
+
+## Link Preview
+
+link-preview-title = Anteprima del link
+link-preview-autoadd = Aggiungi automaticamente un’anteprima dei link quando possibile
+link-preview-replace-now = Aggiungere un’anteprima per questo link?
+link-preview-yes-replace = Sì
