@@ -398,3 +398,6 @@ cloud-file-account-error = Fallo la actualización del adjunto Filelink { $filen
 
 link-preview-title = Vista previa de enlace
 link-preview-description = { -brand-short-name } puede agregar una vista previa incrustada al pegar enlaces.
+link-preview-autoadd = Agregar vista previa de enlaces automáticamente cuando sea posible
+link-preview-replace-now = ¿Agregar una vista previa para este enlace?
+link-preview-yes-replace = Sí
