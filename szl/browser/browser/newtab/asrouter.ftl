@@ -166,3 +166,9 @@ spotlight-better-internet-header = Lepszy internet zaczyno sie ôd ciebie
 spotlight-better-internet-body = Jak używosz aplikacyje { -brand-short-name }, to welujesz ôtwarty, dostympniyjszy internet, co je lepszy do wszyskich.
 spotlight-peace-mind-header = Dowōmy na ciebie pozōr
 spotlight-peace-mind-body = Kożdy miesiōnc { -brand-short-name } szperuje kole 3,000 śledzōncych elymyntōw na użytkownika. Bo nic, a ôsobliwie niy takie detajle jak sledzōnce elymynty, niy śmiōm stoć miyndzy tobōm a dobrym internetym.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Trzimej w Docku
+       *[other] Przipnij do poska ze zadaniami
+    }
+spotlight-pin-secondary-button = Niy teroz

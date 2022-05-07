@@ -86,6 +86,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Niy ma żodnych ôtwartych kart
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Załōncz synchrōnicowanie kart, coby pokozać wykoz kart z twoich inkszych maszin.
+appmenu-remote-tabs-opensettings =
+    .label = Sztalōnki
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Chcesz sam ôboczyć karty z inkszych maszin?
@@ -126,6 +128,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiler
     .tooltiptext = Nagrej profil sprowności
+profiler-popup-button-recording =
+    .label = Profiler
+    .tooltiptext = Profiler nagrowo profil
+profiler-popup-button-capturing =
+    .label = Profiler
+    .tooltiptext = Profiler chyto profil
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -140,10 +148,10 @@ profiler-popup-settings =
     .value = Sztalōnki
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Edytuj sztalōnki…
+profiler-popup-disabled = Profiler je prawie zastawiōny, zdo sie iże skuli tego, że mosz ôtwarte ôkno prywatnego przeglōndanio.
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Edytuj sztalōnki…
-profiler-popup-disabled = Profiler je prawie zastawiōny, zdo sie iże skuli tego, że mosz ôtwarte ôkno prywatnego przeglōndanio.
 profiler-popup-recording-screen = Nagrowanie…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -174,6 +182,23 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Doradzōny sztalōnek do debugowanio wiynkszości aplikacyji, z małym wpływym na sprowność.
+profiler-popup-presets-web-developer-label =
+    .label = Do deweloperōw
+profiler-popup-presets-firefox-description = Doradzōny sztalōnek do profilowanio aplikacyje { -brand-shorter-name }.
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description = Sztalōnek do badanio graficznych felerōw w aplikacyji { -brand-shorter-name }.
+profiler-popup-presets-graphics-label =
+    .label = Grafika
+profiler-popup-presets-media-description2 = Sztalōnek do badanio felerōw audio i video w aplikacyji { -brand-shorter-name }.
+profiler-popup-presets-media-label =
+    .label = Mydia
+profiler-popup-presets-networking-description = Sztalōnek do badanio necowych felerōw w aplikacyji { -brand-shorter-name }.
+profiler-popup-presets-networking-label =
+    .label = Nec
+profiler-popup-presets-custom-label =
+    .label = Włosne
 
 ## History panel
 
@@ -209,6 +234,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Poślij ôpinijo
     .accesskey = S
+appmenu-help-share-ideas =
+    .label = Dej znać ô pōmysłach i ôpiniach…
+    .accesskey = D
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
