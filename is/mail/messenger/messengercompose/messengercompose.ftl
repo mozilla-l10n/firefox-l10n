@@ -393,3 +393,7 @@ cloud-file-attachment-error = Mistókst að uppfæra Filelink-viðhengið { $fil
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Villa í Filelink-reikningi
 cloud-file-account-error = Mistókst að uppfæra Filelink-viðhengið { $filename } vegna þess að Filelink-reikningi þess hefur verið eytt.
+
+## Link Preview
+
+link-preview-title = Forskoðun tengla
