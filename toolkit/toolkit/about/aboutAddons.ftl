@@ -459,10 +459,28 @@ addon-page-options-button =
 
 # Variables:
 #   $version (String): application version.
-details-notification-incompatible = Doplněk { $name } je nekompatibilní s aplikací { -brand-short-name } { $version }.
-details-notification-unsigned-and-disabled = Doplněk { $name } nemohl být ověřen pro použití v aplikaci { -brand-short-name } a byl zakázán.
+details-notification-incompatible =
+    { -brand-short-name.gender ->
+        [masculine] Doplněk { $name } není s { -brand-short-name(case: "ins") } { $version } kompatibilní.
+        [feminine] Doplněk { $name } není s { -brand-short-name(case: "ins") } { $version } kompatibilní.
+        [neuter] Doplněk { $name } není s { -brand-short-name(case: "ins") } { $version } kompatibilní.
+       *[other] Doplněk { $name } není s aplikací { -brand-short-name } { $version } kompatibilní.
+    }
+details-notification-unsigned-and-disabled =
+    { -brand-short-name.gender ->
+        [masculine] Doplněk { $name } nemohl být pro použití ve { -brand-short-name(case: "loc") } ověřen a byl zakázán.
+        [feminine] Doplněk { $name } nemohl být pro použití v { -brand-short-name(case: "loc") } ověřen a byl zakázán.
+        [neuter] Doplněk { $name } nemohl být pro použití v { -brand-short-name(case: "loc") } ověřen a byl zakázán.
+       *[other] Doplněk { $name } nemohl být pro použití v aplikaci { -brand-short-name } ověřen a byl zakázán.
+    }
 details-notification-unsigned-and-disabled-link = Více informací
-details-notification-unsigned = Doplněk { $name } nemohl být ověřen pro použití v aplikaci { -brand-short-name }. Používejte ho obezřetně.
+details-notification-unsigned =
+    { -brand-short-name.gender ->
+        [masculine] Doplněk { $name } nemohl být pro použití ve { -brand-short-name(case: "loc") } ověřen. Používejte ho obezřetně.
+        [feminine] Doplněk { $name } nemohl být pro použití v { -brand-short-name(case: "loc") } ověřen. Používejte ho obezřetně.
+        [neuter] Doplněk { $name } nemohl být pro použití v { -brand-short-name(case: "loc") } ověřen. Používejte ho obezřetně.
+       *[other] Doplněk { $name } nemohl být pro použití v aplikaci { -brand-short-name } ověřen. Používejte ho obezřetně.
+    }
 details-notification-unsigned-link = Více informací
 details-notification-blocked = Doplněk { $name } byl zakázán kvůli problémům se zabezpečením nebo stabilitou.
 details-notification-blocked-link = Více informací
