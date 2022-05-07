@@ -8,6 +8,8 @@ styleeditor-new-button =
 styleeditor-import-button =
     .tooltiptext = Εισαγωγή και επισύναψη ενός υπάρχοντος φύλλου στυλ στο έγγραφο
     .accesskey = Ε
+styleeditor-filter-input =
+    .placeholder = Φιλτράρισμα φύλλων στυλ
 styleeditor-visibility-toggle =
     .tooltiptext = (Απ)ενεργοποίηση ορατότητας φύλλου στυλ
     .accesskey = Α
@@ -28,3 +30,5 @@ styleeditor-copy-url =
 styleeditor-go-to-line =
     .label = Μετάβαση στη γραμμή…
     .accesskey = Μ
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Δεν βρέθηκε αντίστοιχο φύλλο στυλ.
