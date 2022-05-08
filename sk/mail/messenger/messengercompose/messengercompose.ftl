@@ -405,7 +405,7 @@ cloud-file-account-error = Prílohu Filelink { $filename } sa nepodarilo aktuali
 ## Link Preview
 
 link-preview-title = Ukážka odkazu
-link-preview-description = { -brand-short-name } môže pri vkladaní odkazov pridať aj náhľad.
+link-preview-description = { -brand-short-name } môže pri vkladaní odkazov pridať aj ukážku cieľa odkazu.
 link-preview-autoadd = Automaticky pridávať ukážky odkazov, keď je to možné
 link-preview-replace-now = Chcete pridať ukážku odkazu pre tento odkaz?
 link-preview-yes-replace = Áno
