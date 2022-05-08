@@ -20,6 +20,9 @@ about-private-browsing-not-private = آپ فی الحال نجی دریچے می
 about-private-browsing-need-more-privacy = مزید رازداری کی ضرورت ہے؟
 about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } آزمائیں
 about-private-browsing-learn-more-link = مزید سیکھیں
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -27,3 +30,5 @@ about-private-browsing-learn-more-link = مزید سیکھیں
 about-private-browsing-search-banner-title = { $engineName }  کیا آپ کا نجی تلاش انجن نجی ونڈوں میں  ہے
 about-private-browsing-search-banner-close-button =
     .aria-label = بند کریں
+about-private-browsing-promo-close-button =
+    .title = بند کریں
