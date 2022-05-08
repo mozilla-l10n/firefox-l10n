@@ -8,10 +8,11 @@
 newtab-page-title = Nowo karta
 newtab-settings-button =
     .title = Napasuj strōna nowyj karty
-
 newtab-personalize-icon-label =
     .title = Napasuj nowo karta
     .aria-label = Napasuj nowo karta
+newtab-personalize-dialog-label =
+    .aria-label = Napasuj
 
 ## Search box component.
 
@@ -19,7 +20,6 @@ newtab-personalize-icon-label =
 newtab-search-box-search-button =
     .title = Szukej
     .aria-label = Szukej
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Szukej ze { $engine } abo wkludź adresa
@@ -34,12 +34,11 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Szukej abo wkludź adresa
     .title = Szukej abo wkludź adresa
     .aria-label = Szukej abo wkludź adresa
-
 newtab-search-box-search-the-web-input =
     .placeholder = Szukej w internecie
     .title = Szukej w internecie
     .aria-label = Szukej w internecie
-
+newtab-search-box-text = Szukej w internecie
 newtab-search-box-input =
     .placeholder = Szukej w internecie
     .aria-label = Szukej w internecie
@@ -54,12 +53,10 @@ newtab-topsites-edit-shortcut-header = Edytuj skrōt
 newtab-topsites-title-label = Tytuł
 newtab-topsites-title-input =
     .placeholder = Wkludź tytuł
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Wpisz abo wraź adresa URL
 newtab-topsites-url-validation = Potrzebno je dobro adresa URL
-
 newtab-topsites-image-url-label = Adresa URL ôd włosnego ôbrozka
 newtab-topsites-use-image-link = Użyj włosnego ôbrozka…
 newtab-topsites-image-validation = Niy podarziło sie zaladować ôbrozka. Sprōbuj inkszyj adresy URL.
@@ -88,12 +85,10 @@ newtab-topsite-sponsored = Spōnsorowane
 newtab-menu-section-tooltip =
     .title = Ôdewrzij myni
     .aria-label = Ôdewrzij myni
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Skasuj
     .aria-label = Skasuj
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -162,16 +157,19 @@ newtab-label-removed-bookmark = Zokłodka je wyciepano
 newtab-label-recommended = Popularne
 newtab-label-saved = Spamiyntane do { -pocket-brand-name(case: "gen") }
 newtab-label-download = Pobrane
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Spōnsorowane
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Spōnsorowane ôd: { $sponsor }
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#  $source (String): This is the name of a company or their domain
+#  $timeToRead (Number): This is the estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } min
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -206,12 +204,10 @@ newtab-section-header-pocket = Rekōmyndowane ôd { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Zacznij przeglōndać internet, a my pokożymy ci sam szumne artikle, filmy a inksze strōny niydowno nawiedzōne abo przidane do zokłodek.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = To tela. Wejrzij sam niyskorzij za nowymi artiklami ôd { $provider }. Niy umisz sie doczkać? Ôbier popularny tymat, coby znojś inkszo ciekawo zawartość z cołkigo neca.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -226,10 +222,22 @@ newtab-discovery-empty-section-topstories-timed-out = Niy podarziło sie blank z
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Popularne tymaty:
+newtab-pocket-new-topics-title = Chcesz wiyncyj artykułōw? Wejrzij na te popularne tymaty: { -pocket-brand-name }
 newtab-pocket-more-recommendations = Wiyncyj rekōmyndowanych
 newtab-pocket-learn-more = Przewiydz sie wiyncyj
 newtab-pocket-cta-button = Dostōń ze { -pocket-brand-name(case: "gen") }
 newtab-pocket-cta-text = Spamiyntuj we { -pocket-brand-name(case: "loc") } teksty, co ci pasujōm, coby durch mieć co ciekawego do poczytanio.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je tajlōm familije { -brand-product-name }
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = Spamiyntej do { -pocket-brand-name }
+newtab-pocket-saved-to-pocket = Spamiyntane do { -pocket-brand-name }
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Zaladuj wiyncyj artykułōw
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = Mosz wszysko poczytane!
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -254,5 +262,4 @@ newtab-custom-pocket-sponsored = Spōnsorowane nowiny
 newtab-custom-recent-title = Niydowno aktywność
 newtab-custom-recent-subtitle = Wybōr z niydownych strōn i zawartości
 newtab-custom-close-button = Zawrzij
-
 newtab-custom-settings = Inksze nasztalowania
