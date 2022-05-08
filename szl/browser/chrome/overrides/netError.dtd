@@ -18,7 +18,7 @@
 
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.pageTitle "Serwer niy ma znodniynty">
+<!ENTITY dnsNotFound.pageTitle "Niy szło znojś serwera">
 <!ENTITY dnsNotFound.longDesc1 "<strong>Jak adresa je dobro, idzie jeszcze sprōbować tego:</strong>
 <ul>
   <li>Sprōbuj zaś niyskorzij.</li>
