@@ -177,6 +177,8 @@ openpgp-key-man-reload =
 openpgp-key-man-change-expiry =
     .label = Muuta vanhemenispäivää
     .accesskey = t
+openpgp-key-man-ignored-ids =
+    .label = Sähköpostiosoitteet
 openpgp-key-man-del-key =
     .label = Poista avaimia
     .accesskey = P
@@ -348,8 +350,6 @@ key-accept-warning = Vältä vilpillisen avaimen hyväksymistä. Vahvista vastap
 cannot-use-own-key-because = Viestiä ei voida lähettää, koska henkilökohtaisessa avaimessasi on ongelma. { $problem }
 cannot-encrypt-because-missing = Tätä viestiä ei voi lähettää päästä päähän -salauksella, koska seuraavien vastaanottajien avaimissa on ongelmia: { $problem }
 window-locked = Kirjoitusikkuna on lukittu; lähetys peruutettu
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Salattu viestiosa
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Tämä on salattu viestiosa. Avaa se erillisessä ikkunassa napsauttamalla liitettä.
 # Strings in keyserver.jsm
