@@ -54,6 +54,9 @@ pill-action-edit =
 pill-action-select-all-sibling-pills =
     .label = Выбрать все адреса в { $type }
     .accesskey = ы
+pill-action-select-all-pills =
+    .label = Выбрать все адреса
+    .accesskey = е
 pill-action-move-to =
     .label = Переместить в Кому
     .accesskey = о
@@ -98,6 +101,20 @@ context-menuitem-attach-files =
     .label = Вложить файл(ы)…
     .accesskey = ж
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = Моя vCard
+    .accesskey = C
+context-menuitem-attach-openpgp-key =
+    .label = Мой открытый ключ OpenPGP
+    .accesskey = к
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [one] { $count } вложение
+        [few] { $count } вложения
+       *[many] { $count } вложений
+    }
 expand-attachment-pane-tooltip =
     .tooltiptext = Показать панель вложений ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
@@ -135,6 +152,54 @@ button-return-receipt =
 
 ## Encryption
 
+encryption-menu =
+    .label = Безопасность
+    .accesskey = з
+encryption-toggle =
+    .label = Шифровать
+    .tooltiptext = Использовать сквозное шифрование для этого сообщения
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = Просмотреть или изменить настройки шифрования OpenPGP
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = Просмотреть или изменить настройки шифрования S/MIME
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = G
+menu-smime =
+    .label = S/MIME
+    .accesskey = S
+menu-encrypt =
+    .label = Шифровать
+    .accesskey = Ш
+menu-encrypt-subject =
+    .label = Шифровать тему
+    .accesskey = т
+menu-sign =
+    .label = Подписать цифровой подписью
+    .accesskey = П
+menu-manage-keys =
+    .label = Управление ключами
+    .accesskey = ю
+menu-view-certificates =
+    .label = Просмотреть сертификаты получателей
+    .accesskey = с
+menu-open-key-manager =
+    .label = Менеджер ключей
+    .accesskey = ж
+openpgp-key-issue-notification-one = Для сквозного шифрования нужно решить проблему с ключом для { $addr }
+openpgp-key-issue-notification-many = Для сквозного шифрования нужно решить проблемы с ключами для { $count } получателей.
+smime-cert-issue-notification-one = Для сквозного шифрования нужно решить проблему с сертификатом для { $addr }.
+smime-cert-issue-notification-many = Для сквозного шифрования нужно решить проблемы с сертификатами для { $count } получателей.
+key-notification-disable-encryption =
+    .label = Не шифровать
+    .accesskey = е
+    .tooltiptext = Отключить сквозное шифрование
+key-notification-resolve =
+    .label = Решить…
+    .accesskey = е
+    .tooltiptext = Открыть управление ключами OpenPGP
 
 ## Addressing Area
 
@@ -259,15 +324,42 @@ compose-tool-button-remove-text-styling =
 
 ## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Выгружено в неизвестную учётную запись Filelink.
 
 # Placeholder file
 
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } - вложение на Filelink
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = Файл { $filename } был прикреплён в виде ссылки на Filelink. Его можно загрузить по указанной ниже ссылке.
 
 # Template
 
+# Tooltip for an icon, indicating that the link is protected by a password.
+cloud-file-tooltip-password-protected-link = Ссылка защищена паролем
+# Used in a list of stats about a specific file
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
+# Size - the size of the file (Size: 4.2 MB)
+# Link - the link to the file (Link: https://some.provider.com)
+# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
+# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
+#                  (Download Limit: 6)
+cloud-file-template-service-name = Служба Filelink:
+cloud-file-template-size = Размер:
+cloud-file-template-link = Ссылка:
+cloud-file-template-password-protected-link = Ссылка, защищённая паролем:
+cloud-file-template-expiry-date = Срок действия:
+cloud-file-template-download-limit = Лимит на загрузку:
 
 # Messages
 
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Ошибка соединения
 
 ## Link Preview
 
