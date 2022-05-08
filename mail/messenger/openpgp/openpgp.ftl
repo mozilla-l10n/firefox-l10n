@@ -299,9 +299,9 @@ openpgp-copy-cmd-label =
 openpgp-description =
     { $count ->
         [0] Thunderbird nemá osobný kľúč OpenPGP pre <b>{ $identity }</b>
-        [one] Thunderbird našiel { $count } osobný kľúč OpenPGP spojený s <b>{ $identity }</b>
-        [few] Thunderbird našiel { $count } osobné kľúče OpenPGP spojené s <b>{ $identity }</b>
-       *[other] Thunderbird našiel { $count } osobných kľúčov OpenPGP spojených s <b>{ $identity }</b>
+        [one] Thunderbird našiel { $count } osobný kľúč OpenPGP pre <b>{ $identity }</b>
+        [few] Thunderbird našiel { $count } osobné kľúče OpenPGP pre <b>{ $identity }</b>
+       *[other] Thunderbird našiel { $count } osobných kľúčov OpenPGP pre <b>{ $identity }</b>
     }
 #   $identity (String) - the email address of the currently selected identity
 openpgp-description-no-key = { -brand-short-name } nemá osobný kľúč OpenPGP pre <b>{ $identity }</b>
