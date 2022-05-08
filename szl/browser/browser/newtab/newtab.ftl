@@ -238,6 +238,9 @@ newtab-pocket-load-more-stories-button = Zaladuj wiyncyj artykułōw
 ## This is for the final card in the Pocket grid.
 
 newtab-pocket-last-card-title = Mosz wszysko poczytane!
+newtab-pocket-last-card-desc = Badnij sam niyskorzij za nastympnymi artykułami.
+newtab-pocket-last-card-image =
+    .alt = Mosz wszysko poczytane!
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

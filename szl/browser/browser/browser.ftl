@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Regyruj używaniym rozszyrzyń
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Regyruj udostympnianiym tyj strōnie twojij kamery i/abo mikrofōnu
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Regiyruj udostympnianiym inszych głośnikōw z tōm strōnōm.
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Ôtwōrz panel autōmatycznego przegrowanio
 urlbar-persistent-storage-notification-anchor =
@@ -516,6 +520,16 @@ urlbar-result-action-search-tabs = Szukej po kartach
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use sentence case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = Dorady { $engine }
 
 ## Full Screen and Pointer Lock UI
 
@@ -536,6 +550,10 @@ pointerlock-warning-no-domain = Tyn dokumynt kōntroluje twōj kursor. Coby cofn
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Kōnsek tyj strōny mo awaryjo.</strong>. Poślij raport, coby { -brand-product-name } sie ô tym przewiedzioł i pryndzyj to naprawiōł.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Kōnsek tyj strōny mo awaryjo. Poślij raport, coby { -brand-product-name } sie ô tym przewiedzioł i pryndzyj to naprawiōł.
 crashed-subframe-learnmore-link =
     .value = Przewiydz sie wiyncyj
 crashed-subframe-submit =
@@ -698,6 +716,9 @@ remote-tabs-sync-now = Synchrōnizuj teroz
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Wiyncyj…
 ui-tour-info-panel-close =
     .tooltiptext = Zawrzij
 
@@ -716,6 +737,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Niy pokazuj tyj wiadōmości, jak wyskakujōnce ôkna sōm zaszperowane
     .accesskey = N
+edit-popup-settings =
+    .label = Regiyruj sztalōnkami ôkiynek pop-up…
+    .accesskey = R
 picture-in-picture-hide-toggle =
     .label = Skryj szalter ôbrazu we ôbrozie
     .accesskey = S
@@ -723,6 +747,12 @@ picture-in-picture-hide-toggle =
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-right =
+    .label = Przesuń knefel Ôbroz w ôbrazie na prawo strōna
+    .accesskey = P
+picture-in-picture-move-toggle-left =
+    .label = Przesuń knefel Ôbroz w ôbrazie na lewo strōna
+    .accesskey = L
 
 ##
 
