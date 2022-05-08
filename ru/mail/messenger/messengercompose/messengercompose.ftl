@@ -340,6 +340,27 @@ cloud-file-placeholder-intro = Файл { $filename } был прикреплё�
 
 # Template
 
+# A line of text describing how many uploaded files have been appended to this
+# message. Emphasis should be on sharing as opposed to attaching. This item is
+# used as a header to a list, hence the colon.
+cloud-file-count-header =
+    { $count ->
+        [one] Я связал с этим сообщением { $count } файл:
+        [few] Я связал с этим сообщением { $count } файла:
+       *[many] Я связал с этим сообщением { $count } файлов:
+    }
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service provider.
+# $link (string) - html a-tag for a link pointing to the web page of the provider
+cloud-file-service-provider-footer-single = Узнать больше о { $link }.
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers. Links for the used providers are
+# split into a comma separated list of the first n-1 providers and a single entry
+# at the end.
+# $firstLinks (string) - comma separated list of html a-tags pointing to web pages
+#                        of the first n-1 used providers
+# $lastLink (string) - html a-tag pointing the web page of the n-th used provider
+cloud-file-service-provider-footer-multiple = Узнать больше о { $firstLinks } и { $lastLink }.
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Ссылка защищена паролем
 # Used in a list of stats about a specific file
@@ -360,6 +381,26 @@ cloud-file-template-download-limit = Лимит на загрузку:
 
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-connection-error-title = Ошибка соединения
+cloud-file-connection-error = { -brand-short-name } не в сети. Не удалось подключиться к { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Выгрузка { $filename } на { $provider } не удалась
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = При переименовании произошла ошибка
+cloud-file-rename-error = При переименовании { $filename } на { $provider } возникла проблема.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Переименование { $filename } на { $provider } не удалось
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } не поддерживает переименование уже выгруженных файлов.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Ошибка вложения Filelink
+cloud-file-attachment-error = Не удалось обновить вложение Filelink { $filename }, так как его локальный файл был перемещён или удалён.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Ошибка учётной записи Filelink
+cloud-file-account-error = Не удалось обновить вложение Filelink { $filename }, так как его учётная запись Filelink была удалена.
 
 ## Link Preview
 
+link-preview-title = Предпросмотр ссылки
