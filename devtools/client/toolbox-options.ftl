@@ -34,6 +34,10 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = Skrátené DOM atribúty
 options-collapse-attrs-tooltip =
     .title = Skrátené dlhé atribúty v prieskumníkovi
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Kliknutím a potiahnutím upravíte hodnoty veľkosti
+options-inspector-draggable-properties-tooltip =
+    .title = Kliknutím a potiahnutím upravíte hodnoty veľkosti v zobrazení pravidiel inšpektora.
 
 ## "Default Color Unit" options for the Inspector
 
