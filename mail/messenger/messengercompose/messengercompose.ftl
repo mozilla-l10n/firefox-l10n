@@ -3,7 +3,25 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Send Format
+
+compose-send-format-menu =
+    .label = Формат исходящей почты
+    .accesskey = Ф
+compose-send-auto-menu-item =
+    .label = Автоматический
+    .accesskey = А
+compose-send-both-menu-item =
+    .label = HTML и обычный текст
+    .accesskey = и
+compose-send-html-menu-item =
+    .label = Только HTML
+    .accesskey = H
+compose-send-plain-menu-item =
+    .label = Только обычный текст
+    .accesskey = о
+
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
@@ -32,6 +50,10 @@ pill-tooltip-not-in-address-book = { $email } отсутствует в ваше
 pill-action-edit =
     .label = Изменить адрес
     .accesskey = м
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Выбрать все адреса в { $type }
+    .accesskey = ы
 pill-action-move-to =
     .label = Переместить в Кому
     .accesskey = о
@@ -45,7 +67,7 @@ pill-action-expand-list =
     .label = Развернуть список
     .accesskey = в
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -76,16 +98,6 @@ context-menuitem-attach-files =
     .label = Вложить файл(ы)…
     .accesskey = ж
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
-#   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } вложение
-            [one] { $count } вложение
-            [few] { $count } вложения
-           *[many] { $count } вложений
-        }
-    .accesskey = в
 expand-attachment-pane-tooltip =
     .tooltiptext = Показать панель вложений ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
@@ -107,7 +119,7 @@ drop-file-label-inline =
        *[many] Вставить в содержимое
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = Переместить в начало
@@ -121,14 +133,10 @@ button-return-receipt =
     .label = Уведомление о прочтении
     .tooltiptext = Запросить уведомление о прочтении этого сообщения
 
-# Encryption
+## Encryption
 
-message-to-be-signed-icon =
-    .alt = Подписать сообщение
-message-to-be-encrypted-icon =
-    .alt = Зашифровать сообщение
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = Кому
@@ -248,3 +256,18 @@ encrypted-bcc-ignore-button = Понятно
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = Удалить стиль текста
+
+## Filelink
+
+
+# Placeholder file
+
+
+# Template
+
+
+# Messages
+
+
+## Link Preview
+
