@@ -30,3 +30,5 @@ styleeditor-copy-url =
 styleeditor-go-to-line =
     .label = Tairendápe jepo...
     .accesskey = j
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Ndojejuhúi mba’evéichagua mbohekoharogue.
