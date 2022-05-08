@@ -6,10 +6,13 @@ import-page-title = Импорт
 
 ## Header
 
-import-from-app = Импорт из приложения
-import-from-app-desc = Выберите для импорта учётные записи, адресные книги, календари и другие данные из:
-import-address-book = Импорт файла адресной книги
-import-calendar = Импорт файла календаря
+import-start = Импортировать
+import-start-desc = Импортируйте настройки и данные из приложения или файла.
+import-from-app = Импортировать из приложения
+import-from-app-desc = Выберите аккаунты, адресные книги, календари и другие данные для импорта из:
+import-from-file = Импорт из файла
+import-address-book = Импортировать файл адресной книги
+import-calendar = Импортировать файл календаря
 export-profile = Экспорт
 
 ## Buttons
@@ -26,12 +29,19 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-file = Импортировать из файла
+
+## Import from file selections
+
+file-profile = Импортировать резервную копию профиля (.zip)
+file-calendar = Импортировать календари
+file-addressbook = Импортировать адресные книги
 # Variables:
 #   $app (String) - The name of the app to import from
-profiles-pane-title = Импорт из { $app }
-profiles-pane-desc = Выберите откуда импортировать
+profiles-pane-title = Импортировать из { $app }
+profiles-pane-desc = Выберите, откуда нужно импортировать
 profile-file-picker-dir = Выберите папку профиля
-profile-file-picker-zip = Выберите zip-файл (меньше 2 ГБ)
+profile-file-picker-zip = Выберите zip-файл (до 2ГБ)
 items-pane-title = Выберите, что импортировать
 items-pane-source = Расположение источника:
 items-pane-checkbox-accounts = Учётные записи и настройки
@@ -41,7 +51,7 @@ items-pane-checkbox-mail-messages = Почтовые сообщения
 
 ## Import from address book file steps
 
-import-from-addr-book-file-desc = Выберите тип файла, который вы хотите импортировать:
+import-from-addr-book-file-desc = Выберите тип файла, который хотите импортировать:
 addr-book-csv-file = Файл данных, разделенных запятыми или табуляциями (.csv, .tsv)
 addr-book-ldif-file = LDIF-файл (.ldif)
 addr-book-vcard-file = vCard-файл (.vcf, .vcard)
@@ -69,9 +79,9 @@ calendar-import-into-new-calendar = Создать новый календарь
 progress-pane-importing = Импорт
 progress-pane-exporting = Экспорт
 progress-pane-finished-desc = Завершено.
-progress-pane-restart-desc = Перезапустите, чтобы завершить импорт.
+progress-pane-restart-desc = Перезапустите приложение, чтобы завершить импорт.
 error-pane-title = Ошибка
-error-message-zip-file-too-big = Размер выбранного zip-файла превышает 2ГБ. Пожалуйста, сначала распакуйте его, а затем импортируйте из распакованной папки.
+error-message-zip-file-too-big = Размер выбранного zip-файла превышает 2ГБ. Пожалуйста, сначала распакуйте его, а затем импортируйте из полученной папки.
 error-message-extract-zip-file-failed = Не удалось распаковать zip-файл. Распакуйте его вручную, а затем импортируйте из распакованной папки.
 error-message-failed = В процессе импорта произошёл непредвиденный сбой. Более подробная информация может быть доступна в Консоли ошибок.
 error-failed-to-parse-ics-file = В файле не найдены элементы для импорта.
