@@ -176,9 +176,28 @@ containers-remove-cancel-button = ไม่เอาการแยกข้อ�
 language-and-appearance-header = ภาษาและลักษณะที่ปรากฏ
 fonts-and-colors-header = แบบอักษรและสี
 preferences-web-appearance-header = ลักษณะที่ปรากฏของเว็บไซต์
+preferences-web-appearance-description = บางเว็บไซต์ปรับโทนสีตามการกำหนดลักษณะของคุณ เลือกชุดสีที่คุณต้องการใช้สำหรับไซต์เหล่านั้น
+preferences-web-appearance-choice-browser = ชุดตกแต่ง { -brand-short-name }
 preferences-web-appearance-choice-system = ชุดตกแต่งระบบ
 preferences-web-appearance-choice-light = สว่าง
 preferences-web-appearance-choice-dark = มืด
+preferences-web-appearance-choice-tooltip-system =
+    .title = จับคู่การตั้งค่าระบบของคุณสำหรับพื้นหลังและเนื้อหาของเว็บไซต์
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = การเลือกสีของคุณมีผลเหนือลักษณะที่ปรากฏของเว็บไซต์ <a data-l10n-name="colors-link">จัดการสี</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = จัดการ { -brand-short-name } ชุดตกแต่ง ใน <a data-l10n-name="themes-link"> ส่วนขยายและชุดตกแต่ง </a>
+preferences-colors-header = สี
 preferences-colors-manage-button =
     .label = จัดการสี…
     .accesskey = C
@@ -412,6 +431,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = ใช้การเลื่อนแบบลื่นไหล
     .accesskey = ก
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = แสดงแถบเลื่อนเสมอ
+    .accesskey = o
 browsing-use-onscreen-keyboard =
     .label = แสดงแป้นพิมพ์แบบสัมผัสเมื่อจำเป็น
     .accesskey = ผ
@@ -870,6 +892,8 @@ sitedata-option-block-cross-site-cookies-including-social-media =
     .label = คุกกี้ข้ามไซต์ — รวมถึงคุกกี้สื่อสังคมออนไลน์
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = ตัวติดตามข้ามไซต์และสังคมออนไลน์ และแยกคุกกี้ที่เหลืออยู่
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = คุกกี้ติดตามข้ามไซต์
 sitedata-option-block-unvisited =
     .label = คุกกี้จากเว็บไซต์ที่ไม่ได้เยี่ยมชม
 sitedata-option-block-all-third-party =
