@@ -175,6 +175,13 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+downloading-file-opens-in-hours-and-minutes = Ôdewrzi sie za { $hours } godz. { $minutes } min…
+downloading-file-opens-in-minutes = Ôdewrzi sie za { $minutes } min…
+downloading-file-opens-in-minutes-and-seconds = Ôdewrzi sie za { $minutes } min { $seconds } s…
+downloading-file-opens-in-seconds = Ôdewrzi sie za { $seconds } s…
+downloading-file-opens-in-some-time = Ôdewrzi sie po skōńczyniu…
+downloading-file-click-to-open =
+    .value = Ôdewrzij po skōńczyniu
 
 ##
 
@@ -202,6 +209,14 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Zbiōr niy ma pobrany.
+        [few] { $num } zbiory niy sōm pobrane.
+       *[many] { $num } zbiorōw niy ma pobranych.
+    }
+downloads-blocked-from-url = Pobrania ze { $url } ôstały zaszperowane.
+downloads-blocked-download-detailed-info = Strōna { $url } prōbowała autōmatycznie pobrać moc zbiorōw. Może mieć awaryjo abo prōbować pobrać na twoja maszina niychciane zbiory.
 
 ##
 
@@ -215,3 +230,13 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Niy ma pobrań w tyj sesyji.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] Pobiyro sie { $count } plik wiyncyj
+        [few] Pobiyrajōm sie { $count } pliki wiyncyj
+       *[many] Pobiyro sie { $count } plikōw wiyncyj
+    }
