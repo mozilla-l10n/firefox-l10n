@@ -396,6 +396,7 @@ cloud-file-account-error = Αποτυχία ενημέρωσης του συνη
 ## Link Preview
 
 link-preview-title = Προεπισκόπηση συνδέσμου
+link-preview-description = Το { -brand-short-name } μπορεί να προσθέσει μια ενσωματωμένη προεπισκόπηση κατά την επικόλληση συνδέσμων.
 link-preview-autoadd = Αυτόματη προσθήκη προεπισκοπήσεων συνδέσμων όταν είναι δυνατό
 link-preview-replace-now = Προσθήκη προεπισκόπησης συνδέσμου για αυτόν τον σύνδεσμο;
 link-preview-yes-replace = Ναι
