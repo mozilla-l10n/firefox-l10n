@@ -131,6 +131,7 @@ about-addressbook-confirm-delete-contacts =
 ## Details
 
 about-addressbook-begin-edit-contact-button = Изменить
+about-addressbook-delete-edit-contact-button = Удалить
 about-addressbook-cancel-edit-contact-button = Отмена
 about-addressbook-save-edit-contact-button = Сохранить
 about-addressbook-details-email-addresses-header = Адреса электронной почты

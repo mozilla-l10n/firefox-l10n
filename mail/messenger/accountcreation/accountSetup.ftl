@@ -41,6 +41,8 @@ account-provisioner-button = Получить новый адрес электр
     .accesskey = ч
 account-setup-password-toggle =
     .title = Показать/скрыть пароль
+account-setup-password-toggle-show =
+    .title = Показать пароль открытым текстом
 account-setup-password-toggle-hide =
     .title = Скрыть пароль
 account-setup-remember-password = Запомнить пароль
@@ -214,6 +216,11 @@ exchange-dialog-cancel-button = Отмена
 
 ## Dismiss account creation dialog
 
+exit-dialog-title = Ни одна учётная запись электронной почты не настроена
+exit-dialog-cancel-button = Продолжить настройку
+    .accesskey = ж
+exit-dialog-confirm-button = Выйти из настройки
+    .accesskey = ы
 
 ## Alert dialogs
 

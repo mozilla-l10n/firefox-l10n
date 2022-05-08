@@ -404,3 +404,7 @@ cloud-file-account-error = Не удалось обновить вложение
 ## Link Preview
 
 link-preview-title = Предпросмотр ссылки
+link-preview-description = { -brand-short-name } может добавлять встроенный предпросмотр при вставке ссылок.
+link-preview-autoadd = По возможности автоматически добавлять предпросмотр ссылок
+link-preview-replace-now = Добавить предпросмотр ссылки для этой ссылки?
+link-preview-yes-replace = Да
