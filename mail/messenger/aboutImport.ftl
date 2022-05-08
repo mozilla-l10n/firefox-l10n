@@ -6,8 +6,11 @@ import-page-title = Importovanie
 
 ## Header
 
+import-start = Nástroj na importovanie
+import-start-desc = Importujte nastavenia alebo údaje z aplikácie alebo súboru.
 import-from-app = Import z aplikácie
 import-from-app-desc = Zvoľte, odkiaľ chcete importovať účty, adresáre, kalendáre a ďalšie údaje:
+import-from-file = Import zo súboru
 import-address-book = Import súboru adresára
 import-calendar = Import súboru s kalendárom
 export-profile = Export
@@ -26,6 +29,13 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-file = Importovať zo súboru
+
+## Import from file selections
+
+file-profile = Importovať zálohovaný profil (.zip)
+file-calendar = Importovať kalendáre
+file-addressbook = Importovať adresáre
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Import z aplikácie { $app }
@@ -66,7 +76,6 @@ calendar-import-into-new-calendar = Vytvoriť nový kalendár
 
 ## Import dialog
 
-progress-pane-title = Importuje sa
 progress-pane-importing = Importuje sa
 progress-pane-exporting = Exportuje sa
 progress-pane-finished-desc = Dokončené.

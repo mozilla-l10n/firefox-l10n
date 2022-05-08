@@ -250,6 +250,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Typ
 openpgp-key-details-key-part-label =
     .label = Časť kľúča
+openpgp-key-details-attr-ignored = Upozornenie: Tento kľúč nemusí fungovať podľa očakávania, pretože niektoré jeho vlastnosti nie sú bezpečné a môžu byť ignorované.
 openpgp-key-details-algorithm-label =
     .label = Algoritmus
 openpgp-key-details-size-label =
@@ -301,6 +302,16 @@ openpgp-description =
         [one] Thunderbird našiel { $count } osobný kľúč OpenPGP spojený s <b>{ $identity }</b>
         [few] Thunderbird našiel { $count } osobné kľúče OpenPGP spojené s <b>{ $identity }</b>
        *[other] Thunderbird našiel { $count } osobných kľúčov OpenPGP spojených s <b>{ $identity }</b>
+    }
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name } nemá osobný kľúč OpenPGP pre <b>{ $identity }</b>
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] { -brand-short-name } našiel jeden osobný kľúč OpenPGP pre <b>{ $identity }</b>
+        [few] { -brand-short-name } našiel { $count } osobné kľúče OpenPGP pre <b>{ $identity }</b>
+       *[other] { -brand-short-name } našiel { $count } osobných kľúčov OpenPGP pre <b>{ $identity }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Vaša aktuálna konfigurácia používa kľúč s identifikátorom <b>{ $key }</b>
@@ -364,8 +375,6 @@ key-verification = Overte odtlačok kľúča pomocou zabezpečeného komunikačn
 cannot-use-own-key-because = Správu sa nepodarilo odoslať, pretože sa vyskytol problém s vašim osobným kľúčom. { $problem }
 cannot-encrypt-because-missing = Túto správu nie je možné odoslať s obojstranným šifrovaním, pretože sa vyskytli problémy s kľúčmi nasledujúcich príjemcov: { $problem }
 window-locked = Okno na napísanie správy je zamknuté; odoslanie zrušené
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Časť zašifrovanej správy
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Toto je šifrovaná časť správy. Musíte ju otvoriť v samostatnom okne kliknutím na prílohu.
 # Strings in keyserver.jsm

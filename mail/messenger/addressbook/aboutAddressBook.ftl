@@ -131,6 +131,7 @@ about-addressbook-confirm-delete-contacts =
 ## Details
 
 about-addressbook-begin-edit-contact-button = Upraviť
+about-addressbook-delete-edit-contact-button = Odstrániť
 about-addressbook-cancel-edit-contact-button = Zrušiť
 about-addressbook-save-edit-contact-button = Uložiť
 about-addressbook-details-email-addresses-header = E-mailové adresy
