@@ -69,8 +69,11 @@ perftools-button-edit-settings = سیٹنگز میں تدوین کریں…
 # devtools/client/performance-new/popup/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+perftools-presets-web-developer-label = ویب تکمیل کار
+perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-graphics-label = گرافکس
 perftools-presets-media-label = میڈیا
+perftools-presets-networking-label = نیٹورکنگ
 perftools-presets-custom-label = مخصوص
 
 ##

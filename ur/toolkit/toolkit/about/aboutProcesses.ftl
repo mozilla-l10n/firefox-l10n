@@ -20,14 +20,10 @@ about-processes-column-cpu-total = CPU
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-##    $type (String) The raw type for this process. Used for unknown processes.
 
-
-## Process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
 
 ## Isolated process names
 ## Variables:
@@ -43,6 +39,9 @@ about-processes-web-isolated-process = { $origin } ({ $pid })
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = ٹیب : { $name }
 about-processes-preloaded-tab = پہلے سے لوڈ شدہ نیا ٹیب
+# Utility process actor names
+about-processes-utility-actor-unknown = نامعلوم اداکار
+about-processes-utility-actor-audio-decoder = آڈیو ڈیکوڈر
 
 ## Displaying CPU (percentage and total)
 ## Variables:
