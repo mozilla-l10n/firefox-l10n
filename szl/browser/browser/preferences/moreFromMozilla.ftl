@@ -14,6 +14,7 @@ more-from-moz-firefox-mobile-description = Mobilniokowo przeglōndarka, do keryj
 more-from-moz-firefox-mobile-description-advanced = Ôd szperowanio śledzōncych elymyntōw do sztopowanio autōmatycznego puszczanio - mobilniokowe przeglōndarki { -brand-product-name } robiōm wiela idzie, coby ci dować dobry internet.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Poznej przidano warsztwa anonimowego przeglōndanio i ôchrōny.
+more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } przidowo nowo worsztwa anōnimowego przeglōndanio i ôchrōny. I, niy jak niykere inksze VPNy, je bezpieczno i niy śledzi twojij aktywności.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
