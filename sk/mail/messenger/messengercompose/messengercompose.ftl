@@ -3,6 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
+compose-send-format-menu =
+    .label = Formát odosielaných správ
+    .accesskey = F
+compose-send-auto-menu-item =
+    .label = Automaticky
+    .accesskey = A
+compose-send-both-menu-item =
+    .label = HTML aj obyčajný text
+    .accesskey = H
+compose-send-html-menu-item =
+    .label = Iba HTML
+    .accesskey = T
+compose-send-plain-menu-item =
+    .label = Iba obyčajný text
+    .accesskey = b
+
 ## Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -135,10 +153,6 @@ button-return-receipt =
 
 ## Encryption
 
-message-to-be-signed-icon =
-    .alt = Podpísať správu
-message-to-be-encrypted-icon =
-    .alt = Zašifrovať správu
 encryption-menu =
     .label = Zabezpečenie
     .accesskey = b
@@ -387,3 +401,11 @@ cloud-file-attachment-error = Aktualizácia prílohy Filelink { $filename } zlyh
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Chyba účtu Filelink
 cloud-file-account-error = Prílohu Filelink { $filename } sa nepodarilo aktualizovať, pretože jej účet Filelink bol odstránený.
+
+## Link Preview
+
+link-preview-title = Ukážka odkazu
+link-preview-description = { -brand-short-name } môže pri vkladaní odkazov pridať aj náhľad.
+link-preview-autoadd = Automaticky pridávať ukážky odkazov, keď je to možné
+link-preview-replace-now = Chcete pridať ukážku odkazu pre tento odkaz?
+link-preview-yes-replace = Áno
