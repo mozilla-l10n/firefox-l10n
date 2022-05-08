@@ -11,15 +11,17 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Przidej etykety
-
 pocket-panel-saved-error-generic = Przi spamiyntowaniu do usugi { -pocket-brand-name } pokozoł sie feler.
 pocket-panel-saved-error-tag-length = Etykety niy śmiōm mieć wiyncyj jak 25 znakōw
 pocket-panel-saved-error-only-links = Idzie spamiyntować ino linki
 pocket-panel-saved-error-not-saved = Strōna niy ma spamiyntano
 pocket-panel-saved-error-no-internet = Coby spamiyntować do usugi { -pocket-brand-name }, trza mieć połōnczynie z internetym. Połōncz sie z internetym i sprōbuj jeszcze roz.
+pocket-panel-saved-error-remove = Przi prōbie skasowanio tyj strōny pokozoł sie feler.
 pocket-panel-saved-page-removed = Strōna je wyciepano
 pocket-panel-saved-page-saved = Spamiyntane w usudze { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Spamiyntane w usudze { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Wyciepowanie strōny…
+pocket-panel-saved-removed = Strōna je skasowano z mojigo wykazu
 pocket-panel-saved-processing-tags = Przidowanie etyket…
 pocket-panel-saved-remove-page = Wyciep strōna
 pocket-panel-saved-save-tags = Spamiyntej
@@ -27,6 +29,8 @@ pocket-panel-saved-saving-tags = Spamiyntowanie…
 pocket-panel-saved-suggested-tags = Doradzōne etykety
 pocket-panel-saved-tags-saved = Etykety sōm przidane
 pocket-panel-signup-view-list = Pokoż wykoz
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Przidej etykety:
 
 ## about:pocket-signup panel
 
@@ -39,6 +43,10 @@ pocket-panel-signup-signup-firefox = Zaregistruj sie z { -brand-product-name }ym
 pocket-panel-signup-tagline = Spamiyntuj artykuły i filmy ze { -brand-product-name }a, coby je ôglōndać w usudze { -pocket-brand-name } na czym chcesz i kej chcesz.
 pocket-panel-signup-tagline-story-one = Prziciś knefel usugi { -pocket-brand-name }, coby spamiyntać kożdy artykuł, film abo strōna z { -brand-product-name }a.
 pocket-panel-signup-tagline-story-two = Ôglōndej w usudze { -pocket-brand-name } na czym chcesz i kej chcesz.
+pocket-panel-signup-cta-a-fix = Twōj knefel "spamiyntej" do internetu
+pocket-panel-signup-cta-b = Kliknij knefel { -pocket-brand-name }, coby spamiyntować artykuły, filmy i linki. Zaglōndej na swōj wykoz na kożdyj maszinie, w kożdy czas.
+pocket-panel-signup-cta-b-short = Kliknij knefel { -pocket-brand-name }, coby spamiyntować artykuły, filmy i linki.
+pocket-panel-signup-cta-c = Zaglōndej na swōj wykoz na kożdyj maszinie, w kożdy czas.
 
 ## about:pocket-home panel
 
@@ -48,3 +56,18 @@ pocket-panel-home-paragraph = Ze usugōm { -pocket-brand-name } idzie poznować 
 pocket-panel-home-explore-popular-topics = Poznowej popularne tymaty
 pocket-panel-home-discover-more = Poznej wiyncyj
 pocket-panel-home-explore-more = Poznowej
+pocket-panel-home-most-recent-saves = Sam mosz niydowne spamiyntania:
+pocket-panel-home-most-recent-saves-loading = Ladowanie niydownych spamiyntań…
+pocket-panel-home-new-user-cta = Kliknij knefel { -pocket-brand-name }, coby spamiyntować artykuły, filmy i linki.
+pocket-panel-home-new-user-message = Sam sie pokazujōm twoje niydowne spamiyntania.
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = Pokoż mōj wykoz
+pocket-panel-header-sign-in = Wloguj sie
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Pokoż wszyskie
+pocket-panel-button-activate = Aktywuj { -pocket-brand-name } w aplikacyji { -brand-product-name }
+pocket-panel-button-remove = Skasuj
