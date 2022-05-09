@@ -125,6 +125,7 @@ about-addressbook-confirm-delete-contacts =
 ## Details
 
 about-addressbook-begin-edit-contact-button = Muuda
+about-addressbook-delete-edit-contact-button = Kustuta
 about-addressbook-cancel-edit-contact-button = Loobu
 about-addressbook-save-edit-contact-button = Salvesta
 about-addressbook-details-email-addresses-header = E-posti aadressid
