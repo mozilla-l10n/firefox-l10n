@@ -314,4 +314,24 @@ onboarding-live-language-skip-button-label = ข้าม
 
 ## Firefox 100 Thank You screens
 
+# "Hero Text" displayed on left side of welcome screen. This text can be
+# formatted to span multiple lines as needed. The <span data-l10n-name="zap">
+# </span> in this string allows a "zap" underline style to be automatically
+# added to the text inside it. "Yous" should stay inside the zap span, but
+# "Thank" can be put inside instead if there's no "you" in the translation.
+# The English text would normally be "100 Thank-Yous" i.e., plural noun, but for
+# aesthetics of splitting it across multiple lines, the hyphen is omitted.
+fx100-thank-you-hero-text =
+    <span data-l10n-name="zap">ขอบคุณ</span>
+    ครั้งที่
+    100
+fx100-thank-you-subtitle = นี่คือรุ่นที่ 100 ของเรา! ขอบคุณที่ช่วยเราสร้างอินเทอร์เน็ตที่ดีและแข็งแกร่งขึ้น
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] เก็บ { -brand-short-name } ไว้ใน Dock
+       *[other] ปักหมุด { -brand-short-name } เข้ากับแถบงาน
+    }
 fx100-upgrade-thanks-header = 100 คำขอบคุณ
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = นี่คือ { -brand-short-name } รุ่นที่ 100 ของเรา <em>ขอบคุณ</em>ที่ช่วยเราสร้างอินเทอร์เน็ตที่ดีและแข็งแกร่งขึ้น
