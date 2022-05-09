@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = ส่วนขย
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = ส่วนขยาย <img data-l10n-name="icon"/> { $name } กำลังควบคุมวิธีที่ { -brand-short-name } เชื่อมต่อกับอินเทอร์เน็ต
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ควบคุมการตั้งค่านี้
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ควบคุมการตั้งค่านี้
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ต้องการแท็บแยกข้อมูล
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ควบคุมการตั้งค่านี้
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> ควบคุมวิธีที่ { -brand-short-name } เชื่อมต่อกับอินเทอร์เน็ต
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -181,8 +196,14 @@ preferences-web-appearance-choice-browser = ชุดตกแต่ง { -brand
 preferences-web-appearance-choice-system = ชุดตกแต่งระบบ
 preferences-web-appearance-choice-light = สว่าง
 preferences-web-appearance-choice-dark = มืด
+preferences-web-appearance-choice-tooltip-browser =
+    .title = จับคู่การตั้งค่าชุดตกแต่ง { -brand-short-name } ของคุณสำหรับพื้นหลังและเนื้อหาของเว็บไซต์
 preferences-web-appearance-choice-tooltip-system =
     .title = จับคู่การตั้งค่าระบบของคุณสำหรับพื้นหลังและเนื้อหาของเว็บไซต์
+preferences-web-appearance-choice-tooltip-light =
+    .title = ใช้ลักษณะที่ปรากฏแบบสว่างสำหรับพื้นหลังและเนื้อหาของเว็บไซต์
+preferences-web-appearance-choice-tooltip-dark =
+    .title = ใช้ลักษณะที่ปรากฏแบบมืดสำหรับพื้นหลังและเนื้อหาของเว็บไซต์
 preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
@@ -198,6 +219,7 @@ preferences-web-appearance-override-warning = การเลือกสีข�
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = จัดการ { -brand-short-name } ชุดตกแต่ง ใน <a data-l10n-name="themes-link"> ส่วนขยายและชุดตกแต่ง </a>
 preferences-colors-header = สี
+preferences-colors-description = แทนที่สีเริ่มต้นของ { -brand-short-name } สำหรับข้อความ พื้นหลังของเว็บไซต์ และลิงก์
 preferences-colors-manage-button =
     .label = จัดการสี…
     .accesskey = C
@@ -894,6 +916,8 @@ sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = ตัวติดตามข้ามไซต์และสังคมออนไลน์ และแยกคุกกี้ที่เหลืออยู่
 sitedata-option-block-cross-site-tracking-cookies =
     .label = คุกกี้ติดตามข้ามไซต์
+sitedata-option-block-cross-site-cookies =
+    .label = คุกกี้ติดตามข้ามไซต์ และแยกคุกกี้ข้ามไซต์อื่น ๆ
 sitedata-option-block-unvisited =
     .label = คุกกี้จากเว็บไซต์ที่ไม่ได้เยี่ยมชม
 sitedata-option-block-all-third-party =
@@ -974,6 +998,13 @@ content-blocking-all-windows-tracking-content = ตัวติดตามเ�
 content-blocking-all-third-party-cookies = คุกกี้จากบุคคลที่สามทั้งหมด
 content-blocking-cryptominers = ตัวขุดเหรียญดิจิทัล
 content-blocking-fingerprinters = ลายนิ้วมือดิจิทัล
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = ลองใช้คุณลักษณะเกี่ยวกับความเป็นส่วนตัวที่ทรงพลังที่สุดของเราก่อนใคร
+    .accesskey = ล
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = การป้องกันคุกกี้ทั้งหมดประกอบด้วยคุกกี้สำหรับไซต์ที่คุณเยี่ยมชม ดังนั้นตัวติดตามจึงไม่สามารถใช้คุกกี้เหล่านี้เพื่อติดตามคุณบนไซต์ต่าง ๆ ได้
 content-blocking-etp-standard-tcp-rollout-learn-more = เรียนรู้เพิ่มเติม
 content-blocking-warning-title = ระวัง!
 content-blocking-and-isolating-etp-warning-description = การปิดกั้นตัวติดตามและแยกคุกกี้อาจส่งผลกระทบต่อการทำงานของบางไซต์ได้ โหลดหน้าใหม่พร้อมตัวติดตามเพื่อโหลดเนื้อหาทั้งหมด
