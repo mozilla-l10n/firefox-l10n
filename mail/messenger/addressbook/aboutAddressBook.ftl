@@ -122,6 +122,7 @@ about-addressbook-confirm-delete-contacts =
 ## Details
 
 about-addressbook-begin-edit-contact-button = 编辑
+about-addressbook-delete-edit-contact-button = 删除
 about-addressbook-cancel-edit-contact-button = 取消
 about-addressbook-save-edit-contact-button = 保存
 about-addressbook-details-email-addresses-header = 电子邮件地址

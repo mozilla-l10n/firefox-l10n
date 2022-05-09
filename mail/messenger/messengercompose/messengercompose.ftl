@@ -3,6 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
+compose-send-format-menu =
+    .label = 发送格式
+    .accesskey = F
+compose-send-auto-menu-item =
+    .label = 自动
+    .accesskey = A
+compose-send-both-menu-item =
+    .label = HTML 和纯文本
+    .accesskey = B
+compose-send-html-menu-item =
+    .label = 仅 HTML
+    .accesskey = H
+compose-send-plain-menu-item =
+    .label = 仅纯文本
+    .accesskey = P
+
 ## Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -126,10 +144,6 @@ button-return-receipt =
 
 ## Encryption
 
-message-to-be-signed-icon =
-    .alt = 签名消息
-message-to-be-encrypted-icon =
-    .alt = 加密消息
 encryption-menu =
     .label = 安全性
     .accesskey = c
@@ -373,3 +387,7 @@ cloud-file-attachment-error = 由于本地文件移动或删除，文件快传�
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = 文件快传账户错误
 cloud-file-account-error = 由于文件快传已被删除，文件快传附件 { $filename } 未能更新。
+
+## Link Preview
+
+link-preview-title = 链接预览
