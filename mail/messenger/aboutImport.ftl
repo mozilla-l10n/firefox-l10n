@@ -6,8 +6,11 @@ import-page-title = Impordi
 
 ## Header
 
+import-start = Imporditööriist
+import-start-desc = Sätete või andmete importimiseks teisest rakendusest või failist.
 import-from-app = Rakendusest importimine
 import-from-app-desc = Vali kontode, aadressiraamatute, kalendrite ja muude andmete importimine:
+import-from-file = Import failist
 import-address-book = Aadressiraamatu faili importimine
 import-calendar = Kalendri faili importimine
 export-profile = Ekspordi
@@ -26,6 +29,13 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-file = Import failist
+
+## Import from file selections
+
+file-profile = Importimine varundatud profiilist (.zip)
+file-calendar = Kalendrite importimine
+file-addressbook = Aadressiraamatute importimine
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Importimine rakendusest { $app }
@@ -66,7 +76,6 @@ calendar-import-into-new-calendar = Loo uus kalender
 
 ## Import dialog
 
-progress-pane-title = Importimine
 progress-pane-importing = Importimine
 progress-pane-exporting = Eksportimine
 progress-pane-finished-desc = Lõpetatud.
