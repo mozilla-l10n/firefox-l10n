@@ -393,3 +393,11 @@ cloud-file-attachment-error = Filelinki lisatud manust { $filename } polnud või
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Filelinki konto viga
 cloud-file-account-error = Filelinki lisatud manust { $filename } polnud võimalik uuendada, sest Filelinki konto on kustutatud.
+
+## Link Preview
+
+link-preview-title = Lingi eelvaade
+link-preview-description = { -brand-short-name } saab linkide asetamisel lisada manustatud eelvaate.
+link-preview-autoadd = Võimalusel lisatakse linkide eelvaated automaatselt
+link-preview-replace-now = Kas lisada sellele lingile eelvaade?
+link-preview-yes-replace = Jah
