@@ -393,3 +393,11 @@ cloud-file-attachment-error = Kan de Filelink-bijlage { $filename } niet bijwerk
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Filelink-accountfout
 cloud-file-account-error = Kan de Filelink-bijlage { $filename } niet bijwerken, omdat de Filelink-account is verwijderd.
+
+## Link Preview
+
+link-preview-title = Koppelingsvoorbeeld
+link-preview-description = { -brand-short-name } kan een ingesloten voorbeeld toevoegen bij het plakken van koppelingen.
+link-preview-autoadd = Koppelingsvoorbeelden indien mogelijk automatisch toevoegen
+link-preview-replace-now = Een koppelingsvoorbeeld voor deze koppeling toevoegen?
+link-preview-yes-replace = Ja

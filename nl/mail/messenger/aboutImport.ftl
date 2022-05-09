@@ -6,8 +6,11 @@ import-page-title = Importeren
 
 ## Header
 
+import-start = Importhulpmiddel
+import-start-desc = Instellingen of gegevens uit een toepassing of bestand importeren
 import-from-app = Importeren uit toepassing
 import-from-app-desc = Kies of u accounts, adresboeken, agenda’s en andere gegevens wilt importeren uit:
+import-from-file = Uit bestand importeren
 import-address-book = Adresboekbestand importeren
 import-calendar = Agendabestand importeren
 export-profile = Exporteren
@@ -26,6 +29,13 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-file = Uit een bestand importeren
+
+## Import from file selections
+
+file-profile = Reservekopie van profiel (.zip) importeren
+file-calendar = Agenda’s importeren
+file-addressbook = Adresboeken importeren
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Importeren uit { $app }
@@ -66,7 +76,6 @@ calendar-import-into-new-calendar = Een nieuwe agenda maken
 
 ## Import dialog
 
-progress-pane-title = Importeren
 progress-pane-importing = Importeren
 progress-pane-exporting = Exporteren
 progress-pane-finished-desc = Voltooid.
