@@ -425,3 +425,11 @@ cloud-file-attachment-error = Wedi methu diweddaru'r atodiad Filelink { $filenam
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Gwall Cyfrif Filelink
 cloud-file-account-error = Wedi methu diweddaru'r atodiad Filelink { $filename }, oherwydd bod ei ffeil leol wedi'i symud neu ei dileu.
+
+## Link Preview
+
+link-preview-title = Rhagolwg Dolen
+link-preview-description = Gall { -brand-short-name } ychwanegu rhagolwg wedi'i fewnblannu wrth ludo dolenni.
+link-preview-autoadd = Ychwanegu ragolygon dolenni'n awtomatig pan fo modd
+link-preview-replace-now = Ychwanegu Rhagolwg Dolen ar gyfer y ddolen hon?
+link-preview-yes-replace = Iawn

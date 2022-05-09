@@ -6,8 +6,11 @@ import-page-title = Mewnforio
 
 ## Header
 
+import-start = Teclyn Mewnforio
+import-start-desc = Mewnforio gosodiadau neu ddata o raglen neu ffeil.
 import-from-app = Mewnforio o'r Rhaglen
 import-from-app-desc = Dewis i fewnforio Cyfrifon, Llyfrau Cyfeiriadau, Calendrau a data o:
+import-from-file = Mewnforio o Ffeil
 import-address-book = Mewnforio Ffeil Llyfr Cyfeiriadau
 import-calendar = Mewnforio Ffeil Calendr
 export-profile = Allforio
@@ -26,6 +29,13 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-file = Mewnforio o Ffeil
+
+## Import from file selections
+
+file-profile = Mewnforio Proffil Wrth Gefn (.zip)
+file-calendar = Mewnforio Calendrau
+file-addressbook = Mewnforio Llyfrau Cyfeiriadau
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Mewnforio o { $app }
@@ -66,7 +76,6 @@ calendar-import-into-new-calendar = Creu calendr newydd
 
 ## Import dialog
 
-progress-pane-title = Yn mewnforio
 progress-pane-importing = Mewnforio
 progress-pane-exporting = Yn allforio
 progress-pane-finished-desc = Wedi gorffen.

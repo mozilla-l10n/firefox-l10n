@@ -149,6 +149,7 @@ about-addressbook-confirm-delete-contacts =
 ## Details
 
 about-addressbook-begin-edit-contact-button = Golygu
+about-addressbook-delete-edit-contact-button = Dileu
 about-addressbook-cancel-edit-contact-button = Diddymu
 about-addressbook-save-edit-contact-button = Cadw
 about-addressbook-details-email-addresses-header = Cyfeiriadau E-bost
