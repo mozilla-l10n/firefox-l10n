@@ -184,15 +184,21 @@
 <!ENTITY sortBySizeCmd.label "Չափը">
 <!ENTITY sortBySizeCmd.accesskey "փ">
 <!ENTITY sortByStatusCmd.label "Կարգավիճակ">
+<!ENTITY sortByStatusCmd.accesskey "ա">
 <!ENTITY sortByTagsCmd.label "Պիտակներ">
+<!ENTITY sortByTagsCmd.accesskey "կ">
 <!ENTITY sortByJunkStatusCmd.label "Թափաւնի կարգավիճակ">
 <!ENTITY sortByJunkStatusCmd.accesskey "Թ">
 <!ENTITY sortBySubjectCmd.label "Թեմայ">
+<!ENTITY sortBySubjectCmd.accesskey "մ">
 <!ENTITY sortByFromCmd.label "Ումից">
 <!ENTITY sortByFromCmd.accesskey "Ու">
 <!ENTITY sortByRecipientCmd.label "Ստացողը">
+<!ENTITY sortByRecipientCmd.accesskey "ա">
 <!ENTITY sortByCorrespondentCmd.label "Բաժանորդներ">
+<!ENTITY sortByCorrespondentCmd.accesskey "դ">
 <!ENTITY sortByUnreadCmd.label "Ընթերցել">
+<!ENTITY sortByUnreadCmd.accesskey "Ը">
 <!ENTITY sortByOrderReceivedCmd.label "Պատուերը ստացուել է">
 <!ENTITY sortByOrderReceivedCmd.accesskey "Պ">
 <!ENTITY sortAscending.label "Աճող">
@@ -206,8 +212,9 @@
 <!ENTITY groupBySort.label "Դասաւորել ըստ տեսակի">
 <!ENTITY groupBySort.accesskey "Խ">
 <!ENTITY msgsMenu.label "Նամակներ">
-<!ENTITY msgsMenu.accesskey "M">
+<!ENTITY msgsMenu.accesskey "Ն">
 <!ENTITY threads.label "Քննարկումներ">
+<!ENTITY threads.accesskey "ա">
 <!ENTITY allMsgsCmd.label "Բոլորը">
 <!ENTITY allMsgsCmd.accesskey "Բ">
 <!ENTITY expandAllThreadsCmd.label "Ընդարձակել բոլորը">
@@ -245,6 +252,7 @@
 <!ENTITY viewFeedWebPage.label "Վեբ էջ">
 <!ENTITY viewFeedWebPage.accesskey "Վ">
 <!ENTITY viewFeedSummary.label "Ընդհանուր">
+<!ENTITY viewFeedSummary.accesskey "դ">
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Սկզբնադիր ձեւաչափ">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "Ս">
 
@@ -252,8 +260,8 @@
 <!ENTITY viewAttachmentsInlineCmd.accesskey "Կ">
 
 <!ENTITY pageSourceCmd.label "Նամակի աղբեւրը">
-<!ENTITY pageSourceCmd.accesskey "օ">
-<!ENTITY pageSourceCmd.key "u">
+<!ENTITY pageSourceCmd.accesskey "ղ">
+<!ENTITY pageSourceCmd.key "բ">
 <!ENTITY getNewMessagesCmd.key "y">
 <!ENTITY getAllNewMessagesCmd.key "Y">
 
@@ -264,6 +272,7 @@
 <!ENTITY findCmd.accesskey "Ո">
 <!ENTITY findCmd.key "f">
 <!ENTITY findAgainCmd.label "Կրկին որոնել">
+<!ENTITY findAgainCmd.accesskey "ր">
 <!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "g">
@@ -335,7 +344,9 @@
 <!ENTITY replySenderCmd.label "Պատասխանել միայն ուղարկողին">
 <!ENTITY replySenderCmd.accesskey "Պ">
 <!ENTITY replyNewsgroupCmd2.label "Յետեւել տեղեկատուախմբին">
+<!ENTITY replyNewsgroupCmd2.accesskey "լ">
 <!ENTITY replyToAllMsgCmd.label "Պատասխանել բոլորին">
+<!ENTITY replyToAllMsgCmd.accesskey "ն">
 <!ENTITY replyToAllMsgCmd.key "պ">
 <!ENTITY replyToListMsgCmd.label "Պատասխանել ցուցակին">
 <!ENTITY replyToListMsgCmd.accesskey "Պ">
