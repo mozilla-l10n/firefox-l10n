@@ -21,9 +21,11 @@
 <!ENTITY replaceAllButton.label "Փոխարինել բոլորը">
 <!ENTITY replaceAllButton.accessKey "Բ">
 <!ENTITY stopButton.label "Կանգնեցնել">
+<!ENTITY stopButton.accessKey "գ">
 <!ENTITY userDictionary.label "Անձնական բառարան.">
 <!ENTITY moreDictionaries.label "Ներբեռնել աւել բառարաններ…">
 <!ENTITY addToUserDictionaryButton.label "Աւելացնել բառ">
+<!ENTITY addToUserDictionaryButton.accessKey "ա">
 <!ENTITY editUserDictionaryButton.label "Խմբագրել...">
 <!ENTITY editUserDictionaryButton.accessKey "Խ">
 <!ENTITY recheckButton2.label "Վերստուգել տեքստը">
