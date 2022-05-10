@@ -21,6 +21,7 @@
 <!ENTITY helpKeyboardShortcuts.accesskey "Ս">
 
 <!ENTITY helpFeedbackPage.label "Ուղարկել արձագանք…">
+<!ENTITY helpFeedbackPage.accesskey "Ու">
 
 <!ENTITY helpShowTour2.label "Շրջայց &brandShorterName; -ի հետ">
 <!ENTITY helpShowTour2.accesskey "օ">

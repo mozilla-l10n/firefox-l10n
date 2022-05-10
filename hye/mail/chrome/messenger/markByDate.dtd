@@ -4,4 +4,6 @@
 
 <!ENTITY messageMarkByDate.label "Նշել նամակները, որպէս ընթերցուած ըստ ամսաթուի">
 <!ENTITY markByDateLower.label "Նշել նամակները ընթերցուած՝">
+<!ENTITY markByDateLower.accesskey "ծ">
 <!ENTITY markByDateUpper.label "Ում.">
+<!ENTITY markByDateUpper.accesskey "Ու">
