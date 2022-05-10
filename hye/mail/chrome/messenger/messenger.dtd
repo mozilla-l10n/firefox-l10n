@@ -355,6 +355,7 @@
 <!ENTITY forwardMsgCmd.accesskey "Փ">
 <!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Փոխանցել որպէս">
+<!ENTITY forwardAsMenu.accesskey "խ">
 <!ENTITY forwardAsInline.label "Ներտող">
 <!ENTITY forwardAsInline.accesskey "Ն">
 <!ENTITY forwardAsAttachmentCmd.label "Կցորդ">
@@ -369,6 +370,7 @@
 <!ENTITY newMsgFromTemplateCmd.label "Նոր հաղորդագրութիւն՝ ձեւանմուշից">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Ստեղծել զտիչ նամակից…">
+<!ENTITY createFilter.accesskey "ե">
 <!ENTITY moveMsgToMenu.label "Տեղափոխել՝">
 <!ENTITY moveMsgToMenu.accesskey "Տ">
 <!ENTITY moveCopyMsgRecentMenu.label "Վերջին">
@@ -378,6 +380,7 @@
 <!ENTITY copyMsgToMenu.label "Պատճէնել՝">
 <!ENTITY copyMsgToMenu.accesskey "Պ">
 <!ENTITY moveToFolderAgain.label "Կրկին տեղափոխել">
+<!ENTITY moveToFolderAgain.accesskey "ե">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Անտեսել շղթայն">
 <!ENTITY killThreadMenu.accesskey "Ա">
@@ -389,6 +392,7 @@
 <!ENTITY watchThreadMenu.accesskey "Հ">
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY tagMenu.label "Պիտակ">
+<!ENTITY tagMenu.accesskey "կ">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
@@ -400,6 +404,7 @@
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Նշել">
+<!ENTITY markMenu.accesskey "լ">
 <!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Որպէս ընթերցուած">
 <!ENTITY markAsReadCmd.accesskey "Ը">
@@ -419,17 +424,20 @@
 <!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Որպէս թափաւն">
 <!ENTITY markAsJunkCmd.accesskey "Թ">
-<!ENTITY markAsJunkCmd.key "j">
+<!ENTITY markAsJunkCmd.key "թ">
 <!ENTITY markAsNotJunkCmd.label "Ոչ որպէս փոստաղբ">
 <!ENTITY markAsNotJunkCmd.accesskey "Ո">
-<!ENTITY markAsNotJunkCmd.key "j">
+<!ENTITY markAsNotJunkCmd.key "փ">
 <!ENTITY recalculateJunkScoreCmd.label "Աշխատեցնել թափաւն փստի կառավարումը">
 <!ENTITY recalculateJunkScoreCmd.accesskey "Կ">
 <!ENTITY openMessageWindowCmd.label "Բացել նամակը">
 <!ENTITY openMessageWindowCmd.accesskey "Բ">
+<!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openInConversationCmd.label "Բացել հաղորդակցման մէջ">
+<!ENTITY openInConversationCmd.accesskey "դ">
 <!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Կցորդներ">
+<!ENTITY openAttachmentListCmd.accesskey "դ">
 <!ENTITY openFeedMessage1.label "Յետադարձ կապի հաղորդագրութիւնները բացելիս">
 <!ENTITY openFeedMessage1.accesskey "Բ">
 <!ENTITY openFeedWebPage.label "Բացել որպէս վեբ էջ">
@@ -452,6 +460,7 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addonNoPrefs.label "Լրացուցիչ կարգաւորումներ չեն գտնուել:">
 <!ENTITY activitymanager.label "Ակտիւութեան կառավարիչ">
+<!ENTITY activitymanager.accesskey "ւ">
 <!ENTITY imAccountsStatus.label "Զրոյցի կարգավիճակը">
 <!ENTITY imAccountsStatus.accesskey "Զ">
 <!ENTITY imStatus.available          "Հասանելի">
@@ -459,20 +468,26 @@
 <!ENTITY imStatus.offline            "Անցանց">
 <!ENTITY imStatus.showAccounts       "Ցուցադրել հաշիւները…">
 <!ENTITY joinChatCmd.label "Միանալ զրուցարան…">
+<!ENTITY joinChatCmd.accesskey "ն">
 <!ENTITY savedFiles.label "Պահպանուած նիշեր">
+<!ENTITY savedFiles.accesskey "ի">
 <!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd2.label "Նամակի զտիչներ">
 <!ENTITY filtersCmd2.accesskey "Զ">
 <!ENTITY filtersApply.label "Աշխատեցնել զտիչները պանակում">
 <!ENTITY filtersApply.accesskey "Ա">
 <!ENTITY filtersApplyToSelection.label "Աշխատեցնել զտիչները ընտրուած նամակներում">
+<!ENTITY filtersApplyToSelection.accesskey "շ">
 <!ENTITY filtersApplyToMessage.label "Աշխատեցնել զտիչները նամակում">
+<!ENTITY filtersApplyToMessage.accesskey "շ">
 <!ENTITY runJunkControls.label "Աշխատեցնել թափաւնի կառավարումը թղթապանակում">
 <!ENTITY runJunkControls.accesskey "Կ">
 <!ENTITY deleteJunk.label "Ջնջել թափաւն նամակը՝">
 <!ENTITY deleteJunk.accesskey "Ջ">
 <!ENTITY importCmd.label "Ներածել…">
+<!ENTITY importCmd.accesskey "ե">
 <!ENTITY exportCmd.label "Արտահանել…">
+<!ENTITY exportCmd.accesskey "ր">
 <!ENTITY clearRecentHistory.label "Ջնջել վերջին պատմութիւնը…">
 <!ENTITY clearRecentHistory.accesskey "Պ">
 <!ENTITY accountManagerCmd2.label "Հաշուի կարգաւորումներ">
@@ -573,6 +588,7 @@
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Անտեսել զգուշացումը այս նամակի համար">
+<!ENTITY phishingOptionIgnore.accesskey "լ">
 <!ENTITY phishingOptionSettings.label "Խմբագրել խաբեբայութեան յայտնաբերման ընտրանքները…">
 <!ENTITY phishingOptionSettings.accesskey "խ">
 <!ENTITY phishingOptionSettingsUnix.label "Խմբագրել խաբեբայութեան յայտնաբերման կարգաւորումները…">
@@ -618,20 +634,27 @@
 <!ENTITY folderContextCompact.label "Սեղմել">
 <!ENTITY folderContextCompact.accesskey "Ս">
 <!ENTITY folderContextEmptyTrash.label "Դատարկել աղբարկղը">
+<!ENTITY folderContextEmptyTrash.accesskey "ե">
 <!ENTITY folderContextEmptyJunk.label "Դատարկել փոստաղբը">
 <!ENTITY folderContextEmptyJunk.accesskey "Փ">
 <!ENTITY folderContextSendUnsentMessages.label "Ուղարկել չուղարկուած նամակները">
+<!ENTITY folderContextSendUnsentMessages.accesskey "լ">
 <!ENTITY folderContextUnsubscribe.label "Չեղարկել բաժանորդագրութիւնը">
 <!ENTITY folderContextUnsubscribe.accesskey "Չ">
 <!ENTITY folderContextMarkNewsgroupRead.label "Նշել տեղեկատուախումբը որպէս ընթերցուած">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "լ">
 <!ENTITY folderContextMarkMailFolderRead.label "Նշել թղթապանակը, որպէս ընթերցուած">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "լ">
 <!ENTITY folderContextSubscribe.label "Բաժանորդագրուել…">
+<!ENTITY folderContextSubscribe.accesskey "ժ">
 <!ENTITY folderContextSearchForMessages.label "Նամակների որոնում…">
 <!ENTITY folderContextSearchForMessages.accesskey "Ո">
 <!ENTITY folderContextProperties2.label "Յատկութիւններ">
 <!ENTITY folderContextProperties2.accesskey "Յ">
 <!ENTITY folderContextFavoriteFolder.label "Ընտրեալ թղթապանակ">
+<!ENTITY folderContextFavoriteFolder.accesskey "ն">
 <!ENTITY folderContextSettings2.label "Կարգաւորումներ">
+<!ENTITY folderContextSettings2.accesskey "ա">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Անունը կամ ել․ փոստը պարունակում է՝">
@@ -709,7 +732,9 @@
 <!ENTITY contextOpenNewTab.label "Հաղորդագրութիւնը բացել նոր ներդիրում">
 <!ENTITY contextOpenNewTab.accesskey "Ն">
 <!ENTITY contextOpenConversation.label "Բացել նամակը զրուցարանում">
+<!ENTITY contextOpenConversation.accesskey "լ">
 <!ENTITY contextOpenContainingFolder.label "Բացել նամակը թղթապանակից">
+<!ENTITY contextOpenContainingFolder.accesskey "լ">
 <!ENTITY contextEditMsgAsNew.label "Խմբագրել որպէս նոր նամակ">
 <!ENTITY contextEditMsgAsNew.accesskey "Խ">
 <!ENTITY contextEditDraftMsg.label "Խմբագրել սեւագիր նամակը">
@@ -720,6 +745,7 @@
 <!ENTITY contextReplySender.label "Պատասխանել միայն ուղարկողին">
 <!ENTITY contextReplySender.accesskey "Պ">
 <!ENTITY contextReplyNewsgroup2.label "Հետեւել տեղեկատուախմբին">
+<!ENTITY contextReplyNewsgroup2.accesskey "ե">
 <!ENTITY contextReplyAll.label "Պատասխանել բոլորին">
 <!ENTITY contextReplyAll.accesskey "Բ">
 <!ENTITY contextReplyList.label "Պատասխանել ցանկին">
@@ -727,11 +753,13 @@
 <!ENTITY contextForward.label "Փոխանցել">
 <!ENTITY contextForward.accesskey "Փ">
 <!ENTITY contextForwardAsMenu.label "Փոխանցել որպէս">
+<!ENTITY contextForwardAsMenu.accesskey "ո">
 <!ENTITY contextForwardAsInline.label "Ներտող">
 <!ENTITY contextForwardAsInline.accesskey "Ն">
 <!ENTITY contextForwardAsAttachmentItem.label "Կցորդ">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "Կ">
 <!ENTITY contextMultiForwardAsAttachment.label "Փոխանցել որպէս կցորդ">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "ո">
 <!ENTITY contextMoveMsgMenu.label "Տեղափոխել՝">
 <!ENTITY contextMoveMsgMenu.accesskey "Տ">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Վերջին">
@@ -741,6 +769,7 @@
 <!ENTITY contextCopyMsgMenu.label "Պատճէնել՝">
 <!ENTITY contextCopyMsgMenu.accesskey "Պ">
 <!ENTITY contextKillThreadMenu.label "Անտեսել քննարկումը">
+<!ENTITY contextKillSubthreadMenu.accesskey "ա">
 <!ENTITY contextKillThreadMenu.accesskey "Ա">
 <!ENTITY contextKillSubthreadMenu.label "Անտեսել քննարկման թեմայն">
 <!ENTITY contextWatchThreadMenu.label "Հետեւել շղթային">
@@ -803,7 +832,8 @@
 <!ENTITY contextPause.accesskey "Դ">
 <!ENTITY contextMute.label "Անձայն">
 <!ENTITY contextMute.accesskey "Ա">
-<!ENTITY contextUnmute.label "Ձայնով">
+<!ENTITY contextUnmute.label "Միացնել ձայնը">
+<!ENTITY contextUnmute.accesskey "ձ">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
@@ -857,6 +887,7 @@
 <!ENTITY CreateFilterFrom.label "Ստեղծել զտիչ՝…">
 <!ENTITY CreateFilterFrom.accesskey "Զ">
 <!ENTITY reportPhishingURL.label "Հաղորդել խաբկանքի մասին">
+<!ENTITY reportPhishingURL.accesskey "ո">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Աւելացնել բառարաններ․․․">
@@ -864,6 +895,7 @@
 
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Պահպանել յղումը որպէս…">
+<!ENTITY saveLinkAsCmd.accesskey "մ">
 <!ENTITY saveImageAsCmd.label "Պահպանել նկարը որպէս…">
 <!ENTITY copyLinkCmd.label "Պատճէնել յղման տեղադրութիւնը">
 <!ENTITY copyLinkCmd.accesskey "Յ">
