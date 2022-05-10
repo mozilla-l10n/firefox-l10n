@@ -397,6 +397,7 @@ cloud-file-account-error = Ձախողուեց թարմացնել նիշի յղմ
 ## Link Preview
 
 link-preview-title = Յղման նախադիտում
+link-preview-description = { -brand-short-name }-ը կարող է աւելացնել ներկառուցուած նախադիտման յղումներ տեղադրելու ժամանակ:
 link-preview-autoadd = Ինքնաբար աւելացնում է յղման նախադիտում, երբ հնարաւոր է
 link-preview-replace-now = Այս յղման համար աւելացնե՞լ յղման նախադիտում
 link-preview-yes-replace = Այո
