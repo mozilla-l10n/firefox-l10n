@@ -20,6 +20,7 @@
 <!ENTITY replaceButton.label "Փոխարինել">
 <!ENTITY replaceButton.accesskey "Փ">
 <!ENTITY replaceAndFindButton.label "Փոխարինել եւ գտնել">
+<!ENTITY replaceAndFindButton.accesskey "լ">
 <!ENTITY replaceAllButton.label "Փոխարինել բոլորը">
 <!ENTITY replaceAllButton.accesskey "Բ">
 <!ENTITY closeButton.label "Փակել">

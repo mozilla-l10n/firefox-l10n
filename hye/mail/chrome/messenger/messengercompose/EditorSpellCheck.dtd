@@ -9,11 +9,13 @@
 <!ENTITY wordEditField.label "Փոխարինել․">
 <!ENTITY wordEditField.accessKey "փ">
 <!ENTITY checkwordButton.label "Ստուգել բառը">
+<!ENTITY checkwordButton.accessKey "լ">
 <!ENTITY suggestions.label "Առաջարկութիւններ․">
 <!ENTITY suggestions.accessKey "ա">
 <!ENTITY ignoreButton.label "Արհամարհել">
 <!ENTITY ignoreButton.accessKey "Ա">
 <!ENTITY ignoreAllButton.label "Անտեսել բոլորը">
+<!ENTITY ignoreAllButton.accessKey "տ">
 <!ENTITY replaceButton.label "Փոխարինել">
 <!ENTITY replaceButton.accessKey "Փ">
 <!ENTITY replaceAllButton.label "Փոխարինել բոլորը">

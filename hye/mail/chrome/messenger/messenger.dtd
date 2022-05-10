@@ -872,6 +872,7 @@
 <!ENTITY EditContact1.label "Խմբագրել կապորդը">
 <!ENTITY EditContact1.accesskey "Խ">
 <!ENTITY ViewContact.label "Նայել կապորդը">
+<!ENTITY ViewContact.accesskey "Ն">
 <!ENTITY SubscribeToNewsgroup.label "Բաժանորդագրուել տեղեկատուախմբին">
 <!ENTITY SubscribeToNewsgroup.accesskey "Տ">
 <!ENTITY SendMessageTo.label "Գրել նամակ">
@@ -897,6 +898,7 @@
 <!ENTITY saveLinkAsCmd.label "Պահպանել յղումը որպէս…">
 <!ENTITY saveLinkAsCmd.accesskey "մ">
 <!ENTITY saveImageAsCmd.label "Պահպանել նկարը որպէս…">
+<!ENTITY saveImageAsCmd.accesskey "ն">
 <!ENTITY copyLinkCmd.label "Պատճէնել յղման տեղադրութիւնը">
 <!ENTITY copyLinkCmd.accesskey "Յ">
 <!ENTITY copyImageAllCmd.label "Պատճէնել նկարը">
