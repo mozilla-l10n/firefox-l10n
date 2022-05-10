@@ -62,8 +62,8 @@ about-processes-unknown-process = Այղ․ { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, սպասարկու)
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, մեծ)
+about-processes-web-serviceworker = { $origin } ({ $pid }, սպասարկու)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, մեկուսացուած այղ աղբեւրներից)
 about-processes-web-isolated-process-private = { $origin } — Գաղտնի ({ $pid })
 about-processes-web-large-allocation-process-private = { $origin } — Գաղտնի ({ $pid }, մեծ)
@@ -117,6 +117,8 @@ about-processes-frame-name-one = Ցածրարկիչ շրջանակ. { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Ցածրարկիչ շրջանակներ ({ $number }). { $shortUrl }
+# Utility process actor names
+about-processes-utility-actor-unknown = Անյայտ հեղինակ
 
 ## Displaying CPU (percentage and total)
 ## Variables:
