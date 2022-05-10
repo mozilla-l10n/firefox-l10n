@@ -30,3 +30,5 @@ styleeditor-copy-url =
 styleeditor-go-to-line =
     .label = Aller à la ligne…
     .accesskey = r
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Aucune feuille de style trouvée.
