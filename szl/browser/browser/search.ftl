@@ -24,3 +24,11 @@ searchbar-input =
     .placeholder = Szukej
 searchbar-icon =
     .tooltiptext = Szukej
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+
+removed-search-engine-message = <strong>Zmiyniyła sie bazowo wyszukowarka.</strong>Wyszukowarka { $oldEngine } już niy je dostympno jako bazowo wyszukowarka w aplikacyji { -brand-short-name }. Teroz za bazowo wyszukowarka robi { $newEngine }. Coby jōm zmiynic na inkszo, idź do sztalōnkōw. <label data-l10n-name="remove-search-engine-article">Przewiydz sie wiyncyj</label>
+remove-search-engine-button = OK
