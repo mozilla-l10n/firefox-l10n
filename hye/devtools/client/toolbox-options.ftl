@@ -34,6 +34,8 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = Կրճատել DOM -ի յատկանիշտերը
 options-collapse-attrs-tooltip =
     .title = Հսկիչներում երկար յատկանիշների կրճատում
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Սեղմէք եւ քաշէք՝ չափի արժէքները խմբագրելու համար
 
 ## "Default Color Unit" options for the Inspector
 
