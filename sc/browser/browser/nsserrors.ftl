@@ -91,6 +91,7 @@ ssl-error-encryption-failure = S'algoritmu de tzifradu de datos de massa at fall
 ssl-error-decryption-failure = S'algoritmu de detzifratzione de datos de massa at fallidu in su pachete de tzifrados seberadu.
 ssl-error-md5-digest-failure = S’esecutzione de sa funtzione MD5 digest est fallida.
 ssl-error-sha-digest-failure = S’esecutzione de sa funtzione SHA-1 digest est fallida.
+ssl-error-mac-computation-failure = Faddina in su càrculu de su MAC.
 ssl-error-sym-key-context-failure = Faddina in sa creatzione de unu cuntestu de crae simmètrica.
 ssl-error-sym-key-unwrap-failure = Faddina in s'estratzione de sa crae simmètrica in su messàgiu de iscàmbiu de craes de su cliente.
 ssl-error-init-cipher-suite-failure = Faddina in s'aviu de su pachete de tzifrados seberadu.
