@@ -76,6 +76,7 @@ ctrl-cmd-shift-pretty-prefix =
        *[other] Ctrl+Shift+
     }
 trigger-attachment-picker-key = Կ
+toggle-attachment-pane-key = M
 menuitem-toggle-attachment-pane =
     .label = Կցորդի վահանակ
     .accesskey = դ
@@ -209,7 +210,7 @@ to-compose-show-address-row-label =
     .value = { to-compose-address-row-label.value }
     .tooltiptext = Ցուցադրել { to-compose-address-row-label.value } Դաշտը ({ to-compose-show-address-row-menuitem.acceltext })
 cc-compose-address-row-label =
-    .value = Cc
+    .value = Պատճէն
 #   $key (String) - the shortcut key for this field
 cc-compose-show-address-row-menuitem =
     .label = { cc-compose-address-row-label.value } Դաշտ
@@ -246,19 +247,19 @@ show-to-row-extra-menuitem =
 show-to-row-button = Ում
     .title = Ցոյց տալ Ում դաշտը ({ ctrl-cmd-shift-pretty-prefix }{ $key })
 cc-address-row-label =
-    .value = Պատճէնացանկ
+    .value = Պատճէն
 #   $key (String) - the shortcut key for this field
 show-cc-row-main-menuitem =
-    .label = Պատճէնացանկ
+    .label = Պատճէն
     .accesskey = C
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 # No acceltext should be shown.
 # The label should match the show-cc-row-button text.
 show-cc-row-extra-menuitem =
-    .label = Պատճէնացանկ
+    .label = Պատճէն
     .accesskey = Պ
 #   $key (String) - the shortcut key for this field
-show-cc-row-button = Պատճէնացանկ
+show-cc-row-button = Պատճէն
     .title = Ցուցադրել պատճէնացանկը ({ ctrl-cmd-shift-pretty-prefix }{ $key })
 bcc-address-row-label =
     .value = Ծածկապատճէն
@@ -304,6 +305,7 @@ many-public-recipients-prompt-send = Ուղարկել ամէն պարագայո�
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Հասցէին համապատասխանող եզակի ինքնութիւն չի գտնուել: Հաղորդագրութիւնը կուղարկուի ընթացիկ From դաշտի եւ ինքնութեան կարգաւորումների միջոցով { $identity }
+encrypted-bcc-warning = Գաղտնագրուած հաղորդագրութիւն ուղարկելիս Ծածկապատճէն դաշտի ստացողները լիովին չեն թաքցուում: Բոլոր հասցէատէրերը կարող են նոյնականացնել նրանց:
 encrypted-bcc-ignore-button = Հասկանալի է
 
 ## Editing
