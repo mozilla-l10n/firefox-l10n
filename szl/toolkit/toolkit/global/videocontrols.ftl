@@ -31,6 +31,13 @@ videocontrols-closed-caption-off =
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Ôbroz w ôbrazie
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label = Ôglōndej ze "Ôbroz w ôbrazie"
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer = Puszczej filmy na przodku tyż kiedy robisz co inkszego w aplikacyji { -brand-short-name }
 videocontrols-error-aborted = Ladowanie video sztopło.
 videocontrols-error-network = Przegrowanie video stargane skuli felera neca.
 videocontrols-error-decode = Niy idzie puścić video, bo zbiōr je felerny.
