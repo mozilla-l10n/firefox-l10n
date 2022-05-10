@@ -125,6 +125,7 @@ about-addressbook-confirm-delete-contacts =
 ## Details
 
 about-addressbook-begin-edit-contact-button = Խմբագրել
+about-addressbook-delete-edit-contact-button = Ջնջել
 about-addressbook-cancel-edit-contact-button = Չեղարկել
 about-addressbook-save-edit-contact-button = Պահպանել
 about-addressbook-details-email-addresses-header = Եղեկտրոնային փոստի հասցէներ

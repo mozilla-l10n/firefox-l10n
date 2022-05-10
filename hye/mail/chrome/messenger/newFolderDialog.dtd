@@ -13,3 +13,4 @@
 <!ENTITY foldersOnly.label          "Միայն պանակները">
 <!ENTITY messagesOnly.label         "Միայն հաղորդագրութիւնները">
 <!ENTITY accept.label               "Ստեղծել պանակ">
+<!ENTITY accept.accesskey           "տ">

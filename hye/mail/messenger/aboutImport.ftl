@@ -7,11 +7,12 @@ import-page-title = Ներմուծել
 ## Header
 
 import-start = Ներածման գործիք
-import-from-app = Ներմուծել յաւելուածից
-import-from-app-desc = Ընտրէք ներմուծել հաշիւներ, հասցէագրքեր, աւրացոյցներ եւ այղ տուեալներ հետեւեալից.
+import-start-desc = Ներածէք կարգաւորումներ կամ տուեալներ յաւելուածից կամ նիշից:
+import-from-app = Ներածել յաւելուածից
+import-from-app-desc = Ընտրէք ներածել հաշիւներ, հասցէագրքեր, աւրացոյցներ եւ այղ տուեալներ հետեւեալից.
 import-from-file = Ներածել նիշից
-import-address-book = Ներմուծել հասցէագրքի նիշը
-import-calendar = Ներմուծել աւրացոյցի նիշը
+import-address-book = Ներածել հասցէագրքի նիշը
+import-calendar = Ներածել աւրացոյցի նիշը
 export-profile = Արտածել
 
 ## Buttons
@@ -32,6 +33,7 @@ source-file = Ներածել նիշից
 
 ## Import from file selections
 
+file-profile = Ներմածել պահուստաւորուած հաշիւը (.zip)
 file-calendar = Ներածել աւրացոյցները
 file-addressbook = Ներածել հասցէագրքերը
 # Variables:
