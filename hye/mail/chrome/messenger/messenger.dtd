@@ -97,25 +97,26 @@
 <!ENTITY deleteMsgsCmd.label "Ջնջել ընտրուած նամակները">
 <!ENTITY deleteMsgsCmd.accesskey "Ջ">
 <!ENTITY undeleteMsgsCmd.label "Յետարկել ընտրուած նամակների ջնջումը">
-<!ENTITY undeleteMsgsCmd.accesskey "d">
+<!ENTITY undeleteMsgsCmd.accesskey "ա">
 <!ENTITY deleteFolderCmd.label "Ջնջել թղթապանակը">
-<!ENTITY deleteFolderCmd.accesskey "D">
+<!ENTITY deleteFolderCmd.accesskey "Ջ">
 <!ENTITY unsubscribeNewsgroupCmd.label "Բաժանորդագրութիւնն աւարտել">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "ն">
 <!ENTITY selectMenu.label "Ընտրել">
-<!ENTITY selectMenu.accesskey "S">
+<!ENTITY selectMenu.accesskey "Ը">
 <!ENTITY all.label "Բոլորը">
-<!ENTITY all.accesskey "A">
+<!ENTITY all.accesskey "Բ">
 <!ENTITY selectThreadCmd.label "Շղթայ">
-<!ENTITY selectThreadCmd.accesskey "T">
-<!ENTITY selectThreadCmd.key "a">
+<!ENTITY selectThreadCmd.accesskey "Շ">
+<!ENTITY selectThreadCmd.key "ա">
 <!ENTITY selectFlaggedCmd.label "Աստղանշուած նամակներ">
-<!ENTITY selectFlaggedCmd.accesskey "S">
+<!ENTITY selectFlaggedCmd.accesskey "Ա">
 <!ENTITY menuFavoriteFolder.label "Ընտրեալ թղթապանակ">
-<!ENTITY menuFavoriteFolder.accesskey "v">
+<!ENTITY menuFavoriteFolder.accesskey "տ">
 <!ENTITY folderPropsCmd2.label "Յատկութիւններ...">
 <!ENTITY folderPropsFolderCmd2.label "Թղթապանակի յատկութիւնները">
 <!ENTITY folderPropsNewsgroupCmd2.label "Տեղեկատուախմբերի յատկութիւնները">
-<!ENTITY folderPropsCmd.accesskey "օ">
+<!ENTITY folderPropsCmd.accesskey "տ">
 <!ENTITY undoDeleteMsgCmd.label "Յետ ջնջել նամակը">
 <!ENTITY redoDeleteMsgCmd.label "Վերարկել՝ ջնջել նամակը">
 <!ENTITY undoMoveMsgCmd.label "Յետ՝ տեղափոխել նամակը">
@@ -125,58 +126,63 @@
 <!ENTITY undoMarkAllCmd.label "Յետարկել՝ բշել բոլորը ընթերցուած">
 <!ENTITY redoMarkAllCmd.label "Վերարկել՝ նշել բոլորը ընթերցուած">
 <!ENTITY undoDefaultCmd.label "Յետարկել">
-<!ENTITY undoDefaultCmd.accesskey "U">
+<!ENTITY undoDefaultCmd.accesskey "Յ">
 <!ENTITY redoDefaultCmd.label "Վերարկել">
-<!ENTITY redoDefaultCmd.accesskey "R">
+<!ENTITY redoDefaultCmd.accesskey "Վ">
 
 <!-- View Menu -->
 <!ENTITY menubarCmd.label "Ցանկագաւտի">
 <!ENTITY menubarCmd.accesskey "Ց">
 <!ENTITY showMessengerToolbarCmd.label "Փոստային գործիքներ">
+<!ENTITY showMessengerToolbarCmd.accesskey "ո">
 <!ENTITY customizeToolbar.label "Կարգաւորել…">
 <!ENTITY customizeToolbar.accesskey "Յ">
 
 <!ENTITY messagePaneLayoutStyle.label "Դասաւորութիւն">
-<!ENTITY messagePaneLayoutStyle.accesskey "L">
+<!ENTITY messagePaneLayoutStyle.accesskey "Դ">
 <!ENTITY messagePaneClassic.label "Դասական տեսք">
-<!ENTITY messagePaneClassic.accesskey "C">
+<!ENTITY messagePaneClassic.accesskey "Դ">
 <!ENTITY messagePaneWide.label "Լայն դիտում">
-<!ENTITY messagePaneWide.accesskey "W">
+<!ENTITY messagePaneWide.accesskey "Լ">
 <!ENTITY messagePaneVertical.label "Ուղղահայեաց տեսք">
-<!ENTITY messagePaneVertical.accesskey "V">
+<!ENTITY messagePaneVertical.accesskey "Ո">
 <!ENTITY showFolderPaneCmd.label "Թղթապանակի փեղկ">
-<!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showFolderPaneCmd.accesskey "Թ">
 <!ENTITY showFolderPaneColsCmd.label "Թղթապանակի վահանակի սիւներ">
-<!ENTITY showFolderPaneColsCmd.accesskey "P">
+<!ENTITY showFolderPaneColsCmd.accesskey "վ">
 <!ENTITY showMessageCmd.label "Նամակի վահանակ">
-<!ENTITY showMessageCmd.accesskey "M">
+<!ENTITY showMessageCmd.accesskey "Ն">
 
 <!ENTITY folderView.label "Թղթապանակներ">
-<!ENTITY folderView.accesskey "F">
+<!ENTITY folderView.accesskey "Թ">
 <!ENTITY unifiedFolders.label "Միացեալ">
-<!ENTITY unifiedFolders.accesskey "n">
+<!ENTITY unifiedFolders.accesskey "մ">
 <!ENTITY allFolders.label "Բոլորը">
-<!ENTITY allFolders.accesskey "A">
+<!ENTITY allFolders.accesskey "Բ">
 <!ENTITY unreadFolders.label "Չընթերցուած">
-<!ENTITY unreadFolders.accesskey "Ս">
+<!ENTITY unreadFolders.accesskey "Չ">
 <!ENTITY favoriteFolders.label "Ընտրեալ">
-<!ENTITY favoriteFolders.accesskey "F">
+<!ENTITY favoriteFolders.accesskey "Ը">
 <!ENTITY recentFolders.label "Վերջին">
-<!ENTITY recentFolders.accesskey "R">
+<!ENTITY recentFolders.accesskey "Վ">
 <!ENTITY compactVersion.label "Հաւաք տեսք">
-<!ENTITY compactVersion.accesskey "C">
+<!ENTITY compactVersion.accesskey "Հ">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Տեսակաւորել ըստ">
 <!ENTITY sortMenu.accesskey "Տ">
 <!ENTITY sortByDateCmd.label "Ամսաթիւ">
+<!ENTITY sortByDateCmd.accesskey "ի">
 <!ENTITY sortByReceivedCmd.label "Ստացուած">
+<!ENTITY sortByReceivedCmd.accesskey "ց">
 <!ENTITY sortByStarCmd.label "Աստղ">
-<!ENTITY sortByStarCmd.accesskey "Տ">
+<!ENTITY sortByStarCmd.accesskey "Ա">
 <!ENTITY sortByAttachmentsCmd.label "Կցորդներ">
+<!ENTITY sortByAttachmentsCmd.accesskey "դ">
 <!ENTITY sortByPriorityCmd.label "Առաջնահերթ">
 <!ENTITY sortByPriorityCmd.accesskey "Ա">
 <!ENTITY sortBySizeCmd.label "Չափը">
+<!ENTITY sortBySizeCmd.accesskey "փ">
 <!ENTITY sortByStatusCmd.label "Կարգավիճակ">
 <!ENTITY sortByTagsCmd.label "Պիտակներ">
 <!ENTITY sortByJunkStatusCmd.label "Թափաւնի կարգավիճակ">
