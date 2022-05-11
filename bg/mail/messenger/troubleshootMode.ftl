@@ -5,21 +5,16 @@
 troubleshoot-mode-window =
     .title = Отстраняване на неизправности с { -brand-short-name }
     .style = width: 37em;
-
 troubleshoot-mode-description2 = Можете да направите някои или всички от тези промени постоянни:
-
 troubleshoot-mode-disable-addons =
     .label = Изключване на всички добавки
-    .accesskey = D
-
+    .accesskey = д
 troubleshoot-mode-change-and-restart =
     .label = Извършване на промените и рестартиране
-    .accesskey = M
-
+    .accesskey = р
 troubleshoot-mode-continue =
     .label = Продължете в режим за отстраняване на неизправности
     .accesskey = р
-
 troubleshoot-mode-quit =
     .label =
         { PLATFORM() ->
