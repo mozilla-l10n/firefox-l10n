@@ -266,7 +266,7 @@ compact-folder-size =
 use-cache-before =
     .value = Nota að hámarki
     .accesskey = o
-use-cache-after = MB af plássi fyrir flýtiminni
+use-cache-after = MB af plássi fyrir skyndiminni
 
 ##
 
