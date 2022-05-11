@@ -6,7 +6,7 @@
 default-browser-notification-message = <strong>Задайте { -brand-short-name } като четец по подразбиране?</strong> Бързо, безопасно и поверително разглеждане, когато използвате интернет.
 default-browser-notification-button =
     .label = Задаване по подразбиране
-    .accesskey = S
+    .accesskey = З
 
 ## These strings are used for the default browser prompt. There are 2 variations
 ## depending on the operating system (Windows vs other). The checkbox label and
