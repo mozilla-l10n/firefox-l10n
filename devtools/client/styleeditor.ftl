@@ -8,6 +8,8 @@ styleeditor-new-button =
 styleeditor-import-button =
     .tooltiptext = Importar e anexar uma folha de estilo existente ao documento
     .accesskey = I
+styleeditor-filter-input =
+    .placeholder = Filtrar folhas de estilo
 styleeditor-visibility-toggle =
     .tooltiptext = Alternar visibilidade da folha de estilo
     .accesskey = S
@@ -28,3 +30,5 @@ styleeditor-copy-url =
 styleeditor-go-to-line =
     .label = Ir para linha…
     .accesskey = l
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Não foi encontrada nenhuma folha de estilo correspondente.
