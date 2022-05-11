@@ -255,11 +255,9 @@ chat-button-unread-messages = { $count }
 
 ## Spaces toolbar customize panel
 
-spaces-context-customize =
-    .label = Sérsníða…
 menuitem-customize-label =
     .label = Sérsníða…
-spaces-customize-panel-title = Stillingar Svæða-verkfæraslár
+spaces-customize-panel-title = Stillingar svæða-verkfæraslár
 spaces-customize-background-color = Bakgrunnslitur
 spaces-customize-icon-color = Litur á hnapp
 # The background color used on the buttons of the spaces toolbar when they are
@@ -270,7 +268,5 @@ spaces-customize-accent-background-color = Valinn bakgrunnslitur fyrir hnapp
 spaces-customize-accent-text-color = Valinn litur á hnapp
 spaces-customize-button-restore = Endurstilla sjálfgefin gildi
     .accesskey = r
-spaces-customize-button-save = Lokið
-    .accesskey = k
 customize-panel-button-save = Lokið
     .accesskey = k

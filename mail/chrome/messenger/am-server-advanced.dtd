@@ -10,7 +10,7 @@
 <!ENTITY usingSubscription.accesskey "S">
 <!ENTITY dualUseFolders.label "Póstþjónn styður möppur sem innihalda undirmöppur og póst">
 <!ENTITY dualUseFolders.accesskey "j">
-<!ENTITY maximumConnectionsNumber.label "Hámarksfjöldi tenginga á netþjón sem setja á í flýtiminni">
+<!ENTITY maximumConnectionsNumber.label "Hámarksfjöldi netþjónatenginga í skyndiminni">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Þessar stillingar skilgreina nafnsvið á IMAP þjóni">
