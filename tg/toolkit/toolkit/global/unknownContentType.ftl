@@ -12,6 +12,8 @@ unknowncontenttype-settingschange =
            *[other] Танзимот метавонад дар хусусиятҳои { -brand-short-name } тағйир ёбад.
         }
 unknowncontenttype-intro = Шумо барои кушодан зеринро интихоб кардед:
+unknowncontenttype-which-is = дар навъи файли:
+unknowncontenttype-from = аз:
 unknowncontenttype-prompt = Шумо мехоҳед, ки ин файлро нигоҳ доред?
 unknowncontenttype-action-question = Аз тарафи { -brand-short-name } бо ин файл чӣ бояд кард?
 unknowncontenttype-open-with =
