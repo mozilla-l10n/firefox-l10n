@@ -11,7 +11,7 @@ unknowncontenttype-settingschange =
             [windows] Танзимот метавонад дар имконоти { -brand-short-name } тағйир ёбад.
            *[other] Танзимот метавонад дар хусусиятҳои { -brand-short-name } тағйир ёбад.
         }
-unknowncontenttype-intro = Шумо барои кушодан зеринро интихоб кардед:
+unknowncontenttype-intro = Шумо барои кушодани файли зерин тасмим гирифтед:
 unknowncontenttype-which-is = дар навъи файл:
 unknowncontenttype-from = аз:
 unknowncontenttype-prompt = Шумо мехоҳед, ки ин файлро нигоҳ доред?
