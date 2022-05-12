@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "Минбаъд ин амалро барои файлҳои ба ин монанд ба таври худкор иҷро намоед.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIs.label              "дар навъи файли:">
+<!ENTITY  whichIs.label              "дар навъи файл:">
 
 <!ENTITY  chooseHandlerMac.label      "Интихоб кунед ...">
 <!ENTITY  chooseHandlerMac.accesskey  "C">
