@@ -6,8 +6,11 @@ import-page-title = Nhập
 
 ## Header
 
+import-start = Công cụ nhập
+import-start-desc = Nhập cài đặt hoặc dữ liệu từ ứng dụng hoặc tập tin.
 import-from-app = Nhập từ ứng dụng
 import-from-app-desc = Chọn để nhập tài khoản, sổ địa chỉ, lịch và các dữ liệu khác từ:
+import-from-file = Nhập từ tập tin
 import-address-book = Nhập tập tin sổ địa chỉ
 import-calendar = Nhập tập tin lịch
 export-profile = Xuất
@@ -26,6 +29,13 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-file = Nhập từ một tập tin
+
+## Import from file selections
+
+file-profile = Nhập hồ sơ sao lưu (.zip)
+file-calendar = Nhập lịch
+file-addressbook = Nhập sổ địa chỉ
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Nhập từ { $app }
@@ -66,7 +76,6 @@ calendar-import-into-new-calendar = Tạo một lịch mới
 
 ## Import dialog
 
-progress-pane-title = Đang nhập
 progress-pane-importing = Đang nhập
 progress-pane-exporting = Đang xuất
 progress-pane-finished-desc = Hoàn tất.
