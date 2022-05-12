@@ -48,6 +48,12 @@ whypaused-pause-on-dom-events = Đã tạm dừng do event listener
 # currently paused on an xml http request
 whypaused-xhr = Đã tạm dừng do XMLHttpRequest
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-get-watchpoint = Đã tạm dừng do thuộc tính get
+# The text that is displayed in an info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-set-watchpoint = Đã tạm dừng do thuộc tính set
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on a debugger statement
 whypaused-debug-command = Đã tạm dừng do câu lệnh gỡ lỗi
 # The text that is displayed in a info block explaining how the debugger is
