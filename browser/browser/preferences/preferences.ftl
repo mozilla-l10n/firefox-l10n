@@ -382,6 +382,7 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Que doit faire { -brand-short-name } des autres fichiers ?
 applications-save-for-new-types =
     .label = Enregistrer les fichiers
     .accesskey = E
