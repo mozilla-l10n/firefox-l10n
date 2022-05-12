@@ -8,6 +8,8 @@ styleeditor-new-button =
 styleeditor-import-button =
     .tooltiptext = Құжат үшін бар болып тұрған стильдер тізімін импорттау мен іске асыру
     .accesskey = И
+styleeditor-filter-input =
+    .placeholder = Стиль кестелерін сүзгілеу
 styleeditor-visibility-toggle =
     .tooltiptext = Стильдер тізімінің көрінуін іске қосу не өшіру
     .accesskey = С
@@ -28,3 +30,5 @@ styleeditor-copy-url =
 styleeditor-go-to-line =
     .label = Жолға өту…
     .accesskey = Ж
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Сәйкес стильдер кестесі табылмады.

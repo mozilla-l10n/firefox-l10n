@@ -34,6 +34,8 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = DOM атрибуттарын қысқарту
 options-collapse-attrs-tooltip =
     .title = Бақылаушыда ұзын атрибуттарды қысқарту
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Өлшем мәндерін түзету үшін басыңыз және сүйреңіз
 
 ## "Default Color Unit" options for the Inspector
 
