@@ -125,6 +125,7 @@ about-addressbook-confirm-delete-contacts =
 ## Details
 
 about-addressbook-begin-edit-contact-button = Bewurkje
+about-addressbook-delete-edit-contact-button = Fuortsmite
 about-addressbook-cancel-edit-contact-button = Annulearje
 about-addressbook-save-edit-contact-button = Bewarje
 about-addressbook-details-email-addresses-header = E-mailadressen

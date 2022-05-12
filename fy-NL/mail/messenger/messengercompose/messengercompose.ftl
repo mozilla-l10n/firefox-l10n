@@ -393,3 +393,11 @@ cloud-file-attachment-error = Kin de Filelink-bylage { $filename } net bywurkje,
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Filelink-accountflater
 cloud-file-account-error = Kin de Filelink-bylage { $filename } net bywurkje, omdat it de Filelink-account fuortsmiten is.
+
+## Link Preview
+
+link-preview-title = Keppelingsfoarbyld
+link-preview-description = { -brand-short-name } kin in ynsluten foarbyld tafoegje by it plakken fan keppelingen.
+link-preview-autoadd = Keppelingsfoarbylden wannear mooglik automatysk tafoegje
+link-preview-replace-now = In keppelingsfoarbyld foar dizze keppeling tafoegje?
+link-preview-yes-replace = Ja
