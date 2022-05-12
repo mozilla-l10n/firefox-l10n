@@ -18,6 +18,10 @@ otr-log =
     .label = Bao gồm các tin nhắn được mã hóa OTR trong nhật ký hội thoại
 otr-require-encryption =
     .label = Yêu cầu mã hóa đầu cuối cho các cuộc hội thoại một-một
+otr-require-encryption-info =
+    Khi yêu cầu mã hóa đầu cuối, các tin nhắn trong cuộc trò chuyện 1-1
+    sẽ không được gửi trừ khi chúng có thể được mã hóa. Tin nhắn không được mã hóa đã nhận
+    sẽ không được hiển thị như một phần của cuộc trò chuyện thông thường và cũng không được ghi lại.
 otr-verify-nudge =
     .label = Luôn nhắc tôi xác minh một liên hệ chưa được xác minh
 otr-not-yet-available = chưa có sẵn
