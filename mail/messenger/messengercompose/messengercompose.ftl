@@ -378,3 +378,11 @@ cloud-file-attachment-error = Không cập nhật được đính kèm Filelink 
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Lỗi tài khoản Filelink
 cloud-file-account-error = Không cập nhật được đính kèm Filelink { $filename } vì tài khoản Filelink của nó đã bị xóa.
+
+## Link Preview
+
+link-preview-title = Xem trước liên kết
+link-preview-description = { -brand-short-name } có thể thêm bản xem trước được nhúng khi dán các liên kết.
+link-preview-autoadd = Tự động thêm bản xem trước liên kết khi có thể
+link-preview-replace-now = Thêm bản xem trước cho liên kết này?
+link-preview-yes-replace = Đồng ý
