@@ -6,8 +6,11 @@ import-page-title = Ymportearje
 
 ## Header
 
+import-start = Ymporthelpmiddel
+import-start-desc = Ynstellingen of gegevens út in tapassing of bestân ymportearje
 import-from-app = Ymportearje út tapassing
 import-from-app-desc = Kies oft jo accounts, adresboeken, aginda’s en oare gegevens ymportearje wolle út:
+import-from-file = Ut bestân ymportearje
 import-address-book = Adresboekbestân ymportearje
 import-calendar = Agindabestân ymportearje
 export-profile = Eksportearje
@@ -26,6 +29,13 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-file = Ut in bestân ymportearje
+
+## Import from file selections
+
+file-profile = Reservekopy fan profyl (.zip) ymportearje
+file-calendar = Aginda’s ymportearje
+file-addressbook = Adresboeken ymportearje
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Ymportearje út { $app }
@@ -66,7 +76,6 @@ calendar-import-into-new-calendar = In nije aginda meitsje
 
 ## Import dialog
 
-progress-pane-title = Ymportearje
 progress-pane-importing = Ymportearje
 progress-pane-exporting = Eksportearje
 progress-pane-finished-desc = Foltôge.
