@@ -3,11 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Маълумот барои ислоҳи нуқсонҳо
-crashes-title = Гузоришҳо дар бораи садама
+crashes-title = Гузоришҳо дар бораи вайронӣ
 crashes-id = Рақами мушаххаси гузориш
 crashes-send-date = Санаи пешниҳод
-crashes-all-reports = Ҳамаи гузоришҳо дар бораи садама
-crashes-no-config = Ин барнома барои намоиши гузоришҳо дар бораи садама танзим карда нашудааст.
+crashes-all-reports = Ҳамаи гузоришҳо дар бораи вайронӣ
+crashes-no-config = Ин барнома барои намоиши гузоришҳо дар бораи вайронӣ танзим карда нашудааст.
 support-addons-title = Ҷузъҳои иловагӣ
 support-addons-name = Ном
 support-addons-type = Навъ
@@ -116,6 +116,7 @@ a11y-activated = Фаъолшуда
 a11y-force-disabled = Ғайрифаъолсозии қобилияти дастрасӣ
 copy-text-to-clipboard-label = Нусха бардоштани матн ба ҳофизаи муваққатӣ
 copy-raw-data-to-clipboard-label = Нусха бардоштани иттилооти нокорам ба ҳофизаи муваққатӣ
+sandbox-sys-call-index = #
 sandbox-sys-call-age = Сония пеш
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
@@ -181,8 +182,8 @@ remote-debugging-url = Нишонии URL
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
     { $days ->
-        [one] Гузоришҳо дар бораи садама аз { $days } рӯзи охир
-       *[other] Гузоришҳо дар бораи садама аз { $days } рӯзи охир
+        [one] Гузоришҳо дар бораи вайронӣ аз { $days } рӯзи охир
+       *[other] Гузоришҳо дар бораи вайронӣ аз { $days } рӯзи охир
     }
 # Variables
 # $minutes (integer) - Number of minutes since crash

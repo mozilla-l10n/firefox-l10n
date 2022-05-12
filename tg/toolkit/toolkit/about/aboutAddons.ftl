@@ -176,7 +176,10 @@ shortcuts-pageAction = Фаъол кардани амал дар саҳифа
 shortcuts-sidebarAction = Нишон/пинҳон кардани навори ҷонибӣ
 shortcuts-modifier-mac = Ctrl, Alt ё аломати «⌘»-ро илова кунед
 shortcuts-modifier-other = Ctrl ё Alt-ро илова кунед
+shortcuts-invalid = Мувофиқати нодуруст
 shortcuts-letter = Ҳарферо ворид кунед
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Миёнбури такрорӣ
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on

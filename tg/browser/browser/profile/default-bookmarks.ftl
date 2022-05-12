@@ -34,6 +34,6 @@ default-bookmarks-mdn = Шабакаи барномарезии Mozilla
 # Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
 default-bookmarks-nightly-tester-tools = Абзорҳои санҷиши нашри «Firefox Nightly»
 # Nightly builds only, link title for about:crashes
-default-bookmarks-crashes = Ҳамаи садамаҳои браузери шумо
+default-bookmarks-crashes = Ҳамаи вайрониҳои браузери шумо
 # Nightly builds only, link title for https://planet.mozilla.org/
 default-bookmarks-planet = Сайёраи Mozilla
