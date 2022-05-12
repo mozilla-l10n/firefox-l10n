@@ -119,6 +119,7 @@ about-addressbook-confirm-delete-contacts =
 ## Details
 
 about-addressbook-begin-edit-contact-button = Chỉnh sửa
+about-addressbook-delete-edit-contact-button = Xóa
 about-addressbook-cancel-edit-contact-button = Hủy bỏ
 about-addressbook-save-edit-contact-button = Lưu
 about-addressbook-details-email-addresses-header = Địa chỉ e-mail

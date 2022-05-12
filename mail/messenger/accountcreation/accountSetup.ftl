@@ -178,7 +178,7 @@ account-setup-outgoing-server-legend = Máy chủ gửi thư
 ssl-autodetect-option = Tự động phát hiện
 ssl-no-authentication-option = Không xác thực
 ssl-cleartext-password-option = Mật khẩu bình thường
-ssl-encrypted-password-option = Mật khẩu mã hóa
+ssl-encrypted-password-option = Mật khẩu được mã hóa
 
 ## Incoming/Outgoing SSL options
 
