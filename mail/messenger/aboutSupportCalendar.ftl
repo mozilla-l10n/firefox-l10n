@@ -9,3 +9,4 @@ calendars-table-name = Nome
 calendars-table-type = Tipo
 calendars-table-disabled = Desativado
 calendars-table-username = Nome de utilizador
+calendars-table-uri = URI
