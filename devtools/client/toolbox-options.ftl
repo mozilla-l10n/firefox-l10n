@@ -34,6 +34,10 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = Cắt bớt các thuộc tính DOM
 options-collapse-attrs-tooltip =
     .title = Cắt ngắn các thuộc tính dài trong trình kiểm tra
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Nhấp và kéo để chỉnh sửa giá trị kích thước
+options-inspector-draggable-properties-tooltip =
+    .title = Nhấp và kéo để chỉnh sửa các giá trị kích thước trong phần Quy tắc của Trình kiểm tra.
 
 ## "Default Color Unit" options for the Inspector
 
