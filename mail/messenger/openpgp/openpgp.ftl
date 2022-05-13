@@ -244,6 +244,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Tipo
 openpgp-key-details-key-part-label =
     .label = Parte da chave
+openpgp-key-details-attr-ignored = Aviso: Esta chave pode não funcionar como esperado, pois algumas de suas propriedades não são seguras e podem ser ignoradas.
 openpgp-key-details-algorithm-label =
     .label = Algoritmo
 openpgp-key-details-size-label =
@@ -295,6 +296,8 @@ openpgp-description =
         [one] O Thunderbird encontrou { $count } chave OpenPGP pessoal associada a <b>{ $identity }</b>
        *[other] O Thunderbird encontrou { $count } chaves OpenPGP pessoais associadas a <b>{ $identity }</b>
     }
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = O { -brand-short-name } não tem uma chave OpenPGP pessoal de <b>{ $identity }</b>
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Sua configuração atual usa a chave com ID <b>{ $key }</b>
 #   $key (String) - the currently selected OpenPGP key
@@ -357,8 +360,6 @@ key-verification = Verifique a impressão digital da chave usando um canal de co
 cannot-use-own-key-because = Não foi possível enviar a mensagem, porque há um problema com sua chave pessoal. { $problem }
 cannot-encrypt-because-missing = Não foi possível enviar esta mensagem com criptografia de ponta a ponta, porque há problemas com as chaves dos seguintes destinatários: { $problem }
 window-locked = A janela de edição está bloqueada; envio cancelado
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Parte criptografada da mensagem
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Esta é uma parte criptografada da mensagem. Você precisa abrir em uma janela separada, clicando no anexo.
 # Strings in keyserver.jsm
