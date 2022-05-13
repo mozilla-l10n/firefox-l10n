@@ -34,6 +34,10 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = Potong atribut DOM
 options-collapse-attrs-tooltip =
     .title = Potong atribut panjang pada inspektur
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Klik dan seret untuk mengedit nilai ukuran
+options-inspector-draggable-properties-tooltip =
+    .title = Klik dan seret untuk mengedit nilai ukuran dalam tampilan rule inspektur.
 
 ## "Default Color Unit" options for the Inspector
 
