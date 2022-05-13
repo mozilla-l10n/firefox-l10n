@@ -8,6 +8,8 @@ styleeditor-new-button =
 styleeditor-import-button =
     .tooltiptext = Impor dan tambahkan lembar gaya yang sudah ada ke dokumen
     .accesskey = I
+styleeditor-filter-input =
+    .placeholder = Filter style sheet
 styleeditor-visibility-toggle =
     .tooltiptext = Aktifkan/Nonaktifkan keterlihatan lembar gaya
     .accesskey = S
@@ -28,3 +30,5 @@ styleeditor-copy-url =
 styleeditor-go-to-line =
     .label = Loncat ke baris…
     .accesskey = L
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Tidak ditemukan style sheet yang cocok.
