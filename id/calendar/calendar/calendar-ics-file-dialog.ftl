@@ -14,6 +14,18 @@ calendar-ics-file-dialog-message-2 = Impor dari berkas:
 calendar-ics-file-dialog-calendar-menu-label = Impor ke dalam kalender
 calendar-ics-file-dialog-items-loading-message =
     .value = Memuat item…
+calendar-ics-file-dialog-search-input =
+    .placeholder = Filter item...
+calendar-ics-file-dialog-sort-start-descending =
+    .label = Urut berdasarkan tanggal mulai (terbaru ke terlama)
+# "A > Z" is used as a concise way to say "alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-ascending =
+    .label = Urutkan berdasarkan judul (A > Z)
+# "Z > A" is used as a concise way to say "reverse alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-descending =
+    .label = Urut berdasarkan judul (Z > A)
 calendar-ics-file-dialog-progress-message = Mengimpor…
 calendar-ics-file-import-success = Berhasil diimpor!
 calendar-ics-file-import-error = Terjadi kesalahan dan impor gagal.
