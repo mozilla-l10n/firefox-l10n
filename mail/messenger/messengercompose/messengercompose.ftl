@@ -3,6 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
+compose-send-format-menu =
+    .label = Formato de envio
+    .accesskey = F
+compose-send-auto-menu-item =
+    .label = Automático
+    .accesskey = A
+compose-send-both-menu-item =
+    .label = Tanto HTML quanto texto simples
+    .accesskey = T
+compose-send-html-menu-item =
+    .label = Apenas HTML
+    .accesskey = H
+compose-send-plain-menu-item =
+    .label = Apenas texto simples
+    .accesskey = x
+
 ## Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -129,10 +147,6 @@ button-return-receipt =
 
 ## Encryption
 
-message-to-be-signed-icon =
-    .alt = Assinar mensagem
-message-to-be-encrypted-icon =
-    .alt = Criptografar mensagem
 encryption-menu =
     .label = Segurança
     .accesskey = g
@@ -378,3 +392,7 @@ cloud-file-attachment-error = Falha ao atualizar o anexo online { $filename } po
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Erro de conta de anexo online
 cloud-file-account-error = Falha ao atualizar o anexo online { $filename } porque sua conta de anexo online foi excluída.
+
+## Link Preview
+
+link-preview-description = O { -brand-short-name } pode adicionar uma visão incorporada ao colar links.

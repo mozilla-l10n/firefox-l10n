@@ -6,8 +6,11 @@ import-page-title = Importar
 
 ## Header
 
+import-start = Ferramenta de importação
+import-start-desc = Importar configurações ou dados de um aplicativo ou arquivo.
 import-from-app = Importar do aplicativo
 import-from-app-desc = Importar contas, catálogos de endereços, agendas e outros dados de:
+import-from-file = Importar de arquivo
 import-address-book = Importar arquivo de catálogo de endereços
 import-calendar = Importar arquivo de agenda
 export-profile = Exportar
@@ -26,6 +29,13 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-file = Importar de um arquivo
+
+## Import from file selections
+
+file-profile = Importar perfil de backup (.zip)
+file-calendar = Importar agendas
+file-addressbook = Importar catálogos de endereços
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Importar de { $app }
@@ -66,7 +76,6 @@ calendar-import-into-new-calendar = Criar nova agenda
 
 ## Import dialog
 
-progress-pane-title = Importando
 progress-pane-importing = Importando
 progress-pane-exporting = Exportando
 progress-pane-finished-desc = Concluído.
