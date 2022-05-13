@@ -395,4 +395,7 @@ cloud-file-account-error = Falha ao atualizar o anexo online { $filename } porqu
 
 ## Link Preview
 
-link-preview-description = O { -brand-short-name } pode adicionar uma visão incorporada ao colar links.
+link-preview-description = O { -brand-short-name } pode adicionar uma visualização incorporada ao colar links.
+link-preview-autoadd = Adicionar automaticamente visualização de links quando possível
+link-preview-replace-now = Adicionar uma visualização deste link?
+link-preview-yes-replace = Sim
