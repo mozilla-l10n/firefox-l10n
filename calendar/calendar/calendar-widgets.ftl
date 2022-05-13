@@ -4,3 +4,6 @@
 
 calendar-deactivated-notification-events = Seluruh kalender tengah dinonaktifkan. Aktifkan kalender yang ada atau tambahkan kalender baru untuk membuat dan menyunting acara.
 calendar-deactivated-notification-tasks = Seluruh kalender tengah dinonaktifkan. Aktifkan kalender yang ada atau tambahkan kalender baru untuk membuat dan menyunting acara.
+calendar-notifications-label = Tampilkan notifikasi acara mendatang
+calendar-add-notification-button =
+    .label = Tambahkan notifikasi

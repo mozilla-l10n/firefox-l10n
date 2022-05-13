@@ -4,6 +4,7 @@
 
 calendar-title = Kalender
 calendar-title-reminder = Pengingat
+calendar-title-notification = Notifikasi
 calendar-title-category = Kategori
 dateformat-label =
     .value = Format Tanggal:
@@ -133,6 +134,9 @@ task-due-label =
 edit-intab-label =
     .label = Sunting acara dan tugas dalam tab alih-alih di jendela dialog.
     .accesskey = t
+prompt-delete-label =
+    .label = Konfirmasi sebelum menghapus acara dan tugas.
+    .accesskey = K
 accessibility-legend = Aksesibilitas
 accessibility-colors-label =
     .label = Optimalkan warna untuk aksesibilitas
@@ -179,6 +183,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Waktu alarm mati default sebelum tugas:
     .accesskey = g
+calendar-notifications-customize-label = Notifikasi dapat disesuaikan untuk tiap kalender pada jendela properti kalender.
 category-new-label = Kategori Baru
 category-edit-label = Edit Kategori
 category-overwrite-title = Peringatan: Nama berganda
