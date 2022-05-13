@@ -16,6 +16,8 @@ calendar-ics-file-dialog-items-loading-message =
     .value = Memuat item…
 calendar-ics-file-dialog-search-input =
     .placeholder = Filter item...
+calendar-ics-file-dialog-sort-start-ascending =
+    .label = Urut berdasarkan tanggal mulai (terlama ke terbaru)
 calendar-ics-file-dialog-sort-start-descending =
     .label = Urut berdasarkan tanggal mulai (terbaru ke terlama)
 # "A > Z" is used as a concise way to say "alphabetical order".
