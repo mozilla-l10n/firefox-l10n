@@ -27,4 +27,9 @@ calendar-delete-item-prompt-title =
         [one] Kkes aferdis
        *[other] Kkes iferdisen
     }
+calendar-delete-item-prompt-message =
+    { $count ->
+        [one] Tebɣiḍ s tidet ad tekkseḍ { $count } uferdisa-a?
+       *[other] Tebɣiḍ s tidet ad tekkseḍ { $count } yiferdisen-a?
+    }
 calendar-delete-prompt-disable-message = Ur y-id-sutur ara tikkelt-nniḍen.
