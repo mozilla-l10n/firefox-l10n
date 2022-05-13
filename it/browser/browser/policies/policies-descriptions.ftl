@@ -100,6 +100,8 @@ policy-EnableTrackingProtection = Attiva o disattiva il blocco contenuti ed even
 
 policy-EncryptedMediaExtensions = Attiva o disattiva Encrypted Media Extensions ed eventualmente impedisci modifiche all’opzione.
 
+policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Disattiva avvisi associati all’estensione dei file per determinati tipi di file e domini.
+
 policy-Extensions = Installa, disinstalla o blocca estensioni. L’opzione per installare richiede URL o percorsi come parametri. L’opzione per disinstallare o bloccare richiede gli ID delle estensioni.
 
 policy-ExtensionSettings = Gestisci tutti gli aspetti connessi all’installazione di estensioni.
