@@ -17,3 +17,14 @@ calendar-delete-task-prompt-title =
         [one] Kkes tawuri
        *[other] Kkes tiwuriwin
     }
+calendar-delete-task-prompt-message =
+    { $count ->
+        [one] Tebɣiḍ s tidet ad tekkseḍ { $count } twuri-a?
+       *[other] Tebɣiḍ s tidet ad tekkseḍ { $count } twuriwin-a?
+    }
+calendar-delete-item-prompt-title =
+    { $count ->
+        [one] Kkes aferdis
+       *[other] Kkes iferdisen
+    }
+calendar-delete-prompt-disable-message = Ur y-id-sutur ara tikkelt-nniḍen.

@@ -12,6 +12,7 @@ calendar-invitation-panel-action-button = Sekles
 calendar-invitation-panel-accept-button = Ih
 calendar-invitation-panel-decline-button = Uhu
 calendar-invitation-panel-tentative-button = Ahat
+calendar-invitation-panel-reply-status = *Mazal ur tt-tegzimeḍ deg ṛṛay neɣ mazal ur d-terriḍ
 calendar-invitation-panel-prop-title-when = Melmi:
 calendar-invitation-panel-prop-title-location = Adig:
 # Variables:
