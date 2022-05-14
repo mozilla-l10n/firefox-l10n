@@ -370,6 +370,7 @@ filter-term-pgpencrypted-label = OpenPGP được mã hóa
 filter-key-not-found = Không thể tìm thấy khóa mã hóa cho ‘{ $desc }’.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Giải mã vĩnh viễn (OpenPGP)
+filter-encrypt-label = Mã hóa thành khóa (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Thành công! Các khóa đã được nhập
@@ -402,8 +403,10 @@ key-man-button-export-pub-key = Chỉ xuất khóa &công khai
 key-man-button-refresh-all = &Làm mới tất cả các khóa
 key-man-loading-keys = Đang tải khóa, vui lòng đợi…
 no-key-selected = Bạn nên chọn ít nhất một khóa để thực hiện thao tác đã chọn
+export-secret-key = Bạn có muốn đưa khóa bí mật vào tập tin khóa OpenPGP đã lưu không?
 save-keys-ok = Khóa đã được lưu thành công
 save-keys-failed = Không thể lưu khóa
+refresh-key-warn = Cảnh báo: tùy thuộc vào số lượng khóa và tốc độ kết nối, việc làm mới tất cả các khóa có thể là một quá trình khá dài!
 general-error = Lỗi: { $reason }
 dlg-button-delete = Xóa (&D)
 
