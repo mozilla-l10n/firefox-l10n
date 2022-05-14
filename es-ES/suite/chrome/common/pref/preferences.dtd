@@ -39,6 +39,7 @@
 <!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Avanzadas">
 <!ENTITY scriptsAndWindows.label "Scripts y plugins">
+<!ENTITY scriptsAndWindows2.label "Scripts">
 <!ENTITY keynav.label "Navegación con teclado">
 <!ENTITY findAsYouType.label "Encontrar a medida que escribe">
 <!ENTITY cache.label "Caché">
