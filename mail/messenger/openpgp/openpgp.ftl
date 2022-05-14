@@ -54,6 +54,7 @@ openpgp-generate-key =
     .tooltiptext = Tạo khóa tuân thủ OpenPGP mới để mã hóa và/hoặc ký
 openpgp-advanced-prefs-button-label =
     .label = Nâng cao…
+openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">LƯU Ý: Quá trình tạo khóa có thể mất đến vài phút để hoàn thành.</a> Không thoát ứng dụng khi đang trong quá trình tạo khóa. Tích cực duyệt hoặc thực hiện các thao tác sử dụng nhiều ổ đĩa trong quá trình tạo khóa sẽ bổ sung 'nhóm ngẫu nhiên' và tăng tốc quá trình. Bạn sẽ được thông báo khi quá trình tạo khóa hoàn tất.
 openpgp-key-created-label =
     .label = Đã tạo
 openpgp-key-expiry-label =
@@ -231,6 +232,7 @@ openpgp-key-details-key-id-label = ID khóa
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Kiểu
+openpgp-key-details-attr-ignored = Cảnh báo: Khóa này có thể không hoạt động như mong đợi vì một số thuộc tính của nó không an toàn và có thể bị bỏ qua.
 openpgp-key-details-algorithm-label =
     .label = Thuật toán
 openpgp-key-details-size-label =
@@ -278,6 +280,14 @@ openpgp-description =
         [0] Thunderbird không có khóa OpenPGP cá nhân cho <b>{ $identity }</b>
        *[other] Thunderbird đã tìm thấy { $count } khóa cá nhân OpenPGP cho <b>{ $identity }</b>
     }
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name } không có khóa OpenPGP cá nhân cho <b>{ $identity }</b>
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+       *[other] { -brand-short-name } đã tìm thấy { $count } khóa OpenPGP cá nhân được liên kết với <b>{ $identity }</b>
+    }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Cấu hình hiện tại của bạn sử dụng ID khóa <b>{ $key }</b>
 #   $key (String) - the currently selected OpenPGP key
@@ -320,17 +330,17 @@ key-type-primary = khóa chính
 key-type-subkey = khóa con
 key-expiry-never = không bao giờ
 key-usage-encrypt = Mã hóa
+key-usage-authentication = Xác thực
 key-does-not-expire = Khóa không hết hạn
 key-expired-date = Khóa hết hạn vào { $keyExpiry }
 key-expired-simple = Khóa đã hết hạn
 key-revoked-simple = Khóa đã bị thu hồi
 key-do-you-accept = Bạn có chấp nhận khóa này để xác minh chữ ký số và mã hóa tin nhắn không?
 key-accept-warning = Tránh chấp nhận một khóa giả mạo. Sử dụng một kênh liên lạc khác ngoài email để xác minh dấu vân tay của khóa đối tác của bạn.
+key-verification = Xác minh dấu vân tay của khóa bằng kênh liên lạc an toàn không phải email để đảm bảo rằng đó thực sự là khóa của { $addr }.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Không thể gửi tin nhắn vì có sự cố với khóa cá nhân của bạn. { $problem }
 cannot-encrypt-because-missing = Không thể gửi thư này bằng mã hóa đầu cuối vì có vấn đề với khóa của những người nhận sau: { $problem }
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Phần thư được mã hóa
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Đây là một phần tin nhắn được mã hóa. Bạn cần mở nó trong một cửa sổ riêng tư bằng cách nhấp vào đính kèm.
 # Strings in keyserver.jsm
