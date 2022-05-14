@@ -34,7 +34,7 @@
 <!ENTITY importOtherBrowser.label          "Importuj dane z inkszyj przeglōndarki…">
 <!ENTITY importOtherBrowser.accesskey      "d">
 
-<!ENTITY cmd.backup.label               "Ibryczno kopia…">
+<!ENTITY cmd.backup.label               "Ibryczno kopijo…">
 <!ENTITY cmd.backup.accesskey           "B">
 <!ENTITY cmd.restore2.label             "Wrōć">
 <!ENTITY cmd.restore2.accesskey         "W">
@@ -51,13 +51,12 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "Import i ibryczne kopie">
+<!ENTITY maintenance.label      "Import i ibryczne kopije">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Importuj i zrychtuj ibryczne kopie swojich zokłodek">
+<!ENTITY maintenance.tooltip    "Importuj i zrychtuj ibryczne kopije swojich zokłodek">
 
 <!ENTITY backButton.tooltip  "Nazod">
 
 <!ENTITY forwardButton.tooltip  "Do przodku">
 
 <!ENTITY detailsPane.selectAnItemText.description "Ôbier elymynt, coby pokozać i edytować jego włosności">
-

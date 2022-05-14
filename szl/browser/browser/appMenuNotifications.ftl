@@ -36,8 +36,7 @@ appmenu-update-other-instance =
     .buttonaccesskey = A
     .secondarybuttonlabel = Niy teroz
     .secondarybuttonaccesskey = N
-appmenu-update-other-instance-message = Dostympno je nowo aktualizacyjo aplikacyje { -brand-shorter-name }, ale niy idzie jij zainstalować, bo funguje inkszo kopia aplikacyje { -brand-shorter-name }. Zawrzij jōm, coby dalij aktualizować, abo ôbier aktualizowanie bez zawarcio (ta inkszo kopia może niy fungować dobrze, podwiela jij niy resztartniesz).
-
+appmenu-update-other-instance-message = Dostympno je nowo aktualizacyjo aplikacyje { -brand-shorter-name }, ale niy idzie jij zainstalować, bo funguje inkszo kopijo aplikacyje { -brand-shorter-name }. Zawrzij jōm, coby dalij aktualizować, abo ôbier aktualizowanie bez zawarcio (ta inkszo kopijo może niy fungować dobrze, podwiela jij niy resztartniesz).
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Regiyruj rozszyrzyniami i tymatami z myni 
 appmenu-addon-post-install-incognito-checkbox =
     .label = Zgoda, coby te rozszyrzynie fungowało we prywatnych ôknach
     .accesskey = Z
-    
 appmenu-new-tab-controlled-changes =
     .label = Nowo karta je zmiyniōno.
     .buttonlabel = Ôstow zmiany

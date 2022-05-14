@@ -24,7 +24,7 @@ printui-page-custom-range-input =
     .aria-label = Wkludź włosny zakres strōn
     .placeholder = bp. 2-6, 9, 12-16
 # Section title for the number of copies to print
-printui-copies-label = Kopie
+printui-copies-label = Kopije
 printui-orientation = Ôriyntacyjo
 printui-landscape = Poziōmo
 printui-portrait = Piōnowo
