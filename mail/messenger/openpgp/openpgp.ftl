@@ -298,6 +298,13 @@ openpgp-description =
     }
 #   $identity (String) - the email address of the currently selected identity
 openpgp-description-no-key = O { -brand-short-name } não tem uma chave OpenPGP pessoal de <b>{ $identity }</b>
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] O { -brand-short-name } encontrou { $count } chave OpenPGP pessoal associada a <b>{ $identity }</b>
+       *[other] O { -brand-short-name } encontrou { $count } chaves OpenPGP pessoais associadas a <b>{ $identity }</b>
+    }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Sua configuração atual usa a chave com ID <b>{ $key }</b>
 #   $key (String) - the currently selected OpenPGP key
