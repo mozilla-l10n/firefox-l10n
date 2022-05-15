@@ -35,6 +35,7 @@ detail-version =
     .label = Силсила
 detail-last-updated =
     .label = Санаи навсозии охирин
+detail-contributions-description = Барномасози ин ҷузъи иловагӣ мепурсад, ки шумо рушди минбаъдаи барномаро бо саҳмгузории андак дастгирӣ намоед.
 detail-update-type =
     .value = Навсозиҳои худкор
 detail-update-automatic =
