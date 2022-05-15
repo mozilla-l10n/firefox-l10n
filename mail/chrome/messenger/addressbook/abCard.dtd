@@ -67,7 +67,7 @@
 <!ENTITY HomeCity.label                 "Город:">
 <!ENTITY HomeCity.accesskey             "р">
 <!ENTITY HomeState.label                "Регион:">
-<!ENTITY HomeState.accesskey            "и">
+<!ENTITY HomeState.accesskey            "н">
 <!ENTITY HomeZipCode.label              "Почтовый индекс:">
 <!ENTITY HomeZipCode.accesskey          "и">
 <!ENTITY HomeCountry.label              "Страна:">
@@ -97,7 +97,7 @@
 <!ENTITY WorkCity.label                 "Город:">
 <!ENTITY WorkCity.accesskey             "р">
 <!ENTITY WorkState.label                "Регион:">
-<!ENTITY WorkState.accesskey            "и">
+<!ENTITY WorkState.accesskey            "н">
 <!ENTITY WorkZipCode.label              "Почтовый индекс:">
 <!ENTITY WorkZipCode.accesskey          "и">
 <!ENTITY WorkCountry.label              "Страна:">
