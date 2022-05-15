@@ -11,8 +11,12 @@ search-header-shortcut =
 list-empty-get-extensions-message = Васеъшавиҳо ва мавзуҳоро аз <a data-l10n-name="get-extensions">{ $domain }</a> ба даст оред
 list-empty-get-dictionaries-message = Луғатҳоро аз <a data-l10n-name="get-extensions">{ $domain }</a> ба даст оред
 list-empty-get-language-packs-message = Бастаҳои забонро аз <a data-l10n-name="get-extensions">{ $domain }</a> ба даст оред
+list-empty-installed =
+    .value = Шумо ягон ҷузъи иловагии насбшуда бо ин навъ надоред
 list-empty-available-updates =
     .value = Ягон навсозӣ ёфт нашуд
+list-empty-recent-updates =
+    .value = Шумо ба наздикӣ ягон ҷузъи иловагиро навсозӣ накардед
 list-empty-find-updates =
     .label = Санҷиши навсозиҳо
 list-empty-button =
@@ -23,6 +27,8 @@ sidebar-help-button-title =
 addons-settings-button = Танзимоти { -brand-short-name }
 sidebar-settings-button-title =
     .title = Танзимоти { -brand-short-name }
+show-unsigned-extensions-button =
+    .label = Баъзе васеъшавиҳо тасдиқ карда намешаванд
 show-all-extensions-button =
     .label = Намоиш додани ҳамаи васеъшавиҳо
 detail-version =
