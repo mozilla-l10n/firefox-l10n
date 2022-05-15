@@ -6,8 +6,11 @@ import-page-title = Uvozi
 
 ## Header
 
+import-start = Orodje za uvoz
+import-start-desc = Uvozite nastavitve ali podatke iz programa ali datoteke.
 import-from-app = Uvozi iz programa
 import-from-app-desc = Izberite uvoz računov, imenikov, koledarjev in drugih podatkov iz:
+import-from-file = Uvozi iz datoteke
 import-address-book = Uvozi datoteko z imenikom
 import-calendar = Uvozi datoteko s koledarjem
 export-profile = Izvozi
@@ -26,6 +29,13 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internetna pošta
 app-name-apple-mail = Apple Mail
+source-file = Uvozi iz datoteke
+
+## Import from file selections
+
+file-profile = Uvozi varnostno kopijo profila (.zip)
+file-calendar = Uvozi koledarje
+file-addressbook = Uvozi imenike
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Uvozi iz programa { $app }
