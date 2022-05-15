@@ -12,6 +12,7 @@ more-from-moz-subtitle = Descobrissètz d’autres produits de { -vendor-short-n
 more-from-moz-firefox-mobile-title = { -brand-product-name } mobil
 more-from-moz-firefox-mobile-description = Lo navegador mobil que fa passar la confidencialitat d’en primièr.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
+more-from-moz-mozilla-vpn-description = Descobrissètz un nivèl addicional de navegacion e de proteccion.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.

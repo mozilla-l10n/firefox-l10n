@@ -162,6 +162,7 @@ spotlight-total-cookie-protection-secondary-button = Pas ara
 spotlight-better-internet-header = Un melhor internet comença amb vos
 spotlight-better-internet-body = Quand utilizatz { -brand-short-name }, vos manifestatz per un internet dubèrt e accessible qu’es melhor per totòm.
 spotlight-peace-mind-header = Asseguram vòstra proteccion
+spotlight-peace-mind-body = Cada mes, { -brand-short-name } bloca una mejana de mai de 3 000 traçadors per utilizaire. Pr’amor que res, notadament los prejudicis a la vida privada coma los traçadors, deuriá pas se trobar entre vos e çò bon d’Internet.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Gardar al Dock
