@@ -1208,7 +1208,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Vyzkoušejte naši zatím nejsilnější funkci na ochranu soukromí
     .accesskey = t
 # "Contains" here means "isolates", "limits".
-content-blocking-etp-standard-tcp-rollout-description = Úplná ochrana cookies izoluje cookies pro konkrétní stránku, kterou prohlížíte, od ostatních, aby vás sledovací prvky nemohly sledovat napříč stránkami.
+content-blocking-etp-standard-tcp-rollout-description = Úplná ochrana před cookies omezuje cookies na web, na němž se nacházíte, aby vás sledující subjekty nemohly sledovat napříč stránkami.
 content-blocking-etp-standard-tcp-rollout-learn-more = Zjistit více
 content-blocking-warning-title = Pozor!
 content-blocking-and-isolating-etp-warning-description = Blokování sledujícího obsahu a izolace cookies může ovlivnit fungování některých stránek. Pro zobrazení veškerého obsahu znovu načtěte stránku s povolenými sledovacími prvky.
