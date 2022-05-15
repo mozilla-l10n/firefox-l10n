@@ -61,7 +61,7 @@
 <!ENTITY  font.langGroup.tibetan                  "Тибетский">
 <!ENTITY  font.langGroup.other                    "Другие системы письменности">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Наименьший размер шрифта:">
+<!ENTITY minSize.label                            "Минимальный размер шрифта:">
 <!ENTITY minSize.accesskey                        "м">
 <!ENTITY minSize.none                             "Нет">
 
