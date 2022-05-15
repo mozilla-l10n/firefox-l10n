@@ -34,6 +34,8 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = Troncar los atributs DOM
 options-collapse-attrs-tooltip =
     .title = Troncar los atributs longs a l'inspector
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Clicatz e fasètz lisar per modificar las valors de la talha
 
 ## "Default Color Unit" options for the Inspector
 
