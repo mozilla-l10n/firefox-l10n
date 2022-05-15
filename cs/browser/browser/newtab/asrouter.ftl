@@ -91,20 +91,20 @@ cfr-whatsnew-release-notes-link-text = Přečtěte si poznámky k vydání
 #   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] Aplikace { -brand-short-name }
-    } od { DATETIME($date, month: "long", year: "numeric") } { -brand-short-name.gender ->
-        [masculine] zablokoval
-        [feminine] zablokovala
-        [neuter] zablokovalo
-       *[other] zablokovala
+        [masculine] { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") }
+        [feminine] { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") }
+        [neuter] { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") }
+       *[other] Aplikace { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") }
+    } { -brand-short-name.gender ->
+        [masculine] zablokoval více než
+        [feminine] zablokovala více než
+        [neuter] zablokovalo více než
+       *[other] zablokovala více než
     } { $blockedCount ->
-        [one] jeden sledovací prvek
-        [few] <b>{ $blockedCount }</b> sledovací prvky
-       *[other] <b>{ $blockedCount }</b> sledovacích prvků
-    }.
+        [one] jeden sledovací prvek.
+        [few] <b>{ $blockedCount }</b> sledovací prvky.
+       *[other] <b>{ $blockedCount }</b> sledovacích prvků.
+    }
 cfr-doorhanger-milestone-ok-button = Zobrazit vše
     .accesskey = v
 cfr-doorhanger-milestone-close-button = Zavřít
@@ -186,11 +186,11 @@ spotlight-public-wifi-vpn-link = Teď ne
 spotlight-total-cookie-protection-header =
     Vyzkoušejte naši zatím nejsilnější
     funkci na ochranu soukromí
-spotlight-total-cookie-protection-body = Úplná ochrana cookies brání sledovacím prvkům používat cookies pro vaše sledování napříč webovými stránkami.
+spotlight-total-cookie-protection-body = Úplná ochrana před cookies brání sledujícím subjektům používat cookies k vašemu sledování napříč webovými stránkami.
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch" as not everybody will get it yet.
 spotlight-total-cookie-protection-expanded = { -brand-short-name } ochrání vaše cookies tak, že omezí jejich dostupnost pro konkrétní stránku, kterou prohlížíte, takže je sledovací prvky nemohou používat pro vaše sledování napříč stránkami. Vykoušením této funkce nám je pomůžete dále optimalizovat pro vás i všechny ostatní uživatele.
-spotlight-total-cookie-protection-primary-button = Zapnout úplnou ochranu cookies
+spotlight-total-cookie-protection-primary-button = Zapnout úplnou ochranu před cookies
 spotlight-total-cookie-protection-secondary-button = Teď ne
 
 ## Emotive Continuous Onboarding
