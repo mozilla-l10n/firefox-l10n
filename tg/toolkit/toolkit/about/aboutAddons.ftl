@@ -100,6 +100,11 @@ addon-restart-now =
 disabled-unsigned-heading =
     .value = Баъзеи ҷузъҳои иловагӣ ғайрифаъол карда шудаанд
 disabled-unsigned-description = Ҷузъҳои иловагии зерин барои истифода дар { -brand-short-name } тасдиқ карда нашудаанд. Шумо метавонед <label data-l10n-name="find-addons">ба ивази онҳо, ҷузъҳои иловагии дигарро ёбед</label> ё барномасоро хоҳиш кунед, ки онҳоро тасдиқ кунад.
+disabled-unsigned-learn-more = Дар бораи дастовардҳои мо дар самти таъмини бехатарӣ ба шумо дар Интернет маълумоти бештар гиред.
+disabled-unsigned-devinfo =
+    Барномасозоне, ки мехоҳанд ҷузъҳои иловагии худро тасдиқ кунанд, метавонанд дастури моро
+    <label data-l10n-name="learn-more">мутолиа намоянд</label>.
+plugin-deprecation-description = Чизе намерасад? Баъзе плагинҳо дигар аз тарафи { -brand-short-name } дастгирӣ карда намешаванд. <label data-l10n-name="learn-more">Маълумоти бештар.</label>
 legacy-warning-show-legacy = Намоиш додани васеъшавиҳои қуҳнашуда
 legacy-extensions =
     .value = Васеъшавиҳои қуҳнашуда
