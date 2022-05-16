@@ -43,13 +43,10 @@
 <!ENTITY event.attendees.disallowcounter.tooltip     "Indikerer at du ikkje vil godkjenne motforslag">
 
 <!-- Keyboard Shortcuts -->
-<!ENTITY event.dialog.new.event.key2              "I">
-<!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
 <!ENTITY event.dialog.save.key                    "S">
 <!ENTITY event.dialog.saveandclose.key            "L">
-<!ENTITY event.dialog.print.key                   "P">
 <!ENTITY event.dialog.undo.key                    "Z">
 <!ENTITY event.dialog.redo.key                    "Y">
 <!ENTITY event.dialog.cut.key                     "X">
@@ -91,10 +88,6 @@
 
 <!ENTITY  event.menu.item.delete.label                    "Slett…">
 <!ENTITY  event.menu.item.delete.accesskey                "S">
-<!ENTITY  event.menu.item.page.setup.label                "Utskriftsformat">
-<!ENTITY  event.menu.item.page.setup.accesskey            "k">
-<!ENTITY  event.menu.item.print.label                     "Skriv ut">
-<!ENTITY  event.menu.item.print.accesskey                 "k">
 
 <!ENTITY  event.menu.edit.label                           "Rediger">
 <!ENTITY  event.menu.edit.accesskey                       "R">
@@ -119,8 +112,6 @@
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "H">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Tilpass…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "T">
-<!ENTITY  event.menu.view.showlink.label                  "Vis relatert lenke">
-<!ENTITY  event.menu.view.showlink.accesskey              "r">
 
 <!ENTITY  event.menu.options.label                            "Innstillingar">
 <!ENTITY  event.menu.options.accesskey                        "I">
@@ -425,4 +416,4 @@
 <!ENTITY summary.dialog.dontsend.label          "Ikkje send eit svar">
 <!ENTITY summary.dialog.dontsend.tooltiptext    "Endre deltakingsstatusen din utan å sende eit svar til arrangøren og lat att vindauget">
 <!ENTITY summary.dialog.send.label              "Send eit svar no">
-<!ENTITY summary.dialog.send.tooltiptext        "Send eit svar til arrangøren,  og lat att vinduet">
+<!ENTITY summary.dialog.send.tooltiptext        "Send eit svar til arrangøren,  og lat att vindauget">
