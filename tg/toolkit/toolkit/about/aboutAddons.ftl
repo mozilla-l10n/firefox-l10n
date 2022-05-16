@@ -109,6 +109,12 @@ legacy-warning-show-legacy = Намоиш додани васеъшавиҳои 
 legacy-extensions =
     .value = Васеъшавиҳои қуҳнашуда
 legacy-extensions-description = Васеъшавиҳои мазкур ба стандартҳои ҷории { -brand-short-name } мувофиқат намекунанд ва аз ин боис онҳо ғайрифаъол карда шудаанд. <label data-l10n-name="legacy-learn-more">Дар бораи тағйироти воридшуда ба васеъшавиҳо маълумоти бештар гиред</label>
+private-browsing-description2 =
+    { -brand-short-name } тарзи кори васеъшавиҳоро дар реҷаи тамошокунии хусусӣ иваз мекунад. Ҳар гуна васеъшавии наве, ки шумо ба { -brand-short-name } илова мекунед,
+    дар равзанаи хусусӣ ба сурати пешфарз иҷро намешавад. То вақте ки шумо ба он дар танзимот иҷозат надиҳед, васеъшавӣ дар реҷаи тамошокунии хусусӣ иҷро намешавад
+    ва ба фаъолияти шумо дар Интернет дастрасӣ пайдо намекунад.
+    Мо барои таъмини тамошокунии хусусии шумо дар Интернет, ин тағйирот ворид кардем.
+    <label data-l10n-name="private-browsing-learn-more">Дар бораи идоракунии танзимоти васеъшавӣ маълумоти бештар гиред</label>
 addon-category-discover = Тавсияҳо
 addon-category-discover-title =
     .title = Тавсияҳо
@@ -139,6 +145,7 @@ addon-category-sitepermission-title =
 
 ## These are global warnings
 
+extensions-warning-safe-mode = Ҳамаи ҷузъҳои иловагӣ дар реҷаи бехатар ғайрифаъол карда шудаанд.
 extensions-warning-check-compatibility-button = Фаъол кардан
     .title = Фаъол кардани санҷиши мутобиқати ҷузъи иловагӣ
 extensions-warning-update-security-button = Фаъол кардан
