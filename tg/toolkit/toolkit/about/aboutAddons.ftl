@@ -99,6 +99,7 @@ addon-restart-now =
     .label = Ҳозир аз нав оғоз карда шавад
 disabled-unsigned-heading =
     .value = Баъзеи ҷузъҳои иловагӣ ғайрифаъол карда шудаанд
+disabled-unsigned-description = Ҷузъҳои иловагии зерин барои истифода дар { -brand-short-name } тасдиқ карда нашудаанд. Шумо метавонед <label data-l10n-name="find-addons">ба ивази онҳо, ҷузъҳои иловагии дигарро ёбед</label> ё барномасоро хоҳиш кунед, ки онҳоро тасдиқ кунад.
 legacy-warning-show-legacy = Намоиш додани васеъшавиҳои қуҳнашуда
 legacy-extensions =
     .value = Васеъшавиҳои қуҳнашуда
@@ -333,9 +334,9 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } ба { -brand-short-name } { $version } мувофиқат намекунад.
-details-notification-unsigned-and-disabled = Истифодаи { $name } дар { -brand-short-name } санҷида нашуд ва бо ин сабаб ғайрифаъол карда шуд.
+details-notification-unsigned-and-disabled = Истифодаи { $name } дар { -brand-short-name } тасдиқ карда нашуд ва бо ин сабаб ғайрифаъол карда шуд.
 details-notification-unsigned-and-disabled-link = Маълумоти бештар
-details-notification-unsigned = Истифодаи { $name } дар { -brand-short-name } санҷида нашуд. Бо эҳтиёт истифода баред.
+details-notification-unsigned = Истифодаи { $name } дар { -brand-short-name } тасдиқ карда нашуд. Бо эҳтиёт истифода баред.
 details-notification-unsigned-link = Маълумоти бештар
 details-notification-blocked = Ба сабабҳои мушкилиҳои амниятӣ ё ноустувории кор, { $name } ғайрифаъол карда шуд.
 details-notification-blocked-link = Маълумоти бештар
