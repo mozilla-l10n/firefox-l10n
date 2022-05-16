@@ -36,8 +36,14 @@ detail-version =
 detail-last-updated =
     .label = Санаи навсозии охирин
 detail-contributions-description = Барномасози ин ҷузъи иловагӣ мепурсад, ки шумо рушди минбаъдаи барномаро бо саҳмгузории андак дастгирӣ намоед.
+detail-contributions-button = Мусоидат
+    .title = Барои рушди минбаъдаи ин ҷузъи иловагӣ мусоидат намоед
+    .accesskey = М
 detail-update-type =
     .value = Навсозиҳои худкор
+detail-update-default =
+    .label = Пешфарз
+    .tooltiptext = Навсозиҳо ба таври худкор насб карда мешаванд, танҳо агар ин танзими пешфарз бошад
 detail-update-automatic =
     .label = Фаъол
     .tooltiptext = Навсозиҳо ба таври худкор насб карда мешаванд
@@ -49,8 +55,10 @@ detail-private-browsing-label = Иҷро кардан дар равзанаҳо�
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Дар равзанаҳои хусусӣ иҷозат дода намешавад
+detail-private-disallowed-description2 = Ин васеъшавӣ дар реҷаи тамошокунии хусусӣ иҷро намешавад. <a data-l10n-name="learn-more">Маълумоти бештар</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Дастрасӣ ба равзанаҳои хусусӣ лозим аст
+detail-private-required-description2 = Ин васеъшавӣ дар реҷаи тамошокунии хусусӣ дорои қобили дастрасӣ ба фаъолияти шумо дар Интернет мебошад. <a data-l10n-name="learn-more">Маълумоти бештар</a>
 detail-private-browsing-on =
     .label = Иҷозат додан
     .tooltiptext = Фаъол кардан дар тамошокунии хусусӣ
