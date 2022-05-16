@@ -8,6 +8,8 @@ styleeditor-new-button =
 styleeditor-import-button =
     .tooltiptext = Ein Stil-Dokument importieren und auf die Webseite anwenden
     .accesskey = m
+styleeditor-filter-input =
+    .placeholder = Stil-Dokumente filtern
 styleeditor-visibility-toggle =
     .tooltiptext = Anwendung des Stil-Dokuments umschalten
     .accesskey = S
@@ -28,3 +30,5 @@ styleeditor-copy-url =
 styleeditor-go-to-line =
     .label = Gehe zu Zeile…
     .accesskey = G
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Es wurde kein passendes Stil-Dokument gefunden.
