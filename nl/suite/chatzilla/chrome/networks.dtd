@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Used in networks-edit dialog -->
+<!ENTITY networksEditDialog.title     "Netwerkeditor">
+<!-- LOCALIZATION NOTE
+     - width should be 62ch + length of longest serverList*.label -->
+
+
+
+
+
+<!-- LOCALIZATION NOTE:
+   - *.label are shared between networks-edit and networks-server dialogs
+   - *.accesskey are only used in network-servers dialog -->
+
+<!-- Used in networks-server dialog -->
+<!ENTITY serverPortDefault.label      "Standaard:">
