@@ -6,7 +6,6 @@ privatebrowsingpage-open-private-window-label = Arvi 'n barcon privòu
     .accesskey = à
 about-private-browsing-search-placeholder = Çerca inta Ræ
 about-private-browsing-info-title = Ti ê inte 'n barcon privòu
-about-private-browsing-info-myths = Miti comuin in sciâ navegaçion privâ
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
@@ -18,10 +17,8 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Çerca con { $engine } ò scrivi indirisso
 about-private-browsing-handoff-text-no-engine = Çerca ò scrivi indirisso
 about-private-browsing-not-private = Sto chi o no l'é 'n barcon privòu.
-about-private-browsing-info-description = { -brand-short-name } scancella a teu cronologia de navegaçion e de riçerche quande seri i feuggi e i barcoin de navegaçion privâ. Sciben che questo o no ti fa deventâ anònimo co-i sciti o co-o fornitô de Internet, o l'agiutta in ògni mòddo a mantegnî privòu da-i atri utenti de sto computer cöse ti fæ in linea.
 
-about-private-browsing-need-more-privacy = Te serve ciù privacy?
-about-private-browsing-turn-on-vpn = Preuva { -mozilla-vpn-brand-name }
+## The following strings will be used for experiments in Fx99 and Fx100
 
 # This string is the title for the banner for search engine selection
 # in a private window.
@@ -35,3 +32,4 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Særa
+

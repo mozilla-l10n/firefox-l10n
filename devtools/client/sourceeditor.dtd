@@ -18,6 +18,5 @@
   - documentation on web development on the web. -->
 
 <!ENTITY gotoLineCmd.label         "Sata a-a linia…">
-<!ENTITY gotoLineCmd.key           "J">
 <!ENTITY gotoLineCmd.accesskey     "S">
 

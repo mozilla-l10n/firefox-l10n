@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Dæta
 
-item-site-preferences =
-    .label = Preferense di sciti
-    .accesskey = s
-
 item-offline-apps =
     .label = Dæti feua linia do scito
     .accesskey = o

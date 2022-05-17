@@ -16,15 +16,9 @@ newtab-search-box-search-button =
     .title = Çerca
     .aria-label = Çerca
 
-newtab-search-box-search-the-web-input =
-    .placeholder = Çerca inta Ræ
-    .title = Çerca inta Ræ
-    .aria-label = Çerca inta Ræ
-
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Azonzi motô de riçerca
-newtab-topsites-add-topsites-header = Neuvo scito prinçipâ
 newtab-topsites-edit-topsites-header = Cangia scito prinçipâ
 newtab-topsites-title-label = Titolo
 newtab-topsites-title-input =
@@ -154,7 +148,6 @@ newtab-section-menu-privacy-notice = Informativa in sciâ privacy
 ## Section Headers.
 
 newtab-section-header-topsites = I megio sciti
-newtab-section-header-highlights = In evidensa
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Consegiou da { $provider }
@@ -183,6 +176,9 @@ newtab-pocket-read-more = Argomenti popolari:
 newtab-pocket-more-recommendations = Atri conseggi
 newtab-pocket-cta-button = Piggite { -pocket-brand-name }
 newtab-pocket-cta-text = Sarva e stöie che te piaxan into { -pocket-brand-name }, e carega torna a mente con letue che incantan.
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
