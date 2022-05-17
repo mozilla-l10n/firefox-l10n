@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Veri
 
-item-site-preferences =
-    .label = Site tercihleri
-    .accesskey = e
-
 item-site-settings =
     .label = Site ayarları
     .accesskey = S

@@ -123,13 +123,6 @@ openpgp-import-key-description = Diğer OpenPGP yazılımlarıyla oluşturulan k
 
 openpgp-import-key-info = Başka yazılımlarda "kişisel anahtar" yerine "kendi anahtarınız", "gizli anahtar", "özel anahtar", "anahtar çifti" gibi terimler de kullanılabilir.
 
-#   $count (Number) - the number of keys found in the selected files
-openpgp-import-key-list-amount =
-    { $count ->
-        [one] Thunderbird içe aktarılabilecek bir anahtar buldu.
-       *[other] Thunderbird içe aktarılabilecek { $count } anahtar buldu.
-    }
-
 openpgp-import-key-list-description = Hangi anahtarların kişisel anahtarlarınınız olarak kullanılacağını onaylayın. Yalnızca kendi oluşturduğunuz ve kendi kimliğinizi gösteren anahtarları kişisel anahtar olarak kullanmalısınız. Bu seçeneği daha sonra Anahtar Özellikleri iletişim kutusundan değiştirebilirsiniz.
 
 openpgp-import-key-list-caption = Kişisel anahtar olarak işaretlenen anahtarlar Uçtan Uca Şifreleme bölümünde listelenir. Diğerlerine ise Anahtar Yöneticisi'nden ulaşabilirsiniz.

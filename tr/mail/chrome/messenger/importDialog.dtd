@@ -32,9 +32,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "Süzgeçler">
 <!ENTITY importFilters.accesskey  "S">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "&brandShortName; İçeri Aktarma Sihirbazı">
 <!ENTITY importShortDesc.label    "Diğer uygulamalardan iletileri, adres defterlerini, ayarları ve süzgeçleri içe aktar">
 

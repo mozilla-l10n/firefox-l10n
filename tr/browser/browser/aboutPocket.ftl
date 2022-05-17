@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Etiket ekle
+
 pocket-panel-saved-error-generic = { -pocket-brand-name }’a kaydetmeye çalışırken bir hata oluştu.
 pocket-panel-saved-error-tag-length = Etiketler en fazla 25 karakter olabilir
 pocket-panel-saved-error-only-links = Yalnızca bağlantılar kaydedilebilir
@@ -29,6 +30,7 @@ pocket-panel-saved-saving-tags = Kaydediliyor…
 pocket-panel-saved-suggested-tags = Önerilen etiketler
 pocket-panel-saved-tags-saved = Etiketler eklendi
 pocket-panel-signup-view-list = Listeyi göster
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Etiket ekle:
 
@@ -43,6 +45,7 @@ pocket-panel-signup-signup-firefox = { -brand-product-name } ile kaydol
 pocket-panel-signup-tagline = İstediğiniz cihazda, istediğiniz zaman görmek istediğiniz yazı ve videoları { -brand-product-name }’tan { -pocket-brand-name }’a kaydedin.
 pocket-panel-signup-tagline-story-one = { -brand-product-name }’ta istediğiniz yazıyı, videoyu veya sayfayı kaydetmek için { -pocket-brand-name } düğmesine tıklayın.
 pocket-panel-signup-tagline-story-two = İstediğiniz cihazda, istediğiniz zaman { -pocket-brand-name }’tan bakın.
+
 pocket-panel-signup-cta-a-fix = İnterneti kaydetme düğmeniz
 pocket-panel-signup-cta-b = Makaleleri, videoları ve bağlantıları kaydetmek için { -pocket-brand-name } düğmesine tıklayın. Listenize istediğiniz zaman, istediğiniz cihazdan bakabilirsiniz.
 pocket-panel-signup-cta-b-short = Makaleleri, videoları ve bağlantıları kaydetmek için { -pocket-brand-name } düğmesine tıklayın.
@@ -56,6 +59,7 @@ pocket-panel-home-paragraph = { -pocket-brand-name }’ı kullanarak web sayfala
 pocket-panel-home-explore-popular-topics = Popüler konuları keşfedin
 pocket-panel-home-discover-more = Daha fazlasını keşfedin
 pocket-panel-home-explore-more = Keşfet
+
 pocket-panel-home-most-recent-saves = İşte en son kaydettikleriniz:
 pocket-panel-home-most-recent-saves-loading = Son kaydedilenler yükleniyor…
 pocket-panel-home-new-user-cta = Makaleleri, videoları ve bağlantıları kaydetmek için { -pocket-brand-name } düğmesine tıklayın.
@@ -69,6 +73,5 @@ pocket-panel-header-sign-in = Giriş yap
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Tümünü göster
-pocket-panel-button-add-tags = Etiket ekle
 pocket-panel-button-activate = { -brand-product-name } tarayıcısında { -pocket-brand-name }’ı etkinleştirin
 pocket-panel-button-remove = Kaldır

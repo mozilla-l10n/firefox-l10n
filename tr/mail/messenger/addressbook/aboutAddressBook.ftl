@@ -22,6 +22,7 @@ about-addressbook-toolbar-import =
 ## Books
 
 all-address-books = Tüm Adres Defterleri
+
 about-addressbook-books-context-properties =
     .label = Özellikler
 about-addressbook-books-context-synchronize =
@@ -36,6 +37,7 @@ about-addressbook-books-context-remove =
     .label = Kaldır
 about-addressbook-books-context-startup-default =
     .label = Varsayılan başlangıç dizini
+
 about-addressbook-confirm-delete-book-title = Adres defterini sil
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -53,14 +55,17 @@ about-addressbook-search =
     .placeholder = { $name } defterinde ara
 about-addressbook-search-all =
     .placeholder = Tüm adres defterlerinde ara
+
 about-addressbook-sort-button =
     .title = Liste sırasını değiştir
+
 about-addressbook-name-format-display =
     .label = Görünen ad
 about-addressbook-name-format-firstlast =
     .label = Adı Soyadı
 about-addressbook-name-format-lastfirst =
     .label = Soyadı, Adı
+
 about-addressbook-sort-name-ascending =
     .label = Ada göre sırala (A > Z)
 about-addressbook-sort-name-descending =
@@ -69,8 +74,10 @@ about-addressbook-sort-email-ascending =
     .label = E-posta adresine göre sırala (A > Z)
 about-addressbook-sort-email-descending =
     .label = E-posta adresine göre sırala (Z > A)
+
 about-addressbook-cards-context-write =
     .label = Yaz
+
 about-addressbook-confirm-delete-mixed-title = Kişileri ve listeleri sil
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -127,11 +134,13 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = Düzenle
 about-addressbook-cancel-edit-contact-button = Vazgeç
 about-addressbook-save-edit-contact-button = Kaydet
+
 about-addressbook-details-email-addresses-header = E-posta adresleri
 about-addressbook-details-phone-numbers-header = Telefon numaraları
 about-addressbook-details-home-address-header = Ev adresi
 about-addressbook-details-work-address-header = İş adresi
 about-addressbook-details-other-info-header = Diğer bilgiler
+
 about-addressbook-unsaved-changes-prompt-title = Kaydedilmemiş değişiklikler
 about-addressbook-unsaved-changes-prompt = Düzenleme görünümünden çıkmadan önce değişikliklerinizi kaydetmek ister misiniz?
 
@@ -141,6 +150,7 @@ about-addressbook-photo-drop-target = Buraya bir fotoğraf sürükleyin veya yap
 about-addressbook-photo-drop-loading = Fotoğraf yükleniyor…
 about-addressbook-photo-drop-error = Fotoğraf yüklenemedi.
 about-addressbook-photo-filepicker-title = Bir resim dosyası seçin
+
 about-addressbook-photo-discard = Mevcut fotoğrafı sil
 about-addressbook-photo-cancel = Vazgeç
 about-addressbook-photo-save = Kaydet

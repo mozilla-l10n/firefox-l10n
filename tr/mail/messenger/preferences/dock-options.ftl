@@ -5,20 +5,26 @@
 dock-options-window-dialog =
     .title = Uygulama simgesi seçenekleri
     .style = width: 35em;
+
 dock-options-show-badge =
     .label = Rozet simgesini göster
     .accesskey = R
+
 bounce-system-dock-icon =
     .label = Yeni ileti gelince uygulama simgesini hareketlendir
     .accesskey = h
+
 dock-icon-legend = Uygulama simgesi rozeti
+
 dock-icon-show-label =
     .value = Uygulama simgesine rozet ekle:
+
 count-unread-messages-radio =
     .label = Okunmamış ileti sayısı
     .accesskey = O
+
 count-new-messages-radio =
     .label = Yeni ileti sayısı
     .accesskey = s
-notification-settings-info = Rozeti, Sistem Tercihleri'nde bulunan Bildirim panelinden kapatabilirsiniz.
+
 notification-settings-info2 = Rozeti, Sistem Ayarları'nda bulunan Bildirim panelinden kapatabilirsiniz.

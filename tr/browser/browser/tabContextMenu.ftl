@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Paylaş
     .accesskey = P
-tab-context-share-more =
-    .label = Daha fazla…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -89,14 +87,6 @@ tab-context-reopen-closed-tabs =
            *[other] Kapatılan sekmeleri yeniden aç
         }
     .accesskey = d
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Sekmeyi kapat
-            [one] Sekmeyi kapat
-           *[other] Sekmeleri kapat
-        }
-    .accesskey = e
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -113,6 +103,7 @@ tab-context-move-tabs =
            *[other] Sekmeleri taşı
         }
     .accesskey = t
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

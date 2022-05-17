@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = { -brand-short-name } ile aç
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] { -brand-short-name } Seçenekler bölümünden ayarlarınızı değiştirebilirsiniz.
            *[other] { -brand-short-name } Tercihler bölümünden ayarlarınızı değiştirebilirsiniz.
         }
+
 unknowncontenttype-intro = Şunu açmayı seçtiniz:
 unknowncontenttype-which-is = türü:
 unknowncontenttype-from = nereden:

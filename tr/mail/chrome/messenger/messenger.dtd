@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "n">
 <!ENTITY newVirtualFolderCmd.label "Kayıtlı arama…">
 <!ENTITY newVirtualFolderCmd.accesskey "y">
-<!ENTITY newOtherAccountsCmd.label "Diğer hesaplar…">
-<!ENTITY newOtherAccountsCmd.accesskey "D">
 <!ENTITY newCreateEmailAccountCmd.label "Yeni e-posta hesabı al…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "Y">
 <!ENTITY newExistingEmailAccountCmd.label "Mevcut e-posta hesabı…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "d">
 <!ENTITY saveAsMenu.label "Farklı kaydet">
 <!ENTITY saveAsMenu.accesskey "F">
-<!ENTITY saveAsFileCmd.label "Dosya">
-<!ENTITY saveAsFileCmd.accesskey "D">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Geçici">
 <!ENTITY saveAsTemplateCmd.accesskey "c">

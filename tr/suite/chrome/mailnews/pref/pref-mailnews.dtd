@@ -11,14 +11,6 @@
 <!ENTITY mailBiffOnNewWindow.label "Yeni iletileri Posta ve haber gruplarını açtıktan sonra denetle">
 <!ENTITY mailBiffOnNewWindow.accesskey "n">
 
-<!ENTITY defaultMailSettings.description "&brandShortName; varsayılan uygulama olarak kullan:">
-<!ENTITY setDefaultMail.label "E-posta">
-<!ENTITY setDefaultMail.accesskey "E">
-<!ENTITY setDefaultNews.label "Haberler">
-<!ENTITY setDefaultNews.accesskey "H">
-<!ENTITY setDefaultFeed.label "Canlı yer imleri">
-<!ENTITY setDefaultFeed.accesskey "C">
-
 <!ENTITY messengerStartPage.caption "Posta başlangıç sayfası">
 <!ENTITY enableStartPage.label "Posta açıldığında ileti alanında başlangıç sayfasını göster">
 <!ENTITY enableStartPage.accesskey "g">
