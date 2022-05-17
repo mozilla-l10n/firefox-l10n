@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Correo electrónico adicional:">
 <!ENTITY SecondEmail.accesskey          "i">
-<!ENTITY PreferMailFormat.label         "De preferencia recibir mensajes en este formato:">
-<!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "Texto plano">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Desconocido">
