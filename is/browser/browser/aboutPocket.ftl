@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Bæta við merkjum
+
 pocket-panel-saved-error-generic = Upp kom villa við að vista á { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Merki eru takmörkuð við 25 stafi
 pocket-panel-saved-error-only-links = Aðeins er hægt að vista tengla
@@ -29,6 +30,7 @@ pocket-panel-saved-saving-tags = Vista…
 pocket-panel-saved-suggested-tags = Tillögur að merkjum
 pocket-panel-saved-tags-saved = Merkjum bætt við
 pocket-panel-signup-view-list = Skoða lista
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Bæta við merkjum:
 
@@ -43,7 +45,7 @@ pocket-panel-signup-signup-firefox = Skrá sig með { -brand-product-name }
 pocket-panel-signup-tagline = Vista síður og myndbönd frá { -brand-product-name } til að skoða í { -pocket-brand-name } á hvaða tæki sem er, hvenær sem er.
 pocket-panel-signup-tagline-story-one = Smelltu á { -pocket-brand-name } hnappinn til að vista grein, myndband eða síðu frá { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Skoðaðu í { -pocket-brand-name } á hvaða tæki sem er, hvenær sem er.
-pocket-panel-signup-cta-a = Vista-hnappurinn þinn fyrir internetið.
+
 pocket-panel-signup-cta-a-fix = Vista-hnappurinn þinn fyrir internetið
 pocket-panel-signup-cta-b = Smelltu á hnappinn { -pocket-brand-name } til að vista greinar, myndskeið og tengla. Skoðaðu listann þinn á hvaða tæki sem er, hvenær sem er.
 pocket-panel-signup-cta-b-short = Smelltu á hnappinn { -pocket-brand-name } til að vista greinar, myndskeið og tengla.
@@ -57,6 +59,7 @@ pocket-panel-home-paragraph = Þú getur notað { -pocket-brand-name } til að k
 pocket-panel-home-explore-popular-topics = Skoða vinsæl efni
 pocket-panel-home-discover-more = Uppgötva meira
 pocket-panel-home-explore-more = Kanna
+
 pocket-panel-home-most-recent-saves = Hér er það nýjasta sem þú hefur vistað:
 pocket-panel-home-most-recent-saves-loading = Hleð inn nýlega vistuðu…
 pocket-panel-home-new-user-cta = Smelltu á hnappinn { -pocket-brand-name } til að vista greinar, myndskeið og tengla.
@@ -70,6 +73,5 @@ pocket-panel-header-sign-in = Skrá inn
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Sýna allt
-pocket-panel-button-add-tags = Bæta við merkjum
 pocket-panel-button-activate = Virkjaðu { -pocket-brand-name } í { -brand-product-name }
 pocket-panel-button-remove = Fjarlægja

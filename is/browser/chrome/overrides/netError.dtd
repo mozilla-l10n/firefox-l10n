@@ -111,8 +111,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Tilkynntu villur eins og þessa til að hjálpa Mozilla að bera kennsl á og loka á hættuleg vefsvæði">
 <!ENTITY errorReporting.learnMore "Fræðast meira…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Hafðu samband við eigendur vefsvæðins til að láta þá vita af þessu vandamáli.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Ítarlegar upplýsingar: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -138,9 +136,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Svo virðist sem netöryggisstillingar gætu valdið þessu. Viltu endurheimta sjálfgefnar stillingar?">
 <!ENTITY prefReset.label "Endurheimta sjálfgefnar stillingar">
-
-<!ENTITY enableTls10.longDesc "Þessi vefsíða styður ekki TLS 1.2 samskiptareglur, sem er lágmarksútgáfan sem &brandShortName; styður. Að virkja TLS 1.0 og TLS 1.1 gæti gert þessa tengingu mögulega.">
-<!ENTITY enableTls10.note "TLS 1.0 og TLS 1.1 verða varanlega óvirk í framtíðarútgáfum.">
-<!ENTITY enableTls10.label "Virkja TLS 1.0 og 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Ekki er hægt að birta síðuna sem þú ert að reyna að skoða vegna þess að villa fannst í netsamskiptareglu.</p><ul><li>Hafðu samband við eigendur vefsvæðisins til að upplýsa þá um þetta vandamál.</li></ul>">

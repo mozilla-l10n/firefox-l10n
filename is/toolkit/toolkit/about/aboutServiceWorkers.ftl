@@ -9,6 +9,7 @@ about-service-workers-title = Um Service Workers þjónustuferli
 about-service-workers-main-title = Skráðir Service Workers
 about-service-workers-warning-not-enabled = Service Workers ekki virkir.
 about-service-workers-warning-no-service-workers = Engir Service Workers skráðir.
+
 # The original title of service workers' information
 #
 # Variables:
@@ -28,8 +29,12 @@ active-cache-name = <strong>Nafn á virku biðminni:</strong> { $name }
 waiting-cache-name = <strong>Nafn á biðminni:</strong> { $name }
 push-end-point-waiting = <strong>Senda endapunkt:</strong> { waiting }
 push-end-point-result = <strong>Senda endapunkt:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Uppfæra
+
 unregister-button = Afskrá
+
 unregister-error = Gat ekki afskráð þennan Service Worker.
+
 waiting = Bið…

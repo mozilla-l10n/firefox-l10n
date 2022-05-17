@@ -5,10 +5,13 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Leita í flipum
+
 all-tabs-menu-new-user-context =
     .label = Nýr sérefnisflipi
+
 all-tabs-menu-hidden-tabs =
     .label = Faldir flipar
+
 all-tabs-menu-manage-user-context =
     .label = Stjórna sérefnisfllipum
     .accesskey = f

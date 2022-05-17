@@ -3,15 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Mynd-í-mynd
+
 pictureinpicture-pause =
     .aria-label = Í bið
 pictureinpicture-play =
     .aria-label = Spila
+
 pictureinpicture-mute =
     .aria-label = Hljóðlaus
 pictureinpicture-unmute =
     .aria-label = Kveikja á hljóði
+
 pictureinpicture-unpip =
     .aria-label = Senda aftur á flipa
+
 pictureinpicture-close =
     .aria-label = Loka

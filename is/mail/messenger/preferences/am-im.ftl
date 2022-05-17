@@ -4,8 +4,10 @@
 
 account-settings-title = Stillingar auðkenningar
 account-channel-title = Sjálfgefnar spjallrásir
+
 chat-autologin =
     .label = Skrá inn í ræsingu
+
 chat-encryption-generic = Almennt
 chat-encryption-log =
     .label = Hafa enda-í-enda dulrituð skilaboð með í samtalaskrám

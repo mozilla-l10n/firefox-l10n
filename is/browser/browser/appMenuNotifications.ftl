@@ -37,6 +37,7 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ekki núna
     .secondarybuttonaccesskey = n
 appmenu-update-other-instance-message = Ný uppfærsla fyrir { -brand-shorter-name } er fáanleg, en ekki er hægt að setja hana upp vegna þess að annað eintak af { -brand-shorter-name } er í gangi. Lokaðu því til að halda áfram uppfærslunni, eða veldu að uppfæra samt (hitt eintakið virkar kannski ekki rétt fyrr en þú endurræsir það).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Allt í lagi
     .buttonaccesskey = A
@@ -44,6 +45,7 @@ appmenu-addon-post-install-message3 = Sýslaðu með viðbætur þínar og þemu
 appmenu-addon-post-install-incognito-checkbox =
     .label = Leyfa þessari viðbót að keyra í huliðsgluggum
     .accesskey = L
+
 appmenu-new-tab-controlled-changes =
     .label = Nýi flipinn þinn hefur breyst.
     .buttonlabel = Halda breytingum

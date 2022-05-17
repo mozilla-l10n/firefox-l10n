@@ -8,14 +8,10 @@ toolbar-context-menu-menu-bar =
 
 ## Tools Menu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-menu-tools-preferences =
-    .label = Kjörstillingar
-    .accesskey = K
 menu-tools-settings =
     .label = Stillingar
     .accesskey = i
+
 menu-addons-and-themes =
     .label = Viðbætur og þemu
     .accesskey = V
@@ -25,9 +21,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Úrræðaleitarhamur
     .accesskey = t
+
 menu-help-exit-troubleshoot-mode =
     .label = Slökkva á úrræðaleitarham
     .accesskey = k
+
 menu-help-more-troubleshooting-info =
     .label = Frekari upplýsingar um bilanaleit
     .accesskey = b
@@ -58,15 +56,19 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Þéttleiki
     .accesskey = k
+
 mail-uidensity-compact =
     .label = Þjappað
     .accesskey = p
+
 mail-uidensity-normal =
     .label = Venjulegt
     .accesskey = n
+
 mail-uidensity-touch =
     .label = Snertiskjár
     .accesskey = S
+
 menu-spaces-toolbar-button =
     .label = Svæða-verkfæraslá
     .accesskey = S

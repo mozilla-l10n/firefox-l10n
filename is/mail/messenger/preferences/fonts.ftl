@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Sjálfgefið ({ $name })
 fonts-label-default-unnamed =
     .label = Sjálfgefið
+
 fonts-encoding-dialog-title =
     .title = Leturgerð og stafatöflur
+
 fonts-language-legend =
     .value = Letur fyrir:
     .accesskey = t
+
 fonts-proportional-label =
     .value = Hlutfallslegt:
     .accesskey = H
@@ -85,35 +89,45 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
+
 default-font-sans-serif =
     .label = Sans Serif
+
 font-size-proportional-label =
     .value = Stærð:
     .accesskey = t
+
 font-size-monospace-label =
     .value = Stærð:
     .accesskey = r
+
 font-serif-label =
     .value = Serif:
     .accesskey = S
+
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
+
 font-monospace-label =
     .value = Jafnbreitt:
     .accesskey = J
+
 font-min-size-label =
     .value = Lágmarks leturstærð:
     .accesskey = g
+
 min-size-none =
     .label = Engin
 
 ## Fonts in message
 
 font-control-legend = Stjórna leturgerð
+
 use-document-fonts-checkbox =
     .label = Leyfa póstum að nota aðrar leturgerðir
     .accesskey = o
+
 use-fixed-width-plain-checkbox =
     .label = Nota leturgerð með fasta breidd fyrir venjuleg textaskilaboð
     .accesskey = x
@@ -121,13 +135,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Textakóðun
+
 text-encoding-description = Skilgreina sjálfgefna textakóðun fyrir útsendan og móttekin póst
+
 font-outgoing-email-label =
     .value = Útsendur póstur:
     .accesskey = u
+
 font-incoming-email-label =
     .value = Innsendur póstur:
     .accesskey = I
+
 default-font-reply-checkbox =
     .label = Ef hægt er skal nota sjálfgefna textakóðun í svörum
     .accesskey = h

@@ -15,15 +15,18 @@ about-unloads-intro =
     { -brand-short-name } forgangsraðar flipum og hvaða flipi mun afhlaðast
     þegar afhleðsla flipa er sett af stað. Þú getur kveikt handvirkt á afhleðslu
     flipa með því að smella á <em>Afhlaða</em>-hnappinn hér að neðan.
+
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
     Skoðaðu <a data-l10n-name="doc-link">Afhleðsla flipa</a> til að fá frekari upplýsingar um
     eiginleikann og þessa síðu.
+
 about-unloads-last-updated = Síðast uppfært: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Afhlaða
     .title = Afhlaða flipa með mesta forgangi
 about-unloads-no-unloadable-tab = Það eru engir afhlaðanlegir flipar.
+
 about-unloads-column-priority = Forgangur
 about-unloads-column-host = Hýsilvél
 about-unloads-column-last-accessed = Síðast notað
@@ -35,6 +38,7 @@ about-unloads-column-memory = Minni
     .title = Áætluð minnisnotkun flipa
 about-unloads-column-processes = Auðkenni ferla
     .title = Auðkenni þeirra ferla sem hýsa efni flipa
+
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =

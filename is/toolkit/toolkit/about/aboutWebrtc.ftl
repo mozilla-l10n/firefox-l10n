@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC Internals
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = vista about:webrtc sem
@@ -71,10 +72,12 @@ about-webrtc-type-remote = Fjarlægt
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Þýðing
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Valið
+
 about-webrtc-save-page-label = Vista síðu
 about-webrtc-debug-mode-msg-label = Villuleitarhamur
 about-webrtc-debug-mode-off-state-label = Byrja í villuleitarham
@@ -124,6 +127,7 @@ about-webrtc-encoder-label = Kóðari
 
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Áætluð bandbreidd
+
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -147,6 +151,7 @@ about-webrtc-aec-logging-off-state-msg = hægt er að finna skrár fyrir atvikas
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Flökt { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.

@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "g">
 <!ENTITY newVirtualFolderCmd.label "Vistuð leit…">
 <!ENTITY newVirtualFolderCmd.accesskey "V">
-<!ENTITY newOtherAccountsCmd.label "Aðrir reikningar…">
-<!ENTITY newOtherAccountsCmd.accesskey "A">
 <!ENTITY newCreateEmailAccountCmd.label "Búa til nýjan póstreikning…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "g">
 <!ENTITY newExistingEmailAccountCmd.label "Póstreikningur sem er þegar til…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Vista sem">
 <!ENTITY saveAsMenu.accesskey "s">
-<!ENTITY saveAsFileCmd.label "Skrá">
-<!ENTITY saveAsFileCmd.accesskey "S">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Sniðmát">
 <!ENTITY saveAsTemplateCmd.accesskey "t">
