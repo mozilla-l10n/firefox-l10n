@@ -54,10 +54,6 @@ item-cache =
 
 data-section-label = Дааннайдар
 
-item-site-preferences =
-    .label = Ситим-сир туруоруулара
-    .accesskey = С
-
 item-offline-apps =
     .label = Ситимэ суох көрдөрүллэр сирдэр
     .accesskey = м

@@ -31,3 +31,6 @@ state-dd-Disabled-block-list-state = <span data-l10n-name="state">Туруга:<
 mime-type-label = MIME көрүҥэ
 description-label = Сиһилии
 suffixes-label = Суффикстар
+
+## Gecko Media Plugins (GMPs)
+

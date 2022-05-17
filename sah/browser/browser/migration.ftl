@@ -47,16 +47,8 @@ import-done-page-title = Толору оҥоһулунна
 
 import-done-description = Бу эбийиэктэр импортаннылар:
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Мантан { $source }
-
 source-name-ie = Internet Explorer
-source-name-safari = Safari
 source-name-chrome = Google Chrome
-source-name-firefox = Mozilla Firefox
 
 imported-safari-reading-list = Ааҕыы тиһигэ (мантан - Safari)
 

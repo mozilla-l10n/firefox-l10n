@@ -21,6 +21,7 @@ app-basics-enabled-plugins = Холбоммут плагииннар
 app-basics-build-config = Торум (build) конфигурацията
 app-basics-user-agent = User Agent
 app-basics-memory-use = Долоҕойу туттуу
+
 modified-key-prefs-title = Сүрүн уларытыллыбыт туруоруулар
 modified-prefs-name = Аат
 user-js-title = user.js туруоруулара

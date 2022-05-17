@@ -14,9 +14,11 @@ videocontrols-enterfullscreen-button =
     .aria-label = Толору экраан
 videocontrols-exitfullscreen-button =
     .aria-label = Толору экраан эрэсиимиттэн таҕыс
+
 videocontrols-error-aborted = Видеону киллэрии тохтотулунна.
 videocontrols-error-network = Видеону көрдөрүү ситим алҕаһыттан тохтоото.
 videocontrols-error-decode = Видео көстөр кыаҕа суох, тоҕо диэтэххэ билэ туох эрэ омсоломмут.
 videocontrols-error-src-not-supported = Видео формаата эбэтэр MIME көрүҥэ өйөммөт.
 videocontrols-error-no-source = Өйөнөр формааттаах уонна MIME көрүҥнээх видео көстүбэтэ.
 videocontrols-error-generic = Видеону көрдөрүү биллибэт алҕас тахсан хаалан тохтотуллунна.
+

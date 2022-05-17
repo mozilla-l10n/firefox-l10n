@@ -78,9 +78,6 @@
 <!ENTITY corruptedContentErrorv2.title "Иһинээҕитэ туох эрэ алҕастаах">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Көрөөрү гыммыт сирэйиҥ сатаан хачайдаммата, тоҕо диэтэххэ биэрии кэмигэр туох эрэ алҕас таҕыста.</p><ul><li>Ситим-сир бас билээччитигэр тахсан, бука диэн, бу туһунан кэпсээ эрэ.</li></ul>">
 
-<!ENTITY remoteXUL.title "Тэйиччи XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Ситим-сир бас билээччитигэр тахсан, бука диэн, бу туһунан кэпсээ эрэ.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

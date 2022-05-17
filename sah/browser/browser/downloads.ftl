@@ -19,36 +19,13 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Хаттаан
     .accesskey = Х
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = Билэлээх паапканы арый
-    .accesskey = л
   
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = Finder-гэ көрдөр
-    .accesskey = к
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] Finder-гэ көрдөр
-           *[other] Билэлээх паапканы арый
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] Finder-гэ көрдөр
-           *[other] Билэлээх паапканы арый
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] Finder-гэ көрдөр
-           *[other] Билэлээх паапканы арый
-        }
+##
 
 downloads-cmd-retry =
     .tooltiptext = Хатылаа
@@ -83,6 +60,13 @@ downloads-cmd-clear-downloads =
 downloads-history =
     .label = Хачайдааһыннары барыларын көрдөр
     .accesskey = ө
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
 
 downloads-clear-downloads-button =
     .label = Хачайдаммыты ыраастаа

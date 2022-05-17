@@ -39,15 +39,6 @@ menu-quit =
 menu-quit-mac =
     .label = Маны { -brand-shorter-name } бүтэр
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Маны { -brand-shorter-name } бүтэр
-
 ## File Menu
 
 menu-file =
@@ -65,9 +56,6 @@ menu-file-new-private-window =
 menu-file-open-file =
     .label = Билэни арый…
     .accesskey = Б
-menu-file-close =
-    .label = Сап
-    .accesskey = С
 menu-file-close-window =
     .label = Түннүгү сап
     .accesskey = с
@@ -80,9 +68,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Сирэй туруоруулара...
     .accesskey = т
-menu-file-print-preview =
-    .label = Эрдэ көрүү
-    .accesskey = к
 menu-file-print =
     .label = Бэчээт…
     .accesskey = Б
@@ -228,6 +213,3 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Көмө
     .accesskey = К
-menu-help-feedback-page =
-    .label = Бэйэҥ санааҕын ыыт…
-    .accesskey = Б

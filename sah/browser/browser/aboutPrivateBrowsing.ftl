@@ -5,3 +5,5 @@
 privatebrowsingpage-open-private-window-label = Бүөм түннүгү арый
     .accesskey = т
 
+## The following strings will be used for experiments in Fx99 and Fx100
+
