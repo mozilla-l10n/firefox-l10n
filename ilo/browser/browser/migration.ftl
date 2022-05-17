@@ -15,14 +15,6 @@ import-done-page-title = Nalpas ti Panagyangkat
 
 import-close-source-browser = Pamnekanyo ket nakarikep ti pinili a panglayag sakbaykayo agtuloy.
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Manipud { $source }
-
-source-name-firefox = Mozilla Firefox
-
 ## Browser data types
 ## All of these strings get a $browser variable passed in.
 ## You can use the browser variable to differentiate the name of items,

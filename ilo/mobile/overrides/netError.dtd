@@ -139,8 +139,6 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY remoteXUL.title "Adayo a XUL">
-
 
 <!ENTITY sslv3Used.title "Unable to Connect Securely">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate

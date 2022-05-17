@@ -20,3 +20,6 @@ path-dd = <span data-l10n-name="path">Dana:</span> { $pluginFullPath }
 mime-type-label = Kita ti MIME
 description-label = Pakabigbigan
 suffixes-label = Ungto
+
+## Gecko Media Plugins (GMPs)
+

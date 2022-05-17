@@ -16,10 +16,6 @@ menu-application-hide-other =
 
 ##
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
 ## File Menu
 
 menu-file =
@@ -34,9 +30,6 @@ menu-file-new-window =
 menu-file-open-file =
     .label = Open File…
     .accesskey = O
-menu-file-close =
-    .label = Close
-    .accesskey = C
 menu-file-close-window =
     .label = Close Window
     .accesskey = d
@@ -46,9 +39,6 @@ menu-file-save-page =
 menu-file-print-setup =
     .label = Page Setup…
     .accesskey = u
-menu-file-print-preview =
-    .label = Pagarigan ti Panagimaldit
-    .accesskey = v
 menu-file-print =
     .label = Imaldit...
     .accesskey = P

@@ -8,3 +8,4 @@ videocontrols-unmute-button =
     .aria-label = Pagunien
 videocontrols-enterfullscreen-button =
     .aria-label = Dagup a Pantalia
+

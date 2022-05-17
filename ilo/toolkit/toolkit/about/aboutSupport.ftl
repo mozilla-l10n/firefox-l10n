@@ -10,6 +10,7 @@ app-basics-name = Nagan
 app-basics-version = Bersion
 app-basics-enabled-plugins = Agtartaray nga Anay
 app-basics-memory-use = Panangaramat ti Memoria
+
 modified-prefs-name = Nagan
 a11y-title = Aksesibilidad
 

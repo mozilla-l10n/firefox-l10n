@@ -3,32 +3,45 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Mangimaton ti Raman
+
 search-header-shortcut =
     .key = f
+
 list-empty-installed =
     .value = Awan ti raman a nakainstala a kastoy
+
 list-empty-available-updates =
     .value = Awan ti nabirokan a pannarimaan
+
 list-empty-recent-updates =
     .value = Saan pay a nanarimaan ti raman
+
 list-empty-find-updates =
     .label = Palutputen ti Pannanarimaan
+
 detail-version =
     .label = Bersion
+
 detail-last-updated =
     .label = Kaudian a Panagtarimaan
+
 detail-home =
     .label = Umuna a panid
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = Palutputen ti Pannanarimaan
     .accesskey = f
     .tooltiptext = Palutputen ti pananarimaan kadaytoy a raman
+
 addon-restart-now =
     .label = Irugi manen itan
+
 addon-category-plugin = Anay
 addon-category-plugin-title =
     .title = Anay
@@ -108,3 +121,4 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = Saan nga agkatunos ti { $name } iti { -brand-short-name } { $version }.
+

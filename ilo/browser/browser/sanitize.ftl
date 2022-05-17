@@ -45,10 +45,6 @@ history-section-label = Pakasaritaan
 
 data-section-label = Datos
 
-item-site-preferences =
-    .label = Pagdumdumaan ti Website
-    .accesskey = s
-
 sanitize-everything-undo-warning = Saan a maibabawi daytoy nga aramiden.
 
 window-close =

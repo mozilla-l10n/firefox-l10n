@@ -73,8 +73,6 @@
 <!ENTITY cspBlocked.longDesc "<p>Linapdan ti browser daytoy a panid ket mangikarga a kastoy gapu ta adda ti polisa ti seguridad iti aglalaon nga agpapaidam.</p>">
 
 
-<!ENTITY remoteXUL.title "Adayo a XUL">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
