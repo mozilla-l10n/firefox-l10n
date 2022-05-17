@@ -104,8 +104,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Nach cuir thu aithisg mu mhearachdan d’ a leithid dha Mozilla ach an urrainn dhuinn làraichean droch-rùnach mar seo a bhacadh?">
 <!ENTITY errorReporting.learnMore "Barrachd fiosrachaidh…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Cuir fios gu seilbheadairean na làraich mun duilgheadas seo.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Fiosrachadh adhartach: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -131,9 +129,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Tha coltas gur e roghainnean tèarainteachd an lìonraidh agad ag adhbharachadh seo. A bheil thu airson na roghainnean bunaiteach a thilleadh?">
 <!ENTITY prefReset.label "Aisig na roghainnean bunaiteach">
-
-<!ENTITY enableTls10.longDesc "Dh’fhaoidte nach cuir an làrach-lìn seo taic ri pròtacal TLS 1.2 agus ’s e sin an tionndadh as sine ris an cuir &brandShortName; taic. ’S dòcha gun soirbhich leis a’ cheangal seo ma chuireas tu TLS 1.0 agus TLS 1.1 an comas.">
-<!ENTITY enableTls10.note "Thèid TLS 1.0 agus TLS 1.1 a chur à comas gu buan ann an tionndadh ri teachd.">
-<!ENTITY enableTls10.label "Cuir an comas TLS 1.0 agus 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Chan urrainn dhuinn an duilleag a tha a dhìth ort a shealltainn dhut a chionn ’s gun do mhothaich sinn ri mearachd ann am pròtacal an lìonraidh.</p><ul><li>Cuir fios dha na daoine aig a bheil an làrach-lìn is innis dhaibh mun duilgheadas.</li></ul>">

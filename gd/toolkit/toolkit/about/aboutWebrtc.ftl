@@ -61,9 +61,6 @@ about-webrtc-ice-component-id = Component ID
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
-about-webrtc-avg-bitrate-label = Reat bhiodan cuibheasach
-about-webrtc-avg-framerate-label = Reat fhrèamaichean cuibheasach
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.

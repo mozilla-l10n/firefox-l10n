@@ -34,7 +34,6 @@ about-telemetry-events-section = Tachartasan
 about-telemetry-simple-measurements-section = Tomhaisean simplidh
 about-telemetry-slow-sql-section = SQL Statements slaodach
 about-telemetry-addon-details-section = Mion-fhiosrachadh an tuilleadain
-about-telemetry-captured-stacks-section = Stacan glacte
 about-telemetry-late-writes-section = Sgrìobhaidhean fadalach
 about-telemetry-raw-payload-section = Raw Payload
 about-telemetry-raw = JSON amh
@@ -123,10 +122,6 @@ about-telemetry-addon-provider = Solaraiche { $addonProvider }
 about-telemetry-keys-header = Roghainn
 about-telemetry-names-header = Ainm
 about-telemetry-values-header = Luach
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (cunntas glacaidh: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Sgrìobhadh fadalach #{ $lateWriteCount }

@@ -4,33 +4,13 @@
 
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY menu_securityDoNotEncrypt.label "Na crioptaich">
-<!ENTITY menu_securityDoNotEncrypt.accesskey "o">
-
 <!-- not yet used
 <!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
-
-<!ENTITY menu_securityEncryptRequire2.label "Iarr crioptachadh">
-<!ENTITY menu_securityEncryptRequire.accesskey "p">
-
-<!ENTITY menu_securitySign.label "Cuir soighneadh digiteach ris an teachdaireachd seo">
-<!ENTITY menu_securitySign.accesskey "m">
-
-<!ENTITY menu_securityTech.label "Teicneolas crioptachaidh">
-<!ENTITY menu_securityTech.accesskey "T">
 
 <!ENTITY menu_techPGP.label "OpenPGP">
 <!ENTITY menu_techPGP.accesskey "O">
 <!ENTITY menu_techSMIME.label "S/MIME">
 <!ENTITY menu_techSMIME.accesskey "S">
 
-<!ENTITY menu_securityStatus.label "Seall am fiosrachadh tèarainteachd">
-<!ENTITY menu_securityStatus.accesskey "i">
-
-<!ENTITY securityButton.label "Tèarainteachd">
-<!ENTITY securityButton.tooltip "Seall no atharraich na roghainnean tèarainteachd">
-
-<!ENTITY menu_viewSecurityStatus.label "Fiosrachadh tèarainteachd na teachdaireachd">
-<!ENTITY menu_viewSecurityStatus.accesskey "i">

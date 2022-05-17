@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Duilleag-lìn…">
 <!ENTITY attachPageCmd.accesskey "D">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Cairt phearsanta (vCard)">
-<!ENTITY attachVCardCmd.accesskey "p">
 <!ENTITY remindLater.label "Cuir 'nam chuimhne an ceann tamaill">
 <!ENTITY remindLater.accesskey "l">
 <!ENTITY closeCmd.label "Dùin">
@@ -148,16 +145,6 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "Sanasan air cor an lìbhrigidh">
 <!ENTITY dsnMenu.accesskey "n">
-<!ENTITY deliveryFormatMenu.label "Fòrmat lìbhrigidh">
-<!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "Mothachadh leis fhèin">
-<!ENTITY autoFormatCmd.accesskey "a">
-<!ENTITY plainTextFormatCmd.label "Teacsa lom a-mhàin">
-<!ENTITY plainTextFormatCmd.accesskey "T">
-<!ENTITY htmlFormatCmd.label "Rich Text (HTML) a-mhàin">
-<!ENTITY htmlFormatCmd.accesskey "R">
-<!ENTITY bothFormatCmd.label "Teacsa lom is Rich (HTML) Text">
-<!ENTITY bothFormatCmd.accesskey "L">
 <!ENTITY priorityMenu.label "Prìomhachas">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.title "Prìomhachas">
@@ -221,7 +208,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Seòrsaichean eile de raointean seòlaidh">
 <!ENTITY fromAddr2.label "O">
 <!ENTITY fromAddr.accesskey "O">
 <!ENTITY replyAddr2.label "Freagairt gu">

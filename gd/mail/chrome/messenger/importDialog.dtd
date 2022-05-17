@@ -32,9 +32,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "Criathragan">
 <!ENTITY importFilters.accesskey  "C">
 
-<!ENTITY  window.width            "45em">
-<!ENTITY  window.macWidth         "50em">
-
 <!ENTITY importTitle.label        "An draoidh ion-phortaidh aig &brandShortName;">
 <!ENTITY importShortDesc.label    "Ion-phortaich post, leabhraichean nan seòladh, roghainnean is criathragan o phrògraman eile">
 

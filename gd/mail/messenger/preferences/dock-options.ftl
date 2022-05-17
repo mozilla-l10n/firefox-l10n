@@ -23,4 +23,3 @@ count-new-messages-radio =
     .label = Co mheud teachdaireachd ùr
     .accesskey = h
 
-notification-settings-info = ’S urrainn dhut a’ bhaidse a chur à comas ann an leòsan nam brathan aig roghainnean an t-siostaim.
