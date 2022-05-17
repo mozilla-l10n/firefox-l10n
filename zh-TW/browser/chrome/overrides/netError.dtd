@@ -148,8 +148,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "回報這類的錯誤，幫助 Mozilla 找出並封鎖惡意網站">
 <!ENTITY errorReporting.learnMore "更多資訊…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>請聯絡網站管理員以通知他們這個問題。</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "進階資訊: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -175,9 +173,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "看來可能是您的網路安全設定造成此問題，您是否要恢復預設設定值？">
 <!ENTITY prefReset.label "還原預設設定">
-
-<!ENTITY enableTls10.longDesc "此網站可能不支援 &brandShortName; 最低支援的 TLS 1.2 版通訊協定。開啟 TLS 1.0 或 TLS 1.1 可能可以進行連線。">
-<!ENTITY enableTls10.note "將於未來的版本中永久結束支援 TLS 1.0 及 TLS 1.1。">
-<!ENTITY enableTls10.label "開啟 TLS 1.0 與 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>因為偵測到網路通訊協定中的問題，無法顯示您嘗試檢視的頁面。</p><ul><li>請聯絡網站管理員來解決這個問題。</li></ul>">

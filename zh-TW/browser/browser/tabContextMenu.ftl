@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = 分享
     .accesskey = h
-tab-context-share-more =
-    .label = 更多…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -88,12 +86,6 @@ tab-context-reopen-closed-tabs =
            *[other] 回復關閉的 { $tabCount } 個分頁
         }
     .accesskey = o
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-           *[other] 關閉分頁
-        }
-    .accesskey = C
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -107,6 +99,7 @@ tab-context-move-tabs =
            *[other] 移動分頁
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

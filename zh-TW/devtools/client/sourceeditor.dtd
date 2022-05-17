@@ -18,6 +18,5 @@
   - documentation on web development on the web. -->
 
 <!ENTITY gotoLineCmd.label         "跳到某行…">
-<!ENTITY gotoLineCmd.key           "J">
 <!ENTITY gotoLineCmd.accesskey     "J">
 

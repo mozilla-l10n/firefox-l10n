@@ -47,10 +47,3 @@
 <!ENTITY useDefault.label               "回復預設值">
 <!ENTITY useDefault.accesskey           "R">
 
-<!ENTITY defaultBrowserGroup.label      "預設瀏覽器">
-<!ENTITY defaultBrowserButton.label     "設為預設瀏覽器">
-<!ENTITY defaultBrowserButton.accesskey "D">
-<!ENTITY alreadyDefaultText             "&brandShortName; 已經是您的預設瀏覽器了。">
-<!ENTITY defaultPendingText             "按下確定後 &brandShortName; 會被設定為您的預設瀏覽器。">
-<!ENTITY wasMadeDefaultText             "已將 &brandShortName; 設定為您的預設瀏覽器。">
-<!ENTITY makeDefaultText                "將 &brandShortName; 設為您的預設瀏覽器。">

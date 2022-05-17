@@ -34,7 +34,6 @@ about-telemetry-events-section = 事件
 about-telemetry-simple-measurements-section = 簡易測量
 about-telemetry-slow-sql-section = 慢速的 SQL 陳述句
 about-telemetry-addon-details-section = 附加元件詳情
-about-telemetry-captured-stacks-section = 捕捉到的堆疊
 about-telemetry-late-writes-section = 慢速寫入
 about-telemetry-raw-payload-section = 原始酬載
 about-telemetry-raw = 原始 JSON
@@ -120,10 +119,6 @@ about-telemetry-addon-provider = { $addonProvider } 提供者
 about-telemetry-keys-header = 屬性
 about-telemetry-names-header = 名稱
 about-telemetry-values-header = 值
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey }（捕捉到的數量: { $capturedStacksCount }）
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = 慢速寫入 #{ $lateWriteCount }
