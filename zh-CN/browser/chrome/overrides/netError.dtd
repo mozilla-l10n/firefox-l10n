@@ -130,8 +130,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "报告此类错误，帮助 Mozilla 识别与拦截恶意网站">
 <!ENTITY errorReporting.learnMore "详细了解…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>建议向此网站的管理员反馈这个问题。</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "高级信息: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -157,9 +155,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "看来可能是您的网络安全设置造成了此问题。您想还原到默认设置吗？">
 <!ENTITY prefReset.label "恢复默认设置">
-
-<!ENTITY enableTls10.longDesc "此网站可能不支持 TLS 1.2 协议，该协议现为 &brandShortName; 的最低支持版本。启用 TLS 1.0 和 TLS 1.1 可能会成功连接。">
-<!ENTITY enableTls10.note "未来的版本中将永久禁用 TLS 1.0 和 TLS 1.1。">
-<!ENTITY enableTls10.label "启用 TLS 1.0 和 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>您尝试查看的页面无法显示，因为检测到了网络协议中的错误。</p><ul><li>建议向此网站的管理员反馈这个问题。</li></ul>">

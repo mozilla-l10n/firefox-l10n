@@ -150,9 +150,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "远程 XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>建议向此网站的管理员反馈这个问题。</li></ul></p>">
-
 <!ENTITY sslv3Used.title "无法安全连接">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->

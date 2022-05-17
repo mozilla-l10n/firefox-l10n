@@ -21,5 +21,4 @@
 
 
 <!ENTITY gotoLineCmd.label         "跳转到某行…">
-<!ENTITY gotoLineCmd.key           "J">
 <!ENTITY gotoLineCmd.accesskey     "J">

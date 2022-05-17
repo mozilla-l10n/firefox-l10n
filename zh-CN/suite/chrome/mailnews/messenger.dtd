@@ -313,9 +313,6 @@
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "附件">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
-<!ENTITY editMsgAsNewCmd.label "作为新消息编辑">
-<!ENTITY editMsgAsNewCmd.accesskey "E">
-<!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "根据消息创建过滤器…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY archiveMsgCmd.label "归档">
@@ -468,8 +465,6 @@
 <!ENTITY contextOpenNewWindow.accesskey "W">
 <!ENTITY contextOpenNewTab.label "在新标签页中打开消息">
 <!ENTITY contextOpenNewTab.accesskey "T">
-<!ENTITY contextEditAsNew.label "作为新消息编辑…">
-<!ENTITY contextEditAsNew.accesskey "E">
 <!ENTITY contextReplySender.label "只回复发件人">
 <!ENTITY contextReplySender.accesskey "O">
 <!ENTITY contextReplyList.label "回复到列表">

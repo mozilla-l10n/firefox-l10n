@@ -4,9 +4,6 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
-<!ENTITY pref.scripts.title              "脚本和插件">
-
 <!ENTITY navigator.label                 "浏览器">
 <!ENTITY navigator.accesskey             "B">
 
@@ -28,12 +25,3 @@
 <!ENTITY debugConsoleJavascript.label     "显示 Chrome 的 JavaScript 错误和警告">
 <!ENTITY debugConsoleJavascript.accesskey "c">
 
-<!ENTITY enablePlugins.label             "允许插件用于">
-<!ENTITY enablePluginForSuite.label      "套件">
-<!ENTITY enablePluginForSuite.accesskey  "u">
-
-<!ENTITY whenPageRequiresPlugins.label   "当一个页面需要插件">
-<!ENTITY activateAllPlugins.label        "默认启用所有插件">
-<!ENTITY activateAllPlugins.accesskey    "d">
-<!ENTITY warnPluginsRequired.label       "如果需要安装额外的插件时警示我">
-<!ENTITY warnPluginsRequired.accesskey   "W">

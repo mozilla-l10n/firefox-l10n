@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "过滤器规则">
-<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "过滤器名称:">
 <!ENTITY filterName.accesskey "i">
 

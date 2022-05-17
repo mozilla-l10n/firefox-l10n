@@ -5,22 +5,27 @@
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 csp-error-missing-directive = 策略缺少必要的“{ $directive }”指令
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $keyword (String): the name of a CSP keyword, usually 'unsafe-inline'.
 csp-error-illegal-keyword = “{ $directive }”指令包含不允许的 { $keyword } 关键字
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
 csp-error-illegal-protocol = “{ $directive }”指令包含不允许的 { $scheme }：协议源
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
 csp-error-missing-host = { $scheme }：协议需要“{ $directive }”指令中的一个主机
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $source (String): the name of a CSP source, usually 'self'.
 csp-error-missing-source = “{ $directive }”必须包括源 { $source }
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.

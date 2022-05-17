@@ -123,12 +123,6 @@ openpgp-import-key-description = 您可以导入其他 OpenPGP 软件创建的�
 
 openpgp-import-key-info = 在其他软件中，可能会将个人密钥称为“您的密钥”、“私钥”、“密钥”或“密钥对”。
 
-#   $count (Number) - the number of keys found in the selected files
-openpgp-import-key-list-amount =
-    { $count ->
-       *[other] Thunderbird 找到 { $count } 个可以导入的密钥。
-    }
-
 openpgp-import-key-list-description = 请确认哪些密钥是您的个人密钥。应该只将您自己创建，且显示您个人身份的密钥视为个人密钥。您可以稍后到“密钥属性”对话框更改此选项。
 
 openpgp-import-key-list-caption = 标记为“个人密钥”的密钥，将列于“端到端加密”项中。其他密钥则列出于“密钥管理器”。

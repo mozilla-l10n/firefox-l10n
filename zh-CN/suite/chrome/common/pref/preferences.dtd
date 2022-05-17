@@ -38,14 +38,12 @@
 <!ENTITY images.label "图片">
 <!ENTITY popups.label "弹出窗口">
 <!ENTITY passwords.label "密码">
-<!ENTITY masterpass.label "主密码">
 <!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "证书">
 
 <!ENTITY sync.label "同步">
 
 <!ENTITY advance.label "高级">
-<!ENTITY scriptsAndWindows.label "脚本和插件">
 <!ENTITY keynav.label "键盘导航">
 <!ENTITY findAsYouType.label "输入时同步查找">
 <!ENTITY cache.label "高速缓存">
