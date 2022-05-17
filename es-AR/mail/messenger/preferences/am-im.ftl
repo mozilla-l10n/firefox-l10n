@@ -4,8 +4,10 @@
 
 account-settings-title = Configuración de autenticación
 account-channel-title = Canales predeterminados
+
 chat-autologin =
     .label = Iniciar sesión al inicio
+
 chat-encryption-generic = Genérico
 chat-encryption-log =
     .label = Incluir los mensajes cifrados de punta a punta en los registros de la conversación

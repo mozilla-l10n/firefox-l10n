@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = Abrir en { -brand-short-name }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] La configuración puede cambiarse en las Opciones de { -brand-short-name }.
            *[other] La configuración puede cambiarse en las Preferencias de { -brand-short-name }.
         }
+
 unknowncontenttype-intro = Ha decidido abrir:
 unknowncontenttype-which-is = que es:
 unknowncontenttype-from = desde:
