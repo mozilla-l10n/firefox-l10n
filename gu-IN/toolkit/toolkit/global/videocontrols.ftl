@@ -18,12 +18,14 @@ videocontrols-casting-button-label =
     .aria-label = સ્ક્રીનમાં કાસ્ટ કરો
 videocontrols-closed-caption-off =
     .offlabel = બંધ કરો
+
 videocontrols-error-aborted = વીડિયો લાવવાનું અટક્યું.
 videocontrols-error-network = નેટવર્ક ક્ષતિને કારણે વીડિયો ચલાવવાનું અડધેથી બંધ કરવામાં આવ્યું.
 videocontrols-error-decode = વીડિયો ચલાવી શકતા નથી કારણ કે ફાઇલ બગડેલી છે.
 videocontrols-error-src-not-supported = વીડિયો બંધારણ કે MIME પ્રકાર આધારભૂત નથી.
 videocontrols-error-no-source = આધારભૂત બંધારણ અને MIME પ્રકારવાળો કોઇ વીડિયો મળી આવ્યો નહિં.
 videocontrols-error-generic = અજ્ઞાત કારણોસર વીડિયો ચલાવવાનું અડધેથી બંધ કરવામાં આવ્યું.
+
 # This message shows the current position and total video duration
 #
 # Variables:

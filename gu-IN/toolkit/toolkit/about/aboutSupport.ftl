@@ -54,6 +54,7 @@ app-basics-location-service-key-google = Google સ્થાન સર્વિ�
 app-basics-safebrowsing-key-google = Google સેફબ્રૉઝિંગ કી
 app-basics-key-mozilla = Mozilla સ્થાન સર્વિસ કી
 app-basics-safe-mode = સલામત મોડ
+
 show-dir-label =
     { PLATFORM() ->
         [macos] શોધકર્તામાં બતાવો

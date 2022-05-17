@@ -15,11 +15,14 @@ toolbox-meatball-menu-dock-bottom-label = નીચેથી ડોક કરો
 toolbox-meatball-menu-dock-left-label = ડાકથી ડાબે
 toolbox-meatball-menu-dock-right-label = ડાકથી જમણે
 toolbox-meatball-menu-dock-separate-window-label = અલગ વિન્ડો
+
 toolbox-meatball-menu-splitconsole-label = સ્પ્લિટ કન્સોલ બતાવો
 toolbox-meatball-menu-hideconsole-label = સ્પ્લિટ કન્સોલ છુપાવો
+
 toolbox-meatball-menu-settings-label = સેટિંગ્સ
 toolbox-meatball-menu-documentation-label = દસ્તાવેજીકરણ…
 toolbox-meatball-menu-community-label = સમુદાય…
+
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.

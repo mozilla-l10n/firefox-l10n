@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "આ કાર્ય સ્ટેક પર કેટલી વખત સ્ટેક પર હતું ત્યારે પ્રોફાઇલે નમૂના લીધો હતો.">
 <!ENTITY performanceUI.table.function                 "કાર્ય">
 <!ENTITY performanceUI.table.function.tooltip         "નમૂનાપૂર્ણ કાર્યનું નામ અને સ્રોત સ્થાન.">
-<!ENTITY performanceUI.table.totalAlloc               "કુલ નમૂનારૂપ ફાળવણી">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "ઑબ્જેક્ટની ફાળવણીની કુલ સંખ્યા આ સ્થાન અને કેલેલ્સમાં મળેલી છે.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

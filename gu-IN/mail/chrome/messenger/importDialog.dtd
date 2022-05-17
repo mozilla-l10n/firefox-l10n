@@ -12,9 +12,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY importDialog.windowTitle "આયાત">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "&brandShortName; મેલ આયાત વિઝાર્ડ">
 
 <!ENTITY importDescription2.label "એકવાર જ્યારે તે આયાત થઈ જાય, ત્યારે તમે તેમને &brandShortName; મેલ અને/અથવા સરનામા પુસ્તિકામાંથી આયાત કરવા સમર્થ હશો.">

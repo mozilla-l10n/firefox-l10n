@@ -179,12 +179,6 @@ restore-html-label =
     .label = પુનઃસંગ્રહો મૂળભૂતો
     .accesskey = R
 
-format-description = લખાણ બંધારણ વર્તણૂક રૂપરેખાંકિત કરો
-
-send-options-label =
-    .label = મોકલો વિકલ્પો...
-    .accesskey = S
-
 autocomplete-description = જ્યારે સંદેશાઓને સરનામું આપી રહ્યા હોય, ત્યારે આમાં બંધબેસતાત પ્રવેશો માટે જુઓ:
 
 ab-label =
@@ -221,4 +215,6 @@ email-picker-label =
 
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 
