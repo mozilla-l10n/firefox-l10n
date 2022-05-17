@@ -22,4 +22,3 @@ proxyResolveFailure-title = Ayikwazi ukuthola iseva ye-proxy
 redirectLoop-title = Leli khasi aliqondile kahle kwenye indawo
 unknownSocketType-title = Impendulo engalindelekile evela kwi seva
 corruptedContentError-title = Iphutha lokuqukethwe elimoshekile
-remoteXUL-title = Isilawuli-kude se-XUL

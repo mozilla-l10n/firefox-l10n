@@ -5,6 +5,7 @@
 toolbar-context-menu-view-customize-toolbar =
     .label = Yenza ngokwezifiso…
     .accesskey = Y
+
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Ibha yohlu lokukhona
     .accesskey = y

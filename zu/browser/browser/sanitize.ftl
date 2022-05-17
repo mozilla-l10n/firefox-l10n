@@ -54,10 +54,6 @@ item-cache =
 
 data-section-label = Idatha
 
-item-site-preferences =
-    .label = Okuthandwayo kwisayithi
-    .accesskey = s
-
 item-offline-apps =
     .label = Idatha yewebhusayithi engaphandle kwelayini
     .accesskey = d

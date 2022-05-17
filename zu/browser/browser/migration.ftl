@@ -47,16 +47,8 @@ import-done-page-title = Ukwamukela Sekuphelile
 
 import-done-description = Lezi zinto ezilandelayo zamukelwe ngempumelelo:
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Kusuka ku-{ $source }
-
 source-name-ie = I-Internet Explorer
-source-name-safari = I-Safari
 source-name-chrome = I-Google Chrome
-source-name-firefox = i-Mozilla Firefox
 
 imported-safari-reading-list = Uhlu lokufunda (kusukela ku-Safari)
 

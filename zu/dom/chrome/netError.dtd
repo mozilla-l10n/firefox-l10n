@@ -78,9 +78,6 @@
 <!ENTITY corruptedContentErrorv2.title "Iphutha lokumosheka kokuqukethwe">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Le khasi ozama ukulibuka alikwazi ukuboniswa ngoba lisebenzisa indlela yokuminyanisa engavumelekile noma engasekelwanga.</p><ul><li>Sicela uxhumane nabanikazi bewebhusayithi ukubazisa ngalenkinga.</li></ul>">
 
-<!ENTITY remoteXUL.title "Isilawuli-kude se-XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Sicela uxhumane nabanikazi bewebhusayithi ukubazisa ngale nkinga.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

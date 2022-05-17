@@ -129,12 +129,6 @@ language-popup-label =
 
 download-dictionaries-link = Thathufake Izichazamazwi Ezengeziwe
 
-format-description = Hlela okuzokwenziwa isimo sombhalo
-
-send-options-label =
-    .label = Izindlela Zokuthumela Ongakhetha Kuzo...
-    .accesskey = I
-
 autocomplete-description = Uma ufaka amakheli emiyalezweni, funa afanayo e:
 
 ab-label =
@@ -171,4 +165,6 @@ email-picker-label =
 
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

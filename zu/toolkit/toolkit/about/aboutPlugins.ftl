@@ -31,3 +31,6 @@ state-dd-Disabled-block-list-state = <span data-l10n-name="state">Izwe:</span> K
 mime-type-label = Uhlobo lwe-MIME
 description-label = Incazelo
 suffixes-label = Izijobelelo
+
+## Gecko Media Plugins (GMPs)
+

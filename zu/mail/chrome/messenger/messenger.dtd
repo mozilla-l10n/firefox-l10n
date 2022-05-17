@@ -15,8 +15,6 @@
 <!ENTITY openMessageFileCmd.accesskey "V">
 <!ENTITY saveAsMenu.label "Gcina Ngokuthi">
 <!ENTITY saveAsMenu.accesskey "G">
-<!ENTITY saveAsFileCmd.label "Ifayela">
-<!ENTITY saveAsFileCmd.accesskey "I">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Ithemplethi">
 <!ENTITY saveAsTemplateCmd.accesskey "I">
