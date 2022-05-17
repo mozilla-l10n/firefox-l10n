@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "Э">
 <!ENTITY SecondEmail.label              "Қосымша эл. пошта:">
 <!ENTITY SecondEmail.accesskey          "о">
-<!ENTITY PreferMailFormat.label         "Қай пішімде поштаны алуды қалайды:">
-<!ENTITY PreferMailFormat.accesskey     "ш">
 <!ENTITY PlainText.label                "Ашық мәтін">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Белгісіз">

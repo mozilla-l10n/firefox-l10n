@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "е">
 <!ENTITY newVirtualFolderCmd.label "Сақталған іздеу…">
 <!ENTITY newVirtualFolderCmd.accesskey "С">
-<!ENTITY newOtherAccountsCmd.label "Басқа тіркелгілер…">
-<!ENTITY newOtherAccountsCmd.accesskey "а">
 <!ENTITY newCreateEmailAccountCmd.label "Жаңа пошта тіркелгісін алу…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "л">
 <!ENTITY newExistingEmailAccountCmd.label "Бар болып тұрған пошта тіркелгісі…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "а">
 <!ENTITY saveAsMenu.label "Қалайша сақтау">
 <!ENTITY saveAsMenu.accesskey "с">
-<!ENTITY saveAsFileCmd.label "Файл">
-<!ENTITY saveAsFileCmd.accesskey "Ф">
 <!ENTITY saveAsFileCmd.key "с">
 <!ENTITY saveAsTemplateCmd.label "Үлгі">
 <!ENTITY saveAsTemplateCmd.accesskey "л">

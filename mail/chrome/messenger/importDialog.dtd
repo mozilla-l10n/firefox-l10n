@@ -24,9 +24,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "Сүзгілер">
 <!ENTITY importFilters.accesskey  "С">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "&brandShortName; импорттау шебері">
 <!ENTITY importShortDesc.label    "Басқа бағдарламалардан пошта, адрестік кітапшалар, баптаулар және сүзгілерді импорттау">
 

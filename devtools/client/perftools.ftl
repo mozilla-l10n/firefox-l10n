@@ -42,16 +42,15 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Буфер өлшемі:
+
 perftools-custom-threads-label = Таңдауыңызша ағындарды атаулары бойынша қосу:
+
 perftools-devtools-interval-label = Аралық:
 perftools-devtools-threads-label = Ағындар:
 perftools-devtools-settings-label = Баптаулар
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
-perftools-status-private-browsing-notice =
-    Жекелік шолу режимі іске қосылған кезінде профильдеуші сөндіріледі.
-    Профильдеушіні қайта іске қосу үшін, барлық жекелік шолу терезелерін жабыңыз
 perftools-status-recording-stopped-by-another-tool = Жазбаны басқа құрал тоқтатты.
 perftools-status-restart-required = Бұл мүмкіндікті іске қосу үшін браузер қайта іске қосылуы керек.
 
@@ -101,6 +100,7 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Жоғарыдағы таңдауды елемей, барлық тіркелген ағындарды жазу
+
 perftools-tools-threads-input-label =
     .title = Бұл ағын атаулары - профильдеушіде ағындар профильдеуін іске қосу үшін қолданылатын үтірлермен ажыратылған тізім. Бұл атау қосылатын ағын атауымен жартылай сәйкестік де бола алады. Ол бос аралықтарға сезімтал.
 
@@ -108,9 +108,14 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## devtools.performance.new-panel-onboarding preference is true.
+
 perftools-onboarding-message = <b>Жаңа</b>: { -profiler-brand-name } енді әзірлеуші құралдарына ендірілген. Бұл мүмкіндігі көп жаңа құрал туралы <a>көбірек біліңіз</a>.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Белгілі бір шектелген уақыт ішінде, сіз түпнұсқа өнімділік панеліне <a>{ options-context-advanced-settings }</a> арқылы қатынай аласыз)
+
 perftools-onboarding-close-button =
     .aria-label = Қарсы алу хабарламасын жабу
 
@@ -123,21 +128,19 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Веб-әзірлеуші
 perftools-presets-web-developer-description = Веб-қолданбалардың көбін жөндеуге арналған, қосымша шығындары аз баптаулар жиынтығы.
-perftools-presets-firefox-platform-label = Firefox платформасы
-perftools-presets-firefox-platform-description = Firefox платформасын ішкі жөндеу үшін ұсынылған баптаулар.
-perftools-presets-firefox-front-end-label = Firefox клиент бөлігі
-perftools-presets-firefox-front-end-description = Firefox клиент бөілігін ішкі жөндеу үшін ұсынылған баптаулар.
-perftools-presets-firefox-graphics-label = Firefox графикасы
-perftools-presets-firefox-graphics-description = Firefox графикасы өнімділігін тексеру үшін ұсынылған баптаулар.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = { -brand-shorter-name } профильдеу үшін ұсынылатын баптаулар жиынтығы.
+
 perftools-presets-graphics-label = Графика
 perftools-presets-graphics-description = { -brand-shorter-name } ішінде графика ақаулықтарын зерттеуге арналған баптаулар жиынтығы.
+
 perftools-presets-media-label = Медиа
-perftools-presets-media-description = Аудио және видео мәселелерін диагностикалау үшін ұсынылған баптаулар.
 perftools-presets-media-description2 = { -brand-shorter-name } ішінде аудио және видео ақаулықтарын зерттеуге арналған баптаулар жиынтығы.
+
 perftools-presets-networking-label = Желі
 perftools-presets-networking-description = { -brand-shorter-name } ішінде желі ақаулықтарын зерттеуге арналған баптаулар жиынтығы.
+
 perftools-presets-custom-label = Таңдауыңызша
 
 ##

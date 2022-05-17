@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -64,10 +66,6 @@ toolbar-button-add-attachment =
     .label = Жалғау
     .tooltiptext = Салынымды қосу ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
 
-add-attachment-notification-reminder =
-    .label = Салынымды қосу…
-    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
-
 menuitem-attach-files =
     .label = Файл(дар)…
     .accesskey = Ф
@@ -77,21 +75,6 @@ context-menuitem-attach-files =
     .label = Файл(дар)ды жалғау…
     .accesskey = Ф
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
-
-#   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } салыным
-           *[other] { $count } салыным
-        }
-    .accesskey = м
-
-expand-attachment-pane-tooltip =
-    .tooltiptext = Салынымдар панелін көрсету ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Салынымдар панелін жасыру ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 
 drop-file-label-attachment =
     { $count ->
@@ -128,4 +111,16 @@ button-return-receipt =
 ## Editing
 
 # Tools
+
+## Filelink
+
+# Placeholder file
+
+# Template
+
+# Messages
+
+## Link Preview
+
+## Dictionary selection popup
 

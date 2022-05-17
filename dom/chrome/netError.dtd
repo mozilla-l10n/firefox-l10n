@@ -82,9 +82,6 @@
 <!ENTITY corruptedContentErrorv2.title "Зақымдалған құрама қатесі">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Сіз қараймын деген парақ көрсетілмейді, өйткені мәліметтер тасымалданған кезде қате анықталды.</p><ul><li>Веб сайт иелеріне осы мәселе жөнінде хабарлаңыз.</li></ul>">
 
-<!ENTITY remoteXUL.title "Қашықтағы XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Бұл мәселе жөнінде веб сайт иесімен хабарласыңыз.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Сіздің байланысыңыз қауіпсіз емес">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

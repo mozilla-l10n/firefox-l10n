@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "Ф">
 <!ENTITY attachPageCmd.label "Веб парағы…">
 <!ENTITY attachPageCmd.accesskey "В">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Жеке карта (vCard)">
-<!ENTITY attachVCardCmd.accesskey "Ж">
 <!ENTITY remindLater.label "Кейінірек еске салу">
 <!ENTITY remindLater.accesskey "е">
 <!ENTITY closeCmd.label "Жабу">
@@ -148,16 +145,6 @@
 <!ENTITY returnReceiptMenu.accesskey "т">
 <!ENTITY dsnMenu.label "Жеткізу күйінің хабарлауы">
 <!ENTITY dsnMenu.accesskey "х">
-<!ENTITY deliveryFormatMenu.label "Жеткізу пішімі">
-<!ENTITY deliveryFormatMenu.accesskey "п">
-<!ENTITY autoFormatCmd.label "Автоанықтау">
-<!ENTITY autoFormatCmd.accesskey "А">
-<!ENTITY plainTextFormatCmd.label "Ашық мәтін">
-<!ENTITY plainTextFormatCmd.accesskey "А">
-<!ENTITY htmlFormatCmd.label "Тек пішімделген мәтін (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "ш">
-<!ENTITY bothFormatCmd.label "Ашық және пішімделген (HTML) мәтін">
-<!ENTITY bothFormatCmd.accesskey "ш">
 <!ENTITY priorityMenu.label "Приоритеті">
 <!ENTITY priorityMenu.accesskey "П">
 <!ENTITY priorityButton.title "Приоритеті">
@@ -221,7 +208,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Адрестеу өрістерінің басқа түрлері">
 <!ENTITY fromAddr2.label "Кімнен">
 <!ENTITY fromAddr.accesskey "м">
 <!ENTITY replyAddr2.label "Кімге жауап беру">

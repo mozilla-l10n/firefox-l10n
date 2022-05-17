@@ -63,12 +63,6 @@ afterauth-private = Сіз { $name } контактінің жеке басын 
 #   $name (String) - the screen name of a chat contact person
 afterauth-unverified = { $name } контактінің жеке басы расталмаған.
 
-verify-title = Контактініздің жеке басын растау
-error-title = Қате
-success-title = Өтпелі шифрлеу
-fail-title = Растау мүмкін емес
-waiting-title = Растау сұранымы жіберілді
-
 # Do not translate 'OTR' (name of an encryption protocol)
 # Variables:
 #   $error (String) - contains an error message that describes the cause of the failure

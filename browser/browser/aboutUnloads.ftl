@@ -15,15 +15,18 @@ about-unloads-intro =
     беттерге қалай приоритет орнататынын және келесі рет жадыдан түсіру
     орындалған кезде қай бет таңдалатынын көрсетеді. Сіз бетті жадыдан
     қолдан түсіру үшін, төмендегі <em>Жадыдан түсіру</em> баса аласыз.
+
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
     Бұл мүмкіндік және парақ туралы көбірек білу үшін,
     <a data-l10n-name="doc-link">Беттерді жадыдан түсіру</a> парағын шолыңыз.
+
 about-unloads-last-updated = Соңғы жаңартылған: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Жадыдан түсіру
     .title = Ең жоғарғы приоритетті бетті жадыдан түсіру
 about-unloads-no-unloadable-tab = Жадыдан түсіруге болатын беттер жоқ.
+
 about-unloads-column-priority = Приоритет
 about-unloads-column-host = Хост
 about-unloads-column-last-accessed = Соңғы қатынаған
@@ -35,6 +38,7 @@ about-unloads-column-memory = Жады
     .title = Беттің шамаланған жады қолдануы
 about-unloads-column-processes = Үрдістер идентификаторлары
     .title = Беттің мазмұнын сақтайтын үрдістер идентификаторлары
+
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } МБ
 about-unloads-memory-in-mb-tooltip =

@@ -8,62 +8,15 @@
 
 ## New changes screen
 
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-new-title = Жаңа { -brand-short-name } өніміне сәлем айтыңыз
-upgrade-dialog-new-subtitle = Сізді барғыңыз келетін жерге тезірек жеткізу үшін жасалған
-upgrade-dialog-new-item-menu-title = Оңтайландырылған құралдар панелі және мәзірлер
-upgrade-dialog-new-item-menu-description = Қажетті нәрсені табу үшін маңызды нәрселерге басымдық беріңіз.
-upgrade-dialog-new-item-tabs-title = Заманауи беттер
-upgrade-dialog-new-item-tabs-description = Фокусты және оңай навигацияны қолдайтын ақпараттың икемді көрінісі
-upgrade-dialog-new-item-icons-title = Жаңартылған таңбалашалар және айқын хабарламалар
-upgrade-dialog-new-item-icons-description = Жеңіл түрту арқылы өз жолыңызды табуға көмектеседі.
-upgrade-dialog-new-primary-default-button = { -brand-short-name } өнімін менің негізгі браузерім қылу
-upgrade-dialog-new-primary-theme-button = Теманы таңдау
-upgrade-dialog-new-secondary-button = Қазір емес
-# This string is only shown on Windows 7, where we intentionally suppress the
-# theme selection screen.
-upgrade-dialog-new-primary-win7-button = Жақсы, түсіндім!
-
 ## Pin Firefox screen
 ##
 ## These title, subtitle and button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-pin-title =
-    { PLATFORM() ->
-        [macos] { -brand-short-name } өнімін Dock ішінде қалдырыңыз
-       *[other] { -brand-short-name } өнімін тапсырмалар панеліне бекітіңіз
-    }
-# The English macOS string avoids repeating "Keep" a third time, so if your
-# translations don't repeat anyway, the same string can be used cross-platform.
-upgrade-dialog-pin-subtitle =
-    { PLATFORM() ->
-        [macos] Ең жаңа { -brand-short-name } өніміне жылдам әрі оңай қол жеткізу.
-       *[other] Ең жаңа { -brand-short-name } өнімін қолжетімді ұстаңыз.
-    }
-upgrade-dialog-pin-primary-button =
-    { PLATFORM() ->
-        [macos] Dock-та қалдыру
-       *[other] Тапсырмалар панеліне бекіту
-    }
-upgrade-dialog-pin-secondary-button = Қазір емес
-
 ## Default browser screen
 
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-default-title-2 = { -brand-short-name } өнімін негізгі браузер қылу
-upgrade-dialog-default-subtitle-2 = Жылдамдық, қауіпсіздік және жекелікті автопилотқа орнатыңыз.
-upgrade-dialog-default-primary-button-2 = Негізгі браузер қылу
-upgrade-dialog-default-secondary-button = Қазір емес
-
 ## Theme selection screen
-
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-theme-title-2 = Балғын темамен жаңадан бастаңыз
-upgrade-dialog-theme-system = Жүйелік тема
-    .title = Батырмалар, мәзірлер және терезелер үшін операциялық жүйе темасына сүйену
 
 ## Start screen
 
@@ -94,12 +47,6 @@ upgrade-dialog-theme-light = Ашық түсті
     .title = Батырмалар, мәзірлер және терезелер үшін ашық теманы қолдану
 upgrade-dialog-theme-dark = Күңгірт
     .title = Батырмалар, мәзірлер және терезелер үшін күңгірт теманы қолдану
-upgrade-dialog-theme-alpenglow = Alpenglow
-    .title = Батырмалар, мәзірлер және терезелер үшін динамикалық, түрлі-түсті теманы қолдану
-upgrade-dialog-theme-keep = Алдыңғыны сақтау
-    .title = { -brand-short-name } жаңарту алдында сіз қолданған теманы қолдана беру
-upgrade-dialog-theme-primary-button = Теманы сақтау
-upgrade-dialog-theme-secondary-button = Қазір емес
 upgrade-dialog-colorway-variation-soft = Жұмсақ
     .title = Бұл түстер схемасын қолдану
 upgrade-dialog-colorway-variation-balanced = Теңгерілген

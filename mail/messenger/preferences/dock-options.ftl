@@ -23,4 +23,3 @@ count-new-messages-radio =
     .label = Жаңа хабарламалар саны
     .accesskey = н
 
-notification-settings-info = Таңбаша жапсыруын Жүйелік баптаулардың Ескерту бөлігінде сөндіре аласыз.

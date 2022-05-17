@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Көбірек білу">
 
 <!ENTITY e2eEnc.description "Өтпелі шифрлеусіз хабарламалардың мазмұны эл. пошта провайдеріне және жаппай бақылау қызметтеріне оңай түрде қолжетімді.">
-<!ENTITY e2eeReqWarning.description "Егер сіз шифрлеуді талап етсеңіз, хабарламаны жіберу үшін, сізде әр алушының ашық кілті немесе сертификаты болуы тиіс.">
 
-<!ENTITY e2eSigning.description "Цифрлық қолтаңба алушыларға хабарламаны сіз жібергенін және мазмұн өзгермегенін тексеруге мүмкіндік береді.">
 <!ENTITY e2eTechPref.description "Қалайтын шифрлеу технологиясы:">
 
-<!ENTITY doNotEncrypt.label "Үнсіз келісім бойынша шифрлеуді іске қоспау">
-<!ENTITY doNotEncrypt.accesskey "п">
-<!ENTITY requireEncryptMessage.label "Үнсіз келісім бойынша шифрлеуді талап ету">
-<!ENTITY requireEncryptMessage.accesskey "у">
 <!ENTITY encryptionCert2.message "Шифрлеу үшін жеке сертификат:">
 <!ENTITY digitalSign.certificate.button "Таңдау…">
 <!ENTITY digitalSign.certificate.accesskey "с">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Тазарту">
 <!ENTITY encryption.certificate_clear.accesskey "е">
 <!ENTITY signingGroupTitle.label "Цифрлық қолтаңбаларды қою">
-<!ENTITY signMessage2.label "Үнсіз келісім бойынша менің цифрлық қолтаңбамды қосу">
-<!ENTITY signMessage.accesskey "ц">
 
 <!ENTITY signingCert2.message "Цифрлық қолтаңба қою үшін жеке сертификат:">
 

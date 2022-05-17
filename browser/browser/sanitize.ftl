@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Мәліметтер
 
-item-site-preferences =
-    .label = Сайттар баптаулары
-    .accesskey = С
-
 item-site-settings =
     .label = Сайт баптаулары
     .accesskey = С

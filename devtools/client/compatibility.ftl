@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (ескірген, т
 compatibility-settings-button-label = Баптаулар
 compatibility-settings-button-title =
     .title = Баптаулар
-compatibility-feedback-button-label = Кері байланыс
-compatibility-feedback-button-title =
-    .title = Кері байланыс
 
 ## Messages used as headers in settings pane
 
@@ -42,9 +39,11 @@ compatibility-issue-occurrences =
         [one] { $number } кездесу
        *[other] { $number } кездесу
     }
+
 compatibility-no-issues-found = Үйлесімділік мәселелері табылмады.
 compatibility-close-settings-button =
     .title = Баптауларды жабу
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:
