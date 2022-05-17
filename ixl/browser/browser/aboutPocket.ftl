@@ -17,3 +17,7 @@ pocket-panel-signup-login = Ixe't aq'on
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

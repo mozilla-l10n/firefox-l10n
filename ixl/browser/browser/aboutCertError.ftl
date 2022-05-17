@@ -108,7 +108,6 @@ redirectLoop-title = U u'uje' vaa' ye'xh kam jik koj ni teq'o b'en tu atinb'ale'
 unknownSocketType-title = Ye'l u vaa' ni'k itx'e'b'le' ti' u eq'on tetze'
 nssFailure2-title = Kan yan ixe't aq'onvoj
 corruptedContentError-title = Kat yan tilpu u aq'one' yannajle
-remoteXUL-title = Jetz'el el XUL
 sslv3Used-title = Ye' la uch ook stuul ti jikil
 inadequateSecurityError-title = Jit b'a'n aatin tzitza'
 blockedByPolicy-title = Majel ivatz u u'uje'

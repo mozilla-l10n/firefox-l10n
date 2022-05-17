@@ -16,15 +16,9 @@ newtab-search-box-search-button =
     .title = Chuka
     .aria-label = Chuka
 
-newtab-search-box-search-the-web-input =
-    .placeholder = La chuk tu web
-    .title = La chuk tu web
-    .aria-label = La chuk tu web
-
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Aq'ku' uma'l chukb'al tetz
-newtab-topsites-add-topsites-header = Ak atimb'al  vee ni chukpe'
 newtab-topsites-edit-topsites-header = B'an tuch u atimb'ale'  ve nim atje'.
 newtab-topsites-title-label = Ib'ii
 newtab-topsites-title-input =
@@ -153,7 +147,6 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = Uve' pal chit tilpe'
-newtab-section-header-highlights = Ni lib'lolan
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = A' u { $provider } ni alon uva' la b'anb'eli
@@ -185,6 +178,9 @@ newtab-pocket-more-recommendations = Ka'taj txumb'al
 newtab-pocket-learn-more = Ootzi ka'te
 newtab-pocket-cta-button = La k'ul u { -pocket-brand-name }
 newtab-pocket-cta-text = Kol unq'a vee' chukeltu ve't tu { -pocket-brand-name } as aq' chit te va txumb'ale' ti' asik'let unq'a vee' achveb'al chitu'.
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

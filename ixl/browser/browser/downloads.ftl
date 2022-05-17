@@ -13,12 +13,6 @@ downloads-panel =
 
 ##
 
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of 
-# in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-
 downloads-cmd-pause =
     .label = Tanb'a'
     .accesskey = T
@@ -30,6 +24,13 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Ya'sakan
   
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
+##
+
 downloads-cmd-retry =
     .tooltiptext = B'an unpajte
 downloads-cmd-retry-panel =
@@ -49,4 +50,11 @@ downloads-cmd-retry-panel =
 # indicates that it's possible to download this file again.
 downloads-retry-download =
     .value = B'an unpajte ti' teq'ol ku'tzan
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
 

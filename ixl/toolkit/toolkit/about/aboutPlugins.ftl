@@ -17,3 +17,5 @@ file-dd = <span data-l10n-name="file">Kolb'al aaq'on:</span> { $pluginLibraries 
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+## Gecko Media Plugins (GMPs)
+

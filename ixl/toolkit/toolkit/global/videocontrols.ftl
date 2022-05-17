@@ -4,6 +4,7 @@
 
 videocontrols-pause-button =
     .aria-label = Tanb'a'
+
 # This message shows the current position and total video duration
 #
 # Variables:

@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Axh kuxh la xaan axh stuul)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Axh kuxh la xaan axh stuul)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Axh kuxh la xaan axh stuul)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Axh kuxh la xaan axh stuul)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -147,6 +149,7 @@ search-one-offs-with-title = cheel,  chuk  tuk'
 bookmark-panel-cancel =
     .label = Ya'sakan
     .accesskey = C
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -229,10 +232,6 @@ library-bookmarks-menu =
 
 ## More items
 
-more-menu-go-offline =
-    .label = Aq'on kuxhtu' tul ye'l Internet ati
-    .accesskey = n
-
 ## EME notification panel
 
 
@@ -257,9 +256,20 @@ ui-tour-info-panel-close =
 ##
 
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+##
+
 # Navigator Toolbox
 
 navbar-downloads =
     .label = Eq'omal ku'tzan
+
 navbar-search =
     .title = Chuka
+
+## Infobar shown at startup to suggest session-restore
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+

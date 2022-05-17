@@ -7,9 +7,11 @@
 
 # Key shortcut used to focus the filter box on top of the data view
 storage-filter-key = CmdOrCtrl+F
+
 # Context menu action to copy a storage item
 storage-context-menu-copy =
     .label = Eesa ivatz
+
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted

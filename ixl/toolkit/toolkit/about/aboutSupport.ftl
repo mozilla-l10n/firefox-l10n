@@ -9,6 +9,7 @@ features-name = B'ii
 features-version = Tilax ivatz
 app-basics-name = B'ii
 app-basics-version = Tilax ivatz
+
 modified-prefs-name = B'ii
 user-js-title = users.js Uve' ni chit asa'
 locked-prefs-name = B'ii

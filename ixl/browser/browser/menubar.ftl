@@ -16,10 +16,6 @@ menu-application-show-all =
 
 ##
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
 ## File Menu
 
 menu-file =
@@ -45,9 +41,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Jaj u Kolb'al aaq'one'
     .accesskey = J
-menu-file-close =
-    .label = Jupa
-    .accesskey = J
 menu-file-close-window =
     .label = Jup u Ilb'ale'
     .accesskey = b
@@ -60,9 +53,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Ib'anax tuch u U'uje'…
     .accesskey = n
-menu-file-print-preview =
-    .label = Tilax B'axa
-    .accesskey = x
 menu-file-print =
     .label = Tel ch'u'l vatz u'uj…
     .accesskey = T
@@ -233,9 +223,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Lochb'al
     .accesskey = L
-menu-help-feedback-page =
-    .label = Aq'b'en ayol
-    .accesskey = A
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
