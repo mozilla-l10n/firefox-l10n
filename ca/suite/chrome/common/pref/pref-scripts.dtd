@@ -6,8 +6,6 @@
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
 
 
-<!ENTITY pref.scripts.title              "Scripts i connectors">
-
 <!ENTITY navigator.label                 "Navegador">
 <!ENTITY navigator.accesskey             "r">
 <!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
@@ -21,12 +19,3 @@
 <!ENTITY allowContextmenuDisable.label   "Inhabilitar o reemplaçar menús contextuals">
 <!ENTITY allowHideStatusBar.label        "Amagar la barra d'estat">
 
-<!ENTITY enablePlugins.label             "Habilita els connectors per a">
-<!ENTITY enablePluginForSuite.label      "Suite">
-<!ENTITY enablePluginForSuite.accesskey  "u">
-
-<!ENTITY whenPageRequiresPlugins.label   "Quan una pàgina necessiti connectors">
-<!ENTITY activateAllPlugins.label        "Activa tots els connectors per defecte">
-<!ENTITY activateAllPlugins.accesskey    "d">
-<!ENTITY warnPluginsRequired.label       "Avisa'm si cal instal·lar connectors addicionals">
-<!ENTITY warnPluginsRequired.accesskey   "v">

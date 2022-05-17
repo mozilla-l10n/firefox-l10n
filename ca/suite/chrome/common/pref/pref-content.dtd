@@ -8,10 +8,6 @@
 <!ENTITY pref.content.title                     "Contingut">
 <!ENTITY pref.content.description               "Aquests paràmetres influencien com els llocs web i els missatges de correu apareixen en el &brandShortName;.">
 
-<!ENTITY siteIcons.label                        "Icones dels llocs web">
-<!ENTITY useSiteIcons.label                     "Mostra les icones dels llocs web">
-<!ENTITY useSiteIcons.accesskey                 "s">
-
 <!ENTITY useSmoothScroll.label                  "Utilitza el desplaçament suau">
 <!ENTITY useSmoothScroll.accesskey              "U">
 
@@ -24,6 +20,4 @@
 
 <!ENTITY allowHWAccel.label                     "Utilitza l'acceleració de maquinari quan sigui disponible">
 <!ENTITY allowHWAccel.accesskey                 "e">
-<!ENTITY blockAutoRefresh.label                 "Avisa'm quan els llocs web provin de redirigir o actualitzar la pàgina">
-<!ENTITY blockAutoRefresh.accesskey             "v">
 

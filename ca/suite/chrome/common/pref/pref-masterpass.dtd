@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  pref.masterpass.title                  "Contrasenyes mestres">
-
 <!ENTITY  changepassword.caption                 "Canvi de la contrasenya mestra">
 <!ENTITY  changepassword.text                    "La vostra contrasenya mestra protegeix informació sensible com ara contrasenyes web i certificats.">
 <!ENTITY  changepassword.button                  "Canvia la contrasenya…">
@@ -11,5 +9,3 @@
 
 <!ENTITY  resetpassword.caption                  "Reinici de la contrasenya mestra">
 <!ENTITY  resetpassword.text                     "Si reinicieu la vostra contrasenya mestra, es perdran totes les vostres contrasenyes de llocs web i de correu electrònic, dades de formulari i certificats personals.">
-<!ENTITY  resetpassword.button                   "Reinicia la contrasenya">
-<!ENTITY  resetpassword.accesskey                "R">

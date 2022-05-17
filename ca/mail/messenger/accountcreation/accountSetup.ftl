@@ -47,9 +47,6 @@ account-setup-password-label = Contrasenya
 account-provisioner-button = Obtén una adreça electrònica nova
     .accesskey = O
 
-account-setup-password-toggle =
-    .title = Mostra/amaga la contrasenya
-
 account-setup-remember-password = Recorda la contrasenya
     .accesskey = R
 
@@ -159,18 +156,9 @@ account-setup-results-area-title =
        *[other] Configuracions disponibles
     }
 
-# Note: IMAP is the name of a protocol.
-account-setup-result-imap = IMAP
-
 account-setup-result-imap-description = Mantingueu les carpetes i els correus electrònics sincronitzats al servidor
 
-# Note: POP3 is the name of a protocol.
-account-setup-result-pop = POP3
-
 account-setup-result-pop-description = Conserveu les carpetes i els correus electrònics en l'ordinador
-
-# Note: Exchange is the name of a product.
-account-setup-result-exchange = Exchange
 
 account-setup-incoming-title = Entrada
 
@@ -179,8 +167,6 @@ account-setup-outgoing-title = Sortida
 account-setup-username-title = Nom d'usuari
 
 account-setup-exchange-title = Servidor
-
-account-setup-result-smtp = SMTP
 
 account-setup-result-no-encryption = Sense xifratge
 
@@ -213,12 +199,6 @@ account-setup-manual-config-title = Configuració manual
 account-setup-incoming-server-legend = Servidor d'entrada
 
 account-setup-protocol-label = Protocol:
-
-protocol-imap-option = { account-setup-result-imap }
-
-protocol-pop-option = { account-setup-result-pop }
-
-protocol-exchange-option = { account-setup-result-exchange }
 
 account-setup-hostname-label = Nom del servidor:
 

@@ -28,13 +28,11 @@
 <!ENTITY images.label "Imatges">
 <!ENTITY popups.label "Finestres emergents">
 <!ENTITY passwords.label "Contrasenyes">
-<!ENTITY masterpass.label "Contrasenyes mestres">
 <!ENTITY certs.label "Certificats">
 
 <!ENTITY sync.label "Sync">
 
 <!ENTITY advance.label "Avançat">
-<!ENTITY scriptsAndWindows.label "Scripts i connectors">
 <!ENTITY keynav.label "Navegació amb teclat">
 <!ENTITY findAsYouType.label "Cerca a mesura que s'escriu">
 <!ENTITY cache.label "Memòria cau">

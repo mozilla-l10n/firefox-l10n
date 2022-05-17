@@ -23,9 +23,6 @@
 <!ENTITY inReplyToField.label "En resposta a: ">
 <!ENTITY originalWebsite.label "Lloc web: ">
 
-<!ENTITY editMessage.label                 "Edita l'esborrany…">
-<!ENTITY editMessage.accesskey             "E">
-
 <!ENTITY attachmentsTree.label             "Adjuncions:">
 <!ENTITY attachmentsTree.accesskey         "A">
 <!ENTITY openAttachmentCmd.label           "Obre">

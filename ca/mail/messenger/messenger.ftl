@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Window controls
+
 ## Content tabs
 
 content-tab-page-loading-icon =
@@ -75,11 +77,6 @@ redirect-msg-menuitem =
 
 ## AppMenu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-appmenu-preferences =
-    .label = Preferències
-
 appmenu-addons-and-themes =
     .label = Complements i temes
 
@@ -105,6 +102,8 @@ context-menu-redirect-msg =
 other-action-redirect-msg =
     .label = Redirigeix
 
+## Message header cutomize panel
+
 ## Action Button Context Menu
 
 toolbar-context-menu-manage-extension =
@@ -129,4 +128,12 @@ caret-browsing-prompt-text = En prémer F7 s'activa o es desactiva la navegació
 caret-browsing-prompt-check-text = No ho tornis a demanar.
 
 ## no-reply handling
+
+## error messages
+
+## Spaces toolbar
+
+## Spaces toolbar pinned tab menupopup
+
+## Spaces toolbar customize panel
 

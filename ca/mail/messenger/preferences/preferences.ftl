@@ -5,8 +5,6 @@
 close-button =
     .aria-label = Tanca
 
-preferences-doc-title = Preferències
-
 category-list =
     .aria-label = Categories
 
@@ -165,9 +163,6 @@ restore-default-label =
     .accesskey = R
 
 default-search-engine = Motor de cerca per defecte
-add-search-engine =
-    .label = Afegeix des d'un fitxer
-    .accesskey = A
 remove-search-engine =
     .label = Elimina
     .accesskey = E
@@ -196,8 +191,6 @@ change-dock-icon = Canvia les preferències de la icona de l'aplicació
 app-icon-options =
     .label = Opcions de la icona de l'aplicació…
     .accesskey = n
-
-notification-settings = Podeu desactivar les alertes i el so per defecte en la subfinestra «Notificació» de les «Preferències del sistema».
 
 animated-alert-label =
     .label = Mostra una alerta
@@ -407,14 +400,6 @@ quoted-text-color =
 search-handler-table =
     .placeholder = Filtra tipus de contingut i accions
 
-type-column-label =
-    .label = Tipus de contingut
-    .accesskey = T
-
-action-column-label =
-    .label = Acció
-    .accesskey = A
-
 save-to-label =
     .label = Desa els fitxers a
     .accesskey = s
@@ -567,12 +552,6 @@ restore-html-label =
 default-format-label =
     .label = Utilitza per defecte el format de «Paràgraf» en lloc de «Text del cos»
     .accesskey = f
-
-format-description = Configura el comportament del format de text
-
-send-options-label =
-    .label = Opcions d'enviament…
-    .accesskey = v
 
 autocomplete-description = Quan s'estigui escrivint adreces en els missatges, cerca adreces que coincideixin a:
 
@@ -856,8 +835,6 @@ theme-label =
     .value = Tema:
     .accesskey = T
 
-style-thunderbird =
-    .label = Thunderbird
 style-bubbles =
     .label = Bombolles
 style-dark =
@@ -875,27 +852,10 @@ chat-variant-label =
     .value = Variant:
     .accesskey = V
 
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-preferences-input =
-    .style = width: 15.4em
-    .placeholder = Cerca en les Preferències
-
 ## Preferences UI Search Results
 
-search-results-header = Resultats de la cerca
+## Settings UI Search Results
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] No s'ha trobat «<span data-l10n-name="query"></span>» a les opcions.
-       *[other] No s'ha trobat «<span data-l10n-name="query"></span>» a les preferències.
-    }
+search-results-header = Resultats de la cerca
 
 search-results-help-link = Necessiteu ajuda? Visiteu l'<a data-l10n-name="url">assistència del { -brand-short-name }</a>

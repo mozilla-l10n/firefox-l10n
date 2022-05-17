@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = Gestor de processos
+
 # The Actions column
 about-processes-column-action =
     .title = Accions
@@ -53,9 +54,6 @@ about-processes-tab-name = Pestanya: { $name }
 
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (s'està mesurant)
-# Special case: process or thread is currently idle.
-about-processes-cpu-idle = inactiu
-    .title = Temps total de la CPU: { NUMBER($total, maximumFractionDigits: 2) } { $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:

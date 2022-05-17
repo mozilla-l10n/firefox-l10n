@@ -23,4 +23,3 @@ count-new-messages-radio =
     .label = Nombre de missatges nous
     .accesskey = N
 
-notification-settings-info = Podeu inhabilitar la icona de l'aplicació a la subfinestra Notificació de les Preferències del sistema.

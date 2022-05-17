@@ -4,3 +4,4 @@
 
 account-settings-title = Paràmetres d'autenticació
 account-channel-title = Canals per defecte
+

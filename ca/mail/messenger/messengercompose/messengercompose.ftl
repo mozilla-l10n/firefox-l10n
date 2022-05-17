@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -72,10 +74,6 @@ toolbar-button-add-attachment =
     .label = Adjunta
     .tooltiptext = Afegeix una adjunció ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
 
-add-attachment-notification-reminder =
-    .label = Afegeix una adjunció…
-    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
-
 menuitem-attach-files =
     .label = Fitxers…
     .accesskey = F
@@ -85,22 +83,6 @@ context-menuitem-attach-files =
     .label = Adjunta fitxers…
     .accesskey = f
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
-
-#   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } adjunció
-            [one] { $count } adjunció
-           *[other] { $count } adjuncions
-        }
-    .accesskey = n
-
-expand-attachment-pane-tooltip =
-    .tooltiptext = Mostra la subfinestra d'adjuncions ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Amaga la finestra d'adjuncions ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 
 drop-file-label-attachment =
     { $count ->
@@ -133,48 +115,6 @@ button-return-receipt =
 
 # Addressing Area
 
-to-compose-address-row-label =
-    .value = A
-
-#   $key (String) - the shortcut key for this field
-to-compose-show-address-row-menuitem =
-    .label = Camp { to-compose-address-row-label.value }
-    .accesskey = A
-    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
-
-to-compose-show-address-row-label =
-    .value = { to-compose-address-row-label.value }
-    .tooltiptext = Mostra el camp { to-compose-address-row-label.value } ({ to-compose-show-address-row-menuitem.acceltext })
-
-cc-compose-address-row-label =
-    .value = Cc
-
-#   $key (String) - the shortcut key for this field
-cc-compose-show-address-row-menuitem =
-    .label = Camp { cc-compose-address-row-label.value }
-    .accesskey = C
-    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
-
-cc-compose-show-address-row-label =
-    .value = { cc-compose-address-row-label.value }
-    .tooltiptext = Mostra el camp { cc-compose-address-row-label.value } ({ cc-compose-show-address-row-menuitem.acceltext })
-
-bcc-compose-address-row-label =
-    .value = Cco
-
-#   $key (String) - the shortcut key for this field
-bcc-compose-show-address-row-menuitem =
-    .label = Camp { bcc-compose-address-row-label.value }
-    .accesskey = o
-    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
-
-bcc-compose-show-address-row-label =
-    .value = { bcc-compose-address-row-label.value }
-    .tooltiptext = Mostra el camp { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
-
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-many-public-recipients-info = Els { $count } destinataris dels camps «A» i «Cc» veuran la identitat els uns dels altres. Si no voleu que els destinataris es vegin mútuament, utilitzeu «Cco».
-
 
 many-public-recipients-bcc =
     .label = Utilitza CCo
@@ -193,4 +133,16 @@ compose-missing-identity-warning = S'ha trobat més d'una identitat que coincide
 ## Editing
 
 # Tools
+
+## Filelink
+
+# Placeholder file
+
+# Template
+
+# Messages
+
+## Link Preview
+
+## Dictionary selection popup
 

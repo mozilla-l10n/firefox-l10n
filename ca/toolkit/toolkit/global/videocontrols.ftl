@@ -12,6 +12,7 @@ videocontrols-volume-control =
     .aria-label = Volum
 videocontrols-closed-caption-button =
     .aria-label = Subtítols
+
 videocontrols-play-button =
     .aria-label = Reprodueix
 videocontrols-pause-button =
@@ -28,16 +29,20 @@ videocontrols-casting-button-label =
     .aria-label = Transmet a la pantalla
 videocontrols-closed-caption-off =
     .offlabel = Desactivat
+
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Imatge sobre imatge
+
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = Mostra en mode d'Imatge sobre Imatge
+
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Reproduïu vídeos en primer pla mentre feu altres coses en el { -brand-short-name }
+
 videocontrols-error-aborted = S'ha aturat la càrrega del vídeo.
 videocontrols-error-network = S'ha interromput la reproducció del vídeo a causa d'un problema de la xarxa.
 videocontrols-error-decode = No es pot reproduir el vídeo perquè el fitxer està malmès.
@@ -45,6 +50,7 @@ videocontrols-error-src-not-supported = El format del vídeo o el tipus MIME no 
 videocontrols-error-no-source = No s'ha trobat cap vídeo amb un format o un tipus MIME compatibles.
 videocontrols-error-generic = S'ha interromput la reproducció del vídeo a causa d'un problema desconegut.
 videocontrols-status-picture-in-picture = Aquest vídeo s'està reproduint en mode d'Imatge sobre imatge.
+
 # This message shows the current position and total video duration
 #
 # Variables:

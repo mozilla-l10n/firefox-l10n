@@ -7,8 +7,6 @@
 
 
 
-<!ENTITY requireEncryptMessage.label "Requereix xifratge per defecte">
-<!ENTITY requireEncryptMessage.accesskey "u">
 <!ENTITY digitalSign.certificate.button "Seleccioneu…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Neteja">
@@ -18,7 +16,6 @@
 <!ENTITY encryption.certificate_clear.button "Neteja">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Signatura digital">
-<!ENTITY signMessage.accesskey "d">
 
 
 

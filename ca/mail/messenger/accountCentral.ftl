@@ -46,7 +46,6 @@ newsgroups-label = Grups de discussió
 newsgroups-description = El { -brand-short-name } us permet connectar a tots els grups de discussió que vulgueu.
 
 import-title = Importeu d'un altre programa
-import-paragraph = El { -brand-short-name } us permet importar missatges de correu, entrades de llibreta d'adreces, preferències i/o filtres d'altres programes de correu i formats habituals de llibretes d'adreces.
 
 import-label = Importa
     .aria-label = Importeu dades d'altres programes
