@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] Teelte ena mbaawi wayleede e Cuɓe { -brand-short-name }.
            *[other] Teelte ena mbaawi wayleede to Cuɓoraaɗe { -brand-short-name }.
         }
+
 unknowncontenttype-intro = A suɓiima udditde:
 unknowncontenttype-which-is = ko nde:
 unknowncontenttype-from = wonnde to:

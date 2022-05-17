@@ -35,14 +35,18 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Alaa tabbe udditiiɗe
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Hurmin cynkugol tabbe ngam yiyde tabbe iwɗe e kaɓirɗi maa goɗɗi.
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Aɗa yiyde tabbe maa iwɗe e kaɓirɗi goɗɗi?
+
 appmenu-remote-tabs-connectdevice =
     .label = Seŋ Masiŋ Goɗɗo
 appmenu-remote-tabs-unverified = Konte maa ina cokli ƴeewteede.
+
 appmenuitem-save-page =
     .label = Danndu Hello e Innde…
 
@@ -54,6 +58,13 @@ whatsnew-panel-header = Ko Hesɗi
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+
+## Profiler presets
+## They are shown in the popup's select box.
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
 
 ## History panel
 
@@ -74,9 +85,6 @@ appmenu-about =
     .accesskey = B
 appmenu-help-report-site-issue =
     .label = Jaŋto Caɗeele Lowre…
-appmenu-help-feedback-page =
-    .label = Neldu Duttinal…
-    .accesskey = N
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -94,5 +102,3 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
-appmenu-taskmanager =
-    .label = Yiilorde golle

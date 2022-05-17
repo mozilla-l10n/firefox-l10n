@@ -64,7 +64,6 @@ about-logins-list-item-vulnerable-password-icon =
 
 about-logins-login-intro-heading-logged-in = Alaa ceŋorɗe jahdinaaɗe njiytaa.
 login-intro-description = So a danndii ceŋorɗe maa e { -brand-product-name } e kaɓirgal goɗngal, ko nii keɓirtaaɗe ɗoo:
-about-logins-intro-import = So ceŋorɗe maa ndanndaama e wanngorde woɗnde, aɗa waawi  <a data-l10n-name="import-link">jiggaade-ɗe nder { -lockwise-brand-short-name }</a>
 
 ## Login
 

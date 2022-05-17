@@ -21,10 +21,6 @@ process-type-extension = Timmitere
 # process used to open file:// URLs
 process-type-file = Fiilde Nokkuure
 
-# process used to isolate webpages that requested special
-# permission to allocate large amounts of memory
-process-type-weblargeallocation = Taƴnal Mawngal
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Loowdi Geese Njoñaandi

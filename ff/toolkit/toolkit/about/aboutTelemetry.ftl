@@ -31,7 +31,6 @@ about-telemetry-events-section = Kewuuji
 about-telemetry-simple-measurements-section = Ɓete Beeɓtinaaɗe
 about-telemetry-slow-sql-section = Gowlaali SQL Leelɗi
 about-telemetry-addon-details-section = Ɓeydude e cariika
-about-telemetry-captured-stacks-section = Joowe gawtaaɗe
 about-telemetry-late-writes-section = Binndi Sakket
 about-telemetry-raw-payload-section = Dimngal nafowal kuuɓal
 about-telemetry-raw = JSON Kecco
@@ -105,10 +104,6 @@ about-telemetry-addon-provider = Dokkiroowo { $addonProvider }
 about-telemetry-keys-header = Keertinal
 about-telemetry-names-header = Innde
 about-telemetry-values-header = Njaru
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (limoore nokite: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Winndaa Sakket #{ $lateWriteCount }

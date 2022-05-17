@@ -13,12 +13,6 @@ downloads-panel =
 
 ##
 
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of 
-# in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-
 downloads-cmd-pause =
     .label = Sabbo
     .accesskey = S
@@ -29,36 +23,13 @@ downloads-cmd-cancel =
     .tooltiptext = &Haaytu
 downloads-cmd-cancel-panel =
     .aria-label = &Haaytu
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = Uddit Runngere Mooftirde
-    .accesskey = M
   
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = Hollir E Yiytirde
-    .accesskey = Y
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] Hollir E Yiytirde
-           *[other] Uddit Runngere Mooftirde
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] Hollir E Yiytirde
-           *[other] Uddit Runngere Mooftirde
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] Hollir E Yiytirde
-           *[other] Uddit Runngere Mooftirde
-        }
+##
 
 downloads-cmd-show-downloads =
     .label = Hollu runngere gaawte
@@ -154,6 +125,13 @@ downloads-history =
 downloads-details =
     .title = Silloor gaawtagol
 
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
+
 downloads-clear-downloads-button =
     .label = Momtu Gaawte
     .tooltiptext = Momtugol timmii, gaawte kaaytaaɗe e goorɗe
@@ -166,3 +144,4 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Gaawte ngalaa wonannde ngal naatal.
+

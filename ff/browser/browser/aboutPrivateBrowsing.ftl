@@ -6,8 +6,9 @@ privatebrowsingpage-open-private-window-label = Uddit Henorde Suuriinde
     .accesskey = S
 about-private-browsing-search-placeholder = Yiylo geese ɗee
 about-private-browsing-info-title = Ngonɗaa ko e Henorde Suuriinde
-about-private-browsing-info-myths = Tinndi goowaaɗi baɗte banngogol suturo
 about-private-browsing-not-private = A wonaani e henorde suuriinde e oo sahaa.
+
+## The following strings will be used for experiments in Fx99 and Fx100
 
 # This string is the title for the banner for search engine selection
 # in a private window.
@@ -21,3 +22,4 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Uddu
+

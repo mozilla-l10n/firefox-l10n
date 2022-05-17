@@ -41,3 +41,7 @@ pocket-panel-signup-tagline-story-two = Yiy e { -pocket-brand-name } e kaɓirgol
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

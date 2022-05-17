@@ -96,8 +96,6 @@
 <!ENTITY errorReporting.automatic2 "Jaŋto juume hono ɗee ngam wallude Mozilla heftinde e falaade lowe bonnooje">
 <!ENTITY errorReporting.learnMore "Ɓeydu humpito…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Tiiɗno jokkondir e jeyɓe lowre ndee ngam humpitde-ɓe caɗe ɗee.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Humpito ceeɓtoto: SSL_ERROR_UNSUPPORTED_VERSION">
