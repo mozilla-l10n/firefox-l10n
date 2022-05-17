@@ -4,21 +4,29 @@
 
 chat-joining-chat-icon2 =
     .alt = Pridruživanje razgovoru
+
 chat-left-chat-icon2 =
     .alt = Napustio razgovor
+
 chat-participant-owner-role-icon2 =
     .alt = Vlasnik
+
 chat-participant-administrator-role-icon2 =
     .alt = Administrator
+
 chat-participant-moderator-role-icon2 =
     .alt = Moderator
+
 chat-participant-voiced-role-icon2 =
     .alt = Sudionici mogu slati poruke
+
 chat-verify-identity =
     .label = Provjerite identitet
     .accesskey = i
+
 chat-identity-verified =
     .label = Identitet je već provjeren
+
 chat-buddy-identity-status = Povjerenje u šifriranje
 chat-buddy-identity-status-verified = Provjereno
 chat-buddy-identity-status-unverified = Neprovjereno

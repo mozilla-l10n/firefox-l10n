@@ -22,6 +22,7 @@ about-addressbook-toolbar-import =
 ## Books
 
 all-address-books = Svi adresari
+
 about-addressbook-books-context-properties =
     .label = Postavke
 about-addressbook-books-context-synchronize =
@@ -36,6 +37,7 @@ about-addressbook-books-context-remove =
     .label = Ukloni
 about-addressbook-books-context-startup-default =
     .label = Zadana početna mapa
+
 about-addressbook-confirm-delete-book-title = Obriši adresar
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -53,14 +55,17 @@ about-addressbook-search =
     .placeholder = Pretraži { $name }
 about-addressbook-search-all =
     .placeholder = Pretraži sve adresare
+
 about-addressbook-sort-button =
     .title = Promijenite redoslijed popisa
+
 about-addressbook-name-format-display =
     .label = Ime za prikaz
 about-addressbook-name-format-firstlast =
     .label = Ime Prezime
 about-addressbook-name-format-lastfirst =
     .label = Prezime, Ime
+
 about-addressbook-sort-name-ascending =
     .label = Poredaj po nazivu (A > Z)
 about-addressbook-sort-name-descending =
@@ -69,8 +74,10 @@ about-addressbook-sort-email-ascending =
     .label = Poredaj po adresi e-pošte (A > Z)
 about-addressbook-sort-email-descending =
     .label = Poredaj po adresi e-pošte (Z > A)
+
 about-addressbook-cards-context-write =
     .label = Piši
+
 about-addressbook-confirm-delete-mixed-title = Obriši kontakte i popise
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -133,13 +140,12 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = Uredi
 about-addressbook-cancel-edit-contact-button = Odustani
 about-addressbook-save-edit-contact-button = Spremi
+
 about-addressbook-details-email-addresses-header = Adrese e-pošte
 about-addressbook-details-phone-numbers-header = Brojevi telefona
 about-addressbook-details-home-address-header = Adresa (kuća)
 about-addressbook-details-work-address-header = Adresa (posao)
 about-addressbook-details-other-info-header = Druge informacije
-about-addressbook-prompt-to-save-title = Spremi promjene?
-about-addressbook-prompt-to-save = Želite li spremiti promjene?
 
 # Photo dialog
 
@@ -147,6 +153,7 @@ about-addressbook-photo-drop-target = Ispustite ili zalijepite sliku ovdje ili k
 about-addressbook-photo-drop-loading = Učitavanje fotografije…
 about-addressbook-photo-drop-error = Učitavanje fotografije nije uspjelo.
 about-addressbook-photo-filepicker-title = Odaberite slikovnu datoteku
+
 about-addressbook-photo-discard = Odbaci postojeću fotografiju
 about-addressbook-photo-cancel = Odustani
 about-addressbook-photo-save = Spremi

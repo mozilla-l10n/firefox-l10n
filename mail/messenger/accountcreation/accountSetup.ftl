@@ -21,6 +21,7 @@
 ## Results area
 
 account-setup-result-imap-description = Držite vaše mape i poruke e-pošte sinkronizirane na svom poslužitelju
+
 account-setup-result-pop-description = Držite vaše mape i poruke e-pošte na svom računalu
 
 ## Error messages

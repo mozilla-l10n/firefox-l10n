@@ -13,6 +13,7 @@ messenger-window-restore-down-button =
     .tooltiptext = Vrati dolje
 messenger-window-close-button =
     .tooltiptext = Zatvori
+
 # Variables:
 # $count (Number) - Number of unread messages.
 unread-messages-os-tooltip =
@@ -21,6 +22,7 @@ unread-messages-os-tooltip =
         [few] { $count } nepročitane poruke
        *[other] { $count } nepročitanih poruka
     }
+
 about-rights-notification-text = { -brand-short-name } je slobodan softver otvorenog koda, izgrađen od tisuće ljudi iz cijelog svijeta.
 
 ## Content tabs
@@ -37,9 +39,11 @@ content-tab-security-broken-icon =
 addons-and-themes-toolbarbutton =
     .label = Dodaci i teme
     .tooltiptext = Upravljajte svojim dodacima
+
 quick-filter-toolbarbutton =
     .label = Brzo filtriranje
     .tooltiptext = Filtriranje poruka
+
 redirect-msg-button =
     .label = Preusmjeri
     .tooltiptext = Preusmjeri odabrane poruke
@@ -49,8 +53,10 @@ redirect-msg-button =
 folder-pane-toolbar =
     .toolbarname = Alatna traka okna mapa
     .accesskey = m
+
 folder-pane-toolbar-options-button =
     .tooltiptext = Mogućnosti okna mapa
+
 folder-pane-header-label = Mape
 
 ## Folder Toolbar Header Popup
@@ -58,21 +64,27 @@ folder-pane-header-label = Mape
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Sakrij alatnu traku
     .accesskey = k
+
 show-all-folders-label =
     .label = Sve mape
     .accesskey = a
+
 show-unread-folders-label =
     .label = Nepročitane mape
     .accesskey = N
+
 show-favorite-folders-label =
     .label = Omiljene mape
     .accesskey = O
+
 show-smart-folders-label =
     .label = Ujedinjene mape
     .accesskey = U
+
 show-recent-folders-label =
     .label = Nedavne mape
     .accesskey = N
+
 folder-toolbar-toggle-folder-compact-view =
     .label = Zbijeni prikaz
     .accesskey = Z
@@ -82,28 +94,31 @@ folder-toolbar-toggle-folder-compact-view =
 redirect-msg-menuitem =
     .label = Preusmjeri
     .accesskey = u
+
 menu-file-save-as-file =
     .label = Datoteka…
     .accesskey = D
 
 ## AppMenu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-appmenu-preferences =
-    .label = Postavke
 appmenu-save-as-file =
     .label = Datoteka…
+
 appmenu-settings =
     .label = Postavke
+
 appmenu-addons-and-themes =
     .label = Dodaci i teme
+
 appmenu-help-enter-troubleshoot-mode =
     .label = Način rada za rješavanje problema…
+
 appmenu-help-exit-troubleshoot-mode =
     .label = Isključi način rada za rješavanje problema
+
 appmenu-help-more-troubleshooting-info =
     .label = Više informacija za rješavanje problema
+
 appmenu-redirect-msg =
     .label = Preusmjeri
 
@@ -111,6 +126,7 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Preusmjeri
+
 mail-context-delete-messages =
     .label =
         { $count ->
@@ -118,6 +134,7 @@ mail-context-delete-messages =
             [few] Obriši odabrane poruke
            *[other] Obriši odabrane poruke
         }
+
 context-menu-decrypt-to-folder =
     .label = Kopiraj kao dešifrirano u
     .accesskey = p
@@ -126,12 +143,16 @@ context-menu-decrypt-to-folder =
 
 other-action-redirect-msg =
     .label = Preusmjeri
+
 message-header-msg-flagged =
     .title = Zvjezdica
     .aria-label = Zvjezdica
+
 message-header-msg-not-flagged =
     .title = Bez zvjezdice
     .aria-label = Bez zvjezdice
+
+## Message header cutomize panel
 
 ## Action Button Context Menu
 
@@ -146,6 +167,7 @@ toolbar-context-menu-remove-extension =
 
 message-header-address-in-address-book-icon =
     .alt = Adresa je u adresaru
+
 message-header-address-not-in-address-book-icon =
     .alt = Adresa nije u adresaru
 
@@ -156,9 +178,11 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = Ukloni { $name }?
 addon-removal-confirmation-button = Ukloni
 addon-removal-confirmation-message = Ukloniti { $name } kao i njegovu konfiguraciju i podatke iz { -brand-short-name }?
+
 caret-browsing-prompt-title = Pokazivačko pregledavanje
 caret-browsing-prompt-text = Pritiskom na F7, uključujete ili isključujete Pokazivačko pregledavanje. To znači da će se na sadržaju pojaviti kursor koji vam omogućava označavanje teksta tipkovnicom. Želite li uključiti Pokazivačko pregledavanje?
 caret-browsing-prompt-check-text = Ne pitaj ponovno.
+
 repair-text-encoding-button =
     .label = Ispravi kodiranje teksta
     .tooltiptext = Pogodi ispravno kodiranje teksta iz sadržaja poruke
@@ -175,19 +199,7 @@ decrypt-and-copy-failures = { $failures } od { $total } poruka nije moglo biti d
 
 ## Spaces toolbar
 
-spaces-toolbar =
-    .toolbarname = Alatna traka zbijenosti
-spaces-toolbar-button-mail =
-    .title = Prebaci na karticu poruka
-spaces-toolbar-button-address-book =
-    .title = Prebaci na karticu adresara
-spaces-toolbar-button-calendar =
-    .title = Prebaci na karticu kalendara
-spaces-toolbar-button-tasks =
-    .title = Prebaci na karticu zadataka
-spaces-toolbar-button-chat =
-    .title = Prebaci na karticu razgovora
-spaces-toolbar-button-settings =
-    .title = Prebaci na karticu postavki
-spaces-toolbar-button-collapse =
-    .title = Zatvori alatnu traku zbijenosti
+## Spaces toolbar pinned tab menupopup
+
+## Spaces toolbar customize panel
+

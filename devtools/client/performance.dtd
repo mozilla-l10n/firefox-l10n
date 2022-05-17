@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Broj puta koliko je ova funkcija bila u stacku kad je profiler uzeo uzorak.">
 <!ENTITY performanceUI.table.function                 "Funkcija">
 <!ENTITY performanceUI.table.function.tooltip         "Naziv i izvorna lokacija funkcije iz uzorka.">
-<!ENTITY performanceUI.table.totalAlloc               "Ukupne uzorkovane alokacije">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Ukupan broj Object alokacija uzorkovanih na ovoj lokaciji i u pozivateljima.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

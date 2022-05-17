@@ -21,10 +21,6 @@ process-type-extension = Dodatak
 # process used to open file:// URLs
 process-type-file = Lokalna datoteka
 
-# process used to isolate webpages that requested special
-# permission to allocate large amounts of memory
-process-type-weblargeallocation = Velika alokacija
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Izolirani web sadržaj

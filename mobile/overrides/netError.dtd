@@ -99,9 +99,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "<p>Ako koristite internet vezu kojoj ne vjerujete u potpunosti ili ako niste navikli na upozorenja na ovom poslužitelju, tada ne biste trebali dodati iznimku.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "Udaljeni XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontaktirajte vlasnike web stranice i obavijestite ih o ovom problemu.</li></ul></p>">
-
 <!ENTITY sslv3Used.title "Uspostava sigurne veze nije uspjela">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->

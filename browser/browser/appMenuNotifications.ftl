@@ -37,6 +37,7 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ne sada
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Novo aktualiziranje za { -brand-shorter-name } je dostupno, ali ne može se instalirati jer je pokrenuta druga instanca { -brand-shorter-name(case: "gen") }. Potrebno ju je zatvoriti za nastavak aktualizacije ili ipak nastaviti aktualizaciju bez zatvaranja (druga instanca možda neće raditi ispravno dok nije ponovno pokrenuta).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = U redu
     .buttonaccesskey = U
@@ -44,6 +45,7 @@ appmenu-addon-post-install-message3 = Upravljaj svojim dodacima i temama iz izbo
 appmenu-addon-post-install-incognito-checkbox =
     .label = Dozvoli ovom dodatku da radi u privatnom prozoru
     .accesskey = a
+
 appmenu-new-tab-controlled-changes =
     .label = Tvoja nova kartica je promijenjena.
     .buttonlabel = Zadrži promjene

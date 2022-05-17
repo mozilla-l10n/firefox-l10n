@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Preporučena funkcija
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Zašto ovo vidim
+
 cfr-doorhanger-extension-cancel-button = Ne sada
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Dodaj
     .accesskey = D
+
 cfr-doorhanger-extension-manage-settings-button = Upravljaj postavkama preporuka
     .accesskey = U
+
 cfr-doorhanger-extension-never-show-recommendation = Ne prikazuj ovu preporuku
     .accesskey = N
+
 cfr-doorhanger-extension-learn-more-link = Saznaj više
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = od { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Preporuka
 cfr-doorhanger-extension-notification2 = Preporuka
     .tooltiptext = Preporuka dodatka
     .a11y-announcement = Dostupna je preporuka dodatka
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Preporuka
@@ -79,9 +87,11 @@ cfr-protections-panel-link-text = Saznaj više
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nova funkcija:
+
 cfr-whatsnew-button =
     .label = Što je novo
     .tooltiptext = Što je novo
+
 cfr-whatsnew-release-notes-link-text = Pročitaj napomene o izdanju
 
 ## Enhanced Tracking Protection Milestones
@@ -147,4 +157,6 @@ spotlight-public-wifi-vpn-link = Ne sada
     .accesskey = N
 
 ## Total Cookie Protection Rollout
+
+## Emotive Continuous Onboarding
 

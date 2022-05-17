@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "r">
 <!ENTITY newVirtualFolderCmd.label "Spremljene pretrage…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newOtherAccountsCmd.label "Drugi računi…">
-<!ENTITY newOtherAccountsCmd.accesskey "D">
 <!ENTITY newCreateEmailAccountCmd.label "Napravi novi račun e-pošte…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "a">
 <!ENTITY newExistingEmailAccountCmd.label "Postojeći račun e-pošte…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Spremi kao">
 <!ENTITY saveAsMenu.accesskey "S">
-<!ENTITY saveAsFileCmd.label "Datoteka">
-<!ENTITY saveAsFileCmd.accesskey "D">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Predložak">
 <!ENTITY saveAsTemplateCmd.accesskey "P">

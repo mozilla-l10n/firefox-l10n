@@ -38,16 +38,11 @@ menu-quit =
             [windows] I
            *[other] I
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Zatvori { -brand-shorter-name }
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Zatvori { -brand-shorter-name }
+
 menu-about =
     .label = O { -brand-shorter-name }u
     .accesskey = O
@@ -77,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Otvori datoteku …
     .accesskey = O
-menu-file-close =
-    .label = Zatvori
-    .accesskey = Z
 menu-file-close-window =
     .label = Zatvori prozor
     .accesskey = o
@@ -91,9 +83,6 @@ menu-file-email-link =
     .accesskey = e
 menu-file-print-setup =
     .label = Postavke stranice …
-    .accesskey = s
-menu-file-print-preview =
-    .label = Pregled ispisa
     .accesskey = s
 menu-file-print =
     .label = Ispiši …
@@ -304,9 +293,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = v
 menu-help-report-site-issue =
     .label = Prijavi problem sa stranicom …
-menu-help-feedback-page =
-    .label = Pošalji povratne informacije …
-    .accesskey = e
 menu-help-enter-troubleshoot-mode2 =
     .label = Način rada za rješavanje problema
     .accesskey = m
