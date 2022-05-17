@@ -95,9 +95,6 @@
 <!ENTITY corruptedContentErrorv2.title "Fejlbehæftet indhold">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Siden kan ikke vises, da der er fundet en fejl i overførslen af data.</p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul>">
 
-<!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Usikker forbindelse">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

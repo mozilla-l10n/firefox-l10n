@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Anbefalet udvidelse
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Hvorfor får jeg vist dette?
+
 cfr-doorhanger-extension-cancel-button = Ikke nu
     .accesskey = I
+
 cfr-doorhanger-extension-ok-button = Tilføj nu
     .accesskey = T
+
 cfr-doorhanger-extension-manage-settings-button = Håndter indstillinger for anbefalinger
     .accesskey = H
+
 cfr-doorhanger-extension-never-show-recommendation = Vis ikke denne anbefaling
     .accesskey = V
+
 cfr-doorhanger-extension-learn-more-link = Læs mere
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = af { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Anbefaling
 cfr-doorhanger-extension-notification2 = Anbefaling
     .tooltiptext = Anbefalet udvidelse
     .a11y-announcement = Anbefalet udvidelse tilgængelig
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Anbefaling
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Læs mere
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Ny funktion:
+
 cfr-whatsnew-button =
     .label = Nyheder
     .tooltiptext = Nyheder
+
 cfr-whatsnew-release-notes-link-text = Læs udgivelsesnoterne
 
 ## Enhanced Tracking Protection Milestones

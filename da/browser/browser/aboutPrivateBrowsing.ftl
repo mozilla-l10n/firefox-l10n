@@ -6,7 +6,6 @@ privatebrowsingpage-open-private-window-label = Åbn et privat vindue
     .accesskey = p
 about-private-browsing-search-placeholder = Søg på nettet
 about-private-browsing-info-title = Du befinder dig i et privat vindue
-about-private-browsing-info-myths = Almindelige myter om privat browsing
 about-private-browsing-search-btn =
     .title = Søg på nettet
 # Variables
@@ -20,16 +19,15 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Søg med { $engine } eller indtast en adresse
 about-private-browsing-handoff-text-no-engine = Søg eller indtast adresse
 about-private-browsing-not-private = Du befinder dig ikke i et privat vindue.
-about-private-browsing-info-description = { -brand-short-name } rydder din søge- og browsing-historik, når du afslutter programmet eller når du lukker alle private faneblade og vinduer. Dette gør det nemmere at holde din gøren og laden på nettet for dig selv, hvis andre bruger den samme computer. Websteder og din internetudbyder kan dog stadig finde ud af, hvad du foretager dig.
-about-private-browsing-need-more-privacy = Har du brug for mere privatliv?
-about-private-browsing-turn-on-vpn = Prøv { -mozilla-vpn-brand-name }
 about-private-browsing-info-description-private-window = Privat vindue: { -brand-short-name } rydder din søge- og browsinghistorik, når du lukker alle private vinduer, men dette gør dig ikke anonym.
 about-private-browsing-info-description-simplified = { -brand-short-name } rydder din søge- og browsing-historik, når du lukker alle private vinduer, men dette gør dig ikke anonym.
 about-private-browsing-learn-more-link = Læs mere
+
 about-private-browsing-hide-activity = Skjul din aktivitet og din placering
 about-private-browsing-get-privacy = Få beskyttet dine private oplysninger overalt på nettet
 about-private-browsing-hide-activity-1 = Skjul din placering og din aktivitet på nettet med { -mozilla-vpn-brand-name }. Med ét klik får du en sikker forbindelse, selv på offentlige netværk.
 about-private-browsing-prominent-cta = Beskyt dit privatliv med { -mozilla-vpn-brand-name }
+
 about-private-browsing-focus-promo-cta = Hent { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Privat browsing på farten
 about-private-browsing-focus-promo-text = Vores browser dedikeret til at beskytte dit privatliv sletter automatisk din historik og dine cookies.
@@ -40,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Bring privat browsing til din tele
 about-private-browsing-focus-promo-text-b = Brug { -focus-brand-name } til de private søgninger, du ikke ønsker, at din primære mobilbrowser skal se.
 about-private-browsing-focus-promo-header-c = Privatliv på næste niveau for mobilen
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } rydder din historik hver gang, og blokerer samtidig reklamer og sporings-mekanismer.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -52,5 +51,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Luk
+
 about-private-browsing-promo-close-button =
     .title = Luk

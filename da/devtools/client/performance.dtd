@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Antal gange denne funktion var på stakken, når ydelsesværktøjet udtog prøver.">
 <!ENTITY performanceUI.table.function        "Funktion">
 <!ENTITY performanceUI.table.function.tooltip         "Navn og kilde for den prøveudtagne funktion.">
-<!ENTITY performanceUI.table.totalAlloc       "Totale allokeringer">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Det totale antal objektallokeringer foretaget af denne fuktion, og funktioner den kalder.">
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.filter.tooltiptext): This string

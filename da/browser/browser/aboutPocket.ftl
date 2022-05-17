@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Tilføj tags
+
 pocket-panel-saved-error-generic = Der opstod en fejl ved forsøg på at gemme til { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Tags er begrænset til 25 tegn
 pocket-panel-saved-error-only-links = Kun links kan gemmes
@@ -29,6 +30,7 @@ pocket-panel-saved-saving-tags = Gemmer…
 pocket-panel-saved-suggested-tags = Foreslåede tags
 pocket-panel-saved-tags-saved = Tags tilføjet
 pocket-panel-signup-view-list = Vis liste
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Tilføj tags:
 
@@ -43,6 +45,7 @@ pocket-panel-signup-signup-firefox = Meld dig til med { -brand-product-name }
 pocket-panel-signup-tagline = Gemmer artikler og videoer fra { -brand-product-name } i { -pocket-brand-name }, så du senere kan se dem hvor og hvornår, du har lyst.
 pocket-panel-signup-tagline-story-one = Klik på knappen { -pocket-brand-name } for at gemme en artikel, video eller webside fra { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Se i { -pocket-brand-name } hvor og hvornår, du har lyst.
+
 pocket-panel-signup-cta-a-fix = Din gem-knap til internettet
 pocket-panel-signup-cta-b = Klik på { -pocket-brand-name }-knappen for at gemme artikler, videoer og links. Se din liste på alle dine enheder når som helst.
 pocket-panel-signup-cta-b-short = Klik på { -pocket-brand-name }-knappen for at gemme artikler, videoer og links.
@@ -56,6 +59,7 @@ pocket-panel-home-paragraph = Du kan bruge { -pocket-brand-name } til at udforsk
 pocket-panel-home-explore-popular-topics = Udforsk populære emner
 pocket-panel-home-discover-more = Opdag mere
 pocket-panel-home-explore-more = Udforsk
+
 pocket-panel-home-most-recent-saves = Her er de seneste ting, du har gemt:
 pocket-panel-home-most-recent-saves-loading = Indlæser seneste gemte…
 pocket-panel-home-new-user-cta = Klik på { -pocket-brand-name }-knappen for at gemme artikler, videoer og links.
@@ -69,6 +73,5 @@ pocket-panel-header-sign-in = Log ind
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Vis alle
-pocket-panel-button-add-tags = Tilføj tags
 pocket-panel-button-activate = Aktiver { -pocket-brand-name } i { -brand-product-name }
 pocket-panel-button-remove = Fjern

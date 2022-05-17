@@ -7,20 +7,6 @@
 ### feature.
 
 about-unloads-page-title = Nedlukning af faneblade
-about-unloads-intro-1 =
-    { -brand-short-name } har en funktioner, der automatisk lukker faneblade 
-    ned for at forhindre programmet i at gå ned som følge af manglende 
-    hukommelse, når system ikke har meget tilgængelig hukommelse. En 
-    række kriterier bestemmer, hvilket faneblad, der lukkes ned først. Denne
-    side viser, hvordan { -brand-short-name } prioriterer mellem faneblade, og 
-    hvilket faneblad, der vil blive lukket ned, når nedlukning af faneblade udløses.
-about-unloads-intro-2 =
-    Eksisterende faneblade vises i tabellen nedenfor i samme orden, som 
-    { -brand-short-name } bruger til at vælge, hvilket faneblad der lukkes ned
-    som det næste. Proces-ID vises med <strong>fed skrift</strong>, når de
-    indeholder fanebladets øverste frame, og med <em>kursiv</em>, når 
-    processen deles mellem forskellige faneblade. Du kan udløse nedlukning
-    af faneblade manuelt ved at klikke på knappen <em>Nedluk</em> nedenfor.
 about-unloads-intro =
     { -brand-short-name } har en funktion, der automatisk lukker faneblade 
     ned for at forhindre programmet i at gå ned som følge af manglende 
@@ -29,15 +15,18 @@ about-unloads-intro =
     side viser, hvordan { -brand-short-name } prioriterer mellem faneblade, og 
     hvilket faneblad, der vil blive lukket ned, når nedlukning af faneblade udløses.
     Du kan udløse nedlukning af faneblade manuelt ved at klikke på knappen <em>Nedluk</em> nedenfor.
+
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
     <a data-l10n-name="doc-link">Klik her</a> for at læse mere om
     funktionen og denne side.
+
 about-unloads-last-updated = Senest opdateret: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Nedluk
     .title = Nedluk faneblad med den højeste prioritet
 about-unloads-no-unloadable-tab = Der findes ingen faneblade, der kan lukkes ned.
+
 about-unloads-column-priority = Prioritet
 about-unloads-column-host = Vært
 about-unloads-column-last-accessed = Senest tilgået
@@ -49,6 +38,7 @@ about-unloads-column-memory = Hukommelse
     .title = Et faneblads anslåede hukommelsesforbrug
 about-unloads-column-processes = Proces-ID
     .title = ID for processer, der er vært for fanebladets indhold
+
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =

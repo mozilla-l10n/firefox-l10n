@@ -123,13 +123,6 @@ openpgp-import-key-description = Du kan importere personlige nøgler, der er opr
 
 openpgp-import-key-info = Andre programmer bruger måske andre betegnelser for en personlig nøgle, fx. "din egen nøgle", "hemmelig nøgle", "privat nøgle" eller "nøglepar".
 
-#   $count (Number) - the number of keys found in the selected files
-openpgp-import-key-list-amount =
-    { $count ->
-        [one] Thunderbird fandt én nøgle, der kan importeres.
-       *[other] Thunderbird fandt { $count } nøgler, der kan importeres.
-    }
-
 openpgp-import-key-list-description = Bekræft hvilke nøgler, der kan betragtes som dine personlige nøgler. Du bør kun bruge nøgler, som du selv har oprettet, og som viser din identitet, som personlige nøgler. Du kan ændre denne indstilling senere under Nøgleegenskaber.
 
 openpgp-import-key-list-caption = Nøgler der er markeret som personlige nøgler vil optræde i sektionen for end to end-kryptering. Øvrige nøgler vises under Nøgleadministration.
