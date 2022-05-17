@@ -99,9 +99,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "<p>آپ کو اکسیپشن نہیں ڈالنی چاہیے اگر آپ ایسا انٹرنیٹ کنکشن استعمال کر رہیں ہیں جس پر آپ کو پوری طرح سے بھروسا نہیں ہے یا اگر آپ کو اس پیش کار کے لیے تنبیہ دیکھنے کی عادت نہیں ہے۔</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "بعید XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>برائے مہربانی ویب سائٹ کے مالکان سے رابطہ کریں انہیں اس مسئلے سے آگاہ کرنے کے لیے ۔</li></ul></p>">
-
 <!ENTITY sslv3Used.title "حفاظتی طور پر جڑنے میں ناکام">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->

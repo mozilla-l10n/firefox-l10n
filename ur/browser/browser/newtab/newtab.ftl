@@ -17,15 +17,13 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = تلاش
     .aria-label = تلاش
+
 newtab-search-box-handoff-text-no-engine = پتہ تلاش یا داخل کریں
 newtab-search-box-handoff-input-no-engine =
     .placeholder = تلاش کریں یا پتہ داخل کریں
     .title = تلاش کریں یا پتہ داخل کریں
     .aria-label = تلاش کریں یا پتہ داخل کریں
-newtab-search-box-search-the-web-input =
-    .placeholder = ويب پر تلاش کريں
-    .title = ويب پر تلاش کريں
-    .aria-label = ويب پر تلاش کريں
+
 newtab-search-box-text = ويب پر تلاش کريں
 newtab-search-box-input =
     .placeholder = ويب پر تلاش کريں
@@ -34,17 +32,18 @@ newtab-search-box-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = تلاش انجن کا اضافہ کریں
-newtab-topsites-add-topsites-header = نئی بہترین سائٹ
 newtab-topsites-add-shortcut-header = نیا شارٹ کٹ
 newtab-topsites-edit-topsites-header = بہترین سائٹٹ کیی تدوین کریں
 newtab-topsites-edit-shortcut-header = شارٹ کٹ میں ترمیم کریں
 newtab-topsites-title-label = عنوان
 newtab-topsites-title-input =
     .placeholder = ایک عنوان داخل کریں
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = ٹائپ کریں یا ایک URL چسباں کریں
 newtab-topsites-url-validation = جائز URL درکار ہے
+
 newtab-topsites-image-url-label = مخصوص نقش کا URL
 newtab-topsites-use-image-link = ایک مخصوص تصویر استعمال کریں…
 newtab-topsites-image-validation = نقش لوڈ ہونے میں ناکام رہا۔ براہ مہربانی ایک مختلف URL کو آزمائیں۔
@@ -73,10 +72,12 @@ newtab-topsite-sponsored = سپانسر شدہ
 newtab-menu-section-tooltip =
     .title = مینیو کھولیں
     .aria-label = مینیو کھولیں
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = ہٹائیں
     .aria-label = ہٹائیں
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -144,6 +145,7 @@ newtab-label-removed-bookmark = نشانی ہٹا دی گئی
 newtab-label-recommended = رجحان سازی
 newtab-label-saved = { -pocket-brand-name } میں محفوظ شدہ
 newtab-label-download = ڈاؤن لوڈ شدہ
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
@@ -173,7 +175,6 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = بہترین سائٹیں
-newtab-section-header-highlights = شہ سرخياں
 newtab-section-header-recent-activity = حالیہ سرگرمی
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
@@ -199,9 +200,11 @@ newtab-pocket-read-more = مشہور مضامین:
 newtab-pocket-more-recommendations = اور زیادہ سفارشات
 newtab-pocket-learn-more = مزید سیکھیں
 newtab-pocket-cta-button = { -pocket-brand-name } حاصل کریں
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = { -pocket-brand-name } میں محفوظ کریں
 newtab-pocket-saved-to-pocket = { -pocket-brand-name } میں محفوظ شدہ
+
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = مزید کہانیاں لوڈ کریں۔
 

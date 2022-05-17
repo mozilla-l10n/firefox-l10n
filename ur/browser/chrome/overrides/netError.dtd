@@ -83,8 +83,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Mozilla کی مدد کرے نقصان کردہ سائٹ کی شناخت اور بلاک کرنیں کے لئے اس طرح کی نقص رپورٹ کرے">
 <!ENTITY errorReporting.learnMore "مزید سیکھیں…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>اس مسلے کا بتانے کے لیے ویب سائٹ کے مالکین سے رابطہ کیجیے۔</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "اعلی معلومات: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -104,6 +102,4 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "ایسا لگتا ہے کہ اس کی وجہ آپ کی نیٹ ورک سلامتی کی سیٹنگز ہو سکتی ہے۔ کیا آپ طےشدہ سیٹنگز بحال کرناچاہتے ہیں؟">
 <!ENTITY prefReset.label "طے شدہ سیٹنگز بحال کریں">
-
-<!ENTITY enableTls10.label "TLS 1.0 اور 1.1 کو فعال کریں">
 

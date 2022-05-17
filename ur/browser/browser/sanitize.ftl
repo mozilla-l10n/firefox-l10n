@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = کوائف
 
-item-site-preferences =
-    .label = سائٹ ترجیحات
-    .accesskey = س
-
 item-offline-apps =
     .label = آف لائن ویب سائٹ کوائف
     .accesskey = ل

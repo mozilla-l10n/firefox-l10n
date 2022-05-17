@@ -55,6 +55,7 @@ app-basics-enterprise-policies = انٹرپرائز کی پالیسیوں
 app-basics-location-service-key-google = Google  محل وقوع خدمت کی کلید
 app-basics-key-mozilla = ٘Mozilla مقام سروس کلی
 app-basics-safe-mode = محفوظ موڈ
+
 show-dir-label =
     { PLATFORM() ->
         [macos] ڈھونڈ کار میں دکھائیں

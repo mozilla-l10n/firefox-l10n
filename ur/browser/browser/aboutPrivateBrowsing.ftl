@@ -6,7 +6,6 @@ privatebrowsingpage-open-private-window-label = نجی ونڈو کھولیں
     .accesskey = P
 about-private-browsing-search-placeholder = ويب پر تلاش کريں
 about-private-browsing-info-title = آپ ایک نجی ونڈوں میں ہیں
-about-private-browsing-info-myths = نجی براؤزنگ کے بارے میں عمومی خرافات
 about-private-browsing-search-btn =
     .title = ويب پر تلاش کريں
 # Variables
@@ -17,8 +16,6 @@ about-private-browsing-handoff-no-engine =
     .title = پتہ تلاش یا داخل کریں
 about-private-browsing-handoff-text-no-engine = تلاش کریں یا پتہ  کا اندراج کریں
 about-private-browsing-not-private = آپ فی الحال نجی دریچے میں نہیں۔
-about-private-browsing-need-more-privacy = مزید رازداری کی ضرورت ہے؟
-about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } آزمائیں
 about-private-browsing-learn-more-link = مزید سیکھیں
 
 ## The following strings will be used for experiments in Fx99 and Fx100
@@ -30,5 +27,6 @@ about-private-browsing-learn-more-link = مزید سیکھیں
 about-private-browsing-search-banner-title = { $engineName }  کیا آپ کا نجی تلاش انجن نجی ونڈوں میں  ہے
 about-private-browsing-search-banner-close-button =
     .aria-label = بند کریں
+
 about-private-browsing-promo-close-button =
     .title = بند کریں

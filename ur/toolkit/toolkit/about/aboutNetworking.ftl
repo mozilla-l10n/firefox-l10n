@@ -15,7 +15,6 @@ about-networking-ssl = ایس ایس ایل
 about-networking-active = فعال
 about-networking-idle = بیکار
 about-networking-host = ہوسٹ
-about-networking-tcp = ٹی سی پی
 about-networking-sent = بھیجا گیا
 about-networking-received = وصولا گیا
 about-networking-family = خاندان

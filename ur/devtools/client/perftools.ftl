@@ -31,6 +31,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = بفر کا ماپ :
+
 perftools-devtools-interval-label = وقفہ
 perftools-devtools-threads-label = تھریڈز
 perftools-devtools-settings-label = سیٹنگز
@@ -62,6 +63,9 @@ perftools-button-edit-settings = سیٹنگز میں تدوین کریں…
 ## preferences are true.
 
 
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## devtools.performance.new-panel-onboarding preference is true.
+
 ## Profiler presets
 
 
@@ -70,10 +74,15 @@ perftools-button-edit-settings = سیٹنگز میں تدوین کریں…
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = ویب تکمیل کار
+
 perftools-presets-firefox-label = { -brand-shorter-name }
+
 perftools-presets-graphics-label = گرافکس
+
 perftools-presets-media-label = میڈیا
+
 perftools-presets-networking-label = نیٹورکنگ
+
 perftools-presets-custom-label = مخصوص
 
 ##

@@ -80,9 +80,6 @@
 <!ENTITY corruptedContentErrorv2.title "خراب مواد نقص">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>جو صفحہ آپ دیکھنا چاہ رہے ہیں نہیں دکھایا جا سکتا کیونکہ قوائف کی منتقلی میں نقص آ گیا۔</p><ul><li>ویب سائٹ کے مالکین کو اس مسلے کا بتانے کے لیے ان سے رابطہ کریں۔</li></ul>">
 
-<!ENTITY remoteXUL.title "بعید XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>ویب سائٹ کے مالکین کو اس مسلے کا بتانے کے لیے ان سے رابطہ کریں۔</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "آپکا کنکشن اقابل بھروسا نہیں ہے">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = { -brand-short-name } کے ساتھ کھولیں
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] سیٹنگز { -brand-short-name } کے اختیارات سےتبدیل کی جا سکتی ہیں۔
            *[other] سیٹنگز { -brand-short-name } کی ترجیحات سےتبدیل کی جا سکتی ہیں۔
         }
+
 unknowncontenttype-intro = آپ نے اسے کھولنے کا انتخاب کیا ہے:
 unknowncontenttype-which-is = جو کہ:
 unknowncontenttype-from = از:

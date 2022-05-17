@@ -111,7 +111,6 @@ unknownSocketType-title = سرور کی طرف سے غیر متوقع جواب
 nssFailure2-title = قابل بھروسا کنکشن ناکام ہو گیا ہے
 csp-xfo-error-title = { -brand-short-name } اس صفہ کو نہیں کھول سکتا
 corruptedContentError-title = خراب مواد نقص
-remoteXUL-title = بعید XUL
 sslv3Used-title = حفاظتی طور پر جڑنے میں ناکام
 inadequateSecurityError-title = آپکا کنکشن ناقابل بھروسا ہے
 blockedByPolicy-title = بلاک شدہ صفحہ

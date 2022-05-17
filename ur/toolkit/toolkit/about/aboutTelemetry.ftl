@@ -29,7 +29,6 @@ about-telemetry-events-section = واقعات
 about-telemetry-simple-measurements-section = سادہ پیمائشیں
 about-telemetry-slow-sql-section = سست SQL سٹیٹمنٹ
 about-telemetry-addon-details-section = اضافہ تفاصیل
-about-telemetry-captured-stacks-section = گرفت شدہ اسٹیک
 about-telemetry-late-writes-section = دیرانہ لکھائی
 about-telemetry-raw = خام JSON
 about-telemetry-full-sql-warning = نوٹ: سست SQL ڈیبگنگ اہل ہے۔ نیچے پوری SQL سٹرنگز دکھائی جا سکتی ہیں لیکن یہ ٹیلیمٹری کو جمع نہیں کرائ جائیں گی۔

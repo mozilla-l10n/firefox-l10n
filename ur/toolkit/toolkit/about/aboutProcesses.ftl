@@ -39,6 +39,7 @@ about-processes-web-isolated-process = { $origin } ({ $pid })
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = ٹیب : { $name }
 about-processes-preloaded-tab = پہلے سے لوڈ شدہ نیا ٹیب
+
 # Utility process actor names
 about-processes-utility-actor-unknown = نامعلوم اداکار
 about-processes-utility-actor-audio-decoder = آڈیو ڈیکوڈر
