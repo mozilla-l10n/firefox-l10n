@@ -93,9 +93,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "<p>আপুনি এটা ব্যতিক্ৰম যোগ কৰিব নালাগে যদি আপুনি এনে এটা ইন্টাৰনেট সংযোগ ব্যৱহাৰ কৰি আছে যাক আপুনি সম্পূৰ্ণৰূপে ভৰষা নকৰে অথবা যদি আপুনি এই চাৰ্ভাৰৰ বাবে এটা সতৰ্কবাৰ্তা চোৱাত অভ্যস্ত নহয়।</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "দুৰৱৰ্তী XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>অনুগ্ৰহ কৰি ৱেবছাইটৰ গৰাকীসকলক এই সমস্যা জনাওক।</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 

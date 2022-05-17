@@ -48,3 +48,8 @@ pocket-panel-home-paragraph = আপুনি ৱেবপৃষ্ঠা, প�
 pocket-panel-home-explore-popular-topics = জনপ্ৰিয় বিষয়বোৰ অন্বেষণ কৰক
 pocket-panel-home-discover-more = অধিক আৱিষ্কাৰ কৰক
 pocket-panel-home-explore-more = অন্বেষণ কৰক
+
+## Pocket panel header component
+
+## Pocket panel buttons
+

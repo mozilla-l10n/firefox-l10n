@@ -101,10 +101,6 @@ about-telemetry-keys-header = বৈশিষ্ট্য
 about-telemetry-names-header = নাম
 about-telemetry-values-header = মান
 # Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (কেপচাৰৰ সংখ্যা: { $capturedStacksCount })
-# Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = শেষ লিখনি #{ $lateWriteCount }
 about-telemetry-stack-title = স্টেক:

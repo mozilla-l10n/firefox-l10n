@@ -14,7 +14,6 @@ about-networking-ssl = SSL
 about-networking-active = সক্ৰিয়
 about-networking-idle = অলস
 about-networking-host = হস্ট
-about-networking-tcp = TCP
 about-networking-sent = প্ৰেৰিত
 about-networking-received = প্ৰাপ্ত
 about-networking-family = পৰিয়াল

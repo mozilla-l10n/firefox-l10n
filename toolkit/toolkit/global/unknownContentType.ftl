@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = { -brand-short-name }-এৰে খোলক
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] পছন্দক { -brand-short-name }ৰ বিকল্পসমূহত সলনি কৰিব পাৰি।
            *[other] পছন্দক { -brand-short-name } ৰ পছন্দসমূহত সলনি কৰিব পাৰি।
         }
+
 unknowncontenttype-intro = আপুনি খুলিবলৈ নিৰ্বাচন কৰিছে:
 unknowncontenttype-which-is = যি এটা:
 unknowncontenttype-from = চিহ্নিত বস্তুৰ পৰা:

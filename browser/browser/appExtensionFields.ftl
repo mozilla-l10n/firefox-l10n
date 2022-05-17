@@ -6,8 +6,10 @@
 ## Theme names and descriptions used in the Themes panel in about:addons
 
 extension-default-theme-description = বুটাম, মেন্যু আৰু ৱিণ্ড'সমূহৰ বাবে অপাৰেটিং ছিষ্টেমৰ ছেটিং মানি চলক।
+
 extension-firefox-compact-light-name = পাতল
 extension-firefox-compact-light-description = পাতল ৰঙৰ যোজনা থকা থীম।
+
 extension-firefox-compact-dark-name = গাঢ়
 extension-firefox-compact-dark-description = গাঢ় ৰঙৰ যোজনা থকা থীম।
 

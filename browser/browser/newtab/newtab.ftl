@@ -20,6 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = সন্ধান কৰক
     .aria-label = সন্ধান কৰক
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = { $engine }-এৰে সন্ধান কৰক নাইবা ঠিকনা লিখক
@@ -34,10 +35,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = সন্ধান কৰক নাইবা ঠিকনা লিখক
     .title = সন্ধান কৰক নাইবা ঠিকনা লিখক
     .aria-label = সন্ধান কৰক নাইবা ঠিকনা লিখক
-newtab-search-box-search-the-web-input =
-    .placeholder = ৱেবত সন্ধান কৰক
-    .title = ৱেবত সন্ধান কৰক
-    .aria-label = ৱেবত সন্ধান কৰক
+
 newtab-search-box-text = ৱেবত সন্ধান কৰক
 newtab-search-box-input =
     .placeholder = ৱেবত সন্ধান কৰক
@@ -46,15 +44,16 @@ newtab-search-box-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = ছাৰ্চ ইঞ্জিন যোগ কৰক
-newtab-topsites-add-topsites-header = নতুন শীৰ্ষ ছাইট
 newtab-topsites-edit-topsites-header = শীৰ্ষ ছাইট সম্পাদনা কৰক
 newtab-topsites-title-label = শীৰ্ষক
 newtab-topsites-title-input =
     .placeholder = শীৰ্ষক প্ৰবিষ্ট কৰক
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL টাইপ বা পে'ষ্ট কৰক
 newtab-topsites-url-validation = বৈধ URLৰ প্ৰয়োজন
+
 newtab-topsites-image-url-label = কাষ্টম ছবিৰ URL
 newtab-topsites-use-image-link = কাষ্টম ছবি ব্যৱহাৰ কৰক…
 newtab-topsites-image-validation = ছবি ল'ড হোৱা বিফল হ'ল। বেলেগ এটা URL পৰীক্ষা কৰক।
@@ -82,10 +81,12 @@ newtab-topsite-sponsored = পৃষ্ঠপোষকতা কৰা
 newtab-menu-section-tooltip =
     .title = মেন্যু খোলক
     .aria-label = মেন্যু খোলক
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = আঁতৰাওক
     .aria-label = আঁতৰাওক
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -146,10 +147,12 @@ newtab-label-removed-bookmark = বুকমাৰ্ক আঁতৰোৱা �
 newtab-label-recommended = ট্ৰেণ্ডিং
 newtab-label-saved = { -pocket-brand-name }-ত সাঁচি থোৱা হ'ল
 newtab-label-download = ডাউনল'ড কৰিছে
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · পৃষ্ঠপোষকতা কৰা
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -179,7 +182,6 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = শীৰ্ষ ছাইটসমূহ
-newtab-section-header-highlights = হাইলাইটসমূহ
 newtab-section-header-recent-activity = শেহতীয়া কাৰ্যকলাপ
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
@@ -201,9 +203,11 @@ newtab-discovery-empty-section-topstories-timed-out = উস্! আমি এ�
 
 newtab-pocket-learn-more = অধিক জানক
 newtab-pocket-cta-button = { -pocket-brand-name } পাওক
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = { -pocket-brand-name }-ত সাঁচি থওক
 newtab-pocket-saved-to-pocket = { -pocket-brand-name }-ত সাঁচি থোৱা হ'ল
+
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = অধিক কাহিনী ল'ড কৰক
 

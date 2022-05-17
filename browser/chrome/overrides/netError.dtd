@@ -68,8 +68,6 @@ was trying to connect. -->
 
 <!ENTITY errorReporting.learnMore "অধিক জানক…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>এই সমস্যাৰ বিষয়ে জনাবলে অনুগ্ৰহ কৰি ৱেবছাইটৰ গৰাকীক যোগাযোগ কৰক।</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 

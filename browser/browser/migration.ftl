@@ -73,23 +73,9 @@ import-done-page-title = ইমপোৰ্ট সম্পূৰ্ণ হ'ল
 
 import-done-description = নিম্নলিখিত বস্তু সফলভাবে ইমপোৰ্ট কৰা হ'ল:
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = { $source } ৰ পৰা
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
-source-name-edge-beta = Microsoft Edge বিটা
-source-name-safari = Safari
-source-name-canary = Google Chrome কেনেৰী
 source-name-chrome = Google Chrome
-source-name-chrome-beta = Google Chrome বিটা
-source-name-chrome-dev = Google Chrome ডেভ
-source-name-chromium = Chromium
-source-name-firefox = Mozilla Firefox
-source-name-360se = 360 Secure Browser
 
 imported-safari-reading-list = পঢ়াৰ তালিকা (Safari ৰ পৰা)
 imported-edge-reading-list = পঢ়া তালিকা (Edge-ৰ)

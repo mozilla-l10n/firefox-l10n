@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = তথ্য
 
-item-site-preferences =
-    .label = ছাইটৰ পছন্দ
-    .accesskey = S
-
 item-site-settings =
     .label = ছাইটৰ ছেটিংছ
     .accesskey = S
