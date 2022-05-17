@@ -8,12 +8,14 @@ appmenu-update-unsupported2 =
     .buttonaccesskey = A
     .secondarybuttonlabel = Xita
     .secondarybuttonaccesskey = c
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Kuvi
     .buttonaccesskey = O
 appmenu-addon-post-install-incognito-checkbox =
     .label = Kua´a kuvi satiñu extensión nuu pestaña yu´u
     .accesskey = A
+
 appmenu-new-tab-controlled-changes =
     .label = Página jíía sukua nsama
     .buttonlabel = Kino da nsama

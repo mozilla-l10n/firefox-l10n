@@ -74,10 +74,6 @@ item-form-search-history =
 
 data-section-label = Datos
 
-item-site-preferences =
-    .label = Prefrencias sitio
-    .accesskey = p
-
 item-offline-apps =
     .label = Datos sitio web sa ntu íyo conexión
     .accesskey = o

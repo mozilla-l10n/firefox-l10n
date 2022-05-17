@@ -8,8 +8,6 @@
 
 ## New changes screen
 
-upgrade-dialog-new-secondary-button = Nkuvi ntañu´u
-
 ## Pin Firefox screen
 ##
 ## These title, subtitle and button strings differ between platforms as they
@@ -18,11 +16,14 @@ upgrade-dialog-new-secondary-button = Nkuvi ntañu´u
 
 ## Default browser screen
 
-upgrade-dialog-default-secondary-button = Nkuvi ntañu´u
-
 ## Theme selection screen
+
+## Start screen
+
+## Colorway screen
 
 upgrade-dialog-theme-dark = Teku tun
     .title = Ni'in teku tun nuu botones, menus, jii ventanas
-upgrade-dialog-theme-primary-button = Chuva'a tema
-upgrade-dialog-theme-secondary-button = Nkuvi ntañu´u
+
+## Thank you screen
+

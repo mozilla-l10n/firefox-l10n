@@ -6,7 +6,6 @@ privatebrowsingpage-open-private-window-label = Síne iin ventana yu´u
     .accesskey = y
 about-private-browsing-search-placeholder = Nánuku nuu Web
 about-private-browsing-info-title = Síne iin ventana yu'u
-about-private-browsing-info-myths = Tu´un nakani jiee nánuku yu'u
 about-private-browsing-search-btn =
     .title = Nánuku nuu Web
 # Variables
@@ -20,10 +19,10 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Nánuku ji { $engine } a xíín chu'un iin nuu
 about-private-browsing-handoff-text-no-engine = Nánuku a xíín chu´un iin nuu
 about-private-browsing-not-private = Ntañu´u ntu yɨ´ɨnu nuu iin ventana yu´u
-about-private-browsing-info-description = { -brand-short-name } xita a nnánukunu a nsá´ánu saa kenenu nuu ka̱a̱ a xiin nakasɨnu kuaiyo da pestaña jíí ventana nánuku yu´u . Ya´a ntu taji a noo´o nánuku yu´u nuu Web ji nuu ñɨvu tatu Internet, ya´a sá´á kumi a nánukunu nuu inka ñɨvu ni´i ka̱a̱ tee nɨnuu ya´a.
-about-private-browsing-need-more-privacy = ¿Jiniñu'unu kue´e privacidad?
-about-private-browsing-turn-on-vpn = Nasá´á tuku { -mozilla-vpn-brand-name }
 about-private-browsing-learn-more-link = Ka´vi kue´eka
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -36,3 +35,4 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Kasɨ
+

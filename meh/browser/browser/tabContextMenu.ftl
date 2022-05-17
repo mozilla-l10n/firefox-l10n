@@ -61,19 +61,10 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Kua´a
     .accesskey = h
-tab-context-share-more =
-    .label = Kue'eka…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Nakasɨ pestaña
-           *[other] Nakasɨ pestaña
-        }
-    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->

@@ -46,16 +46,8 @@ protections-close-button2 =
 mobile-app-links = Ka̱a̱ nánuku { -brand-product-name } nu <a data-l10n-name="android-mobile-inline-link"> Android</a> y <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 
 lockwise-title = Nna ininu íchika contraseña
-lockwise-title-logged-in2 = Nu tetiñu da contraseñas
-lockwise-header-content = { -lockwise-brand-name } chuva'a vatu da contraseña nuu ka̱a̱ nánuku.
 lockwise-header-content-logged-in = Chuva'a je sa sincronizar contraseñas nu ntaka da ka̱a̱ kumi noo'o.
-protection-report-save-passwords-button = Chuva'a contraseñas
-    .title = Chuva'a contraseñas nuu { -lockwise-brand-short-name }
-protection-report-manage-passwords-button = Tetiñu contraseñas
-    .title = Tetiñu contraseñas nuu { -lockwise-brand-short-name }
-lockwise-mobile-app-title = Kua´a ji contraseña noo´o ntaka nuu
-lockwise-no-logins-card-content = Ni'i contraseñas nchuva'a nu { -brand-short-name } ntaka ka̱a̱.
-lockwise-app-links = { -lockwise-brand-name } para <a data-l10n-name="lockwise-android-inline-link">Android</a> ji <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+
 
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.

@@ -5,7 +5,6 @@
 
 ## App Menu
 
-appmenuitem-protection-dashboard-title = Panel de protecciones
 appmenuitem-new-tab =
     .label = Sukua jíía
 appmenuitem-new-window =
@@ -34,6 +33,7 @@ appmenuitem-exit2 =
             [linux] Kene
            *[other] Kene
         }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -54,33 +54,40 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Kajie´e sesión ji Sync...
 appmenu-remote-tabs-turn-on-sync =
     .label = Tee Sync…
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Xituvi kuaiyo da pestañas
     .tooltiptext = Xituvi kuaiyo da pestañas nuu ka̱a̱ ya'a
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ntu nune pestañas
+
 appmenu-remote-tabs-opensettings =
     .label = Ke´i
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ¿Kuvinu kune´yanu da pestañas inka dispositvos nuu ya´a?
+
 appmenu-remote-tabs-connectdevice =
     .label = Chu´un inka ka̱a̱
 appmenu-remote-tabs-welcome = Kune´ya iin lista da pestañas da inka dispositivos.
 appmenu-remote-tabs-unverified = Cuenta noo´o nejika koo verificada.
+
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar ntañu´u
 appmenuitem-fxa-sign-in = Kajie'e sesión { -brand-product-name }
 appmenuitem-fxa-manage-account = Tetiñu cuenta
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-signed-in-label = Kajie´e sesión
-appmenu-fxa-show-more-tabs = Xituvi kuaiyo da pestañas
+
 appmenuitem-save-page =
     .label = Chuva´a kua...
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Nakuvi a jíía íyo
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -94,32 +101,39 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Perfilador
     .tooltiptext = Grabar un perfil de rendimiento
+
 profiler-popup-button-recording =
     .label = Perfilador
     .tooltiptext = El perfilador se encuentra grabando un perfil
+
 profiler-popup-button-capturing =
     .label = Perfilador
     .tooltiptext = El perfilador está capturando un perfil
+
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Kune'ya kue'eka tu'un
-profiler-popup-learn-more = Ka´vi kue´eka
+
 profiler-popup-learn-more-button =
     .label = Ka´vi kue´eka
+
 profiler-popup-settings =
     .value = Ke´i
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings = Tee da ke'i…
+
 profiler-popup-start-recording-button =
     .label = Kajie'e grabación
+
 profiler-popup-discard-button =
     .label = Xita
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -136,8 +150,10 @@ profiler-popup-capture-shortcut =
 
 profiler-popup-presets-web-developer-label =
     .label = Ñivɨ sa´a Web
+
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+
 profiler-popup-presets-media-label =
     .label = Multimedia
 
@@ -167,9 +183,6 @@ appmenu-get-help =
     .accesskey = H
 appmenu-help-report-site-issue =
     .label = Iyo iin tixi nuu sitio ya´a...
-appmenu-help-feedback-page =
-    .label = Chu'un ichí a jíaníninu...
-    .accesskey = C
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -189,6 +202,5 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Sá´á vii barra ka̱a̱...
-appmenu-taskmanager =
-    .label = Tetiñu da tareas
+
 appmenu-developer-tools-subheader = Da ka̱a̱ ka̱a̱ nánuku

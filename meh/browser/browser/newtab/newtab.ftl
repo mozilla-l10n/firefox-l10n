@@ -31,11 +31,6 @@ newtab-search-box-handoff-input-no-engine =
     .title = Nánuku a xíín chu´un iin nuu
     .aria-label = Nánuku a xíín chu´un iin nuu
 
-newtab-search-box-search-the-web-input =
-    .placeholder = Nánuku nuu Web
-    .title = Nánuku nuu Web
-    .aria-label = Nánuku nuu Web
-
 newtab-search-box-input =
     .placeholder = Nánuku nuu Web
     .aria-label = Nánuku nuu Web
@@ -43,7 +38,6 @@ newtab-search-box-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Chisó ka̱a̱ nánuku
-newtab-topsites-add-topsites-header = Da sitio xinañu'u
 newtab-topsites-add-shortcut-header = A jíía acceso ñama
 newtab-topsites-edit-topsites-header = Natee sitio xinañu´u
 newtab-topsites-edit-shortcut-header = Natee acceso ñama
@@ -192,7 +186,6 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = Da sitio vii
-newtab-section-header-highlights = A xinañu'u
 newtab-section-header-recent-activity = Da a skuata nsá´á
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
@@ -224,6 +217,9 @@ newtab-pocket-more-recommendations = Kue´eka a kuvi ni´inu
 newtab-pocket-learn-more = Ka´vi kue´eka
 newtab-pocket-cta-button = Taji { -pocket-brand-name }
 newtab-pocket-cta-text = Chuva'a da tu'un jiniñu'unu { -pocket-brand-name } je chu'un mikinu ji tu'un ka'vi vii.
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

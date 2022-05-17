@@ -4,6 +4,7 @@
 
 videocontrols-closed-caption-off =
     .offlabel = Xina´va
+
 # This message shows the current position and total video duration
 #
 # Variables:

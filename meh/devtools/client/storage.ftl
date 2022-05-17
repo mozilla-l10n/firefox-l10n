@@ -7,12 +7,15 @@
 
 # Key shortcut used to focus the filter box on top of the data view
 storage-filter-key = CmdOrCtrl+F
+
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Xita kuaiyo
+
 # Context menu action to copy a storage item
 storage-context-menu-copy =
     .label = Tɨɨn
+
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted

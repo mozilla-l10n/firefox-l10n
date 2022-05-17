@@ -43,15 +43,6 @@ menu-quit =
 menu-quit-mac =
     .label = Kene { -brand-shorter-name }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Kene { -brand-shorter-name }
-
 menu-about =
     .label = Jie'e { -brand-shorter-name }
     .accesskey = J
@@ -81,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Sine Archivo…
     .accesskey = S
-menu-file-close =
-    .label = Nakasɨ
-    .accesskey = C
 menu-file-close-window =
     .label = Nakasɨ ventana
     .accesskey = N
@@ -96,9 +84,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Ke'i página…
     .accesskey = K
-menu-file-print-preview =
-    .label = Natava naja kino
-    .accesskey = N
 menu-file-print =
     .label = Nátava…
     .accesskey = N
@@ -296,9 +281,6 @@ menu-get-help =
     .accesskey = H
 menu-help-report-site-issue =
     .label = Iyo iin tixi nuu sitio ya´a...
-menu-help-feedback-page =
-    .label = Chu'un ichí a jíaníninu...
-    .accesskey = C
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
