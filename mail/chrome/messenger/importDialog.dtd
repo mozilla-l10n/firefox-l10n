@@ -30,9 +30,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "வடிகள்">
 <!ENTITY importFilters.accesskey  "F">
 
-<!ENTITY window.width "40em">
-<!ENTITY window.macWidth "45em">
-
 <!ENTITY importTitle.label "&brandShortName; அஞ்சல் இறக்குமதி விஸர்ட்">
 <!ENTITY importShortDesc.label "அஞ்சல், முகவரிப்புத்தகங்கள் மற்றும் அமைவுகளை மற்ற நிரல்களில் இருந்து இறக்குமதி செய்க">
 

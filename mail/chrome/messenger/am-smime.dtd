@@ -11,6 +11,5 @@
 <!ENTITY encryption.certificate_clear.button "சுத்தமாக்குக">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "digital கையெழுத்திடல்">
-<!ENTITY signMessage.accesskey "D">
 
 

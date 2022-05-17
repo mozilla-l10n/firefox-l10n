@@ -92,6 +92,7 @@
 <!ENTITY newContactButton.accesskey                     "C"> 
 <!ENTITY newlistButton.label "புதிய பட்டியல்">
 <!ENTITY newlistButton.accesskey "L">
+
 <!ENTITY newmsgButton.label "எழுது">
 <!ENTITY newmsgButton.accesskey "W">
 <!ENTITY newIM.label "உடனடிச் செய்தி">

@@ -10,15 +10,6 @@
 <!-- Entities for Account Type page -->
 
 
-<!ENTITY accountSetupInfo2.label "அஞ்சல்களை பெற, அஞ்சல் அல்லது செய்தித்தொகுதி கணக்கு உருவாக்கப்படுவது அவசியம்">
-<!ENTITY accountTypeTitle.label "புதிய கணக்கு அமைப்பு">
-<!ENTITY accountTypeDesc2.label "இந்த வழிகாட்டி தன்னியக்கமாக அஞ்சல் அல்லது செய்தித்தொகுதிக் கணக்கை அமைக்கத் தேவையான விவரங்களை சேகரிக்கிறது. கேட்கப்பட்ட விவரம் தெரியாதவிடத்து, உங்கள் தொகுதி நிர்வாகி அல்லது இணைய சேவை அளிப்போரை அணுகுக.">
-<!ENTITY accountTypeDirections.label "நீங்க அமைக்க விரும்பும் கணக்கின் வகையை தெரிவு செய்க:">
-<!ENTITY accountTypeMail.label "மின்னஞ்சல் கணக்கு">
-<!ENTITY accountTypeMail.accesskey "M">
-<!ENTITY accountTypeNews.label "செய்தித்தொகுதிக் கணக்கு">
-<!ENTITY accountTypeNews.accesskey "W">
-
 <!-- Entities for Identity page -->
 
 
@@ -45,13 +36,6 @@
 
 <!-- Entities for Incoming Server page -->
 
-<!ENTITY incomingServerTypeDesc.label "நீங்க பயன்படுத்தும் உள்வரும் சேவையகத்தை தெரிவு செய்க.">
-<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
-<!ENTITY imapType.label "IMAP">
-<!ENTITY imapType.accesskey "I">
-<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
-<!ENTITY popType.label "POP">
-<!ENTITY popType.accesskey "P">
 <!-- for when the user has an SMTP server pre-configured -->
 <!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
      this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
@@ -62,8 +46,6 @@
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
 
-<!ENTITY leaveMsgsOnSrvr.label "Leave messages on server">
-<!ENTITY leaveMsgsOnSrvr.accesskey "L">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "உங்கள் செய்திச் சேவையகத்தின் பெயரை எழுதுக (உதாரணமாக, &quot;news.example.net&quot;).">
 <!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
@@ -72,20 +54,8 @@
 
 <!-- Entities for Outgoing Server page -->
 
-<!ENTITY haveSmtp1.prefix "உங்களிடம் உள்ள அனுப்பும் சேவையகம் (SMTP), &quot;">
 <!-- Entities for Login page -->
 
-
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
--->
-<!ENTITY haveSmtp2.prefix "ஏற்கனவே உள்ள உங்கள் அனுப்பும் (SMTP) பயனர்பெயர், &quot;">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
--->
-<!ENTITY haveSmtp3.prefix "உங்கள் அனுப்பும் (SMTP) சேவையகம், &quot;">
 
 <!-- Entities for Account name page -->
 
@@ -101,15 +71,7 @@
 
 <!ENTITY completionTitle.label "வாழ்த்துக்கள் !!!">
 <!ENTITY completionText.label "கீழுள்ள விவரங்கள் சரியாக உள்ளதா என உறுதி செய்க">
-<!ENTITY serverTypePrefix.label "உள்வரும் சேவையக வகை:">
-<!ENTITY serverNamePrefix.label "உள்வரும் சேவையக பெயர்:">
-<!ENTITY smtpServerNamePrefix.label "அனுப்பும் சேவையக பெயர் (SMTP):">
 <!ENTITY newsServerNamePrefix.label "செய்திகள் சேவையக பெயர் (NNTP):">
-<!ENTITY downloadOnLogin.label "இப்பொழுது செய்திகளை பதிவிறக்குக">
-<!ENTITY downloadOnLogin.accesskey "D">
-<!ENTITY deferStorageDesc.label "இந்த கணக்கின் அஞ்சலை அதன் கோப்புறையிலேயே சேமிக்க இந்த குறிப்பெட்டியில் உள்ள குறியை நீக்குக.  இதனால், இந்தக் கணக்கு மேல்-நிலை கணக்காக தோன்றும். அல்லது, இது உலகளாவிய உள்ளகக் கோப்புறை(Global Inbox) கணக்கின் உள் கோப்புறைகளில் ஒரு பாகமாக இருக்கும்">
-<!ENTITY deferStorage.label " உலகளாவிய உள்ளகக் கோப்புறையை பயன்படுத்துக (உள் அடைவுகளில் அஞ்சலை சேமிக்கவும்)">
-<!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "இந்த அமைவுகளை சேமிக்க “முடி” என சொடுக்கிவிட்டு, கணக்கு வழிகாட்டியை விட்டு வெளியேறுக.">
 <!ENTITY clickFinish.labelMac "இந்த அமைப்புகளை சேமித்து கணக்கு வழிகாட்டியை விட்டு வெளியேற Done இனைச் சொடுக்குக.">
 
