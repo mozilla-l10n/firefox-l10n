@@ -11,14 +11,6 @@
 <!ENTITY mailBiffOnNewWindow.label        "Só buscar correo novo despois de abrir o Correo e grupos de novas">
 <!ENTITY mailBiffOnNewWindow.accesskey    "o">
 
-<!ENTITY defaultMailSettings.description  "Facer que o &brandShortName; sexa o aplicativo predeterminado para:">
-<!ENTITY setDefaultMail.label             "Correo">
-<!ENTITY setDefaultMail.accesskey         "C">
-<!ENTITY setDefaultNews.label             "Novas">
-<!ENTITY setDefaultNews.accesskey         "N">
-<!ENTITY setDefaultFeed.label             "Fontes">
-<!ENTITY setDefaultFeed.accesskey         "e">
-
 <!ENTITY messengerStartPage.caption       "Páxina de inicio do correo">
 <!ENTITY enableStartPage.label            "Mostrar a páxina de inicio na área de mensaxes cando se inicia o Correo">
 <!ENTITY enableStartPage.accesskey        "M">

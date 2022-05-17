@@ -7,5 +7,6 @@
 
 extension-thunderbird-compact-light-name = Claro
 extension-thunderbird-compact-light-description = Un tema cun esquema de cores claro.
+
 extension-thunderbird-compact-dark-name = Escuro
 extension-thunderbird-compact-dark-description = Un tema cun esquema de cores escuras.

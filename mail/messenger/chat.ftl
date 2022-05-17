@@ -19,3 +19,6 @@ chat-participant-moderator-role-icon2 =
 
 chat-participant-voiced-role-icon2 =
     .alt = O participante pode enviar mensaxes
+
+## Conversation invite notification box
+

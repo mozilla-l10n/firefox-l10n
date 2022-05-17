@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Máis información">
 
 <!ENTITY e2eEnc.description "Sen cifraxe de extremo a extremo, o contido das mensaxes exponse facilmente ao seu fornecedor de correo electrónico e á vixilancia masiva.">
-<!ENTITY e2eeReqWarning.description "Se precisa cifraxe, para enviar unha mensaxe debe ter a clave pública ou o certificado de cada destinatario.">
 
-<!ENTITY e2eSigning.description "Unha sinatura dixital permite aos destinatarios verificar que a mensaxe foi enviada por vostede e que o contido non se alterou.">
 <!ENTITY e2eTechPref.description "Tecnoloxía de cifraxe preferida:">
 
-<!ENTITY doNotEncrypt.label "Non activar a cifraxe de xeito predeterminado">
-<!ENTITY doNotEncrypt.accesskey "N">
-<!ENTITY requireEncryptMessage.label "Requirir cifraxe de xeito predeterminado">
-<!ENTITY requireEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert2.message "Certificado persoal para a cifraxe:">
 <!ENTITY digitalSign.certificate.button "Seleccionar…">
 <!ENTITY digitalSign.certificate.accesskey "S">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Borrar">
 <!ENTITY encryption.certificate_clear.accesskey "m">
 <!ENTITY signingGroupTitle.label "Sinatura dixital">
-<!ENTITY signMessage2.label "Engadir a miña sinatura dixital de xeito predeterminado">
-<!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert2.message "Certificado persoal para a sinatura dixital:">
 
 <!ENTITY sendingDefaults.label "Configuración predeterminada para o envío de mensaxes">

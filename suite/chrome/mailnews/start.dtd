@@ -21,6 +21,3 @@
 <!ENTITY dict.title "Dicionarios">
 <!ENTITY dict_intro.label "Úsanse os dicionarios para corrixir a ortografía das súas mensaxes.">
 <!ENTITY info.title "Máis información">
-<!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
-<!ENTITY info_bugs.label
-'<a href="http://www.mozilla.org/mailnews/">Agradecémoslle</a> os informes de erros e as peticións de novas características, pero lea antes as <a id="releaseNotesURL" href="">notas da versión</a> e consulte antes <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>

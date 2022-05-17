@@ -12,6 +12,7 @@ videocontrols-volume-control =
     .aria-label = Volume
 videocontrols-closed-caption-button =
     .aria-label = Lenda oculta
+
 videocontrols-play-button =
     .aria-label = Reproducir
 videocontrols-pause-button =
@@ -28,16 +29,20 @@ videocontrols-casting-button-label =
     .aria-label = Enviar á pantalla
 videocontrols-closed-caption-off =
     .offlabel = Desactivado
+
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Imaxe en imaxe
+
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = Ver imaxe en imaxe
+
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Reproduza vídeos en primeiro plano mentres fai outras cousas en { -brand-short-name }
+
 videocontrols-error-aborted = Detívose a carga do vídeo.
 videocontrols-error-network = Interrompeuse a reprodución do vídeo debido a un erro da rede.
 videocontrols-error-decode = Non é posíbel reproducir o vídeo porque o ficheiro está danado.
@@ -45,6 +50,7 @@ videocontrols-error-src-not-supported = Non se admite o formato de vídeo ou o t
 videocontrols-error-no-source = Non se atopou un vídeo cun formato ou tipo MIME compatíbel.
 videocontrols-error-generic = Interrompeuse a reprodución do vídeo debido a un erro descoñecido.
 videocontrols-status-picture-in-picture = Este vídeo reprodúcese no modo imaxe en imaxe.
+
 # This message shows the current position and total video duration
 #
 # Variables:

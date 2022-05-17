@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -72,10 +74,6 @@ toolbar-button-add-attachment =
     .label = Anexar
     .tooltiptext = Engadir un anexo ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
 
-add-attachment-notification-reminder =
-    .label = Engadir un anexo…
-    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
-
 add-attachment-notification-reminder2 =
     .label = Engadir un anexo…
     .accesskey = a
@@ -90,21 +88,6 @@ context-menuitem-attach-files =
     .label = Anexar ficheiro(s)…
     .accesskey = f
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
-
-#   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } anexo
-           *[other] { $count } anexos
-        }
-    .accesskey = x
-
-expand-attachment-pane-tooltip =
-    .tooltiptext = Amosar o panel de anexos ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Agochar o panel de anexos ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 
 drop-file-label-attachment =
     { $count ->
@@ -135,54 +118,7 @@ button-return-receipt =
 
 # Encryption
 
-message-to-be-signed-icon =
-    .alt = Asinar a mensaxe
-message-to-be-encrypted-icon =
-    .alt = Cifrar a mensaxe
-
 # Addressing Area
-
-to-compose-address-row-label =
-    .value = Para
-
-#   $key (String) - the shortcut key for this field
-to-compose-show-address-row-menuitem =
-    .label = Campo { to-compose-address-row-label.value }
-    .accesskey = P
-    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
-
-to-compose-show-address-row-label =
-    .value = { to-compose-address-row-label.value }
-    .tooltiptext = Amosar o campo { to-compose-address-row-label.value } ({ to-compose-show-address-row-menuitem.acceltext })
-
-cc-compose-address-row-label =
-    .value = Cc
-
-#   $key (String) - the shortcut key for this field
-cc-compose-show-address-row-menuitem =
-    .label = Campo { cc-compose-address-row-label.value }
-    .accesskey = C
-    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
-
-cc-compose-show-address-row-label =
-    .value = { cc-compose-address-row-label.value }
-    .tooltiptext = Amosar o campo { cc-compose-address-row-label.value } ({ cc-compose-show-address-row-menuitem.acceltext })
-
-bcc-compose-address-row-label =
-    .value = Cco
-
-#   $key (String) - the shortcut key for this field
-bcc-compose-show-address-row-menuitem =
-    .label = Campo { bcc-compose-address-row-label.value }
-    .accesskey = o
-    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
-
-bcc-compose-show-address-row-label =
-    .value = { bcc-compose-address-row-label.value }
-    .tooltiptext = Amosar o campo { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
-
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-many-public-recipients-info = Os { $count } destinatarios en Para e Cc poden ver os enderezos uns dos outros. Pode evitar divulgar os destinatarios usando no seu lugar Cco.
 
 to-address-row-label =
     .value = Para
@@ -289,3 +225,16 @@ encrypted-bcc-ignore-button = Entendido
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = Retirar o estilo do texto
+
+## Filelink
+
+# Placeholder file
+
+# Template
+
+# Messages
+
+## Link Preview
+
+## Dictionary selection popup
+

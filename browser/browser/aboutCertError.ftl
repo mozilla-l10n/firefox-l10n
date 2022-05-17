@@ -115,7 +115,6 @@ unknownSocketType-title = Resposta inesperada do servidor
 nssFailure2-title = Fallou a conexión segura
 csp-xfo-error-title = { -brand-short-name } non pode abrir esta páxina
 corruptedContentError-title = Erro de contido danado
-remoteXUL-title = XUL remoto
 sslv3Used-title = Non é posíbel conectarse de forma segura
 inadequateSecurityError-title = A súa conexión non é segura
 blockedByPolicy-title = Páxina bloqueada

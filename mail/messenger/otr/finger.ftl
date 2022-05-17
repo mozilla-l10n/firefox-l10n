@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-otr-finger =
-    .buttonlabelaccept = Pechar
-    .title = Impresións dixitais OTR vistas anteriormente
-
 finger-intro = Impresións dixitais das chaves OTR de conversas anteriores cifradas de extremo a extremo.
 
 finger-screen-name =

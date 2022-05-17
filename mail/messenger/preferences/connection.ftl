@@ -26,9 +26,6 @@ connection-dialog-window =
            *[other] width: 49em !important
         }
 
-connection-disable-extension =
-    .label = Desactivar a extensión
-
 connection-proxy-legend = Configurar servidores mandatarios para acceder a Internet
 
 proxy-type-no =

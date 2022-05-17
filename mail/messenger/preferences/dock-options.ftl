@@ -27,4 +27,3 @@ count-new-messages-radio =
     .label = O número de novas mensaxes
     .accesskey = n
 
-notification-settings-info = Pode desactivar o emblema no panel Notificacións das preferencias do sistema.

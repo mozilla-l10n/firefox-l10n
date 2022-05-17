@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "O número de veces que esta función estivo na pila cando o analizador tomou unha mostra.">
 <!ENTITY performanceUI.table.function                 "Función">
 <!ENTITY performanceUI.table.function.tooltip         "O nome e a localización da fonte da función mostreada.">
-<!ENTITY performanceUI.table.totalAlloc               "Total de asignacións de memoria">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "O número total de asignacións de obxecto recollidas nesta localización e nas chamadas.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

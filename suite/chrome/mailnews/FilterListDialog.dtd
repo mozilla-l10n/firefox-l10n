@@ -26,5 +26,3 @@
 <!ENTITY stopFilters.accesskey "D">
 <!ENTITY folderPickerPrefix.label "Executar os filtros seleccionados en:">
 <!ENTITY folderPickerPrefix.accesskey "c">
-<!ENTITY choosethis.label "escoller este cartafol">
-<!ENTITY choosethisnewsserver.label "escoller este servidor de novas">

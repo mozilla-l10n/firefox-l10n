@@ -308,9 +308,6 @@
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Anexo">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
-<!ENTITY editMsgAsNewCmd.label "Editar a mensaxe como nova">
-<!ENTITY editMsgAsNewCmd.accesskey "E">
-<!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Crear filtro a partir da mensaxe…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY archiveMsgCmd.label "Arquivar">
@@ -454,8 +451,6 @@
 <!ENTITY contextOpenNewWindow.accesskey "A">
 <!ENTITY contextOpenNewTab.label "Abrir mensaxe nunha nova lapela">
 <!ENTITY contextOpenNewTab.accesskey "A">
-<!ENTITY contextEditAsNew.label "Editar como novo…">
-<!ENTITY contextEditAsNew.accesskey "E">
 <!ENTITY contextReplySender.label "Responder só ao remitente">
 <!ENTITY contextReplySender.accesskey "o">
 <!ENTITY contextReplyList.label "Responder á lista">

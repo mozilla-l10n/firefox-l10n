@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Engadir etiquetas
+
 pocket-panel-saved-error-generic = Produciuse un erro ao tentar gardar en { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = As etiquetas está limitadas a 25 caracteres
 pocket-panel-saved-error-only-links = Só se poden gardar ligazóns
@@ -47,3 +48,8 @@ pocket-panel-home-paragraph = Pode empregar { -pocket-brand-name } para explorar
 pocket-panel-home-explore-popular-topics = Explorar temas populares
 pocket-panel-home-discover-more = Descubrir máis
 pocket-panel-home-explore-more = Explorar
+
+## Pocket panel header component
+
+## Pocket panel buttons
+

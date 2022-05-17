@@ -4,3 +4,12 @@
 
 provisioner-searching-icon =
     .alt = Buscando…
+
+## Forms
+
+## Notifications
+
+## Illustrations
+
+## Search results
+

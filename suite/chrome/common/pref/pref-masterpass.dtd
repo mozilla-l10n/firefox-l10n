@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  pref.masterpass.title                  "Contrasinais principais">
-
 <!ENTITY  changepassword.caption                 "Modificar o contrasinal principal">
 <!ENTITY  changepassword.text                    "O seu contrasinal principal protexe información confidencial como contrasinais de sitios web e certificados.">
 <!ENTITY  changepassword.button                  "Cambiar contrasinal…">
@@ -11,5 +9,3 @@
 
 <!ENTITY  resetpassword.caption                  "Restabelecer o contrasinal principal">
 <!ENTITY  resetpassword.text                     "Se restabelece o seu contrasinal principal, perderanse todos os contrasinais gardados dos seus sitios web e correos, datos de formularios, certificados persoais e chaves privadas.">
-<!ENTITY  resetpassword.button                   "Restabelecer o contrasinal">
-<!ENTITY  resetpassword.accesskey                "R">

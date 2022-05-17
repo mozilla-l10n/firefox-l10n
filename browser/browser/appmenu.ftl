@@ -5,23 +5,21 @@
 
 ## App Menu
 
-appmenuitem-update-banner3 =
-    .label-update-downloading = A descargar a actualización de { -brand-shorter-name }
-    .label-update-available = Actualización dispoñíbel — descargar agora
-    .label-update-manual = Actualización dispoñíbel — descargar agora
-    .label-update-unsupported = Imposíbel actualizar — sistema incompatíbel
-    .label-update-restart = Actualización dispoñíbel — reiniciar agora
-appmenuitem-protection-dashboard-title = Panel de proteccións
 appmenuitem-banner-update-downloading =
     .label = A descargar a actualización de { -brand-shorter-name }
+
 appmenuitem-banner-update-available =
     .label = Actualización dispoñíbel — descargar agora
+
 appmenuitem-banner-update-manual =
     .label = Actualización dispoñíbel — descargar agora
+
 appmenuitem-banner-update-unsupported =
     .label = Imposíbel actualizar — sistema incompatíbel
+
 appmenuitem-banner-update-restart =
     .label = Actualización dispoñíbel — reiniciar agora
+
 appmenuitem-new-tab =
     .label = Nova lapela
 appmenuitem-new-window =
@@ -58,6 +56,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Pechar menú da aplicación
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -78,23 +77,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Acceda para sincronizar…
 appmenu-remote-tabs-turn-on-sync =
     .label = Activar a sincronización ...
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Mostrar máis lapelas
     .tooltiptext = Amosar máis lapelas deste dispositivo
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ningunha lapela aberta
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Active a sincronización de lapelas para ver a lista de lapelas dos outros dispositivos.
+
 appmenu-remote-tabs-opensettings =
     .label = Configuración
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Quere ver aquí as lapelas dos outros dispositivos?
+
 appmenu-remote-tabs-connectdevice =
     .label = Conectar outro dispositivo
 appmenu-remote-tabs-welcome = Ver unha lista de lapelas doutros dispositivos.
 appmenu-remote-tabs-unverified = Necesita comprobar a súa conta.
+
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar agora
 appmenuitem-fxa-sign-in = Iniciar sesión en { -brand-product-name }
 appmenuitem-fxa-manage-account = Xestionar conta
@@ -108,13 +114,14 @@ appmenu-fxa-sync-and-save-data2 = Sincronizar e gardar datos
 appmenu-fxa-signed-in-label = Identificarse
 appmenu-fxa-setup-sync =
     .label = Activar a sincronización
-appmenu-fxa-show-more-tabs = Mostrar máis lapelas
+
 appmenuitem-save-page =
     .label = Gardar páxina como…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Novidades
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -128,48 +135,53 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Perfilador
     .tooltiptext = Gravar un perfil de rendemento
+
 profiler-popup-button-recording =
     .label = Perfilador
     .tooltiptext = O perfilador está a gravar un perfil
+
 profiler-popup-button-capturing =
     .label = Perfilador
     .tooltiptext = O perfilador está a capturar un perfil
+
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Revelar máis información
+
 profiler-popup-description-title =
     .value = Grava, analiza, comparte
+
 profiler-popup-description = Colabore coas incidencias de rendemento publicando perfís para compartir co teu equipo.
-profiler-popup-learn-more = Saber máis
+
 profiler-popup-learn-more-button =
     .label = Saber máis
+
 profiler-popup-settings =
     .value = Configuración
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings = Editar a configuración ...
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Editar a configuración ...
-profiler-popup-disabled =
-    O perfilador está actualmente desactivado, moi probablemente debido a que unha xanela
-    de navegación privada estea aberta.
+
 profiler-popup-recording-screen = Gravando…
-# The profiler presets list is generated elsewhere, but the custom preset is defined
-# here only.
-profiler-popup-presets-custom =
-    .label = Personalizar
+
 profiler-popup-start-recording-button =
     .label = Comezar a gravación
+
 profiler-popup-discard-button =
     .label = Desbotar
+
 profiler-popup-capture-button =
     .label = Capturar
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Maiús+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -187,28 +199,23 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Predefinido recomendado para a maioría da depuración de aplicacións web, con sobrecarga baixa.
 profiler-popup-presets-web-developer-label =
     .label = Desenvolvedor web
-profiler-popup-presets-firefox-platform-description = Predefinición recomendada para a depuración interna da plataforma Firefox.
-profiler-popup-presets-firefox-platform-label =
-    .label = Plataforma Firefox
-profiler-popup-presets-firefox-front-end-description = Predefinición recomendada para a depuración interna da interface gráfica do Firefox.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Interface gráfica do Firefox
-profiler-popup-presets-firefox-graphics-description = Preestablecemento recomendado para a investigación do rendemento gráfico de Firefox.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Gráficos de Firefox
-profiler-popup-presets-media-description = Predefinición recomendada para diagnosticar problemas de son e vídeo.
+
 profiler-popup-presets-firefox-description = Configuración predeterminada recomendada para o perfil { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+
 profiler-popup-presets-graphics-description = Predefinido para investigar erros de gráficos en { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Gráficos
+
 profiler-popup-presets-media-description2 = Predefinido para investigar erros de son e de vídeo en { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Recursos
+
 profiler-popup-presets-networking-description = Predefinido para investigar erros de rede en { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rede
+
 profiler-popup-presets-custom-label =
     .label = Personalizado
 
@@ -243,9 +250,6 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = p
 appmenu-help-report-site-issue =
     .label = Informar dunha incidencia no sitio…
-appmenu-help-feedback-page =
-    .label = Enviar opinión…
-    .accesskey = o
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -271,8 +275,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personalizar a barra de ferramentas…
-appmenu-taskmanager =
-    .label = Xestor de tarefas
+
 appmenu-developer-tools-subheader = Caixa de ferramentas do navegador
 appmenu-developer-tools-extensions =
     .label = Extensións para desenvolvedores
