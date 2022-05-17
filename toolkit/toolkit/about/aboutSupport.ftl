@@ -28,6 +28,7 @@ app-basics-build-config = ନିର୍ମିତ ସଂରଚନା
 app-basics-user-agent = ଚାଳକ ଯନ୍ତ୍ର
 app-basics-memory-use = ସ୍ମୃତିସ୍ଥାନ ବ୍ୟବହାର
 app-basics-multi-process-support = ବହୁକାର୍ଯ୍ୟ ବିଶିଷ୍ଟ ୱିଣ୍ଡୋ
+
 modified-key-prefs-title = ଆବଶ୍ୟକୀୟ ପରିବର୍ତ୍ତିତ ପସନ୍ଦଗୁଡ଼ିକ
 modified-prefs-name = ନାମ
 modified-prefs-value = ମୂଲ୍ୟ

@@ -19,36 +19,13 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = ପୁନଃଚାଳନ
     .accesskey = R
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = ଧାରଣ କରିଥିବା ଫୋଲଡରଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ
-    .accesskey = F
   
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = ସନ୍ଧାନ ସ୍ଥାନରେ ଦର୍ଶାନ୍ତୁ
-    .accesskey = F
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] ସନ୍ଧାନ ସ୍ଥାନରେ ଦର୍ଶାନ୍ତୁ
-           *[other] ଧାରଣ କରିଥିବା ଫୋଲଡରଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] ସନ୍ଧାନ ସ୍ଥାନରେ ଦର୍ଶାନ୍ତୁ
-           *[other] ଧାରଣ କରିଥିବା ଫୋଲଡରଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] ସନ୍ଧାନ ସ୍ଥାନରେ ଦର୍ଶାନ୍ତୁ
-           *[other] ଧାରଣ କରିଥିବା ଫୋଲଡରଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ
-        }
+##
 
 downloads-cmd-retry =
     .tooltiptext = ପୁନଃପ୍ରୟାସ କରନ୍ତୁ
@@ -84,6 +61,13 @@ downloads-history =
     .label = ସମସ୍ତ ଆହରଣଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ
     .accesskey = S
 
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
+
 downloads-clear-downloads-button =
     .label = ଆହରଣଗୁଡ଼ିକୁ ସଫାକରନ୍ତୁ
     .tooltiptext = ସଫା କରାସରିଛି, ବାତିଲ ହୋଇଛି ଏବଂ ଆହରଣ ବିଫଳ ହୋଇଛି
@@ -96,3 +80,4 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = ଏହି ଅଧିବେଶନ ପାଇଁ କୌଣସି ଆହରଣ ନାହିଁ।
+

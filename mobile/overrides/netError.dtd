@@ -90,9 +90,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "<p>ଆପଣଙ୍କୁ ବ୍ୟତୀକ୍ରମ ଯୋଗ କରିବା ଉଚିତ ନୁହୁଁ ଯଦି ଆପଣ ଇଣ୍ଟର୍ନେଟ ସଂଯୋଗ ବ୍ୟବହାର କରୁଛନ୍ତି ଯାହା ଉପରେ ଆପଣ ସମ୍ପୂର୍ଣ୍ଣ ଭାବରେ ବିଶ୍ୱାସ କରୁନାହାନ୍ତି କିମ୍ବା ଯଦି ଆପଣ ଏହି ସର୍ଭର ପାଇଁ  ଚେତାବନୀ ଦେଖୁନଥିବେ।</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "ସୁଦୂର XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>ଏହି ସମସ୍ୟା ବିଷୟରେ ଅବଗତ କରାଇବା ପାଇଁ ଦୟାକରି ୱେବସାଇଟ ମାଲିକଙ୍କ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ।</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "ଉନ୍ନତ ତଥ୍ୟ: SSL_ERROR_UNSUPPORTED_VERSION">

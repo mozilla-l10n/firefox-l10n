@@ -64,7 +64,6 @@ about-logins-list-item-vulnerable-password-icon =
 
 about-logins-login-intro-heading-logged-in = କୌଣସି ସମସାମୟିକ ଲଗ-ଇନ ମିଳିଲା ନାହିଁ
 login-intro-description = ଯଦି ଆପଣ { -brand-product-name } ପାଇଁ ଆପଣଙ୍କର ଲଗ ଇନଗୁଡ଼ିକୁ ଅନ୍ୟ ଏକ ଉପକରଣରେ ସଂରକ୍ଷିତ କରିଛନ୍ତି, ତେବେ ତାହାକୁ କିପରି ଏଠାକୁ ଆଣିବେ ଦେଖନ୍ତୁ:
-about-logins-intro-import = ଯଦି ଆପଣଙ୍କର ଲଗଇନ୍ ଅନ୍ୟ ବ୍ରାଉଜରରେ ସେଭ୍ ହୋଇଛି, ଆପଣ <a data-l10n-name="import-link"> ସେଗୁଡିକୁ { -lockwise-brand-short-name } </a> ରେ ଆମଦାନୀ କରିପାରିବେ
 
 ## Login
 

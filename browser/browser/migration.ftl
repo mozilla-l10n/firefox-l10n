@@ -47,16 +47,8 @@ import-done-page-title = ଆମଦାନୀ ସମ୍ପୂର୍ଣ୍ଣ ହ�
 
 import-done-description = ନିମ୍ନଲିଖିତ ବସ୍ତୁଗୁଡ଼ିକ ସଫଳତାରସହିତ ଆମଦାନୀ ହୋଇସାରିଛି:
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = { $source } ରୁ
-
 source-name-ie = Internet Explorer
-source-name-safari = Safari
 source-name-chrome = Google Chrome
-source-name-firefox = Mozilla Firefox
 
 imported-safari-reading-list = ତାଲିକା ପଢ଼ୁଅଛି (ସଫାରିରୁ)
 

@@ -8,6 +8,7 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = ଇଚ୍ଛାରୂପଣ କରନ୍ତୁ…
     .accesskey = C
+
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = ତାଲିକା ପଟି
     .accesskey = M

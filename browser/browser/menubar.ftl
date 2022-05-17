@@ -39,15 +39,6 @@ menu-quit =
 menu-quit-mac =
     .label = { -brand-shorter-name } ଛାଡ଼ନ୍ତୁ
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = { -brand-shorter-name } ଛାଡ଼ନ୍ତୁ
-
 menu-about =
     .label = { -brand-shorter-name } ବାବଦରେ
     .accesskey = A
@@ -77,9 +68,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = ଫାଇଲ ଖୋଲନ୍ତୁ…
     .accesskey = O
-menu-file-close =
-    .label = ବନ୍ଦକରନ୍ତୁ
-    .accesskey = C
 menu-file-close-window =
     .label = ୱିଣ୍ଡୋ ବନ୍ଦ କରନ୍ତୁ
     .accesskey = d
@@ -92,9 +80,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = ପୃଷ୍ଠା ବିନ୍ୟାସ…
     .accesskey = u
-menu-file-print-preview =
-    .label = ମୁଦ୍ରଣ ପ୍ରାକଦର୍ଶନ
-    .accesskey = v
 menu-file-print =
     .label = ମୁଦ୍ରଣ କରନ୍ତୁ…
     .accesskey = P
@@ -267,6 +252,3 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = ସହାୟତା
     .accesskey = H
-menu-help-feedback-page =
-    .label = ମତାମତ ଦାଖଲ କରନ୍ତୁ…
-    .accesskey = S

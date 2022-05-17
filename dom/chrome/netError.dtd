@@ -78,9 +78,6 @@
 <!ENTITY corruptedContentErrorv2.title "ତ୍ରୁଟିଯୁକ୍ତ ବିଷୟବସ୍ତୁ ତ୍ରୁଟି">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>ଆପଣ ଦେଖିବାକୁ ଚାହୁଁଥିବା ପୃଷ୍ଠାକୁ ଦର୍ଶାଯାଇ ପାରିବ ନାହିଁ କାରଣ ତଥ୍ୟ ପରିବହନରେ ଗୋଟିଏ ତ୍ରୁଟି ଦେଖା ଦେଇଛି।</p><ul><li>ଏହି ସମସ୍ୟା ବିଷୟରେ ଅଗଚର କରାଇବା ପାଇଁ ଦୟାକରି ୱେବସାଇଟ ମାଲିକଙ୍କ ସହିତ ସମ୍ପର୍କ କରନ୍ତୁ।</li></ul>">
 
-<!ENTITY remoteXUL.title "ସୁଦୂର XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>ଏହି ସମସ୍ୟା ବିଷୟରେ ଅବଗତ କରାଇବା ପାଇଁ ଦୟାକରି ୱେବସାଇଟ ମାଲିକଙ୍କ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ।</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

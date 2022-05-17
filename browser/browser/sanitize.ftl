@@ -62,10 +62,6 @@ item-form-search-history =
 
 data-section-label = ତଥ୍ୟ
 
-item-site-preferences =
-    .label = ସାଇଟ ପସନ୍ଦଗୁଡ଼ିକ
-    .accesskey = S
-
 item-offline-apps =
     .label = ଅଫ ଲାଇନ ୱେବସାଇଟ ତଥ୍ୟ
     .accesskey = O
