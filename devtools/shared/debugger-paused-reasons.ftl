@@ -17,30 +17,39 @@
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused due to a `debugger` statement in the code
 whypaused-debugger-statement = Pausau en una sentencia de depuración
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a breakpoint
 whypaused-breakpoint = Pausau en un punto d'aturada
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Pausau en una excepción
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Pausau quan iba paso a paso
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a dom event
 whypaused-pause-on-dom-events = Pausau en un escuitador d'evento
+
 # The text that is displayed in an info block when evaluating a conditional
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Error en o punto d'aturada condicional
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = Pausau en refús de promesa
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = Pausau en una afirmación
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a debugger statement
 whypaused-debug-command = Pausau en una función depurada
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an event listener breakpoint set
 whypaused-other = Depuración pausada

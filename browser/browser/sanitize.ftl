@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Datos
 
-item-site-preferences =
-    .label = Preferencias d'o puesto
-    .accesskey = r
-
 item-offline-apps =
     .label = Datos de puestos web sin connexión
     .accesskey = t

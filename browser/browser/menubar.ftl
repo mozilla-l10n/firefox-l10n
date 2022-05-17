@@ -41,15 +41,6 @@ menu-quit =
 menu-quit-mac =
     .label = Salir d'o { -brand-shorter-name }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Salir d'o { -brand-shorter-name }
-
 menu-about =
     .label = Arredol d'o { -brand-shorter-name }
     .accesskey = d
@@ -79,9 +70,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Ubrir un fichero…
     .accesskey = U
-menu-file-close =
-    .label = Zarrar
-    .accesskey = Z
 menu-file-close-window =
     .label = Zarrar a finestra
     .accesskey = f
@@ -94,9 +82,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Configurar pachina…
     .accesskey = f
-menu-file-print-preview =
-    .label = Previsualización
-    .accesskey = r
 menu-file-print =
     .label = Imprentar…
     .accesskey = m
@@ -275,9 +260,6 @@ menu-help =
     .accesskey = u
 menu-help-report-site-issue =
     .label = Reportar un problema con o puesto…
-menu-help-feedback-page =
-    .label = Ninviar una opinión…
-    .accesskey = v
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

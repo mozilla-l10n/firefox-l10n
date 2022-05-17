@@ -19,7 +19,3 @@ client, supporting advanced junk mail detection and other useful features.">
 <!ENTITY dict.title "Diccionarios">
 <!ENTITY dict_intro.label "Os diccionarios s'usan ta comprobar a ortografía d'os suyos mensaches.">
 <!ENTITY info.title "Mas información">
-<!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
-<!ENTITY info_bugs.label '<a href="http://www.mozilla.org/mailnews/">Nusatros</a> agradeixemos los informes 
-de fallos y solicitutz de nuevas caracteristicas, pero por favor antes leiga las 
-<a id="releaseNotesURL" href="">notas de publicación</a> y consulte <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>

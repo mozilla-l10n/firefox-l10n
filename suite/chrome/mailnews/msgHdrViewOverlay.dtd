@@ -23,9 +23,6 @@
 <!ENTITY inReplyToField.label "In-Reply-To: ">
 <!ENTITY originalWebsite.label "Puesto web: ">
 
-<!ENTITY editMessage.label                 "Yditar borrador…">
-<!ENTITY editMessage.accesskey             "d">
-
 <!ENTITY attachmentsTree.label             "Adjuntos:">
 <!ENTITY attachmentsTree.accesskey         "d">
 <!ENTITY openAttachmentCmd.label           "Abrir">

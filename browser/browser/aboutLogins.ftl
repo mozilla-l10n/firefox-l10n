@@ -62,7 +62,6 @@ about-logins-list-item-vulnerable-password-icon =
 
 about-logins-login-intro-heading-logged-in = No s'ha trobau garra inicio de sesión sincronizau.
 login-intro-description = Si has alzau inicios de sesión en { -brand-product-name } en belatro dispositivo, esta ye la manera de tener-los tamién aquí:
-about-logins-intro-import = Si los inicios de sesión s'han alzau en belatro ordinador, puetz <a data-l10n-name="import-link">importar-los en { -lockwise-brand-short-name }</a>
 
 about-logins-intro-import2 = Si os tuyos inicios de sesión son guardaus defuera de { -brand-product-name }, puetz <a data-l10n-name="import-browser-link"> importar-los dende atro navegador</a> u <a data-l10n-name="import-file-link"> dende un archivo</a>
 

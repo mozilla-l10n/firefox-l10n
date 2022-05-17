@@ -115,7 +115,6 @@ unknownSocketType-title = Respuesta inasperada d'o servidor
 nssFailure2-title = Ha fallau la connexión segura
 csp-xfo-error-title = { -brand-short-name } no puet ubrir esta pachina
 corruptedContentError-title = Error en o conteniu d'a pachina
-remoteXUL-title = XUL remoto
 sslv3Used-title = No ye posible connectar de traza segura
 inadequateSecurityError-title = La connexion no ye pas segura
 blockedByPolicy-title = Pachina blocada

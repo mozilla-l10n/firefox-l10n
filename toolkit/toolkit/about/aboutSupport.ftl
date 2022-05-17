@@ -67,6 +67,7 @@ app-basics-location-service-key-google = Clau d'o servicio de plazamiento de Goo
 app-basics-safebrowsing-key-google = Clau d'o servicio de navegación segura de Google
 app-basics-key-mozilla = Clau d'o servicio de plazamiento de Mozilla
 app-basics-safe-mode = Modo seguro
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Amostrar en o Finder
