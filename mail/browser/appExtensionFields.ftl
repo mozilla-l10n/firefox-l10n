@@ -12,5 +12,6 @@ extension-default-theme-description=Dem Theme des Betriebssystems f√ºr Schaltfl√
 
 extension-thunderbird-compact-light-name = Hell
 extension-thunderbird-compact-light-description = Ein Theme mit hellen Farben.
+
 extension-thunderbird-compact-dark-name = Dunkel
 extension-thunderbird-compact-dark-description = Ein Theme mit dunklen Farben.

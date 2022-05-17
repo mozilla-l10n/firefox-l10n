@@ -28,3 +28,4 @@ openpgp-key-undecided = Nicht akzeptiert (nicht entschieden)
 openpgp-key-rejected = Nicht akzeptiert (abgelehnt)
 
 openpgp-intro = Verfügbare öffentliche Schlüssel für { $key }
+

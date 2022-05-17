@@ -27,6 +27,4 @@ count-new-messages-radio =
     .label = Anzahl neuer Nachrichten
     .accesskey = n
 
-notification-settings-info = Der Zähler kann in der Mitteilungen-Ansicht der Systemeinstellungen deaktiviert werden.
-
 notification-settings-info2 = Der Zähler kann in der Mitteilungen-Ansicht der Systemeinstellungen deaktiviert werden.

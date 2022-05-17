@@ -173,8 +173,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Fehler an Mozilla melden, um beim Identifizieren und Blockieren böswilliger Websites zu helfen">
 <!ENTITY errorReporting.learnMore "Weitere Informationen…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Bitte informieren Sie den Website-Inhaber über dieses Problem.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Weitere Informationen: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -200,9 +198,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Dies könnte durch die Netzwerk-Sicherheitseinstellungen verursacht werden. Sollen die Standardeinstellungen wiederhergestellt werden?">
 <!ENTITY prefReset.label "Standardeinstellungen wiederherstellen">
-
-<!ENTITY enableTls10.longDesc "Diese Website unterstützt eventuell Version 1.2 des TLS-Protokolls nicht, welche die niedrigste von &brandShortName; unterstützte Version ist. Nach dem Aktivieren von TLS 1.0 und 1.1 ist die Verbindung möglicherweise erfolgreich.">
-<!ENTITY enableTls10.note "TLS 1.0 und TLS 1.1 werden in einer zukünftigen Version dauerhaft deaktiviert.">
-<!ENTITY enableTls10.label "TLS 1.0 und 1.1 aktivieren">
 
 <!ENTITY networkProtocolError.longDesc "<p>Die angeforderte Seite kann nicht angezeigt werden, da ein Fehler bei der Verwendung des Netzwerkprotokolls festgestellt wurde.</p><ul><li>Kontaktieren Sie bitte die Betreiber der Website, um sie über dieses Problem zu informieren.</li></ul>">

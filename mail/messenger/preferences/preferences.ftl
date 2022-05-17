@@ -5,8 +5,6 @@
 close-button =
     .aria-label = Schließen
 
-preferences-doc-title = Einstellungen
-
 preferences-doc-title2 = Einstellungen
 
 category-list =
@@ -167,9 +165,6 @@ restore-default-label =
     .accesskey = w
 
 default-search-engine = Standardsuchmaschine
-add-search-engine =
-    .label = Aus Datei hinzufügen
-    .accesskey = D
 add-web-search-engine =
     .label = Hinzufügen…
     .accesskey = H
@@ -207,8 +202,6 @@ change-dock-icon = Einstellungen für Dock-Symbol ändern
 app-icon-options =
     .label = Dock-Symbol-Einstellungen…
     .accesskey = D
-
-notification-settings = Benachrichtigungen und Standardton können in der Mitteilungszentrale der Systemeinstellungen deaktiviert werden.
 
 notification-settings2 = Benachrichtigungen und Standardton können in der Mitteilungszentrale der Systemeinstellungen deaktiviert werden.
 
@@ -428,11 +421,7 @@ quoted-text-color =
 search-handler-table =
     .placeholder = Dateitypen und Aktionen suchen
 
-type-column-label = Dateityp
-
 type-column-header = Dateityp
-
-action-column-label = Aktion
 
 action-column-header = Aktion
 
@@ -588,12 +577,6 @@ restore-html-label =
 default-format-label =
     .label = Format "Absatz" anstatt "Normaler Text" verwenden
     .accesskey = F
-
-format-description = Verhalten beim Senden von HTML-Nachrichten:
-
-send-options-label =
-    .label = Sendeoptionen…
-    .accesskey = o
 
 autocomplete-description = Beim Adressieren von Nachrichten nach passenden Einträgen suchen in:
 
@@ -877,8 +860,6 @@ theme-label =
     .value = Erscheinungsbild:
     .accesskey = E
 
-style-thunderbird =
-    .label = Thunderbird
 style-bubbles =
     .label = Sprechblasen
 style-dark =
@@ -895,18 +876,6 @@ no-preview-description = Dieses Erscheinungsbild ist ungültig oder derzeit nich
 chat-variant-label =
     .value = Variante:
     .accesskey = V
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-preferences-input =
-    .style = width: 15.4em
-    .placeholder = In Einstellungen suchen
 
 ## Preferences UI Search Results
 
@@ -925,12 +894,6 @@ search-preferences-input2 =
 ## Settings UI Search Results
 
 search-results-header = Suchergebnisse
-
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message = { PLATFORM() ->
-    [windows] Keine Treffer in den Einstellungen für "<span data-l10n-name="query"></span>".
-    *[other] Keine Treffer in den Einstellungen für "<span data-l10n-name="query"></span>".
-}
 
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = { PLATFORM() ->

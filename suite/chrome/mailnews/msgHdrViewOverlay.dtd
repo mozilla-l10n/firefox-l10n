@@ -23,9 +23,6 @@
 <!ENTITY inReplyToField.label "Als-Antwort-auf: ">
 <!ENTITY originalWebsite.label "Website:">
 
-<!ENTITY editMessage.label                 "Entwurf bearbeiten…">
-<!ENTITY editMessage.accesskey             "E">
-
 <!ENTITY editDraft.label                   "Entwurf bearbeiten…">
 <!ENTITY editDraft.accesskey               "E">
 <!ENTITY editTemplate.label                "Vorlage bearbeiten…">

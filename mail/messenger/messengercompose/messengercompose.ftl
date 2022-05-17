@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+## Send Format
+
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -69,10 +71,6 @@ toolbar-button-add-attachment =
     .label = Anhängen
     .tooltiptext = Anhang hinzufügen ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
 
-add-attachment-notification-reminder =
-    .label = Anhang hinzufügen…
-    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
-
 menuitem-attach-files =
     .label = Datei(en)…
     .accesskey = D
@@ -82,18 +80,6 @@ context-menuitem-attach-files =
     .label = Datei(en) anhängen…
     .accesskey = D
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
-
-#   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count = { $count ->
-    [1]      { $count } Anhang
-    *[other] { $count } Anhänge
-}
-
-expand-attachment-pane-tooltip =
-    .tooltiptext = Anhangbereich anzeigen ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Anhangbereich ausblenden ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 
 drop-file-label-attachment = { $count ->
     [one]   Als Anhang hinzufügen
@@ -124,48 +110,6 @@ button-return-receipt =
 
 # Addressing Area
 
-to-compose-address-row-label =
-    .value = An
-
-#   $key (String) - the shortcut key for this field
-to-compose-show-address-row-menuitem =
-    .label = Feld "{ to-compose-address-row-label.value }"
-    .accesskey = A
-    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
-
-to-compose-show-address-row-label =
-    .value = { to-compose-address-row-label.value }
-    .tooltiptext = Anzeigen des Feldes "{ to-compose-address-row-label.value }" ({ to-compose-show-address-row-menuitem.acceltext })
-
-cc-compose-address-row-label =
-    .value = Kopie (CC)
-
-#   $key (String) - the shortcut key for this field
-cc-compose-show-address-row-menuitem =
-    .label = Feld "{ cc-compose-address-row-label.value }"
-    .accesskey = K
-    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
-
-cc-compose-show-address-row-label =
-    .value = { cc-compose-address-row-label.value }
-    .tooltiptext = Anzeigen des Feldes "{ cc-compose-address-row-label.value }" ({ cc-compose-show-address-row-menuitem.acceltext })
-
-bcc-compose-address-row-label =
-    .value = Blindkopie (BCC)
-
-#   $key (String) - the shortcut key for this field
-bcc-compose-show-address-row-menuitem =
-    .label = Feld "{ bcc-compose-address-row-label.value }"
-    .accesskey = B
-    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
-
-bcc-compose-show-address-row-label =
-    .value = { bcc-compose-address-row-label.value }
-    .tooltiptext = Anzeigen des Feldes "{ bcc-compose-address-row-label.value }" ({ bcc-compose-show-address-row-menuitem.acceltext })
-
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-many-public-recipients-info = Die {$count} Empfänger in den Feldern "An" und "Kopie (CC)" können die Adressen aller Beteiligten in diesen Feldern sehen. Das Veröffentlichen der Empfänger kann durch Verwenden des Feldes "Blindkopie (BCC)" verhindert werden.
-
 
 many-public-recipients-bcc =
   .label = Blindkopie (BCC) stattdessen verwenden
@@ -191,3 +135,16 @@ encrypted-bcc-ignore-button = OK
 
 compose-tool-button-remove-text-styling =
   .tooltiptext = Textformatierung entfernen
+
+## Filelink
+
+# Placeholder file
+
+# Template
+
+# Messages
+
+## Link Preview
+
+## Dictionary selection popup
+

@@ -135,3 +135,6 @@ about-addressbook-details-phone-numbers-header = Telefonnummern
 about-addressbook-details-home-address-header = Privatadresse
 about-addressbook-details-work-address-header = Dienstadresse
 about-addressbook-details-other-info-header = Weitere Informationen
+
+# Photo dialog
+

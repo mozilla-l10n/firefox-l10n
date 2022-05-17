@@ -5,27 +5,15 @@
 receipts-dialog-window =
     .title = Empfangsbestätigungen (MDN)
 
-return-receipt-checkbox =
-    .label = Immer eine Empfangsbestätigung anfordern
-    .accesskey = m
-
 return-receipt-checkbox-control =
     .label = Beim Senden von Nachrichten immer eine Empfangsbestätigung anfordern
     .accesskey = m
 
 receipt-arrive-label = Wenn eine Empfangsbestätigung ankommt:
 
-receipt-leave-radio =
-    .label = Im Posteingang belassen
-    .accesskey = P
-
 receipt-leave-radio-control =
     .label = Im Posteingang belassen
     .accesskey = P
-
-receipt-move-radio =
-    .label = In den Ordner für gesendete Nachrichten verschieben
-    .accesskey = O
 
 receipt-move-radio-control =
     .label = In den Ordner für gesendete Nachrichten verschieben
@@ -33,25 +21,13 @@ receipt-move-radio-control =
 
 receipt-request-label = Wenn aufgefordert wird, eine Empfangsbestätigung zu senden:
 
-receipt-return-never-radio =
-    .label = Nie eine Empfangsbestätigung senden
-    .accesskey = N
-
 receipt-return-never-radio-control =
     .label = Nie eine Empfangsbestätigung senden
     .accesskey = N
 
-receipt-return-some-radio =
-    .label = Bei manchen Nachrichten Empfangsbestätigungen erlauben
-    .accesskey = B
-
 receipt-return-some-radio-control =
     .label = Bei manchen Nachrichten Empfangsbestätigungen erlauben
     .accesskey = B
-
-receipt-not-to-cc =
-    .value = Wenn ich nicht in der An- oder CC-Zeile stehe:
-    .accesskey = W
 
 receipt-not-to-cc-label =
     .value = Wenn ich nicht in der An- oder CC-Zeile stehe:
@@ -66,17 +42,9 @@ receipt-send-always-label =
 receipt-send-ask-label =
     .label = Fragen
 
-sender-outside-domain =
-    .value = Wenn der Absender außerhalb meiner Domain ist:
-    .accesskey = E
-
 sender-outside-domain-label =
     .value = Wenn der Absender außerhalb meiner Domain ist:
     .accesskey = E
-
-other-cases-label =
-    .value = In allen anderen Fällen:
-    .accesskey = n
 
 other-cases-text-label =
     .value = In allen anderen Fällen:
