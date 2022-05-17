@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = សកម្ម
 about-networking-idle = ទំនេរ
 about-networking-host = ម៉ាស៊ីន
-about-networking-tcp = TCP
 about-networking-sent = បាន​ផ្ញើ
 about-networking-received = បាន​ទទួល​​
 about-networking-family = គ្រួសារ

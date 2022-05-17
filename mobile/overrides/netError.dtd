@@ -141,9 +141,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "<p>អ្នក​មិន​គូរ​បន្ថែម​ករណី​លើកលែង​ទេ ប្រសិនបើ​អ្នក​កំពុងតែ​ប្រើ​ការ​តភ្ជាប់​អ៊ីនធឺណិត​ដែល​អ្នក​មិន​ទុកចិត្ត​ទាំងស្រុង ឬ​ប្រសិនបើ​អ្នក មិន​ធ្លាប់​ឃើញ​ការ​ព្រមាន​ណាមួយ​សម្រាប់​ម៉ាស៊ីន​បម្រើ​នេះ ។</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "XUL ពី​ចម្ងាយ">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>សូម​ទាក់ទង​ម្ចាស់​តំបន់បណ្ដាញ​ ដើម្បី​ប្រាប់​ពួក​គេ​ឲ្យ​ដឹង​អំពី​បញ្ហា​នេះ ។</li></ul></p>">
-
 <!ENTITY sslv3Used.title "មិន​អាច​តភ្ជាប់​ដោយ​មាន​សុវត្ថិភាព">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->

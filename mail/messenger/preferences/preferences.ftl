@@ -223,14 +223,6 @@ quoted-text-color =
     .label = ពណ៌៖
     .accesskey = o
 
-type-column-label =
-    .label = Պարունակության տեսակը
-    .accesskey = T
-
-action-column-label =
-    .label = Գործողություն
-    .accesskey = A
-
 save-to-label =
     .label = Պահել ֆայլերը՝
     .accesskey = S
@@ -360,12 +352,6 @@ bg-color-label =
 restore-html-label =
     .label = Restore Defaults
     .accesskey = R
-
-format-description = Configure text format behavior
-
-send-options-label =
-    .label = Send Options…
-    .accesskey = S
 
 autocomplete-description = When addressing messages, look for matching entries in:
 
@@ -584,4 +570,6 @@ chat-browse-sound-button =
     .accesskey = B
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

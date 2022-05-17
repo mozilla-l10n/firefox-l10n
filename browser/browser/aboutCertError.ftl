@@ -115,7 +115,6 @@ unknownSocketType-title = ចម្លើយតប​ពី​ម៉ាស៊ី
 nssFailure2-title = ​ការ​តភ្ជាប់​សុវត្ថិភាព​បរាជ័យ
 csp-xfo-error-title = { -brand-short-name } មិនអាចបើកទំព័រនេះបានទេ
 corruptedContentError-title = កំហុស​មាតិកា​ដែល​ខូច
-remoteXUL-title = XUL ពី​ចម្ងាយ
 sslv3Used-title = មិន​អាច​តភ្ជាប់​ដោយ​សុវត្ថិភាព​ឡើយ
 inadequateSecurityError-title = ការ​ត​ភ្ជាប់​របស់​អ្នក​មិន​មាន​សុវត្ថិភាពឡើយ​
 blockedByPolicy-title = ទំព័រត្រូវបានទប់ស្កាត់

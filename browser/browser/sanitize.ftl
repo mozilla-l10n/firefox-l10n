@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = ទិន្នន័យ
 
-item-site-preferences =
-    .label = ចំណូល​ចិត្ត​តំបន់​បណ្ដាញ
-    .accesskey = ច
-
 item-offline-apps =
     .label = ទិន្នន័យ​តំបន់​បណ្ដាញ​ក្រៅ​បណ្ដាញ
     .accesskey = ទ

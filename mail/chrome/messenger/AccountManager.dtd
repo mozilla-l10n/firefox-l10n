@@ -17,8 +17,6 @@
 <!ENTITY addIMAccountButton.accesskey "C">
 <!ENTITY addFeedAccountButton.label "បន្ថែម​គណនី​មតិ​ព័ត៌មាន...">
 <!ENTITY addFeedAccountButton.accesskey "F">
-<!ENTITY addOtherAccountButton.label "Ավելացնել փոստարկղ...">
-<!ENTITY addOtherAccountButton.accesskey "O">
 <!ENTITY setDefaultButton.label "Նշել որպես հիմնական">
 <!ENTITY setDefaultButton.accesskey "D">
 <!ENTITY removeButton.label "Ջնջել փոստարկղը">
@@ -35,6 +33,4 @@
      this window for en-US. -->
 
 <!-- AccountManager.xhtml -->
-<!-- AccountManager.xhtml -->
-<!ENTITY accountManager.size "width: 105ch; height: 55em;">
-<!ENTITY accountTree.width "width: 31ch;">
+

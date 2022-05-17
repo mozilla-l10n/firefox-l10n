@@ -13,12 +13,6 @@ downloads-panel =
 
 ##
 
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-
 downloads-cmd-pause =
     .label = ផ្អាក
     .accesskey = ក
@@ -30,35 +24,12 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = បោះបង់
 
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = បើក​ថត​ដែល​ផ្ទុក
-    .accesskey = ថ
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = បង្ហាញ​នៅ​ក្នុង​កម្មវិធី​រក
-    .accesskey = ប
-
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] បង្ហាញ​នៅ​ក្នុង​កម្មវិធី​រក
-           *[other] បើក​ថត​ដែល​ផ្ទុក
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] បង្ហាញ​នៅ​ក្នុង​កម្មវិធី​រក
-           *[other] បើក​ថត​ដែល​ផ្ទុក
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] បង្ហាញ​នៅ​ក្នុង​កម្មវិធី​រក
-           *[other] បើក​ថត​ដែល​ផ្ទុក
-        }
+##
 
 downloads-cmd-show-downloads =
     .label = បង្ហាញថតទាញយក
@@ -154,6 +125,13 @@ downloads-history =
 downloads-details =
     .title = ព័ត៌មាន​លម្អិត​ការទាញយក
 
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
+
 downloads-clear-downloads-button =
     .label = សម្អាត​ការ​ទាញ​យក
     .tooltiptext = សម្អាត​ការ​ទាញ​យក​ដែល​បាន​បញ្ចប់​ទាំងស្រុង ដែល​បាន​បោះបង់ និង​ដែល​បាន​បរាជ័យ
@@ -166,3 +144,4 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = គ្មាន​ការ​ទាញ​យក​សម្រាប់​សម័យ​នេះ​ទេ។
+
