@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "K">
 <!ENTITY newVirtualFolderCmd.label "Kërkim i Ruajtur…">
 <!ENTITY newVirtualFolderCmd.accesskey "K">
-<!ENTITY newOtherAccountsCmd.label "Tjetër Llogari…">
-<!ENTITY newOtherAccountsCmd.accesskey "T">
 <!ENTITY newCreateEmailAccountCmd.label "Hapni një Llogari të Re Poste…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "H">
 <!ENTITY newExistingEmailAccountCmd.label "Llogari Poste Ekzistuese…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "H">
 <!ENTITY saveAsMenu.label "Ruaje Si">
 <!ENTITY saveAsMenu.accesskey "S">
-<!ENTITY saveAsFileCmd.label "Kartelë">
-<!ENTITY saveAsFileCmd.accesskey "K">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Gjedhe">
 <!ENTITY saveAsTemplateCmd.accesskey "G">

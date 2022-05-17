@@ -35,16 +35,15 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Madhësi shtytëze:
+
 perftools-custom-threads-label = Shtoni rrjedha vetjake sipas emrash:
+
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Rrjedha:
 perftools-devtools-settings-label = Rregullime
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
-perftools-status-private-browsing-notice =
-    Kur është i aktivizuar Shfletimi Privat, profilizuesi është i çaktivizuar.
-    Që të riaktivizohet profilizuesi, mbyllni krejt Dritaret Private
 perftools-status-recording-stopped-by-another-tool = Regjistrimi u ndal nga një mjet tjetër.
 perftools-status-restart-required = Që të aktivizohet kjo veçori, shfletuesi duhet rinisur.
 
@@ -86,6 +85,7 @@ perftools-thread-dns-resolver =
 ##
 
 perftools-record-all-registered-threads = Anashkalo përzgjedhjet më sipër dhe regjistro krejt rrjedha e regjistruara
+
 perftools-tools-threads-input-label =
     .title = Këto emra rrjedhash janë një listë e ndarë me presje, që përdoret për të aktivizuar profilizim rrjedhash te profilizuesi. Emri lypset të jetë vetëm një përputhje e pjesshme e emrit të rrjedhës që duhet përfshirë. Është i ndjeshëm ndaj hapësirave të zbrazëta.
 
@@ -93,9 +93,14 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## devtools.performance.new-panel-onboarding preference is true.
+
 perftools-onboarding-message = <b>E re</b>: { -profiler-brand-name } tani është i integruar me Mjete Zhvilluesi. <a>Mësoni më tepër</a> rreth këtij mjeti të fuqishëm.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Për një kohë të kufizuar, mund të përdorni panelin origjinal Funksionim përmes <a>{ options-context-advanced-settings }</a>)
+
 perftools-onboarding-close-button =
     .aria-label = Mbylle mesazhin e mirëseardhjes
 
@@ -108,14 +113,19 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Zhvillues Web
 perftools-presets-web-developer-description = Profil i gatshëm i rekomanduar për shumicën e diagnostikimit të aplikacioneve web, me kokëçarje të pakta.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Model i rekomanduar për profilizim { -brand-shorter-name }.
+
 perftools-presets-graphics-label = Grafikë
 perftools-presets-graphics-description = Model për hetim të metash grafike në { -brand-shorter-name }.
+
 perftools-presets-media-label = Media
 perftools-presets-media-description2 = Model për hetim të metash audio dhe video nën { -brand-shorter-name }.
+
 perftools-presets-networking-label = Punim në rrjet
 perftools-presets-networking-description = Model për hetim të metash punimi në rrjet në { -brand-shorter-name }.
+
 perftools-presets-custom-label = Vetjak
 
 ##

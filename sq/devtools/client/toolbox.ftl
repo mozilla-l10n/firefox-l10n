@@ -15,11 +15,14 @@ toolbox-meatball-menu-dock-bottom-label = Nguleni poshtë
 toolbox-meatball-menu-dock-left-label = Vendose Majtas
 toolbox-meatball-menu-dock-right-label = Vendose Djathtas
 toolbox-meatball-menu-dock-separate-window-label = Dritare veçmas
+
 toolbox-meatball-menu-splitconsole-label = Shfaq konsol ndarjesh
 toolbox-meatball-menu-hideconsole-label = Fshih konsol ndarjesh
+
 toolbox-meatball-menu-settings-label = Rregullime
 toolbox-meatball-menu-documentation-label = Dokumentim…
 toolbox-meatball-menu-community-label = Bashkësi…
+
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.

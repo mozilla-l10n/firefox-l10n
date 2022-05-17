@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = Gabim Instalimi
 opensearch-error-duplicate-desc = { -brand-short-name }-i nuk instaloi dot shtojcën për kërkime prej "{ $location-url }", ngaqë ka tashmë një motor me të njëjtin emër.
+
 opensearch-error-format-title = Format i Pavlefshëm
 opensearch-error-format-desc = { -brand-short-name }-i s’instaloi dot motorin e kërkimeve prej: { $location-url }
+
 opensearch-error-download-title = Gabim Shkarkimi
 opensearch-error-download-desc = { -brand-short-name }-i nuk shkarkoi dot shtojcën për kërkime prej: { $location-url }
 
@@ -19,9 +21,11 @@ opensearch-error-download-desc = { -brand-short-name }-i nuk shkarkoi dot shtojc
 
 searchbar-submit =
     .tooltiptext = Parashtrojeni kërkimin
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Kërkoni
+
 searchbar-icon =
     .tooltiptext = Kërkoni
 
@@ -30,6 +34,5 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-remove-search-engine-message = <strong>Motori juaj parazgjedhje i kërkimeve është ndryshuar.</strong> { -brand-short-name } s’mbulon më { $oldEngine }. { $newEngine } është tani motori juaj parazgjedhje i kërkimeve. Që ta ndryshoni në një tjetër motor parazgjedhje kërkimesh, kaloni te rregullimet. <label data-l10n-name="remove-search-engine-article">Mësoni më tepër</label>
 removed-search-engine-message = <strong>Motori juaj parazgjedhje i kërkimeve është ndryshuar.</strong> { $oldEngine } s’është më motor parazgjedhje kërkimesh në { -brand-short-name }. { $newEngine } është tani motori juaj parazgjedhje i kërkimeve. Që ta ndryshoni në një tjetër motor parazgjedhje kërkimesh, kaloni te rregullimet. <label data-l10n-name="remove-search-engine-article">Mësoni më tepër</label>
 remove-search-engine-button = OK

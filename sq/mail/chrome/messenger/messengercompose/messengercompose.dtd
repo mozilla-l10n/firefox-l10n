@@ -21,9 +21,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Faqe Web…">
 <!ENTITY attachPageCmd.accesskey "F">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Kartë Vetjake (vCard)">
-<!ENTITY attachVCardCmd.accesskey "V">
 <!ENTITY remindLater.label "Kujtoma Më Vonë">
 <!ENTITY remindLater.accesskey "V">
 <!ENTITY closeCmd.label "Mbylleni">
@@ -149,16 +146,6 @@
 <!ENTITY returnReceiptMenu.accesskey "K">
 <!ENTITY dsnMenu.label "Njoftim Gjendjeje Shpërndarjeje">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY deliveryFormatMenu.label "Format Shpërndarjeje">
-<!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "Vetëzbuloje">
-<!ENTITY autoFormatCmd.accesskey "V">
-<!ENTITY plainTextFormatCmd.label "Vetëm Tekst të Thjeshtë">
-<!ENTITY plainTextFormatCmd.accesskey "t">
-<!ENTITY htmlFormatCmd.label "Vetëm Tekst të Pasur (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "r">
-<!ENTITY bothFormatCmd.label "Tekst të Thjeshtë dhe të Pasur (HTML)">
-<!ENTITY bothFormatCmd.accesskey "h">
 <!ENTITY priorityMenu.label "Përparësi">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.title "Përparësi">
@@ -222,7 +209,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Lloje të tjerë fushash adrese">
 <!ENTITY fromAddr2.label "Nga">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY replyAddr2.label "Përgjigj-Iu">

@@ -38,16 +38,11 @@ menu-quit =
             [windows] D
            *[other] l
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Dilni prej { -brand-shorter-name }-it
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Dilni nga { -brand-shorter-name }-i
+
 menu-about =
     .label = Mbi { -brand-shorter-name }-in
     .accesskey = R
@@ -77,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Hapni Kartelë…
     .accesskey = K
-menu-file-close =
-    .label = Mbylleni
-    .accesskey = M
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 menu-file-close-tab =
@@ -104,9 +96,6 @@ menu-file-share-url =
 menu-file-print-setup =
     .label = Rregullim Faqeje…
     .accesskey = u
-menu-file-print-preview =
-    .label = Paraparje e Shtypjes
-    .accesskey = a
 menu-file-print =
     .label = Shtypni…
     .accesskey = y
@@ -319,9 +308,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = M
 menu-help-report-site-issue =
     .label = Njoftoni Problem Sajti…
-menu-help-feedback-page =
-    .label = Parashtroni Përshtypjet…
-    .accesskey = P
 menu-help-enter-troubleshoot-mode2 =
     .label = Mënyra Diagnostikim…
     .accesskey = D

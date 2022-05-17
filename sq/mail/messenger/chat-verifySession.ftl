@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 verify-window-title = Verifikoni Identitetin
+
 # Variables:
 #   $subject (String) - a human readable identifier for the other side of the verification flow.
 verify-window-subject-title = Verifikoni Identitetin e { $subject }
+
 verify-dialog =
     .buttonlabelaccept = Përputhen
     .buttonaccesskeyaccept = P
     .buttonlabelextra2 = Nuk përputhen
     .buttonaccesskeyextra2 = N
+
 challenge-label = Verifikoni se vargu i shfaqur përputhet me atë në ekran në anën tjetër.
