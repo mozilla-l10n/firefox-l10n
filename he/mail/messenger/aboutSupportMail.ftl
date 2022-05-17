@@ -11,4 +11,5 @@ accounts-conn-security = אבטחת החיבור
 accounts-auth-method = שיטת האימות
 accounts-default = ברירת מחדל?
 identity-name = זהות
+
 app-basics-telemetry = נתוני Telemetry

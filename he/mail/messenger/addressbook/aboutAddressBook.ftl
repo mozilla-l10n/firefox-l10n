@@ -26,6 +26,7 @@ about-addressbook-books-context-delete =
     .label = מחיקה
 about-addressbook-books-context-remove =
     .label = הסרה
+
 # Variables:
 # $name (String) - Name of the address book to be deleted.
 about-addressbook-confirm-delete-book = למחוק את { $name } ואת כל אנשי הקשר שבו?
@@ -39,12 +40,16 @@ about-addressbook-confirm-remove-remote-book = להסיר את { $name }?
 # $name (String) - Name of the address book that will be searched.
 about-addressbook-search =
     .placeholder = חיפוש { $name }
+
 about-addressbook-sort-button =
     .title = שינוי סדר הרשימה
+
 about-addressbook-name-format-display =
     .label = שם תצוגה
+
 about-addressbook-cards-context-write =
     .label = כתיבה
+
 about-addressbook-confirm-delete-mixed-title = מחיקת אנשי קשר ורשימות
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -101,10 +106,12 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = עריכה
 about-addressbook-cancel-edit-contact-button = ביטול
 about-addressbook-save-edit-contact-button = שמירה
+
 about-addressbook-details-email-addresses-header = כתובות דוא״ל
 about-addressbook-details-phone-numbers-header = מספרי טלפון
 about-addressbook-details-home-address-header = כתובת בבית
 about-addressbook-details-work-address-header = כתובת עבודה
 about-addressbook-details-other-info-header = מידע אחר
-about-addressbook-prompt-to-save-title = לשמור את השינויים?
-about-addressbook-prompt-to-save = האם ברצונך לשמור את השינויים?
+
+# Photo dialog
+

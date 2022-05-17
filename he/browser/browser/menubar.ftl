@@ -38,16 +38,11 @@ menu-quit =
             [windows] צ
            *[other] צ
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = יציאה מ־{ -brand-shorter-name }
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = יציאה מ־{ -brand-shorter-name }
+
 menu-about =
     .label = על אודות { -brand-shorter-name }
     .accesskey = א
@@ -77,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = פתיחת קובץ…
     .accesskey = ק
-menu-file-close =
-    .label = סגירה
-    .accesskey = ג
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 menu-file-close-tab =
@@ -104,9 +96,6 @@ menu-file-share-url =
 menu-file-print-setup =
     .label = הגדרת עמוד…
     .accesskey = ה
-menu-file-print-preview =
-    .label = תצוגה לפני הדפסה
-    .accesskey = נ
 menu-file-print =
     .label = הדפסה…
     .accesskey = ד
@@ -319,9 +308,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = מ
 menu-help-report-site-issue =
     .label = דיווח על בעיה באתר…
-menu-help-feedback-page =
-    .label = שליחת משוב…
-    .accesskey = ש
 menu-help-share-ideas =
     .label = שיתוף רעיונות ומשוב…
     .accesskey = ש

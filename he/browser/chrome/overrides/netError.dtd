@@ -152,8 +152,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "דיווח על תקלות מסוג זה כדי לסייע ל־Mozilla לזהות ולחסום אתרים מסוכנים">
 <!ENTITY errorReporting.learnMore "מידע נוסף…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "מידע מתקדם: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -179,9 +177,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "נראה שהגדרות אבטחת הרשת שלך עשוי לגרום לכך. האם ברצונך לשחזר להגדרות ברירת מחדל?">
 <!ENTITY prefReset.label "שחזור הגדרות בררת המחדל">
-
-<!ENTITY enableTls10.longDesc "יתכן שאתר זה אינו תומך בפרוטוקול TLS 1.2 שהוא הגרסה המינימלית הנתמכת על־ידי &brandShortName;. הפעלת TLS 1.0 ו־TLS 1.1 עשויה לאפשר לחיבור זה להצליח.">
-<!ENTITY enableTls10.note "TLS 1.0 ו־TLS 1.1 יושבתו לצמיתות בגרסה עתידית.">
-<!ENTITY enableTls10.label "הפעלת TLS 1.0 ו־1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>לא ניתן להציג את הדף המבוקש מכיוון שאותרה שגיאה בפרוטוקול הרשת.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul>">

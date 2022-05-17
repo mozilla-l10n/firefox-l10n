@@ -5,6 +5,7 @@
 carddav-refreshinterval-label =
     .label = סנכרון:
     .accesskey = ס
+
 # Variables:
 #   $minutes (integer) - Number of minutes between address book synchronizations
 carddav-refreshinterval-minutes-value =
@@ -13,6 +14,7 @@ carddav-refreshinterval-minutes-value =
             [one] כל דקה
            *[other] כל { $minutes } דקות
         }
+
 # Variables:
 #   $hours (integer) - Number of hours between address book synchronizations
 carddav-refreshinterval-hours-value =
@@ -22,6 +24,7 @@ carddav-refreshinterval-hours-value =
             [two] כל שעתיים
            *[other] כל { $hours } שעות
         }
+
 carddav-readonly-label =
     .label = לקריאה בלבד
     .accesskey = ק

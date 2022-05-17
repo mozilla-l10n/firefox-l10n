@@ -8,10 +8,6 @@
 
 <!ENTITY e2eTechPref.description "טכנולוגיית הצפנה מועדפת:">
 
-<!ENTITY doNotEncrypt.label "לא להפעיל הצפנה כברירת מחדל">
-<!ENTITY doNotEncrypt.accesskey "ל">
-<!ENTITY requireEncryptMessage.label "לדרוש הצפנה כברירת מחדל">
-<!ENTITY requireEncryptMessage.accesskey "ד">
 <!ENTITY encryptionCert2.message "אישור אבטחה אישי להצפנה:">
 <!ENTITY digitalSign.certificate.button "בחירה…">
 <!ENTITY digitalSign.certificate.accesskey "ב">
@@ -22,8 +18,6 @@
 <!ENTITY encryption.certificate_clear.button "מחיקה">
 <!ENTITY encryption.certificate_clear.accesskey "ק">
 <!ENTITY signingGroupTitle.label "חתימה דיגיטלית">
-<!ENTITY signMessage2.label "הוספת החתימה הדיגיטלית שלי כברירת מחדל">
-<!ENTITY signMessage.accesskey "ד">
 <!ENTITY signingCert2.message "אישור אבטחה אישי לחתימה דיגיטלית:">
 
 <!ENTITY sendingDefaults.label "הגדרות ברירת מחדל לשליחת הודעות">

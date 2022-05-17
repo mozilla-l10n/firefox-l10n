@@ -4,12 +4,19 @@
 
 chat-participant-owner-role-icon2 =
     .alt = בעלים
+
 chat-participant-administrator-role-icon2 =
     .alt = מנהל
+
 chat-participant-moderator-role-icon2 =
     .alt = מפקח
+
 chat-verify-identity =
     .label = אימות הזהות
     .accesskey = א
+
 chat-identity-verified =
     .label = הזהות כבר אומתה
+
+## Conversation invite notification box
+

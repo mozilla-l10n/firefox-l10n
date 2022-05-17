@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC Internals
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = שמירת about:webrtc בשם
@@ -18,6 +19,7 @@ about-webrtc-aec-logging-msg-label = רישום AEC
 about-webrtc-aec-logging-off-state-label = התחלת רישום AEC
 about-webrtc-aec-logging-on-state-label = עצירת רישום AEC
 about-webrtc-aec-logging-on-state-msg = AEC logging active (speak with the caller for a few minutes and then stop the capture)
+
 # The autorefresh checkbox causes the page to autorefresh its content when checked
 about-webrtc-auto-refresh-label = רענון אוטומטי
 
@@ -75,10 +77,12 @@ about-webrtc-type-remote = מרוחק
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nominated
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Selected
+
 about-webrtc-save-page-label = שמירת דף
 about-webrtc-debug-mode-msg-label = מצב ניפוי שגיאות
 about-webrtc-debug-mode-off-state-label = הפעלת מצב ניפוי שגיאות
@@ -151,6 +155,7 @@ about-webrtc-aec-logging-off-state-msg = captured log files can be found in: { $
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.

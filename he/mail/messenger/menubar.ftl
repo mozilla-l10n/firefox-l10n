@@ -5,14 +5,10 @@
 
 ## Tools Menu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-menu-tools-preferences =
-    .label = העדפות
-    .accesskey = ה
 menu-tools-settings =
     .label = הגדרות
     .accesskey = ה
+
 menu-addons-and-themes =
     .label = תוספות וערכות נושא
     .accesskey = ת
@@ -22,9 +18,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = מצב לפתרון בעיות…
     .accesskey = מ
+
 menu-help-exit-troubleshoot-mode =
     .label = כיבוי מצב לפתרון בעיות
     .accesskey = כ
+
 menu-help-more-troubleshooting-info =
     .label = מידע נוסף לפתרון בעיות
     .accesskey = פ
@@ -55,12 +53,15 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = צפיפות
     .accesskey = צ
+
 mail-uidensity-compact =
     .label = צפופה
     .accesskey = צ
+
 mail-uidensity-normal =
     .label = רגילה
     .accesskey = ר
+
 mail-uidensity-touch =
     .label = מגע
     .accesskey = מ

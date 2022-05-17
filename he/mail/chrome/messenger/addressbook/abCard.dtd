@@ -39,8 +39,6 @@
 <!ENTITY PrimaryEmail.accesskey         "ד">
 <!ENTITY SecondEmail.label              "דוא״ל משני:">
 <!ENTITY SecondEmail.accesskey          "ש">
-<!ENTITY PreferMailFormat.label         "ההעדפה היא לקבל הודעות בתצורת:">
-<!ENTITY PreferMailFormat.accesskey     "ק">
 <!ENTITY PlainText.label                "טקסט פשוט">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "לא ידוע">
