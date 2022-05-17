@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (oiko’ỹva, ipyahu
 compatibility-settings-button-label = Ñemboheko
 compatibility-settings-button-title =
     .title = Ñemboheko
-compatibility-feedback-button-label = Mongarujey
-compatibility-feedback-button-title =
-    .title = Mongarujey
 
 ## Messages used as headers in settings pane
 
@@ -42,9 +39,11 @@ compatibility-issue-occurrences =
         [one] { $number } ñesẽrei
        *[other] { $number } ñesẽreikuéra
     }
+
 compatibility-no-issues-found = Ndaipóri apañuãi jokupytygua.
 compatibility-close-settings-button =
     .title = Embogue ñemboheko
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

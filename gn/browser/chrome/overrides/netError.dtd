@@ -122,8 +122,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Emomarandu koichagua jejavy eipytyvõ hag̃ua Mozilla-pe ojuhúvo ha ojokóvo tenda mba’evai aposéva">
 <!ENTITY errorReporting.learnMore "Kuaave…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Eñe’ẽ ñanduti renda jarakuéra ndive emomarandu hag̃ua chupekuéra ko apañuãi.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Marandu opapotaitéva: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -149,9 +147,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Ne ñemboheko ñanduti rekorosãrã rehegua ikatu hína ojapo kóva. Emoĩporãsépa ñemboheko ijypyguáva rupi?">
 <!ENTITY prefReset.label "Embojevy ñemboheko ijypykuépe">
-
-<!ENTITY enableTls10.longDesc "Ikatu ko ñanduti renda ndojokupytýi TLS 1.2 raperekoite, ha’éva pe mba’e michĩvéva omoneĩva &brandShortName;. Embojuruja TLS 1.0 ha TLS 1.1 ikatúva omoneĩ ko jeike oiko porã hag̃ua.">
-<!ENTITY enableTls10.note "TLS 1.0 ha TLS 1.1 ojepe’aitétama tembiapo pyahu tenonderãguápe.">
-<!ENTITY enableTls10.label "Embojuruja TLS 1.0 ha 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Ko kuatiarogue ehechaséhína ndaikatúi ehecha oĩ rupi jejavy ñanduti raperekoitépe. </p><ul><li>Eñe’ẽ ñanduti renda jára ndive emomarandu hag̃ua ko apañuãi.</li></ul>">

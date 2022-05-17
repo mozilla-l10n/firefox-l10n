@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Mba’ekuaarã
 
-item-site-preferences =
-    .label = Tenda jerohoryvéva
-    .accesskey = S
-
 item-site-settings =
     .label = Tenda ñemboheko
     .accesskey = S

@@ -56,8 +56,6 @@ inactive-css-not-grid-or-flex-container-fix = Eñeha’ã embojuaju <strong>disp
 
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Embojuaju <strong>display:grid</strong>, <strong>display:flex</strong> térã <strong>yta:2</strong>. { learn-more }
 
-inactive-css-not-grid-or-flex-item-fix-2 = Embojuaju <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> térã <strong>display:inline-flex</strong>. { learn-more }
-
 inactive-css-not-grid-or-flex-item-fix-3 = Embojuaju <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> térã <strong>display:inline-flex</strong> pe mba’epuru túvape. { learn-more }
 
 inactive-css-not-grid-item-fix-2 = Embojuaju <strong>display:grid</strong> térã <strong>display:inline-grid</strong> ítem rúpe. { learn-more }

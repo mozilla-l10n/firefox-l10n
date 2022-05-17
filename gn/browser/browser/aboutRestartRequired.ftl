@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Tekotevẽ emoñepyrũjey
-restart-required-header = Ñerõmi. Roikotevẽ mba’e michĩmíva roku’ejey hag̃ua.
-restart-required-intro-brand = { -brand-short-name } hekopyahúma mokõha tendápe. Eikutu Ñepyrũjey { -brand-short-name } hekopyahupa hag̃ua.
-restart-required-description = Romoĩporãta opaite nde kuatiarogue, ovetã ha tendayke ag̃ave, ikatu hag̃uáicha eho tapére pya’eporã.
 restart-required-heading = Emoñepyrũjey eipurume hag̃ua { -brand-short-name }
 restart-required-intro = Pe ñembohekopyahu { -brand-short-name } pegua oñepyrũ mokõihápe. Emoñepyrũjey hekopyahupaite hag̃ua.
 window-restoration-info = Ne rovetã ha tendayke oĩporãjeýta pya’e, hákatu umi ñemiguáva nahániri.
+
 restart-button-label = Emoñepyrũjey { -brand-short-name }

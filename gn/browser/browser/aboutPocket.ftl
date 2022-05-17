@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Embojuaju teramoĩ
+
 pocket-panel-saved-error-generic = Oiko jejavy eñongatusévo { -pocket-brand-name }-pe.
 pocket-panel-saved-error-tag-length = Umi teramoĩme eipurukuaa 25 tai peve añónte
 pocket-panel-saved-error-only-links = Eñongatukuaa juajuha añoite
@@ -29,6 +30,7 @@ pocket-panel-saved-saving-tags = Oñongatuhína…
 pocket-panel-saved-suggested-tags = Teramoĩ je’epyre
 pocket-panel-saved-tags-saved = Teramoĩ mbojuajupyre
 pocket-panel-signup-view-list = Ehcha tysýi
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Embojuaju teramoĩ:
 
@@ -43,7 +45,7 @@ pocket-panel-signup-signup-firefox = Eñemboheraguapy { -brand-product-name } nd
 pocket-panel-signup-tagline = Eñongatu jehaipyre ha ta’ãngamýi { -brand-product-name } guive ehecha hag̃ua { -pocket-brand-name }-pe oimeraẽva mba’o’kápe ejapose vove.
 pocket-panel-signup-tagline-story-one = Eikutu pe votõ { -pocket-brand-name } eñongatu hag̃ua marandu, ta’angamýi térã kuatiarogue { -brand-product-name } guive.
 pocket-panel-signup-tagline-story-two = Ehecha { -pocket-brand-name }-pe mba’e’oka guive ejapose vove.
-pocket-panel-signup-cta-a = Ne votõ eñongatuha ñanduti pegua.
+
 pocket-panel-signup-cta-a-fix = Ne votõ eñongatuha ñanduti pegua
 pocket-panel-signup-cta-b = Eikutu votõ { -pocket-brand-name } eñongatu hag̃ua jehaipy, ta’ãngamýi ha juajuha. Ehecha tysýi oimeraẽva mba’e’okápe, ejapose vove.
 pocket-panel-signup-cta-b-short = Eikutu votõ { -pocket-brand-name } eñongatu hag̃ua jehaipyre, ta’ãngamýi ha juajuha.
@@ -57,6 +59,7 @@ pocket-panel-home-paragraph = Eipurukuaa { -pocket-brand-name } eheka hag̃ua ha
 pocket-panel-home-explore-popular-topics = Ehekaporã téma oñehenduvéva
 pocket-panel-home-discover-more = Ejuhukuaave
 pocket-panel-home-explore-more = Ehapykueho
+
 pocket-panel-home-most-recent-saves = Ápe oĩ mba’epuru eñongatu ramovéva:
 pocket-panel-home-most-recent-saves-loading = Eñongaturamóva henyhẽhína…
 pocket-panel-home-new-user-cta = Eikutu votõ { -pocket-brand-name } eñongatu hag̃ua jehaipyre, ta’ãngamýi ha juajuha.
@@ -70,6 +73,5 @@ pocket-panel-header-sign-in = Eñepyrũ tembiapo
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Techaukapa
-pocket-panel-button-add-tags = Embojuaju teramoĩ
 pocket-panel-button-activate = Emyandy { -pocket-brand-name } { -brand-product-name }-pe
 pocket-panel-button-remove = Mboguete

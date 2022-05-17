@@ -34,7 +34,6 @@ about-telemetry-events-section = Tembiaporã
 about-telemetry-simple-measurements-section = Ha’ãha hypy’ũ’ỹva
 about-telemetry-slow-sql-section = Je’etepyre SQL imbegue
 about-telemetry-addon-details-section = Moĩmbaha mba’emimi
-about-telemetry-captured-stacks-section = Japyhypyre mbojo’a
 about-telemetry-late-writes-section = Jehaipy mbotapykuéva
 about-telemetry-raw-payload-section = Hetepy ojehecha’ỹva gueteri
 about-telemetry-raw = Raw JSON
@@ -121,10 +120,6 @@ about-telemetry-addon-provider = Me’ẽhára { $addonProvider }
 about-telemetry-keys-header = Mba’etee
 about-telemetry-names-header = Téra
 about-telemetry-values-header = Tepykue
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (japyhypyre rehegua: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Jehaipy itapykuéva #{ $lateWriteCount }

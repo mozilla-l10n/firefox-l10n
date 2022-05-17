@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Taity
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Taitýpe g̃uarã
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Árabe
 fonts-langgroup-armenian =
@@ -75,27 +77,37 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Kakuaakue
     .accesskey = K
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Tuichakue
     .accesskey = z
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Taijoja
     .accesskey = T
+
 fonts-monospace-size = Tuichakue
     .accesskey = e
+
 fonts-minsize = Tai tuichakue michĩvéva
     .accesskey = o
+
 fonts-minsize-none =
     .label = Avave
+
 fonts-allow-own =
     .label = Emoneĩ kuatiaroguépe toiporavo itaity, jeporavo mboyveguáva rãngue
     .accesskey = E
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
