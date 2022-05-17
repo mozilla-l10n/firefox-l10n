@@ -5,7 +5,10 @@
 places-file-close =
     .label = மூடுக
     .accesskey = C
+
 places-view-sort-col-name =
     .label = பெயர்
+
 places-view-sort-col-url =
     .label = இடம்
+

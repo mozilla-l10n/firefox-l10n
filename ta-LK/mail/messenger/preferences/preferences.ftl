@@ -157,14 +157,6 @@ bigger-size-item =
 smaller-size-item =
     .label = சிறியதான
 
-type-column-label =
-    .label = உள்ளடக்க வகை
-    .accesskey = T
-
-action-column-label =
-    .label = செயல்
-    .accesskey = A
-
 save-to-label =
     .label = இற்கு கோப்புகளை சேமிக்க
     .accesskey = S
@@ -259,12 +251,6 @@ bg-color-label =
 restore-html-label =
     .label = கொடாநிலைகளை மீட்கவும்
     .accesskey = R
-
-format-description = உரை வடிவமைப்பு நடத்தையை கட்டமைக்கவும்
-
-send-options-label =
-    .label = அனுப்பும் விருப்பங்கள்
-    .accesskey = S
 
 autocomplete-description = அஞ்சல் முகவரிகளுக்கான, ஒத்த பதிவுகளை இதில் தேடுக:
 
@@ -367,4 +353,6 @@ certificate-ask =
 
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

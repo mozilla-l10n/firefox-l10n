@@ -55,3 +55,7 @@ addon-install-from-file-filter-name = செருகல்கள்
 
 ## Page headings
 
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+

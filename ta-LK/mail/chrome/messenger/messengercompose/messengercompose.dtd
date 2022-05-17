@@ -18,9 +18,6 @@
 <!ENTITY attachMenu.accesskey "T">
 <!ENTITY attachPageCmd.label "இணையப் பக்கம்">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label " பிரத்தியேக அட்டை (vCard) ">
-<!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY closeCmd.label "மூடு">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "C">
@@ -119,14 +116,6 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "விநியோக நிலைமை அறிவித்தல்">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY autoFormatCmd.label "தன்னியக்க-கண்டுபிடிப்பு">
-<!ENTITY autoFormatCmd.accesskey "a">
-<!ENTITY plainTextFormatCmd.label " எளிய உரை மட்டும்">
-<!ENTITY plainTextFormatCmd.accesskey "p">
-<!ENTITY htmlFormatCmd.label "உயர்தர உரை (HTML) மட்டுமே">
-<!ENTITY htmlFormatCmd.accesskey "r">
-<!ENTITY bothFormatCmd.label "எளிய மற்றும் உயர்தர (HTML) உரை">
-<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "முன்னுரிமை">
 <!ENTITY priorityMenu.accesskey "p">
 <!ENTITY priorityButton.label "முன்னுரிமை:">

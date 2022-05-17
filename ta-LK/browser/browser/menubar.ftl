@@ -33,10 +33,6 @@ menu-quit =
            *[other] Q
         }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
 ## File Menu
 
 menu-file =
@@ -66,9 +62,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = பக்க அமைவு…
     .accesskey = u
-menu-file-print-preview =
-    .label = அச்சு முன்பார்வை
-    .accesskey = v
 menu-file-print =
     .label = அச்சிடுக…
     .accesskey = P

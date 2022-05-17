@@ -17,3 +17,5 @@ path-dd = <span data-l10n-name="path">பாதை:</span> { $pluginFullPath }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+## Gecko Media Plugins (GMPs)
+

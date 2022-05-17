@@ -9,16 +9,3 @@
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
-<!ENTITY menu_securityEncryptRequire.accesskey "E">
-
-<!ENTITY menu_securitySign.label "இந்த செய்தியில் இலக்கமுறையாக கையெழுத்திடுக">
-<!ENTITY menu_securitySign.accesskey "S">
-
-<!ENTITY menu_securityStatus.label "பாதுகாப்பு தகவலை காண்க">
-<!ENTITY menu_securityStatus.accesskey "I">
-
-<!ENTITY securityButton.label "பாதுகாப்பு">
-<!ENTITY securityButton.tooltip "பாதுகாப்பு அமைவுகளை காண்க அல்லது மாற்றுக">
-
-<!ENTITY menu_viewSecurityStatus.label "செய்தி பாதுகாப்பு தகவல்">
-<!ENTITY menu_viewSecurityStatus.accesskey "I">

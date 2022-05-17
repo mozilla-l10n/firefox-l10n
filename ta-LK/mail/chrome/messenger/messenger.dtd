@@ -20,14 +20,10 @@
 <!ENTITY moveToNewWindow.accesskey "W">
 <!ENTITY newVirtualFolderCmd.label "சேமிக்கப்பட்ட தேடல்…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newOtherAccountsCmd.label "ஏனைய கணக்குகள்…">
-<!ENTITY newOtherAccountsCmd.accesskey "O">
 <!ENTITY openMessageFileCmd.label "சேமிக்கப்பட்ட செய்தியை திறக்க…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "என சேமிக்க">
 <!ENTITY saveAsMenu.accesskey "S">
-<!ENTITY saveAsFileCmd.label "கோப்பு">
-<!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "படிம அச்சு">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
