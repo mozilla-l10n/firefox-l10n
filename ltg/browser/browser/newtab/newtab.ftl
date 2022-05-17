@@ -16,15 +16,9 @@ newtab-search-box-search-button =
     .title = Mekleit
     .aria-label = Mekleit
 
-newtab-search-box-search-the-web-input =
-    .placeholder = Mekleit teiklā
-    .title = Mekleit teiklā
-    .aria-label = Mekleit teiklā
-
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Davīnōt mekleitōji
-newtab-topsites-add-topsites-header = Jauna lopa topā
 newtab-topsites-edit-topsites-header = Maineit lopu topā
 newtab-topsites-title-label = Viersroksts
 newtab-topsites-title-input =
@@ -159,7 +153,6 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = Popularōkōs lopys
-newtab-section-header-highlights = Izraudzeitī
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } īsaceitōs
@@ -190,6 +183,9 @@ newtab-pocket-read-more = Popularas tēmas:
 newtab-pocket-more-recommendations = Vaira īsacejumu
 newtab-pocket-cta-button = Paraugi { -pocket-brand-name }
 newtab-pocket-cta-text = Sagloboj interesantus stōstus { -pocket-brand-name } un paboroj sovu prōtu ar interesantu losamvīlu.
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

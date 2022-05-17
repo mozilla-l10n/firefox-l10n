@@ -41,3 +41,7 @@ pocket-panel-signup-tagline-story-two = Verīs { -pocket-brand-name } uz jebkura
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = Instaliešonys klaida
 opensearch-error-duplicate-desc = { -brand-short-name } navar pīvīnuot jaunu mekleituoju nu "{ $location-url }", kam itaids mekleituojs jau ir pīvīnuots.
+
 opensearch-error-format-title = Nadereigs formats
 opensearch-error-format-desc = { -brand-short-name } navarieja instaleit mekleituoju nu: { $location-url }
+
 opensearch-error-download-title = Lejupīluodes klaida
 opensearch-error-download-desc = { -brand-short-name } navar lejupīluodeit mekleituoju nu: { $location-url }
 
@@ -19,8 +21,16 @@ opensearch-error-download-desc = { -brand-short-name } navar lejupīluodeit mekl
 
 searchbar-submit =
     .tooltiptext = Veikt mekliešonu
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Mekleit
+
 searchbar-icon =
     .tooltiptext = Mekleit
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+

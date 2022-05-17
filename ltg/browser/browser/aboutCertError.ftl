@@ -108,7 +108,6 @@ redirectLoop-title = Lopa natīk korekti puoradreseita
 unknownSocketType-title = Nagaideita atbiļde nu servera
 nssFailure2-title = Drūsais savīnuojums naizadeve
 corruptedContentError-title = Būjuota satura klaida
-remoteXUL-title = Attuolynuots XUL
 sslv3Used-title = Naizadeve drūsais pīsasliegt
 inadequateSecurityError-title = Savīnuojums nav drūss
 blockedByPolicy-title = Bloķeita lopa

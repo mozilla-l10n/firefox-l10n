@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] Īstatiejumus var maineit { -brand-short-name } īstatiejumūs.
            *[other] Īstatiejumus var maineit { -brand-short-name } īstatiejumūs, lejupīluožu škirklī.
         }
+
 unknowncontenttype-intro = Jius asot izavielieji attaiseit:
 unknowncontenttype-which-is = kurs ir:
 unknowncontenttype-from = nu:

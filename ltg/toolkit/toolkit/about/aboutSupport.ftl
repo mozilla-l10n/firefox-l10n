@@ -47,6 +47,7 @@ app-basics-multi-process-support = Vairuoku procesu lūgs
 app-basics-enterprise-policies = Uzjāmuma politikas
 app-basics-key-mozilla = Mozilla atsarasšona vītys pakolpuojuma atslāgs
 app-basics-safe-mode = Drūsais režyms
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Ruodeit ar Finder

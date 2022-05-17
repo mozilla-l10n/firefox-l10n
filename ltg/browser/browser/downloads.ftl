@@ -23,36 +23,13 @@ downloads-cmd-cancel =
     .tooltiptext = Atceļt
 downloads-cmd-cancel-panel =
     .aria-label = Atceļt
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = Attaiseit mapi
-    .accesskey = m
   
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = Paruodeit Finder
-    .accesskey = F
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] Paruodeit Finder
-           *[other] Attaiseit mapi
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] Paruodeit Finder
-           *[other] Attaiseit mapi
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] Paruodeit Finder
-           *[other] Attaiseit mapi
-        }
+##
 
 downloads-cmd-show-downloads =
     .label = Ruodeit lejupīluožu mapi
@@ -148,6 +125,13 @@ downloads-history =
 downloads-details =
     .title = Lejupīluodes informaceja
 
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
+
 downloads-clear-downloads-button =
     .label = Nūteireit lejupīluodes
     .tooltiptext = Nūteira pabeigtuos, atcaltuos i naveiksmeiguos lejupīluodes
@@ -160,3 +144,4 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Itymā sesejā nav nivīnys lejupīluodes.
+

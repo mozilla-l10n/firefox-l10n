@@ -99,8 +99,6 @@
 <!ENTITY errorReporting.automatic2 "Report errors like this to help Mozilla identify and block malicious sites">
 <!ENTITY errorReporting.learnMore "Uzzynojit vairuok…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Lyudzu sasazynojit ar sātys lopys eipašnīkim i informejit jūs par itū problemu.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Advanced info: SSL_ERROR_UNSUPPORTED_VERSION">

@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Dati
 
-item-site-preferences =
-    .label = Lopys īstatiejumus
-    .accesskey = s
-
 item-offline-apps =
     .label = Lopu nasaistis datus
     .accesskey = t

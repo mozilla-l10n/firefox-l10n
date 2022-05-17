@@ -104,9 +104,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "<p>Jiusim navajadzeitu pīvīnuot izjiemumu, nui naizmontojit pilneibā uztycamu šķārsteikla savīnuojumu, voi nui parostai itaids paziņuojums par itū serveri napsaaruodās.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "Attuolynuotais XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Lyudzu, paziņojit par itū problemu vītnes eipašnīkim.</li></ul></p>">
-
 <!ENTITY sslv3Used.title "Naizadeve drūsais pīsasliegt">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->

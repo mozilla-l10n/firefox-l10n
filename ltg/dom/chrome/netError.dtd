@@ -79,9 +79,6 @@
 <!ENTITY corruptedContentErrorv2.title "Būjuota satura klaida">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
-<!ENTITY remoteXUL.title "Attuolynuots XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Lyudzu sasazynojit ar sātys lopys eipašnīkim i informejit jūs par itū problemu.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Savīnuojums nav drūss">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

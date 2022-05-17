@@ -39,15 +39,6 @@ menu-quit =
 menu-quit-mac =
     .label = Izīt nu { -brand-shorter-name }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Aiztaiseit { -brand-shorter-name }
-
 menu-about =
     .label = Par { -brand-shorter-name }
     .accesskey = a
@@ -77,9 +68,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Attaiseit failu…
     .accesskey = A
-menu-file-close =
-    .label = Aiztaiseit
-    .accesskey = z
 menu-file-close-window =
     .label = Aiztaiseit lūgu
     .accesskey = g
@@ -92,9 +80,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Lopys īstatiejumi…
     .accesskey = u
-menu-file-print-preview =
-    .label = Drukys prīkšskatejums
-    .accesskey = p
 menu-file-print =
     .label = Drukōt…
     .accesskey = D
@@ -270,9 +255,6 @@ menu-help =
     .accesskey = P
 menu-help-report-site-issue =
     .label = Ziņuot par problemu ar lopu…
-menu-help-feedback-page =
-    .label = Nūsyuteit atsauksmi…
-    .accesskey = s
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.

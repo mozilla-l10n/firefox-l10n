@@ -6,7 +6,7 @@ privatebrowsingpage-open-private-window-label = Attaiseit privatū lūgu
     .accesskey = p
 about-private-browsing-search-placeholder = Mekleit škārsteiklā
 about-private-browsing-info-title = Tu esi privatajā lūgā
-about-private-browsing-info-myths = Vysaidas blieņas par privatū porlyukōšonu
 about-private-browsing-not-private = Itūbreid jius naasot privatajā lūgā.
-about-private-browsing-info-description = { -brand-short-name } nūteirej mekliešonys uz porlyukōšonys viesturi, kod tu aiztaisi vysas privatōs porlyukōšonys cilnes un lūgus. Tys napadora tevi anonimu škārsteikla lopom voi pakolpojumu snīdzējam, bet apsliep darbeibas nu cytim itō datora lītōtōjim.
+
+## The following strings will be used for experiments in Fx99 and Fx100
 
