@@ -41,3 +41,7 @@ pocket-panel-signup-tagline-story-two = যেকোন সময়ে, যেক�
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

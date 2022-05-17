@@ -60,7 +60,6 @@ about-logins-list-item-vulnerable-password-icon =
 
 about-logins-login-intro-heading-logged-in = সিংক হওয়া কোনো লগইন পাওয়া যায়নি।
 login-intro-description = আপনি যদি ভিন্ন কোন ডিভাইসের { -brand-product-name } এ আপনার লগইন সমূহ সংরক্ষণ করে থাকেন, তাহলে সেগুলো এখানে কিভাবে পাবেন, সেটি রয়েছে এখানে:
-about-logins-intro-import = আপনার লগিন সমূহ যদি আরেকটি ব্রাউজারে সংরক্ষিত থাকে, আপনি  <a data-l10n-name="import-link"> সেইসব লগিন { -lockwise-brand-short-name } এ নিয়ে আসতে পারবেন </a>
 
 ## Login
 

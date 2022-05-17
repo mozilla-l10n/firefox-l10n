@@ -106,8 +106,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "মজিলাকে এই ধরনের প্রতিবেদন দিয়ে ক্ষরিকারক সাইট চিহ্নিত এবং অবরুদ্ধ করতে সাহায্য করুন।">
 <!ENTITY errorReporting.learnMore "আরও জানুন…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>এই সমস্যাটি সম্পর্কে অনুগ্রহ করে ওয়েবসাইটের মালিককে জানান।</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "বিস্তারিত তথ্য: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -133,9 +131,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "আপনার নেটওয়ার্কের সুরক্ষা সেটিং এই সমস্যা কারণ বলে প্রতীয়মান হচ্ছে। আপনি কি সেটিং পূর্বাবস্থায় ফিরিয়ে নিতে চান?">
 <!ENTITY prefReset.label "ডিফল্ট সেটিং পুনঃস্থাপন করুন">
-
-<!ENTITY enableTls10.longDesc "এই ওয়েবসাইট TLS 1.2 প্রোটোকল সমর্থন নাও করতে পারে, যা সর্বনিম্ন সংস্করণ &brandShortName;দ্বারা সমর্থিত। TLS 1.0 এবং TLS 1.1 সক্রিয় করার মাধ্যমে এই সংযোগটি সফল হতেও পারে।">
-<!ENTITY enableTls10.note "TLS 1.0 ও TLS 1.1 কে ভবিষ্যৎ রিলিজে পুরোপুরি নিষ্ক্রিয় করে দেওয়া হবে।">
-<!ENTITY enableTls10.label "TLS 1.0 ও 1.1 সক্রিয় করুন">
 
 <!ENTITY networkProtocolError.longDesc "<p>আপনি যে পাতাটি দেখতে চাচ্ছেন নেটওয়ার্ক প্রটোকলে একটি ত্রুটি দেখা দেওয়ায় তা দেখানো সম্ভব হচ্ছে না।</p><ul><li>অনুগ্রহ করে এই সমস্যা জানিয়ে ওয়েবসাইটের মালিকের সাথে যোগাযোগ করুন।</li></ul>">

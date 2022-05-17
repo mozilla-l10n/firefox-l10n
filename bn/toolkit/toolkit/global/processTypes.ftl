@@ -21,10 +21,6 @@ process-type-extension = এক্সটেনশন
 # process used to open file:// URLs
 process-type-file = স্থানীয় ফাইল
 
-# process used to isolate webpages that requested special
-# permission to allocate large amounts of memory
-process-type-weblargeallocation = বিশাল বরাদ্দ
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = বিচ্ছিন্ন ওয়েব কন্টেন্ট

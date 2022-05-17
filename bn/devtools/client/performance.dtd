@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "যখন প্রোফাইলার একটি নমুনা নিল, এই ফাংশন কিছু সময়ের জন্য স্ট্যাক-এ ছিল।">
 <!ENTITY performanceUI.table.function                 "ফাংশন">
 <!ENTITY performanceUI.table.function.tooltip         "নমুনা ফাংশনটির নাম এবং উৎসের অবস্থান।">
-<!ENTITY performanceUI.table.totalAlloc               "মোট নমুনা বরাদ্দকৃত">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "এই অবস্থানে এবং callees মধ্যে নমুনা বস্তু বণ্টন করার মোট সংখ্যা।">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

@@ -7,6 +7,7 @@
 
 extension-firefox-compact-light-name = হালকা
 extension-firefox-compact-light-description = হালকা রঙের আবহ দেওয়া একটি থিম।
+
 extension-firefox-compact-dark-name = গাঢ়
 extension-firefox-compact-dark-description = গাঢ় রঙের আবহ দেওয়া একটি থিম।
 

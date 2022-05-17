@@ -11,14 +11,10 @@
 
 <!ENTITY newVirtualFolderCmd.label "সংরক্ষিত অনুসন্ধান… (S)">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newOtherAccountsCmd.label "অন্যান্য অ্যাকাউন্ট… (O)">
-<!ENTITY newOtherAccountsCmd.accesskey "O">
 <!ENTITY openMessageFileCmd.label "সংরক্ষিত বার্তা খোলা… (O)">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "নতুনভাবে সংরক্ষণ (S)">
 <!ENTITY saveAsMenu.accesskey "S">
-<!ENTITY saveAsFileCmd.label "ফাইল (F)">
-<!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "ফর্মা (T)">
 <!ENTITY saveAsTemplateCmd.accesskey "T">

@@ -108,7 +108,6 @@ redirectLoop-title = পাতাটি সঠিকভাবে রিডির
 unknownSocketType-title = সার্ভার থেকে অপ্রত্যাশিত উত্তর
 nssFailure2-title = নিরাপদ সংযোগ স্থাপন করতে ব্যর্থ
 corruptedContentError-title = ক্ষতিগ্রস্ত বিষয়বস্তুর ত্রুটি
-remoteXUL-title = রিমোট XUL
 sslv3Used-title = সুরক্ষিতভাবে কানেক্ট করতে ব্যার্থ
 inadequateSecurityError-title = আপনার সংযোগ নিরাপদ নয়
 blockedByPolicy-title = ব্লক করা পাতা
