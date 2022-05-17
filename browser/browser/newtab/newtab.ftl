@@ -15,10 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = खोजें
     .aria-label = खोजें
-newtab-search-box-search-the-web-input =
-    .placeholder = वेब पर खोजें
-    .title = वेब पर खोजें
-    .aria-label = वेब पर खोजें
+
 newtab-search-box-input =
     .placeholder = वेब पर खोजें
     .aria-label = वेब पर खोजें
@@ -26,17 +23,18 @@ newtab-search-box-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = खोज ईंजन जोड़ें
-newtab-topsites-add-topsites-header = नई शीर्ष साइट
 newtab-topsites-add-shortcut-header = नया शॉर्टकट
 newtab-topsites-edit-topsites-header = शीर्ष साइट संपादित करें
 newtab-topsites-edit-shortcut-header = शॉर्टकट संपादित करें
 newtab-topsites-title-label = शीर्षक
 newtab-topsites-title-input =
     .placeholder = एक शीर्षक दर्ज करें
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = एक URL टाइप करें अथवा पेस्ट करें
 newtab-topsites-url-validation = मान्य URL आवश्यक
+
 newtab-topsites-image-url-label = कस्टम छवि URL
 newtab-topsites-use-image-link = कस्टम छवि का उपयोग करें…
 newtab-topsites-image-validation = छवि लोड करने में विफल । किसी भिंन URL का प्रयास करें ।
@@ -64,10 +62,12 @@ newtab-confirm-delete-history-p2 = इस क्रिया को पहले
 newtab-menu-section-tooltip =
     .title = मेन्यू खोलें
     .aria-label = मेन्यू खोलें
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = हटाएं
     .aria-label = हटाएं
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -134,14 +134,17 @@ newtab-label-removed-bookmark = बुकमार्क हटाया गय�
 newtab-label-recommended = लोकप्रिय
 newtab-label-saved = { -pocket-brand-name } में सहेजा
 newtab-label-download = डाउनलोड की गई
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } . द्वारा प्रायोजित
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = { $sponsor } द्वारा प्रायोजित
+
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -172,7 +175,6 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = सर्वोच्च साइटें
-newtab-section-header-highlights = प्रमुखताएँ
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } द्वारा अनुशंसित
@@ -180,6 +182,7 @@ newtab-section-header-pocket = { $provider } द्वारा अनुशं�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ब्राउज़िंग प्रारंभ करें, और हम कुछ प्रमुख आलेख, विडियो, तथा अन्य पृष्ठों को प्रदर्शित करेंगे जिन्हें आपने हाल ही में देखा या पुस्तचिन्हित किया है.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -200,6 +203,7 @@ newtab-pocket-more-recommendations = अधिक अनुशंसाएँ
 newtab-pocket-learn-more = अधिक जानें
 newtab-pocket-cta-button = { -pocket-brand-name } प्राप्त करें
 newtab-pocket-cta-text = अपने पसंदीद कहानियाँ { -pocket-brand-name } में सहेजें, और आकर्षक पढ़ाई के साथ अपने दिमाग को शक्ति दें।
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = { -pocket-brand-name } में सहेजें
 newtab-pocket-saved-to-pocket = { -pocket-brand-name } में सहेजा गया

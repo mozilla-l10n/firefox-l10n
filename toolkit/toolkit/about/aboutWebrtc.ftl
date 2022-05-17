@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC आंतरिक
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = वेबआरटीसी: के बारे में सहेजे जैसे
@@ -72,10 +73,12 @@ about-webrtc-type-remote = दूरस्थ
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = मनोनीत
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = चयनित
+
 about-webrtc-save-page-label = पृष्ठ सहेजें
 about-webrtc-debug-mode-msg-label = दोषसुधार मोड
 about-webrtc-debug-mode-off-state-label = दोषसुधार मोड प्रारंभ करें
@@ -149,6 +152,7 @@ about-webrtc-aec-logging-off-state-msg = कैप्चर लॉग फ़ा�
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = अंतर { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -161,10 +165,12 @@ about-webrtc-trickle-caption-msg = छँटे उम्मीदवार (उ
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = स्थानीय SDP को टाइमस्टैम्प { NUMBER($timestamp, useGrouping: "false") } पर सेट करें
+
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = दूरस्थ SDP को टाइमस्टैम्प { NUMBER($timestamp, useGrouping: "false") } पर सेट करें
+
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.

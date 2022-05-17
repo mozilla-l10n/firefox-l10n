@@ -14,9 +14,6 @@
 compatibility-settings-button-label = सेटिंग
 compatibility-settings-button-title =
     .title = सेटिंग
-compatibility-feedback-button-label = प्रतिक्रिया
-compatibility-feedback-button-title =
-    .title = प्रतिक्रिया
 
 ## Messages used as headers in settings pane
 

@@ -16,9 +16,6 @@
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachPageCmd.label "वेब पेज...">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "निजी कार्ड (vCard)">
-<!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY closeCmd.label "बंद करें">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "c">
@@ -101,14 +98,6 @@
 
 <!ENTITY returnReceiptMenu.label "वापसी रसीद">
 <!ENTITY returnReceiptMenu.accesskey "t">
-<!ENTITY autoFormatCmd.label "स्वतः जांच">
-<!ENTITY autoFormatCmd.accesskey "a">
-<!ENTITY plainTextFormatCmd.label "सादा पाठ सिर्फ">
-<!ENTITY plainTextFormatCmd.accesskey "p">
-<!ENTITY htmlFormatCmd.label "रिच पाठ (HTML) सिर्फ">
-<!ENTITY htmlFormatCmd.accesskey "r">
-<!ENTITY bothFormatCmd.label "सादा व रिच (HTML) पाठ">
-<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "प्राथमिकता">
 <!ENTITY priorityMenu.accesskey "p">
 <!ENTITY priorityButton.label "प्राथमिकता:">

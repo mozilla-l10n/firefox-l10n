@@ -9,16 +9,3 @@
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
-<!ENTITY menu_securityEncryptRequire.accesskey "E">
-
-<!ENTITY menu_securitySign.label "इस संदेश को डिजिटली हस्ताक्षरित करें">
-<!ENTITY menu_securitySign.accesskey "S">
-
-<!ENTITY menu_securityStatus.label "सुरक्षा सूचना देखें">
-<!ENTITY menu_securityStatus.accesskey "I">
-
-<!ENTITY securityButton.label "सुरक्षा">
-<!ENTITY securityButton.tooltip "सुरक्षा जमावट देखें या बदलें">
-
-<!ENTITY menu_viewSecurityStatus.label "संदेश सुरक्षा सूचना">
-<!ENTITY menu_viewSecurityStatus.accesskey "I">
