@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Dati
 
-item-site-preferences =
-    .label = Lapas iestatījumus
-    .accesskey = s
-
 item-offline-apps =
     .label = Lapu nesaistes datus
     .accesskey = t

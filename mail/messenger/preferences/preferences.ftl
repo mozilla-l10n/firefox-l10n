@@ -162,9 +162,6 @@ restore-default-label =
     .accesskey = A
 
 default-search-engine = Noklusētais meklētājs
-add-search-engine =
-    .label = Pievienot no faila
-    .accesskey = P
 remove-search-engine =
     .label = Noņemt
     .accesskey = N
@@ -189,8 +186,6 @@ change-dock-icon = Mainīt lietotnes ikonas iestatījumus
 app-icon-options =
     .label = Lietotnes ikonas iespējas…
     .accesskey = L
-
-notification-settings = Brīdinājumus un noklusēto skaņu var atslēgt sistēmas iestatījumos rūtī Paziņojumi.
 
 animated-alert-label =
     .label = Rādīt brīdinājumu
@@ -388,14 +383,6 @@ quoted-text-color =
     .label = Krāsa:
     .accesskey = K
 
-type-column-label =
-    .label = Satura veids
-    .accesskey = v
-
-action-column-label =
-    .label = Darbība
-    .accesskey = D
-
 save-to-label =
     .label = Saglabāt failus
     .accesskey = S
@@ -548,12 +535,6 @@ restore-html-label =
 default-format-label =
     .label = Noklusēti pamatteksta vietā izmantot rindkopas formātu
     .accesskey = p
-
-format-description = Iestatīt teksta formāta darbību
-
-send-options-label =
-    .label = Sūtīšanas iespējas…
-    .accesskey = S
 
 autocomplete-description = Adresējot vēstules, meklēt atbilstošus ierakstus:
 
@@ -837,8 +818,6 @@ theme-label =
     .value = Tēma:
     .accesskey = T
 
-style-thunderbird =
-    .label = Thunderbird
 style-bubbles =
     .label = Burbuļi
 style-dark =
@@ -858,13 +837,8 @@ chat-variant-label =
 
 ## Preferences UI Search Results
 
-search-results-header = Meklēšanas rezultāti
+## Settings UI Search Results
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Atvainojiet! “<span data-l10n-name ="query"></span>” iespējās nav rezultātu.
-       *[other] Atvainojiet! “<span data-l10n-name ="query"></span>” iespējās nav rezultātu.
-    }
+search-results-header = Meklēšanas rezultāti
 
 search-results-help-link = Vajadzīga palīdzība? Apmeklējiet <a data-l10n-name="url">{ -brand-short-name } atbalstu</a>!

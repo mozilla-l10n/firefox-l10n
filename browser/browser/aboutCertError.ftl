@@ -115,7 +115,6 @@ unknownSocketType-title = Negaidīta atbilde no servera
 nssFailure2-title = Drošais savienojums neizdevās
 csp-xfo-error-title = { -brand-short-name } nevar atvērt šo lapu
 corruptedContentError-title = Bojāta satura kļūda
-remoteXUL-title = Attālināts XUL
 sslv3Used-title = Neizdevās droši pieslēgties
 inadequateSecurityError-title = Savienojums nav drošs
 blockedByPolicy-title = Bloķēta lapa

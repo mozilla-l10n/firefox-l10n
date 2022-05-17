@@ -47,6 +47,7 @@ app-basics-multi-process-support = Vairāku procesu logs
 app-basics-enterprise-policies = Uzņēmuma politikas
 app-basics-key-mozilla = Mozilla atrašanās vietas pakalpojuma atslēga
 app-basics-safe-mode = Drošais režīms
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Rādīt ar Finder

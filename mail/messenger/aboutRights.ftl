@@ -15,7 +15,6 @@ rights-intro-point-5 = Dažas { -brand-short-name } iespējas izmanto tīmeklī 
 rights-intro-point-5-unbranded = Ja šajā produktā ir iekļauti tīmekļa pakalpojumi, visiem aktuālajiem pakalpojuma nosacījumiem jābūt pieejamiem <a data-l10n-name="mozilla-website-services-link">mājas lapu pakalpojumu</a> sadaļā.
 rights-intro-point-6 = Lai varētu atskaņot dažu tipu video, { -brand-short-name } lejuplādē zināmus satura atkodēšanas moduļus no trešajām pusēm.
 rights-webservices-header = { -brand-full-name } tīmeklī bāzētie informācijas pakalpojumi
-rights-webservices = { -brand-full-name } izmanto tīmeklī bāzētus informācijas pakalpojumus ("Pakalpojumi"), lai nodrošinātu dažas no funkcijām, kas pieejamas binārajā { -brand-short-name } versijā ar zemāk aprakstītajiem nosacījumiem. Ja nevēlaties izmantot kādu no aprakstītajiem pakalpojumiem vai arī to izmantošanas nosacījumi jums nav pieņemami, jūs varat atslēgt šos pakalpojumus. Instrukcijas, kā atslēgt konkrētu pakalpojumi ir pieejamas <a data-l10n-name="mozilla-disable-service-link">te</a>. Citas iespējas un pakalpojumus var atslēgt programmas iestatījumos.
 rights-locationawarebrowsing = <strong>Atrašanās vietu zinoša pārlūkošana: </strong>informācija par jūsu atrašanās vietu nekad netiek sūtīta bez jūsu piekrišanas.  Ja vēlaties pilnībā atslēgt šo iespēju, rīkojieties sekojoši:
 rights-locationawarebrowsing-term-1 = Adreses joslā ierakstiet <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Ierakstiet geo.enabled

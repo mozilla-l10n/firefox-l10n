@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Uzzināt vairāk">
 
 <!ENTITY e2eEnc.description "Bez tiešās saziņas šifrēšanas, vēstuļu saturs ir atklāts jūsu epasta pakalpojumu sniedzējam un masu uzraudzībai.">
-<!ENTITY e2eeReqWarning.description "Ja vēlaties lietot šifrēšanu, vēstuļu nosūtīšanai jums nepieciešama katra saņēmēja publiskā atslēga vai sertifikāts.">
 
-<!ENTITY e2eSigning.description "Digitālais paraksts ļauj saņēmējiem pārbaudīt, ka vēstuli esat sūtījis jūs, un ka tās saturs nav mainīts.">
 <!ENTITY e2eTechPref.description "Vēlamā šifrēšanas tehnoloģija:">
 
-<!ENTITY doNotEncrypt.label "Nelietot šifrēšanu pēc noklusēšanas">
-<!ENTITY doNotEncrypt.accesskey "N">
-<!ENTITY requireEncryptMessage.label "Lietot šifrēšanu pēc noklusēšanas">
-<!ENTITY requireEncryptMessage.accesskey "L">
 <!ENTITY encryptionCert2.message "Personīgais sertifikāts šifrēšanai:">
 <!ENTITY digitalSign.certificate.button "Izvēlieties…">
 <!ENTITY digitalSign.certificate.accesskey "I">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Attīrīt">
 <!ENTITY encryption.certificate_clear.accesskey "t">
 <!ENTITY signingGroupTitle.label "Digitālā parakstīšana">
-<!ENTITY signMessage2.label "Pēc noklusējuma pievienot jūsu digitālo parakstu">
-<!ENTITY signMessage.accesskey "n">
 <!ENTITY signingCert2.message "Personīgais sertifikāts digitālajai parakstīšanai:">
 
 <!ENTITY sendingDefaults.label "Noklusētie iestatījumi vēstuļu sūtīšanai">

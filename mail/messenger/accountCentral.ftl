@@ -46,7 +46,6 @@ newsgroups-label = Ziņu grupas
 newsgroups-description = { -brand-short-name } ļauj izveidot savienojumu ar kādām vien vēlaties ziņu grupām.
 
 import-title = Importēt no citas programmas
-import-paragraph = Šis vednis importēs vēstules, adrešu grāmatas ierakstus, plūsmas abonementus, iestatījumus un/vai filtrus no citām pasta programmām un parastajiem adrešu grāmatas formātiem uz { -brand-short-name }.
 
 import-label = Importēt
     .aria-label = Importēt datus no citām programmām

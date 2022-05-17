@@ -123,14 +123,6 @@ openpgp-import-key-description = Jūs varat importēt personīgās atslēgas, ka
 
 openpgp-import-key-info = Cita programmatūra var aprakstīt personīgo atslēgu, izmantojot citus nosaukumus, piemēram, savu atslēgu, slepeno atslēgu, privāto atslēgu vai atslēgu pāri.
 
-#   $count (Number) - the number of keys found in the selected files
-openpgp-import-key-list-amount =
-    { $count ->
-        [zero] Thunderbird atrada vienu importējamu atslēgu
-        [one] Thunderbird atrada { $count } importējamas atslēgas
-       *[other] Thunderbird atrada { $count } importējamas atslēgas
-    }
-
 openpgp-import-key-list-description = Apstipriniet, kuras atslēgas uzskatīt par jūsu personīgajām atslēgām. Par personīgajām atslēgām drīkst izmantot tikai tās atslēgas, kuras pats esat izveidojis un kas parāda jūsu identitāti. Šo opciju var mainīt vēlāk Atslēgas īpašības dialogā.
 
 openpgp-import-key-list-caption = Atslēgas, kas atzīmētas kā personīgās atslēgas, tiks piedāvātas tiešās saziņas šifrēšanai. Pārējās būs pieejamas Atslēgu pārvaldniekā.

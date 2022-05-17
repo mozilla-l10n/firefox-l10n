@@ -237,6 +237,7 @@ openpgp-key-man-key-details-key =
 
 openpgp-key-details-title =
     .title = Atslēgas īpašības
+
 openpgp-key-details-signatures-tab =
     .label = Sertifikāti
 openpgp-key-details-structure-tab =
@@ -249,6 +250,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Veids
 openpgp-key-details-key-part-label =
     .label = Galvenā daļa
+
 openpgp-key-details-algorithm-label =
     .label = Algoritms
 openpgp-key-details-size-label =
@@ -265,7 +267,6 @@ openpgp-key-details-fingerprint-label = Pirkstu nospiedums
 openpgp-key-details-sel-action =
     .label = Atlasīt darbību…
     .accesskey = A
-openpgp-key-details-also-known-label = Atslēgas īpašnieka iespējamās alternatīvās identitātes:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Aizvērt
 openpgp-acceptance-label =
@@ -281,7 +282,6 @@ openpgp-acceptance-verified-label =
 key-accept-personal =
     Šai atslēgai jums ir gan publiskā, gan slepenā daļa. Jūs to varat izmantot kā personīgo atslēgu.
     Ja šo atslēgu jums piešķīra kāds cits, tad nelietojiet to kā personīgo atslēgu.
-key-personal-warning = Vai jūs pats izveidojāt šo atslēgu, un šīs atslēgas identitāte attiecas uz jums?
 openpgp-personal-no-label =
     .label = Nē, nelietot to kā jūsu personīgo atslēgu.
 openpgp-personal-yes-label =
@@ -291,15 +291,6 @@ openpgp-copy-cmd-label =
     .label = Kopēt
 
 ## e2e encryption settings
-
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $identity (String) - the email address of the currently selected identity
-openpgp-description =
-    { $count ->
-        [0] Thunderbird nav ar <b>{ $identity }</b> saistītas personīgās OpenPGP atslēgas
-        [one] Thunderbird atrada { $count } ar <b>{ $identity }</b> saistītu personīgo OpenPGP atslēgu
-       *[other] Thunderbird atrada { $count } ar <b>{ $identity }</b> saistītas personīgās OpenPGP atslēgas
-    }
 
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Jūsu pašreizējos iestatījumos tiek izmantota atslēga <b>{ $key }</b>, kurai ir beidzies derīgums.
@@ -365,15 +356,12 @@ key-expired-date = Atslēgas derīgums beidzās: { $keyExpiry }
 key-expired-simple = Atslēga ir beigusies
 key-revoked-simple = Atslēga ir atsaukta
 key-do-you-accept = Vai jūs pieņemat šo atslēgu digitālo parakstu pārbaudei un ziņojumu šifrēšanai?
-key-accept-warning = Izvairieties pieņemt blēdīgas atslēgas. Lai pārbaudītu korespondenta atslēgas pirksta nospiedumu, izmantojiet saziņas kanālu, kas nav epasts.
 
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Neizdevās nosūtīt vēstuli, jo radās problēma ar jūsu personīgo atslēgu. { $problem }
 cannot-encrypt-because-missing = Neizdevās nosūtīt šo vēstulei ar tiešās saziņas šifrēšanu, jo ir problēmas ar šo adresātu atslēgām: { $problem }
 window-locked = Salikšanas logs ir bloķēts; sūtīšana atcelta
 
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Šifrētā vēstules daļa
 mime-decrypt-encrypted-part-concealed-data = Šī ir šifrētā vēstules daļa. Jums tā jāatver atsevišķā logā, klikšķinot uz pielikuma.
 
 # Strings in keyserver.jsm
@@ -399,27 +387,6 @@ converter-decrypt-body-failed =
     Neizdevās atšifrēt ziņojumu ar tēmu
     { $subject }.
     Vai vēlaties mēģināt vēlreiz, izmantojot citu paroli, vai arī vēlaties izlaist vēstuli?
-
-# Strings in gpg.jsm
-unknown-signing-alg = Nezināms parakstīšanas algoritms (ID: { $id })
-unknown-hash-alg = Nezināms kriptogrāfiskais jaukums (ID: { $id })
-
-# Strings in keyUsability.jsm
-expiry-key-expires-soon =
-    Jūsu atslēgas { $desc } derīgums beigsies mazāk nekā { $days } dienās.
-    Iesakām izveidot jaunu atslēgu pāri un iestatīt atbilstošos kontus tās lietošanai.
-expiry-keys-expire-soon =
-    Jūsu atslēgas { $desc } derīgums beigsies mazāk nekā { $days } dienās: { $desc }
-    Iesakām izveidot jaunu atslēgu pāri un iestatīt atbilstošos kontus tās lietošanai.
-expiry-key-missing-owner-trust =
-    Jūsu slepenajai atslēgai { $desc } trūkst uzticības.
-    Iesakām atslēgas iestatījumos "Paļaujos uz sertifikātiem" iestatīt uz "Pilnīgi".
-expiry-keys-missing-owner-trust =
-    Jūsu slepenajai atslēgai trūkst uzticības.
-    { $desc }.
-    Iesakām atslēgas iestatījumos "Paļaujos uz sertifikātiem" iestatīt uz "Pilnīgi".
-expiry-open-key-manager = Atvērt OpenPGP atslēgu pārvaldnieku
-expiry-open-key-properties = Atvērtās atslēgas īpašības
 
 # Strings filters.jsm
 filter-folder-required = Jums jāizvēlas mērķa mape.
@@ -655,9 +622,6 @@ send-to-news-warning =
     Tas nav ieteicams, jo tam ir jēga tikai tad, ja visi grupas dalībnieki var to atšifrēt, t.i., vēstule ir jāšifrē ar visu grupas dalībnieku atslēgām. Lūdzu, nosūtiet šo vēstuli tikai tad, ja skaidri zināt, ko darāt.
     Turpināt?
 save-attachment-header = Saglabāt atšifrēto pielikumu
-no-temp-dir =
-    Neizdevās atrast pagaidu mapi, kurā rakstīt
-    Lūdzu, iestatiet TEMP vides mainīgo
 possibly-pgp-mime = Iespējams, ar PGP/MIME šifrēta vai parakstīt vēstule; lai pārbaudītu, izmantojiet "Atšifrēt/Pārbaudīt" darbību
 cannot-send-sig-because-no-own-key = Šo vēstuli nevar digitāli parakstīt, jo vēl neesat iestatījis tiešās saziņas šifrēšanu priekš <{ $key }>
 cannot-send-enc-because-no-own-key = Šo vēstuli nevar nosūtīt šifrētu, jo vēl neesat iestatījis tiešās saziņas šifrēšanu priekš <{ $key }>

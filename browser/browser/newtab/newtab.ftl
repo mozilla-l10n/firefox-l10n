@@ -16,15 +16,9 @@ newtab-search-box-search-button =
     .title = Meklēt
     .aria-label = Meklēt
 
-newtab-search-box-search-the-web-input =
-    .placeholder = Meklēt internetā
-    .title = Meklēt internetā
-    .aria-label = Meklēt internetā
-
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Pievienot meklētāju
-newtab-topsites-add-topsites-header = Jauna populārā lapa
 newtab-topsites-edit-topsites-header = Rediģēt populārās lapas
 newtab-topsites-title-label = Virsraksts
 newtab-topsites-title-input =
@@ -153,7 +147,6 @@ newtab-section-menu-privacy-notice = Privātuma politika
 ## Section Headers.
 
 newtab-section-header-topsites = Populārākās lapas
-newtab-section-header-highlights = Aktualitātes
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Iesaka { $provider }
@@ -178,6 +171,9 @@ newtab-pocket-read-more = Populārās tēmas:
 newtab-pocket-more-recommendations = Vairāk ieteikumu
 newtab-pocket-cta-button = Izmēģiniet { -pocket-brand-name }
 newtab-pocket-cta-text = Saglabājiet interesantus stāstus { -pocket-brand-name } un barojiet savu prātu ar interesantu lasāmvielu.
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

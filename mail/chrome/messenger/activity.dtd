@@ -10,28 +10,10 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                  "Darbību pārvaldnieks">
 
-<!ENTITY cmd.pause.label                  "Pauze">
-<!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Atsākt">
-<!ENTITY cmd.resume.accesskey             "s">
-<!ENTITY cmd.cancel.label                 "Atcelt">
-<!ENTITY cmd.cancel.accesskey             "c">
-<!ENTITY cmd.undo.label                   "Atsaukt">
-<!ENTITY cmd.undo.accesskey               "s">
-<!ENTITY cmd.recover.label                "Atgūt">
-<!ENTITY cmd.recover.accesskey            "g">
-<!ENTITY cmd.retry.label                  "Atkārtot">
-<!ENTITY cmd.retry.accesskey              "k">
-<!ENTITY cmd.removeFromList.label         "Izņemt no saraksta">
-<!ENTITY cmd.removeFromList.accesskey     "I">
-
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Notīrīt sarakstu">
 <!ENTITY cmd.clearList.tooltip            "Noņem pabeigtos, atceltos un neizdevušos vienumus no saraksta">
 <!ENTITY cmd.clearList.accesskey          "N">
-<!ENTITY cmd.find.commandkey              "f">
-<!ENTITY cmd.search.commandkey            "k">
 
-<!ENTITY searchBox.label                  "Meklēt...">

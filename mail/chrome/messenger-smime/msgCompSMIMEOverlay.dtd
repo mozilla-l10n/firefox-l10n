@@ -4,33 +4,13 @@
 
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY menu_securityDoNotEncrypt.label "Nešifrēt">
-<!ENTITY menu_securityDoNotEncrypt.accesskey "N">
-
 <!-- not yet used
 <!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
-
-<!ENTITY menu_securityEncryptRequire2.label "Pieprasīt šifrēšanu">
-<!ENTITY menu_securityEncryptRequire.accesskey "S">
-
-<!ENTITY menu_securitySign.label "Digitāli parakstīt šo vēstuli">
-<!ENTITY menu_securitySign.accesskey "P">
-
-<!ENTITY menu_securityTech.label "Šifrēšanas tehnoloģija">
-<!ENTITY menu_securityTech.accesskey "T">
 
 <!ENTITY menu_techPGP.label "OpenPGP">
 <!ENTITY menu_techPGP.accesskey "O">
 <!ENTITY menu_techSMIME.label "S/MIME">
 <!ENTITY menu_techSMIME.accesskey "S">
 
-<!ENTITY menu_securityStatus.label "Skatīt drošības informāciju">
-<!ENTITY menu_securityStatus.accesskey "S">
-
-<!ENTITY securityButton.label "Drošība">
-<!ENTITY securityButton.tooltip "Skatīt vai mainīt drošības iestatījumus">
-
-<!ENTITY menu_viewSecurityStatus.label "Vēstules drošība">
-<!ENTITY menu_viewSecurityStatus.accesskey "D">

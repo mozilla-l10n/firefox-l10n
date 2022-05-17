@@ -108,6 +108,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Jauns saraksts">
 <!ENTITY newlistButton.accesskey                        "s">
+
 <!ENTITY showAsDefault.label                            "Noklusētā starta mape">
 <!ENTITY showAsDefault.accesskey                        "m">
 <!ENTITY editPropertiesButton.label                     "Rediģēt">

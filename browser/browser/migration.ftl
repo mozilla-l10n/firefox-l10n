@@ -67,22 +67,9 @@ import-done-description = Tika sekmīgi importēti:
 
 import-close-source-browser = Lūdzu pārliecinieties ka izvēlētais pārlūks ir aizvērts pirms turpināt.
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = No { $source }
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
-source-name-safari = Safari
-source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
-source-name-chrome-beta = Google Chrome Beta
-source-name-chrome-dev = Google Chrome Dev
-source-name-chromium = Chromium
-source-name-firefox = Mozilla Firefox
-source-name-360se = 360 Drošs pārlūks
 
 imported-safari-reading-list = Lasāmo lietu saraksts (No Safari)
 imported-edge-reading-list = Lasāmo lietu saraksts (No Edge)

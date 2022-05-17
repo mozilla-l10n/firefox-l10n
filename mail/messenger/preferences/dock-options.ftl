@@ -23,4 +23,3 @@ count-new-messages-radio =
     .label = Jaunu vēstuļu skaits
     .accesskey = J
 
-notification-settings-info = Jūs varat atslēgt žetonus Sistēmas iespējās rūtī Paziņojumi.

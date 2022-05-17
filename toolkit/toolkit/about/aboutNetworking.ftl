@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = Aktīvs
 about-networking-idle = Dīkstāvē
 about-networking-host = Adrese
-about-networking-tcp = TCP
 about-networking-sent = Nosūtīts
 about-networking-received = Saņemts
 about-networking-family = Saime
