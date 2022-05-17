@@ -16,15 +16,9 @@ newtab-search-box-search-button =
     .title = Yiylo
     .aria-label = Yiylo
 
-newtab-search-box-search-the-web-input =
-    .placeholder = Yiylo geese
-    .title = Yiylo geese
-    .aria-label = Yiylo geese
-
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Ɓeydu yiylorde
-newtab-topsites-add-topsites-header = Lowre Dowrowre Hesere
 newtab-topsites-edit-topsites-header = Taƴto Lowre Dowrowre
 newtab-topsites-title-label = Tiitoonde
 newtab-topsites-title-input =
@@ -163,7 +157,6 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = Lowe dowrowe
-newtab-section-header-highlights = Jalbine
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Waggini ɗum ko { $provider }
@@ -195,6 +188,9 @@ newtab-pocket-more-recommendations = Wasiyaaji goɗɗi
 newtab-pocket-learn-more = Ɓeydu humpito
 newtab-pocket-cta-button = Heɓ { -pocket-brand-name }
 newtab-pocket-cta-text = Hisnu daari njiɗ-ɗaa nder { -pocket-brand-name }, ñikliraa hakkille maa taro welngo.
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

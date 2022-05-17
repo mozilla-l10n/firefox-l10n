@@ -18,12 +18,14 @@ videocontrols-casting-button-label =
     .aria-label = Neldu to Yaynirde
 videocontrols-closed-caption-off =
     .offlabel = Ñifii
+
 videocontrols-error-aborted = Loowgol widewoo dartinaama.
 videocontrols-error-network = Tartol widewoo dartiima sabu juumre laylaytol.
 videocontrols-error-decode = Widewoo oo waawaa tareede sabu fiilde ndee ko moƴƴaani.
 videocontrols-error-src-not-supported = Mbayka widewoo walla fannu MIME tammbitaaka.
 videocontrols-error-no-source = Alaa widewoo baɗɗo mbayka tammbitaaka yiytaa.
 videocontrols-error-generic = Tartol widewoo dartiima sabu juumre nde anndaaka.
+
 # This message shows the current position and total video duration
 #
 # Variables:

@@ -39,15 +39,6 @@ menu-quit =
 menu-quit-mac =
     .label = Yaltu { -brand-shorter-name }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Yaltu { -brand-shorter-name }
-
 menu-about =
     .label = Baɗte { -brand-shorter-name }
     .accesskey = B
@@ -77,9 +68,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Uddit Fiilde…
     .accesskey = U
-menu-file-close =
-    .label = Uddu
-    .accesskey = U
 menu-file-close-window =
     .label = Uddu Henorde
     .accesskey = d
@@ -92,9 +80,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Teeltagol Hello…
     .accesskey = o
-menu-file-print-preview =
-    .label = Jiytindagol Winndito
-    .accesskey = n
 menu-file-print =
     .label = Winndito…
     .accesskey = W
@@ -273,9 +258,6 @@ menu-help =
     .accesskey = B
 menu-help-report-site-issue =
     .label = Jaŋto Caɗeele Lowre…
-menu-help-feedback-page =
-    .label = Neldu Duttinal…
-    .accesskey = N
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

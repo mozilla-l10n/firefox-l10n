@@ -40,6 +40,7 @@ app-basics-profiles = Keftinirɗe
 app-basics-multi-process-support = Kenorɗe Cili Keewɗi
 app-basics-key-mozilla = Nokkuje Coktirɗe Mozilla
 app-basics-safe-mode = Mbayka Hoolno
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Hollir e Yiytirde

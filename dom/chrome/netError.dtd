@@ -79,9 +79,6 @@
 <!ENTITY corruptedContentErrorv2.title "Juumre Loowdi Jiibndi">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Hello ngo etot-ɗaa naatnde ngoo waawaa hollireede sabu juumre waɗii e baanjitagol keɓe ɗee.</p><ul><li>Tiiɗno jokkondir e jeyɓe lowre geese ndee ngam humpitde-ɓe caɗeele ɗee.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL Poottiiɗo">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Tiiɗno jokkondir e jeyɓe lowre ndee ngam humpitde-ɓe caɗe ɗee.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Ceŋagol maa hisaani">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

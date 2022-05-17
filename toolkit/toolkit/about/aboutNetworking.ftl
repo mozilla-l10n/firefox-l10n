@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = Ena hurmi
 about-networking-idle = Aami
 about-networking-host = Koɗnoowo
-about-networking-tcp = TCP
 about-networking-sent = Nelaaɗe
 about-networking-received = Keɓaaɗe
 about-networking-family = Galle

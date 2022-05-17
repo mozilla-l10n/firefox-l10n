@@ -15,11 +15,14 @@ toolbox-meatball-menu-dock-bottom-label = Yah les
 toolbox-meatball-menu-dock-left-label = Yah nano
 toolbox-meatball-menu-dock-right-label = Yah ñaamo
 toolbox-meatball-menu-dock-separate-window-label = Henorde seerndaande
+
 toolbox-meatball-menu-splitconsole-label = Ɗis henorde feccaande
 toolbox-meatball-menu-hideconsole-label = Suuɗ henorde feccaande
+
 toolbox-meatball-menu-settings-label = Teelte
 toolbox-meatball-menu-documentation-label = Duttorɗe…
 toolbox-meatball-menu-community-label = Dental…
+
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.

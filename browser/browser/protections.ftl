@@ -40,9 +40,7 @@ protections-close-button2 =
 mobile-app-title = Daaƴ rewindotooɓe ɓaŋŋine e masiŋon keewkon
 
 lockwise-title = Hoto majjin finnde maa kadi abadaa
-lockwise-mobile-app-title = Nawor ceŋorɗe e pinle maa kala nokku.
-lockwise-no-logins-card-content = Huutoro pinle danndaaɗe nder { -brand-short-name } e kaɓirgol baawngol won'de fof.
-lockwise-app-links = { -lockwise-brand-name } ngam <a data-l10n-name="lockwise-android-inline-link">Android</a> e  <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+
 
 monitor-title = Yuurnito ciigol keɓe
 monitor-link = Hol no gollortoo

@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Keɓe
 
-item-site-preferences =
-    .label = Cuɓoraaɗe Lowre
-    .accesskey = L
-
 item-offline-apps =
     .label = Keɓe Lowre Ceŋrol
     .accesskey = K

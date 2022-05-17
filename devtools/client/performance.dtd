@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Laabi ngal gollal wonnoo e joowre ndee tuma nde heftinirde ndee ƴetti jubbitere.">
 <!ENTITY performanceUI.table.function                 "Gollal">
 <!ENTITY performanceUI.table.function.tooltip         "Innde e nokku iwdi gollal jubbitaangal ngal.">
-<!ENTITY performanceUI.table.totalAlloc               "Kuuɓal Taƴne Jubbitaaɗe">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Kuuɓal taƴne geɗe jubbitaaɗe e oo nokku e nder noddirgon.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
