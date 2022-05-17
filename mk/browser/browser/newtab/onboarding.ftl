@@ -25,10 +25,6 @@ return-to-amo-add-extension-label = Додадете ја наставката
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
-onboarding-multistage-welcome-secondary-button-label = Најавете се
-onboarding-multistage-set-default-secondary-button-label = Не сега
-onboarding-multistage-import-secondary-button-label = Не сега
-
 ## Multistage onboarding strings (about:welcome pages)
 
 

@@ -20,9 +20,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY importDialog.windowTitle "Увезување">
 
-<!ENTITY window.width "40em">
-<!ENTITY window.macWidth "45em">
-
 <!ENTITY importTitle.label "Волжебник за увоз на пошта на &brandShortName;">
 
 <!ENTITY importDescription2.label "Откога ќе бидат увезени, до нив ќе можете да  пристапите преку поштата и/или адресарот на &brandShortName;.">

@@ -23,6 +23,7 @@ app-basics-enabled-plugins = Овозможени приклучоци
 app-basics-build-config = Конфигурација на изданието
 app-basics-user-agent = Кориснички агент
 app-basics-memory-use = Искористеност на меморија
+
 modified-key-prefs-title = Важни променети параметри
 modified-prefs-name = Име
 modified-prefs-value = Вредност

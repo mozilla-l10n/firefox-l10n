@@ -5,10 +5,14 @@
 protections-close-button2 =
     .aria-label = Затвори
     .title = Затвори
-lockwise-mobile-app-title = Понесете ги вашите лозинки насекаде
+
+
 lockwise-how-it-works-link = Како работи
+
 monitor-link = Како работи
+
 monitor-no-breaches-title = Добри вести!
+
 monitor-partial-breaches-motivation-title-start = Одличен почеток!
 monitor-partial-breaches-motivation-title-middle = Продолжи така!
 

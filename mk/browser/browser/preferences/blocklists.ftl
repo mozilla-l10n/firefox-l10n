@@ -5,10 +5,14 @@
 blocklist-window =
     .title = Списоци за блокирање
     .style = width: 55em
+
 blocklist-close-key =
     .key = w
+
 blocklist-treehead-list =
     .label = Список
+
+
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."
@@ -17,6 +21,7 @@ blocklist-treehead-list =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
+
 blocklist-item-moz-std-listName = Ниво 1 блок-листа (препорачано).
 blocklist-item-moz-full-listName = Ниво 2 блок-листа.
 blocklist-item-moz-full-description = Ги блокира сите откриени trackers. Некои веб-страници или содржина може да не се вчитаат правилно.

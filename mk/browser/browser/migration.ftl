@@ -61,16 +61,8 @@ import-done-description = Следниве елементи беа успешн�
 
 import-close-source-browser = Ве молам, пред да продолжите, осигурајте се дека избраниот прелистувач е затворен.
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Од { $source }
-
 source-name-ie = Internet Explorer
-source-name-safari = Safari
 source-name-chrome = Google Chrome
-source-name-firefox = Mozilla Firefox
 
 imported-safari-reading-list = Список за читање (од Safari)
 

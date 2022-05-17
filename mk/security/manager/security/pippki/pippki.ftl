@@ -8,6 +8,7 @@ password-quality-meter = Мерач на квалитетот на лозинк�
 
 change-device-password-window =
     .title = Промени лозинка
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Безбедносен уред: { $tokenName }

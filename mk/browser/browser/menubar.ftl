@@ -39,15 +39,6 @@ menu-quit =
 menu-quit-mac =
     .label = Излези од { -brand-shorter-name }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Излези од { -brand-shorter-name }
-
 menu-about =
     .label = За { -brand-shorter-name }
     .accesskey = A
@@ -77,9 +68,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Отвори датотека…
     .accesskey = О
-menu-file-close =
-    .label = Затвори
-    .accesskey = т
 menu-file-close-window =
     .label = Затвори го прозорецот
     .accesskey = п
@@ -92,9 +80,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Поставување на страницата…
     .accesskey = с
-menu-file-print-preview =
-    .label = Преглед за печатење
-    .accesskey = г
 menu-file-print =
     .label = Печати…
     .accesskey = ч
@@ -256,9 +241,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Помош
     .accesskey = ш
-menu-help-feedback-page =
-    .label = Испрати коментар…
-    .accesskey = с
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
