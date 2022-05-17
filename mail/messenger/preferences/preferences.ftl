@@ -162,9 +162,6 @@ restore-default-label =
     .accesskey = u
 
 default-search-engine = Standard søkjemotor
-add-search-engine =
-    .label = Legg til frå fil
-    .accesskey = e
 remove-search-engine =
     .label = Fjern
     .accesskey = e
@@ -193,8 +190,6 @@ change-dock-icon = Endra innstillingar for app-ikonet
 app-icon-options =
     .label = Innstillingar for app-ikon …
     .accesskey = n
-
-notification-settings = Åtvaringar og standardlyden kan slåast av i varslingsfeltet i Systeminnstillingar.
 
 animated-alert-label =
     .label = Vis eit varsel
@@ -392,14 +387,6 @@ quoted-text-color =
     .label = Farge:
     .accesskey = F
 
-type-column-label =
-    .label = Innhaldstype
-    .accesskey = I
-
-action-column-label =
-    .label = Handling
-    .accesskey = H
-
 save-to-label =
     .label = Lagre filer til
     .accesskey = L
@@ -552,12 +539,6 @@ restore-html-label =
 default-format-label =
     .label = Bruk paragrafformat i staden for brødtekst som standard
     .accesskey = p
-
-format-description = Konfigurer åtferda til tekstformatet
-
-send-options-label =
-    .label = Sende-innstillingar …
-    .accesskey = n
 
 autocomplete-description = Ved adressering av meldingar, sjå etter treff i:
 
@@ -841,8 +822,6 @@ theme-label =
     .value = Tema
     .accesskey = T
 
-style-thunderbird =
-    .label = Thunderbird
 style-bubbles =
     .label = Bobler
 style-dark =
@@ -862,13 +841,8 @@ chat-variant-label =
 
 ## Preferences UI Search Results
 
-search-results-header = Søkjeresultat
+## Settings UI Search Results
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Beklagar! Det er ingen resultat i innstillingar for «<span data-l10n-name="query"></span>».
-       *[other] Beklagar! Det er ingen resultat i innstillingar for «<span data-l10n-name="query"></span>».
-    }
+search-results-header = Søkjeresultat
 
 search-results-help-link = Treng du hjelp? Gå til <a data-l10n-name="url">{ -brand-short-name } brukarstøtte</a>

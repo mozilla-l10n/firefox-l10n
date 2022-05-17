@@ -123,13 +123,6 @@ openpgp-import-key-description = Du kan importere personlege nøklar som vart la
 
 openpgp-import-key-info = Anna programvare kan beskrive ein personleg nøkkel ved å bruke alternative termar som din eigen nøkkel, hemmeleg nøkkel, privat nøkkel eller nøkkelpar.
 
-#   $count (Number) - the number of keys found in the selected files
-openpgp-import-key-list-amount =
-    { $count ->
-        [one] Thunderbird fann ein nøkkel som kan importerast.
-       *[other] Thunderbird fann { $count } nøklar som kan importerast.
-    }
-
 openpgp-import-key-list-description = Bekreft hvilke nøklar som kan behandles som dine personlige nøkler. Bare nøkler som du opprettet selv og som viser din egen identitet, skal brukes som personlige nøkler. Du kan endre dette alternativet senere i dialogboksen Nøkkelegenskaper.
 
 openpgp-import-key-list-caption = Nøklar merkte for å bli behandla som personlege nøklar vil bli oppførte i avsnittet ende-til-ende-kryptering. Dei andre vil vere tilgjengelege i nøkkelhandteraren.

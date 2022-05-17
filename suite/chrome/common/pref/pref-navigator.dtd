@@ -41,10 +41,3 @@
 <!ENTITY useDefault.label               "Still tilbake til standard">
 <!ENTITY useDefault.accesskey           "f">
 
-<!ENTITY defaultBrowserGroup.label      "Standardnettlesar">
-<!ENTITY defaultBrowserButton.label     "Vel standardnettlesar">
-<!ENTITY defaultBrowserButton.accesskey "a">
-<!ENTITY alreadyDefaultText             "&brandShortName; er allereie standardnettlesar.">
-<!ENTITY defaultPendingText             "&brandShortName; vil bli vald som standard nettlesar når du trykkjer på OK.">
-<!ENTITY wasMadeDefaultText             "&brandShortName; er vald som standard nettlesar.">
-<!ENTITY makeDefaultText                "Vel &brandShortName; som standard nettlesar.">

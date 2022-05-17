@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Les meir">
 
 <!ENTITY e2eEnc.description "Utan ende-til-ende-kryptering kan innhaldet i meldingane lett eksponerast for e-postleverandøren din og for masseovervaking.">
-<!ENTITY e2eeReqWarning.description "Dersom du treng kryptering, må du ha den offentlege nøkkelen eller sertifikatet til kvar mottaker for å sende ei melding.">
 
-<!ENTITY e2eSigning.description "Ein digital signatur gjer at mottakarar kan stadfeste at meldinga vart sendt av deg, og at innhaldet ikkje er endra.">
 <!ENTITY e2eTechPref.description "Føretrekt krypteringsteknologi:">
 
-<!ENTITY doNotEncrypt.label "Ikkje slå på kryptering som standard">
-<!ENTITY doNotEncrypt.accesskey "k">
-<!ENTITY requireEncryptMessage.label "Krev kryptering som standard">
-<!ENTITY requireEncryptMessage.accesskey "y">
 <!ENTITY encryptionCert2.message "Personleg sertifikat for kryptering:">
 <!ENTITY digitalSign.certificate.button "Vel…">
 <!ENTITY digitalSign.certificate.accesskey "V">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Tøm">
 <!ENTITY encryption.certificate_clear.accesskey "ø">
 <!ENTITY signingGroupTitle.label "Digital signering">
-<!ENTITY signMessage2.label "Legg til den digitale signaturen min som standard">
-<!ENTITY signMessage.accesskey "S">
 
 <!ENTITY signingCert2.message "Personleg sertifikat for digital signering:">
 

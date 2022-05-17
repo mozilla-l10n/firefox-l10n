@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Nettside …">
 <!ENTITY attachPageCmd.accesskey "N">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Personleg adressekort (vCard)">
-<!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY remindLater.label "Minn meg på det seinare">
 <!ENTITY remindLater.accesskey "M">
 <!ENTITY closeCmd.label "Lat att">
@@ -148,16 +145,6 @@
 <!ENTITY returnReceiptMenu.accesskey "K">
 <!ENTITY dsnMenu.label "Leveringsstadfesting">
 <!ENTITY dsnMenu.accesskey "L">
-<!ENTITY deliveryFormatMenu.label "Leveringsformat">
-<!ENTITY deliveryFormatMenu.accesskey "f">
-<!ENTITY autoFormatCmd.label "Auto-attkjenning">
-<!ENTITY autoFormatCmd.accesskey "A">
-<!ENTITY plainTextFormatCmd.label "Berre rein tekst">
-<!ENTITY plainTextFormatCmd.accesskey "B">
-<!ENTITY htmlFormatCmd.label "Berre rik tekst (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "r">
-<!ENTITY bothFormatCmd.label "Rein og rik (HTML) tekst">
-<!ENTITY bothFormatCmd.accesskey "R">
 <!ENTITY priorityMenu.label "Prioritet">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.title "Priority">
@@ -221,7 +208,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Andre typar adressefelt">
 <!ENTITY fromAddr2.label "Frå">
 <!ENTITY fromAddr.accesskey "å">
 <!ENTITY replyAddr2.label "Svar-til">

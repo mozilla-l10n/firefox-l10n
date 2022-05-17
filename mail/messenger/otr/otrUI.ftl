@@ -63,12 +63,6 @@ afterauth-private = Du har stadfesta identiteten på { $name }.
 #   $name (String) - the screen name of a chat contact person
 afterauth-unverified = Identiteten for { $name } er ikkje stadfesta.
 
-verify-title = Stadfest identiteten til kontakten din
-error-title = Feil
-success-title = Ende-til-ende-kryptering
-fail-title = Klarte ikkje å stadfeste
-waiting-title = Stadfestingsførespurnad er sendt
-
 # Do not translate 'OTR' (name of an encryption protocol)
 # Variables:
 #   $error (String) - contains an error message that describes the cause of the failure
