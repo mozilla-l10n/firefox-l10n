@@ -30,6 +30,7 @@ app-basics-build-config = كنفیوگریشن بنٲویو
 app-basics-user-agent = استیمال كرن وۄل ایجینٹ
 app-basics-memory-use = میمری ہیوند  استیمال
 app-basics-multi-process-support = ملٹی پراسیس وینڈوز
+
 modified-key-prefs-title = ضروری بدلیمِت ترجیحات
 modified-prefs-name = ناو
 modified-prefs-value = قئمتھ

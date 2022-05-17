@@ -39,15 +39,6 @@ menu-quit =
 menu-quit-mac =
     .label = &برینڈ لكُٹ  ناو كریو خٲرج
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = برینڈ  لكُٹ ناو  كریو ایکزِٹ
-
 menu-about =
     .label = برانڈ شاٹ ناو؛;مُتلق&
     .accesskey = ب
@@ -74,9 +65,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = فایل كھولیو
     .accesskey = O
-menu-file-close =
-    .label = بند{ "  " }
-    .accesskey = C
 menu-file-close-window =
     .label = وِنڈو كریو بند
     .accesskey = d
@@ -89,9 +77,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = پیج سیٹ اپ...
     .accesskey = u
-menu-file-print-preview =
-    .label = پرینٹ  پیش منظر{ " " }
-    .accesskey = v
 menu-file-print =
     .label = پرینٹ...
     .accesskey = P
@@ -245,6 +230,3 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = مدد
     .accesskey = م
-menu-help-feedback-page =
-    .label = & پنِن راے كریو دٲخل...
-    .accesskey = S

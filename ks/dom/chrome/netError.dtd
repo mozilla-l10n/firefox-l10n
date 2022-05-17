@@ -75,8 +75,6 @@
 <!ENTITY corruptedContentErrorv2.title "مشمولات چھَ كورپٹڈ ">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>پیج یوس ویو کرنْچ توہیہ کوشش کران چھیو ہیکو نْہ ہأوِتھ  کیاز کہ اکھ ایرر آو لبنْہ ڈاٹا ٹرانسمیشنس منز۔</p><ul><li>مہربأنی کْرتھ کْریو کنٹیکٹْہ ویب سایِٹ مألک تِمن امہ پرابلیم ہْنز جانکأری دِنْہ باپت۔</li></ul>">
 
-<!ENTITY remoteXUL.title "ریموٹ XUL">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

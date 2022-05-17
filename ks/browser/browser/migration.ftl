@@ -45,16 +45,8 @@ import-done-page-title = درآمدمکمل
 
 import-done-description = مندرجہ ذیل چیز آی  کامیٲبی سان  درآمد كرنئ :
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = { $source }پ۪یٹھئ
-
 source-name-ie = انٹرنیٹ ایکسپلورر
-source-name-safari = سفاری
 source-name-chrome = گوگل كروم
-source-name-firefox = موزیلا فایرفاکس
 
 imported-safari-reading-list = پرَئن وۄل فہرست (سفاری منزئ)
 

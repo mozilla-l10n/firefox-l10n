@@ -14,9 +14,11 @@ videocontrols-enterfullscreen-button =
     .aria-label = پورئ سكرین
 videocontrols-exitfullscreen-button =
     .aria-label = پورئ سكرین مكلٲویو
+
 videocontrols-error-aborted = ویڈیو لوڈ كروٛن رۄكٲومُت
 videocontrols-error-network = ویڈیو پلے بیك مكلیمُت نیٹورك دِقت كئ وجئ سٲت
 videocontrols-error-decode = ویڈیو ہیكٲو نئ چلٲوِتھ كیازئ كئ فایل چھَ كورپٹ
 videocontrols-error-src-not-supported = ویڈیو فارنیٹ یا MIME  قئسمس چھُ نئ تعاوُن
 videocontrols-error-no-source = كہین ویڈیو آو نئ اتھ۪ی یَتھ فارمیٹ تئ MIME قئسمَس تعاوُن آس۪ی
 videocontrols-error-generic = ویڈیو پلے بیك مكلٲو نا مولوم دقت كئ وجئ سٲت
+

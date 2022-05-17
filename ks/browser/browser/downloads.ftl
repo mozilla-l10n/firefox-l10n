@@ -19,36 +19,13 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = ریسوم
     .accesskey = ر
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = فولڈرمنز  كھولیو&
-    .accesskey = F
   
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = فولڈرس منز ہٲویو
-    .accesskey = F
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] فولڈرس منز ہٲویو
-           *[other] فولڈرمنز  كھولیو&
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] فولڈرس منز ہٲویو
-           *[other] فولڈرمنز  كھولیو&
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] فولڈرس منز ہٲویو
-           *[other] فولڈرمنز  كھولیو&
-        }
+##
 
 downloads-cmd-retry =
     .tooltiptext = دوبارئ كریو كوشش
@@ -84,6 +61,13 @@ downloads-history =
     .label = سٲری ڈاونلوڈس ہٲویو
     .accesskey = S
 
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
+
 downloads-clear-downloads-button =
     .label = ڈاون لوڈ کْریو کْلیر
     .tooltiptext = چُھ کْلیر کران مُکمل، کینسل کرنْہ آمْت تْہ فیل گأمِت ڈاون لوڈ
@@ -96,3 +80,4 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = یتھ سیشنس باپت چُھ نْہ کانہہ ڈاون لوڈ۔
+

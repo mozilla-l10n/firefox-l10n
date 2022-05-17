@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = پلگ-انس متعلق
+
 installed-plugins-label = انسٹالْڈ پْلگ اِن
 no-plugins-are-installed-label = کانہہ انسٹالْڈ پْلگ اِن آو نْہ لبنْہ
 
@@ -26,6 +27,7 @@ state-dd-enabled = <span data-l10n-name="state">سیٹیٹ:</span> قابل مج
 state-dd-enabled-block-list-state = <span data-l10n-name="state">سیٹیٹ:</span> قابل مجازكرمت ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">سیٹیٹ:</span> ‎غٲرمجاز كرمت
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">سیٹیٹ:</span> ‎غٲرمجاز كرمت ({ $blockListState })
+
 mime-type-label = ٹائپ MIME
 description-label = وضاحت
 suffixes-label = سفیكسیس
@@ -33,4 +35,6 @@ suffixes-label = سفیكسیس
 ## Gecko Media Plugins (GMPs)
 
 plugins-gmp-license-info = لاسن جانکأری
+
 plugins-openh264-name = کْریو اوپْن یوس فراہم کورمُت چُھ بذریعہ سیسکو سسٹم، اِنک۔ ویڈیو کوڈیکH264
+

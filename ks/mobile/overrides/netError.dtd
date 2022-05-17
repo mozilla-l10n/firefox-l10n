@@ -82,8 +82,6 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY remoteXUL.longDesc " مہربانی کرتہء کریو وبساہیٹکس معلکس سیتہ ربہتہ یم مشکلات کہترء ">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 

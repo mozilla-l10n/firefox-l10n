@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (پوشیدئ براوزِنگ)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (پوشیدئ براوزِنگ)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (پوشیدئ براوزِنگ)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (پوشیدئ براوزِنگ)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -65,6 +67,7 @@ browser-main-window-title = { -brand-full-name }
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = یہ بوک مارْک کْریو ایڈیٹ ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -138,8 +141,10 @@ popup-all-windows-shared = تُہندس سکرینس پیٹھ تمام ظأہر 
 
 urlbar-placeholder =
     .placeholder = تلاش کْریو یا اینٹر کْریو پتاہ
+
 urlbar-switch-to-tab =
     .value = ٹیبس منز گژھیو
+
 urlbar-go-button =
     .tooltiptext = جاے بارس منز گژھیو نیبس منز
 
@@ -174,6 +179,7 @@ bookmarks-sidebar-content =
     .aria-label = نشان زَد
 bookmarks-bookmark-edit-panel =
     .label = یئ نشان زَد كریو ایڈيٹ
+
 bookmarks-toolbar-menu =
     .label = نشان زد ٹول بار
 bookmarks-toolbar-placeholder =
@@ -195,22 +201,22 @@ bookmarks-toolbar-placeholder-button =
 
 ## More items
 
-more-menu-go-offline =
-    .label = آف  لائن  كریو كئم&
-    .accesskey = k
 toolbar-button-email-link =
     .label = ایمیل لینک
     .tooltiptext = ایمیل کْریو اکھ لینک یتھ پیجس کُن
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = پیج کْریو محفوظ
     .tooltiptext = یہ پیج کْریو محفوظ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = فایل كھولیو
     .tooltiptext = اکھ فایل کْریو اوپْن({ $shortcut })
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -241,6 +247,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } خٲطرئ دیو پاپ اَپسن اجازت
     .accesskey = p
+
 popups-infobar-block =
     .label = { $uriHost } خٲطرئ كریو  پاپ اَپسن بند
     .accesskey = p
@@ -262,20 +269,25 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = ڈاؤن لوڈز
+
 navbar-overflow =
     .tooltiptext = مزید ٹول ۔ ۔ ۔
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = پرینٹ
     .tooltiptext = یہ پیج کْریو پرینٹ ۔ ۔ ۔ ({ $shortcut })
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = براوزر ٹیبس
+
 tabs-toolbar-new-tab =
     .label = نئو ٹیب
+
 tabs-toolbar-list-all-tabs =
     .label = سارنی ٹیبن ہیوند فہرست بنٲویو
     .tooltiptext = سارنی ٹیبن ہیوند فہرست بنٲویو

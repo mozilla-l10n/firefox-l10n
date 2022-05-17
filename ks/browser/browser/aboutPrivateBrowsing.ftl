@@ -6,3 +6,5 @@ privatebrowsingpage-open-private-window-label = اوپْن کْریو اکھ & �
     .accesskey = P
 about-private-browsing-not-private = توہیہ چھیو نْہ وْنکینس أکس پرایوٹ وینڈو منز۔
 
+## The following strings will be used for experiments in Fx99 and Fx100
+

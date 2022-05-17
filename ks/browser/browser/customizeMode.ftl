@@ -4,17 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = ڈیفالٹس  انیو واپس
-customize-mode-lwthemes-menu-manage =
-    .label = منیج کْریو
-    .accesskey = M
 customize-mode-titlebar =
     .label = عنوان بار
-customize-mode-lwthemes =
-    .label = تھیمْہ
-customize-mode-lwthemes-menu-get-more =
-    .label = مزید تھیم کْریو حأصل
-    .accesskey = G
 customize-mode-undo-cmd =
     .label = تئ انڈو
-customize-mode-lwthemes-my-themes =
-    .value = میانِہ تھیمْہ

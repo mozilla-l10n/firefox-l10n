@@ -65,8 +65,6 @@ was trying to connect. -->
 
 <!ENTITY errorReporting.learnMore "مزید  زٲنیو۔ ۔ ۔">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>مہربأنی کْرتھ کْریو کنٹیکٹْہ ویب سایِٹ مألک تِمن انفارم کرنْہ باپت یہ پرابلیم۔</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 

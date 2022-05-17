@@ -76,10 +76,6 @@ item-form-search-history =
 
 data-section-label = ڈاٹا
 
-item-site-preferences =
-    .label = & سایٹ ترجیحات
-    .accesskey = S
-
 item-offline-apps =
     .label = & آفلاین ھیب سایٹ ڈاٹا
     .accesskey = O
