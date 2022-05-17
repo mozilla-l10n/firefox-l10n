@@ -284,12 +284,6 @@ restore-html-label =
     .label = Restore Defaults
     .accesskey = R
 
-format-description = Rulaganya maitsholo a fomete ya mafoko
-
-send-options-label =
-    .label = Diitlhophelwa tsa go Romela...
-    .accesskey = D
-
 autocomplete-description = Fa o kwala diaterese tsa melaetsa, lebelela dikwalwa tse di tshwanang mo:
 
 ab-label =
@@ -400,4 +394,6 @@ ocsp-label =
 
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

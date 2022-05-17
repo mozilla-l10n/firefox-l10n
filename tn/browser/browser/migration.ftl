@@ -35,15 +35,7 @@ import-done-page-title = Tlisoteng e Feditswe
 
 import-done-description = Dilwana tse di latelang di tlisitswe teng ka katlego:
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Go tswa { $source }
-
 source-name-ie = Internet Explorer
-source-name-safari = Safari
-source-name-firefox = Mozilla Firefox
 
 ## Browser data types
 ## All of these strings get a $browser variable passed in.

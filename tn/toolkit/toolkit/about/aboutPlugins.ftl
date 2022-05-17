@@ -21,3 +21,6 @@ path-dd = <span data-l10n-name="path">Tsela:</span> { $pluginFullPath }
 mime-type-label = Mofuta wa MIME
 description-label = Tlhaloso
 suffixes-label = Ditlhongwa
+
+## Gecko Media Plugins (GMPs)
+

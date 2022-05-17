@@ -19,36 +19,13 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Simolola gape
     .accesskey = S
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = Bula e e Nang Setsholadifaele
-    .accesskey = S
   
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = Bontsha mo Sebatling
-    .accesskey = S
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] Bontsha mo Sebatling
-           *[other] Bula e e Nang Setsholadifaele
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] Bontsha mo Sebatling
-           *[other] Bula e e Nang Setsholadifaele
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] Bontsha mo Sebatling
-           *[other] Bula e e Nang Setsholadifaele
-        }
+##
 
 downloads-cmd-retry =
     .tooltiptext = Leka
@@ -83,6 +60,13 @@ downloads-cmd-clear-downloads =
 downloads-history =
     .label = Botsha Dikopololo Tsotlhe
     .accesskey = B
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
 
 downloads-clear-downloads-button =
     .label = Phimola Dikopololo

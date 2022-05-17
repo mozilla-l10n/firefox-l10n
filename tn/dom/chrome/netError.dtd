@@ -76,9 +76,6 @@
 <!ENTITY corruptedContentErrorv2.title "Phoso ya Diteng tse di Senyegileng">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Tsebe e o lekang go e leba ga e kake ya bontshiwa ka gore boammaaruri jwa tshedimosetso e amogetsweng ga boa kgonwa go rurifadiwa.</p><ul><li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsise ka bothata jo.</li></ul>">
 
-<!ENTITY remoteXUL.title "Ntsha XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsese ka bothaka jo.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

@@ -10,16 +10,3 @@
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
-<!ENTITY menu_securityEncryptRequire.accesskey "K">
-
-<!ENTITY menu_securitySign.label "Saena Molaetsa Ono ka tsela ya Dijitale">
-<!ENTITY menu_securitySign.accesskey "M">
-
-<!ENTITY menu_securityStatus.label "Leba Tshedimosetso ya Pabalesego">
-<!ENTITY menu_securityStatus.accesskey "P">
-
-<!ENTITY securityButton.label "Pabalesego">
-<!ENTITY securityButton.tooltip "Leba gongwe fetola boalo jwa pabalesego">
-
-<!ENTITY menu_viewSecurityStatus.label "Tshedimosetso ya Pabalesego ya Melaetsa">
-<!ENTITY menu_viewSecurityStatus.accesskey "M">
