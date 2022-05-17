@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Datumoj
 
-item-site-preferences =
-    .label = Preferoj de retejoj
-    .accesskey = P
-
 item-site-settings =
     .label = Retejaj agordoj
     .accesskey = R

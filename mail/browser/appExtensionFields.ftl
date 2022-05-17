@@ -7,5 +7,6 @@
 
 extension-thunderbird-compact-light-name = Hela
 extension-thunderbird-compact-light-description = Etoso kun helaj koloroj.
+
 extension-thunderbird-compact-dark-name = Malhela
 extension-thunderbird-compact-dark-description = Etoso kun malhelaj koloroj.

@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "M">
 <!ENTITY newVirtualFolderCmd.label "Mesaĝujo de serĉo…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
-<!ENTITY newOtherAccountsCmd.label "Agordaro de alia konto…">
-<!ENTITY newOtherAccountsCmd.accesskey "l">
 <!ENTITY newCreateEmailAccountCmd.label "Tute nova retpoŝta konto…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "n">
 <!ENTITY newExistingEmailAccountCmd.label "Agordaro de ekzista retpoŝta konto…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "M">
 <!ENTITY saveAsMenu.label "Konservi kiel">
 <!ENTITY saveAsMenu.accesskey "K">
-<!ENTITY saveAsFileCmd.label "dosieron">
-<!ENTITY saveAsFileCmd.accesskey "d">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "ŝablonon">
 <!ENTITY saveAsTemplateCmd.accesskey "a">

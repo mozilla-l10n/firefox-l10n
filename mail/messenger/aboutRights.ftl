@@ -11,7 +11,6 @@ rights-intro-point-5 = Kelkaj trajtoj de { -brand-short-name } uzas TTT-bazitajn
 rights-intro-point-5-unbranded = Se tiu ĉi produkto inkluzivas retejajn servojn, ĉiu aplikebla kondiĉo de uzado por tiuj servoj devus esti ligita el la<a data-l10n-name="mozilla-website-services-link">Retejaj servoj</a>sekcio.
 rights-intro-point-6 = Por povi montri kelkajn tipojn de videa enhavo, { -brand-short-name } elŝutas kelkajn malĉifrajn blokojn de aliaj provizantoj.
 rights-webservices-header = { -brand-full-name } TTT-bazitaj informservoj
-rights-webservices = { -brand-full-name } uses web-based information services ("Services") to provide some of the features provided for your use with this binary version of { -brand-short-name } under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found <a data-l10n-name="mozilla-disable-service-link">ĉi tie</a>. Aliaj servoj kaj trajtoj povas esti malaktivigitaj en la preferoj de la programo.
 rights-locationawarebrowsing = <strong>Location Aware Browsing: </strong>is always opt-in.  No location information is ever sent without your permission.  If you wish to disable the feature completely, follow these steps:
 rights-locationawarebrowsing-term-1 = En la adresa strio tajpu <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Tajpu geo.enabled

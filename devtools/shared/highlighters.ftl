@@ -13,24 +13,31 @@
 # $row (integer) - The row index
 # $column (integer) - The column index
 grid-row-column-positions = Vico { $row }, kolumno { $column }
+
 # The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is a grid container.
 gridtype-container = Krada ingo
+
 # The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is a grid item.
 gridtype-item = Krada elemento
+
 # The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is both a grid container and a grid item.
 gridtype-dual = Krada ingo aŭ elemento
+
 # The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is a flex container.
 flextype-container = Ingo flex
+
 # The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is a flex item.
 flextype-item = Elemento flex
+
 # The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is both a flex container and a flex item.
 flextype-dual = Ingo aŭ elemento flex
+
 # The message displayed in the content page when the user clicks on the
 # "Pick an element from the page" in about:devtools-toolbox inspector panel, when
 # debugging a remote page.
@@ -38,10 +45,13 @@ flextype-dual = Ingo aŭ elemento flex
 # $action (string) - Will either be remote-node-picker-notice-action-desktop or
 #                    remote-node-picker-notice-action-touch
 remote-node-picker-notice = Elektilo de nodoj de DevTools aktiva. { $action }
+
 # Text displayed in `remote-node-picker-notice`, when the remote page is on desktop
 remote-node-picker-notice-action-desktop = Alklaku elementon por elekti ĝin en la Inspektilo
+
 # Text displayed in `remote-node-picker-notice`, when the remote page is on Android
 remote-node-picker-notice-action-touch = Tuŝetu elementon por elekti ĝin en la Inspektilo
+
 # The text displayed in the button that is in the notice in the content page when the user
 # clicks on the "Pick an element from the page" in about:devtools-toolbox inspector panel,
 # when debugging a remote page.

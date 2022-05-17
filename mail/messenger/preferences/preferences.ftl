@@ -61,8 +61,6 @@ app-icon-options =
     .label = App Icon Options…
     .accesskey = n
 
-notification-settings = Alerts and the default sound can be disabled on the Notification pane of System Preferences.
-
 animated-alert-label =
     .label = Show an alert
     .accesskey = S
@@ -240,14 +238,6 @@ quoted-text-color =
     .label = Color:
     .accesskey = o
 
-type-column-label =
-    .label = Content Type
-    .accesskey = T
-
-action-column-label =
-    .label = Action
-    .accesskey = A
-
 save-to-label =
     .label = Save files to
     .accesskey = S
@@ -389,12 +379,6 @@ restore-html-label =
 default-format-label =
     .label = Use Paragraph format instead of Body Text by default
     .accesskey = P
-
-format-description = Configure text format behavior
-
-send-options-label =
-    .label = Send Options…
-    .accesskey = S
 
 autocomplete-description = When addressing messages, look for matching entries in:
 
@@ -631,4 +615,6 @@ chat-browse-sound-button =
     .accesskey = B
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

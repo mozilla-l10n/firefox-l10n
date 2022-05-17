@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "l">
 <!ENTITY attachPageCmd.label "retpaĝon…">
 <!ENTITY attachPageCmd.accesskey "r">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "personan vizitkarton (vCard)">
-<!ENTITY attachVCardCmd.accesskey "v">
 <!ENTITY remindLater.label "Rememori poste">
 <!ENTITY remindLater.accesskey "R">
 <!ENTITY closeCmd.label "Fermi">
@@ -148,16 +145,6 @@
 <!ENTITY returnReceiptMenu.accesskey "P">
 <!ENTITY dsnMenu.label "Informi pri stato de livero">
 <!ENTITY dsnMenu.accesskey "I">
-<!ENTITY deliveryFormatMenu.label "Formo de mesaĝo">
-<!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "Elekti aŭtomate">
-<!ENTITY autoFormatCmd.accesskey "a">
-<!ENTITY plainTextFormatCmd.label "Nur platteksto">
-<!ENTITY plainTextFormatCmd.accesskey "p">
-<!ENTITY htmlFormatCmd.label "Nur HTML">
-<!ENTITY htmlFormatCmd.accesskey "H">
-<!ENTITY bothFormatCmd.label "Platteksto kaj HTML">
-<!ENTITY bothFormatCmd.accesskey "k">
 <!ENTITY priorityMenu.label "Prioritato">
 <!ENTITY priorityMenu.accesskey "r">
 <!ENTITY priorityButton.title "Prioritato">

@@ -20,7 +20,6 @@ about-networking-ssl = SSL
 about-networking-active = Aktiva
 about-networking-idle = Senokupa
 about-networking-host = Servilo
-about-networking-tcp = TCP
 about-networking-type = Tipo
 about-networking-sent = Sendita
 about-networking-received = Ricevita
