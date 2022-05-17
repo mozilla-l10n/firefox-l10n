@@ -16,6 +16,7 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = Alle adressebøker
+
 about-addressbook-books-context-properties =
     .label = Egenskaper
 about-addressbook-books-context-synchronize =
@@ -24,6 +25,7 @@ about-addressbook-books-context-delete =
     .label = Slett
 about-addressbook-books-context-remove =
     .label = Fjern
+
 about-addressbook-confirm-delete-book-title = Slett adressebok
 
 ## Cards

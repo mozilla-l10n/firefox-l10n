@@ -21,8 +21,10 @@ addons-and-themes-toolbarbutton =
 folder-pane-toolbar =
     .toolbarname = Mappevisningsverktøylinje
     .accesskey = M
+
 folder-pane-toolbar-options-button =
     .tooltiptext = Alternativer for mappepanelet
+
 folder-pane-header-label = Mapper
 
 ## Folder Toolbar Header Popup
@@ -30,21 +32,27 @@ folder-pane-header-label = Mapper
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Skjul verktøylinje
     .accesskey = S
+
 show-all-folders-label =
     .label = Alle mapper
     .accesskey = A
+
 show-unread-folders-label =
     .label = Uleste mapper
     .accesskey = U
+
 show-favorite-folders-label =
     .label = Favorittmapper
     .accesskey = F
+
 show-smart-folders-label =
     .label = Samlemapper
     .accesskey = S
+
 show-recent-folders-label =
     .label = Sist brukte mapper
     .accesskey = r
+
 folder-toolbar-toggle-folder-compact-view =
     .label = Kompakt visning
     .accesskey = K
@@ -54,10 +62,6 @@ folder-toolbar-toggle-folder-compact-view =
 
 ## AppMenu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-appmenu-preferences =
-    .label = Innstillinger
 appmenu-addons-and-themes =
     .label = Tillegg og temaer
 
@@ -66,6 +70,8 @@ appmenu-addons-and-themes =
 
 ## Message header pane
 
+
+## Message header cutomize panel
 
 ## Action Button Context Menu
 

@@ -5,11 +5,6 @@
 
 ## Tools Menu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-menu-tools-preferences =
-    .label = Innstillinger
-    .accesskey = I
 menu-addons-and-themes =
     .label = Tillegg og temaer
     .accesskey = T
@@ -19,9 +14,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Feilsøkingsmodus…
     .accesskey = F
+
 menu-help-exit-troubleshoot-mode =
     .label = Slå av feilsøkingsmodus
     .accesskey = S
+
 menu-help-more-troubleshooting-info =
     .label = Mer feilsøkingsinformasjon
     .accesskey = M

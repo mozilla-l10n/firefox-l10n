@@ -7,12 +7,6 @@
 <!ENTITY pref.content.title                     "Innhold">
 <!ENTITY pref.content.description               "Disse innstillingene bestemmer hvordan nettside- og meldingstekst presenteres i &brandShortName;.">
 
-<!ENTITY siteIcons.label                        "Nettstedsikoner">
-<!ENTITY useSiteIcons.label                     "Vis nettstedsikoner">
-<!ENTITY useSiteIcons.accesskey                 "V">
-<!ENTITY useFavIcons2.label                     "Prøv å bruk serverens ikon (favicon) når nettsiden ikke definerer et ikon">
-<!ENTITY useFavIcons2.accesskey                 "b">
-
 <!ENTITY scrolling.label                        "Rulling">
 <!ENTITY useAutoScroll.label                    "Bruk automatisk rulling">
 <!ENTITY useAutoScroll.accesskey                "t">
@@ -43,6 +37,4 @@
 
 <!ENTITY allowHWAccel.label                     "Bruk maskinvareakselerasjon når tilgjengelig">
 <!ENTITY allowHWAccel.accesskey                 "k">
-<!ENTITY blockAutoRefresh.label                 "Advar når nettsider forsøker å omdirigere eller laste siden på nytt">
-<!ENTITY blockAutoRefresh.accesskey             "d">
 

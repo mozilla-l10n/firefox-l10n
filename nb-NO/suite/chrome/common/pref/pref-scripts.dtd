@@ -4,9 +4,6 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
-<!ENTITY pref.scripts.title              "Skript og programtillegg">
-
 <!--LOCALIZATION NOTE : FILE The 'Scripts' preferences dialog -->
 <!ENTITY pref.scripts2.title             "Skript">
 
@@ -31,12 +28,3 @@
 <!ENTITY debugConsoleJavascript.label     "Vis chrome JavaScript-feil og -advarsler">
 <!ENTITY debugConsoleJavascript.accesskey "c">
 
-<!ENTITY enablePlugins.label             "Tillat programtillegg for">
-<!ENTITY enablePluginForSuite.label      "Suite">
-<!ENTITY enablePluginForSuite.accesskey  "u">
-
-<!ENTITY whenPageRequiresPlugins.label   "Når en side krever programtillegg">
-<!ENTITY activateAllPlugins.label        "Aktiver alle programtillegg som standard">
-<!ENTITY activateAllPlugins.accesskey    "k">
-<!ENTITY warnPluginsRequired.label       "Advar meg om flere programtillegg må installeres">
-<!ENTITY warnPluginsRequired.accesskey   "A">
