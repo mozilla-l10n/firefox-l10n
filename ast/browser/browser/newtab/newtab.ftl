@@ -26,10 +26,12 @@ newtab-topsites-edit-shortcut-header = Edición d'un atayu
 newtab-topsites-title-label = Títulu
 newtab-topsites-title-input =
     .placeholder = Introduz un títulu
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Teclexa o apiega una URL
 newtab-topsites-url-validation = Ríquese una URL válida
+
 newtab-topsites-image-url-label = URL d'imaxe personalizada
 newtab-topsites-use-image-link = Usar una imaxe personalizada…
 
@@ -55,10 +57,12 @@ newtab-confirm-delete-history-p2 = Esta aición nun pue desfacese.
 newtab-menu-section-tooltip =
     .title = Abrir el menú
     .aria-label = Abrir el menú
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Quitar
     .aria-label = Quitar
+
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Editar esti sitiu
@@ -136,7 +140,6 @@ newtab-section-menu-privacy-notice = Avisu de privacidá
 ## Section Headers.
 
 newtab-section-header-topsites = Sitios principales
-newtab-section-header-highlights = Lo destacao
 newtab-section-header-recent-activity = Actividá recién
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
@@ -155,6 +158,9 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Meca! Paez qu'esta seici
 newtab-pocket-read-more = Temes populares:
 newtab-pocket-more-recommendations = Más recomendaciones
 newtab-pocket-learn-more = Lleer más
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

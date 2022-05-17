@@ -88,9 +88,6 @@
 <!ENTITY corruptedContentErrorv2.title "Fallu de conteníu toyíu">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La páxina que tentes de ver nun pue amosase porque detectóse un fallu na tresmisión de los datos.</p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti fallu, por favor.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL Remotu">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "La conexón nun ye segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

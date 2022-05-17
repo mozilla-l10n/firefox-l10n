@@ -13,12 +13,6 @@ downloads-panel =
 
 ##
 
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-
 downloads-cmd-pause =
     .label = Posar
     .accesskey = P
@@ -30,15 +24,10 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Encaboxar
 
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = Abrir la carpeta contenedora
-    .accesskey = c
-
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = Amosar en Finder
-    .accesskey = F
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
 downloads-cmd-use-system-default =
     .label = Abrir nel visor del sistema
@@ -48,25 +37,7 @@ downloads-cmd-always-use-system-default =
     .label = Abrir siempres nel visor del sistema
     .accesskey = S
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] Amosar en Finder
-           *[other] Abrir la carpeta contenedora
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] Amosar en Finder
-           *[other] Abrir la carpeta contenedora
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] Amosar en Finder
-           *[other] Abrir la carpeta contenedora
-        }
+##
 
 downloads-cmd-show-downloads =
     .label = Amosar la carpeta Descargues
@@ -168,6 +139,13 @@ downloads-history =
 downloads-details =
     .title = Detalles de la descarga
 
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
+
 downloads-clear-downloads-button =
     .label = Llimpiar les descargues
     .tooltiptext = Llimpia les descargues completes, encaboxaes y fallíes
@@ -180,3 +158,4 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Nun hai descargues nesta sesión.
+

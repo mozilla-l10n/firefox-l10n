@@ -43,15 +43,6 @@ menu-quit =
 menu-quit-mac =
     .label = Colar de { -brand-shorter-name }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Cola de { -brand-shorter-name }
-
 menu-about =
     .label = Tocante a { -brand-shorter-name }
     .accesskey = T
@@ -81,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Abrir un ficheru…
     .accesskey = A
-menu-file-close =
-    .label = Zarrar
-    .accesskey = Z
 menu-file-close-window =
     .label = Zarrar la ventana
     .accesskey = v
@@ -96,9 +84,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Configuración de les páxines…
     .accesskey = p
-menu-file-print-preview =
-    .label = Previsualización
-    .accesskey = P
 menu-file-print =
     .label = Imprentar…
     .accesskey = I
@@ -305,9 +290,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = a
 menu-help-report-site-issue =
     .label = Informar d'un fallu del sitiu…
-menu-help-feedback-page =
-    .label = Opinar…
-    .accesskey = O
 menu-help-enter-troubleshoot-mode2 =
     .label = Mou d'iguar problemes…
     .accesskey = M

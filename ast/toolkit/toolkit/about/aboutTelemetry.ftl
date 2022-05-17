@@ -19,7 +19,6 @@ about-telemetry-general-data-section = Datos xenerales
 about-telemetry-environment-data-section = Datos del entornu
 about-telemetry-session-info-section = Información de la sesión
 about-telemetry-events-section = Eventos
-about-telemetry-captured-stacks-section = Piles capturaes
 about-telemetry-raw = JSON en bruto
 # string used as a placeholder for the search field
 # More info about it can be found here:

@@ -16,7 +16,6 @@ about-networking-http-version = Versión de HTTP
 about-networking-ssl = SSL
 about-networking-active = Activación
 about-networking-host = Agospiador
-about-networking-tcp = TCP
 about-networking-sent = Unvióse
 about-networking-received = Recibióse
 about-networking-family = Familia

@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "v">
 <!ENTITY newVirtualFolderCmd.label "Gueta guardada…">
 <!ENTITY newVirtualFolderCmd.accesskey "G">
-<!ENTITY newOtherAccountsCmd.label "Otres cuentes…">
-<!ENTITY newOtherAccountsCmd.accesskey "O">
 <!ENTITY newCreateEmailAccountCmd.label "Obtener cuenta de corréu nueva…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "O">
 <!ENTITY newExistingEmailAccountCmd.label "Cuenta de corréu esistente…">
@@ -40,8 +38,6 @@
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Guardar como">
 <!ENTITY saveAsMenu.accesskey "G">
-<!ENTITY saveAsFileCmd.label "Ficheru">
-<!ENTITY saveAsFileCmd.accesskey "r">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Plantía">
 <!ENTITY saveAsTemplateCmd.accesskey "p">

@@ -17,9 +17,6 @@ compatibility-issue-experimental = (esperimental)
 compatibility-settings-button-label = Axustes
 compatibility-settings-button-title =
     .title = Axustes
-compatibility-feedback-button-label = Opinar
-compatibility-feedback-button-title =
-    .title = Opinar
 
 ## Messages used as headers in settings pane
 
@@ -40,3 +37,4 @@ compatibility-issue-occurrences =
 compatibility-no-issues-found = Nun s'atoparon problemes de compatibilidá.
 compatibility-close-settings-button =
     .title = Zarrar los axustes
+

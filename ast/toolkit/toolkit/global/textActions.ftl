@@ -5,46 +5,63 @@
 text-action-undo =
     .label = Desfacer
     .accesskey = D
+
 text-action-undo-shortcut =
     .key = Z
+
 text-action-redo =
     .label = Refacer
     .accesskey = R
+
 text-action-redo-shortcut =
     .key = Y
+
 text-action-cut =
     .label = Cortar
     .accesskey = c
+
 text-action-cut-shortcut =
     .key = X
+
 text-action-copy =
     .label = Copiar
     .accesskey = C
+
 text-action-copy-shortcut =
     .key = C
+
 text-action-paste =
     .label = Apegar
     .accesskey = A
+
 text-action-paste-shortcut =
     .key = V
+
 text-action-delete =
     .label = Desaniciar
     .accesskey = s
+
 text-action-select-all =
     .label = Esbillar too
     .accesskey = t
+
 text-action-select-all-shortcut =
     .key = A
+
 text-action-spell-no-suggestions =
     .label = Nun hai suxerencies ortográfiques
+
 text-action-spell-check-toggle =
     .label = Correutor ortográficu
     .accesskey = g
+
 text-action-spell-add-dictionaries =
     .label = Amestar diccionarios…
     .accesskey = A
+
 text-action-spell-dictionaries =
     .label = Llingües
     .accesskey = L
+
 text-action-search-text-box-clear =
     .title = Llimpiar
