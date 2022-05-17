@@ -79,9 +79,6 @@
 <!ENTITY corruptedContentErrorv2.title "Ensobi Eyebyomuda Ebyononese">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Omuko gw'ogezaako okulaba tegusobola kulagibwa kubanga gukozesa ennyiga yo lugo etewagiddwa oba tekkirizidwa.</p><ul><li>Bambi tegeeza bannannyini mukutu gw'ekyapa obabuulire obuzibu buno.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL ku kompyuta endala">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Osabidwa okwebuuza ku bannanyini b'ekibanja obabuulire ku buzibu bwo.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

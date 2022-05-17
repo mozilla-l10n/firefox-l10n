@@ -60,10 +60,6 @@ item-form-search-history =
 
 data-section-label = Bwiino
 
-item-site-preferences =
-    .label = Eby'okweroboza ku Kibanja
-    .accesskey = E
-
 item-offline-apps =
     .label = Bwiino yo ku Mutimbangano nga Teri kulutimbe
     .accesskey = B

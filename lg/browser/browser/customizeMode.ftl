@@ -4,5 +4,3 @@
 
 customize-mode-restore-defaults =
     .label = Zaawo ebyenkalakalira
-customize-mode-lwthemes =
-    .label = Emiramwa

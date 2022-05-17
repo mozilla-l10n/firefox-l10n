@@ -22,3 +22,6 @@ version-dd = <span data-l10n-name="version">Enkola:</span> { $version }
 mime-type-label = Ekika kya MIME
 description-label = Ennyinyonnyola
 suffixes-label = Obuwakatirwa bw'oku nkomerero
+
+## Gecko Media Plugins (GMPs)
+

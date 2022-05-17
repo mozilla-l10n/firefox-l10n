@@ -15,36 +15,13 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Biddemu ate
     .accesskey = B
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = Ggulawo Ebirimu Etterekero
-    .accesskey = E
   
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = Laga mu Kizuula
-    .accesskey = K
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] Laga mu Kizuula
-           *[other] Ggulawo Ebirimu Etterekero
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] Laga mu Kizuula
-           *[other] Ggulawo Ebirimu Etterekero
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] Laga mu Kizuula
-           *[other] Ggulawo Ebirimu Etterekero
-        }
+##
 
 downloads-cmd-retry =
     .tooltiptext = Ddamu
@@ -73,4 +50,11 @@ downloads-cmd-copy-download-link =
 downloads-history =
     .label = Laaga Ebitikulwa Byoona
     .accesskey = L
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
 

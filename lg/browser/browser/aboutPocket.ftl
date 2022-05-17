@@ -41,3 +41,7 @@ pocket-panel-signup-tagline-story-two = Labira mu pocket ku nkola yona, esawa yo
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

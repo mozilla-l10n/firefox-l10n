@@ -21,6 +21,7 @@ app-basics-build-config = Zzimba Entekateka
 app-basics-user-agent = Akayamba Omukozesa
 app-basics-memory-use = Enkozesa Memory
 app-basics-safe-mode = Modi Enddamu
+
 modified-key-prefs-title = Ebyokwerobozaa Ebyoomugaso Ebikyusiddwa
 modified-prefs-name = Erinnya
 graphics-title = Ebifananyi

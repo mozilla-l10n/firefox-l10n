@@ -47,16 +47,8 @@ import-done-page-title = Leetera Ddala
 
 import-done-description = Obuntu obundirira bya siswe kuva ewalala burugi:
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Kuva { $source }
-
 source-name-ie = Internet Explorer
-source-name-safari = Safari
 source-name-chrome = Google Chrome
-source-name-firefox = Mozilla Firefox
 
 imported-safari-reading-list = Okusooma Olukala (Okuvamu Safari)
 

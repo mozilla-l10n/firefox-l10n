@@ -33,10 +33,6 @@ menu-quit =
            *[other] V
         }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
 ## File Menu
 
 menu-file =
@@ -54,9 +50,6 @@ menu-file-new-private-window =
 menu-file-open-file =
     .label = Bikkula Fayiro…
     .accesskey = B
-menu-file-close =
-    .label = Ggalawo
-    .accesskey = G
 menu-file-close-window =
     .label = Ggalawo Endirisa
     .accesskey = i
@@ -69,9 +62,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Entegeka y'Omuko…
     .accesskey = e
-menu-file-print-preview =
-    .label = Laba Bwekinafuluma
-    .accesskey = L
 menu-file-print =
     .label = Fulumya…
     .accesskey = F
@@ -217,6 +207,3 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Obuyambi
     .accesskey = O
-menu-help-feedback-page =
-    .label = Waayo endowooza yo…
-    .accesskey = W

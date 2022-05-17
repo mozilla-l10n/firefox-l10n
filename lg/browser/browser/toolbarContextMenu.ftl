@@ -5,6 +5,7 @@
 toolbar-context-menu-view-customize-toolbar =
     .label = Kifuule ky'oyagala…
     .accesskey = K
+
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Akabawo Ke'bilondebwako
     .accesskey = A
