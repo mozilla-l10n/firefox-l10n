@@ -34,7 +34,6 @@ about-telemetry-events-section = Sündmused
 about-telemetry-simple-measurements-section = Lihtsad mõõdistused
 about-telemetry-slow-sql-section = Aeglased SQL-päringud
 about-telemetry-addon-details-section = Lisade üksikasjad
-about-telemetry-captured-stacks-section = Captured Stacks
 about-telemetry-late-writes-section = Hilised kirjutamised
 about-telemetry-raw-payload-section = Eeltöötlemata last
 about-telemetry-raw = algse JSONina
@@ -121,10 +120,6 @@ about-telemetry-addon-provider = { $addonProvider } Provider
 about-telemetry-keys-header = Omadus
 about-telemetry-names-header = Nimi
 about-telemetry-values-header = Väärtus
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (capture count: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Hiljutine kirjutamine #{ $lateWriteCount }

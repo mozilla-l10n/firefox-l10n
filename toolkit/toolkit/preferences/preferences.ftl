@@ -4,17 +4,21 @@
 
 password-not-set =
     .value = (määramata)
+
 failed-pp-change = Ülemparooli pole võimalik muuta.
 incorrect-pp = Sa ei sisestanud praegu kehtivat õiget ülemparooli. Palun proovi uuesti.
 pp-change-ok = Ülemparooli muutmine õnnestus.
+
 pp-empty-warning = Sinu salvestatud paroole ja privaatseid võtmeid ei kaitsta.
 pp-erased-ok = Sa kustutasid oma ülemparooli. { pp-empty-warning }
 pp-not-wanted = Hoiatus! Sa otsustasid ülemparooli kasutamisest loobuda. { pp-empty-warning }
+
 pp-change2empty-in-fips-mode = Sa oled FIPS-režiimis. See eeldab, et sinu ülemparool ei oleks tühi.
 pw-change-success-title = Parooli muutmine õnnestus
 pw-change-failed-title = Parooli muutmine nurjus
 pw-remove-button =
     .label = Eemalda
+
 primary-password-dialog =
     .title = Ülemparool
 set-password-old-password = Praegune parool:
@@ -25,6 +29,7 @@ set-password-meter-loading = Laadimine
 primary-password-admin = Administraator nõuab, et paroolide ja kasutajatunnuste salvestamiseks oleks määratud ülemparool.
 primary-password-description = Ülemparooli kasutatakse selles seadmes tundliku info, nagu kasutajatunnused ja paroolid, kaitsmiseks. Kui sa lood ülemparooli, küsitakse seda igal seansil üks kord, enne kui { -brand-short-name } asub kasutama parooliga kaitstud infot.
 primary-password-warning = Palun tee kindlaks, et mäletad parooli, mille sisestasid. Kui sa unustad ülemparooli, siis kaotad ka ligipääsu sellega kaitstud infole selles seadmes.
+
 remove-primary-password =
     .title = Ülemparooli eemaldamine
 remove-info =

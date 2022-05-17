@@ -5,6 +5,7 @@
 printui-title = Prindi
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Salvestamine
+
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -12,6 +13,7 @@ printui-sheets-count =
         [one] { $sheetCount } paberileht
        *[other] { $sheetCount } paberilehte
     }
+
 printui-page-range-all = kõik
 printui-page-range-odd = paaritud
 printui-page-range-even = paaris
@@ -22,22 +24,29 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = Sisesta kohandatud lehekülgede vahemik
     .placeholder = nt 2-6, 9, 12-16
+
 # Section title for the number of copies to print
 printui-copies-label = Eksemplarid
+
 printui-orientation = Asend
 printui-landscape = Rõhtpaigutus
 printui-portrait = Püstpaigutus
+
 # Section title for the printer or destination device to target
 printui-destination-label = Printer
 printui-destination-pdf-label = salvesta PDFina
+
 printui-more-settings = Rohkem sätteid
 printui-less-settings = Vähem sätteid
+
 printui-paper-size-label = Paberi suurus
+
 # Section title (noun) for the print scaling options
 printui-scale = Mõõtkava
 printui-scale-fit-to-page-width = Mahutatakse lehe laiusele
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Mõõtkava
+
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Kahepoolne printimine
 printui-two-sided-printing-off = väljas
@@ -45,6 +54,7 @@ printui-two-sided-printing-off = väljas
 printui-two-sided-printing-long-edge = pööratakse pikale servale
 # Flip the sheet as if it were bound along its short edge.
 printui-two-sided-printing-short-edge = pööratakse lühikesele servale
+
 # Section title for miscellaneous print options
 printui-options = Sätted
 printui-headers-footers-checkbox = Prinditakse päised ja jalused
@@ -68,6 +78,7 @@ printui-simplify-page-radio = Lihtsustatud
 printui-color-mode-label = Värvirežiim
 printui-color-mode-color = värviline
 printui-color-mode-bw = mustvalge
+
 printui-margins = Servad
 printui-margins-default = vaikimisi
 printui-margins-min = minimaalsed
@@ -86,17 +97,23 @@ printui-margins-custom-left-mm = Vasakul (mm)
 printui-margins-custom-right = Paremal
 printui-margins-custom-right-inches = Paremal (tollides)
 printui-margins-custom-right-mm = Paremal (mm)
+
 printui-system-dialog-link = Prindi kasutades süsteemset dialoogi…
+
 printui-primary-button = Prindi
 printui-primary-button-save = Salvesta
 printui-cancel-button = Loobu
 printui-close-button = Sulge
+
 printui-loading = Eelvaate ettevalmistamine
+
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Lehekülje eelvaade
+
 printui-pages-per-sheet = Lehekülgi lehel
+
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Printimine…
@@ -123,6 +140,7 @@ printui-paper-tabloid = Tabloid
 printui-error-invalid-scale = Mõõtkava peab olema vahemikus 10 kuni 200.
 printui-error-invalid-margin = Palun paberi suurusele vastavad korrektsed servade sätted.
 printui-error-invalid-copies = Eksemplaride arv peab jääma vahemikku 1 kuni 10000.
+
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Vahemik peab olema arv vahemikus 1 kuni { $numPages }.

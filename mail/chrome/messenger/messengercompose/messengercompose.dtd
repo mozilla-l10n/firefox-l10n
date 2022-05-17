@@ -21,9 +21,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Veebileht...">
 <!ENTITY attachPageCmd.accesskey "e">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Visiitkaart (vCard)">
-<!ENTITY attachVCardCmd.accesskey "V">
 <!ENTITY remindLater.label "Tuletatakse hiljem meelde">
 <!ENTITY remindLater.accesskey "T">
 <!ENTITY closeCmd.label "Sulge">
@@ -149,16 +146,6 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "Saatmise staatuse teavitus">
 <!ENTITY dsnMenu.accesskey "S">
-<!ENTITY deliveryFormatMenu.label "Saadetava kirja vorming">
-<!ENTITY deliveryFormatMenu.accesskey "d">
-<!ENTITY autoFormatCmd.label "Tuvastatakse automaatselt">
-<!ENTITY autoFormatCmd.accesskey "T">
-<!ENTITY plainTextFormatCmd.label "Tavaline tekst">
-<!ENTITY plainTextFormatCmd.accesskey "T">
-<!ENTITY htmlFormatCmd.label "Ainult HTML">
-<!ENTITY htmlFormatCmd.accesskey "H">
-<!ENTITY bothFormatCmd.label "Tavaline tekst ja HTML">
-<!ENTITY bothFormatCmd.accesskey "v">
 <!ENTITY priorityMenu.label "Prioriteet">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.title "Prioriteet">
@@ -222,7 +209,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Muud tüüpi aadressiväljad">
 <!ENTITY fromAddr2.label "Saatja">
 <!ENTITY fromAddr.accesskey "j">
 <!ENTITY replyAddr2.label "Vastamise aadress">

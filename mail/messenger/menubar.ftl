@@ -8,14 +8,10 @@ toolbar-context-menu-menu-bar =
 
 ## Tools Menu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-menu-tools-preferences =
-    .label = Sätted
-    .accesskey = S
 menu-tools-settings =
     .label = Sätted
     .accesskey = S
+
 menu-addons-and-themes =
     .label = Lisad ja teemad
     .accesskey = L
@@ -25,9 +21,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Probleemide lahendamise režiim…
     .accesskey = P
+
 menu-help-exit-troubleshoot-mode =
     .label = Lülita probleemide lahendamise režiim välja
     .accesskey = L
+
 menu-help-more-troubleshooting-info =
     .label = Rohkem probleemide lahendamise teavet
     .accesskey = R
@@ -58,15 +56,19 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Tihedus
     .accesskey = h
+
 mail-uidensity-compact =
     .label = Kompaktne
     .accesskey = m
+
 mail-uidensity-normal =
     .label = Tavaline
     .accesskey = T
+
 mail-uidensity-touch =
     .label = Puutetundlikule ekraanile
     .accesskey = d
+
 menu-spaces-toolbar-button =
     .label = Rakenduskaartide tööriistariba
     .accesskey = R

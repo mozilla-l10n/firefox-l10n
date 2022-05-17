@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "p">
 <!ENTITY SecondEmail.label              "Muud e-posti aadressid:">
 <!ENTITY SecondEmail.accesskey          "M">
-<!ENTITY PreferMailFormat.label         "Kirjade eelistatud vorming:">
-<!ENTITY PreferMailFormat.accesskey     "i">
 <!ENTITY PlainText.label                "lihttekst">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "määramata">

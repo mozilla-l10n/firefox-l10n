@@ -4,21 +4,29 @@
 
 chat-joining-chat-icon2 =
     .alt = Liitub vestlusega
+
 chat-left-chat-icon2 =
     .alt = Lahkus vestlusest
+
 chat-participant-owner-role-icon2 =
     .alt = Omanik
+
 chat-participant-administrator-role-icon2 =
     .alt = Administraator
+
 chat-participant-moderator-role-icon2 =
     .alt = Moderaator
+
 chat-participant-voiced-role-icon2 =
     .alt = Osaleja saab sõnumeid postitada
+
 chat-verify-identity =
     .label = Verifitseeri identiteet
     .accesskey = V
+
 chat-identity-verified =
     .label = Identiteet on verifitseeritud
+
 chat-buddy-identity-status = Krüptimise usaldus
 chat-buddy-identity-status-verified = Verifitseeritud
 chat-buddy-identity-status-unverified = Pole verifitseeritud
