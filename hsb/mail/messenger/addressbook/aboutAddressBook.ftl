@@ -162,6 +162,7 @@ about-addressbook-entry-name-title = Titul
 about-addressbook-entry-name-department = Wotrjad
 about-addressbook-entry-name-organization = Organizacija
 about-addressbook-entry-name-website = Websydło
+about-addressbook-entry-name-time-zone = Časowe pasmo
 about-addressbook-unsaved-changes-prompt-title = Njeskładowane změny
 about-addressbook-unsaved-changes-prompt = Chceće swoje změny składować, prjedy hač wobdźěłowanski napohlad wopušćeće?
 
