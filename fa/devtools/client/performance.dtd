@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "تعداد زمان هایی که تابع بر روی پشته قرار داشته است برای گرفتن نمونه از نمایه.">
 <!ENTITY performanceUI.table.function                 "تابع">
 <!ENTITY performanceUI.table.function.tooltip         "نام و منبع موقعیت تابع نمونه برداری شده.">
-<!ENTITY performanceUI.table.totalAlloc               "تمام نمونه های اختصاص داده شده">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "همه تعداد اشیائی که برای نمونه اختصاص داده شده است در این موقعیت در callees.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

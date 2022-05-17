@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = بازکردن با { -brand-short-name }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] تنظیمات را می‌توان در گزینه‌های { -brand-short-name } تغییر داد.
            *[other] تنظیمات را می‌توان در ترجیحات { -brand-short-name } تغییر داد.
         }
+
 unknowncontenttype-intro = شما انتخاب کردید که باز کنید:
 unknowncontenttype-which-is = که پرونده‌ای از این نوع است:
 unknowncontenttype-from = از:

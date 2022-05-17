@@ -31,7 +31,6 @@ about-telemetry-events-section = رویدادها
 about-telemetry-simple-measurements-section =   اندازه‌گیری‌های ساده
 about-telemetry-slow-sql-section =   عبارات کند SQL
 about-telemetry-addon-details-section =   جزئیات افزونه
-about-telemetry-captured-stacks-section = پشته گرفته شده
 about-telemetry-late-writes-section =   دیرنویس‌ها
 about-telemetry-raw-payload-section = Payload خام
 about-telemetry-raw = JSON خام
@@ -105,10 +104,6 @@ about-telemetry-addon-provider = فراهم‌کننده { $addonProvider }
 about-telemetry-keys-header = ویژگی
 about-telemetry-names-header = نام
 about-telemetry-values-header = مقدار
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (تعداد دریافت‌ها: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = دیرنویس #{ $lateWriteCount }

@@ -22,9 +22,6 @@
 
 <!ENTITY attachPageCmd.label "Web Page…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Personal Card (vCard)">
-<!ENTITY attachVCardCmd.accesskey "P">
 
 
 <!ENTITY closeCmd.label "بستن">
@@ -133,14 +130,6 @@
 <!ENTITY dsnMenu.accesskey "N">
 
 
-<!ENTITY autoFormatCmd.label "تشخیص خودکار">
-<!ENTITY autoFormatCmd.accesskey "ت">
-<!ENTITY plainTextFormatCmd.label "Plain Text Only">
-<!ENTITY plainTextFormatCmd.accesskey "P">
-<!ENTITY htmlFormatCmd.label "Rich Text (HTML) Only">
-<!ENTITY htmlFormatCmd.accesskey "R">
-<!ENTITY bothFormatCmd.label "Plain and Rich (HTML) Text">
-<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "Priority">
 <!ENTITY priorityMenu.accesskey "P">
 

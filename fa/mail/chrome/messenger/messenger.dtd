@@ -15,16 +15,12 @@
      -->
 <!ENTITY newVirtualFolderCmd.label "Saved Search…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newOtherAccountsCmd.label "سایر حسابها…">
-<!ENTITY newOtherAccountsCmd.accesskey "س">
 <!ENTITY newIMAccountCmd.label "حساب گفت‌وگو…">
 <!ENTITY newIMContactCmd.label "مخاطب گفت‌وگو…">
 <!ENTITY openMessageFileCmd.label "Open Saved Message…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "ذخیره به نام">
 <!ENTITY saveAsMenu.accesskey "ذ">
-<!ENTITY saveAsFileCmd.label "پرونده">
-<!ENTITY saveAsFileCmd.accesskey "پ">
 <!ENTITY saveAsTemplateCmd.label "Template">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
 <!ENTITY getNewMsgForCmd.label "دریافت پیام‌های جدید برای">

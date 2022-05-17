@@ -82,9 +82,6 @@
 <!ENTITY corruptedContentErrorv2.title "خطای خرابی محتوا">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>صفحه‌ای که تلاش می‌کنید از آن بازدید کنید قابل نمایش نیست، زیرا خطایی در هنگام انتقال اطلاعات رُخ داده است.</p><ul><li>لطفاً با صاحبان این پایگاه اینترنتی تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL راه دور">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>لطفاً با صاحب این وب‌گاه تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "اتصال شما امن نیست">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

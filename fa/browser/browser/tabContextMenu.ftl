@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = همرسانی
     .accesskey = h
-tab-context-share-more =
-    .label = بیشتر…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -88,13 +86,6 @@ tab-context-reopen-closed-tabs =
            *[other] باز کردن زبانه‌های بسته شده
         }
     .accesskey = o
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] بستن زبانه
-           *[other] بستن زبانه‌ها
-        }
-    .accesskey = C
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -109,6 +100,7 @@ tab-context-move-tabs =
            *[other] جابجایی زبانه‌ها
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

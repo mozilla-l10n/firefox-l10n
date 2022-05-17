@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = اطلاعات
 
-item-site-preferences =
-    .label = ترجیحات سایت
-    .accesskey = س
-
 item-site-settings =
     .label = تنظیمات سایت
     .accesskey = ت

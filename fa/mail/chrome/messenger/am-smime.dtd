@@ -11,7 +11,6 @@
 <!ENTITY encryption.certificate_clear.button "پاک کردن">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Digital Signing">
-<!ENTITY signMessage.accesskey "D">
 
 
 <!-- Strings for the cert picker dialog -->

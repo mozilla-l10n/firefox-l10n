@@ -10,16 +10,3 @@
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
-<!ENTITY menu_securityEncryptRequire.accesskey "E">
-
-<!ENTITY menu_securitySign.label "Digitally Sign This Message">
-<!ENTITY menu_securitySign.accesskey "S">
-
-<!ENTITY menu_securityStatus.label "View Security Info">
-<!ENTITY menu_securityStatus.accesskey "I">
-
-<!ENTITY securityButton.label "امنیت">
-<!ENTITY securityButton.tooltip "View or change security settings">
-
-<!ENTITY menu_viewSecurityStatus.label "Message Security Info">
-<!ENTITY menu_viewSecurityStatus.accesskey "I">

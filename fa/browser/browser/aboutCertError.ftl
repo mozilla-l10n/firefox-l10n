@@ -115,7 +115,6 @@ unknownSocketType-title = جواب غیرمنتظره از کارگزار
 nssFailure2-title = برقراری اتصال ایمن شکست خورد
 csp-xfo-error-title = ‫{ -brand-short-name } نمی‌تواند این صفحه را بگشاید
 corruptedContentError-title = خطای خرابی محتوا
-remoteXUL-title = XUL راه دور
 sslv3Used-title = قادر به برقراری اتصال امن نمیباشد
 inadequateSecurityError-title = اتصال شما امن نیست
 blockedByPolicy-title = صفحهٔ مسدود شده

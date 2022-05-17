@@ -252,12 +252,6 @@ restore-html-label =
     .label = احیای تنظیمات پیش‌فرض
     .accesskey = ا
 
-format-description = Configure text format behavior
-
-send-options-label =
-    .label = Send Options…
-    .accesskey = S
-
 autocomplete-description = When addressing messages, look for matching entries in:
 
 ab-label =
@@ -321,4 +315,6 @@ chat-browse-sound-button =
     .accesskey = م
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 
