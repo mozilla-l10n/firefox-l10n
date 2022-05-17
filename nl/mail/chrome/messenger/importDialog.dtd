@@ -24,9 +24,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "Filters">
 <!ENTITY importFilters.accesskey  "F">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "&brandShortName;-importeerwizard">
 <!ENTITY importShortDesc.label    "E-mail, adresboeken, instellingen en filters van andere programma’s importeren">
 

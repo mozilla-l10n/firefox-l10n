@@ -173,8 +173,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Fouten als deze rapporteren om Mozilla te helpen kwaadwillende websites te herkennen en te blokkeren">
 <!ENTITY errorReporting.learnMore "Meer info…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Neem contact op met de website-eigenaars om ze over dit probleem te informeren.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Geavanceerde info: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -200,9 +198,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Het lijkt erop dat dit door uw netwerkbeveiligingsinstellingen wordt veroorzaakt. Wilt u de standaardinstellingen herstellen?">
 <!ENTITY prefReset.label "Standaardinstellingen herstellen">
-
-<!ENTITY enableTls10.longDesc "Deze website ondersteunt mogelijk het TLS 1.2-protocol niet, wat de minimale versie is die door &brandShortName; wordt ondersteund. Door TLS 1.0 en TLS 1.1 in te schakelen kan mogelijk de verbinding tot stand worden gebracht.">
-<!ENTITY enableTls10.note "TLS 1.0 en TLS 1.1 worden in een toekomstige versie permanent uitgeschakeld.">
-<!ENTITY enableTls10.label "TLS 1.0 en 1.1 inschakelen">
 
 <!ENTITY networkProtocolError.longDesc "<p>De pagina die u wilt bekijken kan niet worden weergegeven, omdat er een fout in het netwerkprotocol is gedetecteerd.</p><ul><li>Neem contact op met de website-eigenaars om ze over dit probleem te informeren.</li></ul>">

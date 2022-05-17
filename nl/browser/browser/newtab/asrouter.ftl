@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Aanbevolen functie
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Waarom zie ik dit?
+
 cfr-doorhanger-extension-cancel-button = Niet nu
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Nu toevoegen
     .accesskey = t
+
 cfr-doorhanger-extension-manage-settings-button = Instellingen voor aanbevelingen beheren
     .accesskey = I
+
 cfr-doorhanger-extension-never-show-recommendation = Deze aanbeveling niet tonen
     .accesskey = D
+
 cfr-doorhanger-extension-learn-more-link = Meer info
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = door { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Aanbeveling
 cfr-doorhanger-extension-notification2 = Aanbeveling
     .tooltiptext = Aanbeveling voor extensie
     .a11y-announcement = Aanbeveling voor extensie beschikbaar
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Aanbeveling
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Meer info
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nieuwe functie:
+
 cfr-whatsnew-button =
     .label = Wat is er nieuw
     .tooltiptext = Wat is er nieuw
+
 cfr-whatsnew-release-notes-link-text = Uitgaveopmerkingen lezen
 
 ## Enhanced Tracking Protection Milestones

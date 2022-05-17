@@ -21,9 +21,6 @@
 <!ENTITY attachCloudCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "Webpagina…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Persoonlijke visitekaart (vCard)">
-<!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY remindLater.label "Later herinneren">
 <!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Sluiten">
@@ -149,16 +146,6 @@
 <!ENTITY returnReceiptMenu.accesskey "L">
 <!ENTITY dsnMenu.label "Afleverstatusnotificatie">
 <!ENTITY dsnMenu.accesskey "A">
-<!ENTITY deliveryFormatMenu.label "Afleveropmaak">
-<!ENTITY deliveryFormatMenu.accesskey "m">
-<!ENTITY autoFormatCmd.label "Automatisch herkennen">
-<!ENTITY autoFormatCmd.accesskey "A">
-<!ENTITY plainTextFormatCmd.label "Alleen platte tekst">
-<!ENTITY plainTextFormatCmd.accesskey "p">
-<!ENTITY htmlFormatCmd.label "Alleen HTML-tekst">
-<!ENTITY htmlFormatCmd.accesskey "H">
-<!ENTITY bothFormatCmd.label "Platte en HTML-tekst">
-<!ENTITY bothFormatCmd.accesskey "e">
 <!ENTITY priorityMenu.label "Prioriteit">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.title "Prioriteit">
@@ -222,7 +209,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Andere soorten adresvelden">
 <!ENTITY fromAddr2.label "Van">
 <!ENTITY fromAddr.accesskey "V">
 <!ENTITY replyAddr2.label "Antwoord-naar">

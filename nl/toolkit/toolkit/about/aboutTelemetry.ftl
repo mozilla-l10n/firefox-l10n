@@ -34,7 +34,6 @@ about-telemetry-events-section = Gebeurtenissen
 about-telemetry-simple-measurements-section = Eenvoudige metingen
 about-telemetry-slow-sql-section = Trage SQL-instructies
 about-telemetry-addon-details-section = Add-on-details
-about-telemetry-captured-stacks-section = Vastgelegde stacks
 about-telemetry-late-writes-section = Late schrijfacties
 about-telemetry-raw-payload-section = Onbewerkte nettolading
 about-telemetry-raw = Onbewerkte JSON
@@ -121,10 +120,6 @@ about-telemetry-addon-provider = { $addonProvider }-provider
 about-telemetry-keys-header = Eigenschap
 about-telemetry-names-header = Naam
 about-telemetry-values-header = Waarde
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (aantal vastgelegd: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Late schrijfactie #{ $lateWriteCount }

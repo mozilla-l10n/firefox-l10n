@@ -13,20 +13,6 @@
 <!ENTITY mailBiffOnNewWindow.label        "Alleen op nieuwe berichten controleren na het openen van E-mail &amp; nieuwsgroepen">
 <!ENTITY mailBiffOnNewWindow.accesskey    "c">
 
-<!ENTITY defaultMailSettings.description  "&brandShortName; als de standaardtoepassing gebruiken voor:">
-<!ENTITY setDefaultMail.label             "E-mail">
-<!ENTITY setDefaultMail.accesskey         "m">
-<!ENTITY setDefaultNews.label             "Nieuws">
-<!ENTITY setDefaultNews.accesskey         "N">
-<!ENTITY setDefaultFeed.label             "Feeds">
-<!ENTITY setDefaultFeed.accesskey         "e">
-
-<!ENTITY useInternalSettings.description  "Gebruik &brandShortName; E-mail &amp; nieuwsgroepen bij het openen van browserkoppelingen in:">
-<!ENTITY useInternalMail.label            "Mail (mailto:)">
-<!ENTITY useInternalMail.accesskey        "a">
-<!ENTITY useInternalNews.label            "Nieuws (news:, snews:, nntp:)">
-<!ENTITY useInternalNews.accesskey        "i">
-
 <!ENTITY messengerStartPage.caption       "E-mail-startpagina">
 <!ENTITY enableStartPage.label            "Wanneer Mail start, de startpagina in het berichtgedeelte tonen">
 <!ENTITY enableStartPage.accesskey        "W">
