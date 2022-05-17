@@ -8,10 +8,13 @@
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = სისტემის გაფორმება — თვითშერჩევა
 extension-default-theme-description = შეუხამებს სისტემის გაფორმებას ღილაკებს, მენიუსა და ფანჯრებს.
+
 extension-firefox-compact-light-name = ნათელი
 extension-firefox-compact-light-description = გაფორმება ნათელი ფერებით.
+
 extension-firefox-compact-dark-name = მუქი
 extension-firefox-compact-dark-description = გაფორმება მუქი ფერებით.
+
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = ფერადი გაფორმება ღილაკებზე, მენიუებსა და ფანჯრებზე.
 

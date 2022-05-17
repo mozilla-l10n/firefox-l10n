@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "ე">
 <!ENTITY SecondEmail.label              "დამატებითი ელფოსტა:">
 <!ENTITY SecondEmail.accesskey          "დ">
-<!ENTITY PreferMailFormat.label         "წერილების მიღებას ამჯობინებს შემდეგი სახით:">
-<!ENTITY PreferMailFormat.accesskey     "ჯ">
 <!ENTITY PlainText.label                "ტექსტური">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "უცნობი">

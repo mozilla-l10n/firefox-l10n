@@ -4,9 +4,6 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
-<!ENTITY pref.scripts.title              "სკრიპტები და მოდულები">
-
 <!--LOCALIZATION NOTE : FILE The 'Scripts' preferences dialog -->
 <!ENTITY pref.scripts2.title             "სკრიპტები">
 
@@ -31,12 +28,3 @@
 <!ENTITY debugConsoleJavascript.label     "გამოჩნდეს chrome JavaScript შეცდომები და გაფრთხილებები">
 <!ENTITY debugConsoleJavascript.accesskey "c">
 
-<!ENTITY enablePlugins.label             "მოდულების ჩართვა">
-<!ENTITY enablePluginForSuite.label      "სრული კრებული">
-<!ENTITY enablePluginForSuite.accesskey  "კ">
-
-<!ENTITY whenPageRequiresPlugins.label   "გვერდისთვის მოდულების საჭიროებისას">
-<!ENTITY activateAllPlugins.label        "ყველა მოდულის ნაგულისხმევად ამოქმედება">
-<!ENTITY activateAllPlugins.accesskey    "ნ">
-<!ENTITY warnPluginsRequired.label       "გაფრთხილება, ახალი მოდულის ჩადგმის საჭიროებისას">
-<!ENTITY warnPluginsRequired.accesskey   "ფ">

@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "კ">
 <!ENTITY newVirtualFolderCmd.label "შენახული ძიება…">
 <!ENTITY newVirtualFolderCmd.accesskey "ძ">
-<!ENTITY newOtherAccountsCmd.label "სხვა ანგარიშები…">
-<!ENTITY newOtherAccountsCmd.accesskey "ნ">
 <!ENTITY newCreateEmailAccountCmd.label "ახალი საფოსტო ანგარიშის შექმნა…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "ფ">
 <!ENTITY newExistingEmailAccountCmd.label "არსებული საფოსტო ანგარიშები…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "წ">
 <!ENTITY saveAsMenu.label "ჩაწერა როგორც">
 <!ENTITY saveAsMenu.accesskey "ო">
-<!ENTITY saveAsFileCmd.label "ფაილი">
-<!ENTITY saveAsFileCmd.accesskey "ფ">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "ნიმუში">
 <!ENTITY saveAsTemplateCmd.accesskey "ნ">

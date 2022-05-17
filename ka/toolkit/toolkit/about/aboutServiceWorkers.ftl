@@ -9,6 +9,7 @@ about-service-workers-title = Service Worker-ების შესახებ
 about-service-workers-main-title = დარეგისტრებული Service Worker-ები
 about-service-workers-warning-not-enabled = Service Worker-ები ჩართული არაა.
 about-service-workers-warning-no-service-workers = დარეგისტრებული Service Worker-ები არ მოიძებნა.
+
 # The original title of service workers' information
 #
 # Variables:
@@ -28,8 +29,12 @@ active-cache-name = <strong>მოქმედი მარაგის და�
 waiting-cache-name = <strong>დაყოვნებული მარაგის დასახელება:</strong> { $name }
 push-end-point-waiting = <strong>Push-ის ბოლო წერტილი:</strong> { waiting }
 push-end-point-result = <strong>Push-ის ბოლო წერტილი:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = განახლება
+
 unregister-button = რეგისტრაციის გაუქმება
+
 unregister-error = ამ Service Worker-ის ჩანაწერიდან ამოშლა ვერ მოხერხდა.
+
 waiting = დაცდა…
