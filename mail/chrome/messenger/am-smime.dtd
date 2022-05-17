@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "En savoir plus">
 
 <!ENTITY e2eEnc.description "Sans chiffrement de bout en bout, le contenu des messages est facilement exposé à votre fournisseur de messagerie et à une surveillance de masse.">
-<!ENTITY e2eeReqWarning.description "Si le chiffrement est exigé, pour pouvoir envoyer un message, vous devez disposer de la clé publique ou du certificat de chaque destinataire.">
 
-<!ENTITY e2eSigning.description "Une signature numérique permet aux destinataires de vérifier que le message a bien été envoyé par vous et que son contenu n’a pas été modifié.">
 <!ENTITY e2eTechPref.description "Technologie de chiffrement préférée :">
 
-<!ENTITY doNotEncrypt.label "Ne pas activer le chiffrement par défaut">
-<!ENTITY doNotEncrypt.accesskey "N">
-<!ENTITY requireEncryptMessage.label "Exiger le chiffrement par défaut">
-<!ENTITY requireEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert2.message "Certificat personnel pour le chiffrement :">
 <!ENTITY digitalSign.certificate.button "Sélectionner un certificat…">
 <!ENTITY digitalSign.certificate.accesskey "S">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Effacer">
 <!ENTITY encryption.certificate_clear.accesskey "r">
 <!ENTITY signingGroupTitle.label "Signature">
-<!ENTITY signMessage2.label "Ajouter ma signature numérique par défaut">
-<!ENTITY signMessage.accesskey "n">
 
 <!ENTITY signingCert2.message "Certificat personnel pour la signature numérique :">
 
