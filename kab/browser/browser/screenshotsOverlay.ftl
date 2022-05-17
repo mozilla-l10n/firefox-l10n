@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Sefsex
 screenshots-overlay-instructions = Zuɣer sakin sit ɣef af usebter akken ad tferneḍ tamnaṭ. Senned  qef ESC akken ad tesfesxeḍ.
+screenshots-overlay-download-button = Sader
+screenshots-overlay-copy-button = Nɣel
