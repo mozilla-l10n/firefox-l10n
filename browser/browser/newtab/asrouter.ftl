@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Odporúčaná funkcia
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Prečo sa mi toto zobrazuje
+
 cfr-doorhanger-extension-cancel-button = Teraz nie
     .accesskey = n
+
 cfr-doorhanger-extension-ok-button = Pridať
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = Nastavenia odporúčania
     .accesskey = d
+
 cfr-doorhanger-extension-never-show-recommendation = Toto odporúčanie už nezobrazovať
     .accesskey = n
+
 cfr-doorhanger-extension-learn-more-link = Ďalšie informácie
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = od vývojára { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Odporúčanie
 cfr-doorhanger-extension-notification2 = Odporúčanie
     .tooltiptext = Odporúčanie rozšírenia
     .a11y-announcement = K dispozícii je odporúčané rozšírenie
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Odporúčanie
@@ -79,9 +87,11 @@ cfr-protections-panel-link-text = Ďalšie informácie
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nová funkcia:
+
 cfr-whatsnew-button =
     .label = Čo je nové
     .tooltiptext = Čo je nové
+
 cfr-whatsnew-release-notes-link-text = Prečítajte si poznámky k vydaniu
 
 ## Enhanced Tracking Protection Milestones

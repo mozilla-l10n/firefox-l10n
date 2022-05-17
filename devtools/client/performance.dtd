@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Počet výskytov tejto funkcie v zásobníku v čase, keď nástroj profilovania zaznamenával vzorku">
 <!ENTITY performanceUI.table.function                 "Funkcia">
 <!ENTITY performanceUI.table.function.tooltip         "Názov a umiestnenie zdroja vzorkovanej funkcie">
-<!ENTITY performanceUI.table.totalAlloc               "Celkové zozbierané vyhradenia">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Celkový počet vyhradení objektu zozbieraných v tejto lokácii a vo volaniach">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

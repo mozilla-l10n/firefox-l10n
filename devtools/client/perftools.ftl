@@ -39,16 +39,15 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Veľkosť buffera:
+
 perftools-custom-threads-label = Pridať vlastné vlákna podľa názvu:
+
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Vlákna:
 perftools-devtools-settings-label = Nastavenia
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
-perftools-status-private-browsing-notice =
-    Ak je povolené súkromné prehliadanie, nástroj na profilovanie je zakázaný.
-    Zatvorením všetkých súkromných okien ho opätovne povolíte.
 perftools-status-recording-stopped-by-another-tool = Nahrávanie bolo zastavené iným nástrojom.
 perftools-status-restart-required = Na aktiváciu tejto funkcie je potrebné reštartovať prehliadač.
 
@@ -98,6 +97,7 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Obísť položky zvolené vyššie a zaznamenať všetky registrované vlákna
+
 perftools-tools-threads-input-label =
     .title = Tieto názvy vlákien sú zoznamom oddeleným čiarkami, ktorý sa používa na povolenie profilovania vlákien v nástroji na profilovanie. Názov môže obsahovať iba časť názvu vlákna. Pozor na medzery.
 
@@ -105,9 +105,14 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## devtools.performance.new-panel-onboarding preference is true.
+
 perftools-onboarding-message = <b>Novinka</b>: { -profiler-brand-name } je teraz integrovaný do Nástrojov pre vývojárov. <a>Pozrite si ďalšie informácie</a> o tomto novom výkonnom nástroji.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Na obmedzený čas máte prístup k pôvodnému panelu Výkon prostredníctvom položky <a>{ options-context-advanced-settings }</a>)
+
 perftools-onboarding-close-button =
     .aria-label = Zavrieť informačnú správu
 
@@ -120,21 +125,19 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Webový vývojár
 perftools-presets-web-developer-description = Odporúčaná predvoľba pre väčšinu ladení webových aplikácií s nízkymi nárokmi na výkon.
-perftools-presets-firefox-platform-label = Platforma Firefox
-perftools-presets-firefox-platform-description = Odporúčaná predvoľba pre ladenie internej platformy Firefox.
-perftools-presets-firefox-front-end-label = Klientske rozhranie Firefoxu
-perftools-presets-firefox-front-end-description = Odporúčaná predvoľba pre vnútorné ladenie klientskeho rozhrania Firefoxu.
-perftools-presets-firefox-graphics-label = Grafika vo Firefoxe
-perftools-presets-firefox-graphics-description = Odporúčaná predvoľba na skúmanie výkonu grafiky vo Firefoxe.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Odporúčaná predvoľba pre profilovanie { -brand-shorter-name(case: "gen") }.
+
 perftools-presets-graphics-label = Grafika
 perftools-presets-graphics-description = Predvoľba na diagnostiku grafických chýb v prehliadači { -brand-shorter-name }.
+
 perftools-presets-media-label = Médiá
-perftools-presets-media-description = Odporúčaná predvoľba na diagnostiku problémov so zvukom a videom.
 perftools-presets-media-description2 = Predvoľba na diagnostiku problémov so zvukom a videom v prehliadači { -brand-shorter-name }.
+
 perftools-presets-networking-label = Sieťová aktivita
 perftools-presets-networking-description = Predvoľba pre diagnostiku sieťovej aktivity v prehliadači { -brand-shorter-name }.
+
 perftools-presets-custom-label = Vlastné
 
 ##

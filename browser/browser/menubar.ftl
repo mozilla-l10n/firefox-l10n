@@ -38,16 +38,11 @@ menu-quit =
             [windows] k
            *[other] k
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Ukončiť { -brand-shorter-name }
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Ukončiť prehliadač { -brand-shorter-name }
+
 menu-about =
     .label = O aplikácii { -brand-shorter-name }
     .accesskey = O
@@ -77,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Otvoriť súbor…
     .accesskey = s
-menu-file-close =
-    .label = Zavrieť
-    .accesskey = Z
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 menu-file-close-tab =
@@ -106,9 +98,6 @@ menu-file-share-url =
 menu-file-print-setup =
     .label = Nastavenie tlače…
     .accesskey = N
-menu-file-print-preview =
-    .label = Ukážka pred tlačou
-    .accesskey = e
 menu-file-print =
     .label = Tlačiť…
     .accesskey = T
@@ -321,9 +310,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = a
 menu-help-report-site-issue =
     .label = Nahlásiť problém so stránkou…
-menu-help-feedback-page =
-    .label = Odoslať spätnú väzbu…
-    .accesskey = d
 menu-help-share-ideas =
     .label = Zdieľať nápady a spätnú väzbu…
     .accesskey = d

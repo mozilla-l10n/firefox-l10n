@@ -7,12 +7,6 @@
 <!ENTITY pref.content.title                     "Obsah">
 <!ENTITY pref.content.description               "Tieto nastavenia ovplyvňujú zobrazenie webových stránok a obsahu správ v programe &brandShortName;.">
 
-<!ENTITY siteIcons.label                        "Ikony webových stránok">
-<!ENTITY useSiteIcons.label                     "Zobrazovať ikony webových stránok">
-<!ENTITY useSiteIcons.accesskey                 "Z">
-<!ENTITY useFavIcons2.label                     "Skúsiť použiť ikonu servera, ak stránka neurčuje vlastnú">
-<!ENTITY useFavIcons2.accesskey                 "i">
-
 <!ENTITY scrolling.label                        "Posúvanie obsahu">
 <!ENTITY useAutoScroll.label                    "Použiť automatický posun">
 <!ENTITY useAutoScroll.accesskey                "t">
@@ -43,6 +37,4 @@
 
 <!ENTITY allowHWAccel.label                     "Použiť hardvérové urýchľovanie (ak je dostupné)">
 <!ENTITY allowHWAccel.accesskey                 "h">
-<!ENTITY blockAutoRefresh.label                 "Upozorniť, ak sa webová stránka pokúša o presmerovanie alebo obnovenie">
-<!ENTITY blockAutoRefresh.accesskey             "U">
 

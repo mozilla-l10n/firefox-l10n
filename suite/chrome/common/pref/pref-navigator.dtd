@@ -47,10 +47,3 @@
 <!ENTITY useDefault.label               "Obnoviť predvolené">
 <!ENTITY useDefault.accesskey           "r">
 
-<!ENTITY defaultBrowserGroup.label      "Predvolený prehliadač">
-<!ENTITY defaultBrowserButton.label     "Nastaviť predvolený prehliadač">
-<!ENTITY defaultBrowserButton.accesskey "e">
-<!ENTITY alreadyDefaultText             "&brandShortName; už je nastavený ako predvolený prehliadač.">
-<!ENTITY defaultPendingText             "&brandShortName; bude po kliknutí na tlačidlo OK nastavený ako predvolený prehliadač.">
-<!ENTITY wasMadeDefaultText             "&brandShortName; bol nastavený ako predvolený prehliadač.">
-<!ENTITY makeDefaultText                "Nastaviť &brandShortName; ako predvolený prehliadač.">
