@@ -33,10 +33,6 @@ menu-quit =
            *[other] Y
         }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
 menu-about =
     .label = Mayelana ne-{ -brand-shorter-name }
     .accesskey = M
@@ -58,9 +54,6 @@ menu-file-new-private-window =
 menu-file-open-file =
     .label = Vula ifayela…
     .accesskey = V
-menu-file-close =
-    .label = Vala
-    .accesskey = V
 menu-file-close-window =
     .label = Vala iwindi
     .accesskey = d
@@ -73,9 +66,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Ukuhlelwa Kwekhasi…
     .accesskey = k
-menu-file-print-preview =
-    .label = Umbono Wokuzoprintwa
-    .accesskey = u
 menu-file-print =
     .label = Printa…
     .accesskey = P
@@ -221,6 +211,3 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Usizo
     .accesskey = U
-menu-help-feedback-page =
-    .label = Thumela impendulo…
-    .accesskey = T

@@ -9,16 +9,3 @@
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
-<!ENTITY menu_securityEncryptRequire.accesskey "B">
-
-<!ENTITY menu_securitySign.label "Sayina Lomyalezo Ngezinombolo">
-<!ENTITY menu_securitySign.accesskey "L">
-
-<!ENTITY menu_securityStatus.label "Bheka Ukwaziswa Kokulondeka">
-<!ENTITY menu_securityStatus.accesskey "K">
-
-<!ENTITY securityButton.label "Ukulondeka">
-<!ENTITY securityButton.tooltip "Bheka noma ushintshe ukuhlelwa kokulondeka">
-
-<!ENTITY menu_viewSecurityStatus.label "Ukwaziswa Ngokulondeka Komyalezo">
-<!ENTITY menu_viewSecurityStatus.accesskey "K">

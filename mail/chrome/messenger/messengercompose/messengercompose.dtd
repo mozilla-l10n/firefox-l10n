@@ -16,9 +16,6 @@
 <!ENTITY attachMenu.accesskey "a">
 <!ENTITY attachPageCmd.label "Ikhasi Lewebhu...">
 <!ENTITY attachPageCmd.accesskey "I">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Ikhadi Lami (vCard)">
-<!ENTITY attachVCardCmd.accesskey "I">
 <!ENTITY closeCmd.label "Vala">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "v">
@@ -101,14 +98,6 @@
 
 <!ENTITY returnReceiptMenu.label "Buyisa Umbiko Wokuthi Uyitholile">
 <!ENTITY returnReceiptMenu.accesskey "y">
-<!ENTITY autoFormatCmd.label "Zitholele">
-<!ENTITY autoFormatCmd.accesskey "z">
-<!ENTITY plainTextFormatCmd.label "Umbhalo Ovamile Kuphela">
-<!ENTITY plainTextFormatCmd.accesskey "u">
-<!ENTITY htmlFormatCmd.label "Umbhalo Ocebile (HTML) Kuphela">
-<!ENTITY htmlFormatCmd.accesskey "u">
-<!ENTITY bothFormatCmd.label "Umbhalo Ovamile (HTML) Nocebile">
-<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "Ukubaluleka">
 <!ENTITY priorityMenu.accesskey "u">
 <!ENTITY priorityButton.label "Okuza Kuqala:">

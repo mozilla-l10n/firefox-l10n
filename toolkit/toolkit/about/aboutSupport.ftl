@@ -22,6 +22,7 @@ app-basics-build-config = Ukuhlelwa kokulungisa
 app-basics-user-agent = Ummeli womsebenzisi
 app-basics-memory-use = Ukusetshenziswa kwememori
 app-basics-safe-mode = Isimo esiphephile
+
 modified-key-prefs-title = Izintandokazi eziguquliwe ezibalulekile
 modified-prefs-name = Igama
 user-js-title = Izintandokazi zika user.js
