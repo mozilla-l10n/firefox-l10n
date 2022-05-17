@@ -47,10 +47,3 @@
 <!ENTITY useDefault.label               "Restaurar predeterminado">
 <!ENTITY useDefault.accesskey           "R">
 
-<!ENTITY defaultBrowserGroup.label      "Navegador predeterminado">
-<!ENTITY defaultBrowserButton.label     "Establecer navegador predeterminado">
-<!ENTITY defaultBrowserButton.accesskey "d">
-<!ENTITY alreadyDefaultText             "&brandShortName; ya es su navegador predeterminado.">
-<!ENTITY defaultPendingText             "&brandShortName; será configurado como su navegador predeterminado cuando haga clic en Aceptar.">
-<!ENTITY wasMadeDefaultText             "&brandShortName; ha sido configurado como su navegador predeterminado.">
-<!ENTITY makeDefaultText                "Establecer &brandShortName; como su navegador predeterminado.">

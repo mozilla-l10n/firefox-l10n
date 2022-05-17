@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = Error de instalación
 opensearch-error-duplicate-desc = { -brand-short-name } no pudo instalar el complemento de búsqueda de “{ $location-url }” porque ya existe un motor con el mismo nombre.
+
 opensearch-error-format-title = Formato inválido
 opensearch-error-format-desc = { -brand-short-name } no pudo instalar el motor de búsqueda desde: { $location-url }
+
 opensearch-error-download-title = Error de descarga
 opensearch-error-download-desc = { -brand-short-name } no pudo descargar el plugin de búsqueda desde: { $location-url }
 
@@ -19,9 +21,11 @@ opensearch-error-download-desc = { -brand-short-name } no pudo descargar el plug
 
 searchbar-submit =
     .tooltiptext = Enviar búsqueda
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Buscar
+
 searchbar-icon =
     .tooltiptext = Buscar
 
@@ -30,6 +34,5 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-remove-search-engine-message = <strong>Su motor de búsqueda predeterminado cambió.</strong> { -brand-short-name } ya no es compatible con { $oldEngine }. { $newEngine } es ahora su motor de búsqueda predeterminado. Para cambiar a otro motor de búsqueda predeterminado, vaya a la configuración. <label data-l10n-name="remove-search-engine-article">Más información</label>
 removed-search-engine-message = <strong>Su buscador predeterminado cambió.</strong> { $oldEngine } ya no está disponible como buscador predeterminado en { -brand-short-name }. { $newEngine } es ahora su buscador predeterminado. Para cambiar a otro buscador predeterminado, vaya a la configuración. <label data-l10n-name="remove-search-engine-article">Más información</label>
 remove-search-engine-button = Aceptar

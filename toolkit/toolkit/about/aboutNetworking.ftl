@@ -20,7 +20,6 @@ about-networking-ssl = SSL
 about-networking-active = Activo
 about-networking-idle = Ocioso
 about-networking-host = Servidor
-about-networking-tcp = TCP
 about-networking-type = Tipo
 about-networking-sent = Enviado
 about-networking-received = Recibido

@@ -4,9 +4,6 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
-<!ENTITY pref.scripts.title              "Scripts y plugins">
-
 <!--LOCALIZATION NOTE : FILE The 'Scripts' preferences dialog -->
 <!ENTITY pref.scripts2.title             "Scripts">
 
@@ -31,12 +28,3 @@
 <!ENTITY debugConsoleJavascript.label     "Mostrar errores y advertencias de JavaScript  de chrome">
 <!ENTITY debugConsoleJavascript.accesskey "c">
 
-<!ENTITY enablePlugins.label             "Habilitar plugins para">
-<!ENTITY enablePluginForSuite.label      "Suite">
-<!ENTITY enablePluginForSuite.accesskey  "u">
-
-<!ENTITY whenPageRequiresPlugins.label   "Cuando una página necesite plugins">
-<!ENTITY activateAllPlugins.label        "Activar todos los plugins por defecto">
-<!ENTITY activateAllPlugins.accesskey    "d">
-<!ENTITY warnPluginsRequired.label       "Avisarme si se necesitan instalar plugins adicionales">
-<!ENTITY warnPluginsRequired.accesskey   "v">
