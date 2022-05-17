@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Լր. էլ. փոստ.">
 <!ENTITY SecondEmail.accesskey          "i">
-<!ENTITY PreferMailFormat.label         "Ստանալ նամակները ձևափոխված ըստ՝">
-<!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "Սովորական գրույթ">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Անհայտ">

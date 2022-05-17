@@ -5,6 +5,7 @@
 key-wizard-button =
     .buttonlabelaccept = Շարունակել
     .buttonlabelhelp = Հետ գնալ
+
 key-wizard-learn-more = Իմանալ ավելին
 
 ## Generate key section
@@ -15,11 +16,15 @@ openpgp-keygen-months-label =
     .label = ամիս
 openpgp-keygen-years-label =
     .label = տարի
+
 openpgp-keygen-advanced-title = Ընդլայնված կարգավորումներ
+
 openpgp-keygen-type-rsa =
     .label = RSA
+
 openpgp-keygen-dismiss =
     .label = Չեղարկել
+
 openpgp-keygen-cancel =
     .label = Չեղարկել ընթացքը…
 

@@ -23,4 +23,3 @@ count-new-messages-radio =
     .label = Հաշվել նոր նամակները
     .accesskey = վ
 
-notification-settings-info = Կարող եք անջատել նշանը Ծանուցումներից

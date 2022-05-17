@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Տվյալներ
 
-item-site-preferences =
-    .label = Կայքի նախըտրանքներ
-    .accesskey = Կ
-
 item-offline-apps =
     .label = Վեբ կայքերի անցանց տվյալներ
     .accesskey = Վ

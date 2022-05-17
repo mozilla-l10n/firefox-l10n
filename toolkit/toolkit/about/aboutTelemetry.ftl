@@ -34,7 +34,6 @@ about-telemetry-events-section = Իրադարձություններ
 about-telemetry-simple-measurements-section = Պարզ չափումներ
 about-telemetry-slow-sql-section = Ցուցադրել SQL-ի առաջարկությունը
 about-telemetry-addon-details-section = Հավելման մանրամասները
-about-telemetry-captured-stacks-section = Կորզված շեղջեր
 about-telemetry-late-writes-section = Հետագա գրումներ
 about-telemetry-raw-payload-section = Անմշակ բեռ
 about-telemetry-raw = JSON տող
@@ -121,10 +120,6 @@ about-telemetry-addon-provider = { $addonProvider } մատակարարը
 about-telemetry-keys-header = Հատկությունը
 about-telemetry-names-header = Անուն
 about-telemetry-values-header = Արժեքը
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (քանակը. { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Ուշ գրառում #{ $lateWriteCount }

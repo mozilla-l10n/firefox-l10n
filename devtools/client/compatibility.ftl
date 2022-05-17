@@ -19,9 +19,6 @@ compatibility-issue-deprecated-experimental = (հնացած, փորձնական)
 compatibility-settings-button-label = Կարգավորումներ
 compatibility-settings-button-title =
     .title = Կարգավորումներ
-compatibility-feedback-button-label = Արձագանք
-compatibility-feedback-button-title =
-    .title = Արձագանք
 
 ## Messages used as headers in settings pane
 
@@ -42,3 +39,4 @@ compatibility-issue-occurrences =
 compatibility-no-issues-found = Համատեղելիության խնդիրներ չեն գտնվել:
 compatibility-close-settings-button =
     .title = Փակել կարգավորումները
+
