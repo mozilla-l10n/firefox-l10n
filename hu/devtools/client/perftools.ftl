@@ -42,16 +42,15 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Puffer mérete:
+
 perftools-custom-threads-label = Egyéni szálak hozzáadása név szerint:
+
 perftools-devtools-interval-label = Intervallum:
 perftools-devtools-threads-label = Szálak:
 perftools-devtools-settings-label = Beállítások
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
-perftools-status-private-browsing-notice =
-    A profilozó le van tiltva, ha a privát böngészés engedélyezett.
-    A profilozó újbóli engedélyezéséhez zárjon be minden privát ablakot.
 perftools-status-recording-stopped-by-another-tool = A felvételt egy másik eszköz leállította.
 perftools-status-restart-required = A funkció bekapcsolásához újra kell indítani a böngészőt.
 
@@ -101,6 +100,7 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = A fenti kiválasztások megkerülése, és az összes regisztrált szál rögzítése
+
 perftools-tools-threads-input-label =
     .title = Az itt felsorolt szálnevek vesszővel elválasztott listája a profilozóban a szálak profilozásának engedélyezésére szolgál. A szál már nevének részleges egyezése esetén is hozzáadásra kerül. A mező szóközökre érzékeny.
 
@@ -108,9 +108,14 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## devtools.performance.new-panel-onboarding preference is true.
+
 perftools-onboarding-message = <b>Új</b>: A { -profiler-brand-name } mostantól a Fejlesztői eszközökbe integrált. <a>Tudjon meg többet</a> erről a hatékony új eszközről.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Korlátozott ideig elérheti az eredeti Teljesítmény panelt is a <a>{ options-context-advanced-settings }</a> segítségévél)
+
 perftools-onboarding-close-button =
     .aria-label = A bemutató üzenet bezárása
 
@@ -123,21 +128,19 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Webfejlesztő
 perftools-presets-web-developer-description = Ajánlott előbeállítás a legtöbb webalkalmazás hibakereséséhez, alacsony pluszköltséggel.
-perftools-presets-firefox-platform-label = Firefox platform
-perftools-presets-firefox-platform-description = Ajánlott előbeállítás a Firefox platform belső hibakereséséhez.
-perftools-presets-firefox-front-end-label = Firefox kezelőfelület
-perftools-presets-firefox-front-end-description = Ajánlott előbeállítás a Firefox felületének belső hibakereséséhez.
-perftools-presets-firefox-graphics-label = Firefox grafika
-perftools-presets-firefox-graphics-description = Ajánlott előbeállítás a Firefox grafikus teljesítményének vizsgálatához.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Javasolt előbeállítás a { -brand-shorter-name } profilozásához.
+
 perftools-presets-graphics-label = Grafika
 perftools-presets-graphics-description = Előbeállítás a { -brand-shorter-name } grafikai hibák kivizsgálásához.
+
 perftools-presets-media-label = Média
-perftools-presets-media-description = Ajánlott előbeállítás a hang- és videóproblémák diagnosztizálásához.
 perftools-presets-media-description2 = Előbeállítás a { -brand-shorter-name } hang- és videóhibáinak kivizsgálásához.
+
 perftools-presets-networking-label = Hálózat
 perftools-presets-networking-description = Előbeállítás a { -brand-shorter-name } hálózati hibák kivizsgálásához.
+
 perftools-presets-custom-label = Egyéni
 
 ##

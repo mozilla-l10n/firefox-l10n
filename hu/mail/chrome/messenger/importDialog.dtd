@@ -32,9 +32,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "Szűrők">
 <!ENTITY importFilters.accesskey  "S">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "&brandShortName; importáló varázsló">
 <!ENTITY importShortDesc.label    "Levelek, címjegyzékek, beállítások és szűrők importálása más programokból">
 

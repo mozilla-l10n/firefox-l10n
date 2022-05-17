@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (elavult, kísérleti
 compatibility-settings-button-label = Beállítások
 compatibility-settings-button-title =
     .title = Beállítások
-compatibility-feedback-button-label = Visszajelzés
-compatibility-feedback-button-title =
-    .title = Visszajelzés
 
 ## Messages used as headers in settings pane
 
@@ -42,9 +39,11 @@ compatibility-issue-occurrences =
         [one] { $number } előfordulás
        *[other] { $number } előfordulás
     }
+
 compatibility-no-issues-found = Nem található kompatibilitási probléma.
 compatibility-close-settings-button =
     .title = Beállítások bezárása
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

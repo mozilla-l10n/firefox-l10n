@@ -8,10 +8,13 @@
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = Rendszertéma – automatikus
 extension-default-theme-description = Az operációs rendszer beállításainak követése a gomboknál, menüknél és ablakoknál.
+
 extension-firefox-compact-light-name = Világos
 extension-firefox-compact-light-description = Egy téma világos színpalettával.
+
 extension-firefox-compact-dark-name = Sötét
 extension-firefox-compact-dark-description = Egy téma sötét színpalettával.
+
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Színes megjelenés használata a gombokhoz, menükhöz és ablakokhoz.
 

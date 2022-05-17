@@ -47,10 +47,3 @@
 <!ENTITY useDefault.label               "Alaphelyzet">
 <!ENTITY useDefault.accesskey           "A">
 
-<!ENTITY defaultBrowserGroup.label      "Alapértelmezett böngésző">
-<!ENTITY defaultBrowserButton.label     "Alapértelmezés">
-<!ENTITY defaultBrowserButton.accesskey "A">
-<!ENTITY alreadyDefaultText             "A &brandShortName; már be van állítva alapértelmezett böngészőnek.">
-<!ENTITY defaultPendingText             "A &brandShortName; lesz beállítva alapértelmezett böngészőnek, miután az OK gombra kattint.">
-<!ENTITY wasMadeDefaultText             "A &brandShortName; lett az alapértelmezett böngésző.">
-<!ENTITY makeDefaultText                "A &brandShortName; beállítása alapértelmezett böngészőnek.">

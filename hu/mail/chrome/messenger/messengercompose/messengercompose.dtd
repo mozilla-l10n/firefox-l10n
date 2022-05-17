@@ -21,9 +21,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Weboldal…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Személyi kártya (vCard)">
-<!ENTITY attachVCardCmd.accesskey "k">
 <!ENTITY remindLater.label "Figyelmeztetés később">
 <!ENTITY remindLater.accesskey "F">
 <!ENTITY closeCmd.label "Bezárás">
@@ -149,16 +146,6 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "Értesítés a kézbesítésről">
 <!ENTITY dsnMenu.accesskey "k">
-<!ENTITY deliveryFormatMenu.label "Kézbesítési formátum">
-<!ENTITY deliveryFormatMenu.accesskey "f">
-<!ENTITY autoFormatCmd.label "Automatikus felismerés">
-<!ENTITY autoFormatCmd.accesskey "a">
-<!ENTITY plainTextFormatCmd.label "Csak sima szöveg">
-<!ENTITY plainTextFormatCmd.accesskey "s">
-<!ENTITY htmlFormatCmd.label "Csak Rich Text (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "R">
-<!ENTITY bothFormatCmd.label "Sima és Rich Text (HTML) szöveg">
-<!ENTITY bothFormatCmd.accesskey "H">
 <!ENTITY priorityMenu.label "Sürgősség">
 <!ENTITY priorityMenu.accesskey "S">
 <!ENTITY priorityButton.title "Prioritás">
@@ -222,7 +209,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Más típusú címzési mezők">
 <!ENTITY fromAddr2.label "Feladó">
 <!ENTITY fromAddr.accesskey "a">
 <!ENTITY replyAddr2.label "Válaszcím">

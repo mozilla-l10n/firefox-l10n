@@ -4,9 +4,6 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
-<!ENTITY pref.scripts.title              "Parancsfájlok és bővítmények">
-
 <!ENTITY navigator.label                 "Böngésző">
 <!ENTITY navigator.accesskey             "B">
 
@@ -28,12 +25,3 @@
 <!ENTITY debugConsoleJavascript.label     "A felület JavaScript hibáinak és figyelmeztetéseinek megjelenítése">
 <!ENTITY debugConsoleJavascript.accesskey "f">
 
-<!ENTITY enablePlugins.label             "Bővítmények engedélyezése a következőhöz:">
-<!ENTITY enablePluginForSuite.label      "Suite">
-<!ENTITY enablePluginForSuite.accesskey  "u">
-
-<!ENTITY whenPageRequiresPlugins.label   "Ha egy weboldal bővítményeket használ">
-<!ENTITY activateAllPlugins.label        "Minden bővítmény engedélyezése">
-<!ENTITY activateAllPlugins.accesskey    "M">
-<!ENTITY warnPluginsRequired.label       "Figyelmeztetés, ha további bővítmények telepítése szükséges">
-<!ENTITY warnPluginsRequired.accesskey   "F">

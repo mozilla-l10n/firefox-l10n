@@ -105,8 +105,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Az ilyen hibák jelentése segít a Mozillának a rosszindulatú oldalak azonosításában és blokkolásában">
 <!ENTITY errorReporting.learnMore "További tudnivalók…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Értesítse a webhely tulajdonosait erről a problémáról.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Speciális információ: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -132,9 +130,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Úgy tűnik, ezt a hálózat biztonsági beállításai okozhatják. Szeretné helyreállítani az alapbeállításokat?">
 <!ENTITY prefReset.label "Alap beállítások visszaállítása">
-
-<!ENTITY enableTls10.longDesc "Ez a weboldal lehet, hogy nem támogatja a TLS 1.2 protokollt, amely a legkisebb verzió, amelyet a &brandShortName; támogat. A TLS 1.0 és TLS 1.1 engedélyezésével sikeres lehet ez a kapcsolat.">
-<!ENTITY enableTls10.note "Egy jövőbeli kiadásban a TLS 1.0 és TLS 1.1 véglegesen letiltásra kerül.">
-<!ENTITY enableTls10.label "A TLS 1.0 és 1.1 engedélyezése">
 
 <!ENTITY networkProtocolError.longDesc "<p>A megtekinteni kívánt oldal nem jeleníthető meg, mert hiba észlelhető a hálózati protokollban.</p><ul><li>Lépjen kapcsolatba a webhely tulajdonosaival, hogy tájékoztassa őket a problémáról.</li></ul>">

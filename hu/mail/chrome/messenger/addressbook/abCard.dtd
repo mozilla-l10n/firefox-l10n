@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "További e-mail:">
 <!ENTITY SecondEmail.accesskey          "i">
-<!ENTITY PreferMailFormat.label         "Az üzeneteket a következő formátumban szereti megkapni:">
-<!ENTITY PreferMailFormat.accesskey     "k">
 <!ENTITY PlainText.label                "Normál szöveg">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Ismeretlen">

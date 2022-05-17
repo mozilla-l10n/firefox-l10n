@@ -15,15 +15,19 @@ toolbox-meatball-menu-dock-bottom-label = Dokkolás az aljára
 toolbox-meatball-menu-dock-left-label = Dokkolás balra
 toolbox-meatball-menu-dock-right-label = Dokkolás jobbra
 toolbox-meatball-menu-dock-separate-window-label = Külön ablak
+
 toolbox-meatball-menu-splitconsole-label = Osztott konzol megjelenítése
 toolbox-meatball-menu-hideconsole-label = Osztott konzol elrejtése
+
 toolbox-meatball-menu-settings-label = Beállítások
 toolbox-meatball-menu-documentation-label = Dokumentáció…
 toolbox-meatball-menu-community-label = Közösség…
+
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Felugrók automatikus elrejtése ki
+
 toolbox-meatball-menu-pseudo-locale-accented = Az „ékezetes” területi beállítás engedélyezése
 toolbox-meatball-menu-pseudo-locale-bidi = A „kétirányú” területi beállítás engedélyezése
 

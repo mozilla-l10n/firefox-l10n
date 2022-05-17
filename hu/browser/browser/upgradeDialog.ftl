@@ -8,62 +8,15 @@
 
 ## New changes screen
 
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-new-title = Köszönjön az új { -brand-short-name }nak
-upgrade-dialog-new-subtitle = Arra tervezve, hogy gyorsabban eljusson oda, ahová szeretne
-upgrade-dialog-new-item-menu-title = Korszerűsített eszköztár és menük
-upgrade-dialog-new-item-menu-description = Priorizálja a fontos dolgokat, hogy megtalálja amire szüksége van.
-upgrade-dialog-new-item-tabs-title = Modern lapok
-upgrade-dialog-new-item-tabs-description = Rendezetten tárolja az információkat, támogatja a fókuszt és a rugalmas mozgatást.
-upgrade-dialog-new-item-icons-title = Friss ikonok és egyértelműbb üzenetek
-upgrade-dialog-new-item-icons-description = Könnyebb érintéssel segít eligazodni.
-upgrade-dialog-new-primary-default-button = A { -brand-short-name } alapértelmezett böngészővé tétele
-upgrade-dialog-new-primary-theme-button = Válasszon témát
-upgrade-dialog-new-secondary-button = Most nem
-# This string is only shown on Windows 7, where we intentionally suppress the
-# theme selection screen.
-upgrade-dialog-new-primary-win7-button = Rendben, értem!
-
 ## Pin Firefox screen
 ##
 ## These title, subtitle and button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-pin-title =
-    { PLATFORM() ->
-        [macos] A { -brand-short-name } hozzáadása a Dokkhoz
-       *[other] A { -brand-short-name } rögzítése a tálcára
-    }
-# The English macOS string avoids repeating "Keep" a third time, so if your
-# translations don't repeat anyway, the same string can be used cross-platform.
-upgrade-dialog-pin-subtitle =
-    { PLATFORM() ->
-        [macos] Érje el könnyedén a legfrissebb { -brand-short-name }ot.
-       *[other] Tartsa elérhető közelségben a legfrissebb { -brand-short-name }ot.
-    }
-upgrade-dialog-pin-primary-button =
-    { PLATFORM() ->
-        [macos] Hozzáadás a Dokkhoz
-       *[other] Rögzítés a tálcára
-    }
-upgrade-dialog-pin-secondary-button = Most nem
-
 ## Default browser screen
 
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-default-title-2 = A { -brand-short-name } alapértelmezetté tétele
-upgrade-dialog-default-subtitle-2 = Tegye robotpilótára a sebességet, a biztonságot és az adatvédelmet
-upgrade-dialog-default-primary-button-2 = Alapértelmezett böngészővé tétel
-upgrade-dialog-default-secondary-button = Most nem
-
 ## Theme selection screen
-
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-theme-title-2 = Induljon tisztán egy ropogós, új témával
-upgrade-dialog-theme-system = Rendszertéma
-    .title = Az operációs rendszer témájának követése a gomboknál, menüknél és ablakoknál
 
 ## Start screen
 
@@ -93,12 +46,6 @@ upgrade-dialog-theme-light = Világos
     .title = Világos téma használata a gomboknál, menüknél és ablakoknál
 upgrade-dialog-theme-dark = Sötét
     .title = Sötét téma használata a gomboknál, menüknél és ablakoknál
-upgrade-dialog-theme-alpenglow = Alpesi fény
-    .title = Dinamikus, színes téma használata a gomboknál, menüknél és ablakoknál
-upgrade-dialog-theme-keep = Előző megtartása
-    .title = A { -brand-short-name } frissítése előtt használt téma használata
-upgrade-dialog-theme-primary-button = Téma mentése
-upgrade-dialog-theme-secondary-button = Most nem
 upgrade-dialog-colorway-variation-soft = Puha
     .title = Ezen színvilág használata
 upgrade-dialog-colorway-variation-balanced = Kiegyensúlyozott
