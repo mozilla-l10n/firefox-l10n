@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Um tengiforrit
+
 installed-plugins-label = Uppsett tengiforrit
 no-plugins-are-installed-label = Fann ekki nein uppsett tengiforrit
+
 deprecation-description = Vantar eitthvað? Sum tengiforrit eru ekki lengur stutt. <a data-l10n-name="deprecation-link">Lesa meira.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">Fylki:</span> Virk
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Fylki:</span> Virk ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Fylki:</span> Óvirkt
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Fylki:</span> Óvirkt ({ $blockListState })
+
 mime-type-label = MIME gerð
 description-label = Lýsing
 suffixes-label = Skráarendingar
@@ -35,7 +38,9 @@ suffixes-label = Skráarendingar
 
 plugins-gmp-license-info = Notkunarskilmálar
 plugins-gmp-privacy-info = Persónuupplýsingar
+
 plugins-openh264-name = OpenH264 Video Codec gert af Cisco Systems, Inc.
 plugins-openh264-description = Þetta tengiforrit er sett inn sjálfkrafa frá Mozilla til að fara eftir WebRTC staðlinum og til að leyfa WebRTC köll á tæki sem þarfnast H.264 mynd kóðara. Kíktu á http://www.openh264.org/ til að skoða frumkóðann og fræðast meira um útfærsluna.
+
 plugins-widevine-name = Widevine Content Decryption Module frá Google Inc.
 plugins-widevine-description = Þetta tengiforrit býður upp á afspilun dulkóðaðra miðla í samræmi við forskrift Encrypted Media Extensions. Dulkóðaðir miðlar eru venjulega notaðir á síðum til þess að verja þær fyrir afritun gæðainnihalds. Heimsækið https://www.w3.org/TR/encrypted-media/ fyrir frekari upplýsingar um Encrypted Media Extensions.

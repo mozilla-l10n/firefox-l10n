@@ -12,16 +12,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Villa kom upp þegar tengst var { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Villunúmer: { $error }
+
 psmerr-ssl-disabled = Get ekki tengst á öruggan hátt því SSL samskiptareglurnar hafa verið gerðar óvirkar.
 psmerr-ssl2-disabled = Get ekki tengst á öruggan hátt því vefsvæðið notar eldri óörugga útgáfu af SSL samskiptareglum.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Þú hefur fengið rangt skilríki.  Hafið samband við vefstjóra eða póstaðila og láttu þá fá eftirfarandi upplýsingar:
     
     Skilríkið þitt inniheldur sama raðnúmer og annað skilríki útgefið af vottunarstöð.  Náðu þér í nýtt skilríki sem inniheldur einkvæmt raðnúmer.
+
 ssl-error-export-only-server = Get ekki haft örugg samskipti. Jafningi styður ekki dulkóðum með miklum gæðum.
 ssl-error-us-only-server = Get ekki haft örugg samskipti. Jafningi þarfnast dulkóðunar með miklum gæðum sem er ekki stuðningur fyrir.
 ssl-error-no-cypher-overlap = Get ekki átt örugg samskipti við jafningja: engin sameiginleg dulritunarreiknirit.

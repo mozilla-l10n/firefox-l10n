@@ -14,5 +14,7 @@ accounts-conn-security = Öryggi tengingar
 accounts-auth-method = Auðkenningaraðferð
 accounts-default = Sjálfgefið?
 identity-name = Auðkenni
+
 send-via-email = Senda með tölvupósti
+
 app-basics-telemetry = Fjarmælingargögn

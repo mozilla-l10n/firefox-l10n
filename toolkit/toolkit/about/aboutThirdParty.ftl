@@ -4,4 +4,5 @@
 
 third-party-tag-shellex = Skeljarviðbót
     .title = Þessi gerð einingar hleðst inn þegar þú opnar kerfisskráagluggann.
+
 third-party-button-copy-to-clipboard = Afrita hrá gögn á klippispjald

@@ -43,6 +43,9 @@ perftools-button-restart = Endurræsa
 ## preferences are true.
 
 
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## devtools.performance.new-panel-onboarding preference is true.
+
 ## Profiler presets
 
 

@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = Virkur
 about-networking-idle = Aðgerðalaus
 about-networking-host = Hýsill
-about-networking-tcp = TCP
 about-networking-sent = Send
 about-networking-received = Móttekið
 about-networking-family = Fjölskylda

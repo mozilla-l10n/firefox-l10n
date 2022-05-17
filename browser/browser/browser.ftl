@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Huliðsstilling)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Huliðsstilling)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Huliðsstilling)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Huliðsstilling)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -113,6 +115,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Minni innsláttur, finna meira: Leitaðu með { $engineName } beint úr veffangastikunni.
 urlbar-search-tips-redirect-2 = Byrjaðu að leita í veffangastikunni til að sjá tillögur frá { $engineName } og úr leitarferli þínum.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Veldu þessa flýtileið til að finna það sem þú þarft hraðar.
@@ -149,10 +152,12 @@ urlbar-midi-blocked =
     .tooltiptext = Þú hefur lokað fyrir MIDI aðgang á þessu vefsvæði.
 urlbar-install-blocked =
     .tooltiptext = Þú hefur lokað fyrir staðsetningarupplýsingar á þessu vefsvæði.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Breyta bókamerki ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -179,8 +184,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Að þessu sinni leita með:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Breyta leitarstillingum
+
 search-one-offs-context-open-new-tab =
     .label = Leita og birta í nýjum flipa
     .accesskey = f
@@ -190,12 +197,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Stillt sem sjálfgefin leitarvél fyrir huliðsglugga
     .accesskey = h
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -244,6 +253,7 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button =
     .label = Vista
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -271,6 +281,7 @@ identity-passive-loaded = Sumir hlutir á þessari síðu eru ekki öruggir (ein
 identity-active-loaded = Þú hefur slökkt á vernd fyrir þessa síðu.
 identity-weak-encryption = Þessi síða notar lélega dulkóðun.
 identity-insecure-login-forms = Hugsanlega gæti þriðji aðili komist yfir allar þær skráningar sem þú setur inn á þessa síðu.
+
 identity-https-only-connection-upgraded = (uppfært í HTTPS)
 identity-https-only-label = Einungis-HTTPS-hamur
 identity-https-only-dropdown-on =
@@ -282,9 +293,11 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Kveiktu á Einungis-HTTPS-ham fyrir þessa síðu ef þú vilt að { -brand-short-name } uppfæri tenginguna þegar mögulegt er.
 identity-https-only-info-turn-off2 = Ef síðan virðist biluð gætirðu viljað slökkva á Einungis-HTTPS-ham fyrir þessa síðu til að endurlesa hana með óöruggu HTTP.
 identity-https-only-info-no-upgrade = Ekki er hægt að uppfæra tengingu úr HTTP.
+
 identity-permissions-storage-access-header = Vefkökur á milli vefsvæða
 identity-permissions-storage-access-hint = Þessir aðilar geta notað vefkökur milli vefsvæða og vefgögn á meðan þú ert á þessu vefsvæði.
 identity-permissions-storage-access-learn-more = Fræðast meira
+
 identity-permissions-reload-hint = Þú gætir þurft að endurhlaða síðuna til að virkja breytingar.
 identity-clear-site-data =
     .label = Hreinsa vefkökur og síðugögn…
@@ -348,12 +361,14 @@ browser-tab-mute =
         [one] ÞAGGA FLIPA
        *[other] ÞAGGA { $count } FLIPA
     }
+
 browser-tab-unmute =
     { $count ->
         [1] AFÞAGGA FLIPA
         [one] AFÞAGGA FLIPA
        *[other] AFÞAGGA { $count } FLIPA
     }
+
 browser-tab-unblock =
     { $count ->
         [1] SPILA FLIPA
@@ -366,6 +381,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Flytja inn bókamerki...
     .tooltiptext = Flytja inn bókamerki úr öðrum vafra yfir í { -brand-short-name }.
+
 bookmarks-toolbar-empty-message = Fyrir fljótlegan aðgang að þeim, skaltu setja bókamerkin þín hér á bókamerkjastikuna. <a data-l10n-name="manage-bookmarks">Sýsla með bókamerki...</a>
 
 ## WebRTC Pop-up notifications
@@ -383,12 +399,15 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Hátalarar
 popup-all-windows-shared = Öllum sýnilegum gluggum á skjánum verður deilt.
+
 popup-screen-sharing-block =
     .label = Loka á
     .accesskey = k
+
 popup-screen-sharing-always-block =
     .label = Alltaf loka á
     .accesskey = A
+
 popup-mute-notifications-checkbox = Þagga niður í tilkynningum vefsvæðis meðan þú deilir
 
 ## WebRTC window or screen share tab switch warning
@@ -410,6 +429,7 @@ enable-devtools-popup-description = Til að nota F12 flýtileiðina skaltu fyrst
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Leita eða sláðu inn veffang
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -418,6 +438,7 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Leita á vefnum
     .aria-label = Leita með { $name }
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -426,22 +447,27 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Settu inn leitarorð
     .aria-label = Leita með { $name }
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Settu inn leitarorð
     .aria-label = Leita í bókamerkjum
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Settu inn leitarorð
     .aria-label = Leita í vafurferli
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Settu inn leitarorð
     .aria-label = Leita í flipum
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Leitaðu með { $name } eða sláðu inn vistfang
+
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -451,9 +477,11 @@ urlbar-permissions-granted =
     .tooltiptext = Þú hefur gefið þessu vefsvæði aukin réttindi.
 urlbar-switch-to-tab =
     .value = Fara á flipa:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Viðbót:
+
 urlbar-go-button =
     .tooltiptext = Hoppa á tengilinn sem er í staðsetningarslánni
 urlbar-page-action-button =
@@ -520,6 +548,7 @@ urlbar-result-action-search-tabs = Leita í flipum
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
@@ -534,9 +563,12 @@ urlbar-group-search-suggestions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> er með fylltan skjá
 fullscreen-warning-no-domain = Þetta skjal er nú á fylltum skjá
+
+
 fullscreen-exit-button = Hætta í fullum skjá (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Hætta í fullum skjá (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -546,6 +578,7 @@ pointerlock-warning-no-domain = Þetta skjal hefur nú stjórnina á bendi. Ýtt
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Hluti þessarar síðu hrundi.</strong> Til að láta { -brand-product-name } vita af þessu vandamáli svo hægt sé laga það fljótt og vel, skaltu senda inn skýrslu.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -601,6 +634,7 @@ bookmarks-tools =
     .label = Verkfæri fyrir bókamerki
 bookmarks-bookmark-edit-panel =
     .label = Breyta bókamerki
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -614,6 +648,7 @@ bookmarks-toolbar-placeholder =
     .title = Hlutir í bókamerkjaslá
 bookmarks-toolbar-placeholder-button =
     .label = Hlutir í bókamerkjaslá
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Bókamerkja núverandi flipa
@@ -644,6 +679,7 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Viðbætur og þemu
     .tooltiptext = Sýsla með viðbætur þínar og þemu { $shortcut }
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -656,28 +692,30 @@ toolbar-settings-button =
 
 ## More items
 
-more-menu-go-offline =
-    .label = Vinna án nettengingar
-    .accesskey = g
 toolbar-overflow-customize-button =
     .label = Sérsníða verkfæraslá…
     .accesskey = S
+
 toolbar-button-email-link =
     .label = Senda tengil
     .tooltiptext = Senda tengil á þessa síðu í pósti
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Vista síðu
     .tooltiptext = Vista þessa síðu ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Opna skrá
     .tooltiptext = Opna skrá ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = Samstilltir flipar
     .tooltiptext = Sýna flipa frá öðrum tækjum
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -706,10 +744,6 @@ addon-removal-abuse-report-checkbox = Tilkynna þessa viðbót til { -vendor-sho
 
 ## Remote / Synced tabs
 
-remote-tabs-manage-account =
-    .label = Sýsla með reikning
-remote-tabs-sync-now = Samstilla núna
-
 ##
 
 # "More" item in macOS share menu
@@ -724,6 +758,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Leyfa sprettiglugga frá { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Loka sprettigluggum frá { $uriHost }
     .accesskey = p
@@ -733,9 +768,11 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ekki sýna þessi skilaboð þegar sprettigluggum er lokað
     .accesskey = D
+
 edit-popup-settings =
     .label = Sýsla með sprettgluggastillingar...
     .accesskey = g
+
 picture-in-picture-hide-toggle =
     .label = Fela mynd-í-mynd víxlhnapp
     .accesskey = F
@@ -746,6 +783,7 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = Færa mynd-í-mynd víxlhnapp á hægri hlið
     .accesskey = h
+
 picture-in-picture-move-toggle-left =
     .label = Færa mynd-í-mynd víxlhnapp á vinstri hlið
     .accesskey = v
@@ -760,32 +798,42 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Flakk
+
 navbar-downloads =
     .label = Niðurhal
+
 navbar-overflow =
     .tooltiptext = Fleiri verkfæri…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Prenta
     .tooltiptext = Prenta þessa síðu… ({ $shortcut })
+
 navbar-home =
     .label = Upphafssíða
     .tooltiptext = { -brand-short-name } upphafssíða
+
 navbar-library =
     .label = Safn
     .tooltiptext = Skoða feril, vistuð bókamerki, og meira
+
 navbar-search =
     .title = Leita
+
 navbar-accessibility-indicator =
     .tooltiptext = Aukið aðgengi virkjað
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Vafraflipar
+
 tabs-toolbar-new-tab =
     .label = Nýr flipi
+
 tabs-toolbar-list-all-tabs =
     .label = Sýna alla flipa
     .tooltiptext = Sýna alla flipa

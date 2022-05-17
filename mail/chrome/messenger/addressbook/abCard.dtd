@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "p">
 <!ENTITY SecondEmail.label              "Auka tölvupóstfang:">
 <!ENTITY SecondEmail.accesskey          "a">
-<!ENTITY PreferMailFormat.label         "Kýs að taka á móti skilaboðum sem eru sniðin sem:">
-<!ENTITY PreferMailFormat.accesskey     "n">
 <!ENTITY PlainText.label                "Ósniðinn texti">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Óþekkt">

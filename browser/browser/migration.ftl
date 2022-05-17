@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Innflutningsleiðarvísir
+
 import-from =
     { PLATFORM() ->
         [windows] Flytja inn stillingar, bókamerki, ferla, lykilorð og önnur gögn frá:
        *[other] Flytja inn stillingar, bókamerki, ferla, lykilorð og önnur gögn frá:
     }
+
 import-from-bookmarks = Flytja inn bókamerki frá:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -52,36 +54,37 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Öruggur vafri
     .accesskey = 3
+
 no-migration-sources = Engin forrit fundust sem gætu innihaldið bókamerki, ferill eða lykilorð.
+
 import-source-page-title = Flytja inn stillingar og gögn
 import-items-page-title = Hlutir til að flytja inn
+
 import-items-description = Veldu hvaða hluti þú vilt flytja inn:
+
 import-permissions-page-title = Gefðu { -brand-short-name } heimildir
+
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS krefst þess að þú leyfir { -brand-short-name } að fá aðgang að bókamerkjum Safari. Smelltu á "Halda áfram" og veldu "Bookmarks.plist" skrána á skráaopnunarspjaldinu sem birtist.
+
 import-migrating-page-title = Flyt inn…
+
 import-migrating-description = Verið er að flytja inn eftirfarandi hluti…
+
 import-select-profile-page-title = Veldu notanda
+
 import-select-profile-description = Hægt er að flytja eftirfarandi notendur inn frá:
+
 import-done-page-title = Innflutningi lokið
+
 import-done-description = Eftirfarandi hluti tókst að flytja inn:
+
 import-close-source-browser = Gakktu úr skugga um að valinn vafri sé lokaður áður en haldið er áfram.
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Frá { $source }
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
-source-name-edge-beta = Microsoft Edge Beta
-source-name-safari = Safari
-source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
-source-name-chrome-beta = Google Chrome Beta
-source-name-chrome-dev = Google Chrome Dev
-source-name-chromium = Chromium
-source-name-firefox = Mozilla Firefox
-source-name-360se = 360 Öruggur vafri
+
 imported-safari-reading-list = Leslisti (Frá Safari)
 imported-edge-reading-list = Leslisti (Frá Edge)
 
@@ -103,6 +106,7 @@ browser-data-cookies-checkbox =
     .label = Vefkökur
 browser-data-cookies-label =
     .value = Vefkökur
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -115,10 +119,12 @@ browser-data-history-label =
             [firefox] Ferill vafra og bókamerki
            *[other] Ferill vafra
         }
+
 browser-data-formdata-checkbox =
     .label = Vistaðir innfyllingarferlar
 browser-data-formdata-label =
     .value = Vistaðir innfyllingarferlar
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -127,6 +133,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Vistaðar innskráningar og lykilorð
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -141,10 +148,12 @@ browser-data-bookmarks-label =
             [edge] Eftirlæti
            *[other] Bókamerki
         }
+
 browser-data-otherdata-checkbox =
     .label = Önnur gögn
 browser-data-otherdata-label =
     .label = Önnur gögn
+
 browser-data-session-checkbox =
     .label = Gluggar og flipar
 browser-data-session-label =

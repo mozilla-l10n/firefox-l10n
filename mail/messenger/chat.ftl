@@ -4,21 +4,29 @@
 
 chat-joining-chat-icon2 =
     .alt = Tengist spjalli
+
 chat-left-chat-icon2 =
     .alt = Yfirgaf spjall
+
 chat-participant-owner-role-icon2 =
     .alt = Eigandi
+
 chat-participant-administrator-role-icon2 =
     .alt = Stjórnandi
+
 chat-participant-moderator-role-icon2 =
     .alt = Umræðustjóri
+
 chat-participant-voiced-role-icon2 =
     .alt = Þátttakandi getur sent skilaboð
+
 chat-verify-identity =
     .label = Staðfesta auðkenni
     .accesskey = i
+
 chat-identity-verified =
     .label = Auðkenni þegar staðfest
+
 chat-buddy-identity-status = Traust dulritunar
 chat-buddy-identity-status-verified = Staðfest
 chat-buddy-identity-status-unverified = Óstaðfest

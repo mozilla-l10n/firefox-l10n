@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Skráningareiningar fyrir örugga vöfrun
 url-classifier-debug-modules = Núverandi skráningareiningar
 url-classifier-debug-sbjs-modules = JS skráning fyrir örugga vöfrun
 url-classifier-debug-file = Fyrirliggjandi atvikaskrá
+
 url-classifier-trigger-update = Hefja uppfærslu
 url-classifier-not-available = Ekki tiltækt
 url-classifier-disable-sbjs-log = Stöðva JS skráningu fyrir örugga vöfrun

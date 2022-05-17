@@ -17,36 +17,47 @@
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused due to a `debugger` statement in the code
 whypaused-debugger-statement = Paused on debugger statement
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a breakpoint
 whypaused-breakpoint = Paused on breakpoint
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Paused on exception
+
 # The text that is displayed to describe an added node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-added = Bætt við:
+
 # The text that is displayed to describe a removed node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-removed = Fjarlægt:
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Paused while stepping
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a dom event
 whypaused-pause-on-dom-events = Paused on event listener
+
 # The text that is displayed in an info block when evaluating a conditional
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Error with conditional breakpoint
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = Paused on promise rejection
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = Paused on assertion
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a debugger statement
 whypaused-debug-command = Paused on debugged function
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an event listener breakpoint set
 whypaused-other = Debugger paused

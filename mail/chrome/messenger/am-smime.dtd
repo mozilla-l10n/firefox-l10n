@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Kanna nánar">
 
 <!ENTITY e2eEnc.description "Án enda-í-enda dulritunar er innihald skilaboða auðveldlega berskjaldað fyrir tölvupóstþjónustuna þína og eftirlitsaðila.">
-<!ENTITY e2eeReqWarning.description "Ef þú vilt dulritun, þarftu að hafa opinberan dreifilykil eða skilríki hvers viðtakanda til að senda dulrituð skilaboð.">
 
-<!ENTITY e2eSigning.description "Stafræn undirritun gerir viðtakendum kleift að staðfesta að skilaboðin hafi verið send af þér og að efni þeirra hafi ekki verið breytt.">
 <!ENTITY e2eTechPref.description "Æskileg dulritunartækni:">
 
-<!ENTITY doNotEncrypt.label "Ekki krefjast dulritunar sjálfgefið">
-<!ENTITY doNotEncrypt.accesskey "N">
-<!ENTITY requireEncryptMessage.label "Krefjast dulritunar sjálfgefið">
-<!ENTITY requireEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert2.message "Persónulegt skilríki fyrir dulritun:">
 <!ENTITY digitalSign.certificate.button "Velja…">
 <!ENTITY digitalSign.certificate.accesskey "V">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Hreinsa">
 <!ENTITY encryption.certificate_clear.accesskey "r">
 <!ENTITY signingGroupTitle.label "Rafræn undirskrift">
-<!ENTITY signMessage2.label "Bæta sjálfgefið við stafrænu undirrituninni minni">
-<!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert2.message "Persónulegt skilríki fyrir stafræna undirritun:">
 
 <!ENTITY sendingDefaults.label "Sjálfgefnar stillingar fyrir sendingu skilaboða">
