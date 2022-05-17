@@ -4,9 +4,6 @@
 
 customize-mode-done =
     .label = Jeant
-customize-mode-lwthemes-menu-manage =
-    .label = Stiuree
-    .accesskey = S
 customize-mode-uidensity-menu-normal =
     .label = Cadjin
     .accesskey = C

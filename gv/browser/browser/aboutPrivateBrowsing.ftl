@@ -6,3 +6,5 @@ privatebrowsingpage-open-private-window-label = Foshil Uinnag Preevaadjagh
     .accesskey = P
 about-private-browsing-search-placeholder = Shir er linney
 
+## The following strings will be used for experiments in Fx99 and Fx100
+
