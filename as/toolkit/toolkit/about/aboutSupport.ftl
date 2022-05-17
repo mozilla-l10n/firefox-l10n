@@ -52,6 +52,7 @@ app-basics-memory-use = মেমৰিৰ ব্যৱহাৰ
 app-basics-profiles = প্ৰ'ফাইলবোৰ
 app-basics-multi-process-support = বহুপ্ৰক্ৰিয়া Windows
 app-basics-safe-mode = নিৰাপদ ম'ড
+
 modified-key-prefs-title = গুৰুত্বপূৰ্ণ পৰিৱৰ্তিত পছন্দসমূহ
 modified-prefs-name = নাম
 modified-prefs-value = মান

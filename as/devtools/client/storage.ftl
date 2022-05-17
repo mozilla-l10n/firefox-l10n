@@ -8,15 +8,19 @@
 # Placeholder for the searchbox that allows you to filter the table items
 storage-search-box =
     .placeholder = বস্তু ফিল্টাৰ কৰক
+
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = মানসমূহ ফিল্টাৰ কৰক
+
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = সকলো মচক
+
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = সকলো ছেশ্যন কুকি মচি পেলাওক
+
 # Context menu action to copy a storage item
 storage-context-menu-copy =
     .label = কপি কৰক
@@ -38,7 +42,10 @@ storage-tree-labels-indexed-db = Indexed DB
 
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = অধিবেশন
+
 # Heading displayed over the item value in the sidebar
 storage-data = তথ্য
+
 # Heading displayed over the item parsed value in the sidebar
 storage-parsed-value = বিশ্লেষণ কৰা মান
+

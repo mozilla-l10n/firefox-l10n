@@ -43,15 +43,6 @@ menu-quit =
 menu-quit-mac =
     .label = { -brand-shorter-name }-ৰ পৰা ওলাওক
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = { -brand-shorter-name }-ৰ পৰা ওলাওক
-
 menu-about =
     .label = { -brand-shorter-name }-ৰ বিষয়ে
     .accesskey = A
@@ -81,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = ফাইল খোলক…
     .accesskey = O
-menu-file-close =
-    .label = বন্ধ কৰক
-    .accesskey = C
 menu-file-close-window =
     .label = উইণ্ড' বন্ধ কৰক
     .accesskey = d
@@ -99,9 +87,6 @@ menu-file-share-url =
 menu-file-print-setup =
     .label = পৃষ্টা সংস্থাপন…
     .accesskey = u
-menu-file-print-preview =
-    .label = প্ৰিণ্ট পুৰ্বদৰ্শন
-    .accesskey = v
 menu-file-print =
     .label = প্ৰিণ্ট কৰক…
     .accesskey = P
@@ -314,9 +299,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = T
 menu-help-report-site-issue =
     .label = ছাইট সমস্যাৰ প্ৰতিবেদন দিয়ক…
-menu-help-feedback-page =
-    .label = সঁহাৰি জমা দিয়ক…
-    .accesskey = S
 menu-help-enter-troubleshoot-mode2 =
     .label = সমস্যা-সমাধান ম'ড
     .accesskey = M

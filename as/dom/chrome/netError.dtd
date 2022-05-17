@@ -85,9 +85,6 @@
 <!ENTITY corruptedContentErrorv2.title "ক্ষতিগ্ৰস্থ সমল ত্ৰুটি">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>আপুনি দৰ্শন কৰিব বিচৰা পৃষ্ঠা দেখাব পৰা নাযাব কাৰণ তথ্য পৰিৱহনত এটা ত্ৰুটি দেখা দিছিল।</p><ul><li>এই সমস্যাৰ বিষয়ে জনাবলে অনুগ্ৰহ কৰি ৱেবছাইটৰ গৰাকীসকলক যোগাযোগ কৰক।</li></ul>">
 
-<!ENTITY remoteXUL.title "দুৰৱৰ্তী XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>এই সমস্যাৰ বিষয়ে জনাবলে অনুগ্ৰহ কৰি ৱেবছাইটৰ গৰাকীসকলক যোগাযোগ কৰক।</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "আপোনাৰ সংযোগ নিৰাপদ নহয়">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
