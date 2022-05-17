@@ -79,9 +79,6 @@
 <!ENTITY corruptedContentErrorv2.title "சிதைந்த உள்ளடக்கப் பிழை">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>தரவுப் பரிமாற்றத்தில் பிழை கண்டறியப்பட்டதால், நீங்கள் காண முயற்சிக்கும் பக்கத்தைக் காண்பிக்க முடியாது.</p><ul><li>வலைத்தள உரிமையாளர்களைத் தொடர்புகொண்டு இந்த சிக்கல் குறித்து தெரிவிக்கவும்.</li></ul>">
 
-<!ENTITY remoteXUL.title "தொலைநிலை XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>வலைத்தள உரிமையாளர்களைத் தொடர்புகொண்டு இந்த சிக்கல் குறித்து தெரிவிக்கவும்.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "உங்கள் இணைப்பு பாதுகாப்பற்றது">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

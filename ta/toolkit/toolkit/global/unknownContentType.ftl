@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] அமைவுகள் { -brand-short-name }இன் விருப்பங்களில் மாற்றப்படலாம்.
            *[other] அமைவுகள் { -brand-short-name } இன் முன்னுரிமைகளில் மாற்றப்படலாம்.
         }
+
 unknowncontenttype-intro = நீங்கள் இதைத் தேர்வு செய்துள்ளீர்கள்:
 unknowncontenttype-which-is = கோப்பு வகை:
 unknowncontenttype-from = வலைத்தளம்:

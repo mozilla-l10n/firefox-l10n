@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = செயலில் உள்ளது
 about-networking-idle = செயலின்றி
 about-networking-host = வழங்கி
-about-networking-tcp = TCP
 about-networking-sent = அனுப்பப்பட்டது
 about-networking-received = பெறப்பட்டது
 about-networking-family = குடும்பம்

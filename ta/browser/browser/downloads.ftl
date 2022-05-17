@@ -13,12 +13,6 @@ downloads-panel =
 
 ##
 
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of 
-# in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-
 downloads-cmd-pause =
     .label = இடைநிறுத்து
     .accesskey = இ
@@ -29,36 +23,13 @@ downloads-cmd-cancel =
     .tooltiptext = ரத்து
 downloads-cmd-cancel-panel =
     .aria-label = ரத்து
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = கோப்பகத்திலிருந்து திற
-    .accesskey = F
   
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = கண்டுபிடிப்பானில் காண்பி
-    .accesskey = க
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] கண்டுபிடிப்பானில் காண்பி
-           *[other] கோப்பகத்திலிருந்து திற
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] கண்டுபிடிப்பானில் காண்பி
-           *[other] கோப்பகத்திலிருந்து திற
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] கண்டுபிடிப்பானில் காண்பி
-           *[other] கோப்பகத்திலிருந்து திற
-        }
+##
 
 downloads-cmd-show-downloads =
     .label = பதிவிறக்க கோப்புறையைக் காண்பி
@@ -154,6 +125,13 @@ downloads-history =
 downloads-details =
     .title = விவரங்களைப் பதிவிறக்கு
 
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
+
 downloads-clear-downloads-button =
     .label = பதிவிறக்கங்களை அழி
     .tooltiptext = முடிந்துவிட்ட, ரத்து செய்த மற்றும் தோல்வியடைந்த பதிவிறக்கங்களை அழிக்கும்
@@ -166,3 +144,4 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = இந்த அமர்விற்கான பதிவிறக்கங்கள் ஏதும் இல்லை.
+

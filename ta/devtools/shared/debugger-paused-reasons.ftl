@@ -17,21 +17,27 @@
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = விலக்கங்களில் இடைநிறுத்தப்பட்டது
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = நகரும்போது இடைநிறுத்தப்பட்டது
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a dom event
 whypaused-pause-on-dom-events = நிகழ்வு கேட்பானில் இடைநிறுத்தப்பட்டது
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = உறுதி நிராகரிப்பில் இடைநிறுத்தப்பட்டது
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = உறுதிப்படுத்தலில் இடைநிறுத்தப்பட்டது
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a debugger statement
 whypaused-debug-command = வழுநீக்கிய செயல்பாட்டில் இடைநிறுத்தப்பட்டது
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an event listener breakpoint set
 whypaused-other = வழுநீக்குதல் இடைநிறுத்தபட்டுள்ளது

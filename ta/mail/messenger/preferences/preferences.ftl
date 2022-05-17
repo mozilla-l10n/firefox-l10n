@@ -66,3 +66,5 @@ offline-legend = இணைப்பில்லை
 
 ## Preferences UI Search Results
 
+## Settings UI Search Results
+

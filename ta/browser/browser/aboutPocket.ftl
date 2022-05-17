@@ -35,3 +35,7 @@ pocket-panel-signup-signup-firefox = பயர்பாக்ஸ் கொண்
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

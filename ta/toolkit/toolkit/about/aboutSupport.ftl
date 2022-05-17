@@ -40,6 +40,7 @@ app-basics-profiles = விவரத்தொகுப்பு
 app-basics-multi-process-support = பன்செயல் சாளரங்கள்
 app-basics-key-mozilla = மொசில்லா புவியிடச்சேவைச் சாவி
 app-basics-safe-mode = பாதுகாப்பான முறைமை
+
 show-dir-label =
     { PLATFORM() ->
         [macos] தேடியில் காட்டு
