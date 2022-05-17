@@ -7,12 +7,6 @@
 <!ENTITY pref.content.title                     "Content">
 <!ENTITY pref.content.description               "These settings influence how web site and message content appears in &brandShortName;.">
 
-<!ENTITY siteIcons.label                        "Web site icons">
-<!ENTITY useSiteIcons.label                     "Show web site icons">
-<!ENTITY useSiteIcons.accesskey                 "S">
-<!ENTITY useFavIcons2.label                     "Try to use the server&apos;s favicon when the page doesn&apos;t define an icon">
-<!ENTITY useFavIcons2.accesskey                 "i">
-
 <!ENTITY scrolling.label                        "Scrolling">
 <!ENTITY useAutoScroll.label                    "Use autoscrolling">
 <!ENTITY useAutoScroll.accesskey                "t">
@@ -43,6 +37,4 @@
 
 <!ENTITY allowHWAccel.label                     "Use hardware acceleration when available">
 <!ENTITY allowHWAccel.accesskey                 "e">
-<!ENTITY blockAutoRefresh.label                 "Warn me when web sites try to redirect or reload the page">
-<!ENTITY blockAutoRefresh.accesskey             "W">
 

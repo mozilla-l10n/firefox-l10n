@@ -5,23 +5,21 @@
 
 ## App Menu
 
-appmenuitem-update-banner3 =
-    .label-update-downloading = Downloading { -brand-shorter-name } update
-    .label-update-available = Update available — download now
-    .label-update-manual = Update available — download now
-    .label-update-unsupported = Unable to update — system incompatible
-    .label-update-restart = Update available — restart now
-appmenuitem-protection-dashboard-title = Protections dashboard
 appmenuitem-banner-update-downloading =
     .label = Downloading { -brand-shorter-name } update
+
 appmenuitem-banner-update-available =
     .label = Update available — download now
+
 appmenuitem-banner-update-manual =
     .label = Update available — download now
+
 appmenuitem-banner-update-unsupported =
     .label = Unable to update — system incompatible
+
 appmenuitem-banner-update-restart =
     .label = Update available — restart now
+
 appmenuitem-new-tab =
     .label = New tab
 appmenuitem-new-window =
@@ -58,6 +56,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Close application menu
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -78,23 +77,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Sign in to sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Turn on sync…
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Show More Tabs
     .tooltiptext = Show more tabs from this device
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = No open tabs
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Turn on tab synchronising to view a list of tabs from your other devices.
+
 appmenu-remote-tabs-opensettings =
     .label = Settings
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Want to see your tabs from other devices here?
+
 appmenu-remote-tabs-connectdevice =
     .label = Connect Another Device
 appmenu-remote-tabs-welcome = View a list of tabs from your other devices.
 appmenu-remote-tabs-unverified = Your account needs to be verified.
+
 appmenuitem-fxa-toolbar-sync-now2 = Synchronise now
 appmenuitem-fxa-sign-in = Sign in to { -brand-product-name }
 appmenuitem-fxa-manage-account = Manage account
@@ -108,13 +114,14 @@ appmenu-fxa-sync-and-save-data2 = Sync and save data
 appmenu-fxa-signed-in-label = Sign In
 appmenu-fxa-setup-sync =
     .label = Turn On Synchronisation…
-appmenu-fxa-show-more-tabs = Show More Tabs
+
 appmenuitem-save-page =
     .label = Save page as…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = What’s New
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -128,48 +135,53 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiler
     .tooltiptext = Record a performance profile
+
 profiler-popup-button-recording =
     .label = Profiler
     .tooltiptext = The profiler is recording a profile
+
 profiler-popup-button-capturing =
     .label = Profiler
     .tooltiptext = The profiler is capturing a profile
+
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Reveal more information
+
 profiler-popup-description-title =
     .value = Record, analyse, share
+
 profiler-popup-description = Collaborate on performance issues by publishing profiles to share with your team.
-profiler-popup-learn-more = Learn more
+
 profiler-popup-learn-more-button =
     .label = Learn more
+
 profiler-popup-settings =
     .value = Settings
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings = Edit Settings…
-profiler-popup-disabled =
-    The profiler is currently disabled, most likely due to a Private Browsing window
-    being open.
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Edit Settings…
+
 profiler-popup-recording-screen = Recording…
-# The profiler presets list is generated elsewhere, but the custom preset is defined
-# here only.
-profiler-popup-presets-custom =
-    .label = Custom
+
 profiler-popup-start-recording-button =
     .label = Start Recording
+
 profiler-popup-discard-button =
     .label = Discard
+
 profiler-popup-capture-button =
     .label = Capture
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -187,18 +199,23 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Recommended preset for most web app debugging, with low overhead.
 profiler-popup-presets-web-developer-label =
     .label = Web Developer
+
 profiler-popup-presets-firefox-description = Recommended preset for profiling { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+
 profiler-popup-presets-graphics-description = Preset for investigating graphics bugs in { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Graphics
+
 profiler-popup-presets-media-description2 = Preset for investigating audio and video bugs in { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Media
+
 profiler-popup-presets-networking-description = Preset for investigating networking bugs in { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Networking
+
 profiler-popup-presets-custom-label =
     .label = Custom
 
@@ -233,9 +250,6 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = T
 appmenu-help-report-site-issue =
     .label = Report site issue…
-appmenu-help-feedback-page =
-    .label = Submit feedback…
-    .accesskey = S
 appmenu-help-share-ideas =
     .label = Share ideas and feedback…
     .accesskey = S
@@ -264,8 +278,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Customise toolbar…
-appmenu-taskmanager =
-    .label = Task Manager
+
 appmenu-developer-tools-subheader = Browser tools
 appmenu-developer-tools-extensions =
     .label = Extensions for developers
