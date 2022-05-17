@@ -8,14 +8,10 @@ toolbar-context-menu-menu-bar =
 
 ## Tools Menu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-menu-tools-preferences =
-    .label = Tùy chỉnh
-    .accesskey = P
 menu-tools-settings =
     .label = Cài đặt
     .accesskey = e
+
 menu-addons-and-themes =
     .label = Tiện ích mở rộng và chủ đề
     .accesskey = A
@@ -25,9 +21,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Chế độ xử lý sự cố…
     .accesskey = T
+
 menu-help-exit-troubleshoot-mode =
     .label = Tắt chế độ xử lý sự cố
     .accesskey = D
+
 menu-help-more-troubleshooting-info =
     .label = Thông tin xử lý sự cố khác
     .accesskey = M
@@ -58,15 +56,19 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Mật độ
     .accesskey = D
+
 mail-uidensity-compact =
     .label = Thu gọn
     .accesskey = C
+
 mail-uidensity-normal =
     .label = Bình thường
     .accesskey = N
+
 mail-uidensity-touch =
     .label = Chạm
     .accesskey = T
+
 menu-spaces-toolbar-button =
     .label = Thanh công cụ Spaces
     .accesskey = S

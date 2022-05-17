@@ -24,9 +24,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "Bộ lọc">
 <!ENTITY importFilters.accesskey  "F">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "Trình nhập dữ liệu vào &brandShortName;">
 <!ENTITY importShortDesc.label    "Nhập thư, sổ địa chỉ, cài đặt và bộ lọc từ chương trình khác">
 

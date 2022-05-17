@@ -34,7 +34,6 @@ about-telemetry-events-section = Sự kiện
 about-telemetry-simple-measurements-section = Các phép đo đơn giản
 about-telemetry-slow-sql-section = Lệnh SQL Chậm
 about-telemetry-addon-details-section = Chi tiết về các tiện ích
-about-telemetry-captured-stacks-section = Captured Stacks
 about-telemetry-late-writes-section = Ghi trễ
 about-telemetry-raw-payload-section = Raw Payload
 about-telemetry-raw = JSON thô
@@ -120,10 +119,6 @@ about-telemetry-addon-provider = Nhà cung cấp { $addonProvider }
 about-telemetry-keys-header = Thuộc tính
 about-telemetry-names-header = Tên
 about-telemetry-values-header = Giá trị
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (số lần chụp: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Ghi trễ #{ $lateWriteCount } lần

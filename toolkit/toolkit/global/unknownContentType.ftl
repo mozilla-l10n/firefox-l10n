@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = Mở bằng { -brand-short-name }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Thiết lập có thể được thay đổi trong tùy chọn của { -brand-short-name }.
            *[other] Thiết lập có thể được thay đổi trong Tùy chỉnh của { -brand-short-name }.
         }
+
 unknowncontenttype-intro = Bạn cần chọn để mở:
 unknowncontenttype-which-is = là:
 unknowncontenttype-from = từ:

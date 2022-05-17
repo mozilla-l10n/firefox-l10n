@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (không còn dùng n�
 compatibility-settings-button-label = Cài đặt
 compatibility-settings-button-title =
     .title = Cài đặt
-compatibility-feedback-button-label = Phản hồi
-compatibility-feedback-button-title =
-    .title = Phản hồi
 
 ## Messages used as headers in settings pane
 
@@ -41,9 +38,11 @@ compatibility-issue-occurrences =
     { $number ->
        *[other] { $number } lần xuất hiện
     }
+
 compatibility-no-issues-found = Không tìm thấy vấn đề tương thích.
 compatibility-close-settings-button =
     .title = Đóng cài đặt
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

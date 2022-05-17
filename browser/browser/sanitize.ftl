@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Dữ liệu
 
-item-site-preferences =
-    .label = Tùy chỉnh trang web
-    .accesskey = S
-
 item-site-settings =
     .label = Cài đặt trang
     .accesskey = S

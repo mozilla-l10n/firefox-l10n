@@ -21,9 +21,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Trang web…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Thẻ cá nhân (vCard)">
-<!ENTITY attachVCardCmd.accesskey "C">
 <!ENTITY remindLater.label "Nhắc tôi sau">
 <!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Đóng">
@@ -149,16 +146,6 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "Thông báo trạng thái gửi thư">
 <!ENTITY dsnMenu.accesskey "G">
-<!ENTITY deliveryFormatMenu.label "Định dạng phân phối">
-<!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "Tự động nhận diện">
-<!ENTITY autoFormatCmd.accesskey "T">
-<!ENTITY plainTextFormatCmd.label "Chỉ văn bản thuần túy">
-<!ENTITY plainTextFormatCmd.accesskey "V">
-<!ENTITY htmlFormatCmd.label "Văn bản Phong phú (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "P">
-<!ENTITY bothFormatCmd.label "Văn bản thuần túy và phong phú (HTML)">
-<!ENTITY bothFormatCmd.accesskey "H">
 <!ENTITY priorityMenu.label "Ưu tiên">
 <!ENTITY priorityMenu.accesskey "u">
 <!ENTITY priorityButton.title "Ưu tiên">
@@ -222,7 +209,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Các loại địa chỉ khác">
 <!ENTITY fromAddr2.label "Từ">
 <!ENTITY fromAddr.accesskey "i">
 <!ENTITY newsgroupsAddr2.label "Nhóm tin">

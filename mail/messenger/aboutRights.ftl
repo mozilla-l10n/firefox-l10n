@@ -17,7 +17,6 @@ rights-intro-point-5 = Một số tính năng { -brand-short-name } sử dụng 
 rights-intro-point-5-unbranded = Nếu sản phẩm này kết hợp các dịch vụ web, bất kì điều khoản dịch vụ thích hợp nào cho (các) dịch vụ cần phải được liên kết với <a data-l10n-name="mozilla-website-services-link">Các Dịch Vụ Đối Với Trang Web</a>.
 rights-intro-point-6 = Để có thể phát một số loại nội dung video, { -brand-short-name } cần tải xuống một số mô đun giải mã nội dung từ một bên thứ ba.
 rights-webservices-header = Dịch vụ Thông tin Dựa trên Web { -brand-full-name }
-rights-webservices = { -brand-full-name } dùng dịch vụ thông tin dựa trên web ("Dịch Vụ") để cung cấp một số tính năng mà bạn dùng trong phiên bản { -brand-short-name } theo điều khoản được mô tả bên dưới. Nếu bạn không muốn dùng một hoặc nhiều Dịch Vụ hoặc điều khoản bên dưới không chấp nhận được, bạn có thể vô hiệu hóa tính năng hoặc Dịch Vụ. Chỉ dẫn cho cách vô hiệu hóa một tính năng hay Dịch Vụ đặc thù có thể được tìm <a data-l10n-name="mozilla-disable-service-link">tại đây</a>. Các tính năng và dịch vụ khác có thể bị tắt trong phần tùy chỉnh ứng dụng.
 rights-webservices2 =
     { -brand-full-name } sử dụng các dịch vụ thông tin dựa trên web (“dịch vụ”) để
     cung cấp một số tính năng được cung cấp cho bạn sử dụng với phiên bản

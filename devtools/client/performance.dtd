@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Số lần hàm này nằm trên ngăn xếp khi trình lược tả lấy mẫu.">
 <!ENTITY performanceUI.table.function                 "Hàm">
 <!ENTITY performanceUI.table.function.tooltip         "Tên và vị trí nguồn của hàm được lấy mẫu.">
-<!ENTITY performanceUI.table.totalAlloc               "Tổng số phân bố mẫu">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Tổng số lượng mẫu tại vị trí này và các đối tượng được gọi.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

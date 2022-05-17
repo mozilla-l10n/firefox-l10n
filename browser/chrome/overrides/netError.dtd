@@ -104,8 +104,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Báo cáo những lỗi như thế này để giúp Mozilla nhận diện và chặn những trang độc hại">
 <!ENTITY errorReporting.learnMore "Tìm hiểu thêm…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Vui lòng liên hệ với chủ trang web để báo với họ vấn đề này.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Thông tin bổ sung: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -131,9 +129,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Dường như là cài đặt bảo mật mạng của bạn có thể gây ra điều này. Bạn có muốn khôi phục cài đặt mặc định?">
 <!ENTITY prefReset.label "Khôi phục cài đặt mặc định">
-
-<!ENTITY enableTls10.longDesc "Trang web này có thể không hỗ trợ giao thức TLS 1.2, đây là phiên bản tối thiểu được hỗ trợ bởi &brandShortName;. Kích hoạt TLS 1.0 và TLS 1.1 có thể cho phép kết nối này.">
-<!ENTITY enableTls10.note "TLS 1.0 và TLS 1.1 sẽ bị vô hiệu hóa vĩnh viễn trong phiên bản tương lai.">
-<!ENTITY enableTls10.label "Kích hoạt TLS 1.0 và 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Không thể hiển thị trang bạn đang cố xem vì lỗi trong giao thức mạng đã được phát hiện.</p><ul><li>Vui lòng liên hệ với chủ sở hữu trang web để thông báo cho họ về sự cố này.</li></ul>">
