@@ -93,9 +93,6 @@
 <!ENTITY corruptedContentErrorv2.title "Camshauchlet Content Mishanter">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>The page ye're tryin tae view cannae be shawn acause a mishanter in the data transmission wis detectit.</p><ul><li>Gonnae get in touch wi the wabsite owners fur tae lat them ken aboot this problem.</li></ul>">
 
-<!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Gonnae get in touch wi the wabsite owners fur tae let them ken aboot this problem.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Yer connection isnae siccar">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

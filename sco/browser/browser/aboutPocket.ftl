@@ -48,3 +48,8 @@ pocket-panel-home-paragraph = Ye can yaise { -pocket-brand-name } tae stravaig a
 pocket-panel-home-explore-popular-topics = Hae A Deek at Popular Topics
 pocket-panel-home-discover-more = Discover Mair
 pocket-panel-home-explore-more = Hae A Deek
+
+## Pocket panel header component
+
+## Pocket panel buttons
+

@@ -171,8 +171,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Lat Mozilla ken aboot siclike mishanters fur tae help it identify and block uncannie sites">
 <!ENTITY errorReporting.learnMore "Lairn mair…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Gonnae get in touch wi the wabsite owners fur tae let them ken aboot this problem.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Advanced info: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -198,9 +196,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "It luiks like yer netwark siccarness settins micht be causin this. Are ye wantin default settins tae be restored?">
 <!ENTITY prefReset.label "Restore default settins">
-
-<!ENTITY enableTls10.longDesc "This wabsite micht no support the TLS 1.2 protocol, which is the minimum version supportit by &brandShortName;. Enablin TLS 1.0 and TLS 1.1 micht alloo this connection tae succeed.">
-<!ENTITY enableTls10.note "TLS 1.0 and TLS 1.1 will be disabled fur aye in a future roll-oot.">
-<!ENTITY enableTls10.label "Enable TLS 1.0 and 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>The page ye're tryin tae view cannae be shawn acause an error in the netwark protocol wis detectit.</p><ul><li>Gonnae get in touch wi the wabsite owners fur tae lat them ken aboot this problem.</li></ul>">

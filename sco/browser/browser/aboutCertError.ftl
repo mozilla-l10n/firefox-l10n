@@ -115,7 +115,6 @@ unknownSocketType-title = Unexpectit response fae server
 nssFailure2-title = Siccar Connection Didnae Wirk
 csp-xfo-error-title = { -brand-short-name } Cannae Open This Page
 corruptedContentError-title = Camshauchlet Content Mishanter
-remoteXUL-title = Remote XUL
 sslv3Used-title = No Able tae Connect Siccar
 inadequateSecurityError-title = Yer connection isnae siccar
 blockedByPolicy-title = Blockit Page

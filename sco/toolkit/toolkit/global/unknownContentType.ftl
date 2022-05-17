@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = Open wi { -brand-short-name }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Settins can be chynged in { -brand-short-name }’s Options.
            *[other] Settins can be chynged in { -brand-short-name }’s Preferences.
         }
+
 unknowncontenttype-intro = Ye've decidit tae open:
 unknowncontenttype-which-is = which is:
 unknowncontenttype-from = fae:
