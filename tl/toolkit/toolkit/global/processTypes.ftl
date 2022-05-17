@@ -21,10 +21,6 @@ process-type-extension = Extension
 # process used to open file:// URLs
 process-type-file = Lokal na File
 
-# process used to isolate webpages that requested special
-# permission to allocate large amounts of memory
-process-type-weblargeallocation = Malaking Alokasyon
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Nakahiwalay na Web Content

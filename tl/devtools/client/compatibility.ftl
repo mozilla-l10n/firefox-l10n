@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (deprecated, eksperim
 compatibility-settings-button-label = Mga Setting
 compatibility-settings-button-title =
     .title = Mga Setting
-compatibility-feedback-button-label = Puna
-compatibility-feedback-button-title =
-    .title = Puna
 
 ## Messages used as headers in settings pane
 
@@ -46,3 +43,4 @@ compatibility-issue-occurrences =
 compatibility-no-issues-found = Walang natagpuang mga compatibility issue.
 compatibility-close-settings-button =
     .title = Isara ang mga setting
+

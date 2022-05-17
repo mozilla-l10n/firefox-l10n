@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Kung gaano kadalas ang function na ito ay nasa stack noong kumuha ng sample ang profiler.">
 <!ENTITY performanceUI.table.function                 "Function">
 <!ENTITY performanceUI.table.function.tooltip         "Ang pangalan at source location ng na-sample na function.">
-<!ENTITY performanceUI.table.totalAlloc               "Total Sampled Allocations">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Ang kabuuang bilang ng mga Object allocation na na-sample sa lokasyon na ito at sa mga callee.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

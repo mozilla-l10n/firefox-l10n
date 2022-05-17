@@ -115,8 +115,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Mag-ulat ng mga error na kagaya nito para matulungan ang Mozilla na matukoy at maharang ang mga delikadong site">
 <!ENTITY errorReporting.learnMore "Alamin…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Makipag-ugnayan sa mga may-ari ng website upang ipaalam sa kanila ang problemang ito.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Advanced na impormasyon: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -142,9 +140,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Mukhang ang iyong mga setting ng seguridad sa network ay maaaring magdulot nito. Nais mo bang maibalik ang mga default na setting?">
 <!ENTITY prefReset.label "Ibalik ang default settings">
-
-<!ENTITY enableTls10.longDesc "Maaaring hindi suportado ng website na ito ang TLS 1.2 protocol, ang pinakamababang bersyong sinusuportahan ng &brandShortName;. Ang pag-enable sa TLS 1.0 at TLS 1.1 ay maaaring makatulong para makakonekta nang maayos.">
-<!ENTITY enableTls10.note "Ang TLS 1.0 at TLS 1.1 ay permanenteng idi-disable sa hinaharap.">
-<!ENTITY enableTls10.label "I-enable ang TLS 1.0 at 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Ang page na sinusubukan mong tingnan ay hindi maipakita dahil nagkaroon ng problema sa network protocol.</p><ul><li>Mangyaring tawagan ang may-ari ng website at ipagbigay-alam ang problemang ito.</li></ul>">

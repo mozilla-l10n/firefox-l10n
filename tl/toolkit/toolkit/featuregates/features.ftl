@@ -14,27 +14,8 @@ experimental-features-web-gpu2 =
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-media-avif =
-    .label = Media: AVIF
-experimental-features-media-avif-description = Kapag naka-enable ang feature na ito, susuportahan ng { -brand-short-name } ang AV1 Image File (AVIF) format. Ito ay isang uri ng larawan na gumagamit sa kapasidad ng AV1 video compression algorithm para mabawasan ang laki ng larawan. Tingnan ang <a data-l10n-name="bugzilla">bug 1443863</a> para sa karagdagang detalye.
-
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-inputmode =
-    .label = Web API: inputmode
-# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
-experimental-features-web-api-inputmode-description = Ang aming implementasyon ng <a data-l10n-name="mdn-inputmode">inputmode</a> global attribute ay na-update na ayon sa <a data-l10n-name="whatwg">WHATWG specification</a>, ngunit kailangan pa rin naming gumawa ng ibang pagbabago, kagaya ng magawa itong pwedeng gamitin sa contenteditable content. Tingnan ang <a data-l10n-name="bugzilla">bug 1205133</a> para sa karagdagang detalye.
-
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
-
-experimental-features-devtools-color-scheme-simulation =
-    .label = Developer Tools: Color Scheme Simulation
-
-experimental-features-devtools-execution-context-selector =
-    .label = Developer Tools: Execution Context Selector
 
 experimental-features-devtools-compatibility-panel =
     .label = Developer Tools: Compatibility Panel
@@ -73,8 +54,4 @@ experimental-features-webrtc-global-mute-toggles =
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
 experimental-features-js-warp-description = I-enable ang Warp, isang proyekto para mapaganda ang JavaScript performance at paggamit sa memory.
-
-# Fission is the name of the feature and should not be translated.
-experimental-features-fission =
-    .label = Fission (Site Isolation)
 

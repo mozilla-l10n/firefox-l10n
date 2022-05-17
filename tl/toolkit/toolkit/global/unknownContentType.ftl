@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = Buksan gamit ang { -brand-short-name }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Mababago ang mga setting sa Mga Pagpipilian sa { -brand-short-name }.
            *[other] Mababago sa Preferences ang mga Settings ng { -brand-short-name }.
         }
+
 unknowncontenttype-intro = Pinili mong buksan ang:
 unknowncontenttype-which-is = na isang:
 unknowncontenttype-from = galing sa:

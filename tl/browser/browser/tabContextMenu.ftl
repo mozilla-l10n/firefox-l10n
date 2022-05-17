@@ -87,14 +87,6 @@ tab-context-reopen-closed-tabs =
            *[other] Muling Buksan ang mga Naisarang Tab
         }
     .accesskey = M
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Isara ang Tab
-            [one] Isara ang Tab
-           *[other] Isara ang mga Tab
-        }
-    .accesskey = C
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -111,6 +103,7 @@ tab-context-move-tabs =
            *[other] Ilipat ang mga Tab
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

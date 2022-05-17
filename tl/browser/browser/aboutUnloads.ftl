@@ -9,6 +9,7 @@
 about-unloads-column-host = Host
 about-unloads-column-processes = Process IDs
     .title = IDs of the processes hosting tab’s content
+
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =
     .title = { NUMBER($mem, maxFractionalUnits: 2) } MB

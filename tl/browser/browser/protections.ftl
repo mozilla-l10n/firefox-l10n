@@ -71,16 +71,8 @@ mobile-app-card-content = Gamitin ang mobile browser na may built-in na proteksy
 mobile-app-links = { -brand-product-name } Browser para sa <a data-l10n-name="android-mobile-inline-link">Android</a> at <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 
 lockwise-title = Huwag nang muling makalimot ng password
-lockwise-title-logged-in2 = Pag-manage ng Password
-lockwise-header-content = Ligtas na iniimbak ng { -lockwise-brand-name } ang mga password mo sa iyong browser.
 lockwise-header-content-logged-in = Ligtas na iimbak at i-sync ang mga password mo sa lahat ng mga device.
-protection-report-save-passwords-button = i-Save ang mga Password
-    .title = Mag-save ng mga Password sa { -lockwise-brand-short-name }
-protection-report-manage-passwords-button = I-manage ang mga Password
-    .title = I-manage ang mga Password sa { -lockwise-brand-short-name }
-lockwise-mobile-app-title = Dalhin kahit saan ang mga password mo
-lockwise-no-logins-card-content = Gamitin sa kahit anong device ang mga password na naka-save sa { -brand-short-name }.
-lockwise-app-links = { -lockwise-brand-name } para sa <a data-l10n-name="lockwise-android-inline-link">Android</a> at <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+
 
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.

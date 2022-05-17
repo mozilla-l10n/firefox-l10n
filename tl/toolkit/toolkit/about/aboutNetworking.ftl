@@ -19,7 +19,6 @@ about-networking-ssl = SSL
 about-networking-active = Aktibo
 about-networking-idle = Walang ginagawa
 about-networking-host = Host
-about-networking-tcp = TCP
 about-networking-sent = Naipadala
 about-networking-received = Natanggap
 about-networking-family = Pamilya

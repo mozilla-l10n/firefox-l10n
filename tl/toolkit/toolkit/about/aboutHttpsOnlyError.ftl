@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-httpsonly-title-alert = Alertong HTTPS-Only Mode
-about-httpsonly-title-connection-not-available = Hindi Magagamit ang Ligtas na Koneksyon
+
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = Pinagana mo ang HTTPS-Only Mode para sa pinahusay na seguridad, at hindi magagamit ang HTTPS version ng <em>{ $websiteUrl }</em>.
@@ -11,6 +11,7 @@ about-httpsonly-explanation-question = Ano kaya ang sanhi nito?
 about-httpsonly-explanation-nosupport = Malamang sa malamang, ang website ay sadyang hindi suportado ang HTTPS.
 about-httpsonly-explanation-risk = Posible ring may attacker na may kinalaman dito. Kapag napagdesisyunan mong bisitahin ang website, huwag ka dapat magpasok ng sensitibong impormasyon kagaya ng mga password, email, o detalye ng credit card.
 about-httpsonly-explanation-continue = Kung magpapatuloy ka, ang HTTPS-Only Mode ay pansamantalang papatayin para sa site na ito.
+
 about-httpsonly-button-continue-to-site = Magpatuloy sa HTTP Site
 about-httpsonly-button-go-back = Bumalik
 about-httpsonly-link-learn-more = Alamin…

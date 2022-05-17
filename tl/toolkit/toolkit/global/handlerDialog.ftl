@@ -21,6 +21,7 @@ permission-dialog-description = Payagan ang site na ito na buksan ang { $scheme 
 permission-dialog-btn-open-link =
     .label = Buksan ang Link
     .accessKey = B
+
 permission-dialog-btn-choose-app =
     .label = Pumili ng Application
     .accessKey = A
@@ -32,13 +33,16 @@ permission-dialog-btn-choose-app =
 chooser-window =
     .title = Pumili ng Application
     .style = min-width: 26em; min-height: 26em;
+
 chooser-dialog =
     .buttonlabelaccept = Buksan ang Link
     .buttonaccesskeyaccept = B
+
 choose-other-app-description = Mamili ng ibang Application
 choose-app-btn =
     .label = Mamili...
     .accessKey = M
 choose-other-app-window-title = Ibang Application…
+
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = Naka-disable sa mga Private Window

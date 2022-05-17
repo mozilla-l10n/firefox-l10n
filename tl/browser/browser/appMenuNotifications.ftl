@@ -37,6 +37,7 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Hindi sa Ngayon
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Hindi makapag-install ng bagon update  sa	{ -brand-shorter-name } dahil may isa pang kopya ng	{ -brand-shorter-name } na tumatakbo. Maaaring pakisara ito upang makapagpatuloy ang pag-update or piliting mag-update pa rin (ang isa pang kopya ay maaaring hindi gumana ng maayos hanggang ito ay i-restart).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Okay
     .buttonaccesskey = O
@@ -44,6 +45,7 @@ appmenu-addon-post-install-message3 = Pamahalaan ang iyong mga add-on at tema sa
 appmenu-addon-post-install-incognito-checkbox =
     .label = Payagan ang extension na ito upang tumakbo sa mga Pribadong Window
     .accesskey = A
+
 appmenu-new-tab-controlled-changes =
     .label = Nagbago ang iyong new tab.
     .buttonlabel = Panatilihin ang mga Pagbabago

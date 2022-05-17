@@ -4,6 +4,7 @@
 
 common-dialog-title-null = Sinasabi ng pahinang ito
 common-dialog-title-system = { -brand-short-name }
+
 common-dialog-username =
     .value = Username
 common-dialog-password =

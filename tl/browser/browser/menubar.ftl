@@ -38,16 +38,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Isara ang { -brand-shorter-name }
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Lumabas { -brand-shorter-name }
+
 menu-about =
     .label = Tungkol sa { -brand-shorter-name }
     .accesskey = A
@@ -77,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Magbukas ng File...
     .accesskey = O
-menu-file-close =
-    .label = Isara
-    .accesskey = C
 menu-file-close-window =
     .label = Isara ang Window
     .accesskey = d
@@ -95,9 +87,6 @@ menu-file-share-url =
 menu-file-print-setup =
     .label = Page Setup...
     .accesskey = u
-menu-file-print-preview =
-    .label = Print Preview
-    .accesskey = v
 menu-file-print =
     .label = Print
     .accesskey = P
@@ -310,9 +299,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = t
 menu-help-report-site-issue =
     .label = Mag-report ng Site Issue…
-menu-help-feedback-page =
-    .label = Magbigay ng Katugunan...
-    .accesskey = s
 menu-help-enter-troubleshoot-mode2 =
     .label = Troubleshoot Mode…
     .accesskey = M

@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Data
 
-item-site-preferences =
-    .label = Mga Kagustuhan sa Site
-    .accesskey = S
-
 item-offline-apps =
     .label = Offline Website Data
     .accesskey = O

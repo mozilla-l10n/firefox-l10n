@@ -67,6 +67,7 @@ app-basics-location-service-key-google = Google Location Service Key
 app-basics-safebrowsing-key-google = Google Safebrowsing Key
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = Safe Mode
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Ipakita sa Finder

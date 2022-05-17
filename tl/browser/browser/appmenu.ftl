@@ -5,23 +5,21 @@
 
 ## App Menu
 
-appmenuitem-update-banner3 =
-    .label-update-downloading = Nagda-download ng { -brand-shorter-name } update
-    .label-update-available = Mayroong update — i-download na
-    .label-update-manual = Mayroong update — i-download na
-    .label-update-unsupported = Hindi makapag-update — hindi tugma sa system
-    .label-update-restart = Mayroong update — mag-restart na
-appmenuitem-protection-dashboard-title = Protections Dashboard
 appmenuitem-banner-update-downloading =
     .label = Nagda-download ng { -brand-shorter-name } update
+
 appmenuitem-banner-update-available =
     .label = Mayroong update — i-download na
+
 appmenuitem-banner-update-manual =
     .label = Mayroong update — i-download na
+
 appmenuitem-banner-update-unsupported =
     .label = Hindi makapag-update — hindi tugma sa system
+
 appmenuitem-banner-update-restart =
     .label = Mayroong update — mag-restart na
+
 appmenuitem-new-tab =
     .label = Bagong Tab
 appmenuitem-new-window =
@@ -58,6 +56,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Isara ang Application Menu
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -78,23 +77,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Mag-sign in sa sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Buksan ang sync…
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Magpakita ng Marami Pang Tab
     .tooltiptext = Magpakita ng higit pang mga tab mula sa device na ito
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Walang bukas na tabs
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Buksan ang pag-sync ng tab upang makita ang listahan ng mga tab mula sa iba mo pang mga device.
+
 appmenu-remote-tabs-opensettings =
     .label = Mga Setting
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Gusto mong makita ang iyong mga tab mula sa iba pang mga device dito?
+
 appmenu-remote-tabs-connectdevice =
     .label = Magkonekta ng Isa Pang Device
 appmenu-remote-tabs-welcome = Tingnan ang listahan ng mga tab mula sa iba mong mga device.
 appmenu-remote-tabs-unverified = Ang iyong account ay kailangang ma-verify.
+
 appmenuitem-fxa-toolbar-sync-now2 = I-sync ngayon
 appmenuitem-fxa-sign-in = Mag-sign in sa { -brand-product-name }
 appmenuitem-fxa-manage-account = Pamahalaan ang account
@@ -108,13 +114,14 @@ appmenu-fxa-sync-and-save-data2 = I-sync at i-save ang data
 appmenu-fxa-signed-in-label = Mag sign-in
 appmenu-fxa-setup-sync =
     .label = Buksan ang Pag-sync…
-appmenu-fxa-show-more-tabs = Magpakita ng Marami Pang Tab
+
 appmenuitem-save-page =
     .label = i-Save ang Pahina Bilang…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Ano ang Bago
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -128,48 +135,53 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiler
     .tooltiptext = Mag-record ng performance profile
+
 profiler-popup-button-recording =
     .label = Profiler
     .tooltiptext = The profiler is recording a profile
+
 profiler-popup-button-capturing =
     .label = Profiler
     .tooltiptext = The profiler is capturing a profile
+
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Magbunyag ng karagdagang impormasyon
+
 profiler-popup-description-title =
     .value = Itala, pag-aralan, ibahagi
+
 profiler-popup-description = Makipagtulungan sa mga isyu sa performance sa pamamagitan ng pag-publish ng mga profile upang ibahagi sa iyong team.
-profiler-popup-learn-more = Alamin
+
 profiler-popup-learn-more-button =
     .label = Alamin
+
 profiler-popup-settings =
     .value = Mga Setting
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings = Baguhin ang Settings…
-profiler-popup-disabled =
-    Ang profiler ay kasalukuyang nakapatay, malamang dahil nakabukas ang
-    isang Private Browsing window.
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Baguhin ang Settings…
+
 profiler-popup-recording-screen = Nagrerecord…
-# The profiler presets list is generated elsewhere, but the custom preset is defined
-# here only.
-profiler-popup-presets-custom =
-    .label = Custom
+
 profiler-popup-start-recording-button =
     .label = Magrecord na
+
 profiler-popup-discard-button =
     .label = Itapon
+
 profiler-popup-capture-button =
     .label = Kuhanan
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -218,9 +230,6 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = t
 appmenu-help-report-site-issue =
     .label = Mag-report ng Site Issue…
-appmenu-help-feedback-page =
-    .label = Magbigay ng Katugunan...
-    .accesskey = s
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -246,8 +255,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = i-Customize ang Toolbar…
-appmenu-taskmanager =
-    .label = Task Manager
+
 appmenu-developer-tools-subheader = Mga kagamitan ng browser
 appmenu-developer-tools-extensions =
     .label = Mga extension para sa mga developer

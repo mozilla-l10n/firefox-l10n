@@ -13,12 +13,6 @@ downloads-panel =
 
 ##
 
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-
 downloads-cmd-pause =
     .label = Pause
     .accesskey = P
@@ -30,15 +24,10 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Kanselahin
 
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = Buksan ang Folder na Kinalalagyan
-    .accesskey = F
-
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = Ipakita Sa Finder
-    .accesskey = F
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
 downloads-cmd-use-system-default =
     .label = Buksan sa System Viewer
@@ -48,25 +37,7 @@ downloads-cmd-always-use-system-default =
     .label = Palaging Buksan sa System Viewer
     .accesskey = w
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] Ipakita Sa Finder
-           *[other] Buksan ang Folder na Kinalalagyan
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] Ipakita Sa Finder
-           *[other] Buksan ang Folder na Kinalalagyan
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] Ipakita Sa Finder
-           *[other] Buksan ang Folder na Kinalalagyan
-        }
+##
 
 downloads-cmd-show-downloads =
     .label = Ipakita ang Folder ng Mga Download
@@ -162,6 +133,13 @@ downloads-history =
 downloads-details =
     .title = Detalye ng mga Download
 
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
+
 downloads-clear-downloads-button =
     .label = Burahin ang mga Download
     .tooltiptext = Hawiin ang mga nacompleto, nakansela at nabigong mga download
@@ -174,3 +152,4 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Walang mga donwload para sa session na ito.
+
