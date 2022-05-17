@@ -8,8 +8,6 @@
 
 ## New changes screen
 
-upgrade-dialog-new-subtitle = Qayerda boʻlishingizdan qatʼiy nazar tezroq kirishingiz uchun tuzilgan
-
 ## Pin Firefox screen
 ##
 ## These title, subtitle and button strings differ between platforms as they

@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Veb sahifa…">
 <!ENTITY attachPageCmd.accesskey "V">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Shaxsiy karta (vCard)">
-<!ENTITY attachVCardCmd.accesskey "S">
 <!ENTITY remindLater.label "Kechroq eslatilsin">
 <!ENTITY remindLater.accesskey "K">
 <!ENTITY closeCmd.label "Yopish">
@@ -129,16 +126,6 @@
 <!ENTITY returnReceiptMenu.accesskey "q">
 <!ENTITY dsnMenu.label "Yetib borish bildirishnomasi">
 <!ENTITY dsnMenu.accesskey "b">
-<!ENTITY deliveryFormatMenu.label "Yetib borish formati">
-<!ENTITY deliveryFormatMenu.accesskey "f">
-<!ENTITY autoFormatCmd.label "Auto-aniqlash">
-<!ENTITY autoFormatCmd.accesskey "A">
-<!ENTITY plainTextFormatCmd.label "Faqat oddiy matn">
-<!ENTITY plainTextFormatCmd.accesskey "o">
-<!ENTITY htmlFormatCmd.label "Murakkab matn (HTML) faqat">
-<!ENTITY htmlFormatCmd.accesskey "M">
-<!ENTITY bothFormatCmd.label "Oddiy va murakkab (HTML) matn">
-<!ENTITY bothFormatCmd.accesskey "O">
 <!ENTITY priorityMenu.label "Muhimlik darajasi">
 <!ENTITY priorityMenu.accesskey "M">
 <!ENTITY priorityButton.title "Muhimlik darajasi">

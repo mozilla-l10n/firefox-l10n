@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Tavsiya qilingan funksiya
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Bu menga nega chiqyapti
+
 cfr-doorhanger-extension-cancel-button = Hozir emas
     .accesskey = e
+
 cfr-doorhanger-extension-ok-button = Hozir qoʻshish
     .accesskey = q
+
 cfr-doorhanger-extension-manage-settings-button = Tavsiya sozlamalarini boshqarish
     .accesskey = T
+
 cfr-doorhanger-extension-never-show-recommendation = Bu tavsiya menga koʻrsatilmasin
     .accesskey = k
+
 cfr-doorhanger-extension-learn-more-link = Batafsil
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } boʻyicha
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Tavsiya
 cfr-doorhanger-extension-notification2 = Tavsiya
     .tooltiptext = Kengaytma taklifi
     .a11y-announcement = Kengaytma taklifi mavjud
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Tavsiya
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Batafsil
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Yangi funksiya:
+
 cfr-whatsnew-button =
     .label = Yangi xususiyatlar
     .tooltiptext = Yangi xususiyatlar
+
 cfr-whatsnew-release-notes-link-text = Reliz qaydlarini oʻqish
 
 ## Enhanced Tracking Protection Milestones
@@ -117,4 +127,6 @@ spotlight-public-wifi-vpn-link = Hozir emas
     .accesskey = H
 
 ## Total Cookie Protection Rollout
+
+## Emotive Continuous Onboarding
 

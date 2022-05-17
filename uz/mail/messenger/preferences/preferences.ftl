@@ -227,14 +227,6 @@ quoted-text-color =
     .label = Rangi:
     .accesskey = R
 
-type-column-label =
-    .label = Tarkib turi
-    .accesskey = t
-
-action-column-label =
-    .label = Amal
-    .accesskey = A
-
 save-to-label =
     .label = Fayllarni saqlash
     .accesskey = s
@@ -368,12 +360,6 @@ restore-html-label =
 default-format-label =
     .label = Asosiy matn o‘rniga Paragraf formatidan foydalaning
     .accesskey = P
-
-format-description = Matn formati xususiyatlarini moslash
-
-send-options-label =
-    .label = Jo‘natish moslamalari…
-    .accesskey = J
 
 autocomplete-description = Xabarlar manzilga yo‘naltirilayotganda, kiritilganlar mosligini tekshirish:
 
@@ -598,4 +584,6 @@ chat-browse-sound-button =
     .accesskey = r
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

@@ -80,9 +80,6 @@
 <!ENTITY corruptedContentErrorv2.title "Buzilgan tarkib xatosi">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Siz koʻrmoqchi boʻlgan sahifani koʻrsatib boʻlmaydi, chunki ma`lumotlarni uzatishda xato aniqlandi.</p><ul><li>Muammo haqida xabar berish uchun veb sayt egasi bilan bogʻlaning.</li></ul>">
 
-<!ENTITY remoteXUL.title "Masofadagi XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Ushbu muammo haqida xabar berish uchun veb sayt egasi bilan bogʻlaning.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Ulanish xavfsiz emas">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

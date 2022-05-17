@@ -17,8 +17,6 @@
 <!ENTITY addIMAccountButton.accesskey "C">
 <!ENTITY addFeedAccountButton.label "Tasma hisobini qo‘shish…">
 <!ENTITY addFeedAccountButton.accesskey "T">
-<!ENTITY addOtherAccountButton.label "Boshqa hisobni qo‘shish…">
-<!ENTITY addOtherAccountButton.accesskey "B">
 <!ENTITY setDefaultButton.label "Asosiy sifatida o‘rnatish">
 <!ENTITY setDefaultButton.accesskey "A">
 <!ENTITY removeButton.label "Hisobni olib tashlash">
@@ -35,6 +33,4 @@
      this window for en-US. -->
 
 <!-- AccountManager.xhtml -->
-<!-- AccountManager.xhtml -->
-<!ENTITY accountManager.size "width: 105ch; height: 55em;">
 

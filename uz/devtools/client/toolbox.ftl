@@ -15,11 +15,14 @@ toolbox-meatball-menu-dock-bottom-label = Pastga joylash
 toolbox-meatball-menu-dock-left-label = Chapga joylash
 toolbox-meatball-menu-dock-right-label = O‘ngga joylash
 toolbox-meatball-menu-dock-separate-window-label = Alohida oyna
+
 toolbox-meatball-menu-splitconsole-label = Ajratish konsolini ko‘rsatish
 toolbox-meatball-menu-hideconsole-label = Ajratish konsolini yashirish
+
 toolbox-meatball-menu-settings-label = Sozlamalar
 toolbox-meatball-menu-documentation-label = Qo‘llanma
 toolbox-meatball-menu-community-label = Jamoa…
+
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.

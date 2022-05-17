@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] Sozlamalarni { -brand-short-name }'ning moslamalaridan o‘zgartirsa bo‘ladi.
            *[other] Sozlamalarni { -brand-short-name }'ning parametrlaridan o‘zgartirish mumkin.
         }
+
 unknowncontenttype-intro = Ochish uchun tanladingiz:
 unknowncontenttype-which-is = -
 unknowncontenttype-from = Manba:

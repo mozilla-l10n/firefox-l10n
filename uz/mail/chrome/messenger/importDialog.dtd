@@ -32,9 +32,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "Filterlar">
 <!ENTITY importFilters.accesskey  "F">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "&brandShortName; import ustasi">
 <!ENTITY importShortDesc.label    "Boshqa dasturlardan xat, manzil kitoblari, sozlamalar va filterlarni import qilish">
 

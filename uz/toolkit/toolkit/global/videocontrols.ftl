@@ -18,9 +18,11 @@ videocontrols-casting-button-label =
     .aria-label = Ekranga uzatish
 videocontrols-closed-caption-off =
     .offlabel = O‘chiq
+
 videocontrols-error-aborted = Video yuklash toʻxtatdi
 videocontrols-error-network = Video ijro etish tarmoq xatosi tufayli bekor qilingan
 videocontrols-error-decode = Videoni koʻrsatib boʻlmaydi, chunki fayl buzilgan.
 videocontrols-error-src-not-supported = Video format yoki MIME turi mos kelmaydi.
 videocontrols-error-no-source = Mos video format va MIME turi topilmadi.
 videocontrols-error-generic = Videoni koʻrsatish noma`lum sabablarga koʻra bekor qilindi.
+

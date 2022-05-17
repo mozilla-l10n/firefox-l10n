@@ -6,3 +6,4 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
+

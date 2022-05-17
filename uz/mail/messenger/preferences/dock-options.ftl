@@ -23,4 +23,3 @@ count-new-messages-radio =
     .label = Yangi xabarlar miqdori
     .accesskey = m
 
-notification-settings-info = Belgini tizim parametrlaridagi bildirishnomalar yon oynasidan o‘chirib qo‘yishingiz mumkin.

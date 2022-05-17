@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Qidiruv
     .aria-label = Qidiruv
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } orqali qidiring yoki manzilni kiriting
@@ -29,23 +30,20 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Qidiring yoki manzilni kiriting
     .title = Qidiring yoki manzilni kiriting
     .aria-label = Qidiring yoki manzilni kiriting
-newtab-search-box-search-the-web-input =
-    .placeholder = Internetdan izlash
-    .title = Internetdan izlash
-    .aria-label = Internetdan izlash
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Qidiruv tizimini qoʻshish
-newtab-topsites-add-topsites-header = Yangi ommabop sayt
 newtab-topsites-edit-topsites-header = Ommabop saytni tahrirlash
 newtab-topsites-title-label = Nomi
 newtab-topsites-title-input =
     .placeholder = Nomini kiriting
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL manzilini kiriting
 newtab-topsites-url-validation = URL manzilini bexato kiriting
+
 newtab-topsites-image-url-label = Rasmning URL manzili
 newtab-topsites-use-image-link = Boshqa rasmdan foydalaning…
 newtab-topsites-image-validation = Rasm yuklanmadi. Boshqa URL manzildan foydalaning.
@@ -73,10 +71,12 @@ newtab-confirm-delete-history-p2 = Bu amalni ortga qaytarib boʻlmaydi.
 newtab-menu-section-tooltip =
     .title = Menyuni ochish
     .aria-label = Menyuni ochish
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Olib tashlash
     .aria-label = Olib tashlash
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -144,14 +144,17 @@ newtab-label-removed-bookmark = Xatchoʻp olib tashlandi
 newtab-label-recommended = Trendda
 newtab-label-saved = { -pocket-brand-name } xizmatiga saqlandi
 newtab-label-download = Yuklab olindi
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Reklama huquqi asosida
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Homiydan ({ $sponsor })
+
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -182,7 +185,6 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = Ommabop saytlar
-newtab-section-header-highlights = Saralangan saytlar
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } tomonidan tavsiya qilingan
@@ -190,6 +192,7 @@ newtab-section-header-pocket = { $provider } tomonidan tavsiya qilingan
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Saytlarni koʻrishni boshlashingiz bilan biz sizga ajoyib maqola, video va oxirgi kirilgan yoki xatchoʻplarga qoʻshilgan sahifalarni koʻrsatamiz.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".

@@ -68,7 +68,6 @@ redirectLoop-title = Sahifa to‘g‘ri yo‘naltirilmagan
 unknownSocketType-title = Serverdan kutilmagan javob
 nssFailure2-title = Xavfsiz ulanib bo‘lmadi
 corruptedContentError-title = Buzilgan kontent xatosi
-remoteXUL-title = Masofadagi XUL
 sslv3Used-title = Xavfsiz ulanish amalga oshmadi
 inadequateSecurityError-title = Ulanish xavfsiz emas
 blockedByPolicy-title = Bloklangan sahifa

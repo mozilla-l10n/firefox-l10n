@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 lockwise-header-content-logged-in = Parollaringizni ishonchli saqlang va barcha qurilmalaringizga sinxronlang.
+
+
 monitor-link = U qanday ishlaydi
 monitor-sign-up-link = Maʼlumotlar sizish uchun yoziling
     .title = Maʼlumotlar sizish xabarlari uchun { -monitor-brand-name }da roʻyxatdan oʻting

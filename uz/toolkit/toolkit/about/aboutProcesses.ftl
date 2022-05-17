@@ -28,6 +28,7 @@ about-processes-socket-process = Tarmoq ({ $pid })
 about-processes-remote-sandbox-broker-process = Masofadagi sinov brokeri ({ $pid })
 about-processes-fork-server-process = Fork server ({ $pid })
 about-processes-preallocated-process = Oldindan belgilangan ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -41,7 +42,6 @@ about-processes-unknown-process = Boshqa: { $type } ({ $pid })
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-web-large-allocation-process = { $origin } ({ $pid }, katta)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, tashqi manbalardan izolyatsiyalangan)
 about-processes-web-isolated-process-private = { $origin } — Maxfiy ({ $pid })
 

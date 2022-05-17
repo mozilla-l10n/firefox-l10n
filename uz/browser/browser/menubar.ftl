@@ -34,16 +34,11 @@ menu-quit =
             [windows] h
            *[other] C
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name }dan chiqish
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = { -brand-shorter-name }dan chiqish
+
 menu-about =
     .label = { -brand-shorter-name } haqida
     .accesskey = h
@@ -73,9 +68,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Faylni ochish…
     .accesskey = o
-menu-file-close =
-    .label = Yopish
-    .accesskey = Y
 menu-file-close-window =
     .label = Oynani yopish
     .accesskey = y
@@ -88,9 +80,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Sahifani moslash…
     .accesskey = l
-menu-file-print-preview =
-    .label = Chop qilishni ko‘rish
-    .accesskey = n
 menu-file-print =
     .label = Chop qilish…
     .accesskey = p
@@ -295,9 +284,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = t
 menu-help-report-site-issue =
     .label = Saytdagi muammo haqida xabar berish
-menu-help-feedback-page =
-    .label = Mulohaza bildirish
-    .accesskey = b
 menu-help-enter-troubleshoot-mode2 =
     .label = Nosozliklarni tuzatish rejimi
     .accesskey = N

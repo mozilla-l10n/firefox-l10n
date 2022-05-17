@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "y">
 <!ENTITY newVirtualFolderCmd.label "Saqlangan qidiruv…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newOtherAccountsCmd.label "Boshqa hisoblar…">
-<!ENTITY newOtherAccountsCmd.accesskey "B">
 <!ENTITY newCreateEmailAccountCmd.label "Yangi e-pochta hisobi olish…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "o">
 <!ENTITY newExistingEmailAccountCmd.label "Mavjud e-pochta hisobi…">
@@ -40,8 +38,6 @@
 <!ENTITY openMessageFileCmd.accesskey "o">
 <!ENTITY saveAsMenu.label "Boshqacha saqlash">
 <!ENTITY saveAsMenu.accesskey "s">
-<!ENTITY saveAsFileCmd.label "Fayl">
-<!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Namuna">
 <!ENTITY saveAsTemplateCmd.accesskey "N">

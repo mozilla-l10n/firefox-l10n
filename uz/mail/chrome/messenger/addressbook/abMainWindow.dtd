@@ -107,6 +107,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Yangi ro‘yxat">
 <!ENTITY newlistButton.accesskey                        "r">
+
 <!ENTITY showAsDefault.label                            "Asosiy ishga tushish jildi">
 <!ENTITY showAsDefault.accesskey                        "i">
 <!ENTITY editPropertiesButton.label                     "Tahrirlash">

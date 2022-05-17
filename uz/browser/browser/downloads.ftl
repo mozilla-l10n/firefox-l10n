@@ -13,12 +13,6 @@ downloads-panel =
 
 ##
 
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of 
-# in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-
 downloads-cmd-pause =
     .label = Pauza
     .accesskey = P
@@ -29,36 +23,13 @@ downloads-cmd-cancel =
     .tooltiptext = Bekor qilish
 downloads-cmd-cancel-panel =
     .aria-label = Bekor qilish
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = Saqlangan jildni ochish
-    .accesskey = j
   
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = Izlagichda koʻrsatish
-    .accesskey = I
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] Izlagichda koʻrsatish
-           *[other] Saqlangan jildni ochish
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] Izlagichda koʻrsatish
-           *[other] Saqlangan jildni ochish
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] Izlagichda koʻrsatish
-           *[other] Saqlangan jildni ochish
-        }
+##
 
 downloads-cmd-show-downloads =
     .label = Yuklanmalar jildini ochish
@@ -154,6 +125,13 @@ downloads-history =
 downloads-details =
     .title = Yuklanma haqida maʼlumot
 
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
+
 downloads-clear-downloads-button =
     .label = Yuklanmalarni tozalash
     .tooltiptext = Tozalash tugadi, yuklab olishlar bekor qilindi va muvaffaqiyatsiz yakunlandi
@@ -166,3 +144,4 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Ushbu seans uchun yuklanmalar yoʻq.
+

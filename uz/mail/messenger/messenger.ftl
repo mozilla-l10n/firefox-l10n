@@ -32,6 +32,8 @@ appmenu-help-more-troubleshooting-info =
 ## Message header pane
 
 
+## Message header cutomize panel
+
 ## Action Button Context Menu
 
 
@@ -51,4 +53,8 @@ repair-text-encoding-button =
 
 
 ## Spaces toolbar
+
+## Spaces toolbar pinned tab menupopup
+
+## Spaces toolbar customize panel
 

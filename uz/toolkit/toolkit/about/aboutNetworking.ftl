@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = Faol
 about-networking-idle = Foydalanilmayapti
 about-networking-host = Host
-about-networking-tcp = TCP
 about-networking-sent = TCP
 about-networking-received = Olingan
 about-networking-family = Oilasi

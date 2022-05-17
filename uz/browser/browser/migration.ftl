@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Ustani import qilish
+
 import-from =
     { PLATFORM() ->
         [windows] Moslamalar, xatchoʻplar, tarix, parollar va boshqa ma`lumotlarni ushbu brauzerdan import qilish:
        *[other] Parametrlar, xatchoʻplar, tarix, parollar va boshqa ma`lumotlarni ushbu brauzerdan import qilish:
     }
+
 import-from-bookmarks = Xatchoʻplarni ushbu brauzerdan import qilish:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -43,30 +45,32 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
+
 no-migration-sources = Xatchoʻplar, tarix yoki parollar ma`lumotlari bor birorda dastur topilmadi.
+
 import-source-page-title = Moslamalar va ma`lumotlarni import qilish
 import-items-page-title = Import qilinadiganlar
+
 import-items-description = Import qilinadiganlarni tanlash:
+
 import-migrating-page-title = Import qilinmoqda...
+
 import-migrating-description = Quyidagilar hozirda import qilinadi...
+
 import-select-profile-page-title = Profilni tanlash
+
 import-select-profile-description = Quyidagi profillar ushbu dasturdan import qilish uchun mavjud:
+
 import-done-page-title = Butunlay import qilish
+
 import-done-description = Quyidagilar muvaffaqiyatli import qilindi:
+
 import-close-source-browser = Davom etishdan oldin tanlangan brauzer yopilganligiga ishonch hosil qiling.
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = { $source }dan
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
-source-name-safari = Safari
-source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
-source-name-chromium = Chromium
-source-name-firefox = Mozilla Firefox
-source-name-360se = 360 Secure Browser
+
 imported-safari-reading-list = Roʻyxat ("Safari"dan) oʻqilmoqda
 imported-edge-reading-list = O‘qish ro‘yxati (Edge brauzeridan)
 
@@ -96,6 +100,7 @@ browser-data-history-label =
             [firefox] Brauzer tarixi va xatchoʻplar
            *[other] Brauzer tarixi
         }
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -104,6 +109,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Saqlangan login va parollar
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -118,6 +124,7 @@ browser-data-bookmarks-label =
             [edge] Saralanganlar
            *[other] Xatchoʻplar
         }
+
 browser-data-session-checkbox =
     .label = Oynalar va varaqlar
 browser-data-session-label =

@@ -76,10 +76,6 @@ item-form-search-history =
 
 data-section-label = Ma’lumot
 
-item-site-preferences =
-    .label = Saytni moslash
-    .accesskey = S
-
 item-offline-apps =
     .label = Oflayn vebsahifa ma’lumotlari
     .accesskey = O

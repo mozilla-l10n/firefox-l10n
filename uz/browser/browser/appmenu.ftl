@@ -5,22 +5,21 @@
 
 ## App Menu
 
-appmenuitem-update-banner3 =
-    .label-update-downloading = { -brand-shorter-name } uchun yangilanish yuklab olinmoqda
-    .label-update-available = Yangilanish mavjud — yuklab oling
-    .label-update-manual = Yangilanish mavjud — yuklab oling
-    .label-update-unsupported = Yangilanmadi — tizim mos kelmaydi
-    .label-update-restart = Yangilanish mavjud — qayta ishga tushiring
 appmenuitem-banner-update-downloading =
     .label = { -brand-shorter-name } uchun yangilanish yuklab olinmoqda
+
 appmenuitem-banner-update-available =
     .label = Yangilanish mavjud — yuklab oling
+
 appmenuitem-banner-update-manual =
     .label = Yangilanish mavjud — yuklab oling
+
 appmenuitem-banner-update-unsupported =
     .label = Yangilanmadi — tizim mos kelmadi
+
 appmenuitem-banner-update-restart =
     .label = Yangilanishlar mavjud — qayta ishga tushiring
+
 appmenuitem-new-tab =
     .label = Yangi varaq
 appmenuitem-new-window =
@@ -51,6 +50,7 @@ appmenuitem-exit2 =
             [linux] Chiqish
            *[other] Chiqish
         }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -71,23 +71,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Sinxronlash uchun kiring…
 appmenu-remote-tabs-turn-on-sync =
     .label = Sinxronizatsiyani yoqish
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Barcha varaqlarni koʻrsatish
     .tooltiptext = Bu qurilmadagi barcha varaqlarni koʻrsatish
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ochiq varaqlar yoʻq
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Varaqlar roʻyxatini boshqa qurilmada koʻrish uchun sinxronizatsiyani yoqing.
+
 appmenu-remote-tabs-opensettings =
     .label = Sozlamalar
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Bu yerdagi varaqlarni boshqa qurilmalarda koʻrishni xohlaysizmi?
+
 appmenu-remote-tabs-connectdevice =
     .label = Boshqa qurilmaga ulanish
 appmenu-remote-tabs-welcome = Boshqa qurilmalaridagi varaqlar roʻyxatini koʻring.
 appmenu-remote-tabs-unverified = Hisobingiz tasdiqlanishi kerak.
+
 appmenuitem-fxa-toolbar-sync-now2 = Hozir sinxronlash
 appmenuitem-fxa-sign-in = { -brand-product-name } hisobiga kirish
 appmenuitem-fxa-manage-account = Hisobni boshqarish
@@ -101,7 +108,7 @@ appmenu-fxa-sync-and-save-data2 = Sinxronizatsiya va maʼlumotlarni saqlash
 appmenu-fxa-signed-in-label = Kirish
 appmenu-fxa-setup-sync =
     .label = Sinxronizatsiyani yoqish
-appmenu-fxa-show-more-tabs = Barcha varaqlarni koʻrsatish
+
 appmenuitem-save-page =
     .label = Sahifani saqlash…
 
@@ -115,8 +122,7 @@ whatsnew-panel-header = Yangi xususiyatlar
 
 profiler-popup-settings =
     .value = Sozlamalar
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings = Sozlamalarni tahrirlash
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Sozlamalarni tahrirlash
@@ -155,9 +161,6 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = t
 appmenu-help-report-site-issue =
     .label = Saytdagi muammo haqida xabar berish
-appmenu-help-feedback-page =
-    .label = Mulohaza bildirish
-    .accesskey = b
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -183,8 +186,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Asboblar panelini sozlash
-appmenu-taskmanager =
-    .label = Vazifa menejeri
+
 appmenu-developer-tools-subheader = Brazuer vositalari
 appmenu-developer-tools-extensions =
     .label = Dasturchilar uchun kengaytmalar

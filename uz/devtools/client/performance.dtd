@@ -54,8 +54,6 @@
 
 <!ENTITY performanceUI.table.function                 "Funksiya">
 
-<!ENTITY performanceUI.table.totalAlloc               "Umumiy soddalashtirilgan cheklovlar">
-
 
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

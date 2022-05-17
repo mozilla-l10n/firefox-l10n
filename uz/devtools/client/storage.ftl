@@ -8,6 +8,7 @@
 # Placeholder for the searchbox that allows you to filter the table items
 storage-search-box =
     .placeholder = Elementlarni qidirish
+
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Qiymatlarni filterlash
@@ -29,7 +30,10 @@ storage-tree-labels-indexed-db = Indexed DB
 
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = Seans
+
 # Heading displayed over the item value in the sidebar
 storage-data = Ma’lumot
+
 # Heading displayed over the item parsed value in the sidebar
 storage-parsed-value = Ajratilgan qiymat
+
