@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "其它邮箱：">
 <!ENTITY SecondEmail.accesskey          "i">
-<!ENTITY PreferMailFormat.label         "收件格式：">
-<!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "纯文本">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "未知">

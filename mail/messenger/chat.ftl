@@ -4,21 +4,29 @@
 
 chat-joining-chat-icon2 =
     .alt = 加入聊天
+
 chat-left-chat-icon2 =
     .alt = 退出聊天
+
 chat-participant-owner-role-icon2 =
     .alt = 所有者
+
 chat-participant-administrator-role-icon2 =
     .alt = 管理员
+
 chat-participant-moderator-role-icon2 =
     .alt = 主持人
+
 chat-participant-voiced-role-icon2 =
     .alt = 参与者可以发消息
+
 chat-verify-identity =
     .label = 验证身份
     .accesskey = I
+
 chat-identity-verified =
     .label = 身份已验证
+
 chat-buddy-identity-status = 加密可信度
 chat-buddy-identity-status-verified = 已验证
 chat-buddy-identity-status-unverified = 未验证

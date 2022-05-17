@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "在分析器采集样本时，此函数在堆栈中的次数。">
 <!ENTITY performanceUI.table.function                 "函数">
 <!ENTITY performanceUI.table.function.tooltip         "取样函数的名称和源代码位置。">
-<!ENTITY performanceUI.table.totalAlloc               "总计采样分配量">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "在此位置和被呼叫项目中采样到的对象分配总数。">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

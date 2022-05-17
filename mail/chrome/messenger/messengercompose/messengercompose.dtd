@@ -21,9 +21,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "网页…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "个人名片（vCard）">
-<!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY remindLater.label "稍后提醒我">
 <!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "关闭">
@@ -149,16 +146,6 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "递送状态通知">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY deliveryFormatMenu.label "发送格式">
-<!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "自动检测">
-<!ENTITY autoFormatCmd.accesskey "A">
-<!ENTITY plainTextFormatCmd.label "仅纯文本">
-<!ENTITY plainTextFormatCmd.accesskey "P">
-<!ENTITY htmlFormatCmd.label "仅复杂文本 (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "R">
-<!ENTITY bothFormatCmd.label "简单或复杂 (HTML) 文本">
-<!ENTITY bothFormatCmd.accesskey "L">
 <!ENTITY priorityMenu.label "优先级">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.title "优先级">
@@ -222,7 +209,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "其他类型的地址">
 <!ENTITY fromAddr2.label "发件人">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY replyAddr2.label "回复地址">

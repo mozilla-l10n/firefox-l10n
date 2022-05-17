@@ -23,9 +23,6 @@
 <!ENTITY inReplyToField.label "答复: ">
 <!ENTITY originalWebsite.label "网址：">
 
-<!ENTITY editMessage.label                 "编辑草稿…">
-<!ENTITY editMessage.accesskey             "D">
-
 <!ENTITY attachmentsTree.label             "附件：">
 <!ENTITY attachmentsTree.accesskey         "c">
 <!ENTITY openAttachmentCmd.label           "打开">

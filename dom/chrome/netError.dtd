@@ -90,9 +90,6 @@
 <!ENTITY corruptedContentErrorv2.title "内容损坏错误">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>由于检测到传输过程中出错，无法显示您想要查看的页面。</p><ul><li>建议向此网站的管理员反馈这个问题。</li></ul>">
 
-<!ENTITY remoteXUL.title "远程 XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>建议向此网站的管理员反馈这个问题。</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "您的连接不安全">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

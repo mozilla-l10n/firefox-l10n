@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = 需要重启浏览器
-restart-required-header = 抱歉，我们需要重启一下浏览器。
-restart-required-intro-brand = { -brand-short-name } 已在后台自动更新。请点击“重启 { -brand-short-name }”完成更新。
-restart-required-description = 重启之后，您现在的所有网页、窗口和标签页都会恢复，您可以马上继续上网。
 restart-required-heading = 重启浏览器以继续使用 { -brand-short-name }
 restart-required-intro = 已在后台更新 { -brand-short-name }，需重启浏览器才能完成更新。
 window-restoration-info = 您在非隐私模式下的窗口及标签页，将会很快恢复。
+
 restart-button-label = 重启 { -brand-short-name }
