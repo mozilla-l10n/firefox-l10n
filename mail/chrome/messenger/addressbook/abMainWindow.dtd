@@ -85,6 +85,7 @@
 <!ENTITY newContactButton.accesskey "C">
 <!ENTITY newlistButton.label "নতুন তালিকা (L)">
 <!ENTITY newlistButton.accesskey "L">
+
 <!ENTITY newmsgButton.label "লিখুন (W)">
 <!ENTITY newmsgButton.accesskey "W">
 <!ENTITY newIM.label "তাৎক্ষণিক বার্তা (I)">

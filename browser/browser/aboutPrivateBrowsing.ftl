@@ -8,3 +8,5 @@ about-private-browsing-search-placeholder = ওয়েবে অনুসন্�
 about-private-browsing-info-title = আপনি একটি ব্যাক্তিগত উইন্ডোতে আছেন
 about-private-browsing-not-private = আপনি বর্তমানে কোনো ব্যক্তিগত উইন্ডোতে নেই।
 
+## The following strings will be used for experiments in Fx99 and Fx100
+

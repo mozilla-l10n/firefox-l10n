@@ -11,5 +11,4 @@
 <!ENTITY encryption.certificate_clear.button "পরিষ্কার">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "ডিজিটাল স্বাক্ষরকরণ">
-<!ENTITY signMessage.accesskey "D">
 

@@ -79,9 +79,6 @@
 <!ENTITY corruptedContentErrorv2.title "ক্ষতিগ্রস্ত বিষয়বস্তুর ত্রুটি">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>উপাত্ত সম্প্রচারে ত্রুটি পাওয়া গেছে, তাই আপনি যে পাতাটি দেখতে চেষ্টা করছেন তা প্রদর্শন করা সম্ভব হয়নি।</p><ul><li>অনুগ্রহ করে এই সমস্যা সম্পর্কে ওয়েব-সাইট নির্মাতাদের অবগত করুন।</li></ul>">
 
-<!ENTITY remoteXUL.title "রিমোট XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>এই সমস্যাটি সম্পর্কে জানাতে অনুগ্রহ করে ওয়েবসাইটের মালিকের যোগাযোগ করুন।</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "আপনার সংযোগ নিরাপদ নয়">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = তথ্য
 
-item-site-preferences =
-    .label = সাইট সংক্রান্ত পছন্দসমূহ (S)
-    .accesskey = S
-
 item-offline-apps =
     .label = অফলাইন ওয়েবসাইটের তথ্য (O)
     .accesskey = O

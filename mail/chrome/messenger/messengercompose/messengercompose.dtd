@@ -18,9 +18,6 @@
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachPageCmd.label "ওয়েব পেজ… (W)">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "ব্যক্তিগত কার্ড (vCard) (P)">
-<!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY closeCmd.label "বন্ধ করুন (C)">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "C">
@@ -116,14 +113,6 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "প্রেরণের অবস্থার ঘোষণা (N)">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY autoFormatCmd.label "স্বয়ংক্রিয়-সনাক্তকরণ (A)">
-<!ENTITY autoFormatCmd.accesskey "A">
-<!ENTITY plainTextFormatCmd.label "শুধুমাত্র সরল পাঠ্য (P)">
-<!ENTITY plainTextFormatCmd.accesskey "P">
-<!ENTITY htmlFormatCmd.label "শুধুমাত্র সমৃদ্ধ পাঠ্য (HTML) (R)">
-<!ENTITY htmlFormatCmd.accesskey "R">
-<!ENTITY bothFormatCmd.label "সরল এবং সমৃদ্ধ (HTML) পাঠ্য (L)">
-<!ENTITY bothFormatCmd.accesskey "L">
 <!ENTITY priorityMenu.label "অগ্রাধিকার (P)">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.label "অগ্রাধিকার:">

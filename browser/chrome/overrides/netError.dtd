@@ -95,8 +95,6 @@
 <!ENTITY errorReporting.automatic2 "মজিলাকে এই ধরনের প্রতিবেদন দিয়ে ক্ষরিকারক সাইট চিহ্নিত এবং অবরুদ্ধ করতে সাহায্য করুন।">
 <!ENTITY errorReporting.learnMore "আরও জানুন…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>এই সমস্যাটি সম্পর্কে অনুগ্রহ করে ওয়েবসাইটের মালিককে জানান।</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "বিস্তারিত তথ্য: SSL_ERROR_UNSUPPORTED_VERSION">
