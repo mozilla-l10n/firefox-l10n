@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Mégse
 screenshots-overlay-instructions = Húzza, vagy kattintson a lapra a terület kiválasztásához. A megszakításhoz nyomja meg az ESC billentyűt.
+screenshots-overlay-download-button = Letöltés
+screenshots-overlay-copy-button = Másolás
