@@ -23,3 +23,6 @@ no-plugins-are-installed-label = Ha ho di-plug in tse instotsweng
 mime-type-label = Mofuta wa MIME
 description-label = Tlhaloso
 suffixes-label = Dikutu
+
+## Gecko Media Plugins (GMPs)
+

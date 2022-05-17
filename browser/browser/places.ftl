@@ -4,3 +4,4 @@
 
 places-history =
     .aria-label = Histori
+

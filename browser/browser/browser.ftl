@@ -106,6 +106,7 @@ urlbar-go-button =
 
 bookmarks-sidebar-content =
     .aria-label = Ditshwayabuka
+
 bookmarks-toolbar-menu =
     .label = Thulebara ya Ditshwayabuka
 bookmarks-toolbar-placeholder =
@@ -126,10 +127,6 @@ bookmarks-toolbar-placeholder-button =
 
 
 ## More items
-
-more-menu-go-offline =
-    .label = E sa Hokelwang
-    .accesskey = e
 
 ## EME notification panel
 
@@ -152,6 +149,7 @@ more-menu-go-offline =
 popups-infobar-allow =
     .label = Dumella di-popup tsa { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Thibela di-popup tsa { $uriHost }
     .accesskey = p
@@ -173,8 +171,10 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Tse jarollwang
+
 navbar-search =
     .title = Batla
+
 tabs-toolbar-new-tab =
     .label = Tab E ntjha
 
