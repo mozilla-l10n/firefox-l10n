@@ -5,6 +5,7 @@
 toolbar-context-menu-manage-extension =
     .label = දිගුව පාලනය කරන්න
     .accesskey = E
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -17,6 +18,7 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = රිසිකරණය...
     .accesskey = C
+
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = මෙනු තීරුව
     .accesskey = M

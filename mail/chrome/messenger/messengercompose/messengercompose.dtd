@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "වෙබ් පිටුවක්...">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "පෞද්ගලික පත (vCard)">
-<!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY closeCmd.label "වසන්න">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "C">
@@ -122,16 +119,6 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "බෙදාහැරීමේ තත්ත්ව නිවේදනය">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY deliveryFormatMenu.label "Delivery Format">
-<!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "ස්ව-හැඳුනුම">
-<!ENTITY autoFormatCmd.accesskey "A">
-<!ENTITY plainTextFormatCmd.label "සාමාන්‍ය පාඨ පමණක්">
-<!ENTITY plainTextFormatCmd.accesskey "P">
-<!ENTITY htmlFormatCmd.label "HTML පමණක්">
-<!ENTITY htmlFormatCmd.accesskey "R">
-<!ENTITY bothFormatCmd.label "සාමාන්‍ය සහ HTML පාඨ">
-<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "ප්‍රමුඛතාවය">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.label "ප්‍රමුඛතාවය:">

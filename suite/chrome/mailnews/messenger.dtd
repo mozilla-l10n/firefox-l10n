@@ -323,9 +323,6 @@ Entities below were automatically added by compare-locales,
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "ඇමුණුමක් සේ">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
-<!ENTITY editMsgAsNewCmd.label "නව ලිපියක් සේ සකසන්න">
-<!ENTITY editMsgAsNewCmd.accesskey "E">
-<!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "පෙරහනක් සාදන්න...">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY archiveMsgCmd.label "Archive">
@@ -489,8 +486,6 @@ Entities below were automatically added by compare-locales,
 
 <!ENTITY contextOpenNewTab.label "Open Message in New Tab">
 <!ENTITY contextOpenNewTab.accesskey "T">
-<!ENTITY contextEditAsNew.label "නව ලිපියක් සේ සකසන්න...">
-<!ENTITY contextEditAsNew.accesskey "E">
 <!ENTITY contextReplySender.label "එවූ තැනැත්තාට පිළිතුරු">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "පුවත්සමූහයට පිළිතුරු">

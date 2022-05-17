@@ -3,64 +3,90 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = ඇඩෝන කළමනාකරු
+
 search-header =
     .placeholder = addons.mozilla.org සොයන්න
     .searchbuttonlabel = සොයන්න
+
 search-header-shortcut =
     .key = f
+
 list-empty-installed =
     .value = මේ ආකාරයේ කිසිඳු ඇඩෝනයක් ඔබ ස්ථාපනය කර නැත
+
 list-empty-available-updates =
     .value = යාවත්කාලීන හමු නොවීය
+
 list-empty-recent-updates =
     .value = ඔබ කිසිඳු ඇඩෝනයක් මෑතකදී යාවත්කාලීන කර නැත
+
 list-empty-find-updates =
     .label = යාවත්කාලීන සඳහා පරීක්ෂා කරන්න
+
 list-empty-button =
     .label = ඇඩෝන පිළිබඳව වැඩිදුරටත් දැනගන්න
+
 help-button = ඇඩෝන සහාය
 sidebar-help-button-title =
     .title = ඇඩෝන සහාය
+
 show-unsigned-extensions-button =
     .label = ඇතැම් දිගු තහවුරු කළ නොහැක
+
 show-all-extensions-button =
     .label = සියළු දිගු පෙන්වන්න
+
 detail-version =
     .label = න්කුතුව
+
 detail-last-updated =
     .label = අවසන් වරට යාවත්කාලීන කළේ
+
 detail-contributions-description = මෙම ඇඩෝන සංවර්ධකයා එහි අඛණ්ඩ සංවර්ධනය වෙනුවෙන් ඔබගේ දායකත්වය ඉල්ලා සිටියි.
+
 detail-update-type =
     .value = ස්වයංක්‍රීය යාවත්කාලීන
+
 detail-update-default =
     .label = පෙරනිමි
     .tooltiptext = එය පෙරනිමියෙන් පමණක් නම්, ස්වයංක්‍රීයව ඇඩෝන යාවත්කාලීන කරන්නA
+
 detail-update-automatic =
     .label = On
     .tooltiptext = ස්වයංක්‍රීයව යාවත්කාලීන ස්ථාපනය කරන්න
+
 detail-update-manual =
     .label = Off
     .tooltiptext = ස්වයංක්‍රීයව යාවත්කාලීන ස්ථාපනය නොකරන්න
+
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = පුද්ගලික කවුළු තුළ ක්‍රියාකරවන්න
+
 detail-private-browsing-on =
     .label = ඉඩදෙන්න
     .tooltiptext = පුද්ගලික ගවේශණ තුළ සක්‍රීයයි
+
 detail-private-browsing-off =
     .label = ඉඩ නොදෙන්න
     .tooltiptext = පුද්ගලික ගවේශණ තුළ අක්‍රීයයි
+
 detail-home =
     .label = මුල්පිටුව
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = Add-on Profile
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = යාවත්කාලීන සඳහා පරීක්ෂා කරන්න
     .accesskey = f
     .tooltiptext = මෙම ඇඩෝනය සඳහා යාවත්කාලීන පරීක්ෂා කරන්න
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -77,16 +103,24 @@ detail-show-preferences =
             [windows] මෙම ඇඩෝනයේ විකල්ප වෙනස් කරන්න
            *[other] මෙම ඇඩෝනයේ මනාපයන් වෙනස් කරන්න
         }
+
 detail-rating =
     .value = ඇගැයුම (Rating)
+
 addon-restart-now =
     .label = දැන් ප්‍රත්‍යාරම්භ (Restart) කරන්න
+
 disabled-unsigned-heading =
     .value = ඇතැම් ඇඩෝන අක්‍රීය කර ඇත
+
 disabled-unsigned-description = පහත ඇඩෝන { -brand-short-name } හි භාවිතයට තහවුරු කර නොමැත. ඔබට හැක්කේ <label data-l10n-name="find-addons">ප්‍රතිස්ථාපනයන් සොයන්න</label> හෝ තහවුරු කිරීම සඳහා සංවර්දකයාගෙන් විමසන්න.
+
 disabled-unsigned-learn-more = ඔබව මාර්ගගතව ආරක්ෂිතව තැබීම සඳහා අපගේ උත්සාහයන් පිළිබඳ දැනගන්න.
+
 disabled-unsigned-devinfo = මෙය කියවීම මගින් තම ඇඩෝන තහවුරු කරගැනීමට කැමති සංවර්ධකයන් ඉදිරියට යන්න <label data-l10n-name="learn-more">ශ්‍රමික</label>.
+
 plugin-deprecation-description = යමක් අහිමිද? { -brand-short-name } විසින් ඇතැම් ප්ලගින වෙත තවදුරටත් සහය නොදක්වයි. <label data-l10n-name="learn-more"> තවත් දැනගන්න.</label>
+
 addon-category-extension = දිගුකිරීම්
 addon-category-extension-title =
     .title = දිගුකිරීම්
@@ -160,7 +194,9 @@ addon-open-about-debugging = ඇඩෝන දෝශ නිරාකරණය
 
 shortcuts-input =
     .placeholder = කෙටිමඟක් ලියන්න
+
 shortcuts-pageAction = පිටු ක්‍රියාව සක්‍රීය කරන්න
+
 shortcuts-modifier-mac = Ctrl, Alt, හෝ ⌘ ඇතුලත් කරන්න
 shortcuts-modifier-other = Ctrl හෝ Alt ඇතුලත් කරන්න
 
@@ -187,6 +223,7 @@ enable-addon-button = සක්‍රීය
 
 addons-heading-search-input =
     .placeholder = addons.mozilla.org සොයන්න
+
 addon-page-options-button =
     .title = සියළු ඇඩෝන සඳහා මෙවලම්
 
@@ -197,12 +234,17 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { -brand-short-name } { $version } සමඟ { $name } අනුකූල නොවේ.
+
 details-notification-unsigned-and-disabled = { -brand-short-name } හි භාවිතය සඳහා { $name } තහවුරු කළ නොහැකි බැවින් අක්‍රීය කර ඇත.
 details-notification-unsigned-and-disabled-link = වැඩිදුර තොරතුරු
+
 details-notification-unsigned = { -brand-short-name } හි භාවිතයට { $name } තහවුරු කළ නොහැක. අවධානයෙන් ඉදිරියට යන්න.
 details-notification-unsigned-link = වැඩිදුර තොරතුරු
+
 details-notification-blocked = ආරක්ෂක හෝ ස්ථායිතා ප්‍රශ්ණ නිසා { $name } අබල (Disable) කර ඇත.
 details-notification-blocked-link = වැඩිදුර තොරතුරු
+
 details-notification-softblocked = { $name } ආරක්ෂක හෝ ස්ථායිතා ප්‍රශ්ණ ඇති කරනු ඇතැයි හඳුනාගෙන ඇත.
 details-notification-softblocked-link = වැඩිදුර තොරතුරු
+
 details-notification-gmp-pending = { $name } මොහොතකින් ස්ථාපනය වනු ඇත.

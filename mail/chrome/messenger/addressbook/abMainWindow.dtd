@@ -95,6 +95,7 @@
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "නව ලැයිස්තුවක්">
 <!ENTITY newlistButton.accesskey                        "L">
+
 <!ENTITY newmsgButton.label                             "නව ලිපියක් ලියන්න">
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "ක්ෂණික පණිවිඩ">

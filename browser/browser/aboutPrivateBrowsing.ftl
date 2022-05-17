@@ -7,3 +7,5 @@ privatebrowsingpage-open-private-window-label = පුද්ගලික කව�
 about-private-browsing-search-placeholder = ජාලය තුළ සොයන්න
 about-private-browsing-not-private = ඔබ දැනට සිටින්නේ පුද්ගලික කවුළුවක නොවේ.
 
+## The following strings will be used for experiments in Fx99 and Fx100
+

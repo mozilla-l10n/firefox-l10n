@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = දත්ත
 
-item-site-preferences =
-    .label = අඩවි මනාපයන්
-    .accesskey = S
-
 item-offline-apps =
     .label = නොබැඳි වෙබ් අඩවි දත්ත
     .accesskey = O

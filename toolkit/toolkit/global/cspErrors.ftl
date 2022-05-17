@@ -5,22 +5,27 @@
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 csp-error-missing-directive = ප්‍රතිපත්තිය සඳහා අවශ්‍ය '{ $directive }' නියමුව අහිමි වී ඇත
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $keyword (String): the name of a CSP keyword, usually 'unsafe-inline'.
 csp-error-illegal-keyword = '{ $directive }' නියමුව සතුව තහනම් කළ { $keyword } යතුරු වදන පවතී
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
 csp-error-illegal-protocol = '{ $directive }' නියමුව සතුව තහනම් කළ { $scheme }: නාමාවලි මූලය පවතී
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
 csp-error-missing-host = { $scheme }: නාමාවලියට '{ $directive }' නියමු තුළ ධාරකයක් අවශ්‍යයි
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $source (String): the name of a CSP source, usually 'self'.
 csp-error-missing-source = '{ $directive }' සතුව { $source } මූලය පැවතිය යුතුයි
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.

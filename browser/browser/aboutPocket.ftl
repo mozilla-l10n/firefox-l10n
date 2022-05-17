@@ -41,3 +41,7 @@ pocket-panel-signup-tagline-story-two = { -pocket-brand-name } තුළ පෙ�
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

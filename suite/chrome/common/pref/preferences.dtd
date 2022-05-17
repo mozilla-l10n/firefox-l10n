@@ -26,11 +26,9 @@
 <!ENTITY images.label "Images">
 <!ENTITY popups.label "Popup Windows">
 <!ENTITY passwords.label "Passwords">
-<!ENTITY masterpass.label "Master Passwords">
 <!ENTITY certs.label "Certificates">
 
 <!ENTITY advance.label "Advanced">
-<!ENTITY scriptsAndWindows.label "Scripts &amp; Plugins">
 
 <!ENTITY keynav.label "Keyboard Navigation">
 <!ENTITY cache.label "Cache">
