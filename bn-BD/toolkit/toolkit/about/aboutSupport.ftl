@@ -47,6 +47,7 @@ app-basics-multi-process-support = মাল্টিপ্রসেস উই�
 app-basics-enterprise-policies = এন্ট্রারপ্রাইজ নীতিগুলি
 app-basics-key-mozilla = Mozilla লোকেশন সার্ভিস Key
 app-basics-safe-mode = সেফ মোড
+
 show-dir-label =
     { PLATFORM() ->
         [macos] ফাইন্ডারে প্রদর্শন

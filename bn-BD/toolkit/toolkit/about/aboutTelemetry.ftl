@@ -28,7 +28,6 @@ about-telemetry-events-section = ইভেন্ট
 about-telemetry-simple-measurements-section = সহজ পরিমাপ
 about-telemetry-slow-sql-section = ধীর গতির এসকিউএল বিবৃতি
 about-telemetry-addon-details-section = অ্যাড-অনের বিস্তারিত
-about-telemetry-captured-stacks-section = বন্দী স্ট্যাক
 about-telemetry-late-writes-section = বিলম্বিত লেখনী
 about-telemetry-raw-payload-section = অপরিশোধিত পেলোড
 about-telemetry-raw = পরিশোধিত JSON
@@ -101,10 +100,6 @@ about-telemetry-addon-provider = { $addonProvider } প্রোভাইডা�
 about-telemetry-keys-header = বৈশিষ্ট্য
 about-telemetry-names-header = নাম
 about-telemetry-values-header = মান
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (ক্যাপচার গনণা: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = #{ $lateWriteCount } দেরিতে লেখা
