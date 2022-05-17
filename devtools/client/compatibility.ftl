@@ -19,9 +19,6 @@ compatibility-issue-prefixneeded = (ਅਗੇਤਰ ਚਾਹੀਦਾ ਹੈ)
 compatibility-settings-button-label = ਸੈਟਿੰਗਾਂ
 compatibility-settings-button-title =
     .title = ਸੈਟਿੰਗਾਂ
-compatibility-feedback-button-label = ਫੀਡਬੈਕ
-compatibility-feedback-button-title =
-    .title = ਫੀਡਬੈਕ
 
 ## Messages used as headers in settings pane
 
@@ -32,3 +29,4 @@ compatibility-target-browsers-header = ਟੀਚਾ ਬਰਾਊਜ਼ਰ
 
 compatibility-close-settings-button =
     .title = ਸੈਟਿੰਗਾਂ ਬੰਦ ਕਰੋ
+

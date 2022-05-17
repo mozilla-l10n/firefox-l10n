@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "ਫਿਲਟਰ ਨਿਯਮ">
-<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "ਫਿਲਟਰ ਨਾਂ:">
 <!ENTITY filterName.accesskey "i">
 

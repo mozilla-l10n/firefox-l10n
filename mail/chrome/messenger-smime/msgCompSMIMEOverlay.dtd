@@ -10,17 +10,4 @@
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
-<!ENTITY menu_securityEncryptRequire.accesskey "E">
 
-
-<!ENTITY menu_securitySign.label "ਇਹ ਸੁਨੇਹਾ ਡਿਜ਼ੀਟਲ ਦਸਤਖਤੀ">
-<!ENTITY menu_securitySign.accesskey "S">
-
-<!ENTITY menu_securityStatus.label "ਸੁਰੱਖਿਆ ਜਾਣਕਾਰੀ ਵੇਖੋ">
-<!ENTITY menu_securityStatus.accesskey "I">
-
-<!ENTITY securityButton.label "ਸੁਰੱਖਿਆ">
-<!ENTITY securityButton.tooltip "ਸੁਰੱਖਿਆ ਸੈਟਿੰਗ ਵੇਖੋ ਜਾਂ ਬਦਲੋ">
-
-<!ENTITY menu_viewSecurityStatus.label "ਸੁਨੇਹਾ ਸੁਰੱਖਿਆ ਜਾਣਕਾਰੀ">
-<!ENTITY menu_viewSecurityStatus.accesskey "I">

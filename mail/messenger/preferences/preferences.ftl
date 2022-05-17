@@ -186,14 +186,6 @@ bigger-size-item =
 smaller-size-item =
     .label = Smaller
 
-type-column-label =
-    .label = Content Type
-    .accesskey = T
-
-action-column-label =
-    .label = Action
-    .accesskey = A
-
 save-to-label =
     .label = Save files to
     .accesskey = S
@@ -288,12 +280,6 @@ bg-color-label =
 restore-html-label =
     .label = ਡਿਫਾਲਟ ਰੀ-ਸਟੋਰ ਕਰੋ
     .accesskey = R
-
-format-description = ਟੈਕਸਟ ਫਾਰਮੈਟ ਰਵੱਈਆ ਸੰਰਚਨਾ
-
-send-options-label =
-    .label = ਭੇਜਣ ਚੋਣਾਂ…
-    .accesskey = S
 
 autocomplete-description = When addressing messages, look for matching entries in:
 
@@ -477,4 +463,6 @@ send-typing-label =
     .accesskey = t
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 
