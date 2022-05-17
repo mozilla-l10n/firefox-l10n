@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Zrušiť
 screenshots-overlay-instructions = Potiahnutím alebo kliknutím si vyberte oblasť, ktorú chcete zachytiť. Výber zrušíte stlačením klávesa ESC.
+screenshots-overlay-download-button = Stiahnuť
+screenshots-overlay-copy-button = Kopírovať
