@@ -64,42 +64,6 @@ return-to-amo-add-extension-label = Cuir an leudachan ris
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Fàilte gu <span data-l10n-name="zap">{ -brand-short-name }</span>
-onboarding-multistage-welcome-subtitle = Am brabhsair luath sàbhailte prìobhaideach a tha ’ga thoirt leat le buidheann neo-phrothaideach.
-onboarding-multistage-welcome-primary-button-label = Tòisich air an t-suidheachadh
-onboarding-multistage-welcome-secondary-button-label = Clàraich a-steach
-onboarding-multistage-welcome-secondary-button-text = A bheil cunntas agad?
-
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "default" should stay inside the span.
-onboarding-multistage-set-default-header = Cleachd { -brand-short-name } mar a’ <span data-l10n-name="zap">bhun-roghainn</span> agad
-onboarding-multistage-set-default-subtitle = Gheibh thu luaths, sàbhailteachd is prìobhaideachd gach turas a nì thu brabhsadh.
-onboarding-multistage-set-default-primary-button-label = Cleachd mar am brabhsair bunaiteach
-onboarding-multistage-set-default-secondary-button-label = Chan ann an-dràsta
-
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-pin-default-header = An toiseach, suidhich <span data-l10n-name="zap">{ -brand-short-name }</span>ach an ruig thu e le aon briogadh
-onboarding-multistage-pin-default-subtitle = Brabhsadh luath sàbhailte prìobhaideach gach turas a chleachdas tu an lìon.
-# The "settings" here refers to "Windows 10 Settings App" and not the browser's
-onboarding-multistage-pin-default-waiting-subtitle = Tagh { -brand-short-name } san earrann “Brabhsair-lìn” nuair a dh’fhosglas na roghainnean agad
-# The "settings" here refers to "Windows 10 Settings App" and not the browser's
-onboarding-multistage-pin-default-help-text = Prìnichidh seo { -brand-short-name } ri bàr nan saothair is fosglaidh e na roghainnean
-onboarding-multistage-pin-default-primary-button-label = Dèan { -brand-short-name } am prìomh-bhrabhsair agam
-
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "more" should stay inside the span.
-onboarding-multistage-import-header = Ion-phortaich na faclan-faire<br/>’s na comharran-lìn agad agus <span data-l10n-name="zap">a bharrachd</span>
-onboarding-multistage-import-subtitle = A’ tighinn o bhrabhsair eile? Tha e cho furasta ’s a ghabhas a h-uile càil a thoirt a-null dha { -brand-short-name }.
-onboarding-multistage-import-primary-button-label = Tòisich air an ion-phortadh
-onboarding-multistage-import-secondary-button-label = Chan ann an-dràsta
-
-# Info displayed in the footer of import settings screen during onboarding flow.
-# This supports welcome screen showing top sites imported from the user's default browser.
-onboarding-import-sites-disclaimer = Lorg sinn na làraichean a chì thu an-seo air an uidheam seo. Cha sàbhail { -brand-short-name } dàta o bhrabhsair eile agus cha sioncronaich sinn e ach ma chuireas tu romhad ion-phortadh.
-
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
@@ -108,21 +72,6 @@ onboarding-import-sites-disclaimer = Lorg sinn na làraichean a chì thu an-seo 
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Toiseach-tòiseachaidh: sgrìn { $current } à { $total }
-
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = Tagh <span data-l10n-name="zap">coltas</span>
-onboarding-multistage-theme-subtitle = Cuir dreach pearsanta air { -brand-short-name } le ùrlar.
-onboarding-multistage-theme-primary-button-label2 = Deiseil
-onboarding-multistage-theme-secondary-button-label = Chan ann an-dràsta
-
-# Automatic theme uses operating system color settings
-onboarding-multistage-theme-label-automatic = Fèin-obrachail
-
-onboarding-multistage-theme-label-light = Soilleir
-onboarding-multistage-theme-label-dark = Dorcha
-# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
-onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Cuir na beòthachaidhean dheth
@@ -204,54 +153,6 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic-2 =
-    .title =
-        Cleachd coltas an t-siostam obrachaidh agad
-        air putanan, clàran-taice is uinneagan.
-
-# Input description for automatic theme
-onboarding-multistage-theme-description-automatic-2 =
-    .aria-description =
-        Cleachd coltas an t-siostam obrachaidh agad
-        air putanan, clàran-taice is uinneagan.
-
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light-2 =
-    .title =
-        Cleachd coltas soilleir air putanan,
-        clàran-taice is uinneagan.
-
-# Input description for light theme
-onboarding-multistage-theme-description-light =
-    .aria-description =
-        Cleachd coltas soilleir air putanan,
-        clàran-taice is uinneagan.
-
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark-2 =
-    .title =
-        Cleachd coltas dorcha air putanan,
-        clàran-taice is uinneagan.
-
-# Input description for dark theme
-onboarding-multistage-theme-description-dark =
-    .aria-description =
-        Cleachd coltas dorcha air putanan,
-        clàran-taice is uinneagan.
-
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow-2 =
-    .title =
-        Cleachd coltas dathte air putanan,
-        clàran-taice is uinneagan.
-
-# Input description for Alpenglow theme
-onboarding-multistage-theme-description-alpenglow =
-    .aria-description =
-        Cleachd coltas dathte air putanan,
-        clàran-taice is uinneagan.
-
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
 # Tooltip displayed on hover of system theme
@@ -301,3 +202,15 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Cleachd ùrlar innsginneach dathte airson
         putanan, clàran-taice is uinneagan.
+
+## Strings for Thank You page
+
+## Multistage live language reloading onboarding strings (about:welcome pages)
+##
+## The following language names are generated by the browser's Intl.DisplayNames API.
+##
+## Variables:
+##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "Español (ES)"
+
+## Firefox 100 Thank You screens
+

@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Post-d eile:">
 <!ENTITY SecondEmail.accesskey          "i">
-<!ENTITY PreferMailFormat.label         "B’ fhearr leis an neach seo teachdaireachdan leis an fhòrmatadh:">
-<!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "Teacsa lom">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Neo-aithnichte">

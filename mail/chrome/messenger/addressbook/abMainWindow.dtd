@@ -111,6 +111,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "N">
 <!ENTITY newlistButton.label                            "Liosta ùr">
 <!ENTITY newlistButton.accesskey                        "L">
+
 <!ENTITY showAsDefault.label                            "Pasgan tòiseachaidh bunaiteach">
 <!ENTITY showAsDefault.accesskey                        "s">
 <!ENTITY editPropertiesButton.label                     "Deasaich">

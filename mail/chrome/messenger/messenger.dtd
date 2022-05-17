@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "G">
 <!ENTITY newVirtualFolderCmd.label "Lorg a chaidh a shàbhaladh…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
-<!ENTITY newOtherAccountsCmd.label "Cunntasan eile…">
-<!ENTITY newOtherAccountsCmd.accesskey "C">
 <!ENTITY newCreateEmailAccountCmd.label "Faigh cunntas puist ùr…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "a">
 <!ENTITY newExistingEmailAccountCmd.label "Cunntas puist a tha agad mu thràth…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "o">
 <!ENTITY saveAsMenu.label "Sàbhail mar">
 <!ENTITY saveAsMenu.accesskey "S">
-<!ENTITY saveAsFileCmd.label "Fhaidhle">
-<!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Theamplaid">
 <!ENTITY saveAsTemplateCmd.accesskey "T">

@@ -7,5 +7,6 @@
 
 extension-thunderbird-compact-light-name = Soilleir
 extension-thunderbird-compact-light-description = Ùrlar le sgeama dhathan soilleir.
+
 extension-thunderbird-compact-dark-name = Dorcha
 extension-thunderbird-compact-dark-description = Ùrlar le sgeama dhathan dorcha.

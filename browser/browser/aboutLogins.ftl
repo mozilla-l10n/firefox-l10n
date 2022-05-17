@@ -78,8 +78,6 @@ about-logins-login-intro-heading-logged-in = Cha deach clàradh a-steach sioncro
 login-intro-description = Ma shàbhail thu na clàraidhean a-steach agad ann am { -brand-product-name } air uidheam eile, seo mar a gheibh thu greim orra an-seo:
 login-intro-instructions-fxa = Cruthaich { -fxaccount-brand-name } air an uidheam far an do shàbhail thu na logins agad no cruthaich cunntas ùr.
 login-intro-instructions-fxa-settings = Tadhail air “Roghainnean” > “Sioncronachadh” > “Cuir an sioncronachadh air…” agus tagh am bogsa-cromaige “Clàraidhean a-steach ⁊ faclan-faire”.
-login-intro-instructions-fxa-help = Tadhail air <a data-l10n-name="help-link">taic { -lockwise-brand-short-name }</a> airson barrachd cuideachaidh.
-about-logins-intro-import = Ma shàbhail thu na clàraidhean a-steach agad ann am brabhsair eile, ’s urrainn dhut <a data-l10n-name="import-link">an ion-phortadh gu { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Ma chaidh na clàraidhean a-steach agad a shàbhaladh taobh a-muigh { -brand-product-name }, ’s urrainn dhut an <a data-l10n-name="import-browser-link">ion-phortadh à brabhsair eile</a> no <a data-l10n-name="import-file-link">à faidhle</a>
 
 ## Login

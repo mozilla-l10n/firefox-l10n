@@ -19,7 +19,6 @@ about-networking-ssl = SSL
 about-networking-active = Gnìomhach
 about-networking-idle = Idle
 about-networking-host = Òstair
-about-networking-tcp = TCP
 about-networking-sent = Air a chur
 about-networking-received = Air fhaighinn
 about-networking-family = Teaghlach

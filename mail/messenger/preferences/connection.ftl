@@ -26,9 +26,6 @@ connection-dialog-window =
            *[other] width: 49em !important
         }
 
-connection-disable-extension =
-    .label = Cuir an leudachan à comas
-
 connection-proxy-legend = Rèitich progsaidhean a chum inntrigeadh dhan lìon
 
 proxy-type-no =

@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Dàta
 
-item-site-preferences =
-    .label = Roghainnean nan làrach
-    .accesskey = R
-
 item-offline-apps =
     .label = Dàta làraichean far loidhne
     .accesskey = o

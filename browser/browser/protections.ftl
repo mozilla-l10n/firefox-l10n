@@ -75,16 +75,8 @@ mobile-app-card-content = Cleachd am brabhsair mobile le dìon an aghaidh tracad
 mobile-app-links = Brabhsair { -brand-product-name } airson<a data-l10n-name="android-mobile-inline-link">Android</a> agus <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 
 lockwise-title = Na dìochuimhnich facal-faire a-rithist gu bràth
-lockwise-title-logged-in2 = Stiùireadh fhaclan-faire
-lockwise-header-content = Stòraidh { -lockwise-brand-name } na faclan-faire agad sa bhrabhsair agad gu tèarainte.
 lockwise-header-content-logged-in = Cùm is sioncronaich na faclan-faire agad gu tèarainte air feadh nan uidheaman agad.
-protection-report-save-passwords-button = Sàbhail na faclan-faire
-    .title = Sàbhail na faclan-faire air { -lockwise-brand-short-name }
-protection-report-manage-passwords-button = Stiùirich na faclan-faire
-    .title = Stiùirich na faclan-faire air { -lockwise-brand-short-name }
-lockwise-mobile-app-title = Thoir leat na faclan-faire agad ge be càit an dèid thu
-lockwise-no-logins-card-content = Cleachd na faclan-faire a shàbhail thu am broinn { -brand-short-name } air uidheam sam bith.
-lockwise-app-links = { -lockwise-brand-name } airson <a data-l10n-name="lockwise-android-inline-link">Android</a> agus <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+
 
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.

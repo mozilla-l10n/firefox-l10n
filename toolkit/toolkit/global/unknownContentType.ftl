@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = Fosgail le { -brand-short-name }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] 'S urrainn dhut na roghainnean atharrachadh ann an roghainnean { -brand-short-name }.
            *[other] 'S urrainn dhut na roghainnean atharrachadh ann an roghainnean { -brand-short-name }.
         }
+
 unknowncontenttype-intro = Chuir thu romhad na leanas fhosgladh:
 unknowncontenttype-which-is = a tha 'na:
 unknowncontenttype-from = o:

@@ -80,9 +80,6 @@
 <!ENTITY corruptedContentErrorv2.title "Mearachd air sgàth susbaint thruaillte">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Cha ghabh an duilleag a dh'iarr thu a shealltainn a chionn 's gun deach mearachd a lorg ann an tar-chur an dàta.</p><ul><li>Nach leig thu fios do sheilbheadairean na làraich-lìn mun duilgheadas seo?</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL cèin">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Cuir fios gu seilbheadairean na làraich mun duilgheadas seo.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Chan eil an ceangal agad tèarainte">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

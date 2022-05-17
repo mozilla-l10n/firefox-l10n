@@ -6,7 +6,6 @@ privatebrowsingpage-open-private-window-label = Fosgail uinneag phrìobhaideach
     .accesskey = p
 about-private-browsing-search-placeholder = Lorg air an lìon
 about-private-browsing-info-title = Tha thu ann an uinneag phrìobhaideach
-about-private-browsing-info-myths = Faoin-eòlas cumanta mu bhrabhsadh phrìobhaideach
 about-private-browsing-search-btn =
     .title = Lorg air an lìon
 # Variables
@@ -20,9 +19,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Dèan lorg le { $engine } no cuir a-steach seòladh
 about-private-browsing-handoff-text-no-engine = Cuir ann lorg no seòladh
 about-private-browsing-not-private = Chan eil thu ann an uinneag phrìobhaideach an-dràsta fhèin.
-about-private-browsing-info-description = Falamhaichidh { -brand-short-name } eachdraidh nan lorg is a’ bhrabhsaidh agad nuair a dh’fhàgas tu an aplacaid no nuair a dhùineas tu gach taba agus uinneag ann am brabhsadh prìobhaideach. Fhad ’s nach cuir seo am falach cò thusa mu choinneamh làraichean-lìn no solaraiche nan seirbheisean-lìn agad, cumaidh e na nì thu air loidhne am falach o dhaoine eile a chleachdas an coimpiutair seo.
-about-private-browsing-need-more-privacy = A bheil thu feumach air barrachd prìobhaideachd?
-about-private-browsing-turn-on-vpn = Feuch { -mozilla-vpn-brand-name }
 about-private-browsing-learn-more-link = Barrachd fiosrachaidh
 
 ## The following strings will be used for experiments in Fx99 and Fx100
@@ -39,5 +35,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Dùin
+
 about-private-browsing-promo-close-button =
     .title = Dùin

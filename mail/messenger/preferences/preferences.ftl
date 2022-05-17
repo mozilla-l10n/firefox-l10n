@@ -5,8 +5,6 @@
 close-button =
     .aria-label = Dùin
 
-preferences-doc-title = Roghainnean
-
 category-list =
     .aria-label = Roinnean-seòrsa
 
@@ -165,9 +163,6 @@ restore-default-label =
     .accesskey = r
 
 default-search-engine = An t-einnsean-luirg bunaiteach
-add-search-engine =
-    .label = Cuir ris o fhaidhle
-    .accesskey = a
 remove-search-engine =
     .label = Thoir air falbh
     .accesskey = r
@@ -196,8 +191,6 @@ change-dock-icon = Atharraich na roghainnean airson ìomhaigheag na h-aplacaid
 app-icon-options =
     .label = Roghainnean ìomhaigheag na h-aplacaid…
     .accesskey = n
-
-notification-settings = ’S urrainn dhut caismeachdan is an fhuaim bhunaiteach a chur às comas ann an leòsan nam brathan ann an roghainnean an t-siostaim.
 
 animated-alert-label =
     .label = Seall caismeachd
@@ -411,14 +404,6 @@ quoted-text-color =
 search-handler-table =
     .placeholder = Criathraich susbaint a-rèir seòrsaichean is gnìomhan
 
-type-column-label =
-    .label = Seòrsa na susbaint
-    .accesskey = t
-
-action-column-label =
-    .label = Gnìomh
-    .accesskey = G
-
 save-to-label =
     .label = Sàbhail faidhlichean ann an
     .accesskey = S
@@ -571,12 +556,6 @@ restore-html-label =
 default-format-label =
     .label = Cleachd fòrmat pharagrafan a ghnàth seach teacsa bodhaig
     .accesskey = p
-
-format-description = Rèitich giùlan fòrmat an teacsa
-
-send-options-label =
-    .label = Roghainnean a' chuir…
-    .accesskey = R
 
 autocomplete-description = Nuair a choileanar seòlaidhean de theachdaireachdan, thoir sùil airson clàir a fhreagras riutha an-seo:
 
@@ -858,8 +837,6 @@ theme-label =
     .value = Ùrlar:
     .accesskey = T
 
-style-thunderbird =
-    .label = Thunderbird
 style-bubbles =
     .label = Builgeanan
 style-dark =
@@ -877,27 +854,10 @@ chat-variant-label =
     .value = Eug-samhail:
     .accesskey = V
 
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-preferences-input =
-    .style = width: 15.4em
-    .placeholder = Lorg sna roghainnean
-
 ## Preferences UI Search Results
 
-search-results-header = Toraidhean luirg
+## Settings UI Search Results
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Tha sinn duilich ach chan eil toradh sam bith dhut sna roghainnean airson “<span data-l10n-name="query"></span>”.
-       *[other] Tha sinn duilich ach chan eil toradh sam bith dhut sna roghainnean airson “<span data-l10n-name="query"></span>”.
-    }
+search-results-header = Toraidhean luirg
 
 search-results-help-link = A bheil cobhair a dhìth ort? Tadhail air <a data-l10n-name="url">Taic { -brand-short-name }</a>

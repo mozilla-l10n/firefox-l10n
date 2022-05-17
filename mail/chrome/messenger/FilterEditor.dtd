@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Riaghailtean a' chriathraidh">
-<!ENTITY filterEditorDialog.dimensions "width: 150ch;">
 <!ENTITY filterName.label "Ainm na criathraige:">
 <!ENTITY filterName.accesskey "i">
 

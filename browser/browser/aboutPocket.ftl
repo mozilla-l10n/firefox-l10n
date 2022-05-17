@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Cuir tagaichean ris
+
 pocket-panel-saved-error-generic = Thachair mearachd nuair a dh’fheuch sinn ri rud a shàbhaladh ann am { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Chan fhaod taga a bhith nas fhaide na 25 caractar
 pocket-panel-saved-error-only-links = Cha ghabh ach ceanglaichean a shàbhaladh
@@ -47,6 +48,7 @@ pocket-panel-home-paragraph = ’S urrainn dhut { -pocket-brand-name } a chleach
 pocket-panel-home-explore-popular-topics = Rùraich sna cuspairean fèillmhor
 pocket-panel-home-discover-more = Fidir barrachd
 pocket-panel-home-explore-more = Rùraich
+
 pocket-panel-home-most-recent-saves = Seo na shàbhail thu o chionn goirid:
 pocket-panel-home-most-recent-saves-loading = A’ luchdadh na shàbhail thu o chionn goirid…
 pocket-panel-home-new-user-message = Faic na shàbhail thu o chionn goirid an-seo.

@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Barrachd fiosrachaidh">
 
 <!ENTITY e2eEnc.description "Às aonais crioptachadh ceann ri cheann, gheibh an solaraiche puist-d agad agus mòr-chaithris grèim air susbaint nan teachdaireachdan agad gun trioblaid.">
-<!ENTITY e2eeReqWarning.description "Ma tha thu ag iarraidh crioptachadh, feumaidh iuchair phoblach no teisteas gach faighteir a bhith agad.">
 
-<!ENTITY e2eSigning.description "Leigidh soidhneadh digiteach leis na faightearan dearbhadh gur e thu fhèin a chuir e agus nach deach an t-susbaint atharrachadh.">
 <!ENTITY e2eTechPref.description "An teicneolas crioptachaidh as fheàrr leat:">
 
-<!ENTITY doNotEncrypt.label "Na cuir an crioptachadh an comas o thùs">
-<!ENTITY doNotEncrypt.accesskey "N">
-<!ENTITY requireEncryptMessage.label "Iarr crioptachadh o thùs">
-<!ENTITY requireEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert2.message "Teisteas pearsanta a chùm crioptachadh:">
 <!ENTITY digitalSign.certificate.button "Tagh…">
 <!ENTITY digitalSign.certificate.accesskey "S">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Falamhaich">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Soidhneadh digiteach">
-<!ENTITY signMessage2.label "Cuir an soidhneadh digiteach agam ris o thùs">
-<!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert2.message "Teisteas pearsanta a chùm soidhneadh digiteach:">
 
 <!ENTITY sendingDefaults.label "Bun-roghainnean airson teachdaireachdan a chur">

@@ -115,7 +115,6 @@ unknownSocketType-title = Freagairt ris nach robh dùil on fhrithealaiche
 nssFailure2-title = Dh’fhàillig an ceangal tèarainte
 csp-xfo-error-title = Chan urrainn dha { -brand-short-name } an duilleag seo fhosgladh
 corruptedContentError-title = Mearachd air sgàth susbaint thruaillte
-remoteXUL-title = XUL cèin
 sslv3Used-title = Chan urrainn dhuinn ceangal tèarainte a dhèanamh
 inadequateSecurityError-title = Chan eil an ceangal agad tèarainte
 blockedByPolicy-title = Duilleag bhacte

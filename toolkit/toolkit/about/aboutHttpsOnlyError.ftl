@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-httpsonly-title-alert = Caismeachd a’ mhodh HTTPS a-mhàin
-about-httpsonly-title-connection-not-available = Chan eil ceangal tèarainte ri fhaighinn
 
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
