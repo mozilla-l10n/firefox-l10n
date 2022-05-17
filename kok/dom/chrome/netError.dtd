@@ -101,11 +101,6 @@
  मेळला</p><ul><li>ह्या आडमेळाविशीं कळीत करपाक मात्शे वेबसायटीच्या धनयाक 
  संपर्क करात.</li></ul>">
 
-<!ENTITY remoteXUL.title "रिमोट XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया ह्या समस्येची म्हायती दिवपाखातीर संकेतथळाच्या धनयांक संपर्क 
- करात. </li></ul></p>
-">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

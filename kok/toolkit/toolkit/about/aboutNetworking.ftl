@@ -14,7 +14,6 @@ about-networking-ssl = SSL
 about-networking-active = सक्रिय
 about-networking-idle = रिकमो
 about-networking-host = येजमान
-about-networking-tcp = TCP
 about-networking-sent = धाडला
 about-networking-received = मेळिले
 about-networking-family = कुटुंब

@@ -62,10 +62,6 @@ item-form-search-history =
 
 data-section-label = डेटा
 
-item-site-preferences =
-    .label = आवडीच्यो सायटी
-    .accesskey = स
-
 item-offline-apps =
     .label = ऑफलायन वॅबसायट डेटा
     .accesskey = ऑ

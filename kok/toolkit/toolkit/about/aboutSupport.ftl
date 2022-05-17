@@ -27,6 +27,7 @@ app-basics-build-config = संरचनाय बांधात
 app-basics-user-agent = वापरप्यालो एजंट
 app-basics-memory-use = मेमरीटो वापर
 app-basics-multi-process-support = भौप्रक्रिया विंडोज
+
 modified-key-prefs-title = गरजेची बदलिल्ली प्राधान्यां
 modified-prefs-name = नाव
 modified-prefs-value = मोल

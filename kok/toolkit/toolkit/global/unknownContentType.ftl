@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] { -brand-short-name } पर्यायान स्थापितां बदलुपाक शकता
            *[other] { -brand-short-name } प्राधान्यांन स्थापितां बदलुपाक शकता
         }
+
 unknowncontenttype-intro = तुमी उदडप निवडला:
 unknowncontenttype-from = सावन्:
 unknowncontenttype-prompt = तुमी ही धारिका जतन करपाक सोदता?

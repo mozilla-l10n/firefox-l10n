@@ -3,46 +3,65 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = अँड-ऑन वेवस्थापक
+
 search-header-shortcut =
     .key = f
+
 list-empty-installed =
     .value = तुमचेकडेन अश्या प्रकारचे अँड-ऑन स्थापीत केल्ले ना
+
 list-empty-available-updates =
     .value = सुदार उपलबाद ना
+
 list-empty-recent-updates =
     .value = तुमी हालीं कसलेच अँड-ऑन अपडेट केल्ले ना
+
 list-empty-find-updates =
     .label = अपडेटांखातीर तपासात
+
 list-empty-button =
     .label = अँड-ऑनाविशीं आनीक शिका
+
 detail-version =
     .label = आवृत्ती
+
 detail-last-updated =
     .label = निमणे सुदारिल्ले
+
 detail-contributions-description = ह्या अॅड-ऑनाचो विकासक तुमका सांगता की तुमी ल्हानशे योगदान दिवन तांच्या विकासाक मदत करची.
+
 detail-update-type =
     .value = आपसूक अपडेट
+
 detail-update-default =
     .label = डिफॉल्ट
     .tooltiptext = जर तेंच डिफॉल्ट आसल्यार अपडेट आपसूक स्थापीत करता
+
 detail-update-automatic =
     .label = चालू
     .tooltiptext = अपडेट आपसूक स्थापीत करता
+
 detail-update-manual =
     .label = बंद
     .tooltiptext = अपडेट आपसूक स्थापीत करूं नाका
+
 detail-home =
     .label = होमपेज
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = प्रोफायल जोडात
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = तपासा आनी अपडेटांखातीर
     .accesskey = f
     .tooltiptext = ह्या अँड ऑनाखातीर अपडेटा तपासात
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -59,10 +78,13 @@ detail-show-preferences =
             [windows] ह्या अॅड-ऑन्साचे पर्यायबदलात
            *[other] ह्या अॅड-ऑन्साची प्राधान्या बदलात
         }
+
 detail-rating =
     .value = रेटींग
+
 addon-restart-now =
     .label = आता परत चालू करात
+
 addon-category-extension = विस्तार
 addon-category-extension-title =
     .title = विस्तार
@@ -161,7 +183,10 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { -brand-short-name } { $version } संयत { $name } सुसंगत ना.
+
 details-notification-blocked = सुरक्षा आणि स्थैर्यतेच्या प्रस्नांक लागून { $name } अक्षम केला
 details-notification-blocked-link = अदिक माहिती
+
 details-notification-softblocked = { $name } क लागून सुरक्षा वो स्थैर्याचे प्रस्न उप्रासतले.
 details-notification-softblocked-link = अदिक माहिती
+

@@ -6,3 +6,5 @@ privatebrowsingpage-open-private-window-label = खाजगी विंडो 
     .accesskey = ख
 about-private-browsing-not-private = तुमी सद्या खाजगी विंडोन ना.
 
+## The following strings will be used for experiments in Fx99 and Fx100
+

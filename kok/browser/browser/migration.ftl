@@ -47,16 +47,8 @@ import-done-page-title = आयात पुराय
 
 import-done-description = मुखावेल्या वस्तींची आयात सफळ जाली:
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = { $source } सावन्
-
 source-name-ie = इंटरनेट एक्सप्लोरर
-source-name-safari = सफारी
 source-name-chrome = गुगल क्रोम
-source-name-firefox = मॉझिला फायरफॉक्स
 
 imported-safari-reading-list = वळेरी वाचता (सफारीतल्यान)
 

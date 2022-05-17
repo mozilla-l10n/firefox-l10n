@@ -64,8 +64,6 @@ was trying to connect. -->
 
 <!ENTITY errorReporting.learnMore "अदिक शिकात...">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>ह्या आडमेळा विशीं कळोवपाक मात्शे वेबसायट मालकांक संपर्क करात.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,

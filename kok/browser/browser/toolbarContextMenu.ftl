@@ -8,6 +8,7 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = थारायात...
     .accesskey = C
+
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = मेनू पट्टी
     .accesskey = म
