@@ -14,6 +14,13 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Anular
   
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
+##
+
 ## Displayed when the user clicked on a download in process. Indicates that the
 ## downloading file will be opened after certain amount of time using an app
 ## available in the system.
@@ -28,4 +35,11 @@ downloads-cmd-cancel-panel =
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = Anular lo chargement
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
 

@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Navigacion privâye)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Navigacion privâye)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navigacion privâye)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navigacion privâye)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -156,6 +158,7 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Recondre la barra d’otils de mârca pâges
            *[other] &Bârra de mârca pâges
         }
+
 bookmarks-toolbar-menu =
     .label = Bârra de mârca pâges
 
@@ -196,8 +199,18 @@ bookmarks-toolbar-menu =
 ##
 
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+##
+
 # Navigator Toolbox
 
 tabs-toolbar-list-all-tabs =
     .label = Listar totes les ongllètes
     .tooltiptext = Listar totes les ongllètes
+
+## Infobar shown at startup to suggest session-restore
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+

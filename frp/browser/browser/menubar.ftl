@@ -20,10 +20,6 @@ menu-application-hide-other =
 
 ##
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
 menu-about =
     .label = A propôs de { -brand-shorter-name }
     .accesskey = A
@@ -86,6 +82,3 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Ede
     .accesskey = E
-menu-help-feedback-page =
-    .label = Balyér vo‛tr’opinion…
-    .accesskey = B
