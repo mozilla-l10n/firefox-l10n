@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Compartir
     .accesskey = t
-tab-context-share-more =
-    .label = Mas…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -88,14 +86,6 @@ tab-context-reopen-closed-tabs =
            *[other] Tornar a ubrir las pestanyas zarradas
         }
     .accesskey = o
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Zarrar la pestanya
-            [one] Zarrar la pestanya
-           *[other] Zarrar las pestanyas
-        }
-    .accesskey = Z
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -111,6 +101,7 @@ tab-context-move-tabs =
            *[other] Mover las pestanyas
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

@@ -107,8 +107,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Informa d'errors como iste pa aduyar a Mozilla a identificar y blocar puestos dolents.">
 <!ENTITY errorReporting.learnMore "Saber-ne mas…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Meta-se en contacto con os propietarios d'o puesto web ta informar-les d'iste problema.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Información abanzada: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -134,9 +132,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Pareix que los suyos achustes de seguranza de ret sigan la causa d'isto. Quiere restaurar los achustes por defecto?">
 <!ENTITY prefReset.label "Restaurar los achustes por defecto">
-
-<!ENTITY enableTls10.longDesc "Ista pachina web no permite lo protocolo TLS 1.2, que ye la versión minima soportada por &brandShortName;. L'activación de TLS 1.0 y TLS 1.1 puede permitir que la connexión se faiga.">
-<!ENTITY enableTls10.note "TLS 1.0 y TLS 1.1 serán desactivaus pa cutio en bella versión futura.">
-<!ENTITY enableTls10.label "Activar TLS 1.0 y 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>La pachina que ye mirando de visualizar no se puede amostrar porque s'ha detectau un error en o procotolo de ret </p><ul><li>Per favor, contacte con os propietarios d'o puesto web pa informar-les d'este problema.</li></ul>">

@@ -41,10 +41,3 @@
 <!ENTITY useDefault.label               "Rest. valors predet.">
 <!ENTITY useDefault.accesskey           "R">
 
-<!ENTITY defaultBrowserGroup.label      "Navegador predeterminau">
-<!ENTITY defaultBrowserButton.label     "Establir navegador predeterminau">
-<!ENTITY defaultBrowserButton.accesskey "d">
-<!ENTITY alreadyDefaultText             "&brandShortName; ya ye o suyo navegador predeterminau.">
-<!ENTITY defaultPendingText             "&brandShortName; se convertirá en o suyo navegador predeterminau quan prete Acceptar.">
-<!ENTITY wasMadeDefaultText             "&brandShortName; has been set as your default browser.">
-<!ENTITY makeDefaultText                "Establir &brandShortName; como o suyo navegador predeterminau.">

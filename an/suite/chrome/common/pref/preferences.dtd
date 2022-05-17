@@ -28,13 +28,11 @@
 <!ENTITY images.label "Imachens">
 <!ENTITY popups.label "Finestras emerchents">
 <!ENTITY passwords.label "Claus d'acceso">
-<!ENTITY masterpass.label "Claus mayestras">
 <!ENTITY certs.label "Certificaus">
 
 <!ENTITY sync.label "Sync">
 
 <!ENTITY advance.label "Abanzadas">
-<!ENTITY scriptsAndWindows.label "Scripts &amp; Plugins">
 <!ENTITY keynav.label "Navegación con teclau">
 <!ENTITY findAsYouType.label "Trobar a medida que escribe">
 <!ENTITY cache.label "Caché">

@@ -16,15 +16,9 @@ newtab-search-box-search-button =
     .title = Mirar
     .aria-label = Mirar
 
-newtab-search-box-search-the-web-input =
-    .placeholder = Mirar en o Web
-    .title = Mirar en o Web
-    .aria-label = Mirar en o Web
-
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Anyadir motor de busqueda
-newtab-topsites-add-topsites-header = Nuevo puesto popular
 newtab-topsites-edit-topsites-header = Editar lo puesto popular
 newtab-topsites-title-label = Titol
 newtab-topsites-title-input =
@@ -170,7 +164,6 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = Mas freqüents
-newtab-section-header-highlights = Destacaus
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Recomendau per { $provider }
@@ -202,6 +195,9 @@ newtab-pocket-more-recommendations = Mas recomendacions
 newtab-pocket-learn-more = Saber-ne mas
 newtab-pocket-cta-button = Instala { -pocket-brand-name }
 newtab-pocket-cta-text = Alza los tuyos articlos preferius en { -pocket-brand-name }, y regala-te con lecturas fascinants.
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

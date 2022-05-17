@@ -8,10 +8,6 @@
 <!ENTITY pref.content.title                     "Conteniu">
 <!ENTITY pref.content.description               "Istas opciones influyen en cómo s'amuestra o conteniu de puestos web y mensaches en &brandShortName;.">
 
-<!ENTITY siteIcons.label                        "Iconos de puestos web">
-<!ENTITY useSiteIcons.label                     "Amostrar iconos de puestos web">
-<!ENTITY useSiteIcons.accesskey                 "A">
-
 <!ENTITY useSmoothScroll.label                  "Usar desplazamiento suau">
 <!ENTITY useSmoothScroll.accesskey              "U">
 
@@ -24,6 +20,4 @@
 
 <!ENTITY allowHWAccel.label                     "Usar aceleración hardware quan sía disponible">
 <!ENTITY allowHWAccel.accesskey                 "c">
-<!ENTITY blockAutoRefresh.label                 "Warn me when websites try to redirect or reload the page">
-<!ENTITY blockAutoRefresh.accesskey             "W">
 

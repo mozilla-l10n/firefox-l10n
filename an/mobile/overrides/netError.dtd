@@ -99,9 +99,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "<p>No habría d'adhibir una excepción si ye emplegando una connexión d'Internet que no i confía plenament u si no gosaba veyer una alvertencia en iste servidor.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "XUL remoto">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Meta-se en contacto con os propietarios d'o puesto web ta informar-les d'iste problema.</li></ul></p>">
-
 <!ENTITY sslv3Used.title "No s'ha puesto connectar de traza segura">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->

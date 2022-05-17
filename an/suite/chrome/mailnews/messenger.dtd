@@ -309,9 +309,6 @@
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Adchunto">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
-<!ENTITY editMsgAsNewCmd.label "Editar mensache como nuevo">
-<!ENTITY editMsgAsNewCmd.accesskey "E">
-<!ENTITY editMsgAsNewCmd.key "y">
 <!ENTITY createFilter.label "Creyar filtro a partir d'o mensache…">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY archiveMsgCmd.label "Archivar">
@@ -455,8 +452,6 @@
 <!ENTITY contextOpenNewWindow.accesskey "f">
 <!ENTITY contextOpenNewTab.label "Ubrir o mensache en una pestaña nueva">
 <!ENTITY contextOpenNewTab.accesskey "t">
-<!ENTITY contextEditAsNew.label "Editar como nuevo…">
-<!ENTITY contextEditAsNew.accesskey "E">
 <!ENTITY contextReplySender.label "Responder solament a o remitente">
 <!ENTITY contextReplySender.accesskey "o">
 <!ENTITY contextReplyList.label "Reply to List">

@@ -22,10 +22,6 @@ process-type-extension = Extensión
 # process used to open file:// URLs
 process-type-file = Fichero local
 
-# process used to isolate webpages that requested special
-# permission to allocate large amounts of memory
-process-type-weblargeallocation = Asignación gran
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Conteniu web aislau
