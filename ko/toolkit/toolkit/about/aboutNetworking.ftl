@@ -20,7 +20,6 @@ about-networking-ssl = SSL
 about-networking-active = 활성
 about-networking-idle = 대기
 about-networking-host = 호스트
-about-networking-tcp = TCP
 about-networking-type = 유형
 about-networking-sent = 보낸 데이터 양
 about-networking-received = 받은 데이터 양

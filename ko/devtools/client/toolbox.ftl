@@ -15,15 +15,19 @@ toolbox-meatball-menu-dock-bottom-label = 아래에 고정
 toolbox-meatball-menu-dock-left-label = 왼쪽에 고정
 toolbox-meatball-menu-dock-right-label = 오른쪽에 고정
 toolbox-meatball-menu-dock-separate-window-label = 분리된 창
+
 toolbox-meatball-menu-splitconsole-label = 콘솔 분할 보기
 toolbox-meatball-menu-hideconsole-label = 콘솔 분할 감추기
+
 toolbox-meatball-menu-settings-label = 설정
 toolbox-meatball-menu-documentation-label = 문서…
 toolbox-meatball-menu-community-label = 커뮤니티…
+
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = 팝업 자동 숨기기 비활성화
+
 toolbox-meatball-menu-pseudo-locale-accented = "악센트 부호" 로케일 활성화
 toolbox-meatball-menu-pseudo-locale-bidi = "양방향 텍스트(BiDi)" 로케일 활성화
 

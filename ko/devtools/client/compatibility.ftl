@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (사용되지 않음,
 compatibility-settings-button-label = 설정
 compatibility-settings-button-title =
     .title = 설정
-compatibility-feedback-button-label = 사용자 의견
-compatibility-feedback-button-title =
-    .title = 사용자 의견
 
 ## Messages used as headers in settings pane
 
@@ -41,9 +38,11 @@ compatibility-issue-occurrences =
     { $number ->
        *[other] { $number }회
     }
+
 compatibility-no-issues-found = 호환성 문제 없음.
 compatibility-close-settings-button =
     .title = 설정 닫기
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

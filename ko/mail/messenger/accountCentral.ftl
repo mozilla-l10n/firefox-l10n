@@ -42,7 +42,6 @@ newsgroups-label = 뉴스 그룹
 newsgroups-description = { -brand-short-name }를 사용하면 원하는 모든 뉴스 그룹에 연결할 수 있습니다.
 
 import-title = 다른 프로그램에서 가져 오기
-import-paragraph = { -brand-short-name }를 사용하면 다른 메일 프로그램 및 일반 주소록 형식에서 메일 메시지, 주소록 항목, 피드 구독, 환경 설정 또는 필터를 가져올 수 있습니다.
 
 import-label = 가져오기
     .aria-label = 다른 프로그램에서 데이터 가져오기

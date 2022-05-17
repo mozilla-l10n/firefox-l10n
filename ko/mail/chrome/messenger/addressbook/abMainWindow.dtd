@@ -108,6 +108,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "새 목록">
 <!ENTITY newlistButton.accesskey                        "L">
+
 <!ENTITY showAsDefault.label                            "기본 시작 디렉토리">
 <!ENTITY showAsDefault.accesskey                        "S">
 <!ENTITY editPropertiesButton.label                     "편집">

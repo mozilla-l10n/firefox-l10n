@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "프로파일러가 샘플을 채취했을 때 이 함수가 스택에 올라온 횟수입니다.">
 <!ENTITY performanceUI.table.function                 "함수">
 <!ENTITY performanceUI.table.function.tooltip         "샘플된 함수의 이름과 소스 위치입니다.">
-<!ENTITY performanceUI.table.totalAlloc               "전체 샘플 할당">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "이 위치와 피호출자 된 객체 할당 샘플의 수 입니다.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
