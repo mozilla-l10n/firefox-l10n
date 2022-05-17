@@ -8,10 +8,13 @@
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = Sistemska tema – samodejno
 extension-default-theme-description = Sledi nastavitvam operacijskega sistema za gumbe, menije in okna.
+
 extension-firefox-compact-light-name = Svetla
 extension-firefox-compact-light-description = Tema s svetlo barvno shemo.
+
 extension-firefox-compact-dark-name = Temna
 extension-firefox-compact-dark-description = Tema s temno barvno shemo.
+
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Uporabi barvit videz gumbov, menijev in oken.
 

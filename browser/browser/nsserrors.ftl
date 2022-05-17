@@ -12,16 +12,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Med povezovanjem na { $hostname } je prišlo do napake. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Koda napake: { $error }
+
 psmerr-ssl-disabled = Varna povezava ni mogoča, ker je bil protokol SSL onemogočen.
 psmerr-ssl2-disabled = Varna povezava ni mogoča, ker stran uporablja starejšo, nevarno različico protokola SSL.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Prejeli ste neveljavno digitalno potrdilo. Obrnite se na skrbnika strežnika ali pošljite elektronsko pošto odgovornim, a ne pozabite dodati naslednje vsebine:
     
     Vaše digitalno potrdilo vsebuje enako serijsko številko, kot drugo digitalno potrdilo, ki ga je izdala uradna oseba. Potrebovali boste novo digitalno potrdilo z unikatno serisjko številko.
+
 ssl-error-export-only-server = Varna komunikacija ni možna. Vrstnik ne podpira visoke stopnje šifriranja.
 ssl-error-us-only-server = Varna komunikacija ni možna. Vrstnik zahteva visoko stopnjo šifriranja, ki ni na voljo.
 ssl-error-no-cypher-overlap = Varna komunikacija z vrstnikom ni mogoča: na voljo ni skupnih šifrirnih algoritmov.

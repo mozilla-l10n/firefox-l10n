@@ -20,7 +20,6 @@ about-networking-ssl = SSL
 about-networking-active = Aktivno
 about-networking-idle = Mirovanje
 about-networking-host = Gostitelj
-about-networking-tcp = TCP
 about-networking-type = Vrsta
 about-networking-sent = Poslano
 about-networking-received = Prejeto

@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Število pojavitev funkcije na skladu, ko je bil med spremljanjem delovanja zajet vzorec.">
 <!ENTITY performanceUI.table.function                 "Funkcija">
 <!ENTITY performanceUI.table.function.tooltip         "Ime in lokacija vzorčene funkcije.">
-<!ENTITY performanceUI.table.totalAlloc               "Skupne vzorčne dodelitve">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Skupno število dodelitev objektov vzorčenih na tem mestu in v klicočih funkcijah.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

@@ -8,14 +8,10 @@ toolbar-context-menu-menu-bar =
 
 ## Tools Menu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-menu-tools-preferences =
-    .label = Nastavitve
-    .accesskey = N
 menu-tools-settings =
     .label = Nastavitve
     .accesskey = t
+
 menu-addons-and-themes =
     .label = Dodatki in teme
     .accesskey = D
@@ -25,9 +21,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Način za odpravljanje težav …
     .accesskey = r
+
 menu-help-exit-troubleshoot-mode =
     .label = Izključi način za odpravljanje težav
     .accesskey = I
+
 menu-help-more-troubleshooting-info =
     .label = Več podatkov za odpravljanje težav
     .accesskey = V
@@ -58,15 +56,19 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Gostota
     .accesskey = G
+
 mail-uidensity-compact =
     .label = Strnjeno
     .accesskey = S
+
 mail-uidensity-normal =
     .label = Običajno
     .accesskey = O
+
 mail-uidensity-touch =
     .label = Dotik
     .accesskey = D
+
 menu-spaces-toolbar-button =
     .label = Vrstica komponent
     .accesskey = k

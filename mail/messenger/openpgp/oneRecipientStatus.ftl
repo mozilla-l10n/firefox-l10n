@@ -27,3 +27,4 @@ openpgp-key-undecided = Ni sprejet (neodločeno)
 openpgp-key-rejected = Ni sprejet (zavrnjen)
 
 openpgp-intro = Razpoložljivi javni ključi za { $key }
+
