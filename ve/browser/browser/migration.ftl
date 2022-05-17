@@ -41,14 +41,7 @@ import-done-page-title = U ṱunḓa ho Fhela
 
 import-done-description = Zwiteṅwa zwi tevhelaho zwo ṱunḓiwa zwavhuḓi:
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = U bva kha { $source }
-
 source-name-ie = Internet Explorer
-source-name-safari = Safari
 
 ## Browser data types
 ## All of these strings get a $browser variable passed in.

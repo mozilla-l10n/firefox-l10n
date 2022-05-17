@@ -10,13 +10,6 @@
 <!-- Entities for Account Type page -->
 
 
-<!ENTITY accountTypeTitle.label "Mbaelano Ntswa yo thomiwa">
-<!ENTITY accountTypeDirections.label "Nangani mbalelano ine na khou ṱoḓa u i thoma:">
-<!ENTITY accountTypeMail.label "Mbalelano ya Emeiḽi">
-<!ENTITY accountTypeMail.accesskey "m">
-<!ENTITY accountTypeNews.label "Mbalelano ya Tshigwada tsha Mafhungo">
-<!ENTITY accountTypeNews.accesskey "f">
-
 <!-- Entities for Identity page -->
 
 
@@ -40,13 +33,6 @@
 
 <!-- Entities for Incoming Server page -->
 
-<!ENTITY incomingServerTypeDesc.label "Nangani lushaka lwa sheva ine ya khou dzhena lune na khou shumisa lwone.">
-<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
-<!ENTITY imapType.label "IMAP">
-<!ENTITY imapType.accesskey "I">
-<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
-<!ENTITY popType.label "POP">
-<!ENTITY popType.accesskey "P">
 <!-- for when the user has an SMTP server pre-configured -->
 <!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
      this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
@@ -64,20 +50,8 @@
 
 <!-- Entities for Outgoing Server page -->
 
-<!ENTITY haveSmtp1.prefix "Seva ire hone ya zwine zwa khou bvela nnḓa (SMTP), &quot;">
 <!-- Entities for Login page -->
 
-
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
--->
-<!ENTITY haveSmtp2.prefix "Dzina ḽa mushumisi ḽanu ḽo no vhaho hone (SMTP) &quot;">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
--->
-<!ENTITY haveSmtp3.prefix "Seva ya zwine zwa khou bvela nnda (SMTP), &quot;">
 
 <!-- Entities for Account name page -->
 
@@ -93,11 +67,5 @@
 
 <!ENTITY completionTitle.label "Ri a ni fhululedza!">
 <!ENTITY completionText.label "Ni khou humbelwa uri ni khwaṱhisedze zwauri vhutanzi vhure afho fhasi ndi hone.">
-<!ENTITY serverTypePrefix.label "Lushaka lwa Seva ya Mulaedza une wa khou dzhena:">
-<!ENTITY serverNamePrefix.label "Dzina ḽa Seva ya Mulaedza une wa khou Dzhena:">
-<!ENTITY smtpServerNamePrefix.label "Dzina ḽa Seva ya mulaedza une wa khou dzhena (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Dzina ḽa Seva ya mulaedza une wa khou bva (NNTP):">
-<!ENTITY downloadOnLogin.label "Vulani milaedza zwino">
-<!ENTITY deferStorageDesc.label "Ṱolululani heli bogisi la u tola u itela u vhulunga mulaedza wa hei mbalelano kha tsumbandila yawo. Hezwi zwi do ita uri hei mbalelano i vhonale sa mbalelano ya maimo a ntha. Zwa sa ralo, i do tshipida tsha mbalelano ya Folida Gute Yapo ya Bogisi la Ngomu.">
-<!ENTITY deferStorage.label "Shumisani Bogisi ḽa Ngomu la Guṱe (vhulungani mulaedza kha Folida Dzapo)">
 <!ENTITY clickFinish.label "Kiḽikani Magumo u vhulunga hedzi nzudzanyo nahone ni bve kha Wizathi ya Mbalelano.">
