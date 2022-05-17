@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "Ֆ">
 <!ENTITY attachPageCmd.label "Վեբ էջ...">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Անձնական քարտ (vCard)">
-<!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY remindLater.label "Հիշեցնել ավելի ուշ">
 <!ENTITY remindLater.accesskey "ո">
 <!ENTITY closeCmd.label "Փակել">
@@ -148,16 +145,6 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "Հասցնելու վիճակի տեղեկությունը">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY deliveryFormatMenu.label "Delivery Format">
-<!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "Ինքնաբացահայտում">
-<!ENTITY autoFormatCmd.accesskey "A">
-<!ENTITY plainTextFormatCmd.label "Միայն Սովորական տեքստ">
-<!ENTITY plainTextFormatCmd.accesskey "P">
-<!ENTITY htmlFormatCmd.label "Միայն հարուստ (HTML) տեքստ">
-<!ENTITY htmlFormatCmd.accesskey "R">
-<!ENTITY bothFormatCmd.label "Հասարակ կամ Հարստագիր (HTML) տեքստ">
-<!ENTITY bothFormatCmd.accesskey "ա">
 <!ENTITY priorityMenu.label "Առաջնահերթ-ը">
 <!ENTITY priorityMenu.accesskey "Ա">
 <!ENTITY priorityButton.title "Առաջնահերթություն">
@@ -221,7 +208,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Հասցեագրման դաշտերի այլ տեսակներ">
 <!ENTITY fromAddr2.label "Ումից">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY replyAddr2.label "Պատասխանել՝">

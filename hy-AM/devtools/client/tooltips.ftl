@@ -48,8 +48,6 @@ inactive-css-not-grid-or-flex-container-fix = Փորձեք ավելացնել <s
 
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Փորձեք ավելացնել կամ <strong>ցուցադրել․ցանցը</strong>, <strong>ցուցադրել․սնուցիչը</strong> կամ<strong>սյունյակներ․2</strong>։{ learn-more }
 
-inactive-css-not-grid-or-flex-item-fix-2 = Փորձեք ավելացնել <strong>ցուցադրել․ցանցը</strong>, <strong>ցուցադրել․սնուցիչը</strong>, <strong>ցուցադրել․ներտողային-ցանցը</strong> կամ <strong>ցուցադրել․ներտողային-սնուցիչը</strong>։ { learn-more }
-
 inactive-css-not-grid-item-fix-2 = Փորձեք բաղադրիչների վերդասում ավելացնել <strong>ցուցադրել․ցանցը</strong> կամ <strong>ցուցադրել․ներտողային֊ցանցը</strong>։ { learn-more }
 
 inactive-css-not-grid-container-fix = Փորձեք ավելացնել <strong>ցուցադրել․ցանցը</strong> կամ <strong>ցուցադրել․ներտողային-ցանցը</strong>։ { learn-more }

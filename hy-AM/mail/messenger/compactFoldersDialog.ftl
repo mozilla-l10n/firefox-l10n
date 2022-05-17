@@ -9,3 +9,4 @@ compact-dialog =
     .buttonaccesskeycancel = R
     .buttonlabelextra1 = Իմանալ ավելին…
     .buttonaccesskeyextra1 = L
+

@@ -21,10 +21,6 @@ process-type-extension = Ընդլայնում
 # process used to open file:// URLs
 process-type-file = Տեղային ֆայլ
 
-# process used to isolate webpages that requested special
-# permission to allocate large amounts of memory
-process-type-weblargeallocation = Խոշոր բաշխում
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = ՄԵկուսացված վեբ բովանդակություն

@@ -67,6 +67,7 @@ app-basics-location-service-key-google = Google Տեղադրության ծառ�
 app-basics-safebrowsing-key-google = Google անվտանգ զննարկման բանալի
 app-basics-key-mozilla = Mozilla-ի տեղադրության ծառայության բանալի
 app-basics-safe-mode = Ապահով կերպ
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Ցույց տալ Finder -ում

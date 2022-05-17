@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+## Window controls
+
 about-rights-notification-text = { -brand-short-name }-ը անվճար և բաց կոդով ծրագրակազմ է, որը կառուցվել է աշխարհի տարբեր երկրների հազարավորների համայնքի կողմից:
 
 ## Content tabs
@@ -37,6 +39,8 @@ appmenu-addons-and-themes =
 ## Message header pane
 
 
+## Message header cutomize panel
+
 ## Action Button Context Menu
 
 
@@ -47,4 +51,12 @@ appmenu-addons-and-themes =
 
 
 ## no-reply handling
+
+## error messages
+
+## Spaces toolbar
+
+## Spaces toolbar pinned tab menupopup
+
+## Spaces toolbar customize panel
 

@@ -18,7 +18,6 @@ about-networking-ssl = SSL
 about-networking-active = Ակտիվ
 about-networking-idle = Անգործ
 about-networking-host = Հոսթ
-about-networking-tcp = TCP
 about-networking-sent = Ուղարկված
 about-networking-received = Ստացված
 about-networking-family = Ընտանիք

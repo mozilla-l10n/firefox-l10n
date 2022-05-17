@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Առաջարկվող հատկություն
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Ինչու եմ ես սա տեսնում
+
 cfr-doorhanger-extension-cancel-button = Ոչ հիմա
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Ավելացնել հիմա
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = Կառավարել երաշխավորվող կարգավորումները
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = Չցուցադրել ինձ այս երաշխավորությունները
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = Իմանալ ավելին
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name }-ի կողմից
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Երաշխավորություն
 cfr-doorhanger-extension-notification2 = Երաշխավորություն
     .tooltiptext = Ընդլայնման երաշխավորություն
     .a11y-announcement = Հասանելի ընդլայնման երաշխավորություն
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Երաշխավորություն
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Իմանալ ավելին
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Նոր հատկություն․
+
 cfr-whatsnew-button =
     .label = Ինչն է նոր
     .tooltiptext = Ինչն է նոր
+
 cfr-whatsnew-release-notes-link-text = Կարդալ թողարկման գրառումները
 
 ## Enhanced Tracking Protection Milestones
@@ -122,6 +132,8 @@ cfr-doorhanger-video-support-header = Թարմացրեք { -brand-short-name }-�
 cfr-doorhanger-video-support-primary-button = Թարմացնել Հիմա
     .accesskey = U
 
+## Spotlight modal shared strings
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
@@ -132,3 +144,8 @@ spotlight-public-wifi-vpn-primary-button = Մնացեք գաղտնի { -mozilla-
     .accesskey = S
 spotlight-public-wifi-vpn-link = Ոչ հիմա
     .accesskey = N
+
+## Total Cookie Protection Rollout
+
+## Emotive Continuous Onboarding
+

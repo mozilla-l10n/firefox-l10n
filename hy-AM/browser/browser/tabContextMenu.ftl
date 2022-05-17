@@ -84,14 +84,6 @@ tab-context-reopen-closed-tabs =
            *[other] Կրկին բացել ներդիրները
         }
     .accesskey = o
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Փակել ներդիրը
-            [one] Փակել ներդիրները
-           *[other] Փակել ներդիրները
-        }
-    .accesskey = C
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -108,6 +100,7 @@ tab-context-move-tabs =
            *[other] Տեղափոխել ներդիրները
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

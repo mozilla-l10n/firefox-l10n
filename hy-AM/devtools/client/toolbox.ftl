@@ -15,11 +15,14 @@ toolbox-meatball-menu-dock-bottom-label = Հարակցել վար
 toolbox-meatball-menu-dock-left-label = Հարակցել ձախ
 toolbox-meatball-menu-dock-right-label = Հարակցել աջ
 toolbox-meatball-menu-dock-separate-window-label = Առանձնացված պատուհան
+
 toolbox-meatball-menu-splitconsole-label = Ցուցադրել բաժանման վահանակ
 toolbox-meatball-menu-hideconsole-label = Թաքցնել բաժանման վահանակ
+
 toolbox-meatball-menu-settings-label = Կարգավորումներ
 toolbox-meatball-menu-documentation-label = Փաստաթղթավորում…
 toolbox-meatball-menu-community-label = Համայնք…
+
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.

@@ -13,12 +13,6 @@ downloads-panel =
 
 ##
 
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-
 downloads-cmd-pause =
     .label = Ընդմիջել
     .accesskey = P
@@ -30,15 +24,10 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Չեղարկել
 
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = Բացել թղթապանակը
-    .accesskey = F
-
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = Ցուցադրել Finder-ում
-    .accesskey = F
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
 downloads-cmd-use-system-default =
     .label = Բացել համակարգի դիտակում
@@ -48,25 +37,7 @@ downloads-cmd-always-use-system-default =
     .label = Միշտ բացել համակարգի դիտակում
     .accesskey = w
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] Ցուցադրել Finder-ում
-           *[other] Բացել թղթապանակը
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] Ցուցադրել Finder-ում
-           *[other] Բացել թղթապանակը
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] Ցուցադրել Finder-ում
-           *[other] Բացել թղթապանակը
-        }
+##
 
 downloads-cmd-show-downloads =
     .label = Ցուցադրել Ներբեռնումներ պանակը
@@ -162,6 +133,13 @@ downloads-history =
 downloads-details =
     .title = Ներբեռնմանի մանրամասները
 
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
+
 downloads-clear-downloads-button =
     .label = Մաքրել ներբեռնումները
     .tooltiptext = Հեռացնում է ավարտված, չեղարկված և ձախողված ներբեռնումները
@@ -174,3 +152,4 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Չկան ներբեռնումներ այս աշխատաշրջանում:
+

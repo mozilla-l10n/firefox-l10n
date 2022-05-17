@@ -111,8 +111,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Հաղորդեք նման սխալների մասին՝ օգնելու համար Mozilla-ին գտնելու և արգելափակելու վնասակար կայքերը">
 <!ENTITY errorReporting.learnMore "Իմանալ ավելին…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Խնդրում ենք, կապնվեք վեբ կայքի սեփականատերերի հետ` այս խնդրի մասին տեղեկացնելու համար:</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Լրացուցիչ՝ SSL_ERROR_UNSUPPORTED_VERSION">
@@ -138,9 +136,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Կարծես՝ ձեր ցանցի անվտանգության կարգավորումները առաջացնել սա: Վերականգնե՞լ հիմնական կարգավորումները:">
 <!ENTITY prefReset.label "Վերականգնել հիմնական կարգավորումները">
-
-<!ENTITY enableTls10.longDesc "Այս կայքը հնարավոր է չի աջակցում TLS 1.2 հաղորդակարգը, որը &brandShortName;-ի կողմից աջակցվող ամենացածր տարբերակն է: TLS 1.0 և TLS 1.1-ի միացումը կարող է հաջողել այս կապակցումը:">
-<!ENTITY enableTls10.note "TLS 1.0 և TLS 1.1 մշտապես կանջատվի ապագա թողարկումում։">
-<!ENTITY enableTls10.label "Միացնել TLS 1.0 և 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Էջը, որ ցանկանում եք դիտել չի կարող ցուցադրվել, քանզի հայտնաբերվել է ցանցի հաղորդակարգի սխալ:</p><ul><li>Կապնվեք կայքի սեփականատերերի հետ՝  նրանց այդ մասին հաղորդելու համար:</li></ul>">

@@ -71,16 +71,8 @@ mobile-app-card-content = Օգտագործեք բջջային զննարկիչը
 mobile-app-links = { -brand-product-name } զննարկիչը <a data-l10n-name="android-mobile-inline-link">Android</a>-ի և <a data-l10n-name="ios-mobile-inline-link">iOS</a>-ի համար
 
 lockwise-title = Այլևս երբեք չմոռանալ գաղտնաբառը
-lockwise-title-logged-in2 = Գաղտնաբառերի կառավարում
-lockwise-header-content = { -lockwise-brand-name } ապահով պահպանում է ձեր գաղտնաբառերը ձեր զննարկիչում:
 lockwise-header-content-logged-in = Ապահով պահեք և համաժամացրեք ձեր գաղտնաբառերը ձեր բոլոր սարքերում:
-protection-report-save-passwords-button = Պահպանել գաղտնաբառեր
-    .title = Պահպանել գաղտնաբառերը { -lockwise-brand-short-name }-ում
-protection-report-manage-passwords-button = Պահպանել գաղտնաբառեր
-    .title = Պահպանել գաղտնաբառեր { -lockwise-brand-short-name }-ում
-lockwise-mobile-app-title = Վերցրեք ձեր գաղտնաբառերը ամենուր
-lockwise-no-logins-card-content = Ցանկացած սարքում օգտագործեք { -brand-short-name }-ով պահված գաղտնաբառերը:
-lockwise-app-links = { -lockwise-brand-name }-ը <a data-l10n-name="lockwise-android-inline-link">Android</a>-ի և <a data-l10n-name="lockwise-ios-inline-link">iOS</a>-ի համար
+
 
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
