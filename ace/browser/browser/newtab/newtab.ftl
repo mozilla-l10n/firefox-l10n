@@ -16,15 +16,9 @@ newtab-search-box-search-button =
     .title = Mita
     .aria-label = Mita
 
-newtab-search-box-search-the-web-input =
-    .placeholder = Mita Web
-    .title = Mita Web
-    .aria-label = Mita Web
-
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Tamah Meusén Mita
-newtab-topsites-add-topsites-header = Situih Paléng Ateuëh Barô
 newtab-topsites-edit-topsites-header = Ubah Situih Paléng Ateuëh
 newtab-topsites-title-label = Nan
 newtab-topsites-title-input =
@@ -145,7 +139,6 @@ newtab-section-menu-privacy-notice = Keubijakan Privasi
 ## Section Headers.
 
 newtab-section-header-topsites = Situih Paléng Ateuëh
-newtab-section-header-highlights = Keunalön
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Geu-usui uléh { $provider }
@@ -167,6 +160,9 @@ newtab-empty-section-topstories = Ka gura hai rakan. Ntruek neugisa lom beh? man
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Bhaih Meusyeuhu:
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

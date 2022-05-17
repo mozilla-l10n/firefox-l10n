@@ -35,15 +35,6 @@ menu-quit =
            *[other] Q
         }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Teubiët { -brand-shorter-name }
-
 menu-about =
     .label = Bhaih { -brand-shorter-name }
     .accesskey = A
@@ -70,18 +61,12 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Peuhah Beureukaih…
     .accesskey = O
-menu-file-close =
-    .label = Tôp
-    .accesskey = C
 menu-file-close-window =
     .label = Tôp Tingkap
     .accesskey = d
 menu-file-print-setup =
     .label = Atô Laman...
     .accesskey = u
-menu-file-print-preview =
-    .label = Seuneudeuih Rakam
-    .accesskey = v
 menu-file-print =
     .label = Rakam...
     .accesskey = P
@@ -180,6 +165,3 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Beunantu
     .accesskey = H
-menu-help-feedback-page =
-    .label = Kirém Feedback…
-    .accesskey = S

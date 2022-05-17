@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Jeunajah Rahsia)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Jeunajah Rahsia)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Jeunajah Rahsia)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Jeunajah Rahsia)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -72,6 +74,7 @@ browser-main-window-title = { -brand-full-name }
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ubah peuatô mita
+
 search-one-offs-context-open-new-tab =
     .label = Mita nibak Tab Barô
     .accesskey = T
@@ -89,6 +92,7 @@ search-one-offs-context-open-new-tab =
 bookmark-panel-cancel =
     .label = Bateuë
     .accesskey = B
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -98,6 +102,7 @@ bookmark-panel =
 ## Identity Panel
 
 identity-connection-file = Ônmiëng nyoë teukeubah lam komputer droëneuh.
+
 identity-learn-more =
     .value = Meurunoë Lom
 
@@ -150,6 +155,8 @@ popup-all-windows-shared = Mandum windows nyang deuh bak layeu droen keuneuk jib
 # Variables
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> jinoe nakeuh layeue peunoh
+
+
 fullscreen-exit-button = Teubiet Layeue Peunoh (ESC)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Teubiet Peunoh Layeu (esc)
@@ -165,6 +172,7 @@ bookmarks-menu-button =
     .label = Menu Peutanda
 bookmarks-other-bookmarks-menu =
     .label = Peutanda Laén
+
 bookmarks-toolbar-menu =
     .label = Bar Alat Peutanda
 bookmarks-toolbar-placeholder =
@@ -188,9 +196,6 @@ library-bookmarks-menu =
 
 ## More items
 
-more-menu-go-offline =
-    .label = Mubuet Maté Lèn
-    .accesskey = k
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
@@ -221,19 +226,34 @@ ui-tour-info-panel-close =
 ##
 
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+##
+
 # Navigator Toolbox
 
 navbar-downloads =
     .label = Beureukaih teukeubah
+
 navbar-overflow =
     .tooltiptext = Peukakah laén…
+
 navbar-home =
     .label = Ônkeuë
     .tooltiptext = Ônkeuë { -brand-short-name }
+
 navbar-search =
     .title = Mita
+
 tabs-toolbar-new-tab =
     .label = Tab Barô
+
 tabs-toolbar-list-all-tabs =
     .label = Peudapeuta ban dum tab
     .tooltiptext = Peudapeuta ban dum tab
+
+## Infobar shown at startup to suggest session-restore
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+

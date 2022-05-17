@@ -6,3 +6,5 @@ privatebrowsingpage-open-private-window-label = Neupeuhah saboh tingkap rahsia
     .accesskey = R
 about-private-browsing-not-private = Droeneuh jinoe hana bak tingkap rahsia droeneuh.
 
+## The following strings will be used for experiments in Fx99 and Fx100
+

@@ -37,14 +37,7 @@ import-select-profile-page-title = Piléh Profil
 
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
-source-name-safari = Safari
-source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
-source-name-chrome-beta = Google Chrome Beta
-source-name-chrome-dev = Google Chrome Dev
-source-name-chromium = Chromium
-source-name-firefox = Mozilla Firefox
-source-name-360se = 360 Secure Browser
 
 ## Browser data types
 ## All of these strings get a $browser variable passed in.

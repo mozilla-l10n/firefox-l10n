@@ -6,6 +6,7 @@ support-addons-name = Nan
 security-software-name = Nan
 features-name = Nan
 app-basics-name = Nan
+
 modified-prefs-name = Nan
 locked-prefs-name = Nan
 
