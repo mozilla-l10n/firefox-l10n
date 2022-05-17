@@ -78,23 +78,9 @@ import-done-description = Jami magi okele maber ki woko:
 
 import-close-source-browser = Tim ber inen ni layeny ma kiyero ni kiloro woko mapud pe imede anyim.
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Ki i { $source }
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
-source-name-edge-beta = Microsoft Edge Beta
-source-name-safari = Safari
-source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
-source-name-chrome-beta = Google Chrome Beta
-source-name-chrome-dev = Google Chrome Dev
-source-name-chromium = Chromium
-source-name-firefox = Mozilla Firefox
-source-name-360se = 360 layeny ma tye ki ber bedo
 
 imported-safari-reading-list = Kwano nying (Ki i Safari)
 imported-edge-reading-list = Jami akwana (Ki i Edge)

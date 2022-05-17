@@ -16,15 +16,9 @@ newtab-search-box-search-button =
     .title = Yeny
     .aria-label = Yeny
 
-newtab-search-box-search-the-web-input =
-    .placeholder = Yeny kakube
-    .title = Yeny kakube
-    .aria-label = Yeny kakube
-
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Med ingin me yeny
-newtab-topsites-add-topsites-header = Kakube maloyo manyen
 newtab-topsites-edit-topsites-header = Yub Kakube maloyo
 newtab-topsites-title-label = Wiye madit
 newtab-topsites-title-input =
@@ -157,7 +151,6 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = Kakube maloyo
-newtab-section-header-highlights = Wiye madito
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Lami tam obedo { $provider }
@@ -188,6 +181,9 @@ newtab-pocket-read-more = Lok macuk gi lamal:
 newtab-pocket-learn-more = Nong ngec mapol
 newtab-pocket-cta-button = Nong { -pocket-brand-name }
 newtab-pocket-cta-text = Gwok lok ma imaro ii { -pocket-brand-name }, ka i pik wii ki jami me akwana ma mako wii.
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

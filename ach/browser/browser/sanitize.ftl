@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Tic
 
-item-site-preferences =
-    .label = Ter me kakube
-    .accesskey = k
-
 item-offline-apps =
     .label = Tic me kakube ma pe iyamo
     .accesskey = T

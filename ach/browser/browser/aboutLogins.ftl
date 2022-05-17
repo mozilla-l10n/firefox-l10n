@@ -4,9 +4,12 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Donyo iyie ki Mung me donyo
+
 login-filter =
     .placeholder = Yeny Donyo iyie
+
 create-login-button = Cwe Donyo iyie manyen
+
 fxaccounts-sign-in-text = Nong mung me donyo mamegi i nyonyo ni mukene
 fxaccounts-avatar-button =
     .title = Lo akaunt
@@ -56,8 +59,6 @@ about-logins-list-section-week = Nino 7 ma giko
 ## Introduction screen
 
 login-intro-description = Kacce igwoko donyo iyie mamegi i { -brand-product-name } i nyonyo mukene, man aye kit ma itwero nongo gi kany:
-login-intro-instructions-fxa-help = Lim <a data-l10n-name="help-link">{ -lockwise-brand-short-name } pi Kony</a> mapol
-about-logins-intro-import = Kacce kigwoko donyo iyie mamgei ii layeny mukene, itwero <a data-l10n-name="import-link">kelo gi ki woko ii { -lockwise-brand-short-name }</a>
 login-intro-instructions-fxa-passwords-help = Lim <a data-l10n-name="passwords-help-link">pi kony mapol</a> ikom mung me donyo.
 about-logins-intro-browser-only-import = Kacce kigwoko donyo iyie mamgei ii layeny mukene, itwero <a data-l10n-name="import-link">kelo gi ki woko ii { -brand-product-name }</a>
 about-logins-intro-import2 = Kacce kigwoko donyo iyie mamegi woko pa { -brand-product-name }, itwero <a data-l10n-name="import-browser-link">kelo gi ki i layeny mukene</a> onyo <a data-l10n-name="import-file-link">ki i pwail</a>
@@ -98,6 +99,7 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = yub donyo iyie ma kigwoko ni
+
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = nyut mung me donyo ma kigwoko ni
@@ -113,31 +115,38 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Juki
 confirmation-dialog-dismiss-button =
     .title = Juki
+
 about-logins-confirm-remove-dialog-title = Kwany donyo iyie man?
 confirm-delete-dialog-message = Pe ki twero gonyo tic man.
 about-logins-confirm-remove-dialog-confirm-button = Kwany
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Kwany
        *[other] Kwany Weng
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Eyo, kwany donyo iyie man
        *[other] Eyo, kwany donyo iyie magi
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Kwany donyo iyie { $count }?
        *[other] Kwany donyo iyie { $count } weng?
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Kwany donyo iyie { $count } ki i nyonyo weng?
        *[other] Kwany donyo iyie { $count } weng ki i nyonyo weng?
     }
+
 about-logins-confirm-export-dialog-message = Kibigwoko mung me donyo mamegi calo coc ma kwane (labolle, BadP@ssw0rd) pi meno ngat ma twero yabo pwail ma kicwalo woko ni twero neno gi.
 about-logins-confirm-export-dialog-confirm-button = Cwal woko...
+
 confirm-discard-changes-dialog-message = Alokaloka weng ma pe kigwoko bi rweny woko.
 
 ## Breach Alert notification
@@ -172,6 +181,7 @@ about-logins-import-file-picker-import-button = Kel ki woko
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-done = Otum
+
 about-logins-import-dialog-error-learn-more = Nong ngec mapol
 about-logins-import-dialog-error-cancel = Juki
 

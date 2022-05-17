@@ -26,9 +26,8 @@ protections-close-button2 =
 mobile-app-links = { -brand-product-name } Layeny pi <a data-l10n-name="android-mobile-inline-link">Android</a> ki <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 
 lockwise-title = Pe wii wil mung me donyo doki matwal
-lockwise-header-content = { -lockwise-brand-name } gwoko maber mung me donyo ni i layeny mamegi.
 lockwise-header-content-logged-in = Gwok ka i rib maber mung me donyo mamegi i nyonyo ni weng.
-lockwise-app-links = { -lockwise-brand-name } pi <a data-l10n-name="lockwise-android-inline-link">Android</a> ki <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+
 
 lockwise-how-it-works-link = Kit ma tiyo kwede
 

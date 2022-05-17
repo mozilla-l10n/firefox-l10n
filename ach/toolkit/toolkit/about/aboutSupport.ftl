@@ -39,6 +39,7 @@ app-basics-service-workers = Service Workers ma kicoyo
 app-basics-profiles = Propwail
 app-basics-multi-process-support = Dirica me tic mapol
 app-basics-safe-mode = Kit maber
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Nyut i Gin manongo

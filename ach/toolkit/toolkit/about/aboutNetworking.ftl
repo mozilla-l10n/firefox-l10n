@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = Tye katic
 about-networking-idle = Pe tye ka tic
 about-networking-host = Lami kube
-about-networking-tcp = TCP
 about-networking-sent = Kicwalo
 about-networking-received = Kigamo
 about-networking-family = Gang

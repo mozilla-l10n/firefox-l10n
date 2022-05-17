@@ -107,7 +107,6 @@ unknownSocketType-title = Lagam ma pe kibedo ka kuro ki bot lapok tic
 nssFailure2-title = Kube ma tye ki ber bedo pe olare
 csp-xfo-error-title = { -brand-short-name } Pe Twero Yabo Potbuk Man
 corruptedContentError-title = Bal me jami matye iye ma oballe
-remoteXUL-title = XUL ma tye wa kama bor
 sslv3Used-title = Pe twero kube ma ber bedo tye
 inadequateSecurityError-title = Kube ni pe tye ki ber bedo
 blockedByPolicy-title = Potbuk ma kigengo

@@ -18,12 +18,14 @@ videocontrols-casting-button-label =
     .aria-label = Ket i wang komputa
 videocontrols-closed-caption-off =
     .offlabel = Pe tye
+
 videocontrols-error-aborted = Kijuko woko cano vidio.
 videocontrols-error-network = Kijuko woko tuko vidio malube ki bal me netwak.
 videocontrols-error-decode = Pe kitwero tuko vidio pien pwail ne obale woko.
 videocontrols-error-src-not-supported = Pe kicwako kit onyo MIME me vidio ne.
 videocontrols-error-no-source = Pe kinongo vidio mo ki kit ma kicwako onyo MIME.
 videocontrols-error-generic = Kijuko woko tuko vidio malube ki bal me pe ngene.
+
 # This message shows the current position and total video duration
 #
 # Variables:

@@ -86,8 +86,6 @@
 <!ENTITY errorReporting.automatic2 "Mi ripot me bal calo man me konyo Mozilla nongo ki gengo kakube ma raco">
 <!ENTITY errorReporting.learnMore "Nong ngec mapol…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Tim ber i kube ki wegi kakube pi mini gi ngec pi peko man.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Ngec ma lamal: SSL_ERROR_UNSUPPORTED_VERSION">

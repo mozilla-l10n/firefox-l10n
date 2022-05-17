@@ -41,3 +41,7 @@ pocket-panel-signup-tagline-story-two = Nen i { -pocket-brand-name } ki i nyonyo
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

@@ -39,15 +39,6 @@ menu-quit =
 menu-quit-mac =
     .label = Wek { -brand-shorter-name }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Kat woko ki i { -brand-shorter-name }
-
 menu-about =
     .label = Ikom { -brand-shorter-name }
     .accesskey = I
@@ -77,9 +68,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Yab pwail…
     .accesskey = Y
-menu-file-close =
-    .label = Lor
-    .accesskey = L
 menu-file-close-window =
     .label = Lor dirica
     .accesskey = c
@@ -92,9 +80,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Tero Pot Buk…
     .accesskey = t
-menu-file-print-preview =
-    .label = Nen kit ma obibedo ka ki goyo
-    .accesskey = e
 menu-file-print =
     .label = Go…
     .accesskey = G
@@ -270,9 +255,6 @@ menu-help =
     .accesskey = K
 menu-help-report-site-issue =
     .label = Mi ripot ikom peko me kakube…
-menu-help-feedback-page =
-    .label = Cwal adwogi ne…
-    .accesskey = C
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
