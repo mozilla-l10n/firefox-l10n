@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Add Tags
+
 pocket-panel-saved-error-generic = There was an error when trying to save to { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Tags are limited to 25 characters
 pocket-panel-saved-error-only-links = Only links can be saved
@@ -29,6 +30,7 @@ pocket-panel-saved-saving-tags = Saving…
 pocket-panel-saved-suggested-tags = Suggested Tags
 pocket-panel-saved-tags-saved = Tags Added
 pocket-panel-signup-view-list = View List
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Add Tags:
 
@@ -43,7 +45,7 @@ pocket-panel-signup-signup-firefox = Sign up with { -brand-product-name }
 pocket-panel-signup-tagline = Save articles and videos from { -brand-product-name } to view in { -pocket-brand-name } on any device, any time.
 pocket-panel-signup-tagline-story-one = Click the { -pocket-brand-name } Button to save any article, video or page from { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = View in { -pocket-brand-name } on any device, any time.
-pocket-panel-signup-cta-a = Your save button for the internet.
+
 pocket-panel-signup-cta-a-fix = Your save button for the internet
 pocket-panel-signup-cta-b = Click the { -pocket-brand-name } button to save articles, videos, and links. View your list on any device, any time.
 pocket-panel-signup-cta-b-short = Click the { -pocket-brand-name } button to save articles, videos, and links.
@@ -57,6 +59,7 @@ pocket-panel-home-paragraph = You can use { -pocket-brand-name } to explore and 
 pocket-panel-home-explore-popular-topics = Explore Popular Topics
 pocket-panel-home-discover-more = Discover More
 pocket-panel-home-explore-more = Explore
+
 pocket-panel-home-most-recent-saves = Here are your most recent saves:
 pocket-panel-home-most-recent-saves-loading = Recent saves loading…
 pocket-panel-home-new-user-cta = Click the { -pocket-brand-name } button to save articles, videos, and links.
@@ -70,6 +73,5 @@ pocket-panel-header-sign-in = Sign In
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Show All
-pocket-panel-button-add-tags = Add Tags
 pocket-panel-button-activate = Activate { -pocket-brand-name } in { -brand-product-name }
 pocket-panel-button-remove = Remove
