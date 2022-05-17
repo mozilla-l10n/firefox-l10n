@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = 取消
 screenshots-overlay-instructions = 拖拽或单击选择截图区域，按 ESC 键取消截图。
+screenshots-overlay-download-button = 下载
+screenshots-overlay-copy-button = 复制
