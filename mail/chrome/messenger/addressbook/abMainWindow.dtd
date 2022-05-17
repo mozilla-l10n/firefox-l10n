@@ -70,6 +70,7 @@
 
 <!ENTITY newlistButton.label                            "નવી યાદી">
 <!ENTITY newlistButton.accesskey                        "L">
+
 <!ENTITY newmsgButton.label                             "લખો">
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "તુરંત સંદેશો">

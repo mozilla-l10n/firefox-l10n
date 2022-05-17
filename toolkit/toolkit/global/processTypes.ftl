@@ -13,10 +13,6 @@ process-type-extension = ઍક્સટેન્શન
 # process used to open file:// URLs
 process-type-file = સ્થાનિક ફાઈલ
 
-# process used to isolate webpages that requested special
-# permission to allocate large amounts of memory
-process-type-weblargeallocation = મોટી ફાળવણી
-
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
 ##

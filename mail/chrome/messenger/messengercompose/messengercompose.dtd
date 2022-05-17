@@ -16,9 +16,6 @@
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachPageCmd.label "વેબ પાનું...">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "ખાનગી કાર્ડ (vCard)">
-<!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY closeCmd.label "બંધ કરો">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "c">
@@ -100,14 +97,6 @@
 
 <!ENTITY returnReceiptMenu.label "રસીદ મળી">
 <!ENTITY returnReceiptMenu.accesskey "t">
-<!ENTITY autoFormatCmd.label "આપોઆપ-શોધો">
-<!ENTITY autoFormatCmd.accesskey "a">
-<!ENTITY plainTextFormatCmd.label "માત્ર સાદું લખાણ">
-<!ENTITY plainTextFormatCmd.accesskey "p">
-<!ENTITY htmlFormatCmd.label "માત્ર ધનવાન લખાણ (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "r">
-<!ENTITY bothFormatCmd.label "સાદું અને ધનવાન (HTML) લખાણ">
-<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "પ્રાધાન્ય">
 <!ENTITY priorityMenu.accesskey "p">
 <!ENTITY priorityButton.label "પ્રાધાન્ય:">
