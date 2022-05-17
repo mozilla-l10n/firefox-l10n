@@ -231,6 +231,7 @@ openpgp-key-man-key-details-key =
 
 openpgp-key-details-title =
     .title = Propriedades da chave
+
 openpgp-key-details-signatures-tab =
     .label = Certificações
 openpgp-key-details-structure-tab =
@@ -243,6 +244,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Tipo
 openpgp-key-details-key-part-label =
     .label = Parte da chave
+
 openpgp-key-details-algorithm-label =
     .label = Algoritmo
 openpgp-key-details-size-label =
@@ -259,7 +261,6 @@ openpgp-key-details-fingerprint-label = Identificador digital
 openpgp-key-details-sel-action =
     .label = Selecione a ação…
     .accesskey = S
-openpgp-key-details-also-known-label = Alegadas identidades alternativas do proprietário da chave:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Fechar
 openpgp-acceptance-label =
@@ -275,7 +276,6 @@ openpgp-acceptance-verified-label =
 key-accept-personal =
     Para esta chave, você tem a parte pública e a parte secreta. Você pode utilizar a mesma como uma chave pessoal.
     Se esta chave lhe foi atribuída por outra pessoa, não a utilize como uma chave pessoal.
-key-personal-warning = A chave foi criada por si e a propriedade da chave refere-se a si próprio?
 openpgp-personal-no-label =
     .label = Não, não utilizar como a minha chave pessoal.
 openpgp-personal-yes-label =
@@ -285,15 +285,6 @@ openpgp-copy-cmd-label =
     .label = Copiar
 
 ## e2e encryption settings
-
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $identity (String) - the email address of the currently selected identity
-openpgp-description =
-    { $count ->
-        [0] O Thunderbird não tem uma chave OpenPGP pessoal para <b>{ $identity }</b>
-        [one] O Thunderbird encontrou { $count } chave OpenPGP pessoal associada a <b>{ $identity }</b>
-       *[other] O Thunderbird encontrou { $count } chaves OpenPGP pessoais associadas a <b>{ $identity }</b>
-    }
 
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = A sua configuração atual utiliza a chave <b>{ $key }</b>, que expirou.
@@ -359,15 +350,12 @@ key-expired-date = A chave expirou a { $keyExpiry }
 key-expired-simple = A chave expirou
 key-revoked-simple = A chave foi revogada
 key-do-you-accept = Aceita esta chave para validar assinaturas digitais e para encriptar mensagens?
-key-accept-warning = Evite aceitar uma chave falsa. Utilize um canal de comunicação diferente do e-mail para confirmar a identificação digital da chave do seu correspondente.
 
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Não foi possível enviar a mensagem porque existe um problema com a sua chave pessoal. { $problem }
 cannot-encrypt-because-missing = Não foi possível enviar esta mensagem com encriptação ponto a ponto, porque existem problemas com as chaves dos seguintes destinatários: { $problem }
 window-locked = A janela de composição está bloqueada; envio cancelado
 
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Parte encriptada da mensagem
 mime-decrypt-encrypted-part-concealed-data = Esta é uma parte encriptada da mensagem. Você precisa de abrir a mesma numa janela separada clicando no anexo.
 
 # Strings in keyserver.jsm
@@ -393,27 +381,6 @@ converter-decrypt-body-failed =
     Não foi possível desencriptar a mensagem com assunto
     { $subject }.
     Quer tentar novamente com uma frase de acesso diferente ou deseja ignorar a mensagem?
-
-# Strings in gpg.jsm
-unknown-signing-alg = Algoritmo de assinatura desconhecido (ID: { $id })
-unknown-hash-alg = Hash criptográfica desconhecida (ID: { $id })
-
-# Strings in keyUsability.jsm
-expiry-key-expires-soon =
-    A sua chave { $desc } irá expirar em menos de { $days } dias.
-    Recomendamos que crie um novo par de chaves e que configure as contas correspondentes para utilizarem o mesmo.
-expiry-keys-expire-soon =
-    As chaves seguintes irão expirar em menos de { $days } dias: { $desc }.
-    Recomendamos que crie novas chaves e configure as contas correspondentes para utilizarem as mesmas.
-expiry-key-missing-owner-trust =
-    A sua chave secreta { $desc } tem falta de confiança.
-    Recomendamos que defina "Confia em certificações" como "totalmente" nas propriedades da chave.
-expiry-keys-missing-owner-trust =
-    As suas chaves secretas seguintes tem falta de confiança.
-    { $desc }.
-    Recomendamos que defina "Confia em certificações" como "totalmente" nas propriedades das chaves.
-expiry-open-key-manager = Abrir o gestor de chaves OpenPGP
-expiry-open-key-properties = Abrir propriedades da chave
 
 # Strings filters.jsm
 filter-folder-required = Tem de escolher uma pasta de destino.
@@ -647,9 +614,6 @@ send-to-news-warning =
     Isto é desencorajado porque só faz sentido se todos os membros do grupo puderem desencriptar a mensagem, ou seja, a mensagem precisa ser encriptada com as chaves de todos os participantes do grupo. Envie esta mensagem apenas se souber exatamente o que está a fazer.
     Continuar?
 save-attachment-header = Guardar anexo desencriptado
-no-temp-dir =
-    Não foi possível encontrar um diretório temporário para escrever
-    Por favor, configue a variável de ambiente TEMP
 possibly-pgp-mime = Possível mensagem encriptada ou assinada por PGP/MIME; utilize a função 'Desencriptar/Verificar' para verificar
 cannot-send-sig-because-no-own-key = Não é possível assinar digitalmente esta mensagem, porque ainda não configurou a encriptação ponto a ponto para <{ $key }>
 cannot-send-enc-because-no-own-key = Não é possível enviar esta mensagem encriptada, porque ainda não configurou a encriptação ponto a ponto para <{ $key }>

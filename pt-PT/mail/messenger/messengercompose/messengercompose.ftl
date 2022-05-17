@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -64,10 +66,6 @@ toolbar-button-add-attachment =
     .label = Anexar
     .tooltiptext = Adicionar um anexo ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
 
-add-attachment-notification-reminder =
-    .label = Adicionar anexo…
-    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
-
 menuitem-attach-files =
     .label = Ficheiro(s)...
     .accesskey = F
@@ -77,21 +75,6 @@ context-menuitem-attach-files =
     .label = Anexar ficheiro(s)...
     .accesskey = F
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
-
-#   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } anexo
-           *[other] { $count } anexos
-        }
-    .accesskey = x
-
-expand-attachment-pane-tooltip =
-    .tooltiptext = Mostrar o painel de anexos ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Ocultar o painel de anexos ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 
 drop-file-label-attachment =
     { $count ->
@@ -138,4 +121,16 @@ many-public-recipients-ignore =
 ## Editing
 
 # Tools
+
+## Filelink
+
+# Placeholder file
+
+# Template
+
+# Messages
+
+## Link Preview
+
+## Dictionary selection popup
 

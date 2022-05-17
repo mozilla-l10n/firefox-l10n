@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "O número de vezes que esta função estava na stack quando o gerador de perfis retirou uma amostra.">
 <!ENTITY performanceUI.table.function                 "Função">
 <!ENTITY performanceUI.table.function.tooltip         "O nome e localização da fonte da função amostrada.">
-<!ENTITY performanceUI.table.totalAlloc               "Amostragem de alocações totais">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "O número total de amostragem de alocações de objetos nesta localização e nas chamadas.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

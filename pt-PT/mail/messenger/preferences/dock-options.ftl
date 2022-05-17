@@ -23,4 +23,3 @@ count-new-messages-radio =
     .label = N.º de novas mensagens
     .accesskey = n
 
-notification-settings-info = Pode desativar a medalha no painel de Notificação das Preferências de Sistema.

@@ -5,11 +5,6 @@
 
 ## Tools Menu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-menu-tools-preferences =
-    .label = Preferências
-    .accesskey = P
 menu-addons-and-themes =
     .label = Extras e temas
     .accesskey = x
@@ -19,9 +14,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Modo de diagnóstico…
     .accesskey = d
+
 menu-help-exit-troubleshoot-mode =
     .label = Desligar o modo de diagnóstico
     .accesskey = g
+
 menu-help-more-troubleshooting-info =
     .label = Mais informação para diagnóstico
     .accesskey = M

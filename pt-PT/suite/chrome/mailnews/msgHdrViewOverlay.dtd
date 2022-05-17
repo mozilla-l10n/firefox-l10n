@@ -23,9 +23,6 @@
 <!ENTITY inReplyToField.label "Em-Resposta-Para: ">
 <!ENTITY originalWebsite.label "Website: ">
 
-<!ENTITY editMessage.label                 "Editar rascunho…">
-<!ENTITY editMessage.accesskey             "d">
-
 <!ENTITY attachmentsTree.label             "Anexos:">
 <!ENTITY attachmentsTree.accesskey         "x">
 <!ENTITY openAttachmentCmd.label           "Abrir">

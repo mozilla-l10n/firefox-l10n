@@ -5,23 +5,21 @@
 
 ## App Menu
 
-appmenuitem-update-banner3 =
-    .label-update-downloading = A transferir atualização do { -brand-shorter-name }
-    .label-update-available = Atualização disponível — transferir agora
-    .label-update-manual = Atualização disponível — transferir agora
-    .label-update-unsupported = Não foi possível atualizar — sistema incompatível
-    .label-update-restart = Atualização disponível — reiniciar agora
-appmenuitem-protection-dashboard-title = Painel das proteções
 appmenuitem-banner-update-downloading =
     .label = A transferir atualização do { -brand-shorter-name }
+
 appmenuitem-banner-update-available =
     .label = Atualização disponível — transferir agora
+
 appmenuitem-banner-update-manual =
     .label = Atualização disponível — transferir agora
+
 appmenuitem-banner-update-unsupported =
     .label = Não foi possível atualizar — sistema incompatível
+
 appmenuitem-banner-update-restart =
     .label = Atualização disponível — reiniciar agora
+
 appmenuitem-new-tab =
     .label = Novo separador
 appmenuitem-new-window =
@@ -58,6 +56,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Fechar menu da aplicação
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -78,23 +77,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Iniciar sessão para sincronizar…
 appmenu-remote-tabs-turn-on-sync =
     .label = Ativar a sincronização…
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Mostrar mais separadores
     .tooltiptext = Mostrar mais separadores deste dispositivo
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nenhum separador aberto
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Ative a sincronização de separadores para ver uma lista de separadores dos seus outros dispositivos.
+
 appmenu-remote-tabs-opensettings =
     .label = Definições
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Pretende ver os seus separadores de outros dispositivos aqui?
+
 appmenu-remote-tabs-connectdevice =
     .label = Ligar outro dispositivo
 appmenu-remote-tabs-welcome = Veja uma lista de separadores dos seus outros dispositivos.
 appmenu-remote-tabs-unverified = A sua conta necessita de ser verificada.
+
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar agora
 appmenuitem-fxa-sign-in = Iniciar sessão no { -brand-product-name }
 appmenuitem-fxa-manage-account = Gerir conta
@@ -108,13 +114,14 @@ appmenu-fxa-sync-and-save-data2 = Sincronizar e guardar dados
 appmenu-fxa-signed-in-label = Iniciar sessão
 appmenu-fxa-setup-sync =
     .label = Ativar a sincronização ...
-appmenu-fxa-show-more-tabs = Mostrar mais separadores
+
 appmenuitem-save-page =
     .label = Guardar página como…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Novidades
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -128,48 +135,53 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiler
     .tooltiptext = Grave um perfil de desempenho
+
 profiler-popup-button-recording =
     .label = Profiler
     .tooltiptext = O profiler está a gravar um perfil
+
 profiler-popup-button-capturing =
     .label = Profiler
     .tooltiptext = O profiler está a capturar um perfil
+
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Revelar mais informação
+
 profiler-popup-description-title =
     .value = Gravar, analisar, partilhar
+
 profiler-popup-description = Colabore em problemas de desempenho publicando perfis para partilhar com a sua equipa.
-profiler-popup-learn-more = Saber mais
+
 profiler-popup-learn-more-button =
     .label = Saber mais
+
 profiler-popup-settings =
     .value = Definições
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings = Editar definições…
-profiler-popup-disabled =
-    Neste momento o profiler está, provavelmente, desativado devido a uma janela de navegação privada 
-    que está a ser aberta.
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Editar definições…
+
 profiler-popup-recording-screen = A gravar…
-# The profiler presets list is generated elsewhere, but the custom preset is defined
-# here only.
-profiler-popup-presets-custom =
-    .label = Personalizado
+
 profiler-popup-start-recording-button =
     .label = Iniciar gravação
+
 profiler-popup-discard-button =
     .label = Descartar
+
 profiler-popup-capture-button =
     .label = Capturar
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -187,18 +199,23 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Predefinição recomendada para a maioria das depurações de aplicações web, com pouca sobrecarga.
 profiler-popup-presets-web-developer-label =
     .label = Programador web
+
 profiler-popup-presets-firefox-description = Predefinição recomendada para perfilar o { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+
 profiler-popup-presets-graphics-description = Predefinição para investigar bugs gráficos no { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Gráficos
+
 profiler-popup-presets-media-description2 = Predefinição para investigar bugs de áudio e vídeo no { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Multimédia
+
 profiler-popup-presets-networking-description = Predefinição para investigar bugs de rede no { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rede
+
 profiler-popup-presets-custom-label =
     .label = Personalizada
 
@@ -233,9 +250,6 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = g
 appmenu-help-report-site-issue =
     .label = Reportar problema do site…
-appmenu-help-feedback-page =
-    .label = Submeter feedback…
-    .accesskey = S
 appmenu-help-share-ideas =
     .label = Partilhe ideias e comentários…
     .accesskey = h
@@ -264,8 +278,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personalizar barra de ferramentas…
-appmenu-taskmanager =
-    .label = Gestor de tarefas
+
 appmenu-developer-tools-subheader = Ferramentas do navegador
 appmenu-developer-tools-extensions =
     .label = Extensões para Programadores

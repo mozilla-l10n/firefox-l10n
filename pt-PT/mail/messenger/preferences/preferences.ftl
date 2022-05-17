@@ -163,9 +163,6 @@ restore-default-label =
     .accesskey = R
 
 default-search-engine = Motor de pesquisa predefinido
-add-search-engine =
-    .label = Adicionar do ficheiro
-    .accesskey = A
 remove-search-engine =
     .label = Remover
     .accesskey = v
@@ -194,8 +191,6 @@ change-dock-icon = Alterar as preferências para o ícone da aplicação
 app-icon-options =
     .label = Opções do ícone da aplicação…
     .accesskey = n
-
-notification-settings = Os alertas e o som pode ser desativado no painel Notificações das preferências do sistema.
 
 animated-alert-label =
     .label = Mostrar um alerta
@@ -405,14 +400,6 @@ quoted-text-color =
 search-handler-table =
     .placeholder = Filtrar tipo de ações e de conteúdo
 
-type-column-label =
-    .label = Tipo de conteúdo
-    .accesskey = T
-
-action-column-label =
-    .label = Ação
-    .accesskey = A
-
 save-to-label =
     .label = Guardar ficheiros em
     .accesskey = s
@@ -565,12 +552,6 @@ restore-html-label =
 default-format-label =
     .label = Utilizar como predefinição o formato Parágrafo em vez de Corpo de texto
     .accesskey = P
-
-format-description = Configurar comportamento do formato de texto.
-
-send-options-label =
-    .label = Opções de envio...
-    .accesskey = s
 
 autocomplete-description = Ao endereçar mensagens, procurar equivalências no:
 
@@ -854,8 +835,6 @@ theme-label =
     .value = Tema:
     .accesskey = T
 
-style-thunderbird =
-    .label = Thunderbird
 style-bubbles =
     .label = Bolhas
 style-dark =
@@ -873,27 +852,10 @@ chat-variant-label =
     .value = Variante:
     .accesskey = V
 
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-preferences-input =
-    .style = width: 15.4em
-    .placeholder = Procurar nas definições
-
 ## Preferences UI Search Results
 
-search-results-header = Resultados da pesquisa
+## Settings UI Search Results
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Desculpe! Não existem resultados nas Opções para “<span data-l10n-name="query"></span>”.
-       *[other] Desculpe! Não existem resultados nas Preferências para “<span data-l10n-name="query"></span>”.
-    }
+search-results-header = Resultados da pesquisa
 
 search-results-help-link = Precisa de ajuda? Visite o <a data-l10n-name="url">Apoio do { -brand-short-name }</a>

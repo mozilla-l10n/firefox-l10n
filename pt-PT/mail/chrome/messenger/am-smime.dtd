@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Saber mais">
 
 <!ENTITY e2eEnc.description "Sem encriptação de ponta-a-ponta, os conteúdos das mensagens são facilmente expostos ao seu provedor de e-mail e à vigilância em massa.">
-<!ENTITY e2eeReqWarning.description "Se necessitar de criptografia, para enviar uma mensagem, deve ter a chave pública ou o certificado de cada destinatário.">
 
-<!ENTITY e2eSigning.description "Uma assinatura digital permite que os destinatários verifiquem se a mensagem foi enviada por si e se o conteúdo não foi alterado.">
 <!ENTITY e2eTechPref.description "Tecnologia de encriptação preferida:">
 
-<!ENTITY doNotEncrypt.label "Não ativar a encriptação por predefinição">
-<!ENTITY doNotEncrypt.accesskey "N">
-<!ENTITY requireEncryptMessage.label "Requerer encriptação por predefinição">
-<!ENTITY requireEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert2.message "Certificado pessoal para encriptação:">
 <!ENTITY digitalSign.certificate.button "Selecionar...">
 <!ENTITY digitalSign.certificate.accesskey "S">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Limpar">
 <!ENTITY encryption.certificate_clear.accesskey "i">
 <!ENTITY signingGroupTitle.label "Assinatura digital">
-<!ENTITY signMessage2.label "Adicionar a minha assinatura digital por predefinição">
-<!ENTITY signMessage.accesskey "d">
 
 <!ENTITY signingCert2.message "Certificado pessoal para a assinatura digital:">
 
