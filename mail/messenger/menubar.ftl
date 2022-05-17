@@ -51,16 +51,16 @@ menu-view-repair-text-encoding =
 ## View / Layout
 
 menu-font-size-label =
-    .label = Dimensione caratteri
+    .label = Dimensione carattere
     .accesskey = m
 menuitem-font-size-enlarge =
-    .label = Aumenta dimensione caratteri
+    .label = Aumenta dimensione carattere
     .accesskey = u
 menuitem-font-size-reduce =
-    .label = Riduci dimensione caratteri
+    .label = Riduci dimensione carattere
     .accesskey = d
 menuitem-font-size-reset =
-    .label = Reimposta dimensione caratteri
+    .label = Reimposta dimensione carattere
     .accesskey = m
 mail-uidensity-label =
     .label = Densità
