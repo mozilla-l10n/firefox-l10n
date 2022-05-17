@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Datos
 
-item-site-preferences =
-    .label = Preferencias del sitio
-    .accesskey = r
-
 item-site-settings =
     .label = Configuración del sitio
     .accesskey = C

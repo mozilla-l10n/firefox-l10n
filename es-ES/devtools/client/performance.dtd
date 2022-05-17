@@ -43,7 +43,6 @@
 <!ENTITY performanceUI.table.samples.tooltip "El número de veces que esta función estaba en la pila cuando el analizador tomó una muestra.">
 <!ENTITY performanceUI.table.function "Función">
 <!ENTITY performanceUI.table.function.tooltip "El nombre y dirección de origen de la función muestreada.">
-<!ENTITY performanceUI.table.totalAlloc "Total de asignaciones de memoria muestreadas">
 <!ENTITY performanceUI.table.totalAlloc.tooltip "El número total de asignaciones de objeto recogidas en esta ubicación y sus objetos llamados.">
 
 <!ENTITY performanceUI.options.filter.tooltiptext "Seleccione qué datos mostrar en la línea de tiempos">

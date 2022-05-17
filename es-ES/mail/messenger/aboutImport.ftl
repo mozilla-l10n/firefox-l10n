@@ -12,6 +12,17 @@
 ## Import from app steps
 
 
+## Import from file selections
+
+## Import from address book file steps
+
+## Import from address book file steps
+
 ## Import dialog
 
 error-pane-title = Error
+
+## <csv-field-map> element
+
+## Export tab
+

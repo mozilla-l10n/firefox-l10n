@@ -9,6 +9,7 @@ account-setup-success-title = Cuenta creada correctamente
 
 ## Form fields
 
+
 account-setup-password-toggle-hide =
     .title = Ocultar contraseña
 
@@ -22,25 +23,29 @@ account-setup-password-toggle-hide =
 
 account-setup-step1-image =
     .title = Configuración inicial
+
 account-setup-step2-image =
     .title = Cargando…
+
 account-setup-step3-image =
     .title = Configuración encontrada
+
 account-setup-step4-image =
     .title = Error de conexión
+
 account-setup-step5-image =
     .title = Cuenta creada
+
 account-setup-privacy-footnote2 = Sus credenciales solo se almacenarán localmente en su ordenador.
+
 account-setup-selection-error = ¿Necesita ayuda?
 
 ## Results area
 
-# Note: IMAP is the name of a protocol.
-account-setup-result-imap = IMAP
 account-setup-result-imap-description = Mantener sus carpetas y correos electrónicos sincronizados en su servidor
-# Note: POP3 is the name of a protocol.
-account-setup-result-pop = POP3
+
 account-setup-result-pop-description = Mantener sus carpetas y correos electrónicos en su equipo
+
 account-setup-exchange-title = Servidor
 
 ## Error messages
@@ -49,13 +54,16 @@ account-setup-exchange-title = Servidor
 ## Manual configuration area
 
 account-setup-hostname-label = Nombre del servidor:
+
 account-setup-port-label = Puerto:
     .title = Establecer el puerto a 0 para la detección automática
+
 account-setup-ssl-label = Seguridad de la conexión:
 
 ## Incoming/Outgoing SSL Authentication options
 
 ssl-cleartext-password-option = Contraseña normal
+
 ssl-encrypted-password-option = Contraseña cifrada
 
 ## Incoming/Outgoing SSL options
