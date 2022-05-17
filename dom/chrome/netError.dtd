@@ -80,9 +80,6 @@
 <!ENTITY corruptedContentErrorv2.title "Earráid: Ábhar Truaillithe">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>An leathanach atá tú ag iarraidh a amharc, ní féidir é a thaispeáint toisc gur tharla earráid agus na sonraí á seoladh.</p><ul><li>Téigh i dteagmháil le húinéir an tsuímh agus inis dóibh faoin fhadhb seo.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL Cianda">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Téigh i dteagmháil le húinéir an tsuímh agus inis dóibh faoin fhadhb seo.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Níl do cheangal slán">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

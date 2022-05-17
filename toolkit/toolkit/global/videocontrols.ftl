@@ -18,12 +18,14 @@ videocontrols-casting-button-label =
     .aria-label = Craol ar an Scáileán
 videocontrols-closed-caption-off =
     .offlabel = Múchta
+
 videocontrols-error-aborted = Stopadh lódáil an fhíseáin.
 videocontrols-error-network = Stopadh athsheinm an fhíseáin mar gheall ar earráid líonra.
 videocontrols-error-decode = Ní féidir an físeán a sheinm toisc go bhfuil an comhad truaillithe.
 videocontrols-error-src-not-supported = Ní thacaítear leis an bhformáid fhíse nó leis an gcineál MIME.
 videocontrols-error-no-source = Níor aimsíodh aon fhíseán a dtacaítear lena fhormáid agus lena chineál MIME.
 videocontrols-error-generic = Stopadh athsheinm an fhíseáin mar gheall ar earráid anaithnid.
+
 # This message shows the current position and total video duration
 #
 # Variables:

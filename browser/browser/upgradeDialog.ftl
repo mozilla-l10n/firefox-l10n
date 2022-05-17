@@ -8,8 +8,6 @@
 
 ## New changes screen
 
-upgrade-dialog-new-item-menu-description = Cuir béim ar nithe tábhachtacha chun gur féidir leat na nithe atá de dhíth ort a aimsiú.
-
 ## Pin Firefox screen
 ##
 ## These title, subtitle and button strings differ between platforms as they

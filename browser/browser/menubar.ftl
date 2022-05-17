@@ -36,16 +36,11 @@ menu-quit =
             [windows] S
            *[other] S
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Scoir { -brand-shorter-name }
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Scoir { -brand-shorter-name }
+
 menu-about =
     .label = Maidir le { -brand-shorter-name }
     .accesskey = M
@@ -75,9 +70,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Oscail Comhad…
     .accesskey = O
-menu-file-close =
-    .label = Dún
-    .accesskey = D
 menu-file-close-window =
     .label = Dún an Fhuinneog
     .accesskey = F
@@ -90,9 +82,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Socrú Leathanaigh…
     .accesskey = L
-menu-file-print-preview =
-    .label = Réamhamharc Priontála
-    .accesskey = R
 menu-file-print =
     .label = Priontáil…
     .accesskey = P
@@ -258,9 +247,6 @@ menu-help =
     .accesskey = h
 menu-help-report-site-issue =
     .label = Tuairiscigh Fadhb le Suíomh…
-menu-help-feedback-page =
-    .label = Seol Aiseolas Chugainn…
-    .accesskey = S
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

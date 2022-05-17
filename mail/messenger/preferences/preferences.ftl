@@ -61,8 +61,6 @@ app-icon-options =
     .label = Roghanna an Deilbhín…
     .accesskey = n
 
-notification-settings = Is féidir foláirimh agus an fhuaim réamhshocraithe a dhíchumasú sa bpána Fógraí i Sainroghanna an Chórais.
-
 animated-alert-label =
     .label = Taispeáin airdeall
     .accesskey = s
@@ -252,14 +250,6 @@ quoted-text-color =
     .label = Dath:
     .accesskey = t
 
-type-column-label =
-    .label = Cineál Ábhair
-    .accesskey = b
-
-action-column-label =
-    .label = Gníomh
-    .accesskey = G
-
 save-to-label =
     .label = Sábháil comhaid i
     .accesskey = S
@@ -401,12 +391,6 @@ restore-html-label =
 default-format-label =
     .label = Úsáid formáid an Ailt seachas Corpthéacs mar réamhshocrú
     .accesskey = A
-
-format-description = Cumraigh iompar an fhormáidithe téacs
-
-send-options-label =
-    .label = Roghanna Seolta…
-    .accesskey = S
 
 autocomplete-description = Agus seoltaí á gcur le teachtaireachtaí, lorg iontrálacha oiriúnacha i:
 
@@ -643,4 +627,6 @@ chat-browse-sound-button =
     .accesskey = B
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = Gníomhach
 about-networking-idle = Díomhaoin
 about-networking-host = Óstach
-about-networking-tcp = TCP
 about-networking-sent = Seolta
 about-networking-received = Faighte
 about-networking-family = Clann

@@ -41,3 +41,7 @@ pocket-panel-signup-tagline-story-two = Féach orthu i b{ -pocket-brand-name } a
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

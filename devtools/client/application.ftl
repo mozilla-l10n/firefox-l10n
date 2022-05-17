@@ -18,8 +18,11 @@
 
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Earráidí agus Rabhaidh
+
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = Deilbhíní
+
 # Text displayed at manifest icons to label their purpose, as declared
 # in the manifest.
 manifest-icon-purpose = Cuspóir: <code>{ $purpose }</code>
+

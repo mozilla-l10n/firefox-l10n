@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] Is féidir socruithe a athrú i Roghanna { -brand-short-name }.
            *[other] Is féidir socruithe a athrú i Sainroghanna { -brand-short-name }.
         }
+
 unknowncontenttype-intro = Tá tú ag oscailt:
 unknowncontenttype-which-is = atá:
 unknowncontenttype-from = ó:

@@ -61,20 +61,9 @@ import-done-description = Iompórtáladh na rudaí seo go rathúil:
 
 import-close-source-browser = Bí cinnte go bhfuil an brabhsálaí a roghnaigh tú dúnta sula leanfaidh tú ar aghaidh.
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Ó { $source }:
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
-source-name-safari = Safari
-source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
-source-name-chromium = Chromium
-source-name-firefox = Mozilla Firefox
-source-name-360se = Brabhsálaí Slán 360
 
 imported-safari-reading-list = Liosta Léitheoireachta (ó Safari)
 imported-edge-reading-list = Liosta Léitheoireachta (ó Edge)
