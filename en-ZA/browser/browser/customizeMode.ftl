@@ -4,17 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = Restore Defaults
-customize-mode-lwthemes-menu-manage =
-    .label = Manage
-    .accesskey = M
 customize-mode-titlebar =
     .label = Title Bar
-customize-mode-lwthemes =
-    .label = Themes
-customize-mode-lwthemes-menu-get-more =
-    .label = Get More Themes
-    .accesskey = G
 customize-mode-undo-cmd =
     .label = Undo
-customize-mode-lwthemes-my-themes =
-    .value = My Themes

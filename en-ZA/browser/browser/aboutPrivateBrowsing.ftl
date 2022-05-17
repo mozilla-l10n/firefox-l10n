@@ -6,3 +6,5 @@ privatebrowsingpage-open-private-window-label = Open a Private Window
     .accesskey = P
 about-private-browsing-not-private = You are currently not in a private window.
 
+## The following strings will be used for experiments in Fx99 and Fx100
+

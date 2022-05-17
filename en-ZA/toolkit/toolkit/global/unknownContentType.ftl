@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] Settings can be changed in { -brand-short-name }'s Options.
            *[other] Settings can be changed in { -brand-short-name }'s Preferences.
         }
+
 unknowncontenttype-intro = You have chosen to open:
 unknowncontenttype-which-is = which is:
 unknowncontenttype-from = from:

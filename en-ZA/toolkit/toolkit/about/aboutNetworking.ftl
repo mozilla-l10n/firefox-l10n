@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = Active
 about-networking-idle = Idle
 about-networking-host = Host
-about-networking-tcp = TCP
 about-networking-sent = Sent
 about-networking-received = Received
 about-networking-family = Family

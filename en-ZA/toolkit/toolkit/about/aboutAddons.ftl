@@ -3,50 +3,71 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Add-ons Manager
+
 search-header-shortcut =
     .key = f
+
 list-empty-installed =
     .value = You don't have any add-ons of this type installed
+
 list-empty-available-updates =
     .value = No updates found
+
 list-empty-recent-updates =
     .value = You haven't recently updated any add-ons
+
 list-empty-find-updates =
     .label = Check For Updates
+
 list-empty-button =
     .label = Learn more about add-ons
+
 show-unsigned-extensions-button =
     .label = Some extensions could not be verified
+
 show-all-extensions-button =
     .label = Show all extensions
+
 detail-version =
     .label = Version
+
 detail-last-updated =
     .label = Last Updated
+
 detail-contributions-description = The developer of this add-on asks that you help support its continued development by making a small contribution.
+
 detail-update-type =
     .value = Automatic Updates
+
 detail-update-default =
     .label = Default
     .tooltiptext = Automatically install updates only if that's the default
+
 detail-update-automatic =
     .label = On
     .tooltiptext = Automatically install updates
+
 detail-update-manual =
     .label = Off
     .tooltiptext = Don't automatically install updates
+
 detail-home =
     .label = Homepage
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = Add-on Profile
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = Check for Updates
     .accesskey = f
     .tooltiptext = Check for updates for this add-on
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -63,15 +84,22 @@ detail-show-preferences =
             [windows] Change this add-on's options
            *[other] Change this add-on's preferences
         }
+
 detail-rating =
     .value = Rating
+
 addon-restart-now =
     .label = Restart now
+
 disabled-unsigned-heading =
     .value = Some add-ons have been disabled
+
 disabled-unsigned-description = The following add-ons have not been verified for use in { -brand-short-name }. You can <label data-l10n-name="find-addons">find replacements</label> or ask the developer to get them verified.
+
 disabled-unsigned-learn-more = Learn more about our efforts to help keep you safe online.
+
 disabled-unsigned-devinfo = Developers interested in getting their add-ons verified can continue by reading our <label data-l10n-name="learn-more">manual</label>.
+
 addon-category-extension = Extensions
 addon-category-extension-title =
     .title = Extensions
@@ -172,12 +200,17 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } is incompatible with { -brand-short-name } { $version }.
+
 details-notification-unsigned-and-disabled = { $name } could not be verified for use in { -brand-short-name } and has been disabled.
 details-notification-unsigned-and-disabled-link = More Information
+
 details-notification-unsigned = { $name } could not be verified for use in { -brand-short-name }. Proceed with caution.
 details-notification-unsigned-link = More Information
+
 details-notification-blocked = { $name } has been disabled due to security or stability issues.
 details-notification-blocked-link = More Information
+
 details-notification-softblocked = { $name } is known to cause security or stability issues.
 details-notification-softblocked-link = More Information
+
 details-notification-gmp-pending = { $name } will be installed shortly.

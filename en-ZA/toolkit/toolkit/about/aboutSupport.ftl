@@ -34,6 +34,7 @@ app-basics-service-workers = Registered Service Workers
 app-basics-profiles = Profiles
 app-basics-multi-process-support = Multiprocess Windows
 app-basics-safe-mode = Safe Mode
+
 modified-key-prefs-title = Important Modified Preferences
 modified-prefs-name = Name
 modified-prefs-value = Value
