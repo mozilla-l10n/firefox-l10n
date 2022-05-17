@@ -10,4 +10,3 @@ add-on-search-alternative-button-label = In alternative add-on sykje
 atn-addons-heading-search-input =
     .placeholder = addons.thunderbird.net trochsykje
 
-sidebar-preferences-button-title = { -brand-short-name }-foarkarren

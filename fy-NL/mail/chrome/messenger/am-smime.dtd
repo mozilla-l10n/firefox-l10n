@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Mear ynfo">
 
 <!ENTITY e2eEnc.description "Sûnder end-to-end-fersifering wurdt de ynhâld fan berjochten maklik sichtber foar jo e-mailprovider en foar massa-tafersjoch.">
-<!ENTITY e2eeReqWarning.description "As jo fersifering nedich hawwe, moatte jo foar it ferstjoeren fan in berjocht de iepenbiere kaai of it sertifikaat fan elke ûntfanger hawwe.">
 
-<!ENTITY e2eSigning.description "Mei in digitale hantekening kinne ûntfangers kontrolearje oft it berjocht troch jo ferstjoerd is en oft de ynhâld net wizige is.">
 <!ENTITY e2eTechPref.description "Foarkar fersiferingstechnology:">
 
-<!ENTITY doNotEncrypt.label "Fersifering standert net ynskeakelje">
-<!ENTITY doNotEncrypt.accesskey "F">
-<!ENTITY requireEncryptMessage.label "Fersifering standert fereaskje">
-<!ENTITY requireEncryptMessage.accesskey "a">
 <!ENTITY encryptionCert2.message "Persoanlik fersiferingssertifikaat:">
 <!ENTITY digitalSign.certificate.button "Selektearje…">
 <!ENTITY digitalSign.certificate.accesskey "S">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Wiskje">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Digitale ûndertekening">
-<!ENTITY signMessage2.label "Myn digitale hantekening standert tafoegje">
-<!ENTITY signMessage.accesskey "d">
 
 <!ENTITY signingCert2.message "Persoanlik sertifikaat foar digitaal ûndertekenjen:">
 

@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "m">
 <!ENTITY SecondEmail.label              "Alternative e-mail:">
 <!ENTITY SecondEmail.accesskey          "i">
-<!ENTITY PreferMailFormat.label         "Wol it leafst berjochten ûntfange opsteld as:">
-<!ENTITY PreferMailFormat.accesskey     "f">
 <!ENTITY PlainText.label                "Platte tekst">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Unbekend">
