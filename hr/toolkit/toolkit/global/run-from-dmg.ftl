@@ -17,3 +17,8 @@ prompt-to-install-no-button = Nemoj instalirati
 
 install-failed-title = { -brand-short-name } instalacija nije uspjela.
 install-failed-message = { -brand-short-name } instalacija nije uspjela, ali i dalje će se izvoditi.
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+

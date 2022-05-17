@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Podijeli
     .accesskey = h
-tab-context-share-more =
-    .label = Više…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -90,15 +88,6 @@ tab-context-reopen-closed-tabs =
            *[other] Ponovno otvori zatvorene kartice
         }
     .accesskey = r
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Zatvori karticu
-            [one] Zatvori karticu
-            [few] Zatvori kartice
-           *[other] Zatvori kartice
-        }
-    .accesskey = c
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -117,6 +106,7 @@ tab-context-move-tabs =
            *[other] Premjesti kartice
         }
     .accesskey = m
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

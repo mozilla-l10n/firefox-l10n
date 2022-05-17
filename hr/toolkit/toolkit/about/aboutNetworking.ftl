@@ -19,7 +19,6 @@ about-networking-ssl = SSL
 about-networking-active = Aktivno
 about-networking-idle = U pripravi
 about-networking-host = Poslužitelj
-about-networking-tcp = TCP
 about-networking-sent = Poslano
 about-networking-received = Primljeno
 about-networking-family = Obitelj

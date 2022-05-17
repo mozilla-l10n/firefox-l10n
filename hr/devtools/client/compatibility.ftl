@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (zastarjelo, eksperim
 compatibility-settings-button-label = Postavke
 compatibility-settings-button-title =
     .title = Postavke
-compatibility-feedback-button-label = Povratne informacije
-compatibility-feedback-button-title =
-    .title = Povratne informacije
 
 ## Messages used as headers in settings pane
 
@@ -47,3 +44,4 @@ compatibility-issue-occurrences =
 compatibility-no-issues-found = Nema problema s kompatibilnošću.
 compatibility-close-settings-button =
     .title = Zatvori postavke
+

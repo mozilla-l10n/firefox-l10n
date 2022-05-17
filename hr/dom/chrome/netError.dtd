@@ -87,9 +87,6 @@
 <!ENTITY corruptedContentErrorv2.title "Greška neispravnog sadržaja">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Stranicu koju pokušavaš vidjeti nije moguće prikazati zbog greške u prijenosu podataka.</p><ul><li>Kontaktiraj vlasnike web-stranice i obavijesti ih o ovom problemu.</li></ul>">
 
-<!ENTITY remoteXUL.title "Udaljeni XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontaktiraj vlasnike web-stranice i obavijesti ih o ovom problemu.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Tvoja veza nije sigurna">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

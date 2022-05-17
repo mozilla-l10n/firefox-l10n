@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Dodatna e-pošta:">
 <!ENTITY SecondEmail.accesskey          "D">
-<!ENTITY PreferMailFormat.label         "Preferira primati poruke oblikovane kao:">
-<!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "Obični tekst">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Nepoznato">

@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Web stranicu…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Kontakt karticu (vCard)">
-<!ENTITY attachVCardCmd.accesskey "K">
 <!ENTITY remindLater.label "Podsjeti me kasnije">
 <!ENTITY remindLater.accesskey "k">
 <!ENTITY closeCmd.label "Zatvori">
@@ -148,16 +145,6 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "Potvrda isporuke">
 <!ENTITY dsnMenu.accesskey "o">
-<!ENTITY deliveryFormatMenu.label "Oblik isporuke">
-<!ENTITY deliveryFormatMenu.accesskey "l">
-<!ENTITY autoFormatCmd.label "Automatski prepoznaj">
-<!ENTITY autoFormatCmd.accesskey "A">
-<!ENTITY plainTextFormatCmd.label "Samo običan tekst">
-<!ENTITY plainTextFormatCmd.accesskey "S">
-<!ENTITY htmlFormatCmd.label "Samo obogaćeni tekst (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "M">
-<!ENTITY bothFormatCmd.label "Obični i obogaćeni (HTML) tekst">
-<!ENTITY bothFormatCmd.accesskey "b">
 <!ENTITY priorityMenu.label "Prioritet">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.title "Prioritet">
@@ -221,7 +208,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Druge vrste polja za adresiranje">
 <!ENTITY fromAddr2.label "Šalje">
 <!ENTITY fromAddr.accesskey "a">
 <!ENTITY replyAddr2.label "Odgovori na">
