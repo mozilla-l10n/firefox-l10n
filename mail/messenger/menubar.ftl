@@ -11,7 +11,6 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Nastavitve
     .accesskey = t
-
 menu-addons-and-themes =
     .label = Dodatki in teme
     .accesskey = D
@@ -21,11 +20,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Način za odpravljanje težav …
     .accesskey = r
-
 menu-help-exit-troubleshoot-mode =
     .label = Izključi način za odpravljanje težav
     .accesskey = I
-
 menu-help-more-troubleshooting-info =
     .label = Več podatkov za odpravljanje težav
     .accesskey = V
@@ -53,22 +50,30 @@ menu-view-repair-text-encoding =
 
 ## View / Layout
 
+menu-font-size-label =
+    .label = Velikost pisave
+    .accesskey = o
+menuitem-font-size-enlarge =
+    .label = Povečaj velikost pisave
+    .accesskey = v
+menuitem-font-size-reduce =
+    .label = Zmanjšaj velikost pisave
+    .accesskey = m
+menuitem-font-size-reset =
+    .label = Ponastavi velikost pisave
+    .accesskey = n
 mail-uidensity-label =
     .label = Gostota
     .accesskey = G
-
 mail-uidensity-compact =
     .label = Strnjeno
     .accesskey = S
-
 mail-uidensity-normal =
     .label = Običajno
     .accesskey = O
-
 mail-uidensity-touch =
     .label = Dotik
     .accesskey = D
-
 menu-spaces-toolbar-button =
     .label = Vrstica komponent
     .accesskey = k
