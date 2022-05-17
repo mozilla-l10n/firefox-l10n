@@ -17,6 +17,13 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Ofbriechen
   
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
+##
+
 downloads-cmd-retry =
     .tooltiptext = Nach eng Kéier probéieren
 downloads-cmd-retry-panel =
@@ -46,4 +53,11 @@ downloads-open-file =
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = Eroflueden ofbriechen
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
 

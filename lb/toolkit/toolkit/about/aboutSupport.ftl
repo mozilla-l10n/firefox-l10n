@@ -13,6 +13,7 @@ app-basics-name = Numm
 app-basics-version = Versioun
 app-basics-performance = Performance
 app-basics-profiles = Profiler
+
 modified-prefs-name = Numm
 modified-prefs-value = Wäert
 locked-prefs-name = Numm

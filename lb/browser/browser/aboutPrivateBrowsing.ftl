@@ -6,3 +6,5 @@ privatebrowsingpage-open-private-window-label = Eng privat Fënster opmaachen
     .accesskey = P
 about-private-browsing-not-private = Du bass am Moment net an enger privater Fënster.
 
+## The following strings will be used for experiments in Fx99 and Fx100
+

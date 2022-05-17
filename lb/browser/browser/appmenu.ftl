@@ -27,9 +27,11 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Keng oppen Tabs
+
 appmenu-remote-tabs-connectdevice =
     .label = Aneren Apparat verbannen
 appmenu-remote-tabs-unverified = Äre Benotzerkont muss iwwerpréift ginn.
+
 appmenuitem-save-page =
     .label = Säit späicheren ënner…
 
@@ -40,6 +42,13 @@ appmenuitem-save-page =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+
+## Profiler presets
+## They are shown in the popup's select box.
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
 
 ## History panel
 
@@ -55,9 +64,6 @@ appmenu-recently-closed-windows =
 appmenu-about =
     .label = Iwwer { -brand-shorter-name }
     .accesskey = I
-appmenu-help-feedback-page =
-    .label = Feedback schécken…
-    .accesskey = S
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

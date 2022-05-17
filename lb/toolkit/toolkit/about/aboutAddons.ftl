@@ -4,12 +4,16 @@
 
 detail-version =
     .label = Versioun
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-rating =
     .value = Bewäertung
+
 addon-category-extension = Erweiderungen
 addon-category-extension-title =
     .title = Erweiderungen
@@ -70,6 +74,10 @@ addon-category-locale-title =
 ##   $name (String): name of the add-on.
 
 details-notification-unsigned-and-disabled-link = Méi Informatiounen
+
 details-notification-unsigned-link = Méi Informatiounen
+
 details-notification-blocked-link = Méi Informatiounen
+
 details-notification-softblocked-link = Méi Informatiounen
+

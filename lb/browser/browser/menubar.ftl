@@ -22,15 +22,6 @@ menu-application-show-all =
 
 ##
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = { -brand-shorter-name } zoumaachen
-
 menu-about =
     .label = Iwwer { -brand-shorter-name }
     .accesskey = I
@@ -69,9 +60,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Säitenastellungen…
     .accesskey = u
-menu-file-print-preview =
-    .label = Dréckvirschau
-    .accesskey = v
 menu-file-print =
     .label = Drécken…
     .accesskey = P
@@ -188,6 +176,3 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Hëllef
     .accesskey = H
-menu-help-feedback-page =
-    .label = Feedback schécken…
-    .accesskey = S
