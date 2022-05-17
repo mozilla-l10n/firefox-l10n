@@ -35,6 +35,7 @@ app-basics-service-workers = Abasebenzisi beNkonzo Ababhalisiweyo
 app-basics-profiles = Iiprofayile
 app-basics-multi-process-support = IWindows yeenkqubo ezininzi
 app-basics-safe-mode = IMowudi Ekhuselekileyo
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Bonisa kwisifumanisi

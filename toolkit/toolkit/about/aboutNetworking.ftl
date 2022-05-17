@@ -15,7 +15,6 @@ about-networking-ssl = I-SSL
 about-networking-active = Iyasebenza
 about-networking-idle = Ihleli nje
 about-networking-host = Umamkeli
-about-networking-tcp = I-TCP
 about-networking-sent = Ithunyelwe
 about-networking-received = Ifunyenwe
 about-networking-family = Usapho

@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Ukubhrawuza kwangasese)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Ukubhrawuza kwangasese)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Ukubhrawuza kwangasese)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Ukubhrawuza kwangasese)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -105,10 +107,12 @@ urlbar-screen-blocked =
     .tooltiptext = Uyibhlokile le webhusayithi ekwabelaneni ngesikrini sakho.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ulubhlokile ugcino oluqhubekayo lwedatha kule webhusayithi.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Hlela le bhukhmakhi ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -130,12 +134,14 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Tshintsha iisethingi zokukhangela
+
 search-one-offs-context-open-new-tab =
     .label = Khangela KweNtsha Nethebhu
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = Seta Ibe Ziinjini Ezisisiseko Zokukhangela
     .accesskey = Z
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -162,6 +168,7 @@ identity-passive-loaded = Iinxalenye zeli phepha azikhuselekangae (njengemifanek
 identity-active-loaded = Ulucimile ukhuseleko kweli phepha.
 identity-weak-encryption = Eli phepha lisebenzisa ukukhowuda okubuthathaka.
 identity-insecure-login-forms = Iiogini ezifakwe kweli phepha zinokuba sengozini.
+
 identity-permissions-reload-hint = Kusenokufuneka uphinde ulifake eli phepha ukuze utshintsho lubonakale.
 identity-remove-cert-exception =
     .label = Susa Ezikhethekileyo
@@ -219,11 +226,14 @@ popup-all-windows-shared = Zonke iiwindowu ezikwiskrini sakho ziya kwabiwa.
 
 urlbar-placeholder =
     .placeholder = Khangela okanye ngenisa idilesi
+
 urlbar-switch-to-tab =
     .value = Tshintshela kwithebhu:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Izolulo
+
 urlbar-go-button =
     .tooltiptext = Yiya kwidilesi kwibha yendawo
 urlbar-page-action-button =
@@ -255,9 +265,12 @@ urlbar-result-action-visit = Tyelela
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ngoku siskrini esipheleleyo
 fullscreen-warning-no-domain = Olu xwebhu ngoku lusiskrini esipheleleyo
+
+
 fullscreen-exit-button = Phuma KwiSkrini Esipheleleyo (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Phuma KwiSkrini Esipheleleyo (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -281,6 +294,7 @@ bookmarks-search =
     .label = Khangela iiBhukhmakhi
 bookmarks-bookmark-edit-panel =
     .label = Hlela Le Bhukhmakhi
+
 bookmarks-toolbar-menu =
     .label = Ithulbha yebhukhmakhi
 bookmarks-toolbar-placeholder =
@@ -302,25 +316,26 @@ bookmarks-toolbar-placeholder-button =
 
 ## More items
 
-more-menu-go-offline =
-    .label = Sebenza ngaphandle kweIntanethi
-    .accesskey = e
 toolbar-button-email-link =
     .label = Ikhonkco le-imeyili
     .tooltiptext = Thumela ngeimeyile ikhonkco kweli khasi
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Gcina iphepha
     .tooltiptext = Gcina eli khasi ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Vula Ifayile
     .tooltiptext = Vula ifayile ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = Iithebhu Ezingqamanisiweyo
     .tooltiptext = Bonisa iithebhu ezivela kwezinye izixhobo
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -351,6 +366,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Vumela okuzivelelayo { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Vumela okuzivelelayo { $uriHost }
     .accesskey = p
@@ -372,22 +388,28 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Okukhutshelwayo
+
 navbar-overflow =
     .tooltiptext = Izixhobo ezingakumbi…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Printa
     .tooltiptext = Printa eli phepha… ({ $shortcut })
+
 navbar-search =
     .title = Khangela
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Iithebhu zokubhrawuza
+
 tabs-toolbar-new-tab =
     .label = thebhu entsha
+
 tabs-toolbar-list-all-tabs =
     .label = Dwelisa zonke iithebhu
     .tooltiptext = Dwelisa zonke iithebhu

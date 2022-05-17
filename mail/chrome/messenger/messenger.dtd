@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "W">
 <!ENTITY newVirtualFolderCmd.label "Uzingelo Olugciniweyo...">
 <!ENTITY newVirtualFolderCmd.accesskey "U">
-<!ENTITY newOtherAccountsCmd.label "Other Accounts…">
-<!ENTITY newOtherAccountsCmd.accesskey "O">
 <!ENTITY newCreateEmailAccountCmd.label "Get a New Mail Account…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "G">
 <!ENTITY newExistingEmailAccountCmd.label "Existing Mail Account…">
@@ -40,8 +38,6 @@
 <!ENTITY openMessageFileCmd.accesskey "V">
 <!ENTITY saveAsMenu.label "Gcina Kanje">
 <!ENTITY saveAsMenu.accesskey "G">
-<!ENTITY saveAsFileCmd.label "Ifayili">
-<!ENTITY saveAsFileCmd.accesskey "I">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Isakhelo seenkcukacha">
 <!ENTITY saveAsTemplateCmd.accesskey "I">

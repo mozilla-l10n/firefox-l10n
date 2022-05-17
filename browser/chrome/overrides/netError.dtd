@@ -66,8 +66,6 @@
 <!ENTITY errorReporting.automatic2 "Xela iimpazamo ezifana nale ukunceda uMozilla afumanise aze abhloke iisayithi eziyingozi">
 <!ENTITY errorReporting.learnMore "Funda okungakumbi…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Inkcazelo ehambele phambili: SSL_ERROR_UNSUPPORTED_VERSION">

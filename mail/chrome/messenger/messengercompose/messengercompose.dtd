@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Ikhasi Lothungelwano...">
 <!ENTITY attachPageCmd.accesskey "I">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Ikhadi Yobuqu Bomntu (vCard)">
-<!ENTITY attachVCardCmd.accesskey "I">
 <!ENTITY remindLater.label "Remind Me Later">
 <!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Vala">
@@ -129,16 +126,6 @@
 <!ENTITY returnReceiptMenu.accesskey "y">
 <!ENTITY dsnMenu.label "Delivery Status Notification">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY deliveryFormatMenu.label "Delivery Format">
-<!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "Ukuboniswa Kweenguquko Okuzenzekelayo">
-<!ENTITY autoFormatCmd.accesskey "U">
-<!ENTITY plainTextFormatCmd.label "Isiqendu Esingaxutywanga Kuphela">
-<!ENTITY plainTextFormatCmd.accesskey "I">
-<!ENTITY htmlFormatCmd.label "Isiqendu Esixubekileyo (HTML) Kuphela">
-<!ENTITY htmlFormatCmd.accesskey "I">
-<!ENTITY bothFormatCmd.label "Isiqendu Esingaxutywanga Nesixubekileyo (HTML)">
-<!ENTITY bothFormatCmd.accesskey "L">
 <!ENTITY priorityMenu.label "Ngokokubaluleka">
 <!ENTITY priorityMenu.accesskey "N">
 <!ENTITY priorityButton.label "Okwakuqala:">

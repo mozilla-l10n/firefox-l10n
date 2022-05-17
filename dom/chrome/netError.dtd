@@ -80,9 +80,6 @@
 <!ENTITY corruptedContentErrorv2.title "Imposiso yomxholo owonakalisiweyo">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ikhasi ozama ukulijonga alinakuboniswa kuba kubhaqwe imposiso ekuthunyelweni kweengcombolo.</p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul>">
 
-<!ENTITY remoteXUL.title "Susa i-XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Uqhagamshelo lwakho alukhuselekanga">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
