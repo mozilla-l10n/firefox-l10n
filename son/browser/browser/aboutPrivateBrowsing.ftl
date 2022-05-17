@@ -6,3 +6,5 @@ privatebrowsingpage-open-private-window-label = Sutura zanfun foo feeri
     .accesskey = f
 about-private-browsing-not-private = War ši bara sutura zanfun ra sohõda.
 
+## The following strings will be used for experiments in Fx99 and Fx100
+

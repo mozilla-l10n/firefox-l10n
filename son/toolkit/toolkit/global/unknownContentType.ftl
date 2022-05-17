@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] Kayandiyaney ši hin ka barmay { -brand-short-name } suubarey ra.
            *[other] Kayandiyaney ši hin ka barmay { -brand-short-name } ibaayey ra.
         }
+
 unknowncontenttype-intro = War soobay ka feera:
 unknowncontenttype-which-is = kaŋ ti:
 unknowncontenttype-from = hun doo:

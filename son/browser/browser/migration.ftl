@@ -61,20 +61,9 @@ import-done-description = Hayiizey wey n' ka bere ka ben:
 
 import-close-source-browser = Soobay ka ceecikaw suubantaa daabu jina ka koy jine.
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Hun { $source } ra
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
-source-name-safari = Safari
-source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
-source-name-chromium = Chromium
-source-name-firefox = Mozilla Firefox
-source-name-360se = 360 Ceecikaw saajante
 
 imported-safari-reading-list = Cawhaya maašeede (Safari ra)
 imported-edge-reading-list = Cawhaya maašeede (From Edge)

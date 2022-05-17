@@ -50,6 +50,5 @@ redirectLoop-title = Moɲoo woo ši ma bisandi taaga boryo
 unknownSocketType-title = Zaabi kaŋ mana hongandi hun feršikaa do
 nssFailure2-title = Ciyari saajante kay
 corruptedContentError-title = Gundekuna laybante firka
-remoteXUL-title = XUL moora
 sslv3Used-title = Ši hin ka ciyari saajante tee
 inadequateSecurityError-title = War ciyaroo manti saajante

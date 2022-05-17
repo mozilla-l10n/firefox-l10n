@@ -63,8 +63,6 @@
 <!ENTITY errorReporting.automatic2 "Firkawey bangandi ka Mozilla faaba ka dii nungu laaley nda k'i gagay">
 <!ENTITY errorReporting.learnMore "Bay ka tonton…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Taare wa šendaa woo bayrandi Interneti nungoo koyey se.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Alhabar koyjinante: SSL_ERROR_UNSUPPORTED_VERSION">

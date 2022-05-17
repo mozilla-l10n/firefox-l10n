@@ -76,10 +76,6 @@ item-form-search-history =
 
 data-section-label = Bayhayey
 
-item-site-preferences =
-    .label = Nungu ibaayey
-    .accesskey = N
-
 item-offline-apps =
     .label = Bila-nda-ciyari Interneti nungu bayhayey
     .accesskey = B

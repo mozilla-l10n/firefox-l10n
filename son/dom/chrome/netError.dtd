@@ -80,9 +80,6 @@
 <!ENTITY corruptedContentErrorv2.title "Gundekuna laybante firka">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Moɲoo kaŋ war ga wiri k'a guna ši hin ka diyandi zama a mma goy nda kankamandiyan dabari laala, wala affoo kaŋ ši nda gaakašinay.</p><ul><li>Taare wa šendaa woo alhabar tee war nungoo koyey še.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL moora">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Taare wa šendaa woo bayrandi Interneti nungey koyey še.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "War ciyaroo manti saajante">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

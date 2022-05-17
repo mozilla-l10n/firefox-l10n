@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = Dirante
 about-networking-idle = Ši dira
 about-networking-host = Zunbudoo
-about-networking-tcp = TCP
 about-networking-sent = Sanbante
 about-networking-received = Duwante
 about-networking-family = Alaayan

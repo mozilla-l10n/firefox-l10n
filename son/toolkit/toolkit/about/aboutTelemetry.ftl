@@ -19,7 +19,6 @@ about-telemetry-events-section = Batey
 about-telemetry-simple-measurements-section = Neešiyan faalantey
 about-telemetry-slow-sql-section = SQL yaamar cee-yaynayaŋ
 about-telemetry-addon-details-section = Šilbayhaya tontoni
-about-telemetry-captured-stacks-section = Dekeri zaantey
 about-telemetry-late-writes-section = Hantum kokorantey
 about-telemetry-raw = JSON gani
 about-telemetry-full-sql-warning = HAWGAY: SQL hasaraw kayyan n' k atunandi. SQL tenjiri timmantey ši hin ka cebande ganda amma i ga sanbandi mooru-neešiyan bande.

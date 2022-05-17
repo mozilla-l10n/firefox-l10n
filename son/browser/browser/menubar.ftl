@@ -39,15 +39,6 @@ menu-quit =
 menu-quit-mac =
     .label = Fatta { -brand-shorter-name } ra
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Fatta { -brand-shorter-name } ra
-
 menu-about =
     .label = { -brand-shorter-name } ga
     .accesskey = a
@@ -77,9 +68,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Tuku feeri…
     .accesskey = T
-menu-file-close =
-    .label = Daabu
-    .accesskey = D
 menu-file-close-window =
     .label = Zanfunoo daabu
     .accesskey = d
@@ -92,9 +80,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Moo kayandiyan
     .accesskey = k
-menu-file-print-preview =
-    .label = Moo-fur ka kar
-    .accesskey = f
 menu-file-print =
     .label = Kar…
     .accesskey = K
@@ -256,9 +241,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Faaba
     .accesskey = F
-menu-help-feedback-page =
-    .label = Furari sanba…
-    .accesskey = s
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
