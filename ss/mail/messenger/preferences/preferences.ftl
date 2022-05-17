@@ -129,12 +129,6 @@ language-popup-label =
 
 download-dictionaries-link = Layishela Emadikshinali Ngetulu
 
-format-description = Linganisa kahle kujikajika kwefomethi yembhalo
-
-send-options-label =
-    .label = Tfumela Kwekutikhetsela...
-    .accesskey = T
-
 autocomplete-description = Nawufaka emakheli kumilayeto, ubobuka lokungenile lokufananako:
 
 ab-label =
@@ -171,4 +165,6 @@ email-picker-label =
 
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

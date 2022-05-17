@@ -16,9 +16,6 @@
 <!ENTITY attachMenu.accesskey "l">
 <!ENTITY attachPageCmd.label "Webpheji...">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Likhadi lakho (vCard)">
-<!ENTITY attachVCardCmd.accesskey "L">
 <!ENTITY closeCmd.label "Vala">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "v">
@@ -101,14 +98,6 @@
 
 <!ENTITY returnReceiptMenu.label "Buyisela irisithi">
 <!ENTITY returnReceiptMenu.accesskey "u">
-<!ENTITY autoFormatCmd.label "Othodithekthi">
-<!ENTITY autoFormatCmd.accesskey "o">
-<!ENTITY plainTextFormatCmd.label "Umbhalo lolula kuphela">
-<!ENTITY plainTextFormatCmd.accesskey "u">
-<!ENTITY htmlFormatCmd.label "Umbhalo lonotsile (HTML) kuphela">
-<!ENTITY htmlFormatCmd.accesskey "u">
-<!ENTITY bothFormatCmd.label "Umbhalo lolula nalonotsile (HTML)">
-<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "Umhlahlandlela">
 <!ENTITY priorityMenu.accesskey "u">
 <!ENTITY priorityButton.label "Umhlahlandlela:">

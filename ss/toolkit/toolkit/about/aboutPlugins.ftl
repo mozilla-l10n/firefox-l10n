@@ -19,3 +19,6 @@
 mime-type-label = Inhlobo yeMIME
 description-label = Inchazelo
 suffixes-label = Tijobelelo
+
+## Gecko Media Plugins (GMPs)
+

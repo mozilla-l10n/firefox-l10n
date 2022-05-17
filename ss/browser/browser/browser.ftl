@@ -102,6 +102,7 @@ browser-window-minimize-button =
 
 bookmarks-sidebar-content =
     .aria-label = Tibekiso
+
 bookmarks-toolbar-menu =
     .label = LiIthulusi-bha Letibekiso
 bookmarks-toolbar-placeholder =
@@ -160,6 +161,7 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Layishela
+
 tabs-toolbar-new-tab =
     .label = Emathebhu Lamasha
 

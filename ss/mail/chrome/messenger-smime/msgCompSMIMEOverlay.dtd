@@ -9,16 +9,3 @@
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
-<!ENTITY menu_securityEncryptRequire.accesskey "P">
-
-<!ENTITY menu_securitySign.label "Sayina lomlayeto ngekwedijithali">
-<!ENTITY menu_securitySign.accesskey "A">
-
-<!ENTITY menu_securityStatus.label "Lunguta kuvikeleka nelwati">
-<!ENTITY menu_securityStatus.accesskey "L">
-
-<!ENTITY securityButton.label "Kuvikeleka">
-<!ENTITY securityButton.tooltip "Buka noma gucula tinhlelo talokuvikelekile">
-
-<!ENTITY menu_viewSecurityStatus.label "Kuvikeleka kwembiko nelwati">
-<!ENTITY menu_viewSecurityStatus.accesskey "L">

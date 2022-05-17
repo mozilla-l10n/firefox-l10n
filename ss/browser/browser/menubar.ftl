@@ -27,10 +27,6 @@ menu-quit =
            *[other] S
         }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
 ## File Menu
 
 menu-file =
@@ -45,18 +41,12 @@ menu-file-new-window =
 menu-file-open-file =
     .label = Vula Lifayela…
     .accesskey = V
-menu-file-close =
-    .label = Vala
-    .accesskey = V
 menu-file-save-page =
     .label = Seva lelipheji njenge…
     .accesskey = n
 menu-file-print-setup =
     .label = Kuhlelwa Kwelipheji…
     .accesskey = K
-menu-file-print-preview =
-    .label = Kulunguta iprinti
-    .accesskey = i
 menu-file-print =
     .label = Printa…
     .accesskey = P
