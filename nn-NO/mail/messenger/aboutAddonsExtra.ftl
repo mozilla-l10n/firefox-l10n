@@ -5,4 +5,3 @@
 add-on-options-button =
     .title = Innstillingar for tillegg
 
-sidebar-preferences-button-title = { -brand-short-name }-innstillingar

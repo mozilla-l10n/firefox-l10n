@@ -35,14 +35,12 @@
 <!ENTITY images.label "Bilde">
 <!ENTITY popups.label "Sprettoppvindauge">
 <!ENTITY passwords.label "Passord">
-<!ENTITY masterpass.label "Hovudpassord">
 <!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "Sertifikat">
 
 <!ENTITY sync.label "Sync">
 
 <!ENTITY advance.label "Avansert">
-<!ENTITY scriptsAndWindows.label "Skript og programtillegg">
 <!ENTITY keynav.label "Tastaturnavigasjon">
 <!ENTITY findAsYouType.label "Finn medan du skriv">
 <!ENTITY cache.label "Snøgglager">

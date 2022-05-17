@@ -28,3 +28,4 @@ openpgp-key-undecided = Ikkje godkjend (ikkje bestemt)
 openpgp-key-rejected = Ikkje godkjend (avvist)
 
 openpgp-intro = Tilgjengelege offentlege nøklar for { $key }
+

@@ -82,9 +82,6 @@
 <!ENTITY corruptedContentErrorv2.title "Feil - øydelagt innhald">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Sida du freistar å visa kan ikkje opnast fordi ein feil i dataoverføringa vart oppdaga.</p><ul><li>Kontakt eigarane av nettstaden og informer dei om problemet.</li></ul>">
 
-<!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt nettstadeigarane og informer dei om dette problemet.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Tilkoplinga di er ikkje trygg">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

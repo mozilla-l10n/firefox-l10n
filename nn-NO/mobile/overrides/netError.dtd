@@ -99,9 +99,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "<p>Du bør ikkje leggja til ein unntaksregel om du brukar eit Internett-samband som du ikkje stolar fullstendig på, eller dersom du ikkje er van med å sjå slike åtvaringar for denne tenaren.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "Ekstern XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt nettstadseigarane og informer dei om dette problemet.</li></ul></p>">
-
 <!ENTITY sslv3Used.title "Kan ikkje kopla til trygt">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->

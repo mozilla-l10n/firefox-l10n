@@ -23,4 +23,3 @@ count-new-messages-radio =
     .label = Tal på nye meldingar
     .accesskey = n
 
-notification-settings-info = Du kan skru av merket på varselpanelet i systeminnstillingar.

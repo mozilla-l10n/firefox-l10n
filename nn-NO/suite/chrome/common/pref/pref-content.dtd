@@ -6,10 +6,6 @@
 
 <!ENTITY pref.content.title                     "Innhald">
 
-<!ENTITY siteIcons.label                        "Nettsideikon">
-<!ENTITY useSiteIcons.label                     "Vis nettsideikon">
-<!ENTITY useSiteIcons.accesskey                 "V">
-
 <!ENTITY scrolling.label                        "Rulling">
 <!ENTITY useAutoScroll.label                    "Bruk autorulling">
 <!ENTITY useAutoScroll.accesskey                "t">

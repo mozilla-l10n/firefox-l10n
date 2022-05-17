@@ -231,6 +231,7 @@ openpgp-key-man-key-details-key =
 
 openpgp-key-details-title =
     .title = Nøkkeleigenskapar
+
 openpgp-key-details-signatures-tab =
     .label = Sertifiseringar
 openpgp-key-details-structure-tab =
@@ -243,6 +244,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Type
 openpgp-key-details-key-part-label =
     .label = Nøkkeldel
+
 openpgp-key-details-algorithm-label =
     .label = Algoritme
 openpgp-key-details-size-label =
@@ -259,7 +261,6 @@ openpgp-key-details-fingerprint-label = Fingeravtrykk
 openpgp-key-details-sel-action =
     .label = Vel handling…
     .accesskey = V
-openpgp-key-details-also-known-label = Påståtte alternative identitetar til nøkkeleigaren:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Lat att
 openpgp-acceptance-label =
@@ -275,7 +276,6 @@ openpgp-acceptance-verified-label =
 key-accept-personal =
     For denne nøkkelen har du både den offentlege og den hemmelege delen. Du kan bruke han som ein personlig nøkkel.
     Dersom denne nøkkelen vart gitt til deg av nokon andre, ikkje bruk han som ein personleg nøkkel.
-key-personal-warning = Har du laga denne nøkkelen sjølv, og det viste nøkkeleigarskapet refererer til deg sjølv?
 openpgp-personal-no-label =
     .label = Nei, ikkje bruk han som den personlege nøkkelen min.
 openpgp-personal-yes-label =
@@ -285,15 +285,6 @@ openpgp-copy-cmd-label =
     .label = Kopier
 
 ## e2e encryption settings
-
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $identity (String) - the email address of the currently selected identity
-openpgp-description =
-    { $count ->
-        [0] Thunderbird har ikkje ein personleg OpenPGP-nøkkel for <b>{ $identity }</b>
-        [one] Thunderbird fant { $count } personleg OpenPGP-nøkkel assosiert med <b>{ $identity }</b>
-       *[other] Thunderbird fant { $count } personlege OpenPGP-nøklar assosierte med <b>{ $identity }</b>
-    }
 
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Den gjeldande konfigurasjonen din brukar nøkkelen <b>{ $key }</b>, som har gått ut.
@@ -359,15 +350,12 @@ key-expired-date = Nøkkelen gjekk ut den { $keyExpiry }
 key-expired-simple = Nøkkelen har gått ut
 key-revoked-simple = Nøkkelen vart tilbakekalla
 key-do-you-accept = Godtar du denne nøkkelen for å stadfeste digitale signaturar og for å kryptere meldingar?
-key-accept-warning = Unngå å akseptere ein useriøs lurenøkkel. Bruk ein annan kommunikasjonskanal enn e-post for å stadfeste fingeravtrykket på nøkkelen til korrespondenten din.
 
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Klarte ikkje å sende meldinga, fordi det er eit problem med den personlege nøkkelen din. { $problem }
 cannot-encrypt-because-missing = Klarte ikkje å sende denne meldinga med ende-til-ende-kryptering, fordi det er problem med nøklane til følgjande mottakarar: { $problem }
 window-locked = Meldingsvindauge er låst; sending avbroten
 
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Kryptert meldingsdel
 mime-decrypt-encrypted-part-concealed-data = Dette er ein kryptert meldingsdel. Du må opne det i eit eige vindauge ved å klikke på vedlegget.
 
 # Strings in keyserver.jsm
@@ -393,27 +381,6 @@ converter-decrypt-body-failed =
     Klarte ikkje å dekryptere meldinga med emnet
     { $subject }.
     Vil du prøve igjen med ei anna passordfrase eller vill du hoppe over meldinga?
-
-# Strings in gpg.jsm
-unknown-signing-alg = Ukjend signeringsalgoritme (ID: { $id })
-unknown-hash-alg = Ukjend kryptografisk hash (ID: { $id })
-
-# Strings in keyUsability.jsm
-expiry-key-expires-soon =
-    Nøkkelen din { $desc } går ut om mindre enn { $days } dagar.
-    Vi tilrår at du lagar eit nytt nøkkelpar og konfigurerer dei tilsvarande kontoane for å bruke det.
-expiry-keys-expire-soon =
-    Følgjande nøklar går ut om mindre enn { $days } dagar:{ $desc }.
-    Vi tilrår at du lagar nye nøklar og konfigurerer dei tilsvarande kontoane for å bruke dei.
-expiry-key-missing-owner-trust =
-    Den hemmelege nøkkelen din { $desc } manglar tiltru.
-    Vi tilrår at du stiller inn «Du stolar på sertifiseringar» til «ultimat», i nøkkeleigenskapar.
-expiry-keys-missing-owner-trust =
-    Følgjande av dei hemmelege nøklane dine manglar tiltru.
-    { $desc }.
-    Vi tilrår at du stiller inn «Du stolar på sertifiseringar» til «ultimat», i nøkkeleigenskapar.
-expiry-open-key-manager = Opne OpenPGP-nøkkelhandterar
-expiry-open-key-properties = Opne nøkkeleigenskapar
 
 # Strings filters.jsm
 filter-folder-required = Du må velje ei målmappe
@@ -647,9 +614,6 @@ send-to-news-warning =
     Dette er frårådd fordi det berre er fornuftig dersom alle medlemmane i gruppa kan dekryptere meldinga, dvs. meldinga må krypterast med nøkkelen til alle gruppedeltakarane. Send denne meldinga berre om du nøyaktig veit kva du gjer.
     Halde fram?
 save-attachment-header = Lagre dekryptert vedlegg
-no-temp-dir =
-    Klarte ikkje å finne ein mellombels katalog å skrive til
-    Spesifiser TEMP-miljøvariabelen
 possibly-pgp-mime = Eventuelt PGP-/MIME-kryptert eller signert melding; bruk «Dekrypter/stadfest»-funksjonen for å stadfeste
 cannot-send-sig-because-no-own-key = Klarte ikkje å signere denne meldinga digitalt, fordi du enno ikkje har konfigurert ende-til-ende-kryptering for <{ $key }>
 cannot-send-enc-because-no-own-key = Klarte ikkje å sende denne meldinga kryptert, fordi du enno ikkje har konfigurert ende-til-ende-kryptering for <{ $key }>

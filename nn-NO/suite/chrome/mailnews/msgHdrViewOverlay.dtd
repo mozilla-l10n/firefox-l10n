@@ -23,9 +23,6 @@
 <!ENTITY inReplyToField.label "Som-Svar-Til: ">
 <!ENTITY originalWebsite.label "Nettstad: ">
 
-<!ENTITY editMessage.label                 "Rediger utkast…">
-<!ENTITY editMessage.accesskey             "R">
-
 <!ENTITY attachmentsTree.label             "Vedlegg:">
 <!ENTITY attachmentsTree.accesskey         "V">
 <!ENTITY openAttachmentCmd.label           "Opne">
