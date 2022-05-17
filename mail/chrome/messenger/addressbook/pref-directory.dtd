@@ -4,6 +4,7 @@
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY addDirectory.label        "הוספה">
 <!ENTITY addDirectory.accesskey    "ה">

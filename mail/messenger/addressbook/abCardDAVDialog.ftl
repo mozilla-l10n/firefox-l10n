@@ -5,11 +5,14 @@
 carddav-dialog =
     .buttonlabelaccept = המשך
     .buttonaccesskeyaccept = ה
+
 carddav-username-label =
     .value = שם משתמש:
     .accesskey = ש
 carddav-location-label =
     .value = מיקום:
     .accesskey = מ
+
 carddav-known-incompatible = ידוע ש־{ $url } אינו תואם עם { -brand-short-name }.
 carddav-connection-error = החיבור נכשל.
+

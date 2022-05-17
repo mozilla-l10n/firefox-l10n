@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = שיתוף
     .accesskey = ש
-tab-context-share-more =
-    .label = עוד…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -88,13 +86,6 @@ tab-context-reopen-closed-tabs =
            *[other] פתיחת הלשוניות שנסגרו מחדש
         }
     .accesskey = מ
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] סגירת לשונית
-           *[other] סגירת לשוניות
-        }
-    .accesskey = ס
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -110,6 +101,7 @@ tab-context-move-tabs =
            *[other] העברת לשוניות
         }
     .accesskey = ע
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

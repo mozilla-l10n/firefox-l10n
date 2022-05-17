@@ -10,28 +10,10 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                  "מנהל פעילויות">
 
-<!ENTITY cmd.pause.label                  "השהייה">
-<!ENTITY cmd.pause.accesskey              "ש">
-<!ENTITY cmd.resume.label                 "המשך">
-<!ENTITY cmd.resume.accesskey             "מ">
-<!ENTITY cmd.cancel.label                 "ביטול">
-<!ENTITY cmd.cancel.accesskey             "ב">
-<!ENTITY cmd.undo.label                   "ביטול פעולה אחרונה">
-<!ENTITY cmd.undo.accesskey               "פ">
-<!ENTITY cmd.recover.label                "שחזור">
-<!ENTITY cmd.recover.accesskey            "ש">
-<!ENTITY cmd.retry.label                  "ניסיון חוזר">
-<!ENTITY cmd.retry.accesskey              "נ">
-<!ENTITY cmd.removeFromList.label         "הסרה מהרשימה">
-<!ENTITY cmd.removeFromList.accesskey     "ס">
-
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "ניקוי הרשימה">
 <!ENTITY cmd.clearList.tooltip            "הסרת פריטים שהושלמו, בוטלו או נכשלו מהרשימה">
 <!ENTITY cmd.clearList.accesskey          "נ">
-<!ENTITY cmd.find.commandkey              "f">
-<!ENTITY cmd.search.commandkey            "k">
 
-<!ENTITY searchBox.label                  "חיפוש…">

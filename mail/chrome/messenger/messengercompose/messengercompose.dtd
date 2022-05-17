@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "ק">
 <!ENTITY attachPageCmd.label "דף אינטרנט…">
 <!ENTITY attachPageCmd.accesskey "א">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "כרטיס אישי (vCard)">
-<!ENTITY attachVCardCmd.accesskey "כ">
 <!ENTITY remindLater.label "להזכיר לי מאוחר יותר">
 <!ENTITY remindLater.accesskey "ז">
 <!ENTITY closeCmd.label "סגירה">
@@ -147,16 +144,6 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "יידוע מצב קבלה">
 <!ENTITY dsnMenu.accesskey "י">
-<!ENTITY deliveryFormatMenu.label "תבנית העברה">
-<!ENTITY deliveryFormatMenu.accesskey "ב">
-<!ENTITY autoFormatCmd.label "זיהוי אוטומטי">
-<!ENTITY autoFormatCmd.accesskey "א">
-<!ENTITY plainTextFormatCmd.label "טקסט פשוט בלבד">
-<!ENTITY plainTextFormatCmd.accesskey "פ">
-<!ENTITY htmlFormatCmd.label "טקסט עשיר (HTML) בלבד">
-<!ENTITY htmlFormatCmd.accesskey "ע">
-<!ENTITY bothFormatCmd.label "טקסט פשוט וגם עשיר (HTML)">
-<!ENTITY bothFormatCmd.accesskey "ג">
 <!ENTITY priorityMenu.label "עדיפות">
 <!ENTITY priorityMenu.accesskey "ע">
 <!ENTITY priorityButton.title "עדיפות">

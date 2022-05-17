@@ -91,9 +91,6 @@
 <!ENTITY corruptedContentErrorv2.title "שגיאת תוכן פגום">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>לא ניתן להציג את הדף המבוקש מכיוון שאותרה שגיאה בתעבורת הנתונים.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL מרוחק">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "החיבור שלך אינו מאובטח">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

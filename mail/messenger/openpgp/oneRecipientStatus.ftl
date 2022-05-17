@@ -12,3 +12,4 @@ openpgp-one-recipient-status-created-date =
     .label = תאריך יצירה
 openpgp-one-recipient-status-expires-date =
     .label = תפוגה
+

@@ -24,9 +24,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "מסננים">
 <!ENTITY importFilters.accesskey  "מ">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "אשף יבוא הדואר של &brandShortName;">
 <!ENTITY importShortDesc.label    "יבא דואר, פנקסי כתובות, הגדרות ומסננים מתוכנות אחרות">
 

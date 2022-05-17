@@ -13,7 +13,6 @@ rights-intro-point-5 = חלק מהתכונות של { -brand-short-name } משת
 rights-intro-point-5-unbranded = אם מוצר זה כולל שירותי רשת, יש לקשר כל תנאי שירות ישים עבור השירות(ים) אל הסעיף <a data-l10n-name="mozilla-website-services-link">שירותי אתרים</a>.
 rights-intro-point-6 = כדי לנגן סוגים מסוימים של תוכן וידאו, על { -brand-short-name } להוריד רכיבי פענוח תוכן מסוימים מגורמי צד שלישי.
 rights-webservices-header = שירותי מידע מבוססי רשת של { -brand-full-name }
-rights-webservices = { -brand-full-name } משתמש בשירותי מידע מבוססי רשת (להלן "Services") כדי לספק חלק מהתכונות שלו המסופקות לשימושך עם הגרסה הבינארית הזו של { -brand-short-name } תחת התנאים שמתוארים מטה. אם אינך רוצה להשתמש באחד או יותר משירותים אלו או שהתנאים המצוינים למטה אינם מתאימים לך, אתה יכול לנטרל את התכונות או השירותים. הוראות לניטרול תכונות או שירותים מסוימים יכולות להימצא <a data-l10n-name="mozilla-disable-service-link">כאן</a>. תכונות ושירותים אחרים ניתנים לנטרול בהעדפות היישום.
 rights-locationawarebrowsing = <strong>גלישה מבוססת מיקום:</strong> תמיד ממתינה לאישור המשתמש. אף מידע מיקום לא נשלח בלי לקבל את רשותך. אם ברצונך לנטרל את התכונה הזו לחלוטין, יש לעקוב אחר צעדים אלו:
 rights-locationawarebrowsing-term-1 = בשורת הכתובות, הקש <code>about:config</code>
 rights-locationawarebrowsing-term-2 = הקלד geo.enabled

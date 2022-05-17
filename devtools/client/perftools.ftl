@@ -34,15 +34,14 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = גודל חוצץ:
+
 perftools-custom-threads-label = הוספת תהליכונים מותאמים אישית לפי שם:
+
 perftools-devtools-threads-label = תהליכונים
 perftools-devtools-settings-label = הגדרות
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
-perftools-status-private-browsing-notice =
-    יוצר הפרופילים מושבת כאשר גלישה פרטית פעילה.
-    יש לסגור את כל החלונות הפרטיות כדי לאפשר מחדש את יוצר הפרופילים.
 perftools-status-recording-stopped-by-another-tool = ההקלטה הופסקה על־ידי כלי אחר.
 perftools-status-restart-required = יש להפעיל מחדש את הדפדפן כדי להפעיל תכונה זו.
 
@@ -78,7 +77,11 @@ perftools-thread-dns-resolver =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## devtools.performance.new-panel-onboarding preference is true.
+
 perftools-onboarding-message = <b>חדש</b>: { -profiler-brand-name } משולב כעת בכלי הפיתוח. <a>מידע נוסף</a> על הכלי החדש והעוצמתי הזה.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (לזמן מוגבל, ניתן לגשת לחלונית הביצועים המקורית דרך <a>{ options-context-advanced-settings }</a>)
 
@@ -91,21 +94,19 @@ perftools-onboarding-reenable-old-panel = (לזמן מוגבל, ניתן לגש�
 
 perftools-presets-web-developer-label = Web Developer
 perftools-presets-web-developer-description = ערכה מומלצת עבור רוב ניפויי השגיאות של יישומוני רשת, עם תקורה נמוכה.
-perftools-presets-firefox-platform-label = Firefox Platform
-perftools-presets-firefox-platform-description = ערכה מומלצת לניפוי שגיאות בפלטפורמה הפנימית של Firefox.
-perftools-presets-firefox-front-end-label = Firefox Front-End
-perftools-presets-firefox-front-end-description = ערכה מומלצת לניפוי שגיאות בממשק הקצה הקדמי הפנימי של Firefox.
-perftools-presets-firefox-graphics-label = Firefox Graphics
-perftools-presets-firefox-graphics-description = ערכה מומלצת לחקירת ביצועי הגרפיקה של Firefox.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = ערכת מומלצת ליצירת פרופיל ביצועים של { -brand-shorter-name }.
+
 perftools-presets-graphics-label = Graphics
 perftools-presets-graphics-description = ערכה לחקירת באגים גרפיים ב־{ -brand-shorter-name }.
+
 perftools-presets-media-label = Media
-perftools-presets-media-description = ערכה מומלצת לאבחון בעיות שמע ווידאו.
 perftools-presets-media-description2 = ערכה לחקירת באגים בשמע ווידאו ב־{ -brand-shorter-name }.
+
 perftools-presets-networking-label = Networking
 perftools-presets-networking-description = ערכה לחקירת באגים של רשת או תקשורת ב־{ -brand-shorter-name }.
+
 perftools-presets-custom-label = התאמה אישית
 
 ##

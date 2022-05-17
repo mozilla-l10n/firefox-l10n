@@ -26,7 +26,6 @@ about-telemetry-events-section = אירועים
 about-telemetry-simple-measurements-section = מדדים פשוטים
 about-telemetry-slow-sql-section = משפטי SQL איטיים
 about-telemetry-addon-details-section = פרטי תוספות
-about-telemetry-captured-stacks-section = מחסניות שנלכדו
 about-telemetry-late-writes-section = כתיבה מאוחרת
 about-telemetry-raw-payload-section = מטען גולמי
 about-telemetry-raw = JSON גולמי
@@ -96,10 +95,6 @@ about-telemetry-addon-provider = ספק { $addonProvider }
 about-telemetry-keys-header = מאפיין
 about-telemetry-names-header = שם
 about-telemetry-values-header = ערך
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (ספירת לכידות: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = כתיבה מאוחרת #{ $lateWriteCount }

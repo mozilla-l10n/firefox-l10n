@@ -14,24 +14,8 @@ experimental-features-web-gpu2 =
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-media-avif =
-    .label = Media: AVIF
-
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-inputmode =
-    .label = Web API: inputmode
-
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
-
-experimental-features-devtools-color-scheme-simulation =
-    .label = כלי פיתוח: הדמיית ערכת צבעים
-
-experimental-features-devtools-execution-context-selector =
-    .label = כלי פיתוח: בורר הקשר לביצוע
 
 experimental-features-devtools-compatibility-panel =
     .label = כלי פיתוח: חלונית תאימות
@@ -61,14 +45,4 @@ experimental-features-webrtc-global-mute-toggles-description = הוספת פקד
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
 experimental-features-js-warp-description = הפעלת Warp, מיזם לשיפור הביצועים וניצול הזיכרון של JavaScript.
-
-# Fission is the name of the feature and should not be translated.
-experimental-features-fission =
-    .label = ‏Fission (בידוד אתרים)
-experimental-features-fission-description = ‏Fission (בידוד אתרים) היא תכונה ניסיונית ב־{ -brand-short-name } המספקת שכבת הגנה נוספת מפני באגים של אבטחה. על־ידי בידוד כל אתר לתהליך נפרד, Fission מקשה על אתרים זדוניים לקבל גישה למידע מדפים אחרים בהם המשתמש מבקר. זהו שינוי אדריכלי משמעותי ב־{ -brand-short-name } ונשמח לקבל דיווחים על כל בעיה שתימצא בבדיקות. לפרטים נוספים ניתן לקרוא את  <a data-l10n-name="wiki">הוויקי</a>.
-
-# Support for having multiple Picture-in-Picture windows open simultaneously
-experimental-features-multi-pip =
-    .label = תמיכה בהצגת חלונות מרובים של תמונה בתוך תמונה
-experimental-features-multi-pip-description = תמיכה ניסיונית המאפשרת לחלונות מרובים של מצב תמונה בתוך תמונה להיות פתוחים בו זמנית.
 

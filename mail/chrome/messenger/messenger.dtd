@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "ח">
 <!ENTITY newVirtualFolderCmd.label "חיפוש שמור…">
 <!ENTITY newVirtualFolderCmd.accesskey "פ">
-<!ENTITY newOtherAccountsCmd.label "חשבונות אחרים…">
-<!ENTITY newOtherAccountsCmd.accesskey "א">
 <!ENTITY newCreateEmailAccountCmd.label "קבלת חשבון דואר חדש…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "ח">
 <!ENTITY newExistingEmailAccountCmd.label "חשבון דואר קיים…">
@@ -44,8 +42,6 @@
 <!ENTITY openMessageFileCmd.accesskey "ת">
 <!ENTITY saveAsMenu.label "שמור">
 <!ENTITY saveAsMenu.accesskey "מ">
-<!ENTITY saveAsFileCmd.label "כקובץ">
-<!ENTITY saveAsFileCmd.accesskey "כ">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "כתבנית">
 <!ENTITY saveAsTemplateCmd.accesskey "נ">
@@ -911,3 +907,4 @@
 <!ENTITY openAddressBookDock.label      "פתיחת פנקס כתובות">
 
 <!-- Content tab Navigation buttons -->
+

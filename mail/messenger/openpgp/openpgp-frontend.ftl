@@ -4,5 +4,8 @@
 
 openpgp-import-sender-key =
     .label = ייבוא…
+
 openpgp-missing-signature-key = הודעה זו נחתמה עם מפתח שעדיין אין לך.
+
 openpgp-broken-exchange-wait = נא להמתין…
+

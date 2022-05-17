@@ -105,6 +105,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "ק">
 <!ENTITY newlistButton.label                            "רשימה חדשה">
 <!ENTITY newlistButton.accesskey                        "ר">
+
 <!ENTITY showAsDefault.label                            "תיקיית בררת מחדל בהפעלה">
 <!ENTITY showAsDefault.accesskey                        "פ">
 <!ENTITY editPropertiesButton.label                     "עריכה">
