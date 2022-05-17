@@ -33,10 +33,6 @@ menu-quit =
            *[other] Г
         }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
 ## File Menu
 
 menu-file =
@@ -51,9 +47,6 @@ menu-file-new-window =
 menu-file-open-file =
     .label = Файл нээ…
     .accesskey = н
-menu-file-close =
-    .label = Хаа
-    .accesskey = Х
 menu-file-close-window =
     .label = Цонх хаа
     .accesskey = х
@@ -63,9 +56,6 @@ menu-file-save-page =
 menu-file-print-setup =
     .label = Хуудасны тохиргоо
     .accesskey = и
-menu-file-print-preview =
-    .label = Хэвлэх харагдац
-    .accesskey = р
 menu-file-print =
     .label = Хэвлэ…
     .accesskey = л

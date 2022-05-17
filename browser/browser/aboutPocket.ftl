@@ -18,3 +18,7 @@ pocket-panel-signup-learn-more = Нэмэлт мэдээлэл
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

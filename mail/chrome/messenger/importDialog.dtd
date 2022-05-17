@@ -58,9 +58,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY importDialog.windowTitle "Импорт">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "&brandShortName; Захиа импортлох хэсэг">
 <!ENTITY importShortDesc.label         "Бусад програмаас захиа, хаягийн тэмдэглэл, тохиргоо мөн шүүлтүүр импортлох">
 

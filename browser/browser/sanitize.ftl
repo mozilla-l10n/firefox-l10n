@@ -52,10 +52,6 @@ item-cache =
 
 data-section-label = Өгөгдлүүд
 
-item-site-preferences =
-    .label = Вэб хуудасны тохиргоо
-    .accesskey = т
-
 item-offline-apps =
     .label = Салангид хуудасны өгөгдөл
     .accesskey = ө

@@ -16,9 +16,6 @@
 <!ENTITY attachMenu.accesskey "р">
 <!ENTITY attachPageCmd.label "Вэб хуудас…">
 <!ENTITY attachPageCmd.accesskey "с">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Хувийн карт (vCard)">
-<!ENTITY attachVCardCmd.accesskey "к">
 <!ENTITY closeCmd.label "Хаа">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "Х">
@@ -104,14 +101,6 @@
 <!ENTITY returnReceiptMenu.accesskey "д">
 <!ENTITY dsnMenu.label "Илгээх төлвийн мэдэгдэл">
 <!ENTITY dsnMenu.accesskey "л">
-<!ENTITY autoFormatCmd.label "Автоматаар тань">
-<!ENTITY autoFormatCmd.accesskey "т">
-<!ENTITY plainTextFormatCmd.label "Зөвхөн текст">
-<!ENTITY plainTextFormatCmd.accesskey "к">
-<!ENTITY htmlFormatCmd.label "Зөвхөн хэлбэртэй текст (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "е">
-<!ENTITY bothFormatCmd.label "Энгийн ба дүрэмтэй текст(HTML) ">
-<!ENTITY bothFormatCmd.accesskey "Э">
 <!ENTITY priorityMenu.label "Давуу эрх">
 <!ENTITY priorityMenu.accesskey "у">
 <!ENTITY priorityButton.label "Давуу эрх:">

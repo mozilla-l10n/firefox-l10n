@@ -9,13 +9,6 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountTypeTitle.label "Шинэ бүртгэлийн тохиргоо">
-<!ENTITY accountTypeDirections.label "Тохируулах бүртгэлийнхээ төрлийг сонгоно уу:">
-<!ENTITY accountTypeMail.label "Захианы бүртгэл">
-<!ENTITY accountTypeMail.accesskey "З">
-<!ENTITY accountTypeNews.label "Мэдээний групын бүртгэл">
-<!ENTITY accountTypeNews.accesskey "М">
-
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Таних нэр">
@@ -31,20 +24,11 @@
 
 <!-- Entities for Incoming Server page -->
 
-<!ENTITY incomingServerTypeDesc.label "Хэрэглэж байгаа хүлээж авах серверийн төрлийг сонгоно уу.">
-<!ENTITY imapType.label "IMAP">
-<!ENTITY imapType.accesskey "I">
-<!ENTITY popType.label "POP">
-<!ENTITY popType.accesskey "P">
 <!ENTITY newsServerNameDesc.label "Мэдээний серверийн нэрийг оруулна уу (NNTP) (жишээлбэл, &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "Мэдээний групын сервер:">
 <!ENTITY newsServerLabel.accesskey "М">
 
 <!-- Entities for Outgoing Server page -->
-
-<!ENTITY haveSmtp1.prefix "Таны одоогийн илгээх сервер (SMTP), &quot;">
-<!ENTITY haveSmtp2.prefix "Таны одоогийн илгээх сервер(SMTP)-н хэрэглэгчийн нэр, &quot;">
-<!ENTITY haveSmtp3.prefix "Таны илгээх сервер (SMTP), &quot;">
 
 <!-- Entities for Account name page -->
 
@@ -57,12 +41,6 @@
 
 <!ENTITY completionTitle.label "Баяр хүргэе!">
 <!ENTITY completionText.label "Дараах мэдээлэл зөв эсэхийг шалгана уу.">
-<!ENTITY serverTypePrefix.label "Захиа хүлээн авах серверийн төрөл:">
-<!ENTITY serverNamePrefix.label "Хүлээн авах серверийн нэр:">
-<!ENTITY smtpServerNamePrefix.label "Илгээх сервер (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Мэдээний серверийн нэр (NNTP):">
-<!ENTITY downloadOnLogin.label "Захиануудыг одоо татаж ав">
-<!ENTITY deferStorageDesc.label "Өөрийн санд энэ бүртгэлийн захиаг хадгалахын тулд үүний чагтал. Ингэвэл энэ бүртгэлийг хамгийн дээд бүртгэл мэт харуулах болно. Эс бөгөөс Ерөнхий ирэх захианы бүртгэлийн дотоод сангийн хэсэг болно.">
-<!ENTITY deferStorage.label "Ерөнхий Ирсэн захиа санг хэрэглэ (захиаг дотоод санд хадгална)">
 <!ENTITY clickFinish.label "Дуусга товч дээр дарж энэ тохиргоог хадгалан Бүртгэл хэсгээс гарна уу.">
 <!ENTITY clickFinish.labelMac "Гүйцэтгэв гэсэн товч дээр дарж эдгээр тохиргоог хадгалан Бүртгэл хэсгээс гарна уу.">
