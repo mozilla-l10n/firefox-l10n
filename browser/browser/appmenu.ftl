@@ -5,23 +5,21 @@
 
 ## App Menu
 
-appmenuitem-update-banner3 =
-    .label-update-downloading = Telecargament mesa a jorn de { -brand-shorter-name }
-    .label-update-available = Mesa a jorn disponibla — telecargar ara
-    .label-update-manual = Mesa a jorn disponibla — telecargar ara
-    .label-update-unsupported = Mesa a jorn impossibla — sistèma incompatible
-    .label-update-restart = Mesa a jorn disponibla — reaviar ara
-appmenuitem-protection-dashboard-title = Taula de bòrd de las proteccions
 appmenuitem-banner-update-downloading =
     .label = Telecargament mesa a jorn de { -brand-shorter-name }
+
 appmenuitem-banner-update-available =
     .label = Mesa a jorn disponibla — telecargar ara
+
 appmenuitem-banner-update-manual =
     .label = Mesa a jorn disponibla — telecargar ara
+
 appmenuitem-banner-update-unsupported =
     .label = Mesa a jorn impossibla — sistèma incompatible
+
 appmenuitem-banner-update-restart =
     .label = Mesa a jorn disponibla — reaviar ara
+
 appmenuitem-new-tab =
     .label = Onglet novèl
 appmenuitem-new-window =
@@ -58,6 +56,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Tampar lo menú d’aplicacion
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -78,23 +77,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Se connectar a la sincronizacion…
 appmenu-remote-tabs-turn-on-sync =
     .label = Activar la sincronizacion…
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Afichar mai d’onglets
     .tooltiptext = Mostrar mai d’onglets d’aqueste periferic
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Cap d’onglet pas dobèrt
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Activatz la sincronizacion dels onglets per afichar la lista dels onglets dels vòstres autres periferics.
+
 appmenu-remote-tabs-opensettings =
     .label = Paramètres
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Volètz veire aquí los onglets dels vòstres autres periferics ?
+
 appmenu-remote-tabs-connectdevice =
     .label = Connectar un autre periferic
 appmenu-remote-tabs-welcome = Mostrar la lista dels onglets de vòstres autres periferics.
 appmenu-remote-tabs-unverified = Cal verificar vòstre compte.
+
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar ara
 appmenuitem-fxa-sign-in = Se connectar a { -brand-product-name }
 appmenuitem-fxa-manage-account = Gestion del compte
@@ -108,13 +114,14 @@ appmenu-fxa-sync-and-save-data2 = Sincronizar e enregistrar las donadas
 appmenu-fxa-signed-in-label = Connexion
 appmenu-fxa-setup-sync =
     .label = Activar la sincronizacion…
-appmenu-fxa-show-more-tabs = Afichar mai d’onglets
+
 appmenuitem-save-page =
     .label = Enregistrar jos…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Qué de nòu
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -128,48 +135,53 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Perfilaire
     .tooltiptext = Enregistrar un perfil de performança
+
 profiler-popup-button-recording =
     .label = Profilador
     .tooltiptext = Lo profilador es a enregistrar un perfil
+
 profiler-popup-button-capturing =
     .label = Profilador
     .tooltiptext = Lo profilador es a capturar un perfil
+
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Mostrar mai d‘informacions
+
 profiler-popup-description-title =
     .value = Enregistrar, analisar, partejar
+
 profiler-popup-description = Collaboratz a la resolucion de problèmas de performanças en publicant de perfils a partejar amb vòstra còla.
-profiler-popup-learn-more = Ne saber mai
+
 profiler-popup-learn-more-button =
     .label = Ne saber mai
+
 profiler-popup-settings =
     .value = Paramètres
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings = Modificar los paramètres…
-profiler-popup-disabled =
-    Lo perfilador es actualament desactivat, probablament a causa d’una fenèstra de navegacion privada
-    dobèrta
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Modificar los paramètres…
+
 profiler-popup-recording-screen = Enregistrament...
-# The profiler presets list is generated elsewhere, but the custom preset is defined
-# here only.
-profiler-popup-presets-custom =
-    .label = Personalizat
+
 profiler-popup-start-recording-button =
     .label = Començar l’enregistrament
+
 profiler-popup-discard-button =
     .label = Ignorar
+
 profiler-popup-capture-button =
     .label = Capturar
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Maj.+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -187,18 +199,23 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Reglatge recomandat pel desbugatge de la màger part de las aplicacions amb pauca subrecarga.
 profiler-popup-presets-web-developer-label =
     .label = Desvolopaire web
+
 profiler-popup-presets-firefox-description = Reglatge recomandat pel perfilatge de { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+
 profiler-popup-presets-graphics-description = Preconfiguracion per analisar los bugs grafics dins { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Grafic
+
 profiler-popup-presets-media-description2 = Preconfiguracion per analisar los bugs àudio e vidèo dins { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Multimèdia
+
 profiler-popup-presets-networking-description = Preconfiguracion per analisar los bugs de ret { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Ret
+
 profiler-popup-presets-custom-label =
     .label = Personalizats
 
@@ -233,9 +250,6 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = M
 appmenu-help-report-site-issue =
     .label = Senhalar lo problèma del site…
-appmenu-help-feedback-page =
-    .label = Balhar vòstre vejaire…
-    .accesskey = B
 appmenu-help-share-ideas =
     .label = Partejar d’idèas e de retorns…
     .accesskey = P
@@ -264,8 +278,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personalizar la barra d‘aisinas…
-appmenu-taskmanager =
-    .label = Gestionari de tascas
+
 appmenu-developer-tools-subheader = Aisinas del navegador
 appmenu-developer-tools-extensions =
     .label = Extensions pels desvolopaires

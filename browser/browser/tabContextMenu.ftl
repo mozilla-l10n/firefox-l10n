@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Partejar
     .accesskey = P
-tab-context-share-more =
-    .label = Mai…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -89,14 +87,6 @@ tab-context-reopen-closed-tabs =
            *[other] Tornar dobrir los onglets tampats
         }
     .accesskey = t
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Tampar l’onglet
-            [one] Tampar l’onglet
-           *[other] Tampar los onglets
-        }
-    .accesskey = T
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -113,6 +103,7 @@ tab-context-move-tabs =
            *[other] Desplaçar los onglets
         }
     .accesskey = D
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

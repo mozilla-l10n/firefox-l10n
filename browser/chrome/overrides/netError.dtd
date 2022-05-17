@@ -107,8 +107,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Senhalar de talas errors ajuda Mozilla a identificar e blocar de sites malvolents">
 <!ENTITY errorReporting.learnMore "Ne saber mai…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Contactatz lo webmèstre del site per l'assabentar d'aqueste problèma.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informacion avançada: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -134,9 +132,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Sembla que la configuracion actuala de seguretat del ret a provocat aquesta error. Restablir los paramètres per defaut ?">
 <!ENTITY prefReset.label "Restablir los paramètres per defaut">
-
-<!ENTITY enableTls10.longDesc "Aqueste site web poiriá pas prendre en carga lo protocòl TLS 1.2, qu'es la version minimala presa en carga per &brandShortName;. L’activacion de TLS 1.0 e TLS 1.1 poiriá permetre a la connexion de foncionar.">
-<!ENTITY enableTls10.note "TLS 1.0 e TLS 1.1 seràn desactivats per totjorn per las versions venentas.">
-<!ENTITY enableTls10.label "Activar TLS 1.0 e 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>La pagina que volètz veire pòt pas èsser afichada a causa d’una error de protocòl ret detectada.</p><ul><li>Mercés de contactar los proprietaris del site web per los informar d’aqueste problèma.</li></ul>">

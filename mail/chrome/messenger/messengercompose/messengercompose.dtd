@@ -18,9 +18,6 @@
 <!ENTITY attachMenu.accesskey "J">
 <!ENTITY attachPageCmd.label "Page Web…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Carte de visite personnelle (vCard)">
-<!ENTITY attachVCardCmd.accesskey "C">
 <!ENTITY closeCmd.label "Fermer">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "F">
@@ -115,14 +112,6 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "Notification d'état de la distribution">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY autoFormatCmd.label "Détection automatique">
-<!ENTITY autoFormatCmd.accesskey "a">
-<!ENTITY plainTextFormatCmd.label "Texte seulement">
-<!ENTITY plainTextFormatCmd.accesskey "T">
-<!ENTITY htmlFormatCmd.label "HTML seulement">
-<!ENTITY htmlFormatCmd.accesskey "s">
-<!ENTITY bothFormatCmd.label "Texte et HTML">
-<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "Priorité">
 <!ENTITY priorityMenu.accesskey "p">
 <!ENTITY priorityButton.label "Priorité :">

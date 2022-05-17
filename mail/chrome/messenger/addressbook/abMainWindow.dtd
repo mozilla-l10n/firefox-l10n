@@ -88,6 +88,7 @@
 <!ENTITY newContactButton.accesskey                     "c">
 <!ENTITY newlistButton.label                            "Lista novèla">
 <!ENTITY newlistButton.accesskey                        "l">
+
 <!ENTITY newmsgButton.label                             "Escriure">
 <!ENTITY newmsgButton.accesskey                         "c">
 <!ENTITY newIM.label                                    "Messatge instantanèu">

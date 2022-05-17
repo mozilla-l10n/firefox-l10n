@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Donadas
 
-item-site-preferences =
-    .label = Preferéncias del site
-    .accesskey = P
-
 item-site-settings =
     .label = Paramètres de site
     .accesskey = P

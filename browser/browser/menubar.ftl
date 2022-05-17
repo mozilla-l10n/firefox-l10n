@@ -38,16 +38,11 @@ menu-quit =
             [windows] Q
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Sortir de { -brand-shorter-name }
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Sortir de { -brand-shorter-name }
+
 menu-about =
     .label = A prepaus de { -brand-shorter-name }
     .accesskey = A
@@ -77,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Dobrir un fichièr…
     .accesskey = o
-menu-file-close =
-    .label = Tampar
-    .accesskey = a
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 menu-file-close-tab =
@@ -105,9 +97,6 @@ menu-file-share-url =
 menu-file-print-setup =
     .label = Mesa en pagina…
     .accesskey = M
-menu-file-print-preview =
-    .label = Apercebut abans impression
-    .accesskey = A
 menu-file-print =
     .label = Imprimir…
     .accesskey = i
@@ -320,9 +309,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = M
 menu-help-report-site-issue =
     .label = Senhalar lo problèma del site…
-menu-help-feedback-page =
-    .label = Balhar vòstre vejaire…
-    .accesskey = B
 menu-help-share-ideas =
     .label = Partejar d’idèas e de retorns…
     .accesskey = P

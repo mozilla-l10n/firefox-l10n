@@ -15,8 +15,6 @@
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Enregistrar coma">
 <!ENTITY saveAsMenu.accesskey "s">
-<!ENTITY saveAsFileCmd.label "Fichièr">
-<!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Modèl">
 <!ENTITY saveAsTemplateCmd.accesskey "M">

@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Apondre d'etiquetas
+
 pocket-panel-saved-error-generic = Una error s'es producha en ensajant d'enregistrar dins { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Las etiquetas an un limit de 25 caractèrs
 pocket-panel-saved-error-only-links = Se pòdon pas enregistrar que los ligams
@@ -29,6 +30,7 @@ pocket-panel-saved-saving-tags = Enregistrament…
 pocket-panel-saved-suggested-tags = Etiquetas recomandadas
 pocket-panel-saved-tags-saved = Etiquetas apondudas
 pocket-panel-signup-view-list = Afichar la lista
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Apondre etiquetas :
 
@@ -43,7 +45,7 @@ pocket-panel-signup-signup-firefox = Se marcar amb { -brand-product-name }
 pocket-panel-signup-tagline = Salvatz d'articles e vidèos de { -brand-product-name } per los veire en { -pocket-brand-name } de quin periferic que siá quand volatz.
 pocket-panel-signup-tagline-story-one = Clicatz lo boton { -pocket-brand-name } per salvar d'articles, vidèos o paginas de { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Vejatz lo contengut de { -pocket-brand-name } de quin periferic que siá quand volatz.
-pocket-panel-signup-cta-a = Vòstre boton per enregistrar los internets.
+
 pocket-panel-signup-cta-a-fix = Vòstre boton per enregistrar los internets
 pocket-panel-signup-cta-b = Clicatz lo boton { -pocket-brand-name } per salvar d’articles, de vidèos e de ligams. Vejatz vòstra lista de quin aparelh que siá, quand volgatz.
 pocket-panel-signup-cta-b-short = Clicatz lo boton { -pocket-brand-name } per enregistrar d’articles, de vidèos e de ligams.
@@ -57,6 +59,7 @@ pocket-panel-home-paragraph = Podètz utilizar { -pocket-brand-name } per explor
 pocket-panel-home-explore-popular-topics = Descobrir lo subjèctes populars
 pocket-panel-home-discover-more = Ne veire mai
 pocket-panel-home-explore-more = Descobrir
+
 pocket-panel-home-most-recent-saves = Vaquí vòstres darrièrs enregistraments :
 pocket-panel-home-most-recent-saves-loading = Cargament des salvaments recents…
 pocket-panel-home-new-user-cta = Clicatz lo boton { -pocket-brand-name } per enregistrar d’articles, de vidèos e de ligams.
@@ -70,6 +73,5 @@ pocket-panel-header-sign-in = Connexion
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Afichar tot
-pocket-panel-button-add-tags = Apondre d'etiquetas
 pocket-panel-button-activate = Activar { -pocket-brand-name } dins { -brand-product-name }
 pocket-panel-button-remove = Tirar

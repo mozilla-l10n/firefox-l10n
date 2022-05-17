@@ -9,16 +9,3 @@
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
-<!ENTITY menu_securityEncryptRequire.accesskey "r">
-
-<!ENTITY menu_securitySign.label "Signar numericament aqueste messatge">
-<!ENTITY menu_securitySign.accesskey "S">
-
-<!ENTITY menu_securityStatus.label "Veire las informacions de seguretat">
-<!ENTITY menu_securityStatus.accesskey "i">
-
-<!ENTITY securityButton.label "Seguretat">
-<!ENTITY securityButton.tooltip "Veire o modificar los paramètres de seguretat">
-
-<!ENTITY menu_viewSecurityStatus.label "Infos de seguretat del messatge">
-<!ENTITY menu_viewSecurityStatus.accesskey "I">
