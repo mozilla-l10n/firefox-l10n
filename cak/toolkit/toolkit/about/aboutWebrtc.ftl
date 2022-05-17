@@ -61,9 +61,6 @@ about-webrtc-ice-component-id = ID Ch'akulal
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
-about-webrtc-avg-bitrate-label = Nik'aj ral wok'altäq b'itz:
-about-webrtc-avg-framerate-label = Nik'aj ral wok'altäq rusilowachib'alil:
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.

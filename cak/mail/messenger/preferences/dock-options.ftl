@@ -23,4 +23,3 @@ count-new-messages-radio =
     .label = Kajilab'al k'ak'a' taq tzijol
     .accesskey = k
 
-notification-settings-info = Yatikïr nachüp ri retal pa rupas Kitzijol Kajowab'al Q'inoj.

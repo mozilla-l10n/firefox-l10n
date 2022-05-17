@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (ojer, tojtob'enel, n
 compatibility-settings-button-label = Taq runuk'ulem
 compatibility-settings-button-title =
     .title = Taq runuk'ulem
-compatibility-feedback-button-label = Ya'oj na'oj
-compatibility-feedback-button-title =
-    .title = Ya'oj na'oj
 
 ## Messages used as headers in settings pane
 
@@ -46,3 +43,4 @@ compatibility-issue-occurrences =
 compatibility-no-issues-found = Majun k'ayewal rik'in k'amonem xilitäj.
 compatibility-close-settings-button =
     .title = Ketz'apïx taq runuk'ulem
+

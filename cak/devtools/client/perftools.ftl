@@ -51,9 +51,6 @@ perftools-devtools-settings-label = Taq nuk'ulem
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
-perftools-status-private-browsing-notice =
-    Nichup ri ya'öl ruwäch rub'i' toq nitzijtäj ri ichinan okem pa k'amaya'l.
-    Ke'atz'apij ronojel ri ichinan taq tzuwäch richin nitzij chik ri ya'öl ruwäch rub'i'
 perftools-status-recording-stopped-by-another-tool = Jun chik samajib'äl xuq'ät ri yakoj.
 perftools-status-restart-required = K'o chi nitikirisäx chik ri okik'amaya'l richin nitzij re samaj re'.
 
@@ -109,6 +106,9 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## devtools.performance.new-panel-onboarding preference is true.
+
 perftools-onboarding-message = <b>K'ak'a'</b>: { -profiler-brand-name } wakami k'o wi pe pa Kisamajib'al B'anonela'. <a>Tetamäx ch'aqa'</a> chi rij re nïm samajib'äl.
 
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
@@ -116,3 +116,11 @@ perftools-onboarding-reenable-old-panel = (Jun ch'utiramaj yatikïr yatok pa ri 
 
 perftools-onboarding-close-button =
     .aria-label = Titz'apïx ri nab'ey rutzijol
+
+## Profiler presets
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+##

@@ -22,10 +22,6 @@ process-type-extension = K'amal
 # process used to open file:// URLs
 process-type-file = Aj Wawe' Yakb'äl
 
-# process used to isolate webpages that requested special
-# permission to allocate large amounts of memory
-process-type-weblargeallocation = Nïm Ya'oj
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Rupam K'amaya'l pa Mejmïk

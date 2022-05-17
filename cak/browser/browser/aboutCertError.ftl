@@ -115,7 +115,6 @@ unknownSocketType-title = Man oyob'en ta re rutzijol tajin nuya' pe ri ruk'u'x s
 nssFailure2-title = Xq'ate' ri ütz okem
 csp-xfo-error-title = { -brand-short-name } Man Nitikïr Ta Nujäq Re Ruxaq Re'
 corruptedContentError-title = Sachoj Ruma Itzel Rupam
-remoteXUL-title = Näj XUL
 sslv3Used-title = Man tikirel ta ütz nok
 inadequateSecurityError-title = Itzel ri awokem
 blockedByPolicy-title = Xq'at Ruxaq

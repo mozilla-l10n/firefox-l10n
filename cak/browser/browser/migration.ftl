@@ -78,23 +78,9 @@ import-done-description = Pa rub'eyal xek'am re jujun taq ruch'akulal re':
 
 import-close-source-browser = Tab'ana' utzil, tajikib'a' awi' chi ri okik'amaya'l xacha' k'o chi tz'apäl chuwäch xtachäp chik samaj.
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Richin { $source }
-
 source-name-ie = Explorer K'amaya'l
 source-name-edge = Microsoft Edge
-source-name-edge-beta = Microsoft Edge Beta
-source-name-safari = Safari
-source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
-source-name-chrome-beta = Google Chrome Beta
-source-name-chrome-dev = Google Chrome Dev
-source-name-chromium = Chromium
-source-name-firefox = Mozilla Firefox
-source-name-360se = 360 Ütz chi K'amaya'l
 
 imported-safari-reading-list = Rucholajem taq sik'inem (richin ri Safari)
 imported-edge-reading-list = Rucholajem taq sik'inem (richin Edge)

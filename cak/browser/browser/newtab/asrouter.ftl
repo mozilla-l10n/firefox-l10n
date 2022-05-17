@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Chilab'en Samaj
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Aruma nintz'ët re'
+
 cfr-doorhanger-extension-cancel-button = Wakami Mani
     .accesskey = M
+
 cfr-doorhanger-extension-ok-button = Titz'aqatisäx Wakami
     .accesskey = T
+
 cfr-doorhanger-extension-manage-settings-button = Kenuk'samajïx taq Kinuk'ulem Chilab'enïk
     .accesskey = K
+
 cfr-doorhanger-extension-never-show-recommendation = Man Tik'ut re Chilab'enïk re'
     .accesskey = T
+
 cfr-doorhanger-extension-learn-more-link = Tetamäx ch'aqa' chik
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = ruma { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Chilab'enïk
 cfr-doorhanger-extension-notification2 = Chilab'enïk
     .tooltiptext = Ruchilab'exik k'amal
     .a11y-announcement = Ruchilab'exik k'amal k'o
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Chilab'enïk
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Tetamäx ch'aqa' chik
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = K'ak'a' samaj:
+
 cfr-whatsnew-button =
     .label = K'ak'a' Rutzijol
     .tooltiptext = K'ak'a' Rutzijol
+
 cfr-whatsnew-release-notes-link-text = Tasik'ij ri k'ak'a' rutzijol
 
 ## Enhanced Tracking Protection Milestones
@@ -122,6 +132,8 @@ cfr-doorhanger-video-support-header = Tak'exa' { -brand-short-name } richin natz
 cfr-doorhanger-video-support-primary-button = Tik'ex Wakami
     .accesskey = T
 
+## Spotlight modal shared strings
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
@@ -130,3 +142,8 @@ cfr-doorhanger-video-support-primary-button = Tik'ex Wakami
 
 spotlight-public-wifi-vpn-link = Wakami Mani
     .accesskey = M
+
+## Total Cookie Protection Rollout
+
+## Emotive Continuous Onboarding
+

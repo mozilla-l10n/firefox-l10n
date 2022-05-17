@@ -30,7 +30,6 @@ newsgroups-label = Rumolaj tzijol
     .aria-label = Tokisäx pa jun rumolaj tzijol
 
 import-title = Tijik' pa Jun Chik Solkema'
-import-paragraph = { -brand-short-name } nuya' q'ij chi yejik' taq kitaqoya'l, kitz'ib'anik kitz'ib'awuj ochochib'äl, taq kinuk'ulem, chuqa' taq Kichayub'al ch'aqa' chik taq kikema' rub'i' taqoya'l chuqa' relik taq kib'anikil kitz'ib'awuj taq ochochib'äl.
 
 import-label = Tijik' pe
     .aria-label = Kejik' taq tzij pa ch'aqa' chik taq solkema'

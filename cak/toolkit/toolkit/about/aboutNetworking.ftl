@@ -19,7 +19,6 @@ about-networking-ssl = SSL
 about-networking-active = Tzijïl
 about-networking-idle = Chupül
 about-networking-host = Ruk'u'x Samaj
-about-networking-tcp = TCP
 about-networking-type = Ruwäch
 about-networking-sent = Titaq
 about-networking-received = K'ulun

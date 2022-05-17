@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Ri rajilab'al q'ijul xokisäx pa ri tzub'aj toq ri xuk'äm kan jun k'utub'äl ri tz'etöy q'ijul.">
 <!ENTITY performanceUI.table.function                 "Rusamaj">
 <!ENTITY performanceUI.table.function.tooltip         "Rub'i' chuqa' ruk'ojlib'al rux'el ri rusamaj ruk'utub'al.">
-<!ENTITY performanceUI.table.totalAlloc               "Ronojel ri taq rujachoj ri k'utub'äl">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Ronojel ri rajilab'al taq jachoj k'utun pa re k'ojlib'äl re'.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

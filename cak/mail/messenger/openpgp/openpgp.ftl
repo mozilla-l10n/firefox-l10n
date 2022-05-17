@@ -50,9 +50,11 @@ openpgp-key-man-fingerprint-label =
 
 openpgp-key-details-title =
     .title = Taq Richinil Ruk'u'x Tzij
+
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Ruwäch
+
 openpgp-key-details-algorithm-label =
     .label = Alworit
 openpgp-key-details-size-label =

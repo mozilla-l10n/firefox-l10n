@@ -20,6 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Tikanöx
     .aria-label = Tikanöx
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Takanoj pa { $engine } o tatz'ib'aj ri rochochib'al
@@ -34,10 +35,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Tikanöx chuqa' titz'ib'äx ri ochochib'äl
     .title = Tikanöx chuqa' titz'ib'äx ri ochochib'äl
     .aria-label = Tikanöx chuqa' titz'ib'äx ri ochochib'äl
-newtab-search-box-search-the-web-input =
-    .placeholder = Tikanöx pan Ajk'amaya'l
-    .title = Tikanöx pan Ajk'amaya'l
-    .aria-label = Tikanöx pan Ajk'amaya'l
+
 newtab-search-box-text = Tikanöx pan ajk'amaya'l
 newtab-search-box-input =
     .placeholder = Tikanöx pan ajk'amaya'l
@@ -46,17 +44,18 @@ newtab-search-box-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Titz'aqatisäx Kanob'äl
-newtab-topsites-add-topsites-header = K'ak'a' Utziläj Ruxaq K'amaya'l
 newtab-topsites-add-shortcut-header = K'ak'a' Chojokem
 newtab-topsites-edit-topsites-header = Tinuk' re Utziläj Ruxaq K'amaya'l re'
 newtab-topsites-edit-shortcut-header = Tinuk' Chojokem
 newtab-topsites-title-label = B'i'aj
 newtab-topsites-title-input =
     .placeholder = Tatz'ib'aj jun b'i'aj
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Tatz'ib'aj o tatz'ajb'a' jun URL
 newtab-topsites-url-validation = Ütz URL k'atzinel
+
 newtab-topsites-image-url-label = Ichinan Ruwachib'al URL
 newtab-topsites-use-image-link = Tokisäx jun ichinan ruwachib'al…
 newtab-topsites-image-validation = Man xsamajib'ëx ta ri wachib'äl. Titojtob'ëx rik'in jun chik URL.
@@ -85,10 +84,12 @@ newtab-topsite-sponsored = To'on
 newtab-menu-section-tooltip =
     .title = Tijaq k'utsamaj
     .aria-label = Tijaq k'utsamaj
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Tiyuj
     .aria-label = Tiyuj
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -160,10 +161,12 @@ newtab-label-removed-bookmark = Yaketal elesan el
 newtab-label-recommended = Rujawaxik
 newtab-label-saved = Yakon pa { -pocket-brand-name }
 newtab-label-download = Xqasäx
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · To'on
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -193,7 +196,6 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = Jeb'ël Taq Ruxaq
-newtab-section-header-highlights = Ya'on kiq'ij
 newtab-section-header-recent-activity = K'ak'a' samaj
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
@@ -202,6 +204,7 @@ newtab-section-header-pocket = Chilab'en ruma { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Katok pa k'amaya'l richin niqak'üt chawäch jeb'ël taq cholna'oj, taq silowachib'äl, chuqa' ch'aqa' chik taq ruxaq k'a b'a' ke'atz'ët o aya'on kan ketal wawe'.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -224,6 +227,9 @@ newtab-pocket-more-recommendations = Ch'aqa' chik taq Chilab'enïk
 newtab-pocket-learn-more = Tetamäx ch'aqa' chik
 newtab-pocket-cta-button = Tik'ul { -pocket-brand-name }
 newtab-pocket-cta-text = Ke'ayaka' ri taq b'anob'äl ye'awajo' pa { -pocket-brand-name }, chuqa' taya' ruchuq'a' ajolom kik'in jeb'ël taq sik'inïk.
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

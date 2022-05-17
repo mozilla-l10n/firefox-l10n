@@ -109,8 +109,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Taya' kitzijol k'ayewal achi'el re ruwäch re' richin nato' ri Mozilla chi nuya' ketal chuqa' yeruq'ät itzel taq ruxaq k'amaya'l.">
 <!ENTITY errorReporting.learnMore "Tetamäx ch'aqa' chik…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Q'axinäq chi etamab'äl: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -136,9 +134,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Achi'el ta chi ja ri runuk'ulem rujikomal k'amab'ey, ri nib'ano re re'. ¿La nawajo' chi nitzolïx ri runuk'ulem kan k'o wi?">
 <!ENTITY prefReset.label "Titzolïx ri runuk'ulem kan k'o wi">
-
-<!ENTITY enableTls10.longDesc "Rik'in jub'a' re ajk'amaya'l ruxaq man nuk'äm ta ri rik'in ri TLS 1.2 rub'eyal samaj, ja ri ruwäch nik'ul ruma &brandShortName;. TWe yetzij TLS 1.0 chuqa' TLS 1.1 rik'in jub'a' nuya' q'ij chi re okem re' ütz nub'än.">
-<!ENTITY enableTls10.note "TLS 1.0 chuqa' TLS 1.1 xkechuputäj pa jun ruwäch ri chwa'q kab'ij.">
-<!ENTITY enableTls10.label "Ketzij TLS 1.0 chuqa' 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Man tikirel ta nik'ut ri ruxaq nawajo' natz'ët ruma xilitäj jun sachoj chi rij rub'eyal nisamäj k'amab'ey.</p><ul><li>Katzijon rik'in ri rajaw ajk'amaya'l ruxaq richin naya' rutzijol re k'ayewal re'.</li></ul>">

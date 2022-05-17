@@ -71,16 +71,8 @@ mobile-app-card-content = Tokisäx ri oyonib'äl okik'amaya'l rik'in ri kemon ch
 mobile-app-links = { -brand-product-name } Okik'amaya'l richin <a data-l10n-name="android-mobile-inline-link">Android</a> chuqa' <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 
 lockwise-title = Man tamestaj chik jun ewan tzij
-lockwise-title-logged-in2 = Runuk'samajel Ewan Tzij
-lockwise-header-content = { -lockwise-brand-name } ütz ke'ayaka' ri ewan taq atzij pan awokik'amaya'l.
 lockwise-header-content-logged-in = Ütz ke'ayaka' ri ewan taq atzij chuqa' ke'axima' pa ronojel awokisab'al.
-protection-report-save-passwords-button = Keyak Ewan taq Tzij
-    .title = Keyak Ewan taq Tzij pa { -lockwise-brand-short-name }
-protection-report-manage-passwords-button = Kenuk'samajïx Ewan taq Tzij
-    .title = Kenuk'samajïx Ewan taq Tzij pa { -lockwise-brand-short-name }
-lockwise-mobile-app-title = Xab'akuchi' ke'ak'waj ri ewan taq atzij
-lockwise-no-logins-card-content = Tawokisaj ewan taq tzij eyakon pa { -brand-short-name } pa xab'achike okisab'äl.
-lockwise-app-links = { -lockwise-brand-name } richin <a data-l10n-name="lockwise-android-inline-link">Android</a> chuqa' <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+
 
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.

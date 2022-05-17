@@ -60,10 +60,8 @@ about-processes-unknown-process = Juley: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-large-allocation-process = { $origin } ({ $pid }), nïm)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }), xoch'in-jech'en ruxe'el)
 about-processes-web-isolated-process-private = { $origin } — Ichinan ({ $pid })
-about-processes-web-large-allocation-process-private = { $origin } — Ichinan ({ $pid }, nïm)
 about-processes-with-coop-coep-process-private = { $origin } — Ichinan ({ $pid }), xoch'in-jech'en ruxe'el)
 
 ## Details within processes
@@ -135,10 +133,6 @@ about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "pe
 
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (netäx)
-
-# Special case: process or thread is currently idle.
-about-processes-cpu-idle = chupül
-    .title = Ronojel ruq'ijul: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:

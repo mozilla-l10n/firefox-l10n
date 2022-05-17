@@ -6,7 +6,6 @@ privatebrowsingpage-open-private-window-label = Tijaq jun Ichinan Tzuwäch
     .accesskey = I
 about-private-browsing-search-placeholder = Tikanöx pan Ajk'amaya'l
 about-private-browsing-info-title = At k'o pa jun Ichinan Tzuwäch
-about-private-browsing-info-myths = Ch'ob'on taq tzij chi rij ri ichinan okem pa k'amaya'l
 about-private-browsing-search-btn =
     .title = Tikanöx pan ajk'amaya'l
 # Variables
@@ -20,16 +19,17 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Takanoj pa { $engine } o tatz'ib'aj ri rochochib'al
 about-private-browsing-handoff-text-no-engine = Tikanöx o titz'ib'äx ochochib'äl
 about-private-browsing-not-private = Wakami man at k'o ta chupam jun ichinan tzuwäch.
-about-private-browsing-info-description = { -brand-short-name } nuyüj ri ri rukanoxik chuqa' runatab'al awokem pa k'amaya'l toq yatel pa ri okisab'äl o ye'atz'ajij ri taq ruwi' chuqa' ichinan okem taq tzuwäch. Estape' re re' man yatrewaj ta pan ajk'amaya'l o chuwäch ri niya'on k'amaya'l chawe. Nub'än chi man k'ayew ta nachajij ri ichinan nab'än pa k'amab'ey chuwäch jun chik winäq nrokisaj ri kematz'ib' ri'.
-about-private-browsing-need-more-privacy = ¿La nawajo' mas ichinanem?
-about-private-browsing-turn-on-vpn = Tatojtob'ej { -mozilla-vpn-brand-name }
 about-private-browsing-info-description-private-window = Ichinan tzuwäch: { -brand-short-name } nuyüj ri runatab'al xakanoj chuqa' awokik'amaya'l toq ye'atz'apij ri ichinan taq tzuwäch, po man yatrewaj ta.
 about-private-browsing-info-description-simplified = { -brand-short-name } nuyüj ri runatab'al xakanoj chuqa' awokik'amaya'l toq ye'atz'apij ri ichinan taq tzuwäch, po man yatrewaj ta.
 about-private-browsing-learn-more-link = Tetamäx ch'aqa' chik
+
 about-private-browsing-hide-activity = Tawewaj ri asamaj chuqa' ri ak'ojlib'al, xab'akuchi' at k'o wi
 about-private-browsing-get-privacy = Tak'ulu' ato'ik pa ruwi' ichinanem xab'akuchi' yatok wi pa k'amaya'l
 about-private-browsing-hide-activity-1 = Tawewaj ri asamaj pa ruwi' okem pa k'amaya'l chuqa' ri ak'ojlib'al rik'in { -mozilla-vpn-brand-name }. Jun pitz'oj nunük' jun jikïl okem, achi'el chuqa' pa winaqil Wi-Fi.
 about-private-browsing-prominent-cta = Tachajij ri awichinanem rik'in { -mozilla-vpn-brand-name }
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -42,5 +42,4 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Titz'apïx
-about-private-browsing-dismiss-button =
-    .title = Tewäx
+

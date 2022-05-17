@@ -24,9 +24,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "Taq chayub'äl">
 <!ENTITY importFilters.accesskey  "c">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "&brandShortName; Tijik' To'onel">
 <!ENTITY importShortDesc.label    "Tijik'Kitaqoya'l, Kitz'ib'awuj Ochochib'äl, taq Kinuk'ulem, chuqa' taq Kichayub'al ch'aqa' chik taq kema'">
 

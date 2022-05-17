@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "T">
 <!ENTITY SecondEmail.label              "Ruka'n Taqoya'l:">
 <!ENTITY SecondEmail.accesskey          "a">
-<!ENTITY PreferMailFormat.label         "Ticha' yek'ul taq rutzjol eb'anon achi'el:">
-<!ENTITY PreferMailFormat.accesskey     "y">
 <!ENTITY PlainText.label                "Meb'anikil Cholan Tzij">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Man etaman ta">

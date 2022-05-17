@@ -116,9 +116,6 @@ restore-default-label =
     .accesskey = T
 
 default-search-engine = K'o wi chi Kanob'äl
-add-search-engine =
-    .label = Titz'aqatisäx rik'in yakb'äl
-    .accesskey = T
 remove-search-engine =
     .label = Tiyuj
     .accesskey = y
@@ -143,8 +140,6 @@ change-dock-icon = Kejal taq rajowab'al ruwachaj chokoy
 app-icon-options =
     .label = Kicha'oj Ruwachaj Chokoy…
     .accesskey = w
-
-notification-settings = Kitzijol k'ayewal chuqa' k'oxom k'o wi yatikïr ye'achüp ri ketal pa rupas Kitzijol Kajowab'al Q'inoj.
 
 animated-alert-label =
     .label = Tik'ut jun retal k'ayewal
@@ -337,14 +332,6 @@ quoted-text-color =
     .label = B'onil:
     .accesskey = o
 
-type-column-label =
-    .label = Ruwäch Rupam
-    .accesskey = R
-
-action-column-label =
-    .label = B'anoj
-    .accesskey = B
-
 save-to-label =
     .label = Keyak yakb'äl pa
     .accesskey = y
@@ -497,12 +484,6 @@ restore-html-label =
 default-format-label =
     .label = Tokisäx rub'anikil Motzaj chuwäch Ruch'akul Cholan Rutzij k'o wi
     .accesskey = M
-
-format-description = Tib'an runuk'ulem runa'oj rub'anikil cholan tzij
-
-send-options-label =
-    .label = Kejaq Cha'oj…
-    .accesskey = K
 
 autocomplete-description = Toq nitz'ib'äx jun ochochib'äl, kekanöx ri nikik'äm ki' rik'in pa:
 
@@ -772,8 +753,6 @@ theme-label =
     .value = Wachinïk:
     .accesskey = W
 
-style-thunderbird =
-    .label = Thunderbird
 style-bubbles =
     .label = Taq roqowinïk
 style-dark =
@@ -795,4 +774,6 @@ chat-variant-label =
 
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

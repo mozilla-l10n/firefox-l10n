@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Ajk'amaya'l Ruxaq…">
 <!ENTITY attachPageCmd.accesskey "A">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Ichinan Pirt'im (vCard)">
-<!ENTITY attachVCardCmd.accesskey "I">
 <!ENTITY remindLater.label "Tinatäx pe Chwe pa Jumej">
 <!ENTITY remindLater.accesskey "J">
 <!ENTITY closeCmd.label "Titz'apïx">
@@ -148,16 +145,6 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "Rutzijol Rub'anikil Jachoj">
 <!ENTITY dsnMenu.accesskey "R">
-<!ENTITY deliveryFormatMenu.label "Rukaxawäch Jachoj">
-<!ENTITY deliveryFormatMenu.accesskey "R">
-<!ENTITY autoFormatCmd.label "Ruyon Tiitz'et">
-<!ENTITY autoFormatCmd.accesskey "t">
-<!ENTITY plainTextFormatCmd.label "Xa Xe Cholan Tzij Majun Rub'anikil">
-<!ENTITY plainTextFormatCmd.accesskey "R">
-<!ENTITY htmlFormatCmd.label "Xa Xe Tz'aqatisan Cholan Tzij (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "X">
-<!ENTITY bothFormatCmd.label "Relik Cholan Tzij chuqa' Tz'aqatisan Cholan Tzij (HTML)">
-<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "Ya'on ruq'ij">
 <!ENTITY priorityMenu.accesskey "y">
 <!ENTITY priorityButton.title "Ya'on ruq'ij">

@@ -38,16 +38,11 @@ menu-quit =
             [windows] e
            *[other] T
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Tel pa { -brand-shorter-name }
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Tel el pa { -brand-shorter-name }
+
 menu-about =
     .label = Chi rij ri { -brand-shorter-name }
     .accesskey = C
@@ -77,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Tijaq Yakb'äl…
     .accesskey = T
-menu-file-close =
-    .label = Titz'apïx
-    .accesskey = T
 menu-file-close-window =
     .label = Titz'apïx Tzuwäch
     .accesskey = w
@@ -95,9 +87,6 @@ menu-file-share-url =
 menu-file-print-setup =
     .label = Tib'an Runuk'ulem Ruxaq…
     .accesskey = u
-menu-file-print-preview =
-    .label = Nab'ey Tz'etoj
-    .accesskey = e
 menu-file-print =
     .label = Titz'ajb'äx…
     .accesskey = T
@@ -310,9 +299,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = E
 menu-help-report-site-issue =
     .label = Tiya' rutzijol ri ruk'ayewal Ruxaq K'amaya'l…
-menu-help-feedback-page =
-    .label = Ketaq taq Rutzijol…
-    .accesskey = K
 menu-help-enter-troubleshoot-mode2 =
     .label = Kib'anikil taq K'ayewal…
     .accesskey = K

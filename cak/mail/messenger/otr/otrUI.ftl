@@ -8,5 +8,3 @@ finger-verify = Tinik'öx
 
 state-private-label = Ichinan
 
-error-title = Sachoj
-
