@@ -5,6 +5,7 @@
 toolbar-context-menu-view-customize-toolbar =
     .label = Solal…
     .accesskey = S
+
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Banqaasu njël yi
     .accesskey = B

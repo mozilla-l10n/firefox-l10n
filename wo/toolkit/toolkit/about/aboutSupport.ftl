@@ -43,6 +43,7 @@ app-basics-profiles = Jëmm
 app-basics-multi-process-support = Palanteeri bari-jëfiin
 app-basics-key-mozilla = Caabig Mozilla Location Service
 app-basics-safe-mode = Anam gu am kaaraange
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Wone ci Finder

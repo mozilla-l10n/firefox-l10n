@@ -22,4 +22,3 @@ proxyResolveFailure-title = Kenn mënula gis serwëër proxy bi
 redirectLoop-title = Xët wi kenn jubaluko bu baax
 unknownSocketType-title = Tontu bu kenn xalaatulwoon ci serwëër bi
 nssFailure2-title = Lajju jokkoo bi ànd ak kaarange
-remoteXUL-title = XUL bu sori

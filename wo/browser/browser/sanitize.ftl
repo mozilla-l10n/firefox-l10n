@@ -52,10 +52,6 @@ item-cache =
 
 data-section-label = Rootaan yi
 
-item-site-preferences =
-    .label = Taamu dalub web
-    .accesskey = T
-
 item-offline-apps =
     .label = Rotaani dalub web yu jokkoowul
     .accesskey = R

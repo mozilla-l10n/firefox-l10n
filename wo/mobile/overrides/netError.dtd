@@ -175,9 +175,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "XUL bu sori">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Jokkool ak boroomi dalub web ngir yëgal leen jafe jafe bi.</li></ul></p>">
-
 <!ENTITY sslv3Used.title "Lonku cig karaange antuwul">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->

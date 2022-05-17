@@ -23,36 +23,13 @@ downloads-cmd-cancel =
     .tooltiptext = Neenal
 downloads-cmd-cancel-panel =
     .aria-label = Neenal
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = Ubbi wayndare bi ëmb dencukaay bi
-    .accesskey = w
   
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = Wone ci biir Finder
-    .accesskey = F
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] Wone ci biir Finder
-           *[other] Ubbi wayndare bi ëmb dencukaay bi
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] Wone ci biir Finder
-           *[other] Ubbi wayndare bi ëmb dencukaay bi
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] Wone ci biir Finder
-           *[other] Ubbi wayndare bi ëmb dencukaay bi
-        }
+##
 
 downloads-cmd-retry =
     .tooltiptext = Jéemaat
@@ -81,4 +58,11 @@ downloads-cmd-copy-download-link =
 downloads-history =
     .label = Wone yeb yépp
     .accesskey = W
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
 

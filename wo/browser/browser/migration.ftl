@@ -47,16 +47,8 @@ import-done-page-title = Fat mi jeex na
 
 import-done-description = Mbir yile fatu nañu ak ndam :
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Fate ko ci { $source }
-
 source-name-ie = Internet Explorer
-source-name-safari = Safari
 source-name-chrome = Google Chrome
-source-name-firefox = Mozilla Firefox
 
 imported-safari-reading-list = Limu jàng (dale ko ci Safari )
 

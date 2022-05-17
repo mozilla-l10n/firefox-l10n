@@ -4,5 +4,3 @@
 
 customize-mode-restore-defaults =
     .label = Restore Natural Order
-customize-mode-lwthemes =
-    .label = Tem yi

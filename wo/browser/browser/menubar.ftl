@@ -35,10 +35,6 @@ menu-quit =
            *[other] G
         }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
 menu-about =
     .label = Ñeel { -brand-shorter-name }
     .accesskey = A
@@ -65,9 +61,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Ubbi ab dencukaay…
     .accesskey = O
-menu-file-close =
-    .label = Tëj
-    .accesskey = T
 menu-file-close-window =
     .label = Tëj palanteer bi
     .accesskey = T
@@ -80,9 +73,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Jekk-jekkali xët…
     .accesskey = u
-menu-file-print-preview =
-    .label = Gisandi laata móol
-    .accesskey = v
 menu-file-print =
     .label = Móol…
     .accesskey = M
@@ -228,6 +218,3 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Ndimbal
     .accesskey = H
-menu-help-feedback-page =
-    .label = Joxe sa xalaat…
-    .accesskey = S
