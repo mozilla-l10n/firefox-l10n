@@ -24,9 +24,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "Filtri">
 <!ENTITY importFilters.accesskey  "F">
 
-<!ENTITY  window.width            "45em">
-<!ENTITY  window.macWidth         "50em">
-
 <!ENTITY importTitle.label        "Importazione guidata di &brandShortName;">
 <!ENTITY importShortDesc.label    "Importa posta, impostazioni, rubrica e filtri da altri programmi">
 

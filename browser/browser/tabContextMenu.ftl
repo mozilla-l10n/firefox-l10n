@@ -71,8 +71,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Condividi
     .accesskey = o
-tab-context-share-more =
-    .label = Altro…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -84,13 +82,6 @@ tab-context-reopen-closed-tabs =
            *[other] Riapri schede chiuse
         }
     .accesskey = s
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Chiudi scheda
-           *[other] Chiudi schede
-        }
-    .accesskey = C
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -105,6 +96,7 @@ tab-context-move-tabs =
            *[other] Sposta schede
         }
     .accesskey = S
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

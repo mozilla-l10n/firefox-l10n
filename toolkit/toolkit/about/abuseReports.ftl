@@ -54,10 +54,10 @@ abuse-report-messagebar-error-recent-submit = La segnalazione per <span data-l10
 
 abuse-report-messagebar-action-remove-extension = Rimuovi
 abuse-report-messagebar-action-keep-extension = Mantieni
-abuse-report-messagebar-action-remove-theme = Rimuovi
-abuse-report-messagebar-action-keep-theme = Mantieni
 abuse-report-messagebar-action-remove-sitepermission = Rimuovi
 abuse-report-messagebar-action-keep-sitepermission = Mantieni
+abuse-report-messagebar-action-remove-theme = Rimuovi
+abuse-report-messagebar-action-keep-theme = Mantieni
 abuse-report-messagebar-action-retry = Riprova
 abuse-report-messagebar-action-cancel = Annulla
 

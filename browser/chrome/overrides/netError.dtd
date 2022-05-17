@@ -150,8 +150,6 @@
 <!ENTITY errorReporting.automatic2 "Segnala errori come questo per aiutare Mozilla a identificare e bloccare siti dannosi">
 <!ENTITY errorReporting.learnMore "Ulteriori informazioni…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Contattare l’amministratore del sito web e segnalare il problema.</li></ul></p>">
-
 <!ENTITY sslv3Used.longDesc2 "Informazioni avanzate: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY certerror.pagetitle2 "Attenzione: potenziale rischio per la sicurezza">
@@ -173,9 +171,5 @@
 
 <!ENTITY prefReset.longDesc "Sembra che il problema sia causato dalle impostazioni di sicurezza della rete. Ripristinare le impostazioni predefinite?">
 <!ENTITY prefReset.label "Ripristina impostazioni predefinite">
-
-<!ENTITY enableTls10.longDesc "Questo sito web non supporta il protocollo TLS 1.2, la versione minima utilizzata da &brandShortName;. Potrebbe essere possibile completare la connessione attivando TLS 1.0 e TLS 1.1.">
-<!ENTITY enableTls10.note "TLS 1.0 e TLS 1.1 verranno disattivati definitivamente in una prossima versione.">
-<!ENTITY enableTls10.label "Attiva TLS 1.0 e 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>La pagina che si sta cercando di visualizzare non può essere mostrata poiché si è verificato un errore nel protocollo di rete.</p><ul><li>Contattare il proprietario del sito web per informarlo del problema.</li></ul>">

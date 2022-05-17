@@ -3,76 +3,109 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Gestione componenti aggiuntivi
+
 search-header =
     .placeholder = Cerca in addons.mozilla.org
     .searchbuttonlabel = Cerca
+
 search-header-shortcut =
     .key = f
+
 list-empty-get-extensions-message = Visita <a data-l10n-name="get-extensions">{ $domain }</a> per installare estensioni e temi
+
 list-empty-get-dictionaries-message = Visita <a data-l10n-name="get-extensions">{ $domain }</a> per installare dizionari
+
 list-empty-get-language-packs-message = Visita <a data-l10n-name="get-extensions">{ $domain }</a> per installare pacchetti per la lingua
+
 list-empty-installed =
     .value = Non risulta installato alcun componente aggiuntivo di questo tipo
+
 list-empty-available-updates =
     .value = Nessun aggiornamento disponibile
+
 list-empty-recent-updates =
     .value = Nessun componente aggiuntivo è stato aggiornato di recente
+
 list-empty-find-updates =
     .label = Controlla aggiornamenti
+
 list-empty-button =
     .label = Scopri altre informazioni sui componenti aggiuntivi
+
 help-button = Supporto componenti aggiuntivi
 sidebar-help-button-title =
     .title = Supporto componenti aggiuntivi
+
 addons-settings-button = Impostazioni di { -brand-short-name }
 sidebar-settings-button-title =
     .title = Impostazioni di { -brand-short-name }
+
 show-unsigned-extensions-button =
     .label = Non è stato possibile verificare alcune estensioni
+
 show-all-extensions-button =
     .label = Visualizza tutte le estensioni
+
 detail-version =
     .label = Versione
+
 detail-last-updated =
     .label = Ultimo aggiornamento
+
 detail-contributions-description = Lo sviluppatore di questo componente aggiuntivo chiede agli utenti una piccola donazione per contribuire al suo sviluppo.
+
 detail-contributions-button = Fai una donazione
     .title = Contribuisci allo sviluppo di questo componente aggiuntivo
     .accesskey = C
+
 detail-update-type =
     .value = Aggiornamento automatico
+
 detail-update-default =
     .label = Predefinito
     .tooltiptext = Installa automaticamente gli aggiornamenti se questa è l’impostazione predefinita
+
 detail-update-automatic =
     .label = Attivo
     .tooltiptext = Installa automaticamente gli aggiornamenti
+
 detail-update-manual =
     .label = Disattivato
     .tooltiptext = Non installare automaticamente gli aggiornamenti
+
 detail-private-browsing-label = Funzionamento in finestre anonime
+
 detail-private-disallowed-label = Disattivata in finestre anonime
 detail-private-disallowed-description2 = Questa estensione non funziona in navigazione anonima. <<a data-l10n-name="learn-more">Ulteriori informazioni</a>
+
 detail-private-required-label = Richiede accesso alle finestre anonime
 detail-private-required-description2 = Questa estensione ha accesso alle tue attività online nelle finestre anonime. <a data-l10n-name="learn-more">Ulteriori informazioni</a>
+
 detail-private-browsing-on =
     .label = Consenti
     .tooltiptext = Attiva in Navigazione anonima
+
 detail-private-browsing-off =
     .label = Non consentire
     .tooltiptext = Disattiva in Navigazione anonima
+
 detail-home =
     .label = Sito web
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = Profilo del componente aggiuntivo
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = Controlla aggiornamenti
     .accesskey = e
     .tooltiptext = Controlla aggiornamenti per questo componente aggiuntivo
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -89,20 +122,31 @@ detail-show-preferences =
             [windows] Modifica le opzioni di questo componente aggiuntivo
            *[other] Modifica le preferenze di questo componente aggiuntivo
         }
+
 detail-rating =
     .value = Voto
+
 addon-restart-now =
     .label = Riavvia adesso
+
 disabled-unsigned-heading =
     .value = Alcuni componenti aggiuntivi sono stati disattivati
+
 disabled-unsigned-description = I seguenti componenti non sono stati verificati per l’utilizzo in { -brand-short-name }. È possibile <label data-l10n-name="find-addons">cercare delle alternative</label> o chiedere allo sviluppatore di farli verificare.
+
 disabled-unsigned-learn-more = Scopri ulteriori informazioni sul nostro impegno per garantire la sicurezza degli utenti online.
+
 disabled-unsigned-devinfo = Gli sviluppatori interessati al processo di verifica dei componenti aggiuntivi possono consultare il seguente <label data-l10n-name="learn-more">manuale</label>.
+
 plugin-deprecation-description = Manca qualcosa? Alcuni plugin non sono più supportati da { -brand-short-name }. <label data-l10n-name="learn-more">Ulteriori informazioni.</label>
+
 legacy-warning-show-legacy = Mostra le estensioni obsolete
+
 legacy-extensions =
     .value = Estensioni obsolete
+
 legacy-extensions-description = Queste estensioni non soddisfano gli standard attualmente richiesti da { -brand-short-name } e sono state disattivate. <label data-l10n-name="legacy-learn-more">Ulteriori informazioni sui cambiamenti riguardanti le estensioni</label>
+
 private-browsing-description2 =
     Il funzionamento delle estensioni in finestre anonime sta per cambiare.
     Qualunque estensione aggiunta a { -brand-short-name } non funzionerà in
@@ -112,6 +156,7 @@ private-browsing-description2 =
     stata introdotta per garantire la riservatezza dei dati di navigazione
     quando si utilizzano finestre anonime.
     <label data-l10n-name="private-browsing-learn-more">Scopri come gestire le impostazioni delle estensioni</label>
+
 addon-category-discover = Consigli
 addon-category-discover-title =
     .title = Consigli
@@ -195,27 +240,36 @@ addon-open-about-debugging = Debug componenti aggiuntivi
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Gestisci scorciatoie da tastiera
     .accesskey = G
+
 shortcuts-no-addons = Non ci sono estensioni attive.
 shortcuts-no-commands = Le seguenti estensioni non hanno scorciatoie da tastiera:
 shortcuts-input =
     .placeholder = Inserisci una scorciatoia
+
 shortcuts-browserAction2 = Attiva pulsante nella barra degli strumenti
 shortcuts-pageAction = Attiva azione pagina
 shortcuts-sidebarAction = Attiva/disattiva barra laterale
+
 shortcuts-modifier-mac = Includi Ctrl, Alt o ⌘
 shortcuts-modifier-other = Includi Ctrl o Alt
 shortcuts-invalid = Combinazione non valida
 shortcuts-letter = Inserisci una lettera
 shortcuts-system = Non è possibile sostituire una scorciatoia da tastiera di { -brand-short-name }
+
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Scorciatoia da tastiera duplicata
+
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = La combinazione { $shortcut } è utilizzata come scorciatoia da tastiera per più comandi. Scorciatoie duplicate possono causare comportamenti imprevisti.
+
 shortcuts-exists = Già utilizzata da { $addon }
+
 shortcuts-card-expand-button = Visualizza altre { $numberToShow }
+
 shortcuts-card-collapse-button = Mostra meno scorciatoie
+
 header-back-button =
     .title = Torna indietro
 
@@ -231,12 +285,15 @@ discopane-intro =
     terze parti. Ecco una selezione <a data-l10n-name="learn-more-trigger">
     consigliata</a> da { -brand-product-name }, con la garanzia di sicurezza,
     prestazioni e funzionalità al massimo livello.
+
 discopane-notice-recommendations =
     Alcuni consigli in questa pagina sono personalizzati. Sono basati sulle
     estensioni già installate, le impostazioni del profilo e statistiche
     d’utilizzo.
 discopane-notice-learn-more = Ulteriori informazioni
+
 privacy-policy = Informativa sulla privacy
+
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -249,6 +306,7 @@ install-theme-button = Installa tema
 manage-addon-button = Gestisci
 find-more-addons = Trova altri componenti aggiuntivi
 find-more-themes = Trova altri temi
+
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -271,36 +329,48 @@ preferences-addon-button =
 details-addon-button = Dettagli
 release-notes-addon-button = Note di versione
 permissions-addon-button = Permessi
+
 extension-enabled-heading = Attive
 extension-disabled-heading = Disattivate
+
 theme-enabled-heading = Attivi
 theme-disabled-heading = Disattivati
 theme-monochromatic-heading = Tonalità
 theme-monochromatic-subheading = Nuove vibranti tonalità da { -brand-product-name }. Disponibili per un periodo limitato.
+
 plugin-enabled-heading = Attivi
 plugin-disabled-heading = Disattivati
+
 dictionary-enabled-heading = Attivi
 dictionary-disabled-heading = Disattivati
+
 locale-enabled-heading = Attive
 locale-disabled-heading = Disattivate
+
 sitepermission-enabled-heading = Attivi
 sitepermission-disabled-heading = Disattivati
+
 always-activate-button = Attiva sempre
 never-activate-button = Non attivare mai
+
 addon-detail-author-label = Autore
 addon-detail-version-label = Versione
 addon-detail-last-updated-label = Ultimo aggiornamento
 addon-detail-homepage-label = Sito web
 addon-detail-rating-label = Voto
+
 # Message for add-ons with a staged pending update.
 install-postponed-message = Questa estensione verrà aggiornata al riavvio di { -brand-short-name }.
 install-postponed-button = Aggiorna adesso
+
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Voto: { NUMBER($rating, maximumFractionDigits: 1) } su 5
+
 addon-name-disabled = { $name } (disattivato)
+
 addon-detail-reviews-link =
     { $numberOfReviews ->
         [one] { $numberOfReviews } recensione
@@ -311,12 +381,14 @@ addon-detail-reviews-link =
 
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> è stato rimosso.
 pending-uninstall-undo-button = Annulla
+
 addon-detail-updates-label = Aggiornamento automatico
 addon-detail-updates-radio-default = Predefinito
 addon-detail-updates-radio-on = Attivo
 addon-detail-updates-radio-off = Disattivato
 addon-detail-update-check-label = Controlla aggiornamenti
 install-update-button = Aggiorna
+
 addon-badge-private-browsing-allowed2 =
     .title = Attiva in finestre anonime
     .aria-label = { addon-badge-private-browsing-allowed2.title }
@@ -341,15 +413,20 @@ addon-badge-verified2 =
 
 available-updates-heading = Aggiornamenti disponibili
 recent-updates-heading = Aggiornamenti recenti
+
 release-notes-loading = Caricamento in corso…
 release-notes-error = Siamo spiacenti, si è verificato un errore durante il caricamento delle note di versione.
+
 addon-permissions-empty = Questa estensione non richiede alcun permesso
 addon-permissions-required = Permessi obbligatori per funzionalità principali:
 addon-permissions-optional = Permessi facoltativi per funzionalità aggiuntive:
 addon-permissions-learnmore = Ulteriori informazioni sui permessi
+
 recommended-extensions-heading = Estensioni consigliate
 recommended-themes-heading = Temi consigliati
+
 addon-sitepermissions-required = Consente a <span data-l10n-name="hostname">{ $hostname }</span> di utilizzare le seguenti funzioni:
+
 recommended-theme-1 = Ti senti creativo? <a data-l10n-name="link">Disegna il tuo tema con Firefox Color</a>.
 
 ## Page headings
@@ -363,9 +440,11 @@ updates-heading = Gestione aggiornamenti
 sitepermission-heading = Gestione permessi siti
 discover-heading = Personalizza { -brand-short-name }
 shortcuts-heading = Gestione scorciatoie da tastiera
+
 default-heading-search-label = Trova altri componenti aggiuntivi
 addons-heading-search-input =
     .placeholder = Cerca in addons.mozilla.org
+
 addon-page-options-button =
     .title = Strumenti per tutti i componenti aggiuntivi
 
@@ -376,12 +455,17 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } non è compatibile con { -brand-short-name } { $version }.
+
 details-notification-unsigned-and-disabled = { $name } è stato disattivato in quanto non è verificato per l’utilizzo in { -brand-short-name }.
 details-notification-unsigned-and-disabled-link = Ulteriori informazioni
+
 details-notification-unsigned = { $name } non è verificato per l’utilizzo in { -brand-short-name }. Procedere con cautela.
 details-notification-unsigned-link = Ulteriori informazioni
+
 details-notification-blocked = { $name } è stato disattivato in quanto comporta rischi per la stabilità o la sicurezza.
 details-notification-blocked-link = Ulteriori informazioni
+
 details-notification-softblocked = { $name } è riconosciuto come causa di problemi per la stabilità o la sicurezza.
 details-notification-softblocked-link = Ulteriori informazioni
+
 details-notification-gmp-pending = { $name } verrà installato tra qualche istante.

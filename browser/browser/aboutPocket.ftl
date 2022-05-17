@@ -30,6 +30,7 @@ pocket-panel-saved-saving-tags = Salvataggio…
 pocket-panel-saved-suggested-tags = Etichette suggerite
 pocket-panel-saved-tags-saved = Aggiunte etichette
 pocket-panel-signup-view-list = Visualizza elenco
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Aggiungi etichette:
 

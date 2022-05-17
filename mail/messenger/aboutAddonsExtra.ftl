@@ -10,4 +10,3 @@ add-on-search-alternative-button-label = Trova un componente aggiuntivo alternat
 atn-addons-heading-search-input =
     .placeholder = Cerca in addons.thunderbird.net
 
-sidebar-preferences-button-title = Preferenze di { -brand-short-name }

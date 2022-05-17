@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Riavvio necessario
-restart-required-header = Ci scusiamo per l’interruzione, ma c’è una cosa da fare prima di proseguire con la navigazione.
-restart-required-intro-brand = Un aggiornamento di { -brand-short-name } è appena stato installato in background. Fai clic su Riavvia { -brand-short-name } per completare l’installazione.
-restart-required-description = Tutte le pagine, finestre e schede aperte verranno automaticamente ripristinate al riavvio, così potrai riprendere velocemente dal punto in cui ti trovavi.
 
 restart-required-heading = Riavvia per continuare a utilizzare { -brand-short-name }
 restart-required-intro = Il sistema ha iniziato un aggiornamento di { -brand-short-name } in background. È necessario riavviare per completare l’installazione.

@@ -52,9 +52,6 @@ perftools-devtools-settings-label = Impostazioni
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
-perftools-status-private-browsing-notice =
-  Il profiler è disattivato quanto la navigazione anonima è in uso. Chiudere
-  tutte le finestre anonime per riattivare il profiler.
 perftools-status-recording-stopped-by-another-tool = La registrazione è stata bloccata da un altro strumento.
 perftools-status-restart-required = È necessario riavviare il browser per attivare questa funzione.
 
@@ -114,6 +111,9 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## devtools.performance.new-panel-onboarding preference is true.
+
 perftools-onboarding-message = <b>Novità</b>: { -profiler-brand-name } ora è integrato negli strumenti di sviluppo. <a>Scopri altre informazioni</a> su questo potente strumento.
 
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
@@ -122,8 +122,15 @@ perftools-onboarding-reenable-old-panel = (per un periodo limitato di tempo sar�
 perftools-onboarding-close-button =
   .aria-label = Chiudi il messaggio introduttivo
 
-perftools-presets-web-developer-description = Preset consigliato per il debug della maggior parte delle applicazioni web, con overhead limitato.
+## Profiler presets
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
 perftools-presets-web-developer-label = Sviluppo web
+
+perftools-presets-web-developer-description = Preset consigliato per il debug della maggior parte delle applicazioni web, con overhead limitato.
 
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Preset consigliato per la profilazione di { -brand-shorter-name }.
@@ -131,11 +138,13 @@ perftools-presets-firefox-description = Preset consigliato per la profilazione d
 perftools-presets-graphics-label = Grafica
 perftools-presets-graphics-description = Preset per la diagnosi di problemi grafici in { -brand-shorter-name }.
 
-perftools-presets-media-description2 = Preset per la diagnosi di problemi audio e video in { -brand-shorter-name }.
-
 perftools-presets-media-label = Multimediale
+
+perftools-presets-media-description2 = Preset per la diagnosi di problemi audio e video in { -brand-shorter-name }.
 
 perftools-presets-networking-label = Rete
 perftools-presets-networking-description = Preset per la diagnosi di problemi di rete in { -brand-shorter-name }.
 
 perftools-presets-custom-label = Personalizzato
+
+##

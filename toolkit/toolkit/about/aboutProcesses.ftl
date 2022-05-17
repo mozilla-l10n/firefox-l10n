@@ -57,6 +57,7 @@ about-processes-socket-process = Rete ({ $pid })
 about-processes-remote-sandbox-broker-process = Broker per sandbox remota ({ $pid })
 about-processes-fork-server-process = Fork server ({ $pid })
 about-processes-preallocated-process = Preallocato ({ $pid })
+
 about-processes-utility-process = Utilità ({ $pid })
 
 about-processes-unknown-process = Altro: { $type } ({ $pid })
@@ -68,10 +69,8 @@ about-processes-unknown-process = Altro: { $type } ({ $pid })
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-web-large-allocation-process = { $origin } ({ $pid }, grande)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, cross-origin isolato)
 about-processes-web-isolated-process-private = { $origin } — Anonima ({ $pid })
-about-processes-web-large-allocation-process-private = { $origin } — Anonima ({ $pid }, grande)
 about-processes-with-coop-coep-process-private = { $origin } — Anonima ({ $pid }, cross-origin isolato)
 
 ## Details within processes
@@ -136,9 +135,6 @@ about-processes-cpu-almost-idle = < 0,1%
 
 about-processes-cpu-fully-idle = non attivo
     .title = Tempo CPU complessivo: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-
-about-processes-cpu-idle = non attivo
-    .title = Tempo CPU complessivo: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
