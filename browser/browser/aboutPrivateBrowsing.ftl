@@ -6,3 +6,5 @@ privatebrowsingpage-open-private-window-label = निजी विंडो ख
     .accesskey = P
 about-private-browsing-not-private = अहाँ अखन निजी विंडो मे नहि छी.
 
+## The following strings will be used for experiments in Fx99 and Fx100
+

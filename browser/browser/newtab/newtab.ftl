@@ -16,14 +16,8 @@ newtab-search-box-search-button =
     .title = खोज
     .aria-label = खोज
 
-newtab-search-box-search-the-web-input =
-    .placeholder = वेब पर खोजू
-    .title = वेब पर खोजू
-    .aria-label = वेब पर खोजू
-
 ## Top Sites - General form dialog.
 
-newtab-topsites-add-topsites-header = नव टॉप साइट
 newtab-topsites-edit-topsites-header = टॉप साइट संपादित करू
 newtab-topsites-title-label = शीर्षक
 newtab-topsites-title-input =
@@ -134,7 +128,6 @@ newtab-section-menu-privacy-notice = गोपनीयता सूचना
 ## Section Headers.
 
 newtab-section-header-topsites = टॉप साइट
-newtab-section-header-highlights = हाइलाइट
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } द्वारा अनुशंसित
@@ -155,6 +148,9 @@ newtab-empty-section-topstories = अहाँ आखिर धरि पहु�
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = लोकप्रिय विषय:
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

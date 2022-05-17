@@ -76,10 +76,6 @@ item-form-search-history =
 
 data-section-label = आंकड़ा
 
-item-site-preferences =
-    .label = साइट वरीयता
-    .accesskey = S
-
 item-offline-apps =
     .label = आफ़लाइन वेबसाइट आँकड़ा
     .accesskey = O

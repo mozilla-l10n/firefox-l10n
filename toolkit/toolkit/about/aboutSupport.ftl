@@ -32,6 +32,7 @@ app-basics-memory-use = स्मृति के उपयोग
 app-basics-service-workers = पंजीकृत सर्विस वर्कर
 app-basics-multi-process-support = मल्टी प्रोसेस विंडोज़
 app-basics-safe-mode = सुरक्षित मोड
+
 modified-key-prefs-title = महत्वपूर्ण रूपांतरित वरीयता
 modified-prefs-name = नाम
 modified-prefs-value = मान
