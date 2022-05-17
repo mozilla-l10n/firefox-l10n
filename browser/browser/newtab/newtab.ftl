@@ -15,22 +15,19 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = खोजी गर्नुहोस्
     .aria-label = खोजी गर्नुहोस्
-newtab-search-box-search-the-web-input =
-    .placeholder = वेबमा खोज्नुहोस्
-    .title = वेबमा खोज्नुहोस्
-    .aria-label = वेबमा खोज्नुहोस्
 
 ## Top Sites - General form dialog.
 
-newtab-topsites-add-topsites-header = नयाँ शीर्ष साइट
 newtab-topsites-edit-topsites-header = शीर्ष साइट सम्पादन गर्नुहोस्
 newtab-topsites-title-label = शीर्षक
 newtab-topsites-title-input =
     .placeholder = शीर्षक प्रविष्ट गर्नुहोस्
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL लेख्नुहोस् वा पेस्ट गर्नुहोस्
 newtab-topsites-url-validation = मान्य URL चाहिन्छ
+
 newtab-topsites-image-url-label = अनुकूल तस्बिर URL
 newtab-topsites-use-image-link = अनुकूल तस्बिर प्रयोग गर्नुहोस्…
 newtab-topsites-image-validation = तस्बिर लोड गर्न असफल भयो । फरक URL प्रयास गर्नुहोस् ।
@@ -128,7 +125,6 @@ newtab-section-menu-privacy-notice = गोपनीयता नीति
 ## Section Headers.
 
 newtab-section-header-topsites = शीर्ष साइटहरु
-newtab-section-header-highlights = विशेषताहरू
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } द्वारा सिफारिस गरिएको
@@ -136,6 +132,7 @@ newtab-section-header-pocket = { $provider } द्वारा सिफार�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ब्राउज गर्न सुरू गर्नुहोस्, र हामी केहि उत्कृष्ट लेखहरू, भिडियोहरू, र अन्य पृष्ठहरू जुन तपाईंले भर्खरै भ्रमण गर्नुभएको वा पुस्तकचिनो राख्नुभएको छ यहाँ देखाउँछौ ।
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".

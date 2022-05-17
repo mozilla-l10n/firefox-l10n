@@ -57,9 +57,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY importDialog.windowTitle "आयात गर्नुहोस्">
 
-<!ENTITY window.width "40em">
-<!ENTITY window.macWidth "45em">
-
 <!ENTITY importTitle.label "&brandShortName; मेल आयात विजार्ड">
 
 <!ENTITY importDescription2.label "एकपटक तिनीहरू आयात गरिएका छन्, तपाईँ &brandShortName; मेल र/वा ठेगाना पुस्तिका भित्रबाट तिनीहरूलाई पहुँच गर्न सक्षम हुनुहुनेछ ।">

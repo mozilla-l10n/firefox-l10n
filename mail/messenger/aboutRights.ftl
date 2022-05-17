@@ -11,7 +11,6 @@ rights-intro-point-5 = केही { -brand-short-name } का विशषत
 rights-intro-point-5-unbranded = यदि यस उत्पादनले वेब सेवाहरू समेवेश गरेमा, कुनै सेवा(हरु) लाई लागू हुने सेवा सर्तहरू यहाँ जोडिनु पर्छ <a data-l10n-name="mozilla-website-services-link">Web Site Services</a> खण्ड।
 rights-intro-point-6 = केहि प्रकारका चलदृश्य सामग्री पुन: बजाउन { -brand-short-name } ले केहि सामाग्री गुप्तिकरण उल्टाउने मोड्युलहरू (content decryption modules) तेश्रो पक्ष बाट डाउनलोड गर्छ।
 rights-webservices-header = { -brand-full-name } वेबमा आधारित जानकारी सेवाहरू
-rights-webservices = { -brand-short-name } को बाइनरी संस्करणले तल वर्णन गरिएका सर्तहरू लागु हुने गरि तपाईँको प्रयोग को लागि उपलब्ध गराएको केहि विशेषता प्रयोग गर्नको लागि { -brand-full-name } ले वेब आधारित जानकारी सेवाहरू ("सेवाहरू") प्रयोग गर्छ। यदि तपाई एक वा बढी सेवाहरू प्रयोग गर्न चाहनुहुन्न वा तलका सर्तहरू अस्वीकार्य छन्, भने तपाईँ सुविधा वा सेवा (s) लाई असक्षम गर्न सक्नुहुन्छ। एक विशेष सुविधा वा सेवा कसरी असक्षम गर्नेबारे निर्देशन पाउन सकिन्छ <a data-l10n-name="mozilla-disable-service-link">यहाँ</a>। अन्य सेवा र सुविधा अनुप्रयोगको प्राथमिकताहरूबाट अक्षम गर्न सकिन्छ।‌
 rights-locationawarebrowsing = <strong>स्थान सचेत ब्राउजिङ्ग: </strong>सधैँ लागू छ।  कुनै स्थान जानकारी कहिल्यै पनि तपाईँको अनुमति बिना पठाइएको छैन।  तपाईँ विशेषता पूर्ण अक्षम गर्न चाहनुहुन्छ भने, यी चरणहरू पछ्याउनुहोस्:
 rights-locationawarebrowsing-term-1 = URL बारमा लेख्नुहोस् <code>about:config‌</code>
 rights-locationawarebrowsing-term-2 = geo.enabled टाइप गर्नुहोस्

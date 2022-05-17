@@ -47,6 +47,7 @@ app-basics-multi-process-support = बहुप्रक्रिया सञ�
 app-basics-enterprise-policies = व्यापारको नीतिहरू
 app-basics-key-mozilla = Mozilla स्थान सेवा कुञ्जी
 app-basics-safe-mode = सुरक्षित मोड
+
 show-dir-label =
     { PLATFORM() ->
         [macos] फाइन्डरमा देखाउनुहोस्
