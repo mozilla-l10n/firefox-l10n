@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (deprecato, speriment
 compatibility-settings-button-label = Impostazioni
 compatibility-settings-button-title =
     .title = Impostazioni
-compatibility-feedback-button-label = Feedback
-compatibility-feedback-button-title =
-    .title = Feedback
 
 ## Messages used as headers in settings pane
 

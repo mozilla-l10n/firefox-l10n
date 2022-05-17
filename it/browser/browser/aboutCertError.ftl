@@ -117,7 +117,6 @@ unknownSocketType-title = Risposta imprevista del server
 nssFailure2-title = Connessione sicura non riuscita
 csp-xfo-error-title = Impossibile aprire questa pagina in { -brand-short-name }
 corruptedContentError-title = Errore contenuto danneggiato
-remoteXUL-title = XUL remoto
 sslv3Used-title = Impossibile stabilire una connessione sicura
 inadequateSecurityError-title = Connessione non sicura
 blockedByPolicy-title = Pagina bloccata

@@ -7,12 +7,6 @@
 <!ENTITY pref.content.title                     "Contenuto">
 <!ENTITY pref.content.description               "Queste impostazioni influenzano il modo in cui appare il contenuto dei siti web e dei messaggi in &brandShortName;. ">
 
-<!ENTITY siteIcons.label                        "Icone sito web">
-<!ENTITY useSiteIcons.label                     "Mostra icone sito web">
-<!ENTITY useSiteIcons.accesskey                 "M">
-<!ENTITY useFavIcons2.label                     "Prova ad usare l&apos;icona del server quando la pagina non ne definisce una">
-<!ENTITY useFavIcons2.accesskey                 "P">
-
 <!ENTITY scrolling.label                        "Scorrimento">
 <!ENTITY useAutoScroll.label                    "Usa lo scorrimento automatico">
 <!ENTITY useAutoScroll.accesskey                "s">
@@ -43,6 +37,4 @@
 
 <!ENTITY allowHWAccel.label                     "Utilizza accelerazione hardware se disponibile">
 <!ENTITY allowHWAccel.accesskey                 "t">
-<!ENTITY blockAutoRefresh.label                 "Avvisami quando i siti web provano a reindirizzare o ricaricare la pagina">
-<!ENTITY blockAutoRefresh.accesskey             "v">
 

@@ -16,8 +16,6 @@ process-type-extension = Estensione
 
 process-type-file = File locale
 
-process-type-weblargeallocation = Allocazione di grandi dimensioni
-
 process-type-webisolated = Contenuti web isolati
 
 process-type-webserviceworker = Service worker isolato

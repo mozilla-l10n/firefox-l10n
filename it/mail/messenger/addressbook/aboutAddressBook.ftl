@@ -22,6 +22,7 @@ about-addressbook-toolbar-import =
 ## Books
 
 all-address-books = Tutte le rubriche
+
 about-addressbook-books-context-properties =
     .label = Proprietà
 about-addressbook-books-context-synchronize =
@@ -36,6 +37,7 @@ about-addressbook-books-context-remove =
     .label = Elimina
 about-addressbook-books-context-startup-default =
     .label = Directory di avvio predefinita
+
 about-addressbook-confirm-delete-book-title = Elimina rubrica
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -53,14 +55,17 @@ about-addressbook-search =
     .placeholder = Cerca in { $name }
 about-addressbook-search-all =
     .placeholder = Cerca in tutte le rubriche
+
 about-addressbook-sort-button =
     .title = Cambia ordine dell’elenco
+
 about-addressbook-name-format-display =
     .label = Nome visualizzato
 about-addressbook-name-format-firstlast =
     .label = Nome Cognome
 about-addressbook-name-format-lastfirst =
     .label = Cognome, Nome
+
 about-addressbook-sort-name-ascending =
     .label = Ordina per nome (A > Z)
 about-addressbook-sort-name-descending =
@@ -69,8 +74,10 @@ about-addressbook-sort-email-ascending =
     .label = Ordina per indirizzo email (A > Z)
 about-addressbook-sort-email-descending =
     .label = Ordina per indirizzo email (Z > A)
+
 about-addressbook-cards-context-write =
     .label = Scrivi
+
 about-addressbook-confirm-delete-mixed-title = Elimina contatti e liste
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -128,11 +135,13 @@ about-addressbook-begin-edit-contact-button = Modifica
 about-addressbook-delete-edit-contact-button = Elimina
 about-addressbook-cancel-edit-contact-button = Annulla
 about-addressbook-save-edit-contact-button = Salva
+
 about-addressbook-details-email-addresses-header = Indirizzi email
 about-addressbook-details-phone-numbers-header = Numeri di telefono
 about-addressbook-details-home-address-header = Indirizzo di casa
 about-addressbook-details-work-address-header = Indirizzo di lavoro
 about-addressbook-details-other-info-header = Altre informazioni
+
 about-addressbook-unsaved-changes-prompt-title = Modifiche non salvate
 about-addressbook-unsaved-changes-prompt = Salvare le modifiche prima di uscire dalla modalità di modifica?
 
@@ -142,6 +151,7 @@ about-addressbook-photo-drop-target = Trascina o incolla una foto qui oppure fai
 about-addressbook-photo-drop-loading = Caricamento foto…
 about-addressbook-photo-drop-error = Impossibile caricare la foto.
 about-addressbook-photo-filepicker-title = Selezione immagine
+
 about-addressbook-photo-discard = Elimina foto esistente
 about-addressbook-photo-cancel = Annulla
 about-addressbook-photo-save = Salva

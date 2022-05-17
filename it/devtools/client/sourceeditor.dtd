@@ -14,5 +14,4 @@
   - documentation on web development on the web. -->
 
 <!ENTITY gotoLineCmd.label "Passa alla riga…">
-<!ENTITY gotoLineCmd.key "J">
 <!ENTITY gotoLineCmd.accesskey "P">

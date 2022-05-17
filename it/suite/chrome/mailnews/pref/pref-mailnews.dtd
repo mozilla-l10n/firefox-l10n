@@ -13,20 +13,6 @@
 <!ENTITY mailBiffOnNewWindow.label        "Controlla i nuovi messaggi solo dopo l'apertura di Posta e gruppi di discussione">
 <!ENTITY mailBiffOnNewWindow.accesskey    "o">
 
-<!ENTITY defaultMailSettings.description  "Rendi &brandShortName; l'applicazione predefinita per:">
-<!ENTITY setDefaultMail.label             "Posta">
-<!ENTITY setDefaultMail.accesskey         "P">
-<!ENTITY setDefaultNews.label             "Gruppi di discussione">
-<!ENTITY setDefaultNews.accesskey         "G">
-<!ENTITY setDefaultFeed.label             "Feed">
-<!ENTITY setDefaultFeed.accesskey         "F">
-
-<!ENTITY useInternalSettings.description  "Utilizza &brandShortName; Posta e gruppi di discussione quando si apre un link nel browser per:">
-<!ENTITY useInternalMail.label            "Posta (mailto:)">
-<!ENTITY useInternalMail.accesskey        "a">
-<!ENTITY useInternalNews.label            "Gruppi di discussione (news:, snews:, nntp:)">
-<!ENTITY useInternalNews.accesskey        "s">
-
 <!ENTITY messengerStartPage.caption       "Pagina di avvio Posta">
 <!ENTITY enableStartPage.label            "All'avvio di Posta, visualizza la pagina iniziale nell'area dei messaggi">
 <!ENTITY enableStartPage.accesskey        "A">

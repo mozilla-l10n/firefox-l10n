@@ -41,10 +41,3 @@
 <!ENTITY useDefault.label               "Ripristina valori predefiniti">
 <!ENTITY useDefault.accesskey           "f">
 
-<!ENTITY defaultBrowserGroup.label      "Browser predefinito">
-<!ENTITY defaultBrowserButton.label     "Imposta come browser predefinito">
-<!ENTITY defaultBrowserButton.accesskey "t">
-<!ENTITY alreadyDefaultText             "&brandShortName; è già il tuo browser predefinito.">
-<!ENTITY defaultPendingText             "&brandShortName; verrà impostato come tuo browser predefinito facendo clic su OK.">
-<!ENTITY wasMadeDefaultText             "&brandShortName; è stato impostato come browser predefinito.">
-<!ENTITY makeDefaultText                "Imposta &brandShortName; come tuo browser predefinito.">

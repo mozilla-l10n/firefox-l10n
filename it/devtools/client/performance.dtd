@@ -43,7 +43,6 @@
 <!ENTITY performanceUI.table.samples.tooltip "Quante volte questa funzione è stata rilevata nello stack durante il campionamento.">
 <!ENTITY performanceUI.table.function "Funzione">
 <!ENTITY performanceUI.table.function.tooltip "Il nome e la posizione nel sorgente della funzione campionata.">
-<!ENTITY performanceUI.table.totalAlloc "Allocazioni totali">
 <!ENTITY performanceUI.table.totalAlloc.tooltip "Il numero di allocazioni di oggetti campionate in questa posizione e in tutti gli elementi chiamati.">
 
 <!ENTITY performanceUI.options.filter.tooltiptext "Seleziona i dati da visualizzare nella sequenza temporale">

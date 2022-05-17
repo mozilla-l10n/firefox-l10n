@@ -6,7 +6,6 @@ privatebrowsingpage-open-private-window-label = Apri una finestra anonima
     .accesskey = A
 about-private-browsing-search-placeholder = Cerca sul Web
 about-private-browsing-info-title = Ti trovi in una finestra anonima
-about-private-browsing-info-myths = Miti da sfatare sulla navigazione anonima
 about-private-browsing-search-btn =
     .title = Cerca sul Web
 # Variables
@@ -21,11 +20,7 @@ about-private-browsing-handoff-text = Cerca con { $engine } o inserisci un indir
 about-private-browsing-handoff-text-no-engine = Cerca o inserisci un indirizzo
 
 about-private-browsing-not-private = Questa non è una finestra anonima.
-about-private-browsing-info-description = { -brand-short-name } cancella la cronologia di ricerca e navigazione quando si chiude l’applicazione o vengono chiuse tutte le finestre e schede in Navigazione anonima. Nonostante questa modalità non ti renda completamente anonimo nei confronti dei siti web o del tuo fornitore di servizi internet, si tratta comunque di uno strumento utile per impedire ad altri utilizzatori di questo computer di ottenere informazioni sulla tua attività online.
 about-private-browsing-info-description-private-window = Finestra anonima: { -brand-short-name } cancella la cronologia di ricerca e navigazione quando si chiudono tutte le finestre in Navigazione anonima. Questo non ti rende completamente anonimo.
-
-about-private-browsing-need-more-privacy = Vuoi ancora più privacy?
-about-private-browsing-turn-on-vpn = Prova { -mozilla-vpn-brand-name }
 
 about-private-browsing-info-description-simplified = { -brand-short-name } cancella la cronologia di ricerca e navigazione quando vengono chiuse tutte le finestre anonime, ma questo non ti rende completamente anonimo.
 about-private-browsing-learn-more-link = Ulteriori informazioni
@@ -38,6 +33,8 @@ about-private-browsing-prominent-cta = Proteggi la tua privacy con { -mozilla-vp
 about-private-browsing-focus-promo-cta = Scarica { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: navigazione anonima ovunque ti trovi
 about-private-browsing-focus-promo-text = La nostra app mobile disegnata per la navigazione anonima elimina automaticamente cronologia e cookie.
+
+## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = Porta la navigazione anonima sul tuo telefono
 about-private-browsing-focus-promo-text-b = Utilizza { -focus-brand-name } quando hai bisogno di cercare qualcosa senza lasciare tracce nel tuo browser principale.

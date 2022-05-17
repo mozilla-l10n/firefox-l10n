@@ -26,5 +26,3 @@
 <!ENTITY stopFilters.accesskey "I">
 <!ENTITY folderPickerPrefix.label "Avvia i filtri selezionati sulla cartella:">
 <!ENTITY folderPickerPrefix.accesskey "c">
-<!ENTITY choosethis.label "seleziona questa cartella">
-<!ENTITY choosethisnewsserver.label "scegli questo server di news">

@@ -168,9 +168,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
-<!ENTITY remoteXUL.title "XUL remoto">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Contattare l’amministratore del sito web e segnalare il problema.</li></ul></p>">
-
 <!ENTITY sslv3Used.title "Impossibile stabilire una connessione sicura">
 <!ENTITY sslv3Used.longDesc "Informazioni avanzate: SSL_ERROR_UNSUPPORTED_VERSION">
 
