@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "l">
 <!ENTITY attachPageCmd.label "Web sayfası…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Kartvizit (vCard)">
-<!ENTITY attachVCardCmd.accesskey "K">
 <!ENTITY remindLater.label "Daha sonra hatırlat">
 <!ENTITY remindLater.accesskey "S">
 <!ENTITY closeCmd.label "Kapat">
@@ -148,16 +145,6 @@
 <!ENTITY returnReceiptMenu.accesskey "A">
 <!ENTITY dsnMenu.label "Teslimat durumu bildirimi">
 <!ENTITY dsnMenu.accesskey "D">
-<!ENTITY deliveryFormatMenu.label "Teslimat biçimi">
-<!ENTITY deliveryFormatMenu.accesskey "T">
-<!ENTITY autoFormatCmd.label "Otomatik algıla">
-<!ENTITY autoFormatCmd.accesskey "O">
-<!ENTITY plainTextFormatCmd.label "Sadece düz metin">
-<!ENTITY plainTextFormatCmd.accesskey "D">
-<!ENTITY htmlFormatCmd.label "Sadece zengin metin (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "Z">
-<!ENTITY bothFormatCmd.label "Düz ve zengin (HTML) metin">
-<!ENTITY bothFormatCmd.accesskey "v">
 <!ENTITY priorityMenu.label "Öncelik">
 <!ENTITY priorityMenu.accesskey "Ö">
 <!ENTITY priorityButton.title "Öncelik">
@@ -221,7 +208,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Diğer adres alanı türleri">
 <!ENTITY fromAddr2.label "Kimden">
 <!ENTITY fromAddr.accesskey "m">
 <!ENTITY replyAddr2.label "Reply-To">

@@ -23,9 +23,6 @@
 <!ENTITY inReplyToField.label "In-Reply-To: ">
 <!ENTITY originalWebsite.label "Web sitesi: ">
 
-<!ENTITY editMessage.label "Taslağı düzenle…">
-<!ENTITY editMessage.accesskey "T">
-
 <!ENTITY attachmentsTree.label "Ekler:">
 <!ENTITY attachmentsTree.accesskey "E">
 <!ENTITY openAttachmentCmd.label "Aç">

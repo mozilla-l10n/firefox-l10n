@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (kullanımdan kaldır
 compatibility-settings-button-label = Ayarlar
 compatibility-settings-button-title =
     .title = Ayarlar
-compatibility-feedback-button-label = Geri bildirim
-compatibility-feedback-button-title =
-    .title = Geri bildirim
 
 ## Messages used as headers in settings pane
 
@@ -42,9 +39,11 @@ compatibility-issue-occurrences =
         [one] { $number } tekrar
        *[other] { $number } tekrar
     }
+
 compatibility-no-issues-found = Uyumluluk sorunu bulunamadı.
 compatibility-close-settings-button =
     .title = Ayarları kapat
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

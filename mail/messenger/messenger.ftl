@@ -13,6 +13,7 @@ messenger-window-restore-down-button =
     .tooltiptext = Geri küçült
 messenger-window-close-button =
     .tooltiptext = Kapat
+
 # Variables:
 # $count (Number) - Number of unread messages.
 unread-messages-os-tooltip =
@@ -20,6 +21,7 @@ unread-messages-os-tooltip =
         [one] 1 okunmamış ileti
        *[other] { $count } okunmamış ileti
     }
+
 about-rights-notification-text = { -brand-short-name }, tüm dünyadan binlerce kişinin katkıda bulunduğu, özgür ve açık kaynaklı bir yazılımdır.
 
 ## Content tabs
@@ -36,9 +38,11 @@ content-tab-security-broken-icon =
 addons-and-themes-toolbarbutton =
     .label = Eklentiler ve temalar
     .tooltiptext = Eklentilerinizi yönetin
+
 quick-filter-toolbarbutton =
     .label = Hızlı süzgeç
     .tooltiptext = İletileri süz
+
 redirect-msg-button =
     .label = Yönlendir
     .tooltiptext = Seçilen iletiyi yönlendir
@@ -48,8 +52,10 @@ redirect-msg-button =
 folder-pane-toolbar =
     .toolbarname = Dizin bölmesi araç çubuğu
     .accesskey = D
+
 folder-pane-toolbar-options-button =
     .tooltiptext = Dizin bölmesi seçenekleri
+
 folder-pane-header-label = Dizinler
 
 ## Folder Toolbar Header Popup
@@ -57,21 +63,27 @@ folder-pane-header-label = Dizinler
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Araç çubuğunu gizle
     .accesskey = u
+
 show-all-folders-label =
     .label = Tüm dizinler
     .accesskey = m
+
 show-unread-folders-label =
     .label = Okunmamış dizinler
     .accesskey = O
+
 show-favorite-folders-label =
     .label = Favori dizinler
     .accesskey = F
+
 show-smart-folders-label =
     .label = Birleşik dizinler
     .accesskey = B
+
 show-recent-folders-label =
     .label = Son kullanılan dizinler
     .accesskey = S
+
 folder-toolbar-toggle-folder-compact-view =
     .label = Yoğun görünüm
     .accesskey = Y
@@ -81,28 +93,31 @@ folder-toolbar-toggle-folder-compact-view =
 redirect-msg-menuitem =
     .label = Yönlendir
     .accesskey = Y
+
 menu-file-save-as-file =
     .label = Dosya…
     .accesskey = D
 
 ## AppMenu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-appmenu-preferences =
-    .label = Tercihler
 appmenu-save-as-file =
     .label = Dosya…
+
 appmenu-settings =
     .label = Ayarlar
+
 appmenu-addons-and-themes =
     .label = Eklentiler ve temalar
+
 appmenu-help-enter-troubleshoot-mode =
     .label = Sorun giderme modu…
+
 appmenu-help-exit-troubleshoot-mode =
     .label = Sorun giderme modunu kapat
+
 appmenu-help-more-troubleshooting-info =
     .label = Sorun giderme bilgileri
+
 appmenu-redirect-msg =
     .label = Yönlendir
 
@@ -110,6 +125,7 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Yönlendir
+
 mail-context-delete-messages =
     .label =
         { $count ->
@@ -121,9 +137,11 @@ mail-context-delete-messages =
 
 other-action-redirect-msg =
     .label = Yönlendir
+
 message-header-msg-flagged =
     .title = Yıldızlı
     .aria-label = Yıldızlı
+
 message-header-msg-not-flagged =
     .title = Yıldızsız
     .aria-label = Yıldızsız
@@ -133,10 +151,13 @@ message-header-msg-not-flagged =
 message-header-customize-button-style =
     .value = Düğme stili
     .accesskey = D
+
 message-header-button-style-default =
     .label = Simgeler ve metin
+
 message-header-button-style-text =
     .label = Metin
+
 message-header-button-style-icons =
     .label = Simgeler
 
@@ -153,6 +174,7 @@ toolbar-context-menu-remove-extension =
 
 message-header-address-in-address-book-icon =
     .alt = Bu adres, adres defterinde mevcut
+
 message-header-address-not-in-address-book-icon =
     .alt = Bu adres, adres defterinde mevcut değil
 
@@ -163,9 +185,11 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = { $name } kaldırılsın mı?
 addon-removal-confirmation-button = Kaldır
 addon-removal-confirmation-message = { $name } ile birlikte yapılandırması ve verileri { -brand-short-name } uygulamasından kaldırılsın mı?
+
 caret-browsing-prompt-title = Klavye ile Gezinti
 caret-browsing-prompt-text = F7 tuşu Klavye ile Gezinti özelliğini açar ve kapatır. Bu özellik, bazı içeriklerin içine hareket edebilen bir işaretçi ekleyerek metinleri klavyeyle seçebilmenizi sağlar. Klavye ile Gezinti’yi açmak istiyor musunuz?
 caret-browsing-prompt-check-text = Tekrar sorma.
+
 repair-text-encoding-button =
     .label = Metin kodlamasını onar
     .tooltiptext = İleti içeriğinden doğru metin kodlamasını tahmin et
@@ -184,28 +208,39 @@ decrypt-and-copy-failures = { $total } iletinin { $failures } tanesinin şifresi
 
 spaces-toolbar-button-mail2 =
     .title = E-posta
+
 spaces-toolbar-button-address-book2 =
     .title = Adres Defteri
+
 spaces-toolbar-button-calendar2 =
     .title = Takvim
+
 spaces-toolbar-button-tasks2 =
     .title = Görevler
+
 spaces-toolbar-button-chat2 =
     .title = Sohbet
+
 spaces-toolbar-button-settings2 =
     .title = Ayarlar
+
 spaces-context-new-tab-item =
     .label = Yeni sekmede aç
+
 spaces-context-new-window-item =
     .label = Yeni pencerede aç
+
 # Variables:
 # $tabName (String) - The name of the tab this item will switch to.
 spaces-context-switch-tab-item =
     .label = { $tabName } sekmesine geç
+
 settings-context-open-settings-item =
     .label = Ayarları aç
+
 settings-context-open-account-settings-item =
     .label = Hesap ayarlarını aç
+
 settings-context-open-addons-item =
     .label = Eklentiler ve temaları aç
 
@@ -213,16 +248,22 @@ settings-context-open-addons-item =
 
 spaces-toolbar-pinned-tab-button =
     .tooltiptext = Alanlar menüsünü aç
+
 spaces-pinned-button-menuitem-mail =
     .label = { spaces-toolbar-button-mail.title }
+
 spaces-pinned-button-menuitem-address-book =
     .label = { spaces-toolbar-button-address-book.title }
+
 spaces-pinned-button-menuitem-calendar =
     .label = { spaces-toolbar-button-calendar.title }
+
 spaces-pinned-button-menuitem-tasks =
     .label = { spaces-toolbar-button-tasks.title }
+
 spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
+
 # Variables:
 # $count (Number) - Number of unread messages.
 chat-button-unread-messages = { $count }
@@ -234,13 +275,15 @@ chat-button-unread-messages = { $count }
 
 ## Spaces toolbar customize panel
 
-spaces-context-customize =
-    .label = Özelleştir…
 spaces-customize-background-color = Arka plan rengi
+
 spaces-customize-icon-color = Düğme rengi
+
 # The background color used on the buttons of the spaces toolbar when they are
 # `current`, meaning the related space/tab is active and visible.
 spaces-customize-accent-background-color = Seçilen düğme arka plan rengi
+
 # The icon color used on the buttons of the spaces toolbar when they are
 # `current`, meaning the related space/tab is active and visible.
 spaces-customize-accent-text-color = Seçilen düğme rengi
+

@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Ek e-posta:">
 <!ENTITY SecondEmail.accesskey          "k">
-<!ENTITY PreferMailFormat.label         "Tercih ettiği ileti alma biçimi:">
-<!ENTITY PreferMailFormat.accesskey     "b">
 <!ENTITY PlainText.label                "Düz metin">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Bilinmiyor">

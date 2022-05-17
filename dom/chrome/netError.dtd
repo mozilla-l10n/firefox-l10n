@@ -89,9 +89,6 @@
 <!ENTITY corruptedContentErrorv2.title "Hasarlı içerik hatası">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Veri aktarımında bir hata tespit edildiği için bakmak istediğiniz sayfa gösterilemiyor.</p><ul><li>Site sahipleriyle iletişim kurup bu sorunu onlara bildirmeyi düşünebilirsiniz.</li></ul>">
 
-<!ENTITY remoteXUL.title "Uzak XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Bağlantınız güvenli değil">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

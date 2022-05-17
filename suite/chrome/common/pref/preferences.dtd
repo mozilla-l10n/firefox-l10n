@@ -26,13 +26,11 @@
 <!ENTITY images.label "Images">
 <!ENTITY popups.label "Kendiliğinden beliren pencereler">
 <!ENTITY passwords.label "Parolalar">
-<!ENTITY masterpass.label "Ana parolalar">
 <!ENTITY certs.label "Onay belgeleri">
 
 <!ENTITY sync.label "Eşitleme">
 
 <!ENTITY advance.label "Gelişmiş">
-<!ENTITY scriptsAndWindows.label "Betikler ve yan uygulamalar">
 
 <!ENTITY keynav.label "Klavye ile gezinme">
 <!ENTITY findAsYouType.label "Find As You Type">

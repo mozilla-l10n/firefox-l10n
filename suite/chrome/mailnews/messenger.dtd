@@ -301,9 +301,6 @@
 <!ENTITY forwardAsInline.accesskey "d">
 <!ENTITY forwardAsAttachmentCmd.label "Ek olarak ilet">
 <!ENTITY forwardAsAttachmentCmd.accesskey "r">
-<!ENTITY editMsgAsNewCmd.label "Postayı yeni olarak düzenle">
-<!ENTITY editMsgAsNewCmd.accesskey "d">
-<!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Postadan süzgeç oluştur…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY archiveMsgCmd.label "Arşivle">
@@ -449,8 +446,6 @@
 <!ENTITY contextOpenNewWindow.accesskey "i">
 <!ENTITY contextOpenNewTab.label "İletiyi yeni sekmede aç">
 <!ENTITY contextOpenNewTab.accesskey "k">
-<!ENTITY contextEditAsNew.label "Yeni olarak düzenle…">
-<!ENTITY contextEditAsNew.accesskey "e">
 <!ENTITY contextReplySender.label "Sadece göndereni yanıtla">
 <!ENTITY contextReplySender.accesskey "r">
 <!ENTITY contextReplyNewsgroup.label "Haber grubunu yanıtla">

@@ -56,8 +56,6 @@ inactive-css-not-grid-or-flex-container-fix = <strong>display:grid</strong> veya
 
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = <strong>display:grid</strong>, <strong>display:flex</strong> veya <strong>columns:2</strong> eklemeyi deneyin. { learn-more }
 
-inactive-css-not-grid-or-flex-item-fix-2 = <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> veya <strong>display:inline-flex</strong> eklemeyi deneyin. { learn-more }
-
 inactive-css-not-grid-or-flex-item-fix-3 = Bu elemanın üst elemanına <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> veya <strong>display:inline-flex</strong> eklemeyi deneyin. { learn-more }
 
 inactive-css-not-grid-item-fix-2 = Bu elemanın üst elemanına <strong>display:grid</strong> veya <strong>display:inline-grid</strong> eklemeyi deneyin. { learn-more }

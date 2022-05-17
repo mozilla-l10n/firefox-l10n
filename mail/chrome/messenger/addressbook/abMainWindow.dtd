@@ -111,6 +111,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Yeni liste">
 <!ENTITY newlistButton.accesskey                        "Y">
+
 <!ENTITY showAsDefault.label                            "Varsayılan başlangıç dizini">
 <!ENTITY showAsDefault.accesskey                        "s">
 <!ENTITY editPropertiesButton.label                     "Düzenle">

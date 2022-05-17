@@ -20,7 +20,6 @@ about-networking-ssl = SSL
 about-networking-active = Etkin
 about-networking-idle = Beklemede
 about-networking-host = Makine
-about-networking-tcp = TCP
 about-networking-type = Tür
 about-networking-sent = Gönderilen
 about-networking-received = Alınan

@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Daha fazla bilgi al">
 
 <!ENTITY e2eEnc.description "Uçtan uca şifreleme olmazsa iletilerinizin içeriği kolayca e-posta sağlayıcınız ve başkaları tarafından gözetlenebilir.">
-<!ENTITY e2eeReqWarning.description "Şifrelemeyi zorunlu tutarsanız ileti göndermek için her alıcının ortak anahtarına veya sertifikasına sahip olmanız gerekir.">
 
-<!ENTITY e2eSigning.description "Dijital imza, alıcıların iletinin sizin tarafınızdan gönderildiğini ve içeriğin değiştirilmediğini doğrulamasını sağlar.">
 <!ENTITY e2eTechPref.description "Tercih edilen şifreleme teknolojisi:">
 
-<!ENTITY doNotEncrypt.label "Şifrelemeyi varsayılan olarak etkinleştirme">
-<!ENTITY doNotEncrypt.accesskey "N">
-<!ENTITY requireEncryptMessage.label "Şifrelemeyi varsayılan olarak zorunlu tut">
-<!ENTITY requireEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert2.message "Şifreleme için kişisel sertifika:">
 <!ENTITY digitalSign.certificate.button "Seç…">
 <!ENTITY digitalSign.certificate.accesskey "S">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Temizle">
 <!ENTITY encryption.certificate_clear.accesskey "z">
 <!ENTITY signingGroupTitle.label "Sayısal imza">
-<!ENTITY signMessage2.label "Dijital imzamı varsayılan olarak ekle">
-<!ENTITY signMessage.accesskey "o">
 
 <!ENTITY signingCert2.message "Dijital imza için kişisel sertifika:">
 

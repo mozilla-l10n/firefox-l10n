@@ -29,9 +29,3 @@
 <!ENTITY useDefault.label "Öntanımlı Ayarlar">
 <!ENTITY useDefault.accesskey "r">
 
-<!ENTITY defaultBrowserGroup.label "Varsayılan Tarayıcı">
-<!ENTITY defaultBrowserButton.label "Set Default Browser">
-<!ENTITY defaultBrowserButton.accesskey "D">
-<!ENTITY alreadyDefaultText "&brandShortName; is already your default browser.">
-<!ENTITY defaultPendingText "&brandShortName; will be set as your default browser when you click OK.">
-<!ENTITY makeDefaultText "Set &brandShortName; as your default browser.">
