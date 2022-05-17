@@ -67,3 +67,5 @@ extension-label =
 
 ## Preferences UI Search Results
 
+## Settings UI Search Results
+

@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = Aktiv
 about-networking-idle = Fəaliyyətsiz
 about-networking-host = Host
-about-networking-tcp = TCP
 about-networking-sent = Göndərildi
 about-networking-received = Alındı
 about-networking-family = Ailə

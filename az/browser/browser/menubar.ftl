@@ -41,15 +41,6 @@ menu-quit =
 menu-quit-mac =
     .label = { -brand-shorter-name } səyyahını tərk et
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = { -brand-shorter-name } səyyahından çıx
-
 menu-about =
     .label = { -brand-shorter-name } Haqqında
     .accesskey = H
@@ -79,9 +70,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Faylı aç…
     .accesskey = A
-menu-file-close =
-    .label = Qapat
-    .accesskey = Q
 menu-file-close-window =
     .label = Pəncərəni Qapat
     .accesskey = r
@@ -94,9 +82,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Səhifə nizamı…
     .accesskey = ı
-menu-file-print-preview =
-    .label = Çapa ön baxış
-    .accesskey = B
 menu-file-print =
     .label = Çap et…
     .accesskey = Ç
@@ -275,9 +260,6 @@ menu-help =
     .accesskey = K
 menu-help-report-site-issue =
     .label = Sayt Problemini Bildir…
-menu-help-feedback-page =
-    .label = Əks əlaqə göndər…
-    .accesskey = g
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

@@ -104,7 +104,6 @@ redirectLoop-title = Səhifə düzgün yönləndirilmir
 unknownSocketType-title = Şəbəkədən gələn cavab yanlışdır
 nssFailure2-title = Təhlükəsiz bağlantı qurula bilmədi
 corruptedContentError-title = Zədəli Məzmun Xətası
-remoteXUL-title = Uzaq XUL
 sslv3Used-title = Təhlükəsiz bağlanmaq mümkün olmadı
 inadequateSecurityError-title = Bağlantınız qorumalı deyil
 blockedByPolicy-title = Əngəllənmiş Səhifə

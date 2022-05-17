@@ -18,9 +18,11 @@ videocontrols-casting-button-label =
     .aria-label = Ekrana Yayımla
 videocontrols-closed-caption-off =
     .offlabel = Söndürülmüş
+
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Şəkildə-Şəkil
+
 videocontrols-error-aborted = Video yükləmə dayandırıldı.
 videocontrols-error-network = Bir şəbəkə səhvi səbəbi ilə video göstərilməsi ləğv edildi.
 videocontrols-error-decode = Fayl korlandığı üçün video göstərilə bilmir.
@@ -28,6 +30,7 @@ videocontrols-error-src-not-supported = Video formatı və ya MIME formatı dəs
 videocontrols-error-no-source = Dəstəklənən formatlarda və ya MIME formatlarında video tapılmadı.
 videocontrols-error-generic = Naməlum bir səhv səbəbi ilə video göstərilməsi ləğv edildi.
 videocontrols-status-picture-in-picture = Video Şəkildə-Şəkil modunda oynadılır.
+
 # This message shows the current position and total video duration
 #
 # Variables:

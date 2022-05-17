@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Verilən
 
-item-site-preferences =
-    .label = Sayt Nizamlamaları
-    .accesskey = e
-
 item-offline-apps =
     .label = Oflayn Websayt Məlumatları
     .accesskey = O
