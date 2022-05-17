@@ -146,8 +146,10 @@ addon-category-sitepermission-title =
 ## These are global warnings
 
 extensions-warning-safe-mode = Ҳамаи ҷузъҳои иловагӣ дар реҷаи бехатар ғайрифаъол карда шудаанд.
+extensions-warning-check-compatibility = Санҷиши мувофиқати ҷузъи иловагӣ ғайрифаъол аст. Эҳтимол, шумо ҷузъҳои иловагии номувофиқ доред.
 extensions-warning-check-compatibility-button = Фаъол кардан
     .title = Фаъол кардани санҷиши мутобиқати ҷузъи иловагӣ
+extensions-warning-update-security = Санҷиши навсозии амнияти ҷузъи иловагӣ ғайрифаъол аст. Навсозиҳо метавонанд шуморо дар зери хатар гузоранд.
 extensions-warning-update-security-button = Фаъол кардан
     .title = Фаъол кардани санҷиши навсозии амниятии ҷузъи иловагӣ
 
@@ -207,12 +209,17 @@ shortcuts-modifier-mac = Ctrl, Alt ё аломати «⌘»-ро илова к�
 shortcuts-modifier-other = Ctrl ё Alt-ро илова кунед
 shortcuts-invalid = Мувофиқати нодуруст
 shortcuts-letter = Ҳарферо ворид кунед
+shortcuts-system = Миёнбури { -brand-short-name } аз нав танзим карда намешавад
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Миёнбури такрорӣ
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Аллакай аз тарафи { $addon } истифода мешавад
+shortcuts-card-expand-button =
+    { $numberToShow ->
+       *[other] Намоиш додани { $numberToShow } дигар
+    }
 shortcuts-card-collapse-button = Камтар нишон диҳед
 header-back-button =
     .title = Бозгашт
@@ -230,6 +237,10 @@ discopane-notice-recommendations =
     профил ва васеъшавиҳои дигаре, ки шумо насб кардед, асос меёбанд.
 discopane-notice-learn-more = Маълумоти бештар
 privacy-policy = Сиёсати махфият
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = аз <a data-l10n-name="author">{ $author }</a>
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
