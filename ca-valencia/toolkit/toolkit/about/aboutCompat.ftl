@@ -3,3 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 text-title = about:compat
+
+## Do not translate "SmartBlock". For reference, SmartBlock is a feature
+## of Firefox anti-tracking which fixes website breakage caused when
+## trackers are blocked, by acting just enough like those trackers to fix the
+## breakage. SmartBlock also contains special fixes for sites broken by
+## Firefox's Total Cookie Protection feature.
+

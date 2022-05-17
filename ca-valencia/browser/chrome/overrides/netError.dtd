@@ -11,6 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Vés arrere (recomanat)">
 <!ENTITY advanced2.label "Avançat…">
 <!ENTITY viewCertificate.label "Mostra el certificat">
+
 <!-- Specific error messages -->
 
 
@@ -91,7 +92,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Informa dels errors com este per ajudar a Mozilla a identificar i a blocar els llocs maliciosos">
 <!ENTITY errorReporting.learnMore "Més informació…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul></p>">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
@@ -118,9 +118,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Pareix que la configuració actual de seguretat a la xarxa està causant este error. Voleu utilitzar la configuració per defecte?">
 <!ENTITY prefReset.label "Restaura la configuració per defecte">
-
-<!ENTITY enableTls10.longDesc "És possible que este lloc web no admeti el protocol TLS 1.2, que és la versió mínima compatible amb el &brandShortName;. L'activació de TLS 1.0 i TLS 1.1 podria fer que la connexió funcione correctament.">
-<!ENTITY enableTls10.note "TLS 1.0 i TLS 1.1 es desactivaran permanentment en una pròxima versió.">
-<!ENTITY enableTls10.label "Habilita TLS 1.0 i 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè s'ha produït un error del protocol de xarxa.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">

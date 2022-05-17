@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Funció recomanada
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Per què veig això?
+
 cfr-doorhanger-extension-cancel-button = Ara no
     .accesskey = n
+
 cfr-doorhanger-extension-ok-button = Afig-la ara
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = Gestiona els paràmetres de recomanacions
     .accesskey = G
+
 cfr-doorhanger-extension-never-show-recommendation = No em mostres esta recomanació
     .accesskey = m
+
 cfr-doorhanger-extension-learn-more-link = Més informació
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = per { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomanació
 cfr-doorhanger-extension-notification2 = Recomanació
     .tooltiptext = Recomanació d'extensió
     .a11y-announcement = Recomanació d'extensió disponible
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recomanació
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Més informació
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Novetat:
+
 cfr-whatsnew-button =
     .label = Novetats
     .tooltiptext = Novetats
+
 cfr-whatsnew-release-notes-link-text = Llegiu les notes de la versió
 
 ## Enhanced Tracking Protection Milestones
@@ -153,3 +163,6 @@ spotlight-total-cookie-protection-body = La protecció total de galetes impedeix
 spotlight-total-cookie-protection-expanded = El { -brand-short-name } crea una tanca al voltant de les galetes, limitant-les al lloc on vos trobeu perquè els seguidors no les puguen utilitzar per a seguir-vos. Amb l'accés anticipat, ajudareu a optimitzar esta funció perquè puguem seguir construint una web millor per a tothom.
 spotlight-total-cookie-protection-primary-button = Activa la protecció total de galetes
 spotlight-total-cookie-protection-secondary-button = Ara no
+
+## Emotive Continuous Onboarding
+
