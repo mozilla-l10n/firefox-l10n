@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = Odpri s { -brand-short-name(sklon: "orodnik") }
     .accesskey = r
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Nastavitve lahko spremenite v nastavitvah { -brand-short-name }a.
            *[other] Nastavitve lahko spremenite v nastavitvah { -brand-short-name }a.
         }
+
 unknowncontenttype-intro = Izbrali ste odpiranje:
 unknowncontenttype-which-is = ki je vrste:
 unknowncontenttype-from = iz:

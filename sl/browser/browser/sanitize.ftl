@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Podatke
 
-item-site-preferences =
-    .label = nastavitve strani
-    .accesskey = S
-
 item-site-settings =
     .label = nastavitve strani
     .accesskey = s

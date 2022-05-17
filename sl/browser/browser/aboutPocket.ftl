@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Dodaj oznake
+
 pocket-panel-saved-error-generic = Med shranjevanjem na { -pocket-brand-name } je prišlo do napake.
 pocket-panel-saved-error-tag-length = Oznake so omejene na 25 znakov
 pocket-panel-saved-error-only-links = Shranite lahko samo povezave
@@ -29,6 +30,7 @@ pocket-panel-saved-saving-tags = Shranjevanje …
 pocket-panel-saved-suggested-tags = Predlagane oznake
 pocket-panel-saved-tags-saved = Oznake dodane
 pocket-panel-signup-view-list = Ogled seznama
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Dodaj oznake:
 
@@ -43,7 +45,7 @@ pocket-panel-signup-signup-firefox = Registrirajte se s { -brand-product-name }o
 pocket-panel-signup-tagline = Shranite članke in videe v { -brand-product-name }u in si jih oglejte na { -pocket-brand-name }u iz katere koli naprave.
 pocket-panel-signup-tagline-story-one = Kliknite gumb { -pocket-brand-name } v { -brand-product-name }u in shranite članek, video ali stran.
 pocket-panel-signup-tagline-story-two = Oglejte si v { -pocket-brand-name }u na kateri koli napravi.
-pocket-panel-signup-cta-a = Vaš gumb za shranjevanje za internet.
+
 pocket-panel-signup-cta-a-fix = Vaš gumb za shranjevanje interneta
 pocket-panel-signup-cta-b = Kliknite gumb { -pocket-brand-name }, da shranite članke, videoposnetke in povezave. Oglejte si svoj seznam v kateri koli napravi in kadar koli.
 pocket-panel-signup-cta-b-short = Kliknite gumb { -pocket-brand-name }, da shranite članke, videoposnetke in povezave.
@@ -57,6 +59,7 @@ pocket-panel-home-paragraph = { -pocket-brand-name } lahko uporabljate za odkriv
 pocket-panel-home-explore-popular-topics = Razišči pogoste teme
 pocket-panel-home-discover-more = Odkrijte več
 pocket-panel-home-explore-more = Razišči
+
 pocket-panel-home-most-recent-saves = Tukaj so vaši nazadnje shranjeni predmeti:
 pocket-panel-home-most-recent-saves-loading = Nalaganje nedavno shranjene vsebine …
 pocket-panel-home-new-user-cta = Kliknite gumb { -pocket-brand-name } da shranite članke, videoposnetke in povezave.
@@ -70,6 +73,5 @@ pocket-panel-header-sign-in = Prijava
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Prikaži vse
-pocket-panel-button-add-tags = Dodaj oznake
 pocket-panel-button-activate = Vključi { -pocket-brand-name } v { -brand-product-name(sklon: "mestnik") }
 pocket-panel-button-remove = Odstrani

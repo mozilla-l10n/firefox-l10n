@@ -5,7 +5,6 @@
 account-encryption =
     .label = Šifriranje od konca do konca
 account-otr-label = OTR (Off-the-Record Messaging)
-account-otr-description = { -brand-short-name } podpira šifriranje od konca do konca v pogovorih s posameznimi stiki. To tretjim osebam preprečuje prisluškovanje pogovoru. Šifriranje od konca do konca se lahko uporabi samo, kadar tudi druga oseba uporablja program, ki ga podpira.
 account-otr-description2 = { -brand-short-name } podpira šifriranje od konca do konca na osnovi OTR v pogovorih s posameznimi stiki. To tretjim osebam preprečuje prisluškovanje pogovoru. Tovrstno šifriranje od konca do konca se lahko uporabi samo, kadar tudi druga oseba uporablja program, ki ga podpira.
 otr-encryption-title = Potrjeno šifriranje
 otr-encryption-caption = Če želite drugim omogočiti, da v klepetih OTR preverijo vašo identiteto, delite svoj prstni odtis OTR po zunanjem (izvenpasovnem) komunikacijskem kanalu.
@@ -14,8 +13,6 @@ view-fingerprint-button =
     .label = Upravljaj prstne odtise stikov
     .accesskey = t
 otr-settings-title = Nastavitve OTR
-otr-log =
-    .label = Vključi sporočila, šifrirana z OTR, v dnevnike pogovorov
 otr-require-encryption =
     .label = Zahtevaj šifriranje od konca do konca za pogovore z eno osebo
 otr-require-encryption-info =
@@ -24,4 +21,6 @@ otr-require-encryption-info =
     prikazana kot del običajnega pogovora, niti ne bodo beležena.
 otr-verify-nudge =
     .label = Vedno me opomni, naj preverim nepreverjen stik
+
 otr-not-yet-available = še ni na voljo
+

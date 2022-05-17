@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Deli
     .accesskey = D
-tab-context-share-more =
-    .label = Več …
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -90,16 +88,6 @@ tab-context-reopen-closed-tabs =
            *[other] Obnovi zaprte zavihke
         }
     .accesskey = h
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Zapri zavihek
-            [one] Zapri zavihek
-            [two] Zapri zavihka
-            [few] Zapri zavihke
-           *[other] Zapri zavihke
-        }
-    .accesskey = Z
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -120,6 +108,7 @@ tab-context-move-tabs =
            *[other] Premakni zavihke
         }
     .accesskey = m
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
