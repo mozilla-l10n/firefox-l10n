@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = Ошибка установки
 opensearch-error-duplicate-desc = { -brand-short-name } не смог установить поисковый плагин с «{ $location-url }», так как поисковая система с таким именем уже существует.
+
 opensearch-error-format-title = Некорректный формат
 opensearch-error-format-desc = { -brand-short-name } не смог установить поисковую систему из: { $location-url }
+
 opensearch-error-download-title = Ошибка загрузки
 opensearch-error-download-desc = { -brand-short-name } не смог загрузить поисковый плагин с: { $location-url }
 
@@ -19,9 +21,11 @@ opensearch-error-download-desc = { -brand-short-name } не смог загру�
 
 searchbar-submit =
     .tooltiptext = Произвести поиск
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Поиск
+
 searchbar-icon =
     .tooltiptext = Поиск
 
@@ -30,6 +34,5 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-remove-search-engine-message = <strong>Ваша поисковая система по умолчанию была изменена.</strong> { $oldEngine } более не используется как поисковая система по умолчанию в { -brand-short-name }. Теперь ваша поисковая система по умолчанию — { $newEngine }. Чтобы изменить её, перейдите в настройки. <label data-l10n-name="remove-search-engine-article">Подробнее</label>
 removed-search-engine-message = <strong>Ваша поисковая система по умолчанию была изменена.</strong> { $oldEngine } более не используется как поисковая система по умолчанию в { -brand-short-name }. Теперь ваша поисковая система по умолчанию — { $newEngine }. Чтобы изменить её, перейдите в настройки. <label data-l10n-name="remove-search-engine-article">Подробнее</label>
 remove-search-engine-button = OK

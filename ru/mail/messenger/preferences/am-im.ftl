@@ -4,8 +4,10 @@
 
 account-settings-title = Настройки аутентификации
 account-channel-title = Каналы по умолчанию
+
 chat-autologin =
     .label = Входить при запуске
+
 chat-encryption-generic = Общее
 chat-encryption-log =
     .label = Включать сквозные зашифрованные сообщения в журналы разговоров

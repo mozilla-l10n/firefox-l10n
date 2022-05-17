@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Подробнее">
 
 <!ENTITY e2eEnc.description "Без сквозного шифрования содержимое сообщений легко может быть прочтено вашим провайдером электронной почты или системой прослушивания.">
-<!ENTITY e2eeReqWarning.description "Если вам требуется шифрование, то для отправки сообщений у вас должен быть открытый ключ или сертификат каждого получателя.">
 
-<!ENTITY e2eSigning.description "Цифровая подпись позволяет получателям удостовериться, что сообщение было отправлено именно вами, и что его содержимое не было изменено.">
 <!ENTITY e2eTechPref.description "Предпочитаемая технология шифрования:">
 
-<!ENTITY doNotEncrypt.label "Не включать шифрование по умолчанию">
-<!ENTITY doNotEncrypt.accesskey "е">
-<!ENTITY requireEncryptMessage.label "Требовать шифрование по умолчанию">
-<!ENTITY requireEncryptMessage.accesskey "в">
 <!ENTITY encryptionCert2.message "Личный сертификат для шифрования:">
 <!ENTITY digitalSign.certificate.button "Выбрать…">
 <!ENTITY digitalSign.certificate.accesskey "ы">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Очистить">
 <!ENTITY encryption.certificate_clear.accesskey "и">
 <!ENTITY signingGroupTitle.label "Цифровая подпись">
-<!ENTITY signMessage2.label "Добавлять цифровую подпись по умолчанию">
-<!ENTITY signMessage.accesskey "д">
 
 <!ENTITY signingCert2.message "Личный сертификат для цифровой подписи:">
 

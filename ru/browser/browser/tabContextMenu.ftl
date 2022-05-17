@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Поделиться
     .accesskey = д
-tab-context-share-more =
-    .label = Ещё…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -90,15 +88,6 @@ tab-context-reopen-closed-tabs =
            *[many] Восстановить { $tabCount } закрытых вкладок
         }
     .accesskey = о
-tab-context-close-tabs =
-    .label =
-        Закрыть { $tabCount ->
-            [1] вкладку
-            [one] { $tabCount } вкладку
-            [few] { $tabCount } вкладки
-           *[many] { $tabCount } вкладок
-        }
-    .accesskey = ь
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -117,6 +106,7 @@ tab-context-move-tabs =
            *[many] { $tabCount } вкладок
         }
     .accesskey = м
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

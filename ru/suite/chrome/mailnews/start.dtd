@@ -25,9 +25,6 @@
 раздела <a id="dictURL" href="">словарей</a> на сайте
 <a href="https://addons.thunderbird.net/seamonkey/">дополнений для SeaMonkey и Thunderbird</a>.'>
 <!ENTITY info.title "Более подробная информация">
-<!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
-<!ENTITY info_bugs.label
-'<a href="https://developer.mozilla.org/docs/Mozilla/Projects/MailNews">Мы</a> с радостью примем ваши пожелания и замечания, но сначала прочитайте, пожалуйста, <a id="releaseNotesURL" href="">примечания к выпуску</a> и попробуйте поискать свою ошибку в <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>
 <!--# LOCALIZATION NOTE (info_bugs.label2): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
 <!ENTITY info_bugs.label2
 '<a href="https://www.seamonkey-project.org/dev/get-involved">Мы</a> с радостью примем ваши пожелания и замечания, но сначала прочитайте, пожалуйста, <a id="releaseNotesURL" href="">примечания к выпуску</a> и попробуйте поискать свою ошибку в <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>

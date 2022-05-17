@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Добавить теги
+
 pocket-panel-saved-error-generic = При попытке сохранения в { -pocket-brand-name } произошла ошибка.
 pocket-panel-saved-error-tag-length = Длина тега не должна превышать 25 символов
 pocket-panel-saved-error-only-links = Можно сохранять только ссылки
@@ -29,6 +30,7 @@ pocket-panel-saved-saving-tags = Сохранение…
 pocket-panel-saved-suggested-tags = Рекомендуемые теги
 pocket-panel-saved-tags-saved = Теги добавлены
 pocket-panel-signup-view-list = Просмотреть список
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Добавить теги:
 
@@ -43,7 +45,7 @@ pocket-panel-signup-signup-firefox = Регистрация через { -brand-
 pocket-panel-signup-tagline = Сохраняйте статьи и видео из { -brand-product-name }, чтобы просматривать их в { -pocket-brand-name } на любом устройстве в любое время.
 pocket-panel-signup-tagline-story-one = Нажмите на кнопку { -pocket-brand-name }, чтобы сохранить любую статью, видео или страницу из { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Просматривайте их в { -pocket-brand-name } на любом устройстве в любое время.
-pocket-panel-signup-cta-a = Ваша кнопка сохранения из Интернета.
+
 pocket-panel-signup-cta-a-fix = Ваша кнопка сохранения из Интернета
 pocket-panel-signup-cta-b = Сохраняйте статьи, видео и ссылки с помощью кнопки { -pocket-brand-name }. Просматривайте свой список на любом устройстве в любое время.
 pocket-panel-signup-cta-b-short = Сохраняйте статьи, видео и ссылки с помощью кнопки { -pocket-brand-name }.
@@ -57,6 +59,7 @@ pocket-panel-home-paragraph = Вы можете использовать { -pock
 pocket-panel-home-explore-popular-topics = Просмотрите популярные темы
 pocket-panel-home-discover-more = Откройте для себя ещё больше
 pocket-panel-home-explore-more = Обзор
+
 pocket-panel-home-most-recent-saves = Вот ваши последние сохранения:
 pocket-panel-home-most-recent-saves-loading = Загрузка недавних сохранений...
 pocket-panel-home-new-user-cta = Сохраняйте статьи, видео и ссылки с помощью кнопки { -pocket-brand-name }.
@@ -70,6 +73,5 @@ pocket-panel-header-sign-in = Войти
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Показать всё
-pocket-panel-button-add-tags = Добавить теги
 pocket-panel-button-activate = Активируйте { -pocket-brand-name } в { -brand-product-name }
 pocket-panel-button-remove = Удалить

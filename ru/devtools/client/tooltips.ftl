@@ -56,8 +56,6 @@ inactive-css-not-grid-or-flex-container-fix = Попробуйте добави�
 
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Попробуйте добавить <strong>display:grid</strong>, <strong>display:flex</strong> или <strong>columns:2</strong>. { learn-more }
 
-inactive-css-not-grid-or-flex-item-fix-2 = Попробуйте добавить <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> или <strong>display:inline-flex</strong>. { learn-more }
-
 inactive-css-not-grid-or-flex-item-fix-3 = Попробуйте добавить <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> или <strong>display:inline-flex</strong> к родителю элемента. { learn-more }
 
 inactive-css-not-grid-item-fix-2 = Попробуйте добавить <strong>display:grid</strong> или <strong>display:inline-grid</strong> к родителю элемента. { learn-more }

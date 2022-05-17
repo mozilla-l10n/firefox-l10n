@@ -42,16 +42,15 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Размер буфера:
+
 perftools-custom-threads-label = Добавить собственные потоки по имени:
+
 perftools-devtools-interval-label = Интервал:
 perftools-devtools-threads-label = Потоки:
 perftools-devtools-settings-label = Настройки
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
-perftools-status-private-browsing-notice =
-    Профайлер отключается, когда включён приватный режим.
-    Закройте все приватные окна, чтобы заново включить профайлер
 perftools-status-recording-stopped-by-another-tool = Запись была остановлена другим инструментом.
 perftools-status-restart-required = Для включения этой функции необходимо перезапустить браузер.
 
@@ -101,6 +100,7 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Игнорировать выбор выше и записывать все регистрируемые потоки
+
 perftools-tools-threads-input-label =
     .title = Эти имена потоков представляют собой список разделенный запятыми, который используется для включения профилирования потоков в профайлере. Имя может быть только частичным совпадением с именем потока, который будет включён. Это поле чувствительно к пробелам.
 
@@ -108,9 +108,14 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## devtools.performance.new-panel-onboarding preference is true.
+
 perftools-onboarding-message = <b>Новое</b>:  В Инструменты разработчика теперь интегрирован { -profiler-brand-name }. <a>Узнайте больше</a> об этом новом, мощном инструменте.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (В течение ограниченного периода времени вы сможете использовать старую панель Производительности, используя <a>{ options-context-advanced-settings }</a>)
+
 perftools-onboarding-close-button =
     .aria-label = Закрыть приветственное сообщение
 
@@ -123,21 +128,19 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Веб-разработка
 perftools-presets-web-developer-description = Рекомендуемые настройки для отладки большинства веб-приложений с низкими накладными расходами.
-perftools-presets-firefox-platform-label = Платформа Firefox
-perftools-presets-firefox-platform-description = Рекомендуемые настройки для внутренней отладки платформы Firefox.
-perftools-presets-firefox-front-end-label = Клиентская часть Firefox
-perftools-presets-firefox-front-end-description = Рекомендуемые настройки для внутренней отладки клиентской части Firefox.
-perftools-presets-firefox-graphics-label = Графика Firefox
-perftools-presets-firefox-graphics-description = Рекомендуемые настройки для исследования производительности графики Firefox.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Рекомендуемые настройки для профилирования { -brand-shorter-name }.
+
 perftools-presets-graphics-label = Графика
 perftools-presets-graphics-description = Настройки для выявления ошибок графики в { -brand-shorter-name }.
+
 perftools-presets-media-label = Медиа
-perftools-presets-media-description = Рекомендуемые настройки для диагностики проблем со звуком и видео.
 perftools-presets-media-description2 = Настройки для выявления ошибок аудио и видео в { -brand-shorter-name }.
+
 perftools-presets-networking-label = Сеть
 perftools-presets-networking-description = Настройки для выявления сетевых ошибок в { -brand-shorter-name }.
+
 perftools-presets-custom-label = Персональный
 
 ##
