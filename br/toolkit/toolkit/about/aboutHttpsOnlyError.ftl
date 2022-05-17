@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-httpsonly-title-alert = Kemenn ar mod HTTPS nemetken
-about-httpsonly-title-connection-not-available = Kennaskañ suraet dihegerz
 
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com

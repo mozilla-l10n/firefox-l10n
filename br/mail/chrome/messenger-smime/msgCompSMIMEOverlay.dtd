@@ -10,16 +10,3 @@
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
-<!ENTITY menu_securityEncryptRequire.accesskey "E">
-
-<!ENTITY menu_securitySign.label "Sinañ ar gemennadenn-mañ gant un doare niverel">
-<!ENTITY menu_securitySign.accesskey "S">
-
-<!ENTITY menu_securityStatus.label "Gwelout an titouroù diogelroez">
-<!ENTITY menu_securityStatus.accesskey "t">
-
-<!ENTITY securityButton.label "Diogelroez">
-<!ENTITY securityButton.tooltip "Gwelout pe gemmañ an arventennoù diogelroez">
-
-<!ENTITY menu_viewSecurityStatus.label "Titouroù diogelroez ar gemennadenn">
-<!ENTITY menu_viewSecurityStatus.accesskey "T">

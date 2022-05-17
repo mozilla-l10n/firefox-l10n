@@ -63,17 +63,6 @@ tab-context-close-multiple-tabs =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Serriñ an ivinell
-            [one] Serriñ an ivinelloù
-            [two] Serriñ an ivinelloù
-            [few] Serriñ an ivinelloù
-            [many] Serriñ an ivinelloù
-           *[other] Serriñ an ivinelloù
-        }
-    .accesskey = S
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -85,6 +74,7 @@ tab-context-move-tabs =
            *[other] Dilec'hiañ an ivinelloù
         }
     .accesskey = D
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

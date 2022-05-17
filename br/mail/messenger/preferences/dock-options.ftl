@@ -23,4 +23,3 @@ count-new-messages-radio =
     .label = Niver a gemennadennoù nevez
     .accesskey = n
 
-notification-settings-info = Gallout a rit diweredekaat an arlun er penel rebuzadurioù e Gwellvezioù ar Reizhad.

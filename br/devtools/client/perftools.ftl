@@ -51,9 +51,6 @@ perftools-devtools-settings-label = Settings
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
-perftools-status-private-browsing-notice =
-    The profiler is disabled when Private Browsing is enabled.
-    Close all Private Windows to re-enable the profiler
 perftools-status-recording-stopped-by-another-tool = The recording was stopped by another tool.
 perftools-status-restart-required = The browser must be restarted to enable this feature.
 
@@ -109,6 +106,9 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## devtools.performance.new-panel-onboarding preference is true.
+
 perftools-onboarding-message = <b>New</b>: { -profiler-brand-name } is now integrated into Developer Tools. <a>Learn more</a> about this powerful new tool.
 
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
@@ -116,3 +116,11 @@ perftools-onboarding-reenable-old-panel = (For a limited time, you can access th
 
 perftools-onboarding-close-button =
     .aria-label = Close the onboarding message
+
+## Profiler presets
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+##

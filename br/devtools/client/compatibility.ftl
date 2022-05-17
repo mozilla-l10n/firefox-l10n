@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (deprecated, experime
 compatibility-settings-button-label = Settings
 compatibility-settings-button-title =
     .title = Settings
-compatibility-feedback-button-label = Feedback
-compatibility-feedback-button-title =
-    .title = Feedback
 
 ## Messages used as headers in settings pane
 
@@ -49,3 +46,4 @@ compatibility-issue-occurrences =
 compatibility-no-issues-found = No compatibility issues found.
 compatibility-close-settings-button =
     .title = Close settings
+

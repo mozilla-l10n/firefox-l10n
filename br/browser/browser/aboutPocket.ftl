@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Ouzhpennañ skritelligoù
+
 pocket-panel-saved-error-generic = Ur fazi a zo bet en ur enrollañ davet { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Bevennet eo ar skritelligoù da 25 arouezenn
 pocket-panel-saved-error-only-links = N'haller enrollañ ereoù nemetken
@@ -29,6 +30,7 @@ pocket-panel-saved-saving-tags = Oc'h enrollañ…
 pocket-panel-saved-suggested-tags = Skritelligoù kinniget
 pocket-panel-saved-tags-saved = Ouzhpennet ur skritellig
 pocket-panel-signup-view-list = Gwelout ar roll
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Ouzhpennañ tikedennoù:
 
@@ -43,6 +45,7 @@ pocket-panel-signup-signup-firefox = Krouiñ ur gont gant { -brand-product-name 
 pocket-panel-signup-tagline = Enrollit pennadoù ha videoioù adalek { -brand-product-name } evit gwelet anezho war { -pocket-brand-name } war forzh peseurt trevnad, p’ho peus c’hoant.
 pocket-panel-signup-tagline-story-one = Klikit war an afell { -pocket-brand-name } evit enrollañ ur pennad, video pe pajenn adalek { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Sellit anezhañ e { -pocket-brand-name } war forzh peseurt trevnad, p’ho peus c’hoant.
+
 pocket-panel-signup-cta-a-fix = Hoc'h afell Enrollañ evit an internet
 pocket-panel-signup-cta-b = Klikit war an afell { -pocket-brand-name } evit enrollañ pennadoù, videoioù hag ereoù. Gwelit ho roll war forzh peseurt trevnad, forzh pegoulz.
 pocket-panel-signup-cta-b-short = Klikit war an afell { -pocket-brand-name } evit enrollañ pennadoù, videoioù hag ereoù.
@@ -56,6 +59,7 @@ pocket-panel-home-paragraph = Gallout a rit ober gant { -pocket-brand-name } evi
 pocket-panel-home-explore-popular-topics = Merdeiñ ar sujedoù brudet
 pocket-panel-home-discover-more = Dizoloiñ muioc'h c'hoazh
 pocket-panel-home-explore-more = Merdeiñ
+
 pocket-panel-home-most-recent-saves = Sed amañ hoc’h enrolladennoù nevesañ:
 pocket-panel-home-most-recent-saves-loading = Kargadennoù an enrolladennoù nevez...
 pocket-panel-home-new-user-cta = Klikit war an afell { -pocket-brand-name } evit enrollañ pennadoù, videoioù hag ereoù.
@@ -69,6 +73,5 @@ pocket-panel-header-sign-in = Kennaskañ
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Diskouez pep tra
-pocket-panel-button-add-tags = Ouzhpennañ tikedennoù
 pocket-panel-button-activate = Gweredekaat { -pocket-brand-name } e { -brand-product-name }
 pocket-panel-button-remove = Dilemel

@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Pajenn Internet …">
 <!ENTITY attachPageCmd.accesskey "n">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Fichenn bersonel (vCard)">
-<!ENTITY attachVCardCmd.accesskey "b">
 <!ENTITY remindLater.label "Degas soñj din diwezhatoc'h">
 <!ENTITY remindLater.accesskey "d">
 <!ENTITY closeCmd.label "Serriñ">
@@ -148,16 +145,6 @@
 <!ENTITY returnReceiptMenu.accesskey "e">
 <!ENTITY dsnMenu.label "Kemenn evit stad ar c'has kemennadennoù">
 <!ENTITY dsnMenu.accesskey "K">
-<!ENTITY deliveryFormatMenu.label "Mentrezh treuzkas">
-<!ENTITY deliveryFormatMenu.accesskey "M">
-<!ENTITY autoFormatCmd.label "EmZiuzañ">
-<!ENTITY autoFormatCmd.accesskey "Z">
-<!ENTITY plainTextFormatCmd.label "Kas gant un destenn eeun hepken">
-<!ENTITY plainTextFormatCmd.accesskey "a">
-<!ENTITY htmlFormatCmd.label "An destenn pinvidikaet nemetken (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "d">
-<!ENTITY bothFormatCmd.label "Testenn eeun ha pinvidikaet (HTML)">
-<!ENTITY bothFormatCmd.accesskey "H">
 <!ENTITY priorityMenu.label "Tevet">
 <!ENTITY priorityMenu.accesskey "T">
 <!ENTITY priorityButton.title "Tevet">

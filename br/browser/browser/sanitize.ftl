@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Roadennoù
 
-item-site-preferences =
-    .label = Gwellvezioù lec'hienn
-    .accesskey = w
-
 item-offline-apps =
     .label = Roadennoù al lec'hienn ezlinenn
     .accesskey = o

@@ -34,7 +34,6 @@ about-telemetry-events-section = Darvoudoù
 about-telemetry-simple-measurements-section = Muzulioù eeun
 about-telemetry-slow-sql-section = Azgoulennoù SQL gorrek
 about-telemetry-addon-details-section = Munudoù an askouezh
-about-telemetry-captured-stacks-section = Bernioù euvret
 about-telemetry-late-writes-section = Skrivadurioù diwezhat
 about-telemetry-raw-payload-section = Karg diaoz
 about-telemetry-raw = JSON diaoz
@@ -124,10 +123,6 @@ about-telemetry-addon-provider = Pourchaser evit { $addonProvider }
 about-telemetry-keys-header = Perzh
 about-telemetry-names-header = Anv
 about-telemetry-values-header = Gwerzh
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (niver a dapadennoù: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Skrivadur diwezhat #{ $lateWriteCount }

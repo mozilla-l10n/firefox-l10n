@@ -7,8 +7,6 @@
 
 
 
-<!ENTITY doNotEncrypt.accesskey "N">
-<!ENTITY requireEncryptMessage.accesskey "u">
 <!ENTITY digitalSign.certificate.button "Diuzañ…">
 <!ENTITY digitalSign.certificate.accesskey "z">
 <!ENTITY digitalSign.certificate_clear.button "Skarzhañ">
@@ -18,7 +16,6 @@
 <!ENTITY encryption.certificate_clear.button "Skarzhañ">
 <!ENTITY encryption.certificate_clear.accesskey "k">
 <!ENTITY signingGroupTitle.label "Sinañ niverel">
-<!ENTITY signMessage.accesskey "S">
 
 
 

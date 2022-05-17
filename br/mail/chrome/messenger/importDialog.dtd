@@ -32,9 +32,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "Siloù">
 <!ENTITY importFilters.accesskey  "S">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "&brandShortName; Skoazeller enporzhiañ posteloù">
 <!ENTITY importShortDesc.label    "Enporzhiañ ar posteloù, karnedoù chomlec'hioù, arventennoù ha siloù diouzh goulevioù all">
 

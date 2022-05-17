@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "D">
 <!ENTITY newVirtualFolderCmd.label "Enrollañ disoc'h ar c'hlask">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
-<!ENTITY newOtherAccountsCmd.label "Kontoù all…">
-<!ENTITY newOtherAccountsCmd.accesskey "o">
 <!ENTITY newCreateEmailAccountCmd.label "Kaout ur gont postel nevez…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "K">
 <!ENTITY newExistingEmailAccountCmd.label "Ur gont postel zo anezhi endeo…">
@@ -46,8 +44,6 @@
 <!ENTITY openMessageFileCmd.accesskey "o">
 <!ENTITY saveAsMenu.label "Enrollañ evel">
 <!ENTITY saveAsMenu.accesskey "E">
-<!ENTITY saveAsFileCmd.label "Restr">
-<!ENTITY saveAsFileCmd.accesskey "R">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Patrom">
 <!ENTITY saveAsTemplateCmd.accesskey "P">

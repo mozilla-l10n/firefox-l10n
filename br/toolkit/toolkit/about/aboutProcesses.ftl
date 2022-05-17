@@ -60,10 +60,8 @@ about-processes-unknown-process = All : { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-large-allocation-process = { $origin } ({ $pid }, bras)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, liesorin distaget)
 about-processes-web-isolated-process-private = { $origin } — Prevez ({ $pid })
-about-processes-web-large-allocation-process-private = { $origin } — Prevez ({ $pid }, bras)
 about-processes-with-coop-coep-process-private = { $origin } — Prevez ({ $pid }, liesorin distaget)
 
 ## Details within processes

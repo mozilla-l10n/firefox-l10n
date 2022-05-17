@@ -80,9 +80,6 @@ restore-default-label =
     .accesskey = r
 
 default-search-engine = Keflusker Enklask dre Ziouer
-add-search-engine =
-    .label = Ouzhpennañ diwar ur restr
-    .accesskey = O
 remove-search-engine =
     .label = Lemel
     .accesskey = L
@@ -107,8 +104,6 @@ change-dock-icon = Kemmañ gwellvezioù arlun an arload
 app-icon-options =
     .label = Gwellvezioù arlun an arload…
     .accesskey = a
-
-notification-settings = Ar galvoù-diwall hag ar son dre ziouer a c'hall bezañ diweredekaet war penel rebuziñ ar gwellvezioù reizhiad.
 
 animated-alert-label =
     .label = Diskouez ur c'hemenn evezhiañ
@@ -303,14 +298,6 @@ quoted-text-color =
     .label = Liv :
     .accesskey = L
 
-type-column-label =
-    .label = Rizh an endalc'h
-    .accesskey = R
-
-action-column-label =
-    .label = Gwezh
-    .accesskey = G
-
 save-to-label =
     .label = Enrollañ ar restroù e
     .accesskey = E
@@ -460,12 +447,6 @@ restore-html-label =
 default-format-label =
     .label = Arverañ ar mentrezh Rannbennad e-lec'h ar C'horf Testenn dre ziouer
     .accesskey = R
-
-format-description = Kefluniañ emzalc'h ar mentrezh testenn
-
-send-options-label =
-    .label = Dibarzhioù kas…
-    .accesskey = k
 
 autocomplete-description = Pa lakait chomlec'h ar c'hemennadennoù, sellit ouzh an enankadoù a glot e :
 
@@ -728,8 +709,6 @@ theme-label =
     .value = Neuz:
     .accesskey = T
 
-style-thunderbird =
-    .label = Thunderbird
 style-bubbles =
     .label = Lagadennoù
 style-dark =
@@ -748,4 +727,6 @@ chat-variant-label =
     .accesskey = V
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

@@ -16,7 +16,6 @@ about-networking-ssl = SSL
 about-networking-active = Oberiant
 about-networking-idle = Dioberiant
 about-networking-host = Ostiz
-about-networking-tcp = TCP
 about-networking-sent = Kaset
 about-networking-received = Degemeret
 about-networking-family = Familh

@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Postel ouzhpenn:">
 <!ENTITY SecondEmail.accesskey          "i">
-<!ENTITY PreferMailFormat.label         "Gwell eo gantañ resev kemennadennoù gant ar mentrezh:">
-<!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "Testenn eeun">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Dianav">

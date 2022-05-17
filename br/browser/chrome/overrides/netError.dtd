@@ -105,8 +105,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Danevellit kudennoù evel-se evit sikour Mozilla da naoudiañ ha stankañ al lec'hiennoù droukrañsus">
 <!ENTITY errorReporting.learnMore "Gouzout hiroc'h…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn evit kelaouiñ anezho diwar-benn ar gudenn-mañ.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Titouroù kempleshoc'h: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -132,9 +130,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Gallout a ra hoc'h arventennoù rouedad bezañ kaoz eus kement-se. Fellout a ra deoc'h assav an arventennoù dre ziouer?">
 <!ENTITY prefReset.label "Assav an arventennoù dre ziouer">
-
-<!ENTITY enableTls10.longDesc "Al lec'hienn-mañ n'eo ket evit kemer e karg ar protokol TLS 1.2 hag a zo an handelv izekañ degemeret gant &brandShortName;. Gweredekaat TLS 1.0 ha TLS 1.1 a c'hall peurgas ar gevreadenn.">
-<!ENTITY enableTls10.note "Diweredekaet da vat e vo TLS 1.0 ha TLS 1.1 en un handelv da zont.">
-<!ENTITY enableTls10.label "Gweredekaat TLS 1.0 hag 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>N’haller ket diskouez ar pajennoù a glaskit sellet abalamour m’eo bet dinoet ur fazi er c’homenad rouedad.</p><ul><li>Kit e darempred gant perc’henned al lec’hienn evit o zitouriñ eus ar gudenn-mañ.</li></ul>">
