@@ -284,12 +284,6 @@ restore-html-label =
     .label = Restore Defaults
     .accesskey = R
 
-format-description = Bumba ukuziphatha kolungiselelo lwesiqendu
-
-send-options-label =
-    .label = Thumela Ekunokukhethwa Kuko...
-    .accesskey = T
-
 autocomplete-description = Xa kufakwa iidilesi kwimiyalezo, jonga amangeniso ahambelanayo phakathi:
 
 ab-label =
@@ -400,4 +394,6 @@ ocsp-label =
 
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

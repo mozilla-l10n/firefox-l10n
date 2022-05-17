@@ -17,8 +17,6 @@
 <!ENTITY addIMAccountButton.accesskey "C">
 <!ENTITY addFeedAccountButton.label "Add Feed Account…">
 <!ENTITY addFeedAccountButton.accesskey "F">
-<!ENTITY addOtherAccountButton.label "Add Other Account…">
-<!ENTITY addOtherAccountButton.accesskey "O">
 <!ENTITY setDefaultButton.label "Misela Njengokuhlala Kukho">
 <!ENTITY setDefaultButton.accesskey "h">
 <!ENTITY removeButton.label "Susa Iakhawunti">
@@ -35,6 +33,4 @@
      this window for en-US. -->
 
 <!-- AccountManager.xhtml -->
-<!-- AccountManager.xhtml -->
-<!ENTITY accountManager.size "width: 55em; height: 50em;">
-<!ENTITY accountTree.width "width: 17em;">
+

@@ -18,12 +18,14 @@ videocontrols-casting-button-label =
     .aria-label = Lahlela kwiskrini
 videocontrols-closed-caption-off =
     .offlabel = Icimile
+
 videocontrols-error-aborted = Ukulayisha kwevidiyo kunqunyanyisiwe.
 videocontrols-error-network = Ukudlala ubuyela umva kwevidiyo kuyekisiwe ngenxa yemposiso yenethiwekhi.
 videocontrols-error-decode = Ividiyo ayinakudlalwa kuba ifayile yonakalisiwe.
 videocontrols-error-src-not-supported = Ifomathi yevidiyo okanye udidi lwe-MIME aluxhaswa.
 videocontrols-error-no-source = Akukho vidiyo enefomathi exhaswayo nenodidi lwe-MIME efumanekayo.
 videocontrols-error-generic = Ukudlala ubuyela umva kwevidiyo kuyekisiwe ngenxa yemposiso engaziwayo.
+
 # This message shows the current position and total video duration
 #
 # Variables:

@@ -61,20 +61,9 @@ import-done-description = Amanqaku alandelayo athathwe ngaphandle ngempumelelo:
 
 import-close-source-browser = Sicela uqiniseke ukuba ukhethe ibhrawza ivaliwe ngaphambi kokuqhubeka.
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Ukusuka kwi-{ $source }
-
 source-name-ie = I-Internet Explorer
 source-name-edge = Microsoft Edge
-source-name-safari = I-Safari
-source-name-canary = Google Chrome Canary
 source-name-chrome = I-Google Chrome
-source-name-chromium = Chromium
-source-name-firefox = Mozilla Firefox
-source-name-360se = I-360 ibhrawuza ekhuselekileyo
 
 imported-safari-reading-list = Uludwe lokufunda (ukusuka kwiSafari)
 imported-edge-reading-list = Uludwe Lokufunda (ukusuka Ekupheleni)

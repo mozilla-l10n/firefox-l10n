@@ -76,10 +76,6 @@ item-form-search-history =
 
 data-section-label = Iingcombolo
 
-item-site-preferences =
-    .label = Iipriferensi zesayithi
-    .accesskey = z
-
 item-offline-apps =
     .label = Iingcombolo zewebhusayithi engekho kwinethiwekhi
     .accesskey = e
