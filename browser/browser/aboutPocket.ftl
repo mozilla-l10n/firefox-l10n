@@ -41,3 +41,7 @@ pocket-panel-signup-tagline-story-two = İstənilən cihazda, istənilən vaxt {
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

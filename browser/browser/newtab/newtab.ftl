@@ -16,15 +16,9 @@ newtab-search-box-search-button =
     .title = Axtar
     .aria-label = Axtar
 
-newtab-search-box-search-the-web-input =
-    .placeholder = İnternetdə Axtar
-    .title = İnternetdə Axtar
-    .aria-label = İnternetdə Axtar
-
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Axtarış mühərriyi əlavə et
-newtab-topsites-add-topsites-header = Yeni Qabaqcıl Saytlar
 newtab-topsites-edit-topsites-header = Qabaqcıl Saytları Dəyişdir
 newtab-topsites-title-label = Başlıq
 newtab-topsites-title-input =
@@ -150,7 +144,6 @@ newtab-section-menu-privacy-notice = Məxfilik Bildirişi
 ## Section Headers.
 
 newtab-section-header-topsites = Qabaqcıl Saytlar
-newtab-section-header-highlights = Seçilmişlər
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } məsləhət görür
@@ -174,6 +167,9 @@ newtab-pocket-read-more = Məşhur Mövzular:
 newtab-pocket-more-recommendations = Daha Çox Tövsiyyələr
 newtab-pocket-cta-button = { -pocket-brand-name } əldə edin
 newtab-pocket-cta-text = Sevdiyiniz məqalələri { -pocket-brand-name }-də saxlayın və möhtəşəm yeni yazıları kəşf edin.
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

@@ -104,8 +104,6 @@
 <!ENTITY errorReporting.automatic2 "Bu kimi xətaları Mozillaya xəbər edərək təhlükəli saytları təyin edib bloklamaya kömək edə bilərsiz.">
 <!ENTITY errorReporting.learnMore "Ətraflı öyrən…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Lütfən sayt sahibləri ilə əlaqə yaradıb bu problemi onlara bildirin.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Təkmilləşmiş məlumat: SSL_ERROR_UNSUPPORTED_VERSION">
