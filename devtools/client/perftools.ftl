@@ -42,16 +42,15 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Buffer-tamaina:
+
 perftools-custom-threads-label = Gehitu hari pertsonalizatuak izenez:
+
 perftools-devtools-interval-label = Tartea:
 perftools-devtools-threads-label = Hariak:
 perftools-devtools-settings-label = Ezarpenak
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
-perftools-status-private-browsing-notice =
-    Analizatzailea desgaituta dago nabigatze pribatuko moduan.
-    Itxi leiho pribatu guztiak analizatzailea birgaitzeko
 perftools-status-recording-stopped-by-another-tool = Grabazio hau beste tresna batek gelditu du.
 perftools-status-restart-required = Nabigatzailea berrabiarazi behar da eginbide hau gaitzeko.
 
@@ -101,6 +100,7 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Saihestu goiko hautapenak eta grabatu erregistratutako hari guztiak
+
 perftools-tools-threads-input-label =
     .title = Hari-izen hauek komaz bereizitako zerrenda bat dira eta harien analisia gaitzeko erabiltzen da analizatzailean. Haria kontuan har dadin, nahikoa da hari-izena erdizka bat etortzea; zuriuneak errespetatu egiten dira.
 
@@ -108,9 +108,14 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## devtools.performance.new-panel-onboarding preference is true.
+
 perftools-onboarding-message = <b>Berria</b>: { -profiler-brand-name } orain garatzaile-tresnen zati da. Eskuratu tresna boteretsu berri honi buruzko <a>argibide gehiago</a>.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Aldi baterako, jatorrizko Errendimendua panela ere erabil dezakezu <a>{ options-context-advanced-settings }</a> bitartez)
+
 perftools-onboarding-close-button =
     .aria-label = Itxi aurkezpeneko mezua
 
@@ -123,21 +128,19 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Web garapena
 perftools-presets-web-developer-description = Web aplikazio gehienen arazketarako gomendatutako aurrezarpena, eragin negatibo txikiarekin.
-perftools-presets-firefox-platform-label = Firefox Plataforma
-perftools-presets-firefox-platform-description = Firefox plataformaren barneko arazketarako gomendatutako aurrezarpena.
-perftools-presets-firefox-front-end-label = Firefox Frontend
-perftools-presets-firefox-front-end-description = Firefox frontend-aren barneko arazketarako gomendatutako aurrezarpena.
-perftools-presets-firefox-graphics-label = Firefox Grafikoak
-perftools-presets-firefox-graphics-description = Firefox grafikoen errendimenduaren ikerketarako gomendatutako aurrezarpena.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = { -brand-shorter-name }(r)en profila egiteko gomendatutako aurrezarpena.
+
 perftools-presets-graphics-label = Grafikoak
 perftools-presets-graphics-description = { -brand-shorter-name }(r)en programa-errore grafikoak ikertzeko aurrezarpena.
+
 perftools-presets-media-label = Multimedia
-perftools-presets-media-description = Audio- eta bideo-arazoak diagnostikatzeko gomendatutako aurrezarpena.
 perftools-presets-media-description2 = { -brand-shorter-name }(r)en audio eta bideo programa-erroreak ikertzeko aurrezarpena.
+
 perftools-presets-networking-label = Sarea
 perftools-presets-networking-description = { -brand-shorter-name }(r)en sareko programa-erroreak ikertzeko aurrezarpena.
+
 perftools-presets-custom-label = Pertsonalizatua
 
 ##

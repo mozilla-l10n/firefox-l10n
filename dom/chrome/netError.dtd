@@ -82,9 +82,6 @@
 <!ENTITY corruptedContentErrorv2.title "Hondatutako edukien errorea">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da erakutsi datuen transmisioan errore bat detektatu delako.</p><ul><li>Jarri harremanetan gunearen arduradunarekin arazo honen berri emateko.</li></ul>">
 
-<!ENTITY remoteXUL.title "Urruneko XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Jarri harremanetan webgunearen jabeekin arazo honen berri emateko.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Zure konexioa ez da segurua">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

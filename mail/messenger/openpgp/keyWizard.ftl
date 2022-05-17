@@ -123,13 +123,6 @@ openpgp-import-key-description = Zuk beste OpenPGP software batekin sortutako ga
 
 openpgp-import-key-info = Beste software batzuk gako pertsonala beste termino batzuekin izendatu dezakete norberaren gakoa, gako pribatua edo gako parea bezalakoak.
 
-#   $count (Number) - the number of keys found in the selected files
-openpgp-import-key-list-amount =
-    { $count ->
-        [one] Thunderbird inportatu daitekeen gako bat aurkitu du.
-       *[other] Thunderbird inportatu daitezkeen { $count } gako aurkitu ditu.
-    }
-
 openpgp-import-key-list-description = Berretsi zein gako tratatu behar diren gako pertsonal bezala. Zuk zeuk sortutako gakoak eta zure identitatea erakusten duten gakoak erabili beharko zenituzke gako pertsonal bezala. Gerora aukera hau aldatu dezakezu gakoen propietate elkarrizketa-leihoan.
 
 openpgp-import-key-list-caption = Gako pertsonal bezala markatutako gakoak muturretik-muturrera zifratutako sekzioan zerrendatuko dira. Besteak eskuragarri egongo dira gako kudeatzailearen barnean.

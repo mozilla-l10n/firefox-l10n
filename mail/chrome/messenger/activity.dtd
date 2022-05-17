@@ -10,28 +10,10 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                  "Jarduera-kudeatzailea">
 
-<!ENTITY cmd.pause.label                  "Pausatu">
-<!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Berrrekin">
-<!ENTITY cmd.resume.accesskey             "r">
-<!ENTITY cmd.cancel.label                 "Utzi">
-<!ENTITY cmd.cancel.accesskey             "t">
-<!ENTITY cmd.undo.label                   "Desegin">
-<!ENTITY cmd.undo.accesskey               "D">
-<!ENTITY cmd.recover.label                "Berreskutatu">
-<!ENTITY cmd.recover.accesskey            "s">
-<!ENTITY cmd.retry.label                  "Saiatu berriro">
-<!ENTITY cmd.retry.accesskey              "r">
-<!ENTITY cmd.removeFromList.label         "Ezabatu zerrendatik">
-<!ENTITY cmd.removeFromList.accesskey     "z">
-
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Garbitu zerrenda">
 <!ENTITY cmd.clearList.tooltip            "Ostatutako, utzitako eta huts egindako elementuak zerrendatik kentzen ditu">
 <!ENTITY cmd.clearList.accesskey          "G">
-<!ENTITY cmd.find.commandkey              "f">
-<!ENTITY cmd.search.commandkey            "k">
 
-<!ENTITY searchBox.label                  "Bilatu…">

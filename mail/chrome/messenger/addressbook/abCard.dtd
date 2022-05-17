@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "H">
 <!ENTITY SecondEmail.label              "Helbide elektroniko gehigarria:">
 <!ENTITY SecondEmail.accesskey          "+">
-<!ENTITY PreferMailFormat.label         "Nahiago ditu formatu honetako mezuak:">
-<!ENTITY PreferMailFormat.accesskey     "f">
 <!ENTITY PlainText.label                "Testu arrunta">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Ezezaguna">

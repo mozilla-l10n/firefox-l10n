@@ -8,14 +8,10 @@ toolbar-context-menu-menu-bar =
 
 ## Tools Menu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-menu-tools-preferences =
-    .label = Hobespenak
-    .accesskey = H
 menu-tools-settings =
     .label = Ezarpenak
     .accesskey = E
+
 menu-addons-and-themes =
     .label = Gehigarriak eta itxurak
     .accesskey = G
@@ -25,9 +21,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Arazoak konpontzeko modua…
     .accesskey = A
+
 menu-help-exit-troubleshoot-mode =
     .label = Desaktibatu arazoak konpontzeko modua
     .accesskey = D
+
 menu-help-more-troubleshooting-info =
     .label = Arazoak konpontzeko informazio gehiago
     .accesskey = i
@@ -58,15 +56,19 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Dentsitatea
     .accesskey = D
+
 mail-uidensity-compact =
     .label = Trinkoa
     .accesskey = T
+
 mail-uidensity-normal =
     .label = Arrunta
     .accesskey = A
+
 mail-uidensity-touch =
     .label = Ukipena
     .accesskey = U
+
 menu-spaces-toolbar-button =
     .label = Guneen tresna-barra
     .accesskey = G

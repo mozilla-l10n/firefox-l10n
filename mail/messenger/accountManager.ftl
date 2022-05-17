@@ -2,9 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-open-preferences-sidebar-button = { -brand-short-name } hobespenak
 open-preferences-sidebar-button2 = { -brand-short-name } ezarpenak
+
 open-addons-sidebar-button = Gehigarriak eta itxurak
+
 account-action-add-newsgroup-account =
     .label = Gehitu berri-talde kontua…
     .accesskey = G
+

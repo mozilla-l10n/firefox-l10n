@@ -34,7 +34,6 @@ about-telemetry-events-section = Gertaerak
 about-telemetry-simple-measurements-section = Neurketa sinpleak
 about-telemetry-slow-sql-section = SQL instrukzio motelak
 about-telemetry-addon-details-section = Gehigarriaren xehetasunak
-about-telemetry-captured-stacks-section = Kapturatutako pilak
 about-telemetry-late-writes-section = Idazketa berantiarrak
 about-telemetry-raw-payload-section = Eskaera-karga gordina
 about-telemetry-raw = JSON gordina
@@ -121,10 +120,6 @@ about-telemetry-addon-provider = { $addonProvider } hornitzailea
 about-telemetry-keys-header = Propietatea
 about-telemetry-names-header = Izena
 about-telemetry-values-header = Balioa
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (kaptura-kopurua: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = #{ $lateWriteCount } idazketa berantiarra

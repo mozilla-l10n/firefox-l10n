@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Partekatu
     .accesskey = a
-tab-context-share-more =
-    .label = Gehiago…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -88,14 +86,6 @@ tab-context-reopen-closed-tabs =
            *[other] Ireki berriro itxitako fitxak
         }
     .accesskey = k
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Itxi fitxa
-            [one] Itxi fitxa
-           *[other] Itxi fitxak
-        }
-    .accesskey = x
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -111,6 +101,7 @@ tab-context-move-tabs =
            *[other] Mugitu fitxak
         }
     .accesskey = M
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

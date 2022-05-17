@@ -117,8 +117,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Eman honen gisako erroreen berri Mozillari asmo txarreko guneak identifikatzen eta blokeatzen laguntzeko">
 <!ENTITY errorReporting.learnMore "Argibide gehiago…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Jar zaitez webgunearen jabeekin harremanetan arazo honen berri emateko.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informazio aurreratua: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -144,9 +142,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Badirudi zure sareko segurtasun-ezarpenek eragiten dutela hau. Ezarpen lehenetsiak berrezarri nahi dituzu?">
 <!ENTITY prefReset.label "Berrezarri ezarpen lehenetsiak">
-
-<!ENTITY enableTls10.longDesc "Baliteke webgune honek TLS 1.2 protokoloa ez onartzea, &brandShortName;(e)k onartzen duen gutxieneko bertsioa. TLS 1.0 eta TLS 1.1 gaituz gero, baliteke konexioa ondo burutzea.">
-<!ENTITY enableTls10.note "TLS 1.0 eta TLS 1.1 behin betiko desgaituko dira etorkizuneko bertsio batean.">
-<!ENTITY enableTls10.label "Gaitu TLS 1.0 eta 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da erakutsi errore bat detektatu delako sareko protokoloan.</p><ul><li>Jar zaitez harremanetan webgunearen jabeekin arazo honen berri emateko.</li></ul>">
