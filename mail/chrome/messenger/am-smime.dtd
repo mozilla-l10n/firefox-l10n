@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "További tudnivalók">
 
 <!ENTITY e2eEnc.description "Végpontok közötti titkosítás nélkül az üzenetek tartalma könnyen hozzáférhetővé válik az e-mail szolgáltatója, és a tömeges megfigyelések számára.">
-<!ENTITY e2eeReqWarning.description "Ha titkosításra van szüksége, akkor egy üzenet elküldéséhez rendelkeznie kell minden címzett nyilvános kulcsával vagy tanúsítványával.">
 
-<!ENTITY e2eSigning.description "A digitális aláírás lehetővé teszi a címzetteknek, hogy ellenőrizzék, hogy az üzenetet Ön küldte, és hogy a tartalma nem változott-e meg.">
 <!ENTITY e2eTechPref.description "Előnyben részesített titkosítási technológia:">
 
-<!ENTITY doNotEncrypt.label "Alapértelmezés szerint ne engedélyezze a titkosítást">
-<!ENTITY doNotEncrypt.accesskey "N">
-<!ENTITY requireEncryptMessage.label "Alapértelmezés szerint követelje meg a titkosítást">
-<!ENTITY requireEncryptMessage.accesskey "k">
 <!ENTITY encryptionCert2.message "Személyes titkosítási tanúsítvány:">
 <!ENTITY digitalSign.certificate.button "Kiválasztás…">
 <!ENTITY digitalSign.certificate.accesskey "K">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Törlés">
 <!ENTITY encryption.certificate_clear.accesskey "r">
 <!ENTITY signingGroupTitle.label "Digitális aláírás">
-<!ENTITY signMessage2.label "Alapértelmezés szerint adja hozzá a digitális aláírásomat">
-<!ENTITY signMessage.accesskey "d">
 
 <!ENTITY signingCert2.message "Személyes tanúsítvány a digitális aláíráshoz:">
 

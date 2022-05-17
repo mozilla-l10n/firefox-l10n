@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Megosztás
     .accesskey = M
-tab-context-share-more =
-    .label = Továbbiak…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -89,14 +87,6 @@ tab-context-reopen-closed-tabs =
            *[other] Bezárt lapok újranyitása
         }
     .accesskey = z
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Lap bezárása
-            [one] Lap bezárása
-           *[other] Lapok bezárása
-        }
-    .accesskey = b
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -113,6 +103,7 @@ tab-context-move-tabs =
            *[other] Lapok áthelyezése
         }
     .accesskey = h
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

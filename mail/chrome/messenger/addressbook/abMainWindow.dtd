@@ -111,6 +111,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "n">
 <!ENTITY newlistButton.label                            "Új lista">
 <!ENTITY newlistButton.accesskey                        "l">
+
 <!ENTITY showAsDefault.label                            "Alapértelmezett indulási könyvtár">
 <!ENTITY showAsDefault.accesskey                        "n">
 <!ENTITY editPropertiesButton.label                     "Szerkesztés">

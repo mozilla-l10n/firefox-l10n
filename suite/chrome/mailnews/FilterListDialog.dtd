@@ -34,6 +34,4 @@
 <!ENTITY stopFilters.accesskey "L">
 <!ENTITY folderPickerPrefix.label "Kijelölt szűrők futtatása ezen a mappán:">
 <!ENTITY folderPickerPrefix.accesskey "f">
-<!ENTITY choosethis.label "mappa kiválasztása">
-<!ENTITY choosethisnewsserver.label "hírkiszolgáló kiválasztása">
 <!ENTITY searchBox.emptyText "Szűrők keresése név szerint…">

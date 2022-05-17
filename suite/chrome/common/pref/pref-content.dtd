@@ -7,12 +7,6 @@
 <!ENTITY pref.content.title                     "Tartalom">
 <!ENTITY pref.content.description               "Ezek a beállítások a webhely és a szöveges tartalom megjelenését befolyásolják a &brandShortName; böngészőben.">
 
-<!ENTITY siteIcons.label                        "Webhely ikonok">
-<!ENTITY useSiteIcons.label                     "Webhely ikonok megjelenítése">
-<!ENTITY useSiteIcons.accesskey                 "s">
-<!ENTITY useFavIcons2.label                     "Próbálja a kiszolgáló faviconját használni, ha a lap nem határoz meg ikont.">
-<!ENTITY useFavIcons2.accesskey                 "i">
-
 <!ENTITY scrolling.label                        "Görgetés">
 <!ENTITY useAutoScroll.label                    "Automatikus görgetés">
 <!ENTITY useAutoScroll.accesskey                "t">
@@ -43,6 +37,4 @@
 
 <!ENTITY allowHWAccel.label                     "Hardveres gyorsítás használata, ha lehetséges">
 <!ENTITY allowHWAccel.accesskey                 "e">
-<!ENTITY blockAutoRefresh.label                 "Figyelmeztetés, ha a webhely átirányítja vagy frissíti az oldalt">
-<!ENTITY blockAutoRefresh.accesskey             "F">
 

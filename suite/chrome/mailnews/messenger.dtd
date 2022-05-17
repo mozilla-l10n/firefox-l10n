@@ -313,9 +313,6 @@
 <!ENTITY forwardAsInline.accesskey "B">
 <!ENTITY forwardAsAttachmentCmd.label "Mellékletként">
 <!ENTITY forwardAsAttachmentCmd.accesskey "M">
-<!ENTITY editMsgAsNewCmd.label "Üzenet szerkesztése újként">
-<!ENTITY editMsgAsNewCmd.accesskey "z">
-<!ENTITY editMsgAsNewCmd.key "z">
 <!ENTITY createFilter.label "Áthelyezés">
 <!ENTITY createFilter.accesskey "h">
 <!ENTITY archiveMsgCmd.label "Archive">
@@ -468,8 +465,6 @@
 <!ENTITY contextOpenNewWindow.accesskey "a">
 <!ENTITY contextOpenNewTab.label "Üzenet megnyitása új lapon">
 <!ENTITY contextOpenNewTab.accesskey "t">
-<!ENTITY contextEditAsNew.label "Szerkesztés újként…">
-<!ENTITY contextEditAsNew.accesskey "z">
 <!ENTITY contextReplySender.label "Válasz csak a feladónak">
 <!ENTITY contextReplySender.accesskey "f">
 <!ENTITY contextReplyList.label "Válasz a listára">

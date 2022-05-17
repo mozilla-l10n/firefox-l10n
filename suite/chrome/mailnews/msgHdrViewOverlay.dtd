@@ -23,9 +23,6 @@
 <!ENTITY inReplyToField.label "Válaszazonosító:">
 <!ENTITY originalWebsite.label "Webhely: ">
 
-<!ENTITY editMessage.label                 "Piszkozat szerkesztése…">
-<!ENTITY editMessage.accesskey             "P">
-
 <!ENTITY attachmentsTree.label             "Mellékletek:">
 <!ENTITY attachmentsTree.accesskey         "M">
 <!ENTITY openAttachmentCmd.label           "Megnyitás">

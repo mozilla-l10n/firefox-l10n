@@ -5,23 +5,21 @@
 
 ## App Menu
 
-appmenuitem-update-banner3 =
-    .label-update-downloading = { -brand-shorter-name }-frissítés letöltése
-    .label-update-available = Frissítés érhető el – letöltés most
-    .label-update-manual = Frissítés érhető el – letöltés most
-    .label-update-unsupported = Nem lehet frissíteni – a rendszer nem kompatibilis
-    .label-update-restart = Frissítés érhető el – újraindítás most
-appmenuitem-protection-dashboard-title = Védelmi vezérlőpult
 appmenuitem-banner-update-downloading =
     .label = { -brand-shorter-name }-frissítés letöltése
+
 appmenuitem-banner-update-available =
     .label = Frissítés érhető el – letöltés most
+
 appmenuitem-banner-update-manual =
     .label = Frissítés érhető el – letöltés most
+
 appmenuitem-banner-update-unsupported =
     .label = Nem lehet frissíteni – a rendszer nem kompatibilis
+
 appmenuitem-banner-update-restart =
     .label = Frissítés érhető el – újraindítás most
+
 appmenuitem-new-tab =
     .label = Új lap
 appmenuitem-new-window =
@@ -58,6 +56,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Alkalmazásmenü bezárása
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -78,23 +77,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Jelentkezzen be a Syncbe…
 appmenu-remote-tabs-turn-on-sync =
     .label = Szinkronizálás bekapcsolása…
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Több lap megjelenítése
     .tooltiptext = Több lap megjelenítése erről az eszközről
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nincsenek nyitott lapok
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Kapcsolja be a lapszinkronizálást a más készülékeiről származó lapok listájának megjelenítéséhez.
+
 appmenu-remote-tabs-opensettings =
     .label = Beállítások
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Szeretné a más eszközein megnyitott lapjait itt látni?
+
 appmenu-remote-tabs-connectdevice =
     .label = Másik eszköz csatlakoztatása
 appmenu-remote-tabs-welcome = Tekintse meg a más eszközökről származó lapok listáját.
 appmenu-remote-tabs-unverified = A fiókját ellenőrizni kell.
+
 appmenuitem-fxa-toolbar-sync-now2 = Szinkronizálás most
 appmenuitem-fxa-sign-in = Jelentkezzen be a { -brand-product-name }ba
 appmenuitem-fxa-manage-account = Fiók kezelése
@@ -108,13 +114,14 @@ appmenu-fxa-sync-and-save-data2 = Adatok szinkronizálása és mentése
 appmenu-fxa-signed-in-label = Bejelentkezés
 appmenu-fxa-setup-sync =
     .label = Szinkronizálás bekapcsolása…
-appmenu-fxa-show-more-tabs = Több lap megjelenítése
+
 appmenuitem-save-page =
     .label = Oldal mentése…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Újdonságok
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -128,48 +135,53 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profilkészítő
     .tooltiptext = Teljesítményprofil rögzítése
+
 profiler-popup-button-recording =
     .label = Profilkészítő
     .tooltiptext = A profilkészítő profilt rögzít
+
 profiler-popup-button-capturing =
     .label = Profilkészítő
     .tooltiptext = A profilkészítő profilt fogad
+
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = További információk felfedése
+
 profiler-popup-description-title =
     .value = Felvétel, elemzés, megosztás
+
 profiler-popup-description = Dolgozzon együtt a teljesítményproblémák kijavításán azáltal, hogy profilokat oszt meg a csapatával.
-profiler-popup-learn-more = További tudnivalók
+
 profiler-popup-learn-more-button =
     .label = További tudnivalók
+
 profiler-popup-settings =
     .value = Beállítások
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings = Beállítások szerkesztése…
-profiler-popup-disabled =
-    A profilozó jelenleg le van tiltva, valószínűleg azért, mert nyitva van egy privát
-    böngészési ablak.
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Beállítások szerkesztése…
+
 profiler-popup-recording-screen = Felvétel…
-# The profiler presets list is generated elsewhere, but the custom preset is defined
-# here only.
-profiler-popup-presets-custom =
-    .label = Egyéni
+
 profiler-popup-start-recording-button =
     .label = Felvétel indítása
+
 profiler-popup-discard-button =
     .label = Elvetés
+
 profiler-popup-capture-button =
     .label = Rögzítés
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -187,18 +199,23 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Ajánlott előbeállítás a legtöbb webalkalmazás hibakereséséhez, alacsony pluszköltséggel.
 profiler-popup-presets-web-developer-label =
     .label = Webfejlesztő
+
 profiler-popup-presets-firefox-description = Javasolt előbeállítás a { -brand-shorter-name } profilozásához.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+
 profiler-popup-presets-graphics-description = Előbeállítás a { -brand-shorter-name } grafikai hibáinak kivizsgálásához.
 profiler-popup-presets-graphics-label =
     .label = Grafika
+
 profiler-popup-presets-media-description2 = Előbeállítás a { -brand-shorter-name } hang- és videóhibáinak kivizsgálásához.
 profiler-popup-presets-media-label =
     .label = Média
+
 profiler-popup-presets-networking-description = Előbeállítás a { -brand-shorter-name } hálózati hibák kivizsgálásához.
 profiler-popup-presets-networking-label =
     .label = Hálózat
+
 profiler-popup-presets-custom-label =
     .label = Egyéni
 
@@ -233,9 +250,6 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = T
 appmenu-help-report-site-issue =
     .label = Hibás webhely bejelentése…
-appmenu-help-feedback-page =
-    .label = Visszajelzés beküldése…
-    .accesskey = V
 appmenu-help-share-ideas =
     .label = Ötletek és visszajelzések megosztása…
     .accesskey = o
@@ -264,8 +278,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Eszköztár testreszabása…
-appmenu-taskmanager =
-    .label = Feladatkezelő
+
 appmenu-developer-tools-subheader = Böngészőeszközök
 appmenu-developer-tools-extensions =
     .label = Kiegészítők fejlesztőknek

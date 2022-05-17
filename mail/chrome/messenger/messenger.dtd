@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "t">
 <!ENTITY newVirtualFolderCmd.label "Mentett keresés…">
 <!ENTITY newVirtualFolderCmd.accesskey "k">
-<!ENTITY newOtherAccountsCmd.label "Más fiókok…">
-<!ENTITY newOtherAccountsCmd.accesskey "f">
 <!ENTITY newCreateEmailAccountCmd.label "Új postafiók létrehozása…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "o">
 <!ENTITY newExistingEmailAccountCmd.label "Meglévő postafiók…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "e">
 <!ENTITY saveAsMenu.label "Mentés másként">
 <!ENTITY saveAsMenu.accesskey "M">
-<!ENTITY saveAsFileCmd.label "Fájl">
-<!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Sablon">
 <!ENTITY saveAsTemplateCmd.accesskey "S">

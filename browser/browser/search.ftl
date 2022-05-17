@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = Telepítési hiba
 opensearch-error-duplicate-desc = A { -brand-short-name } nem tudja telepíteni a keresőszolgáltatást „{ $location-url }” helyről, mert ilyen nevű keresőszolgáltatás már van.
+
 opensearch-error-format-title = Érvénytelen formátum
 opensearch-error-format-desc = { -brand-short-name } nem tudta telepíteni a keresőszolgáltatást innen: { $location-url }
+
 opensearch-error-download-title = Letöltési hiba
 opensearch-error-download-desc = A { -brand-short-name } nem tudta letölteni a keresőbővítményt innen: { $location-url }
 
@@ -19,9 +21,11 @@ opensearch-error-download-desc = A { -brand-short-name } nem tudta letölteni a 
 
 searchbar-submit =
     .tooltiptext = Keresés indítása
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Keresés
+
 searchbar-icon =
     .tooltiptext = Keresés
 
@@ -30,6 +34,5 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-remove-search-engine-message = <strong>Az alapértelmezett keresőszolgáltatás megváltozott.</strong> A { -brand-short-name } már nem támogatja a(z) { $oldEngine } szolgáltatást. Most már a(z) { $newEngine } az alapértelmezett keresőszolgáltatás. Hogy másik keresőszolgáltatást válasszon, ugorjon a beállításokhoz. <label data-l10n-name="remove-search-engine-article">További tudnivalók</label>
 removed-search-engine-message = <strong>Az alapértelmezett keresőszolgáltatás megváltozott.</strong> A(z) { $oldEngine } már nem érhető el alapértelmezett keresőszolgáltatásként a { -brand-short-name }ban. Most már a(z) { $newEngine } az alapértelmezett keresőszolgáltatás. Hogy másik keresőszolgáltatást válasszon, ugorjon a beállításokhoz. <label data-l10n-name="remove-search-engine-article">További tudnivalók</label>
 remove-search-engine-button = OK

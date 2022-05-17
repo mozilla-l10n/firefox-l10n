@@ -34,7 +34,6 @@ about-telemetry-events-section = Események
 about-telemetry-simple-measurements-section = Egyszerű mérési eszközök
 about-telemetry-slow-sql-section = Lassú SQL utasítások
 about-telemetry-addon-details-section = Kiegészítő részletei
-about-telemetry-captured-stacks-section = Rögzített vermek
 about-telemetry-late-writes-section = Késői írások
 about-telemetry-raw-payload-section = Nyers teher
 about-telemetry-raw = Nyers JSON
@@ -121,10 +120,6 @@ about-telemetry-addon-provider = { $addonProvider } szolgáltató
 about-telemetry-keys-header = Tulajdonság
 about-telemetry-names-header = Név
 about-telemetry-values-header = Érték
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (rögzítések száma: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = { $lateWriteCount }. utolsó írás

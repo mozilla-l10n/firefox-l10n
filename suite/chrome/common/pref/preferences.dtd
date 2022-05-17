@@ -38,14 +38,12 @@
 <!ENTITY images.label "Képek">
 <!ENTITY popups.label "Felugró ablakok">
 <!ENTITY passwords.label "Jelszavak">
-<!ENTITY masterpass.label "Mesterjelszó">
 <!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "Tanúsítványok">
 
 <!ENTITY sync.label "Szinkronizálás">
 
 <!ENTITY advance.label "Speciális">
-<!ENTITY scriptsAndWindows.label "Parancsfájlok és bővítmények">
 <!ENTITY keynav.label "Navigálás a billentyűzettel">
 <!ENTITY findAsYouType.label "Gépelőkeresés">
 <!ENTITY cache.label "Gyorsítótár">

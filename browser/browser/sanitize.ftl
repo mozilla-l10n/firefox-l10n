@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Adatok
 
-item-site-preferences =
-    .label = Webhely beállításai
-    .accesskey = W
-
 item-site-settings =
     .label = Oldalbeállítások
     .accesskey = O

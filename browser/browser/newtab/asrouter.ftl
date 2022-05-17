@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Ajánlott szolgáltatás
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Miért látom ezt
+
 cfr-doorhanger-extension-cancel-button = Most nem
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Hozzáadás most
     .accesskey = a
+
 cfr-doorhanger-extension-manage-settings-button = Ajánlási beállítások kezelése
     .accesskey = A
+
 cfr-doorhanger-extension-never-show-recommendation = Ne mutassa ezt az ajánlást
     .accesskey = N
+
 cfr-doorhanger-extension-learn-more-link = További tudnivalók
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = szerző: { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Javaslat
 cfr-doorhanger-extension-notification2 = Javaslat
     .tooltiptext = Kiegészítőjavaslat
     .a11y-announcement = Kiegészítőjavaslat érhető el
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Javaslat
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = További tudnivalók
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Új funkciók:
+
 cfr-whatsnew-button =
     .label = Újdonságok
     .tooltiptext = Újdonságok
+
 cfr-whatsnew-release-notes-link-text = Olvassa el a kiadási megjegyzéseket
 
 ## Enhanced Tracking Protection Milestones
