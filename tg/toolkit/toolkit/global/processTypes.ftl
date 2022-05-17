@@ -8,12 +8,12 @@
 ##
 
 process-type-web = Муҳтавои сомона
+
 process-type-extension = Васеъшавӣ
+
 # process used to open file:// URLs
 process-type-file = Файли маҳаллӣ
-# process used to isolate webpages that requested special
-# permission to allocate large amounts of memory
-process-type-weblargeallocation = Тақсимоти ҳаҷми калон
+
 # process used to isolate a ServiceWorker to improve
 # performance
 process-type-webserviceworker = Коркуни хизматрасонии ҷудокардашуда
@@ -24,9 +24,11 @@ process-type-webserviceworker = Коркуни хизматрасонии ҷуд
 
 process-type-default = Асосӣ
 process-type-tab = Варақа
+
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
+
 # process used to decode media
 process-type-rdd = RDD
 

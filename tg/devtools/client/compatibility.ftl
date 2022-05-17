@@ -16,9 +16,6 @@ compatibility-all-elements-header = Ҳамаи масъалаҳо
 compatibility-settings-button-label = Танзимот
 compatibility-settings-button-title =
     .title = Танзимот
-compatibility-feedback-button-label = Изҳори назар
-compatibility-feedback-button-title =
-    .title = Изҳори назар
 
 ## Messages used as headers in settings pane
 
@@ -29,3 +26,4 @@ compatibility-target-browsers-header = Браузерҳои мақсаднок
 
 compatibility-close-settings-button =
     .title = Пӯшидани танзимот
+

@@ -4,21 +4,28 @@
 
 certmgr-title =
     .title = Мудири гувоҳиномаҳо
+
 certmgr-tab-mine =
     .label = Гувоҳиномаҳои шумо
+
 certmgr-delete-cert =
     .title = Нест кардани гувоҳинома
     .style = width: 48em; height: 24em;
+
 certmgr-cert-name =
     .label = Номи гувоҳинома
+
 certmgr-delete =
     .label = Нест кардан…
     .accesskey = Н
+
 certmgr-delete-builtin =
     .label = Нест кардан ё нобоварӣ сохтан…
     .accesskey = Н
+
 exception-mgr-cert-location-url =
     .value = Ҷойгиршавӣ:
+
 exception-mgr-cert-location-download =
     .label = Гирифтани гувоҳинома
     .accesskey = Г
@@ -40,12 +47,17 @@ file-browse-certificate-spec = Файлҳои гувоҳиномаҳо
 delete-user-cert-title =
     .title = Нест кардани гувоҳиномаҳои худ
 delete-user-cert-confirm = Шумо мутмаин ҳастед, ки мехоҳед ин гувоҳиномаҳоро нест намоед?
+
+
 delete-ssl-override-title =
     .title = Тоза кардани истисно барои гувоҳиномаи сервер
 delete-ssl-override-confirm = Шумо мутмаин ҳастед, ки мехоҳед ин истиснои серверро нест намоед?
+
+
 delete-email-cert-title =
     .title = Нест кардани гувоҳиномаҳои почтаи электронӣ
 delete-email-cert-confirm = Шумо мутмаин ҳастед, ки мехоҳед гувоҳиномаҳои почтаи электронии одамони зеринро нест намоед?
+
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (Дастнорас)
 

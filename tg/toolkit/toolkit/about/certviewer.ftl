@@ -34,6 +34,7 @@ certificate-viewer-subject-name = Номи воҳид
 certificate-viewer-issuer-name = Номи бароранда
 certificate-viewer-subject-alt-names = Номи иловагии воҳид
 certificate-viewer-fingerprints = Нақшҳои ангушт
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Боргирӣ кардан
@@ -53,6 +54,7 @@ certificate-viewer-download-pem = PEM (гувоҳинома)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (занҷир)
     .download = { $fileName }-chain.pem
+
 certificate-viewer-export = Содир кардан
     .download = { $fileName }.pem
 

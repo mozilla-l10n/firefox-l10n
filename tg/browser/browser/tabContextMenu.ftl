@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Мубодила кардан
     .accesskey = М
-tab-context-share-more =
-    .label = Бештар…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -89,14 +87,6 @@ tab-context-reopen-closed-tabs =
            *[other] А
         }
     .accesskey = А
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Пӯшидани варақа
-            [one] Пӯшидани варақаҳо
-           *[other] П
-        }
-    .accesskey = П
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -112,6 +102,7 @@ tab-context-move-tabs =
            *[other] Ҷ
         }
     .accesskey = Ҷ
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

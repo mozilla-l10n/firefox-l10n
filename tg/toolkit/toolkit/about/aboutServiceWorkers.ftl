@@ -16,5 +16,8 @@ about-service-workers-main-title = Коркунони хизматрасонии
 
 # This term is used as a button label (verb, not noun).
 update-button = Навсозӣ кардан
+
 unregister-button = Аз қайд гирифтан
+
 unregister-error = Ин коркуни хизматрасонӣ аз қайд гирифта нашуд.
+

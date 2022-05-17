@@ -21,3 +21,4 @@
 
 plugins-gmp-license-info = Маълумот дар бораи иҷозатнома
 plugins-gmp-privacy-info = Маълумот дар бораи махфият
+

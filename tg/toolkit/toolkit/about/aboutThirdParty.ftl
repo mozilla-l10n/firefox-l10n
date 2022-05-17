@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 third-party-detail-version = Силсилаи файл
+
 third-party-tag-background = Реҷаи пасзамина
     .title = Ин модул барномаро манъ накард, зеро ки он дар пасзамина бор карда шуд.
+
 third-party-button-copy-to-clipboard = Нусха бардоштани иттилооти нокорам ба ҳофизаи муваққатӣ
 third-party-button-open =
     .title = Кушодани ҷойгиршавии файл…

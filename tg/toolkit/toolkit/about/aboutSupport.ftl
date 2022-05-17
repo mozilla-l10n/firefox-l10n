@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Маълумот барои ислоҳи нуқсонҳо
+
 crashes-title = Гузоришҳо дар бораи вайронӣ
 crashes-id = Рақами мушаххаси гузориш
 crashes-send-date = Санаи пешниҳод
@@ -73,10 +74,12 @@ app-basics-key-mozilla = Калиди хидмати ҷойгиршавии Mozi
 app-basics-safe-mode = Реҷаи бехатар
 app-basics-memory-size = Андозаи ҳофиза (RAM)
 app-basics-disk-available = Фазои дастрас дар диск
+
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Кушодан дар ҷӯянда
@@ -185,6 +188,7 @@ report-crash-for-days =
         [one] Гузоришҳо дар бораи вайронӣ аз { $days } рӯзи охир
        *[other] Гузоришҳо дар бораи вайронӣ аз { $days } рӯзи охир
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -192,6 +196,7 @@ crashes-time-minutes =
         [one] { $minutes } дақиқа пеш
        *[other] { $minutes } дақиқа пеш
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -199,6 +204,7 @@ crashes-time-hours =
         [one] { $hours } соат пеш
        *[other] { $hours } соат пеш
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -206,6 +212,7 @@ crashes-time-days =
         [one] { $days } рӯз пеш
        *[other] { $days } рӯз пеш
     }
+
 raw-data-copied = Маълумоти коркарднашуда ба ҳофизаи муваққатӣ нусха бардошта шуд
 text-copied = Матн ба ҳофизаи муваққатӣ нусха бардошта шуд
 
@@ -222,6 +229,7 @@ virtual-monitor-disp = Экрани монитори маҷозӣ
 
 found = Ёфт шуд
 missing = Вуфуд надорад
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Тавсиф
@@ -234,20 +242,26 @@ gpu-driver-vendor = Истеҳсолкунандаи драйвер
 gpu-driver-version = Версияи драйвер
 gpu-driver-date = Санаи барномарезии драйвер
 gpu-active = Фаъол
+
 glcontext-crash-guard = OpenGL
+
 sandbox-proc-type-content = муҳтаво
 sandbox-proc-type-file = муҳтавои файл
+
 startup-cache-title = Зерҳофизаи оғози кор
 startup-cache-disk-cache-path = Масири зерҳофизаи диск
 startup-cache-ignore-disk-cache = Рад кардани зерҳофизаи диск
 startup-cache-found-disk-cache-on-init = Ҳангоми омодасозӣ зерҳофизаи диск пайдо шуд
 startup-cache-wrote-to-disk-cache = Ба зерҳофизаи диск сабт карда шуд
+
 launcher-process-status-0 = Фаъол аст
 launcher-process-status-unknown = Вазъияти номаълум
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+
 apz-none = ҳеҷ
 keyboard-enabled = клавиатура фаъол аст
 autoscroll-enabled = ҳаракати худкор фаъол аст
@@ -272,6 +286,7 @@ support-printing-prefs-value = Қимат
 ## Normandy sections
 
 support-remote-experiments-name = Ном
+
 support-remote-features-title = Хусусиятҳои дурдаст
 support-remote-features-name = Ном
 support-remote-features-status = Вазъият

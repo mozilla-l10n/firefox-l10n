@@ -5,6 +5,7 @@
 url-classifier-search-btn = Оғози ҷустуҷӯ
 url-classifier-search-features = Хусусиятҳо
 url-classifier-search-listType = Намуди рӯйхат
+
 url-classifier-enabled = Фаъол аст
 url-classifier-disabled = Ғайрифаъол аст
 url-classifier-download-error = хатои боргирӣ ({ $error })

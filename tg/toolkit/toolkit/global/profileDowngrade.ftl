@@ -5,8 +5,10 @@
 profiledowngrade-window =
     .title = Шумо версияи куҳнаи { -brand-product-name }-ро оғоз кардед
     .style = width: 490px;
+
 profiledowngrade-window-create =
     .label = Эҷод кардани профили нав
+
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->

@@ -10,6 +10,7 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Бор шуда истодааст:
 videocontrols-volume-control =
     .aria-label = Баландии садо
+
 videocontrols-play-button =
     .aria-label = Пахш кардан
 videocontrols-pause-button =
@@ -26,21 +27,26 @@ videocontrols-casting-button-label =
     .aria-label = Ба экран фиристодан
 videocontrols-closed-caption-off =
     .offlabel = Ғайрифаъол
+
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Расм-дар-расм
+
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = Тамошо дар реҷаи «Расм-дар-расм»
+
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Пахш кардани видеоҳо дар ҷойи намоён ҳангоми машғул будан бо чизҳои дигар дар { -brand-short-name }
+
 videocontrols-error-aborted = Боркунии видео қатъ карда шуд.
 videocontrols-error-src-not-supported = Формати видео ё навъи MIME дастгирӣ намешавад.
 videocontrols-error-no-source = Ягон видео бо формати дастгиришаванда ва навъи MIME ёфт нашуд.
 videocontrols-error-generic = Пахши видео ба сабаби хатои номаълум қатъ карда шуд.
 videocontrols-status-picture-in-picture = Ин видео дар реҷаи «Расм-дар-расм» пахш шуда истодааст.
+
 # This message shows the current position and total video duration
 #
 # Variables:
