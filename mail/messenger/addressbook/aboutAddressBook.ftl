@@ -22,6 +22,7 @@ about-addressbook-toolbar-import =
 ## Books
 
 all-address-books = All Address Books
+
 about-addressbook-books-context-properties =
     .label = Properties
 about-addressbook-books-context-synchronize =
@@ -36,6 +37,7 @@ about-addressbook-books-context-remove =
     .label = Remove
 about-addressbook-books-context-startup-default =
     .label = Default startup directory
+
 about-addressbook-confirm-delete-book-title = Delete Address Book
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -53,14 +55,17 @@ about-addressbook-search =
     .placeholder = Search { $name }
 about-addressbook-search-all =
     .placeholder = Search all address books
+
 about-addressbook-sort-button =
     .title = Change the list order
+
 about-addressbook-name-format-display =
     .label = Display Name
 about-addressbook-name-format-firstlast =
     .label = First Last
 about-addressbook-name-format-lastfirst =
     .label = Last, First
+
 about-addressbook-sort-name-ascending =
     .label = Sort by name (A > Z)
 about-addressbook-sort-name-descending =
@@ -69,8 +74,10 @@ about-addressbook-sort-email-ascending =
     .label = Sort by e-mail address (A > Z)
 about-addressbook-sort-email-descending =
     .label = Sort by e-mail address (Z > A)
+
 about-addressbook-cards-context-write =
     .label = Write
+
 about-addressbook-confirm-delete-mixed-title = Delete Contacts and Lists
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -128,11 +135,13 @@ about-addressbook-begin-edit-contact-button = Edit
 about-addressbook-delete-edit-contact-button = Delete
 about-addressbook-cancel-edit-contact-button = Cancel
 about-addressbook-save-edit-contact-button = Save
+
 about-addressbook-details-email-addresses-header = Email Addresses
 about-addressbook-details-phone-numbers-header = Phone Numbers
 about-addressbook-details-home-address-header = Home Address
 about-addressbook-details-work-address-header = Work Address
 about-addressbook-details-other-info-header = Other Information
+
 about-addressbook-unsaved-changes-prompt-title = Unsaved Changes
 about-addressbook-unsaved-changes-prompt = Do you want to save your changes before leaving the edit view?
 
@@ -142,6 +151,7 @@ about-addressbook-photo-drop-target = Drop or paste a photo here, or click to se
 about-addressbook-photo-drop-loading = Loading photo…
 about-addressbook-photo-drop-error = Failed to load photo.
 about-addressbook-photo-filepicker-title = Select an image file
+
 about-addressbook-photo-discard = Discard existing photo
 about-addressbook-photo-cancel = Cancel
 about-addressbook-photo-save = Save
