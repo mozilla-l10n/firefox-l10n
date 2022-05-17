@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Համաւգտագործել
     .accesskey = Հ
-tab-context-share-more =
-    .label = Յաւելեալ…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -89,14 +87,6 @@ tab-context-reopen-closed-tabs =
            *[other] Վերաբացել փակուած ներդիրները
         }
     .accesskey = o
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Փակել ներդիրները
-            [one] Փակել ներդիրները
-           *[other] Փակել ներդիրները
-        }
-    .accesskey = Փ
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -116,6 +106,7 @@ tab-context-move-tabs =
            *[other] Տեղափոխել ներդիրները
         }
     .accesskey = լ
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

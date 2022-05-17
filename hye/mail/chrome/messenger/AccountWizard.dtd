@@ -9,15 +9,6 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo2.label "Նամակներ ստանալու համար պէտք է ստեղծել հաշիւ։">
-<!ENTITY accountTypeTitle.label "Նոր հաշուի տեղակայում">
-<!ENTITY accountTypeDesc2.label "Խորհրդատուն կը հաւաքի անհրաժեշտ տեղեկատուութիւնը՝ հաշիւ ստեղծելու համար։ Եթե չգիտէք, թե ինչ տեղեկութիւններ են պահանջուում՝ կապնուէք համակարգավարի կամ համացանցի ծառայութիւնների մատակարարի հետ։">
-<!ENTITY accountTypeDirections.label "Ընտրէք հաշուի տեսակը.">
-<!ENTITY accountTypeMail.label "Եղեկտրոնային հասցէի հաշիւ">
-<!ENTITY accountTypeMail.accesskey "հ">
-<!ENTITY accountTypeNews.label "Տեղեկատուական հաշիւ">
-<!ENTITY accountTypeNews.accesskey "w">
-
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Ինքնութիւն">
@@ -39,65 +30,13 @@
 <!-- Entities for Incoming Server page -->
 
 <!ENTITY incomingTitle.label "Մուտքային սպասարկիչի տեղեկութիւն">
-<!ENTITY incomingServerTypeDesc.label "Ընտրէք մուտքային սպասարկիչի տեսակը։">
-<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
-<!ENTITY imapType.label "IMAP">
-<!ENTITY imapType.accesskey "I">
-<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
-<!ENTITY popType.label "POP">
-<!ENTITY popType.accesskey "P">
-<!ENTITY leaveMsgsOnSrvr.label "Թողնել նամակները սպասարկիչում">
-<!ENTITY leaveMsgsOnSrvr.accesskey "L">
-<!ENTITY portNum.label "Միացք․">
-<!ENTITY portNum.accesskey "o">
-<!ENTITY defaultPortLabel.label "Սկզբնադիր․">
-<!ENTITY defaultPortValue.label "">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Նշէք մուտքային սպասարկիչի անունը (աւրինակ՝ &quot;mail.example.net&quot;)։">
-<!ENTITY incomingServer.label "Մուտքային սպասարկիչ.">
-<!ENTITY incomingServer.accesskey "S">
-<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Նշէք աւգտուողի մուտքային անունը, ինչպէս որ այն տրուել է եղեկտրոնային հասցէի մատակարարի կողմից (աւրինակ՝  &quot;jsmith&quot;)։">
 <!ENTITY incomingUsername.label "Աւգտանուն.">
-<!ENTITY incomingUsername.accesskey "U">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Նշէք նորութիւնների սպասարկիչի անունը (NNTP) (աւրինակ՝ &quot;news.example.net&quot;)։">
 <!ENTITY newsServerLabel.label "Լուրերի սպասարկիչ.">
 <!ENTITY newsServerLabel.accesskey "S">
 
 <!-- Entities for Outgoing Server page -->
-
-<!ENTITY outgoingTitle.label "Ելքային սպասարկիչի տեղեկութիւն">
-<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Նշէք ելքային սպասարկիչի անունը (SMTP) (աւրինակ՝ &quot;smtp.example.net&quot;)։">
-<!ENTITY outgoingServer.label "Ելքային սպասարկիչ.">
-<!ENTITY outgoingServer.accesskey "S">
-<!ENTITY outgoingUsername.description "Մուտքագրէք Ձեր եղեկտրոնային հասցէի մատակարարի կողմից Ձեզ տրուած ելքային աւգտվողի անունը (դա սովորաբար նոյնն է, ինչ Ձեր մուտքային աւգտուողի անունը):">
-<!ENTITY outgoingUsername.label "Ելքային աւգտանունը.">
-<!ENTITY outgoingUsername.accesskey "U">
-
-<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
-     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
--->
-<!ENTITY modifyOutgoing.suffix "Դուք կարող էք փոփոխել հաշուի ելքային սպասարկիչը։">
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
--->
-<!ENTITY haveSmtp1.prefix "Ձեր առկայ ելքային սպասարկիչը (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix3 "&quot;-ը կաւգտագործուի">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
--->
-<!ENTITY haveSmtp2.prefix "Ձեր առկաj ելքային (SMTP) սպասարկիչը, &quot;">
-<!ENTITY haveSmtp2.suffix3 "&quot;-ը կաւգտագործուի">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
--->
-<!ENTITY haveSmtp3.prefix "Ձեր ելքային (SMTP) սպասարկիչը, &quot;">
-<!ENTITY haveSmtp3.suffix3 "&quot;,-ը հաւասարազաւր է մուտքային սպասարկիչին, մուտք գործելու համար կաւգտագործուի Ձեր աւգտանունը։">
 
 <!-- Entities for Account name page -->
 
@@ -111,14 +50,6 @@
 
 <!ENTITY completionTitle.label "Շնորհաւորու՛մ ենք">
 <!ENTITY completionText.label "Համոզուեք, որ ստորեւ ներկայացուած տեղեկութիւնը ճիշտ է։">
-<!ENTITY serverTypePrefix.label "Մուտքային սպասարկչի տեսակը.">
-<!ENTITY serverNamePrefix.label "Մուտքային սպասարկչի անունը.">
-<!ENTITY smtpServerNamePrefix.label "Ելքային սպասարկչի անունը (SMTP).">
 <!ENTITY newsServerNamePrefix.label "Լուրերի սպասարկիչի անունը (NNTP).">
-<!ENTITY downloadOnLogin.label "Ներբեռնել նամակները հիմա">
-<!ENTITY downloadOnLogin.accesskey "D">
-<!ENTITY deferStorageDesc.label "Հանէք ընտրումը՝ այս հաշուի նամակը իր թղթապանակում տեսակաւորելու համար։ Այս հաշիւը կերեւայ, որպէս բարձր մակարդակի հաշիւ։ Այն կը լինի Տեղային թղթապանակների ընդհանուր մուտքային հաշուի մի մասնիկը։">
-<!ENTITY deferStorage.label "Աւգտագործէք ընդհանուր պանակը (պահել նամակները տեղային թղթապանակում)։">
-<!ENTITY deferStorage.accesskey "Հ">
 <!ENTITY clickFinish.label "Սեղմէք աւարտել՝ պահելու համար կարգաւորումները, եւ փակելու՝ խորհրդատուն։">
 <!ENTITY clickFinish.labelMac "Սեղմէք պատրաստ է՝ պահելու համար կարգաւորումները եւ փակելու՝ խորհրդատուն։">

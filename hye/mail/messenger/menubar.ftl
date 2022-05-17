@@ -8,14 +8,10 @@ toolbar-context-menu-menu-bar =
 
 ## Tools Menu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-menu-tools-preferences =
-    .label = Նախընտրութիւններ
-    .accesskey = Ն
 menu-tools-settings =
     .label = Կարգաւորումներ
     .accesskey = ե
+
 menu-addons-and-themes =
     .label = Յաւելումներ եւ Հիմնապատկերներ
     .accesskey = A
@@ -25,9 +21,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Խափաշտկման ռեժիմ…
     .accesskey = Ա
+
 menu-help-exit-troubleshoot-mode =
     .label = Անջատել խափաշտկման ռեժիմը
     .accesskey = ր
+
 menu-help-more-troubleshooting-info =
     .label = Լրացուցիչ տեղեկատուութիւն խափաշտկման մասին
     .accesskey = Լ
@@ -58,15 +56,19 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Խտութիւն
     .accesskey = Խ
+
 mail-uidensity-compact =
     .label = Սեղմ
     .accesskey = Ս
+
 mail-uidensity-normal =
     .label = Սովորական
     .accesskey = Ս
+
 mail-uidensity-touch =
     .label = Հպում
     .accesskey = Հ
+
 menu-spaces-toolbar-button =
     .label = Բացատների գործիքագաւտի
     .accesskey = Բ

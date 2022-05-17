@@ -4,21 +4,29 @@
 
 chat-joining-chat-icon2 =
     .alt = Միացում զրոյցին
+
 chat-left-chat-icon2 =
     .alt = Լքել զրուցարանը
+
 chat-participant-owner-role-icon2 =
     .alt = Տնաւրինող
+
 chat-participant-administrator-role-icon2 =
     .alt = Վարիչ
+
 chat-participant-moderator-role-icon2 =
     .alt = Համակարգող
+
 chat-participant-voiced-role-icon2 =
     .alt = Մասնակիցը կարող է հաղորդագրութիւններ ուղարկել
+
 chat-verify-identity =
     .label = Հաստատէք ինքնութիւնը
     .accesskey = Ի
+
 chat-identity-verified =
     .label = Ինքնութիւնն արդէն հաստատուած է
+
 chat-buddy-identity-status = Վստահելի ծածկագրում
 chat-buddy-identity-status-verified = Հաստատուած
 chat-buddy-identity-status-unverified = Չհաստատուած

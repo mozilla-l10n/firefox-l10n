@@ -4,9 +4,11 @@
 
 tag-dialog-window =
     .title = Նոր պիտակ
+
 tag-name-label =
     .value = Պիտակի անուն․
     .accesskey = Պ
+
 tag-color-label =
     .value = Գոյնը:
     .accesskey = Գ

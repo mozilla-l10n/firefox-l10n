@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "Ե">
 <!ENTITY SecondEmail.label              "Լրացուցիչ եղեկտրոնային հասցէ․">
 <!ENTITY SecondEmail.accesskey          "ու">
-<!ENTITY PreferMailFormat.label         "Նախընտրում է ստանալ հաղորդագրութիւնները ձեւաչափուած որպէս՝">
-<!ENTITY PreferMailFormat.accesskey     "ա">
 <!ENTITY PlainText.label                "Պարզ գրուածք">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Անյայտ">

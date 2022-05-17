@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Սկզբնադիր ({ $name })
 fonts-label-default-unnamed =
     .label = Սկզբնադիր
+
 fonts-encoding-dialog-title =
     .title = Տառատեսակներ եւ գաղտնագրեր
+
 fonts-language-legend =
     .value = Տառատեսակներ
     .accesskey = Տ
+
 fonts-proportional-label =
     .value = Համաչափ․
     .accesskey = Հ
@@ -85,35 +89,45 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
+
 default-font-sans-serif =
     .label = Sans Serif
+
 font-size-proportional-label =
     .value = Չափը.
     .accesskey = ը
+
 font-size-monospace-label =
     .value = Չափը.
     .accesskey = ա
+
 font-serif-label =
     .value = Serif.
     .accesskey = S
+
 font-sans-serif-label =
     .value = Sans-serif
     .accesskey = n
+
 font-monospace-label =
     .value = Համաչափ
     .accesskey = Հ
+
 font-min-size-label =
     .value = Տառատեսակի նուազագոյն չափը.
     .accesskey = փ
+
 min-size-none =
     .label = Ոչ
 
 ## Fonts in message
 
 font-control-legend = Տառատեսակի կառավարում
+
 use-document-fonts-checkbox =
     .label = Աւգտագործել նաեւ այղ տառատեսակներ
     .accesskey = ո
+
 use-fixed-width-plain-checkbox =
     .label = Պարզ տեքստային հաղորդագրութիւնների համար աւօգտագործէք փիքսուած լայնութեան տառատեսակ
     .accesskey = ք
@@ -121,13 +135,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Տեքստի կոդաւորումը
+
 text-encoding-description = Գրանշանների ծրագրային կոդաւորումը՝ նամակը ուղարկելիս կամ ստանալիս
+
 font-outgoing-email-label =
     .value = Ելքային հաղորդագրութիւններ.
     .accesskey = լ
+
 font-incoming-email-label =
     .value = Մուտքային հաղորդագրություններ.
     .accesskey = Մ
+
 default-font-reply-checkbox =
     .label = Հնարաւորութեան դէպքում, պատասխանելիս աւգտագործէք ծրագրային կոդաւորումը.
     .accesskey = ն

@@ -38,16 +38,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Փակել { -brand-shorter-name }-ը
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Փակել { -brand-shorter-name }
+
 menu-about =
     .label = { -brand-shorter-name }-ի մասին
     .accesskey = A
@@ -77,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Բացել նիշը…
     .accesskey = O
-menu-file-close =
-    .label = Փակել
-    .accesskey = C
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 menu-file-close-tab =
@@ -105,9 +97,6 @@ menu-file-share-url =
 menu-file-print-setup =
     .label = Էջի կարգաւորումներ…
     .accesskey = u
-menu-file-print-preview =
-    .label = Տպելու նախադիտում
-    .accesskey = v
 menu-file-print =
     .label = Տպել…
     .accesskey = P
@@ -320,9 +309,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = խ
 menu-help-report-site-issue =
     .label = Զեկուցել կայքի թողարկման մասին…
-menu-help-feedback-page =
-    .label = Հաստատման արձագանք…
-    .accesskey = S
 menu-help-share-ideas =
     .label = Կիսուել մտքերով կամ թողնել արձագանք…
     .accesskey = S

@@ -6,7 +6,6 @@ privatebrowsingpage-open-private-window-label = Բացել Գաղտնի պատո
     .accesskey = Գ
 about-private-browsing-search-placeholder = Որոնել առցանց
 about-private-browsing-info-title = Գաղտնի պատուհան
-about-private-browsing-info-myths = Տարածուած առասպելներ գաղտնի դիտարկման մասին
 about-private-browsing-search-btn =
     .title = Որոնել համացանցում
 # Variables
@@ -20,16 +19,15 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Որոնէք { $engine } -ով կամ մուտքագրէք հասցէ
 about-private-browsing-handoff-text-no-engine = Որոնէք կամ մուտքագրէք հասցէ
 about-private-browsing-not-private = Այժմ Դուք Գաղտնի դիտարկման էջում չէք։
-about-private-browsing-info-description = { -brand-short-name }֊ը մաքրում է Ձեր որոնման եւ զննարկման պատմութիւնը, երբ դուրս եք գալիս ծրագրից կամ փակում եք անձնական դիտման բոլոր ներդիրներն ու պատուհանները։ Չնայած դա Ձեզ անանուն չի դարձնում կայքէջերի կամ Ձեր համացանցային ծառայութիւններ մատուցողի համար, այն աւելի հեշտացնում է այն, ինչ անում եք առցանց, անհատական պահելով այս համակարգչից աւգտուող ցանկացած այլ անձի կողմից։
-about-private-browsing-need-more-privacy = Աւելացնե՞լ դիտարկման գաղտնիութիւնը
-about-private-browsing-turn-on-vpn = Փորձէք { -mozilla-vpn-brand-name }
 about-private-browsing-info-description-private-window = { -brand-short-name } -ը ջնջում է որոնման պատմութիւնը և փնտրուած էջերը բոլոր գաղտնի պատուհանների փակումից յետոյ։ Սա անանուն աշխատակերպը չէ։
 about-private-browsing-info-description-simplified = { -brand-short-name }-ը  ջնջում է որոնման պատմութիւնը և փնտրուած էջերը բոլոր գաղտնի պատուհանների փակումից յետոյ։ Սա անանուն աշխատակերպը չէ։
 about-private-browsing-learn-more-link = Իմանալ աւելին
+
 about-private-browsing-hide-activity = Թաքցնել ծաւալած գործունեութիւնն և տեղակայման վայրը զննարկիչով աշխատելու ամբողջ ընթացքում:
 about-private-browsing-get-privacy = Ապահովել անվտանգութիւնը զննարկիչով աշխատանքի ամբողջ ընթացքում։
 about-private-browsing-hide-activity-1 = Թաքցնել զննարկիչով ծաւալած գործունեութիւնն ու տեղակայման վայրը { -mozilla-vpn-brand-name } ֊ի աւգնութեամբ։ Այն ստեղծուում է անվտանգ միացում, անգամ հանրային Wi-Fi-ի միացած լինելու դեպքում:
 about-private-browsing-prominent-cta = Անցնել գաղտնիութեան { -mozilla-vpn-brand-name } ֊ի հետ․
+
 about-private-browsing-focus-promo-cta = Ներբեռնել { -focus-brand-name }
 about-private-browsing-focus-promo-text = Մեր գաղտնի զննարկման բջջային հաւելուածը ամէն անգամ մաքրում է Ձեր պատմութիւնը եւ թխուկները:
 
@@ -39,6 +37,7 @@ about-private-browsing-focus-promo-header-b = Սկսել գաղտնի դիտար
 about-private-browsing-focus-promo-text-b = Աւգտագործէք { -focus-brand-name } այն գաղտնի որոնումների համար, որոնք Դուք չէք ցանկանում, որ Ձեր հիմնական բջջային զննարկիչը տեսնի:
 about-private-browsing-focus-promo-header-c = Գաղտնիութեան նոր փուլ հեռախուսում
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } մաքրում է Ձեր պատմութիւնը ամէն անգամ՝ արգելափակելով գովազդներն ու հետագծերը:
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,5 +50,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Փակել
+
 about-private-browsing-promo-close-button =
     .title = Փակել

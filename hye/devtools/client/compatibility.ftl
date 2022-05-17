@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (հնացած, փոր
 compatibility-settings-button-label = Կարգաւորումներ
 compatibility-settings-button-title =
     .title = Կարգաւորումներ
-compatibility-feedback-button-label = Արձագանքել
-compatibility-feedback-button-title =
-    .title = Արձագանքել
 
 ## Messages used as headers in settings pane
 
@@ -42,9 +39,11 @@ compatibility-issue-occurrences =
         [one] { $number } խնդիր
        *[other] { $number } խնդիրներ
     }
+
 compatibility-no-issues-found = Համատեղելիութեան խնդիրներ չեն գտնուել։
 compatibility-close-settings-button =
     .title = Փակել կարգաւորումները
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Առաջարկուող յատկութիւն
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Ինչո՞ւ եմ ես սա տեսնում
+
 cfr-doorhanger-extension-cancel-button = Ոչ հիմա
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Աւելացնել հիմա
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = Կառավարել երաշխաւորուող կարգաւորումները
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = Չցուցադրել ինձ այս երաշխաւորութիւնները
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = Իմանալ աւելին
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name }-ի կողմից
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Երաշխաւորութիւն
 cfr-doorhanger-extension-notification2 = Երաշխաւորութիւն
     .tooltiptext = Ընդլայնման երաշխաւորութիւն
     .a11y-announcement = Հասանելի ընդլայնման երաշխաւորութիւն
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Երաշխաւորութիւն
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Իմանալ աւելին
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Նոր հատկութիւն․
+
 cfr-whatsnew-button =
     .label = Ինչն է նոր
     .tooltiptext = Ինչն է նոր
+
 cfr-whatsnew-release-notes-link-text = Կարդալ թողարկման գրառումները
 
 ## Enhanced Tracking Protection Milestones

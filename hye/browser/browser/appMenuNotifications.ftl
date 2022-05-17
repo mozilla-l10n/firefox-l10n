@@ -42,6 +42,7 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ոչ հիմա
     .secondarybuttonaccesskey = Ո
 appmenu-update-other-instance-message = { -brand-shorter-name }-ի նոր արդիացումը հասանելի է, բայց այն հնարաւոր չէ ներբեռնել, քանի որ գործարկուում  է { -brand-shorter-name }-ի մեկ այլ պատճէն: Փակէք այն արդիացումը շարունակելու համար կամ ամէն դէպքում ընտրէք արդիացումը (մեւս պատճէնը հնարաւոր է ճիշդ չաշխատի, քանի դեռ դուք չէք վերամեկնարկել այն):
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Լաւ
     .buttonaccesskey = Լ
@@ -49,6 +50,7 @@ appmenu-addon-post-install-message3 = Կառավարել յաւելումներ�
 appmenu-addon-post-install-incognito-checkbox =
     .label = Թոյղատրել այս ընդլայնմանը աշխատեցնել Գաղտնի պատուհանը
     .accesskey = A
+
 appmenu-new-tab-controlled-changes =
     .label = Ձեր նոր ներդիրը փոխուել է։
     .buttonlabel = Պահպանել փոփոխուփիւնները

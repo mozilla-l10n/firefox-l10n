@@ -5,59 +5,77 @@
 permissions-window =
     .title = Բացառումներ
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Կայքի հասցէն
     .accesskey = հ
+
 permissions-block =
     .label = Արգելել
     .accesskey = Ա
+
 permissions-session =
     .label = Թոյլատրել աշխատաշրջանում
     .accesskey = ա
+
 permissions-allow =
     .label = Թոյլատրել
     .accesskey = Թ
+
 permissions-button-off =
     .label = Անջատել
     .accesskey = Ա
+
 permissions-button-off-temporarily =
     .label = Անջատել ժամանակաւորապէս
     .accesskey = Ա
+
 permissions-site-name =
     .label = Կայք
+
 permissions-status =
     .label = Կարգավիճակը
+
 permissions-remove =
     .label = Հեռացնել կայքը
     .accesskey = R
+
 permissions-remove-all =
     .label = Հեռացնել բոլոր կայքերը
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = Պահել փոփոխութիւնները
     .buttonaccesskeyaccept = Պ
+
 permissions-autoplay-menu = Սկզբնադիր բոլոր կայքերի համար.
+
 permissions-searchbox =
     .placeholder = Որոնել կայք
+
 permissions-capabilities-autoplay-allow =
     .label = Թոյլատրել Ձայն եւ Տեսանիւթ
 permissions-capabilities-autoplay-block =
     .label = Կողպել ձայնը
 permissions-capabilities-autoplay-blockall =
     .label = Կողպել Ձայնը եւ Տեսանիւթը
+
 permissions-capabilities-allow =
     .label = Թոյլատրել
 permissions-capabilities-block =
     .label = Արգելել
 permissions-capabilities-prompt =
     .label = Միշտ հարցնել
+
 permissions-capabilities-listitem-allow =
     .value = Թոյլատրել
 permissions-capabilities-listitem-block =
     .value = Արգելել
 permissions-capabilities-listitem-allow-session =
     .value = Թոյլատրել աշխատաշրջանում
+
 permissions-capabilities-listitem-off =
     .value = Անջատուած
 permissions-capabilities-listitem-off-temporarily =

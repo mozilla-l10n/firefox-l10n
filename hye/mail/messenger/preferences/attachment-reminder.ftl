@@ -4,17 +4,23 @@
 
 attachment-reminder-window =
     .title = Կցորդի յիշեցման հիմնաբառեր
+
 attachment-reminder-label = { -brand-short-name }-ը կը յայտնի Ձեզ կցորդների բացակայութեան մասին, եթե ցանկանում էք ուղարկել եղ․ փոստ ներառելով այս հիմնաբառերից մեկը։
+
 keyword-new-button =
     .label = Նոր…
     .accesskey = Ն
+
 keyword-edit-button =
     .label = Խմբագրել…
     .accesskey = Խ
+
 keyword-remove-button =
     .label = Ջնջել
     .accesskey = Ջ
+
 new-keyword-title = Նոր հիմնաբառ
 new-keyword-label = Հիմնաբառ՝
+
 edit-keyword-title = Խմբագրել հիմնաբառը
 edit-keyword-label = Հիմնաբառ

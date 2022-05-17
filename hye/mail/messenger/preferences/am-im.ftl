@@ -4,8 +4,10 @@
 
 account-settings-title = Վաւերացման կարգաւորումներ
 account-channel-title = Սկզբնադիր կապուղիներ
+
 chat-autologin =
     .label = Մուտք գործել մեկնարկին
+
 chat-encryption-generic = Ընդհանուր
 chat-encryption-log =
     .label = Ներառել ծայրից ծայր ծածկագրուած նամակները խաւսակցութեան տեղեկամատեաններում

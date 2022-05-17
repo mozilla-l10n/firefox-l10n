@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Տառատեսակներ
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Տառատեսակներ
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Արաբերէն
 fonts-langgroup-armenian =
@@ -75,27 +77,37 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Համաչափ
     .accesskey = Հ
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Չափը
     .accesskey = փ
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monospace
     .accesskey = M
+
 fonts-monospace-size = Չափը
     .accesskey = e
+
 fonts-minsize = Տառատեսակի նուազագոյն չափ
     .accesskey = o
+
 fonts-minsize-none =
     .label = Չկայ
+
 fonts-allow-own =
     .label = Էջերին թոյլատրել աւգտագործել իրենց սեփական տառատեսակները
     .accesskey = A
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

@@ -20,7 +20,6 @@ about-networking-ssl = SSL
 about-networking-active = Ակտիւ
 about-networking-idle = Անգործ
 about-networking-host = Հիւրընկալող
-about-networking-tcp = TCP
 about-networking-type = Տեսակ
 about-networking-sent = Ուղարկուած
 about-networking-received = Ստացուած

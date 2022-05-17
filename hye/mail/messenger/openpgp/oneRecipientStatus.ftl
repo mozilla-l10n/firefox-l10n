@@ -16,8 +16,10 @@ openpgp-one-recipient-status-open-details =
     .label = Բացել մանրամասները եւ խմբագրել ընդունումը…
 openpgp-one-recipient-status-discover =
     .label = Բացայայտել նոր կամ թարմացուած բանալի
+
 openpgp-one-recipient-status-instruction1 = Ստացողին ծայրից ծայր կոդաւորուած յաղորդագրութիւն ուղարկելու համար դուք պէտք է ստանաք նրա հանրային բանալին եւ նշէք այն, որպէս ընդունուած:
 openpgp-one-recipient-status-instruction2 = Նրանց հանրային բանալին ստանալու համար, ներմուծէք դրանք Ձեզ ուղարկած եղ.փոստից, որը ներառում է այն: Որպէս այղընտրանք, դուք կարող էք փորձել գտնել նրանց հանրային բանալին գրացուցակի մէջ:
+
 openpgp-key-own = Ընդունուած (անձնական բանալի)
 openpgp-key-secret-not-personal = Չաւգտագործուող
 openpgp-key-verified = Ընդունուած է (հաստատուած)
@@ -25,19 +27,24 @@ openpgp-key-unverified = Ընդունուած է (չհաստատուած)
 openpgp-key-undecided = Չընդունուած (անորոշ)
 openpgp-key-rejected = Չընդունուած (մերժուած)
 openpgp-key-expired = Ժամկէտանց
+
 openpgp-intro = Հասանելի հանրային բանալիներ { $key }֊ի համար
+
 openpgp-pubkey-import-id = ID: { $kid }
 openpgp-pubkey-import-fpr = Մատնահետք․ { $fpr }
+
 openpgp-pubkey-import-intro =
     { $num ->
         [one] Նիշը պարունակում է մեկ հանրային բանալի, որը ցուցադրուած է ներքեւում․
        *[other] Նիշը պարունակում է { $num } հանրային բանալի, որը ցուցադրուած է ներքեւում․
     }
+
 openpgp-pubkey-import-accept =
     { $num ->
         [one] Ընդունու՞մ էք այս բանալին թուային ստորագրութիւնները ստուգելու, հաղորդագրութիւնների գաղտնագրման եւ բոլոր ցուցադրված եղ. հասցէների համար:
        *[other] Ընդունու՞մ էք այս բանալին թուային ստորագրութիւնները ստուգելու, հաղորդագրութիւնների գաղտնագրման եւ բոլոր ցուցադրված եղ. հասցէների համար:
     }
+
 pubkey-import-button =
     .buttonlabelaccept = Ներմուծել
     .buttonaccesskeyaccept = Ն

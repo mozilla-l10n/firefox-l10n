@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = Բացել { -brand-short-name } -ով
     .accesskey = ե
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Նախընտրանքները կարող են փոփոխուել { -brand-short-name }ի կարգաւորումներում:
            *[other] Նախընտրանքները կարող են փոփոխել { -brand-short-name }-ի կարգաւորումներում:
         }
+
 unknowncontenttype-intro = Դուք պատրաստուում եք բացել՝
 unknowncontenttype-which-is = որն է․
 unknowncontenttype-from = ից․

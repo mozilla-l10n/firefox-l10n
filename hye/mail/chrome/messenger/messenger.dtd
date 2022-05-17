@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "W">
 <!ENTITY newVirtualFolderCmd.label "Պահպանուած որոնում…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newOtherAccountsCmd.label "Այղ հաշիւներ…">
-<!ENTITY newOtherAccountsCmd.accesskey "Օ">
 <!ENTITY newCreateEmailAccountCmd.label "Ստեղծել նոր փոստային հաշիւ…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "Ս">
 <!ENTITY newExistingEmailAccountCmd.label "Առկայ փոստային հաշիւ…">
@@ -47,8 +45,6 @@
 <!ENTITY openMessageFileCmd.accesskey "M">
 <!ENTITY saveAsMenu.label "Պահպանել որպէս">
 <!ENTITY saveAsMenu.accesskey "S">
-<!ENTITY saveAsFileCmd.label "Նիշ">
-<!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Նմուշ">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
