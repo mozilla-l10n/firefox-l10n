@@ -20,7 +20,6 @@ about-networking-ssl = SSL
 about-networking-active = ใช้งานอยู่
 about-networking-idle = ว่าง
 about-networking-host = โฮสต์
-about-networking-tcp = TCP
 about-networking-type = ชนิด
 about-networking-sent = ส่ง
 about-networking-received = รับ

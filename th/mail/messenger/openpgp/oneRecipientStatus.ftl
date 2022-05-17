@@ -28,3 +28,4 @@ openpgp-key-undecided = ไม่ได้ยอมรับ (ไม่ได้
 openpgp-key-rejected = ไม่ได้ยอมรับ (ถูกปฏิเสธ)
 
 openpgp-intro = คีย์สาธารณะที่พร้อมใช้งานสำหรับ { $key }
+

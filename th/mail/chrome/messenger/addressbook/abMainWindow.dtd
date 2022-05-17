@@ -108,6 +108,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "ผ">
 <!ENTITY newlistButton.label                            "รายชื่อใหม่">
 <!ENTITY newlistButton.accesskey                        "ร">
+
 <!ENTITY showAsDefault.label                            "ไดเรกทอรีเริ่มต้นตามค่าเริ่มต้น">
 <!ENTITY showAsDefault.accesskey                        "เ">
 <!ENTITY editPropertiesButton.label                     "แก้ไข">

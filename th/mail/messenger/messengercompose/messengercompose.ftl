@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -44,15 +46,6 @@ pill-action-move-bcc =
 
 # Attachment widget
 
-#   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } สิ่งที่แนบมา
-           *[other] { $count } สิ่งที่แนบมา
-        }
-    .accesskey = น
-
 # Reorder Attachment Panel
 
 button-return-receipt =
@@ -69,4 +62,16 @@ button-return-receipt =
 ## Editing
 
 # Tools
+
+## Filelink
+
+# Placeholder file
+
+# Template
+
+# Messages
+
+## Link Preview
+
+## Dictionary selection popup
 

@@ -23,4 +23,3 @@ count-new-messages-radio =
     .label = จำนวนข้อความใหม่
     .accesskey = ม
 
-notification-settings-info = คุณสามารถปิดใช้งานป้ายในบานหน้าต่างการแจ้งเตือนของค่ากำหนดระบบ

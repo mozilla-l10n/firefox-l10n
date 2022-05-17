@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (การเรียกดูแบบส่วนตัว)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (การเรียกดูแบบส่วนตัว)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (การเรียกดูแบบส่วนตัว)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (การเรียกดูแบบส่วนตัว)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -113,6 +115,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = พิมพ์น้อยลง ค้นหามากขึ้น: ค้นหา { $engineName } โดยตรงจากแถบที่อยู่ของคุณ
 urlbar-search-tips-redirect-2 = เริ่มการค้นหาของคุณในแถบที่อยู่เพื่อดูข้อเสนอแนะจาก { $engineName } และประวัติการเรียกดูของคุณ
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = เลือกทางลัดนี้เพื่อค้นหาสิ่งที่คุณต้องการได้เร็วขึ้น
@@ -149,10 +152,12 @@ urlbar-midi-blocked =
     .tooltiptext = คุณได้ปิดกั้นการเข้าถึง MIDI สำหรับเว็บไซต์นี้
 urlbar-install-blocked =
     .tooltiptext = คุณได้ปิดกั้นการติดตั้งส่วนเสริมสำหรับเว็บไซต์นี้
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = แก้ไขที่คั่นหน้านี้ ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -179,8 +184,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = คราวนี้ค้นหาด้วย:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = เปลี่ยนการตั้งค่าการค้นหา
+
 search-one-offs-context-open-new-tab =
     .label = ค้นหาในแท็บใหม่
     .accesskey = ค
@@ -190,12 +197,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = ตั้งเป็นเครื่องมือค้นหาเริ่มต้นสำหรับหน้าต่างส่วนตัว
     .accesskey = ส
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -240,6 +249,7 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = ส
 bookmark-panel-save-button =
     .label = บันทึก
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -267,6 +277,7 @@ identity-passive-loaded = บางส่วนของหน้านี้ไ
 identity-active-loaded = คุณได้ปิดใช้งานการป้องกันในหน้านี้
 identity-weak-encryption = หน้านี้ใช้การเข้ารหัสที่อ่อนแอ
 identity-insecure-login-forms = การเข้าสู่ระบบที่ป้อนบนหน้านี้อาจถูกบุกรุกได้
+
 identity-https-only-connection-upgraded = (อัปเกรดเป็น HTTPS)
 identity-https-only-label = โหมด HTTPS-Only
 identity-https-only-dropdown-on =
@@ -278,9 +289,11 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = เปิดโหมด HTTPS-Only หากคุณต้องการให้ { -brand-short-name } อัปเกรดการเชื่อมต่อเมื่อเป็นไปได้
 identity-https-only-info-turn-off2 = หากหน้าดูเหมือนจะพัง คุณอาจต้องปิดโหมด HTTPS-Only สำหรับไซต์นี้เพื่อโหลดใหม่โดยใช้ HTTP ที่ไม่ปลอดภัย
 identity-https-only-info-no-upgrade = ไม่สามารถอัปเกรดการเชื่อมต่อจาก HTTP ได้
+
 identity-permissions-storage-access-header = คุกกี้ข้ามไซต์
 identity-permissions-storage-access-hint = บุคคลเหล่านี้สามารถใช้คุกกี้ข้ามไซต์และข้อมูลไซต์ในขณะที่คุณอยู่บนไซต์นี้ได้
 identity-permissions-storage-access-learn-more = เรียนรู้เพิ่มเติม
+
 identity-permissions-reload-hint = คุณอาจจำเป็นต้องโหลดหน้าใหม่เพื่อให้การเปลี่ยนแปลงมีผล
 identity-clear-site-data =
     .label = ล้างคุกกี้และข้อมูลไซต์…
@@ -343,11 +356,13 @@ browser-tab-mute =
         [1] ปิดเสียงแท็บ
        *[other] ปิดเสียง { $count } แท็บ
     }
+
 browser-tab-unmute =
     { $count ->
         [1] เลิกปิดเสียงแท็บ
        *[other] เลิกปิดเสียง { $count } แท็บ
     }
+
 browser-tab-unblock =
     { $count ->
         [1] เล่นแท็บ
@@ -359,6 +374,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = นำเข้าที่คั่นหน้า…
     .tooltiptext = นำเข้าที่คั่นหน้าจากเบราว์เซอร์อื่นมายัง { -brand-short-name }
+
 bookmarks-toolbar-empty-message = วางที่คั่นหน้าของคุณไว้ที่นี่บนแถบเครื่องมือที่คั่นหน้าเพื่อให้เข้าถึงได้อย่างรวดเร็ว <a data-l10n-name="manage-bookmarks">จัดการที่คั่นหน้า…</a>
 
 ## WebRTC Pop-up notifications
@@ -376,12 +392,15 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = ลำโพง
 popup-all-windows-shared = หน้าต่างที่ปรากฏอยู่ทั้งหมดบนหน้าจอของคุณจะถูกแบ่งปัน
+
 popup-screen-sharing-block =
     .label = ปิดกั้น
     .accesskey = ป
+
 popup-screen-sharing-always-block =
     .label = ปิดกั้นเสมอ
     .accesskey = ส
+
 popup-mute-notifications-checkbox = ปิดเสียงการแจ้งเตือนเว็บไซต์ขณะแบ่งปัน
 
 ## WebRTC window or screen share tab switch warning
@@ -403,6 +422,7 @@ enable-devtools-popup-description = หากต้องการใช้ท�
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = ค้นหาหรือป้อนที่อยู่
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -411,6 +431,7 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = ค้นหาเว็บ
     .aria-label = ค้นหาด้วย { $name }
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -419,22 +440,27 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = ป้อนคำค้นหา
     .aria-label = ค้นหา { $name }
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = ป้อนคำค้นหา
     .aria-label = ค้นหาที่คั่นหน้า
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = ป้อนคำค้นหา
     .aria-label = ค้นหาประวัติ
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = ป้อนคำค้นหา
     .aria-label = ค้นหาแท็บ
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = ค้นหาด้วย { $name } หรือป้อนที่อยู่
+
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -444,9 +470,11 @@ urlbar-permissions-granted =
     .tooltiptext = คุณได้อนุญาตไซต์นี้ด้วยสิทธิเพิ่มเติม
 urlbar-switch-to-tab =
     .value = สลับไปยังแท็บ:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ส่วนขยาย:
+
 urlbar-go-button =
     .tooltiptext = ไปยังที่อยู่ในแถบตำแหน่งที่ตั้ง
 urlbar-page-action-button =
@@ -513,6 +541,7 @@ urlbar-result-action-search-tabs = ค้นหาแท็บ
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+
 # A label shown above the search suggestions group in the urlbar results. It
 # should use title case.
 # Variables
@@ -527,9 +556,12 @@ urlbar-group-search-suggestions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> เต็มหน้าจออยู่
 fullscreen-warning-no-domain = เอกสารนี้เต็มหน้าจออยู่
+
+
 fullscreen-exit-button = ออกจากภาพเต็มหน้าจอ (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = ออกจากภาพเต็มหน้าจอ (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -539,6 +571,7 @@ pointerlock-warning-no-domain = เอกสารชิ้นนี้ได้
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>เนื้อหาบางส่วนของหน้านี้ขัดข้อง</strong> หากต้องการแจ้งให้ { -brand-product-name } ทราบเกี่ยวกับปัญหานี้เพื่อให้ได้รับการแก้ไขเร็วขึ้น โปรดส่งรายงาน
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -594,6 +627,7 @@ bookmarks-tools =
     .label = เครื่องมือที่คั่นหน้า
 bookmarks-bookmark-edit-panel =
     .label = แก้ไขที่คั่นหน้านี้
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -607,6 +641,7 @@ bookmarks-toolbar-placeholder =
     .title = รายการแถบเครื่องมือที่คั่นหน้า
 bookmarks-toolbar-placeholder-button =
     .label = รายการแถบเครื่องมือที่คั่นหน้า
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = เพิ่มที่คั่นหน้าแท็บปัจจุบัน
@@ -637,6 +672,7 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = ส่วนเสริมและชุดตกแต่ง
     .tooltiptext = จัดการส่วนเสริมและชุดตกแต่งของคุณ ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -649,28 +685,30 @@ toolbar-settings-button =
 
 ## More items
 
-more-menu-go-offline =
-    .label = ทำงานออฟไลน์
-    .accesskey = ฟ
 toolbar-overflow-customize-button =
     .label = ปรับแต่งแถบเครื่องมือ…
     .accesskey = ป
+
 toolbar-button-email-link =
     .label = ส่งอีเมลลิงก์
     .tooltiptext = ส่งอีเมลลิงก์ไปยังหน้านี้
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = บันทึกหน้า
     .tooltiptext = บันทึกหน้านี้ ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = เปิดไฟล์
     .tooltiptext = เปิดไฟล์ ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = แท็บที่ซิงค์
     .tooltiptext = แสดงแท็บจากอุปกรณ์อื่น ๆ
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -699,10 +737,6 @@ addon-removal-abuse-report-checkbox = รายงานส่วนขยาย
 
 ## Remote / Synced tabs
 
-remote-tabs-manage-account =
-    .label = จัดการบัญชี
-remote-tabs-sync-now = ซิงค์ตอนนี้
-
 ##
 
 # "More" item in macOS share menu
@@ -717,6 +751,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = อนุญาตป๊อปอัปสำหรับ { $uriHost }
     .accesskey = ป
+
 popups-infobar-block =
     .label = ปิดกั้นป๊อปอัปสำหรับ { $uriHost }
     .accesskey = ป
@@ -726,9 +761,11 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = ไม่แสดงข้อความนี้เมื่อป๊อปอัปถูกปิดกั้น
     .accesskey = ข
+
 edit-popup-settings =
     .label = จัดการการตั้งค่าป๊อปอัป…
     .accesskey = จ
+
 picture-in-picture-hide-toggle =
     .label = ซ่อนสลับภาพที่เล่นควบคู่
     .accesskey = อ
@@ -739,6 +776,7 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = เลื่อนภาพที่เล่นควบคู่สลับไปทางด้านขวา
     .accesskey = R
+
 picture-in-picture-move-toggle-left =
     .label = เลื่อนภาพที่เล่นควบคู่สลับไปทางด้านซ้าย
     .accesskey = L
@@ -753,32 +791,42 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = การนำทาง
+
 navbar-downloads =
     .label = การดาวน์โหลด
+
 navbar-overflow =
     .tooltiptext = เครื่องมือเพิ่มเติม…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = พิมพ์
     .tooltiptext = พิมพ์หน้านี้… ({ $shortcut })
+
 navbar-home =
     .label = หน้าแรก
     .tooltiptext = หน้าแรกของ { -brand-short-name }
+
 navbar-library =
     .label = ห้องสมุด
     .tooltiptext = ดูประวัติ, ที่คั่นหน้าที่บันทึกไว้ และอื่น ๆ
+
 navbar-search =
     .title = ค้นหา
+
 navbar-accessibility-indicator =
     .tooltiptext = คุณลักษณะการช่วยการเข้าถึงถูกเปิดใช้งานอยู่
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = แท็บเบราว์เซอร์
+
 tabs-toolbar-new-tab =
     .label = แท็บใหม่
+
 tabs-toolbar-list-all-tabs =
     .label = แสดงรายการแท็บทั้งหมด
     .tooltiptext = แสดงรายการแท็บทั้งหมด

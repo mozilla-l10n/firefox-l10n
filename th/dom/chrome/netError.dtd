@@ -82,9 +82,6 @@
 <!ENTITY corruptedContentErrorv2.title "ข้อผิดพลาดเนื้อหาเสียหาย">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>ไม่สามารถแสดงหน้าที่คุณกำลังพยายามจะดูเนื่องจากตรวจพบข้อผิดพลาดในการส่งผ่านข้อมูล</p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL ระยะไกล">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "การเชื่อมต่อของคุณไม่ปลอดภัย">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

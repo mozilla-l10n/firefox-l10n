@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "ล">
 <!ENTITY attachPageCmd.label "หน้าเว็บ…">
 <!ENTITY attachPageCmd.accesskey "ห">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "บัตรส่วนบุคคล (vCard)">
-<!ENTITY attachVCardCmd.accesskey "บ">
 <!ENTITY remindLater.label "เตือนฉันภายหลัง">
 <!ENTITY remindLater.accesskey "ต">
 <!ENTITY closeCmd.label "ปิด">
@@ -148,16 +145,6 @@
 <!ENTITY returnReceiptMenu.accesskey "แ">
 <!ENTITY dsnMenu.label "การแจ้งเตือนสถานะการส่ง">
 <!ENTITY dsnMenu.accesskey "ะ">
-<!ENTITY deliveryFormatMenu.label "รูปแบบการส่ง">
-<!ENTITY deliveryFormatMenu.accesskey "ง">
-<!ENTITY autoFormatCmd.label "ตรวจพบอัตโนมัติ">
-<!ENTITY autoFormatCmd.accesskey "ต">
-<!ENTITY plainTextFormatCmd.label "ข้อความธรรมดาเท่านั้น">
-<!ENTITY plainTextFormatCmd.accesskey "ข">
-<!ENTITY htmlFormatCmd.label "Rich Text (HTML) เท่านั้น">
-<!ENTITY htmlFormatCmd.accesskey "r">
-<!ENTITY bothFormatCmd.label "ข้อความธรรมดาและ Rich (HTML)">
-<!ENTITY bothFormatCmd.accesskey "ธ">
 <!ENTITY priorityMenu.label "ความสำคัญ">
 <!ENTITY priorityMenu.accesskey "ค">
 <!ENTITY priorityButton.title "ความสำคัญ">
@@ -221,7 +208,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "ช่องกำหนดที่อยู่ชนิดอื่น">
 <!ENTITY fromAddr2.label "จาก">
 <!ENTITY fromAddr.accesskey "จ">
 <!ENTITY replyAddr2.label "ตอบกลับถึง">
