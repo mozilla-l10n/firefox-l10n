@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = Ôdewrzij we aplikacyji { -brand-short-name }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Sztalōnki idzie zmiynić we ôpcyjach aplikacyje { -brand-short-name }
            *[other] Sztalōnki idzie zmiynić w preferyncyjach aplikacyje { -brand-short-name }.
         }
+
 unknowncontenttype-intro = Ôbrane do ôdewrzynio:
 unknowncontenttype-which-is = co je zbiorym typu:
 unknowncontenttype-from = ze:

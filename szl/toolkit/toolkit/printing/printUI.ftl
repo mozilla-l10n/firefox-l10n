@@ -5,6 +5,7 @@
 printui-title = Durkuj
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Spamiyntej za
+
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -13,6 +14,7 @@ printui-sheets-count =
         [few] { $sheetCount } kartki papiōru
        *[many] { $sheetCount } kartek papiōru
     }
+
 printui-page-range-all = Wszyskie
 printui-page-range-odd = Niyparziste
 printui-page-range-even = Parziste
@@ -23,22 +25,29 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = Wkludź włosny zakres strōn
     .placeholder = bp. 2-6, 9, 12-16
+
 # Section title for the number of copies to print
 printui-copies-label = Kopije
+
 printui-orientation = Ôriyntacyjo
 printui-landscape = Poziōmo
 printui-portrait = Piōnowo
+
 # Section title for the printer or destination device to target
 printui-destination-label = Cyl
 printui-destination-pdf-label = Spamiyntej za PDF
+
 printui-more-settings = Wiyncyj sztalōnkōw
 printui-less-settings = Mynij sztalōnkōw
+
 printui-paper-size-label = Srogość papiōru
+
 # Section title (noun) for the print scaling options
 printui-scale = Skala
 printui-scale-fit-to-page-width = Przipasuj do szyrzki strōny
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skala
+
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Durk ôbuch strōn
 printui-two-sided-printing-off = Wyłōnczōne
@@ -46,6 +55,7 @@ printui-two-sided-printing-off = Wyłōnczōne
 printui-two-sided-printing-long-edge = Ôbrōć bez dugi rant
 # Flip the sheet as if it were bound along its short edge.
 printui-two-sided-printing-short-edge = Ôbrōć bez krōtki rant
+
 # Section title for miscellaneous print options
 printui-options = Ôpcyje
 printui-headers-footers-checkbox = Durkuj nogōwki i stopki
@@ -69,6 +79,7 @@ printui-simplify-page-radio = Polekszōny
 printui-color-mode-label = Farbisty tryb
 printui-color-mode-color = Farbisty
 printui-color-mode-bw = Czorno-bioły
+
 printui-margins = Ranty
 printui-margins-default = Włosne
 printui-margins-min = Minimalne
@@ -87,17 +98,23 @@ printui-margins-custom-left-mm = Lewy (mm)
 printui-margins-custom-right = Prawy
 printui-margins-custom-right-inches = Prawy (cale)
 printui-margins-custom-right-mm = Prawy (mm)
+
 printui-system-dialog-link = Durkuj z pōmocōm systymowego dialogu…
+
 printui-primary-button = Durkuj
 printui-primary-button-save = Spamiyntej
 printui-cancel-button = Pociep
 printui-close-button = Zawrzij
+
 printui-loading = Rychtowanie podglōndu
+
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Podglōnd durku
+
 printui-pages-per-sheet = Strōny na kartka
+
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Durkowanie…
@@ -124,6 +141,7 @@ printui-paper-tabloid = Tabloid
 printui-error-invalid-scale = Skala to mo być liczba miyndzy 10 a 200.
 printui-error-invalid-margin = Wkludź dobry margines do ôbranyj srogości papiōru.
 printui-error-invalid-copies = Wielość kopii to mo być liczba miyndzy 1 a 10000.
+
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Zakres to mo być liczba miyndzy 1 a { $numPages }.

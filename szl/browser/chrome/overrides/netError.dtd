@@ -132,8 +132,6 @@ za pora chwil.</li>
 <!ENTITY errorReporting.automatic2 "Dej znać ô takich felerach, coby pōmōc Mizilli znojdować i szperować ôszydne strōny">
 <!ENTITY errorReporting.learnMore "Przewiydz sie wiyncyj…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Dej znać ô tym problymie posiedzicielōm strōny.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Wiyncyj infōrmacyji: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -159,9 +157,5 @@ za pora chwil.</li>
 
 <!ENTITY prefReset.longDesc "Zdo sie, co może to być skuli nasztalowań bezpieczyństwa twojigo neca. Wrōcić bazowe nasztalowania?">
 <!ENTITY prefReset.label "Wrōć bazowe nasztalowania">
-
-<!ENTITY enableTls10.longDesc "Ta strōna może niy ôbsugować protokołu TLS 1.2 - minimalnyj wersyji ôbsugowanyj ôd aplikacyje &brandShortName;. Połōnczynie może sie podarzić po załōnczyniu TLS 1.0 i TLS 1.1.">
-<!ENTITY enableTls10.note "TLS 1.0 i TLS 1.1 bydōm na zawdy zastawiōne we prziszłym wydaniu.">
-<!ENTITY enableTls10.label "Załōncz TLS 1.0 i 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Niy idzie pokozać strōny, co jōm chcesz ôboczyć, bo znod sie feler we protokole naca.</p><ul><li>Dej znać ô tym problymie posiedzicielōm strōny.</li></ul>">

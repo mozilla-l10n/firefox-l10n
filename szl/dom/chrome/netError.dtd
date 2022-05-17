@@ -97,9 +97,6 @@
   <li>Dej znać ô tym problymie posiedzicielōm strōny.</li>
 </ul>">
 
-<!ENTITY remoteXUL.title "Zdalne XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Dej znać ô tym problymie posiedzicielōm strōny.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Twoje połōnczynie niy ma bezpieczne">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

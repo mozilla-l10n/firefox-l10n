@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (przedowniōne, ekspe
 compatibility-settings-button-label = Sztalōnki
 compatibility-settings-button-title =
     .title = Sztalōnki
-compatibility-feedback-button-label = Ôpinijo
-compatibility-feedback-button-title =
-    .title = Ôpinijo
 
 ## Messages used as headers in settings pane
 
@@ -47,3 +44,4 @@ compatibility-issue-occurrences =
 compatibility-no-issues-found = Żodne problymy z kōmpatybilnościōm niy były znodniynte.
 compatibility-close-settings-button =
     .title = Zawrzij sztalōnki
+

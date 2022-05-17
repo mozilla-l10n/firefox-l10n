@@ -20,6 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Szukej
     .aria-label = Szukej
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Szukej ze { $engine } abo wkludź adresa
@@ -34,10 +35,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Szukej abo wkludź adresa
     .title = Szukej abo wkludź adresa
     .aria-label = Szukej abo wkludź adresa
-newtab-search-box-search-the-web-input =
-    .placeholder = Szukej w internecie
-    .title = Szukej w internecie
-    .aria-label = Szukej w internecie
+
 newtab-search-box-text = Szukej w internecie
 newtab-search-box-input =
     .placeholder = Szukej w internecie
@@ -46,17 +44,18 @@ newtab-search-box-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Przidej wyszukowarka
-newtab-topsites-add-topsites-header = Nowo topowo strōna
 newtab-topsites-add-shortcut-header = Nowy skrōt
 newtab-topsites-edit-topsites-header = Edytuj topowo strōna
 newtab-topsites-edit-shortcut-header = Edytuj skrōt
 newtab-topsites-title-label = Tytuł
 newtab-topsites-title-input =
     .placeholder = Wkludź tytuł
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Wpisz abo wraź adresa URL
 newtab-topsites-url-validation = Potrzebno je dobro adresa URL
+
 newtab-topsites-image-url-label = Adresa URL ôd włosnego ôbrozka
 newtab-topsites-use-image-link = Użyj włosnego ôbrozka…
 newtab-topsites-image-validation = Niy podarziło sie zaladować ôbrozka. Sprōbuj inkszyj adresy URL.
@@ -85,10 +84,12 @@ newtab-topsite-sponsored = Spōnsorowane
 newtab-menu-section-tooltip =
     .title = Ôdewrzij myni
     .aria-label = Ôdewrzij myni
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Skasuj
     .aria-label = Skasuj
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -157,14 +158,17 @@ newtab-label-removed-bookmark = Zokłodka je wyciepano
 newtab-label-recommended = Popularne
 newtab-label-saved = Spamiyntane do { -pocket-brand-name(case: "gen") }
 newtab-label-download = Pobrane
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Spōnsorowane
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Spōnsorowane ôd: { $sponsor }
+
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -195,7 +199,6 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = Topowe strōny
-newtab-section-header-highlights = Szumne
 newtab-section-header-recent-activity = Niydowno aktywność
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
@@ -204,6 +207,7 @@ newtab-section-header-pocket = Rekōmyndowane ôd { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Zacznij przeglōndać internet, a my pokożymy ci sam szumne artikle, filmy a inksze strōny niydowno nawiedzōne abo przidane do zokłodek.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -228,9 +232,11 @@ newtab-pocket-learn-more = Przewiydz sie wiyncyj
 newtab-pocket-cta-button = Dostōń ze { -pocket-brand-name(case: "gen") }
 newtab-pocket-cta-text = Spamiyntuj we { -pocket-brand-name(case: "loc") } teksty, co ci pasujōm, coby durch mieć co ciekawego do poczytanio.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je tajlōm familije { -brand-product-name }
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Spamiyntej do { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = Spamiyntane do { -pocket-brand-name }
+
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Zaladuj wiyncyj artykułōw
 

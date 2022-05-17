@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Udostympnij
     .accesskey = U
-tab-context-share-more =
-    .label = Wiyncyj…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -90,15 +88,6 @@ tab-context-reopen-closed-tabs =
            *[many] Ôtwōrz nazod zawarte karty
         }
     .accesskey = o
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Zawrzij karty
-            [one] Zawrzij karta
-            [few] Zawrzij karty
-           *[many] Zawrzij karty
-        }
-    .accesskey = Z
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -117,6 +106,7 @@ tab-context-move-tabs =
            *[many] Przeniyś karty
         }
     .accesskey = P
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Rykōmyndowano funkcyjo
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Po jakimu to widza?
+
 cfr-doorhanger-extension-cancel-button = Niy teroz
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Przidej teroz
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = Nasztalowania rykōmyndacyji
     .accesskey = n
+
 cfr-doorhanger-extension-never-show-recommendation = Niy pokozuj mi tyj rykōmyndacyje
     .accesskey = T
+
 cfr-doorhanger-extension-learn-more-link = Przewiydz sie wiyncyj
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = autōr: { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekōmyndacyjo
 cfr-doorhanger-extension-notification2 = Rekōmyndacyjo
     .tooltiptext = Rekōmyndacyjo rozszyrzynio
     .a11y-announcement = Rekōmyndacyjo rozszyrzynio je dostympno
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekōmyndacyjo
@@ -79,9 +87,11 @@ cfr-protections-panel-link-text = Przewiydz sie wiyncyj
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nowo funkcyjo:
+
 cfr-whatsnew-button =
     .label = Co je nowego
     .tooltiptext = Co je nowego
+
 cfr-whatsnew-release-notes-link-text = Poczytej informacyje ô wydaniu
 
 ## Enhanced Tracking Protection Milestones

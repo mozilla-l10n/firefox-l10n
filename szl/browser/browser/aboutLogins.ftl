@@ -4,9 +4,12 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Dane logowanio
+
 login-filter =
     .placeholder = Szukej danych logowanio
+
 create-login-button = Stwōrz nowe dane logowanio
+
 fxaccounts-sign-in-text = Używej swojich haseł na inkszych maszinach
 fxaccounts-sign-in-sync-button = Wloguj sie do synchrōnizacyje
 fxaccounts-avatar-button =
@@ -71,8 +74,6 @@ about-logins-login-intro-heading-logged-in = Niy szło znojś żodnych danych lo
 login-intro-description = Jeźli dane logowanio do aplikacyje { -brand-product-name } były spamiyntane na inkszyj maszinie, idzie je ściōngnōńć takōm metodōm:
 login-intro-instructions-fxa = Zaregistruj abo zaloguj sie do { -fxaccount-brand-name } na maszinie, co na nij sōm spamiyntane dane logowanio
 login-intro-instructions-fxa-settings = Idź do > Sztalōnki > Synchrōnizacyjo > Załōncz synchrōnizacyjo… Ôbier ôkynko danych logowanio i hasłōw.
-login-intro-instructions-fxa-help = Nawiydź <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Sparcie</a> po wiyncyj pōmocy.
-about-logins-intro-import = Jak twoje dane logowanio sōm spamiyntane we inkszyj przeglōndarce, to możesz <a data-l10n-name="import-link">importować je do usugi { -lockwise-brand-short-name }</a>
 login-intro-instructions-fxa-passwords-help = Nawiydź <a data-l10n-name="passwords-help-link">sparcie haseł</a>, kaj je wiyncyj informacyji.
 about-logins-intro-browser-only-import = Jak twoje dane logowanio sōm spamiyntane we inkszyj przeglōndarce, to możesz <a data-l10n-name="import-link">importować je do usugi { -brand-product-name }</a>
 about-logins-intro-import2 = Jak dane logowanio mosz spamiyntane kaj indzij jak we przeglōndarce { -brand-product-name }, możesz <a data-l10n-name="import-browser-link">importnōnć je z inkszyj przeglōndarki</a> abo <a data-l10n-name="import-file-link">ze zbioru</a>
@@ -116,16 +117,19 @@ about-logins-edit-login-os-auth-dialog-message-win = Żeby edytować login, wklu
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = edytować spamiyntane dane logowanio
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Żeby ôbejzdrzeć hasło, wkludź swoje dane logowanio Windows. To suży chrōniyniu twojich kōnt.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = ôbejzdrzeć spamiyntane hasło
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Żeby skopiować hasło, wkludź swoje dane logowanio Windows. To suży chrōniyniu twojich kōnt.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = skopiować spamiyntane hasło
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Żeby eksportować swoje loginy, wkludź swoje dane logowanio Windows. To suży chrōniyniu twojich kōnt.
 # This message can be seen when attempting to export a password in about:logins
@@ -144,14 +148,17 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Pociep
 confirmation-dialog-dismiss-button =
     .title = Pociep
+
 about-logins-confirm-remove-dialog-title = Skasować te dane logowanio?
 confirm-delete-dialog-message = Tyj akcyje niy idzie cofnōńć.
 about-logins-confirm-remove-dialog-confirm-button = Skasuj
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Skasuj
        *[other] Skasuj wszyske
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ja, skasuj te dane logowanio
@@ -159,6 +166,7 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [few] Ja, skasuj te dane logowanio
        *[many] Ja, skasuj te dane logowanio
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Skasować { $count } dane logowanio?
@@ -172,6 +180,7 @@ about-logins-confirm-remove-all-dialog-message =
         [few] Skasuje to dane logowanio spamiyntane w aplikacyji { -brand-short-name } i wszyske wycieki danych, co sam sōm pokozane. Niy pōdzie cofnōnć tyj akcyje.
        *[many] Skasuje to dane logowanio spamiyntane w aplikacyji { -brand-short-name } i wszyske wycieki danych, co sam sōm pokozane. Niy pōdzie cofnōnć tyj akcyje.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Skasować { $count } dane logowanio ze wszyskich maszin?
@@ -185,11 +194,14 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] Skasuje to wszyske dane logowanio spamiyntane w aplikacyji { -brand-short-name } na wszyskich maszinach synchrōnizowanych ze { -fxaccount-brand-name }. Skasuje to tyż wszyske wycieki danych, co sōm sam pokozane. Niy pōdzie cofnōć tyj akcyje.
        *[many] Skasuje to wszyske dane logowanio spamiyntane w aplikacyji { -brand-short-name } na wszyskich maszinach synchrōnizowanych ze { -fxaccount-brand-name }. Skasuje to tyż wszyske wycieki danych, co sōm sam pokozane. Niy pōdzie cofnōć tyj akcyje.
     }
+
 about-logins-confirm-export-dialog-title = Eksportuj dane logowanio i hasła
 about-logins-confirm-export-dialog-message = Twoje hasła bydōm spamiyntane za czytelny tekst (bp. Złeh@sł0), tōż kożdy, fto bydzie mōg ôtworzić eksportowany zbiōr, bydzie je widzieć.
 about-logins-confirm-export-dialog-confirm-button = Eksportuj…
+
 about-logins-alert-import-title = Import je skōńczōny
 about-logins-alert-import-message = Pokoż akuratne podsumowanie importu
+
 confirm-discard-changes-dialog-title = Ôdciepnōńć niyspamiyntane umiany?
 confirm-discard-changes-dialog-message = Wszyjske niyspamiyntane umiany bydōm stracōne.
 confirm-discard-changes-dialog-confirm-button = Ôdciep
@@ -220,6 +232,7 @@ about-logins-vulnerable-alert-learn-more-link = Wiyncyj informacyji
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Dane logowanio na { $loginTitle } ze takim mianym używocza już istniyjōm. <a data-l10n-name="duplicate-link">Pokozać dane, co już istniyjōm?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Doszło do feleru przi prōbie spamiyntanio tego hasła.
 
@@ -270,12 +283,14 @@ about-logins-import-dialog-items-added =
         [few] <span>Nowe dane logowanio sōm przidane:</span><span data-l10n-name="count">{ $count }</span>
        *[many] <span>Nowe dane logowanio sōm przidane:</span><span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Nowe dane logowanio sōm aktualniynte:</span><span data-l10n-name="count">{ $count }</span>
         [few] <span>Nowe dane logowanio sōm aktualniynte:</span><span data-l10n-name="count">{ $count }</span>
        *[many] <span>Nowe dane logowanio sōm aktualniynte:</span><span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Znodniynte sōm tuplowane dane logowanio:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(niyzaimportowane)</span>
@@ -289,6 +304,7 @@ about-logins-import-dialog-items-error =
        *[many] <span>Felery:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(niyzaimportowane)</span>
     }
 about-logins-import-dialog-done = Fertich
+
 about-logins-import-dialog-error-title = Feler importu
 about-logins-import-dialog-error-conflicting-values-title = Pora spornych wertōw do tych samych danych logowanio
 about-logins-import-dialog-error-conflicting-values-description = Bez przikłod: pora mianōw użytkownika, haseł, adresōw URLs, itp do tych samych danych logowanio.
@@ -302,8 +318,10 @@ about-logins-import-dialog-error-no-logins-imported = Żodne dane logowanio niy 
 about-logins-import-dialog-error-learn-more = Przewiydz sie wiyncyj
 about-logins-import-dialog-error-try-import-again = Sprōbuj importować jeszcze roz…
 about-logins-import-dialog-error-cancel = Pociep
+
 about-logins-import-report-title = Importuj podsumowanie
 about-logins-import-report-description = Dane logowanio i hasła sōm importniynte do aplikacyje { -brand-short-name }.
+
 #
 # Variables:
 #  $number (number) - The number of the row

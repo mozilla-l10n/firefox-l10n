@@ -14,11 +14,15 @@ about-config-intro-warning-button = Akceptuja ryzyko i chca kōntynuować
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Zmiana tyj kōnfiguracyje może pogorszyć wydajność abo bezpieczyństwo { -brand-short-name }.
+
 about-config-page-title = Zaawansowano kōnfiguracyjo
+
 about-config-search-input1 =
     .placeholder = Szukej po mianie kōnfiguracyje
 about-config-show-all = Pokoż wszyske
+
 about-config-show-only-modified = Pokoż ino pozmiyniane preferyncyje
+
 about-config-pref-add-button =
     .title = Przidej
 about-config-pref-toggle-button =

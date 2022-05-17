@@ -71,6 +71,7 @@ app-basics-location-service-key-google = Klucz usugi Google Location Service
 app-basics-safebrowsing-key-google = Klucz usugi Google Safebrowsing
 app-basics-key-mozilla = Klucz Mozilla Location Service
 app-basics-safe-mode = Tryb bezpieczyństwa
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Pokoż we Finderze
