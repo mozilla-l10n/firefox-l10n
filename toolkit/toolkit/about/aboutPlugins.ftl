@@ -23,3 +23,6 @@ no-plugins-are-installed-label = Akuna plaga efakweko
 mime-type-label = Umhlobo weMIME
 description-label = Ihlathululo
 suffixes-label = Ngezelela
+
+## Gecko Media Plugins (GMPs)
+

@@ -129,12 +129,6 @@ language-popup-label =
 
 download-dictionaries-link = Khuphela iinhlathululimezwi Ezinye
 
-format-description = Tjhugulula indlela yomtlolo nokuphatheka
-
-send-options-label =
-    .label = Ikhetho Lokuthumela...
-    .accesskey = I
-
 autocomplete-description = Nawuthumela imilayezo, qala imitlolo efanako ku:
 
 ab-label =
@@ -171,4 +165,6 @@ email-picker-label =
 
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

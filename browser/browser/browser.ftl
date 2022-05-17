@@ -106,6 +106,7 @@ urlbar-go-button =
 
 bookmarks-sidebar-content =
     .aria-label = Amatshwayo weencwadi
+
 bookmarks-toolbar-menu =
     .label = Isivalo sethulusi lamatshwayo weencwadi
 bookmarks-toolbar-placeholder =
@@ -126,10 +127,6 @@ bookmarks-toolbar-placeholder-button =
 
 
 ## More items
-
-more-menu-go-offline =
-    .label = Sebenza Ngaphandle
-    .accesskey = s
 
 ## EME notification panel
 
@@ -152,6 +149,7 @@ more-menu-go-offline =
 popups-infobar-allow =
     .label = Vumela ama { $uriHost } weposo ewelako
     .accesskey = p
+
 popups-infobar-block =
     .label = Vimba ama { $uriHost } weposo ewelako
     .accesskey = p
@@ -173,8 +171,10 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Khuphela
+
 navbar-search =
     .title = Rhubhulula
+
 tabs-toolbar-new-tab =
     .label = Okutjha Isitjhidisi
 
