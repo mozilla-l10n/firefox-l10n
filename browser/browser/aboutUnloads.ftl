@@ -7,19 +7,6 @@
 ### feature.
 
 about-unloads-page-title = Вивантаження вкладки
-about-unloads-intro-1 =
-    { -brand-short-name } може автоматично вивантажувати з пам'яті вкладки,
-    щоб запобігти збою програми через брак системної пам'яті, коли це необхідно.
-    Вкладка для вивантаження обирається на основі багатьох властивостей.
-    Ця сторінка показує, як { -brand-short-name } пріоритизує вкладки та яку вкладку
-    буде вивантажено під час спрацювання цієї функції.
-about-unloads-intro-2 =
-    Наявні вкладки перелічені в таблиці нижче за пріоритетом, що використовує
-    { -brand-short-name } для вибору наступної вкладки для вивантаження.
-    Ідентифікатори процесів наведені <strong>жирним шрифтом</strong>, якщо
-    вони розміщують основну вкладку та <em>курсивом</em>, якщо процес
-    розподіляється між різними вкладками. Ви можете вручну ініціювати
-    вивантаження вкладки кнопкою <em>Вивантажити</em>, розташованою нижче.
 about-unloads-intro =
     { -brand-short-name } може автоматично вивантажувати з пам'яті вкладки,
     щоб запобігти збою програми через брак системної пам'яті, коли це необхідно.
@@ -27,15 +14,18 @@ about-unloads-intro =
     Ця сторінка показує, як { -brand-short-name } пріоритизує вкладки та яку вкладку
     буде вивантажено під час спрацювання цієї функції. Ви можете активувати
     вивантаження вкладки вручну натиснувши кнопку <em>Вивантажити</em> внизу.
+
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
     Докладніше про функцію <a data-l10n-name="doc-link">Вивантаження вкладок</a>
     і цю сторінку.
+
 about-unloads-last-updated = Востаннє оновлено: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Вивантажити
     .title = Вивантажити вкладку з найвищим пріоритетом
 about-unloads-no-unloadable-tab = Немає вкладок для вивантаження.
+
 about-unloads-column-priority = Пріоритет
 about-unloads-column-host = Вузол
 about-unloads-column-last-accessed = Останній доступ
@@ -47,6 +37,7 @@ about-unloads-column-memory = Пам'ять
     .title = Розраховане споживання пам'яті вкладкою
 about-unloads-column-processes = Ідентифікатори процесів
     .title = Ідентифікатори процесів вмісту розміщеної вкладки
+
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } МБ
 about-unloads-memory-in-mb-tooltip =

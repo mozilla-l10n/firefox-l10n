@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Кількість знаходжень цієї функції в стеку, коли Profiler зробив замір.">
 <!ENTITY performanceUI.table.function                 "Функція">
 <!ENTITY performanceUI.table.function.tooltip         "Назва і розташування джерела виміряної функції.">
-<!ENTITY performanceUI.table.totalAlloc               "Всього виміряних алокацій">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Загальна кількість виміряних алокацій об'єкта в цьому розташуванні та у викликаних методах.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

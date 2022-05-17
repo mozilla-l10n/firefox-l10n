@@ -38,16 +38,11 @@ menu-quit =
             [windows] й
            *[other] В
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Вийти з { -brand-shorter-name }
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Вийти з { -brand-shorter-name }
+
 menu-about =
     .label = Про { -brand-shorter-name }
     .accesskey = о
@@ -77,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Відкрити файл…
     .accesskey = а
-menu-file-close =
-    .label = Закрити
-    .accesskey = к
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 menu-file-close-tab =
@@ -106,9 +98,6 @@ menu-file-share-url =
 menu-file-print-setup =
     .label = Параметри сторінки…
     .accesskey = П
-menu-file-print-preview =
-    .label = Попередній перегляд
-    .accesskey = г
 menu-file-print =
     .label = Друкувати…
     .accesskey = к
@@ -321,9 +310,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = к
 menu-help-report-site-issue =
     .label = Проблема з сайтом…
-menu-help-feedback-page =
-    .label = Надіслати відгук…
-    .accesskey = Н
 menu-help-share-ideas =
     .label = Поділіться ідеями та відгуком…
     .accesskey = о

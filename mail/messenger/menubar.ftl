@@ -8,14 +8,10 @@ toolbar-context-menu-menu-bar =
 
 ## Tools Menu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-menu-tools-preferences =
-    .label = Налаштування
-    .accesskey = Н
 menu-tools-settings =
     .label = Налаштування
     .accesskey = а
+
 menu-addons-and-themes =
     .label = Додатки й теми
     .accesskey = о
@@ -25,9 +21,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Режим усунення проблем…
     .accesskey = Р
+
 menu-help-exit-troubleshoot-mode =
     .label = Вимкнути режим усунення проблем
     .accesskey = В
+
 menu-help-more-troubleshooting-info =
     .label = Додаткова інформація про режим усунення проблем
     .accesskey = Д
@@ -58,15 +56,19 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Щільність
     .accesskey = і
+
 mail-uidensity-compact =
     .label = Компактна
     .accesskey = К
+
 mail-uidensity-normal =
     .label = Звичайна
     .accesskey = З
+
 mail-uidensity-touch =
     .label = Дотик
     .accesskey = о
+
 menu-spaces-toolbar-button =
     .label = Панель Місць
     .accesskey = о

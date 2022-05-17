@@ -10,28 +10,10 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                  "Менеджер діяльності">
 
-<!ENTITY cmd.pause.label                  "Пауза">
-<!ENTITY cmd.pause.accesskey              "П">
-<!ENTITY cmd.resume.label                 "Відновити">
-<!ENTITY cmd.resume.accesskey             "В">
-<!ENTITY cmd.cancel.label                 "Скасувати">
-<!ENTITY cmd.cancel.accesskey             "С">
-<!ENTITY cmd.undo.label                   "Скасувати">
-<!ENTITY cmd.undo.accesskey               "В">
-<!ENTITY cmd.recover.label                "Відновити">
-<!ENTITY cmd.recover.accesskey            "в">
-<!ENTITY cmd.retry.label                  "Спробувати знову">
-<!ENTITY cmd.retry.accesskey              "з">
-<!ENTITY cmd.removeFromList.label         "Вилучити зі списку">
-<!ENTITY cmd.removeFromList.accesskey     "и">
-
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Очистити список">
 <!ENTITY cmd.clearList.tooltip            "Вилучає завершені, скасовані та завершені невдало елементи зі списку">
 <!ENTITY cmd.clearList.accesskey          "ч">
-<!ENTITY cmd.find.commandkey              "f">
-<!ENTITY cmd.search.commandkey            "k">
 
-<!ENTITY searchBox.label                  "Пошук…">

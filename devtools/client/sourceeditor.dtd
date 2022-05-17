@@ -18,5 +18,4 @@
   - documentation on web development on the web. -->
 
 <!ENTITY gotoLineCmd.label         "Перейти на рядок…">
-<!ENTITY gotoLineCmd.key           "J">
 <!ENTITY gotoLineCmd.accesskey     "р">

@@ -10,4 +10,3 @@ add-on-search-alternative-button-label = Знайти альтернативни
 atn-addons-heading-search-input =
     .placeholder = Шукати на addons.thunderbird.net
 
-sidebar-preferences-button-title = Налаштування { -brand-short-name }

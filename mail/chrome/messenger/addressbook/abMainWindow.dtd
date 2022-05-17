@@ -111,6 +111,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "С">
 <!ENTITY newlistButton.label                            "Створити список">
 <!ENTITY newlistButton.accesskey                        "С">
+
 <!ENTITY showAsDefault.label                            "Типовий початковий каталог">
 <!ENTITY showAsDefault.accesskey                        "п">
 <!ENTITY editPropertiesButton.label                     "Змінити">
