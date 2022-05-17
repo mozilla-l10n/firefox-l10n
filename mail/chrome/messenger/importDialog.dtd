@@ -32,9 +32,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "Filter">
 <!ENTITY importFilters.accesskey  "F">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "&brandShortName;s guide för att importera e-post">
 <!ENTITY importShortDesc.label    "Importerar e-post, adressböcker, inställningar och filter från andra program">
 

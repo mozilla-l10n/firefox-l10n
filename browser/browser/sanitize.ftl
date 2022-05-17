@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Data
 
-item-site-preferences =
-    .label = Platsspecifika inställningar
-    .accesskey = P
-
 item-site-settings =
     .label = Webbplatsinställningar
     .accesskey = W

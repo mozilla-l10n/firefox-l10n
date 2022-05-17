@@ -23,9 +23,6 @@
 <!ENTITY inReplyToField.label "Som svar till: ">
 <!ENTITY originalWebsite.label "Webbplats: ">
 
-<!ENTITY editMessage.label                 "Redigera utkast…">
-<!ENTITY editMessage.accesskey             "u">
-
 <!ENTITY editDraft.label                   "Redigera utkast…">
 <!ENTITY editDraft.accesskey               "u">
 <!ENTITY editTemplate.label                "Redigera mall…">

@@ -21,5 +21,4 @@
 
 
 <!ENTITY gotoLineCmd.label         "Gå till rad…">
-<!ENTITY gotoLineCmd.key           "J">
 <!ENTITY gotoLineCmd.accesskey     "G">

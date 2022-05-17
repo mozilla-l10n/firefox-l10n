@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "F">
 <!ENTITY newVirtualFolderCmd.label "Ny sparad sökning…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
-<!ENTITY newOtherAccountsCmd.label "Annat konto…">
-<!ENTITY newOtherAccountsCmd.accesskey "k">
 <!ENTITY newCreateEmailAccountCmd.label "Skapa ett nytt e-postkonto…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "S">
 <!ENTITY newExistingEmailAccountCmd.label "Existerande e-postkonto…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "s">
 <!ENTITY saveAsMenu.label "Spara som">
 <!ENTITY saveAsMenu.accesskey "m">
-<!ENTITY saveAsFileCmd.label "Fil">
-<!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Mall">
 <!ENTITY saveAsTemplateCmd.accesskey "M">

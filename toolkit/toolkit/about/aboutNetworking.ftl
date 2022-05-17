@@ -20,7 +20,6 @@ about-networking-ssl = SSL
 about-networking-active = Aktiv
 about-networking-idle = Vilande
 about-networking-host = Värd
-about-networking-tcp = TCP
 about-networking-type = Typ
 about-networking-sent = Skickat
 about-networking-received = Mottaget

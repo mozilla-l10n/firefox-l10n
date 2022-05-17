@@ -22,6 +22,7 @@ about-addressbook-toolbar-import =
 ## Books
 
 all-address-books = Alla adressböcker
+
 about-addressbook-books-context-properties =
     .label = Egenskaper
 about-addressbook-books-context-synchronize =
@@ -36,6 +37,7 @@ about-addressbook-books-context-remove =
     .label = Ta bort
 about-addressbook-books-context-startup-default =
     .label = Standardstartkatalog
+
 about-addressbook-confirm-delete-book-title = Ta bort adressbok
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -53,14 +55,17 @@ about-addressbook-search =
     .placeholder = Sök i { $name }
 about-addressbook-search-all =
     .placeholder = Sök i alla adressböcker
+
 about-addressbook-sort-button =
     .title = Ändra listordningen
+
 about-addressbook-name-format-display =
     .label = Visningsnamn
 about-addressbook-name-format-firstlast =
     .label = Förnamn Efternamn
 about-addressbook-name-format-lastfirst =
     .label = Efternamn, Förnamn
+
 about-addressbook-sort-name-ascending =
     .label = Sortera efter namn (A > Ö)
 about-addressbook-sort-name-descending =
@@ -69,8 +74,10 @@ about-addressbook-sort-email-ascending =
     .label = Sortera efter e-postadress (A > Ö)
 about-addressbook-sort-email-descending =
     .label = Sortera efter e-postadress (Ö > A)
+
 about-addressbook-cards-context-write =
     .label = Skriv meddelande
+
 about-addressbook-confirm-delete-mixed-title = Ta bort kontakter och listor
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -128,11 +135,13 @@ about-addressbook-begin-edit-contact-button = Redigera
 about-addressbook-delete-edit-contact-button = Ta bort
 about-addressbook-cancel-edit-contact-button = Avbryt
 about-addressbook-save-edit-contact-button = Spara
+
 about-addressbook-details-email-addresses-header = E-postadresser
 about-addressbook-details-phone-numbers-header = Telefonnummer
 about-addressbook-details-home-address-header = Hemadresser
 about-addressbook-details-work-address-header = Arbetsadress
 about-addressbook-details-other-info-header = Annan information
+
 about-addressbook-unsaved-changes-prompt-title = Osparade ändringar
 about-addressbook-unsaved-changes-prompt = Vill du spara dina ändringar innan du lämnar redigeringsvyn?
 
@@ -142,6 +151,7 @@ about-addressbook-photo-drop-target = Släpp eller klistra in ett foto här, ell
 about-addressbook-photo-drop-loading = Laddar foto…
 about-addressbook-photo-drop-error = Det gick inte att ladda fotot.
 about-addressbook-photo-filepicker-title = Välj en bildfil
+
 about-addressbook-photo-discard = Ignorera befintligt foto
 about-addressbook-photo-cancel = Avbryt
 about-addressbook-photo-save = Spara

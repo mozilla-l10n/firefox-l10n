@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = Öppna med { -brand-short-name }
     .accesskey = n
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Inställningarna kan ändras i { -brand-short-name }s Inställningar.
            *[other] Inställningarna kan ändras i { -brand-short-name }s Inställningar.
         }
+
 unknowncontenttype-intro = Du har valt att öppna:
 unknowncontenttype-which-is = som är en fil av typen:
 unknowncontenttype-from = från:
