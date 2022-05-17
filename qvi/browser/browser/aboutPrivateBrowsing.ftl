@@ -6,3 +6,5 @@ privatebrowsingpage-open-private-window-label = Shuk Shukllayay tukuta paskay
     .accesskey = S
 about-private-browsing-not-private = Kunanpi kanka na shuk shukllayay tukupi kankichu.
 
+## The following strings will be used for experiments in Fx99 and Fx100
+
