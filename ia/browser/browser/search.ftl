@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = Error de installation
 opensearch-error-duplicate-desc = { -brand-short-name } non poteva installar le plugin de cerca ab “{ $location-url }” proque jam existe un motor con le mesme nomine.
+
 opensearch-error-format-title = Formato invalide
 opensearch-error-format-desc = { -brand-short-name } non poteva installar le motor de recerca ab: { $location-url }
+
 opensearch-error-download-title = Error a discargar
 opensearch-error-download-desc = { -brand-short-name } non poteva discargar le plugin de cerca ab: { $location-url }
 
@@ -19,9 +21,11 @@ opensearch-error-download-desc = { -brand-short-name } non poteva discargar le p
 
 searchbar-submit =
     .tooltiptext = Submitter cerca
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Cercar
+
 searchbar-icon =
     .tooltiptext = Cercar
 
@@ -30,6 +34,5 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-remove-search-engine-message = <strong>Tu motor de recerca predefinite ha essite cambiate.</strong> { -brand-short-name } non supporta plus { $oldEngine }. { $newEngine } es ora tu motor de recerca predefinite. Pro cambiar a un altere predefinite motor de recerca, vade a parametros. <label data-l10n-name="remove-search-engine-article">Pro saper plus</label>
 removed-search-engine-message = <strong>Tu motor de recerca predefinite ha essite cambiate.</strong> { $oldEngine } non es plus disponibile como motor de recerca predefinite in { -brand-short-name }. { $newEngine } es ora tu motor de recerca predefinite. Pro cambiar a un altere motor de recerca predefinite, vade a parametros. <label data-l10n-name="remove-search-engine-article">Pro saper plus</label>
 remove-search-engine-button = OK

@@ -54,6 +54,7 @@ close-tab =
     .title = Clauder scheda
 show-addon =
     .title = Monstrar in le gestor de additivos
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

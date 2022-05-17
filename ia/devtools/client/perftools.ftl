@@ -42,16 +42,15 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Dimension del buffer:
+
 perftools-custom-threads-label = Adder filos personalisate per nomine:
+
 perftools-devtools-interval-label = Intervallo:
 perftools-devtools-threads-label = Filos:
 perftools-devtools-settings-label = Parametros
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
-perftools-status-private-browsing-notice =
-    Le profilator es disactivate quando le navigation private es active.
-    Claude tote le fenestras private pro reactivar le profilator.
 perftools-status-recording-stopped-by-another-tool = Le registration ha essite interrumpite per un altere instrumento.
 perftools-status-restart-required = Le navigator debe esser reinitiate pro activar iste function.
 
@@ -101,6 +100,7 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Ignorar selectiones supra e memorar tote le filos registrate
+
 perftools-tools-threads-input-label =
     .title = Iste nomines de filo forma un lista separate per commas que es usate pro activar le profilation del filos in le profilator. Es sufficiente un correspondentia partial con le nomine del filo a includer. Le spatios es significative.
 
@@ -108,9 +108,14 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## devtools.performance.new-panel-onboarding preference is true.
+
 perftools-onboarding-message = <b>Nove</b>: { -profiler-brand-name } es ora integrate in Utensiles de disveloppator. <a>Saper plus</a> re iste potente nove instrumento.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Pro un tempore limitate, tu pote acceder al quadro original Prestation via <a>{ options-context-advanced-settings }</a>)
+
 perftools-onboarding-close-button =
     .aria-label = Clauder le message introductive
 
@@ -123,21 +128,19 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Disveloppamento web
 perftools-presets-web-developer-description = Pre-configuration recommendate pro le depuration del major parte de applicationes web, con poc supercarga.
-perftools-presets-firefox-platform-label = Platteforma Firefox
-perftools-presets-firefox-platform-description = Pre-configuration recommendate pro le depuration del platteforma interne Firefox.
-perftools-presets-firefox-front-end-label = Interfacie de Firefox
-perftools-presets-firefox-front-end-description = Pre-configuration recommendate pro le depuration interne del interfacie de Firefox.
-perftools-presets-firefox-graphics-label = Graphica de Firefox
-perftools-presets-firefox-graphics-description = Pre-configuration recommendate pro le investigation del prestation graphic de Firefox.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Pre-configuration recommendate pro profilar { -brand-shorter-name }.
+
 perftools-presets-graphics-label = Graphica
 perftools-presets-graphics-description = Pre-configuration pro investigar errores de graphica in { -brand-shorter-name }.
+
 perftools-presets-media-label = Multimedia
-perftools-presets-media-description = Pre-configuration recommendate pro diagnosticar problemas audio e video.
 perftools-presets-media-description2 = Pre-configuration pro investigar errores audio e video in { -brand-shorter-name }.
+
 perftools-presets-networking-label = Rete
 perftools-presets-networking-description = Pre-configuration pro investigar errores de rete in { -brand-shorter-name }.
+
 perftools-presets-custom-label = Personalisate
 
 ##

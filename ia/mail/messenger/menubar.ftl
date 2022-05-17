@@ -8,14 +8,10 @@ toolbar-context-menu-menu-bar =
 
 ## Tools Menu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-menu-tools-preferences =
-    .label = Preferentias
-    .accesskey = P
 menu-tools-settings =
     .label = Parametros
     .accesskey = a
+
 menu-addons-and-themes =
     .label = Additivos e themas
     .accesskey = A
@@ -25,9 +21,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Modo diagnostic…
     .accesskey = M
+
 menu-help-exit-troubleshoot-mode =
     .label = Disactivar le modo diagnostic
     .accesskey = D
+
 menu-help-more-troubleshooting-info =
     .label = Altere informationes diagnostic
     .accesskey = A
@@ -58,15 +56,19 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Densitate
     .accesskey = D
+
 mail-uidensity-compact =
     .label = Compactar
     .accesskey = C
+
 mail-uidensity-normal =
     .label = Normal
     .accesskey = N
+
 mail-uidensity-touch =
     .label = Tactile
     .accesskey = T
+
 menu-spaces-toolbar-button =
     .label = Barra del spatios
     .accesskey = s

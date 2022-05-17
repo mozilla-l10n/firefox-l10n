@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Function recommendate
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Proque vide io isto?
+
 cfr-doorhanger-extension-cancel-button = Non ora
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Adder ora
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = Gerer le configurationes de recommendation
     .accesskey = G
+
 cfr-doorhanger-extension-never-show-recommendation = Non monstrar me iste recommendation
     .accesskey = N
+
 cfr-doorhanger-extension-learn-more-link = Saper plus
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = per { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recommendation
 cfr-doorhanger-extension-notification2 = Recommendation
     .tooltiptext = Extension recommendate
     .a11y-announcement = Un recommendation pro un extension es disponibile
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recommendation
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Saper plus
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nove function:
+
 cfr-whatsnew-button =
     .label = Novas
     .tooltiptext = Novas
+
 cfr-whatsnew-release-notes-link-text = Leger le notas de version
 
 ## Enhanced Tracking Protection Milestones

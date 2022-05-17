@@ -4,8 +4,10 @@
 
 account-settings-title = Parametros de authentication
 account-channel-title = Canales predefinite
+
 chat-autologin =
     .label = Authentication al initio
+
 chat-encryption-generic = Generic
 chat-encryption-log =
     .label = includer messages cryptate extremo-a-extremo in le registros de conversation

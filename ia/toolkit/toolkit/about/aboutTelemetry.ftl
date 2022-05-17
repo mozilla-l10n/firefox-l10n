@@ -34,7 +34,6 @@ about-telemetry-events-section = Eventos
 about-telemetry-simple-measurements-section = Mesuras simple
 about-telemetry-slow-sql-section = Instructiones SQL lente
 about-telemetry-addon-details-section = Detalios del additivo
-about-telemetry-captured-stacks-section = Pilas capturate
 about-telemetry-late-writes-section = Scripturas tarde
 about-telemetry-raw-payload-section = Carga brute
 about-telemetry-raw = JSON brute
@@ -121,10 +120,6 @@ about-telemetry-addon-provider = Fornitor { $addonProvider }
 about-telemetry-keys-header = Proprietate
 about-telemetry-names-header = Nomine
 about-telemetry-values-header = Valor
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (conto de captura: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Scriptura tarde #{ $lateWriteCount }

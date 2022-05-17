@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Saper plus">
 
 <!ENTITY e2eEnc.description "Sin cryptographia testa a testa le contentos de messages es facilemente exponite a tu fornitor de email e a surveliantia de massa.">
-<!ENTITY e2eeReqWarning.description "Si tu require cryptographia, pro inviar un message tu debe haber le clave public o le certificato de cata destinatario.">
 
-<!ENTITY e2eSigning.description "Un firma digital consenti al destinatarios de verificar que le message ha essite inviate per tu e que le contento non ha essite cambiate.">
 <!ENTITY e2eTechPref.description "Technologia de cryptographia preferite:">
 
-<!ENTITY doNotEncrypt.label "Non activar le cryptographia per defecto">
-<!ENTITY doNotEncrypt.accesskey "N">
-<!ENTITY requireEncryptMessage.label "Exiger le cryptographia per defecto">
-<!ENTITY requireEncryptMessage.accesskey "d">
 <!ENTITY encryptionCert2.message "Certificato personal pro le cryptographia:">
 <!ENTITY digitalSign.certificate.button "Seliger…">
 <!ENTITY digitalSign.certificate.accesskey "S">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Vacuar">
 <!ENTITY encryption.certificate_clear.accesskey "a">
 <!ENTITY signingGroupTitle.label "Signatura digital">
-<!ENTITY signMessage2.label "Adder mi signatura digital per predefinition">
-<!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert2.message "Certificato personal pro signatura digital:">
 
 <!ENTITY sendingDefaults.label "Parametros predefinite pro inviar messages">

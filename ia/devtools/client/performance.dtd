@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Le numero de vices que iste function era in le pila quando le analysator de rendimento prendeva un specimen.">
 <!ENTITY performanceUI.table.function                 "Function">
 <!ENTITY performanceUI.table.function.tooltip         "Le nomine e le adresse del codice fonte del function prendite.">
-<!ENTITY performanceUI.table.totalAlloc               "Total de allocationes prendite">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Le numero total de allocationes de objectos prendite a iste loco e in appellates.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

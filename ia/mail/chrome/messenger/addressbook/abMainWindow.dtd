@@ -111,6 +111,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "c">
 <!ENTITY newlistButton.label                            "Nove lista">
 <!ENTITY newlistButton.accesskey                        "l">
+
 <!ENTITY showAsDefault.label                            "Directorio initial">
 <!ENTITY showAsDefault.accesskey                        "i">
 <!ENTITY editPropertiesButton.label                     "Rediger">

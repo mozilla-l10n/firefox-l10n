@@ -10,28 +10,10 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                  "Gestor de activitate">
 
-<!ENTITY cmd.pause.label                  "Pausar">
-<!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Resumer">
-<!ENTITY cmd.resume.accesskey             "R">
-<!ENTITY cmd.cancel.label                 "Cancellar">
-<!ENTITY cmd.cancel.accesskey             "C">
-<!ENTITY cmd.undo.label                   "Disfacer">
-<!ENTITY cmd.undo.accesskey               "D">
-<!ENTITY cmd.recover.label                "Recuperar">
-<!ENTITY cmd.recover.accesskey            "p">
-<!ENTITY cmd.retry.label                  "Retentar">
-<!ENTITY cmd.retry.accesskey              "R">
-<!ENTITY cmd.removeFromList.label         "Remover del lista">
-<!ENTITY cmd.removeFromList.accesskey     "e">
-
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Rader le lista">
 <!ENTITY cmd.clearList.tooltip            "Remove entratas terminate, cancellate e fallite del lista">
 <!ENTITY cmd.clearList.accesskey          "t">
-<!ENTITY cmd.find.commandkey              "f">
-<!ENTITY cmd.search.commandkey            "c">
 
-<!ENTITY searchBox.label                  "Cercar…">

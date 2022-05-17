@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Altere adresse email:">
 <!ENTITY SecondEmail.accesskey          "e">
-<!ENTITY PreferMailFormat.label         "Preferer reciper messages formattate como:">
-<!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "Texto simple">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Incognite">
