@@ -28,3 +28,4 @@ openpgp-key-undecided = 허용되지 않음 (미정)
 openpgp-key-rejected = 허용되지 않음 (거부 됨)
 
 openpgp-intro = { $key }에 사용 가능한 공개 키
+

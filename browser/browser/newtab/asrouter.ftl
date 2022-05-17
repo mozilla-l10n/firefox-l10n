@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = 추천 기능
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = 왜 이게 나왔나요
+
 cfr-doorhanger-extension-cancel-button = 나중에
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = 지금 추가
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = 추천 설정 관리
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = 이 추천을 표시하지 않음
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = 더 알아보기
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } 제작
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = 추천
 cfr-doorhanger-extension-notification2 = 추천
     .tooltiptext = 확장 기능 추천
     .a11y-announcement = 확장 기능 추천 사용 가능
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = 추천
@@ -75,9 +83,11 @@ cfr-protections-panel-link-text = 더 알아보기
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = 새 기능:
+
 cfr-whatsnew-button =
     .label = 새 기능
     .tooltiptext = 새 기능
+
 cfr-whatsnew-release-notes-link-text = 출시 정보 읽기
 
 ## Enhanced Tracking Protection Milestones

@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "더 알아보기">
 
 <!ENTITY e2eEnc.description "종단간 암호화가 없으면 메시지 내용이 전자 메일 공급자 및 대중 사찰에 쉽게 노출됩니다.">
-<!ENTITY e2eeReqWarning.description "암호화가 필요한 경우 메시지를 보내려면 모든 수신자의 공개 키 또는 인증서가 있어야 합니다.">
 
-<!ENTITY e2eSigning.description "디지털 서명을 사용하면 수신자가 메시지를 보냈으며 내용이 변경되지 않았음을 확인할 수 있습니다.">
 <!ENTITY e2eTechPref.description "선호하는 암호화 기술:">
 
-<!ENTITY doNotEncrypt.label "기본적으로 암호화를 활성화하지 않음">
-<!ENTITY doNotEncrypt.accesskey "N">
-<!ENTITY requireEncryptMessage.label "기본적으로 암호화를 필요로 함">
-<!ENTITY requireEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert2.message "암호화를 위한 개인 인증서:">
 <!ENTITY digitalSign.certificate.button "선택…">
 <!ENTITY digitalSign.certificate.accesskey "S">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "제거">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "디지털 서명">
-<!ENTITY signMessage2.label "기본적으로 내 디지털 서명 추가">
-<!ENTITY signMessage.accesskey "D">
 
 <!ENTITY signingCert2.message "디지털 서명을 위한 개인 인증서:">
 

@@ -34,7 +34,6 @@ about-telemetry-events-section = 이벤트
 about-telemetry-simple-measurements-section = 단순 측정
 about-telemetry-slow-sql-section = 느린 SQL 문
 about-telemetry-addon-details-section = 부가 기능 상세 정보
-about-telemetry-captured-stacks-section = 스택 캡처
 about-telemetry-late-writes-section = 최종 작성
 about-telemetry-raw-payload-section = 원시 페이로드
 about-telemetry-raw = 원시 JSON
@@ -120,10 +119,6 @@ about-telemetry-addon-provider = { $addonProvider } 공급자
 about-telemetry-keys-header = 속성
 about-telemetry-names-header = 이름
 about-telemetry-values-header = 값
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (캡쳐 수: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = 최종 작성- #{ $lateWriteCount }번

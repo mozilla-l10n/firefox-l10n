@@ -56,8 +56,6 @@ inactive-css-not-grid-or-flex-container-fix = <strong>display:grid</strong> 또�
 
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = <strong>display:grid</strong>나 <strong>display:flex</strong>, <strong>columns:2</strong>를 추가해보세요. { learn-more }
 
-inactive-css-not-grid-or-flex-item-fix-2 = <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, 또는 <strong>display:inline-flex</strong>를 추가해보세요. { learn-more }
-
 inactive-css-not-grid-or-flex-item-fix-3 = <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, 또는 <strong>display:inline-flex</strong>를 요소의 부모에 추가해보세요. { learn-more }
 
 inactive-css-not-grid-item-fix-2 = <strong>display:grid</strong> 또는 <strong>display:inline-grid</strong>를 요소의 부모에 추가해보세요. { learn-more }

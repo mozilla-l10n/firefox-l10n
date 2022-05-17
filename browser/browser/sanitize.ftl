@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = 데이터
 
-item-site-preferences =
-    .label = 사이트 설정
-    .accesskey = S
-
 item-site-settings =
     .label = 사이트 설정
     .accesskey = S

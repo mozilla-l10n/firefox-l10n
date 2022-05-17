@@ -225,6 +225,7 @@ openpgp-key-man-key-details-key =
 
 openpgp-key-details-title =
     .title = 키 속성
+
 openpgp-key-details-signatures-tab =
     .label = 인증
 openpgp-key-details-structure-tab =
@@ -237,6 +238,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = 형식
 openpgp-key-details-key-part-label =
     .label = 키 부분
+
 openpgp-key-details-algorithm-label =
     .label = 알고리즘
 openpgp-key-details-size-label =
@@ -253,7 +255,6 @@ openpgp-key-details-fingerprint-label = 지문
 openpgp-key-details-sel-action =
     .label = 작업 선택…
     .accesskey = S
-openpgp-key-details-also-known-label = 주요 소유자의 주장 된 대체 신분 :
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = 닫기
 openpgp-acceptance-label =
@@ -269,7 +270,6 @@ openpgp-acceptance-verified-label =
 key-accept-personal =
     이 키에는 공개 부분과 비밀 부분이 모두 있습니다. 개인 키로 사용할 수 있습니다.
     이 키를 다른 사람이 제공 한 경우 개인 키로 사용하지 마세요.
-key-personal-warning = 이 키를 직접 만들었습니까? 표시된 키 소유권은 자신을 나타 냅니까?
 openpgp-personal-no-label =
     .label = 아니요, 개인 키로 사용하지 마세요.
 openpgp-personal-yes-label =
@@ -279,14 +279,6 @@ openpgp-copy-cmd-label =
     .label = 복사
 
 ## e2e encryption settings
-
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $identity (String) - the email address of the currently selected identity
-openpgp-description =
-    { $count ->
-        [0] Thunderbird가 <b>{ $identity }</ b>와 연결된 OpenPGP 키를 찾지 못했습니다.
-       *[other] Thunderbird가 <b>{ $identity }</ b>와 연결된 OpenPGP 키 { $count }개를 찾았습니다.
-    }
 
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = 현재 구성은 만료 된 <b>{ $key }</b> 키를 사용합니다.
@@ -352,15 +344,12 @@ key-expired-date = 키가 { $keyExpiry }에 만료됨
 key-expired-simple = 키가 만료됨
 key-revoked-simple = 키 폐기됨
 key-do-you-accept = 디지털 서명 확인 및 메시지 암호화를 위해 이 키를 수락합니까?
-key-accept-warning = 문제 있는 키를 받아들이지 마세요. 이메일 이외의 통신 채널을 사용하여 상대방 키의 지문을 확인하시기 바랍니다.
 
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = 개인 키에 문제가 있어 메시지를 보낼 수 없습니다. { $problem }
 cannot-encrypt-because-missing = 다음 수신자의 키에 문제가 있어 종단 간 암호화로 이 메시지를 보낼 수 없습니다. { $problem }
 window-locked = 작성 창이 잠겨 있습니다. 전송 취소
 
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = 암호화 된 메시지 부분
 mime-decrypt-encrypted-part-concealed-data = 이것은 암호화 된 메시지 부분입니다. 첨부 파일을 클릭하여 별도의 창에서 열어야합니다.
 
 # Strings in keyserver.jsm
@@ -386,27 +375,6 @@ converter-decrypt-body-failed =
     제목이 있는 메시지를 복호화할 수 없습니다.
     { $subject }.
     다른 암호로 다시 시도 하시겠습니까, 아니면 메시지를 건너 뛰시겠습니까?
-
-# Strings in gpg.jsm
-unknown-signing-alg = 알 수 없는 서명 알고리즘 (ID : { $id })
-unknown-hash-alg = 알 수 없는 암호화 해시 (ID : { $id })
-
-# Strings in keyUsability.jsm
-expiry-key-expires-soon =
-    { $desc } 키가 { $days } 일 이내에 만료됩니다.
-    새 키 페어를 생성하고 이를 사용하도록 해당 계정을 구성하는 것이 좋습니다.
-expiry-keys-expire-soon =
-    다음 키는 { $days } 일 이내에 만료됩니다. { $desc }.
-    새 키를 생성하고 이를 사용하도록 해당 계정을 구성하는 것이 좋습니다.
-expiry-key-missing-owner-trust =
-    비밀 키 { $desc }에 신뢰가 없습니다.
-    주요 속성에서 "인증 의존함"을 "완전히 신뢰함"으로 설정하는 것이 좋습니다.
-expiry-keys-missing-owner-trust =
-    다음 비밀 키에 신뢰가 없습니다.
-    { $desc }.
-    주요 속성에서 "인증 의존함"을 "완전히 신뢰함"으로 설정하는 것이 좋습니다.
-expiry-open-key-manager = OpenPGP 키 관리자 열기
-expiry-open-key-properties = 키 속성 열기
 
 # Strings filters.jsm
 filter-folder-required = 대상 폴더를 선택해야 합니다.
@@ -640,9 +608,6 @@ send-to-news-warning =
     이는 그룹의 모든 구성원이 메시지를 복호화 할 수 있는 경우에만 의미가 있기 때문에 권장되지 않습니다. 즉, 메시지는 모든 그룹 참가자의 키로 암호화되어야 합니다. 수행 중인 작업을 정확히 알고 있는 경우에만이 메시지를 보내십시오.
     계속하시겠습니까?
 save-attachment-header = 복호화된 첨부 파일 저장
-no-temp-dir =
-    사용할 임시 디렉토리를 찾을 수 없음
-    TEMP 환경 변수를 설정하세요
 possibly-pgp-mime = PGP / MIME 암호화 또는 서명 된 메시지 일 수 있음: '복호화/ 검증'기능을 사용하여 확인하기
 cannot-send-sig-because-no-own-key = <{ $key }>에 대해 종단 간 암호화를 아직 구성하지 않았으므로 이 메시지에 디지털 서명 할 수 없음
 cannot-send-enc-because-no-own-key = <{ $key }>에 대한 종단 간 암호화를 아직 구성하지 않았으므로 이 메시지를 암호화하여 보낼 수 없음

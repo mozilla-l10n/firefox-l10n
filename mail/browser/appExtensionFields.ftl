@@ -7,5 +7,6 @@
 
 extension-thunderbird-compact-light-name = 밝은
 extension-thunderbird-compact-light-description = 밝은 색조합 테마입니다.
+
 extension-thunderbird-compact-dark-name = 어두운
 extension-thunderbird-compact-dark-description = 어두운 색조합 테마입니다.

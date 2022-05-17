@@ -123,12 +123,6 @@ openpgp-import-key-description = 다른 OpenPGP 소프트웨어로 생성 된 �
 
 openpgp-import-key-info = 다른 소프트웨어는 사용자 고유 키, 비밀 키, 개인 키 또는 키 페어와 같은 대체 용어를 사용하여 개인 키를 설명 할 수 있습니다.
 
-#   $count (Number) - the number of keys found in the selected files
-openpgp-import-key-list-amount =
-    { $count ->
-       *[other] Thunderbird가 가져올 수 있는 { $count } 키를 찾았습니다.
-    }
-
 openpgp-import-key-list-description = 개인 키로 취급 할 수 있는 키를 확인하십시오. 자신이 직접 생성하고 자신의 신원을 보여 주는 키만 개인 키로 사용해야 합니다. 나중에 키 속성 대화 상자에서 이 옵션을 변경할 수 있습니다.
 
 openpgp-import-key-list-caption = 개인 키로 취급되는 것으로 표시된 키는 종단 간 암호화 섹션에 나열됩니다. 나머지는 키 관리자에서 사용할 수 있습니다.

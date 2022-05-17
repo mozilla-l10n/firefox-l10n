@@ -162,9 +162,6 @@ restore-default-label =
     .accesskey = R
 
 default-search-engine = 기본 검색 엔진
-add-search-engine =
-    .label = 파일에서 추가
-    .accesskey = A
 remove-search-engine =
     .label = 삭제
     .accesskey = v
@@ -193,8 +190,6 @@ change-dock-icon = 앱 아이콘 설정 변경
 app-icon-options =
     .label = 독 아이콘 옵션…
     .accesskey = n
-
-notification-settings = 경고와 기본 소리는 시스템 환경설정의 알림에서 끌 수 있습니다.
 
 animated-alert-label =
     .label = 알림창 띄우기
@@ -392,14 +387,6 @@ quoted-text-color =
     .label = 색상:
     .accesskey = o
 
-type-column-label =
-    .label = 콘텐츠 형식
-    .accesskey = T
-
-action-column-label =
-    .label = 실행 방식
-    .accesskey = A
-
 save-to-label =
     .label = 저장 경로:
     .accesskey = S
@@ -552,12 +539,6 @@ restore-html-label =
 default-format-label =
     .label = 본문 서식 대신 단락 서식 사용
     .accesskey = P
-
-format-description = 텍스트 형식 설정
-
-send-options-label =
-    .label = 보내기 설정…
-    .accesskey = S
 
 autocomplete-description = 메일 주소가 내용과 일치:
 
@@ -841,8 +822,6 @@ theme-label =
     .value = 테마:
     .accesskey = T
 
-style-thunderbird =
-    .label = Thunderbird
 style-bubbles =
     .label = 거품
 style-dark =
@@ -862,13 +841,8 @@ chat-variant-label =
 
 ## Preferences UI Search Results
 
-search-results-header = 검색 결과
+## Settings UI Search Results
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] 죄송합니다! “<span data-l10n-name="query"></span>”설정에 대한 결과가 없습니다.
-       *[other] 죄송합니다! “<span data-l10n-name="query"></span>”설정에 대한 결과가 없습니다.
-    }
+search-results-header = 검색 결과
 
 search-results-help-link = 도움이 필요하세요? <a data-l10n-name="url">{ -brand-short-name } 지원</a>에 방문하세요.

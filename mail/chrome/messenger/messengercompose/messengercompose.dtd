@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "웹 페이지 첨부…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "명함(vCard) 추가">
-<!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY remindLater.label "나중에 확인">
 <!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "닫기">
@@ -148,16 +145,6 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "메일 전달 상태 확인">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY deliveryFormatMenu.label "전달 서식">
-<!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "자동 선택">
-<!ENTITY autoFormatCmd.accesskey "a">
-<!ENTITY plainTextFormatCmd.label "텍스트 형식으로">
-<!ENTITY plainTextFormatCmd.accesskey "p">
-<!ENTITY htmlFormatCmd.label "HTML 형식으로">
-<!ENTITY htmlFormatCmd.accesskey "r">
-<!ENTITY bothFormatCmd.label "텍스트와 HTML 형식으로">
-<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "중요도">
 <!ENTITY priorityMenu.accesskey "p">
 <!ENTITY priorityButton.title "중요도">
@@ -221,7 +208,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "다른 종류의 주소 필드">
 <!ENTITY fromAddr2.label "보내는사람">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY replyAddr2.label "회신 대상">

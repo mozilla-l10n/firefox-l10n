@@ -63,12 +63,6 @@ afterauth-private = { $name }의 신원을 확인하였습니다.
 #   $name (String) - the screen name of a chat contact person
 afterauth-unverified = { $name }의 신원이 아직 확인되지 않았습니다.
 
-verify-title = 연락처의 신원 확인
-error-title = 오류
-success-title = 종단간 암호화
-fail-title = 확인할 수 없음
-waiting-title = 확인 요청 전송됨
-
 # Do not translate 'OTR' (name of an encryption protocol)
 # Variables:
 #   $error (String) - contains an error message that describes the cause of the failure

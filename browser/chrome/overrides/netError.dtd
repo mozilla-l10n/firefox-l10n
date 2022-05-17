@@ -156,8 +156,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "이러한 오류를 보고하여 Mozilla가 악성 사이트를 식별하고 차단하는 것을 돕습니다.">
 <!ENTITY errorReporting.learnMore "더 알아보기…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "고급 정보: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -183,9 +181,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "네트워크 보안 설정이 원인일 수 있습니다. 기본 설정으로 복원하시겠습니까?">
 <!ENTITY prefReset.label "기본 설정으로 복원">
-
-<!ENTITY enableTls10.longDesc "이 웹 사이트는 &brandShortName;에서 지원하는 최소 버전인 TLS 1.2 프로토콜을 지원하지 않을 수 있습니다. TLS 1.0 및 TLS 1.1을 활성화하면 이 연결이 성공할 수 있습니다.">
-<!ENTITY enableTls10.note "TLS 1.0 및 TLS 1.1은 향후 출시에서 영구적으로 비활성화됩니다.">
-<!ENTITY enableTls10.label "TLS 1.0 및 1.1 활성화">
 
 <!ENTITY networkProtocolError.longDesc "<p>네트워크 프로토콜에 오류가 감지되어 페이지를 표시할 수 없습니다.</p><ul><li>웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.</li></ul>">
