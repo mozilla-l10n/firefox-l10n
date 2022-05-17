@@ -10,13 +10,6 @@
 <!-- Entities for Account Type page -->
 
 
-<!ENTITY accountTypeTitle.label "Ukwakha I-akhawundi etja">
-<!ENTITY accountTypeDirections.label "Khetha umhlobo we-akhawundi ozama ukuwakha:">
-<!ENTITY accountTypeMail.label "I-akhawundi ye-imeyili">
-<!ENTITY accountTypeMail.accesskey "i">
-<!ENTITY accountTypeNews.label "I-akhawundi yesichema seeNdaba">
-<!ENTITY accountTypeNews.accesskey "a">
-
 <!-- Entities for Identity page -->
 
 
@@ -40,13 +33,6 @@
 
 <!-- Entities for Incoming Server page -->
 
-<!ENTITY incomingServerTypeDesc.label "Khetha umhlobo esisetjenziswa esingenako osisebenzisako.">
-<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
-<!ENTITY imapType.label "IMAP">
-<!ENTITY imapType.accesskey "I">
-<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
-<!ENTITY popType.label "POP">
-<!ENTITY popType.accesskey "P">
 <!-- for when the user has an SMTP server pre-configured -->
 <!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
      this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
@@ -64,20 +50,8 @@
 
 <!-- Entities for Outgoing Server page -->
 
-<!ENTITY haveSmtp1.prefix "Isisetjenziswa esiphumako esikhona (SMTP), &quot;">
 <!-- Entities for Login page -->
 
-
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
--->
-<!ENTITY haveSmtp2.prefix "Ibizo lomsebenzisi osesekhona ,ophumako (SMTP), &quot;">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
--->
-<!ENTITY haveSmtp3.prefix "Isisetjenziswa esiphumako (SMTP), &quot;">
 
 <!-- Entities for Account name page -->
 
@@ -93,11 +67,5 @@
 
 <!ENTITY completionTitle.label "Siyakuthokozisa!">
 <!ENTITY completionText.label "Sibawa uqalisise bona imininingwane engaphasi ilungile.">
-<!ENTITY serverTypePrefix.label "Ihlobo lesisetjenziswa esingenako:">
-<!ENTITY serverNamePrefix.label "Ibizo lesisetjenziswa esingekho:">
-<!ENTITY smtpServerNamePrefix.label "Ibizo lesisetjenziswa esiphumako (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Ibizo lesisetjenziswa seendaba (NNTP):">
-<!ENTITY downloadOnLogin.label "Khuphela imilayezo njenganje">
-<!ENTITY deferStorageDesc.label "Suka kubhokisi lokuhlola ukwazi ukonga iposo ye-akhawundi le kundawo yayo. Lokhu kuzokwenza I-akhawundi le ibonakale njengephezulu ngezinga. Nakungasinjalo izakuba yincenye yama-akhawundi wendawo angaphakathi kwebhokisi le-akhawundi yephasi loke.">
-<!ENTITY deferStorage.label "Sebenzisa ibhokisi langaphakathi lephasi loke (bulunga iposo kumvilobhu)">
 <!ENTITY clickFinish.label "Qhwarhaza Qeda ukonga izakhiwezo ubese uphuma kuSazi se-akhawundi.">

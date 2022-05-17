@@ -20,10 +20,6 @@ menu-application-show-all =
 
 ##
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
 ## File Menu
 
 menu-file =
@@ -43,18 +39,12 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Vula Ifayili...
     .accesskey = V
-menu-file-close =
-    .label = Vala
-    .accesskey = V
 menu-file-save-page =
     .label = Yonga ikhasi njenge...
     .accesskey = N
 menu-file-print-setup =
     .label = Ukwakha Ikhasi phezulu...
     .accesskey = p
-menu-file-print-preview =
-    .label = Bona igadangiso ngaphambili
-    .accesskey = n
 menu-file-print =
     .label = Gadangisa...
     .accesskey = G

@@ -16,9 +16,6 @@
 <!ENTITY attachMenu.accesskey "n">
 <!ENTITY attachPageCmd.label "Ikhasi leWeb...">
 <!ENTITY attachPageCmd.accesskey "I">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Ikhasi Lomuntu (vIkhadi)">
-<!ENTITY attachVCardCmd.accesskey "I">
 <!ENTITY closeCmd.label "Vala">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "v">
@@ -101,14 +98,6 @@
 
 <!ENTITY returnReceiptMenu.label "Phendula ipendulo">
 <!ENTITY returnReceiptMenu.accesskey "p">
-<!ENTITY autoFormatCmd.label "Yizwa Ngokuzenzakalela">
-<!ENTITY autoFormatCmd.accesskey "y">
-<!ENTITY plainTextFormatCmd.label "Umlolo Omsulwa Kwaphela">
-<!ENTITY plainTextFormatCmd.accesskey "u">
-<!ENTITY htmlFormatCmd.label "Umtlolo Onjingileko (HTML) kwaphela">
-<!ENTITY htmlFormatCmd.accesskey "u">
-<!ENTITY bothFormatCmd.label "Umtlolo omsulwa nonjingileko (HTML)">
-<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "Ikhetho-phambili">
 <!ENTITY priorityMenu.accesskey "i">
 <!ENTITY priorityButton.label "Ikhetho-phambili:">
