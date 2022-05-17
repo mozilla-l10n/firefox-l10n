@@ -16,15 +16,9 @@ newtab-search-box-search-button =
     .title = සොයන්න
     .aria-label = සොයන්න
 
-newtab-search-box-search-the-web-input =
-    .placeholder = ජාලය තුළ සොයන්න
-    .title = ජාලය තුළ සොයන්න
-    .aria-label = ජාලය තුළ සොයන්න
-
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = සෙවුම් යන්ත්‍රයක් එක් කරන්න
-newtab-topsites-add-topsites-header = නව ප්‍රමුඛ අඩවියක්
 newtab-topsites-edit-topsites-header = ප්‍රමුඛ අඩවිය සකසන්න
 newtab-topsites-title-label = මාතෘකාව
 newtab-topsites-title-input =
@@ -132,7 +126,6 @@ newtab-section-menu-privacy-notice = පෞද්ගලිකත්ව සටහ
 ## Section Headers.
 
 newtab-section-header-topsites = ප්‍රමුඛ අඩවි
-newtab-section-header-highlights = ඉස්මතු කිරීම්
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } විසින් නිර්දේශිතයි
@@ -147,6 +140,9 @@ newtab-section-header-pocket = { $provider } විසින් නිර්ද�
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ජනප්‍රිය මාතෘකා:
 newtab-pocket-more-recommendations = තවත් නිර්දේශ
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

@@ -41,6 +41,5 @@ proxyResolveFailure-title = ප්‍රොක්සි සේවාදායක
 redirectLoop-title = මෙම පිටුව නිසියාකාරව ප්‍රතිමාර්ගගත වන්නේ නැත
 unknownSocketType-title = සේවාදායකයෙන් අනපේක්‍ෂිත ප්‍රතිචාරයකි
 nssFailure2-title = ආරක්‍ෂිත සම්බන්ධය බිද වැටිනි
-remoteXUL-title = Remote XUL
 sslv3Used-title = ආරක්ෂිතව සබඳවිය නොහැකි විය
 inadequateSecurityError-title = ඔබේ සබඳතාවය අනාරක්ෂිතයි

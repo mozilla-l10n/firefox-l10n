@@ -11,5 +11,4 @@
 <!ENTITY encryption.certificate_clear.button "හිස් කරන්න">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "ඩිජිටල් අත්සන (Digital Signing)">
-<!ENTITY signMessage.accesskey "D">
 

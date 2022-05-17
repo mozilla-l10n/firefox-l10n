@@ -10,6 +10,7 @@
 
 opensearch-error-duplicate-title = ස්ථාපන දෝෂය
 opensearch-error-duplicate-desc = එම නමින්ම සෙවුම් යන්ත්‍රයක් දැනටමත් ඇති බැවින් { -brand-short-name } හට ප්ලගීනය "{ $location-url }" බාගැනිමට නොහැක.
+
 opensearch-error-download-title = බාගැනීමේ දෝෂය
 opensearch-error-download-desc = { -brand-short-name } හට සෙවුම් ප්ලගීනය බාගැනි කළ නොහැකි විය. පිහිටුම: { $location-url }
 
@@ -17,8 +18,16 @@ opensearch-error-download-desc = { -brand-short-name } හට සෙවුම්
 
 searchbar-submit =
     .tooltiptext = සෙවුම යොමු කරන්න
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = සෙවුම
+
 searchbar-icon =
     .tooltiptext = සෙවුම
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+

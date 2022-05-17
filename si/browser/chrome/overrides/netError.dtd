@@ -117,8 +117,6 @@
 <!ENTITY errorReporting.automatic2 "Mozilla ට මෙවැනි ද්වේශ සහගත අඩවි පිළිබඳ දැන අවහිර කිරීමට උදව් වීම සඳහා මෙවැනි දෝෂ වාර්ථා කරන්න">
 <!ENTITY errorReporting.learnMore "තවත් දැනගන්න...">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>කරුණාකර මෙම ගැටලුව පිළිබද අඩවියේ හිමිකරුට දන්වන්න.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "සංකීර්ණ තොරතුරු: SSL_ERROR_UNSUPPORTED_VERSION">

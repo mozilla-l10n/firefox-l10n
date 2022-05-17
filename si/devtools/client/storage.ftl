@@ -7,12 +7,15 @@
 
 # Key shortcut used to focus the filter box on top of the data view
 storage-filter-key = CmdOrCtrl+F
+
 # Placeholder for the searchbox that allows you to filter the table items
 storage-search-box =
     .placeholder = අයිතම පෙරන්න
+
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = අගයන් පෙරන්න
+
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = සියල්ල මකන්න
@@ -35,7 +38,10 @@ storage-tree-labels-indexed-db = සූචිගත DB
 
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = සැසිය
+
 # Heading displayed over the item value in the sidebar
 storage-data = දත්ත
+
 # Heading displayed over the item parsed value in the sidebar
 storage-parsed-value = ඛණ්ඩනය කළ අගය
+

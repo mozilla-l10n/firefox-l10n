@@ -6,7 +6,6 @@
 
 <!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
 
-<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "පෙරහනේ නම:">
 <!ENTITY filterName.accesskey "i">
 

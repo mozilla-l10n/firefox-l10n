@@ -192,14 +192,6 @@ quoted-text-color =
     .label = වර්ණය:
     .accesskey = o
 
-type-column-label =
-    .label = අන්තර්ගත ආකාරය
-    .accesskey = T
-
-action-column-label =
-    .label = ක්‍රියාව
-    .accesskey = A
-
 save-to-label =
     .label = ගොනු සුරකින්නේ (මෙතුළට)
     .accesskey = S
@@ -294,12 +286,6 @@ bg-color-label =
 restore-html-label =
     .label = පෙරනිමි නැවත පිහිටුවන්න
     .accesskey = R
-
-format-description = පාඨ හැඩතල හැසිරීම් වින්‍යාස කිරීම
-
-send-options-label =
-    .label = යැවීම් විකල්ප...
-    .accesskey = S
 
 autocomplete-description = ලිපින යෙදීමේදී, ගැලපෙන යෙදීම් බලන්නේ:
 
@@ -438,4 +424,6 @@ send-typing-label =
     .accesskey = t
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 
