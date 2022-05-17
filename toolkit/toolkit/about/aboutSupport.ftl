@@ -15,6 +15,7 @@ app-basics-show-update-history = Raboriya nûkirinan nîşan bide
 app-basics-enabled-plugins = Pêvekên Çalak
 app-basics-build-config = Mîhengên Avakirinê
 app-basics-user-agent = Navbeynkara Bikarhêner
+
 modified-prefs-name = Nav
 graphics-title = Grafîk
 a11y-title = Gihîştin

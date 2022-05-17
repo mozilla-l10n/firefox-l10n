@@ -31,3 +31,6 @@ state-dd-Disabled-block-list-state = <span data-l10n-name="state">Rewş:</span> 
 mime-type-label = Cureyê MIME
 description-label = Daxuyanî
 suffixes-label = Paşgir
+
+## Gecko Media Plugins (GMPs)
+

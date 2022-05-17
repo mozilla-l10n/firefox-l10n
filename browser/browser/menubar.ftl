@@ -39,15 +39,6 @@ menu-quit =
 menu-quit-mac =
     .label = Ji { -brand-shorter-name }ê derkeve
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Ji { -brand-shorter-name }ê derkeve
-
 menu-about =
     .label = Derbarê &brandShortName;ê de
     .accesskey = D
@@ -69,9 +60,6 @@ menu-file-new-private-window =
 menu-file-open-file =
     .label = Pelî Veke...
     .accesskey = V
-menu-file-close =
-    .label = Bigire
-    .accesskey = B
 menu-file-close-window =
     .label = Pencereyê Bigire
     .accesskey = P
@@ -84,9 +72,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Rûpelê mîheng bike...
     .accesskey = m
-menu-file-print-preview =
-    .label = Pêşdîtina çaperê
-    .accesskey = d
 menu-file-print =
     .label = Çapkirin…
     .accesskey = p
@@ -240,6 +225,3 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Alîkarî
     .accesskey = A
-menu-help-feedback-page =
-    .label = Ramanan Bişîne…
-    .accesskey = R

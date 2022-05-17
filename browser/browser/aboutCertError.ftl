@@ -37,4 +37,3 @@ proxyResolveFailure-title = Pêşkêşkara proksiyê nayê dîtin to find the pr
 redirectLoop-title = redirectLoop sernav
 unknownSocketType-title = Çewtî! Soket nayê zanîn
 corruptedContentError-title = Çewtiya Naveroka Şikestî
-remoteXUL-title = XULa dûr

@@ -54,10 +54,6 @@ item-cache =
 
 data-section-label = Dane
 
-item-site-preferences =
-    .label = Vebijêrkên Malperê
-    .accesskey = V
-
 item-offline-apps =
     .label = Daneyên Malperên Negirêdayî
     .accesskey = D

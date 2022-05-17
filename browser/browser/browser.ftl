@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Gera Nepen)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Gera Nepen)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Gera Nepen)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Gera Nepen)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -126,8 +128,10 @@ browser-window-close-button =
 
 urlbar-placeholder =
     .placeholder = Peyveke lêgerînê yan jî navnîşanek
+
 urlbar-switch-to-tab =
     .value = Derbasî hilpekînê bibe:
+
 urlbar-go-button =
     .tooltiptext = Here navnîşana di Darikê Cihî de
 
@@ -157,6 +161,7 @@ bookmarks-sidebar-content =
     .aria-label = Bijare
 bookmarks-bookmark-edit-panel =
     .label = Vê bijareyê serast bike
+
 bookmarks-toolbar-menu =
     .label = Darikê Amûran a Bijareyan
 bookmarks-toolbar-placeholder =
@@ -178,9 +183,6 @@ bookmarks-toolbar-placeholder-button =
 
 ## More items
 
-more-menu-go-offline =
-    .label = Negirêdayî Bixebite
-    .accesskey = x
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -210,6 +212,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Ji bo { $uriHost }ê destûrê bide pencereyên pop-up
     .accesskey = P
+
 popups-infobar-block =
     .label = Ji bo { $uriHost }ê pop-upan asteng bike
     .accesskey = P
@@ -231,20 +234,25 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Yên hatine daxistin
+
 navbar-overflow =
     .tooltiptext = Amûrên din…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Çap bike
     .tooltiptext = Vê rûpelê çap bike… ({ $shortcut })
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Hilpekînên gerokê
+
 tabs-toolbar-new-tab =
     .label = Hilpekîna Nû
+
 tabs-toolbar-list-all-tabs =
     .label = Hemû hilpekînan lîste bike
     .tooltiptext = Hemû hilpekînan lîste bike

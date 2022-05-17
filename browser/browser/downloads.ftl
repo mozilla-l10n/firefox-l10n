@@ -19,36 +19,13 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Dubare bike
     .accesskey = D
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = Peldanka ku tê de ye veke
-    .accesskey = P
   
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = Di Finderê de nîşan bide
-    .accesskey = F
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] Di Finderê de nîşan bide
-           *[other] Peldanka ku tê de ye veke
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] Di Finderê de nîşan bide
-           *[other] Peldanka ku tê de ye veke
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] Di Finderê de nîşan bide
-           *[other] Peldanka ku tê de ye veke
-        }
+##
 
 downloads-cmd-retry =
     .tooltiptext = Dîsa biceribîne
@@ -83,6 +60,13 @@ downloads-cmd-clear-downloads =
 downloads-history =
     .label = Hemû jêbarkiriyan nîşan bide
     .accesskey = n
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
 
 downloads-clear-downloads-button =
     .label = Jêbarkiriyan paqij bike
