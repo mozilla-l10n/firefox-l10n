@@ -248,6 +248,7 @@ openpgp-key-man-key-details-key =
 
 openpgp-key-details-title =
     .title = Vlastnosti klíče
+
 openpgp-key-details-signatures-tab =
     .label = Potvrzení
 openpgp-key-details-structure-tab =
@@ -260,6 +261,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Typ
 openpgp-key-details-key-part-label =
     .label = Část klíče
+
 openpgp-key-details-algorithm-label =
     .label = Algoritmus
 openpgp-key-details-size-label =
@@ -276,7 +278,6 @@ openpgp-key-details-fingerprint-label = Otisk
 openpgp-key-details-sel-action =
     .label = Vybrat akci…
     .accesskey = V
-openpgp-key-details-also-known-label = Údajné alternativní identity vlastníka klíče:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Zavřít
 openpgp-acceptance-label =
@@ -292,7 +293,6 @@ openpgp-acceptance-verified-label =
 key-accept-personal =
     U tohoto klíče máte veřejnou i tajnou část. Můžete ho používat jako osobní klíč.
     Pokud vám tento klíč dal někdo jiný, nepoužívejte ho jako osobní klíč.
-key-personal-warning = Vytvořili jste tento klíč vy a odkazuje zobrazené vlastnictví klíče na vás?
 openpgp-personal-no-label =
     .label = Ne, nepoužívat ho jako můj osobní klíč.
 openpgp-personal-yes-label =
@@ -302,16 +302,6 @@ openpgp-copy-cmd-label =
     .label = Kopírovat
 
 ## e2e encryption settings
-
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $identity (String) - the email address of the currently selected identity
-openpgp-description =
-    { $count ->
-        [0] Thunderbird nemá žádný osobní klíč OpenPGP
-        [one] Thunderbird našel { $count } osobní klíč OpenPGP
-        [few] Thunderbird našel { $count } osobní klíče OpenPGP
-       *[other] Thunderbird našel { $count } osobních klíčů OpenPGP
-    } pro <b>{ $identity }</b>
 
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Vaše současná konfigurace používá klíč s ID <b>{ $key }</b>
@@ -396,15 +386,12 @@ key-expired-date = Platnost klíče vypršela dne { $keyExpiry }
 key-expired-simple = Platnost klíče vypršela
 key-revoked-simple = Klíč byl zneplatněn
 key-do-you-accept = Přijímáte tento klíč k účelům ověřování digitálních podpisů a šifrování zpráv?
-key-accept-warning = Dejte pozor na přijetí podvodného klíče. Otisk klíče svého korespondenta ověřte prostřednictvím jiného komunikačního kanálu, než je elektronická pošta.
 
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Zprávu nelze odeslat, protože se u vašeho osobního klíče vyskytl problém. { $problem }
 cannot-encrypt-because-missing = Tuto zprávu nelze odeslat za použití koncového šifrování, protože u klíčů následujících příjemců se vyskytly problémy: { $problem }
 window-locked = Okno psaní zprávy je uzamčeno; odesílání bylo zrušeno
 
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Zašifrovaná část zprávy
 mime-decrypt-encrypted-part-concealed-data = Toto je zašifrovaná část zprávy. Otevřít ji musíte v samostatném okně klepnutím na přílohu.
 
 # Strings in keyserver.jsm
@@ -429,35 +416,6 @@ wkd-message-body-process =
 converter-decrypt-body-failed =
     Zprávu s předmětem „{ $subject }“ se nepodařilo dešifrovat.
     Chcete to zkusit s jinou přístupovou frází nebo chcete zprávu přeskočit?
-
-# Strings in gpg.jsm
-unknown-signing-alg = Neznámý podpisový algoritmus (ID: { $id })
-unknown-hash-alg = Neznámý kryptografický hashovací algoritmus (ID: { $id })
-
-# Strings in keyUsability.jsm
-expiry-key-expires-soon =
-    Platnost vašeho klíče { $desc } skončí za méně než { $days ->
-        [one] jeden den
-        [few] { $days } dny
-       *[other] { $days } dní
-    }.
-    Doporučujeme vytvořit nový pár klíčů a nastavit příslušné účty tak, aby ho mohly používat.
-expiry-keys-expire-soon =
-    Platnost těchto vašich klíčů skončí za méně než { $days ->
-        [one] jeden den
-        [few] { $days } dny
-       *[other] { $days } dní
-    }: { $desc }.
-    Doporučujeme vytvořit nové klíče a nastavit příslušné účty tak, aby je mohly používat.
-expiry-key-missing-owner-trust =
-    Váš tajný klíč { $desc } postrádá důvěryhodnost.
-    Doporučujeme ve vlastnostech klíče nastavit volbu „You rely on certifications“ na „Absolutně důvěřuji“.
-expiry-keys-missing-owner-trust =
-    Tyto vaše tajné klíče postrádají důvěryhodnost.
-    { $desc }.
-    Doporučujeme ve vlastnostech klíče nastavit volbu „You rely on certifications“ na „Absolutně důvěřuji“.
-expiry-open-key-manager = Otevřít správce klíčů OpenPGP
-expiry-open-key-properties = Otevřít vlastnosti klíče
 
 # Strings filters.jsm
 filter-folder-required = Musíte vybrat cílovou složku.
@@ -690,19 +648,9 @@ send-to-news-warning =
     To se nedoporučuje, protože to má smysl pouze tehdy, když mohou zprávu dešifrovat všichni členové skupiny, tj. zpráva musí být zašifrována pomocí klíčů všech účastníků skupiny. Odešlete prosím tuto zprávu pouze pokud přesně víte, co děláte.
     Opravdu chcete pokračovat?
 save-attachment-header = Uložit dešifrovanou přílohu
-no-temp-dir =
-    Nelze najít dočasnou složku pro zápis
-    Nastavte prosím proměnnou prostředí TEMP
 possibly-pgp-mime = Tato zpráva je možná zašifrovaná nebo podepsaná pomocí PGP/MIME. Ověřit si to můžete pomocí funkce „Dešifrovat“ nebo „Ověřit“.
 cannot-send-sig-because-no-own-key = Tuto zprávu nelze digitálně podepsat, protože jste pro <{ $key }> dosud nenastavili koncové šifrování
 cannot-send-enc-because-no-own-key = Tuto zprávu nelze odeslat zašifrovaně, protože jste dosud pro <{ $key }> nenastavili koncové šifrování
-
-compose-menu-attach-key =
-    .label = Přiložit můj veřejný klíč
-    .accesskey = P
-compose-menu-encrypt-subject =
-    .label = Šifrování předmětu
-    .accesskey = f
 
 # Strings used in decryption.jsm
 do-import-multiple =

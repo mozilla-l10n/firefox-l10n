@@ -47,10 +47,3 @@
 <!ENTITY useDefault.label               "Obnovit výchozí">
 <!ENTITY useDefault.accesskey           "O">
 
-<!ENTITY defaultBrowserGroup.label      "Výchozí prohlížeč">
-<!ENTITY defaultBrowserButton.label     "Nastavit výchozí prohlížeč">
-<!ENTITY defaultBrowserButton.accesskey "s">
-<!ENTITY alreadyDefaultText             "Aplikace &brandShortName; už je nastavena jako výchozí prohlížeč.">
-<!ENTITY defaultPendingText             "&brandShortName; bude nastavena jako výchozí prohlížeč po klepnutí na tlačítko OK.">
-<!ENTITY wasMadeDefaultText             "&brandShortName; byla nastavena jako výchozí prohlížeč.">
-<!ENTITY makeDefaultText                "Nastavit &brandShortName; jako výchozí prohlížeč">

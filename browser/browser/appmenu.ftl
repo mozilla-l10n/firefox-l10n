@@ -5,19 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner3 =
-    .label-update-downloading =
-        Stahování aktualizace { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "gen") }
-            [feminine] { -brand-shorter-name(case: "gen") }
-            [neuter] { -brand-shorter-name(case: "gen") }
-           *[other] { "" }
-        }
-    .label-update-available = Nová aktualizace — stáhnout
-    .label-update-manual = Nová aktualizace — stáhnout
-    .label-update-unsupported = Nekompatibilní systém pro novou aktualizaci
-    .label-update-restart = Nová aktualizace — restartovat
-appmenuitem-protection-dashboard-title = Přehled ochrany soukromí
 appmenuitem-banner-update-downloading =
     .label =
         Stahování aktualizace { -brand-shorter-name.gender ->
@@ -26,14 +13,19 @@ appmenuitem-banner-update-downloading =
             [neuter] { -brand-shorter-name(case: "gen") }
            *[other] { "" }
         }
+
 appmenuitem-banner-update-available =
     .label = Nová aktualizace — stáhnout
+
 appmenuitem-banner-update-manual =
     .label = Nová aktualizace — stáhnout
+
 appmenuitem-banner-update-unsupported =
     .label = Nekompatibilní systém pro novou aktualizaci
+
 appmenuitem-banner-update-restart =
     .label = Nová aktualizace — restartovat
+
 appmenuitem-new-tab =
     .label = Nový panel
 appmenuitem-new-window =
@@ -66,6 +58,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Zavře nabídku aplikace
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -86,23 +79,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Přihlásit se k synchronizaci…
 appmenu-remote-tabs-turn-on-sync =
     .label = Zapnout synchronizaci…
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Zobrazit další panely
     .tooltiptext = Zobrazí panely z tohoto zařízení
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Žádné otevřené panely
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Zapněte synchronizaci panelů pro zobrazení seznamu panelů z vašich ostatních zařízení.
+
 appmenu-remote-tabs-opensettings =
     .label = Nastavení
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Chcete zde vidět své panely z ostatních zařízení?
+
 appmenu-remote-tabs-connectdevice =
     .label = Připojit další zařízení
 appmenu-remote-tabs-welcome = Seznam panelů z ostatních zařízení
 appmenu-remote-tabs-unverified = Je potřeba ověřit váš účet.
+
 appmenuitem-fxa-toolbar-sync-now2 = Synchronizovat
 appmenuitem-fxa-sign-in =
     { -brand-product-name.gender ->
@@ -122,13 +122,14 @@ appmenu-fxa-sync-and-save-data2 = Synchronizace a ukládání dat
 appmenu-fxa-signed-in-label = Přihlásit se
 appmenu-fxa-setup-sync =
     .label = Zapnout synchronizaci…
-appmenu-fxa-show-more-tabs = Zobrazit další panely
+
 appmenuitem-save-page =
     .label = Uložit stránku jako…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Co je nového
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -142,46 +143,53 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiler
     .tooltiptext = Záznam výkonu
+
 profiler-popup-button-recording =
     .label = Profiler
     .tooltiptext = Právě probíhá profilování
+
 profiler-popup-button-capturing =
     .label = Profiler
     .tooltiptext = Právě probíhá profilování
+
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Zobrazit podrobnosti
+
 profiler-popup-description-title =
     .value = Zaznamenejte, analyzujte, sdílejte
+
 profiler-popup-description = Spolupracujte na řešení výkonnostních problémů sdílením dat se svým týmem.
-profiler-popup-learn-more = Zjistit více
+
 profiler-popup-learn-more-button =
     .label = Zjistit více
+
 profiler-popup-settings =
     .value = Nastavení
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings = Úprava nastavení
-profiler-popup-disabled = Profiler je v tuto chvíli vypnutý, pravděpodobně protože máte otevřené okno anonymního prohlížení.
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Úprava nastavení
+
 profiler-popup-recording-screen = Nahrávání…
-# The profiler presets list is generated elsewhere, but the custom preset is defined
-# here only.
-profiler-popup-presets-custom =
-    .label = Vlastní
+
 profiler-popup-start-recording-button =
     .label = Spustit nahrávání
+
 profiler-popup-discard-button =
     .label = Zahodit
+
 profiler-popup-capture-button =
     .label = Nahrávat
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -199,6 +207,7 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Doporučené nastavení s minimální režií pro ladění většiny webových aplikací.
 profiler-popup-presets-web-developer-label =
     .label = Nástroje pro webové vývojáře
+
 profiler-popup-presets-firefox-description =
     Doporučené nastavení pro profilování { -brand-shorter-name.gender ->
         [masculine] { -brand-shorter-name(case: "gen") }
@@ -208,6 +217,7 @@ profiler-popup-presets-firefox-description =
     }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+
 profiler-popup-presets-graphics-description =
     Doporučené nastavení pro ladění grafických chyb v { -brand-shorter-name.gender ->
         [masculine] { -brand-shorter-name(case: "loc") }
@@ -217,6 +227,7 @@ profiler-popup-presets-graphics-description =
     }.
 profiler-popup-presets-graphics-label =
     .label = Grafika
+
 profiler-popup-presets-media-description2 =
     Doporučené nastavení pro ladění chyb při přehrávání zvuku nebo videa v { -brand-shorter-name.gender ->
         [masculine] { -brand-shorter-name(case: "loc") }
@@ -226,6 +237,7 @@ profiler-popup-presets-media-description2 =
     }.
 profiler-popup-presets-media-label =
     .label = Média
+
 profiler-popup-presets-networking-description =
     { -brand-shorter-name.gender ->
         [masculine] Doporučené nastavení pro ladění síťových problémů v { -brand-shorter-name(case: "loc") }.
@@ -235,6 +247,7 @@ profiler-popup-presets-networking-description =
     }
 profiler-popup-presets-networking-label =
     .label = Síť
+
 profiler-popup-presets-custom-label =
     .label = Vlastní
 
@@ -275,9 +288,6 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = t
 appmenu-help-report-site-issue =
     .label = Nahlásit problém se zobrazením stránky…
-appmenu-help-feedback-page =
-    .label = Odeslat zpětnou vazbu…
-    .accesskey = d
 appmenu-help-share-ideas =
     .label = Sdílet nápad nebo zpětnou vazbu…
     .accesskey = S
@@ -306,8 +316,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Nastavení tlačítek a lišt…
-appmenu-taskmanager =
-    .label = Správce úloh
+
 appmenu-developer-tools-subheader = Nástroje prohlížeče
 appmenu-developer-tools-extensions =
     .label = Rozšíření pro vývojáře

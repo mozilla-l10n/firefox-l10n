@@ -36,6 +36,7 @@ menu-application-touch-bar =
 menu-quit =
     .label = Ukončit
     .accesskey = k
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label =
@@ -45,19 +46,7 @@ menu-quit-mac =
             [neuter] { -brand-shorter-name(case: "acc") }
            *[other] aplikaci { -brand-shorter-name }
         }
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip =
-        Ukončí { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "acc") }
-            [feminine] { -brand-shorter-name(case: "acc") }
-            [neuter] { -brand-shorter-name(case: "acc") }
-           *[other] aplikaci { -brand-shorter-name }
-        }
+
 menu-about =
     .label =
         O { -brand-shorter-name.gender ->
@@ -93,9 +82,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Otevřít soubor…
     .accesskey = s
-menu-file-close =
-    .label = Zavřít
-    .accesskey = Z
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 menu-file-close-tab =
@@ -122,9 +108,6 @@ menu-file-share-url =
 menu-file-print-setup =
     .label = Vzhled stránky…
     .accesskey = V
-menu-file-print-preview =
-    .label = Náhled tisku
-    .accesskey = h
 menu-file-print =
     .label = Vytisknout stránku…
     .accesskey = T
@@ -343,9 +326,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = t
 menu-help-report-site-issue =
     .label = Nahlásit problém se zobrazením stránky…
-menu-help-feedback-page =
-    .label = Odeslat zpětnou vazbu…
-    .accesskey = d
 menu-help-share-ideas =
     .label = Sdílet nápad nebo zpětnou vazbu…
     .accesskey = S

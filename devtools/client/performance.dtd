@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Čas této funkci na zásobníku, když profiler vzal vzorek.">
 <!ENTITY performanceUI.table.function                 "Funkce">
 <!ENTITY performanceUI.table.function.tooltip         "Název a adresa zdroje vzorkové funkce.">
-<!ENTITY performanceUI.table.totalAlloc               "Celkový počet vzorků alokací">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Celkový počet vzorků alokovaných objektů v tomto umístění a ve volaných.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

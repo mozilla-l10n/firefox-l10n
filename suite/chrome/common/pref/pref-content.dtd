@@ -7,12 +7,6 @@
 <!ENTITY pref.content.title                     "Obsah">
 <!ENTITY pref.content.description               "Tato nastavení určují, jak budou stránky a zprávy v aplikaci &brandShortName; vypadat.">
 
-<!ENTITY siteIcons.label                        "Ikony webového serveru">
-<!ENTITY useSiteIcons.label                     "Zobrazovat ikony webového serveru">
-<!ENTITY useSiteIcons.accesskey                 "Z">
-<!ENTITY useFavIcons2.label                     "Zkusit použít ikonu serveru, pokud stránka neurčuje vlastní">
-<!ENTITY useFavIcons2.accesskey                 "i">
-
 <!ENTITY scrolling.label                        "Posunování">
 <!ENTITY useAutoScroll.label                    "Použít automatické posouvání">
 <!ENTITY useAutoScroll.accesskey                "a">
@@ -43,6 +37,4 @@
 
 <!ENTITY allowHWAccel.label                     "Použít hardwarovou akceleraci, je-li dostupná">
 <!ENTITY allowHWAccel.accesskey                 "h">
-<!ENTITY blockAutoRefresh.label                 "Varovat, pokud se stránka pokouší o přesměrování nebo obnovení">
-<!ENTITY blockAutoRefresh.accesskey             "u">
 

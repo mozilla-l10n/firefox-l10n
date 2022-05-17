@@ -123,14 +123,6 @@ openpgp-import-key-description = Můžete naimportovat osobní klíče, které b
 
 openpgp-import-key-info = Jiný software může pro osobní klíč používat jiné názvy, např. „váš vlastní klíč“, „tajný klíč“, „soukromý klíč“ nebo „pár klíčů“.
 
-#   $count (Number) - the number of keys found in the selected files
-openpgp-import-key-list-amount =
-    { $count ->
-        [one] Thunderbird našel jeden klíč, který lze importovat.
-        [few] Thunderbird našel { $count } klíče, které lze importovat.
-       *[other] Thunderbird našel { $count } klíčů, které lze importovat.
-    }
-
 openpgp-import-key-list-description = Potvrďte, které klíče mohou být považovány za vaše osobní klíče. Jako vaše osobní klíče by měly být použity pouze klíče, které jste si sami vytvořili a které zobrazují vaši vlastní identitu. Tuto volbu můžete později změnit v dialogu Vlastnosti klíče.
 
 openpgp-import-key-list-caption = Klíče označené jako osobní klíče budou uvedeny v sekci Koncové šifrování. Ostatní budou k dispozici ve správci klíčů.

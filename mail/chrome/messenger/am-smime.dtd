@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Zjistit více">
 
 <!ENTITY e2eEnc.description "Bez koncového šifrování je obsah zpráv snadno přístupný vašemu poskytovateli e-mailové schránky nebo systémům pro hromadné sledování.">
-<!ENTITY e2eeReqWarning.description "Pro šifrování musíte mít k odeslání zprávy veřejný klíč nebo certifikát každého z příjemců.">
 
-<!ENTITY e2eSigning.description "Elektronický podpis umožňuje příjemcům ověřit, že jste zprávu poslali vy a že nebyl její obsah změněn.">
 <!ENTITY e2eTechPref.description "Preferovaná technologie šifrování:">
 
-<!ENTITY doNotEncrypt.label "Ve výchozím nastavení nešifrovat">
-<!ENTITY doNotEncrypt.accesskey "n">
-<!ENTITY requireEncryptMessage.label "Šifrovat ve výchozím nastavení">
-<!ENTITY requireEncryptMessage.accesskey "v">
 <!ENTITY encryptionCert2.message "Osobní certifikát pro šifrování:">
 <!ENTITY digitalSign.certificate.button "Vybrat…">
 <!ENTITY digitalSign.certificate.accesskey "b">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Vymazat">
 <!ENTITY encryption.certificate_clear.accesskey "m">
 <!ENTITY signingGroupTitle.label "Elektronický podpis">
-<!ENTITY signMessage2.label "Standardně připojit můj elektronický podpis">
-<!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert2.message "Osobní certifikát pro elektronický podpis:">
 
 <!ENTITY sendingDefaults.label "Výchozí nastavení pro odesílání zpráv">
