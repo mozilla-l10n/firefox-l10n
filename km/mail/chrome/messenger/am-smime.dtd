@@ -11,6 +11,5 @@
 <!ENTITY encryption.certificate_clear.button "Մաքրել">
 <!ENTITY encryption.certificate_clear.accesskey "Մ">
 <!ENTITY signingGroupTitle.label "Թվային ստորագր.">
-<!ENTITY signMessage.accesskey "D">
 
 

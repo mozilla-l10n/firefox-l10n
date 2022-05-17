@@ -9,14 +9,6 @@ experimental-features-web-gpu2 =
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-media-avif =
-    .label = មេឌៀ៖ AVIF
-
-experimental-features-devtools-color-scheme-simulation =
-    .label = ឧបករណ៍អ្នកអភិវឌ្ឍន៍៖ ការក្លែងធ្វើពណ៌ចម្រុះ
-
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = ខូឃី៖ SameSite ដែល​គ្រោង
 

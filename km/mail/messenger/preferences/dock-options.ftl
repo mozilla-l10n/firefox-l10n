@@ -23,4 +23,3 @@ count-new-messages-radio =
     .label = ចំនួន​នៃ​សារ​ថ្មី
     .accesskey = n
 
-notification-settings-info = អ្នក​អាច​បិទ​​ប័ណ្ណ​នៅ​លើ​បន្ទះ​ជូន​ដំណឹង​នៃ​ចំណូល​ចិត្ត​ប្រព័ន្ធ។

@@ -33,6 +33,7 @@ app-basics-performance = ដំណើរការ
 app-basics-service-workers = Service Workers ដែល​បាន​ចុះ​ឈ្មោះ
 app-basics-multi-process-support = វីនដូ​ដំណើរការ​ច្រើន
 app-basics-safe-mode = របៀប​សុវត្តិភាព
+
 modified-key-prefs-title = ចំណូលចិត្ត​ដែល​កែប្រែ​សំខាន់
 modified-prefs-name = ឈ្មោះ
 modified-prefs-value = តម្លៃ

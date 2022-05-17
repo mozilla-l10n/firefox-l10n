@@ -16,15 +16,9 @@ newtab-search-box-search-button =
     .title = ស្វែងរក
     .aria-label = ស្វែងរក
 
-newtab-search-box-search-the-web-input =
-    .placeholder = ស្វែងរក​បណ្ដាញ
-    .title = ស្វែងរក​បណ្ដាញ
-    .aria-label = ស្វែងរក​បណ្ដាញ
-
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = បន្ថែម​ម៉ាស៊ីន​ស្វែងរក
-newtab-topsites-add-topsites-header = សាយកំពូលថ្មី
 newtab-topsites-edit-topsites-header = កែសម្រួលសាយកំពូល
 newtab-topsites-title-label = ចំណង​ជើង
 newtab-topsites-title-input =
@@ -144,7 +138,6 @@ newtab-section-menu-privacy-notice = ការជូនដំណឹង​អំ�
 ## Section Headers.
 
 newtab-section-header-topsites = វិបសាយ​លើ​គេ
-newtab-section-header-highlights = រឿងសំខាន់ៗ
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = បានណែនាំដោយ { $provider }
@@ -168,6 +161,9 @@ newtab-empty-section-topstories = អ្នកបានអានរឿងទា�
 newtab-pocket-read-more = ប្រធានបទកំពុងពេញនិយម៖
 newtab-pocket-more-recommendations = ការណែនាំច្រើនទៀត
 newtab-pocket-cta-button = ទាញយក { -pocket-brand-name }
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

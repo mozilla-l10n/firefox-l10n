@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] ការ​កំណត់​អាច​ត្រូវ​បាន​ផ្លាស់ប្ដូរ​ក្នុង​ជម្រើស​របស់ { -brand-short-name } ។
            *[other] ការ​កំណត់​​អាច​ត្រូវ​បាន​ផ្លាស់ប្ដូរ​នៅ​​ក្នុង​ចំណូល​ចិត្ត​របស់ { -brand-short-name } ។
         }
+
 unknowncontenttype-intro = អ្នកបាន​ជ្រើស ដើម្បី​បើក ៖
 unknowncontenttype-which-is = ដែល​ជា ៖
 unknowncontenttype-from = ពី ៖

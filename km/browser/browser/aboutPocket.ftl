@@ -48,3 +48,8 @@ pocket-panel-home-paragraph = អ្នក​អាច​ប្រើប្រ�
 pocket-panel-home-explore-popular-topics = ស្វែងរកប្រធានបទពេញនិយម
 pocket-panel-home-discover-more = ស្វែងយល់បន្ថែម
 pocket-panel-home-explore-more = រុករក
+
+## Pocket panel header component
+
+## Pocket panel buttons
+

@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "ចំនួន​នៃ​ពេលវេលា​ដែល​មុខងារ​នេះ​បាន​ស្ថិត​នៅ​ជា​ជង់​នៅពេល​ម្ចាស់ប្រវត្តិរូប​យក​ជា​គំរូ​។​">
 <!ENTITY performanceUI.table.function                 "​អនុគមន៍">
 <!ENTITY performanceUI.table.function.tooltip         "ឈ្មោះ និង​ទីតាំង​ប្រភព​នៃ​មុខងារ​គំរូ។">
-<!ENTITY performanceUI.table.totalAlloc               "ការបែងចែក​គំរូសរុប">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "ចំនួន​សរុប​ការ​បែងចែក​វត្ថុ​​ដែល​បាន​ធ្វើ​ជា​គំរូ​នៅ​​ទីតាំង​នេះ និង​​ក្នុង​អ្នក​ហៅ។">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

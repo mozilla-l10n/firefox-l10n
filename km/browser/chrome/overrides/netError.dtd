@@ -76,8 +76,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "សូម​រាយការណ៍​កំហុស​បែប​នេះ​ដើម្បី​ជួយ​ដល់ Mozilla ក្នុង​ការ​កំណត់ និង​ទប់​ស្កាត់​វេបសាយ​ដែល​មាន​បំណង​អាក្រក់">
 <!ENTITY errorReporting.learnMore "ស្វែងយល់​បន្ថែម...">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>សូម​ទាក់ទង​ម្ចាស់​តំបន់បណ្ដាញ​ ដើម្បី​ប្រាប់​ពួក​គេ​ឲ្យ​ដឹង​អំពី​បញ្ហា​នេះ ។</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "ព័ត៌មាន​កម្រិត​ខ្ពស់៖ SSL_ERROR_UNSUPPORTED_VERSION">
