@@ -39,16 +39,8 @@ protections-close-button2 =
 mobile-app-links = <a data-l10n-name="android-mobile-inline-link">Android</a> और <a data-l10n-name="ios-mobile-inline-link">iOS</a> के लिए { -brand-product-name } ब्राउज़र
 
 lockwise-title = पासवर्ड फिर कभी न भूलें
-lockwise-title-logged-in2 = पासवर्ड प्रबंधन
-lockwise-header-content = { -lockwise-brand-name } आपके पासवर्ड को आपके ब्राउज़र में सुरक्षित रूप से संग्रहीत करता है।
 lockwise-header-content-logged-in = अपने पासवर्ड को अपने सभी उपकरणों पर सुरक्षापूर्ण तरीके से संग्रहित और सिंक करें।
-protection-report-save-passwords-button = पासवर्ड सहेजें
-    .title = { -lockwise-brand-short-name } पर पासवर्ड सहेजें
-protection-report-manage-passwords-button = पासवर्ड प्रबंधित करें
-    .title = { -lockwise-brand-short-name } पर पासवर्ड प्रबंधित करें
-lockwise-mobile-app-title = हर जगह अपना पासवर्ड लेकर चलें
-lockwise-no-logins-card-content = किसी भी उपकरण पर { -brand-short-name } में सहेजे गए पासवर्ड का उपयोग करें।
-lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> और <a data-l10n-name="lockwise-ios-inline-link">iOS</a> के लिए { -lockwise-brand-name }
+
 
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.

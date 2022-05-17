@@ -70,6 +70,7 @@
 
 <!ENTITY newlistButton.label                            "नयी सूची">
 <!ENTITY newlistButton.accesskey                        "L">
+
 <!ENTITY newmsgButton.label                             "लिखें">
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "द्रुत संदेश">

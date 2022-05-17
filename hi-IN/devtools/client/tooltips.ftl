@@ -30,8 +30,6 @@ inactive-css-not-grid-or-flex-container-fix = <strong>display:grid</strong> य�
 
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = <strong>display:grid</strong>, <strong>display:flex</strong>, या <strong>columns:2</strong> जोड़ने की कोशिश करें। { learn-more }
 
-inactive-css-not-grid-or-flex-item-fix-2 = <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, या <strong>display:inline-flex</strong> जोड़ने की कोशिश करें। { learn-more }
-
 inactive-css-not-grid-container-fix = <strong>display:grid</strong> या <strong>display:inline-grid</strong> जोड़ने की कोशिश करें। { learn-more }
 
 inactive-css-not-flex-container-fix = <strong>display:flex</strong> या <strong>display:inline-flex</strong> जोड़ने की कोशिश करें। { learn-more }

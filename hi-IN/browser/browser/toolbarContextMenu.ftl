@@ -20,18 +20,21 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = सभी टैब का चयन करें
     .accesskey = S
+
 toolbar-context-menu-manage-extension =
     .label = एक्सटेंशन प्रबंधित करें
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = एक्सटेंशन हटाएँ
     .accesskey = v
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = एक्सटेंशन के बारे में रिपोर्ट करें
     .accesskey = o
+
 # Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
 # ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
 # have different access keys.
@@ -44,6 +47,7 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = मनपसंद बनाएँ…
     .accesskey = C
+
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = हमेशा दिखाएं
     .accesskey = A
@@ -53,9 +57,11 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = केवल नए टैब पर दिखाएं
     .accesskey = O
+
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = अन्य बुकमार्क दिखाएं
     .accesskey = h
+
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = मेनू पट्टी
     .accesskey = M

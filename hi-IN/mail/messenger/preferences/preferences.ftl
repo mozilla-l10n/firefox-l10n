@@ -127,12 +127,6 @@ language-popup-label =
 
 download-dictionaries-link = ज्यादा शब्दकोश डाउनलोड करें
 
-format-description = पाठ प्रारूप व्यवहार विन्यस्त करें
-
-send-options-label =
-    .label = प्रेषण विकल्प...
-    .accesskey = S
-
 autocomplete-description = जब संदेश में पता दिया जा रहा हो, मेल प्रविष्टि के लिये इसमें देखें:
 
 ab-label =
@@ -169,4 +163,6 @@ email-picker-label =
 
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

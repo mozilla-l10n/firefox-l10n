@@ -32,7 +32,6 @@ about-telemetry-events-section = घटनाएँ
 about-telemetry-simple-measurements-section = साधारण  माप
 about-telemetry-slow-sql-section = धीरे sql निवेदन
 about-telemetry-addon-details-section = सहयुक्ति विवरण
-about-telemetry-captured-stacks-section = कैप्चर किए गए स्टैक
 about-telemetry-late-writes-section = कुछ देर से लिखें
 about-telemetry-raw-payload-section = कच्चा पेलोड
 about-telemetry-raw = कच्चा JSON
@@ -108,10 +107,6 @@ about-telemetry-addon-provider = { $addonProvider } प्रदाता
 about-telemetry-keys-header = गुण
 about-telemetry-names-header = नाम
 about-telemetry-values-header = मान
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (कैप्चर संख्या: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = विलंब लेखन #{ $lateWriteCount }

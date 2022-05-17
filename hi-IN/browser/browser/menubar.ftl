@@ -36,16 +36,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } से बाहर जाएँ
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = { -brand-shorter-name } से निकास
+
 menu-about =
     .label = { -brand-shorter-name } का परिचय
     .accesskey = A
@@ -75,9 +70,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = फाइल खोलें...
     .accesskey = O
-menu-file-close =
-    .label = बंद करें
-    .accesskey = C
 menu-file-close-window =
     .label = विंडो बंद करें
     .accesskey = d
@@ -90,9 +82,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = पृष्ठ व्यवस्थित…
     .accesskey = u
-menu-file-print-preview =
-    .label = छपाई पूर्वावलोकन
-    .accesskey = v
 menu-file-print =
     .label = छापें...
     .accesskey = P
@@ -275,9 +264,6 @@ menu-help =
     .accesskey = H
 menu-help-report-site-issue =
     .label = साइट समस्या की रिपोर्ट करें…
-menu-help-feedback-page =
-    .label = प्रतिक्रिया जमा करें...
-    .accesskey = S
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

@@ -8,23 +8,13 @@
 
 ## New changes screen
 
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-new-title = एक नए { -brand-short-name } को हेलो कहें
-upgrade-dialog-new-primary-theme-button = एक थीम चुनें
-upgrade-dialog-new-secondary-button = अभी नहीं
-
 ## Pin Firefox screen
 ##
 ## These title, subtitle and button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
-upgrade-dialog-pin-secondary-button = अभी नहीं
-
 ## Default browser screen
-
-upgrade-dialog-default-primary-button-2 = तयशुदा ब्राउज़र बनाएं
-upgrade-dialog-default-secondary-button = अभी नहीं
 
 ## Theme selection screen
 
@@ -34,9 +24,6 @@ upgrade-dialog-default-secondary-button = अभी नहीं
 upgrade-dialog-start-secondary-button = अभी नहीं
 
 ## Colorway screen
-
-upgrade-dialog-theme-primary-button = थीम सहेजें
-upgrade-dialog-theme-secondary-button = अभी नहीं
 
 ## Thank you screen
 

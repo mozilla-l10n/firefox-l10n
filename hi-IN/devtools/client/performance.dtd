@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "प्रोफ़ाइलर द्वारा नमूना लिए जा रहे समय यह प्रकार्य के स्टैक में होने की संख्या |">
 <!ENTITY performanceUI.table.function                 "फंक्शन">
 <!ENTITY performanceUI.table.function.tooltip         "नमूना समारोह के नाम और स्रोत स्थान.">
-<!ENTITY performanceUI.table.totalAlloc               "कुल नमूना आवंटन">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "इस स्थान पर और कॉल्लीस में ऑब्जेक्ट आवंटन नमूनों की कुल संख्या ।">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
