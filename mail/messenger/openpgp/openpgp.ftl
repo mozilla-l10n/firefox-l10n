@@ -225,6 +225,7 @@ openpgp-key-man-key-details-key =
 
 openpgp-key-details-title =
     .title = คุณสมบัติคีย์
+
 openpgp-key-details-signatures-tab =
     .label = ใบรับรอง
 openpgp-key-details-structure-tab =
@@ -237,6 +238,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = ชนิด
 openpgp-key-details-key-part-label =
     .label = ส่วนของคีย์
+
 openpgp-key-details-algorithm-label =
     .label = อัลกอริทึม
 openpgp-key-details-size-label =
@@ -253,7 +255,6 @@ openpgp-key-details-fingerprint-label = ลายนิ้วมือ
 openpgp-key-details-sel-action =
     .label = เลือกการกระทำ…
     .accesskey = ล
-openpgp-key-details-also-known-label = ข้อมูลประจำตัวอื่น ๆ ของเจ้าของคีย์ที่ถูกกล่าวหา:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = ปิด
 openpgp-acceptance-label =
@@ -269,7 +270,6 @@ openpgp-acceptance-verified-label =
 key-accept-personal =
     สำหรับคีย์นี้ คุณมีทั้งส่วนสาธารณะและส่วนลับ คุณสามารถใช้คีย์นี้เป็นคีย์ส่วนตัวได้
     หากผู้อื่นมอบคีย์นี้ให้คุณ อย่าใช้คีย์นี้เป็นคีย์ส่วนตัว
-key-personal-warning = คุณสร้างคีย์นี้ด้วยตัวคุณเอง และความเป็นเจ้าของคีย์ที่แสดงอ้างอิงถึงตัวคุณเองหรือไม่
 openpgp-personal-no-label =
     .label = ไม่ อย่าใช้คีย์นี้เป็นคีย์ส่วนตัวของฉัน
 openpgp-personal-yes-label =
@@ -279,15 +279,6 @@ openpgp-copy-cmd-label =
     .label = คัดลอก
 
 ## e2e encryption settings
-
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $identity (String) - the email address of the currently selected identity
-openpgp-description =
-    { $count ->
-        [0] Thunderbird ไม่มีคีย์ OpenPGP ส่วนตัวสำหรับ <b>{ $identity }</b>
-        [one] Thunderbird พบคีย์ OpenPGP ส่วนตัว { $count } คีย์ที่เชื่อมโยงกับ <b>{ $identity }</b>
-       *[other] Thunderbird พบคีย์ OpenPGP ส่วนตัว { $count } คีย์ที่เชื่อมโยงกับ <b>{ $identity }</b>
-    }
 
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = การกำหนดค่าปัจจุบันของคุณใช้ ID คีย์ <b>{ $key }</b>
@@ -366,15 +357,12 @@ key-expired-date = คีย์หมดอายุแล้วเมื่อ 
 key-expired-simple = คีย์หมดอายุแล้ว
 key-revoked-simple = คีย์ถูกเพิกถอนแล้ว
 key-do-you-accept = คุณยอมรับคีย์นี้สำหรับตรวจสอบลายเซ็นดิจิทัลและเข้ารหัสข้อความหรือไม่
-key-accept-warning = พยายามอย่ายอมรับกุญแจหลอก ใช้ช่องทางสื่อสารอื่นที่ไม่ใช่อีเมลเพื่อตรวจสอบลายนิ้วมือของคีย์ของผู้ติดต่อของคุณ
 
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = ไม่สามารถส่งข้อความได้ เนื่องจากมีปัญหากับคีย์ส่วนตัวของคุณ { $problem }
 cannot-encrypt-because-missing = ไม่สามารถส่งข้อความนี้ด้วยการเข้ารหัสแบบครบวงจรได้ เนื่องจากมีปัญหากับคีย์ของผู้รับต่อไปนี้: { $problem }
 window-locked = การส่งถูกยกเลิกแล้ว เนื่องจากหน้าต่างเขียนถูกล็อก
 
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = ส่วนของข้อความที่ถูกเข้ารหัส
 mime-decrypt-encrypted-part-concealed-data = นี่คือส่วนของข้อความที่ถูกเข้ารหัส คุณต้องเปิดในหน้าต่างที่แยกต่างหากโดยคลิกที่ไฟล์แนบ
 
 # Strings in keyserver.jsm
@@ -399,27 +387,6 @@ wkd-message-body-process =
 converter-decrypt-body-failed =
     ไม่สามารถถอดรหัสข้อความที่มีหัวเรื่อง { $subject } ได้
     คุณต้องการลองใหม่ด้วยวลีรหัสผ่านอื่นหรือต้องการข้ามข้อความ
-
-# Strings in gpg.jsm
-unknown-signing-alg = ไม่รู้จักอัลกอริทึมการลงลายเซ็น (ID: { $id })
-unknown-hash-alg = ไม่รู้จักแฮชการเข้ารหัสลับ (ID: { $id })
-
-# Strings in keyUsability.jsm
-expiry-key-expires-soon =
-    คีย์ { $desc } ของคุณจะหมดอายุในอีกไม่ถึง { $days } วัน
-    เราขอแนะนำให้คุณสร้างคู่คีย์ใหม่และกำหนดค่าบัญชีที่สอดคล้องกันเพื่อใช้คีย์นี้
-expiry-keys-expire-soon =
-    คีย์ต่อไปนี้ของคุณจะหมดอายุในอีกไม่ถึง { $days } วัน: { $desc }
-    เราขอแนะนำให้คุณสร้างคีย์ใหม่และกำหนดค่าบัญชีที่สอดคล้องกันเพื่อใช้คีย์เหล่านี้
-expiry-key-missing-owner-trust =
-    คีย์ลับ { $desc } ของคุณไม่มีการตั้งค่าความเชื่อถือ
-    เราขอแนะนำให้คุณตั้งค่า “คุณพึ่งพาการรับรอง” เป็น “เชื่อถือมาก” ในคุณสมบัติคีย์
-expiry-keys-missing-owner-trust =
-    คีย์ลับต่อไปนี้ของคุณไม่มีการตั้งค่าความเชื่อถือ
-    { $desc }
-    เราขอแนะนำให้คุณตั้งค่า “คุณพึ่งพาการรับรอง” เป็น “เชื่อถือมาก” ในคุณสมบัติคีย์
-expiry-open-key-manager = เปิดตัวจัดการคีย์ OpenPGP
-expiry-open-key-properties = เปิดคุณสมบัติคีย์
 
 # Strings filters.jsm
 filter-folder-required = คุณต้องเลือกโฟลเดอร์เป้าหมาย
@@ -655,9 +622,6 @@ send-to-news-warning =
     เราขอไม่แนะนำให้ทำเช่นนี้เนื่องจากจะสมเหตุสมผลก็ต่อเมื่อสมาชิกทุกคนในกลุ่มสามารถถอดรหัสข้อความได้ กล่าวคือ ต้องเข้ารหัสข้อความด้วยคีย์ของผู้เข้าร่วมกลุ่มทั้งหมด โปรดส่งข้อความนี้เฉพาะเมื่อคุณทราบว่าคุณกำลังทำอะไรอยู่เท่านั้น
     ต้องการดำเนินการต่อหรือไม่
 save-attachment-header = บันทึกไฟล์แนบที่ถอดรหัสแล้ว
-no-temp-dir =
-    ไม่พบไดเรกทอรีชั่วคราวที่จะเขียน
-    โปรดตั้งค่าตัวแปรสภาพแวดล้อม TEMP
 possibly-pgp-mime = อาจเป็นข้อความที่เข้ารหัสหรือลงลายเซ็นแบบ PGP/MIME ให้ใช้ฟังก์ชัน ‘ถอดรหัส/ตรวจสอบ’ เพื่อตรวจสอบ
 cannot-send-sig-because-no-own-key = ไม่สามารถลงลายเซ็นข้อความนี้แบบดิจิทัลได้ เนื่องจากคุณยังไม่ได้กำหนดค่าการเข้ารหัสแบบครบวงจรสำหรับ <{ $key }>
 cannot-send-enc-because-no-own-key = ไม่สามารถส่งข้อความนี้แบบเข้ารหัสได้ เนื่องจากคุณยังไม่ได้กำหนดค่าการเข้ารหัสแบบครบวงจรสำหรับ <{ $key }>

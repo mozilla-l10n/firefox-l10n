@@ -7,5 +7,6 @@
 
 extension-thunderbird-compact-light-name = สว่าง
 extension-thunderbird-compact-light-description = ชุดตกแต่งที่มีแบบแผนชุดสีสว่าง
+
 extension-thunderbird-compact-dark-name = มืด
 extension-thunderbird-compact-dark-description = ชุดตกแต่งที่มีแบบแผนชุดสีมืด

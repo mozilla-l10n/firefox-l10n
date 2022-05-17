@@ -55,12 +55,6 @@ afterauth-private = คุณได้ยืนยันตัวตนของ
 #   $name (String) - the screen name of a chat contact person
 afterauth-unverified = ยังไม่ได้ยืนยันตัวตนของ { $name }
 
-verify-title = ยืนยันตัวตนของผู้ติดต่อของคุณ
-error-title = ข้อผิดพลาด
-success-title = การเข้ารหัสแบบครอบคลุม
-fail-title = ไม่สามารถยืนยันได้
-waiting-title = ส่งคำขอการยืนยันแล้ว
-
 # Do not translate 'OTR' (name of an encryption protocol)
 # Variables:
 #   $error (String) - contains an error message that describes the cause of the failure

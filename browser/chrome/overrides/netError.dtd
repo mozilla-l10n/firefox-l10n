@@ -108,8 +108,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "รายงานข้อผิดพลาดเช่นนี้เพื่อช่วย Mozilla ระบุและปิดกั้นไซต์ที่ประสงค์ร้าย">
 <!ENTITY errorReporting.learnMore "เรียนรู้เพิ่มเติม…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "ข้อมูลขั้นสูง: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -135,9 +133,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "ดูเหมือนว่าการตั้งค่าความปลอดภัยเครือข่ายของคุณอาจเป็นสาเหตุของสิ่งนี้ คุณต้องการเรียกคืนการตั้งค่าเริ่มต้นหรือไม่?">
 <!ENTITY prefReset.label "เรียกคืนการตั้งค่าเริ่มต้น">
-
-<!ENTITY enableTls10.longDesc "เว็บไซต์นี้อาจไม่รองรับโปรโตคอล TLS 1.2 ซึ่งเป็นรุ่นขั้นต่ำที่รองรับโดย &brandShortName; การเปิดใช้งาน TLS 1.0 และ TLS 1.1 อาจทำให้การเชื่อมต่อนี้สำเร็จ">
-<!ENTITY enableTls10.note "TLS 1.0 และ TLS 1.1 จะถูกปิดใช้งานอย่างถาวรในรุ่นอนาคต">
-<!ENTITY enableTls10.label "เปิดใช้งาน TLS 1.0 และ 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>ไม่สามารถแสดงหน้าที่คุณกำลังพยายามจะดูเนื่องจากตรวจพบข้อผิดพลาดในโปรโตคอลเครือข่าย</p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li></ul>">

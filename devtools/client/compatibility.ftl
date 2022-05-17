@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (เลิกใช�
 compatibility-settings-button-label = การตั้งค่า
 compatibility-settings-button-title =
     .title = การตั้งค่า
-compatibility-feedback-button-label = ข้อเสนอแนะ
-compatibility-feedback-button-title =
-    .title = ข้อเสนอแนะ
 
 ## Messages used as headers in settings pane
 
@@ -41,9 +38,11 @@ compatibility-issue-occurrences =
     { $number ->
        *[other] { $number } ครั้งที่ปรากฏ
     }
+
 compatibility-no-issues-found = ไม่พบปัญหาความเข้ากันได้
 compatibility-close-settings-button =
     .title = ปิดการตั้งค่า
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

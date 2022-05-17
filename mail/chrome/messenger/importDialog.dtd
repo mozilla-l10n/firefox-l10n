@@ -24,9 +24,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "ตัวกรอง">
 <!ENTITY importFilters.accesskey  "ต">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "ตัวช่วยนำเข้าของ &brandShortName;">
 <!ENTITY importShortDesc.label    "นำเข้าจดหมาย สมุดรายชื่อ การตั้งค่า และตัวกรองจากโปรแกรมอื่น">
 

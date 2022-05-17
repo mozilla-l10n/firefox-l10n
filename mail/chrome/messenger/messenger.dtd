@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "ย">
 <!ENTITY newVirtualFolderCmd.label "การค้นหาที่บันทึกไว้…">
 <!ENTITY newVirtualFolderCmd.accesskey "ก">
-<!ENTITY newOtherAccountsCmd.label "บัญชีอื่น ๆ…">
-<!ENTITY newOtherAccountsCmd.accesskey "บ">
 <!ENTITY newCreateEmailAccountCmd.label "รับบัญชีจดหมายใหม่…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "ร">
 <!ENTITY newExistingEmailAccountCmd.label "บัญชีจดหมายที่มีอยู่…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "ป">
 <!ENTITY saveAsMenu.label "บันทึกเป็น">
 <!ENTITY saveAsMenu.accesskey "บ">
-<!ENTITY saveAsFileCmd.label "ไฟล์">
-<!ENTITY saveAsFileCmd.accesskey "ฟ">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "แม่แบบ">
 <!ENTITY saveAsTemplateCmd.accesskey "ม">

@@ -34,7 +34,6 @@ about-telemetry-events-section = เหตุการณ์
 about-telemetry-simple-measurements-section = การวัดอย่างง่าย
 about-telemetry-slow-sql-section = คำสั่ง SQL ที่ช้า
 about-telemetry-addon-details-section = รายละเอียดส่วนเสริม
-about-telemetry-captured-stacks-section = สแตกที่ถูกจับ
 about-telemetry-late-writes-section = การเขียนทีหลัง
 about-telemetry-raw-payload-section = ส่วนข้อมูลดิบ
 about-telemetry-raw = ข้อมูลดิบ JSON
@@ -120,10 +119,6 @@ about-telemetry-addon-provider = ผู้ให้บริการ { $addonPr
 about-telemetry-keys-header = คุณสมบัติ
 about-telemetry-names-header = ชื่อ
 about-telemetry-values-header = ค่า
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (จำนวนครั้งที่จับ: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = การเขียนภายหลัง #{ $lateWriteCount }

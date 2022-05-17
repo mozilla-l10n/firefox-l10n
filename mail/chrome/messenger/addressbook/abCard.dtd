@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "ม">
 <!ENTITY SecondEmail.label              "อีเมลเพิ่มเติม:">
 <!ENTITY SecondEmail.accesskey          "ล">
-<!ENTITY PreferMailFormat.label         "ต้องการที่จะรับข้อความในรูปแบบ:">
-<!ENTITY PreferMailFormat.accesskey     "ต">
 <!ENTITY PlainText.label                "ข้อความธรรมดา">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "ไม่ทราบ">

@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = จำเป็นต้องเริ่มการทำงานใหม่
-restart-required-header = ขออภัย เราจำเป็นต้องทำสิ่งเล็ก ๆ อีกเพียงหนึ่งอย่างเพื่อดำเนินการต่อ
-restart-required-intro-brand = { -brand-short-name } เพิ่งได้รับการอัปเดตในเบื้องหลัง คลิก เริ่มการทำงาน { -brand-short-name } ใหม่เพื่อดำเนินการอัปเดตให้เสร็จสมบูรณ์
-restart-required-description = เราจะกู้คืนหน้า หน้าต่าง และแท็บของคุณหลังจากนั้น เพื่อให้คุณกลับมาใช้งานต่อได้อย่างรวดเร็ว
 restart-required-heading = เริ่มการทำงานใหม่เพื่อใช้ { -brand-short-name } ต่อไป
 restart-required-intro = การอัปเดต { -brand-short-name } ได้เริ่มในเบื้องหลังแล้ว คุณจะต้องเริ่มการทำงานใหม่เพื่อทำการอัปเดตให้เสร็จสมบูรณ์
 window-restoration-info = หน้าต่างและแท็บต่าง ๆ ของคุณจะถูกเรียกคืนอย่างรวดเร็ว แต่หน้าต่างและแท็บส่วนตัวต่าง ๆ จะไม่ถูกเรียกคืน
+
 restart-button-label = เริ่มการทำงาน { -brand-short-name } ใหม่
