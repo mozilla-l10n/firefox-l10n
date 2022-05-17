@@ -18,9 +18,11 @@ videocontrols-casting-button-label =
     .aria-label = Duguachîn' riña aga' sikà' ràa ané
 videocontrols-closed-caption-off =
     .offlabel = Duna'àj
+
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Picture-in-Picture
+
 videocontrols-error-aborted = Ganikïn' sa ayi'ì bidêo 'iaj sunj.
 videocontrols-error-network = Ganikïn' sa ahui bidêo dadin' hua a'nan' red.
 videocontrols-error-decode = Na'ue gahui bidêo dadin' hua a'nan' archîbo.
@@ -28,6 +30,7 @@ videocontrols-error-src-not-supported = Formâto bideô MIME nitaj si aran' ngà
 videocontrols-error-no-source = Nu nari'ij ngà si 'ngo bideô nikaj aran' nga MIME.
 videocontrols-error-generic = Ganikïn' sa ahui bidêo dadin' hua sa a'ui' yi'ì.
 videocontrols-status-picture-in-picture = Nahui bideô nan riña modô Picture-in-Picture.
+
 # This message shows the current position and total video duration
 #
 # Variables:

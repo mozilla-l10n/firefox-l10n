@@ -63,6 +63,7 @@ app-basics-location-service-key-google = Da'nga' nikaj sa narì' Google
 app-basics-safebrowsing-key-google = Da'nga narì' si'iaj Google
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = Hua ran yi'í man
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Digun' nga Finder

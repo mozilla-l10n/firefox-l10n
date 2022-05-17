@@ -5,7 +5,6 @@
 
 ## App Menu
 
-appmenuitem-protection-dashboard-title = Riña màn nej sa dugumîn
 appmenuitem-new-tab =
     .label = Rakïj ñanj nakàa
 appmenuitem-new-window =
@@ -36,22 +35,28 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Si na'nï' rakij ñanj
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Nachrūn si sinkronisasion rakïj ñaj da' ni'iaj nej rakïj ñaj asij riña a'ngo si agat.
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Ni'iaj rakïj ñaj nū riña a'ngo si aga' asij ñuna ànj
+
 appmenu-remote-tabs-connectdevice =
     .label = Ganachun' 'ngà a'ngo aga'a...
 appmenu-remote-tabs-welcome = Ni’iāj nej rakïj ñaj āsìj riña a'ngô nej si agâ’t.
 appmenu-remote-tabs-unverified = Da'ui' ma ganatsij ma si kuentat
+
 appmenuitem-fxa-sign-in = Nutà' si yuguît riña { -brand-product-name }
+
 appmenuitem-save-page =
     .label = Na'nïnj sà' Pâjina Gù'na…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Nù huin sa nakà hua
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -65,8 +70,10 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Sa ri perfîl
     .tooltiptext = Gi'iaj grabândo 'ngō perfil nikāj rendimiênto
+
 profiler-popup-learn-more-button =
     .label = Gāhuin chrūn doj
+
 profiler-popup-settings =
     .value = Nāgi\'iô\'
 
@@ -98,9 +105,6 @@ appmenu-about =
     .accesskey = r
 appmenu-help-report-site-issue =
     .label = Natà' si huā sa huā a'na' riña sitiô…
-appmenu-help-feedback-page =
-    .label = Ga'nïnj 'ngo si nuguàn't
-    .accesskey = S
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -118,5 +122,3 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
-appmenu-taskmanager =
-    .label = Sa nikaj ñu'unj nej suun

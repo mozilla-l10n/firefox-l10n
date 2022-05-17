@@ -21,10 +21,6 @@ process-type-extension = A'ngô ra'a
 # process used to open file:// URLs
 process-type-file = archibô nichrùn'un
 
-# process used to isolate webpages that requested special
-# permission to allocate large amounts of memory
-process-type-weblargeallocation = Sa hua nìko
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Si’iaj Web nu ninïïn

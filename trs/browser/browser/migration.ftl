@@ -67,22 +67,9 @@ import-done-description = Hue'ê chre ganukuaj ma:
 
 import-close-source-browser = Gi'iaj suntuj u ni gini'iaj si 'ngà arán navegador na hìaj ni gachin ga'anjt ne'ñaan.
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Riña { $source }
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
-source-name-safari = Safari
-source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
-source-name-chrome-beta = Google Chrome Beta
-source-name-chrome-dev = Google Chrome Dev
-source-name-chromium = Chromium
-source-name-firefox = Mozilla Firefox
-source-name-360se = 360 Secure Browser
 
 imported-safari-reading-list = Nej sa ahio' (si'iaj Safari)
 imported-edge-reading-list = Nej sa ahio' (si'iaj Edge)

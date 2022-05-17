@@ -6,11 +6,11 @@ privatebrowsingpage-open-private-window-label = Ga'nin riña 'ngo ventanahuìi
     .accesskey = h
 about-private-browsing-search-placeholder = Nanà'uì' Web
 about-private-browsing-info-title = Riña 'ngo bentanâ huìi nunt
-about-private-browsing-info-myths = Nuguan' ne hua rayi'î riña aché nu huì'
 about-private-browsing-not-private = Se riña ventana hua huìi nut akuan' nï
-about-private-browsing-info-description = { -brand-short-name } Nadure'ej ne sa nana'uî't nga gaché nunt ni naran riña daran' nej bentâna ni nej rakïj ñanj riña gaché nu huì'. Nan ni sê si gata ruhuaj sisi à'ngo nadure'e sò' riña nej sîtio asi riña duguî' du'uej internet, sani rugûñu'un da' 'ngorïnt gini'in sa 'iát ngà aché nunt ni si ga'ue gini'in a'ngô guìi gà'.
-about-private-browsing-turn-on-vpn = Ginù huin { -mozilla-vpn-brand-name }
 about-private-browsing-learn-more-link = Gāhuin chrūn doj
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -23,3 +23,4 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Narán
+

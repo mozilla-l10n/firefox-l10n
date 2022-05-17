@@ -34,7 +34,6 @@ about-telemetry-events-section = Sùun
 about-telemetry-simple-measurements-section = Sa dodò' riñuun
 about-telemetry-slow-sql-section = Sa 'iaj naj SQL
 about-telemetry-addon-details-section = Daj hua sa nuto'
-about-telemetry-captured-stacks-section = Sa nahui Ñadu'ua
 about-telemetry-late-writes-section = Sa gachrûn rùn'
 about-telemetry-raw-payload-section = Sa nachra ma'an
 about-telemetry-raw = JSON nitaj si 'iaj sun
@@ -120,10 +119,6 @@ about-telemetry-addon-provider = { $addonProvider } Sa ri rasuun
 about-telemetry-keys-header = Sa nikaj ñu'un ma
 about-telemetry-names-header = Si yugui
 about-telemetry-values-header = Dàj du'ue man
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (Dàj nari ñadu'ua: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Sa gachrûn ràan #{ $lateWriteCount }

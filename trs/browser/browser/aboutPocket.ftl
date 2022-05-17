@@ -41,3 +41,7 @@ pocket-panel-signup-tagline-story-two = Ni'iājt riña { -pocket-brand-name } ng
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

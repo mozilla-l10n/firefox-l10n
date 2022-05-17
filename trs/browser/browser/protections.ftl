@@ -46,8 +46,8 @@ cryptominer-tab-title = Nej kriptominêro
 cryptominer-tab-content = Arâj sun nej kriptominêro sa hua riña si aga't da' gi'iaj tuj san'anj digital. Nej scripts nikaj nej kriptominerîa dunahuij hìo man ñan'an nu riña si aga't, nagi'iaj naj man ni ga'ue gahui yakàn ña'aan riñant. <a data-l10n-name="learn-more-link">Gahuin chrun doj</a>
   
 lockwise-title = Si gini'ñûnt da'nga' huì nikajt a'ngô ñû
-lockwise-header-content = { -lockwise-brand-name } na'nïn sà' hue'ej nej da'nga' huì nikajt riña aché nunt
 lockwise-header-content-logged-in = Nachra sà' ni nagi'iaj guña nej da'nga' huì nikajt riña daran nej si aga't.
+
 
 monitor-title = Sasà' ni'iajt sisi nadunâ nej si sa hua riña nej dâto
 monitor-link = Dàj 'iaj sunj

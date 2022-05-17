@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = Ngà' 'iaj sunj
 about-networking-idle = Nitaj si 'iaj sunj
 about-networking-host = Sa nikaj ñu'unj
-about-networking-tcp = TCP
 about-networking-sent = Ga'nìnj gan'an
 about-networking-received = Nahuin ra'á
 about-networking-family = Dugui'

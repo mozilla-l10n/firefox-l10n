@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Nej dato
 
-item-site-preferences =
-    .label = Sitio preferensia
-    .accesskey = S
-
 item-offline-apps =
     .label = Nitaj konexion hua rinà sitio web
     .accesskey = O

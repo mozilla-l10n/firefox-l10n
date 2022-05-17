@@ -123,8 +123,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Ga'ninj nugua'an ga'anj riña Mozilla da' gini'in' nej sitio hua yi'ī.">
 <!ENTITY errorReporting.learnMore "Gahuin chrūn doj...">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Gachinj ni'ia riñan nin nana'ui' ahuin si si'iaj huin sitio nan da' nata' nuin si gahuin an.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Nuguan' nga huaj ne'ñan an: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -150,9 +148,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Rû’ huaj sisī konfigurasiûn si seguridâ internet ‘iaj hua sa huā dànanj. Ruhuât nanìka dàj rû’ hua niñanj ‘naj da’ nahuin sà’aj aj?">
 <!ENTITY prefReset.label "Nagi'iaj run' hua nianj">
-
-<!ENTITY enableTls10.longDesc "Si guruhuaj nī nitāj si aran’ sitiô nan ngà TLS 1.2, dadin’ huê man huin ‘ngō sa achín &brandShortName;. Si nachrūnt TLS 1.0 ngà TLS 1.1 ga’ue ga’nïn gatūt si gurūhuaj.">
-<!ENTITY enableTls10.note "TLS 1.0 ngà TLS 1.1 narè’ nguèj man ngà versiûn nakà guruguì’.">
-<!ENTITY enableTls10.label "Nachrūn TLS 1.0 ngà 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Pajinâ ni'iājt ruhuât nī na'ue nayi'nïn dadin' huā a'nan' si protokolô red.</p><ul><li>Gi'iaj 'ngō sununj nī natà' na'ānj' riña nej duguî' sī’iaj huin pajinâ nan.</li></ul>">

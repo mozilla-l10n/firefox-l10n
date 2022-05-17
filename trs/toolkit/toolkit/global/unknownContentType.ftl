@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = Na'nïn ngà { -brand-short-name }
     .accesskey = N
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Kofigurasiûn nan ga'ue naduna riña { -brand-short-name } màn a'ngô nej sa huaa.
            *[other] Kofigurasiûn nan ga'ue naduna riña { -brand-short-name } màn sa gara' ruhuât doj.
         }
+
 unknowncontenttype-intro = Nagui rè' guendâ na'nïn rè' riña:
 unknowncontenttype-which-is = ahuin si huin:
 unknowncontenttype-from = 'na':

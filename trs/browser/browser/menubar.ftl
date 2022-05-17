@@ -41,15 +41,6 @@ menu-quit =
 menu-quit-mac =
     .label = Gahui' { -brand-shorter-name }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Gahuit { -brand-shorter-name }
-
 menu-about =
     .label = rayi'î { -brand-shorter-name }
     .accesskey = r
@@ -79,9 +70,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Na'nïn' chrûn ñanj...
     .accesskey = O
-menu-file-close =
-    .label = Narán
-    .accesskey = C
 menu-file-close-window =
     .label = Nàrrun' Window
     .accesskey = d
@@ -94,9 +82,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Naduna daj gà riña Pâjina
     .accesskey = u
-menu-file-print-preview =
-    .label = Dàj ga man si narit ñadu'ua
-    .accesskey = v
 menu-file-print =
     .label = Nari' ña du'ua
     .accesskey = P
@@ -272,9 +257,6 @@ menu-help =
     .accesskey = H
 menu-help-report-site-issue =
     .label = Natà' si huā sa huā a'na' riña sitiô…
-menu-help-feedback-page =
-    .label = Ga'nïnj 'ngo si nuguàn't
-    .accesskey = S
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
