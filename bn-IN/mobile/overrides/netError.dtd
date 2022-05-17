@@ -101,9 +101,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "<p>সম্পূর্ণ বিশ্বাসযোগ্য ইন্টারনেট সংযোগ ব্যবহার না করা হলে অথবা এই সার্ভার থেকে কোনো ধরনের সতর্কবার্তা সাধারণত না প্রদর্শিত হলে, ব্যতিক্রম যোগ না করা বাঞ্ছনীয়।</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "দূরবর্তী XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>অনুগ্রহ করে ওয়েব-সাইটের পরিচালকদেরকে এই সমস্যা সম্পর্কে অবহিত করুন।</li></ul></p>">
-
 <!ENTITY sslv3Used.title "সুরক্ষিতভাবে কানেক্ট করতে অক্ষম">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->

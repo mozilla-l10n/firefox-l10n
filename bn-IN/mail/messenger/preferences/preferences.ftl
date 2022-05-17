@@ -179,12 +179,6 @@ restore-html-label =
     .label = Restore Defaults
     .accesskey = R
 
-format-description = Configure text format behavior
-
-send-options-label =
-    .label = Send Options...
-    .accesskey = S
-
 autocomplete-description = When addressing messages, look for matching entries in:
 
 ab-label =
@@ -221,4 +215,6 @@ email-picker-label =
 
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

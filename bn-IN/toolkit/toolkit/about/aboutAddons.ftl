@@ -3,50 +3,71 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = অতিরিক্ত সামগ্রী পরিচালন ব্যবস্থা
+
 search-header-shortcut =
     .key = f
+
 list-empty-installed =
     .value = এই ধরনের কোনো অতিরিক্ত সামগ্রী ইনস্টল করা হয়নি
+
 list-empty-available-updates =
     .value = কোনো আপডেট পাওয়া যায়নি
+
 list-empty-recent-updates =
     .value = কোনো অতিরিক্ত সামগ্রী সম্প্রতি আপডেট করা হয়নি
+
 list-empty-find-updates =
     .label = আপডেটের উপস্থিতি পরীক্ষা করুন
+
 list-empty-button =
     .label = অতিরিক্ত সামগ্রী সম্বন্ধে অধিক তথ্য প্রাপ্ত করুন
+
 show-unsigned-extensions-button =
     .label = কিছু এক্সটেনশন যাচাই করা যায়নি
+
 show-all-extensions-button =
     .label = সব এক্সটেনশন প্রদর্শন করুন
+
 detail-version =
     .label = সংস্করণ
+
 detail-last-updated =
     .label = সর্বশেষ আপডেট
+
 detail-contributions-description = এই অতিরিক্ত সামগ্রীর নির্মাণকার্য বজায় রাখার জন্য, এটির নির্মাতার পক্ষ থেকে আপনাকে কিছু পরিমাণ দান করার অনুরোধ জানানো হয়েছে।
+
 detail-update-type =
     .value = স্বয়ংক্রিয় আপডেট
+
 detail-update-default =
     .label = ডিফল্ট
     .tooltiptext = শুধুমাত্র ডিফল্ট মান হিসাবে চিহ্নিত হলে, স্বয়ংক্রিয়ভাবে আপডেট ইনস্টল করা হবে
+
 detail-update-automatic =
     .label = চালু
     .tooltiptext = স্বয়ংক্রিয়ভাবে আপডেট ইনস্টল করুন
+
 detail-update-manual =
     .label = বন্ধ করুন
     .tooltiptext = স্বয়ংক্রিয়ভাবে আপডেট ইনস্টল করা হবে না
+
 detail-home =
     .label = হোম-পেজ
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = অতিরিক্ত সামগ্রীর প্রোফাইল
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = আপডেটের উপস্থিতি পরীক্ষা করুন
     .accesskey = আ
     .tooltiptext = চিহ্নিত অতিরিক্ত সামগ্রীর আপডেট পরীক্ষা করুন
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -63,15 +84,22 @@ detail-show-preferences =
             [windows] চিহ্নিত অতিরিক্ত সামগ্রীর বিকল্প মান পরিবর্তন করুন
            *[other] চিহ্নিত অতিরিক্ত সামগ্রীর পছন্দসই মান পরিবর্তন করুন
         }
+
 detail-rating =
     .value = মাত্রা
+
 addon-restart-now =
     .label = অবিলম্বে পুনরারম্ভ করুন
+
 disabled-unsigned-heading =
     .value = কিছু অ্যাড-অন অক্ষম করা হয়েছে
+
 disabled-unsigned-description = নিম্নলিখিত অ্যাড অন { -brand-short-name } ব্যবহারের জন্য যাচাই করা হয় নি। আপনি পারেন <label data-l10n-name="find-addons">প্রতিস্থাপন খুঁজে বের করুন</label> বা তাদের যাচাই করার জন্যে ডেভেলপার দের জিজ্ঞাসা করুন।
+
 disabled-unsigned-learn-more = আপনাকে নিরাপদ রাখার জন্য আমাদের সাহায্য করতে আমাদের প্রচেষ্টা সম্পর্কে আরও জানুন।
+
 disabled-unsigned-devinfo = উৎসাহী ডেভেলপার রা যারা তাদের অ্যাড অন ভেরিফাই করাতে চান তারা পড়তে পারেন আমাদের <label data-l10n-name="learn-more">ব্যবহারকারীর দ্বারা</label>।
+
 addon-category-extension = অতিরিক্ত সামগ্রী
 addon-category-extension-title =
     .title = অতিরিক্ত সামগ্রী
@@ -172,12 +200,17 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { -brand-short-name } { $version }-র সাথে { $name } সুসংগত নয়।
+
 details-notification-unsigned-and-disabled = { $name } যাচাই করা গেল না { -brand-short-name } তে ব্যবহারের জন্য, এবং অক্ষম করা হল।
 details-notification-unsigned-and-disabled-link = অধিক তথ্য
+
 details-notification-unsigned = { $name } যাচাই করা গেল না { -brand-short-name } তে ব্যবহারের জন্য, সতর্কতার সহিত এগোন।
 details-notification-unsigned-link = অধিক তথ্য
+
 details-notification-blocked = নিরাপত্তা অথবা স্থায়ীত্ব সংক্রান্ত সমস্যার দরুণ { $name } নিষ্ক্রিয় করা হয়েছে।
 details-notification-blocked-link = অতিরিক্ত বিবরণ
+
 details-notification-softblocked = { $name } দ্বারা নিরাপত্তা ও স্থায়ীত্ব সংক্রান্ত সমস্যা দেখা দেওয়ার সম্ভাবনা থাকে।
 details-notification-softblocked-link = অধিক তথ্য
+
 details-notification-gmp-pending = { $name } খুব শীঘ্রই ইনস্টল করা হবে।

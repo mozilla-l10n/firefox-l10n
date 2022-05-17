@@ -18,9 +18,11 @@ videocontrols-casting-button-label =
     .aria-label = স্ক্রিনে কাস্ট করুন
 videocontrols-closed-caption-off =
     .offlabel = বন্ধ
+
 videocontrols-error-aborted = Video loading stopped.
 videocontrols-error-network = Video playback aborted due to a network error.
 videocontrols-error-decode = Video can't be played because the file is corrupt.
 videocontrols-error-src-not-supported = Video format or MIME type is not supported.
 videocontrols-error-no-source = No video with supported format and MIME type found.
 videocontrols-error-generic = Video playback aborted due to an unknown error.
+

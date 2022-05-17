@@ -5,3 +5,4 @@
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = ডিভাইসগুলিকে সিঙ্ক করা হচ্ছে…
+

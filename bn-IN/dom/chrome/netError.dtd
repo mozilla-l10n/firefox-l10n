@@ -80,9 +80,6 @@
 <!ENTITY corruptedContentErrorv2.title "ক্ষতিগ্রস্ত তথ্য সংক্রান্ত ত্রুটি">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>তথ্য বিনিময়ের সময় সমস্যা সনাক্ত হওয়ার ফলে, অনুরোধ করা পৃষ্ঠাটি প্রদর্শন করা সম্ভব নয়।</p><ul><li>অনুগ্রহ করে, ওয়েব-সাইটের মালিকদের এই সমস্যা সম্পর্কে অবগত করুন।</li></ul>">
 
-<!ENTITY remoteXUL.title "দূরবর্তী XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>অনুগ্রহ করে ওয়েব-সাইটের পরিচালকদেরকে এই সমস্যা সম্পর্কে অবহিত করুন।</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "তোমার কানেকশনটি নিরাপদ নয়">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

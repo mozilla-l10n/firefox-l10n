@@ -6,3 +6,5 @@ privatebrowsingpage-open-private-window-label = একটি প্রাইভ�
     .accesskey = P
 about-private-browsing-not-private = অাপনি বর্তমানে কোনো গোপন উইন্ডোতে নেই।
 
+## The following strings will be used for experiments in Fx99 and Fx100
+

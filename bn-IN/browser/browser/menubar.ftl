@@ -39,15 +39,6 @@ menu-quit =
 menu-quit-mac =
     .label = প্রস্থান { -brand-shorter-name }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = প্রস্থান { -brand-shorter-name }
-
 menu-about =
     .label = { -brand-shorter-name } সম্পর্কে
     .accesskey = A
@@ -77,9 +68,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = ফাইল খুলুন...
     .accesskey = O
-menu-file-close =
-    .label = বন্ধ করুন
-    .accesskey = C
 menu-file-close-window =
     .label = উইন্ডো বন্ধ করুন
     .accesskey = d
@@ -92,9 +80,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = পৃষ্টা'র বৈশিষ্ট্য...
     .accesskey = u
-menu-file-print-preview =
-    .label = প্রিন্টের পূর্বরূপ
-    .accesskey = v
 menu-file-print =
     .label = প্রিন্ট করুন...
     .accesskey = P
@@ -264,9 +249,6 @@ menu-help =
     .accesskey = H
 menu-help-report-site-issue =
     .label = সাইটের সমস্যা রিপোর্ট করুন…
-menu-help-feedback-page =
-    .label = মতামত জানান…
-    .accesskey = S
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.

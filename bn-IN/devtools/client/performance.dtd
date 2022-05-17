@@ -58,7 +58,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "যতবার এই ফাংশান টি স্ট্যাক এ ছিল যখন প্রোফাইলার একটি নমুনা নিয়েছেন।">
 <!ENTITY performanceUI.table.function                 "ফাংশন">
 <!ENTITY performanceUI.table.function.tooltip         "নমুনা ফাংশানের নাম এবং অবস্থান।">
-<!ENTITY performanceUI.table.totalAlloc               "সর্বমোট স্যাম্পেল বরাদ্দকরণ">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "অবজেক্ট অ্যালোকেশানের মোট সংখ্যা যতটা নমুনা হিসেবে সংরক্ষণ করা হয়েছে এবং এর আহ্বায়কগণ।">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
