@@ -4,8 +4,10 @@
 
 account-settings-title = Parameters d'autentificaziun
 account-channel-title = Chanals predefinids
+
 chat-autologin =
     .label = S'annunziar cun aviar
+
 chat-encryption-generic = Generic
 chat-encryption-log =
     .label = Includer messadis criptads da-fin-a-fin en la cronologia da las conversaziuns

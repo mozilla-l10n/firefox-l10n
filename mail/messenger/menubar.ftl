@@ -8,14 +8,10 @@ toolbar-context-menu-menu-bar =
 
 ## Tools Menu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-menu-tools-preferences =
-    .label = Preferenzas
-    .accesskey = P
 menu-tools-settings =
     .label = Parameters
     .accesskey = e
+
 menu-addons-and-themes =
     .label = Supplements e designs
     .accesskey = S
@@ -25,9 +21,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Modus per schliar problems…
     .accesskey = M
+
 menu-help-exit-troubleshoot-mode =
     .label = Deactivar il modus per schliar problems
     .accesskey = o
+
 menu-help-more-troubleshooting-info =
     .label = Dapli infurmaziuns per schliar problems
     .accesskey = m
@@ -58,15 +56,19 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Cumpactadad
     .accesskey = C
+
 mail-uidensity-compact =
     .label = Cumpact
     .accesskey = u
+
 mail-uidensity-normal =
     .label = Normal
     .accesskey = N
+
 mail-uidensity-touch =
     .label = Touch
     .accesskey = T
+
 menu-spaces-toolbar-button =
     .label = Trav d'utensils da locals
     .accesskey = s

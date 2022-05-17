@@ -86,9 +86,6 @@
 <!ENTITY corruptedContentErrorv2.title "Errur da cuntegn donnegià">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Impussibel da visualisar la pagina che ti vuls chargiar perquai ch'ina errur è sa mussada en la transmissiun da datas.</p><ul><li>Contactescha per plaschair ils possessurs da la website per als infurmar davart quest problem.</li></ul>">
 
-<!ENTITY remoteXUL.title "Remote-XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Infurmescha per plaschair il possesur da la website davart quest problem.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Tia connexiun n'è betg segirada">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

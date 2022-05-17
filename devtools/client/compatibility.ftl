@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (deprecated, experime
 compatibility-settings-button-label = Settings
 compatibility-settings-button-title =
     .title = Settings
-compatibility-feedback-button-label = Feedback
-compatibility-feedback-button-title =
-    .title = Feedback
 
 ## Messages used as headers in settings pane
 
@@ -42,9 +39,11 @@ compatibility-issue-occurrences =
         [one] { $number } occurrence
        *[other] { $number } occurrences
     }
+
 compatibility-no-issues-found = No compatibility issues found.
 compatibility-close-settings-button =
     .title = Close settings
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

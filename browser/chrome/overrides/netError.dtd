@@ -155,8 +155,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Rapportar talas errurs per gidar a Mozilla dad identifitgar e bloccar paginas che pon donnegiar tes computer">
 <!ENTITY errorReporting.learnMore "Ulteriuras infurmaziuns…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Infurmescha per plaschair il possessur da la website davart quest problem.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Infurmaziuns avanzadas: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -182,9 +180,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "I para ch'ils parameters da segirezza da tia rait chaschunian quest problem. Vuls ti restaurar ils parameters da standard?">
 <!ENTITY prefReset.label "Restaurar il standard">
-
-<!ENTITY enableTls10.longDesc "Questa website na sustegna betg il protocol TLS 1.2, la versiun minimala che &brandShortName; pretenda. Eventualmain po la connexiun vegnir stabilida cun activar TLS 1.0 e TLS 1.1.">
-<!ENTITY enableTls10.note "TLS 1.0 e TLS 1.1 vegn deactivà permanentamain en ina versiun futura.">
-<!ENTITY enableTls10.label "Activar TLS 1.0 e 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Impussibel da mussar la pagina che ti emprovas da chargiar perquai ch'igl è succedida ina errur en il protocol da rait.</p><ul><li>Contactescha per plaschair il possessur da la website per al infurmar davart quest problem.</li></ul>">
