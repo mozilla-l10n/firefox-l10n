@@ -23,3 +23,6 @@ no-plugins-are-installed-label = A ku nghenisiwangi tipulaga
 mime-type-label = Muxaka wa MIME
 description-label = Nhlamuselo
 suffixes-label = Swinembenetwa
+
+## Gecko Media Plugins (GMPs)
+

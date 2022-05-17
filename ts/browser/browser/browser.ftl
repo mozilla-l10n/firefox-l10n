@@ -106,6 +106,7 @@ urlbar-go-button =
 
 bookmarks-sidebar-content =
     .aria-label = Timakara ta buku
+
 bookmarks-toolbar-menu =
     .label = Xo secha timakara ta buku
 bookmarks-toolbar-placeholder =
@@ -126,10 +127,6 @@ bookmarks-toolbar-placeholder-button =
 
 
 ## More items
-
-more-menu-go-offline =
-    .label = Tirha u nga ri layinini
-    .accesskey = t
 
 ## EME notification panel
 
@@ -152,6 +149,7 @@ more-menu-go-offline =
 popups-infobar-allow =
     .label = Pfumela ku tlakuka ka { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Sivela ku tlakuka ka { $uriHost }
     .accesskey = p
@@ -173,8 +171,10 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Panga nakambe
+
 navbar-search =
     .title = Secha
+
 tabs-toolbar-new-tab =
     .label = Thebe yintshwa
 

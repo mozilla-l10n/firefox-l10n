@@ -129,12 +129,6 @@ language-popup-label =
 
 download-dictionaries-link = Panga tidikixinari tin'wana
 
-format-description = Xiya matirhelo ya xivumbeko xa tsalwa
-
-send-options-label =
-    .label = Mahlawulele yo rhumela...
-    .accesskey = M
-
 autocomplete-description = Loko u adirese mahungu, lava leswi tsariweke leswi yelanaka eka:
 
 ab-label =
@@ -171,4 +165,6 @@ email-picker-label =
 
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 
