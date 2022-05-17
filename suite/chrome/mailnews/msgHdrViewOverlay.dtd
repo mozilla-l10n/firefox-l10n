@@ -23,9 +23,6 @@
 <!ENTITY inReplyToField.label "Som-Svar-Til: ">
 <!ENTITY originalWebsite.label "Nettsted: ">
 
-<!ENTITY editMessage.label                 "Rediger utkast …">
-<!ENTITY editMessage.accesskey             "R">
-
 <!ENTITY editDraft.label                   "Rediger utkast …">
 <!ENTITY editDraft.accesskey               "u">
 <!ENTITY editTemplate.label                "Rediger mal …">

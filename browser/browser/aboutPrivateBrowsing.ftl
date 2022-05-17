@@ -6,7 +6,6 @@ privatebrowsingpage-open-private-window-label = Åpne et privat vindu
     .accesskey = Å
 about-private-browsing-search-placeholder = Søk på nettet
 about-private-browsing-info-title = Du er i et privat vindu
-about-private-browsing-info-myths = Vanlige myter om privat nettlesing
 about-private-browsing-search-btn =
     .title = Søk på nettet
 # Variables
@@ -20,16 +19,15 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Søk med { $engine } eller skriv inn adresse
 about-private-browsing-handoff-text-no-engine = Søk eller skriv inn adresse
 about-private-browsing-not-private = Du er for tiden ikke i et privat vindu.
-about-private-browsing-info-description = { -brand-short-name } fjerner søk- og nettleserhistorikken når du avslutter programmet eller lukker alle private faner og vinduer. Selv om dette ikke gjør deg anonym for nettsteder eller Internett-leverandøren din, vil det gjøre det lettere å beholde det du gjør på nettet privat fra alle andre som bruker denne datamaskinen.
-about-private-browsing-need-more-privacy = Trenger du mer personvern?
-about-private-browsing-turn-on-vpn = Prøv { -mozilla-vpn-brand-name }
 about-private-browsing-info-description-private-window = Private vindu: { -brand-short-name } sletter søke- og nettleserloggen din når du lukker alle private vinduer. Dette gjør deg ikke anonym.
 about-private-browsing-info-description-simplified = { -brand-short-name } sletter søke- og nettleserloggen din når du lukker alle private vinduer, men dette gjør deg ikke anonym.
 about-private-browsing-learn-more-link = Les mer
+
 about-private-browsing-hide-activity = Skjul aktiviteten og plasseringen din, hvor enn du surfer
 about-private-browsing-get-privacy = Få personvernbeskyttelse overalt der du surfer
 about-private-browsing-hide-activity-1 = Skjul nettleseraktivitet og plasseringen din med { -mozilla-vpn-brand-name }. Ett klikk skaper en sikker tilkobling, selv på offentlig Wi-Fi.
 about-private-browsing-prominent-cta = Hold deg privat med { -mozilla-vpn-brand-name }
+
 about-private-browsing-focus-promo-cta = Last ned { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Privat nettlesing mens du er på farten
 about-private-browsing-focus-promo-text = Vår dedikerte mobilapp for privat nettlesing sletter historikken og infokapslene hver gang.
@@ -40,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Ta privat nettlesing til telefonen
 about-private-browsing-focus-promo-text-b = Bruk { -focus-brand-name } for de private søkene du ikke vil at din hoved mobilnettleser skal se.
 about-private-browsing-focus-promo-header-c = Personvern på neste nivå på mobile enheter
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } sletter historikken din hver gang mens du blokkerer annonser og sporere.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -52,7 +51,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Lukk
-about-private-browsing-dismiss-button =
-    .title = Ignorer
+
 about-private-browsing-promo-close-button =
     .title = Lukk

@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Annen e-post:">
 <!ENTITY SecondEmail.accesskey          "o">
-<!ENTITY PreferMailFormat.label         "Foretrekker å motta meldinger formatert som:">
-<!ENTITY PreferMailFormat.accesskey     "m">
 <!ENTITY PlainText.label                "Ren tekst">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Ukjent">

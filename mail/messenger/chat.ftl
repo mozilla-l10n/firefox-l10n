@@ -4,14 +4,19 @@
 
 chat-joining-chat-icon2 =
     .alt = Blir med i nettpraten
+
 chat-left-chat-icon2 =
     .alt = Forlot nettpraten
+
 chat-participant-owner-role-icon2 =
     .alt = Eier
+
 chat-participant-administrator-role-icon2 =
     .alt = Administrator
+
 chat-participant-moderator-role-icon2 =
     .alt = Moderator
+
 chat-participant-voiced-role-icon2 =
     .alt = Deltakeren kan legge ut meldinger
 

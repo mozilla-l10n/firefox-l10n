@@ -8,10 +8,13 @@
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = Systemtema — automatisk
 extension-default-theme-description = Bruker samme fargeskjema som operativsystemet for knapper, menyer og vindu.
+
 extension-firefox-compact-light-name = Lyst
 extension-firefox-compact-light-description = Et tema med et lyst fargevalg.
+
 extension-firefox-compact-dark-name = Mørkt
 extension-firefox-compact-dark-description = Et tema med et mørkt fargevalg.
+
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Bruk et fargerikt utseende for knapper, menyer og vinduer.
 

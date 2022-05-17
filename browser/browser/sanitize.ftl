@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Data
 
-item-site-preferences =
-    .label = Nettstedsinnstillinger
-    .accesskey = N
-
 item-site-settings =
     .label = Nettstedsinnstillinger
     .accesskey = N
