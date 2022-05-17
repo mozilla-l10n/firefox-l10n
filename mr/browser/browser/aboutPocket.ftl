@@ -41,3 +41,7 @@ pocket-panel-signup-tagline-story-two = कधीही कुठल्याह
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

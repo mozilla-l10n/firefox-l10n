@@ -79,9 +79,6 @@
 <!ENTITY corruptedContentErrorv2.title "दोषीत अंतर्भुत माहिती त्रुटी">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>डाटा स्थानांतरनवेळी त्रुटी आढळल्याने दृष्यास्पद पृष्ठ दाखवणे अशक्य आहे.</p><ul><li>या अडचणीविषयी माहिती पूरवण्याकरीता, कृपया संकेतस्थळाच्या मालकांशी संपर्क करा.</li></ul>">
 
-<!ENTITY remoteXUL.title "रिमोट XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>या अडचणीविषयी कळवण्यासाठी कृपया संकेतस्थळाच्या मालकांशी संपर्क करा.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "आपली जोडणी सुरक्षीत नाही">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (खाजगी ब्राउझिंग)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (खाजगी ब्राउझिंग)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (खाजगी ब्राउझिंग)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (खाजगी ब्राउझिंग)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -122,10 +124,12 @@ urlbar-canvas-blocked =
     .tooltiptext = आपण ह्या वेबसाइटसाठी कॅनव्हास डेटा उतारा अवरोधित केला आहे.
 urlbar-midi-blocked =
     .tooltiptext = या संकेतस्थळासाठी MIDI वापर अवरोधित केला आहे.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ही वाचनखूण ({ $shortcut }) संपादीत करा
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -150,14 +154,17 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = यावेळी, यासह शोधा:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = शोध सेटिंगस बदला
+
 search-one-offs-context-open-new-tab =
     .label = नवीन टॅबमध्ये शोधा
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = पूर्वनिर्धारित शोध इंजिन म्हणून ठरवा
     .accesskey = D
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -188,6 +195,7 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = जतन करतांना संपादक दर्शवा
     .accesskey = S
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -213,6 +221,7 @@ identity-passive-loaded = या पृष्ठावरील काही भ
 identity-active-loaded = आपण ह्या पृष्ठावरील सुरक्षा बंद केली आहे.
 identity-weak-encryption = हे पृष्ठ कमकुवत एनक्रिप्शन वापरते.
 identity-insecure-login-forms = आपण ह्या पृष्ठावर दिलेल्या लॉग इन माहितीबरोबर तडजोड होऊ शकते.
+
 identity-permissions-reload-hint = आपल्याला बदल लागू करण्यासाठी पृष्ठ पुन्हा लोड करावे लागू शकते.
 identity-clear-site-data =
     .label = कुकीज आणि साईट माहिती पुसा…
@@ -275,15 +284,19 @@ popup-all-windows-shared = पडद्यावरील सर्व दृष
 
 urlbar-placeholder =
     .placeholder = शोधा किंवा पत्ता द्या
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } सोबत शोधा किंवा पत्ता प्रविष्ट करा
+
 urlbar-switch-to-tab =
     .value = टॅबचा वापर करा:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = एक्सटेंशन:
+
 urlbar-go-button =
     .tooltiptext = स्थान पट्टीतील पत्त्यावर जा
 urlbar-page-action-button =
@@ -315,9 +328,12 @@ urlbar-result-action-visit = भेट द्या
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> आता पूर्ण स्क्रीन आहे
 fullscreen-warning-no-domain = हे दस्तऐवज आता पूर्ण स्क्रीन झाले आहे
+
+
 fullscreen-exit-button = पूर्ण स्क्रीनमधून बाहेर पडा (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = पूर्ण स्क्रीनमधून बाहेर पडा (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -363,6 +379,7 @@ bookmarks-tools =
     .label = वाचनखुणा साधने
 bookmarks-bookmark-edit-panel =
     .label = ही वाचनखूण संपादीत करा
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -396,28 +413,30 @@ save-to-pocket-button =
 
 ## More items
 
-more-menu-go-offline =
-    .label = ऑफलाईन काम करा
-    .accesskey = k
 toolbar-overflow-customize-button =
     .label = साधनपट्टी बदला...
     .accesskey = C
+
 toolbar-button-email-link =
     .label = ईमेल दुवा
     .tooltiptext = ह्या पृष्ठासाठीचा दुवा ईमेल करा
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = पृष्ठ संकलित करा
     .tooltiptext = हे पृष्ठ संकलित करा ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = फाइल उघडा
     .tooltiptext = फाइल उघडा ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = ताळमेळीत टॅब्स
     .tooltiptext = आपल्या इतर उपकरणांवरील टॅब्स येथे दाखवा
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -448,6 +467,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } कडील पॉपअप्सना परवानगी द्यावी
     .accesskey = p
+
 popups-infobar-block =
     .label = { $uriHost } कडील पॉपअप्सना अडवावे
     .accesskey = p
@@ -457,6 +477,7 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = पॉपअप्स् अवरेधीत केलेले असताना हा संदेश दाखवू नये
     .accesskey = D
+
 picture-in-picture-hide-toggle =
     .label = पिक्चर-इन-पिक्चर टॉगल लपवा
     .accesskey = H
@@ -475,32 +496,42 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = संचारन
+
 navbar-downloads =
     .label = डाउनलोड्स
+
 navbar-overflow =
     .tooltiptext = आणखी साधने…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = छापा
     .tooltiptext = ह्या पृष्ठाची छपाई करा… ({ $shortcut })
+
 navbar-home =
     .label = घर, आरंभस्थळ
     .tooltiptext = { -brand-short-name } मुख्यपृष्ठ
+
 navbar-library =
     .label = लायब्ररी
     .tooltiptext = इतिहास दाखवा, जतन केलेल्या वाचनखुणा, आणि अधिक
+
 navbar-search =
     .title = शोधा
+
 navbar-accessibility-indicator =
     .tooltiptext = सुलभता वैशिष्ट्ये सक्षम आहेत
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = ब्राउझर टॅब्स्
+
 tabs-toolbar-new-tab =
     .label = नवीन टॅब
+
 tabs-toolbar-list-all-tabs =
     .label = सर्व टॅब्स्ची सूची
     .tooltiptext = सर्व टॅब्स्ची सूची

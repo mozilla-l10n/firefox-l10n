@@ -12,11 +12,14 @@
 ## the label.
 
 toolbox-meatball-menu-dock-separate-window-label = वेगळे पटल
+
 toolbox-meatball-menu-splitconsole-label = विभागलेले कन्सोल दाखवा
 toolbox-meatball-menu-hideconsole-label = विभागलेले कन्सोल लपवा
+
 toolbox-meatball-menu-settings-label = सेटिंग
 toolbox-meatball-menu-documentation-label = दस्तऐवजीकरण…
 toolbox-meatball-menu-community-label = समुदाय…
+
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.

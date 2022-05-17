@@ -87,8 +87,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Mozilla ला दुर्भावनायुक्त साईट्स ओळखता यावे साठी व त्यांना अवरोधीत करता यावे यासाठी अश्या प्रकारच्या त्रुटी सादर करा">
 <!ENTITY errorReporting.learnMore "अधिक जाणा…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>या अडचणीविषयी कळवण्यासाठी कृपया संकेतस्थळाच्या मालकांशी संपर्क करा.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "सखोल माहिती: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -104,6 +102,4 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "असे दिसते की आपल्या नेटवर्क सुरक्षा सेटिंग्ज या साठी कारणीभूत असू शकते.आपण पूर्वनिर्धारित सेटिंग्ज पुनर्संचयित करू इच्छिता का?">
 <!ENTITY prefReset.label "पूर्वनिर्धारीत सेटिंग पुनर्स्थापित करा">
-
-<!ENTITY enableTls10.label "TLS 1.0 आणि 1.1 सक्षम करा">
 

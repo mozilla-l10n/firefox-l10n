@@ -16,15 +16,9 @@ newtab-search-box-search-button =
     .title = शोधा
     .aria-label = शोधा
 
-newtab-search-box-search-the-web-input =
-    .placeholder = वेबवर शोधा
-    .title = वेबवर शोधा
-    .aria-label = वेबवर शोधा
-
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = शोध इंजीन जोडा
-newtab-topsites-add-topsites-header = नवीन खास साइट
 newtab-topsites-edit-topsites-header = खास साईट संपादित करा
 newtab-topsites-title-label = शिर्षक
 newtab-topsites-title-input =
@@ -155,7 +149,6 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = खास साईट
-newtab-section-header-highlights = ठळक
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } तर्फे शिफारस
@@ -184,6 +177,9 @@ newtab-discovery-empty-section-topstories-timed-out = अरेरे! आम्
 newtab-pocket-read-more = लोकप्रिय विषय:
 newtab-pocket-more-recommendations = अधिक शिफारसी
 newtab-pocket-cta-button = { -pocket-brand-name } मिळवा
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
