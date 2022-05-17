@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Vazgeç
 screenshots-overlay-instructions = Bir bölgeyi seçmek için işaretçiyi sürükleyin veya tıklayın. İptal etmek için ESC tuşuna basın.
+screenshots-overlay-download-button = İndir
+screenshots-overlay-copy-button = Kopyala
