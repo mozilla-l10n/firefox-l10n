@@ -53,9 +53,6 @@ account-setup-password-label = Passwort
 account-provisioner-button = Neue E-Mail-Adresse erhalten
     .accesskey = u
 
-account-setup-password-toggle =
-    .title = Passwortanzeige umschalten
-
 account-setup-remember-password = Passwort speichern
     .accesskey = s
 
@@ -176,18 +173,9 @@ account-setup-results-area-title =
         *[other] Verfügbare Konfigurationen
     }
 
-# Note: IMAP is the name of a protocol.
-account-setup-result-imap = IMAP
-
 account-setup-result-imap-description = Ordner und E-Mails mit dem Server synchronisieren
 
-# Note: POP3 is the name of a protocol.
-account-setup-result-pop = POP3
-
 account-setup-result-pop-description = Ordner und E-Mails auf dem Computer speichern
-
-# Note: Exchange is the name of a product.
-account-setup-result-exchange = Exchange
 
 # Note: Exchange, Office365 are the name of products.
 account-setup-result-exchange2-description = Microsoft-Exchange-Server oder Office365-Cloud-Dienste verwenden
@@ -199,8 +187,6 @@ account-setup-outgoing-title = Postausgangs-Server
 account-setup-username-title = Benutzername
 
 account-setup-exchange-title = Server
-
-account-setup-result-smtp = SMTP
 
 account-setup-result-no-encryption = Keine Verschlüsselung
 
@@ -233,12 +219,6 @@ account-setup-manual-config-title = Manuelle Einrichtigung
 account-setup-incoming-server-legend = Posteingangs-Server
 
 account-setup-protocol-label = Protokoll:
-
-protocol-imap-option = { account-setup-result-imap }
-
-protocol-pop-option = { account-setup-result-pop }
-
-protocol-exchange-option = { account-setup-result-exchange }
 
 account-setup-hostname-label = Hostname:
 

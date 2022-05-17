@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+## Window controls
+
 # Variables:
 # $count (Number) - Number of unread messages.
 unread-messages-os-tooltip =
@@ -84,11 +86,6 @@ redirect-msg-menuitem =
 
 ## AppMenu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-appmenu-preferences =
-    .label = Einstellungen
-
 appmenu-addons-and-themes =
     .label = Add-ons und Themes
 
@@ -113,6 +110,8 @@ context-menu-redirect-msg =
 
 other-action-redirect-msg =
     .label = Umleiten
+
+## Message header cutomize panel
 
 ## Action Button Context Menu
 
@@ -152,3 +151,12 @@ repair-text-encoding-button =
 no-reply-title = Antwort nicht unterstützt
 no-reply-message = Nachrichten an die Antwortadresse ({ $email }) werden wahrscheinlich von niemandem gelesen.
 no-reply-reply-anyway-button = Trotzdem antworten
+
+## error messages
+
+## Spaces toolbar
+
+## Spaces toolbar pinned tab menupopup
+
+## Spaces toolbar customize panel
+

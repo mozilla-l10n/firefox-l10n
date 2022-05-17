@@ -56,8 +56,6 @@ inactive-css-not-grid-or-flex-container-fix = Versuchen Sie, <strong>display:gri
 
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Versuchen Sie, <strong>display:grid</strong>, <strong>display:flex</strong> oder <strong>columns:2</strong> hinzuzufügen. { learn-more }
 
-inactive-css-not-grid-or-flex-item-fix-2 = Versuchen Sie, <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> oder <strong>display:inline-flex</strong> hinzuzufügen. { learn-more }
-
 inactive-css-not-grid-or-flex-item-fix-3 = Versuchen Sie, <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> oder <strong>display:inline-flex</strong> zum übergeordneten Element hinzuzufügen. { learn-more }
 
 inactive-css-not-grid-item-fix-2 = Versuchen Sie, <strong>display:grid</strong> oder <strong>display:inline-grid</strong>zum übergeordneten Element hinzuzufügen. { learn-more }

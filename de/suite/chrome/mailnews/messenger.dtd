@@ -313,9 +313,6 @@
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Anhang">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
-<!ENTITY editMsgAsNewCmd.label "Nachricht als neu bearbeiten">
-<!ENTITY editMsgAsNewCmd.accesskey "b">
-<!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY editAsNewMsgCmd.label "Als neue Nachricht bearbeiten">
 <!ENTITY editAsNewMsgCmd.accesskey "b">
 <!ENTITY editAsNewMsgCmd.key "e">
@@ -479,8 +476,6 @@
 <!ENTITY contextOpenNewWindow.accesskey "F">
 <!ENTITY contextOpenNewTab.label "Nachricht in neuem Tab öffnen">
 <!ENTITY contextOpenNewTab.accesskey "T">
-<!ENTITY contextEditAsNew.label "Als neu bearbeiten…">
-<!ENTITY contextEditAsNew.accesskey "u">
 <!ENTITY contextEditMsgAsNew.label "Als neue Nachricht bearbeiten">
 <!ENTITY contextEditMsgAsNew.accesskey "u">
 <!ENTITY contextEditDraftMsg.label "Entwurf bearbeiten">

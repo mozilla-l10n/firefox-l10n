@@ -111,6 +111,7 @@
 <!ENTITY newContactButton.accesskey                     "K">
 <!ENTITY newlistButton.label                            "Neue Liste">
 <!ENTITY newlistButton.accesskey                        "L">
+
 <!ENTITY showAsDefault.label                            "Standardordner beim Start">
 <!ENTITY showAsDefault.accesskey                        "S">
 <!ENTITY editPropertiesButton.label                     "Bearbeiten">

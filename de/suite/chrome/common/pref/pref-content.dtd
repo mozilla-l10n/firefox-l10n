@@ -7,12 +7,6 @@
 <!ENTITY pref.content.title                     "Inhalte">
 <!ENTITY pref.content.description               "Diese Einstellungen beeeinflussen, wie Webseiten- und Nachrichteninhalte in &brandShortName; dargestellt werden.">
 
-<!ENTITY siteIcons.label                        "Website-Symbole">
-<!ENTITY useSiteIcons.label                     "Website-Symbole anzeigen">
-<!ENTITY useSiteIcons.accesskey                 "W">
-<!ENTITY useFavIcons2.label                     "Favicon-Symbol des Servers verwenden, wenn die Seite kein Symbol definiert">
-<!ENTITY useFavIcons2.accesskey                 "F">
-
 <!ENTITY scrolling.label                        "Scrolling">
 <!ENTITY useAutoScroll.label                    "Autoscrolling verwenden">
 <!ENTITY useAutoScroll.accesskey                "u">
@@ -43,6 +37,4 @@
 
 <!ENTITY allowHWAccel.label                     "Hardwarebeschleunigung verwenden, wenn verfügbar">
 <!ENTITY allowHWAccel.accesskey                 "H">
-<!ENTITY blockAutoRefresh.label                 "Warnen, wenn Websites versuchen, weiterzuleiten oder die Seite neu zu laden">
-<!ENTITY blockAutoRefresh.accesskey             "n">
 

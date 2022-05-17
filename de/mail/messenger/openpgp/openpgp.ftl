@@ -236,6 +236,7 @@ openpgp-key-man-key-details-key =
 
 openpgp-key-details-title =
     .title = Schlüsseleigenschaften
+
 openpgp-key-details-signatures-tab =
     .label = Zertifizierungen
 openpgp-key-details-structure-tab =
@@ -248,6 +249,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Typ
 openpgp-key-details-key-part-label =
     .label = Schlüsselteil
+
 openpgp-key-details-algorithm-label =
     .label = Algorithmus
 openpgp-key-details-size-label =
@@ -264,7 +266,6 @@ openpgp-key-details-fingerprint-label = Fingerabdruck
 openpgp-key-details-sel-action =
   .label = Aktion wählen…
   .accesskey = w
-openpgp-key-details-also-known-label = Vorgebliche alternative Identitäten des Schlüsselbesitzers:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Schließen
 openpgp-acceptance-label =
@@ -280,7 +281,6 @@ openpgp-acceptance-verified-label =
 key-accept-personal =
     Sie verfügen sowohl über den öffentlichen als auch über den geheimen Teil dieses Schlüssels und können ihn daher als persönlichen Schlüssel verwenden.
     Falls Sie diesen Schlüssel von einer anderen Person erhalten haben, dürfen Sie diesen nicht als persönlichen Schlüssel verwenden.
-key-personal-warning = Haben Sie den Schlüssel selbst erzeugt und gibt der Schlüssel Sie als Besitzer aus?
 openpgp-personal-no-label =
     .label = Nein, nicht als meinen persönlichen Schlüssel verwenden.
 openpgp-personal-yes-label =
@@ -290,14 +290,6 @@ openpgp-copy-cmd-label =
     .label = Kopieren
 
 ## e2e encryption settings
-
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $identity (String) - the email address of the currently selected identity
-openpgp-description = { $count ->
-    [0]     Thunderbird verfügt über keinen persönlichen OpenPGP-Schlüssel für <b>{ $identity }</b>.
-    [one]   Thunderbird verfügt über { $count } persönlichen OpenPGP-Schlüssel für <b>{ $identity }</b>.
-   *[other] Thunderbird verfügt über { $count } persönliche OpenPGP-Schlüssel für <b>{ $identity }</b>.
-}
 
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Derzeit ist die Verwendung der Schlüssel-ID <b>{ $key }</b> festgelegt.
@@ -376,15 +368,12 @@ key-expired-date = Der Schlüssel lief am { $keyExpiry } ab.
 key-expired-simple = Der Schlüssel ist abgelaufen.
 key-revoked-simple = Der Schlüssel wurde widerrufen.
 key-do-you-accept = Akzeptieren Sie diesen Schlüssel für das Verifizieren von digitalen Unterschriften und das Verschlüsseln von Nachrichten?
-key-accept-warning = Akzeptieren Sie nur vertrauenswürdige Schlüssel. Verwenden Sie einen anderen Kommunikationskanal als E-Mail, um den Fingerabdruck des Schlüssels Ihres Kontakts zu verifizieren.
 
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Die Nachricht konnte nicht gesendet werden, da es ein Problem mit Ihrem persönlichen Schlüssel gibt. { $problem }
 cannot-encrypt-because-missing = Die Nachricht kann nicht mit Ende-zu-Ende-Verschlüsselung gesendet werden, weil es Probleme mit den Schlüsseln folgender Empfänger gibt: { $problem }
 window-locked = Das Verfassen-Fenster ist gesperrt, der Sende-Vorgang wurde abgebrochen.
 
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Verschlüsselter Teil der Nachricht
 mime-decrypt-encrypted-part-concealed-data = Dies ist ein verschlüsselter Teil der Nachricht. Sie müssen ihn in einem separaten Fenster öffnen, indem Sie auf den Anhang klicken.
 
 # Strings in keyserver.jsm
@@ -410,27 +399,6 @@ converter-decrypt-body-failed =
     Die Nachricht mit dem Betreff
     { $subject }
     konnte nicht entschlüsselt werden. Wollen Sie es mit einem anderen Passwort erneut versuchen oder die Nachricht überspringen?
-
-# Strings in gpg.jsm
-unknown-signing-alg = Unbekannter Signatur-Algorithmus (ID: { $id })
-unknown-hash-alg = Unbekannter kryptographischer Hash (ID: { $id })
-
-# Strings in keyUsability.jsm
-expiry-key-expires-soon =
-    Ihr Schlüssel { $desc } läuft in weniger als { $days } Tagen ab.
-    Es wird empfohlen, dass Sie ein neues Schlüsselpaar erzeugen und die entsprechenden E-Mail-Konten so einstellen, dass das neue Schlüsselpaar verwendet wird.
-expiry-keys-expire-soon =
-    In weniger als { $days } Tagen laufen die folgenden Schlüssel ab: { $desc }
-    Es wird empfohlen, dass Sie neue Schlüsselpaare erzeugen und die entsprechenden E-Mail-Konten so einstellen, dass die neuen Schlüsselpaare verwendet werden.
-expiry-key-missing-owner-trust =
-    Ihrem geheimen Schlüssel { $desc } wird nicht vertraut.
-    Es wird empfohlen, in den Schlüsseleigenschaften die Einstellung "Sie vertrauen Zertifizierungen" auf "absolut" setzen.
-expiry-keys-missing-owner-trust =
-    Ihren folgenden geheimen Schlüsseln wird nicht vertraut.
-    { $desc }.
-    Es wird empfohlen, in den Schlüsseleigenschaften die Einstellung "Sie vertrauen Zertifizierungen" auf "absolut" setzen.
-expiry-open-key-manager = Verwaltung von OpenPGP-Schlüsseln öffnen
-expiry-open-key-properties = Schlüsseleigenschaften öffnen
 
 # Strings filters.jsm
 filter-folder-required = Sie müssen einen Zielordner wählen.
@@ -668,19 +636,9 @@ send-to-news-warning =
     Davon wird abgeraten, da es nur sinnvoll ist, falls alle Mitglieder der Newsgruppe die Nachricht entschlüsseln können, z.B. wenn die Nachricht mit den Schlüsseln aller Gruppenmitglieder verschlüsselt ist. Senden Sie diese Nachricht nur, wenn Sie wirklich wissen, was Sie tun.
     Fortfahren?
 save-attachment-header = Entschlüsselten Anhang speichern
-no-temp-dir =
-    Kein temporäres Verzeichnis für Schreibvorgänge erkannt.
-    Bitte setzen Sie die TEMP-Umgebungsvariable.
 possibly-pgp-mime = Eventuell mit PGP/MIME verschlüsselte oder unterschriebene Nachricht; verwenden Sie die Funktion 'Entschlüsseln/Verifizieren' zum Verifizieren
 cannot-send-sig-because-no-own-key = Die Nachricht kann nicht digital unterschrieben werden, da Sie noch keine Ende-zu-Ende-Verschlüsselung für <{ $key }> eingerichtet haben.
 cannot-send-enc-because-no-own-key = Die Nachricht kann nicht verschlüsselt gesendet werden, da Sie noch keine Ende-zu-Ende-Verschlüsselung für <{ $key }> eingerichtet haben.
-
-compose-menu-attach-key =
-    .label = Meinen öffentlichen Schlüssel anhängen
-    .accesskey = M
-compose-menu-encrypt-subject =
-    .label = Betreff verschlüsseln
-    .accesskey = B
 
 # Strings used in decryption.jsm
 do-import-multiple =

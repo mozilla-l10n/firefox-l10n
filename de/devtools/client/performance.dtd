@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Absolute Häufigkeit, mit der diese Funktion Teil der Aufrufliste war, als diese von der Laufzeitanalyse abgerufen wurde">
 <!ENTITY performanceUI.table.function                 "Funktion">
 <!ENTITY performanceUI.table.function.tooltip         "Name und Adresse im Quellcode der aufgezeichneten Funktion">
-<!ENTITY performanceUI.table.totalAlloc               "Aufgezeichnete Gesamtallokationen">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Gesamtzahl der aufgezeichneten Object-Allokationen für diese Adresse und in von dieser aufgerufenen Funktionen">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

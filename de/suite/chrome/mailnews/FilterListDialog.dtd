@@ -34,6 +34,4 @@
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "Ausgewählte(n) Filter anwenden auf:">
 <!ENTITY folderPickerPrefix.accesskey "A">
-<!ENTITY choosethis.label "">
-<!ENTITY choosethisnewsserver.label "">
 <!ENTITY searchBox.emptyText "Nach Filternamen suchen…">

@@ -38,6 +38,8 @@ app-name-becky = Becky! Internet Mail
 
 app-name-apple-mail = Apple Mail
 
+## Import from file selections
+
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Aus { $app } importieren
@@ -86,9 +88,9 @@ addr-book-directories-pane-source = Quelldatei:
 
 addr-book-import-into-new-directory = Neuen Ordner erstellen
 
-## Import dialog
+## Import from address book file steps
 
-progress-pane-title = Import wird ausgeführt
+## Import dialog
 
 progress-pane-importing = Import wird ausgeführt
 

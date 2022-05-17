@@ -123,12 +123,6 @@ openpgp-import-key-description = Sie können persönliche Schlüssel importieren
 
 openpgp-import-key-info = Andere Software kann den persönlichen Schlüssel anders bezeichnen, z.B. "Ihr eigener Schlüssel", "geheimer Schlüssel", "privater Schlüssel" oder "Schlüsselpaar".
 
-#   $count (Number) - the number of keys found in the selected files
-openpgp-import-key-list-amount = { $count ->
-    [one]   Thunderbird erkannte einen importierbaren Schlüssel.
-   *[other] Thunderbird erkannte { $count } importierbare Schlüssel.
-}
-
 openpgp-import-key-list-description = Bestätigen Sie, welche Schlüssel Ihre persönlichen sind. Nur von Ihnen selbst erzeugte Schlüssel und die Sie als Schlüsselinhaber ausgeben sollten als persönliche Schlüssel verwendet werden. Sie können diese Eigenschaft später in den Schlüsseleigenschaften ändern.
 
 openpgp-import-key-list-caption = Als persönlich gekennzeichnete Schlüssel werden im Abschnitt Ende-zu-Ende-Verschlüsselung aufgeführt. Die anderen Schlüssel sind in der Schlüsselverwaltung verfügbar.

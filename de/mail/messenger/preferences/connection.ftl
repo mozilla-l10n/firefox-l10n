@@ -26,9 +26,6 @@ connection-dialog-window =
            *[other] width: 49em !important
         }
 
-connection-disable-extension =
-    .label = Erweiterung deaktivieren
-
 disable-extension-button = Erweiterung deaktivieren
 
 # Variables:
