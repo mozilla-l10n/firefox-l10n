@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] सेटिंग { -brand-short-name }के विकल्पमे बदलल जाए सकैत अछि .
            *[other] सेटिंग { -brand-short-name } क वरीयतामे बदलल जाए सकैत अछि .
         }
+
 unknowncontenttype-intro = अहाँ खोलबाक लेल चुनल अछि
 unknowncontenttype-which-is = जे अछि :
 unknowncontenttype-from = से:

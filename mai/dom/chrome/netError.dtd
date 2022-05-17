@@ -78,9 +78,6 @@
 <!ENTITY corruptedContentErrorv2.title "खराब सामग्री त्रुटि">
 
 
-<!ENTITY remoteXUL.title "दूरस्थ XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया वेबसाइट मालिककेँ ई समस्याक संबंधमे सूचित करबाक लेल संपर्क करू.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

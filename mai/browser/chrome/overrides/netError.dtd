@@ -64,8 +64,6 @@ was trying to connect. -->
 
 <!ENTITY errorReporting.learnMore "आओर जानू…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया वेबसाइट मालिककेँ ई समस्याक संबंधमे सूचित करबाक लेल संपर्क करू.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
