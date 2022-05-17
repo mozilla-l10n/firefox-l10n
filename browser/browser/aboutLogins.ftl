@@ -67,8 +67,6 @@ about-logins-login-intro-heading-logged-in = Nun s'atoparon cuentes sincronizaes
 login-intro-description = Si guardesti les cuentes nel { -brand-product-name } d'otru preséu, esti ye'l mou de tenelos equí:
 login-intro-instructions-fxa = Crea una { -fxaccount-brand-name } o anicia sesión nel preséu onde se guarden les tos cuentes
 login-intro-instructions-fxa-settings = Vete p'Axustes > Sync > Activar la sincronización… Marca'l caxellu «Cuentes y contraseñes».
-login-intro-instructions-fxa-help = Visita'l <a data-l10n-name="help-link">Sofitu de { -lockwise-brand-short-name }</a> pa más ayuda.
-about-logins-intro-import = Si les tos cuentes tán guardaes n'otru restolador, pues <a data-l10n-name="import-link">importales a { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Si les tos cuentes tán guardaes fuera de { -brand-product-name }, pues <a data-l10n-name="import-browser-link">importales d'otru restolador</a> o <a data-l10n-name="import-file-link">d'un ficheru</a>
 
 ## Login

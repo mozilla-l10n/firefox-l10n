@@ -67,6 +67,7 @@ app-basics-fission-support = Ventanes Fission
 app-basics-remote-processes-count = Procesos remotos
 app-basics-enterprise-policies = Polítiques d'empresa
 app-basics-safe-mode = Mou seguru
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Amosar en Finder

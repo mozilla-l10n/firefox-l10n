@@ -116,8 +116,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Informar de fallos como esti p'ayudar a Mozilla a identificar y a bloquiar sitios maliciosos">
 <!ENTITY errorReporting.learnMore "Lleer más…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Información avanzada: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -137,8 +135,5 @@ was trying to connect. -->
 <!ENTITY clockSkewError.longDesc "L'ordenador cuida que tamos a <span id='wrongSystemTime_systemDate1'/>, lo qu'evita que &brandShortName; se conecte con seguranza. Pa visitar <span class='hostname'></span> anueva los axustes del reló, la data y el fusu horariu del sistema, y refresca <span class='hostname'></span>.">
 
 <!ENTITY prefReset.label "Reafitar los axustes">
-
-<!ENTITY enableTls10.note "TLS 1.0 y TLS 1.1 van desactivase dafechu nes versiones futures.">
-<!ENTITY enableTls10.label "Activar TLS 1.0 y 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>La páxina que tentes de ver nun pue amosase porque detectóse un fallu nel protocolu de rede.</p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema, por favor.</li></ul>">

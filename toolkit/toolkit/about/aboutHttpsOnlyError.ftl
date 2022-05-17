@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-httpsonly-title-alert = Alerta del mou de namás HTTPS
-about-httpsonly-title-connection-not-available = La conexón segura nun ta disponible
 
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com

@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "n">
 <!ENTITY attachPageCmd.label "Axuntar páxina web…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Tarxeta personal (vCard)">
-<!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY remindLater.label "Recordámelo dempués">
 <!ENTITY remindLater.accesskey "R">
 <!ENTITY closeCmd.label "Zarrar">
@@ -129,16 +126,6 @@
 <!ENTITY returnReceiptMenu.accesskey "D">
 <!ENTITY dsnMenu.label "Notificación d'estáu d'entrega">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY deliveryFormatMenu.label "Formatu d'entrega">
-<!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "Autodeteutar">
-<!ENTITY autoFormatCmd.accesskey "a">
-<!ENTITY plainTextFormatCmd.label "Namái testu ensin formatu">
-<!ENTITY plainTextFormatCmd.accesskey "S">
-<!ENTITY htmlFormatCmd.label "Namái testu enriquecíu (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "r">
-<!ENTITY bothFormatCmd.label "Testu simple y testu enriquecíu (HTML)">
-<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "Prioridá">
 <!ENTITY priorityMenu.accesskey "p">
 <!ENTITY priorityButton.title "Prioridá">

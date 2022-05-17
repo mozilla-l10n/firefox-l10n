@@ -12,8 +12,10 @@
 ## the label.
 
 toolbox-meatball-menu-dock-separate-window-label = Separtar nuna ventana
+
 toolbox-meatball-menu-splitconsole-label = Amosar la consola dixebrada
 toolbox-meatball-menu-hideconsole-label = Anubrir la consola dixebrada
+
 toolbox-meatball-menu-settings-label = Axustes
 toolbox-meatball-menu-documentation-label = Documentación…
 toolbox-meatball-menu-community-label = Comunidá…

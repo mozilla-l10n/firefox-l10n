@@ -115,7 +115,6 @@ unknownSocketType-title = Rempuesta inesperada del sirvidor
 nssFailure2-title = La conexón segura falló
 csp-xfo-error-title = { -brand-short-name } nun pue abrir esta páxina
 corruptedContentError-title = Fallu de conteníu toyíu
-remoteXUL-title = XUL Remotu
 sslv3Used-title = Nun ye posible conectase de mou seguru
 inadequateSecurityError-title = La conexón nun ye segura
 blockedByPolicy-title = Páxina bloquiada

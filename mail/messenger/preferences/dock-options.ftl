@@ -23,4 +23,3 @@ count-new-messages-radio =
     .label = Cuenta de mensaxes nuevos
     .accesskey = C
 
-notification-settings-info = Pues deshabilitar l'emblema nel panel d'avisos de les preferencies del sistema.

@@ -32,9 +32,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "Filtros">
 <!ENTITY importFilters.accesskey  "F">
 
-<!ENTITY  window.width            "47em">
-<!ENTITY  window.macWidth         "52em">
-
 <!ENTITY importTitle.label        "Encontu d'importación de &brandShortName;">
 <!ENTITY importShortDesc.label    "Importar corréu, llibretes de direiciones, configuraciones y filtros d'otros programas">
 

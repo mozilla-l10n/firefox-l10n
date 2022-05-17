@@ -6,7 +6,6 @@ privatebrowsingpage-open-private-window-label = Abrir una ventana privada
     .accesskey = P
 about-private-browsing-search-placeholder = Buscar na web
 about-private-browsing-info-title = Tas nuna ventana privada
-about-private-browsing-info-myths = Mitos comunes tocante al restolar en privao
 about-private-browsing-search-btn =
     .title = Busca na web
 # Variables
@@ -20,10 +19,8 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Busca con { $engine } o introduz una direición
 about-private-browsing-handoff-text-no-engine = Busca o introduz una direición
 about-private-browsing-not-private = Anguaño nun tas nuna ventana privada.
-about-private-browsing-info-description = { -brand-short-name } llimpia los historiales de restolar cuando coles de l'aplicación o zarres toles llingüetes y ventanes de Restolar en Privao. Magar qu'esto nun t'anonimiza n'internet, fai que la to actividá en llinia seya fácil d'anubrir a otros usuarios qu'usen esti ordenador.
 
-about-private-browsing-need-more-privacy = ¿Precises más privacidá?
-about-private-browsing-turn-on-vpn = Prueba { -mozilla-vpn-brand-name }
+## The following strings will be used for experiments in Fx99 and Fx100
 
 # This string is the title for the banner for search engine selection
 # in a private window.
@@ -37,3 +34,4 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Zarrar
+

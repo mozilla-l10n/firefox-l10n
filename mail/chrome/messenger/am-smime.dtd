@@ -11,5 +11,4 @@
 <!ENTITY encryption.certificate_clear.button "Llimpiar">
 <!ENTITY encryption.certificate_clear.accesskey "m">
 <!ENTITY signingGroupTitle.label "Robláu dixital">
-<!ENTITY signMessage.accesskey "D">
 
