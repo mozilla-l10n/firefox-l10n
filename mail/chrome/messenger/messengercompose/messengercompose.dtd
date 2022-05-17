@@ -21,9 +21,6 @@
 <!ENTITY attachCloudCmd.accesskey "d">
 <!ENTITY attachPageCmd.label "Stronę WWW…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Wizytówkę">
-<!ENTITY attachVCardCmd.accesskey "t">
 <!ENTITY remindLater.label "Przypomnij mi później">
 <!ENTITY remindLater.accesskey "P">
 <!ENTITY closeCmd.label "Zamknij">
@@ -149,16 +146,6 @@
 <!ENTITY returnReceiptMenu.accesskey "d">
 <!ENTITY dsnMenu.label "Informuj o stanie dostarczania">
 <!ENTITY dsnMenu.accesskey "n">
-<!ENTITY deliveryFormatMenu.label "Wyślij wiadomość jako">
-<!ENTITY deliveryFormatMenu.accesskey "W">
-<!ENTITY autoFormatCmd.label "Wybierz automatycznie">
-<!ENTITY autoFormatCmd.accesskey "a">
-<!ENTITY plainTextFormatCmd.label "Tylko tekst">
-<!ENTITY plainTextFormatCmd.accesskey "T">
-<!ENTITY htmlFormatCmd.label "Tylko HTML">
-<!ENTITY htmlFormatCmd.accesskey "H">
-<!ENTITY bothFormatCmd.label "Tekst oraz HTML">
-<!ENTITY bothFormatCmd.accesskey "z">
 <!ENTITY priorityMenu.label "Priorytet">
 <!ENTITY priorityMenu.accesskey "e">
 <!ENTITY priorityButton.title "Priorytet">
@@ -222,7 +209,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 11.25em;">
-<!ENTITY extraRecipients.tooltip "Pozostałe typy pól adresowania">
 <!ENTITY fromAddr2.label "Nadawca">
 <!ENTITY fromAddr.accesskey "d">
 <!ENTITY replyAddr2.label "Odpowiedź do">

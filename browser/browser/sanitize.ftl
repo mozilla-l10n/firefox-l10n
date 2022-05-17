@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Dane
 
-item-site-preferences =
-    .label = Ustawienia uprawnień witryn
-    .accesskey = U
-
 item-site-settings =
     .label = Ustawienia witryn
     .accesskey = U

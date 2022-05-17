@@ -8,14 +8,10 @@ toolbar-context-menu-menu-bar =
 
 ## Tools Menu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-menu-tools-preferences =
-    .label = Preferencje
-    .accesskey = P
 menu-tools-settings =
     .label = Ustawienia
     .accesskey = U
+
 menu-addons-and-themes =
     .label = Dodatki i motywy
     .accesskey = D
@@ -25,9 +21,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Tryb rozwiązywania problemów…
     .accesskey = T
+
 menu-help-exit-troubleshoot-mode =
     .label = Wyłącz tryb rozwiązywania problemów
     .accesskey = t
+
 menu-help-more-troubleshooting-info =
     .label = Więcej informacji do rozwiązywania problemów
     .accesskey = n
@@ -58,15 +56,19 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Gęstość i upakowanie
     .accesskey = G
+
 mail-uidensity-compact =
     .label = Zwarte
     .accesskey = w
+
 mail-uidensity-normal =
     .label = Zwykłe
     .accesskey = Z
+
 mail-uidensity-touch =
     .label = Dotykowe
     .accesskey = D
+
 menu-spaces-toolbar-button =
     .label = Pasek miejsc
     .accesskey = c

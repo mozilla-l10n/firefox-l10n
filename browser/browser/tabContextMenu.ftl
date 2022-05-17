@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Udostępnij
     .accesskey = U
-tab-context-share-more =
-    .label = Więcej…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -88,13 +86,6 @@ tab-context-reopen-closed-tabs =
            *[other] Przywróć zamknięte karty
         }
     .accesskey = a
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Zamknij kartę
-           *[other] Zamknij karty
-        }
-    .accesskey = Z
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -111,6 +102,7 @@ tab-context-move-tabs =
            *[other] Przenieś karty
         }
     .accesskey = r
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

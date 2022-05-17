@@ -17,4 +17,3 @@
 <!ENTITY dict.title "Słowniki">
 <!ENTITY dict_intro.label "Słowniki są używane do sprawdzania poprawności pisowni.">
 <!ENTITY info.title "Więcej informacji">
-<!ENTITY info_bugs.label '<a href="http://www.mozilla.org/mailnews/">Cieszymy się z wszelkich uwag i propozycji</a>, jednak prosimy przeczytać wcześniej <a id="releaseNotesURL" href="">informacje o wydaniu</a> oraz sprawdzić <a href="https://bugzilla.mozilla.org/query.cgi">Bugzillę</a>.'>

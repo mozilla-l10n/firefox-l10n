@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Wystąpienia funkcji na stosie podczas próbkowania przez profiler">
 <!ENTITY performanceUI.table.function                 "Funkcja">
 <!ENTITY performanceUI.table.function.tooltip         "Nazwa i położenie kodu próbkowanej funkcji">
-<!ENTITY performanceUI.table.totalAlloc               "Wszystkie próbki alokacji">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Całkowita liczba alokowanych obiektów próbkowanych dla tego położenia oraz w wywołaniach">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

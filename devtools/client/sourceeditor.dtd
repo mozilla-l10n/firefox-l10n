@@ -18,5 +18,4 @@
   - documentation on web development on the web. -->
 
 <!ENTITY gotoLineCmd.label         "Przejdź do wiersza…">
-<!ENTITY gotoLineCmd.key           "J">
 <!ENTITY gotoLineCmd.accesskey     "P">

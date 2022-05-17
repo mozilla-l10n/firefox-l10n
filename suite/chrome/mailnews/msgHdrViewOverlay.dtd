@@ -22,9 +22,6 @@
 <!ENTITY inReplyToField.label "W odpowiedzi na: ">
 <!ENTITY originalWebsite.label "Witryna: ">
 
-<!ENTITY editMessage.label "Edytuj szkic…">
-<!ENTITY editMessage.accesskey "D">
-
 <!ENTITY attachmentsTree.label "Załączniki:">
 <!ENTITY attachmentsTree.accesskey "a">
 <!ENTITY openAttachmentCmd.label "Otwórz">

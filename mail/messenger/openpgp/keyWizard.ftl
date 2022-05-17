@@ -123,14 +123,6 @@ openpgp-import-key-description = Można zaimportować klucze osobiste utworzone 
 
 openpgp-import-key-info = Inne oprogramowanie może nazywać klucz osobisty inaczej, na przykład własny klucz, tajny klucz, klucz prywatny lub para kluczy.
 
-#   $count (Number) - the number of keys found in the selected files
-openpgp-import-key-list-amount =
-    { $count ->
-        [one] Thunderbird odnalazł jeden klucz, który można zaimportować.
-        [few] Thunderbird odnalazł { $count } klucze, które można zaimportować.
-       *[many] Thunderbird odnalazł { $count } kluczy, które można zaimportować.
-    }
-
 openpgp-import-key-list-description = Potwierdź, które klucze mają być traktowane jako klucze osobiste. Jako klucze osobiste należy używać wyłącznie kluczy, które utworzono samodzielnie i które noszą Twoją tożsamość. Możesz zmienić tę opcję później w oknie właściwości klucza.
 
 openpgp-import-key-list-caption = Klucze oznaczone jako klucze osobiste będą wyświetlane w sekcji szyfrowania typu „end-to-end”. Pozostałe będą dostępne w menedżerze kluczy.
