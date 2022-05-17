@@ -33,10 +33,6 @@ menu-quit =
            *[other] U
         }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
 ## File Menu
 
 menu-file =
@@ -54,9 +50,6 @@ menu-file-new-private-window =
 menu-file-open-file =
     .label = Patsarini míta…
     .accesskey = P
-menu-file-close =
-    .label = Mikani
-    .accesskey = M
 menu-file-close-window =
     .label = Míkani mikua
     .accesskey = m
@@ -69,9 +62,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Sési kantsanharita…
     .accesskey = n
-menu-file-print-preview =
-    .label = Nena xarhanharhitaa xirantarhu
-    .accesskey = N
 menu-file-print =
     .label = Uéchatantsï…
     .accesskey = U
@@ -180,6 +170,3 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Jarhuajpikua
     .accesskey = a
-menu-help-feedback-page =
-    .label = Arhístatsperakua axá…
-    .accesskey = A

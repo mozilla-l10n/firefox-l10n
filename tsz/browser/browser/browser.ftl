@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Jirhinhakurhipantani)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Jirhinhakurhipantani)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Jirhinhakurhipantani)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Jirhinhakurhipantani)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -120,6 +122,7 @@ browser-window-minimize-button =
 
 urlbar-switch-to-tab =
     .value = Mójtakuni ma iorhukua:
+
 urlbar-go-button =
     .tooltiptext = Arhistatsperakuecharhu motsi
 
@@ -147,6 +150,7 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Xarhatani sánderu kuirunharitarakuecha
 bookmarks-sidebar-content =
     .aria-label = Kuirunharitarakuecha
+
 bookmarks-toolbar-menu =
     .label = T'antsïratarakuaecha
 bookmarks-toolbar-placeholder =
@@ -167,10 +171,6 @@ bookmarks-toolbar-placeholder-button =
 
 
 ## More items
-
-more-menu-go-offline =
-    .label = Áxï kuparhakutini ánchikúrhi
-    .accesskey = Á
 
 ## EME notification panel
 
@@ -205,8 +205,10 @@ more-menu-go-offline =
 
 navbar-downloads =
     .label = Anchitarakua keskukuecha
+
 tabs-toolbar-new-tab =
     .label = Jimbanhi iorhukua
+
 tabs-toolbar-list-all-tabs =
     .label = Xarhatani iámenduecha ma iorhukua
     .tooltiptext = Xarhatani iámenduecha ma iorhukua

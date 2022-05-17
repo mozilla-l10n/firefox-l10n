@@ -45,10 +45,6 @@ advanced-fonts =
     .label = Orhepaniksï...
     .accesskey = O
 
-colors-settings =
-    .label = Atakueecha…
-    .accesskey = A
-
 choose-language-description = Eraku ma uantakuani nákinkari uekaka parakari xaranharitaka web
 
 choose-button =
@@ -262,10 +258,6 @@ history-clear-on-close-settings =
 permissions-block-popups =
     .label = Eranharitarakuechani p´inkuni
     .accesskey = E
-
-permissions-block-popups-exceptions =
-    .label = Iicha no ampe…
-    .accesskey = I
 
 permissions-addon-exceptions =
     .label = Licha no ampe…
