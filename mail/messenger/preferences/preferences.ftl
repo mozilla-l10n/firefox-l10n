@@ -129,12 +129,6 @@ language-popup-label =
 
 download-dictionaries-link = Vulani Ṱhalusaipfi Nnzhi
 
-format-description = Vhekanyani matshilele a maitele a ḽiṅwalwa
-
-send-options-label =
-    .label = Rumelani Maitele...
-    .accesskey = R
-
 autocomplete-description = Musi ni tshi khou rumela milaedza, ṱoḓani madzhenele ane a elana kha:
 
 ab-label =
@@ -171,4 +165,6 @@ email-picker-label =
 
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

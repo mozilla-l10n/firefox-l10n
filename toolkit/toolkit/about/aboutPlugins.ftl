@@ -23,3 +23,6 @@ no-plugins-are-installed-label = A huna zwiṱumanywa zwo longelwaho
 mime-type-label = Lushaka lwa MIME
 description-label = Ṱhaluso
 suffixes-label = Mitshila
+
+## Gecko Media Plugins (GMPs)
+

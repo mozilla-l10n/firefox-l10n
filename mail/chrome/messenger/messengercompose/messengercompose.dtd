@@ -16,9 +16,6 @@
 <!ENTITY attachMenu.accesskey "Ṱ">
 <!ENTITY attachPageCmd.label "Siaṱari la Web...">
 <!ENTITY attachPageCmd.accesskey "S">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Garaṱa Yaṋu Inwi Muṋe (vCard)">
-<!ENTITY attachVCardCmd.accesskey "G">
 <!ENTITY closeCmd.label "Valani">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "v">
@@ -101,14 +98,6 @@
 
 <!ENTITY returnReceiptMenu.label "Humiseleni zwo Ṱanganedzwaho">
 <!ENTITY returnReceiptMenu.accesskey "h">
-<!ENTITY autoFormatCmd.label "U Wana nga Woṱhe">
-<!ENTITY autoFormatCmd.accesskey "u">
-<!ENTITY plainTextFormatCmd.label "Ḽiṅwalwa ḽi sa Konḓi Fhedzi">
-<!ENTITY plainTextFormatCmd.accesskey "Ḽ">
-<!ENTITY htmlFormatCmd.label "Ḽiṅwalwa Ḽo Pfumaho (HTML) Fhedzi">
-<!ENTITY htmlFormatCmd.accesskey "Ḽ">
-<!ENTITY bothFormatCmd.label "Ḽiṅwalwa ḽi sa Konḓi na ḽo Pfumaho (HTML)">
-<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "Ndeme">
 <!ENTITY priorityMenu.accesskey "n">
 <!ENTITY priorityButton.label "Ndeme:">

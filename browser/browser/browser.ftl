@@ -106,6 +106,7 @@ urlbar-go-button =
 
 bookmarks-sidebar-content =
     .aria-label = Tswayo dza Bugu
+
 bookmarks-toolbar-menu =
     .label = Tshibuḽoko tsha Zwishumiswa tsha Tswayo dza Bugu
 bookmarks-toolbar-placeholder =
@@ -126,10 +127,6 @@ bookmarks-toolbar-placeholder-button =
 
 
 ## More items
-
-more-menu-go-offline =
-    .label = Shuma Nnḓa ha Ḽaini
-    .accesskey = s
 
 ## EME notification panel
 
@@ -152,6 +149,7 @@ more-menu-go-offline =
 popups-infobar-allow =
     .label = Tendelani zwithuthubi kha { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Thivhelani zwithuthubi kha { $uriHost }
     .accesskey = p
@@ -173,8 +171,10 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Zwidzheniswa
+
 navbar-search =
     .title = Ṱoḓani
+
 tabs-toolbar-new-tab =
     .label = Ntswa Tab
 
