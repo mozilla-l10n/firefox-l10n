@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Подаци
 
-item-site-preferences =
-    .label = Подешавања сајтова
-    .accesskey = П
-
 item-site-settings =
     .label = Подешавања сајта
     .accesskey = S

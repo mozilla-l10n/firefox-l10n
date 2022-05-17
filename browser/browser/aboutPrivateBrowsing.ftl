@@ -6,7 +6,6 @@ privatebrowsingpage-open-private-window-label = Отвори приватни п
     .accesskey = в
 about-private-browsing-search-placeholder = Претражи веб
 about-private-browsing-info-title = У приватном прозору сте
-about-private-browsing-info-myths = Чести митови о приватном прегледању
 about-private-browsing-search-btn =
     .title = Претражи интернет
 # Variables
@@ -20,16 +19,17 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Претражите у претраживачу { $engine } или унесите адресу
 about-private-browsing-handoff-text-no-engine = Претражите или унесите адресу
 about-private-browsing-not-private = Тренутно нисте у приватном прозору.
-about-private-browsing-info-description = { -brand-short-name } чисти историју претраге и прегледања када изађете из програма или затворите све приватне картице и прозоре. Ово не штити вашу анонимност од веб-сајтова и интернет провајдера, али скрива ваше активности на интернету од других корисника овог рачунара.
-about-private-browsing-need-more-privacy = Треба вам више приватности?
-about-private-browsing-turn-on-vpn = Испробајте { -mozilla-vpn-brand-name }
 about-private-browsing-info-description-private-window = Приватни прозор: { -brand-short-name } чисти ваш историјат претраживања и прегледања када затворите све приватне прозоре. Ово вас не чини анонимним.
 about-private-browsing-info-description-simplified = { -brand-short-name } брише вашу историју претраживања и прегледања када затворите све приватне прозоре, али то не значи сте анонимни.
 about-private-browsing-learn-more-link = Сазнајте више
+
 about-private-browsing-hide-activity = Сакријте вашу активност и локацију где год да прегледате
 about-private-browsing-get-privacy = Заштитите вашу приватност где год да сте
 about-private-browsing-hide-activity-1 = Сакријте ваше прегледање и локацију уз помоћ производа { -mozilla-vpn-brand-name }. Један клик за стварање безбедне везе, чак и на јавним бежичним мрежама.
 about-private-browsing-prominent-cta = Останите приватни уз { -mozilla-vpn-brand-name }
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -38,3 +38,4 @@ about-private-browsing-search-banner-title = { $engineName } је ваш под�
 about-private-browsing-search-banner-description = У <a data-l10n-name="link-options">подешавањима</a> можете да изаберете други претраживач.
 about-private-browsing-search-banner-close-button =
     .aria-label = Затвори
+

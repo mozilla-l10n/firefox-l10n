@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Сазнајте више">
 
 <!ENTITY e2eEnc.description "Без шифровања с краја на крај, садржај ваших порука је доступан вашем мејл провајдеру и могуће је праћење.">
-<!ENTITY e2eeReqWarning.description "Уколико вам је потребно шифровање, да бисте послали поруку морате имати јавни кључ или сертификат свих прималаца.">
 
-<!ENTITY e2eSigning.description "Дигитални потпис омогућава примаоцима да потврде да сте ви послали поруку и да садржај није промењен.">
 <!ENTITY e2eTechPref.description "Пожељни начин шифровања:">
 
-<!ENTITY doNotEncrypt.label "Не омогућавај шифровање подразумевано">
-<!ENTITY doNotEncrypt.accesskey "Н">
-<!ENTITY requireEncryptMessage.label "Захтевај шифровање подразумевано">
-<!ENTITY requireEncryptMessage.accesskey "у">
 <!ENTITY encryptionCert2.message "Лични сертификат шифровања:">
 <!ENTITY digitalSign.certificate.button "Изабери…">
 <!ENTITY digitalSign.certificate.accesskey "И">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Очисти">
 <!ENTITY encryption.certificate_clear.accesskey "т">
 <!ENTITY signingGroupTitle.label "Дигитално потписивање">
-<!ENTITY signMessage2.label "Подразумевано додај мој дигитални потпис">
-<!ENTITY signMessage.accesskey "Д">
 
 <!ENTITY signingCert2.message "Лични сертификат за дигитално потписивање:">
 

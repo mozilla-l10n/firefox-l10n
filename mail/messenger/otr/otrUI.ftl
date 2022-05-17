@@ -24,6 +24,3 @@ state-finished-label = Довршено
 #   $name (String) - the screen name of a chat contact person
 verify-request = Контакт { $name } је затражио потврђивање вашег идентитета.
 
-error-title = Грешка
-success-title = Шифровање с краја на крај
-

@@ -23,4 +23,3 @@ count-new-messages-radio =
     .label = Број нових порука
     .accesskey = н
 
-notification-settings-info = Можете онемогућити беџ у окну за обавештења у подешавањима система.

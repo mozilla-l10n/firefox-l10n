@@ -8,14 +8,10 @@ toolbar-context-menu-menu-bar =
 
 ## Tools Menu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-menu-tools-preferences =
-    .label = Поставке
-    .accesskey = к
 menu-tools-settings =
     .label = Подешавања
     .accesskey = е
+
 menu-addons-and-themes =
     .label = Додаци и теме
     .accesskey = Д
@@ -37,15 +33,19 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Збијеност
     .accesskey = З
+
 mail-uidensity-compact =
     .label = Сажета
     .accesskey = т
+
 mail-uidensity-normal =
     .label = Обична
     .accesskey = б
+
 mail-uidensity-touch =
     .label = Додирна
     .accesskey = д
+
 menu-spaces-toolbar-button =
     .label = Просторна трака
     .accesskey = к
