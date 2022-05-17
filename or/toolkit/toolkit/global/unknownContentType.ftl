@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] { -brand-short-name }ର ବିକଳ୍ପଗୁଡ଼ିକରେ ସଂରଚନାକୁ ପରିବର୍ତ୍ତନ କରାଯାଇପାରିବ।
            *[other] { -brand-short-name }ର ପସନ୍ଦରେ ସଂରଚନାକୁ ପରିବର୍ତ୍ତନ କରାଯାଇପାରିବ।
         }
+
 unknowncontenttype-intro = ଖୋଲିବା ପାଇଁ ଆପଣଙ୍କୁ ବଛାଯାଇଛି:
 unknowncontenttype-which-is = ଯାହାକି ଗୋଟିଏ:
 unknowncontenttype-from = ରୁ:

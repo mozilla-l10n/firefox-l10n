@@ -41,3 +41,7 @@ pocket-panel-signup-tagline-story-two = ଯେତେବେଳେ ଲୋଡ଼ା
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+
