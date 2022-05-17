@@ -5,5 +5,7 @@
 places-file-close =
     .label = Ŕ´amch
     .accesskey = C
+
 places-cmd-close =
     .key = w
+

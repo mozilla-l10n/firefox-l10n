@@ -72,6 +72,9 @@ newtab-menu-dismiss = Nmak
 
 newtab-pocket-learn-more = Terabum ŕpo
 
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 

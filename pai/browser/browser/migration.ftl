@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-source-name-firefox = Mozilla Firefox
-
 ## Browser data types
 ## All of these strings get a $browser variable passed in.
 ## You can use the browser variable to differentiate the name of items,

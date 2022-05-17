@@ -14,15 +14,7 @@
 
 ##
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
 ## File Menu
-
-menu-file-close =
-    .label = Ŕ´amch
-    .accesskey = Ŕ
 
 ## Edit Menu
 
