@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "El número de veces que esta función estuvo en la pila cuando el perfilador tomo una muestra.">
 <!ENTITY performanceUI.table.function                 "Función">
 <!ENTITY performanceUI.table.function.tooltip         "El nombre y la ubicación de origen de la función muestreada.">
-<!ENTITY performanceUI.table.totalAlloc               "Asignaciones totales muestreadas">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "El número total de asignaciones de objeto en esta ubicación y en llamadas.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
