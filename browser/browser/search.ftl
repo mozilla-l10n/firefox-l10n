@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = Installatiefout
 opensearch-error-duplicate-desc = { -brand-short-name } kon de zoekplug-in niet installeren vanaf ‘{ $location-url }’, omdat er al een zoekmachine bestaat met dezelfde naam.
+
 opensearch-error-format-title = Ongeldige indeling
 opensearch-error-format-desc = { -brand-short-name } kon de zoekmachine niet installeren vanaf { $location-url }
+
 opensearch-error-download-title = Downloadfout
 opensearch-error-download-desc = { -brand-short-name } kon de zoekplug-in niet downloaden vanaf: { $location-url }
 
@@ -19,9 +21,11 @@ opensearch-error-download-desc = { -brand-short-name } kon de zoekplug-in niet d
 
 searchbar-submit =
     .tooltiptext = Zoekopdracht verzenden
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Zoeken
+
 searchbar-icon =
     .tooltiptext = Zoeken
 
@@ -30,6 +34,5 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-remove-search-engine-message = <strong>Uw standaardzoekmachine is gewijzigd.</strong> { -brand-short-name } ondersteunt { $oldEngine } niet meer. { $newEngine } is nu uw standaardzoekmachine. Ga naar uw instellingen om over te schakelen naar een andere standaardzoekmachine. <label data-l10n-name="remove-search-engine-article">Meer info</label>
 removed-search-engine-message = <strong>Uw standaardzoekmachine is gewijzigd.</strong> { $oldEngine } is niet meer als standaardzoekmachine beschikbaar in { -brand-short-name }. { $newEngine } is nu uw standaardzoekmachine. Ga naar uw instellingen om over te schakelen naar een andere standaardzoekmachine. <label data-l10n-name="remove-search-engine-article">Meer info</label>
 remove-search-engine-button = OK

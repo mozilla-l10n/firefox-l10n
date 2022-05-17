@@ -26,5 +26,3 @@
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "Geselecteerde filter(s) uitvoeren op:">
 <!ENTITY folderPickerPrefix.accesskey "c">
-<!ENTITY choosethis.label "deze map kiezen">
-<!ENTITY choosethisnewsserver.label "deze nieuwsserver kiezen">

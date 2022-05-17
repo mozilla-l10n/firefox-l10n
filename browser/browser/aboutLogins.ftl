@@ -4,9 +4,12 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Aanmeldingen & Wachtwoorden
+
 login-filter =
     .placeholder = Aanmeldingen zoeken
+
 create-login-button = Nieuwe aanmelding maken
+
 fxaccounts-sign-in-text = Breng uw wachtwoorden naar uw andere apparaten
 fxaccounts-sign-in-sync-button = Aanmelden om te synchroniseren
 fxaccounts-avatar-button =
@@ -70,8 +73,6 @@ about-logins-login-intro-heading-logged-in = Geen gesynchroniseerde aanmeldingen
 login-intro-description = Als u uw aanmeldgegevens bij { -brand-product-name } op een ander apparaat hebt opgeslagen, kunt u ze zo ophalen:
 login-intro-instructions-fxa = Maak op het apparaat waarop uw aanmeldgegevens staan een { -fxaccount-brand-name } of meld u aan.
 login-intro-instructions-fxa-settings = Ga naar Instellingen > Sync > Synchronisatie inschakelen… Plaats een vinkje bij Aanmeldingen en wachtwoorden.
-login-intro-instructions-fxa-help = Bezoek <a data-l10n-name="help-link">Ondersteuning voor { -lockwise-brand-short-name }</a> voor meer hulp.
-about-logins-intro-import = Als uw aanmeldingen in een andere browser worden opgeslagen, kunt u <a data-l10n-name="import-link">ze importeren in { -lockwise-brand-short-name }</a>
 login-intro-instructions-fxa-passwords-help = Bezoek <a data-l10n-name="passwords-help-link">hulp bij wachtwoorden</a> voor meer hulp.
 about-logins-intro-browser-only-import = Als uw aanmeldingen in een andere browser worden opgeslagen, kunt u <a data-l10n-name="import-link">ze importeren in { -brand-product-name }</a>
 about-logins-intro-import2 = Als uw aanmeldingen buiten { -brand-product-name } zijn opgeslagen, dan kunt u ze importeren <a data-l10n-name="import-browser-link">vanuit een andere browser</a> of <a data-l10n-name = "import-file-link">vanuit een bestand</a>
@@ -115,16 +116,19 @@ about-logins-edit-login-os-auth-dialog-message-win = Voer uw aanmeldgegevens voo
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = bewerk de opgeslagen aanmelding
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Voer uw aanmeldgegevens voor Windows in om uw wachtwoord te bekijken. Hierdoor wordt de beveiliging van uw accounts beschermd.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = toon het opgeslagen wachtwoord
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Voer uw aanmeldgegevens voor Windows in om uw wachtwoord te kopiëren. Hierdoor wordt de beveiliging van uw accounts beschermd.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopieer het opgeslagen wachtwoord
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Voer uw aanmeldgegevens voor Windows in om uw aanmelding te exporteren. Hierdoor wordt de beveiliging van uw accounts beschermd.
 # This message can be seen when attempting to export a password in about:logins
@@ -143,21 +147,25 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Annuleren
 confirmation-dialog-dismiss-button =
     .title = Annuleren
+
 about-logins-confirm-remove-dialog-title = Deze aanmelding verwijderen?
 confirm-delete-dialog-message = Deze actie kan niet ongedaan worden gemaakt.
 about-logins-confirm-remove-dialog-confirm-button = Verwijderen
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Verwijderen
         [one] Verwijderen
        *[other] Alle verwijderen
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ja, deze aanmelding verwijderen
         [one] Ja, deze aanmelding verwijderen
        *[other] Ja, deze aanmeldingen verwijderen
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] { $count } aanmelding verwijderen?
@@ -169,6 +177,7 @@ about-logins-confirm-remove-all-dialog-message =
         [one] Dit verwijdert de aanmelding die u in { -brand-short-name } hebt opgeslagen en alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
        *[other] Dit verwijdert de aanmeldingen die u in { -brand-short-name } hebt opgeslagen en alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] { $count } aanmelding van alle apparaten verwijderen?
@@ -180,11 +189,14 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Dit verwijdert de aanmelding die u in { -brand-short-name } hebt opgeslagen van alle apparaten die met uw { -fxaccount-brand-name } zijn gesynchroniseerd. Dit verwijdert ook alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
        *[other] Dit verwijdert de aanmeldingen die u in { -brand-short-name } hebt opgeslagen van alle apparaten die met uw { -fxaccount-brand-name } zijn gesynchroniseerd. Dit verwijdert ook alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
     }
+
 about-logins-confirm-export-dialog-title = Aanmeldingen en wachtwoorden exporteren
 about-logins-confirm-export-dialog-message = Uw wachtwoorden worden opgeslagen als leesbare tekst (bijvoorbeeld BadP@ssw0rd), dus iedereen die het geëxporteerde bestand kan openen, kan ze bekijken.
 about-logins-confirm-export-dialog-confirm-button = Exporteren…
+
 about-logins-alert-import-title = Importeren voltooid
 about-logins-alert-import-message = Gedetailleerde importsamenvatting bekijken
+
 confirm-discard-changes-dialog-title = Deze wijzigingen verwerpen?
 confirm-discard-changes-dialog-message = Alle niet-opgeslagen wijzigingen gaan verloren.
 confirm-discard-changes-dialog-confirm-button = Verwerpen
@@ -215,6 +227,7 @@ about-logins-vulnerable-alert-learn-more-link = Meer info
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Er bestaat al een vermelding voor { $loginTitle } met die gebruikersnaam. <a data-l10n-name="duplicate-link">Naar bestaande vermelding gaan?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Er is een fout opgetreden tijdens het opslaan van dit wachtwoord.
 
@@ -264,11 +277,13 @@ about-logins-import-dialog-items-added =
         [one] <span>Nieuwe aanmelding toegevoegd:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Nieuwe aanmeldingen toegevoegd:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Bestaande aanmelding bijgewerkt:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Bestaande aanmeldingen bijgewerkt:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Dubbele aanmelding gevonden:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(niet geïmporteerd)</span>
@@ -280,6 +295,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>Fouten:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(niet geïmporteerd)</span>
     }
 about-logins-import-dialog-done = Gereed
+
 about-logins-import-dialog-error-title = Importeerfout
 about-logins-import-dialog-error-conflicting-values-title = Meerdere tegenstrijdige waarden voor één aanmelding
 about-logins-import-dialog-error-conflicting-values-description = Bijvoorbeeld: meerdere gebruikersnamen, wachtwoorden, URL’s enz. voor één aanmelding.
@@ -293,8 +309,10 @@ about-logins-import-dialog-error-no-logins-imported = Er zijn geen aanmeldingen 
 about-logins-import-dialog-error-learn-more = Meer info
 about-logins-import-dialog-error-try-import-again = Probeer nogmaals te importeren…
 about-logins-import-dialog-error-cancel = Annuleren
+
 about-logins-import-report-title = Importsamenvatting
 about-logins-import-report-description = Aanmeldingen en wachtwoorden geïmporteerd in { -brand-short-name }.
+
 #
 # Variables:
 #  $number (number) - The number of the row

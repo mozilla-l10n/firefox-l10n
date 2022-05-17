@@ -313,9 +313,6 @@
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Bijlage">
 <!ENTITY forwardAsAttachmentCmd.accesskey "B">
-<!ENTITY editMsgAsNewCmd.label "Bewerken als nieuw bericht">
-<!ENTITY editMsgAsNewCmd.accesskey "B">
-<!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Filter maken op basis van bericht…">
 <!ENTITY createFilter.accesskey "F">
 <!ENTITY archiveMsgCmd.label "Archiveren">
@@ -468,8 +465,6 @@
 <!ENTITY contextOpenNewWindow.accesskey "B">
 <!ENTITY contextOpenNewTab.label "Bericht openen in nieuw tabblad">
 <!ENTITY contextOpenNewTab.accesskey "a">
-<!ENTITY contextEditAsNew.label "Als nieuw bewerken…">
-<!ENTITY contextEditAsNew.accesskey "n">
 <!ENTITY contextReplySender.label "Afzender beantwoorden">
 <!ENTITY contextReplySender.accesskey "a">
 <!ENTITY contextReplyList.label "Lijst beantwoorden">

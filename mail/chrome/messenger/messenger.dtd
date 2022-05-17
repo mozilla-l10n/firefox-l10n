@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "V">
 <!ENTITY newVirtualFolderCmd.label "Opgeslagen zoekopdracht…">
 <!ENTITY newVirtualFolderCmd.accesskey "O">
-<!ENTITY newOtherAccountsCmd.label "Andere accounts…">
-<!ENTITY newOtherAccountsCmd.accesskey "A">
 <!ENTITY newCreateEmailAccountCmd.label "Nieuwe e-mailaccount verkrijgen…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "N">
 <!ENTITY newExistingEmailAccountCmd.label "Bestaande e-mailaccount…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Opslaan als">
 <!ENTITY saveAsMenu.accesskey "l">
-<!ENTITY saveAsFileCmd.label "Bestand">
-<!ENTITY saveAsFileCmd.accesskey "B">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Sjabloon">
 <!ENTITY saveAsTemplateCmd.accesskey "S">

@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Het aantal keren dat deze functie op de stack stond toen de profiler een monster nam">
 <!ENTITY performanceUI.table.function                 "Functie">
 <!ENTITY performanceUI.table.function.tooltip         "De naam en bronlocatie van de bemonsterde functie">
-<!ENTITY performanceUI.table.totalAlloc               "Totale bemonsterde toewijzingen">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Het totale aantal op deze locatie en in aanroepstructuren bemonsterde objecttoewijzingen">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

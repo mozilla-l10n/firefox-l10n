@@ -93,9 +93,6 @@
 <!ENTITY corruptedContentErrorv2.title "Beschadigde-inhoudsfout">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>De pagina die u wilt bekijken kan niet worden weergegeven, omdat er een fout in de gegevensoverdracht is gedetecteerd.</p><ul><li>Neem contact op met de website-eigenaars om ze over dit probleem te informeren.</li></ul>">
 
-<!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Neem contact op met de website-eigenaars om ze over dit probleem te informeren.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Uw verbinding is niet beveiligd">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

@@ -38,14 +38,12 @@
 <!ENTITY images.label "Afbeeldingen">
 <!ENTITY popups.label "Pop-upvensters">
 <!ENTITY passwords.label "Wachtwoorden">
-<!ENTITY masterpass.label "Hoofdwachtwoord">
 <!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "Certificaten">
 
 <!ENTITY sync.label "Sync">
 
 <!ENTITY advance.label "Geavanceerd">
-<!ENTITY scriptsAndWindows.label "Scripts &amp; plug-ins">
 <!ENTITY keynav.label "Toetsenbordnavigatie">
 <!ENTITY findAsYouType.label "Zoeken terwijl u typt">
 <!ENTITY cache.label "Buffer">
