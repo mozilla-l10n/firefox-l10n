@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Adicionar etiquetas
+
 pocket-panel-saved-error-generic = Houve um erro ao tentar salvar no { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = As etiquetas estão limitadas a 25 caracteres
 pocket-panel-saved-error-only-links = Somente links podem ser salvos
@@ -29,6 +30,7 @@ pocket-panel-saved-saving-tags = Salvando…
 pocket-panel-saved-suggested-tags = Etiquetas sugeridas
 pocket-panel-saved-tags-saved = Etiquetas adicionadas
 pocket-panel-signup-view-list = Ver lista
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Adicionar etiquetas:
 
@@ -43,7 +45,7 @@ pocket-panel-signup-signup-firefox = Cadastre-se pelo { -brand-product-name }
 pocket-panel-signup-tagline = Salve artigos e vídeos do { -brand-product-name } para ver no { -pocket-brand-name } em qualquer dispositivo, quando quiser.
 pocket-panel-signup-tagline-story-one = Clique no botão { -pocket-brand-name } para salvar um artigo, vídeo ou página do { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Veja no { -pocket-brand-name } em qualquer dispositivo, quando quiser.
-pocket-panel-signup-cta-a = Seu botão de salvar na internet.
+
 pocket-panel-signup-cta-a-fix = Seu botão de salvar na internet
 pocket-panel-signup-cta-b = Clique no botão { -pocket-brand-name } para salvar artigos, vídeos e links. Veja sua lista em qualquer dispositivo, quando quiser.
 pocket-panel-signup-cta-b-short = Clique no botão { -pocket-brand-name } para salvar artigos, vídeos e links.
@@ -57,6 +59,7 @@ pocket-panel-home-paragraph = Você pode usar o { -pocket-brand-name } para expl
 pocket-panel-home-explore-popular-topics = Explorar tópicos populares
 pocket-panel-home-discover-more = Descubra mais
 pocket-panel-home-explore-more = Explorar
+
 pocket-panel-home-most-recent-saves = Aqui está o que você salvou mais recentemente:
 pocket-panel-home-most-recent-saves-loading = Carregando o que foi salvo recentemente…
 pocket-panel-home-new-user-cta = Clique no botão { -pocket-brand-name } para salvar artigos, vídeos e links.
@@ -70,6 +73,5 @@ pocket-panel-header-sign-in = Entrar
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Mostrar tudo
-pocket-panel-button-add-tags = Adicionar etiquetas
 pocket-panel-button-activate = Ativar o { -pocket-brand-name } no { -brand-product-name }
 pocket-panel-button-remove = Remover

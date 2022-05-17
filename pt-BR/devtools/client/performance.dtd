@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "O número de vezes que esta função estava no stack quando o profiler obteve uma amostra.">
 <!ENTITY performanceUI.table.function                 "Função">
 <!ENTITY performanceUI.table.function.tooltip         "O nome o local do código-fonte da função amostrada.">
-<!ENTITY performanceUI.table.totalAlloc               "Total de alocações amostradas">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "O número total de alocações de objetos amostradas neste local e em chamadas.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

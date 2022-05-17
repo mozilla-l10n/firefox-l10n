@@ -35,16 +35,15 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Tamanho do buffer:
+
 perftools-custom-threads-label = Adicionar threads personalizados por nome:
+
 perftools-devtools-interval-label = Intervalo:
 perftools-devtools-threads-label = Threads:
 perftools-devtools-settings-label = Configurações
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
-perftools-status-private-browsing-notice =
-    O profiler é desativado quando a navegação privativa está ativada.
-    Feche todas as janelas privativas para reativar o profiler
 perftools-status-recording-stopped-by-another-tool = A gravação foi interrompida por outra ferramenta.
 perftools-status-restart-required = O navegador deve ser reiniciado para ativar esta funcionalidade.
 
@@ -94,6 +93,7 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Ignorar as seleções acima e gravar todos os threads registrados
+
 perftools-tools-threads-input-label =
     .title = Esses nomes de thread ficam numa lista separada por vírgulas, usada para ativar a gravação de profiles dos threads no profiler. O nome precisa ser apenas uma correspondência parcial do nome do thread a ser incluído. É sensível a espaços em branco.
 
@@ -101,9 +101,14 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## devtools.performance.new-panel-onboarding preference is true.
+
 perftools-onboarding-message = <b>Novo</b>: Agora o { -profiler-brand-name } é integrado nas ferramentas de desenvolvimento. <a>Saiba mais</a> sobre esta nova ferramenta poderosa.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (por um tempo limitado, você pode acessar o painel Desempenho original via <a>{ options-context-advanced-settings }</a>)
+
 perftools-onboarding-close-button =
     .aria-label = Fechar a mensagem de integração
 
@@ -116,21 +121,19 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Desenvolvimento web
 perftools-presets-web-developer-description = Ajuste prévio recomendado para depuração da maioria dos aplicativos web, com pouca sobrecarga.
-perftools-presets-firefox-platform-label = Plataforma Firefox
-perftools-presets-firefox-platform-description = Ajuste prévio recomendado para depuração de aspectos internos da plataforma Firefox.
-perftools-presets-firefox-front-end-label = Interface do usuário do Firefox
-perftools-presets-firefox-front-end-description = Ajuste prévio recomendado para depuração de aspectos internos da interface do usuário (front-end) do Firefox.
-perftools-presets-firefox-graphics-label = Gráfico do Firefox
-perftools-presets-firefox-graphics-description = Ajuste prévio recomendado para investigação de desempenho gráfico do Firefox.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Predefinição recomendada para gravação de profile no { -brand-shorter-name }.
+
 perftools-presets-graphics-label = Gráficos
 perftools-presets-graphics-description = Predefinição para investigar bugs gráficos no { -brand-shorter-name }.
+
 perftools-presets-media-label = Mídia
-perftools-presets-media-description = Ajuste prévio recomendado para diagnosticar problemas de áudio e vídeo.
 perftools-presets-media-description2 = Predefinição para investigar bugs de áudio e vídeo no { -brand-shorter-name }.
+
 perftools-presets-networking-label = Rede
 perftools-presets-networking-description = Predefinição para investigar bugs de rede no { -brand-shorter-name }.
+
 perftools-presets-custom-label = Personalizado
 
 ##

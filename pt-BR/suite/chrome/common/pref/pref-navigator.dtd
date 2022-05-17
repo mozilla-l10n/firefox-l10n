@@ -47,10 +47,3 @@
 <!ENTITY useDefault.label               "Usar o padrão">
 <!ENTITY useDefault.accesskey           "U">
 
-<!ENTITY defaultBrowserGroup.label      "Navegador padrão">
-<!ENTITY defaultBrowserButton.label     "Definir como navegador padrão">
-<!ENTITY defaultBrowserButton.accesskey "n">
-<!ENTITY alreadyDefaultText             "&brandShortName; já é seu navegador padrão.">
-<!ENTITY defaultPendingText             "&brandShortName; será definido como seu navegador padrão quando clicar em OK.">
-<!ENTITY wasMadeDefaultText             "&brandShortName; foi definido como seu navegador padrão.">
-<!ENTITY makeDefaultText                "Definir &brandShortName; como seu navegador padrão.">

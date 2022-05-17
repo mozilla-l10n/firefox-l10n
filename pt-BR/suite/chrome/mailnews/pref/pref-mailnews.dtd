@@ -22,20 +22,6 @@
 <!ENTITY mailBiffOnNewWindow.label        "Só verificar se há novos emails após abrir email e grupos de notícias">
 <!ENTITY mailBiffOnNewWindow.accesskey    "o">
 
-<!ENTITY defaultMailSettings.description  "Definir o &brandShortName; como aplicativo padrão para:">
-<!ENTITY setDefaultMail.label             "Email">
-<!ENTITY setDefaultMail.accesskey         "E">
-<!ENTITY setDefaultNews.label             "Notícias">
-<!ENTITY setDefaultNews.accesskey         "N">
-<!ENTITY setDefaultFeed.label             "RSS">
-<!ENTITY setDefaultFeed.accesskey         "R">
-
-<!ENTITY useInternalSettings.description  "Usar o Email e grupos de notícias do &brandShortName; quando abrir no navegador links de:">
-<!ENTITY useInternalMail.label            "Email (mailto:)">
-<!ENTITY useInternalMail.accesskey        "a">
-<!ENTITY useInternalNews.label            "Servidor de notícias (news:, snews:, nntp:)">
-<!ENTITY useInternalNews.accesskey        "s">
-
 <!ENTITY messengerStartPage.caption       "Página inicial do Mail">
 <!ENTITY enableStartPage.label            "Ao iniciar o Email, abrir a página inicial na área da mensagem">
 <!ENTITY enableStartPage.accesskey        "A">

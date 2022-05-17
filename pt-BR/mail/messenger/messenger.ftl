@@ -13,6 +13,7 @@ messenger-window-restore-down-button =
     .tooltiptext = Restaurar tamanho
 messenger-window-close-button =
     .tooltiptext = Fechar
+
 # Variables:
 # $count (Number) - Number of unread messages.
 unread-messages-os-tooltip =
@@ -20,6 +21,7 @@ unread-messages-os-tooltip =
         [one] 1 mensagem não lida
        *[other] { $count } mensagens não lidas
     }
+
 about-rights-notification-text = O { -brand-short-name } é um software livre e de código aberto, criado por uma comunidade de milhares de pessoas do mundo todo.
 
 ## Content tabs
@@ -36,9 +38,11 @@ content-tab-security-broken-icon =
 addons-and-themes-toolbarbutton =
     .label = Extensões e temas
     .tooltiptext = Gerenciar extensões e temas
+
 quick-filter-toolbarbutton =
     .label = Filtro rápido
     .tooltiptext = Filtrar mensagens
+
 redirect-msg-button =
     .label = Redirecionar
     .tooltiptext = Redirecionar mensagens selecionadas
@@ -48,8 +52,10 @@ redirect-msg-button =
 folder-pane-toolbar =
     .toolbarname = Barra de ferramentas do painel de pastas
     .accesskey = B
+
 folder-pane-toolbar-options-button =
     .tooltiptext = Opções do painel de pastas
+
 folder-pane-header-label = Pastas
 
 ## Folder Toolbar Header Popup
@@ -57,21 +63,27 @@ folder-pane-header-label = Pastas
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Ocultar barra de ferramentas
     .accesskey = O
+
 show-all-folders-label =
     .label = Todas as pastas
     .accesskey = T
+
 show-unread-folders-label =
     .label = Pastas não lidas
     .accesskey = n
+
 show-favorite-folders-label =
     .label = Pastas favoritas
     .accesskey = f
+
 show-smart-folders-label =
     .label = Pastas unificadas
     .accesskey = u
+
 show-recent-folders-label =
     .label = Pastas recentes
     .accesskey = r
+
 folder-toolbar-toggle-folder-compact-view =
     .label = Visão compacta
     .accesskey = c
@@ -81,28 +93,31 @@ folder-toolbar-toggle-folder-compact-view =
 redirect-msg-menuitem =
     .label = Redirecionar
     .accesskey = d
+
 menu-file-save-as-file =
     .label = Arquivo…
     .accesskey = A
 
 ## AppMenu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-appmenu-preferences =
-    .label = Preferências
 appmenu-save-as-file =
     .label = Arquivo…
+
 appmenu-settings =
     .label = Configurações
+
 appmenu-addons-and-themes =
     .label = Extensões e temas
+
 appmenu-help-enter-troubleshoot-mode =
     .label = Modo de solução de problemas…
+
 appmenu-help-exit-troubleshoot-mode =
     .label = Desativar modo de solução de problemas
+
 appmenu-help-more-troubleshooting-info =
     .label = Mais informações para resolver problemas
+
 appmenu-redirect-msg =
     .label = Redirecionar
 
@@ -110,12 +125,14 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Redirecionar
+
 mail-context-delete-messages =
     .label =
         { $count ->
             [one] Excluir mensagem
            *[other] Excluir mensagens selecionadas
         }
+
 context-menu-decrypt-to-folder =
     .label = Copiar como descriptografado para
     .accesskey = d
@@ -124,24 +141,31 @@ context-menu-decrypt-to-folder =
 
 other-action-redirect-msg =
     .label = Redirecionar
+
 message-header-msg-flagged =
     .title = Com estrela
     .aria-label = Com estrela
+
 message-header-msg-not-flagged =
     .title = Mensagem não marcada com estrela
 
 ## Message header cutomize panel
 
 message-header-customize-panel-title = Configurações do cabeçalho de mensagens
+
 message-header-customize-button-style =
     .value = Estilo de botões
     .accesskey = b
+
 message-header-button-style-default =
     .label = Ícones e texto
+
 message-header-button-style-text =
     .label = Texto
+
 message-header-button-style-icons =
     .label = Ícones
+
 message-header-large-subject =
     .label = Campo de assunto grande
     .accesskey = s
@@ -159,6 +183,7 @@ toolbar-context-menu-remove-extension =
 
 message-header-address-in-address-book-icon =
     .alt = O endereço está no catálogo de endereços
+
 message-header-address-not-in-address-book-icon =
     .alt = O endereço não está no catálogo de endereços
 
@@ -169,9 +194,11 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = Remover { $name }?
 addon-removal-confirmation-button = Remover
 addon-removal-confirmation-message = Remover { $name } junto com suas configurações e dados do { -brand-short-name }?
+
 caret-browsing-prompt-title = Navegação com cursor do teclado
 caret-browsing-prompt-text = A tecla F7 ativa ou desativa a navegação com cursor do teclado. Este recurso coloca um cursor móvel em alguns conteúdos, permitindo selecionar texto usando o teclado. Quer ativar a navegação com cursor do teclado?
 caret-browsing-prompt-check-text = Não perguntar novamente.
+
 repair-text-encoding-button =
     .label = Reparar codificação de texto
     .tooltiptext = Estimar codificação de texto correta a partir do conteúdo da mensagem
@@ -192,36 +219,51 @@ spaces-toolbar-element =
     .toolbarname = Barra de espaços
     .aria-label = Barra de espaços
     .aria-description = Barra de ferramentas vertical para alternar entre espaços diferentes. Use as teclas de setas para navegar nos botões disponíveis.
+
 spaces-toolbar-button-mail2 =
     .title = Email
+
 spaces-toolbar-button-address-book2 =
     .title = Catálogo de endereços
+
 spaces-toolbar-button-calendar2 =
     .title = Agenda
+
 spaces-toolbar-button-tasks2 =
     .title = Tarefas
+
 spaces-toolbar-button-chat2 =
     .title = Conversa
+
 spaces-toolbar-button-overflow =
     .title = Mais espaços…
+
 spaces-toolbar-button-settings2 =
     .title = Configurações
+
 spaces-toolbar-button-hide =
     .title = Ocultar barra de espaços
+
 spaces-toolbar-button-show =
     .title = Exibir barra de espaços
+
 spaces-context-new-tab-item =
     .label = Abrir em nova aba
+
 spaces-context-new-window-item =
     .label = Abrir em nova janela
+
 # Variables:
 # $tabName (String) - The name of the tab this item will switch to.
 spaces-context-switch-tab-item =
     .label = Mudar para { $tabName }
+
 settings-context-open-settings-item =
     .label = Abrir configurações
+
 settings-context-open-account-settings-item =
     .label = Abrir configurações da conta
+
 settings-context-open-addons-item =
     .label = Abrir extensões e temas
 
@@ -229,20 +271,28 @@ settings-context-open-addons-item =
 
 spaces-toolbar-pinned-tab-button =
     .tooltiptext = Abrir menu de espaços
+
 spaces-pinned-button-menuitem-mail =
     .label = { spaces-toolbar-button-mail.title }
+
 spaces-pinned-button-menuitem-address-book =
     .label = { spaces-toolbar-button-address-book.title }
+
 spaces-pinned-button-menuitem-calendar =
     .label = { spaces-toolbar-button-calendar.title }
+
 spaces-pinned-button-menuitem-tasks =
     .label = { spaces-toolbar-button-tasks.title }
+
 spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
+
 spaces-pinned-button-menuitem-settings =
     .label = { spaces-toolbar-button-settings2.title }
+
 spaces-pinned-button-menuitem-show =
     .label = { spaces-toolbar-button-show.title }
+
 # Variables:
 # $count (Number) - Number of unread messages.
 chat-button-unread-messages = { $count }
@@ -254,22 +304,25 @@ chat-button-unread-messages = { $count }
 
 ## Spaces toolbar customize panel
 
-spaces-context-customize =
-    .label = Personalizar…
 menuitem-customize-label =
     .label = Personalizar…
+
 spaces-customize-panel-title = Configurações da barra de espaços
+
 spaces-customize-background-color = Cor de fundo
+
 spaces-customize-icon-color = Cor dos botões
+
 # The background color used on the buttons of the spaces toolbar when they are
 # `current`, meaning the related space/tab is active and visible.
 spaces-customize-accent-background-color = Cor de fundo do botão selecionado
+
 # The icon color used on the buttons of the spaces toolbar when they are
 # `current`, meaning the related space/tab is active and visible.
 spaces-customize-accent-text-color = Cor do botão selecionado
+
 spaces-customize-button-restore = Restaurar padrão
     .accesskey = R
-spaces-customize-button-save = Pronto
-    .accesskey = P
+
 customize-panel-button-save = Pronto
     .accesskey = P

@@ -7,12 +7,6 @@
 <!ENTITY pref.content.title                     "Conteúdo">
 <!ENTITY pref.content.description               "Essas opções influenciam como conteúdo de sites e mensagens devem aparecer no &brandShortName;.">
 
-<!ENTITY siteIcons.label                        "Ícones de sites">
-<!ENTITY useSiteIcons.label                     "Exibir ícones de sites">
-<!ENTITY useSiteIcons.accesskey                 "E">
-<!ENTITY useFavIcons2.label                     "Tente usar o favicon de servidores quando a página não define um ícone">
-<!ENTITY useFavIcons2.accesskey                 "i">
-
 <!ENTITY scrolling.label                        "Rolagem">
 <!ENTITY useAutoScroll.label                    "Usar autorrolagem">
 <!ENTITY useAutoScroll.accesskey                "t">
@@ -43,6 +37,4 @@
 
 <!ENTITY allowHWAccel.label                     "Usar aceleração de hardware quando disponível">
 <!ENTITY allowHWAccel.accesskey                 "e">
-<!ENTITY blockAutoRefresh.label                 "Alertar se sites tentarem redirecionar ou recarregar a página">
-<!ENTITY blockAutoRefresh.accesskey             "A">
 
