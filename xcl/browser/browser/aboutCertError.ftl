@@ -55,7 +55,6 @@ unknownSocketType-title = Անակնկալ պատասխանի ի սպասարկ�
 nssFailure2-title = Անվտանգ կապակցումն տապալեցաւ։
 csp-xfo-error-title = { -brand-short-name } ոչ կարէ բանալ զայս էջ
 corruptedContentError-title = Սխալ բովանդակութեան եղծելոյ
-remoteXUL-title = Հեռակայ XUL
 sslv3Used-title = Անկարող անվտանգ կապակցել
 inadequateSecurityError-title = Կապակցումն քո չէ անվտանգ
 blockedByPolicy-title = Արգելափակեալ երես
