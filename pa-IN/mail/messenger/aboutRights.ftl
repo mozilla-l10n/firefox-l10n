@@ -11,7 +11,6 @@ rights-intro-point-5 = ਕੁਝ { -brand-short-name } ਫੀਚਰ ਵੈੱਬ
 rights-intro-point-5-unbranded = ਜੇ ਇਹ ਪਰੋਡੱਕਟ ਵਿੱਚ ਕੋਈ ਵੀ ਵੈੱਬ ਸਰਵਿਸ ਸ਼ਾਮਲ ਹੈ ਤਾਂ ਕਿਸੇ ਵੀ ਢੁੱਕਵੀਂ ਸਰਵਿਸ (ਜਾਂ ਸਰਵਿਸਾਂ) ਬਾਰੇ ਲਿੰਕ <a data-l10n-name="mozilla-website-services-link">ਵੈੱਬ ਸਾਈਟ ਸਰਵਿਸਾਂ</a> ਸ਼ੈਕਸ਼ਨ ਨਾਲ ਸਬੰਧਿਤ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।
 rights-intro-point-6 = ਕੁਝ ਕਿਸਮ ਦੀ ਵੀਡਿਓ ਸਮੱਗਰੀ ਚਲਾਉਣ ਲਈ { -brand-short-name } ਸੁਤੰਤਰ ਧਿਰਾਂ ਤੋਂ ਕੁਝ ਸਮੱਗਰੀ ਡਿਕ੍ਰਿਪਟ ਕਰਨ ਵਾਲੇ ਮੋਡੀਊਲ ਡਾਊਨਲੋਡ ਕਰਦਾ ਹੈ।
 rights-webservices-header = { -brand-full-name } ਵੈੱਬ-ਅਧਾਰਿਤ ਜਾਣਕਾਰੀ ਸਰਵਿਸਾਂ
-rights-webservices = { -brand-full-name } ਤੁਹਾਡੀ ਵਰਤੋਂ ਲਈ { -brand-short-name } ਦੇ ਇਸ ਬਾਈਨਰੀ ਵਰਜਨ ਨਾਲ ਦਿੱਤੇ ਜਾ ਰਹੇ ਕੁਝ ਫੀਚਰਾਂ ਲਈ ਵੈੱਬ ਅਧਾਰਿਤ ਜਾਣਕਾਰੀ ਸੇਵਾਵਾਂ ("Services")  ਦੇਣ ਲਈ ਹੇਠ ਦਿੱਤੀਆਂ ਸ਼ਰਤਾਂ ਹਨ। ਜੇ ਤੁਸੀਂ ਇੱਕ ਜਾਂ ਵੱਧ ਸੇਵਾਵਾਂ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕਰਨੀ ਚਾਹੁੰਦੇ ਹੋ ਜਾਂ ਦਿੱਤੀਆਂ ਸ਼ਰਤਾਂ ਨਾਲ ਸਹਿਮਤੀ ਨਹੀਂ ਹੋ ਤਾਂ ਤੁਸੀਂ ਫੀਚਰ ਜਾਂ ਸੇਵਾਵਾਂ ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ। ਖਾਸ ਫੀਚਰ ਜਾਂ ਸੇਵਾ ਨੂੰ ਬੰਦ ਬੰਦ ਕਰਨ ਬਾਰੇ ਹਦਾਇਤਾਂ <a data-l10n-name="mozilla-disable-service-link">ਇੱਥੇ</a> ਦਿੱਤੀਆਂ ਹਨ। ਹੋਰ ਫੀਚਰਾਂ ਤੇ ਸੇਵਾਵਾਂ ਨੂੰ ਐਪਲੀਕੇਸ਼ਨ ਪਸੰਦ ਵਿੱਚੋਂ ਬੰਦ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
 rights-locationawarebrowsing = <strong>ਟਿਕਾਣਾ ਜਾਣੂ ਬਰਾਊਜ਼ਿੰਗ: </strong>ਚੋਣ ਮੁਤਾਬਕ ਹੈ। ਬਿਨਾਂ ਅਧਿਕਾਰ ਦੇ ਟਿਕਾਣਾ ਜਾਣਕਾਰੀ ਨਹੀਂ ਭੇਜੀ ਜਾਵੇਗੀ। ਜੇ ਤੁਸੀਂ ਇਹ ਫੀਚਰ ਪੂਰੀ ਤਰ੍ਹਾਂ ਬੰਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਸਟੈਪ ਅੱਗੇ ਦਿੱਤੇ ਹਨ:
 rights-locationawarebrowsing-term-1 = IURL ਪੱਟੀ 'ਚ ਲਿਖੋ <code>about:config</code>
 rights-locationawarebrowsing-term-2 = ਲਿਖੋ geo.enabled

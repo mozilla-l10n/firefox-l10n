@@ -10,28 +10,10 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                  "ਐਕਟਵਿਟੀ ਮੈਨੇਜਰ">
 
-<!ENTITY cmd.pause.label                  "ਵਿਰਾਮ">
-<!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "ਮੁੜ-ਪ੍ਰਾਪਤ">
-<!ENTITY cmd.resume.accesskey             "R">
-<!ENTITY cmd.cancel.label                 "ਰੱਦ ਕਰੋ">
-<!ENTITY cmd.cancel.accesskey             "C">
-<!ENTITY cmd.undo.label                   "ਵਾਪਿਸ">
-<!ENTITY cmd.undo.accesskey               "U">
-<!ENTITY cmd.recover.label                "ਰੀਕਵਰ">
-<!ENTITY cmd.recover.accesskey            "v">
-<!ENTITY cmd.retry.label                  "ਮੁੜ-ਕੋਸ਼ਿਸ਼">
-<!ENTITY cmd.retry.accesskey              "R">
-<!ENTITY cmd.removeFromList.label         "ਲਿਸਟ ਤੋਂ ਹਟਾਓ">
-<!ENTITY cmd.removeFromList.accesskey     "e">
-
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "ਲਿਸਟ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY cmd.clearList.tooltip            "ਲਿਸਟ ਵਿੱਚੋਂ ਪੂਰੀਆਂ ਹੋਈਆਂ, ਰੱਦ ਕੀਤੀਆਂ ਜਾਂ ਫੇਲ੍ਹ ਹੋਈਆਂ ਆਈਟਮਾਂ ਹਟਾਓ">
 <!ENTITY cmd.clearList.accesskey          "C">
-<!ENTITY cmd.find.commandkey              "f">
-<!ENTITY cmd.search.commandkey            "k">
 
-<!ENTITY searchBox.label                  "ਖੋਜ…">

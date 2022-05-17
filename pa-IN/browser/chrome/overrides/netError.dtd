@@ -163,8 +163,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "ਇੰਜ ਦੀਆਂ ਸਮੱਸਿਆਵਾਂ ਦੀ ਜਾਣਕਾਰੀ ਦੇਣ ਨਾਲ Mozilla ਖ਼ਤਰਨਾਕ ਸਾਈਟਾਂ ਦੀ ਪਛਾਣ ਕਰਦਾ ਅਤੇ ਉਹਨਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦਾ ਹੈ।">
 <!ENTITY errorReporting.learnMore "…ਹੋਰ ਜਾਣੋ">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>ਇਹ ਸਮੱਸਿਆ ਦੀ ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ ਵੈਬਸਾਈਟ ਦੇ ਮਾਲਕ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "ਤਕਨੀਕੀ ਜਾਣਕਾਰੀ: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -189,9 +187,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਹਾਡੀ ਨੈੱਟਵਰਕ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ ਇਸ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦੀਆਂ ਹਨ। ਕੀ ਤੁਸੀਂ ਡਿਫਾਲਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਹਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY prefReset.label "ਡਿਫਾਲਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਹਾਲ ਕਰੋ">
-
-<!ENTITY enableTls10.longDesc "ਇਹ ਵੈੱਬਸਾਈਟ TLS 1.2 ਪਰੋਟੋਕਾਲ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੋ ਸਕਦੀ ਹੈ, ਜੋ ਕਿ &brandShortName; ਵਲੋਂ ਸਹਾਇਕ ਘੱਟੋ-ਘੱਟ ਵਰਜ਼ਨ ਹੈ। ਇਹ ਕਨੈਕਸ਼ਨ ਲਈ TLS 1.0 ਅਤੇ TLS 1.1 ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਨਾਲ ਕਾਮਯਾਬੀ ਮਿਲ ਸਕਦੀ ਹੈ।">
-<!ENTITY enableTls10.note "ਭਵਿੱਖ ਦੇ ਰੀਲਿਜ਼ ‘ਚ TLS 1.0 ਅਤੇ TLS 1.1 ਪੱਕੇ ਤੌਰ ‘ਤੇ ਅਸਮਰੱਥ ਕੀਤੇ ਜਾਣਗੇ।">
-<!ENTITY enableTls10.label "TLS 1.0 ਅਤੇ 1.1 ਸਮਰੱਥ ਕਰੋ">
 
 <!ENTITY networkProtocolError.longDesc "<p>ਸਫ਼ਾ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਵੇਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋ, ਨੂੰ ਵੇਖਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ, ਕਿਉਂਕਿ ਨੈਟਵਰਕ ਪਰੋਟੋਕਾਲ ਵਿੱਚ ਗਲਤੀ ਖੋਜੀ ਗਈ ਹੈ।</p><ul><li>ਇਸ ਸਮੱਸਿਆ ਬਾਰੇ ਵੈੱਬਸਾਈਟ ਦੇ ਮਾਲਕਾਂ ਨੂੰ ਜਾਣਕਾਰੀ ਦੇਣ ਵਾਸਤੇ ਸੰਪਰਕ ਕਰੋ।</li></ul>">

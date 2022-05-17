@@ -31,7 +31,6 @@ about-telemetry-events-section = Events
 about-telemetry-simple-measurements-section = ਸਧਾਰਨ ਮਾਪ
 about-telemetry-slow-sql-section = ਹੌਲੀ SQL ਸਟੇਟਮੈਂਟਾਂ
 about-telemetry-addon-details-section = ਐਡ-ਆਨ ਵੇਰਵੇ
-about-telemetry-captured-stacks-section = Captured Stacks
 about-telemetry-late-writes-section = ਦੇਰੀ ਨਾਲ ਰਾਇਟਰ
 about-telemetry-raw-payload-section = ਕੱਚਾ ਪੇਅਲੋਡ
 about-telemetry-raw = ਅਣਘੜ JSON
@@ -101,10 +100,6 @@ about-telemetry-addon-provider = { $addonProvider } ਪਰੋਵਾਈਡਰ
 about-telemetry-keys-header = ਵਿਸ਼ੇਸ਼ਤਾ
 about-telemetry-names-header = ਨਾਂ
 about-telemetry-values-header = ਮੁੱਲ
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (ਪ੍ਰਾਪਤੀ ਦੀ ਗਿਣਤੀ: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = ਲੇਟ ਲਿਖਣਾ #{ $lateWriteCount }

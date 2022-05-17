@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "ਵੈੱਬ ਪੇਜ਼…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "ਨਿੱਜੀ ਕਾਰਡ (vCard)">
-<!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY closeCmd.label "ਬੰਦ ਕਰੋ">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "c">
@@ -122,16 +119,6 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "ਡਿਲਵਰੀ ਹਾਲਤ ਨੋਟੀਫਿਕੇਸ਼ਨ">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY deliveryFormatMenu.label "ਡਿਲਵਰੀ ਫਾਰਮੈਟ">
-<!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "ਆਟੋਮੈਟਿਕ-ਖੋਜ">
-<!ENTITY autoFormatCmd.accesskey "a">
-<!ENTITY plainTextFormatCmd.label "ਕੇਵਲ ਪਲੇਨ ਟੈਕਸਟ">
-<!ENTITY plainTextFormatCmd.accesskey "p">
-<!ENTITY htmlFormatCmd.label "ਕੇਵਲ ਰਿੱਚ ਟੈਕਸਟ (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "r">
-<!ENTITY bothFormatCmd.label "ਪਲੇਨ ਅਤੇ ਰਿੱਚ (HTML) ਟੈਕਸਟ">
-<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "ਤਰਜੀਹ">
 <!ENTITY priorityMenu.accesskey "p">
 <!ENTITY priorityButton.label "ਤਰਜੀਹ:">

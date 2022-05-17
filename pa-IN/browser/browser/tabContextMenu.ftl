@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = ਸਾਂਝਾ ਕਰੋ
     .accesskey = h
-tab-context-share-more =
-    .label = …ਹੋਰ
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -88,14 +86,6 @@ tab-context-reopen-closed-tabs =
            *[other] ਬੰਦ ਕੀਤੀਆਂ ਟੈਬਾਂ ਮੁੜ-ਖੋਲ੍ਹੋ
         }
     .accesskey = o
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] ਟੈਬ ਬੰਦ ਕਰੋ
-            [one] ਟੈਬ ਬੰਦ ਕਰੋ
-           *[other] ਟੈਬਾਂ ਬੰਦ ਕਰੋ
-        }
-    .accesskey = C
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -111,6 +101,7 @@ tab-context-move-tabs =
            *[other] ਟੈਬਾਂ ਭੇਜੋ
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

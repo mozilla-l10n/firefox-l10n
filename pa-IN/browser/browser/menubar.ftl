@@ -38,16 +38,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } ਤੋਂ ਬਾਹਰ
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = { -brand-shorter-name } ਤੋਂ ਬਾਹਰ
+
 menu-about =
     .label = { -brand-shorter-name } ਬਾਰੇ
     .accesskey = A
@@ -77,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = …ਫਾਈਲ ਨੂੰ ਖੋਲ੍ਹੋ
     .accesskey = O
-menu-file-close =
-    .label = ਬੰਦ ਕਰੋ
-    .accesskey = C
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 menu-file-close-tab =
@@ -104,9 +96,6 @@ menu-file-share-url =
 menu-file-print-setup =
     .label = …ਸਫ਼ੇ ਦਾ ਸੈਟਅੱਪ
     .accesskey = u
-menu-file-print-preview =
-    .label = ਪਰਿੰਟ ਝਲਕ
-    .accesskey = v
 menu-file-print =
     .label = …ਪਰਿੰਟ ਕਰੋ
     .accesskey = P
@@ -319,9 +308,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = T
 menu-help-report-site-issue =
     .label = …ਸਾਈਟ ਮਸਲੇ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿਓ
-menu-help-feedback-page =
-    .label = …ਸੁਝਾਅ ਭੇਜੋ
-    .accesskey = S
 menu-help-share-ideas =
     .label = …ਵਿਚਾਰ ਤੇ ਸੁਝਾਅ ਸਾਂਝੇ ਕਰੋ
     .accesskey = S
