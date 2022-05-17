@@ -99,6 +99,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "Lenane le Lentšhwa">
 <!ENTITY newlistButton.accesskey                        "L">
+
 <!ENTITY newmsgButton.label                             "Kwala">
 <!ENTITY newmsgButton.accesskey                         "K">
 <!ENTITY newIM.label                                    "Molaetsa wa ponyo ya leitlho">

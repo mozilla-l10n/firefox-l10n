@@ -48,8 +48,6 @@ was trying to connect. -->
 
 <!ENTITY errorReporting.learnMore "Ithute thata...">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsese ka bothaka jo.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,

@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Tsebe ya Inthanete...">
 <!ENTITY attachPageCmd.accesskey "T">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Karata ya Sebele (vCard)">
-<!ENTITY attachVCardCmd.accesskey "K">
 <!ENTITY remindLater.label "Remind Me Later">
 <!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Tswala">
@@ -129,16 +126,6 @@
 <!ENTITY returnReceiptMenu.accesskey "h">
 <!ENTITY dsnMenu.label "Delivery Status Notification">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY deliveryFormatMenu.label "Delivery Format">
-<!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "Temogo-Itiriso">
-<!ENTITY autoFormatCmd.accesskey "T">
-<!ENTITY plainTextFormatCmd.label "Ditlhaka tsa gale Fela">
-<!ENTITY plainTextFormatCmd.accesskey "D">
-<!ENTITY htmlFormatCmd.label "Mafoko a a Humileng (HTML) Fela">
-<!ENTITY htmlFormatCmd.accesskey "M">
-<!ENTITY bothFormatCmd.label "Ditlhaka tsa gale Fela le a a Humileng (HTML)">
-<!ENTITY bothFormatCmd.accesskey "L">
 <!ENTITY priorityMenu.label "Setlapele">
 <!ENTITY priorityMenu.accesskey "S">
 <!ENTITY priorityButton.label "Setlapele:">

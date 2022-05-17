@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "W">
 <!ENTITY newVirtualFolderCmd.label "Bolokile Phuruphutsa...">
 <!ENTITY newVirtualFolderCmd.accesskey "B">
-<!ENTITY newOtherAccountsCmd.label "Other Accounts…">
-<!ENTITY newOtherAccountsCmd.accesskey "O">
 <!ENTITY newCreateEmailAccountCmd.label "Get a New Mail Account…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "G">
 <!ENTITY newExistingEmailAccountCmd.label "Existing Mail Account…">
@@ -40,8 +38,6 @@
 <!ENTITY openMessageFileCmd.accesskey "B">
 <!ENTITY saveAsMenu.label "Boloka Jaaka">
 <!ENTITY saveAsMenu.accesskey "B">
-<!ENTITY saveAsFileCmd.label "Faele">
-<!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Foromo">
 <!ENTITY saveAsTemplateCmd.accesskey "F">

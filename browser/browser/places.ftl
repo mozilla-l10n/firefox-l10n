@@ -5,6 +5,7 @@
 places-open =
     .label = Bula
     .accesskey = B
+
 places-view =
     .label = Leba
     .accesskey = a
@@ -23,26 +24,36 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Ka Letlha le Setsha
     .accesskey = t
+
 places-history =
     .aria-label = Tiragalo tse di fetileng
+
 places-file-close =
     .label = Tswala
     .accesskey = T
+
 places-view-sort-unsorted =
     .label = Sa Tlhomaganngwang
     .accesskey = S
+
 places-view-sort-ascending =
     .label = Thulaganyo ya Tlhomaganyo ya A > Z
     .accesskey = A
+
 places-view-sort-descending =
     .label = Thulaganyo ya Tlhomaganyo ya A > Z
     .accesskey = A
+
 places-cmd-restore =
     .label = Busetsa
     .accesskey = B
+
 places-view-sort-col-name =
     .label = Leina
+
 places-view-sort-col-url =
     .label = Lefelo
+
 places-view-sort-col-last-modified =
     .label = Fetotswe la Bofelo
+

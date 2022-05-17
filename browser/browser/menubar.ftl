@@ -39,15 +39,6 @@ menu-quit =
 menu-quit-mac =
     .label = Tlogela { -brand-shorter-name }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Tswaya { -brand-shorter-name }
-
 menu-about =
     .label = Ka ga { -brand-shorter-name }
     .accesskey = K
@@ -74,9 +65,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Bula Faele…
     .accesskey = B
-menu-file-close =
-    .label = Tswala
-    .accesskey = T
 menu-file-close-window =
     .label = Tswala Window
     .accesskey = d
@@ -89,9 +77,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Thulaganyo ya Tsebe…
     .accesskey = u
-menu-file-print-preview =
-    .label = Ponopele ya Kgatiso
-    .accesskey = v
 menu-file-print =
     .label = Gatisa…
     .accesskey = G
@@ -245,6 +230,3 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Thuso
     .accesskey = T
-menu-help-feedback-page =
-    .label = Romela tshwaelo ka maitemogelo...
-    .accesskey = R
