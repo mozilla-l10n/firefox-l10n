@@ -4,8 +4,10 @@
 
 account-settings-title = Authentication Settings
 account-channel-title = Default Channels
+
 chat-autologin =
     .label = Sign-on at startup
+
 chat-encryption-generic = Generic
 chat-encryption-log =
     .label = Include end-to-end encrypted messages in conversation logs
