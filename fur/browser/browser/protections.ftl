@@ -71,16 +71,8 @@ mobile-app-card-content = Dopre il navigadôr mobile cu la protezion integrade c
 mobile-app-links = Navigadôr { -brand-product-name } par <a data-l10n-name="android-mobile-inline-link">Android</a> e <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 
 lockwise-title = Mai plui dismenteâ une password
-lockwise-title-logged-in2 = Gjestion des password
-lockwise-header-content = { -lockwise-brand-name } al archivie in sigurece lis tôs passwords tal navigadôr.
 lockwise-header-content-logged-in = Archivie in sigurece e sincronize lis tôs passwords su ducj i tiei dispositîfs.
-protection-report-save-passwords-button = Salve lis passwords
-    .title = Salve lis passwords su { -lockwise-brand-short-name }
-protection-report-manage-passwords-button = Gjestìs lis passwords
-    .title = Gjestìs lis passwords su { -lockwise-brand-short-name }
-lockwise-mobile-app-title = Puarte lis tôs passwords dapardut
-lockwise-no-logins-card-content = Dopre lis passwords salvadis in { -brand-short-name } su ducj i dispositîfs.
-lockwise-app-links = { -lockwise-brand-name } par <a data-l10n-name="lockwise-android-inline-link">Android</a> e <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+
 
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.

@@ -5,7 +5,6 @@
 
 ## App Menu
 
-appmenuitem-protection-dashboard-title = Panel des protezions
 appmenuitem-new-tab =
     .label = Gnove schede
 appmenuitem-new-window =
@@ -42,6 +41,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Siere il menù aplicazion
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -62,23 +62,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Jentre par sincronizâ…
 appmenu-remote-tabs-turn-on-sync =
     .label = Ative la sincronizazion…
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Mostre plui schedis
     .tooltiptext = Mostre plui schedis di chest dispositîf
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nissune schede vierte
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Ative la sincronizazion des schedis par visualizâ une liste di schedis dai tiei altris dispositîfs.
+
 appmenu-remote-tabs-opensettings =
     .label = Impostazions
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Desideristu viodi achì lis tôs schedis di altris dispositîfs?
+
 appmenu-remote-tabs-connectdevice =
     .label = Conet un altri dispositîf
 appmenu-remote-tabs-welcome = Visualize une liste di schedis dai tiei altris dispositîfs.
 appmenu-remote-tabs-unverified = Al è necessari verificâ il to account.
+
 appmenuitem-fxa-toolbar-sync-now2 = Sincronize cumò
 appmenuitem-fxa-sign-in = Jentre su { -brand-product-name }
 appmenuitem-fxa-manage-account = Gjestìs account
@@ -92,13 +99,14 @@ appmenu-fxa-sync-and-save-data2 = Sincronize e salve i dâts
 appmenu-fxa-signed-in-label = Jentre
 appmenu-fxa-setup-sync =
     .label = Ative la sincronizazion…
-appmenu-fxa-show-more-tabs = Mostre plui schedis
+
 appmenuitem-save-page =
     .label = Salve pagjine come…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Novitâts
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -112,45 +120,49 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiladôr
     .tooltiptext = Regjistre un profîl di prestazion
+
 profiler-popup-button-recording =
     .label = Profiladôr
     .tooltiptext = Regjistrazion dal profîl in cors
+
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Visualize plui informazions
+
 profiler-popup-description-title =
     .value = Regjistre, analize, condivît
+
 profiler-popup-description = Colabore su problemis di prestazions publicant i profîi di condividi cu la tô scuadre.
-profiler-popup-learn-more = Plui informazions
+
 profiler-popup-learn-more-button =
     .label = Plui informazions
+
 profiler-popup-settings =
     .value = Impostazions
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings = Modifiche impostazions…
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Modifiche impostazions…
-profiler-popup-disabled =
-    Pal moment il profiladôr al è disabilitât, di solit par vie che al è viert
-    un barcon di navigazion privade.
+
 profiler-popup-recording-screen = Daûr a regjistrâ…
-# The profiler presets list is generated elsewhere, but the custom preset is defined
-# here only.
-profiler-popup-presets-custom =
-    .label = Personalizât
+
 profiler-popup-start-recording-button =
     .label = Scomence regjistrazion
+
 profiler-popup-discard-button =
     .label = Scarte
+
 profiler-popup-capture-button =
     .label = Cature
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Maiusc+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -197,9 +209,6 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = T
 appmenu-help-report-site-issue =
     .label = Segnale probleme cul sît…
-appmenu-help-feedback-page =
-    .label = Invie opinion
-    .accesskey = o
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -225,8 +234,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personalize sbare dai struments…
-appmenu-taskmanager =
-    .label = Gjestôr ativitâts
+
 appmenu-developer-tools-subheader = Struments dal navigadôr
 appmenu-developer-tools-extensions =
     .label = Estension pai svilupadôrs

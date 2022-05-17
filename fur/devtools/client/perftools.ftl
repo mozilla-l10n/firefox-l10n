@@ -51,9 +51,6 @@ perftools-devtools-settings-label = Impostazions
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
-perftools-status-private-browsing-notice =
-    Il profiladôr al è disativât cuant che e je ative la navigazion privade.
-    Siere ducj i barcons privâts par tornâ a ativâ il profiladôr
 perftools-status-recording-stopped-by-another-tool = Lis regjistrazions a son stadis fermadis di un altri strument.
 perftools-status-restart-required = Si scugne tornâ a inviâ il navigadôr par ativâ cheste funzion.
 
@@ -109,6 +106,9 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## devtools.performance.new-panel-onboarding preference is true.
+
 perftools-onboarding-message = <b>Novitât</b>: { -profiler-brand-name } al è cumò integrât intai struments di disvilup. <a>Scuvierç altris informazions</a> su chest gnûf e potent strument.
 
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
@@ -116,3 +116,11 @@ perftools-onboarding-reenable-old-panel = (Par un timp limitât, tu puedis acedi
 
 perftools-onboarding-close-button =
     .aria-label = Siere il messaç di introduzion
+
+## Profiler presets
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+##

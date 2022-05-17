@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Funzionalitât conseade
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Parcè stoio viodint chest messaç?
+
 cfr-doorhanger-extension-cancel-button = No cumò
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Zonte cumò
     .accesskey = Z
+
 cfr-doorhanger-extension-manage-settings-button = Gjestìs impostazions sugjeriments
     .accesskey = G
+
 cfr-doorhanger-extension-never-show-recommendation = No sta mostrâmi chest sugjeriment
     .accesskey = s
+
 cfr-doorhanger-extension-learn-more-link = Plui informazions
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = di { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Sugjeriment
 cfr-doorhanger-extension-notification2 = Sugjeriment
     .tooltiptext = Estension conseade
     .a11y-announcement = Al è disponibil un sugjeriment par une estension
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Sugjeriment
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Plui informazions
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Gnove funzionalitât:
+
 cfr-whatsnew-button =
     .label = Novitâts
     .tooltiptext = Novitâts
+
 cfr-whatsnew-release-notes-link-text = Lei lis notis di publicazion
 
 ## Enhanced Tracking Protection Milestones
@@ -135,3 +145,6 @@ spotlight-public-wifi-vpn-link = No cumò
 ## Total Cookie Protection Rollout
 
 spotlight-total-cookie-protection-secondary-button = No cumò
+
+## Emotive Continuous Onboarding
+

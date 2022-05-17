@@ -100,9 +100,6 @@
 <!ENTITY corruptedContentErrorv2.title "Erôr di contignût ruvinât">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Nol è pussibil mostrâ la pagjine che tu stâs cirint di visualizâ parcè che al è stât rilevât un erôr te trasmission dai dâts.</p><ul><li>Par plasê contate i proprietaris dal sît web par informâju di chest probleme.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL esterni">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Contate par plasê l'aministradôr dal sît par informâlu di chest probleme.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "La tô conession no je sigure">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

@@ -117,3 +117,7 @@ addon-install-from-file-filter-name = Zontis
 
 ## Page headings
 
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+

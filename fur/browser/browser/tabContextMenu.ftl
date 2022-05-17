@@ -72,8 +72,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Condivît
     .accesskey = C
-tab-context-share-more =
-    .label = Altri…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -86,14 +84,6 @@ tab-context-reopen-closed-tabs =
            *[other] Torne vierç schedis sieradis
         }
     .accesskey = o
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Siere schede
-            [one] Siere schede
-           *[other] Siere schedis
-        }
-    .accesskey = c
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -102,6 +92,7 @@ tab-context-move-tabs =
            *[other] Sposte schedis
         }
     .accesskey = h
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

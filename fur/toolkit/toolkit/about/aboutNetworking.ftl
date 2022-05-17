@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = Ative
 about-networking-idle = Inatîf
 about-networking-host = Servidôr
-about-networking-tcp = TCP
 about-networking-sent = Mandadis
 about-networking-received = Ricevudis
 about-networking-family = Famee

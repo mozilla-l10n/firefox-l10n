@@ -19,6 +19,7 @@ app-basics-build-config = Configurazion de build
 app-basics-user-agent = Agjent utent
 app-basics-memory-use = Memorie doprade
 app-basics-safe-mode = Modalitât sigure
+
 modified-prefs-name = Non
 modified-prefs-value = Valôr
 user-js-title = user.js Preferencis

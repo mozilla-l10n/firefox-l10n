@@ -115,7 +115,6 @@ unknownSocketType-title = Rispueste inspietade dal servidôr
 nssFailure2-title = Conession sigure falide
 csp-xfo-error-title = { -brand-short-name } nol rive a vierzi cheste pagjine
 corruptedContentError-title = Erôr di contignût comprometût
-remoteXUL-title = XUL esterni
 sslv3Used-title = Impussibil conetisi in maniere sigure
 inadequateSecurityError-title = La conession no je sigure
 blockedByPolicy-title = Pagjine blocade

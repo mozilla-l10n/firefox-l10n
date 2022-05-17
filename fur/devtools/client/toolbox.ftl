@@ -15,11 +15,14 @@ toolbox-meatball-menu-dock-bottom-label = Ancore in bas
 toolbox-meatball-menu-dock-left-label = Ancore a çampe
 toolbox-meatball-menu-dock-right-label = Ancore a drete
 toolbox-meatball-menu-dock-separate-window-label = Separe barcon
+
 toolbox-meatball-menu-splitconsole-label = Mostre la console dividude
 toolbox-meatball-menu-hideconsole-label = Plate la console dividude
+
 toolbox-meatball-menu-settings-label = Impostazions
 toolbox-meatball-menu-documentation-label = Documentazion…
 toolbox-meatball-menu-community-label = Comunitât…
+
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.

@@ -31,7 +31,6 @@ about-telemetry-events-section = Events
 about-telemetry-simple-measurements-section = Misurazion semplice
 about-telemetry-slow-sql-section = Mostre istruzions lentis SQL
 about-telemetry-addon-details-section = Detais des zontis
-about-telemetry-captured-stacks-section = Tassis blocadis
 about-telemetry-late-writes-section = Scrituris tardis
 about-telemetry-raw-payload-section = Payload no elaborât
 about-telemetry-raw = JSON no elaborât

@@ -47,3 +47,8 @@ pocket-panel-home-paragraph = Tu puedis doprâ { -pocket-brand-name } par esplor
 pocket-panel-home-explore-popular-topics = Esplora i argoments plui popolârs
 pocket-panel-home-discover-more = Scuvierç alc altri
 pocket-panel-home-explore-more = Esplore
+
+## Pocket panel header component
+
+## Pocket panel buttons
+

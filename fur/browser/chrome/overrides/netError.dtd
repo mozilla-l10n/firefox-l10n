@@ -168,8 +168,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Segnale i erôrs come chest par judâ Mozilla a identificâ e blocâ i sîts malevui">
 <!ENTITY errorReporting.learnMore "Plui informazions…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Contate par plasê i proprietaris dal sît par informâju di chest probleme.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informazions avanzadis: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -195,9 +193,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Al somee che lis impostazions di sigurece de tô rêt a causedin chest probleme. Desideristu tornâ a meti lis impostazions predefinidis?">
 <!ENTITY prefReset.label "Ripristine impostazions predefinidis">
-
-<!ENTITY enableTls10.longDesc "Chest sît web al podarès no supuartâ il protocol TLS 1.2, che e je la version minime supuartade di &brandShortName;. Al podarès jessi pussibil completâ la conession abilitant  TLS 1.0 e TLS 1.1.">
-<!ENTITY enableTls10.note "TLS 1.0 e TLS 1.1 a vignaran disabilitâts par simpri intune prossime version.">
-<!ENTITY enableTls10.label "Abilite TLS 1.0 e 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>No si pues visualizâ la pagjine che tu stâs cirint di viodi parcè che al è stât rilevât un erôr tal protocol di rêt.</p><ul><li>Par plasê contate i proprietaris dal sît web par informâju di chest probleme.</li></ul>">

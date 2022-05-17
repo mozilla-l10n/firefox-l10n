@@ -12,4 +12,6 @@ videocontrols-unmute-button =
     .aria-label = Ative audio
 videocontrols-exitfullscreen-button =
     .aria-label = Jes di Dut il visôr
+
 videocontrols-error-aborted = Cjamade dal video fermade.
+

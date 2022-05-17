@@ -41,15 +41,6 @@ menu-quit =
 menu-quit-mac =
     .label = Jes di { -brand-shorter-name }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Jes di { -brand-shorter-name }
-
 menu-about =
     .label = Informazions su { -brand-shorter-name }
     .accesskey = I
@@ -79,9 +70,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Vierç file…
     .accesskey = f
-menu-file-close =
-    .label = Siere
-    .accesskey = r
 menu-file-close-window =
     .label = Siere il barcon
     .accesskey = c
@@ -94,9 +82,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Configurazion pagjine…
     .accesskey = g
-menu-file-print-preview =
-    .label = Anteprime di stampe
-    .accesskey = d
 menu-file-print =
     .label = Stampe…
     .accesskey = p
@@ -305,9 +290,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = t
 menu-help-report-site-issue =
     .label = Segnale probleme cul sît…
-menu-help-feedback-page =
-    .label = Invie opinion
-    .accesskey = o
 menu-help-enter-troubleshoot-mode2 =
     .label = Modalitât risoluzion problemis…
     .accesskey = M

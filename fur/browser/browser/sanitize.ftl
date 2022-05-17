@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Dâts
 
-item-site-preferences =
-    .label = Preferencis dal sît
-    .accesskey = s
-
 item-offline-apps =
     .label = Dâts dai sîts web fûr rêt
     .accesskey = f
