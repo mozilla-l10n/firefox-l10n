@@ -23,6 +23,7 @@ cryptominer-tab-title = क्रिप्टोमाइनर
   
 lockwise-title = पुन्हा कधीही पासवर्ड विसरू नका
 
+
 monitor-title = माहिती उल्लंघनावर लक्ष ठेवा.
 monitor-link = हे कसे कार्य करते
 auto-scan = आज स्वयंचलितपणे स्कॅन केले

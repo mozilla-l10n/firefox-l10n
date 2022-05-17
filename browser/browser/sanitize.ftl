@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = माहिती
 
-item-site-preferences =
-    .label = साईट प्राधान्यक्रम
-    .accesskey = S
-
 item-offline-apps =
     .label = ऑफलाइन संकेतस्थळ माहिती
     .accesskey = O

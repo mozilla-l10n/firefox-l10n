@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "प्रोफाइलर ने नमुने घेतले तेव्हा हे किती वेळा फंक्शन स्टेकवर होते">
 <!ENTITY performanceUI.table.function                 "फंक्शन">
 <!ENTITY performanceUI.table.function.tooltip         "नमुने घेतलेल्या फंक्शनचे नाव आणि स्त्रोत स्थान.">
-<!ENTITY performanceUI.table.totalAlloc               "एकूण नमुने वाटण्या">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "या स्थानावर आणि कॉलीज मध्ये घटक वाटण्याची एकूण संख्या.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

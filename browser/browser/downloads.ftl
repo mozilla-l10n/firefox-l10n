@@ -13,12 +13,6 @@ downloads-panel =
 
 ##
 
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of 
-# in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-
 downloads-cmd-pause =
     .label = थांबवा
     .accesskey = P
@@ -29,36 +23,13 @@ downloads-cmd-cancel =
     .tooltiptext = रद्द करा
 downloads-cmd-cancel-panel =
     .aria-label = रद्द करा
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = समाविष्टीत फोल्डर उघडा
-    .accesskey = F
   
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = फाइंडरमध्ये दाखवा
-    .accesskey = F
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] फाइंडरमध्ये दाखवा
-           *[other] समाविष्टीत फोल्डर उघडा
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] फाइंडरमध्ये दाखवा
-           *[other] समाविष्टीत फोल्डर उघडा
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] फाइंडरमध्ये दाखवा
-           *[other] समाविष्टीत फोल्डर उघडा
-        }
+##
 
 downloads-cmd-show-downloads =
     .label = डाउनलोड फोल्डर दर्शवा
@@ -154,6 +125,13 @@ downloads-history =
 downloads-details =
     .title = डाउनलोड तपशील
 
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
+
 downloads-clear-downloads-button =
     .label = डाउनलोड्स नष्ट करा
     .tooltiptext = पूर्ण झालेले, रद्द केलेले व अपयशी डाउनलोड्स नष्ट करतो
@@ -166,3 +144,4 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = ह्या सत्राकरिता डाउनलोड नाही.
+
