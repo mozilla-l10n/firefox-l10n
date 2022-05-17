@@ -60,10 +60,6 @@ item-form-search-history =
 
 data-section-label = Податоци
 
-item-site-preferences =
-    .label = Поставки на местата
-    .accesskey = с
-
 item-offline-apps =
     .label = Локалните податоци за мрежни места
     .accesskey = о

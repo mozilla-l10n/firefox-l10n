@@ -16,9 +16,6 @@
 <!ENTITY attachMenu.accesskey "л">
 <!ENTITY attachPageCmd.label "Мрежна страница…">
 <!ENTITY attachPageCmd.accesskey "М">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Лична карта (vCard)">
-<!ENTITY attachVCardCmd.accesskey "р">
 <!ENTITY closeCmd.label "Затвори">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "т">
@@ -101,14 +98,6 @@
 
 <!ENTITY returnReceiptMenu.label "Повратна пошта">
 <!ENTITY returnReceiptMenu.accesskey "т">
-<!ENTITY autoFormatCmd.label "Авто-детектирај">
-<!ENTITY autoFormatCmd.accesskey "А">
-<!ENTITY plainTextFormatCmd.label "Само обичен текст">
-<!ENTITY plainTextFormatCmd.accesskey "о">
-<!ENTITY htmlFormatCmd.label "Само богат текст (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "б">
-<!ENTITY bothFormatCmd.label "Обичен и богат (HTML) текст">
-<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "Приоритет">
 <!ENTITY priorityMenu.accesskey "П">
 <!ENTITY priorityButton.label "Приоритет:">

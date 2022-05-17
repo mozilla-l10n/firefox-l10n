@@ -9,16 +9,3 @@
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
-<!ENTITY menu_securityEncryptRequire.accesskey "Е">
-
-<!ENTITY menu_securitySign.label "Дигитално потпиши ја оваа порака">
-<!ENTITY menu_securitySign.accesskey "п">
-
-<!ENTITY menu_securityStatus.label "Прикажи ги информациите за безбедноста">
-<!ENTITY menu_securityStatus.accesskey "и">
-
-<!ENTITY securityButton.label "Безбедност">
-<!ENTITY securityButton.tooltip "Видете ги или променете ги безбедносните поставки">
-
-<!ENTITY menu_viewSecurityStatus.label "Информации за безбедноста на пораката">
-<!ENTITY menu_viewSecurityStatus.accesskey "И">

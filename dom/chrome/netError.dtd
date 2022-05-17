@@ -78,10 +78,6 @@
 
 
 
-<!ENTITY remoteXUL.title "Мрежен XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Контактирајте со сопствениците на страницата за да 
-ги информирате за овој проблем.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

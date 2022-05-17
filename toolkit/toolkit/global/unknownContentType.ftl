@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] Поставките можат да се сменат во опциите за { -brand-short-name }.
            *[other] Параметрите може да се променат во Поставки на { -brand-short-name }.
         }
+
 unknowncontenttype-intro = Избравте да отворите:
 unknowncontenttype-which-is = која е:
 unknowncontenttype-from = од:

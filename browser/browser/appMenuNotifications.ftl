@@ -31,6 +31,7 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Не сега
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Достапно е ново ажурирање на { -brand-shorter-name }, но не може да се инсталира бидејќи се извршува друга копија од { -brand-shorter-name }. Затворете ја за да продолжите со ажурирањето или изберете да се ажурира во секој случај (другата копија може да не работи правилно додека не ја рестартирате).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Во ред
     .buttonaccesskey = О
@@ -38,6 +39,7 @@ appmenu-addon-post-install-message3 = Управувајте со вашите �
 appmenu-addon-post-install-incognito-checkbox =
     .label = Дозволете оваа наставка да работи во приватни прозорчиња
     .accesskey = А
+
 appmenu-new-tab-controlled-changes =
     .label = Вашето ново јазиче е променето
     .buttonlabel = Чувајте ги промените

@@ -98,9 +98,6 @@ was trying to connect. -->
 
 
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Контактирајте со сопствениците на страницата за да 
-ги информирате за овој проблем.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 

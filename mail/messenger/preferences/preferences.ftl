@@ -179,12 +179,6 @@ restore-html-label =
     .label = Основни
     .accesskey = О
 
-format-description = Однесување на текстуалниот формат
-
-send-options-label =
-    .label = Опции за испраќање…
-    .accesskey = с
-
 autocomplete-description = Кога адресирам пораки, барај можни резултати во:
 
 ab-label =
@@ -221,4 +215,6 @@ email-picker-label =
 
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

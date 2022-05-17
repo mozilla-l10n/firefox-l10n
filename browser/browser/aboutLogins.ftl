@@ -4,9 +4,12 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Најави и лозинки
+
 login-filter =
     .placeholder = Пребарај најави
+
 create-login-button = Креирај нова најава
+
 fxaccounts-sign-in-text = Добијте ги вашите лозинки на други уреди
 fxaccounts-sign-in-sync-button = Пријавете се за синхронизација
 fxaccounts-avatar-button =
@@ -70,8 +73,6 @@ about-logins-login-intro-heading-logged-in = Не се пронајдени си
 login-intro-description = Ако ги зачувавте најавувањата на { -brand-product-name } на друг уред, еве како да ги добиете тука:
 login-intro-instructions-fxa = Создадете или најавете се на вашето име { -fxaccount-brand-name } на уредот каде што се зачувуваат вашите најавувања.
 login-intro-instructions-fxa-settings = Одете во Поставки> Синхронизација> Вклучете ја синхронизацијата… Изберете го полето за избор Најави и лозинки.
-login-intro-instructions-fxa-help = Посетете ја <a data-l10n-name="help-link"> { -lockwise-brand-short-name } Поддршка </a> за повеќе помош.
-about-logins-intro-import = Ако вашите најавувања се зачувани во друг прелистувач, <a data-l10n-name="import-link">можете да ги увезете во { -lockwise-brand-short-name }</a>
 login-intro-instructions-fxa-passwords-help = За повеќе помош, посетете ја <a data-l10n-name="passwords-help-link">страницата за поддршка за лозинки</a>.
 about-logins-intro-browser-only-import = Ако вашите најавувања се зачувани во друг прелистувач, <a data-l10n-name="import-link">можете да ги увезете во { -brand-product-name }</a>
 about-logins-intro-import2 = Ако вашите најавувања се зачувани надвор од { -brand-product-name }, можете да <a data-l10n-name="import-browser-link">ги увезете од друг прелистувач</a> или <a data-l10n-name="import-file-link">од датотека</a>
@@ -115,11 +116,13 @@ about-logins-edit-login-os-auth-dialog-message-win = За да го уредит
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = уредувајте ја зачуваната најава
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = За да ја видите вашата лозинка, внесете ги податоците за најава на Windows. Ова помага да се заштити безбедноста на вашите сметки.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = откријте ја зачуваната лозинка
+
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = копирајте ја зачуваната лозинка
@@ -135,9 +138,12 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Откажи
 confirmation-dialog-dismiss-button =
     .title = Откажи
+
 confirm-delete-dialog-message = Ова дејство не може да се врати.
 about-logins-confirm-remove-dialog-confirm-button = Отстрани
+
 about-logins-confirm-export-dialog-confirm-button = Извези...
+
 confirm-discard-changes-dialog-title = Отфрли незачувани измени?
 confirm-discard-changes-dialog-message = Сите незачувани промени ќе бидат изгубени.
 confirm-discard-changes-dialog-confirm-button = Отфрли
@@ -173,7 +179,9 @@ about-logins-import-file-picker-import-button = Увези
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Увозот заврши
+
 about-logins-import-dialog-done = Готово
+
 about-logins-import-dialog-error-learn-more = Дознајте повеќе
 about-logins-import-dialog-error-cancel = Откажи
 

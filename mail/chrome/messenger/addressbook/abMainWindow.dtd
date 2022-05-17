@@ -74,6 +74,7 @@
 
 <!ENTITY newlistButton.label "Нова листа">
 <!ENTITY newlistButton.accesskey "л">
+
 <!ENTITY newmsgButton.label "Пишувај">
 <!ENTITY newmsgButton.accesskey "ј">
 <!ENTITY newIM.label "Инстант порака">

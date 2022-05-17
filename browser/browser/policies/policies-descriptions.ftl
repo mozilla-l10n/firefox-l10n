@@ -11,8 +11,11 @@
 ## in the documentation section in about:policies.
 
 policy-BlockAboutConfig = Блокирајте пристап до страницата about:config
+
 policy-DisablePrivateBrowsing = Оневозможи приватно пребарување.
+
 policy-DisableTelemetry = Исклучете ја телеметријата.
+
 policy-DNSOverHTTPS = Конфигурирање на DNS преку HTTPS.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -21,7 +24,11 @@ policy-DNSOverHTTPS = Конфигурирање на DNS преку HTTPS.
 ##
 
 policy-Proxy = Конфигурирај поставки на прокси.
+
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Инсталирајте PKCS #11 модули.
+
 policy-SSLVersionMax = Поставете ја максималната SSL верзија.
+
 policy-SSLVersionMin = Поставете ја минималната верзија на SSL.
+

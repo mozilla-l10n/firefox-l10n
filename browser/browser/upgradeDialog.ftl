@@ -27,7 +27,5 @@
 
 ## Colorway screen
 
-upgrade-dialog-theme-secondary-button = Не сега
-
 ## Thank you screen
 

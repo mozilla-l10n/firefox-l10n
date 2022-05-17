@@ -35,11 +35,14 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Нема отворени јазичиња
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Вклучете синхронизација на јазичиња за да видите листа на јазичињата од вашите други уреди.
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Сакате да ги видите вашите јазичиња од други уреди овде?
+
 appmenuitem-save-page =
     .label = Сними страница како…
 
@@ -50,6 +53,13 @@ appmenuitem-save-page =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+
+## Profiler presets
+## They are shown in the popup's select box.
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
 
 ## History panel
 
@@ -68,9 +78,6 @@ appmenu-recently-closed-windows =
 appmenu-about =
     .label = За { -brand-shorter-name }
     .accesskey = A
-appmenu-help-feedback-page =
-    .label = Испрати коментар…
-    .accesskey = с
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

@@ -13,7 +13,6 @@ about-networking-ssl = SSL
 about-networking-active = Активен
 about-networking-idle = Во мирување
 about-networking-host = Домаќин
-about-networking-tcp = TCP
 about-networking-type = Тип
 about-networking-sent = Испратени
 about-networking-received = Примени

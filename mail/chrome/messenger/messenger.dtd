@@ -15,8 +15,6 @@
 <!ENTITY openMessageFileCmd.accesskey "О">
 <!ENTITY saveAsMenu.label "Сними како">
 <!ENTITY saveAsMenu.accesskey "С">
-<!ENTITY saveAsFileCmd.label "Датотека">
-<!ENTITY saveAsFileCmd.accesskey "Д">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Шаблон">
 <!ENTITY saveAsTemplateCmd.accesskey "б">
