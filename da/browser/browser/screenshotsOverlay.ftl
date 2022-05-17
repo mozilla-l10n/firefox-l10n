@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Fortryd
 screenshots-overlay-instructions = Træk eller klik på siden for at vælge et område. Tryk Esc for at annullere.
+screenshots-overlay-download-button = Hent
+screenshots-overlay-copy-button = Kopier
