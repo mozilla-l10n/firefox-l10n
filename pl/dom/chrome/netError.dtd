@@ -82,9 +82,6 @@
 <!ENTITY corruptedContentErrorv2.title "Błąd: treść uszkodzona">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Otwierana strona nie może zostać wyświetlona, ponieważ wykryto błąd w transmisji danych.</p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
 
-<!ENTITY remoteXUL.title "Zdalna treść XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Połączenie nie gwarantuje bezpieczeństwa">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

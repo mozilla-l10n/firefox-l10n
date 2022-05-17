@@ -4,8 +4,10 @@
 
 account-settings-title = Ustawienia uwierzytelniania
 account-channel-title = Domyślne kanały
+
 chat-autologin =
     .label = Loguj po uruchomieniu
+
 chat-encryption-generic = Ogólne
 chat-encryption-log =
     .label = Umieszczaj zaszyfrowane rozmowy w dziennikach rozmów

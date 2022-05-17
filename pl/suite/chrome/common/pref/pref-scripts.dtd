@@ -4,8 +4,6 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
-<!ENTITY pref.scripts.title "Skrypty i wtyczki">
-
 <!ENTITY navigator.label "Przeglądarka">
 <!ENTITY navigator.accesskey "r">
 
@@ -18,12 +16,3 @@
 <!ENTITY allowContextmenuDisable.label "Wyłączanie lub zmienianie menu kontekstowego">
 <!ENTITY allowHideStatusBar.label "Ukrywanie paska stanu">
 
-<!ENTITY enablePlugins.label "Aktywuj wtyczki dla">
-<!ENTITY enablePluginForSuite.label "Pakiet SeaMonkey">
-<!ENTITY enablePluginForSuite.accesskey "S">
-
-<!ENTITY whenPageRequiresPlugins.label "Gdy strona wymaga wtyczek">
-<!ENTITY activateAllPlugins.label "Domyślnie aktywuj wszystkie wtyczki">
-<!ENTITY activateAllPlugins.accesskey "a">
-<!ENTITY warnPluginsRequired.label "Ostrzegaj, gdy dodatkowe wtyczki muszą zostać zainstalowane">
-<!ENTITY warnPluginsRequired.accesskey "O">

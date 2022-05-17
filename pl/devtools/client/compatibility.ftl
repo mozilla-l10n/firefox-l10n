@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (przestarzałe, ekspe
 compatibility-settings-button-label = Ustawienia
 compatibility-settings-button-title =
     .title = Ustawienia
-compatibility-feedback-button-label = Wyślij opinię
-compatibility-feedback-button-title =
-    .title = Wyślij opinię
 
 ## Messages used as headers in settings pane
 
@@ -43,9 +40,11 @@ compatibility-issue-occurrences =
         [few] { $number } wystąpienia
        *[many] { $number } wystąpień
     }
+
 compatibility-no-issues-found = Nie znaleziono problemów ze zgodnością.
 compatibility-close-settings-button =
     .title = Zamknij ustawienia
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:
