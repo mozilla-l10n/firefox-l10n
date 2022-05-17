@@ -39,12 +39,6 @@ tabs-group-header = Emathebhu
 
 ## General Section - Language & Appearance
 
-fonts-and-colors-header = Tinhlobo & Imibala
-
-colors-settings =
-    .label = Imibala…
-    .accesskey = I
-
 ## General Section - Files and Applications
 
 # Variables:

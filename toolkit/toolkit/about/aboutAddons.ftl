@@ -54,3 +54,7 @@ addon-category-extension-title =
 
 ## Page headings
 
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+
