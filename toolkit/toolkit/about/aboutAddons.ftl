@@ -3,50 +3,71 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = கூடுதல் இணைப்பு மேலாளர்
+
 search-header-shortcut =
     .key = f
+
 list-empty-installed =
     .value = இந்த வகையில் கூடுதல் இணைப்பு உங்களிடம் இல்லையெனில் நிறுவவும்
+
 list-empty-available-updates =
     .value = புதுப்பித்தல்கள் எதுவும் இல்லை
+
 list-empty-recent-updates =
     .value = நீங்கள் எந்த கூடுதல் இணைப்புகளையும் சமீபத்தில் புதுப்பிக்கவில்லை
+
 list-empty-find-updates =
     .label = புதுப்பித்தல்களுக்கு சரி பார்க்கவும்
+
 list-empty-button =
     .label = துணை நிரல்கள் பற்றி மேலும் அறிய
+
 show-unsigned-extensions-button =
     .label = சில நீட்சிகளைச் சரிபார்க்க இயலாது
+
 show-all-extensions-button =
     .label = எல்லா நீட்சிகளையும் காட்டு
+
 detail-version =
     .label = பதிப்பு
+
 detail-last-updated =
     .label = கடைசி புதுப்பிக்கப்பட்டது
+
 detail-contributions-description = இந்த கூடுதல் இணைப்பை உருவாக்கியவர் சிறிய தொகை கொடையாக அளித்து தொடர்ந்து சேவையளிக்க கேட்கிறார்.
+
 detail-update-type =
     .value = தானியாக்க புதுப்பித்தல்கள்
+
 detail-update-default =
     .label = முன்னிருப்பு
     .tooltiptext = அது முன்னிருப்பாக இருந்தால் மட்டும் தானாக புதுப்பித்தல்களை தானா நிறுவவும்
+
 detail-update-automatic =
     .label = இயக்கு
     .tooltiptext = தானாக புதுப்பித்தல்களை நிறுவவும்
+
 detail-update-manual =
     .label = நிறுத்து
     .tooltiptext = தானாக புதுப்பித்தல்களை நிறுவ வேண்டாம்
+
 detail-home =
     .label = முதன்மை பக்கம்
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = கூடுதல் இணைப்பு விவரக்குறிப்பு
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = புதுப்பித்தல்களுக்கு சரிபார்
     .accesskey = f
     .tooltiptext = இந்த கூடுதல் இணைப்பிற்கான புதுப்பித்தல்களுக்கு சரி பார்
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -63,20 +84,31 @@ detail-show-preferences =
             [windows] இந்த கூடுதல் இணைப்பு விருப்பங்களை மாற்றவும்
            *[other] இந்த கூடுதல் இணைப்பு விருப்பங்களை மாற்றவும்
         }
+
 detail-rating =
     .value = மதிப்பெண்
+
 addon-restart-now =
     .label = இப்போது மறுதுவக்கு
+
 disabled-unsigned-heading =
     .value = சில கூடுதல் இணைப்புகள் முடக்கப்பட்டுள்ளன.
+
 disabled-unsigned-description = { -brand-short-name } என்பதில் பயன்படுத்துவதற்காகப் பின்வரும் கூடுதல் இணைப்புகள் சரிபார்க்கப்படவில்லை. நீங்கள்<label data-l10n-name="find-addons">மாற்றுகளைக் கண்டுபிடிக்க முடியும்</label> அல்லது உருவாக்குநர்களை அவற்றைச் சரிபார்க்கக் கேளுங்கள்.
+
 disabled-unsigned-learn-more = உங்களை இணையத்தில் பாதுகாப்பாக வைத்திருக்கான எங்களின் முயற்சிகள் பற்றி மேலும் அறிக.
+
 disabled-unsigned-devinfo = தங்கள் கூடுதல் இணைப்புகளை உறுதிப்படுத்த விரும்பும் உருவாக்குநர்கள் வாசிப்பதின் மூலம் தொடரலாம்<label data-l10n-name="learn-more">கையேடு</label>.
+
 plugin-deprecation-description = ஏதோ ஒன்று இல்லையா? சில நீட்டிப்புகள் { -brand-short-name } உலாவியால் ஆதரிக்கப்படாது. <label data-l10n-name="learn-more">மேலும் அறிய.</label>
+
 legacy-warning-show-legacy = மரபு நீட்சிகளைக் காண்பி
+
 legacy-extensions =
     .value = மரபு நீட்சிகள்
+
 legacy-extensions-description = தற்போதைய { -brand-short-name } தரத்துடன் இல்லாததால் இந்த நீட்சிகள் முடக்கி வைக்கப்படும். <label data-l10n-name="legacy-learn-more">துணை நிரல்களுக்கான மாற்றங்களை அறியுங்கள்</label>
+
 addon-category-extension = நீட்டிப்புகள்
 addon-category-extension-title =
     .title = நீட்டிப்புகள்
@@ -180,12 +212,17 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } ஆனது { -brand-short-name } { $version }-உடன் ஒத்தியல்பாக இல்லை.
+
 details-notification-unsigned-and-disabled = { $name } ஐ { -brand-short-name } என்பதில் பயன்படுத்துவதற்குச் சரிபார்க்க இயலாததால் முடக்கப்பட்டது.
 details-notification-unsigned-and-disabled-link = கூடுதல் தகவல்
+
 details-notification-unsigned = { $name } ஐ { -brand-short-name } என்பதில் பயன்படுத்துவதற்குச் சரிபார்க்க இயலவில்லை. எச்சரிக்கையுடன் தொடரவும்.
 details-notification-unsigned-link = கூடுதல் தகவல்
+
 details-notification-blocked = { $name } பாதுகாப்பு அல்லது நிலைப்புத்தன்மை சிக்கல்களால் செயல்நீக்கப்பட்டது.
 details-notification-blocked-link = கூடுதல் தகவல்
+
 details-notification-softblocked = { $name } பாதுகாப்பு அல்லது நிலைப்புத்தன்மை சிக்கல்களை உருவாக்குவதாகும்.
 details-notification-softblocked-link = கூடுதல் தகவல்
+
 details-notification-gmp-pending = { $name } விரைவில் நிறுவப்படும்.

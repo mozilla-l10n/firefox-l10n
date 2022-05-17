@@ -28,7 +28,6 @@ about-telemetry-events-section = நிகழ்வுகள்
 about-telemetry-simple-measurements-section = எளிய அளவீடுகள்
 about-telemetry-slow-sql-section = மெதுவான SQL கூற்றுகள்
 about-telemetry-addon-details-section = கூடுதல் இணைப்புகளின் விவரங்கள்
-about-telemetry-captured-stacks-section = கைப்பற்றிய அடுக்குகள்
 about-telemetry-late-writes-section = தாமத எழுதல்கள்
 about-telemetry-raw-payload-section = பதனிடப்படாத சரக்கு
 about-telemetry-raw = பதனிடப்படாத JSON
@@ -97,10 +96,6 @@ about-telemetry-addon-provider = { $addonProvider } வழங்குநர்
 about-telemetry-keys-header = பண்பு
 about-telemetry-names-header = பெயர்
 about-telemetry-values-header = மதிப்பு
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (பிடிப்பு எண்ணிக்கை: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = தாமத எழுதுதல் #{ $lateWriteCount }

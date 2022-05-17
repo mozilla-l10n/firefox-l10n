@@ -31,14 +31,18 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = திறந்த கீற்றுகள் இல்லை
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = மற்ற கருவிகளிலிருந்து கீற்றுகளின் பட்டியலைக் காண கீற்று ஒத்திசைவை இயக்கு.
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = மற்ற கருவிகளிலிருந்து உங்கள் கீற்றுகளை இங்குப் பார்க்க விருப்பமா?
+
 appmenu-remote-tabs-connectdevice =
     .label = மற்றொரு சாதனத்தை இணை
 appmenu-remote-tabs-unverified = உங்கள் கணக்கு சரிபார்க்கப்பட வேண்டும்.
+
 appmenuitem-save-page =
     .label = இவ்வாறு சேமி…
 
@@ -50,6 +54,13 @@ whatsnew-panel-header = புதியவை என்ன
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+
+## Profiler presets
+## They are shown in the popup's select box.
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
 
 ## History panel
 
@@ -70,9 +81,6 @@ appmenu-about =
     .accesskey = A
 appmenu-help-report-site-issue =
     .label = தள சிக்கலை தெரிவி…
-appmenu-help-feedback-page =
-    .label = கருத்துக்களைச் சமர்ப்பி…
-    .accesskey = S
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

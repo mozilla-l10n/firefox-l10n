@@ -68,8 +68,6 @@
 <!ENTITY errorReporting.automatic2 "இதுப் போன்ற பாதுகாப்பற்ற தளங்களை முடக்க மொசில்லாவிடம் முறையிடு">
 <!ENTITY errorReporting.learnMore "மேலும் அறிக...">
 
-<!ENTITY remoteXUL.longDesc "<p> <ul> <li> இந்தப் பிரச்சனை குறித்து இணையதளத்தில் உரிமையாளர்களை தொடர்பு கொள்க. </li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "கூடுதல் தகவல்: SSL_ERROR_UNSUPPORTED_VERSION">

@@ -16,15 +16,9 @@ newtab-search-box-search-button =
     .title = தேடு
     .aria-label = தேடு
 
-newtab-search-box-search-the-web-input =
-    .placeholder = இணையத்தில் தேடு
-    .title = இணையத்தில் தேடு
-    .aria-label = இணையத்தில் தேடு
-
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = தேடுபொறியைச் சேர்
-newtab-topsites-add-topsites-header = புதிய முக்கிய தளம்
 newtab-topsites-edit-topsites-header = முக்கிய தளத்தை தொகு
 newtab-topsites-title-label = தலைப்பு
 newtab-topsites-title-input =
@@ -158,7 +152,6 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = சிறந்த தளங்கள்
-newtab-section-header-highlights = மிளிர்ப்புகள்
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } என்பவரால் பரிந்துரைக்கப்பட்டது
@@ -189,6 +182,9 @@ newtab-pocket-read-more = பிரபலமான தலைப்புகள�
 newtab-pocket-more-recommendations = மேலும் பரிந்துரைகள்
 newtab-pocket-cta-button = { -pocket-brand-name } ஐ பெறுக
 newtab-pocket-cta-text = { -pocket-brand-name } நீங்கள் விரும்பும் கதையைச் சேமித்தால், அதுவே உங்கள் மனதை வெள்ளும் வாசித்தலைத் தரும்.
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

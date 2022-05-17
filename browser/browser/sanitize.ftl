@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = தரவு
 
-item-site-preferences =
-    .label = இணைய தள முன்னுரிமைகள்
-    .accesskey = S
-
 item-offline-apps =
     .label = இணைப்பில்லாத இணையதள தரவு
     .accesskey = O

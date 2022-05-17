@@ -18,12 +18,14 @@ videocontrols-casting-button-label =
     .aria-label = திரையில் வார்
 videocontrols-closed-caption-off =
     .offlabel = அணை
+
 videocontrols-error-aborted = வீடியோ ஏற்றுதல் நிறுத்தப்பட்டது.
 videocontrols-error-network = பிணைய பிழையின் காரணமாக வீடியோ இயக்கம் கைவிடப்பட்டது.
 videocontrols-error-decode = கோப்பு சிதைந்துள்ளதால், வீடியோவை இயக்க முடியாது.
 videocontrols-error-src-not-supported = வீடியோ வடிவமைப்பு அல்லது MIME வகை ஆதரிக்கப்படாதது.
 videocontrols-error-no-source = ஆதரிக்கப்படும் வடிவமைப்புள்ள அல்லது MIME வகை கொண்ட வீடியோ எதுவும் காணப்படவில்லை.
 videocontrols-error-generic = தெரியாத பிழையின் காரணமாக வீடியோ இயக்கம் கைவிடப்பட்டது.
+
 # This message shows the current position and total video duration
 #
 # Variables:

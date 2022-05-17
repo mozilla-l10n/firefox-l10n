@@ -39,15 +39,6 @@ menu-quit =
 menu-quit-mac =
     .label = { -brand-shorter-name } விட்டு வெளியேறு
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = { -brand-shorter-name } உலாவியை விட்டு வெளியேறு
-
 menu-about =
     .label = { -brand-shorter-name } பற்றி
     .accesskey = A
@@ -77,9 +68,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = கோப்பினைத் திற
     .accesskey = O
-menu-file-close =
-    .label = மூடுக
-    .accesskey = C
 menu-file-close-window =
     .label = சாளரத்தை மூடுக
     .accesskey = d
@@ -92,9 +80,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = பக்க அமைவு…
     .accesskey = u
-menu-file-print-preview =
-    .label = அச்சு முன்தோற்றம்
-    .accesskey = v
 menu-file-print =
     .label = அச்சிடு…
     .accesskey = P
@@ -264,9 +249,6 @@ menu-help =
     .accesskey = H
 menu-help-report-site-issue =
     .label = தள சிக்கலை தெரிவி…
-menu-help-feedback-page =
-    .label = கருத்துக்களைச் சமர்ப்பி…
-    .accesskey = S
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
