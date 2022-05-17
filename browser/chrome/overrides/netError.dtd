@@ -102,8 +102,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "خطاهایی مانند این را گزارش کنید تا به موزیلا برای شناسایی و مسدود کردن سایت‌های مخرب کمک کنید.">
 <!ENTITY errorReporting.learnMore "اطلاعات بیشتر…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>لطفاً با صاحب این وب‌گاه تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "اطلاعات پیشرفته: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -129,9 +127,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "به نظر می‌رسد تنظیمات امنیتی شبکه شما ممکن است باعث این شده باشند. آیا می‌خواهید که تنظیمات پیش‌فرض دوباره تنظیم شوند؟">
 <!ENTITY prefReset.label "بازگردانی تنظیمات پیش‌فرض">
-
-<!ENTITY enableTls10.longDesc "ممکن است این وب سایت از پروتکل امنیت لایه انتقال TLS 1.2 که حداقل نسخه پشتیبانی شده در &brandShortName; است پشتیبانی نمی‌کند. فعال کردن پروتکل امنیت لایه 1.0 و 1.1 ممکن است باعث موفقیت این اتصال شود.">
-<!ENTITY enableTls10.note "نسخه‌های 1.0 و 1.1 TLS در انتشارهای آینده به صورت دائمی غیرفعال خواهند شد.">
-<!ENTITY enableTls10.label "فعال کردن TLS 1.0 و 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>صفحه‌ای که می‌خواهید مشاهده کنید به خاطر خطایی که در پروتکل شبکه شناسایی شده قابل نمایش نیست.</p><ul><li>لطفا با مالک وب سایت تماس بگیرید تا آنها را درباره این مشکل مطلع سازید.</li></ul>">

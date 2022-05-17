@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = فعال
 about-networking-idle = بی‌کار
 about-networking-host = میزبان
-about-networking-tcp = TCP
 about-networking-sent = ارسال شده
 about-networking-received = دریافت شده
 about-networking-family = خانواده

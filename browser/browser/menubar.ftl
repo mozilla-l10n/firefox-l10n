@@ -38,16 +38,11 @@ menu-quit =
             [windows] خ
            *[other] ت
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = ترک { -brand-shorter-name }
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = خروج از { -brand-shorter-name }
+
 menu-about =
     .label = دربارهٔ { -brand-shorter-name }
     .accesskey = د
@@ -77,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = بازکردن پرونده…
     .accesskey = ب
-menu-file-close =
-    .label = بستن
-    .accesskey = س
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 menu-file-close-tab =
@@ -104,9 +96,6 @@ menu-file-share-url =
 menu-file-print-setup =
     .label = تنظیم صفحه…
     .accesskey = ت
-menu-file-print-preview =
-    .label = پیش‌نمایش چاپ
-    .accesskey = پ
 menu-file-print =
     .label = چاپ...
     .accesskey = چ
@@ -319,9 +308,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = ب
 menu-help-report-site-issue =
     .label = مشکل سایت را گزارش کنید…
-menu-help-feedback-page =
-    .label = ارسال نظر…
-    .accesskey = ن
 menu-help-enter-troubleshoot-mode2 =
     .label = حالت عیب‌یابی…
     .accesskey = ح

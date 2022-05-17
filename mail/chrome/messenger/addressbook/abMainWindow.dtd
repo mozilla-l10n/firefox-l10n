@@ -96,6 +96,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "م">
 <!ENTITY newlistButton.label                            "New List">
 <!ENTITY newlistButton.accesskey                        "L">
+
 <!ENTITY newmsgButton.label                             "Write">
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "Instant Message">
