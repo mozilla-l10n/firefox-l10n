@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Imayl nniḍen:">
 <!ENTITY SecondEmail.accesskey          "i">
-<!ENTITY PreferMailFormat.label         "Yifi-it wermas n yeznan s wemsal am:">
-<!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "Adris ačuṛan">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Arussin">

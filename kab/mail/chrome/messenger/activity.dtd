@@ -10,28 +10,10 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                  "Amsefrak n urmud">
 
-<!ENTITY cmd.pause.label                  "Asteɛfu">
-<!ENTITY cmd.pause.accesskey              "A">
-<!ENTITY cmd.resume.label                 "Kemmel">
-<!ENTITY cmd.resume.accesskey             "K">
-<!ENTITY cmd.cancel.label                 "Sefsex">
-<!ENTITY cmd.cancel.accesskey             "S">
-<!ENTITY cmd.undo.label                   "Sefsax">
-<!ENTITY cmd.undo.accesskey               "S">
-<!ENTITY cmd.recover.label                "Err-d">
-<!ENTITY cmd.recover.accesskey            "r">
-<!ENTITY cmd.retry.label                  "Ɛreḍ tikelt nniḍen">
-<!ENTITY cmd.retry.accesskey              "r">
-<!ENTITY cmd.removeFromList.label         "Kkes si tebdart">
-<!ENTITY cmd.removeFromList.accesskey     "K">
-
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Sfeḍ tabdart">
 <!ENTITY cmd.clearList.tooltip            "Kkes iferdisen yemden, yettwakksen, d wid ur neddi ara si tebdart">
 <!ENTITY cmd.clearList.accesskey          "a">
-<!ENTITY cmd.find.commandkey              "f">
-<!ENTITY cmd.search.commandkey            "k">
 
-<!ENTITY searchBox.label                  "Nadi…">

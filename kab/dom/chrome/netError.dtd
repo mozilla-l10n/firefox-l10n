@@ -82,9 +82,6 @@
 <!ENTITY corruptedContentErrorv2.title "Tuccḍa d yekkan seg ugbur yerẓen">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Asebter-agi i tebɣiḍ ad twaliḍ ur yizmir ara ad ittwasken, acku tella tuccḍa di tuzzna n isefka.</p><ul><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur-agi.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL anmeggag">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Ma ulac aɣilif nermes imawlan n usmel-agi ɣef ugur-agi.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Tuqqna-inek d taraɣelsant">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

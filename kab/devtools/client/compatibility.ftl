@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (d aqbur, d armitan, 
 compatibility-settings-button-label = Iɣewwaren
 compatibility-settings-button-title =
     .title = Iɣewwaren
-compatibility-feedback-button-label = Takti
-compatibility-feedback-button-title =
-    .title = Takti
 
 ## Messages used as headers in settings pane
 
@@ -42,9 +39,11 @@ compatibility-issue-occurrences =
         [one] { $number } timeḍriwt
        *[other] { $number } timeḍriwin
     }
+
 compatibility-no-issues-found = Ulac uguren n mṣada yettwafen.
 compatibility-close-settings-button =
     .title = Mdel iɣewwaren
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

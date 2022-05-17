@@ -34,7 +34,6 @@ about-telemetry-events-section = Tidyanin
 about-telemetry-simple-measurements-section = Iktazalen iḥerfiyen
 about-telemetry-slow-sql-section = Tuţriwin SQL tiẓayanin
 about-telemetry-addon-details-section = Aglam leqqayen n izegrar
-about-telemetry-captured-stacks-section = Tinebdanin ittwaṭfen
 about-telemetry-late-writes-section = Tira tineggura
 about-telemetry-raw-payload-section = Taɛekkemt tarewwayt
 about-telemetry-raw = Izirig JSON
@@ -121,10 +120,6 @@ about-telemetry-addon-provider = Amaẓrag { $addonProvider }
 about-telemetry-keys-header = Taɣaṛa
 about-telemetry-names-header = Isem
 about-telemetry-values-header = Azal
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (amḍan n tuṭṭfiwin: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Tira n #{ $lateWriteCount } tgellel

@@ -42,16 +42,15 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Teɣzi n tkatut n uḥraz:
+
 perftools-custom-threads-label = Rnu asqerdec udmawan s yisem:
+
 perftools-devtools-interval-label = Azilal:
 perftools-devtools-threads-label = Asqerdec:
 perftools-devtools-settings-label = Iɣewwaṛen
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
-perftools-status-private-browsing-notice =
-    Amaɣnay yensa mi akken tunigin tusligt termed.
-    Mdel meṛṛa isfuyla usligen i wakken ad talseḍ armad n umaɣnay
 perftools-status-recording-stopped-by-another-tool = Asekles yettusehbes s ufecku-nniḍen:
 perftools-status-restart-required = Iminig ilaq ad yales tanekra i wakken ad termed tmahilt-a.
 
@@ -101,6 +100,7 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Zgel afranen-a nnig, teskelseḍ akk isqerdcen
+
 perftools-tools-threads-input-label =
     .title = Ismawen-a n usqerdec d tabdart iferqen s tefrayin, yettuseqdacen i urmad n tmeɣna n yisqerdicen deg umaɣnay.  Isem ilaq ad yili d abruyan deg umṣada akked yisem n usqerdec ara yeddun. D amḥulfu i tallunt tamellalt.
 
@@ -108,9 +108,14 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## devtools.performance.new-panel-onboarding preference is true.
+
 perftools-onboarding-message = <b>Amaynut</b>: { -profiler-brand-name } yettwasleɣ tura deg yifecka n tneflit. <a>Issin ugar</a> qef ufecku-a amaynut yelhan.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (I tenzagt yesεan talast, tzemreḍ ad teskecmeḍ agalis n temlellit taneẓlit s <a>{ options-context-advanced-settings }</a>)
+
 perftools-onboarding-close-button =
     .aria-label = Mdel izen n uslaɣ
 
@@ -123,14 +128,19 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Taneflit  web
 perftools-presets-web-developer-description = Uzwirfren yettuwellhen i tuget n tseɣtit n usnas web, s uwzir fessusen maḍi.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Uzwirfren yettuwellhen i tmeɣna n { -brand-shorter-name }.
+
 perftools-presets-graphics-label = Udlifen
 perftools-presets-graphics-description = Uzwirfren yettufeṣṣlen i usekyed n yibugen udlifen deg { -brand-shorter-name }.
+
 perftools-presets-media-label = Amidyat
 perftools-presets-media-description2 = Uzwirfren yettufeṣṣlen i usekyed n yibugen n umeslaw d tvidyut deg { -brand-shorter-name }.
+
 perftools-presets-networking-label = Azeṭṭa
 perftools-presets-networking-description = Uzwirfren yettufeṣṣlen i usekyed n yibugen n uzeṭṭa deg { -brand-shorter-name }.
+
 perftools-presets-custom-label = Sagen
 
 ##

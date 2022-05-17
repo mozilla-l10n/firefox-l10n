@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Isefka
 
-item-site-preferences =
-    .label = Ismenyifen n usmel web
-    .accesskey = I
-
 item-site-settings =
     .label = Iɣewwaṛen n usmel
     .accesskey = I

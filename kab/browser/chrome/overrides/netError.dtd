@@ -106,8 +106,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Tuzzna n tuccḍiwin am ta, d tallelt ad d-tmuddeḍ i Mozilla akken ad isulu u ad isewḥel ismal web n ukellex">
 <!ENTITY errorReporting.learnMore "Issin ugar…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Ma ulac aɣilif, nermes imawlan n usmel web ɣef wugur-agi.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Talɣut leqqayen: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -133,9 +131,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Akken nettwali, d iɣewwaṛen n tɣellist n uzeṭṭa-inek i d-yewwin ugur-a. Tebɣiḍ ad terreḍ iɣewwaṛen imezwar?">
 <!ENTITY prefReset.label "Err-d iɣewwaṛen imezwar">
-
-<!ENTITY enableTls10.longDesc "Asmel-a izmer ur isefrak ara asali n uneggaf TLS 1.2, i yellan deg lqem adday i yessefrak &brandShortName;. Armad n TLS 1.0 akked TLS 1.1 izmer ad yeǧǧ tuqqna ad teddu.">
-<!ENTITY enableTls10.note "TLS 1.0 d TLS 1.1 ad ttwasensen i lebda di lqem i d-iteddun.">
-<!ENTITY enableTls10.label "Rmed TLS1.0 akked 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Asebter amiran aniɣer i tetteɛraḍeḍ ad tkecmeḍ ur yezmir ara ad d-iban, acku tuccḍa n uneggaf n uẓeṭṭa teḍra-d.</p><ul><li>Nermes bab n usmel web akken ad iẓeṛ ugur-a.</li></ul>">

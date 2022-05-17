@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Isefka igensanen WebRTC
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = kles about:webrtc daw
@@ -18,6 +19,7 @@ about-webrtc-aec-logging-msg-label = Asniɣmes AEC
 about-webrtc-aec-logging-off-state-label = Senker asniɣmes AEC
 about-webrtc-aec-logging-on-state-label = Seḥbes asniɣmes AEC
 about-webrtc-aec-logging-on-state-msg = Asniɣmes AEC irmed (meslay kra n tesdatin d unmeɣṛu-inek sakin rken asekles)
+
 # The autorefresh checkbox causes the page to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Asmiren awurman
 
@@ -62,9 +64,6 @@ about-webrtc-ice-component-id = ID n usuddis
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
-about-webrtc-avg-bitrate-label = Aktum imsin alemmas:
-about-webrtc-avg-framerate-label = Afmiḍi alemmas n tugniwin di tasint:
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
@@ -77,10 +76,12 @@ about-webrtc-type-remote = Tanmeggagt
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Iţusema
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Iţufren
+
 about-webrtc-save-page-label = Sekles asebter
 about-webrtc-debug-mode-msg-label = Askar n tseɣtit
 about-webrtc-debug-mode-off-state-label = Senker askar n tseɣtit
@@ -147,26 +148,36 @@ about-webrtc-remote-send-ssrc = Tuzzna tanmeggagt SSRC
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Yettunefk
+
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Ur yettunefk ara
+
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Aseqdac yesbadu ismenyifen n WebRTC
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Tehri i yettuṛaǧun
+
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Asulay n uneḍfar
+
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Tehri n tuzna (ibiten/tsn)
+
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Tehri n urmas (ibiten/tsn)
+
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Taččart tafellayt (ibiten/tsn)
+
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = Tanzagt n usendeh (ms)
+
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
+
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -193,6 +204,7 @@ about-webrtc-frames =
         [one] { $frames } n tugna
        *[other] { $frames } n tugniwin
     }
+
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -201,6 +213,7 @@ about-webrtc-channels =
         [one] { $channels } n ubadu
        *[other] { $channels } n yibuda
     }
+
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -209,6 +222,7 @@ about-webrtc-received-label =
         [one] Yetturmes-d ukemmus { $packets }
        *[other] Tturemsen-d ikemmusen { $packets }
     }
+
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets lost.
@@ -217,6 +231,7 @@ about-webrtc-lost-label =
         [one] Iṛuḥ ukemmus { $packets }
        *[other] Ṛuḥen ikemmusen { $packets }
     }
+
 # This is the total number of packets sent by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets sent.
@@ -225,11 +240,13 @@ about-webrtc-sent-label =
         [one] Yettwazen ukemmus { $packets }
        *[other] Ttwaznen yikemmusen { $packets }
     }
+
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Gigue { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -242,10 +259,12 @@ about-webrtc-trickle-caption-msg = Imazwaren ittwamγaden (i d_yewwḍen seld ti
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Sbadu SDP adigan ɣer wazemzakud { NUMBER($timestamp, useGrouping: "false") }
+
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Sbadu SDP anmeggag ɣer wazemzakud { NUMBER($timestamp, useGrouping: "false") }
+
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.

@@ -21,9 +21,6 @@
 <!ENTITY attachCloudCmd.accesskey "f">
 <!ENTITY attachPageCmd.label "Asebter web…">
 <!ENTITY attachPageCmd.accesskey "w">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Takarda tudmawant (vCard)">
-<!ENTITY attachVCardCmd.accesskey "d">
 <!ENTITY remindLater.label "Mekti-yi-d ticki">
 <!ENTITY remindLater.accesskey "M">
 <!ENTITY closeCmd.label "Mdel">
@@ -149,16 +146,6 @@
 <!ENTITY returnReceiptMenu.accesskey "n">
 <!ENTITY dsnMenu.label "Alɣu n waddad n usiweḍ">
 <!ENTITY dsnMenu.accesskey "d">
-<!ENTITY deliveryFormatMenu.label "Amasal n usiweḍ">
-<!ENTITY deliveryFormatMenu.accesskey "s">
-<!ENTITY autoFormatCmd.label "Tuṭṭfa tawurmant">
-<!ENTITY autoFormatCmd.accesskey "u">
-<!ENTITY plainTextFormatCmd.label "Aḍris aččuran kan">
-<!ENTITY plainTextFormatCmd.accesskey "č">
-<!ENTITY htmlFormatCmd.label "Aḍris anesbaɣuṛ kan (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "ḍ">
-<!ENTITY bothFormatCmd.label "Aḍris aččuran akked anesbaɣuṛ (HTML)">
-<!ENTITY bothFormatCmd.accesskey "ɣ">
 <!ENTITY priorityMenu.label "Tazwart">
 <!ENTITY priorityMenu.accesskey "z">
 <!ENTITY priorityButton.title "Tazwart">
@@ -222,7 +209,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Anawen-nniḍen n wurtan n tansiwin">
 <!ENTITY fromAddr2.label "Seg">
 <!ENTITY fromAddr.accesskey "S">
 <!ENTITY replyAddr2.label "Err-i">

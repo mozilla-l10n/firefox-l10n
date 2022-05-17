@@ -24,9 +24,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "Imzizdigen">
 <!ENTITY importFilters.accesskey  "d">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "Akaram n ukter &brandShortName; ">
 <!ENTITY importShortDesc.label    "Kter imaylen, Imedlisen n tensa, Iɣewwaṛen, imzizdigen seg iseɣẓanen nniḍen">
 

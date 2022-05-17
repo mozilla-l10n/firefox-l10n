@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Amḍan n tikal anda tawuri-yagi tella di tnebdant makken amaɣnay yeṭṭef-d amadya.">
 <!ENTITY performanceUI.table.function                 "Tawuri">
 <!ENTITY performanceUI.table.function.tooltip         "Isem d uɣballu n wadeg n tawuri n ulemmec">
-<!ENTITY performanceUI.table.totalAlloc               "Aḥerri asemday">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Amḍan asemday n uheṛṛi n tɣawsiwin n tukkist deg adig-agi.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

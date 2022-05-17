@@ -10,4 +10,3 @@ add-on-search-alternative-button-label = Af azegrir-nniḍen
 atn-addons-heading-search-input =
     .placeholder = Nadi deg addons.thunderbird.net
 
-sidebar-preferences-button-title = Ismenyifen n { -brand-short-name }

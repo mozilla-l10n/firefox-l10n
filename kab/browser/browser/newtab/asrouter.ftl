@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Timahilin ihulen
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Acuɣer i d-yettban waya
+
 cfr-doorhanger-extension-cancel-button = Mačči tura
     .accesskey = T
+
 cfr-doorhanger-extension-ok-button = Rnu Tura
     .accesskey = N
+
 cfr-doorhanger-extension-manage-settings-button = Sefrek Iɣewwaṛen n wahul
     .accesskey = S
+
 cfr-doorhanger-extension-never-show-recommendation = Ur yid-skan ara Ahul Agi
     .accesskey = U
+
 cfr-doorhanger-extension-learn-more-link = Issin ugar
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = S { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Awelleh
 cfr-doorhanger-extension-notification2 = Iwellihen
     .tooltiptext = Iseɣzaf ihulen
     .a11y-announcement = Iseɣzaf ihulen i yellan
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Iwellihen
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Issin ugar
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Timahilin timaynutin:
+
 cfr-whatsnew-button =
     .label = Amaynut
     .tooltiptext = Amaynut
+
 cfr-whatsnew-release-notes-link-text = Ɣer tizmilin n lqem.
 
 ## Enhanced Tracking Protection Milestones

@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "m">
 <!ENTITY newVirtualFolderCmd.label "Anadi yettwaskelsen">
 <!ENTITY newVirtualFolderCmd.accesskey "n">
-<!ENTITY newOtherAccountsCmd.label "Imiḍanen nniḍen…">
-<!ENTITY newOtherAccountsCmd.accesskey "m">
 <!ENTITY newCreateEmailAccountCmd.label "Awid amiḍan n tirawt amaynut…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "A">
 <!ENTITY newExistingEmailAccountCmd.label "Amiḍan n tirawt yellan">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "L">
 <!ENTITY saveAsMenu.label "Sekles s yisem">
 <!ENTITY saveAsMenu.accesskey "k">
-<!ENTITY saveAsFileCmd.label "Afaylu">
-<!ENTITY saveAsFileCmd.accesskey "A">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Taneɣruft">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
