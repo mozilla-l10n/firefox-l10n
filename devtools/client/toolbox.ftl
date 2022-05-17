@@ -15,15 +15,19 @@ toolbox-meatball-menu-dock-bottom-label = Docio i'r gwaelod
 toolbox-meatball-menu-dock-left-label = Docio i'r chwith
 toolbox-meatball-menu-dock-right-label = Docio i'r dde
 toolbox-meatball-menu-dock-separate-window-label = Ffenestr ar wahân
+
 toolbox-meatball-menu-splitconsole-label = Dangos consol hollt
 toolbox-meatball-menu-hideconsole-label = Cuddio'r consol hollt
+
 toolbox-meatball-menu-settings-label = Gosodiadau
 toolbox-meatball-menu-documentation-label = Dogfennaeth…
 toolbox-meatball-menu-community-label = Cymuned…
+
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Analluogi awtoguddio llamlenni
+
 toolbox-meatball-menu-pseudo-locale-accented = Galluogi locale “acennog”.
 toolbox-meatball-menu-pseudo-locale-bidi = Galluogi locale “bidi”.
 

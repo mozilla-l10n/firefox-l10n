@@ -82,9 +82,6 @@
 <!ENTITY corruptedContentErrorv2.title "Gwall Cynnwys Llygredig">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Nid oes modd dangos y dudalen rydych yn ceisio ei gweld yn sgil canfod gwall trosglwyddo data.</p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL pell">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu am y broblem..</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Nid yw eich cysylltiad yn ddiogel">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

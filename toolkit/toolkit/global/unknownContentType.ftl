@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = Agor gyda { -brand-short-name }
     .accesskey = A
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Mae modd newid gosodiadau yn Opsiynau { -brand-short-name }.
            *[other] Mae modd newid gosodiadau yn Dewisiadau { -brand-short-name }.
         }
+
 unknowncontenttype-intro = Rydych wedi dewis agor:
 unknowncontenttype-which-is = sydd yn:
 unknowncontenttype-from = oddi wrth:

@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Data
 
-item-site-preferences =
-    .label = Dewisiadau'r Wefan
-    .accesskey = D
-
 item-site-settings =
     .label = Gosodiadau gwefan
     .accesskey = G

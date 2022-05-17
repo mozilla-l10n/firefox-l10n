@@ -10,28 +10,10 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                  "Rheolwr Gweithgaredd">
 
-<!ENTITY cmd.pause.label                  "Oedi">
-<!ENTITY cmd.pause.accesskey              "O">
-<!ENTITY cmd.resume.label                 "Ailgychwyn">
-<!ENTITY cmd.resume.accesskey             "A">
-<!ENTITY cmd.cancel.label                 "Diddymu">
-<!ENTITY cmd.cancel.accesskey             "D">
-<!ENTITY cmd.undo.label                   "Dadwneud">
-<!ENTITY cmd.undo.accesskey               "w">
-<!ENTITY cmd.recover.label                "Adfer">
-<!ENTITY cmd.recover.accesskey            "f">
-<!ENTITY cmd.retry.label                  "Ceisio Eto">
-<!ENTITY cmd.retry.accesskey              "E">
-<!ENTITY cmd.removeFromList.label         "Tynnu o'r Rhestr">
-<!ENTITY cmd.removeFromList.accesskey     "T">
-
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Clirio'r Rhestr">
 <!ENTITY cmd.clearList.tooltip            "Tynnu eitemau wedi'u cwblhau, diddymu a methu o'r rhestr">
 <!ENTITY cmd.clearList.accesskey          "C">
-<!ENTITY cmd.find.commandkey              "f">
-<!ENTITY cmd.search.commandkey            "k">
 
-<!ENTITY searchBox.label                  "Chwilio…">

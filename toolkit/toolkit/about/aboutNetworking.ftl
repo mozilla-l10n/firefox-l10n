@@ -20,7 +20,6 @@ about-networking-ssl = SSL
 about-networking-active = Gweithredol
 about-networking-idle = Segur
 about-networking-host = Gwesteiwr
-about-networking-tcp = TCP
 about-networking-type = Math
 about-networking-sent = Anfonwyd
 about-networking-received = Derbyniwyd

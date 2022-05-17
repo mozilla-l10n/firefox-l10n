@@ -100,8 +100,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Mae adroddiadau gwall fel hyn y cynorthwyo Mozilla i adnabod a rhwystro gwefannau maleisus">
 <!ENTITY errorReporting.learnMore "Dysgu rhagor…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu am y broblem..</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Gwybodaeth uwch: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -127,9 +125,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Mae'n edrych fel mai eich gosodiadau diogelwch rhwydwaith sy'n achosi hyn. Hoffech chi adfer y gosodiadau rhagosodedig?">
 <!ENTITY prefReset.label "Adfer y gosodiadau rhagosodedig">
-
-<!ENTITY enableTls10.longDesc "Efallai na fydd y wefan hon yn cefnogi protocol TLS 1.2, sef y fersiwn leiafswm ei chefnogi gan &brandShortName;. Efallai y gall galluogi TLS 1.0 a TLS 1.1 ganiatáu i'r cysylltiad hwn lwyddo.">
-<!ENTITY enableTls10.note "Bydd TLS 1.0 a TLS 1.1 yn cael eu hanalluogi yn barhaol mewn fersiynau yn y dyfodol.">
-<!ENTITY enableTls10.label "Galluogi TLS 1.0 a 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Nid oes modd dangos y dudalen rydych yn ceisio'i gweld oherwydd cafwyd gwall yn y protocol rhwydwaith.</p><ul><li>Cysylltwch â pherchenogion y wefan i roi gwybod iddynt am y broblem hon.</li></ul>">

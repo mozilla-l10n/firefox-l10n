@@ -24,9 +24,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "Hidlau">
 <!ENTITY importFilters.accesskey  "H">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "Dewin Mewnforio E-bost &brandShortName;">
 <!ENTITY importShortDesc.label    "Mewnforio E-bost a Llyfrau Cyfeiriadau, Gosodiadau a Hidlau o raglenni eraill">
 

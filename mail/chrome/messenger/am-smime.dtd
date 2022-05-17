@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Dysgu rhagor">
 
 <!ENTITY e2eEnc.description "Heb amgryptio pen-i-ben mae cynnwys negeseuon yn hawdd eu hamlygu i'ch darparwr e-bost ac i wyliadwriaeth dorfol.">
-<!ENTITY e2eeReqWarning.description "Os oes angen amgryptio arnoch, er mwyn anfon neges mae'n rhaid bod gennych allwedd gyhoeddus neu dystysgrif pob derbynnydd.">
 
-<!ENTITY e2eSigning.description "Mae llofnod digidol yn caniatáu i dderbynwyr wirio bod y neges wedi'i hanfon gennych chi, ac nad yw'r cynnwys wedi'i newid.">
 <!ENTITY e2eTechPref.description "Y dewis o dechnoleg amgryptio:">
 
-<!ENTITY doNotEncrypt.label "Peidio â galluogi amgryptio yn rhagosodedig">
-<!ENTITY doNotEncrypt.accesskey "P">
-<!ENTITY requireEncryptMessage.label "Defnyddio amgryptio yn rhagosodedig">
-<!ENTITY requireEncryptMessage.accesskey "D">
 <!ENTITY encryptionCert2.message "Tystysgrif bersonol ar gyfer amgryptio:">
 <!ENTITY digitalSign.certificate.button "Dewis…">
 <!ENTITY digitalSign.certificate.accesskey "S">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Clirio">
 <!ENTITY encryption.certificate_clear.accesskey "l">
 <!ENTITY signingGroupTitle.label "Llofnodi Digidol">
-<!ENTITY signMessage2.label "Ychwanegu fy llofnod ddigidol yn rhagosodedig">
-<!ENTITY signMessage.accesskey "r">
 
 <!ENTITY signingCert2.message "Tystysgrif bersonol ar gyfer amgryptio:">
 

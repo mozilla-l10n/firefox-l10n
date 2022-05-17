@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "E-bost Ychwanegol:">
 <!ENTITY SecondEmail.accesskey          "Y">
-<!ENTITY PreferMailFormat.label         "Dewis derbyn negeseuon wedi'u fformatio fel:">
-<!ENTITY PreferMailFormat.accesskey     "w">
 <!ENTITY PlainText.label                "Testun Plaen">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Anhysbys">

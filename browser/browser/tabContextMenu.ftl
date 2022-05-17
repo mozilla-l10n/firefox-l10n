@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Rhannu
     .accesskey = R
-tab-context-share-more =
-    .label = Rhagor…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -93,18 +91,6 @@ tab-context-reopen-closed-tabs =
            *[other] Ail agor Tabiau wedi'u Cau
         }
     .accesskey = A
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Cau Tab
-            [zero] Cau Tab
-            [one] Cau Tab
-            [two] Cau Tab
-            [few] Cau Tab
-            [many] Cau Tab
-           *[other] Cau Tab
-        }
-    .accesskey = C
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -129,6 +115,7 @@ tab-context-move-tabs =
            *[other] Symud Tab
         }
     .accesskey = S
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
