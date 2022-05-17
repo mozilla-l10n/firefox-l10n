@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Přidatna e-mejlowa adresa:">
 <!ENTITY SecondEmail.accesskey          "d">
-<!ENTITY PreferMailFormat.label         "Preferuje powěsće přijimać formatowane jako:">
-<!ENTITY PreferMailFormat.accesskey     "f">
 <!ENTITY PlainText.label                "Luty tekst">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Njeznaty">

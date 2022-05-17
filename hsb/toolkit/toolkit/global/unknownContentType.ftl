@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = Z { -brand-short-name } wočinić
     .accesskey = o
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Nastajenja hodźa so w nastajenjach { -brand-short-name } změnić.
            *[other] Nastajenja hodźa so w nastajenjach { -brand-short-name } změnić.
         }
+
 unknowncontenttype-intro = Sće wočinił:
 unknowncontenttype-which-is = kotryž je:
 unknowncontenttype-from = z:
