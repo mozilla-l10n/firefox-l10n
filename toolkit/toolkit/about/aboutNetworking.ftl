@@ -20,7 +20,6 @@ about-networking-ssl = SSL
 about-networking-active = Aktiv
 about-networking-idle = I plogësht
 about-networking-host = Strehë
-about-networking-tcp = TCP
 about-networking-type = Lloj
 about-networking-sent = Të dërguara
 about-networking-received = Të marra

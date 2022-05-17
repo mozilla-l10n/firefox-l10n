@@ -6,7 +6,6 @@ privatebrowsingpage-open-private-window-label = Hapni Dritare Private
     .accesskey = H
 about-private-browsing-search-placeholder = Kërkoni në Web
 about-private-browsing-info-title = Gjendeni në Dritare Private
-about-private-browsing-info-myths = Mite të rëndomtë mbi shfletimin privat
 about-private-browsing-search-btn =
     .title = Kërkoni në web
 # Variables
@@ -20,16 +19,15 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Kërkoni me { $engine } ose jepni adresë
 about-private-browsing-handoff-text-no-engine = Bëni kërkim ose jepni adresë
 about-private-browsing-not-private = Hëpërhë s'gjendeni në dritare private.
-about-private-browsing-info-description = { -brand-short-name }-i e spastron historikun tuaj të kërkimeve dhe shfletimit, kur dilni nga aplikacioni apo mbyllni krejt skedat dhe dritaret e Shfletimit Privat. Edhe pse kjo s’ju bën anonim përballë sajteve apo furnizuesit të shërbimit tuaj internet, e bën më të lehtë mbajtjen private të asaj çka bëni në internet, nga cilido tjetër që përdor këtë kompjuter.
-about-private-browsing-need-more-privacy = Ju duhet më tepër privatësi?
-about-private-browsing-turn-on-vpn = Provoni { -mozilla-vpn-brand-name }
 about-private-browsing-info-description-private-window = Dritare private: { -brand-short-name }-i spastron historikët tuaj të kërkimeve dhe shfletimit, kur mbyllni krejt dritaret private. Kjo nuk ju bën anonim.
 about-private-browsing-info-description-simplified = { -brand-short-name }-i spastron historikët tuaj të kërkimeve dhe shfletimit, kur mbyllni krejt dritaret private, por kjo nuk ju bën anonim.
 about-private-browsing-learn-more-link = Mësoni më tepër
+
 about-private-browsing-hide-activity = Fshihni veprimtarinë dhe vendndodhjen tuaj, kudo ku shfletoni
 about-private-browsing-get-privacy = Përfitoni mbrojtje të privatësisë, kudo ku shfletoni
 about-private-browsing-hide-activity-1 = Fshihni me { -mozilla-vpn-brand-name }-in veprimtari shfletimi dhe vendndodhje. Një klikim krijon një lidhje të sigurt, madje edhe në Wi-Fi publik.
 about-private-browsing-prominent-cta = Jini privat, me { -mozilla-vpn-brand-name }
+
 about-private-browsing-focus-promo-cta = Shkarko { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Shfletim privat në lëvizje
 about-private-browsing-focus-promo-text = Aplikacioni ynë enkas për shfletim privat në celular spastron historikun dhe cookie-t tuaja çdo herë.
@@ -40,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Merrni shfletim privat në telefon
 about-private-browsing-focus-promo-text-b = Përdoreni { -focus-brand-name } për ato kërkime private që s’doni t’i shohë shfletuesi juaj kryesor për celular.
 about-private-browsing-focus-promo-header-c = Privatësi e një shkalle më sipër në celular
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } spastron historikun tuaj çdo herë, teksa bllokon reklama dhe gjurmues.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -52,5 +51,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Mbylle
+
 about-private-browsing-promo-close-button =
     .title = Mbylle

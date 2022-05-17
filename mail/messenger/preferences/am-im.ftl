@@ -4,8 +4,10 @@
 
 account-settings-title = Rregullime Mirëfilltësimi
 account-channel-title = Kanale Parazgjedhje
+
 chat-autologin =
     .label = Regjistrim gjatë nisjes
+
 chat-encryption-generic = Elementar
 chat-encryption-log =
     .label = Përfshi në regjistra bisedash mesazhe të fshehtëzuar skaj-më-skaj

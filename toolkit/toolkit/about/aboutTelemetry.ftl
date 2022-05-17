@@ -34,7 +34,6 @@ about-telemetry-events-section = Akte
 about-telemetry-simple-measurements-section = Matje të Thjeshta
 about-telemetry-slow-sql-section = Deklarime SQL të Ngadalta
 about-telemetry-addon-details-section = Hollësi Shtese
-about-telemetry-captured-stacks-section = Stack-e të Ndjekur
 about-telemetry-late-writes-section = Shkrime të Vonshme
 about-telemetry-raw-payload-section = Ngarkesë e Papërpunuar
 about-telemetry-raw = JSON të papërpunuar
@@ -121,10 +120,6 @@ about-telemetry-addon-provider = Ofrues i { $addonProvider }
 about-telemetry-keys-header = Veti
 about-telemetry-names-header = Emër
 about-telemetry-values-header = Vlerë
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (numër hasjesh: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Shkrim i Vonshëm #{ $lateWriteCount }

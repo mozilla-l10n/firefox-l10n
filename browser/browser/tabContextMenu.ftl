@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Ndajeni me të tjerët
     .accesskey = N
-tab-context-share-more =
-    .label = Më tepër…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -89,14 +87,6 @@ tab-context-reopen-closed-tabs =
            *[other] Rihap Skedat e Mbyllura
         }
     .accesskey = R
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Mbylle Skedën
-            [one] Mbylle Skedën
-           *[other] Mbylli Skedat
-        }
-    .accesskey = M
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -112,6 +102,7 @@ tab-context-move-tabs =
            *[other] Lëvizni Skeda
         }
     .accesskey = L
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

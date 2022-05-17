@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Numri i herëve që ky funksion gjendej në stack kur profilizuesi mori një kampion.">
 <!ENTITY performanceUI.table.function                 "Funksion">
 <!ENTITY performanceUI.table.function.tooltip         "Emri dhe vendndodhja e burimit të funksionit të kampionizuar.">
-<!ENTITY performanceUI.table.totalAlloc               "Shpërndarje të Kampionizuara Gjithsej">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Numri gjithsej i shpërndarjeve të objekteve të kampionizuara në këtë vend dhe në ato të të thirrurve prej tij.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
