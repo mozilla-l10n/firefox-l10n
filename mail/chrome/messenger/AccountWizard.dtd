@@ -9,15 +9,6 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo2.label "বার্তা গ্রহন করতে, আপনাকে প্রথমে একটি অ্যাকাউন্ট তৈরি করতে হবে "> 
-<!ENTITY accountTypeTitle.label "নতুন অ্যাকাউন্ট ব্যবস্থাপনা">
-<!ENTITY accountTypeDesc2.label "এই উইজার্ডটি সংগ্রহ করবে প্রয়োজনীয় তথ্য নতুন অ্যাকাউন্ট ব্যবস্থাপনার জন্য . যদি আপনি জানেন না যে তথ্য অনুরোধিত হয়েছিল,দয়া করে আপনার সিস্টেম অ্যাডমিনস্ট্রেটর অথবা ইন্টারনেট পরিষেবা সরবরাহকারী যোগাযোগ করুন।">
-<!ENTITY accountTypeDirections.label "অ্যাকাউন্ট  নির্বাচন করবেন ব্যবস্থাপনার জন্য ">
-<!ENTITY accountTypeMail.label "ইমেল অ্যাকাউন্ট">
-<!ENTITY accountTypeMail.accesskey "m">
-<!ENTITY accountTypeNews.label "সংবাদ গোষ্ঠীর অ্যাকাউন্ট ">
-<!ENTITY accountTypeNews.accesskey "w">
-
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "ব্যক্তিগত পরিচয়">
@@ -40,20 +31,6 @@
 
 <!-- Entities for Incoming Server page -->
 
-<!ENTITY incomingServerTypeDesc.label "আগমনরত সার্ভারের ধরন নির্বাচন করে আপনি ব্যবহার করছেন.">
-<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
-<!ENTITY imapType.label "IMAP">
-<!ENTITY imapType.accesskey "I">
-<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
-<!ENTITY popType.label "POP">
-<!ENTITY popType.accesskey "P">
-<!ENTITY leaveMsgsOnSrvr.label "সার্ভারে বার্তা ছেড়ে চলে যান">
-<!ENTITY leaveMsgsOnSrvr.accesskey "L">
-<!ENTITY portNum.label "Port:">
-<!ENTITY portNum.accesskey "o">
-<!ENTITY defaultPortLabel.label "ডিফল্ট:">
-<!ENTITY defaultPortValue.label "">
-
 
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "আপনার খবর সার্ভারের নাম লিখুন(NNTP) (উদাহরণ, &quot;খবর.উদাহরণ.নেট&quot;).">
@@ -62,24 +39,7 @@
 
 <!-- Entities for Outgoing Server page -->
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
--->
-<!ENTITY haveSmtp1.prefix "আপনার বর্তমান বিদায়ী সার্ভার (SMTP), &quot;">
-
 <!-- Entities for Login page -->
-
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
--->
-<!ENTITY haveSmtp2.prefix "Your existing outgoing (SMTP) username, &quot;">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
--->
-<!ENTITY haveSmtp3.prefix "Your outgoing (SMTP) server, &quot;">
 
 <!-- Entities for Account name page -->
 
@@ -93,14 +53,6 @@
 
 <!ENTITY completionTitle.label "Congratulations!">
 <!ENTITY completionText.label "Please verify that the information below is correct.">
-<!ENTITY serverTypePrefix.label "Incoming Server Type:">
-<!ENTITY serverNamePrefix.label "Incoming Server Name:">
-<!ENTITY smtpServerNamePrefix.label "Outgoing Server Name (SMTP):">
 <!ENTITY newsServerNamePrefix.label "News Server Name (NNTP):">
-<!ENTITY downloadOnLogin.label "Download messages now">
-<!ENTITY downloadOnLogin.accesskey "D">
-<!ENTITY deferStorageDesc.label "Uncheck this checkbox to store mail for this account in its own directory. That will make this account appear as a top-level account. Otherwise, it will be part of the Local Folders Global Inbox account.">
-<!ENTITY deferStorage.label "Use Global Inbox (store mail in Local Folders)">
-<!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Click Finish to save these settings and exit the Account Wizard.">
 <!ENTITY clickFinish.labelMac "Click Done to save these settings and exit the Account Wizard.">

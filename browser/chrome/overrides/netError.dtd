@@ -89,8 +89,6 @@
 <!ENTITY errorReporting.automatic2 "এরম ত্রুটির রিপোর্ট করে Mozilla-কে সাহায্য করুন ভাইরাসযুক্ত সাইটকে ব্লক করতে">
 <!ENTITY errorReporting.learnMore "আরও জানুন ...">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>অনুগ্রহ করে ওয়েব-সাইটের পরিচালকদেরকে এই সমস্যা সম্পর্কে অবহিত করুন।</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "উন্নত তথ্য: SSL_ERROR_UNSUPPORTED_VERSION">

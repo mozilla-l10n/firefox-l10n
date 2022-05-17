@@ -40,3 +40,7 @@ pocket-panel-signup-tagline-story-two = কোনো ডিভাইসে, য�
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

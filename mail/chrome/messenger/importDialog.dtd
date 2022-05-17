@@ -20,9 +20,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY importDialog.windowTitle "Import">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "&brandShortName; Mail Import Wizard">
 
 <!ENTITY importDescription2.label "Once they have been imported, you will be able to access them from within &brandShortName; Mail and/or Address Book.">

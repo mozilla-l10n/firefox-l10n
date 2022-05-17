@@ -67,22 +67,9 @@ import-done-description = নিম্নলিখিত বস্তুগু�
 
 import-close-source-browser = নির্বাচিত ব্রাউজার অব্যাহত আগে বন্ধ করা হয় তা নিশ্চিত করুন |
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = { $source } থেকে
-
 source-name-ie = ইন্টারনেট এক্সপ্লোরার
 source-name-edge = Microsoft Edge
-source-name-safari = Safari
-source-name-canary = Google Chrome ক্যানারি
 source-name-chrome = Google Chrome
-source-name-chrome-beta = Google Chrome বিটা
-source-name-chrome-dev = Google Chrome ডেভ
-source-name-chromium = Chromium
-source-name-firefox = Mozilla Firefox
-source-name-360se = 360 নিরাপদ ব্রাউজার
 
 imported-safari-reading-list = পাঠ্যের তালিকা (Safari থেকে প্রাপ্ত)
 imported-edge-reading-list = পাঠ্যের তালিকা (Safari থেকে প্রাপ্ত)

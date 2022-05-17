@@ -3,7 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = পুনরারম্ভ প্রয়োজন
-restart-required-header = দুঃখিত। আমাদের শুধু একটা ছোট জিনিস করতে হবে চলার জন্য।
-restart-required-description = আমরা পরে আপনার সমস্ত পৃষ্ঠা, উইন্ডোজ এবং ট্যাব পুনরুদ্ধার করব, যাতে আপনি দ্রুত আপনার কাজ করতে পারেন।
 
 restart-button-label = { -brand-short-name } পুনরায় আরম্ভ করুন

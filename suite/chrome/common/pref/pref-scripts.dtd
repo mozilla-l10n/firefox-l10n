@@ -4,9 +4,6 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
-<!ENTITY pref.scripts.title              "Scripts &amp; Plugins">
-
 <!ENTITY navigator.label                 "Browser">
 <!ENTITY navigator.accesskey             "B">
 
@@ -19,7 +16,4 @@
 <!ENTITY allowWindowStatusChange.label   "Change status bar text">
 <!ENTITY allowContextmenuDisable.label   "Disable or replace context menus">
 <!ENTITY allowHideStatusBar.label        "Hide the status bar">
-
-<!ENTITY enablePluginForSuite.label      "Suite">
-<!ENTITY enablePluginForSuite.accesskey  "u">
 
