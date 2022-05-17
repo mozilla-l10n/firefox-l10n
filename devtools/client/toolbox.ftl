@@ -15,15 +15,19 @@ toolbox-meatball-menu-dock-bottom-label = Encaixar embaixo
 toolbox-meatball-menu-dock-left-label = Encaixar à esquerda
 toolbox-meatball-menu-dock-right-label = Encaixar à direita
 toolbox-meatball-menu-dock-separate-window-label = Janela separada
+
 toolbox-meatball-menu-splitconsole-label = Exibir console dividido
 toolbox-meatball-menu-hideconsole-label = Ocultar console dividido
+
 toolbox-meatball-menu-settings-label = Configurações
 toolbox-meatball-menu-documentation-label = Documentação…
 toolbox-meatball-menu-community-label = Comunidade…
+
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Desativar ocultar popup automaticamente
+
 toolbox-meatball-menu-pseudo-locale-accented = Ativar idioma “com sotaque”
 toolbox-meatball-menu-pseudo-locale-bidi = Ativar idioma “bidi”
 

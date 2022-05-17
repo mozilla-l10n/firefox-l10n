@@ -26,11 +26,6 @@ com suporte a detecção avançada de lixo eletrónico e outras funcionalidades 
 seção de <a id="dictURL" href="">dicionários</a> nas 
 <a href="https://addons.thunderbird.net/seamonkey/">extensões do SeaMonkey e Thunderbird</a>.'>
 <!ENTITY info.title "Links">
-<!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
-<!ENTITY info_bugs.label
-'<a href="https://developer.mozilla.org/docs/Mozilla/Projects/MailNews">Nós</a> agradecemos os relatos de erros e pedidos de funcionalidades,
-mas primeiro leia as <a id="releaseNotesURL" href="">notas de atualização</a> e
-procure no <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>
 <!--# LOCALIZATION NOTE (info_bugs.label2): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
 <!ENTITY info_bugs.label2
 '<a href="https://www.seamonkey-project.org/dev/get-involved">Nós</a> agradecemos os relatos de erros e pedidos de funcionalidades, mas primeiro leia as <a id="releaseNotesURL" href="">notas de atualização</a> e procure no <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>

@@ -38,14 +38,12 @@
 <!ENTITY images.label "Imagens">
 <!ENTITY popups.label "Janelas popup">
 <!ENTITY passwords.label "Senhas">
-<!ENTITY masterpass.label "Senhas mestra">
 <!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "Certificados">
 
 <!ENTITY sync.label "Sync">
 
 <!ENTITY advance.label "Avançado">
-<!ENTITY scriptsAndWindows.label "Scripts e Plugins">
 <!ENTITY scriptsAndWindows2.label "Scripts">
 <!ENTITY keynav.label "Teclado">
 <!ENTITY findAsYouType.label "Localizar texto ao digitar">
