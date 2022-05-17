@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  pref.masterpass.title                  "Мастер-пароль">
-
 <!ENTITY  changepassword.caption                 "Смена мастер-пароля">
 <!ENTITY  changepassword.text                    "Ваш мастер-пароль защищает личную информацию, например, пароли для веб-сайтов и сертификаты.">
 <!ENTITY  changepassword.button                  "Сменить пароль…">
@@ -11,7 +9,5 @@
 
 <!ENTITY  resetpassword.caption                  "Сбросить мастер-пароль">
 <!ENTITY  resetpassword.text                     "При сбросе мастер-пароля, все сохранённые вами почтовые и веб-пароли, данные форм, личные сертификаты и закрытые ключи будут утеряны.">
-<!ENTITY  resetpassword.button                   "Сбросить пароль">
-<!ENTITY  resetpassword.accesskey                "п">
 <!ENTITY  resetpassword2.button                  "Сбросить пароль">
 <!ENTITY  resetpassword2.accesskey               "а">

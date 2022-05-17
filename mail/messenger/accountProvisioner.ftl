@@ -8,7 +8,9 @@ provisioner-searching-icon =
 ## Forms
 
 account-provisioner-search-button = Поиск
+
 account-provisioner-button-cancel = Отмена
+
 account-provisioner-button-back = Вернуться назад
 
 ## Notifications

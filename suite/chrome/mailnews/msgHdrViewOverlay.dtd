@@ -23,9 +23,6 @@
 <!ENTITY inReplyToField.label "В ответ на: ">
 <!ENTITY originalWebsite.label "Веб-сайт: ">
 
-<!ENTITY editMessage.label                 "Изменить черновик…">
-<!ENTITY editMessage.accesskey             "з">
-
 <!ENTITY editDraft.label                   "Изменить черновик…">
 <!ENTITY editDraft.accesskey               "з">
 <!ENTITY editTemplate.label                "Изменить шаблон…">

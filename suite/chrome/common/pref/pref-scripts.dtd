@@ -4,9 +4,6 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
-<!ENTITY pref.scripts.title              "Сценарии и плагины">
-
 <!--LOCALIZATION NOTE : FILE The 'Scripts' preferences dialog -->
 <!ENTITY pref.scripts2.title             "Сценарии">
 
@@ -31,12 +28,3 @@
 <!ENTITY debugConsoleJavascript.label     "Показывать ошибки и предупреждения chrome JavaScript">
 <!ENTITY debugConsoleJavascript.accesskey "c">
 
-<!ENTITY enablePlugins.label             "Включить плагины для">
-<!ENTITY enablePluginForSuite.label      "SeaMonkey">
-<!ENTITY enablePluginForSuite.accesskey  "e">
-
-<!ENTITY whenPageRequiresPlugins.label   "Когда странице потребуются плагины">
-<!ENTITY activateAllPlugins.label        "Активировать все плагины по умолчанию">
-<!ENTITY activateAllPlugins.accesskey    "в">
-<!ENTITY warnPluginsRequired.label       "Предупрежать меня, если необходимо установить дополнительные плагины">
-<!ENTITY warnPluginsRequired.accesskey   "ж">

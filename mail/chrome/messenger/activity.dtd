@@ -10,28 +10,10 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                  "Диспетчер работы">
 
-<!ENTITY cmd.pause.label                  "Приостановить">
-<!ENTITY cmd.pause.accesskey              "о">
-<!ENTITY cmd.resume.label                 "Возобновить">
-<!ENTITY cmd.resume.accesskey             "з">
-<!ENTITY cmd.cancel.label                 "Отменить">
-<!ENTITY cmd.cancel.accesskey             "м">
-<!ENTITY cmd.undo.label                   "Откатить">
-<!ENTITY cmd.undo.accesskey               "т">
-<!ENTITY cmd.recover.label                "Восстановить">
-<!ENTITY cmd.recover.accesskey            "с">
-<!ENTITY cmd.retry.label                  "Повторить">
-<!ENTITY cmd.retry.accesskey              "в">
-<!ENTITY cmd.removeFromList.label         "Удалить из списка">
-<!ENTITY cmd.removeFromList.accesskey     "д">
-
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Очистить список">
 <!ENTITY cmd.clearList.tooltip            "Удаляет из списка завершённые, отменённые и неудавшиеся действия">
 <!ENTITY cmd.clearList.accesskey          "ч">
-<!ENTITY cmd.find.commandkey              "f">
-<!ENTITY cmd.search.commandkey            "k">
 
-<!ENTITY searchBox.label                  "Поиск…">

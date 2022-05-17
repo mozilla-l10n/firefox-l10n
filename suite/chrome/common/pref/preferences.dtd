@@ -38,14 +38,12 @@
 <!ENTITY images.label "Изображения">
 <!ENTITY popups.label "Всплывающие окна">
 <!ENTITY passwords.label "Пароли">
-<!ENTITY masterpass.label "Мастер-пароль">
 <!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "Сертификаты">
 
 <!ENTITY sync.label "Синхронизация">
 
 <!ENTITY advance.label "Дополнительно">
-<!ENTITY scriptsAndWindows.label "Сценарии и плагины">
 <!ENTITY scriptsAndWindows2.label "Сценарии">
 <!ENTITY keynav.label "Клавиатура">
 <!ENTITY findAsYouType.label "Поиск по мере набора">
