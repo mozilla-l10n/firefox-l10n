@@ -35,6 +35,7 @@ app-basics-service-workers = Service Workers nisqa taqichasqa
 app-basics-profiles = Imakaqkuna
 app-basics-multi-process-support = Imaymanapaq wasituqukuna
 app-basics-safe-mode = Qaqakaq imakaqkuna
+
 modified-key-prefs-title = Chanin munasqayki allchapaykuna
 modified-prefs-name = Suti
 modified-prefs-value = Manamanchaq, chaninchasqa, chanin.

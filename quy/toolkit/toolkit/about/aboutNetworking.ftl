@@ -15,7 +15,6 @@ about-networking-ssl = SSL nisqa
 about-networking-active = Utqaq.
 about-networking-idle = Mana imaruwaq., Qasikaq, Mana kuyuriq.
 about-networking-host = Haywaq
-about-networking-tcp = TCP
 about-networking-sent = Apachiy
 about-networking-received = Chaskisqa
 about-networking-family = Ayllu

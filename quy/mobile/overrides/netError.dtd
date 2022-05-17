@@ -143,9 +143,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "<p>nisqa ama hinachakanqa chayta yapayaychu chupanchasqa llikachasqapi  tarikuspaykiqa sichus mana allinta qawaspaqa  hinaspa manapascha allintachu sapakuti haykunkichayqa chaypitaq willasunki haywaqpi ama nispa chayqa.</p><button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button> nisqapi.">
 
-<!ENTITY remoteXUL.title "XUL nisqa chayraq">
-<!ENTITY remoteXUL.longDesc "<p><ul><li> nisqa ama hina kaychu,tiyasqan  llikachasqaq kikinwan  rimanakuy  kay sasachaymanta willanaypipaq.</li></ul></p>nisqapi">
-
 <!ENTITY sslv3Used.title "Qaqapunin kachan manapunin siqinchakuwaqchu mana pantayman haykuspaqa.">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
