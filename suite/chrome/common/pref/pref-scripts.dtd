@@ -4,9 +4,6 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
-<!ENTITY pref.scripts.title              "Scripts e plugins">
-
 <!ENTITY navigator.label                 "Navegador">
 <!ENTITY navigator.accesskey             "N">
 
@@ -28,12 +25,3 @@
 <!ENTITY debugConsoleJavascript.label     "Mostrar erros e avisos de JavaScript do Chrome">
 <!ENTITY debugConsoleJavascript.accesskey "c">
 
-<!ENTITY enablePlugins.label             "Ativar plugins para">
-<!ENTITY enablePluginForSuite.label      "Suite">
-<!ENTITY enablePluginForSuite.accesskey  "u">
-
-<!ENTITY whenPageRequiresPlugins.label   "Quando uma página necessitar de plugins">
-<!ENTITY activateAllPlugins.label        "Ativar todos os plugins por defeito">
-<!ENTITY activateAllPlugins.accesskey    "d">
-<!ENTITY warnPluginsRequired.label       "Avisar-me quando forem necessários plugins adicionais">
-<!ENTITY warnPluginsRequired.accesskey   "v">

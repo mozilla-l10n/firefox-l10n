@@ -89,9 +89,6 @@
 <!ENTITY corruptedContentErrorv2.title "Erro de conteúdo corrompido">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>A página que está a tentar ver não pode ser mostrada porque foi detetado um erro na transmissão de dados.</p><ul><li>Por favor contacte os proprietários do site para os informar deste problema.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL remoto">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacte os responsáveis do site para os informar sobre este problema.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "A sua ligação não é segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

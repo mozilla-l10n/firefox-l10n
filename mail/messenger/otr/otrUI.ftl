@@ -63,12 +63,6 @@ afterauth-private = Você confirmou a identidade de { $name }.
 #   $name (String) - the screen name of a chat contact person
 afterauth-unverified = A identidade de { $name } não foi confirmada.
 
-verify-title = Confirmar a identidade do seu contacto
-error-title = Erro
-success-title = Encriptação ponto a ponto
-fail-title = Não foi possível confirmar
-waiting-title = Pedido de confirmação enviado
-
 # Do not translate 'OTR' (name of an encryption protocol)
 # Variables:
 #   $error (String) - contains an error message that describes the cause of the failure

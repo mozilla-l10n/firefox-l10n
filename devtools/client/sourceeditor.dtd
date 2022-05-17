@@ -18,5 +18,4 @@
   - documentation on web development on the web. -->
 
 <!ENTITY gotoLineCmd.label         "Saltar para a linha…">
-<!ENTITY gotoLineCmd.key           "J">
 <!ENTITY gotoLineCmd.accesskey     "I">

@@ -10,22 +10,31 @@ export-profile = Exportar
 ## Buttons
 
 button-cancel = Cancelar
+
 button-back = Retroceder
+
 button-continue = Continuar
+
 button-export = Exportar
 
 ## Import from app steps
 
 app-name-thunderbird = Thunderbird
+
 app-name-seamonkey = SeaMonkey
+
 app-name-outlook = Outlook
+
 app-name-becky = Becky! Internet Mail
+
 app-name-apple-mail = Correio Apple
+
 source-file = Importar de um ficheiro
 
 ## Import from file selections
 
 file-calendar = Importar calendários
+
 items-pane-checkbox-mail-messages = Mensagens eletrónicas
 
 ## Import from address book file steps
@@ -37,8 +46,11 @@ items-pane-checkbox-mail-messages = Mensagens eletrónicas
 ## Import dialog
 
 progress-pane-importing = A importar
+
 progress-pane-exporting = A exportar
+
 progress-pane-finished-desc = Concluído.
+
 error-pane-title = Erro
 
 ## <csv-field-map> element
@@ -47,4 +59,5 @@ error-pane-title = Erro
 ## Export tab
 
 export-file-picker = Exportar para um ficheiro zip
+
 export-brand-name = { -brand-product-name }

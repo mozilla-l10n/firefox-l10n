@@ -21,11 +21,6 @@ account-setup-tab-title = Configuração da conta
 
 ## Results area
 
-# Note: IMAP is the name of a protocol.
-account-setup-result-imap = IMAP
-# Note: POP3 is the name of a protocol.
-account-setup-result-pop = POP3
-
 ## Error messages
 
 
@@ -60,4 +55,6 @@ account-setup-result-pop = POP3
 
 calendar-dialog-cancel-button = Cancelar
     .accesskey = C
+
 account-setup-calendar-name-label = Nome
+
