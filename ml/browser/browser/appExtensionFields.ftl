@@ -7,6 +7,7 @@
 
 extension-firefox-compact-light-name = ഇളം
 extension-firefox-compact-light-description = ഇളം നിറങ്ങളുള്ള ഒരു തീം.
+
 extension-firefox-compact-dark-name = ഇരുണ്ടത്
 extension-firefox-compact-dark-description = ഇരുണ്ട നിറങ്ങളുള്ള ഒരു തീം.
 

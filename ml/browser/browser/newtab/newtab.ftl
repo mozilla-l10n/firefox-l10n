@@ -16,15 +16,9 @@ newtab-search-box-search-button =
     .title = തിരയുക
     .aria-label = തിരയുക
 
-newtab-search-box-search-the-web-input =
-    .placeholder = ഇൻറർനെറ്റിൽ തിരയുക
-    .title = ഇൻറർനെറ്റിൽ തിരയുക
-    .aria-label = ഇൻറർനെറ്റിൽ തിരയുക
-
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = തിരയൽ യന്ത്രം ചേർക്കുക
-newtab-topsites-add-topsites-header = പുതിയ മികച്ച സൈറ്റുകൾ
 newtab-topsites-edit-topsites-header = മികച്ച സൈറ്റ് ലിസ്റ്റ് തിരുത്തൂ
 newtab-topsites-title-label = തലക്കെട്ട്
 newtab-topsites-title-input =
@@ -139,7 +133,6 @@ newtab-section-menu-privacy-notice = സ്വകാര്യതാ അറിയ
 ## Section Headers.
 
 newtab-section-header-topsites = മികച്ച സൈറ്റുകൾ
-newtab-section-header-highlights = ഹൈലൈറ്റുകൾ
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } ശുപാർശ ചെയ്തത്
@@ -165,6 +158,9 @@ newtab-discovery-empty-section-topstories-loading = ലോഡിംഗ്...
 newtab-pocket-read-more = ജനപ്രിയ വിഷയങ്ങൾ:
 newtab-pocket-more-recommendations = കൂടുതൽ ശുപാർശകൾ
 newtab-pocket-cta-button = { -pocket-brand-name } ലഭ്യമാക്കുക
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

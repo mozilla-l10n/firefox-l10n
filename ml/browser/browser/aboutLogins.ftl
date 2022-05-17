@@ -59,7 +59,6 @@ about-logins-list-item-breach-icon =
 
 about-logins-login-intro-heading-logged-in = സമന്വയിപ്പിച്ച ലോഗിനുകളൊന്നും കണ്ടെത്തിയില്ല.
 login-intro-description = നിങ്ങളുടെ ലോഗിനുകൾ മറ്റൊരു ഉപകരണത്തിൽ{ -brand-product-name } എന്നതിലേക്ക് സംരക്ഷിച്ചുവെങ്കിൽ, അവ എങ്ങനെ ഇവിടെ നേടാം:
-about-logins-intro-import = നിങ്ങളുടെ ലോഗിനുകൾ‌ മറ്റൊരു ബ്രൗസറിൽ‌ സംരക്ഷിച്ചിട്ടുണ്ടെങ്കിൽ‌, നിങ്ങൾക്ക് <a data-l10n-name="import-link"> { -lockwise-brand-short-name }ലേക്ക്</a> ഇറക്കുമതി ചെയ്യാൻ‌ കഴിയും.
 
 ## Login
 

@@ -6,8 +6,10 @@ privatebrowsingpage-open-private-window-label = ഒരു സ്വകാര്�
     .accesskey = ക
 about-private-browsing-search-placeholder = വെബിൽ തിരയുക
 about-private-browsing-info-title = നിങ്ങൾ ഒരു സ്വകാര്യ വിൻഡോയിലാണ്
-about-private-browsing-info-myths = സ്വകാര്യ ബ്രൌസിംഗിനെക്കുറിച്ചുള്ള പൊതുവായ മിഥ്യകൾ
 about-private-browsing-not-private = നിങ്ങള്‍ നിലവില്‍ ഒരു സ്വകാര്യ ജാലകത്തിലല്ല.
+
+## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-search-banner-close-button =
     .aria-label = അടയ്ക്കുക
+

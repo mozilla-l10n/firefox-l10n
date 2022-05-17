@@ -21,5 +21,4 @@
 
 
 <!ENTITY gotoLineCmd.label         "ഈ വരിയിലേക്കു് പോകുക…">
-<!ENTITY gotoLineCmd.key           "J">
 <!ENTITY gotoLineCmd.accesskey     "J">

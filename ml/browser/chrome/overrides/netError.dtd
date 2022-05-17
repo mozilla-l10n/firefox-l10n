@@ -64,8 +64,6 @@
 <!ENTITY errorReporting.automatic2 "ക്ഷുദ്രകരമായ സൈറ്റുകൾ തിരിച്ചറിയാനും തടയാനും സഹായിക്കുന്നതിന് ഇതുപോലുള്ള പിശകുകൾ മോസില്ലായെ റിപ്പോർട്ടുചെയ്യുക">
 <!ENTITY errorReporting.learnMore "കൂടുതല്‍ അറിയുക...">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>ദയവായി വെബ് സൈറ്റ് ഉടമസ്ഥാക്കളെ ഈ പ്രശ്നത്തെപ്പറ്റി അറിയിയ്ക്കുക.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "വിപുലമായ വിവരം: SSL_ERROR_UNSUPPORTED_VERSION">

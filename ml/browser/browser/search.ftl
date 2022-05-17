@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = ഇന്‍സ്റ്റോള്‍ പിശക്
 opensearch-error-duplicate-desc = { -brand-short-name }-നു് "{ $location-url }"-ല്‍ നിന്നും തെരച്ചിലിനുള്ള പ്ലഗിന്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുവാന്‍ സാധ്യമായില്ല, കാരണം ഇതേപേരില്‍ മറ്റൊരു എഞ്ചിന്‍ നിലവിലുണ്ടു്.
+
 opensearch-error-format-title = തെറ്റായ രീതി
 opensearch-error-format-desc = { -brand-short-name }-ന് ഇവിടെ നിന്നും തെരച്ചിലിനുള്ള പ്രയോഗം ഇൻസ്റ്റോൾ ചെയ്യുവാനായില്ല: { $location-url }
+
 opensearch-error-download-title = ഡൌണ്‍ലോട് പിശക്
 opensearch-error-download-desc = { -brand-short-name } ഇവിടെ നിന്നും തെരച്ചിലിനുള്ള പ്ലഗിന്‍ ഡൌണ്‍ലോഡ് ചെയ്യുവാന്‍ സാധ്യമല്ല: { $location-url }
 
@@ -19,8 +21,16 @@ opensearch-error-download-desc = { -brand-short-name } ഇവിടെ നിന
 
 searchbar-submit =
     .tooltiptext = തിരയല്‍ സമർപ്പിയ്ക്കുക
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = തിരയുക
+
 searchbar-icon =
     .tooltiptext = തിരയുക
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+
