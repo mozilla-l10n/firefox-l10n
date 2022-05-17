@@ -11,7 +11,6 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Nastavenia
     .accesskey = t
-
 menu-addons-and-themes =
     .label = Doplnky a témy
     .accesskey = D
@@ -21,11 +20,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Režim riešenia problémov…
     .accesskey = R
-
 menu-help-exit-troubleshoot-mode =
     .label = Vypnúť režim riešenia problémov
     .accesskey = V
-
 menu-help-more-troubleshooting-info =
     .label = Ďalšie informácie pre riešenie problémov
     .accesskey = a
@@ -53,22 +50,30 @@ menu-view-repair-text-encoding =
 
 ## View / Layout
 
+menu-font-size-label =
+    .label = Veľkosť písma
+    .accesskey = e
+menuitem-font-size-enlarge =
+    .label = Zväčšiť veľkosť písma
+    .accesskey = Z
+menuitem-font-size-reduce =
+    .label = Zmenšiť veľkosť písma
+    .accesskey = m
+menuitem-font-size-reset =
+    .label = Obnoviť veľkosť písma
+    .accesskey = O
 mail-uidensity-label =
     .label = Hustota
     .accesskey = H
-
 mail-uidensity-compact =
     .label = Kompaktná
     .accesskey = K
-
 mail-uidensity-normal =
     .label = Normálna
     .accesskey = N
-
 mail-uidensity-touch =
     .label = Pre dotykové zariadenia
     .accesskey = P
-
 menu-spaces-toolbar-button =
     .label = Panel Miesta
     .accesskey = M

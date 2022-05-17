@@ -5,8 +5,22 @@
 
 # Fieldsets
 
+vcard-fieldset-name = Meno
 
 # N VCard Field
 
+vcard-n-prefix = Predpona
+vcard-n-add-prefix =
+    .title = Pridajte predponu
 vcard-n-firstname = Meno
+vcard-n-add-firstname =
+    .title = Pridajte krstné meno
+vcard-n-middlename = Stredné meno
+vcard-n-add-middlename =
+    .title = Pridajte stredné meno
 vcard-n-lastname = Priezvisko
+vcard-n-add-lastname =
+    .title = Pridajte priezvisko
+vcard-n-suffix = Prípona
+vcard-n-add-suffix =
+    .title = Pridajte príponu
