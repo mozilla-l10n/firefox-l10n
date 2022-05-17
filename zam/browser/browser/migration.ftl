@@ -6,8 +6,6 @@ import-from-firefox =
     .label = Firefox
     .accesskey = x
 
-source-name-firefox = Mozilla Firefox
-
 ## Browser data types
 ## All of these strings get a $browser variable passed in.
 ## You can use the browser variable to differentiate the name of items,

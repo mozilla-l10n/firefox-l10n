@@ -5,6 +5,7 @@
 toolbar-context-menu-view-customize-toolbar =
     .label = Tùs kùe...
     .accesskey = e
+
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Kue xhoo lent Firefox
     .accesskey = F

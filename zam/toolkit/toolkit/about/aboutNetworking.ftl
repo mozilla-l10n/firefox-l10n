@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = dob kíy
 about-networking-idle = Na yuy yá
 about-networking-host = Servidor
-about-networking-tcp = TCP
 about-networking-sent = Dá lá
 about-networking-received = KàyáɁ
 about-networking-family = Pá died ná

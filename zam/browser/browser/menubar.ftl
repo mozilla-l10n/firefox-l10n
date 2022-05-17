@@ -39,15 +39,6 @@ menu-quit =
 menu-quit-mac =
     .label = Mb-ròɁ { -brand-shorter-name }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Mb-ròɁ { -brand-shorter-name }
-
 menu-about =
     .label = Kue nak { -brand-shorter-name }
     .accesskey = a
@@ -74,9 +65,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = mb-šàlɁ loo yêtz...
     .accesskey = o
-menu-file-close =
-    .label = TòɁw
-    .accesskey = T
 menu-file-close-window =
     .label = TòɁw loo ré
     .accesskey = l
@@ -89,9 +77,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Thus kue koo güil lo internet...
     .accesskey = k
-menu-file-print-preview =
-    .label = Mbwíʔ zá niey
-    .accesskey = n
 menu-file-print =
     .label = Key loo yets...
     .accesskey = K
@@ -239,6 +224,3 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Taa diif yall
     .accesskey = l
-menu-help-feedback-page =
-    .label = Taal diif dizh
-    .accesskey = h

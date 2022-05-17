@@ -35,10 +35,6 @@ about-telemetry-keys-header = Xha níey
 about-telemetry-names-header = Xha mud leel
 about-telemetry-values-header = Plál ták ah
 # Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (capture count: { $capturedStacksCount })
-# Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Late Write #{ $lateWriteCount }
 about-telemetry-stack-title = Sní:

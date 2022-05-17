@@ -17,6 +17,13 @@ downloads-cmd-pause =
     .label = Bleeta
     .accesskey = B
   
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
+##
+
 downloads-cmd-clear-downloads =
     .label = Tòmbî ner b-là
     .accesskey = b
@@ -42,6 +49,13 @@ downloads-open-file =
 downloads-history =
     .label = Mb-lòɁ ré tá kó b-là=l
     .accesskey = t
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
 
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.

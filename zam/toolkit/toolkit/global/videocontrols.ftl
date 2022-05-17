@@ -14,3 +14,4 @@ videocontrols-enterfullscreen-button =
     .aria-label = Li maach ah
 videocontrols-exitfullscreen-button =
     .aria-label = Mb-ròɁ lô
+

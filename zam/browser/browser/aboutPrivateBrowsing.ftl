@@ -5,3 +5,5 @@
 privatebrowsingpage-open-private-window-label = mb-šàlɁ lô kùb
     .accesskey = k
 
+## The following strings will be used for experiments in Fx99 and Fx100
+

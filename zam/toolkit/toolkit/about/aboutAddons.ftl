@@ -64,3 +64,7 @@ addon-install-from-file-filter-name = Ko-kùb
 
 ## Page headings
 
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+

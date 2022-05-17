@@ -8,6 +8,7 @@
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Tòmbî ré tá
+
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted

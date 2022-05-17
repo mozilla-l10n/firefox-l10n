@@ -38,8 +38,6 @@
 
 <!ENTITY corruptedContentErrorv2.title "Corrupted Content Error">
 
-<!ENTITY remoteXUL.title "Pá dú XUL">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

@@ -25,6 +25,7 @@ app-basics-os = OS
 app-basics-profiles = Chóy
 app-basics-multi-process-support = Lô Windows
 app-basics-safe-mode = Modo Seguro
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Lô lo Finder

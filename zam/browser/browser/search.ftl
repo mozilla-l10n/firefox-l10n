@@ -12,3 +12,8 @@ opensearch-error-download-title = Na blat na kue
 
 ##
 
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+
