@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Ακύρωση
 screenshots-overlay-instructions = Σύρετε ή κάντε κλικ στη σελίδα για να επιλέξετε μια περιοχή. Πατήστε ESC για ακύρωση.
+screenshots-overlay-download-button = Λήψη
+screenshots-overlay-copy-button = Αντιγραφή
