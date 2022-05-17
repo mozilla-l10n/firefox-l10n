@@ -11,7 +11,6 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Налаштування
     .accesskey = а
-
 menu-addons-and-themes =
     .label = Додатки й теми
     .accesskey = о
@@ -21,11 +20,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Режим усунення проблем…
     .accesskey = Р
-
 menu-help-exit-troubleshoot-mode =
     .label = Вимкнути режим усунення проблем
     .accesskey = В
-
 menu-help-more-troubleshooting-info =
     .label = Додаткова інформація про режим усунення проблем
     .accesskey = Д
@@ -53,22 +50,30 @@ menu-view-repair-text-encoding =
 
 ## View / Layout
 
+menu-font-size-label =
+    .label = Розмір шрифту
+    .accesskey = о
+menuitem-font-size-enlarge =
+    .label = Збільшити розмір шрифту
+    .accesskey = З
+menuitem-font-size-reduce =
+    .label = Зменшити розмір шрифту
+    .accesskey = м
+menuitem-font-size-reset =
+    .label = Скинути розмір шрифту
+    .accesskey = С
 mail-uidensity-label =
     .label = Щільність
     .accesskey = і
-
 mail-uidensity-compact =
     .label = Компактна
     .accesskey = К
-
 mail-uidensity-normal =
     .label = Звичайна
     .accesskey = З
-
 mail-uidensity-touch =
     .label = Дотик
     .accesskey = о
-
 menu-spaces-toolbar-button =
     .label = Панель Місць
     .accesskey = о
