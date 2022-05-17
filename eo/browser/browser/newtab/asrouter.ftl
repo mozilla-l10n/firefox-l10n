@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Rekomendata trajto
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kial mi vidas tion ĉi?
+
 cfr-doorhanger-extension-cancel-button = Poste
     .accesskey = P
+
 cfr-doorhanger-extension-ok-button = Aldoni nun
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = Administri agordojn de rekomendoj
     .accesskey = A
+
 cfr-doorhanger-extension-never-show-recommendation = Ne montri al mi tiun ĉi rekomendon
     .accesskey = N
+
 cfr-doorhanger-extension-learn-more-link = Pli da informo
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = de { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendo
 cfr-doorhanger-extension-notification2 = Rekomendo
     .tooltiptext = Rekomendo pri etendaĵo
     .a11y-announcement = Havebla rekomendo pri etendaĵo
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekomendo
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Pli da informo
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nova trajto:
+
 cfr-whatsnew-button =
     .label = Novaĵoj
     .tooltiptext = Novaĵoj
+
 cfr-whatsnew-release-notes-link-text = Legi la notojn pri liverado
 
 ## Enhanced Tracking Protection Milestones

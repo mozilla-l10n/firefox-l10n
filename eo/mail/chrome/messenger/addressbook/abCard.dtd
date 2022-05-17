@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "R">
 <!ENTITY SecondEmail.label              "Plia retpoŝta adreso:">
 <!ENTITY SecondEmail.accesskey          "i">
-<!ENTITY PreferMailFormat.label         "Preferas ricevi mesaĝojn kiel:">
-<!ENTITY PreferMailFormat.accesskey     "e">
 <!ENTITY PlainText.label                "platteksto">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "nedifinita">

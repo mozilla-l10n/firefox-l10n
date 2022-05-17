@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Kiom da fojoj tiu ĉi funkcio estis en la stako, kiam la rulanalizilo prenis specimenon.">
 <!ENTITY performanceUI.table.function                 "Funkcio">
 <!ENTITY performanceUI.table.function.tooltip         "La nomo kaj fonta loko de la specimenita funkcio.">
-<!ENTITY performanceUI.table.totalAlloc               "Tuta nombro de specimenaj asignoj">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "La nombro de asignoj de Object en tiu ĉi loko kaj en la vokitaj funkcioj.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

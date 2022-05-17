@@ -11,7 +11,6 @@
 <!ENTITY encryption.certificate_clear.button "Forviŝi">
 <!ENTITY encryption.certificate_clear.accesskey "v">
 <!ENTITY signingGroupTitle.label "Cifereca subskribado">
-<!ENTITY signMessage.accesskey "s">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Elekti atestilon">

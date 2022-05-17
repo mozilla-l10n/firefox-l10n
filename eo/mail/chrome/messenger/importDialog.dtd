@@ -24,9 +24,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "filtriloj">
 <!ENTITY importFilters.accesskey  "f">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "Enportilo por &brandShortName;">
 <!ENTITY importShortDesc.label    "Enporti retpoŝton, agordojn kaj filtrilojn el aliaj programoj">
 

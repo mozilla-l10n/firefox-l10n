@@ -90,9 +90,6 @@
 <!ENTITY corruptedContentErrorv2.title "Eraro pro difektita enhavo">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La paĝo, kiun vi klopodas vidi, ne povas esti montrita ĉar okazis eraro dum la transmeto de datumoj.</p><ul><li>Bonvolu kontakti la posedantojn de la retejo por raporti al ili tiun ĉi problemon.</li></ul>">
 
-<!ENTITY remoteXUL.title "Fora XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Bonvolu kontakti la posedantojn de la retejo por informi ilin pri tiu ĉi problemo.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Via konekto ne estas sekura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

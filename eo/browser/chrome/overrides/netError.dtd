@@ -143,8 +143,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Raporti erarojn kiel tiu ĉi por helpi Mozillan identigi kaj bloki malicajn retejojn">
 <!ENTITY errorReporting.learnMore "Pli da informo…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Bonvolu kontakti la posedantojn de la retejo por informi ilin pri tiu ĉi problemo.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Spertula informo: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -170,9 +168,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Ŝajne viaj retaj sekurecaj agordoj povus esti la kaŭzo. Ĉu vi volas restarigi la normajn agordojn?">
 <!ENTITY prefReset.label "Restarigi normajn agordojn">
-
-<!ENTITY enableTls10.longDesc "Tiu ĉi retejo eble ne subtenas la protokolon TLS 1.2, kiu estas la minimuma versio subtenata de &brandShortName;. Ŝalto de TLS 1.0 kaj TLS 1.1 povus ebligi sukcesan konekton kun tiu ĉi retejo.">
-<!ENTITY enableTls10.note "TLS 1.0 kaj TLS 1.1 estos porĉiame malaktivaj en venonta versio.">
-<!ENTITY enableTls10.label "Aktivigi TLS 1.0 kaj 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>La paĝo, kiun vi provas vidi, ne povas esti montrita ĉar okazis eraro en la reta protokolo.</p><ul><li>Bonvolu kontakti la posedantojn de la retejo por raporti al ili tiun ĉi problemon.</li></ul>">

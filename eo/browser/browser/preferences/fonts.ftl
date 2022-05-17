@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Tiparoj
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Tiparoj por
     .accesskey = T
+
 fonts-langgroup-arabic =
     .label = Araba
 fonts-langgroup-armenian =
@@ -75,27 +77,37 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcia
     .accesskey = P
+
 fonts-default-serif =
     .label = Serifa
 fonts-default-sans-serif =
     .label = Senserifa
+
 fonts-proportional-size = Grando
     .accesskey = r
+
 fonts-serif = Serifa
     .accesskey = S
+
 fonts-sans-serif = Senserifa
     .accesskey = n
+
 fonts-monospace = Egallarĝa
     .accesskey = E
+
 fonts-monospace-size = Grando
     .accesskey = G
+
 fonts-minsize = Minimuma grando de tiparo
     .accesskey = M
+
 fonts-minsize-none =
     .label = Neniu
+
 fonts-allow-own =
     .label = Permesi al paĝoj elekti siajn proprajn tiparojn, anstataŭ tiujn, kiujn vi supre elektis
     .accesskey = P
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

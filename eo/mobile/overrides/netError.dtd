@@ -174,9 +174,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
-<!ENTITY remoteXUL.title "Fora XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Bonvolu kontakti la posedantojn de la retejo por informi ilin pri tiu ĉi problemo.</li></ul></p>">
-
 <!ENTITY sslv3Used.title "Ne eblas sekure konektiĝi">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->

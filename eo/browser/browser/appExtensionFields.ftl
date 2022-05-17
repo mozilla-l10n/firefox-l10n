@@ -8,10 +8,13 @@
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = Sistema etoso — aŭtomata
 extension-default-theme-description = Uzi la agordojn de la mastruma sistemo por butonoj, menuoj kaj fenestroj.
+
 extension-firefox-compact-light-name = Hela
 extension-firefox-compact-light-description = Etoso kun helaj koloroj.
+
 extension-firefox-compact-dark-name = Malhela
 extension-firefox-compact-dark-description = Etoso kun malhelaj koloroj.
+
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Uzi kolorplenan aspekton por butonoj, menuoj kaj fenestroj.
 
