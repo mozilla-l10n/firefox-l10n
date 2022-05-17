@@ -79,9 +79,6 @@
 <!ENTITY corruptedContentErrorv2.title "Mfomso a ɛkyɛrɛ kɔntɛnt a ho atɔ kyima">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Wo renntumi nnhu krataafa a wo pɛ sɛ wo hwɛ no ɛsian sɛ wɔhuu mfomso bi wɔ data nsoma no mu.</p><ul><li>Yɛsrɛ wo bisa wɔn a wɛbsaet no yɛ wɔn de ma wɔ wɔnhwɛ ho asɛm nka.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL remoot">
-<!ENTITY remoteXUL.longDesc "<p><ul><li> Yɛsrɛ wo sɛ bisa wɔn a wɛbsaet yi yɛ wɔn de ma wɔnhwɛ asɛm yi ho asɛm nka.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] Wobetumi asesa nhyehyɛe wɔ { -brand-short-name } nɔphyɛn mu.
            *[other] Wobetumi asesa nhyehyɛe wɔ { -brand-short-name } apɛdeɛ mu.
         }
+
 unknowncontenttype-intro = Wo apaw sɛ wo bɛbue:
 unknowncontenttype-which-is = a ɛyɛ:
 unknowncontenttype-from = efiri:

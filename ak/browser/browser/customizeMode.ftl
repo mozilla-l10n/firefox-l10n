@@ -6,7 +6,5 @@ customize-mode-restore-defaults =
     .label = Siesie kɔ kane
 customize-mode-titlebar =
     .label = Tisɛm baa
-customize-mode-lwthemes =
-    .label = Ntiim
 customize-mode-undo-cmd =
     .label = Nnyɛ

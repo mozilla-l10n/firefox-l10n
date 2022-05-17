@@ -8,6 +8,7 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Kɔstɔmaez…
     .accesskey = K
+
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Mɛnu Baa
     .accesskey = M

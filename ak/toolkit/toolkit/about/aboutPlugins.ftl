@@ -31,3 +31,6 @@ state-dd-Disabled-block-list-state = <span data-l10n-name="state">Tebea:</span> 
 mime-type-label = MIME Sɛso
 description-label = Nkyerɛmu
 suffixes-label = Suffixes
+
+## Gecko Media Plugins (GMPs)
+

@@ -21,6 +21,7 @@ app-basics-build-config = esi nhyehyɛe
 app-basics-user-agent = Odi dwuma Gyinamusini
 app-basics-memory-use = Mɛmri Adwumadi
 app-basics-safe-mode = ahotew tebea
+
 modified-key-prefs-title = Apɛdeɛ Titiriw a Wɔasesa
 modified-prefs-name = Din
 graphics-title = Eniso-ade

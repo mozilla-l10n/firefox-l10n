@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Brawsen A Ɛyɛ Praevet)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Brawsen A Ɛyɛ Praevet)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Brawsen A Ɛyɛ Praevet)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Brawsen A Ɛyɛ Praevet)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -122,8 +124,10 @@ browser-window-close-button =
 
 urlbar-placeholder =
     .placeholder = Hwehwɛ anaaso kyerɛw adrɛs
+
 urlbar-switch-to-tab =
     .value = Swekye kɔ tab:
+
 urlbar-go-button =
     .tooltiptext = Kɔ adrɛs a ɛwɔ Lokehyɛn Baa no mu
 
@@ -155,6 +159,7 @@ bookmarks-search =
     .label = Hwewhɛ Mbukmaak
 bookmarks-bookmark-edit-panel =
     .label = Sesa Bukmaak Yi
+
 bookmarks-toolbar-menu =
     .label = TuulBaa A Wɔde Sie Mbukmaak
 bookmarks-toolbar-placeholder =
@@ -175,10 +180,6 @@ bookmarks-toolbar-placeholder-button =
 
 
 ## More items
-
-more-menu-go-offline =
-    .label = Di dwuma ɔflaen
-    .accesskey = l
 
 ## EME notification panel
 
@@ -203,6 +204,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Tie mpɔpap ma { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Siw mpɔpap ano kwan ma { $uriHost }
     .accesskey = p
@@ -224,20 +226,25 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Ntwe
+
 navbar-overflow =
     .tooltiptext = Ntuul bio a wɔka ho…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Prente
     .tooltiptext = Prente krataafa yi… ({ $shortcut })
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Brawsa ntab
+
 tabs-toolbar-new-tab =
     .label = Tab foforo
+
 tabs-toolbar-list-all-tabs =
     .label = Kyerɛ ntab nyinara
     .tooltiptext = Kyerɛ ntab nyinara

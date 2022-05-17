@@ -19,36 +19,13 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Toa so
     .accesskey = s
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = Bue Folda a ɛwɔ Mu
-    .accesskey = F
   
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = Kyerɛ wɔ hwehwɛfo mu
-    .accesskey = h
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] Kyerɛ wɔ hwehwɛfo mu
-           *[other] Bue Folda a ɛwɔ Mu
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] Kyerɛ wɔ hwehwɛfo mu
-           *[other] Bue Folda a ɛwɔ Mu
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] Kyerɛ wɔ hwehwɛfo mu
-           *[other] Bue Folda a ɛwɔ Mu
-        }
+##
 
 downloads-cmd-retry =
     .tooltiptext = San-sɔ-hwɛ
@@ -83,6 +60,13 @@ downloads-cmd-clear-downloads =
 downloads-history =
     .label = Kyerɛ Atweatwe Nyinaa
     .accesskey = K
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
 
 downloads-clear-downloads-button =
     .label = Pepa Ntwe

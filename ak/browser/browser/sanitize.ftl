@@ -54,10 +54,6 @@ item-cache =
 
 data-section-label = Data
 
-item-site-preferences =
-    .label = Asaet apɛdeɛ
-    .accesskey = s
-
 item-offline-apps =
     .label = Wɛbsaet data a enni ahoma so
     .accesskey = W

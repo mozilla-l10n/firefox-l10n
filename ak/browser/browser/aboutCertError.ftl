@@ -35,4 +35,3 @@ proxyResolveFailure-title = Nntumi nnhu prɔksi sɛɛva no
 redirectLoop-title = Krataafa no rennkɔ beebi a ɛwɔ sɛ ɔkɔ no papa
 unknownSocketType-title = Eni nnda mbuae a efiri sɛɛva no hɔ aba yi
 corruptedContentError-title = Mfomso a ɛkyerɛ kɔntent a ne ho atɔ kyima
-remoteXUL-title = XUL remoot

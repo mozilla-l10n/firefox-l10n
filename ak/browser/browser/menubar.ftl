@@ -33,10 +33,6 @@ menu-quit =
            *[other] G
         }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
 ## File Menu
 
 menu-file =
@@ -54,9 +50,6 @@ menu-file-new-private-window =
 menu-file-open-file =
     .label = Bue Fael…
     .accesskey = B
-menu-file-close =
-    .label = To mu
-    .accesskey = o
 menu-file-close-window =
     .label = To Tokuro Mu
     .accesskey = k
@@ -69,9 +62,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Krataafa Sɛtɔp…
     .accesskey = p
-menu-file-print-preview =
-    .label = Prente Priviw
-    .accesskey = v
 menu-file-print =
     .label = Prente…
     .accesskey = P
@@ -225,6 +215,3 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Mboa
     .accesskey = M
-menu-help-feedback-page =
-    .label = Sabmet wo fiidbak…
-    .accesskey = S

@@ -5,3 +5,5 @@
 privatebrowsingpage-open-private-window-label = Bue Tokuro Praevet
     .accesskey = T
 
+## The following strings will be used for experiments in Fx99 and Fx100
+
