@@ -15,11 +15,14 @@ toolbox-meatball-menu-dock-bottom-label = Закотвяне долу
 toolbox-meatball-menu-dock-left-label = Закотвяне вляво
 toolbox-meatball-menu-dock-right-label = Закотвяне вдясно
 toolbox-meatball-menu-dock-separate-window-label = Отделен прозорец
+
 toolbox-meatball-menu-splitconsole-label = Показване на вградената конзола
 toolbox-meatball-menu-hideconsole-label = Скриване на вградената конзола
+
 toolbox-meatball-menu-settings-label = Настройки
 toolbox-meatball-menu-documentation-label = Документация…
 toolbox-meatball-menu-community-label = Общност…
+
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.

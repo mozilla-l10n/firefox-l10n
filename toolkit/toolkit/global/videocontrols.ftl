@@ -12,6 +12,7 @@ videocontrols-volume-control =
     .aria-label = Сила на звука
 videocontrols-closed-caption-button =
     .aria-label = Субтитри
+
 videocontrols-play-button =
     .aria-label = Изпълняване
 videocontrols-pause-button =
@@ -28,12 +29,15 @@ videocontrols-casting-button-label =
     .aria-label = Пускане на екрана
 videocontrols-closed-caption-off =
     .offlabel = Изключено
+
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Картина в картината
+
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = Гледайте като картина в картината
+
 videocontrols-error-aborted = Зареждането на видео спря.
 videocontrols-error-network = Зареждането на видео е прекъснато поради мрежова грешка.
 videocontrols-error-decode = Видеото не може да бъде възпроизведено, защото файлът е развален.
@@ -41,6 +45,7 @@ videocontrols-error-src-not-supported = Видеоформатът или тоз
 videocontrols-error-no-source = Не е намерен поддържан видео формат и вид MIME.
 videocontrols-error-generic = Възпроизвеждането на видео прекъсна поради неизвестна грешка.
 videocontrols-status-picture-in-picture = Видеоклипът се възпроизвежда в режим картина в картината.
+
 # This message shows the current position and total video duration
 #
 # Variables:

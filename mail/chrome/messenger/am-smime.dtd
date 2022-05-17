@@ -16,7 +16,6 @@
 <!ENTITY encryption.certificate_clear.button "Изчистване">
 <!ENTITY encryption.certificate_clear.accesskey "и">
 <!ENTITY signingGroupTitle.label "Цифров подпис">
-<!ENTITY signMessage.accesskey "П">
 
 
 

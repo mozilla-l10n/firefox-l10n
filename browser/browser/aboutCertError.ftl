@@ -115,7 +115,6 @@ unknownSocketType-title = Неочакван отговор от сървъра
 nssFailure2-title = Неуспешно установяване на шифрована връзка
 csp-xfo-error-title = { -brand-short-name } не може да отвори страницата
 corruptedContentError-title = Грешка поради развалено съдържание
-remoteXUL-title = Отдалечен XUL
 sslv3Used-title = Невъзможно създаване на защитена връзка
 inadequateSecurityError-title = Връзката е незащитена
 blockedByPolicy-title = Забранена страница

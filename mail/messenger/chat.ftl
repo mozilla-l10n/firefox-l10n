@@ -19,3 +19,6 @@ chat-participant-moderator-role-icon2 =
 
 chat-participant-voiced-role-icon2 =
     .alt = Участникът може да публикува съобщения
+
+## Conversation invite notification box
+

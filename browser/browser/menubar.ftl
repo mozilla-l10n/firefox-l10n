@@ -38,16 +38,11 @@ menu-quit =
             [windows] х
            *[other] х
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Изход от { -brand-shorter-name }
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Изход от { -brand-shorter-name }
+
 menu-about =
     .label = Относно { -brand-shorter-name }
     .accesskey = О
@@ -77,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Отваряне…
     .accesskey = о
-menu-file-close =
-    .label = Затваряне
-    .accesskey = З
 menu-file-close-window =
     .label = Затваряне на прозореца
     .accesskey = п
@@ -95,9 +87,6 @@ menu-file-share-url =
 menu-file-print-setup =
     .label = Настройки на отпечатване…
     .accesskey = Н
-menu-file-print-preview =
-    .label = Преглед преди отпечатване
-    .accesskey = р
 menu-file-print =
     .label = Отпечатване…
     .accesskey = п
@@ -310,9 +299,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = т
 menu-help-report-site-issue =
     .label = Докладване на проблем със страницата…
-menu-help-feedback-page =
-    .label = Обратна връзка…
-    .accesskey = в
 menu-help-enter-troubleshoot-mode2 =
     .label = Режим за отстраняване на неизправности…
     .accesskey = м

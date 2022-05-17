@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -72,10 +74,6 @@ toolbar-button-add-attachment =
     .label = Прикачване
     .tooltiptext = Добавяне на прикачен файл ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
 
-add-attachment-notification-reminder =
-    .label = Прикачане на файл…
-    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
-
 menuitem-attach-files =
     .label = Файлове…
     .accesskey = ф
@@ -85,19 +83,6 @@ context-menuitem-attach-files =
     .label = Прикачане на файлове…
     .accesskey = ф
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
-
-#   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    { $count ->
-        [one] { $count } прикачен файл
-       *[other] { $count } прикачени файла
-    }
-
-expand-attachment-pane-tooltip =
-    .tooltiptext = Показва лентата с прикачени файлове ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Скрива лентата с прикачени файлове ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 
 drop-file-label-attachment =
     { $count ->
@@ -130,48 +115,6 @@ button-return-receipt =
 
 # Addressing Area
 
-to-compose-address-row-label =
-    .value = До
-
-#   $key (String) - the shortcut key for this field
-to-compose-show-address-row-menuitem =
-    .label = Поле { to-compose-address-row-label.value }
-    .accesskey = д
-    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
-
-to-compose-show-address-row-label =
-    .value = { to-compose-address-row-label.value }
-    .tooltiptext = Показване на поле { to-compose-address-row-label.value } ({ to-compose-show-address-row-menuitem.acceltext })
-
-cc-compose-address-row-label =
-    .value = Копие
-
-#   $key (String) - the shortcut key for this field
-cc-compose-show-address-row-menuitem =
-    .label = Поле { cc-compose-address-row-label.value }
-    .accesskey = к
-    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
-
-cc-compose-show-address-row-label =
-    .value = { cc-compose-address-row-label.value }
-    .tooltiptext = Показване на поле { cc-compose-address-row-label.value } ({ cc-compose-show-address-row-menuitem.acceltext })
-
-bcc-compose-address-row-label =
-    .value = Скрито копие
-
-#   $key (String) - the shortcut key for this field
-bcc-compose-show-address-row-menuitem =
-    .label = Поле { bcc-compose-address-row-label.value }
-    .accesskey = с
-    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
-
-bcc-compose-show-address-row-label =
-    .value = { bcc-compose-address-row-label.value }
-    .tooltiptext = Показване на { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
-
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-many-public-recipients-info = { $count } получатели в До и Копие ще виждат адресите си. Можете да избегнете разкриване на получателите като вместо това използвате Скрито копие.
-
 
 many-public-recipients-bcc =
     .label = Използване на Скрито копие
@@ -190,4 +133,16 @@ compose-missing-identity-warning = Адрес на електронна поща
 ## Editing
 
 # Tools
+
+## Filelink
+
+# Placeholder file
+
+# Template
+
+# Messages
+
+## Link Preview
+
+## Dictionary selection popup
 

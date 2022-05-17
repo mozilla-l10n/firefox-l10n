@@ -23,4 +23,3 @@ count-new-messages-radio =
     .label = Брой на новите съобщения
     .accesskey = Б
 
-notification-settings-info = Можете да изключите знакът от панела Уведомяване в Системни настройки.

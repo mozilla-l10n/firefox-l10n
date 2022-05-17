@@ -109,6 +109,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "т">
 <!ENTITY newlistButton.label                            "Нов списък">
 <!ENTITY newlistButton.accesskey                        "Н">
+
 <!ENTITY showAsDefault.label                            "Отваряне по подразбиране">
 <!ENTITY showAsDefault.accesskey                        "о">
 <!ENTITY editPropertiesButton.label                     "Редактиране">

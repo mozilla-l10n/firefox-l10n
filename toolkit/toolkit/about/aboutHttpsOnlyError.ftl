@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-httpsonly-title-connection-not-available = Не е налична шифрована връзка
-
 about-httpsonly-explanation-question = Каква би могла да е причината?
 about-httpsonly-explanation-nosupport = Най-вероятно страницата не се поддържа под HTTPS.
 about-httpsonly-explanation-risk = Също е възможно и злоумишлено действие. Ако все пак решите да посетите незащитената версия на страницата не въвеждайте никаква чувствителна информация като пароли, адреси на електронна поща или данни от банкови карти.

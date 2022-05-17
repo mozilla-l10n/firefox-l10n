@@ -119,8 +119,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Докладване на такива грешки, за да може Mozilla да идентифицира и ограничи злонамерени сайтове">
 <!ENTITY errorReporting.learnMore "Научете повече…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Моля, уведомете собствениците на страницата за проблема.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Допълнителна информация: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -146,9 +144,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Изглежда настройките на сигурността може да са предизвикали това. Искате ли да бъдат възстановени настройките по подразбиране?">
 <!ENTITY prefReset.label "Възстановяване на настройки по подразбиране">
-
-<!ENTITY enableTls10.longDesc "Страницата може да не поддържа протокола TLS 1.2, което е минималната версия, поддържана от &brandShortName;. Включване на поддръжката на TLS 1.0 и TLS 1.1 може да позволи осъществяване на връзката.">
-<!ENTITY enableTls10.note "TLS 1.0 и TLS 1.1 ще бъдат премахнати в бъдещо издание.">
-<!ENTITY enableTls10.label "Включване на TLS 1.0 и 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Страницата не може да бъде показана поради грешка в мрежовия протокол.</p><ul><li>Моля, уведомете собствениците на страницата за проблема.</li></ul>">
