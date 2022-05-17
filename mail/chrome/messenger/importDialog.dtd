@@ -24,9 +24,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "Viestisuodattimet">
 <!ENTITY importFilters.accesskey  "V">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "&brandShortName;in ohjattu tietojen tuonti">
 <!ENTITY importShortDesc.label    "Tuo sähköposti, osoitekirjat, asetukset ja viestisuodattimet muista ohjelmista">
 

@@ -26,6 +26,3 @@ Siinä on kehittynyt roskapostin tunnistus ja muita hyödyllisiä ominaisuuksia.
 'Muita kieliä voi asentaa <a id="dictURL" href="">sanakirjat</a>-ryhmästä 
 <a href="https://addons.thunderbird.net/seamonkey/"> SeaMonkey ja Thunderbird-lisäosat</a>-palvelussa.'>
 <!ENTITY info.title "Lisätietoja">
-<!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
-<!ENTITY info_bugs.label
-'<a href="http://www.mozilla.org/mailnews/">Me</a> toivotamme tervetulleeksi ohjelmointivirheraportit ja ominaisuuspyynnöt, mutta lue <a id="releaseNotesURL" href="">julkaisutiedot</a> ja tarkasta <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> ensin.'>

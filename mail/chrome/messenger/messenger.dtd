@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "S">
 <!ENTITY newVirtualFolderCmd.label "Tallennettu haku…">
 <!ENTITY newVirtualFolderCmd.accesskey "h">
-<!ENTITY newOtherAccountsCmd.label "Muut tilit…">
-<!ENTITY newOtherAccountsCmd.accesskey "M">
 <!ENTITY newCreateEmailAccountCmd.label "Hanki uusi sähköpostitili…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "H">
 <!ENTITY newExistingEmailAccountCmd.label "Olemassa oleva sähköpostitili…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Tallenna nimellä">
 <!ENTITY saveAsMenu.accesskey "n">
-<!ENTITY saveAsFileCmd.label "Tiedosto">
-<!ENTITY saveAsFileCmd.accesskey "T">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Mallipohja">
 <!ENTITY saveAsTemplateCmd.accesskey "M">

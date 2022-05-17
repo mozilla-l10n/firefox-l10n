@@ -47,10 +47,3 @@
 <!ENTITY useDefault.label               "Palauta oletus">
 <!ENTITY useDefault.accesskey           "P">
 
-<!ENTITY defaultBrowserGroup.label      "Oletusselain">
-<!ENTITY defaultBrowserButton.label     "Aseta oletusselaimeksi">
-<!ENTITY defaultBrowserButton.accesskey "o">
-<!ENTITY alreadyDefaultText             "&brandShortName; on jo järjestelmän oletusselain.">
-<!ENTITY defaultPendingText             "&brandShortName; asetetaan järjestelmän oletusselaimeksi, kun painat OK.">
-<!ENTITY wasMadeDefaultText             "&brandShortName; on asetettu järjestelmän oletusselaimeksi.">
-<!ENTITY makeDefaultText                "Aseta &brandShortName; järjestelmän oletusselaimeksi.">

@@ -34,7 +34,6 @@ about-telemetry-events-section = Tapahtumat
 about-telemetry-simple-measurements-section = Yksinkertaiset mittaukset
 about-telemetry-slow-sql-section = Hitaat SQL-lauseet
 about-telemetry-addon-details-section = Lisäosien tiedot
-about-telemetry-captured-stacks-section = Kaapatut pinot
 about-telemetry-late-writes-section = Myöhästyneet kirjoitukset
 about-telemetry-raw-payload-section = Raakatiedot
 about-telemetry-raw = Muotoilematon JSON
@@ -121,10 +120,6 @@ about-telemetry-addon-provider = { $addonProvider }-toimittaja
 about-telemetry-keys-header = Ominaisuus
 about-telemetry-names-header = Nimi
 about-telemetry-values-header = Arvo
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (kaappausmäärä: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Myöhästynyt kirjoitus #{ $lateWriteCount }

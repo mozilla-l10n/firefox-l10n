@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Verkkosivu…">
 <!ENTITY attachPageCmd.accesskey "V">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Käyntikortti (Vcard)">
-<!ENTITY attachVCardCmd.accesskey "K">
 <!ENTITY remindLater.label "Muistuta minua myöhemmin">
 <!ENTITY remindLater.accesskey "M">
 <!ENTITY closeCmd.label "Sulje">
@@ -148,16 +145,6 @@
 <!ENTITY returnReceiptMenu.accesskey "V">
 <!ENTITY dsnMenu.label "Toimitustilan ilmoitukset">
 <!ENTITY dsnMenu.accesskey "o">
-<!ENTITY deliveryFormatMenu.label "Lähetysmuoto">
-<!ENTITY deliveryFormatMenu.accesskey "m">
-<!ENTITY autoFormatCmd.label "Tunnista automaattisesti">
-<!ENTITY autoFormatCmd.accesskey "T">
-<!ENTITY plainTextFormatCmd.label "Vain tavallinen teksti">
-<!ENTITY plainTextFormatCmd.accesskey "V">
-<!ENTITY htmlFormatCmd.label "Vain muotoiltu teksti (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "a">
-<!ENTITY bothFormatCmd.label "Tavallinen ja muotoiltu teksti (HTML)">
-<!ENTITY bothFormatCmd.accesskey "n">
 <!ENTITY priorityMenu.label "Tärkeysaste">
 <!ENTITY priorityMenu.accesskey "T">
 <!ENTITY priorityButton.title "Tärkeysaste">
@@ -221,7 +208,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Muun tyyppiset osoitekentät">
 <!ENTITY fromAddr2.label "Lähettäjä">
 <!ENTITY fromAddr.accesskey "h">
 <!ENTITY replyAddr2.label "Vastausosoite">

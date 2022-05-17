@@ -4,8 +4,10 @@
 
 account-settings-title = Tunnistautumisen asetukset
 account-channel-title = Oletuskanavat
+
 chat-autologin =
     .label = Kirjaudu käynnistettäessä
+
 chat-encryption-generic = Yleinen
 chat-encryption-log =
     .label = Sisällytä päästä päähän -salatut viestit keskustelulokeihin

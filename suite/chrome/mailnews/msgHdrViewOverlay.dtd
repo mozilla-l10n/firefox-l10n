@@ -23,9 +23,6 @@
 <!ENTITY inReplyToField.label "Vastaus viestiin: ">
 <!ENTITY originalWebsite.label "Verkkosivusto: ">
 
-<!ENTITY editMessage.label                 "Muokkaa luonnosta…">
-<!ENTITY editMessage.accesskey             "M">
-
 <!ENTITY editDraft.label                   "Muokkaa luonnosta…">
 <!ENTITY editTemplate.label                "Muokkaa mallia…">
 

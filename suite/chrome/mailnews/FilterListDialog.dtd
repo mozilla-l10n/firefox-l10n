@@ -34,6 +34,4 @@
 <!ENTITY stopFilters.accesskey "y">
 <!ENTITY folderPickerPrefix.label "Suorita valitut suodattimet kansiolle:">
 <!ENTITY folderPickerPrefix.accesskey "v">
-<!ENTITY choosethis.label "valitse tämä kansio">
-<!ENTITY choosethisnewsserver.label "valitse tämä keskusteluryhmäpalvelin">
 <!ENTITY searchBox.emptyText "Etsi suodatinta nimellä…">
