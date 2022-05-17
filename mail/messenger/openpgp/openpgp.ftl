@@ -179,6 +179,7 @@ openpgp-key-man-key-details-key =
 
 openpgp-key-details-title =
     .title = Proprietăți cheie
+
 openpgp-key-details-signatures-tab =
     .label = Certificări
 openpgp-key-details-structure-tab =
@@ -191,6 +192,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Tip
 openpgp-key-details-key-part-label =
     .label = Parte de cheie
+
 openpgp-key-details-algorithm-label =
     .label = Algoritm
 openpgp-key-details-size-label =
@@ -207,7 +209,6 @@ openpgp-key-details-fingerprint-label = Amprentă
 openpgp-key-details-sel-action =
     .label = Alege o acțiune...
     .accesskey = S
-openpgp-key-details-also-known-label = Identități alternative pretinse ale proprietarului cheii:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Închide
 openpgp-acceptance-label =
@@ -223,7 +224,6 @@ openpgp-acceptance-verified-label =
 key-accept-personal =
     Pentru această cheie ai și partea publică, și partea secretă. O poți utiliza drept cheie personală.
     Dacă ți-a dat-o altcineva, nu o folosi drept cheie personală.
-key-personal-warning = Ai creat chiar tu această cheie și proprietarul afișat al cheii ești tu?
 openpgp-personal-no-label =
     .label = Nu, nu o folosi drept cheie personală.
 openpgp-personal-yes-label =
@@ -233,16 +233,6 @@ openpgp-copy-cmd-label =
     .label = Copiază
 
 ## e2e encryption settings
-
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $identity (String) - the email address of the currently selected identity
-openpgp-description =
-    { $count ->
-        [0] Thunderbird nu are o cheie personală OpenPGP pentru <b>{ $identity }</b>
-        [one] Thunderbird a găsit { $count } cheie personală OpenPGP asociată cu <b>{ $identity }</b>
-        [few] Thunderbird a găsit { $count } chei personale OpenPGP asociate cu <b>{ $identity }</b>
-       *[other] Thunderbird a găsit { $count } de chei personale OpenPGP asociate cu <b>{ $identity }</b>
-    }
 
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Configurația ta curentă folosește cheia <b>{ $key }</b>, care a expirat.
@@ -308,15 +298,12 @@ key-expired-date = Cheia a expirat la { $keyExpiry }
 key-expired-simple = Cheia a expirat
 key-revoked-simple = Cheia a fost revocată
 key-do-you-accept = Accepți cheia pentru verificarea semnăturilor digitale și pentru criptarea mesajelor?
-key-accept-warning = Evită să accepți chei dubioase. Folosește alt canal de comunicare, nu adresa de e-mail, ca să verifici amprenta cheii corespondentului.
 
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Mesajul nu poate fi trimis pentru că a apărut o problemă la cheia ta personală. { $problem }
 cannot-encrypt-because-missing = Mesajul nu poate fi trimis criptat end-to-end deoarece sunt probleme legate de cheile următorilor destinatari: { $problem }
 window-locked = Fereastra de redactare a mesajelor este blocată; trimitere anulată
 
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Parte criptată a mesajului
 mime-decrypt-encrypted-part-concealed-data = Este o parte criptată a mesajului. Trebuie să o deschizi într-o fereastră separată dând clic pe atașament.
 
 # Strings in keyserver.jsm
@@ -342,27 +329,6 @@ converter-decrypt-body-failed =
     Nu s-a reușit decriptarea mesajului cu subiectul
     { $subject }.
     Vrei să încerci din nou cu altă parolă sau vrei să sari peste mesaj?
-
-# Strings in gpg.jsm
-unknown-signing-alg = Algoritm necunoscut de semnare (ID:{ $id })
-unknown-hash-alg = Hash criptografic necunoscut (ID: { $id })
-
-# Strings in keyUsability.jsm
-expiry-key-expires-soon =
-    Cheia ta { $desc } va expira în mai puțin de { $days } zile.
-    Îți recomandăm să creezi o pereche nouă de chei și să configurezi conturile aferente pentru folosirea lor.
-expiry-keys-expire-soon =
-    Cheile tale următoare vor expira în mai puțin de { $days } zile:{ $desc }.
-    Îți recomandăm să creezi chei noi și să configurezi conturile aferente pentru folosirea lor.
-expiry-key-missing-owner-trust =
-    Cheia ta secretă { $desc } nu are nivelul de încredere setat.
-    Îți recomandăm să setezi „Încredere în certificări” pe „absolută” în proprietățile cheii.
-expiry-keys-missing-owner-trust =
-    Cheile tale secrete de mai jos nu au nivelul de încredere setat.
-    { $desc }.
-    Îți recomandăm să setezi „Încredere în certificări” pe „absolută” în proprietățile cheii.
-expiry-open-key-manager = Deschide managerul de chei OpenPGP
-expiry-open-key-properties = Deschide proprietățile cheii
 
 # Strings filters.jsm
 filter-folder-required = Trebuie să selectezi un dosar-țintă.
@@ -597,9 +563,6 @@ send-to-news-warning =
     Nu este recomandat, deoarece are sens numai dacă toți membrii grupului pot decripta mesajul, adică mesajul trebuie să fie criptat cu cheile tuturor participanților din grupul de discuții. Trimite acest mesaj numai dacă știi ce faci.
     Continui?
 save-attachment-header = Salvează atașamentul decriptat
-no-temp-dir =
-    Nu a fost găsit directorul temporar de scriere.
-    Introdu variabila mediului TEMP
 possibly-pgp-mime = Mesaj posibil criptat sau semnat cu PGP/MIME; folosește funcția „Decrypt/Verify” pentru verificare
 cannot-send-sig-because-no-own-key = Mesajul nu poate fi semnat digital pentru că nu ai configurat criptarea end-to-end pentru <{ $key }>
 cannot-send-enc-because-no-own-key = Mesajul nu poate fi criptat pentru că nu ai configurat criptarea end-to-end pentru <{ $key }>

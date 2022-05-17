@@ -11,9 +11,6 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
-<!ENTITY pref.scripts.title              "Scripts &amp; Plugins">
-
 <!ENTITY navigator.label                 "Navigator">
 <!ENTITY navigator.accesskey             "N">
 

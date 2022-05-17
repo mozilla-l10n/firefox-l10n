@@ -115,7 +115,6 @@ unknownSocketType-title = Răspuns neașteptat de la server
 nssFailure2-title = Conexiunea securizată a eșuat
 csp-xfo-error-title = { -brand-short-name } nu poate deschide această pagină
 corruptedContentError-title = Eroare cauzată de conținut corupt
-remoteXUL-title = XUL la distanță
 sslv3Used-title = Nu se poate conecta în mod securizat
 inadequateSecurityError-title = Conexiunea nu este securizată
 blockedByPolicy-title = Pagină blocată

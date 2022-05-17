@@ -6,10 +6,13 @@
 ## Theme names and descriptions used in the Themes panel in about:addons
 
 extension-default-theme-description = Urmează tema sistemului de operare pentru butoane, meniuri și ferestre.
+
 extension-firefox-compact-light-name = Deschisă
 extension-firefox-compact-light-description = O temă cu o paletă de culori deschise.
+
 extension-firefox-compact-dark-name = Întunecată
 extension-firefox-compact-dark-description = O temă cu o paletă de culori întunecate.
+
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Folosește un aspect colorat pentru butoane, meniuri și ferestre.
 

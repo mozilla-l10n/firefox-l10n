@@ -18,7 +18,6 @@ about-networking-ssl = SSL
 about-networking-active = Activ(ă)
 about-networking-idle = Inactiv(ă)
 about-networking-host = Gazdă
-about-networking-tcp = TCP
 about-networking-sent = Trimise
 about-networking-received = Primite
 about-networking-family = Familie

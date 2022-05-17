@@ -43,15 +43,6 @@ menu-quit =
 menu-quit-mac =
     .label = Ieși din { -brand-shorter-name }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Ieși din { -brand-shorter-name }
-
 menu-about =
     .label = Despre { -brand-shorter-name }
     .accesskey = A
@@ -81,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Deschide un fișier…
     .accesskey = O
-menu-file-close =
-    .label = Închide
-    .accesskey = C
 menu-file-close-window =
     .label = Închide fereastra
     .accesskey = d
@@ -96,9 +84,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Aranjare în pagină…
     .accesskey = u
-menu-file-print-preview =
-    .label = Previzualizează pentru tipărire
-    .accesskey = v
 menu-file-print =
     .label = Tipărește…
     .accesskey = P
@@ -313,9 +298,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = T
 menu-help-report-site-issue =
     .label = Raportează problemă cu site-ul…
-menu-help-feedback-page =
-    .label = Trimite feedback…
-    .accesskey = S
 menu-help-enter-troubleshoot-mode2 =
     .label = Mod de depanare…
     .accesskey = M

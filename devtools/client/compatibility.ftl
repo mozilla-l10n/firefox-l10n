@@ -24,9 +24,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (perimat, experimenta
 compatibility-settings-button-label = Setări
 compatibility-settings-button-title =
     .title = Setări
-compatibility-feedback-button-label = Feedback
-compatibility-feedback-button-title =
-    .title = Feedback
 
 ## Messages used as headers in settings pane
 
@@ -48,3 +45,4 @@ compatibility-issue-occurrences =
 compatibility-no-issues-found = Nu s-a depistat nicio problemă de compatibilitate.
 compatibility-close-settings-button =
     .title = Închide setările
+

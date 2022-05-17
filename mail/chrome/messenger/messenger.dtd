@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "W">
 <!ENTITY newVirtualFolderCmd.label "Dosar virtual din rezultatele unei căutări">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
-<!ENTITY newOtherAccountsCmd.label "Alte conturi…">
-<!ENTITY newOtherAccountsCmd.accesskey "o">
 <!ENTITY newCreateEmailAccountCmd.label "Obține un cont nou de e-mail…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "O">
 <!ENTITY newExistingEmailAccountCmd.label "Cont existent de e-mail…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "h">
 <!ENTITY saveAsMenu.label "Salvează ca">
 <!ENTITY saveAsMenu.accesskey "S">
-<!ENTITY saveAsFileCmd.label "Fișier">
-<!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "S">
 <!ENTITY saveAsTemplateCmd.label "Șablon">
 <!ENTITY saveAsTemplateCmd.accesskey "l">

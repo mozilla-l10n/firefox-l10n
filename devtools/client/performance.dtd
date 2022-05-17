@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Numărul de prezențe ale acestei funcții în stivă când profilatorul a preluat o mostră.">
 <!ENTITY performanceUI.table.function                 "Funcție">
 <!ENTITY performanceUI.table.function.tooltip         "Numele și sursa locației a funcției eșantionate.">
-<!ENTITY performanceUI.table.totalAlloc               "Total alocări prelevate">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Numărul total de alocări de obiecte prelevate din această locație și din destinatarii apelați.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

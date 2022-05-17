@@ -48,8 +48,6 @@ inactive-css-not-grid-or-flex-container-fix = Încearcă să adaugi <strong>disp
 
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Încearcă să adaugi <strong>display:grid</strong>, <strong>display:flex</strong> sau <strong>columns:2</strong>. { learn-more }
 
-inactive-css-not-grid-or-flex-item-fix-2 = Încearcă să adaugi <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> sau <strong>display:inline-flex</strong>. { learn-more }
-
 inactive-css-not-grid-item-fix-2 = Încearcă să adaugi <strong>display:grid</strong> or <strong>display:inline-grid</strong> la părintele elementului. { learn-more }
 
 inactive-css-not-grid-container-fix = Încearcă să adaugi <strong>display:grid</strong> sau <strong>display:inline-grid</strong>. { learn-more }

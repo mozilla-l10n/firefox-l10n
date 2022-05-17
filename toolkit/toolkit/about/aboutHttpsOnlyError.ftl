@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-httpsonly-title-alert = Alertă privind modul numai HTTPS
-about-httpsonly-title-connection-not-available = Nu este disponibilă o conexiune securizată
 
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com

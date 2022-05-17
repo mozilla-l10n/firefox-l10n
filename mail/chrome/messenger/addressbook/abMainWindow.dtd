@@ -108,6 +108,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "Listă nouă">
 <!ENTITY newlistButton.accesskey                        "L">
+
 <!ENTITY showAsDefault.label                            "Director de pornire implicit">
 <!ENTITY showAsDefault.accesskey                        "D">
 <!ENTITY editPropertiesButton.label                     "Editare">

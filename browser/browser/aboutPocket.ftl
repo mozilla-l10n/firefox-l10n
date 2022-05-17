@@ -41,3 +41,7 @@ pocket-panel-signup-tagline-story-two = Vezi în { -pocket-brand-name } de pe or
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

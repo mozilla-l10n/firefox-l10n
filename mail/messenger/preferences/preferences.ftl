@@ -157,9 +157,6 @@ restore-default-label =
     .accesskey = R
 
 default-search-engine = Motor de căutare implicit
-add-search-engine =
-    .label = Adaugă din fișier
-    .accesskey = A
 remove-search-engine =
     .label = Elimină
     .accesskey = v
@@ -188,8 +185,6 @@ change-dock-icon = Schimbă preferințele pentru pictograma aplicației
 app-icon-options =
     .label = Opțiuni pentru iconița aplicației…
     .accesskey = n
-
-notification-settings = Alertele și sunetul implicit pot fi dezactivate din panoul de notificări al preferințelor sistemului.
 
 animated-alert-label =
     .label = Afișează o alertă
@@ -387,14 +382,6 @@ quoted-text-color =
     .label = Culoare:
     .accesskey = l
 
-type-column-label =
-    .label = Tip de conținut
-    .accesskey = T
-
-action-column-label =
-    .label = Acțiune
-    .accesskey = A
-
 save-to-label =
     .label = Salvează fișierele în
     .accesskey = S
@@ -547,12 +534,6 @@ restore-html-label =
 default-format-label =
     .label = Folosește implicit formatarea „Paragraf” în loc de „Corp text”
     .accesskey = P
-
-format-description = Configurează aspectul textului
-
-send-options-label =
-    .label = Opțiuni de trimitere…
-    .accesskey = O
 
 autocomplete-description = La introducerea adresei destinatarului, caută rezultate corespondente în:
 
@@ -836,8 +817,6 @@ theme-label =
     .value = Temă:
     .accesskey = T
 
-style-thunderbird =
-    .label = Thunderbird
 style-bubbles =
     .label = Bule
 style-dark =
@@ -857,13 +836,8 @@ chat-variant-label =
 
 ## Preferences UI Search Results
 
-search-results-header = Rezultatele căutării
+## Settings UI Search Results
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Ne pare rău! Nu sunt rezultate în Opțiuni pentru „<span data-l10n-name="query"></span>”.
-       *[other] Ne pare rău! Nu sunt rezultate în Preferințe pentru „<span data-l10n-name="query"></span>”.
-    }
+search-results-header = Rezultatele căutării
 
 search-results-help-link = Ai nevoie de ajutor? Intră pe <a data-l10n-name="url">Asistență { -brand-short-name }</a>

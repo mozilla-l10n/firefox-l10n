@@ -73,23 +73,9 @@ import-done-description = Următoarele elemente au fost importate cu succes:
 
 import-close-source-browser = Te rugăm să te asiguri că browserul selectat este închis înainte de a continua.
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Din { $source }
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
-source-name-edge-beta = Microsoft Edge Beta
-source-name-safari = Safari
-source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
-source-name-chrome-beta = Google Chrome Beta
-source-name-chrome-dev = Google Chrome Dev
-source-name-chromium = Chromium
-source-name-firefox = Mozilla Firefox
-source-name-360se = 360 Secure Browser
 
 imported-safari-reading-list = Listă de lectură (din Safari)
 imported-edge-reading-list = Listă de lectură (din Edge)

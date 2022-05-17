@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Află mai multe">
 
 <!ENTITY e2eEnc.description "Fără criptare end-to-end, conținutul mesajelor este ușor expus furnizorului de e-mail și supravegherii în masă.">
-<!ENTITY e2eeReqWarning.description "Dacă ai nevoie de criptare, pentru a trimite un mesaj, trebuie să ai cheia publică sau certificatul fiecărui destinatar.">
 
-<!ENTITY e2eSigning.description "O semnătură digitală permite destinatarilor să verifice că mesajul a fost trimis de tine și că nu i s-a modificat conținutul.">
 <!ENTITY e2eTechPref.description "Tehnologie de criptare preferată:">
 
-<!ENTITY doNotEncrypt.label "Nu activa implicit criptarea">
-<!ENTITY doNotEncrypt.accesskey "N">
-<!ENTITY requireEncryptMessage.label "Impune implicit criptare">
-<!ENTITY requireEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert2.message "Certificat personal de criptare:">
 <!ENTITY digitalSign.certificate.button "Selectează…">
 <!ENTITY digitalSign.certificate.accesskey "S">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Curăță">
 <!ENTITY encryption.certificate_clear.accesskey "r">
 <!ENTITY signingGroupTitle.label "Semnătură digitală">
-<!ENTITY signMessage2.label "Adaugă-mi implicit semnătura digitală">
-<!ENTITY signMessage.accesskey "d">
 
 <!ENTITY signingCert2.message "Certificat personal pentru semnătură digitală:">
 

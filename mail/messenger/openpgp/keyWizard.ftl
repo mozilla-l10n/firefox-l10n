@@ -123,14 +123,6 @@ openpgp-import-key-description = Poți importa chei personale create cu alte sof
 
 openpgp-import-key-info = Alte softuri pot descrie o cheie personală folosind termeni alternativi, precum cheie proprie, cheie secretă, cheie privată sau pereche de chei.
 
-#   $count (Number) - the number of keys found in the selected files
-openpgp-import-key-list-amount =
-    { $count ->
-        [one] Thunderbird a găsit o cheie pentru import.
-        [few] Thunderbird a găsit { $count } chei pentru import.
-       *[other] Thunderbird a găsit { $count } de chei pentru import.
-    }
-
 openpgp-import-key-list-description = Confirmă ce chei pot fi tratate drept cheile tale personale. Trebuie să folosești drept chei personale numai chei pe care le-ai creat chiar tu și care îți indică identitatea. Poți modifica această opțiune mai târziu, în fereastra de dialog Proprietăți cheie.
 
 openpgp-import-key-list-caption = Cheile marcate să fie tratate drept chei personale vor fi enumerate în secțiunea Criptare end-to-end. Celelalte vor fi disponibile în Managerul de chei.

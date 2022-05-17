@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+## Window controls
+
 about-rights-notification-text = { -brand-short-name } este un software liber și cu sursă deschisă, construit de o comunitate de mii de oameni din lumea întreagă.
 
 ## Content tabs
@@ -28,6 +30,8 @@ about-rights-notification-text = { -brand-short-name } este un software liber ș
 ## Message header pane
 
 
+## Message header cutomize panel
+
 ## Action Button Context Menu
 
 
@@ -41,4 +45,12 @@ repair-text-encoding-button =
     .tooltiptext = Determină codarea de text corectă din conținutul mesajului
 
 ## no-reply handling
+
+## error messages
+
+## Spaces toolbar
+
+## Spaces toolbar pinned tab menupopup
+
+## Spaces toolbar customize panel
 

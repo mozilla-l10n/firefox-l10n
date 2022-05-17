@@ -28,3 +28,4 @@ openpgp-key-undecided = Neacceptată (nicio decizie)
 openpgp-key-rejected = Neacceptată (respinsă)
 
 openpgp-intro = Chei publice disponibile pentru { $key }
+

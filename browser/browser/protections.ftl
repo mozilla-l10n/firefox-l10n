@@ -73,16 +73,8 @@ mobile-app-card-content = Folosește browserul mobil cu protecție integrată î
 mobile-app-links = { -brand-product-name } Browser pentru <a data-l10n-name="android-mobile-inline-link">Android</a> și <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 
 lockwise-title = Nu mai pierzi niciodată o parolă
-lockwise-title-logged-in2 = Gestionarea parolelor
-lockwise-header-content = { -lockwise-brand-name } îți stochează în siguranță parolele în browser.
 lockwise-header-content-logged-in = Stochează-ți și sincronizează-ți parolele în siguranță pe toate dispozitivele.
-protection-report-save-passwords-button = Salvează parolele
-    .title = Salvează parolele în { -lockwise-brand-short-name }
-protection-report-manage-passwords-button = Gestionează parolele
-    .title = Gestionează parolele cu { -lockwise-brand-short-name }
-lockwise-mobile-app-title = Ia-ți cu tine parolele oriunde
-lockwise-no-logins-card-content = Folosește parolele salvate în { -brand-short-name } pe orice dispozitiv.
-lockwise-app-links = { -lockwise-brand-name } pentru <a data-l10n-name="lockwise-android-inline-link"> Androi</a> și <a data-l10n-name = "lockwise-ios-inline-link" >iOS</a>
+
 
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.

@@ -71,6 +71,7 @@ app-basics-location-service-key-google = Cheie de servicii Google pentru localiz
 app-basics-safebrowsing-key-google = Cheie Google pentru navigare în siguranță
 app-basics-key-mozilla = Cheie pentru serviciul de localizare Mozilla
 app-basics-safe-mode = Mod sigur
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Afișează în Finder

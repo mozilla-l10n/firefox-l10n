@@ -85,9 +85,6 @@
 <!ENTITY corruptedContentErrorv2.title "Eroare cauzată de conținut corupt">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Pagina pe care încerci să o vezi nu poate fi afișată deoarece a fost detectată o eroare legată de transmiterea datelor.</p><ul><li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL la distanță">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Conexiunea nu este securizată">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

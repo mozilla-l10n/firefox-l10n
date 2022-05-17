@@ -14,10 +14,6 @@
 <!ENTITY pref.content.title                     "Conținut">
 <!ENTITY pref.content.description               "These settings influence how website and message content appears in &brandShortName;.">
 
-<!ENTITY siteIcons.label                        "Website icons">
-<!ENTITY useSiteIcons.label                     "Show website icons">
-<!ENTITY useSiteIcons.accesskey                 "S">
-
 <!ENTITY useSmoothScroll.label                  "Folosește derularea lină">
 <!ENTITY useSmoothScroll.accesskey              "u">
 
@@ -30,6 +26,4 @@
 
 <!ENTITY allowHWAccel.label                     "Use hardware acceleration when available">
 <!ENTITY allowHWAccel.accesskey                 "e">
-<!ENTITY blockAutoRefresh.label                 "Warn me when web sites try to redirect or reload the page">
-<!ENTITY blockAutoRefresh.accesskey             "W">
 

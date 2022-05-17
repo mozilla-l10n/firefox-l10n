@@ -44,9 +44,3 @@
 <!ENTITY useDefault.label               "Restaurează">
 <!ENTITY useDefault.accesskey           "R">
 
-<!ENTITY defaultBrowserGroup.label      "Navigator implicit">
-<!ENTITY defaultBrowserButton.label     "Setați Browserul Implicit">
-<!ENTITY defaultBrowserButton.accesskey "S">
-<!ENTITY alreadyDefaultText             "&brandShortName; is already your default browser.">
-<!ENTITY defaultPendingText             "&brandShortName; will be set as your default browser when you click OK.">
-<!ENTITY makeDefaultText                "Set &brandShortName; as your default browser.">

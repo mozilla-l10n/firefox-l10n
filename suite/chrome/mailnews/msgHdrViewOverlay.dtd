@@ -37,9 +37,6 @@
 <!ENTITY inReplyToField.label "In-Reply-To: ">
 <!ENTITY originalWebsite.label "Sait web:">
 
-<!ENTITY editMessage.label                 "Editează ciorna...">
-<!ENTITY editMessage.accesskey             "d">
-
 <!ENTITY attachmentsTree.label             "Anexe:">
 <!ENTITY attachmentsTree.accesskey         "A">
 <!ENTITY openAttachmentCmd.label           "Deschis">
