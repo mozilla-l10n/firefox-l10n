@@ -21,5 +21,4 @@
 
 
 <!ENTITY gotoLineCmd.label         "اقفز إلى سطر…">
-<!ENTITY gotoLineCmd.key           "J">
 <!ENTITY gotoLineCmd.accesskey     "ق">

@@ -78,23 +78,9 @@ import-done-description = تمّ استيراد العناصر التّالية 
 
 import-close-source-browser = من فضلك تأكد من أن المتصفح الذي اخترته مغلق قبل أن تتابع.
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = من { $source }
-
 source-name-ie = إنترنت إكسبلورر
 source-name-edge = ميكروسوفت إدج
-source-name-edge-beta = ميكروسوفت إدج بيتا
-source-name-safari = سفاري
-source-name-canary = جوجل كروم كناري
 source-name-chrome = جوجل كروم
-source-name-chrome-beta = جوجل كروم بيتا
-source-name-chrome-dev = إصدارة جوجل كروم التطويرية
-source-name-chromium = كروميوم
-source-name-firefox = Mozilla Firefox
-source-name-360se = متصفح ٣٦٠ الآمن
 
 imported-safari-reading-list = قائمة القراءة (من سفاري)
 imported-edge-reading-list = قائمة القراءة (من إدج)

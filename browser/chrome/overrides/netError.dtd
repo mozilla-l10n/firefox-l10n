@@ -104,8 +104,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "أبلغ عن مثل هذه الأعطال لمساعدة Mozilla في التعرف على المواقع الخبيثة و حجبها">
 <!ENTITY errorReporting.learnMore "اطّلع على المزيد…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>الرجاء التواصل مع مالك الموقع لإبلاغه بهذه المشكلة.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "معلومات متقدمة: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -131,9 +129,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "يبدو أن إعدادات أمان الشبكة قد تكون السبب وراء هذا. أتريد استعادة الإعدادات المبدئية؟">
 <!ENTITY prefReset.label "استرجع الإعدادات الأصلية">
-
-<!ENTITY enableTls10.longDesc "قد لا يكون يدعم هذا الموقع بروتوكول TLS 1.2 وهو يُعد أدنى إصدارة يدعمها &brandShortName;. قد يسمح تفعيل الإصدارتين 1.0 و1.1 من بروتوكول TLS نجاح هذا الاتصال.">
-<!ENTITY enableTls10.note "سيُعطّل إصدارا 1.0 و1.1 من بروتوكول TLS بصورة دائمة في الإصدارات المستقبلية.">
-<!ENTITY enableTls10.label "فعّل TLS 1.0 و 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>تعذر عرض الصفحة التي تريد مشاهدتها لاكتشاف عُطل في بروتوكول الشبكة.</p><ul><li>من فضلك تواصل مع مالكي الموقع لإبلاغهم بهذه المشكلة.</li></ul>">

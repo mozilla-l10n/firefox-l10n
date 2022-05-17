@@ -116,8 +116,6 @@ app-icon-options =
     .label = خيارات أيقونة التطبيق…
     .accesskey = خ
 
-notification-settings = يمكن تعطيل التنبيهات و الصوت المبدئي من لوحة التنويهات في تفضيلات النظام.
-
 animated-alert-label =
     .label = اعرض تنبيهًا
     .accesskey = ر
@@ -308,14 +306,6 @@ quoted-text-color =
     .label = اللون:
     .accesskey = ل
 
-type-column-label =
-    .label = نوع المحتوى
-    .accesskey = ح
-
-action-column-label =
-    .label = الإجراء
-    .accesskey = ر
-
 save-to-label =
     .label = احفظ الملفات في
     .accesskey = ف
@@ -457,12 +447,6 @@ restore-html-label =
 default-format-label =
     .label = استخدم تنسيق الفقرات بدلا من متن النص مبدئيًا
     .accesskey = ف
-
-format-description = اضبط سلوك تنسيق النص
-
-send-options-label =
-    .label = خيارات الإرسال…
-    .accesskey = س
 
 autocomplete-description = عند عنونة الرسائل، ابحث عن المدخلات المطابقة في:
 
@@ -717,8 +701,6 @@ theme-label =
     .value = السمة:
     .accesskey = س
 
-style-thunderbird =
-    .label = Thunderbird
 style-bubbles =
     .label = فقاعات
 style-dark =
@@ -737,4 +719,6 @@ chat-variant-label =
     .accesskey = ع
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

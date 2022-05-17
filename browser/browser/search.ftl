@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = خطأ في التنصيب
 opensearch-error-duplicate-desc = تعذر على { -brand-short-name } تنصيب ملحق البحث من ”{ $location-url }“ بسبب وجود محرك بحث له نفس الاسم.
+
 opensearch-error-format-title = تنسيق غير سليم
 opensearch-error-format-desc = تعذّر على { -brand-short-name } تنصيب محرك البحث من: { $location-url }
+
 opensearch-error-download-title = خطأ في التنزيل
 opensearch-error-download-desc = تعذر على { -brand-short-name } تحميل ملحق البحث من: { $location-url }
 
@@ -19,8 +21,16 @@ opensearch-error-download-desc = تعذر على { -brand-short-name } تحمي�
 
 searchbar-submit =
     .tooltiptext = أرسل البحث
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = ابحث
+
 searchbar-icon =
     .tooltiptext = ابحث
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+

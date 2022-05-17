@@ -17,8 +17,6 @@
 <!ENTITY addIMAccountButton.accesskey "د">
 <!ENTITY addFeedAccountButton.label "أضِف حساب تلقيمات…">
 <!ENTITY addFeedAccountButton.accesskey "ت">
-<!ENTITY addOtherAccountButton.label "أضِف حسابًا من نوع آخر…">
-<!ENTITY addOtherAccountButton.accesskey "خ">
 <!ENTITY setDefaultButton.label "اجعله المبدئي">
 <!ENTITY setDefaultButton.accesskey "م">
 <!ENTITY removeButton.label "أزِل الحساب">
@@ -35,6 +33,4 @@
      this window for en-US. -->
 
 <!-- AccountManager.xhtml -->
-<!-- AccountManager.xhtml -->
-<!ENTITY accountManager.size "width: 120ch; height: 49em;">
-<!ENTITY accountTree.width "width: 32ch;">
+

@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = افتح في { -brand-short-name }
     .accesskey = ف
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] يُمكن تغيير الإعدادات من خيارات { -brand-short-name }.
            *[other] يُمكن تغيير الإعدادات من تفضيلات { -brand-short-name }.
         }
+
 unknowncontenttype-intro = اخترت فتح:
 unknowncontenttype-which-is = ونوعه:
 unknowncontenttype-from = مِن:

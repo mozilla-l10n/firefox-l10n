@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = ميّزة موصى بها
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = لماذا أرى هذا
+
 cfr-doorhanger-extension-cancel-button = ليس الآن
     .accesskey = ل
+
 cfr-doorhanger-extension-ok-button = أضِف الآن
     .accesskey = ض
+
 cfr-doorhanger-extension-manage-settings-button = أدِر إعدادات التوصيات
     .accesskey = د
+
 cfr-doorhanger-extension-never-show-recommendation = لا تعرض لي هذه التوصية
     .accesskey = ت
+
 cfr-doorhanger-extension-learn-more-link = اطّلع على المزيد
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = من { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = توصية
 cfr-doorhanger-extension-notification2 = توصية
     .tooltiptext = نُوصيك بامتداد
     .a11y-announcement = توصية بوجود امتداد
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = توصية
@@ -85,9 +93,11 @@ cfr-protections-panel-link-text = اطّلع على المزيد
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = ميزة جديدة:
+
 cfr-whatsnew-button =
     .label = ما الجديد
     .tooltiptext = ما الجديد
+
 cfr-whatsnew-release-notes-link-text = اقرأ ملاحظات الإصدار
 
 ## Enhanced Tracking Protection Milestones
@@ -158,3 +168,6 @@ spotlight-public-wifi-vpn-link = ليس الآن
 ## Total Cookie Protection Rollout
 
 spotlight-total-cookie-protection-secondary-button = ليس الآن
+
+## Emotive Continuous Onboarding
+

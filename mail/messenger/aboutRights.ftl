@@ -11,7 +11,6 @@ rights-intro-point-5 = بعض مزايا { -brand-short-name } تستفيد من
 rights-intro-point-5-unbranded = في حال احتوى هذا المنتج على أي من خدمات الوب فيمكن الوصول إلى بنود استخدام تلك الخدمة من قِسم <a data-l10n-name="mozilla-website-services-link">خدمات مواقع الوب</a>.
 rights-intro-point-6 = لتمكين تشغيل أنواع معينة من الڤديو، يُنزّل { -brand-short-name } وحدات تعمية محتوي معينة من أطراف خارجية.
 rights-webservices-header = خدمات { -brand-full-name } للمعلومات على الوب
-rights-webservices = يستخدم { -brand-full-name } خدمات للمعلومات على الوب (”الخدمات“) للحصول على بعض المزايا التي يوفرها لك في هذه النسخة الثنائية من { -brand-short-name } وفق الشروط المذكورة أدناه. إن لم ترغب باستخدام خدمة أو أكثر أو كنت لا توافق على الشروط أدناه فيمكنك تعطيل الميزة أو الخدمة. يمكنك الاطلاع على تعليمات عن تعطيل ميزة أو خدمة معينة <a data-l10n-name="mozilla-disable-service-link">هنا</a>. يمكن تعطيل الخصائص و الخدمات الأخرى من تفضيلات التطبيق.
 rights-locationawarebrowsing = <strong>التصفح المُدرِك للمكان: </strong>هو دائمًا اختياري.  لن تُرسل معلومات عن مكانك من غير إذنك.  إذا أردت تعطيل هذه الميزة كليًا، اتبع الخطوات التالية:
 rights-locationawarebrowsing-term-1 = في شريط العنوان، اكتب <code>about:config</code>
 rights-locationawarebrowsing-term-2 = اكتب geo.enabled

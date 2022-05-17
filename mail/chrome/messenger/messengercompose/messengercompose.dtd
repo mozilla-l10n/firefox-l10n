@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "صفحة وِب…">
 <!ENTITY attachPageCmd.accesskey "ص">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "بطاقة شخصية (vCard)">
-<!ENTITY attachVCardCmd.accesskey "ش">
 <!ENTITY remindLater.label "ذكّرني لاحقًا">
 <!ENTITY remindLater.accesskey "ذ">
 <!ENTITY closeCmd.label "أغلق">
@@ -148,16 +145,6 @@
 <!ENTITY returnReceiptMenu.accesskey "ص">
 <!ENTITY dsnMenu.label "تنويه حالة الاستلام">
 <!ENTITY dsnMenu.accesskey "ه">
-<!ENTITY deliveryFormatMenu.label "نسق التسليم">
-<!ENTITY deliveryFormatMenu.accesskey "س">
-<!ENTITY autoFormatCmd.label "تعرّف تلقائيّا">
-<!ENTITY autoFormatCmd.accesskey "ع">
-<!ENTITY plainTextFormatCmd.label "نص صِرْف فقط">
-<!ENTITY plainTextFormatCmd.accesskey "ن">
-<!ENTITY htmlFormatCmd.label "نص غني (HTML) فقط">
-<!ENTITY htmlFormatCmd.accesskey "غ">
-<!ENTITY bothFormatCmd.label "نص صِرْف وغني (HTML)">
-<!ENTITY bothFormatCmd.accesskey "ن">
 <!ENTITY priorityMenu.label "الأولويّة">
 <!ENTITY priorityMenu.accesskey "و">
 <!ENTITY priorityButton.title "الأولويّة">

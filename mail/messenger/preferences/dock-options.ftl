@@ -23,4 +23,3 @@ count-new-messages-radio =
     .label = عدد الرسائل الجديدة
     .accesskey = ع
 
-notification-settings-info = يمكنك تعطيل الشارة من لوحة التنويهات في تفضيلات النظام.

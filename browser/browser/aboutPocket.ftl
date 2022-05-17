@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = أضف وسومًا
+
 pocket-panel-saved-error-generic = حدث عطل أثناء محاولة الحفظ في { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = أقصى طول للوسم ٢٥ حرفًا
 pocket-panel-saved-error-only-links = لا يمكن حفظ إلا الوصلات
@@ -47,3 +48,8 @@ pocket-panel-home-paragraph = يمكنك عبر { -pocket-brand-name } استك�
 pocket-panel-home-explore-popular-topics = استكشف المواضيع الشائعة
 pocket-panel-home-discover-more = اكتشف المزيد
 pocket-panel-home-explore-more = استكشف
+
+## Pocket panel header component
+
+## Pocket panel buttons
+

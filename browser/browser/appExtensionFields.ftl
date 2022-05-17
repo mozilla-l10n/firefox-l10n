@@ -8,10 +8,13 @@
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = سمة النظام — تلقائي
 extension-default-theme-description = اتبع إعدادات نظام التشغيل لعرض الأزرار والقوائم والنوافذ.
+
 extension-firefox-compact-light-name = فاتحة
 extension-firefox-compact-light-description = سمة بمخطّط ألوان فاتح.
+
 extension-firefox-compact-dark-name = داكنة
 extension-firefox-compact-dark-description = سمة بمخطّط ألوان داكن.
+
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = استعمل مظهرًا ملونًا لعرض الأزرار والقوائم والنوافذ.
 

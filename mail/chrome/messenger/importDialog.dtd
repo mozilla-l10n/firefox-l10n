@@ -32,9 +32,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "المرشحات">
 <!ENTITY importFilters.accesskey  "ح">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "مرشد استيراد بريد &brandShortName;">
 <!ENTITY importShortDesc.label    "استورد البريد، ودفاتر العناوين، والإعدادات، والمرشحات من برامج أخرى">
 

@@ -44,8 +44,6 @@ inactive-css-not-grid-or-flex-container-fix = جرّب إضافة <strong>displa
 
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = جرّب إضافة <strong>display:grid</strong> أو <strong>display:flex</strong> أو <strong>columns:2</strong>. { learn-more }
 
-inactive-css-not-grid-or-flex-item-fix-2 = جرّب إضافة <strong>display:grid</strong> أو <strong>display:flex</strong> أو <strong>display:inline-grid</strong> أو <strong>display:inline-flex</strong>. { learn-more }
-
 inactive-css-not-grid-item-fix-2 = جرّب إضافة <strong>display:grid</strong> أو <strong>display:inline-grid</strong> إلى العنصر الأب. { learn-more }
 
 inactive-css-not-grid-container-fix = جرّب إضافة <strong>display:grid</strong> أو <strong>display:inline-grid</strong>. { learn-more }
