@@ -13,10 +13,6 @@ process-type-extension = Extensión
 # process used to open file:// URLs
 process-type-file = Archivo local
 
-# process used to isolate webpages that requested special
-# permission to allocate large amounts of memory
-process-type-weblargeallocation = Tutu kanu
-
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
 ##

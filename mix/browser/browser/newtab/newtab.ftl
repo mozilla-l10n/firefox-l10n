@@ -16,15 +16,9 @@ newtab-search-box-search-button =
     .title = Nduku
     .aria-label = Nduku
 
-newtab-search-box-search-the-web-input =
-    .placeholder = Nduku nu Web
-    .title = Nduku nu Web
-    .aria-label = Nduku nu Web
-
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Chika'a ñaa nduku
-newtab-topsites-add-topsites-header = Sitio ña ta'an inu
 newtab-topsites-edit-topsites-header = Sama sitio popular
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
@@ -149,7 +143,6 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = Sitios favoritos
-newtab-section-header-highlights = Destacados
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -164,6 +157,9 @@ newtab-discovery-empty-section-topstories-loading = Sachuin
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Temas populares:
 newtab-pocket-cta-button = Nduku { -pocket-brand-name }
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

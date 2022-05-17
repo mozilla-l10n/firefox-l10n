@@ -16,4 +16,3 @@ captivePortal-title = Kitsa nu red
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = Hmm. Dirección va'á
-remoteXUL-title = XUL remoto
