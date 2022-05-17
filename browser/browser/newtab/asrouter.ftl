@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Funcionalidad recomendada
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Por qué estoy viendo esto
+
 cfr-doorhanger-extension-cancel-button = Ahora no
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Añadir ahora
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = Gestionar ajustes de recomendaciones
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = No volver a mostrar esta recomendación
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = Aprender más
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = por { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomendación
 cfr-doorhanger-extension-notification2 = Recomendación
     .tooltiptext = Recomendación de extensión
     .a11y-announcement = Recomendación de extensión disponible
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recomendación
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Aprender más
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nueva funcionalidad:
+
 cfr-whatsnew-button =
     .label = Qué hay de nuevo
     .tooltiptext = Qué hay de nuevo
+
 cfr-whatsnew-release-notes-link-text = Lee las notas de la versión
 
 ## Enhanced Tracking Protection Milestones

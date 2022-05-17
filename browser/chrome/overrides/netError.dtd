@@ -138,8 +138,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Reporta errores como este para ayudar a Mozilla a identificar y bloquear sitios maliciosos">
 <!ENTITY errorReporting.learnMore "Aprender más…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacta a los dueños del sitio para informarles del problema.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Información avanzada: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -165,9 +163,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Parece que tus ajustes de seguridad de red están causando esto. ¿Quieres que se restauren los ajustes predeterminados?">
 <!ENTITY prefReset.label "Restaurar ajustes predeterminados">
-
-<!ENTITY enableTls10.longDesc "Este sitio podría no soportar el protocolo TLS 1.2, el cual es la versión mínima soportada por &brandShortName;. Activar TLS 1.0 y TLS 1.1 podría permitir que esta conexión sea exitosa.">
-<!ENTITY enableTls10.note "TLS 1.0 y TLS 1.1 serán deshabilitados permanentemente en una versión futura.">
-<!ENTITY enableTls10.label "Habilitar TLS 1.0 y 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>La página que estás intentando ver no puede ser mostrada debido a un error detectado en el protocolo de red.</p><ul><li>Por favor, contacta al propietario del sitio para informarle de este problema.</li></ul>">

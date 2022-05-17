@@ -6,7 +6,6 @@ privatebrowsingpage-open-private-window-label = Abrir una ventana privada
     .accesskey = P
 about-private-browsing-search-placeholder = Buscar en la Web
 about-private-browsing-info-title = Estás en una ventana privada
-about-private-browsing-info-myths = Mitos comunes sobre la navegación privada
 about-private-browsing-search-btn =
     .title = Buscar en la web
 # Variables
@@ -20,16 +19,15 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Busca con { $engine } o ingresa una dirección
 about-private-browsing-handoff-text-no-engine = Buscar o ingresar dirección
 about-private-browsing-not-private = Actualmente no estás en una ventana privada.
-about-private-browsing-info-description = { -brand-short-name } limpia tu historial de búsqueda y navegación cuando sales de la aplicación o cierras todas las pestañas y ventanas de navegación privada. Si bien esto no te deja en el anonimato ante los sitios web o tu proveedor de servicios de internet, hace que sea más fácil mantener privado lo que haces en línea para todos los otros que usen este computador.
-about-private-browsing-need-more-privacy = ¿Necesitas más privacidad?
-about-private-browsing-turn-on-vpn = Prueba { -mozilla-vpn-brand-name }
 about-private-browsing-info-description-private-window = Ventana privada: { -brand-short-name } elimina tu historial de búsqueda y navegación cuando cierras todas las ventanas privadas. Esto no te hace anónimo.
 about-private-browsing-info-description-simplified = { -brand-short-name } elimina tu historial de búsqueda y navegación cuando cierras todas las ventanas privadas, pero esto no te hace anónimo.
 about-private-browsing-learn-more-link = Aprender más
+
 about-private-browsing-hide-activity = Oculta tu actividad y ubicación, donde sea que navegues
 about-private-browsing-get-privacy = Obtén protecciones de privacidad donde sea que navegues
 about-private-browsing-hide-activity-1 = Oculta la actividad de navegación y la ubicación con { -mozilla-vpn-brand-name }. Con un clic creas una conexión segura, incluso en Wi-Fi público.
 about-private-browsing-prominent-cta = Mantente en privado con { -mozilla-vpn-brand-name }
+
 about-private-browsing-focus-promo-cta = Bajar { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Navegación privada en todas partes
 about-private-browsing-focus-promo-text = Nuestra aplicación móvil dedicada a la navegación privada borra tu historial y cookies cada vez.
@@ -40,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Lleva la navegación privada a tu 
 about-private-browsing-focus-promo-text-b = Usa { -focus-brand-name } para aquellas búsquedas privadas que no quieres que el navegador principal de tu celular vea.
 about-private-browsing-focus-promo-header-c = Privacidad de nivel superior en dispositivos móviles
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } limpia tu historial todo el tiempo mientras bloquea anuncios y rastreadores.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -52,7 +51,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Cerrar
-about-private-browsing-dismiss-button =
-    .title = Descartar
+
 about-private-browsing-promo-close-button =
     .title = Cerrar
