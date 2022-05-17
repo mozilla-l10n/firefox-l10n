@@ -21,5 +21,4 @@
 
 
 <!ENTITY gotoLineCmd.label         "Loncat ke baris…">
-<!ENTITY gotoLineCmd.key           "J">
 <!ENTITY gotoLineCmd.accesskey     "L">

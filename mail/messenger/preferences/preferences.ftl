@@ -5,8 +5,6 @@
 close-button =
     .aria-label = Tutup
 
-preferences-doc-title = Preferensi
-
 category-list =
     .aria-label = Kategori
 
@@ -165,9 +163,6 @@ restore-default-label =
     .accesskey = K
 
 default-search-engine = Mesin Pencari Baku
-add-search-engine =
-    .label = Tambahkan dari file
-    .accesskey = A
 remove-search-engine =
     .label = Hapus
     .accesskey = v
@@ -192,8 +187,6 @@ change-dock-icon = Ubah preferensi untuk ikon aplikasi
 app-icon-options =
     .label = Opsi Ikon Aplikasi...
     .accesskey = n
-
-notification-settings = Lansiran dan suara asal dapat dinonaktifkan pada panel Notifikasi di Preferensi Sistem.
 
 animated-alert-label =
     .label = Tampilkan peringatan
@@ -403,14 +396,6 @@ quoted-text-color =
 search-handler-table =
     .placeholder = Filter tipe dan tindakan konten
 
-type-column-label =
-    .label = Tipe Isi
-    .accesskey = T
-
-action-column-label =
-    .label = Aksi
-    .accesskey = A
-
 save-to-label =
     .label = Simpan berkas di
     .accesskey = S
@@ -562,12 +547,6 @@ restore-html-label =
 
 default-format-label =
     .label = Gunakan format Paragraf sebagai ganti Tubuh Teks secara tetap
-    .accesskey = P
-
-format-description = Atur pemformatan teks
-
-send-options-label =
-    .label = Pengaturan Pengiriman…
     .accesskey = P
 
 autocomplete-description = Saat menulis alamat email tujuan, cari item yang cocok di:
@@ -852,8 +831,6 @@ theme-label =
     .value = Tema:
     .accesskey = T
 
-style-thunderbird =
-    .label = Thunderbird
 style-bubbles =
     .label = Gelembung
 style-dark =
@@ -871,27 +848,10 @@ chat-variant-label =
     .value = Varian:
     .accesskey = V
 
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-preferences-input =
-    .style = width: 15.4em
-    .placeholder = Temukan dalam Preferensi
-
 ## Preferences UI Search Results
 
-search-results-header = Hasil Pencarian
+## Settings UI Search Results
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Maaf! Tidak ada hasil di Preferensi untuk “<span data-l10n-name="query"></span>”.
-       *[other] Maaf! Tidak ada hasil di Preferensi untuk “<span data-l10n-name="query"></span>”.
-    }
+search-results-header = Hasil Pencarian
 
 search-results-help-link = Perlu bantuan? Kunjungi <a data-l10n-name="url"> { -brand-short-name } Dukungan</a>

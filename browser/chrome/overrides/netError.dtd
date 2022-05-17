@@ -109,8 +109,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Laporkan kesalahan seperti ini untuk membantu Mozilla mengidentifikasi dan memblokir situs yang mencurigakan.">
 <!ENTITY errorReporting.learnMore "Pelajari lebih lanjut…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Hubungi pemilik situs web untuk memberitahukan masalah ini.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Info lebih lanjut: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -136,9 +134,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Tampaknya setelan keamanan jaringan Anda yang mungkin menyebabkan ini. Ingin setelan baku dipulihkan?">
 <!ENTITY prefReset.label "Pulihkan setelan baku">
-
-<!ENTITY enableTls10.longDesc "Situs web ini mungkin tidak mendukung protokol TLS 1.2, yang merupakan versi minimum yang didukung oleh &brandShortName;. Pengaktifkan TLS 1.0 dan TLS 1.1 mungkin bisa membuat koneksi bisa dilanjutkan.">
-<!ENTITY enableTls10.note "TLS 1.0 dan TLS 1.1 akan dinonaktifkan secara permanen dalam rilis yang akan datang.">
-<!ENTITY enableTls10.label "Aktifkan TLS 1.0 dan 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Laman yang ingin Anda lihat tidak dapat ditampilkan karena ada yang salah dalam protokol jaringan.</p><ul><li>Harap hubungi pemilik situs web untuk memberi tahu mereka tentang masalah ini.</li></ul>">

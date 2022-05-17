@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Fitur yang Direkomendasikan
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Mengapa saya melihat ini?
+
 cfr-doorhanger-extension-cancel-button = Jangan Sekarang
     .accesskey = J
+
 cfr-doorhanger-extension-ok-button = Tambahkan Sekarang
     .accesskey = T
+
 cfr-doorhanger-extension-manage-settings-button = Kelola Pengaturan Rekomendasi
     .accesskey = K
+
 cfr-doorhanger-extension-never-show-recommendation = Jangan Tampilkan Rekomendasi Ini
     .accesskey = T
+
 cfr-doorhanger-extension-learn-more-link = Pelajari lebih lanjut
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = oleh { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendasi
 cfr-doorhanger-extension-notification2 = Rekomendasi
     .tooltiptext = Rekomendasi ekstensi
     .a11y-announcement = Rekomendasi ekstensi tersedia
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekomendasi
@@ -75,9 +83,11 @@ cfr-protections-panel-link-text = Pelajari lebih lanjut
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Fitur baru:
+
 cfr-whatsnew-button =
     .label = Yang Baru
     .tooltiptext = Yang Baru
+
 cfr-whatsnew-release-notes-link-text = Baca catatan rilis
 
 ## Enhanced Tracking Protection Milestones

@@ -82,9 +82,6 @@
 <!ENTITY corruptedContentErrorv2.title "Galat Konten Rusak">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Laman yang akan dibuka tidak dapat ditampilkan karena ada terdeteksi galat pada pengiriman data.</p><ul><li>Mohon hubungi pemilik situs web mengenai masalah ini.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL Jarak Jauh">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Hubungi pemilik situs web untuk memberitahukan masalah ini.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Sambungan Anda tidak aman">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

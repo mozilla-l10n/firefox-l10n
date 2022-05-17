@@ -5,6 +5,7 @@
 
 e2e-intro-description = Untuk mengirim pesan terenkripsi atau bertanda tangan digital, Anda perlu mengkonfigurasi teknologi enkripsi, baik OpenPGP maupun S/MIME.
 e2e-intro-description-more = Pilih kunci pribadi Anda untuk mengaktifkan penggunaan OpenPGP, atau sertifikat pribadi Anda untuk mengaktifkan penggunaan S/MIME. Untuk kunci pribadi atau sertifikat, Anda memiliki kunci rahasia yang sesuai.
+
 e2e-advanced-section = Pengaturan tingkat lanjut
 e2e-attach-key =
     .label = Lampirkan kunci publik saya saat menambahkan tanda tangan digital OpenPGP
@@ -234,6 +235,7 @@ openpgp-key-man-key-details-key =
 
 openpgp-key-details-title =
     .title = Properti Kunci
+
 openpgp-key-details-signatures-tab =
     .label = Sertifikasi
 openpgp-key-details-structure-tab =
@@ -245,6 +247,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Tipe
 openpgp-key-details-key-part-label =
     .label = Bagian kunci
+
 openpgp-key-details-algorithm-label =
     .label = Algoritme
 openpgp-key-details-size-label =
@@ -276,7 +279,6 @@ openpgp-acceptance-verified-label =
 key-accept-personal =
     Untuk kunci ini, Anda memiliki bagian publik dan rahasia. Anda dapat menggunakannya sebagai kunci pribadi.
     Jika kunci ini diberikan kepada Anda oleh orang lain, jangan gunakan sebagai kunci pribadi.
-key-personal-warning = Apakah Anda membuat kunci ini sendiri, dan kepemilikan kunci yang ditampilkan mengacu pada diri Anda sendiri?
 openpgp-personal-no-label =
     .label = Tidak, jangan gunakan sebagai kunci pribadi saya.
 openpgp-personal-yes-label =
@@ -286,14 +288,6 @@ openpgp-copy-cmd-label =
     .label = Salin
 
 ## e2e encryption settings
-
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $identity (String) - the email address of the currently selected identity
-openpgp-description =
-    { $count ->
-        [0] Thunderbird tidak memiliki kunci pribadi OpenPGP yang terkait dengan <b>{ $identity }</b>
-       *[other] Thunderbird menemukan { $count } kunci pribadi OpenPGP yang terkait dengan <b>{ $identity }</b>
-    }
 
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Konfigurasi Anda saat ini menggunakan ID kunci <b>{ $key }</b>
@@ -372,15 +366,12 @@ key-expired-date = Kunci kedaluwarsa pada { $keyExpiry }
 key-expired-simple = Kunci sudah kedaluwarsa
 key-revoked-simple = Kunci sudah dicabut
 key-do-you-accept = Apakah Anda menerima kunci ini untuk memverifikasi tanda tangan digital dan untuk mengenkripsi pesan?
-key-accept-warning = Hindari menerima kunci tipuan. Gunakan saluran komunikasi selain surel untuk memverifikasi sidik jari kunci koresponden Anda.
 
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Tidak dapat mengirim pesan, karena ada masalah dengan kunci pribadi Anda. { $problem }
 cannot-encrypt-because-missing = Tidak dapat mengirim pesan ini dengan enkripsi ujung ke ujung, karena ada masalah dengan kunci dari penerima berikut: { $problem }
 window-locked = Jendela tulis terkunci; pengiriman dibatalkan
 
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Bagian pesan terenkripsi
 mime-decrypt-encrypted-part-concealed-data = Ini adalah bagian pesan terenkripsi. Anda perlu membukanya di jendela terpisah dengan mengklik lampiran.
 
 # Strings in keyserver.jsm
@@ -406,27 +397,6 @@ converter-decrypt-body-failed =
     Tidak dapat mendekripsi pesan dengan subjek
     { $subject }.
     Apakah Anda ingin mencoba lagi dengan frasa sandi yang berbeda atau ingin melewatkan pesan?
-
-# Strings in gpg.jsm
-unknown-signing-alg = Algoritme penandatanganan tidak diketahui (ID: { $id })
-unknown-hash-alg = Hash kriptografi tidak diketahui (ID: { $id })
-
-# Strings in keyUsability.jsm
-expiry-key-expires-soon =
-    Kunci Anda { $desc } akan kedaluwarsa dalam waktu kurang dari { $days } hari.
-    Kami menyarankan Anda untuk membuat pasangan kunci baru dan mengkonfigurasi akun yang sesuai untuk menggunakannya.
-expiry-keys-expire-soon =
-    Kunci Anda berikut akan kedaluwarsa dalam waktu kurang dari { $days } hari: { $desc }.
-    Kami menyarankan Anda membuat kunci baru dan mengkonfigurasi akun yang sesuai untuk menggunakannya.
-expiry-key-missing-owner-trust =
-    Kunci rahasia Anda { $desc } kurang kepercayaan.
-    Kami merekomendasikan agar Anda menetapkan "Anda mengandalkan sertifikasi" ke "ultimate" di properti utama.
-expiry-keys-missing-owner-trust =
-    Kunci rahasia berikut ini tidak memiliki kepercayaan.
-    { $desc }.
-    Kami merekomendasikan agar Anda menetapkan "Anda mengandalkan sertifikasi" ke "ultimate" di properti utama.
-expiry-open-key-manager = Buka Manajer Kunci OpenPGP
-expiry-open-key-properties = Buka Properti Kunci
 
 # Strings filters.jsm
 filter-folder-required = Anda harus memilih folder target.
@@ -660,19 +630,9 @@ send-to-news-warning =
     Hal ini tidak disarankan karena hanya masuk akal jika semua anggota grup dapat mendekripsi pesan, yaitu pesan perlu dienkripsi dengan kunci semua peserta grup. Harap kirim pesan ini hanya jika Anda tahu persis apa yang Anda lakukan.
     Lanjutkan?
 save-attachment-header = Simpan lampiran yang didekripsi
-no-temp-dir =
-    Tidak dapat menemukan direktori sementara untuk menulis
-    Harap setel variabel lingkungan TEMP
 possibly-pgp-mime = Mungkin pesan yang dienkripsi atau ditandatangani PGP/MIME; gunakan fungsi 'Dekripsi/Verifikasi' untuk memverifikasi
 cannot-send-sig-because-no-own-key = Tidak dapat menandatangani pesan ini secara digital, karena Anda belum mengonfigurasi enkripsi ujung-ke-ujung untuk <{ $key }>
 cannot-send-enc-because-no-own-key = Tidak dapat mengirim pesan ini dengan enkripsi, karena Anda belum mengonfigurasi enkripsi ujung-ke-ujung untuk <{ $key }>
-
-compose-menu-attach-key =
-    .label = Lampirkan Kunci Publik Saya
-    .accesskey = a
-compose-menu-encrypt-subject =
-    .label = Enkripsi Subjek
-    .accesskey = b
 
 # Strings used in decryption.jsm
 do-import-multiple =

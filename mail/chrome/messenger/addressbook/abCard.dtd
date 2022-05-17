@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Surel Tambahan:">
 <!ENTITY SecondEmail.accesskey          "i">
-<!ENTITY PreferMailFormat.label         "Memilih menerima pesan dalam format:">
-<!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "Teks Biasa">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Tidak diketahui">

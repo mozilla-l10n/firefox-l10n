@@ -132,9 +132,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "<p>Sebaiknya Anda tidak menambahkan pengecualian jika Anda sedang menggunakan jaringan internet yang tidak Anda percayai atau jika umumnya Anda tidak pernah melihat peringatan sejenis tentang server ini.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "XUL Jarak Jauh">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Hubungi pemilik situs web untuk memberitahukan masalah ini.</li></ul></p>">
-
 <!ENTITY sslv3Used.title "Gagal Tersambung dengan Aman">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->

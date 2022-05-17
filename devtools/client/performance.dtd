@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Jumlah munculan fungsi ini dalam stack saat profiler mengambil sampel.">
 <!ENTITY performanceUI.table.function                 "Fungsi">
 <!ENTITY performanceUI.table.function.tooltip         "Nama dan lokasi sumber fungsi yang disampling.">
-<!ENTITY performanceUI.table.totalAlloc               "Jumlah Alokasi Sampel">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Jumlah total alokasi Objek yang di-samping pada lokasi ini dan pemanggilnya.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

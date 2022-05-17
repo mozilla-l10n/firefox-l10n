@@ -34,7 +34,6 @@ about-telemetry-events-section = Acara
 about-telemetry-simple-measurements-section = Pengukuran Sederhana
 about-telemetry-slow-sql-section = Pernyataan SQL Lambat
 about-telemetry-addon-details-section = Detail Pengaya
-about-telemetry-captured-stacks-section = Stack Terekam
 about-telemetry-late-writes-section = Penulisan Di Akhir
 about-telemetry-raw-payload-section = Muatan Mentah
 about-telemetry-raw = JSON Mentah
@@ -120,10 +119,6 @@ about-telemetry-addon-provider = Penyedia { $addonProvider }
 about-telemetry-keys-header = Properti
 about-telemetry-names-header = Nama
 about-telemetry-values-header = Nilai
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (hitungan terekam: { $capturedStacksCount } )
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Penulisan Saat Akhir #{ $lateWriteCount }

@@ -28,3 +28,4 @@ openpgp-key-undecided = Tidak diterima (belum diputuskan)
 openpgp-key-rejected = Tidak diterima (ditolak)
 
 openpgp-intro = Kunci publik yang tersedia untuk { $key }
+

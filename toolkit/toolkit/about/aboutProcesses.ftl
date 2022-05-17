@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = Manajer Proses
+
 # The Actions column
 about-processes-column-action =
     .title = Tindakan
@@ -14,6 +15,7 @@ about-processes-shutdown-process =
     .title = Batal memuat tab dan hentikan proses
 about-processes-shutdown-tab =
     .title = Tutup tab
+
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -49,7 +51,9 @@ about-processes-socket-process = Jaringan ({ $pid })
 about-processes-remote-sandbox-broker-process = Broker Kotak Pasir Daring ({ $pid })
 about-processes-fork-server-process = Server Fork ({ $pid })
 about-processes-preallocated-process = Praalokasi ({ $pid })
+
 about-processes-utility-process = Utilitas ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -63,10 +67,8 @@ about-processes-unknown-process = Lainnya: { $type } ({ $pid })
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-web-large-allocation-process = { $origin } ({ $pid }, besar)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, terisolasi cross-origin)
 about-processes-web-isolated-process-private = { $origin } — Pribadi ({ $pid })
-about-processes-web-large-allocation-process-private = { $origin } — Pribadi ({ $pid }, besar)
 about-processes-with-coop-coep-process-private = { $origin } — Pribadi ({ $pid }, terisolasi cross-origin)
 
 ## Details within processes
@@ -85,6 +87,7 @@ about-processes-active-threads =
     { $active ->
        *[other] { $active } utas aktif dari { $number }: { $list }
     }
+
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -95,26 +98,31 @@ about-processes-inactive-threads =
     { $number ->
        *[other] { $number } utas tidak aktif
     }
+
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = ID utas: { $tid }
+
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Tab: { $name }
 about-processes-preloaded-tab = Tab Baru Pramuat
+
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Subframe: { $url }
+
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Subframe ({ $number }): { $shortUrl }
+
 # Utility process actor names
 about-processes-utility-actor-unknown = Aktor tidak dikenal
 about-processes-utility-actor-audio-decoder = Dekoder Audio
@@ -131,15 +139,15 @@ about-processes-utility-actor-audio-decoder = Dekoder Audio
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Waktu CPU total: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (mengukur)
-# Special case: process or thread is currently idle.
-about-processes-cpu-idle = menganggur
-    .title = Waktu CPU total: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
+
 # Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
 # This case only occurs on Windows where the precision of the CPU times is low.
 about-processes-cpu-almost-idle = < 0.1%
     .title = Total waktu CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = menganggur
     .title = Total waktu CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
@@ -158,6 +166,7 @@ about-processes-cpu-fully-idle = menganggur
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = Evolusi: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
+
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 

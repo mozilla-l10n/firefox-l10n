@@ -23,4 +23,3 @@ count-new-messages-radio =
     .label = Jumlah pesan baru
     .accesskey = n
 
-notification-settings-info = Anda bisa menonaktifkan lencana pada panel Notifikasi di Preferensi Sistem.

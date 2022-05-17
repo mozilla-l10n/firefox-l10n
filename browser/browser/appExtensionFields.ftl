@@ -8,10 +8,13 @@
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = Tema sistem — otomatis
 extension-default-theme-description = Ikuti pengaturan sistem operasi untuk tombol, menu, dan jendela.
+
 extension-firefox-compact-light-name = Terang
 extension-firefox-compact-light-description = Tema dengan skema warna terang.
+
 extension-firefox-compact-dark-name = Gelap
 extension-firefox-compact-dark-description = Tema dengan skema warna gelap.
+
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Gunakan tampilan berwarna untuk tombol, menu, dan jendela.
 
