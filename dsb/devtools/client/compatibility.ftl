@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (zestarjony, eksperim
 compatibility-settings-button-label = Nastajenja
 compatibility-settings-button-title =
     .title = Nastajenja
-compatibility-feedback-button-label = Komentary
-compatibility-feedback-button-title =
-    .title = Komentary
 
 ## Messages used as headers in settings pane
 
@@ -44,9 +41,11 @@ compatibility-issue-occurrences =
         [few] { $number } wustupowanja
        *[other] { $number } wustupowanjow
     }
+
 compatibility-no-issues-found = Žedne problemy kompatibelnosći namakane.
 compatibility-close-settings-button =
     .title = Nastajenja zacyniś
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

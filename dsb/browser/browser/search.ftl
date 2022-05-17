@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = Instalaciska zmólka
 opensearch-error-duplicate-desc = { -brand-short-name } njejo mógał pytański tykac z "{ $location-url }" instalěrowaś, dokulaž pytnica z tym samskim mjenim južo eksistěrujo.
+
 opensearch-error-format-title = Njepłaśiwy format
 opensearch-error-format-desc = { -brand-short-name } njejo mógł pytnicu instalěrowaś z: { $location-url }
+
 opensearch-error-download-title = Ześěgnjeńska zmólka
 opensearch-error-download-desc = { -brand-short-name } njejo mógał pytański tykac ześěgnuś z: { $location-url }
 
@@ -19,9 +21,11 @@ opensearch-error-download-desc = { -brand-short-name } njejo mógał pytański t
 
 searchbar-submit =
     .tooltiptext = Pytanje startowaś
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Pytaś
+
 searchbar-icon =
     .tooltiptext = Pytaś
 
@@ -30,6 +34,5 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-remove-search-engine-message = <strong>Waša standardna pytnica jo se změniła.</strong> { -brand-short-name } { $oldEngine } wěcej njepódpěra. { $newEngine } jo něnto waša standardna pytnica. Aby standardnu pytnicu změnił, źiśo do nastajenjow. <label data-l10n-name="remove-search-engine-article">Dalšne informacije</label>
 removed-search-engine-message = <strong>Waša standardna pytnica jo se změniła.</strong> { $oldEngine } njejo wěcej ako standardna pytnica w { -brand-short-name } k dispoziciji. { $newEngine } jo něnto waša standardna pytnica. Aby standardnu pytnicu změnił, źiśo do nastajenjow. <label data-l10n-name="remove-search-engine-article">Dalšne informacije</label>
 remove-search-engine-button = W pórěźe

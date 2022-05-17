@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "w">
 <!ENTITY newVirtualFolderCmd.label "Skłaźone pytanje…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newOtherAccountsCmd.label "Druge konta…">
-<!ENTITY newOtherAccountsCmd.accesskey "u">
 <!ENTITY newCreateEmailAccountCmd.label "Nowe e-mailowe konto wobstaraś…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "N">
 <!ENTITY newExistingEmailAccountCmd.label "Eksistěrujuce e-mailowe konto…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "k">
 <!ENTITY saveAsMenu.label "Składowaś ako">
 <!ENTITY saveAsMenu.accesskey "S">
-<!ENTITY saveAsFileCmd.label "Dataja">
-<!ENTITY saveAsFileCmd.accesskey "D">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Pśedłoga">
 <!ENTITY saveAsTemplateCmd.accesskey "P">

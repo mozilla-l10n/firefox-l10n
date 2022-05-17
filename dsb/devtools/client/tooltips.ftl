@@ -56,8 +56,6 @@ inactive-css-not-grid-or-flex-container-fix = Wppytajśo <strong>display:grid</s
 
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Wopytajśo <strong>display:grid</strong>, <strong>display:flex</strong> abo <strong>columns:2</strong> pśidaś. { learn-more }
 
-inactive-css-not-grid-or-flex-item-fix-2 = Wopytajśo <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> abo <strong>display:inline-flex</strong> pśidaś. { learn-more }
-
 inactive-css-not-grid-or-flex-item-fix-3 = Wopytajśo nadrědowanemu elementoju <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> abo <strong>display:inline-flex</strong> pśidaś. { learn-more }
 
 inactive-css-not-grid-item-fix-2 = Wopytajśo <strong>display:grid</strong> abo <strong>display:inline-grid</strong> nadrědowanemu elementoju pśidaś. { learn-more }
