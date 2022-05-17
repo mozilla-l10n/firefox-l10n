@@ -17,8 +17,6 @@
 <!ENTITY addIMAccountButton.accesskey "C">
 <!ENTITY addFeedAccountButton.label "Cuir Cuntas Fotha Leis…">
 <!ENTITY addFeedAccountButton.accesskey "F">
-<!ENTITY addOtherAccountButton.label "Cuir Cuntas Eile Leis…">
-<!ENTITY addOtherAccountButton.accesskey "E">
 <!ENTITY setDefaultButton.label "Socraigh mar Réamhshocrú">
 <!ENTITY setDefaultButton.accesskey "R">
 <!ENTITY removeButton.label "Bain Cuntas">
@@ -35,6 +33,4 @@
      this window for en-US. -->
 
 <!-- AccountManager.xhtml -->
-<!-- AccountManager.xhtml -->
-<!ENTITY accountManager.size "width: 115ch; height: 60em;">
-<!ENTITY accountTree.width "width: 35ch;">
+

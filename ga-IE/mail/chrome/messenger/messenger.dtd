@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "N">
 <!ENTITY newVirtualFolderCmd.label "Cuardach Sábháilte…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newOtherAccountsCmd.label "Cuntais Eile… ">
-<!ENTITY newOtherAccountsCmd.accesskey "C">
 <!ENTITY newCreateEmailAccountCmd.label "Faigh cuntas nua ríomhphoist…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "g">
 <!ENTITY newExistingEmailAccountCmd.label "Cuntas ríomhphoist atá ann…">
@@ -40,8 +38,6 @@
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Sábháil Mar">
 <!ENTITY saveAsMenu.accesskey "a">
-<!ENTITY saveAsFileCmd.label "Comhad">
-<!ENTITY saveAsFileCmd.accesskey "C">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Teimpléad">
 <!ENTITY saveAsTemplateCmd.accesskey "T">

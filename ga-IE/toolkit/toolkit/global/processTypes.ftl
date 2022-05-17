@@ -21,10 +21,6 @@ process-type-extension = Eisínteacht
 # process used to open file:// URLs
 process-type-file = Comhad Áitiúil
 
-# process used to isolate webpages that requested special
-# permission to allocate large amounts of memory
-process-type-weblargeallocation = Leithdháileadh Mór
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Ábhar Gréasáin Scoite

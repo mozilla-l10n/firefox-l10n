@@ -101,9 +101,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "<p>Ná cruthaigh eisceacht mura bhfuil muinín agat as do cheangal Idirlín nó mura fheiceann tú rabhadh maidir leis an bhfreastalaí seo go rialta.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "XUL Cianda">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Téigh i dteagmháil le húinéir an tsuímh agus inis dóibh faoin fhadhb seo.</li></ul></p>">
-
 <!ENTITY sslv3Used.title "Ní féidir ceangal slán a bhunú">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->

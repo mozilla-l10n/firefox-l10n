@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Cuardach
     .aria-label = Cuardach
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Cuardaigh le { $engine } nó cuir isteach seoladh
@@ -29,10 +30,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Cuardaigh nó cuir isteach seoladh
     .title = Cuardaigh nó cuir isteach seoladh
     .aria-label = Cuardaigh nó cuir isteach seoladh
-newtab-search-box-search-the-web-input =
-    .placeholder = Cuardaigh an Gréasán
-    .title = Cuardaigh an Gréasán
-    .aria-label = Cuardaigh an Gréasán
+
 newtab-search-box-text = Cuardaigh an gréasán
 newtab-search-box-input =
     .placeholder = Cuardaigh an Gréasán
@@ -41,11 +39,11 @@ newtab-search-box-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Cuir Inneall Cuardaigh Leis
-newtab-topsites-add-topsites-header = Barrshuíomh Nua
 newtab-topsites-edit-topsites-header = Cuir an Barrshuíomh in Eagar
 newtab-topsites-title-label = Teideal
 newtab-topsites-title-input =
     .placeholder = Cuir teideal isteach
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Clóscríobh nó greamaigh URL
@@ -125,7 +123,6 @@ newtab-section-menu-add-search-engine = Cuir Inneall Cuardaigh Leis
 ## Section Headers.
 
 newtab-section-header-topsites = Barrshuímh
-newtab-section-header-highlights = Buaicphointí
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Molta ag { $provider }

@@ -36,6 +36,7 @@ url-classifier-debug-sb-modules = Logmhodúil: Slánbhrabhsáil
 url-classifier-debug-modules = Logmhodúil reatha
 url-classifier-debug-sbjs-modules = Logchomhad JS: Slánbhrabhsáil
 url-classifier-debug-file = An logchomhad reatha
+
 url-classifier-trigger-update = Cuir tús le Nuashonrú
 url-classifier-not-available = N/A/F
 url-classifier-disable-sbjs-log = Díchumasaigh an Logchomhad JS le linn Slánbhrabhsála

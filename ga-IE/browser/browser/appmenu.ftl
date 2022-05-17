@@ -23,6 +23,7 @@ appmenuitem-zoom =
     .value = Súmáil
 appmenuitem-help =
     .label = Cabhair
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -41,18 +42,24 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Níl aon chluaisín ar oscailt
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Las sioncronú cluaisíní chun liosta cluaisíní ó do ghléasanna eile a fheiceáil.
+
 appmenu-remote-tabs-opensettings =
     .label = Socruithe
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Ar mhaith leat cluaisíní ó ghléasanna eile a fheiceáil anseo?
+
 appmenu-remote-tabs-connectdevice =
     .label = Ceangail Gléas Eile
 appmenu-remote-tabs-welcome = Amharc ar liosta cluaisíní ó do ghléasanna eile.
 appmenu-remote-tabs-unverified = Ní mór duit do chuntas a dheimhniú.
+
 appmenuitem-fxa-sign-in = Logáil isteach i { -brand-product-name }
+
 appmenuitem-save-page =
     .label = Sábháil an Leathanach Mar…
 
@@ -95,9 +102,6 @@ appmenu-about =
     .accesskey = M
 appmenu-help-report-site-issue =
     .label = Tuairiscigh Fadhb le Suíomh…
-appmenu-help-feedback-page =
-    .label = Seol Aiseolas Chugainn…
-    .accesskey = S
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -115,5 +119,3 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
-appmenu-taskmanager =
-    .label = Bainisteoir Tascanna
