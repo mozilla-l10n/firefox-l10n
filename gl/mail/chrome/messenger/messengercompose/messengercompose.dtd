@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Páxina web…">
 <!ENTITY attachPageCmd.accesskey "x">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Tarxeta persoal (vCard)">
-<!ENTITY attachVCardCmd.accesskey "p">
 <!ENTITY remindLater.label "Lembrarmo máis tarde">
 <!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Pechar">
@@ -148,16 +145,6 @@
 <!ENTITY returnReceiptMenu.accesskey "v">
 <!ENTITY dsnMenu.label "Notificación do estado de envío">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY deliveryFormatMenu.label "Formato de envío">
-<!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "Detección automática">
-<!ENTITY autoFormatCmd.accesskey "a">
-<!ENTITY plainTextFormatCmd.label "Só texto sen formato">
-<!ENTITY plainTextFormatCmd.accesskey "n">
-<!ENTITY htmlFormatCmd.label "Só texto enriquecido (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "x">
-<!ENTITY bothFormatCmd.label "Texto sen formato e texto enriquecido (HTML)">
-<!ENTITY bothFormatCmd.accesskey "s">
 <!ENTITY priorityMenu.label "Prioridade">
 <!ENTITY priorityMenu.accesskey "d">
 <!ENTITY priorityButton.title "Prioridade">
@@ -221,7 +208,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Outros tipos de campos de enderezo">
 <!ENTITY fromAddr2.label "De">
 <!ENTITY fromAddr.accesskey "e">
 <!ENTITY replyAddr2.label "Responder a">

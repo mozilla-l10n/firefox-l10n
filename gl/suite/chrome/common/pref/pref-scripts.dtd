@@ -4,9 +4,6 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
-<!ENTITY pref.scripts.title              "Scripts e engadidos">
-
 <!ENTITY navigator.label                 "Navegador">
 <!ENTITY navigator.accesskey             "N">
 
@@ -20,12 +17,3 @@
 <!ENTITY allowContextmenuDisable.label   "Desactivar ou substituír menús de contexto">
 <!ENTITY allowHideStatusBar.label        "Ocultar a barra de estado">
 
-<!ENTITY enablePlugins.label             "Activar os engadidos para">
-<!ENTITY enablePluginForSuite.label      "Suite">
-<!ENTITY enablePluginForSuite.accesskey  "u">
-
-<!ENTITY whenPageRequiresPlugins.label   "Cando unha páxina requira engadidos">
-<!ENTITY activateAllPlugins.label        "Activar todos os engadidos de forma predeterminada">
-<!ENTITY activateAllPlugins.accesskey    "d">
-<!ENTITY warnPluginsRequired.label       "Avisarme se é necesaro instalar un engadido adicional">
-<!ENTITY warnPluginsRequired.accesskey   "v">

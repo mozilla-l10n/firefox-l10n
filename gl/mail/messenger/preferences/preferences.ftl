@@ -5,8 +5,6 @@
 close-button =
     .aria-label = Pechar
 
-preferences-doc-title = Preferencias
-
 category-list =
     .aria-label = Categorías
 
@@ -165,9 +163,6 @@ restore-default-label =
     .accesskey = R
 
 default-search-engine = Buscador predeterminado
-add-search-engine =
-    .label = Engadir desde un ficheiro
-    .accesskey = a
 remove-search-engine =
     .label = Retirar
     .accesskey = R
@@ -196,8 +191,6 @@ change-dock-icon = Cambiar as preferencias da icona da aplicación
 app-icon-options =
     .label = Opcións da icona da aplicación…
     .accesskey = n
-
-notification-settings = As alertas e o son predeterminado poden desactivarse no panel de notificacións das preferencias do sistema.
 
 animated-alert-label =
     .label = Amosar un aviso
@@ -411,14 +404,6 @@ quoted-text-color =
 search-handler-table =
     .placeholder = Filtrar os tipos de contido e as accións
 
-type-column-label =
-    .label = Tipo de contido
-    .accesskey = T
-
-action-column-label =
-    .label = Acción
-    .accesskey = A
-
 save-to-label =
     .label = Gardar ficheiros en
     .accesskey = G
@@ -571,12 +556,6 @@ restore-html-label =
 default-format-label =
     .label = Usar o formato «Parágrafo» no canto de «Corpo do texto» de xeito predeterminado
     .accesskey = P
-
-format-description = Configurar o comportamento do formato do texto
-
-send-options-label =
-    .label = Opcións de envío…
-    .accesskey = O
 
 autocomplete-description = Ao enviar mensaxes buscar entradas coincidentes en:
 
@@ -858,8 +837,6 @@ theme-label =
     .value = Tema:
     .accesskey = T
 
-style-thunderbird =
-    .label = Thunderbird
 style-bubbles =
     .label = Burbullas
 style-dark =
@@ -877,27 +854,10 @@ chat-variant-label =
     .value = Variante:
     .accesskey = V
 
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-preferences-input =
-    .style = width: 16.4em
-    .placeholder = Buscar nas preferencias
-
 ## Preferences UI Search Results
 
-search-results-header = Resultados da busca
+## Settings UI Search Results
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Sentímolo! Non hai resultados nas opcións para «<span data-l10n-name="query"></span>».
-       *[other] Sentímolo! Non hai resultados nas preferencias para «<span data-l10n-name="query"></span>».
-    }
+search-results-header = Resultados da busca
 
 search-results-help-link = Precisa axuda? Visite a <a data-l10n-name="url">asistencia do { -brand-short-name }</a>

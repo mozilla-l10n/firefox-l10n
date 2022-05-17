@@ -7,10 +7,6 @@
 <!ENTITY pref.content.title                     "Contido">
 <!ENTITY pref.content.description               "Estas configuracións inflúen en como se mostra o contido dos sitios web e as mensaxes no &brandShortName;.">
 
-<!ENTITY siteIcons.label                        "Iconas do sitio web">
-<!ENTITY useSiteIcons.label                     "Mostrar as iconas do sitio web">
-<!ENTITY useSiteIcons.accesskey                 "s">
-
 <!ENTITY useSmoothScroll.label                  "Utilizar desprazamento suave">
 <!ENTITY useSmoothScroll.accesskey              "U">
 
@@ -23,6 +19,4 @@
 
 <!ENTITY allowHWAccel.label                     "Usar a aceleración por hardware cando estea dispoñíbel">
 <!ENTITY allowHWAccel.accesskey                 "e">
-<!ENTITY blockAutoRefresh.label                 "Avisarme cando os sitios web tenten redireccionar ou recargar a páxina">
-<!ENTITY blockAutoRefresh.accesskey             "w">
 

@@ -5,6 +5,7 @@
 
 e2e-intro-description = Para enviar mensaxes cifradas ou asinadas dixitalmente, cómpre configurar unha tecnoloxía de cifrado, pode ser OpenPGP ou S/MIME.
 e2e-intro-description-more = Seleccione a súa chave persoal para activar o uso de OpenPGP ou o seu certificado persoal para activar o uso de S/MIME. Debe posuír a correspondente chave secreta da chave persoal ou do certificado.
+
 e2e-advanced-section = Configuración avanzada
 e2e-attach-key =
     .label = Anexar a miña chave pública ao engadir unha sinatura dixital OpenPGP
@@ -240,6 +241,7 @@ openpgp-key-man-key-details-key =
 
 openpgp-key-details-title =
     .title = Propiedades da chave
+
 openpgp-key-details-signatures-tab =
     .label = Certificacións
 openpgp-key-details-structure-tab =
@@ -252,6 +254,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Tipo
 openpgp-key-details-key-part-label =
     .label = Parte da clave
+
 openpgp-key-details-algorithm-label =
     .label = Algoritmo
 openpgp-key-details-size-label =
@@ -268,7 +271,6 @@ openpgp-key-details-fingerprint-label = Impresión dixital
 openpgp-key-details-sel-action =
     .label = Seleccionar unha acción…
     .accesskey = S
-openpgp-key-details-also-known-label = Presuntas identidades alternativas do propietario da chave:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Pechar
 openpgp-acceptance-label =
@@ -284,7 +286,6 @@ openpgp-acceptance-verified-label =
 key-accept-personal =
     Para esta chave, ten tanto a parte pública como a secreta. Pode usala como chave persoal.
     Se alguén lle deu esta chave, entón non a use como chave persoal.
-key-personal-warning = Creou vostede esta chave e a propiedade da chave amosada refírese a si mesmo?
 openpgp-personal-no-label =
     .label = Non, non usar como a miña chave persoal.
 openpgp-personal-yes-label =
@@ -294,15 +295,6 @@ openpgp-copy-cmd-label =
     .label = Copiar
 
 ## e2e encryption settings
-
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $identity (String) - the email address of the currently selected identity
-openpgp-description =
-    { $count ->
-        [0] Thunderbird non atopou ningunha chave OpenPGP persoal asociada a <b>{ $identity }</b>
-        [one] Thunderbird atopou { $count } chave OpenPGP persoal asociada a <b>{ $identity }</b>
-       *[other] Thunderbird atopou { $count } chaves OpenPGP persoais asociadas a <b>{ $identity }</b>
-    }
 
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = A súa configuración actual utiliza a chave co identificador <b>{ $key }</b>
@@ -381,15 +373,12 @@ key-expired-date = A chave caducou o { $keyExpiry }
 key-expired-simple = A chave caducou
 key-revoked-simple = A chave foi revogada
 key-do-you-accept = Acepta esta chave para verificar sinaturas dixitais e cifrar mensaxes?
-key-accept-warning = Evite aceptar unha chave falsa. Utilice unha canle de comunicación diferente do correo electrónico para verificar a impresión dixital da chave do seu correspondente.
 
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Non se puido enviar a mensaxe porque hai un problema coa súa chave persoal. { $problema }
 cannot-encrypt-because-missing = Non se puido enviar esta mensaxe co cifrado de extremo a extremo porque hai problemas coas chaves dos seguintes destinatarios: { $problem }
 window-locked = A xanela de redacción está bloqueada; cancelouse o envío
 
-# Strings in mimeDecrypt.jsm
-mime-decrypt-encrypted-part-attachment-label = Parte da mensaxe cifrada
 mime-decrypt-encrypted-part-concealed-data = Esta é unha parte da mensaxe cifrada. Debe abrila nunha xanela separada facendo clic no anexo.
 
 # Strings in keyserver.jsm
@@ -415,27 +404,6 @@ converter-decrypt-body-failed =
     Non se puido descifrar a mensaxe co asunto
     { $subject }.
     Quere tentalo de novo cunha frase de contrasinal diferente ou quere ignorar a mensaxe?
-
-# Strings in gpg.jsm
-unknown-signing-alg = O algoritmo de sinatura é descoñecido (Identificador: { $id })
-unknown-hash-alg = A cadea de verificación criptográfica é descoñecida (ID: { $id })
-
-# Strings in keyUsability.jsm
-expiry-key-expires-soon =
-    A súa clave { $desc } caducará en menos de { $days } días.
-    Recomendámoslle que cree un novo par de chaves e configure as contas correspondentes para usalo.
-expiry-keys-expire-soon =
-    As seguintes chaves caducarán en menos de { $days } días: { $desc }.
-    Recomendámoslle crear novas chaves e configurar as contas correspondentes para usalas.
-expiry-key-missing-owner-trust =
-    Falta a confianza da súa chave secreta { $desc }.
-    Recomendámoslle que configure «Confía nas certificacións» como «definitivo» nas propiedades chave.
-expiry-keys-missing-owner-trust =
-    Falta a confianza das seguintes chaves secretas.
-    { $desc }.
-    Recomendámoslle que configure «Confía nas certificacións» como «definitivo» nas propiedades chave.
-expiry-open-key-manager = Abrir o Xestor de chaves OpenPGP
-expiry-open-key-properties = Abrir as propiedades chave
 
 # Strings filters.jsm
 filter-folder-required = Debe seleccionar un cartafol de destino.
@@ -669,19 +637,9 @@ send-to-news-warning =
     Isto desaconséllase porque só ten sentido se todos os membros do grupo poden descifrar a mensaxe, é dicir, a mensaxe debe cifrarse coas claves de todos os participantes do grupo. Envíe esta mensaxe só se sabe exactamente o que está a facer.
     Quere continuar?
 save-attachment-header = Gardar o anexo descifrado
-no-temp-dir =
-    Non se puido atopar un directorio temporal no que escribir
-    Configure a variábel de contorno TEMP
 possibly-pgp-mime = Posibelmente a mensaxe está cifrada ou asinada PGP/MIME; use a función «Descifrar/Verificar» para verificar
 cannot-send-sig-because-no-own-key = Non se pode asinar dixitalmente esta mensaxe porque aínda non configurou o cifrado de extremo a extremo para <{ $key }>
 cannot-send-enc-because-no-own-key = Non se pode enviar esta mensaxe porque aínda non configurou o cifrado de extremo a extremo para <{ $key }>
-
-compose-menu-attach-key =
-    .label = Anexar a miña chave pública
-    .accesskey = A
-compose-menu-encrypt-subject =
-    .label = Cifraxe do asunto
-    .accesskey = C
 
 # Strings used in decryption.jsm
 do-import-multiple =

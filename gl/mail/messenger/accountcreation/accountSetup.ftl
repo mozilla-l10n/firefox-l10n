@@ -55,9 +55,6 @@ account-setup-password-label = Contrasinal
 account-provisioner-button = Obter un novo enderezo de correo electrónico
     .accesskey = n
 
-account-setup-password-toggle =
-    .title = Amosar/Agochar o contrasinal
-
 account-setup-password-toggle-show =
     .title = Amosar o contrasinal
 
@@ -184,18 +181,9 @@ account-setup-results-area-title =
        *[other] Configuracións dispoñíbeis
     }
 
-# Note: IMAP is the name of a protocol.
-account-setup-result-imap = IMAP
-
 account-setup-result-imap-description = Gardar os seus cartafoles e correos electrónicos sincronizados co servidor
 
-# Note: POP3 is the name of a protocol.
-account-setup-result-pop = POP3
-
 account-setup-result-pop-description = Gardar os seus cartafoles e correos electrónicos no seu computador
-
-# Note: Exchange is the name of a product.
-account-setup-result-exchange = Exchange
 
 # Note: Exchange, Office365 are the name of products.
 account-setup-result-exchange2-description = Use o servidor Microsoft Exchange ou os servizos na nube do Office365
@@ -207,8 +195,6 @@ account-setup-outgoing-title = Saínte
 account-setup-username-title = Nome de usuario
 
 account-setup-exchange-title = Servidor
-
-account-setup-result-smtp = SMTP
 
 account-setup-result-no-encryption = Sen cifraxe
 
@@ -241,12 +227,6 @@ account-setup-manual-config-title = Configuración do servidor
 account-setup-incoming-server-legend = Servidor entrante
 
 account-setup-protocol-label = Protocolo:
-
-protocol-imap-option = { account-setup-result-imap }
-
-protocol-pop-option = { account-setup-result-pop }
-
-protocol-exchange-option = { account-setup-result-exchange }
 
 account-setup-hostname-label = Nome do servidor:
 

@@ -47,7 +47,6 @@ newsgroups-label = Grupos de noticias
 newsgroups-description = O { -brand-short-name } permítelle conectarse a todos os grupos de noticias que queira.
 
 import-title = Importar doutro programa
-import-paragraph = O { -brand-short-name } permítelle importar mensaxes de correo, elementos da axenda de enderezos, subscricións de fontes de noticias, preferencias e/ou filtros doutros programas de correo e formatos comúns de axenda de enderezos.
 
 import-label = Importar
     .aria-label = Importar datos doutros programas

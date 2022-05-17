@@ -123,13 +123,6 @@ openpgp-import-key-description = Pode importar chaves persoais que se crearon co
 
 openpgp-import-key-info = Outro software pode describir unha chave persoal usando termos alternativos como: chave propia, chave secreta, chave privada ou par de chaves.
 
-#   $count (Number) - the number of keys found in the selected files
-openpgp-import-key-list-amount =
-    { $count ->
-        [one] O Thunderbird atopou unha chave que pode ser importada.
-       *[other] O Thunderbird atopou { $count } chaves que poden ser importadas.
-    }
-
 openpgp-import-key-list-description = Confirma que chaves poden tratarse como as súas chaves persoais. Só as chaves que creou vostede e que amosan a súa propia identidade deben usarse como chaves persoais. Pode mudar esta opción máis tarde na xanela Propiedades da chave.
 
 openpgp-import-key-list-caption = As chaves marcadas para ser tratadas como chaves persoais aparecerán na sección Cifrado de extremo a extremo. As outras estarán dispoñíbeis dentro do Xestor de chaves.

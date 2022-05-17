@@ -4,17 +4,12 @@
 
 export-dialog-brand-name = { -brand-product-name }
 
-export-dialog-window =
-    .title = Exportar
-
 export-dialog =
     .buttonlabelaccept = Seguinte
 
 export-dialog-button-finish = Finalizar
 
 export-dialog-file-picker = Exportar a un ficheiro zip
-
-export-dialog-desc1 = Exportar as contas de correo, mensaxes de correo, axendas de enderezos e preferencias a un ficheiro zip.
 
 export-dialog-desc2 = Cando sexa necesario, pode importar o ficheiro zip para restaurar o seu perfil.
 

@@ -61,9 +61,6 @@ about-webrtc-ice-component-id = ID do compoñente
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
-about-webrtc-avg-bitrate-label = Bitrate medio
-about-webrtc-avg-framerate-label = Framerate medio
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.

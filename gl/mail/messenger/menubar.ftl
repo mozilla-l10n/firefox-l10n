@@ -7,12 +7,6 @@
 
 ## Tools Menu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-menu-tools-preferences =
-    .label = Preferencias
-    .accesskey = P
-
 menu-addons-and-themes =
     .label = Complementos e temas
     .accesskey = a

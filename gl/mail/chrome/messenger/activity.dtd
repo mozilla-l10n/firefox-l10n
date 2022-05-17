@@ -10,28 +10,10 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                  "Xestor de actividade">
 
-<!ENTITY cmd.pause.label                  "Pausa">
-<!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Retomar">
-<!ENTITY cmd.resume.accesskey             "R">
-<!ENTITY cmd.cancel.label                 "Cancelar">
-<!ENTITY cmd.cancel.accesskey             "C">
-<!ENTITY cmd.undo.label                   "Desfacer">
-<!ENTITY cmd.undo.accesskey               "D">
-<!ENTITY cmd.recover.label                "Recuperar">
-<!ENTITY cmd.recover.accesskey            "R">
-<!ENTITY cmd.retry.label                  "Tentar de novo">
-<!ENTITY cmd.retry.accesskey              "T">
-<!ENTITY cmd.removeFromList.label         "Eliminar da lista">
-<!ENTITY cmd.removeFromList.accesskey     "E">
-
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Borrar Lista">
 <!ENTITY cmd.clearList.tooltip            "Borra items completados, cancelados e fallados da lista">
 <!ENTITY cmd.clearList.accesskey          "B">
-<!ENTITY cmd.find.commandkey              "f">
-<!ENTITY cmd.search.commandkey            "k">
 
-<!ENTITY searchBox.label                  "A buscar…">

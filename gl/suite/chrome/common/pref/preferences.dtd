@@ -28,13 +28,11 @@
 <!ENTITY images.label "Imaxes">
 <!ENTITY popups.label "Xanelas emerxentes">
 <!ENTITY passwords.label "Contrasinais">
-<!ENTITY masterpass.label "Contrasinais principais">
 <!ENTITY certs.label "Certificados">
 
 <!ENTITY sync.label "Sync">
 
 <!ENTITY advance.label "Opcións avanzadas">
-<!ENTITY scriptsAndWindows.label "Scripts e engadidos">
 <!ENTITY keynav.label "Navegación con teclado">
 <!ENTITY findAsYouType.label "Atopar mentres escribe">
 <!ENTITY cache.label "Caché">

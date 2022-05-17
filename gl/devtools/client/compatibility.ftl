@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (obsoleto, experiment
 compatibility-settings-button-label = Configuración
 compatibility-settings-button-title =
     .title = Configuración
-compatibility-feedback-button-label = Opinión
-compatibility-feedback-button-title =
-    .title = Opinión
 
 ## Messages used as headers in settings pane
 
@@ -46,3 +43,4 @@ compatibility-issue-occurrences =
 compatibility-no-issues-found = Non se atoparon problemas de compatibilidade.
 compatibility-close-settings-button =
     .title = Pechar configuración
+
