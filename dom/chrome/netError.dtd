@@ -90,9 +90,6 @@
 <!ENTITY corruptedContentErrorv2.title "Σφάλμα κατεστραμμένου περιεχομένου">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Η σελίδα που προσπαθείτε να δείτε δεν μπορεί να εμφανιστεί επειδή ανιχνεύθηκε σφάλμα κατά τη μετάδοση δεδομένων.</p><ul><li>Παρακαλώ επικοινωνήστε με τους ιδιοκτήτες του ιστοτόπου για να τους ενημερώσετε σχετικά με αυτό το πρόβλημα.</li></ul>">
 
-<!ENTITY remoteXUL.title "Απομακρυσμένο XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Παρακαλώ επικοινωνήστε με τους ιδιοκτήτες του ιστοτόπου για να τους ενημερώσετε σχετικά με αυτό το πρόβλημα.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Η σύνδεσή σας δεν είναι ασφαλής">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

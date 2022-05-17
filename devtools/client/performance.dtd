@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Ο αριθμός των φορών που αυτή η συνάρτηση βρισκόταν στη στοίβα όταν το πρόγραμμα προφίλ σύλλεξε ένα δείγμα.">
 <!ENTITY performanceUI.table.function                 "Συνάρτηση">
 <!ENTITY performanceUI.table.function.tooltip         "Το όνομα και η τοποθεσία στον κώδικα της συνάρτησης δειγματοληψίας.">
-<!ENTITY performanceUI.table.totalAlloc               "Συνολικοί Καταμερισμοί Δειγμάτων">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Ο συνολικός αριθμός εκχωρήσεων αντικειμένων, από τα οποία λήφθηκε δείγμα σε αυτήν την τοποθεσία και στους καλούμενους.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Προτεινόμενη λειτουργία
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Γιατί το βλέπω αυτό
+
 cfr-doorhanger-extension-cancel-button = Όχι τώρα
     .accesskey = χ
+
 cfr-doorhanger-extension-ok-button = Προσθήκη τώρα
     .accesskey = σ
+
 cfr-doorhanger-extension-manage-settings-button = Διαχείριση ρυθμίσεων προτάσεων
     .accesskey = Δ
+
 cfr-doorhanger-extension-never-show-recommendation = Να μην εμφανίζεται αυτή η πρόταση
     .accesskey = Ν
+
 cfr-doorhanger-extension-learn-more-link = Μάθετε περισσότερα
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = από { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Πρόταση
 cfr-doorhanger-extension-notification2 = Πρόταση
     .tooltiptext = Πρόταση επέκτασης
     .a11y-announcement = Διαθέσιμη πρόταση επέκτασης
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Πρόταση
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Μάθετε περισσότερα
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Νέο χαρακτηριστικό:
+
 cfr-whatsnew-button =
     .label = Τι νέο υπάρχει
     .tooltiptext = Τι νέο υπάρχει
+
 cfr-whatsnew-release-notes-link-text = Διαβάστε τις σημειώσεις έκδοσης
 
 ## Enhanced Tracking Protection Milestones

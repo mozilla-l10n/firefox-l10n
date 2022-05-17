@@ -23,9 +23,6 @@
 <!ENTITY inReplyToField.label "Σε-απάντηση-σε:">
 <!ENTITY originalWebsite.label "Ιστότοπος: ">
 
-<!ENTITY editMessage.label                 "Επεξεργασία προσχεδίου…">
-<!ENTITY editMessage.accesskey             "π">
-
 <!ENTITY editDraft.label                   "Επεξεργασία προσχεδίου…">
 <!ENTITY editDraft.accesskey               "χ">
 <!ENTITY editTemplate.label                "Επεξεργασία προτύπου…">

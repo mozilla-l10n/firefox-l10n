@@ -4,9 +4,6 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
-<!ENTITY pref.scripts.title              "Σενάρια &amp; αρθρώματα">
-
 <!--LOCALIZATION NOTE : FILE The 'Scripts' preferences dialog -->
 <!ENTITY pref.scripts2.title             "Σενάρια">
 
@@ -31,12 +28,3 @@
 <!ENTITY debugConsoleJavascript.label     "Εμφάνιση σφαλμάτων και προειδοποιήσεων chrome JavaScript">
 <!ENTITY debugConsoleJavascript.accesskey "c">
 
-<!ENTITY enablePlugins.label             "Ενεργοποίηση αρθρωμάτων για">
-<!ENTITY enablePluginForSuite.label      "Σουίτα">
-<!ENTITY enablePluginForSuite.accesskey  "υ">
-
-<!ENTITY whenPageRequiresPlugins.label   "Όταν μια σελίδα απαιτεί αρθρώματα">
-<!ENTITY activateAllPlugins.label        "Ενεργοποίηση όλων των αρθρωμάτων από προεπιλογή">
-<!ENTITY activateAllPlugins.accesskey    "π">
-<!ENTITY warnPluginsRequired.label       "Προειδοποίηση αν απαιτείται εγκατάσταση επιπρόσθετων αρθρωμάτων">
-<!ENTITY warnPluginsRequired.accesskey   "Π">

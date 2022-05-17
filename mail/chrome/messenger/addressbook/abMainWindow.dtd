@@ -111,6 +111,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "φ">
 <!ENTITY newlistButton.label                            "Νέα λίστα">
 <!ENTITY newlistButton.accesskey                        "λ">
+
 <!ENTITY showAsDefault.label                            "Προεπιλεγμένος κατάλογος εκκίνησης">
 <!ENTITY showAsDefault.accesskey                        "Ρ">
 <!ENTITY editPropertiesButton.label                     "Επεξεργασία">

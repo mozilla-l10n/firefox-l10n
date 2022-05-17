@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = Σφάλμα εγκατάστασης
 opensearch-error-duplicate-desc = Το { -brand-short-name } δεν μπόρεσε να εγκαταστήσει το άρθρωμα αναζήτησης από το «{ $location-url }», επειδή υπάρχει ήδη μηχανή με το ίδιο όνομα.
+
 opensearch-error-format-title = Μη έγκυρη μορφή
 opensearch-error-format-desc = Το { -brand-short-name } δεν μπόρεσε να εγκαταστήσει τη μηχανή αναζήτησης από το: { $location-url }
+
 opensearch-error-download-title = Σφάλμα λήψης
 opensearch-error-download-desc = Το { -brand-short-name } δεν μπόρεσε να κάνει λήψη του αρθρώματος αναζήτησης από: { $location-url }
 
@@ -19,9 +21,11 @@ opensearch-error-download-desc = Το { -brand-short-name } δεν μπόρεσ�
 
 searchbar-submit =
     .tooltiptext = Υποβολή αναζήτησης
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Αναζήτηση
+
 searchbar-icon =
     .tooltiptext = Αναζήτηση
 
@@ -30,6 +34,5 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-remove-search-engine-message = <strong>Η προεπιλεγμένη σας μηχανή αναζήτησης έχει αλλάξει.</strong> Το { -brand-short-name } δεν υποστηρίζει πλέον το { $oldEngine }. Το { $newEngine } αποτελεί τη νέα σας προεπιλεγμένη μηχανή αναζήτησης. Για να ορίσετε μια άλλη προεπιλογή, μεταβείτε στις ρυθμίσεις. <label data-l10n-name="remove-search-engine-article">Μάθετε περισσότερα</label>
 removed-search-engine-message = <strong>Η προεπιλεγμένη σας μηχανή αναζήτησης έχει αλλάξει.</strong> Το { $oldEngine } δεν είναι πλέον διαθέσιμο ως προεπιλεγμένη μηχανή αναζήτησης στο { -brand-short-name }. Το { $newEngine } αποτελεί τη νέα σας προεπιλεγμένη μηχανή αναζήτησης. Για να ορίσετε μια άλλη προεπιλογή, μεταβείτε στις ρυθμίσεις. <label data-l10n-name="remove-search-engine-article">Μάθετε περισσότερα</label>
 remove-search-engine-button = OK
