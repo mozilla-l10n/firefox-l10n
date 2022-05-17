@@ -6,3 +6,5 @@ privatebrowsingpage-open-private-window-label = ಒಂದು Private ಕಿಟ�
     .accesskey = P
 about-private-browsing-not-private = ನೀವು ಪ್ರಸ್ತುತ ಒಂದು ಖಾಸಗಿ ಕಿಟಕಿಯಲ್ಲಿ ಇಲ್ಲ.
 
+## The following strings will be used for experiments in Fx99 and Fx100
+

@@ -23,36 +23,13 @@ downloads-cmd-cancel =
     .tooltiptext = ರದ್ದು ಮಾಡು
 downloads-cmd-cancel-panel =
     .aria-label = ರದ್ದು ಮಾಡು
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = ಹೊಂದಿರುವ ಕಡತಕೋಶವನ್ನು ತೆರೆ
-    .accesskey = F
   
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = ಹುಡುಕುಗಾರನಲ್ಲಿ ತೋರಿಸು
-    .accesskey = F
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] ಹುಡುಕುಗಾರನಲ್ಲಿ ತೋರಿಸು
-           *[other] ಹೊಂದಿರುವ ಕಡತಕೋಶವನ್ನು ತೆರೆ
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] ಹುಡುಕುಗಾರನಲ್ಲಿ ತೋರಿಸು
-           *[other] ಹೊಂದಿರುವ ಕಡತಕೋಶವನ್ನು ತೆರೆ
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] ಹುಡುಕುಗಾರನಲ್ಲಿ ತೋರಿಸು
-           *[other] ಹೊಂದಿರುವ ಕಡತಕೋಶವನ್ನು ತೆರೆ
-        }
+##
 
 downloads-cmd-show-downloads =
     .label = ಡೌನ್‌ಲೋಡ್‌ ಕಡತಕೋಶವನ್ನು ತೋರಿಸು
@@ -145,6 +122,13 @@ downloads-history =
 downloads-details =
     .title = ಡೌನ್‌ಲೋಡ್ ವಿವರಗಳು
 
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
+
 downloads-clear-downloads-button =
     .label = ಇಳಿಕೆಗಳನ್ನು ಅಳಿಸು
     .tooltiptext = ಪೂರ್ಣಗೊಂಡ, ರದ್ದುಗೊಳಿಸಲಾದ ಹಾಗು ವಿಫಲಗೊಂಡ ಇಳಿಕೆಗಳನ್ನು ಅಳಿಸುತ್ತದೆ
@@ -157,3 +141,4 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = ಈ ಅಧಿವೇಶನಕ್ಕಾಗಿ ಯಾವುದೆ ಡೌನ್‌ಲೋಡ್‌ಗಳಿಲ್ಲ.
+

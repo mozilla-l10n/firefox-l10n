@@ -16,3 +16,9 @@
 
 ## Theme selection screen
 
+## Start screen
+
+## Colorway screen
+
+## Thank you screen
+

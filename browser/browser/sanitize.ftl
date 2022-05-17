@@ -76,10 +76,6 @@ item-form-search-history =
 
 data-section-label = ಮಾಹಿತಿ
 
-item-site-preferences =
-    .label = ತಾಣದ ಆದ್ಯತೆಗಳು
-    .accesskey = S
-
 item-offline-apps =
     .label = ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಜಾಲತಾಣದ ಮಾಹಿತಿ
     .accesskey = O
