@@ -18,6 +18,3 @@
 <!ENTITY dict.title "Diccionaris">
 <!ENTITY dict_intro.label "Els diccionaris serveixen per comprovar l'ortografia dels vostres missatges.">
 <!ENTITY info.title "Més informació">
-<!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
-<!ENTITY info_bugs.label '<a href="http://www.mozilla.org/mailnews/">Agraïm</a> informes sobre errors i sol·licituds de noves característiques, però abans de res llegiu les <a id="releaseNotesURL" href="">notes de la versió</a> i consulteu el 
-<a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>

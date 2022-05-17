@@ -26,9 +26,6 @@ connection-dialog-window =
            *[other] width: 49em !important
         }
 
-connection-disable-extension =
-    .label = Desactiva l'extensió
-
 connection-proxy-legend = Configura els servidors intermediaris per accedir a Internet
 
 proxy-type-no =

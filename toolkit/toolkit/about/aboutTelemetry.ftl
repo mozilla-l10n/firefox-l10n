@@ -28,7 +28,6 @@ about-telemetry-events-section = Esdeveniments
 about-telemetry-simple-measurements-section = Mesures senzilles
 about-telemetry-slow-sql-section = Sentències SQL lentes
 about-telemetry-addon-details-section = Detalls del complement
-about-telemetry-captured-stacks-section = Piles capturades
 about-telemetry-late-writes-section = Escriptures tardanes
 about-telemetry-raw = JSON sense processar
 about-telemetry-full-sql-warning = NOTA: la depuració de SQL lenta està habilitada. Es poden mostrar les cadenes SQL completes a sota però no s'enviaran per a la telemesura.

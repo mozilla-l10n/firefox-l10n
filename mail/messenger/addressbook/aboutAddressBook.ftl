@@ -131,3 +131,6 @@ about-addressbook-details-phone-numbers-header = Números de telèfon
 about-addressbook-details-home-address-header = Adreça particular
 about-addressbook-details-work-address-header = Adreça de la feina
 about-addressbook-details-other-info-header = Altra informació
+
+# Photo dialog
+

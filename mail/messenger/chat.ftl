@@ -19,3 +19,6 @@ chat-participant-moderator-role-icon2 =
 
 chat-participant-voiced-role-icon2 =
     .alt = El participant pot publicar missatges
+
+## Conversation invite notification box
+

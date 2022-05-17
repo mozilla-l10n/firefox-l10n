@@ -26,5 +26,3 @@
 <!ENTITY stopFilters.accesskey "u">
 <!ENTITY folderPickerPrefix.label "Executa manualment els filtres seleccionats a la carpeta:">
 <!ENTITY folderPickerPrefix.accesskey "i">
-<!ENTITY choosethis.label "tria aquesta carpeta">
-<!ENTITY choosethisnewsserver.label "tria aquest servidor de grups de discussió">
