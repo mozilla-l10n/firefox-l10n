@@ -10,15 +10,6 @@
 
 <!-- Entities for Account Type page -->
 
-<!-- Entities for Account Type page -->
-<!ENTITY accountTypeTitle.label "Stel nuwe rekening op">
-
-<!ENTITY accountTypeDirections.label "Selekteer die soort rekening wat u wil opstel:">
-<!ENTITY accountTypeMail.label "E-posrekening">
-<!ENTITY accountTypeMail.accesskey "p">
-<!ENTITY accountTypeNews.label "Nuusgroeprekening">
-<!ENTITY accountTypeNews.accesskey "u">
-
 <!-- Entities for Identity page -->
 
 
@@ -38,23 +29,7 @@
 
 <!-- Entities for Incoming Server page -->
 
-<!-- Entities for Incoming Server page -->
-<!ENTITY incomingServerTypeDesc.label "Selekteer die soort inkomende bediener wat u gebruik.">
-<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
-<!ENTITY imapType.label "IMAP">
-<!ENTITY imapType.accesskey "I">
-<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
-<!ENTITY popType.label "POP">
-<!ENTITY popType.accesskey "P">
 
-
-<!ENTITY portNum.label "Poort:">
-<!ENTITY portNum.accesskey "P">
-<!ENTITY defaultPortLabel.label "Verstek:">
-<!ENTITY defaultPortValue.label "">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.label "Inkomende bediener:">
-<!ENTITY incomingServer.accesskey "b">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 
 
@@ -63,9 +38,6 @@
 
 <!-- Entities for Outgoing Server page -->
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-
-
-<!ENTITY outgoingUsername.description "Tik die uitgaande gebruikernaam in wat u e-posbediener aan u gegee het (dit is gewoonlik dieselfde as u inkomende gebruikernaam).">
 
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
@@ -99,14 +71,6 @@
 
 <!ENTITY completionTitle.label "Baie geluk!">
 <!ENTITY completionText.label "Maak seker dat die inligting hieronder korrek is.">
-<!ENTITY serverTypePrefix.label "Soort inkomende bediener:">
-<!ENTITY serverNamePrefix.label "Inkomende bediener:">
-<!ENTITY smtpServerNamePrefix.label "Uitgaande bediener (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nuusgroepbediener (NNTP):">
-<!ENTITY downloadOnLogin.label "Laai nou boodskappe af">
-<!ENTITY downloadOnLogin.accesskey "L">
-<!ENTITY deferStorageDesc.label "Ontmerk hierdie merkblokkie om pos vir hierdie rekening in sy eie gids te stoor. Dit sal hierdie rekening as 'n bovlak-rekening laat vertoon. Anders sal dit deel van die Plaaslike vouers se Globale inkassie-rekening wees.">
-<!ENTITY deferStorage.label "Gebruik Globale Inkassie (stoor pos in plaaslike vouers)">
-<!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Kliek Klaar om hierdie opstelling te stoor en die rekeningslimmerd af te sluit.">
 <!ENTITY clickFinish.labelMac "Kliek Klaar om hierdie instellings te stoor en die rekeningslimmerd af te sluit.">

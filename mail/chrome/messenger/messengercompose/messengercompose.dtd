@@ -19,9 +19,6 @@
 
 <!ENTITY attachPageCmd.label "Webbladsy…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Persoonlike kaart (vCard)">
-<!ENTITY attachVCardCmd.accesskey "P">
 
 
 <!ENTITY closeCmd.label "Sluit">
@@ -128,14 +125,6 @@
 <!ENTITY returnReceiptMenu.accesskey "v">
 <!ENTITY dsnMenu.label "Afleweringstatus-kennisgewing">
 <!ENTITY dsnMenu.accesskey "k">
-
-
-<!ENTITY autoFormatCmd.label "Outospeur">
-<!ENTITY autoFormatCmd.accesskey "O">
-<!ENTITY plainTextFormatCmd.label "Net skoonteks">
-<!ENTITY plainTextFormatCmd.accesskey "N">
-<!ENTITY htmlFormatCmd.label "Net rykteks (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "r">
 
 
 <!ENTITY priorityMenu.label "Prioriteit">

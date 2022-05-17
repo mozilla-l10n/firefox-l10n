@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] Instellings kan gewysig word in { -brand-short-name } se opsies.
            *[other] Instellings kan gewysig word in { -brand-short-name } se voorkeure.
         }
+
 unknowncontenttype-intro = U het gekies om te open:
 unknowncontenttype-which-is = en dit is 'n:
 unknowncontenttype-from = van:

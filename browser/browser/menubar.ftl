@@ -39,15 +39,6 @@ menu-quit =
 menu-quit-mac =
     .label = Sluit { -brand-shorter-name } af
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Sluit { -brand-shorter-name } af
-
 menu-about =
     .label = Aangaande { -brand-shorter-name }
     .accesskey = A
@@ -77,9 +68,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Open lêer…
     .accesskey = O
-menu-file-close =
-    .label = Sluit
-    .accesskey = S
 menu-file-close-window =
     .label = Sluit venster
     .accesskey = v
@@ -92,9 +80,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Bladsyopstelling…
     .accesskey = t
-menu-file-print-preview =
-    .label = Drukvoorskou
-    .accesskey = v
 menu-file-print =
     .label = Druk…
     .accesskey = D
@@ -254,9 +239,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Hulp
     .accesskey = H
-menu-help-feedback-page =
-    .label = Dien terugvoer in…
-    .accesskey = D
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.

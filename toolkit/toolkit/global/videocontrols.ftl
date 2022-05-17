@@ -18,12 +18,14 @@ videocontrols-casting-button-label =
     .aria-label = Stuur na skerm
 videocontrols-closed-caption-off =
     .offlabel = Af
+
 videocontrols-error-aborted = Laai van video gestop.
 videocontrols-error-network = Terugspeel van video gestaak weens netwerkfout.
 videocontrols-error-decode = Video kan nie gespeel word nie want die lêer is korrup.
 videocontrols-error-src-not-supported = Videoformaat of MIME-soort word nie ondersteun nie.
 videocontrols-error-no-source = Geen video met ondersteunde formaat en MIME-soort gevind nie.
 videocontrols-error-generic = Terugspeel van video gestaak weens onbekende fout.
+
 # This message shows the current position and total video duration
 #
 # Variables:

@@ -14,7 +14,6 @@ about-networking-ssl = SSL
 about-networking-active = Aktief
 about-networking-idle = Ledig
 about-networking-host = Masjien
-about-networking-tcp = TCP
 about-networking-sent = Gestuur
 about-networking-received = Ontvang
 about-networking-family = Familie

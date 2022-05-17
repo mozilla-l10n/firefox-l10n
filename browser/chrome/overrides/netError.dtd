@@ -63,8 +63,6 @@
 <!ENTITY errorReporting.automatic2 "Rapporteer foute soos dié om Mozilla te help om kwaadwillige werwe te identifiseer en te blok">
 <!ENTITY errorReporting.learnMore "Meer inligting…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontak die webwerf se eienaar om hulle oor die probleem in te lig.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Gevorderde inligting: SSL_ERROR_UNSUPPORTED_VERSION">

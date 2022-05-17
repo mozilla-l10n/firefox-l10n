@@ -77,6 +77,9 @@ newtab-pocket-read-more = Gewilde Onderwerpe:
 newtab-pocket-more-recommendations = Meer Aanbevelings
 newtab-pocket-cta-button = Kry { -pocket-brand-name }
 
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 

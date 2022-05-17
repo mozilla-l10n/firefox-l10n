@@ -61,20 +61,9 @@ import-done-description = Die volgende items is suksesvol ingevoer:
 
 import-close-source-browser = Maak seker dat die gekose blaaier toe is voordat u voortgaan.
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Vanaf { $source }
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
-source-name-safari = Safari
-source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
-source-name-chromium = Chromium
-source-name-firefox = Mozilla Firefox
-source-name-360se = 360 Secure Browser
 
 imported-safari-reading-list = Leeslys (van Safari)
 imported-edge-reading-list = Leeslys (van Edge)

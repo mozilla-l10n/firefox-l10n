@@ -46,6 +46,5 @@ redirectLoop-title = Die bladsy herverwys nie behoorlik nie
 unknownSocketType-title = Onverwagse respons vanaf bediener
 nssFailure2-title = Kon nie beveilig koppel nie
 corruptedContentError-title = Fout: inhoud korrup
-remoteXUL-title = Afgeleë XUL
 sslv3Used-title = Kan nie beveilig koppel nie
 inadequateSecurityError-title = Die verbinding is nie beveilig nie
