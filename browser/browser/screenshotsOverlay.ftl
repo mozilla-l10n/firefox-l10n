@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Přetorhnyć
 screenshots-overlay-instructions = Ćehńće abo klikńće na stronu, zo byšće wobwod wubrał. Tłóčće na ESC, zo byšće přetorhnył.
+screenshots-overlay-download-button = Sćahnyć
+screenshots-overlay-copy-button = Kopěrować
