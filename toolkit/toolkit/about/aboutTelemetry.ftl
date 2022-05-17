@@ -28,7 +28,6 @@ about-telemetry-events-section = చర్యలు
 about-telemetry-simple-measurements-section = మాదిరి కొలతలు
 about-telemetry-slow-sql-section = నిదానమైన SQL వాక్యాలు
 about-telemetry-addon-details-section = పొడిగింత వివరాలు
-about-telemetry-captured-stacks-section = పట్టుబడిన స్టాక్స్
 about-telemetry-late-writes-section = లేట్ వ్రైట్స్
 about-telemetry-raw-payload-section = ముడి పేలోడు
 about-telemetry-raw = ముడి JSON
@@ -89,10 +88,6 @@ about-telemetry-addon-provider = { $addonProvider } ఉత్పాదకి
 about-telemetry-keys-header = లక్షణం
 about-telemetry-names-header = పేరు
 about-telemetry-values-header = విలువ
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (సంగ్రహణ సంఖ్య: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = లేట్ వ్రైట్ #{ $lateWriteCount }

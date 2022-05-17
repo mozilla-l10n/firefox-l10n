@@ -75,23 +75,9 @@ import-done-description = ఈ క్రింది అంశములు సమ
 
 import-close-source-browser = కొనసాగే ముందు ఎంచుకున్న విహారిణి మూసివుందని నిర్ధారించుకోండి.
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = { $source } నుండి
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
-source-name-edge-beta = Microsoft Edge బీటా
-source-name-safari = Safari
-source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
-source-name-chrome-beta = గూగుల్ క్రోమ్ బీటా
-source-name-chrome-dev = గూగుల్ క్రోమ్ డెవ్
-source-name-chromium = Chromium
-source-name-firefox = Mozilla Firefox
-source-name-360se = 360 సురక్షిత విహారిణి
 
 imported-safari-reading-list = జాబితాను చదువుతోంది (సఫారీ నుండి)
 imported-edge-reading-list = చదవాల్సిన జాబితా (ఎడ్జ్ నుండి)

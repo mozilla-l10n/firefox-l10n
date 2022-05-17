@@ -81,9 +81,6 @@
 <!ENTITY corruptedContentErrorv2.title "పాడైన విషయపు దోషం">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>మీరు దర్శించుటకు ప్రయత్నిస్తున్న పేజీ చూపబడలేదు యెంచేతంటే దత్తాంశం బదలాయింపులో ఒక దోషం గుర్తించబడింది</p><ul><li>దయచేసి వెబ్‌సైట్ యజమానులను సంప్రదించి వారికి యిసమస్య గురించి తెలియపరచండి.</li></ul>">
 
-<!ENTITY remoteXUL.title "రిమోట్ XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>ఈ సమస్య గురించి వారికి తెలుపుటకు దయచేసి వెబ్‌సైట్ స్వంతదారులను సంప్రదించండి.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "మీ కనెక్షన్ సురక్షితమైనది కాదు">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

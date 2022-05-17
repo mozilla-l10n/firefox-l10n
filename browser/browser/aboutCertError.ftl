@@ -99,7 +99,6 @@ unknownSocketType-title = సేవిక నుండి అనుకోని 
 nssFailure2-title = సురక్షిత అనుసంధానం విఫలమైంది
 csp-xfo-error-title = { -brand-short-name } ఈ పేజీని తెరవలేకుంది
 corruptedContentError-title = పాడైన విషయ దోషం
-remoteXUL-title = రిమోట్ XUL
 sslv3Used-title = సురక్షితంగా అనుసంధానం కాలేకున్నాము
 inadequateSecurityError-title = మీ అనుసంధానం సురక్షితమైనది కాదు
 blockedByPolicy-title = నిరోధించిన పేజీ

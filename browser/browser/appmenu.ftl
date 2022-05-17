@@ -5,13 +5,15 @@
 
 ## App Menu
 
-appmenuitem-protection-dashboard-title = సంరక్షణల డాష్‌బోర్డ్
 appmenuitem-banner-update-available =
     .label = తాజాకరణ అందుబాటులో ఉంది — ఇప్పుడే దించుకోండి
+
 appmenuitem-banner-update-manual =
     .label = తాజాకరణ అందుబాటులో ఉంది — ఇప్పుడే దించుకోండి
+
 appmenuitem-banner-update-restart =
     .label = తాజాకరణ అందుబాటులో ఉంది — ఇప్పుడే పునఃప్రారంభించండి
+
 appmenuitem-new-tab =
     .label = కొత్త ట్యాబు
 appmenuitem-new-window =
@@ -48,6 +50,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = అనువర్తనపు మెనూని మూసివేయి
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -68,27 +71,34 @@ appmenuitem-fullscreen =
 appmenu-remote-tabs-showmore =
     .label = మరిన్ని ట్యాబులను చూపించు
     .tooltiptext = ఈ పరికరం నుండి మరిన్ని ట్యాబులను చూపించు
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = తెరిచివున్న ట్యాబులు లేవు
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = మీ ఇతర పరికరాల లోని ట్యాబుల జాబితాను చూడడానికి ట్యాబ్ సింక్ ను ప్రారంభించండి.
+
 appmenu-remote-tabs-opensettings =
     .label = అమరికలు
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ఇతర పరికరాలలో తెరిచివున్న మీ ట్యాబులను ఇక్కడ చూడాలనుకుంటున్నారా?
+
 appmenu-remote-tabs-connectdevice =
     .label = మరొక పరికరాన్ని అనుసంధానించండి
 appmenu-remote-tabs-unverified = మీ ఖాతాను తనిఖీ చెయ్యాలి.
+
 appmenuitem-fxa-manage-account = ఖాతా నిర్వహణ
 appmenu-fxa-header2 = { -fxaccount-brand-name }
-appmenu-fxa-show-more-tabs = మరిన్ని ట్యాబులను చూపించు
+
 appmenuitem-save-page =
     .label = పేజీని ఇలా భద్రపరచు…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = కొత్తవి ఏమిటి
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -101,24 +111,23 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = మరింత సమాచారం చూపించు
-profiler-popup-learn-more = ఇంకా తెలుసుకోండి
+
 profiler-popup-learn-more-button =
     .label = ఇంకా తెలుసుకోండి
+
 profiler-popup-settings =
     .value = అమరికలు
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings = అమరికలను మార్చండి…
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = అమరికలను మార్చండి…
-# The profiler presets list is generated elsewhere, but the custom preset is defined
-# here only.
-profiler-popup-presets-custom =
-    .label = అభిమతం
+
 profiler-popup-discard-button =
     .label = విస్మరించు
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -167,9 +176,6 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = T
 appmenu-help-report-site-issue =
     .label = సైటులోని సమస్యను నివేదించండి…
-appmenu-help-feedback-page =
-    .label = ప్రతిస్పందనను తెలియజేయండి…
-    .accesskey = S
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -192,4 +198,5 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = పనిముట్లపట్టీని మలుచుకోండి…
+
 appmenu-developer-tools-subheader = విహారిణి పనిముట్లు

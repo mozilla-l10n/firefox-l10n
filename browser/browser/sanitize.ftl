@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = దత్తాంశము
 
-item-site-preferences =
-    .label = సైటు అభిరుచులు
-    .accesskey = S
-
 item-offline-apps =
     .label = ఆఫ్‌లైన్ వెబ్‌సైటు డాటా
     .accesskey = O

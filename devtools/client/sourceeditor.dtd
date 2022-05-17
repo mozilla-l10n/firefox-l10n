@@ -18,5 +18,4 @@
   - documentation on web development on the web. -->
 
 <!ENTITY gotoLineCmd.label         "లైనుకు వెళ్ళు…">
-<!ENTITY gotoLineCmd.key           "J">
 <!ENTITY gotoLineCmd.accesskey     "J">
