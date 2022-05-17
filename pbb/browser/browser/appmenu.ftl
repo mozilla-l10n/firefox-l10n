@@ -25,8 +25,10 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Phadenxii meeta
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Phewujnxisa ki'tanxi ũsa' na' thegya ewuna yasetxih vxite vxisnxijuy.
+
 appmenuitem-save-page =
     .label = Ma'h jxawnah…
 
@@ -38,6 +40,13 @@ appmenuitem-save-page =
 ## "Enable Profiler Menu Button".
 
 
+## Profiler presets
+## They are shown in the popup's select box.
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 ## History panel
 
 
@@ -46,9 +55,6 @@ appmenuitem-save-page =
 appmenu-about =
     .label = Txa u'txa txte { -brand-shorter-name }
     .accesskey = T
-appmenu-help-feedback-page =
-    .label = Yatxnxi's kahwa'
-    .accesskey = Y
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

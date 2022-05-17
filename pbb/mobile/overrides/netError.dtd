@@ -97,9 +97,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "<p>Kãjãnximee ewna teeçxsa's kutxin vxisnxi's çxkitxana Internet-te jxukatek spa'ki' napa stxãanximeete thegçxa teeçxsa's dxikhẽy we'wen ũsthu naa sepisisa's.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "XUL  jxu'ju">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Meen,ih ũsuhne'ga namuwe'çx ya'kh naa web-te pta'sxna yuwe ewmeesa's.</li></ul></p>">
-
 <!ENTITY sslv3Used.title "Thẽythẽ'ja ew çxkitxan ji'phuwẽte'.">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->

@@ -77,9 +77,6 @@
 <!ENTITY corruptedContentErrorv2.title "Swenxi ewmee ji'phun pta'sxnxi  ">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Txãa eça's ki'ki'n thẽ'gwẽte' ta'sxya' ewumeen teeçx suwsata u'y txãa yase' kaskheũ'nxite.</p><ul><li> meen naa web-te namutxi' pa'yaçxa' mdasxwe naa yuwe's</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL  jxu'ju'">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Meen,ih ũsuhne'ga namuwe'sx ya'kh naa web-te pta'sxna yuwe ewmeesa's.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

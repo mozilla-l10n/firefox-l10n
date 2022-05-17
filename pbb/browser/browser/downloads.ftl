@@ -19,36 +19,13 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Takhna
     .accesskey = T
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = Phaden eç jxawnxi's txih jiptepa thegya
-    .accesskey = P
   
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = Ta'sxna na's Finder
-    .accesskey = F
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] Ta'sxna na's Finder
-           *[other] Phaden eç jxawnxi's txih jiptepa thegya
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] Ta'sxna na's Finder
-           *[other] Phaden eç jxawnxi's txih jiptepa thegya
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] Ta'sxna na's Finder
-           *[other] Phaden eç jxawnxi's txih jiptepa thegya
-        }
+##
 
 downloads-cmd-retry =
     .tooltiptext = Ki'kin isan
@@ -84,6 +61,13 @@ downloads-history =
     .label = Ta'sxna jxuka spatxnxitxi
     .accesskey = T
 
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
+
 downloads-clear-downloads-button =
     .label = Spatxnxitxi khukhn
     .tooltiptext = Khukhna jxukate spatxnxitxi, tudume'h suwenxitxih
@@ -96,3 +80,4 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Meetah spatxnxisa nate.
+

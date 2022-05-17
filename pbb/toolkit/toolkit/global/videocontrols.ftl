@@ -16,9 +16,11 @@ videocontrols-exitfullscreen-button =
     .aria-label = Thẽgnxisa' ãhçxhaakh kase'
 videocontrols-casting-button-label =
     .aria-label = Mkaa thẽgnxisa's
+
 videocontrols-error-aborted = kyujuhnxi'k neyũu kapnasa's kthegunxisaa.
 videocontrols-error-network = Nuypenanxisa' pnasa's kthegunxisaa teeçxsa' swenak ujwe ũkhe wesa'.
 videocontrols-error-decode = Nuypẽhnaya' ewuçme' pnasa's thẽgnxisa' eç jxawnxisa' weynxiya' ũsa'.
 videocontrols-error-src-not-supported = Na'wẽ meeçxa' kthegun MIME pnasa's kthegunxi's thẽgya'mee.
 videocontrols-error-no-source = Uyme' maa kapnasa's kthegunxisa's ki'h ji'phun teeçx na'wẽ vxitetx kthegun MIME puutx jadasatx.
 videocontrols-error-generic = Pennxisaa kapnasa's kthegunxisa' ewumeeka teeçx jiyunximee pa'ka.
+

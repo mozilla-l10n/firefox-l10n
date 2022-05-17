@@ -39,15 +39,6 @@ menu-quit =
 menu-quit-mac =
     .label = Kasen { -brand-shorter-name }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Kasen { -brand-shorter-name }
-
 menu-about =
     .label = Txa u'txa txte { -brand-shorter-name }
     .accesskey = T
@@ -74,9 +65,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Eç jxawnxi's pha'nden
     .accesskey = E
-menu-file-close =
-    .label = Apna
-    .accesskey = A
 menu-file-close-window =
     .label = Aphn vxitx& le'çxkwes
     .accesskey = d
@@ -89,9 +77,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Paynxi's & pheu'na…
     .accesskey = u
-menu-file-print-preview =
-    .label = Tudte & thegna
-    .accesskey = v
 menu-file-print =
     .label = Kapna'jnxi's kutxi'jna…
     .accesskey = K
@@ -249,6 +234,3 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Pu'çxwajas
     .accesskey = P
-menu-help-feedback-page =
-    .label = Yatxnxi's kahwa'
-    .accesskey = Y
