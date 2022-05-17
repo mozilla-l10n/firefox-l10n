@@ -227,14 +227,6 @@ quoted-text-color =
     .label = Color:
     .accesskey = o
 
-type-column-label =
-    .label = Content Type
-    .accesskey = T
-
-action-column-label =
-    .label = Action
-    .accesskey = A
-
 save-to-label =
     .label = Save files to
     .accesskey = S
@@ -364,12 +356,6 @@ bg-color-label =
 restore-html-label =
     .label = Restore Defaults
     .accesskey = R
-
-format-description = Configure text format behaviour
-
-send-options-label =
-    .label = Send Options…
-    .accesskey = S
 
 autocomplete-description = When addressing messages, look for matching entries in:
 
@@ -594,4 +580,6 @@ chat-browse-sound-button =
     .accesskey = B
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

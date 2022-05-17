@@ -76,10 +76,6 @@ item-form-search-history =
 
 data-section-label = Data
 
-item-site-preferences =
-    .label = Site Preferences
-    .accesskey = S
-
 item-offline-apps =
     .label = Offline Website Data
     .accesskey = O

@@ -8,6 +8,7 @@
 # Placeholder for the searchbox that allows you to filter the table items
 storage-search-box =
     .placeholder = Filter items
+
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filter values
@@ -31,7 +32,10 @@ storage-tree-labels-cache = Cache Storage
 
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = Session
+
 # Heading displayed over the item value in the sidebar
 storage-data = Data
+
 # Heading displayed over the item parsed value in the sidebar
 storage-parsed-value = Parsed Value
+

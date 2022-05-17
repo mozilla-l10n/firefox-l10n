@@ -6,8 +6,6 @@
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
 
 
-<!ENTITY pref.scripts.title              "Scripts &amp; Plugins">
-
 <!ENTITY navigator.label                 "Browser">
 <!ENTITY navigator.accesskey             "B">
 <!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
@@ -21,12 +19,3 @@
 <!ENTITY allowContextmenuDisable.label   "Disable or replace context menus">
 <!ENTITY allowHideStatusBar.label        "Hide the status bar">
 
-<!ENTITY enablePlugins.label             "Enable Plugins for">
-<!ENTITY enablePluginForSuite.label      "Suite">
-<!ENTITY enablePluginForSuite.accesskey  "u">
-
-<!ENTITY whenPageRequiresPlugins.label   "When a page requires plugins">
-<!ENTITY activateAllPlugins.label        "Activate all plugins by default">
-<!ENTITY activateAllPlugins.accesskey    "d">
-<!ENTITY warnPluginsRequired.label       "Warn me if additional plugins need to be installed">
-<!ENTITY warnPluginsRequired.accesskey   "W">
