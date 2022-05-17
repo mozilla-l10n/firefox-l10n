@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Saber más">
 
 <!ENTITY e2eEnc.description "Sin cifrado de extremo a extremo los contenidos del mensaje quedan expuestos fácilmente a su proveedor de correo y a la vigilancia masiva.">
-<!ENTITY e2eeReqWarning.description "Si necesita cifrado, para enviar un mensaje debe tener la clave pública o certificado de cada destinatario.">
 
-<!ENTITY e2eSigning.description "Una firma digital permite a los destinatarios verificar que el mensaje fue enviado por usted y que el contenido no ha sido modificado.">
 <!ENTITY e2eTechPref.description "Tecnología de cifrado preferida:">
 
-<!ENTITY doNotEncrypt.label "No activar cifrado por defecto">
-<!ENTITY doNotEncrypt.accesskey "N">
-<!ENTITY requireEncryptMessage.label "Requerir cifrado por defecto">
-<!ENTITY requireEncryptMessage.accesskey "R">
 <!ENTITY encryptionCert2.message "Certificado personal para cifrado:">
 <!ENTITY digitalSign.certificate.button "Seleccionar…">
 <!ENTITY digitalSign.certificate.accesskey "S">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Limpiar">
 <!ENTITY encryption.certificate_clear.accesskey "m">
 <!ENTITY signingGroupTitle.label "Firmado digital">
-<!ENTITY signMessage2.label "Añadir mi firma digital de forma predeterminada">
-<!ENTITY signMessage.accesskey "D">
 
 <!ENTITY signingCert2.message "Certificado personal para la firma digital:">
 

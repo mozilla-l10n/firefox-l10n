@@ -34,6 +34,4 @@
 <!ENTITY stopFilters.accesskey "D">
 <!ENTITY folderPickerPrefix.label "Aplicar filtros selecc. en:">
 <!ENTITY folderPickerPrefix.accesskey "A">
-<!ENTITY choosethis.label "elegir esta carpeta">
-<!ENTITY choosethisnewsserver.label "elegir este servidor de noticias">
 <!ENTITY searchBox.emptyText "Buscar filtros por nombre…">

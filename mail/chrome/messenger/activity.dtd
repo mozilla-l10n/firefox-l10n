@@ -7,28 +7,10 @@
 
 <!ENTITY activity.title "Administrador de actividad">
 
-<!ENTITY cmd.pause.label "Pausar">
-<!ENTITY cmd.pause.accesskey "P">
-<!ENTITY cmd.resume.label "Reanudar">
-<!ENTITY cmd.resume.accesskey "R">
-<!ENTITY cmd.cancel.label "Cancelar">
-<!ENTITY cmd.cancel.accesskey "C">
-<!ENTITY cmd.undo.label "Deshacer">
-<!ENTITY cmd.undo.accesskey "h">
-<!ENTITY cmd.recover.label "Recuperar">
-<!ENTITY cmd.recover.accesskey "u">
-<!ENTITY cmd.retry.label "Reintentar">
-<!ENTITY cmd.retry.accesskey "R">
-<!ENTITY cmd.removeFromList.label "Eliminar de la lista">
-<!ENTITY cmd.removeFromList.accesskey "E">
-
 <!ENTITY cmd.close.commandkey "w">
 <!ENTITY cmd.close2.commandkey "j">
 <!ENTITY cmd.close2Unix.commandkey "y">
 <!ENTITY cmd.clearList.label "Limpiar lista">
 <!ENTITY cmd.clearList.tooltip "Elimina elementos completados, cancelados y fallidos de la lista">
 <!ENTITY cmd.clearList.accesskey "L">
-<!ENTITY cmd.find.commandkey "f">
-<!ENTITY cmd.search.commandkey "k">
 
-<!ENTITY searchBox.label "Buscar…">
