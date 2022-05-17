@@ -74,6 +74,7 @@
 
 <!ENTITY newlistButton.label "नयाँ सूची">
 <!ENTITY newlistButton.accesskey "L">
+
 <!ENTITY newmsgButton.label "लेख्नुहोस्">
 <!ENTITY newmsgButton.accesskey "W">
 <!ENTITY newIM.label "इन्सट्यान्ट सन्देश">

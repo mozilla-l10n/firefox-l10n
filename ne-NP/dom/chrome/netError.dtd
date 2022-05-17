@@ -80,9 +80,6 @@
 <!ENTITY corruptedContentErrorv2.title "भ्रष्ट सामग्री त्रुटि">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>तपाईँले हेर्न चाहनुभएको पृष्ठ देखाउन सकिँदैन किनभने डाटा प्रसारणमा त्रुटि देखियो। </p><ul><li>कृपया यो समस्याबारे जानकारी दिन वेबसाइट धनिसँग सम्पर्क गर्नुहोस्।</li></ul>">
 
-<!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया यस समस्याको जानकारीका लागि वेबसाइट धनी लाइ सम्पर्क गर्नुहोस ।</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "तपाईँको जडान सुरक्षित छैन">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

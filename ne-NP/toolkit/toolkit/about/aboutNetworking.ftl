@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = सक्रिय पार्नुहोस्
 about-networking-idle = निष्प्रयोजन
 about-networking-host = Host
-about-networking-tcp = TCP
 about-networking-sent = पठाइयो
 about-networking-received = प्राप्त भयो
 about-networking-family = परिवार

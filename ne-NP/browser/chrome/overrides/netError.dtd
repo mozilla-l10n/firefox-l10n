@@ -93,8 +93,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "यो जस्तै त्रुटिहरूको सुचना दिएर Mozillaलाई खराब साइटहरू चिन्न र ब्लक गर्न मद्दत गर्नुहोस्">
 <!ENTITY errorReporting.learnMore "अझ जान्नुहोस्…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया यो समस्याको जानकारी गराउन वेबसाइट धनीलाई सम्पर्क गर्नुहोस्।</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "अग्रसर जानकारी: SSL_ERROR_UNSUPPORTED_VERSION">

@@ -16,8 +16,6 @@
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "यस रूपमा बचत गर्नुहोस्">
 <!ENTITY saveAsMenu.accesskey "S">
-<!ENTITY saveAsFileCmd.label "फाइल">
-<!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "टेम्प्लेट">
 <!ENTITY saveAsTemplateCmd.accesskey "T">

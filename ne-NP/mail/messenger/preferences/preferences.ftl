@@ -179,12 +179,6 @@ restore-html-label =
     .label = पूर्वनिर्धारितलाई पूर्वावस्थामा ल्याउनुहोस्
     .accesskey = R
 
-format-description = पाठ ढाँचा व्यवहार कन्फिगर गर्नुहोस्
-
-send-options-label =
-    .label = पठाउने विकल्प...
-    .accesskey = S
-
 autocomplete-description = सन्देशलाई सम्बोधन गर्दा, यस भित्रको मिल्दो प्रविष्टि हेर्नुहोस्:
 
 ab-label =
@@ -221,4 +215,6 @@ email-picker-label =
 
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 
