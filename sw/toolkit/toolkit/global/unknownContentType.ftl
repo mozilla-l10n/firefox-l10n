@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] Mipangilio inaweza kubadilishwa katika { -brand-short-name } Chaguo.
            *[other] Mipangilio inaweza kubadilishwa katika { -brand-short-name } Mapendeleo.
         }
+
 unknowncontenttype-intro = Umechagua kufungua:
 unknowncontenttype-from = kutoka:
 unknowncontenttype-prompt = Ungetaka kuhifadhi faili hii?

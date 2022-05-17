@@ -34,6 +34,13 @@ appmenuitem-save-page =
 ## "Enable Profiler Menu Button".
 
 
+## Profiler presets
+## They are shown in the popup's select box.
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 ## History panel
 
 
@@ -44,9 +51,6 @@ appmenu-about =
     .accesskey = A
 appmenu-help-report-site-issue =
     .label = Ripoti suala la tovuti…
-appmenu-help-feedback-page =
-    .label = Wasilisha Maoni…
-    .accesskey = W
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

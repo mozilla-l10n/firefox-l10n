@@ -28,3 +28,6 @@ state-dd-Disabled-block-list-state = <span data-l10n-name="state">Hali:</span> I
 mime-type-label = Aina ya MIME
 description-label = Maelezo
 suffixes-label = Kimalizio
+
+## Gecko Media Plugins (GMPs)
+

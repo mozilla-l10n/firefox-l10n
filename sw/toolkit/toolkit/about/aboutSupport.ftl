@@ -21,6 +21,7 @@ app-basics-enabled-plugins = Wezesha Programu-jalizi
 app-basics-build-config = Jenga Usanidi
 app-basics-user-agent = Mtumaiji Wakala
 app-basics-memory-use = Utumizi wa Kumbukumbu
+
 modified-key-prefs-title = Mapendeleo Muhimu Yaliorekebishwa
 modified-prefs-name = Jina
 user-js-title = Pendeleo za mtumiaji.js

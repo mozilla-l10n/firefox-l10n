@@ -33,10 +33,6 @@ menu-quit =
            *[other] O
         }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
 menu-about =
     .label = Kuhusu { -brand-shorter-name }
     .accesskey = A
@@ -58,9 +54,6 @@ menu-file-new-private-window =
 menu-file-open-file =
     .label = Fungua Faili…
     .accesskey = F
-menu-file-close =
-    .label = Funga
-    .accesskey = F
 menu-file-close-window =
     .label = Funga Dirisha
     .accesskey = s
@@ -73,9 +66,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Sanidi Ukurasa…
     .accesskey = k
-menu-file-print-preview =
-    .label = Kihakiki Chapa
-    .accesskey = p
 menu-file-print =
     .label = Chapisha…
     .accesskey = C
@@ -224,6 +214,3 @@ menu-help =
     .accesskey = M
 menu-help-report-site-issue =
     .label = Ripoti suala la tovuti…
-menu-help-feedback-page =
-    .label = Wasilisha Maoni…
-    .accesskey = W

@@ -78,9 +78,6 @@
 <!ENTITY corruptedContentErrorv2.title "Kosa la Kuharibika kwa Maudhui">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ukurasa unaojaribu kuangalia hauwezi kuonyeswha kwa sababu unatumia mfanyizo batili au usioauniwa.</p><ul><li>Tafadhali wasiliana na wamiliki wa wavuti kuwajulisha kuhusu shida hii.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL ya Mbali">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Tafadhali wasiliana na wamiliki wa tovuti ili kuwafahamisha juu ya tatizo hili.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

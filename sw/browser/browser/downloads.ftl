@@ -19,36 +19,13 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Rejea
     .accesskey = R
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = Fungua Kabrasha Iliyo na
-    .accesskey = I
   
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = Onyesha Katila Kipataji
-    .accesskey = K
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] Onyesha Katila Kipataji
-           *[other] Fungua Kabrasha Iliyo na
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] Onyesha Katila Kipataji
-           *[other] Fungua Kabrasha Iliyo na
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] Onyesha Katila Kipataji
-           *[other] Fungua Kabrasha Iliyo na
-        }
+##
 
 downloads-cmd-retry =
     .tooltiptext = Jaribu tena
@@ -83,6 +60,13 @@ downloads-cmd-clear-downloads =
 downloads-history =
     .label = Onyesha Vipakuzi Vyoye
     .accesskey = O
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
 
 downloads-clear-downloads-button =
     .label = Ondoa Vipakuzi

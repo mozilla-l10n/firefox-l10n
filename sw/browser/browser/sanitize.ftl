@@ -52,10 +52,6 @@ item-cache =
 
 data-section-label = Data
 
-item-site-preferences =
-    .label = Mapendeleo ya Tovuti
-    .accesskey = M
-
 item-offline-apps =
     .label = Data ya Wavuti Nje ya Mtandao
     .accesskey = D

@@ -14,9 +14,11 @@ videocontrols-enterfullscreen-button =
     .aria-label = Skrini Nzima
 videocontrols-exitfullscreen-button =
     .aria-label = Toka kwa Skrini Nzima
+
 videocontrols-error-aborted = Upakiaji wa video umesitishwa.
 videocontrols-error-network = Kucheza tena video kumeghairiwa kwa sababu ya hitilafu ya mtandao.
 videocontrols-error-decode = Video haiwezi kuchezwa kwa sababu faili imeharibika.
 videocontrols-error-src-not-supported = Fomati ya video au aina ya MIME haiauniwi.
 videocontrols-error-no-source = Hakuna video iliyo na fomati inayoauniwa na aina ya MIME imepatikana.
 videocontrols-error-generic = Kucheza tena video kumeghairiwa kwa sababu ya hitilafu isiyojulikana.
+

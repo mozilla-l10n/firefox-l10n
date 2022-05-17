@@ -5,3 +5,5 @@
 privatebrowsingpage-open-private-window-label = Fungua Window ya Kibinaafsi
     .accesskey = K
 
+## The following strings will be used for experiments in Fx99 and Fx100
+
