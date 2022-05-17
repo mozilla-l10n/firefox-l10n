@@ -42,7 +42,6 @@ newsgroups-label = Naujienų grupės
 newsgroups-description = „{ -brand-short-name }“ padės prisijungti prie norimų naujienų grupių.
 
 import-title = Importuoti iš kitos programos
-import-paragraph = „{ -brand-short-name }“ padės importuoti pašto pranešimus, adresų knygas, sklaidos kanalų prenumeratas, nuostatas ir (arba) filtrus iš kitų pašto programų ir įprastų adresų knygų formatų.
 
 import-label = Importuoti
     .aria-label = Importuoti duomenis iš kitų programų

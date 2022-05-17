@@ -8,10 +8,6 @@
 <!ENTITY pref.content.title                     "Turinys">
 <!ENTITY pref.content.description               "Šios nuostatos nurodo „&brandShortName;“, kaip atvaizduoti svetainių ir laiškų turinį.">
 
-<!ENTITY siteIcons.label                        "Svetainių piktogramos">
-<!ENTITY useSiteIcons.label                     "Rodyti svetainių piktogramas">
-<!ENTITY useSiteIcons.accesskey                 "R">
-
 
 
 
@@ -37,6 +33,4 @@
 
 <!ENTITY allowHWAccel.label                     "Kai įmanoma, naudoti aparatinį spartinimą">
 <!ENTITY allowHWAccel.accesskey                 "a">
-<!ENTITY blockAutoRefresh.label                 "Įspėti, kai tinklalapis bando peradresuoti naršyklę arba pakartotinai save įkelti">
-<!ENTITY blockAutoRefresh.accesskey             "p">
 

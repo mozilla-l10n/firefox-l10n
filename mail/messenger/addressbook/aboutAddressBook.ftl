@@ -62,3 +62,6 @@ about-addressbook-details-phone-numbers-header = Telefonų numeriai
 about-addressbook-details-home-address-header = Namų adresas
 about-addressbook-details-work-address-header = Darbovietės adresas
 about-addressbook-details-other-info-header = Kita informacija
+
+# Photo dialog
+

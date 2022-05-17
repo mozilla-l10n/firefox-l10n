@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Dalintis
     .accesskey = i
-tab-context-share-more =
-    .label = Daugiau…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -90,15 +88,6 @@ tab-context-reopen-closed-tabs =
            *[other] Atkurti užvertas korteles
         }
     .accesskey = r
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Užverti kortelę
-            [one] Užverti kortelę
-            [few] Užverti korteles
-           *[other] Užverti kortelių
-        }
-    .accesskey = U
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -117,6 +106,7 @@ tab-context-move-tabs =
            *[other] Perkelti kortelių
         }
     .accesskey = k
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

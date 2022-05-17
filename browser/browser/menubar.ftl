@@ -38,16 +38,11 @@ menu-quit =
             [windows] B
            *[other] B
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Baigti „{ -brand-shorter-name }“ darbą
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Baigti „{ -brand-shorter-name }“ darbą
+
 menu-about =
     .label = Apie „{ -brand-shorter-name }“
     .accesskey = A
@@ -77,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Atverti…
     .accesskey = A
-menu-file-close =
-    .label = Užverti
-    .accesskey = U
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 menu-file-close-tab =
@@ -106,9 +98,6 @@ menu-file-share-url =
 menu-file-print-setup =
     .label = Puslapio nuostatos…
     .accesskey = n
-menu-file-print-preview =
-    .label = Spaudinio peržiūra
-    .accesskey = ž
 menu-file-print =
     .label = Spausdinti…
     .accesskey = S
@@ -321,9 +310,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = p
 menu-help-report-site-issue =
     .label = Pranešti apie svetainės problemą…
-menu-help-feedback-page =
-    .label = Siųsti atsiliepimą…
-    .accesskey = S
 menu-help-enter-troubleshoot-mode2 =
     .label = Trikčių šalinimo veiksena…
     .accesskey = v

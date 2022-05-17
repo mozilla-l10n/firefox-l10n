@@ -32,9 +32,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "filtrus">
 <!ENTITY importFilters.accesskey  "f">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "„&brandShortName;“ pašto programos importo vediklis">
 <!ENTITY importShortDesc.label    "Kitų programų laiškų, adresų knygų, nuostatų ir filtrų importas">
 

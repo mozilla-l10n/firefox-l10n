@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = Atverti per „{ -brand-short-name }“
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Nuostatas galima pakeisti „{ -brand-short-name }“ parinkčių lange.
            *[other] Nuostatas galima pakeisti „{ -brand-short-name }“ nuostatų lange.
         }
+
 unknowncontenttype-intro = Pasirinkote atverti failą:
 unknowncontenttype-which-is = tipas:
 unknowncontenttype-from = iš:

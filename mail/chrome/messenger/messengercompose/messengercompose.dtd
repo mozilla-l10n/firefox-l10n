@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "s">
 <!ENTITY attachPageCmd.label "tinklalapį…">
 <!ENTITY attachPageCmd.accesskey "t">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "vizitinę kortelę">
-<!ENTITY attachVCardCmd.accesskey "k">
 <!ENTITY remindLater.label "Priminti vėliau">
 <!ENTITY remindLater.accesskey "v">
 <!ENTITY closeCmd.label "Užverti">
@@ -148,16 +145,6 @@
 <!ENTITY returnReceiptMenu.accesskey "g">
 <!ENTITY dsnMenu.label "Prašyti laiško pristatymo pažymos">
 <!ENTITY dsnMenu.accesskey "i">
-<!ENTITY deliveryFormatMenu.label "Siunčiamo laiško tipas">
-<!ENTITY deliveryFormatMenu.accesskey "u">
-<!ENTITY autoFormatCmd.label "Parenka programa">
-<!ENTITY autoFormatCmd.accesskey "P">
-<!ENTITY plainTextFormatCmd.label "Grynasis tekstas">
-<!ENTITY plainTextFormatCmd.accesskey "G">
-<!ENTITY htmlFormatCmd.label "Raiškusis tekstas (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "R">
-<!ENTITY bothFormatCmd.label "Abiejų tipų tekstai (grynasis ir raiškusis)">
-<!ENTITY bothFormatCmd.accesskey "A">
 <!ENTITY priorityMenu.label "Prioritetas">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.title "Prioritetas">
@@ -221,7 +208,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Kiti adresų laukų tipai">
 <!ENTITY fromAddr2.label "Siuntėjas">
 <!ENTITY fromAddr.accesskey "K">
 <!ENTITY replyAddr2.label "Atsakyti">

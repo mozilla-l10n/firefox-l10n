@@ -82,9 +82,6 @@
 <!ENTITY corruptedContentErrorv2.title "Klaida: duomenys pažeisti">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Tinklalapio, kurį bandote atverti, parodyti negalima, nes perduodant duomenis įvyko klaida.</p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL iš tinklo">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Jūsų ryšys nėra saugus">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

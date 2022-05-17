@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = Procesų tvarkytuvė
+
 # The Actions column
 about-processes-column-action =
     .title = Veiksmai
@@ -14,6 +15,7 @@ about-processes-shutdown-process =
     .title = Iškelti korteles ir išjungti procesą
 about-processes-shutdown-tab =
     .title = Užverti kortelę
+
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -51,6 +53,7 @@ about-processes-socket-process = Tinklas ({ $pid })
 about-processes-remote-sandbox-broker-process = Nuotolinis izoliavimo brokeris ({ $pid })
 about-processes-fork-server-process = Fork serveris ({ $pid })
 about-processes-preallocated-process = Išskirtas iš anksto ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -64,10 +67,8 @@ about-processes-unknown-process = Kitas: { $type } ({ $pid })
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-serviceworker = { $origin } ({ $pid }, aptarnavimo scenarijus)
-about-processes-web-large-allocation-process = { $origin } ({ $pid }, didelis)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, „cross-origin“ izoliacija)
 about-processes-web-isolated-process-private = { $origin } – privatus ({ $pid })
-about-processes-web-large-allocation-process-private = { $origin } – privatus ({ $pid }, didelis)
 about-processes-with-coop-coep-process-private = { $origin } – privatus ({ $pid }, „cross-origin“ izoliacija)
 
 ## Details within processes
@@ -88,6 +89,7 @@ about-processes-active-threads =
         [few] { $active } aktyvios gijos iš { $number }: { $list }
        *[other] { $active } aktyvių gijų iš { $number }: { $list }
     }
+
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -100,21 +102,25 @@ about-processes-inactive-threads =
         [few] { $number } neaktyvios gijos
        *[other] { $number } neaktyvių gijų
     }
+
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = Gijos ID: { $tid }
+
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Kortelė: { $name }
 about-processes-preloaded-tab = Iš anksto įkelta nauja kortelė
+
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Sub-kadras: { $url }
+
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -133,15 +139,15 @@ about-processes-frame-name-many = Sub-kadrai ({ $number }): { $shortUrl }
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Bendras CPU laikas: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (matuojama)
-# Special case: process or thread is currently idle.
-about-processes-cpu-idle = laisva
-    .title = Bendras CPU laikas: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
+
 # Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
 # This case only occurs on Windows where the precision of the CPU times is low.
 about-processes-cpu-almost-idle = < 0.1%
     .title = Bendras CPU laikas: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = laisvas
     .title = Bendras CPU laikas: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
@@ -160,6 +166,7 @@ about-processes-cpu-fully-idle = laisvas
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = Evoliucija: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
+
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 

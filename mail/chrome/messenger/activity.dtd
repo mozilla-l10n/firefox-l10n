@@ -10,28 +10,10 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                  "Veiklų tvarkytuvė">
 
-<!ENTITY cmd.pause.label                  "Pristabdyti">
-<!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Tęsti">
-<!ENTITY cmd.resume.accesskey             "T">
-<!ENTITY cmd.cancel.label                 "Atsisakyti">
-<!ENTITY cmd.cancel.accesskey             "A">
-<!ENTITY cmd.undo.label                   "Atšaukti">
-<!ENTITY cmd.undo.accesskey               "u">
-<!ENTITY cmd.recover.label                "Atstatyti">
-<!ENTITY cmd.recover.accesskey            "s">
-<!ENTITY cmd.retry.label                  "Iš naujo">
-<!ENTITY cmd.retry.accesskey              "n">
-<!ENTITY cmd.removeFromList.label         "Pašalinti iš sąrašo">
-<!ENTITY cmd.removeFromList.accesskey     "š">
-
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Išvalyti sąrašą">
 <!ENTITY cmd.clearList.tooltip            "Iš sąrašo pašalinami užbaigtų, atsisakytų ir nepavykusių veiklų aprašai">
 <!ENTITY cmd.clearList.accesskey          "v">
-<!ENTITY cmd.find.commandkey              "f">
-<!ENTITY cmd.search.commandkey            "k">
 
-<!ENTITY searchBox.label                  "Ieškoti…">

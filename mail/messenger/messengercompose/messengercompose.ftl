@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Send Format
+
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
@@ -66,10 +68,6 @@ toolbar-button-add-attachment =
     .label = Pridėti
     .tooltiptext = Pridėti ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
 
-add-attachment-notification-reminder =
-    .label = Priedai …
-    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
-
 menuitem-attach-files =
     .label = Failas (-ai)…
     .accesskey = F
@@ -79,23 +77,6 @@ context-menuitem-attach-files =
     .label = Prisegti failą (-us)…
     .accesskey = f
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
-
-#   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } priedų
-            [one] { $count } priedas
-            [few] { $count } priedai
-           *[other] { $count } priedų
-        }
-    .accesskey = m
-
-expand-attachment-pane-tooltip =
-    .tooltiptext = Rodyti priedų polangį ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Slėpti priedų polangį ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 
 drop-file-label-attachment =
     { $count ->
@@ -130,48 +111,6 @@ button-return-receipt =
 
 # Addressing Area
 
-to-compose-address-row-label =
-    .value = Kam
-
-#   $key (String) - the shortcut key for this field
-to-compose-show-address-row-menuitem =
-    .label = { to-compose-address-row-label.value } laukas
-    .accesskey = l
-    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
-
-to-compose-show-address-row-label =
-    .value = { to-compose-address-row-label.value }
-    .tooltiptext = Parodyti { to-compose-address-row-label.value } lauką ({ to-compose-show-address-row-menuitem.acceltext })
-
-cc-compose-address-row-label =
-    .value = Kopija
-
-#   $key (String) - the shortcut key for this field
-cc-compose-show-address-row-menuitem =
-    .label = { cc-compose-address-row-label.value } lauks
-    .accesskey = l
-    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
-
-cc-compose-show-address-row-label =
-    .value = { cc-compose-address-row-label.value }
-    .tooltiptext = Parodo { cc-compose-address-row-label.value } lauką ({ cc-compose-show-address-row-menuitem.acceltext })
-
-bcc-compose-address-row-label =
-    .value = Nematoma kopija
-
-#   $key (String) - the shortcut key for this field
-bcc-compose-show-address-row-menuitem =
-    .label = { bcc-compose-address-row-label.value } laukas
-    .accesskey = l
-    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
-
-bcc-compose-show-address-row-label =
-    .value = { bcc-compose-address-row-label.value }
-    .tooltiptext = Parodo { bcc-compose-address-row-label.value } lauką ({ bcc-compose-show-address-row-menuitem.acceltext })
-
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-many-public-recipients-info = { $count } gavėjai iš „To“ ir „Cc“ gali matyti vienas kito adresą. Jei norite to išvengti, naudokite nematomas kopijas (Bcc).
-
 
 many-public-recipients-bcc =
     .label = Vietoj to naudoti nematomas kopijas (BCC)
@@ -186,4 +125,16 @@ many-public-recipients-ignore =
 ## Editing
 
 # Tools
+
+## Filelink
+
+# Placeholder file
+
+# Template
+
+# Messages
+
+## Link Preview
+
+## Dictionary selection popup
 
