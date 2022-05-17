@@ -63,7 +63,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "ಪ್ರೊಫೈಲರ್ ನಮೂನೆ ಪಡೆದುಕೊಂಡಾಗ ಈ ಕಾರ್ಯಭಾರ ಎಷ್ಟು ಬಾರಿ ಸ್ಟ್ಯಾಕ್‌ನಲ್ಲಿತ್ತು.">
 <!ENTITY performanceUI.table.function                 "ಕಾರ್ಯಭಾರ">
 <!ENTITY performanceUI.table.function.tooltip         "ಮಾದರಿ ಕಾರ್ಯಭಾರದ ಹೆಸರು ಮತ್ತು ಮೂಲದ ಸ್ಥಳ">
-<!ENTITY performanceUI.table.totalAlloc               "ಒಟ್ಟಾರೆ ಮಾದರಿ ಹೊಂದಾಣಿಕೆಗಳು">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "ಈ ಸ್ಥಳದಲ್ಲಿ ಮತ್ತು ಕಾಲೀಸ್‌ನಲ್ಲಿ ನಮೂನೆ ಪಡೆದ ವಸ್ತುಗಳ ಹಂಚಿಕೆಯ ಒಟ್ಟು ಸಂಖ್ಯೆ.">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

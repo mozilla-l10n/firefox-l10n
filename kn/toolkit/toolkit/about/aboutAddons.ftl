@@ -3,50 +3,71 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = ಆಡ್‌-ಆನ್‌ಗಳ ವ್ಯವಸ್ಥಾಪಕ
+
 search-header-shortcut =
     .key = f
+
 list-empty-installed =
     .value = ಈ ಬಗೆಯ ಆಡ್‌-ಆನ್‌ಗಳು ನಿಮ್ಮಲ್ಲಿ ಅನುಸ್ಥಾಪಿತಗೊಂಡಿಲ್ಲ
+
 list-empty-available-updates =
     .value = ಯಾವುದೆ ಅಪ್‌ಡೇಟ್‌ಗಳು ಕಂಡುಬಂದಿಲ್ಲ
+
 list-empty-recent-updates =
     .value = ನೀವು ಇತ್ತೀಚೆಗೆ ಯಾವುದೆ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಿಲ್ಲ
+
 list-empty-find-updates =
     .label = ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಹುಡುಕು
+
 list-empty-button =
     .label = ಆಡ್-ಆನ್‌ಗಳ ಬಗೆಗೆ ಇನ್ನಷ್ಟು ಅರಿಯಿರಿ
+
 show-unsigned-extensions-button =
     .label = ಕೆಲವು ವಿಸ್ತರಣಿಕೆಗಳನ್ನು ದೃಢಪಡಿಸಲಾಗಿಲ್ಲ
+
 show-all-extensions-button =
     .label = ಎಲ್ಲ ವಿಸ್ತರಣಗಳನ್ನು ತೋರಿಸು
+
 detail-version =
     .label = ಆವೃತ್ತಿ
+
 detail-last-updated =
     .label = ಕೊನೆಯ ಬಾರಿಗೆ ಅಪ್‌ಡೇಟ್ ಮಾಡಿದ್ದು
+
 detail-contributions-description = ಈ ಆಡ್-ಆನ್‌ನ ವಿಕಸನೆಯು ಮುಂದುವರೆಯುವಲ್ಲಿ ನೆರವಾಗುವ ಸಲುವಾಗಿ ಸಣ್ಣ ಮೊತ್ತದ ದೇಣಿಗೆಯನ್ನು ನೀಡುವಂತೆ ಇದರ ವಿಕಸನೆಗಾರರು ನಿಮಗೆ ಮನವಿ ಮಾಡಿದ್ದಾರೆ.
+
 detail-update-type =
     .value = ಸ್ವಯಂಚಾಲಿತ ಅಪ್‌ಡೇಟ್‌ಗಳು
+
 detail-update-default =
     .label = ಪೂರ್ವನಿಯೋಜಿತ
     .tooltiptext = ಅಪ್‌ಡೇಟ್‌ಗಳ ಅನುಸ್ಥಾಪನೆಯು ಪೂರ್ವನಿಯೋಜಿತ ಆಗಿದ್ದಲ್ಲಿ ಮಾತ್ರ ಅದನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ನೆರೆವೇರಿಸುತ್ತದೆ
+
 detail-update-automatic =
     .label = ಆನ್
     .tooltiptext = ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಿ
+
 detail-update-manual =
     .label = ಆಫ್
     .tooltiptext = ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅನುಸ್ಥಾಪಿಸಬೇಡಿ
+
 detail-home =
     .label = ನೆಲೆಪುಟ
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = ಆಡ್-ಆನ್ ಪ್ರೊಫೈಲ್
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = ಅಪ್‌ಡೇಟ್‌ for ಹುಡುಕು
     .accesskey = f
     .tooltiptext = ಈ ಆಡ್-ಆನ್‌ಗಳಿಗಾಗಿ ಹುಡುಕು
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -63,15 +84,22 @@ detail-show-preferences =
             [windows] ಈ ಆಡ್‌-ಆನ್‌ನ ಆಯ್ಕೆಗಳನ್ನು ಬದಲಾಯಿಸಿ
            *[other] ಈ ಆಡ್‌-ಆನ್‌ನ ಆದ್ಯತೆಗಳನ್ನು ಬದಲಾಯಿಸಿ
         }
+
 detail-rating =
     .value = ಜನಪ್ರಿಯತೆಯ ಅಂದಾಜು
+
 addon-restart-now =
     .label = ಈಗಲೆ ಮರಳಿ ಆರಂಭಿಸು
+
 disabled-unsigned-heading =
     .value = ಕೆಲವು ಆಡ್-ಆನ್‌ಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ
+
 disabled-unsigned-description = ಈ ಕೆಳಗಿನ ಆಡ್-‌ಆನ್‌ಗಳನ್ನು { -brand-short-name } ನಲ್ಲಿನ ಬಳಕೆಗೆ ದೃಢಪಡಿಸಲಾಗಿಲ್ಲ. ನೀವು ಬೇಕಿದ್ದಲ್ಲಿ <label data-l10n-name="find-addons">ಬದಲಾವಣೆಗಳನ್ನು ಹುಡುಕು</label> ಅಥವಾ ಅವುಗಳನ್ನು ದೃಢಪಡಿಸಲು ಡೆವೆಲಪರ್ ಅನ್ನು ಕೇಳಿಕೊಳ್ಳಬಹುದು.
+
 disabled-unsigned-learn-more = ನಿಮ್ಮನ್ನು ಆನ್‌ಲೈನ್ ಸುರಕ್ಷಿತವಾಗಿರುವಲ್ಲಿ ಸಹಾಯ ಮಾಡುವ ನಮ್ಮ ಶ್ರಮದ ಬಗ್ಗೆ ಹೆಚ್ಚು ತಿಳಿಯಿರಿ.
+
 disabled-unsigned-devinfo = ತಮ್ಮ ಆಡ್-ಅನ್‌ಗಳನ್ನು ದೃಢಪಡಿಸಿಕೊಳ್ಳ ಬಯಸಲು ಇಚ್ಛಿಸುವ ಡೆವೆಲಪರ್‌ಗಳು ಮುದುವರೆಯಲು ಓದಿ ನಮ್ಮ <label data-l10n-name="learn-more">ಕೈಪಿಡಿ</label>.
+
 addon-category-extension = ಎಕ್ಸ್‍ಟೆನ್ಶನ್‌ಗಳು
 addon-category-extension-title =
     .title = ಎಕ್ಸ್‍ಟೆನ್ಶನ್‌ಗಳು
@@ -175,12 +203,17 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } ಎನ್ನುವುದು { -brand-short-name } { $version } ನೊಂದಿಗೆ ಹೊಂದಿಕೆಯಾಗುತ್ತಿಲ್ಲ.
+
 details-notification-unsigned-and-disabled = { $name } ಅನ್ನು { -brand-short-name } ನಲ್ಲಿ ಬಳಕೆಗೆ ದೃಢಪಡಿಸಲಾಗಿಲ್ಲ ಮತ್ತು ಅದನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ.
 details-notification-unsigned-and-disabled-link = ಹೆಚ್ಚಿನ ಮಾಹಿತಿ
+
 details-notification-unsigned = { $name } ಅನ್ನು { -brand-short-name } ನಲ್ಲಿ ಬಳಕೆಗೆ ದೃಢಪಡಿಸಲಾಗಿಲ್ಲ. ಎಚ್ಚರಿಕೆಯಿಂದ ಮುಂದುವರೆಯಿರಿ.
 details-notification-unsigned-link = ಹೆಚ್ಚಿನ ಮಾಹಿತಿ
+
 details-notification-blocked = ಸುರಕ್ಷತೆ ಅಥವ ಸ್ಥಿರತೆಯ ಸಮಸ್ಯೆಗಳಿಂದಾಗಿ { $name } ಅನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ.
 details-notification-blocked-link = ಹೆಚ್ಚಿನ ಮಾಹಿತಿ
+
 details-notification-softblocked = { $name } ಎನ್ನುವುದು ಸುರಕ್ಷತೆ ಅಥವ ಸ್ಥಿರತೆಯ ಸಮಸ್ಯೆಗಳಿಗೆ ಕಾರಣವಾಗುತ್ತದೆ ಎಂದು ತಿಳಿದು ಬಂದಿದೆ.
 details-notification-softblocked-link = ಹೆಚ್ಚಿನ ಮಾಹಿತಿ
+
 details-notification-gmp-pending = { $name } ಸದ್ಯದಲ್ಲಿಯೆ ಅನುಸ್ಥಾಪಿಸಲಾಗುತ್ತದೆ.

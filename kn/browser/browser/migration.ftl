@@ -67,22 +67,9 @@ import-done-description = ಈ ಕೆಳಗಿನ ಅಂಶಗಳನ್ನು ಯ
 
 import-close-source-browser = ಮುಂದುವರೆಯುವ ಮೊದಲು, ಆಯ್ಕೆ ಮಾಡಲಾದ ಜಾಲವೀಕ್ಷಕವನ್ನು ಮುಚ್ಚಲಾಗಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = { $source } ನಿಂದ
-
 source-name-ie = ಇಂಟರ್ನೆಟ್ ಎಕ್ಸ್‍ಪ್ಲೋರರ್
 source-name-edge = ಮೈಕ್ರೋಸಾಫ್ಟ್ ಎಜ್
-source-name-safari = ಸಫಾರಿ
-source-name-canary = ಗೂಗಲ್ ಕ್ರೋಮ್ ಕ್ಯಾನರಿ
 source-name-chrome = ಗೂಗಲ್ ಕ್ರೋಮ್
-source-name-chrome-beta = ಗೂಗಲ್ ಕ್ರೋಮ್ ಬೀಟಾ
-source-name-chrome-dev = ಗೂಗಲ್ ಕ್ರೋಮ್ ಡೆವ್
-source-name-chromium = ಕ್ರೋಮಿಯಮ್
-source-name-firefox = ಮೋಝಿಲ್ಲಾ ಫೈರ್ಫಾಕ್ಸ್
-source-name-360se = 360 ಸುರಕ್ಷಿತ ವೀಕ್ಷಕ
 
 imported-safari-reading-list = ಓದುವ ಪಟ್ಟಿ (ಸಫಾರಿಯಿಂದ)
 imported-edge-reading-list = ಓದುವ ಪಟ್ಟಿ (ಎಜ್‌ನಿಂದ)

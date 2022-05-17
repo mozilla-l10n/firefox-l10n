@@ -16,14 +16,8 @@ newtab-search-box-search-button =
     .title = ಹುಡುಕು
     .aria-label = ಹುಡುಕು
 
-newtab-search-box-search-the-web-input =
-    .placeholder = ಅಂತರ್ಜಾಲವನ್ನು ಹುಡುಕಿ
-    .title = ಅಂತರ್ಜಾಲವನ್ನು ಹುಡುಕಿ
-    .aria-label = ಅಂತರ್ಜಾಲವನ್ನು ಹುಡುಕಿ
-
 ## Top Sites - General form dialog.
 
-newtab-topsites-add-topsites-header = ಹೊಸ ಅಗ್ರ ತಾಣಗಳು
 newtab-topsites-edit-topsites-header = ಅಗ್ರ ತಾಣಗಳನ್ನು ಸಂಪಾದಿಸಿ
 newtab-topsites-title-label = ಶೀರ್ಷಿಕೆ
 newtab-topsites-title-input =
@@ -135,7 +129,6 @@ newtab-section-menu-move-down = ಕೆಳಗೆ ಜರುಗಿಸು
 ## Section Headers.
 
 newtab-section-header-topsites = ಪ್ರಮುಖ ತಾಣಗಳು
-newtab-section-header-highlights = ಮುಖ್ಯಾಂಶಗಳು
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } ರಿಂದ ಶಿಫಾರಸುಮಾಡುಲಾಗಿದೆ
@@ -153,6 +146,9 @@ newtab-empty-section-highlights = ವೀಕ್ಷಣೆ ಮಾಡಲು ಶು�
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ಜನಪ್ರಿಯವಾದ ವಿಷಯಗಳು:
 newtab-pocket-cta-button = { -pocket-brand-name } ಪಡೆಯಿರಿ
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

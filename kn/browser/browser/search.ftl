@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = ಅನುಸ್ಥಾಪನಾ ದೋಷ
 opensearch-error-duplicate-desc = { -brand-short-name } "{ $location-url }" ಇಂದ ಹುಡುಕು ಪ್ಲಗ್‌ಇನ್ ಅನ್ನು ಅನುಸ್ಥಾಪನೆ ಮಾಡಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ ಏಕೆಂದರೆಅದೆ ಹೆಸರಿನ ಒಂದು ಪ್ಲಗ್ಇನ್‌ ಈಗಾಗಲೆ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ.
+
 opensearch-error-format-title = ಅಮಾನ್ಯ ಸ್ವರೂಪ
 opensearch-error-format-desc = { $location-url } ನಿಂದ { -brand-short-name } ಹುಡುಕು ಸಾಧನವನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ
+
 opensearch-error-download-title = ಡೌನ್‌ಲೋಡ್ ದೋಷ
 opensearch-error-download-desc = { -brand-short-name } ಇದರಿಂದ ಹುಡುಕು ಪ್ಲಗ್‌ಇನ್ ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ: { $location-url }
 
@@ -19,8 +21,16 @@ opensearch-error-download-desc = { -brand-short-name } ಇದರಿಂದ ಹು
 
 searchbar-submit =
     .tooltiptext = ಹುಡುಕನ್ನು ಒಪ್ಪಿಸು
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = ಹುಡುಕು
+
 searchbar-icon =
     .tooltiptext = ಹುಡುಕು
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+

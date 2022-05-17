@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = ಸಕ್ರಿಯ
 about-networking-idle = ನಿಷ್ಕ್ರಿಯ
 about-networking-host = ಅತಿಥೇಯ
-about-networking-tcp = TCP
 about-networking-sent = ಕಳುಹಿಸಲಾಗಿದೆ
 about-networking-received = ಪಡೆಯಲಾಗಿದೆ
 about-networking-family = ಕುಲ
