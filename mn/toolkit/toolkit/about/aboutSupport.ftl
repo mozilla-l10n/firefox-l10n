@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashes-id = Мэдэгдлийн ID дугаар
+
 a11y-title = Хандалт
 
 ## Media titles

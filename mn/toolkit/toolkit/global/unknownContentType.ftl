@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] SТохируулгууд { -brand-short-name }-н Тохируулга цонхонд хийгдэж болно.
            *[other] Тохируулгууд { -brand-short-name }-н Тохируулга цонхонд хийгдэж болно.
         }
+
 unknowncontenttype-from = хаанаас:
 unknowncontenttype-prompt = Та энэ файлыг хадгалмаар байна уу?
 unknowncontenttype-action-question = { -brand-short-name } энэ файлыг яах вэ?

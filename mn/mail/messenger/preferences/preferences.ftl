@@ -183,12 +183,6 @@ restore-html-label =
     .label = Анхны горимыг сэргээ:
     .accesskey = г
 
-format-description = Текст хэлбэрийн тохиргоо
-
-send-options-label =
-    .label = Илгээх сонголт…
-    .accesskey = л
-
 autocomplete-description = Захиаг хаяглах үед тохирох оруулгыг хайх газар:
 
 ab-label =
@@ -225,4 +219,6 @@ email-picker-label =
 
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

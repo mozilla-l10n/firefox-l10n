@@ -15,12 +15,14 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Үргэлжлүүлж тат
     .accesskey = ж
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = Агуулж буй санг нээ
-    .accesskey = А
   
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
+##
+
 downloads-cmd-copy-download-link =
     .label = Татаж авах холбоосыг сануул
     .accesskey = ж
@@ -32,6 +34,13 @@ downloads-cmd-copy-download-link =
 ##   $hours (number) - Amount of hours left till the file opens.
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
+
+##
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
 ##
 

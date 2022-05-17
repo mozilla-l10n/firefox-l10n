@@ -16,8 +16,6 @@
 <!ENTITY openMessageFileCmd.accesskey "э">
 <!ENTITY saveAsMenu.label "Нэр өгч хадгал">
 <!ENTITY saveAsMenu.accesskey "Н">
-<!ENTITY saveAsFileCmd.label "Файл">
-<!ENTITY saveAsFileCmd.accesskey "й">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Хоосон загвар">
 <!ENTITY saveAsTemplateCmd.accesskey "з">

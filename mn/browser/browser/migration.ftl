@@ -41,15 +41,7 @@ import-done-page-title = Импортлолт гүйцлээ
 
 import-done-description = Дараах зүйлс амжилттай импортлогдлоо:
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = { $source }-ээс
-
 source-name-ie = Internet Explorer
-source-name-safari = Safari
-source-name-firefox = Mozilla Firefox
 
 ## Browser data types
 ## All of these strings get a $browser variable passed in.

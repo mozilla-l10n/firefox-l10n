@@ -21,3 +21,6 @@ path-dd = <span data-l10n-name="path">Зам:</span> { $pluginFullPath }
 mime-type-label = MIME Төрөл
 description-label = Тодорхойлолт
 suffixes-label = файлын өргөтгөл
+
+## Gecko Media Plugins (GMPs)
+

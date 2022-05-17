@@ -10,16 +10,3 @@
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
-<!ENTITY menu_securityEncryptRequire.accesskey "х">
-
-<!ENTITY menu_securitySign.label "Энэ захианд баталгаат гарын үсэг өг">
-<!ENTITY menu_securitySign.accesskey "б">
-
-<!ENTITY menu_securityStatus.label "Нууцлалын мэдээллийг харах">
-<!ENTITY menu_securityStatus.accesskey "х">
-
-<!ENTITY securityButton.label "Нууцлал">
-<!ENTITY securityButton.tooltip "Нууцлалын тохиргоог харах юмуу өөрчлөх">
-
-<!ENTITY menu_viewSecurityStatus.label "Захианы нууцлалын мэдээлэл">
-<!ENTITY menu_viewSecurityStatus.accesskey "н">

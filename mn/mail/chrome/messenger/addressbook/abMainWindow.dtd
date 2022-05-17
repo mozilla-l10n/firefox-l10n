@@ -69,6 +69,7 @@
 
 <!ENTITY newlistButton.label                            "Шинэ жагсаалт">
 <!ENTITY newlistButton.accesskey                        "ж">
+
 <!ENTITY newmsgButton.label                             "Бичих">
 <!ENTITY newmsgButton.accesskey                         "Б">
 <!ENTITY newIM.label                                    "Бичил захиа">

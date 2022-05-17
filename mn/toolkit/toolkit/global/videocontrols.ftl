@@ -10,3 +10,4 @@ videocontrols-mute-button =
     .aria-label = Дуугүй
 videocontrols-unmute-button =
     .aria-label = Дуутай
+
