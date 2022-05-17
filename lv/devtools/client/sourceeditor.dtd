@@ -21,5 +21,4 @@
 
 
 <!ENTITY gotoLineCmd.label         "Pāriet uz rindiņu…">
-<!ENTITY gotoLineCmd.key           "J">
 <!ENTITY gotoLineCmd.accesskey     "u">

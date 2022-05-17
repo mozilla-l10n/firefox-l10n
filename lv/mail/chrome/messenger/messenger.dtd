@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "P">
 <!ENTITY newVirtualFolderCmd.label "Saglabātā meklēšana…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newOtherAccountsCmd.label "Citi konti…">
-<!ENTITY newOtherAccountsCmd.accesskey "C">
 <!ENTITY newCreateEmailAccountCmd.label "Iegūt jaunu pasta kontu…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "I">
 <!ENTITY newExistingEmailAccountCmd.label "Esošais pasta konts…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "S">
 <!ENTITY saveAsMenu.label "Saglabāt kā">
 <!ENTITY saveAsMenu.accesskey "k">
-<!ENTITY saveAsFileCmd.label "Fails">
-<!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Veidne">
 <!ENTITY saveAsTemplateCmd.accesskey "V">

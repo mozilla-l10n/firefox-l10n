@@ -69,6 +69,7 @@ tab-context-move-tabs =
            *[other] Pārvietot cilnes
         }
     .accesskey = c
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

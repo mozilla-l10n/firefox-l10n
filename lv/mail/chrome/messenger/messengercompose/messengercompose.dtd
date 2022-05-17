@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "s">
 <!ENTITY attachPageCmd.label "Tīmekļa lapa…">
 <!ENTITY attachPageCmd.accesskey "T">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Personīgā karte (vCard)">
-<!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY remindLater.label "Atgādināt vēlāk">
 <!ENTITY remindLater.accesskey "v">
 <!ENTITY closeCmd.label "Aizvērt">
@@ -148,16 +145,6 @@
 <!ENTITY returnReceiptMenu.accesskey "S">
 <!ENTITY dsnMenu.label "Piegādes statusa paziņojums">
 <!ENTITY dsnMenu.accesskey "P">
-<!ENTITY deliveryFormatMenu.label "Piegādes formāts">
-<!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "Noteikt automātiski">
-<!ENTITY autoFormatCmd.accesskey "a">
-<!ENTITY plainTextFormatCmd.label "Tikai teksts">
-<!ENTITY plainTextFormatCmd.accesskey "t">
-<!ENTITY htmlFormatCmd.label "Tikai bagāts teksts (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "b">
-<!ENTITY bothFormatCmd.label "Vienkāršs un bagāts (HTML) teksts">
-<!ENTITY bothFormatCmd.accesskey "h">
 <!ENTITY priorityMenu.label "Prioritāte">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.title "Prioritāte">
@@ -221,7 +208,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Citi adresācijas lauku veidi">
 <!ENTITY fromAddr2.label "No">
 <!ENTITY fromAddr.accesskey "N">
 <!ENTITY replyAddr2.label "Atbildēt uz">

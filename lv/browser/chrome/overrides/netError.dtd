@@ -98,8 +98,6 @@
 <!ENTITY errorReporting.automatic2 "Ziņojiet par šādām kļūdām Mozilla, lai varētu identificēt un bloķēt kaitnieciskas lapas">
 <!ENTITY errorReporting.learnMore "Uzzināt vairāk…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Lūdzu sazinieties ar mājas lapas īpašniekiem un informējiet viņus par šo problēmu.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Papildus informācija:  ssl_error_unsupported_version">

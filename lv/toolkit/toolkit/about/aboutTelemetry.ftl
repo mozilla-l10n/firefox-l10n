@@ -31,7 +31,6 @@ about-telemetry-events-section = Notikumi
 about-telemetry-simple-measurements-section = Vienkārši mērījumi
 about-telemetry-slow-sql-section = Lēnie SQL vaicājumi
 about-telemetry-addon-details-section = Papildinājumu informācija
-about-telemetry-captured-stacks-section = Notverti steki
 about-telemetry-late-writes-section = Vēlie rakstījumi
 about-telemetry-raw-payload-section = Neapstrādātie dati
 about-telemetry-raw = Neapstrādāts JSON
@@ -105,10 +104,6 @@ about-telemetry-addon-provider = { $addonProvider } piegādātājs
 about-telemetry-keys-header = Parametrs
 about-telemetry-names-header = Nosaukums
 about-telemetry-values-header = Vērtība
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (tvērumu skaits: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Vēlie rakstījumi #{ $lateWriteCount }

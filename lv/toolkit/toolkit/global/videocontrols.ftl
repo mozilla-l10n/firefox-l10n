@@ -18,12 +18,14 @@ videocontrols-casting-button-label =
     .aria-label = Pārraidīt uz ekrānu
 videocontrols-closed-caption-off =
     .offlabel = Izslēgts
+
 videocontrols-error-aborted = Video ielāde apturēta.
 videocontrols-error-network = Video atskaņošana apturēta tīkla kļūmes dēļ.
 videocontrols-error-decode = Video nevar atskaņot, jo tā fails ir bojāts.
 videocontrols-error-src-not-supported = Video formāts vai MIME tips nav atbalstīs.
 videocontrols-error-no-source = Netika atrasts atbalstīta formāta vai MIME tipa video.
 videocontrols-error-generic = Video atskaņošana apturēta nezināmas kļūmes dēļ.
+
 # This message shows the current position and total video duration
 #
 # Variables:

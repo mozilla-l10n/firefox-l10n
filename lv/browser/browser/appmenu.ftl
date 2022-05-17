@@ -31,14 +31,18 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nav atvērto cilņu
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Ieslēdziet cilņu sinhronizāciju, lai redzētu cilnes no citām ierīcēm.
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Gribat redzēt cilnes no citām savām ierīcēm?
+
 appmenu-remote-tabs-connectdevice =
     .label = Savienot citu ierīci
 appmenu-remote-tabs-unverified = Jūsu kontam nepieciešams apstiprinājums.
+
 appmenuitem-save-page =
     .label = Saglabāt lapu kā…
 
@@ -50,6 +54,13 @@ whatsnew-panel-header = Kas jauns?
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+
+## Profiler presets
+## They are shown in the popup's select box.
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
 
 ## History panel
 
@@ -70,9 +81,6 @@ appmenu-about =
     .accesskey = a
 appmenu-help-report-site-issue =
     .label = Ziņot par problēmu ar lapu…
-appmenu-help-feedback-page =
-    .label = Nosūtīt atsauksmi…
-    .accesskey = s
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -90,5 +98,3 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
-appmenu-taskmanager =
-    .label = Uzdevumu pārvaldnieks

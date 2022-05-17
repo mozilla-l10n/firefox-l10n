@@ -63,12 +63,6 @@ afterauth-private = Jūs esat pārbaudījis { $name } identitāti.
 #   $name (String) - the screen name of a chat contact person
 afterauth-unverified = { $name } identitāte nav pārbaudīta.
 
-verify-title = Pārbaudiet jūsu kontaktpersonas identitāti
-error-title = Kļūda
-success-title = Tiešās saziņas šifrēšana
-fail-title = Neizdevās pārbaudīt
-waiting-title = Pārbaudes pieprasījums nosūtīts
-
 # Do not translate 'OTR' (name of an encryption protocol)
 # Variables:
 #   $error (String) - contains an error message that describes the cause of the failure

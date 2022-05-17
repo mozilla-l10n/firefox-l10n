@@ -28,3 +28,4 @@ openpgp-key-undecided = Nepieņemta (neizlemts)
 openpgp-key-rejected = Nepieņemta (noraidīta)
 
 openpgp-intro = Pieejamas publiskās atslēgas priekš { $key }
+

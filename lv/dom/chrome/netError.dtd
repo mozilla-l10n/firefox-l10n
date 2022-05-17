@@ -79,9 +79,6 @@
 <!ENTITY corruptedContentErrorv2.title "Bojāta satura kļūda">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Lappuse, kuru mēģināt skatīt nevar parādīt, jo tika atrasta kļūda datu pārraidi.</p><ul><li>Lūdzu, sazinieties ar mājas īpašniekiem, lai informētu viņus par šo problēmu.</li></ul>">
 
-<!ENTITY remoteXUL.title "Attālināts XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Lūdzu sazinieties ar mājas lapas īpašniekiem un informējiet viņus par šo problēmu.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Savienojums nav drošs">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

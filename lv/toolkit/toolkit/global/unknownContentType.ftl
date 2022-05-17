@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] Iestatījumus var mainīt { -brand-short-name } iestatījumos.
            *[other] Iestatījumus var mainīt { -brand-short-name } iestatījumos, lejupielāžu sadaļā.
         }
+
 unknowncontenttype-intro = Jūs esat izvēlējies atvērt:
 unknowncontenttype-which-is = kurš ir:
 unknowncontenttype-from = no:

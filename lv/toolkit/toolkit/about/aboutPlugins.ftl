@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Par spraudņiem
+
 installed-plugins-label = Instalētie spraudņi
 no-plugins-are-installed-label = Neviens spraudnis nav uzinstalēts
+
 deprecation-description = Kaut kas pietrūkst? Daži spraudņi vairs netiek atbalstīti. <a data-l10n-name="deprecation-link">Uzzināt vairāk.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">Stāvoklis:</span> Aktivēts
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Stāvoklis:</span> Aktivēts ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Stāvoklis:</span> Deaktivēts
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Stāvoklis:</span> Deaktivēts ({ $blockListState })
+
 mime-type-label = MIME tips
 description-label = Apraksts
 suffixes-label = Sufiksi
@@ -35,6 +38,8 @@ suffixes-label = Sufiksi
 
 plugins-gmp-license-info = Licences informācija
 plugins-gmp-privacy-info = Privātuma informācija
+
 plugins-openh264-name = OpenH264 video kodeks, ko piedāvā Cisco Systems, Inc.
 plugins-openh264-description = Šo spraudni automātiski instalē Mozilla, lai nodrošinātu savietojamību ar WebRTC specifikāciju un ļautu realizēt WebRTC zvanus starp ierīcēm, kam nepieciešams H.264 video kodeks. Apmeklējiet http://www.openh264.org/, lai iepazītos ar pirmkodu un uzzinātu vairāk par realizāciju.
+
 plugins-widevine-name = Google Inc piedāvātais Widevine Content Decryption Module

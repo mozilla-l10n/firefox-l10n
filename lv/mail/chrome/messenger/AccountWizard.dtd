@@ -9,15 +9,6 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo2.label "Lai saņemtu vēstules, vispirms ir jāizveido konts.">
-<!ENTITY accountTypeTitle.label "Jauna konta iestatīšana">
-<!ENTITY accountTypeDesc2.label "Šis vednis apkopos nepieciešamo informāciju, lai izveidotu kontu. Ja nezināt pieprasīto informāciju, lūdzu, sazinieties ar sistēmas administratoru vai interneta pakalpojumu sniedzēju.">
-<!ENTITY accountTypeDirections.label "Izvēlieties konta veidu, kādu vēlaties izveidot:">
-<!ENTITY accountTypeMail.label "Epasta konts">
-<!ENTITY accountTypeMail.accesskey "E">
-<!ENTITY accountTypeNews.label "Ziņu grupas konts">
-<!ENTITY accountTypeNews.accesskey "Z">
-
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identitāte">
@@ -39,65 +30,13 @@
 <!-- Entities for Incoming Server page -->
 
 <!ENTITY incomingTitle.label "Ienākošā servera informācija">
-<!ENTITY incomingServerTypeDesc.label "Izvēlieties jūsu izmantoto ienākošā servera veidu.">
-<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
-<!ENTITY imapType.label "IMAP">
-<!ENTITY imapType.accesskey "I">
-<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
-<!ENTITY popType.label "POP">
-<!ENTITY popType.accesskey "P">
-<!ENTITY leaveMsgsOnSrvr.label "Atstāt vēstules serverī">
-<!ENTITY leaveMsgsOnSrvr.accesskey "S">
-<!ENTITY portNum.label "Ports:">
-<!ENTITY portNum.accesskey "o">
-<!ENTITY defaultPortLabel.label "Noklusētais:">
-<!ENTITY defaultPortValue.label "">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Ievadiet ienākošā servera nosaukumu (piemēram, &quot;mail.example.net&quot;).">
-<!ENTITY incomingServer.label "Ienākošais serveris:">
-<!ENTITY incomingServer.accesskey "I">
-<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Ievadiet ienākošo lietotāja vārdu, ko jums ir devis jūsu epasta pakalpojumu sniedzējs (piemēram, &quot;jsmith&quot;).">
 <!ENTITY incomingUsername.label "Lietotājvārds:">
-<!ENTITY incomingUsername.accesskey "L">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Ievadiet jūsu ziņu servera (NNTP) nosaukumu (piemēram, &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "Ziņu grupas serveris:">
 <!ENTITY newsServerLabel.accesskey "Z">
 
 <!-- Entities for Outgoing Server page -->
-
-<!ENTITY outgoingTitle.label "Izejošā servera informācija">
-<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Ievadiet izejošā servera (SMTP) nosaukumu (piemēram, &quot;smtp.example.net&quot;).">
-<!ENTITY outgoingServer.label "Izejošais serveris:">
-<!ENTITY outgoingServer.accesskey "I">
-<!ENTITY outgoingUsername.description "Ievadiet izejošo lietotāja vārdu, ko jums ir devis jūsu epasta pakalpojumu sniedzējs (tas parasti ir tāds pats kā jūsu ienākošā lietotāja vārds).">
-<!ENTITY outgoingUsername.label "Izejošais lietotāja vārds:">
-<!ENTITY outgoingUsername.accesskey "l">
-
-<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
-     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
--->
-<!ENTITY modifyOutgoing.suffix "Izejošos serverus varat mainīt konta iestatījumos.">
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
--->
-<!ENTITY haveSmtp1.prefix "Jūsu esošais izejošais serveris (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix3 "tiks izmantots: &quot;.">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
--->
-<!ENTITY haveSmtp2.prefix "Jūsu esošais izejošais (SMTP) lietotājvārds, &quot;">
-<!ENTITY haveSmtp2.suffix3 "tiks izmantots: &quot;.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
--->
-<!ENTITY haveSmtp3.prefix "Jūsu izejošais (SMTP) serveris, &quot;">
-<!ENTITY haveSmtp3.suffix3 "&quot;, ir identisks ienākošajam serverim, lai piekļūtu tam, tiks izmantots jūsu ienākošais lietotāja vārds.">
 
 <!-- Entities for Account name page -->
 
@@ -111,14 +50,6 @@
 
 <!ENTITY completionTitle.label "Apsveicam!">
 <!ENTITY completionText.label "Lūdzu, pārbaudiet, vai zemāk sniegtā informācija ir pareiza.">
-<!ENTITY serverTypePrefix.label "Ienākošā servera veids:">
-<!ENTITY serverNamePrefix.label "Ienākošā servera nosaukums:">
-<!ENTITY smtpServerNamePrefix.label "Izejošā servera nosaukums (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Ziņu servera nosaukums (NNTP):">
-<!ENTITY downloadOnLogin.label "Lejuplādēt vēstules tagad">
-<!ENTITY downloadOnLogin.accesskey "L">
-<!ENTITY deferStorageDesc.label "Noņemiet atzīmi no šīs izvēles rūtiņas, lai šī konta vēstules glabātu savā mapē. Tad šis konts tiks parādīts kā augstākā līmeņa konts. Pretējā gadījumā tas būs globālās iesūtnes lokālo mapju daļa.">
-<!ENTITY deferStorage.label "Izmantot globālo iesūtni (saglabāt pastu lokālās mapēs)">
-<!ENTITY deferStorage.accesskey "g">
 <!ENTITY clickFinish.label "Klikšķiniet uz Pabeigt, lai saglabātu šos iestatījumus un izietu no konta vedņa.">
 <!ENTITY clickFinish.labelMac "Noklikšķiniet uz Gatavs, lai saglabātu šos iestatījumus un izietu no Konta vedņa.">

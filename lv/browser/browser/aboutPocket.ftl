@@ -41,3 +41,7 @@ pocket-panel-signup-tagline-story-two = Skatiet ar { -pocket-brand-name } jebkur
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+
