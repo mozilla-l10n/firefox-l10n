@@ -38,16 +38,11 @@ menu-quit =
             [windows] G
            *[other] G
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Gadael { -brand-shorter-name }
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Gadael { -brand-shorter-name }
+
 menu-about =
     .label = Ynghylch { -brand-shorter-name }
     .accesskey = n
@@ -77,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Agor Ffeil…
     .accesskey = F
-menu-file-close =
-    .label = Cau
-    .accesskey = C
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 menu-file-close-tab =
@@ -109,9 +101,6 @@ menu-file-share-url =
 menu-file-print-setup =
     .label = Gosodiad Tudalen…
     .accesskey = o
-menu-file-print-preview =
-    .label = Rhagolwg Argraffu
-    .accesskey = R
 menu-file-print =
     .label = Argraffu…
     .accesskey = A
@@ -324,9 +313,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = R
 menu-help-report-site-issue =
     .label = Adrodd ar Fater Gwefan…
-menu-help-feedback-page =
-    .label = Cyflwyno Adborth…
-    .accesskey = A
 menu-help-share-ideas =
     .label = Rhannwch Syniadau ac Adborth…
     .accesskey = R

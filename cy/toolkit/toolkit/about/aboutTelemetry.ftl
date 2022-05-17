@@ -34,7 +34,6 @@ about-telemetry-events-section = Digwyddiadau
 about-telemetry-simple-measurements-section = Mesuriadau Syml
 about-telemetry-slow-sql-section = Datganiadau SQL Araf
 about-telemetry-addon-details-section = Manylion Ychwanegyn
-about-telemetry-captured-stacks-section = Staciau wedi eu Cipio
 about-telemetry-late-writes-section = Ysgrifennu Hwyr
 about-telemetry-raw-payload-section = Llwyth Bras
 about-telemetry-raw = JSON bras
@@ -125,10 +124,6 @@ about-telemetry-addon-provider = Darparwr { $addonProvider }
 about-telemetry-keys-header = Priodwedd
 about-telemetry-names-header = Enw
 about-telemetry-values-header = Gwerth
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (cyfrif cipio: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Ysgrifennu Hwyr #{ $lateWriteCount }

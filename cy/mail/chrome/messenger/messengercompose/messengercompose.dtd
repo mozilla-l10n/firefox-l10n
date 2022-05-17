@@ -21,9 +21,6 @@
 <!ENTITY attachCloudCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "Tudalen Gwe…">
 <!ENTITY attachPageCmd.accesskey "T">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Cerdyn Personol (vCard)">
-<!ENTITY attachVCardCmd.accesskey "C">
 <!ENTITY remindLater.label "Atgoffa Fi yn Ddiweddarach">
 <!ENTITY remindLater.accesskey "D">
 <!ENTITY closeCmd.label "Cau">
@@ -149,16 +146,6 @@
 <!ENTITY returnReceiptMenu.accesskey "D">
 <!ENTITY dsnMenu.label "Hysbysiad Statws Trosglwyddo">
 <!ENTITY dsnMenu.accesskey "H">
-<!ENTITY deliveryFormatMenu.label "Fformat Darparu">
-<!ENTITY deliveryFormatMenu.accesskey "D">
-<!ENTITY autoFormatCmd.label "Awto-Ganfod">
-<!ENTITY autoFormatCmd.accesskey "A">
-<!ENTITY plainTextFormatCmd.label "Testun Plaen yn Unig">
-<!ENTITY plainTextFormatCmd.accesskey "P">
-<!ENTITY htmlFormatCmd.label "Testun Cyfoethog (HTML) yn Unig">
-<!ENTITY htmlFormatCmd.accesskey "C">
-<!ENTITY bothFormatCmd.label "Testun Plaen a Chyfoethog (HTML)">
-<!ENTITY bothFormatCmd.accesskey "P">
 <!ENTITY priorityMenu.label "Blaenoriaeth">
 <!ENTITY priorityMenu.accesskey "B">
 <!ENTITY priorityButton.title "Blaenoriaeth">
@@ -222,7 +209,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Mathau eraill o feysydd cyfeiriad">
 <!ENTITY fromAddr2.label "Oddi wrth">
 <!ENTITY fromAddr.accesskey "O">
 <!ENTITY replyAddr2.label "Ateb i">

@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "S">
 <!ENTITY newVirtualFolderCmd.label "Chwilio a Gadwyd…">
 <!ENTITY newVirtualFolderCmd.accesskey "w">
-<!ENTITY newOtherAccountsCmd.label "Cyfrifon Eraill…">
-<!ENTITY newOtherAccountsCmd.accesskey "y">
 <!ENTITY newCreateEmailAccountCmd.label "Estyn Cyfrif E-bost Newydd…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "E">
 <!ENTITY newExistingEmailAccountCmd.label "Cyfrif E-bost Cyfredol…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "s">
 <!ENTITY saveAsMenu.label "Cadw Fel">
 <!ENTITY saveAsMenu.accesskey "C">
-<!ENTITY saveAsFileCmd.label "Ffeil">
-<!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Templed">
 <!ENTITY saveAsTemplateCmd.accesskey "T">

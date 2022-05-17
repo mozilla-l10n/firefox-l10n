@@ -8,10 +8,13 @@
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = Thema'r system — awto
 extension-default-theme-description = Dilynwch osodiad y system weithredu ar gyfer botymau, dewislenni a ffenestri.
+
 extension-firefox-compact-light-name = Golau
 extension-firefox-compact-light-description = Thema gyda chynllun lliw golau.
+
 extension-firefox-compact-dark-name = Tywyll
 extension-firefox-compact-dark-description = Thema sydd â chynllun lliw tywyll.
+
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Defnyddiwch wedd liwgar ar gyfer botymau, dewislenni, a ffenestri.
 

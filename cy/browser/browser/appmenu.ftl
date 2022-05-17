@@ -5,23 +5,21 @@
 
 ## App Menu
 
-appmenuitem-update-banner3 =
-    .label-update-downloading = Yn llwytho diweddariad { -brand-shorter-name } i lawr
-    .label-update-available = Mae diweddariad ar gael — llwytho i lawr nawr
-    .label-update-manual = Mae diweddariad ar gael — llwytho i lawr nawr
-    .label-update-unsupported = Methu diweddaru — mae'r system yn anghydnaws
-    .label-update-restart = Mae diweddariad ar gael — ailgychwyn nawr
-appmenuitem-protection-dashboard-title = Bwrdd Gwaith Diogelwch
 appmenuitem-banner-update-downloading =
     .label = Yn llwytho diweddariad { -brand-shorter-name } i lawr
+
 appmenuitem-banner-update-available =
     .label = Mae diweddariad ar gael — llwytho i lawr nawr
+
 appmenuitem-banner-update-manual =
     .label = Mae diweddariad ar gael — llwytho i lawr nawr
+
 appmenuitem-banner-update-unsupported =
     .label = Methu diweddaru — mae'r system yn anghydnaws
+
 appmenuitem-banner-update-restart =
     .label = Mae diweddariad ar gael — ailgychwyn nawr
+
 appmenuitem-new-tab =
     .label = Tab Newydd
 appmenuitem-new-window =
@@ -58,6 +56,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Cau Dewislen y Rhaglen
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -78,23 +77,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Mewngofnodi i Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Cychwyn Sync…
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Dangos Rhagor o Dabiau
     .tooltiptext = Dangos rhagor o dabiau o'r ddyfais hon
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Dim tabiau agored
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Cychwynnwch gydweddu tabiau er mwyn gweld rhestr o dabiau o'ch dyfeisiau eraill.
+
 appmenu-remote-tabs-opensettings =
     .label = Gosodiadau
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Hoffech chi weld eich tabiau o ddyfeisiau eraill yma?
+
 appmenu-remote-tabs-connectdevice =
     .label = Cysylltu Dyfais Arall
 appmenu-remote-tabs-welcome = Gweld rhestr o dabiau o'ch dyfeisiau eraill.
 appmenu-remote-tabs-unverified = Mae angen i'ch cyfrif cael ei gwirio.
+
 appmenuitem-fxa-toolbar-sync-now2 = Cydweddu Nawr
 appmenuitem-fxa-sign-in = Mewngofnodi i { -brand-product-name }
 appmenuitem-fxa-manage-account = Rheoli Cyfrif
@@ -108,13 +114,14 @@ appmenu-fxa-sync-and-save-data2 = Cydweddu a chadw data
 appmenu-fxa-signed-in-label = Mewngofnodi
 appmenu-fxa-setup-sync =
     .label = Cychwyn Cydweddu…
-appmenu-fxa-show-more-tabs = Dangos Rhagor o Dabiau
+
 appmenuitem-save-page =
     .label = Cadw Tudalen Fel…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Beth sy'n Newydd
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -128,48 +135,53 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Proffiliwr
     .tooltiptext = Cofnodi proffil perfformiad
+
 profiler-popup-button-recording =
     .label = Proffiliwr
     .tooltiptext = Mae'r proffiliwr yn recordio proffil
+
 profiler-popup-button-capturing =
     .label = Proffiliwr
     .tooltiptext = Mae'r proffiliwr yn cipio proffil
+
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Dangos rhagor o wybodaeth
+
 profiler-popup-description-title =
     .value = Cofnodi, dadansoddi, rhannu
+
 profiler-popup-description = Cydweithiwch ar faterion perfformiad trwy gyhoeddi proffiliau i'w rhannu â'ch tîm.
-profiler-popup-learn-more = Dysgu rhagor
+
 profiler-popup-learn-more-button =
     .label = Dysgu rhagor
+
 profiler-popup-settings =
     .value = Gosod­iadau
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings = Golygu Gosodiadau...
-profiler-popup-disabled =
-    Mae'r proffiliwr wedi'i analluogi ar hyn o bryd, yn fwyaf tebygol oherwydd fod ffenestr Pori Preifat
-    ar agor
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Golygu Gosodiadau...
+
 profiler-popup-recording-screen = Yn cofnodi…
-# The profiler presets list is generated elsewhere, but the custom preset is defined
-# here only.
-profiler-popup-presets-custom =
-    .label = Cyfaddas
+
 profiler-popup-start-recording-button =
     .label = Cychwyn Cofnodi
+
 profiler-popup-discard-button =
     .label = Dileu
+
 profiler-popup-capture-button =
     .label = Cipio
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -187,18 +199,23 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Y rhagosodiad sy'n cael ei argymell ar gyfer y rhan fwyaf o ddadfygio apiau gwe, gyda gorbenion isel.
 profiler-popup-presets-web-developer-label =
     .label = Datblygwr Gwe
+
 profiler-popup-presets-firefox-description = Rhagosodiad a argymhellir ar gyfer proffilio { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+
 profiler-popup-presets-graphics-description = Y rhagosodiad ar gyfer ymchwilio i wallau graffeg yn { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Graffigau
+
 profiler-popup-presets-media-description2 = Y rhagosodiad ar gyfer ymchwilio i wallau sain a fideo yn { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Cyfryngau
+
 profiler-popup-presets-networking-description = Y rhagosodiad ar gyfer ymchwilio i wallau graffeg yn { -brand-shorter-name }
 profiler-popup-presets-networking-label =
     .label = Rhwydweithio
+
 profiler-popup-presets-custom-label =
     .label = Cyfaddas
 
@@ -233,9 +250,6 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = D
 appmenu-help-report-site-issue =
     .label = Adrodd ar Fater Gwefan…
-appmenu-help-feedback-page =
-    .label = Cyflwyno Adborth…
-    .accesskey = A
 appmenu-help-share-ideas =
     .label = Rhannwch syniadau ac adborth…
     .accesskey = R
@@ -264,8 +278,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Cyfaddasu'r Bar Offer…
-appmenu-taskmanager =
-    .label = Rheolwr Tasgau
+
 appmenu-developer-tools-subheader = Offer y Porwr
 appmenu-developer-tools-extensions =
     .label = Estyniadau ar gyfer Datblygwyr

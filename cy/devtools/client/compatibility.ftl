@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = anghymeradwy, arbrofo
 compatibility-settings-button-label = Gosodiadau
 compatibility-settings-button-title =
     .title = Gosodiadau
-compatibility-feedback-button-label = Adborth
-compatibility-feedback-button-title =
-    .title = Adborth
 
 ## Messages used as headers in settings pane
 
@@ -46,9 +43,11 @@ compatibility-issue-occurrences =
         [many] { $number } digwyddiad
        *[other] { $number } digwyddiad
     }
+
 compatibility-no-issues-found = Dim materion cydnawsedd. wedi'u canfod.
 compatibility-close-settings-button =
     .title = Cau'r gosodiadau
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

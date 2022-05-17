@@ -8,14 +8,10 @@ toolbar-context-menu-menu-bar =
 
 ## Tools Menu
 
-# Since v89 we dropped the platforms distinction between Options or Preferences
-# and consolidated everything with Preferences.
-menu-tools-preferences =
-    .label = Dewisiadau
-    .accesskey = D
 menu-tools-settings =
     .label = Gosodiadau
     .accesskey = G
+
 menu-addons-and-themes =
     .label = Ychwanegion a Themâu
     .accesskey = Y
@@ -25,9 +21,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Y Modd Datrys Problemau…
     .accesskey = M
+
 menu-help-exit-troubleshoot-mode =
     .label = Diffodd y Modd Dartrys Problemau
     .accesskey = D
+
 menu-help-more-troubleshooting-info =
     .label = Rhagor o Wybodaeth Datrys Problemau
     .accesskey = R
@@ -58,15 +56,19 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Dwysedd
     .accesskey = D
+
 mail-uidensity-compact =
     .label = Cryno
     .accesskey = C
+
 mail-uidensity-normal =
     .label = Arferol
     .accesskey = A
+
 mail-uidensity-touch =
     .label = Cyffwrdd
     .accesskey = y
+
 menu-spaces-toolbar-button =
     .label = Bar Offer Mannau
     .accesskey = B
