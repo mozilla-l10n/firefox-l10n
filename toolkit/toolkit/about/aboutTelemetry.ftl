@@ -34,7 +34,6 @@ about-telemetry-events-section = Begivenheder
 about-telemetry-simple-measurements-section = Simple målinger
 about-telemetry-slow-sql-section = Langsomme SQL-statements
 about-telemetry-addon-details-section = Detaljer for tilføjelser
-about-telemetry-captured-stacks-section = Stakke
 about-telemetry-late-writes-section = Sene skrivninger
 about-telemetry-raw-payload-section = Råt payload
 about-telemetry-raw = Rå JSON
@@ -121,10 +120,6 @@ about-telemetry-addon-provider = { $addonProvider }-oplysninger
 about-telemetry-keys-header = Egenskab
 about-telemetry-names-header = Navn
 about-telemetry-values-header = Værdi
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (antal fanget: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Sen skrivning: #{ $lateWriteCount }

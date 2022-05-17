@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = Åbn med { -brand-short-name }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Opsætningen kan ændres i { -brand-short-name }s Indstillinger.
            *[other] Opsætningen kan ændres i { -brand-short-name }s Indstillinger.
         }
+
 unknowncontenttype-intro = Du har valgt at åbne:
 unknowncontenttype-which-is = som er:
 unknowncontenttype-from = fra:

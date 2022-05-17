@@ -4,8 +4,10 @@
 
 account-settings-title = Indstillinger for godkendelse
 account-channel-title = Standardkanaler
+
 chat-autologin =
     .label = Log på ved start
+
 chat-encryption-generic = Generisk
 chat-encryption-log =
     .label = Inkluder end to end-krypterede beskeder i samtalelogfiler

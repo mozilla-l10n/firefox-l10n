@@ -4,21 +4,29 @@
 
 chat-joining-chat-icon2 =
     .alt = Joiner chat
+
 chat-left-chat-icon2 =
     .alt = Forlod chat
+
 chat-participant-owner-role-icon2 =
     .alt = Ejer
+
 chat-participant-administrator-role-icon2 =
     .alt = Administrator
+
 chat-participant-moderator-role-icon2 =
     .alt = Moderator
+
 chat-participant-voiced-role-icon2 =
     .alt = Deltager kan skrive beskeder
+
 chat-verify-identity =
     .label = Bekræft identitet
     .accesskey = I
+
 chat-identity-verified =
     .label = Identiteten er allerede bekræftet
+
 chat-buddy-identity-status = Tillid til kryptering
 chat-buddy-identity-status-verified = Bekræftet
 chat-buddy-identity-status-unverified = Ubekræftet

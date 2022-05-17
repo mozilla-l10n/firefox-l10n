@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "F">
 <!ENTITY newVirtualFolderCmd.label "Virtuel mappe…">
 <!ENTITY newVirtualFolderCmd.accesskey "t">
-<!ENTITY newOtherAccountsCmd.label "Andre konti…">
-<!ENTITY newOtherAccountsCmd.accesskey "i">
 <!ENTITY newCreateEmailAccountCmd.label "Ny mailkonto…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "N">
 <!ENTITY newExistingEmailAccountCmd.label "Eksisterende mailkonto…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "g">
 <!ENTITY saveAsMenu.label "Gem som">
 <!ENTITY saveAsMenu.accesskey "m">
-<!ENTITY saveAsFileCmd.label "Fil">
-<!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Skabelon">
 <!ENTITY saveAsTemplateCmd.accesskey "S">

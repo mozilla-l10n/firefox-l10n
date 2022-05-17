@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "M">
 <!ENTITY SecondEmail.label              "Yderligere mail:">
 <!ENTITY SecondEmail.accesskey          "Y">
-<!ENTITY PreferMailFormat.label         "Foretrækker meddelelser i formatet:">
-<!ENTITY PreferMailFormat.accesskey     "r">
 <!ENTITY PlainText.label                "Ren tekst">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Ukendt">
