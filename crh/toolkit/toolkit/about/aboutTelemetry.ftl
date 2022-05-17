@@ -32,7 +32,6 @@ about-telemetry-events-section = Vaqialar
 about-telemetry-simple-measurements-section = Basit Ölçemler
 about-telemetry-slow-sql-section = Yavaş SQL Deyimleri
 about-telemetry-addon-details-section = Eklenti Tafsilâtları
-about-telemetry-captured-stacks-section = Yaqalanğan Çerenler
 about-telemetry-late-writes-section = Keç Yazmalar
 about-telemetry-raw-payload-section = Çiy Faydayükü
 about-telemetry-raw = Çiy JSON
@@ -106,10 +105,6 @@ about-telemetry-addon-provider = { $addonProvider } Teminatçı
 about-telemetry-keys-header = Hasiyet
 about-telemetry-names-header = İsim
 about-telemetry-values-header = Qıymet
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (yaqalama adedi: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Keç Yazma #{ $lateWriteCount }

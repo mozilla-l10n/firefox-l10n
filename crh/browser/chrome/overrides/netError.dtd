@@ -159,8 +159,6 @@
 <!ENTITY errorReporting.automatic2 "Mozilla’ğa fena-niyetli saytlarnı teşhis etip bloklamağa yardım etmek üzre bunıñ kibi hatalarnı maruza et">
 <!ENTITY errorReporting.learnMore "Daa çoq ögren…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Bu meseleden haberdar etmek içün lütfen ağ-saytı saipleri ile temasqa keçiñiz.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "İleriletilgen malümat: SSL_ERROR_UNSUPPORTED_VERSION">

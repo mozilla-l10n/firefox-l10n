@@ -98,7 +98,6 @@ redirectLoop-title = Saifeniñ kene yönetmesi münasip degildir
 unknownSocketType-title = Sunucıdan beklenmegen cevap
 nssFailure2-title = Emniyetli Bağlantı Muvafaqiyetsiz
 corruptedContentError-title = İfsat Etilgen Muhteva Hatası
-remoteXUL-title = Uzaqtan XUL
 sslv3Used-title = Emniyetlice Bağlanılalmay
 inadequateSecurityError-title = Bağlantıñız emniyetli degildir
 blockedByPolicy-title = Bloklanğan Saife

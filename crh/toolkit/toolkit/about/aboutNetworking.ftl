@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = Faal
 about-networking-idle = Atıl
 about-networking-host = Qonaqbay
-about-networking-tcp = TCP
 about-networking-sent = Yiberilgen
 about-networking-received = Alınğan
 about-networking-family = Aile

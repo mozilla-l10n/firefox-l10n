@@ -51,6 +51,7 @@ app-basics-multi-process-support = Çoqlusüreç Pencereler
 app-basics-enterprise-policies = Qurum Siyasetleri
 app-basics-key-mozilla = Mozilla Qonum Hızmeti Anahtarı
 app-basics-safe-mode = Emin Tarz
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Tapıcıda Köster

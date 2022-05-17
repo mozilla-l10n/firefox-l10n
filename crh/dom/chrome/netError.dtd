@@ -89,9 +89,6 @@
 <!ENTITY corruptedContentErrorv2.title "İfsat Etilgen Muhteva Hatası">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Seyretmege talpınğanıñız saife kösterilalmay çünki verilerniñ naqlinde bir hata keşfetildi.</p><ul><li>Bu meseleden olarnı haberdar etmek içün lütfen sayt saipleri ile temasqa keçiñiz.</li></ul>">
 
-<!ENTITY remoteXUL.title "Uzaqtan XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Bu meseleden haberdar etmek içün lütfen ağ saytı saipleri ile temasqa keçiñiz.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Bağlantıñız emniyetli degildir">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

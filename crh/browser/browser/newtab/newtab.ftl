@@ -16,14 +16,8 @@ newtab-search-box-search-button =
     .title = Qıdır
     .aria-label = Qıdır
 
-newtab-search-box-search-the-web-input =
-    .placeholder = Ağ'da qıdır
-    .title = Ağ'da qıdır
-    .aria-label = Ağ'da qıdır
-
 ## Top Sites - General form dialog.
 
-newtab-topsites-add-topsites-header = Yañı Üst Sayt
 newtab-topsites-edit-topsites-header = Üst Saytnı Tahrir Et
 newtab-topsites-title-label = Serlevha
 newtab-topsites-title-input =
@@ -134,7 +128,6 @@ newtab-section-menu-privacy-notice = Hususiyat Tebliği
 ## Section Headers.
 
 newtab-section-header-topsites = Zirvedeki Saytlar
-newtab-section-header-highlights = Yüksek-ışıtmalar
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } tevsiyeli
@@ -148,6 +141,9 @@ newtab-section-header-pocket = { $provider } tevsiyeli
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Popülâr Mevzular:
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

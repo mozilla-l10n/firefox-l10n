@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Veriler
 
-item-site-preferences =
-    .label = Sayt Tercihleri
-    .accesskey = l
-
 item-offline-apps =
     .label = Devre-tışı Ağ-saytı Verileri
     .accesskey = t

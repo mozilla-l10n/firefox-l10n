@@ -41,3 +41,7 @@ pocket-panel-signup-tagline-story-two = Er angi cihazda, er angi zamanda { -pock
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

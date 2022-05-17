@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] { -brand-short-name } Seçenekler bölümünden ayarlarınızı değiştirebilirsiniz.
            *[other] { -brand-short-name } Tercihler bölümünden ayarlarınızı değiştirebilirsiniz.
         }
+
 unknowncontenttype-intro = Açmağa saylağan olğanıñız:
 unknowncontenttype-which-is = yani:
 unknowncontenttype-from = qaydan:

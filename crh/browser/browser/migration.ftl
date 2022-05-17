@@ -67,22 +67,9 @@ import-done-description = Aşağıdaki unsurlar muvafaqiyetnen ital etildi:
 
 import-close-source-browser = Devam etmezden evvel lütfen saylanğan keziciniñ qapalı olğanından emin oluñız.
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Şuradan: { $source }
-
 source-name-ie = İnternet Explorer
 source-name-edge = Microsoft Edge
-source-name-safari = Safari
-source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
-source-name-chrome-beta = Google Chrome Beta
-source-name-chrome-dev = Google Chrome Dev
-source-name-chromium = Chromium
-source-name-firefox = Mozilla Firefox
-source-name-360se = 360 Emniyetli Kezici
 
 imported-safari-reading-list = Oquma Listesi (Safari'den)
 imported-edge-reading-list = Oquma Listesi (Edge'den)

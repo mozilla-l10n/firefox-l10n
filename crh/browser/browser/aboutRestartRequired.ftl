@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Kene Başlatuv Şart
-restart-required-header = Afu etiñiz. Yürmege devam etmezden evvel kiçik bir şey yapmağa ihtiyacımız bar.
 
