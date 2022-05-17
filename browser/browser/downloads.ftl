@@ -23,36 +23,13 @@ downloads-cmd-cancel =
     .tooltiptext = റദ്ദാക്കുക
 downloads-cmd-cancel-panel =
     .aria-label = റദ്ദാക്കുക
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = ഇതടങ്ങുന്ന ഫോള്‍ഡര്‍ തുറക്കുക
-    .accesskey = F
   
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = ഫോള്‍ഡറില്‍ കാണിയ്ക്കുക
-    .accesskey = F
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] ഫോള്‍ഡറില്‍ കാണിയ്ക്കുക
-           *[other] ഇതടങ്ങുന്ന ഫോള്‍ഡര്‍ തുറക്കുക
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] ഫോള്‍ഡറില്‍ കാണിയ്ക്കുക
-           *[other] ഇതടങ്ങുന്ന ഫോള്‍ഡര്‍ തുറക്കുക
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] ഫോള്‍ഡറില്‍ കാണിയ്ക്കുക
-           *[other] ഇതടങ്ങുന്ന ഫോള്‍ഡര്‍ തുറക്കുക
-        }
+##
 
 downloads-cmd-show-downloads =
     .label = ഡൌൺലോഡ്സ് ഫോൾഡർ കാണിക്കുക
@@ -148,6 +125,13 @@ downloads-history =
 downloads-details =
     .title = വിശദാംശങ്ങൾ ഡൌൺലോഡ് ചെയ്യുക
 
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
+
 downloads-clear-downloads-button =
     .label = ഡൌണ്‍ലോഡുകള്‍ വെടിപ്പാക്കുക
     .tooltiptext = പൂര്‍ത്തിയാക്കിയ, റദ്ദാക്കിയ, പരാജയപ്പെട്ട ഡൌണ്‍ലോഡുകള്‍ വെടിപ്പാക്കുന്നു
@@ -160,3 +144,4 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = ഈ സെഷനിൽ ഡൗൺലോഡുകളൊന്നുമില്ല.
+

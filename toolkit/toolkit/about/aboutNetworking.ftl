@@ -14,7 +14,6 @@ about-networking-ssl = എസ്എസ്എല്‍
 about-networking-active = സജീവമാക്കുക
 about-networking-idle = നിര്‍ജ്ജീവം
 about-networking-host = ഹോസ്റ്റ്‌
-about-networking-tcp = ടിസിപി
 about-networking-sent = അയച്ചതു്
 about-networking-received = ലഭിച്ചതു്
 about-networking-family = കുടുംബം

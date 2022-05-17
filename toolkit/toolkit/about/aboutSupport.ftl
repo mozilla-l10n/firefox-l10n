@@ -35,6 +35,7 @@ app-basics-memory-use = മെമ്മറിയുടെ ഉപയോഗം
 app-basics-service-workers = രജിസ്റ്റര്‍ ചെയ്‌ത Service Workers
 app-basics-multi-process-support = അനവധി പ്രക്രിയയ്ക്കുള്ള ജാലകങ്ങള്‍
 app-basics-safe-mode = സുരക്ഷ മോഡ്
+
 show-dir-label =
     { PLATFORM() ->
         [macos] ഫൈന്‍ഡറില്‍ കാണിയ്ക്കുക

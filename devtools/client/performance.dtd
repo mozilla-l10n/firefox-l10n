@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "പ്രൊഫൈലര്‍ ഒരു സാമ്പിള്‍ എടുത്തപ്പോള്‍ സ്റ്റാക്കില്‍ ഉണ്ടായിരുന്ന ഈ ഫങ്ങ്ഷന്‍റെ എണ്ണം.">
 <!ENTITY performanceUI.table.function                 "ഫംങ്ഷന്‍">
 <!ENTITY performanceUI.table.function.tooltip         "സാമ്പിള്‍ ഫംങ്ഷന്‍റെ പേരും ഉറവിടവും.">
-<!ENTITY performanceUI.table.totalAlloc               "ആകെ സാമ്പിള്‍ഡ് അലോക്കേഷന്‍">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "ഈ സ്ഥാനത്ത് കോളീ രീതിയില്‍ സാമ്പിള്‍ ചെയ്യപ്പെട്ട ഒബ്ജക്റ്റ് അലോക്കേഷനുകളുടെ എണ്ണം.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

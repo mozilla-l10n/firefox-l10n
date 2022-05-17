@@ -39,15 +39,6 @@ menu-quit =
 menu-quit-mac =
     .label = { -brand-shorter-name }-ല്‍ നിന്നും പുറത്ത് കടക്കുക
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = { -brand-shorter-name }-ല്‍ നിന്നും പുറത്ത് കടക്കുക
-
 menu-about =
     .label = { -brand-shorter-name } സംബന്ധിച്ചു്
     .accesskey = A
@@ -77,9 +68,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = ഫയല്‍ തുറക്കുക...
     .accesskey = O
-menu-file-close =
-    .label = അടയ്ക്കുക
-    .accesskey = C
 menu-file-close-window =
     .label = ജാലകം അടയ്ക്കുക
     .accesskey = d
@@ -92,9 +80,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = താള്‍ സജ്ജീകരണം...
     .accesskey = u
-menu-file-print-preview =
-    .label = പ്രിന്റ് തിരനോട്ടം
-    .accesskey = v
 menu-file-print =
     .label = പ്രിന്റ് ചെയ്യുക...
     .accesskey = P
@@ -264,9 +249,6 @@ menu-help =
     .accesskey = H
 menu-help-report-site-issue =
     .label = സൈറ്റ് ഇഷ്യു റിപ്പോർട്ട് ചെയ്യുക…
-menu-help-feedback-page =
-    .label = അഭിപ്രായം രേഖപ്പെടുത്തുക…
-    .accesskey = S
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

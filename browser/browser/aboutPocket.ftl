@@ -41,3 +41,7 @@ pocket-panel-signup-tagline-story-two = പോക്കറ്റിൽ ഏത
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

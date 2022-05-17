@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] { -brand-short-name }-ന്റെ ഉപാധികള്‍ ക്രമികരണങ്ങള്‍ മാറ്റുവാന്‍ സാധിക്കുന്നു.
            *[other] { -brand-short-name }-ന്റെ മുന്‍ഗണനകളില്‍ ക്രമികരണങ്ങള്‍ മാറ്റുവാന്‍ സാധിക്കുന്നു.
         }
+
 unknowncontenttype-intro = നിങ്ങള്‍ തുറക്കുവാന്‍ തെരഞ്ഞെടുത്തിരിയ്ക്കുന്നു:
 unknowncontenttype-which-is = ഇത് ഒരു:
 unknowncontenttype-from = ഇവിടെ നിന്നും:

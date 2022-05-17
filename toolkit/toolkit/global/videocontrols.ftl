@@ -16,12 +16,14 @@ videocontrols-exitfullscreen-button =
     .aria-label = സ്ക്രീന്‍ പൂര്‍വ്വഃവസ്ഥയിലാക്കുക
 videocontrols-casting-button-label =
     .aria-label = സ്ക്രീനിലേക്കു് കാസ്റ്റ് ചെയ്യൂ
+
 videocontrols-error-aborted = വീഡിയോ ലഭ്യമാക്കുന്നതു് നിര്‍ത്തിയിരിയ്ക്കുന്നു.
 videocontrols-error-network = നെറ്റ്‌വര്‍ക്ക് പിശക് കാരണം വീഡിയോ വീണ്ടും പ്രവര്‍ത്തിയ്ക്കുന്നതു് നിര്‍ത്തിയിരിയ്ക്കുന്നു.
 videocontrols-error-decode = ഫയലില്‍ തകരാറുള്ളതിനാല്‍ വീഡിയോ പ്രവര്‍ത്തിയ്ക്കുവാന്‍ സാധ്യമല്ല.
 videocontrols-error-src-not-supported = വീഡിയോ ശൈലി അല്ലെങ്കില്‍ MIMe തരം പിന്തുണയ്ക്കുന്നില്ല.
 videocontrols-error-no-source = പിന്തുണയ്ക്കുന്ന ശൈലിയിലും MIMe തരത്തിലുമുള്ള വീഡിയോ പിന്തുണയ്ക്കുന്നില്ല.
 videocontrols-error-generic = അപരിചിതമായ കാരണത്താല്‍ വീഡിയോ പ്രവര്‍ത്തിയ്ക്കുവാന്‍ സാധ്യമല്ല.
+
 # This message shows the current position and total video duration
 #
 # Variables:

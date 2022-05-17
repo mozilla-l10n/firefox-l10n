@@ -76,10 +76,6 @@ item-form-search-history =
 
 data-section-label = ഡേറ്റാ
 
-item-site-preferences =
-    .label = സൈറ്റ് മുന്‍ഗണനകള്‍
-    .accesskey = S
-
 item-offline-apps =
     .label = ഓഫ്‌ലൈന്‍ ആയ വെബ്സൈറ്റിനുള്ള ഡേറ്റാ
     .accesskey = O
