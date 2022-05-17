@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (nenaudotina, eksperi
 compatibility-settings-button-label = Nuostatos
 compatibility-settings-button-title =
     .title = Nuostatos
-compatibility-feedback-button-label = Pateikti atsiliepimą
-compatibility-feedback-button-title =
-    .title = Pateikti atsiliepimą
 
 ## Messages used as headers in settings pane
 
@@ -47,3 +44,4 @@ compatibility-issue-occurrences =
 compatibility-no-issues-found = Nerasta suderinamumo problemų.
 compatibility-close-settings-button =
     .title = Užverti nuostatas
+

@@ -123,14 +123,6 @@ openpgp-import-key-description = Galite importuoti asmeninius raktus, kurie buvo
 
 openpgp-import-key-info = Kita programinė įranga gali kitaip apibūdinti asmeninį raktą, pavyzdžiui  „Jūsų raktas“, „Slaptasis raktas“, “Privatusis raktas“ ar „Raktų pora“.
 
-#   $count (Number) - the number of keys found in the selected files
-openpgp-import-key-list-amount =
-    { $count ->
-        [one] „Thunderbird“ rado { $count } raktą, kurį galima importuoti.
-        [few] „Thunderbird“ rado { $count } raktus, kuriuos galima importuoti.
-       *[other] „Thunderbird“ rado { $count } raktų, kuriuos galima importuoti.
-    }
-
 openpgp-import-key-list-description = Patvirtinkite savo asmeninius raktus. Asmeniniai raktai turėtų būti tik tie, kuriuos sukūrėte patys ir kurie parodo jūsų tapatybę. Vėliau asmeninių raktų parinktį galite pakeisti raktų savybėse.
 
 openpgp-import-key-list-caption = Asmeniniai raktai bus išvardyti skyriuje „Abipusis šifravimas“. Kiti bus prieinami „Key Manager“.

@@ -39,10 +39,3 @@
 <!ENTITY useDefault.label               "Atstatyti numatytąjį">
 <!ENTITY useDefault.accesskey           "n">
 
-<!ENTITY defaultBrowserGroup.label      "Numatytoji naršyklė">
-<!ENTITY defaultBrowserButton.label     "Skirti numatytąja naršykle">
-<!ENTITY defaultBrowserButton.accesskey "n">
-<!ENTITY alreadyDefaultText             "Programa „&brandShortName;“ jau yra skirta numatytąja naršykle.">
-<!ENTITY defaultPendingText             "Paspaudus mygtuką „Gerai“, programa „&brandShortName;“ bus skirta numatytąja naršykle.">
-<!ENTITY wasMadeDefaultText             "Programa „&brandShortName;“ skirta numatytąja naršykle.">
-<!ENTITY makeDefaultText                "Skirti programą „&brandShortName;“ numatytąja naršykle.">

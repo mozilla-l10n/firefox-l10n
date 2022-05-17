@@ -28,3 +28,4 @@ openpgp-key-undecided = Nepriimtas (nenuspręsta)
 openpgp-key-rejected = Nepriimtas (atmesta)
 
 openpgp-intro = Galimi „{ $key }“ viešieji raktai
+

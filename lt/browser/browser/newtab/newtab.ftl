@@ -20,6 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Ieškoti
     .aria-label = Ieškoti
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Įveskite adresą arba ieškokite per „{ $engine }“
@@ -34,10 +35,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Įveskite adresą arba paieškos žodžius
     .title = Įveskite adresą arba paieškos žodžius
     .aria-label = Įveskite adresą arba paieškos žodžius
-newtab-search-box-search-the-web-input =
-    .placeholder = Ieškokite saityne
-    .title = Ieškokite saityne
-    .aria-label = Ieškokite saityne
+
 newtab-search-box-text = Ieškokite saityne
 newtab-search-box-input =
     .placeholder = Ieškokite saityne
@@ -46,17 +44,18 @@ newtab-search-box-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Pridėti ieškyklę
-newtab-topsites-add-topsites-header = Nauja mėgstama svetainė
 newtab-topsites-add-shortcut-header = Naujas leistukas
 newtab-topsites-edit-topsites-header = Redaguoti mėgstamą svetainę
 newtab-topsites-edit-shortcut-header = Keisti leistuką
 newtab-topsites-title-label = Pavadinimas
 newtab-topsites-title-input =
     .placeholder = Įveskite pavadinimą
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Įveskite arba įklijuokite URL
 newtab-topsites-url-validation = Reikalingas tinkamas URL
+
 newtab-topsites-image-url-label = Kitoks paveikslo URL
 newtab-topsites-use-image-link = Naudoti kitą paveikslą…
 newtab-topsites-image-validation = Nepavyko įkelti paveikslo. Pabandykite kitokį URL.
@@ -85,10 +84,12 @@ newtab-topsite-sponsored = Remiama
 newtab-menu-section-tooltip =
     .title = Atverti meniu
     .aria-label = Atverti meniu
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Pašalinti
     .aria-label = Pašalinti
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -161,14 +162,17 @@ newtab-label-removed-bookmark = Adresyno įrašas pašalintas
 newtab-label-recommended = Populiaru
 newtab-label-saved = Įrašyta į „{ -pocket-brand-name }“
 newtab-label-download = Atsiųsta
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Rėmėjas
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Rėmėjas: „{ $sponsor }“
+
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -199,7 +203,6 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = Lankomiausios svetainės
-newtab-section-header-highlights = Akcentai
 newtab-section-header-recent-activity = Paskiausia veikla
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
@@ -208,6 +211,7 @@ newtab-section-header-pocket = Rekomenduoja „{ $provider }“
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Pradėkite naršyti, o mes čia pateiksime puikių straipsnių, vaizdo įrašų bei kitų tinklalapių, kuriuose neseniai lankėtės ar įtraukėte į adresyną.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -232,9 +236,11 @@ newtab-pocket-learn-more = Sužinoti daugiau
 newtab-pocket-cta-button = Gauti „{ -pocket-brand-name }“
 newtab-pocket-cta-text = Išsaugokite patinkančius straipsnius į „{ -pocket-brand-name }“, bei sužadinkite savo mintis stulbinančiomis istorijomis.
 newtab-pocket-pocket-firefox-family = „{ -pocket-brand-name }“ yra „{ -brand-product-name }“ šeimos dalis
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Įrašyti į „{ -pocket-brand-name }“
 newtab-pocket-saved-to-pocket = Įrašyta į „{ -pocket-brand-name }“
+
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Įkelti daugiau straipsnių
 

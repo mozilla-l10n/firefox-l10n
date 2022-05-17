@@ -6,9 +6,6 @@
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
 
 
-<!ENTITY pref.scripts.title              "Scenarijai ir papildiniai">
-
-
 <!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
 
 <!ENTITY enableJavaScript.label          "Leisti vykdyti „JavaScript“ scenarijus:">
@@ -23,12 +20,3 @@
 
 
 
-<!ENTITY enablePlugins.label             "Įjungti programos papildinius">
-<!ENTITY enablePluginForSuite.label      "programų pakete">
-<!ENTITY enablePluginForSuite.accesskey  "p">
-
-<!ENTITY whenPageRequiresPlugins.label   "Jeigu tinklalapyje naudojami papildiniai">
-<!ENTITY activateAllPlugins.label        "aktyvinti papildinius automatiškai">
-<!ENTITY activateAllPlugins.accesskey    "a">
-<!ENTITY warnPluginsRequired.label       "pranešti, jeigu reikia įdiegti daugiau papildinių">
-<!ENTITY warnPluginsRequired.accesskey   "d">

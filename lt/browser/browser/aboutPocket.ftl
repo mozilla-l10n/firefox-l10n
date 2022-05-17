@@ -48,3 +48,8 @@ pocket-panel-home-paragraph = Naudodami „{ -pocket-brand-name }“ galite išs
 pocket-panel-home-explore-popular-topics = Naršyti populiarias temas
 pocket-panel-home-discover-more = Atrasti daugiau
 pocket-panel-home-explore-more = Naršyti
+
+## Pocket panel header component
+
+## Pocket panel buttons
+

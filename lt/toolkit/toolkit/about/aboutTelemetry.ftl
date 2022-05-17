@@ -34,7 +34,6 @@ about-telemetry-events-section = Įvykiai
 about-telemetry-simple-measurements-section = Paprasti matavimai
 about-telemetry-slow-sql-section =   Lėti SQL sakiniai
 about-telemetry-addon-details-section = Priedų duomenys
-about-telemetry-captured-stacks-section = Įrašyti dėklai
 about-telemetry-late-writes-section = Vėlavę įrašymai
 about-telemetry-raw-payload-section = Neapdorotas turinys
 about-telemetry-raw = Pirminis JSON
@@ -122,10 +121,6 @@ about-telemetry-addon-provider = Tipas: „{ $addonProvider }“
 about-telemetry-keys-header = Savybė
 about-telemetry-names-header = Pavadinimas
 about-telemetry-values-header = Reikšmė
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = „{ $stackKey }“ (įrašymų skaičius: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Vėlavęs įrašymas Nr. { $lateWriteCount }

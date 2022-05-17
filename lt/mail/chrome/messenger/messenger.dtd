@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "l">
 <!ENTITY newVirtualFolderCmd.label "Paieška įrašant radinius…">
 <!ENTITY newVirtualFolderCmd.accesskey "P">
-<!ENTITY newOtherAccountsCmd.label "Kita paskyra…">
-<!ENTITY newOtherAccountsCmd.accesskey "K">
 <!ENTITY newCreateEmailAccountCmd.label "Kurti naują el. pašto paskyrą…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "e">
 <!ENTITY newExistingEmailAccountCmd.label "Registruoti turimą el. pašto paskyrą…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Įrašyti kaip">
 <!ENTITY saveAsMenu.accesskey "k">
-<!ENTITY saveAsFileCmd.label "failą…">
-<!ENTITY saveAsFileCmd.accesskey "f">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "šabloną">
 <!ENTITY saveAsTemplateCmd.accesskey "š">

@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Rekomenduojama funkcija
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kodėl tai matau
+
 cfr-doorhanger-extension-cancel-button = Ne dabar
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Pridėti dabar
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = Tvarkyti rekomendacijų nuostatas
     .accesskey = T
+
 cfr-doorhanger-extension-never-show-recommendation = Nerodyti man šios rekomendacijos
     .accesskey = N
+
 cfr-doorhanger-extension-learn-more-link = Sužinoti daugiau
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = sukūrė { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendacija
 cfr-doorhanger-extension-notification2 = Rekomendacija
     .tooltiptext = Priedo rekomendacija
     .a11y-announcement = Siūloma priedo rekomendacija
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekomendacija
@@ -79,9 +87,11 @@ cfr-protections-panel-link-text = Sužinoti daugiau
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Naujovė:
+
 cfr-whatsnew-button =
     .label = Kas naujo
     .tooltiptext = Kas naujo
+
 cfr-whatsnew-release-notes-link-text = Skaityti laidos apžvalgą
 
 ## Enhanced Tracking Protection Milestones
@@ -159,3 +169,6 @@ spotlight-total-cookie-protection-body = Visapusiška slapukų apsauga neleidži
 spotlight-total-cookie-protection-expanded = „{ -brand-short-name }“ pastato užtvarą aplink slapukus, ribodama jų pasiekimą jūsų lankomoje svetainėje, todėl stebėjimo elementai negali jų naudoti jūsų sekimui. Išbandydami iš anksto, padėsite optimizuoti šį funkcionalumą, kad galėtume kurti visiems geresnį internetą.
 spotlight-total-cookie-protection-primary-button = Įjungti visapusišką slapukų apsaugą
 spotlight-total-cookie-protection-secondary-button = Ne dabar
+
+## Emotive Continuous Onboarding
+

@@ -308,9 +308,6 @@
 <!ENTITY forwardAsInline.accesskey "T">
 <!ENTITY forwardAsAttachmentCmd.label "Priedu">
 <!ENTITY forwardAsAttachmentCmd.accesskey "P">
-<!ENTITY editMsgAsNewCmd.label "Paruošti laišką siuntimui">
-<!ENTITY editMsgAsNewCmd.accesskey "r">
-<!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Sukurti filtrą…">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY archiveMsgCmd.label "Archyvuoti">
@@ -458,8 +455,6 @@
 <!ENTITY contextOpenNewWindow.accesskey "n">
 <!ENTITY contextOpenNewTab.label "Atverti laišką naujoje kortelėje">
 <!ENTITY contextOpenNewTab.accesskey "k">
-<!ENTITY contextEditAsNew.label "Paruošti siuntimui…">
-<!ENTITY contextEditAsNew.accesskey "u">
 <!ENTITY contextReplySender.label "Atsakyti">
 <!ENTITY contextReplySender.accesskey "A">
 <!ENTITY contextReplyList.label "Atsakyti el. pašto grupei">

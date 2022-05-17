@@ -75,13 +75,6 @@ afterauth-private = Patvirtinote { $name } tapatybę.
 #   $name (String) - the screen name of a chat contact person
 afterauth-unverified = { $name } tapatybė nebuvo patikrinta.
 
-verify-title = Patikrinkite šio adresato tapatybę
-error-title = Klaida
-success-title = Abipusis šifravimas
-success-them-title = Patikrinkite savo kontakto tapatybę
-fail-title = Patvirtinti nepavyko
-waiting-title = Patvirtinimo užklausa išsiųsta
-
 # Do not translate 'OTR' (name of an encryption protocol)
 # Variables:
 #   $error (String) - contains an error message that describes the cause of the failure

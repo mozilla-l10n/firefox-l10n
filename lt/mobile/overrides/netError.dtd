@@ -99,9 +99,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "<p>Išimties kurti neturėtumėte, jei naudojatės interneto ryšiu, kuriuo pilnai nepasitikite, arba jei anksčiau nematėte įspėjimo apie šį serverį.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "XUL iš tinklo">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul></p>">
-
 <!ENTITY sslv3Used.title "Nepavyko prisijungti saugiai">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->

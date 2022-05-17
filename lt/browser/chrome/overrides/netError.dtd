@@ -99,8 +99,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Pranešdami apie tokias klaidas kaip ši, padėsite „Mozillai“ nustatyti ir užblokuoti kenksmingas svetaines">
 <!ENTITY errorReporting.learnMore "Sužinoti daugiau…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Papildoma informacija: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -126,9 +124,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Panašu, kad taip galėjo nutikti dėl jūsų tinklo saugumo nuostatų. Ar norite atstatyti numatytąsias reikšmes?">
 <!ENTITY prefReset.label "Atstatyti numatytąsias nuostatas">
-
-<!ENTITY enableTls10.longDesc "Gali būti, kad ši svetainė nepalaiko TLS 1.2 protokolo, kuris yra mažiausia „&brandShortName;“ palaikoma versija. Įjungus TLS 1.0 ir TLS 1.1, gali pavykti užmegzti ryšį.">
-<!ENTITY enableTls10.note "Vėlesnėje laidoje TLS 1.0 ir TLS 1.1 bus visam laikui išjungti.">
-<!ENTITY enableTls10.label "Įjungti TLS 1.0 ir 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Tinklalapis, kurį bandote atverti, negali būti įkeltas dėl tinklo protokole aptiktos klaidos.</p><ul><li>Susisiekite su svetainės prižiūrėtojais ir praneškite apie šią problemą.</li></ul>">

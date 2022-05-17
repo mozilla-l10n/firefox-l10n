@@ -20,7 +20,6 @@ about-networking-ssl = SSL
 about-networking-active = Aktyvus
 about-networking-idle = Neveiksnus
 about-networking-host = Serveris
-about-networking-tcp = TCP
 about-networking-type = Tipas
 about-networking-sent = Išsiųsta
 about-networking-received = Gauta

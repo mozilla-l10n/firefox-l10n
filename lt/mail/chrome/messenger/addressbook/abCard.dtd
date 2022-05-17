@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Papildomas el. pašto adresas:">
 <!ENTITY SecondEmail.accesskey          "i">
-<!ENTITY PreferMailFormat.label         "Laiškus pageidauja gauti šiuo formatu:">
-<!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "Paprastas tekstas">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Nežinoma">

@@ -23,9 +23,6 @@
 <!ENTITY inReplyToField.label "Atsakymas į: ">
 <!ENTITY originalWebsite.label "Svetainė: ">
 
-<!ENTITY editMessage.label                 "Taisyti juodraštį…">
-<!ENTITY editMessage.accesskey             "j">
-
 <!ENTITY attachmentsTree.label             "Priedai:">
 <!ENTITY attachmentsTree.accesskey         "P">
 <!ENTITY openAttachmentCmd.label           "Atverti">
