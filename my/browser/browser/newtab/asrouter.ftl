@@ -134,9 +134,15 @@ cfr-doorhanger-doh-secondary-button = ပိတ်ထားသည်
 
 ## Full Video Support CFR message
 
+## Spotlight modal shared strings
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
+
+## Total Cookie Protection Rollout
+
+## Emotive Continuous Onboarding
 

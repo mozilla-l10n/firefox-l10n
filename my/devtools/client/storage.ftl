@@ -22,3 +22,4 @@ storage-tree-labels-cookies = ကွတ်ကီးများ
 
 # Heading displayed over the item value in the sidebar
 storage-data = အချက်အလက်ကြမ်း
+

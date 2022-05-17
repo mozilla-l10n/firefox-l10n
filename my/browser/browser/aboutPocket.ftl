@@ -41,3 +41,7 @@ pocket-panel-signup-tagline-story-two = မည်သည့် ကိရိယာ
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

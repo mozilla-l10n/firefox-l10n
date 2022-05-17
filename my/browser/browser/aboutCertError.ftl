@@ -110,7 +110,6 @@ unknownSocketType-title = ဆာဗာထံမှ မမျှော်မှ�
 nssFailure2-title = လုံခြုံသောချိတ်ဆက်မှု မအောင်မြင်ပါ
 csp-xfo-error-title = { -brand-short-name } သည် ဤ စာမျက်နှာ ကို မဖွင့်နိုင်ပါ
 corruptedContentError-title = အကြောင်းအရာ မစုံလင်သော အမှား
-remoteXUL-title = Remote XUL
 sslv3Used-title = လုံခြုံစိတ်ချစွာ မချိတ်ဆက်နိုင်ပါ
 inadequateSecurityError-title = ချိတ်ဆက်မှုသည် မလုံခြုံပါ
 blockedByPolicy-title = ပိတ်ပင်ထားသော စာမျက်နှာ

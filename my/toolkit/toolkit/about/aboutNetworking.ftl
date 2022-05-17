@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = ဖွင့်ထားသည်
 about-networking-idle = အားနေသည်
 about-networking-host = လက်ခံအမည်
-about-networking-tcp = TCP
 about-networking-sent = ပို့ပြီး
 about-networking-received = လက်ခံပြီး
 about-networking-family = မိသားစု

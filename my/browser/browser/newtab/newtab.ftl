@@ -16,15 +16,9 @@ newtab-search-box-search-button =
     .title = ရှာ
     .aria-label = ရှာ
 
-newtab-search-box-search-the-web-input =
-    .placeholder = ဝဘ်တွင် ရှာဖွေပါ
-    .title = ဝဘ်တွင် ရှာဖွေပါ
-    .aria-label = ဝဘ်တွင် ရှာဖွေပါ
-
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = ရှာဖွေရေးအင်ဂျင် ထည့်ပါ
-newtab-topsites-add-topsites-header = ထိပ်တန်းဆိုက် အသစ်
 newtab-topsites-edit-topsites-header = ထိပ်တန်းဆိုက်ကို တည်းဖြတ်ရန်
 newtab-topsites-title-label = ခေါင်းစဉ်
 newtab-topsites-title-input =
@@ -130,7 +124,6 @@ newtab-section-menu-privacy-notice = ကိုယ်ရေးကာကွယ်�
 ## Section Headers.
 
 newtab-section-header-topsites = အများဆုံးသုံးဆိုက်များ
-newtab-section-header-highlights = ဦးစားပေးအကြောင်းအရာများ
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } က အကြံပြုထားသည်
@@ -147,6 +140,9 @@ newtab-section-header-pocket = { $provider } က အကြံပြုထား�
 newtab-pocket-read-more = လူကြိုက်များခေါင်းစဉ်များ
 newtab-pocket-more-recommendations = ပိုများသောအကြံပြုချက်များ
 newtab-pocket-cta-button = { -pocket-brand-name } ကို ရယူပါ
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

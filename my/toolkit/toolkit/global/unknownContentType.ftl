@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] အပြင်အဆင်များကို { -brand-short-name }ရဲ့ ရွေးစရာများထဲမှာ ပြင်ဆင်နိုင်တယ်။
            *[other] အပြင်အဆင်များကို { -brand-short-name }ရဲ့ ဦးစားပေးချက်များထဲမှာ ပြင်ဆင်နိုင်တယ်။
         }
+
 unknowncontenttype-intro = သင် ဖွင့်ဖို့ ရွေးချယ်ထားတယ်:
 unknowncontenttype-which-is = အရာတခုကတော့ -
 unknowncontenttype-from = မှ -

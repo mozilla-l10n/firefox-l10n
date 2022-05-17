@@ -79,9 +79,6 @@
 <!ENTITY corruptedContentErrorv2.title "အကြောင်းအရာ မစုံလင်သော အမှား">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>အချက်အလက်ကူးယူပြောင်းခြင်းပြသာနာကြောင့်၀တ်ဆိုက်အားမပြသနိုင်ပါ။</p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်များဤပြသာနာအားအသိပေးရန်ကျေးဇူးပြုပြီးဆက်သွယ်ပေးပါ။</li></ul>">
 
-<!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်အားဤပြသာနားအားတင်ပြရန်ဆက်သွယ်ပါ</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "ချိတ်ဆက်မှုသည် မလုံခြုံပါ">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

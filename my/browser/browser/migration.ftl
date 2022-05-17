@@ -73,22 +73,9 @@ import-done-description = အောက်ပါ အချက်‌များ�
 
 import-close-source-browser = ဆက်လက် မဆောင်ရွက်ခင် ကျေးဇူးပြု၍ ရွေးထားသည့် ဘရောင်ဇာသည် ပိတ်ထားခြင်း ရှိ/မရှိ စစ်ပါ။
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = { $source } မှ
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
-source-name-safari = Safari
-source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
-source-name-chrome-beta = Google Chrome Beta
-source-name-chrome-dev = Google Chrome Dev
-source-name-chromium = Chromium
-source-name-firefox = Mozilla Firefox
-source-name-360se = 360 Secure Browser
 
 imported-safari-reading-list = ဖတ်ရှုစာရင်း (Safari မှ)
 imported-edge-reading-list = ဖတ်နေဆဲ စာရင်း (Edge မှ)

@@ -135,8 +135,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "မလိုတမာဝဘ်ဆိုက်များကို Mozilla က ခွဲခြားသတ်မှတ်ရာတွင်နှင့် ပိတ်ပင်တားဆီးရာတွင် ကူညီရန် ယခုကိစ္စကဲ့သို့သော အမှားများကို အကြောင်းကြားပေးပို့ပါ။">
 <!ENTITY errorReporting.learnMore "ပိုမို လေ့လာပါ…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်အားဤပြသာနားအားတင်ပြရန်ဆက်သွယ်ပါ</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Advanced info: SSL_ERROR_UNSUPPORTED_VERSION">

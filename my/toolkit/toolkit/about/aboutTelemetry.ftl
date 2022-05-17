@@ -22,7 +22,6 @@ about-telemetry-events-section = Events
 about-telemetry-simple-measurements-section = ရိုးရှင်းသော တိုင်းတာချက်များ
 about-telemetry-slow-sql-section = Slow SQL Statements
 about-telemetry-addon-details-section = Add-on Details
-about-telemetry-captured-stacks-section = Captured Stacks
 about-telemetry-late-writes-section = နောက်ကျသောရေးသားချက်
 about-telemetry-raw = JSON အကြမ်းထည်
 about-telemetry-full-sql-warning = NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
@@ -48,10 +47,6 @@ about-telemetry-addon-provider = { $addonProvider } Provider
 about-telemetry-keys-header = ဂုဏ်သတ္တိများ
 about-telemetry-names-header = အမည်
 about-telemetry-values-header = တန်ဖိုး
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (မှတ်သားချက်များ- { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Late Write #{ $lateWriteCount }

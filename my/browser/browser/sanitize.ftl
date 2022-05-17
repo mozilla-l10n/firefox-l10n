@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = အချက်အလက်ကြမ်း
 
-item-site-preferences =
-    .label = ကွန်ရက် ဦးစားပေးအချက်များ
-    .accesskey = က
-
 item-offline-apps =
     .label = ချိတ်ဆက်မဲ့သုံးအချက်အလက်
     .accesskey = O

@@ -13,12 +13,6 @@ downloads-panel =
 
 ##
 
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-
 downloads-cmd-pause =
     .label = ခေတ္တရပ်တန့်ပါ
     .accesskey = P
@@ -30,15 +24,10 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = မလုပ်ဆောင်တော့ပါ
 
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = ဖိုင်ရှိသည့်နေရာကို ဖွင့်ရန်
-    .accesskey = F
-
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = ရှာဖွေကိရိယာတွင် ဖေါ်ပြပါ
-    .accesskey = F
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
 downloads-cmd-use-system-default =
     .label = System Viewer ကိုဖွင့်ပါ
@@ -48,25 +37,7 @@ downloads-cmd-always-use-system-default =
     .label = အမြဲတမ်း System Viewer ကိုဖွင့်ပါ
     .accesskey = w
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] ရှာဖွေကိရိယာတွင် ဖေါ်ပြပါ
-           *[other] ဖိုင်ရှိသည့်နေရာကို ဖွင့်ရန်
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] ရှာဖွေကိရိယာတွင် ဖေါ်ပြပါ
-           *[other] ဖိုင်ရှိသည့်နေရာကို ဖွင့်ရန်
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] ရှာဖွေကိရိယာတွင် ဖေါ်ပြပါ
-           *[other] ဖိုင်ရှိသည့်နေရာကို ဖွင့်ရန်
-        }
+##
 
 downloads-cmd-show-downloads =
     .label = ဆွဲချချက်များ ထားသိုရာဖိုင်တွဲကို ပြပါ
@@ -162,6 +133,13 @@ downloads-history =
 downloads-details =
     .title = ဆွဲယူထားသည့်ဖိုင်အသေးစိတ်
 
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
+
 downloads-clear-downloads-button =
     .label = ဆွဲယူထားသည့်ဖိုင်များကို ရှင်းလင်းပါ
     .tooltiptext = ဆွဲယူပြီးသောဖိုင်များ၊ မဆွဲယူတော့သောဖိုင်များနှင့် ဆွဲယူမှုမအောင်မြင်သောဖိုင်များကို ရှင်းလင်းပါ
@@ -174,3 +152,4 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = လောလောဆယ် ဒေါင်းထားသော ဖိုင်များ မရှိ
+
