@@ -23,9 +23,6 @@
 <!ENTITY inReplyToField.label "Untuk-Membalas-Kepada: ">
 <!ENTITY originalWebsite.label "Laman web: ">
 
-<!ENTITY editMessage.label                 "Edit Draf…">
-<!ENTITY editMessage.accesskey             "D">
-
 <!ENTITY attachmentsTree.label             "Lampiran:">
 <!ENTITY attachmentsTree.accesskey         "p">
 <!ENTITY openAttachmentCmd.label           "Buka">

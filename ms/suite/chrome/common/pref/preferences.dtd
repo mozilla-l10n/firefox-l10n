@@ -35,14 +35,12 @@
 <!ENTITY images.label "Imej">
 <!ENTITY popups.label "Tetingkap Popup">
 <!ENTITY passwords.label "Kata laluan">
-<!ENTITY masterpass.label "Kata laluan Induk">
 <!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "Sijil">
 
 <!ENTITY sync.label "Sync">
 
 <!ENTITY advance.label "Lanjutan">
-<!ENTITY scriptsAndWindows.label "Skrip &amp; Plugin">
 <!ENTITY keynav.label "Navigasi Papan kekunci">
 <!ENTITY findAsYouType.label "Cari Semasa Anda Menaip">
 <!ENTITY cache.label "Cache">

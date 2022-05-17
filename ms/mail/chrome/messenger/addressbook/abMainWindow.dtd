@@ -107,6 +107,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "K">
 <!ENTITY newlistButton.label                            "Senarai Baru">
 <!ENTITY newlistButton.accesskey                        "S">
+
 <!ENTITY showAsDefault.label                            "Direktori permulaan piawai">
 <!ENTITY showAsDefault.accesskey                        "D">
 <!ENTITY editPropertiesButton.label                     "Edit">

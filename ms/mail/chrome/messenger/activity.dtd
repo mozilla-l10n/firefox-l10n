@@ -10,28 +10,10 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                  "Pengurus Aktiviti">
 
-<!ENTITY cmd.pause.label                  "Jeda">
-<!ENTITY cmd.pause.accesskey              "J">
-<!ENTITY cmd.resume.label                 "Sambung">
-<!ENTITY cmd.resume.accesskey             "S">
-<!ENTITY cmd.cancel.label                 "Batal">
-<!ENTITY cmd.cancel.accesskey             "B">
-<!ENTITY cmd.undo.label                   "Batal">
-<!ENTITY cmd.undo.accesskey               "B">
-<!ENTITY cmd.recover.label                "Pulih">
-<!ENTITY cmd.recover.accesskey            "h">
-<!ENTITY cmd.retry.label                  "Cuba lagi">
-<!ENTITY cmd.retry.accesskey              "U">
-<!ENTITY cmd.removeFromList.label         "Buang Daripada Senarai">
-<!ENTITY cmd.removeFromList.accesskey     "e">
-
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Buang Senarai">
 <!ENTITY cmd.clearList.tooltip            "Buang semua item yang lengkap, dibatalkan dan gagal daripada senarai">
 <!ENTITY cmd.clearList.accesskey          "B">
-<!ENTITY cmd.find.commandkey              "f">
-<!ENTITY cmd.search.commandkey            "k">
 
-<!ENTITY searchBox.label                  "Cari…">

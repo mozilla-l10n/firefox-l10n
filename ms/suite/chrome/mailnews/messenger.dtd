@@ -306,9 +306,6 @@
 <!ENTITY forwardAsInline.accesskey "S">
 <!ENTITY forwardAsAttachmentCmd.label "Lampiran">
 <!ENTITY forwardAsAttachmentCmd.accesskey "L">
-<!ENTITY editMsgAsNewCmd.label "Edit Mesej Sebagai Baru">
-<!ENTITY editMsgAsNewCmd.accesskey "E">
-<!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Cipta Penapis Daripada Mesej…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY archiveMsgCmd.label "Arkib">
@@ -458,8 +455,6 @@
 <!ENTITY contextOpenNewWindow.accesskey "T">
 <!ENTITY contextOpenNewTab.label "Buka Mesej dalam Tab Baru">
 <!ENTITY contextOpenNewTab.accesskey "T">
-<!ENTITY contextEditAsNew.label "Edit Sebagai Baru…">
-<!ENTITY contextEditAsNew.accesskey "E">
 <!ENTITY contextReplySender.label "Balas kepada Pengirim Sahaja">
 <!ENTITY contextReplySender.accesskey "S">
 <!ENTITY contextReplyList.label "Balas mengikut Senarai">

@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = Aktif
 about-networking-idle = Melahu
 about-networking-host = Hos
-about-networking-tcp = TCP
 about-networking-sent = Dihantar
 about-networking-received = Diterima
 about-networking-family = Keluarga

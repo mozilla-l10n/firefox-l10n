@@ -41,3 +41,7 @@ pocket-panel-signup-tagline-story-two = Papar dalam { -pocket-brand-name } dalam
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

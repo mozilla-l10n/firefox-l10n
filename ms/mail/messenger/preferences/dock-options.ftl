@@ -23,4 +23,3 @@ count-new-messages-radio =
     .label = Bilangan mesej baru
     .accesskey = n
 
-notification-settings-info = Anda boleh nyahaktifkan kelompok dalam anak tetingkap Notifikasi dalam Keutamaan Sistem.

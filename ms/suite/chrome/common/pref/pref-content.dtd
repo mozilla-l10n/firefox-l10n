@@ -7,12 +7,6 @@
 <!ENTITY pref.content.title                     "Kandungan">
 <!ENTITY pref.content.description               "Tetapan ini mempengaruhi penampilan kandungan laman web dan mesej yang dipaparkan dalam &brandShortName;.">
 
-<!ENTITY siteIcons.label                        "Ikon laman web">
-<!ENTITY useSiteIcons.label                     "Papar ikon laman web">
-<!ENTITY useSiteIcons.accesskey                 "P">
-<!ENTITY useFavIcons2.label                     "Cuba gunakan favicon pelayan apabila halaman tidak menentukan ikon">
-<!ENTITY useFavIcons2.accesskey                 "i">
-
 <!ENTITY scrolling.label                        "Skrol">
 <!ENTITY useAutoScroll.label                    "Guna auto-skrol">
 <!ENTITY useAutoScroll.accesskey                "t">
@@ -40,6 +34,4 @@
 
 <!ENTITY allowHWAccel.label                     "Guna pecutan perkakasan, jika tersedia">
 <!ENTITY allowHWAccel.accesskey                 "e">
-<!ENTITY blockAutoRefresh.label                 "Beri amaran apabila laman web cuba untuk mengalih semula atau memuat semula halaman">
-<!ENTITY blockAutoRefresh.accesskey             "B">
 

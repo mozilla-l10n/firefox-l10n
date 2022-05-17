@@ -9,15 +9,6 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo2.label "Untuk menerima mesej, anda terlebih dahulu perlu menyediakan akaun.">
-<!ENTITY accountTypeTitle.label "Penyediaan Akaun Baru">
-<!ENTITY accountTypeDesc2.label "Bestari ini akan mengumpulkan maklumat yang diperlukan untuk menyediakan akaun. Jika anda tidak tahu maklumat yang diminta, sila hubungi Penyedia Perkhidmatan Internet atau Pentadbir Sistem anda.">
-<!ENTITY accountTypeDirections.label "Pilih jenis akaun yang anda mahu sediakan:">
-<!ENTITY accountTypeMail.label "Akaun e-mel">
-<!ENTITY accountTypeMail.accesskey "m">
-<!ENTITY accountTypeNews.label "Akaun kumpulan berita">
-<!ENTITY accountTypeNews.accesskey "b">
-
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identiti">
@@ -39,65 +30,13 @@
 <!-- Entities for Incoming Server page -->
 
 <!ENTITY incomingTitle.label "Maklumat Pelayan Masuk">
-<!ENTITY incomingServerTypeDesc.label "Pilih jenis pelayan masuk yang anda gunakan.">
-<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
-<!ENTITY imapType.label "IMAP">
-<!ENTITY imapType.accesskey "I">
-<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
-<!ENTITY popType.label "POP">
-<!ENTITY popType.accesskey "P">
-<!ENTITY leaveMsgsOnSrvr.label "Tinggalkan mesej pada pelayan">
-<!ENTITY leaveMsgsOnSrvr.accesskey "T">
-<!ENTITY portNum.label "Port:">
-<!ENTITY portNum.accesskey "o">
-<!ENTITY defaultPortLabel.label "Piawai:">
-<!ENTITY defaultPortValue.label "">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Masukkan nama pelayan masuk (sebagai contoh, &quot;mail.example.net&quot;).">
-<!ENTITY incomingServer.label "Pelayan Masuk:">
-<!ENTITY incomingServer.accesskey "P">
-<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Masukkan nama pengguna masuk yang diberikan oleh penyedia e-mel (sebagai contoh, &quot;jsmith&quot;).">
 <!ENTITY incomingUsername.label "Nama Pengguna:">
-<!ENTITY incomingUsername.accesskey "P">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Masukkan nama pelayan berita (NNTP) (sebagai contoh, &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "Pelayan Kumpulan berita:">
 <!ENTITY newsServerLabel.accesskey "K">
 
 <!-- Entities for Outgoing Server page -->
-
-<!ENTITY outgoingTitle.label "Maklumat Pelayan Keluar">
-<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Masukkan nama pelayan keluar (SMTP) (sebagai contoh, &quot;smtp.example.net&quot;).">
-<!ENTITY outgoingServer.label "Pelayan Keluar:">
-<!ENTITY outgoingServer.accesskey "P">
-<!ENTITY outgoingUsername.description "Masukkan nama pengguna keluar yang diberikan oleh penyedia e-mel (biasanya nama yang sama seperti nama pengguna masuk).">
-<!ENTITY outgoingUsername.label "Nama Pengguna Keluar:">
-<!ENTITY outgoingUsername.accesskey "K">
-
-<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
-     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
--->
-<!ENTITY modifyOutgoing.suffix "Anda boleh tukar pelayan keluar dalam tetapan akaun.">
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
--->
-<!ENTITY haveSmtp1.prefix "Pelayan keluar sekarang (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix3 "&quot;, akan digunakan.">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
--->
-<!ENTITY haveSmtp2.prefix "Nama pengguna keluar sekarang (SMTP), &quot;">
-<!ENTITY haveSmtp2.suffix3 "&quot;, akan digunakan.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
--->
-<!ENTITY haveSmtp3.prefix "Pelayan keluar (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix3 "&quot; sama dengan pelayan masuk, maka nama pengguna masuk akan digunakan untuk mengaksesnya.">
 
 <!-- Entities for Account name page -->
 
@@ -111,14 +50,6 @@
 
 <!ENTITY completionTitle.label "Tahniah!">
 <!ENTITY completionText.label "Sila sahkan bahawa maklumat di bawah adalah betul.">
-<!ENTITY serverTypePrefix.label "Jenis Pelayan Masuk:">
-<!ENTITY serverNamePrefix.label "Nama Pelayan Masuk:">
-<!ENTITY smtpServerNamePrefix.label "Nama Pelayan Keluar (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nama Pelayan Berita (NNTP):">
-<!ENTITY downloadOnLogin.label "Muat turun mesej sekarang">
-<!ENTITY downloadOnLogin.accesskey "M">
-<!ENTITY deferStorageDesc.label "Buang tanda dalam kotak semakan untuk menyimpan mel akaun ini dalam direktorinya sendiri. Akaun ini akan dipaparkan sebagai akaun tahap teratas. Jika tidak, akaun ini menjadi sebahagian akaun Peti Masuk Global Folder Lokal.">
-<!ENTITY deferStorage.label "Guna Peti Masuk Global (menyimpan mel dalam Folder Lokal)">
-<!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Klik Selesai untuk menyimpan tetapan dan keluar daripada Bestari Akaun.">
 <!ENTITY clickFinish.labelMac "Klik Siap untuk menyimpan tetapan dan keluar daripada Bestari Akaun.">

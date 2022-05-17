@@ -6,3 +6,5 @@ privatebrowsingpage-open-private-window-label = Buka Tetingkap Peribadi
     .accesskey = P
 about-private-browsing-not-private = Anda masih belum dalam tetingkap peribadi.
 
+## The following strings will be used for experiments in Fx99 and Fx100
+
