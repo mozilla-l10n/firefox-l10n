@@ -47,3 +47,8 @@ pocket-panel-home-welcome-back = Benveguo torna
 pocket-panel-home-explore-popular-topics = Esplòra argomenti ciù popolâ
 pocket-panel-home-discover-more = Descòvri de ciù
 pocket-panel-home-explore-more = Esplòra
+
+## Pocket panel header component
+
+## Pocket panel buttons
+

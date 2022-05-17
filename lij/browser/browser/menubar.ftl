@@ -39,15 +39,6 @@ menu-quit =
 menu-quit-mac =
     .label = Sciòrti da { -brand-shorter-name }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Særa { -brand-shorter-name }
-
 menu-about =
     .label = Informaçioin in sce { -brand-shorter-name }
     .accesskey = I
@@ -77,9 +68,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Arvi schedaio…
     .accesskey = v
-menu-file-close =
-    .label = Særa
-    .accesskey = S
 menu-file-close-window =
     .label = Særa o barcon
     .accesskey = S
@@ -92,9 +80,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Inpòsta pagina…
     .accesskey = I
-menu-file-print-preview =
-    .label = Anteprimma de Stanpa
-    .accesskey = A
 menu-file-print =
     .label = Stanpa…
     .accesskey = p
@@ -267,9 +252,6 @@ menu-help =
     .accesskey = A
 menu-help-report-site-issue =
     .label = Denonçia Problema do Scito…
-menu-help-feedback-page =
-    .label = Manda comento…
-    .accesskey = M
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

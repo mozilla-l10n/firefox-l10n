@@ -17,12 +17,14 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Seleçionn-a tutti i feuggi
     .accesskey = S
+
 toolbar-context-menu-manage-extension =
     .label = Gestisci estenscion
     .accesskey = G
 toolbar-context-menu-remove-extension =
     .label = Scancella estenscion
     .accesskey = c
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -35,6 +37,7 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Personalizza…
     .accesskey = P
+
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Bara di menû
     .accesskey = M

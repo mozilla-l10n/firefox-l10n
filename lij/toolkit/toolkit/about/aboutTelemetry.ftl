@@ -31,7 +31,6 @@ about-telemetry-events-section = Eventi
 about-telemetry-simple-measurements-section = Mizuaçioin senplici
 about-telemetry-slow-sql-section = Istruçioin SQL lente
 about-telemetry-addon-details-section = Detalli conp. azonto
-about-telemetry-captured-stacks-section = Stack caturou
 about-telemetry-late-writes-section = Scritue ritardæ
 about-telemetry-raw-payload-section = Carego sgreuzzo
 about-telemetry-raw = JSON sgreuzzo
@@ -105,10 +104,6 @@ about-telemetry-addon-provider = Fornio da { $addonProvider }
 about-telemetry-keys-header = Propietæ
 about-telemetry-names-header = Nomme
 about-telemetry-values-header = Valô
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (conta de catue: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Scritua ritardâ #{ $lateWriteCount }

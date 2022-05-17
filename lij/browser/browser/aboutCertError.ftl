@@ -73,7 +73,6 @@ unknownSocketType-title = Risposta sbaliâ da-o server
 nssFailure2-title = Conescion segua no riescia
 csp-xfo-error-title = { -brand-short-name } o no peu arvî sta pagina
 corruptedContentError-title = Erô de contegnuo andæto a mâ
-remoteXUL-title = XUL Remòtto
 sslv3Used-title = Inposcibile conetise in mòddo seguo
 inadequateSecurityError-title = A teu conescion a no l'é segua
 blockedByPolicy-title = Pagina blocâ

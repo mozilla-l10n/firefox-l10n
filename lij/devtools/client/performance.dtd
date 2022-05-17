@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Quante vòtte sta fonçion a l'é stæta rilevâ drento o stack into campionamento.">
 <!ENTITY performanceUI.table.function                 "Fonçion">
 <!ENTITY performanceUI.table.function.tooltip         "O nomme e a poxiçion into sorgente da fonçion canpionâ.">
-<!ENTITY performanceUI.table.totalAlloc               "Alocaçioin totali">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "O numero de alocaçioin de ogetti campionæ in sta poxiçion e inti tutti i elementi ciamæ.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

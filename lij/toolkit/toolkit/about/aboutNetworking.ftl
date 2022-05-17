@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = Ativo
 about-networking-idle = Inativo
 about-networking-host = Server
-about-networking-tcp = TCP
 about-networking-sent = Mandæ
 about-networking-received = Riçevui
 about-networking-family = Famiggia

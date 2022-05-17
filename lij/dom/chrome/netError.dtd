@@ -86,9 +86,6 @@
 <!ENTITY corruptedContentErrorv2.title "Erô de contegnuo andæto a mâ">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>A pagina che ti preuvi a vedde a no peu mostrase perché no l'é poscibile perché gh'é un erô inta trasmiscion di dæti.</p><ul><li>Ciamma o propietaio do scito web pe informalo do problema.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL Remòtto">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Pe piaxei ciamma o propietaio do scito pe informalo do problema.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "A teu conescion a no l'é segua">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

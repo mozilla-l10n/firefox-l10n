@@ -125,8 +125,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Segnala eroî comme sto chi pe agiutâ Mozilla a identificâ e blocâ sciti danozi">
 <!ENTITY errorReporting.learnMore "Atre informaçioin…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Pe piaxei ciamma o propietaio do scito pe informalo do problema.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informaçion avansæ: SSL_ERROR_UNSUPPORTED_VERSION">
