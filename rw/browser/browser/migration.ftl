@@ -35,14 +35,6 @@ import-done-page-title = Kuzana Byarangiye
 
 import-done-description = Ibintu Bikurikira Byazanwe nta Kibazo:
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Kuva kuri { $source }:
-
-source-name-firefox = Mozilla Firefox
-
 ## Browser data types
 ## All of these strings get a $browser variable passed in.
 ## You can use the browser variable to differentiate the name of items,

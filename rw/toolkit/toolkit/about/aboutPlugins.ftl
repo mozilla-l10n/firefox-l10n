@@ -21,3 +21,6 @@ path-dd = <span data-l10n-name="path">Inzira:</span> { $pluginFullPath }
 mime-type-label = Ubwoko bwa MIME
 description-label = Isobanuramiterere
 suffixes-label = Imigereka
+
+## Gecko Media Plugins (GMPs)
+

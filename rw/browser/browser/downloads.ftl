@@ -19,12 +19,14 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Kongera gutangira
     .accesskey = g
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = Gufungura Ububiko Burimo
-    .accesskey = B
   
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
+##
+
 ## Displayed when the user clicked on a download in process. Indicates that the
 ## downloading file will be opened after certain amount of time using an app
 ## available in the system.
@@ -32,6 +34,13 @@ downloads-cmd-show-menuitem =
 ##   $hours (number) - Amount of hours left till the file opens.
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
+
+##
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
 ##
 
