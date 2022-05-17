@@ -41,3 +41,7 @@ pocket-panel-signup-tagline-story-two = لە { -pocket-brand-name } پیشانی
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

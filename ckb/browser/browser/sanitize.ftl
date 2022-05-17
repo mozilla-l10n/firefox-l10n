@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = زانیاری
 
-item-site-preferences =
-    .label = هەڵبژاردنەکانی ماڵپەڕ
-    .accesskey = S
-
 item-offline-apps =
     .label = زانیاری ماڵپەڕی دەرهێڵ
     .accesskey = O

@@ -115,7 +115,6 @@ unknownSocketType-title = وەڵامێکی چاوەڕواننەکراو لە ڕ�
 nssFailure2-title = پەیوەندی پارێزراو سەرکەوتوو نەبوو
 csp-xfo-error-title = { -brand-short-name } ئەم پەڕەیە ناتوانرێت بکرێتەوە
 corruptedContentError-title = هەڵەی شێواوی ناوەڕۆک ڕوویدا.
-remoteXUL-title = کۆنتڕۆڵ XUL
 sslv3Used-title = نەتوانرا بە پارێزراوی پەیوەندی بگریت
 inadequateSecurityError-title = پەیوەندی پارێزراو نیە
 blockedByPolicy-title = پەڕەی بلۆککراو

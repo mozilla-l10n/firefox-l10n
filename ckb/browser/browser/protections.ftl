@@ -58,16 +58,8 @@ protections-close-button2 =
 mobile-app-links = { -brand-product-name } وێبگەڕ بۆ <a data-l10n-name="android-mobile-inline-link">ئەندرۆید </a> و <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 
 lockwise-title = جارێکی تر وشەی تێپەڕبوون لەبیر مەکە
-lockwise-title-logged-in2 = بەڕێوبردنی وشەی تێپەڕبوونەکان
-lockwise-header-content = { -lockwise-brand-name } بەشێوەیەکی نهێنی وشەی تێپەڕبوونەکانت دەپارێزێت و هەڵی دەگرێت.
 lockwise-header-content-logged-in = بەپارێزراوی وشەی تێپەڕبوونەکان هاوکاتگەری پێبکەو هەڵیگرە لە ناو هەموو ئامێرەکانت.
-protection-report-save-passwords-button = وشەی تێپەڕ پاشەکەوت بکە
-    .title = وشەی تێپەڕ پاشەکەوت بکە لە ناو { -lockwise-brand-short-name }
-protection-report-manage-passwords-button = بەڕێوەبردنی وشەی تێپەڕبوون
-    .title = بەڕێوەبردنی وشەی تێپەڕبوون لە ناو { -lockwise-brand-short-name }
-lockwise-mobile-app-title = وشەی تێپەڕەکەت لەگەڵ خۆت بەرە
-lockwise-no-logins-card-content = وشەی تێپەڕبوون بەکاربێنە کە هەڵگیراوە لە { -brand-short-name } بۆ هەر ئامێرێک.
-lockwise-app-links = { -lockwise-brand-name } for <a data-l10n-name="lockwise-android-inline-link">ئەندرۆید</a> و <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+
 
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.

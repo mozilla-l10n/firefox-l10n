@@ -63,6 +63,7 @@ app-basics-location-service-key-google = کلیلی خزمەتگوزاری شو�
 app-basics-safebrowsing-key-google = کلیلی گەڕانی پارێزراوی گووگڵ
 app-basics-key-mozilla = کلیلی خزمەتگوزاری شوێنی Mozilla
 app-basics-safe-mode = دۆخی پارێزراو
+
 show-dir-label =
     { PLATFORM() ->
         [macos] لە شوێنەکەی بیکەرەوە

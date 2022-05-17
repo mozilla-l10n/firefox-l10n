@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = کردنەوە بە { -brand-short-name }
     .accesskey = ک
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] ڕێکخستنەکان دەگۆڕدرێت لە بەشی { -brand-short-name } هەڵبژاردەکان.
            *[other] ڕێکخستنەکان دەگۆڕدرێت لە بەشی { -brand-short-name } هەڵبژاردنەکان.
         }
+
 unknowncontenttype-intro = تۆ دیاریت کە بکرێتەوە:
 unknowncontenttype-which-is = بریتییە لە:
 unknowncontenttype-from = لە:

@@ -6,7 +6,6 @@ privatebrowsingpage-open-private-window-label = لە پەنجەرەیەکی تا
     .accesskey = پ
 about-private-browsing-search-placeholder = بە وێبدا بگەڕێ
 about-private-browsing-info-title = تۆ لە پەنجەرەی تایبەتدایت
-about-private-browsing-info-myths = ئەفسانەی باو دەربارەی گەڕانی تایبەت
 about-private-browsing-search-btn =
     .title = بە وێبدا بگەڕێ
 # Variables
@@ -20,10 +19,10 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = بگەڕێ بەهۆی { $engine } یان ناونیشان بنووسە
 about-private-browsing-handoff-text-no-engine = بگەڕێ یان ناونیشان بنووسە
 about-private-browsing-not-private = تۆ ئێستا لە پەنجەرەی تایبەت دا نیت.
-about-private-browsing-info-description = { -brand-short-name } هەموو زانیارییەکانی گەڕانت دەسڕێتەوە کاتێک داوانەمەکە دادەخەیت یان هەموو پەنجەرە و بازدەرەکانی تایبەتیی دادەخەیتەوە.ئەمە لە کاتێکدا تۆ ناشارێتەوە لە ماڵپەڕەکان یان دابینکەرانی هێڵی ئینتەرنێت. کارەکەت ئاسان تر دەکات بۆ ئەوەی کە بە تایبەتی لەسەرهێڵ بیت دوورلەو کەسانەی هەمان کۆمپیوتەر بەکاردێنن.
-about-private-browsing-need-more-privacy = پێویستت بە تایبەتێتی زیاترە؟
-about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } تاق بکەوە
 about-private-browsing-learn-more-link = زیاتر بزانە
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -36,3 +35,4 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = داخستن
+

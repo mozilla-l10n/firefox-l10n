@@ -21,10 +21,6 @@ process-type-extension = پێوەکراو
 # process used to open file:// URLs
 process-type-file = پەڕگەی ناوخۆیی
 
-# process used to isolate webpages that requested special
-# permission to allocate large amounts of memory
-process-type-weblargeallocation = ئامادەکردنی بیرگەی گەورە
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = ناوەڕۆکی جیاکراوە

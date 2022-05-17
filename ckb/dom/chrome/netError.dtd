@@ -49,8 +49,6 @@
 
 <!ENTITY corruptedContentErrorv2.title "هەڵەی ناوەڕۆکی تێکشکاو">
 
-<!ENTITY remoteXUL.title "دوور XUL">
-
 <!ENTITY inadequateSecurityError.title "پەیوەندی پارێزراو نیە">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

@@ -41,15 +41,6 @@ menu-quit =
 menu-quit-mac =
     .label = وازهێنانی { -brand-shorter-name }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = داخستنی { -brand-shorter-name }
-
 menu-about =
     .label = دەربارەی { -brand-shorter-name }
     .accesskey = A
@@ -79,9 +70,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = پەڕگە بکەرەوە...
     .accesskey = ک
-menu-file-close =
-    .label = داخستن
-    .accesskey = د
 menu-file-close-window =
     .label = پەنجەرە دابخە
     .accesskey = پ
@@ -94,9 +82,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = ڕێکخستنی پەڕە
     .accesskey = ێ
-menu-file-print-preview =
-    .label = پێشبینی چاپ
-    .accesskey = ش
 menu-file-print =
     .label = چاپکردن...
     .accesskey = چ
@@ -275,9 +260,6 @@ menu-help =
     .accesskey = ی
 menu-help-report-site-issue =
     .label = کێشەی ماڵپەڕ بنێرە...
-menu-help-feedback-page =
-    .label = ڕەخنەوپێشنیار بنێرە...
-    .accesskey = ڕ
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

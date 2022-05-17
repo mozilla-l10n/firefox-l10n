@@ -5,7 +5,6 @@
 
 ## App Menu
 
-appmenuitem-protection-dashboard-title = بۆردی پارێزگاری
 appmenuitem-new-window =
     .label = پەنجەرەی نوێ
 appmenuitem-new-private-window =
@@ -20,6 +19,7 @@ appmenuitem-zoom =
     .value = زووم
 appmenuitem-help =
     .label = یارمەتی
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -38,22 +38,28 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = بازدەری کراوە نیە
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = هاوکاتگەری بازدەر چالاک بکە بۆ ئەوەی لیستی هەموو بازدەرەکان ببینیت لە ئامێرەکەی ترەوە.
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = دەتەوێت بازدەرەکانت لە ئامێرەکانی ترەوە ببینی؟
+
 appmenu-remote-tabs-connectdevice =
     .label = پەیوەندی بکە بە ئامێرێکی تر
 appmenu-remote-tabs-welcome = لیستەی بازدەرەکان پیشان بدە لە ئامێرەکانی ترەوە.
 appmenu-remote-tabs-unverified = پێویستە هەژمارەکەت بسەلمێندرێت.
+
 appmenuitem-fxa-sign-in = بچۆژوورەوە لە { -brand-product-name }
+
 appmenuitem-save-page =
     .label = پەرە پاشەکەوت بکە وەک...
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = چی نوێ هەیە
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -87,9 +93,6 @@ appmenu-about =
     .accesskey = A
 appmenu-help-report-site-issue =
     .label = کێشەی ماڵپەڕ بنێرە...
-appmenu-help-feedback-page =
-    .label = ڕەخنەوپێشنیار بنێرە...
-    .accesskey = ڕ
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -107,5 +110,3 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
-appmenu-taskmanager =
-    .label = بەڕێوەبردنی تاسک (ئەرک)

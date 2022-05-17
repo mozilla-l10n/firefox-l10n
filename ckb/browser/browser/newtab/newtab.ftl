@@ -16,15 +16,9 @@ newtab-search-box-search-button =
     .title = گەڕان
     .aria-label = گەڕان
 
-newtab-search-box-search-the-web-input =
-    .placeholder = بە وێبدا بگەڕێ
-    .title = بە وێبدا بگەڕێ
-    .aria-label = بە وێبدا بگەڕێ
-
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = بزوێنەری گەڕان زیادبکە
-newtab-topsites-add-topsites-header = ماڵپەڕی سەرەکی نوێ
 newtab-topsites-add-shortcut-header = قەدبڕی نوێ
 newtab-topsites-edit-topsites-header = ماڵپەڕی سەرەکی دەستکاریبکە
 newtab-topsites-edit-shortcut-header = قەدبڕ دەستکاریبکە
@@ -167,7 +161,6 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = ماڵپەڕە سەرەکییەکان
-newtab-section-header-highlights = نیشانەکردن
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = پێشنیازکراوە لە لایەن { $provider }
@@ -199,6 +192,9 @@ newtab-pocket-more-recommendations = پێشنیازکراوی زیاتر
 newtab-pocket-learn-more = زیاتر بزانە
 newtab-pocket-cta-button = بەدەستهێنانی { -pocket-brand-name }
 newtab-pocket-cta-text = چیرۆکە دڵخوازەکانت پاشەکەوت بکە لە { -pocket-brand-name }، مێشکت پڕ بکە لە خوێندنەوەی دڵڕفێن.
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
