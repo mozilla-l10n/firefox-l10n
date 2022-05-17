@@ -232,14 +232,6 @@ quoted-text-color =
     .label = Колер:
     .accesskey = К
 
-type-column-label =
-    .label = Тып змесціва
-    .accesskey = Т
-
-action-column-label =
-    .label = Дзеянне
-    .accesskey = Д
-
 save-to-label =
     .label = Захоўваць файлы ў
     .accesskey = З
@@ -357,12 +349,6 @@ bg-color-label =
 restore-html-label =
     .label = Аднавіць змоўчныя
     .accesskey = А
-
-format-description = Наладжванне паводзінаў пры фарматаванні тэксту
-
-send-options-label =
-    .label = Наладжванні дасылання…
-    .accesskey = с
 
 autocomplete-description = Калі адрасуюцца лісты, шукаць адпаведныя запісы:
 
@@ -587,8 +573,6 @@ theme-label =
     .value = Тэма:
     .accesskey = Т
 
-style-thunderbird =
-    .label = Thunderbird
 style-bubbles =
     .label = Бурбалкі
 style-dark =
@@ -606,4 +590,6 @@ chat-variant-label =
     .accesskey = В
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

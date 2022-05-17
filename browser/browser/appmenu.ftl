@@ -5,23 +5,21 @@
 
 ## App Menu
 
-appmenuitem-update-banner3 =
-    .label-update-downloading = Сцягваецца абнаўленне { -brand-shorter-name }
-    .label-update-available = Даступна абнаўленне — сцягнуць зараз
-    .label-update-manual = Даступна абнаўленне — сцягнуць зараз
-    .label-update-unsupported = Даступна абнаўленне — сістэма несумяшчальная
-    .label-update-restart = Даступна абнаўленне — перазапусціць зараз
-appmenuitem-protection-dashboard-title = Панэль аховы
 appmenuitem-banner-update-downloading =
     .label = Сцягваецца абнаўленне { -brand-shorter-name }
+
 appmenuitem-banner-update-available =
     .label = Даступна абнаўленне — сцягнуць зараз
+
 appmenuitem-banner-update-manual =
     .label = Даступна абнаўленне — сцягнуць зараз
+
 appmenuitem-banner-update-unsupported =
     .label = Даступна абнаўленне — сістэма несумяшчальная
+
 appmenuitem-banner-update-restart =
     .label = Даступна абнаўленне — перазапусціць зараз
+
 appmenuitem-new-tab =
     .label = Новая картка
 appmenuitem-new-window =
@@ -58,6 +56,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Закрыць меню праграмы
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -78,23 +77,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Увайсці ў сінхранізацыю…
 appmenu-remote-tabs-turn-on-sync =
     .label = Уключыць сінхранізацыю…
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Паказаць больш картак
     .tooltiptext = Паказаць больш картак з гэтай прылады
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Няма адкрытых картак
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Уключыце сінхранізацыю картак, каб пабачыць спіс картак з вашых іншых прылад.
+
 appmenu-remote-tabs-opensettings =
     .label = Налады
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Хочаце пабачыць свае карткі з іншых прылад?
+
 appmenu-remote-tabs-connectdevice =
     .label = Злучыць іншую прыладу
 appmenu-remote-tabs-welcome = Пабачыць спіс картак з іншых сваіх прылад.
 appmenu-remote-tabs-unverified = Ваш уліковы запіс патрабуе пацвярджэння.
+
 appmenuitem-fxa-toolbar-sync-now2 = Сінхранізаваць зараз
 appmenuitem-fxa-sign-in = Увайсці ў { -brand-product-name }
 appmenuitem-fxa-manage-account = Кіраванне ўліковым запісам
@@ -108,13 +114,14 @@ appmenu-fxa-sync-and-save-data2 = Сінхранізаваць і захавац
 appmenu-fxa-signed-in-label = Увайсці
 appmenu-fxa-setup-sync =
     .label = Уключыць сінхранізацыю…
-appmenu-fxa-show-more-tabs = Паказаць больш картак
+
 appmenuitem-save-page =
     .label = Захаваць старонку як…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Што новага
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -128,48 +135,53 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Прафайлер
     .tooltiptext = Запісаць профіль прадукцыйнасці
+
 profiler-popup-button-recording =
     .label = Прафайлер
     .tooltiptext = Прафайлер запісвае профіль
+
 profiler-popup-button-capturing =
     .label = Прафайлер
     .tooltiptext = Прафайлер захоплівае профіль
+
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Раскрыць больш звестак
+
 profiler-popup-description-title =
     .value = Запісвайце, аналізуйце, дзяліцеся
+
 profiler-popup-description = Супольна працуйце над праблемамі прадукцыйнасці, публікуючы профілі і дзелячыся імі з сваёй камандай.
-profiler-popup-learn-more = Падрабязней
+
 profiler-popup-learn-more-button =
     .label = Падрабязней
+
 profiler-popup-settings =
     .value = Налады
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings = Змянiць налады…
-profiler-popup-disabled =
-    Прафайлер зараз адключаны, хутчэй за ўсё, з-за адкрытага акна
-    прыватнага аглядання.
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Змянiць налады…
+
 profiler-popup-recording-screen = Запіс…
-# The profiler presets list is generated elsewhere, but the custom preset is defined
-# here only.
-profiler-popup-presets-custom =
-    .label = Адмысловыя
+
 profiler-popup-start-recording-button =
     .label = Пачаць запіс
+
 profiler-popup-discard-button =
     .label = Адхіліць
+
 profiler-popup-capture-button =
     .label = Захапіць
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -187,18 +199,23 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Рэкамендаваны прадусталяваны варыянт для адладкі большасці вэб-прыкладанняў, з невялікімі выдаткамі.
 profiler-popup-presets-web-developer-label =
     .label = Распрацоўшчык Сеціва
+
 profiler-popup-presets-firefox-description = Рэкамендаваныя налады для прафілявання { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+
 profiler-popup-presets-graphics-description = Папярэднія налады для даследавання хібаў графікі ў { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Графіка
+
 profiler-popup-presets-media-description2 = Папярэднія налады для даследавання хібаў гуку і відэа ў { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Медыя
+
 profiler-popup-presets-networking-description = Папярэднія налады для даследавання сеткавых хібаў у { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Сетка
+
 profiler-popup-presets-custom-label =
     .label = Адмысловыя
 
@@ -233,9 +250,6 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = е
 appmenu-help-report-site-issue =
     .label = Паведаміць аб праблеме з сайтам…
-appmenu-help-feedback-page =
-    .label = Падаць водгук…
-    .accesskey = П
 appmenu-help-share-ideas =
     .label = Падзяліцца ідэямі ці водгукам…
     .accesskey = ц
@@ -264,8 +278,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Уладкаваць паліцы прылад…
-appmenu-taskmanager =
-    .label = Менеджар задач
+
 appmenu-developer-tools-subheader = Інструменты браўзера
 appmenu-developer-tools-extensions =
     .label = Пашырэнні для распрацоўшчыкаў

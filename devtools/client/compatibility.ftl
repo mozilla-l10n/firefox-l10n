@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (састарэлы, 
 compatibility-settings-button-label = Налады
 compatibility-settings-button-title =
     .title = Налады
-compatibility-feedback-button-label = Водгукі і прапановы
-compatibility-feedback-button-title =
-    .title = Водгукі і прапановы
 
 ## Messages used as headers in settings pane
 
@@ -43,9 +40,11 @@ compatibility-issue-occurrences =
         [few] { $number } выпадкі
        *[many] { $number } выпадкаў
     }
+
 compatibility-no-issues-found = Праблем з сумяшчальнасцю не выяўлена.
 compatibility-close-settings-button =
     .title = Зачыніць налады
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

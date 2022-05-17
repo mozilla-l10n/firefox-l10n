@@ -18,6 +18,3 @@
 <!ENTITY dict.title "Слоўнікі">
 <!ENTITY dict_intro.label "Слоўнікі, якія ўжываюцца для праверкі правапісу вашых лістоў.">
 <!ENTITY info.title "Падрабязней">
-<!ENTITY info_bugs.label '<a href="http://www.mozilla.org/mailnews/">Мы</a> вітаем паведамленні аб хібах і запыты
-асаблівасцяў, але спачатку пачытайце <a id="releaseNotesURL" href="">заўвагі аб выданнях</a> і 
-запытайце <a href="https://bugzilla.mozilla.org/query.cgi">Багзіла</a>.'>

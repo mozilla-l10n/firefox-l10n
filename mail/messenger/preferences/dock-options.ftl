@@ -23,4 +23,3 @@ count-new-messages-radio =
     .label = Колькасць новых лістоў
     .accesskey = н
 
-notification-settings-info = Вы можаце адключыць піктаграму на панэлі апавяшчэнняў у Сістэмных наладах.

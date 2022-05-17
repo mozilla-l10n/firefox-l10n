@@ -7,19 +7,6 @@
 ### feature.
 
 about-unloads-page-title = Разгрузка картак
-about-unloads-intro-1 =
-    { -brand-short-name } мае функцыю аўтаматычнай разгрузкі картак,
-    каб пазбегнуць аварый праграмы з-за недастатковай памяці,
-    калі на камп'ютары застаецца мала даступнай памяці. Наступная картка
-    для разгрузкі выбіраецца на падставе мноства атрыбутаў. Гэта старонка
-    паказвае, як { -brand-short-name } прыярытэзуе карткі і якая картка
-    будзе разгружана пры спрацоўванні функцыі.
-about-unloads-intro-2 =
-    Наяўныя карткі пералічаны ў табліцы ніжэй у тым жа парадку, якім
-    карыстаецца { -brand-short-name } пры выбары наступнай карткі для разгрузкі. Ідэнтыфікатары працэсаў паказаны <strong>тлустым шрыфтам</strong>,
-    калі яны змяшчаюць асноўны фрэйм карткі, і <em>курсівам</em>, калі працэс
-    падзелены паміж рознымі карткамі. Можна ўручную запусціць разгрузку
-    картак, націснуўшы кнопку <em>Разгрузіць</em> ніжэй.
 about-unloads-intro =
     { -brand-short-name } мае функцыю аўтаматычнай разгрузкі картак,
     каб пазбегнуць аварый праграмы з-за недастатковай памяці,
@@ -28,15 +15,18 @@ about-unloads-intro =
     паказвае, як { -brand-short-name } прыярытэзуе карткі і якая картка
     будзе разгружана пры спрацоўванні функцыі.  Вы можаце запусціць 
     разгрузку картак уручную, націснуўшы кнопку <em>Разгрузіць</em> ніжэй.
+
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
     Наведайце старонку <a data-l10n-name="doc-link">Разгрузка картак</a>, 
     каб даведацца больш пра функцыю і гэту старонку.
+
 about-unloads-last-updated = Апошняе абнаўленне: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Разгрузіць
     .title = Разгрузка карткі з найвышэйшым прыярытэтам
 about-unloads-no-unloadable-tab = Няма картак для разгрузкі.
+
 about-unloads-column-priority = Прыярытэт
 about-unloads-column-host = Хост
 about-unloads-column-last-accessed = Апошні доступ
@@ -48,6 +38,7 @@ about-unloads-column-memory = Памяць
     .title = Разліковае выкарыстанне памяці карткаю
 about-unloads-column-processes = Ідэнтыфікатары працэсаў
     .title = Ідэнтыфікатары працэсаў, якія змяшчаюць змесціва картак
+
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } МБ
 about-unloads-memory-in-mb-tooltip =

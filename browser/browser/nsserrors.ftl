@@ -12,16 +12,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Здарылася памылка падчас злучэння з { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Код памылкі: { $error }
+
 psmerr-ssl-disabled = Немагчыма бяспечна злучыцца, бо пратакол SSL забаронены.
 psmerr-ssl2-disabled = Немагчыма бяспечна злучыцца, бо сайт карыстаецца састарэлай небяспечнай версіяй пратакола SSL.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Вы атрымалі няспраўны сертыфікат.  Звяжыцеся, калі ласка, з адміністратарам сервера ці з э-паштовым карэспандэнтам і паведаміце ім наступныя звесткі:
     
     Ваш сертыфікат змяшчае серыйны нумар, аднолькавы з нумарам іншага сертыфіката, выдадзенага цэнтрам сертыфікацыі.  Атрымайце, калі ласка, новы сертыфікат, які змяшчае ўнікальны серыйны нумар.
+
 ssl-error-export-only-server = Немагчыма бяспечна злучыцца. Пір не падтрымлівае высокаўзроўневае шыфраванне.
 ssl-error-us-only-server = Немагчыма бяспечна злучыцца. Пір патрабуе высокаўзроўневае шыфраванне, якое не падтрымліваецца.
 ssl-error-no-cypher-overlap = Немагчыма бяспечна злучыцца з пірам: няма агульнага алгарытму(-аў) шыфравання.

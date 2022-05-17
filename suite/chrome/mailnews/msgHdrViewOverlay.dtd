@@ -22,9 +22,6 @@
 <!ENTITY inReplyToField.label "У-Адказ-На:">
 <!ENTITY originalWebsite.label "Пляцоўка сеціва:">
 
-<!ENTITY editMessage.label "Правіць чарнавік…">
-<!ENTITY editMessage.accesskey "ч">
-
 <!ENTITY attachmentsTree.label "Далучэнні:">
 <!ENTITY attachmentsTree.accesskey "Д">
 <!ENTITY openAttachmentCmd.label "Адчыніць">
