@@ -29,14 +29,6 @@
 <!ENTITY mailBiffOnNewWindow.label        "Only check for new mail after opening Mail &amp; Newsgroups">
 <!ENTITY mailBiffOnNewWindow.accesskey    "O">
 
-<!ENTITY defaultMailSettings.description  "Make &brandShortName; the default application for:">
-<!ENTITY setDefaultMail.label             "Email">
-<!ENTITY setDefaultMail.accesskey         "m">
-<!ENTITY setDefaultNews.label             "Noutăți">
-<!ENTITY setDefaultNews.accesskey         "N">
-<!ENTITY setDefaultFeed.label             "Feed-uri">
-<!ENTITY setDefaultFeed.accesskey         "e">
-
 <!ENTITY messengerStartPage.caption       "Pagina de start a contului">
 <!ENTITY enableStartPage.label            "When Mail launches, show the Start Page in the message area">
 <!ENTITY enableStartPage.accesskey        "W">

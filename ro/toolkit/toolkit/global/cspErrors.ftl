@@ -5,22 +5,27 @@
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 csp-error-missing-directive = Politicii îi lipsește o directivă necesară „{ $directive }”
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $keyword (String): the name of a CSP keyword, usually 'unsafe-inline'.
 csp-error-illegal-keyword = Directiva „{ $directive }” conține un cuvânt-cheie interzis: { $keyword }
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
 csp-error-illegal-protocol = Directiva „{ $directive }” conține o sursă a protocolului interzisă: { $scheme }:
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
 csp-error-missing-host = Protocolul { $scheme }: are nevoie de o gazdă în directivele „{ $directive }”
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $source (String): the name of a CSP source, usually 'self'.
 csp-error-missing-source = „{ $directive }” trebuie să includă sursa { $source }
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.

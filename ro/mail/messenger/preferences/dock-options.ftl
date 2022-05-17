@@ -23,4 +23,3 @@ count-new-messages-radio =
     .label = Număr de mesaje noi
     .accesskey = N
 
-notification-settings-info = Poți dezactiva insigna de pe Panoul de notificare de la Preferințe sistem.

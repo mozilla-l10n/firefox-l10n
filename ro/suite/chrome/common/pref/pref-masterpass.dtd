@@ -15,8 +15,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  pref.masterpass.title                  "Parole generale">
-
 <!ENTITY  changepassword.caption                 "Schimbare parolă master">
 <!ENTITY  changepassword.text                    "Parola dumneavoastră generală protejează informații private cum ar fi parole web și certificate.">
 <!ENTITY  changepassword.button                  "Schimbă parola...">
@@ -24,5 +22,3 @@
 
 <!ENTITY  resetpassword.caption                  "Resetează parola generală">
 <!ENTITY  resetpassword.text                     "Dacă resetați parola dumneavoastră generală, toate parolele web și email, datele din formulare, certificatele personale și cheile private se vor pierde.">
-<!ENTITY  resetpassword.button                   "Resetează parola">
-<!ENTITY  resetpassword.accesskey                "L">

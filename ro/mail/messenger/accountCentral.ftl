@@ -42,7 +42,6 @@ newsgroups-label = Grupuri de știri
 newsgroups-description = { -brand-short-name } îți permite să te conectezi la toate grupurile de știri pe care le vrei.
 
 import-title = Importă din alt program
-import-paragraph = { -brand-short-name } îți permite să imporți mesaje de e-mail, intrări din agende de contacte, abonamente la fluxuri, preferințe și/sau filtre din alte programe de e-mail și formate frecvente de agende de contacte.
 
 import-label = Import
     .aria-label = Importă date din alte programe

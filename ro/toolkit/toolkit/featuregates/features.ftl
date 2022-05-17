@@ -16,30 +16,9 @@ experimental-features-web-gpu-description2 = Acest API nou oferă suport de nive
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-media-avif =
-    .label = Media: AVIF
-experimental-features-media-avif-description = Cu această funcționalitate activată, { -brand-short-name } oferă suport pentru formatul de fișiere de imagini AV1 (AVIF). Acesta este un format de fișiere de imagini care profită de capabilitățile algoritmilor AV1 de compresie video pentru reducerea mărimii imaginilor. Vezi <a data-l10n-name="bugzilla">bug 1443863</a> pentru mai multe detalii.
-
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-inputmode =
-    .label = Web API: inputmode
-# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
-experimental-features-web-api-inputmode-description = Implementarea noastră a atributului global <a data-l10n-name="mdn-inputmode">inputmode</a> a fost activată conform <a data-l10n-name="whatwg">specificației WHATWG</a>, dar tot mai trebuie să facem alte modificări, cum ar fi să îl facem disponibil pe conținuturi editabile. Vezi <a data-l10n-name="bugzilla">bug 1205133</a> pentru mai multe detalii.
-
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Adiția unui constructor la interfața <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, precum și varietatea de modificări aferente face posibilă crearea directă a unor fișe de stiluri noi fără a mai fi necesară adăugarea lor în HTML. Aceasta ușurează foarte mult crearea de fișe de stiluri reutilizabile de folosit cu <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Vezi <a data-l10n-name="bugzilla">bug 1520690</a> pentru mai multe detalii.
-
-experimental-features-devtools-color-scheme-simulation =
-    .label = Instrumente pentru dezvoltatori: Simularea paletei de culori
-experimental-features-devtools-color-scheme-simulation-description = Adaugă o opțiune pentru a simula diferite palete de culori, permițând testarea interogărilor multimedia cu <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Utilizarea acestei interogări de medii permite fișei de stiluri să răspundă dacă utilizatorul preferă o interfață luminoasă sau întunecată. Această funcționalitate permite testarea de coduri fără nevoia de a schimba setările din browser (sau sistemul de operare dacă browserul urmează o setare a schemei de culori aplicată la nivelul întregului sistem). Vezi <a data-l10n-name="bugzilla1">bug 1550804</a> și <a data-l10n-name="bugzilla2">bug 1137699</a> pentru mai multe detalii.
-
-experimental-features-devtools-execution-context-selector =
-    .label = Instrumente pentru dezvoltatori: Selector pentru contextul de execuție
-experimental-features-devtools-execution-context-selector-description = Această funcționalitate afișează un buton pe linia de comandă a consolei, care îți permite să schimbi contextul în care să fie executată expresia introdusă. Vezi <a data-l10n-name="bugzilla1">bug 1605154</a> și <a data-l10n-name="bugzilla2">bug 1605153</a> pentru mai multe detalii.
 
 experimental-features-devtools-compatibility-panel =
     .label = Instrumente pentru dezvoltatori: Panou de compatibilitate

@@ -63,12 +63,6 @@ afterauth-private = Ai verificat identitatea lui { $name }.
 #   $name (String) - the screen name of a chat contact person
 afterauth-unverified = Identitatea lui { $name } nu a fost verificată.
 
-verify-title = Verifică identitatea contactului
-error-title = Eroare
-success-title = Criptare end-to-end
-fail-title = Verificare imposibilă
-waiting-title = Cererea de verificare a fost transmisă
-
 # Do not translate 'OTR' (name of an encryption protocol)
 # Variables:
 #   $error (String) - contains an error message that describes the cause of the failure

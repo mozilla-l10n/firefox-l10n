@@ -39,5 +39,3 @@
 <!ENTITY stopFilters.accesskey "O">
 <!ENTITY folderPickerPrefix.label "Rulează filtrul(ele) selectate pe:">
 <!ENTITY folderPickerPrefix.accesskey "c">
-<!ENTITY choosethis.label "alege acest dosar">
-<!ENTITY choosethisnewsserver.label "alege acest server de news">

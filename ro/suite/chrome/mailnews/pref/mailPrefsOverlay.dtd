@@ -18,10 +18,6 @@
 #
 -->
 
-<!-- These are added to the Advanced - Scripts & Plugins panel -->
-<!ENTITY enbPluginCheckMailNews.label     "Email și grupuri de discuții">
-<!ENTITY enbPluginCheckMailNews.accesskey "a">
-
 <!-- These are added to the Window menu -->
 <!ENTITY mail.label                       "Email și grupuri de discuții">
 <!ENTITY mail.accesskey                   "m">

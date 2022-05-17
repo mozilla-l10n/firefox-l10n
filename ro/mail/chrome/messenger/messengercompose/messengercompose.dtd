@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Pagină web…">
 <!ENTITY attachPageCmd.accesskey "w">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Fișă personală (vCard)">
-<!ENTITY attachVCardCmd.accesskey "F">
 <!ENTITY remindLater.label "Amintește-mi mai târziu">
 <!ENTITY remindLater.accesskey "m">
 <!ENTITY closeCmd.label "Închide">
@@ -148,16 +145,6 @@
 <!ENTITY returnReceiptMenu.accesskey "C">
 <!ENTITY dsnMenu.label "Notificare asupra stadiului livrării">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY deliveryFormatMenu.label "Format de trimitere">
-<!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "Detectare automată">
-<!ENTITY autoFormatCmd.accesskey "A">
-<!ENTITY plainTextFormatCmd.label "Doar text">
-<!ENTITY plainTextFormatCmd.accesskey "x">
-<!ENTITY htmlFormatCmd.label "Doar text îmbogățit (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "b">
-<!ENTITY bothFormatCmd.label "Text simplu și îmbunătățit (HTML)">
-<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "Prioritate">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.title "Prioritate">
@@ -221,7 +208,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Alte tipuri de câmpuri de adresare">
 <!ENTITY fromAddr2.label "De la">
 <!ENTITY fromAddr.accesskey "D">
 <!ENTITY replyAddr2.label "Răspuns către">

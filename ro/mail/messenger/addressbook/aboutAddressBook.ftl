@@ -16,3 +16,5 @@ about-addressbook-name-format-display =
 
 ## Details
 
+# Photo dialog
+

@@ -42,13 +42,11 @@
 <!ENTITY images.label "Imagini">
 <!ENTITY popups.label "Popup Windows">
 <!ENTITY passwords.label "Parole">
-<!ENTITY masterpass.label "Parole generale">
 <!ENTITY certs.label "Certificate">
 
 <!ENTITY sync.label "Sync">
 
 <!ENTITY advance.label "Avansat">
-<!ENTITY scriptsAndWindows.label "Scripts &amp; Plugins">
 
 <!ENTITY keynav.label "Tastaturi de navigare">
 <!ENTITY findAsYouType.label "Find As You Type">

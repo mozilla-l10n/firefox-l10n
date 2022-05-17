@@ -34,7 +34,6 @@ about-telemetry-events-section = Evenimente
 about-telemetry-simple-measurements-section = Măsurători simple
 about-telemetry-slow-sql-section = Instrucțiuni SQL lente
 about-telemetry-addon-details-section = Detalii privind suplimentele
-about-telemetry-captured-stacks-section = Stive capturate
 about-telemetry-late-writes-section = Scrieri întârziate
 about-telemetry-raw-payload-section = Sarcină utilă brută
 about-telemetry-raw = JSON brut
@@ -122,10 +121,6 @@ about-telemetry-addon-provider = Furnizor { $addonProvider }
 about-telemetry-keys-header = Proprietate
 about-telemetry-names-header = Nume
 about-telemetry-values-header = Valoare
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (numărul capturărilor: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Scriere târzie #{ $lateWriteCount }

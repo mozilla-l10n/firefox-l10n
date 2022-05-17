@@ -21,10 +21,6 @@ process-type-extension = Extensie
 # process used to open file:// URLs
 process-type-file = Fișier local
 
-# process used to isolate webpages that requested special
-# permission to allocate large amounts of memory
-process-type-weblargeallocation = Alocare mare
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Conținut web izolat

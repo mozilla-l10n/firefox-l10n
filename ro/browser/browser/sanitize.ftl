@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Date
 
-item-site-preferences =
-    .label = Preferințele pentru site-uri
-    .accesskey = S
-
 item-site-settings =
     .label = Setările site-urilor
     .accesskey = Setările site-urilor

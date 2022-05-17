@@ -127,8 +127,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Raportează erori precum aceasta pentru a ajuta Mozilla să identifice și să blocheze site-urile rău intenționate">
 <!ENTITY errorReporting.learnMore "Află mai multe…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informații avansate: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -154,9 +152,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Se pare că setările de securitate ale rețelei sunt de vină. Vrei să restaurezi setările implicite?">
 <!ENTITY prefReset.label "Restaurează setările implicite">
-
-<!ENTITY enableTls10.longDesc "Este posibil ca acest site să nu acccepte protocolul TLS 1.2, care este versiunea minimă acceptată de &brandShortName;. Activarea TLS 1.0 și TLS 1.1 ar putea permite realizarea acestei conexiuni cu succes.">
-<!ENTITY enableTls10.note "TLS 1.0 și TLS 1.1 vor fi dezactivate permanent în versiunile viitoare.">
-<!ENTITY enableTls10.label "Activează TLS 1.0 și 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Pagina pe care încerci să o vezi nu poate fi afișată, deoarece a fost detectată o eroare în protocolul de rețea.</p><ul><li>Te rugăm să contactezi proprietarii site-ului pentru a-i informa despre această problemă.</li></ul>">
