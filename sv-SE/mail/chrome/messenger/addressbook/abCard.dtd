@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Ytterligare e-post:">
 <!ENTITY SecondEmail.accesskey          "Y">
-<!ENTITY PreferMailFormat.label         "Föredrar att få meddelanden kodade som:">
-<!ENTITY PreferMailFormat.accesskey     "F">
 <!ENTITY PlainText.label                "Oformaterad text">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Okänt">

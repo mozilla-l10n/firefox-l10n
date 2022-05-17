@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (föråldrad, experim
 compatibility-settings-button-label = Inställningar
 compatibility-settings-button-title =
     .title = Inställningar
-compatibility-feedback-button-label = Återkoppling
-compatibility-feedback-button-title =
-    .title = Återkoppling
 
 ## Messages used as headers in settings pane
 
@@ -42,9 +39,11 @@ compatibility-issue-occurrences =
         [one] { $number } händelse
        *[other] { $number } händelser
     }
+
 compatibility-no-issues-found = Inga kompatibilitetsproblem hittades.
 compatibility-close-settings-button =
     .title = Stäng inställningarna
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

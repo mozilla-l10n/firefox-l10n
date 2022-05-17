@@ -10,28 +10,10 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                   "Aktiviteter">
 
-<!ENTITY cmd.pause.label                  "Paus">
-<!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Återuppta">
-<!ENTITY cmd.resume.accesskey             "e">
-<!ENTITY cmd.cancel.label                 "Avbryt">
-<!ENTITY cmd.cancel.accesskey             "A">
-<!ENTITY cmd.undo.label                   "Ångra">
-<!ENTITY cmd.undo.accesskey               "Å">
-<!ENTITY cmd.recover.label                "Återställ">
-<!ENTITY cmd.recover.accesskey            "s">
-<!ENTITY cmd.retry.label                  "Försök igen">
-<!ENTITY cmd.retry.accesskey              "F">
-<!ENTITY cmd.removeFromList.label         "Ta bort från lista">
-<!ENTITY cmd.removeFromList.accesskey     "T">
-
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Rensa lista">
 <!ENTITY cmd.clearList.tooltip            "Tar bort avslutade, avbrutna och misslyckade poster från listan">
 <!ENTITY cmd.clearList.accesskey          "R">
-<!ENTITY cmd.find.commandkey              "f">
-<!ENTITY cmd.search.commandkey            "k">
 
-<!ENTITY searchBox.label                  "Sök…">

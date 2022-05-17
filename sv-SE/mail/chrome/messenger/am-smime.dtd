@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Läs mer">
 
 <!ENTITY e2eEnc.description "Utan end-to-end kryptering exponeras innehållet i meddelanden lätt för din e-postleverantör och för massövervakning.">
-<!ENTITY e2eeReqWarning.description "Om du behöver kryptering måste du ha den offentliga nyckeln eller certifikatet för varje mottagare för att skicka ett meddelande.">
 
-<!ENTITY e2eSigning.description "En digital signatur gör det möjligt för mottagare att verifiera att meddelandet skickades av dig och att innehållet inte har ändrats.">
 <!ENTITY e2eTechPref.description "Föredragen krypteringsteknologi:">
 
-<!ENTITY doNotEncrypt.label "Aktivera inte kryptering som standard">
-<!ENTITY doNotEncrypt.accesskey "n">
-<!ENTITY requireEncryptMessage.label "Kräv kryptering som standard">
-<!ENTITY requireEncryptMessage.accesskey "v">
 <!ENTITY encryptionCert2.message "Personligt certifikat för kryptering:">
 <!ENTITY digitalSign.certificate.button "Välj…">
 <!ENTITY digitalSign.certificate.accesskey "j">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Rensa">
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Digital signering">
-<!ENTITY signMessage2.label "Lägg till min digitala signatur som standard">
-<!ENTITY signMessage.accesskey "m">
 
 <!ENTITY signingCert2.message "Personligt certifikat för digital signering:">
 

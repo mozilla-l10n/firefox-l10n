@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Dela
     .accesskey = D
-tab-context-share-more =
-    .label = Mer…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -88,14 +86,6 @@ tab-context-reopen-closed-tabs =
            *[other] Öppna stängda flikar igen
         }
     .accesskey = p
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Stäng flik
-            [one] Stäng flik
-           *[other] Stäng flikar
-        }
-    .accesskey = S
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -111,6 +101,7 @@ tab-context-move-tabs =
            *[other] Flytta flikar
         }
     .accesskey = t
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

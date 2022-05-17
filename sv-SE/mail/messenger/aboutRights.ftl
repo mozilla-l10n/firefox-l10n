@@ -17,7 +17,6 @@ rights-intro-point-5 = Vissa funktioner i { -brand-short-name } använder webbas
 rights-intro-point-5-unbranded = Om den här produkten innehåller integrerade webbtjänster bör tillämpliga villkor för tjänsterna länkas till sektionen <a data-l10n-name="mozilla-website-services-link">webbplatstjänster</a> .
 rights-intro-point-6 = För att spela upp vissa typer av videoinnehåll, { -brand-short-name }hämtar innehåll från vissa dekrypteringsmoduler från tredje part.
 rights-webservices-header = { -brand-full-name } webbaserade informationstjänster
-rights-webservices = { -brand-full-name } använder webbaserade informationstjänster (”Tjänster”) för vissa funktioner i den här binära versionen av { -brand-short-name }. Villkoren för dessa beskrivs nedan. Om du inte vill använda en eller flera av dessa Tjänster eller om nedanstående villkor är oacceptabla, kan du inaktivera funktionen eller tjänsten. Instruktioner om hur du inaktiverar en särskild funktion eller tjänst finns <a data-l10n-name="mozilla-disable-service-link">här</a>. Andra funktioner och tjänster kan inaktiveras i programinställningarna.
 rights-webservices2 =
     { -brand-full-name } använder webbaserade informationstjänster ("Services") för att
     tillhandahålla några av de funktioner som tillhandahålls för din användning med

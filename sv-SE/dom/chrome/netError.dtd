@@ -82,9 +82,6 @@
 <!ENTITY corruptedContentErrorv2.title "Skadat innehåll">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Sidan du försöker se kan inte visas på grund av att ett fel i dataöverföringen upptäcktes.</p><ul><li>Kontakta ägarna till webbplatsen för att informera dem om detta problem.</li></ul>">
 
-<!ENTITY remoteXUL.title "Extern XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakta ägaren av webbplatsen för att informera dem om detta problem.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Din anslutning är inte säker">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

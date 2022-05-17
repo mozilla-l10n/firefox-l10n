@@ -47,10 +47,3 @@
 <!ENTITY useDefault.label               "Återställ">
 <!ENTITY useDefault.accesskey           "Å">
 
-<!ENTITY defaultBrowserGroup.label      "Förvald webbläsare">
-<!ENTITY defaultBrowserButton.label     "Gör till förvald webbläsare">
-<!ENTITY defaultBrowserButton.accesskey "w">
-<!ENTITY alreadyDefaultText             "&brandShortName; är redan förvald webbläsare.">
-<!ENTITY defaultPendingText             "&brandShortName; kommer att bli förvald webbläsare när du klickar på OK.">
-<!ENTITY wasMadeDefaultText             "&brandShortName; är nu din förvalda webbläsare.">
-<!ENTITY makeDefaultText                "Gör &brandShortName; till förvald webbläsare.">

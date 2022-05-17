@@ -108,8 +108,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Rapportera fel som detta för att hjälpa Mozilla identifiera och blockera skadliga webbplatser">
 <!ENTITY errorReporting.learnMore "Läs mer…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakta ägaren av webbplatsen för att informera dem om detta problem.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Avancerad info: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -135,9 +133,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Det ser ut som nätverkets säkerhetsinställningar kan orsaka detta. Vill du att standardinställningarna ska återställas?">
 <!ENTITY prefReset.label "Återställ standardinställningar">
-
-<!ENTITY enableTls10.longDesc "Denna webbplats stöder kanske inte TLS 1.2-protokollet, som är den minsta version som stöds av &brandShortName;. Om du aktiverar TLS 1.0 och TLS 1.1 kan det hända att denna anslutning lyckas.">
-<!ENTITY enableTls10.note "TLS 1.0 och TLS 1.1 kommer att stängas av permanent i en framtida utgåva.">
-<!ENTITY enableTls10.label "Aktivera TLS 1.0 och 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Sidan du försöker visa kan inte visas eftersom ett fel i nätverksprotokollet upptäcktes.</p><ul><li>Vänligen kontakta webbplatsens ägare för att informera dem om detta problem.</li></ul>">

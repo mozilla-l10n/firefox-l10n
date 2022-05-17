@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fieldMapImport.title "Importera adressbok">
-<!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
 <!ENTITY fieldMapImport.recordNumber "Importerade data ur posten:">
 <!ENTITY fieldMapImport.next.label "Nästa">
 <!ENTITY fieldMapImport.next.accesskey "N">

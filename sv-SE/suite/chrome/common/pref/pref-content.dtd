@@ -7,12 +7,6 @@
 <!ENTITY pref.content.title                     "Innehåll">
 <!ENTITY pref.content.description               "Dessa inställningar påverkar hur webbplats- och meddelandeinnehåll visas i &brandShortName;.">
 
-<!ENTITY siteIcons.label                        "Webbplatsikoner">
-<!ENTITY useSiteIcons.label                     "Visa webbplatsikoner">
-<!ENTITY useSiteIcons.accesskey                 "i">
-<!ENTITY useFavIcons2.label                     "Försök använda serverns ikon när sidan inte anger någon">
-<!ENTITY useFavIcons2.accesskey                 "r">
-
 <!ENTITY scrolling.label                        "Rullning">
 <!ENTITY useAutoScroll.label                    "Använd automatisk rullning">
 <!ENTITY useAutoScroll.accesskey                "t">
@@ -43,6 +37,4 @@
 
 <!ENTITY allowHWAccel.label                     "Använd hårdvaruacceleration när det är tillgängligt">
 <!ENTITY allowHWAccel.accesskey                 "h">
-<!ENTITY blockAutoRefresh.label                 "Varna när webbplatsen försöker skicka vidare eller ladda om sidan">
-<!ENTITY blockAutoRefresh.accesskey             "V">
 

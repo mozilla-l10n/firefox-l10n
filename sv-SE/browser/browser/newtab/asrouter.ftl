@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Rekommenderad funktion
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Varför ser jag detta
+
 cfr-doorhanger-extension-cancel-button = Inte nu
     .accesskey = n
+
 cfr-doorhanger-extension-ok-button = Lägg till nu
     .accesskey = L
+
 cfr-doorhanger-extension-manage-settings-button = Hantera rekommendationsinställningar
     .accesskey = H
+
 cfr-doorhanger-extension-never-show-recommendation = Visa mig inte denna rekommendation
     .accesskey = V
+
 cfr-doorhanger-extension-learn-more-link = Läs mer
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = av { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekommendation
 cfr-doorhanger-extension-notification2 = Rekommendation
     .tooltiptext = Rekommendation av tillägg
     .a11y-announcement = Rekommendation av tillägg tillgänglig
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekommendation
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Läs mer
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Ny funktion:
+
 cfr-whatsnew-button =
     .label = Vad är nytt
     .tooltiptext = Vad är nytt
+
 cfr-whatsnew-release-notes-link-text = Läs versionsfakta
 
 ## Enhanced Tracking Protection Milestones

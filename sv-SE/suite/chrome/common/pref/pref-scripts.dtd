@@ -4,9 +4,6 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
-<!ENTITY pref.scripts.title              "Skript &amp; Insticksmoduler">
-
 <!--LOCALIZATION NOTE : FILE The 'Scripts' preferences dialog -->
 <!ENTITY pref.scripts2.title             "Skript">
 
@@ -31,12 +28,3 @@
 <!ENTITY debugConsoleJavascript.label     "Visa JavaScript-fel och varningar från användargränssnittet">
 <!ENTITY debugConsoleJavascript.accesskey "a">
 
-<!ENTITY enablePlugins.label             "Aktivera insticksmoduler för">
-<!ENTITY enablePluginForSuite.label      "Sviten">
-<!ENTITY enablePluginForSuite.accesskey  "v">
-
-<!ENTITY whenPageRequiresPlugins.label   "När en sida behöver insticksmoduler">
-<!ENTITY activateAllPlugins.label        "Aktivera alla insticksmoduler som standard">
-<!ENTITY activateAllPlugins.accesskey    "s">
-<!ENTITY warnPluginsRequired.label       "Varna mig om ytterligare insticksmoduler behöver installeras">
-<!ENTITY warnPluginsRequired.accesskey   "i">
