@@ -10,16 +10,3 @@
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
-<!ENTITY menu_securityEncryptRequire.accesskey "ع">
-
-<!ENTITY menu_securitySign.label "وقّع هذه الرّسالة رقميًّا">
-<!ENTITY menu_securitySign.accesskey "و">
-
-<!ENTITY menu_securityStatus.label "اعرض معلومات الأمن">
-<!ENTITY menu_securityStatus.accesskey "ت">
-
-<!ENTITY securityButton.label "الأمن">
-<!ENTITY securityButton.tooltip "اعرض أو غيّر إعدادات الأمن">
-
-<!ENTITY menu_viewSecurityStatus.label "معلومات سرّية الرّسالة">
-<!ENTITY menu_viewSecurityStatus.accesskey "ت">

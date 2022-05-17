@@ -5,53 +5,69 @@
 permissions-window =
     .title = الاستثناءات
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = عنوان موقع وِب
     .accesskey = و
+
 permissions-block =
     .label = احجب
     .accesskey = ح
+
 permissions-session =
     .label = اسمح لهذه الجلسة
     .accesskey = ج
+
 permissions-allow =
     .label = اسمح
     .accesskey = س
+
 permissions-site-name =
     .label = موقع الوِب
+
 permissions-status =
     .label = الحالة
+
 permissions-remove =
     .label = احذف موقع الوِب
     .accesskey = ح
+
 permissions-remove-all =
     .label = احذف كل مواقع الوِب
     .accesskey = ذ
+
 permission-dialog =
     .buttonlabelaccept = احفظ التغييرات
     .buttonaccesskeyaccept = ح
+
 permissions-autoplay-menu = المبدئي للمواقع كافة:
+
 permissions-searchbox =
     .placeholder = ابحث عن موقع
+
 permissions-capabilities-autoplay-allow =
     .label = اسمح بالصوت والڤِديو
 permissions-capabilities-autoplay-block =
     .label = احجب الصوت
 permissions-capabilities-autoplay-blockall =
     .label = احجب الصوت والڤِديو
+
 permissions-capabilities-allow =
     .label = اسمح
 permissions-capabilities-block =
     .label = احجب
 permissions-capabilities-prompt =
     .label = اسأل دائمًا
+
 permissions-capabilities-listitem-allow =
     .value = اسمح
 permissions-capabilities-listitem-block =
     .value = احجب
 permissions-capabilities-listitem-allow-session =
     .value = اسمح لهذه الجلسة
+
 permissions-capabilities-listitem-off =
     .value = معطّل
 permissions-capabilities-listitem-off-temporarily =

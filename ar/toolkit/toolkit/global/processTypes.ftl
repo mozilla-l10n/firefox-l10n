@@ -13,10 +13,6 @@ process-type-extension = امتداد
 # process used to open file:// URLs
 process-type-file = ملف محلي
 
-# process used to isolate webpages that requested special
-# permission to allocate large amounts of memory
-process-type-weblargeallocation = تخصيص ذاكرة كبير
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = محتوى وِب معزول

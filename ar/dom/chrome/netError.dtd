@@ -81,9 +81,6 @@
 <!ENTITY corruptedContentErrorv2.title "خطأ محتوى فاسد">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>تعذر عرض الصفحة التي تريد مشاهدتها بسبب خطأ أثناء نقل البيانات.</p><ul><li>الرجاء التواصل مع مالك الموقع لإبلاغه بهذه المشكلة.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL بعيد">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>الرجاء التواصل مع مالك الموقع لإبلاغه بهذه المشكلة.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "اتّصالك غير آمن">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

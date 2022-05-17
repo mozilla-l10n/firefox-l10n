@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = نشط
 about-networking-idle = خامل
 about-networking-host = المستضيف
-about-networking-tcp = TCP
 about-networking-sent = مُرسَل
 about-networking-received = مُستلَم
 about-networking-family = العائلة

@@ -20,6 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = ابحث
     .aria-label = ابحث
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = ‫ابحث مستعملًا { $engine } أو أدخِل عنوانا
@@ -34,10 +35,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = ابحث أو أدخِل عنوانا
     .title = ابحث أو أدخِل عنوانا
     .aria-label = ابحث أو أدخِل عنوانا
-newtab-search-box-search-the-web-input =
-    .placeholder = ابحث في الوِب
-    .title = ابحث في الوِب
-    .aria-label = ابحث في الوِب
+
 newtab-search-box-text = ابحث في الوِب
 newtab-search-box-input =
     .placeholder = ابحث في الوِب
@@ -46,17 +44,18 @@ newtab-search-box-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = أضِف محرك بحث
-newtab-topsites-add-topsites-header = موقع شائع جديد
 newtab-topsites-add-shortcut-header = اختصار جديد
 newtab-topsites-edit-topsites-header = حرّر الموقع الشائع
 newtab-topsites-edit-shortcut-header = حرّر الاختصار
 newtab-topsites-title-label = العنوان
 newtab-topsites-title-input =
     .placeholder = أدخل عنوانًا
+
 newtab-topsites-url-label = المسار
 newtab-topsites-url-input =
     .placeholder = اكتب أو ألصق مسارًا
 newtab-topsites-url-validation = مطلوب مسار صالح
+
 newtab-topsites-image-url-label = مسار الصورة المخصصة
 newtab-topsites-use-image-link = استخدم صورة مخصصة…
 newtab-topsites-image-validation = فشل تحميل الصورة. جرّب مسارا آخر.
@@ -85,10 +84,12 @@ newtab-topsite-sponsored = نتيجة مموّلة
 newtab-menu-section-tooltip =
     .title = افتح القائمة
     .aria-label = افتح القائمة
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = أزِل
     .aria-label = أزِل
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -157,10 +158,12 @@ newtab-label-removed-bookmark = أُزيلت العلامة
 newtab-label-recommended = مُتداول
 newtab-label-saved = حُفِظت في { -pocket-brand-name }
 newtab-label-download = نُزّل
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = برعاية · { $sponsorOrSource }
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -190,7 +193,6 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = المواقع الأكثر زيارة
-newtab-section-header-highlights = أهم الأحداث
 newtab-section-header-recent-activity = أحدث الأنشطة
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
@@ -199,6 +201,7 @@ newtab-section-header-pocket = ينصح به { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ابدأ التصفح وسنعرض أمامك بعض المقالات والفيديوهات والمواقع الأخرى التي زرتها حديثا أو أضفتها إلى العلامات هنا.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -222,9 +225,11 @@ newtab-pocket-more-recommendations = مقترحات أخرى
 newtab-pocket-learn-more = اطّلع على المزيد
 newtab-pocket-cta-button = نزِّل { -pocket-brand-name }
 newtab-pocket-cta-text = احفظ القصص التي تحبّها في { -pocket-brand-name }، وزوّد عقلك بمقالات رائعة.
+
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = احفظ في { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = حُفِظت في { -pocket-brand-name }
+
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = حمّل المزيد من القصص
 

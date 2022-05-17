@@ -6,7 +6,6 @@ privatebrowsingpage-open-private-window-label = افتح نافذة خاصة
     .accesskey = خ
 about-private-browsing-search-placeholder = ابحث في الوِب
 about-private-browsing-info-title = أنت في نافذة خاصة
-about-private-browsing-info-myths = الخرافات الشائعة بخصوص التصفح الخاص
 about-private-browsing-search-btn =
     .title = ابحث في الوِب
 # Variables
@@ -20,16 +19,17 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = ‫ابحث مستعملًا { $engine } أو أدخِل عنوانا
 about-private-browsing-handoff-text-no-engine = ابحث أو أدخِل عنوانا
 about-private-browsing-not-private = لستَ حاليا في نافذة خاصة.
-about-private-browsing-info-description = يمسح { -brand-short-name } تأريخ البحث والتصفح لديك عندما تُنهي التطبيق أو تُغلق كل الألسنة والنوافذ بوضع التصفح الخاص. على الرغم من أن هذا لا يجعلك مجهول الهوية إلى المواقع أو مقدّم خدمة الإنترنت لديك، إلا أنه يسهّل عليك إخفاء ما تفعله في الشبكة على أي شخص آخر يستخدم هذا الحاسوب.
-about-private-browsing-need-more-privacy = هل ترغب برفع مستوى الخصوصية؟
-about-private-browsing-turn-on-vpn = جرّب { -mozilla-vpn-brand-name }
 about-private-browsing-info-description-private-window = نافذة خاصة: يمسح { -brand-short-name } تأريخ البحث والتصفح عند إغلاق جميع النوافذ الخاصة. هذا لا يجعلك مجهول الهوية.
 about-private-browsing-info-description-simplified = يمسح { -brand-short-name } تأريخ البحث والتصفح عند إغلاق جميع النوافذ الخاصة، ولكن هذا لا يجعلك مجهول الهوية.
 about-private-browsing-learn-more-link = اطّلع على المزيد
+
 about-private-browsing-hide-activity = أخفِ نشاطك وموقعك أينما ذهبت
 about-private-browsing-get-privacy = احمِ خصوصيتك أينما تصفّحت
 about-private-browsing-hide-activity-1 = أخفِ نشاط التصفح ومكانك باستعمال { -mozilla-vpn-brand-name }. يمكنك بنقرة واحدة إنشاء اتصال آمن، حتى على الشبكات اللاسلكية العمومية.
 about-private-browsing-prominent-cta = احفظ خصوصيتك دومًا عبر { -mozilla-vpn-brand-name }
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -42,3 +42,4 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = أغلِق
+

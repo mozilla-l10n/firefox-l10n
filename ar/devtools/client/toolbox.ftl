@@ -15,11 +15,14 @@ toolbox-meatball-menu-dock-bottom-label = ارصفها بالأسفل
 toolbox-meatball-menu-dock-left-label = ارصفها إلى اليسار
 toolbox-meatball-menu-dock-right-label = ارصفها إلى اليمين
 toolbox-meatball-menu-dock-separate-window-label = نافذة منفصلة
+
 toolbox-meatball-menu-splitconsole-label = اعرض المِعراض مقسومًا
 toolbox-meatball-menu-hideconsole-label = أخفِ المِعراض مقسومًا
+
 toolbox-meatball-menu-settings-label = الإعدادات
 toolbox-meatball-menu-documentation-label = التوثيق…
 toolbox-meatball-menu-community-label = المجتمع…
+
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.

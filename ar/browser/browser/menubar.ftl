@@ -38,16 +38,11 @@ menu-quit =
             [windows] خ
            *[other] غ
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = أغلق { -brand-shorter-name }
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = أغلق { -brand-shorter-name }
+
 menu-about =
     .label = عن { -brand-shorter-name }
     .accesskey = ع
@@ -77,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = افتح ملفًا…
     .accesskey = ف
-menu-file-close =
-    .label = أغلق
-    .accesskey = غ
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 menu-file-close-tab =
@@ -109,9 +101,6 @@ menu-file-share-url =
 menu-file-print-setup =
     .label = إعداد الصفحة…
     .accesskey = ع
-menu-file-print-preview =
-    .label = معاينة الطباعة
-    .accesskey = ط
 menu-file-print =
     .label = اطبع…
     .accesskey = ط
@@ -324,9 +313,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = ط
 menu-help-report-site-issue =
     .label = أبلغ عن مشكلة بالموقع…
-menu-help-feedback-page =
-    .label = أرسِل تعليقًا…
-    .accesskey = ر
 menu-help-enter-troubleshoot-mode2 =
     .label = وضع مواجهة الأعطال
     .accesskey = ه

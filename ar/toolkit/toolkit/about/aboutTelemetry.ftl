@@ -30,7 +30,6 @@ about-telemetry-events-section = الأحداث
 about-telemetry-simple-measurements-section = قياسات بسيطة
 about-telemetry-slow-sql-section = إفادات SQL بطيئة
 about-telemetry-addon-details-section = تفاصيل الإضافة
-about-telemetry-captured-stacks-section = المكدسات المُلتقطة
 about-telemetry-late-writes-section = كتابات متأخرّة
 about-telemetry-raw-payload-section = الحمولة الخام
 about-telemetry-raw = JSON خام
@@ -106,10 +105,6 @@ about-telemetry-addon-provider = مزوّد { $addonProvider }
 about-telemetry-keys-header = خاصية
 about-telemetry-names-header = الاسم
 about-telemetry-values-header = القيمة
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = ‏{ $stackKey } (عدد الالتقاطات: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = كتابة متأخرة #{ $lateWriteCount }

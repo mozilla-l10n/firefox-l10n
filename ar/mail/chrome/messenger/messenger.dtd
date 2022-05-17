@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "ذ">
 <!ENTITY newVirtualFolderCmd.label "بحث محفوظ…">
 <!ENTITY newVirtualFolderCmd.accesskey "ح">
-<!ENTITY newOtherAccountsCmd.label "حسابات أخرى…">
-<!ENTITY newOtherAccountsCmd.accesskey "خ">
 <!ENTITY newCreateEmailAccountCmd.label "احصل على حساب بريد جديد…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "س">
 <!ENTITY newExistingEmailAccountCmd.label "حساب بريد موجود…">
@@ -46,8 +44,6 @@
 <!ENTITY openMessageFileCmd.accesskey "ف">
 <!ENTITY saveAsMenu.label "احفظ باسم">
 <!ENTITY saveAsMenu.accesskey "ظ">
-<!ENTITY saveAsFileCmd.label "ملف">
-<!ENTITY saveAsFileCmd.accesskey "م">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "قالب">
 <!ENTITY saveAsTemplateCmd.accesskey "ق">

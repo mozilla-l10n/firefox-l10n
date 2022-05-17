@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "د">
 <!ENTITY SecondEmail.label              "البريد الإضافي:">
 <!ENTITY SecondEmail.accesskey          "ف">
-<!ENTITY PreferMailFormat.label         "يفضل استقبال الرسائل المنسقة ك‍:">
-<!ENTITY PreferMailFormat.accesskey     "س">
 <!ENTITY PlainText.label                "نص صِرْف">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "مجهول">
