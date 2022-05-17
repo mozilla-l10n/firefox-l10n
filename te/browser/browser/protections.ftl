@@ -39,13 +39,7 @@ protections-close-button2 =
     .title = మూసివేయి
   
 lockwise-title = ఇంకెప్పుడూ సంకేతపదాలను మర్చిపోకండి
-lockwise-title-logged-in2 = సంకేతపదాల నిర్వాహణ
-protection-report-save-passwords-button = సంతేతపదాలను భద్రపరుచు
-    .title = { -lockwise-brand-short-name }లో సంకేతపదాలను భద్రపరుచు
-protection-report-manage-passwords-button = సంకేతపదాలను నిర్వహించుకోండి
-    .title = { -lockwise-brand-short-name }‌లో సంకేతపదాలను నిర్వహించుకోండి
-lockwise-mobile-app-title = మీ సంకేతపదాలను ఎక్కడికైనా తీసుకెళ్ళండి
-lockwise-no-logins-card-content = { -brand-short-name }లో భద్రపరచిన సంకేతపదాలను ఏ పరికరంలోనైనా వాడుకోండి.
+
 
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.

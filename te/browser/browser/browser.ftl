@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (అంతరంగిక విహారణ)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (అంతరంగిక విహారణ)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (అంతరంగిక విహారణ)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (అంతరంగిక విహారణ)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -141,10 +143,12 @@ urlbar-midi-blocked =
     .tooltiptext = MIDI సౌలభ్యాన్ని పొందకుండా ఈ వెబ్‌సైటుని మీరు నిరోధించారు.
 urlbar-install-blocked =
     .tooltiptext = ఈ వెబ్‌సైటు పొడగింతలను స్థాపించకుండా మీరు నిరోధించి ఉన్నారు.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ఈ ఇష్టాంశమును సవరించు ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -171,8 +175,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = ఈ సారి దీనితో వెతుకు:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = వెతుకుడు అమరికలను మార్చుకోండి
+
 search-one-offs-context-open-new-tab =
     .label = కొత్త ట్యాబులో వెతుకు
     .accesskey = T
@@ -182,12 +188,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = అంతరంగిక కిటికీల కోసం అప్రమేయ శోధనయంత్రంగా అమర్చు
     .accesskey = P
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -236,6 +244,7 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button =
     .label = భద్రపరుచు
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -263,6 +272,7 @@ identity-passive-loaded = ఈ పేజీలోని కొన్ని భా
 identity-active-loaded = ఈ పేజీకి రక్షణను మీరు అచేతనం చేసారు.
 identity-weak-encryption = ఈ పేజీ బలహీనమైన ఎన్‌క్రిప్షన్ వాడుతోంది.
 identity-insecure-login-forms = ఈ పేజీలో మీరు ఇచ్చే లాగిన్లు రాజీపడవచ్చు.
+
 identity-https-only-connection-upgraded = (HTTPSకి ఉన్నతీకరించబడింది)
 identity-https-only-label = HTTPS-మాత్రమే రీతి
 identity-https-only-dropdown-on =
@@ -272,9 +282,11 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = తాత్కాలికంగా అచేతనం
 identity-https-only-info-no-upgrade = అనుసంధానాన్ని HTTP నుండి ఉన్నతించలేకున్నాం.
+
 identity-permissions-storage-access-header = క్రాస్-సైటు కుకీలు
 identity-permissions-storage-access-hint = మీరు ఈ సైటులో ఉన్నప్పుడు ఈ పార్టీలు క్రాస్-సైటు కుకీలను, సైట్ డేటాను ఉపయోగించవచ్చు.
 identity-permissions-storage-access-learn-more = ఇంకా తెలుసుకోండి
+
 identity-permissions-reload-hint = మార్పులు ప్రతిఫలించడానికి మీరు ఈ పేజీని మళ్ళీ లోడు చెయ్యాల్సిరావచ్చు.
 identity-clear-site-data =
     .label = కుకీలను, సైటు డేటాను తుడిచివేయి…
@@ -358,12 +370,15 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = స్పీకర్లు
 popup-all-windows-shared = మీ తెర మీద కనిపించే అన్ని విండోలు పంచుకోబడతాయి.
+
 popup-screen-sharing-block =
     .label = నిరోధించు
     .accesskey = B
+
 popup-screen-sharing-always-block =
     .label = ఎల్లప్పుడూ నిరోధించు
     .accesskey = w
+
 popup-mute-notifications-checkbox = పంచుకుంటున్నప్పుడు వెబ్‌సైటు గమనింపులను మౌనించు
 
 ## WebRTC window or screen share tab switch warning
@@ -385,6 +400,7 @@ enable-devtools-popup-description = F12 సత్వరమార్గాన్�
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = వెతకండి లేదా చిరునామాను ఇవ్వండి
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -393,6 +409,7 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = జాలంలో వెతకండి
     .aria-label = { $name }తో జాలంలో వెతకండి
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -401,22 +418,27 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = వెతుకుడు పదాలను ఇవ్వండి
     .aria-label = { $name }‌లో వెతకండి
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = వెతుకుడు పదాలను ఇవ్వండి
     .aria-label = ఇష్టాంశాలలో వెతకండి
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = వెతుకుడు పదాలను ఇవ్వండి
     .aria-label = చరిత్రలో వెతకండి
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = వెతుకుడు పదాలను ఇవ్వండి
     .aria-label = ట్యాబులలో వెతకండి
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name }‌తో వెతకండి లేదా చిరునామాను ఇవ్వండి
+
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -426,9 +448,11 @@ urlbar-permissions-granted =
     .tooltiptext = ఈ వెబ్‌సైటుకి మీరు అదనపు అనుమతులు ఇచ్చివున్నారు.
 urlbar-switch-to-tab =
     .value = ట్యాబుకు మారు:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = పొడిగింత:
+
 urlbar-go-button =
     .tooltiptext = ప్రాంతపు పట్టీలో ఉన్న చిరునామాకి వెళ్ళండి
 urlbar-page-action-button =
@@ -469,6 +493,7 @@ urlbar-result-action-search-tabs = ట్యాబులలో వెతకం�
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
@@ -483,9 +508,12 @@ urlbar-group-search-suggestions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ఇప్పుడు నిండు తెరలో ఉంది
 fullscreen-warning-no-domain = ఈ పత్రం ఇప్పుడు నిండు తెరలో ఉంది
+
+
 fullscreen-exit-button = నిండు తెరను వదలివెళ్ళు (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = నిండు తెరను వదలివెళ్ళు (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -537,6 +565,7 @@ bookmarks-tools =
     .label = ఇష్టాంశాల పనిముట్లు
 bookmarks-bookmark-edit-panel =
     .label = ఈ ఇష్టాంశాన్ని సరిదిద్దు
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -581,28 +610,30 @@ toolbar-settings-button =
 
 ## More items
 
-more-menu-go-offline =
-    .label = ఆఫ్‌లైన్‌లో పనిచేయి
-    .accesskey = k
 toolbar-overflow-customize-button =
     .label = పనిముట్లపట్టీని మలుచుకోండి…
     .accesskey = C
+
 toolbar-button-email-link =
     .label = లింకును ఈమెయిలు చేయి
     .tooltiptext = ఈ పేజీకి లింకును ఈమెయిలు చేయి
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = పేజీని భద్రపరచు
     .tooltiptext = ఈ పేజీని భద్రపరచు ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = ఫైలుని తెరువు
     .tooltiptext = ఒక ఫైలుని తెరువు ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = సింకైన ట్యాబులు
     .tooltiptext = ఇతర పరికరాల లోని ట్యాబులను చూపించు
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -630,10 +661,6 @@ addon-removal-title = { $name }‌ను తీసివేయారా?
 
 ## Remote / Synced tabs
 
-remote-tabs-manage-account =
-    .label = ఖాతా నిర్వహణ
-remote-tabs-sync-now = ఇప్పుడే సింక్ చేయి
-
 ##
 
 # "More" item in macOS share menu
@@ -648,6 +675,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } కొరకు పాప్-అప్‌లను అనుమతించు
     .accesskey = p
+
 popups-infobar-block =
     .label = { $uriHost } కొరకు పాప్-అప్‌లను నిరోధించు
     .accesskey = p
@@ -669,30 +697,39 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = దింపుకోళ్ళు
+
 navbar-overflow =
     .tooltiptext = మరిన్ని పనిముట్లు…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = ముద్రించు
     .tooltiptext = ఈ పేజీని ముద్రించు… ({ $shortcut })
+
 navbar-home =
     .label = ముంగిలి
     .tooltiptext = { -brand-short-name } ముంగిలి పేజీ
+
 navbar-library =
     .label = లైబ్రరీ
     .tooltiptext = చరిత్ర, భద్రపరచిన ఇష్టాంశాలు, ఇంకా మరెన్నో చూడండి
+
 navbar-search =
     .title = వెతకడం
+
 navbar-accessibility-indicator =
     .tooltiptext = ప్రాప్యత లక్షణాలు చేతనమైవున్నాయి
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = విహారిణి ట్యాబులు
+
 tabs-toolbar-new-tab =
     .label = కొత్త ట్యాబు
+
 tabs-toolbar-list-all-tabs =
     .label = అన్ని ట్యాబుల జాబితా చూపించు
     .tooltiptext = అన్ని ట్యాబుల జాబితా చూపించు

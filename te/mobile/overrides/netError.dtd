@@ -136,9 +136,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "<p>మీరు పూర్తిగా నమ్మని అంతర్జాలము  అనుసంధానంను ఉపయోగిస్తున్నా లేదా ఈ సేవికగురించి హెచ్చరికను చూడకపోయినా మీరు ఆక్షేపనను జతచేయకూడదు.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "రిమోట్ XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>ఈ సమస్య గురించి వారికి తెలుపుటకు దయచేసి వెబ్‌సైట్ స్వంతదారులను సంప్రదించండి.</li></ul></p>">
-
 <!ENTITY sslv3Used.title "సురక్షితంగా అనుసంధానం కాలేదు">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->

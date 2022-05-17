@@ -18,12 +18,14 @@ videocontrols-casting-button-label =
     .aria-label = తెరకు ప్రసారంచేయి
 videocontrols-closed-caption-off =
     .offlabel = ఆఫ్
+
 videocontrols-error-aborted = వీడియో లోడవడం ఆగిపోయింది.
 videocontrols-error-network = వీడియో ప్లేబ్యాక్ నెట్వర్క్ లోపం కారణంగా విరమించబడెను.
 videocontrols-error-decode = ఫైలు పాడైన కారణంగా వీడియో ప్లే కాబడలేదు.
 videocontrols-error-src-not-supported = వీడియో ఫార్మాట్ లేదా MIME రకముకు తోడ్పాటు లేదు.
 videocontrols-error-no-source = తోడ్పాటు నిచ్చు ఫార్మాట్ లేదా MIME రకముతో యే వీడియో కనబడలేదు.
 videocontrols-error-generic = ఒక తెలియని తప్పిదం వల్ల వీడియో ప్లేబాక్ నిలిచిపోయింది.
+
 # This message shows the current position and total video duration
 #
 # Variables:

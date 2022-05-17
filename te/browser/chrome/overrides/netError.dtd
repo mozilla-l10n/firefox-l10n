@@ -130,8 +130,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "హానికరమైన సైట్లను గుర్తించి నిరోధించడంలో సహాయపడేందుకు ఇలాంటి తప్పిదాలను Mozillaకు నివేదించండి">
 <!ENTITY errorReporting.learnMore "ఇంకా తెలుసుకోండి…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>దయజేసి వెబ్‌సైటు యజమాలను సంప్రదించి ఈ సమస్యను వారికి తెలియజేయండి.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "ఉన్నత సమాచారం: SSL_ERROR_UNSUPPORTED_VERSION">

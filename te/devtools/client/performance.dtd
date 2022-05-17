@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "ఎన్నిసార్లు ఈ ఫంక్షన్ ప్రొఫైలర్ ఒక నమూనా పట్టింనప్పుడు స్టాక్ లో ఉంది.">
 <!ENTITY performanceUI.table.function                 "ఫంక్షన్">
 <!ENTITY performanceUI.table.function.tooltip         "సాంపుల్ ఫంక్షన్ యొక్క పేరు మరియు సోర్స్ స్థలం.">
-<!ENTITY performanceUI.table.totalAlloc               "మొత్తం నమూనాలు అలాకేషన్స్">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "ఈ స్థానంలో నమూనాల ఆబ్జెక్ట్ కేటాయింపులు మరియు కాళాస్ లో మొత్తం సంఖ్య.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

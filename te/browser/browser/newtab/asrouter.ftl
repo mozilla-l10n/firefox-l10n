@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = సిఫార్సు చేసిన సౌ
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ఇది నేను ఎందుకు చూస్తున్నాను
+
 cfr-doorhanger-extension-cancel-button = ఇప్పుడు వద్దు
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = ఇప్పుడే చేర్చు
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = సిఫారసు అమరికలను నిర్వహించండి
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = ఈ సిఫార్సును నాకు చూపించవద్దు
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = ఇంకా తెలుసుకోండి
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } నుండి
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = సిఫార్సు
 cfr-doorhanger-extension-notification2 = సిఫార్సు
     .tooltiptext = పొడగింత సిఫార్సు
     .a11y-announcement = పొడగింత సిఫార్సు అందుబాటులో ఉంది
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = సిఫార్సు
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = ఇంకా తెలుసుకోండి
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = కొత్త విశేషం:
+
 cfr-whatsnew-button =
     .label = కొత్తవి ఏమిటి
     .tooltiptext = కొత్తవి ఏమిటి
+
 cfr-whatsnew-release-notes-link-text = విడుదల గమనికలను చదవండి
 
 ## Enhanced Tracking Protection Milestones

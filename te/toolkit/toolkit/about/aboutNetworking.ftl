@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = క్రియాశీలం
 about-networking-idle = ఊరకవున్న
 about-networking-host = అతిధేయ
-about-networking-tcp = TCP
 about-networking-sent = పంపిన
 about-networking-received = స్వీకరించిన
 about-networking-family = కుటుంబం

@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] { -brand-short-name } యొక్క ఎంపికలలో అమర్పులను మార్చగలము.
            *[other] { -brand-short-name } యొక్క అభీష్టాలలో అమర్పులను మార్చగలము.
         }
+
 unknowncontenttype-intro = మీరు తెరవాలనుకుంటున్నది:
 unknowncontenttype-which-is = రకం:
 unknowncontenttype-from = మూలం:
