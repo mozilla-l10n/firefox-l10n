@@ -31,7 +31,6 @@ redirectLoop-title = The page isn’t redirecting properly
 unknownSocketType-title = Unexpected response from server
 nssFailure2-title = བདེ་འཇགས་ཀྱི་སྦྲེལ་མཐུད་བྱས་མ་ཐུབ
 corruptedContentError-title = Corrupted Content Error
-remoteXUL-title = Remote XUL
 sslv3Used-title = Unable to Connect Securely
 inadequateSecurityError-title = Your connection is not secure
 blockedByPolicy-title = Blocked Page

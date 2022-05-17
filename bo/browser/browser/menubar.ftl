@@ -39,15 +39,6 @@ menu-quit =
 menu-quit-mac =
     .label = { -brand-shorter-name }་སྒོ་རྒྱག
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = { -brand-shorter-name }་ནས་ཕྱིར་ཐོན
-
 menu-about =
     .label = { -brand-shorter-name }་ཡི་སྐོར
     .accesskey = A
@@ -77,9 +68,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = ཡིག་ཆ་ཁ་ཕྱེ…
     .accesskey = O
-menu-file-close =
-    .label = ཁ་རྒྱག
-    .accesskey = C
 menu-file-close-window =
     .label = འཆར་སྒྲོམ་ཁ་རྒྱག
     .accesskey = d
@@ -92,9 +80,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = དྲ་ངོས་ཀྱི་སྒྲིག་སྟངས…
     .accesskey = u
-menu-file-print-preview =
-    .label = པར་འདེབས་སྔོན་ལྟ
-    .accesskey = v
 menu-file-print =
     .label = པར་འདེབས་པ…
     .accesskey = P
@@ -262,6 +247,3 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = རོགས་འདེགས
     .accesskey = H
-menu-help-feedback-page =
-    .label = Submit Feedback…
-    .accesskey = S

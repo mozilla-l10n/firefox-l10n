@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] { -brand-short-name }་ཡི་གདམ་ཚན་ནང་དུ་སྒྲིག་འཛུགས་བརྗེས་ཆོག
            *[other] { -brand-short-name }་ཡི་སྒྲིག་འགོད་ནང་དུ་སྒྲིག་འཛུགས་བརྗེས་ཆོག
         }
+
 unknowncontenttype-intro = You have chosen to open:
 unknowncontenttype-which-is = which is:
 unknowncontenttype-from = from:
