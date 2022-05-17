@@ -10,13 +10,6 @@
 <!-- Entities for Account Type page -->
 
 
-<!ENTITY accountTypeTitle.label "নতুন অ্যাকাউন্ট সেটআপ">
-<!ENTITY accountTypeDirections.label "আপনি যে ধরনের অ্যাকাউন্ট সেটআপ করতে চান তা নির্বাচন করুন:">
-<!ENTITY accountTypeMail.label "ইমেইল অ্যাকাউন্ট (m)">
-<!ENTITY accountTypeMail.accesskey "m">
-<!ENTITY accountTypeNews.label "নিউজগ্রুপ অ্যাকাউন্ট (w)">
-<!ENTITY accountTypeNews.accesskey "w">
-
 <!-- Entities for Identity page -->
 
 
@@ -40,13 +33,6 @@
 
 <!-- Entities for Incoming Server page -->
 
-<!ENTITY incomingServerTypeDesc.label "আপনি যে ধরনের আগত সার্ভার ব্যবহার করছেন তা নির্বাচন করুন।">
-<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
-<!ENTITY imapType.label "IMAP (I)">
-<!ENTITY imapType.accesskey "I">
-<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
-<!ENTITY popType.label "POP (P)">
-<!ENTITY popType.accesskey "P">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
@@ -59,20 +45,8 @@
 
 <!-- Entities for Outgoing Server page -->
 
-<!ENTITY haveSmtp1.prefix "আপনার বর্তমান বহির্গামী সার্ভার (SMTP), &quot;">
 <!-- Entities for Login page -->
 
-
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
--->
-<!ENTITY haveSmtp2.prefix "আপনার বর্তমান বহির্গামী (SMTP) ব্যবহারকারী নাম, &quot;">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
--->
-<!ENTITY haveSmtp3.prefix "আপনার বহির্গামী (SMTP) সার্ভার, &quot;">
 
 <!-- Entities for Account name page -->
 
@@ -88,14 +62,6 @@
 
 <!ENTITY completionTitle.label "অভিনন্দন!">
 <!ENTITY completionText.label "অনুগ্রহ করে নিম্নের তথ্য সঠিক কিনা যাচাই করুন।">
-<!ENTITY serverTypePrefix.label "আগত সার্ভারের ধরন:">
-<!ENTITY serverNamePrefix.label "আগত সার্ভারের নাম:">
-<!ENTITY smtpServerNamePrefix.label "বহির্গামী সার্ভারের নাম (SMTP):">
 <!ENTITY newsServerNamePrefix.label "নিউজ সার্ভারের নাম (NNTP):">
-<!ENTITY downloadOnLogin.label "বার্তা এখন ডাউনলোড করা হবে (D)">
-<!ENTITY downloadOnLogin.accesskey "D">
-<!ENTITY deferStorageDesc.label "এই অ্যাকাউন্টের নিজস্ব ডিরেক্টরিতে মেইল সংরক্ষণ করার জন্য এই চেকবাক্স থেকে টিক উঠিয়ে দিন। এর ফলে এই অ্যাকাউন্টটিকে একটি উচ্চ-স্তরের অ্যাকাউন্ট হিসেবে দেখা যাবে। অন্যথায়, এটি সার্বজনীন ইনবক্স অ্যাকাউন্টের স্থানীয় ফোল্ডারের একটি অংশ হয়ে যাবে।">
-<!ENTITY deferStorage.label "সার্বজনীন ইনবক্স ব্যবহার (স্থানীয় ফোল্ডারে মেইল সংরক্ষণ করা হবে) (G)">
-<!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "এই সেটিংগুলো সংরক্ষণ করতে এবং অ্যাকাউন্ট উইজার্ড থেকে বেরিয়ে যেতে 'সমাপ্ত' ক্লিক করুন।">
 <!ENTITY clickFinish.labelMac "এই সেটিংগুলো সংরক্ষণ করতে এবং অ্যাকাউন্ট উইজার্ড থেকে বেরিয়ে যেতে 'সম্পন্ন' ক্লিক করুন।">

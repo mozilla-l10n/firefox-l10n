@@ -12,8 +12,6 @@
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "মেইল অ্যাকাউন্ট যোগ… (A)">
 <!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addOtherAccountButton.label "অন্যান্য অ্যাকাউন্ট যোগ… (O)">
-<!ENTITY addOtherAccountButton.accesskey "O">
 <!ENTITY setDefaultButton.label "ডিফল্ট হিসেবে নির্ধারণ (D)">
 <!ENTITY setDefaultButton.accesskey "D">
 <!ENTITY removeButton.label "অ্যাকাউন্ট অপসারণ (R)">
@@ -30,6 +28,4 @@
      this window for en-US. -->
 
 <!-- AccountManager.xhtml -->
-<!-- AccountManager.xhtml -->
-<!ENTITY accountManager.size "width: 110ch; height: 52em;">
-<!ENTITY accountTree.width "width: 31ch;">
+

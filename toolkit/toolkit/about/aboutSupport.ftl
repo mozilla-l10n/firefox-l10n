@@ -63,6 +63,7 @@ app-basics-location-service-key-google = Google অবস্থান পরি�
 app-basics-safebrowsing-key-google = Google নিরাপদ ব্রাউজিং কী
 app-basics-key-mozilla = Mozilla লোকেশন সার্ভিস Key
 app-basics-safe-mode = সেফ মোড
+
 show-dir-label =
     { PLATFORM() ->
         [macos] ফাইন্ডারে প্রদর্শন

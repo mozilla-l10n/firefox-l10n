@@ -157,14 +157,6 @@ bigger-size-item =
 smaller-size-item =
     .label = অপেক্ষাকৃত ছোট
 
-type-column-label =
-    .label = বিষয়বস্তুর ধরন (T)
-    .accesskey = T
-
-action-column-label =
-    .label = কাজ (A)
-    .accesskey = A
-
 save-to-label =
     .label = এখানে ফাইল সংরক্ষণ করা হবে (S)
     .accesskey = S
@@ -259,12 +251,6 @@ bg-color-label =
 restore-html-label =
     .label = ডিফল্ট মান পুনঃনির্ধারণ (R)
     .accesskey = R
-
-format-description = লেখা বিন্যাসের বৈশিষ্ট্য কনফিগার করুন
-
-send-options-label =
-    .label = প্রেরণ অপশন... (S)
-    .accesskey = S
 
 autocomplete-description = বার্তার ঠিকানা দেয়ার সময়, যেখানে মিল খোঁজা হবে:
 
@@ -367,4 +353,6 @@ certificate-ask =
 
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 
