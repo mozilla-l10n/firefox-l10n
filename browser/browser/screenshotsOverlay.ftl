@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Hætta við
 screenshots-overlay-instructions = Dragðu eða smelltu á síðuna til að velja svæði. Ýttu á ESC til að hætta við.
+screenshots-overlay-download-button = Sækja
+screenshots-overlay-copy-button = Afrita
