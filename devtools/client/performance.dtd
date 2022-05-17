@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Licba razow, gaž toś ta funkcija jo w štapjelu była, gaž analyza běžnego casa jo pśepśimanje wzeła.">
 <!ENTITY performanceUI.table.function                 "Funkcija">
 <!ENTITY performanceUI.table.function.tooltip         "Mě a žrědłowa adresa pśepśimaneje funkcije.">
-<!ENTITY performanceUI.table.totalAlloc               "Wótsmasane alokacije dogromady">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Cełkowna licba objektowych alokacijow, kótarež su se na toś tom městnje a we wołanych funkcijach wótsmasali.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

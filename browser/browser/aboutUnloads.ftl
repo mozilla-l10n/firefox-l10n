@@ -7,20 +7,6 @@
 ### feature.
 
 about-unloads-page-title = Rejtarik wuwólniś
-about-unloads-intro-1 =
-    { -brand-short-name } ma funkciju, kótaraž rejtariki awtomatiski wuwólnjuju,
-    aby tomu zajźowała, až seš nałoženje njedosegajuceho składa dla wowalujo,
-    gaž skład, kótaryž jo systemoju k dispoziciji, jo niski. Pśiducy rejtarik, kótaryž ma se
-    wuwólniś, se na zakłaźe někotarych atributow wuběra. Toś ten bok pokazujo, kak
-    { -brand-short-name } prioritu rejtarikow staja a kótary rejtarik se wuwólnijo,
-    gaž se wuwólnjenje rejtarika zapušćijo.
-about-unloads-intro-2 =
-    Eksistěrujuce rejtariki se w tabeli dołojce w tom samskem pórěźe pokazuju, kótaryž
-    { -brand-short-name } wužywa, aby pśiducy rejtarik wuwólnił. Procesowe ID se
-    <strong>tucnje</strong> pokazuju, gaž nejwušy wobceŕk góspóduju
-    a <em>kursiwnje</em>, gaž proces se mjazy rozdźělnymi rejtarikami źěli.
-    Móžośo rejtarik manuelnje zapušćiś, gaž na tłocašk <em>Wuwólniś</em>
-    dołojce klikaśo.
 about-unloads-intro =
     { -brand-short-name } ma funkciju, kótaraž rejtariki awtomatiski wuwólnjuju,
     aby tomu zajźowała, až seš nałoženje njedosegajuceho składa dla wowalujo,
@@ -29,13 +15,16 @@ about-unloads-intro =
     { -brand-short-name } prioritu rejtarikow staja a kótary rejtarik se wuwólnijo,
     gaž se wuwólnjenje rejtarika zapušćijo. Móžośo wuwólnjenje rejtarika manuelnje zapušćiś,
     gaž na tłocašk <em>Wuwólniś</em> dołojce klikaśo.
+
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more = Glejśo <a data-l10n-name="doc-link">wuwólnjenje rejtarikow</a>, aby wěcej wó toś tej funkciji a toś tom boku zgónił.
+
 about-unloads-last-updated = Slědna aktualizacija: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Wuwólniś
     .title = Rejtarik z nejwušeju prioritu wuwólniś
 about-unloads-no-unloadable-tab = Njedaju wuwólnjujobne rejtariki.
+
 about-unloads-column-priority = Priorita
 about-unloads-column-host = Host
 about-unloads-column-last-accessed = Slědny pśistup
@@ -47,6 +36,7 @@ about-unloads-column-memory = Skład
     .title = Wótšacowane wužyśe rejtarika
 about-unloads-column-processes = Procesowe ID
     .title = ID procesow, kótarež wopśimjeśe rejtarika góspóduju
+
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =

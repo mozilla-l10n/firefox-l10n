@@ -82,9 +82,6 @@
 <!ENTITY corruptedContentErrorv2.title "Zmólka - wobškóźone wopśimjeśe">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Bok, kótaryž cośo se woglědaś, njedajo se pokazaś, dokulaž jo se zmólka pśi pśenosowanju datow namakała.</p><ul><li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.</li></ul>">
 
-<!ENTITY remoteXUL.title "Daloki XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó problemje informěrował.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Waš zwisk njejo wěsty">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

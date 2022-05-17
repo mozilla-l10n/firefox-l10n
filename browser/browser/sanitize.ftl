@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Daty
 
-item-site-preferences =
-    .label = Sedłowe nastajenja
-    .accesskey = S
-
 item-site-settings =
     .label = Sedłowe nastajenja
     .accesskey = S

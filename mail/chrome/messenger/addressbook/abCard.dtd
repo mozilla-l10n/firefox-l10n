@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Pśidatna e-mailowa adresa:">
 <!ENTITY SecondEmail.accesskey          "i">
-<!ENTITY PreferMailFormat.label         "Ma lubjej powěsći we formaśe:">
-<!ENTITY PreferMailFormat.accesskey     "l">
 <!ENTITY PlainText.label                "Lutny tekst">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Njeznaty">
