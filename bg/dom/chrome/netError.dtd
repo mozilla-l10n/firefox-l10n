@@ -117,9 +117,6 @@
 <!ENTITY corruptedContentErrorv2.title "Грешка поради развалено съдържание">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Страницата не може да бъде показана поради грешка при прехвърляне на данните.</p><ul><li>Моля, уведомете собствениците на страницата за проблема.</li></ul>">
 
-<!ENTITY remoteXUL.title "Отдалечен XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Моля, уведомете собствениците на страницата за проблема.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Връзката е незащитена">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

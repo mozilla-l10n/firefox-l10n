@@ -12,8 +12,3 @@ experimental-features-css-masonry2 =
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-avif =
-    .label = Медия: AVIF
-

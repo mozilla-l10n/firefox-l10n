@@ -5,23 +5,21 @@
 
 ## App Menu
 
-appmenuitem-update-banner3 =
-    .label-update-downloading = Изтегляне на ново издание на { -brand-shorter-name }
-    .label-update-available = Налично е издание – изтеглете
-    .label-update-manual = Налично е издание – изтеглете
-    .label-update-unsupported = Налично е издание – несъвместима система
-    .label-update-restart = Налично е издание – рестартирайте
-appmenuitem-protection-dashboard-title = Табло със защити
 appmenuitem-banner-update-downloading =
     .label = Изтегляне на ново издание на { -brand-shorter-name }
+
 appmenuitem-banner-update-available =
     .label = Налично е издание – изтеглете
+
 appmenuitem-banner-update-manual =
     .label = Налично е издание – изтеглете
+
 appmenuitem-banner-update-unsupported =
     .label = Налично е издание – несъвместима система
+
 appmenuitem-banner-update-restart =
     .label = Налично е издание – рестартирайте
+
 appmenuitem-new-tab =
     .label = Нов раздел
 appmenuitem-new-window =
@@ -58,6 +56,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Затваря менюто на приложението
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -78,23 +77,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Вписване в Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Включване на Sync…
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Показване на повече раздели
     .tooltiptext = Повече раздели от други устройства
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Няма отворени раздели
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Включете синхронизирането на раздели, за да видите списък с раздели от други ваши устройства.
+
 appmenu-remote-tabs-opensettings =
     .label = Настройки
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Искате ли да видите свои раздели от други устройства тук?
+
 appmenu-remote-tabs-connectdevice =
     .label = Добавяне на устройство
 appmenu-remote-tabs-welcome = Вижте списък с разделите от другите ваши устройства.
 appmenu-remote-tabs-unverified = Профилът ви трябва да бъде потвърден.
+
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизиране
 appmenuitem-fxa-sign-in = Вписване в { -brand-product-name }
 appmenuitem-fxa-manage-account = Управление на профил
@@ -108,13 +114,14 @@ appmenu-fxa-sync-and-save-data2 = Синхронизиране и запазва
 appmenu-fxa-signed-in-label = Вход
 appmenu-fxa-setup-sync =
     .label = Включване синхронизиране
-appmenu-fxa-show-more-tabs = Показване на повече раздели
+
 appmenuitem-save-page =
     .label = Запазване като…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Какво е новото
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -128,40 +135,45 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Профилиране
     .tooltiptext = Написване на профил на производителността
+
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Показване на повече информация
+
 profiler-popup-description-title =
     .value = Записвайте, анализирайте, споделяйте
+
 profiler-popup-description = Сътрудничете си по проблеми с производителността, като публикувате профили, които да споделяте с екипа си.
-profiler-popup-learn-more = Научете повече
+
 profiler-popup-learn-more-button =
     .label = Научете повече
+
 profiler-popup-settings =
     .value = Настройки
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings = Промяна на настройки…
-profiler-popup-disabled = В момента профилаторът е изключен, най-вероятно защото има отворен прозорец за поверително разглеждане.
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Промяна на настройки…
+
 profiler-popup-recording-screen = Записване…
-# The profiler presets list is generated elsewhere, but the custom preset is defined
-# here only.
-profiler-popup-presets-custom =
-    .label = По избор
+
 profiler-popup-start-recording-button =
     .label = Начало на запис
+
 profiler-popup-discard-button =
     .label = Отхвърляне
+
 profiler-popup-capture-button =
     .label = Прехващане
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -208,9 +220,6 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = и
 appmenu-help-report-site-issue =
     .label = Докладване на проблем със страницата…
-appmenu-help-feedback-page =
-    .label = Обратна връзка…
-    .accesskey = в
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -236,8 +245,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Настройки на лентата с инструменти…
-appmenu-taskmanager =
-    .label = Диспечер на задачи
+
 appmenu-developer-tools-subheader = Инструменти за четеца
 appmenu-developer-tools-extensions =
     .label = Разширения за разработчици

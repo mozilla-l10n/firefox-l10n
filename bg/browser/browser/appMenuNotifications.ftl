@@ -37,6 +37,7 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Не сега
     .secondarybuttonaccesskey = Н
 appmenu-update-other-instance-message = Налично е ново издание на { -brand-shorter-name }, но не може да бъде инсталирано, защото друг екземпляр на { -brand-shorter-name } работи. За да продължи обновяването го затворете или изберете обновяване въпреки това (другия екземпляр може да работи с грешки докато не бъде рестартиран).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Добре
     .buttonaccesskey = о
@@ -44,6 +45,7 @@ appmenu-addon-post-install-message3 = Управлявайте разширен�
 appmenu-addon-post-install-incognito-checkbox =
     .label = Позволете на разширението да работи в поверителни прозорци
     .accesskey = з
+
 appmenu-new-tab-controlled-changes =
     .label = Новият раздел е променен
     .buttonlabel = Запазване на промяната

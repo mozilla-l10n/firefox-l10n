@@ -71,16 +71,8 @@ mobile-app-card-content = Използвайте мобилния четец с 
 mobile-app-links = { -brand-product-name } четец за <a data-l10n-name="android-mobile-inline-link">Android</a> и <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 
 lockwise-title = Никога не забравяйте парола отново
-lockwise-title-logged-in2 = Управление на пароли
-lockwise-header-content = { -lockwise-brand-name } сигурно съхранява вашите пароли в четеца.
 lockwise-header-content-logged-in = Сигурно съхранявайте и синхронизирайте паролите си между всичките си устройства.
-protection-report-save-passwords-button = Запазване на пароли
-    .title = Запазване на пароли в { -lockwise-brand-short-name }
-protection-report-manage-passwords-button = Управляване на пароли
-    .title = Управляване на паролите в { -lockwise-brand-short-name }
-lockwise-mobile-app-title = Вземете паролите си навсякъде
-lockwise-no-logins-card-content = Използвайте паролите, запазени в { -brand-short-name } от всяко устройство.
-lockwise-app-links = { -lockwise-brand-name } за <a data-l10n-name="lockwise-android-inline-link">Android</a> и <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+
 
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.

@@ -10,28 +10,10 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                  "Управление на активността">
 
-<!ENTITY cmd.pause.label                  "Пауза">
-<!ENTITY cmd.pause.accesskey              "П">
-<!ENTITY cmd.resume.label                 "Продължаване">
-<!ENTITY cmd.resume.accesskey             "р">
-<!ENTITY cmd.cancel.label                 "Отказ">
-<!ENTITY cmd.cancel.accesskey             "О">
-<!ENTITY cmd.undo.label                   "Отмяна">
-<!ENTITY cmd.undo.accesskey               "т">
-<!ENTITY cmd.recover.label                "Възстановяване">
-<!ENTITY cmd.recover.accesskey            "з">
-<!ENTITY cmd.retry.label                  "Повторен опит">
-<!ENTITY cmd.retry.accesskey              "н">
-<!ENTITY cmd.removeFromList.label         "Премахване от списък">
-<!ENTITY cmd.removeFromList.accesskey     "х">
-
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Изчистване">
 <!ENTITY cmd.clearList.tooltip            "Премахва от списъка завършените, прекъснатите и неуспешните действия">
 <!ENTITY cmd.clearList.accesskey          "ч">
-<!ENTITY cmd.find.commandkey              "f">
-<!ENTITY cmd.search.commandkey            "k">
 
-<!ENTITY searchBox.label                  "Търсене…">

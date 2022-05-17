@@ -16,7 +16,6 @@ about-networking-ssl = SSL
 about-networking-active = Включен
 about-networking-idle = Бездействащ
 about-networking-host = Хост
-about-networking-tcp = TCP
 about-networking-sent = Изпратени
 about-networking-received = Получени
 about-networking-family = Поколение

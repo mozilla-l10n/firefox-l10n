@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "п">
 <!ENTITY newVirtualFolderCmd.label "Запазени търсения…">
 <!ENTITY newVirtualFolderCmd.accesskey "З">
-<!ENTITY newOtherAccountsCmd.label "Други регистрации…">
-<!ENTITY newOtherAccountsCmd.accesskey "Д">
 <!ENTITY newCreateEmailAccountCmd.label "Получаване на нова сметка…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "П">
 <!ENTITY newExistingEmailAccountCmd.label "Съществуваща регистрация…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "О">
 <!ENTITY saveAsMenu.label "Запазване като">
 <!ENTITY saveAsMenu.accesskey "а">
-<!ENTITY saveAsFileCmd.label "Файл">
-<!ENTITY saveAsFileCmd.accesskey "Ф">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Шаблон">
 <!ENTITY saveAsTemplateCmd.accesskey "Ш">

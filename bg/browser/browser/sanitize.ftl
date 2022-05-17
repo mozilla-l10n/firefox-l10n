@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Данни
 
-item-site-preferences =
-    .label = Предпочитания за сайтове
-    .accesskey = с
-
 item-offline-apps =
     .label = Данни за сайтове без мрежа
     .accesskey = м

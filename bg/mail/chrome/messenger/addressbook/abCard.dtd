@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "а">
 <!ENTITY SecondEmail.label              "Допълнителен ел. адрес:">
 <!ENTITY SecondEmail.accesskey          "р">
-<!ENTITY PreferMailFormat.label         "Предпочитан формат на получените писма:">
-<!ENTITY PreferMailFormat.accesskey     "с">
 <!ENTITY PlainText.label                "текст">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "неизвестно">
