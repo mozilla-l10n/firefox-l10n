@@ -45,6 +45,7 @@ protections-panel-protectionsdashboard-label = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱰᱮ�
 ##
 
 protections-panel-description-shim-allowed-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

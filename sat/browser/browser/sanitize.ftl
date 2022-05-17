@@ -16,16 +16,22 @@ sanitize-prefs-style =
 clear-time-duration-prefix =
     .value = ᱚᱠᱛᱚ ᱞᱟᱹᱜᱤᱫ ᱢᱮᱴᱟᱣ ᱯᱟᱥᱱᱟᱣ:{ " " }
     .accesskey = T
+
 clear-time-duration-value-last-hour =
     .label = ᱢᱩᱪᱟᱹᱫ ᱴᱟᱲᱟᱝ
+
 clear-time-duration-value-last-2-hours =
     .label = ᱢᱩᱪᱟᱹᱫ ᱵᱟᱨ ᱴᱟᱲᱟᱝ
+
 clear-time-duration-value-last-4-hours =
     .label = ᱢᱩᱪᱟᱹᱫ ᱯᱩᱱ ᱴᱟᱲᱟᱝ
+
 clear-time-duration-value-today =
     .label = ᱛᱮᱦᱮᱸᱧ
+
 clear-time-duration-value-everything =
     .label = ᱡᱷᱚᱛᱚᱣᱟᱜ
+
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -33,41 +39,51 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = ᱱᱟᱜᱟᱢ
+
 item-history-and-downloads =
     .label = ᱵᱽᱨᱟᱩᱡᱤᱝ ᱟᱨ ᱰᱟᱩᱱᱞᱚᱰ ᱦᱤᱛᱟᱹᱞ
     .accesskey = B
+
 item-cookies =
     .label = ᱠᱩᱠᱤᱡᱽ ᱠᱚ
     .accesskey = C
+
 item-active-logins =
     .label = ᱪᱚᱜᱚᱲ ᱵᱚᱞᱚ ᱠᱚ
     .accesskey = L
+
 item-cache =
     .label = ᱥᱟᱵ
     .accesskey = a
+
 item-form-search-history =
     .label = ᱯᱷᱚᱨᱢ ᱟᱨ ᱥᱮᱸᱫᱽᱨᱟ ᱦᱤᱛᱟᱹᱞ
     .accesskey = F
+
 data-section-label = ᱰᱟᱴᱟ
-item-site-preferences =
-    .label = ᱥᱟᱭᱤᱴ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ
-    .accesskey = S
+
 item-offline-apps =
     .label = ᱚᱯᱷᱞᱟᱭᱤᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ
     .accesskey = O
+
 sanitize-everything-undo-warning = ᱱᱚᱶᱟ ᱠᱟᱹᱢᱤ ᱥᱟᱹᱛ ᱵᱟᱝ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+
 window-close =
     .key = w
+
 sanitize-button-ok =
     .label = ᱱᱤᱛ ᱢᱮᱴᱟᱣ ᱢᱮ
+
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
     .label = ᱯᱷᱟᱨᱪᱟᱮᱫ ᱟ
+
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
 sanitize-everything-warning = ᱡᱷᱚᱛᱚ ᱦᱤᱛᱟᱹᱞ ᱢᱮᱴᱟᱣᱜᱼᱟ ᱾
+
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.

@@ -6,7 +6,6 @@ privatebrowsingpage-open-private-window-label = ᱢᱤᱫ ᱱᱤᱡᱚᱨᱟᱜ 
     .accesskey = ᱨ
 about-private-browsing-search-placeholder = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 about-private-browsing-info-title = ᱟᱢ ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱳ ᱨᱮ ᱢᱮᱱᱟᱢᱼᱟ
-about-private-browsing-info-myths = ᱩᱠᱩ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱵᱟᱵᱚᱛ ᱥᱟᱫᱷᱟᱨᱚᱬ ᱟᱸᱫᱷᱟ ᱯᱟᱹᱛᱤᱭᱟᱹᱣ
 about-private-browsing-search-btn =
     .title = ᱣᱮᱵ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 # Variables
@@ -20,19 +19,21 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = { $engine } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱟᱝ ᱴᱷᱤᱠᱬᱟᱹ ᱟᱫᱮᱨ ᱢᱮ
 about-private-browsing-handoff-text-no-engine = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
 about-private-browsing-not-private = ᱟᱢ ᱫᱚ ᱱᱤᱛᱚᱜ ᱢᱤᱫ ᱱᱤᱡᱮᱨᱟᱜ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱵᱟᱹᱱᱩᱜ ᱢᱮᱭᱟ ᱾
-about-private-browsing-info-description = { -brand-short-name } ᱟᱢᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱯᱟᱱᱛᱮᱭᱟᱜ ᱦᱤᱛᱟᱹᱞ ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱴᱮᱵᱽ ᱟᱨ ᱡᱷᱚᱨᱠᱟ ᱠᱷᱚᱱ ᱯᱷᱟᱨᱪᱟ ᱭᱟᱭ ᱡᱚᱠᱷᱚᱱ ᱟᱢ ᱩᱱᱠᱩ ᱵᱚᱸᱫᱚ ᱠᱚᱣᱟᱢ ᱟᱨ ᱮᱯ ᱟᱲᱟᱹᱜ ᱟᱢ ᱾ ᱱᱚᱣᱟ ᱫᱚ ᱵᱟᱝ ᱵᱟᱰᱟᱭ ᱵᱟᱝ ᱵᱮᱱᱟᱣ ᱢᱮᱭᱟᱭ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱟᱨ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱮᱢᱚᱜᱤᱪ ᱠᱷᱚᱱ, ᱱᱚᱣᱟ ᱫᱚ ᱟᱞᱜᱟ ᱛᱮᱭᱟᱨ ᱫᱚᱦᱚ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱠᱚ ᱟᱢ ᱚᱱᱞᱟᱭᱤᱱ ᱠᱚᱨᱟᱣ ᱮᱫᱟᱢ ᱩᱱᱠᱩ ᱠᱷᱚᱱ ᱡᱟ ᱱᱚᱣᱟ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱵᱮᱵᱷᱟᱨ ᱟᱠᱚ ᱾
-about-private-browsing-need-more-privacy = ᱟᱨᱦᱚᱸ ᱱᱤᱥᱚᱱ ᱛᱟᱢ ᱫᱚᱨᱠᱟᱨ?
-about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } ᱪᱮᱥᱴᱟ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
 about-private-browsing-info-description-private-window = ᱱᱤᱥᱚᱱ ᱡᱷᱚᱨᱠᱟ : { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ ᱠᱚ ᱢᱮᱴᱟᱣ ᱟᱭ ᱵᱚᱸᱫ ᱡᱷᱚᱜ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱩᱠᱩ ᱨᱮ ᱵᱟᱝ ᱫᱚᱦᱚᱭ ᱢᱮᱭᱟᱭ ᱾
 about-private-browsing-info-description-simplified = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ ᱠᱚ ᱢᱮᱴᱟᱣ ᱟᱭ ᱵᱚᱸᱫ ᱡᱷᱚᱜ, ᱢᱮᱱᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱫᱚ ᱩᱠᱩ ᱨᱮ ᱵᱟᱝ ᱫᱚᱦᱚᱭ ᱢᱮᱭᱟᱭ ᱾
 about-private-browsing-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+
 about-private-browsing-hide-activity = ᱟᱢᱟᱜ ᱠᱟᱹᱢᱤ ᱠᱚ ᱟᱨ ᱡᱟᱭᱜᱟ, ᱡᱷᱚᱛᱚᱡᱟᱭᱜᱟ ᱨᱮ ᱵᱨᱟᱡᱽ ᱠᱚ ᱩᱠᱩᱭ ᱢᱮ
 about-private-browsing-get-privacy = ᱟᱢ ᱡᱷᱚᱛᱚ ᱡᱟᱭᱜᱟ ᱨᱮ ᱵᱽᱨᱟᱩᱡᱽ ᱨᱮᱭᱟᱜ ᱱᱤᱥᱚᱱ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱧᱟᱢ ᱢᱮ
 about-private-browsing-hide-activity-1 = ᱵᱽᱨᱟᱩᱡᱤᱝ ᱠᱟᱹᱢᱤ ᱟᱨ ᱡᱟᱭᱜᱟ ᱫᱚ { -mozilla-vpn-brand-name } ᱛᱮ ᱩᱠᱩᱭ ᱢᱮ ᱾ ᱢᱤᱫ ᱚᱛᱟ ᱨᱮ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱡᱩᱲᱟᱣ ᱛᱮᱭᱟᱨ ᱟᱭ, ᱥᱟᱱᱟᱢ Wi-Fi ᱨᱮ ᱦᱚᱸ ᱠᱟᱹᱢᱤᱟᱭ ᱾
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ᱥᱟᱶ ᱩᱠᱩ ᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱢᱮ
+
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ᱰᱟᱩᱱᱞᱚᱰ ᱢᱮ
 about-private-browsing-focus-promo-header = { -focus-brand-name }: ᱢᱤᱫ ᱡᱮᱠᱷᱟ ᱛᱮ ᱱᱤᱡᱚᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
 about-private-browsing-focus-promo-text = ᱡᱷᱚᱛᱚ ᱚᱠᱛᱚ ᱨᱮ ᱜᱮ ᱟᱞᱮᱭᱟᱜ ᱱᱤᱡᱚᱨᱟᱜ ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱢᱚᱵᱟᱭᱤᱞ ᱮᱯ ᱜᱷᱤᱲ ᱜᱮ ᱟᱹᱵᱤᱱᱟᱜ ᱦᱤᱛᱟᱹᱞ ᱟᱨ ᱠᱩᱠᱤᱡᱽ ᱠᱚ ᱢᱮᱴᱟᱣᱟᱭ ᱾
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -45,7 +46,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
-about-private-browsing-dismiss-button =
-    .title = ᱵᱚᱸᱫ
+
 about-private-browsing-promo-close-button =
     .title = ᱵᱚᱸᱫᱽ

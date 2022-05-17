@@ -12,15 +12,19 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = { $hostname } ᱥᱟᱞᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱡᱷᱚᱜ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ ᱾ { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = ᱵᱷᱩᱞ ᱠᱳᱰ : { $error }
+
 psmerr-ssl-disabled = ᱡᱟᱹᱯᱛᱤ ᱞᱮᱠᱟᱛᱮ ᱵᱟᱭ ᱡᱚᱲᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱪᱮᱫᱟᱜ ᱡᱮ SSL ᱜᱚᱯᱛᱮ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚᱣᱟᱠᱟᱱᱟ ᱾
 psmerr-ssl2-disabled = ᱡᱟᱹᱯᱛᱤ ᱞᱮᱠᱟᱛᱮ ᱵᱟᱭ ᱡᱚᱲᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱥᱟᱭᱤᱴ SSL ᱜᱟᱯᱟᱛᱮ ᱨᱮᱭᱟᱠ ᱵᱟᱝ ᱡᱟᱹᱯᱛᱤ ᱦᱟᱹᱞᱤᱭᱟᱠ, ᱠᱷᱚᱱ ᱢᱟᱨᱮᱭᱟᱜ ᱵᱮᱵᱷᱟᱨᱮᱫᱼᱟ ᱾
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     ᱟᱢ ᱢᱤᱫ ᱵᱟᱝ ᱵᱟᱛᱟᱣ ᱯᱚᱨᱚᱢᱟᱱ ᱥᱟᱢᱟᱯ ᱮᱢ ᱧᱟᱢ ᱟᱠᱟᱫᱟ ᱥᱟᱹᱨᱵᱟᱹᱨ ᱥᱟᱥᱚᱱᱤᱡ ᱟᱨ ᱵᱟᱝ ᱤ-ᱢᱮᱞ ᱨᱚᱲ ᱨᱩᱣᱟᱲᱤᱡ ᱥᱚᱢᱚᱯᱚᱨᱠ ᱮᱢ ᱟᱨ ᱩᱱᱠᱩ ᱱᱚᱶᱟ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱠᱚ ᱮᱢᱟᱠᱚᱢ :
     ᱟᱢᱟᱜ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱨᱮ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱮᱢᱚᱜᱤᱡ ᱫᱟᱨᱟᱭ ᱛᱮ ᱮᱴᱟᱜᱟᱜ ᱯᱚᱨᱚᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱮᱢ ᱞᱮᱠᱟᱛᱮ ᱥᱚᱢᱟᱱ ᱛᱤᱨᱭᱟᱹᱣ ᱞᱮᱠᱷᱟ ᱢᱮᱱᱟᱜ ᱟ ᱢᱤᱫ ᱵᱷᱮᱜᱟᱨ ᱛᱤᱨᱭᱟᱹᱣ ᱞᱮᱠᱷᱟ ᱛᱟᱦᱮᱸᱱ ᱢᱤᱫ ᱱᱟᱶᱟ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱧᱟᱢ ᱢᱮ ᱾
+
 ssl-error-no-cypher-overlap = ᱡᱚᱲ ᱥᱟᱶ ᱡᱟᱯᱛᱤ ᱞᱮᱠᱟᱛᱮ ᱨᱚᱲ-ᱨᱚᱯᱚᱲ ᱵᱟᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱺᱡᱟᱦᱟᱱ ᱥᱚᱢᱟᱱ ᱫᱟᱱᱟᱝᱼᱟᱜ ᱦᱩᱰᱤᱝ ᱮᱞᱟᱠᱷ ᱠᱚ ᱵᱟᱹᱱᱩᱜᱼᱟ᱾
 ssl-error-no-certificate = ᱯᱨᱚᱢᱟᱬ ᱮᱢ ᱞᱟᱹᱜᱤᱫ ᱯᱨᱚᱢᱟᱬ ᱥᱟᱠᱟᱢ ᱟᱨ ᱵᱟᱝ ᱠᱟᱴᱷᱤ ᱧᱟᱢ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾
 ssl-error-bad-certificate = ᱡᱚᱲ ᱥᱟᱶ ᱡᱟᱯᱛᱤ ᱞᱮᱠᱟᱱ ᱨᱚᱲ ᱨᱚᱯᱚᱲ ᱵᱟᱭ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱡᱚᱲ ᱨᱮᱭᱟᱜ ᱯᱨᱚᱢᱟᱬ ᱥᱟᱠᱟᱢ ᱵᱟᱰᱨᱟ ᱟᱠᱟᱱ ᱛᱟᱦᱮᱱᱟ᱾

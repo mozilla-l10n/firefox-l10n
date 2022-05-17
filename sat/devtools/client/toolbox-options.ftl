@@ -11,12 +11,15 @@
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * ᱱᱤᱛᱚᱜᱟᱜ ᱴᱩᱞ ᱵᱟᱠᱥᱟ ᱴᱟᱨᱜᱮᱴ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱜᱚᱲᱚᱣᱟᱜᱼᱟ
+
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = ᱮᱰᱼᱚᱱ ᱫᱟᱨᱟᱭ ᱛᱮ ᱞᱟᱦᱟᱤᱡᱟᱜ ᱦᱟᱹᱛᱤᱭᱟᱹᱨ ᱠᱚ ᱵᱚᱦᱟᱞ ᱮᱱᱟ
+
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = ᱦᱟᱹᱛᱤᱭᱟᱹᱨ ᱵᱟᱠᱥᱟ ᱵᱩᱛᱟᱹᱢ ᱠᱚ ᱧᱟᱢᱚᱜᱼᱟ
+
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = ᱩᱭᱦᱟᱹᱨ ᱠᱚ
 
@@ -24,6 +27,7 @@ options-select-dev-tools-theme-label = ᱩᱭᱦᱟᱹᱨ ᱠᱚ
 
 # The heading
 options-context-inspector = ᱧᱮᱧᱮᱤᱡ
+
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = ᱯᱟᱱᱛᱮ ᱦᱩᱱᱟᱹᱨ ᱠᱚ ᱩᱫᱩᱜᱽ ᱢᱮ
 options-show-user-agent-styles-tooltip =
@@ -41,6 +45,7 @@ options-default-color-unit-name = ᱨᱚᱝ ᱧᱩᱛᱩᱢ ᱠᱚ
 
 # The heading
 options-styleeditor-label = ᱦᱩᱱᱟᱹᱨ ᱥᱟᱥᱟᱯᱲᱟᱣᱤᱡ
+
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = ᱟᱡ ᱛᱮ ᱯᱩᱨᱟᱹᱣ CSS
 options-stylesheet-autocompletion-tooltip =
@@ -53,6 +58,7 @@ options-stylesheet-autocompletion-tooltip =
 
 # The heading
 options-sourceeditor-label = ᱥᱟᱥᱟᱯᱲᱟᱣᱟᱜ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ
+
 options-sourceeditor-detectindentation-tooltip =
     .title = ᱥᱨᱚᱛ ᱵᱤᱥᱚᱭ ᱨᱮ ᱵᱟᱹᱭᱥᱟᱹᱣ ᱥᱟᱦᱴᱟ ᱥᱤᱢᱟᱹ ᱨᱮ ᱵᱟᱹᱭᱥᱟᱹᱣ ᱥᱟᱦᱴᱟ ᱥᱤᱢᱟᱹ ᱚᱱᱢᱟᱱ
 options-sourceeditor-detectindentation-label = ᱥᱟᱦᱴᱟ ᱥᱤᱢᱟᱹ ᱧᱟᱢ ᱮᱱᱟ ᱾
@@ -69,14 +75,18 @@ options-sourceeditor-keybinding-label = ᱠᱟᱹᱴᱷᱤ ᱛᱚᱞ ᱠᱚ
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = ᱞᱟᱦᱟᱣᱟᱜ ᱥᱟᱡᱟᱣ ᱠᱚ
+
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = JavaScript ᱵᱚᱸᱫᱚᱭ ᱢᱮ *
 options-disable-javascript-tooltip =
     .title = ᱱᱚᱶᱟ ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱱᱤᱡᱚᱨᱟᱜ ᱴᱮᱵᱽ ᱞᱟᱹᱜᱤᱫ JavaScript ᱵᱚᱸᱫ ᱪᱷᱚᱭ ᱟᱭ ᱾ ᱡᱤᱫᱤ ᱴᱮᱵᱽ ᱵᱟᱝᱠᱷᱟᱱ ᱦᱟᱹᱛᱤᱭᱟᱹᱨᱵᱟᱠᱚᱥ  ᱵᱚᱸᱫ ᱞᱮᱱ ᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱥᱟᱡᱟᱣ ᱠᱚ ᱦᱤᱲᱤᱧᱚᱜᱼᱟ ᱾
+
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = ᱥᱟᱹᱝᱜᱤᱧ ᱰᱤᱵᱚᱜᱤᱝ ᱦᱩᱭ ᱦᱚᱪᱚ
+
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * ᱮᱠᱷᱮᱱ ᱱᱤᱛᱟᱜ ᱠᱟᱹᱢᱤ ᱚᱠᱛᱚ, ᱥᱟᱦᱴᱟ ᱞᱟᱫᱮ ᱫᱚᱦᱲᱟ ᱾
+
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = ᱜᱮᱠᱚ ᱯᱞᱮᱴᱯᱷᱚᱨᱢ ᱰᱟᱴᱟ ᱩᱫᱩᱜ

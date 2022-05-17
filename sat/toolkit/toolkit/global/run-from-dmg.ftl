@@ -17,3 +17,8 @@ prompt-to-install-no-button = ᱟᱞᱚᱢ ᱵᱚᱦᱟᱞᱟ
 
 install-failed-title = { -brand-short-name } ᱵᱚᱦᱟᱞ ᱦᱩᱰᱟᱹᱜ ᱾
 install-failed-message = { -brand-short-name } ᱵᱚᱦᱟᱞ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱦᱮᱞᱮ ᱫᱟᱹᱲ ᱪᱷᱚ ᱜᱟᱱᱚᱜᱼᱟ ᱾
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+

@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = ᱟᱭᱟᱛ ᱦᱤᱸᱥ ᱨᱮᱭᱟᱜ ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱚᱰᱚᱠ ᱧᱟᱢ ᱢᱮ
 findbar-previous =
     .tooltiptext = ᱟᱭᱟᱛ ᱦᱤᱸᱥ ᱨᱮᱭᱟᱜ ᱯᱟᱹᱦᱤᱞ ᱥᱮᱫᱟᱜ ᱚᱰᱚᱠ ᱧᱟᱢ ᱢᱮ
+
 findbar-find-button-close =
     .tooltiptext = ᱯᱟᱱᱛᱮ ᱵᱟᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+
 findbar-highlight-all2 =
     .label = ᱡᱷᱚᱛᱚ ᱩᱫᱩᱜ ᱨᱟᱠᱟᱵ
     .accesskey =
@@ -19,14 +21,17 @@ findbar-highlight-all2 =
            *[other] ᱨ
         }
     .tooltiptext = ᱠᱟᱛᱷᱟ ᱢᱟᱞᱟ ᱡᱷᱚᱛᱚ ᱩᱫᱩᱜ ᱨᱟᱠᱟᱵ ᱢᱮ
+
 findbar-case-sensitive =
     .label = ᱡᱚᱲ ᱠᱟᱛᱷᱟ
     .accesskey = ᱡ
     .tooltiptext = ᱠᱟᱛᱷᱟ ᱵᱷᱮᱫᱟᱣᱠ ᱥᱟᱶ ᱯᱟᱱᱛᱮ
+
 findbar-match-diacritics =
     .label = ᱵᱤᱥᱮᱥᱚᱠ ᱠᱚ ᱢᱮᱲᱟᱣ
     .accesskey = i
     .tooltiptext = ᱩᱪᱨᱚᱬ ᱮᱢ ᱠᱟᱱ ᱚᱠᱷᱚᱨ ᱟᱨ ᱟᱠᱚᱣᱟᱜ ᱢᱮᱲᱟᱣ ᱟᱠᱷᱚᱨ ᱛᱟᱞᱟ ᱨᱮ ᱚᱱᱛᱚᱨ ᱫᱚᱦᱚᱭ ᱢᱮ ( ᱫᱟᱹᱭᱠᱟᱹ ᱞᱮᱠᱷᱟᱛᱮ, "ᱨᱤᱡᱭᱩᱢ" ᱯᱟᱱᱛᱮ ᱡᱷᱚᱜ "ᱨᱤᱸᱡᱭᱩᱢ" ᱥᱟᱞᱟᱜ ᱵᱟᱝ ᱢᱮᱲᱟᱣᱜᱼᱟ)
+
 findbar-entire-word =
     .label = ᱡᱷᱚᱛᱚ ᱟᱹᱲᱟᱹ
     .accesskey = ᱡ

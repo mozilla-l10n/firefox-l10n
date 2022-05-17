@@ -4,24 +4,31 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = ᱟᱠᱚᱴ
     .accesskey = B
+
 permissions-session =
     .label = ᱠᱟᱹᱢᱤ ᱚᱠᱛᱚ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱛᱟᱣ ᱮᱢ
     .accesskey = S
+
 permissions-allow =
     .label = ᱦᱮᱥᱟᱹᱨᱤᱭᱟᱹ
     .accesskey = A
+
 permissions-button-off =
     .label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
     .accesskey = O
+
 permissions-status =
     .label = ᱫᱚᱥᱟ
+
 permissions-capabilities-allow =
     .label = ᱦᱮᱥᱟᱨᱤᱭᱟᱹ
 permissions-capabilities-block =
     .label = ᱟᱠᱚᱴ
+
 permissions-capabilities-listitem-allow =
     .value = ᱦᱮᱥᱟᱨᱤᱭᱟᱹ
 permissions-capabilities-listitem-block =

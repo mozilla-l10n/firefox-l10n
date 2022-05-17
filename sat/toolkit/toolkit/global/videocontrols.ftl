@@ -12,6 +12,7 @@ videocontrols-volume-control =
     .aria-label = ᱜᱚᱱᱚᱝ
 videocontrols-closed-caption-button =
     .aria-label = ᱵᱚᱸᱫ ᱠᱮᱯᱥᱚᱱ
+
 videocontrols-play-button =
     .aria-label = खिलोंड
 videocontrols-pause-button =
@@ -26,9 +27,11 @@ videocontrols-exitfullscreen-button =
     .aria-label = ᱯᱩᱨᱟᱹ ᱥᱠᱨᱤᱱ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ ᱾
 videocontrols-casting-button-label =
     .aria-label = Cast to Screen
+
 videocontrols-error-aborted = मिडियो लादे तिंगुयेना.
 videocontrols-error-network = मिडियो खेलोंड रुवा़ड़ मित् नेटवार्क भुल कारोन ते आड़ाक् होचो केत् आ .
 videocontrols-error-decode = मिडियो बाङ खेलोंड होचो दाड़ेयाक् आ चेदाक् जे रेत् रा़पुद गेया .
 videocontrols-error-src-not-supported = मिडियो तेयार आर बाङ  MIME लेकान दो बाङ गोड़ोवाक् काना  .
 videocontrols-error-no-source = गोड़ोवाक् तेयार आर  MIME  लेकान सांव जाहान मिडियो बाय ञाम लेना .
 videocontrols-error-generic = मिडियो सेतोंड रुवाड़ मित् बाङ बाडाय भुल कारोन ते आड़ाक् लेना.
+

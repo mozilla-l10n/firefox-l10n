@@ -147,8 +147,6 @@ was trying to connect. -->
 
 <!ENTITY errorReporting.learnMore "ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>ᱫᱚᱭᱟᱠᱟᱛᱮ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱢᱟᱞᱤᱠ ᱡᱩᱜᱟᱡᱩᱜ ᱮᱢ ᱟᱨ ᱦᱩᱲᱟᱹᱜ ᱵᱤᱥᱚᱭ ᱨᱮ ᱠᱷᱚᱵᱚᱨ ᱮᱢᱟ ᱠᱚᱢ ᱾</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "ᱞᱟᱦᱟᱱᱛᱤ ᱵᱤᱵᱨᱚᱬ : SSL_ERROR_UNSUPPORTED_VERSION">
@@ -162,7 +160,5 @@ was trying to connect. -->
 
 
 
-
-<!ENTITY enableTls10.label "TLS 1.0 ᱟᱨ 1.1 ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ">
 
 <!ENTITY networkProtocolError.longDesc "<p>ᱥᱟᱦᱴᱟ ᱟᱢ ᱧᱮᱞ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱮᱢ ᱠᱩᱨᱩᱢᱩᱴᱩ ᱭᱮᱫ ᱟ ᱵᱟᱝ ᱩᱫᱩᱜ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱱᱮᱴᱣᱟᱨᱠ ᱯᱨᱚᱴᱚᱠᱚᱞ ᱨᱮ ᱢᱤᱫ ᱵᱷᱩᱞ ᱧᱟᱢ ᱞᱮᱱ ᱛᱟᱦᱮᱸᱱᱟ ᱾</p><ul><li> ᱣᱮᱵ ᱥᱟᱤᱴ ᱢᱟᱹᱞᱤᱠ ᱠᱚ ᱥᱚᱢᱯᱚᱠ ᱠᱚᱢ ᱱᱚᱣᱟ ᱫᱤᱜᱫᱷᱟ ᱩᱱᱠᱩ ᱩᱛᱞᱟᱹᱭᱟ ᱠᱚ ᱢᱮ ᱾</li></ul>">

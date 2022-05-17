@@ -4,16 +4,21 @@
 
 profile-selection-window =
     .title = { -brand-short-name } - ᱵᱮᱵᱷᱟᱨᱤᱡ ᱢᱚᱦᱚᱨ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+
 profile-selection-button-accept =
     .label = { -brand-short-name } ᱮᱦᱚᱵ ᱢᱮ
+
 profile-selection-button-cancel =
     .label = ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ
+
 profile-selection-new-button =
     .label = ᱢᱚᱦᱚᱨ ᱛᱮᱭᱟᱨ ᱢᱮ...
     .accesskey = ᱢ
+
 profile-selection-rename-button =
     .label = ᱢᱚᱦᱚᱨ ᱫᱩᱦᱲᱟᱹ ᱧᱩᱛᱩᱢ ᱢᱮ...
     .accesskey = R
+
 profile-selection-delete-button =
     .label = ᱢᱚᱦᱚᱨ ᱢᱮᱴᱟᱣ ᱢᱮ...
     .accesskey = ᱢ
@@ -21,9 +26,11 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } ᱟᱢᱟᱜ ᱥᱟᱡᱟᱣ ᱠᱩᱥᱤᱭᱟᱜ ᱟᱨ ᱮᱴᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱠᱚᱣᱟᱜ ᱵᱟᱵᱚᱛ ᱡᱤᱱᱤᱥ ᱡᱚᱜᱟᱣ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱾
+
 profile-manager-work-offline =
     .label = ᱚᱯᱷᱞᱟᱭᱤᱱ ᱠᱟᱹᱢᱤ
     .accesskey = ᱚ
+
 profile-manager-use-selected =
     .label = ᱮᱦᱚᱵ ᱨᱮ ᱵᱚᱜᱚᱨ ᱠᱩᱞᱤ ᱛᱮ ᱵᱟᱪᱷᱟᱣᱟᱜ ᱯᱨᱚᱯᱷᱟᱭᱤᱞ  ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = ᱮ

@@ -14,7 +14,6 @@ about-networking-ssl = SSL
 about-networking-active = उसरा़व
 about-networking-idle = बेबोसतायिच्:
 about-networking-host = बेबोसतायिच्:
-about-networking-tcp = TCP
 about-networking-sent = कुलेना
 about-networking-received = ञामाक्
 about-networking-family = घारोंज

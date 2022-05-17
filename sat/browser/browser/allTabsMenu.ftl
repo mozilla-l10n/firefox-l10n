@@ -5,10 +5,13 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = ᱴᱮᱵᱽ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+
 all-tabs-menu-new-user-context =
     .label = ᱱᱟᱶᱟ ᱠᱚᱱᱴᱮᱱᱚᱨ ᱴᱮᱵᱽ
+
 all-tabs-menu-hidden-tabs =
     .label = ᱩᱠᱩ ᱴᱮᱵᱽ ᱠᱚ
+
 all-tabs-menu-manage-user-context =
     .label = ᱫᱚᱦᱚ ᱴᱷᱟᱶ ᱵᱮᱵᱚᱥᱛᱷᱟ ᱠᱚ
     .accesskey = o
