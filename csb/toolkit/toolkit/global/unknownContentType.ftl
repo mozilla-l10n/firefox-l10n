@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] Nastawë mòże zmienic w  { -brand-short-name } Òptacje.
            *[other] Nastawë mòże zmienic w  { -brand-short-name } Preferencje.
         }
+
 unknowncontenttype-intro = Chcész òtemknąc:
 unknowncontenttype-which-is = Ôrt lopka:
 unknowncontenttype-from = z:

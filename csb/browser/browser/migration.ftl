@@ -47,16 +47,8 @@ import-done-page-title = Impòrtowanié je zakùńczóné
 
 import-done-description = Nôslédné elementë są ùdało zaimpòrtowóné:
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Z programù { $source }
-
 source-name-ie = Internet Explorer
-source-name-safari = Safari
 source-name-chrome = Google Chrome
-source-name-firefox = Mozilla Firefox
 
 imported-safari-reading-list = Lësta przezéraniô (z Safari)
 

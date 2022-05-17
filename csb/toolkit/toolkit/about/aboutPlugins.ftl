@@ -31,3 +31,6 @@ state-dd-Disabled-block-list-state = <span data-l10n-name="state">Stón:</span> 
 mime-type-label = Ôrt MIME
 description-label = Òpisënk
 suffixes-label = Rozszerzenia
+
+## Gecko Media Plugins (GMPs)
+

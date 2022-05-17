@@ -60,10 +60,6 @@ item-form-search-history =
 
 data-section-label = Pòdôwczi
 
-item-site-preferences =
-    .label = Nastawë stronów
-    .accesskey = N
-
 item-offline-apps =
     .label = Pòdôwczi stronów offline
     .accesskey = o

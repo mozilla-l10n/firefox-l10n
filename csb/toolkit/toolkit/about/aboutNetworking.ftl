@@ -14,7 +14,6 @@ about-networking-ssl = SSL
 about-networking-active = Aktiwny
 about-networking-idle = Lóz
 about-networking-host = Hòst
-about-networking-tcp = TCP
 about-networking-sent = Wësłóné
 about-networking-received = Dostóné
 about-networking-family = Familiô

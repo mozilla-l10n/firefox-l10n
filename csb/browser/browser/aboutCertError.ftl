@@ -36,4 +36,3 @@ proxyResolveFailure-title = Nie jidze nalezc serwera proxy
 redirectLoop-title = Òpãtlo przeczérowaniów
 unknownSocketType-title = Lëchô òdpòwiesc serwera
 nssFailure2-title = Felënk bezpiecznégò sparłãczeniô
-remoteXUL-title = Zdalné XUL

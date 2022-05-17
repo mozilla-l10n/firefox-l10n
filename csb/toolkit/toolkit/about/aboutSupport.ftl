@@ -25,6 +25,7 @@ app-basics-enabled-plugins = Włączoné wtëkacze
 app-basics-build-config = Kònfigùracjã brëkòwóną do kòmpilacje
 app-basics-user-agent = Pòstrzédnik brëkòwnika
 app-basics-memory-use = Ùżëcé pamiãcë
+
 modified-key-prefs-title = Zmòdifikòwano wôżné preferencje
 modified-prefs-name = Miono
 modified-prefs-value = Wôrtnota

@@ -20,10 +20,6 @@ menu-application-show-all =
 
 ##
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
 ## File Menu
 
 menu-file =
@@ -46,9 +42,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Òtemkni lopk…
     .accesskey = Ò
-menu-file-close =
-    .label = Zamkni
-    .accesskey = Z
 menu-file-close-window =
     .label = Zamkni òkno
     .accesskey = m
@@ -61,9 +54,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Nastawë stronë…
     .accesskey = ë
-menu-file-print-preview =
-    .label = Pòdzérk drëkù
-    .accesskey = ò
 menu-file-print =
     .label = Drëkùjë…
     .accesskey = D
@@ -215,6 +205,3 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Pòmòc
     .accesskey = m
-menu-help-feedback-page =
-    .label = Wëslë òpiniã…
-    .accesskey = s
