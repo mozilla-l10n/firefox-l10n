@@ -129,12 +129,6 @@ language-popup-label =
 
 download-dictionaries-link = Bula Dipukuntšu Tše Ntši
 
-format-description = Beakanya mokgwa wa sebopego sa sengwalwa
-
-send-options-label =
-    .label = Dikgetho tša Romela...
-    .accesskey = D
-
 autocomplete-description = Ge o ngwala diaterese go melaetša, lebelela mantšu a go amana ka gare ga:
 
 ab-label =
@@ -171,4 +165,6 @@ email-picker-label =
 
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

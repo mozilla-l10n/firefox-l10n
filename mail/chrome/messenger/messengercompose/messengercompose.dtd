@@ -16,9 +16,6 @@
 <!ENTITY attachMenu.accesskey "g">
 <!ENTITY attachPageCmd.label "Letlakala la Webe...">
 <!ENTITY attachPageCmd.accesskey "L">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Karata ya Mong (vKarata)">
-<!ENTITY attachVCardCmd.accesskey "K">
 <!ENTITY closeCmd.label "Tswalela">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "t">
@@ -101,14 +98,6 @@
 
 <!ENTITY returnReceiptMenu.label "Buša Dirasiti">
 <!ENTITY returnReceiptMenu.accesskey "š">
-<!ENTITY autoFormatCmd.label "Lemoga ka tsela ya Othometiki">
-<!ENTITY autoFormatCmd.accesskey "l">
-<!ENTITY plainTextFormatCmd.label "Sengwalwa sa go se be le selo fela">
-<!ENTITY plainTextFormatCmd.accesskey "s">
-<!ENTITY htmlFormatCmd.label "Sengwalwa sa go Nona (HTML) Fela">
-<!ENTITY htmlFormatCmd.accesskey "s">
-<!ENTITY bothFormatCmd.label "Sengwalwa se se se nago selo le go Nona (HTML)">
-<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "Sa pele">
 <!ENTITY priorityMenu.accesskey "s">
 <!ENTITY priorityButton.label "Pele:">

@@ -31,3 +31,6 @@ state-dd-Disabled-block-list-state = <span data-l10n-name="state">Naga:</span> P
 mime-type-label = Mohuta wa MIME
 description-label = Tlhaloso
 suffixes-label = Meselana
+
+## Gecko Media Plugins (GMPs)
+
