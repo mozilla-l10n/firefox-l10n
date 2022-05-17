@@ -298,9 +298,6 @@
 <!ENTITY forwardAsInline.accesskey "б">
 <!ENTITY forwardAsAttachmentCmd.label "Далучэнне">
 <!ENTITY forwardAsAttachmentCmd.accesskey "Д">
-<!ENTITY editMsgAsNewCmd.label "Рэдагаваць ліст як новы">
-<!ENTITY editMsgAsNewCmd.accesskey "Р">
-<!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Стварыць сіта з ліста…">
 <!ENTITY createFilter.accesskey "р">
 <!ENTITY archiveMsgCmd.label "Архіў">
@@ -438,8 +435,6 @@
 <!ENTITY contextOpenNewWindow.accesskey "А">
 <!ENTITY contextOpenNewTab.label "Адкрыць ліст у новай устаўцы">
 <!ENTITY contextOpenNewTab.accesskey "у">
-<!ENTITY contextEditAsNew.label "Рэдагаваць як новы…">
-<!ENTITY contextEditAsNew.accesskey "Р">
 <!ENTITY contextReplySender.label "Адказаць толькі адпраўніку">
 <!ENTITY contextReplySender.accesskey "т">
 <!ENTITY contextReplyList.label "Адказаць спісу">

@@ -32,9 +32,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "Сіты">
 <!ENTITY importFilters.accesskey  "С">
 
-<!ENTITY  window.width            "50em">
-<!ENTITY  window.macWidth         "55em">
-
 <!ENTITY importTitle.label        "Чарадзей Імпарту &brandShortName;">
 <!ENTITY importShortDesc.label    "Імпарт пошты, адрасных кнігаў, наладжванняў і сітаў з іншых праграмаў">
 

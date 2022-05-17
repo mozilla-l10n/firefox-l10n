@@ -27,13 +27,11 @@
 <!ENTITY images.label "Выявы">
 <!ENTITY popups.label "Вокны-Вынырцы">
 <!ENTITY passwords.label "Паролі">
-<!ENTITY masterpass.label "Галоўныя паролі">
 <!ENTITY certs.label "Пасведчанні">
 
 <!ENTITY sync.label "Sync">
 
 <!ENTITY advance.label "Пашыраны">
-<!ENTITY scriptsAndWindows.label "Сцэнары і ўбудовы">
 <!ENTITY keynav.label "Клавіятурная навігацыя">
 <!ENTITY findAsYouType.label "Знаходзіць тое, што вы набіраеце">
 <!ENTITY cache.label "Запаснік">

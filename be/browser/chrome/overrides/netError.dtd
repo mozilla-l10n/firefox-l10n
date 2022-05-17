@@ -154,8 +154,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Паведамляць пра памылкі такога кшталту, каб дапамагчы Mozilla выяўляць і блакаваць зламысныя сайты">
 <!ENTITY errorReporting.learnMore "Даведацца больш…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Паведаміце, калі ласка, уладальнікам сайта пра гэтую праблему.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Дадатковыя звесткі: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -181,9 +179,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Выглядае, што выклікаць гэта маглі вашы налады сеткавай бяспекі. Хочаце скінуць налады да прадвызначаных?">
 <!ENTITY prefReset.label "Скінуць да прадвызначаных">
-
-<!ENTITY enableTls10.longDesc "Гэты сайт можа не падтрымліваць пратакол TLS 1.2, каторы ёсць мінімальная версій, падтрыманай у &brandShortName;. Уключэнне TLS 1.0 і TLS 1.1 можа дазволіць паспяхова зрабіць гэтае злучэнне.">
-<!ENTITY enableTls10.note "TLS 1.0 і TLS 1.1 будуць канчаткова адключаны ў будучым выпуску.">
-<!ENTITY enableTls10.label "Уключыць TLS 1.0 і 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Старонка, якую вы спрабуеце прагледзець, не можа быць паказана, бо выяўлена памылка ў сеткавым пратаколе.</p><ul><li>Калі ласка, звяжыцеся з уладальнікамі вэб-сайта і праінфармуйце іх аб гэтай праблеме.</li></ul>">

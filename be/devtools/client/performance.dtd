@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Колькасць знаходжанняў гэтай функцыі ў стэку, калі прафайлер зрабіў узор.">
 <!ENTITY performanceUI.table.function                 "Функцыя">
 <!ENTITY performanceUI.table.function.tooltip         "Імя і размяшчэнне крыніцы выбранай функцыі.">
-<!ENTITY performanceUI.table.totalAlloc               "Агульная колькасць выбраных размяшчэнняў">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Агульная колькасць размяшчэнняў Аб'екта, выбраных ў гэтым месцы і ў выкліках.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

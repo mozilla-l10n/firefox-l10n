@@ -4,9 +4,12 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Лагіны & паролі
+
 login-filter =
     .placeholder = Шукаць лагіны
+
 create-login-button = Дадаць новы лагін
+
 fxaccounts-sign-in-text = Атрымайце доступ да сваіх пароляў на іншых прыладах
 fxaccounts-sign-in-sync-button = Увайсці ў сінхранізацыю
 fxaccounts-avatar-button =
@@ -71,8 +74,6 @@ about-logins-login-intro-heading-logged-in = Сінхранізаваныя ла
 login-intro-description = Калі вы захавалі свае лагіны ў { -brand-product-name } на іншай прыладзе, вось як атрымаць іх тут:
 login-intro-instructions-fxa = Стварыце або ўвайдзіце ў свой { -fxaccount-brand-name } на прыладзе, дзе захоўваюцца вашы лагіны.
 login-intro-instructions-fxa-settings = Прайдзіце ў Налады> Sync> Уключыць сінхранізацыю… Адзначце сцяжок Лагіны і паролі.
-login-intro-instructions-fxa-help = Для атрымання дадатковай даведкі наведайце <a data-l10n-name="help-link">падтрымку { -lockwise-brand-short-name }</a>.
-about-logins-intro-import = Калі вашы паролі захоўваюцца ў іншым браўзеры, вы можаце <a data-l10n-name="import-link">імпартаваць іх у { -lockwise-brand-short-name }</a>
 login-intro-instructions-fxa-passwords-help = Наведайце <a data-l10n-name="passwords-help-link">падтрымку па паролях</a>, каб атрымаць дадатковую дапамогу.
 about-logins-intro-browser-only-import = Калі вашы паролі захоўваюцца ў іншым браўзеры, вы можаце <a data-l10n-name="import-link">імпартаваць іх у { -brand-product-name }</a>
 about-logins-intro-import2 = Калі вашы лагіны захоўваюцца па-за { -brand-product-name }, вы можаце <a data-l10n-name="import-browser-link">імпартаваць іх з іншага браўзера</a> або <a data-l10n-name="import-file-link">з файла</a>
@@ -116,16 +117,19 @@ about-logins-edit-login-os-auth-dialog-message-win = Каб змяніць ва�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = рэдагаваць захаваны лагін
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Каб пабачыць свой пароль, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = паказаць захаваны пароль
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Каб скапіраваць свой пароль, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = скапіраваць захаваны пароль
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Каб экспартаваць вашы лагіны, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.
 # This message can be seen when attempting to export a password in about:logins
@@ -144,9 +148,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Скасаваць
 confirmation-dialog-dismiss-button =
     .title = Скасаваць
+
 about-logins-confirm-remove-dialog-title = Выдаліць гэты лагін?
 confirm-delete-dialog-message = Гэтае дзеянне незваротнае.
 about-logins-confirm-remove-dialog-confirm-button = Выдаліць
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Выдаліць
@@ -154,6 +160,7 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [few] Выдаліць усе
        *[many] Выдаліць усе
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Так, выдаліць гэты лагін
@@ -161,6 +168,7 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [few] Так, выдаліць гэтыя лагіны
        *[many] Так, выдаліць гэтыя лагіны
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Выдаліць { $count } лагін?
@@ -174,6 +182,7 @@ about-logins-confirm-remove-all-dialog-message =
         [few] Гэта выдаліць лагіны, якія вы захавалі ў { -brand-short-name }, і любыя папярэджанні пра ўцечкі, якія з'яўляюцца тут. Вы не зможаце адмяніць гэта дзеянне.
        *[many] Гэта выдаліць лагіны, якія вы захавалі ў { -brand-short-name }, і любыя папярэджанні пра ўцечкі, якія з'яўляюцца тут. Вы не зможаце адмяніць гэта дзеянне.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Выдаліць лагін з усіх прылад?
@@ -187,11 +196,14 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] Гэта выдаліць усе лагіны, які вы захавалі ў { -brand-short-name } на ўсіх прыладах, з якімі сінхранізаваны ваш { -fxaccount-brand-name }. Гэта таксама выдаліць папярэджанні аб уцечках, якія з'яўляюцца тут. Вы не зможаце адмяніць гэта дзеянне.
        *[many] Гэта выдаліць усе лагіны, які вы захавалі ў { -brand-short-name } на ўсіх прыладах, з якімі сінхранізаваны ваш { -fxaccount-brand-name }. Гэта таксама выдаліць папярэджанні аб уцечках, якія з'яўляюцца тут. Вы не зможаце адмяніць гэта дзеянне.
     }
+
 about-logins-confirm-export-dialog-title = Экспарт лагінаў і пароляў
 about-logins-confirm-export-dialog-message = Вашы паролі будуць захаваны як звычайны тэкст (напр., BadP@ssw0rd), таму кожны, хто можа адкрыць экспартаваны файл, можа ўбачыць іх.
 about-logins-confirm-export-dialog-confirm-button = Экспартаваць…
+
 about-logins-alert-import-title = Імпарт завершаны
 about-logins-alert-import-message = Паглядзець падрабязную зводку імпарту
+
 confirm-discard-changes-dialog-title = Адхіліць незахаваныя змены?
 confirm-discard-changes-dialog-message = Усе незапісаныя змены будуць страчаны.
 confirm-discard-changes-dialog-confirm-button = Адхіліць
@@ -222,6 +234,7 @@ about-logins-vulnerable-alert-learn-more-link = Падрабязней
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Запіс для { $loginTitle } з такім імем карыстальніка ўжо ёсць. <a data-l10n-name="duplicate-link">Перайсці да наяўнага запісу?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Пры спробе захавання гэтага пароля здарылася памылка.
 
@@ -272,12 +285,14 @@ about-logins-import-dialog-items-added =
         [few] <span>Дададзены новыя лагіны:</span> <span data-l10n-name="count">{ $count }</span>
        *[many] <span>Дададзена новых лагінаў:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Абноўлены наяўны лагін:</span> <span data-l10n-name="count">{ $count }</span>
         [few] <span>Абноўлены наяўныя лагіны:</span> <span data-l10n-name="count">{ $count }</span>
        *[many] <span>Абноўлена наяўных лагінаў:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Знойдзены дублікатны лагін:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не імпартаваны)</span>
@@ -291,6 +306,7 @@ about-logins-import-dialog-items-error =
        *[many] <span>Памылак:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не імпартаваны)</span>
     }
 about-logins-import-dialog-done = Гатова
+
 about-logins-import-dialog-error-title = Памылка імпарту
 about-logins-import-dialog-error-conflicting-values-title = Некалькі супярэчлівых значэнняў для аднаго лагіна
 about-logins-import-dialog-error-conflicting-values-description = Напрыклад: некалькі імёнаў карыстальніка, пароляў, URL-адрасоў і г.д. для аднаго лагіна.
@@ -304,8 +320,10 @@ about-logins-import-dialog-error-no-logins-imported = Ніводзін лагі�
 about-logins-import-dialog-error-learn-more = Даведацца больш
 about-logins-import-dialog-error-try-import-again = Паўтарыць спробу імпарту…
 about-logins-import-dialog-error-cancel = Скасаваць
+
 about-logins-import-report-title = Падсумаванне імпарту
 about-logins-import-report-description = Лагіны і паролі імпартаваны ў { -brand-short-name }.
+
 #
 # Variables:
 #  $number (number) - The number of the row

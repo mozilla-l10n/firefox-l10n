@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Старонку Сеціва…">
 <!ENTITY attachPageCmd.accesskey "С">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Асабістую картку (vCard)">
-<!ENTITY attachVCardCmd.accesskey "А">
 <!ENTITY remindLater.label "Напомніць мне пазней">
 <!ENTITY remindLater.accesskey "п">
 <!ENTITY closeCmd.label "Зачыніць">
@@ -147,16 +144,6 @@
 <!ENTITY returnReceiptMenu.accesskey "т">
 <!ENTITY dsnMenu.label "Пацвярджэнне дастаўкі">
 <!ENTITY dsnMenu.accesskey "П">
-<!ENTITY deliveryFormatMenu.label "Фармат дастаўкі">
-<!ENTITY deliveryFormatMenu.accesskey "Ф">
-<!ENTITY autoFormatCmd.label "Сама-вызначэнне">
-<!ENTITY autoFormatCmd.accesskey "С">
-<!ENTITY plainTextFormatCmd.label "Толькі просты тэкст">
-<!ENTITY plainTextFormatCmd.accesskey "П">
-<!ENTITY htmlFormatCmd.label "Толькі аздоблены тэкст (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "з">
-<!ENTITY bothFormatCmd.label "Просты і аздоблены (HTML) тэкст">
-<!ENTITY bothFormatCmd.accesskey "і">
 <!ENTITY priorityMenu.label "Прыярытэт">
 <!ENTITY priorityMenu.accesskey "П">
 <!ENTITY priorityButton.title "Прыярытэт">

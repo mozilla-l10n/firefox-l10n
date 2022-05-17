@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Дадзеныя
 
-item-site-preferences =
-    .label = Налады сайтаў
-    .accesskey = Н
-
 item-site-settings =
     .label = Налады сайтаў
     .accesskey = ы

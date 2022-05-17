@@ -92,9 +92,6 @@
 <!ENTITY corruptedContentErrorv2.title "Памылка скажэння змесціва">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Старонка, якую вы спрабуеце прагледзець, не можа быць паказана, бо была выяўленая памылка пры перадачы дадзеных.</p><ul><li>Калі ласка, звяжыцеся з уладальнікамі вэб-сайта і паінфармуйце іх аб гэтай праблеме.</li></ul>">
 
-<!ENTITY remoteXUL.title "Адлеглы XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Паведамце, калі ласка, уладальнікам вэб-сайта пра гэтую праблему.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Ваша злучэнне не абаронена">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

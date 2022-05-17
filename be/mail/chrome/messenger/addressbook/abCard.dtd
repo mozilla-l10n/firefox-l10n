@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "Э">
 <!ENTITY SecondEmail.label              "Дадатковая эл.пошта:">
 <!ENTITY SecondEmail.accesskey          "а">
-<!ENTITY PreferMailFormat.label         "Аддае перавагу атрыманню лістоў у фармаце:">
-<!ENTITY PreferMailFormat.accesskey     "д">
 <!ENTITY PlainText.label                "Просты тэкст">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Невядома">

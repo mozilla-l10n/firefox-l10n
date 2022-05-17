@@ -4,8 +4,6 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
-<!ENTITY pref.scripts.title "Сцэнары і ўбудовы">
-
 <!ENTITY navigator.label "Азіральніку">
 <!ENTITY navigator.accesskey "Н">
 
@@ -18,12 +16,3 @@
 <!ENTITY allowContextmenuDisable.label "Забараняць ці замяняць меню">
 <!ENTITY allowHideStatusBar.label "Хаваць паліцу статусу">
 
-<!ENTITY enablePlugins.label "Дазволіць убудовы для">
-<!ENTITY enablePluginForSuite.label "Збор">
-<!ENTITY enablePluginForSuite.accesskey "З">
-
-<!ENTITY whenPageRequiresPlugins.label "Калі патрабуюцца ўбудовы на старонцы">
-<!ENTITY activateAllPlugins.label "Задзейнічаць усе ўбудовы змоўчна">
-<!ENTITY activateAllPlugins.accesskey "д">
-<!ENTITY warnPluginsRequired.label "Папярэджваць, калі патрэбна ўсталяванне дадатковых убудоваў ">
-<!ENTITY warnPluginsRequired.accesskey "П">

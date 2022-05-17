@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "н">
 <!ENTITY newVirtualFolderCmd.label "Захаваны пошук…">
 <!ENTITY newVirtualFolderCmd.accesskey "п">
-<!ENTITY newOtherAccountsCmd.label "Іншыя рахункі…">
-<!ENTITY newOtherAccountsCmd.accesskey "І">
 <!ENTITY newCreateEmailAccountCmd.label "Стварыць новы рахунак пошты…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "н">
 <!ENTITY newExistingEmailAccountCmd.label "Існы рахунак пошты…">
@@ -42,8 +40,6 @@
 <!ENTITY openMessageFileCmd.accesskey "А">
 <!ENTITY saveAsMenu.label "Захаваць як">
 <!ENTITY saveAsMenu.accesskey "Я">
-<!ENTITY saveAsFileCmd.label "Файл">
-<!ENTITY saveAsFileCmd.accesskey "Ф">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Узор">
 <!ENTITY saveAsTemplateCmd.accesskey "У">
