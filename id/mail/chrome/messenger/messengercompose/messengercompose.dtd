@@ -20,9 +20,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Laman Web…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Kartu Pribadi (vCard)">
-<!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY remindLater.label "Ingatkan Saya Nanti">
 <!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Tutup">
@@ -148,16 +145,6 @@
 <!ENTITY returnReceiptMenu.accesskey "T">
 <!ENTITY dsnMenu.label "Peringatan Status Pengiriman">
 <!ENTITY dsnMenu.accesskey "P">
-<!ENTITY deliveryFormatMenu.label "Format Pengiriman">
-<!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "Deteksi Otomatis">
-<!ENTITY autoFormatCmd.accesskey "O">
-<!ENTITY plainTextFormatCmd.label "Teks Polos">
-<!ENTITY plainTextFormatCmd.accesskey "s">
-<!ENTITY htmlFormatCmd.label "Teks Format Kaya (HTML) Saja">
-<!ENTITY htmlFormatCmd.accesskey "k">
-<!ENTITY bothFormatCmd.label "Teks Polos dan Format Kaya (HTML)">
-<!ENTITY bothFormatCmd.accesskey "T">
 <!ENTITY priorityMenu.label "Prioritas">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.title "Prioritas">
@@ -221,7 +208,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Tipe lain dari bidang pemberian alamat">
 <!ENTITY fromAddr2.label "Dari">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY replyAddr2.label "Balas-Kepada">

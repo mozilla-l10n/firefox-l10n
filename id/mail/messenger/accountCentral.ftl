@@ -46,7 +46,6 @@ newsgroups-label = Newsgroup
 newsgroups-description = { -brand-short-name } memungkinkan Anda terhubung ke semua newsgroup yang Anda inginkan.
 
 import-title = Impor dari Program Lainnya
-import-paragraph = { -brand-short-name } memungkinkan Anda mengimpor pesan surel, entri buku alamat, langganan umpan, preferensi, dan/atau filter dari program surat lain dan format umum buku alamat.
 
 import-label = Impor
     .aria-label = Impor data dari program lainnya

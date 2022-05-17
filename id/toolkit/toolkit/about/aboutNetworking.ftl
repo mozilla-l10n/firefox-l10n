@@ -20,7 +20,6 @@ about-networking-ssl = SSL
 about-networking-active = Aktif
 about-networking-idle = Menganggur
 about-networking-host = Host
-about-networking-tcp = TCP
 about-networking-type = Jenis
 about-networking-sent = Dikirim
 about-networking-received = Diterima

@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Pelajari lebih lanjut">
 
 <!ENTITY e2eEnc.description "Tanpa enkripsi ujung-ke-ujung, isi pesan mudah terpapar ke penyedia surel Anda dan pelacakan massal.">
-<!ENTITY e2eeReqWarning.description "Jika Anda memerlukan enkripsi, untuk mengirim pesan Anda harus memiliki kunci publik atau sertifikat dari setiap penerima.">
 
-<!ENTITY e2eSigning.description "Tanda tangan digital memungkinkan penerima untuk memverifikasi bahwa pesan telah dikirim oleh Anda, dan bahwa kontennya belum diubah.">
 <!ENTITY e2eTechPref.description "Teknologi enkripsi yang dipilih:">
 
-<!ENTITY doNotEncrypt.label "Jangan aktifkan enkripsi secara tetap">
-<!ENTITY doNotEncrypt.accesskey "N">
-<!ENTITY requireEncryptMessage.label "Membutuhkan enkripsi secara tetap">
-<!ENTITY requireEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert2.message "Sertifikat pribadi untuk enkripsi:">
 <!ENTITY digitalSign.certificate.button "Pilih…">
 <!ENTITY digitalSign.certificate.accesskey "P">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Bersihkan">
 <!ENTITY encryption.certificate_clear.accesskey "h">
 <!ENTITY signingGroupTitle.label "Tandatangan Dijital">
-<!ENTITY signMessage2.label "Tambahkan tanda tangan digital saya secara tetap">
-<!ENTITY signMessage.accesskey "d">
 
 <!ENTITY signingCert2.message "Sertifikat pribadi untuk penandatanganan digital:">
 

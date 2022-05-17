@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = Buka dengan { -brand-short-name }
     .accesskey = B
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Pengaturan dapat diubah di Pengaturan { -brand-short-name }.
            *[other] Pengaturan dapat diubah di Pengaturan { -brand-short-name }.
         }
+
 unknowncontenttype-intro = Anda memutuskan untuk membuka:
 unknowncontenttype-which-is = adalah sebuah:
 unknowncontenttype-from = dari:

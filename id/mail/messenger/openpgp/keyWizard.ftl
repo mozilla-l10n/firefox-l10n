@@ -123,12 +123,6 @@ openpgp-import-key-description = Anda dapat mengimpor kunci pribadi yang dibuat 
 
 openpgp-import-key-info = Perangkat lunak lain mungkin mendeskripsikan kunci pribadi menggunakan istilah alternatif seperti kunci Anda sendiri, kunci rahasia, kunci privat, atau pasangan kunci.
 
-#   $count (Number) - the number of keys found in the selected files
-openpgp-import-key-list-amount =
-    { $count ->
-       *[other] Thunderbird menemukan { $count } kunci yang dapat diimpor.
-    }
-
 openpgp-import-key-list-description = Konfirmasikan kunci mana yang dapat diperlakukan sebagai kunci pribadi Anda. Hanya kunci yang Anda buat sendiri dan yang menunjukkan identitas Anda yang boleh digunakan sebagai kunci pribadi. Anda dapat mengubah opsi ini nanti di dialog Properti Kunci.
 
 openpgp-import-key-list-caption = Kunci yang ditandai untuk diperlakukan sebagai Kunci Pribadi akan dicantumkan di bagian Enkripsi Ujung-ke-Ujung. Yang lainnya akan tersedia di dalam Manajer Kunci.
