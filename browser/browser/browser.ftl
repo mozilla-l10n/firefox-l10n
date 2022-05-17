@@ -104,6 +104,7 @@ urlbar-go-button =
 
 bookmarks-sidebar-content =
     .aria-label = Utumenyetso
+
 bookmarks-toolbar-menu =
     .label = Umwanyabikoresho w'Utumenyetso
 bookmarks-toolbar-placeholder =
@@ -124,10 +125,6 @@ bookmarks-toolbar-placeholder-button =
 
 
 ## More items
-
-more-menu-go-offline =
-    .label = Gukora Hatariho Interineti
-    .accesskey = I
 
 ## EME notification panel
 
@@ -150,6 +147,7 @@ more-menu-go-offline =
 popups-infobar-allow =
     .label = Gutuma Ibyirambura Bikoreshwa kuri { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Guhagarika Ibyirambura kuri { $uriHost }
     .accesskey = p
@@ -171,6 +169,7 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Ibikururwa
+
 tabs-toolbar-new-tab =
     .label = Agafishi Gashya
 
