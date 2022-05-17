@@ -34,7 +34,6 @@ about-telemetry-events-section = Συμβάντα
 about-telemetry-simple-measurements-section = Απλές μετρήσεις
 about-telemetry-slow-sql-section = Αργές εντολές SQL
 about-telemetry-addon-details-section = Λεπτομέρειες προσθέτου
-about-telemetry-captured-stacks-section = Κατειλημμένες Στοίβες
 about-telemetry-late-writes-section = Καθυστερημένες εγγραφές
 about-telemetry-raw-payload-section = Ακατέργαστο ωφέλιμο φορτίο
 about-telemetry-raw = Ακατέργαστη JSON
@@ -121,10 +120,6 @@ about-telemetry-addon-provider = Πάροχος { $addonProvider }
 about-telemetry-keys-header = Ιδιότητα
 about-telemetry-names-header = Όνομα
 about-telemetry-values-header = Τιμή
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (μέτρηση καταλήψεων: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Καθυστερημένη εγγραφή #{ $lateWriteCount }

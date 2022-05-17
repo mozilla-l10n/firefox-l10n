@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "θ">
 <!ENTITY newVirtualFolderCmd.label "Αποθηκευμένη αναζήτηση…">
 <!ENTITY newVirtualFolderCmd.accesskey "θ">
-<!ENTITY newOtherAccountsCmd.label "Άλλοι λογαριασμοί…">
-<!ENTITY newOtherAccountsCmd.accesskey "λ">
 <!ENTITY newCreateEmailAccountCmd.label "Απόκτηση νέου λογαριασμού email…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "γ">
 <!ENTITY newExistingEmailAccountCmd.label "Υπάρχων λογαριασμός email…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "ν">
 <!ENTITY saveAsMenu.label "Αποθήκευση ως">
 <!ENTITY saveAsMenu.accesskey "θ">
-<!ENTITY saveAsFileCmd.label "Αρχείο">
-<!ENTITY saveAsFileCmd.accesskey "χ">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Πρότυπο">
 <!ENTITY saveAsTemplateCmd.accesskey "Π">

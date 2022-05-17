@@ -10,28 +10,10 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                  "Διαχείριση δραστηριοτήτων">
 
-<!ENTITY cmd.pause.label                  "Παύση">
-<!ENTITY cmd.pause.accesskey              "Π">
-<!ENTITY cmd.resume.label                 "Συνέχεια">
-<!ENTITY cmd.resume.accesskey             "ν">
-<!ENTITY cmd.cancel.label                 "Ακύρωση">
-<!ENTITY cmd.cancel.accesskey             "κ">
-<!ENTITY cmd.undo.label                   "Αναίρεση">
-<!ENTITY cmd.undo.accesskey               "Α">
-<!ENTITY cmd.recover.label                "Ανάκτηση">
-<!ENTITY cmd.recover.accesskey            "κ">
-<!ENTITY cmd.retry.label                  "Επανάληψη">
-<!ENTITY cmd.retry.accesskey              "Ε">
-<!ENTITY cmd.removeFromList.label         "Αφαίρεση από τη λίστα">
-<!ENTITY cmd.removeFromList.accesskey     "τ">
-
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Απαλοιφή λίστας">
 <!ENTITY cmd.clearList.tooltip            "Αφαιρεί ολοκληρωμένα, ακυρωμένα και αποτυχημένα στοιχεία από τη λίστα">
 <!ENTITY cmd.clearList.accesskey          "φ">
-<!ENTITY cmd.find.commandkey              "f">
-<!ENTITY cmd.search.commandkey            "k">
 
-<!ENTITY searchBox.label                  "Αναζήτηση…">

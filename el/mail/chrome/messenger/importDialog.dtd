@@ -24,9 +24,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "Φίλτρα">
 <!ENTITY importFilters.accesskey  "Φ">
 
-<!ENTITY  window.width            "48em">
-<!ENTITY  window.macWidth         "50em">
-
 <!ENTITY importTitle.label        "Βοηθός εισαγωγής του &brandShortName;">
 <!ENTITY importShortDesc.label    "Εισαγωγή αλληλογραφίας, ευρετήριου διευθύνσεων και φίλτρων από άλλα προγράμματα">
 

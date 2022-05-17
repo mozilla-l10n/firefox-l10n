@@ -23,9 +23,6 @@ compatibility-issue-deprecated-experimental-prefixneeded = (παρωχημένο
 compatibility-settings-button-label = Ρυθμίσεις
 compatibility-settings-button-title =
     .title = Ρυθμίσεις
-compatibility-feedback-button-label = Σχόλια
-compatibility-feedback-button-title =
-    .title = Σχόλια
 
 ## Messages used as headers in settings pane
 
@@ -42,9 +39,11 @@ compatibility-issue-occurrences =
         [one] { $number } εμφάνιση
        *[other] { $number } εμφανίσεις
     }
+
 compatibility-no-issues-found = Δεν βρέθηκαν ζητήματα συμβατότητας
 compatibility-close-settings-button =
     .title = Κλείσιμο ρυθμίσεων
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

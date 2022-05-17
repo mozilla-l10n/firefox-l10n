@@ -4,8 +4,10 @@
 
 account-settings-title = Ρυθμίσεις ταυτοποίησης
 account-channel-title = Προεπιλεγμένα κανάλια
+
 chat-autologin =
     .label = Σύνδεση κατά την εκκίνηση
+
 chat-encryption-generic = Γενικά
 chat-encryption-log =
     .label = Συμπερίληψη διατερματικά κρυπτογραφημένων μηνυμάτων σε αρχεία συνομιλιών

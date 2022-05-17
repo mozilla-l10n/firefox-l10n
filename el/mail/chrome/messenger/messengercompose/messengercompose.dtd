@@ -21,9 +21,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Ιστοσελίδα…">
 <!ENTITY attachPageCmd.accesskey "σ">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Προσωπική κάρτα (vCard)">
-<!ENTITY attachVCardCmd.accesskey "ο">
 <!ENTITY remindLater.label "Υπενθύμιση αργότερα">
 <!ENTITY remindLater.accesskey "Υ">
 <!ENTITY closeCmd.label "Κλείσιμο">
@@ -149,16 +146,6 @@
 <!ENTITY returnReceiptMenu.accesskey "β">
 <!ENTITY dsnMenu.label "Ειδοποίηση κατάστασης παράδοσης">
 <!ENTITY dsnMenu.accesskey "δ">
-<!ENTITY deliveryFormatMenu.label "Μορφή παράδοσης">
-<!ENTITY deliveryFormatMenu.accesskey "Μ">
-<!ENTITY autoFormatCmd.label "Αυτόματος εντοπισμός">
-<!ENTITY autoFormatCmd.accesskey "τ">
-<!ENTITY plainTextFormatCmd.label "Μόνο απλό κείμενο">
-<!ENTITY plainTextFormatCmd.accesskey "α">
-<!ENTITY htmlFormatCmd.label "Μόνο εμπλουτισμένο κείμενο (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "π">
-<!ENTITY bothFormatCmd.label "Απλό και HTML κείμενο">
-<!ENTITY bothFormatCmd.accesskey "κ">
 <!ENTITY priorityMenu.label "Προτεραιότητα">
 <!ENTITY priorityMenu.accesskey "ρ">
 <!ENTITY priorityButton.title "Προτεραιότητα">
@@ -222,7 +209,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Άλλοι τύποι πεδίων διευθυνσιοδότησης">
 <!ENTITY fromAddr2.label "Από">
 <!ENTITY fromAddr.accesskey "π">
 <!ENTITY replyAddr2.label "Απάντηση προς">

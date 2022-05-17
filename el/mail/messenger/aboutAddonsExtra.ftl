@@ -10,4 +10,3 @@ add-on-search-alternative-button-label = Εύρεση εναλλακτικού �
 atn-addons-heading-search-input =
     .placeholder = Αναζήτηση στο addons.thunderbird.net
 
-sidebar-preferences-button-title = Προτιμήσεις { -brand-short-name }

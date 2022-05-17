@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Επιπρόσθετο email:">
 <!ENTITY SecondEmail.accesskey          "i">
-<!ENTITY PreferMailFormat.label         "Προτιμώμενη μορφή ληφθέντων μηνυμάτων:">
-<!ENTITY PreferMailFormat.accesskey     "μ">
 <!ENTITY PlainText.label                "Απλό κείμενο">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Άγνωστη">
