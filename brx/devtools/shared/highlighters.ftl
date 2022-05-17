@@ -13,12 +13,16 @@
 # $row (integer) - The row index
 # $column (integer) - The column index
 grid-row-column-positions = सारि { $row } / खाम्फा { $column }
+
 # The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is a grid container.
 gridtype-container = ग्रिड दोनग्रा
+
 # The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is a grid item.
 gridtype-item = ग्रिड आइटेम
+
 # The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is both a grid container and a grid item.
 gridtype-dual = ग्रिड दोनग्रा/Item
+

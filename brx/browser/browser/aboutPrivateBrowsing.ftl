@@ -6,8 +6,10 @@ privatebrowsingpage-open-private-window-label = मोनसे प्राइ�
     .accesskey = P
 about-private-browsing-search-placeholder = वेबौ नागिर
 about-private-browsing-info-title = नंथांआ मोनसे प्राइभेट उइन्ड'अव दं
-about-private-browsing-info-myths = आन्दोनि नागिरसंनायनि सोमोन्दै साधारण फोथायनाय |
 about-private-browsing-not-private = नोंथाङा दासान्दि मोनसे प्राइभेट उइन्ड'आव गैया।
+
+## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-search-banner-close-button =
     .aria-label = बन्द खालाम
+

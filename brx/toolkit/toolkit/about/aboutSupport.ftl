@@ -37,6 +37,7 @@ app-basics-user-agent = बाहायग्रा थान्दै
 app-basics-os = OS
 app-basics-memory-use = मेमरि बाहायनाय
 app-basics-multi-process-support = माल्टिप्रसेस उइन्ड'स
+
 modified-key-prefs-title = गोनांथार फोसाबनाय पसन्दफोर
 modified-prefs-name = मुं
 modified-prefs-value = बेसेन

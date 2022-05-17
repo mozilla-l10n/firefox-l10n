@@ -45,6 +45,13 @@ whatsnew-panel-header = मा गोदान
 ## "Enable Profiler Menu Button".
 
 
+## Profiler presets
+## They are shown in the popup's select box.
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 ## History panel
 
 appmenu-restore-session =
@@ -62,9 +69,6 @@ appmenu-recently-closed-windows =
 appmenu-about =
     .label = About { -brand-shorter-name }
     .accesskey = A
-appmenu-help-feedback-page =
-    .label = फिनथाइखौ गथाय...
-    .accesskey = S
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -79,5 +83,3 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
-appmenu-taskmanager =
-    .label = टास्क मेनेजार

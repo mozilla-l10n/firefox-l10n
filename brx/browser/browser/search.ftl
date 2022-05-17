@@ -10,7 +10,9 @@
 
 opensearch-error-duplicate-title = इनष्टल गोरोन्थि
 opensearch-error-duplicate-desc = "{ -brand-short-name }" निफ्राय { $location-url } आ नागिरनाय प्लागिनखौ इनष्टल खालामनो हायाखै बै मुंनि इन्जिनआ सिगाङावनो दं।
+
 opensearch-error-format-title = बाहायजायै फरमेट
+
 opensearch-error-download-title = डाउनल'ड गोरोन्थि
 opensearch-error-download-desc = निफ्राय { -brand-short-name } आ नागिरनाय प्लागिनखौ डाउनल'ड खालामनो हायाखै: { $location-url }
 
@@ -19,5 +21,12 @@ opensearch-error-download-desc = निफ्राय { -brand-short-name } आ
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = नागिर
+
 searchbar-icon =
     .tooltiptext = नागिर
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+

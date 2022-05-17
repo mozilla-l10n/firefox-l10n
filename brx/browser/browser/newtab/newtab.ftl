@@ -14,15 +14,9 @@ newtab-search-box-search-button =
     .title = नागिर
     .aria-label = नागिर
 
-newtab-search-box-search-the-web-input =
-    .placeholder = वेबौ नागिर
-    .title = वेबौ नागिर
-    .aria-label = वेबौ नागिर
-
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = नागिरनाय इन्जिनखौ दाजाबदेर
-newtab-topsites-add-topsites-header = गोदान गिबि साइट खेव
 newtab-topsites-edit-topsites-header = गिबि साइटखौ सुजु
 newtab-topsites-title-label = बिमुं
 newtab-topsites-title-input =
@@ -139,7 +133,6 @@ newtab-section-menu-privacy-notice = गुमुरथि मिथिसार
 ## Section Headers.
 
 newtab-section-header-topsites = गिबि साइटफोर
-newtab-section-header-highlights = हाइलाइटफोर
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } आ बसोन होनाइ
@@ -155,6 +148,9 @@ newtab-discovery-empty-section-topstories-loading = ल'ड खालाम ग�
 ## Pocket Content Section.
 
 newtab-pocket-cta-button = { -pocket-brand-name } ला
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

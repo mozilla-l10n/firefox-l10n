@@ -18,12 +18,14 @@ videocontrols-casting-button-label =
     .aria-label = स्क्रिनआव कास्ट
 videocontrols-closed-caption-off =
     .offlabel = अफ
+
 videocontrols-error-aborted = भिडिअ ल'ड खालामनायखौ बन्द खालामबाय।
 videocontrols-error-network = मोनथिमोनै जाहोननि थाखाय भिडिअ प्लेबेकखौ गारबाय।
 videocontrols-error-decode = डिभिअखौ दामनो हाया मानोना फाइला गाज्रि जाबाय।
 videocontrols-error-src-not-supported = भिडिअ फरमेट एबा MIME रोखोमा हेफाजाब होजाया।
 videocontrols-error-no-source = हेफाजाब होजानाय फटमेटजों जेबो भिडिअ आरो MIME रोखोम मोनाखै।
 videocontrols-error-generic = मोनथिमोनै जाहोननि थाखाय भिडिअ प्लेबेकखौ गारबाय।
+
 # This message shows the current position and total video duration
 #
 # Variables:

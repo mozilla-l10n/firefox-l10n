@@ -35,15 +35,6 @@ menu-quit =
            *[other] Q
         }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = { -brand-shorter-name } ओंखार लां
-
 menu-about =
     .label = About { -brand-shorter-name }
     .accesskey = A
@@ -73,9 +64,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = फाइलखौ खेव...
     .accesskey = O
-menu-file-close =
-    .label = बन्द खालाम
-    .accesskey = C
 menu-file-close-window =
     .label = उइन्ड'खौ बन्द खालाम
     .accesskey = d
@@ -88,9 +76,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = बिलाइनि सेटआप...( u)
     .accesskey = u
-menu-file-print-preview =
-    .label = साफायनाय गिबि नुथाय
-    .accesskey = v
 menu-file-print =
     .label = साफाय...( P)
     .accesskey = P
@@ -261,9 +246,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = मदद
     .accesskey = H
-menu-help-feedback-page =
-    .label = फिनथाइखौ गथाय...
-    .accesskey = S
 menu-help-not-deceptive =
     .label = बे जायगाया गाजि् जानाय नंआ
     .accesskey = ज

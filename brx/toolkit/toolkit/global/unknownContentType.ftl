@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] सेटिंखौ { -brand-short-name }नि उफ्राफोराव सोलायनो हायो।
            *[other] सेटिंखौ { -brand-short-name }नि पसन्दफोराव सोलायनो हायो।
         }
+
 unknowncontenttype-intro = खेवनो नोंथाङा बासिखबाय:
 unknowncontenttype-which-is = मबेया:
 unknowncontenttype-from = निफ्राय:

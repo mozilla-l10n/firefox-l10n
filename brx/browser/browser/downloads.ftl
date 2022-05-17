@@ -13,12 +13,6 @@ downloads-panel =
 
 ##
 
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of 
-# in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-
 downloads-cmd-pause =
     .label = थाद' हो
     .accesskey = P
@@ -29,36 +23,13 @@ downloads-cmd-cancel =
     .tooltiptext = नेवसिगार
 downloads-cmd-cancel-panel =
     .aria-label = नेवसिगार
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = फल्डार थानायखौ खेव
-    .accesskey = F
   
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = नागिरना दिहुनग्राआव दिन्थि
-    .accesskey = F
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] नागिरना दिहुनग्राआव दिन्थि
-           *[other] फल्डार थानायखौ खेव
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] नागिरना दिहुनग्राआव दिन्थि
-           *[other] फल्डार थानायखौ खेव
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] नागिरना दिहुनग्राआव दिन्थि
-           *[other] फल्डार थानायखौ खेव
-        }
+##
 
 downloads-cmd-show-downloads =
     .label = डाउनल'ड फल्डारखौ दिन्थि
@@ -128,6 +99,13 @@ downloads-history =
 downloads-details =
     .title = डाउनॱलदखौ बुंफोतनाय
 
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
+
 downloads-clear-downloads-button =
     .label = डाउनल'डफोरखौ खोमोर
     .tooltiptext = डाउनल'डनि फुरा जानाय, बातिल जानाय आरो फेलें जानायखौ खोमोरो
@@ -140,3 +118,4 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = बे जथुम्मानि थाखाय जेबो डाउनल'ड गैया।
+

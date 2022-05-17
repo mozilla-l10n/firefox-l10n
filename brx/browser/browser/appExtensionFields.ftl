@@ -7,6 +7,7 @@
 
 extension-firefox-compact-light-name = सोरां
 extension-firefox-compact-light-description = सोरां गाब गोनां हाबाफारिनि मोनसे थिम
+
 extension-firefox-compact-dark-name = सोमखे
 extension-firefox-compact-dark-description = सोमखे सोरां गाब गोनां हाबाफारिनि मोनसे थिम
 

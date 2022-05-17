@@ -3,6 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = फिन जागायनो नांगौ
-restart-required-header = निमाहा बिबाय,  सिगाङाव थांनायनि सिगां मोनसे फिसा खामानि
 
 restart-button-label = { -brand-short-name } फिन जागाय

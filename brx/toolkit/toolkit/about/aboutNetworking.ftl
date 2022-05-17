@@ -14,7 +14,6 @@ about-networking-ssl = SSL
 about-networking-active = मावथि
 about-networking-idle = अलसिया
 about-networking-host = हस्ट
-about-networking-tcp = TCP
 about-networking-sent = दैथाय हरबाय
 about-networking-received = मोनबाय
 about-networking-family = नखर

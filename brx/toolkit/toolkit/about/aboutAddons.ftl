@@ -3,51 +3,72 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Add-ons मेनेजार
+
 search-header =
     .placeholder = नागिर addons.mozilla.org
     .searchbuttonlabel = नागिर
+
 search-header-shortcut =
     .key = f
+
 list-empty-installed =
     .value = नोंथांहा इनष्टल खालामखानाय बे रोखोमनि जेबो add-ons गैया।
+
 list-empty-available-updates =
     .value = जेबो आपडेट मोनाखै
+
 list-empty-recent-updates =
     .value = नोंथाङा दाबावैसो जेबो add-ons खौ आपडेट खालामाखै
+
 list-empty-find-updates =
     .label = आपडेटफोरनि थाखाय आनजाद खालाम
+
 list-empty-button =
     .label = add-ons नि सोमोन्दै गोबां सोलों
+
 detail-version =
     .label = लिरस्लायनाय
+
 detail-last-updated =
     .label = जोबथा आपडेट खालामनाय
+
 detail-contributions-description = इसे बिहोमा होनानै जौगानायाव मदद होलांबाय थानो बे add-on नि जौगाखांहोग्राया नोंथांनाव सोङो
+
 detail-update-type =
     .value = गावनो गाव आपडेटफोर
+
 detail-update-default =
     .label = डिफल्ट
     .tooltiptext = डिफल्टब्ला आपडेटफोरखौ गावनो गाव महरै इनष्टल खालाम
+
 detail-update-automatic =
     .label = अन
     .tooltiptext = आपडेटफोरखौ गावनो गाव महरै इनष्टल खालाम
+
 detail-update-manual =
     .label = अफ
     .tooltiptext = आपडेटफोरखौ गावनो गाव महरै इनष्टल खालामा
+
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = प्राइभेटफोरौ सोलाय
+
 detail-home =
     .label = ह'मबिलाइ
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = Add-on प्रफाइल
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = आपडेटफोरनि थाखाय आनजाद खालाम
     .accesskey = f
     .tooltiptext = बे add-on नि थाखाय आपडेटफोरनि थाखाय आनजाद खालाम
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -64,10 +85,13 @@ detail-show-preferences =
             [windows] बे add-on नि उफ्राफोरखौ सोलाय
            *[other] बे add-on नि पसन्दखौ सोलाय
         }
+
 detail-rating =
     .value = थाखो फारि
+
 addon-restart-now =
     .label = दानो फिन जागाय
+
 addon-category-extension = बारायनायफोर
 addon-category-extension-title =
     .title = बारायनायफोर
@@ -141,13 +165,16 @@ addon-install-from-file-filter-name = Add-ons
 ## Extension shortcut management
 
 shortcuts-card-collapse-button = इसेल' दिन्थि
+
 header-back-button =
     .title = थांफिन
 
 ## Recommended add-ons page
 
 discopane-notice-learn-more = गोबां सोलों
+
 privacy-policy = गुमुरगोनां पलिसि
+
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -155,6 +182,7 @@ created-by-author = जों <a data-l10n-name="author">{ $author }</a>
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = मेनेज खालाम
+
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -173,23 +201,31 @@ preferences-addon-button =
 details-addon-button = गुवारै
 release-notes-addon-button = ओंखारनाय लिरसुंथाइ
 permissions-addon-button = गनायथि
+
 extension-enabled-heading = मावथि खालामबाय
 extension-disabled-heading = लोरबां जाबाय
+
 theme-enabled-heading = मावथि खालामबाय
 theme-disabled-heading = लोरबां जाबाय
+
 plugin-enabled-heading = मावथि खालामबाय
 plugin-disabled-heading = लोरबां जाबाय
+
 dictionary-enabled-heading = मावथि खालामबाय
 dictionary-disabled-heading = लोरबां जाबाय
+
 locale-enabled-heading = मावथि खालामबाय
 locale-disabled-heading = लोरबां जाबाय
+
 always-activate-button = अरायबो मावथि खालाम
 never-activate-button = माब्लाबाबो मावथि खालामनो नाङा
+
 addon-detail-author-label = लिरगिरि
 addon-detail-version-label = लिरस्लायनाय
 addon-detail-last-updated-label = जोबथा आपडेट खालामनाय
 addon-detail-homepage-label = ह'मबिलाइ
 addon-detail-rating-label = थाखो फारि
+
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -198,11 +234,13 @@ addon-name-disabled = { $name } (लोरबां जाबाय)
 ## Pending uninstall message bar
 
 pending-uninstall-undo-button = सिगांनि महराव लाबोफिन
+
 addon-detail-updates-radio-default = डिफल्ट
 addon-detail-updates-radio-on = अन
 addon-detail-updates-radio-off = अफ
 addon-detail-update-check-label = आपडेटफोरनि थाखाय आनजाद खालाम
 install-update-button = आपडेट खालाम
+
 addon-detail-private-browsing-allow = गनायथि हो
 addon-detail-private-browsing-disallow = गनायथि दाहो
 
@@ -214,6 +252,7 @@ addon-detail-private-browsing-disallow = गनायथि दाहो
 
 available-updates-heading = थानाय आपडेटफोर
 recent-updates-heading = दानि आपडेट
+
 release-notes-loading = ल'ड खालाम गासिनो दं...
 release-notes-error = निमाहा, नाथाय ओंखारनाय लिरसुंथाइखौ ल'ड खालामनाय समाव गोरोन्थि जादों।
 
@@ -221,6 +260,7 @@ release-notes-error = निमाहा, नाथाय ओंखारना�
 
 addons-heading-search-input =
     .placeholder = नागिर addons.mozilla.org
+
 addon-page-options-button =
     .title = गासै add-ons नि थाखाय टुल्‌स
 
@@ -231,9 +271,14 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } आ { -brand-short-name } { $version } जों गोरोबा।
+
 details-notification-unsigned-and-disabled-link = गोबां फोरमायथिहोग्रा
+
 details-notification-unsigned-link = गोबां फोरमायथिहोग्रा
+
 details-notification-blocked = { $name } खौ रैखाथि एबा दिदोमथि जेंनानि थाखाय लोरबां खालामनाय जाबाय।
 details-notification-blocked-link = गोबां फोरमायथिहोग्रा
+
 details-notification-softblocked = { $name } खौ रैखाथि एबा दिदोमथि जेंनानि थाखाय मोनथिजायो।
 details-notification-softblocked-link = गोबां फोरमायथिहोग्रा
+

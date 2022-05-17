@@ -17,12 +17,14 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = गासै टेबखौ सायख
     .accesskey = S
+
 toolbar-context-menu-remove-from-toolbar =
     .label = टुलबार निफ्राय बोखार
     .accesskey = R
 toolbar-context-menu-view-customize-toolbar =
     .label = गावनि गोसोबादि माव...
     .accesskey = C
+
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = मेनु बार
     .accesskey = M

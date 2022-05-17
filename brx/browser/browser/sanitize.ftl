@@ -72,10 +72,6 @@ item-form-search-history =
 
 data-section-label = डाटा
 
-item-site-preferences =
-    .label = साइट पसन्द
-    .accesskey = S
-
 item-offline-apps =
     .label = अफलाइन वेबसाइट डाटा
     .accesskey = अ

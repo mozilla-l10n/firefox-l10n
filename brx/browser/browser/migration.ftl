@@ -50,18 +50,8 @@ import-done-page-title = लाबोनाया जोबबाय
 
 import-done-description = गाहायनि आइटेमफोरखौ जाफुंसारै लाबोबाय:
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = { $source } निफ्राय
-
 source-name-ie = इन्टारनेट एक्सप्ल'रार
-source-name-safari = साफारि
 source-name-chrome = गुगल क्रम
-source-name-chrome-beta = गुगल क्रम बेटा
-source-name-chrome-dev = गुगल क्रम देभ
-source-name-firefox = मजिला फायारफक्स
 
 imported-safari-reading-list = (साफारि निफ्राय) लिस्टखौ फराय गासिनो दं
 

@@ -75,9 +75,6 @@
 <!ENTITY corruptedContentErrorv2.title "रैखाथि फोनांजाबा फेलें जाबाय">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>नोंथाङा नायनो नाजानाय बिलाइखौ दिन्थिनो हाया मानोना डाटा दैथायनायाव जानाय गोरोन्थिखौ संना दिहुनबाय।।</p><ul><li>बे जेंनाखौ खिन्थानो वेबसाइट बिगोमाजों जगाजग खालाम।</li></ul>">
 
-<!ENTITY remoteXUL.title "गोजाननि XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>बे जेंनाखौ खिन्थानो वेबसाइट बिगोमाजों जगाजग खालाम।</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

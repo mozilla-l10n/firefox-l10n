@@ -75,8 +75,6 @@ was trying to connect. -->
 
 <!ENTITY errorReporting.learnMore "गोबां सोलों">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>बे जेंनाखौ वेबसाइट बिगोमानो खिन्थानो जगाजग खालाम।</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "जौगाहोनाय मोनथिहोनाय: SSL_ERROR_UNSUPPORTED_VERSION">
