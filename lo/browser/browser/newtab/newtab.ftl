@@ -16,15 +16,9 @@ newtab-search-box-search-button =
     .title = ຊອກ​ຫາ
     .aria-label = ຊອກ​ຫາ
 
-newtab-search-box-search-the-web-input =
-    .placeholder = ຊອກຫາເວັບ
-    .title = ຊອກຫາເວັບ
-    .aria-label = ຊອກຫາເວັບ
-
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = ເພີ່ມ Search Engine
-newtab-topsites-add-topsites-header = ເວັບໄຊທ໌ຍອດນິຍົມໃຫມ່
 newtab-topsites-edit-topsites-header = ແກ້ໄຂເວັບໄຊທ໌ຍອດນິຍົມ
 newtab-topsites-title-label = ຊື່ເລື່ອງ
 newtab-topsites-title-input =
@@ -139,7 +133,6 @@ newtab-section-menu-privacy-notice = ນະໂຍບາຍຄວາມເປັ�
 ## Section Headers.
 
 newtab-section-header-topsites = ເວັບໄຊຕ໌ຍອດນິຍົມ
-newtab-section-header-highlights = ລາຍການເດັ່ນ
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = ແນະນຳໂດຍ { $provider }
@@ -163,6 +156,9 @@ newtab-pocket-read-more = ຫົວຂໍ້ຍອດນິຍົມ:
 newtab-pocket-more-recommendations = ຂໍ້ແນະນໍາເພີ່ມເຕີມ
 newtab-pocket-cta-button = ຮັບ { -pocket-brand-name }
 newtab-pocket-cta-text = ຊ່ວຍບັນທຶກເລື່ອງທີ່ທ່ານຮັກໃນ { -pocket-brand-name }, ແລະນ້ໍາໃຈຂອງທ່ານກັບອ່ານທີ່ຫນ້າສົນໃຈ.
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

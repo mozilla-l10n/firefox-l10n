@@ -6,3 +6,5 @@ privatebrowsingpage-open-private-window-label = ເປີດວິນໂດສ�
     .accesskey = ສ
 about-private-browsing-not-private = ປະຈຸບັນນີ້ທ່ານບໍ່ໄດ້ຢູ່ໃນວິນໂດສ່ວນຕົວ.
 
+## The following strings will be used for experiments in Fx99 and Fx100
+

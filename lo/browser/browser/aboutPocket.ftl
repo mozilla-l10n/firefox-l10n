@@ -41,3 +41,7 @@ pocket-panel-signup-tagline-story-two = ເບີ່ງໃນ { -pocket-brand-na
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

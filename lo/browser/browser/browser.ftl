@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (ການທ່ອງເວັບແບບສ່ວນຕົວ)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (ການທ່ອງເວັບແບບສ່ວນຕົວ)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (ການທ່ອງເວັບແບບສ່ວນຕົວ)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (ການທ່ອງເວັບແບບສ່ວນຕົວ)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -89,6 +91,7 @@ urlbar-addons-notification-anchor =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ແກ້ໄຂບຸກມາກນີ້ ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -112,12 +115,14 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ປ່ຽນການຕັ້ງຄ່າການຊອກຫາ
+
 search-one-offs-context-open-new-tab =
     .label = ຊອກຫາໃນແທັບໃຫມ່
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = ຕັ້ງເປັນເຄື່ອງມືການຊອກຫາເລີ່ມຕົ້ນ
     .accesskey = D
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -141,6 +146,7 @@ bookmark-panel-cancel =
 bookmark-panel-remove =
     .label = ລຶບ { $count } ບຸກມາກ
     .accesskey = R
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -152,6 +158,7 @@ bookmark-panel =
 identity-connection-internal = ນີ້ເປັນຫນ້າ { -brand-short-name } ທີ່ປອດໄພ.
 identity-passive-loaded = ເນື້ອຫາບາງສ່ວນໃນຫນ້ານີ້ບໍ່ມີຄວາມປອດໄພ (ເຊັ່ນວ່າຮູບພາບ)
 identity-insecure-login-forms = ການປ້ອນຂໍ້ມູນການລັອກອິນທີ່ໃສ່ໄວ້ເທິງຫນ້ານີ້ອາດຈະຖືກບຸກລຸກໄດ້.
+
 identity-permissions-reload-hint = ທ່ານອາດຕ້ອງໂຫລດຫນ້າຄືນໃຫມ່ເພື່ອໃຫ້ການປ່ຽນແປງມີຜົນ.
 identity-clear-site-data =
     .label = ລ້າງຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊ…
@@ -200,15 +207,19 @@ browser-window-close-button =
 
 urlbar-placeholder =
     .placeholder = ຊອກຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = ຊອກຫາດ້ວຍ { $name } ຫລື ປ້ອນທີ່ຢູ່ໃສ່
+
 urlbar-switch-to-tab =
     .value = ຍ້າຍໄປແທັບ:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ສ່ວນຂະຫຍາຍ:
+
 urlbar-go-button =
     .tooltiptext = ໄປຫາທີ່ຢູ່ໃນແຖບຕຳແຫນ່ງທີ່ຢູ່
 urlbar-page-action-button =
@@ -240,9 +251,12 @@ urlbar-result-action-visit = ຢ້ຽມຢາມ
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ເຕັມຈໍຢູ່
 fullscreen-warning-no-domain = ເອກະສານນີ້ເຕັມຈໍຢູ່
+
+
 fullscreen-exit-button = ອອກຈາກໂຫມດເຕັມຫນ້າຈໍ (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = ອອກຈາກໂຫມດເຕັມຫນ້າຈໍ (Esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -288,6 +302,7 @@ bookmarks-tools =
     .label = ເຄື່ອງມືບຸກມາກ
 bookmarks-bookmark-edit-panel =
     .label = ແກ້ໄຂບຸກມາກນີ້
+
 bookmarks-toolbar-menu =
     .label = ແຖບເຄື່ອງມືບຸກມາກ
 bookmarks-toolbar-placeholder =
@@ -311,28 +326,30 @@ library-bookmarks-menu =
 
 ## More items
 
-more-menu-go-offline =
-    .label = ເຮັດວຽກອອບໄລນ໌
-    .accesskey = k
 toolbar-overflow-customize-button =
     .label = ປັບແຕ່ງແຖບເຄື່ອງມື…
     .accesskey = C
+
 toolbar-button-email-link =
     .label = ລີ້ງອີເມລ
     .tooltiptext = ລີ້ງອີເມລໄປຫາຫນ້ານີ້
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = ບັນທຶກຫນ້າເວັບ
     .tooltiptext = ບັນທຶກຫນ້ານີ້ ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = ເປີດໄຟລ໌
     .tooltiptext = ເປີດຟາຍ ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = ແທັບທີ່ຊິງຄ໌ແລ້ວ
     .tooltiptext = ສະແດງແທັບຈາກອຸປະກອນອື່ນ
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -378,28 +395,36 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = ດາວໂຫລດ
+
 navbar-overflow =
     .tooltiptext = ເຄື່ອງມືເພີ່ມເຕີມ…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = ພິມ
     .tooltiptext = ພິມຫນ້ານີ້… ({ $shortcut })
+
 navbar-home =
     .label = ຫນ້າຫລັກ
     .tooltiptext = ຫນ້າຫລັກ { -brand-short-name }
+
 navbar-library =
     .label = ຄັງ
     .tooltiptext = ເບິ່ງປະຫວັດການໃຊ້ງານ, ບຸກມາກທີ່ບັນທຶກໄວ້, ແລະອື່ນໆ
+
 navbar-search =
     .title = ຊອກຫາ
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = ແທັບບຣາວເຊີ
+
 tabs-toolbar-new-tab =
     .label = ແທັບໃຫມ່
+
 tabs-toolbar-list-all-tabs =
     .label = ສະແດງລາຍຊື່ແຖບທັງໝົດ
     .tooltiptext = ສະແດງລາຍຊື່ແຖບທັງໝົດ

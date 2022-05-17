@@ -89,8 +89,6 @@
 <!ENTITY errorReporting.automatic2 "ລາຍງານຂໍ້ຜິດພາດເຊັ່ນນີ້ເພື່ອຊ່ວຍ Mozilla ລະບຸແລະບັອກເວັບໄຊທ໌ທີ່ເປັນອັນຕະລາຍ">
 <!ENTITY errorReporting.learnMore "ຮຽນຮູ້ເພີ່ມເຕີມ...​">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໄຊທ໌ເພື່ອແຈ້ງບັນຫານີ້.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "ຂໍ້ມູນຂັ້ນສູງ: SSL_ERROR_UNSUPPORTED_VERSION">

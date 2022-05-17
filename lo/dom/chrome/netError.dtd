@@ -55,8 +55,6 @@
 
 <!ENTITY corruptedContentErrorv2.title "ມີການຜີດຜາດໃນການເຊື່ອມຍົງເນື້ອຫາ">
 
-<!ENTITY remoteXUL.title "XUL ທາງໄກ">
-
 <!ENTITY inadequateSecurityError.title "ການເຊື່ອມຕໍ່ຂອງທ່ານບໍ່ປອດໄພ">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

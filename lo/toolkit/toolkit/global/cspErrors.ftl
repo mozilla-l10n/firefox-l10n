@@ -6,7 +6,9 @@
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
 csp-error-missing-host = { $scheme }: ໂປຣໂຕຄໍຕ້ອງການໃຫ້ໂຮສທ໌ຢູ່ໃນທິດທາງ ‘{ $directive }’
+
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $source (String): the name of a CSP source, usually 'self'.
 csp-error-missing-source = ‘{ $directive }’ ຈະຕ້ອງປະກອບມີແຫລ່ງທີ່ມາ { $source }
+

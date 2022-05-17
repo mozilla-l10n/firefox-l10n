@@ -15,7 +15,6 @@ about-networking-ssl = SSL
 about-networking-active = ​ເປີດໃຊ້ງານ
 about-networking-idle = ວ່າງ
 about-networking-host = Host
-about-networking-tcp = TCP
 about-networking-sent = ສົ່ງ
 about-networking-received = ໄດ້ຮັບ
 about-networking-family = ຄອບຄົວ

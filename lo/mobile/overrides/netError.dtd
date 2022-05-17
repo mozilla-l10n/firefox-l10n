@@ -99,9 +99,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "<p>ທ່ານບໍ່ຄວນຈະເພີ່ມຂໍ້ຍົກເວັ້ນຖ້າທ່ານກຳລັງເຊື່ອມຕໍ່ກັບອິນເຕີເນັດທີ່ທ່ານບໍ່ໄວ້ໃຈ ຫລື ຖ້າທ່ານບໍ່ເຄີຍເຫັນຄຳເຕືອນສໍາລັບເຄື່ອງແມ່ຂ່າຍນີ້.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "XUL ທາງໄກ">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໄຊທ໌ເພື່ອແຈ້ງບັນຫານີ້.</li></ul></p>">
-
 <!ENTITY sslv3Used.title "ບໍ່ສາມາດເຊື່ອມຕໍ່ໄດ້ຢ່າງປອດໄພ">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->

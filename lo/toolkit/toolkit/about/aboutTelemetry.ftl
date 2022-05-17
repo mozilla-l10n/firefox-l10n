@@ -31,7 +31,6 @@ about-telemetry-events-section = ເຫດການ
 about-telemetry-simple-measurements-section = ການວັດແທກທີ່ງ່າຍດາຍ
 about-telemetry-slow-sql-section = ຄຳສັ່ງ SQL ທີ່ເຮັດວຽກຊ້າ
 about-telemetry-addon-details-section = ລາຍລະອຽດຂອງ Add-on
-about-telemetry-captured-stacks-section = Stacks ທີ່ຈັບພາບໄດ້
 about-telemetry-late-writes-section =   ການຂຽນພາຍຫລັງ
 about-telemetry-raw-payload-section = Raw Payload
 about-telemetry-raw = Raw JSON
@@ -105,10 +104,6 @@ about-telemetry-addon-provider = ຜູ້ໃຫ້ບໍລິການ { $addo
 about-telemetry-keys-header = ຄຸນສົມບັດ​
 about-telemetry-names-header = ​ຊື່​
 about-telemetry-values-header = ​ຄ່າ​
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (ຈຳນວນການຈັບພາບ: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = ການຂຽນພາຍຫລັງ #{ $lateWriteCount }

@@ -43,6 +43,7 @@ app-basics-profiles = ໂປ​ຣ​ໄຟ​ລ໌
 app-basics-multi-process-support = ວິນໂດ Multiprocess
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = ໂຫມດປອດໄພ
+
 show-dir-label =
     { PLATFORM() ->
         [macos] ສະແດງໃນ Finder

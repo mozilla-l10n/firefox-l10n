@@ -23,36 +23,13 @@ downloads-cmd-cancel =
     .tooltiptext = ຍົກເລີກ
 downloads-cmd-cancel-panel =
     .aria-label = ຍົກເລີກ
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = ເປີດໂຟນເດີທີ່ບັນຈຸ
-    .accesskey = F
   
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = ສະແດງໃນ Finder
-    .accesskey = F
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] ສະແດງໃນ Finder
-           *[other] ເປີດໂຟນເດີທີ່ບັນຈຸ
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] ສະແດງໃນ Finder
-           *[other] ເປີດໂຟນເດີທີ່ບັນຈຸ
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] ສະແດງໃນ Finder
-           *[other] ເປີດໂຟນເດີທີ່ບັນຈຸ
-        }
+##
 
 downloads-cmd-show-downloads =
     .label = ສະແດງໂຟນເດີດາວໂຫລດ
@@ -148,6 +125,13 @@ downloads-history =
 downloads-details =
     .title = ລາຍລະອຽດການດາວໂຫລດ
 
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
+
 downloads-clear-downloads-button =
     .label = ລ້າງການດາວໂຫລດ
     .tooltiptext = ລ້າງການດາວໂຫລດທີ່ສຳເລັດແລ້ວ, ທີ່ຖືກຍົກເລີກ ແລະ ການດາວໂຫລດທີ່ລົ້ມເຫລວ.
@@ -160,3 +144,4 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = ບໍ່ມີການດາວໂຫລດໃນເຊສຊັນນີ້.
+

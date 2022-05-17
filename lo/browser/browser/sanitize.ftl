@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = ຂໍ້ມູນ
 
-item-site-preferences =
-    .label = ການຕັ້ງຄ່າເວັບໄຊທ໌
-    .accesskey = ຕ
-
 item-offline-apps =
     .label = ຂໍ້ມູນອັອບລາຍຂອງເວັບໄຊທ໌
     .accesskey = ອ
