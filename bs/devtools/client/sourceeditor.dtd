@@ -21,5 +21,4 @@
 
 
 <!ENTITY gotoLineCmd.label         "Idi na liniju…">
-<!ENTITY gotoLineCmd.key           "j">
 <!ENTITY gotoLineCmd.accesskey     "j">

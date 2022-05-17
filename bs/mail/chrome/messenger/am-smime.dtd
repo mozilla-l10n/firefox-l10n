@@ -11,7 +11,6 @@
 <!ENTITY encryption.certificate_clear.button "Očisti">
 <!ENTITY encryption.certificate_clear.accesskey "i">
 <!ENTITY signingGroupTitle.label "Digitalno potpisivanje">
-<!ENTITY signMessage.accesskey "D">
 
 <!-- Strings for the cert picker dialog -->
 

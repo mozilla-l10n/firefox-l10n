@@ -64,7 +64,6 @@ about-logins-list-item-vulnerable-password-icon =
 
 about-logins-login-intro-heading-logged-in = Nema pronađenih sinhronizovanih prijava.
 login-intro-description = Ako ste spasili prijave u { -brand-product-name } na drugom uređaju, evo kako im možete pristupiti:
-about-logins-intro-import = Ako su tvoje prijave spremljene u jednom drugom browseru, možeš ih <a data-l10n-name="import-link"> uvesti u { -lockwise-brand-short-name } </a>
 
 about-logins-intro-import2 = Ako su tvoje prijave spremljene izvan { -brand-product-name }a, možeš ih <a data-l10n-name="import-browser-link">uvesti iz jednog drugog browsera</a> ili <a data-l10n-name="import-file-link">iz jedne datoteke</a>
 

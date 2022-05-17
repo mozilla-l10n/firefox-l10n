@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Podaci
 
-item-site-preferences =
-    .label = Postavke stranice
-    .accesskey = s
-
 item-offline-apps =
     .label = Offline podaci web stranica
     .accesskey = O

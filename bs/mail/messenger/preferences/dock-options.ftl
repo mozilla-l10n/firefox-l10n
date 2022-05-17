@@ -23,4 +23,3 @@ count-new-messages-radio =
     .label = Broj novih poruka
     .accesskey = n
 
-notification-settings-info = Možete onemogućiti značku u okviru obavijesti u postavkama sistema.

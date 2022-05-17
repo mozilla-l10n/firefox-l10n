@@ -12,8 +12,10 @@
 ## the label.
 
 toolbox-meatball-menu-dock-separate-window-label = Zaseban prozor
+
 toolbox-meatball-menu-splitconsole-label = Prikaži podijeljenu konzolu
 toolbox-meatball-menu-hideconsole-label = Sakrij podijeljenu konzolu
+
 toolbox-meatball-menu-settings-label = Postavke
 toolbox-meatball-menu-documentation-label = Dokumentacija…
 toolbox-meatball-menu-community-label = Zajednica…

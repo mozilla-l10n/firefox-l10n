@@ -73,20 +73,9 @@ import-done-description = Sljedeće stavke su uspješno uvezene:
 
 import-close-source-browser = Molimo da osigurate da je izabrani browser zatvoren prije nastavka.
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Iz { $source }
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
-source-name-safari = Safari
-source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
-source-name-chromium = Chromium
-source-name-firefox = Mozilla Firefox
-source-name-360se = 360 sigurni browser
 
 imported-safari-reading-list = Lista za čitanje (iz Safarija)
 imported-edge-reading-list = Lista za čitanje (iz Edge-a)

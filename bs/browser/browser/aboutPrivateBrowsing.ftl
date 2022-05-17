@@ -6,7 +6,6 @@ privatebrowsingpage-open-private-window-label = Otvori Privatni prozor
     .accesskey = r
 about-private-browsing-search-placeholder = Pretražujte web
 about-private-browsing-info-title = Nalazite se u Privatnom prozoru
-about-private-browsing-info-myths = Uobičajeni mitovi o privatnom surfanju
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
@@ -18,10 +17,8 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Pretražite pomoću { $engine } ili unesite adresu
 about-private-browsing-handoff-text-no-engine = Pretražite ili unesite adresu
 about-private-browsing-not-private = Trenutno niste u privatnom prozoru.
-about-private-browsing-info-description = { -brand-short-name } briše vašu historiju pretraga i surfanja kada ugasite aplikaciju ili zatvorite sve tabove i prozore Privatnog surfanja. Iako vas ovo ne čini anonimnim web stranicama ili vašem internet provajderu, omogućava vam da ono što radite online zadržite privatnim od svih drugih korisnika ovog računara.
 
-about-private-browsing-need-more-privacy = Trebate više privatnosti?
-about-private-browsing-turn-on-vpn = Isprobajte { -mozilla-vpn-brand-name }
+## The following strings will be used for experiments in Fx99 and Fx100
 
 # This string is the title for the banner for search engine selection
 # in a private window.
@@ -35,3 +32,4 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Zatvori
+

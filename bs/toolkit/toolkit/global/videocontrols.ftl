@@ -12,6 +12,7 @@ videocontrols-volume-control =
     .aria-label = Jačina zvuka
 videocontrols-closed-caption-button =
     .aria-label = Titlovi
+
 videocontrols-play-button =
     .aria-label = Play
 videocontrols-pause-button =
@@ -28,12 +29,14 @@ videocontrols-casting-button-label =
     .aria-label = Prebaci na ekran
 videocontrols-closed-caption-off =
     .offlabel = Isključeno
+
 videocontrols-error-aborted = Učitavanje videa zaustavljeno.
 videocontrols-error-network = Prikazivanje videa prekinuto usljed greške na mreži.
 videocontrols-error-decode = Video ne može biti prikazan zbog greške u fajlu.
 videocontrols-error-src-not-supported = Video format ili MIME tip nije podržan.
 videocontrols-error-no-source = Nije pronađen niti jedan video sa podržanim formatom i MIME tipom.
 videocontrols-error-generic = Prikazivanje videa prekinuto usljed nepoznate greške.
+
 # This message shows the current position and total video duration
 #
 # Variables:

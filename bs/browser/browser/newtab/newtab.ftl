@@ -16,14 +16,8 @@ newtab-search-box-search-button =
     .title = Traži
     .aria-label = Traži
 
-newtab-search-box-search-the-web-input =
-    .placeholder = Pretraži web
-    .title = Pretraži web
-    .aria-label = Pretraži web
-
 ## Top Sites - General form dialog.
 
-newtab-topsites-add-topsites-header = Nova najbolja stranica
 newtab-topsites-edit-topsites-header = Uredi najbolju stranicu
 newtab-topsites-title-label = Naslov
 newtab-topsites-title-input =
@@ -142,7 +136,6 @@ newtab-section-menu-privacy-notice = Polica privatnosti
 ## Section Headers.
 
 newtab-section-header-topsites = Najposjećenije stranice
-newtab-section-header-highlights = Istaknuto
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Preporučeno od { $provider }
@@ -164,6 +157,9 @@ newtab-empty-section-topstories = Provjerite kasnije za više najpopularnijih pr
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Popularne teme:
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

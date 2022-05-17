@@ -33,14 +33,12 @@
 <!ENTITY images.label "Slike">
 <!ENTITY popups.label "Iskočni prozori">
 <!ENTITY passwords.label "Lozinke">
-<!ENTITY masterpass.label "Glavna lozinka">
 <!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "Certifikati">
 
 <!ENTITY sync.label "Sync">
 
 <!ENTITY advance.label "Napredno">
-<!ENTITY scriptsAndWindows.label "Skripte i priključci">
 <!ENTITY keynav.label "Navigacija pomoću tastature">
 <!ENTITY findAsYouType.label "Nađi tokom kucanja">
 <!ENTITY cache.label "Predmemorija">

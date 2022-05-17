@@ -29,9 +29,3 @@
 <!ENTITY browseFile.label               "Izaberite datoteku…">
 <!ENTITY useDefault.label               "Vrati na izvorne vrijednosti">
 
-<!ENTITY defaultBrowserGroup.label      "Glavni browser">
-<!ENTITY defaultBrowserButton.label     "Postavite glavni browser">
-<!ENTITY alreadyDefaultText             "&brandShortName; je već vaš glavni browser.">
-<!ENTITY defaultPendingText             "&brandShortName; će biti postavljen kao vaš glavni browser kada kliknete OK.">
-<!ENTITY wasMadeDefaultText             "&brandShortName; je postavljen kao vaš glavni browser.">
-<!ENTITY makeDefaultText                "Postavite &brandShortName; kao vaš glavni browser.">

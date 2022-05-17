@@ -17,8 +17,6 @@
 <!ENTITY addIMAccountButton.accesskey "C">
 <!ENTITY addFeedAccountButton.label "Dodaj feed račun">
 <!ENTITY addFeedAccountButton.accesskey "f">
-<!ENTITY addOtherAccountButton.label "Dodaj drugi račun…">
-<!ENTITY addOtherAccountButton.accesskey "o">
 <!ENTITY setDefaultButton.label "Postavi kao glavno">
 <!ENTITY setDefaultButton.accesskey "g">
 <!ENTITY removeButton.label "Ukloni račun">
@@ -35,6 +33,4 @@
      this window for en-US. -->
 
 <!-- AccountManager.xhtml -->
-<!-- AccountManager.xhtml -->
-<!ENTITY accountManager.size "width: 105ch; height: 55em;">
-<!ENTITY accountTree.width "width: 32ch;">
+

@@ -32,7 +32,6 @@
 
 <!ENTITY PrimaryEmail.label             "Email:">
 <!ENTITY SecondEmail.label              "Dodatni email:">
-<!ENTITY PreferMailFormat.label         "Preferira primati poruke formartirane kao:">
 <!ENTITY PlainText.label                "Običan tekst">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Nepoznato">

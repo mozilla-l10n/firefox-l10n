@@ -4,9 +4,6 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
-<!ENTITY pref.scripts.title              "Skripte i priključci">
-
 <!ENTITY navigator.label                 "Browser">
 
 <!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
@@ -18,9 +15,3 @@
 <!ENTITY allowContextmenuDisable.label   "Onemogućite ili zamijenite menije konteksta">
 <!ENTITY allowHideStatusBar.label        "Sakrij statusnu traku">
 
-<!ENTITY enablePlugins.label             "Omogućite priključke za">
-<!ENTITY enablePluginForSuite.label      "Seamonkey">
-
-<!ENTITY whenPageRequiresPlugins.label   "Kada stranica zahtjeva priključke">
-<!ENTITY activateAllPlugins.label        "Aktiviraj sve priključke po izvornom">
-<!ENTITY warnPluginsRequired.label       "Upozori me ako treba instalirati dodatni priključak">

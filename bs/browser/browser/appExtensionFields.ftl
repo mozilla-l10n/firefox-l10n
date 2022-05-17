@@ -6,8 +6,10 @@
 ## Theme names and descriptions used in the Themes panel in about:addons
 
 extension-default-theme-description = Prati postavke operativnog sistema za dugmad, menije i prozore.
+
 extension-firefox-compact-light-name = Svijetla
 extension-firefox-compact-light-description = Tema sa svijetlom kolornom shemom.
+
 extension-firefox-compact-dark-name = Tamna
 extension-firefox-compact-dark-description = Tema sa tamnom kolornom shemom.
 

@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = Otvori sa { -brand-short-name }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Podešavanja mogu biti promijenjena u { -brand-short-name } opcijama.
            *[other] Podešavanja mogu biti promijenjena u { -brand-short-name } postavkama.
         }
+
 unknowncontenttype-intro = Izabrali ste da otvorite:
 unknowncontenttype-which-is = što je:
 unknowncontenttype-from = od:

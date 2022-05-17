@@ -7,10 +7,6 @@
 <!ENTITY pref.content.title                     "Sadržaj">
 <!ENTITY pref.content.description               "Ove postavke utiču kako se web stranica i sadržaj poruke pojavljuju u &brandShortName;.">
 
-<!ENTITY siteIcons.label                        "Ikone web stranice">
-<!ENTITY useSiteIcons.label                     "Prikaži ikone web stranice">
-<!ENTITY useFavIcons2.label                     "Pokušajte da koristite ikonu servera ako stranica ne određuje sopstvenu">
-
 <!ENTITY scrolling.label                        "Skrolanje">
 <!ENTITY useAutoScroll.label                    "Koristi automatsko skrolanje">
 <!ENTITY useSmoothScroll.label                  "Koristi glatko skrolanje">
@@ -29,5 +25,4 @@
 <!ENTITY enableAutomaticImageResizing.label     "Promijenite veličinu slika da odgovaraju prozoru browsera">
 
 <!ENTITY allowHWAccel.label                     "Koristite hardversko ubrzanje kada je dostupno">
-<!ENTITY blockAutoRefresh.label                 "Upozori me kada se web stranica pokuša preusmjeriti ili ponovo učitati">
 

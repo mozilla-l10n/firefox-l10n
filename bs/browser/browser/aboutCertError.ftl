@@ -115,7 +115,6 @@ unknownSocketType-title = Neočekivani odgovor od servera
 nssFailure2-title = Neuspjela sigurna veza
 csp-xfo-error-title = { -brand-short-name } ne može otvoriti ovu stranicu
 corruptedContentError-title = Oštećen sadržaj
-remoteXUL-title = Remote XUL
 sslv3Used-title = Uspostava sigurne veze nije uspjela
 inadequateSecurityError-title = Vaša veza nije sigurna
 blockedByPolicy-title = Blokirana stranica

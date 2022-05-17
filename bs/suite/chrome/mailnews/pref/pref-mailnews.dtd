@@ -8,15 +8,6 @@
 <!ENTITY preserveThreading.label          "Sačuvaj rasprave pri sortiranju poruka">
 <!ENTITY mailBiffOnNewWindow.label        "Provjeri novu poštu samo nakon otvaranja pošte i interesnih grupa">
 
-<!ENTITY defaultMailSettings.description  "Učinite &brandShortName; kao glavnu aplikaciju za:">
-<!ENTITY setDefaultMail.label             "Poštu">
-<!ENTITY setDefaultNews.label             "Vijesti">
-<!ENTITY setDefaultFeed.label             "Kanale">
-
-<!ENTITY useInternalSettings.description  "Koristite &brandShortName; poštu i vijesti pri otvaranju linkova browsera za:">
-<!ENTITY useInternalMail.label            "Pošta (mailto:)">
-<!ENTITY useInternalNews.label            "Vijesti (news:, snews:, nntp:)">
-
 <!ENTITY messengerStartPage.caption       "Početna stranica pošte">
 <!ENTITY enableStartPage.label            "Kad se Pošta pokrene, prikaži početnu stranicu u prostoru za poruke">
 <!ENTITY location.label                   "Lokacija:">

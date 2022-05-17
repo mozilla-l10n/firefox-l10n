@@ -48,3 +48,8 @@ pocket-panel-home-paragraph = Možete koristiti { -pocket-brand-name } da istra�
 pocket-panel-home-explore-popular-topics = Istražite popularne teme
 pocket-panel-home-discover-more = Istražite više
 pocket-panel-home-explore-more = Istraži
+
+## Pocket panel header component
+
+## Pocket panel buttons
+

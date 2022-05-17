@@ -23,8 +23,6 @@
 <!ENTITY inReplyToField.label "Odgovori za: ">
 <!ENTITY originalWebsite.label "Web stranica: ">
 
-<!ENTITY editMessage.label                 "Uredi skicu…">
-
 <!ENTITY attachmentsTree.label             "Prilozi:">
 <!ENTITY openAttachmentCmd.label           "Otvori">
 <!ENTITY viewAttachmentCmd.label           "Prikaži izvor">

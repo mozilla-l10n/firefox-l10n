@@ -10,16 +10,3 @@
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
-<!ENTITY menu_securityEncryptRequire.accesskey "E">
-
-<!ENTITY menu_securitySign.label "Digitalno potpiši ovu poruku">
-<!ENTITY menu_securitySign.accesskey "p">
-
-<!ENTITY menu_securityStatus.label "Prikaži sigurnosne informacije">
-<!ENTITY menu_securityStatus.accesskey "i">
-
-<!ENTITY securityButton.label "Sigurnost">
-<!ENTITY securityButton.tooltip "Pogledajte ili promijenite sigurnosne postavke">
-
-<!ENTITY menu_viewSecurityStatus.label "Sigurnosne informacije poruke">
-<!ENTITY menu_viewSecurityStatus.accesskey "i">

@@ -172,7 +172,6 @@
 <!ENTITY forwardAsMenu.label "Proslijedi kao">
 <!ENTITY forwardAsInline.label "Sadržaj unutar poruke">
 <!ENTITY forwardAsAttachmentCmd.label "Prilog">
-<!ENTITY editMsgAsNewCmd.label "Uredi poruku kao novu">
 <!ENTITY createFilter.label "Stvori filter iz poruke…">
 <!ENTITY archiveMsgCmd.label "Arhiviraj">
 <!ENTITY moveMsgToMenu.label "Premjesti u">
@@ -269,7 +268,6 @@
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Otvori poruku u novom prozoru">
 <!ENTITY contextOpenNewTab.label "Otvori poruku u novom tabu">
-<!ENTITY contextEditAsNew.label "Uredi kao novo…">
 <!ENTITY contextReplySender.label "Odgovori samo pošiljaocu">
 <!ENTITY contextReplyList.label "Odgovori na listu">
 <!ENTITY contextReplyNewsgroup.label "Odgovori interesnoj grupi">

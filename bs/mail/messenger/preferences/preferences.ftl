@@ -64,8 +64,6 @@ app-icon-options =
     .label = Opcije aplikacijske ikone…
     .accesskey = n
 
-notification-settings = Upozorenja i zadani zvukovi se mogu isključiti u okviru obavijesti u postavkama sistema.
-
 animated-alert-label =
     .label = Prikaži upozorenje
     .accesskey = S
@@ -255,14 +253,6 @@ quoted-text-color =
     .label = Boja:
     .accesskey = o
 
-type-column-label =
-    .label = Vrsta sadržaja
-    .accesskey = t
-
-action-column-label =
-    .label = Radnja
-    .accesskey = a
-
 save-to-label =
     .label = Sačuvaj datoteke u
     .accesskey = S
@@ -404,12 +394,6 @@ restore-html-label =
 default-format-label =
     .label = Koristi kao zadano oblik odlomka umjesto teksta tijela
     .accesskey = P
-
-format-description = Podesite ponašanje prilikom oblikovanja teksta
-
-send-options-label =
-    .label = Opcije slanja…
-    .accesskey = S
 
 autocomplete-description = Kod adresiranja poruka, traži odgovarajuće adrese u:
 
@@ -661,8 +645,6 @@ theme-label =
     .value = Tema:
     .accesskey = T
 
-style-thunderbird =
-    .label = Thunderbird
 style-bubbles =
     .label = Mjehurići
 style-dark =
@@ -681,4 +663,6 @@ chat-variant-label =
     .accesskey = V
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 
