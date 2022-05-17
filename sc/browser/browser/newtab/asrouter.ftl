@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Funtzionalidade cussigiada
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pro ite bido custu?
+
 cfr-doorhanger-extension-cancel-button = Immoe nono
     .accesskey = I
+
 cfr-doorhanger-extension-ok-button = Agiunghe immoe
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = Gesti sa cunfiguratzione de is cussìgios
     .accesskey = G
+
 cfr-doorhanger-extension-never-show-recommendation = No m'ammustres prus custu cussìgiu
     .accesskey = o
+
 cfr-doorhanger-extension-learn-more-link = Àteras informatziones
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = dae { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Cussìgiu
 cfr-doorhanger-extension-notification2 = Cussìgiu
     .tooltiptext = Estensione cussigiada
     .a11y-announcement = Estensione cussigiada a disponimentu
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Cussìgiu
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Àteras informatziones
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Funtzionalidade noa:
+
 cfr-whatsnew-button =
     .label = Novidades
     .tooltiptext = Novidades
+
 cfr-whatsnew-release-notes-link-text = Leghe is notas de sa versione
 
 ## Enhanced Tracking Protection Milestones

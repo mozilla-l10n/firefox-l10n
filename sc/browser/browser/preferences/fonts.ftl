@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Fonts
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Tipografias pro
     .accesskey = f
+
 fonts-langgroup-arabic =
     .label = Àrabu
 fonts-langgroup-armenian =
@@ -75,27 +77,37 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proportzionale
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Mannària
     .accesskey = M
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Ispatziadura fissa
     .accesskey = I
+
 fonts-monospace-size = Mannària
     .accesskey = a
+
 fonts-minsize = Mannària mìnima de sa tipografia
     .accesskey = o
+
 fonts-minsize-none =
     .label = Nudda
+
 fonts-allow-own =
     .label = Permite chi is pàginas sèberent is tipografias issoro, imbetzes de sa seletzione tua anteriore
     .accesskey = P
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

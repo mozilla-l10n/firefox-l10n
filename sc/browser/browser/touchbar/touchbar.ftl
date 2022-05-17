@@ -19,6 +19,7 @@ open-location = Chirca o inserta·nche un'indiritzu
 share = Cumpartzi
 close-window = Serra sa ventana
 open-sidebar = Barras laterales
+
 # This string describes shortcuts for search.
 search-popover = Curtzadòrgios de chirca
 # Describes searches limited to a specific scope

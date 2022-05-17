@@ -4,20 +4,24 @@
 
 history-title = Cronologia de atualizatziones
 history-intro = Is atualizatziones imbenientes sunt istadas installadas
+
 close-button-label =
     .buttonlabelcancel = Serra
     .title = Cronologia de is atualizatziones
+
 no-updates-label = Nissuna atualizatzione installada ancora
 name-header = Nòmine de s'atualizatzione
 date-header = Data de installatzione
 type-header = Genia
 state-header = Istadu
+
 # Used to display update history
 #
 # Variables:
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
+
 update-details = Detàllios
 update-installed-on = Installadu su: { $date }
 update-status = Istadu: { $status }

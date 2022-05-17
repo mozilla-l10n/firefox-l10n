@@ -23,3 +23,4 @@ compatibility-settings-header = Cunfiguratzione
 
 compatibility-close-settings-button =
     .title = Serra sa cunfiguratzione
+

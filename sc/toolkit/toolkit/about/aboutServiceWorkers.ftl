@@ -14,3 +14,4 @@
 
 # This term is used as a button label (verb, not noun).
 update-button = Atualiza
+

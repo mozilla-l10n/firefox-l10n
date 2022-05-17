@@ -103,8 +103,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Sinnala faddinas comente custa pro agiudare Mozilla a identificare e blocare sitos malos">
 <!ENTITY errorReporting.learnMore "Leghe àteru...">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Informa s'amministratzione de su situ web de custu problema.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informatzione avantzada: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -122,8 +120,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Podet dare chi sa cunfiguratzione de seguresa de rete tua siat sa càusa. Boles recuperare sa cunfiguratzione predefinida?">
 <!ENTITY prefReset.label "Recùpera sa cunfiguratzione predefinida">
-
-<!ENTITY enableTls10.note "TLS 1.0 e TLS 1.1 ant a èssere disativados in manera permanente in una versione benidora.">
-<!ENTITY enableTls10.label "Ativa TLS 1.0 e 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Sa pàgina chi ses intentende de abèrrere non podet èssere ammustrada, ca est istada agatada una faddina in su protocollu de rete.</p><ul><li>Pro praghere, cuntata is meres de su situ pro ddos informare de custu problema.</li></ul>">

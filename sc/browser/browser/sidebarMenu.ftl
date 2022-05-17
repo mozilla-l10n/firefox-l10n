@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = Sinnalibros
+
 sidebar-menu-history =
     .label = Cronologia
+
 sidebar-menu-synced-tabs =
     .label = Ischedas sincronizadas
+
 sidebar-menu-close =
     .label = Serra sa barra laterale
+
 sidebar-close-button =
     .tooltiptext = Serra sa barra laterale

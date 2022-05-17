@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Informatzione de curretzione de faddinas
+
 crashes-title = Informes de faddinas
 crashes-id = Identificadore de s'informe
 crashes-send-date = Data de imbiu
@@ -57,6 +58,7 @@ app-basics-location-service-key-google = Crae de su servìtziu de positzione de 
 app-basics-safebrowsing-key-google = Crae de su servìtziu de navigatzione segura Google Safebrowsing
 app-basics-key-mozilla = Crae de su servìtziu de positzione de Mozilla
 app-basics-safe-mode = Modalidade segura
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Ammustra in Finder
@@ -111,6 +113,7 @@ no = Nono
 ## not found.
 
 gpu-description = Descritzione
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

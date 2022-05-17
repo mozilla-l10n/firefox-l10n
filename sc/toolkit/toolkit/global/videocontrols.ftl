@@ -12,6 +12,7 @@ videocontrols-volume-control =
     .aria-label = Volume
 videocontrols-closed-caption-button =
     .aria-label = Sutatìtulos
+
 videocontrols-play-button =
     .aria-label = Reprodue
 videocontrols-pause-button =
@@ -28,9 +29,12 @@ videocontrols-casting-button-label =
     .aria-label = Trasmite a s'ischermu
 videocontrols-closed-caption-off =
     .offlabel = Disativadu
+
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Immàgine-subra-immàgine
+
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = Càstia in Immàgine-subra-immàgine
+

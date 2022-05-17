@@ -37,6 +37,7 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Poi
     .secondarybuttonaccesskey = P
 appmenu-update-other-instance-message = Ddoe est un'atualizatzione noa de { -brand-shorter-name } a disponimentu, ma non faghet a dda installare ca ddoe est un'àtera còpia de { -brand-shorter-name } in esecutzione. Serra·dda pro sighire cun s'atualizatzione, o sèbera de atualizare su pròpiu (podet dare chi s'àtera còpia no at a funtzionare fintzas a cando no dda torres a aviare).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = AB
     .buttonaccesskey = A
@@ -44,6 +45,7 @@ appmenu-addon-post-install-message3 = Gesti is cumplementos e is temas tuos dae 
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permite s'esecutzione de custa estensione in ventanas privadas
     .accesskey = P
+
 appmenu-new-tab-controlled-changes =
     .label = Sa pàgina «Ischeda noa» est cambiada.
     .buttonlabel = Mantene is modìficas

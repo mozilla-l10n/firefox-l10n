@@ -10,8 +10,10 @@ containers-window-new =
 containers-window-update-settings =
     .title = Cunfiguratzione de su cuntenidore { $name }
     .style = width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -22,20 +24,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Nòmine
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Inserta su nòmine de su cuntenidore
+
 containers-icon-label = Icona
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = Colore
     .accesskey = C
     .style = { -containers-labels-style }
+
 containers-dialog =
     .buttonlabelaccept = Fatu
     .buttonaccesskeyaccept = F
+
 containers-color-blue =
     .label = Biaitu
 containers-color-turquoise =
@@ -54,6 +62,7 @@ containers-color-purple =
     .label = Virghinu
 containers-color-toolbar =
     .label = Cointzide cun sa barra de ainas
+
 containers-icon-fence =
     .label = Cresura
 containers-icon-fingerprint =

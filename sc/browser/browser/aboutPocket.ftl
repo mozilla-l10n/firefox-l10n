@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Agiunghe etichetas
+
 pocket-panel-saved-error-generic = Ddoe est istada una faddina sarvende { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Sa longària màssima de is etichetas depet èssere de 25 caràteres
 pocket-panel-saved-error-only-links = Faghet a sarvare isceti is ligòngios
@@ -29,6 +30,7 @@ pocket-panel-saved-saving-tags = Sarvende...
 pocket-panel-saved-suggested-tags = Etichetas cussigiadas
 pocket-panel-saved-tags-saved = Etichetas agiuntas
 pocket-panel-signup-view-list = Ammustra sa lista
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Agiunghe etichetas:
 
@@ -43,6 +45,7 @@ pocket-panel-signup-signup-firefox = Registra·ti cun { -brand-product-name }
 pocket-panel-signup-tagline = Sarva artìculos e vìdeos dae { -brand-product-name } pro ddos bìdere in { -pocket-brand-name } cando boles, in su dispositivu chi boles.
 pocket-panel-signup-tagline-story-one = Incarca su butone de { -pocket-brand-name } pro sarvare cale si siat artìculu, vìdeu o pàgina dae { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Ammustra is pàginas tuas in { -pocket-brand-name } cando boles, in su dispositivu chi boles.
+
 pocket-panel-signup-cta-a-fix = Su butone tuo "Sarva" pro s'Internet
 pocket-panel-signup-cta-b = Incarca su butone { -pocket-brand-name } pro sarvare artìculos, vìdeos e ligòngios. Ammustra sa lista tua cando boles, in su dispositivu chi boles.
 pocket-panel-signup-cta-b-short = Incarca su butone { -pocket-brand-name } pro sarvare artìculos, vìdeos e ligòngios.
@@ -56,6 +59,7 @@ pocket-panel-home-paragraph = Podes impreare { -pocket-brand-name } pro esplorar
 pocket-panel-home-explore-popular-topics = Esplora argumentos populares
 pocket-panel-home-discover-more = Iscoberi·nde àteros
 pocket-panel-home-explore-more = Esplora
+
 pocket-panel-home-most-recent-saves = Inoghe nche sunt is elementos chi as sarvadu de reghente:
 pocket-panel-home-most-recent-saves-loading = Carrighende is elementos sarvados de reghente...
 pocket-panel-home-new-user-cta = Incarca su butone { -pocket-brand-name } pro sarvare artìculos, vìdeos e ligòngios.

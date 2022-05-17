@@ -8,12 +8,15 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Informe subra de { $addon-name }
+
 abuse-report-title-extension = Sinnala custa estensione a { -vendor-short-name }
 abuse-report-title-theme = Sinnala custu tema a { -vendor-short-name }
 abuse-report-subtitle = Cale est su problema?
+
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = dae <a data-l10n-name="author-name">{ $author-name }</a>
+
 abuse-report-submit-description = Descrie su problema (optzionale)
 
 ## Panel buttons.
@@ -52,8 +55,12 @@ abuse-report-settings-reason-v2 = At modificadu su motore de chirca, sa pàgina 
 abuse-report-settings-suggestions = Prima de imbiare un'informe subra de s'estensione, podes proare de modificare sa cunfiguratzione tua:
 abuse-report-settings-suggestions-search = Modìfica sa cunfiguratzione de chirca predefinida
 abuse-report-settings-suggestions-homepage = Modìfica sa pàgina printzipale s'ischeda noa
+
 abuse-report-deceptive-reason-v2 = Narat chi est una cosa chi no est
+
 abuse-report-policy-reason-v2 = Cuntenet cuntenutu de òdiu, violentu o illegale
+
 abuse-report-unwanted-reason-v2 = No dd'apo mai bòlidu e no iscio comente ddu bogare
 abuse-report-unwanted-example = Esempru: un'aplicatzione dd'at installadu chena su permissu miu
+
 abuse-report-other-reason = Un'àtera cosa

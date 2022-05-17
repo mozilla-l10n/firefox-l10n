@@ -5,4 +5,5 @@
 select-bookmark-window =
     .title = Cunfigura pàgina printzipale
     .style = width: 32em;
+
 select-bookmark-desc = Sèbera unu sinnalibru pro dd'impreare comente pàgina printzipale. Si sèberas una cartella, su sinnalibru in cussa cartella s'at a abèrrere in ischedas.

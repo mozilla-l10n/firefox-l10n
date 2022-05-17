@@ -4,8 +4,10 @@
 
 certmgr-title =
     .title = Gestore de tzertificados
+
 certmgr-tab-people =
     .label = Pessones
+
 certmgr-cert-server =
     .label = Server
 

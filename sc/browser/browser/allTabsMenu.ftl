@@ -5,10 +5,13 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Chirca ischedas
+
 all-tabs-menu-new-user-context =
     .label = Ischeda cuntenidora noa
+
 all-tabs-menu-hidden-tabs =
     .label = Ischedas cuadas
+
 all-tabs-menu-manage-user-context =
     .label = Manìgia cuntenidores
     .accesskey = M

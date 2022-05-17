@@ -3,15 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Immàgine-subra-immàgine
+
 pictureinpicture-pause =
     .aria-label = Pàusa
 pictureinpicture-play =
     .aria-label = Reprodue
+
 pictureinpicture-mute =
     .aria-label = A sa muda
 pictureinpicture-unmute =
     .aria-label = Ativa àudio
+
 pictureinpicture-unpip =
     .aria-label = Torra a imbiare a s'ischeda
+
 pictureinpicture-close =
     .aria-label = Serra

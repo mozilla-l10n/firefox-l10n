@@ -5,9 +5,11 @@
 unknowncontenttype-handleinternally =
     .label = Aberi cun { -brand-short-name }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Is cunfiguratziones si podent cambiare in is optziones de { -brand-short-name }.
            *[other] Is cunfiguratziones si podent cambiare in is preferèntzias de { -brand-short-name }.
         }
+

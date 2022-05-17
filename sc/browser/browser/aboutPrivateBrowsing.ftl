@@ -6,7 +6,6 @@ privatebrowsingpage-open-private-window-label = Aberi una ventana privada
     .accesskey = p
 about-private-browsing-search-placeholder = Chirca in rete
 about-private-browsing-info-title = Ses in una ventana privada
-about-private-browsing-info-myths = Mitos fitianos subra de sa navigatzione privada
 about-private-browsing-search-btn =
     .title = Chirca in rete
 # Variables
@@ -20,16 +19,15 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Chirca cun { $engine } o inserta·nche un'indiritzu
 about-private-browsing-handoff-text-no-engine = Chirca o inserta·nche un'indiritzu
 about-private-browsing-not-private = Immoe non ses in una ventana privada.
-about-private-browsing-info-description = { -brand-short-name } lìmpiat sa cronologia de chirca e de navigatzione tuas cando essis de s'aplicatzione o cando serras totu is ischedas e is ventanas de navigatzione privada. Non ti faghet abarrare in anònimu pro is sitos web e su frunidore de servìtzios de internet tuo, però t'agiudat a cunservare in privadu su chi ses faghende in lìnia dae àtera gente chi imperat custu ordinadore.
-about-private-browsing-need-more-privacy = Ti serbit àtera riservadesa?
-about-private-browsing-turn-on-vpn = Proa { -mozilla-vpn-brand-name }
 about-private-browsing-info-description-private-window = Ventana privada: { -brand-short-name } lìmpiat sa cronologia de chirca e de navigatzione cando serras totu is ventanas privadas. Non ti faghet abarrare in anònimu.
 about-private-browsing-info-description-simplified = { -brand-short-name } lìmpiat sa cronologia de chirca e de navigatzione cando serras totu is ventanas privadas, ma non ti faghet abarrare in anònimu.
 about-private-browsing-learn-more-link = Àteras informatziones
+
 about-private-browsing-hide-activity = Cua s'atividade e sa positzione tuas, in onni situ chi sias bisitende
 about-private-browsing-get-privacy = Ampara sa riservadesa tua in onni situ chi sias bisitende
 about-private-browsing-hide-activity-1 = Cua s'atividade e sa positzione tuas cun { -mozilla-vpn-brand-name }. Crea una connessione segura cun unu clic ebbia, fintzas in retes Wi-Fi pùblicas.
 about-private-browsing-prominent-cta = Ampara sa riservadesa tua cun { -mozilla-vpn-brand-name }
+
 about-private-browsing-focus-promo-cta = Iscàrriga { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: navigatzione privada in ònnia logu
 about-private-browsing-focus-promo-text = S'aplicatzione mòbile nostra progetada pro sa navigatzione anònima lìmpiat sa cronologia e is testimòngios ònnia borta.
@@ -40,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Bati sa navigatzione privada a su 
 about-private-browsing-focus-promo-text-b = Imprea { -focus-brand-name } pro cuddas chircas privadas chi non boles a ddas bìdere su navigadore printzipale tuo.
 about-private-browsing-focus-promo-header-c = Riservadesa de livellu superiore pro dispositivos mòbiles
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } lìmpiat sa cronologia ònnia borta, blochende fintzas publitzidade e sighidores.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -52,5 +51,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Serra
+
 about-private-browsing-promo-close-button =
     .title = Serra
