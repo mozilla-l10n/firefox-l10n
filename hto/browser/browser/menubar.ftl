@@ -31,15 +31,6 @@ menu-quit =
 menu-quit-mac =
     .label = Jáiri íedo { -brand-shorter-name }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Jino jaide íedo { -brand-shorter-name }
-
 ## File Menu
 
 menu-file =
@@ -51,9 +42,6 @@ menu-file-new-window =
 menu-file-new-private-window =
     .label = Dáma kúe kómue eroirafo
     .accesskey = e
-menu-file-close =
-    .label = Ɨ́baide
-    .accesskey = Ɨ
 menu-file-save-page =
     .label = Jóne bénomo...
     .accesskey = A

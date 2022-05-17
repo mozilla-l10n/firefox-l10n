@@ -16,4 +16,6 @@ videocontrols-exitfullscreen-button =
     .aria-label = Jáiri nána éroiya ráa
 videocontrols-casting-button-label =
     .aria-label = Eroiya ráa óre
+
 videocontrols-error-aborted = Jójonega Joreño fɨnóka mozide.
+

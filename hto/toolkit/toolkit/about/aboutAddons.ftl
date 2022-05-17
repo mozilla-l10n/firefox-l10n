@@ -4,12 +4,16 @@
 
 show-all-extensions-button =
     .label = Nana árera ákatari
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 addon-restart-now =
     .label = Bíeri ábɨdo taɨne
+
 addon-category-extension = Árera
 addon-category-extension-title =
     .title = Árera

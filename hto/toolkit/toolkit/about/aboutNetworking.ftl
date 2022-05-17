@@ -12,7 +12,6 @@ about-networking-ssl = SSL
 about-networking-active = Bónoka
 about-networking-idle = Dúitaga
 about-networking-host = Taɨjɨe ráa
-about-networking-tcp = TCP
 about-networking-sent = Óreka
 about-networking-received = Já yɨnoga
 about-networking-family = Kómɨnɨrede

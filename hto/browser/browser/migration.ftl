@@ -52,20 +52,9 @@ import-done-description = Bíe ráanɨaɨ ñue atɨka:
 
 import-close-source-browser = Éroiri ñúe. makara nɨzeka ɨbaire makayena abɨdo:
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Íe { $source }
-
 source-name-ie = Internet Explorer
 source-name-edge = Micosoft Edge
-source-name-safari = Safari
-source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
-source-name-chromium = Chromium
-source-name-firefox = Mozilla Firefox
-source-name-360se = 360 Ñúe makara
 
 imported-safari-reading-list = Fakádua raɨe kuejina (de Safari)
 imported-edge-reading-list = Fakádua raɨe kuejina (de Edge)

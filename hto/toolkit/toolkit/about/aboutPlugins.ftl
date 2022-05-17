@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Afemakɨ Plugins
+
 installed-plugins-label = Plugins já jonega
 no-plugins-are-installed-label = Plugins já jonega báñeiga
 
@@ -26,9 +27,11 @@ state-dd-enabled = <span data-l10n-name="state">Itɨkaɨ:</span> Bónode
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Itɨkaɨ:</span> Bónode ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Itɨkaɨ:</span> Duitaga
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Itɨkaɨ:</span> Duitaga ({ $blockListState })
+
 mime-type-label = Izoi MIME
 description-label = Jɨede
 
 ## Gecko Media Plugins (GMPs)
 
 plugins-gmp-license-info = Ráfue bíe fɨnoka
+

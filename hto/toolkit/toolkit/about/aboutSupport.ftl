@@ -20,6 +20,7 @@ app-basics-memory-use = Ráa ofítaɨra
 app-basics-service-workers = Service Workers já kúega
 app-basics-profiles = Náama mamekɨ
 app-basics-safe-mode = Ñúera Ízoi
+
 modified-prefs-name = Mamékɨ
 modified-prefs-value = Ráifide
 user-js-title = Kúe gaiga bíe user.js

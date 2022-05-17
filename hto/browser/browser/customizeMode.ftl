@@ -4,9 +4,5 @@
 
 customize-mode-titlebar =
     .label = Káifo rábemo
-customize-mode-lwthemes =
-    .label = ́Jídériya
 customize-mode-undo-cmd =
     .label = Óni dóta
-customize-mode-lwthemes-my-themes =
-    .value = Kúe Jídériya

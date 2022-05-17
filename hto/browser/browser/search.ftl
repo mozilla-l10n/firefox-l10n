@@ -10,6 +10,7 @@
 
 opensearch-error-duplicate-title = Fɨgòñede tɨ́raide
 opensearch-error-duplicate-desc = { -brand-short-name } ána jónenide plugin jénonide baíedo "{ $location-url }" daje mamekɨdo jénoraɨma ja íte.
+
 opensearch-error-download-title = Fɨgòñede yúnua
 opensearch-error-download-desc = { -brand-short-name } ána jónenide plugin jénonide baíedo: { $location-url }
 
@@ -17,3 +18,9 @@ opensearch-error-download-desc = { -brand-short-name } ána jónenide plugin jé
 
 searchbar-submit =
     .tooltiptext = Jenóyena  óre
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+

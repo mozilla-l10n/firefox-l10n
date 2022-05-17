@@ -45,10 +45,6 @@ item-cache =
     .label = Caché
     .accesskey = a
 
-item-site-preferences =
-    .label = Kúe gaɨga íyano
-    .accesskey = K
-
 sanitize-everything-undo-warning = Bíe ó fɨnoka fúitanide.
 
 sanitize-button-ok =

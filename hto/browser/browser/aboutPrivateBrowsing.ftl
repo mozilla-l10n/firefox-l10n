@@ -6,3 +6,5 @@ privatebrowsingpage-open-private-window-label = Ó dama éroirafo tuño
     .accesskey = é
 about-private-browsing-not-private = Bíruimo íñede ó dama éroirafo.
 
+## The following strings will be used for experiments in Fx99 and Fx100
+
