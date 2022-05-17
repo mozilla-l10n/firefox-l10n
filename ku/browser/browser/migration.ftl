@@ -47,16 +47,8 @@ import-done-page-title = Veguhestina bi hundir ve bidawî bû
 
 import-done-description = Hêmanên li jêr bi awayekî serkeftî bi hundir ve hatin veguhestin:
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Ji { $source }ê
-
 source-name-ie = Internet Explorer
-source-name-safari = Safari
 source-name-chrome = Google Chrome
-source-name-firefox = Mozilla Firefox
 
 imported-safari-reading-list = Lîsteya xwendinê (Ji Safariyê)
 

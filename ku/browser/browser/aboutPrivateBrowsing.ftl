@@ -5,3 +5,5 @@
 privatebrowsingpage-open-private-window-label = Pencereyeke Nepen ya nû veke
     .accesskey = N
 
+## The following strings will be used for experiments in Fx99 and Fx100
+
