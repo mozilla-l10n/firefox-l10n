@@ -17,8 +17,6 @@
 
 
 
-<!ENTITY addOtherAccountButton.label "Voeg ander rekening by…">
-<!ENTITY addOtherAccountButton.accesskey "a">
 <!ENTITY setDefaultButton.label "Stel as verstek">
 <!ENTITY setDefaultButton.accesskey "v">
 <!ENTITY removeButton.label "Verwyder rekening">
@@ -35,3 +33,4 @@
      this window for en-US. -->
 
 <!-- AccountManager.xhtml -->
+

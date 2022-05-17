@@ -11,7 +11,6 @@
 <!ENTITY encryption.certificate_clear.button "Maak skoon">
 <!ENTITY encryption.certificate_clear.accesskey "a">
 <!ENTITY signingGroupTitle.label "Digitale ondertekening">
-<!ENTITY signMessage.accesskey "O">
 
 
 <!-- Strings for the cert picker dialog -->

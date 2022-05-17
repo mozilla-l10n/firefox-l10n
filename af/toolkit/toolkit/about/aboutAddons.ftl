@@ -3,50 +3,71 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Byvoegingbestuurder
+
 search-header-shortcut =
     .key = f
+
 list-empty-installed =
     .value = Daar is geen byvoegings van hierdie tipe geïnstalleer nie
+
 list-empty-available-updates =
     .value = Geen bywerkings gevind nie
+
 list-empty-recent-updates =
     .value = Geen byvoegings is onlangs bygewerk nie
+
 list-empty-find-updates =
     .label = Kontroleer vir bywerkings
+
 list-empty-button =
     .label = Kom meer te wete oor byvoegings
+
 show-unsigned-extensions-button =
     .label = Sommige uitbreidings kon nie geverifieer word nie
+
 show-all-extensions-button =
     .label = Wys alle uitbreidings
+
 detail-version =
     .label = Weergawe
+
 detail-last-updated =
     .label = Laas bygewerk
+
 detail-contributions-description = Die ontwikkelaar van hierdie byvoeging vra dat jy die volgehoue ontwikkeling daarvan steun deur 'n klein bydrae te lewer.
+
 detail-update-type =
     .value = Outobywerkings
+
 detail-update-default =
     .label = Verstek
     .tooltiptext = Installeer bywerkings outomaties net as dit die verstek is
+
 detail-update-automatic =
     .label = Aan
     .tooltiptext = Installeer bywerkings outomaties
+
 detail-update-manual =
     .label = Af
     .tooltiptext = Moenie bywerkings outomaties installeer nie
+
 detail-home =
     .label = Tuisblad
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = Byvoeging-profiel
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = Kontroleer vir bywerkings
     .accesskey = v
     .tooltiptext = Kontroleer vir bywerking vir hierdie byvoeging
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -63,20 +84,31 @@ detail-show-preferences =
             [windows] Verander hierdie byvoeging se opsies
            *[other] Verander hierdie byvoeging se voorkeure
         }
+
 detail-rating =
     .value = Gradering
+
 addon-restart-now =
     .label = Herbegin nou
+
 disabled-unsigned-heading =
     .value = Sommige byvoegings is gedeaktiveer
+
 disabled-unsigned-description = Die volgende byvoegings is nie geverifieer vir gebruik in { -brand-short-name } nie. U kan <label data-l10n-name="find-addons">plaasvervangers soek</label> of die ontwikkelaar vra om hulle te laat verifieer.
+
 disabled-unsigned-learn-more = Meer inligting oor ons pogings om elkeen veilig te hou aanlyn.
+
 disabled-unsigned-devinfo = Ontwikkelaars wat hulle byvoegings wil laat verifieer kan gerus ons <label data-l10n-name="learn-more">handleiding</label> lees.
+
 plugin-deprecation-description = Kort iets? Sommige inproppe word nie meer ondersteun deur { -brand-short-name } nie. <label data-l10n-name="learn-more">Meer inligting.</label>
+
 legacy-warning-show-legacy = Wys verouderde uitbreidings
+
 legacy-extensions =
     .value = Verouderde uitbreidings
+
 legacy-extensions-description = Dié uitbreidings voldoen nie aan { -brand-short-name } se huidige standaarde nie, en is dus gedeaktiveer. <label data-l10n-name="legacy-learn-more">Lees meer oor veranderinge aan byvoegings</label>
+
 addon-category-extension = Uitbreidings
 addon-category-extension-title =
     .title = Uitbreidings
@@ -177,12 +209,17 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } is onversoenbaar met { -brand-short-name } { $version }.
+
 details-notification-unsigned-and-disabled = { $name } kon nie vir gebruik in { -brand-short-name } geverifieer word nie en is gedeaktiveer.
 details-notification-unsigned-and-disabled-link = Meer inligting
+
 details-notification-unsigned = { $name } kon nie vir gebruik in { -brand-short-name } geverifieer word nie. Wees versigtig.
 details-notification-unsigned-link = Meer inligting
+
 details-notification-blocked = { $name } is gedeaktiveer weens sekuriteit- of stabiliteitprobleme.
 details-notification-blocked-link = Meer inligting
+
 details-notification-softblocked = { $name } is bekend daarvoor dat dit sekuriteit- of stabiliteitprobleme oplewer.
 details-notification-softblocked-link = Meer inligting
+
 details-notification-gmp-pending = { $name } sal binnekort geïnstalleer word.

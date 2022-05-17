@@ -22,8 +22,6 @@
 
 <!ENTITY newVirtualFolderCmd.label "Gestoorde soektog…">
 <!ENTITY newVirtualFolderCmd.accesskey "G">
-<!ENTITY newOtherAccountsCmd.label "Ander rekeninge…">
-<!ENTITY newOtherAccountsCmd.accesskey "A">
 
 
 
@@ -38,8 +36,6 @@
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Stoor as">
 <!ENTITY saveAsMenu.accesskey "S">
-<!ENTITY saveAsFileCmd.label "Lêer">
-<!ENTITY saveAsFileCmd.accesskey "L">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Sjabloon">
 <!ENTITY saveAsTemplateCmd.accesskey "S">

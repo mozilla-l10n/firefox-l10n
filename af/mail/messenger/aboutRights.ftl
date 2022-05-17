@@ -11,7 +11,6 @@ rights-intro-point-5 = Sekere { -brand-short-name }-kenmerke gebruik webgebaseer
 rights-intro-point-5-unbranded = Indien hierdie produk webdienste bevat, behoort enige toepaslike diensbepalings vir die diens(te) aan die <a data-l10n-name="mozilla-website-services-link">webwerfdienste</a>-afdeling gekoppel wees.
 rights-intro-point-6 = Om sekere soorte video te speel, laai { -brand-short-name } sekere modules vanaf derde partye af vir inhouddekripsie.
 rights-webservices-header = { -brand-full-name } se webgebaseerde inligtingsdienste
-rights-webservices = { -brand-full-name } gebruik webgebaseerde inligtingsdienste ("dienste") om van die kenmerke te bied in hierdie binêre weergawe van { -brand-short-name } ingevolge die bepalings hier onder. As u een of meer van die dienste nie wil gebruik nie of as die bepalings hier onder onaanvaarbaar is, kan u die kenmerk of diens(te) deaktiveer. Inligting oor hoe om 'n sekere kenmerk of diens te deaktiveer, is <a data-l10n-name="mozilla-disable-service-link">hier</a>. Ander funksies en dienste kan in die voorkeure gedeaktiveer word.
 rights-locationawarebrowsing = <strong>Liggingbewuste blaaiery: </strong>werk altyd met vóórtoestemming.  Geen ligginginligting word ooit sonder u toestemming gestuur nie.  As u die kenmerk volledig wil deaktiveer, volg hierdie stappe:
 rights-locationawarebrowsing-term-1 = In die URL-balk, tik <code>aangaande:konfig</code>
 rights-locationawarebrowsing-term-2 = Tik geo.enabled

@@ -60,10 +60,6 @@ item-form-search-history =
 
 data-section-label = Data
 
-item-site-preferences =
-    .label = Werfvoorkeure
-    .accesskey = W
-
 item-offline-apps =
     .label = Vanlyn webwerfdata
     .accesskey = V
