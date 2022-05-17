@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "h">
 <!ENTITY newVirtualFolderCmd.label "Gordetako bilaketa…">
 <!ENTITY newVirtualFolderCmd.accesskey "G">
-<!ENTITY newOtherAccountsCmd.label "Bestelako kontuak…">
-<!ENTITY newOtherAccountsCmd.accesskey "B">
 <!ENTITY newCreateEmailAccountCmd.label "Lortu posta-kontu berria…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "L">
 <!ENTITY newExistingEmailAccountCmd.label "Badagoen posta-kontua…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "I">
 <!ENTITY saveAsMenu.label "Gorde honela">
 <!ENTITY saveAsMenu.accesskey "G">
-<!ENTITY saveAsFileCmd.label "Fitxategia">
-<!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Txantiloia">
 <!ENTITY saveAsTemplateCmd.accesskey "T">

@@ -21,9 +21,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Webgunea…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Txartel pertsonala (vCard)">
-<!ENTITY attachVCardCmd.accesskey "p">
 <!ENTITY remindLater.label "Gogora iezadazu geroago">
 <!ENTITY remindLater.accesskey "g">
 <!ENTITY closeCmd.label "Itxi">
@@ -149,16 +146,6 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "Banaketa egoeraren jakinarazpena">
 <!ENTITY dsnMenu.accesskey "n">
-<!ENTITY deliveryFormatMenu.label "Banaketa-formatua">
-<!ENTITY deliveryFormatMenu.accesskey "f">
-<!ENTITY autoFormatCmd.label "Auto-detektatu">
-<!ENTITY autoFormatCmd.accesskey "A">
-<!ENTITY plainTextFormatCmd.label "Testu arrunta soilik">
-<!ENTITY plainTextFormatCmd.accesskey "s">
-<!ENTITY htmlFormatCmd.label "Testu aberatsa (HTML) soilik">
-<!ENTITY htmlFormatCmd.accesskey "r">
-<!ENTITY bothFormatCmd.label "Testu arrunt eta aberatsa (HTML)">
-<!ENTITY bothFormatCmd.accesskey "a">
 <!ENTITY priorityMenu.label "Lehentasuna">
 <!ENTITY priorityMenu.accesskey "L">
 <!ENTITY priorityButton.title "Lehentasuna">
@@ -222,7 +209,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Helbideratzeko beste eremu mota batzuk">
 <!ENTITY fromAddr2.label "Nork">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY replyAddr2.label "Erantzun-honi">

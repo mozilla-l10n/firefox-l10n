@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTCren barne-xehetasunak
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = gorde about:webrtc honela
@@ -18,6 +19,7 @@ about-webrtc-aec-logging-msg-label = AEC erregistroa
 about-webrtc-aec-logging-off-state-label = Hasi AEC erregistroa
 about-webrtc-aec-logging-on-state-label = Gelditu AEC erregistroa
 about-webrtc-aec-logging-on-state-msg = AEC erregistroa aktibo (hitz egin denbora batez deitu duenarekin eta gelditu kaptura gero)
+
 # The autorefresh checkbox causes the page to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Automatikoki berritu
 
@@ -62,9 +64,6 @@ about-webrtc-ice-component-id = Osagaiaren IDa
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
-about-webrtc-avg-bitrate-label = B.b.ko bit-emaria:
-about-webrtc-avg-framerate-label = B.b.ko marko-emaria:
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
@@ -77,10 +76,12 @@ about-webrtc-type-remote = Urrunekoa
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Izendatua
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Hautatuta
+
 about-webrtc-save-page-label = Gorde orria
 about-webrtc-debug-mode-msg-label = Arazketa-modua
 about-webrtc-debug-mode-off-state-label = Hasi arazketa modua
@@ -147,26 +148,36 @@ about-webrtc-remote-send-ssrc = Bidaltzeko urruneko SSRCa
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Hornitua
+
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Ez hornitua
+
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Erabiltzaileak ezarritako WebRTC hobespenak
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Zenbatetsitako banda zabalera
+
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Pista-identifikatzailea
+
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Bidalitako banda zabalera (byte/seg)
+
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Jasotako banda zabalera (byte/seg)
+
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Betegarri maximoa (byte/seg)
+
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = Erritmoaren atzerapena ms
+
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
+
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -193,6 +204,7 @@ about-webrtc-frames =
         [one] Marko { $frames }
        *[other] { $frames } marko
     }
+
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -201,6 +213,7 @@ about-webrtc-channels =
         [one] Kanal { $channels }
        *[other] { $channels } kanal
     }
+
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -209,6 +222,7 @@ about-webrtc-received-label =
         [one] Pakete { $packets } jasota
        *[other] { $packets } pakete jasota
     }
+
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets lost.
@@ -217,6 +231,7 @@ about-webrtc-lost-label =
         [one] Pakete { $packets } galduta
        *[other] { $packets } pakete galduta
     }
+
 # This is the total number of packets sent by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets sent.
@@ -225,11 +240,13 @@ about-webrtc-sent-label =
         [one] Pakete { $packets } bidalita
        *[other] { $packets } pakete bidalita
     }
+
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Fluktuazioa { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -242,10 +259,12 @@ about-webrtc-trickle-caption-msg = Banan-banan (erantzunaren ondoren) datozen ha
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Ezarri SDP lokala { NUMBER($timestamp, useGrouping: "false") } denbora-markan
+
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Ezarri urruneko SDPa { NUMBER($timestamp, useGrouping: "false") } denbora-markan
+
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.

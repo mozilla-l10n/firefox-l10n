@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Argibide gehiago">
 
 <!ENTITY e2eEnc.description "Muturretik muturrerako enkriptatze gabe mezuen edukiak erraz bistaratzen ditu zure posta hornitzaileak eta zaintza masiboak.">
-<!ENTITY e2eeReqWarning.description "Enkriptatzea behar baduzu, mezuak bidali ahal izateko hartzaile bakoitzaren giltza publikoa edo ziurtagiria behar duzu.">
 
-<!ENTITY e2eSigning.description "Sinadura digitalak ahalbidetzen du, hartzaileek mezua zuk bidalitakoa dela eta edukia aldaketarik gabekoa dela egiaztatzea.">
 <!ENTITY e2eTechPref.description "Hobetsitako enkriptatze teknologia:">
 
-<!ENTITY doNotEncrypt.label "Ez gaitu enkriptatzea era lehenetsian.">
-<!ENTITY doNotEncrypt.accesskey "E">
-<!ENTITY requireEncryptMessage.label "Eskatu enkriptatzea modu lehenetsian">
-<!ENTITY requireEncryptMessage.accesskey "l">
 <!ENTITY encryptionCert2.message "Enkriptatzeko ziurtagiri pertsonala:">
 <!ENTITY digitalSign.certificate.button "Hautatu…">
 <!ENTITY digitalSign.certificate.accesskey "H">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Garbitu">
 <!ENTITY encryption.certificate_clear.accesskey "G">
 <!ENTITY signingGroupTitle.label "Sinadura digitala">
-<!ENTITY signMessage2.label "Gehitu sinadura digitala modu lehenetsian">
-<!ENTITY signMessage.accesskey "d">
 
 <!ENTITY signingCert2.message "Ziurtagiri pertsonala sinadura digitalerako:">
 

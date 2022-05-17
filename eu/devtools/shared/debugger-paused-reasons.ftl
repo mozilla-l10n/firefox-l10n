@@ -17,54 +17,71 @@
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused due to a `debugger` statement in the code
 whypaused-debugger-statement = 'debugger' adierazpenean pausatuta
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a breakpoint
 whypaused-breakpoint = Eten-puntuan pausatuta
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an event breakpoint.
 whypaused-event-breakpoint = Gertaeraren eten-puntuan pausatuta
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Salbuespenean pausatuta
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a DOM mutation breakpoint
 whypaused-mutation-breakpoint = DOM mutazioan pausatuta
+
 # The text that is displayed to describe an added node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-added = Gehituta:
+
 # The text that is displayed to describe a removed node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-removed = Kenduta:
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused at a JS execution
 whypaused-interrupted = Exekuzioan pausatuta
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Jauzi egitean pausatuta
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a dom event
 whypaused-pause-on-dom-events = Gertaera-entzulean pausatuta
+
 # The text that is displayed in an info block when evaluating a conditional
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Errorea baldintzazko eten-puntuarekin
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an xml http request
 whypaused-xhr = XMLHttpRequest-en pausatuta
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = Promise baztertzean pausatuta
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused at a watchpoint on an object property
 whypaused-get-watchpoint = Propietatearen get-en pausatuta
+
 # The text that is displayed in an info block explaining how the debugger is
 # currently paused at a watchpoint on an object property
 whypaused-set-watchpoint = Propietatearen set-en pausatuta
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = Asertzioan pausatuta
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a debugger statement
 whypaused-debug-command = Araztutako funtzioan pausatuta
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an event listener breakpoint set
 whypaused-other = Araztailea pausatuta
