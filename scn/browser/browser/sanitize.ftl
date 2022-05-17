@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Dati
 
-item-site-preferences =
-    .label = Prifirenzi dî siti
-    .accesskey = P
-
 item-offline-apps =
     .label = Dati fora linia dî siti
     .accesskey = D

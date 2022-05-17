@@ -7,6 +7,7 @@
 
 extension-firefox-compact-light-name = Chiaru
 extension-firefox-compact-light-description = Un tema cu nu schema di culuri chiaru.
+
 extension-firefox-compact-dark-name = Scuru
 extension-firefox-compact-dark-description = Un tema cu nu schema di culuri scuru.
 

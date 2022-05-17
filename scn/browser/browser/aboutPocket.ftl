@@ -15,3 +15,7 @@ pocket-panel-signup-learn-more = Cchiù nfurmazziuna
 
 ## about:pocket-home panel
 
+## Pocket panel header component
+
+## Pocket panel buttons
+

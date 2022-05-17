@@ -58,7 +58,6 @@ about-logins-list-item-breach-icon =
 
 about-logins-login-intro-heading-logged-in = Nuḍḍa cridinziali sincrunizzata truvata.
 login-intro-description = Si sarbasti i to cridinziali nne { -brand-product-name } nta n'autru dispusitivu, i po' ricupirari accussì:
-about-logins-intro-import = Si i to cridinziali sunnu sarbati nta n'autru navigaturi, i po' <a data-l10n-name="import-link">mpurtari nne { -lockwise-brand-short-name }</a>
 
 ## Login
 

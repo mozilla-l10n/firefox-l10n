@@ -4,10 +4,13 @@
 
 search-header-shortcut =
     .key = f
+
 list-empty-button =
     .label = Cchiù nfurmazziuna supra l'agghiuncitini
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository-value =
     .value = { detail-repository.label }
 
@@ -62,6 +65,10 @@ pending-uninstall-undo-button = Sfai
 ##   $name (String): name of the add-on.
 
 details-notification-unsigned-and-disabled-link = Cchiù nfurmazziuna
+
 details-notification-unsigned-link = Cchiù nfurmazziuna
+
 details-notification-blocked-link = Cchiù nfurmazziuna
+
 details-notification-softblocked-link = Cchiù nfurmazziuna
+

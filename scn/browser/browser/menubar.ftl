@@ -24,15 +24,6 @@ menu-application-hide-other =
 menu-quit-mac =
     .label = Nesci di { -brand-shorter-name }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Nesci di { -brand-shorter-name }
-
 menu-about =
     .label = Supra { -brand-shorter-name }
     .accesskey = S
@@ -62,9 +53,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Rapi pricu…
     .accesskey = R
-menu-file-close =
-    .label = Chiuji
-    .accesskey = C
 menu-file-close-window =
     .label = Chiuji finestra
     .accesskey = f
@@ -77,9 +65,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Mposta pàggina…
     .accesskey = M
-menu-file-print-preview =
-    .label = Antiprima di stampa
-    .accesskey = n
 menu-file-print =
     .label = Stampa…
     .accesskey = S
@@ -253,9 +238,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Ajutu
     .accesskey = A
-menu-help-feedback-page =
-    .label = Manna riscontru…
-    .accesskey = r
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

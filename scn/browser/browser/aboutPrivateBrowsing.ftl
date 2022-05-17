@@ -6,9 +6,9 @@ privatebrowsingpage-open-private-window-label = Rapi na finestra privata
     .accesskey = p
 about-private-browsing-search-placeholder = Cerca nnâ riti
 about-private-browsing-info-title = Sì nna na finestra privata
-about-private-browsing-info-myths = Liggenni ncapu â navigazziuni privata
 about-private-browsing-not-private = P'accamora nun sì nta na finestra privata.
-about-private-browsing-info-description = { -brand-short-name } cancella i to ricerchi e a to cronuluggìa di navigazziuni quannu nesci di l'appricazziuni o chiuji tutti i schedi e i finestri dâ navigazziuni privata. Puru si chistu nun ti fa anònimu pî siti o pû to furnituri dû sirbizzu Internet, è cchiù fàcili tèniri privatu chiḍḍu chi fai 'n linia di tutti chiḍḍi ca ùsanu stu computer.
+
+## The following strings will be used for experiments in Fx99 and Fx100
 
 # This string is the title for the banner for search engine selection
 # in a private window.
@@ -22,3 +22,4 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Chiuji
+

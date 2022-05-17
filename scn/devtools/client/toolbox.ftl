@@ -12,6 +12,7 @@
 ## the label.
 
 toolbox-meatball-menu-dock-bottom-label = Aggancia ô funnu
+
 toolbox-meatball-menu-settings-label = Mpustazziuna
 
 ##

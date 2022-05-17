@@ -56,12 +56,6 @@ import-done-description = Chisti sunnu i cosi ca potti pigghiari:
 
 import-close-source-browser = Pi favuri vidi si u navigaturi ca scigghisti fu chiusu prima di cuntinuari.
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Di { $source }
-
 imported-safari-reading-list = Lista di littura (di Safari)
 
 ## Browser data types

@@ -46,8 +46,8 @@ cryptominer-tab-title = Minatura di crittumunita
 cryptominer-tab-content = I minatura di crittumunita ùsanu a putenza dû to sistema pi criari munita diggitali. Sti prugrammi cunzùmanu a battirìa, fannu addivintari cchiù lentu u to computer e ti ponnu custari assai nnâ bulletta elèttrica. <a data-l10n-name="learn-more-link">Cchiù nfurmazziuna</a>
   
 lockwise-title = Nun ti scurdari cchiù nuḍḍa chiavi
-lockwise-header-content = { -lockwise-brand-name } sarba 'n sicurizza i to chiavi nnô to navigaturi.
 lockwise-header-content-logged-in = Sarba i to chiavi 'n manera sicura e sincrunìzzali cu tutti i to dispusitivi.
+
 
 monitor-title = Stai accura ê viulazziuna dî dati
 monitor-link = Comu funziona
