@@ -11,5 +11,4 @@
 <!ENTITY encryption.certificate_clear.button "Escafar">
 <!ENTITY encryption.certificate_clear.accesskey "r">
 <!ENTITY signingGroupTitle.label "Signatura">
-<!ENTITY signMessage.accesskey "S">
 

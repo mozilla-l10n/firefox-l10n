@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = Error d'installacion
 opensearch-error-duplicate-desc = { -brand-short-name } a pas pogut installar lo modul de recèrca dins de « { $location-url } » per çò que un motor del meteis nom existís ja.
+
 opensearch-error-format-title = Format incorrècte
 opensearch-error-format-desc = { -brand-short-name } a pas pogut installar lo motor de recèrca dins de : { $location-url }
+
 opensearch-error-download-title = Error de telecargament
 opensearch-error-download-desc = { -brand-short-name } a pas pogut telecargar lo modul de recèrca de : { $location-url }
 
@@ -19,9 +21,11 @@ opensearch-error-download-desc = { -brand-short-name } a pas pogut telecargar lo
 
 searchbar-submit =
     .tooltiptext = Mandar la recèrca
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Recercar
+
 searchbar-icon =
     .tooltiptext = Recercar
 

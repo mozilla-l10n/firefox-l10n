@@ -56,8 +56,6 @@ inactive-css-not-grid-or-flex-container-fix = Ensajatz d’apondre <strong>displ
 
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Ensajatz d’apondre siá <strong>display:grid</strong>, <strong>display:flex</strong>, o <strong>columns:2</strong>. { learn-more }
 
-inactive-css-not-grid-or-flex-item-fix-2 = Ensajatz d’apondre <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, o <strong>display:inline-flex</strong>. { learn-more }
-
 inactive-css-not-grid-or-flex-item-fix-3 = Ensajatz d’apondre <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, o <strong>display:inline-flex</strong> a l’element parent. { learn-more }
 
 inactive-css-not-grid-item-fix-2 = Ensajatz d’apondre <strong>display:grid</strong> o <strong>display:inline-grid</strong> al parent de l’element. { learn-more }

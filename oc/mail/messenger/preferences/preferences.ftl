@@ -205,12 +205,6 @@ restore-html-label =
     .label = Restablir los paramètres inicials
     .accesskey = R
 
-format-description = Configuracion del comportament pel mandadís en format tèxte
-
-send-options-label =
-    .label = Opcions d'expedicion…
-    .accesskey = O
-
 autocomplete-description = Al moment de la recèrca d'adreças, cercar las correspondéncias dins :
 
 ab-label =
@@ -294,4 +288,6 @@ antivirus-label =
 
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

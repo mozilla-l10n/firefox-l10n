@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Lo nombre de còps qu'aquesta foncion es estat dins la pila quand lo profilador prenguèt un escapolon.">
 <!ENTITY performanceUI.table.function                 "Foncion">
 <!ENTITY performanceUI.table.function.tooltip         "Lo nom e l’emplaçament de la font de la foncion escapolonada.">
-<!ENTITY performanceUI.table.totalAlloc               "Assignacions escapolodadas totalas">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Lo nombre total d’assignacions d’objèctes escapolonats dins aquestes emplaçaments e cridas.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
