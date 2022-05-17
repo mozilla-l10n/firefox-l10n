@@ -16,8 +16,6 @@
 <!ENTITY openMessageFileCmd.accesskey "P">
 <!ENTITY saveAsMenu.label "Hlayisa tani hi">
 <!ENTITY saveAsMenu.accesskey "Y">
-<!ENTITY saveAsFileCmd.label "Fayili">
-<!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Thempuleti">
 <!ENTITY saveAsTemplateCmd.accesskey "T">

@@ -74,6 +74,7 @@
 
 <!ENTITY newlistButton.label "Nongonoko lowuntshwa">
 <!ENTITY newlistButton.accesskey "N">
+
 <!ENTITY newmsgButton.label "Tsala">
 <!ENTITY newmsgButton.accesskey "T">
 <!ENTITY newIM.label "Hungu ra xihatla">

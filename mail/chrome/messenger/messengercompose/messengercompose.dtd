@@ -16,9 +16,6 @@
 <!ENTITY attachMenu.accesskey "n">
 <!ENTITY attachPageCmd.label "Pheji ra Web...">
 <!ENTITY attachPageCmd.accesskey "E">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Karata ra wena (vCard)">
-<!ENTITY attachVCardCmd.accesskey "R">
 <!ENTITY closeCmd.label "Pfala">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "p">
@@ -101,14 +98,6 @@
 
 <!ENTITY returnReceiptMenu.label "Rhisiti ro thlerisela">
 <!ENTITY returnReceiptMenu.accesskey "t">
-<!ENTITY autoFormatCmd.label "Ku kuma hi othomethiki">
-<!ENTITY autoFormatCmd.accesskey "u">
-<!ENTITY plainTextFormatCmd.label "Tsalwa leri nga tsariwangiki ntsena">
-<!ENTITY plainTextFormatCmd.accesskey "t">
-<!ENTITY htmlFormatCmd.label "Tsalwa leri nga fuwa (HTML) ntsena">
-<!ENTITY htmlFormatCmd.accesskey "w">
-<!ENTITY bothFormatCmd.label "Tsalwa leri nga tsariwangiki na leri nga fuwa (HTML)">
-<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "Swa nkoka">
 <!ENTITY priorityMenu.accesskey "s">
 <!ENTITY priorityButton.label "Swa nkoka:">

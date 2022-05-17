@@ -9,16 +9,3 @@
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
-<!ENTITY menu_securityEncryptRequire.accesskey "T">
-
-<!ENTITY menu_securitySign.label "Sayina hungu leri digithali">
-<!ENTITY menu_securitySign.accesskey "S">
-
-<!ENTITY menu_securityStatus.label "Languta mahungu ya nhlayiseko">
-<!ENTITY menu_securityStatus.accesskey "I">
-
-<!ENTITY securityButton.label "Nhlayiseko">
-<!ENTITY securityButton.tooltip "Languta kumbe cinca ndzulamiso wa nhlayiseko">
-
-<!ENTITY menu_viewSecurityStatus.label "Mahungu ya nhlayiseko wa hungu">
-<!ENTITY menu_viewSecurityStatus.accesskey "H">
