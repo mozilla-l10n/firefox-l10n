@@ -77,13 +77,6 @@ afterauth-private = Olet varmistanut yhteyshenkilön { $name } henkilöllisyyden
 #   $name (String) - the screen name of a chat contact person
 afterauth-unverified = Yhteyshenkilön { $name } henkilöllisyyttä ei ole varmistettu.
 
-verify-title = Varmista yhteyshenkilösi henkilöllisyys
-error-title = Virhe
-success-title = Päästä päähän -salaus
-success-them-title = Varmista yhteyshenkilösi henkilöllisyys
-fail-title = Ei voida varmistaa
-waiting-title = Varmistuspyyntö lähetettiin
-
 # Do not translate 'OTR' (name of an encryption protocol)
 # Variables:
 #   $error (String) - contains an error message that describes the cause of the failure

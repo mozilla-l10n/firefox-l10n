@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Muut tiedot
 
-item-site-preferences =
-    .label = Sivuston asetukset
-    .accesskey = S
-
 item-site-settings =
     .label = Sivuston asetukset
     .accesskey = S

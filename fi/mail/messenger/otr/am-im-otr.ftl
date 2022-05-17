@@ -5,7 +5,6 @@
 account-encryption =
     .label = Päästä päähän -salaus
 account-otr-label = Off-the-Record Messaging (OTR)
-account-otr-description = { -brand-short-name } tukee päästä-päähän -salausta kahdenvälisille keskusteluille. Tämä estää kolmansia osapuolia salakuuntelemasta keskustelua. Päästä päähän salausta voidaan käyttää vain, jos myös keskustelun toinen osapuoli käyttää OTR:ää tukevaa ohjelmistoa.
 otr-encryption-title = Varmistettu salaus
 otr-encryption-caption = Jotta muut voivat varmistaa henkilöllisyytesi OTR-keskusteluissa, jaa oma OTR-sormenjälkesi ulkoisella (kaistan ulkopuolella) viestintäkanavalla.
 otr-fingerprint-label = Sormenjälkesi:
@@ -13,8 +12,6 @@ view-fingerprint-button =
     .label = Hallitse yhteystietojen sormenjälkiä
     .accesskey = H
 otr-settings-title = OTR-asetukset
-otr-log =
-    .label = Sisällytä OTR-salatut viestit keskustelulokeihin
 
 otr-require-encryption =
     .label = Vaadi päästä päähän -salaus kahdenvälisille keskusteluille

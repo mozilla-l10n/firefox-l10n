@@ -38,14 +38,12 @@
 <!ENTITY images.label "Kuvat">
 <!ENTITY popups.label "Ponnahdusikkunat">
 <!ENTITY passwords.label "Salasanat">
-<!ENTITY masterpass.label "Pääsalasana">
 <!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "Varmenteet">
 
 <!ENTITY sync.label "Synkronointi">
 
 <!ENTITY advance.label "Lisäasetukset">
-<!ENTITY scriptsAndWindows.label "Komentosarjat ja liitännäiset">
 <!ENTITY keynav.label "Näppäimistönavigointi">
 <!ENTITY findAsYouType.label "Pikahaut">
 <!ENTITY cache.label "Väliaikaistiedostot">

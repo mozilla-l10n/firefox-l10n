@@ -93,9 +93,6 @@
 <!ENTITY corruptedContentErrorv2.title "Sisältö vioittunut -virhe">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Avattavaa sivua ei voida näyttää, koska tiedonsiirrossa tapahtui virhe.</p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL-koodia etänä">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Yhteys ei ole suojattu">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

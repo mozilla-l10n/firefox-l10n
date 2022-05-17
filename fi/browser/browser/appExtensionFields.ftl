@@ -8,10 +8,13 @@
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = Järjestelmän teema — automaattinen
 extension-default-theme-description = Seuraa käyttöjärjestelmän asetuksia painikkeille, valikoille ja ikkunoille.
+
 extension-firefox-compact-light-name = Vaalea
 extension-firefox-compact-light-description = Teema vaalealla värimaailmalla.
+
 extension-firefox-compact-dark-name = Tumma
 extension-firefox-compact-dark-description = Teema tummalla värimaailmalla.
+
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Käytä värikästä ulkoasua painikkeissa, valikoissa ja ikkunoissa.
 

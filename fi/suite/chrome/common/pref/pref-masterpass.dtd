@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  pref.masterpass.title                  "Pääsalasana">
-
 <!ENTITY  changepassword.caption                 "Vaihda pääsalasana">
 <!ENTITY  changepassword.text                    "Pääsalasana suojaa arkaluontoista tietoa, kuten verkkosivujen salasanoja ja varmenteita.">
 <!ENTITY  changepassword.button                  "Vaihda salasana…">
@@ -11,7 +9,5 @@
 
 <!ENTITY  resetpassword.caption                  "Poista pääsalasana">
 <!ENTITY  resetpassword.text                     "Jos pääsalasana poistetaan, kaikki tallennetut sivusto- ja sähköpostisalasanat, lomaketiedot, henkilökohtaiset varmenteet sekä salaiset salausavaimet menetetään.">
-<!ENTITY  resetpassword.button                   "Poista salasana">
-<!ENTITY  resetpassword.accesskey                "P">
 <!ENTITY  resetpassword2.button                  "Nollaa salasana">
 <!ENTITY  resetpassword2.accesskey               "N">

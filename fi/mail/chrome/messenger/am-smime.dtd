@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Lue lisää">
 
 <!ENTITY e2eEnc.description "Ilman päästä päähän -salausta viestien sisältö altistuu helposti sähköpostipalveluntarjoajallesi ja joukkovalvonnalle.">
-<!ENTITY e2eeReqWarning.description "Jos lähettämäsi viesti pitää salata, viestin lähettämiseksi sinulla on oltava jokaisen vastaanottajan julkinen avain tai varmenne.">
 
-<!ENTITY e2eSigning.description "Digitaalinen allekirjoitus varmistaa vastaanottajille, että viesti on sinun lähettämäsi ja että sen sisältöä ei ole muutettu.">
 <!ENTITY e2eTechPref.description "Suositeltava salaustekniikka:">
 
-<!ENTITY doNotEncrypt.label "Älä ota salausta käyttöön oletusarvoisesti">
-<!ENTITY doNotEncrypt.accesskey "K">
-<!ENTITY requireEncryptMessage.label "Vaadi salaus oletuksena">
-<!ENTITY requireEncryptMessage.accesskey "V">
 <!ENTITY encryptionCert2.message "Henkilökohtainen varmenne salausta varten:">
 <!ENTITY digitalSign.certificate.button "Valitse…">
 <!ENTITY digitalSign.certificate.accesskey "V">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Tyhjennä">
 <!ENTITY encryption.certificate_clear.accesskey "y">
 <!ENTITY signingGroupTitle.label "Digitaalinen allekirjoittaminen">
-<!ENTITY signMessage2.label "Lisää digitaalinen allekirjoitukseni oletusarvoisesti">
-<!ENTITY signMessage.accesskey "A">
 
 <!ENTITY signingCert2.message "Henkilökohtainen varmenne digitaaliseen allekirjoittamiseen:">
 

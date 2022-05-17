@@ -4,9 +4,6 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
-<!ENTITY pref.scripts.title              "Komentosarjat ja liitännäiset">
-
 <!ENTITY navigator.label                 "Selaimessa">
 <!ENTITY navigator.accesskey             "S">
 
@@ -28,12 +25,3 @@
 <!ENTITY debugConsoleJavascript.label     "Näytä chrome JavaScript -virheet ja varoitukset">
 <!ENTITY debugConsoleJavascript.accesskey "c">
 
-<!ENTITY enablePlugins.label             "Salli liitännäisten käyttö:">
-<!ENTITY enablePluginForSuite.label      "Ohjelmistopaketissa">
-<!ENTITY enablePluginForSuite.accesskey  "h">
-
-<!ENTITY whenPageRequiresPlugins.label   "Jos sivusto vaatii liitännäisiä">
-<!ENTITY activateAllPlugins.label        "Aktivoi kaikki liitännäiset oletusarvoisesti">
-<!ENTITY activateAllPlugins.accesskey    "o">
-<!ENTITY warnPluginsRequired.label       "Kysy, jos lisää liitännäisiä tarvitsee asentaa">
-<!ENTITY warnPluginsRequired.accesskey   "o">

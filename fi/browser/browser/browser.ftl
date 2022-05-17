@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Yksityinen selaus)
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } (Yksityinen selaus)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } — (Yksityinen selaus)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — (Yksityinen selaus)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -113,6 +115,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Kirjoita vähemmän, löydä enemmän: Hae hakukoneella { $engineName } suoraan osoitepalkista.
 urlbar-search-tips-redirect-2 = Aloita hakeminen osoitepalkista, niin näet ehdotukset palvelusta { $engineName } ja selaushistoriastasi.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Valitse tämä, niin löydät etsimäsi nopeammin.
@@ -149,10 +152,12 @@ urlbar-midi-blocked =
     .tooltiptext = Olet estänyt MIDI-käytön tältä sivustolta.
 urlbar-install-blocked =
     .tooltiptext = Olet estänyt lisäosien asennuksen tältä sivustolta.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Muokkaa kirjanmerkkiä ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -179,8 +184,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Tällä kertaa käytä hakuun:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Muuta hakuasetuksia
+
 search-one-offs-context-open-new-tab =
     .label = Etsi uudessa välilehdessä
     .accesskey = E
@@ -190,12 +197,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Aseta oletushakukoneeksi yksityisissä ikkunoissa
     .accesskey = A
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -244,6 +253,7 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = m
 bookmark-panel-save-button =
     .label = Tallenna
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -271,6 +281,7 @@ identity-passive-loaded = Tällä sivulla on suojaamatonta sisältöä (kuten ku
 identity-active-loaded = Suojaamattoman sisällön estäminen on otettu pois päältä sivustolla.
 identity-weak-encryption = Sivusto käyttää heikkoa salausta.
 identity-insecure-login-forms = Tälle sivulle kirjoitettujen kirjautumistietojen turvallisuus voi vaarantua.
+
 identity-https-only-connection-upgraded = (päivitetty HTTPS:ksi)
 identity-https-only-label = Vain HTTPS -tila
 identity-https-only-dropdown-on =
@@ -282,9 +293,11 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Ota Vain HTTPS -tila käyttöön tälle sivustolle, jos haluat, että { -brand-short-name } päivittää suojattuun yhteyteen mikäli mahdollista.
 identity-https-only-info-turn-off2 = Jos sivu näyttää rikkinäiseltä, saatat haluta poistaa Vain HTTPS -tilan käytöstä ja näin ladata sivun uudestaan käyttäen suojaamatonta HTTP:tä.
 identity-https-only-info-no-upgrade = Yhteyden päivittäminen HTTP:stä epäonnistui.
+
 identity-permissions-storage-access-header = Sivustorajat ylittävät evästeet
 identity-permissions-storage-access-hint = Nämä osapuolet voivat käyttää sivustorajat ylittäviä evästeitä ja sivustotietoja, kun olet tällä sivustolla.
 identity-permissions-storage-access-learn-more = Lue lisää
+
 identity-permissions-reload-hint = Sivu tarvitsee ehkä päivittää, jotta muutokset tulevat voimaan.
 identity-clear-site-data =
     .label = Poista evästeet ja sivustotiedot…
@@ -347,11 +360,13 @@ browser-tab-mute =
         [1] VAIMENNA VÄLILEHTI
        *[other] VAIMENNA { $count } VÄLILEHTEÄ
     }
+
 browser-tab-unmute =
     { $count ->
         [1] PALAUTA ÄÄNI VÄLILEHTEEN
        *[other] PALAUTA ÄÄNI { $count } VÄLILEHTEEN
     }
+
 browser-tab-unblock =
     { $count ->
         [1] TOISTA ÄÄNI VÄLILEHDELLÄ
@@ -364,6 +379,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Tuo kirjanmerkit…
     .tooltiptext = Tuo kirjanmerkit toisesta selaimsta { -brand-short-name }iin.
+
 bookmarks-toolbar-empty-message = Laita kirjanmerkkisi tänne kirjanmerkkipalkkiin, niin pääset niihin nopeasti. <a data-l10n-name="manage-bookmarks">Järjestele kirjanmerkkejä…</a>
 
 ## WebRTC Pop-up notifications
@@ -381,12 +397,15 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Kaiuttimet
 popup-all-windows-shared = Kaikki näkyvissä olevat ikkunat jaetaan.
+
 popup-screen-sharing-block =
     .label = Estä
     .accesskey = E
+
 popup-screen-sharing-always-block =
     .label = Estä aina
     .accesskey = a
+
 popup-mute-notifications-checkbox = Vaimenna sivustojen ilmoitukset jakamisen aikana
 
 ## WebRTC window or screen share tab switch warning
@@ -408,6 +427,7 @@ enable-devtools-popup-description = Voit käyttää F12-pikanäppäintä, kun ol
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Kirjoita osoite tai hakusana
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -416,6 +436,7 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Hae verkosta
     .aria-label = Hae hakukoneella { $name }
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -424,22 +445,27 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Kirjoita hakuehdot
     .aria-label = Hae sivustosta { $name }
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Kirjoita hakuehdot
     .aria-label = Hae kirjanmerkeistä
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Kirjoita hakuehdot
     .aria-label = Hae historiasta
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Kirjoita hakuehdot
     .aria-label = Hae välilehdistä
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Hae hakukoneella { $name } tai kirjoita osoite
+
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -449,9 +475,11 @@ urlbar-permissions-granted =
     .tooltiptext = Olet myöntänyt tälle sivustolle lisäoikeuksia.
 urlbar-switch-to-tab =
     .value = Siirry välilehteen:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Laajennus:
+
 urlbar-go-button =
     .tooltiptext = Siirry osoitepalkissa olevaan osoitteeseen
 urlbar-page-action-button =
@@ -518,6 +546,7 @@ urlbar-result-action-search-tabs = Etsi välilehdistä
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+
 # A label shown above the search suggestions group in the urlbar results. It
 # should use title case.
 # Variables
@@ -532,9 +561,12 @@ urlbar-group-search-suggestions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> on nyt koko näytön tilassa
 fullscreen-warning-no-domain = Dokumentti on nyt koko näytön tilassa
+
+
 fullscreen-exit-button = Poistu koko näytön tilasta (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Poistu koko näytön tilasta (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -544,6 +576,7 @@ pointerlock-warning-no-domain = Tämä sivu hallitsee hiiren osoitinta. Voit ott
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Osa tästä sivusta kaatui.</strong> Lähetäthän raportin, jotta { -brand-product-name } saa tiedon tästä ja voi korjata ongelman nopeammin.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -599,6 +632,7 @@ bookmarks-tools =
     .label = Kirjanmerkkityökalut
 bookmarks-bookmark-edit-panel =
     .label = Muokkaa kirjanmerkkiä
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -612,6 +646,7 @@ bookmarks-toolbar-placeholder =
     .title = Kirjanmerkkipalkin linkit
 bookmarks-toolbar-placeholder-button =
     .label = Kirjanmerkkipalkin linkit
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Lisää nykyinen välilehti kirjanmerkkeihin
@@ -642,6 +677,7 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Lisäosat ja teemat
     .tooltiptext = Hallitse lisäosia ja teemoja ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -654,28 +690,30 @@ toolbar-settings-button =
 
 ## More items
 
-more-menu-go-offline =
-    .label = Työskentele yhteydettömässä tilassa
-    .accesskey = y
 toolbar-overflow-customize-button =
     .label = Muokkaa työkalupalkkia…
     .accesskey = M
+
 toolbar-button-email-link =
     .label = Lähetä linkki
     .tooltiptext = Lähetä linkki sähköpostilla
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Tallenna sivu
     .tooltiptext = Tallenna avoin sivu ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Avaa tiedosto
     .tooltiptext = Avaa tiedosto ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = Synkronoidut välilehdet
     .tooltiptext = Näytä muiden laitteiden välilehdet
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -704,10 +742,6 @@ addon-removal-abuse-report-checkbox = Raportoi tämä laajennus { -vendor-short-
 
 ## Remote / Synced tabs
 
-remote-tabs-manage-account =
-    .label = Hallinnoi tiliä
-remote-tabs-sync-now = Synkronoi nyt
-
 ##
 
 # "More" item in macOS share menu
@@ -722,6 +756,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Salli ponnahdusikkunat osoitteesta { $uriHost }
     .accesskey = S
+
 popups-infobar-block =
     .label = Estä ponnahdusikkunat osoitteesta { $uriHost }
     .accesskey = S
@@ -731,9 +766,11 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Älä näytä tätä viestiä kun ponnahdusikkuna estetään
     .accesskey = Ä
+
 edit-popup-settings =
     .label = Hallitse ponnahdusasetuksia…
     .accesskey = p
+
 picture-in-picture-hide-toggle =
     .label = Piilota kuva kuvassa -kytkin
     .accesskey = P
@@ -744,6 +781,7 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = Siirrä kuva kuvassa -kytkin oikealle puolelle
     .accesskey = o
+
 picture-in-picture-move-toggle-left =
     .label = Siirrä kuva kuvassa -kytkin vasemmalle puolelle
     .accesskey = v
@@ -758,32 +796,42 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Navigointi
+
 navbar-downloads =
     .label = Lataukset
+
 navbar-overflow =
     .tooltiptext = Lisää työkaluja…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Tulosta
     .tooltiptext = Tulosta sivu… ({ $shortcut })
+
 navbar-home =
     .label = Aloitussivu
     .tooltiptext = { -brand-short-name }-aloitussivu
+
 navbar-library =
     .label = Kirjasto
     .tooltiptext = Katsele historiaa, tallennettuja kirjanmerkkejä ynnä muuta
+
 navbar-search =
     .title = Etsi
+
 navbar-accessibility-indicator =
     .tooltiptext = Saavutettavuusominaisuudet käytössä
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Selaimen välilehdet
+
 tabs-toolbar-new-tab =
     .label = Uusi välilehti
+
 tabs-toolbar-list-all-tabs =
     .label = Listaa kaikki välilehdet
     .tooltiptext = Listaa kaikki välilehdet

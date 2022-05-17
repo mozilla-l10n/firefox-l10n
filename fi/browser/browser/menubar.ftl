@@ -38,16 +38,11 @@ menu-quit =
             [windows] S
            *[other] S
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Sulje { -brand-shorter-name }
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Sulje { -brand-shorter-name }
+
 menu-about =
     .label = Tietoja: { -brand-shorter-name }
     .accesskey = T
@@ -77,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Avaa tiedosto…
     .accesskey = d
-menu-file-close =
-    .label = Sulje
-    .accesskey = S
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 menu-file-close-tab =
@@ -104,9 +96,6 @@ menu-file-share-url =
 menu-file-print-setup =
     .label = Sivun asetukset…
     .accesskey = e
-menu-file-print-preview =
-    .label = Tulostuksen esikatselu
-    .accesskey = k
 menu-file-print =
     .label = Tulosta…
     .accesskey = o
@@ -319,9 +308,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = L
 menu-help-report-site-issue =
     .label = Ilmoita sivuston ongelmasta…
-menu-help-feedback-page =
-    .label = Anna palautetta…
-    .accesskey = A
 menu-help-share-ideas =
     .label = Jaa ideoita ja palautetta…
     .accesskey = d

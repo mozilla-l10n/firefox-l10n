@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "k">
 <!ENTITY SecondEmail.label              "Toissijainen sähköpostiosoite:">
 <!ENTITY SecondEmail.accesskey          "T">
-<!ENTITY PreferMailFormat.label         "Vastaanottaa viestit mieluiten muodossa:">
-<!ENTITY PreferMailFormat.accesskey     "m">
 <!ENTITY PlainText.label                "Pelkkä teksti">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Tuntematon">

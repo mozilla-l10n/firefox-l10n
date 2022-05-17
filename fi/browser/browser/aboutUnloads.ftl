@@ -7,13 +7,16 @@
 ### feature.
 
 about-unloads-page-title = Välilehtien latauksen purkaminen
+
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more = Tästä sivusta ja ominaisuudesta voi lukea lisää englanniksi sivulla <a data-l10n-name="doc-link">Tab Unloading</a>.
+
 about-unloads-last-updated = Viimeksi päivitetty: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Pura lataus
     .title = Pura sen välilehden lataus, jolla on suurin tärkeysaste
 about-unloads-no-unloadable-tab = Ei välilehtiä, joiden lataus purkaa.
+
 about-unloads-column-priority = Tärkeysaste
 about-unloads-column-host = Sivusto
 about-unloads-column-last-accessed = Viimeksi käytetty
@@ -25,6 +28,7 @@ about-unloads-column-memory = Muisti
     .title = Välilehden arvioitu muistinkäyttö
 about-unloads-column-processes = Prosessitunnisteet
     .title = Välilehden sisältöä isännöivien prosessien tunnisteet
+
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } Mt
 about-unloads-memory-in-mb-tooltip =

@@ -313,9 +313,6 @@
 <!ENTITY forwardAsInline.accesskey "V">
 <!ENTITY forwardAsAttachmentCmd.label "Liitteenä">
 <!ENTITY forwardAsAttachmentCmd.accesskey "L">
-<!ENTITY editMsgAsNewCmd.label "Muokkaa viestiä uutena">
-<!ENTITY editMsgAsNewCmd.accesskey "o">
-<!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY editAsNewMsgCmd.label "Muokkaa uutena viestinä">
 <!ENTITY editDraftMsgCmd.label "Muokkaa viestiluonnosta">
 <!ENTITY editTemplateMsgCmd.label "Muokkaa mallia">
@@ -474,8 +471,6 @@
 <!ENTITY contextOpenNewWindow.accesskey "A">
 <!ENTITY contextOpenNewTab.label "Avaa uuteen välilehteen">
 <!ENTITY contextOpenNewTab.accesskey "v">
-<!ENTITY contextEditAsNew.label "Muokkaa uutena…">
-<!ENTITY contextEditAsNew.accesskey "u">
 <!ENTITY contextEditMsgAsNew.label "Muokkaa uutena viestinä">
 <!ENTITY contextEditDraftMsg.label "Muokkaa viestiluonnosta">
 <!ENTITY contextEditTemplate.label "Muokkaa mallia">

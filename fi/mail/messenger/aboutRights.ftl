@@ -13,7 +13,6 @@ rights-intro-point-5 = Jotkin { -brand-short-name }in ominaisuudet käyttävät 
 rights-intro-point-5-unbranded = Jos tämä tuote käyttää toiminnassaan hyväkseen verkkopohjaisia palveluja, niiden palveluehdot tulisi linkittää <a data-l10n-name="mozilla-website-services-link">verkkosivustopalvelut</a>-osioon.
 rights-intro-point-6 = { -brand-short-name } lataa kolmansilta osapuolilta salauksen purkumoduuleja voidakseen toistaa tietyntyyppistä videosisältöä.
 rights-webservices-header = { -brand-full-name }in verkkopohjaiset tietopalvelut
-rights-webservices = { -brand-full-name }käyttää hyväkseen verkkopohjaisia tietopalveluita (”palveluita”) joidenkin tämän { -brand-short-name }in binääriversion ominaisuuksien toteuttamiseen kuten alla ehdoissa määritellään. Jos et halua käyttää näitä palveluita tai alla määritellyt ehdot eivät ole hyväksyttäviä, voit poistaa omaisuuden tai palvelut käytöstä. Ohjeet, kuinka tämä tehdään löytyvät <a data-l10n-name="mozilla-disable-service-link">täältä</a>. Muut ominaisuudet ja palvelut voi poistaa päältä ohjelman asetuksista.
 rights-locationawarebrowsing = <strong>Sijaintitietoinen selaus: </strong>on aina valinnainen. Sijaintitietoja ei ikinä lähetetä ilman hyväksyntääsi. Jos haluat poistaa toiminnon kokonaan, tee seuraavasti:
 rights-locationawarebrowsing-term-1 = Kirjoita osoitepalkkiin <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Kirjoita suodata-kenttään geo.enabled
