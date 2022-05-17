@@ -41,14 +41,7 @@ import-done-page-title = Thomelo-kahare e Phethilwe
 
 import-done-description = Dintho tse latelang di rometswe-kahare ka katleho:
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Ho tswa ho { $source }
-
 source-name-ie = Internet Explorer
-source-name-safari = Safari
 
 ## Browser data types
 ## All of these strings get a $browser variable passed in.

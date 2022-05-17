@@ -129,12 +129,6 @@ language-popup-label =
 
 download-dictionaries-link = Jarolla Didikshinari tse Ding
 
-format-description = Hlophisa boitshwaro ba fomate ya sengolwa
-
-send-options-label =
-    .label = Romela Kgetho...
-    .accesskey = R
-
 autocomplete-description = Ha o ateresa melaetsa sheba dikenyo tse tshwanang ho:
 
 ab-label =
@@ -171,4 +165,6 @@ email-picker-label =
 
 
 ## Preferences UI Search Results
+
+## Settings UI Search Results
 

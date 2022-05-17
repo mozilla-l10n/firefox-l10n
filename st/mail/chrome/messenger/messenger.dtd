@@ -16,8 +16,6 @@
 <!ENTITY openMessageFileCmd.accesskey "B">
 <!ENTITY saveAsMenu.label "Boloka E le">
 <!ENTITY saveAsMenu.accesskey "B">
-<!ENTITY saveAsFileCmd.label "Faele">
-<!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Thempleiti">
 <!ENTITY saveAsTemplateCmd.accesskey "T">

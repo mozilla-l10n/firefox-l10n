@@ -16,9 +16,6 @@
 <!ENTITY attachMenu.accesskey "h">
 <!ENTITY attachPageCmd.label "Leqephe la Webe...">
 <!ENTITY attachPageCmd.accesskey "L">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Karete ya Motho (vCard)">
-<!ENTITY attachVCardCmd.accesskey "K">
 <!ENTITY closeCmd.label "Kwala">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "k">
@@ -101,14 +98,6 @@
 
 <!ENTITY returnReceiptMenu.label "Kgutliso ya Rasiti">
 <!ENTITY returnReceiptMenu.accesskey "u">
-<!ENTITY autoFormatCmd.label "Phumano e Iketsang">
-<!ENTITY autoFormatCmd.accesskey "p">
-<!ENTITY plainTextFormatCmd.label "Mongolo o Poleine Feela">
-<!ENTITY plainTextFormatCmd.accesskey "m">
-<!ENTITY htmlFormatCmd.label "Mongolo o Nontshitsweng (HTML) Feela">
-<!ENTITY htmlFormatCmd.accesskey "m">
-<!ENTITY bothFormatCmd.label "Mongolo o Poleine o Nontshitsweng (HTML)">
-<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "Bohlokwa">
 <!ENTITY priorityMenu.accesskey "b">
 <!ENTITY priorityButton.label "Bohlokwa:">

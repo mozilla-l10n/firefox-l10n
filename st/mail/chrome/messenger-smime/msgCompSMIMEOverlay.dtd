@@ -9,16 +9,3 @@
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
-<!ENTITY menu_securityEncryptRequire.accesskey "E">
-
-<!ENTITY menu_securitySign.label "Saena Molaetsa ona ka Dijitale">
-<!ENTITY menu_securitySign.accesskey "M">
-
-<!ENTITY menu_securityStatus.label "Sheba Lesedi ka Tshireletseho">
-<!ENTITY menu_securityStatus.accesskey "T">
-
-<!ENTITY securityButton.label "Tshireletseho">
-<!ENTITY securityButton.tooltip "Sheba kapa fetola disetwa tsa tshireletseho">
-
-<!ENTITY menu_viewSecurityStatus.label "Lesedi ka Tshireletseho ya Molaetsa">
-<!ENTITY menu_viewSecurityStatus.accesskey "M">
