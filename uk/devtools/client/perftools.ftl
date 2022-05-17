@@ -42,16 +42,15 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Розмір буфера:
+
 perftools-custom-threads-label = Додати власні потоки за назвою:
+
 perftools-devtools-interval-label = Інтервал:
 perftools-devtools-threads-label = Потоки:
 perftools-devtools-settings-label = Налаштування
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
-perftools-status-private-browsing-notice =
-    Profiler вимикається після увімкнення приватного перегляду.
-    Закрийте всі вікна приватного перегляду, щоб знову увімкнути Profiler
 perftools-status-recording-stopped-by-another-tool = Запис було зупинено іншим інструментом.
 perftools-status-restart-required = Щоб увімкнути цю функцію, потрібно перезапустити браузер.
 
@@ -101,6 +100,7 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Обходити вибране вгорі й записувати всі зареєстровані потоки
+
 perftools-tools-threads-input-label =
     .title = Назви потоків є розділеним комами списком, що використовується для увімкнення профілювання потоків у Profiler. Для включення, назва повинна мати лише частковий збіг з назвою потоку. Вони чутливі до пробілів.
 
@@ -108,9 +108,14 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## devtools.performance.new-panel-onboarding preference is true.
+
 perftools-onboarding-message = <b>Нове</b>: { -profiler-brand-name } тепер вбудовано в Інструменти розробника. <a>Дізнайтеся докладніше</a> про цей потужний новий інструмент.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Впродовж обмеженого часу ви можете отримати доступ до оригінальної панелі швидкодії через <a>{ options-context-advanced-settings }</a>)
+
 perftools-onboarding-close-button =
     .aria-label = Закрити вітальне повідомлення
 
@@ -123,21 +128,19 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Веброзробник
 perftools-presets-web-developer-description = Рекомендовані попередні налаштування для зневадження більшості застосунків. З низькими споживанням ресурсів.
-perftools-presets-firefox-platform-label = Платформа Firefox
-perftools-presets-firefox-platform-description = Рекомендовані попередні налаштування для внутрішнього зневадження Firefox.
-perftools-presets-firefox-front-end-label = Клієнтська частина Firefox
-perftools-presets-firefox-front-end-description = Рекомендовані попередні налаштування для внутрішнього зневадження клієнтської частини Firefox.
-perftools-presets-firefox-graphics-label = Графіка Firefox
-perftools-presets-firefox-graphics-description = Рекомендовані попередні налаштування для дослідження запису графіків швидкодії Firefox.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Рекомендовані налаштування для профілювання { -brand-shorter-name }.
+
 perftools-presets-graphics-label = Графіка
 perftools-presets-graphics-description = Налаштування для виявлення помилок графіки в { -brand-shorter-name }.
+
 perftools-presets-media-label = Медіа
-perftools-presets-media-description = Рекомендовані попередні налаштування для визначення проблем зі звуком та відео.
 perftools-presets-media-description2 = Налаштування для виявлення помилок аудіо та відео в { -brand-shorter-name }.
+
 perftools-presets-networking-label = Мережа
 perftools-presets-networking-description = Налаштування для виявлення помилок мережі в { -brand-shorter-name }.
+
 perftools-presets-custom-label = Власні
 
 ##

@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Потрібен перезапуск
-restart-required-header = Вибачте. Нам залишилося зробити лише одну невеличку річ, щоб продовжити роботу.
-restart-required-intro-brand = { -brand-short-name } щойно був оновлений у фоновому режимі. Перезапустіть { -brand-short-name } для завершення оновлення.
-restart-required-description = Усі ваші сторінки, вікна і вкладки відновляться після оновлення, щоб ви змогли швидко продовжити свої справи.
 restart-required-heading = Перезапустіть, щоб далі користуватися { -brand-short-name }
 restart-required-intro = { -brand-short-name } оновлюється у фоновому режимі. Для завершення вам необхідно буде перезапустити його.
 window-restoration-info = Ваші вікна та вкладки швидко відновляться, окрім відкритих у приватному режимі.
+
 restart-button-label = Перезапуск { -brand-short-name }

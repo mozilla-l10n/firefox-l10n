@@ -93,9 +93,6 @@
 <!ENTITY corruptedContentErrorv2.title "Помилка пошкодженого вмісту">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Сторінка, яку ви намагаєтесь переглянути, не може бути показана через те, що було виявлено помилку в передачі даних.</p><ul><li>Будь ласка, зв'яжіться з власниками вебсайту та повідомте їх про цю проблему.</li></ul>">
 
-<!ENTITY remoteXUL.title "Віддалений XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Зв’яжіться з власниками сайту та повідомте їх про цю проблему.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Ваше з'єднання незахищене">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

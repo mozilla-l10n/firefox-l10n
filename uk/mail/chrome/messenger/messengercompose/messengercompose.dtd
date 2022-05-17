@@ -21,9 +21,6 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Вебсторінку…">
 <!ENTITY attachPageCmd.accesskey "е">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Візитну картку (vCard)">
-<!ENTITY attachVCardCmd.accesskey "з">
 <!ENTITY remindLater.label "Нагадати пізніше">
 <!ENTITY remindLater.accesskey "п">
 <!ENTITY closeCmd.label "Закрити">
@@ -149,16 +146,6 @@
 <!ENTITY returnReceiptMenu.accesskey "С">
 <!ENTITY dsnMenu.label "Cповіщення про доставку">
 <!ENTITY dsnMenu.accesskey "д">
-<!ENTITY deliveryFormatMenu.label "Формат доставки">
-<!ENTITY deliveryFormatMenu.accesskey "Ф">
-<!ENTITY autoFormatCmd.label "Автовизначення">
-<!ENTITY autoFormatCmd.accesskey "А">
-<!ENTITY plainTextFormatCmd.label "Звичайний текст">
-<!ENTITY plainTextFormatCmd.accesskey "т">
-<!ENTITY htmlFormatCmd.label "Форматований текст (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "Ф">
-<!ENTITY bothFormatCmd.label "Звичайний текст і HTML">
-<!ENTITY bothFormatCmd.accesskey "і">
 <!ENTITY priorityMenu.label "Важливість">
 <!ENTITY priorityMenu.accesskey "ж">
 <!ENTITY priorityButton.title "Важливість">
@@ -222,7 +209,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Інші типи адресних полів">
 <!ENTITY fromAddr2.label "Від">
 <!ENTITY fromAddr.accesskey "д">
 <!ENTITY replyAddr2.label "Відповісти">

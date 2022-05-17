@@ -4,8 +4,10 @@
 
 account-settings-title = Налаштування автентифікації
 account-channel-title = Типові канали
+
 chat-autologin =
     .label = Вхід під час запуску
+
 chat-encryption-generic = Загальне
 chat-encryption-log =
     .label = Включати наскрізно зашифровані повідомлення до журналів бесід

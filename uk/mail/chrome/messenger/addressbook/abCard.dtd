@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "Е">
 <!ENTITY SecondEmail.label              "Дод. адреса електронної пошти:">
 <!ENTITY SecondEmail.accesskey          "о">
-<!ENTITY PreferMailFormat.label         "Вважає за краще отримувати пошту у форматі:">
-<!ENTITY PreferMailFormat.accesskey     "в">
 <!ENTITY PlainText.label                "Звичайний текст">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Невідомо">

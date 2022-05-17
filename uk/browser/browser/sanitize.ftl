@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Дані
 
-item-site-preferences =
-    .label = Налаштування сайтів
-    .accesskey = с
-
 item-site-settings =
     .label = Налаштування сайтів
     .accesskey = л

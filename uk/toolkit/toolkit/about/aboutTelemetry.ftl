@@ -34,7 +34,6 @@ about-telemetry-events-section = Події
 about-telemetry-simple-measurements-section = Прості вимірювання
 about-telemetry-slow-sql-section = Повільні SQL-запити
 about-telemetry-addon-details-section = Подробиці про додатки
-about-telemetry-captured-stacks-section = Захоплені стеки
 about-telemetry-late-writes-section = Пізні записи
 about-telemetry-raw-payload-section = Необроблене навантаження
 about-telemetry-raw = Необроблений JSON
@@ -122,10 +121,6 @@ about-telemetry-addon-provider = Провайдер { $addonProvider }
 about-telemetry-keys-header = Властивість
 about-telemetry-names-header = Назва
 about-telemetry-values-header = Значення
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (кількість захоплених: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Пізній запис #{ $lateWriteCount }
