@@ -68,5 +68,3 @@ contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Proszã dac wiedzã miéwcë ti stronë ò tim problemie.</li></ul></p>">
-

@@ -23,36 +23,13 @@ downloads-cmd-cancel =
     .tooltiptext = Òprzestóń
 downloads-cmd-cancel-panel =
     .aria-label = Òprzestóń
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = Òtemkni zamikający w se katalog
-    .accesskey = t
   
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = Wëskrzëni w Finderze
-    .accesskey = W
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] Wëskrzëni w Finderze
-           *[other] Òtemkni zamikający w se katalog
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] Wëskrzëni w Finderze
-           *[other] Òtemkni zamikający w se katalog
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] Wëskrzëni w Finderze
-           *[other] Òtemkni zamikający w se katalog
-        }
+##
 
 downloads-cmd-retry =
     .tooltiptext = Spróbùjë znowa
@@ -87,6 +64,13 @@ downloads-cmd-clear-downloads =
 downloads-history =
     .label = Wëskrzëni wszëtczé zladënczi
     .accesskey = W
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
 
 downloads-clear-downloads-button =
     .label = Wëczëszczë zladënczi

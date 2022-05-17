@@ -5,6 +5,7 @@
 toolbar-context-menu-view-customize-toolbar =
     .label = Dopasëjë…
     .accesskey = D
+
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Lëstew menu
     .accesskey = m
