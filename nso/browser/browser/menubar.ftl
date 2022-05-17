@@ -33,10 +33,6 @@ menu-quit =
            *[other] E
         }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
 ## File Menu
 
 menu-file =
@@ -54,9 +50,6 @@ menu-file-new-private-window =
 menu-file-open-file =
     .label = Bula faele…
     .accesskey = B
-menu-file-close =
-    .label = Tswalela
-    .accesskey = T
 menu-file-close-window =
     .label = Tswalela lefasetere
     .accesskey = e
@@ -69,9 +62,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Peakanyo ya letlakala…
     .accesskey = n
-menu-file-print-preview =
-    .label = Tebelelo pele ya kgatišo
-    .accesskey = b
 menu-file-print =
     .label = Gatiša…
     .accesskey = G
@@ -217,6 +207,3 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Thušo
     .accesskey = T
-menu-help-feedback-page =
-    .label = Iša dipoelo…
-    .accesskey = I

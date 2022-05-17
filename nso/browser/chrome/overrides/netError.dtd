@@ -63,8 +63,6 @@ was trying to connect. -->
 
 
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Hle ikgokaganye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,

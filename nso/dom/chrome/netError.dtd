@@ -78,9 +78,6 @@
 <!ENTITY corruptedContentErrorv2.title "Phošo ya dikagare tšeo di senyegilego">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Letlakala leo o lekago go le lebelela le ka se laetšwe ka gobane go lemogilwe phošo go phetišetšo ya tsebišo.</p><ul><li>Hle ikopanye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL ya kgole">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Hle ikgokaganye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

@@ -5,3 +5,5 @@
 privatebrowsingpage-open-private-window-label = Bula lefasetere la praebete
     .accesskey = p
 
+## The following strings will be used for experiments in Fx99 and Fx100
+

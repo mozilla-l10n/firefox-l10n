@@ -19,36 +19,13 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Thoma gape
     .accesskey = T
-
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show-menuitem =
-    .label = Bula foltara ya go swara
-    .accesskey = f
   
-# This message is only displayed on macOS devices
-downloads-cmd-show-menuitem-mac =
-    .label = Laetša go sehwetši
-    .accesskey = s
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] Laetša go sehwetši
-           *[other] Bula foltara ya go swara
-        }
-
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] Laetša go sehwetši
-           *[other] Bula foltara ya go swara
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] Laetša go sehwetši
-           *[other] Bula foltara ya go swara
-        }
+##
 
 downloads-cmd-retry =
     .tooltiptext = Leka gape
@@ -83,6 +60,13 @@ downloads-cmd-clear-downloads =
 downloads-history =
     .label = Laetša ditaollo tšohle
     .accesskey = L
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+##
 
 downloads-clear-downloads-button =
     .label = Tloša ditaollo

@@ -20,6 +20,7 @@ app-basics-build-config = Peakanyo ya go aga
 app-basics-user-agent = Moemedi wa modiriši
 app-basics-memory-use = Tirišo ya polokelo
 app-basics-safe-mode = Mokgwa o bolokegilego
+
 modified-key-prefs-title = Dikganyogwa tše fetošitšwego tše bohlokwa
 modified-prefs-name = Leina
 user-js-title = Dikganyogwa tša user.js

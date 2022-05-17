@@ -54,10 +54,6 @@ item-cache =
 
 data-section-label = Tsebišo
 
-item-site-preferences =
-    .label = Dikganyogo tša saete
-    .accesskey = s
-
 item-offline-apps =
     .label = Tsebišo ya wepesaete ya go se be mogaleng
     .accesskey = o
