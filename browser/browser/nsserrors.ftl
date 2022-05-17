@@ -12,16 +12,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Flater bard wylst in ferbining mei { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Flaterkoade: { $error }
+
 psmerr-ssl-disabled = Kin gjin befeilige ferbining opsette, omdat it SSL-protokol útskeakele is.
 psmerr-ssl2-disabled = Kin gjin befeilige ferbining opsette, omdat de side in âldere, minder feilige ferzje fan it SSL-protokol brûkt.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Jo hawwe in ûnjildich sertifikaat ûntfangen. Nim kontakt op mei de serverbehearder of e-mailkorrespondint en jou harren de folgjende ynformaasje:
     
     Jo sertifikaat hat itselde searjenûmer as in oar troch de sertifikaatautoriteit útjûn sertifikaat. Helje in nij sertifikaat mei in unyk searjenûmer op.
+
 ssl-error-export-only-server = Befeilige kommunikaasje net mooglik.  Peer stipet gjin hege graad fan fersifering.
 ssl-error-us-only-server = Befeilige kommunikaasje net mooglik.  Peer fereasket hege graad fan fersifering, hokker net stipe wurd.
 ssl-error-no-cypher-overlap = Kin net befeiligd kommunisearje mei peer: gjin algemien(e) fersiferingsalgoritme(n).

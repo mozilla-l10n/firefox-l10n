@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Gegevens
 
-item-site-preferences =
-    .label = Websidefoarkarren
-    .accesskey = o
-
 item-site-settings =
     .label = Website-ynstellingen
     .accesskey = s

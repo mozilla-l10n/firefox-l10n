@@ -22,6 +22,7 @@ about-addressbook-toolbar-import =
 ## Books
 
 all-address-books = Alle adresboeken
+
 about-addressbook-books-context-properties =
     .label = Eigenskippen
 about-addressbook-books-context-synchronize =
@@ -36,6 +37,7 @@ about-addressbook-books-context-remove =
     .label = Fuortsmite
 about-addressbook-books-context-startup-default =
     .label = Standert opstartmap
+
 about-addressbook-confirm-delete-book-title = Adresboek fuortsmite
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -53,14 +55,17 @@ about-addressbook-search =
     .placeholder = { $name } trochsykje
 about-addressbook-search-all =
     .placeholder = Alle adresboeken trochsykje
+
 about-addressbook-sort-button =
     .title = Listfolchoarder wizigje
+
 about-addressbook-name-format-display =
     .label = Werjeftenamme
 about-addressbook-name-format-firstlast =
     .label = Foarnamme Efternamme
 about-addressbook-name-format-lastfirst =
     .label = Efternamme, foarnamme
+
 about-addressbook-sort-name-ascending =
     .label = Sortearje op namme (A > Z)
 about-addressbook-sort-name-descending =
@@ -69,8 +74,10 @@ about-addressbook-sort-email-ascending =
     .label = Sortearje op e-mailadres (A > Z)
 about-addressbook-sort-email-descending =
     .label = Sortearje op e-mailadres (Z >A)
+
 about-addressbook-cards-context-write =
     .label = Opstelle
+
 about-addressbook-confirm-delete-mixed-title = Kontakten en listen fuortsmite
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -128,11 +135,13 @@ about-addressbook-begin-edit-contact-button = Bewurkje
 about-addressbook-delete-edit-contact-button = Fuortsmite
 about-addressbook-cancel-edit-contact-button = Annulearje
 about-addressbook-save-edit-contact-button = Bewarje
+
 about-addressbook-details-email-addresses-header = E-mailadressen
 about-addressbook-details-phone-numbers-header = Telefoannûmers
 about-addressbook-details-home-address-header = Adres
 about-addressbook-details-work-address-header = Wurkadres
 about-addressbook-details-other-info-header = Oare ynformaasje
+
 about-addressbook-unsaved-changes-prompt-title = Net bewarre wizigingen
 about-addressbook-unsaved-changes-prompt = Wolle jo jo wizigingen bewarje eardat jo de bewurkingswerjefte ferlitte?
 
@@ -142,6 +151,7 @@ about-addressbook-photo-drop-target = Sleep of plak hjir in foto, of klik om in 
 about-addressbook-photo-drop-loading = Foto lade…
 about-addressbook-photo-drop-error = Foto laden mislearre.
 about-addressbook-photo-filepicker-title = Ofbyldingsbestân selektearje
+
 about-addressbook-photo-discard = Besteande foto fuortsmite
 about-addressbook-photo-cancel = Annulearje
 about-addressbook-photo-save = Bewarje

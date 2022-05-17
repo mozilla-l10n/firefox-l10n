@@ -5,23 +5,21 @@
 
 ## App Menu
 
-appmenuitem-update-banner3 =
-    .label-update-downloading = { -brand-shorter-name }-fernijing wurdt download
-    .label-update-available = Fernijing beskikber – no downloade
-    .label-update-manual = Fernijing beskikber – no downloade
-    .label-update-unsupported = Kin net bywurkje – systeem net kompatibel
-    .label-update-restart = Fernijing beskikber – no opnij starte
-appmenuitem-protection-dashboard-title = Befeiligingsdashboerd
 appmenuitem-banner-update-downloading =
     .label = { -brand-shorter-name }-fernijing wurdt download
+
 appmenuitem-banner-update-available =
     .label = Fernijing beskikber – no downloade
+
 appmenuitem-banner-update-manual =
     .label = Fernijing beskikber – no downloade
+
 appmenuitem-banner-update-unsupported =
     .label = Kin net bywurkje – systeem net kompatibel
+
 appmenuitem-banner-update-restart =
     .label = Fernijing beskikber – no opnij starte
+
 appmenuitem-new-tab =
     .label = Nij ljepblêd
 appmenuitem-new-window =
@@ -58,6 +56,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Tapassingsmenu slute
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -78,23 +77,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Oanmelde by Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Syngronisaasje ynskeakelje…
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Mear ljepblêden toane
     .tooltiptext = Mear ljepblêden toane fan dit apparaat
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Gjin iepen ljepblêden
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Set ljepblêdsyngroanisaasje oan om in list fan ljepblêden fan jo oare apparaten wer te jaan.
+
 appmenu-remote-tabs-opensettings =
     .label = Ynstellingen
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Wolle jo hjir jo ljepblêden fan oare apparaten sjen?
+
 appmenu-remote-tabs-connectdevice =
     .label = Noch in apparaat keppelje
 appmenu-remote-tabs-welcome = Besjoch in list mei ljepblêden fan jo oare apparaten.
 appmenu-remote-tabs-unverified = Jo account moat ferifiearre wurde.
+
 appmenuitem-fxa-toolbar-sync-now2 = No syngronisearje
 appmenuitem-fxa-sign-in = Oanmelde by { -brand-product-name }
 appmenuitem-fxa-manage-account = Account beheare
@@ -108,13 +114,14 @@ appmenu-fxa-sync-and-save-data2 = Syngronisearje en gegevens bewarje
 appmenu-fxa-signed-in-label = Oanmelde
 appmenu-fxa-setup-sync =
     .label = Syngronisaasje ynskeakelje…
-appmenu-fxa-show-more-tabs = Mear ljepblêden toane
+
 appmenuitem-save-page =
     .label = Side bewarje as…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Wat is der nij
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -128,48 +135,53 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiler
     .tooltiptext = Nim in prestaasjeprofyl op
+
 profiler-popup-button-recording =
     .label = Profiler
     .tooltiptext = De profiler nimt in profyl op
+
 profiler-popup-button-capturing =
     .label = Profiler
     .tooltiptext = De profiler nimt in profyl op
+
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Mear ynformaasje toane
+
 profiler-popup-description-title =
     .value = Opnimme, analysearje, diele
+
 profiler-popup-description = Wurkje tegearre oan prestaasjeproblemen troch profilen te publisearjen om mei jo team te dielen.
-profiler-popup-learn-more = Mear ynfo
+
 profiler-popup-learn-more-button =
     .label = Mear ynfo
+
 profiler-popup-settings =
     .value = Ynstellingen
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings = Ynstellingen bewurkje…
-profiler-popup-disabled =
-    De profiler is op dit stuit útskeakele, wierskynlik omdat in priveefinster
-    iepene is.
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Ynstellingen bewurkje…
+
 profiler-popup-recording-screen = Opnimme…
-# The profiler presets list is generated elsewhere, but the custom preset is defined
-# here only.
-profiler-popup-presets-custom =
-    .label = Oanpast
+
 profiler-popup-start-recording-button =
     .label = Opname starte
+
 profiler-popup-discard-button =
     .label = Ferwerpe
+
 profiler-popup-capture-button =
     .label = Fêstlizze
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -187,18 +199,23 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Oanrekommandearre foarynstelling foar de measte flateropspoaring yn web-apps, mei lege overhead.
 profiler-popup-presets-web-developer-label =
     .label = Webûntwikkeler
+
 profiler-popup-presets-firefox-description = Oanrekommandearre foarynstelling foar profilearjen { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+
 profiler-popup-presets-graphics-description = Foarynstelling foar it ûndersykjen fan grafyske bugs yn { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Grafysk
+
 profiler-popup-presets-media-description2 = Foarynstelling foar it ûndersykjen fan audio- en fideobugs yn { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Media
+
 profiler-popup-presets-networking-description = Foarynstelling foar it ûndersykjen fan netwerkbugs yn { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Netwurk
+
 profiler-popup-presets-custom-label =
     .label = Oanpast
 
@@ -233,9 +250,6 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = p
 appmenu-help-report-site-issue =
     .label = Websiteprobleem rapportearje…
-appmenu-help-feedback-page =
-    .label = Feedback ferstjoere…
-    .accesskey = f
 appmenu-help-share-ideas =
     .label = Ideeën en kommentaar diele…
     .accesskey = k
@@ -264,8 +278,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Arkbalke oanpasse…
-appmenu-taskmanager =
-    .label = Taakbehearder
+
 appmenu-developer-tools-subheader = Browserhelpmidelen
 appmenu-developer-tools-extensions =
     .label = Utwreidingen foar ûntwikkelers

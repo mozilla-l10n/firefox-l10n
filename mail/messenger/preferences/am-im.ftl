@@ -4,8 +4,10 @@
 
 account-settings-title = Autentikaasjeynstellingen
 account-channel-title = Standertkanalen
+
 chat-autologin =
     .label = Oanmelde by opstarten
+
 chat-encryption-generic = Algemien
 chat-encryption-log =
     .label = End-to-end-fersifere berjochten yn petearlochboeken opnimme

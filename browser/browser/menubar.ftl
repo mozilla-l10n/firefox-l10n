@@ -38,16 +38,11 @@ menu-quit =
             [windows] O
            *[other] O
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } ôfslute
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = { -brand-shorter-name } ôfslute
+
 menu-about =
     .label = Oer { -brand-shorter-name }
     .accesskey = O
@@ -77,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Bestân iepenje…
     .accesskey = i
-menu-file-close =
-    .label = Slute
-    .accesskey = S
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 menu-file-close-tab =
@@ -105,9 +97,6 @@ menu-file-share-url =
 menu-file-print-setup =
     .label = Side-ynstellingen…
     .accesskey = y
-menu-file-print-preview =
-    .label = Ofdrukfoarbyld
-    .accesskey = f
 menu-file-print =
     .label = Ofdrukke…
     .accesskey = d
@@ -320,9 +309,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = p
 menu-help-report-site-issue =
     .label = Websiteprobleem rapportearje…
-menu-help-feedback-page =
-    .label = Feedback ferstjoere…
-    .accesskey = f
 menu-help-share-ideas =
     .label = Ideeën en kommentaar diele
     .accesskey = k

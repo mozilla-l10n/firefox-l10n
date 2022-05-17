@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "It tal kearen dat dizze funksje op de stack stie doe’t de profiler in monster naam">
 <!ENTITY performanceUI.table.function                 "Funksje">
 <!ENTITY performanceUI.table.function.tooltip         "De namme en boarnelokaasje fan de bemonstere funksje">
-<!ENTITY performanceUI.table.totalAlloc               "Totale bemonstere tawizingen">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "It totale oantal op dizze lokaasje en yn oanropstruktueren bemonstere objekttawizingen">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

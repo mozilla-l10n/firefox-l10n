@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "F">
 <!ENTITY newVirtualFolderCmd.label "Bewarre sykopdracht…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
-<!ENTITY newOtherAccountsCmd.label "Oare accounts…">
-<!ENTITY newOtherAccountsCmd.accesskey "O">
 <!ENTITY newCreateEmailAccountCmd.label "Krij in nij e-mailaccount…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "K">
 <!ENTITY newExistingEmailAccountCmd.label "Besteand e-mailaccount…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Bewarje as">
 <!ENTITY saveAsMenu.accesskey "a">
-<!ENTITY saveAsFileCmd.label "Bestân">
-<!ENTITY saveAsFileCmd.accesskey "B">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Sjabloan">
 <!ENTITY saveAsTemplateCmd.accesskey "S">
