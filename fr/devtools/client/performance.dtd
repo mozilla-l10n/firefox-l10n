@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Le nombre de fois où cette fonction était sur la pile lorsque le profileur a capturé un échantillon.">
 <!ENTITY performanceUI.table.function                 "Fonction">
 <!ENTITY performanceUI.table.function.tooltip         "Le nom et l’emplacement de la source de la fonction échantillonnée.">
-<!ENTITY performanceUI.table.totalAlloc               "Allocations totales">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Le nombre total d’allocations d’objets échantillonnés à cet endroit et dans les appels.">
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.filter.tooltiptext): This string

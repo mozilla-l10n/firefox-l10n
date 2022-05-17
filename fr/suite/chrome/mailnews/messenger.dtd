@@ -313,9 +313,6 @@
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Pièce jointe">
 <!ENTITY forwardAsAttachmentCmd.accesskey "j">
-<!ENTITY editMsgAsNewCmd.label "Modifier comme un nouveau message">
-<!ENTITY editMsgAsNewCmd.accesskey "e">
-<!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Créer un filtre à partir du message…">
 <!ENTITY createFilter.accesskey "i">
 <!ENTITY archiveMsgCmd.label "Archiver">
@@ -468,8 +465,6 @@
 <!ENTITY contextOpenNewWindow.accesskey "n">
 <!ENTITY contextOpenNewTab.label "Ouvrir le message dans un nouvel onglet">
 <!ENTITY contextOpenNewTab.accesskey "O">
-<!ENTITY contextEditAsNew.label "Modifier comme un nouveau message…">
-<!ENTITY contextEditAsNew.accesskey "e">
 <!ENTITY contextReplySender.label "Répondre à l’expéditeur">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyList.label "Répondre à la liste">

@@ -23,9 +23,6 @@
 <!ENTITY inReplyToField.label "En réponse à : ">
 <!ENTITY originalWebsite.label "Site web : ">
 
-<!ENTITY editMessage.label                 "Modifier le brouillon…">
-<!ENTITY editMessage.accesskey             "b">
-
 <!ENTITY attachmentsTree.label             "Pièces jointes :">
 <!ENTITY attachmentsTree.accesskey         "j">
 <!ENTITY openAttachmentCmd.label           "Ouvrir">

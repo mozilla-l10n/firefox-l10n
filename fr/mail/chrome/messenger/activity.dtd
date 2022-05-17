@@ -10,28 +10,10 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                  "Activités">
 
-<!ENTITY cmd.pause.label                  "Pause">
-<!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Reprendre">
-<!ENTITY cmd.resume.accesskey             "R">
-<!ENTITY cmd.cancel.label                 "Annuler">
-<!ENTITY cmd.cancel.accesskey             "A">
-<!ENTITY cmd.undo.label                   "Annuler">
-<!ENTITY cmd.undo.accesskey               "u">
-<!ENTITY cmd.recover.label                "Rétablir">
-<!ENTITY cmd.recover.accesskey            "t">
-<!ENTITY cmd.retry.label                  "Réessayer">
-<!ENTITY cmd.retry.accesskey              "R">
-<!ENTITY cmd.removeFromList.label         "Retirer de la liste">
-<!ENTITY cmd.removeFromList.accesskey     "e">
-
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Vider la liste">
 <!ENTITY cmd.clearList.tooltip            "Retirer les téléchargements terminés, annulés et ayant échoué de la liste">
 <!ENTITY cmd.clearList.accesskey          "V">
-<!ENTITY cmd.find.commandkey              "f">
-<!ENTITY cmd.search.commandkey            "k">
 
-<!ENTITY searchBox.label                  "Rechercher…">
