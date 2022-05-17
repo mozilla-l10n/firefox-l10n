@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Ďalšia e-mailová adresa:">
 <!ENTITY SecondEmail.accesskey          "i">
-<!ENTITY PreferMailFormat.label         "Preferuje príjem správ vo formáte:">
-<!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "Iba text">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Nie je známe">

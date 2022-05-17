@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Údaje
 
-item-site-preferences =
-    .label = Nastavenia stránok
-    .accesskey = e
-
 item-site-settings =
     .label = Nastavenia stránok
     .accesskey = N

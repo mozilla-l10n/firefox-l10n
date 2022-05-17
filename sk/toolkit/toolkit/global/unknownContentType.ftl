@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = Otvoriť v aplikácii { -brand-short-name }
     .accesskey = o
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Nastavenia je možné zmeniť v Možnostiach prehliadača { -brand-short-name }.
            *[other] Nastavenia je možné zmeniť v Možnostiach prehliadača { -brand-short-name }.
         }
+
 unknowncontenttype-intro = Vybrali ste akciu otvoriť súbor alebo odkaz:
 unknowncontenttype-which-is = ktorý je typu:
 unknowncontenttype-from = umiestnený na serveri:

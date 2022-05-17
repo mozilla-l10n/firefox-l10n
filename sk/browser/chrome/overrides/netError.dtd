@@ -166,8 +166,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Hlásiť chyby ako je táto a pomôcť tým organizácii Mozilla identifikovať a blokovať škodlivé stránky">
 <!ENTITY errorReporting.learnMore "Ďalšie informácie…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontaktujte správcu webovej stránky a informujte ho o tomto probléme.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Rozšírené informácie: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -193,9 +191,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Zdá sa, že príčinou môžu byť vaše nastavenia zabezpečenia internetu. Chceli by ste obnoviť predvolené nastavenia?">
 <!ENTITY prefReset.label "Obnoviť predvolené nastavenia">
-
-<!ENTITY enableTls10.longDesc "Táto stránka zrejme nepodporuje TLS protokol verzie 1.2, čo je minimálna verzia, ktorú &brandShortName; podporuje. Povolenie TLS 1.0 a TLS 1.1 môže problém s nadviazaním spojenia vyriešiť.">
-<!ENTITY enableTls10.note "Podpora TLS 1.0 a TLS 1.1 bude v nasledujúcom vydaní odstránená.">
-<!ENTITY enableTls10.label "Povoliť TLS 1.0 a 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Stránka, ktorú sa pokúšate navštíviť nemôže byť zobrazená, pretože bola zistená chyba v sieťovom protokole.</p><ul><li>Kontaktujte, prosím, vlastníkov stránky a informujte ich o tomto probléme.</li></ul>">

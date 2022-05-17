@@ -34,7 +34,6 @@ about-telemetry-events-section = Udalosti
 about-telemetry-simple-measurements-section = Jednoduché merania
 about-telemetry-slow-sql-section = Pomalé výrazy SQL
 about-telemetry-addon-details-section = Podrobnosti o doplnkoch
-about-telemetry-captured-stacks-section = Zachytené zásobníky
 about-telemetry-late-writes-section = Neskoré zápisy
 about-telemetry-raw-payload-section = Raw obsah
 about-telemetry-raw = Dáta JSON v nespracovanom tvare
@@ -122,10 +121,6 @@ about-telemetry-addon-provider = Poskytovateľ { $addonProvider }
 about-telemetry-keys-header = Kľúč
 about-telemetry-names-header = Názov
 about-telemetry-values-header = Hodnota
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (počet zachytení: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Neskorý zápis #{ $lateWriteCount }

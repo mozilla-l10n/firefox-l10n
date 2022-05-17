@@ -8,10 +8,13 @@
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = Systémová téma — automatická
 extension-default-theme-description = Nasleduje nastavenia operačného systému pre tlačidlá, ponuky a okná.
+
 extension-firefox-compact-light-name = Svetlá
 extension-firefox-compact-light-description = Téma vzhľadu so svetlou schémou.
+
 extension-firefox-compact-dark-name = Tmavá
 extension-firefox-compact-dark-description = Téma vzhľadu s tmavou schémou.
+
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Téma vzhľadu s farebnou schémou pre tlačidlá, ponuky a okná.
 

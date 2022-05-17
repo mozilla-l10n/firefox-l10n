@@ -4,8 +4,10 @@
 
 account-settings-title = Nastavenia overenia
 account-channel-title = Predvolené kanály
+
 chat-autologin =
     .label = Pripojiť pri spustení
+
 chat-encryption-generic = Všeobecné
 chat-encryption-log =
     .label = Zahrnúť obojsmerne šifrované správy v protokoloch konverzácií
