@@ -10,28 +10,10 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                  "ქმედებების მართვა">
 
-<!ENTITY cmd.pause.label                  "შეჩერება">
-<!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "გაგრძელება">
-<!ENTITY cmd.resume.accesskey             "R">
-<!ENTITY cmd.cancel.label                 "გაუქმება">
-<!ENTITY cmd.cancel.accesskey             "C">
-<!ENTITY cmd.undo.label                   "დასრულება">
-<!ENTITY cmd.undo.accesskey               "U">
-<!ENTITY cmd.recover.label                "აღდგენა">
-<!ENTITY cmd.recover.accesskey            "v">
-<!ENTITY cmd.retry.label                  "ხელახლა">
-<!ENTITY cmd.retry.accesskey              "R">
-<!ENTITY cmd.removeFromList.label         "სიიდან მოცილება">
-<!ENTITY cmd.removeFromList.accesskey     "e">
-
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "სიის გასუფთავება">
 <!ENTITY cmd.clearList.tooltip            "მოაცილებს სიიდან დასრულებულ, გაუქმებულ და არშემდგარ ელემენტებს">
 <!ENTITY cmd.clearList.accesskey          "C">
-<!ENTITY cmd.find.commandkey              "f">
-<!ENTITY cmd.search.commandkey            "k">
 
-<!ENTITY searchBox.label                  "ძიება…">

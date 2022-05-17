@@ -23,9 +23,6 @@
 <!ENTITY inReplyToField.label "პასუხად ">
 <!ENTITY originalWebsite.label "ვებსაიტი ">
 
-<!ENTITY editMessage.label                 "წინასწარი ნამუშევრის ჩასწორება…">
-<!ENTITY editMessage.accesskey             "D">
-
 <!ENTITY editDraft.label                   "წინასწარი ნამუშევრის ჩასწორება…">
 <!ENTITY editDraft.accesskey               "წ">
 <!ENTITY editTemplate.label                "ნიმუშის ჩასწორება…">

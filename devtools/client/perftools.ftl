@@ -42,16 +42,15 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Buffer size:
+
 perftools-custom-threads-label = Add custom threads by name:
+
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Threads:
 perftools-devtools-settings-label = Settings
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
-perftools-status-private-browsing-notice =
-    The profiler is disabled when Private Browsing is enabled.
-    Close all Private Windows to re-enable the profiler
 perftools-status-recording-stopped-by-another-tool = The recording was stopped by another tool.
 perftools-status-restart-required = The browser must be restarted to enable this feature.
 
@@ -101,6 +100,7 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Bypass selections above and record all registered threads
+
 perftools-tools-threads-input-label =
     .title = These thread names are a comma separated list that is used to enable profiling of the threads in the profiler. The name needs to be only a partial match of the thread name to be included. It is whitespace sensitive.
 
@@ -108,9 +108,14 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## devtools.performance.new-panel-onboarding preference is true.
+
 perftools-onboarding-message = <b>New</b>: { -profiler-brand-name } is now integrated into Developer Tools. <a>Learn more</a> about this powerful new tool.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (For a limited time, you can access the original Performance panel via <a>{ options-context-advanced-settings }</a>)
+
 perftools-onboarding-close-button =
     .aria-label = Close the onboarding message
 
@@ -123,21 +128,19 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Web Developer
 perftools-presets-web-developer-description = Recommended preset for most web app debugging, with low overhead.
-perftools-presets-firefox-platform-label = Firefox Platform
-perftools-presets-firefox-platform-description = Recommended preset for internal Firefox platform debugging.
-perftools-presets-firefox-front-end-label = Firefox Front-End
-perftools-presets-firefox-front-end-description = Recommended preset for internal Firefox front-end debugging.
-perftools-presets-firefox-graphics-label = Firefox Graphics
-perftools-presets-firefox-graphics-description = Recommended preset for Firefox graphics performance investigation.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Recommended preset for profiling { -brand-shorter-name }.
+
 perftools-presets-graphics-label = Graphics
 perftools-presets-graphics-description = Preset for investigating graphics bugs in { -brand-shorter-name }.
+
 perftools-presets-media-label = Media
-perftools-presets-media-description = Recommended preset for diagnosing audio and video problems.
 perftools-presets-media-description2 = Preset for investigating audio and video bugs in { -brand-shorter-name }.
+
 perftools-presets-networking-label = Networking
 perftools-presets-networking-description = Preset for investigating networking bugs in { -brand-shorter-name }.
+
 perftools-presets-custom-label = Custom
 
 ##

@@ -7,12 +7,6 @@
 <!ENTITY pref.content.title                     "შიგთავსი">
 <!ENTITY pref.content.description               "ეს პარამეტრები განსაზღვრავენ თუ როგორ აისახება ვებსაიტი პროგრამაში &brandShortName;.">
 
-<!ENTITY siteIcons.label                        "ვებსაიტის ხატულები">
-<!ENTITY useSiteIcons.label                     "ვებსაიტის ხატულების ჩვენება">
-<!ENTITY useSiteIcons.accesskey                 "ხ">
-<!ENTITY useFavIcons2.label                     "სერვერის favicon ხატულის გამოყენების მცდელობა, როცა გვერდს არ გააჩნია განსაზღვრული ხატულა">
-<!ENTITY useFavIcons2.accesskey                 "ც">
-
 <!ENTITY scrolling.label                        "გვერდის გადაადგილება">
 <!ENTITY useAutoScroll.label                    "თვითგადაადგილების გამოყენება">
 <!ENTITY useAutoScroll.accesskey                "თ">
@@ -43,6 +37,4 @@
 
 <!ENTITY allowHWAccel.label                     "ხელმისაწვდომობის შემთხვევაში აპარატული აჩქარების გამოყენება">
 <!ENTITY allowHWAccel.accesskey                 "ლ">
-<!ENTITY blockAutoRefresh.label                 "გაფრთხილება საიტის მიერ გადამისამართების ან გვერდის განახლების მცდელობისას">
-<!ENTITY blockAutoRefresh.accesskey             "ფ">
 

@@ -22,20 +22,6 @@
 <!ENTITY mailBiffOnNewWindow.label        "ახალი ფოსტის შემოწმება მხოლოდ ფოსტისა და სიახლეთა ჯგუფების გახსნის შემდეგ">
 <!ENTITY mailBiffOnNewWindow.accesskey    "დ">
 
-<!ENTITY defaultMailSettings.description  "გახადეთ &brandShortName; ნაგულისხმევი:">
-<!ENTITY setDefaultMail.label             "ფოსტისთვის">
-<!ENTITY setDefaultMail.accesskey         "ფ">
-<!ENTITY setDefaultNews.label             "სიახლეებისთვის">
-<!ENTITY setDefaultNews.accesskey         "ე">
-<!ENTITY setDefaultFeed.label             "არხებისთვის">
-<!ENTITY setDefaultFeed.accesskey         "ბ">
-
-<!ENTITY useInternalSettings.description  "&brandShortName; ფოსტისა &amp; სიახლეების გამოყენება, ბრაუზერის ბმულების გახსნისას:">
-<!ENTITY useInternalMail.label            "ფოსტა (mailto:)">
-<!ENTITY useInternalMail.accesskey        "ა">
-<!ENTITY useInternalNews.label            "სიახლეები (news:, snews:, nntp:)">
-<!ENTITY useInternalNews.accesskey        "ს">
-
 <!ENTITY messengerStartPage.caption       "ფოსტის საწყისი გვერდი">
 <!ENTITY enableStartPage.label            "როცა ფოსტა გაეშვება, გამოჩნდეს საწყისი გვერდი წერილების არეში">
 <!ENTITY enableStartPage.accesskey        "რ">

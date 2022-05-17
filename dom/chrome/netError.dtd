@@ -93,9 +93,6 @@
 <!ENTITY corruptedContentErrorv2.title "შიგთავსი დაზიანებულია">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>გვერდის ჩვენება, რომლის ნახვასაც ცდილობთ, ვერ ხერხდება, მონაცემთა გადაცემისას აღმოჩენილი შეცდომის გამო.</p><ul><li>გთხოვთ, დაუკავშირდეთ საიტის მფლობელებს და აცნობოთ, ამ ხარვეზის შესახებ.</li></ul>">
 
-<!ENTITY remoteXUL.title "დისტანციური XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>გთხოვთ დაუკავშირდით ვებსაიტის მფლობელებს და შეატყობინეთ ამ პრობლემის შესახებ.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "კავშირი დაუცველია">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

@@ -21,9 +21,6 @@
 <!ENTITY attachCloudCmd.accesskey "ბ">
 <!ENTITY attachPageCmd.label "ვებგვერდი…">
 <!ENTITY attachPageCmd.accesskey "ვ">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "სავიზიტო ბარათი (vCard)">
-<!ENTITY attachVCardCmd.accesskey "ზ">
 <!ENTITY remindLater.label "მოგვიანებით შეხსენება">
 <!ENTITY remindLater.accesskey "გ">
 <!ENTITY closeCmd.label "დახურვა">
@@ -149,16 +146,6 @@
 <!ENTITY returnReceiptMenu.accesskey "ტ">
 <!ENTITY dsnMenu.label "მიღების სტატუსის შეტყობინება">
 <!ENTITY dsnMenu.accesskey "შ">
-<!ENTITY deliveryFormatMenu.label "მიწოდების ფორმატი">
-<!ENTITY deliveryFormatMenu.accesskey "ო">
-<!ENTITY autoFormatCmd.label "თვითამოცნობა">
-<!ENTITY autoFormatCmd.accesskey "ა">
-<!ENTITY plainTextFormatCmd.label "მხოლოდ ტექსტი">
-<!ENTITY plainTextFormatCmd.accesskey "ხ">
-<!ENTITY htmlFormatCmd.label "მხოლოდ ჰიპერტექსტი (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "ჰ">
-<!ENTITY bothFormatCmd.label "ტექსტი და ჰიპერტექსტი (HTML)">
-<!ENTITY bothFormatCmd.accesskey "პ">
 <!ENTITY priorityMenu.label "უპირატესობა">
 <!ENTITY priorityMenu.accesskey "უ">
 <!ENTITY priorityButton.title "უპირატესობა">
@@ -222,7 +209,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "სხვა სახის მისამართების ველები">
 <!ENTITY fromAddr2.label "ვისგან">
 <!ENTITY fromAddr.accesskey "ვ">
 <!ENTITY replyAddr2.label "პასუხი ვის">

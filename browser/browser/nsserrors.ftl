@@ -12,16 +12,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = შეცდომა დაკავშირებისას - { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = შეცდომის კოდი: { $error }
+
 psmerr-ssl-disabled = უსაფრთხო დაკავშირება ვერ ხერხდება, რადგან SSL ოქმი ამორთულია.
 psmerr-ssl2-disabled = უსაფრთხო დაკავშირება ვერ ხერხდება, რადგან საიტი SSL ოქმის მოძველებულ ვერსიას იყენებს.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     თქვენ უმართებულო სერტიფიკატი მიიღეთ.  გთხოვთ დაუკავშირდეთ სერვერის მმართველს ან ელფოსტის მოპასუხეს და მიაწოდოთ შემდეგი მონაცემები:
     
     თქვენი სერტიფიკატი შეიცავს იმავე სერიულ ნომერს, რაც ამ გამცემის მიერ გამოშვებული სხვა სერტიფიკატი.  გთხოვთ, გამოიყენოთ ახალი სერტიფიკატი, უნიკალური სერიული ნომრით.
+
 ssl-error-export-only-server = უსაფრთხო კავშირი ვერ ხერხდება. კვანძისთვის მაღალი დონის დაშიფვრა მიუღებელია.
 ssl-error-us-only-server = უსაფრთხო კავშირი ვერ ხერხდება. კვანძი ითხოვს მაღალი დონის დაშიფვრას, რაც უზრუნველყოფილი არაა.
 ssl-error-no-cypher-overlap = კვანძთან უსაფრთხო კავშირი ვერ ხერხდება: არ გააჩნია დაშიფვრის ცნობილი ალგორითმ(ებ)ი.

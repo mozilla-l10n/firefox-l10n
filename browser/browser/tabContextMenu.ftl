@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = გაზიარება
     .accesskey = ზ
-tab-context-share-more =
-    .label = სხვა…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -86,13 +84,6 @@ tab-context-reopen-closed-tabs =
         { $tabCount ->
             [1] დახურული ჩანართის დაბრუნება
            *[other] დახურული ჩანართების დაბრუნება
-        }
-    .accesskey = უ
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] ჩანართის დახურვა
-           *[other] ჩანართების დახურვა
         }
     .accesskey = უ
 tab-context-close-n-tabs =
@@ -109,6 +100,7 @@ tab-context-move-tabs =
            *[other] ჩანართების გადატანა
         }
     .accesskey = ტ
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

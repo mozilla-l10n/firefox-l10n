@@ -313,9 +313,6 @@
 <!ENTITY forwardAsInline.accesskey "წ">
 <!ENTITY forwardAsAttachmentCmd.label "დანართი">
 <!ENTITY forwardAsAttachmentCmd.accesskey "დ">
-<!ENTITY editMsgAsNewCmd.label "ჩასწორება, როგორც ახლის">
-<!ENTITY editMsgAsNewCmd.accesskey "ჩ">
-<!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY editAsNewMsgCmd.label "ჩასწორება ახალი შეტყობინების სახით">
 <!ENTITY editAsNewMsgCmd.accesskey "ხ">
 <!ENTITY editAsNewMsgCmd.key "e">
@@ -479,8 +476,6 @@
 <!ENTITY contextOpenNewWindow.accesskey "ფ">
 <!ENTITY contextOpenNewTab.label "წერილის გახსნა ახალ ჩანართიზე">
 <!ENTITY contextOpenNewTab.accesskey "გ">
-<!ENTITY contextEditAsNew.label "ჩასწორება როგორც ახლის…">
-<!ENTITY contextEditAsNew.accesskey "ჩ">
 <!ENTITY contextEditMsgAsNew.label "ჩასწორება ახალი შეტყობინების სახით">
 <!ENTITY contextEditMsgAsNew.accesskey "ხ">
 <!ENTITY contextEditDraftMsg.label "წინასწარი ნამუშევრის ჩასწორება">
