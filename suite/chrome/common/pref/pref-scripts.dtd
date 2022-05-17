@@ -4,9 +4,6 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
-<!ENTITY pref.scripts.title              "指令碼與外掛程式">
-
 <!--LOCALIZATION NOTE : FILE The 'Scripts' preferences dialog -->
 <!ENTITY pref.scripts2.title             "指令碼">
 
@@ -31,12 +28,3 @@
 <!ENTITY debugConsoleJavascript.label     "顯示 chrome 的 JavaScript 錯誤與警告">
 <!ENTITY debugConsoleJavascript.accesskey "c">
 
-<!ENTITY enablePlugins.label             "啟用下列網站的外掛程式">
-<!ENTITY enablePluginForSuite.label      "Suite">
-<!ENTITY enablePluginForSuite.accesskey  "u">
-
-<!ENTITY whenPageRequiresPlugins.label   "當網頁上的內容需要外掛程式時">
-<!ENTITY activateAllPlugins.label        "預設啟用所有外掛程式">
-<!ENTITY activateAllPlugins.accesskey    "d">
-<!ENTITY warnPluginsRequired.label       "在需要安裝其他外掛程式時通知我">
-<!ENTITY warnPluginsRequired.accesskey   "W">

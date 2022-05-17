@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = 資料
 
-item-site-preferences =
-    .label = 個別網站設定
-    .accesskey = S
-
 item-site-settings =
     .label = 網站設定
     .accesskey = S

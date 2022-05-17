@@ -38,16 +38,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = 離開 { -brand-shorter-name }
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = 結束 { -brand-shorter-name }
+
 menu-about =
     .label = 關於 { -brand-shorter-name }
     .accesskey = A
@@ -77,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = 開啟檔案…
     .accesskey = O
-menu-file-close =
-    .label = 關閉
-    .accesskey = C
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 menu-file-close-tab =
@@ -104,9 +96,6 @@ menu-file-share-url =
 menu-file-print-setup =
     .label = 頁面設定…
     .accesskey = u
-menu-file-print-preview =
-    .label = 預覽列印
-    .accesskey = v
 menu-file-print =
     .label = 列印…
     .accesskey = P
@@ -319,9 +308,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = T
 menu-help-report-site-issue =
     .label = 回報網站問題…
-menu-help-feedback-page =
-    .label = 送出意見回饋…
-    .accesskey = S
 menu-help-share-ideas =
     .label = 分享想法與意見回饋…
     .accesskey = S

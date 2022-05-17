@@ -23,9 +23,6 @@
 <!ENTITY inReplyToField.label "回覆給: ">
 <!ENTITY originalWebsite.label "網站: ">
 
-<!ENTITY editMessage.label                 "編輯草稿…">
-<!ENTITY editMessage.accesskey             "d">
-
 <!ENTITY editDraft.label                   "編輯草稿…">
 <!ENTITY editDraft.accesskey               "D">
 <!ENTITY editTemplate.label                "編輯範本…">

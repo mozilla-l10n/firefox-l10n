@@ -5,12 +5,14 @@
 unknowncontenttype-handleinternally =
     .label = 用 { -brand-short-name } 開啟
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] 請從 { -brand-short-name } 的選項變更設定值。
            *[other] 請從 { -brand-short-name } 的偏好設定變更設定值。
         }
+
 unknowncontenttype-intro = 您已決定開啟:
 unknowncontenttype-which-is = 檔案類型:
 unknowncontenttype-from = 從:
