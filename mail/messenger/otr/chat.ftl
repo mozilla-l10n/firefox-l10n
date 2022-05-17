@@ -3,12 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 state-label = Estado de cifrado:
+
 start-text = Iniciar una conversación cifrada
+
 start-label =
     .label = { start-text }
+
 start-tooltip =
     .tooltiptext = { start-text }
+
 end-label =
     .label = Finalizar la conversación cifrada
+
 auth-label =
     .label = Verificar la identidad de tu contacto

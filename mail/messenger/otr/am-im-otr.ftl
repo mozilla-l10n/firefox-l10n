@@ -5,7 +5,6 @@
 account-encryption =
     .label = Cifrado de extremo a extremo
 account-otr-label = Mensajería extraoficial (OTR)
-account-otr-description = { -brand-short-name } admite el cifrado de extremo a extremo de conversaciones de uno a uno. Esto evita que terceros puedan escuchar una conversación. El cifrado de extremo a extremo solo se puede usar cuando la otra persona también usa software compatible con OTR.
 account-otr-description2 = { -brand-short-name } admite el cifrado de extremo a extremo de conversaciones de uno a uno basadas en OTR. Esto evita que terceros escuchen a escondidas una conversación. Este tipo de cifrado de extremo a extremo solo se puede utilizar cuando la otra persona también utiliza software compatible con OTR.
 otr-encryption-title = Cifrado verificado
 otr-encryption-caption = Para que otros puedan verificar tu identidad en los chats OTR, comparte tu propia huella digital OTR utilizando un canal de comunicación externo (fuera de banda).
@@ -14,8 +13,6 @@ view-fingerprint-button =
     .label = Administrar huellas digitales de contactos
     .accesskey = F
 otr-settings-title = Ajustes OTR
-otr-log =
-    .label = Incluir mensajes cifrados OTR en los registros de conversaciones
 otr-require-encryption =
     .label = Requiere cifrado de extremo a extremo para conversaciones uno a uno
 otr-require-encryption-info =
@@ -24,4 +21,6 @@ otr-require-encryption-info =
     no se mostrará como parte de la conversación normal y tampoco se registrará.
 otr-verify-nudge =
     .label = Siempre recordarme verificar un contacto no verificado
+
 otr-not-yet-available = aún no disponible
+
