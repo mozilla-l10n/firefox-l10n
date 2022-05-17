@@ -123,13 +123,6 @@ openpgp-import-key-description = Igl è pussaivel dad importar clavs persunalas 
 
 openpgp-import-key-info = Autra software dovra eventualmain terminologia differenta per descriver la clav persunala.
 
-#   $count (Number) - the number of keys found in the selected files
-openpgp-import-key-list-amount =
-    { $count ->
-        [one] Thunderbird ha chattà ina clav che po vegnir importada.
-       *[other] Thunderbird ha chattà { $count } clavs che pon vegnir importadas.
-    }
-
 openpgp-import-key-list-description = Conferma tge clavs che pon vegnir consideradas sco tias clavs persunalas. Mo clavs che ti tez has creà e che mussan tia atgna identitad duessan vegnir utilisadas sco clavs persunalas. Ti pos midar questa opziun pli tard en il dialog «Caracteristicas da clavs».
 
 openpgp-import-key-list-caption = Las clavs marcadas sco clavs persunalas vegnan enumeradas en la secziun da criptadi da fin a fin. Tschellas stattan a disposiziun en l'administraziun da clavs.

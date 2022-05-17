@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "E-mail alternativ:">
 <!ENTITY SecondEmail.accesskey          "l">
-<!ENTITY PreferMailFormat.label         "Preferescha da retschaiver messadis en il format:">
-<!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "Text brut (senza HTML)">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Betg enconuschent">

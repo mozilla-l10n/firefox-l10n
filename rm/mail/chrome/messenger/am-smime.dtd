@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Ulteriuras infurmaziuns">
 
 <!ENTITY e2eEnc.description "Senza criptadi fin-a-fin è il cuntegn da tes messadis expost a tes purschider dad e-mail ed a la surveglianza generala.">
-<!ENTITY e2eeReqWarning.description "Per pudair trametter in messadi criptà èsi necessari dad avair la clav publica u il certificat da mintga destinatur.">
 
-<!ENTITY e2eSigning.description "Ina suttascripziun digitala pussibilitescha als destinaturs da verifitgar che ti has tramess il messadi e ch'il cuntegn n'è betg vegnì midà.">
 <!ENTITY e2eTechPref.description "Tecnologia da criptadi preferida:">
 
-<!ENTITY doNotEncrypt.label "Betg activar il criptadi tenor standard">
-<!ENTITY doNotEncrypt.accesskey "B">
-<!ENTITY requireEncryptMessage.label "Utilisar il criptadi tenor standard">
-<!ENTITY requireEncryptMessage.accesskey "U">
 <!ENTITY encryptionCert2.message "Certificat persunal per il criptadi:">
 <!ENTITY digitalSign.certificate.button "Tscherner…">
 <!ENTITY digitalSign.certificate.accesskey "T">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Stizzar">
 <!ENTITY encryption.certificate_clear.accesskey "r">
 <!ENTITY signingGroupTitle.label "Suttascripziun digitala">
-<!ENTITY signMessage2.label "Agiuntar mia suttascripziun digitala tenor standard">
-<!ENTITY signMessage.accesskey "D">
 
 <!ENTITY signingCert2.message "Certificat persunal per la suttascripziun digitala:">
 

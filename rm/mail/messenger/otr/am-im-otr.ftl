@@ -5,7 +5,6 @@
 account-encryption =
     .label = Criptadi fin-a-fin
 account-otr-label = Messadis off-the-record (OTR)
-account-otr-description = { -brand-short-name } sustegna il criptadi fin-a-fin da conversaziuns dad in ad in. Quai evitescha che terzas partidas possian leger la conversaziun. Il criptadi fin-a-fin po mo vegnir utilisà sche tschella persuna utilisescha era software che sustegna OTR.
 account-otr-description2 = { -brand-short-name } sustegna il criptadi fin-a-fin da conversaziuns dad in ad in basadas sin OTR. Quai evitescha che terzas partidas possian leger la conversaziun. Quest tip da criptadi fin-a-fin po mo vegnir utilisà sche tschella persuna utilisescha era software che sustegna OTR.
 otr-encryption-title = Criptadi verifitgà
 otr-encryption-caption = Per permetter ad auters da verifitgar tia identitad en chats OTR, cundivida tia atgna impronta OTR sin in auter chanal da communicaziun («out-of-band»).
@@ -14,8 +13,6 @@ view-fingerprint-button =
     .label = Administrar las improntas da contacts
     .accesskey = A
 otr-settings-title = Parameters OTR
-otr-log =
-    .label = Includer messadis criptads OTR en la cronologia da las conversaziuns
 otr-require-encryption =
     .label = Pretender in criptadi da fin a fin per conversaziuns dad in ad in
 otr-require-encryption-info =
@@ -24,4 +21,6 @@ otr-require-encryption-info =
     na vegnan betg mussads sco part da la conversaziun regulara e n'era betg protocollads.
 otr-verify-nudge =
     .label = Adina ma regurdar da verifitgar in contact betg verifitgà
+
 otr-not-yet-available = anc betg disponibel
+

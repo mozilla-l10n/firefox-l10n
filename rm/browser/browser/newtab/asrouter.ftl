@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Funcziunalitad recumandada
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pertge ves jau quai
+
 cfr-doorhanger-extension-cancel-button = Betg ussa
     .accesskey = B
+
 cfr-doorhanger-extension-ok-button = Agiuntar ussa
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = Administrar ils parameters da recumandaziun
     .accesskey = A
+
 cfr-doorhanger-extension-never-show-recommendation = Betg ma mussar questa recumandaziun
     .accesskey = B
+
 cfr-doorhanger-extension-learn-more-link = Ulteriuras infurmaziuns
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = da { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recumandaziun
 cfr-doorhanger-extension-notification2 = Recumandaziun
     .tooltiptext = Recumandaziun dad extensiun
     .a11y-announcement = Ina recumandaziun per ina extensiun è disponibla
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recumandaziun
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Ulteriuras infurmaziuns
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nova funcziunalitad:
+
 cfr-whatsnew-button =
     .label = Novaziuns
     .tooltiptext = Novaziuns
+
 cfr-whatsnew-release-notes-link-text = Leger las notizias davart la versiun
 
 ## Enhanced Tracking Protection Milestones

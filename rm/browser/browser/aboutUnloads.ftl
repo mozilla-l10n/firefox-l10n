@@ -7,20 +7,6 @@
 ### feature.
 
 about-unloads-page-title = Stgargiada da tabs
-about-unloads-intro-1 =
-    { -brand-short-name } ha ina funcziun che stgargia automaticamain tabs
-    per evitar che l'applicaziun collabeschia en consequenza da mancanza da
-    memoria, en cas che la memoria disponibla dal sistem è insuffizienta. Il proxim
-    tab che vegn stgargià, vegn tschernì a basa da plirs attributs. Questa pagina
-    mussa co { -brand-short-name } priorisescha tabs e tgenin tab che vegn stgargià
-    en cas che la funcziun da stgargiada vegn lantschada.
-about-unloads-intro-2 =
-    Tabs existents vegnan mussads en la tabella sutvart en la successiun, en la quala
-    { -brand-short-name } tscherna ils tabs che vegnan stgargiads. IDs da process 
-    vegnan mussads <strong>grass</strong> sch'els dattan tetg al frame superiur dal
-    tab, e <em>cursiv</em> sch'il process vegn cundividì tranter differents tabs. Ti
-    pos lantschar manualmain la stgargiada da tabs cun cliccar sin il buttun <em>Stgargiar</em>
-    sutvart.
 about-unloads-intro =
     { -brand-short-name } ha ina funcziun che stgargia automaticamain tabs
     per evitar che l'applicaziun collabeschia en consequenza da mancanza da
@@ -29,15 +15,18 @@ about-unloads-intro =
     mussa co { -brand-short-name } priorisescha tabs e tgenin tab che vegn stgargià
     en cas che la funcziun da stgargiada vegn lantschada. Ti pos lantschar 
     manualmain la stgargiada da tabs cun cliccar sin il buttun <em>Stgargiar</em> sutvart.
+
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
     Consultar <a data-l10n-name="doc-link">Stgargiada da tabs</a> per vegnir a savair
     dapli davart la funcziun e questa pagina.
+
 about-unloads-last-updated = Ultima actualisaziun: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Stgargiar
     .title = Stgargiar il tab cun la prioritad la pli auta
 about-unloads-no-unloadable-tab = I na dat nagins tabs stgargiabels.
+
 about-unloads-column-priority = Prioritad
 about-unloads-column-host = Adressa
 about-unloads-column-last-accessed = Ultim access
@@ -49,6 +38,7 @@ about-unloads-column-memory = Memoria
     .title = La memoria stimada ch'il tab consuma
 about-unloads-column-processes = IDs dals process
     .title = IDs dals process che dattan tetg al cuntegn dal tab
+
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =

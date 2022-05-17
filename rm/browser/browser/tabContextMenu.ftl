@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Cundivider
     .accesskey = u
-tab-context-share-more =
-    .label = Dapli…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -88,14 +86,6 @@ tab-context-reopen-closed-tabs =
            *[other] Reavrir ils tabs serrads
         }
     .accesskey = a
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Serrar il tab
-            [one] Serrar il tab
-           *[other] Serrar ils tabs
-        }
-    .accesskey = S
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -111,6 +101,7 @@ tab-context-move-tabs =
            *[other] Spustar ils tabs
         }
     .accesskey = p
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

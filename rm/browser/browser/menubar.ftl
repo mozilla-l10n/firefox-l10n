@@ -38,16 +38,11 @@ menu-quit =
             [windows] T
            *[other] T
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Terminar { -brand-shorter-name }
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Terminar { -brand-shorter-name }
+
 menu-about =
     .label = Davart { -brand-shorter-name }
     .accesskey = D
@@ -77,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Avrir ina datoteca…
     .accesskey = d
-menu-file-close =
-    .label = Serrar
-    .accesskey = S
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 menu-file-close-tab =
@@ -104,9 +96,6 @@ menu-file-share-url =
 menu-file-print-setup =
     .label = Organisar la pagina…
     .accesskey = O
-menu-file-print-preview =
-    .label = Prevista per stampar
-    .accesskey = P
 menu-file-print =
     .label = Stampar…
     .accesskey = S
@@ -319,9 +308,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = D
 menu-help-report-site-issue =
     .label = Rapportar in problem cun la pagina…
-menu-help-feedback-page =
-    .label = Trametter in resun…
-    .accesskey = s
 menu-help-share-ideas =
     .label = Cundivida ideas e resuns…
     .accesskey = s
