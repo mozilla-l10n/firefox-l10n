@@ -36,11 +36,6 @@ newtab-search-box-handoff-input-no-engine =
     .title = Претражите или унесите адресу
     .aria-label = Претражите или унесите адресу
 
-newtab-search-box-search-the-web-input =
-    .placeholder = Претражи веб
-    .title = Претражи веб
-    .aria-label = Претражи веб
-
 newtab-search-box-text = Претражи интернет
 newtab-search-box-input =
     .placeholder = Претражите интернет
@@ -49,7 +44,6 @@ newtab-search-box-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Додај претраживач
-newtab-topsites-add-topsites-header = Нови омиљени сајт
 newtab-topsites-add-shortcut-header = Нова пречица
 newtab-topsites-edit-topsites-header = Уреди популарне сајтове
 newtab-topsites-edit-shortcut-header = Измени пречицу
@@ -199,7 +193,6 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = Популарни сајтови
-newtab-section-header-highlights = Истакнуто
 newtab-section-header-recent-activity = Недавна активност
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
@@ -231,6 +224,9 @@ newtab-pocket-more-recommendations = Још препорука
 newtab-pocket-learn-more = Сазнајте више
 newtab-pocket-cta-button = Преузми { -pocket-brand-name(case: "acc") }
 newtab-pocket-cta-text = Сачувајте приче које вам се свиђају у { -pocket-brand-name(case: "loc") } и уживајте у врхунском штиву.
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

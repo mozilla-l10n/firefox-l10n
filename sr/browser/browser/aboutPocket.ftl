@@ -54,3 +54,8 @@ pocket-panel-home-paragraph = { -pocket-brand-name(case: "acc") } можете �
 pocket-panel-home-explore-popular-topics = Истражите популарне теме
 pocket-panel-home-discover-more = Откријте више
 pocket-panel-home-explore-more = Истражите
+
+## Pocket panel header component
+
+## Pocket panel buttons
+

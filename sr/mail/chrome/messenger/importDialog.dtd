@@ -32,9 +32,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "Филтери">
 <!ENTITY importFilters.accesskey  "Ф">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "&brandShortName;-ов чаробњак за увоз">
 <!ENTITY importShortDesc.label    "Увезите пошту, именике, подешавања и филтере из других програма">
 

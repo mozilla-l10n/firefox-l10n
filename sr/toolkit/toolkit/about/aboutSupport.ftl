@@ -74,6 +74,7 @@ app-basics-location-service-key-google = Google кључ за услуге ло�
 app-basics-safebrowsing-key-google = Google кључ за безбедно прегледање
 app-basics-key-mozilla = Кључ Mozilla сервиса за локацију
 app-basics-safe-mode = Безбедни режим
+
 show-dir-label = Прикажи у фасцикли
 environment-variables-title = Варијабле окружења
 environment-variables-name = Назив

@@ -79,16 +79,8 @@ mobile-app-card-content = Користите мобилни прегледач �
 mobile-app-links = { -brand-product-name } прегледач за <a data-l10n-name="android-mobile-inline-link">Андроид</a> и <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 
 lockwise-title = Немојте поново заборавити лозинку
-lockwise-title-logged-in2 = Менаџер лозинки
-lockwise-header-content = { -lockwise-brand-name } безбедно чува ваше лозинке у прегледачу.
 lockwise-header-content-logged-in = Безбедно чувајте и синхронизујте ваше лозинке на свим вашим уређајима.
-protection-report-save-passwords-button = Сачувај лозинке
-    .title = Сачувајте лозинке у { -lockwise-brand-short-name(case: "loc") }
-protection-report-manage-passwords-button = Управљај лозинкама
-    .title = Управљање лозинкама помоћу { -lockwise-brand-short-name(case: "gen") }
-lockwise-mobile-app-title = Понесите ваше лозинке свугде
-lockwise-no-logins-card-content = Користите лозинке сачуване у { -brand-short-name }-у на било којем уређају.
-lockwise-app-links = { -lockwise-brand-name } за <a data-l10n-name="lockwise-android-inline-link">Android</a> и <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+
 
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.

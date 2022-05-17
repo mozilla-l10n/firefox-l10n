@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "е">
 <!ENTITY SecondEmail.label              "Додатни мејл:">
 <!ENTITY SecondEmail.accesskey          "ј">
-<!ENTITY PreferMailFormat.label         "Дај предност порукама које су форматиране као:">
-<!ENTITY PreferMailFormat.accesskey     "у">
 <!ENTITY PlainText.label                "Обичан текст">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Непознато">

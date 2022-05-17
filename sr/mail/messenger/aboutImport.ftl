@@ -11,7 +11,17 @@
 
 ## Import from app steps
 
+## Import from file selections
+
 items-pane-checkbox-accounts = Налози и подешавања
 
+## Import from address book file steps
+
+## Import from address book file steps
+
 ## Import dialog
+
+## <csv-field-map> element
+
+## Export tab
 

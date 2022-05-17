@@ -61,9 +61,6 @@ about-webrtc-ice-component-id = ИБ компоненте
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
-about-webrtc-avg-bitrate-label = Средња брзина преноса:
-about-webrtc-avg-framerate-label = Средња брзина кадрова:
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.

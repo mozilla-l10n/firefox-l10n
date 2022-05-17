@@ -16,36 +16,15 @@ experimental-features-web-gpu-description2 = Овај нови API пружа п
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-media-avif =
-    .label = Media: AVIF
-experimental-features-media-avif-description = Омогућавањем ове функције, { -brand-short-name } подржава AV1 формат датотеке слике (AVIF). То је формат статичне слике који користи алгоритме компресије видео записа AV1 за смањење величине слике. За више детаља погледајте <a data-l10n-name="bugzilla">грешку 1443863</a>.
-
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Медиј: JPEG XL
 experimental-features-media-jxl-description = Омогућавањем ове функције, { -brand-short-name } подржава JPEG XL (JXL) формат. То је побољшани формат сликовне датотеке који подржава прелазак са традиционалних JPEG датотека без губитака. За више детаља погледајте <a data-l10n-name="bugzilla">грешку 1539075</a>.
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-web-api-inputmode =
-    .label = Web API: inputmode
-# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
-experimental-features-web-api-inputmode-description = Имплементација глобалног <a data-l10n-name="mdn-inputmode">inputmode</a> атрибута ажурирана је на основу <a data-l10n-name="whatwg">WHATWG спецификације</a>, али и даље морамо да уведемо друге промене, на пример да га учинимо доступним на „прихватљивом“ садржају. За више детаља погледајте <a data-l10n-name="bugzilla">грешку 1205133</a>.
-
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Додавање конструктора интерфејсу <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> и сродне промене омогућавају вам да креирате нове стилове без додавања стила у HTML. Ово увелико олакшава стварање стилова који се могу рециклирати за употребу са <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. За више детаља погледајте <a data-l10n-name="bugzilla">грешку 1520690</a>.
-
-experimental-features-devtools-color-scheme-simulation =
-    .label = Алатке за програмере: симулација шеме боја
-experimental-features-devtools-color-scheme-simulation-description = Додаје могућност симулације различитих шема боја за тестирање <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a> медијских упита. Користећи медијски упит, ваш стил може одговорити да ли корисник више воли светли или тамни кориснички интерфејс. Помоћу ове функције можете тестирати ваш код без потребе за променом подешавања прегледача (или оперативног система ако прегледач прати шему боја за цео систем). За више детаља погледајте <a data-l10n-name="bugzilla1">грешку 1550804</a> и <a data-l10n-name="bugzilla2">грешку 1137699</a>.
-
-experimental-features-devtools-execution-context-selector =
-    .label = Алатке за програмере: селектор контекста извршавања
-experimental-features-devtools-execution-context-selector-description = Ова функција приказује дугме на командној линији конзоле које вам омогућава да промените окружење у којем се извршава унети израз. За више детаља погледајте <a data-l10n-name="bugzilla1">грешку 1605154</a> и <a data-l10n-name="bugzilla2">грешку 1605153</a>.
 
 experimental-features-devtools-compatibility-panel =
     .label = Алатке за програмере: панел компатибилности
@@ -84,25 +63,10 @@ experimental-features-webrtc-global-mute-toggles =
     .label = Глобална контрола WebRTC искључивања
 experimental-features-webrtc-global-mute-toggles-description = Додаје контроле глобалном WebRTC индикатору за дељење које корисницима омогућавају да искључе микрофоне и камере.
 
-# Win32k Lockdown
-experimental-features-win32k-lockdown =
-    .label = Win32k блокада
-experimental-features-win32k-lockdown-description = Онемогућава употребу Win32k APIs у језичцима прегледача. Повећава сигурност, али тренутно може бити нестабилна или неисправна. (Само за Windows)
-
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
 experimental-features-js-warp-description = Омогућите Warp, што побољшава JavaScript перформансе и употребу меморије.
-
-# Fission is the name of the feature and should not be translated.
-experimental-features-fission =
-    .label = Fission (изолација сајтова)
-experimental-features-fission-description = Fission (изолација сајтова) је експериментална { -brand-short-name } функција која пружа додатни слој заштите од безбедносних пропуста. Одвајањем сваког сајта у посебан процес, Fission отежава злонамерним сајтовима приступ подацима са осталих сајтова које посећујете. Ово је велика архитектонска промена у { -brand-short-name }-у, и ценили бисмо да испробате и пријавите грешке. За више детаља погледајте <a data-l10n-name="wiki">вики</a>.
-
-# Support for having multiple Picture-in-Picture windows open simultaneously
-experimental-features-multi-pip =
-    .label = Подршка за вишеструки слика-у-слици приказ
-experimental-features-multi-pip-description = Експериментална подршка за истовремено отварање више слика-у-слици видео приказа.
 
 # Search during IME
 experimental-features-ime-search =

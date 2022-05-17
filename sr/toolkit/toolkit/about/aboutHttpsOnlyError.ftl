@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-httpsonly-title-alert = Упозорење о режиму „Само HTTPS”
-about-httpsonly-title-connection-not-available = Безбедна веза је недоступна
 
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com

@@ -54,10 +54,8 @@ about-processes-unknown-process = Друго: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-large-allocation-process = { $origin } ({ $pid }, велики)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, изолован са других извора)
 about-processes-web-isolated-process-private = { $origin } – приватни ({ $pid })
-about-processes-web-large-allocation-process-private = { $origin } – приватни ({ $pid }, велики)
 about-processes-with-coop-coep-process-private = { $origin } – приватни ({ $pid }, изолован са других извора)
 
 ## Details within processes
@@ -131,10 +129,6 @@ about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "pe
 
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (мерење)
-
-# Special case: process or thread is currently idle.
-about-processes-cpu-idle = неактиван
-    .title = Укупно процесорско време: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
