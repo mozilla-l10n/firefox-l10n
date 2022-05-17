@@ -5,59 +5,77 @@
 permissions-window =
     .title = Erandid
     .style = width: 36em
+
 permissions-close-key =
     .key = W
+
 permissions-address = Saidi aadress
     .accesskey = a
+
 permissions-block =
     .label = Bloki
     .accesskey = B
+
 permissions-session =
     .label = Luba selleks seansiks
     .accesskey = s
+
 permissions-allow =
     .label = Luba
     .accesskey = a
+
 permissions-button-off =
     .label = Lülita välja
     .accesskey = L
+
 permissions-button-off-temporarily =
     .label = Lülita ajutiselt välja
     .accesskey = j
+
 permissions-site-name =
     .label = Sait
+
 permissions-status =
     .label = Olek
+
 permissions-remove =
     .label = Eemalda sait
     .accesskey = E
+
 permissions-remove-all =
     .label = Eemalda kõik saidid
     .accesskey = k
+
 permission-dialog =
     .buttonlabelaccept = Salvesta muudatused
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = Vaikeväärtus kõigi saitide jaoks:
+
 permissions-searchbox =
     .placeholder = Otsi saiti
+
 permissions-capabilities-autoplay-allow =
     .label = heli ja video lubatakse
 permissions-capabilities-autoplay-block =
     .label = heli blokitakse
 permissions-capabilities-autoplay-blockall =
     .label = heli ja video blokitakse
+
 permissions-capabilities-allow =
     .label = Lubatud
 permissions-capabilities-block =
     .label = Blokitud
 permissions-capabilities-prompt =
     .label = Alati küsitakse
+
 permissions-capabilities-listitem-allow =
     .value = Lubatud
 permissions-capabilities-listitem-block =
     .value = Blokitud
 permissions-capabilities-listitem-allow-session =
     .value = Lubatud seansi jooksul
+
 permissions-capabilities-listitem-off =
     .value = Väljas
 permissions-capabilities-listitem-off-temporarily =

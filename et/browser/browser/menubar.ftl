@@ -38,16 +38,11 @@ menu-quit =
             [windows] j
            *[other] j
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Välju { -brand-shorter-name }ist
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Välju { -brand-shorter-name }ist
+
 menu-about =
     .label = { -brand-shorter-name }i teave
     .accesskey = e
@@ -77,9 +72,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Ava fail…
     .accesskey = A
-menu-file-close =
-    .label = Sulge
-    .accesskey = u
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
 menu-file-close-tab =
@@ -105,9 +97,6 @@ menu-file-share-url =
 menu-file-print-setup =
     .label = Lehekülje sätted…
     .accesskey = L
-menu-file-print-preview =
-    .label = Lehekülje eelvaade
-    .accesskey = e
 menu-file-print =
     .label = Prindi…
     .accesskey = P
@@ -320,9 +309,6 @@ menu-help-more-troubleshooting-info =
     .accesskey = h
 menu-help-report-site-issue =
     .label = Anna teada saidil olevast veast…
-menu-help-feedback-page =
-    .label = Anna tagasisidet…
-    .accesskey = A
 menu-help-share-ideas =
     .label = Jaga ideid ja tagasisidet…
     .accesskey = J

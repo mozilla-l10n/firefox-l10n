@@ -8,24 +8,28 @@
 ##
 
 process-type-web = Veebisisu
+
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Privilegeeritud about:
+
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Privilegeeritud Mozilla sisu
+
 process-type-extension = Laiendus
+
 # process used to open file:// URLs
 process-type-file = Kohalik fail
-# process used to isolate webpages that requested special
-# permission to allocate large amounts of memory
-process-type-weblargeallocation = Suur jaotus
+
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Isoleeritud veebisisu
+
 # process used to isolate a ServiceWorker to improve
 # performance
 process-type-webserviceworker = Isolated Service Worker
+
 # process preallocated; may change to other types
 process-type-prealloc = Preallocated
 
@@ -35,13 +39,17 @@ process-type-prealloc = Preallocated
 
 process-type-default = Main
 process-type-tab = Tab
+
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
+
 # process used to perform network operations
 process-type-socket = Socket
+
 # process used to decode media
 process-type-rdd = RDD
+
 # process used to run some IPC actor in their own sandbox
 process-type-utility = Sandboxed IPC Actor
 

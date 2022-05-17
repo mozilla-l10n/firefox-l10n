@@ -4,8 +4,10 @@
 
 account-settings-title = Autentimise sätted
 account-channel-title = Vaikekanalid
+
 chat-autologin =
     .label = Käivitumisel logitakse sisse
+
 chat-encryption-generic = Üldine
 chat-encryption-log =
     .label = otspunktkrüptitud sõnumid kaasatakse vestluste logidesse

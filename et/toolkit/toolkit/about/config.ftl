@@ -14,11 +14,15 @@ about-config-intro-warning-button = Nõustu riskiga ja jätka
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Parameetrite muutmine võib mõjutada { -brand-short-name }i jõudlust ja turvalisust.
+
 about-config-page-title = Täpsem häälestamine
+
 about-config-search-input1 =
     .placeholder = Otsi parameetri nime
 about-config-show-all = Kuva kõiki
+
 about-config-show-only-modified = Kuvatakse ainult muudetud sätteid
+
 about-config-pref-add-button =
     .title = Lisa
 about-config-pref-toggle-button =

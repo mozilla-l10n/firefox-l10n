@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Importimise nõustaja
+
 import-from =
     { PLATFORM() ->
         [windows] Sätete, järjehoidjate, ajaloo, paroolide ja muude andmete importimine rakendusest:
        *[other] Eelistuste, järjehoidjate, ajaloo, paroolide ja muude andmete importimine rakendusest:
     }
+
 import-from-bookmarks = Järjehoidjate importimine rakendusest:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -52,36 +54,37 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
+
 no-migration-sources = Rakendusi, mis sisaldavad järjehoidjaid, ajalugu või paroole, ei leitud.
+
 import-source-page-title = Sätete ja andmete importimine
 import-items-page-title = Imporditavad elemendid
+
 import-items-description = Vali, millised elemendid imporditakse:
+
 import-permissions-page-title = Palun anna { -brand-short-name }ile õigused
+
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS nõuab, et lubaksid { -brand-short-name }le selgesõnaliselt juurdepääsu Safari järjehoidjatele. Klõpsa “Jätka” ja vali avanenud aknast fail “Bookmarks.plist”.
+
 import-migrating-page-title = Importimine...
+
 import-migrating-description = Toimub järgnevate elementide importimine...
+
 import-select-profile-page-title = Profiili valimine
+
 import-select-profile-description = Importimiseks on saadaval järgnevad profiilid:
+
 import-done-page-title = Importimine on lõpetatud
+
 import-done-description = Järgnevate elementide importimine õnnestus:
+
 import-close-source-browser = Enne jätkamist kontrolli, et valitud brauser oleks suletud.
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Rakendusest { $source }
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
-source-name-edge-beta = Microsoft Edge Beta
-source-name-safari = Safari
-source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
-source-name-chrome-beta = Google Chrome Beta
-source-name-chrome-dev = Google Chrome Dev
-source-name-chromium = Chromium
-source-name-firefox = Mozilla Firefox
-source-name-360se = 360 Secure Browser
+
 imported-safari-reading-list = Lugemisnimekiri (Safarist)
 imported-edge-reading-list = Lugemisnimekiri (Edge'ist)
 
@@ -103,6 +106,7 @@ browser-data-cookies-checkbox =
     .label = Küpsised
 browser-data-cookies-label =
     .value = Küpsised
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -115,10 +119,12 @@ browser-data-history-label =
             [firefox] Brausimise ajalugu ja järjehoidjad
            *[other] Brausimise ajalugu
         }
+
 browser-data-formdata-checkbox =
     .label = Salvestatud vormide ajalugu
 browser-data-formdata-label =
     .value = Salvestatud vormide ajalugu
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -127,6 +133,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Salvestatud kasutajatunnused ja paroolid
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -141,10 +148,12 @@ browser-data-bookmarks-label =
             [edge] Lemmikud
            *[other] Järjehoidjad
         }
+
 browser-data-otherdata-checkbox =
     .label = Muud andmed
 browser-data-otherdata-label =
     .label = Muud andmed
+
 browser-data-session-checkbox =
     .label = Aknad ja kaardid
 browser-data-session-label =

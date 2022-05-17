@@ -19,6 +19,7 @@ open-location = Otsi või sisesta aadress
 share = Jaga
 close-window = Sulge aken
 open-sidebar = Külgribad
+
 # This string describes shortcuts for search.
 search-popover = Otsingu otseteed
 # Describes searches limited to a specific scope

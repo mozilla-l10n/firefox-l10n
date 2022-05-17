@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "L">
 <!ENTITY newVirtualFolderCmd.label "Salvestatud otsing...">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newOtherAccountsCmd.label "Muud kontod…">
-<!ENTITY newOtherAccountsCmd.accesskey "o">
 <!ENTITY newCreateEmailAccountCmd.label "Hangi uus e-posti konto…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "H">
 <!ENTITY newExistingEmailAccountCmd.label "Olemasolev e-posti konto…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "i">
 <!ENTITY saveAsMenu.label "Salvesta kui">
 <!ENTITY saveAsMenu.accesskey "S">
-<!ENTITY saveAsFileCmd.label "Fail">
-<!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Mall">
 <!ENTITY saveAsTemplateCmd.accesskey "M">

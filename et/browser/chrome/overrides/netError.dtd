@@ -171,8 +171,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Raporteeri taolistest vigadest, et Mozilla saaks tuvastada ja blokkida ohtlikud veebilehed">
 <!ENTITY errorReporting.learnMore "Rohkem teavet…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Täpsem teave: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -198,9 +196,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Paistab, et seda probleemi võivad põhjustada sinu võrguturvalisuse sätted. Kas soovid taastada vaikesätted?">
 <!ENTITY prefReset.label "Taasta vaikesätted">
-
-<!ENTITY enableTls10.longDesc "See sait ei pruugi toetada protokolli TLS 1.2, mis on minimaalne versioon, mida &brandShortName; toetab. TLS 1.0 ja TLS 1.1 lubamine võib võimaldada ühenduse loomise.">
-<!ENTITY enableTls10.note "TLS 1.0 ja TLS 1.1 keelatakse tulevases väljalaskes jäädavalt.">
-<!ENTITY enableTls10.label "Luba TLS 1.0 ja 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Veebilehte, mida üritad vaadata, pole võimalik kuvada, kuna võrguprotokollis tuvastati viga.</p><ul><li>Palun võta ühendust veebisaidi omanikuga, et teavitada teda sellest probleemist.</li></ul>">
