@@ -11,7 +11,6 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Stillingar
     .accesskey = i
-
 menu-addons-and-themes =
     .label = Viðbætur og þemu
     .accesskey = V
@@ -21,11 +20,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Úrræðaleitarhamur
     .accesskey = t
-
 menu-help-exit-troubleshoot-mode =
     .label = Slökkva á úrræðaleitarham
     .accesskey = k
-
 menu-help-more-troubleshooting-info =
     .label = Frekari upplýsingar um bilanaleit
     .accesskey = b
@@ -53,22 +50,30 @@ menu-view-repair-text-encoding =
 
 ## View / Layout
 
+menu-font-size-label =
+    .label = Leturstærð
+    .accesskey = u
+menuitem-font-size-enlarge =
+    .label = Auka leturstærð
+    .accesskey = A
+menuitem-font-size-reduce =
+    .label = Minnka leturstærð
+    .accesskey = M
+menuitem-font-size-reset =
+    .label = Endurstilla leturstærð
+    .accesskey = r
 mail-uidensity-label =
     .label = Þéttleiki
     .accesskey = k
-
 mail-uidensity-compact =
     .label = Þjappað
     .accesskey = p
-
 mail-uidensity-normal =
     .label = Venjulegt
     .accesskey = n
-
 mail-uidensity-touch =
     .label = Snertiskjár
     .accesskey = S
-
 menu-spaces-toolbar-button =
     .label = Svæða-verkfæraslá
     .accesskey = S

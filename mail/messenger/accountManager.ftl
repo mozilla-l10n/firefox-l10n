@@ -3,10 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 open-preferences-sidebar-button2 = { -brand-short-name } stillingar
-
 open-addons-sidebar-button = Viðbætur og þemu
-
 account-action-add-newsgroup-account =
     .label = Bæta við reikningi fyrir fréttahóp…
     .accesskey = f
-
+edit-vcard-dialog-accept-button = Vista
+    .accesskey = s
+edit-vcard-dialog-cancel-button = Hætta við
+    .accesskey = H
