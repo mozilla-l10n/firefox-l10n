@@ -39,15 +39,6 @@ menu-quit =
 menu-quit-mac =
     .label = Keluar { -brand-shorter-name }
 
-# This menu-quit-button string is only used on Linux.
-menu-quit-button =
-    .label = { menu-quit.label }
-
-# This menu-quit-button-win string is only used on Windows.
-menu-quit-button-win =
-    .label = { menu-quit.label }
-    .tooltip = Keluar { -brand-shorter-name }
-
 menu-about =
     .label = Perihal { -brand-shorter-name }
     .accesskey = P
@@ -77,9 +68,6 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Buka Fail…
     .accesskey = B
-menu-file-close =
-    .label = Tutup
-    .accesskey = T
 menu-file-close-window =
     .label = Tutup Tetingkap
     .accesskey = u
@@ -92,9 +80,6 @@ menu-file-email-link =
 menu-file-print-setup =
     .label = Penetapan Halaman…
     .accesskey = t
-menu-file-print-preview =
-    .label = Previu Cetakan
-    .accesskey = v
 menu-file-print =
     .label = Cetak…
     .accesskey = C
@@ -264,9 +249,6 @@ menu-help =
     .accesskey = B
 menu-help-report-site-issue =
     .label = Laporkan Isu Laman…
-menu-help-feedback-page =
-    .label = Hantar Maklum balas…
-    .accesskey = H
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.

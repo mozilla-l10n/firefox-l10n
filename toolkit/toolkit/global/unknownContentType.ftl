@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] Tetapan boleh diubah di Pilihan { -brand-short-name }.
            *[other] Tetapan boleh ditukar dalam Keutamaan { -brand-short-name }.
         }
+
 unknowncontenttype-intro = Anda telah memilih untuk membuka:
 unknowncontenttype-which-is = iaitu:
 unknowncontenttype-from = daripada:

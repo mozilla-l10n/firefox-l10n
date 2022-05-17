@@ -4,9 +4,6 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
-<!ENTITY pref.scripts.title              "Skrip &amp; Plugin">
-
 <!ENTITY navigator.label                 "Pelayar">
 <!ENTITY navigator.accesskey             "P">
 
@@ -20,12 +17,3 @@
 <!ENTITY allowContextmenuDisable.label   "Menyahdayakan atau menggantikan menu konteks">
 <!ENTITY allowHideStatusBar.label        "Menyorokkan bar status">
 
-<!ENTITY enablePlugins.label             "Dayakan Plugin untuk">
-<!ENTITY enablePluginForSuite.label      "Suit">
-<!ENTITY enablePluginForSuite.accesskey  "u">
-
-<!ENTITY whenPageRequiresPlugins.label   "Apabila halaman memerlukan plugin">
-<!ENTITY activateAllPlugins.label        "Aktifkan semua plugin secara piawai">
-<!ENTITY activateAllPlugins.accesskey    "p">
-<!ENTITY warnPluginsRequired.label       "Beri amaran jika plugin tambahan perlu dipasang">
-<!ENTITY warnPluginsRequired.accesskey   "B">

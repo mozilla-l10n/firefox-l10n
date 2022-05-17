@@ -67,22 +67,9 @@ import-done-description = Item berikut telah berjaya diimport:
 
 import-close-source-browser = Sila pastikan pelayar yang dipilih telah ditutup sebelum meneruskan.
 
-# Displays which browser the bookmarks are being imported from
-#
-# Variables:
-#   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = Dari { $source }
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
-source-name-safari = Safari
-source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
-source-name-chrome-beta = Google Chrome Beta
-source-name-chrome-dev = Google Chrome Dev
-source-name-chromium = Chromium
-source-name-firefox = Mozilla Firefox
-source-name-360se = 360 Pelayar Selamat
 
 imported-safari-reading-list = Senarai Membaca (Dari Safari)
 imported-edge-reading-list = Senarai Membaca (Dari Safari)

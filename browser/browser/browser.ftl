@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Pelayaran Peribadi)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Pelayaran Peribadi)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Pelayaran Peribadi)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Pelayaran Peribadi)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -122,10 +124,12 @@ urlbar-canvas-blocked =
     .tooltiptext = Anda telah menyekat ekstraksi data kanvas untuk laman web ini.
 urlbar-midi-blocked =
     .tooltiptext = Anda telah menyekat akses MIDI untuk laman web ini.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Edit tandabuku ini ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -149,12 +153,14 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ubah tetapan carian
+
 search-one-offs-context-open-new-tab =
     .label = Cari dalam Tab Baru
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = Tetapkan sebagai Enjin Carian Piawai
     .accesskey = P
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -181,6 +187,7 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Papar editor apabila menyimpan
     .accesskey = P
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -197,6 +204,7 @@ identity-passive-loaded = Sebahagian halaman ini tidak selamat (contohnya imej).
 identity-active-loaded = Anda telah menyahdayakan perlindungan untuk halaman ini.
 identity-weak-encryption = Halaman ini menggunakan enkripsi yang lemah.
 identity-insecure-login-forms = Log masuk yang dimasukkan dalam halaman ini boleh dikompromi.
+
 identity-permissions-reload-hint = Anda mungkin perlu memuat semula halaman supaya perubahan ini dilaksanakan.
 identity-clear-site-data =
     .label = Buang Kuki dan Data Laman…
@@ -256,15 +264,19 @@ popup-all-windows-shared = Semua tetingkap yang kelihatan pada skrin anda akan d
 
 urlbar-placeholder =
     .placeholder = Cari atau masukkan alamat
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Cari dengan { $name } atau masukkan alamat
+
 urlbar-switch-to-tab =
     .value = Tukar ke tab:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Ekstensi:
+
 urlbar-go-button =
     .tooltiptext = Pergi ke alamat dalam Bar Lokasi
 urlbar-page-action-button =
@@ -296,9 +308,12 @@ urlbar-result-action-visit = Lawati
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kini skrin penuh
 fullscreen-warning-no-domain = Dokumen ini skrin penuh
+
+
 fullscreen-exit-button = Keluar dari Skrin Penuh (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Keluar dari Skrin Penuh (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -344,6 +359,7 @@ bookmarks-tools =
     .label = Alatan Tandabuku
 bookmarks-bookmark-edit-panel =
     .label = Edit Tandabuku Ini
+
 bookmarks-toolbar-menu =
     .label = Bar alatan Tandabuku
 bookmarks-toolbar-placeholder =
@@ -367,28 +383,30 @@ library-bookmarks-menu =
 
 ## More items
 
-more-menu-go-offline =
-    .label = Kerja Luar Talian
-    .accesskey = K
 toolbar-overflow-customize-button =
     .label = Penyesuaian Bar Alatan…
     .accesskey = P
+
 toolbar-button-email-link =
     .label = E-mel Pautan
     .tooltiptext = E-mel pautan ke halaman ini
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Simpan Halaman
     .tooltiptext = Simpan halaman ini ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Buka Fail
     .tooltiptext = Buka fail ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = Tab Sync
     .tooltiptext = Papar tab dari peranti lain
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -419,6 +437,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Izinkan popup untuk { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Sekat popup untuk { $uriHost }
     .accesskey = p
@@ -440,30 +459,39 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Muat turun
+
 navbar-overflow =
     .tooltiptext = Alatan seterusnya…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Cetak
     .tooltiptext = Cetak laman ini… ({ $shortcut })
+
 navbar-home =
     .label = Laman
     .tooltiptext = Laman { -brand-short-name }
+
 navbar-library =
     .label = Pustaka
     .tooltiptext = Papar sejarah, tandabuku yang disimpan dan banyak lagi
+
 navbar-search =
     .title = Cari
+
 navbar-accessibility-indicator =
     .tooltiptext = Ciri Ketercapaian Diaktifkan
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Tab pelayar
+
 tabs-toolbar-new-tab =
     .label = Tab Baru
+
 tabs-toolbar-list-all-tabs =
     .label = Senarai semua tab
     .tooltiptext = Senarai semua tab

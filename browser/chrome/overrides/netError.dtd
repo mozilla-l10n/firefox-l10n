@@ -167,8 +167,6 @@
 <!ENTITY errorReporting.automatic2 "Laporkan ralat seperti ini untuk membantu Mozilla mengenal pasti dan menyekat laman berbahaya">
 <!ENTITY errorReporting.learnMore "Ketahui selanjutnya…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Info lanjutan: SSL_ERROR_UNSUPPORTED_VERSION">

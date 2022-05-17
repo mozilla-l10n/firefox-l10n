@@ -50,6 +50,7 @@ app-basics-multi-process-support = Tetingkap Multiproses
 app-basics-enterprise-policies = Polisi Syarikat
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = Mod Selamat
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Papar dalam Finder

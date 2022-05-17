@@ -16,15 +16,9 @@ newtab-search-box-search-button =
     .title = Cari
     .aria-label = Cari
 
-newtab-search-box-search-the-web-input =
-    .placeholder = Cari dalam Web
-    .title = Cari dalam Web
-    .aria-label = Cari dalam Web
-
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Tambah Enjin Carian
-newtab-topsites-add-topsites-header = Laman Teratas Baru
 newtab-topsites-edit-topsites-header = Edit Laman Teratas
 newtab-topsites-title-label = Tajuk
 newtab-topsites-title-input =
@@ -150,7 +144,6 @@ newtab-section-menu-privacy-notice = Notis Privasi
 ## Section Headers.
 
 newtab-section-header-topsites = Laman Teratas
-newtab-section-header-highlights = Serlahan
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Disyorkan oleh { $provider }
@@ -174,6 +167,9 @@ newtab-pocket-read-more = Topik Popular:
 newtab-pocket-more-recommendations = Saranan Lain
 newtab-pocket-cta-button = Dapatkan { -pocket-brand-name }
 newtab-pocket-cta-text = Simpan cerita yang anda suka dalam { -pocket-brand-name } dan jana minda dengan bahan bacaan yang menarik.
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

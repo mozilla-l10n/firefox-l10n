@@ -3,56 +3,79 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Pengurus Add-ons
+
 search-header =
     .placeholder = Cari di addons.mozilla.org
     .searchbuttonlabel = Cari
+
 search-header-shortcut =
     .key = f
+
 list-empty-installed =
     .value = Anda tidak mempunyai add-ons jenis ini yang dipasang
+
 list-empty-available-updates =
     .value = Tiada kemaskini ditemui
+
 list-empty-recent-updates =
     .value = Anda tidak ada mengemaskini sebarang add-on baru-baru ini
+
 list-empty-find-updates =
     .label = Semak Kemaskini
+
 list-empty-button =
     .label = Ketahui selanjutnya mengenai add-ons
+
 help-button = Sokongan Add-ons
 sidebar-help-button-title =
     .title = Sokongan Add-ons
+
 show-unsigned-extensions-button =
     .label = Beberapa ekstensi tidak dapat disahkan
+
 show-all-extensions-button =
     .label = Papar semua ekstensi
+
 detail-version =
     .label = Versi
+
 detail-last-updated =
     .label = Kemaskini Terakhir
+
 detail-contributions-description = Pembangun aplikasi tambahan ini meminta anda bantuan untuk menyokong pembangunan yang berterusan dengan memberikan sedikit sumbangan.
+
 detail-update-type =
     .value = Kemaskini automatik
+
 detail-update-default =
     .label = Piawai
     .tooltiptext = Pasang kemaskini secara automatik hanya jika itulah piawai
+
 detail-update-automatic =
     .label = Aktif
     .tooltiptext = Pasang kemaskini secara automatik
+
 detail-update-manual =
     .label = Nyahaktif
     .tooltiptext = Jangan pasang kemaskini secara automatik
+
 detail-home =
     .label = Laman
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = Profil add-on
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = Semak Kemaskini
     .accesskey = n
     .tooltiptext = Semak kemaskini add-on ini
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -69,20 +92,31 @@ detail-show-preferences =
             [windows] Tukar pilihan add-on ini
            *[other] Tukar keutamaan add-on ini
         }
+
 detail-rating =
     .value = Kadaran
+
 addon-restart-now =
     .label = Mula semula sekarang
+
 disabled-unsigned-heading =
     .value = Beberapa add-ons telah dinyahdayakan
+
 disabled-unsigned-description = Add-ons berikut belum disahkan untuk digunakan dalam { -brand-short-name }. Anda boleh <label data-l10n-name="find-addons">cari pengganti</label> atau tanya pembangun untuk mengesahkannya.
+
 disabled-unsigned-learn-more = Ketahui selanjutnya mengenai usaha kami untuk memastikan anda selamat dalam talian.
+
 disabled-unsigned-devinfo = Pembangun yang berminat untuk mengesahkan add-on mereka boleh meneruskan dengan membaca <label data-l10n-name="learn-more">manual</label>.
+
 plugin-deprecation-description = Ada sesuatu yang tidak kena? Ada plugin yang tidak lagi disokong oleh { -brand-short-name }. <label data-l10n-name="learn-more">Ketahui Selanjutnya.</label>
+
 legacy-warning-show-legacy = Pamerkan ekstensi legasi
+
 legacy-extensions =
     .value = Ekstensi Legasi
+
 legacy-extensions-description = Ekstensi berikut tidak memenuhi piawai { -brand-short-name } oleh itu dinyahaktifkan. <label data-l10n-name="legacy-learn-more">Ketahui lanjut perubahan add-ons</label>
+
 addon-category-extension = Ekstensi
 addon-category-extension-title =
     .title = Ekstensi
@@ -181,8 +215,10 @@ theme-heading = Urus tema anda
 plugin-heading = Urus plugin anda
 dictionary-heading = Urus kamus anda
 locale-heading = Urus bahasa anda
+
 addons-heading-search-input =
     .placeholder = Cari di addons.mozilla.org
+
 addon-page-options-button =
     .title = Alatan untuk semua add-on
 
@@ -193,12 +229,17 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } tidak serasi dengan { -brand-short-name } { $version }.
+
 details-notification-unsigned-and-disabled = { $name } tidak dapat disahkan untuk digunakan di { -brand-short-name } dan ia telah dinyahdayakan.
 details-notification-unsigned-and-disabled-link = Maklumat Lanjut
+
 details-notification-unsigned = { $name } tidak dapat disahkan untuk digunakan di { -brand-short-name }. Teruskan dengan berhati-hati.
 details-notification-unsigned-link = Maklumat Lanjut
+
 details-notification-blocked = { $name } telah dinyahdayakan kerana isu keselamatan atau kestabilan.
 details-notification-blocked-link = Maklumat Lanjut
+
 details-notification-softblocked = { $name } telah dikenalpasti sebagai punca dalam isu keselamatan dan kestabilan.
 details-notification-softblocked-link = Maklumat Lanjut
+
 details-notification-gmp-pending = { $name } akan dipasang sebentar lagi.

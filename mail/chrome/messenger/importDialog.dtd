@@ -32,9 +32,6 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "Tapis">
 <!ENTITY importFilters.accesskey  "T">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
-
 <!ENTITY importTitle.label        "Bestari Import &brandShortName;">
 <!ENTITY importShortDesc.label    "Import Mel, Buku Alamat, Tetapan dan Penapis daripada atur cara lain">
 

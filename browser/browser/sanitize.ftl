@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Data
 
-item-site-preferences =
-    .label = Keutamaan Laman
-    .accesskey = K
-
 item-offline-apps =
     .label = Data Laman web Luar talian
     .accesskey = D

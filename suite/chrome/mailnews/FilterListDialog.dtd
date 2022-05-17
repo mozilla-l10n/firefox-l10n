@@ -26,5 +26,3 @@
 <!ENTITY stopFilters.accesskey "B">
 <!ENTITY folderPickerPrefix.label "Laksanakan penapis yang dipilih pada:">
 <!ENTITY folderPickerPrefix.accesskey "p">
-<!ENTITY choosethis.label "pilih folder ini">
-<!ENTITY choosethisnewsserver.label "pilih pelayan berita ini">
