@@ -6,15 +6,9 @@
 <!ENTITY e2eLearnMore.label "Xem thêm">
 
 <!ENTITY e2eEnc.description "Nếu không có mã hóa đầu cuối, nội dung của các thư sẽ dễ dàng bị lộ cho nhà cung cấp dịch vụ email của bạn và bị giám sát hàng loạt.">
-<!ENTITY e2eeReqWarning.description "Nếu bạn yêu cầu mã hóa, để gửi thư, bạn phải có khóa công khai hoặc chứng chỉ của mọi người nhận.">
 
-<!ENTITY e2eSigning.description "Chữ ký điện tử cho phép người nhận xác minh thư do bạn gửi và nội dung không bị thay đổi.">
 <!ENTITY e2eTechPref.description "Công nghệ mã hóa ưu tiên:">
 
-<!ENTITY doNotEncrypt.label "Không bật mã hóa theo mặc định">
-<!ENTITY doNotEncrypt.accesskey "N">
-<!ENTITY requireEncryptMessage.label "Yêu cầu mã hóa theo mặc định">
-<!ENTITY requireEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert2.message "Chứng chỉ cá nhân để mã hóa:">
 <!ENTITY digitalSign.certificate.button "Chọn…">
 <!ENTITY digitalSign.certificate.accesskey "C">
@@ -25,8 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Xóa">
 <!ENTITY encryption.certificate_clear.accesskey "a">
 <!ENTITY signingGroupTitle.label "Chữ kí điện tử">
-<!ENTITY signMessage2.label "Thêm chữ ký điện tử của tôi theo mặc định">
-<!ENTITY signMessage.accesskey "h">
 <!ENTITY signingCert2.message "Chứng chỉ cá nhân để ký kỹ thuật số:">
 
 <!ENTITY sendingDefaults.label "Cài đặt mặc định để gửi thư">

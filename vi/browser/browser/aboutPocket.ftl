@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Thêm các tag
+
 pocket-panel-saved-error-generic = Đã xảy ra lỗi khi đang lưu vào { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Các tag được giới hạn trong 25 ký tự
 pocket-panel-saved-error-only-links = Chỉ các các liên kết mới có thể được lưu lại
@@ -29,6 +30,7 @@ pocket-panel-saved-saving-tags = Đang lưu lại...
 pocket-panel-saved-suggested-tags = Các tag được đề xuất
 pocket-panel-saved-tags-saved = Các tag đã được thêm vào
 pocket-panel-signup-view-list = Xem danh sách
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Thêm tag
 
@@ -43,7 +45,7 @@ pocket-panel-signup-signup-firefox = Đăng ký với { -brand-product-name }
 pocket-panel-signup-tagline = Lưu bài viết và video từ { -brand-product-name } để xem trên { -pocket-brand-name } trên bất kỳ thiết bị nào, bất cứ lúc nào.
 pocket-panel-signup-tagline-story-one = Nhấp vào nút { -pocket-brand-name } để lưu bất kỳ bài viết, video hoặc trang nào từ { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Xem trên { -pocket-brand-name } ở bất cứ thiết bị và thời gian nào.
-pocket-panel-signup-cta-a = Nút lưu của bạn trên internet.
+
 pocket-panel-signup-cta-a-fix = Nút lưu của bạn trên internet
 pocket-panel-signup-cta-b = Nhấp vào nút { -pocket-brand-name } để lưu các bài báo, video và liên kết. Xem danh sách của bạn trên mọi thiết bị, bất kỳ lúc nào.
 pocket-panel-signup-cta-b-short = Nhấp vào nút { -pocket-brand-name } để lưu các bài báo, video và liên kết.
@@ -57,6 +59,7 @@ pocket-panel-home-paragraph = Bạn có thể sử dụng { -pocket-brand-name }
 pocket-panel-home-explore-popular-topics = Khám phá các chủ đề phổ biến
 pocket-panel-home-discover-more = Khám phá nhiều hơn
 pocket-panel-home-explore-more = Khám phá
+
 pocket-panel-home-most-recent-saves = Đây là những lần lưu gần đây nhất của bạn:
 pocket-panel-home-most-recent-saves-loading = Đang tải các bản lưu gần đây…
 pocket-panel-home-new-user-cta = Nhấp vào nút { -pocket-brand-name } để lưu các bài báo, video và liên kết.
@@ -70,6 +73,5 @@ pocket-panel-header-sign-in = Đăng nhập
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Hiển thị tất cả
-pocket-panel-button-add-tags = Thêm tag
 pocket-panel-button-activate = Kích hoạt { -pocket-brand-name } trong { -brand-product-name }
 pocket-panel-button-remove = Xóa

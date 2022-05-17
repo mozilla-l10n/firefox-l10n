@@ -40,8 +40,6 @@
 <!ENTITY PrimaryEmail.accesskey         "T">
 <!ENTITY SecondEmail.label              "Thư điện tử Khác:">
 <!ENTITY SecondEmail.accesskey          "K">
-<!ENTITY PreferMailFormat.label         "Ưu tiên nhận tin nhắn được định dạng là:">
-<!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "Văn bản thuần túy">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Không rõ">

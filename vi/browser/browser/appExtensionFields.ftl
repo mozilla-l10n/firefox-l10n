@@ -8,10 +8,13 @@
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = Chủ đề hệ thống — tự động
 extension-default-theme-description = Áp dụng theo cài đặt hệ điều hành cho các nút, menu và cửa sổ.
+
 extension-firefox-compact-light-name = Sáng
 extension-firefox-compact-light-description = Một chủ đề với tông màu sáng.
+
 extension-firefox-compact-dark-name = Tối
 extension-firefox-compact-dark-description = Một chủ đề với tông màu tối.
+
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Sử dụng giao diện đầy màu sắc cho các nút, menu và cửa sổ.
 

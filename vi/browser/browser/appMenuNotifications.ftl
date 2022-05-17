@@ -37,6 +37,7 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Không phải lúc này
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Đã có bản cập nhật { -brand-shorter-name } mới nhưng không thể cài đặt bản cập nhật này vì một bản sao khác của { -brand-shorter-name } đang chạy. Đóng nó để tiếp tục cập nhật hoặc chọn vẫn cập nhật (bản sao khác có thể không hoạt động chính xác cho đến khi bạn khởi động lại nó).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Okay
     .buttonaccesskey = O
@@ -44,6 +45,7 @@ appmenu-addon-post-install-message3 = Quản lý các tiện ích mở rộng v�
 appmenu-addon-post-install-incognito-checkbox =
     .label = Cho phép tiện ích mở rộng này chạy trong cửa sổ riêng tư
     .accesskey = A
+
 appmenu-new-tab-controlled-changes =
     .label = Thẻ mới của bạn đã thay đổi.
     .buttonlabel = Lưu thay đổi

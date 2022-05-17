@@ -111,6 +111,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "b">
 <!ENTITY newlistButton.label                            "Danh sách mới">
 <!ENTITY newlistButton.accesskey                        "D">
+
 <!ENTITY showAsDefault.label                            "Thư mục khởi động mặc định">
 <!ENTITY showAsDefault.accesskey                        "S">
 <!ENTITY editPropertiesButton.label                     "Chỉnh sửa">
