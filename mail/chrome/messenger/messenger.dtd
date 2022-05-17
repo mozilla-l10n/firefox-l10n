@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "D">
 <!ENTITY newVirtualFolderCmd.label "Składowane pytanje…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newOtherAccountsCmd.label "Druhe konta…">
-<!ENTITY newOtherAccountsCmd.accesskey "u">
 <!ENTITY newCreateEmailAccountCmd.label "Nowe e-mejlowe konto załožić…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "m">
 <!ENTITY newExistingEmailAccountCmd.label "Eksistowace e-mejlowe konto…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "S">
 <!ENTITY saveAsMenu.label "Składować jako">
 <!ENTITY saveAsMenu.accesskey "S">
-<!ENTITY saveAsFileCmd.label "Dataju">
-<!ENTITY saveAsFileCmd.accesskey "D">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Předłohu">
 <!ENTITY saveAsTemplateCmd.accesskey "h">

@@ -10,4 +10,3 @@ add-on-search-alternative-button-label = Alternatiwny přidatk pytać
 atn-addons-heading-search-input =
     .placeholder = addons.thunderbird.net přepytać
 
-sidebar-preferences-button-title = Nastajenja { -brand-short-name }

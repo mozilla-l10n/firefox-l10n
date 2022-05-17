@@ -4,8 +4,10 @@
 
 account-settings-title = Awtentifikaciske nastajenja
 account-channel-title = Standardne kanale
+
 chat-autologin =
     .label = Za start přizjewić
+
 chat-encryption-generic = Powšitkowny
 chat-encryption-log =
     .label = Powěsće zaklučowane kónc do kónca do rozmołwnych protokolow zapřijeć

@@ -75,8 +75,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Dźělić
     .accesskey = D
-tab-context-share-more =
-    .label = Wjace…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -89,16 +87,6 @@ tab-context-reopen-closed-tabs =
             [two] $tabCount začinjenej rajtarkaj znowa wočinić
             [few] $tabCount začinjene rajtarki znowa wočinić
            *[other] $tabCount začinjenych rajtarkow znowa wočinić
-        }
-    .accesskey = r
-tab-context-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] { $tabCount } rajtark začinić
-            [one] { $tabCount } rajtark začinić
-            [two] { $tabCount } rajtarkaj začinić
-            [few] { $tabCount } rajtarki začinić
-           *[other] { $tabCount } rajtarkow začinić
         }
     .accesskey = r
 tab-context-close-n-tabs =
@@ -121,6 +109,7 @@ tab-context-move-tabs =
            *[other] { $tabCount } rajtarkow přesunyć
         }
     .accesskey = s
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

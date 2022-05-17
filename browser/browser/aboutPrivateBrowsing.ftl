@@ -6,7 +6,6 @@ privatebrowsingpage-open-private-window-label = Priwatne wokno wočinić
     .accesskey = P
 about-private-browsing-search-placeholder = Web přepytać
 about-private-browsing-info-title = Sće w priwatnym woknje
-about-private-browsing-info-myths = Časte myty wo priwatnym modusu
 about-private-browsing-search-btn =
     .title = Web přepytać
 # Variables
@@ -20,16 +19,15 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Pytajće z { $engine } abo zapodajće adresu
 about-private-browsing-handoff-text-no-engine = Pytać abo adresu zapodać
 about-private-browsing-not-private = Tuchwilu njejsće w priwatnym woknje.
-about-private-browsing-info-description = { -brand-short-name } wašu pytansku a přehladowansku historjiu wuprózdni, hdyž nałoženje wopušćiće abo wšě rajtarki a wokna priwatneho modus začiniće. Přez to so wosnadnja, před druhimi, kotřiž tutón ličak wužiwaja, schować, štož online činiće, hačrunjež to was za websydła abo wašeho poskićowarja internetneje słužby njeanonymizuje.
-about-private-browsing-need-more-privacy = Trjebaće wjace priwatnosće?
-about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } wupruwować
 about-private-browsing-info-description-private-window = Priwatne wokno: { -brand-short-name } wašu pytansku a přehladowansku historiju zhaša, hdyž wšě priwatne wokna začinjeće.  Přez to njebudźeće anonymny.
 about-private-browsing-info-description-simplified = { -brand-short-name } wašu pytansku a přehladowansku historiju zhaša, hdyž wšě priwatne wokna začinjeće, ale přez to njebudźeće anonymny.
 about-private-browsing-learn-more-link = Dalše informacije
+
 about-private-browsing-hide-activity = Schowajće swoju aktiwitu a stejnišćo, hdźežkuli wobhladowak wužiwaće
 about-private-browsing-get-privacy = Wobstarajće sej škit priwatnosće wšudźe, hdźež přehladujeće
 about-private-browsing-hide-activity-1 = Schowajće přehladowansku aktiwitu a stejnišćo z { -mozilla-vpn-brand-name }. Z jednym kliknjenjom wutworiće zwisk, samo w zjawnym WLAN:
 about-private-browsing-prominent-cta = Škitajće swoju priwatnosć z { -mozilla-vpn-brand-name }
+
 about-private-browsing-focus-promo-cta = { -focus-brand-name } sćahnyć
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Priwatny modus po puću
 about-private-browsing-focus-promo-text = Naše mobilne, za priwatny modus myslene nałoženje wašu historiju a placki kóždy čas prózdni.
@@ -40,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Přinjesće priwatne přehladowanj
 about-private-browsing-focus-promo-text-b = Wužiwajće { -focus-brand-name } za te priwatne pytanja, kotrež nima waš hłowny mobilny wobhladowak widźeć.
 about-private-browsing-focus-promo-header-c = Priwatnosć přichodneho schodźenka za mobilne graty
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } wašu historiju kóždy raz zhaša, hdyž wabjenje a přesćěhowaki blokujeće.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -52,7 +51,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Začinić
-about-private-browsing-dismiss-button =
-    .title = Zaćisnyć
+
 about-private-browsing-promo-close-button =
     .title = Začinić

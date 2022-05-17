@@ -99,8 +99,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Zdźělće zmylki kaž tute, zo byšće Mozilla pomhał, złowólne sydła identifikował a blokował">
 <!ENTITY errorReporting.learnMore "Dalše informacije…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo problemje informował.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Rozšěrjena info: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -126,9 +124,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Zda so, zo waše nastajenja syćoweje wěstoty móhli to zawinować. Chceće standardne nastajenja wobnowić?">
 <!ENTITY prefReset.label "Standardne nastajenja wobnowić">
-
-<!ENTITY enableTls10.longDesc "Tute websydło snano protokol TLS 1.2 njepodpěruje, kotryž je minimalna wersija, kotruž &brandShortName; podpěruje. Hdyž TLS 1.0 a TLS 1.1 zmóžniće, da so snano zwisk nawjazać.">
-<!ENTITY enableTls10.note "TLS 1.0 a TLS 1.1 so w přichodnej wersiji na přeco znjemóžnitej.">
-<!ENTITY enableTls10.label "TLS 1.0 a 1.1 zmóžnić">
 
 <!ENTITY networkProtocolError.longDesc "<p>Strona, kotruž pospytujeće sej wobhladać, njeda so pokazać, dokelž je so zmylk w syćowym protokolu namakał.</p><ul><li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li></ul>">

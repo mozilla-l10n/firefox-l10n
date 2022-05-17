@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Znački přidać
+
 pocket-panel-saved-error-generic = Při składowanju do { -pocket-brand-name } je zmylk wustupił.
 pocket-panel-saved-error-tag-length = Znački su na 25 znamješkow wobmjezowane
 pocket-panel-saved-error-only-links = Jenož wotkazy dadźa so składować
@@ -29,6 +30,7 @@ pocket-panel-saved-saving-tags = Składuje so…
 pocket-panel-saved-suggested-tags = Namjetowane znački
 pocket-panel-saved-tags-saved = Znački su so přidali
 pocket-panel-signup-view-list = Lisćinu pokazać
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Znački přidać:
 
@@ -43,7 +45,7 @@ pocket-panel-signup-signup-firefox = Z { -brand-product-name } registrować
 pocket-panel-signup-tagline = Składujće nastawki a wideja z { -brand-product-name }, zo byšće sej je kóždy čas w { -pocket-brand-name } na kóždym graće wobhladał.
 pocket-panel-signup-tagline-story-one = Klikńće na tłóčatko { -pocket-brand-name }, zo byšće nastawk, widejo abo stronu z { -brand-product-name } składował.
 pocket-panel-signup-tagline-story-two = Sej w { -pocket-brand-name } na kóždym graće kóždy čas wobhladać.
-pocket-panel-signup-cta-a = Waše składowanske tłóčatko za internet.
+
 pocket-panel-signup-cta-a-fix = Waše składowanske tłóčatko za internet
 pocket-panel-signup-cta-b = Klikńće na tłóčatko { -pocket-brand-name }, zo byšće nastawki, wideja a wotkazy składował. Wobhladajće sej lisćinu kóždy čas na kóždym graće.
 pocket-panel-signup-cta-b-short = Klikńće na tłóčatko { -pocket-brand-name }, zo byšće nastawki, wideja a wotkazy składował.
@@ -57,6 +59,7 @@ pocket-panel-home-paragraph = Móžeće { -pocket-brand-name } wužiwać, zo by�
 pocket-panel-home-explore-popular-topics = Wotkryjće woblubowane temy
 pocket-panel-home-discover-more = Wotkryjće wjace
 pocket-panel-home-explore-more = Wuslědźić
+
 pocket-panel-home-most-recent-saves = Tu su waše najnowše składowanja:
 pocket-panel-home-most-recent-saves-loading = Najnowše składowanja so začituja …
 pocket-panel-home-new-user-cta = Klikńće na tłóčatko { -pocket-brand-name }, zo byšće nastawki, wideja a wotkazy składował.
@@ -70,6 +73,5 @@ pocket-panel-header-sign-in = Přizjewić
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Wšě pokazać
-pocket-panel-button-add-tags = Znački přidać
 pocket-panel-button-activate = { -pocket-brand-name } w { -brand-product-name } aktiwizować
 pocket-panel-button-remove = Wotstronić
