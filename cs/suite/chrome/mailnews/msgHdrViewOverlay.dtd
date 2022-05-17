@@ -23,9 +23,6 @@
 <!ENTITY inReplyToField.label "V odpovědi na: ">
 <!ENTITY originalWebsite.label "Webový server:">
 
-<!ENTITY editMessage.label                 "Upravit rozepsané…">
-<!ENTITY editMessage.accesskey             "U">
-
 <!ENTITY editDraft.label                   "Upravit koncept…">
 <!ENTITY editTemplate.label                "Upravit šablonu…">
 

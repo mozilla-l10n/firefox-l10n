@@ -4,9 +4,6 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
-<!ENTITY pref.scripts.title              "Skripty a zásuvné moduly">
-
 <!--LOCALIZATION NOTE : FILE The 'Scripts' preferences dialog -->
 <!ENTITY pref.scripts2.title             "Skripty">
 
@@ -31,12 +28,3 @@
 <!ENTITY debugConsoleJavascript.label     "Zobrazit chyby a varování chrome JavaScript">
 <!ENTITY debugConsoleJavascript.accesskey "c">
 
-<!ENTITY enablePlugins.label             "Povolit zásuvné moduly pro">
-<!ENTITY enablePluginForSuite.label      "SeaMonkey">
-<!ENTITY enablePluginForSuite.accesskey  "S">
-
-<!ENTITY whenPageRequiresPlugins.label   "Pokud stránka vyžaduje zásuvný modul">
-<!ENTITY activateAllPlugins.label        "Automaticky spustit všechny moduly">
-<!ENTITY activateAllPlugins.accesskey    "A">
-<!ENTITY warnPluginsRequired.label       "Upozornit, pokud je potřeba doinstalovat další moduly">
-<!ENTITY warnPluginsRequired.accesskey   "U">

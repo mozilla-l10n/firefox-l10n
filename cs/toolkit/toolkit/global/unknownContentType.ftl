@@ -11,6 +11,7 @@ unknowncontenttype-handleinternally =
            *[other] v aplikaci { -brand-short-name }
         }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         Nastavení lze změnit v { PLATFORM() ->
@@ -22,6 +23,7 @@ unknowncontenttype-settingschange =
             [neuter] { -brand-short-name(case: "gen") }
            *[other] aplikace { -brand-short-name }
         }.
+
 unknowncontenttype-intro = Stažení souboru:
 unknowncontenttype-which-is = typ:
 unknowncontenttype-from = zdroj:

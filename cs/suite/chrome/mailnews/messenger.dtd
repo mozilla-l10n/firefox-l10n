@@ -313,9 +313,6 @@
 <!ENTITY forwardAsInline.accesskey "V">
 <!ENTITY forwardAsAttachmentCmd.label "Příloha">
 <!ENTITY forwardAsAttachmentCmd.accesskey "P">
-<!ENTITY editMsgAsNewCmd.label "Upravit zprávu jako novou">
-<!ENTITY editMsgAsNewCmd.accesskey "U">
-<!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY editAsNewMsgCmd.label "Upravit jako novou zprávu">
 <!ENTITY editDraftMsgCmd.label "Upravit koncept zprávy">
 <!ENTITY editTemplateMsgCmd.label "Upravit šablonu">
@@ -475,8 +472,6 @@
 <!ENTITY contextOpenNewWindow.accesskey "z">
 <!ENTITY contextOpenNewTab.label "Otevřít zprávu v novém panelu">
 <!ENTITY contextOpenNewTab.accesskey "p">
-<!ENTITY contextEditAsNew.label "Upravit jako novou…">
-<!ENTITY contextEditAsNew.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Upravit jako novou zprávu">
 <!ENTITY contextEditDraftMsg.label "Upravit koncept zprávy">
 <!ENTITY contextEditTemplate.label "Upravit šablonu">

@@ -94,9 +94,6 @@
 <!ENTITY corruptedContentErrorv2.title "Chyba v obsahu stránky">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Požadovanou stránku nelze zobrazit, protože při přenosu dat došlo k chybě.</p><ul><li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li></ul>">
 
-<!ENTITY remoteXUL.title "Vzdálené XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li></ul></p>">
-
 <!ENTITY inadequateSecurityError.title "Vaše připojení není zabezpečené">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

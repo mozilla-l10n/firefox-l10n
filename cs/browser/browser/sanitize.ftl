@@ -78,10 +78,6 @@ item-form-search-history =
 
 data-section-label = Data
 
-item-site-preferences =
-    .label = Nastavení pro daný server
-    .accesskey = s
-
 item-site-settings =
     .label = Nastavení serveru
     .accesskey = s

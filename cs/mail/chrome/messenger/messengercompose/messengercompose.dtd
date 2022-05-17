@@ -21,9 +21,6 @@
 <!ENTITY attachCloudCmd.accesskey "b">
 <!ENTITY attachPageCmd.label "Webovou stránku…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Osobní vizitku (vCard)">
-<!ENTITY attachVCardCmd.accesskey "O">
 <!ENTITY remindLater.label "Upozornit mě později">
 <!ENTITY remindLater.accesskey "U">
 <!ENTITY closeCmd.label "Zavřít">
@@ -149,16 +146,6 @@
 <!ENTITY returnReceiptMenu.accesskey "o">
 <!ENTITY dsnMenu.label "Potvrzení o doručení">
 <!ENTITY dsnMenu.accesskey "d">
-<!ENTITY deliveryFormatMenu.label "Formát doručení">
-<!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "Automaticky rozpoznat">
-<!ENTITY autoFormatCmd.accesskey "A">
-<!ENTITY plainTextFormatCmd.label "Pouze prostý text">
-<!ENTITY plainTextFormatCmd.accesskey "P">
-<!ENTITY htmlFormatCmd.label "Pouze HTML">
-<!ENTITY htmlFormatCmd.accesskey "H">
-<!ENTITY bothFormatCmd.label "Prostý text a HTML">
-<!ENTITY bothFormatCmd.accesskey "x">
 <!ENTITY priorityMenu.label "Priorita">
 <!ENTITY priorityMenu.accesskey "r">
 <!ENTITY priorityButton.title "Priorita">
@@ -222,7 +209,6 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
-<!ENTITY extraRecipients.tooltip "Další typy polí adres">
 <!ENTITY fromAddr2.label "Od">
 <!ENTITY fromAddr.accesskey "O">
 <!ENTITY replyAddr2.label "Adresa pro odpověď">

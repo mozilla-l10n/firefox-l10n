@@ -24,8 +24,6 @@
 <!ENTITY moveToNewWindow.accesskey "P">
 <!ENTITY newVirtualFolderCmd.label "Uložené hledání…">
 <!ENTITY newVirtualFolderCmd.accesskey "l">
-<!ENTITY newOtherAccountsCmd.label "Další účty…">
-<!ENTITY newOtherAccountsCmd.accesskey "D">
 <!ENTITY newCreateEmailAccountCmd.label "Získat nový poštovní účet…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "n">
 <!ENTITY newExistingEmailAccountCmd.label "Existující poštovní účet…">
@@ -48,8 +46,6 @@
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Uložit jako">
 <!ENTITY saveAsMenu.accesskey "j">
-<!ENTITY saveAsFileCmd.label "Soubor">
-<!ENTITY saveAsFileCmd.accesskey "S">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Šablona">
 <!ENTITY saveAsTemplateCmd.accesskey "b">

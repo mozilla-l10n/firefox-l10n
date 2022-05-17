@@ -22,20 +22,6 @@
 <!ENTITY mailBiffOnNewWindow.label        "Kontrolovat nové zprávy při spuštění klienta pošty a diskusních skupin">
 <!ENTITY mailBiffOnNewWindow.accesskey    "K">
 
-<!ENTITY defaultMailSettings.description  "Použít aplikaci &brandShortName; jako výchozí program pro:">
-<!ENTITY setDefaultMail.label             "Pošta">
-<!ENTITY setDefaultMail.accesskey         "o">
-<!ENTITY setDefaultNews.label             "Diskusní skupiny">
-<!ENTITY setDefaultNews.accesskey         "D">
-<!ENTITY setDefaultFeed.label             "Kanály">
-<!ENTITY setDefaultFeed.accesskey         "a">
-
-<!ENTITY useInternalSettings.description  "Použít &brandShortName; Mail &amp; Novinky při otevření odkazu pro:">
-<!ENTITY useInternalMail.label            "E-mail (mailto:)">
-<!ENTITY useInternalMail.accesskey        "a">
-<!ENTITY useInternalNews.label            "Novinky (news:, snews:, nntp:)">
-<!ENTITY useInternalNews.accesskey        "o">
-
 <!ENTITY messengerStartPage.caption       "Úvodní stránka">
 <!ENTITY enableStartPage.label            "Při spuštění pošty zobrazovat v oblasti zpráv úvodní stránku ">
 <!ENTITY enableStartPage.accesskey        "z">
