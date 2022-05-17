@@ -11,7 +11,6 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Beállítások
     .accesskey = B
-
 menu-addons-and-themes =
     .label = Kiegészítők és témák
     .accesskey = K
@@ -21,11 +20,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Hibakeresési mód…
     .accesskey = H
-
 menu-help-exit-troubleshoot-mode =
     .label = Hibakeresési mód kikapcsolása
     .accesskey = k
-
 menu-help-more-troubleshooting-info =
     .label = Több hibakeresési információ
     .accesskey = T
@@ -53,22 +50,30 @@ menu-view-repair-text-encoding =
 
 ## View / Layout
 
+menu-font-size-label =
+    .label = Betűméret
+    .accesskey = m
+menuitem-font-size-enlarge =
+    .label = Betűméret növelése
+    .accesskey = n
+menuitem-font-size-reduce =
+    .label = Betűméret csökkentése
+    .accesskey = c
+menuitem-font-size-reset =
+    .label = Betűméret visszaállítása
+    .accesskey = v
 mail-uidensity-label =
     .label = Sűrűség
     .accesskey = S
-
 mail-uidensity-compact =
     .label = Kompakt
     .accesskey = K
-
 mail-uidensity-normal =
     .label = Normál
     .accesskey = N
-
 mail-uidensity-touch =
     .label = Érintőképernyős
     .accesskey = r
-
 menu-spaces-toolbar-button =
     .label = Helyek eszköztár
     .accesskey = H
