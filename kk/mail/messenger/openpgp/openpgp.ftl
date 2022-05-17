@@ -70,6 +70,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Түрі
 openpgp-key-details-key-part-label =
     .label = Кілт бөлімі
+
 openpgp-key-details-algorithm-label =
     .label = Алгоритм
 openpgp-key-details-size-label =

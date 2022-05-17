@@ -162,9 +162,6 @@ restore-default-label =
     .accesskey = й
 
 default-search-engine = Негізгі іздеу жүйесі
-add-search-engine =
-    .label = Файлдан қосу
-    .accesskey = а
 remove-search-engine =
     .label = Өшіру
     .accesskey = ш
@@ -193,8 +190,6 @@ change-dock-icon = Қолданба таңбашасының баптаулар�
 app-icon-options =
     .label = Қолданба таңбашасының баптаулары…
     .accesskey = б
-
-notification-settings = Ескертулер және бастапқы дыбысты Жүйелік баптаулардағы Ескерту бөлігінен өзгертуге болады.
 
 animated-alert-label =
     .label = Ескертуді көрсету
@@ -392,14 +387,6 @@ quoted-text-color =
     .label = Түс:
     .accesskey = с
 
-type-column-label =
-    .label = Құрама түрі
-    .accesskey = т
-
-action-column-label =
-    .label = Әрекет
-    .accesskey = е
-
 save-to-label =
     .label = Файлдарды сақтау жері
     .accesskey = с
@@ -551,12 +538,6 @@ restore-html-label =
 
 default-format-label =
     .label = Үнсіз келісім бойынша Дене мәтіні орнына абзац пішімін қолдану
-    .accesskey = б
-
-format-description = Мәтіндік пішім
-
-send-options-label =
-    .label = Жіберу баптаулары…
     .accesskey = б
 
 autocomplete-description = Адресті енгізу кезінде, сәйкес жазбаларды қайда іздеу:
@@ -841,8 +822,6 @@ theme-label =
     .value = Тема:
     .accesskey = Т
 
-style-thunderbird =
-    .label = Thunderbird
 style-bubbles =
     .label = Көпіршіктер
 style-dark =
@@ -862,13 +841,8 @@ chat-variant-label =
 
 ## Preferences UI Search Results
 
-search-results-header = Іздеу нәтижелері
+## Settings UI Search Results
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Кешіріңіз! Баптауларда "<span data-l10n-name="query"></span>" үшін нәтижелер табылмады.
-       *[other] Кешіріңіз! Баптауларда "<span data-l10n-name="query"></span>" үшін нәтижелер табылмады.
-    }
+search-results-header = Іздеу нәтижелері
 
 search-results-help-link = Көмек керек пе? <a data-l10n-name="url">{ -brand-short-name } қолдауы</a> шолыңыз

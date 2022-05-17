@@ -6,7 +6,6 @@ privatebrowsingpage-open-private-window-label = Жекелік шолу режи
     .accesskey = е
 about-private-browsing-search-placeholder = Интернетте іздеу
 about-private-browsing-info-title = Сіз жекелік шолу режиміндегі терезедесіз
-about-private-browsing-info-myths = Жекелік шолу туралы кең тараған аңыздар
 about-private-browsing-search-btn =
     .title = Интернетте іздеу
 # Variables
@@ -20,16 +19,15 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = { $engine } көмегімен іздеу немесе адрес
 about-private-browsing-handoff-text-no-engine = Іздеу немесе адрес
 about-private-browsing-not-private = Сіз қазір жекелік шолу терезесінде емессіз.
-about-private-browsing-info-description = { -brand-short-name } қолданба немесе барлық жекелік шолу беттері және терезелері жабылғанда іздеулер және шолу тарихын өшіреді. Бұл сізді веб-сайттар немесе интернет қызметін ұсынушысына анонимды етпесе де, бұл компьютерді қолданатын басқа адамдардан сіздің интернеттегі белсенділікті жасырын сақтауға жол береді.
-about-private-browsing-need-more-privacy = Көбірек жекелікті керек пе?
-about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } қолданып көріңіз
 about-private-browsing-info-description-private-window = Жекелік терезе: { -brand-short-name } барлық жеке терезелерді жапқан кезде іздеу мен шолу тарихын тазартады. Бұл сізді анонимды етпейді.
 about-private-browsing-info-description-simplified = { -brand-short-name } барлық жеке терезелерді жапқан кезде іздеу мен шолу тарихын тазалайды, бірақ бұл сізді анонимды етпейді.
 about-private-browsing-learn-more-link = Көбірек білу
+
 about-private-browsing-hide-activity = Сіз шолатын барлық жерде белсенділігіңізді және орналасқан жеріңізді жасырыңыз
 about-private-browsing-get-privacy = Интернеттің кез келген жерінде жекелік қорғанысын алыңыз
 about-private-browsing-hide-activity-1 = { -mozilla-vpn-brand-name } көмегімен шолу белсенділігін және орналасуыңызды жасырыңыз. Бір шерті қауіпсіз байланысты орнатады, тіпті ашық Wi-Fi желісінде де.
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } көмегімен жекелікті сақтаңыз
+
 about-private-browsing-focus-promo-cta = { -focus-brand-name } жүктеп алу
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Қозғалыстағы жекелік шолу
 about-private-browsing-focus-promo-text = Біздің арнайы жеке шолу мобильді қолданбамыз тарихыңызды және cookie файлдарын әр уақытта тазартады.
@@ -40,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Телефоныңыздағы ж�
 about-private-browsing-focus-promo-text-b = Негізгі мобильді браузерге көрсеткіңіз келмейтін жеке іздеулер үшін { -focus-brand-name } пайдаланыңыз.
 about-private-browsing-focus-promo-header-c = Мобильді құрылғыдағы келесі деңгейдегі жекелік
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } жарнамалар мен трекерлерді бұғаттап, тарихыңызды әр уақытта тазартып отырады.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -52,5 +51,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Жабу
+
 about-private-browsing-promo-close-button =
     .title = Жабу

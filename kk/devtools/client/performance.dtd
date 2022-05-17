@@ -59,7 +59,6 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Профильдеуші өлшемді алып жатқан кезде функция стекте қанша рет болды.">
 <!ENTITY performanceUI.table.function                 "Функция">
 <!ENTITY performanceUI.table.function.tooltip         "Өлшенген функцияның аты және бастапқы кодтарының орналасуы.">
-<!ENTITY performanceUI.table.totalAlloc               "Жалпы өлшенген бөлінулер">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Бұл жерде және шақырылатын тәсілдерде өлшенген объект бөлінулерінің жалпы саны.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string

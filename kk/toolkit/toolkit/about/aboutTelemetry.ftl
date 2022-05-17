@@ -34,7 +34,6 @@ about-telemetry-events-section = Оқиғалар
 about-telemetry-simple-measurements-section = Қарапайым өлшемдер
 about-telemetry-slow-sql-section = Баяу SQL сұраныстары
 about-telemetry-addon-details-section = Қосымша ақпараты
-about-telemetry-captured-stacks-section = Түсірілген стектер
 about-telemetry-late-writes-section = Кеш жазулар
 about-telemetry-raw-payload-section = Шикі жүктеме
 about-telemetry-raw = Шикі JSON
@@ -120,10 +119,6 @@ about-telemetry-addon-provider = { $addonProvider } ұсынушысы
 about-telemetry-keys-header = Қасиеті
 about-telemetry-names-header = Аты
 about-telemetry-values-header = Мәні
-# Variables:
-#   $stackKey (String): the string key for this stack
-#   $capturedStacksCount (Integer):  the number of times this stack was captured
-about-telemetry-captured-stacks-title = { $stackKey } (ұстаулар саны: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Кеш жазу #{ $lateWriteCount }
