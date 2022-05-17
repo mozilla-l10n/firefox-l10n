@@ -6,8 +6,6 @@ import-from-firefox =
     .label = Firefox
     .accesskey = x
 
-source-name-firefox = Mozilla Firefox
-
 # Import Sources
 # Note: When adding an import source for profile reset, add the string name to
 # resetProfile.js if it should be listed in the reset dialog.

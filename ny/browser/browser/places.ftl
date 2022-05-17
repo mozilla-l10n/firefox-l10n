@@ -5,6 +5,8 @@
 places-file-close =
     .label = Tsekani
     .accesskey = T
+
 places-cmd-restore =
     .label = Bwezeretsani
     .accesskey = r
+

@@ -54,3 +54,7 @@ addon-install-from-file-filter-name = Ophatikizira
 
 ## Page headings
 
+## Detail notifications
+## Variables:
+##   $name (String): name of the add-on.
+

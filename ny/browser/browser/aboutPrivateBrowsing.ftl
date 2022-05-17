@@ -6,3 +6,5 @@ privatebrowsingpage-open-private-window-label = Tsegulani zenera la chinsinsi
     .accesskey = z
 about-private-browsing-not-private = Pakali pano simuli pa zenera la chinsinsi.
 
+## The following strings will be used for experiments in Fx99 and Fx100
+
