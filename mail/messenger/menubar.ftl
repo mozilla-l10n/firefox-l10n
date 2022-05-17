@@ -11,7 +11,6 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Ρυθμίσεις
     .accesskey = θ
-
 menu-addons-and-themes =
     .label = Πρόσθετα και θέματα
     .accesskey = ρ
@@ -21,11 +20,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Λειτουργία επίλυσης προβλημάτων…
     .accesskey = Λ
-
 menu-help-exit-troubleshoot-mode =
     .label = Απενεργοποίηση λειτουργίας επίλυσης προβλημάτων
     .accesskey = Α
-
 menu-help-more-troubleshooting-info =
     .label = Πληροφορίες επίλυσης προβλημάτων
     .accesskey = Π
@@ -53,22 +50,21 @@ menu-view-repair-text-encoding =
 
 ## View / Layout
 
+menuitem-font-size-reset =
+    .label = Επαναφορά μεγέθους γραμματοσειράς
+    .accesskey = π
 mail-uidensity-label =
     .label = Πυκνότητα
     .accesskey = Π
-
 mail-uidensity-compact =
     .label = Πολύ πυκνό
     .accesskey = ο
-
 mail-uidensity-normal =
     .label = Κανονικό
     .accesskey = Κ
-
 mail-uidensity-touch =
     .label = Αφή
     .accesskey = Α
-
 menu-spaces-toolbar-button =
     .label = Γραμμή χώρων
     .accesskey = χ
