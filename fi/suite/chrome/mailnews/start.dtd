@@ -21,8 +21,13 @@ Siinä on kehittynyt roskapostin tunnistus ja muita hyödyllisiä ominaisuuksia.
 "Tiivis integraatio muiden &brandShortName;-sovellusten kanssa">
 <!ENTITY dict.title "Sanakirjat">
 <!ENTITY dict_intro.label "Sanakirjojen avulla tarkistetaan viestien oikeinkirjoitus.">
-<!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
 <!ENTITY dict_info.label2
 'Muita kieliä voi asentaa <a id="dictURL" href="">sanakirjat</a>-ryhmästä 
 <a href="https://addons.thunderbird.net/seamonkey/"> SeaMonkey ja Thunderbird-lisäosat</a>-palvelussa.'>
 <!ENTITY info.title "Lisätietoja">
+<!--# LOCALIZATION NOTE (info_bugs.label2): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
+<!ENTITY info_bugs.label2
+'<a href="https://www.seamonkey-project.org/dev/get-involved">Me</a> otamme mielellämme vastaan 
+virheraportteja ja ominaisuuspyyntöjä, mutta lue 
+<a id="releaseNotesURL" href="">julkaisutiedot</a> ja etsi 
+<a href="https://bugzilla.mozilla.org/query.cgi">Bugzillasta</a> ensin.'>
