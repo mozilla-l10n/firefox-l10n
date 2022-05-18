@@ -175,6 +175,9 @@ openpgp-key-man-reload =
 openpgp-key-man-change-expiry =
     .label = 更改到期日
     .accesskey = E
+openpgp-key-man-refresh-online =
+    .label = 從網路重新整理
+    .accesskey = R
 openpgp-key-man-ignored-ids =
     .label = 電子郵件地址
 openpgp-key-man-del-key =
@@ -241,6 +244,12 @@ openpgp-key-details-key-type-label = 類型
 openpgp-key-details-key-part-label =
     .label = 金鑰部分
 openpgp-key-details-attr-ignored = 警告: 由於這把金鑰的部份屬性不安全且將被忽略，可能無法正常使用。
+openpgp-key-details-attr-upgrade-sec = 您應該將不安全的屬性升級。
+openpgp-key-details-attr-upgrade-pub = 您應該請這把金鑰的擁有者將不安全的屬性升級。
+openpgp-key-details-upgrade-unsafe =
+    .label = 升級不安全的屬性
+    .accesskey = P
+openpgp-key-details-upgrade-ok = 已成功升級金鑰。請與其他往來通訊的人員交換升級過的公鑰。
 openpgp-key-details-algorithm-label =
     .label = 演算法
 openpgp-key-details-size-label =
@@ -458,6 +467,9 @@ key-error-not-accepted-as-personal = 您並未確認 ID 為「{ $keySpec }」的
 need-online = 您選擇的功能無法於離線模式使用。請先上線然後再試一次。
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = 找不到任何符合搜尋條件的金鑰。
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found2 = 找不到任何符合搜尋條件的可用金鑰。
+no-update-found = 您已經擁有在網路上找到的金鑰。
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = 錯誤 - 金鑰抽取指令執行失敗
 # Strings used in keyRing.jsm
