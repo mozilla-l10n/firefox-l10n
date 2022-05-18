@@ -35,7 +35,7 @@ about-addressbook-books-context-delete =
 about-addressbook-books-context-remove =
     .label = Odstrániť
 about-addressbook-books-context-startup-default =
-    .label = Predvolený spúšťací priečinok
+    .label = Predvolený priečinok pri spustení
 about-addressbook-confirm-delete-book-title = Odstránenie adresára
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -130,6 +130,7 @@ about-addressbook-confirm-delete-contacts =
 
 ## Details
 
+about-addressbook-write-action-button = Napísať správu
 about-addressbook-event-action-button = Udalosť
 about-addressbook-search-action-button = Hľadať
 about-addressbook-begin-edit-contact-button = Upraviť
