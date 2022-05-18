@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Avbryt
 screenshots-overlay-instructions = Dra eller klikk på siden for å velge et område. Trykk på ESC for å avbryte.
+screenshots-overlay-download-button = Last ned
+screenshots-overlay-copy-button = Kopier
