@@ -13,5 +13,5 @@ appmenuitem-font-size-reduce =
 # Variables:
 # $size (String) - The current font size.
 appmenuitem-font-size-reset =
-    .label = { $size } px
+    .label = { $size }px
     .tooltiptext = Obnoviť veľkosť písma

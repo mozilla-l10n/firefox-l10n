@@ -52,7 +52,7 @@ menu-view-repair-text-encoding =
 
 menu-font-size-label =
     .label = Veľkosť písma
-    .accesskey = e
+    .accesskey = m
 menuitem-font-size-enlarge =
     .label = Zväčšiť veľkosť písma
     .accesskey = Z
