@@ -18,3 +18,5 @@ text-title = about:compat
 ## breakage. SmartBlock also contains special fixes for sites broken by
 ## Firefox's Total Cookie Protection feature.
 
+label-smartblock = SmartBlock ਫਿਕਸ
+text-no-smartblock = ਕੋਈ SmartBlock ਫਿਕਸ ਨਹੀਂ ਵਰਤੇ ਜਾ ਰਹੇ ਹਨ
