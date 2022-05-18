@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Cancellar
 screenshots-overlay-instructions = Trahe o clicca sur le pagina pro seliger un parte. Pulsa ESC pro cancellar.
+screenshots-overlay-download-button = Discargar
+screenshots-overlay-copy-button = Copiar
