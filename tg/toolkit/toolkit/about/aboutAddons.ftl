@@ -347,6 +347,17 @@ addon-detail-private-browsing-disallow = Иҷозат дода нашавад
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+addon-badge-recommended2 =
+    .title = { -brand-product-name } танҳо он васеъшавиҳоро тавсия медиҳад, ки ба стандартҳои амният ва самаранокии мо ҷавобгӯ мебошанд
+    .aria-label = { addon-badge-recommended2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Васеъшавиҳои расмие, ки аз тарафи «Mozilla» эҷод карда шудаанд. Ба стандартҳои амният ва самаранокӣ чавобгӯ мебошанд
+    .aria-label = { addon-badge-line3.title }
+addon-badge-verified2 =
+    .title = Ин васеъшавӣ нисбат ба мувофиқат ба стандартҳои амният ва самаранокии мо тасдиқ карда шудааст.
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
