@@ -7,6 +7,7 @@ open-addons-sidebar-button = Doplnky a témy
 account-action-add-newsgroup-account =
     .label = Pridať účet diskusnej skupiny…
     .accesskey = d
+server-change-restart-required = Na uplatnenie zmeny názvu servera alebo používateľského mena je potrebný reštart.
 edit-vcard-dialog-accept-button = Uložiť
     .accesskey = U
 edit-vcard-dialog-cancel-button = Zrušiť
