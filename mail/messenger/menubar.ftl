@@ -11,7 +11,6 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = 設定
     .accesskey = e
-
 menu-addons-and-themes =
     .label = 附加元件與佈景主題
     .accesskey = A
@@ -21,11 +20,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = 疑難排解模式…
     .accesskey = T
-
 menu-help-exit-troubleshoot-mode =
     .label = 關閉疑難排解模式
     .accesskey = O
-
 menu-help-more-troubleshooting-info =
     .label = 更多疑難排解資訊
     .accesskey = M
@@ -53,22 +50,30 @@ menu-view-repair-text-encoding =
 
 ## View / Layout
 
+menu-font-size-label =
+    .label = 字型大小
+    .accesskey = o
+menuitem-font-size-enlarge =
+    .label = 放大文字
+    .accesskey = I
+menuitem-font-size-reduce =
+    .label = 縮小文字
+    .accesskey = D
+menuitem-font-size-reset =
+    .label = 重設字型大小
+    .accesskey = R
 mail-uidensity-label =
     .label = 密度
     .accesskey = D
-
 mail-uidensity-compact =
     .label = 緊密
     .accesskey = C
-
 mail-uidensity-normal =
     .label = 標準
     .accesskey = N
-
 mail-uidensity-touch =
     .label = 觸控
     .accesskey = T
-
 menu-spaces-toolbar-button =
     .label = 按鈕空間
     .accesskey = S
