@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = ביטול
 screenshots-overlay-instructions = נא לגרור או ללחוץ על הדף כדי לבחור תחום או על ESC לביטול.
+screenshots-overlay-download-button = הורדה
+screenshots-overlay-copy-button = העתקה
