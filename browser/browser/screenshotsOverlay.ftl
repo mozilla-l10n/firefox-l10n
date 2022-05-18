@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Annuleren
 screenshots-overlay-instructions = Sleep of klik op de pagina om een gebied te selecteren. Druk op ESC om te annuleren.
+screenshots-overlay-download-button = Downloaden
+screenshots-overlay-copy-button = Kopiëren
