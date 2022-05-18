@@ -112,7 +112,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.label                            "Nový zoznam">
 <!ENTITY newlistButton.accesskey                        "z">
 
-<!ENTITY showAsDefault.label                            "Predvolený spúšťací priečinok">
+<!ENTITY showAsDefault.label                            "Predvolený priečinok pri spustení">
 <!ENTITY showAsDefault.accesskey                        "r">
 <!ENTITY editPropertiesButton.label                     "Upraviť">
 <!ENTITY propertiesContext.label                        "Vlastnosti">
@@ -133,7 +133,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey                          "T">
 <!ENTITY deleteButton2.label                            "Odstrániť">
 <!ENTITY deleteButton2.accesskey                        "d">
-
 <!ENTITY removeButton.label                             "Odstrániť">
 <!ENTITY removeButton.accesskey                         "O">
 
@@ -148,7 +147,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Odoslať správu">
 <!ENTITY newIM.tooltip                                  "Odoslať rýchlu správu alebo začať konverzáciu (Instant message - IM)">
 <!ENTITY deleteButton2.tooltip                          "Odstrániť označenú položku">
-
 <!ENTITY removeButton.tooltip                           "Odstráni zvolený adresár">
 
 <!-- Search Bar -->
