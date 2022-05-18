@@ -11,7 +11,6 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Ynstellingen
     .accesskey = e
-
 menu-addons-and-themes =
     .label = Add-ons en tema’s
     .accesskey = A
@@ -21,11 +20,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Probleemoplossingsmodus…
     .accesskey = P
-
 menu-help-exit-troubleshoot-mode =
     .label = Probleemoplossingsmodus útskeakelje
     .accesskey = k
-
 menu-help-more-troubleshooting-info =
     .label = Mear probleemoplossingsynformaasje
     .accesskey = M
@@ -53,22 +50,30 @@ menu-view-repair-text-encoding =
 
 ## View / Layout
 
+menu-font-size-label =
+    .label = Lettergrutte
+    .accesskey = u
+menuitem-font-size-enlarge =
+    .label = Lettergrutte fergrutsje
+    .accesskey = f
+menuitem-font-size-reduce =
+    .label = Lettergrutte ferlytse
+    .accesskey = l
+menuitem-font-size-reset =
+    .label = Lettergrutte opnij ynstelle
+    .accesskey = n
 mail-uidensity-label =
     .label = Tichtens
     .accesskey = T
-
 mail-uidensity-compact =
     .label = Kompakt
     .accesskey = K
-
 mail-uidensity-normal =
     .label = Normaal
     .accesskey = N
-
 mail-uidensity-touch =
     .label = Oanraking
     .accesskey = O
-
 menu-spaces-toolbar-button =
     .label = Taakbalke
     .accesskey = T
