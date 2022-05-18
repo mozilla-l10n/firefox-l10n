@@ -27,30 +27,30 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Reabrir abas fechadas
         }
     .accesskey = h
-
 toolbar-context-menu-manage-extension =
     .label = Gerenciar extensão
     .accesskey = e
 toolbar-context-menu-remove-extension =
     .label = Remover extensão
     .accesskey = v
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Denunciar extensão
     .accesskey = o
-
-# Can appear on the same context menu as menubarCmd ("Menu Bar") and
-# personalbarCmd ("Bookmarks Toolbar"), so they should have different
-# access keys.
+# Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
+# ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
+# have different access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Fixar no menu
     .accesskey = F
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Ocultar botão quando estiver vazio
     .accesskey = O
+toolbar-context-menu-always-open-downloads-panel =
+    .label = Mostrar painel ao iniciar um download
+    .accesskey = M
 toolbar-context-menu-remove-from-toolbar =
     .label = Remover da barra de ferramentas
     .accesskey = R
@@ -60,7 +60,6 @@ toolbar-context-menu-view-customize-toolbar =
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = Personalizar barra de ferramentas…
     .accesskey = P
-
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Sempre aparecer
     .accesskey = S
@@ -70,11 +69,9 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = Aparecer somente em novas abas
     .accesskey = b
-
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Mostrar outros favoritos
     .accesskey = M
-
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Barra de menu
     .accesskey = m
