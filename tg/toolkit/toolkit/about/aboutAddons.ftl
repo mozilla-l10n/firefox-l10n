@@ -348,15 +348,15 @@ addon-detail-private-browsing-disallow = Иҷозат дода нашавад
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } танҳо он васеъшавиҳоро тавсия медиҳад, ки ба стандартҳои амният ва самаранокии мо ҷавобгӯ мебошанд
+    .title = { -brand-product-name } танҳо он васеъшавиҳоро тавсия медиҳад, ки ба стандартҳои мо оид ба амният ва самаранокӣ ҷавобгӯ мебошанд
     .aria-label = { addon-badge-recommended2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Васеъшавиҳои расмие, ки аз тарафи «Mozilla» эҷод карда шудаанд. Ба стандартҳои амният ва самаранокӣ чавобгӯ мебошанд
+    .title = Васеъшавии расмие, ки аз тарафи «Mozilla» эҷод карда шудааст. Ба стандартҳои мо оид ба амният ва самаранокӣ ҷавобгӯ мебошад
     .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
-    .title = Ин васеъшавӣ нисбат ба мувофиқат ба стандартҳои амният ва самаранокии мо тасдиқ карда шудааст.
+    .title = Ин васеъшавӣ нисбат ба мувофиқат ба стандартҳои мо оида ба амният ва самаранокӣ тасдиқ карда шудааст
     .aria-label = { addon-badge-verified2.title }
 
 ##
@@ -364,6 +364,10 @@ addon-badge-verified2 =
 available-updates-heading = Навсозиҳои дастрас
 recent-updates-heading = Навсозиҳои охирин
 release-notes-loading = Бор шуда истодааст…
+release-notes-error = Мутаассифона, ҳангоми боркунии тавзеҳоти релиз хато ба миён омад.
+addon-permissions-empty = Ин васеъшавӣ ягон иҷозатро талаб намекунад
+addon-permissions-required = Иҷозатҳои лозимӣ барои фаъолияти асосӣ:
+addon-permissions-optional = Иҷозатҳои ихтиёрӣ барои фаъолияти иловагӣ:
 addon-permissions-learnmore = Маълумоти бештар дар бораи иҷозатҳо
 recommended-extensions-heading = Васеъшавиҳои тавсияшуда
 recommended-themes-heading = Мавзуъҳои тавсияшуда
