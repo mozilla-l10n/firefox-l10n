@@ -30,3 +30,5 @@ styleeditor-copy-url =
 styleeditor-go-to-line =
     .label = Hop til linje…
     .accesskey = H
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Et matchende stylesheet blev ikke fundet.
