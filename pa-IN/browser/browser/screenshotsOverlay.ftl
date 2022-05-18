@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = ਰੱਦ ਕਰੋ
 screenshots-overlay-instructions = ਖੇਤਰ ਚੁਣਨ ਲਈ ਸਫ਼ੇ ਨੂੰ ਖਿੱਚੋ ਜਾਂ ਕਲਿੱਕ ਕਰੋ। ਛੱਡਣ ਲਈ ESC ਦਬਾਓ।
+screenshots-overlay-download-button = ਡਾਊਨਲੋਡ
+screenshots-overlay-copy-button = ਕਾਪੀ
