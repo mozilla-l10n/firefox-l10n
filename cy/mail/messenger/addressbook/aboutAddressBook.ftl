@@ -22,7 +22,6 @@ about-addressbook-toolbar-import =
 ## Books
 
 all-address-books = Pob Llyfr Cyfeiriadau
-
 about-addressbook-books-context-properties =
     .label = Priodweddau
 about-addressbook-books-context-synchronize =
@@ -37,7 +36,6 @@ about-addressbook-books-context-remove =
     .label = Tynnu
 about-addressbook-books-context-startup-default =
     .label = Cyfarwyddiadur cychwyn rhagosodedig
-
 about-addressbook-confirm-delete-book-title = Dileu Llyfr Cyfeiriadau
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -55,17 +53,14 @@ about-addressbook-search =
     .placeholder = Chwilio { $name }
 about-addressbook-search-all =
     .placeholder = Chwilio'r holl lyfrau cyfeiriadau
-
 about-addressbook-sort-button =
     .title = Newid trefn y rhestr
-
 about-addressbook-name-format-display =
     .label = Dangos Enw
 about-addressbook-name-format-firstlast =
     .label = Cyntaf Olaf
 about-addressbook-name-format-lastfirst =
     .label = Olaf, Cyntaf
-
 about-addressbook-sort-name-ascending =
     .label = Trefnu yn ôl enw (A > Z)
 about-addressbook-sort-name-descending =
@@ -74,10 +69,8 @@ about-addressbook-sort-email-ascending =
     .label = Trefnu yn ôl cyfeiriad e-bost (A > Z)
 about-addressbook-sort-email-descending =
     .label = Trefnu yn ôl cyfeiriad e-bost (Z > A)
-
 about-addressbook-cards-context-write =
     .label = Ysgrifennu
-
 about-addressbook-confirm-delete-mixed-title = Dileu Cysylltiadau a Rhestrau
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -155,17 +148,33 @@ about-addressbook-confirm-delete-contacts =
 
 ## Details
 
+about-addressbook-write-action-button = Ysgrifennu
+about-addressbook-event-action-button = Digwyddiad
+about-addressbook-search-action-button = Chwilio
 about-addressbook-begin-edit-contact-button = Golygu
 about-addressbook-delete-edit-contact-button = Dileu
 about-addressbook-cancel-edit-contact-button = Diddymu
 about-addressbook-save-edit-contact-button = Cadw
-
+about-addressbook-add-contact-to = Ychwanegu at:
 about-addressbook-details-email-addresses-header = Cyfeiriadau E-bost
 about-addressbook-details-phone-numbers-header = Rhifau Ffôn
 about-addressbook-details-home-address-header = Cyfeiriad Cartref
 about-addressbook-details-work-address-header = Cyfeiriad Gwaith
+about-addressbook-details-addresses-header = Cyfeiriadau
+about-addressbook-details-notes-header = Nodiadau
 about-addressbook-details-other-info-header = Manylion Eraill
-
+about-addressbook-entry-type-work = Gwaith
+about-addressbook-entry-type-home = Cartref
+about-addressbook-entry-type-fax = Ffacs
+about-addressbook-entry-type-cell = Symudol
+about-addressbook-entry-type-pager = Swnyn
+about-addressbook-entry-name-birthday = Pen-blwydd
+about-addressbook-entry-name-anniversary = Dathliad
+about-addressbook-entry-name-title = Teitl
+about-addressbook-entry-name-department = Adran
+about-addressbook-entry-name-organization = Corff
+about-addressbook-entry-name-website = Gwefan
+about-addressbook-entry-name-time-zone = Cylch Amser
 about-addressbook-unsaved-changes-prompt-title = Newidiadau heb eu Cadw
 about-addressbook-unsaved-changes-prompt = Ydych chi am gadw'ch newidiadau cyn gadael y wedd golygu?
 
@@ -175,7 +184,6 @@ about-addressbook-photo-drop-target = Gollwng neu gludo llun yma, neu glicio i d
 about-addressbook-photo-drop-loading = Yn llwytho llun…
 about-addressbook-photo-drop-error = Wedi methu llwytho llun.
 about-addressbook-photo-filepicker-title = Dewiswch ffeil delwedd
-
 about-addressbook-photo-discard = Dileu'r llun presennol
 about-addressbook-photo-cancel = Diddymu
 about-addressbook-photo-save = Cadw
