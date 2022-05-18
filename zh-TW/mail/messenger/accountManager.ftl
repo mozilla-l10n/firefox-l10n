@@ -3,10 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 open-preferences-sidebar-button2 = { -brand-short-name } 選項
-
 open-addons-sidebar-button = 附加元件與佈景主題
-
 account-action-add-newsgroup-account =
     .label = 新增新聞群組帳號…
     .accesskey = N
-
+edit-vcard-dialog-accept-button = 儲存
+    .accesskey = S
+edit-vcard-dialog-cancel-button = 取消
+    .accesskey = C
