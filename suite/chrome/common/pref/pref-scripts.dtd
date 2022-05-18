@@ -4,6 +4,9 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
+<!--LOCALIZATION NOTE : FILE The 'Scripts' preferences dialog -->
+<!ENTITY pref.scripts2.title             "Komentosarjat">
+
 <!ENTITY navigator.label                 "Selaimessa">
 <!ENTITY navigator.accesskey             "S">
 
@@ -24,4 +27,3 @@
 <!ENTITY debugStrictJavascript.accesskey  "v">
 <!ENTITY debugConsoleJavascript.label     "Näytä chrome JavaScript -virheet ja varoitukset">
 <!ENTITY debugConsoleJavascript.accesskey "c">
-
