@@ -249,6 +249,7 @@ openpgp-key-details-uid-certified-col =
     .label = ID používateľa / certifikované
 openpgp-key-details-key-id-label = ID kľúča
 openpgp-key-details-user-id2-label = Údajný vlastník kľúča
+openpgp-key-details-user-id3-label = Deklarovaný vlastník kľúča
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Typ
