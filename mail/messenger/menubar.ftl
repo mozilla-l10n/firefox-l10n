@@ -11,7 +11,6 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Gosodiadau
     .accesskey = G
-
 menu-addons-and-themes =
     .label = Ychwanegion a Themâu
     .accesskey = Y
@@ -21,11 +20,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Y Modd Datrys Problemau…
     .accesskey = M
-
 menu-help-exit-troubleshoot-mode =
     .label = Diffodd y Modd Dartrys Problemau
     .accesskey = D
-
 menu-help-more-troubleshooting-info =
     .label = Rhagor o Wybodaeth Datrys Problemau
     .accesskey = R
@@ -53,22 +50,30 @@ menu-view-repair-text-encoding =
 
 ## View / Layout
 
+menu-font-size-label =
+    .label = Maint Ffont
+    .accesskey = M
+menuitem-font-size-enlarge =
+    .label = Cynyddu Maint Ffont
+    .accesskey = F
+menuitem-font-size-reduce =
+    .label = Lleihau Maint Ffont
+    .accesskey = L
+menuitem-font-size-reset =
+    .label = Ailosod Maint Ffont
+    .accesskey = A
 mail-uidensity-label =
     .label = Dwysedd
     .accesskey = D
-
 mail-uidensity-compact =
     .label = Cryno
     .accesskey = C
-
 mail-uidensity-normal =
     .label = Arferol
     .accesskey = A
-
 mail-uidensity-touch =
     .label = Cyffwrdd
     .accesskey = y
-
 menu-spaces-toolbar-button =
     .label = Bar Offer Mannau
     .accesskey = B
