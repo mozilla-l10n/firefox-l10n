@@ -9,13 +9,10 @@
 <!ENTITY calendar.newevent.button.tooltip         "ახალი ღონისძიების შექმნა" >
 <!ENTITY calendar.newtask.button.tooltip          "ახალი დავალების შექმნა" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "დავალებები" >
-
 <!ENTITY calendar.unifinder.showcompletedtodos.label "დასრულებული დავალების ჩვენება">
 
 <!ENTITY calendar.today.button.label          "დღეს">
 <!ENTITY calendar.tomorrow.button.label       "ხვალ">
-<!ENTITY calendar.upcoming.button.label       "მოახლოებული">
 
 <!ENTITY calendar.events.filter.all.label "ყველა ღონისძიება">
 <!ENTITY calendar.events.filter.today.label "დღევანდელი ღონისძიებები">
@@ -88,8 +85,6 @@
 
 <!ENTITY calendar.newevent.button.label         "ახალი ღონისძიება" >
 <!ENTITY calendar.newtask.button.label          "ჩასწორება" >
-<!ENTITY calendar.print.button.label            "ბეჭდვა" >
-<!ENTITY calendar.print.button.accesskey        "ჭ">
 
 <!ENTITY calendar.day.button.label              "დღე" >
 <!ENTITY calendar.week.button.label             "კვირა" >
@@ -188,7 +183,7 @@
 <!ENTITY calendar.context.attendance.occ.accepted.accesskey     "ი">
 <!ENTITY calendar.context.attendance.occ.accepted.label         "მიღებულია">
 <!ENTITY calendar.context.attendance.occ.tentative.accesskey    "მ">
-<!ENTITY calendar.context.attendance.occ.tentative.label        "სავარაუდოდ მიღებულია">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "თითქმის მიღებულია">
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "უ">
 <!ENTITY calendar.context.attendance.occ.declined.label         "უარყოფილია">
 <!ENTITY calendar.context.attendance.occ.delegated.accesskey    "წ">
@@ -202,8 +197,8 @@
 
 <!ENTITY calendar.context.attendance.all.accepted.accesskey     "ღ">
 <!ENTITY calendar.context.attendance.all.accepted.label         "მიღებულია">
-<!ENTITY calendar.context.attendance.all.tentative.accesskey    "ვ">
-<!ENTITY calendar.context.attendance.all.tentative.label        "სავარაუდოდ მიღებულია">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "ქ">
+<!ENTITY calendar.context.attendance.all.tentative.label        "თითქმის მიღებულია">
 <!ENTITY calendar.context.attendance.all.declined.accesskey     "უ">
 <!ENTITY calendar.context.attendance.all.declined.label         "უარყოფილია">
 <!ENTITY calendar.context.attendance.all.delegated.accesskey    "ო">
@@ -355,7 +350,6 @@
 <!ENTITY calendarproperties.color.label                    "ფერი:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
-<!ENTITY calendarproperties.wcap.label                     "Sun Java სისტემური კალენდრის სერვერი (WCAP)">
 <!ENTITY calendarproperties.format.label                   "ფორმატი:">
 <!ENTITY calendarproperties.location.label                 "მისამართი:">
 <!ENTITY calendarproperties.refreshInterval.label          "კალენდრის განახლება:">
@@ -364,7 +358,6 @@
 <!ENTITY calendarproperties.readonly.label                 "მხოლოდ წასაკითხი">
 <!ENTITY calendarproperties.firealarms.label               "შეხსენებათა ჩვენება">
 <!ENTITY calendarproperties.cache3.label                   "ბუფერიზაცია">
-<!ENTITY calendarproperties.enabled.label                  "ამ კალენდრის ჩართვა">
 <!ENTITY calendarproperties.enabled2.label                 "ამ კალენდრის ჩართვა">
 <!ENTITY calendarproperties.forceDisabled.label            "ამ კალენდრისთვის მომწოდებელი ვერ მოიძებნა. ხშირად, ეს თქვენ მიერ გარკვეული დამატებების წაშლის ან ამორთვის შემთხვევაში ხდება.">
 <!ENTITY calendarproperties.unsubscribe.label              "გამოწერა გაუქმება">
@@ -376,27 +369,8 @@
 <!ENTITY calendar.publish.publish.button      "გამოქვეყნება">
 <!ENTITY calendar.publish.close.button      "დახურვა">
 
-<!ENTITY calendar.publish.example.url.description   "რაღაც ამის მსგავსი http://www.myserver.com/webdav/test.ics">
-
 <!-- Select Calendar Dialog -->
 <!ENTITY calendar.select.dialog.title    "კალენდრის არჩევა">
-
-<!-- Calendar Printing -->
-<!ENTITY calendar.print.window.title "კალენდრის ბეჭდვა">
-<!ENTITY calendar.print.title.label "სათაური:">
-<!ENTITY calendar.print.layout.label "თარგი:">
-<!ENTITY calendar.print.range.label "ამოსაბეჭდი მასალა">
-<!ENTITY calendar.print.currentView2.label "მიმდინარე მოვლენები">
-<!ENTITY calendar.print.selectedEventsAndTasks.label "მითითებული ღონისძიებები/დავალებები">
-<!ENTITY calendar.print.tasks.label "დავალებები">
-<!ENTITY calendar.print.events.label "ღონისძიებები">
-<!ENTITY calendar.print.custom.label "მონაცემთა საკუთარი რანგი:">
-<!ENTITY calendar.print.from.label "დაწყ.:">
-<!ENTITY calendar.print.to.label "ვის:">
-<!ENTITY calendar.print.settingsGroup.label "ბეჭდვის პარამეტრები">
-<!ENTITY calendar.print.optionsGroup.label "პარამეტრები">
-<!ENTITY calendar.print.taskswithnoduedate.label "უვადო დავალებები">
-<!ENTITY calendar.print.completedtasks.label "დასრულებული დავალებები">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "დეტალები…">
