@@ -183,7 +183,7 @@
 <!ENTITY calendar.context.attendance.occ.accepted.accesskey     "ი">
 <!ENTITY calendar.context.attendance.occ.accepted.label         "მიღებულია">
 <!ENTITY calendar.context.attendance.occ.tentative.accesskey    "მ">
-<!ENTITY calendar.context.attendance.occ.tentative.label        "თითქმის მიღებულია">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "მიღებულია სავარაუდოდ">
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "უ">
 <!ENTITY calendar.context.attendance.occ.declined.label         "უარყოფილია">
 <!ENTITY calendar.context.attendance.occ.delegated.accesskey    "წ">
@@ -197,8 +197,8 @@
 
 <!ENTITY calendar.context.attendance.all.accepted.accesskey     "ღ">
 <!ENTITY calendar.context.attendance.all.accepted.label         "მიღებულია">
-<!ENTITY calendar.context.attendance.all.tentative.accesskey    "ქ">
-<!ENTITY calendar.context.attendance.all.tentative.label        "თითქმის მიღებულია">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "უ">
+<!ENTITY calendar.context.attendance.all.tentative.label        "მიღებულია სავარაუდოდ">
 <!ENTITY calendar.context.attendance.all.declined.accesskey     "უ">
 <!ENTITY calendar.context.attendance.all.declined.label         "უარყოფილია">
 <!ENTITY calendar.context.attendance.all.delegated.accesskey    "ო">
