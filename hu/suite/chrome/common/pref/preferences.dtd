@@ -44,6 +44,7 @@
 <!ENTITY sync.label "Szinkronizálás">
 
 <!ENTITY advance.label "Speciális">
+<!ENTITY scriptsAndWindows2.label "Parancsfájlok">
 <!ENTITY keynav.label "Navigálás a billentyűzettel">
 <!ENTITY findAsYouType.label "Gépelőkeresés">
 <!ENTITY cache.label "Gyorsítótár">
@@ -52,7 +53,6 @@
 <!ENTITY httpnetworking.label "HTTP-beállítások">
 <!ENTITY smart.label "Szoftvertelepítés">
 <!ENTITY mousewheel.label "Egérgörgő">
-
 <!ENTITY debugging.label "Hibakeresés">
 
 <!ENTITY focusSearch.key "f">
