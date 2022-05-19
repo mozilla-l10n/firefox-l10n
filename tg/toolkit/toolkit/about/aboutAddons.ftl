@@ -372,6 +372,9 @@ addon-permissions-learnmore = Маълумоти бештар дар бораи 
 recommended-extensions-heading = Васеъшавиҳои тавсияшуда
 recommended-themes-heading = Мавзуъҳои тавсияшуда
 addon-sitepermissions-required = Тавонмандиҳои зеринро ба <span data-l10n-name="hostname">{ $hostname }</span> медиҳад:
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Эҳсоси эҷодӣ доред? <a data-l10n-name="link">Мавзуи худро бо «Firefox Color» эҷод кунед.</a>
 
 ## Page headings
 
