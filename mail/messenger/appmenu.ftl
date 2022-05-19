@@ -5,7 +5,7 @@
 
 ## View / Layout
 
-appmenu-font-size-value = ITamaño de letra
+appmenu-font-size-value = Tamaño de letra
 appmenuitem-font-size-enlarge =
     .tooltiptext = Aumentar tamaño del texto
 appmenuitem-font-size-reduce =
