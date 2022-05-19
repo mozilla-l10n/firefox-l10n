@@ -19,8 +19,8 @@
 <!ENTITY fileNotFound.title "ფაილი ვერ მოიძებნა">
 <!ENTITY fileNotFound.longDesc "<ul><li>იქნებ, სახელი აქვს შეცვლილი, წაშლილი, ან გადაადგილებულია?</li><li>ხომ არაა მართლწერის, მთავრულის, ან აკრეფისას დაშვებული შეცდომები მისამართში?</li><li>გაქვთ, შესაბამისი უფლებები, მოთხოვნილ ფაილთან წვდომისთვის?</li></ul>">
 
-<!ENTITY fileAccessDenied.title "ფაილზე წვდომა უარყოფილია">
-<!ENTITY fileAccessDenied.longDesc "<ul><li>შესაძლოა წაშლილია, გადატანილია ან ფაილზე წვდომის უფლებები შეზღუდულია.</li></ul>">
+<!ENTITY fileAccessDenied.title "ფაილთან წვდომა უარყოფილია">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>შესაძლოა წაშლილია, გადატანილია ან ფაილთან წვდომის უფლებები შეზღუდულია.</li></ul>">
 
 <!ENTITY generic.title "მოთხოვნის დასრულება ვერ ხერხდება">
 <!ENTITY generic.longDesc "<p>დამატებითი მონაცემები, ამ ხარვეზის, ან შეცდომის შესახებ ამჟამად მიუწვდომელია.</p>">
@@ -96,7 +96,7 @@
 <!ENTITY inadequateSecurityError.title "კავშირი დაუცველია">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> იყენებს უსაფრთხოების ისეთ საშუალებას, რომელიც მოძველებული და დაუცველია. შემტევმა შესაძლოა მარტივად მიიღოს იმ მონაცემებზე წვდომა, რომლებიც დაცულად მიგაჩნიათ. საიტზე შესვლამდე, აუცილებელია მისმა ხელმძღვანელობამ ეს ხარვეზი აღმოფხვრას.</p><p>შეცდომის კოდი: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> იყენებს უსაფრთხოების ისეთ საშუალებას, რომელიც მოძველებული და დაუცველია. შემტევმა შესაძლოა მარტივად მიიღოს იმ მონაცემებთან წვდომა, რომლებიც დაცულად მიგაჩნიათ. საიტზე შესვლამდე, აუცილებელია მისმა ხელმძღვანელობამ ეს ხარვეზი აღმოფხვრას.</p><p>შეცდომის კოდი: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "გვერდი შეზღუდულია">
 
