@@ -252,6 +252,10 @@ openpgp-key-details-key-part-label =
 openpgp-key-details-attr-ignored = ყურადღება: ამ გასაღებმა, შეიძლება არ იმუშაოს გამართულად, ვინაიდან მისი მახასიათებლების ნაწილი საფრთხის შემცველია და უგულებელყოფილი იქნება.
 openpgp-key-details-attr-upgrade-sec = უნდა შეასწოროთ საფრთხის შემცველი მახასიათებლები.
 openpgp-key-details-attr-upgrade-pub = უნდა სთხოვოთ ამ გასაღების მფლობელს, შეასწოროს საფრთხის შემცველი მახასიათებლები.
+openpgp-key-details-upgrade-unsafe =
+    .label = შეასწორეთ სახიფათო თვისებები
+    .accesskey = ვ
+openpgp-key-details-upgrade-ok = გასაღები წარმატებით განახლდა. უნდა გაუზიაროთ განახლებული საჯარო გასაღები დანარჩენებს.
 openpgp-key-details-algorithm-label =
     .label = ალგორითმი
 openpgp-key-details-size-label =
@@ -293,6 +297,15 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name } არ ფლობს პირად OpenPGP-გასაღებს მისამართისთვის <b>{ $identity }</b>
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] { -brand-short-name }-მა მონახა { $count } პირადი OpenPGP-გასაღები ანგარიშისთვის <b>{ $identity }</b>
+       *[other] { -brand-short-name }-მა მონახა { $count } პირადი OpenPGP-გასაღები ანგარიშისთვის <b>{ $identity }</b>
+    }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = მიმდინარე გამართვით, გამოიყენება გასაღების ID <b>{ $key }</b>
 #   $key (String) - the currently selected OpenPGP key
@@ -494,6 +507,9 @@ key-error-not-accepted-as-personal = თქვენ არ დაგიდა�
 need-online = შერჩეული შესაძლებლობა არაა ხელმისაწვდომი კავშირგარეშედ. გთხოვთ, ხაზზე გახვიდეთ და სცადოთ ხელახლა.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = ვერ მოიძებნა შესაბამისი გასაღები, ძიების მითითებული მოთხოვნით.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found2 = ვერ მოიძებნა შესაბამისი გამოსადეგი გასაღები, ძიების მითითებული მოთხოვნით.
+no-update-found = თქვენ უკვე გაქვთ გასაღებები, რომლებიც მოინახა ქსელიდან.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = შეცდომა – გასაღების ამოღების ბრძანება ვერ შესრულდა
 # Strings used in keyRing.jsm
