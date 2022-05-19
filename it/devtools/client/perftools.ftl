@@ -21,6 +21,7 @@ perftools-heading-features-default = Funzioni di base (è consigliato mantenerle
 perftools-heading-features-disabled = Funzioni disattivate
 perftools-heading-features-experimental = Sperimentali
 perftools-heading-threads = Thread
+perftools-heading-threads-jvm = Thread JVM
 perftools-heading-local-build = Build locale
 
 ##
@@ -98,6 +99,20 @@ perftools-thread-dns-resolver =
 
 perftools-thread-task-controller =
   .title = Thread del pool TaskController
+
+
+perftools-thread-jvm-gecko =
+  .title = Thread principale di Gecko JVM
+perftools-thread-jvm-nimbus =
+  .title = Thread principali dell’SDK degli esperimenti Nimbus
+perftools-thread-jvm-default-dispatcher =
+  .title = Dispatcher predefinito per la libreria di coroutine Kotlin
+perftools-thread-jvm-glean =
+  .title = Thread principali dell’SDK della telemetria Glean
+perftools-thread-jvm-arch-disk-io =
+  .title = Dispatcher IO per la libreria di coroutine Kotlin
+perftools-thread-jvm-pool =
+  .title = Thread creati in un pool senza nome
 
 ##
 
