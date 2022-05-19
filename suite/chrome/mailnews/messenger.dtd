@@ -313,6 +313,17 @@
 <!ENTITY forwardAsInline.accesskey "B">
 <!ENTITY forwardAsAttachmentCmd.label "Mellékletként">
 <!ENTITY forwardAsAttachmentCmd.accesskey "M">
+<!ENTITY editAsNewMsgCmd.label "Szerkesztés új üzenetként">
+<!ENTITY editAsNewMsgCmd.accesskey "e">
+<!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Piszkozat szerkesztése">
+<!ENTITY editDraftMsgCmd.accesskey "P">
+<!ENTITY editTemplateMsgCmd.label "Sablon szerkesztése">
+<!ENTITY editTemplateMsgCmd.accesskey "S">
+<!ENTITY newMsgFromTemplateCmd.label "Új üzenet sablonból">
+<!-- LOCALIZATION NOTE (newMsgFromTemplateCmd.keycode):
+     Do not localize VK_RETURN. -->
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN">
 <!ENTITY createFilter.label "Áthelyezés">
 <!ENTITY createFilter.accesskey "h">
 <!ENTITY archiveMsgCmd.label "Archive">
@@ -465,6 +476,12 @@
 <!ENTITY contextOpenNewWindow.accesskey "a">
 <!ENTITY contextOpenNewTab.label "Üzenet megnyitása új lapon">
 <!ENTITY contextOpenNewTab.accesskey "t">
+<!ENTITY contextEditMsgAsNew.label "Szerkesztés új üzenetként">
+<!ENTITY contextEditMsgAsNew.accesskey "e">
+<!ENTITY contextEditDraftMsg.label "Piszkozat szerkesztése">
+<!ENTITY contextEditTemplate.label "Sablon szerkesztése">
+<!ENTITY contextEditTemplate.accesskey "S">
+<!ENTITY contextNewMsgFromTemplate.label "Új üzenet sablonból">
 <!ENTITY contextReplySender.label "Válasz csak a feladónak">
 <!ENTITY contextReplySender.accesskey "f">
 <!ENTITY contextReplyList.label "Válasz a listára">

@@ -4,6 +4,9 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
+<!--LOCALIZATION NOTE : FILE The 'Scripts' preferences dialog -->
+<!ENTITY pref.scripts2.title             "Parancsfájlok">
+
 <!ENTITY navigator.label                 "Böngésző">
 <!ENTITY navigator.accesskey             "B">
 
@@ -24,4 +27,3 @@
 <!ENTITY debugStrictJavascript.accesskey  "J">
 <!ENTITY debugConsoleJavascript.label     "A felület JavaScript hibáinak és figyelmeztetéseinek megjelenítése">
 <!ENTITY debugConsoleJavascript.accesskey "f">
-
