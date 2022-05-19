@@ -502,6 +502,7 @@ need-online = A função que você selecionou não está disponível no modo off
 no-key-found = Não foi possível encontrar nenhuma chave que corresponda aos critérios de pesquisa especificados.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found2 = Não foi possível encontrar nenhuma chave usável que corresponda aos critérios de pesquisa especificados.
+no-update-found = Você já tem as chaves que foram descobertas online.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Erro - Falha no comando de extração de chave
 # Strings used in keyRing.jsm
