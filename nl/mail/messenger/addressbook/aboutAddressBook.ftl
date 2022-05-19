@@ -145,6 +145,7 @@ about-addressbook-entry-type-fax = Fax
 about-addressbook-entry-type-cell = Mobiel
 about-addressbook-entry-type-pager = Pieper
 about-addressbook-entry-name-birthday = Verjaardag
+about-addressbook-entry-name-anniversary = Jubileum
 about-addressbook-entry-name-title = Titel
 about-addressbook-entry-name-department = Afdeling
 about-addressbook-entry-name-organization = Organisatie
