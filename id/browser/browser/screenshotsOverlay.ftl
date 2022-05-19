@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Batalkan
 screenshots-overlay-instructions = Seret atau klik pada laman untuk memilih area. Tekan ESC untuk membatalkan.
+screenshots-overlay-download-button = Unduh
+screenshots-overlay-copy-button = Salin
