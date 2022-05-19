@@ -181,6 +181,9 @@ openpgp-key-man-reload =
 openpgp-key-man-change-expiry =
     .label = Cambiar fecha de expiración
     .accesskey = e
+openpgp-key-man-refresh-online =
+    .label = Actualizar en línea
+    .accesskey = r
 openpgp-key-man-ignored-ids =
     .label = Direcciones de correo electrónico
 openpgp-key-man-del-key =
@@ -246,6 +249,12 @@ openpgp-key-details-key-type-label = Tipo
 openpgp-key-details-key-part-label =
     .label = Parte de la clave
 openpgp-key-details-attr-ignored = Advertencia: es posible que esta clave no funcione como se esperaba porque algunas de sus propiedades son inseguras y pueden ser ignoradas.
+openpgp-key-details-attr-upgrade-sec = Debería actualizar las propiedades inseguras.
+openpgp-key-details-attr-upgrade-pub = Debería pedirle al propietario de esta clave que actualice las propiedades inseguras.
+openpgp-key-details-upgrade-unsafe =
+    .label = Actualizar propiedades inseguras
+    .accesskey = p
+openpgp-key-details-upgrade-ok = La clave se actualizó con éxito. Debería compartir la clave pública actualizada con sus corresponsales.
 openpgp-key-details-algorithm-label =
     .label = Algoritmo
 openpgp-key-details-size-label =
@@ -497,6 +506,9 @@ key-error-not-accepted-as-personal = No confirmó que la clave con ID '{ $keySpe
 need-online = La función que seleccionó no está disponible en el modo fuera de línea. Conéctese y vuelva a intentarlo.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = No pudimos encontrar ninguna clave que coincida con los criterios de búsqueda especificados.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found2 = No pudimos encontrar ninguna clave usable que coincida con los criterios de búsqueda especificados.
+no-update-found = Ya tiene las claves que fueron descubiertas en línea.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Error: falló el comando de extracción de claves
 # Strings used in keyRing.jsm
