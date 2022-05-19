@@ -1,17 +1,13 @@
-
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = Para enviar mensagens criptografadas ou assinadas digitalmente, você precisa configurar uma tecnologia de criptografia, pode ser OpenPGP ou S/MIME.
 e2e-intro-description-more = Selecione sua chave pessoal para ativar o uso de OpenPGP, ou seu certificado pessoal para ativar o uso de S/MIME. Para uma chave pessoal ou certificado, você tem a chave secreta correspondente.
-
 e2e-signing-description = Uma assinatura digital permite que os destinatários verifiquem se a mensagem foi enviada por você e o conteúdo não foi alterado. Mensagens criptografadas por padrão são sempre assinadas.
-
 e2e-sign-message =
     .label = Assinar mensagens não criptografadas
     .accesskey = o
-
 e2e-disable-enc =
     .label = Desativar criptografia de novas mensagens
     .accesskey = D
@@ -19,7 +15,6 @@ e2e-enable-enc =
     .label = Ativar criptografia de novas mensagens
     .accesskey = t
 e2e-enable-description = Você pode desativar a criptografia de mensagens individuais.
-
 e2e-advanced-section = Configurações avançadas
 e2e-attach-key =
     .label = Anexar minha chave pública ao adicionar uma assinatura digital OpenPGP
@@ -30,7 +25,6 @@ e2e-encrypt-subject =
 e2e-encrypt-drafts =
     .label = Armazenar rascunhos de mensagens em formato criptografado
     .accesskey = r
-
 openpgp-key-user-id-label = Conta / ID do usuário
 openpgp-keygen-title-label =
     .title = Gerar chave OpenPGP
@@ -61,18 +55,13 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = Avançado…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">NOTA: A geração de chaves pode levar vários minutos para ser concluída. Não saia do aplicativo enquanto a geração de chaves estiver em andamento. Navegar ativamente ou realizar operações com uso intenso de disco durante a geração de chaves irá reabastecer o 'pool de aleatoriedade' e acelerar o processo. Você será alertado quando a geração de chaves for concluída.
-
 openpgp-key-created-label =
     .label = Criação
-
 openpgp-key-expiry-label =
     .label = Validade
-
 openpgp-key-id-label =
     .label = ID da chave
-
 openpgp-cannot-change-expiry = Esta é uma chave com uma estrutura complexa, não é suportado alterar sua data de validade.
-
 openpgp-key-man-title =
     .title = Gerenciador de chaves OpenPGP
 openpgp-key-man-generate =
@@ -83,7 +72,6 @@ openpgp-key-man-gen-revoke =
     .accesskey = v
 openpgp-key-man-ctx-gen-revoke-label =
     .label = Gerar e salvar certificado de revogação
-
 openpgp-key-man-file-menu =
     .label = Arquivo
     .accesskey = A
@@ -99,7 +87,6 @@ openpgp-key-man-generate-menu =
 openpgp-key-man-keyserver-menu =
     .label = Servidor de chaves
     .accesskey = r
-
 openpgp-key-man-import-public-from-file =
     .label = Importar chaves públicas de arquivo
     .accesskey = I
@@ -122,29 +109,23 @@ openpgp-key-man-send-keys =
 openpgp-key-man-backup-secret-keys =
     .label = Fazer backup de chaves secretas em arquivo
     .accesskey = b
-
 openpgp-key-man-discover-cmd =
     .label = Descobrir chaves online
     .accesskey = D
 openpgp-key-man-discover-prompt = Para descobrir chaves OpenPGP online, em servidores de chaves ou usando o protocolo WKD, digite um endereço de email ou um ID de chave.
 openpgp-key-man-discover-progress = Procurando…
-
 openpgp-key-copy-key =
     .label = Copiar chave pública
     .accesskey = C
-
 openpgp-key-export-key =
     .label = Exportar chave pública para arquivo
     .accesskey = E
-
 openpgp-key-backup-key =
     .label = Fazer backup de chave secreta em arquivo
     .accesskey = b
-
 openpgp-key-send-key =
     .label = Enviar chave pública por email
     .accesskey = m
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -152,7 +133,6 @@ openpgp-key-man-copy-key-ids =
            *[other] Copiar ID das chaves para área de transferência
         }
     .accesskey = h
-
 openpgp-key-man-copy-fprs =
     .label =
         { $count ->
@@ -160,7 +140,6 @@ openpgp-key-man-copy-fprs =
            *[other] Copiar impressões digitais para área de transferência
         }
     .accesskey = m
-
 openpgp-key-man-copy-to-clipboard =
     .label =
         { $count ->
@@ -168,14 +147,11 @@ openpgp-key-man-copy-to-clipboard =
            *[other] Copiar chaves públicas para área de transferência
         }
     .accesskey = b
-
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Exportar chaves para arquivo
-
 openpgp-key-man-ctx-copy =
     .label = Copiar
     .accesskey = C
-
 openpgp-key-man-ctx-copy-fprs =
     .label =
         { $count ->
@@ -183,7 +159,6 @@ openpgp-key-man-ctx-copy-fprs =
            *[other] Impressões digitais
         }
     .accesskey = m
-
 openpgp-key-man-ctx-copy-key-ids =
     .label =
         { $count ->
@@ -191,7 +166,6 @@ openpgp-key-man-ctx-copy-key-ids =
            *[other] ID das chaves
         }
     .accesskey = h
-
 openpgp-key-man-ctx-copy-public-keys =
     .label =
         { $count ->
@@ -199,7 +173,6 @@ openpgp-key-man-ctx-copy-public-keys =
            *[other] Chaves públicas
         }
     .accesskey = p
-
 openpgp-key-man-close =
     .label = Fechar
 openpgp-key-man-reload =
@@ -208,6 +181,9 @@ openpgp-key-man-reload =
 openpgp-key-man-change-expiry =
     .label = Alterar data de validade
     .accesskey = v
+openpgp-key-man-refresh-online =
+    .label = Atualizar online
+    .accesskey = t
 openpgp-key-man-ignored-ids =
     .label = Endereços de email
 openpgp-key-man-del-key =
@@ -249,20 +225,16 @@ openpgp-key-man-nothing-found-tooltip =
     .label = Nenhuma chave corresponde aos termos de pesquisa
 openpgp-key-man-please-wait-tooltip =
     .label = Aguarde enquanto as chaves estão sendo carregadas…
-
 openpgp-key-man-filter-label =
     .placeholder = Procurar chaves
-
 openpgp-key-man-select-all-key =
     .key = T
 openpgp-key-man-key-details-key =
     .key = I
-
 openpgp-ign-addr-intro = Você aceita usar esta chave nos seguintes endereços de email selecionados:
-
 openpgp-key-details-title =
     .title = Propriedades da chave
-
+openpgp-key-details-doc-title = Propriedades da chave
 openpgp-key-details-signatures-tab =
     .label = Certificações
 openpgp-key-details-structure-tab =
@@ -276,9 +248,7 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Tipo
 openpgp-key-details-key-part-label =
     .label = Parte da chave
-
 openpgp-key-details-attr-ignored = Aviso: Esta chave pode não funcionar como esperado, pois algumas de suas propriedades não são seguras e podem ser ignoradas.
-
 openpgp-key-details-algorithm-label =
     .label = Algoritmo
 openpgp-key-details-size-label =
@@ -315,7 +285,6 @@ openpgp-personal-no-label =
     .label = Não, não usar como minha chave pessoal.
 openpgp-personal-yes-label =
     .label = Sim, tratar esta chave como uma chave pessoal.
-
 openpgp-copy-cmd-label =
     .label = Copiar
 
@@ -323,7 +292,6 @@ openpgp-copy-cmd-label =
 
 #   $identity (String) - the email address of the currently selected identity
 openpgp-description-no-key = O { -brand-short-name } não tem uma chave OpenPGP pessoal de <b>{ $identity }</b>
-
 #   $count (Number) - the number of configured keys associated with the current identity
 #   $identity (String) - the email address of the currently selected identity
 openpgp-description-has-keys =
@@ -331,69 +299,47 @@ openpgp-description-has-keys =
         [one] O { -brand-short-name } encontrou { $count } chave OpenPGP pessoal associada a <b>{ $identity }</b>
        *[other] O { -brand-short-name } encontrou { $count } chaves OpenPGP pessoais associadas a <b>{ $identity }</b>
     }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Sua configuração atual usa a chave com ID <b>{ $key }</b>
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Sua configuração atual usa a chave <b>{ $key }</b>, que está vencida.
-
 openpgp-add-key-button =
     .label = Adicionar chave…
     .accesskey = A
-
 e2e-learn-more = Saiba mais
-
 openpgp-keygen-success = Chave OpenPGP criada com sucesso!
-
 openpgp-keygen-import-success = Chaves OpenPGP importadas com sucesso!
-
 openpgp-keygen-external-success = ID da chave GnuPG externa foi salva!
 
 ## OpenPGP Key selection area
 
 openpgp-radio-none =
     .label = Nenhuma
-
 openpgp-radio-none-desc = Não usar OpenPGP para esta identidade.
-
 openpgp-radio-key-not-usable = Esta chave não pode ser usada como chave pessoal, porque está faltando a chave secreta!
 openpgp-radio-key-not-accepted = Para usar esta chave, você precisa aprovar como sendo uma chave pessoal!
 openpgp-radio-key-not-found = Esta chave não foi encontrada! Se quiser usar, você precisa importar para o { -brand-short-name }.
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Expira em: { $date }
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Expirou em: { $date }
-
 openpgp-key-expires-within-6-months-icon =
     .title = A chave expira em menos de 6 meses
-
 openpgp-key-has-expired-icon =
     .title = Chave expirada
-
 openpgp-key-expand-section =
     .tooltiptext = Mais informações
-
 openpgp-key-revoke-title = Revogar chave
-
 openpgp-key-edit-title = Alterar chave OpenPGP
-
 openpgp-key-edit-date-title = Estender data de validade
-
 openpgp-manager-description = Use o gerenciador de chaves OpenPGP para ver e gerenciar chaves públicas de seus correspondentes e todas as outras chaves não listadas acima.
-
 openpgp-manager-button =
     .label = Gerenciador de chaves OpenPGP
     .accesskey = G
-
 openpgp-key-remove-external =
     .label = Remover ID de chave externa
     .accesskey = e
-
 key-external-label = Chave GnuPG externa
-
 # Strings in keyDetailsDlg.xhtml
 key-type-public = chave pública
 key-type-primary = chave primária
@@ -410,15 +356,12 @@ key-expired-simple = A chave expirou
 key-revoked-simple = A chave foi revogada
 key-do-you-accept = Você aceita esta chave para verificar assinaturas digitais e para criptografar mensagens?
 key-verification = Verifique a impressão digital da chave usando um canal de comunicação seguro, diferente de email, para ter certeza que realmente é a chave de { $addr }.
-
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Não foi possível enviar a mensagem, porque há um problema com sua chave pessoal. { $problem }
 cannot-encrypt-because-missing = Não foi possível enviar esta mensagem com criptografia de ponta a ponta, porque há problemas com as chaves dos seguintes destinatários: { $problem }
 window-locked = A janela de edição está bloqueada; envio cancelado
-
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Esta é uma parte criptografada da mensagem. Você precisa abrir em uma janela separada, clicando no anexo.
-
 # Strings in keyserver.jsm
 keyserver-error-aborted = Interrompido
 keyserver-error-unknown = Ocorreu um erro desconhecido
@@ -428,7 +371,6 @@ keyserver-error-unavailable = O servidor de chaves não está disponível.
 keyserver-error-security-error = O servidor de chaves não oferece suporte a acesso criptografado.
 keyserver-error-certificate-error = O certificado do servidor de chaves não é válido.
 keyserver-error-unsupported = O servidor de chaves não é suportado.
-
 # Strings in mimeWkdHandler.jsm
 wkd-message-body-req =
     Seu provedor de email processou sua solicitação de enviar sua chave pública para o OpenPGP Web Key Directory.
@@ -436,13 +378,11 @@ wkd-message-body-req =
 wkd-message-body-process =
     Este é um email relacionado ao processamento automático de envio de sua chave pública para o OpenPGP Web Key Directory.
     Você não precisa fazer nenhuma ação manual neste momento.
-
 # Strings in persistentCrypto.jsm
 converter-decrypt-body-failed =
     Não foi possível decifrar a mensagem com assunto
     { $subject }.
     Quer tentar novamente com outra senha, ou quer ignorar a mensagem?
-
 # Strings filters.jsm
 filter-folder-required = Você deve selecionar uma pasta destino.
 filter-decrypt-move-warn-experimental =
@@ -454,12 +394,10 @@ filter-key-not-found = Não foi possível encontrar uma chave de criptografia pa
 filter-warn-key-not-secret =
     Aviso - A ação do filtro "Criptografar com chave" substitui os destinatários.
     Se você não tiver a chave secreta de '{ $desc }', não poderá mais ler os emails.
-
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Descriptografar permanentemente (OpenPGP)
 filter-decrypt-copy-label = Criar cópia descriptografada (OpenPGP)
 filter-encrypt-label = Criptografar com chave (OpenPGP)
-
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Sucesso! Chaves importadas
@@ -468,7 +406,6 @@ import-info-created = Criação
 import-info-fpr = Impressão digital
 import-info-details = Ver detalhes e gerenciar aceitação de chaves
 import-info-no-keys = Nenhuma chave importada.
-
 # Strings in enigmailKeyManager.js
 import-from-clip = Quer importar algumas chaves da área de transferência?
 import-from-url = Baixar chave pública a partir desta URL:
@@ -512,10 +449,8 @@ dlg-button-delete = &Excluir
 
 openpgp-export-public-success = <b>Chave pública exportada com sucesso!</b>
 openpgp-export-public-fail = <b>Não foi possível exportar a chave pública selecionada!</b>
-
 openpgp-export-secret-success = <b>Chave secreta exportada com sucesso!</b>
 openpgp-export-secret-fail = <b>Não foi possível exportar a chave secreta selecionada!</b>
-
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = A chave { $userId } (ID da chave { $keyId }) foi revogada.
 key-ring-pub-key-expired = A chave { $userId } (ID da chave { $keyId }) está vencida.
@@ -526,67 +461,49 @@ key-ring-sign-sub-keys-revoked = Todas as subchaves de assinatura da chave { $us
 key-ring-sign-sub-keys-expired = Todas as subchaves de assinatura da chave { $userId } (ID da chave { $keyId }) estão vencidas.
 key-ring-enc-sub-keys-revoked = Todas as subchaves de criptografia da chave { $userId } (ID da chave { $keyId }) foram revogadas.
 key-ring-enc-sub-keys-expired = Todas as subchaves de criptografia da chave { $userId } (ID da chave { $keyId }) estão vencidas.
-
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Atributo do usuário (imagem JPEG)
-
 # Strings in key.jsm
 already-revoked = Esta chave já foi revogada.
-
 #   $identity (String) - the id and associated user identity of the key being revoked
 revoke-key-question =
     Você está prestes a revogar a chave '{ $identity }'.
     Não poderá mais assinar com esta chave e, uma vez distribuída, outras pessoas não poderão mais criptografar com esta chave. Você ainda pode usar a chave para descriptografar mensagens antigas.
     Quer prosseguir?
-
 #   $keyId (String) - the id of the key being revoked
 revoke-key-not-present =
     Você não tem nenhuma chave (0x{ $keyId }) que corresponda a este certificado de revogação!
     Se você perdeu sua chave, deve importá-la (por exemplo, de um servidor de chaves) antes de importar o certificado de revogação!
-
 #   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = A chave 0x{ $keyId } já foi revogada.
-
 key-man-button-revoke-key = &Revogar chave
-
 openpgp-key-revoke-success = Chave revogada com sucesso.
-
 after-revoke-info =
     A chave foi revogada.
     Compartilhe esta chave pública novamente, enviando por email ou enviando para servidores de chaves, para que outras pessoas saibam que você revogou sua chave.
     Assim que os softwares usados por outras pessoas tomarem conhecimento da revogação, deixarão de usar sua chave antiga.
     Se você estiver usando uma nova chave para o mesmo endereço de email e anexar a nova chave pública aos emails que enviar, as informações sobre sua chave antiga revogada serão incluídas automaticamente.
-
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importar
-
 delete-key-title = Excluir chave OpenPGP
-
 delete-external-key-title = Remover a chave GnuPG externa
-
 delete-external-key-description = Quer remover este ID de chave GnuPG externa?
-
 key-in-use-title = Chave OpenPGP em uso no momento
-
 delete-key-in-use-description = Não foi possível prosseguir! A chave que você selecionou para ser excluída está sendo usada no momento por esta identidade. Selecione outra chave ou não selecione nenhuma e tente novamente.
-
 revoke-key-in-use-description = Não foi possível prosseguir! A chave que você selecionou para ser revogada está sendo usada no momento por esta identidade. Selecione outra chave ou não selecione nenhuma e tente novamente.
-
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = O endereço de email '{ $keySpec }' não corresponde a nenhuma chave de seu chaveiro.
 key-error-key-id-not-found = O ID de chave '{ $keySpec }' configurado não foi encontrado em seu chaveiro.
 key-error-not-accepted-as-personal = Você não confirmou se a chave com ID '{ $keySpec }' é sua chave pessoal.
-
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = A função que você selecionou não está disponível no modo offline. Fique online e tente novamente.
-
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = Não foi possível encontrar nenhuma chave que corresponda aos critérios de pesquisa especificados.
-
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found2 = Não foi possível encontrar nenhuma chave usável que corresponda aos critérios de pesquisa especificados.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Erro - Falha no comando de extração de chave
-
 # Strings used in keyRing.jsm
 fail-cancel = Erro - Recebimento de chave cancelado pelo usuário
 not-first-block = Erro - Primeiro bloco OpenPGP não é bloco de chave pública
@@ -595,7 +512,6 @@ fail-key-import = Erro - Falha na importação de chave
 file-write-failed = Falha ao gravar no arquivo { $output }
 no-pgp-block = Erro - Não foi encontrado nenhum bloco blindado válido de dados OpenPGP
 confirm-permissive-import = Falha na importação. A chave que você está tentando importar pode estar corrompida ou usar atributos desconhecidos. Quer tentar importar as partes que estão corretas? Isso pode resultar na importação de chaves incompletas e inutilizáveis.
-
 # Strings used in trust.jsm
 key-valid-unknown = desconhecida
 key-valid-invalid = inválida
@@ -607,7 +523,6 @@ key-trust-marginal = marginal
 key-trust-full = confiável
 key-trust-ultimate = definitivo
 key-trust-group = (grupo)
-
 # Strings used in commonWorkflows.js
 import-key-file = Importar arquivo de chave OpenPGP
 import-rev-file = Importar arquivo de revogação OpenPGP
@@ -615,7 +530,6 @@ gnupg-file = Arquivos GnuPG
 import-keys-failed = Falha na importação das chaves
 passphrase-prompt = Digite a senha que desbloqueia a seguinte chave: { $key }
 file-to-big-to-import = Este arquivo é grande demais. Não importe um conjunto grande de chaves de uma só vez.
-
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Criar e salvar certificado de revogação
 revoke-cert-ok = O certificado de revogação foi criado com sucesso. Você pode usar para invalidar sua chave pública, por exemplo no caso de perder sua chave secreta.
@@ -634,7 +548,6 @@ key-man-button-generate-key-continue = &Continuar geração de chaves
 
 failed-decrypt = Erro - Falha na descriptografia
 fix-broken-exchange-msg-failed = Não foi possível reparar a mensagem.
-
 attachment-no-match-from-signature = Não foi possível combinar o arquivo de assinatura '{ $attachment }' com um anexo
 attachment-no-match-to-signature = Não foi possível combinar o anexo '{ $attachment }' com um arquivo de assinatura
 signature-verified-ok = A assinatura do anexo { $attachment } foi verificada com sucesso
@@ -644,7 +557,6 @@ decrypt-ok-no-sig =
     A descriptografia foi bem-sucedida, mas a assinatura não pôde ser verificada corretamente
 msg-ovl-button-cont-anyway = &Continuar assim mesmo
 enig-content-note = *Anexos desta mensagem não foram assinados nem criptografados*
-
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Enviar mensagem
 msg-compose-details-button-label = Detalhes…
@@ -678,7 +590,6 @@ save-attachment-header = Salvar anexo descriptografado
 possibly-pgp-mime = Mensagem possivelmente criptografada ou assinada por PGP/MIME. Use a função 'Descriptografar/Verificar' para verificar
 cannot-send-sig-because-no-own-key = Não é possível assinar digitalmente esta mensagem, porque você ainda não configurou a criptografia de ponta a ponta de <{ $key }>
 cannot-send-enc-because-no-own-key = Não é possível enviar esta mensagem criptografada, porque você ainda não configurou a criptografia de ponta a ponta de <{ $key }>
-
 # Strings used in decryption.jsm
 do-import-multiple =
     Importar as seguintes chaves?
@@ -693,18 +604,14 @@ attachment-pgp-key =
     O anexo '{ $name }' que você está abrindo parece ser um arquivo de chave OpenPGP.
     Clique em 'Importar' para importar as chaves contidas, ou em 'Ver' para ver o conteúdo do arquivo em uma janela do navegador
 dlg-button-view = E&xibir
-
 # Strings used in enigmailMsgHdrViewOverlay.js
 decrypted-msg-with-format-error = Mensagem descriptografada (restaurado o formato de email PGP corrompido, provavelmente causado por um servidor Exchange antigo, de modo que o resultado pode não ser perfeito para leitura)
-
 # Strings used in encryption.jsm
 not-required = Erro - nenhuma criptografia necessária
-
 # Strings used in windows.jsm
 no-photo-available = Nenhuma foto disponível
 error-photo-path-not-readable = O caminho da foto '{ $photo }' não é legível
 debug-log-title = Log de debug OpenPGP
-
 # Strings used in dialog.jsm
 repeat-prefix = Este alerta se repete { $count }
 repeat-suffix-singular = vez mais.
@@ -719,11 +626,9 @@ enig-prompt = Pergunta OpenPGP
 enig-confirm = Confirmação OpenPGP
 enig-alert = Alerta OpenPGP
 enig-info = Informação OpenPGP
-
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Tentar novamente
 dlg-button-skip = &Ignorar
-
 # Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = Alerta OpenPGP
