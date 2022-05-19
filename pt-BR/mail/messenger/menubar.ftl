@@ -11,7 +11,6 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Configurações
     .accesskey = C
-
 menu-addons-and-themes =
     .label = Extensões e temas
     .accesskey = E
@@ -21,11 +20,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Modo de solução de problemas…
     .accesskey = s
-
 menu-help-exit-troubleshoot-mode =
     .label = Desativar modo de solução de problemas
     .accesskey = D
-
 menu-help-more-troubleshooting-info =
     .label = Mais informações para resolver problemas
     .accesskey = M
@@ -53,22 +50,30 @@ menu-view-repair-text-encoding =
 
 ## View / Layout
 
+menu-font-size-label =
+    .label = Tamanho da fonte
+    .accesskey = T
+menuitem-font-size-enlarge =
+    .label = Aumentar tamanho da fonte
+    .accesskey = A
+menuitem-font-size-reduce =
+    .label = Diminuir tamanho da fonte
+    .accesskey = D
+menuitem-font-size-reset =
+    .label = Redefinir tamanho da fonte
+    .accesskey = R
 mail-uidensity-label =
     .label = Densidade
     .accesskey = D
-
 mail-uidensity-compact =
     .label = Compacto
     .accesskey = C
-
 mail-uidensity-normal =
     .label = Normal
     .accesskey = N
-
 mail-uidensity-touch =
     .label = Toque
     .accesskey = T
-
 menu-spaces-toolbar-button =
     .label = Barra de ferramentas de espaços
     .accesskey = s

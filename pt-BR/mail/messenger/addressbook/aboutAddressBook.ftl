@@ -22,7 +22,6 @@ about-addressbook-toolbar-import =
 ## Books
 
 all-address-books = Todos os catálogos de endereços
-
 about-addressbook-books-context-properties =
     .label = Propriedades
 about-addressbook-books-context-synchronize =
@@ -37,7 +36,6 @@ about-addressbook-books-context-remove =
     .label = Remover
 about-addressbook-books-context-startup-default =
     .label = Diretório de início padrão
-
 about-addressbook-confirm-delete-book-title = Excluir catálogo de endereços
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -55,17 +53,14 @@ about-addressbook-search =
     .placeholder = Pesquisar { $name }
 about-addressbook-search-all =
     .placeholder = Pesquisar em todos os catálogos de endereços
-
 about-addressbook-sort-button =
     .title = Alterar a ordem da lista
-
 about-addressbook-name-format-display =
     .label = Nome de exibição
 about-addressbook-name-format-firstlast =
     .label = Primeiro Último
 about-addressbook-name-format-lastfirst =
     .label = Último, Primeiro
-
 about-addressbook-sort-name-ascending =
     .label = Ordenar por nome (A > Z)
 about-addressbook-sort-name-descending =
@@ -74,10 +69,8 @@ about-addressbook-sort-email-ascending =
     .label = Ordenar por endereço de email (A > Z)
 about-addressbook-sort-email-descending =
     .label = Ordenar por endereço de email (Z > A)
-
 about-addressbook-cards-context-write =
     .label = Escrever
-
 about-addressbook-confirm-delete-mixed-title = Excluir contatos e listas
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -131,17 +124,33 @@ about-addressbook-confirm-delete-contacts =
 
 ## Details
 
+about-addressbook-write-action-button = Escrever
+about-addressbook-event-action-button = Evento
+about-addressbook-search-action-button = Pesquisar
 about-addressbook-begin-edit-contact-button = Editar
 about-addressbook-delete-edit-contact-button = Excluir
 about-addressbook-cancel-edit-contact-button = Cancelar
 about-addressbook-save-edit-contact-button = Salvar
-
+about-addressbook-add-contact-to = Adicionar a:
 about-addressbook-details-email-addresses-header = Endereços de email
 about-addressbook-details-phone-numbers-header = Números de telefone
 about-addressbook-details-home-address-header = Endereço residencial
 about-addressbook-details-work-address-header = Endereço comercial
+about-addressbook-details-addresses-header = Endereços
+about-addressbook-details-notes-header = Notas
 about-addressbook-details-other-info-header = Outras informações
-
+about-addressbook-entry-type-work = Trabalho
+about-addressbook-entry-type-home = Casa
+about-addressbook-entry-type-fax = Fax
+about-addressbook-entry-type-cell = Celular
+about-addressbook-entry-type-pager = Pager
+about-addressbook-entry-name-birthday = Data de nascimento
+about-addressbook-entry-name-anniversary = Aniversário
+about-addressbook-entry-name-title = Título
+about-addressbook-entry-name-department = Departamento
+about-addressbook-entry-name-organization = Organização
+about-addressbook-entry-name-website = Site
+about-addressbook-entry-name-time-zone = Fuso horário
 about-addressbook-unsaved-changes-prompt-title = Alterações não salvas
 about-addressbook-unsaved-changes-prompt = Quer salvar suas alterações antes de sair do modo de edição?
 
@@ -151,7 +160,6 @@ about-addressbook-photo-drop-target = Arraste ou cole uma foto aqui, ou clique p
 about-addressbook-photo-drop-loading = Carregando foto…
 about-addressbook-photo-drop-error = Falha ao carregar foto.
 about-addressbook-photo-filepicker-title = Selecionar arquivo de imagem
-
 about-addressbook-photo-discard = Descartar foto existente
 about-addressbook-photo-cancel = Cancelar
 about-addressbook-photo-save = Salvar
