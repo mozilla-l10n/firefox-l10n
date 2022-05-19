@@ -64,10 +64,10 @@ certificate-viewer-timestamp = დროის ნიშნული
 certificate-viewer-value = მნიშვნელობა
 certificate-viewer-version = ვერსია
 certificate-viewer-business-category = ბიზნესის კატეგორია
-certificate-viewer-subject-name = სუბიექტის დასახელება
+certificate-viewer-subject-name = წარმდგენის დასახელება
 certificate-viewer-issuer-name = გამომცემის დასახელება
 certificate-viewer-validity = ძალამოსილობა
-certificate-viewer-subject-alt-names = სუბიექტის სხვა სახელები
+certificate-viewer-subject-alt-names = წარმდგენის სხვა სახელები
 certificate-viewer-public-key-info = საჯარო გასაღების მონაცემები
 certificate-viewer-miscellaneous = სხვადასხვა
 certificate-viewer-fingerprints = ანაბეჭდები
@@ -75,13 +75,12 @@ certificate-viewer-basic-constraints = ძირითადი შეზღუ�
 certificate-viewer-key-usages = გასაღების გამოყენება
 certificate-viewer-extended-key-usages = გაფართოებული გასაღების გამოყენება
 certificate-viewer-ocsp-stapling = OCSP-მიმაგრება
-certificate-viewer-subject-key-id = სუბიექტის გასაღების ID
+certificate-viewer-subject-key-id = წარმდგენის გასაღების ID
 certificate-viewer-authority-key-id = უფლებამოსილი მხარის გასაღების ID
 certificate-viewer-authority-info-aia = უფლებამოსილი მხარის მონაცემები (AIA)
 certificate-viewer-certificate-policies = სერტიფიკატის პირობები
 certificate-viewer-embedded-scts = ჩაშენებული SCT- ები
 certificate-viewer-crl-endpoints = CRL-ს მომწოდებლები
-
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = ჩამოტვირთვა
@@ -101,7 +100,6 @@ certificate-viewer-download-pem = PEM (სერტიფიკატი)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (ჯაჭვი)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = ეს გაფართოება მიიჩნევა გადამწყვეტად, რაც ნიშნავს, რომ კლიენტებმა უნდა უარყონ სერტიფიკატი, თუ მათთვის გაუგებარია.
