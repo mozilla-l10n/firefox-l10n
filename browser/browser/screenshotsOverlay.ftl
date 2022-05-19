@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = გაუქმება
 screenshots-overlay-instructions = გადაადგილეთ ან დააწკაპეთ გვერდზე სივრცის მოსანიშნად. გასაუქმებლად გამოიყენეთ ESC.
+screenshots-overlay-download-button = ჩამოტვირთვა
+screenshots-overlay-copy-button = ასლი
