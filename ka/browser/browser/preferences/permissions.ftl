@@ -5,77 +5,59 @@
 permissions-window =
     .title = გამონაკლისები
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = საიტის მისამართი
     .accesskey = მ
-
 permissions-block =
     .label = აკრძალვა
     .accesskey = კ
-
 permissions-session =
     .label = სეანსზე დაშვება
     .accesskey = ს
-
 permissions-allow =
     .label = დაშვება
     .accesskey = დ
-
 permissions-button-off =
     .label = გამორთვა
     .accesskey = ო
-
 permissions-button-off-temporarily =
     .label = გამორთვა დროებით
     .accesskey = დ
-
 permissions-site-name =
     .label = საიტი
-
 permissions-status =
     .label = მდგომარეობა
-
 permissions-remove =
     .label = საიტის მოცილება
     .accesskey = მ
-
 permissions-remove-all =
     .label = ყველა საიტის მოცილება
     .accesskey = ყ
-
 permission-dialog =
     .buttonlabelaccept = ცვლილებების შენახვა
     .buttonaccesskeyaccept = შ
-
 permissions-autoplay-menu = ნაგულისხმევი ყველა საიტისთვის:
-
 permissions-searchbox =
     .placeholder = საიტის ძიება
-
 permissions-capabilities-autoplay-allow =
     .label = ხმისა და ვიდეოს დაშვება
 permissions-capabilities-autoplay-block =
     .label = ხმის შეზღუდვა
 permissions-capabilities-autoplay-blockall =
     .label = ხმისა და ვიდეოს შეზღუდვა
-
 permissions-capabilities-allow =
     .label = ნებადართული
 permissions-capabilities-block =
     .label = შეზღუდული
 permissions-capabilities-prompt =
     .label = შეკითხვა ყოველ ჯერზე
-
 permissions-capabilities-listitem-allow =
     .value = ნებადართული
 permissions-capabilities-listitem-block =
     .value = შეზღუდული
 permissions-capabilities-listitem-allow-session =
     .value = ნებადართული ამ სეანსზე
-
 permissions-capabilities-listitem-off =
     .value = გამორთ.
 permissions-capabilities-listitem-off-temporarily =
@@ -148,7 +130,7 @@ permissions-site-notification-disable-desc = შედეგად, ყველ
 ## Site Permissions - Location
 
 permissions-site-location-window =
-    .title = პარამეტრები – მდებარეობაზე წვდომის ნებართვები
+    .title = პარამეტრები – მდებარეობასთან წვდომის ნებართვები
     .style = { permissions-window.style }
 permissions-site-location-desc = მოცემული ვებსაიტები ითხოვს თქვენი მდებარეობის მონაცემებთან წვდომის ნებართვას. შეგიძლიათ მიუთითოთ, ნებადართული საიტები. ამასთან, შეგიძლიათ საერთოდ შეზღუდოთ, მდებარეობის მონაცემებთან წვდომის ახალი მოთხოვნები.
 permissions-site-location-disable-label =
