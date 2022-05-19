@@ -69,7 +69,7 @@ deniedPortAccess-title = ეს მისამართი შეზღუდ�
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = ჰმ. გვერდი ვერ მოიძებნა.
 fileNotFound-title = ფაილი ვერ მოიძებნა
-fileAccessDenied-title = ფაილზე წვდომა უარყოფილია.
+fileAccessDenied-title = ფაილთან წვდომა უარყოფილია.
 generic-title = მოთხოვნის დასრულება ვერ ხერხდება
 captivePortal-title = ქსელში შესვლა
 # "Hmm" is a sound made when considering or puzzling over something.

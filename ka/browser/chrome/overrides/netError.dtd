@@ -182,7 +182,7 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> იყენებს უსაფრთხოების ისეთ საშუალებას, რომელიც მოძველებული და დაუცველია. შემტევმა შესაძლოა მარტივად მიიღოს იმ მონაცემებზე წვდომა, რომლებიც დაცულად მიგაჩნიათ. საიტზე შესვლამდე, აუცილებელია მისმა ხელმძღვანელობამ ეს ხარვეზი აღმოფხვრას.</p><p>შეცდომის კოდი: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> იყენებს უსაფრთხოების ისეთ საშუალებას, რომელიც მოძველებული და დაუცველია. შემტევმა შესაძლოა მარტივად მიიღოს იმ მონაცემებთან წვდომა, რომლებიც დაცულად მიგაჩნიათ. საიტზე შესვლამდე, აუცილებელია მისმა ხელმძღვანელობამ ეს ხარვეზი აღმოფხვრას.</p><p>შეცდომის კოდი: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "გვერდი შეზღუდულია">
 
