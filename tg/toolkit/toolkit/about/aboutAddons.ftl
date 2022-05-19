@@ -371,6 +371,7 @@ addon-permissions-optional = Иҷозатҳои ихтиёрӣ барои фаъ
 addon-permissions-learnmore = Маълумоти бештар дар бораи иҷозатҳо
 recommended-extensions-heading = Васеъшавиҳои тавсияшуда
 recommended-themes-heading = Мавзуъҳои тавсияшуда
+addon-sitepermissions-required = Тавонмандиҳои зеринро ба <span data-l10n-name="hostname">{ $hostname }</span> медиҳад:
 
 ## Page headings
 

@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Бекор кардан
 screenshots-overlay-instructions = Барои интихоб кардани минтақа, саҳифаро бо курсори муш кашед ё зер кунед. Барои бекор кардани амал, тугмаи «ESC»-ро пахш кунед.
+screenshots-overlay-download-button = Боргирӣ кардан
+screenshots-overlay-copy-button = Нусха бардоштан
