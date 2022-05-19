@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Չեղարկել
 screenshots-overlay-instructions = Ձգել կամ տեղաշարժել էկրանի վրայ եկրանահանման տարածքի ընտրութեան համար։ Սեղմէք ESC չեղարկելու համար։
+screenshots-overlay-download-button = Ներբեռնել
+screenshots-overlay-copy-button = Պատճէնել
