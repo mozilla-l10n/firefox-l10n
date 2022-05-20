@@ -58,6 +58,11 @@ ctrl-shift-shortcut-key =
         [macos] ⌃ ⇧ { $key }
        *[other] Ctrl+Shift+{ $key }
     }
+meta-ctrl-shift-shortcut-key =
+    { PLATFORM() ->
+        [macos] ⌃ ⇧ ⌘ { $key }
+       *[other] Meta+Ctrl+Shift+{ $key }
+    }
 alt-shift-shortcut-key =
     { PLATFORM() ->
         [macos] ⌥ ⇧ { $key }

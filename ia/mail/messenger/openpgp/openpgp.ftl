@@ -250,6 +250,12 @@ openpgp-key-details-key-type-label = Typo
 openpgp-key-details-key-part-label =
     .label = Parte del clave
 openpgp-key-details-attr-ignored = ATTENTION: Iste clave pote non functionar como expectate, perque parte de su proprietates es non secur e poterea esser ignorate.
+openpgp-key-details-attr-upgrade-sec = Tu debe promover le proprietates insecur.
+openpgp-key-details-attr-upgrade-pub = Tu debe demandar al proprietario de iste clave de promover le proprietates insecur.
+openpgp-key-details-upgrade-unsafe =
+    .label = Promover le proprietates insecur.
+    .accesskey = p
+openpgp-key-details-upgrade-ok = Clave promovite con successo. Comparti ille clave public con tu correspondentes.
 openpgp-key-details-algorithm-label =
     .label = Algorithmo
 openpgp-key-details-size-label =
@@ -503,6 +509,9 @@ key-error-not-accepted-as-personal = Tu non ha confirmate que le clave con ID '{
 need-online = Le function que tu ha seligite non es disponibile in modo sin connexion. Per favor va online e reproba.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = Impossibile trovar ulle clave concordante le criterios de recerca specificate.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found2 = Impossibile trovar ulle clave utile concordante le criterios de recerca specificate.
+no-update-found = Tu jam ha le claves discoperite online.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Error - Commando de extraction clave fallite
 # Strings used in keyRing.jsm
