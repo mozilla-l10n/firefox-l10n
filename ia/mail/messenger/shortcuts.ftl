@@ -8,6 +8,76 @@
 # Variables:
 #  $key (String) - The shortcut key.
 shortcut-key = { $key }
+meta-shortcut-key =
+    { PLATFORM() ->
+        [macos] ⌘ { $key }
+       *[other] Meta+{ $key }
+    }
+ctrl-shortcut-key =
+    { PLATFORM() ->
+        [macos] ⌃ { $key }
+       *[other] Ctrl+{ $key }
+    }
+shift-shortcut-key =
+    { PLATFORM() ->
+        [macos] ⇧ { $key }
+       *[other] Shift+{ $key }
+    }
+alt-shortcut-key =
+    { PLATFORM() ->
+        [macos] ⌥ { $key }
+       *[other] Alt+{ $key }
+    }
+meta-ctrl-shortcut-key =
+    { PLATFORM() ->
+        [macos] ⌃ ⌘ { $key }
+       *[other] Meta+Ctrl+{ $key }
+    }
+meta-alt-shortcut-key =
+    { PLATFORM() ->
+        [macos] ⌥ ⌘ { $key }
+       *[other] Meta+Alt+{ $key }
+    }
+ctrl-alt-shortcut-key =
+    { PLATFORM() ->
+        [macos] ⌃ ⌥ { $key }
+       *[other] Ctrl+Alt+{ $key }
+    }
+meta-ctrl-alt-shortcut-key =
+    { PLATFORM() ->
+        [macos] ⌃ ⌥ ⌘ { $key }
+       *[other] Meta+Ctrl+Alt+{ $key }
+    }
+meta-shift-shortcut-key =
+    { PLATFORM() ->
+        [macos] ⇧ ⌘ { $key }
+       *[other] Meta+Shift+{ $key }
+    }
+ctrl-shift-shortcut-key =
+    { PLATFORM() ->
+        [macos] ⌃ ⇧ { $key }
+       *[other] Ctrl+Shift+{ $key }
+    }
+alt-shift-shortcut-key =
+    { PLATFORM() ->
+        [macos] ⌥ ⇧ { $key }
+       *[other] Alt+Maiusc+{ $key }
+    }
+meta-shift-alt-shortcut-key =
+    { PLATFORM() ->
+        [macos] ⌥ ⇧ ⌘ { $key }
+       *[other] Meta+Alt+Maiusc+{ $key }
+    }
+ctrl-shift-alt-shortcut-key =
+    { PLATFORM() ->
+        [macos] ⌃ ⌥ ⇧ { $key }
+       *[other] Ctrl+Alt+Shift{ $key }
+    }
+meta-ctrl-shift-alt-shortcut-key =
+    { PLATFORM() ->
+        [macos] ⌃ ⌥ ⇧ ⌘ { $key }
+       *[other] Meta+Ctrl+Alt+Shift{ $key }
+    }
 # Variables:
 #  $title (String): The title coming from the original element.
 #  $shortcut (String): The shortcut generated from the keystroke combination.
