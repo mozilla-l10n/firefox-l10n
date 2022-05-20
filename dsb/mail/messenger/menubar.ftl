@@ -11,7 +11,6 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Nastajenja
     .accesskey = N
-
 menu-addons-and-themes =
     .label = Dodanki a drastwy
     .accesskey = D
@@ -21,11 +20,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Modus za rozwězowanje problemow…
     .accesskey = M
-
 menu-help-exit-troubleshoot-mode =
     .label = Modus za rozwězowanje problemow znjemóžniś
     .accesskey = r
-
 menu-help-more-troubleshooting-info =
     .label = Dalšne informacije za rozwězowanje problemow
     .accesskey = D
@@ -53,22 +50,30 @@ menu-view-repair-text-encoding =
 
 ## View / Layout
 
+menu-font-size-label =
+    .label = Pismowe wjelikosć
+    .accesskey = i
+menuitem-font-size-enlarge =
+    .label = Pismowu wjelikosć pówětšyś
+    .accesskey = m
+menuitem-font-size-reduce =
+    .label = Pismowu wjelikosć pómjeńšyś
+    .accesskey = l
+menuitem-font-size-reset =
+    .label = Pismowu wjelikosć slědk stajiś
+    .accesskey = d
 mail-uidensity-label =
     .label = Gustosć
     .accesskey = G
-
 mail-uidensity-compact =
     .label = Kompaktny
     .accesskey = K
-
 mail-uidensity-normal =
     .label = Normalny
     .accesskey = N
-
 mail-uidensity-touch =
     .label = Dotyknjenje
     .accesskey = D
-
 menu-spaces-toolbar-button =
     .label = Rědka źělnych programow
     .accesskey = l
