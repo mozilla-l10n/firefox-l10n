@@ -53,3 +53,44 @@ meta-shift-shortcut-key =
         [macos] ⇧ ⌘ { $key }
        *[other] Meta+Umsch+{ $key }
     }
+ctrl-shift-shortcut-key =
+    { PLATFORM() ->
+        [macos] ⌃ ⇧ { $key }
+       *[other] Strg+Umsch+{ $key }
+    }
+meta-ctrl-shift-shortcut-key =
+    { PLATFORM() ->
+        [macos] ⌃ ⇧ ⌘ { $key }
+       *[other] Meta+Strg+Umsch+{ $key }
+    }
+alt-shift-shortcut-key =
+    { PLATFORM() ->
+        [macos] ⌥ ⇧ { $key }
+       *[other] Alt+Umsch+{ $key }
+    }
+meta-shift-alt-shortcut-key =
+    { PLATFORM() ->
+        [macos] ⌥ ⇧ ⌘ { $key }
+       *[other] Meta+Alt+Umsch+{ $key }
+    }
+ctrl-shift-alt-shortcut-key =
+    { PLATFORM() ->
+        [macos] ⌃ ⌥ ⇧ { $key }
+       *[other] Strg+Alt+Umsch+{ $key }
+    }
+meta-ctrl-shift-alt-shortcut-key =
+    { PLATFORM() ->
+        [macos] ⌃ ⌥ ⇧ ⌘ { $key }
+       *[other] Meta+Strg+Alt+Umsch+{ $key }
+    }
+# Variables:
+#  $title (String): The title coming from the original element.
+#  $shortcut (String): The shortcut generated from the keystroke combination.
+button-shortcut-string =
+    .title = { $title } ({ $shortcut })
+# Variables:
+#  $label (String): The text label coming from the original element.
+#  $shortcut (String): The shortcut generated from the keystroke combination.
+menuitem-shortcut-string =
+    .label = { $label }
+    .acceltext = { $shortcut }
