@@ -59,6 +59,7 @@ policy-DownloadDirectory = Configurar e fixar le directorio de discargamentos.
 policy-EnableTrackingProtection = Activar o disactivar le blocage de contento e optionalmente serrar lo.
 # “lock” means that the user won’t be able to change this setting
 policy-EncryptedMediaExtensions = Activar o disactivar le extensiones de medios cryptate e optionalmente blocar los.
+policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Disactivar le avisos basate super le file extension pro specific typos de file sur dominios.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
