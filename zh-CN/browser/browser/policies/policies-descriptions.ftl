@@ -59,6 +59,7 @@ policy-DownloadDirectory = 设置并锁定下载目录。
 policy-EnableTrackingProtection = 启用或禁用内容拦截，并可选择锁定该功能。
 # “lock” means that the user won’t be able to change this setting
 policy-EncryptedMediaExtensions = 启用或禁用“加密媒体扩展（EME）”，并可选择锁定该功能。
+policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = 针对指定域名的特定文件类型，禁用文件扩展名警告。
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
