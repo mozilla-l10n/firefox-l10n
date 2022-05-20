@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Loobu
 screenshots-overlay-instructions = Ala valimiseks klõpsa või lohista lehel. Tühistamiseks vajuta ESC.
+screenshots-overlay-download-button = Laadi alla
+screenshots-overlay-copy-button = Kopeeri
