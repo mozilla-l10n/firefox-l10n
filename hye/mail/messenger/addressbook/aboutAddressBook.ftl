@@ -22,7 +22,6 @@ about-addressbook-toolbar-import =
 ## Books
 
 all-address-books = Բոլոր հասցէագրքերը
-
 about-addressbook-books-context-properties =
     .label = Յատկութիւններ
 about-addressbook-books-context-synchronize =
@@ -37,7 +36,6 @@ about-addressbook-books-context-remove =
     .label = Հեռացնել
 about-addressbook-books-context-startup-default =
     .label = Նախնական մեկնարկման գրացուցակ
-
 about-addressbook-confirm-delete-book-title = Ջնջել հասցէագիրքը
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -55,17 +53,14 @@ about-addressbook-search =
     .placeholder = Որոնել { $name }֊ը
 about-addressbook-search-all =
     .placeholder = Որոնել բոլոր հասցէագրքերը
-
 about-addressbook-sort-button =
     .title = Փոխել ցուցակի կարգը
-
 about-addressbook-name-format-display =
     .label = Ցուցադրուող անուն
 about-addressbook-name-format-firstlast =
     .label = Առաջինից վերջին
 about-addressbook-name-format-lastfirst =
     .label = Վերջինից առաջին
-
 about-addressbook-sort-name-ascending =
     .label = Տեսակաւորել ըստ անուանման (Ա > Ք)
 about-addressbook-sort-name-descending =
@@ -74,10 +69,8 @@ about-addressbook-sort-email-ascending =
     .label = Տեսակաւորել ըստ եղեկտրոնային փոստի հասցէի (Ա > Ք)
 about-addressbook-sort-email-descending =
     .label = Տեսակաւորել ըստ եղեկտրոնային փոստի հասցէի (Ք > Ա)
-
 about-addressbook-cards-context-write =
     .label = Գրել
-
 about-addressbook-confirm-delete-mixed-title = Ջնջել կապորդները եւ ցուցակները
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -131,17 +124,33 @@ about-addressbook-confirm-delete-contacts =
 
 ## Details
 
+about-addressbook-write-action-button = Գրել
+about-addressbook-event-action-button = Իրադարձութիւն
+about-addressbook-search-action-button = Որոնում
 about-addressbook-begin-edit-contact-button = Խմբագրել
 about-addressbook-delete-edit-contact-button = Ջնջել
 about-addressbook-cancel-edit-contact-button = Չեղարկել
 about-addressbook-save-edit-contact-button = Պահպանել
-
+about-addressbook-add-contact-to = Աւելացնել․
 about-addressbook-details-email-addresses-header = Եղեկտրոնային փոստի հասցէներ
 about-addressbook-details-phone-numbers-header = Հեռախաւսահամարներ
 about-addressbook-details-home-address-header = Տան հասցէ
 about-addressbook-details-work-address-header = Աշխատանքի հասցէ
+about-addressbook-details-addresses-header = Հասցէներ
+about-addressbook-details-notes-header = Նշումներ
 about-addressbook-details-other-info-header = Այղ տեղեկութիւն
-
+about-addressbook-entry-type-work = Աշխատանք
+about-addressbook-entry-type-home = Տուն
+about-addressbook-entry-type-fax = Հեռապատճէն
+about-addressbook-entry-type-cell = Վանդակ
+about-addressbook-entry-type-pager = Հեռատող
+about-addressbook-entry-name-birthday = Ծննդեան աւր
+about-addressbook-entry-name-anniversary = Տարեդարձ
+about-addressbook-entry-name-title = Վերնագիր
+about-addressbook-entry-name-department = Բաժին
+about-addressbook-entry-name-organization = Կազմակերպութիւն
+about-addressbook-entry-name-website = Կայք
+about-addressbook-entry-name-time-zone = Ժամային գաւտի
 about-addressbook-unsaved-changes-prompt-title = Չպահպանուած փոփոխութիւններ
 about-addressbook-unsaved-changes-prompt = Ցանկանու՞մ էք պահպանել Ձեր փոփոխութիւնները խմբագրման վիճակից դուրս գալուց առաջ:
 
@@ -151,7 +160,6 @@ about-addressbook-photo-drop-target = Գցէք կամ տեղադրէք լուս�
 about-addressbook-photo-drop-loading = Լուսանկարը բեռնուում է…
 about-addressbook-photo-drop-error = Չյաջողուեց բեռնել լուսանկարը:
 about-addressbook-photo-filepicker-title = Ընտրէք պատկերի նիշ
-
 about-addressbook-photo-discard = Հեռացնել առկայ լուսանկարը
 about-addressbook-photo-cancel = Չեղարկել
 about-addressbook-photo-save = Պահպանել

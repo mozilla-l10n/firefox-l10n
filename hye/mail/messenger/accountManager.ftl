@@ -3,10 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 open-preferences-sidebar-button2 = { -brand-short-name } Կարգաւորումներ
-
 open-addons-sidebar-button = Յաւելումներ եւ Հիմնապատկերներ
-
 account-action-add-newsgroup-account =
     .label = Աւելացնել լուրախմբերի հաշիւ…
     .accesskey = Լ
-
+edit-vcard-dialog-accept-button = Պահպանել
+    .accesskey = Պ
+edit-vcard-dialog-cancel-button = Չեղարկել
+    .accesskey = Չ

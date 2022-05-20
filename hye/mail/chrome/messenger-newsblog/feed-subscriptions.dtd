@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Subscription Dialog -->
+<!ENTITY feedSubscriptions.label     "Բաժանորդագրութիւններ նորութիւնների բաժնում">
 
 <!ENTITY feedTitle.label             "Վերնագիր․">
 <!ENTITY feedTitle.accesskey         "Վ">
