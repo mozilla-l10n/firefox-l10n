@@ -20,3 +20,5 @@ vcard-n-lastname = Nomine de familia
 vcard-n-add-lastname =
     .title = Adde nomine de familia
 vcard-n-suffix = Suffixo
+vcard-n-add-suffix =
+    .title = Adder suffixo
