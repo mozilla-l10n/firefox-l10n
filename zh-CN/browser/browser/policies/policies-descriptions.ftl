@@ -13,7 +13,7 @@
 policy-3rdparty = 设置 WebExtension 可通过 chrome.storage.managed 存取的策略。
 policy-AllowedDomainsForApps = 定义允许访问 Google Workspace 的域。
 policy-AppAutoUpdate = 启用或禁用应用程序自动更新。
-policy-AppUpdatePin = 禁止 { -brand-short-name } 更新超过特定版本。
+policy-AppUpdatePin = 阻止 { -brand-short-name } 更新超过特定版本。
 policy-AppUpdateURL = 设置自定义的应用程序更新网址。
 policy-Authentication = 为支持的网站配置集成身份验证。
 policy-AutoLaunchProtocolsFromOrigins = 定义一组外部协议列表，可不提示用户直接从列出的来源使用。
