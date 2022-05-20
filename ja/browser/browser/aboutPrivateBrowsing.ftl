@@ -6,7 +6,6 @@ privatebrowsingpage-open-private-window-label = プライベートウィンド�
     .accesskey = P
 about-private-browsing-search-placeholder = ウェブ検索
 about-private-browsing-info-title = プライベートウィンドウです
-about-private-browsing-info-myths = プライベートブラウジングに共通する話題
 about-private-browsing-search-btn =
     .title = ウェブ検索
 # Variables
@@ -20,11 +19,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = { $engine } で検索、または URL を入力します
 about-private-browsing-handoff-text-no-engine = 検索語句、または URL を入力します
 about-private-browsing-not-private = これはプライベートウィンドウではありません。
-about-private-browsing-info-description = ブラウザーを終了するかプライベートブラウジングのタブとウィンドウをすべて閉じると、検索履歴と閲覧履歴を消去します。ウェブサイトとインターネットサービスプロバイダーに対しては匿名化されません。このコンピューターを使う他のユーザーからあなたのオンラインでのプライベートを守るのに役立ちます。
-
-about-private-browsing-need-more-privacy = より厳重なプライバシーが必要ですか？
-about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } をお試しください
-
 about-private-browsing-info-description-private-window = プライベートウィンドウ: { -brand-short-name } はプライベートウィンドウをすべて閉じると、検索履歴と閲覧履歴を消去します。匿名化はしません。
 about-private-browsing-info-description-simplified = { -brand-short-name } はプライベートウィンドウをすべて閉じると、検索履歴と閲覧履歴を消去しますが、匿名化されているわけではありません。
 about-private-browsing-learn-more-link = 詳細情報
