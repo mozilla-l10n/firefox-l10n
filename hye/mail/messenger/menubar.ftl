@@ -11,7 +11,6 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Կարգաւորումներ
     .accesskey = ե
-
 menu-addons-and-themes =
     .label = Յաւելումներ եւ Հիմնապատկերներ
     .accesskey = A
@@ -21,11 +20,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Խափաշտկման ռեժիմ…
     .accesskey = Ա
-
 menu-help-exit-troubleshoot-mode =
     .label = Անջատել խափաշտկման ռեժիմը
     .accesskey = ր
-
 menu-help-more-troubleshooting-info =
     .label = Լրացուցիչ տեղեկատուութիւն խափաշտկման մասին
     .accesskey = Լ
@@ -53,22 +50,30 @@ menu-view-repair-text-encoding =
 
 ## View / Layout
 
+menu-font-size-label =
+    .label = Տառատեսակի չափը
+    .accesskey = ա
+menuitem-font-size-enlarge =
+    .label = Մեծացնել տառատեսակի չափը
+    .accesskey = Մ
+menuitem-font-size-reduce =
+    .label = Փոքրացնել տառատեսակի չափը
+    .accesskey = ք
+menuitem-font-size-reset =
+    .label = Վերատեղադրել տառատեսակի չափը
+    .accesskey = Վ
 mail-uidensity-label =
     .label = Խտութիւն
     .accesskey = Խ
-
 mail-uidensity-compact =
     .label = Սեղմ
     .accesskey = Ս
-
 mail-uidensity-normal =
     .label = Սովորական
     .accesskey = Ս
-
 mail-uidensity-touch =
     .label = Հպում
     .accesskey = Հ
-
 menu-spaces-toolbar-button =
     .label = Բացատների գործիքագաւտի
     .accesskey = Բ
