@@ -7,6 +7,7 @@ open-addons-sidebar-button = Additivos e themas
 account-action-add-newsgroup-account =
     .label = Adder conto de discussion…
     .accesskey = d
+server-change-restart-required = Reinitio es necesse pro applicar le cambios de nomine de servitor o de usator.
 edit-vcard-dialog-accept-button = Salvar
     .accesskey = S
 edit-vcard-dialog-cancel-button = Cancellar
