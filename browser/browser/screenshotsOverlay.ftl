@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Pśetergnuś
 screenshots-overlay-instructions = Śěgniśo abo klikniśo na bok, aby wobcerk wubrał. Tłocćo na ESC, aby pśetergnuł.
+screenshots-overlay-download-button = Ześěgnuś
+screenshots-overlay-copy-button = Kopěrowaś
