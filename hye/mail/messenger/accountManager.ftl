@@ -7,6 +7,7 @@ open-addons-sidebar-button = Յաւելումներ եւ Հիմնապատկեր�
 account-action-add-newsgroup-account =
     .label = Աւելացնել լուրախմբերի հաշիւ…
     .accesskey = Լ
+server-change-restart-required = Սպասարկիչի անունը կամ աւգտուողի անուան փոփոխութիւնը կիրառելու համար անհրաժեշտ է վերագործարկել:
 edit-vcard-dialog-accept-button = Պահպանել
     .accesskey = Պ
 edit-vcard-dialog-cancel-button = Չեղարկել
