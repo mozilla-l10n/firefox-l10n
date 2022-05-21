@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Бас тарту
 screenshots-overlay-instructions = Аймақты таңдау үшін бетте шертіңіз. Бас тарту үшін ESC басыңыз.
+screenshots-overlay-download-button = Жүктеп алу
+screenshots-overlay-copy-button = Көшіріп алу
