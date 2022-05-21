@@ -255,6 +255,7 @@ openpgp-key-details-uid-certified-col =
     .label = Wužywaŕski ID / Certificěrowany wót
 openpgp-key-details-key-id-label = ID kluca
 openpgp-key-details-user-id2-label = Pózdatny wobsejźaŕ kluca
+openpgp-key-details-user-id3-label = Pózdatny wobsejźaŕ kluca
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Typ
