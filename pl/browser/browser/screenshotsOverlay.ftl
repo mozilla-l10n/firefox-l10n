@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Anuluj
 screenshots-overlay-instructions = Przeciągnij lub kliknij na stronie, aby zaznaczyć obszar. Naciśnij klawisz Esc, aby anulować.
+screenshots-overlay-download-button = Pobierz
+screenshots-overlay-copy-button = Kopiuj
