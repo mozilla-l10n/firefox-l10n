@@ -255,6 +255,7 @@ openpgp-key-details-uid-certified-col =
     .label = Wužiwarski ID / Certifikowany wot
 openpgp-key-details-key-id-label = ID kluča
 openpgp-key-details-user-id2-label = Pozdatny wobsedźer kluča
+openpgp-key-details-user-id3-label = Pozdatny wobsedźer kluča
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Typ
@@ -519,6 +520,7 @@ key-error-not-accepted-as-personal = Njejsće wobkrućił, zo kluč z ID ‚{ $k
 need-online = Funkcija, kotruž sće wubrał, w modusu offline k dispoziciji njeje. Prošu dźiće online a spytajće hišće raz.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = Njemóžachmy kluč namakać, kotryž so k podatym pytanskim kriterijam hodźi.
+no-update-found = Maće hižo kluče, kotrež su so online namakali.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Zmylk - přikaz klučoweje ekstrakcije njeje so poradźił
 # Strings used in keyRing.jsm
