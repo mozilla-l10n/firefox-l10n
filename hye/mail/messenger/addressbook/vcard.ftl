@@ -10,6 +10,8 @@ vcard-fieldset-name = Անուն
 # N VCard Field
 
 vcard-n-prefix = Նախածրագրեր
+vcard-n-add-prefix =
+    .title = Աւելացնել նախածանց
 vcard-n-firstname = Անուն
 vcard-n-add-firstname =
     .title = Աւելացնել անուն
