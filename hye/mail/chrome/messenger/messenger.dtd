@@ -245,6 +245,7 @@
 <!ENTITY bodyAllParts.label "Բոլոր մասերը">
 <!ENTITY bodyAllParts.accesskey "Բ">
 
+<!ENTITY bodyMenuFeed.accesskey "Բ">
 <!ENTITY viewFeedWebPage.label "Վեբ էջ">
 <!ENTITY viewFeedWebPage.accesskey "Վ">
 <!ENTITY viewFeedSummary.label "Ընդհանուր">
@@ -317,6 +318,7 @@
 <!ENTITY prevStarredMsgCmd.label "Աստղանշուած նամակ">
 <!ENTITY prevStarredMsgCmd.accesskey "Ա">
 <!ENTITY folderMenu.label "Թղթապանակ">
+<!ENTITY folderMenu.accesskey "օ">
 <!ENTITY goRecentlyClosedTabs.label "Փակուած վերջին ներդիրները">
 <!ENTITY goRecentlyClosedTabs.accesskey "Վ">
 <!ENTITY startPageCmd.label "Մեկնարկային էջ">

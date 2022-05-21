@@ -45,4 +45,5 @@
 <!ENTITY button.exportOPML.label     "Արտածել">
 <!ENTITY button.exportOPML.accesskey "Ր">
 
+<!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Փակել">
