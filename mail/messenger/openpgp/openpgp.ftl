@@ -267,6 +267,7 @@ openpgp-key-details-attr-upgrade-pub = Wy měł wobsedźerja tutoho kluča prosy
 openpgp-key-details-upgrade-unsafe =
     .label = Njewěste kajkosće aktualizować
     .accesskey = N
+openpgp-key-details-upgrade-ok = KLuč je so wuspěšnje zaktualizował. Wy měł zaktualizowany zjawny kluč ze swojimi dopisowarjemi dźělić.
 openpgp-key-details-algorithm-label =
     .label = Algoritmus
 openpgp-key-details-size-label =
@@ -520,6 +521,8 @@ key-error-not-accepted-as-personal = Njejsće wobkrućił, zo kluč z ID ‚{ $k
 need-online = Funkcija, kotruž sće wubrał, w modusu offline k dispoziciji njeje. Prošu dźiće online a spytajće hišće raz.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = Njemóžachmy kluč namakać, kotryž so k podatym pytanskim kriterijam hodźi.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found2 = Njemóžachmy wužiwajomny kluč namakać, kotryž podatym pytanskim kriterijam wotpowěduje.
 no-update-found = Maće hižo kluče, kotrež su so online namakali.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Zmylk - přikaz klučoweje ekstrakcije njeje so poradźił
