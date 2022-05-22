@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Отмена
 screenshots-overlay-instructions = Потяните мышью или щёлкните по странице, чтобы выбрать область. Нажмите ESC для отмены.
+screenshots-overlay-download-button = Загрузить
+screenshots-overlay-copy-button = Скопировать
