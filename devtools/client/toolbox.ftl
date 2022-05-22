@@ -15,19 +15,15 @@ toolbox-meatball-menu-dock-bottom-label = Estacar aval
 toolbox-meatball-menu-dock-left-label = Ancorar a esquèrra
 toolbox-meatball-menu-dock-right-label = Ancorar a drecha
 toolbox-meatball-menu-dock-separate-window-label = Fenèstra separada
-
 toolbox-meatball-menu-splitconsole-label = Afichar la consòla separada
 toolbox-meatball-menu-hideconsole-label = Amagar la consòla separada
-
 toolbox-meatball-menu-settings-label = Paramètres
 toolbox-meatball-menu-documentation-label = Documentacion…
 toolbox-meatball-menu-community-label = Comunitat…
-
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
-toolbox-meatball-menu-noautohide-label = Desactivar lo mascatge automatic de la fenèstras sorgissentas
-
+toolbox-meatball-menu-noautohide-label = Desactivar la rescondalha automatica de las fenèstras sorgissentas
 toolbox-meatball-menu-pseudo-locale-accented = Activar lenga « amb diacritic »
 toolbox-meatball-menu-pseudo-locale-bidi = Activar lenga « bidireccionala »
 
