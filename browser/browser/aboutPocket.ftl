@@ -56,12 +56,18 @@ pocket-panel-home-paragraph = Podeu utilitzar el { -pocket-brand-name } per expl
 pocket-panel-home-explore-popular-topics = Exploreu els temes populars
 pocket-panel-home-discover-more = Descobriu-ne més
 pocket-panel-home-explore-more = Explora
+pocket-panel-home-most-recent-saves = Aquest és el contingut que heu desat més recentment:
+pocket-panel-home-most-recent-saves-loading = S'estan carregant els elements desats recents…
+pocket-panel-home-new-user-cta = Feu clic al botó del { -pocket-brand-name } per a desar articles, vídeos i enllaços.
+pocket-panel-home-new-user-message = Vegeu el contingut que heu desat recentment aquí.
 
 ## Pocket panel header component
 
+pocket-panel-header-my-list = Mostra la meva llista
 pocket-panel-header-sign-in = Inicia la sessió
 
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Mostra-ho tot
 pocket-panel-button-activate = Activa el { -pocket-brand-name } en el { -brand-product-name }
+pocket-panel-button-remove = Elimina
