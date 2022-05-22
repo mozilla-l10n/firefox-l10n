@@ -8,15 +8,14 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Гузориш дар бораи { $addon-name }
-
 abuse-report-title-extension = Фиристодани гузориш дар бораи ин васеъшавӣ ба { -vendor-short-name }
 abuse-report-title-sitepermission = Фиристодани гузориш дар бораи ин васеъшавии иҷозатҳо барои сомонаи ҷорӣ ба { -vendor-short-name }
 abuse-report-title-theme = Фиристодани гузориш дар бораи ин мавзуъ ба { -vendor-short-name }
 abuse-report-subtitle = Масъала дар чист?
-
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = аз ҷониби <a data-l10n-name="author-name">{ $author-name }</a>
+abuse-report-submit-description = Мушкилиро тавзеҳ кунед (ихтиёрӣ)
 
 ## Panel buttons.
 
@@ -55,5 +54,4 @@ abuse-report-messagebar-action-cancel = Бекор кардан
 
 abuse-report-settings-suggestions-search = Танзимоти ҷустуҷӯи пешфарзи шуморо иваз мекунад
 abuse-report-settings-suggestions-homepage = Саҳифаи асосӣ ва варақаи нави шуморо иваз мекунад
-
 abuse-report-other-reason = Чизе дигар

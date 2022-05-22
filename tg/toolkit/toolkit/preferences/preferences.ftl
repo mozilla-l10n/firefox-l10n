@@ -5,6 +5,7 @@
 password-not-set =
     .value = (танзим нашудааст)
 failed-pp-change = Ниҳонвожаи асосӣ тағйир дода намешавад.
+pp-change-ok = Ниҳонвожаи асосӣ бо муваффақият иваз карда шуд.
 pp-erased-ok = Шумо ниҳонвожаи асосии худро нест кардед. { pp-empty-warning }
 pw-change-success-title = Ниҳонвожа бо муваффақият тағйир ёфт
 pw-change-failed-title = Ниҳонвожа тағйир дода нашуд
