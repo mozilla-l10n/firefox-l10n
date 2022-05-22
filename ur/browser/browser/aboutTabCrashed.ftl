@@ -16,5 +16,6 @@ crashed-request-report-title = اس ٹیب کی رپورٹ کریں
 crashed-send-report-2 = کریش کی خودکار رپورٹ بھیجیں تاکہ ہم اس طرح کے معاملات حل کرسکیں
 crashed-comment =
     .placeholder = اختیاری تبصرہ (تبصرے عوامی سطح پر نمودار ھیں)
+crashed-include-URL-2 = { -brand-short-name } کریش ہونے کے وقت آپ جس سائٹ پر تھے اس کے URLs شامل کریں
 crashed-report-sent = تباہ رپورٹ پہلے سے جمع ہو چکی ہے؛ { -brand-short-name } کو بہتر بنانے کے لیے مدد دینے کا شکریہ!
 crashed-request-auto-submit-title = پس منظر ٹیب کی رپورٹ کریں
