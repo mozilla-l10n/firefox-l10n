@@ -43,6 +43,7 @@ category-experimental =
     .tooltiptext = Опити с { -brand-short-name }
 pane-experimental-subtitle = Продължете с повишено внимание
 pane-experimental-search-results-header = Опити с { -brand-short-name }: Продължете с повишено внимание
+pane-experimental-description2 = Промяната на разширените настройки може да повлияе на производителността или сигурността на { -brand-short-name }.
 pane-experimental-reset =
     .label = Стандартни настройки
     .accesskey = С
@@ -72,6 +73,21 @@ restart-later = Рестартиране по-късно
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = Разширението „<img data-l10n-name="icon"/> <strong>{ $name }</strong>“ управлява тази настройка.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = Разширението „<img data-l10n-name="icon"/> <strong>{ $name }</strong>“ управлява тази настройка.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = Разширението „<img data-l10n-name="icon"/> <strong>{ $name }</strong>“ има изискване за изолирани раздели.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = Разширението „<img data-l10n-name="icon"/> <strong>{ $name }</strong>“ управлява тази настройка.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = Разширението „<img data-l10n-name="icon"/> { $name }“ управлява как { -brand-short-name } се свързва с интернет.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -97,6 +113,9 @@ is-not-default = { -brand-short-name } не е вашият стандартен
 set-as-my-default-browser =
     .label = Задаване като стандартен…
     .accesskey = с
+startup-restore-windows-and-tabs =
+    .label = Отваряне на последните прозорци и раздели
+    .accesskey = п
 startup-restore-warn-on-quit =
     .label = Предупреждаване при затваряне на четеца
 disable-extension =
@@ -108,6 +127,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Отваряне на препратките в раздели вместо в нови прозорци
     .accesskey = р
+confirm-on-close-multiple-tabs =
+    .label = Потвърждаване при затваряне на няколко раздела
+    .accesskey = д
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Потвърждаване при изход с { $quitKey }
+    .accesskey = х
 warn-on-open-many-tabs =
     .label = Предупреждаване, ако отваряне на няколко раздела може да забави { -brand-short-name }
     .accesskey = а
@@ -150,6 +180,7 @@ containers-remove-cancel-button = Запазване
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Език и изглед
+preferences-web-appearance-choice-browser = Тема на { -brand-short-name }
 preferences-web-appearance-choice-system = Спрямо системата
 preferences-web-appearance-choice-light = Светла
 preferences-web-appearance-choice-dark = Тъмна
@@ -162,6 +193,9 @@ preferences-web-appearance-choice-input-light =
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 preferences-colors-header = Цветове
+preferences-colors-manage-button =
+    .label = Управление на цветове…
+    .accesskey = ц
 preferences-fonts-header = Шрифтове
 default-font = Стандартен шрифт
     .accesskey = С
@@ -193,6 +227,7 @@ confirm-browser-language-change-button = Прилагане и рестарти�
 translate-web-pages =
     .label = Превеждане на съдържанието на страниците
     .accesskey = П
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Превод от <img data-l10n-name="logo"/>
@@ -279,6 +314,8 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Използване на { $plugin-name } (от { -brand-short-name })
+applications-open-inapp =
+    .label = Отваряне в { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -290,6 +327,8 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
@@ -301,6 +340,10 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Какво да направи { -brand-short-name } с другите файлове?
+applications-save-for-new-types =
+    .label = Запазване на файлове
+    .accesskey = з
 drm-content-header = Съдържание с цифрови права (DRM)
 play-drm-content =
     .label = Изпълняване на съдържание под DRM
