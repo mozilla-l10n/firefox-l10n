@@ -150,6 +150,9 @@ containers-remove-cancel-button = Запазване
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Език и изглед
+preferences-web-appearance-choice-system = Спрямо системата
+preferences-web-appearance-choice-light = Светла
+preferences-web-appearance-choice-dark = Тъмна
 preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
@@ -158,6 +161,8 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-colors-header = Цветове
+preferences-fonts-header = Шрифтове
 default-font = Стандартен шрифт
     .accesskey = С
 default-font-size = Големина
