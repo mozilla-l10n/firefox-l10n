@@ -209,6 +209,11 @@ preferences-web-appearance-override-warning = La vostra selecció de colors modi
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gestioneu els temes del { -brand-short-name } a <a data-l10n-name="themes-link">Extensions i temes</a>
 preferences-colors-header = Colors
+preferences-colors-description = Sobreescriu els colors per defecte del { -brand-short-name } per al text, els fons dels llocs webs i els enllaços.
+preferences-colors-manage-button =
+    .label = Gestiona els colors…
+    .accesskey = c
+preferences-fonts-header = Tipus de lletra
 default-font = Tipus de lletra per defecte
     .accesskey = d
 default-font-size = Mida:
@@ -352,6 +357,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Què ha de fer el { -brand-short-name } amb els altres fitxers?
+applications-save-for-new-types =
+    .label = Desa el fitxers
+    .accesskey = s
+applications-ask-before-handling =
+    .label = Demana si els fitxers s'han d'obrir o de desar
+    .accesskey = a
 drm-content-header = Contingut DRM (Digital Rights Management, Gestió de drets digitals)
 play-drm-content =
     .label = Reprodueix contingut controlat per DRM
@@ -380,6 +392,9 @@ update-application-warning-cross-user-setting = Aquest paràmetre s'aplicarà a 
 update-application-use-service =
     .label = Instal·la les actualitzacions en segon pla
     .accesskey = s
+update-application-suppress-prompts =
+    .label = Mostra menys notificacions d'actualització
+    .accesskey = n
 update-setting-write-failure-title2 = Error en desar els paràmetres d'actualització
 # Variables:
 #   $path (String) - Path to the configuration file
@@ -425,6 +440,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Utilitza el desplaçament suau
     .accesskey = s
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Mostra sempre les barres de desplaçament
+    .accesskey = o
 browsing-use-onscreen-keyboard =
     .label = Mostra un teclat tàctil quan calgui
     .accesskey = M
@@ -869,6 +887,10 @@ sitedata-block-desc = Tipus de contingut blocat
     .accesskey = T
 sitedata-option-block-cross-site-trackers =
     .label = Elements de seguiment entre llocs
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = Galetes de seguiment entre llocs
+sitedata-option-block-cross-site-cookies =
+    .label = Galetes de seguiment entre llocs, i aïlla les altres galetes entre llocs
 sitedata-option-block-unvisited =
     .label = Galetes de llocs web no visitats
 sitedata-option-block-all-third-party =
