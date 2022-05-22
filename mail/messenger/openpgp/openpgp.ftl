@@ -502,6 +502,7 @@ key-error-not-accepted-as-personal = Non si è confermato che la chiave con ID �
 need-online = La funzione selezionata non è disponibile in modalità non in linea. Connettersi a Internet e riprovare.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = Impossibile trovare chiavi corrispondenti ai criteri di ricerca specificati.
+no-update-found = Hai già le chiavi che sono state trovate online.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Errore: comando di estrazione chiave non riuscito
 # Strings used in keyRing.jsm
