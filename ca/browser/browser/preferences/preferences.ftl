@@ -209,7 +209,7 @@ preferences-web-appearance-override-warning = La vostra selecció de colors modi
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gestioneu els temes del { -brand-short-name } a <a data-l10n-name="themes-link">Extensions i temes</a>
 preferences-colors-header = Colors
-preferences-colors-description = Sobreescriu els colors per defecte del { -brand-short-name } per al text, els fons dels llocs webs i els enllaços.
+preferences-colors-description = Sobreescriu els colors per defecte del { -brand-short-name } per al text, els fons dels llocs web i els enllaços.
 preferences-colors-manage-button =
     .label = Gestiona els colors…
     .accesskey = c
