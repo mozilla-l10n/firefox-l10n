@@ -180,6 +180,18 @@ menu-view-certificates =
 menu-open-key-manager =
     .label = Gestor de claves
     .accesskey = G
+openpgp-key-issue-notification-one = El cifrado de extremo a extremo requiere resolver problemas con la clave de { $addr }
+openpgp-key-issue-notification-many = El cifrado de extremo a extremo requiere resolver problemas con las claves de { $count } destinatarios.
+smime-cert-issue-notification-one = El cifrado de extremo a extremo requiere resolver problemas con los certificados de { $addr }.
+smime-cert-issue-notification-many = El cifrado de extremo a extremo requiere resolver problemas con los certificados de { $count } destinatarios.
+key-notification-disable-encryption =
+    .label = No cifrar
+    .accesskey = N
+    .tooltiptext = Desactivar el cifrado de extremo a extremo
+key-notification-resolve =
+    .label = Resolver…
+    .accesskey = R
+    .tooltiptext = Abrir el asistente de claves de OpenPGP
 
 ## Addressing Area
 
@@ -348,6 +360,14 @@ cloud-file-account-error = No se ha podido actualizar el archivo adjunto Filelin
 
 ## Link Preview
 
+link-preview-title = Vista previa del enlace
+link-preview-description = { -brand-short-name } puede añadir una vista previa integrada al pegar enlaces.
+link-preview-autoadd = Añadir vista previa de enlaces automáticamente cuando sea posible
+link-preview-replace-now = ¿Desea añadir una vista para este enlace?
+link-preview-yes-replace = Sí
 
 ## Dictionary selection popup
 
+spell-add-dictionaries =
+    .label = Añadir diccionarios…
+    .accesskey = A
