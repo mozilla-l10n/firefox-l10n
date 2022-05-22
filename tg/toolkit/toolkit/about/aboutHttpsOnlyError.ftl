@@ -20,4 +20,5 @@ about-httpsonly-link-learn-more = Маълумоти бештар…
 ##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
 
 about-httpsonly-suggestion-box-header = Имконияти дигари имконпазир
+about-httpsonly-suggestion-box-www-text = Версияи бехатари сомонаи <em>www.{ $websiteUrl }</em> вуҷуд дорад. Шумо метавонед ба ҷойи <em>{ $websiteUrl }</em> ба ин саҳифа ворид шавед.
 about-httpsonly-suggestion-box-www-button = Ба www.{ $websiteUrl } гузаред
