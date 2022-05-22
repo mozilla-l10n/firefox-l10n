@@ -13,7 +13,7 @@ rights-intro-point-5 = Algunes de les funcionalitats del { -brand-short-name } u
 rights-intro-point-5-unbranded = Si aquest producte incorpora serveis web, les condicions dels serveis que s'hi apliquin cal enllaçar-les a la secció de <a data-l10n-name="mozilla-website-services-link">Serveis del lloc web</a>.
 rights-intro-point-6 = Per tal de reproduir determinats tipus de contingut de vídeo, el { -brand-short-name } ha de baixar alguns mòduls de desxifratge de contingut de tercers.
 rights-webservices-header = Serveis d'informació web del { -brand-full-name }
-rights-locationawarebrowsing = <strong>Navegació amb geolocalització: </strong>és sempre opcional.  No s'enviarà mai cap informació de la vostra ubicació sense el vostre permís. Si voleu inhabilitar la funcionalitat complement, seguiu els passos següents:
+rights-locationawarebrowsing = <strong>Navegació amb geolocalització: </strong>és sempre opcional.  No s'enviarà mai cap informació de la vostra ubicació sense el vostre permís. Si voleu inhabilitar totalment la funcionalitat, seguiu els passos següents:
 rights-locationawarebrowsing-term-1 = A la barra d'ubicació, escriviu-hi <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Escriviu-hi geo.enabled
 rights-locationawarebrowsing-term-3 = Feu doble clic a la preferència geo.enabled
