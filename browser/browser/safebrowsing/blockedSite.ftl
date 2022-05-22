@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 safeb-blocked-phishing-page-title = Aquest lloc web és enganyós
-safeb-blocked-malware-page-title = Si visiteu aquest lloc web podríeu malmetre l'ordinador
+safeb-blocked-malware-page-title = Si visiteu aquest lloc web, podríeu malmetre l'ordinador
 safeb-blocked-unwanted-page-title = El lloc web que voleu visitar pot contenir programes maliciosos
 safeb-blocked-harmful-page-title = El lloc web que voleu visitar pot contenir programari maliciós
 safeb-blocked-phishing-page-short-desc = El { -brand-short-name } ha blocat aquesta pàgina perquè podria intentar enganyar-vos perquè feu alguna acció perillosa, com instal·lar programari o revelar informació personal (per exemple, contrasenyes o targetes de crèdit).
