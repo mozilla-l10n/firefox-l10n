@@ -187,7 +187,28 @@ preferences-web-appearance-choice-system = Tema del sistema
 preferences-web-appearance-choice-light = Clar
 preferences-web-appearance-choice-dark = Fosc
 preferences-web-appearance-choice-tooltip-browser =
-    .title = Fa que el fons i el contingut dels llocs web coincideixi amb del tema del { -brand-short-name }.
+    .title = Fa que el fons i el contingut dels llocs web coincideixin amb del tema del { -brand-short-name }.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Fa que el fons i el contingut dels llocs web coincideixin amb del tema del del sistema.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Usa un aspecte clar per al fons i el contingut dels llocs web.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Usa un aspecte fosc per al fons i el contingut dels llocs web.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = La vostra selecció de colors modifica l'aparença dels llocs web. <a data-l10n-name="colors-link">Gestiona els colors</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Gestioneu els temes del { -brand-short-name } a <a data-l10n-name="themes-link">Extensions i temes</a>
+preferences-colors-header = Colors
 default-font = Tipus de lletra per defecte
     .accesskey = d
 default-font-size = Mida:
