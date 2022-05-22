@@ -243,6 +243,7 @@ openpgp-key-details-uid-certified-col =
     .label = ID utente/Certificato da
 openpgp-key-details-key-id-label = ID chiave
 openpgp-key-details-user-id2-label = Presunto proprietario della chiave
+openpgp-key-details-user-id3-label = Proprietario della chiave dichiarato
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Tipo
