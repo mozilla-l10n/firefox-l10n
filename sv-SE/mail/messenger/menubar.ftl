@@ -11,7 +11,6 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Inställningar
     .accesskey = n
-
 menu-addons-and-themes =
     .label = Tillägg och teman
     .accesskey = T
@@ -21,11 +20,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Felsökningsläge…
     .accesskey = F
-
 menu-help-exit-troubleshoot-mode =
     .label = Stäng av felsökningsläge
     .accesskey = S
-
 menu-help-more-troubleshooting-info =
     .label = Mer felsökningsinformation
     .accesskey = M
@@ -53,22 +50,30 @@ menu-view-repair-text-encoding =
 
 ## View / Layout
 
+menu-font-size-label =
+    .label = Textstorlek
+    .accesskey = e
+menuitem-font-size-enlarge =
+    .label = Öka textstorlek
+    .accesskey = k
+menuitem-font-size-reduce =
+    .label = Minska textstorlek
+    .accesskey = M
+menuitem-font-size-reset =
+    .label = Återställ textstorlek
+    .accesskey = t
 mail-uidensity-label =
     .label = Täthet
     .accesskey = T
-
 mail-uidensity-compact =
     .label = Kompakt
     .accesskey = K
-
 mail-uidensity-normal =
     .label = Normal
     .accesskey = N
-
 mail-uidensity-touch =
     .label = Touch
     .accesskey = T
-
 menu-spaces-toolbar-button =
     .label = Flikmeny
     .accesskey = F
