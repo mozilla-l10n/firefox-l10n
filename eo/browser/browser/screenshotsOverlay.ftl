@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Nuligi
 screenshots-overlay-instructions = Trenu aŭ alklaku sur la paĝo por elekti areon. Premu ESK por nuligi.
+screenshots-overlay-download-button = Elŝuti
+screenshots-overlay-copy-button = Kopii
