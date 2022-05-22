@@ -180,6 +180,7 @@ containers-remove-cancel-button = Запазване
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Език и изглед
+preferences-web-appearance-description = Някои страници адаптират цветовете си въз основа на вашите предпочитания. Изберете цветовата схема, която да бъде използвана за такива страници.
 preferences-web-appearance-choice-browser = Тема на { -brand-short-name }
 preferences-web-appearance-choice-system = Спрямо системата
 preferences-web-appearance-choice-light = Светла
@@ -372,6 +373,9 @@ update-application-warning-cross-user-setting = Тази настройка ще
 update-application-use-service =
     .label = Използване на услуга във фонов режим за инсталиране на обновявания
     .accesskey = у
+update-application-suppress-prompts =
+    .label = Показване на по-малко известия за обновяване
+    .accesskey = м
 update-setting-write-failure-title2 = Грешка при запазване на настройки
 # Variables:
 #   $path (String) - Path to the configuration file
@@ -775,6 +779,7 @@ forms-primary-pw-change =
     .accesskey = П
 forms-primary-pw-fips-title = В момента сте в режим на FIPS. FIPS изисква главна парола.
 forms-master-pw-fips-desc = Грешка при промяна на паролата
+forms-windows-sso-learn-more-link = Научете повече
 
 ## OS Authentication dialog
 
