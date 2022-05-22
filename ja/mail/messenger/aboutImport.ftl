@@ -6,8 +6,11 @@ import-page-title = 設定とデータのインポート
 
 ## Header
 
+import-start = インポートツール
+import-start-desc = 設定やデータをプログラムまたはファイルからインポートします。
 import-from-app = プログラムからインポート
 import-from-app-desc = アカウント、アドレス帳、カレンダーおよび他のデータのインポート元を選んでください:
+import-from-file = ファイルからインポート
 import-address-book = アドレス帳ファイルからインポート
 import-calendar = カレンダーファイルからインポート
 export-profile = エクスポート
@@ -26,6 +29,14 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-file = ファイルからインポート
+
+## Import from file selections
+
+file-profile = バックアップしたプロファイル (.zip) のインポート
+file-calendar = カレンダーのインポート
+file-addressbook = アドレス帳のインポート
+
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = { $app } からのインポート
@@ -66,7 +77,6 @@ calendar-import-into-new-calendar = 新しいカレンダーを作成する
 
 ## Import dialog
 
-progress-pane-title = インポートしています
 progress-pane-importing = インポート中
 progress-pane-exporting = エクスポート中
 progress-pane-finished-desc = 完了。
