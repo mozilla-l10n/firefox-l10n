@@ -13,6 +13,7 @@
 policy-3rdparty = Tetapkan kebijakan yang dapat diakses WebExtensions melalui chrome.storage.managed.
 policy-AllowedDomainsForApps = Tentukan domain yang diizinkan untuk mengakses Google Workspace.
 policy-AppAutoUpdate = Aktifkan atau nonaktifkan pembaruan aplikasi otomatis.
+policy-AppUpdatePin = Cegah { -brand-short-name } agar tidak diperbarui di luar versi yang ditentukan.
 policy-AppUpdateURL = Atur URL pemutakhiran aplikasi khusus
 policy-Authentication = Atur autentikasi terintegrasi untuk situs lain yang mendukung.
 policy-AutoLaunchProtocolsFromOrigins = Menentukan daftar protokol eksternal yang dapat digunakan dari asal-usul terdaftar tanpa bertanya pada pengguna.
