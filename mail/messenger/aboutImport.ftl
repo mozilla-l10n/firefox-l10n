@@ -6,8 +6,11 @@ import-page-title = 設定とデータの読み込み
 
 ## Header
 
+import-start = インポートツール
+import-start-desc = 設定やデータをアプリケーションまたはファイルから読み込みます。
 import-from-app = アプリケーションから読み込み
 import-from-app-desc = アカウント、アドレス帳、カレンダーおよび他のデータの読み込み元を選んでください:
+import-from-file = ファイルから読み込み
 import-address-book = アドレス帳ファイルから読み込み
 import-calendar = カレンダーファイルから読み込み
 export-profile = 書き出し
@@ -26,6 +29,14 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-file = ファイルから読み込み
+
+## Import from file selections
+
+file-profile = バックアップしたプロファイル (.zip) の読み込み
+file-calendar = カレンダーの読み込み
+file-addressbook = アドレス帳の読み込み
+
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = { $app } からの読み込み
@@ -66,7 +77,6 @@ calendar-import-into-new-calendar = 新規カレンダーを作成する
 
 ## Import dialog
 
-progress-pane-title = 読み込んでいます
 progress-pane-importing = 読み込み中
 progress-pane-exporting = 書き出し中
 progress-pane-finished-desc = 完了。
