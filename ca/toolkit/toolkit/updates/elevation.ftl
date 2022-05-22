@@ -11,4 +11,4 @@ elevation-error-manual = Podeu actualitzar el { -brand-short-name } manualment v
 elevation-finished-page = L'actualització està preparada per poder instal·lar-la
 elevation-finished-background-page = S'ha baixat una actualització de seguretat i estabilitat del { -brand-short-name } i està preparada per poder instal·lar-la.
 elevation-finished-background = Actualització:
-elevation-more-elevated = Aquesta actualització requereix privilegis d'administrador. L'actualització s'instal·larà la propera vegada que s'iniciï el { -brand-short-name }. Podeu reiniciar el { -brand-short-name } ara, continuar treballant i reiniciar-lo més endavant, o bé rebutjar aquesta actualització.
+elevation-more-elevated = Aquesta actualització requereix privilegis d'administrador. L'actualització s'instal·larà la pròxima vegada que s'iniciï el { -brand-short-name }. Podeu reiniciar el { -brand-short-name } ara, continuar treballant i reiniciar-lo més endavant, o bé rebutjar aquesta actualització.
