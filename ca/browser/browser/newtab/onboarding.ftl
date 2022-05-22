@@ -105,7 +105,7 @@ mr2-onboarding-colorway-subtitle = Combinacions de colors vibrants. Disponibles 
 mr2-onboarding-colorway-primary-button-label = Desa la combinació de colors
 mr2-onboarding-colorway-secondary-button-label = Ara no
 mr2-onboarding-colorway-label-soft = Suau
-mr2-onboarding-colorway-label-balanced = Equilibat
+mr2-onboarding-colorway-label-balanced = Equilibrat
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = Atrevit
