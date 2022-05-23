@@ -4,3 +4,4 @@
 
 screenshots-overlay-cancel-button = Heja
 screenshots-overlay-instructions = Embosyryry térã eikutu kuatiaroguépe eiporavo hag̃ua pe vore. Ejopy ESC eheja hag̃ua.
+screenshots-overlay-download-button = Emboguejy
