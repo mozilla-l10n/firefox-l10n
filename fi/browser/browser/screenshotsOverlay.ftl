@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Peruuta
 screenshots-overlay-instructions = Valitse alue vetämällä tai napsauttamalla sivua. Peruuta painamalla ESC.
+screenshots-overlay-download-button = Lataa
+screenshots-overlay-copy-button = Kopioi
