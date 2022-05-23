@@ -250,9 +250,12 @@ openpgp-key-details-key-type-label = Tipo
 openpgp-key-details-key-part-label =
     .label = Parte della chiave
 openpgp-key-details-attr-ignored = Attenzione: questa chiave potrebbe non funzionare come previsto, poiché alcune delle sue proprietà non sono sicure e potrebbero essere ignorate.
+openpgp-key-details-attr-upgrade-sec = Dovresti aggiornare le proprietà non sicure.
+openpgp-key-details-attr-upgrade-pub = Dovresti chiedere al proprietario di questa chiave di aggiornare le proprietà non sicure.
 openpgp-key-details-upgrade-unsafe =
     .label = Aggiorna proprietà non sicure
     .accesskey = s
+openpgp-key-details-upgrade-ok = La chiave è stata aggiornata correttamente. Si consiglia di condividere la chiave pubblica aggiornata con i propri corrispondenti.
 openpgp-key-details-algorithm-label =
     .label = Algoritmo
 openpgp-key-details-size-label =
@@ -503,6 +506,8 @@ key-error-not-accepted-as-personal = Non si è confermato che la chiave con ID �
 need-online = La funzione selezionata non è disponibile in modalità non in linea. Connettersi a Internet e riprovare.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = Impossibile trovare chiavi corrispondenti ai criteri di ricerca specificati.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found2 = Impossibile trovare chiavi utilizzabili che corrispondono ai criteri di ricerca specificati.
 no-update-found = Hai già le chiavi che sono state trovate online.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Errore: comando di estrazione chiave non riuscito
