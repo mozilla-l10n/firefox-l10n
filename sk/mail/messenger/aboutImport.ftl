@@ -26,7 +26,15 @@ button-finish = Dokončiť
 
 ## Import from app steps
 
-app-name-thunderbird = Thunderbird
+app-name-thunderbird =
+    { $case ->
+       *[nom] Thunderbird
+        [gen] Thunderbirdu
+        [dat] Thunderbirdu
+        [acc] Thunderbird
+        [loc] Thunderbirde
+        [ins] Thunderbirdom
+    }
 app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
@@ -39,14 +47,37 @@ profile-file-picker-dir = Vyberte priečinok profilu
 profile-file-picker-zip = Vyberte súbor zip (menší ako 2 GB)
 items-pane-title = Zvoľte, čo chcete importovať
 items-pane-source = Umiestnenie zdroja:
+source-thunderbird = Importovať z inej inštalácie { app-name-thunderbird }u
+source-thunderbird-description = Importujte nastavenia, filtre, správy a ďalšie údaje z profilu { app-name-thunderbird }u.
+source-seamonkey = Importovať z inštalácie { app-name-seamonkey }
+source-seamonkey-description = Importujte nastavenia, filtre, správy a ďalšie údaje z profilu { app-name-seamonkey }.
+source-outlook = Importovať z { app-name-outlook }u
+source-outlook-description = Importujte účty, adresáre a správy z aplikácie { app-name-outlook }.
+source-becky = Importovať z { app-name-becky }
+source-becky-description = Importujte adresáre a správy z aplikácie { app-name-becky }.
+source-apple-mail = Importovať z { app-name-apple-mail }
+source-apple-mail-description = Importujte správy z { app-name-apple-mail }.
+source-file2 = Importovať zo súboru
+source-file-description = Zvoľte súbor na importovanie adresárov, kalendárov alebo zálohy profilu (súbor ZIP).
 
 ## Import from file selections
 
+file-profile2 = Importovať zálohovaný profil
+file-profile-description = Zvoľte zálohovaný profil Thunderbirdu (.zip)
 file-calendar = Importovať kalendáre
+file-calendar-description = Zvoľte súbor obsahujúci exportované kalendáre alebo udalosti (.ics)
 file-addressbook = Importovať adresáre
+file-addressbook-description = Zvoľte súbor obsahujúci exportované adresáre a kontakty
 
 ## Import from app profile steps
 
+# $profileName (string) - name of the profile
+profile-source-named = Importovať z profilu <strong>"{ $profileName }"</strong>
+profile-file-picker-directory = Zvoliť priečinok profilu
+profile-file-picker-archive = Zvoliť súbor <strong>ZIP</strong>
+profile-file-picker-archive-description = Súbor ZIP musí byť menší ako 2 GB.
+profile-file-picker-archive-title = Vyberte súbor ZIP (menší ako 2 GB)
+items-pane-directory = Priečinok:
 items-pane-checkbox-accounts = Účty a nastavenia
 items-pane-checkbox-address-books = Adresáre
 items-pane-checkbox-calendars = Kalendáre
