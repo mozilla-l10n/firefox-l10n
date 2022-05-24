@@ -3,12 +3,15 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Fieldsets
+# Type selection
 
-vcard-fieldset-name = Meno
+vcard-entry-type-label = Typ
+vcard-entry-type-home = Domov
+vcard-entry-type-work = Práca
 
-# N VCard Field
+# N vCard field
 
+vcard-name-header = Meno
 vcard-n-prefix = Predpona
 vcard-n-add-prefix =
     .title = Pridajte predponu
@@ -24,3 +27,26 @@ vcard-n-add-lastname =
 vcard-n-suffix = Prípona
 vcard-n-add-suffix =
     .title = Pridajte príponu
+
+# Email vCard field
+
+vcard-email-header = E-mailové adresy
+vcard-email-add = Pridať e-mailovú adresu
+vcard-email-label = E-mailová adresa
+
+# URL vCard field
+
+vcard-url-header = Webové stránky
+vcard-url-add = Pridať webovú stránku
+vcard-url-label = Webová stránka
+
+# Tel vCard field
+
+vcard-tel-header = Telefónne čísla
+vcard-tel-add = Pridať telefónne číslo
+vcard-tel-label = Telefónne číslo
+
+# TZ vCard field
+
+vcard-tz-header = Časové pásmo
+vcard-tz-add = Pridať časové pásmo
