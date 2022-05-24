@@ -85,9 +85,6 @@ extension-controlling-privacy-containers = Разширението „<img data
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = Разширението „<img data-l10n-name="icon"/> <strong>{ $name }</strong>“ управлява тази настройка.
-# This string is shown to notify the user that their proxy configuration preferences
-# are being controlled by an extension.
-extension-controlling-proxy-config = Разширението „<img data-l10n-name="icon"/> { $name }“ управлява как { -brand-short-name } се свързва с интернет.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -247,9 +244,6 @@ check-user-spelling =
 
 files-and-applications-title = Файлове и приложения
 download-header = Изтегляния
-download-save-to =
-    .label = Запазване на файловете в
-    .accesskey = З
 download-save-where = Запазване на файловете в
     .accesskey = З
 download-choose-folder =
@@ -1076,7 +1070,3 @@ httpsonly-learn-more = Научете повече
 desktop-folder-name = Плот
 downloads-folder-name = Изтегляния
 choose-download-folder-title = Избиране на папка за изтегляне:
-# Variables:
-#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
-save-files-to-cloud-storage =
-    .label = Запазване на файла в { $service-name }
