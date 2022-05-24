@@ -3,12 +3,15 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Fieldsets
+# Type selection
 
-vcard-fieldset-name = Όνομα
+vcard-entry-type-label = Τύπος
+vcard-entry-type-home = Οικία
+vcard-entry-type-work = Εργασία
 
-# N VCard Field
+# N vCard field
 
+vcard-name-header = Όνομα
 vcard-n-firstname = Όνομα
 vcard-n-add-firstname =
     .title = Προσθήκη ονόματος
@@ -18,3 +21,26 @@ vcard-n-add-middlename =
 vcard-n-lastname = Επώνυμο
 vcard-n-add-lastname =
     .title = Προσθήκη επωνύμου
+
+# Email vCard field
+
+vcard-email-header = Διευθύνσεις email
+vcard-email-add = Προσθήκη διεύθυνσης email
+vcard-email-label = Διεύθυνση email
+
+# URL vCard field
+
+vcard-url-header = Ιστότοποι
+vcard-url-add = Προσθήκη ιστοτόπου
+vcard-url-label = Ιστότοπος
+
+# Tel vCard field
+
+vcard-tel-header = Αριθμοί τηλεφώνου
+vcard-tel-add = Προσθήκη αριθμού τηλεφώνου
+vcard-tel-label = Αριθμός τηλεφώνου
+
+# TZ vCard field
+
+vcard-tz-header = Ζώνη ώρας
+vcard-tz-add = Προσθήκη ζώνης ώρας
