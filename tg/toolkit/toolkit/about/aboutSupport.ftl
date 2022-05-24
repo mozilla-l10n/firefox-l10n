@@ -238,6 +238,16 @@ gpu-driver-vendor = Истеҳсолкунандаи драйвер
 gpu-driver-version = Версияи драйвер
 gpu-driver-date = Санаи барномарезии драйвер
 gpu-active = Фаъол
+webgl1-wsiinfo = Иттилооти драйвери WSI - WebGL 1
+webgl1-renderer = Намоишгари драйвери WebGL 1
+webgl1-version = Версияи драйвери WebGL 1
+webgl1-driver-extensions = Васеъшавиҳои драйвери WebGL 1
+webgl1-extensions = Васеъшавиҳои WebGL 1
+webgl2-wsiinfo = Иттилооти драйвери WSI - WebGL 2
+webgl2-renderer = Намоишгари драйвери WebGL 2
+webgl2-version = Версияи драйвери WebGL 2
+webgl2-driver-extensions = Васеъшавиҳои драйвери WebGL 2
+webgl2-extensions = Васеъшавиҳои WebGL 2
 glcontext-crash-guard = OpenGL
 sandbox-proc-type-content = муҳтаво
 sandbox-proc-type-file = муҳтавои файл
@@ -252,6 +262,15 @@ launcher-process-status-unknown = Вазъияти номаълум
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Аз тарафи озмоиш ғайрифаъол карда шуд
+fission-status-experiment-treatment = Аз тарафи озмоиш фаъол карда шуд
+fission-status-disabled-by-e10s-env = Аз тарафи муҳит ғайрифаъол карда шуд
+fission-status-enabled-by-env = Аз тарафи муҳит фаъол карда шуд
+fission-status-disabled-by-env = Аз тарафи муҳит ғайрифаъол карда шуд
 apz-none = ҳеҷ
 keyboard-enabled = клавиатура фаъол аст
 autoscroll-enabled = ҳаракати худкор фаъол аст
