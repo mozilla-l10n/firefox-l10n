@@ -16,6 +16,9 @@ import-address-book = Importar arquivo de catálogo de endereços
 import-calendar = Importar arquivo de agenda
 import-file = Importar de arquivo
 import-file-title = Selecione um arquivo para importar seu conteúdo.
+import-file-description = Escolha importar um backup de perfil, catálogos de endereços ou agendas.
+import-address-book-title = Importar arquivo de catálogo de endereços
+import-calendar-title = Importar arquivo de agenda
 export-profile = Exportar
 
 ## Buttons
@@ -24,6 +27,7 @@ button-cancel = Cancelar
 button-back = Voltar
 button-continue = Continuar
 button-export = Exportar
+button-finish = Concluir
 
 ## Import from app steps
 
