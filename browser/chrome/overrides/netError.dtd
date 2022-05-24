@@ -92,7 +92,7 @@ cookies.</li>
 </ul>">
 
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Certifique-se de que o seu sistema possui o Personal Security Manager 
+<li>Certifique-se de que o seu sistema tem o Personal Security Manager 
 instalado.</li> 
 <li>Isto pode ser devido a uma configuração não padrão do servidor.</li> 
 </ul>">
