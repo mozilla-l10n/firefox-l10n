@@ -3,162 +3,114 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 import-page-title = Importěrowaś
+export-page-title = Eksportěrowaś
 
 ## Header
 
 import-start = Importěrowański rěd
-
-import-start-desc = Importěrowańske nastajenja abo daty z nałoženja abo dataje.
-
+import-start-title = Nastajenja abo daty z nałoženja abo dataje importěrowaś.
+import-start-description = Wubjeŕśo žrědło, z kótaregož cośo importěrowaś. Pšose was pózdźej wubraś, kótare daty maju se importěrowaś.
 import-from-app = Z nałoženja importěrowaś
-
 import-from-app-desc = Wubjeŕśo, wótkulž maju se konta, adresniki, kalendarje a druge daty importěrowaś:
-
-import-from-file = Z dataje importěrowaś
-
 import-address-book = Adresnikowu dataju importěrowaś
-
 import-calendar = Dataju kalendarja importěrowaś
-
+import-file = Z dataje importěrowaś
 export-profile = Eksportěrowaś
 
 ## Buttons
 
 button-cancel = Pśetergnuś
-
 button-back = Slědk
-
 button-continue = Dalej
-
 button-export = Eksportěrowaś
 
 ## Import from app steps
 
 app-name-thunderbird = Thunderbird
-
 app-name-seamonkey = SeaMonkey
-
 app-name-outlook = Outlook
-
 app-name-becky = Becky! Internet Mail
-
 app-name-apple-mail = Apple Mail
-
-source-file = Z dataje importěrowaś
-
-## Import from file selections
-
-file-profile = Zawěsćony profil (.zip) importěrowaś
-
-file-calendar = Kalendarje importěrowaś
-
-file-addressbook = Adresniki importěrowaś
-
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Z { $app } importěrowaś
-
 profiles-pane-desc = Wubjeŕśo městno, wótkulž ma se importěrowaś
-
 profile-file-picker-dir = Wubjeŕśo profilowy zarědnik
-
 profile-file-picker-zip = Wubjeŕśo zip-dataju (mjeńšu ako 2 GB)
-
 items-pane-title = Wubjeŕśo, což ma se importěrowaś
-
 items-pane-source = Žrědłowe městno:
 
+## Import from file selections
+
+file-calendar = Kalendarje importěrowaś
+file-addressbook = Adresniki importěrowaś
+
+## Import from app profile steps
+
 items-pane-checkbox-accounts = Konta a nastajenja
-
 items-pane-checkbox-address-books = Adresniki
-
 items-pane-checkbox-calendars = Kalendarje
-
 items-pane-checkbox-mail-messages = Mejlki
 
 ## Import from address book file steps
 
 import-from-addr-book-file-desc = Wubjeŕśo dataju, kótaruž cośo importěrowaś:
-
 addr-book-csv-file = Dataja źělona pśez komu abo rejtarik (.csv, .tsv)
-
 addr-book-ldif-file = Dataja LDIF (.ldif)
-
 addr-book-vcard-file = Dataja vCard (.vcf, .vcard)
-
 addr-book-sqlite-file = Dataja datoweje banki SQLite (.sqlite)
-
 addr-book-mab-file = Dataja datoweje banki Mork (.mab)
-
 addr-book-file-picker = Adresnikowu dataju wubraś
-
 addr-book-csv-field-map-title = Pólnym mjenjam wótpowědowaś
-
 addr-book-csv-field-map-desc = Wubjeŕśo póla adresnika, kótarež žrědłowym pólam wótpowěduju. Znjemóžniśo póla, kótarež njocośo importěrowaś.
-
 addr-book-directories-pane-title = Wubjeŕśo zapis, kótaryž cośo importěrowaś do:
-
 addr-book-directories-pane-source = Žrědłowa dataja:
-
 addr-book-import-into-new-directory = Nowy zarědnik załožyś
 
 ## Import from address book file steps
 
+
+## Import from calendar file steps
+
 import-from-calendar-file-desc = Wubjeŕśo dataju iCalendar (.ics), kótaruž cośo importěrowaś:
-
 calendar-items-loading = Zapiski se cytaju…
-
 calendar-items-filter-input =
     .placeholder = Zapiski filtrowaś…
-
 calendar-select-all-items = Wšykne wubraś
-
 calendar-deselect-all-items = Wšykne wótwóliś
-
 calendar-import-into-new-calendar = Nowy kalender napóraś
 
 ## Import dialog
 
 progress-pane-importing = Importěrowanje
-
 progress-pane-exporting = Eksportěrowanje
-
 progress-pane-finished-desc = Dokóńcone.
-
 progress-pane-restart-desc = Startujśo znowego, aby importěrowanje dokóńcył.
-
 error-pane-title = Zmólka
-
 error-message-zip-file-too-big = Wubrana zip-dataja jo wětša ako 2 GB. Pšosym rozpakujśo ju nejpjerwjej, a importěrujśo wopśimjeśe z rozpakowanego zarědnika město togo.
-
 error-message-extract-zip-file-failed = Zip-dataja njedajo se rozpakowaś. Pšosym rozpakujśo ju manuelnje a importěrujśo ju pón město togo z ekstrahěrowanego zarědnika.
-
 error-message-failed = Importěrowanje njejo se njenaźejucy raźiło, dalšne informacije namakajośo snaź w zmólkowej konsoli.
-
 error-failed-to-parse-ics-file = Importěrujobne zapiski njejsu se namakali w dataji.
-
 error-export-failed = Eksportěrowanje njejo se njenaźejucy raźiło, dalšne informacije namakajośo snaź w zmólkowej konsoli.
 
 ## <csv-field-map> element
 
 csv-first-row-contains-headers = Prědna smužka wopśimujo pólowe mjenja
-
 csv-source-field = Žrědłowa dataja
-
 csv-source-first-record = Prědna datowa sajźba
-
 csv-source-second-record = Druga datowa sajźba
-
 csv-target-field = Pólo adresnika
 
 ## Export tab
 
 export-profile-desc = Eksportěrujśo e-mailowe konta, mejlki, adresniki, nastajenja do zip-dataje. Jolic trjeba, móžośo zip-dataju importěrowaś, aby swój profil wótnowił.
-
 export-profile-desc2 = Jolic waš aktualny profil jo wětšy ako 2 GB, naraźujomy, až jen zawěsćujośo.
-
 export-open-profile-folder = Profilowy zarědnik wócyniś
-
 export-file-picker = Ako zip-dataju eksportěrowaś
-
 export-brand-name = { -brand-product-name }
+
+## Summary pane
+
+
+## Footer area
+
