@@ -24,3 +24,13 @@ message-header-user-agent-field = Uporabniški agent<span data-l10n-name="field-
 message-header-references-field = Sklici<span data-l10n-name="field-separator">:</span>
 message-header-message-id-field = ID sporočila<span data-l10n-name="field-separator">:</span>
 message-header-website-field = Spletno mesto<span data-l10n-name="field-separator">:</span>
+message-header-address-in-address-book-icon2 =
+    .alt = V imeniku
+message-header-address-not-in-address-book-icon2 =
+    .alt = Ni v imeniku
+message-header-address-not-in-address-book-button =
+    .title = Shrani ta naslov v imenik
+message-header-address-in-address-book-button =
+    .title = Uredi stik
+message-header-field-show-more = Več
+    .title = Prikaži vse prejemnike
