@@ -598,7 +598,7 @@
 <!ENTITY appmenuNewMsgCmd.label "Nove message">
 <!ENTITY appmenuNewContactCmd.label "Contacto del libro de adresses…">
 <!ENTITY appmenuEditMenu.label "Rediger">
-<!ENTITY appmenuToolbarLayout.label "Barra del instrumentos mappa…">
+<!ENTITY appmenuToolbarLayout.label "Arrangiar le barras de instrumentos…">
 <!ENTITY appmenuSelectThread.label "Discussion eligite">
 <!ENTITY appmenuSelectFlagged.label "Eliger messages stellate">
 

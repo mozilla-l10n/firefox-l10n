@@ -75,7 +75,7 @@ mail-uidensity-touch =
     .label = Tactile
     .accesskey = T
 menu-spaces-toolbar-button =
-    .label = Barra del spatios
+    .label = Barra de spatios
     .accesskey = s
 
 ## File

@@ -185,13 +185,13 @@ decrypt-and-copy-failures = { $failures } de { $total } messages non pote esser 
 ## Spaces toolbar
 
 spaces-toolbar-element =
-    .toolbarname = Barra de instrumentos del spatios
-    .aria-label = Barra de instrumentos del spatios
-    .aria-description = Barra de instrumentos vertical pro passar inter spatios differente. Usa le claves flecha pro navigar le buttones disponibile.
+    .toolbarname = Barra de spatios
+    .aria-label = Barra de spatios
+    .aria-description = Barra de instrumentos vertical pro passar inter spatios differente. Usa le claves flecha pro navigar per le buttones disponibile.
 spaces-toolbar-button-mail2 =
-    .title = Email
+    .title = E-mail
 spaces-toolbar-button-address-book2 =
-    .title = Libro del adresses
+    .title = Libro de adresses
 spaces-toolbar-button-calendar2 =
     .title = Agenda
 spaces-toolbar-button-tasks2 =
@@ -203,9 +203,9 @@ spaces-toolbar-button-overflow =
 spaces-toolbar-button-settings2 =
     .title = Parametros
 spaces-toolbar-button-hide =
-    .title = Celar barra del spatios
+    .title = Celar barra de spatios
 spaces-toolbar-button-show =
-    .title = Monstrar barra del spatios
+    .title = Monstrar barra de spatios
 spaces-context-new-tab-item =
     .label = Aperir un nove scheda
 spaces-context-new-window-item =
@@ -258,7 +258,7 @@ chat-button-unread-messages = { $count }
 
 menuitem-customize-label =
     .label = Personalisar…
-spaces-customize-panel-title = Parametros de barra del instrumentos spatios
+spaces-customize-panel-title = Parametros del barra de spatios
 spaces-customize-background-color = Color de fundo
 spaces-customize-icon-color = Color de button
 # The background color used on the buttons of the spaces toolbar when they are
