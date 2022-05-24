@@ -123,12 +123,12 @@ addr-book-import-into-new-directory = Crear un nove directorio
 
 ## Import from calendar file steps
 
-import-from-calendar-file-desc = Elige le file iCalendar (.ics) que tu vole importar.
+import-from-calendar-file-desc = Selige le file iCalendar (.ics) que tu vole importar.
 calendar-items-title = Selige le elementos a importar.
 calendar-items-loading = Cargante elementos…
 calendar-items-filter-input =
-    .placeholder = Filtro del elementos…
-calendar-select-all-items = Eliger toto
+    .placeholder = Filtrar elementos…
+calendar-select-all-items = Seliger toto
 calendar-deselect-all-items = De-seliger toto
 calendar-import-into-new-calendar = Crear un nove agenda
 
