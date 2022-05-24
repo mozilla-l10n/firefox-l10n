@@ -69,6 +69,12 @@ about-addressbook-sort-email-ascending =
     .label = Ταξινόμηση κατά διεύθυνση email (A > Z)
 about-addressbook-sort-email-descending =
     .label = Ταξινόμηση κατά διεύθυνση email (Z > A)
+
+## Card column headers
+## Each string is listed here twice, and the values should match.
+
+about-addressbook-column-label-addrbook =
+    .label = { about-addressbook-column-header-addrbook }
 about-addressbook-cards-context-write =
     .label = Σύνταξη
 about-addressbook-confirm-delete-mixed-title = Διαγραφή επαφών και λιστών
