@@ -21,6 +21,7 @@ perftools-heading-features-default = Λειτουργίες (Προτείνετ�
 perftools-heading-features-disabled = Ανενεργές λειτουργίες
 perftools-heading-features-experimental = Πειραματικό
 perftools-heading-threads = Νήματα
+perftools-heading-threads-jvm = Νήματα JVM
 perftools-heading-local-build = Τοπική έκδοση δομής
 
 ##
@@ -42,9 +43,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Μέγεθος buffer:
-
 perftools-custom-threads-label = Προσθήκη προσαρμοσμένων νημάτων ανά όνομα:
-
 perftools-devtools-interval-label = Διάστημα:
 perftools-devtools-threads-label = Νήματα:
 perftools-devtools-settings-label = Ρυθμίσεις
@@ -96,11 +95,12 @@ perftools-thread-dns-resolver =
     .title = Η ανάλυση DNS συμβαίνει σε αυτό το thread
 perftools-thread-task-controller =
     .title = Νήματα του TaskController pool
+perftools-thread-jvm-gecko =
+    .title = Το κύριο νήμα Gecko JVM
 
 ##
 
 perftools-record-all-registered-threads = Παράκαμψη των παραπάνω επιλογών και εγγραφή όλων των καταχωρημένων νημάτων
-
 perftools-tools-threads-input-label =
     .title = Αυτά τα ονόματα νημάτων είναι σε λίστα με διαχωρισμό με κόμματα όπου χρησιμοποιείται για την ενεργοποίηση της δημιουργίας προφίλ για νήματα στο εργαλείο προφίλ. Το όνομα θα πρέπει να περιέχει ένα μέρος του ονόματος του νήματος για αντιστοίχιση. Γίνεται διάκριση στο κενό διάστημα.
 
@@ -108,14 +108,13 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Νέο</b>: Το { -profiler-brand-name } έχει ενσωματωθεί στα Εργαλεία προγραμματιστών. <a>Μάθετε περισσότερα</a> σχετικά με αυτό το νέο ισχυρό εργαλείο.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Για περιορισμένο χρονικό διάστημα, μπορείτε να ανοίξετε το αρχικό παράθυρο «Επιδόσεις» από τις <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Κλείσιμο μηνύματος υποδοχής
 
@@ -128,19 +127,14 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Ανάπτυξη web
 perftools-presets-web-developer-description = Προτεινόμενη προεπιλογή για τον έλεγχο σφαλμάτων των περισσότερων εφαρμογών ιστού με χαμηλό κόστος.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Προτεινόμενη προεπιλογή για την καταγραφή προφίλ στο { -brand-shorter-name }.
-
 perftools-presets-graphics-label = Γραφικά
 perftools-presets-graphics-description = Προτεινόμενη προεπιλογή για τη διερεύνηση σφαλμάτων γραφικών στο { -brand-shorter-name }.
-
 perftools-presets-media-label = Πολυμέσα
 perftools-presets-media-description2 = Προτεινόμενη προεπιλογή για τη διερεύνηση σφαλμάτων ήχου και βίντεο στο { -brand-shorter-name }.
-
 perftools-presets-networking-label = Δικτύωση
 perftools-presets-networking-description = Προτεινόμενη προεπιλογή για τη διερεύνηση σφαλμάτων δικτύωσης στο { -brand-shorter-name }.
-
 perftools-presets-custom-label = Προσαρμογή
 
 ##
