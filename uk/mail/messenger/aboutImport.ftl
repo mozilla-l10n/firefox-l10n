@@ -166,3 +166,7 @@ export-brand-name = { -brand-product-name }
 
 ## Footer area
 
+footer-help = Потрібна допомога?
+footer-import-documentation = Документація з імпорту
+footer-export-documentation = Документація з експорту
+footer-support-forum = Форум підтримки

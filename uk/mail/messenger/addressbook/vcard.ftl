@@ -35,6 +35,8 @@ vcard-n-add-suffix =
 vcard-email-header = Адреси електронної пошти
 vcard-email-add = Додати адресу електронної пошти
 vcard-email-label = Адреса електронної пошти
+vcard-email-choose-primary = Типова
+    .aria-label = Виберіть свою основну адресу електронної пошти
 
 # URL vCard field
 
