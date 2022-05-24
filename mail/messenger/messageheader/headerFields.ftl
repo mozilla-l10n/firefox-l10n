@@ -25,3 +25,7 @@ message-header-address-in-address-book-icon2 =
     .alt = V adresári
 message-header-address-not-in-address-book-icon2 =
     .alt = Nie je v adresári
+message-header-address-in-address-book-button =
+    .title = Upraviť kontakt
+message-header-field-show-more = Ďalší
+    .title = Zobraziť všetkých príjemcov
