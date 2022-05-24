@@ -44,6 +44,7 @@
 <!ENTITY sync.label "Synkronointi">
 
 <!ENTITY advance.label "Lisäasetukset">
+<!ENTITY scriptsAndWindows2.label "Komentosarjat">
 <!ENTITY keynav.label "Näppäimistönavigointi">
 <!ENTITY findAsYouType.label "Pikahaut">
 <!ENTITY cache.label "Väliaikaistiedostot">
@@ -52,7 +53,6 @@
 <!ENTITY httpnetworking.label "HTTP-asetukset">
 <!ENTITY smart.label "Ohjelmistoasennukset">
 <!ENTITY mousewheel.label "Hiiren rulla">
-
 <!ENTITY debugging.label "Virheenjäljitys">
 
 <!ENTITY focusSearch.key "f">
