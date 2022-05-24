@@ -21,6 +21,7 @@ perftools-heading-features-default = Функції (Рекомендовано 
 perftools-heading-features-disabled = Вимкнені функції
 perftools-heading-features-experimental = Експериментальне
 perftools-heading-threads = Потоки
+perftools-heading-threads-jvm = Потоки JVM
 perftools-heading-local-build = Локальна збірка
 
 ##
@@ -42,9 +43,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Розмір буфера:
-
 perftools-custom-threads-label = Додати власні потоки за назвою:
-
 perftools-devtools-interval-label = Інтервал:
 perftools-devtools-threads-label = Потоки:
 perftools-devtools-settings-label = Налаштування
@@ -96,11 +95,22 @@ perftools-thread-dns-resolver =
     .title = У цьому потоці відбувається визначення DNS
 perftools-thread-task-controller =
     .title = Потоки збірних потоків TaskController
+perftools-thread-jvm-gecko =
+    .title = Основний потік Gecko JVM
+perftools-thread-jvm-nimbus =
+    .title = Основні потоки для експериментального Nimbus SDK
+perftools-thread-jvm-default-dispatcher =
+    .title = Усталений диспетчер для бібліотеки співпрограм Kotlin
+perftools-thread-jvm-glean =
+    .title = Основні потоки для пакунка телеметрії Glean SDK
+perftools-thread-jvm-arch-disk-io =
+    .title = Диспетчер IO для бібліотеки співпрограм Kotlin
+perftools-thread-jvm-pool =
+    .title = Потоки, створені в об'єднанні потоків без назви
 
 ##
 
 perftools-record-all-registered-threads = Обходити вибране вгорі й записувати всі зареєстровані потоки
-
 perftools-tools-threads-input-label =
     .title = Назви потоків є розділеним комами списком, що використовується для увімкнення профілювання потоків у Profiler. Для включення, назва повинна мати лише частковий збіг з назвою потоку. Вони чутливі до пробілів.
 
@@ -108,14 +118,13 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Нове</b>: { -profiler-brand-name } тепер вбудовано в Інструменти розробника. <a>Дізнайтеся докладніше</a> про цей потужний новий інструмент.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Впродовж обмеженого часу ви можете отримати доступ до оригінальної панелі швидкодії через <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Закрити вітальне повідомлення
 
@@ -128,19 +137,14 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Веброзробник
 perftools-presets-web-developer-description = Рекомендовані попередні налаштування для зневадження більшості застосунків. З низькими споживанням ресурсів.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Рекомендовані налаштування для профілювання { -brand-shorter-name }.
-
 perftools-presets-graphics-label = Графіка
 perftools-presets-graphics-description = Налаштування для виявлення помилок графіки в { -brand-shorter-name }.
-
 perftools-presets-media-label = Медіа
 perftools-presets-media-description2 = Налаштування для виявлення помилок аудіо та відео в { -brand-shorter-name }.
-
 perftools-presets-networking-label = Мережа
 perftools-presets-networking-description = Налаштування для виявлення помилок мережі в { -brand-shorter-name }.
-
 perftools-presets-custom-label = Власні
 
 ##
