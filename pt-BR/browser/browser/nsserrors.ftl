@@ -12,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Ocorreu um erro durante uma conexão com { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Código do erro: { $error }
-
 psmerr-ssl-disabled = Não foi possível conectar com segurança porque o protocolo SSL foi desativado.
 psmerr-ssl2-disabled = Não foi possível conectar com segurança porque o site usa uma versão antiga e não segura do protocolo SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Você recebeu um certificado inválido. Entre em contato com o administrador do servidor e forneça as seguintes informações:
     
     Seu certificado contém o mesmo número de série que o de outro certificado emitido pela autoridade certificadora. Providencie um novo certificado contendo um número de série único.
-
 ssl-error-export-only-server = Não foi possível comunicar com segurança. O sistema remoto não oferece suporte a criptografia de alto grau.
 ssl-error-us-only-server = Não foi possível comunicar com segurança. O sistema remoto necessita de criptografia de alto nível que não é suportada.
 ssl-error-no-cypher-overlap = Não foi possível comunicar com segurança com o sistema remoto: não há algoritmo(s) de criptografia em comum.
@@ -130,7 +126,7 @@ ssl-error-no-renegotiation-alert = O sistema remoto não permite renegociação 
 ssl-error-server-cache-not-configured = Cache do servidor SSL não configurado e não desativado para este socket.
 ssl-error-unsupported-extension-alert = O sistema remoto SSL não oferece suporte à extensão solicitada TLS hello.
 ssl-error-certificate-unobtainable-alert = O sistema remoto SSL não pôde obter seu certificado pela URL fornecida.
-ssl-error-unrecognized-name-alert = O sistema remoto SSL não possui certificado para o nome de DNS solicitado.
+ssl-error-unrecognized-name-alert = O sistema remoto SSL não tem certificado do nome de DNS solicitado.
 ssl-error-bad-cert-status-response-alert = O sistema remoto SSL não conseguiu obter uma resposta OCSP para o certificado dele.
 ssl-error-bad-cert-hash-value-alert = O sistema remoto SSL reportou valor incorreto do hash do certificado.
 ssl-error-rx-unexpected-new-session-ticket = O SSL recebeu uma mensagem “New Session Ticket” não esperada no processo de handshake.
@@ -172,7 +168,7 @@ sec-error-invalid-algorithm = biblioteca de segurança: algoritmo inválido.
 sec-error-invalid-ava = biblioteca de segurança: AVA inválido.
 sec-error-invalid-time = String de hora formatada incorretamente.
 sec-error-bad-der = biblioteca de segurança: mensagem codificada com DER formatada incorretamente.
-sec-error-bad-signature = O certificado do sistema remoto possui uma assinatura inválida.
+sec-error-bad-signature = O certificado do sistema remoto tem uma assinatura inválida.
 sec-error-expired-certificate = O certificado do sistema remoto está com a validade vencida.
 sec-error-revoked-certificate = O certificado do sistema remoto foi revogado.
 sec-error-unknown-issuer = A entidade certificadora do sistema remoto não é reconhecida.
@@ -195,7 +191,7 @@ sec-error-cert-no-response = Biblioteca de certificados: sem resposta
 sec-error-expired-issuer-certificate = O certificado da entidade certificadora expirou. Verifique a data e hora do seu sistema.
 sec-error-crl-expired = A CRL para emissores de certificados expirou. Atualize ou verifique a data e hora do seu sistema.
 sec-error-crl-bad-signature = A CRL do emissor do certificado tem uma assinatura inválida.
-sec-error-crl-invalid = A nova CRL possui um formato inválido.
+sec-error-crl-invalid = A nova CRL tem um formato inválido.
 sec-error-extension-value-invalid = O valor da extensão de certificado é inválido.
 sec-error-extension-not-found = Extensão de certificado não encontrada.
 sec-error-ca-cert-invalid = O certificado do emissor é inválido.
@@ -206,7 +202,7 @@ sec-error-invalid-key = A chave não oferece suporte à operação solicitada.
 sec-error-unknown-critical-extension = O certificado contém uma extensão obrigatória desconhecida.
 sec-error-old-crl = A nova CRL não é mais recente que a utilizada no momento.
 sec-error-no-email-cert = Não criptografado nem assinado: você ainda não tem um certificado de email.
-sec-error-no-recipient-certs-query = Não criptografado: você não possui certificados para cada um dos destinatários.
+sec-error-no-recipient-certs-query = Não criptografado: Você não tem certificados de cada um dos destinatários.
 sec-error-not-a-recipient = Não é possível descriptografar: você não é o destinatário ou o certificado correspondente ou a chave privativa não foram encontrados.
 sec-error-pkcs7-keyalg-mismatch = Não é possível descriptografar: a chave de criptografia não confere com a do seu certificado.
 sec-error-pkcs7-bad-signature = Falha na verificação de assinatura: nenhum signatário encontrado, muitos signatários encontrados ou dados corrompidos ou incorretos.
@@ -222,9 +218,9 @@ xp-sec-fortezza-bad-pin = Pin inválido
 xp-sec-fortezza-person-error = Não foi possível inicializar as identidades Fortezza.
 sec-error-no-krl = Nenhuma KRL para o certificado deste site foi encontrada.
 sec-error-krl-expired = A validade da KRL para o certificado deste site está vencida.
-sec-error-krl-bad-signature = A validade da KRL para o certificado deste site possui uma assinatura inválida.
+sec-error-krl-bad-signature = A KRL do certificado deste site tem uma assinatura inválida.
 sec-error-revoked-key = A chave para o certificado deste site foi revogada.
-sec-error-krl-invalid = O novo KRL possui um formato inválido.
+sec-error-krl-invalid = A nova KRL tem um formato inválido.
 sec-error-need-random = biblioteca de segurança: são necessários dados aleatórios.
 sec-error-no-module = biblioteca de segurança: nenhum módulo de segurança pode efetuar a operação solicitada.
 sec-error-no-token = O cartão de segurança ou token não existe, precisa ser inicializado ou foi removido.
@@ -266,7 +262,7 @@ sec-error-keygen-fail = Não foi possível gerar o par de chaves pública/privad
 sec-error-invalid-password = A senha digitada é inválida. Escolha uma diferente.
 sec-error-retry-old-password = A senha antiga foi digitada incorretamente. Tente novamente.
 sec-error-bad-nickname = O nickname do certificado já está em uso.
-sec-error-not-fortezza-issuer = A cadeia FORTEZZA do sistema remoto possui um certificado não FORTEZZA.
+sec-error-not-fortezza-issuer = A cadeia FORTEZZA do sistema remoto tem um certificado não FORTEZZA.
 sec-error-cannot-move-sensitive-key = Uma chave confidencial não pôde ser movida para o slot onde era necessária.
 sec-error-js-invalid-module-name = Nome do módulo inválido.
 sec-error-js-invalid-dll = Caminho ou nome do arquivo do módulo inválido
@@ -279,7 +275,7 @@ sec-error-krl-not-yet-valid = A lista de revogação de chaves deste certificado
 sec-error-crl-not-yet-valid = A lista de revogação de certificados deste certificado ainda não é válida.
 sec-error-unknown-cert = O certificado solicitado não pôde ser encontrado.
 sec-error-unknown-signer = O certificado do signatário não pôde ser localizado.
-sec-error-cert-bad-access-location = O endereço do servidor de status de certificado possui um formato inválido.
+sec-error-cert-bad-access-location = O local do servidor de status de certificado tem formato inválido.
 sec-error-ocsp-unknown-response-type = A resposta OCSP não pode ser totalmente decodificada; é de um tipo desconhecido.
 sec-error-ocsp-bad-http-response = O servidor OCSP retornou dados HTTP não esperados ou inválidos.
 sec-error-ocsp-malformed-request = O servidor OCSP considerou que a requisição estava corrompida ou formada incorretamente.
@@ -288,7 +284,7 @@ sec-error-ocsp-try-server-later = O servidor OCSP sugere tentar de novo mais tar
 sec-error-ocsp-request-needs-sig = O servidor OCSP necessita de uma assinatura para esta requisição.
 sec-error-ocsp-unauthorized-request = O servidor OCSP recusou esta requisição como não autorizada.
 sec-error-ocsp-unknown-response-status = O servidor OCSP retornou um status não reconhecido.
-sec-error-ocsp-unknown-cert = O servidor OCSP não possui o status deste certificado.
+sec-error-ocsp-unknown-cert = O servidor OCSP não tem status deste certificado.
 sec-error-ocsp-not-enabled = Você precisa ativar o OCSP antes de efetuar esta operação.
 sec-error-ocsp-no-default-responder = Você deve definir um servidor OCSP padrão antes de efetuar esta operação.
 sec-error-ocsp-malformed-response = A resposta do servidor OCSP estava corrompida ou formatada incorretamente.
@@ -319,7 +315,7 @@ sec-error-crl-already-exists = A CRL já existe.
 sec-error-not-initialized = NSS não está inicializado.
 sec-error-token-not-logged-in = A operação falhou porque o token PKCS#11 não identificou-se (login).
 sec-error-ocsp-responder-cert-invalid = O certificado do servidor OCSP configurado é inválido.
-sec-error-ocsp-bad-signature = A resposta OCSP possui uma assinatura inválida.
+sec-error-ocsp-bad-signature = A resposta OCSP tem uma assinatura inválida.
 sec-error-out-of-search-limits = Cert validation search is out of search limits
 sec-error-invalid-policy-mapping = Policy mapping contains anypolicy
 sec-error-policy-validation-failed = Cert chain fails policy validation
