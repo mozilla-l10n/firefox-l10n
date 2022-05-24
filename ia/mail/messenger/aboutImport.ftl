@@ -88,6 +88,9 @@ file-addressbook-description = Elige un file que contine libros de adresses e co
 
 from-app-thunderbird = Importar ab un profilo { app-name-thunderbird }
 from-app-seamonkey = Importar ab un profilo { app-name-seamonkey }
+from-app-outlook = Importar de { app-name-outlook }
+from-app-becky = Importar ab { app-name-becky }
+from-app-apple-mail = Importar ab { app-name-apple-mail }
 items-pane-profile-name = Nomine del profilo:
 items-pane-checkbox-accounts = Contos e parametros
 items-pane-checkbox-address-books = Libros de adresses
