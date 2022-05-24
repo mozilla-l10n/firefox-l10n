@@ -73,14 +73,31 @@ from-app-seamonkey = Z profila { app-name-seamonkey } importěrowaś
 from-app-outlook = Z { app-name-outlook } importěrowaś
 from-app-becky = Z { app-name-becky } importěrowaś
 from-app-apple-mail = Z { app-name-apple-mail } importěrowaś
+profiles-pane-title-thunderbird = Nastajenja a daty z profila { app-name-thunderbird } importěrowaś
+profiles-pane-title-seamonkey = Nastajenja a daty z profila { app-name-seamonkey } importěrowaś
+profiles-pane-title-outlook = Daty z { app-name-outlook } importěrowaś.
+profiles-pane-title-becky = Daty z { app-name-becky } importěrowaś.
+profiles-pane-title-apple-mail = Powěsći z { app-name-apple-mail } importěrowaś.
+profile-source = Z profila importěrowaś
+# $profileName (string) - name of the profile
+profile-source-named = Z profila <strong>"{ $profileName }"</strong> importěrowaś
+profile-file-picker-directory = Profilowy zarědnik wubraś
+profile-file-picker-archive = <strong>ZIP</strong>-dataju wubraś
+profile-file-picker-archive-description = ZIP-dataja musy mjeńša ako 2 GB byś.
+profile-file-picker-archive-title = Wubjeŕśo ZIP-dataju (mjeńšu ako 2 GB)
+items-pane-title2 = Wubjeŕśo, což ma se importěrowaś:
+items-pane-directory = Zapis:
+items-pane-profile-name = Profilowe mě:
 items-pane-checkbox-accounts = Konta a nastajenja
 items-pane-checkbox-address-books = Adresniki
 items-pane-checkbox-calendars = Kalendarje
 items-pane-checkbox-mail-messages = Mejlki
+items-pane-override = Eksistěrujuce abo identiske daty se njepśepišu.
 
 ## Import from address book file steps
 
 import-from-addr-book-file-desc = Wubjeŕśo dataju, kótaruž cośo importěrowaś:
+import-from-addr-book-file-description = Wubjeŕśo datajowy format, kótaryž waše adresnikowe daty wopśimujo.
 addr-book-csv-file = Dataja źělona pśez komu abo rejtarik (.csv, .tsv)
 addr-book-ldif-file = Dataja LDIF (.ldif)
 addr-book-vcard-file = Dataja vCard (.vcf, .vcard)
@@ -90,21 +107,43 @@ addr-book-file-picker = Adresnikowu dataju wubraś
 addr-book-csv-field-map-title = Pólnym mjenjam wótpowědowaś
 addr-book-csv-field-map-desc = Wubjeŕśo póla adresnika, kótarež žrědłowym pólam wótpowěduju. Znjemóžniśo póla, kótarež njocośo importěrowaś.
 addr-book-directories-pane-title = Wubjeŕśo zapis, kótaryž cośo importěrowaś do:
+addr-book-directories-title = Wubjeŕśo, źož ma se wubrane daty importěrowaś.
 addr-book-directories-pane-source = Žrědłowa dataja:
 addr-book-import-into-new-directory = Nowy zarědnik załožyś
 
 ## Import from address book file steps
 
+# $addressBookName (string) - name of the new address book that would be created.
+addr-book-import-into-new-directory2 = Napórajśo nowy zapis z mjenim <strong>„{ $addressBookName }“</strong>
+# $addressBookName (string) - name of the address book to import into
+addr-book-summary-title = Importěrujśo wubrane daty do zapisa „{ $addressBookName }“
+# $addressBookName (string) - name of the address book that will be created.
+addr-book-summary-description = Nowy adresnik z mjenim „{ $addressBookName }“ se napórajo.
 
 ## Import from calendar file steps
 
 import-from-calendar-file-desc = Wubjeŕśo dataju iCalendar (.ics), kótaruž cośo importěrowaś:
+calendar-items-title = Wubjeŕśo elementy za importěrowanje.
 calendar-items-loading = Zapiski se cytaju…
 calendar-items-filter-input =
     .placeholder = Zapiski filtrowaś…
 calendar-select-all-items = Wšykne wubraś
 calendar-deselect-all-items = Wšykne wótwóliś
 calendar-import-into-new-calendar = Nowy kalender napóraś
+calendar-target-title = Wubjeŕśo, źož ma se wubrane elementy importěrowaś.
+# $targetCalendar (string) - name of the new calendar that would be created
+calendar-import-into-new-calendar2 = Napórajśo nowy kalender z mjenim <strong>„{ $targetCalendar }“</strong>
+# $itemCount (number) - count of selected items (tasks, events) that will be imported
+# $targetCalendar (string) - name of the calendar the items will be imported into
+calendar-summary-title =
+    { $itemCount ->
+        [one] { $itemCount } element do kalendera „{ $targetCalendar }“ importěrowaś
+        [two] { $itemCount } elementa do kalendera „{ $targetCalendar }“ importěrowaś
+        [few] { $itemCount } elementy do kalendera „{ $targetCalendar }“ importěrowaś
+       *[other] { $itemCount } elementow do kalendera „{ $targetCalendar }“ importěrowaś
+    }
+# $targetCalendar (string) - name of the calendar that will be created
+calendar-summary-description = Nowy kalender z mjenim „{ $targetCalendar }“ se napórajo.
 
 ## Import dialog
 
@@ -112,12 +151,20 @@ progress-pane-importing = Importěrowanje
 progress-pane-exporting = Eksportěrowanje
 progress-pane-finished-desc = Dokóńcone.
 progress-pane-restart-desc = Startujśo znowego, aby importěrowanje dokóńcył.
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-importing2 = Importěrujo se… { $progressPercent }
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-exporting2 = Eksportěrujo se… { $progressPercent }
+progress-pane-finished-desc2 = Dokóńcone.
 error-pane-title = Zmólka
 error-message-zip-file-too-big = Wubrana zip-dataja jo wětša ako 2 GB. Pšosym rozpakujśo ju nejpjerwjej, a importěrujśo wopśimjeśe z rozpakowanego zarědnika město togo.
 error-message-extract-zip-file-failed = Zip-dataja njedajo se rozpakowaś. Pšosym rozpakujśo ju manuelnje a importěrujśo ju pón město togo z ekstrahěrowanego zarědnika.
+error-message-zip-file-too-big2 = Wubrana ZIP-dataja jo wětša ako 2 GB. Pšosym rozpakujśo ju nejpjerwjej, a importěrujśo wopśimjeśe z rozpakowanego zarědnika město togo.
+error-message-extract-zip-file-failed2 = ZIP-dataja njedajo se rozpakowaś. Pšosym rozpakujśo ju manuelnje a importěrujśo ju pón město togo z ekstrahěrowanego zarědnika.
 error-message-failed = Importěrowanje njejo se njenaźejucy raźiło, dalšne informacije namakajośo snaź w zmólkowej konsoli.
 error-failed-to-parse-ics-file = Importěrujobne zapiski njejsu se namakali w dataji.
 error-export-failed = Eksportěrowanje njejo se njenaźejucy raźiło, dalšne informacije namakajośo snaź w zmólkowej konsoli.
+error-message-no-profile = Žeden profil namakany.
 
 ## <csv-field-map> element
 
@@ -131,12 +178,18 @@ csv-target-field = Pólo adresnika
 
 export-profile-desc = Eksportěrujśo e-mailowe konta, mejlki, adresniki, nastajenja do zip-dataje. Jolic trjeba, móžośo zip-dataju importěrowaś, aby swój profil wótnowił.
 export-profile-desc2 = Jolic waš aktualny profil jo wětšy ako 2 GB, naraźujomy, až jen zawěsćujośo.
+export-profile-title = Konta, powěsći, adresniki a nastajenja do ZIP-dataje eksportěrowaś.
+export-profile-description = Jolic waš aktualny profil jo wětšy ako 2 GB, naraźujomy, až jen zawěsćujośo.
 export-open-profile-folder = Profilowy zarědnik wócyniś
 export-file-picker = Ako zip-dataju eksportěrowaś
+export-file-picker2 = Do ZIP-dataje eksportěrowaś
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-title = Daty, kótarež se maju importěrowaś
+summary-pane-start = Import zachopiś
+summary-pane-warning = Musyśo { -brand-product-name } znowego startowaś, aby se importěrowanje dokóńcyło.
 
 ## Footer area
 
