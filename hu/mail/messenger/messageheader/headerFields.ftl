@@ -18,3 +18,15 @@ message-header-subject-field = Tárgy<span data-l10n-name="field-separator">:</s
 message-header-cc-field = Másolatot kap<span data-l10n-name="field-separator">:</span>
 message-header-bcc-field = Titkos másolat<span data-l10n-name="field-separator">:</span>
 message-header-newsgroups-field = Hírcsoportok<span data-l10n-name="field-separator">:</span>
+message-header-followup-to-field = Válasz a következőre:<span data-l10n-name="field-separator">:</span>
+message-header-tags-field = Címkék<span data-l10n-name="field-separator">:</span>
+message-header-date-field = Dátum<span data-l10n-name="field-separator">:</span>
+message-header-user-agent-field = Felhasználói ügynök<span data-l10n-name="field-separator">:</span>
+message-header-references-field = Hivatkozások<span data-l10n-name="field-separator">:</span>
+message-header-message-id-field = Üzenetazonosító<span data-l10n-name="field-separator">:</span>
+message-header-in-reply-to-field = Válasz erre:<span data-l10n-name="field-separator">:</span>
+message-header-website-field = Webhely<span data-l10n-name="field-separator">:</span>
+message-header-address-in-address-book-icon2 =
+    .alt = Szerepel a címjegyzékben
+message-header-address-not-in-address-book-icon2 =
+    .alt = Nem szerepel a címjegyzékben
