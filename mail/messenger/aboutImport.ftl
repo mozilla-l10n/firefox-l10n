@@ -131,6 +131,8 @@ calendar-select-all-items = Вибрати все
 calendar-deselect-all-items = Зняти все
 calendar-import-into-new-calendar = Створити новий календар
 calendar-target-title = Виберіть, куди імпортувати вибрані елементи
+# $targetCalendar (string) - name of the new calendar that would be created
+calendar-import-into-new-calendar2 = Створіть новий календар під назвою <strong>«{ $targetCalendar }»</strong>
 
 ## Import dialog
 
