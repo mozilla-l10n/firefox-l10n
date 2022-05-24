@@ -148,6 +148,18 @@ calendar-items-filter-input =
 calendar-select-all-items = Seliger toto
 calendar-deselect-all-items = De-seliger toto
 calendar-import-into-new-calendar = Crear un nove agenda
+calendar-target-title = Elige ubi importar le elementos eligite.
+# $targetCalendar (string) - name of the new calendar that would be created
+calendar-import-into-new-calendar2 = Crear un nove agenda appellate <strong>"{ $targetCalendar }"</strong>
+# $itemCount (number) - count of selected items (tasks, events) that will be imported
+# $targetCalendar (string) - name of the calendar the items will be imported into
+calendar-summary-title =
+    { $itemCount ->
+        [one] Importar un elemento in le agenda "{ $targetCalendar }"
+       *[other] Importar { $itemCount } elementos in le agenda "{ $targetCalendar }"
+    }
+# $targetCalendar (string) - name of the calendar that will be created
+calendar-summary-description = Un nove agenda appellate "{ $targetCalendar }" sera create.
 
 ## Import dialog
 
@@ -155,6 +167,10 @@ progress-pane-importing = Importation
 progress-pane-exporting = Exportation
 progress-pane-finished-desc = Finite.
 progress-pane-restart-desc = Reinitiar pro finir de importar.
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-importing2 = Importation de… { $progressPercent }
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-exporting2 = Exportante… { $progressPercent }
 progress-pane-finished-desc2 = Complete.
 error-pane-title = Error
 error-message-zip-file-too-big = Le file zip seligite, es major de 2GB. In vice abstrahe lo antea primo, postea importa lo ab le plicas extrahite.
@@ -164,6 +180,7 @@ error-message-extract-zip-file-failed2 = Impossibile extraher le file zip. In vi
 error-message-failed = Le importation falleva inspectatemente, Altere informationes pote esser disponibile in le Consola de error.
 error-failed-to-parse-ics-file = Elemento non importabile trovate in le file.
 error-export-failed = Le exportation falleva inspectatemente, altere informationes pote esser disponibile in le Consola de error.
+error-message-no-profile = Nulle profilo trovate.
 
 ## <csv-field-map> element
 
@@ -177,6 +194,8 @@ csv-target-field = Campo del libro de adresses
 
 export-profile-desc = Exporta contos e-mail, messages e-mail, libros de adresses, parametros a in un file zip. Quando necessari, tu pote importar le file zip pro restaurar tu profilo.
 export-profile-desc2 = Si tu actual profilo es major de 2GB, nos te suggere de reservar lo tu mesme.
+export-profile-title = Exportar contos, messages, libros de adresses e parametros a in un file ZIP.
+export-profile-description = Si tu actual profilo es major de 2GB, nos te suggere de reservar lo tu mesme.
 export-open-profile-folder = Aperir le plica del profilo
 export-file-picker = Exportar a un file zip
 export-brand-name = { -brand-product-name }
