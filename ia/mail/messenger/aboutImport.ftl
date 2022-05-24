@@ -80,10 +80,14 @@ source-file-description =
 file-profile2 = Importar profilo archivate
 file-profile-description = Elige un profilo Thunderbird previemente reservate (.zip)
 file-calendar = Importar agendas
+file-calendar-description = Elige un file que contine o eventos exportate (.ics)
 file-addressbook = Importar libros del adresses
+file-addressbook-description = Elige un file que contine libros de adresses e contactos exportate
 
 ## Import from app profile steps
 
+from-app-thunderbird = Importar ab un profilo { app-name-thunderbird }
+from-app-seamonkey = Importar ab un profilo { app-name-seamonkey }
 items-pane-profile-name = Nomine del profilo:
 items-pane-checkbox-accounts = Contos e parametros
 items-pane-checkbox-address-books = Libros de adresses
