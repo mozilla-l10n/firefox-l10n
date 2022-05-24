@@ -8,31 +8,35 @@
 vcard-entry-type-label = Typ
 vcard-entry-type-home = Domov
 vcard-entry-type-work = Práca
+vcard-entry-type-none = Neurčené
+vcard-entry-type-custom = Vlastné
 
 # N vCard field
 
 vcard-name-header = Meno
-vcard-n-prefix = Predpona
+vcard-n-prefix = Titul pred menom
 vcard-n-add-prefix =
-    .title = Pridajte predponu
+    .title = Pridať titul pred menom
 vcard-n-firstname = Meno
 vcard-n-add-firstname =
-    .title = Pridajte krstné meno
+    .title = Pridať krstné meno
 vcard-n-middlename = Stredné meno
 vcard-n-add-middlename =
-    .title = Pridajte stredné meno
+    .title = Pridať stredné meno
 vcard-n-lastname = Priezvisko
 vcard-n-add-lastname =
-    .title = Pridajte priezvisko
-vcard-n-suffix = Prípona
+    .title = Pridať priezvisko
+vcard-n-suffix = Titul za menom
 vcard-n-add-suffix =
-    .title = Pridajte príponu
+    .title = Pridať titul za menom
 
 # Email vCard field
 
 vcard-email-header = E-mailové adresy
 vcard-email-add = Pridať e-mailovú adresu
 vcard-email-label = E-mailová adresa
+vcard-email-choose-primary = Predvolená
+    .aria-label = Zvoliť ako predvolenú e-mailovú adresu
 
 # URL vCard field
 

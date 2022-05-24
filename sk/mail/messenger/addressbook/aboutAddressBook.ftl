@@ -69,6 +69,10 @@ about-addressbook-sort-email-ascending =
     .label = Usporiadať podľa e-mailovej adresy (A > Z)
 about-addressbook-sort-email-descending =
     .label = Usporiadať podľa e-mailovej adresy (Z > A)
+about-addressbook-horizontal-layout =
+    .label = Prepnúť na horizontálne rozloženie
+about-addressbook-vertical-layout =
+    .label = Prepnúť na vertikálne rozloženie
 
 ## Card column headers
 ## Each string is listed here twice, and the values should match.
@@ -181,6 +185,7 @@ about-addressbook-entry-type-pager = Pager
 about-addressbook-entry-name-birthday = Narodeniny
 about-addressbook-entry-name-anniversary = Výročie
 about-addressbook-entry-name-title = Titul
+about-addressbook-entry-name-role = Funkcia
 about-addressbook-entry-name-department = Oddelenie
 about-addressbook-entry-name-organization = Organizácia
 about-addressbook-entry-name-website = Webová stránka
