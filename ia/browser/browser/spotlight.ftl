@@ -10,13 +10,13 @@ spotlight-dialog-close-button =
 ## Mobile download button strings
 
 spotlight-android-marketplace-button =
-    .title = Obtene lo per Google Play
+    .title = Obtene lo sur Google Play
 spotlight-ios-marketplace-button =
-    .title = Discarga lo per App Store
+    .title = Discarga lo sur App Store
 
 ## Firefox Focus promo message strings
 
 spotlight-focus-promo-title = Obtener { -focus-brand-name }
-spotlight-focus-promo-subtitle = Scande le codice QR pro discargar.
+spotlight-focus-promo-subtitle = Scanna le codice QR pro discargar.
 spotlight-focus-promo-qr-code =
-    .alt = Scande le codice QR pro obtener { -focus-brand-name }.
+    .alt = Scanna le codice QR pro obtener { -focus-brand-name }.
