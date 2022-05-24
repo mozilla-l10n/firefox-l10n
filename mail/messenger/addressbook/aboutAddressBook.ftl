@@ -69,6 +69,38 @@ about-addressbook-sort-email-ascending =
     .label = Raða eftir tölvupóstfangi (A > Ö)
 about-addressbook-sort-email-descending =
     .label = Raða eftir tölvupóstfangi (Ö > A)
+about-addressbook-horizontal-layout =
+    .label = Skipta yfir í lárétta framsetningu
+about-addressbook-vertical-layout =
+    .label = Skipta yfir í lóðrétta framsetningu
+
+## Card column headers
+## Each string is listed here twice, and the values should match.
+
+about-addressbook-column-header-generatedname = Nafn
+about-addressbook-column-label-generatedname =
+    .label = { about-addressbook-column-header-generatedname }
+about-addressbook-column-header-emailaddresses = Tölvupóstfang
+about-addressbook-column-label-emailaddresses =
+    .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-phonenumbers = Símanúmer
+about-addressbook-column-label-phonenumbers =
+    .label = { about-addressbook-column-header-phonenumbers }
+about-addressbook-column-header-addresses = Heimilisföng
+about-addressbook-column-label-addresses =
+    .label = { about-addressbook-column-header-addresses }
+about-addressbook-column-header-title = Titill
+about-addressbook-column-label-title =
+    .label = { about-addressbook-column-header-title }
+about-addressbook-column-header-department = Deild
+about-addressbook-column-label-department =
+    .label = { about-addressbook-column-header-department }
+about-addressbook-column-header-organization = Fyrirtæki/Stofnun
+about-addressbook-column-label-organization =
+    .label = { about-addressbook-column-header-organization }
+about-addressbook-column-header-addrbook = Nafnaskrá
+about-addressbook-column-label-addrbook =
+    .label = { about-addressbook-column-header-addrbook }
 about-addressbook-cards-context-write =
     .label = Skrifa
 about-addressbook-confirm-delete-mixed-title = Eyða tengiliðum og listum
@@ -147,6 +179,7 @@ about-addressbook-entry-type-pager = Símboði
 about-addressbook-entry-name-birthday = Fæðingardagur
 about-addressbook-entry-name-anniversary = Afmæli
 about-addressbook-entry-name-title = Titill
+about-addressbook-entry-name-role = Hlutverk
 about-addressbook-entry-name-department = Deild
 about-addressbook-entry-name-organization = Fyrirtæki/Stofnun
 about-addressbook-entry-name-website = Vefsvæði

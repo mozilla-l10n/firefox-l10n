@@ -8,10 +8,15 @@ export-page-title = Flytja út
 ## Header
 
 import-start = Innflutningsverkfæri
+import-start-title = Flytja inn stillingar eða gögn úr forriti eða skrá.
 import-from-app = Flytja inn úr forriti
 import-from-app-desc = Velja að flytja inn reikninga, nafnaskrár, dagatöl og önnur gögn frá:
 import-address-book = Flytja inn nafnaskrá
 import-calendar = Flytja inn dagatalsskrá
+import-file = Flytja inn úr skrá
+import-file-title = Veldu skrá til að flytja inn efni hennar.
+import-address-book-title = Flytja inn nafnaskrá
+import-calendar-title = Flytja inn dagatalsskrá
 export-profile = Flytja út
 
 ## Buttons
@@ -20,6 +25,7 @@ button-cancel = Hætta við
 button-back = Til baka
 button-continue = Halda áfram
 button-export = Flytja út
+button-finish = Ljúka
 
 ## Import from app steps
 
@@ -36,6 +42,11 @@ profile-file-picker-dir = Veldu prófílmöppu
 profile-file-picker-zip = Veldu zip-skrá (minni en 2GB)
 items-pane-title = Veldu hvað á að flytja inn
 items-pane-source = Staðsetning uppruna:
+source-thunderbird = Flytja inn úr annarri { app-name-thunderbird } uppsetningu
+source-outlook = Flytja inn úr { app-name-outlook }
+source-apple-mail = Flytja inn úr { app-name-apple-mail }
+source-apple-mail-description = Flytja inn skilaboð frá { app-name-apple-mail }.
+source-file2 = Flytja inn úr skrá
 
 ## Import from file selections
 
@@ -44,6 +55,11 @@ file-addressbook = Flytja inn nafnaskrár
 
 ## Import from app profile steps
 
+profile-file-picker-archive = Veldu <strong>ZIP</strong>-skrá
+profile-file-picker-archive-description = ZIP-skráin verður að vera minni en 2GB.
+profile-file-picker-archive-title = Veldu ZIP-skrá (minni en 2GB)
+items-pane-title2 = Veldu hvað á að flytja inn:
+items-pane-directory = Mappa:
 items-pane-checkbox-accounts = Reikningar og stillingar
 items-pane-checkbox-address-books = Nafnaskrár
 items-pane-checkbox-calendars = Dagatöl
@@ -83,6 +99,11 @@ progress-pane-importing = Innflutningur
 progress-pane-exporting = Útflutningur
 progress-pane-finished-desc = Lokið.
 progress-pane-restart-desc = Endurræstu til að ljúka innflutningi.
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-importing2 = Flyt inn... { $progressPercent }
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-exporting2 = Flyt út... { $progressPercent }
+progress-pane-finished-desc2 = Lokið.
 error-pane-title = Villa
 error-message-zip-file-too-big = Valin zip-skrá er stærri en 2GB. Afþjappaðu hana fyrst, síðan skaltu í staðinn flytja inn úr afþjöppuðu möppunni.
 error-message-extract-zip-file-failed = Mistókst að afþjappa zip-skrána. Afþjappaðu hana handvirkt, síðan skaltu í staðinn flytja inn úr afþjöppuðu möppunni.
@@ -104,10 +125,15 @@ export-profile-desc = Flyttu út póstreikninga, póstskilaboð, nafnaskrár og 
 export-profile-desc2 = Ef notkunarsniðið þitt er stærra en 2GB, mælum við með að þú afritir það sjálf/ur.
 export-open-profile-folder = Opna möppu notandasniðs
 export-file-picker = Flytja út í zip-skrá
+export-file-picker2 = Flytja út í ZIP-skrá
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-title = Gögn sem á að flytja inn
+summary-pane-start = Hefja innflutning
 
 ## Footer area
 
+footer-help = Þarftu aðstoð?
+footer-support-forum = Aðstoðarspjallsvæði
