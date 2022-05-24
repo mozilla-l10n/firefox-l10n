@@ -103,6 +103,10 @@ perftools-thread-jvm-default-dispatcher =
     .title = Le expeditor predefinite pro le bibliotheca de co-routines Kotlin
 perftools-thread-jvm-glean =
     .title = Le principal argumentos pro le telemetria SDK de Glean
+perftools-thread-jvm-arch-disk-io =
+    .title = Le expeditor de IO pro le bibliotheca de co-routines Kotlin
+perftools-thread-jvm-pool =
+    .title = Argumentos create in un gruppo de sub-processos sin nomine
 
 ##
 
