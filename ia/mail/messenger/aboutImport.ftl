@@ -9,11 +9,14 @@ export-page-title = Exportar
 
 import-start = Importar instrumento
 import-start-title = Importar parametros o datos ex un application o file.
+import-start-description = Elige le fonte ab le qual tu vole importar. Plus tarde te sera demandate de eliger qual datos debe esser importate.
 import-from-app = Importar ab application
 import-from-app-desc = Seliger de importar contos, libros de adresses, agendas, e altere dato ab:
 import-address-book = Importar le file libro del adresses
 import-calendar = Importar file de agenda
 import-file = Importar ab un file
+import-file-title = Elige un file pro importar su contento.
+import-file-description = Selige de importar un profilo, libros de adresses o agendas previemente reservate.
 import-address-book-title = Importar le file libro del adresses
 import-calendar-title = Importar file agenda
 export-profile = Exportar
@@ -41,6 +44,7 @@ profile-file-picker-dir = Selige un plica del profilo
 profile-file-picker-zip = Selige un file zip (minor de 2GB)
 items-pane-title = Elige que importar
 items-pane-source = Position del fonte:
+source-thunderbird = Importar ab un altere installation de { app-name-thunderbird }
 source-file2 = Importar ab un file
 
 ## Import from file selections
@@ -78,6 +82,7 @@ addr-book-import-into-new-directory = Crear un nove directorio
 ## Import from calendar file steps
 
 import-from-calendar-file-desc = Elige le file iCalendar (.ics) que tu vole importar.
+calendar-items-title = Selige le elementos a importar.
 calendar-items-loading = Cargante elementos…
 calendar-items-filter-input =
     .placeholder = Filtro del elementos…
@@ -91,9 +96,12 @@ progress-pane-importing = Importation
 progress-pane-exporting = Exportation
 progress-pane-finished-desc = Finite.
 progress-pane-restart-desc = Reinitiar pro finir de importar.
+progress-pane-finished-desc2 = Complete.
 error-pane-title = Error
 error-message-zip-file-too-big = Le file zip seligite, es major de 2GB. In vice abstrahe lo antea primo, postea importa lo ab le plicas extrahite.
 error-message-extract-zip-file-failed = Impossibile extraher le file zip. In vice extrahe lo manualmente, pois importa lo ab le plica extrahite.
+error-message-zip-file-too-big2 = Le file zip seligite, es major de 2GB. In vice abstrahe lo antea primo, postea importa lo ab le plicas extrahite.
+error-message-extract-zip-file-failed2 = Impossibile extraher le file zip. In vice extrahe lo manualmente, pois importa lo ab le plica extrahite.
 error-message-failed = Le importation falleva inspectatemente, Altere informationes pote esser disponibile in le Consola de error.
 error-failed-to-parse-ics-file = Elemento non importabile trovate in le file.
 error-export-failed = Le exportation falleva inspectatemente, altere informationes pote esser disponibile in le Consola de error.
@@ -116,6 +124,9 @@ export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-start = Initia importar
 
 ## Footer area
 
+footer-help = Require adjuta?
+footer-support-forum = Foro de supporto
