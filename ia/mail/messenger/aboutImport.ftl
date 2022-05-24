@@ -97,11 +97,20 @@ profiles-pane-title-outlook = Importar datos ab { app-name-outlook }.
 profiles-pane-title-becky = Importar datos ab { app-name-becky }.
 profiles-pane-title-apple-mail = Importar messages ab { app-name-apple-mail }.
 profile-source = Importar ab un profilo
+# $profileName (string) - name of the profile
+profile-source-named = Importar ab le profilo <strong>"{ $profileName }"</strong>
+profile-file-picker-directory = Elige un plica de profilo
+profile-file-picker-archive = Elige un file <strong>ZIP</strong>
+profile-file-picker-archive-description = Le file ZIP debe esser minor de 2GB.
+profile-file-picker-archive-title = Elige un file ZIP (minor de 2GB)
+items-pane-title2 = Selige lo que importar:
+items-pane-directory = Directorio:
 items-pane-profile-name = Nomine del profilo:
 items-pane-checkbox-accounts = Contos e parametros
 items-pane-checkbox-address-books = Libros de adresses
 items-pane-checkbox-calendars = Agendas
 items-pane-checkbox-mail-messages = Messages e-mail
+items-pane-override = Ulle existente o identic datos non sera superscribite.
 
 ## Import from address book file steps
 
