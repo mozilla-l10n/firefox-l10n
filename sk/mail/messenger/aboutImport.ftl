@@ -11,7 +11,9 @@ import-from-app = Import z aplikácie
 import-from-app-desc = Zvoľte, odkiaľ chcete importovať účty, adresáre, kalendáre a ďalšie údaje:
 import-address-book = Import súboru adresára
 import-calendar = Import súboru s kalendárom
+import-file = Import zo súboru
 import-file-title = Vyberte súbor, z ktorého chcete importovať jeho obsah.
+import-file-description = Zvoľte, či chcete importovať predtým zálohovaný profil, adresáre alebo kalendáre.
 import-address-book-title = Import súboru adresára
 import-calendar-title = Import súboru s kalendárom
 export-profile = Export
@@ -71,13 +73,23 @@ file-addressbook-description = Zvoľte súbor obsahujúci exportované adresáre
 
 ## Import from app profile steps
 
+from-app-thunderbird = Import z profilu { app-name-thunderbird }u
+from-app-seamonkey = Import z profilu { app-name-seamonkey }
+from-app-outlook = Import z { app-name-outlook }u
+from-app-becky = Import z { app-name-becky }
+from-app-apple-mail = Import z { app-name-apple-mail }
+profiles-pane-title-thunderbird = Importujte nastavenia a údaje z profilu { app-name-thunderbird }u.
+profiles-pane-title-seamonkey = Importujte nastavenia a údaje z profilu { app-name-seamonkey }.
+profile-source = Import z profilu
 # $profileName (string) - name of the profile
 profile-source-named = Importovať z profilu <strong>"{ $profileName }"</strong>
 profile-file-picker-directory = Zvoliť priečinok profilu
 profile-file-picker-archive = Zvoliť súbor <strong>ZIP</strong>
 profile-file-picker-archive-description = Súbor ZIP musí byť menší ako 2 GB.
 profile-file-picker-archive-title = Vyberte súbor ZIP (menší ako 2 GB)
+items-pane-title2 = Zvoľte, čo chcete importovať:
 items-pane-directory = Priečinok:
+items-pane-profile-name = Názov profilu:
 items-pane-checkbox-accounts = Účty a nastavenia
 items-pane-checkbox-address-books = Adresáre
 items-pane-checkbox-calendars = Kalendáre
@@ -118,12 +130,20 @@ progress-pane-importing = Importuje sa
 progress-pane-exporting = Exportuje sa
 progress-pane-finished-desc = Dokončené.
 progress-pane-restart-desc = Reštartovaním dokončíte import.
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-importing2 = Importuje sa… { $progressPercent }
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-exporting2 = Exportuje sa… { $progressPercent }
+progress-pane-finished-desc2 = Hotovo
 error-pane-title = Chyba
 error-message-zip-file-too-big = Zvolený súbor zip je väčší ako 2 GB. Najprv ho rozbaľte a potom importujte z extrahovaného priečinka.
 error-message-extract-zip-file-failed = Nepodarilo sa extrahovať súbor zip. Rozbaľte ho ručne a potom ho importujte z extrahovaného priečinka.
+error-message-zip-file-too-big2 = Vybratý súbor ZIP je väčší ako 2 GB. Najprv ho rozbaľte a potom importujte z extrahovaného priečinka.
+error-message-extract-zip-file-failed2 = Nepodarilo sa extrahovať súbor ZIP. Rozbaľte ho ručne a potom ho importujte z extrahovaného priečinka.
 error-message-failed = Import neočakávane zlyhal, ďalšie informácie môžu byť k dispozícii v Chybovej konzole.
 error-failed-to-parse-ics-file = V súbore sa nenašli žiadne importovateľné položky.
 error-export-failed = Export neočakávane zlyhal, ďalšie informácie môžu byť k dispozícii v Chybovej konzole.
+error-message-no-profile = Nebol nájdený žiadny profil.
 
 ## <csv-field-map> element
 
