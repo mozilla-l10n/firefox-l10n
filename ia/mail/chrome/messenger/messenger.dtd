@@ -270,7 +270,7 @@
 <!ENTITY findCmd.label "Cercar in iste message…">
 <!ENTITY findCmd.accesskey "C">
 <!ENTITY findCmd.key "c">
-<!ENTITY findAgainCmd.label "Cercar ancora">
+<!ENTITY findAgainCmd.label "Cercar le sequente">
 <!ENTITY findAgainCmd.accesskey "c">
 <!ENTITY findAgainCmd.key "c">
 <!ENTITY findAgainCmd.key2 "VK_F3">

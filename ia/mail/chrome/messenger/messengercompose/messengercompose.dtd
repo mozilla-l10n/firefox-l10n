@@ -78,7 +78,7 @@
 <!ENTITY findReplaceCmd.label "Trovar e reimplaciar…">
 <!ENTITY findReplaceCmd.accesskey "r">
 <!ENTITY findReplaceCmd.key "H">
-<!ENTITY findAgainCmd.label "Cercar novemente">
+<!ENTITY findAgainCmd.label "Cercar le sequente">
 <!ENTITY findAgainCmd.accesskey "o">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
