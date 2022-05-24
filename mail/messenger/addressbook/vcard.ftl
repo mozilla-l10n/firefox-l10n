@@ -3,12 +3,17 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Fieldsets
+# Type selection
 
-vcard-fieldset-name = Név
+vcard-entry-type-label = Típus
+vcard-entry-type-home = Otthoni
+vcard-entry-type-work = Munkahelyi
+vcard-entry-type-none = Nincs
+vcard-entry-type-custom = Egyéni
 
-# N VCard Field
+# N vCard field
 
+vcard-name-header = Név
 vcard-n-prefix = Előtag
 vcard-n-add-prefix =
     .title = Előtag hozzáadása
@@ -24,3 +29,28 @@ vcard-n-add-lastname =
 vcard-n-suffix = Utótag
 vcard-n-add-suffix =
     .title = Utótag hozzáadása
+
+# Email vCard field
+
+vcard-email-header = E-mail-címek
+vcard-email-add = E-mail-cím hozzáadása
+vcard-email-label = E-mail-cím
+vcard-email-choose-primary = Alapértelmezett
+    .aria-label = Válasszon elsődleges e-mail-címet
+
+# URL vCard field
+
+vcard-url-header = Webhelyek
+vcard-url-add = Webhely hozzáadása
+vcard-url-label = Webhely
+
+# Tel vCard field
+
+vcard-tel-header = Telefonszámok
+vcard-tel-add = Telefonszám hozzáadása
+vcard-tel-label = Telefonszám
+
+# TZ vCard field
+
+vcard-tz-header = Időzóna
+vcard-tz-add = Időzóna hozzáadása

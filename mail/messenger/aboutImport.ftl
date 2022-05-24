@@ -129,6 +129,13 @@ export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-start = Importálás indítása
+summary-pane-warning = Az importálás befejezése után újra kell indítani a { -brand-product-name }öt.
+summary-pane-start-over = Importálási eszköz újraindítása
 
 ## Footer area
 
+footer-help = Segítségre van szüksége?
+footer-import-documentation = Importálási dokumentáció
+footer-export-documentation = Exportálási dokumentáció
+footer-support-forum = Támogatói fórum
