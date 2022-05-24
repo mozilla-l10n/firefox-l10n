@@ -48,10 +48,19 @@ source-seamonkey = Importálás egy { app-name-seamonkey } telepítésből
 source-seamonkey-description = Beállítások, szűrők, üzenetek és más adatok importálása egy { app-name-seamonkey }-profilból.
 source-outlook = Importálás az { app-name-outlook }ból
 source-outlook-description = Fiókok, címjegyzékek és üzenetek importálása az { app-name-outlook }ból.
+source-becky = Importálás a { app-name-becky }ből
+source-becky-description = Címjegyzékek és üzenetek importálása az { app-name-becky }ből.
+source-apple-mail = Importálás az { app-name-apple-mail }ből
+source-apple-mail-description = Üzenetek importálása az { app-name-apple-mail }ből.
+source-file2 = Importálás fájlból
+source-file-description = Válasszon egy fájlt, amelyből címjegyzékeket, naptárakat vagy profilmentéseket (ZIP-fájl) importálna.
 
 ## Import from file selections
 
+file-profile2 = Mentett profil importálása
+file-profile-description = Válasszon egy korábban mentett Thunderbird-profilt (.zip)
 file-calendar = Naptárak importálása
+file-calendar-description = Válasszon egy exportált naptárakat vagy eseményeket (.ics) tartalmazó fájlt
 file-addressbook = Címjegyzékek importálása
 
 ## Import from app profile steps
