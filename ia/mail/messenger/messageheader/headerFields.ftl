@@ -21,9 +21,11 @@ message-header-newsgroups-field = Gruppos de novas<span data-l10n-name="field-se
 message-header-followup-to-field = Inultrar a<span data-l10n-name="field-separator">:</span>
 message-header-tags-field = Tags<span data-l10n-name="field-separator">:</span>
 message-header-date-field = Data<span data-l10n-name="field-separator">:</span>
+message-header-user-agent-field = Agente usator<span data-l10n-name="field-separator">:</span
 message-header-references-field = Referentias<span data-l10n-name="field-separator">:</span>
 message-header-message-id-field = ID de Message<span data-l10n-name="field-separator">:</span>
 message-header-in-reply-to-field = In responsa a<span data-l10n-name="field-separator">:</span>
+message-header-website-field = Sito web<span data-l10n-name="field-separator">:</span>
 message-header-address-in-address-book-icon2 =
     .alt = In le libro del adresses
 message-header-address-not-in-address-book-icon2 =

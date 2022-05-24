@@ -3,12 +3,17 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Fieldsets
+# Type selection
 
-vcard-fieldset-name = Nomine
+vcard-entry-type-label = Typo
+vcard-entry-type-home = Initio
+vcard-entry-type-work = Labor
+vcard-entry-type-none = Nulle
+vcard-entry-type-custom = Personalisate
 
-# N VCard Field
+# N vCard field
 
+vcard-name-header = Nomine
 vcard-n-prefix = Prefixo
 vcard-n-add-prefix =
     .title = Adder Firefox
@@ -24,3 +29,28 @@ vcard-n-add-lastname =
 vcard-n-suffix = Suffixo
 vcard-n-add-suffix =
     .title = Adder suffixo
+
+# Email vCard field
+
+vcard-email-header = Adresses email
+vcard-email-add = Adder adresse email
+vcard-email-label = Adresse email
+vcard-email-choose-primary = Predefinite
+    .aria-label = Elige tu adresse email primari
+
+# URL vCard field
+
+vcard-url-header = Sitos web
+vcard-url-add = Adder un sito web
+vcard-url-label = Sito web
+
+# Tel vCard field
+
+vcard-tel-header = Numeros de telephono
+vcard-tel-add = Adder un numero de telephono
+vcard-tel-label = Numero de telephono
+
+# TZ vCard field
+
+vcard-tz-header = Fuso horari
+vcard-tz-add = Adder fuso horari
