@@ -21,7 +21,7 @@
 
 <!ENTITY serverDetails.label "Detalhes do servidor selecionado:">
 <!ENTITY serverDescription.label "Descrição: ">
-<!ENTITY serverName.label "Servidor:">
+<!ENTITY serverName.label "Nome do servidor:">
 <!ENTITY serverPort.label "Porta: ">
 <!ENTITY userName.label   "Nome de usuário: ">
 <!ENTITY connectionSecurity.label "Segurança da conexão: ">
