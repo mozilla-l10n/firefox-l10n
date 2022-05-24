@@ -97,6 +97,12 @@ perftools-thread-task-controller =
     .title = Filos del fundo commun de TaskController
 perftools-thread-jvm-gecko =
     .title = Le argumento principal de Gecko JVM argumento
+perftools-thread-jvm-nimbus =
+    .title = Le principal argumentos pro le experimentos SDK de Nimbus
+perftools-thread-jvm-default-dispatcher =
+    .title = Le expeditor predefinite pro le bibliotheca de co-routines Kotlin
+perftools-thread-jvm-glean =
+    .title = Le principal argumentos pro le telemetria SDK de Glean
 
 ##
 
