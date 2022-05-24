@@ -4,9 +4,9 @@
 
 e2e-intro-description = Pro inviar messages cifrate o signate digitalmente, tu debe configurar un technologia de cryptographia OpenPGP o S/MIME.
 e2e-intro-description-more = Elige tu clave personal pro activar le uso de OpenPGP o tu certificato personal pro activar le uso de S/MIME. Pro un clave personal o un certificato tu debe haber le correspondente clave secrete.
-e2e-signing-description = Un firma digital permitte al destinatarios de verificar que le message era inviate per te e su contento non era cambiate. Le messages cryptate es sempre signate de ordinario.
+e2e-signing-description = Un signatura digital permitte al destinatarios de verificar que le message ha essite inviate per te e que su contento non ha essite alterate. Per configuration predefinite, le messages cryptate es sempre signate.
 e2e-sign-message =
-    .label = Signar le message non cryptate
+    .label = Signar messages non cryptate
     .accesskey = n
 e2e-disable-enc =
     .label = Disactivar cryptation pro nove messages
@@ -362,7 +362,7 @@ key-expired-date = Le clave ha expirate le { $keyExpiry }
 key-expired-simple = Le clave ha expirate
 key-revoked-simple = Le clave ha essite revocate
 key-do-you-accept = Accepta tu iste clave pro verificante firmas digital e pro cryptar messages?
-key-verification = Verifica le dactylogramma del clave per un canal de communication secur in ultra al e-mail pro verificar que illo es realmente le clave de { $addr }.
+key-verification = Verifica le dactylogramma del clave usante un canal de communication secur, differente de e-mail, pro verificar que illo es realmente le clave de { $addr }.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Impossibile inviar le message, perque il ha un problema con tu clave personal. { $problem }
 cannot-encrypt-because-missing = Impossibile inviar iste message con cryptographia end-to-end, perque il ha problemas con le claves del sequente destinatarios: { $problem }
