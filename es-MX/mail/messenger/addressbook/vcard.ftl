@@ -3,12 +3,17 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Fieldsets
+# Type selection
 
-vcard-fieldset-name = Nombre
+vcard-entry-type-label = Tipo
+vcard-entry-type-home = Casa
+vcard-entry-type-work = Trabajo
+vcard-entry-type-none = Ninguno
+vcard-entry-type-custom = Personalizado
 
-# N VCard Field
+# N vCard field
 
+vcard-name-header = Nombre
 vcard-n-prefix = Prefijo
 vcard-n-add-prefix =
     .title = Agregar prefijo
@@ -24,3 +29,28 @@ vcard-n-add-lastname =
 vcard-n-suffix = Sufijo
 vcard-n-add-suffix =
     .title = Agregar sufijo
+
+# Email vCard field
+
+vcard-email-header = Direcciones de correo
+vcard-email-add = Agregar dirección de correo
+vcard-email-label = Dirección de correo
+vcard-email-choose-primary = Predeterminado
+    .aria-label = Selecciona tu dirección de correo principal
+
+# URL vCard field
+
+vcard-url-header = Sitios web
+vcard-url-add = Agregar sitio web
+vcard-url-label = Sitio web
+
+# Tel vCard field
+
+vcard-tel-header = Números de teléfono
+vcard-tel-add = Agregar número de teléfono
+vcard-tel-label = Número de teléfono
+
+# TZ vCard field
+
+vcard-tz-header = Zona horaria
+vcard-tz-add = Agregar zona horaria
