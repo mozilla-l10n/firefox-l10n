@@ -17,3 +17,11 @@ message-header-reply-to-field = Odpoveď na<span data-l10n-name="field-separator
 message-header-subject-field = Predmet<span data-l10n-name="field-separator">:</span>
 message-header-cc-field = Kópia<span data-l10n-name="field-separator">:</span>
 message-header-bcc-field = Skrytá kópia<span data-l10n-name="field-separator">:</span>
+message-header-newsgroups-field = Diskusné skupiny<span data-l10n-name="field-separator">:</span>
+message-header-tags-field = Značky<span data-l10n-name="field-separator">:</span>
+message-header-date-field = Dátum<span data-l10n-name="field-separator">:</span>
+message-header-website-field = Webová stránka<span data-l10n-name="field-separator">:</span>
+message-header-address-in-address-book-icon2 =
+    .alt = V adresári
+message-header-address-not-in-address-book-icon2 =
+    .alt = Nie je v adresári
