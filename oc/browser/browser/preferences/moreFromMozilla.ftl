@@ -20,6 +20,8 @@ more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-description = Fasètz que vòstras donadas serviscan per un melhor Internet per totòm.
 # This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description-advanced = Donatz vòstras donadas a de recèrcas qu’òbran per la creacion d’un Internet mai segur, mai dobèrt, al servici del monde, e non pas als gigants de la tecnologia.
+# This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally-2 = Rejónher { -rally-short-name }
 more-from-moz-qr-code-box-firefox-mobile-title = Telecargatz-lo amb vòstre aparelh mobil. Dirigissètz vòstra camèra en fàcia del còdi QR. Quand apareis un ligam, tocatz-lo.
 more-from-moz-qr-code-box-firefox-mobile-button = Enviatz un e-mail a vòstre telefòn a la plaça
