@@ -246,6 +246,7 @@ openpgp-key-details-key-type-label = Τύπος
 openpgp-key-details-key-part-label =
     .label = Τμήμα Κλειδιού
 openpgp-key-details-attr-ignored = Προειδοποίηση: Αυτό το κλειδί ενδέχεται να μην λειτουργεί όπως αναμένεται, επειδή ορισμένες από τις ιδιότητές του δεν είναι ασφαλείς και ενδέχεται να αγνοηθούν.
+openpgp-key-details-attr-upgrade-sec = Θα πρέπει να αναβαθμίσετε τις επισφαλείς ιδιότητες.
 openpgp-key-details-upgrade-unsafe =
     .label = Αναβάθμιση επισφαλών ιδιοτήτων
     .accesskey = β
