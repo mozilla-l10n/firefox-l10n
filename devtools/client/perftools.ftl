@@ -98,8 +98,12 @@ perftools-thread-jvm-gecko =
     .title = Hłowna nitka Gecko JVM
 perftools-thread-jvm-nimbus =
     .title = Hłowne nitki za SDK eksperimentow Nimbus
+perftools-thread-jvm-default-dispatcher =
+    .title = Standardny dispatcher za biblioteku korutinow  Kotlin
 perftools-thread-jvm-glean =
     .title = Hłowne nitki za SDK telemetrije Glean
+perftools-thread-jvm-arch-disk-io =
+    .title = Dispatcher IO za biblioteku korutinow  Kotlin
 perftools-thread-jvm-pool =
     .title = Nitki wutworjene w grupje nitkow bjez mjena
 
