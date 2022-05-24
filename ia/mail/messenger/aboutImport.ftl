@@ -45,11 +45,13 @@ source-file2 = Importar ab un file
 
 ## Import from file selections
 
+file-profile2 = Importar profilo archivate
 file-calendar = Importar agendas
 file-addressbook = Importar libros del adresses
 
 ## Import from app profile steps
 
+items-pane-profile-name = Nomine del profilo:
 items-pane-checkbox-accounts = Contos e parametros
 items-pane-checkbox-address-books = Libros de adresses
 items-pane-checkbox-calendars = Agendas
