@@ -3,12 +3,16 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Fieldsets
+# Type selection
 
-vcard-fieldset-name = 姓名
+vcard-entry-type-label = 類型
+vcard-entry-type-home = 住家
+vcard-entry-type-none = 無
+vcard-entry-type-custom = 自訂
 
-# N VCard Field
+# N vCard field
 
+vcard-name-header = 姓名
 vcard-n-prefix = 前綴
 vcard-n-add-prefix =
     .title = 新增前綴
@@ -24,3 +28,26 @@ vcard-n-add-lastname =
 vcard-n-suffix = 後綴
 vcard-n-add-suffix =
     .title = 新增後綴
+
+# Email vCard field
+
+vcard-email-header = 電子郵件地址
+vcard-email-add = 新增電子郵件地址
+vcard-email-label = 電子郵件地址
+
+# URL vCard field
+
+vcard-url-header = 網站
+vcard-url-add = 新增網站
+vcard-url-label = 網站
+
+# Tel vCard field
+
+vcard-tel-header = 電話號碼
+vcard-tel-add = 新增電話號碼
+vcard-tel-label = 電話號碼
+
+# TZ vCard field
+
+vcard-tz-header = 時區
+vcard-tz-add = 新增時區

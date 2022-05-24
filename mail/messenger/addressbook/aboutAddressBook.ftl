@@ -69,6 +69,35 @@ about-addressbook-sort-email-ascending =
     .label = 依照電子郵件地址排序（升冪）
 about-addressbook-sort-email-descending =
     .label = 依照電子郵件地址排序（降冪）
+about-addressbook-horizontal-layout =
+    .label = 切換為水平版面配置
+about-addressbook-vertical-layout =
+    .label = 切換為垂直版面配置
+
+## Card column headers
+## Each string is listed here twice, and the values should match.
+
+about-addressbook-column-header-generatedname = 姓名
+about-addressbook-column-label-generatedname =
+    .label = { about-addressbook-column-header-generatedname }
+about-addressbook-column-header-emailaddresses = 電子郵件地址
+about-addressbook-column-label-emailaddresses =
+    .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-phonenumbers = 電話號碼
+about-addressbook-column-label-phonenumbers =
+    .label = { about-addressbook-column-header-phonenumbers }
+about-addressbook-column-header-addresses = 地址
+about-addressbook-column-label-addresses =
+    .label = { about-addressbook-column-header-addresses }
+about-addressbook-column-header-title = 頭銜
+about-addressbook-column-label-title =
+    .label = { about-addressbook-column-header-title }
+about-addressbook-column-header-department = 部門
+about-addressbook-column-label-department =
+    .label = { about-addressbook-column-header-department }
+about-addressbook-column-header-addrbook = 通訊錄
+about-addressbook-column-label-addrbook =
+    .label = { about-addressbook-column-header-addrbook }
 about-addressbook-cards-context-write =
     .label = 寫信
 about-addressbook-confirm-delete-mixed-title = 刪除通訊錄與群組
@@ -144,6 +173,7 @@ about-addressbook-entry-type-pager = 呼叫器
 about-addressbook-entry-name-birthday = 生日
 about-addressbook-entry-name-anniversary = 週年紀念日
 about-addressbook-entry-name-title = 頭銜
+about-addressbook-entry-name-role = 角色
 about-addressbook-entry-name-department = 部門
 about-addressbook-entry-name-organization = 服務單位
 about-addressbook-entry-name-website = 網站
