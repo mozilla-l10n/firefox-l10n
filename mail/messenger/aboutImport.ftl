@@ -186,6 +186,12 @@ export-brand-name = { -brand-product-name }
 
 summary-pane-title = Daty, kotrež so maja importować
 summary-pane-start = Import započeć
+summary-pane-warning = Dyrbiće { -brand-product-name } znowa startować, zo by so importowanje dokónčiło.
+summary-pane-start-over = Importowanski nastroj znowa startować
 
 ## Footer area
 
+footer-help = Trjebaće pomoc?
+footer-import-documentation = Importowanska dokumentacija
+footer-export-documentation = Eksportowanska dokumentacija
+footer-support-forum = Forum pomocy
