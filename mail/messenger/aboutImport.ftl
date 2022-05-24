@@ -49,6 +49,7 @@ source-file2 = Εισαγωγή από αρχείο
 
 ## Import from file selections
 
+file-profile2 = Εισαγωγή εφεδρικού προφίλ
 file-calendar = Εισαγωγή ημερολογίων
 file-addressbook = Εισαγωγή ευρετηρίων διευθύνσεων
 
@@ -65,6 +66,8 @@ profiles-pane-title-apple-mail = Εισαγωγή μηνυμάτων από { ap
 profile-source = Εισαγωγή από προφίλ
 # $profileName (string) - name of the profile
 profile-source-named = Εισαγωγή από προφίλ <strong>«{ $profileName }»</strong>
+profile-file-picker-archive = Επιλέξτε ένα αρχείο <strong>ZIP</strong>
+profile-file-picker-archive-description = Το αρχείο ZIP πρέπει να είναι μικρότερο από 2 GB.
 items-pane-directory = Κατάλογος:
 items-pane-profile-name = Όνομα προφίλ:
 items-pane-checkbox-accounts = Λογαριασμοί και ρυθμίσεις

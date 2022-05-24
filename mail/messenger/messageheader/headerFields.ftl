@@ -10,8 +10,11 @@
 
 message-header-to-field = Προς<span data-l10n-name="field-separator">:</span>
 message-header-from-field = Από<span data-l10n-name="field-separator">:</span>
+message-header-sender-field = Αποστολέας<span data-l10n-name="field-separator">:</span>
+message-header-subject-field = Θέμα<span data-l10n-name="field-separator">:</span>
 message-header-tags-field = Ετικέτες<span data-l10n-name="field-separator">:</span>
 message-header-date-field = Ημερομηνία<span data-l10n-name="field-separator">:</span>
+message-header-references-field = Αναφορές<span data-l10n-name="field-separator">:</span>
 message-header-website-field = Ιστότοπος<span data-l10n-name="field-separator">:</span>
 message-header-address-in-address-book-button =
     .title = Επεξεργασία επαφής
