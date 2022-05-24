@@ -6,10 +6,13 @@
 ## View / Layout
 
 appmenu-font-size-value = Dimensione carattere
+
 appmenuitem-font-size-enlarge =
     .tooltiptext = Aumenta dimensione carattere
+
 appmenuitem-font-size-reduce =
     .tooltiptext = Riduci dimensione carattere
+
 # Variables:
 # $size (String) - The current font size.
 appmenuitem-font-size-reset =

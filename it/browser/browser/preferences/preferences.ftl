@@ -319,10 +319,6 @@ files-and-applications-title = File e applicazioni
 
 download-header = Download
 
-download-save-to =
-    .label = Salva i file in
-    .accesskey = v
-
 download-save-where = Salva i file in
     .accesskey = v
 
@@ -1376,7 +1372,3 @@ desktop-folder-name = Desktop
 downloads-folder-name = Download
 choose-download-folder-title = Selezionare la cartella di download:
 
-# Variables:
-#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
-save-files-to-cloud-storage =
-    .label = Salva file in { $service-name }

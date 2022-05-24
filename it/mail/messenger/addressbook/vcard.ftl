@@ -5,22 +5,42 @@
 
 # Fieldsets
 
-vcard-fieldset-name = Nome
-
 # N VCard Field
 
+# Type selection
+
+# N vCard field
+
 vcard-n-prefix = Prefisso
+
 vcard-n-add-prefix =
     .title = Aggiungi prefisso
+
 vcard-n-firstname = Nome
+
 vcard-n-add-firstname =
     .title = Aggiungi nome
+
 vcard-n-middlename = Secondo nome
+
 vcard-n-add-middlename =
     .title = Aggiungi secondo nome
+
 vcard-n-lastname = Cognome
+
 vcard-n-add-lastname =
     .title = Aggiungi cognome
+
 vcard-n-suffix = Titolo straniero
+
 vcard-n-add-suffix =
     .title = Aggiungi titolo straniero
+
+# Email vCard field
+
+# URL vCard field
+
+# Tel vCard field
+
+# TZ vCard field
+

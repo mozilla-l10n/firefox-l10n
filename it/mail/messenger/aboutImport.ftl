@@ -8,13 +8,9 @@ import-page-title = Importazione
 
 import-start = Strumento per l’importazione
 
-import-start-desc = Importa impostazioni o dati da un’applicazione o un file.
-
 import-from-app = Importa da applicazione
 
 import-from-app-desc = Scegli di importare account, rubriche, calendari e altri dati da:
-
-import-from-file = Importa da file
 
 import-address-book = Importa file della rubrica
 
@@ -44,16 +40,6 @@ app-name-becky = Becky! Internet Mail
 
 app-name-apple-mail = Apple Mail
 
-source-file = Importa da un file
-
-## Import from file selections
-
-file-profile = Importa backup del profilo (.zip)
-
-file-calendar = Importa calendari
-
-file-addressbook = Importa rubriche
-
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Importazione da { $app }
@@ -67,6 +53,14 @@ profile-file-picker-zip = Seleziona un file zip (dimensione inferiore a 2 GB)
 items-pane-title = Seleziona che cosa importare
 
 items-pane-source = Percorso di origine:
+
+## Import from file selections
+
+file-calendar = Importa calendari
+
+file-addressbook = Importa rubriche
+
+## Import from app profile steps
 
 items-pane-checkbox-accounts = Account e impostazioni
 
@@ -103,6 +97,8 @@ addr-book-directories-pane-source = File di origine:
 addr-book-import-into-new-directory = Crea una nuova cartella
 
 ## Import from address book file steps
+
+## Import from calendar file steps
 
 import-from-calendar-file-desc = Seleziona il file iCalendar (.ics) da importare.
 
@@ -162,3 +158,8 @@ export-open-profile-folder = Apri cartella del profilo
 export-file-picker = Esporta in un file zip
 
 export-brand-name = { -brand-product-name }
+
+## Summary pane
+
+## Footer area
+
