@@ -20,11 +20,14 @@ message-header-bcc-field = Skrytá kópia<span data-l10n-name="field-separator">
 message-header-newsgroups-field = Diskusné skupiny<span data-l10n-name="field-separator">:</span>
 message-header-tags-field = Značky<span data-l10n-name="field-separator">:</span>
 message-header-date-field = Dátum<span data-l10n-name="field-separator">:</span>
+message-header-message-id-field = ID správy<span data-l10n-name="field-separator">:</span>
 message-header-website-field = Webová stránka<span data-l10n-name="field-separator">:</span>
 message-header-address-in-address-book-icon2 =
     .alt = V adresári
 message-header-address-not-in-address-book-icon2 =
     .alt = Nie je v adresári
+message-header-address-not-in-address-book-button =
+    .title = Uložiť túto adresu do adresára
 message-header-address-in-address-book-button =
     .title = Upraviť kontakt
 message-header-field-show-more = Ďalší
