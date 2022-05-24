@@ -69,6 +69,38 @@ about-addressbook-sort-email-ascending =
     .label = Po e-mejlowej adresy sortěrować (A > Z)
 about-addressbook-sort-email-descending =
     .label = Po e-mejlowej adresy sortěrować (Z > A)
+about-addressbook-horizontal-layout =
+    .label = Do horicontalneho wuhotowanja přepinać
+about-addressbook-vertical-layout =
+    .label = Do wertikalneho wuhotowanja přepinać
+
+## Card column headers
+## Each string is listed here twice, and the values should match.
+
+about-addressbook-column-header-generatedname = Mjeno
+about-addressbook-column-label-generatedname =
+    .label = { about-addressbook-column-header-generatedname }
+about-addressbook-column-header-emailaddresses = E-mejlowe adresy
+about-addressbook-column-label-emailaddresses =
+    .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-phonenumbers = Telefonowe čisła
+about-addressbook-column-label-phonenumbers =
+    .label = { about-addressbook-column-header-phonenumbers }
+about-addressbook-column-header-addresses = Adresy
+about-addressbook-column-label-addresses =
+    .label = { about-addressbook-column-header-addresses }
+about-addressbook-column-header-title = Titul
+about-addressbook-column-label-title =
+    .label = { about-addressbook-column-header-title }
+about-addressbook-column-header-department = Wotrjad
+about-addressbook-column-label-department =
+    .label = { about-addressbook-column-header-department }
+about-addressbook-column-header-organization = Organizacija
+about-addressbook-column-label-organization =
+    .label = { about-addressbook-column-header-organization }
+about-addressbook-column-header-addrbook = Adresnik
+about-addressbook-column-label-addrbook =
+    .label = { about-addressbook-column-header-addrbook }
 about-addressbook-cards-context-write =
     .label = Pisać
 about-addressbook-confirm-delete-mixed-title = Kontakty a lisćiny zhašeć
@@ -159,6 +191,7 @@ about-addressbook-entry-type-pager = Pager
 about-addressbook-entry-name-birthday = Narodniny
 about-addressbook-entry-name-anniversary = Róčnica
 about-addressbook-entry-name-title = Titul
+about-addressbook-entry-name-role = Róla
 about-addressbook-entry-name-department = Wotrjad
 about-addressbook-entry-name-organization = Organizacija
 about-addressbook-entry-name-website = Websydło

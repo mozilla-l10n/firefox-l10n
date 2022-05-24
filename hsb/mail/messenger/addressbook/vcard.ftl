@@ -3,12 +3,17 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Fieldsets
+# Type selection
 
-vcard-fieldset-name = Mjeno
+vcard-entry-type-label = Typ
+vcard-entry-type-home = Startowa strona
+vcard-entry-type-work = Słužbny
+vcard-entry-type-none = Žadyn
+vcard-entry-type-custom = Swójski
 
-# N VCard Field
+# N vCard field
 
+vcard-name-header = Mjeno
 vcard-n-prefix = Prefiks
 vcard-n-add-prefix =
     .title = Prefiks přidać
@@ -24,3 +29,28 @@ vcard-n-add-lastname =
 vcard-n-suffix = Sufiks
 vcard-n-add-suffix =
     .title = Sufiks přidać
+
+# Email vCard field
+
+vcard-email-header = E-mejlowe adresy
+vcard-email-add = E-mejlowu adresu přidać
+vcard-email-label = E-mejlowa adresa
+vcard-email-choose-primary = Standard
+    .aria-label = Wubjerće swoju hłownu e-mejlowu adresu
+
+# URL vCard field
+
+vcard-url-header = Websydła
+vcard-url-add = Websydło přidać
+vcard-url-label = Websydło
+
+# Tel vCard field
+
+vcard-tel-header = Telefonowe čisła
+vcard-tel-add = Telefonowe čisło přidać
+vcard-tel-label = Telefonowe čisło
+
+# TZ vCard field
+
+vcard-tz-header = Časowe pasmo
+vcard-tz-add = Časowe pasmo přidać
