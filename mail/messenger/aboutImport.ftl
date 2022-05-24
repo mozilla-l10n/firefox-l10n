@@ -3,10 +3,13 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 import-page-title = Importovanie
+export-page-title = Export
 
 ## Header
 
 import-start = Nástroj na importovanie
+import-start-title = Importujte nastavenia alebo údaje z aplikácie alebo súboru.
+import-start-description = Zvoľte zdroj, z ktorého chcete importovať. Neskôr sa zobrazí výzva na výber údajov, ktoré je potrebné importovať.
 import-from-app = Import z aplikácie
 import-from-app-desc = Zvoľte, odkiaľ chcete importovať účty, adresáre, kalendáre a ďalšie údaje:
 import-address-book = Import súboru adresára
@@ -80,6 +83,9 @@ from-app-becky = Import z { app-name-becky }
 from-app-apple-mail = Import z { app-name-apple-mail }
 profiles-pane-title-thunderbird = Importujte nastavenia a údaje z profilu { app-name-thunderbird }u.
 profiles-pane-title-seamonkey = Importujte nastavenia a údaje z profilu { app-name-seamonkey }.
+profiles-pane-title-outlook = Importujte údaje z aplikácie { app-name-outlook }.
+profiles-pane-title-becky = Importujte údaje z aplikácie { app-name-becky }.
+profiles-pane-title-apple-mail = Importujte správy z { app-name-apple-mail }.
 profile-source = Import z profilu
 # $profileName (string) - name of the profile
 profile-source-named = Importovať z profilu <strong>"{ $profileName }"</strong>
@@ -94,6 +100,7 @@ items-pane-checkbox-accounts = Účty a nastavenia
 items-pane-checkbox-address-books = Adresáre
 items-pane-checkbox-calendars = Kalendáre
 items-pane-checkbox-mail-messages = E-mailové správy
+items-pane-override = Žiadne existujúce alebo identické údaje nebudú prepísané.
 
 ## Import from address book file steps
 
@@ -108,21 +115,42 @@ addr-book-file-picker = Vyberte súbor adresára
 addr-book-csv-field-map-title = Priraďte názvy polí
 addr-book-csv-field-map-desc = Vyberte polia adresára zodpovedajúce zdrojovým poliam. Zrušte začiarknutie polí, ktoré nechcete importovať.
 addr-book-directories-pane-title = Vyberte priečinok, do ktorého chcete importovať:
+addr-book-directories-title = Zvoľte, kam chcete importovať vybrané údaje
 addr-book-directories-pane-source = Zdrojový súbor:
 addr-book-import-into-new-directory = Vytvoriť nový priečinok
 
 ## Import from address book file steps
 
+# $addressBookName (string) - name of the new address book that would be created.
+addr-book-import-into-new-directory2 = Vytvoriť nový adresár s názvom <strong>"{ $addressBookName }"</strong>
+# $addressBookName (string) - name of the address book to import into
+addr-book-summary-title = Importovať zvolené údaje do adresára "{ $addressBookName }"
+# $addressBookName (string) - name of the address book that will be created.
+addr-book-summary-description = Vytvorí sa nový adresár s názvom "{ $addressBookName }".
 
 ## Import from calendar file steps
 
 import-from-calendar-file-desc = Vyberte súbor iCalendar (.ics), ktorý chcete importovať.
+calendar-items-title = Zvoľte položky, ktoré chcete importovať.
 calendar-items-loading = Načítavajú sa položky ...
 calendar-items-filter-input =
     .placeholder = Filtrovať položky…
 calendar-select-all-items = Vybrať všetko
 calendar-deselect-all-items = Zrušiť výber
 calendar-import-into-new-calendar = Vytvoriť nový kalendár
+calendar-target-title = Vyberte, kam chcete importovať zvolené položky.
+# $targetCalendar (string) - name of the new calendar that would be created
+calendar-import-into-new-calendar2 = Vytvoriť nový kalendár s názvom <strong>"{ $targetCalendar }"</strong>
+# $itemCount (number) - count of selected items (tasks, events) that will be imported
+# $targetCalendar (string) - name of the calendar the items will be imported into
+calendar-summary-title =
+    { $itemCount ->
+        [one] Importovať { $itemCount } položku do kalendára "{ $targetCalendar }"
+        [few] Importovať { $itemCount } položky do kalendára "{ $targetCalendar }"
+       *[other] Importovať { $itemCount } položiek do kalendára "{ $targetCalendar }"
+    }
+# $targetCalendar (string) - name of the calendar that will be created
+calendar-summary-description = Vytvorí sa nový kalendár s názvom "{ $targetCalendar }".
 
 ## Import dialog
 
@@ -138,7 +166,7 @@ progress-pane-finished-desc2 = Hotovo
 error-pane-title = Chyba
 error-message-zip-file-too-big = Zvolený súbor zip je väčší ako 2 GB. Najprv ho rozbaľte a potom importujte z extrahovaného priečinka.
 error-message-extract-zip-file-failed = Nepodarilo sa extrahovať súbor zip. Rozbaľte ho ručne a potom ho importujte z extrahovaného priečinka.
-error-message-zip-file-too-big2 = Vybratý súbor ZIP je väčší ako 2 GB. Najprv ho rozbaľte a potom importujte z extrahovaného priečinka.
+error-message-zip-file-too-big2 = Zvolený súbor ZIP je väčší ako 2 GB. Najprv ho rozbaľte a potom importujte z extrahovaného priečinka.
 error-message-extract-zip-file-failed2 = Nepodarilo sa extrahovať súbor ZIP. Rozbaľte ho ručne a potom ho importujte z extrahovaného priečinka.
 error-message-failed = Import neočakávane zlyhal, ďalšie informácie môžu byť k dispozícii v Chybovej konzole.
 error-failed-to-parse-ics-file = V súbore sa nenašli žiadne importovateľné položky.
@@ -157,12 +185,19 @@ csv-target-field = Pole adresára
 
 export-profile-desc = Exportujte e-mailové účty, e-mailové správy, adresáre, nastavenia ako zálohu do súboru zip. V prípade potreby môžete tento súbor zip importovať a obnoviť svoj profil.
 export-profile-desc2 = Ak je váš aktuálny profil väčší ako 2 GB, odporúčame vám, aby ste si ho zálohovali sami.
+export-profile-title = Exportujte účty, správy, adresáre a nastavenia do súboru ZIP.
+export-profile-description = Ak je váš aktuálny profil väčší ako 2 GB, odporúčame vám, aby ste si ho zálohovali sami.
 export-open-profile-folder = Otvoriť priečinok profilu
 export-file-picker = Exportovať do súboru ZIP
+export-file-picker2 = Exportovať do súboru ZIP
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-title = Údaje, ktoré sa majú importovať
+summary-pane-start = Spustiť import
+summary-pane-warning = Po dokončení importu bude potrebné { -brand-product-name } reštartovať.
+summary-pane-start-over = Reštartovať nástroj na importovanie
 
 ## Footer area
 
