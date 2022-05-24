@@ -18,9 +18,13 @@ message-header-subject-field = Predmet<span data-l10n-name="field-separator">:</
 message-header-cc-field = Kópia<span data-l10n-name="field-separator">:</span>
 message-header-bcc-field = Skrytá kópia<span data-l10n-name="field-separator">:</span>
 message-header-newsgroups-field = Diskusné skupiny<span data-l10n-name="field-separator">:</span>
+message-header-followup-to-field = Pokračovať na<span data-l10n-name="field-separator">:</span>
 message-header-tags-field = Značky<span data-l10n-name="field-separator">:</span>
 message-header-date-field = Dátum<span data-l10n-name="field-separator">:</span>
+message-header-user-agent-field = Program<span data-l10n-name="field-separator">:</span>
+message-header-references-field = Referencie<span data-l10n-name="field-separator">:</span>
 message-header-message-id-field = ID správy<span data-l10n-name="field-separator">:</span>
+message-header-in-reply-to-field = V odpovedi na<span data-l10n-name="field-separator">:</span>
 message-header-website-field = Webová stránka<span data-l10n-name="field-separator">:</span>
 message-header-address-in-address-book-icon2 =
     .alt = V adresári
