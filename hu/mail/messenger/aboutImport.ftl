@@ -13,6 +13,10 @@ import-from-app = Importálás alkalmazásból
 import-from-app-desc = Fiókok, címjegyzékek, naptárak és egyéb adatok importálása innen:
 import-address-book = Címjegyzékfájl importálása
 import-calendar = Naptárfájl importálása
+import-file = Importálás fájlból
+import-file-title = Válasszon egy fájlt a tartalmának importálásához.
+import-address-book-title = Címjegyzékfájl importálása
+import-calendar-title = Naptárfájl importálása
 export-profile = Exportálás
 
 ## Buttons
@@ -21,6 +25,7 @@ button-cancel = Mégse
 button-back = Vissza
 button-continue = Folytatás
 button-export = Exportálás
+button-finish = Befejezés
 
 ## Import from app steps
 
@@ -37,6 +42,12 @@ profile-file-picker-dir = Válasszon profilmappát
 profile-file-picker-zip = Válasszon egy ZIP-fájlt (2 GB-nál kisebbet)
 items-pane-title = Válasszon, hogy mit szeretne importálni
 items-pane-source = Forrás helye:
+source-thunderbird = Importálás egy másik { app-name-thunderbird } telepítésből
+source-thunderbird-description = Beállítások, szűrők, üzenetek és más adatok importálása egy { app-name-thunderbird }-profilból.
+source-seamonkey = Importálás egy { app-name-seamonkey } telepítésből
+source-seamonkey-description = Beállítások, szűrők, üzenetek és más adatok importálása egy { app-name-seamonkey }-profilból.
+source-outlook = Importálás az { app-name-outlook }ból
+source-outlook-description = Fiókok, címjegyzékek és üzenetek importálása az { app-name-outlook }ból.
 
 ## Import from file selections
 
