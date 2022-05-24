@@ -18,6 +18,7 @@ message-header-subject-field = Tema<span data-l10n-name="field-separator">:</spa
 message-header-cc-field = Kopija<span data-l10n-name="field-separator">:</span>
 message-header-bcc-field = Schowana kopija<span data-l10n-name="field-separator">:</span>
 message-header-newsgroups-field = Diskusijne skupiny<span data-l10n-name="field-separator">:</span>
+message-header-followup-to-field = Dalesposrědkowanje do<span data-l10n-name="field-separator">:</span>
 message-header-tags-field = Znački<span data-l10n-name="field-separator">:</span>
 message-header-date-field = Datum<span data-l10n-name="field-separator">:</span>
 message-header-user-agent-field = Useragent<span data-l10n-name="field-separator">:</span>

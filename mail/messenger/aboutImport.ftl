@@ -9,6 +9,7 @@ export-page-title = Eksportować
 
 import-start = Importowanski nastroj
 import-start-title = Importowanske nastajenja abo daty z nałoženja abo dataje.
+import-start-description = Wubjerće žórło, z kotrehož chceće importować. Proša was podźišo wubrać, kotre daty maja so importować.
 import-from-app = Z nałoženja importować
 import-from-app-desc = Wubjerće, zwotkelž maja so konta, adresniki, protyki a druhe daty importować:
 import-address-book = Adresnikowu dataju importować
