@@ -56,7 +56,9 @@ source-file2 = 從檔案匯入
 ## Import from file selections
 
 file-profile2 = 匯入設定檔備份
+file-profile-description = 請選擇先前備份的 Thunderbird 設定檔 (.zip)
 file-calendar = 匯入行事曆
+file-calendar-description = 請選擇先前匯出的行事曆或事件 (.ics)
 file-addressbook = 匯入通訊錄
 
 ## Import from app profile steps
@@ -96,6 +98,7 @@ addr-book-file-picker = 選擇通訊錄檔案
 addr-book-csv-field-map-title = 對應欄位名稱
 addr-book-csv-field-map-desc = 選擇來源欄位與通訊錄欄位之間的對應關係，可取消勾選不想匯入的欄位。
 addr-book-directories-pane-title = 請選擇您要匯入的資料夾:
+addr-book-directories-title = 請選擇要將選擇的資料匯入到哪裡
 addr-book-directories-pane-source = 來源檔案:
 addr-book-import-into-new-directory = 建立新目錄
 
@@ -158,6 +161,7 @@ export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-title = 要匯入的資料
 summary-pane-start = 開始匯入
 summary-pane-start-over = 重新啟動匯入工具
 
