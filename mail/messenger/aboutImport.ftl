@@ -190,6 +190,11 @@ export-brand-name = { -brand-product-name }
 summary-pane-title = Daty, kótarež se maju importěrowaś
 summary-pane-start = Import zachopiś
 summary-pane-warning = Musyśo { -brand-product-name } znowego startowaś, aby se importěrowanje dokóńcyło.
+summary-pane-start-over = Importěrowański rěd znowego startowaś
 
 ## Footer area
 
+footer-help = Trjebaśo pomoc?
+footer-import-documentation = Importěrowańska dokumentacija
+footer-export-documentation = Eksportěrowańska dokumentacija
+footer-support-forum = Forum pomocy

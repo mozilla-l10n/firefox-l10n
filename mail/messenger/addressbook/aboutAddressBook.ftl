@@ -69,6 +69,38 @@ about-addressbook-sort-email-ascending =
     .label = Pó e-mailowej adresy sortěrowaś (A > Z)
 about-addressbook-sort-email-descending =
     .label = Pó e-mailowej adresy sortěrowaś (Z > A)
+about-addressbook-horizontal-layout =
+    .label = Do horicontalnego wugótowanja pśešaltowaś
+about-addressbook-vertical-layout =
+    .label = Do wertikalnego wugótowanja pśešaltowaś
+
+## Card column headers
+## Each string is listed here twice, and the values should match.
+
+about-addressbook-column-header-generatedname = Mě
+about-addressbook-column-label-generatedname =
+    .label = { about-addressbook-column-header-generatedname }
+about-addressbook-column-header-emailaddresses = E-mailowe adrese
+about-addressbook-column-label-emailaddresses =
+    .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-phonenumbers = Telefonowe numery
+about-addressbook-column-label-phonenumbers =
+    .label = { about-addressbook-column-header-phonenumbers }
+about-addressbook-column-header-addresses = Adrese
+about-addressbook-column-label-addresses =
+    .label = { about-addressbook-column-header-addresses }
+about-addressbook-column-header-title = Titel
+about-addressbook-column-label-title =
+    .label = { about-addressbook-column-header-title }
+about-addressbook-column-header-department = Wótźělenje
+about-addressbook-column-label-department =
+    .label = { about-addressbook-column-header-department }
+about-addressbook-column-header-organization = Organizacija
+about-addressbook-column-label-organization =
+    .label = { about-addressbook-column-header-organization }
+about-addressbook-column-header-addrbook = Adresnik
+about-addressbook-column-label-addrbook =
+    .label = { about-addressbook-column-header-addrbook }
 about-addressbook-cards-context-write =
     .label = Pisaś
 about-addressbook-confirm-delete-mixed-title = Kontakty a lisćiny wulašowaś
@@ -159,6 +191,7 @@ about-addressbook-entry-type-pager = Pager
 about-addressbook-entry-name-birthday = Narodny źeń
 about-addressbook-entry-name-anniversary = Wrośenica
 about-addressbook-entry-name-title = Titel
+about-addressbook-entry-name-role = Rola
 about-addressbook-entry-name-department = Wótźělenje
 about-addressbook-entry-name-organization = Organizacija
 about-addressbook-entry-name-website = Websedło
