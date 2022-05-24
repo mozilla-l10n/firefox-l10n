@@ -9,11 +9,16 @@ export-page-title = Експорт
 
 import-start = Інструмент імпортування
 import-start-title = Імпорт налаштувань або даних із застосунку чи файлу.
+import-start-description = Виберіть джерело, з якого потрібно імпортувати. Пізніше вам буде запропоновано вибрати, які саме дані потрібно імпортувати.
 import-from-app = Імпорт із застосунку
 import-from-app-desc = Виберіть імпортування облікових записів, адресних книг, календарів та інших даних із:
 import-address-book = Імпорт файлу адресної книги
 import-calendar = Імпорт файлу календаря
 import-file = Імпорт з файлу
+import-file-title = Виберіть файл, щоб імпортувати його вміст.
+import-file-description = Виберіть, щоб імпортувати попередньо створені резервні копії профілю, адресних книг або календарів.
+import-address-book-title = Імпорт файлу адресної книги
+import-calendar-title = Імпорт файлу календаря
 export-profile = Експорт
 
 ## Buttons
@@ -22,6 +27,7 @@ button-cancel = Скасувати
 button-back = Назад
 button-continue = Продовжити
 button-export = Експорт
+button-finish = Завершити
 
 ## Import from app steps
 
@@ -38,14 +44,32 @@ profile-file-picker-dir = Виберіть теку профілю
 profile-file-picker-zip = Виберіть zip-файл (до 2 Гб)
 items-pane-title = Виберіть, що імпортувати
 items-pane-source = Розташування джерела:
+source-thunderbird = Імпорт з іншого установленого { app-name-thunderbird }
+source-thunderbird-description = Імпортувати налаштування, фільтри, повідомлення та інші дані з профілю { app-name-thunderbird }.
+source-seamonkey = Імпорт з установленого { app-name-seamonkey }
+source-seamonkey-description = Імпортувати налаштування, фільтри, повідомлення та інші дані з профілю { app-name-seamonkey }.
+source-outlook = Імпорт із { app-name-outlook }
+source-outlook-description = Імпорт облікових записів, адресних книг та повідомлень з { app-name-outlook }.
+source-becky = Імпорт із { app-name-becky }
+source-becky-description = Імпорт адресних книг та повідомлень з { app-name-becky }.
+source-apple-mail = Імпорт із { app-name-apple-mail }
+source-apple-mail-description = Імпорт повідомлень із { app-name-apple-mail }.
+source-file2 = Імпорт з файлу
+source-file-description = Виберіть файл для імпорту адресних книг, календарів або резервної копії профілю (файл ZIP).
 
 ## Import from file selections
 
+file-profile2 = Імпорт резервного профілю
+file-profile-description = Виберіть попередньо створений профіль Thunderbird (.zip)
 file-calendar = Імпорт календарів
+file-calendar-description = Виберіть файл, що містить експортовані календарі або події (.ics)
 file-addressbook = Імпорт адресних книг
+file-addressbook-description = Виберіть файл, що містить експортовані адресні книги та контакти
 
 ## Import from app profile steps
 
+from-app-thunderbird = Імпорт із профілю { app-name-thunderbird }
+from-app-seamonkey = Імпорт із профілю { app-name-seamonkey }
 items-pane-checkbox-accounts = Облікові записи й налаштування
 items-pane-checkbox-address-books = Адресні книги
 items-pane-checkbox-calendars = Календарі
