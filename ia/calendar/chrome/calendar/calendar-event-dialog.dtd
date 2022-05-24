@@ -43,13 +43,10 @@
 <!ENTITY event.attendees.disallowcounter.tooltip     "Indicar que tu non acceptara le contra-propositiones">
 
 <!-- Keyboard Shortcuts -->
-<!ENTITY event.dialog.new.event.key2              "I">
-<!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
 <!ENTITY event.dialog.save.key                    "S">
 <!ENTITY event.dialog.saveandclose.key            "L">
-<!ENTITY event.dialog.print.key                   "P">
 <!ENTITY event.dialog.undo.key                    "Z">
 <!ENTITY event.dialog.redo.key                    "Y">
 <!ENTITY event.dialog.cut.key                     "X">
@@ -91,10 +88,6 @@
 
 <!ENTITY  event.menu.item.delete.label                    "Deler…">
 <!ENTITY  event.menu.item.delete.accesskey                "D">
-<!ENTITY  event.menu.item.page.setup.label                "Configurar le pagina">
-<!ENTITY  event.menu.item.page.setup.accesskey            "u">
-<!ENTITY  event.menu.item.print.label                     "Imprimer">
-<!ENTITY  event.menu.item.print.accesskey                 "I">
 
 <!ENTITY  event.menu.edit.label                           "Rediger">
 <!ENTITY  event.menu.edit.accesskey                       "R">
@@ -113,14 +106,12 @@
 
 <!ENTITY  event.menu.view.label                           "Vider">
 <!ENTITY  event.menu.view.accesskey                       "V">
-<!ENTITY  event.menu.view.toolbars.label                  "Barras de utensiles">
+<!ENTITY  event.menu.view.toolbars.label                  "Barras de instrumentos">
 <!ENTITY  event.menu.view.toolbars.accesskey              "T">
 <!ENTITY  event.menu.view.toolbars.event.label            "Barra de utensile de evento">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "E">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Personalisar…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">
-<!ENTITY  event.menu.view.showlink.label                  "Monstrar ligamines correlate">
-<!ENTITY  event.menu.view.showlink.accesskey              "c">
 
 <!ENTITY  event.menu.options.label                            "Optiones">
 <!ENTITY  event.menu.options.accesskey                        "O">
