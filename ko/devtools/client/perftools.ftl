@@ -99,8 +99,14 @@ perftools-thread-jvm-gecko =
     .title = 메인 Gecko JVM 스레드
 perftools-thread-jvm-nimbus =
     .title = Nimbus 실험 SDK의 메인 스레드
+perftools-thread-jvm-default-dispatcher =
+    .title = Kotlin 코루틴 라이브러리의 기본 디스패처
 perftools-thread-jvm-glean =
     .title = Glean 원격 분석 SDK의 메인 스레드
+perftools-thread-jvm-arch-disk-io =
+    .title = Kotlin 코루틴 라이브러리의 IO 디스패처
+perftools-thread-jvm-pool =
+    .title = 이름 없는 스레드 풀에서 생성된 스레드
 
 ##
 
