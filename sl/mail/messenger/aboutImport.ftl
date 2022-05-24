@@ -13,6 +13,10 @@ import-from-app = Uvozi iz programa
 import-from-app-desc = Izberite uvoz računov, imenikov, koledarjev in drugih podatkov iz:
 import-address-book = Uvozi datoteko z imenikom
 import-calendar = Uvozi datoteko s koledarjem
+import-file = Uvozi iz datoteke
+import-file-title = Izberite datoteko, katere vsebino želite uvoziti.
+import-address-book-title = Uvozi datoteko z imenikom
+import-calendar-title = Uvozi datoteko s koledarjem
 export-profile = Izvozi
 
 ## Buttons
@@ -21,6 +25,7 @@ button-cancel = Prekliči
 button-back = Nazaj
 button-continue = Nadaljuj
 button-export = Izvozi
+button-finish = Dokončaj
 
 ## Import from app steps
 
@@ -45,10 +50,17 @@ file-addressbook = Uvozi imenike
 
 ## Import from app profile steps
 
+profile-source = Uvozi iz profila
+# $profileName (string) - name of the profile
+profile-source-named = Uvozi iz profila <strong>"{ $profileName }"</strong>
+profile-file-picker-archive = Izberite datoteko <strong>ZIP</strong>
+items-pane-directory = Mapa:
+items-pane-profile-name = Ime profila:
 items-pane-checkbox-accounts = Račune in nastavitve
 items-pane-checkbox-address-books = Imenike
 items-pane-checkbox-calendars = Koledarje
 items-pane-checkbox-mail-messages = Poštna sporočila
+items-pane-override = Morebitni obstoječi ali enaki podatki ne bodo prepisani.
 
 ## Import from address book file steps
 
