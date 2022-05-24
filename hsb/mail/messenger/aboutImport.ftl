@@ -75,9 +75,9 @@ from-app-becky = Z { app-name-becky } importować
 from-app-apple-mail = Z { app-name-apple-mail } importować
 profiles-pane-title-thunderbird = Nastajenja a daty z profila { app-name-thunderbird } importować
 profiles-pane-title-seamonkey = Nastajenja a daty z profila { app-name-seamonkey } importować
-profiles-pane-title-outlook = Daty z { app-name-outlook } importować
-profiles-pane-title-becky = Daty z { app-name-becky } importować
-profiles-pane-title-apple-mail = Powěsće z { app-name-apple-mail } importować
+profiles-pane-title-outlook = Daty z { app-name-outlook } importować.
+profiles-pane-title-becky = Daty z { app-name-becky } importować.
+profiles-pane-title-apple-mail = Powěsće z { app-name-apple-mail } importować.
 profile-source = Z profila importować
 # $profileName (string) - name of the profile
 profile-source-named = Z profila <strong>"{ $profileName }"</strong> importować
@@ -92,7 +92,7 @@ items-pane-checkbox-accounts = Konta a nastajenja
 items-pane-checkbox-address-books = Adresniki
 items-pane-checkbox-calendars = Protyki
 items-pane-checkbox-mail-messages = Mejlki
-items-pane-override = Eksistowace abo identiskedaty so njepřepisaja.
+items-pane-override = Eksistowace abo identiske daty so njepřepisaja.
 
 ## Import from address book file steps
 
