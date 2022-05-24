@@ -15,6 +15,10 @@ import-from-app-desc = Wubjeŕśo, wótkulž maju se konta, adresniki, kalendarj
 import-address-book = Adresnikowu dataju importěrowaś
 import-calendar = Dataju kalendarja importěrowaś
 import-file = Z dataje importěrowaś
+import-file-title = Wubjeŕśo dataju, aby jeje wopśimjeśe importěrował.
+import-file-description = Wubjeŕśo, aby do togo zawěsćony profil, adresniki abo kalendery importěrował.
+import-address-book-title = Adresnikowu dataju importěrowaś
+import-calendar-title = Dataju kalendera importěrowaś
 export-profile = Eksportěrowaś
 
 ## Buttons
@@ -23,6 +27,7 @@ button-cancel = Pśetergnuś
 button-back = Slědk
 button-continue = Dalej
 button-export = Eksportěrowaś
+button-finish = Dokóńcyś
 
 ## Import from app steps
 
@@ -39,14 +44,35 @@ profile-file-picker-dir = Wubjeŕśo profilowy zarědnik
 profile-file-picker-zip = Wubjeŕśo zip-dataju (mjeńšu ako 2 GB)
 items-pane-title = Wubjeŕśo, což ma se importěrowaś
 items-pane-source = Žrědłowe městno:
+source-thunderbird = Z drugeje instalacije { app-name-thunderbird } importěrowaś
+source-thunderbird-description = Nastajenja, filtry, powěsći a druge daty z profila { app-name-thunderbird } importěrowaś
+source-seamonkey = Z instalacije { app-name-seamonkey } importěrowaś
+source-seamonkey-description = Nastajenja, filtry, powěsći a druge daty z profila { app-name-seamonkey } importěrowaś
+source-outlook = Z { app-name-outlook } importěrowaś
+source-outlook-description = Konta, adresniki a powěsći z { app-name-outlook } importěrowaś.
+source-becky = Z { app-name-becky } importěrowaś
+source-becky-description = Adresniki a powěsći z { app-name-becky } importěrowaś.
+source-apple-mail = Z { app-name-apple-mail } importěrowaś
+source-apple-mail-description = Powěsći z { app-name-apple-mail } importěrowaś.
+source-file2 = Z dataje importěrowaś
+source-file-description = Wubjeŕśo dataju, aby adresniki, kalendery abo profilowe zawěsćenje (ZIP-dataju) importěrował.
 
 ## Import from file selections
 
+file-profile2 = Zawěsćony profil importěrowaś
+file-profile-description = Wubjeŕśo do togo zawěsćony profil Thunderbird (.zip)
 file-calendar = Kalendarje importěrowaś
+file-calendar-description = Wubjeŕśo dataju, kótaraž eksportěrowane kalendery abo tšojenja wopśimujo (.ics)
 file-addressbook = Adresniki importěrowaś
+file-addressbook-description = Wubjeŕśo dataju, kótaraž eksportěrowane adresniki a kontakty wopśimujo
 
 ## Import from app profile steps
 
+from-app-thunderbird = Z profila { app-name-thunderbird } importěrowaś
+from-app-seamonkey = Z profila { app-name-seamonkey } importěrowaś
+from-app-outlook = Z { app-name-outlook } importěrowaś
+from-app-becky = Z { app-name-becky } importěrowaś
+from-app-apple-mail = Z { app-name-apple-mail } importěrowaś
 items-pane-checkbox-accounts = Konta a nastajenja
 items-pane-checkbox-address-books = Adresniki
 items-pane-checkbox-calendars = Kalendarje
