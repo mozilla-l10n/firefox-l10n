@@ -84,8 +84,8 @@
 <!ENTITY Work.accesskey                 "L">
 <!ENTITY JobTitle.label                 "Titolo:">
 <!ENTITY JobTitle.accesskey             "i">
-<!ENTITY Department.label               "Dipartimento:">
-<!ENTITY Department.accesskey           "m">
+<!ENTITY Department.label               "Reparto:">
+<!ENTITY Department.accesskey           "R">
 <!ENTITY Company.label                  "Organizzazione:">
 <!ENTITY Company.accesskey              "n">
 <!ENTITY WorkAddress.label              "Indirizzo:">
