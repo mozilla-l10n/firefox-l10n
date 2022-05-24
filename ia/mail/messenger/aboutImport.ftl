@@ -115,6 +115,7 @@ items-pane-override = Ulle existente o identic datos non sera superscribite.
 ## Import from address book file steps
 
 import-from-addr-book-file-desc = Elige le typo de file que tu vole importar:
+import-from-addr-book-file-description = Elige le formato de file que contine le datos de tu libro de adresses.
 addr-book-csv-file = File separate per virgulas o tabulationes (.csv, .tsv)
 addr-book-ldif-file = file vCard (.vcf, .vcard)
 addr-book-vcard-file = File base de datos Mork (.mab)
