@@ -69,6 +69,34 @@ about-addressbook-sort-email-ascending =
     .label = Впорядкувати за адресою електронної пошти (А > Я)
 about-addressbook-sort-email-descending =
     .label = Впорядкувати за адресою електронної пошти (Я > А)
+
+## Card column headers
+## Each string is listed here twice, and the values should match.
+
+about-addressbook-column-header-generatedname = Ім'я
+about-addressbook-column-label-generatedname =
+    .label = { about-addressbook-column-header-generatedname }
+about-addressbook-column-header-emailaddresses = Адреси електронної пошти
+about-addressbook-column-label-emailaddresses =
+    .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-phonenumbers = Номери телефону
+about-addressbook-column-label-phonenumbers =
+    .label = { about-addressbook-column-header-phonenumbers }
+about-addressbook-column-header-addresses = Адреси
+about-addressbook-column-label-addresses =
+    .label = { about-addressbook-column-header-addresses }
+about-addressbook-column-header-title = Посада
+about-addressbook-column-label-title =
+    .label = { about-addressbook-column-header-title }
+about-addressbook-column-header-department = Відділ
+about-addressbook-column-label-department =
+    .label = { about-addressbook-column-header-department }
+about-addressbook-column-header-organization = Організація
+about-addressbook-column-label-organization =
+    .label = { about-addressbook-column-header-organization }
+about-addressbook-column-header-addrbook = Адресна книга
+about-addressbook-column-label-addrbook =
+    .label = { about-addressbook-column-header-addrbook }
 about-addressbook-cards-context-write =
     .label = Записати
 about-addressbook-confirm-delete-mixed-title = Видалити контакти та списки
@@ -153,6 +181,7 @@ about-addressbook-entry-type-pager = Пейджер
 about-addressbook-entry-name-birthday = День народження
 about-addressbook-entry-name-anniversary = Ювілей
 about-addressbook-entry-name-title = Заголовок
+about-addressbook-entry-name-role = Роль
 about-addressbook-entry-name-department = Відділ
 about-addressbook-entry-name-organization = Організація
 about-addressbook-entry-name-website = Вебсайт
