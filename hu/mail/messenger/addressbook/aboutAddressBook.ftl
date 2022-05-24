@@ -69,6 +69,38 @@ about-addressbook-sort-email-ascending =
     .label = Rendezés e-mail-cím szerint (A > Z)
 about-addressbook-sort-email-descending =
     .label = Rendezés e-mail-cím szerint (Z > A)
+about-addressbook-horizontal-layout =
+    .label = Váltás vízszintes elrendezésre
+about-addressbook-vertical-layout =
+    .label = Váltás függőleges elrendezésre
+
+## Card column headers
+## Each string is listed here twice, and the values should match.
+
+about-addressbook-column-header-generatedname = Név
+about-addressbook-column-label-generatedname =
+    .label = { about-addressbook-column-header-generatedname }
+about-addressbook-column-header-emailaddresses = E-mail-címek
+about-addressbook-column-label-emailaddresses =
+    .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-phonenumbers = Telefonszámok
+about-addressbook-column-label-phonenumbers =
+    .label = { about-addressbook-column-header-phonenumbers }
+about-addressbook-column-header-addresses = Címek
+about-addressbook-column-label-addresses =
+    .label = { about-addressbook-column-header-addresses }
+about-addressbook-column-header-title = Cím
+about-addressbook-column-label-title =
+    .label = { about-addressbook-column-header-title }
+about-addressbook-column-header-department = Részleg
+about-addressbook-column-label-department =
+    .label = { about-addressbook-column-header-department }
+about-addressbook-column-header-organization = Szervezet
+about-addressbook-column-label-organization =
+    .label = { about-addressbook-column-header-organization }
+about-addressbook-column-header-addrbook = Címjegyzék
+about-addressbook-column-label-addrbook =
+    .label = { about-addressbook-column-header-addrbook }
 about-addressbook-cards-context-write =
     .label = Írás
 about-addressbook-confirm-delete-mixed-title = Névjegyek és listák törlése
@@ -147,6 +179,7 @@ about-addressbook-entry-type-pager = Személyhívó
 about-addressbook-entry-name-birthday = Születésnap
 about-addressbook-entry-name-anniversary = Évforduló
 about-addressbook-entry-name-title = Cím
+about-addressbook-entry-name-role = Szerep
 about-addressbook-entry-name-department = Részleg
 about-addressbook-entry-name-organization = Szervezet
 about-addressbook-entry-name-website = Webhely
