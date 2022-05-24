@@ -69,6 +69,10 @@ about-addressbook-sort-email-ascending =
     .label = Впорядкувати за адресою електронної пошти (А > Я)
 about-addressbook-sort-email-descending =
     .label = Впорядкувати за адресою електронної пошти (Я > А)
+about-addressbook-horizontal-layout =
+    .label = Перейти до альбомного подання
+about-addressbook-vertical-layout =
+    .label = Перейти до портретного подання
 
 ## Card column headers
 ## Each string is listed here twice, and the values should match.
