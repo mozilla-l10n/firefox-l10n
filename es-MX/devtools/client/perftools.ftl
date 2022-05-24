@@ -21,6 +21,7 @@ perftools-heading-features-default = Funcionalidades (recomendadas activadas de 
 perftools-heading-features-disabled = Funcionalidades deshabilitadas
 perftools-heading-features-experimental = Experimental
 perftools-heading-threads = Hilos
+perftools-heading-threads-jvm = Subprocesos JVM
 perftools-heading-local-build = Compilación local
 
 ##
@@ -42,9 +43,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Tamaño del buffer:
-
 perftools-custom-threads-label = Agregar hilos personalizados por nombre:
-
 perftools-devtools-interval-label = Intervalo:
 perftools-devtools-threads-label = Hilos:
 perftools-devtools-settings-label = Ajustes
@@ -96,11 +95,18 @@ perftools-thread-dns-resolver =
     .title = La resolución de DNS ocurre en este hilo
 perftools-thread-task-controller =
     .title = Hilos del grupo de subprocesos de TaskController
+perftools-thread-jvm-gecko =
+    .title = El subproceso principal de Gecko JVM
+perftools-thread-jvm-nimbus =
+    .title = Los subprocesos principales para el SDK de experimentos de Nimbus
+perftools-thread-jvm-default-dispatcher =
+    .title = El despachador predeterminado para la biblioteca de rutinas de Kotlin
+perftools-thread-jvm-glean =
+    .title = Los subprocesos principales del SDK de telemetría de Glean
 
 ##
 
 perftools-record-all-registered-threads = Omitir las selecciones de arriba y grabar todos los hilos registrados
-
 perftools-tools-threads-input-label =
     .title = Estos nombres de hilos son una lista separada por comas que se utiliza para habilitar la creación de perfiles de los hilos en el perfilador. El nombre debe ser solo una coincidencia parcial del nombre del hilo para que se incluya. Es sensible a los espacios en blanco.
 
@@ -108,14 +114,13 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Nuevo</b>: { -profiler-brand-name } ahora está integrado en las herramientas para desarrolladores. <a>Saber más</a> sobre esta poderosa herramienta.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Por un tiempo limitado, podrás acceder al panel de rendimiento original a través de <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Cerrar el mensaje introductorio
 
@@ -128,19 +133,14 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Desarrollador web
 perftools-presets-web-developer-description = Configuración recomendada para la depuración de la mayoría de aplicaciones web, con poca sobrecarga.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Configuración preestablecida recomendada para crear perfiles de { -brand-shorter-name }.
-
 perftools-presets-graphics-label = Gráficos
 perftools-presets-graphics-description = Preestablecido para investigar errores gráficos en { -brand-shorter-name }.
-
 perftools-presets-media-label = Multimedia
 perftools-presets-media-description2 = Preestablecido para investigar errores de audio y video en { -brand-shorter-name }.
-
 perftools-presets-networking-label = Redes
 perftools-presets-networking-description = Preestablecido para investigar errores de red en { -brand-shorter-name }.
-
 perftools-presets-custom-label = Personalizado
 
 ##
