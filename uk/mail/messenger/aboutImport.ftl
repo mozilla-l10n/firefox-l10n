@@ -70,14 +70,34 @@ file-addressbook-description = Виберіть файл, що містить е
 
 from-app-thunderbird = Імпорт із профілю { app-name-thunderbird }
 from-app-seamonkey = Імпорт із профілю { app-name-seamonkey }
+from-app-outlook = Імпорт із { app-name-outlook }
+from-app-becky = Імпорт із { app-name-becky }
+from-app-apple-mail = Імпорт із { app-name-apple-mail }
+profiles-pane-title-thunderbird = Імпорт налаштувань і даних із профілю { app-name-thunderbird }
+profiles-pane-title-seamonkey = Імпорт налаштувань і даних із профілю { app-name-seamonkey }
+profiles-pane-title-outlook = Імпорт даних із { app-name-outlook }.
+profiles-pane-title-becky = Імпорт даних із { app-name-becky }.
+profiles-pane-title-apple-mail = Імпорт повідомлень із { app-name-apple-mail }
+profile-source = Імпорт із профілю
+# $profileName (string) - name of the profile
+profile-source-named = Імпорт із профілю <strong>"{ $profileName }"</strong>
+profile-file-picker-directory = Виберіть теку профілю
+profile-file-picker-archive = Виберіть файл <strong>ZIP</strong>
+profile-file-picker-archive-description = Файл ZIP має бути меншим за 2 Гб.
+profile-file-picker-archive-title = Виберіть файл ZIP (до 2 ГБ)
+items-pane-title2 = Виберіть, що імпортувати:
+items-pane-directory = Каталог:
+items-pane-profile-name = Назва профілю:
 items-pane-checkbox-accounts = Облікові записи й налаштування
 items-pane-checkbox-address-books = Адресні книги
 items-pane-checkbox-calendars = Календарі
 items-pane-checkbox-mail-messages = Повідомлення пошти
+items-pane-override = Будь-які наявні або ідентичні дані не будуть перезаписані.
 
 ## Import from address book file steps
 
 import-from-addr-book-file-desc = Виберіть тип файлу, який ви хочете імпортувати:
+import-from-addr-book-file-description = Виберіть формат файлу, який містить дані вашої адресної книги.
 addr-book-csv-file = Файл, розділений комою або табулятором (.csv, .tsv)
 addr-book-ldif-file = Файл LDIF (.ldif)
 addr-book-vcard-file = Файл vCard (.vcf, .vcard)
@@ -87,21 +107,30 @@ addr-book-file-picker = Виберіть файл адресної книги
 addr-book-csv-field-map-title = Збіг назв полів
 addr-book-csv-field-map-desc = Виберіть поля адресної книги, що відповідають полям джерела. Приберіть прапорці з полів, які не потрібно імпортувати.
 addr-book-directories-pane-title = Виберіть каталог, до якого потрібно імпортувати:
+addr-book-directories-title = Виберіть, куди імпортувати вибрані дані
 addr-book-directories-pane-source = Джерельний файл:
 addr-book-import-into-new-directory = Створити новий каталог
 
 ## Import from address book file steps
 
+# $addressBookName (string) - name of the new address book that would be created.
+addr-book-import-into-new-directory2 = Створіть новий каталог під назвою <strong>«{ $addressBookName }»</strong>
+# $addressBookName (string) - name of the address book to import into
+addr-book-summary-title = Імпортуйте вибрані дані в каталог «{ $addressBookName }».
+# $addressBookName (string) - name of the address book that will be created.
+addr-book-summary-description = Буде створена нова адресна книга під назвою «{ $addressBookName }».
 
 ## Import from calendar file steps
 
 import-from-calendar-file-desc = Виберіть файл iCalendar (.ics), який потрібно імпортувати.
+calendar-items-title = Виберіть елементи для імпорту.
 calendar-items-loading = Завантаження елементів…
 calendar-items-filter-input =
     .placeholder = Фільтр елементів…
 calendar-select-all-items = Вибрати все
 calendar-deselect-all-items = Зняти все
 calendar-import-into-new-calendar = Створити новий календар
+calendar-target-title = Виберіть, куди імпортувати вибрані елементи
 
 ## Import dialog
 
