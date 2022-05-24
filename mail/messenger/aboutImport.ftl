@@ -113,6 +113,12 @@ addr-book-import-into-new-directory = Búa til nýja möppu
 
 ## Import from address book file steps
 
+# $addressBookName (string) - name of the new address book that would be created.
+addr-book-import-into-new-directory2 = Búa til nýja möppu sem heitir <strong>"{ $addressBookName }"</strong>
+# $addressBookName (string) - name of the address book to import into
+addr-book-summary-title = Flytja valin gögn inn í "{ $addressBookName }" möppuna
+# $addressBookName (string) - name of the address book that will be created.
+addr-book-summary-description = Ný nafnaskrá sem heitir "{ $addressBookName }" verður búin til.
 
 ## Import from calendar file steps
 
@@ -127,6 +133,8 @@ calendar-import-into-new-calendar = Búa til nýtt dagatal
 calendar-target-title = Veldu hvert á að flytja inn valin atriði.
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = Búa til nýtt dagatal sem heitir <strong>"{ $targetCalendar }"</strong>
+# $targetCalendar (string) - name of the calendar that will be created
+calendar-summary-description = Nýtt dagatal sem heitir "{ $targetCalendar }" verður búið til.
 
 ## Import dialog
 
@@ -142,6 +150,8 @@ progress-pane-finished-desc2 = Lokið.
 error-pane-title = Villa
 error-message-zip-file-too-big = Valin zip-skrá er stærri en 2GB. Afþjappaðu hana fyrst, síðan skaltu í staðinn flytja inn úr afþjöppuðu möppunni.
 error-message-extract-zip-file-failed = Mistókst að afþjappa zip-skrána. Afþjappaðu hana handvirkt, síðan skaltu í staðinn flytja inn úr afþjöppuðu möppunni.
+error-message-zip-file-too-big2 = Valin ZIP-skrá er stærri en 2GB. Afþjappaðu hana fyrst, síðan skaltu í staðinn flytja inn úr afþjöppuðu möppunni.
+error-message-extract-zip-file-failed2 = Mistókst að afþjappa ZIP-skrána. Afþjappaðu hana handvirkt, síðan skaltu í staðinn flytja inn úr afþjöppuðu möppunni.
 error-message-failed = Innflutningur mistókst óvænt, frekari upplýsingar gætu verið tiltækar á villuskjánum.
 error-failed-to-parse-ics-file = Engin innflutningshæf atriði fundust í skránni.
 error-export-failed = Útflutningur mistókst óvænt, frekari upplýsingar gætu verið tiltækar á villuskjánum.
