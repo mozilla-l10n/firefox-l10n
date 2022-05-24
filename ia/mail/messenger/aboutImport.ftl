@@ -110,7 +110,7 @@ items-pane-checkbox-accounts = Contos e parametros
 items-pane-checkbox-address-books = Libros de adresses
 items-pane-checkbox-calendars = Agendas
 items-pane-checkbox-mail-messages = Messages e-mail
-items-pane-override = Ulle existente o identic datos non sera superscribite.
+items-pane-override = Ulle datos existente o identic non sera superscribite.
 
 ## Import from address book file steps
 
@@ -125,11 +125,18 @@ addr-book-file-picker = Elige un file libro del adresses
 addr-book-csv-field-map-title = Concordar nomines de campo
 addr-book-csv-field-map-desc = Elige le campos de libro de adresses correspondente al campos fonte. Dismarca le campos que tu non vole importar.
 addr-book-directories-pane-title = Elige le directorio in que tu vole importar:
+addr-book-directories-title = Elige ubi importar le datos eligite
 addr-book-directories-pane-source = File fonte:
 addr-book-import-into-new-directory = Crear un nove directorio
 
 ## Import from address book file steps
 
+# $addressBookName (string) - name of the new address book that would be created.
+addr-book-import-into-new-directory2 = Crear un nove directorio appellate <strong>"{ $addressBookName }"</strong>
+# $addressBookName (string) - name of the address book to import into
+addr-book-summary-title = Importar le datos eligite in le directorio "{ $addressBookName }"
+# $addressBookName (string) - name of the address book that will be created.
+addr-book-summary-description = Un nove libro de adresses appellate "{ $addressBookName }" sera create.
 
 ## Import from calendar file steps
 
