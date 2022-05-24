@@ -55,22 +55,49 @@ source-becky-description = Importar libretas de direcciones y mensajes de { app-
 source-apple-mail = Importar desde { app-name-apple-mail }
 source-apple-mail-description = Importar mensajes desde { app-name-apple-mail }.
 source-file2 = Importar desde un archivo
+source-file-description = Selecciona un archivo para importar libretas de direcciones, calendarios o una copia de seguridad del perfil (archivo ZIP).
 
 ## Import from file selections
 
+file-profile2 = Importar perfil respaldado
+file-profile-description = Selecciona un perfil de Thunderbird previamente respaldado (.zip)
 file-calendar = Importar Calendarios
+file-calendar-description = Seleccione un archivo que contenga calendarios o eventos exportados (.ics)
 file-addressbook = Importar libretas de direcciones
+file-addressbook-description = Seleccione un archivo que contenga libretas de direcciones y contactos exportados
 
 ## Import from app profile steps
 
+from-app-thunderbird = Importar desde un perfil de { app-name-thunderbird }
+from-app-seamonkey = Importar desde un perfil de { app-name-seamonkey }
+from-app-outlook = Importar desde { app-name-outlook }
+from-app-becky = Importar desde { app-name-becky }
+from-app-apple-mail = Importar desde { app-name-apple-mail }
+profiles-pane-title-thunderbird = Importar ajustes y datos desde un perfil { app-name-thunderbird }.
+profiles-pane-title-seamonkey = Importar ajustes y datos desde un perfil { app-name-seamonkey }.
+profiles-pane-title-outlook = Importar datos desde { app-name-outlook }.
+profiles-pane-title-becky = Importar datos desde { app-name-becky }.
+profiles-pane-title-apple-mail = Importar mensajes desde { app-name-apple-mail }.
+profile-source = Importar desde perfil
+# $profileName (string) - name of the profile
+profile-source-named = Importar desde el perfil <strong>"{ $profileName }"</strong>
+profile-file-picker-directory = Elige una carpeta de perfil
+profile-file-picker-archive = Elige un archivo <strong>ZIP</strong>
+profile-file-picker-archive-description = El archivo ZIP debe ser más pequeño que 2GB.
+profile-file-picker-archive-title = Selecciona un archivo ZIP (menor a 2GB)
+items-pane-title2 = Selecciona qué importar:
+items-pane-directory = Directorio:
+items-pane-profile-name = Nombre del perfil:
 items-pane-checkbox-accounts = Cuentas y configuración
 items-pane-checkbox-address-books = Libretas de direcciones
 items-pane-checkbox-calendars = Calendarios
 items-pane-checkbox-mail-messages = Mensajes de correo
+items-pane-override = Cualquier dato existente o idéntico no se sobrescribirá.
 
 ## Import from address book file steps
 
 import-from-addr-book-file-desc = Selecciona el tipo de archivo que te gustaría importar:
+import-from-addr-book-file-description = Selecciona el formato de archivo que contiene los datos de tu libreta de direcciones.
 addr-book-csv-file = Archivo separado por comas o tabuladores (.csv, .tsv)
 addr-book-ldif-file = Archivo LDIF (.ldif)
 addr-book-vcard-file = Archivo vCard (.vcf, .vcard)
@@ -80,15 +107,23 @@ addr-book-file-picker = Seleccionar un archivo de la libreta de direcciones
 addr-book-csv-field-map-title = Hacer coincidir nombres de campo
 addr-book-csv-field-map-desc = Selecciona los campos de la libreta de direcciones correspondientes a los campos de origen. Desmarca los campos que no deseas importar.
 addr-book-directories-pane-title = Seleccione el directorio al que deseas importar:
+addr-book-directories-title = Selecciona dónde importar los datos elegidos
 addr-book-directories-pane-source = Archivo fuente:
 addr-book-import-into-new-directory = Crear un nuevo directorio
 
 ## Import from address book file steps
 
+# $addressBookName (string) - name of the new address book that would be created.
+addr-book-import-into-new-directory2 = Crear un nuevo directorio llamado <strong>"{ $addressBookName }"</strong>
+# $addressBookName (string) - name of the address book to import into
+addr-book-summary-title = Importar los datos elegidos en el directorio "{ $addressBookName }"
+# $addressBookName (string) - name of the address book that will be created.
+addr-book-summary-description = Se creará una nueva libreta de direcciones llamada "{ $addressBookName }".
 
 ## Import from calendar file steps
 
 import-from-calendar-file-desc = Selecciona el archivo iCalendar (.ics) que te gustaría importar.
+calendar-items-title = Selecciona qué elementos importar.
 calendar-items-loading = Cargando elementos…
 calendar-items-filter-input =
     .placeholder = Filtrar elementos…
