@@ -150,12 +150,20 @@ progress-pane-importing = Імпортування
 progress-pane-exporting = Експортування
 progress-pane-finished-desc = Завершено.
 progress-pane-restart-desc = Перезапустіть, щоб завершити імпортування.
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-importing2 = Імпортування… { $progressPercent }
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-exporting2 = Експортування… { $progressPercent }
+progress-pane-finished-desc2 = Завершено.
 error-pane-title = Помилка
 error-message-zip-file-too-big = Вибраний zip-файл більший ніж 2 ГБ. Спочатку видобудьте його, а потім імпортуйте з видобутої теки.
 error-message-extract-zip-file-failed = Не вдалося видобути zip-файл. Видобудьте його вручну, а потім імпортуйте з видобутої теки.
+error-message-zip-file-too-big2 = Вибраний ZIP-файл більший ніж 2 ГБ. Спочатку видобудьте його, а потім імпортуйте з видобутої теки.
+error-message-extract-zip-file-failed2 = Не вдалося видобути ZIP-файл. Видобудьте його вручну, а потім імпортуйте з видобутої теки.
 error-message-failed = Не вдалося імпортувати, можливо, більше даних буде доступно у Консолі помилок.
 error-failed-to-parse-ics-file = У файлі не знайдено придатних для імпортування елементів.
 error-export-failed = Не вдалося експортувати, можливо, більше даних буде доступно в Консолі помилок.
+error-message-no-profile = Профіль не знайдено.
 
 ## <csv-field-map> element
 
@@ -169,12 +177,19 @@ csv-target-field = Поле адресної книги
 
 export-profile-desc = Експорт поштових облікових записів, поштових повідомлень, адресних книг, налаштувань до zip-файлу. За потреби ви можете імпортувати zip-файл, щоб відновити свій профіль.
 export-profile-desc2 = Якщо ваш поточний профіль понад 2 ГБ, ми радимо вам створити його самостійно.
+export-profile-title = Експортуйте облікові записи, повідомлення, адресні книги та налаштування в ZIP-файл.
+export-profile-description = Якщо ваш поточний профіль понад 2 ГБ, ми радимо вам створити його самостійно.
 export-open-profile-folder = Відкрити теку профілю
 export-file-picker = Експорт у zip-файл
+export-file-picker2 = Експортувати в ZIP-файл
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-title = Дані для імпорту
+summary-pane-start = Почати імпортування
+summary-pane-warning = { -brand-product-name } потрібно буде перезапустити після завершення імпорту.
+summary-pane-start-over = Перезапустити інструмент імпорту
 
 ## Footer area
 
