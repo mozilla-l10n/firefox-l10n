@@ -41,6 +41,16 @@ profile-file-picker-dir = 選擇設定檔資料夾
 profile-file-picker-zip = 選擇 ZIP 檔（小於 2GB）
 items-pane-title = 選擇要匯入的項目
 items-pane-source = 來源位置:
+source-thunderbird = 從另一套 { app-name-thunderbird } 匯入
+source-thunderbird-description = 從 { app-name-thunderbird } 設定檔匯入設定、過濾器、訊息與其他資料。
+source-seamonkey = 從安裝好的 { app-name-seamonkey } 匯入
+source-seamonkey-description = 從 { app-name-seamonkey } 設定檔匯入設定、過濾器、訊息與其他資料。
+source-outlook = 從 { app-name-outlook } 匯入
+source-outlook-description = 從 { app-name-outlook } 匯入帳號、通訊錄與郵件訊息。
+source-becky = 從 { app-name-becky } 匯入
+source-becky-description = 從 { app-name-becky } 匯入帳號、通訊錄與郵件訊息。
+source-apple-mail = 從 { app-name-apple-mail } 匯入
+source-apple-mail-description = 從 { app-name-apple-mail } 匯入相關訊息。
 source-file2 = 從檔案匯入
 
 ## Import from file selections
@@ -51,6 +61,8 @@ file-addressbook = 匯入通訊錄
 
 ## Import from app profile steps
 
+from-app-thunderbird = 從 { app-name-thunderbird } 設定檔匯入
+from-app-seamonkey = 從 { app-name-seamonkey } 設定檔匯入
 from-app-outlook = 從 { app-name-outlook } 匯入
 from-app-becky = 從 { app-name-becky } 匯入
 from-app-apple-mail = 從 { app-name-apple-mail } 匯入
@@ -61,6 +73,10 @@ profiles-pane-title-becky = 從 { app-name-becky } 匯入相關資料。
 profiles-pane-title-apple-mail = 從 { app-name-apple-mail } 匯入相關訊息。
 profile-source = 從設定檔匯入
 profile-file-picker-directory = 請選擇設定檔資料夾
+profile-file-picker-archive = 請選擇 <strong>ZIP</strong> 檔
+profile-file-picker-archive-description = ZIP 檔必須小於 2GB。
+profile-file-picker-archive-title = 請選擇 ZIP 檔（小於 2GB）
+items-pane-title2 = 請選擇要匯入的項目:
 items-pane-directory = 資料夾:
 items-pane-profile-name = 設定檔名稱:
 items-pane-checkbox-accounts = 帳號與設定
@@ -85,16 +101,20 @@ addr-book-import-into-new-directory = 建立新目錄
 
 ## Import from address book file steps
 
+# $addressBookName (string) - name of the address book that will be created.
+addr-book-summary-description = 將建立新的通訊錄「{ $addressBookName }」。
 
 ## Import from calendar file steps
 
 import-from-calendar-file-desc = 請選擇您要匯入的 iCalendar（.ics）檔案。
+calendar-items-title = 請選擇要匯入的項目。
 calendar-items-loading = 正在載入項目…
 calendar-items-filter-input =
     .placeholder = 過濾項目…
 calendar-select-all-items = 選擇全部
 calendar-deselect-all-items = 取消選擇全部
 calendar-import-into-new-calendar = 建立新的行事曆
+calendar-target-title = 請選擇要將選擇的項目匯入到哪裡。
 
 ## Import dialog
 
@@ -102,11 +122,16 @@ progress-pane-importing = 匯入中
 progress-pane-exporting = 匯出中
 progress-pane-finished-desc = 完成。
 progress-pane-restart-desc = 請重新啟動以完成匯入。
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-importing2 = 匯入中… { $progressPercent }
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-exporting2 = 匯出中… { $progressPercent }
 progress-pane-finished-desc2 = 完成。
 error-pane-title = 錯誤
 error-message-zip-file-too-big = 選擇的 ZIP 檔案大小超過 2GB。請先解壓縮，然後改匯入解壓縮的資料匣。
 error-message-extract-zip-file-failed = ZIP 檔解壓縮失敗，請手動解壓縮，並重新匯入解開的資料夾。
 error-message-zip-file-too-big2 = 選擇的 ZIP 檔案大小超過 2GB。請先解壓縮，然後改匯入解壓縮的資料夾。
+error-message-extract-zip-file-failed2 = ZIP 檔解壓縮失敗，請手動解壓縮，並重新匯入解開的資料夾。
 error-message-failed = 發生未預期的匯入失敗，錯誤主控台中可能有更多資訊。
 error-failed-to-parse-ics-file = 檔案中找不到可匯入的項目。
 error-export-failed = 發生未預期的匯出失敗，錯誤主控台中可能有更多資訊。
@@ -124,6 +149,8 @@ csv-target-field = 通訊錄欄位
 
 export-profile-desc = 將郵件帳號、郵件內容、通訊錄、設定匯出為一包 ZIP 檔案。需要的時候可將該檔案重新匯入，來還原設定檔。
 export-profile-desc2 = 若您目前的設定檔超過 2GB，建議您手動備份。
+export-profile-title = 將帳號、訊息、通訊錄、設定匯出成 ZIP 檔。
+export-profile-description = 若您目前的設定檔超過 2GB，建議您手動備份。
 export-open-profile-folder = 開啟設定檔目錄
 export-file-picker = 匯出成 zip 檔
 export-file-picker2 = 匯出成 ZIP 檔
