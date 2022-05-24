@@ -74,15 +74,19 @@ addr-book-file-picker = Izberite datoteko imenika
 addr-book-csv-field-map-title = Poveži imena polj
 addr-book-csv-field-map-desc = Izberite polja v imeniku, ki ustrezajo izvornim poljem. Počistite polja, ki jih ne želite uvoziti.
 addr-book-directories-pane-title = Izberite mapo, iz katere želite uvoziti podatke:
+addr-book-directories-title = Izberite, kam želite uvoziti izbrane podatke
 addr-book-directories-pane-source = Izvorna datoteka:
 addr-book-import-into-new-directory = Ustvari novo mapo
 
 ## Import from address book file steps
 
+# $addressBookName (string) - name of the address book that will be created.
+addr-book-summary-description = Ustvarjen bo nov imenik z imenom "{ $addressBookName }".
 
 ## Import from calendar file steps
 
 import-from-calendar-file-desc = Izberite datoteko iCalendar (.ics), ki jo želite uvoziti.
+calendar-items-title = Izberite, kaj želite uvoziti.
 calendar-items-loading = Nalaganje …
 calendar-items-filter-input =
     .placeholder = Filtriraj predmete …
@@ -96,9 +100,16 @@ progress-pane-importing = Uvažanje
 progress-pane-exporting = Izvažanje
 progress-pane-finished-desc = Končano.
 progress-pane-restart-desc = Znova zaženite za dokončanje uvoza.
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-importing2 = Uvažanje … { $progressPercent }
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-exporting2 = Izvažanje … { $progressPercent }
+progress-pane-finished-desc2 = Dokončano.
 error-pane-title = Napaka
 error-message-zip-file-too-big = Izbrana datoteka .zip je večja od 2&nbsp;GB. Namesto uvoza jo ekstrahirajte, nato pa uvozite ekstrahirano mapo.
 error-message-extract-zip-file-failed = Datoteke .zip ni bilo mogoče ekstrahirati. Ekstrahirajte jo ročno in nato uvozite iz ekstrahirane mape.
+error-message-zip-file-too-big2 = Izbrana datoteka ZIP je večje od 2&nbsp;GB. Namesto uvoza jo ekstrahirajte, nato pa uvozite ekstrahirano mapo.
+error-message-extract-zip-file-failed2 = Datoteke ZIP ni bilo mogoče ekstrahirati. Ekstrahirajte jo ročno in nato uvozite iz ekstrahirane mape.
 error-message-failed = Uvoz je nepričakovano spodletel. Več podatkov je morda na voljo v konzoli napak.
 error-failed-to-parse-ics-file = V datoteki ni predmetov, ki bi jih bilo mogoče uvoziti.
 error-export-failed = Izoz je nepričakovano spodletel. Več podatkov je morda na voljo v konzoli napak.
@@ -117,6 +128,7 @@ export-profile-desc = Izvozite poštne račune, sporočila, imenike in nastavitv
 export-profile-desc2 = Če je vaš trenutni profil večji od 2 GB, predlagamo, da ga varnostno kopirate sami.
 export-open-profile-folder = Odpri mapo s profilom
 export-file-picker = Izvozi v datoteko .zip
+export-file-picker2 = Izvozi v datoteko ZIP
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
