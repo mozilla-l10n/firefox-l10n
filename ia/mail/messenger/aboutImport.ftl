@@ -198,13 +198,19 @@ export-profile-title = Exportar contos, messages, libros de adresses e parametro
 export-profile-description = Si tu actual profilo es major de 2GB, nos te suggere de reservar lo tu mesme.
 export-open-profile-folder = Aperir le plica del profilo
 export-file-picker = Exportar a un file zip
+export-file-picker2 = Exportar a in un file ZIP
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-title = Datos a importar
 summary-pane-start = Initia importar
+summary-pane-warning = { -brand-product-name } debera esser reinitiate quando le importation sera complete.
+summary-pane-start-over = Reinitiar le instrumento de importation
 
 ## Footer area
 
 footer-help = Require adjuta?
+footer-import-documentation = Importar le documentation
+footer-export-documentation = Exportar le documentation
 footer-support-forum = Foro de supporto
