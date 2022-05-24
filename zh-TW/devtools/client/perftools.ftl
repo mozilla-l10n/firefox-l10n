@@ -19,6 +19,7 @@ perftools-heading-features-default = 功能（預設推薦開啟）
 perftools-heading-features-disabled = 已停用的功能
 perftools-heading-features-experimental = 實驗中
 perftools-heading-threads = 執行緒
+perftools-heading-threads-jvm = JVM 執行緒
 perftools-heading-local-build = 本機編譯版本
 
 ##
@@ -35,9 +36,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = 緩衝區大小:
-
 perftools-custom-threads-label = 依照名稱新增自訂執行緒:
-
 perftools-devtools-interval-label = 間隔:
 perftools-devtools-threads-label = 執行緒:
 perftools-devtools-settings-label = 設定
@@ -89,11 +88,16 @@ perftools-thread-dns-resolver =
     .title = DNS 解析會發生在此執行緒
 perftools-thread-task-controller =
     .title = TaskController 執行緒池當中的執行緒
+perftools-thread-jvm-gecko =
+    .title = Gecko JVM 主執行緒
+perftools-thread-jvm-nimbus =
+    .title = Nimbus 實驗 SDK 的主執行緒
+perftools-thread-jvm-glean =
+    .title = Nimbus telemetry SDK 的主執行緒
 
 ##
 
 perftools-record-all-registered-threads = 忽略上面選擇的項目，記錄所有註冊的執行緒
-
 perftools-tools-threads-input-label =
     .title = 下列執行緒名稱是要在 Profiler 當中測量效能的清單（用逗號分隔）。名稱必須與要列入測量的執行緒名稱部分符合，是否有空白視為不同。
 
@@ -101,14 +105,13 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>全新</b>: 現在起，已將 { -profiler-brand-name } 整合進開發者工具。了解這個全新強大工具的<a>更多資訊</a>。
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = （短時間內您還是可以透過<a>{ options-context-advanced-settings }</a>使用原本的效能面板）
-
 perftools-onboarding-close-button =
     .aria-label = 關閉功能介紹訊息
 
@@ -121,19 +124,14 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = 網頁開發者
 perftools-presets-web-developer-description = 推薦於對大部分網頁應用程式除錯時使用，額外負荷較低。
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = 對 { -brand-shorter-name } 進行效能檢測的建議預設值。
-
 perftools-presets-graphics-label = 圖形
 perftools-presets-graphics-description = 於 { -brand-shorter-name } 診斷圖形 Bug 時的預設值。
-
 perftools-presets-media-label = 媒體
 perftools-presets-media-description2 = 於 { -brand-shorter-name } 診斷影音 Bug 時的預設值。
-
 perftools-presets-networking-label = 網路連線
 perftools-presets-networking-description = 於 { -brand-shorter-name } 診斷網路連線 Bug 時的預設值。
-
 perftools-presets-custom-label = 自訂
 
 ##
