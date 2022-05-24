@@ -3,162 +3,140 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 import-page-title = 匯入
+export-page-title = 匯出
 
 ## Header
 
 import-start = 匯入工具
-
-import-start-desc = 從應用程式或檔案匯入設定或資料。
-
 import-from-app = 從應用程式匯入
-
 import-from-app-desc = 選擇從下列位置匯入帳號、通訊錄、行事曆與其他資料:
-
-import-from-file = 從檔案匯入
-
 import-address-book = 匯入通訊錄檔案
-
 import-calendar = 匯入行事曆檔案
-
+import-file = 從檔案匯入
+import-file-title = 請選擇要匯入內容的檔案。
+import-address-book-title = 匯入通訊錄檔案
+import-calendar-title = 匯入行事曆檔案
 export-profile = 匯出
 
 ## Buttons
 
 button-cancel = 取消
-
 button-back = 返回
-
 button-continue = 繼續
-
 button-export = 匯出
+button-finish = 完成
 
 ## Import from app steps
 
 app-name-thunderbird = Thunderbird
-
 app-name-seamonkey = SeaMonkey
-
 app-name-outlook = Outlook
-
 app-name-becky = Becky! Internet Mail
-
 app-name-apple-mail = Apple Mail
-
-source-file = 從檔案匯入
-
-## Import from file selections
-
-file-profile = 匯入設定檔備份（.zip）
-
-file-calendar = 匯入行事曆
-
-file-addressbook = 匯入通訊錄
-
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = 從 { $app } 匯入
-
 profiles-pane-desc = 請選擇要從哪裡匯入資料
-
 profile-file-picker-dir = 選擇設定檔資料夾
-
 profile-file-picker-zip = 選擇 ZIP 檔（小於 2GB）
-
 items-pane-title = 選擇要匯入的項目
-
 items-pane-source = 來源位置:
+source-file2 = 從檔案匯入
 
+## Import from file selections
+
+file-profile2 = 匯入設定檔備份
+file-calendar = 匯入行事曆
+file-addressbook = 匯入通訊錄
+
+## Import from app profile steps
+
+from-app-outlook = 從 { app-name-outlook } 匯入
+from-app-becky = 從 { app-name-becky } 匯入
+from-app-apple-mail = 從 { app-name-apple-mail } 匯入
+profiles-pane-title-thunderbird = 從 { app-name-thunderbird } 設定檔匯入相關設定與資料。
+profiles-pane-title-seamonkey = 從 { app-name-seamonkey } 設定檔匯入相關設定與資料。
+profiles-pane-title-outlook = 從 { app-name-outlook } 匯入相關資料。
+profiles-pane-title-becky = 從 { app-name-becky } 匯入相關資料。
+profiles-pane-title-apple-mail = 從 { app-name-apple-mail } 匯入相關訊息。
+profile-source = 從設定檔匯入
+profile-file-picker-directory = 請選擇設定檔資料夾
+items-pane-directory = 資料夾:
+items-pane-profile-name = 設定檔名稱:
 items-pane-checkbox-accounts = 帳號與設定
-
 items-pane-checkbox-address-books = 通訊錄
-
 items-pane-checkbox-calendars = 行事曆
-
 items-pane-checkbox-mail-messages = 郵件訊息
 
 ## Import from address book file steps
 
 import-from-addr-book-file-desc = 請選擇您要匯入的檔案類型:
-
 addr-book-csv-file = 逗點或 Tab 分隔文件（.csv、.tsv）
-
 addr-book-ldif-file = LDIF 檔案（.ldif）
-
 addr-book-vcard-file = vCard 檔案（.vcf、.vcard）
-
 addr-book-sqlite-file = SQLite 資料庫檔案（.sqlite）
-
 addr-book-mab-file = Mork 資料庫檔案（.mab）
-
 addr-book-file-picker = 選擇通訊錄檔案
-
 addr-book-csv-field-map-title = 對應欄位名稱
-
 addr-book-csv-field-map-desc = 選擇來源欄位與通訊錄欄位之間的對應關係，可取消勾選不想匯入的欄位。
-
 addr-book-directories-pane-title = 請選擇您要匯入的資料夾:
-
 addr-book-directories-pane-source = 來源檔案:
-
 addr-book-import-into-new-directory = 建立新目錄
 
 ## Import from address book file steps
 
+
+## Import from calendar file steps
+
 import-from-calendar-file-desc = 請選擇您要匯入的 iCalendar（.ics）檔案。
-
 calendar-items-loading = 正在載入項目…
-
 calendar-items-filter-input =
     .placeholder = 過濾項目…
-
 calendar-select-all-items = 選擇全部
-
 calendar-deselect-all-items = 取消選擇全部
-
 calendar-import-into-new-calendar = 建立新的行事曆
 
 ## Import dialog
 
 progress-pane-importing = 匯入中
-
 progress-pane-exporting = 匯出中
-
 progress-pane-finished-desc = 完成。
-
 progress-pane-restart-desc = 請重新啟動以完成匯入。
-
+progress-pane-finished-desc2 = 完成。
 error-pane-title = 錯誤
-
 error-message-zip-file-too-big = 選擇的 ZIP 檔案大小超過 2GB。請先解壓縮，然後改匯入解壓縮的資料匣。
-
 error-message-extract-zip-file-failed = ZIP 檔解壓縮失敗，請手動解壓縮，並重新匯入解開的資料夾。
-
+error-message-zip-file-too-big2 = 選擇的 ZIP 檔案大小超過 2GB。請先解壓縮，然後改匯入解壓縮的資料夾。
 error-message-failed = 發生未預期的匯入失敗，錯誤主控台中可能有更多資訊。
-
 error-failed-to-parse-ics-file = 檔案中找不到可匯入的項目。
-
 error-export-failed = 發生未預期的匯出失敗，錯誤主控台中可能有更多資訊。
+error-message-no-profile = 找不到設定檔。
 
 ## <csv-field-map> element
 
 csv-first-row-contains-headers = 第一行為標題
-
 csv-source-field = 來源欄位
-
 csv-source-first-record = 第一筆資料
-
 csv-source-second-record = 第二筆資料
-
 csv-target-field = 通訊錄欄位
 
 ## Export tab
 
 export-profile-desc = 將郵件帳號、郵件內容、通訊錄、設定匯出為一包 ZIP 檔案。需要的時候可將該檔案重新匯入，來還原設定檔。
-
 export-profile-desc2 = 若您目前的設定檔超過 2GB，建議您手動備份。
-
 export-open-profile-folder = 開啟設定檔目錄
-
 export-file-picker = 匯出成 zip 檔
-
+export-file-picker2 = 匯出成 ZIP 檔
 export-brand-name = { -brand-product-name }
+
+## Summary pane
+
+summary-pane-start = 開始匯入
+summary-pane-start-over = 重新啟動匯入工具
+
+## Footer area
+
+footer-help = 需要幫忙嗎？
+footer-import-documentation = 匯入文件
+footer-export-documentation = 匯出文件
+footer-support-forum = 技術支援討論區
