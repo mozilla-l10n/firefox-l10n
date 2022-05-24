@@ -133,6 +133,13 @@ calendar-import-into-new-calendar = Búa til nýtt dagatal
 calendar-target-title = Veldu hvert á að flytja inn valin atriði.
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = Búa til nýtt dagatal sem heitir <strong>"{ $targetCalendar }"</strong>
+# $itemCount (number) - count of selected items (tasks, events) that will be imported
+# $targetCalendar (string) - name of the calendar the items will be imported into
+calendar-summary-title =
+    { $itemCount ->
+        [one] Flytja eitt atriði inn í „{ $targetCalendar }“ dagatalið
+       *[other] Flytja { $itemCount } atriði inn í „{ $targetCalendar }“ dagatalið
+    }
 # $targetCalendar (string) - name of the calendar that will be created
 calendar-summary-description = Nýtt dagatal sem heitir "{ $targetCalendar }" verður búið til.
 
