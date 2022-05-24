@@ -24,3 +24,14 @@ message-header-user-agent-field = Useragent<span data-l10n-name="field-separator
 message-header-references-field = Referency<span data-l10n-name="field-separator">:</span>
 message-header-message-id-field = Powěsćowy ID<span data-l10n-name="field-separator">:</span>
 message-header-in-reply-to-field = Wotmołwjejo na<span data-l10n-name="field-separator">:</span>
+message-header-website-field = Websydło<span data-l10n-name="field-separator">:</span>
+message-header-address-in-address-book-icon2 =
+    .alt = W adresniku
+message-header-address-not-in-address-book-icon2 =
+    .alt = Nic w adresniku
+message-header-address-not-in-address-book-button =
+    .title = Tutu adresu w adresniku składować
+message-header-address-in-address-book-button =
+    .title = Kontakt wobdźěłać
+message-header-field-show-more = Wjace
+    .title = Wšěch přijimarjow pokazać

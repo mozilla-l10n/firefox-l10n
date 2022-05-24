@@ -68,17 +68,17 @@ alt-shift-shortcut-key =
         [macos] ⌥ ⇧ { $key }
        *[other] Alt+Umsch+{ $key }
     }
-meta-shift-alt-shortcut-key =
+meta-shift-alt-shortcut-key2 =
     { PLATFORM() ->
         [macos] ⌥ ⇧ ⌘ { $key }
        *[other] Meta+Alt+Umsch+{ $key }
     }
-ctrl-shift-alt-shortcut-key =
+ctrl-shift-alt-shortcut-key2 =
     { PLATFORM() ->
         [macos] ⌃ ⌥ ⇧ { $key }
        *[other] Strg+Alt+Umsch+{ $key }
     }
-meta-ctrl-shift-alt-shortcut-key =
+meta-ctrl-shift-alt-shortcut-key2 =
     { PLATFORM() ->
         [macos] ⌃ ⌥ ⇧ ⌘ { $key }
        *[other] Meta+Strg+Alt+Umsch+{ $key }
