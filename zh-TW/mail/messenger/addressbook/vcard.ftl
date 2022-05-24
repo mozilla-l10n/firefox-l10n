@@ -34,6 +34,8 @@ vcard-n-add-suffix =
 vcard-email-header = 電子郵件地址
 vcard-email-add = 新增電子郵件地址
 vcard-email-label = 電子郵件地址
+vcard-email-choose-primary = 預設
+    .aria-label = 選擇您的主要信箱
 
 # URL vCard field
 
