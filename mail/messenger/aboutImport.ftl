@@ -53,7 +53,7 @@ source-outlook-description = Konta, adresniki a powěsće z { app-name-outlook }
 source-becky = Z { app-name-becky } importować
 source-becky-description = Adresniki a powěsće z { app-name-becky } importować.
 source-apple-mail = Z { app-name-apple-mail } importować
-source-apple-mail-description = Powěsće z { app-name-apple-mail } importować
+source-apple-mail-description = Powěsće z { app-name-apple-mail } importować.
 source-file2 = Z dataje importować
 source-file-description = Wubjerće dataju, zo byšće adresniki, protyki abo profilowe zawěsćenje (ZIP-dataju) importował.
 
