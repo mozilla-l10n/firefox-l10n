@@ -19,18 +19,16 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Servidor não encontrado">
-<!ENTITY dnsNotFound.longDesc1 "<strong>Se este endereço estiver correto, aqui estão outras coisas que você pode tentar:</strong>
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Se este endereço estiver correto, aqui estão outras coisas que você pode tentar:</strong>
 <ul>
-  
   <li>Tente novamente mais tarde.</li>
-  
   <li>Verifique sua conexão de rede.</li>
-  
-  <li>Se você está conectado atrás de um firewall, verifique se o &brandShortName; tem permissão para acessar a Web.</li>
+  <li>Se você está conectado atrás de um firewall, verifique se o &brandShortName; tem permissão para acessar a web.</li>
 </ul>">
 
 <!ENTITY fileNotFound.longDesc "<ul>
-  <li>Verifique se o nome do arquivo possui letras maiúsculas ou erros de digitação.</li>
+  <li>Verifique se o nome do arquivo tem letras maiúsculas ou erros de digitação.</li>
   <li>Verifique se o arquivo foi movido, renomeado ou excluído.</li>
 </ul>">
 
@@ -38,7 +36,9 @@
   <li>Pode ter sido removido, movido ou as permissões do arquivo podem estar impedindo o acesso.</li>
 </ul>">
 
-<!ENTITY generic.longDesc "<p>Algo impediu o &brandShortName; de carregar esta página.</p>">
+<!ENTITY generic.longDesc "
+<p>O &brandShortName; não conseguiu carregar esta página por algum motivo.</p>
+">
 
 <!ENTITY captivePortal.title "Autenticar na rede">
 <!ENTITY captivePortal.longDesc2 "<p>Você deve se autenticar nessa rede antes de poder acessar a internet.</p>">
