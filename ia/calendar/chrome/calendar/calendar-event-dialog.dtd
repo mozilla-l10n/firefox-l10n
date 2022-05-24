@@ -108,7 +108,7 @@
 <!ENTITY  event.menu.view.accesskey                       "V">
 <!ENTITY  event.menu.view.toolbars.label                  "Barras de instrumentos">
 <!ENTITY  event.menu.view.toolbars.accesskey              "T">
-<!ENTITY  event.menu.view.toolbars.event.label            "Barra de utensile de evento">
+<!ENTITY  event.menu.view.toolbars.event.label            "Barra de instrumentos del evento">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "E">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Personalisar…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">
