@@ -21,6 +21,7 @@ perftools-heading-features-default = Funkcije (po standardźe doporučene)
 perftools-heading-features-disabled = Znjemóžnjene funkcije
 perftools-heading-features-experimental = Eksperimentelne
 perftools-heading-threads = Nitki
+perftools-heading-threads-jvm = JVM-nitki
 perftools-heading-local-build = Lokalna wersija
 
 ##
@@ -41,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Wulkosć pufrowaka:
-
 perftools-custom-threads-label = Přidajće swójske nitki po mjenje:
-
 perftools-devtools-interval-label = Interwal:
 perftools-devtools-threads-label = Nitki:
 perftools-devtools-settings-label = Nastajenja
@@ -95,11 +94,18 @@ perftools-thread-dns-resolver =
     .title = Na tutej nitce so DNS-rozeznaće stawa
 perftools-thread-task-controller =
     .title = Nitki nitkoweho poola TaskController
+perftools-thread-jvm-gecko =
+    .title = Hłowna nitka Gecko JVM
+perftools-thread-jvm-nimbus =
+    .title = Hłowne nitki za SDK eksperimentow Nimbus
+perftools-thread-jvm-glean =
+    .title = Hłowne nitki za SDK telemetrije Glean
+perftools-thread-jvm-pool =
+    .title = Nitki wutworjene w grupje nitkow bjez mjena
 
 ##
 
 perftools-record-all-registered-threads = Wuběry horjeka wobeńć a wšě zregistrowane nitki natočić
-
 perftools-tools-threads-input-label =
     .title = Tute nitkowe mjena su přez komu dźělena lisćina, kotraž so wužiwa, zo by přepytowanje nitkow w profilowaku zmóžnił. Mjeno trjeba so jenož zdźěla z mjenom nitki kryć, kotrež so ma zapřijeć. Na mjezery so dźiwa.
 
@@ -107,14 +113,13 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Nowy</b>: { -profiler-brand-name } je nětko we wuwiwarskich nastrojach integrowany. <a>Dalše informacije</a> wo tutym mócnym nowym nastroju.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Za wobmjezowany čas móžeće přez <a>{ options-context-advanced-settings }</a> přistup k woknu Wukon měć.
-
 perftools-onboarding-close-button =
     .aria-label = Zapokazowansku powěsć začinić
 
@@ -127,19 +132,14 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Webwuwiwar
 perftools-presets-web-developer-description = Doporučene přednastajenje za pytanje zmylkow za najwjace webnałoženjow z mało zarjadniskimi datami.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Doporučene přednastajenje za profilowanje { -brand-shorter-name }
-
 perftools-presets-graphics-label = Grafika
 perftools-presets-graphics-description = Přednastajenje za wuslědźenje zmylkow grafiki w { -brand-shorter-name }.
-
 perftools-presets-media-label = Medije
 perftools-presets-media-description2 = Přednastajenje za wuslědźenje zmylkow awdio a widejo w { -brand-shorter-name }.
-
 perftools-presets-networking-label = Syć
 perftools-presets-networking-description = Přednastajenje za wuslědźenje syćowych zmylkow w { -brand-shorter-name }.
-
 perftools-presets-custom-label = Swójski
 
 ##
