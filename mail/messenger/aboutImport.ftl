@@ -133,6 +133,16 @@ calendar-import-into-new-calendar = Створити новий календар
 calendar-target-title = Виберіть, куди імпортувати вибрані елементи
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = Створіть новий календар під назвою <strong>«{ $targetCalendar }»</strong>
+# $itemCount (number) - count of selected items (tasks, events) that will be imported
+# $targetCalendar (string) - name of the calendar the items will be imported into
+calendar-summary-title =
+    { $itemCount ->
+        [one] Імпортувати один елемент у календар «{ $targetCalendar }».
+        [few] Імпортувати { $itemCount } елементи у календар «{ $targetCalendar }».
+       *[many] Імпортувати { $itemCount } елементів у календар «{ $targetCalendar }».
+    }
+# $targetCalendar (string) - name of the calendar that will be created
+calendar-summary-description = Буде створено новий календар під назвою «{ $targetCalendar }».
 
 ## Import dialog
 
