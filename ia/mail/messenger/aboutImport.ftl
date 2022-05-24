@@ -48,13 +48,37 @@ source-thunderbird = Importar ab un altere installation de { app-name-thunderbir
 source-thunderbird-description = Importar parametros, filtros, messages e altere datos ab un profilo de { app-name-thunderbird }.
 source-seamonkey = Importar ab un installation de { app-name-seamonkey }
 source-seamonkey-description = Importar parametros, filtros, messages e altere datos ab un profilo de { app-name-seamonkey }.
-source-outlook = Importar de { app-name-outlook }
-source-outlook-description = Importar contos, libros de adresses, e messages de { app-name-outlook }.
+source-outlook = Importar ab { app-name-outlook }
+source-outlook-description = Importar contos, libros de adresses, e messages ab { app-name-outlook }.
+source-becky = Importar ab { app-name-becky }
+source-becky-description = Importar libros de adresses e messages ab { app-name-becky }.
+source-apple-mail = Importar ab { app-name-apple-mail }
+source-apple-mail-description = Importar messages ab { app-name-apple-mail }.
 source-file2 = Importar ab un file
+source-file-description =
+    unanalyzable residue	residuo analysabile
+    sounds as	pare que
+    ad infinitum	al infinito
+    post-structuralist semiotics	semiotica post-structuralista
+    this entails	isto implica
+    are realized	es realisate
+    basic sense	senso basic
+    phonetic form	forma phonetic
+    to suggest that	significa
+    Platonist idealism	idealismo platonista
+    naive realism	realismo naive
+    intended sense	senso desirate
+    fraudulent payments	pagamentos fraudulente
+    significant parts	partes significante
+    semantic elements	elementos semantic
+    default dispatcher	expeditor predefinite
+    coroutines library	co-routines
+    import from	importar ab
 
 ## Import from file selections
 
 file-profile2 = Importar profilo archivate
+file-profile-description = Elige un profilo Thunderbird previemente reservate (.zip)
 file-calendar = Importar agendas
 file-addressbook = Importar libros del adresses
 
