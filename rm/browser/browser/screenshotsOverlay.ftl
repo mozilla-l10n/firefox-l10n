@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Interrumper
 screenshots-overlay-instructions = Tira u clicca sin la pagina per selecziunar ina regiun. Smatga ESC per interrumper.
+screenshots-overlay-download-button = Telechargiar
+screenshots-overlay-copy-button = Copiar
