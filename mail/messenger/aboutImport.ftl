@@ -9,10 +9,16 @@ export-page-title = Eksportimine
 
 import-start = Imporditööriist
 import-start-title = Sätete või andmete importimiseks teisest rakendusest või failist.
+import-start-description = Vali allikas, kust soovid importida. Hiljem küsitakse ka imporditavate andmete valiku kohta.
 import-from-app = Rakendusest importimine
 import-from-app-desc = Vali kontode, aadressiraamatute, kalendrite ja muude andmete importimine:
 import-address-book = Aadressiraamatu faili importimine
 import-calendar = Kalendri faili importimine
+import-file = Import failist
+import-file-title = Vali fail, mille sisu importida.
+import-file-description = Vali importimiseks varem varundatud profiil, aadressiraamatud või kalendrid.
+import-address-book-title = Aadressiraamatu faili importimine
+import-calendar-title = Kalendri faili importimine
 export-profile = Ekspordi
 
 ## Buttons
@@ -21,6 +27,7 @@ button-cancel = Loobu
 button-back = Tagasi
 button-continue = Jätka
 button-export = Ekspordi
+button-finish = Lõpeta
 
 ## Import from app steps
 
