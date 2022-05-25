@@ -157,9 +157,12 @@ progress-pane-finished-desc2 = Foltôge.
 error-pane-title = Flater
 error-message-zip-file-too-big = It selektearre zip-bestân is grutter as 2 GB. Pak it earst út en ymportearje it dernei út de útpakte map.
 error-message-extract-zip-file-failed = Kin it zipbestân net útpakke. Pak it hânmjittich út en ymportearje it dernei út de útpakte map.
+error-message-zip-file-too-big2 = It selektearre ZIP-bestân is grutter as 2 GB. Pak it earst út en ymportearje it dernei út de útpakte map.
+error-message-extract-zip-file-failed2 = Kin it ZIP-bestân net útpakke. Pak it hânmjittich út en ymportearje it dernei út de útpakte map.
 error-message-failed = Ymportearjen is ûnferwachte mislearre, mear ynformaasje is mooglik beskikber yn de Flaterconsole.
 error-failed-to-parse-ics-file = Gjin te ymportearjen items fûn yn it bestân.
 error-export-failed = Eksportearjen is ûnferwacht mislearre, mear ynformaasje is mooglik beskikber yn de Flaterconsole.
+error-message-no-profile = Gjin profyl fûn.
 
 ## <csv-field-map> element
 
@@ -173,12 +176,23 @@ csv-target-field = Adresboekfjld
 
 export-profile-desc = E-mailaccounts, e-mailberjochten, adresboeken, ynstellingen eksportearje nei in zipbestân. Wannear nedich kinne jo it zipbestân ymportearje om jo profyl te werstellen.
 export-profile-desc2 = As jo aktuele profyl grutter is as 2 GB, riede wy jo oan der sels in reservekopy fan te meitsjen.
+export-profile-title = Accounts, berjochten, adresboeken en ynstellingen nei in ZIP-bestân eksportearje.
+export-profile-description = As jo aktuele profyl grutter is as 2 GB, riede wy jo oan der sels in reservekopy fan te meitsjen.
 export-open-profile-folder = Profylmap iepenje
 export-file-picker = Eksportearje nei in zipbestân
+export-file-picker2 = Eksportearje nei in ZIP-bestân
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-title = Te ymportearjen gegevens
+summary-pane-start = Ymport starte
+summary-pane-warning = { -brand-product-name } moat opnij start wurde wannear’t it ymportearjen foltôge is.
+summary-pane-start-over = Ymportear-ark opnij starte
 
 ## Footer area
 
+footer-help = Help nedich?
+footer-import-documentation = Ymportdokumintaasje
+footer-export-documentation = Eksportdokumintaasje
+footer-support-forum = Stipefoarum
