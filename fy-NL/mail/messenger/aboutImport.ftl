@@ -55,14 +55,34 @@ source-becky-description = Accounts, adresboeken en berjochten ymportearje út {
 source-apple-mail = Ymportearje út { app-name-apple-mail }
 source-apple-mail-description = Berjochten ymportearje út { app-name-apple-mail }.
 source-file2 = Ut in bestân ymportearje
+source-file-description = Selektearje in bestân om adresboeken, aginda’s of in reservekopy fan in profyl (ZIP-bestân) te ymportearjen.
 
 ## Import from file selections
 
+file-profile2 = Reservekopy fan profyl ymportearje
+file-profile-description = Selektearje in earder makke reservekopy fan Thunderbird-profyl (.zip)
 file-calendar = Aginda’s ymportearje
+file-calendar-description = Selektearje in bestân mei eksportearre aginda’s of eveneminten (.ics)
 file-addressbook = Adresboeken ymportearje
+file-addressbook-description = Selektearje in bestân mei eksportearre adresboeken en kontakten
 
 ## Import from app profile steps
 
+from-app-thunderbird = Ymportearje fan in { app-name-thunderbird }-profyl út
+from-app-seamonkey = Ymportearje fan in { app-name-seamonkey }-profyl út
+from-app-outlook = Ymportearje út { app-name-outlook }
+from-app-becky = Ymportearje út { app-name-becky }
+from-app-apple-mail = Ymportearje út { app-name-apple-mail }
+profiles-pane-title-thunderbird = Ynstellingen en gegevens ymportearje út in { app-name-thunderbird }-profyl.
+profiles-pane-title-seamonkey = Ynstellingen en gegevens ymportearje út in { app-name-seamonkey }-profyl.
+profiles-pane-title-outlook = Gegevens ymportearje út { app-name-outlook }.
+profiles-pane-title-becky = Gegevens ymportearje út { app-name-becky }.
+profiles-pane-title-apple-mail = Berjochten ymportearje út { app-name-apple-mail }.
+profile-source = Ut profyl ymportearje
+# $profileName (string) - name of the profile
+profile-source-named = Ut profyl <strong>‘{ $profileName }’</strong> ymportearje
+profile-file-picker-directory = Kies in profylmap
+profile-file-picker-archive = Kies in <strong>ZIP</strong>-bestân
 items-pane-checkbox-accounts = Accounts en ynstellingen
 items-pane-checkbox-address-books = Adresboeken
 items-pane-checkbox-calendars = Aginda’s
