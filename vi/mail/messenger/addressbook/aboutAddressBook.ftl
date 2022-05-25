@@ -22,7 +22,6 @@ about-addressbook-toolbar-import =
 ## Books
 
 all-address-books = Tất cả các sổ địa chỉ
-
 about-addressbook-books-context-properties =
     .label = Thuộc tính
 about-addressbook-books-context-synchronize =
@@ -37,7 +36,6 @@ about-addressbook-books-context-remove =
     .label = Xóa
 about-addressbook-books-context-startup-default =
     .label = Thư mục khởi động mặc định
-
 about-addressbook-confirm-delete-book-title = Xóa sổ địa chỉ
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -55,17 +53,14 @@ about-addressbook-search =
     .placeholder = Tìm kiếm { $name }
 about-addressbook-search-all =
     .placeholder = Tìm kiếm tất cả các sổ địa chỉ
-
 about-addressbook-sort-button =
     .title = Thay đổi thứ tự danh sách
-
 about-addressbook-name-format-display =
     .label = Tên hiển thị
 about-addressbook-name-format-firstlast =
     .label = Tên Họ
 about-addressbook-name-format-lastfirst =
     .label = Họ, Tên
-
 about-addressbook-sort-name-ascending =
     .label = Sắp xếp theo tên (A > Z)
 about-addressbook-sort-name-descending =
@@ -74,10 +69,40 @@ about-addressbook-sort-email-ascending =
     .label = Sắp xếp theo địa chỉ e-mail (A > Z)
 about-addressbook-sort-email-descending =
     .label = Sắp xếp theo địa chỉ e-mail (Z > A)
+about-addressbook-horizontal-layout =
+    .label = Chuyển sang bố cục ngang
+about-addressbook-vertical-layout =
+    .label = Chuyển sang bố cục dọc
 
+## Card column headers
+## Each string is listed here twice, and the values should match.
+
+about-addressbook-column-header-generatedname = Tên
+about-addressbook-column-label-generatedname =
+    .label = { about-addressbook-column-header-generatedname }
+about-addressbook-column-header-emailaddresses = Địa chỉ email
+about-addressbook-column-label-emailaddresses =
+    .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-phonenumbers = Số điện thoại
+about-addressbook-column-label-phonenumbers =
+    .label = { about-addressbook-column-header-phonenumbers }
+about-addressbook-column-header-addresses = Địa chỉ
+about-addressbook-column-label-addresses =
+    .label = { about-addressbook-column-header-addresses }
+about-addressbook-column-header-title = Chức danh
+about-addressbook-column-label-title =
+    .label = { about-addressbook-column-header-title }
+about-addressbook-column-header-department = Bộ phận
+about-addressbook-column-label-department =
+    .label = { about-addressbook-column-header-department }
+about-addressbook-column-header-organization = Tổ chức
+about-addressbook-column-label-organization =
+    .label = { about-addressbook-column-header-organization }
+about-addressbook-column-header-addrbook = Sổ địa chỉ
+about-addressbook-column-label-addrbook =
+    .label = { about-addressbook-column-header-addrbook }
 about-addressbook-cards-context-write =
     .label = Viết
-
 about-addressbook-confirm-delete-mixed-title = Xóa liên hệ và danh sách
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -125,17 +150,34 @@ about-addressbook-confirm-delete-contacts =
 
 ## Details
 
+about-addressbook-write-action-button = Viết thư
+about-addressbook-event-action-button = Sự kiện
+about-addressbook-search-action-button = Tìm kiếm
 about-addressbook-begin-edit-contact-button = Chỉnh sửa
 about-addressbook-delete-edit-contact-button = Xóa
 about-addressbook-cancel-edit-contact-button = Hủy bỏ
 about-addressbook-save-edit-contact-button = Lưu
-
+about-addressbook-add-contact-to = Thêm vào:
 about-addressbook-details-email-addresses-header = Địa chỉ e-mail
 about-addressbook-details-phone-numbers-header = Số điện thoại
 about-addressbook-details-home-address-header = Địa chỉ nhà
 about-addressbook-details-work-address-header = Địa chỉ cơ quan
+about-addressbook-details-addresses-header = Địa chỉ
+about-addressbook-details-notes-header = Ghi chú
 about-addressbook-details-other-info-header = Thông tin khác
-
+about-addressbook-entry-type-work = Công việc
+about-addressbook-entry-type-home = Nhà riêng
+about-addressbook-entry-type-fax = Fax
+about-addressbook-entry-type-cell = Di động
+about-addressbook-entry-type-pager = Máy nhắn tin
+about-addressbook-entry-name-birthday = Ngày sinh
+about-addressbook-entry-name-anniversary = Ngày kỷ niệm
+about-addressbook-entry-name-title = Chức danh
+about-addressbook-entry-name-role = Vai trò
+about-addressbook-entry-name-department = Bộ phận
+about-addressbook-entry-name-organization = Tổ chức
+about-addressbook-entry-name-website = Trang web
+about-addressbook-entry-name-time-zone = Múi giờ
 about-addressbook-unsaved-changes-prompt-title = Các thay đổi chưa được lưu
 about-addressbook-unsaved-changes-prompt = Bạn có muốn lưu các thay đổi của mình trước khi rời khỏi chế độ chỉnh sửa không?
 
@@ -145,7 +187,6 @@ about-addressbook-photo-drop-target = Thả hoặc dán ảnh vào đây hoặc 
 about-addressbook-photo-drop-loading = Đang tải ảnh…
 about-addressbook-photo-drop-error = Không tải được ảnh.
 about-addressbook-photo-filepicker-title = Chọn một tập tin hình ảnh
-
 about-addressbook-photo-discard = Hủy ảnh hiện có
 about-addressbook-photo-cancel = Hủy bỏ
 about-addressbook-photo-save = Lưu
