@@ -190,6 +190,8 @@ policy-SSLVersionMax = Imposta la versione massima di SSL.
 
 policy-SSLVersionMin = Imposta la versione minima di SSL.
 
+policy-StartDownloadsInTempDirectory = Forza l’avvio dei download in una cartella temporanea locale invece della cartella predefinita per i download.
+
 policy-SupportMenu = Aggiungi una voce di menu personalizzata nel menu Aiuto.
 
 policy-UserMessaging = Non visualizzare determinati messaggi all’utente.
