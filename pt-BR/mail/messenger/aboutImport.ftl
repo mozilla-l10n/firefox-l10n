@@ -44,6 +44,14 @@ profile-file-picker-dir = Selecionar uma pasta de perfil
 profile-file-picker-zip = Selecionar um arquivo zip (menor que 2GB)
 items-pane-title = Selecione o que importar
 items-pane-source = Local da origem:
+source-thunderbird = Importar de outra instalação do { app-name-thunderbird }
+source-thunderbird-description = Importar configurações, filtros, mensagens e outros dados de um perfil do { app-name-thunderbird }.
+source-seamonkey = Importar de uma instalação do { app-name-seamonkey }
+source-seamonkey-description = Importar configurações, filtros, mensagens e outros dados de um perfil do { app-name-seamonkey }.
+source-outlook = Importar do { app-name-outlook }
+source-outlook-description = Importar contas, catálogos de endereços e mensagens do { app-name-outlook }.
+source-becky = Importar do { app-name-becky }
+source-becky-description = Importar catálogos de endereços e mensagens do { app-name-becky }.
 
 ## Import from file selections
 
