@@ -48,22 +48,56 @@ source-thunderbird = Mewnforio o osodiad { app-name-thunderbird } arall
 source-thunderbird-description = Mewnforio gosodiadau, hidlwyr, negeseuon, a data arall o broffil { app-name-thunderbird }.
 source-seamonkey = Mewnforio o osodiad { app-name-seamonkey }
 source-seamonkey-description = Mewnforio gosodiadau, hidlwyr, negeseuon, a data arall o broffil { app-name-seamonkey }.
+source-outlook = Mewnforio o { app-name-outlook }
+source-outlook-description = Mewnforio cyfrifon, llyfrau cyfeiriadau, a negeseuon o { app-name-outlook }.
+source-becky = Mewnforio o { app-name-becky }
+source-becky-description = Mewnforio llyfrau cyfeiriadau a negeseuon o { app-name-becky }.
+source-apple-mail = Mewnforio o { app-name-apple-mail }
+source-apple-mail-description = Mewnforio negeseuon o { app-name-apple-mail }.
+source-file2 = Mewnforio o ffeil
+source-file-description = Dewiswch ffeil i fewnforio llyfrau cyfeiriadau, calendrau, neu gopi wrth gefn o broffil (ffeil ZIP).
 
 ## Import from file selections
 
+file-profile2 = Mewnforio Proffil Wrth Gefn
+file-profile-description = Dewiswch broffil Thunderbird sydd wedi'i gadw wrth gefn yn flaenorol (.zip)
 file-calendar = Mewnforio Calendrau
+file-calendar-description = Dewiswch ffeil sy'n cynnwys Calendrau neu Ddigwyddiadau wedi'u hallforio (.ics)
 file-addressbook = Mewnforio Llyfrau Cyfeiriadau
+file-addressbook-description = Dewiswch ffeil sy'n cynnwys Llyfrau Cyfeiriadau a Chysylltiadau wedi'u hallforio
 
 ## Import from app profile steps
 
+from-app-thunderbird = Mewnforio o broffil { app-name-thunderbird }
+from-app-seamonkey = Mewnforio o broffil { app-name-seamonkey }
+from-app-outlook = Mewnforio o { app-name-outlook }
+from-app-becky = Mewnforio o { app-name-becky }
+from-app-apple-mail = Mewnforio o { app-name-apple-mail }
+profiles-pane-title-thunderbird = Mewnforio Gosodiadau a Data o broffil { app-name-thunderbird }.
+profiles-pane-title-seamonkey = Mewnforio Gosodiadau a Data o broffil { app-name-seamonkey }.
+profiles-pane-title-outlook = Mewnforio Data o { app-name-outlook }.
+profiles-pane-title-becky = Mewnforio Data o { app-name-becky }.
+profiles-pane-title-apple-mail = Mewnforio Negeseuon o { app-name-apple-mail }.
+profile-source = Mewnforio o broffil
+# $profileName (string) - name of the profile
+profile-source-named = Mewnforio o'r proffil <strong>"{ $profileName }"</strong>
+profile-file-picker-directory = Dewiswch ffolder proffil
+profile-file-picker-archive = Dewiswch ffeil <strong>ZIP</strong>
+profile-file-picker-archive-description = Rhaid i'r ffeil ZIP fod yn llai na 2GB.
+profile-file-picker-archive-title = Dewiswch ffeil ZIP (llai na 2GB)
+items-pane-title2 = Dewiswch beth i'w fewnforio:
+items-pane-directory = Cyfeiriadur:
+items-pane-profile-name = Enw proffil:
 items-pane-checkbox-accounts = Cyfrifon a Gosodiadau
 items-pane-checkbox-address-books = Llyfrau Cyfeiriadau
 items-pane-checkbox-calendars = Calendrau
 items-pane-checkbox-mail-messages = Negeseuon E-bost
+items-pane-override = Ni fydd unrhyw ddata presennol neu'r un fath yn cael ei drosysgrifo.
 
 ## Import from address book file steps
 
 import-from-addr-book-file-desc = Dewiswch y math o ffeil yr hoffech ei mewnforio:
+import-from-addr-book-file-description = Dewiswch y fformat ffeil sy'n cynnwys eich data Llyfr Cyfeiriadau.
 addr-book-csv-file = Ffeil wedi'i gwahanu gan goma neu dab (.csv, .tsv)
 addr-book-ldif-file = Ffeil LDIF (.ldif)
 addr-book-vcard-file = Ffeil vCard (.vcf, .vcard)
@@ -73,21 +107,32 @@ addr-book-file-picker = Dewiswch ffeil llyfr cyfeiriadau
 addr-book-csv-field-map-title = Cydweddu enwau meysydd
 addr-book-csv-field-map-desc = Dewiswch feysydd llyfr cyfeiriadau sy'n cyfateb i'r meysydd ffynhonnell. Dad-diciwch y meysydd nad ydych am eu mewnforio.
 addr-book-directories-pane-title = Dewiswch y cyfeiriadur yr hoffech ei fewnforio iddo:
+addr-book-directories-title = Dewiswch o ble i fewnforio'r data a ddewiswyd
 addr-book-directories-pane-source = Ffeil ffynhonnell:
 addr-book-import-into-new-directory = Crëwch gyfeiriadur newydd
 
 ## Import from address book file steps
 
+# $addressBookName (string) - name of the new address book that would be created.
+addr-book-import-into-new-directory2 = Crëwch gyfeiriadur newydd o'r enw <strong>"{ $addressBookName }"</strong>
+# $addressBookName (string) - name of the address book to import into
+addr-book-summary-title = Mewnforio'r data a ddewiswyd i'r cyfeiriadur " { $addressBookName } "
+# $addressBookName (string) - name of the address book that will be created.
+addr-book-summary-description = Bydd llyfr cyfeiriadau newydd o'r enw " { $addressBookName } " yn cael ei greu.
 
 ## Import from calendar file steps
 
 import-from-calendar-file-desc = Dewiswch y ffeil iCalendar (.ics) yr hoffech ei mewnforio.
+calendar-items-title = Dewiswch pa eitemau i'w mewnforio.
 calendar-items-loading = Wrthi'n llwytho eitemau…
 calendar-items-filter-input =
     .placeholder = Hidlo eitemau…
 calendar-select-all-items = Dewis y cyfan
 calendar-deselect-all-items = Dad-ddewis y cyfan
 calendar-import-into-new-calendar = Creu calendr newydd
+calendar-target-title = Dewiswch ble i fewnforio'r eitemau a ddewiswyd.
+# $targetCalendar (string) - name of the new calendar that would be created
+calendar-import-into-new-calendar2 = Crëwch galendr newydd o'r enw <strong>"{ $targetCalendar }"</strong>
 
 ## Import dialog
 
