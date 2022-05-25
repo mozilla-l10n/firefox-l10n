@@ -13,6 +13,7 @@ import-from-app-desc = Choisir d’importer comptes, carnets d’adresses, agend
 import-address-book = Importer le fichier d’un carnet d’adresses
 import-calendar = Importer le fichier d’un agenda
 import-file = Importer depuis un fichier
+import-file-title = Sélectionnez un fichier pour importer son contenu.
 import-address-book-title = Importer le fichier d’un carnet d’adresses
 export-profile = Exporter
 
@@ -108,6 +109,7 @@ export-profile-desc = Exportez les comptes de messagerie, les messages électron
 export-profile-desc2 = Si votre profil actuel est supérieur à 2 Go, nous vous recommandons de le sauvegarder vous-même.
 export-open-profile-folder = Ouvrir le dossier de profil
 export-file-picker = Exporter vers un fichier au format Zip
+export-file-picker2 = Exporter vers un fichier au format Zip
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
@@ -116,3 +118,4 @@ summary-pane-start = Lancer l’importation
 
 ## Footer area
 
+footer-help = Besoin d’aide ?
