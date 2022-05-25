@@ -41,16 +41,16 @@ vcard-email-choose-primary = Rhagosodiad
 # URL vCard field
 
 vcard-url-header = Gwefannau
-vcard-url-add = Ychwanegwch wefan
+vcard-url-add = Ychwanegu gwefan
 vcard-url-label = Gwefan
 
 # Tel vCard field
 
 vcard-tel-header = Rhifau Ffôn
-vcard-tel-add = Ychwanegwch rif ffôn
+vcard-tel-add = Ychwanegu rhif ffôn
 vcard-tel-label = Rhif ffôn
 
 # TZ vCard field
 
 vcard-tz-header = Cylch Amser
-vcard-tz-add = Ychwanegwch gylch amser
+vcard-tz-add = Ychwanegu cylch amser
