@@ -44,10 +44,25 @@ profile-file-picker-dir = Vali profiilikaust
 profile-file-picker-zip = Vali ZIP-fail (väiksem kui 2GiB)
 items-pane-title = Imporditava valimine
 items-pane-source = Allika asukoht:
+source-thunderbird = Importimine teisest { app-name-thunderbird }i paigaldusest
+source-thunderbird-description = Impordi sätted, filtrid, kirjad ja muud andmed teisest { app-name-thunderbird }i profiilist.
+source-seamonkey = Importimine { app-name-seamonkey } paigaldusest
+source-seamonkey-description = Impordi sätted, filtrid, kirjad ja muud andmed { app-name-seamonkey } profiilist.
+source-outlook = Importimine { app-name-outlook }ist
+source-outlook-description = Impordi kontod, aadressiraamatud ja kirjad { app-name-outlook }ist.
+source-becky = Importimine rakendusest { app-name-becky }
+source-becky-description = Impordi aadressiraamatud ja kirjad rakendusest { app-name-becky }.
+source-apple-mail = Importimine rakendusest { app-name-apple-mail }
+source-apple-mail-description = Impordi kirjad rakendusest { app-name-apple-mail }.
+source-file2 = Importimine failist
+source-file-description = Vali fail, millest importida aadressiraamatud, kalendrid või profiili varukoopia (ZIP-fail)?
 
 ## Import from file selections
 
+file-profile2 = Importimine varundatud profiilist
+file-profile-description = Vali varem varundatud Thunderbirdi profiil (.zip)
 file-calendar = Kalendrite importimine
+file-calendar-description = Vali fail, mis sisaldab eksporditud kalendreid või sündmusi (.ics)
 file-addressbook = Aadressiraamatute importimine
 
 ## Import from app profile steps
