@@ -31,7 +31,7 @@
 <!ENTITY saveCmd.accesskey "g">
 <!ENTITY saveAsCmd.label "Gem som">
 <!ENTITY saveAsCmd.accesskey "o">
-<!ENTITY saveAsFileCmd.label "Fil">
+<!ENTITY saveAsFileCmd.label "Fil…">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "Kladde">
 <!ENTITY saveAsDraftCmd.accesskey "K">
