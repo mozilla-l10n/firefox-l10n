@@ -24,6 +24,7 @@ button-cancel = Annulla
 button-back = Indietro
 button-continue = Continua
 button-export = Esporta
+button-finish = Fine
 
 ## Import from app steps
 
