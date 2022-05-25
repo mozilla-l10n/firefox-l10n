@@ -21,6 +21,7 @@ perftools-heading-features-default = Nodweddion (Ymlaen yn rhagosodedig drwy arg
 perftools-heading-features-disabled = Nodweddion wedi'u Hanalluogi
 perftools-heading-features-experimental = Arbrofol
 perftools-heading-threads = Trywyddion
+perftools-heading-threads-jvm = Trywyddau JVM
 perftools-heading-local-build = Adeiladedd lleol
 
 ##
@@ -43,9 +44,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Maint byffer:
-
 perftools-custom-threads-label = Ychwanegwch drywydd cyfaddas yn ôl enw:
-
 perftools-devtools-interval-label = Cyfnod:
 perftools-devtools-threads-label = Trywyddion:
 perftools-devtools-settings-label = Gosodiadau
@@ -97,11 +96,22 @@ perftools-thread-dns-resolver =
     .title = Mae datrysiad DNS yn digwydd ar y trywydd hwn
 perftools-thread-task-controller =
     .title = Edafedd pwll edafedd TaskController
+perftools-thread-jvm-gecko =
+    .title = Prif drywydd Gecko JVM
+perftools-thread-jvm-nimbus =
+    .title = Y prif drywydd ar gyfer arbrofion Nimbus SDK
+perftools-thread-jvm-default-dispatcher =
+    .title = Yr anfonwr rhagosodedig ar gyfer llyfrgell coroutines Kotlin
+perftools-thread-jvm-glean =
+    .title = Y prif drywydd ar gyfer telemetreg Glean SDK
+perftools-thread-jvm-arch-disk-io =
+    .title = Anfonwr IO ar gyfer llyfrgell coroutines Kotlin
+perftools-thread-jvm-pool =
+    .title = Trywyddau wedi'u creu mewn cronfa trywyddau dienw
 
 ##
 
 perftools-record-all-registered-threads = Osgoi'r dewisiadau uchod a chofnodi'r holl drywyddion cofrestredig
-
 perftools-tools-threads-input-label =
     .title = Mae'r enwau trywyddion hyn yn rhestr sydd wedi'i gwahanu â choma sy'n cael ei ddefnyddio i alluogi proffilio trywydd yn y proffiliwr. Mae angen i'r enw fod yn cyfateb yn unig â'r enw trywydd i'w gynnwys. Mae'n sensitif i ofod gwyn.
 
@@ -109,14 +119,13 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Newydd</b>: Mae'r { -profiler-brand-name } bellach wedi'i integreiddio i Offer Datblygwr. <a>Gweld rhagor</a> am yr offeryn newydd pwerus hwn.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Am gyfnod cyfyngedig, gallwch gyrchu'r panel Perfformiad gwreiddiol trwy <a>{ options-context-advanced-settings }</a>
-
 perftools-onboarding-close-button =
     .aria-label = Cau'r neges cyflwyno
 
@@ -129,19 +138,14 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Datblygwr Gwe
 perftools-presets-web-developer-description = Y rhagosodiad sy'n cael ei argymell ar gyfer y rhan fwyaf o ddadfygio apiau gwe, gyda gorbenion isel.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Y rhagosodiad a argymhellir ar gyfer proffilio { -brand-shorter-name }.
-
 perftools-presets-graphics-label = Graffigau
 perftools-presets-graphics-description = Y rhagosodiad ar gyfer ymchwilio i wallau graffeg yn { -brand-shorter-name }.
-
 perftools-presets-media-label = Cyfrwng
 perftools-presets-media-description2 = Y rhagosodiad ar gyfer ymchwilio i wallau sain a fideo yn { -brand-shorter-name }.
-
 perftools-presets-networking-label = Rhwydweithio
 perftools-presets-networking-description = Y rhagosodiad ar gyfer ymchwilio i wallau graffeg yn { -brand-shorter-name }
-
 perftools-presets-custom-label = Cyfaddas
 
 ##
