@@ -41,14 +41,34 @@ items-pane-title = Seleziona che cosa importare
 items-pane-source = Percorso di origine:
 source-thunderbird = Importa da un’altra installazione di { app-name-thunderbird }
 source-thunderbird-description = Importa impostazioni, filtri, messaggi e altri dati da un profilo { app-name-thunderbird }.
+source-seamonkey = Importa da un’installazione di { app-name-seamonkey }
+source-seamonkey-description = Importa impostazioni, filtri, messaggi e altri dati da un profilo { app-name-seamonkey }.
+source-outlook = Importa da { app-name-outlook }
+source-outlook-description = Importa account, rubriche e messaggi da { app-name-outlook }.
+source-becky = Importa da { app-name-becky }
+source-becky-description = Importa rubriche e messaggi da { app-name-becky }.
+source-apple-mail = Importa da { app-name-apple-mail }
+source-apple-mail-description = Importa messaggi da { app-name-apple-mail }.
+source-file2 = Importa da file
+source-file-description = Seleziona un file per importare rubriche, calendari o un backup del profilo (file ZIP).
 
 ## Import from file selections
 
+file-profile-description = Seleziona un profilo Thunderbird di cui è stato eseguito il backup in precedenza (.zip)
 file-calendar = Importa calendari
+file-calendar-description = Seleziona un file contenente calendari o eventi esportati (.ics)
 file-addressbook = Importa rubriche
+file-addressbook-description = Seleziona un file contenente rubriche e contatti esportati
 
 ## Import from app profile steps
 
+from-app-thunderbird = Importa da un profilo { app-name-thunderbird }
+from-app-seamonkey = Importa da un profilo { app-name-seamonkey }
+from-app-outlook = Importa da { app-name-outlook }
+from-app-becky = Importa da { app-name-becky }
+from-app-apple-mail = Importa da { app-name-apple-mail }
+profiles-pane-title-thunderbird = Importa impostazioni e dati da un profilo { app-name-thunderbird }.
+profiles-pane-title-seamonkey = Importa impostazioni e dati da un profilo { app-name-seamonkey }.
 items-pane-checkbox-accounts = Account e impostazioni
 items-pane-checkbox-address-books = Rubriche
 items-pane-checkbox-calendars = Calendari
