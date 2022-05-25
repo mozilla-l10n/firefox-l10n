@@ -90,6 +90,16 @@ perftools-thread-task-controller =
     .title = Threads do conjunto de threads do TaskController
 perftools-thread-jvm-gecko =
     .title = O thread principal da JVM do Gecko
+perftools-thread-jvm-nimbus =
+    .title = Os threads principais do SDK de experimentos Nimbus
+perftools-thread-jvm-default-dispatcher =
+    .title = O expedidor padrão da biblioteca de corrotinas Kotlin
+perftools-thread-jvm-glean =
+    .title = Os threads principais do SDK de telemetria Glean
+perftools-thread-jvm-arch-disk-io =
+    .title = O expedidor de IO da biblioteca de corrotinas Kotlin
+perftools-thread-jvm-pool =
+    .title = Threads criados em um pool de threads sem nome
 
 ##
 
