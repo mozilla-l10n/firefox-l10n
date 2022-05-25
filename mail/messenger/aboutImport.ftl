@@ -39,6 +39,8 @@ profile-file-picker-dir = Seleziona una cartella del profilo
 profile-file-picker-zip = Seleziona un file zip (dimensione inferiore a 2 GB)
 items-pane-title = Seleziona che cosa importare
 items-pane-source = Percorso di origine:
+source-thunderbird = Importa da un’altra installazione di { app-name-thunderbird }
+source-thunderbird-description = Importa impostazioni, filtri, messaggi e altri dati da un profilo { app-name-thunderbird }.
 
 ## Import from file selections
 
