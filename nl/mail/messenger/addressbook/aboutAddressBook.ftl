@@ -69,6 +69,38 @@ about-addressbook-sort-email-ascending =
     .label = Sorteren op e-mailadres (A > Z)
 about-addressbook-sort-email-descending =
     .label = Sorteren op e-mailadres (Z > A)
+about-addressbook-horizontal-layout =
+    .label = Overschakelen naar horizontale opmaak
+about-addressbook-vertical-layout =
+    .label = Overschakelen naar verticale opmaak
+
+## Card column headers
+## Each string is listed here twice, and the values should match.
+
+about-addressbook-column-header-generatedname = Naam
+about-addressbook-column-label-generatedname =
+    .label = { about-addressbook-column-header-generatedname }
+about-addressbook-column-header-emailaddresses = E-mailadressen
+about-addressbook-column-label-emailaddresses =
+    .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-phonenumbers = Telefoonnummers
+about-addressbook-column-label-phonenumbers =
+    .label = { about-addressbook-column-header-phonenumbers }
+about-addressbook-column-header-addresses = Adressen
+about-addressbook-column-label-addresses =
+    .label = { about-addressbook-column-header-addresses }
+about-addressbook-column-header-title = Titel
+about-addressbook-column-label-title =
+    .label = { about-addressbook-column-header-title }
+about-addressbook-column-header-department = Afdeling
+about-addressbook-column-label-department =
+    .label = { about-addressbook-column-header-department }
+about-addressbook-column-header-organization = Organisatie
+about-addressbook-column-label-organization =
+    .label = { about-addressbook-column-header-organization }
+about-addressbook-column-header-addrbook = Adresboek
+about-addressbook-column-label-addrbook =
+    .label = { about-addressbook-column-header-addrbook }
 about-addressbook-cards-context-write =
     .label = Opstellen
 about-addressbook-confirm-delete-mixed-title = Contacten en lijsten verwijderen
@@ -147,6 +179,7 @@ about-addressbook-entry-type-pager = Pieper
 about-addressbook-entry-name-birthday = Verjaardag
 about-addressbook-entry-name-anniversary = Jubileum
 about-addressbook-entry-name-title = Titel
+about-addressbook-entry-name-role = Rol
 about-addressbook-entry-name-department = Afdeling
 about-addressbook-entry-name-organization = Organisatie
 about-addressbook-entry-name-website = Website
