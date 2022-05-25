@@ -157,6 +157,8 @@ progress-pane-finished-desc2 = Pronto.
 error-pane-title = Erro
 error-message-zip-file-too-big = O arquivo zip selecionado tem mais de 2GB. Primeiro extraia o conteúdo, depois importe a partir da pasta onde foi extraído.
 error-message-extract-zip-file-failed = Falha ao extrair o arquivo zip. Extraia manualmente, depois importe a partir da pasta onde foi extraído.
+error-message-zip-file-too-big2 = O arquivo ZIP selecionado tem mais de 2GB. Primeiro extraia o conteúdo, depois importe a partir da pasta onde foi extraído.
+error-message-extract-zip-file-failed2 = Falha ao extrair o arquivo ZIP. Extraia manualmente, depois importe a partir da pasta onde foi extraído.
 error-message-failed = A importação falhou inesperadamente; mais informações podem estar disponíveis no console de erros.
 error-failed-to-parse-ics-file = Não foi encontrado nenhum item importável no arquivo.
 error-export-failed = A exportação falhou inesperadamente, mais informações podem estar disponíveis no console de erros.
@@ -174,6 +176,8 @@ csv-target-field = Campo do catálogo de endereços
 
 export-profile-desc = Exporte contas de email, mensagens de email, catálogos de endereços, configurações para um arquivo zip. Quando necessário, você pode importar o arquivo zip para restaurar seu perfil.
 export-profile-desc2 = Se o tamanho do seu perfil atual for maior que 2GB, sugerimos que faça o backup você mesmo.
+export-profile-title = Exportar contas, mensagens, catálogos de endereços e configurações para um arquivo ZIP.
+export-profile-description = Se o tamanho do seu perfil atual for maior que 2GB, sugerimos que faça o backup você mesmo.
 export-open-profile-folder = Abrir pasta do perfil
 export-file-picker = Exportar para arquivo zip
 export-file-picker2 = Exportar para um arquivo ZIP
