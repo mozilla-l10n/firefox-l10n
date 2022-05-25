@@ -69,6 +69,10 @@ about-addressbook-sort-email-ascending =
     .label = Ordenar por endereço de email (A > Z)
 about-addressbook-sort-email-descending =
     .label = Ordenar por endereço de email (Z > A)
+about-addressbook-horizontal-layout =
+    .label = Mudar para disposição horizontal
+about-addressbook-vertical-layout =
+    .label = Mudar para disposição vertical
 
 ## Card column headers
 ## Each string is listed here twice, and the values should match.
