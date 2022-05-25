@@ -69,6 +69,38 @@ about-addressbook-sort-email-ascending =
     .label = Sort by e-mail address (A > Z)
 about-addressbook-sort-email-descending =
     .label = Sort by e-mail address (Z > A)
+about-addressbook-horizontal-layout =
+    .label = Switch to horizontal layout
+about-addressbook-vertical-layout =
+    .label = Switch to vertical layout
+
+## Card column headers
+## Each string is listed here twice, and the values should match.
+
+about-addressbook-column-header-generatedname = Name
+about-addressbook-column-label-generatedname =
+    .label = { about-addressbook-column-header-generatedname }
+about-addressbook-column-header-emailaddresses = Email Addresses
+about-addressbook-column-label-emailaddresses =
+    .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-phonenumbers = Phone Numbers
+about-addressbook-column-label-phonenumbers =
+    .label = { about-addressbook-column-header-phonenumbers }
+about-addressbook-column-header-addresses = Addresses
+about-addressbook-column-label-addresses =
+    .label = { about-addressbook-column-header-addresses }
+about-addressbook-column-header-title = Title
+about-addressbook-column-label-title =
+    .label = { about-addressbook-column-header-title }
+about-addressbook-column-header-department = Department
+about-addressbook-column-label-department =
+    .label = { about-addressbook-column-header-department }
+about-addressbook-column-header-organization = Organisation
+about-addressbook-column-label-organization =
+    .label = { about-addressbook-column-header-organization }
+about-addressbook-column-header-addrbook = Address Book
+about-addressbook-column-label-addrbook =
+    .label = { about-addressbook-column-header-addrbook }
 about-addressbook-cards-context-write =
     .label = Write
 about-addressbook-confirm-delete-mixed-title = Delete Contacts and Lists
@@ -147,6 +179,7 @@ about-addressbook-entry-type-pager = Pager
 about-addressbook-entry-name-birthday = Birthday
 about-addressbook-entry-name-anniversary = Anniversary
 about-addressbook-entry-name-title = Title
+about-addressbook-entry-name-role = Role
 about-addressbook-entry-name-department = Department
 about-addressbook-entry-name-organization = Organisation
 about-addressbook-entry-name-website = Web site
