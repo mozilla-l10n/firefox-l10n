@@ -11,7 +11,6 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Cài đặt
     .accesskey = e
-
 menu-addons-and-themes =
     .label = Tiện ích mở rộng và chủ đề
     .accesskey = A
@@ -21,11 +20,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Chế độ xử lý sự cố…
     .accesskey = T
-
 menu-help-exit-troubleshoot-mode =
     .label = Tắt chế độ xử lý sự cố
     .accesskey = D
-
 menu-help-more-troubleshooting-info =
     .label = Thông tin xử lý sự cố khác
     .accesskey = M
@@ -53,22 +50,30 @@ menu-view-repair-text-encoding =
 
 ## View / Layout
 
+menu-font-size-label =
+    .label = Cỡ chữ
+    .accesskey = o
+menuitem-font-size-enlarge =
+    .label = Tăng cỡ chữ
+    .accesskey = I
+menuitem-font-size-reduce =
+    .label = Giảm cỡ chữ
+    .accesskey = D
+menuitem-font-size-reset =
+    .label = Đặt lại cỡ chữ
+    .accesskey = R
 mail-uidensity-label =
     .label = Mật độ
     .accesskey = D
-
 mail-uidensity-compact =
     .label = Thu gọn
     .accesskey = C
-
 mail-uidensity-normal =
     .label = Bình thường
     .accesskey = N
-
 mail-uidensity-touch =
     .label = Chạm
     .accesskey = T
-
 menu-spaces-toolbar-button =
     .label = Thanh công cụ Spaces
     .accesskey = S
