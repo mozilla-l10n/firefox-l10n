@@ -69,6 +69,38 @@ about-addressbook-sort-email-ascending =
     .label = Trefnu yn ôl cyfeiriad e-bost (A > Z)
 about-addressbook-sort-email-descending =
     .label = Trefnu yn ôl cyfeiriad e-bost (Z > A)
+about-addressbook-horizontal-layout =
+    .label = Newid i gynllun llorweddol
+about-addressbook-vertical-layout =
+    .label = Newid i gynllun llorweddol
+
+## Card column headers
+## Each string is listed here twice, and the values should match.
+
+about-addressbook-column-header-generatedname = Enw
+about-addressbook-column-label-generatedname =
+    .label = { about-addressbook-column-header-generatedname }
+about-addressbook-column-header-emailaddresses = Cyfeiriadau E-bost
+about-addressbook-column-label-emailaddresses =
+    .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-phonenumbers = Rhifau Ffôn
+about-addressbook-column-label-phonenumbers =
+    .label = { about-addressbook-column-header-phonenumbers }
+about-addressbook-column-header-addresses = Cyfeiriadau
+about-addressbook-column-label-addresses =
+    .label = { about-addressbook-column-header-addresses }
+about-addressbook-column-header-title = Teitl
+about-addressbook-column-label-title =
+    .label = { about-addressbook-column-header-title }
+about-addressbook-column-header-department = Adran
+about-addressbook-column-label-department =
+    .label = { about-addressbook-column-header-department }
+about-addressbook-column-header-organization = Corff
+about-addressbook-column-label-organization =
+    .label = { about-addressbook-column-header-organization }
+about-addressbook-column-header-addrbook = Llyfr Cyfeiriadau
+about-addressbook-column-label-addrbook =
+    .label = { about-addressbook-column-header-addrbook }
 about-addressbook-cards-context-write =
     .label = Ysgrifennu
 about-addressbook-confirm-delete-mixed-title = Dileu Cysylltiadau a Rhestrau
@@ -171,6 +203,7 @@ about-addressbook-entry-type-pager = Swnyn
 about-addressbook-entry-name-birthday = Pen-blwydd
 about-addressbook-entry-name-anniversary = Dathliad
 about-addressbook-entry-name-title = Teitl
+about-addressbook-entry-name-role = Rôl
 about-addressbook-entry-name-department = Adran
 about-addressbook-entry-name-organization = Corff
 about-addressbook-entry-name-website = Gwefan

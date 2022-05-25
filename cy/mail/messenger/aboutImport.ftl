@@ -133,6 +133,19 @@ calendar-import-into-new-calendar = Creu calendr newydd
 calendar-target-title = Dewiswch ble i fewnforio'r eitemau a ddewiswyd.
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = Crëwch galendr newydd o'r enw <strong>"{ $targetCalendar }"</strong>
+# $itemCount (number) - count of selected items (tasks, events) that will be imported
+# $targetCalendar (string) - name of the calendar the items will be imported into
+calendar-summary-title =
+    { $itemCount ->
+        [zero] Mewnforio { $itemCount } eitem i'r calendr " { $targetCalendar } "
+        [one] Mewnforio un eitem i'r calendr " { $targetCalendar } "
+        [two] Mewnforio { $itemCount } eitem i'r calendr " { $targetCalendar } "
+        [few] Mewnforio { $itemCount } eitem i'r calendr " { $targetCalendar } "
+        [many] Mewnforio { $itemCount } eitem i'r calendr " { $targetCalendar } "
+       *[other] Mewnforio { $itemCount } eitem i'r calendr " { $targetCalendar } "
+    }
+# $targetCalendar (string) - name of the calendar that will be created
+calendar-summary-description = Bydd calendr newydd o'r enw " { $targetCalendar } " yn cael ei greu.
 
 ## Import dialog
 
@@ -140,12 +153,20 @@ progress-pane-importing = Mewnforio
 progress-pane-exporting = Yn allforio
 progress-pane-finished-desc = Wedi gorffen.
 progress-pane-restart-desc = Ailgychwyn i orffen mewnforio.
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-importing2 = Wrthi'n mewnforio… { $progressPercent }
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-exporting2 = Wrthi'n allforio… { $progressPercent }
+progress-pane-finished-desc2 = Gorffen.
 error-pane-title = Gwall
 error-message-zip-file-too-big = Mae'r ffeil zip a ddewiswyd yn fwy na 2GB. Echdynnwch hi'n gyntaf, yna ei mewnforio o'r ffolder cafodd ei hechdynnu.
 error-message-extract-zip-file-failed = Wedi methu echdynnu'r ffeil zip. Echdynwch hi â llaw, yna ei mewnforio o'r ffolder wedi'i hechdynnu yn lle hynny.
+error-message-zip-file-too-big2 = Mae'r ffeil zip a ddewiswyd yn fwy na 2GB. Echdynnwch hi'n gyntaf, yna ei mewnforio o'r ffolder cafodd ei hechdynnu.
+error-message-extract-zip-file-failed2 = Wedi methu echdynnu'r ffeil zip. Echdynwch hi â llaw, yna ei mewnforio o'r ffolder wedi'i hechdynnu yn lle hynny.
 error-message-failed = Methodd y mewnforio yn annisgwyl, efallai y bydd mwy o wybodaeth ar gael yn y Consol Gwallau.
 error-failed-to-parse-ics-file = Heb ganfod unrhyw eitemau i'w mewnforio yn y ffeil.
 error-export-failed = Methodd y mewnforio yn annisgwyl, efallai y bydd rhagor o wybodaeth ar gael yn y Consol Gwallau.
+error-message-no-profile = Heb ganfod proffil.
 
 ## <csv-field-map> element
 
@@ -159,12 +180,23 @@ csv-target-field = Maes llyfr cyfeiriadau
 
 export-profile-desc = Allforiwch gyfrifon e-bost, negeseuon e-bost, llyfrau cyfeiriadau, gosodiadau i ffeil zip. Pan fo angen, gallwch fewnforio'r ffeil zip i adfer eich proffil.
 export-profile-desc2 = Os yw eich proffil presennol yn fwy na 2GB, rydym yn awgrymu eich bod yn gwneud copi wrth gefn ohono ar eich cyfer chi eich hun.
+export-profile-title = Allforiwch gyfrifon, negeseuon, llyfrau cyfeiriadau, a gosodiadau i ffeil ZIP.
+export-profile-description = Os yw eich proffil presennol yn fwy na 2GB, rydym yn awgrymu eich bod yn gwneud copi wrth gefn ohono ar eich cyfer chi eich hun.
 export-open-profile-folder = Agor ffolder proffil
 export-file-picker = Allforio i ffeil zip
+export-file-picker2 = Allforio i ffeil ZIP
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-title = Data i'w fewnforio
+summary-pane-start = Cychwyn Mewnforio
+summary-pane-warning = Bydd angen ailgychwyn { -brand-product-name } pan fydd y mewnforio wedi'i gwblhau.
+summary-pane-start-over = Ailgychwyn y Teclyn Mewnforio
 
 ## Footer area
 
+footer-help = Angen cymorth?
+footer-import-documentation = Dogfennaeth gosod
+footer-export-documentation = Dogfennaeth allforio
+footer-support-forum = Fforwm cefnogi
