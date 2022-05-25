@@ -3,12 +3,17 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Fieldsets
+# Type selection
 
-vcard-fieldset-name = Naam
+vcard-entry-type-label = Type
+vcard-entry-type-home = Thuis
+vcard-entry-type-work = Werk
+vcard-entry-type-none = Geen
+vcard-entry-type-custom = Aangepast
 
-# N VCard Field
+# N vCard field
 
+vcard-name-header = Naam
 vcard-n-prefix = Voorvoegsel
 vcard-n-add-prefix =
     .title = Voorvoegsel toevoegen
@@ -24,3 +29,28 @@ vcard-n-add-lastname =
 vcard-n-suffix = Achtervoegsel
 vcard-n-add-suffix =
     .title = Achtervoegsel toevoegen
+
+# Email vCard field
+
+vcard-email-header = E-mailadressen
+vcard-email-add = E-mailadres toevoegen
+vcard-email-label = E-mailadres
+vcard-email-choose-primary = Standaard
+    .aria-label = Kies uw primaire e-mailadres
+
+# URL vCard field
+
+vcard-url-header = Websites
+vcard-url-add = Website toevoegen
+vcard-url-label = Website
+
+# Tel vCard field
+
+vcard-tel-header = Telefoonnummers
+vcard-tel-add = Telefoonnummer toevoegen
+vcard-tel-label = Telefoonnummer
+
+# TZ vCard field
+
+vcard-tz-header = Tijdzone
+vcard-tz-add = Tijdzone toevoegen
