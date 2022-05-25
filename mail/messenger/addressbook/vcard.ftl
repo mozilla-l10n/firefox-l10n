@@ -3,12 +3,17 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Fieldsets
+# Type selection
 
-vcard-fieldset-name = Enw
+vcard-entry-type-label = Math
+vcard-entry-type-home = Cartref
+vcard-entry-type-work = Gwaith
+vcard-entry-type-none = Dim
+vcard-entry-type-custom = Cyfaddas
 
-# N VCard Field
+# N vCard field
 
+vcard-name-header = Enw
 vcard-n-prefix = Rhagddodiad
 vcard-n-add-prefix =
     .title = Ychwanegu rhagddodiad
@@ -24,3 +29,28 @@ vcard-n-add-lastname =
 vcard-n-suffix = Ôl-ddodiad
 vcard-n-add-suffix =
     .title = Ychwanegu ôl-ddodiad
+
+# Email vCard field
+
+vcard-email-header = Cyfeiriadau E-bost
+vcard-email-add = Ychwanegu cyfeiriad e-bost
+vcard-email-label = Cyfeiriad e-bost
+vcard-email-choose-primary = Rhagosodiad
+    .aria-label = Dewiswch eich prif gyfeiriad e-bost
+
+# URL vCard field
+
+vcard-url-header = Gwefannau
+vcard-url-add = Ychwanegwch wefan
+vcard-url-label = Gwefan
+
+# Tel vCard field
+
+vcard-tel-header = Rhifau Ffôn
+vcard-tel-add = Ychwanegwch rif ffôn
+vcard-tel-label = Rhif ffôn
+
+# TZ vCard field
+
+vcard-tz-header = Cylch Amser
+vcard-tz-add = Ychwanegwch gylch amser
