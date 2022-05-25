@@ -50,6 +50,7 @@ source-seamonkey = Importar desde una instalación de { app-name-seamonkey }
 source-seamonkey-description = Importar ajustes, filtros, mensajes y otros datos desde un perfil de { app-name-seamonkey }.
 source-outlook = Importar desde { app-name-outlook }
 source-outlook-description = Importar cuentas, libretas de direcciones y mensajes desde { app-name-outlook }.
+source-becky = Importar de { app-name-becky }
 
 ## Import from file selections
 
