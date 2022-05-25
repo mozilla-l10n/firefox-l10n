@@ -69,6 +69,15 @@ about-addressbook-sort-email-ascending =
     .label = Trier par adresse électronique (A > Z)
 about-addressbook-sort-email-descending =
     .label = Trier par adresse électronique (Z > A)
+
+## Card column headers
+## Each string is listed here twice, and the values should match.
+
+about-addressbook-column-header-generatedname = Nom
+about-addressbook-column-header-phonenumbers = Numéros de téléphone
+about-addressbook-column-header-title = Fonction
+about-addressbook-column-header-department = Service
+about-addressbook-column-header-organization = Société
 about-addressbook-cards-context-write =
     .label = Écrire
 about-addressbook-confirm-delete-mixed-title = Supprimer des contacts et des listes
@@ -124,6 +133,8 @@ about-addressbook-confirm-delete-contacts =
 
 ## Details
 
+about-addressbook-write-action-button = Écrire
+about-addressbook-event-action-button = Évènement
 about-addressbook-search-action-button = Rechercher
 about-addressbook-begin-edit-contact-button = Modifier
 about-addressbook-delete-edit-contact-button = Supprimer
@@ -139,6 +150,12 @@ about-addressbook-details-notes-header = Notes
 about-addressbook-details-other-info-header = Autres informations
 about-addressbook-entry-type-home = Accueil
 about-addressbook-entry-type-fax = Fax
+about-addressbook-entry-name-birthday = Anniversaire
+about-addressbook-entry-name-title = Fonction
+about-addressbook-entry-name-department = Service
+about-addressbook-entry-name-organization = Société
+about-addressbook-entry-name-website = Site web
+about-addressbook-entry-name-time-zone = Fuseau horaire
 about-addressbook-unsaved-changes-prompt-title = Modifications non enregistrées
 about-addressbook-unsaved-changes-prompt = Voulez-vous enregistrer vos modifications avant de quitter la vue d’édition ?
 
