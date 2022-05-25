@@ -51,10 +51,18 @@ source-seamonkey-description = Importar ajustes, filtros, mensajes y otros datos
 source-outlook = Importar desde { app-name-outlook }
 source-outlook-description = Importar cuentas, libretas de direcciones y mensajes desde { app-name-outlook }.
 source-becky = Importar de { app-name-becky }
+source-becky-description = Importar libretas de direcciones y mensajes de { app-name-becky }.
+source-apple-mail = Importar de { app-name-apple-mail }
+source-apple-mail-description = Importar mensajes de { app-name-apple-mail }.
+source-file2 = Importar de un archivo
+source-file-description = Seleccionar un archivo para importar libretas de direcciones, calendarios o una copia de seguridad del perfil (archivo ZIP).
 
 ## Import from file selections
 
+file-profile2 = Importar perfil respaldado
+file-profile-description = Seleccionar un perfil de Thunderbird previamente respaldado (.zip)
 file-calendar = Importar calendarios
+file-calendar-description = Seleccionar un archivo que contenga calendarios o eventos exportados (.ics)
 file-addressbook = Importar libretas de direcciones
 
 ## Import from app profile steps
