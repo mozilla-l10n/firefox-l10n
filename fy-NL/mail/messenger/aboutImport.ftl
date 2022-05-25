@@ -83,14 +83,21 @@ profile-source = Ut profyl ymportearje
 profile-source-named = Ut profyl <strong>‘{ $profileName }’</strong> ymportearje
 profile-file-picker-directory = Kies in profylmap
 profile-file-picker-archive = Kies in <strong>ZIP</strong>-bestân
+profile-file-picker-archive-description = It ZIP-bestân moat lytser wêze as 2 GB.
+profile-file-picker-archive-title = Kies in ZIP-bestân (lytser as 2GB)
+items-pane-title2 = Kies wat jo ymportearje wolle:
+items-pane-directory = Map:
+items-pane-profile-name = Profylnamme:
 items-pane-checkbox-accounts = Accounts en ynstellingen
 items-pane-checkbox-address-books = Adresboeken
 items-pane-checkbox-calendars = Aginda’s
 items-pane-checkbox-mail-messages = E-mailberjochten
+items-pane-override = Besteande of identike gegevens wurde net oerskreaun.
 
 ## Import from address book file steps
 
 import-from-addr-book-file-desc = Selektearje it bestânstype dat jo ymportearje wolle:
+import-from-addr-book-file-description = Kies it bestânsformaat mei jo adresboekgegevens.
 addr-book-csv-file = Komma- of tab-skieden bestân (.csv, .tsv)
 addr-book-ldif-file = LDIF-bestân (.ldif)
 addr-book-vcard-file = vCard-bestân (.vcf, .vcard)
@@ -100,21 +107,41 @@ addr-book-file-picker = Adresboekbestân selektearje
 addr-book-csv-field-map-title = Fjildnammen oerien komme litte
 addr-book-csv-field-map-desc = Selektearje adresboekfjilden dy’t oerienkomme mei de boarnefjilden. Finkje fjilden út dy’t jo net ymportearje wolle.
 addr-book-directories-pane-title = Selektearje de map dêr’t jo nei ymportearje wolle:
+addr-book-directories-title = Selektearje wêr’t jo de keazen gegevens ymportearje wolle
 addr-book-directories-pane-source = Boarnebestân:
 addr-book-import-into-new-directory = Nije map meitsje
 
 ## Import from address book file steps
 
+# $addressBookName (string) - name of the new address book that would be created.
+addr-book-import-into-new-directory2 = In nije map oanmeitsje mei de namme <strong>‘{ $addressBookName }’</strong>
+# $addressBookName (string) - name of the address book to import into
+addr-book-summary-title = De keazen gegevens ymportearje yn de map ‘{ $addressBookName }’
+# $addressBookName (string) - name of the address book that will be created.
+addr-book-summary-description = Der wurdt in nij adresboek mei de namme ‘{ $addressBookName }’ makke.
 
 ## Import from calendar file steps
 
 import-from-calendar-file-desc = Selektearje it iCalendar (.ics)-bestânstype dat jo ymportearje wolle.
+calendar-items-title = Selektearje de te ymportearjen ûnderdielen.
 calendar-items-loading = Items lade…
 calendar-items-filter-input =
     .placeholder = Items filterje…
 calendar-select-all-items = Alles selektearje
 calendar-deselect-all-items = Alle deselektearje
 calendar-import-into-new-calendar = In nije aginda meitsje
+calendar-target-title = Selektearje wêr’t jo de keazen ûnderdielen ymportearje wolle.
+# $targetCalendar (string) - name of the new calendar that would be created
+calendar-import-into-new-calendar2 = In nije aginda meitsje mei de namme <strong>‘{ $targetCalendar }’</strong>
+# $itemCount (number) - count of selected items (tasks, events) that will be imported
+# $targetCalendar (string) - name of the calendar the items will be imported into
+calendar-summary-title =
+    { $itemCount ->
+        [one] Ien item ymportearje yn de aginda ‘{ $targetCalendar }’
+       *[other] { $itemCount } items ymportearje yn de aginda ‘{ $targetCalendar }’
+    }
+# $targetCalendar (string) - name of the calendar that will be created
+calendar-summary-description = Der wurdt in nije aginda makke mei de namme ‘{ $targetCalendar }’.
 
 ## Import dialog
 
@@ -122,6 +149,11 @@ progress-pane-importing = Ymportearje
 progress-pane-exporting = Eksportearje
 progress-pane-finished-desc = Foltôge.
 progress-pane-restart-desc = Opnij starte om it ymportearjen te foltôgjen.
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-importing2 = Ymportearje… { $progressPercent }
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-exporting2 = Eksportearje… { $progressPercent }
+progress-pane-finished-desc2 = Foltôge.
 error-pane-title = Flater
 error-message-zip-file-too-big = It selektearre zip-bestân is grutter as 2 GB. Pak it earst út en ymportearje it dernei út de útpakte map.
 error-message-extract-zip-file-failed = Kin it zipbestân net útpakke. Pak it hânmjittich út en ymportearje it dernei út de útpakte map.
