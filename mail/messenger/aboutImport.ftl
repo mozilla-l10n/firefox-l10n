@@ -9,6 +9,7 @@ export-page-title = Esporta
 
 import-start = Strumento per l’importazione
 import-start-title = Importa impostazioni o dati da un’applicazione o da un file.
+import-start-description = Seleziona la fonte da cui desideri importare. Successivamente ti verrà chiesto di scegliere quali dati devono essere importati.
 import-from-app = Importa da applicazione
 import-from-app-desc = Scegli di importare account, rubriche, calendari e altri dati da:
 import-address-book = Importa file della rubrica
@@ -54,6 +55,7 @@ source-file-description = Seleziona un file per importare rubriche, calendari o 
 
 ## Import from file selections
 
+file-profile2 = Importa profilo di backup
 file-profile-description = Seleziona un profilo Thunderbird di cui è stato eseguito il backup in precedenza (.zip)
 file-calendar = Importa calendari
 file-calendar-description = Seleziona un file contenente calendari o eventi esportati (.ics)
@@ -69,6 +71,9 @@ from-app-becky = Importa da { app-name-becky }
 from-app-apple-mail = Importa da { app-name-apple-mail }
 profiles-pane-title-thunderbird = Importa impostazioni e dati da un profilo { app-name-thunderbird }.
 profiles-pane-title-seamonkey = Importa impostazioni e dati da un profilo { app-name-seamonkey }.
+profiles-pane-title-outlook = Importa dati da { app-name-outlook }.
+profiles-pane-title-becky = Importa dati da { app-name-becky }.
+profiles-pane-title-apple-mail = Importa messaggi da { app-name-apple-mail }.
 items-pane-checkbox-accounts = Account e impostazioni
 items-pane-checkbox-address-books = Rubriche
 items-pane-checkbox-calendars = Calendari
