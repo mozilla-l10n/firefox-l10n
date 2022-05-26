@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Utzi
 screenshots-overlay-instructions = Eremu bat hautatzeko, arrastatu edo egin klik orrian. Uzteko, sakatu ESK.
+screenshots-overlay-download-button = Deskargatu
+screenshots-overlay-copy-button = Kopiatu
