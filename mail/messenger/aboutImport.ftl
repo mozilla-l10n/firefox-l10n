@@ -97,6 +97,7 @@ items-pane-override = 將不會覆蓋現有的資料。
 ## Import from address book file steps
 
 import-from-addr-book-file-desc = 請選擇您要匯入的檔案類型:
+import-from-addr-book-file-description = 請選擇您通訊錄的檔案格式。
 addr-book-csv-file = 逗點或 Tab 分隔文件（.csv、.tsv）
 addr-book-ldif-file = LDIF 檔案（.ldif）
 addr-book-vcard-file = vCard 檔案（.vcf、.vcard）
@@ -112,6 +113,10 @@ addr-book-import-into-new-directory = 建立新目錄
 
 ## Import from address book file steps
 
+# $addressBookName (string) - name of the new address book that would be created.
+addr-book-import-into-new-directory2 = 建立名為<strong>「{ $addressBookName }」</strong>的新目錄
+# $addressBookName (string) - name of the address book to import into
+addr-book-summary-title = 將選擇的資料匯入「{ $addressBookName }」目錄
 # $addressBookName (string) - name of the address book that will be created.
 addr-book-summary-description = 將建立新的通訊錄「{ $addressBookName }」。
 
@@ -126,6 +131,8 @@ calendar-select-all-items = 選擇全部
 calendar-deselect-all-items = 取消選擇全部
 calendar-import-into-new-calendar = 建立新的行事曆
 calendar-target-title = 請選擇要將選擇的項目匯入到哪裡。
+# $targetCalendar (string) - name of the new calendar that would be created
+calendar-import-into-new-calendar2 = 建立名為<strong>「{ $targetCalendar }」</strong>的新行事曆
 
 ## Import dialog
 
