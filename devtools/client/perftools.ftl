@@ -105,6 +105,8 @@ perftools-thread-jvm-glean =
     .title = A Glean telemetriai SDK fő szálai
 perftools-thread-jvm-arch-disk-io =
     .title = A Kotlin korutin programkönyvtár IO diszpécsere
+perftools-thread-jvm-pool =
+    .title = Névtelen szálkészletben létrehozott szálak
 
 ##
 
