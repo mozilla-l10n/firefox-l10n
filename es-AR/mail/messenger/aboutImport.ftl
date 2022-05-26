@@ -64,17 +64,40 @@ file-profile-description = Seleccionar un perfil de Thunderbird previamente resp
 file-calendar = Importar calendarios
 file-calendar-description = Seleccionar un archivo que contenga calendarios o eventos exportados (.ics)
 file-addressbook = Importar libretas de direcciones
+file-addressbook-description = Seleccionar un archivo que contenga libretas de direcciones y contactos exportados
 
 ## Import from app profile steps
 
+from-app-thunderbird = Importar de un perfil de { app-name-thunderbird }
+from-app-seamonkey = Importar de un perfil de { app-name-seamonkey }
+from-app-outlook = Importar de { app-name-outlook }
+from-app-becky = Importar de { app-name-becky }
+from-app-apple-mail = Importar de { app-name-apple-mail }
+profiles-pane-title-thunderbird = Importar ajustes y datos desde un perfil de { app-name-thunderbird }.
+profiles-pane-title-seamonkey = Importar ajustes y datos desde un perfil de { app-name-seamonkey }.
+profiles-pane-title-outlook = Importar datos de { app-name-outlook }.
+profiles-pane-title-becky = Importar datos de { app-name-becky }.
+profiles-pane-title-apple-mail = Importar mensajes de { app-name-apple-mail }.
+profile-source = Importar desde perfil
+# $profileName (string) - name of the profile
+profile-source-named = Importar desde el perfil <strong>"{ $profileName }"</strong>
+profile-file-picker-directory = Elegir una carpeta de perfil
+profile-file-picker-archive = Elegir un archivo <strong>ZIP</strong>
+profile-file-picker-archive-description = El archivo ZIP debe ser más pequeño que 2GB.
+profile-file-picker-archive-title = Seleccionar un archivo ZIP (menor de 2GB)
+items-pane-title2 = Seleccionar qué importar:
+items-pane-directory = Directorio:
+items-pane-profile-name = Nombre del perfil:
 items-pane-checkbox-accounts = Cuentas y configuración
 items-pane-checkbox-address-books = Libretas de direcciones
 items-pane-checkbox-calendars = Calendarios
 items-pane-checkbox-mail-messages = Mensajes de correo
+items-pane-override = Cualquier dato existente o idéntico no se sobrescribirá.
 
 ## Import from address book file steps
 
 import-from-addr-book-file-desc = Seleccione el tipo de archivo que desea importar:
+import-from-addr-book-file-description = Seleccionar el formato de archivo que contiene los datos de su libreta de direcciones.
 addr-book-csv-file = Archivo separado por comas o tabulaciones (.csv, .tsv)
 addr-book-ldif-file = Archivo LDIF (.ldif)
 addr-book-vcard-file = Archivo vCard (.vcf, .vcard)
