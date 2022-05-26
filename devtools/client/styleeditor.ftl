@@ -8,6 +8,8 @@ styleeditor-new-button =
 styleeditor-import-button =
     .tooltiptext = Inportatu eta erantsi badagoen estilo-orri bat dokumentuari
     .accesskey = I
+styleeditor-filter-input =
+    .placeholder = Iragazi estilo-orriak
 styleeditor-visibility-toggle =
     .tooltiptext = Txandakatu estilo-orriaren ikusgaitasuna
     .accesskey = G
@@ -28,3 +30,5 @@ styleeditor-copy-url =
 styleeditor-go-to-line =
     .label = Jauzi lerrora…
     .accesskey = J
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Ez da aurkitu bat datorren estilo-orririk.
