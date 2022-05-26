@@ -18,7 +18,7 @@
 <!ENTITY dateField4.label "日期">
 <!ENTITY userAgentField4.label "使用者代理字串">
 <!ENTITY referencesField4.label "參考資料">
-<!ENTITY messageIdField4.label "郵件 ID">
+<!ENTITY messageIdField4.label "郵件編號">
 <!ENTITY inReplyToField4.label "回覆給">
 <!ENTITY originalWebsite4.label "網站">
 
