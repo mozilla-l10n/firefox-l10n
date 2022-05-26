@@ -62,9 +62,17 @@ file-profile-description = Válasszon egy korábban mentett Thunderbird-profilt 
 file-calendar = Naptárak importálása
 file-calendar-description = Válasszon egy exportált naptárakat vagy eseményeket (.ics) tartalmazó fájlt
 file-addressbook = Címjegyzékek importálása
+file-addressbook-description = Válasszon egy exportált címjegyzékeket és névjegyeket tartalmazó fájlt
 
 ## Import from app profile steps
 
+from-app-thunderbird = Importálás egy { app-name-thunderbird }-profilból
+from-app-seamonkey = Importálás egy { app-name-seamonkey }-profilból
+from-app-outlook = Importálás az { app-name-outlook }ból
+from-app-becky = Importálás a { app-name-becky }ből
+from-app-apple-mail = Importálás az { app-name-apple-mail }ből
+profiles-pane-title-thunderbird = Beállítások és adatok importálása egy { app-name-thunderbird }-profilból.
+profiles-pane-title-seamonkey = Beállítások és adatok importálása egy { app-name-seamonkey }-profilból.
 items-pane-checkbox-accounts = Fiókok és beállítások
 items-pane-checkbox-address-books = Címjegyzékek
 items-pane-checkbox-calendars = Naptárak
