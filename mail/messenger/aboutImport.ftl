@@ -73,14 +73,29 @@ from-app-becky = Importálás a { app-name-becky }ből
 from-app-apple-mail = Importálás az { app-name-apple-mail }ből
 profiles-pane-title-thunderbird = Beállítások és adatok importálása egy { app-name-thunderbird }-profilból.
 profiles-pane-title-seamonkey = Beállítások és adatok importálása egy { app-name-seamonkey }-profilból.
+profiles-pane-title-outlook = Adatok importálása az{ app-name-outlook }ból.
+profiles-pane-title-becky = Adatok importálása a { app-name-becky }ből.
+profiles-pane-title-apple-mail = Üzenetek importálása az { app-name-apple-mail }ből.
+profile-source = Importálás profilból
+# $profileName (string) - name of the profile
+profile-source-named = Importálás a(z) <strong>„{ $profileName }”</strong> profilból
+profile-file-picker-directory = Válasszon profilmappát
+profile-file-picker-archive = Válasszon egy <strong>ZIP</strong>-fájlt
+profile-file-picker-archive-description = A ZIP-fájlnak 2 GB-nál kisebbnek kell lennie.
+profile-file-picker-archive-title = Válasszon egy ZIP-fájlt (2 GB-nál kisebbet)
+items-pane-title2 = Importálandó adatok kiválasztása:
+items-pane-directory = Könyvtár:
+items-pane-profile-name = Profilnév:
 items-pane-checkbox-accounts = Fiókok és beállítások
 items-pane-checkbox-address-books = Címjegyzékek
 items-pane-checkbox-calendars = Naptárak
 items-pane-checkbox-mail-messages = Levelek
+items-pane-override = A meglévő vagy azonos adatok nem kerülnek felülírásra.
 
 ## Import from address book file steps
 
 import-from-addr-book-file-desc = Válassza ki az importálandó fájltípust:
+import-from-addr-book-file-description = Válassza ki a címjegyzék adatait tartalmazó fájl formátumát.
 addr-book-csv-file = Vesszővel vagy tabulátorral elválasztott fájl (.csv, .tsv)
 addr-book-ldif-file = LDIF-fájl (.ldif)
 addr-book-vcard-file = vCard-fájl (.vcf, .vcard)
