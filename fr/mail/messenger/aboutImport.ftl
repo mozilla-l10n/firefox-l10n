@@ -8,6 +8,7 @@ export-page-title = Exporter
 ## Header
 
 import-start = Outil d’importation
+import-start-title = Importez des paramètres ou des données à partir d’une application ou d’un fichier.
 import-from-app = Importer depuis l’application
 import-from-app-desc = Choisir d’importer comptes, carnets d’adresses, agendas et autres données depuis :
 import-address-book = Importer le fichier d’un carnet d’adresses
@@ -15,6 +16,7 @@ import-calendar = Importer le fichier d’un agenda
 import-file = Importer depuis un fichier
 import-file-title = Sélectionnez un fichier pour importer son contenu.
 import-address-book-title = Importer le fichier d’un carnet d’adresses
+import-calendar-title = Importer le fichier d’un agenda
 export-profile = Exporter
 
 ## Buttons
@@ -40,6 +42,7 @@ profile-file-picker-dir = Sélectionnez un dossier de profil
 profile-file-picker-zip = Sélectionnez un fichier zip (de taille inférieure à 2 Go)
 items-pane-title = Sélectionnez quoi importer
 items-pane-source = Emplacement d’origine :
+source-file2 = Importer depuis un fichier
 
 ## Import from file selections
 
