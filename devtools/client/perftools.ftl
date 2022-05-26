@@ -99,6 +99,10 @@ perftools-thread-jvm-gecko =
     .title = Gecko JVM hari nagusia
 perftools-thread-jvm-nimbus =
     .title = Nimbus esperimentuen SDKren hari nagusiak
+perftools-thread-jvm-glean =
+    .title = Glean telemetria SDKren hari nagusiak
+perftools-thread-jvm-pool =
+    .title = Izenik gabeko hari multzoan sortutako hariak
 
 ##
 

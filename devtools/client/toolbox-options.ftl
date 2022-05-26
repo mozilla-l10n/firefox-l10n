@@ -36,6 +36,8 @@ options-collapse-attrs-tooltip =
     .title = Moztu ikuskatzaileko atributu luzeak
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Egin klik eta arrastatu tamainaren balioak editatzeko
+options-inspector-draggable-properties-tooltip =
+    .title = Egin klik eta arrastatu ikuskatzailearen arauen ikuspegiko tamainaren balioak editatzeko.
 
 ## "Default Color Unit" options for the Inspector
 
