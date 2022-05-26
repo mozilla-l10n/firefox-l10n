@@ -19,6 +19,7 @@ perftools-heading-features-default = 功能（默认推荐开启）
 perftools-heading-features-disabled = 已禁用的功能
 perftools-heading-features-experimental = 实验性
 perftools-heading-threads = 线程
+perftools-heading-threads-jvm = JVM 线程
 perftools-heading-local-build = 本地构建版本
 
 ##
@@ -35,9 +36,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = 缓冲区大小：
-
 perftools-custom-threads-label = 按名称添加自定义线程：
-
 perftools-devtools-interval-label = 间隔：
 perftools-devtools-threads-label = 线程：
 perftools-devtools-settings-label = 设置
@@ -89,11 +88,22 @@ perftools-thread-dns-resolver =
     .title = DNS 解析会发生在此线程
 perftools-thread-task-controller =
     .title = TaskController 线程池中的线程
+perftools-thread-jvm-gecko =
+    .title = Gecko JVM 主线程
+perftools-thread-jvm-nimbus =
+    .title = Nimbus 实验 SDK 的主线程
+perftools-thread-jvm-default-dispatcher =
+    .title = Kotlin 协程库的默认调度器
+perftools-thread-jvm-glean =
+    .title = Glean 遥测 SDK 的主线程
+perftools-thread-jvm-arch-disk-io =
+    .title = Kotlin 协程库的 IO 调度器
+perftools-thread-jvm-pool =
+    .title = 创建于未命名线程池的线程
 
 ##
 
 perftools-record-all-registered-threads = 忽略上面选择的项目，记录所有注册的线程
-
 perftools-tools-threads-input-label =
     .title = 下方列表是要在分析器中测量性能的线程名称（以逗号分隔）。名称须与要测量的线程的名称部分匹配，且对空格敏感。
 
@@ -101,14 +111,13 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>新变化</b>：{ -profiler-brand-name }现已集成于开发者工具。<a>详细了解</a>这个功能强大的新工具。
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = （短期内，您仍可以通过<a>{ options-context-advanced-settings }</a>访问旧的“性能”面板）
-
 perftools-onboarding-close-button =
     .aria-label = 关闭导览消息
 
@@ -121,19 +130,14 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Web 开发者
 perftools-presets-web-developer-description = 推荐在对大部分 Web 应用程序调试时使用，开销较少。
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = 推荐在分析 { -brand-shorter-name } 性能时使用。
-
 perftools-presets-graphics-label = 图形
 perftools-presets-graphics-description = 推荐在排查 { -brand-shorter-name } 图形 Bug 时使用。
-
 perftools-presets-media-label = 媒体
 perftools-presets-media-description2 = 推荐在排查 { -brand-shorter-name } 音视频 Bug 时使用。
-
 perftools-presets-networking-label = 联网
 perftools-presets-networking-description = 推荐在排查 { -brand-shorter-name } 联网 Bug 时使用。
-
 perftools-presets-custom-label = 自定义
 
 ##
