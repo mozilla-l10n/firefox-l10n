@@ -8,12 +8,15 @@ export-page-title = 匯出
 ## Header
 
 import-start = 匯入工具
+import-start-title = 從應用程式或檔案匯入設定或資料。
+import-start-description = 請選擇要匯入的來源資料位置，稍後會再詢問您要匯入哪些資料。
 import-from-app = 從應用程式匯入
 import-from-app-desc = 選擇從下列位置匯入帳號、通訊錄、行事曆與其他資料:
 import-address-book = 匯入通訊錄檔案
 import-calendar = 匯入行事曆檔案
 import-file = 從檔案匯入
 import-file-title = 請選擇要匯入內容的檔案。
+import-file-description = 選擇匯入先前被分的設定檔、通訊錄或行事曆。
 import-address-book-title = 匯入通訊錄檔案
 import-calendar-title = 匯入行事曆檔案
 export-profile = 匯出
@@ -52,6 +55,7 @@ source-becky-description = 從 { app-name-becky } 匯入帳號、通訊錄與郵
 source-apple-mail = 從 { app-name-apple-mail } 匯入
 source-apple-mail-description = 從 { app-name-apple-mail } 匯入相關訊息。
 source-file2 = 從檔案匯入
+source-file-description = 請選擇檔案來匯入通訊錄、行事曆，或設定檔備份（ZIP 檔格式）。
 
 ## Import from file selections
 
@@ -60,6 +64,7 @@ file-profile-description = 請選擇先前備份的 Thunderbird 設定檔 (.zip)
 file-calendar = 匯入行事曆
 file-calendar-description = 請選擇先前匯出的行事曆或事件 (.ics)
 file-addressbook = 匯入通訊錄
+file-addressbook-description = 選擇包含先前匯出的通訊錄與聯絡人的備份檔
 
 ## Import from app profile steps
 
@@ -74,6 +79,8 @@ profiles-pane-title-outlook = 從 { app-name-outlook } 匯入相關資料。
 profiles-pane-title-becky = 從 { app-name-becky } 匯入相關資料。
 profiles-pane-title-apple-mail = 從 { app-name-apple-mail } 匯入相關訊息。
 profile-source = 從設定檔匯入
+# $profileName (string) - name of the profile
+profile-source-named = 從設定檔<strong>「{ $profileName }」</strong>匯入
 profile-file-picker-directory = 請選擇設定檔資料夾
 profile-file-picker-archive = 請選擇 <strong>ZIP</strong> 檔
 profile-file-picker-archive-description = ZIP 檔必須小於 2GB。
@@ -85,6 +92,7 @@ items-pane-checkbox-accounts = 帳號與設定
 items-pane-checkbox-address-books = 通訊錄
 items-pane-checkbox-calendars = 行事曆
 items-pane-checkbox-mail-messages = 郵件訊息
+items-pane-override = 將不會覆蓋現有的資料。
 
 ## Import from address book file steps
 
