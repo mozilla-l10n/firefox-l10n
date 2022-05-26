@@ -21,7 +21,7 @@ about-addressbook-toolbar-import =
 
 ## Books
 
-all-address-books = Všetky adresáre kontaktov
+all-address-books = Všetky adresáre
 about-addressbook-books-context-properties =
     .label = Vlastnosti
 about-addressbook-books-context-synchronize =
