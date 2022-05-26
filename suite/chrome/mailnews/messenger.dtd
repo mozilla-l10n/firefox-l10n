@@ -160,7 +160,7 @@
 <!ENTITY sortByJunkStatusCmd.accesskey "J">
 <!ENTITY sortBySubjectCmd.label "主旨">
 <!ENTITY sortBySubjectCmd.accesskey "S">
-<!ENTITY sortByFromCmd.label "寄件者">
+<!ENTITY sortByFromCmd.label "從">
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "收件者">
 <!ENTITY sortByRecipientCmd.accesskey "c">
