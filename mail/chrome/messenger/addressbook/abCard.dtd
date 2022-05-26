@@ -86,7 +86,7 @@
 <!ENTITY JobTitle.accesskey             "i">
 <!ENTITY Department.label               "部門:">
 <!ENTITY Department.accesskey           "m">
-<!ENTITY Company.label                  "服務單位:">
+<!ENTITY Company.label                  "公司:">
 <!ENTITY Company.accesskey              "n">
 <!ENTITY WorkAddress.label              "地址:">
 <!ENTITY WorkAddress.accesskey          "d">

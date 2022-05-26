@@ -133,6 +133,14 @@ calendar-import-into-new-calendar = 建立新的行事曆
 calendar-target-title = 請選擇要將選擇的項目匯入到哪裡。
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = 建立名為<strong>「{ $targetCalendar }」</strong>的新行事曆
+# $itemCount (number) - count of selected items (tasks, events) that will be imported
+# $targetCalendar (string) - name of the calendar the items will be imported into
+calendar-summary-title =
+    { $itemCount ->
+       *[other] 將 { $itemCount } 個項目匯入到「{ $targetCalendar }」行事曆
+    }
+# $targetCalendar (string) - name of the calendar that will be created
+calendar-summary-description = 將建立名為「{ $targetCalendar }」的新行事曆。
 
 ## Import dialog
 
@@ -178,6 +186,7 @@ export-brand-name = { -brand-product-name }
 
 summary-pane-title = 要匯入的資料
 summary-pane-start = 開始匯入
+summary-pane-warning = 匯入完成後，需重新啟動 { -brand-product-name }。
 summary-pane-start-over = 重新啟動匯入工具
 
 ## Footer area
