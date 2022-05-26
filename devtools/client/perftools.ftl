@@ -21,6 +21,7 @@ perftools-heading-features-default = Eginbideak (gomendatutakoak gaituta lehenes
 perftools-heading-features-disabled = Desgaitutako eginbideak
 perftools-heading-features-experimental = Esperimentala
 perftools-heading-threads = Hariak
+perftools-heading-threads-jvm = JVM hariak
 perftools-heading-local-build = Eraikitze lokala
 
 ##
@@ -42,9 +43,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Buffer-tamaina:
-
 perftools-custom-threads-label = Gehitu hari pertsonalizatuak izenez:
-
 perftools-devtools-interval-label = Tartea:
 perftools-devtools-threads-label = Hariak:
 perftools-devtools-settings-label = Ezarpenak
@@ -96,11 +95,14 @@ perftools-thread-dns-resolver =
     .title = DNS ebazpena hari honetan gertatzen da
 perftools-thread-task-controller =
     .title = TaskController hari-putzuko hariak
+perftools-thread-jvm-gecko =
+    .title = Gecko JVM hari nagusia
+perftools-thread-jvm-nimbus =
+    .title = Nimbus esperimentuen SDKren hari nagusiak
 
 ##
 
 perftools-record-all-registered-threads = Saihestu goiko hautapenak eta grabatu erregistratutako hari guztiak
-
 perftools-tools-threads-input-label =
     .title = Hari-izen hauek komaz bereizitako zerrenda bat dira eta harien analisia gaitzeko erabiltzen da analizatzailean. Haria kontuan har dadin, nahikoa da hari-izena erdizka bat etortzea; zuriuneak errespetatu egiten dira.
 
@@ -108,14 +110,13 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Berria</b>: { -profiler-brand-name } orain garatzaile-tresnen zati da. Eskuratu tresna boteretsu berri honi buruzko <a>argibide gehiago</a>.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Aldi baterako, jatorrizko Errendimendua panela ere erabil dezakezu <a>{ options-context-advanced-settings }</a> bitartez)
-
 perftools-onboarding-close-button =
     .aria-label = Itxi aurkezpeneko mezua
 
@@ -128,19 +129,14 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Web garapena
 perftools-presets-web-developer-description = Web aplikazio gehienen arazketarako gomendatutako aurrezarpena, eragin negatibo txikiarekin.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = { -brand-shorter-name }(r)en profila egiteko gomendatutako aurrezarpena.
-
 perftools-presets-graphics-label = Grafikoak
 perftools-presets-graphics-description = { -brand-shorter-name }(r)en programa-errore grafikoak ikertzeko aurrezarpena.
-
 perftools-presets-media-label = Multimedia
 perftools-presets-media-description2 = { -brand-shorter-name }(r)en audio eta bideo programa-erroreak ikertzeko aurrezarpena.
-
 perftools-presets-networking-label = Sarea
 perftools-presets-networking-description = { -brand-shorter-name }(r)en sareko programa-erroreak ikertzeko aurrezarpena.
-
 perftools-presets-custom-label = Pertsonalizatua
 
 ##
