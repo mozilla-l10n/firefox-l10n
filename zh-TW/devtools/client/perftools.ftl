@@ -93,7 +93,7 @@ perftools-thread-jvm-gecko =
 perftools-thread-jvm-nimbus =
     .title = Nimbus 實驗 SDK 的主執行緒
 perftools-thread-jvm-glean =
-    .title = Nimbus telemetry SDK 的主執行緒
+    .title = Glean telemetry SDK 的主執行緒
 
 ##
 
