@@ -9,12 +9,14 @@ export-page-title = Exportálás
 
 import-start = Importálási eszköz
 import-start-title = Beállítások vagy adatok importálása alkalmazásból vagy fájlból.
+import-start-description = Válassza ki az importálás forrását. Később meg kell adnia, hogy mely adatokat kell importálni.
 import-from-app = Importálás alkalmazásból
 import-from-app-desc = Fiókok, címjegyzékek, naptárak és egyéb adatok importálása innen:
 import-address-book = Címjegyzékfájl importálása
 import-calendar = Naptárfájl importálása
 import-file = Importálás fájlból
 import-file-title = Válasszon egy fájlt a tartalmának importálásához.
+import-file-description = Válasszon egy korábban mentett importálandó profilt, címjegyzéket vagy naptárat.
 import-address-book-title = Címjegyzékfájl importálása
 import-calendar-title = Naptárfájl importálása
 export-profile = Exportálás
@@ -105,21 +107,41 @@ addr-book-file-picker = Címjegyzékfájl kiválasztása
 addr-book-csv-field-map-title = Mezőnevek összerendelése
 addr-book-csv-field-map-desc = Válassza ki a forrásmezőknek megfelelő címjegyzékmezőket. Kapcsolja ki azokat a mezőket, melyeket nem akar importálni.
 addr-book-directories-pane-title = Válassza ki az importálás célkönyvtárát:
+addr-book-directories-title = Válassza ki, hová szeretné importálni a kiválasztott adatokat
 addr-book-directories-pane-source = Forrásfájl:
 addr-book-import-into-new-directory = Új könyvtár létrehozása
 
 ## Import from address book file steps
 
+# $addressBookName (string) - name of the new address book that would be created.
+addr-book-import-into-new-directory2 = Új könyvtár létrehozása <strong>„{ $addressBookName }”</strong> néven
+# $addressBookName (string) - name of the address book to import into
+addr-book-summary-title = A kiválasztott adatok importálása a(z) „{ $addressBookName }” könyvtárba
+# $addressBookName (string) - name of the address book that will be created.
+addr-book-summary-description = Létrejön egy új, „{ $addressBookName }” névű címjegyzék.
 
 ## Import from calendar file steps
 
 import-from-calendar-file-desc = Válassza ki az importálandó iCalendar (.ics) fájlt.
+calendar-items-title = Válassza ki az importálandó elemeket.
 calendar-items-loading = Elemek betöltése…
 calendar-items-filter-input =
     .placeholder = Elemek szűrése…
 calendar-select-all-items = Összes kiválasztása
 calendar-deselect-all-items = Összes kiválasztásának megszüntetése
 calendar-import-into-new-calendar = Új naptár létrehozása
+calendar-target-title = Válassza ki, hová szeretné importálni a kiválasztott elemeket.
+# $targetCalendar (string) - name of the new calendar that would be created
+calendar-import-into-new-calendar2 = Új naptár létrehozása <strong>„{ $targetCalendar }”</strong> néven
+# $itemCount (number) - count of selected items (tasks, events) that will be imported
+# $targetCalendar (string) - name of the calendar the items will be imported into
+calendar-summary-title =
+    { $itemCount ->
+        [one] Egy elem importálása a(z) „{ $targetCalendar }” naptárba
+       *[other] { $itemCount } elem importálása a(z) „{ $targetCalendar }” naptárba
+    }
+# $targetCalendar (string) - name of the calendar that will be created
+calendar-summary-description = Létrejön egy új, „{ $targetCalendar }” névű naptár.
 
 ## Import dialog
 
@@ -127,12 +149,20 @@ progress-pane-importing = Importálás
 progress-pane-exporting = Exportálás
 progress-pane-finished-desc = Kész.
 progress-pane-restart-desc = Újraindítás az importálás befejezéséhez.
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-importing2 = Importálás… { $progressPercent }
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-exporting2 = Exportálás… { $progressPercent }
+progress-pane-finished-desc2 = Kész.
 error-pane-title = Hiba
 error-message-zip-file-too-big = A kiválasztott ZIP-fájl nagyobb, mint 2 GB. Először bontsa ki, majd importálja a kibontott mappából.
 error-message-extract-zip-file-failed = A ZIP-fájl kibontása sikertelen. Bontsa ki kézzel, majd importálja a kibontott mappából.
+error-message-zip-file-too-big2 = A kiválasztott ZIP-fájl nagyobb, mint 2 GB. Először bontsa ki, majd importálja a kibontott mappából.
+error-message-extract-zip-file-failed2 = A ZIP-fájl kibontása sikertelen. Bontsa ki kézzel, majd importálja a kibontott mappából.
 error-message-failed = Az importálás váratlanul meghiúsult, további információ lehet elérhető a Hibakonzolban.
 error-failed-to-parse-ics-file = Nem található importálható elem a fájlban.
 error-export-failed = Az exportálás váratlanul meghiúsult, további információ lehet elérhető a Hibakonzolban.
+error-message-no-profile = Nem található profil.
 
 ## <csv-field-map> element
 
@@ -146,12 +176,16 @@ csv-target-field = Címjegyzékmező
 
 export-profile-desc = Postafiókok, e-mail üzenetek, címjegyzékek, beállítások ZIP-fájlba exportálása. Ha szükséges, importálhatja a ZIP-fájlt a profil helyreállításához.
 export-profile-desc2 = Ha a jelenlegi profilja nagyobb, mint 2 GB, javasoljuk, hogy saját kezűleg készítsen biztonsági másolatot.
+export-profile-title = Fiókok, levelek, címjegyzékek, beállítások ZIP-fájlba exportálása.
+export-profile-description = Ha a jelenlegi profilja nagyobb, mint 2 GB, javasoljuk, hogy saját kezűleg készítsen biztonsági másolatot.
 export-open-profile-folder = Profilmappa megnyitása
 export-file-picker = Exportálás ZIP-fájlba
+export-file-picker2 = Exportálás ZIP-fájlba
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-title = Importálandó adatok
 summary-pane-start = Importálás indítása
 summary-pane-warning = Az importálás befejezése után újra kell indítani a { -brand-product-name }öt.
 summary-pane-start-over = Importálási eszköz újraindítása
