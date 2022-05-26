@@ -8,8 +8,10 @@
 
 # The field-separator is for screen readers to separate the field name from the field value.
 
+message-header-to-field = 給<span data-l10n-name="field-separator">:</span>
 message-header-sender-field = 寄件者<span data-l10n-name="field-separator">:</span>
 message-header-author-field = 作者<span data-l10n-name="field-separator">:</span>
+message-header-organization-field = 公司<span data-l10n-name="field-separator">:</span>
 message-header-reply-to-field = 回信到<span data-l10n-name="field-separator">:</span>
 message-header-subject-field = 主旨<span data-l10n-name="field-separator">:</span>
 message-header-tags-field = 標籤<span data-l10n-name="field-separator">:</span>

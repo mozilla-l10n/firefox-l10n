@@ -7,6 +7,7 @@
 
 vcard-entry-type-label = 類型
 vcard-entry-type-home = 住家
+vcard-entry-type-work = 商務
 vcard-entry-type-none = 無
 vcard-entry-type-custom = 自訂
 
