@@ -92,8 +92,14 @@ perftools-thread-jvm-gecko =
     .title = Gecko JVM 主執行緒
 perftools-thread-jvm-nimbus =
     .title = Nimbus 實驗 SDK 的主執行緒
+perftools-thread-jvm-default-dispatcher =
+    .title = Kotlin coroutines 程式庫的預設調度器
 perftools-thread-jvm-glean =
     .title = Glean telemetry SDK 的主執行緒
+perftools-thread-jvm-arch-disk-io =
+    .title = Kotlin coroutines 程式庫的 IO 調度器
+perftools-thread-jvm-pool =
+    .title = 建立於未命名的執行緒池的執行緒
 
 ##
 
