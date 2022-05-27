@@ -97,6 +97,10 @@ perftools-thread-task-controller =
     .title = Νήματα του TaskController pool
 perftools-thread-jvm-gecko =
     .title = Το κύριο νήμα Gecko JVM
+perftools-thread-jvm-nimbus =
+    .title = Τα κύρια νήματα για το SDK πειραμάτων Nimbus
+perftools-thread-jvm-glean =
+    .title = Τα κύρια νήματα για το SDK τηλεμετρίας Glean
 
 ##
 
