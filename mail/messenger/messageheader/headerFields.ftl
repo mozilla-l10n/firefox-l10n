@@ -11,6 +11,9 @@
 message-header-to-field = Προς<span data-l10n-name="field-separator">:</span>
 message-header-from-field = Από<span data-l10n-name="field-separator">:</span>
 message-header-sender-field = Αποστολέας<span data-l10n-name="field-separator">:</span>
+message-header-author-field = Συντάκτης<span data-l10n-name="field-separator">:</span>
+message-header-organization-field = Οργανισμός<span data-l10n-name="field-separator">:</span>
+message-header-reply-to-field = Απάντηση σε<span data-l10n-name="field-separator">:</span>
 message-header-subject-field = Θέμα<span data-l10n-name="field-separator">:</span>
 message-header-tags-field = Ετικέτες<span data-l10n-name="field-separator">:</span>
 message-header-date-field = Ημερομηνία<span data-l10n-name="field-separator">:</span>

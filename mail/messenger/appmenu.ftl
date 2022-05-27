@@ -6,3 +6,8 @@
 ## View / Layout
 
 appmenu-font-size-value = Μέγεθος γραμματοσειράς
+# Variables:
+# $size (String) - The current font size.
+appmenuitem-font-size-reset =
+    .label = { $size }px
+    .tooltiptext = Επαναφορά μεγέθους γραμματοσειράς
