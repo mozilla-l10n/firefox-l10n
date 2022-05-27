@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 rights-title = Маълумот дар бораи ҳуқуқҳои шумо
+rights-intro = { -brand-full-name } нармафзори ройгон ва дорои манбаи кушод мебошад, ки бо ҷамъияи ҳазорҳо барномасозон аз тамоми ҷаҳон сохта шудааст. Шумо бояд чизҳои зеринро донед:
 rights-webservices-header = Хидматҳои иттилоотии { -brand-full-name } дар асоси сомона
 rights-safebrowsing-term-1 = Кушодани хусусиятҳои барнома
 rights-safebrowsing-term-2 = Қисмати «Амният»-ро интихоб намоед
