@@ -133,6 +133,15 @@ calendar-import-into-new-calendar = Crear un nuevo calendario
 calendar-target-title = Seleccione dónde importar los elementos elegidos
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = Crear un nuevo calendario llamado <strong>"{ $targetCalendar }"</strong>
+# $itemCount (number) - count of selected items (tasks, events) that will be imported
+# $targetCalendar (string) - name of the calendar the items will be imported into
+calendar-summary-title =
+    { $itemCount ->
+        [one] Importar un elemento en el calendario "{ $targetCalendar }"
+       *[other] Importar { $itemCount } elementos en el calendario "{ $targetCalendar }"
+    }
+# $targetCalendar (string) - name of the calendar that will be created
+calendar-summary-description = Se creará un nuevo calendario llamado "{ $targetCalendar }".
 
 ## Import dialog
 
@@ -148,9 +157,12 @@ progress-pane-finished-desc2 = Completo.
 error-pane-title = Error
 error-message-zip-file-too-big = El archivo zip seleccionado tiene más de 2GB. Primero extráigalo y luego impórtelo de la carpeta extraída.
 error-message-extract-zip-file-failed = Falló la extracción del archivo zip. Extráigalo de forma manual y luego impórtelo de la carpeta extraída.
+error-message-zip-file-too-big2 = El archivo ZIP seleccionado tiene más de 2 GB. Primero extráigalo, luego impórtelo desde la carpeta extraída.
+error-message-extract-zip-file-failed2 = No se pudo extraer el archivo ZIP. Extráigalo manualmente, luego impórtelo desde la carpeta extraída.
 error-message-failed = La importación falló inesperadamente, puede haber más información disponible en la consola de errores.
 error-failed-to-parse-ics-file = No se encontraron elementos importables en el archivo.
 error-export-failed = La exportación falló inesperadamente, puede haber más información disponible en la consola de errores.
+error-message-no-profile = No se encontró ningún perfil.
 
 ## <csv-field-map> element
 
@@ -164,12 +176,23 @@ csv-target-field = Campo de la libreta de direcciones
 
 export-profile-desc = Exportar cuentas de correo, mensajes de correo, libretas de direcciones y configuraciones a un archivo zip. Cuando sea necesario, se puede importar el archivo zip para restaurar el perfil.
 export-profile-desc2 = Si su perfil actual tiene más de 2 GB, sugerimos que haga una copia de seguridad usted mismo.
+export-profile-title = Exportar cuentas, mensajes, libretas de direcciones y ajustes a un archivo ZIP.
+export-profile-description = Si su perfil actual es mayor de 2GB, le sugerimos que ustes mismo haga una copia de seguridad.
 export-open-profile-folder = Abrir carpeta de perfil
 export-file-picker = Exportar a un archivo zip
+export-file-picker2 = Exportar a un archivo ZIP
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-title = Datos a importar
+summary-pane-start = Iniciar importación
+summary-pane-warning = { -brand-product-name } deberá reiniciarse cuando se complete la importación.
+summary-pane-start-over = Reiniciar la herramienta de importación
 
 ## Footer area
 
+footer-help = ¿Necesita ayuda?
+footer-import-documentation = Importar documentación
+footer-export-documentation = Exportar documentación
+footer-support-forum = Foro de ayuda
