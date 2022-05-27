@@ -272,7 +272,7 @@ about-debugging-extension-backgroundscript =
 # background service worker) when the background script is currently running.
 about-debugging-extension-backgroundscript-status-running = Běží
 # Displayed for extension using a non-persistent background page when is currently stopped.
-about-debugging-extension-backgroundscript-status-stopped = Zastaveno
+about-debugging-extension-backgroundscript-status-stopped = Zastavený
 # This string is displayed as a label of the button that pushes a test payload
 # to a service worker.
 # Note this relates to the "Push" API, which is normally not localized so it is
