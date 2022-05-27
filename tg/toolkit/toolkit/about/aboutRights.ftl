@@ -15,3 +15,4 @@ rights-locationawarebrowsing-term-1 = Дар навори нишонии URL, <c
 rights-locationawarebrowsing-term-2 = geo.enabled-ро ворид кунед
 rights-locationawarebrowsing-term-3 = Ба хусусияти geo.enabled ду бор зер кунед
 rights-locationawarebrowsing-term-4 = Акнун имкони «Тамошокунӣ дар асоси ҷойгиршавӣ» ғайрифаъол аст
+rights-webservices-term-unbranded = Ҳамаи шартҳои хидматрасонии татбиқшаванда барои ин маҳсул бояд дар ин рӯйхат нишон дода шаванд.

@@ -251,12 +251,15 @@ webgl2-extensions = Васеъшавиҳои WebGL 2
 glcontext-crash-guard = OpenGL
 sandbox-proc-type-content = муҳтаво
 sandbox-proc-type-file = муҳтавои файл
+sandbox-proc-type-media-plugin = плагини расона
+sandbox-proc-type-data-decoder = рамзёбии иттилоот
 startup-cache-title = Зерҳофизаи оғози кор
 startup-cache-disk-cache-path = Масири зерҳофизаи диск
 startup-cache-ignore-disk-cache = Рад кардани зерҳофизаи диск
 startup-cache-found-disk-cache-on-init = Ҳангоми омодасозӣ зерҳофизаи диск пайдо шуд
 startup-cache-wrote-to-disk-cache = Ба зерҳофизаи диск сабт карда шуд
 launcher-process-status-0 = Фаъол аст
+launcher-process-status-2 = Маҷбуран ғайрифаъол карда шуд
 launcher-process-status-unknown = Вазъияти номаълум
 # Variables
 # $remoteWindows (integer) - Number of remote windows
