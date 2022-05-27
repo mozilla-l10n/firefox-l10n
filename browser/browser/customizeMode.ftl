@@ -4,8 +4,8 @@
 
 customize-mode-restore-defaults =
     .label = 기본값으로 복원
-customize-mode-menu-and-toolbars-header = 좋아하는 항목을 도구 모음이나 더보기 메뉴에 끌어서 놓으세요.
-customize-mode-overflow-list-title = 더보기 메뉴
+customize-mode-menu-and-toolbars-header = 좋아하는 항목을 도구 모음이나 도구 더보기 메뉴에 끌어서 놓으세요.
+customize-mode-overflow-list-title = 도구 더보기 메뉴
 customize-mode-uidensity =
     .label = 밀도
 customize-mode-done =
