@@ -92,6 +92,14 @@ perftools-thread-jvm-gecko =
     .title = La ĉefa fadeno JVM de Gecko
 perftools-thread-jvm-nimbus =
     .title = La ĉefaj fadenoj por la SKD de eksperimentoj Nimbus
+perftools-thread-jvm-default-dispatcher =
+    .title = La norma disdonilo por la biblioteko de kunprogramoj de Kotlin
+perftools-thread-jvm-glean =
+    .title = La ĉefaj fadenoj por la SDK de telemezuro de Glean
+perftools-thread-jvm-arch-disk-io =
+    .title = La disdonilo de eneligo por la biblioteko de kunprogramoj de Kotlin
+perftools-thread-jvm-pool =
+    .title = Fadenoj kreitaj en sennoma aro de fadenoj
 
 ##
 
