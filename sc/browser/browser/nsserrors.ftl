@@ -12,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Ddoe est istada una faddina durante una connessione a { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Còdighe de faddina: { $error }
-
 psmerr-ssl-disabled = Impossìbile connètere in manera segura ca su protocollu SSL est istadu disativadu.
 psmerr-ssl2-disabled = Impossìbile connètere in manera segura ca su situ impreat una versione betza e insegura de su protocollu SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     As retzidu unu tzertificadu non vàlidu. Cuntata s'amministratzione de su serbidore o s'indiritzu de posta eletrònica chi ddi currispondet e fruni·ddi is informatziones chi sighint:
     
     Su tzertificadu tuo cuntenet su pròpiu nùmeru de sèrie de un'àteru tzertificadu emìtidu dae s'autoridade de tzertificatzione. Procura·ti unu tzertificadu nou cun unu nùmeru de sèrie ùnicu.
-
 ssl-error-export-only-server = Impossìbile comunicare in manera segura. S'àtera parte no ammitet tzifradu de gradu artu.
 ssl-error-us-only-server = Impossìbile comunicare in manera segura. S'àtera parte rechedet unu tzifradu de gradu artu chi no est a disponimentu.
 ssl-error-no-cypher-overlap = Impossìbile comunicare in manera segura cun s'àtera parte: no ddoe at algoritmos comunos de tzifradu.
@@ -84,11 +80,13 @@ ssl-error-rx-unknown-handshake = SSL at retzidu unu messàgiu de istabilimentu d
 ssl-error-rx-unknown-alert = SSL at retzidu unu registru de alerta cun una descritzione de alerta disconnota.
 ssl-error-close-notify-alert = S'àtera parte de SSL at serradu custa connessione.
 ssl-error-handshake-unexpected-alert = S'àtera parte de SSL non fiat abetende su messàgiu de istabilimentu de connessione (handshake) chi at retzidu.
+ssl-error-handshake-failure-alert = S'àtera parte de SSL no est renèssida a cuntratare un'impare de paràmetros de seguridade.
 ssl-error-illegal-parameter-alert = S'àtera parte de SSL at refudadu unu messàgiu de istabilimentu de connessione (handshake) ca non faghiat a nd'atzetare su cuntenutu.
 ssl-error-unsupported-cert-alert = S'àtera parte de SSL no ammitet tzertificados de su tipu chi at retzidu.
 ssl-error-certificate-unknown-alert = S'àtera parte de SSL at tentu unu problema disconnotu cun su tzertificadu chi at retzidu.
 ssl-error-generate-random-failure = SSL at tentu unu problema cun su generadore suo de nùmeros casuales.
 ssl-error-sign-hashes-failure = Impossìbile pònnere una firma digitale a is datos pro averiguare su tzertificadu tuo.
+ssl-error-extract-public-key-failure = SSL no est renèssidu a nde bogare sa crae pùblica dae su tzertificadu de s'àtera parte.
 ssl-error-server-key-exchange-failure = Problema disconnotu in s'ìnteri de su protzessu de su messàgiu de istabilimentu de connessione (handshake) "SSL Server Key Exchange".
 ssl-error-client-key-exchange-failure = Problema disconnotu in s'ìnteri de su protzessu de su messàgiu de istabilimentu de connessione (handshake) "SSL Client Key Exchange".
 ssl-error-encryption-failure = S'algoritmu de tzifradu de datos de massa at fallidu in su pachete de tzifrados seberadu.
@@ -98,6 +96,7 @@ ssl-error-sha-digest-failure = S’esecutzione de sa funtzione SHA-1 digest est 
 ssl-error-mac-computation-failure = Faddina in su càrculu de su MAC.
 ssl-error-sym-key-context-failure = Faddina in sa creatzione de unu cuntestu de crae simmètrica.
 ssl-error-sym-key-unwrap-failure = Faddina in s'estratzione de sa crae simmètrica in su messàgiu de iscàmbiu de craes de su cliente.
+ssl-error-iv-param-failure = Su còdighe PKCS11 no est renèssidu a furriare unu IV in paràmetru.
 ssl-error-init-cipher-suite-failure = Faddina in s'aviu de su pachete de tzifrados seberadu.
 ssl-error-user-canceled-alert = S'utente de s'àtera parte at annulladu s'istabilimentu de connessione (handshake).
 sec-error-retry-password = New password entered incorrectly. Torra·bi a proare.
