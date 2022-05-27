@@ -107,21 +107,32 @@ addr-book-file-picker = Seleccione un archivo de libreta de direcciones
 addr-book-csv-field-map-title = Coincidir nombres de campo
 addr-book-csv-field-map-desc = Seleccione los campos de la libreta de direcciones correspondientes a los campos de origen. Desmarque los campos que no desea importar.
 addr-book-directories-pane-title = Seleccione el directorio al que desea importar:
+addr-book-directories-title = Seleccione dónde importar los datos elegidos
 addr-book-directories-pane-source = Archivo fuente:
 addr-book-import-into-new-directory = Crear nueva carpeta
 
 ## Import from address book file steps
 
+# $addressBookName (string) - name of the new address book that would be created.
+addr-book-import-into-new-directory2 = Cree un nuevo directorio llamado <strong>"{ $addressBookName }"</strong>
+# $addressBookName (string) - name of the address book to import into
+addr-book-summary-title = Importe los datos elegidos en el directorio "{ $addressBookName }"
+# $addressBookName (string) - name of the address book that will be created.
+addr-book-summary-description = Se creará una nueva libreta de direcciones llamada "{ $addressBookName }".
 
 ## Import from calendar file steps
 
 import-from-calendar-file-desc = Seleccione el archivo iCalendar (.ics) que quiere importar.
+calendar-items-title = Seleccionar que elementos importar:
 calendar-items-loading = Cargando elementos…
 calendar-items-filter-input =
     .placeholder = Filtrar elementos…
 calendar-select-all-items = Seleccionar todo
 calendar-deselect-all-items = Deseleccionar todo
 calendar-import-into-new-calendar = Crear un nuevo calendario
+calendar-target-title = Seleccione dónde importar los elementos elegidos
+# $targetCalendar (string) - name of the new calendar that would be created
+calendar-import-into-new-calendar2 = Crear un nuevo calendario llamado <strong>"{ $targetCalendar }"</strong>
 
 ## Import dialog
 
