@@ -31,6 +31,11 @@
 <!ENTITY contentEncodingError.title "Faddina de codìfica de su cuntenutu">
 
 <!ENTITY unsafeContentType.title "Genia de archìviu non segura">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+ <li>Informa s'amministratzione de su situ web de custu problema.</li>
+</ul>
+">
 
 <!ENTITY netReset.title "Connessione interrùmpida">
 
@@ -53,9 +58,12 @@
 
 
 
+<!ENTITY corruptedContentErrorv2.title "Faddina de cuntenutu corrùmpidu">
 
-
+<!ENTITY inadequateSecurityError.title "Sa connessione tua no est segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
+<!ENTITY blockedByPolicy.title "Pàgina blocada">
 
+<!ENTITY networkProtocolError.title "Faddina de su protocollu de rete">
