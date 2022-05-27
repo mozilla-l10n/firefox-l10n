@@ -16,6 +16,8 @@ import-address-book = Importa file della rubrica
 import-calendar = Importa file del calendario
 import-file = Importa da file
 import-file-title = Seleziona un file per importarne il contenuto.
+import-address-book-title = Importazione file della rubrica
+import-calendar-title = Importazione file del calendario
 export-profile = Esporta
 
 ## Buttons
