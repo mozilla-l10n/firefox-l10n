@@ -90,6 +90,8 @@ perftools-thread-task-controller =
     .title = Fadenoj de la grupo de fadenoj de TaskController
 perftools-thread-jvm-gecko =
     .title = La ĉefa fadeno JVM de Gecko
+perftools-thread-jvm-nimbus =
+    .title = La ĉefaj fadenoj por la SKD de eksperimentoj Nimbus
 
 ##
 
