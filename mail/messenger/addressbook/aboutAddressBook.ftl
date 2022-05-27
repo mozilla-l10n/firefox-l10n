@@ -74,10 +74,26 @@ about-addressbook-sort-email-descending =
 ## Each string is listed here twice, and the values should match.
 
 about-addressbook-column-header-generatedname = Nom
+about-addressbook-column-label-generatedname =
+    .label = { about-addressbook-column-header-generatedname }
+about-addressbook-column-label-emailaddresses =
+    .label = { about-addressbook-column-header-emailaddresses }
 about-addressbook-column-header-phonenumbers = Numéros de téléphone
+about-addressbook-column-label-phonenumbers =
+    .label = { about-addressbook-column-header-phonenumbers }
+about-addressbook-column-label-addresses =
+    .label = { about-addressbook-column-header-addresses }
 about-addressbook-column-header-title = Fonction
+about-addressbook-column-label-title =
+    .label = { about-addressbook-column-header-title }
 about-addressbook-column-header-department = Service
+about-addressbook-column-label-department =
+    .label = { about-addressbook-column-header-department }
 about-addressbook-column-header-organization = Société
+about-addressbook-column-label-organization =
+    .label = { about-addressbook-column-header-organization }
+about-addressbook-column-label-addrbook =
+    .label = { about-addressbook-column-header-addrbook }
 about-addressbook-cards-context-write =
     .label = Écrire
 about-addressbook-confirm-delete-mixed-title = Supprimer des contacts et des listes
