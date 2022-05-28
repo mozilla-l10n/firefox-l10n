@@ -24,7 +24,9 @@
 <!ENTITY originalWebsite.label "Webový server:">
 
 <!ENTITY editDraft.label                   "Upravit koncept…">
+<!ENTITY editDraft.accesskey               "k">
 <!ENTITY editTemplate.label                "Upravit šablonu…">
+<!ENTITY editTemplate.accesskey            "t">
 
 <!ENTITY attachmentsTree.label             "Přílohy:">
 <!ENTITY attachmentsTree.accesskey         "P">
