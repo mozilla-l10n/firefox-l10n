@@ -4,6 +4,7 @@
 
 e2e-intro-description = Abyste mohli odesílat zašifrované nebo elektronicky podepsané zprávy, musíte nastavit technologii šifrování, buď OpenPGP nebo S/MIME.
 e2e-intro-description-more = Chcete-li používat OpenPGP, vyberte svůj osobní klíč, chcete-li používat S/MIME, vyberte svůj osobní certifikát. Pro osobní klíč nebo certifikát vlastníte odpovídající tajný klíč.
+e2e-signing-description = Elektronický podpis umožňuje příjemcům ověřit, že jste zprávu poslali vy a že nebyl její obsah změněn. Šifrované zprávy jsou ve výchozím stavu vždy podepsané.
 e2e-advanced-section = Pokročilé nastavení
 e2e-attach-key =
     .label = Při odeslání digitálního podpisu OpenPGP připojit také veřejný klíč
@@ -44,6 +45,8 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = Rozšířené…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">POZNÁMKA: Vytváření klíče může trvat až několik minut.</a> Po tu dobu prosím aplikaci neukončujte. Proces se urychlí, když budete aktivně pracovat s prohlížečem nebo provádět operace s častým přístupem k pevnému disku. Až bude vytváření klíče dokončeno, budete upozorněni.
+openpgp-key-created-label =
+    .label = Vytvořeno
 openpgp-key-expiry-label =
     .label = Konec platnosti
 openpgp-key-id-label =
@@ -174,6 +177,8 @@ openpgp-key-man-reload =
 openpgp-key-man-change-expiry =
     .label = Změnit datum konce platnosti
     .accesskey = Z
+openpgp-key-man-ignored-ids =
+    .label = E-mailové adresy
 openpgp-key-man-del-key =
     .label = Smazat klíče
     .accesskey = S
@@ -221,13 +226,16 @@ openpgp-key-man-key-details-key =
     .key = I
 openpgp-key-details-title =
     .title = Vlastnosti klíče
+openpgp-key-details-doc-title = Vlastnosti klíče
 openpgp-key-details-signatures-tab =
     .label = Potvrzení
 openpgp-key-details-structure-tab =
     .label = Struktura
 openpgp-key-details-uid-certified-col =
     .label = ID uživatele / Potvrzeno od
+openpgp-key-details-key-id-label = ID klíče
 openpgp-key-details-user-id2-label = Údajný vlastník klíče
+openpgp-key-details-user-id3-label = Údajný vlastník klíče
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Typ
@@ -273,6 +281,21 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name } nemá osobní klíč OpenPGP pro <b>{ $identity }</b>
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } našel
+        [feminine] { -brand-short-name } našla
+        [neuter] { -brand-short-name } našlo
+       *[other] Aplikace { -brand-short-name } našla
+    } { $count ->
+        [one] jeden osobní klíč OpenPGP pro <b>{ $identity }</b>
+        [few] { $count } osobní klíče OpenPGP pro <b>{ $identity }</b>
+       *[other] { $count } osobních klíčů OpenPGP pro <b>{ $identity }</b>
+    }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Vaše současná konfigurace používá klíč s ID <b>{ $key }</b>
 #   $key (String) - the currently selected OpenPGP key
@@ -477,6 +500,8 @@ key-error-not-accepted-as-personal = Nepotvrdili jste, že je klíč s ID '{ $ke
 need-online = Vybraná funkce není dostupná v režimu offline. Přejděte prosím do režimu online a zkuste to znovu.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = Nenašli jsme žádný klíč odpovídající zadaným kritériím.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found2 = Nenašli jsme žádný použitelný klíč odpovídající zadaným kritériím.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Chyba: Extrahování klíče selhalo
 # Strings used in keyRing.jsm
