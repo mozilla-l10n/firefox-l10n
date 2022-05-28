@@ -4,6 +4,15 @@
 
 ## Window controls
 
+messenger-window-minimize-button =
+    .tooltiptext = Minimieren
+messenger-window-maximize-button =
+    .tooltiptext = Maximieren
+messenger-window-restore-down-button =
+    .tooltiptext = Verkleinern
+messenger-window-close-button =
+    .tooltiptext = Schließen
+
 # Variables:
 # $count (Number) - Number of unread messages.
 unread-messages-os-tooltip =
@@ -84,7 +93,17 @@ redirect-msg-menuitem =
     .label = Umleiten
     .accesskey = U
 
+menu-file-save-as-file =
+    .label = Datei…
+    .accesskey = D
+
 ## AppMenu
+
+appmenu-save-as-file =
+    .label = Datei…
+
+appmenu-settings =
+    .label = Einstellungen
 
 appmenu-addons-and-themes =
     .label = Add-ons und Themes
@@ -106,12 +125,49 @@ appmenu-redirect-msg =
 context-menu-redirect-msg =
     .label = Umleiten
 
+mail-context-delete-messages =
+  .label = { $count ->
+     [one] Nachricht löschen
+    *[other] Ausgewählte Nachrichten löschen
+  }
+
+context-menu-decrypt-to-folder =
+    .label = Entschlüsselt kopieren nach
+    .accesskey = E
+
 ## Message header pane
 
 other-action-redirect-msg =
     .label = Umleiten
 
+message-header-msg-flagged =
+    .title = Gekennzeichnet
+    .aria-label = Gekennzeichnet
+
+message-header-msg-not-flagged =
+    .title = Nicht gekennzeichnet
+    .aria-label = Nicht gekennzeichnet
+
 ## Message header cutomize panel
+
+message-header-customize-panel-title = Kopfzeilen - Einstellungen
+
+message-header-customize-button-style =
+    .value = Schaltflächendarstellung
+    .accesskey = S
+
+message-header-button-style-default =
+    .label = Symbole und Text
+
+message-header-button-style-text =
+    .label = Text
+
+message-header-button-style-icons =
+    .label = Symbole
+
+message-header-large-subject =
+    .label = Betreff in großer Schrift
+    .accesskey = B
 
 ## Action Button Context Menu
 
@@ -154,9 +210,126 @@ no-reply-reply-anyway-button = Trotzdem antworten
 
 ## error messages
 
+decrypt-and-copy-failures = { $failures } von { $total } Nachrichten konnten nicht entschlüsselt werden und wurden daher nicht kopiert.
+
 ## Spaces toolbar
+
+spaces-toolbar-element =
+    .toolbarname = Bereiche-Symbolleiste
+    .aria-label = Bereiche-Symbolleiste
+    .aria-description = Vertikale Symbolleiste zum Wechseln zwischen verschiedenen Bereichen der Anwendung. Verwenden Sie die Pfeiltasten, um zwischen den verfügbaren Schaltflächen zu wechseln.
+
+spaces-toolbar-button-mail2 =
+    .title = E-Mail
+
+spaces-toolbar-button-address-book2 =
+    .title = Adressbuch
+
+spaces-toolbar-button-calendar2 =
+    .title = Kalender
+
+spaces-toolbar-button-tasks2 =
+    .title = Aufgaben
+
+spaces-toolbar-button-chat2 =
+    .title = Chat
+
+spaces-toolbar-button-overflow =
+    .title = Weitere Bereiche…
+
+spaces-toolbar-button-settings2 =
+    .title = Einstellungen
+
+spaces-toolbar-button-hide =
+    .title = Bereiche-Symbolleiste ausblenden
+
+spaces-toolbar-button-show =
+    .title = Bereiche-Symbolleiste anzeigen
+
+spaces-context-new-tab-item =
+    .label = In neuem Tab öffnen
+
+spaces-context-new-window-item =
+    .label = In neuem Fenster öffnen
+
+# Variables:
+# $tabName (String) - The name of the tab this item will switch to.
+spaces-context-switch-tab-item =
+    .label = Wechseln zu { $tabName }
+
+settings-context-open-settings-item =
+    .label = Einstellungen öffnen
+
+settings-context-open-account-settings-item =
+    .label = Konten-Einstellungen öffnen
+
+settings-context-open-addons-item =
+    .label = Add-ons und Themes öffnen
+
+settings-context-open-settings-item2 =
+    .label = Einstellungen
+
+settings-context-open-account-settings-item2 =
+    .label = Konten-Einstellungen
+
+settings-context-open-addons-item2 =
+    .label = Add-ons und Themes
 
 ## Spaces toolbar pinned tab menupopup
 
+spaces-toolbar-pinned-tab-button =
+    .tooltiptext = Bereiche-Menü
+
+spaces-pinned-button-menuitem-mail =
+    .label = { spaces-toolbar-button-mail2.title }
+
+spaces-pinned-button-menuitem-address-book =
+    .label = { spaces-toolbar-button-address-book2.title }
+
+spaces-pinned-button-menuitem-calendar =
+    .label = { spaces-toolbar-button-calendar2.title }
+
+spaces-pinned-button-menuitem-tasks =
+    .label = { spaces-toolbar-button-tasks2.title }
+
+spaces-pinned-button-menuitem-chat =
+    .label = { spaces-toolbar-button-chat2.title }
+
+spaces-pinned-button-menuitem-settings =
+    .label = { spaces-toolbar-button-settings2.title }
+
+spaces-pinned-button-menuitem-show =
+    .label = { spaces-toolbar-button-show.title }
+
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title = { $count ->
+        [one] Eine ungelesene Nachricht
+        *[other] { $count } ungelesene Nachrichten
+    }
+
 ## Spaces toolbar customize panel
 
+menuitem-customize-label =
+    .label = Anpassen…
+
+spaces-customize-panel-title = Bereiche-Symbolleiste - Einstellungen
+
+spaces-customize-background-color = Hintergrundfarbe
+
+spaces-customize-icon-color = Schaltflächenfarbe
+
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Hintergrundfarbe für ausgewählte Schaltfläche
+
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Farbe für ausgewählte Schaltfläche
+
+spaces-customize-button-restore = Standard wiederherstellen
+    .accesskey = w
+
+customize-panel-button-save = Fertig
+    .accesskey = F
