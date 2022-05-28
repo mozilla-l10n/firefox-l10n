@@ -16,6 +16,8 @@ about-addressbook-toolbar-new-contact =
   .label = Neuer Kontakt
 about-addressbook-toolbar-new-list =
   .label = Neue Verteilerliste
+about-addressbook-toolbar-import =
+  .label = Importieren
 
 ## Books
 
@@ -27,11 +29,14 @@ about-addressbook-books-context-synchronize =
   .label = Synchronisieren
 about-addressbook-books-context-print =
   .label = Drucken…
+about-addressbook-books-context-export =
+  .label = Exportieren…
 about-addressbook-books-context-delete =
   .label = Löschen
-
 about-addressbook-books-context-remove =
   .label = Entfernen
+about-addressbook-books-context-startup-default =
+  .label = Standardadressbuch beim Start
 
 about-addressbook-confirm-delete-book-title = Adressbuch löschen
 # Variables:
@@ -71,6 +76,42 @@ about-addressbook-sort-email-ascending =
   .label = Nach E-Mail-Adresse (A > Z) sortieren
 about-addressbook-sort-email-descending =
   .label = Nach E-Mail-Adresse (Z > A) sortieren
+
+about-addressbook-horizontal-layout =
+  .label = Horizontale Darstellung verwenden
+about-addressbook-vertical-layout =
+  .label = Vertikale Darstellung verwenden
+
+## Card column headers
+## Each string is listed here twice, and the values should match.
+
+about-addressbook-column-header-generatedname = Name
+about-addressbook-column-label-generatedname =
+  .label = { about-addressbook-column-header-generatedname }
+about-addressbook-column-header-emailaddresses = E-Mail-Adressen
+about-addressbook-column-label-emailaddresses =
+  .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-phonenumbers = Telefonnummern
+about-addressbook-column-label-phonenumbers =
+  .label = { about-addressbook-column-header-phonenumbers }
+about-addressbook-column-header-addresses = Adressen
+about-addressbook-column-label-addresses =
+  .label = { about-addressbook-column-header-addresses }
+about-addressbook-column-header-title = Titel
+about-addressbook-column-label-title =
+  .label = { about-addressbook-column-header-title }
+about-addressbook-column-header-department = Abteilung
+about-addressbook-column-label-department =
+  .label = { about-addressbook-column-header-department }
+about-addressbook-column-header-organization = Organisation
+about-addressbook-column-label-organization =
+  .label = { about-addressbook-column-header-organization }
+about-addressbook-column-header-addrbook = Adressbuch
+about-addressbook-column-label-addrbook =
+  .label = { about-addressbook-column-header-addrbook }
+
+about-addressbook-cards-context-write =
+  .label = Nachricht verfassen
 
 about-addressbook-confirm-delete-mixed-title = Kontakte und Verteilerlisten löschen
 # Variables:
@@ -126,15 +167,50 @@ about-addressbook-confirm-delete-contacts =
 
 ## Details
 
+about-addressbook-write-action-button = Nachricht
+about-addressbook-event-action-button = Termin
+about-addressbook-search-action-button = Suchen
+
 about-addressbook-begin-edit-contact-button = Bearbeiten
+about-addressbook-delete-edit-contact-button = Löschen
 about-addressbook-cancel-edit-contact-button = Abbrechen
 about-addressbook-save-edit-contact-button = Speichern
+
+about-addressbook-add-contact-to = Hinzufügen zu:
 
 about-addressbook-details-email-addresses-header = E-Mail-Adressen
 about-addressbook-details-phone-numbers-header = Telefonnummern
 about-addressbook-details-home-address-header = Privatadresse
 about-addressbook-details-work-address-header = Dienstadresse
+about-addressbook-details-addresses-header = Adressen
+about-addressbook-details-notes-header = Notizen
 about-addressbook-details-other-info-header = Weitere Informationen
+
+about-addressbook-entry-type-work = Dienstlich
+about-addressbook-entry-type-home = Privat
+about-addressbook-entry-type-fax = Fax
+about-addressbook-entry-type-cell = Mobil
+about-addressbook-entry-type-pager = Pager
+
+about-addressbook-entry-name-birthday = Geburtstag
+about-addressbook-entry-name-anniversary = Jubiläum
+about-addressbook-entry-name-title = Titel
+about-addressbook-entry-name-role = Position
+about-addressbook-entry-name-department = Abteilung
+about-addressbook-entry-name-organization = Organisation
+about-addressbook-entry-name-website = Website
+about-addressbook-entry-name-time-zone = Zeitzone
+
+about-addressbook-unsaved-changes-prompt-title = Nicht gespeicherte Änderungen
+about-addressbook-unsaved-changes-prompt = Sollen die Änderungen vor dem Schließen der Bearbeitung gespeichert werden?
 
 # Photo dialog
 
+about-addressbook-photo-drop-target = Foto hierher ziehen, einfügen oder anklicken, um Datei auszuwählen.
+about-addressbook-photo-drop-loading = Foto wird geladen…
+about-addressbook-photo-drop-error = Fehler beim Laden des Fotos
+about-addressbook-photo-filepicker-title = Bilddatei auswählen
+
+about-addressbook-photo-discard = Bestehendes Foto verwerfen
+about-addressbook-photo-cancel = Abbrechen
+about-addressbook-photo-save = Speichern
