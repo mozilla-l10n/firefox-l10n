@@ -98,6 +98,7 @@ about-addressbook-column-label-department =
 about-addressbook-column-header-organization = Společnost
 about-addressbook-column-label-organization =
     .label = { about-addressbook-column-header-organization }
+about-addressbook-column-header-addrbook = Kontakty
 about-addressbook-column-label-addrbook =
     .label = { about-addressbook-column-header-addrbook }
 about-addressbook-cards-context-write =
@@ -193,7 +194,7 @@ about-addressbook-entry-name-role = Pozice
 about-addressbook-entry-name-department = Oddělení
 about-addressbook-entry-name-organization = Společnost
 about-addressbook-entry-name-website = Webové stránky
-about-addressbook-entry-name-time-zone = Časová zóna
+about-addressbook-entry-name-time-zone = Časové pásmo
 about-addressbook-unsaved-changes-prompt-title = Neuložené změny
 about-addressbook-unsaved-changes-prompt = Chcete před opuštěním režimu úprav uložit provedené změny?
 
