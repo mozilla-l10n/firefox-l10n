@@ -4,6 +4,11 @@
 
 rights-title = Маълумот дар бораи ҳуқуқҳои шумо
 rights-intro = { -brand-full-name } нармафзори ройгон ва дорои манбаи кушод мебошад, ки бо ҷамъияи ҳазорҳо барномасозон аз тамоми ҷаҳон сохта шудааст. Шумо бояд чизҳои зеринро донед:
+rights-intro-point-1 =
+    { -brand-short-name } тибқи шартҳои <a data-l10n-name="mozilla-public-license-link">Иҷозатномаи ҷамъиятии Mozilla</a> ба шумо дастрас шудааст.
+    Ин маънои онро дорад, ки шумо метавонед «{ -brand-short-name }»-ро истифода баред, нусха бардоред ва ба дигарон паҳн кунед. Шумо инчунин метавонед рамзи манбаи { -brand-short-name }-ро ба таври дилхоҳ тағйир диҳед. Иҷозатномаи ҷамъиятии Mozilla
+    инчунин ба шумо барои паҳн кардани версияҳои тағйирёфта ҳуқуқ медиҳад.
+rights-intro-point-4-unbranded = Ҳамаи сиёсатҳои махфияти татбиқшаванда барои ин маҳсул бояд дар ин рӯйхат нишон дода шаванд.
 rights-webservices-header = Хидматҳои иттилоотии { -brand-full-name } дар асоси сомона
 rights-safebrowsing-term-1 = Кушодани хусусиятҳои барнома
 rights-safebrowsing-term-2 = Қисмати «Амният»-ро интихоб намоед
@@ -16,3 +21,6 @@ rights-locationawarebrowsing-term-2 = geo.enabled-ро ворид кунед
 rights-locationawarebrowsing-term-3 = Ба хусусияти geo.enabled ду бор зер кунед
 rights-locationawarebrowsing-term-4 = Акнун имкони «Тамошокунӣ дар асоси ҷойгиршавӣ» ғайрифаъол аст
 rights-webservices-term-unbranded = Ҳамаи шартҳои хидматрасонии татбиқшаванда барои ин маҳсул бояд дар ин рӯйхат нишон дода шаванд.
+rights-webservices-term-2 =
+    { -vendor-short-name } метавонад кори «Хизматрасониҳоро» ба ихтиёри худ
+    қатъ ё иваз кунад.
