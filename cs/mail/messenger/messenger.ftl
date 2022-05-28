@@ -271,6 +271,8 @@ chat-button-unread-messages = { $count }
 
 ## Spaces toolbar customize panel
 
+menuitem-customize-label =
+    .label = Přizpůsobit…
 spaces-customize-panel-title = Nastavení navigační lišty
 spaces-customize-background-color = Barva pozadí
 spaces-customize-icon-color = Barva tlačítek

@@ -20,7 +20,7 @@
 <!ENTITY referencesField4.label "Reference">
 <!ENTITY messageIdField4.label "Id zprávy">
 <!ENTITY inReplyToField4.label "V odpovědi na">
-<!ENTITY originalWebsite4.label "Server">
+<!ENTITY originalWebsite4.label "Webová stránka">
 
 <!ENTITY hdrArchiveButton1.label "Archivovat">
 <!ENTITY hdrArchiveButton1.tooltip "Archivuje tuto zprávu">
