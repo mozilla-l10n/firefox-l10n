@@ -5,6 +5,12 @@
 
 ## Send Format
 
+compose-send-format-menu =
+    .label = Formát odesílání
+    .accesskey = F
+compose-send-auto-menu-item =
+    .label = Automaticky
+    .accesskey = A
 compose-send-both-menu-item =
     .label = HTML a prostý text
     .accesskey = a
@@ -147,6 +153,9 @@ encryption-options-openpgp =
 encryption-options-smime =
     .label = S/MIME
     .tooltiptext = Nastavení šifrování S/MIME
+signing-toggle =
+    .label = Podepsat
+    .tooltiptext = Připojit k této zprávě elektronický podpis
 menu-openpgp =
     .label = OpenPGP
     .accesskey = O
@@ -165,6 +174,34 @@ menu-sign =
 menu-manage-keys =
     .label = Asistent pro správu klíčů
     .accesskey = A
+menu-view-certificates =
+    .label = Zobrazit certifikáty příjemců
+    .accesskey = c
+menu-open-key-manager =
+    .label = Správce klíčů
+    .accesskey = k
+openpgp-key-issue-notification-one = Pro použití koncového šifrování nejprve odstraňte chyby klíče pro { $addr }
+openpgp-key-issue-notification-many =
+    { $count ->
+        [one] Pro použití koncového šifrování nejprve odstraňte chyby klíče pro jednoho příjemce.
+        [few] Pro použití koncového šifrování nejprve odstraňte chyby klíčů pro { $count } příjemce.
+       *[other] Pro použití koncového šifrování nejprve odstraňte chyby klíčů pro { $count } příjemců.
+    }
+smime-cert-issue-notification-one = Pro použití koncového šifrování nejprve odstraňte chyby certifikátu pro { $addr }
+smime-cert-issue-notification-many =
+    { $count ->
+        [one] Pro použití koncového šifrování nejprve odstraňte chyby certifikátu pro jednoho příjemce.
+        [few] Pro použití koncového šifrování nejprve odstraňte chyby certifikátů pro { $count } příjemce.
+       *[other] Pro použití koncového šifrování nejprve odstraňte chyby certifikátů pro { $count } příjemců.
+    }
+key-notification-disable-encryption =
+    .label = Nešifrovat
+    .accesskey = N
+    .tooltiptext = Vypne koncové šifrování
+key-notification-resolve =
+    .label = Vyřešit…
+    .accesskey = y
+    .tooltiptext = Otevře asistenta klíčů OpenPGP
 
 ## Addressing Area
 
@@ -257,9 +294,19 @@ compose-tool-button-remove-text-styling =
 
 ## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Nahráno do neznámého účtu úložiště.
 
 # Placeholder file
 
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } - soubor poslaný přes úložiště
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = Soubor { $filename } byl poslán přes úložiště. Stáhnout ho můžete z odkazu níže.
 
 # Template
 
@@ -286,6 +333,14 @@ cloud-file-service-provider-footer-single = Zjistit více o službě { $link }.
 cloud-file-service-provider-footer-multiple = Další informace o službách { $firstLinks } a { $lastLink }.
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Odkaz chráněný heslem
+# Used in a list of stats about a specific file
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
+# Size - the size of the file (Size: 4.2 MB)
+# Link - the link to the file (Link: https://some.provider.com)
+# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
+# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
+#                  (Download Limit: 6)
+cloud-file-template-service-name = Posílání souborů přes úložiště:
 cloud-file-template-size = Velikost:
 cloud-file-template-link = Odkaz:
 cloud-file-template-password-protected-link = Odkaz chráněný heslem:
@@ -309,9 +364,23 @@ cloud-file-rename-error = Vyskytl se problém s přejmenováním souboru { $file
 cloud-file-rename-error-with-custom-message-title = Přejmenování souboru { $filename } se ve službě { $provider } nezdařilo
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } nepodporuje přejmenování již nahraných souborů.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Chyba posílání souborů přes úložiště
+cloud-file-attachment-error = Nepodařilo se aktualizovat soubor { $filename } posílaný přes úložiště, protože byla jeho místní kopie přesunuta nebo smazána.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Chyba účtu úložiště
+cloud-file-account-error = Nepodařilo se aktualizovat soubor { $filename } posílaný přes úložiště, protože byl účet úložiště smazán.
 
 ## Link Preview
 
+link-preview-title = Náhled odkazu
+link-preview-description = { -brand-short-name } může k odkazům vkládaným do zprávy přidat náhled.
+link-preview-autoadd = Automaticky přidávat náhledy odkazů, pokud je to možné
+link-preview-replace-now = Chcete přidat náhled tohoto odkazu?
+link-preview-yes-replace = Ano
 
 ## Dictionary selection popup
 
+spell-add-dictionaries =
+    .label = Přidat slovník…
+    .accesskey = a
