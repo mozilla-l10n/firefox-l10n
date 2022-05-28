@@ -43,13 +43,10 @@
 <!ENTITY event.attendees.disallowcounter.tooltip     "Indikuje, že nepřijímáte protinávrhy">
 
 <!-- Keyboard Shortcuts -->
-<!ENTITY event.dialog.new.event.key2              "I">
-<!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
 <!ENTITY event.dialog.save.key                    "S">
 <!ENTITY event.dialog.saveandclose.key            "L">
-<!ENTITY event.dialog.print.key                   "P">
 <!ENTITY event.dialog.undo.key                    "Z">
 <!ENTITY event.dialog.redo.key                    "Y">
 <!ENTITY event.dialog.cut.key                     "X">
@@ -91,10 +88,6 @@
 
 <!ENTITY  event.menu.item.delete.label                    "Smazat…">
 <!ENTITY  event.menu.item.delete.accesskey                "m">
-<!ENTITY  event.menu.item.page.setup.label                "Vzhled stránky…">
-<!ENTITY  event.menu.item.page.setup.accesskey            "V">
-<!ENTITY  event.menu.item.print.label                     "Tisk…">
-<!ENTITY  event.menu.item.print.accesskey                 "T">
 
 <!ENTITY  event.menu.edit.label                           "Úpravy">
 <!ENTITY  event.menu.edit.accesskey                       "a">
@@ -119,14 +112,12 @@
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "u">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Přizpůsobit…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "z">
-<!ENTITY  event.menu.view.showlink.label                  "Zobrazit související odkazy">
-<!ENTITY  event.menu.view.showlink.accesskey              "s">
 
 <!ENTITY  event.menu.options.label                            "Možnosti">
 <!ENTITY  event.menu.options.accesskey                        "M">
 <!ENTITY  event.menu.options.attendees.label                  "Pozvat účastníky…">
 <!ENTITY  event.menu.options.attendees.accesskey              "P">
-<!ENTITY  event.menu.options.timezone2.label                  "Zobrazit časové zóny">
+<!ENTITY  event.menu.options.timezone2.label                  "Zobrazit časová pásma">
 <!ENTITY  event.menu.options.timezone2.accesskey              "Z">
 <!ENTITY  event.menu.options.priority2.label                  "Priorita">
 <!ENTITY  event.menu.options.priority2.accesskey              "r">
@@ -392,8 +383,8 @@
 <!ENTITY event.attendee.usertype.unknown        "Neznámý">
 
 <!-- Timezone dialog -->
-<!ENTITY timezone.title.label            "Vyberte prosím časovou zónu">
-<!ENTITY event.timezone.custom.label     "Více časových zón…">
+<!ENTITY timezone.title.label            "Vyberte prosím časové pásmo">
+<!ENTITY event.timezone.custom.label     "Více časových pásem…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Obecné">
