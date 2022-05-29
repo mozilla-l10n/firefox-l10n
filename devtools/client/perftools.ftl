@@ -99,8 +99,12 @@ perftools-thread-jvm-gecko =
     .title = Den huvudsakliga Gecko JVM-tråden
 perftools-thread-jvm-nimbus =
     .title = Huvudtrådarna för Nimbus experiment SDK
+perftools-thread-jvm-default-dispatcher =
+    .title = Standardavsändaren för Kotlin coroutines-biblioteket
 perftools-thread-jvm-glean =
     .title = Huvudtrådarna för Glean telemetri SDK
+perftools-thread-jvm-arch-disk-io =
+    .title = IO-avsändaren för Kotlin coroutines-biblioteket
 perftools-thread-jvm-pool =
     .title = Trådar skapade i en icke namngiven trådpool
 
