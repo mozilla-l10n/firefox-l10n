@@ -21,6 +21,7 @@ perftools-heading-features-default = Funktioner (rekommenderas som standard)
 perftools-heading-features-disabled = Inaktiverade Funktioner
 perftools-heading-features-experimental = Experimentell
 perftools-heading-threads = Trådar
+perftools-heading-threads-jvm = JVM trådar
 perftools-heading-local-build = Lokalt bygge
 
 ##
@@ -42,9 +43,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Buffertstorlek:
-
 perftools-custom-threads-label = Lägg till anpassade trådar efter namn:
-
 perftools-devtools-interval-label = Intervall:
 perftools-devtools-threads-label = Trådar:
 perftools-devtools-settings-label = Inställningar
@@ -96,11 +95,18 @@ perftools-thread-dns-resolver =
     .title = DNS-upplösning sker på den här tråden
 perftools-thread-task-controller =
     .title = TaskController trådpoolstrådar
+perftools-thread-jvm-gecko =
+    .title = Den huvudsakliga Gecko JVM-tråden
+perftools-thread-jvm-nimbus =
+    .title = Huvudtrådarna för Nimbus experiment SDK
+perftools-thread-jvm-glean =
+    .title = Huvudtrådarna för Glean telemetri SDK
+perftools-thread-jvm-pool =
+    .title = Trådar skapade i en icke namngiven trådpool
 
 ##
 
 perftools-record-all-registered-threads = Gå förbi val ovan och spela in alla registrerade trådar
-
 perftools-tools-threads-input-label =
     .title = Dessa trådnamn är en kommaseparerad lista som används för att möjliggöra profilering av trådarna i profileraren. Namnet behöver bara vara en partiell matchning av trådnamnet som ska inkluderas. Den är känslig för mellanslag.
 
@@ -108,14 +114,13 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Nytt</b>: { -profiler-brand-name } är nu integrerad i utvecklarverktyg. <a>Läs mer</a> om det här kraftfulla nya verktyget.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Under en begränsad tid kan du komma åt den ursprungliga Prestanda-panelen via <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Stäng meddelandet
 
@@ -128,19 +133,14 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Webbutvecklare
 perftools-presets-web-developer-description = Rekommenderad förinställning för de flesta webbappfelsökningar, med lite pålägg.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Rekommenderad förinställning för profilering av { -brand-shorter-name }.
-
 perftools-presets-graphics-label = Grafik
 perftools-presets-graphics-description = Förinställd för att undersöka grafikbuggar i { -brand-shorter-name }.
-
 perftools-presets-media-label = Media
 perftools-presets-media-description2 = Förinställd för att undersöka ljud- och videobuggar i { -brand-shorter-name }.
-
 perftools-presets-networking-label = Nätverk
 perftools-presets-networking-description = Förinställd för att undersöka ljud- och videobuggar i { -brand-shorter-name }.
-
 perftools-presets-custom-label = Anpassad
 
 ##
