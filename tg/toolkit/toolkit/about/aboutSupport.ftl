@@ -283,6 +283,7 @@ startup-cache-ignore-disk-cache = Рад кардани зерҳофизаи д�
 startup-cache-found-disk-cache-on-init = Ҳангоми омодасозӣ зерҳофизаи диск пайдо шуд
 startup-cache-wrote-to-disk-cache = Ба зерҳофизаи диск сабт карда шуд
 launcher-process-status-0 = Фаъол аст
+launcher-process-status-1 = Ба сабаби нокомӣ ғайрифаъол шуд
 launcher-process-status-2 = Маҷбуран ғайрифаъол карда шуд
 launcher-process-status-unknown = Вазъияти номаълум
 # Variables
@@ -321,12 +322,16 @@ policies-error = Хато
 
 support-printing-title = Чопкунӣ
 support-printing-troubleshoot = Ҷустуҷӯ ва ислоҳи нуқсонҳо
+support-printing-clear-settings-button = Пок кардани танзимоти чопи нигоҳдошташуда
+support-printing-modified-settings = Танзимоти тағйирёфтаи чоп
 support-printing-prefs-name = Ном
 support-printing-prefs-value = Қимат
 
 ## Normandy sections
 
+support-remote-experiments-title = Озмоишҳои дурдаст
 support-remote-experiments-name = Ном
+support-remote-experiments-branch = Соҳаи озмоиш
 support-remote-features-title = Хусусиятҳои дурдаст
 support-remote-features-name = Ном
 support-remote-features-status = Вазъият
