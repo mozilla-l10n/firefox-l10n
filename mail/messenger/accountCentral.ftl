@@ -45,6 +45,7 @@ newsgroups-label = Newsgruppe
 newsgroups-description = { -brand-short-name } ermöglicht das Verbinden mit Newsgruppen.
 
 import-title = Aus anderem Programm importieren
+import-paragraph2 = { -brand-short-name } unterstützt den Import von E-Mail-Nachrichten, Adressbucheinträgen, Feed-Abonnements, Einstellungen und/oder Nachrichtenfiltern aus anderen E-Mail-Programmen und weit verbreiteten Adressbuchformaten.
 
 import-label = Importieren
     .aria-label = Daten aus anderem Programm importieren

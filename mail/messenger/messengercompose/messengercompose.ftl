@@ -293,7 +293,7 @@ show-bcc-row-extra-menuitem =
     .accesskey = B
 
 #   $key (String) - the shortcut key for this field
-show-bcc-row-button = BCC
+show-bcc-row-button = Blindkopie (BCC)
     .title = "Blindkopie (BCC)"-Feld anzeigen ({ ctrl-cmd-shift-pretty-prefix }{ $key })
 
 extra-address-rows-menu-button =
