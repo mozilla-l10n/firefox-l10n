@@ -67,7 +67,7 @@ menuitem-font-size-reduce =
 
 menuitem-font-size-reset =
     .label = Zurücksetzen
-    .accesskey = z
+    .accesskey = Z
 
 mail-uidensity-label =
     .label = Dichte
@@ -93,4 +93,4 @@ menu-spaces-toolbar-button =
 
 file-new-newsgroup-account =
     .label = Newsgruppen-Konto…
-    .accesskey = N
+    .accesskey = g
