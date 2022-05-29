@@ -105,6 +105,8 @@ perftools-thread-jvm-glean =
     .title = Los subprocesos principales del SDK de telemetría de Glean
 perftools-thread-jvm-arch-disk-io =
     .title = El dispatcher IO para la librería de rutinas de Kotlin
+perftools-thread-jvm-pool =
+    .title = Subprocesos creados en un grupo de subprocesos sin nombre
 
 ##
 
