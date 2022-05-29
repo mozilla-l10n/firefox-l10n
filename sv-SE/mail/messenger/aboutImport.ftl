@@ -3,14 +3,22 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 import-page-title = Importera
+export-page-title = Exportera
 
 ## Header
 
 import-start = Importverktyg
+import-start-title = Importera inställningar eller data från ett program eller en fil.
+import-start-description = Välj den källa som du vill importera från. Du kommer senare att bli ombedd att välja vilken data som ska importeras.
 import-from-app = Importera från applikation
 import-from-app-desc = Välj att importera konton, adressböcker, kalendrar och annan data från:
 import-address-book = Importera adressboksfil
 import-calendar = Importera kalenderfil
+import-file = Importera från en fil
+import-file-title = Välj en fil för att importera dess innehåll.
+import-file-description = Välj att importera en tidigare säkerhetskopierad profil, adressböcker eller kalendrar.
+import-address-book-title = Importera adressboksfil
+import-calendar-title = Importera kalenderfil
 export-profile = Exportera
 
 ## Buttons
@@ -19,6 +27,7 @@ button-cancel = Avbryt
 button-back = Tillbaka
 button-continue = Fortsätt
 button-export = Exportera
+button-finish = Slutför
 
 ## Import from app steps
 
