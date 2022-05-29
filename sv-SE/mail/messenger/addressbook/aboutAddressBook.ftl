@@ -69,6 +69,38 @@ about-addressbook-sort-email-ascending =
     .label = Sortera efter e-postadress (A > Ö)
 about-addressbook-sort-email-descending =
     .label = Sortera efter e-postadress (Ö > A)
+about-addressbook-horizontal-layout =
+    .label = Växla till horisontell layout
+about-addressbook-vertical-layout =
+    .label = Växla till vertikal layout
+
+## Card column headers
+## Each string is listed here twice, and the values should match.
+
+about-addressbook-column-header-generatedname = Namn
+about-addressbook-column-label-generatedname =
+    .label = { about-addressbook-column-header-generatedname }
+about-addressbook-column-header-emailaddresses = E-postadresser
+about-addressbook-column-label-emailaddresses =
+    .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-phonenumbers = Telefonnummer
+about-addressbook-column-label-phonenumbers =
+    .label = { about-addressbook-column-header-phonenumbers }
+about-addressbook-column-header-addresses = Adresser
+about-addressbook-column-label-addresses =
+    .label = { about-addressbook-column-header-addresses }
+about-addressbook-column-header-title = Titel
+about-addressbook-column-label-title =
+    .label = { about-addressbook-column-header-title }
+about-addressbook-column-header-department = Avdelning
+about-addressbook-column-label-department =
+    .label = { about-addressbook-column-header-department }
+about-addressbook-column-header-organization = Organisation
+about-addressbook-column-label-organization =
+    .label = { about-addressbook-column-header-organization }
+about-addressbook-column-header-addrbook = Adressbok
+about-addressbook-column-label-addrbook =
+    .label = { about-addressbook-column-header-addrbook }
 about-addressbook-cards-context-write =
     .label = Skriv meddelande
 about-addressbook-confirm-delete-mixed-title = Ta bort kontakter och listor
@@ -147,6 +179,7 @@ about-addressbook-entry-type-pager = Personsökare
 about-addressbook-entry-name-birthday = Födelsedag
 about-addressbook-entry-name-anniversary = Årsdag
 about-addressbook-entry-name-title = Titel
+about-addressbook-entry-name-role = Roll
 about-addressbook-entry-name-department = Avdelning
 about-addressbook-entry-name-organization = Organisation
 about-addressbook-entry-name-website = Webbplats
