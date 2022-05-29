@@ -3,12 +3,17 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Fieldsets
+# Type selection
 
-vcard-fieldset-name = Namn
+vcard-entry-type-label = Typ
+vcard-entry-type-home = Hem
+vcard-entry-type-work = Arbete
+vcard-entry-type-none = Ingen
+vcard-entry-type-custom = Anpassad
 
-# N VCard Field
+# N vCard field
 
+vcard-name-header = Namn
 vcard-n-prefix = Prefix
 vcard-n-add-prefix =
     .title = Lägg till prefix
@@ -24,3 +29,28 @@ vcard-n-add-lastname =
 vcard-n-suffix = Suffix
 vcard-n-add-suffix =
     .title = Lägg till suffix
+
+# Email vCard field
+
+vcard-email-header = E-postadresser
+vcard-email-add = Lägg till e-postadress
+vcard-email-label = E-postadress
+vcard-email-choose-primary = Standard
+    .aria-label = Välj din primära e-postadress
+
+# URL vCard field
+
+vcard-url-header = Webbplatser
+vcard-url-add = Lägg till webbplats
+vcard-url-label = Webbplats
+
+# Tel vCard field
+
+vcard-tel-header = Telefonnummer
+vcard-tel-add = Lägg till telefonnummer
+vcard-tel-label = Telefonnummer
+
+# TZ vCard field
+
+vcard-tz-header = Tidszon
+vcard-tz-add = Lägg till tidszon
