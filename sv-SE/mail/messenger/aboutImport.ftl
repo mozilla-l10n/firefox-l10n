@@ -176,13 +176,23 @@ csv-target-field = Adressboksfält
 
 export-profile-desc = Exportera e-postkonton, e-postmeddelanden, adressböcker, inställningar till en zip-fil. Vid behov kan du importera zip-filen för att återställa din profil.
 export-profile-desc2 = Om din nuvarande profil är större än 2 GB föreslår vi att du säkerhetskopierar den själv.
+export-profile-title = Exportera konton, meddelanden, adressböcker och inställningar till en ZIP-fil.
+export-profile-description = Om din nuvarande profil är större än 2 GB föreslår vi att du säkerhetskopierar den själv.
 export-open-profile-folder = Öppna profilmapp
 export-file-picker = Exportera till en zip-fil
+export-file-picker2 = Exportera till en ZIP-fil
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-title = Data som ska importeras
+summary-pane-start = Börja import
 summary-pane-warning = { -brand-product-name } måste startas om när importen är klar.
+summary-pane-start-over = Starta om importverktyget
 
 ## Footer area
 
+footer-help = Behöver du hjälp?
+footer-import-documentation = Importera dokumentation
+footer-export-documentation = Exportera dokumentation
+footer-support-forum = Supportforum
