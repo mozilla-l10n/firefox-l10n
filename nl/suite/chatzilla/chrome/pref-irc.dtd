@@ -3,10 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
-<!ENTITY name.autopick.accesskey        "K">
-
-<!ENTITY source.accesskey               "B">
-
-<!ENTITY browse.label                   "Bladeren…">
-<!ENTITY browse.accesskey               "a">
+<!ENTITY pref-irc.open.title     "ChatZilla-voorkeuren">
+<!ENTITY pref-irc.open.label     "ChatZilla-voorkeuren openen">

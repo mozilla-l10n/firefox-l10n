@@ -6,14 +6,25 @@
 <!ENTITY networksEditDialog.title     "Netwerkeditor">
 <!-- LOCALIZATION NOTE
      - width should be 62ch + length of longest serverList*.label -->
+<!ENTITY networksEditDialog.size      "width: 80ch; height: 28em;">
 
+<!ENTITY restoreButton.accesskey      "d">
+<!ENTITY connectNetwork.accesskey     "k">
 
+<!ENTITY networkListAdd.accesskey     "t">
+<!ENTITY networkListEdit.accesskey    "b">
+<!ENTITY networkListRemove.accesskey  "v">
 
-
+<!ENTITY serverListUp.accesskey       "m">
+<!ENTITY serverListDown.label         "Omlaag verplaatsen">
+<!ENTITY serverListDown.accesskey     "a">
+<!ENTITY serverListEdit.accesskey     "e">
+<!ENTITY serverListRemove.accesskey   "r">
 
 <!-- LOCALIZATION NOTE:
    - *.label are shared between networks-edit and networks-server dialogs
    - *.accesskey are only used in network-servers dialog -->
+<!ENTITY connectionSecurity.accesskey "V">
 
 <!-- Used in networks-server dialog -->
 <!ENTITY serverPortDefault.label      "Standaard:">
