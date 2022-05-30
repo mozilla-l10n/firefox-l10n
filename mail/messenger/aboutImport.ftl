@@ -83,7 +83,9 @@ profile-source = Importa da profilo
 profile-source-named = Importa dal profilo <strong>“{ $profileName }”</strong>
 profile-file-picker-directory = Scegli una cartella del profilo
 profile-file-picker-archive = Scegli un file <strong>ZIP</strong>
+profile-file-picker-archive-description = La dimensione del file ZIP deve essere inferiore a 2 GB.
 profile-file-picker-archive-title = Scegli un file ZIP (dimensione inferiore a 2 GB)
+items-pane-title2 = Scegli che cosa vuoi importare:
 items-pane-directory = Directory:
 items-pane-profile-name = Nome profilo:
 items-pane-checkbox-accounts = Account e impostazioni
@@ -115,6 +117,8 @@ addr-book-import-into-new-directory = Crea una nuova cartella
 addr-book-import-into-new-directory2 = Crea una nuova directory chiamata <strong>“{ $addressBookName }”</strong>
 # $addressBookName (string) - name of the address book to import into
 addr-book-summary-title = Importa i dati scelti nella directory “{ $addressBookName }”
+# $addressBookName (string) - name of the address book that will be created.
+addr-book-summary-description = Verrà creata una nuova rubrica con nome “{ $addressBookName }”.
 
 ## Import from calendar file steps
 
@@ -127,6 +131,8 @@ calendar-select-all-items = Seleziona tutto
 calendar-deselect-all-items = Deseleziona tutto
 calendar-import-into-new-calendar = Crea un nuovo calendario
 calendar-target-title = Seleziona dove importare gli elementi scelti.
+# $targetCalendar (string) - name of the new calendar that would be created
+calendar-import-into-new-calendar2 = Crea un nuovo calendario con nome <strong>“{ $targetCalendar }”</strong>
 # $itemCount (number) - count of selected items (tasks, events) that will be imported
 # $targetCalendar (string) - name of the calendar the items will be imported into
 calendar-summary-title =
@@ -134,6 +140,8 @@ calendar-summary-title =
         [one] Importa un elemento nel calendario “{ $targetCalendar }”
        *[other] Importa { $itemCount } elementi nel calendario “{ $targetCalendar }”
     }
+# $targetCalendar (string) - name of the calendar that will be created
+calendar-summary-description = Verrà creato un nuovo calendario con nome “{ $targetCalendar }”.
 
 ## Import dialog
 
@@ -149,6 +157,7 @@ progress-pane-finished-desc2 = Completata.
 error-pane-title = Errore
 error-message-zip-file-too-big = Il file ZIP selezionato è più grande di 2 GB. Estrarre i file e importarli dalla cartella estratta.
 error-message-extract-zip-file-failed = Estrazione del file ZIP non riuscita. Estrarre i file manualmente, quindi importarli dalla cartella estratta.
+error-message-zip-file-too-big2 = Il file ZIP selezionato è più grande di 2 GB. Estrai i file, poi importa dalla cartella estratta.
 error-message-extract-zip-file-failed2 = Estrazione del file ZIP non riuscita. Estrarre i file manualmente, quindi importarli dalla cartella estratta.
 error-message-failed = Importazione non riuscita per un errore inatteso; potrebbero essere disponibili ulteriori informazioni nella console degli errori.
 error-failed-to-parse-ics-file = Non è stato trovato alcun elemento importabile nel file.
@@ -168,6 +177,7 @@ csv-target-field = Campo della rubrica
 export-profile-desc = Esporta account di posta, messaggi, rubriche e impostazioni in un file zip. Se necessario, potrai importare il file zip per ripristinare il tuo profilo.
 export-profile-desc2 = Se la cartella del profilo attuale è più grande di 2 GB, ti consigliamo di eseguirne il backup manualmente.
 export-profile-title = Esporta account, messaggi, rubriche e impostazioni in un file ZIP.
+export-profile-description = Se la dimensione della cartella del profilo attuale è superiore a 2 GB, ti consigliamo di eseguirne il backup manualmente.
 export-open-profile-folder = Apri cartella del profilo
 export-file-picker = Esporta in un file zip
 export-file-picker2 = Esporta in un file ZIP
@@ -177,9 +187,12 @@ export-brand-name = { -brand-product-name }
 
 summary-pane-title = Dati da importare
 summary-pane-start = Avvia importazione
+summary-pane-warning = Sarà necessario riavviare { -brand-product-name } al termine dell’importazione.
 summary-pane-start-over = Riavvia lo strumento di importazione
 
 ## Footer area
 
 footer-help = Hai bisogno di aiuto?
+footer-import-documentation = Documentazione relativa all’importazione
+footer-export-documentation = Documentazione relativa all’esportazione
 footer-support-forum = Forum di supporto
