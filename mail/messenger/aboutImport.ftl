@@ -131,6 +131,17 @@ calendar-select-all-items = Vali kõik
 calendar-deselect-all-items = Tühista kõik valikud
 calendar-import-into-new-calendar = Loo uus kalender
 calendar-target-title = Vali, kuhu valitud andmed importida.
+# $targetCalendar (string) - name of the new calendar that would be created
+calendar-import-into-new-calendar2 = Luuakse uus kalender nimega <strong>"{ $targetCalendar }"</strong>
+# $itemCount (number) - count of selected items (tasks, events) that will be imported
+# $targetCalendar (string) - name of the calendar the items will be imported into
+calendar-summary-title =
+    { $itemCount ->
+        [one] Imporditakse üks element kalendrisse "{ $targetCalendar }"
+       *[other] Imporditakse { $itemCount } elementi kalendrisse "{ $targetCalendar }"
+    }
+# $targetCalendar (string) - name of the calendar that will be created
+calendar-summary-description = Luuakse uus kalender nimega "{ $targetCalendar }".
 
 ## Import dialog
 
@@ -138,12 +149,20 @@ progress-pane-importing = Importimine
 progress-pane-exporting = Eksportimine
 progress-pane-finished-desc = Lõpetatud.
 progress-pane-restart-desc = Importimise lõpetamiseks taaskäivita.
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-importing2 = Importimine… { $progressPercent }
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-exporting2 = Eksportimine… { $progressPercent }
+progress-pane-finished-desc2 = Lõpetatud.
 error-pane-title = Viga
 error-message-zip-file-too-big = Valitud ZIP-fail on suurem kui 2GiB. Palun paki see esmalt lahti ja impordi selle asemel lahtipakitud kaustast.
 error-message-extract-zip-file-failed = ZIP-faili lahtipakkimine ebaõnnestus. Paki see käsitsi lahti ja impordi selle asemel lahtipakitud kaustast.
+error-message-zip-file-too-big2 = Valitud ZIP-fail on suurem kui 2GiB. Palun paki see esmalt lahti ja impordi selle asemel lahtipakitud kaustast.
+error-message-extract-zip-file-failed2 = ZIP-faili lahtipakkimine ebaõnnestus. Paki see käsitsi lahti ja impordi selle asemel lahtipakitud kaustast.
 error-message-failed = Importimine ebaõnnestus ootamatult, rohkem infot võib olla saadaval veakonsoolis.
 error-failed-to-parse-ics-file = Failist ei leitud imporditavaid asju.
 error-export-failed = Eksportimine ebaõnnestus ootamatult, rohkem infot võib olla saadaval veakonsoolis.
+error-message-no-profile = Profiili ei leitud.
 
 ## <csv-field-map> element
 
@@ -157,12 +176,17 @@ csv-target-field = Aadressiraamatu väli
 
 export-profile-desc = Ekspordi e-posti kontod, kirjad, aadressiraamatud ja sätted ZIP-faili. Vajadusel saad profiili taastamiseks ZIP-faili importida.
 export-profile-desc2 = Kui sinu praegune profiil on suurem kui 2GiB, siis soovitame sul selle ise varundada.
+export-profile-title = ZIP-faili eksporditakse kontod, e-post, aadressiraamatud ja sätted.
+export-profile-description = Kui sinu praegune profiil on suurem kui 2GiB, siis soovitame sul selle ise varundada.
 export-open-profile-folder = Ava profiili kaust
 export-file-picker = Ekspordi ZIP-faili
+export-file-picker2 = Ekspordi ZIP-faili
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-title = Imporditavad andmed
+summary-pane-start = Käivita importimine
 
 ## Footer area
 
