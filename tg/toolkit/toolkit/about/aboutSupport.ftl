@@ -229,6 +229,7 @@ text-copied = Матн ба ҳофизаи муваққатӣ нусха бар�
 
 blocked-driver = Барои версияи драйвери корти графикии шумо баста шудааст.
 blocked-gfx-card = Барои корти графикии шумо баста шудааст, зеро ки мушкилии драйвер ҳал карда нашуд.
+blocked-os-version = Барои версияи низоми амалкунандаи шумо баста шудааст.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Танзимоти «ClearType»
@@ -266,6 +267,13 @@ webgl2-renderer = Намоишгари драйвери WebGL 2
 webgl2-version = Версияи драйвери WebGL 2
 webgl2-driver-extensions = Васеъшавиҳои драйвери WebGL 2
 webgl2-extensions = Васеъшавиҳои WebGL 2
+# Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Ба сабаби мушкилиҳои маълум ба рӯйхати сиёҳ ворид карда шудааст: <a data-l10n-name="bug-link">мушкилии { $bugNumber }</a>
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Ба рӯйхати сиёҳ ворид карда шудааст; рамзи мушкилӣ { $failureCode }
+d3d11layers-crash-guard = Созандаи D3D11
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Рамзёбии видеои WMF VPX
 reset-on-next-restart = Бозсозӣ дар оғози кори навбатӣ
