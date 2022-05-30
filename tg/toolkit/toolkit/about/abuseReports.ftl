@@ -54,4 +54,5 @@ abuse-report-messagebar-action-cancel = Бекор кардан
 
 abuse-report-settings-suggestions-search = Танзимоти ҷустуҷӯи пешфарзи шуморо иваз мекунад
 abuse-report-settings-suggestions-homepage = Саҳифаи асосӣ ва варақаи нави шуморо иваз мекунад
+abuse-report-policy-reason-v2 = Ин матн дорои муҳтавои нафратангез, зӯроварӣ ё ғайриқонунӣ мебошад
 abuse-report-other-reason = Чизе дигар
