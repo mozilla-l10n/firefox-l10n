@@ -200,6 +200,6 @@ summary-pane-start-over = Restart nástroje pro import
 ## Footer area
 
 footer-help = Potřebujete pomoc?
-footer-import-documentation = Dokumentace k importování
-footer-export-documentation = Dokumentace k exportování
+footer-import-documentation = Nápověda k importování
+footer-export-documentation = Nápověda k exportování
 footer-support-forum = Fórum podpory
