@@ -26,5 +26,13 @@ message-header-references-field = Références<span data-l10n-name="field-separa
 message-header-message-id-field = Identifiant du message<span data-l10n-name="field-separator"> :</span>
 message-header-in-reply-to-field = En réponse à<span data-l10n-name="field-separator"> :</span>
 message-header-website-field = Site web<span data-l10n-name="field-separator"> :</span>
+message-header-address-in-address-book-icon2 =
+    .alt = Dans le carnet d’adresses
+message-header-address-not-in-address-book-icon2 =
+    .alt = Pas dans le carnet d’adresses
+message-header-address-not-in-address-book-button =
+    .title = Enregistrer cette adresse dans le carnet d’adresses
 message-header-address-in-address-book-button =
     .title = Modifier le contact
+message-header-field-show-more = Autres
+    .title = Afficher tous les destinataires

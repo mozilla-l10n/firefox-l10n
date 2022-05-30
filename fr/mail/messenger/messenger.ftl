@@ -222,6 +222,10 @@ settings-context-open-addons-item =
     .label = Ouvrir le gestionnaire de modules complémentaires et de thèmes
 settings-context-open-settings-item2 =
     .label = Paramètres
+settings-context-open-account-settings-item2 =
+    .label = Paramètres des comptes
+settings-context-open-addons-item2 =
+    .label = Modules complémentaires et thèmes
 
 ## Spaces toolbar pinned tab menupopup
 
