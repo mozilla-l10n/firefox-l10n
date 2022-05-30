@@ -107,21 +107,30 @@ addr-book-file-picker = Vali aadressiraamatu fail
 addr-book-csv-field-map-title = Väljade nimede sobitamine
 addr-book-csv-field-map-desc = Vali allikale vastavad aadressiraamatu väljad. Eemalda linnuke väljadelt, mida sa ei soovi importida.
 addr-book-directories-pane-title = Vali kaust, kuhu soovid importida:
+addr-book-directories-title = Vali, kuhu valitud andmed importida
 addr-book-directories-pane-source = Lähtefail:
 addr-book-import-into-new-directory = Loo uus kaust
 
 ## Import from address book file steps
 
+# $addressBookName (string) - name of the new address book that would be created.
+addr-book-import-into-new-directory2 = Luuakse uus kaust nimega <strong>"{ $addressBookName }"</strong>
+# $addressBookName (string) - name of the address book to import into
+addr-book-summary-title = Valitud andmed imporditakse kausta "{ $addressBookName }"
+# $addressBookName (string) - name of the address book that will be created.
+addr-book-summary-description = Luuakse uus aadressiraamat nimega "{ $addressBookName }".
 
 ## Import from calendar file steps
 
 import-from-calendar-file-desc = Vali imporditav iCalendari (.ics) fail.
+calendar-items-title = Vali imporditavad elemendid.
 calendar-items-loading = Üksuste laadimine…
 calendar-items-filter-input =
     .placeholder = Filtreeri üksusi…
 calendar-select-all-items = Vali kõik
 calendar-deselect-all-items = Tühista kõik valikud
 calendar-import-into-new-calendar = Loo uus kalender
+calendar-target-title = Vali, kuhu valitud andmed importida.
 
 ## Import dialog
 
