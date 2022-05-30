@@ -97,8 +97,14 @@ perftools-thread-task-controller =
     .title = TaskController thread pool-tråde
 perftools-thread-jvm-gecko =
     .title = Den primære Gecko JVM-tråd
+perftools-thread-jvm-default-dispatcher =
+    .title = Standard-dispatcher for Kotlin-korutine-biblioteket
 perftools-thread-jvm-glean =
     .title = De primære tråde for Glean telemetri-SDK
+perftools-thread-jvm-arch-disk-io =
+    .title = IO-dispatcher for Kotlin-korutine-biblioteket
+perftools-thread-jvm-pool =
+    .title = Tråde skabt i en unavngivet tråd-pool
 
 ##
 
