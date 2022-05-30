@@ -95,6 +95,10 @@ perftools-thread-dns-resolver =
     .title = DNS-opslag foregår på denne tråd
 perftools-thread-task-controller =
     .title = TaskController thread pool-tråde
+perftools-thread-jvm-gecko =
+    .title = Den primære Gecko JVM-tråd
+perftools-thread-jvm-glean =
+    .title = De primære tråde for Glean telemetri-SDK
 
 ##
 
