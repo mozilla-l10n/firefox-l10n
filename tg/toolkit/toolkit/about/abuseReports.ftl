@@ -54,5 +54,9 @@ abuse-report-messagebar-action-cancel = Бекор кардан
 
 abuse-report-settings-suggestions-search = Танзимоти ҷустуҷӯи пешфарзи шуморо иваз мекунад
 abuse-report-settings-suggestions-homepage = Саҳифаи асосӣ ва варақаи нави шуморо иваз мекунад
+abuse-report-broken-reason-sitepermission-v2 = Кор намекунад, сомонаҳоро вайрон мекунад ё кори { -brand-product-name }-ро суст мекунад
+abuse-report-broken-reason-theme-v2 = Кор намекунад ё намоиши браузерро вайрон мекунад
+abuse-report-broken-example = Барои мисол: Хусусиятҳо сустанд, барои истифода душворанд ё кор намекунанд; қисмҳои сомона бор карда намешаванд ё ғайриоддӣ менамоянд
 abuse-report-policy-reason-v2 = Ин матн дорои муҳтавои нафратангез, зӯроварӣ ё ғайриқонунӣ мебошад
+abuse-report-unwanted-example = Барои мисол: Барнома онро бе иҷозати ман насб кард
 abuse-report-other-reason = Чизе дигар
