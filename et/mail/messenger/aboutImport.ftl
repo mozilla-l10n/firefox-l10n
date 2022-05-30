@@ -64,6 +64,7 @@ file-profile-description = Vali varem varundatud Thunderbirdi profiil (.zip)
 file-calendar = Kalendrite importimine
 file-calendar-description = Vali fail, mis sisaldab eksporditud kalendreid või sündmusi (.ics)
 file-addressbook = Aadressiraamatute importimine
+file-addressbook-description = Vali eksporditud aadressiraamatuid ja kontakte sisaldav fail
 
 ## Import from app profile steps
 
