@@ -78,14 +78,24 @@ profiles-pane-title-seamonkey = Importa impostazioni e dati da un profilo { app-
 profiles-pane-title-outlook = Importa dati da { app-name-outlook }.
 profiles-pane-title-becky = Importa dati da { app-name-becky }.
 profiles-pane-title-apple-mail = Importa messaggi da { app-name-apple-mail }.
+profile-source = Importa da profilo
+# $profileName (string) - name of the profile
+profile-source-named = Importa dal profilo <strong>“{ $profileName }”</strong>
+profile-file-picker-directory = Scegli una cartella del profilo
+profile-file-picker-archive = Scegli un file <strong>ZIP</strong>
+profile-file-picker-archive-title = Scegli un file ZIP (dimensione inferiore a 2 GB)
+items-pane-directory = Directory:
+items-pane-profile-name = Nome profilo:
 items-pane-checkbox-accounts = Account e impostazioni
 items-pane-checkbox-address-books = Rubriche
 items-pane-checkbox-calendars = Calendari
 items-pane-checkbox-mail-messages = Messaggi di posta
+items-pane-override = Eventuali dati esistenti o identici non verranno sovrascritti.
 
 ## Import from address book file steps
 
 import-from-addr-book-file-desc = Seleziona il tipo di file da importare:
+import-from-addr-book-file-description = Scegli il formato del file contenente i dati della tua rubrica.
 addr-book-csv-file = File con valori delimitati da virgole o tabulazioni (.csv, .tsv)
 addr-book-ldif-file = File LDIF (.ldif)
 addr-book-vcard-file = File vCard (.vcf, .vcard)
@@ -95,11 +105,18 @@ addr-book-file-picker = Seleziona un file di rubrica
 addr-book-csv-field-map-title = Corrispondenza nomi dei campi
 addr-book-csv-field-map-desc = Seleziona i campi della rubrica corrispondenti ai campi di origine. Deseleziona i campi che non desideri importare.
 addr-book-directories-pane-title = Seleziona la cartella in cui effettuare l’importazione:
+addr-book-directories-title = Seleziona dove importare i dati scelti
 addr-book-directories-pane-source = File di origine:
 addr-book-import-into-new-directory = Crea una nuova cartella
 
 ## Import from address book file steps
 
+# $addressBookName (string) - name of the new address book that would be created.
+addr-book-import-into-new-directory2 = Crea una nuova directory chiamata <strong>“{ $addressBookName }”</strong>
+# $addressBookName (string) - name of the address book to import into
+addr-book-summary-title = Importa i dati scelti nella directory “{ $addressBookName }”
+# $addressBookName (string) - name of the address book that will be created.
+addr-book-summary-description = Verrà creata una nuova rubrica denominata “{ $addressBookName }”.
 
 ## Import from calendar file steps
 
