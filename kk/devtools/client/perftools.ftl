@@ -95,6 +95,8 @@ perftools-thread-dns-resolver =
     .title = DNS шешуі бұл ағында орын алады
 perftools-thread-task-controller =
     .title = TaskController ағындар пулының ағындары
+perftools-thread-jvm-gecko =
+    .title = Негізгі Gecko JVM ағыны
 
 ##
 
