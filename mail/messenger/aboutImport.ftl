@@ -86,14 +86,18 @@ profile-file-picker-archive = <strong>ZIP</strong>- faili valimine
 profile-file-picker-archive-description = ZIP-fail peab olema väiksem kui 2GiB.
 profile-file-picker-archive-title = ZIP-faili (väiksem kui 2GiB) valimine
 items-pane-title2 = Imporditavate andmete valimine:
+items-pane-directory = Kaust:
+items-pane-profile-name = Profiili nimi:
 items-pane-checkbox-accounts = kontod ja sätted
 items-pane-checkbox-address-books = aadressiraamatud
 items-pane-checkbox-calendars = kalendrid
 items-pane-checkbox-mail-messages = e-post
+items-pane-override = Olemasolevaid või identseid andmeid üle ei kirjutata.
 
 ## Import from address book file steps
 
 import-from-addr-book-file-desc = Vali imporditava faili tüüp:
+import-from-addr-book-file-description = Vali oma aadressiraamatu andmeid sisaldav failiformaat.
 addr-book-csv-file = Koma või tabeldusmärgiga eraldatud fail (.csv, .tsv)
 addr-book-ldif-file = LDIF-fail (.ldif)
 addr-book-vcard-file = vCardi fail (.vcf, .vcard)
