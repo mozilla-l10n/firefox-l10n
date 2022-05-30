@@ -68,6 +68,12 @@ file-addressbook-description = Vali eksporditud aadressiraamatuid ja kontakte si
 
 ## Import from app profile steps
 
+from-app-thunderbird = Importimine { app-name-thunderbird }i profiilist
+from-app-seamonkey = Importimine { app-name-seamonkey } profiilist
+from-app-outlook = Importimine { app-name-outlook }ist
+from-app-becky = Importimine rakendusest { app-name-becky }
+from-app-apple-mail = Importimine rakendusest { app-name-apple-mail }
+profiles-pane-title-thunderbird = Sätete ja andmete importimine { app-name-thunderbird }i profiilist.
 items-pane-checkbox-accounts = kontod ja sätted
 items-pane-checkbox-address-books = aadressiraamatud
 items-pane-checkbox-calendars = kalendrid
