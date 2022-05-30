@@ -41,7 +41,7 @@ app-name-apple-mail = Apple Mail
 profiles-pane-title = Importazione da { $app }
 profiles-pane-desc = Scegli la posizione da cui importare
 profile-file-picker-dir = Seleziona una cartella del profilo
-profile-file-picker-zip = Seleziona un file zip (dimensione inferiore a 2 GB)
+profile-file-picker-zip = Seleziona un file zip (dimensione inferiore a 2 GB)
 items-pane-title = Seleziona che cosa importare
 items-pane-source = Percorso di origine:
 source-thunderbird = Importa da un’altra installazione di { app-name-thunderbird }
@@ -83,7 +83,7 @@ profile-source = Importa da profilo
 profile-source-named = Importa dal profilo <strong>“{ $profileName }”</strong>
 profile-file-picker-directory = Scegli una cartella del profilo
 profile-file-picker-archive = Scegli un file <strong>ZIP</strong>
-profile-file-picker-archive-title = Scegli un file ZIP (dimensione inferiore a 2 GB)
+profile-file-picker-archive-title = Scegli un file ZIP (dimensione inferiore a 2 GB)
 items-pane-directory = Directory:
 items-pane-profile-name = Nome profilo:
 items-pane-checkbox-accounts = Account e impostazioni
@@ -115,18 +115,25 @@ addr-book-import-into-new-directory = Crea una nuova cartella
 addr-book-import-into-new-directory2 = Crea una nuova directory chiamata <strong>“{ $addressBookName }”</strong>
 # $addressBookName (string) - name of the address book to import into
 addr-book-summary-title = Importa i dati scelti nella directory “{ $addressBookName }”
-# $addressBookName (string) - name of the address book that will be created.
-addr-book-summary-description = Verrà creata una nuova rubrica denominata “{ $addressBookName }”.
 
 ## Import from calendar file steps
 
 import-from-calendar-file-desc = Seleziona il file iCalendar (.ics) da importare.
+calendar-items-title = Seleziona gli elementi da importare.
 calendar-items-loading = Caricamento elementi…
 calendar-items-filter-input =
     .placeholder = Filtra elementi…
 calendar-select-all-items = Seleziona tutto
 calendar-deselect-all-items = Deseleziona tutto
 calendar-import-into-new-calendar = Crea un nuovo calendario
+calendar-target-title = Seleziona dove importare gli elementi scelti.
+# $itemCount (number) - count of selected items (tasks, events) that will be imported
+# $targetCalendar (string) - name of the calendar the items will be imported into
+calendar-summary-title =
+    { $itemCount ->
+        [one] Importa un elemento nel calendario “{ $targetCalendar }”
+       *[other] Importa { $itemCount } elementi nel calendario “{ $targetCalendar }”
+    }
 
 ## Import dialog
 
@@ -134,12 +141,19 @@ progress-pane-importing = Importazione in corso
 progress-pane-exporting = Esportazione in corso
 progress-pane-finished-desc = Completato.
 progress-pane-restart-desc = Riavvia per completare l’importazione.
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-importing2 = Importazione in corso… { $progressPercent }
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-exporting2 = Esportazione in corso… { $progressPercent }
+progress-pane-finished-desc2 = Completata.
 error-pane-title = Errore
-error-message-zip-file-too-big = Il file ZIP selezionato è più grande di 2 GB. Estrarre i file e importarli dalla cartella estratta.
+error-message-zip-file-too-big = Il file ZIP selezionato è più grande di 2 GB. Estrarre i file e importarli dalla cartella estratta.
 error-message-extract-zip-file-failed = Estrazione del file ZIP non riuscita. Estrarre i file manualmente, quindi importarli dalla cartella estratta.
+error-message-extract-zip-file-failed2 = Estrazione del file ZIP non riuscita. Estrarre i file manualmente, quindi importarli dalla cartella estratta.
 error-message-failed = Importazione non riuscita per un errore inatteso; potrebbero essere disponibili ulteriori informazioni nella console degli errori.
 error-failed-to-parse-ics-file = Non è stato trovato alcun elemento importabile nel file.
 error-export-failed = Esportazione non riuscita per un errore inatteso; potrebbero essere disponibili ulteriori informazioni nella console degli errori.
+error-message-no-profile = Nessun profilo trovato.
 
 ## <csv-field-map> element
 
@@ -152,13 +166,20 @@ csv-target-field = Campo della rubrica
 ## Export tab
 
 export-profile-desc = Esporta account di posta, messaggi, rubriche e impostazioni in un file zip. Se necessario, potrai importare il file zip per ripristinare il tuo profilo.
-export-profile-desc2 = Se la cartella del profilo attuale è più grande di 2 GB, ti consigliamo di eseguirne il backup manualmente.
+export-profile-desc2 = Se la cartella del profilo attuale è più grande di 2 GB, ti consigliamo di eseguirne il backup manualmente.
+export-profile-title = Esporta account, messaggi, rubriche e impostazioni in un file ZIP.
 export-open-profile-folder = Apri cartella del profilo
 export-file-picker = Esporta in un file zip
+export-file-picker2 = Esporta in un file ZIP
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-title = Dati da importare
+summary-pane-start = Avvia importazione
+summary-pane-start-over = Riavvia lo strumento di importazione
 
 ## Footer area
 
+footer-help = Hai bisogno di aiuto?
+footer-support-forum = Forum di supporto
