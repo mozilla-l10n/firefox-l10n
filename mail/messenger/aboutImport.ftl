@@ -187,6 +187,12 @@ export-brand-name = { -brand-product-name }
 
 summary-pane-title = Imporditavad andmed
 summary-pane-start = Käivita importimine
+summary-pane-warning = { -brand-product-name } tuleb importimise lõpus taaskäivitada.
+summary-pane-start-over = Taaskäivita imporditööriist
 
 ## Footer area
 
+footer-help = Vajad abi?
+footer-import-documentation = Importimise dokumentatsioon
+footer-export-documentation = Eksportimise dokumentatsioon
+footer-support-forum = Tugifoorum

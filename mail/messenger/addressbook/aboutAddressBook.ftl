@@ -69,6 +69,38 @@ about-addressbook-sort-email-ascending =
     .label = Sordi e-posti aadressi järgi (A > Y)
 about-addressbook-sort-email-descending =
     .label = Sordi e-posti aadressi järgi (Y > A)
+about-addressbook-horizontal-layout =
+    .label = Lülitu horisontaalsele paigutusele
+about-addressbook-vertical-layout =
+    .label = Lülitu vertikaalsele paigutusele
+
+## Card column headers
+## Each string is listed here twice, and the values should match.
+
+about-addressbook-column-header-generatedname = Nimi
+about-addressbook-column-label-generatedname =
+    .label = { about-addressbook-column-header-generatedname }
+about-addressbook-column-header-emailaddresses = E-posti aadressid
+about-addressbook-column-label-emailaddresses =
+    .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-phonenumbers = Telefoninumbrid
+about-addressbook-column-label-phonenumbers =
+    .label = { about-addressbook-column-header-phonenumbers }
+about-addressbook-column-header-addresses = Aadressid
+about-addressbook-column-label-addresses =
+    .label = { about-addressbook-column-header-addresses }
+about-addressbook-column-header-title = Pealkiri
+about-addressbook-column-label-title =
+    .label = { about-addressbook-column-header-title }
+about-addressbook-column-header-department = Osakond
+about-addressbook-column-label-department =
+    .label = { about-addressbook-column-header-department }
+about-addressbook-column-header-organization = Organisatsioon
+about-addressbook-column-label-organization =
+    .label = { about-addressbook-column-header-organization }
+about-addressbook-column-header-addrbook = Aadressiraamat
+about-addressbook-column-label-addrbook =
+    .label = { about-addressbook-column-header-addrbook }
 about-addressbook-cards-context-write =
     .label = Kirjuta
 about-addressbook-confirm-delete-mixed-title = Kontaktide ja listide kustutamine
@@ -147,6 +179,7 @@ about-addressbook-entry-type-pager = Peiler
 about-addressbook-entry-name-birthday = Sünnipäev
 about-addressbook-entry-name-anniversary = Pulma-aastapäev
 about-addressbook-entry-name-title = Amet
+about-addressbook-entry-name-role = Roll
 about-addressbook-entry-name-department = Osakond
 about-addressbook-entry-name-organization = Organisatsioon
 about-addressbook-entry-name-website = Sait
