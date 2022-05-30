@@ -21,6 +21,7 @@ perftools-heading-features-default = Funktioner (anbefales som standard)
 perftools-heading-features-disabled = Deaktiverede funktioner
 perftools-heading-features-experimental = Eksperimentel
 perftools-heading-threads = Tråde
+perftools-heading-threads-jvm = JVM-tråde
 perftools-heading-local-build = Lokalt build
 
 ##
@@ -42,9 +43,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Buffer-størrelse:
-
 perftools-custom-threads-label = Tilføj tilpassede tråde ved deres navne:
-
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Tråde:
 perftools-devtools-settings-label = Indstillinger
@@ -100,7 +99,6 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Ignorer valg ovenfor og optag alle registrerede tråde
-
 perftools-tools-threads-input-label =
     .title = Disse tråd-navne er en kommasepareret liste, der bruges til at aktivere profilering af trådene i profileringsværktøjet. Navnet behøver bare at stemme delvist overens med trådnavnet for at blive inkluderet. Mellemrum indgår i sammenligningen.
 
@@ -108,14 +106,13 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Nyhed</b>: { -profiler-brand-name } er nu en del af Udviklerværktøj. <a>Læs mere</a> om dette praktiske nye værktøj.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (I en begrænset periode kan du se det originale Ydelses-panel i <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Luk introduktions-beskeden
 
@@ -128,19 +125,14 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Webudvikler
 perftools-presets-web-developer-description = Anbefalet forhåndsindstilling med lavt overhead for generel debugging af web-apps.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Anbefalet forhåndsindstilling for profilering af { -brand-shorter-name }.
-
 perftools-presets-graphics-label = Grafik
 perftools-presets-graphics-description = Forhåndsindstilling for at undersøge grafik-problemer i { -brand-shorter-name }.
-
 perftools-presets-media-label = Medieindhold
 perftools-presets-media-description2 = Forhåndsindstilling for at undersøge lyd- og video-problemer i { -brand-shorter-name }.
-
 perftools-presets-networking-label = Netværk
 perftools-presets-networking-description = Forhåndsindstilling for at undersøge netværksproblemer i { -brand-shorter-name }.
-
 perftools-presets-custom-label = Tilpasset
 
 ##
