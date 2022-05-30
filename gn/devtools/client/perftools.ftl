@@ -101,6 +101,10 @@ perftools-thread-jvm-nimbus =
     .title = Umi rosca principal umi experimento Nimbus SDK-pe g̃uarã
 perftools-thread-jvm-default-dispatcher =
     .title = Pe ñangarekohára  Kotlin coroutines aranduka’i rehegua
+perftools-thread-jvm-glean =
+    .title = Umi subproceso tuichavéva SDK Glean telemetría rehegua
+perftools-thread-jvm-pool =
+    .title = Subproceso heñóiva peteĩ subproceso aty hera’ỹvape
 
 ##
 
