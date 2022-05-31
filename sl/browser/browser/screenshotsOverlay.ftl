@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Prekliči
 screenshots-overlay-instructions = Povlecite ali kliknite na strani za izbiro območja. Pritisnite ESC za preklic.
+screenshots-overlay-download-button = Prenesi
+screenshots-overlay-copy-button = Kopiraj
