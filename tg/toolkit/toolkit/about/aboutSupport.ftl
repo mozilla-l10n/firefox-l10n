@@ -301,6 +301,7 @@ can-sandbox-content = Минтақаи санҷишӣ барои раванди 
 can-sandbox-media = Минтақаи санҷишӣ барои плагини расона
 content-sandbox-level = Дараҷаи минтақаи санҷишӣ барои раванди муҳтаво
 effective-content-sandbox-level = Дараҷаи самарбахши минтақаи санҷишӣ барои раванди муҳтаво
+content-win32k-lockdown-state = Вазъияти бастани Win32k барои раванди муҳтаво
 sandbox-proc-type-content = муҳтаво
 sandbox-proc-type-file = муҳтавои файл
 sandbox-proc-type-media-plugin = плагини расона
