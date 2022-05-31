@@ -333,6 +333,7 @@ fission-status-disabled-by-default = Ба таври пешфарз ғайриф
 fission-status-enabled-by-user-pref = Аз тарафи корбар фаъол карда шуд
 fission-status-disabled-by-user-pref = Аз тарафи корбар ғайрифаъол карда шуд
 fission-status-disabled-by-e10s-other = E10s ғайрифаъол аст
+fission-status-enabled-by-rollout = Аз тарафи паҳнкунии марҳилавӣ фаъол карда шуд
 apz-none = ҳеҷ
 keyboard-enabled = клавиатура фаъол аст
 autoscroll-enabled = ҳаракати худкор фаъол аст
