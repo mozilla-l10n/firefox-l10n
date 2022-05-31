@@ -23,6 +23,8 @@ process-type-webisolated = Муҳтавои ҷудошудаи сомона
 # process used to isolate a ServiceWorker to improve
 # performance
 process-type-webserviceworker = Коркуни хизматрасонии ҷудокардашуда
+# process preallocated; may change to other types
+process-type-prealloc = Пешакӣ ҷойгиршуда
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
@@ -33,6 +35,8 @@ process-type-tab = Варақа
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
+# process used to perform network operations
+process-type-socket = Бастагоҳ
 # process used to decode media
 process-type-rdd = RDD
 
