@@ -10,7 +10,7 @@ account-action-add-newsgroup-account =
     .label = Newsgruppen-Konto hinzufügen…
     .accesskey = N
 
-server-change-restart-required = Restart is required to apply the server name or username change.
+server-change-restart-required = Es ist ein Neustart der Anwendung nötig, um die Änderung der Server-Adresse oder des Benutzernamens zu übernehmen.
 
 edit-vcard-dialog-accept-button = Speichern
     .accesskey = S

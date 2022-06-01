@@ -145,19 +145,11 @@ profile-file-picker-archive-description = Die .zip-Datei muss kleiner als 2GB se
 
 profile-file-picker-archive-title = ZIP-Datei auswählen (kleiner als 2GB)
 
-# Variables:
-#   $app (String) - The name of the app to import from
-profiles-pane-title = Aus { $app } importieren
+items-pane-title2 = Zu importierende Daten:
 
-profiles-pane-desc = Wählen Sie den Ordner, aus welchem Import werden soll:
+items-pane-directory = Ordner:
 
-profile-file-picker-dir = Profilordner auswählen
-
-profile-file-picker-zip = ZIP-Datei auswählen (kleiner als 2GB)
-
-items-pane-title = Zu importierende Daten auswählen
-
-items-pane-source = Quellordner:
+items-pane-profile-name = Profilname:
 
 items-pane-checkbox-accounts = Konten und Einstellungen
 
@@ -263,21 +255,21 @@ progress-pane-finished-desc2 = Fertig
 
 error-pane-title = Fehler
 
-progress-pane-exporting = Export wird ausgeführt
+error-message-zip-file-too-big = Die ausgewählte .zip-Datei ist größer als 2GB. Entpacken Sie diese erst und importieren Sie anschließend den entpackten Ordner.
 
-progress-pane-finished-desc = Abgeschlossen
+error-message-extract-zip-file-failed = Fehler beim Entpacken der .zip-Datei. Entpacken Sie diese erst und importieren Sie anschließend den entpackten Ordner.
 
-progress-pane-restart-desc = Zum Abschluss des Imports muss das Programm neu gestartet werden.
+error-message-zip-file-too-big2 = Die ausgewählte .zip-Datei ist größer als 2GB. Entpacken Sie diese erst und importieren Sie anschließend den entpackten Ordner.
 
-error-pane-title = Fehler
-
-error-message-zip-file-too-big = Die ausgewählte ZIP-Datei ist größer als 2GB. Entpacken Sie diese erst in einen Ordner und importieren Sie diesen anschließend.
-
-error-message-extract-zip-file-failed = Fehler beim Entpacken der ZIP-Datei. Entpacken Sie diese erst in einen Ordner und importieren Sie diesen anschließend.
+error-message-extract-zip-file-failed2 = Fehler beim Entpacken der .zip-Datei. Entpacken Sie diese erst und importieren Sie anschließend den entpackten Ordner.
 
 error-message-failed = Der Import schlug unerwartet fehl. Weitere Informationen in der Fehlerkonsole.
 
+error-failed-to-parse-ics-file = Keine importierbaren Einträge in der Kalenderdatei erkannt.
+
 error-export-failed = Der Export schlug unerwartet fehl. Weitere Informationen in der Fehlerkonsole.
+
+error-message-no-profile = Kein Profil erkannt
 
 ## <csv-field-map> element
 
@@ -301,11 +293,11 @@ export-profile-title = Konten, Nachrichten, Adressbücher und Einstellungen in e
 
 export-profile-description = Falls der Profilordner größer als 2GB ist, wird das manuelle Erstellen der Sicherheitskopie empfohlen.
 
-export-profile-desc2 = Falls der Profilordner größer als 2GB ist, wird das manuelle Erstellen der Sicherheitskopie empfohlen.
-
 export-open-profile-folder = Profilordner öffnen
 
 export-file-picker = In ZIP-Datei exportieren
+
+export-file-picker2 = In .zip-Datei exportieren
 
 export-brand-name = { -brand-product-name }
 

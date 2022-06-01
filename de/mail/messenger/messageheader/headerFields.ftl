@@ -54,5 +54,5 @@ message-header-address-not-in-address-book-button =
 message-header-address-in-address-book-button =
     .title = Kontakt bearbeiten
 
-message-header-field-show-more = More
+message-header-field-show-more = Mehr
     .title = Alle Empfänger anzeigen

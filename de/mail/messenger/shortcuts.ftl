@@ -17,13 +17,13 @@ meta-shortcut-key = {
 ctrl-shortcut-key = {
   PLATFORM() ->
     [macos] ⌃ { $key }
-   *[other] Ctrl+{ $key }
+   *[other] Strg+{ $key }
 }
 
 shift-shortcut-key = {
   PLATFORM() ->
     [macos] ⇧ { $key }
-   *[other] Shift+{ $key }
+   *[other] Umschalt+{ $key }
 }
 
 alt-shortcut-key = {
@@ -35,7 +35,7 @@ alt-shortcut-key = {
 meta-ctrl-shortcut-key = {
   PLATFORM() ->
     [macos] ⌃ ⌘ { $key }
-   *[other] Meta+Ctrl+{ $key }
+   *[other] Meta+Strg+{ $key }
 }
 
 meta-alt-shortcut-key = {
@@ -47,55 +47,55 @@ meta-alt-shortcut-key = {
 ctrl-alt-shortcut-key = {
   PLATFORM() ->
     [macos] ⌃ ⌥ { $key }
-   *[other] Ctrl+Alt+{ $key }
+   *[other] Strg+Alt+{ $key }
 }
 
 meta-ctrl-alt-shortcut-key = {
   PLATFORM() ->
     [macos] ⌃ ⌥ ⌘ { $key }
-   *[other] Meta+Ctrl+Alt+{ $key }
+   *[other] Meta+Strg+Alt+{ $key }
 }
 
 meta-shift-shortcut-key = {
   PLATFORM() ->
     [macos] ⇧ ⌘ { $key }
-   *[other] Meta+Shift+{ $key }
+   *[other] Meta+Umschalt+{ $key }
 }
 
 ctrl-shift-shortcut-key = {
   PLATFORM() ->
     [macos] ⌃ ⇧ { $key }
-   *[other] Ctrl+Shift+{ $key }
+   *[other] Strg+Umschalt+{ $key }
 }
 
 meta-ctrl-shift-shortcut-key = {
   PLATFORM() ->
     [macos] ⌃ ⇧ ⌘ { $key }
-   *[other] Meta+Ctrl+Shift+{ $key }
+   *[other] Meta+Strg+Umschalt+{ $key }
 }
 
 alt-shift-shortcut-key = {
   PLATFORM() ->
     [macos] ⌥ ⇧ { $key }
-   *[other] Alt+Shift+{ $key }
+   *[other] Alt+Umschalt+{ $key }
 }
 
 meta-shift-alt-shortcut-key2 = {
   PLATFORM() ->
     [macos] ⌥ ⇧ ⌘ { $key }
-   *[other] Meta+Alt+Shift+{ $key }
+   *[other] Meta+Alt+Umschalt+{ $key }
 }
 
 ctrl-shift-alt-shortcut-key2 = {
   PLATFORM() ->
     [macos] ⌃ ⌥ ⇧ { $key }
-   *[other] Ctrl+Alt+Shift+{ $key }
+   *[other] Strg+Alt+Umschalt+{ $key }
 }
 
 meta-ctrl-shift-alt-shortcut-key2 = {
   PLATFORM() ->
     [macos] ⌃ ⌥ ⇧ ⌘ { $key }
-   *[other] Meta+Ctrl+Alt+Shift+{ $key }
+   *[other] Meta+Strg+Alt+Umschalt+{ $key }
 }
 
 # Variables:
