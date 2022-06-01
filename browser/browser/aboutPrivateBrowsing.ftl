@@ -20,13 +20,15 @@ about-private-browsing-handoff-text = Търсете с { $engine } или въ�
 about-private-browsing-handoff-text-no-engine = Търсете или въведете адрес
 about-private-browsing-not-private = В момента не сте в поверителен прозорец.
 about-private-browsing-learn-more-link = Научете повече
-
 about-private-browsing-hide-activity = Скрийте активността и местоположението си навсякъде, където разглеждате
 about-private-browsing-get-privacy = Получавайте защита на поверителността навсякъде, където разглеждате
 about-private-browsing-prominent-cta = Останете скрити с { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Поверително разглеждане в движение
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = Вземете поверителното разглеждане на телефона си
+about-private-browsing-focus-promo-header-c = Следващо ниво поверителност за мобилни устройства
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -39,4 +41,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Затваряне
-
+about-private-browsing-promo-close-button =
+    .title = Затваряне
