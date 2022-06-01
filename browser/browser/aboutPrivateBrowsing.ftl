@@ -19,12 +19,15 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Търсете с { $engine } или въведете адрес
 about-private-browsing-handoff-text-no-engine = Търсете или въведете адрес
 about-private-browsing-not-private = В момента не сте в поверителен прозорец.
+about-private-browsing-info-description-private-window = Поверителен прозорец: { -brand-short-name } изчиства търсенето и историята на разглеждане, когато затворите всички поверителни прозорци. Това не ви прави анонимни.
+about-private-browsing-info-description-simplified = { -brand-short-name } изчиства търсенето и историята на разглеждане, когато затворите всички поверителни прозорци, но това не ви прави анонимни.
 about-private-browsing-learn-more-link = Научете повече
 about-private-browsing-hide-activity = Скрийте активността и местоположението си навсякъде, където разглеждате
 about-private-browsing-get-privacy = Получавайте защита на поверителността навсякъде, където разглеждате
 about-private-browsing-prominent-cta = Останете скрити с { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Изтеглете { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Поверително разглеждане в движение
+about-private-browsing-focus-promo-text = Мобилното ни приложение специалното за поверително разглеждане изчиства историята и бисквитките всеки път.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
