@@ -33,6 +33,9 @@ about-private-browsing-focus-promo-text = Falamhaichidh an aplacaid brabhsaidh p
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = Dèan brabhsadh prìobhaideach fiù air an fhòn agad
+about-private-browsing-focus-promo-text-b = Cleachd { -focus-brand-name } airson lorg prìobhaideach a dhèanamh nach eil thu airson ’s gum faic am prìomh bhrabhsair mobile agad e.
+about-private-browsing-focus-promo-header-c = An ath-cheum de phrìobhaideachd mobile
+about-private-browsing-focus-promo-text-c = Falamhaichidh { -focus-brand-name } an eachdraidh agad gach turas agus bacaidh e sanasachd is tracaichean.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
