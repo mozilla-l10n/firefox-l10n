@@ -218,5 +218,17 @@ onboarding-live-language-skip-button-label = Пропускане
 # The English text would normally be "100 Thank-Yous" i.e., plural noun, but for
 # aesthetics of splitting it across multiple lines, the hyphen is omitted.
 fx100-thank-you-hero-text =
-    Хиляди
+    100
     <span data-l10n-name="zap">благодарности</span>
+fx100-thank-you-subtitle = Това е нашето 100-тно издание! Благодарим ви, че ни помагате да изградим по-добър и по-здравословен интернет.
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Закачане на { -brand-short-name } към лентата със задачи
+       *[other] Закачане на { -brand-short-name } към лентата със задачи
+    }
+fx100-upgrade-thanks-header = 100 благодарности
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = Това 100-то издание на { -brand-short-name }. Благодарим <em>ви</em>, че ни помагате да изградим по-добър и по-здравословен интернет.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = Това е нашето 100-тно издание! Благодарим ви, че сте част от нашата общност. Дръжте { -brand-short-name } на едно щракване разстояние за следващите 100.
