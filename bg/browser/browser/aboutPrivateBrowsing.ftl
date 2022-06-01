@@ -23,6 +23,7 @@ about-private-browsing-learn-more-link = Научете повече
 about-private-browsing-hide-activity = Скрийте активността и местоположението си навсякъде, където разглеждате
 about-private-browsing-get-privacy = Получавайте защита на поверителността навсякъде, където разглеждате
 about-private-browsing-prominent-cta = Останете скрити с { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Изтеглете { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Поверително разглеждане в движение
 
 ## The following strings will be used for experiments in Fx99 and Fx100
