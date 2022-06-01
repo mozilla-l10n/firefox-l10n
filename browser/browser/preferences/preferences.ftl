@@ -784,7 +784,10 @@ forms-primary-pw-change =
     .accesskey = П
 forms-primary-pw-fips-title = В момента сте в режим на FIPS. FIPS изисква главна парола.
 forms-master-pw-fips-desc = Грешка при промяна на паролата
+forms-windows-sso =
+    .label = Позволява еднократно вписване от Windows за профили в Microsoft, за работа и за училище
 forms-windows-sso-learn-more-link = Научете повече
+forms-windows-sso-desc = Управление на профили в настройките на устройството
 
 ## OS Authentication dialog
 
@@ -938,6 +941,7 @@ content-blocking-all-windows-tracking-content = Проследяващо съд�
 content-blocking-all-third-party-cookies = Всички странични бисквитки
 content-blocking-cryptominers = Добиване на криптовалути
 content-blocking-fingerprinters = Снемане на цифров отпечатък
+content-blocking-etp-standard-tcp-rollout-learn-more = Научете повече
 content-blocking-warning-title = Внимание!
 content-blocking-warning-learn-how = Научете как
 content-blocking-reload-description = За да бъдат приложени промените, разделите трябва да бъдат презаредени.
