@@ -70,6 +70,7 @@ about-logins-login-intro-heading-logged-in = Не са намерени синх
 login-intro-description = Ако сте запазили данните си за вход в { -brand-product-name } на друго устройство, ето как да ги вземете тук:
 login-intro-instructions-fxa = Създайте или влезте в своята { -fxaccount-brand-name } на устройството, където са запазени вашите данни за вход
 login-intro-instructions-fxa-settings = Отидете в "Настройки" > Sync > Включване на синхронизиране… Изберете отметката за регистрации и пароли.
+login-intro-instructions-fxa-passwords-help = Посетете <a data-l10n-name="passwords-help-link">поддръжка на пароли</a> за помощ.
 about-logins-intro-browser-only-import = Ако вашите регистрации са запазени в друг мрежов четец, можете да ги <a data-l10n-name="import-link">внесете във { -brand-product-name }</a>.
 about-logins-intro-import2 = Ако вашите данни за вписване се съхраняват извън { -brand-product-name }, можете <a data-l10n-name="import-browser-link">да ги внесете от друг четец</a> или <a data-l10n-name="import-file-link">от файл</a>
 
