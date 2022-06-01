@@ -43,6 +43,9 @@ pocket-panel-signup-signup-firefox = Регистриране с { -brand-produc
 pocket-panel-signup-tagline = Запазвайте статии и видео от { -brand-product-name } и можете да ги преглеждате в { -pocket-brand-name } на всяко устройство по всяко време.
 pocket-panel-signup-tagline-story-one = Използвайте бутона на { -pocket-brand-name }, за да запазите статия, видео или страница от { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Преглеждайте в { -pocket-brand-name } на всяко устройство и по всяко време.
+pocket-panel-signup-cta-a-fix = Вашият бутон за запазване за интернет
+pocket-panel-signup-cta-b = Щракнете върху бутона на { -pocket-brand-name }, за да запазите статии, видео и препратки. Преглеждайте списъка на всяко устройство и по всяко време.
+pocket-panel-signup-cta-b-short = Щракнете върху бутона на { -pocket-brand-name }, за да запазите статии, видео и препратки.
 pocket-panel-signup-cta-c = Преглеждайте списъка на всяко устройство и по всяко време.
 
 ## about:pocket-home panel
@@ -55,6 +58,7 @@ pocket-panel-home-discover-more = Открийте повече
 pocket-panel-home-explore-more = Разгледайте
 pocket-panel-home-most-recent-saves = Тук са последните ви запазени неща:
 pocket-panel-home-most-recent-saves-loading = Последно запазените се зареждат…
+pocket-panel-home-new-user-cta = Щракнете върху бутона на { -pocket-brand-name }, за да запазите статии, видео и препратки.
 pocket-panel-home-new-user-message = Вижте какво сте запазили последно.
 
 ## Pocket panel header component
