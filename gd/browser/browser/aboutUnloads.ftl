@@ -8,4 +8,5 @@
 
 about-unloads-column-priority = Prìomhachas
 about-unloads-column-host = Òstair
-
+about-unloads-column-memory = Cuimhne
+    .title = Tuairmeas air a’ chuimhne a chaitheas an taba

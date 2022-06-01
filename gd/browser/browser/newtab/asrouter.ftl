@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Gleus a mholamaid
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Carson a tha mi a’ faicinn seo?
-
 cfr-doorhanger-extension-cancel-button = Chan ann an-dràsta
     .accesskey = d
-
 cfr-doorhanger-extension-ok-button = Cuir ris an-dràsta
     .accesskey = C
-
 cfr-doorhanger-extension-manage-settings-button = Stiùirich roghainnean nam molaidhean
     .accesskey = m
-
 cfr-doorhanger-extension-never-show-recommendation = Na seall am moladh seo dhomh
     .accesskey = s
-
 cfr-doorhanger-extension-learn-more-link = Barrachd fiosrachaidh
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = le { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Moladh
 cfr-doorhanger-extension-notification2 = Moladh
     .tooltiptext = Leudachan a mholamaid
     .a11y-announcement = Tha moladh leudachain ann
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Moladh
@@ -69,9 +61,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } cleachdaiche
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sioncronaich na comharran-lìn agad àite sam bith.
@@ -92,32 +81,10 @@ cfr-protections-panel-link-text = Barrachd fiosrachaidh
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Gleus ùr:
-
 cfr-whatsnew-button =
     .label = Na tha ùr
     .tooltiptext = Na tha ùr
-
 cfr-whatsnew-release-notes-link-text = Leugh na nòtaichean sgaoilidh
-
-## Search Bar
-
-## Search bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -133,25 +100,8 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Seall na h-uile
     .accesskey = S
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Dùin
     .accesskey = D
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -171,18 +121,6 @@ cfr-doorhanger-fission-primary-button = Ceart, tha mi agaibh
 cfr-doorhanger-fission-secondary-button = Barrachd fiosrachaidh
     .accesskey = B
 
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Dh’fhaoidte nach dèid na videothan air an làrach seo a chluich mar bu chòir leis an tionndadh seo dhe { -brand-short-name }. Airson làn-taic ri videothan, ùraich { -brand-short-name } an-dràsta.
@@ -192,13 +130,17 @@ cfr-doorhanger-video-support-primary-button = Ùraich an-dràsta
 
 ## Spotlight modal shared strings
 
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+
 ## Total Cookie Protection Rollout
+
+spotlight-total-cookie-protection-secondary-button = Chan ann an-dràsta
 
 ## Emotive Continuous Onboarding
 
