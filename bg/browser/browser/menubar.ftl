@@ -38,11 +38,9 @@ menu-quit =
             [windows] х
            *[other] х
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Изход от { -brand-shorter-name }
-
 menu-about =
     .label = Относно { -brand-shorter-name }
     .accesskey = О
@@ -72,6 +70,15 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Отваряне…
     .accesskey = о
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [one] Затваряне на раздела
+           *[other] Затваряне на { $tabCount } раздела
+        }
+    .accesskey = З
 menu-file-close-window =
     .label = Затваряне на прозореца
     .accesskey = п
@@ -299,6 +306,9 @@ menu-help-more-troubleshooting-info =
     .accesskey = т
 menu-help-report-site-issue =
     .label = Докладване на проблем със страницата…
+menu-help-share-ideas =
+    .label = Споделяне на идеи и обратна връзка…
+    .accesskey = С
 menu-help-enter-troubleshoot-mode2 =
     .label = Режим за отстраняване на неизправности…
     .accesskey = м
