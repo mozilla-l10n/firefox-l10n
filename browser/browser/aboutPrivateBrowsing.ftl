@@ -19,10 +19,20 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Dèan lorg le { $engine } no cuir a-steach seòladh
 about-private-browsing-handoff-text-no-engine = Cuir ann lorg no seòladh
 about-private-browsing-not-private = Chan eil thu ann an uinneag phrìobhaideach an-dràsta fhèin.
+about-private-browsing-info-description-private-window = Uinneag phrìobhaideach: Falamhaichidh { -brand-short-name } eachdraidh nan lorg is a’ bhrabhsaidh agad nuair a dhùineas tu na h-uinneagan prìobhaideach air fad. Chan eil sin gad fhàgail gu tur gun urra ge-tà.
+about-private-browsing-info-description-simplified = Uinneag phrìobhaideach: Falamhaichidh { -brand-short-name } eachdraidh nan lorg is a’ bhrabhsaidh agad nuair a dhùineas tu na h-uinneagan prìobhaideach air fad ach chan eil sin gad fhàgail gu tur gun urra ge-tà.
 about-private-browsing-learn-more-link = Barrachd fiosrachaidh
+about-private-browsing-hide-activity = Falaich do ghnìomhachd is ionad, ge be càit an dèan thu brabhsadh
+about-private-browsing-get-privacy = Dìon do phrìobhaideachd ge be càit an dèan thu brabhsadh
+about-private-browsing-hide-activity-1 = Falaich do ghnìomhachd brabhsaidh is d’ ionad le { -mozilla-vpn-brand-name }. Gheibh thu ceangal tèarainte le aon bhriogadh, fiù air WiFi poblach.
+about-private-browsing-prominent-cta = Dìon do phrìobhaideachd le { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Luchdaich a-nuas { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Brabhsadh prìobhaideach air an rathad
+about-private-browsing-focus-promo-text = Falamhaichidh an aplacaid brabhsaidh phrìobhaideach shònraichte againn an eachdraidh is na briosgaidean agad gach turas.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = Dèan brabhsadh prìobhaideach fiù air an fhòn agad
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -35,6 +45,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Dùin
-
 about-private-browsing-promo-close-button =
     .title = Dùin
