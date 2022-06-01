@@ -166,6 +166,8 @@ profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-media-label =
     .label = Медия
+profiler-popup-presets-networking-label =
+    .label = Работа в мрежа
 
 ## History panel
 

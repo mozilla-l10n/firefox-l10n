@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Препоръчана възможност
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Защо го виждам?
-
 cfr-doorhanger-extension-cancel-button = Не сега
     .accesskey = н
-
 cfr-doorhanger-extension-ok-button = Добавяне
     .accesskey = д
-
 cfr-doorhanger-extension-manage-settings-button = Управление на настройки за препоръки
     .accesskey = н
-
 cfr-doorhanger-extension-never-show-recommendation = Не ми показвайте тази препоръка
     .accesskey = н
-
 cfr-doorhanger-extension-learn-more-link = Научете повече
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = от { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Препоръка
 cfr-doorhanger-extension-notification2 = Препоръчано
     .tooltiptext = Препоръка за разширение
     .a11y-announcement = Налична е препоръка за разширение
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Препоръка
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = Научете повече
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Нова възможност:
-
 cfr-whatsnew-button =
     .label = Какво е новото
     .tooltiptext = Новото в това издание
-
 cfr-whatsnew-release-notes-link-text = Прочетете бележките към изданието
 
 ## Enhanced Tracking Protection Milestones
@@ -108,6 +98,7 @@ cfr-doorhanger-milestone-close-button = Затваряне
 
 ## DOH Message
 
+cfr-doorhanger-doh-header = По-сигурни, криптирани заявки към DNS
 cfr-doorhanger-doh-primary-button-2 = Добре
     .accesskey = о
 cfr-doorhanger-doh-secondary-button = Изключване
@@ -129,6 +120,10 @@ cfr-doorhanger-video-support-primary-button = Обновяване
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = Научете повече
+    .title = Отворете, за да научите повече
+spotlight-learn-more-expanded = Научете повече
+    .title = Затваряне
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -145,6 +140,9 @@ spotlight-public-wifi-vpn-link = Не сега
 
 ## Total Cookie Protection Rollout
 
+spotlight-total-cookie-protection-secondary-button = Не сега
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = По-добрият интернет започва с вас
+spotlight-pin-secondary-button = Не сега

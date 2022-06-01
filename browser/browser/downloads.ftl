@@ -37,6 +37,10 @@ downloads-cmd-cancel-panel =
 downloads-cmd-use-system-default =
     .label = Отваряне в системен четец
     .accesskey = с
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = Отваряне от { $handler }
+    .accesskey = О
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
@@ -47,6 +51,18 @@ downloads-cmd-always-use-system-default =
 
 downloads-cmd-show-button-2 =
     .tooltiptext =
+        { PLATFORM() ->
+            [macos] Показване в папката
+           *[other] Показване в папката
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Показване в папката
+           *[other] Показване в папката
+        }
+downloads-cmd-show-description-2 =
+    .value =
         { PLATFORM() ->
             [macos] Показване в папката
            *[other] Показване в папката
@@ -72,6 +88,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Почистване на списъка
     .accesskey = п
+downloads-cmd-delete-file =
+    .label = Премахване
+    .accesskey = П
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Разрешаване на изтеглянето
@@ -117,6 +136,8 @@ downloading-file-opens-in-minutes = Отваряне след { $minutes } м�
 downloading-file-opens-in-minutes-and-seconds = Отваряне след { $minutes } минути и { $seconds } секунди
 downloading-file-opens-in-seconds = Отваряне след { $seconds } секунди
 downloading-file-opens-in-some-time = Отваряне, когато приключи…
+downloading-file-click-to-open =
+    .value = Отваряне, когато приключи
 
 ##
 
@@ -144,6 +165,12 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-files-not-downloaded =
+    { $num ->
+        [one] { $num } файл не е изтеглен.
+       *[other] { $num } файла не са изтеглени.
+    }
+downloads-blocked-from-url = Изтеглянията от { $url } са спрени.
 
 ##
 
