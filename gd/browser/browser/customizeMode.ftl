@@ -31,6 +31,7 @@ customize-mode-uidensity-menu-compact-unsupported =
     .tooltiptext = Dùmhlaichte (chan eil taic ris)
 customize-mode-undo-cmd =
     .label = Neo-dhèan
+customize-mode-lwthemes-link = Stiùirich na h-ùrlaran
 customize-mode-touchbar-cmd =
     .label = Gnàthaich am bàr-suathaidh…
 customize-mode-downloads-button-autohide =
