@@ -8,3 +8,4 @@
 more-from-moz-title = Още от { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Още от { -vendor-short-name }
+more-from-moz-learn-more-link = Научете повече
