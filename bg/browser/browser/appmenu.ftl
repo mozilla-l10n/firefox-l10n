@@ -166,14 +166,23 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Препоръчителни предварителни настройки, с малко влияние върху резултата, за отстраняване на грешки в повечето приложения за уеб,
 profiler-popup-presets-web-developer-label =
     .label = Разработчик
+profiler-popup-presets-firefox-description = Препоръчителни предварителни настройки за профилиране на { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description = Предварителни настройки за изследване на дефекти при изчертаване във { -brand-shorter-name }.
+profiler-popup-presets-graphics-label =
+    .label = Изчертаване
+profiler-popup-presets-media-description2 = Предварителни настройки за изследване на дефекти във видео и аудио във { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Медия
+profiler-popup-presets-networking-description = Предварителни настройки за изследване на дефекти при работа с мрежата във { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Работа в мрежа
+profiler-popup-presets-custom-label =
+    .label = Потребителски
 
 ## History panel
 
