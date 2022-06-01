@@ -1017,6 +1017,12 @@ permissions-autoplay-settings =
 permissions-block-popups =
     .label = Спиране на изскачащите прозорци
     .accesskey = С
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Изключения…
+    .accesskey = з
+    .searchkeywords = popup
 permissions-addon-install-warning =
     .label = Предупреждаване при опит на страница да инсталира добавки
     .accesskey = д
