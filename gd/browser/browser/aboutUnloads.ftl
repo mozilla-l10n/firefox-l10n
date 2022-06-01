@@ -6,6 +6,8 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-page-title = A’ dì-luchdadh an taba
+about-unloads-intro = Tha gleus aig { -brand-short-name } a dhì-luchdaicheas tabaichean
 about-unloads-column-priority = Prìomhachas
 about-unloads-column-host = Òstair
 about-unloads-column-memory = Cuimhne
