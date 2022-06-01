@@ -16,10 +16,8 @@ openpgp-one-recipient-status-open-details =
     .label = Avaa yksityiskohdat ja muokkaa hyväksyntää…
 openpgp-one-recipient-status-discover =
     .label = Etsi uusi tai päivitetty avain
-
 openpgp-one-recipient-status-instruction1 = Lähettääksesi päästä päähän -salattuja viestejä vastaanottajan kanssa, sinun tulee saada vastaanottajan julkinen OpenPGP-avain ja merkitä se hyväksytyksi.
 openpgp-one-recipient-status-instruction2 = Saadaksesi julkisen avaimen käyttöön, voit tuoda sellaisen vastaanottajan lähettämästä viestistä, joka sisältää julkisen avaimen. Vaihtoehtoisesti voit etsiä julkista avainta avainhakemistosta.
-
 openpgp-key-own = Hyväksytty (henkilökohtainen avain)
 openpgp-key-secret-not-personal = Ei käyttökelpoinen
 openpgp-key-verified = Hyväksytty (vahvistettu)
@@ -27,6 +25,8 @@ openpgp-key-unverified = Hyväksytty (ei vahvistettu)
 openpgp-key-undecided = Ei hyväksytty (ei päätetty)
 openpgp-key-rejected = Ei hyväksytty (hylätty)
 openpgp-key-expired = Vanhentunut
-
 openpgp-intro = Käytettävissä olevat julkiset avaimet kohteelle { $key }
-
+openpgp-pubkey-import-fpr = Sormenjälki: { $fpr }
+pubkey-import-button =
+    .buttonlabelaccept = Tuo
+    .buttonaccesskeyaccept = T
