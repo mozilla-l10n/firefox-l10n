@@ -788,6 +788,9 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>A bheil thu airson tabaichean a bh’ agad roimhe ath-fhosgladh?</strong> ’S urrainn dhut tabaichean o sheann seisean aiseag o chlàr-taice aplacaid { -brand-short-name } <img data-l10n-name="icon"/>, fo “Eachdraidh”.
+restore-session-startup-suggestion-button = Seall dhomh mar a nì mi seo
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
