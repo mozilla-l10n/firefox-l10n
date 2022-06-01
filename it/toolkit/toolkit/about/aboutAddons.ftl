@@ -338,6 +338,8 @@ theme-disabled-heading = Disattivati
 theme-monochromatic-heading = Tonalità
 theme-monochromatic-subheading = Nuove vibranti tonalità da { -brand-product-name }. Disponibili per un periodo limitato.
 
+theme-colorways-button = Prova nuove tonalità
+
 plugin-enabled-heading = Attivi
 plugin-disabled-heading = Disattivati
 
