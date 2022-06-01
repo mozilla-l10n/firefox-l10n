@@ -123,6 +123,9 @@ profiler-popup-button-idle =
 profiler-popup-button-recording =
     .label = Pròifilear
     .tooltiptext = Tha am pròifilear a’ clàradh pròifil
+profiler-popup-button-capturing =
+    .label = Pròifilear
+    .tooltiptext = Tha am pròifilear ri glacadh pròifil
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -163,6 +166,23 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Recommended preset for most web app debugging, with low overhead.
+profiler-popup-presets-web-developer-label =
+    .label = Web Developer
+profiler-popup-presets-firefox-description = An ro-sheata a mholamaid airson pròifileadh { -brand-shorter-name }.
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description = Preset for investigating graphics bugs in { -brand-shorter-name }.
+profiler-popup-presets-graphics-label =
+    .label = Graphics
+profiler-popup-presets-media-description2 = Preset for investigating audio and video bugs in { -brand-shorter-name }.
+profiler-popup-presets-media-label =
+    .label = Media
+profiler-popup-presets-networking-description = Preset for investigating networking bugs in { -brand-shorter-name }.
+profiler-popup-presets-networking-label =
+    .label = Networking
+profiler-popup-presets-custom-label =
+    .label = Custom
 
 ## History panel
 
