@@ -135,6 +135,16 @@ mr1-onboarding-theme-tooltip-system =
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description = Използва темата на операционната система за бутони, менюта и прозорци.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Светла тема за бутони,
+        менюта и прозорци.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Светла тема за бутони,
+        менюта и прозорци.
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
@@ -172,11 +182,17 @@ mr2-onboarding-colorway-tooltip =
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-label = Разгледайте цветовите комбинации на { $colorwayName }.
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = Разгледайте темите по подразбиране.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = Разгледайте темите по подразбиране.
 
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = Благодарим ви, че избрахте нас
 mr2-onboarding-thank-you-text = { -brand-short-name } е независим четец, поддържан от организация с нестопанска цел. Заедно правим мрежата, по-безопасна, здрава и поверителна.
+mr2-onboarding-start-browsing-button-label = Започнете да разглеждате
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)
 ##
@@ -185,6 +201,22 @@ mr2-onboarding-thank-you-text = { -brand-short-name } е независим че
 ## Variables:
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "Español (ES)"
 
+onboarding-live-language-header = Изберете език
+onboarding-live-language-button-label-downloading = Изтегляне на { $negotiatedLanguage } езиков пакет…
+onboarding-live-language-waiting-button = Зареждане на наличните езици…
+onboarding-live-language-installing = Инсталиране на { $negotiatedLanguage } езиков пакет…
+onboarding-live-language-secondary-cancel-download = Отказ
+onboarding-live-language-skip-button-label = Пропускане
 
 ## Firefox 100 Thank You screens
 
+# "Hero Text" displayed on left side of welcome screen. This text can be
+# formatted to span multiple lines as needed. The <span data-l10n-name="zap">
+# </span> in this string allows a "zap" underline style to be automatically
+# added to the text inside it. "Yous" should stay inside the zap span, but
+# "Thank" can be put inside instead if there's no "you" in the translation.
+# The English text would normally be "100 Thank-Yous" i.e., plural noun, but for
+# aesthetics of splitting it across multiple lines, the hyphen is omitted.
+fx100-thank-you-hero-text =
+    Хиляди
+    <span data-l10n-name="zap">благодарности</span>
