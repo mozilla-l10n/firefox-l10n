@@ -44,6 +44,9 @@ pocket-panel-signup-tagline = Sàbhail artaigilean is videothan o { -brand-produ
 pocket-panel-signup-tagline-story-one = Briog air a’ phutan { -pocket-brand-name } gus artaigeal, video no duilleag a shàbhaladh o { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Seall ann am { -pocket-brand-name } air uidheam sam bith, uair sam bith.
 pocket-panel-signup-cta-a-fix = Am putan sàbhalaidh agad airson an eadar-lìn
+pocket-panel-signup-cta-b = Briog air putan { -pocket-brand-name } airson artaigealan, videothan is ceanglaichean a shàbhaladh is faic an liosta agad air uidheam sam bith, uair sam bith.
+pocket-panel-signup-cta-b-short = Briog air putan { -pocket-brand-name } airson artaigealan, videothan is ceanglaichean a shàbhaladh.
+pocket-panel-signup-cta-c = Faic an liosta agad air uidheam sam bith, uair sam bith.
 
 ## about:pocket-home panel
 
@@ -55,6 +58,7 @@ pocket-panel-home-discover-more = Fidir barrachd
 pocket-panel-home-explore-more = Rùraich
 pocket-panel-home-most-recent-saves = Seo na shàbhail thu o chionn goirid:
 pocket-panel-home-most-recent-saves-loading = A’ luchdadh na shàbhail thu o chionn goirid…
+pocket-panel-home-new-user-cta = Briog air putan { -pocket-brand-name } airson artaigealan, videothan is ceanglaichean a shàbhaladh.
 pocket-panel-home-new-user-message = Faic na shàbhail thu o chionn goirid an-seo.
 
 ## Pocket panel header component
@@ -65,3 +69,5 @@ pocket-panel-header-sign-in = Clàraich a-steach
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Seall na h-uile
+pocket-panel-button-activate = Gnìomhaich { -pocket-brand-name } ann am { -brand-product-name }
+pocket-panel-button-remove = Thoir air falbh

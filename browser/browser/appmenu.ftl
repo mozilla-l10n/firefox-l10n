@@ -7,19 +7,14 @@
 
 appmenuitem-banner-update-downloading =
     .label = A’ luchdadh a-nuas ùrachadh { -brand-shorter-name }
-
 appmenuitem-banner-update-available =
     .label = Tha ùrachadh ri fhaighinn – luchdaich a-nuas e an-dràsta
-
 appmenuitem-banner-update-manual =
     .label = Tha ùrachadh ri fhaighinn – luchdaich a-nuas e an-dràsta
-
 appmenuitem-banner-update-unsupported =
     .label = Chan urrainn dhuinn ùrachadh – chan eil an siostam co-chòrdail
-
 appmenuitem-banner-update-restart =
     .label = Tha ùrachadh ri fhaighinn – ath-thòisich an-dràsta
-
 appmenuitem-new-tab =
     .label = Taba ùr
 appmenuitem-new-window =
@@ -56,7 +51,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Dùin clàr-taice na h-aplacaid
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -77,30 +71,23 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Clàraich a-steach a shioncronachadh…
 appmenu-remote-tabs-turn-on-sync =
     .label = Cuir an sioncronachadh air…
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Seall barrachd tabaichean
     .tooltiptext = Seall barrachd thabaichean on uidheam seo
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Chan eil taba fosgailte
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Cuir air sioncronachadh nan tabaichean airson cothrom fhaighinn air na tabaichean agad o uidheaman eile.
-
 appmenu-remote-tabs-opensettings =
     .label = Roghainnean
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = A bheil thu airson na tabaichean a tha agad air uidheaman eile fhaicinn an-seo?
-
 appmenu-remote-tabs-connectdevice =
     .label = Ceangail uidheam eile ris
 appmenu-remote-tabs-welcome = Seall liosta nan tabaichean a tha agad air uidheaman eile.
 appmenu-remote-tabs-unverified = Tha an cunntas agad feumach air dearbhadh.
-
 appmenuitem-fxa-toolbar-sync-now2 = Sioncronaich an-dràsta
 appmenuitem-fxa-sign-in = Clàraich a-steach gu { -brand-product-name }
 appmenuitem-fxa-manage-account = Stiùirich an cunntas
@@ -114,14 +101,12 @@ appmenu-fxa-sync-and-save-data2 = Sioncronaich is sàbhail an dàta
 appmenu-fxa-signed-in-label = Clàraich a-steach
 appmenu-fxa-setup-sync =
     .label = Cuir an sioncronachadh air…
-
 appmenuitem-save-page =
     .label = Sàbhail an duilleag mar…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Na tha ùr
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -135,45 +120,35 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Pròifilear
     .tooltiptext = Clàraich pròifil deanadais
-
+profiler-popup-button-recording =
+    .label = Pròifilear
+    .tooltiptext = Tha am pròifilear a’ clàradh pròifil
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Nochd barrachd fiosrachaidh
-
 profiler-popup-description-title =
     .value = Clàraich, sgrùd, co-roinn
-
 profiler-popup-description = Obraich còmhla air duilgheadasan leis an dèanadas a dh’fhoillseachadh pròifilean a cho-roinneas tu leis an sgioba agad.
-
 profiler-popup-learn-more-button =
     .label = Barrachd fiosrachaidh
-
 profiler-popup-settings =
     .value = Roghainnean
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Deasaich na roghainnean…
-
 profiler-popup-recording-screen = ’Ga chlàradh…
-
 profiler-popup-start-recording-button =
     .label = Tòisich air clàradh
-
 profiler-popup-discard-button =
     .label = Tilg air falbh
-
 profiler-popup-capture-button =
     .label = Glac
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -248,7 +223,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Gnàthaich am bàr-inneal...
-
 appmenu-developer-tools-subheader = Innealan a’ bhrabhsair
 appmenu-developer-tools-extensions =
     .label = Leudachain do luchd-leasachaidh
