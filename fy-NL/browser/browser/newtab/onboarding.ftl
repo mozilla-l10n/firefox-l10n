@@ -3,11 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### UI strings for the simplified onboarding / multistage about:welcome
-### Various strings use a non-breaking space to avoid a single dangling /
-### widowed word, so test on various window sizes if you also want this.
-
-
 ### UI strings for the MR1 onboarding / multistage about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -28,9 +23,6 @@ return-to-amo-subtitle = Geweldich, jo hawwe { -brand-short-name }
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-title = Litte wy no<img data-l10n-name="icon"/><b>{ $addon-name }</b> ophelje.
 return-to-amo-add-extension-label = De útwreiding tafoegje
-
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
-
 return-to-amo-add-theme-label = It tema tafoegje
 
 ## Multistage onboarding strings (about:welcome pages)
@@ -41,7 +33,6 @@ return-to-amo-add-theme-label = It tema tafoegje
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Oan de slach: skerm { $current } fan { $total }
-
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -50,13 +41,11 @@ onboarding-welcome-steps-indicator =
 # An alternative title for localization is: "It starts here".
 # This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = It fjoer begjint hjir
-
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio – Meubelûntwerper, Firefox-fan
-
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Animaasjes útskeakelje
 
@@ -82,11 +71,9 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Begjinne
-
 mr1-onboarding-welcome-header = Wolkom by { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } myn foarkarsbrowser meitsje
     .title = Stelt { -brand-short-name } yn as standertbrowser en makket it oan de taakbalke fêst
-
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } myn foarkarsbrowser meitsje
@@ -104,16 +91,13 @@ mr1-onboarding-default-primary-button-label = Standertbrowser meitsje
 
 mr1-onboarding-import-header = Nim alles mei jo mei
 mr1-onboarding-import-subtitle = Ymportearje jo wachtwurden, <br/>blêdwizers en mear.
-
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Ymportearje út { $previous }
-
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Ymportearje út foarige browser
 mr1-onboarding-import-secondary-button-label = No net
-
 mr2-onboarding-colorway-header = Libben yn kleur
 mr2-onboarding-colorway-subtitle = Libbene nije kleuren. Beskikber foar in beheinde tiid.
 mr2-onboarding-colorway-primary-button-label = Kleurstelling bewarje
@@ -123,21 +107,16 @@ mr2-onboarding-colorway-label-balanced = Balansearre
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = Stevich
-
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Automatysk
-
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = Standert
-
 mr1-onboarding-theme-header = Meitsje it fan josels
 mr1-onboarding-theme-subtitle = Personalisearje { -brand-short-name } mei in tema.
 mr1-onboarding-theme-primary-button-label = Tema bewarje
 mr1-onboarding-theme-secondary-button-label = No net
-
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Systeemtema
-
 mr1-onboarding-theme-label-light = Ljocht
 mr1-onboarding-theme-label-dark = Donker
 # "Alpenglow" here is the name of the theme, and should be kept in English.
@@ -148,87 +127,66 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-## Multistage MR1 onboarding strings (MR1 about:welcome pages)
-
 # Tooltip displayed on hover of system theme
 mr1-onboarding-theme-tooltip-system =
     .title =
         It tema fan it bestjoeringssysteem
         foar knoppen, menu’s en finsters folgje.
-
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         It tema fan it bestjoeringssysteem
         foar knoppen, menu’s en finsters folgje.
-
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         In ljocht tema brûke foar knoppen,
         menu‘s en finsters.
-
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         In ljocht tema brûke foar knoppen,
         menu‘s en finsters.
-
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         In donker tema brûke foar knoppen,
         menu‘s en finsters.
-
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         In donker tema brûke foar knoppen,
         menu‘s en finsters.
-
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         In dynamysk, kleurryk tema brûke foar knoppen,
         menu’s en finsters.
-
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         In dynamysk, kleurryk tema brûke foar knoppen,
         menu’s en finsters.
-
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = Dizze kleurstelling brûke
-
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = Dizze kleurstelling brûke.
-
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
     .title = Kleurstellingen { $colorwayName } ûntdekke.
-
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-label = Kleurstellingen { $colorwayName } ûntdekke.
-
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Standerttema’s ferkenne.
-
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Standerttema’s ferkenne.
 
@@ -243,23 +201,12 @@ mr2-onboarding-start-browsing-button-label = Start mei browsen
 ## The following language names are generated by the browser's Intl.DisplayNames API.
 ##
 ## Variables:
-##   $appLanguage (String) - The name of Firefox's language, e.g. "American English"
-##   $systemLanguage (String) - The name of the OS's language, e.g. "European Spanish"
-##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "European Spanish"
-
-
-## Multistage live language reloading onboarding strings (about:welcome pages)
-##
-## The following language names are generated by the browser's Intl.DisplayNames API.
-##
-## Variables:
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "Español (ES)"
 
 onboarding-live-language-header = Kies jo taal
-
-onboarding-live-language-button-label-downloading = It taalpakket downloade foar { $negotiatedLanguage }...
-onboarding-live-language-waiting-button = Beskikbere talen ophelje...
-onboarding-live-language-installing = It taalpakket foar { $negotiatedLanguage } ynstallearje...
+onboarding-live-language-button-label-downloading = It taalpakket downloade foar { $negotiatedLanguage }…
+onboarding-live-language-waiting-button = Beskikbere talen ophelje…
+onboarding-live-language-installing = It taalpakket foar { $negotiatedLanguage } ynstallearje…
 onboarding-live-language-secondary-cancel-download = Annulearje
 onboarding-live-language-skip-button-label = Oerslaan
 
@@ -282,7 +229,6 @@ fx100-thank-you-pin-primary-button-label =
         [macos] { -brand-short-name } oan de Dock fêstmeitsje
        *[other] { -brand-short-name } oan de taakbalke fêstmeitsje
     }
-
 fx100-upgrade-thanks-header = 100 kear tank
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
