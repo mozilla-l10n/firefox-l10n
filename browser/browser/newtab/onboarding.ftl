@@ -3,11 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### UI strings for the simplified onboarding / multistage about:welcome
-### Various strings use a non-breaking space to avoid a single dangling /
-### widowed word, so test on various window sizes if you also want this.
-
-
 ### UI strings for the MR1 onboarding / multistage about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -28,8 +23,7 @@ return-to-amo-subtitle = Страхотно е че имате { -brand-short-na
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-title = Сега нека инсталираме <img data-l10n-name="icon"/><b>{ $addon-name }.</b>
 return-to-amo-add-extension-label = Добавяне на разширението
-
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
+return-to-amo-add-theme-label = Добавяне на темата
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -39,7 +33,6 @@ return-to-amo-add-extension-label = Добавяне на разширениет
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Първи стъпки: екран { $current } от { $total }
-
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -50,13 +43,11 @@ onboarding-welcome-steps-indicator =
 mr1-welcome-screen-hero-text =
     Жегата започва
     тук
-
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Сорая Осорио - дизайнер на мебели, почитателка на Firefox
-
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Изключване на анимации
 
@@ -82,11 +73,9 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Въведение
-
 mr1-onboarding-welcome-header = Добре дошли при { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Избиране на { -brand-short-name } за основен четец
     .title = Задава { -brand-short-name } за четец по подразбиране и го закача към лентата със задачи
-
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Избиране на { -brand-short-name } за стандартен четец
@@ -104,16 +93,13 @@ mr1-onboarding-default-primary-button-label = Избиране като стан
 
 mr1-onboarding-import-header = Вземете всичко със себе си
 mr1-onboarding-import-subtitle = Внесете паролите си,<br/>отметките си и други.
-
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Внасяне от { $previous }
-
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Внасяне от предишен четец
 mr1-onboarding-import-secondary-button-label = Не сега
-
 mr2-onboarding-colorway-header = Цветен живот
 mr2-onboarding-colorway-subtitle = Изразителни цветни комбинации. Достъпни за ограничен период.
 mr2-onboarding-colorway-primary-button-label = Запазване на цветовата комбинация
@@ -123,21 +109,16 @@ mr2-onboarding-colorway-label-balanced = Умерена
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = Ярка
-
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Авто
-
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = По подразбиране
-
 mr1-onboarding-theme-header = По свой вкус
 mr1-onboarding-theme-subtitle = Приспособете { -brand-short-name } с тема.
 mr1-onboarding-theme-primary-button-label = Запазване на тема
 mr1-onboarding-theme-secondary-button-label = Не сега
-
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Системна тема
-
 mr1-onboarding-theme-label-light = Светла
 mr1-onboarding-theme-label-dark = Тъмна
 # "Alpenglow" here is the name of the theme, and should be kept in English.
@@ -148,62 +129,45 @@ mr1-onboarding-theme-label-alpenglow = Сияйни Алпи
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-## Multistage MR1 onboarding strings (MR1 about:welcome pages)
-
 # Tooltip displayed on hover of system theme
 mr1-onboarding-theme-tooltip-system =
     .title = Използва темата на операционната система за бутони, менюта и прозорци.
-
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description = Използва темата на операционната система за бутони, менюта и прозорци.
-
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Тъмна тема за бутони,
         менюта и прозорци.
-
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Тъмна тема за бутони,
         менюта и прозорци.
-
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Динамична и цветна тема за бутони,
         менюта и прозорци.
-
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Динамична и цветна тема за бутони,
         менюта и прозорци.
-
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = Използвайте тази цветна комбинация
-
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = Използвайте тази цветна комбинация
-
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
     .title = Разгледайте цветовите комбинации на { $colorwayName }.
-
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway

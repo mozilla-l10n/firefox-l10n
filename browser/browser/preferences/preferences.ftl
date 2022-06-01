@@ -85,6 +85,9 @@ extension-controlling-privacy-containers = Разширението „<img data
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = Разширението „<img data-l10n-name="icon"/> <strong>{ $name }</strong>“ управлява тази настройка.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = Разширението „<img data-l10n-name="icon"/> <strong>{ $name }</strong>“ управлява как { -brand-short-name } се свързва с интернет.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -101,7 +104,7 @@ search-results-help-link = Имате нужда от помощ? Посетет
 
 ## General Section
 
-startup-header = Начална страница
+startup-header = Стартиране
 always-check-default =
     .label = Проверяване дали { -brand-short-name } е стандартният четец
     .accesskey = ч
@@ -177,11 +180,16 @@ containers-remove-cancel-button = Запазване
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Език и изглед
+preferences-web-appearance-header = Изглед на страниците
 preferences-web-appearance-description = Някои страници адаптират цветовете си въз основа на вашите предпочитания. Изберете цветовата схема, която да бъде използвана за такива страници.
 preferences-web-appearance-choice-browser = Тема на { -brand-short-name }
 preferences-web-appearance-choice-system = Спрямо системата
 preferences-web-appearance-choice-light = Светла
 preferences-web-appearance-choice-dark = Тъмна
+preferences-web-appearance-choice-tooltip-light =
+    .title = Да се ползва светъл външен вид за фон и съдържание на страниците.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Да се ползва тъмен външен вид за фон и съдържание на страниците.
 preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
@@ -415,6 +423,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Плавно плъзгане
     .accesskey = л
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Лентите за превъртане да са винаги видими
+    .accesskey = Л
 browsing-use-onscreen-keyboard =
     .label = Показване на клавиатура за докосване, при необходимост
     .accesskey = д
@@ -767,7 +778,7 @@ forms-primary-pw-learn-more-link = Научете повече
 # when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Промяна на главна парола…
-    .accesskey = л
+    .accesskey = г
 forms-primary-pw-change =
     .label = Промяна на главна парола…
     .accesskey = П
