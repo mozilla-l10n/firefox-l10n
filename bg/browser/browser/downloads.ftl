@@ -46,9 +46,20 @@ downloads-cmd-use-system-default-named =
 downloads-cmd-always-use-system-default =
     .label = Отваряне в системен четец
     .accesskey = с
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = Винаги да се отваря от { $handler }
+    .accesskey = В
 
 ##
 
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Винаги да се отварят подобни файлове
+    .accesskey = ф
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
