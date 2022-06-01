@@ -54,6 +54,8 @@ pocket-panel-home-explore-popular-topics = Преглед на популярн�
 pocket-panel-home-discover-more = Открийте повече
 pocket-panel-home-explore-more = Разгледайте
 pocket-panel-home-most-recent-saves = Тук са последните ви запазени неща:
+pocket-panel-home-most-recent-saves-loading = Последно запазените се зареждат…
+pocket-panel-home-new-user-message = Вижте какво сте запазили последно.
 
 ## Pocket panel header component
 
@@ -63,4 +65,5 @@ pocket-panel-header-sign-in = Вписване
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Показване на всички
+pocket-panel-button-activate = Включете { -pocket-brand-name } във { -brand-product-name }
 pocket-panel-button-remove = Премахване
