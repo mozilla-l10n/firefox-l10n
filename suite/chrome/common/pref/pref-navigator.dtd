@@ -31,6 +31,12 @@
 <!ENTITY restoreDeferred.label          "Alleen tabbladen herstellen wanneer ik ze nodig heb">
 <!ENTITY restoreDeferred.accesskey      "A">
 
+<!ENTITY siteIcons.label                "Websitepictogrammen">
+<!ENTITY useSiteIcons.label             "Websitepictogrammen tonen">
+<!ENTITY useSiteIcons.accesskey         "W">
+<!ENTITY useFavIcons.label              "De favicon van de server proberen te gebruiken als de pagina er geen definieert">
+<!ENTITY useFavIcons.accesskey          "P">
+
 <!ENTITY homePageIntro.label            "Op de knop Startpagina klikken brengt u naar deze pagina of groep pagina’s.">
 <!ENTITY useCurrent.label               "Huidige pagina gebruiken">
 <!ENTITY useCurrent.accesskey           "u">
@@ -40,4 +46,3 @@
 <!ENTITY browseFile.accesskey           "k">
 <!ENTITY useDefault.label               "Standaardinstelling herstellen">
 <!ENTITY useDefault.accesskey           "n">
-

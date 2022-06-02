@@ -10,6 +10,8 @@
 <!ENTITY background.label "Naar vanuit koppelingen geopende nieuwe tabbladen schakelen">
 <!ENTITY background.accesskey "s">
 <!ENTITY diverted.label "Naar vanuit omgeleide koppelingen geopende nieuwe tabbladen schakelen">
+<!ENTITY diverted.accesskey "a">
+<!ENTITY browserFocus.accesskey "F">
 <!ENTITY warnOnClose.label "Mij waarschuwen bij het sluiten van een venster met meerdere tabbladen">
 <!ENTITY warnOnClose.accesskey "n">
 <!ENTITY relatedAfterCurrent.label "Gerelateerde tabbladen openen na het huidige tabblad">
