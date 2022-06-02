@@ -19,7 +19,7 @@
 <!ENTITY bccAddress.accesskey "C">
 <!ENTITY bccAddressList.placeholder "Separe endereços com vírgulas">
 <!ENTITY saveMessageDlg.label "Mostrar diálogo de confirmação ao salvar mensagens">
-<!ENTITY saveMessageDlg.accesskey "N">
+<!ENTITY saveMessageDlg.accesskey "M">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Pasta &quot;Enviados&quot; em:">
 <!ENTITY sentFolderOn.accesskey "E">
