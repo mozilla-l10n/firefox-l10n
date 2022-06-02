@@ -94,6 +94,8 @@ perftools-thread-dns-resolver =
     .title = La resolucion DNS se passa sus aqueste fial
 perftools-thread-task-controller =
     .title = Fil d’execucion del grop de fils d’execucion de TaskController
+perftools-thread-jvm-gecko =
+    .title = Fil d’execucion principal de Gecko JVM
 
 ##
 
