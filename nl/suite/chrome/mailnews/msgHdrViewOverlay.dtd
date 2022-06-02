@@ -23,6 +23,11 @@
 <!ENTITY inReplyToField.label "In-antwoord-op: ">
 <!ENTITY originalWebsite.label "Website: ">
 
+<!ENTITY editDraft.label                   "Concept bewerken…">
+<!ENTITY editDraft.accesskey               "w">
+<!ENTITY editTemplate.label                "Sjabloon bewerken…">
+<!ENTITY editTemplate.accesskey            "w">
+
 <!ENTITY attachmentsTree.label             "Bijlagen:">
 <!ENTITY attachmentsTree.accesskey         "n">
 <!ENTITY openAttachmentCmd.label           "Openen">

@@ -9,3 +9,5 @@
 
 <!ENTITY  resetpassword.caption                  "Hoofdwachtwoord herinitialiseren">
 <!ENTITY  resetpassword.text                     "Als u uw hoofdwachtwoord opnieuw instelt, zullen al uw opgeslagen web- en e-mailwachtwoorden, formuliergegevens, persoonlijke certificaten en privésleutels verloren gaan.">
+<!ENTITY  resetpassword2.button                  "Wachtwoord herinitialiseren">
+<!ENTITY  resetpassword2.accesskey               "r">

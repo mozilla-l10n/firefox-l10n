@@ -313,6 +313,17 @@
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Bijlage">
 <!ENTITY forwardAsAttachmentCmd.accesskey "B">
+<!ENTITY editAsNewMsgCmd.label "Bewerken als nieuw bericht">
+<!ENTITY editAsNewMsgCmd.accesskey "B">
+<!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Conceptbericht bewerken">
+<!ENTITY editDraftMsgCmd.accesskey "C">
+<!ENTITY editTemplateMsgCmd.label "Sjabloon bewerken">
+<!ENTITY editTemplateMsgCmd.accesskey "j">
+<!ENTITY newMsgFromTemplateCmd.label "Nieuw bericht op basis van sjabloon">
+<!-- LOCALIZATION NOTE (newMsgFromTemplateCmd.keycode):
+     Do not localize VK_RETURN. -->
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN">
 <!ENTITY createFilter.label "Filter maken op basis van bericht…">
 <!ENTITY createFilter.accesskey "F">
 <!ENTITY archiveMsgCmd.label "Archiveren">
@@ -465,6 +476,12 @@
 <!ENTITY contextOpenNewWindow.accesskey "B">
 <!ENTITY contextOpenNewTab.label "Bericht openen in nieuw tabblad">
 <!ENTITY contextOpenNewTab.accesskey "a">
+<!ENTITY contextEditMsgAsNew.label "Bewerken als nieuw bericht">
+<!ENTITY contextEditMsgAsNew.accesskey "n">
+<!ENTITY contextEditDraftMsg.label "Conceptbericht bewerken">
+<!ENTITY contextEditTemplate.label "Sjabloon bewerken">
+<!ENTITY contextEditTemplate.accesskey "l">
+<!ENTITY contextNewMsgFromTemplate.label "Nieuw bericht op basis van sjabloon">
 <!ENTITY contextReplySender.label "Afzender beantwoorden">
 <!ENTITY contextReplySender.accesskey "a">
 <!ENTITY contextReplyList.label "Lijst beantwoorden">

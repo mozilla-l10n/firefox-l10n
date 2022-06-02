@@ -8,6 +8,7 @@
 
 <!ENTITY markAsUnreadCmd.label     "Als ongelezen">
 <!ENTITY markAsUnreadCmd.accesskey "o">
+<!ENTITY markAsUnreadCmd2.key      "u">
 
 <!ENTITY markFlaggedCmd.label     "Markeren">
 <!ENTITY markFlaggedCmd.accesskey "M">

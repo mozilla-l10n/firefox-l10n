@@ -23,7 +23,6 @@
 <!ENTITY maxZoom.label                          "tot en met">
 <!ENTITY maxZoom.accesskey                      "t">
 <!ENTITY percent.label                          "&#37;">
-
 <!ENTITY defaultZoom.label                      "Standaard zoom">
 <!ENTITY defaultZoom.accesskey                  "z">
 
@@ -32,9 +31,9 @@
 <!ENTITY siteSpecific.label                     "Zoomniveau op paginabasis onthouden">
 <!ENTITY siteSpecific.accesskey                 "o">
 <!ENTITY showZoomStatusPanel.label              "Zoombediening in de statusbalk tonen">
+<!ENTITY showZoomStatusPanel.accesskey          "Z">
 <!ENTITY enableAutomaticImageResizing.label     "Formaat van grote afbeeldingen aanpassen aan browservenster">
 <!ENTITY enableAutomaticImageResizing.accesskey "F">
 
 <!ENTITY allowHWAccel.label                     "Hardwareversnelling gebruiken wanneer beschikbaar">
 <!ENTITY allowHWAccel.accesskey                 "v">
-

@@ -38,3 +38,5 @@
 <!ENTITY blockWebForgeries.label          "Gerapporteerde webvervalsingen blokkeren (phishing)">
 <!ENTITY blockWebForgeries.accesskey      "G">
 
+<!ENTITY blockAutoRefresh.label           "Mij waarschuwen wanneer websites proberen de pagina door te sturen of te herladen">
+<!ENTITY blockAutoRefresh.accesskey       "r">
