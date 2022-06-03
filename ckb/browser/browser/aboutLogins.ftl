@@ -4,12 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = چوونەژوورەوە و وشەی تێپەڕەکان
-
 login-filter =
     .placeholder = گەڕان بۆ چوونەژوورەوەکان
-
 create-login-button = چوونەژوورەوە دروست بکە
-
 fxaccounts-sign-in-text = وشەی تێپەڕەکەت لە ئامێرەکانی ترەوە بەدەستبهێنە
 fxaccounts-sign-in-sync-button = بۆ هاوکاتکردن بچۆژوورەوە
 fxaccounts-avatar-button =
@@ -43,6 +40,8 @@ login-list-count =
 login-list-sort-label-text = ڕێکی بەپێی:
 login-list-name-option = ناو(A-Z)
 login-list-name-reverse-option = ناو (Z-A)
+login-list-username-option = بەکاربەر (ا-ی)
+login-list-username-reverse-option = بەکاربەر (ی-ا)
 about-logins-login-list-alerts-option = ئاگادارییەکان
 login-list-last-changed-option = دووا دەستکاری
 login-list-last-used-option = دووا بەکارهێنان
@@ -57,6 +56,7 @@ about-logins-list-item-breach-icon =
     .title = ماڵپەڕی پێشێلکراو
 about-logins-list-item-vulnerable-password-icon =
     .title = وشەی تێپەڕ ئاسانە
+about-logins-list-section-breach = وێبگە شکاوەکان
 about-logins-list-section-vulnerable = وشەی تێپەڕی گوماناوی
 about-logins-list-section-nothing = بێ ئاگادارکردنەوە
 about-logins-list-section-today = ئەمڕۆ
@@ -69,6 +69,9 @@ about-logins-login-intro-heading-logged-out2 = بۆ چوونەژوورەوە پ�
 about-logins-login-intro-heading-logged-in = هیچ چوونەژوورەوەک هاوکەتگەری نەکراوە.
 login-intro-description = ئەگەر چوونەژوورەوەکانی پاشەکەوت کردووە لە { -brand-product-name } لە ئامێرێکی تر، ئەوە لێرەوە بزانە چۆن بەدەستیان دێنیتەوە:
 login-intro-instructions-fxa = هەژمار درووست بکە یا بچۆژوورەوە بۆ { -fxaccount-brand-name } لەو ئامێرەی کە چوونەژوورەوەکانتی تێدایە
+login-intro-instructions-fxa-settings = بڕۆ بۆ ڕێکخستنەکان > هاوکاتکردن > هاوکاتکردن داگیرسێنە > چوارگۆشەکەی چوونەژوورەوە و تێپەڕەوشەکان هەڵبژێرە
+login-intro-instructions-fxa-passwords-help = سەردانی <a data-l10n-name="passwords-help-link"> بکە هاوکاریی تێپەڕەوشەکان </a> بکە بۆ یارمەتیی زیاتر.
+about-logins-intro-browser-only-import = ئەگەر چوونەژوورەوەکانت لە وێبگەڕێکی تردا پاشەکەوت کرابن، ئەوا دەتوانیت <a data-l10n-name="import-link"> هاوردەیان بکەیت بۆ { -brand-product-name }</a>
 about-logins-intro-import2 = ئەگەر چوونەژوورەوەکانت لە دەرەوەی { -brand-product-name }ـە، ئەتوانی <a data-l10n-name="import-browser-link">بیانهێنیت لە وێبگەڕێکی ترەوە</a> یان <a data-l10n-name="import-file-link"> لە پەڕگەیەکەوە</a>
 
 ## Login
@@ -77,6 +80,7 @@ login-item-new-login-title = چوونەژوورەوە دروست بکە
 login-item-edit-button = دەستکاریکردن
 about-logins-login-item-remove-button = بیسڕەوە
 login-item-origin-label = ناونیشانی ماڵپەڕ
+login-item-tooltip-message = دڵنیابەرەوە لەوەی ئەمە هاوتایە لەگەڵ ناونیشانی تەواوەتیی ئەو وێبگەیەی لێوەی چوویتەتە ژوورەوە.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ناوی بەکارهێنەر
@@ -109,19 +113,16 @@ about-logins-edit-login-os-auth-dialog-message-win = بۆ دەستکاریکرد
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = چوونەژوورەوەی هەڵگیراو دەستکاریبکە
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = بۆ بینینی وشەنهێنیەکانت، وشەنهێنی ویندۆزەکەت بنوسە. ئەمە یارمەتی ئەدات بۆ پاراستنی هەژمارەکانت.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = وشەی تێپەڕی هەڵگیراو پیشان بدە
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = بۆ کۆپیکردنی وشەنهێنیەکەت، زانیاری چوونەژووری ویندۆزەکەت بنوسە. ئەمە یارمەتیدەرە بۆ پاراستنی هەژمارەکانت.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = وشەی تێپەڕی هەڵگیراو لەبەربگرەوە
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = بۆ دەرهێنانی چوونەژوورەکانت، زانیاریەکانی چوونەژووری ویندۆز بنوسە. ئەمە یارمەتیدەرە بۆ پاراستنی هەژمارەکانت.
 # This message can be seen when attempting to export a password in about:logins
@@ -140,36 +141,30 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = پاشگەزبوونەوە
 confirmation-dialog-dismiss-button =
     .title = پاشگەزبوونەوە
-
 about-logins-confirm-remove-dialog-title = ئەم چوونەژورەوە دەسڕیتەوە؟
 confirm-delete-dialog-message = ئەم کارە پاشگەزبوونەوەی نیە.
 about-logins-confirm-remove-dialog-confirm-button = بیسڕەوە
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] بەڵی، ئەم چوونەژورەوەیە بسڕەوە
         [one] بەڵی، ئەم چوونەژورەوانە بسڕەوە
        *[other] بەڵی، ئەم چوونەژورەوانە بسڕەوە
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] { $count } چوونەژوورەوە دەسڕیتەوە؟
        *[other] { $count } چوونەژوورەوە دەسڕیتەوە؟
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] { $count } چوونەژوورەوە دەسڕیتەوە لە هەموو ئامێرەکان؟
        *[other] { $count } چوونەژوورەوە دەسڕیتەوە لە هەموو ئامێرەکان؟
     }
-
 about-logins-confirm-export-dialog-title = چوونەژوورەوە و وشەی تێپەڕەکان دەربهێنە
 about-logins-confirm-export-dialog-message = وشەنهێنیەکانت پاشەکەوت ئەکرێن وەک دەقێکی خوێنراوە (نمونە BadP@ssw0rd) بەشێوەیەک هەموو کەسێک پەڕگە دەرکراوەکە بکاتەوە و بیان بینێت.
 about-logins-confirm-export-dialog-confirm-button = هەناردەکردن...
-
 about-logins-alert-import-title = هاوردەکردن تەواو بوو
-
+about-logins-alert-import-message = وردەکاریی پوختەی هاوردەکردن ببینە
 confirm-discard-changes-dialog-title = هەڵوەشاندنەوەی گۆڕانکارییە پاشەکەوت نەکراوەکان؟
 confirm-discard-changes-dialog-message = هەموو گۆڕانکارییە پاشەکەوتکراوەکان دەفەوتێت.
 confirm-discard-changes-dialog-confirm-button = هەڵیبوەشێنەوە
@@ -177,6 +172,7 @@ confirm-discard-changes-dialog-confirm-button = هەڵیبوەشێنەوە
 ## Breach Alert notification
 
 about-logins-breach-alert-title = دزەپێکردنی ماڵپەڕ
+breach-alert-text = تێپەڕەوشەکان دزەیان کردووە یاخود دزراون لەم وێبگەیەوە لە دوایین جارەوە کە وردەکاریی چوونەژوورەوەت هاوڕۆژ کردەوە. تێپەڕەوشەکەت بگۆڕە بۆ پاراستنی هەژمارەکەت.
 about-logins-breach-alert-date = ئەم دزەپێکردنەوە دۆزراوەتەوە لە { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
@@ -230,7 +226,6 @@ about-logins-import-file-picker-csv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-done = تەواو
-
 about-logins-import-dialog-error-learn-more = زیاتر بزانە
 about-logins-import-dialog-error-cancel = پاشگەزبوونەوە
 
