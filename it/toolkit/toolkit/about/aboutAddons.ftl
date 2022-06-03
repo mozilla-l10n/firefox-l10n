@@ -52,6 +52,9 @@ detail-version =
 detail-last-updated =
     .label = Ultimo aggiornamento
 
+addon-detail-description-expand = Mostra altro
+addon-detail-description-collapse = Mostra meno
+
 detail-contributions-description = Lo sviluppatore di questo componente aggiuntivo chiede agli utenti una piccola donazione per contribuire al suo sviluppo.
 
 detail-contributions-button = Fai una donazione
