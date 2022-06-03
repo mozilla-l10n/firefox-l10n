@@ -52,8 +52,11 @@ abuse-report-messagebar-action-cancel = Бекор кардан
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason-v2 = Ба кори компютери ман зарар мерасонад ё маълумоти маро зери хатар мегузорад
 abuse-report-damage-example = Масалан: Нармафзори зарарноки воридшуда ё маълумоти дуздишуда
+abuse-report-spam-reason-v2 = Паёмҳои номатлубро дар бар мегирад ё рекламаи нодаркорро нишон медиҳад
 abuse-report-spam-example = Масалан: Рекламаро ба саҳифаҳои сомона ворид мекунад
+abuse-report-settings-reason-v2 = Низоми ҷустуҷӯӣ, саҳифаи асосӣ ё варақаи нави маро бе огоҳӣ ё иҷозати ман иваз мекунад
 abuse-report-settings-suggestions-search = Танзимоти ҷустуҷӯи пешфарзи шуморо иваз мекунад
 abuse-report-settings-suggestions-homepage = Саҳифаи асосӣ ва варақаи нави шуморо иваз мекунад
 abuse-report-deceptive-example = Масалан: Тавсиф ё тасвир шубҳаангез мебошад
