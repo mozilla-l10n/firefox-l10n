@@ -314,6 +314,7 @@
 <!ENTITY forwardAsAttachmentCmd.label "Liitteenä">
 <!ENTITY forwardAsAttachmentCmd.accesskey "L">
 <!ENTITY editAsNewMsgCmd.label "Muokkaa uutena viestinä">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Muokkaa viestiluonnosta">
 <!ENTITY editTemplateMsgCmd.label "Muokkaa mallia">
 <!ENTITY newMsgFromTemplateCmd.label "Uusi viesti mallista">
