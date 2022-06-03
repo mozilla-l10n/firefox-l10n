@@ -127,6 +127,39 @@ info-known-breaches-found =
         [many] Fuadurioù roadennoù en deus diskouezet ho titouroù
        *[other] Fuadurioù roadennoù en deus diskouezet ho titouroù
     }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Fuadenn roadennoù anavezet ha merket evel stouvet
+        [two] Fuadenn roadennoù anavezet ha merket evel stouvet
+        [few] Fuadenn roadennoù anavezet ha merket evel stouvet
+        [many] Fuadenn roadennoù anavezet ha merket evel stouvet
+       *[other] Fuadenn roadennoù anavezet ha merket evel stouvet
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Ger-tremen en arvar gant an holl fuadennoù roadennoù
+        [two] Ger-tremen en arvar gant an holl fuadennoù roadennoù
+        [few] Ger-tremen en arvar gant an holl fuadennoù roadennoù
+        [many] Ger-tremen en arvar gant an holl fuadennoù roadennoù
+       *[other] Ger-tremen en arvar gant an holl fuadennoù roadennoù
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Ger-tremen en arvar gant fuadennoù roadennoù
+        [two] Ger-tremen en arvar gant fuadennoù roadennoù
+        [few] Ger-tremen en arvar gant fuadennoù roadennoù
+        [many] Ger-tremen en arvar gant fuadennoù roadennoù
+       *[other] Ger-tremen en arvar gant fuadennoù roadennoù
+    }
 monitor-no-breaches-title = Keloù mat!
 monitor-no-breaches-description = N'oc'h ket e-barzh ar fuadennoù roadennoù anavezet. Ma cheñch e lavarimp deoc'h.
 monitor-view-report-link = Gwelout an danevell
@@ -137,9 +170,23 @@ monitor-manage-breaches-link = Merañ ar fuadennoù roadennoù
     .title = Merañ ar fuadennoù roadennoù gant { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Brav! Stouvet ho peus an holl fuadennoù roadennoù anavezet.
 monitor-breaches-resolved-description = Lavarout a rimp deoc'h m'emañ ho chomlec'h mail en ur fuadenn roadennoù.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } fuadenn war { $numBreaches } merket evel stouvet.
+        [two] { $numBreachesResolved } fuadenn war { $numBreaches } merket evel stouvet.
+        [few] { $numBreachesResolved } fuadenn war { $numBreaches } merket evel stouvet.
+        [many] { $numBreachesResolved } fuadenn war { $numBreaches } merket evel stouvet.
+       *[other] { $numBreachesResolved } fuadenn war { $numBreaches } merket evel stouvet.
+    }
 monitor-partial-breaches-motivation-title-start = Ul loc'hadenn vat!
 monitor-partial-breaches-motivation-title-middle = Kendalc'hit ganti!
 monitor-partial-breaches-motivation-title-end = Tost echu! Kendalc'hit!
+monitor-partial-breaches-motivation-description = Stouvañ peurrest ho fuadennoù roadennoù gant { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Stouvañ fuadennoù roadennoù
+    .title = Stouvañ fuadennoù roadennoù gant { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -148,3 +195,53 @@ monitor-partial-breaches-motivation-title-end = Tost echu! Kendalc'hit!
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Heulierien Media kevredadel
+    .aria-label =
+        { $count ->
+            [one] { $count } heulier media kevredadel ({ $percentage }%)
+            [two] { $count } heulier media kevredadel ({ $percentage }%)
+            [few] { $count } heulier media kevredadel ({ $percentage }%)
+            [many] { $count } heulier media kevredadel ({ $percentage }%)
+           *[other] { $count } heulier media kevredadel ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Toupinoù heuliañ etre lec'hiennoù
+    .aria-label =
+        { $count ->
+            [one] { $count } toupin heuliañ etre lec'hiennoù ({ $percentage }%)
+            [two] { $count } toupin heuliañ etre lec'hiennoù ({ $percentage }%)
+            [few] { $count } toupin heuliañ etre lec'hiennoù ({ $percentage }%)
+            [many] { $count } toupin heuliañ etre lec'hiennoù ({ $percentage }%)
+           *[other] { $count } toupin heuliañ etre lec'hiennoù ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Endalc'had heuliañ
+    .aria-label =
+        { $count ->
+            [one] { $count } endalc'had heuliañ ({ $percentage }%)
+            [two] { $count } endalc'had heuliañ ({ $percentage }%)
+            [few] { $count } endalc'had heuliañ ({ $percentage }%)
+            [many] { $count } endalc'had heuliañ ({ $percentage }%)
+           *[other] { $count } endalc'had heuliañ ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Dinoerien roudoù niverel
+    .aria-label =
+        { $count ->
+            [one] { $count } dinoer roudoù niverel ({ $percentage }%)
+            [two] { $count } dinoer roudoù niverel ({ $percentage }%)
+            [few] { $count } dinoer roudoù niverel ({ $percentage }%)
+            [many] { $count } dinoer roudoù niverel ({ $percentage }%)
+           *[other] { $count } dinoer roudoù niverel ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Kriptogleuzerien
+    .aria-label =
+        { $count ->
+            [one] { $count } kriptogleuzer ({ $percentage }%)
+            [two] { $count } kriptogleuzer ({ $percentage }%)
+            [few] { $count } kriptogleuzer ({ $percentage }%)
+            [many] { $count } kriptogleuzer ({ $percentage }%)
+           *[other] { $count } kriptogleuzer ({ $percentage }%)
+        }
