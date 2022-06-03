@@ -128,8 +128,15 @@ info-known-breaches-found =
        *[other] Fuadurioù roadennoù en deus diskouezet ho titouroù
     }
 monitor-no-breaches-title = Keloù mat!
+monitor-no-breaches-description = N'oc'h ket e-barzh ar fuadennoù roadennoù anavezet. Ma cheñch e lavarimp deoc'h.
 monitor-view-report-link = Gwelout an danevell
-    .title = Diskoulmañ ar fuadennoù roadennoù gant { -monitor-brand-short-name }
+    .title = Stouvañ ar fuadennoù roadennoù gant { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Stouvit ho fuadennoù roadennoù
+monitor-breaches-unresolved-description = Ur wech m'ho peus sellet ouzh titouroù ar fuadennoù roadennoù ha kemeret diarbennoù surentez e c'hallit merkañ int stouvet.
+monitor-manage-breaches-link = Merañ ar fuadennoù roadennoù
+    .title = Merañ ar fuadennoù roadennoù gant { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Brav! Stouvet ho peus an holl fuadennoù roadennoù anavezet.
+monitor-breaches-resolved-description = Lavarout a rimp deoc'h m'emañ ho chomlec'h mail en ur fuadenn roadennoù.
 monitor-partial-breaches-motivation-title-start = Ul loc'hadenn vat!
 monitor-partial-breaches-motivation-title-middle = Kendalc'hit ganti!
 monitor-partial-breaches-motivation-title-end = Tost echu! Kendalc'hit!
