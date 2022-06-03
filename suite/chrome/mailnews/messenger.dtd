@@ -477,8 +477,10 @@
 <!ENTITY contextOpenNewTab.label "Avaa uuteen välilehteen">
 <!ENTITY contextOpenNewTab.accesskey "v">
 <!ENTITY contextEditMsgAsNew.label "Muokkaa uutena viestinä">
+<!ENTITY contextEditMsgAsNew.accesskey "e">
 <!ENTITY contextEditDraftMsg.label "Muokkaa viestiluonnosta">
 <!ENTITY contextEditTemplate.label "Muokkaa mallia">
+<!ENTITY contextEditTemplate.accesskey "m">
 <!ENTITY contextNewMsgFromTemplate.label "Uusi viesti mallista">
 <!ENTITY contextReplySender.label "Vastaa lähettäjälle">
 <!ENTITY contextReplySender.accesskey "l">
