@@ -4,15 +4,11 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = লগইন ও পাসওয়ার্ড
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 login-filter =
     .placeholder = লগইন অনুসন্ধান
-
 create-login-button = নতুন লগইন তৈরি করুন
-
 fxaccounts-sign-in-text = আপনার অন্যান্য ডিভাইসে আপনার পাসওয়ার্ড পান
+fxaccounts-sign-in-sync-button = sync এর জন্য সাইন ইন করুন
 fxaccounts-avatar-button =
     .title = অ্যাকাউন্ট ব্যবস্থাপনা
 
@@ -97,16 +93,12 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = সংরক্ষিত লগইন সম্পাদনা করুন
-
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = সংরক্ষিত পাসওয়ার্ড দেখাও
-
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = সংরক্ষিত পাসওয়ার্ড অনুলিপি করুন
-
-## Master Password notification
 
 ## Primary Password notification
 
@@ -114,18 +106,14 @@ master-password-reload-button =
     .label = লগ ইন
     .accesskey = L
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = বাতিল
 confirmation-dialog-dismiss-button =
     .title = বাতিল
-
 about-logins-confirm-remove-dialog-title = লগইনটি মুছে ফেলবেন?
 confirm-delete-dialog-message = এই পরিবর্তনটি অপরিবর্তনীয়!
 about-logins-confirm-remove-dialog-confirm-button = অপসারণ
-
 confirm-discard-changes-dialog-title = সংরক্ষিত পরিবর্তনগুলো বাতিল করতে চান?
 confirm-discard-changes-dialog-message = সংরক্ষিত সকল পরিবর্তনগুলো হারিয়ে যাবে।
 confirm-discard-changes-dialog-confirm-button = বাতিল
@@ -153,7 +141,6 @@ about-logins-vulnerable-alert-learn-more-link = আরও জানুন
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = { $loginTitle } নামের ইউজার পূর্বের থেকেই আছে। <a data-l10n-name="duplicate-link">পূর্বে থাকা ইউজারটিতে যেতে চান?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = এই পাসওয়ার্ডটি সংরক্ষণ করার চেষ্টা করার সময় একটি ত্রুটি ঘটেছে।
 
