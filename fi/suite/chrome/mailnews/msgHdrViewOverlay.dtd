@@ -24,7 +24,9 @@
 <!ENTITY originalWebsite.label "Verkkosivusto: ">
 
 <!ENTITY editDraft.label                   "Muokkaa luonnosta…">
+<!ENTITY editDraft.accesskey               "l">
 <!ENTITY editTemplate.label                "Muokkaa mallia…">
+<!ENTITY editTemplate.accesskey            "m">
 
 <!ENTITY attachmentsTree.label             "Liitteet:">
 <!ENTITY attachmentsTree.accesskey         "L">
