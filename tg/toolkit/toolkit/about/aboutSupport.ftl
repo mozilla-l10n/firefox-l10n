@@ -334,13 +334,20 @@ fission-status-enabled-by-user-pref = Аз тарафи корбар фаъол 
 fission-status-disabled-by-user-pref = Аз тарафи корбар ғайрифаъол карда шуд
 fission-status-disabled-by-e10s-other = E10s ғайрифаъол аст
 fission-status-enabled-by-rollout = Аз тарафи паҳнкунии марҳилавӣ фаъол карда шуд
+async-pan-zoom = Густарасозӣ/миқёсбандии ноҳамгоми тасвир
 apz-none = ҳеҷ
+wheel-enabled = вурудии чархак фаъол аст
+touch-enabled = вурудии дастрасонӣ фаъол аст
+drag-enabled = кашидани навори ҳаракат фаъол аст
 keyboard-enabled = клавиатура фаъол аст
 autoscroll-enabled = ҳаракати худкор фаъол аст
+zooming-enabled = миқёсбандии ҳамвор бо ангуштон фаъол аст
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = ба сабаби танзими дастгиринашаванда вурудии ноҳамгоми чархак ғайрифаъол шуд: { $preferenceKey }
+touch-warning = ба сабаби танзими дастгиринашаванда вурудии ноҳамгоми дастрасонӣ ғайрифаъол шуд: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
