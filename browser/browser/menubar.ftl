@@ -38,11 +38,9 @@ menu-quit =
             [windows] B
            *[other] B
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Baigti „{ -brand-shorter-name }“ darbą
-
 menu-about =
     .label = Apie „{ -brand-shorter-name }“
     .accesskey = A
@@ -310,6 +308,9 @@ menu-help-more-troubleshooting-info =
     .accesskey = p
 menu-help-report-site-issue =
     .label = Pranešti apie svetainės problemą…
+menu-help-share-ideas =
+    .label = Pasidalinti idėjomis ir atsiliepimais…
+    .accesskey = s
 menu-help-enter-troubleshoot-mode2 =
     .label = Trikčių šalinimo veiksena…
     .accesskey = v
