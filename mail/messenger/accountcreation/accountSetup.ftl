@@ -53,6 +53,12 @@ account-setup-password-label = Passwort
 account-provisioner-button = Neue E-Mail-Adresse erhalten
     .accesskey = u
 
+account-setup-password-toggle-show =
+    .title = Passwort anzeigen
+
+account-setup-password-toggle-hide =
+    .title = Passwort ausblenden
+
 account-setup-remember-password = Passwort speichern
     .accesskey = s
 
@@ -212,6 +218,8 @@ account-setup-find-settings-failed = { -brand-short-name } konnte keine Einstell
 
 account-setup-exchange-config-unverifiable = Konfiguration konnte nicht überprüft werden. Falls der Benutzername und das Passwort korrekt sind, hat der Server-Administrator vermutlich die gewählte Konfiguration für Ihr Konto deaktiviert. Versuchen Sie, ein anderes Protokoll zu verwenden.
 
+account-setup-provisioner-error = Während des Einrichten des neuen Kontos in { -brand-short-name } trat ein Fehler auf. Bitte versuchen Sie das Konto manuell mit den Ihnen bekannten Zugangsdaten hinzuzufügen.
+
 ## Manual configuration area
 
 account-setup-manual-config-title = Manuelle Einrichtigung
@@ -288,6 +296,19 @@ exchange-dialog-confirm-button = Senden
 exchange-dialog-cancel-button = Abbrechen
 
 ## Dismiss account creation dialog
+
+exit-dialog-title = Kein E-Mail-Konto eingerichtet
+
+exit-dialog-description = Soll der Einrichtungsprozess wirklich abgebrochen werden? { -brand-short-name } kann ohne ein E-Mail-Konto verwendet werden, aber viele Funktionen werden nicht verfügbar sein.
+
+account-setup-no-account-checkbox = { -brand-short-name } ohne ein E-Mail-Konto verwenden
+    .accesskey = o
+
+exit-dialog-cancel-button = Einrichtung fortsetzen
+    .accesskey = z
+
+exit-dialog-confirm-button = Einrichtung beenden
+    .accesskey = b
 
 ## Alert dialogs
 

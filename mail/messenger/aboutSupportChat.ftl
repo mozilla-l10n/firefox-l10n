@@ -4,7 +4,7 @@
 
 chat-title = Chat-Konten
 chat-table-heading-account = ID
-chat-table-heading-protocol = Protokol
+chat-table-heading-protocol = Protokoll
 chat-table-heading-name = Name
 chat-table-heading-actions = Aktionen
 chat-table-copy-debug-log = Debug-Protokoll kopieren

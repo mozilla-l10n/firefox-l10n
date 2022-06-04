@@ -6,6 +6,27 @@
 
 # The field-separator is for screen readers to separate the field name from the field value.
 
+## Header lists
+
+message-header-to-list-name = An
+
+message-header-from-list-name = Von
+
+message-header-sender-list-name = Absender
+
+message-header-reply-to-list-name = Antwort an
+
+message-header-cc-list-name = Kopie (CC)
+
+message-header-bcc-list-name = Blindkopie (BCC)
+
+message-header-newsgroups-list-name = Newsgruppen
+
+message-header-tags-list-name = Schlagwörter
+
+## Other message headers.
+## The field-separator is for screen readers to separate the field name from the field value.
+
 message-header-to-field = An<span data-l10n-name="field-separator">:</span>
 
 message-header-from-field = Von<span data-l10n-name="field-separator">:</span>
@@ -42,6 +63,12 @@ message-header-in-reply-to-field = Als Antwort auf<span data-l10n-name="field-se
 
 message-header-website-field = Webseite<span data-l10n-name="field-separator">:</span>
 
+# An additional email header field that the user has chosen to display. Unlike
+# the other headers, the name of this header is not expected to be localised
+# because it is generated from the raw field name found in the email header.
+#   $fieldName (String) - The field name.
+message-header-custom-field = { $fieldName }<span data-l10n-name="field-separator">:</span>
+
 message-header-address-in-address-book-icon2 =
   .alt = In einem Adressbuch
 
@@ -56,3 +83,5 @@ message-header-address-in-address-book-button =
 
 message-header-field-show-more = Mehr
     .title = Alle Empfänger anzeigen
+
+message-ids-field-show-all = Alle anzeigen
