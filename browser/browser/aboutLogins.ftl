@@ -18,6 +18,9 @@ menu =
     .title = মেনু খুলুন
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = অন্য ব্রাউজার থেকে ইম্পোর্ট করুন…
+about-logins-menu-menuitem-import-from-a-file = ফাইল থেকে ইমপোর্ট...
+about-logins-menu-menuitem-export-logins = সব লগইন এক্সপোর্ট...
+about-logins-menu-menuitem-remove-all-logins = সকল লগইন অপসারণ...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] অপশন
@@ -37,6 +40,8 @@ login-list-count =
 login-list-sort-label-text = ক্রমানুসার:
 login-list-name-option = নাম (A-Z)
 login-list-name-reverse-option = নাম (A-Z)
+login-list-username-option = ব্যবহারকারীর নাম (A-Z)
+login-list-username-reverse-option = ব্যবহারকারীর নাম (Z-A)
 about-logins-login-list-alerts-option = সতর্কবার্তা
 login-list-last-changed-option = সর্বশেষ পরিবর্তিত
 login-list-last-used-option = সর্বশেষ ব্যবহৃত
@@ -51,9 +56,16 @@ about-logins-list-item-breach-icon =
     .title = ভাঙা ওয়েবসাইট
 about-logins-list-item-vulnerable-password-icon =
     .title = ঝুঁকিপূর্ণ পাসওয়ার্ড
+about-logins-list-section-breach = লঙ্ঘিত ওয়েবসাইট
+about-logins-list-section-vulnerable = ঝুঁকিপূর্ণ পাসওয়ার্ড
+about-logins-list-section-nothing = কোনো সতর্কতা নেই
+about-logins-list-section-today = আজ
+about-logins-list-section-yesterday = গতকাল
+about-logins-list-section-week = গত 7 দিন
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-out2 = আপনার সংরক্ষিত লগইনগুলি সন্ধান করছেন? সিঙ্ক চালু করুন বা সেগুলি আমদানি করুন।
 about-logins-login-intro-heading-logged-in = সিংক হওয়া কোনো লগইন পাওয়া যায়নি।
 login-intro-description = আপনি যদি ভিন্ন কোন ডিভাইসের { -brand-product-name } এ আপনার লগইন সমূহ সংরক্ষণ করে থাকেন, তাহলে সেগুলো এখানে কিভাবে পাবেন, সেটি রয়েছে এখানে:
 
