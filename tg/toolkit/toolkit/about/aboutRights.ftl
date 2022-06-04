@@ -21,6 +21,12 @@ rights-intro-point-4 =
     { -vendor-short-name } ба воситаи { -brand-short-name } дар санади
     <a data-l10n-name="mozilla-privacy-policy-link">Сиёсати махфияти { -brand-short-name }</a> муайян карда шудааст.
 rights-intro-point-4-unbranded = Ҳамаи сиёсатҳои махфияти татбиқшаванда барои ин маҳсул бояд дар ин рӯйхат нишон дода шаванд.
+rights-intro-point-5 =
+    Баъзе хусусияҳои { -brand-short-name } хизматҳои иттилоотии интернетиро
+    истифода мебаранд, аммо, мо кафолат дода наметавонем, ки онҳо 100% дуруст
+    ва бехато кор мекунанд. Тафсилоти бештар, аз он ҷумла маълумот оид ба ғайрифаъол
+    кардани хусусиятҳое, ки аз он хизматҳо истифода мебаранд, метавонед дар
+    <a data-l10n-name="mozilla-service-terms-link">шартҳои хизмат</a> пайдо кунед.
 rights-webservices-header = Хидматҳои иттилоотии { -brand-full-name } дар асоси сомона
 rights-safebrowsing-term-1 = Кушодани хусусиятҳои барнома
 rights-safebrowsing-term-2 = Қисмати «Амният»-ро интихоб намоед
