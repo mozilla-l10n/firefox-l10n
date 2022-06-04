@@ -27,6 +27,8 @@ about-addressbook-books-context-properties =
   .label = Eigenschaften
 about-addressbook-books-context-synchronize =
   .label = Synchronisieren
+about-addressbook-books-context-edit =
+  .label = Bearbeiten
 about-addressbook-books-context-print =
   .label = Drucken…
 about-addressbook-books-context-export =
@@ -60,6 +62,9 @@ about-addressbook-search-all =
 
 about-addressbook-sort-button =
   .title = Sortierregel ändern
+
+about-addressbook-sort-button2 =
+  .title = Anzeigeoptionen öffnen
 
 about-addressbook-name-format-display =
   .label = Anzeigename
@@ -165,7 +170,18 @@ about-addressbook-confirm-delete-contacts =
     *[other] Sollen diese { $count } Kontakte gelöscht werden?
   }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+about-addressbook-placeholder-empty-book = Keine Kontakte gefunden
+about-addressbook-placeholder-new-contact = Neuer Kontakt
+about-addressbook-placeholder-search-only = Dieses Adressbuch zeigt Kontakte nur für eine Suche an.
+about-addressbook-placeholder-searching = Suche wird durchgeführt…
+about-addressbook-placeholder-no-search-results = Keine Kontakte gefunden
+
 ## Details
+
+about-addressbook-prefer-display-name = Anzeigenamen statt Namen aus Kopfzeile der Nachricht verwenden
 
 about-addressbook-write-action-button = Nachricht
 about-addressbook-event-action-button = Termin

@@ -148,6 +148,11 @@ message-header-msg-not-flagged =
     .title = Nicht gekennzeichnet
     .aria-label = Nicht gekennzeichnet
 
+# Variables:
+# $address (String) - The email address of the recipient this picture belongs to.
+message-header-recipient-avatar =
+    .alt = Profilbild von { $address }
+
 ## Message header cutomize panel
 
 message-header-customize-panel-title = Kopfzeilen - Einstellungen
@@ -164,6 +169,20 @@ message-header-button-style-text =
 
 message-header-button-style-icons =
     .label = Symbole
+
+message-header-show-sender-full-address =
+    .label = Immer vollständige Adresse des Absenders anzeigen
+    .accesskey = A
+
+message-header-show-sender-full-address-description = Die E-Mail-Adresse wird unter dem Anzeigenamen angezeigt.
+
+message-header-show-recipient-avatar =
+    .label = Profilbild des Absenders anzeigen
+    .accesskey = P
+
+message-header-hide-label-column =
+    .label = Keine Spalte für Beschriftungen verwenden
+    .accesskey = K
 
 message-header-large-subject =
     .label = Betreff in großer Schrift

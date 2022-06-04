@@ -536,6 +536,10 @@ warn-on-send-accel-key =
     .label = Bestätigen, wenn die Tastenkombination zum Senden einer Nachricht verwendet wird
     .accesskey = B
 
+add-link-previews =
+    .label = Link-Vorschau beim Einfügen eines Links hinzufügen
+    .accesskey = V
+
 spellcheck-label =
     .label = Rechtschreibprüfung vor dem Senden
     .accesskey = R
@@ -577,6 +581,28 @@ restore-html-label =
 default-format-label =
     .label = Format "Absatz" anstatt "Normaler Text" verwenden
     .accesskey = F
+
+compose-send-format-title = Sendeformat
+
+compose-send-automatic-option =
+    .label = Automatisch
+
+compose-send-automatic-description = Falls keine Stilformatierungen verwendet werden, erfolgt die Verwendung von Reintext. Ansonsten wird HTML mit Reintext als Rückfallabsicherung eingesetzt.
+
+compose-send-both-option =
+    .label = HTML und Reintext
+
+compose-send-both-description = Das E-Mail-Programm des Empfängers bestimmt, welche Version angezeigt wird.
+
+compose-send-html-option =
+    .label = Nur HTML
+
+compose-send-html-description = Einige Empfänger können die Nachricht ohne Rückfallabsicherung im Reintextformat eventuell nicht lesen.
+
+compose-send-plain-option =
+    .label = Nur Reintext
+
+compose-send-plain-description = Einige Stilformatierungen werden in Alternativen für Reintext umgewandelt, während andere Funktionen zum Verfassen von Nachrichten deaktiviert werden.
 
 autocomplete-description = Beim Adressieren von Nachrichten nach passenden Einträgen suchen in:
 
@@ -632,7 +658,6 @@ find-cloud-providers =
     .value = Weitere Anbieter finden…
 
 cloud-account-description = Einen Filelink-Speicherdienst hinzufügen
-
 
 ## Privacy Tab
 
@@ -860,6 +885,8 @@ theme-label =
     .value = Erscheinungsbild:
     .accesskey = E
 
+style-mail =
+    .label = { -brand-short-name }
 style-bubbles =
     .label = Sprechblasen
 style-dark =

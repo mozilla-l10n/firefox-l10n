@@ -297,7 +297,7 @@ export-open-profile-folder = Profilordner öffnen
 
 export-file-picker = In ZIP-Datei exportieren
 
-export-file-picker2 = In .zip-Datei exportieren
+export-file-picker2 = In ZIP-Datei exportieren
 
 export-brand-name = { -brand-product-name }
 
@@ -320,3 +320,14 @@ footer-import-documentation = Import-Dokumentation
 footer-export-documentation = Export-Dokumentation
 
 footer-support-forum = Hilfeforum
+
+## Step navigation on top of the wizard pages
+
+step-list =
+  .aria-label = Importschritte
+
+step-confirm = Bestätigung
+
+# Variables:
+# $number (number) - step number
+step-count = { $number }
