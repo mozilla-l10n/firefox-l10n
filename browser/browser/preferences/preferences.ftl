@@ -205,6 +205,18 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Jūsų spalvų pasirinkimai pakeičia svetainių išvaizdą. <a data-l10n-name="colors-link">Tvarkyti spalvas</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Tvarkykite { -brand-short-name } apvalkalus <a data-l10n-name="themes-link">prieduose ir grafiniuose apvalkaluose</a>
+preferences-colors-header = Spalvos
+preferences-colors-description = Pakeisti „{ -brand-short-name }“ numatytąsias spalvas tekstui, svetainių fonui, ir saitams.
+preferences-colors-manage-button =
+    .label = Tvarkyti spalvas…
+    .accesskey = s
+preferences-fonts-header = Šriftai
 default-font = Numatytasis šriftas
     .accesskey = u
 default-font-size = Dydis
@@ -345,6 +357,10 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Ką „{ -brand-short-name }“ turėtų daryti su kitais failais?
+applications-save-for-new-types =
+    .label = Įrašyti failus
+    .accesskey = r
 drm-content-header = Skaitmeninių teisių valdymo (DRM) turinys
 play-drm-content =
     .label = Atkurti DRM valdomą turinį
