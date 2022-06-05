@@ -21,6 +21,7 @@ perftools-heading-features-default = Funkcje (zalecane domyślnie)
 perftools-heading-features-disabled = Wyłączone funkcje
 perftools-heading-features-experimental = Eksperymentalne
 perftools-heading-threads = Wątki
+perftools-heading-threads-jvm = Wątki JVM
 perftools-heading-local-build = Lokalna kompilacja
 
 ##
@@ -42,9 +43,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Rozmiar bufora:
-
 perftools-custom-threads-label = Dodaj własne wątki według nazw:
-
 perftools-devtools-interval-label = Przedział:
 perftools-devtools-threads-label = Wątki:
 perftools-devtools-settings-label = Ustawienia
@@ -96,11 +95,22 @@ perftools-thread-dns-resolver =
     .title = Rozwiązywanie DNS odbywa się w tym wątku
 perftools-thread-task-controller =
     .title = Wątki puli wątków TaskController
+perftools-thread-jvm-gecko =
+    .title = Główny wątek JVM platformy Gecko
+perftools-thread-jvm-nimbus =
+    .title = Główne wątki środowiska programistycznego eksperymentów Nimbus
+perftools-thread-jvm-default-dispatcher =
+    .title = Domyślny dyspozytor biblioteki współprogramów Kotlin
+perftools-thread-jvm-glean =
+    .title = Główne wątki środowiska programistycznego telemetrii Glean
+perftools-thread-jvm-arch-disk-io =
+    .title = Dyspozytor wejścia/wyjścia biblioteki współprogramów Kotlin
+perftools-thread-jvm-pool =
+    .title = Wątki utworzone w nienazwanej puli wątków
 
 ##
 
 perftools-record-all-registered-threads = Pomiń powyższy wybór i nagraj wszystkie zarejestrowane wątki
-
 perftools-tools-threads-input-label =
     .title = Te nazwy wątków to lista oddzielona przecinkami, która jest używana do włączenia profilowania wątków w profilerze. Nazwa może tylko częściowo pasować do nazwy wątku, aby została uwzględniona. Spacje są rozróżniane.
 
@@ -108,14 +118,13 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Nowość</b>: { -profiler-brand-name } jest teraz zintegrowany z narzędziami dla programistów. <a>Więcej informacji</a> o tym nowym potężnym narzędziu.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Przez ograniczony czas można korzystać z poprzedniego panelu wydajności w sekcji <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Zamknij ten komunikat
 
@@ -128,19 +137,14 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Dla twórców witryn
 perftools-presets-web-developer-description = Zalecane ustawienie do debugowania większości aplikacji internetowych o niskim wpływie na wydajność.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Zalecane ustawienie do profilowania programu { -brand-shorter-name }.
-
 perftools-presets-graphics-label = Grafika
 perftools-presets-graphics-description = Ustawienie do badania błędów graficznych w programie { -brand-shorter-name }.
-
 perftools-presets-media-label = Multimedia
 perftools-presets-media-description2 = Ustawienie do badania błędów dźwięku i obrazu w programie { -brand-shorter-name }.
-
 perftools-presets-networking-label = Sieć
 perftools-presets-networking-description = Ustawienie do badania błędów sieciowych w programie { -brand-shorter-name }.
-
 perftools-presets-custom-label = Inne
 
 ##
