@@ -81,6 +81,16 @@ account-setup-looking-up-exchange = Buscando configuración: servidor de Exchang
 account-setup-checking-password = Comprobando la contraseña…
 account-setup-installing-addon = Descargando e instalando complemento…
 account-setup-success-half-manual = Se encontraron las siguientes configuraciones al sondear el servidor indicado:
+account-setup-success-guess = Configuración encontrada probando nombres de servidor comunes.
+account-setup-success-guess-offline = Está trabajando sin conexión. Hemos adivinado algunos parámetros pero tendrá que introducir la configuración correcta.
+account-setup-success-password = Contraseña correcta
+account-setup-success-addon = El complemento se instaló correctamente
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-success-settings-db = Configuración encontrada en la base de datos de ISP de Mozilla.
+account-setup-success-settings-disk = Configuración encontrada en la instalación de { -brand-short-name }.
+account-setup-success-settings-isp = Configuración encontrada en el proveedor de correo electrónico.
+# Note: Microsoft Exchange is a product name.
+account-setup-success-settings-exchange = Configuración encontrada para un servidor de Microsoft Exchange.
 
 ## Illustrations
 
@@ -95,37 +105,99 @@ account-setup-step4-image =
 account-setup-step5-image =
     .title = Cuenta creada
 account-setup-privacy-footnote2 = Sus credenciales solo se almacenarán localmente en su ordenador.
+account-setup-selection-help = ¿No está seguro de qué seleccionar?
 account-setup-selection-error = ¿Necesita ayuda?
+account-setup-success-help = ¿No está seguro de cómo continuar?
+account-setup-documentation-help = Documentación de configuración
+account-setup-forum-help = Foro de asistencia
+account-setup-privacy-help = Política de privacidad
+account-setup-getting-started = Primeros pasos
 
 ## Results area
 
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [one] Configuración disponible
+       *[other] Configuraciones disponibles
+    }
 account-setup-result-imap-description = Mantener sus carpetas y correos electrónicos sincronizados en su servidor
 account-setup-result-pop-description = Mantener sus carpetas y correos electrónicos en su equipo
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Usar el servidor Microsoft Exchange o los servicios en la nube de Office365
+account-setup-incoming-title = Entrante
+account-setup-outgoing-title = Saliente
+account-setup-username-title = Nombre de usuario
 account-setup-exchange-title = Servidor
+account-setup-result-no-encryption = Sin cifrar
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Usar el servidor SMTP saliente existente
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Entrante: { $incoming }, Saliente: { $outgoing }
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Error en la autenticación. O las credenciales introducidas son incorrectas o se requiere un nombre de usuario distinto para iniciar sesión. Este nombre de usuario suele ser el inicio de sesión en el dominio de Windows con o sin el dominio (p. ej., juanperez o AD\\juanperez)
+account-setup-credentials-wrong = Error en la autenticación. Por favor, compruebe el nombre de usuario y la contraseña
+account-setup-find-settings-failed = { -brand-short-name } no ha podido encontrar la configuración de la cuenta de correo electrónico
+account-setup-exchange-config-unverifiable = No se ha podido comprobar la configuración. Si su nombre de usuario y contraseña son correctos, es probable que el administrador del servidor haya deshabilitado la configuración seleccionada para su cuenta. Intente seleccionar otro protocolo.
+account-setup-provisioner-error = Se ha producido un error al configurar la nueva cuenta en { -brand-short-name }. Intente configurar manualmente la cuenta con sus credenciales.
 
 ## Manual configuration area
 
+account-setup-manual-config-title = Configuración manual
+account-setup-incoming-server-legend = Servidor entrante
+account-setup-protocol-label = Protocolo:
 account-setup-hostname-label = Nombre del servidor:
 account-setup-port-label = Puerto:
     .title = Establecer el puerto a 0 para la detección automática
+account-setup-auto-description = { -brand-short-name } intentará detectar automáticamente los campos que se han dejado en blanco.
 account-setup-ssl-label = Seguridad de la conexión:
+account-setup-outgoing-server-legend = Servidor saliente
 
 ## Incoming/Outgoing SSL Authentication options
 
+ssl-autodetect-option = Detectar automáticamente
+ssl-no-authentication-option = Sin autenticación
 ssl-cleartext-password-option = Contraseña normal
 ssl-encrypted-password-option = Contraseña cifrada
 
 ## Incoming/Outgoing SSL options
 
+ssl-noencryption-option = Ninguna
+account-setup-auth-label = Método de autenticación:
+account-setup-username-label = Nombre de usuario:
+account-setup-advanced-setup-button = Configuración avanzada
+    .accesskey = a
 
 ## Warning insecure server dialog
 
+account-setup-insecure-title = ¡Advertencia!
+account-setup-insecure-incoming-title = Ajustes de entrada:
+account-setup-insecure-outgoing-title = Ajustes de salida:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = El servidor <b>{ $server }</b> no usa cifrado.
+account-setup-warning-cleartext-details = Los servidores de correo inseguros no usan conexiones cifradas para proteger sus contraseñas e información privada. Al conectarse a este servidor podría estar exponiendo su contraseña e información privada.
+account-setup-insecure-server-checkbox = Entiendo los riesgos
+    .accesskey = i
+account-setup-insecure-description = { -brand-short-name } le permite acceder a su correo utilizando las configuraciones proporcionadas. Sin embargo, debería contactar con su administrador o proveedor de correo electrónico respecto a estas conexiones inapropiadas. Consulte las <a data-l10n-name="thunderbird-faq-link">preguntas frecuentes sobre Thunderbird</a> para obtener más información.
+insecure-dialog-cancel-button = Cambiar la configuración
+    .accesskey = o
+insecure-dialog-confirm-button = Confirmar
+    .accesskey = C
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } ha encontrado la información de configuración de su cuenta en { $domain }. ¿Desea continuar y enviar sus credenciales?
+exchange-dialog-confirm-button = Iniciar sesión
 
 ## Dismiss account creation dialog
 
