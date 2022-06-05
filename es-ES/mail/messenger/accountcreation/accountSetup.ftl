@@ -198,18 +198,93 @@ insecure-dialog-confirm-button = Confirmar
 #  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
 exchange-dialog-question = { -brand-short-name } ha encontrado la información de configuración de su cuenta en { $domain }. ¿Desea continuar y enviar sus credenciales?
 exchange-dialog-confirm-button = Iniciar sesión
+exchange-dialog-cancel-button = Cancelar
 
 ## Dismiss account creation dialog
 
+exit-dialog-title = No se ha configurado ninguna cuenta de correo electrónico
+exit-dialog-description = ¿Está seguro de que quiere cancelar el proceso de configuración? Puede usar { -brand-short-name } sin una cuenta de correo electrónico, pero muchas funciones no estarán disponibles.
+account-setup-no-account-checkbox = Usar { -brand-short-name } sin una cuenta de correo electrónico
+    .accesskey = U
+exit-dialog-cancel-button = Continuar la configuración
+    .accesskey = C
+exit-dialog-confirm-button = Salir de la configuración
+    .accesskey = S
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Error al crear la cuenta
+account-setup-error-server-exists = El servidor de entrada ya existe.
+account-setup-confirm-advanced-title = Confirmar configuración avanzada
+account-setup-confirm-advanced-description = Este cuadro de diálogo se cerrará y se creará una cuenta con la configuración actual, aunque la configuración sea incorrecta. ¿Quiere continuar?
 
 ## Addon installation section
 
+account-setup-addon-install-title = Instalar
+account-setup-addon-install-intro = Un complemento de terceros puede permitirle acceder a su cuenta de correo electrónico en este servidor:
+account-setup-addon-no-protocol = Desafortunadamente, este servidor de correo no admite protocolos abiertos. { account-setup-addon-install-intro }
 
 ## Success view
 
+account-setup-settings-button = Configuración de la cuenta
+account-setup-encryption-button = Cifrado de extremo a extremo
+account-setup-signature-button = Añadir una firma
+account-setup-dictionaries-button = Descargar diccionarios
+account-setup-address-book-carddav-button = Conectarse a una libreta de direcciones CardDAV
+account-setup-address-book-ldap-button = Conectarse a una libreta de direcciones LDAP
+account-setup-calendar-button = Conectarse a un calendario remoto
+account-setup-linked-services-title = Conectar sus servicios vinculados
+account-setup-linked-services-description = { -brand-short-name } ha detectado otros servicios vinculados a su cuenta de correo electrónico.
+account-setup-no-linked-description = Configure otros servicios para aprovechar al máximo su experiencia con { -brand-short-name }.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } ha encontrado una libreta de direcciones vinculada a su cuenta de correo electrónico.
+       *[other] { -brand-short-name } ha encontrado { $count } libretas de direcciones vinculadas a su cuenta de correo electrónico.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } ha encontrado un calendario vinculado a su cuenta de correo electrónico.
+       *[other] { -brand-short-name } ha encontrado { $count } calendarios vinculados a su cuenta de correo electrónico.
+    }
+account-setup-button-finish = Finalizar
+    .accesskey = F
+account-setup-looking-up-address-books = Buscando libretas de direcciones...
+account-setup-looking-up-calendars = Buscando calendarios...
+account-setup-address-books-button = Libretas de direcciones
+account-setup-calendars-button = Calendarios
+account-setup-connect-link = Conectar
+account-setup-existing-address-book = Conectada
+    .title = Libreta de direcciones conectada
+account-setup-existing-calendar = Conectado
+    .title = Calendario conectado
+account-setup-connect-all-calendars = Conectar todos los calendarios
+account-setup-connect-all-address-books = Conectar todas las libretas de direcciones
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Conectar el calendario
+calendar-dialog-cancel-button = Cancelar
+    .accesskey = C
+calendar-dialog-confirm-button = Conectar
+    .accesskey = n
+account-setup-calendar-name-label = Nombre
+account-setup-calendar-name-input =
+    .placeholder = Mi calendario
+account-setup-calendar-color-label = Color
+account-setup-calendar-refresh-label = Actualizar
+account-setup-calendar-refresh-manual = Manualmente
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Cada minuto
+       *[other] Cada { $count } minutos
+    }
+account-setup-calendar-read-only = Sólo lectura
+    .accesskey = r
+account-setup-calendar-show-reminders = Mostrar recordatorios
+    .accesskey = s
+account-setup-calendar-offline-support = Ayuda sin conexión
+    .accesskey = o
