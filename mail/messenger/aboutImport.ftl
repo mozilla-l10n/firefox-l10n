@@ -42,6 +42,8 @@ profile-file-picker-dir = Izberite mapo s profilom
 profile-file-picker-zip = Izberite datoteko .zip (manjšo od 2 GB)
 items-pane-title = Izberite, kaj želite uvoziti
 items-pane-source = Izvorno mesto:
+source-thunderbird = Uvozi iz druge namestitve { app-name-thunderbird }
+source-seamonkey = Uvozi iz namestitve { app-name-seamonkey }
 
 ## Import from file selections
 
