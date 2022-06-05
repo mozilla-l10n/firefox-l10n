@@ -8,6 +8,8 @@ styleeditor-new-button =
 styleeditor-import-button =
     .tooltiptext = Uvozi obstoječo slogovno predlogo in jo dodaj v dokument
     .accesskey = I
+styleeditor-filter-input =
+    .placeholder = Filtriraj slogovne predloge
 styleeditor-visibility-toggle =
     .tooltiptext = Preklopi vidljivost slogovne predloge
     .accesskey = S
@@ -28,3 +30,5 @@ styleeditor-copy-url =
 styleeditor-go-to-line =
     .label = Skoči na vrstico …
     .accesskey = S
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Ni bilo mogoče najti ujemajoče se slogovne predloge.

@@ -59,6 +59,7 @@ policy-DownloadDirectory = Nastavi in zakleni mapo za prenose.
 policy-EnableTrackingProtection = Omogoči ali onemogoči zavračanje vsebine ter ga po potrebi zakleni.
 # “lock” means that the user won’t be able to change this setting
 policy-EncryptedMediaExtensions = Omogoči ali onemogoči Encrypted Media Extensions ter jih po potrebi zakleni.
+policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Onemogoči opozorila glede na končnico datoteke za določene vrste datotek na domenah.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
