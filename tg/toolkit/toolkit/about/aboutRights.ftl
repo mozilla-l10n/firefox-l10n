@@ -44,6 +44,10 @@ rights-webservices =
     тарзи ғайрифаъолсозии хусусияти муайян ё Хизмат метавонад
     <a data-l10n-name="mozilla-disable-service-link">дар ин ҷо</a> пайдо карда шавад. Хусусиятҳои дигар
     ва Хизматҳо метавонанд дар хусусиятҳои барнома ғайрифаъол карда шаванд.
+rights-safebrowsing =
+    <strong>SafeBrowsing: </strong>Ғайрифаъолсозии хусусияти «Safe Browsing» тавсия дода намешавад,
+    зеро ки ин амал метавонад натиҷаи равонакунии шумо ба сомонаҳои беэътимод гардад. Агар шумо хоҳед,
+    ки ин хусусиятро комилан ғайрифаъол созед, қадамҳои зеринро иҷро намоед:
 rights-safebrowsing-term-1 = Кушодани хусусиятҳои барнома
 rights-safebrowsing-term-2 = Қисмати «Амният»-ро интихоб намоед
 rights-safebrowsing-term-3 = Имкони «{ enableSafeBrowsing-label }»-ро бекор кунед
@@ -54,6 +58,10 @@ rights-locationawarebrowsing-term-1 = Дар навори нишонии URL, <c
 rights-locationawarebrowsing-term-2 = geo.enabled-ро ворид кунед
 rights-locationawarebrowsing-term-3 = Ба хусусияти geo.enabled ду бор зер кунед
 rights-locationawarebrowsing-term-4 = Акнун имкони «Тамошокунӣ дар асоси ҷойгиршавӣ» ғайрифаъол аст
+rights-webservices-unbranded =
+    Маълумоти умумӣ оид ба хизматҳои сомонае, ки маҳсул дар бар мегирад, аз он ҷумла,
+    дастурҳо барои ғайрифаъолсозии хизматҳо, агар лозим бошад, бояд дар ин ҷо
+    оварда шавад.
 rights-webservices-term-unbranded = Ҳамаи шартҳои хидматрасонии татбиқшаванда барои ин маҳсул бояд дар ин рӯйхат нишон дода шаванд.
 rights-webservices-term-2 =
     { -vendor-short-name } метавонад кори «Хизматрасониҳоро» ба ихтиёри худ
