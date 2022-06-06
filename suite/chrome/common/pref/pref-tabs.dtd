@@ -7,7 +7,7 @@
 <!ENTITY tabDisplay.label "Geral">
 <!ENTITY autoHide.label "Exibir a barra de abas apenas se houver mais de uma aba">
 <!ENTITY autoHide.accesskey2 "e">
-<!ENTITY background.label "Carregar links em primeiro plano">
+<!ENTITY background.label "Mudar para novas abas abertas a partir de links">
 <!ENTITY background.accesskey "s">
 <!ENTITY diverted.label "Mudar para novas abas abertas a partir de links desviados">
 <!ENTITY diverted.accesskey "a">

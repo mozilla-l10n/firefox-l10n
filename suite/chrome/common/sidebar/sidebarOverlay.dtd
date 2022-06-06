@@ -10,7 +10,7 @@
 <!ENTITY sidebar.customize.accesskey    "s">
 <!ENTITY sidebar.hide.label             "Ocultar aba">
 <!ENTITY sidebar.hide.accesskey         "O">
-<!ENTITY sidebar.switch.label           "Alternar para aba">
+<!ENTITY sidebar.switch.label           "Mudar para aba">
 <!ENTITY sidebar.switch.accesskey       "t">
 <!ENTITY sidebarCmd.label               "Painel lateral">
 <!ENTITY sidebarCmd.accesskey           "P">

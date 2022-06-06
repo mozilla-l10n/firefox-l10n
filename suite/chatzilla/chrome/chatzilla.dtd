@@ -6,8 +6,8 @@
 <!ENTITY Toolbar.tooltip    "Barra de ferramentas principal">
 
 
-<!ENTITY multiline-expand.tooltip   "Alternar para o modo de entrada de múltiplas linhas (Ctrl+Up)">
-<!ENTITY multiline-contract.tooltip "Alternar para o modo de entrada de linha única (Ctrl+Up)">
+<!ENTITY multiline-expand.tooltip   "Mudar para o modo de entrada de múltiplas linhas (Ctrl+Up)">
+<!ENTITY multiline-contract.tooltip "Mudar para o modo de entrada de linha única (Ctrl+Up)">
 <!ENTITY multiline-send.tooltip     "Enviar este texto (Ctrl+Enter)">
 <!ENTITY server-nick.tooltip        "Alterar apelido ou definir estado de ausente. Para mudar o foco para o campo de entrada, tecle Esc.">
 
