@@ -70,6 +70,9 @@ abuse-report-broken-reason-sitepermission-v2 = Кор намекунад, сом
 abuse-report-broken-reason-theme-v2 = Кор намекунад ё намоиши браузерро вайрон мекунад
 abuse-report-broken-example = Масалан: Хусусиятҳо сустанд, барои истифода душворанд ё кор намекунанд; қисмҳои сомона бор карда намешаванд ё ғайриоддӣ менамоянд
 abuse-report-policy-reason-v2 = Ин матн дорои муҳтавои нафратангез, зӯроварӣ ё ғайриқонунӣ мебошад
+abuse-report-policy-suggestions =
+    Тавзеҳ: Масъалаҳои ҳуқуқи муаллиф ва тамғаи тиҷорӣ бояд дар раванди алоҳида гузориш дода шаванд.
+    Барои пешниҳод кардани гузориш дар бораи мушкилӣ, <a data-l10n-name="report-infringement-link">аз ин даструҳо истифода баред</a>.
 abuse-report-unwanted-reason-v2 = Ҳеҷ гоҳ ба ман лозим набуд ва намедонам, ки чӣ тавр аз он халос шавам
 abuse-report-unwanted-example = Масалан: Барнома онро бе иҷозати ман насб кард
 abuse-report-other-reason = Чизе дигар
