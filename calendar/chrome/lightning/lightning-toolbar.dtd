@@ -20,7 +20,7 @@
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "Agenda">
-<!ENTITY lightning.toolbar.calendar.tooltip   "Alterna para a aba de agenda">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Mudar para a aba de agenda">
 <!ENTITY lightning.toolbar.calendar.accesskey "d">
 <!ENTITY lightning.toolbar.task.label         "Tarefas">
 <!ENTITY lightning.toolbar.task.tooltip       "Alternar para a aba de tarefas">
