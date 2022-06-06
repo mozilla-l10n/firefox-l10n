@@ -15,6 +15,9 @@ abuse-report-subtitle = Масъала дар чист?
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = аз ҷониби <a data-l10n-name="author-name">{ $author-name }</a>
+abuse-report-learnmore =
+    Намедонед, ки кадом мушкилиро интихоб намоед?
+    <a data-l10n-name="learnmore-link">Дар бораи гузоришдиҳӣ оид ба хатоҳо дар васеъшавиҳо ва мавзуъҳо маълумоти бешар гиред</a>
 abuse-report-submit-description = Мушкилиро тавзеҳ кунед (ихтиёрӣ)
 
 ## Panel buttons.

@@ -369,6 +369,7 @@ support-printing-prefs-value = Қимат
 support-remote-experiments-title = Озмоишҳои дурдаст
 support-remote-experiments-name = Ном
 support-remote-experiments-branch = Соҳаи озмоиш
+support-remote-experiments-see-about-studies = Барои маълумоти бештар, аз он ҷумла, барои гирифтани маълумот оид ба ғайрифаъолсозии озмоишҳои шахсӣ ё ғайрифаъолсозии { -brand-short-name } аз иҷрокунии ин навъи озмоиш дар оянда, ба қисми <a data-l10n-name="support-about-studies-link">about:studies</a> нигаред.
 support-remote-features-title = Хусусиятҳои дурдаст
 support-remote-features-name = Ном
 support-remote-features-status = Вазъият
