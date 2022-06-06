@@ -98,7 +98,7 @@ appmenu-help-enter-troubleshoot-mode =
 appmenu-help-exit-troubleshoot-mode =
     .label = Desativar modo de solução de problemas
 appmenu-help-more-troubleshooting-info =
-    .label = Mais informações para resolver problemas
+    .label = Informações técnicas
 appmenu-redirect-msg =
     .label = Redirecionar
 
