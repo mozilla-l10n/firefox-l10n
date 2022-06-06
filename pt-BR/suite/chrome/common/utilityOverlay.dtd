@@ -141,7 +141,7 @@
 <!ENTITY openHelpCmd.accesskey            "T">
 <!ENTITY openHelpCmd.key                  "VK_F1">
 
-<!ENTITY helpTroubleshootingInfo.label      "Informações para resolver problemas">
+<!ENTITY helpTroubleshootingInfo.label      "Informações técnicas">
 <!ENTITY helpTroubleshootingInfo.accesskey  "t">
 <!ENTITY releaseCmd.label                   "Notas de atualização">
 <!ENTITY releaseCmd.accesskey               "n">
