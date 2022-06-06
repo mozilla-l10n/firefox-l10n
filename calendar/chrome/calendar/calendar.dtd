@@ -13,7 +13,6 @@
 
 <!ENTITY calendar.today.button.label          "Hoje">
 <!ENTITY calendar.tomorrow.button.label       "Amanhã">
-<!ENTITY calendar.upcoming.button.label       "Seguintes">
 
 <!ENTITY calendar.events.filter.all.label "Todos os eventos">
 <!ENTITY calendar.events.filter.today.label "Eventos de hoje">
@@ -59,10 +58,10 @@
 <!ENTITY calendar.today.button.tooltip          "Vai para hoje" >
 <!ENTITY calendar.todaypane.button.tooltip      "Exibe painel hoje" >
 
-<!ENTITY calendar.day.button.tooltip            "Muda para visão do dia" >
-<!ENTITY calendar.week.button.tooltip           "Muda para visão da semana" >
-<!ENTITY calendar.month.button.tooltip          "Muda para visão do mês" >
-<!ENTITY calendar.multiweek.button.tooltip      "Muda para visão semanal" >
+<!ENTITY calendar.day.button.tooltip            "Mudar para visão do dia" >
+<!ENTITY calendar.week.button.tooltip           "Mudar para visão da semana" >
+<!ENTITY calendar.month.button.tooltip          "Mudar para visão do mês" >
+<!ENTITY calendar.multiweek.button.tooltip      "Mudar para visão semanal" >
 
 <!ENTITY calendar.nextday.label                 "Próximo dia" >
 <!ENTITY calendar.prevday.label                 "Dia anterior" >
@@ -369,8 +368,6 @@
 <!ENTITY calendar.publish.url.label                 "URL para publicação">
 <!ENTITY calendar.publish.publish.button      "Publicar">
 <!ENTITY calendar.publish.close.button      "Fechar">
-
-<!ENTITY calendar.publish.example.url.description   "Algo como http://www.meuservidor.com/webdav/teste.ics">
 
 <!-- Select Calendar Dialog -->
 <!ENTITY calendar.select.dialog.title    "Selecionar agenda">
