@@ -69,6 +69,14 @@ about-addressbook-sort-email-ascending =
     .label = Razvrsti po e-poštnem naslovu (A > Ž)
 about-addressbook-sort-email-descending =
     .label = Razvrsti po e-poštnem naslovu (Ž > A)
+about-addressbook-horizontal-layout =
+    .label = Preklopi na vodoravno postavitev
+about-addressbook-vertical-layout =
+    .label = Preklopi na navpično postavitev
+
+## Card column headers
+## Each string is listed here twice, and the values should match.
+
 about-addressbook-cards-context-write =
     .label = Sestavi
 about-addressbook-confirm-delete-mixed-title = Izbriši stike in sezname
