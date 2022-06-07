@@ -5,9 +5,18 @@
 
 # Type selection
 
+vcard-entry-type-label = Vrsta
+vcard-entry-type-home = Domov
+vcard-entry-type-work = Služba
+vcard-entry-type-none = brez
+vcard-entry-type-custom = Po meri
 
 # N vCard field
 
+vcard-name-header = Ime
+vcard-n-prefix = Predpona
+vcard-n-add-prefix =
+    .title = Dodaj predpono
 vcard-n-firstname = Ime
 vcard-n-add-firstname =
     .title = Dodaj ime
@@ -17,6 +26,9 @@ vcard-n-add-middlename =
 vcard-n-lastname = Priimek
 vcard-n-add-lastname =
     .title = Dodaj priimek
+vcard-n-suffix = Pripona
+vcard-n-add-suffix =
+    .title = Dodaj pripono
 
 # Email vCard field
 
