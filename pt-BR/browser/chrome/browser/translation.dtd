@@ -34,8 +34,8 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
-<!ENTITY translation.translatedFrom.label       "Esta página foi traduzida do">
-<!ENTITY translation.translatedTo.label         "para o">
+<!ENTITY translation.translatedFrom.label       "Esta página foi traduzida de">
+<!ENTITY translation.translatedTo.label         "para">
 <!ENTITY translation.translatedToSuffix.label   "">
 
 <!ENTITY translation.showOriginal.button        "Mostrar original">
@@ -54,6 +54,5 @@
   -->
 <!ENTITY translation.options.neverForSite.label "Nunca traduzir este site">
 <!ENTITY translation.options.neverForSite.accesskey "N">
-<!ENTITY translation.options.preferences.label  "Preferências da tradução">
+<!ENTITY translation.options.preferences.label  "Preferências de tradução">
 <!ENTITY translation.options.preferences.accesskey "P">
-
