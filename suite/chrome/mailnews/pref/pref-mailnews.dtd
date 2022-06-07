@@ -22,7 +22,7 @@
 <!ENTITY mailBiffOnNewWindow.label        "Só verificar se há novos emails após abrir email e grupos de notícias">
 <!ENTITY mailBiffOnNewWindow.accesskey    "o">
 
-<!ENTITY messengerStartPage.caption       "Página inicial do Mail">
+<!ENTITY messengerStartPage.caption       "Página inicial">
 <!ENTITY enableStartPage.label            "Ao iniciar o Email, abrir a página inicial na área da mensagem">
 <!ENTITY enableStartPage.accesskey        "A">
 <!ENTITY location.label                   "Endereço:">
