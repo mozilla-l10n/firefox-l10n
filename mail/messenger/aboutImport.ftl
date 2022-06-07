@@ -50,9 +50,18 @@ source-seamonkey = Inportatu { app-name-seamonkey } instalazio batetik
 source-seamonkey-description = Inportatu ezarpenak, iragazkiak, mezuak, eta bestelako datuak { app-name-seamonkey } profile batetik.
 source-outlook = Inportatu { app-name-outlook } batetik
 source-outlook-description = Inportatu kontuak, helbide liburua eta mezuak { app-name-outlook } batetik.
+source-becky = Inportatu { app-name-becky } batetik
+source-becky-description = Inportatu kontuak, helbide liburua eta mezuak { app-name-becky } batetik.
+source-apple-mail = Inportatu { app-name-apple-mail } batetik
+source-apple-mail-description = Inportatu mezuak { app-name-apple-mail }etik
+source-file2 = Inportatu fitxategitik
+source-file-description = Aukeratu fitxategia helbide liburutegia edo egutegiak inportatzeko edo profil segurtasun kopia bat (ZIP fitxategia)
 
 ## Import from file selections
 
+file-profile2 = Inportatu profil segurtasun kopiatik
+file-profile-description = Aukeratu aurretiko Thunderbird profil segurtasun kopia (.zip)
+file-calendar = Inportatu egutegiak
 
 ## Import from app profile steps
 
