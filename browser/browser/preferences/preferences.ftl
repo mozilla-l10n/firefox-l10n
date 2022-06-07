@@ -179,7 +179,7 @@ containers-remove-cancel-button = Não remover este contêiner
 
 ## General Section - Language & Appearance
 
-language-and-appearance-header = Idioma e Aparência
+language-and-appearance-header = Idioma e aparência
 preferences-web-appearance-header = Aparência de sites
 preferences-web-appearance-description = Alguns sites adaptam seu esquema de cores com base em suas preferências. Escolha qual esquema de cores você quer usar nesses sites.
 preferences-web-appearance-choice-browser = Tema do { -brand-short-name }
