@@ -41,7 +41,7 @@
 <!ENTITY translation.showOriginal.button        "Mostrar original">
 <!ENTITY translation.showTranslation.button     "Mostrar tradução">
 
-<!ENTITY translation.errorTranslating.label     "Houve um erro durante a tradução desta página.">
+<!ENTITY translation.errorTranslating.label     "Houve um erro ao traduzir esta página.">
 <!ENTITY translation.tryAgain.button            "Tentar novamente">
 
 <!ENTITY translation.serviceUnavailable.label   "A tradução não está disponível no momento. Tente novamente mais tarde.">
