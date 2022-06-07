@@ -16,7 +16,7 @@ import-address-book = Inportatu helbide-liburu fitxategia
 import-calendar = Inportatu egutegi fitxategia
 import-file = Inportatu fitxategitik
 import-file-title = Aukeratu fitxategia bere edukia inportatzeko
-import-file-description = Aukeratu inportatzeko aurrez gordetako profila, helbide liburua edo egutegiak.
+import-file-description = Aukeratu inportatzeko aurrez gordetako profila, helbide-liburua edo egutegiak.
 import-address-book-title = Inportatu helbide-liburu fitxategia
 import-calendar-title = Inportatu egutegi fitxategia
 export-profile = Esportatu
@@ -49,22 +49,30 @@ source-thunderbird-description = Inportatu ezarpenak, iragazkiak, mezuak, eta be
 source-seamonkey = Inportatu { app-name-seamonkey } instalazio batetik
 source-seamonkey-description = Inportatu ezarpenak, iragazkiak, mezuak, eta bestelako datuak { app-name-seamonkey } profile batetik.
 source-outlook = Inportatu { app-name-outlook } batetik
-source-outlook-description = Inportatu kontuak, helbide liburua eta mezuak { app-name-outlook } batetik.
+source-outlook-description = Inportatu kontuak, helbide-liburua eta mezuak { app-name-outlook } batetik.
 source-becky = Inportatu { app-name-becky } batetik
-source-becky-description = Inportatu kontuak, helbide liburua eta mezuak { app-name-becky } batetik.
+source-becky-description = Inportatu kontuak, helbide-liburua eta mezuak { app-name-becky } batetik.
 source-apple-mail = Inportatu { app-name-apple-mail } batetik
 source-apple-mail-description = Inportatu mezuak { app-name-apple-mail }etik
 source-file2 = Inportatu fitxategitik
-source-file-description = Aukeratu fitxategia helbide liburutegia edo egutegiak inportatzeko edo profil segurtasun kopia bat (ZIP fitxategia)
+source-file-description = Aukeratu fitxategia helbide-liburua edo egutegiak inportatzeko edo profil segurtasun kopia bat (ZIP fitxategia)
 
 ## Import from file selections
 
 file-profile2 = Inportatu profil segurtasun kopiatik
 file-profile-description = Aukeratu aurretiko Thunderbird profil segurtasun kopia (.zip)
 file-calendar = Inportatu egutegiak
+file-calendar-description = Aukeratu esportatutako egutegien edo gertaeren (.ics) fitxategia
+file-addressbook = Inportatu helbide-liburua
+file-addressbook-description = Aukeratu esportatutako helbide-liburua edo kontaktuak dituen fitxategia
 
 ## Import from app profile steps
 
+from-app-thunderbird = Inportatu { app-name-thunderbird } profil batetik
+from-app-seamonkey = Inportatu { app-name-seamonkey } profil batetik
+from-app-outlook = Inportatu { app-name-outlook } batetik
+from-app-becky = Inportatu { app-name-becky } batetik
+from-app-apple-mail = Inportatu { app-name-apple-mail } batetik
 items-pane-checkbox-accounts = Kontu eta ezarpenak
 items-pane-checkbox-address-books = Helbide-liburuak
 items-pane-checkbox-calendars = Egutegiak
