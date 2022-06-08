@@ -7,20 +7,20 @@ about-logins-page-title = Մուտքանուններ եւ գաղտնաբառեր
 login-filter =
     .placeholder = Որոնել մուտքանուններ
 create-login-button = Ստեղծել նոր մուտքանուն
-fxaccounts-sign-in-text = Դարձրէք Ձեր գաղտնաբառերը հասանելի նաեւ Ձեր միւս սարքերում
-fxaccounts-sign-in-sync-button = մուտք գործել համաժամեցման համար
+fxaccounts-sign-in-text = Դարձրէք Ձեր գաղտնաբառերը հասանելի նաեւ Ձեր մեւս սարքերում
+fxaccounts-sign-in-sync-button = Մուտք գործել համաժամեցման համար
 fxaccounts-avatar-button =
-    .title = Կառավարել հաշիւը
+    .title = Հաշուի կառավարում
 
 ## The ⋯ menu that is in the top corner of the page
 
 menu =
     .title = Բացել ցանկը
 # This menuitem is only visible on Windows and macOS
-about-logins-menu-menuitem-import-from-another-browser = Ներմուծել մեկ այլ զննարկիչից…
+about-logins-menu-menuitem-import-from-another-browser = Ներմուծել մեկ այղ դիտարկիչից…
 about-logins-menu-menuitem-import-from-a-file = Ներմուծել նիշից…
 about-logins-menu-menuitem-export-logins = Դուրս բերել մուտքանունները
-about-logins-menu-menuitem-remove-all-logins = Հեռացնել բոլոր մտից անունները…
+about-logins-menu-menuitem-remove-all-logins = Հեռացնել բոլոր մուտքգործումները…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Ընտրանքներ
