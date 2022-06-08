@@ -38,10 +38,10 @@ login-list-count =
        *[other] { $count } մուտքանուններ
     }
 login-list-sort-label-text = Տեսակաւորել ըստ՝
-login-list-name-option = Անուն (Ա-Ֆ)
-login-list-name-reverse-option = Անուն (Ֆ֊Ա)
-login-list-username-option = Աւգտանուն (Ա-Ֆ)
-login-list-username-reverse-option = Աւգտանուն (Ֆ֊Ա)
+login-list-name-option = Անուն (Ա-Ք)
+login-list-name-reverse-option = Անուն (Ք֊Ա)
+login-list-username-option = Աւգտանուն (Ա-Ք)
+login-list-username-reverse-option = Աւգտանուն (Ք֊Ա)
 about-logins-login-list-alerts-option = Ծանուցումներ
 login-list-last-changed-option = Վերջին փոփոխութիւնը
 login-list-last-used-option = Վերջին անգամ գործածուածը
@@ -179,7 +179,7 @@ about-logins-confirm-remove-all-sync-dialog-message =
        *[other] Սա կը հեռացնի { -fxaccount-brand-name }- ում պահպանած մտից անունները ձեր { -fxaccount-brand-name }֊ի հետ համաժամեցրած բոլոր սարքերում։ Կը հեռացուեն նաեւ խախտումների ծանուցումները, որոնք յայտնուում են այստեղ: Դուք չէք կարողանայ յետարկել այս գործողութիւնը:
     }
 about-logins-confirm-export-dialog-title = Արտահանել մուտքանուններն ու գաղտնաբառերը
-about-logins-confirm-export-dialog-message = Ձեր գաղտնաբառերը կը պահպանուեն որպէս ընթեռնելի գրոյթ (աւրինակ՝ BadP@ssw0rd) եւ ովքեր կարող են բացել ձեր նիշերը, կը տեսնեն գաղտնաբառերը։
+about-logins-confirm-export-dialog-message = Ձեր գաղտնաբառերը կը պահպանուեն որպէս ընթեռնելի գրոյթ (աւրինակ՝ BadP@ssw0rd) եւ ովքեր կարող են բացել Ձեր նիշերը, կը տեսնեն գաղտնաբառերը։
 about-logins-confirm-export-dialog-confirm-button = Արտահանել
 about-logins-alert-import-title = Ներմուծումն աւարտուեց
 about-logins-alert-import-message = Նայէք մուտքագրուած մանրամասների ամփոփագիրը
@@ -200,7 +200,7 @@ about-logins-breach-alert-learn-more-link = Իմանալ աւելին
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Խոցելի գաղտնաբառ
-about-logins-vulnerable-alert-text2 = Այս գաղտնաբառն աւգտագործուել է այլ հաշուի կողմից, որի տուեալները հաւանաբար արտահոսել են։ Կրկնաւգտագործումը կարող է վտանգել Ձեր բոլոր հաշիւները։ Փոխէք  գաղտանաբառը։
+about-logins-vulnerable-alert-text2 = Այս գաղտնաբառն աւգտագործուել է այլ հաշուի կողմից, որի տուեալները հաւանաբար արտահոսել են։ Կրկնաւգտագործումը կարող է վտանգել Ձեր բոլոր հաշիւները։ Փոխէք գաղտանաբառը։
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Գնալ դէպի { $hostname }
@@ -280,7 +280,7 @@ about-logins-import-dialog-items-error =
 about-logins-import-dialog-done = Արուած
 about-logins-import-dialog-error-title = Ներածման սխալ
 about-logins-import-dialog-error-conflicting-values-title = Բազմաթիւ հակասող արժէքներ մեկ մտից անուան համար
-about-logins-import-dialog-error-conflicting-values-description = Աւրինակ՝ բազմաթիւ աւգտանուններ, գաղտնաբառեր, URL֊ներ եւ այլն մեկ աւգտանուան համար։
+about-logins-import-dialog-error-conflicting-values-description = Աւրինակ՝ բազմաթիւ աւգտանուններ, գաղտնաբառեր, URL֊ներ եւ այղն մեկ աւգտանուան համար։
 about-logins-import-dialog-error-file-format-title = Նիշի ձեւաչափի խնդիր
 about-logins-import-dialog-error-file-format-description = Սխալ կամ բացակայող սիւնակների վերնագրեր։ Նիշը պէտք է ունենայ սիւնակներ աւգտանուան, գաղտնաբառի եւ URL֊ի համար։
 about-logins-import-dialog-error-file-permission-title = Նիշն անընթեռնելի է

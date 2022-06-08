@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Աւելացնել պիտակներ
-
 pocket-panel-saved-error-generic = Սխալ՝ { -pocket-brand-name }-ում պահպանելիս։
 pocket-panel-saved-error-tag-length = Պիտակը սահմանափակուած է 25 գրանշանով
 pocket-panel-saved-error-only-links = Միայն յղումները կարող են պահուել
@@ -30,7 +29,6 @@ pocket-panel-saved-saving-tags = Պահպանում…
 pocket-panel-saved-suggested-tags = Առաջարկուող պիտակներ
 pocket-panel-saved-tags-saved = Պիտակները աւելացուել են
 pocket-panel-signup-view-list = Դիտել ցանկը
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Աւելացնել պիտակներ․
 
@@ -39,17 +37,16 @@ pocket-panel-signup-add-tags = Աւելացնել պիտակներ․
 pocket-panel-signup-already-have = Արդէն { -pocket-brand-name } աւգտուո՞ղ եք։
 pocket-panel-signup-learn-more = Իմանալ աւելին
 pocket-panel-signup-login = Մուտք գործել
-pocket-panel-signup-signup-email = Մուտք գործել ել֊փոստով
+pocket-panel-signup-signup-email = Մուտք գործել եղ֊փոստով
 pocket-panel-signup-signup-cta = Գրանցուէք { -pocket-brand-name }-ում։ Անվճար է։
 pocket-panel-signup-signup-firefox = Գրանցուել { -brand-product-name }-ով
-pocket-panel-signup-tagline = Պահպանէք հոդուածներ եւ տեսանիւթեր { -brand-product-name }-ից՝ դրանք յետագայում ցանկացած սարքից, ցանկացած ժամանակ { -pocket-brand-name }-ում դիտելու համար։
-pocket-panel-signup-tagline-story-one = Սեղմէք { -pocket-brand-name } կոճակը՝ { -brand-product-name }-ից ցանկացած հոդուած, տեսանիւթ կամ էջ պահպանելու համար։
+pocket-panel-signup-tagline = Պահպանէք յաւդուածներ եւ տեսանիւթեր { -brand-product-name }-ից՝ դրանք յետագայում ցանկացած սարքից, ցանկացած ժամանակ { -pocket-brand-name }-ում դիտելու համար։
+pocket-panel-signup-tagline-story-one = Սեղմէք { -pocket-brand-name } կոճակը՝ { -brand-product-name }-ից ցանկացած յաւդուած, տեսանիւթ կամ էջ պահպանելու համար։
 pocket-panel-signup-tagline-story-two = Դիտէք { -pocket-brand-name }-ում ցանկացած սարքից, ցանկացած ժամանակ։
-
 pocket-panel-signup-cta-a-fix = Պահպանման կոճակ համացանցի համար։
-pocket-panel-signup-cta-b = Սեղմէք { -pocket-brand-name } կաւճակը յոդուածներ, տեսանիւթեր, յղումներ պահպանելու համար։ Դիտէք ձեր ցուցակը ցանկացած սարքի վրայ, ցանկացած ժամանակ։
-pocket-panel-signup-cta-b-short = Սեղմէք { -pocket-brand-name } կաւճակը յոդուածներ, տեսանիւթեր եւ յղումներ պահպանելու համար։
-pocket-panel-signup-cta-c = Դիտէք ձեր ցուցակը ցանկացած սարքի վրայ, ցանկացած ժամանակ:
+pocket-panel-signup-cta-b = Սեղմէք { -pocket-brand-name } կոճակը՝ յաւդուածներ, տեսանիւթեր, յղումներ պահպանելու համար։ Դիտէք Ձեր ցուցակը ցանկացած սարքի վրայ, ցանկացած ժամանակ։
+pocket-panel-signup-cta-b-short = Սեղմէք { -pocket-brand-name } կոճակը՝ յոդուածներ, տեսանիւթեր եւ յղումներ պահպանելու համար։
+pocket-panel-signup-cta-c = Դիտէք Ձեր ցուցակը ցանկացած սարքի վրայ, ցանկացած ժամանակ:
 
 ## about:pocket-home panel
 
@@ -59,7 +56,6 @@ pocket-panel-home-paragraph = { -pocket-brand-name } -ն աւգտագործու�
 pocket-panel-home-explore-popular-topics = Բացայայտել հանրաճանաչ նիւթերը
 pocket-panel-home-discover-more = Բացայայտել աւելին
 pocket-panel-home-explore-more = Ուսումնասիրել․
-
 pocket-panel-home-most-recent-saves = Ահա ձեր ամենավերջին պահպանածները․
 pocket-panel-home-most-recent-saves-loading = Վերջին պահումների բեռնում…
 pocket-panel-home-new-user-cta = Սեղմէք { -pocket-brand-name } կաւճակը յոդուածներ, տեսանիւթեր եւ յղումներ պահպանելու համար։
