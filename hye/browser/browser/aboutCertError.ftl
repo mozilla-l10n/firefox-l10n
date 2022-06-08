@@ -96,5 +96,5 @@ blockedByPolicy-title = Արգելափակուած էջ
 clockSkewError-title = Ձեր համակարգչի ժամացոյցը սխալ է
 networkProtocolError-title = Ցանցի հաղորդակարգի սխալ
 nssBadCert-title = Զգուշացում․ հնարաւոր է ապահովութեան վտանգ
-nssBadCert-sts-title = Չը կապակցուեց․ հնարաւոր անվտանգութեան թողարկող
-certerror-mitm-title = Ծրագիրը կանխում է { -brand-short-name }֊ը Անվտանգաւրէն կապուելով այս կայքի հետ։
+nssBadCert-sts-title = Չկապակցուեց․ հնարաւոր անվտանգութեան թողարկող
+certerror-mitm-title = Ծրագիրը կանխում է { -brand-short-name }֊ը՝ անվտանգ կապուելով այս կայքի հետ։
