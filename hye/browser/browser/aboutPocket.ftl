@@ -58,8 +58,8 @@ pocket-panel-home-discover-more = Բացայայտել աւելին
 pocket-panel-home-explore-more = Ուսումնասիրել․
 pocket-panel-home-most-recent-saves = Ահա ձեր ամենավերջին պահպանածները․
 pocket-panel-home-most-recent-saves-loading = Վերջին պահումների բեռնում…
-pocket-panel-home-new-user-cta = Սեղմէք { -pocket-brand-name } կաւճակը յոդուածներ, տեսանիւթեր եւ յղումներ պահպանելու համար։
-pocket-panel-home-new-user-message = Տեսնել ձեր վերջին պահպանածներն այստէղ։
+pocket-panel-home-new-user-cta = Սեղմէք { -pocket-brand-name } կոճակը՝ յաւդուածներ, տեսանիւթեր եւ յղումներ պահպանելու համար։
+pocket-panel-home-new-user-message = Տեսնել վերջին պահպանածներն այստեղ։
 
 ## Pocket panel header component
 
