@@ -43,6 +43,10 @@ pocket-panel-signup-signup-firefox = Regjistriti cun { -brand-product-name }
 pocket-panel-signup-tagline = Salve i articui e i videos di { -brand-product-name } par visualizâju in { -pocket-brand-name } su cualsisei dispositîf, cuant che tu vûs.
 pocket-panel-signup-tagline-story-one = Fâs clic sul boton di { -pocket-brand-name } par salvâ di { -brand-product-name } cualsisei articul, video o pagjine.
 pocket-panel-signup-tagline-story-two = Visualize in { -pocket-brand-name } su cualsisei dispositîf, cuant che tu vûs.
+pocket-panel-signup-cta-a-fix = Il to boton di salvament par internet
+pocket-panel-signup-cta-b = Fâs clic sul boton { -pocket-brand-name } par salvâ articui, videos e colegaments. Visualize la tô liste su cualsisei dispositîf, cuant che tu vûs.
+pocket-panel-signup-cta-b-short = Fâs clic sul boton { -pocket-brand-name } par salvâ articui, videos e colegaments.
+pocket-panel-signup-cta-c = Visualize la tô liste su cualsisei dispositîf, cuant che tu vûs.
 
 ## about:pocket-home panel
 
@@ -52,6 +56,8 @@ pocket-panel-home-paragraph = Tu puedis doprâ { -pocket-brand-name } par esplor
 pocket-panel-home-explore-popular-topics = Esplora i argoments plui popolârs
 pocket-panel-home-discover-more = Scuvierç alc altri
 pocket-panel-home-explore-more = Esplore
+pocket-panel-home-most-recent-saves = Chi a son i salvaments plui resints:
+pocket-panel-home-most-recent-saves-loading = Cjariament dal salvaments resints…
 
 ## Pocket panel header component
 
