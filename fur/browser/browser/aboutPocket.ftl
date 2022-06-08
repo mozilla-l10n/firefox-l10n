@@ -11,14 +11,17 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Zonte etichetis
-
 pocket-panel-saved-error-generic = Al è vignût fûr un erôr intant che si cirive di salvâ su { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Lis etichetis a àn un limit di 25 caratars
 pocket-panel-saved-error-only-links = Si pues salvâ dome i colegaments
 pocket-panel-saved-error-not-saved = Pagjine no salvade
+pocket-panel-saved-error-no-internet = Tu scugnis jessi conetût a internet par podê salvâ su { -pocket-brand-name }. Conetiti a internet e torne prove.
+pocket-panel-saved-error-remove = Al è vignût fûr un erôr intant che si cirive di gjavâ cheste pagjine.
 pocket-panel-saved-page-removed = Pagjine gjavade
 pocket-panel-saved-page-saved = Pagjine salvade su { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Salvât su { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Daûr a gjavâ la pagjine…
+pocket-panel-saved-removed = Pagjine gjavade de Mê liste
 pocket-panel-saved-processing-tags = Daûr a zontâ lis etichetis…
 pocket-panel-saved-remove-page = Gjave la pagjine
 pocket-panel-saved-save-tags = Salve
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = Daûr a salvâ…
 pocket-panel-saved-suggested-tags = Etichetis sugjeridis
 pocket-panel-saved-tags-saved = Etichetis zontadis
 pocket-panel-signup-view-list = Visualize la liste
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Zonte etichetis:
 
 ## about:pocket-signup panel
 
@@ -49,6 +54,7 @@ pocket-panel-home-discover-more = Scuvierç alc altri
 pocket-panel-home-explore-more = Esplore
 
 ## Pocket panel header component
+
 
 ## Pocket panel buttons
 
