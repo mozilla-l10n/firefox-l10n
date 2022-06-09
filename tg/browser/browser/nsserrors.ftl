@@ -109,6 +109,7 @@ ssl-error-no-compression-overlap = Пайвастшавии бехатар бо 
 ssl-error-handshake-not-completed = То вақте ки дастфишории ҷорӣ ба анҷом нарасад, дастфишории дигари SSL оғоз карда намешавад.
 ssl-error-bad-handshake-hash-value = Аз ҳамсон қиматҳои додаҳои тасодуфии дастфишории нодуруст қабул карда шудаанд.
 ssl-error-cert-kea-mismatch = Гувоҳиномаи пешниҳодшуда бо алгоритми мубодилаи калидҳои интихобшуда истифода намешавад.
+ssl-error-no-trusted-ssl-client-ca = Ҳангоми санҷиши ҳаққонияти муштарии SSL ягон мақомоти иҷозатномадиҳандаи боэътимод ёфт нашуд.
 ssl-error-user-canceled-alert = Корбари ҳамсон дастфишориро бекор кард.
 ssl-error-rx-unexpected-uncompressed-record = SSL сабти ногаҳони фишурданашударо қабул кард.
 ssl-error-feature-not-supported-for-servers = Хусусияти SSL барои серверҳо дастгирӣ намешавад.
