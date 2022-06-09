@@ -6,6 +6,7 @@ privatebrowsingpage-open-private-window-label = একটি ব্যক্ত�
     .accesskey = P
 about-private-browsing-search-placeholder = ওয়েবে অনুসন্ধান করুন
 about-private-browsing-info-title = আপনি একটি ব্যাক্তিগত উইন্ডোতে আছেন
+about-private-browsing-handoff-text-no-engine = অনুসন্ধান করুন অথবা ঠিকানা লিখুন
 about-private-browsing-not-private = আপনি বর্তমানে কোনো ব্যক্তিগত উইন্ডোতে নেই।
 
 ## The following strings will be used for experiments in Fx99 and Fx100
@@ -22,4 +23,3 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = বন্ধ
-
