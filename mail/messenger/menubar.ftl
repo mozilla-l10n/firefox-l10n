@@ -11,7 +11,6 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Ezarpenak
     .accesskey = E
-
 menu-addons-and-themes =
     .label = Gehigarriak eta itxurak
     .accesskey = G
@@ -21,11 +20,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Arazoak konpontzeko modua…
     .accesskey = A
-
 menu-help-exit-troubleshoot-mode =
     .label = Desaktibatu arazoak konpontzeko modua
     .accesskey = D
-
 menu-help-more-troubleshooting-info =
     .label = Arazoak konpontzeko informazio gehiago
     .accesskey = i
@@ -53,22 +50,30 @@ menu-view-repair-text-encoding =
 
 ## View / Layout
 
+menu-font-size-label =
+    .label = Letra-tamaina
+    .accesskey = t
+menuitem-font-size-enlarge =
+    .label = Handiagotu letra-tipoaren tamaina
+    .accesskey = H
+menuitem-font-size-reduce =
+    .label = Txikitu letra-tipoaren tamaina
+    .accesskey = T
+menuitem-font-size-reset =
+    .label = Berrezarri testuaren tamaina
+    .accesskey = B
 mail-uidensity-label =
     .label = Dentsitatea
     .accesskey = D
-
 mail-uidensity-compact =
     .label = Trinkoa
     .accesskey = T
-
 mail-uidensity-normal =
     .label = Arrunta
     .accesskey = A
-
 mail-uidensity-touch =
     .label = Ukipena
     .accesskey = U
-
 menu-spaces-toolbar-button =
     .label = Guneen tresna-barra
     .accesskey = G
