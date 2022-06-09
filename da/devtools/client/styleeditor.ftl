@@ -11,18 +11,18 @@ styleeditor-import-button =
 styleeditor-filter-input =
     .placeholder = Filtrer stylesheets
 styleeditor-visibility-toggle =
-    .tooltiptext = Skift synlighed af style sheet
+    .tooltiptext = Skift synlighed af stylesheet
     .accesskey = G
 styleeditor-save-button = Gem
-    .tooltiptext = Gem dette style sheet til en fil
+    .tooltiptext = Gem dette stylesheet til en fil
     .accesskey = G
 styleeditor-options-button =
     .tooltiptext = Indstillinger for CSS-editor
 styleeditor-media-rules = @media-regler
 styleeditor-editor-textbox =
     .data-placeholder = Skriv CSS her.
-styleeditor-no-stylesheet = Denne side har intet style sheet.
-styleeditor-no-stylesheet-tip = Måske vil du <a data-l10n-name="append-new-stylesheet">tilføje et nyt style sheet</a>?
+styleeditor-no-stylesheet = Denne side har intet stylesheet.
+styleeditor-no-stylesheet-tip = Måske vil du <a data-l10n-name="append-new-stylesheet">tilføje et nyt stylesheet</a>?
 styleeditor-open-link-new-tab =
     .label = Åbn link i et nyt faneblad
 styleeditor-copy-url =
