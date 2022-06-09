@@ -3,13 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 styleeditor-new-button =
-    .tooltiptext = Opret og tilføj et nyt style sheet til dokumentet
+    .tooltiptext = Opret og tilføj et nyt stylesheet til dokumentet
     .accesskey = N
 styleeditor-import-button =
-    .tooltiptext = Importer og tilføj et eksisterende style sheet til dokumentet
+    .tooltiptext = Importer og tilføj et eksisterende stylesheet til dokumentet
     .accesskey = I
 styleeditor-filter-input =
-    .placeholder = Filtrer style sheets
+    .placeholder = Filtrer stylesheets
 styleeditor-visibility-toggle =
     .tooltiptext = Skift synlighed af style sheet
     .accesskey = G
