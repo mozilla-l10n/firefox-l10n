@@ -131,6 +131,17 @@ calendar-select-all-items = Hautatu dena
 calendar-deselect-all-items = Desautatu denak
 calendar-import-into-new-calendar = Sortu egutegi berria
 calendar-target-title = Aukeratu nora inportatu aukeratutako elementuak.
+# $targetCalendar (string) - name of the new calendar that would be created
+calendar-import-into-new-calendar2 = Sortu egutegi berria <strong>"{ $targetCalendar }"</strong> izenaz
+# $itemCount (number) - count of selected items (tasks, events) that will be imported
+# $targetCalendar (string) - name of the calendar the items will be imported into
+calendar-summary-title =
+    { $itemCount ->
+        [one] Inportatu elementu bat "{ $targetCalendar }" egutegira
+       *[other] Inportatu { $itemCount } elementu "{ $targetCalendar }" egutegira
+    }
+# $targetCalendar (string) - name of the calendar that will be created
+calendar-summary-description = "{ $targetCalendar }" izeneko egutegia sortuko da.
 
 ## Import dialog
 
@@ -138,12 +149,20 @@ progress-pane-importing = Inportatzen
 progress-pane-exporting = Esportatzen
 progress-pane-finished-desc = Amaitua
 progress-pane-restart-desc = Berrabiarazi inportazioa amaitzeko.
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-importing2 = Inportatzen…{ $progressPercent }
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-exporting2 = Esportatzen…{ $progressPercent }
+progress-pane-finished-desc2 = Osatua
 error-pane-title = Errorea
 error-message-zip-file-too-big = Hautatutako Zip fitxategia 2GB baino handiagoa da. Mesedez, erauzi lehenengo eta gero inportatu erauzitako karpeta.
 error-message-extract-zip-file-failed = Huts egin du zip fitxategia erauzteak. Mesedez erauzi eskuz, ondoren inportatu erauzitako karpeta.
+error-message-zip-file-too-big2 = Aukeratutako ZIP fitxategia 2GB baino handiagoa da. Mesedez, erauzi aurrez eta ondoren inportatu erauzitako karpeta.
+error-message-extract-zip-file-failed2 = Huts egin du ZIP fitxategia erauzteak. Mesedez erauzi eskuz, ondoren inportatu erauzitako karpeta.
 error-message-failed = Huts egin du inportazioak ustekabean, informazio gehiago eskuragarri errore kontsolan.
 error-failed-to-parse-ics-file = Ez dira inportatzeko elementuak aurkitu fitxategian.
 error-export-failed = Huts egin du esportazioak ustekabean, informazio gehiago eskuragarri errore kontsolan.
+error-message-no-profile = Ez da profilik aurkitu.
 
 ## <csv-field-map> element
 
@@ -157,12 +176,23 @@ csv-target-field = Helbide-liburuko eremua
 
 export-profile-desc = Esportatu posta kontuak, posta mezuak, helbide liburuak, ezarpenak zip fitxategi batera. Behar duzunean, zip fitxategitik inportatuz zure profila berreskura zenezake.
 export-profile-desc2 = Zure profila 2GB baino handiagoa bada zure aldetik segurtasun kopia egitea gomendatzen dizugu.
+export-profile-title = Esportatu kontuak, mezuak, helbide-liburua eta ezarpenak ZIP fitxategi batera.
+export-profile-description = Zure profila 2GB baino handiagoa bada zure aldetik segurtasun kopia egitea gomendatzen dizugu.
 export-open-profile-folder = Ireki profilaren karpeta
 export-file-picker = Esportatu zip fitxategira
+export-file-picker2 = Esportatu ZIP fitxategira
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-title = Inportatu beharreko datuak
+summary-pane-start = Hasi inportatze-prozesua
+summary-pane-warning = { -brand-product-name } berrabiarazi beharra dauka inportazioa osotu ondoren.
+summary-pane-start-over = Berrasi inportazio tresna
 
 ## Footer area
 
+footer-help = Laguntza bila?
+footer-import-documentation = Inportatu dokumentazioa
+footer-export-documentation = Esportatu dokumentazioa
+footer-support-forum = Laguntza foroa
