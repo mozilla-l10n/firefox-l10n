@@ -73,14 +73,31 @@ from-app-seamonkey = Inportatu { app-name-seamonkey } profil batetik
 from-app-outlook = Inportatu { app-name-outlook } batetik
 from-app-becky = Inportatu { app-name-becky } batetik
 from-app-apple-mail = Inportatu { app-name-apple-mail } batetik
+profiles-pane-title-thunderbird = Inportatu ezarpenak eta datuak { app-name-thunderbird } profiletik.
+profiles-pane-title-seamonkey = Inportatu ezarpenak eta datuak { app-name-seamonkey } profiletik.
+profiles-pane-title-outlook = Inportatu datuak { app-name-outlook } batetik
+profiles-pane-title-becky = Inportatu datuak { app-name-becky } batetik
+profiles-pane-title-apple-mail = Inportatu mezuak { app-name-apple-mail }etik
+profile-source = Inportatu profiletik
+# $profileName (string) - name of the profile
+profile-source-named = Inportatu <strong>"{ $profileName }"</strong> profiletik
+profile-file-picker-directory = Hautatu profil-karpeta
+profile-file-picker-archive = Aukeratu <strong>ZIP</strong> fitxategia
+profile-file-picker-archive-description = ZIP fitxategia 2GB baino txikiagoa izan behar du.
+profile-file-picker-archive-title = Hautatu zip fitxategia (2GB baino txikiagoa)
+items-pane-title2 = Aukeratu zer inportatu
+items-pane-directory = Karpeta:
+items-pane-profile-name = Profilaren izena:
 items-pane-checkbox-accounts = Kontu eta ezarpenak
 items-pane-checkbox-address-books = Helbide-liburuak
 items-pane-checkbox-calendars = Egutegiak
 items-pane-checkbox-mail-messages = Posta-mezuak
+items-pane-override = Badagoen edo berdinak diren datuak ez dira gainidatziko.
 
 ## Import from address book file steps
 
 import-from-addr-book-file-desc = Aukeratu inportatu nahi zenukeen fitxategi mota:
+import-from-addr-book-file-description = Aukeratu zure helbide-liburu datuak dituen fitxategi formatua.
 addr-book-csv-file = Komaz edo tab banatutako fitxategia  (.csv, .tsv)
 addr-book-ldif-file = LDIF fitxategia (.ldif)
 addr-book-vcard-file = vCard fitxategia (.vcf, .vcard)
@@ -90,21 +107,30 @@ addr-book-file-picker = Hautatu helbide-liburuen fitxategia
 addr-book-csv-field-map-title = Bat egin (elkartu) eremu izenak
 addr-book-csv-field-map-desc = Aukeratu helbide liburuko eremuak jatorri eremuekin bat datozenak. Desautatu inportatu nahi ez dituzun eremuak.
 addr-book-directories-pane-title = Aukeratu zein direktoriora inportatu nahi duzun:
+addr-book-directories-title = Aukeratu nora inportatu aukeratutako datuak
 addr-book-directories-pane-source = Iturburu fitxategia:
 addr-book-import-into-new-directory = Sortu direktorio berria
 
 ## Import from address book file steps
 
+# $addressBookName (string) - name of the new address book that would be created.
+addr-book-import-into-new-directory2 = Sortu karpeta berria <strong>"{ $addressBookName }"</strong> izenaz
+# $addressBookName (string) - name of the address book to import into
+addr-book-summary-title = Inportatu aukeratutako datuak "{ $addressBookName }" karpetan
+# $addressBookName (string) - name of the address book that will be created.
+addr-book-summary-description = "{ $addressBookName }" izeneko helbide-liburua sortuko da.
 
 ## Import from calendar file steps
 
 import-from-calendar-file-desc = Aukeratu inportatu nahi zenukeen iCalendar (.ics) fitxategia.
+calendar-items-title = Hautatu inportatzeko elementuak.
 calendar-items-loading = Elementuak kargatzen…
 calendar-items-filter-input =
     .placeholder = Elementuak iragazi…
 calendar-select-all-items = Hautatu dena
 calendar-deselect-all-items = Desautatu denak
 calendar-import-into-new-calendar = Sortu egutegi berria
+calendar-target-title = Aukeratu nora inportatu aukeratutako elementuak.
 
 ## Import dialog
 
