@@ -228,6 +228,7 @@ openpgp-key-man-key-details-key =
     .key = I
 openpgp-key-details-title =
     .title = Gako propietateak
+openpgp-key-details-doc-title = Gako propietateak
 openpgp-key-details-signatures-tab =
     .label = Ziurtagiriak
 openpgp-key-details-structure-tab =
