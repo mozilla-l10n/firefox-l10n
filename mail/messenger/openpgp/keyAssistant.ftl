@@ -8,6 +8,14 @@ openpgp-key-assistant-rogue-warning = Kerülje a hamis kulcsok elfogadását. An
 ## Encryption status
 
 openpgp-key-assistant-recipients-issue-header = Nem titkosítható
+# Variables:
+# $count (Number) - The number of recipients that need attention.
+openpgp-key-assistant-recipients-issue-description =
+    { $count ->
+        [one] A titkosításhoz használható kulcsot kell szereznie és elfogadnia egy címzettnél. <a data-l10n-name="openpgp-link">További tudnivalók…</a>
+       *[other] A titkosításhoz használható kulcsot kell szereznie és elfogadnia { $count } címzettnél. <a data-l10n-name="openpgp-link">További tudnivalók…</a>
+    }
+openpgp-key-assistant-info-alias = A { -brand-short-name } általában megköveteli, hogy a címzett nyilvános kulcsa tartalmazza azt a felhasználóazonosítót, mely megfelel az e-mail-címnek. Ez felülírható az OpenPGP címzett álnevéhez kapcsolódó szabályaival. <a data-l10n-name="openpgp-link">További tudnivalók…</a>
 
 ## Resolve section
 
