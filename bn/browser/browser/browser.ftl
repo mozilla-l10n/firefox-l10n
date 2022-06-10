@@ -112,6 +112,7 @@ urlbar-search-tips-redirect-2 = আপনার ব্রাউজিং ইত�
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = বুকমার্ক
 
 ##
 
@@ -140,11 +141,11 @@ urlbar-install-blocked =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
-    .tooltiptext = এই বুকমার্কটি সম্পাদনা ({ $shortcut })
+    .tooltiptext = এই বুকমার্কটি সম্পাদনা করুন ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
-    .tooltiptext = পাতাটি বুকমার্ক করুন ({ $shortcut })
+    .tooltiptext = এই পাতাটি বুকমার্ক করুন ({ $shortcut })
 
 ## Page Action Context Menu
 
@@ -201,13 +202,15 @@ bookmark-panel-cancel =
 bookmark-panel-remove =
     .label =
         { $count ->
-            [one] বুকমার্ক মুছে ফেলা হবে
-           *[other] বুকমার্কগুলো মুছে ফেলা হবে { $count }
+            [one] বুকমার্ক সরান
+           *[other] { $count }টি বুকমার্ক সরান
         }
     .accesskey = R
 bookmark-panel-show-editor-checkbox =
-    .label = সংরক্ষণ করার সময় সম্পাদক দেখাও
+    .label = সংরক্ষণ করার সময় সম্পাদক দেখান
     .accesskey = S
+bookmark-panel-save-button =
+    .label = সংরক্ষণ করুন
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -284,6 +287,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = বুকমার্ক আমদানি করুন…
+    .tooltiptext = অন্য ব্রাউজার থেকে { -brand-short-name }-এ বুকমার্ক আমদানি করুন
 
 ## WebRTC Pop-up notifications
 
@@ -341,6 +347,7 @@ urlbar-result-action-visit = পরিদর্শন করুন
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = বুকমার্ক অনুসন্ধান করুন
 
 ## Labels shown above groups of urlbar results
 
@@ -397,22 +404,25 @@ bookmarks-tools-menu-button-visibility =
 bookmarks-search =
     .label = বুকমার্ক অনুসন্ধান
 bookmarks-tools =
-    .label = বুকমার্ক টুলসমূহ
+    .label = বুকমার্কের সরঞ্জাম
 bookmarks-bookmark-edit-panel =
     .label = বুকমার্ক সম্পাদনা
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
-    .toolbarname = বুকমার্ক টুলবার B
+    .toolbarname = বুকমার্কের সরঞ্জামদণ্ড
     .accesskey = B
-    .aria-label = বুকমার্ক
+    .aria-label = বুকমার্কসমূহ
 bookmarks-toolbar-menu =
-    .label = বুকমার্ক টুলবার B
+    .label = বুকমার্কের সরঞ্জামদণ্ড
 bookmarks-toolbar-placeholder =
     .title = বুকমার্ক টুলবারের আইটেম
 bookmarks-toolbar-placeholder-button =
     .label = বুকমার্ক টুলবারের আইটেম
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = বর্তমান ট্যাবটি বুকমার্ক করুন
 
 ## Library Panel items
 
@@ -540,6 +550,8 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>পূর্ববর্তী ট্যাবগুলি খুলবেন?</strong> আপনি { -brand-short-name } অ্যাপ্লিকেশন মেনুতে গিয়ে <img data-l10n-name="icon"/>, ইতিহাস থেকে আপনার আগের সেশন পুনরুদ্ধার করতে পারেন।
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
