@@ -26,6 +26,8 @@ about-addressbook-books-context-properties =
     .label = Властивості
 about-addressbook-books-context-synchronize =
     .label = Синхронізувати
+about-addressbook-books-context-edit =
+    .label = Змінити
 about-addressbook-books-context-print =
     .label = Друкувати…
 about-addressbook-books-context-export =
@@ -53,8 +55,8 @@ about-addressbook-search =
     .placeholder = Пошук { $name }
 about-addressbook-search-all =
     .placeholder = Пошук у всіх адресних книгах
-about-addressbook-sort-button =
-    .title = Змінити порядок списку
+about-addressbook-sort-button2 =
+    .title = Перелік параметрів показу
 about-addressbook-name-format-display =
     .label = Ім'я для показу
 about-addressbook-name-format-firstlast =
@@ -160,8 +162,18 @@ about-addressbook-confirm-delete-contacts =
        *[many] Ви впевнені, що хочете видалити ці { $count } контактів?
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+about-addressbook-placeholder-empty-book = Немає доступних контактів
+about-addressbook-placeholder-new-contact = Новий контакт
+about-addressbook-placeholder-search-only = Ця адресна книга показує контакти лише після пошуку
+about-addressbook-placeholder-searching = Пошук…
+about-addressbook-placeholder-no-search-results = Контактів не знайдено
+
 ## Details
 
+about-addressbook-prefer-display-name = Надавати перевагу показуваному імені, а не заголовку повідомлення
 about-addressbook-write-action-button = Створити
 about-addressbook-event-action-button = Подія
 about-addressbook-search-action-button = Пошук
@@ -172,8 +184,6 @@ about-addressbook-save-edit-contact-button = Зберегти
 about-addressbook-add-contact-to = Додати в:
 about-addressbook-details-email-addresses-header = Адреси електронної пошти
 about-addressbook-details-phone-numbers-header = Номери телефону
-about-addressbook-details-home-address-header = Домашня адреса
-about-addressbook-details-work-address-header = Робоча адреса
 about-addressbook-details-addresses-header = Адреси
 about-addressbook-details-notes-header = Примітки
 about-addressbook-details-other-info-header = Інші відомості
@@ -186,7 +196,6 @@ about-addressbook-entry-name-birthday = День народження
 about-addressbook-entry-name-anniversary = Ювілей
 about-addressbook-entry-name-title = Заголовок
 about-addressbook-entry-name-role = Роль
-about-addressbook-entry-name-department = Відділ
 about-addressbook-entry-name-organization = Організація
 about-addressbook-entry-name-website = Вебсайт
 about-addressbook-entry-name-time-zone = Часовий пояс

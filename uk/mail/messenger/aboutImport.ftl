@@ -11,9 +11,6 @@ import-start = Інструмент імпортування
 import-start-title = Імпорт налаштувань або даних із застосунку чи файлу.
 import-start-description = Виберіть джерело, з якого потрібно імпортувати. Пізніше вам буде запропоновано вибрати, які саме дані потрібно імпортувати.
 import-from-app = Імпорт із застосунку
-import-from-app-desc = Виберіть імпортування облікових записів, адресних книг, календарів та інших даних із:
-import-address-book = Імпорт файлу адресної книги
-import-calendar = Імпорт файлу календаря
 import-file = Імпорт з файлу
 import-file-title = Виберіть файл, щоб імпортувати його вміст.
 import-file-description = Виберіть, щоб імпортувати попередньо створені резервні копії профілю, адресних книг або календарів.
@@ -23,7 +20,6 @@ export-profile = Експорт
 
 ## Buttons
 
-button-cancel = Скасувати
 button-back = Назад
 button-continue = Продовжити
 button-export = Експорт
@@ -36,14 +32,6 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Інтернет-пошта
 app-name-apple-mail = Пошта Apple
-# Variables:
-#   $app (String) - The name of the app to import from
-profiles-pane-title = Імпорт із { $app }
-profiles-pane-desc = Виберіть звідки потрібно імпортувати
-profile-file-picker-dir = Виберіть теку профілю
-profile-file-picker-zip = Виберіть zip-файл (до 2 Гб)
-items-pane-title = Виберіть, що імпортувати
-items-pane-source = Розташування джерела:
 source-thunderbird = Імпорт з іншого установленого { app-name-thunderbird }
 source-thunderbird-description = Імпортувати налаштування, фільтри, повідомлення та інші дані з профілю { app-name-thunderbird }.
 source-seamonkey = Імпорт з установленого { app-name-seamonkey }
@@ -96,7 +84,6 @@ items-pane-override = Будь-які наявні або ідентичні д�
 
 ## Import from address book file steps
 
-import-from-addr-book-file-desc = Виберіть тип файлу, який ви хочете імпортувати:
 import-from-addr-book-file-description = Виберіть формат файлу, який містить дані вашої адресної книги.
 addr-book-csv-file = Файл, розділений комою або табулятором (.csv, .tsv)
 addr-book-ldif-file = Файл LDIF (.ldif)
@@ -106,13 +93,8 @@ addr-book-mab-file = Файл бази даних Mork (.mab)
 addr-book-file-picker = Виберіть файл адресної книги
 addr-book-csv-field-map-title = Збіг назв полів
 addr-book-csv-field-map-desc = Виберіть поля адресної книги, що відповідають полям джерела. Приберіть прапорці з полів, які не потрібно імпортувати.
-addr-book-directories-pane-title = Виберіть каталог, до якого потрібно імпортувати:
 addr-book-directories-title = Виберіть, куди імпортувати вибрані дані
 addr-book-directories-pane-source = Джерельний файл:
-addr-book-import-into-new-directory = Створити новий каталог
-
-## Import from address book file steps
-
 # $addressBookName (string) - name of the new address book that would be created.
 addr-book-import-into-new-directory2 = Створіть новий каталог під назвою <strong>«{ $addressBookName }»</strong>
 # $addressBookName (string) - name of the address book to import into
@@ -129,7 +111,6 @@ calendar-items-filter-input =
     .placeholder = Фільтр елементів…
 calendar-select-all-items = Вибрати все
 calendar-deselect-all-items = Зняти все
-calendar-import-into-new-calendar = Створити новий календар
 calendar-target-title = Виберіть, куди імпортувати вибрані елементи
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = Створіть новий календар під назвою <strong>«{ $targetCalendar }»</strong>
@@ -146,18 +127,12 @@ calendar-summary-description = Буде створено новий календ
 
 ## Import dialog
 
-progress-pane-importing = Імпортування
-progress-pane-exporting = Експортування
-progress-pane-finished-desc = Завершено.
-progress-pane-restart-desc = Перезапустіть, щоб завершити імпортування.
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-importing2 = Імпортування… { $progressPercent }
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-exporting2 = Експортування… { $progressPercent }
 progress-pane-finished-desc2 = Завершено.
 error-pane-title = Помилка
-error-message-zip-file-too-big = Вибраний zip-файл більший ніж 2 ГБ. Спочатку видобудьте його, а потім імпортуйте з видобутої теки.
-error-message-extract-zip-file-failed = Не вдалося видобути zip-файл. Видобудьте його вручну, а потім імпортуйте з видобутої теки.
 error-message-zip-file-too-big2 = Вибраний ZIP-файл більший ніж 2 ГБ. Спочатку видобудьте його, а потім імпортуйте з видобутої теки.
 error-message-extract-zip-file-failed2 = Не вдалося видобути ZIP-файл. Видобудьте його вручну, а потім імпортуйте з видобутої теки.
 error-message-failed = Не вдалося імпортувати, можливо, більше даних буде доступно у Консолі помилок.
@@ -175,12 +150,9 @@ csv-target-field = Поле адресної книги
 
 ## Export tab
 
-export-profile-desc = Експорт поштових облікових записів, поштових повідомлень, адресних книг, налаштувань до zip-файлу. За потреби ви можете імпортувати zip-файл, щоб відновити свій профіль.
-export-profile-desc2 = Якщо ваш поточний профіль понад 2 ГБ, ми радимо вам створити його самостійно.
 export-profile-title = Експортуйте облікові записи, повідомлення, адресні книги та налаштування в ZIP-файл.
 export-profile-description = Якщо ваш поточний профіль понад 2 ГБ, ми радимо вам створити його самостійно.
 export-open-profile-folder = Відкрити теку профілю
-export-file-picker = Експорт у zip-файл
 export-file-picker2 = Експортувати в ZIP-файл
 export-brand-name = { -brand-product-name }
 
@@ -197,3 +169,12 @@ footer-help = Потрібна допомога?
 footer-import-documentation = Документація з імпорту
 footer-export-documentation = Документація з експорту
 footer-support-forum = Форум підтримки
+
+## Step navigation on top of the wizard pages
+
+step-list =
+    .aria-label = Кроки імпорту
+step-confirm = Підтвердити
+# Variables:
+# $number (number) - step number
+step-count = { $number }
