@@ -173,6 +173,8 @@ footer-support-forum = Forum pomocy
 
 ## Step navigation on top of the wizard pages
 
+step-list =
+    .aria-label = Importowanske kroki
 step-confirm = Wobkrućić
 # Variables:
 # $number (number) - step number
