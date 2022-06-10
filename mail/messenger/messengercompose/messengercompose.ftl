@@ -202,6 +202,9 @@ key-notification-resolve =
     .label = Rozeznawać…
     .accesskey = R
     .tooltiptext = Klučowy asistent OpenPGP wočinić
+can-e2e-encrypt-button =
+    .label = Zaklučować
+    .accesskey = Z
 
 ## Addressing Area
 
