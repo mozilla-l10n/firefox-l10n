@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC 내부 정보
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc를 다음으로 저장
@@ -19,7 +18,6 @@ about-webrtc-aec-logging-msg-label = AEC 로깅
 about-webrtc-aec-logging-off-state-label = AEC 로깅 시작
 about-webrtc-aec-logging-on-state-label = AEC 로깅 중지
 about-webrtc-aec-logging-on-state-msg = AEC 로깅 활성화(몇 분 간 대화를 하고 캡처를 중지하세요)
-
 # The autorefresh checkbox causes the page to autorefresh its content when checked
 about-webrtc-auto-refresh-label = 자동 새로 고침
 
@@ -62,8 +60,6 @@ about-webrtc-ice-pair-bytes-sent = 보낸 바이트:
 about-webrtc-ice-pair-bytes-received = 받은 바이트:
 about-webrtc-ice-component-id = 컴포넌트 ID
 
-## "Avg." is an abbreviation for Average. These are used as data labels.
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
@@ -76,12 +72,10 @@ about-webrtc-type-remote = 원격
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = 지정됨
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = 선택됨
-
 about-webrtc-save-page-label = 페이지 저장
 about-webrtc-debug-mode-msg-label = 디버그 모드
 about-webrtc-debug-mode-off-state-label = 디버그 모드 시작
@@ -116,7 +110,7 @@ about-webrtc-raw-cand-show-msg = 원시 후보자 보기
     .title = 섹션 펼치기
 about-webrtc-raw-cand-hide-msg = 원시 후보자 감추기
     .title = 섹션 접기
-about-webrtc-priority = 우선순위
+about-webrtc-priority = 우선 순위
 about-webrtc-fold-show-msg = 상세 보기
     .title = 섹션 펼치기
 about-webrtc-fold-hide-msg = 상세 감추기
@@ -148,36 +142,26 @@ about-webrtc-remote-send-ssrc = 원격 전송 SSRC
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = 제공됨
-
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = 제공되지 않음
-
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = 사용자 WebRTC 설정
-
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = 예상 대역폭
-
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = 트랙 식별자
-
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = 전송 대역폭 (바이트/초)
-
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = 수신 대역폭 (바이트/초)
-
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = 최대 패딩 (바이트/초)
-
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = 페이서 지연 ms
-
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
-
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -204,7 +188,6 @@ about-webrtc-frames =
         [one] { $frames } 프레임
        *[other] { $frames } 프레임
     }
-
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -213,7 +196,6 @@ about-webrtc-channels =
         [one] { $channels } 채널
        *[other] { $channels } 채널
     }
-
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -221,7 +203,6 @@ about-webrtc-received-label =
     { $packets ->
        *[other] 받은 { $packets } 패킷
     }
-
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets lost.
@@ -229,7 +210,6 @@ about-webrtc-lost-label =
     { $packets ->
        *[other] 손실된 { $packets } 패킷
     }
-
 # This is the total number of packets sent by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets sent.
@@ -237,13 +217,11 @@ about-webrtc-sent-label =
     { $packets ->
        *[other] 보낸 { $packets } 패킷
     }
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = 지터 { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -256,12 +234,10 @@ about-webrtc-trickle-caption-msg = 끊기는 후보자(답변 후 도착)는 파
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = 타임스탬프 { NUMBER($timestamp, useGrouping: "false") }에 로컬 SDP 설정
-
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = 타임스탬프 { NUMBER($timestamp, useGrouping: "false") }에 원격 SDP 설정
-
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.

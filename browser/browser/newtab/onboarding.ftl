@@ -3,11 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### UI strings for the simplified onboarding / multistage about:welcome
-### Various strings use a non-breaking space to avoid a single dangling /
-### widowed word, so test on various window sizes if you also want this.
-
-
 ### UI strings for the MR1 onboarding / multistage about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -28,9 +23,6 @@ return-to-amo-subtitle = 좋습니다. { -brand-short-name }를 설치했네요.
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-title = 이제 <img data-l10n-name="icon"/> <b>{ $addon-name }</b> 부가 기능을 설치하겠습니다.
 return-to-amo-add-extension-label = 확장 기능 추가
-
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
-
 return-to-amo-add-theme-label = 테마 추가
 
 ## Multistage onboarding strings (about:welcome pages)
@@ -41,7 +33,6 @@ return-to-amo-add-theme-label = 테마 추가
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = 시작하기:  { $current } / { $total } 화면
-
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -50,13 +41,11 @@ onboarding-welcome-steps-indicator =
 # An alternative title for localization is: "It starts here".
 # This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = 시작
-
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — 가구 디자이너, Firefox 팬
-
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = 애니메이션 끄기
 
@@ -82,11 +71,9 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = 시작하기
-
 mr1-onboarding-welcome-header = { -brand-short-name }에 오신 것을 환영합니다
 mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name }를 기본 브라우저로 설정
     .title = { -brand-short-name }를 기본 브라우저로 설정하고 작업 표시줄에 고정
-
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name }를 기본 브라우저로 설정
@@ -104,16 +91,13 @@ mr1-onboarding-default-primary-button-label = 기본 브라우저로 설정
 
 mr1-onboarding-import-header = 모든 것을 가져오기
 mr1-onboarding-import-subtitle = 비밀번호, 북마크 등을 <br/>가져옵니다.
-
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = { $previous }에서 가져오기
-
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = 이전 브라우저에서 가져오기
 mr1-onboarding-import-secondary-button-label = 나중에
-
 mr2-onboarding-colorway-header = 색상 라이프
 mr2-onboarding-colorway-subtitle = 생동감 넘치는 새로운 컬러웨이입니다. 제한된 시간 동안 사용할 수 있습니다.
 mr2-onboarding-colorway-primary-button-label = 컬러웨이 저장
@@ -123,112 +107,87 @@ mr2-onboarding-colorway-label-balanced = 중간
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = 진하게
-
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = 자동
-
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = 기본
-
 mr1-onboarding-theme-header = 나만의 것으로 만들기
 mr1-onboarding-theme-subtitle = 테마로 { -brand-short-name }를 개인화하세요.
 mr1-onboarding-theme-primary-button-label = 테마 저장
 mr1-onboarding-theme-secondary-button-label = 나중에
-
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = 시스템 테마
-
 mr1-onboarding-theme-label-light = 밝게
 mr1-onboarding-theme-label-dark = 어둡게
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+onboarding-theme-primary-button-label = 완료
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
-
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
 # Tooltip displayed on hover of system theme
 mr1-onboarding-theme-tooltip-system =
     .title =
         버튼, 메뉴 및 창에 
         운영 체제의 테마를 따릅니다.
-
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         버튼, 메뉴 및 창에 
         운영 체제의 테마를 따릅니다.
-
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         버튼, 메뉴 및 창에 
         밝은 테마를 사용합니다.
-
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         버튼, 메뉴 및 창에 
         밝은 테마를 사용합니다.
-
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         버튼, 메뉴 및 창에 
         어두운 테마를 사용합니다.
-
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         버튼, 메뉴 및 창에 
         어두운 테마를 사용합니다.
-
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         버튼, 메뉴 및 창에 
         역동적이고 다양한 색상의 테마를 사용합니다.
-
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         버튼, 메뉴 및 창에 
         역동적이고 다양한 색상의 테마를 사용합니다.
-
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = 이 컬러웨이를 사용합니다.
-
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = 이 컬러웨이를 사용합니다.
-
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
     .title = { $colorwayName } 컬러웨이를 탐색합니다.
-
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-label = { $colorwayName } 컬러웨이를 탐색합니다.
-
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = 기본 테마를 탐색합니다.
-
 # Selector description for default themes
 mr2-onboarding-default-theme-label = 기본 테마를 탐색합니다.
 
@@ -246,7 +205,6 @@ mr2-onboarding-start-browsing-button-label = 탐색 시작
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "Español (ES)"
 
 onboarding-live-language-header = 언어를 선택하세요
-
 onboarding-live-language-button-label-downloading = { $negotiatedLanguage }용 언어 팩 다운로드 중…
 onboarding-live-language-waiting-button = 사용 가능한 언어를 가져오는 중…
 onboarding-live-language-installing = { $negotiatedLanguage }용 언어 팩 설치 중…
@@ -271,7 +229,6 @@ fx100-thank-you-pin-primary-button-label =
         [macos] { -brand-short-name }를 Dock에 넣기
        *[other] { -brand-short-name }를 작업 표시줄에 고정
     }
-
 fx100-upgrade-thanks-header = 100 감사합니다
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
