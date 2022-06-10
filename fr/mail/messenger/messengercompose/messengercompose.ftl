@@ -191,6 +191,9 @@ key-notification-resolve =
     .label = Résoudre…
     .accesskey = R
     .tooltiptext = Ouvrir l’assistant de clés OpenPGP
+can-e2e-encrypt-button =
+    .label = Chiffrer
+    .accesskey = C
 
 ## Addressing Area
 

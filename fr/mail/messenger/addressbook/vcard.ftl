@@ -3,6 +3,10 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+# Display Name
+
+vcard-displayname = Nom à afficher
+
 # Type selection
 
 vcard-entry-type-label = Type
@@ -35,8 +39,7 @@ vcard-n-add-suffix =
 vcard-email-header = Adresses électroniques
 vcard-email-add = Ajouter une adresse électronique
 vcard-email-label = Adresse électronique
-vcard-email-choose-primary = Par défaut
-    .aria-label = Choisissez votre adresse électronique principale
+vcard-primary-email-label = Par défaut
 
 # URL vCard field
 
@@ -54,3 +57,38 @@ vcard-tel-label = Numéro de téléphone
 
 vcard-tz-header = Fuseau horaire
 vcard-tz-add = Ajouter un fuseau horaire
+
+# IMPP vCard field
+
+vcard-impp-header = Comptes de messagerie instantanée
+vcard-impp-add = Ajouter un compte de messagerie instantanée
+vcard-impp-label = Compte de messagerie instantanée
+
+# BDAY and ANNIVERSARY vCard field
+
+vcard-bday-label = Anniversaire
+vcard-date-day = Jour
+vcard-date-month = Mois
+vcard-date-year = Année
+
+# ADR vCard field
+
+vcard-adr-header = Adresses
+vcard-adr-add = Ajouter une adresse
+vcard-adr-label = Adresse
+# Or "Locality"
+vcard-adr-locality = Ville
+# The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
+vcard-adr-code = Code postal
+vcard-adr-country = Pays
+
+# NOTE vCard field
+
+vcard-note-header = Notes
+vcard-note-add = Ajouter une note
+
+# TITLE, ROLE and ORGANIZATION vCard fields
+
+vcard-org-title = Fonction
+vcard-org-role = Fonction
+vcard-org-org = Société
