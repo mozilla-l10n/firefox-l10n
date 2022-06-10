@@ -113,8 +113,10 @@ policy-SecurityDevices = Встановити модулі PKCS #11.
 policy-ShowHomeButton = Показувати кнопку домівки на панелі інструментів.
 policy-SSLVersionMax = Встановити максимальну версію SSL.
 policy-SSLVersionMin = Встановити мінімальну версію SSL.
+policy-StartDownloadsInTempDirectory = Примусово розпочинати завантаження в локальне тимчасове розташування,  а не в усталений каталог завантаження.
 policy-SupportMenu = Додати власний елемент меню підтримки в меню довідки.
 policy-UserMessaging = Не показувати певні повідомлення користувачу.
+policy-UseSystemPrintDialog = Друк за допомогою системного засобу друку
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Блокувати відвідування вебсайтів. Для отримання подробиць щодо формату, ознайомтеся з документацією.
 policy-Windows10SSO = Дозволити єдиний вхід Windows для облікових записів Microsoft, роботи та школи.
