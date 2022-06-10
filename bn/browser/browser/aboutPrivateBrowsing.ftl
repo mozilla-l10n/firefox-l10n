@@ -19,18 +19,24 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = { $engine } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
 about-private-browsing-handoff-text-no-engine = অনুসন্ধান করুন অথবা ঠিকানা লিখুন
 about-private-browsing-not-private = আপনি বর্তমানে কোনো ব্যক্তিগত উইন্ডোতে নেই।
+about-private-browsing-info-description-private-window = ব্যক্তিগত উইন্ডো: আপনি যখন সমস্ত ব্যক্তিগত উইন্ডো বন্ধ করেন, { -brand-short-name } আপনার অনুসন্ধান এবং ব্রাউজিং ইতিহাস সাফ করে। এটি আপনাকে বেনামী করে না।
+about-private-browsing-info-description-simplified = আপনি যখন সমস্ত ব্যক্তিগত উইন্ডো বন্ধ করেন, { -brand-short-name } আপনার অনুসন্ধান এবং ব্রাউজিং ইতিহাস সাফ করে তবে এটি আপনাকে বেনামী করে না।
+about-private-browsing-learn-more-link = আরও জানুন
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-c = মোবাইলে পরবর্তী স্তরের গোপনীয়তা
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
-about-private-browsing-search-banner-title = { $engineName } আপনার ব্যক্তিগত উইন্ডো-র ডিফল্ট সার্চ ইঞ্জিন
+about-private-browsing-search-banner-title = { $engineName } আপনার ব্যক্তিগত উইন্ডোর ডিফল্ট অনুসন্ধান ইঞ্জিন
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
-        [windows] ভিন্ন একটি সার্চ ইঞ্জিন নির্বাচন করার জন্য <a data-l10n-name="link-options">অপশন</a> পাতায় যান
-       *[other] ভিন্ন একটি সার্চ ইঞ্জিন নির্বাচন করার জন্য <a data-l10n-name="link-options">পছন্দসমূহ</a> পাতায় যান
+        [windows] ভিন্ন একটি অনুসন্ধান ইঞ্জিন নির্বাচন করার জন্য <a data-l10n-name="link-options">অপশন</a> পাতায় যান
+       *[other] ভিন্ন একটি অনুসন্ধান ইঞ্জিন নির্বাচন করার জন্য <a data-l10n-name="link-options">পছন্দসমূহ</a> পাতায় যান
     }
 about-private-browsing-search-banner-close-button =
-    .aria-label = বন্ধ
+    .aria-label = বন্ধ করুন
+about-private-browsing-promo-close-button =
+    .title = বন্ধ করুন
