@@ -159,6 +159,7 @@ about-addressbook-confirm-delete-contacts =
 
 about-addressbook-placeholder-empty-book = Nenhum contato disponível
 about-addressbook-placeholder-new-contact = Novo contato
+about-addressbook-placeholder-search-only = Este catálogo de endereços só mostra contatos após uma pesquisa
 about-addressbook-placeholder-searching = Procurando…
 about-addressbook-placeholder-no-search-results = Nenhum contato encontrado
 
