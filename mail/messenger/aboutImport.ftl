@@ -11,9 +11,6 @@ import-start = Importowanski nastroj
 import-start-title = Nastajenja abo daty z nałoženja abo dataje importować.
 import-start-description = Wubjerće žórło, z kotrehož chceće importować. Proša was podźišo wubrać, kotre daty maja so importować.
 import-from-app = Z nałoženja importować
-import-from-app-desc = Wubjerće, zwotkelž maja so konta, adresniki, protyki a druhe daty importować:
-import-address-book = Adresnikowu dataju importować
-import-calendar = Dataju protyki importować
 import-file = Z dataje importować
 import-file-title = Wubjerće dataju, zo byšće jeje wobsah importował.
 import-file-description = Wubjerće, zo byšće do toho zawěsćeny profil, adresniki abo protyki importował.
@@ -23,7 +20,6 @@ export-profile = Eksportować
 
 ## Buttons
 
-button-cancel = Přetorhnyć
 button-back = Wróćo
 button-continue = Dale
 button-export = Eksportować
@@ -36,14 +32,6 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
-# Variables:
-#   $app (String) - The name of the app to import from
-profiles-pane-title = Z { $app } importować
-profiles-pane-desc = Wubjerće městno, zwotkelž ma so importować
-profile-file-picker-dir = Wubjerće profilowy rjadowak
-profile-file-picker-zip = Wubjerće zip-dataju (mjeńšu hač 2 GB)
-items-pane-title = Wubjerće, štož ma so importować
-items-pane-source = Žórłowe městno:
 source-thunderbird = Z druheje instalacije { app-name-thunderbird } importować
 source-thunderbird-description = Nastajenja, filtry, powěsće a druhe daty z profila { app-name-thunderbird } importować
 source-seamonkey = Z instalacije { app-name-seamonkey } importować
@@ -96,7 +84,6 @@ items-pane-override = Eksistowace abo identiske daty so njepřepisaja.
 
 ## Import from address book file steps
 
-import-from-addr-book-file-desc = Wubjerće dataju, kotruž chceće importować:
 import-from-addr-book-file-description = Wubjerće datajowy format, kotryž waše adresnikowe daty wobsahuje.
 addr-book-csv-file = Dataja dźělena přez komu abo rajtark (.csv, .tsv)
 addr-book-ldif-file = Dataja LDIF (.ldif)
@@ -106,13 +93,8 @@ addr-book-mab-file = Dataja datoweje banki Mork (.mab)
 addr-book-file-picker = Adresnikowu dataju wubrać
 addr-book-csv-field-map-title = Pólnym mjenam wotpowědować
 addr-book-csv-field-map-desc = Wubjerće pola adresnika, kotrež žórłowym polam wotpowěduja. Znjemóžńće pola, kotrež nochceće importować.
-addr-book-directories-pane-title = Wubjerće zapis, kotryž byšće rady importował do:
 addr-book-directories-title = Wubjerće, hdźež ma so wubrane daty importować.
 addr-book-directories-pane-source = Žórłowa dataja:
-addr-book-import-into-new-directory = Nowy zapis załožić
-
-## Import from address book file steps
-
 # $addressBookName (string) - name of the new address book that would be created.
 addr-book-import-into-new-directory2 = Wutworće nowy zapis z mjenom <strong>„{ $addressBookName }“</strong>
 # $addressBookName (string) - name of the address book to import into
@@ -129,7 +111,6 @@ calendar-items-filter-input =
     .placeholder = Zapiski filtrować…
 calendar-select-all-items = Wšě wubrać
 calendar-deselect-all-items = Wšě wotwolić
-calendar-import-into-new-calendar = Nowu protyku wutworić
 calendar-target-title = Wubjerće, hdźež ma so wubrane elementy importować.
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = Wutworće nowu protyku z mjenom <strong>„{ $targetCalendar }“</strong>
@@ -147,18 +128,12 @@ calendar-summary-description = Nowa protyka z mjenom „{ $targetCalendar }“ s
 
 ## Import dialog
 
-progress-pane-importing = Importowanje
-progress-pane-exporting = Eksportowanje
-progress-pane-finished-desc = Dokónčene.
-progress-pane-restart-desc = Startujće znowa, zo byšće importowanje dokónčił.
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-importing2 = Importuje so… { $progressPercent }
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-exporting2 = Eksportuje so… { $progressPercent }
 progress-pane-finished-desc2 = Dokónčene.
 error-pane-title = Zmylk
-error-message-zip-file-too-big = Wubrana zip-dataja je wjetša hač 2 GB. Prošu rozpakujće ju najprjedy, a importujće wobsah z rozpakowaneho rjadowaka město toho.
-error-message-extract-zip-file-failed = Zip-dataja njeda so rozbalić. Prošu wupakujće ju manuelnje a importujće ju potom město toho z ekstrahowaneho rjadowaka.
 error-message-zip-file-too-big2 = Wubrana ZIP-dataja je wjetša hač 2 GB. Prošu rozpakujće ju najprjedy, a importujće wobsah z rozpakowaneho rjadowaka město toho.
 error-message-extract-zip-file-failed2 = ZIP-dataja njeda so rozbalić. Prošu wupakujće ju manuelnje a importujće ju potom město toho z ekstrahowaneho rjadowaka.
 error-message-failed = Importowanje je so njenadźicy nimokuliło, dalše informacije namakaće snano w zmylkowej konsoli.
@@ -176,12 +151,9 @@ csv-target-field = Polo adresnika
 
 ## Export tab
 
-export-profile-desc = Eksportujće e-mejlowe konta, mejlki, adresniki, nastajenja do zip-dataje. Jeli trjeba, móžeće zip-dataju importować, zo byšće swój profil wobnowił.
-export-profile-desc2 = Jeli waš aktualny profil je wjetši hač 2 GB, namjetujemy, zo jón zawěsćeće.
 export-profile-title = Konta, powěsće, adresniki a nastajenja do ZIP-dataje eksportować.
 export-profile-description = Jeli waš aktualny profil je wjetši hač 2 GB, namjetujemy, zo jón zawěsćeće.
 export-open-profile-folder = Profilowy rjadowak wočinić
-export-file-picker = Jako zip-dataju eksportować
 export-file-picker2 = Do ZIP-dataje eksportować
 export-brand-name = { -brand-product-name }
 
@@ -198,3 +170,10 @@ footer-help = Trjebaće pomoc?
 footer-import-documentation = Importowanska dokumentacija
 footer-export-documentation = Eksportowanska dokumentacija
 footer-support-forum = Forum pomocy
+
+## Step navigation on top of the wizard pages
+
+step-confirm = Wobkrućić
+# Variables:
+# $number (number) - step number
+step-count = { $number }
