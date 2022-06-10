@@ -5,6 +5,14 @@
 
 ## Header lists
 
+message-header-to-list-name = 給
+message-header-from-list-name = 從
+message-header-sender-list-name = 寄件者
+message-header-reply-to-list-name = 回覆至
+message-header-cc-list-name = 副本
+message-header-bcc-list-name = 密件副本
+message-header-newsgroups-list-name = 新聞群組
+message-header-tags-list-name = 標籤
 
 ## Other message headers.
 ## The field-separator is for screen readers to separate the field name from the field value.
