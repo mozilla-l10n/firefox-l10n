@@ -127,6 +127,10 @@ message-header-msg-flagged =
     .aria-label = Із зіркою
 message-header-msg-not-flagged =
     .title = Повідомлення, не позначене зірочкою
+# Variables:
+# $address (String) - The email address of the recipient this picture belongs to.
+message-header-recipient-avatar =
+    .alt = Зображення профілю { $address }.
 
 ## Message header cutomize panel
 
@@ -140,6 +144,16 @@ message-header-button-style-text =
     .label = Текст
 message-header-button-style-icons =
     .label = Піктограми
+message-header-show-sender-full-address =
+    .label = Завжди показувати повну адресу відправника
+    .accesskey = п
+message-header-show-sender-full-address-description = Адреса електронної пошти буде показана під іменем.
+message-header-show-recipient-avatar =
+    .label = Показати зображення профілю відправника
+    .accesskey = П
+message-header-hide-label-column =
+    .label = Сховати стовпець міток
+    .accesskey = х
 message-header-large-subject =
     .label = Велика тема
     .accesskey = В
@@ -152,13 +166,6 @@ toolbar-context-menu-manage-extension =
 toolbar-context-menu-remove-extension =
     .label = Вилучити розширення
     .accesskey = В
-
-## Message headers
-
-message-header-address-in-address-book-icon =
-    .alt = Адреса є в адресній книзі
-message-header-address-not-in-address-book-icon =
-    .alt = Адреси немає в адресній книзі
 
 ## Add-on removal warning
 
@@ -216,12 +223,6 @@ spaces-context-new-window-item =
 # $tabName (String) - The name of the tab this item will switch to.
 spaces-context-switch-tab-item =
     .label = Перейти до { $tabName }
-settings-context-open-settings-item =
-    .label = Відкрити налаштування
-settings-context-open-account-settings-item =
-    .label = Відкрити налаштування облікового запису
-settings-context-open-addons-item =
-    .label = Відкрити додатки й теми
 settings-context-open-settings-item2 =
     .label = Налаштування
 settings-context-open-account-settings-item2 =
