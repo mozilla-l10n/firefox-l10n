@@ -12,7 +12,7 @@ vcard-displayname-placeholder =
 # Type selection
 
 vcard-entry-type-label = Vrsta
-vcard-entry-type-home = Domov
+vcard-entry-type-home = Doma
 vcard-entry-type-work = Služba
 vcard-entry-type-none = brez
 vcard-entry-type-custom = Po meri
@@ -41,6 +41,7 @@ vcard-n-add-suffix =
 vcard-email-header = E-poštni naslovi
 vcard-email-add = Dodaj e-poštni naslov
 vcard-email-label = E-poštni naslov
+vcard-primary-email-label = Privzet
 
 # URL vCard field
 
@@ -67,6 +68,8 @@ vcard-impp-label = Račun za klepet
 
 # BDAY and ANNIVERSARY vCard field
 
+vcard-bday-anniversary-header = Posebni datumi
+vcard-bday-anniversary-add = Dodaj poseben datum
 vcard-bday-label = Rojstni dan
 vcard-anniversary-label = Obletnica
 vcard-date-day = dan
@@ -87,3 +90,8 @@ vcard-note-add = Dodaj opombo
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-header = Podatki organizacije
+vcard-org-add = Dodaj podatke o organizaciji
+vcard-org-title = Naziv
+vcard-org-role = Funkcija
+vcard-org-org = Organizacija
