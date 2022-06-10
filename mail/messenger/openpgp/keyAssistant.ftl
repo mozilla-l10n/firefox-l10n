@@ -36,10 +36,49 @@ openpgp-key-assistant-invalid-title =
     }
 openpgp-key-assistant-no-key-available = Nenhuma chave disponível.
 openpgp-key-assistant-multiple-keys = Várias chaves estão disponíveis.
+# Variables:
+# $count (Number) - The number of unaccepted keys.
+openpgp-key-assistant-key-unaccepted =
+    { $count ->
+        [one] Uma chave está disponível, mas ainda não foi aceita.
+       *[other] Várias chaves estão disponíveis, mas nenhuma delas foi aceita ainda.
+    }
+# Variables:
+# $date (String) - The expiration date of the key.
+openpgp-key-assistant-key-accepted-expired = Uma chave aceita expirou em { $date }.
+openpgp-key-assistant-keys-accepted-expired = Várias chaves aceitas expiraram.
+# Variables:
+# $date (String) - The expiration date of the key.
+openpgp-key-assistant-this-key-accepted-expired = Esta chave foi aceita anteriormente, mas expirou em { $date }.
+# Variables:
+# $date (String) - The expiration date of the key.
+openpgp-key-assistant-key-unaccepted-expired-one = A chave expirou em { $date }.
+openpgp-key-assistant-key-unaccepted-expired-many = Várias chaves expiraram.
+openpgp-key-assistant-key-fingerprint = Impressão digital
+openpgp-key-assistant-key-source =
+    { $count ->
+        [one] Origem
+       *[other] Origens
+    }
 openpgp-key-assistant-key-collected-attachment = anexo de email
+openpgp-key-assistant-key-collected-keyserver = servidor de chaves
+openpgp-key-assistant-keys-has-collected =
+    { $count ->
+        [one] Uma chave foi encontrada, mas ainda não foi aceita.
+       *[other] Várias chaves foram encontradas, mas nenhuma delas foi aceita ainda.
+    }
+openpgp-key-assistant-key-rejected = Esta chave foi rejeitada anteriormente.
+openpgp-key-assistant-key-accepted-other = Esta chave foi aceita anteriormente em outro endereço de email.
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+openpgp-key-assistant-resolve-discover-info = Descubra online chaves adicionais ou atualizadas de { $recipient }, ou importe de um arquivo.
 
 ## Discovery section
 
+openpgp-key-assistant-discover-title = Descoberta online em andamento.
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-discover-keys = Descobrindo chaves de { $recipient }…
 
 ## Dialog buttons
 
