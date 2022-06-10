@@ -102,18 +102,30 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = আপনার লগইন সম্পাদনা করতে, আপনার উইন্ডোজের শংসাপত্র লিখুন। এটি আপনার অ্যাকাউন্টের নিরাপত্তা রক্ষা করতে সহায়তা করে।
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = সংরক্ষিত লগইন সম্পাদনা করুন
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = আপনার পাসওয়ার্ড দেখতে, আপনার উইন্ডোজের শংসাপত্র লিখুন। এটি আপনার অ্যাকাউন্টের নিরাপত্তা রক্ষা করতে সহায়তা করে।
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = সংরক্ষিত পাসওয়ার্ড দেখাও
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = আপনার পাসওয়ার্ড অনুলিপি করতে, আপনার উইন্ডোজের শংসাপত্র লিখুন। এটি আপনার অ্যাকাউন্টের নিরাপত্তা রক্ষা করতে সহায়তা করে।
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = সংরক্ষিত পাসওয়ার্ড অনুলিপি করুন
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = আপনার লগইন রপ্তানি করতে, আপনার উইন্ডোজের শংসাপত্র লিখুন। এটি আপনার অ্যাকাউন্টের নিরাপত্তা রক্ষা করতে সহায়তা করে।
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = সংরক্ষিত লগইন ও পাসওয়ার্ড রপ্তানি করুন
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = সংরক্ষিত লগইন ও পাসওয়ার্ড দেখতে, অনুগ্রহ করে আপনার প্রাথমিক পাসওয়ার্ড লিখুন
 master-password-reload-button =
     .label = লগ ইন
     .accesskey = L
@@ -125,7 +137,22 @@ confirmation-dialog-dismiss-button =
     .title = বাতিল
 about-logins-confirm-remove-dialog-title = লগইনটি মুছে ফেলবেন?
 confirm-delete-dialog-message = এই পরিবর্তনটি অপরিবর্তনীয়!
-about-logins-confirm-remove-dialog-confirm-button = অপসারণ
+about-logins-confirm-remove-dialog-confirm-button = সরান
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] সরান
+        [one] একটি সরান
+       *[other] সব সরান
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] হ্যাঁ, এই লগইন সরান
+        [one] হ্যাঁ, এই লগইন সরান
+       *[other] হ্যাঁ, এই লগইনগুলি সরান
+    }
+about-logins-confirm-export-dialog-confirm-button = রপ্তানি করুন…
+about-logins-alert-import-title = আমদানি সম্পূর্ণ হয়েছে
+about-logins-alert-import-message = বিস্তারিত আমদানির সারাংশ দেখুন
 confirm-discard-changes-dialog-title = সংরক্ষিত পরিবর্তনগুলো বাতিল করতে চান?
 confirm-discard-changes-dialog-message = সংরক্ষিত সকল পরিবর্তনগুলো হারিয়ে যাবে।
 confirm-discard-changes-dialog-confirm-button = বাতিল
@@ -158,14 +185,42 @@ about-logins-error-message-default = এই পাসওয়ার্ডটি
 
 ## Login Export Dialog
 
+about-logins-export-file-picker-export-button = রপ্তানি করুন
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV নথি
+       *[other] CSV ফাইল
+    }
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = লগইন ফাইল আমদানি করুন
+about-logins-import-file-picker-import-button = আমদানি করুন
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV নথি
+       *[other] CSV ফাইল
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV নথি
+       *[other] TSV ফাইল
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = আমদানি সম্পূর্ণ হয়েছে
+about-logins-import-dialog-done = সম্পন্ন হয়েছে
+about-logins-import-dialog-error-title = আমদানি ত্রুটি
 
 ##
 ## Variables:
