@@ -19,6 +19,7 @@ perftools-heading-features-default = Funcionalidades (as recomendadas estão ati
 perftools-heading-features-disabled = Funcionalidades desativadas
 perftools-heading-features-experimental = Experimentais
 perftools-heading-threads = Threads
+perftools-heading-threads-jvm = Threads JVM
 perftools-heading-local-build = Compilação local
 
 ##
@@ -40,9 +41,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Tamanho do buffer:
-
 perftools-custom-threads-label = Adicionar threads personalizadas por nome:
-
 perftools-devtools-interval-label = Intervalo:
 perftools-devtools-threads-label = Threads:
 perftools-devtools-settings-label = Definições
@@ -98,7 +97,6 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Ignora as seleções acima e grava todas as threads registadas
-
 perftools-tools-threads-input-label =
     .title = Estes nomes de threads são uma lista separada por vírgulas que é utilizada para ativar o profiling das threads no profiler. O nome apenas necessita de ser uma correspondência parcial do nome da thread para ser incluído. É sensível a espaços em branco.
 
@@ -106,14 +104,13 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Novo</b>: O { -profiler-brand-name } está agora integrado nas ferramentas de desenvolvimento. <a>Saber mais</a> sobre esta poderosa nova ferramenta.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Por tempo limitado, pode aceder ao painel Desempenho original via  <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Fechar mensagem de introdução
 
@@ -126,19 +123,14 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Programador Web
 perftools-presets-web-developer-description = Predefinição recomendada para a maioria das depurações de aplicações web, com pouca sobrecarga.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Predefinição recomendada para perfilar o { -brand-shorter-name }.
-
 perftools-presets-graphics-label = Gráficos
 perftools-presets-graphics-description = Predefinição para investigar bugs gráficos no { -brand-shorter-name }.
-
 perftools-presets-media-label = Multimédia
 perftools-presets-media-description2 = Predefinição para investigar bugs de áudio e vídeo no { -brand-shorter-name }.
-
 perftools-presets-networking-label = Rede
 perftools-presets-networking-description = Predefinição para investigar bugs de rede no { -brand-shorter-name }.
-
 perftools-presets-custom-label = Personalizada
 
 ##
