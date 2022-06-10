@@ -189,6 +189,10 @@ menu-view-certificates =
 menu-open-key-manager =
     .label = Upravitelj ključev
     .accesskey = U
+openpgp-key-issue-notification-one = Za uporabo šifriranja od konca do konca je treba razrešiti težave s ključem za { $addr }
+openpgp-key-issue-notification-many = Za uporabo šifriranja od konca do konca je treba razrešiti težave s ključi za { $count } prejemnikov.
+smime-cert-issue-notification-one = Za uporabo šifriranja od konca do konca je treba razrešiti težave z digitalnim potrdilom za { $addr }
+smime-cert-issue-notification-many = Za uporabo šifriranja od konca do konca je treba razrešiti težave z digitalnim potrdilom za { $count } prejemnikov.
 key-notification-disable-encryption =
     .label = Ne šifriraj
     .accesskey = N
@@ -197,6 +201,11 @@ key-notification-resolve =
     .label = Razreši …
     .accesskey = R
     .tooltiptext = Odpri pomočnika za ključe OpenPGP
+can-encrypt-smime-notification = Možno je šifriranje od konca do konca S/MIME.
+can-encrypt-openpgp-notification = Možno je šifriranje od konca do konca OpenPGP.
+can-e2e-encrypt-button =
+    .label = Šifriraj
+    .accesskey = Š
 
 ## Addressing Area
 
