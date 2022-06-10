@@ -430,6 +430,11 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = অ্যাড-অন ও থিম
+    .tooltiptext = আপনার অ্যাড-অন ও থিম পরিচালনা করুন ({ $shortcut })
 toolbar-overflow-customize-button =
     .label = কাস্টোমাইজ টুলবার…
     .accesskey = C
@@ -506,7 +511,7 @@ navbar-accessible =
 navbar-downloads =
     .label = ডাউনলোড
 navbar-overflow =
-    .tooltiptext = আরও টুল…
+    .tooltiptext = আরও সরঞ্জাম…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

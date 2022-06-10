@@ -36,11 +36,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } থেকে প্রস্থান
-
 menu-about =
     .label = About { -brand-shorter-name }
     .accesskey = A
@@ -212,6 +210,9 @@ menu-tools =
 menu-tools-downloads =
     .label = ডাউনলোড
     .accesskey = D
+menu-tools-addons-and-themes =
+    .label = অ্যাড-অন ও থিম
+    .accesskey = A
 menu-tools-sync-now =
     .label = এখন সিঙ্ক
     .accesskey = S
@@ -236,15 +237,6 @@ menu-window-bring-all-to-front =
     .label = সব সামনে আনা হবে
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should

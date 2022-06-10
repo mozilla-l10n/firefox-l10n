@@ -17,12 +17,24 @@ appmenuitem-downloads =
     .label = ডাউনলোড
 appmenuitem-passwords =
     .label = পাসওয়ার্ড
+appmenuitem-addons-and-themes =
+    .label = অ্যাড-অন ও থিম
 appmenuitem-print =
     .label = মুদ্রণ…
+appmenuitem-find-in-page =
+    .label = পাতায় খুঁজুন…
 appmenuitem-zoom =
     .value = বড় আকারে প্রদর্শন
+appmenuitem-more-tools =
+    .label = আরও সরঞ্জাম
 appmenuitem-help =
     .label = সাহায্য
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] প্রস্থান করুন
+           *[other] প্রস্থান করুন
+        }
 
 ## Zoom and Fullscreen Controls
 
@@ -35,6 +47,10 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = আরও ট্যাব দেখান
+    .tooltiptext = এই ডিভাইস থেকে আরও ট্যাব দেখান
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = কোন ট্যাব খোলা নেই
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -94,6 +110,12 @@ appmenu-help-report-site-issue =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = সমস্যা সমাধান মোড…
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = সমস্যা সমাধান মোড বন্ধ করুন
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -107,3 +129,4 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-developer-tools-subheader = ব্রাউজারের সরঞ্জাম
