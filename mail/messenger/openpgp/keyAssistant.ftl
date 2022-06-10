@@ -108,3 +108,15 @@ openpgp-key-assistant-expired-key-update =
 openpgp-key-assistant-discover-online-button = Знайти відкриті ключі онлайн…
 openpgp-key-assistant-import-keys-button = Імпорт відкритих ключів із файлу…
 openpgp-key-assistant-issue-resolve-button = Розв'язати…
+openpgp-key-assistant-view-key-button = Переглянути ключ…
+openpgp-key-assistant-recipients-show-button = Показати
+openpgp-key-assistant-recipients-hide-button = Сховати
+openpgp-key-assistant-cancel-button = Скасувати
+openpgp-key-assistant-back-button = Назад
+openpgp-key-assistant-accept-button = Прийняти
+openpgp-key-assistant-close-button = Закрити
+openpgp-key-assistant-disable-button = Вимкнути шифрування
+openpgp-key-assistant-confirm-button = Надіслати зашифровано
+# Variables:
+# $date (String) - The key creation date.
+openpgp-key-assistant-key-created = створено { $date }
