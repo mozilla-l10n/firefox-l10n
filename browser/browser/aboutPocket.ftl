@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ট্যাগসমূহ যোগ করুন
-
 pocket-panel-saved-error-generic = { -pocket-brand-name } এ সংরক্ষণ করতে ত্রুটি ঘটেছে।
 pocket-panel-saved-error-tag-length = ট্যাগ সমূহ 25 অক্ষরের মধ্যে সীমাবদ্ধ
 pocket-panel-saved-error-only-links = শুধু লিঙ্ক সংরক্ষণ করা যাবে
@@ -20,7 +19,7 @@ pocket-panel-saved-page-removed = পাতা অপসারণ করা হ�
 pocket-panel-saved-page-saved = { -pocket-brand-name } এ সংরক্ষিত হয়েছে
 pocket-panel-saved-processing-remove = পাতা অপসারিত হচ্ছে…
 pocket-panel-saved-processing-tags = ট্যাগ যুক্ত করা হচ্ছে…
-pocket-panel-saved-remove-page = পেজ মুছে ফেলুন
+pocket-panel-saved-remove-page = পাতাটি সরান
 pocket-panel-saved-save-tags = সংরক্ষণ
 pocket-panel-saved-saving-tags = সংরক্ষণ করা হচ্ছে...
 pocket-panel-saved-suggested-tags = প্রস্তাবিত ট্যাগ
@@ -33,7 +32,7 @@ pocket-panel-signup-already-have = আপনি কি একজন { -pocket-br
 pocket-panel-signup-learn-more = আরও জানুন
 pocket-panel-signup-login = লগ ইন
 pocket-panel-signup-signup-email = ইমেইল দিয়ে সাইন আপ করুন
-pocket-panel-signup-signup-cta = { -pocket-brand-name } সাইন আপ করুন। এটি মুফত।
+pocket-panel-signup-signup-cta = { -pocket-brand-name }-এর জন্য সাইন আপ করুন। এটি বিনামূল্যে।
 pocket-panel-signup-signup-firefox = { -brand-product-name } দিয়ে প্রবেশ করুন
 pocket-panel-signup-tagline = { -pocket-brand-name } এর মাধ্যমে যেকোন সময়, যেকোন ডিভাইসে নিবন্ধ এবং ভিডিও দেখতে { -brand-product-name } থেকে সেগুলো সংরক্ষণ করুন।
 pocket-panel-signup-tagline-story-one = { -brand-product-name } থেকে আর্টিকেল, ভিডিও বা পৃষ্ঠা সংরক্ষণ করার জন্য { -pocket-brand-name } বাটন ক্লিক করুন।
@@ -41,7 +40,14 @@ pocket-panel-signup-tagline-story-two = যেকোন সময়ে, যেক�
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = আমার তালিকা
+pocket-panel-home-welcome-back = পুনরায় স্বাগতম
+pocket-panel-home-explore-popular-topics = জনপ্রিয় বিষয় অন্বেষণ করুন
+pocket-panel-home-discover-more = আরও আবিষ্কার করুন
+pocket-panel-home-explore-more = অন্বেষণ করুন
+
 ## Pocket panel header component
+
 
 ## Pocket panel buttons
 

@@ -219,8 +219,17 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = আমদানি সম্পূর্ণ হয়েছে
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>ত্রুটি:</span> <span data-l10n-name="count">{ $count }টি</span> <span data-l10n-name="meta">(আমদানি করা হয়নি)</span>
+       *[other] <span>ত্রুটি:</span> <span data-l10n-name="count">{ $count }টি</span> <span data-l10n-name="meta">(আমদানি করা হয়নি)</span>
+    }
 about-logins-import-dialog-done = সম্পন্ন হয়েছে
 about-logins-import-dialog-error-title = আমদানি ত্রুটি
+about-logins-import-dialog-error-try-import-again = আবার আমদানির চেষ্টা করুন…
+about-logins-import-dialog-error-cancel = বাতিল করুন
+about-logins-import-report-title = আমদানির সারাংশ
+about-logins-import-report-description = লগইন এবং পাসওয়ার্ড { -brand-short-name } এ আমদানি করা হয়েছে।
 
 ##
 ## Variables:
