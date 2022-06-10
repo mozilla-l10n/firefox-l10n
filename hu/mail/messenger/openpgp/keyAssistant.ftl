@@ -59,9 +59,57 @@ openpgp-key-assistant-keys-accepted-expired = Több elfogadott kulcs is lejárt.
 # Variables:
 # $date (String) - The expiration date of the key.
 openpgp-key-assistant-this-key-accepted-expired = Ezt a kulcsot korábban elfogadta, de lejárt ekkor: { $date }.
+# Variables:
+# $date (String) - The expiration date of the key.
+openpgp-key-assistant-key-unaccepted-expired-one = A kulcs lejárt ekkor: { $date }.
+openpgp-key-assistant-key-unaccepted-expired-many = Több kulcs is lejárt.
+openpgp-key-assistant-key-fingerprint = Ujjlenyomat
+openpgp-key-assistant-key-source =
+    { $count ->
+        [one] Forrás
+       *[other] Források
+    }
+openpgp-key-assistant-key-collected-attachment = e-mail-melléklet
+openpgp-key-assistant-key-collected-autocrypt = Automatikus titkosítási fejléc
+openpgp-key-assistant-key-collected-keyserver = kulcskiszolgáló
+openpgp-key-assistant-key-collected-wkd = Webes kulcstár
+openpgp-key-assistant-keys-has-collected =
+    { $count ->
+        [one] Egy kulcs található, de még nem fogadta el.
+       *[other] Több kulcs is található, de még egyiket sem fogadta el.
+    }
+openpgp-key-assistant-key-rejected = Ezt a kulcsot korábban elutasította.
+openpgp-key-assistant-key-accepted-other = Ezt a kulcsot korábban egy másik e-mail-címhez fogadta el.
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+openpgp-key-assistant-resolve-discover-info = Fedezze fel { $recipient } további vagy frissített kulcsait online, vagy importálja őket egy fájlból.
 
 ## Discovery section
 
+openpgp-key-assistant-discover-title = Online felfedezés folyamatban.
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-discover-keys = { $recipient } kulcsainak felfedezése…
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-expired-key-update =
+    Frissítést található { $recipient } egyik korábban elfogadott kulcsához.
+    Most már használható, mivel már nem járt le.
 
 ## Dialog buttons
 
+openpgp-key-assistant-discover-online-button = Nyilvános kulcsok felfedezése online…
+openpgp-key-assistant-import-keys-button = Nyilvános kulcsok importálása fájlból…
+openpgp-key-assistant-issue-resolve-button = Feloldás…
+openpgp-key-assistant-view-key-button = Kulcs megtekintése…
+openpgp-key-assistant-recipients-show-button = Megjelenítés
+openpgp-key-assistant-recipients-hide-button = Elrejtés
+openpgp-key-assistant-cancel-button = Mégse
+openpgp-key-assistant-back-button = Vissza
+openpgp-key-assistant-accept-button = Elfogadás
+openpgp-key-assistant-close-button = Bezárás
+openpgp-key-assistant-disable-button = Titkosítás letiltása
+openpgp-key-assistant-confirm-button = Küldés titkosítva
+# Variables:
+# $date (String) - The key creation date.
+openpgp-key-assistant-key-created = létrehozva: { $date }
