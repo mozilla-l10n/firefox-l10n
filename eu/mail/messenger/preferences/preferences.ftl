@@ -456,6 +456,7 @@ compose-send-html-option =
 compose-send-html-description = Hartzaile batzuk ez dira gai izango mezua irakurtzeko testu lau ordezko gabe.
 compose-send-plain-option =
     .label = Testu laua bakarrik
+compose-send-plain-description = Estilo batzuk ordezko testu laura bihurtuko dira, eta beste konposizio-ezaugarri batzuk, berriz, desaktibatu egingo dira.
 autocomplete-description = Bilatu bat datozen sarrerak mezuak helbideratzean:
 ab-label =
     .label = Helbide-liburu lokaletan
