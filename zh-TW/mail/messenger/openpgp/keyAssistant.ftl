@@ -10,6 +10,13 @@ openpgp-key-assistant-rogue-warning = 避免收到偽造的金鑰。為了確保
 openpgp-key-assistant-recipients-issue-header = 無法加密
 # Variables:
 # $count (Number) - The number of recipients that need attention.
+openpgp-key-assistant-recipients-issue-description =
+    { $count ->
+       *[other] 若要加密，您必須先取得並接受 { $count } 位收件者的可用金鑰。<a data-l10n-name="openpgp-link">了解更多…</a>
+    }
+openpgp-key-assistant-info-alias = { -brand-short-name } 一般來說會要求收件者的公鑰當中包含與電子郵件地址相同的使用者 ID。此行為可透過更改 OpenPGP 收件者別名規則來調整。<a data-l10n-name="openpgp-link">了解更多…</a>
+# Variables:
+# $count (Number) - The number of recipients that need attention.
 openpgp-key-assistant-recipients-description =
     { $count ->
        *[other] 您已經擁有 { $count } 位收件者可用且已接受的金鑰。
