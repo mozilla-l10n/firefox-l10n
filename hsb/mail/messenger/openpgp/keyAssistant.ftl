@@ -2,10 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+openpgp-key-assistant-title = Asistent OpenPGP-kluča
 
 ## Encryption status
 
 openpgp-key-assistant-recipients-issue-header = Zaklučowanje móžne njeje
+openpgp-key-assistant-info-alias = { -brand-short-name } sej normalnje wužaduje, zo zjawny kluč přijimarja wužiwarski ID z přisłušnej e-mejlowej adresu wobsahuje. To da so z pomocu aliasowych prawidłow OpenPGP přijimarja přepisać. <a data-l10n-name="openpgp-link">Dalše informacije…</a>
+# Variables:
+# $count (Number) - The number of recipients that need attention.
+openpgp-key-assistant-recipients-description =
+    { $count ->
+        [one] Maće hižo wužiwajomny a akcepotwany kluč za { $count } přijimarja.
+        [two] Maće hižo wužiwajomny a akcepotwany kluč za { $count } přijimarjow.
+        [few] Maće hižo wužiwajomny a akcepotwany kluč za { $count } přijimarjow.
+       *[other] Maće hižo wužiwajomny a akcepotwany kluč za { $count } přijimarjow.
+    }
 
 ## Resolve section
 
