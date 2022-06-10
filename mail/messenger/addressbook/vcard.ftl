@@ -81,6 +81,7 @@ vcard-date-year = Ano
 vcard-adr-header = Endereços
 vcard-adr-add = Adicionar endereço
 vcard-adr-label = Endereço
+vcard-adr-ext = Endereço estendido
 # Or "Locality"
 vcard-adr-locality = Cidade
 # Or "Region"
