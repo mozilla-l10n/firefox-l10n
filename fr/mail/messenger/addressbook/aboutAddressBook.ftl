@@ -26,6 +26,8 @@ about-addressbook-books-context-properties =
     .label = Propriétés
 about-addressbook-books-context-synchronize =
     .label = Synchroniser
+about-addressbook-books-context-edit =
+    .label = Modifier
 about-addressbook-books-context-print =
     .label = Imprimer…
 about-addressbook-books-context-export =
@@ -53,8 +55,6 @@ about-addressbook-search =
     .placeholder = Rechercher { $name }
 about-addressbook-search-all =
     .placeholder = Rechercher dans tous les carnets d’adresses
-about-addressbook-sort-button =
-    .title = Modifier l’ordre de la liste
 about-addressbook-name-format-display =
     .label = Nom à afficher
 about-addressbook-name-format-firstlast =
@@ -154,6 +154,13 @@ about-addressbook-confirm-delete-contacts =
        *[other] Voulez-vous vraiment supprimer ces { $count } contacts ?
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+about-addressbook-placeholder-new-contact = Nouveau contact
+about-addressbook-placeholder-searching = Recherche…
+about-addressbook-placeholder-no-search-results = Aucun contact trouvé
+
 ## Details
 
 about-addressbook-write-action-button = Écrire
@@ -166,8 +173,6 @@ about-addressbook-save-edit-contact-button = Enregistrer
 about-addressbook-add-contact-to = Ajouter à :
 about-addressbook-details-email-addresses-header = Adresses électroniques
 about-addressbook-details-phone-numbers-header = Numéros de téléphone
-about-addressbook-details-home-address-header = Adresse personnelle
-about-addressbook-details-work-address-header = Adresse professionnelle
 about-addressbook-details-addresses-header = Adresses
 about-addressbook-details-notes-header = Notes
 about-addressbook-details-other-info-header = Autres informations
@@ -180,7 +185,6 @@ about-addressbook-entry-name-birthday = Anniversaire
 about-addressbook-entry-name-anniversary = Date d’anniversaire
 about-addressbook-entry-name-title = Fonction
 about-addressbook-entry-name-role = Fonction
-about-addressbook-entry-name-department = Service
 about-addressbook-entry-name-organization = Société
 about-addressbook-entry-name-website = Site web
 about-addressbook-entry-name-time-zone = Fuseau horaire
