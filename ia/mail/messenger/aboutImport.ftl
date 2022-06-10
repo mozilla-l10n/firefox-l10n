@@ -11,9 +11,6 @@ import-start = Importar instrumento
 import-start-title = Importar parametros o datos ex un application o file.
 import-start-description = Elige le fonte ab le qual tu vole importar. Plus tarde te sera demandate de eliger qual datos debe esser importate.
 import-from-app = Importar ab application
-import-from-app-desc = Seliger de importar contos, libros de adresses, agendas, e altere dato ab:
-import-address-book = Importar le file libro del adresses
-import-calendar = Importar file de agenda
 import-file = Importar ab un file
 import-file-title = Elige un file pro importar su contento.
 import-file-description = Selige de importar un profilo, libros de adresses o agendas previemente reservate.
@@ -23,7 +20,6 @@ export-profile = Exportar
 
 ## Buttons
 
-button-cancel = Cancellar
 button-back = Retro
 button-continue = Continuar
 button-export = Exportar
@@ -36,14 +32,6 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
-# Variables:
-#   $app (String) - The name of the app to import from
-profiles-pane-title = Importar ab { $app }
-profiles-pane-desc = Selige le position ab le qual importar.
-profile-file-picker-dir = Selige un plica del profilo
-profile-file-picker-zip = Selige un file zip (minor de 2GB)
-items-pane-title = Elige que importar
-items-pane-source = Position del fonte:
 source-thunderbird = Importar ab un altere installation de { app-name-thunderbird }
 source-thunderbird-description = Importar parametros, filtros, messages e altere datos ab un profilo de { app-name-thunderbird }.
 source-seamonkey = Importar ab un installation de { app-name-seamonkey }
@@ -114,7 +102,6 @@ items-pane-override = Ulle datos existente o identic non sera superscribite.
 
 ## Import from address book file steps
 
-import-from-addr-book-file-desc = Elige le typo de file que tu vole importar:
 import-from-addr-book-file-description = Elige le formato de file que contine le datos de tu libro de adresses.
 addr-book-csv-file = File separate per virgulas o tabulationes (.csv, .tsv)
 addr-book-ldif-file = file vCard (.vcf, .vcard)
@@ -124,13 +111,8 @@ addr-book-mab-file = File base de datos Mork (.mab)
 addr-book-file-picker = Elige un file libro del adresses
 addr-book-csv-field-map-title = Concordar nomines de campo
 addr-book-csv-field-map-desc = Elige le campos de libro de adresses correspondente al campos fonte. Dismarca le campos que tu non vole importar.
-addr-book-directories-pane-title = Elige le directorio in que tu vole importar:
 addr-book-directories-title = Elige ubi importar le datos eligite
 addr-book-directories-pane-source = File fonte:
-addr-book-import-into-new-directory = Crear un nove directorio
-
-## Import from address book file steps
-
 # $addressBookName (string) - name of the new address book that would be created.
 addr-book-import-into-new-directory2 = Crear un nove directorio appellate <strong>"{ $addressBookName }"</strong>
 # $addressBookName (string) - name of the address book to import into
@@ -147,7 +129,6 @@ calendar-items-filter-input =
     .placeholder = Filtrar elementos…
 calendar-select-all-items = Seliger toto
 calendar-deselect-all-items = De-seliger toto
-calendar-import-into-new-calendar = Crear un nove agenda
 calendar-target-title = Elige ubi importar le elementos eligite.
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = Crear un nove agenda appellate <strong>"{ $targetCalendar }"</strong>
@@ -163,18 +144,12 @@ calendar-summary-description = Un nove agenda appellate "{ $targetCalendar }" se
 
 ## Import dialog
 
-progress-pane-importing = Importation
-progress-pane-exporting = Exportation
-progress-pane-finished-desc = Finite.
-progress-pane-restart-desc = Reinitiar pro finir de importar.
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-importing2 = Importation de… { $progressPercent }
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-exporting2 = Exportante… { $progressPercent }
 progress-pane-finished-desc2 = Complete.
 error-pane-title = Error
-error-message-zip-file-too-big = Le file zip seligite, es major de 2GB. In vice abstrahe lo antea primo, postea importa lo ab le plicas extrahite.
-error-message-extract-zip-file-failed = Impossibile extraher le file zip. In vice extrahe lo manualmente, pois importa lo ab le plica extrahite.
 error-message-zip-file-too-big2 = Le file zip seligite, es major de 2GB. In vice abstrahe lo antea primo, postea importa lo ab le plicas extrahite.
 error-message-extract-zip-file-failed2 = Impossibile extraher le file zip. In vice extrahe lo manualmente, pois importa lo ab le plica extrahite.
 error-message-failed = Le importation falleva inspectatemente, Altere informationes pote esser disponibile in le Consola de error.
@@ -192,12 +167,9 @@ csv-target-field = Campo del libro de adresses
 
 ## Export tab
 
-export-profile-desc = Exporta contos e-mail, messages e-mail, libros de adresses, parametros a in un file zip. Quando necessari, tu pote importar le file zip pro restaurar tu profilo.
-export-profile-desc2 = Si tu actual profilo es major de 2GB, nos te suggere de reservar lo tu mesme.
 export-profile-title = Exportar contos, messages, libros de adresses e parametros a in un file ZIP.
 export-profile-description = Si tu actual profilo es major de 2GB, nos te suggere de reservar lo tu mesme.
 export-open-profile-folder = Aperir le plica del profilo
-export-file-picker = Exportar a un file zip
 export-file-picker2 = Exportar a in un file ZIP
 export-brand-name = { -brand-product-name }
 
@@ -214,3 +186,10 @@ footer-help = Require adjuta?
 footer-import-documentation = Importar le documentation
 footer-export-documentation = Exportar le documentation
 footer-support-forum = Foro de supporto
+
+## Step navigation on top of the wizard pages
+
+step-confirm = Confirmar
+# Variables:
+# $number (number) - step number
+step-count = { $number }

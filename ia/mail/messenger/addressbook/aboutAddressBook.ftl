@@ -26,6 +26,8 @@ about-addressbook-books-context-properties =
     .label = Proprietates
 about-addressbook-books-context-synchronize =
     .label = Synchronisar
+about-addressbook-books-context-edit =
+    .label = Rediger
 about-addressbook-books-context-print =
     .label = Imprimer…
 about-addressbook-books-context-export =
@@ -53,8 +55,6 @@ about-addressbook-search =
     .placeholder = Cercar in { $name }
 about-addressbook-search-all =
     .placeholder = Cercar in tote le libros del adresses
-about-addressbook-sort-button =
-    .title = Cambiar le ordine del lista
 about-addressbook-name-format-display =
     .label = Nomine monstrate
 about-addressbook-name-format-firstlast =
@@ -154,8 +154,16 @@ about-addressbook-confirm-delete-contacts =
        *[other] Desira tu vermente deler { $count } contactos?
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+about-addressbook-placeholder-new-contact = Nove contacto
+about-addressbook-placeholder-search-only = Iste libro de adresses monstrara contactos solo post un recerca
+about-addressbook-placeholder-searching = In cerca…
+
 ## Details
 
+about-addressbook-prefer-display-name = Preferer le nomine monstrate al testa del message
 about-addressbook-write-action-button = Scriber
 about-addressbook-event-action-button = Evento
 about-addressbook-search-action-button = Cercar
@@ -166,8 +174,6 @@ about-addressbook-save-edit-contact-button = Salvar
 about-addressbook-add-contact-to = Adder a:
 about-addressbook-details-email-addresses-header = Adresses email
 about-addressbook-details-phone-numbers-header = Numeros de telephono
-about-addressbook-details-home-address-header = Adresse casa
-about-addressbook-details-work-address-header = Adresse de officio
 about-addressbook-details-addresses-header = Adresses
 about-addressbook-details-notes-header = Notas
 about-addressbook-details-other-info-header = Altere informationes
@@ -180,7 +186,6 @@ about-addressbook-entry-name-birthday = Die natal
 about-addressbook-entry-name-anniversary = Anniversario
 about-addressbook-entry-name-title = Titulo
 about-addressbook-entry-name-role = Rolo
-about-addressbook-entry-name-department = Departimento
 about-addressbook-entry-name-organization = Organisation
 about-addressbook-entry-name-website = Sito web
 about-addressbook-entry-name-time-zone = Fuso horari
