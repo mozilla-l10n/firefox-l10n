@@ -3,6 +3,12 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+# Display Name
+
+vcard-displayname = Bistaratzeko izena
+vcard-displayname-placeholder =
+    .placeholder = { vcard-displayname }
+
 # Type selection
 
 vcard-entry-type-label = Mota
@@ -35,8 +41,7 @@ vcard-n-add-suffix =
 vcard-email-header = Helbide elektronikoak
 vcard-email-add = Gehitu helbide elektronikoa
 vcard-email-label = Helbide elektronikoa
-vcard-email-choose-primary = Lehenetsia
-    .aria-label = Aukeratu zure helbide elektroniko lehenetsia
+vcard-primary-email-label = Lehenetsia
 
 # URL vCard field
 
@@ -54,3 +59,26 @@ vcard-tel-label = Telefono zenbakia
 
 vcard-tz-header = Ordu-zona
 vcard-tz-add = Gehitu ordu-zona
+
+# IMPP vCard field
+
+vcard-impp-header = Txat-kontuak
+vcard-impp-add = Gehitu txat-kontua
+vcard-impp-label = Txat-kontua
+
+# BDAY and ANNIVERSARY vCard field
+
+vcard-bday-anniversary-header = Data bereziak
+vcard-bday-anniversary-add = Gehitu data berezia
+vcard-bday-label = Urtebetetzea
+vcard-anniversary-label = Urteurrena
+vcard-date-day = Eguna
+
+# ADR vCard field
+
+
+# NOTE vCard field
+
+
+# TITLE, ROLE and ORGANIZATION vCard fields
+
