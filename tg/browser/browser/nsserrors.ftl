@@ -140,6 +140,7 @@ ssl-error-next-protocol-data-invalid = SSL маълумоти васеъшави
 ssl-error-feature-not-supported-for-ssl2 = Хусусияти SSL барои пайвастҳои SSL 2.0 дастгирӣ намешавад.
 ssl-error-feature-not-supported-for-servers = Хусусияти SSL барои серверҳо дастгирӣ намешавад.
 ssl-error-feature-not-supported-for-clients = Хусусияти SSL барои муштариён дастгирӣ намешавад.
+ssl-error-invalid-version-range = Ҳудуди версияи SSL эътибор надорад.
 ssl-error-rx-malformed-hello-verify-request = SSL паёми вайроншудаи дастфишории «Дархости тасдиқи салом»-ро қабул кард.
 ssl-error-rx-unexpected-hello-verify-request = SSL паёми ногаҳони дастфишории «Дархости тасдиқи салом»-ро қабул кард.
 ssl-error-feature-not-supported-for-version = Хусусияти SSL барои ин силсилаи протокол дастгирӣ намешавад.
