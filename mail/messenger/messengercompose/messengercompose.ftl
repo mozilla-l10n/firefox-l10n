@@ -191,6 +191,11 @@ key-notification-resolve =
     .label = Resolver…
     .accesskey = R
     .tooltiptext = Abrir o assistente de chaves OpenPGP
+can-encrypt-smime-notification = É possível criptografia de ponta a ponta S/MIME.
+can-encrypt-openpgp-notification = É possível criptografia de ponta a ponta OpenPGP.
+can-e2e-encrypt-button =
+    .label = Criptografar
+    .accesskey = C
 
 ## Addressing Area
 
