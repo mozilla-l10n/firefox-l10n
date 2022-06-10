@@ -15,9 +15,60 @@ openpgp-key-assistant-recipients-issue-description =
         [one] Deszifratzeko, hartzaile baten gako erabilgarria lortu behar duzu. <a data-l10n-name="openpgp-link">Gehiago ikasi…</a>
        *[other] Deszifratzeko, { $count } hartzaileren gako erabilgarriak lortu behar dituzu. <a data-l10n-name="openpgp-link">Gehiago ikasi…</a>
     }
+openpgp-key-assistant-info-alias = { -brand-short-name }(e)k hartzailearen gako publikoak erabiltzaile IDa izatea eskatzen du normalean, bat datorrena posta elektroniko helbideaz.  Hau baliogabetu daiteke hartzaileen OpenPGP alias arauak erabiliz.<a data-l10n-name="openpgp-link">gehiago ikasteko…</a>
+# Variables:
+# $count (Number) - The number of recipients that need attention.
+openpgp-key-assistant-recipients-description =
+    { $count ->
+        [one] Badaukazu hartzaile baten gako erabilgarri eta onartua.
+       *[other] Badaukazu { $count } hartzaileren gako erabilgarri eta onartuak.
+    }
+openpgp-key-assistant-recipients-description-no-issues = Mezu hau deszifratu daiteke. Badaukazu hartzaile guztien gako erabilgarri eta onartuak.
 
 ## Resolve section
 
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+# $numKeys (Number) - The number of keys.
+openpgp-key-assistant-resolve-title =
+    { $numKeys ->
+        [one] { -brand-short-name } ondorengo gakoa aurkitu du hartzaile honena: { $recipient }
+       *[other] { -brand-short-name } ondorengo gakoak aurkitu ditu hartzaile hauena: { $recipient }
+    }
+openpgp-key-assistant-valid-description = Aukeratu onartu nahi duzun gakoa
+# Variables:
+# $numKeys (Number) - The number of available keys.
+openpgp-key-assistant-invalid-title =
+    { $numKeys ->
+        [one] Ondorengo gakoa ezin da erabili, ez baduzu eguneratze bat lortzen.
+       *[other] Ondorengo gakoak ezin dira erabili, ez badituzu eguneratzeak lortzen.
+    }
+openpgp-key-assistant-no-key-available = Ez dago gakorik erabilgarri.
+openpgp-key-assistant-multiple-keys = Hainbat gako daude erabilgarri.
+# Variables:
+# $count (Number) - The number of unaccepted keys.
+openpgp-key-assistant-key-unaccepted =
+    { $count ->
+        [one] gako bat dago erabilgarri, baina oraindik ez dago onartua.
+       *[other] Hainbat gako daude erabilgarri, baina oraindik ez daude onartuak.
+    }
+# Variables:
+# $date (String) - The expiration date of the key.
+openpgp-key-assistant-key-accepted-expired = Onartutako gako bat data honetan iraungi da: { $date }.
+openpgp-key-assistant-keys-accepted-expired = Hainbat gako onartutakoak iraungi dira.
+# Variables:
+# $date (String) - The expiration date of the key.
+openpgp-key-assistant-this-key-accepted-expired = Gako hau aurrez onartu zen baina data honetan iraungi zen: { $date }.
+# Variables:
+# $date (String) - The expiration date of the key.
+openpgp-key-assistant-key-unaccepted-expired-one = Iraungitze data: { $date }
+openpgp-key-assistant-key-unaccepted-expired-many = Hainbat gako iraungi dira.
+openpgp-key-assistant-key-fingerprint = Hatz-marka
+openpgp-key-assistant-key-source =
+    { $count ->
+        [one] Iturburua
+       *[other] Iturburuak
+    }
 
 ## Discovery section
 
