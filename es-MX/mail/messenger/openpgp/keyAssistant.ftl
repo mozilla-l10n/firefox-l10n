@@ -19,9 +19,17 @@ openpgp-key-assistant-info-alias = { -brand-short-name } normalmente requiere qu
 
 ## Resolve section
 
+openpgp-key-assistant-key-fingerprint = Huella dactilar
+openpgp-key-assistant-key-source =
+    { $count ->
+        [one] Fuente
+       *[other] Fuentes
+    }
+openpgp-key-assistant-key-collected-keyserver = Servidor de claves
 
 ## Discovery section
 
+openpgp-key-assistant-discover-title = Descubrimiento en línea en progreso.
 
 ## Dialog buttons
 
