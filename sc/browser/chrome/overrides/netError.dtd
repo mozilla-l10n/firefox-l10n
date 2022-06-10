@@ -97,6 +97,7 @@ was trying to connect. -->
 
 
 
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Sa pàgina chi ses proende a abèrrere non podet èssere ammustrada, ca est istada agatada una faddina in sa trasmissione de is datos.</p><ul><li>Cuntata is meres de su situ pro informare de custu problema.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Atzeta s'arriscu e sighi">
 

@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Annulla
 screenshots-overlay-instructions = Traga o incarca in sa pàgina pro nde seberare una banda. Incarca ESC pro annullare.
+screenshots-overlay-download-button = Iscàrriga
+screenshots-overlay-copy-button = Còpia
