@@ -4,6 +4,9 @@
 
 e2e-intro-description = Zifratutako edo digitalki sinatutako mezuak bidaltzeko, zifratze teknologia konfiguratu behar duzu, edo OpenPGP edo S/MIME.
 e2e-intro-description-more = Aukeratu zure gako pertsonala OpenPGP erabilera gaitzeko, edo ziurtagiri pertsonala S/MIME erabilera gaitzeko. Gako pertsonalaren edo ziurtagiri dagokion gako sekretua izan behar duzu.
+e2e-signing-description =
+    Sinadura digitalak hartzaileak mezuak zuk bidalitakoa dela egiaztatzea ahalbidetzen du eta bere edukia ez dela aldatu.
+    Zifratutako mezuak beti daude lehenetsita sinatuak.
 e2e-sign-message =
     .label = Sinatu zifratu gabeko mezuak
     .accesskey = S
@@ -13,6 +16,7 @@ e2e-disable-enc =
 e2e-enable-enc =
     .label = Gaitu zifratzea mezu berrietan
     .accesskey = G
+e2e-enable-description = Banakako mezuetan zifratzea desgaitu ahal izango duzu.
 e2e-advanced-section = Ezarpen aurreratuak
 e2e-attach-key =
     .label = Erantsi nire gako publikoa OpenPGP sinadura gehitzen diodanean
@@ -179,6 +183,9 @@ openpgp-key-man-reload =
 openpgp-key-man-change-expiry =
     .label = Aldatu iraungitze data
     .accesskey = d
+openpgp-key-man-refresh-online =
+    .label = Freskatu online
+    .accesskey = F
 openpgp-key-man-ignored-ids =
     .label = Helbide elektronikoak
 openpgp-key-man-del-key =
@@ -226,8 +233,7 @@ openpgp-key-man-select-all-key =
     .key = A
 openpgp-key-man-key-details-key =
     .key = I
-openpgp-key-details-title =
-    .title = Gako propietateak
+openpgp-ign-addr-intro = Gako hau erabiltzea onartu duzu ondoren hautatutako helbide elektronikoetan:
 openpgp-key-details-doc-title = Gako propietateak
 openpgp-key-details-signatures-tab =
     .label = Ziurtagiriak
@@ -236,7 +242,7 @@ openpgp-key-details-structure-tab =
 openpgp-key-details-uid-certified-col =
     .label = Erabiltzaile ID / nork ziurtatua
 openpgp-key-details-key-id-label = Gako IDa
-openpgp-key-details-user-id2-label = Adierazitako gako jabea
+openpgp-key-details-user-id3-label = Erreklamatutako gakoaren jabea
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Mota
@@ -255,6 +261,7 @@ openpgp-key-details-expiry-header = Iraungitze-data
 openpgp-key-details-usage-label =
     .label = Erabilera
 openpgp-key-details-fingerprint-label = Hatz-marka
+openpgp-key-details-legend-secret-missing = (!) markatutako gakoetan, gako sekretua ez dago erabilgarri.
 openpgp-key-details-sel-action =
     .label = Aukeratu ekintza
     .accesskey = e
@@ -482,8 +489,6 @@ key-error-key-id-not-found = Konfiguratutako gako ID '{ $keySpec }'  ez da aurki
 key-error-not-accepted-as-personal = Ez duzu berretsi '{ $keySpec }' IDa duen gakoa zure gako pertsonala denik.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Aukeratu duzu funtzioa ez dago erabilgarri lineaz kanpo moduan. Jar zaitez linean eta saiatu berriro.
-# Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = Ez da aurkitu bilaketa irizpideekin bat datorren gakorik.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Errorea - gakoa ateratzeko komandoak huts egin du
 # Strings used in keyRing.jsm
