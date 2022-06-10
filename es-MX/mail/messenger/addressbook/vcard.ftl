@@ -3,6 +3,12 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+# Display Name
+
+vcard-displayname = Nombre para mostrar
+vcard-displayname-placeholder =
+    .placeholder = { vcard-displayname }
+
 # Type selection
 
 vcard-entry-type-label = Tipo
@@ -35,8 +41,7 @@ vcard-n-add-suffix =
 vcard-email-header = Direcciones de correo
 vcard-email-add = Agregar dirección de correo
 vcard-email-label = Dirección de correo
-vcard-email-choose-primary = Predeterminado
-    .aria-label = Selecciona tu dirección de correo principal
+vcard-primary-email-label = Predeterminado
 
 # URL vCard field
 
@@ -54,3 +59,49 @@ vcard-tel-label = Número de teléfono
 
 vcard-tz-header = Zona horaria
 vcard-tz-add = Agregar zona horaria
+
+# IMPP vCard field
+
+vcard-impp-header = Cuentas de chat
+vcard-impp-add = Agregar cuenta de chat
+vcard-impp-label = Cuenta de chat
+
+# BDAY and ANNIVERSARY vCard field
+
+vcard-bday-anniversary-header = Fechas especiales
+vcard-bday-anniversary-add = Agregar fecha especial
+vcard-bday-label = Cumpleaños
+vcard-anniversary-label = Aniversario
+vcard-date-day = Día
+vcard-date-month = Mes
+vcard-date-year = Año
+
+# ADR vCard field
+
+vcard-adr-header = Direcciones
+vcard-adr-add = Agregar dirección
+vcard-adr-label = Dirección
+vcard-adr-delivery-label = Etiqueta de entrega
+vcard-adr-pobox = Buzón
+vcard-adr-ext = Dirección extendida
+vcard-adr-street = Dirección de la calle
+# Or "Locality"
+vcard-adr-locality = Ciudad
+# Or "Region"
+vcard-adr-region = Estado/Provincia
+# The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
+vcard-adr-code = Código Postal
+vcard-adr-country = País
+
+# NOTE vCard field
+
+vcard-note-header = Notas
+vcard-note-add = Agregar nota
+
+# TITLE, ROLE and ORGANIZATION vCard fields
+
+vcard-org-header = Propiedades de organización
+vcard-org-add = Agregar propiedad de organización
+vcard-org-title = Título
+vcard-org-role = Rol
+vcard-org-org = Organización
