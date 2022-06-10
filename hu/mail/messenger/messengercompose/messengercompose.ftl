@@ -192,6 +192,11 @@ key-notification-resolve =
     .label = Feloldás
     .accesskey = F
     .tooltiptext = Az OpenPGP kulcssegéd megnyitása
+can-encrypt-smime-notification = Az S/MIME végpontok közötti titkosítás lehetséges.
+can-encrypt-openpgp-notification = Az OpenPGP végpontok közötti titkosítás lehetséges.
+can-e2e-encrypt-button =
+    .label = Titkosítás
+    .accesskey = T
 
 ## Addressing Area
 
