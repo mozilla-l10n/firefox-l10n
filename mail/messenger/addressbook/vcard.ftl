@@ -3,6 +3,12 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+# Display Name
+
+vcard-displayname = Megjelenő név
+vcard-displayname-placeholder =
+    .placeholder = { vcard-displayname }
+
 # Type selection
 
 vcard-entry-type-label = Típus
@@ -35,8 +41,7 @@ vcard-n-add-suffix =
 vcard-email-header = E-mail-címek
 vcard-email-add = E-mail-cím hozzáadása
 vcard-email-label = E-mail-cím
-vcard-email-choose-primary = Alapértelmezett
-    .aria-label = Válasszon elsődleges e-mail-címet
+vcard-primary-email-label = Alapértelmezett
 
 # URL vCard field
 
@@ -54,3 +59,49 @@ vcard-tel-label = Telefonszám
 
 vcard-tz-header = Időzóna
 vcard-tz-add = Időzóna hozzáadása
+
+# IMPP vCard field
+
+vcard-impp-header = Csevegőfiókok
+vcard-impp-add = Csevegőfiók hozzáadása
+vcard-impp-label = Csevegőfiók
+
+# BDAY and ANNIVERSARY vCard field
+
+vcard-bday-anniversary-header = Különleges dátumok
+vcard-bday-anniversary-add = Különleges dátum hozzáadása
+vcard-bday-label = Születésnap
+vcard-anniversary-label = Évforduló
+vcard-date-day = Nap
+vcard-date-month = Hónap
+vcard-date-year = Év
+
+# ADR vCard field
+
+vcard-adr-header = Címek
+vcard-adr-add = Cím hozzáadása
+vcard-adr-label = Cím
+vcard-adr-delivery-label = Szállítási címke
+vcard-adr-pobox = Postafiók
+vcard-adr-ext = Bővített cím
+vcard-adr-street = Utca, házszám
+# Or "Locality"
+vcard-adr-locality = Város
+# Or "Region"
+vcard-adr-region = Állam/tartomány
+# The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
+vcard-adr-code = Irányítószám
+vcard-adr-country = Ország
+
+# NOTE vCard field
+
+vcard-note-header = Megjegyzés
+vcard-note-add = Megjegyzés hozzáadása
+
+# TITLE, ROLE and ORGANIZATION vCard fields
+
+vcard-org-header = Szervezeti tulajdonságok
+vcard-org-add = Szervezeti tulajdonságok hozzáadása
+vcard-org-title = Cím
+vcard-org-role = Szerep
+vcard-org-org = Szervezet

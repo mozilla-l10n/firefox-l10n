@@ -11,9 +11,6 @@ import-start = Importálási eszköz
 import-start-title = Beállítások vagy adatok importálása alkalmazásból vagy fájlból.
 import-start-description = Válassza ki az importálás forrását. Később meg kell adnia, hogy mely adatokat kell importálni.
 import-from-app = Importálás alkalmazásból
-import-from-app-desc = Fiókok, címjegyzékek, naptárak és egyéb adatok importálása innen:
-import-address-book = Címjegyzékfájl importálása
-import-calendar = Naptárfájl importálása
 import-file = Importálás fájlból
 import-file-title = Válasszon egy fájlt a tartalmának importálásához.
 import-file-description = Válasszon egy korábban mentett importálandó profilt, címjegyzéket vagy naptárat.
@@ -23,7 +20,6 @@ export-profile = Exportálás
 
 ## Buttons
 
-button-cancel = Mégse
 button-back = Vissza
 button-continue = Folytatás
 button-export = Exportálás
@@ -36,14 +32,6 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
-# Variables:
-#   $app (String) - The name of the app to import from
-profiles-pane-title = Importálás innen: { $app }
-profiles-pane-desc = Válassza ki az importálás helyét
-profile-file-picker-dir = Válasszon profilmappát
-profile-file-picker-zip = Válasszon egy ZIP-fájlt (2 GB-nál kisebbet)
-items-pane-title = Válasszon, hogy mit szeretne importálni
-items-pane-source = Forrás helye:
 source-thunderbird = Importálás egy másik { app-name-thunderbird } telepítésből
 source-thunderbird-description = Beállítások, szűrők, üzenetek és más adatok importálása egy { app-name-thunderbird }-profilból.
 source-seamonkey = Importálás egy { app-name-seamonkey } telepítésből
@@ -96,7 +84,6 @@ items-pane-override = A meglévő vagy azonos adatok nem kerülnek felülírásr
 
 ## Import from address book file steps
 
-import-from-addr-book-file-desc = Válassza ki az importálandó fájltípust:
 import-from-addr-book-file-description = Válassza ki a címjegyzék adatait tartalmazó fájl formátumát.
 addr-book-csv-file = Vesszővel vagy tabulátorral elválasztott fájl (.csv, .tsv)
 addr-book-ldif-file = LDIF-fájl (.ldif)
@@ -106,13 +93,8 @@ addr-book-mab-file = Mork adatbázisfájl (.mab)
 addr-book-file-picker = Címjegyzékfájl kiválasztása
 addr-book-csv-field-map-title = Mezőnevek összerendelése
 addr-book-csv-field-map-desc = Válassza ki a forrásmezőknek megfelelő címjegyzékmezőket. Kapcsolja ki azokat a mezőket, melyeket nem akar importálni.
-addr-book-directories-pane-title = Válassza ki az importálás célkönyvtárát:
 addr-book-directories-title = Válassza ki, hová szeretné importálni a kiválasztott adatokat
 addr-book-directories-pane-source = Forrásfájl:
-addr-book-import-into-new-directory = Új könyvtár létrehozása
-
-## Import from address book file steps
-
 # $addressBookName (string) - name of the new address book that would be created.
 addr-book-import-into-new-directory2 = Új könyvtár létrehozása <strong>„{ $addressBookName }”</strong> néven
 # $addressBookName (string) - name of the address book to import into
@@ -129,7 +111,6 @@ calendar-items-filter-input =
     .placeholder = Elemek szűrése…
 calendar-select-all-items = Összes kiválasztása
 calendar-deselect-all-items = Összes kiválasztásának megszüntetése
-calendar-import-into-new-calendar = Új naptár létrehozása
 calendar-target-title = Válassza ki, hová szeretné importálni a kiválasztott elemeket.
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = Új naptár létrehozása <strong>„{ $targetCalendar }”</strong> néven
@@ -145,18 +126,12 @@ calendar-summary-description = Létrejön egy új, „{ $targetCalendar }” né
 
 ## Import dialog
 
-progress-pane-importing = Importálás
-progress-pane-exporting = Exportálás
-progress-pane-finished-desc = Kész.
-progress-pane-restart-desc = Újraindítás az importálás befejezéséhez.
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-importing2 = Importálás… { $progressPercent }
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-exporting2 = Exportálás… { $progressPercent }
 progress-pane-finished-desc2 = Kész.
 error-pane-title = Hiba
-error-message-zip-file-too-big = A kiválasztott ZIP-fájl nagyobb, mint 2 GB. Először bontsa ki, majd importálja a kibontott mappából.
-error-message-extract-zip-file-failed = A ZIP-fájl kibontása sikertelen. Bontsa ki kézzel, majd importálja a kibontott mappából.
 error-message-zip-file-too-big2 = A kiválasztott ZIP-fájl nagyobb, mint 2 GB. Először bontsa ki, majd importálja a kibontott mappából.
 error-message-extract-zip-file-failed2 = A ZIP-fájl kibontása sikertelen. Bontsa ki kézzel, majd importálja a kibontott mappából.
 error-message-failed = Az importálás váratlanul meghiúsult, további információ lehet elérhető a Hibakonzolban.
@@ -174,12 +149,9 @@ csv-target-field = Címjegyzékmező
 
 ## Export tab
 
-export-profile-desc = Postafiókok, e-mail üzenetek, címjegyzékek, beállítások ZIP-fájlba exportálása. Ha szükséges, importálhatja a ZIP-fájlt a profil helyreállításához.
-export-profile-desc2 = Ha a jelenlegi profilja nagyobb, mint 2 GB, javasoljuk, hogy saját kezűleg készítsen biztonsági másolatot.
 export-profile-title = Fiókok, levelek, címjegyzékek, beállítások ZIP-fájlba exportálása.
 export-profile-description = Ha a jelenlegi profilja nagyobb, mint 2 GB, javasoljuk, hogy saját kezűleg készítsen biztonsági másolatot.
 export-open-profile-folder = Profilmappa megnyitása
-export-file-picker = Exportálás ZIP-fájlba
 export-file-picker2 = Exportálás ZIP-fájlba
 export-brand-name = { -brand-product-name }
 
@@ -196,3 +168,12 @@ footer-help = Segítségre van szüksége?
 footer-import-documentation = Importálási dokumentáció
 footer-export-documentation = Exportálási dokumentáció
 footer-support-forum = Támogatói fórum
+
+## Step navigation on top of the wizard pages
+
+step-list =
+    .aria-label = Importálási lépések
+step-confirm = Megerősítés
+# Variables:
+# $number (number) - step number
+step-count = { $number }
