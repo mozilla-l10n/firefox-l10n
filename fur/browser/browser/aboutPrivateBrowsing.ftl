@@ -34,6 +34,8 @@ about-private-browsing-focus-promo-text = La neste app mobile dedicade ae naviga
 
 about-private-browsing-focus-promo-header-b = Puarte la navigazion privade sul to telefonin
 about-private-browsing-focus-promo-text-b = Dopre { -focus-brand-name } par chês ricercjis riservadis che no tu vuelis che il navigadôr mobil principâl al viodi.
+about-private-browsing-focus-promo-header-c = Il nivel sucessîf di riservatece sui dispositîfs mobii
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } al nete la tô cronologjie ogni volte intant che al bloche lis publicitâts e i trackers spions.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -46,3 +48,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Siere
+about-private-browsing-promo-close-button =
+    .title = Siere
