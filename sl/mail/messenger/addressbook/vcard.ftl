@@ -3,6 +3,12 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+# Display Name
+
+vcard-displayname = Prikazano ime
+vcard-displayname-placeholder =
+    .placeholder = { vcard-displayname }
+
 # Type selection
 
 vcard-entry-type-label = Vrsta
@@ -35,8 +41,6 @@ vcard-n-add-suffix =
 vcard-email-header = E-poštni naslovi
 vcard-email-add = Dodaj e-poštni naslov
 vcard-email-label = E-poštni naslov
-vcard-email-choose-primary = Privzet
-    .aria-label = Izberite svoj privzeti e-poštni naslov
 
 # URL vCard field
 
@@ -54,3 +58,32 @@ vcard-tel-label = Telefonska številka
 
 vcard-tz-header = Časovni pas
 vcard-tz-add = Dodaj časovni pas
+
+# IMPP vCard field
+
+vcard-impp-header = Računi za klepet
+vcard-impp-add = Dodaj račun za klepet
+vcard-impp-label = Račun za klepet
+
+# BDAY and ANNIVERSARY vCard field
+
+vcard-bday-label = Rojstni dan
+vcard-anniversary-label = Obletnica
+vcard-date-day = dan
+vcard-date-month = mesec
+vcard-date-year = leto
+
+# ADR vCard field
+
+vcard-adr-header = Naslovi
+vcard-adr-add = Dodaj naslov
+vcard-adr-label = Naslov
+vcard-adr-country = Država
+
+# NOTE vCard field
+
+vcard-note-header = Opombe
+vcard-note-add = Dodaj opombo
+
+# TITLE, ROLE and ORGANIZATION vCard fields
+

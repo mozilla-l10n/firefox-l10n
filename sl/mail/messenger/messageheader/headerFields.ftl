@@ -3,27 +3,35 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Message headers
+## Header lists
 
+message-header-to-list-name = Za
+message-header-from-list-name = Od
+message-header-sender-list-name = Pošiljatelj
+message-header-cc-list-name = Kp
+message-header-bcc-list-name = Skp
+message-header-newsgroups-list-name = Novičarske skupine
+message-header-tags-list-name = Oznake
 
-# The field-separator is for screen readers to separate the field name from the field value.
+## Other message headers.
+## The field-separator is for screen readers to separate the field name from the field value.
 
-message-header-to-field = Za<span data-l10n-name="field-separator">:</span>
-message-header-from-field = Od<span data-l10n-name="field-separator">:</span>
-message-header-sender-field = Pošiljatelj<span data-l10n-name="field-separator">:</span>
 message-header-author-field = Avtor<span data-l10n-name="field-separator">:</span>
 message-header-organization-field = Organizacija<span data-l10n-name="field-separator">:</span>
-message-header-reply-to-field = Odgovor za<span data-l10n-name="field-separator">:</span>
 message-header-subject-field = Zadeva<span data-l10n-name="field-separator">:</span>
-message-header-cc-field = Kp<span data-l10n-name="field-separator">:</span>
-message-header-bcc-field = Skp<span data-l10n-name="field-separator">:</span>
-message-header-newsgroups-field = Novičarske skupine<span data-l10n-name="field-separator">:</span>
-message-header-tags-field = Oznake<span data-l10n-name="field-separator">:</span>
 message-header-date-field = Datum<span data-l10n-name="field-separator">:</span>
 message-header-user-agent-field = Uporabniški agent<span data-l10n-name="field-separator">:</span>
 message-header-references-field = Sklici<span data-l10n-name="field-separator">:</span>
 message-header-message-id-field = ID sporočila<span data-l10n-name="field-separator">:</span>
 message-header-website-field = Spletno mesto<span data-l10n-name="field-separator">:</span>
+# An additional email header field that the user has chosen to display. Unlike
+# the other headers, the name of this header is not expected to be localised
+# because it is generated from the raw field name found in the email header.
+#   $fieldName (String) - The field name.
+message-header-custom-field = { $fieldName }<span data-l10n-name="field-separator">:</span>
+
+##
+
 message-header-address-in-address-book-icon2 =
     .alt = V imeniku
 message-header-address-not-in-address-book-icon2 =
@@ -34,3 +42,4 @@ message-header-address-in-address-book-button =
     .title = Uredi stik
 message-header-field-show-more = Več
     .title = Prikaži vse prejemnike
+message-ids-field-show-all = Prikaži vse
