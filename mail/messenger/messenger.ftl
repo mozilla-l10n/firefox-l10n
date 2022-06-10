@@ -129,6 +129,10 @@ message-header-msg-flagged =
     .aria-label = Označeno z zvezdico
 message-header-msg-not-flagged =
     .title = Sporočilo, ki ni označeno z zvezdico
+# Variables:
+# $address (String) - The email address of the recipient this picture belongs to.
+message-header-recipient-avatar =
+    .alt = Slika profila { $address }.
 
 ## Message header cutomize panel
 

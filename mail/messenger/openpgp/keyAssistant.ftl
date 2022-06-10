@@ -11,6 +11,32 @@ openpgp-key-assistant-recipients-issue-header = Ni mogoče šifrirati
 ## Resolve section
 
 openpgp-key-assistant-multiple-keys = Na voljo je več ključev.
+# Variables:
+# $count (Number) - The number of unaccepted keys.
+openpgp-key-assistant-key-unaccepted =
+    { $count ->
+        [one] Na voljo je ključ, ki pa še ni bil sprejet.
+        [two] Na voljo sta dva ključa, vendar še nobeden od njiju ni bil sprejet.
+        [few] Na voljo je več ključev, vendar še nobeden od njih ni bil sprejet.
+       *[other] Na voljo je več ključev, vendar še nobeden od njih ni bil sprejet.
+    }
+# Variables:
+# $date (String) - The expiration date of the key.
+openpgp-key-assistant-key-accepted-expired = Sprejetemu ključu je potekla veljavnost { $date }.
+openpgp-key-assistant-keys-accepted-expired = Več sprejetim ključem je potekla veljavnost.
+# Variables:
+# $date (String) - The expiration date of the key.
+openpgp-key-assistant-key-unaccepted-expired-one = Ključu je potekla veljavnost { $date }.
+openpgp-key-assistant-key-unaccepted-expired-many = Več ključem je potekla veljavnost.
+openpgp-key-assistant-key-fingerprint = Prstni odtis
+openpgp-key-assistant-key-source =
+    { $count ->
+        [one] Vir
+        [two] Vira
+        [few] Viri
+       *[other] Viri
+    }
+openpgp-key-assistant-key-collected-attachment = e-poštna priponka
 
 ## Discovery section
 
