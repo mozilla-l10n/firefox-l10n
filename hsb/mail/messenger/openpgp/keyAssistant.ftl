@@ -3,10 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 openpgp-key-assistant-title = Asistent OpenPGP-kluča
+openpgp-key-assistant-rogue-warning = Njeakceptujće sfalšowany kluč. Zo byšće zawěsćił, zo sće sej prawy kluč wobstarał, přepruwujće jón. <a data-l10n-name="openpgp-link">Dalše informacije…</a>
 
 ## Encryption status
 
 openpgp-key-assistant-recipients-issue-header = Zaklučowanje móžne njeje
+# Variables:
+# $count (Number) - The number of recipients that need attention.
+openpgp-key-assistant-recipients-issue-description =
+    { $count ->
+        [one] Zo byšće zaklučował, dyrbiće wužiwajomny kluč za { $count } přijimarja wobstarać a akceptować.<a data-l10n-name="openpgp-link">Dalše informacije…</a>
+        [two] Zo byšće zaklučował, dyrbiće wužiwajomny kluč za { $count } přijimarjow wobstarać a akceptować.<a data-l10n-name="openpgp-link">Dalše informacije…</a>
+        [few] Zo byšće zaklučował, dyrbiće wužiwajomny kluč za { $count } přijimarjow wobstarać a akceptować.<a data-l10n-name="openpgp-link">Dalše informacije…</a>
+       *[other] Zo byšće zaklučował, dyrbiće wužiwajomny kluč za { $count } přijimarjow wobstarać a akceptować.<a data-l10n-name="openpgp-link">Dalše informacije…</a>
+    }
 openpgp-key-assistant-info-alias = { -brand-short-name } sej normalnje wužaduje, zo zjawny kluč přijimarja wužiwarski ID z přisłušnej e-mejlowej adresu wobsahuje. To da so z pomocu aliasowych prawidłow OpenPGP přijimarja přepisać. <a data-l10n-name="openpgp-link">Dalše informacije…</a>
 # Variables:
 # $count (Number) - The number of recipients that need attention.
@@ -84,9 +94,13 @@ openpgp-key-assistant-keys-has-collected =
     }
 openpgp-key-assistant-key-rejected = Tutón kluč je so do toho wotpokazał.
 openpgp-key-assistant-key-accepted-other = Tutón kluč je so do toho za druhu e-mejlowu adresu wotpokazał.
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+openpgp-key-assistant-resolve-discover-info = Pytajće za přidatnymi abo zaktualizowanymi klučemi za { $recipient } online, abo importujće je z dataje.
 
 ## Discovery section
 
+openpgp-key-assistant-discover-title = Pytanje online běži.
 # Variables:
 # $recipient (String) - The email address which we're discovering keys.
 openpgp-key-assistant-discover-keys = Kluče so za { $recipient } namakaja …
