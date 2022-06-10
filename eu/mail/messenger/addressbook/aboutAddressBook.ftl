@@ -26,6 +26,8 @@ about-addressbook-books-context-properties =
     .label = Propietateak
 about-addressbook-books-context-synchronize =
     .label = Sinkronizatu
+about-addressbook-books-context-edit =
+    .label = Editatu
 about-addressbook-books-context-print =
     .label = Inprimatu…
 about-addressbook-books-context-export =
@@ -53,8 +55,6 @@ about-addressbook-search =
     .placeholder = Bilatu { $name }
 about-addressbook-search-all =
     .placeholder = Bilatu helbide-liburu guztiak
-about-addressbook-sort-button =
-    .title = Aldatu zerrenda ordena
 about-addressbook-name-format-display =
     .label = Bistaratzeko izena
 about-addressbook-name-format-firstlast =
@@ -154,8 +154,18 @@ about-addressbook-confirm-delete-contacts =
        *[other] Ziur zaude { $name } kontaktu hauek ezabatu nahi dituzula?
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+about-addressbook-placeholder-empty-book = Ez dago kontakturik erabilgarri
+about-addressbook-placeholder-new-contact = Kontaktu berria
+about-addressbook-placeholder-search-only = Helbide-liburu honek kontaktuak bilaketa baten ondoren bakarrik erakusten ditu
+about-addressbook-placeholder-searching = Bilatzen…
+about-addressbook-placeholder-no-search-results = Ez da kontakturik aurkitu
+
 ## Details
 
+about-addressbook-prefer-display-name = Hobetsi bistaratzeko izena mezuaren goiburuaren aurretik
 about-addressbook-write-action-button = Idatzi
 about-addressbook-event-action-button = Gertaera
 about-addressbook-search-action-button = Bilatu
@@ -166,8 +176,6 @@ about-addressbook-save-edit-contact-button = Gorde
 about-addressbook-add-contact-to = Gehitu hona:
 about-addressbook-details-email-addresses-header = Helbide elektronikoak
 about-addressbook-details-phone-numbers-header = Telefono zenbakiak
-about-addressbook-details-home-address-header = Etxeko helbidea
-about-addressbook-details-work-address-header = Laneko helbidea
 about-addressbook-details-addresses-header = Helbideak
 about-addressbook-details-notes-header = Oharrak
 about-addressbook-details-other-info-header = Bestelako informazioa
@@ -180,7 +188,6 @@ about-addressbook-entry-name-birthday = Urtebetetzea
 about-addressbook-entry-name-anniversary = Urteurrena
 about-addressbook-entry-name-title = Titulua
 about-addressbook-entry-name-role = Zeregina:
-about-addressbook-entry-name-department = Saila
 about-addressbook-entry-name-organization = Erakundea
 about-addressbook-entry-name-website = Webgunea
 about-addressbook-entry-name-time-zone = Ordu-zona
