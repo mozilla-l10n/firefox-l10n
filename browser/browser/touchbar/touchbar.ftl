@@ -2,11 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Strings in this file are used to localize button titles displayed on the 
+# Strings in this file are used to localize button titles displayed on the
 # MacBook Touch Bar.
 back = পিছনে
 forward = পরবর্তী
-reload = রিলোড
+reload = পুনঃলোড
 home = নীড়
 fullscreen = পূর্ণ পর্দাজুড়ে
 touchbar-fullscreen-exit = পূর্ণ পর্দা থেকে বেরিয়ে আসুন
@@ -19,7 +19,6 @@ open-location = অনুসন্ধান করুন বা ঠিকান�
 share = শেয়ার করুন
 close-window = উইন্ডো বন্ধ করুন
 open-sidebar = সাইডবার
-
 # This string describes shortcuts for search.
 search-popover = শর্টকাট অনুসন্ধান করুন
 # Describes searches limited to a specific scope
