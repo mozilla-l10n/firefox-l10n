@@ -56,6 +56,13 @@ openpgp-key-assistant-key-unaccepted =
 # $date (String) - The expiration date of the key.
 openpgp-key-assistant-key-accepted-expired = Akceptowany kluč je so dnja { $date } spadnył.
 openpgp-key-assistant-keys-accepted-expired = Wjacore akceptowane kluče su spadnyli.
+# Variables:
+# $date (String) - The expiration date of the key.
+openpgp-key-assistant-this-key-accepted-expired = Tutón kluč je so do toho akceptował, je wšak dnja { $date } spadnył.
+# Variables:
+# $date (String) - The expiration date of the key.
+openpgp-key-assistant-key-unaccepted-expired-one = Kluč je dnja { $date } spadnył.
+openpgp-key-assistant-key-unaccepted-expired-many = Wjacore kluče su spadnyli.
 openpgp-key-assistant-key-fingerprint = Porstowy wotćišć
 openpgp-key-assistant-key-source =
     { $count ->
@@ -65,7 +72,16 @@ openpgp-key-assistant-key-source =
        *[other] Žórła
     }
 openpgp-key-assistant-key-collected-attachment = e-mejlowy přiwěšk
+openpgp-key-assistant-key-collected-autocrypt = Hłowu awtomatisce zaklučować
 openpgp-key-assistant-key-collected-keyserver = klučowy serwer
+openpgp-key-assistant-key-collected-wkd = Zapis webklučow
+openpgp-key-assistant-keys-has-collected =
+    { $count ->
+        [one] $count kluč je so namakał, ale njeje so hišće akceptował.
+        [two] $count klučej stej so namakałoj, ale njejstej so hišće akceptowałoj.
+        [few] $count kluče su namakali, ale njejsu so hišće akceptowali.
+       *[other] $count klučow je so namakało, ale njeje so hišće akceptowało.
+    }
 openpgp-key-assistant-key-rejected = Tutón kluč je so do toho wotpokazał.
 openpgp-key-assistant-key-accepted-other = Tutón kluč je so do toho za druhu e-mejlowu adresu wotpokazał.
 
@@ -74,6 +90,11 @@ openpgp-key-assistant-key-accepted-other = Tutón kluč je so do toho za druhu e
 # Variables:
 # $recipient (String) - The email address which we're discovering keys.
 openpgp-key-assistant-discover-keys = Kluče so za { $recipient } namakaja …
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-expired-key-update =
+    Aktualizacija je so za jedyn z do toho akceptowanych klučow za { $recipient } namakała.
+    Da so nětko wužiwać, dokelž hižo spadnjeny njeje.
 
 ## Dialog buttons
 
