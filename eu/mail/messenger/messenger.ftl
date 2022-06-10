@@ -126,6 +126,10 @@ message-header-msg-flagged =
 message-header-msg-not-flagged =
     .title = Izarrik gabeak
     .aria-label = g
+# Variables:
+# $address (String) - The email address of the recipient this picture belongs to.
+message-header-recipient-avatar =
+    .alt = { $address }(e)n profil irudia.
 
 ## Message header cutomize panel
 
@@ -139,6 +143,9 @@ message-header-button-style-text =
     .label = Testua
 message-header-button-style-icons =
     .label = Ikonoak
+message-header-show-sender-full-address =
+    .label = Erakutsi beti bidaltzailearen helbide osoa
+    .accesskey = o
 message-header-large-subject =
     .label = Gai luzea
     .accesskey = G
@@ -151,13 +158,6 @@ toolbar-context-menu-manage-extension =
 toolbar-context-menu-remove-extension =
     .label = Kendu hedapena
     .accesskey = K
-
-## Message headers
-
-message-header-address-in-address-book-icon =
-    .alt = Helbidea helbide-liburuan dago
-message-header-address-not-in-address-book-icon =
-    .alt = Helbidea ez dago helbide-liburuan
 
 ## Add-on removal warning
 
@@ -215,12 +215,6 @@ spaces-context-new-window-item =
 # $tabName (String) - The name of the tab this item will switch to.
 spaces-context-switch-tab-item =
     .label = Aldatu { $tabName }(e)ra
-settings-context-open-settings-item =
-    .label = Ireki ezarpenak
-settings-context-open-account-settings-item =
-    .label = Ireki kontu-ezarpenak
-settings-context-open-addons-item =
-    .label = Ireki gehigarriak eta itxurak
 settings-context-open-settings-item2 =
     .label = Ezarpenak
 settings-context-open-account-settings-item2 =

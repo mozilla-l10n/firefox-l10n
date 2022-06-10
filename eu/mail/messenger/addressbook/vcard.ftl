@@ -73,12 +73,35 @@ vcard-bday-anniversary-add = Gehitu data berezia
 vcard-bday-label = Urtebetetzea
 vcard-anniversary-label = Urteurrena
 vcard-date-day = Eguna
+vcard-date-month = Hilabetea
+vcard-date-year = Urtea
 
 # ADR vCard field
 
+vcard-adr-header = Helbideak
+vcard-adr-add = Gehitu helbidea
+vcard-adr-label = Helbidea
+vcard-adr-delivery-label = Entrega etiketa
+vcard-adr-pobox = Posta kutxa
+vcard-adr-ext = Helbide guztia
+vcard-adr-street = Helbideko kalea
+# Or "Locality"
+vcard-adr-locality = Hiria
+# Or "Region"
+vcard-adr-region = Estatua/probintzia
+# The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
+vcard-adr-code = ZIP/Posta Kodea:
+vcard-adr-country = Herrialdea
 
 # NOTE vCard field
 
+vcard-note-header = Oharrak
+vcard-note-add = Gehitu oharra
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-header = Erakundearen propietateak
+vcard-org-add = Gehitu erakundearen propietateak
+vcard-org-title = Izenburua
+vcard-org-role = Rola
+vcard-org-org = Erakundea
