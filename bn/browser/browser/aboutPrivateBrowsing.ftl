@@ -6,6 +6,17 @@ privatebrowsingpage-open-private-window-label = একটি ব্যক্ত�
     .accesskey = P
 about-private-browsing-search-placeholder = ওয়েবে অনুসন্ধান করুন
 about-private-browsing-info-title = আপনি একটি ব্যাক্তিগত উইন্ডোতে আছেন
+about-private-browsing-search-btn =
+    .title = ওয়েবে অনুসন্ধান করুন
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = { $engine } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
+about-private-browsing-handoff-no-engine =
+    .title = অনুসন্ধান করুন বা ঠিকানা লিখুন
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = { $engine } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
 about-private-browsing-handoff-text-no-engine = অনুসন্ধান করুন অথবা ঠিকানা লিখুন
 about-private-browsing-not-private = আপনি বর্তমানে কোনো ব্যক্তিগত উইন্ডোতে নেই।
 
