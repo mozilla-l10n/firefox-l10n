@@ -26,6 +26,8 @@ about-addressbook-books-context-properties =
     .label = Tulajdonságok
 about-addressbook-books-context-synchronize =
     .label = Szinkronizálás
+about-addressbook-books-context-edit =
+    .label = Szerkesztés
 about-addressbook-books-context-print =
     .label = Nyomtatás…
 about-addressbook-books-context-export =
@@ -53,8 +55,8 @@ about-addressbook-search =
     .placeholder = Keresés ebben: { $name }
 about-addressbook-search-all =
     .placeholder = Keresés az összes címjegyzékben
-about-addressbook-sort-button =
-    .title = A lista sorrendjének módosítása
+about-addressbook-sort-button2 =
+    .title = Megjelenítési lehetőségek felsorolása
 about-addressbook-name-format-display =
     .label = Megjelenő név
 about-addressbook-name-format-firstlast =
@@ -154,8 +156,18 @@ about-addressbook-confirm-delete-contacts =
        *[other] Biztos, hogy törli ezt a(z) { $count } listát?
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+about-addressbook-placeholder-empty-book = Nem érhetők el névjegyek
+about-addressbook-placeholder-new-contact = Új névjegy
+about-addressbook-placeholder-search-only = Ez a címjegyzék csak keresés után jelenít meg névjegyeket
+about-addressbook-placeholder-searching = Keresés…
+about-addressbook-placeholder-no-search-results = Nem találhatók névjegyek
+
 ## Details
 
+about-addressbook-prefer-display-name = Megjelenő név előnyben részesítése az üzenetfejlécben levő helyett
 about-addressbook-write-action-button = Írás
 about-addressbook-event-action-button = Esemény
 about-addressbook-search-action-button = Keresés
@@ -166,8 +178,6 @@ about-addressbook-save-edit-contact-button = Mentés
 about-addressbook-add-contact-to = Hozzáadás:
 about-addressbook-details-email-addresses-header = E-mail-címek
 about-addressbook-details-phone-numbers-header = Telefonszámok
-about-addressbook-details-home-address-header = Otthoni cím
-about-addressbook-details-work-address-header = Munkahelyi cím
 about-addressbook-details-addresses-header = Címek
 about-addressbook-details-notes-header = Jegyzetek
 about-addressbook-details-other-info-header = Egyéb információk
@@ -180,7 +190,6 @@ about-addressbook-entry-name-birthday = Születésnap
 about-addressbook-entry-name-anniversary = Évforduló
 about-addressbook-entry-name-title = Cím
 about-addressbook-entry-name-role = Szerep
-about-addressbook-entry-name-department = Részleg
 about-addressbook-entry-name-organization = Szervezet
 about-addressbook-entry-name-website = Webhely
 about-addressbook-entry-name-time-zone = Időzóna
