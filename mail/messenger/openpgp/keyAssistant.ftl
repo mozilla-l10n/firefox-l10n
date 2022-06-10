@@ -69,12 +69,37 @@ openpgp-key-assistant-key-source =
         [one] Iturburua
        *[other] Iturburuak
     }
+openpgp-key-assistant-key-collected-attachment = Posta elektroniko eranskina
+openpgp-key-assistant-key-collected-autocrypt = Autozifratze goiburua
+openpgp-key-assistant-key-collected-keyserver = Gako-zerbitzaria
+openpgp-key-assistant-key-collected-wkd = Web gako direktorioa
+openpgp-key-assistant-keys-has-collected =
+    { $count ->
+        [one] Gako bat aurkitu da, baina oraindik ez da onartu.
+       *[other] Hainbat gako bat aurkitu dira, baina oraindik ez dira onartu.
+    }
+openpgp-key-assistant-key-rejected = Gako hau aurrez baztertu zen.
+openpgp-key-assistant-key-accepted-other = Gako hau aurrez onartu zen beste helbide elektroniko baterako.
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+openpgp-key-assistant-resolve-discover-info = { $recipient } hartzailerako bilatu edo eguneratu gako gehiago online, edo inportatu fitxategi batetik.
 
 ## Discovery section
 
+openpgp-key-assistant-discover-title = Online bilaketa martxan.
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-discover-keys = { $recipient } hartzailearentzat gakoak bilatzen…
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-expired-key-update =
+    { $recipient } hartzailearen aurrez onartutako gako baten eguneratzea aurkitu da.
+    Orain erabili daiteke ez baitago iraungita.
 
 ## Dialog buttons
 
+openpgp-key-assistant-discover-online-button = Bilatu gako publikoak sarean…
+openpgp-key-assistant-import-keys-button = Inportatu gako publikoak fitxategitik…
 openpgp-key-assistant-issue-resolve-button = Ebatzi…
 openpgp-key-assistant-view-key-button = Erakutsi gakoa…
 openpgp-key-assistant-recipients-show-button = Erakutsi
