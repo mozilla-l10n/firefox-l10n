@@ -70,3 +70,4 @@ pocket-panel-header-sign-in = Jentre
 
 pocket-panel-button-show-all = Mostre dut
 pocket-panel-button-activate = Ative { -pocket-brand-name } in { -brand-product-name }
+pocket-panel-button-remove = Gjave
