@@ -124,6 +124,10 @@ message-header-msg-flagged =
     .aria-label = 已標星號
 message-header-msg-not-flagged =
     .title = 未加上星號的郵件
+# Variables:
+# $address (String) - The email address of the recipient this picture belongs to.
+message-header-recipient-avatar =
+    .alt = { $address } 的個人資料照片。
 
 ## Message header cutomize panel
 
@@ -137,6 +141,16 @@ message-header-button-style-text =
     .label = 文字
 message-header-button-style-icons =
     .label = 圖示
+message-header-show-sender-full-address =
+    .label = 總是顯示寄件者的完整信箱
+    .accesskey = f
+message-header-show-sender-full-address-description = 將在顯示名稱下方顯示電子郵件信箱。
+message-header-show-recipient-avatar =
+    .label = 顯示寄件者的個人資料照片
+    .accesskey = p
+message-header-hide-label-column =
+    .label = 隱藏標籤欄
+    .accesskey = l
 message-header-large-subject =
     .label = 放大主旨
     .accesskey = s
@@ -149,13 +163,6 @@ toolbar-context-menu-manage-extension =
 toolbar-context-menu-remove-extension =
     .label = 移除擴充套件
     .accesskey = v
-
-## Message headers
-
-message-header-address-in-address-book-icon =
-    .alt = 在通訊錄中的地址
-message-header-address-not-in-address-book-icon =
-    .alt = 不在通訊錄中的地址
 
 ## Add-on removal warning
 
@@ -213,12 +220,6 @@ spaces-context-new-window-item =
 # $tabName (String) - The name of the tab this item will switch to.
 spaces-context-switch-tab-item =
     .label = 切換到 { $tabName }
-settings-context-open-settings-item =
-    .label = 開啟設定
-settings-context-open-account-settings-item =
-    .label = 開啟帳號設定
-settings-context-open-addons-item =
-    .label = 開啟附加元件與佈景主題
 settings-context-open-settings-item2 =
     .label = 設定
 settings-context-open-account-settings-item2 =

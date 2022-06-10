@@ -3,10 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 openpgp-key-assistant-title = OpenPGP 金鑰助理
+openpgp-key-assistant-rogue-warning = 避免收到偽造的金鑰。為了確保您收到的是正確的金鑰，請進行驗證。<a data-l10n-name="openpgp-link">了解更多…</a>
 
 ## Encryption status
 
 openpgp-key-assistant-recipients-issue-header = 無法加密
+# Variables:
+# $count (Number) - The number of recipients that need attention.
+openpgp-key-assistant-recipients-description =
+    { $count ->
+       *[other] 您已經擁有 { $count } 位收件者可用且已接受的金鑰。
+    }
+openpgp-key-assistant-recipients-description-no-issues = 您擁有所有使用者可用且已接受的金鑰，可加密此訊息。
 
 ## Resolve section
 
@@ -58,12 +66,26 @@ openpgp-key-assistant-keys-has-collected =
         [one] 找到一把金鑰，但您尚未接受過。
        *[other] 找到多把金鑰，但您尚未接受過任何一把。
     }
+openpgp-key-assistant-key-rejected = 先前拒絕過這把金鑰。
+openpgp-key-assistant-key-accepted-other = 先前接受過這把金鑰用於另一組電子郵件信箱。
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+openpgp-key-assistant-resolve-discover-info = 在網路上尋找 { $recipient } 的其他金鑰或更新金鑰，或從檔案匯入。
 
 ## Discovery section
 
+openpgp-key-assistant-discover-title = 正在進行網路搜尋。
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-discover-keys = 正在尋找 { $recipient } 的金鑰…
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-expired-key-update = 找到 { $recipient } 先前接受過的其中一把金鑰的更新。由於已經不再過期，現在起可以使用了。
 
 ## Dialog buttons
 
+openpgp-key-assistant-discover-online-button = 在網路上尋找公鑰…
+openpgp-key-assistant-import-keys-button = 從網路匯入公鑰…
 openpgp-key-assistant-issue-resolve-button = 解決…
 openpgp-key-assistant-view-key-button = 檢視金鑰…
 openpgp-key-assistant-recipients-show-button = 顯示
