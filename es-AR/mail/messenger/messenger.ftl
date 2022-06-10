@@ -125,6 +125,10 @@ message-header-msg-flagged =
     .aria-label = Con estrella
 message-header-msg-not-flagged =
     .title = Mensaje no marcado con estrella
+# Variables:
+# $address (String) - The email address of the recipient this picture belongs to.
+message-header-recipient-avatar =
+    .alt = Foto de perfil de { $address }.
 
 ## Message header cutomize panel
 
@@ -138,6 +142,15 @@ message-header-button-style-text =
     .label = Texto
 message-header-button-style-icons =
     .label = Íconos
+message-header-show-sender-full-address =
+    .label = Mostrar siempre la dirección completa del remitente
+    .accesskey = i
+message-header-show-recipient-avatar =
+    .label = Mostrar foto de perfil del remitente
+    .accesskey = p
+message-header-hide-label-column =
+    .label = Ocultar columna de etiquetas
+    .accesskey = l
 message-header-large-subject =
     .label = Asunto grande
     .accesskey = s
@@ -150,13 +163,6 @@ toolbar-context-menu-manage-extension =
 toolbar-context-menu-remove-extension =
     .label = Eliminar la extensión
     .accesskey = x
-
-## Message headers
-
-message-header-address-in-address-book-icon =
-    .alt = La dirección está en la libreta de direcciones
-message-header-address-not-in-address-book-icon =
-    .alt = La dirección no está en la libreta de direcciones
 
 ## Add-on removal warning
 
@@ -214,12 +220,6 @@ spaces-context-new-window-item =
 # $tabName (String) - The name of the tab this item will switch to.
 spaces-context-switch-tab-item =
     .label = Cambiar a { $tabName }
-settings-context-open-settings-item =
-    .label = Abrir configuración
-settings-context-open-account-settings-item =
-    .label = Abrir configuración de cuenta
-settings-context-open-addons-item =
-    .label = Abrir complementos y temas
 settings-context-open-settings-item2 =
     .label = Configuración
 settings-context-open-account-settings-item2 =
