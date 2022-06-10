@@ -58,9 +58,15 @@ pocket-panel-home-discover-more = Scuvierç alc altri
 pocket-panel-home-explore-more = Esplore
 pocket-panel-home-most-recent-saves = Chi a son i salvaments plui resints:
 pocket-panel-home-most-recent-saves-loading = Cjariament dal salvaments resints…
+pocket-panel-home-new-user-cta = Fâs clic sul boton { -pocket-brand-name } par salvâ articui, videos e colegaments.
+pocket-panel-home-new-user-message = Viôt i tiei salvaments resints achì.
 
 ## Pocket panel header component
 
+pocket-panel-header-my-list = Visualize la mê liste
+pocket-panel-header-sign-in = Jentre
 
 ## Pocket panel buttons
 
+pocket-panel-button-show-all = Mostre dut
+pocket-panel-button-activate = Ative { -pocket-brand-name } in { -brand-product-name }
