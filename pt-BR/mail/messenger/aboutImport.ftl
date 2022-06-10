@@ -11,9 +11,6 @@ import-start = Ferramenta de importação
 import-start-title = Importar configurações ou dados de um aplicativo ou arquivo.
 import-start-description = Selecione a origem de onde quer importar. Mais tarde, você será solicitado a escolher quais dados precisam ser importados.
 import-from-app = Importar do aplicativo
-import-from-app-desc = Importar contas, catálogos de endereços, agendas e outros dados de:
-import-address-book = Importar arquivo de catálogo de endereços
-import-calendar = Importar arquivo de agenda
 import-file = Importar de arquivo
 import-file-title = Selecione um arquivo para importar seu conteúdo.
 import-file-description = Escolha importar um backup de perfil, catálogos de endereços ou agendas.
@@ -23,7 +20,6 @@ export-profile = Exportar
 
 ## Buttons
 
-button-cancel = Cancelar
 button-back = Voltar
 button-continue = Continuar
 button-export = Exportar
@@ -36,14 +32,6 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
-# Variables:
-#   $app (String) - The name of the app to import from
-profiles-pane-title = Importar de { $app }
-profiles-pane-desc = Escolha o local de onde importar
-profile-file-picker-dir = Selecionar uma pasta de perfil
-profile-file-picker-zip = Selecionar um arquivo zip (menor que 2GB)
-items-pane-title = Selecione o que importar
-items-pane-source = Local da origem:
 source-thunderbird = Importar de outra instalação do { app-name-thunderbird }
 source-thunderbird-description = Importar configurações, filtros, mensagens e outros dados de um perfil do { app-name-thunderbird }.
 source-seamonkey = Importar de uma instalação do { app-name-seamonkey }
@@ -96,7 +84,6 @@ items-pane-override = Quaisquer dados existentes ou idênticos não serão subst
 
 ## Import from address book file steps
 
-import-from-addr-book-file-desc = Selecione o tipo de arquivo que você quer importar:
 import-from-addr-book-file-description = Escolha o formato de arquivo que contém os dados do catálogo de endereços.
 addr-book-csv-file = Arquivo com valores separados por vírgulas ou tabulações (.csv, .tsv)
 addr-book-ldif-file = Arquivo LDIF (.ldif)
@@ -106,13 +93,8 @@ addr-book-mab-file = Arquivo de banco de dados Mork (.mab)
 addr-book-file-picker = Selecione um arquivo de catálogo de endereços
 addr-book-csv-field-map-title = Corresponder nomes de campo
 addr-book-csv-field-map-desc = Selecione os campos do catálogo de endereços correspondentes aos campos de origem. Desmarque os campos que você não quer importar.
-addr-book-directories-pane-title = Selecione o diretório para onde você quer importar:
 addr-book-directories-title = Selecione para onde importar os dados escolhidos
 addr-book-directories-pane-source = Arquivo de origem:
-addr-book-import-into-new-directory = Criar novo diretório
-
-## Import from address book file steps
-
 # $addressBookName (string) - name of the new address book that would be created.
 addr-book-import-into-new-directory2 = Criar um novo diretório chamado <strong>"{ $addressBookName }"</strong>
 # $addressBookName (string) - name of the address book to import into
@@ -129,7 +111,6 @@ calendar-items-filter-input =
     .placeholder = Filtrar itens…
 calendar-select-all-items = Selecionar tudo
 calendar-deselect-all-items = Desmarcar tudo
-calendar-import-into-new-calendar = Criar nova agenda
 calendar-target-title = Selecione para onde importar os itens escolhidos.
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = Criar uma nova agenda chamada <strong>"{ $targetCalendar }"</strong>
@@ -145,18 +126,12 @@ calendar-summary-description = Será criada uma nova agenda chamada "{ $targetCa
 
 ## Import dialog
 
-progress-pane-importing = Importando
-progress-pane-exporting = Exportando
-progress-pane-finished-desc = Concluído.
-progress-pane-restart-desc = Reinicie para concluir a importação.
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-importing2 = Importando… { $progressPercent }
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-exporting2 = Exportando… { $progressPercent }
 progress-pane-finished-desc2 = Pronto.
 error-pane-title = Erro
-error-message-zip-file-too-big = O arquivo zip selecionado tem mais de 2GB. Primeiro extraia o conteúdo, depois importe a partir da pasta onde foi extraído.
-error-message-extract-zip-file-failed = Falha ao extrair o arquivo zip. Extraia manualmente, depois importe a partir da pasta onde foi extraído.
 error-message-zip-file-too-big2 = O arquivo ZIP selecionado tem mais de 2GB. Primeiro extraia o conteúdo, depois importe a partir da pasta onde foi extraído.
 error-message-extract-zip-file-failed2 = Falha ao extrair o arquivo ZIP. Extraia manualmente, depois importe a partir da pasta onde foi extraído.
 error-message-failed = A importação falhou inesperadamente; mais informações podem estar disponíveis no console de erros.
@@ -174,12 +149,9 @@ csv-target-field = Campo do catálogo de endereços
 
 ## Export tab
 
-export-profile-desc = Exporte contas de email, mensagens de email, catálogos de endereços, configurações para um arquivo zip. Quando necessário, você pode importar o arquivo zip para restaurar seu perfil.
-export-profile-desc2 = Se o tamanho do seu perfil atual for maior que 2GB, sugerimos que faça o backup você mesmo.
 export-profile-title = Exportar contas, mensagens, catálogos de endereços e configurações para um arquivo ZIP.
 export-profile-description = Se o tamanho do seu perfil atual for maior que 2GB, sugerimos que faça o backup você mesmo.
 export-open-profile-folder = Abrir pasta do perfil
-export-file-picker = Exportar para arquivo zip
 export-file-picker2 = Exportar para um arquivo ZIP
 export-brand-name = { -brand-product-name }
 
@@ -196,3 +168,10 @@ footer-help = Precisa de ajuda?
 footer-import-documentation = Documentação de importação
 footer-export-documentation = Documentação de exportação
 footer-support-forum = Fórum de suporte
+
+## Step navigation on top of the wizard pages
+
+step-confirm = Confirmar
+# Variables:
+# $number (number) - step number
+step-count = { $number }

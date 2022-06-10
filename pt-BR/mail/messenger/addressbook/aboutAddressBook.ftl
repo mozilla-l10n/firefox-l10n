@@ -26,6 +26,8 @@ about-addressbook-books-context-properties =
     .label = Propriedades
 about-addressbook-books-context-synchronize =
     .label = Sincronizar
+about-addressbook-books-context-edit =
+    .label = Editar
 about-addressbook-books-context-print =
     .label = Imprimir…
 about-addressbook-books-context-export =
@@ -53,8 +55,6 @@ about-addressbook-search =
     .placeholder = Pesquisar { $name }
 about-addressbook-search-all =
     .placeholder = Pesquisar em todos os catálogos de endereços
-about-addressbook-sort-button =
-    .title = Alterar a ordem da lista
 about-addressbook-name-format-display =
     .label = Nome de exibição
 about-addressbook-name-format-firstlast =
@@ -154,6 +154,14 @@ about-addressbook-confirm-delete-contacts =
        *[other] Tem certeza que quer excluir esses { $count } contatos?
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+about-addressbook-placeholder-empty-book = Nenhum contato disponível
+about-addressbook-placeholder-new-contact = Novo contato
+about-addressbook-placeholder-searching = Procurando…
+about-addressbook-placeholder-no-search-results = Nenhum contato encontrado
+
 ## Details
 
 about-addressbook-write-action-button = Escrever
@@ -166,8 +174,6 @@ about-addressbook-save-edit-contact-button = Salvar
 about-addressbook-add-contact-to = Adicionar a:
 about-addressbook-details-email-addresses-header = Endereços de email
 about-addressbook-details-phone-numbers-header = Números de telefone
-about-addressbook-details-home-address-header = Endereço residencial
-about-addressbook-details-work-address-header = Endereço comercial
 about-addressbook-details-addresses-header = Endereços
 about-addressbook-details-notes-header = Notas
 about-addressbook-details-other-info-header = Outras informações
@@ -180,7 +186,6 @@ about-addressbook-entry-name-birthday = Data de nascimento
 about-addressbook-entry-name-anniversary = Aniversário
 about-addressbook-entry-name-title = Título
 about-addressbook-entry-name-role = Função
-about-addressbook-entry-name-department = Departamento
 about-addressbook-entry-name-organization = Organização
 about-addressbook-entry-name-website = Site
 about-addressbook-entry-name-time-zone = Fuso horário
