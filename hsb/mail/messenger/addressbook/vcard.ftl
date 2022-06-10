@@ -81,6 +81,8 @@ vcard-date-year = Lěto
 vcard-adr-header = Adresy
 vcard-adr-add = Adresu přidać
 vcard-adr-label = Adresa
+vcard-adr-delivery-label = Dodawanski etiket
+vcard-adr-pobox = Póstowy fach
 vcard-adr-ext = Rozšěrjena adresa
 vcard-adr-street = Dróhowa adresa
 # Or "Locality"
@@ -98,6 +100,8 @@ vcard-note-add = Přispomnjenku přidać
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-header = Organizaciske kajkosće
+vcard-org-add = Organizaciske kajkosće přidać
 vcard-org-title = Titul
 vcard-org-role = Róla
 vcard-org-org = Organizacija

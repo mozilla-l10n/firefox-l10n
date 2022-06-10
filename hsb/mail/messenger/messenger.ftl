@@ -149,6 +149,7 @@ message-header-button-style-icons =
 message-header-show-sender-full-address =
     .label = Přeco dospołnu adresu wotpósłarja pokazać
     .accesskey = d
+message-header-show-sender-full-address-description = E-mejlowa adresa so pod zwobraznjenskim mjenom pokaza.
 message-header-show-recipient-avatar =
     .label = Profilowy wobraz wotpósłarja pokazać
     .accesskey = P
