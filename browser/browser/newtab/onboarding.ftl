@@ -3,11 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### UI strings for the simplified onboarding / multistage about:welcome
-### Various strings use a non-breaking space to avoid a single dangling /
-### widowed word, so test on various window sizes if you also want this.
-
-
 ### UI strings for the MR1 onboarding / multistage about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -28,9 +23,6 @@ return-to-amo-subtitle = Frábært, þú ert með { -brand-short-name }
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-title = Nú skulum við ná í handa þér <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Bæta inn viðbótinni
-
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
-
 return-to-amo-add-theme-label = Bæta við þemanu
 
 ## Multistage onboarding strings (about:welcome pages)
@@ -41,7 +33,6 @@ return-to-amo-add-theme-label = Bæta við þemanu
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Komast í gang: skjár { $current } af { $total }
-
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -52,13 +43,11 @@ onboarding-welcome-steps-indicator =
 mr1-welcome-screen-hero-text =
     Bálið byrjar
     hér
-
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Húsgagnahönnuður, Firefox-aðdáandi
-
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Slökkva á hreyfingum
 
@@ -84,11 +73,9 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Hefjast handa
-
 mr1-onboarding-welcome-header = Velkomin í { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Gera { -brand-short-name } að aðalvafranum mínum
     .title = Gerir { -brand-short-name } að sjálfgefnum vafra og festir hann við verkefnastikuna
-
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Gera { -brand-short-name } að sjálfgefna vafranum mínum
@@ -106,16 +93,13 @@ mr1-onboarding-default-primary-button-label = Gera að sjálfgefnum vafra
 
 mr1-onboarding-import-header = Taktu allt með þér
 mr1-onboarding-import-subtitle = Flyttu inn lykilorð, <br/>bókamerki og fleira.
-
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Flytja inn úr { $previous }
-
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Flytja inn úr fyrri vafra
 mr1-onboarding-import-secondary-button-label = Ekki núna
-
 mr2-onboarding-colorway-header = Lífið í lit
 mr2-onboarding-colorway-subtitle = Lífleg ný litasett. Í boði í takmarkaðan tíma.
 mr2-onboarding-colorway-primary-button-label = Vista litasett
@@ -125,112 +109,87 @@ mr2-onboarding-colorway-label-balanced = Jafnvægi
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = Djarft
-
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Sjálfvirkt
-
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = Sjálfgefið
-
 mr1-onboarding-theme-header = Gerðu það að þínu eigin
 mr1-onboarding-theme-subtitle = Sérsníddu { -brand-short-name } með þema.
 mr1-onboarding-theme-primary-button-label = Vista þema
 mr1-onboarding-theme-secondary-button-label = Ekki núna
-
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Kerfisþema
-
 mr1-onboarding-theme-label-light = Ljóst
 mr1-onboarding-theme-label-dark = Dökkt
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+onboarding-theme-primary-button-label = Lokið
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
-
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
 # Tooltip displayed on hover of system theme
 mr1-onboarding-theme-tooltip-system =
     .title =
         Fylgdu stýrikerfisþema
         fyrir hnappa, valmyndir og glugga.
-
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         Fylgdu stýrikerfisþema
         fyrir hnappa, valmyndir og glugga.
-
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         Notaðu ljóst þema á hnöppum,
         valmyndum og gluggum.
-
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         Notaðu ljóst þema á hnöppum,
         valmyndum og gluggum.
-
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Notaðu dökkt þema á hnöppum,
         valmyndum og gluggum.
-
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Notaðu dökkt þema á hnöppum,
         valmyndum og gluggum.
-
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Notaðu kraftmikið, litríkt þema fyrir
         hnappa, valmyndir og glugga.
-
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Notaðu kraftmikið, litríkt þema fyrir
         hnappa, valmyndir og glugga.
-
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = Nota þetta litasett.
-
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = Nota þetta litasett.
-
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
     .title = Skoða { $colorwayName } litasett.
-
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-label = Skoða { $colorwayName } litasett.
-
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Skoða sjálfgefin þemu.
-
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Skoða sjálfgefin þemu.
 
@@ -245,20 +204,9 @@ mr2-onboarding-start-browsing-button-label = Byrjaðu að vafra
 ## The following language names are generated by the browser's Intl.DisplayNames API.
 ##
 ## Variables:
-##   $appLanguage (String) - The name of Firefox's language, e.g. "American English"
-##   $systemLanguage (String) - The name of the OS's language, e.g. "European Spanish"
-##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "European Spanish"
-
-
-## Multistage live language reloading onboarding strings (about:welcome pages)
-##
-## The following language names are generated by the browser's Intl.DisplayNames API.
-##
-## Variables:
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "Español (ES)"
 
 onboarding-live-language-header = Veldu tungumálið þitt
-
 onboarding-live-language-button-label-downloading = Sæki tungumálapakkann fyrir { $negotiatedLanguage }...
 onboarding-live-language-waiting-button = Sæki tiltæk tungumál...
 onboarding-live-language-installing = Set upp tungumálapakkann fyrir { $negotiatedLanguage }...
@@ -284,7 +232,6 @@ fx100-thank-you-pin-primary-button-label =
         [macos] Halda { -brand-short-name } í dokkunni
        *[other] Festa { -brand-short-name } á verkefnastikuna
     }
-
 fx100-upgrade-thanks-header = 100 sinnum takk til þín
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
