@@ -17,11 +17,45 @@ openpgp-key-assistant-recipients-description =
         [few] Maće hižo wužiwajomny a akcepotwany kluč za { $count } přijimarjow.
        *[other] Maće hižo wužiwajomny a akcepotwany kluč za { $count } přijimarjow.
     }
+openpgp-key-assistant-recipients-description-no-issues = Tuta powěsć da so zaklučować. Maće wužiwajomne a akceptowane kluče za wšěch přijimarjow.
 
 ## Resolve section
 
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+# $numKeys (Number) - The number of keys.
+openpgp-key-assistant-resolve-title =
+    { $numKeys ->
+        [one] { -brand-short-name } je slědowacy $numKeys kluč za { $recipient } namakał.
+        [two] { -brand-short-name } je slědowacej $numKeys klučej za { $recipient } namakał.
+        [few] { -brand-short-name } je slědowace $numKeys kluče za { $recipient } namakał.
+       *[other] { -brand-short-name } je slědowace $numKeys klučow za { $recipient } namakał.
+    }
+openpgp-key-assistant-valid-description = Wubjerće kluč, kotryž chceće akceptować
+# Variables:
+# $numKeys (Number) - The number of available keys.
+openpgp-key-assistant-invalid-title =
+    { $numKeys ->
+        [one] Slědowacy $numKeys kluč njeda so wužiwać, chibazo wobstarujeće sej aktualizaciju.
+        [two] Slědowacej $numKeys klučej njedatej so wužiwać, chibazo wobstarujeće sej aktualizaciju.
+        [few] Slědowace $numKeys kluče njedadźa so wužiwać, chibazo wobstarujeće sej aktualizaciju.
+       *[other] Slědowace $numKeys klučow njeda so wužiwać, chibazo wobstarujeće sej aktualizaciju.
+    }
 openpgp-key-assistant-no-key-available = Žadyn kluč k dispoziciji.
 openpgp-key-assistant-multiple-keys = Wjacore kluče su k dispoziciji.
+# Variables:
+# $count (Number) - The number of unaccepted keys.
+openpgp-key-assistant-key-unaccepted =
+    { $count ->
+        [one] $count kluč je k dispoziciji, ale njeje so hišće akceptował.
+        [two] $count klučej stej k dispoziciji, ale njejstej so hišće akceptowałoj.
+        [few] $count kluče su k dispoziciji, ale njejsu so hišće akceptowali.
+       *[other] $count klučow je k dispoziciji, ale njeje so hišće akceptowało.
+    }
+# Variables:
+# $date (String) - The expiration date of the key.
+openpgp-key-assistant-key-accepted-expired = Akceptowany kluč je so dnja { $date } spadnył.
+openpgp-key-assistant-keys-accepted-expired = Wjacore akceptowane kluče su spadnyli.
 openpgp-key-assistant-key-fingerprint = Porstowy wotćišć
 openpgp-key-assistant-key-source =
     { $count ->
