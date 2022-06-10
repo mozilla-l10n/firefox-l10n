@@ -4,12 +4,13 @@
 
 certmgr-title =
     .title = Gestore de tzertificados
-
 certmgr-tab-people =
     .label = Pessones
-
 certmgr-cert-server =
     .label = Server
+exception-mgr-cert-location-download =
+    .label = Otene su tzertificadu
+    .accesskey = O
 
 ## PKCS#12 file dialogs
 

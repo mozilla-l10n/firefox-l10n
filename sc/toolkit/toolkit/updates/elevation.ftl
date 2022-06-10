@@ -5,3 +5,5 @@
 
 elevation-update-wizard =
     .title = Annoa s'aplicu
+elevation-error-manual = Podes atualizare { -brand-short-name } de manera manuale bisitende custu ligòngiu e iscarrighende s'ùrtima versione:
+elevation-finished-background-page = S'est iscarrigada, e est pronta pro dda installare, un'atualizatzione de { -brand-short-name } chi nd'ammegiorat sa seguresa e s'istabilidade.

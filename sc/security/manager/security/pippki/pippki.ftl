@@ -6,8 +6,6 @@
 ## Change Password dialog
 
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -15,8 +13,18 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
+download-cert-window =
+    .title = Iscarrighende su tzertificadu
+    .style = width: 46em
+download-cert-message = Ti si dimandat de ti fidare de una autoridade de tzertificatzione (CA) noa.
+download-cert-trust-ssl =
+    .label = Fida·ti de custa CA pro identificare sitos web.
+download-cert-trust-email =
+    .label = Fida·ti de custa CA pro identificare utentes de posta eletrònica.
+download-cert-message-desc = Prima de ti fidare de custa CA pro cale si siat iscopu, nde dias dèpere esaminare su tzertificadu, is polìticas e is protzeduras (si a disponimentu).
 download-cert-view-cert =
     .label = Visualiza
+download-cert-view-text = Esàmina su tzertificadu de sa CA
 
 ## Client Authorization Ask dialog
 

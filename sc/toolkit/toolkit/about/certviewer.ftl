@@ -8,10 +8,19 @@
 
 ## Certificate information labels
 
+# This message is used as a row header in the Miscellaneous section.
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = Iscàrriga
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (tzertificadu)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (cadena)
+    .download = { $fileName }-cadena.pem
+certificate-viewer-export = Esporta
+    .download = { $fileName }.pem
 
 ##
 
