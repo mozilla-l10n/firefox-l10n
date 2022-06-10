@@ -18,9 +18,9 @@ printui-page-range-even = Pâr
 printui-page-range-custom = Personalizât
 printui-page-range-label = Pagjinis
 printui-page-range-picker =
-    .aria-label = Sielç dade di pagjinis
+    .aria-label = Sielç l'interval di pagjinis
 printui-page-custom-range-input =
-    .aria-label = Inserìs une dade di pagjinis personalizade
+    .aria-label = Inserìs un interval di pagjinis personalizade
     .placeholder = p.e. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Copiis
@@ -115,6 +115,15 @@ printui-paper-b4 = B4
 printui-paper-jis-b5 = JIS-B5
 printui-paper-jis-b4 = JIS-B4
 printui-paper-letter = Letare USA
+printui-paper-legal = Legâl USA
+printui-paper-tabloid = Tabloid
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = Il numar de scjale al à di jessi tra 10 e 200.
+printui-error-invalid-margin = Inserìs un margjin valit pe dimension di cjarte selezionade.
+printui-error-invalid-copies = Il numar di copiis al à di sei tra 1 e 10000.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Il numar dal interval al à di jessi tra 1 e { $numPages }.
+printui-error-invalid-start-overflow = Il numar de pagjine “di” al scugne jessi plui piçul dal numar de pagjine “a”.
