@@ -192,6 +192,11 @@ key-notification-resolve =
     .label = Resolver…
     .accesskey = R
     .tooltiptext = Abrir el asistente de claves de OpenPGP
+can-encrypt-smime-notification = Cifrado S/MIME de extremo a extremo posible.
+can-encrypt-openpgp-notification = Cifrado OpenPGP de extremo a extremo posible.
+can-e2e-encrypt-button =
+    .label = Cifrar
+    .accesskey = f
 
 ## Addressing Area
 
