@@ -84,15 +84,27 @@ main-context-menu-page-save =
 ## Simple menu items
 
 main-context-menu-bookmark-add =
-    .aria-label = এই পাতা বুকমার্ক করুন
+    .aria-label = এই পাতাটি বুকমার্ক করুন
     .accesskey = m
-    .tooltiptext = পাতাটি বুকমার্ক করুন
+    .tooltiptext = এই পাতাটি বুকমার্ক করুন
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = পাতাটি বুকমার্ক করুন
+    .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = বুকমার্ক সম্পাদনা
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = এই পাতা বুকমার্ক করুন
+    .aria-label = এই পাতাটি বুকমার্ক করুন
     .accesskey = m
-    .tooltiptext = পাতাটি বুকমার্ক করুন ({ $shortcut })
+    .tooltiptext = এই পাতাটি বুকমার্ক করুন ({ $shortcut })
 main-context-menu-bookmark-change =
     .aria-label = বুকমার্ক সম্পাদনা
     .accesskey = m
@@ -248,7 +260,7 @@ main-context-menu-frame-reload =
     .label = ফ্রেম পুনরায় লোড করা হবে
     .accesskey = R
 main-context-menu-frame-bookmark =
-    .label = এই ফ্রেম বুকমার্ক করা হবে
+    .label = এই ফ্রেমটি বুকমার্ক করুন
     .accesskey = m
 main-context-menu-frame-save-as =
     .label = ফ্রেম নতুনভাবে সংরক্ষণ…
