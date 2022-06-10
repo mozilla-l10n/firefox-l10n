@@ -192,6 +192,11 @@ key-notification-resolve =
     .label = Ebatzi…
     .accesskey = E
     .tooltiptext = Ireki OpenPGP gako laguntzailea
+can-encrypt-smime-notification = S/MIME muturretik muturrera zifratzea posible da.
+can-encrypt-openpgp-notification = OpenPGP muturretik muturrera zifratzea posible da.
+can-e2e-encrypt-button =
+    .label = Zifratu
+    .accesskey = Z
 
 ## Addressing Area
 
