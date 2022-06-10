@@ -26,6 +26,8 @@ about-addressbook-books-context-properties =
     .label = Lastnosti
 about-addressbook-books-context-synchronize =
     .label = Sinhroniziraj
+about-addressbook-books-context-edit =
+    .label = Uredi
 about-addressbook-books-context-print =
     .label = Natisni …
 about-addressbook-books-context-export =
@@ -53,8 +55,8 @@ about-addressbook-search =
     .placeholder = Išči v imeniku { $name }
 about-addressbook-search-all =
     .placeholder = Išči v vseh imenikih
-about-addressbook-sort-button =
-    .title = Spremeni vrstni red seznama
+about-addressbook-sort-button2 =
+    .title = Možnosti prikaza seznama
 about-addressbook-name-format-display =
     .label = Prikazno ime
 about-addressbook-name-format-firstlast =
@@ -166,8 +168,18 @@ about-addressbook-confirm-delete-contacts =
        *[other] Ali res želite izbrisati izbranih { $count } stikov?
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+about-addressbook-placeholder-empty-book = Ni stikov
+about-addressbook-placeholder-new-contact = Nov stik
+about-addressbook-placeholder-search-only = Ta imenik bo prikazal stike samo ob iskanju
+about-addressbook-placeholder-searching = Iskanje …
+about-addressbook-placeholder-no-search-results = Ni najdenih stikov
+
 ## Details
 
+about-addressbook-prefer-display-name = Daj prednost prikazanemu imenu namesto glavi sporočila
 about-addressbook-write-action-button = Piši
 about-addressbook-event-action-button = Dogodek
 about-addressbook-search-action-button = Išči
@@ -178,8 +190,6 @@ about-addressbook-save-edit-contact-button = Shrani
 about-addressbook-add-contact-to = Dodaj v:
 about-addressbook-details-email-addresses-header = E-poštni naslovi
 about-addressbook-details-phone-numbers-header = Telefonske številke
-about-addressbook-details-home-address-header = Domači naslov
-about-addressbook-details-work-address-header = Službeni naslov
 about-addressbook-details-addresses-header = Naslovi
 about-addressbook-details-notes-header = Opombe
 about-addressbook-details-other-info-header = Drugi podatki
@@ -191,7 +201,6 @@ about-addressbook-entry-name-birthday = Rojstni dan
 about-addressbook-entry-name-anniversary = Obletnica
 about-addressbook-entry-name-title = Naziv
 about-addressbook-entry-name-role = Funkcija
-about-addressbook-entry-name-department = Oddelek
 about-addressbook-entry-name-organization = Organizacija
 about-addressbook-entry-name-website = Spletno mesto
 about-addressbook-entry-name-time-zone = Časovni pas
