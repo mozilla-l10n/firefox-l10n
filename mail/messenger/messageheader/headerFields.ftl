@@ -8,7 +8,7 @@
 message-header-to-list-name = Кому
 message-header-from-list-name = Від
 message-header-sender-list-name = Відправник
-message-header-reply-to-list-name = Відповідь на
+message-header-reply-to-list-name = Відповідь
 message-header-cc-list-name = Копія
 message-header-bcc-list-name = Прихована копія
 message-header-newsgroups-list-name = Групи новин
