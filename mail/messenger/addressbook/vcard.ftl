@@ -3,6 +3,12 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+# Display Name
+
+vcard-displayname = Показуване ім'я
+vcard-displayname-placeholder =
+    .placeholder = { vcard-displayname }
+
 # Type selection
 
 vcard-entry-type-label = Тип
@@ -35,8 +41,7 @@ vcard-n-add-suffix =
 vcard-email-header = Адреси електронної пошти
 vcard-email-add = Додати адресу електронної пошти
 vcard-email-label = Адреса електронної пошти
-vcard-email-choose-primary = Типова
-    .aria-label = Виберіть свою основну адресу електронної пошти
+vcard-primary-email-label = Типово
 
 # URL vCard field
 
@@ -54,3 +59,42 @@ vcard-tel-label = Номер телефону
 
 vcard-tz-header = Часовий пояс
 vcard-tz-add = Додати часовий пояс
+
+# IMPP vCard field
+
+vcard-impp-header = Облікові записи чату
+vcard-impp-add = Додати обліковий запис чату
+vcard-impp-label = Облікові записи чату
+
+# BDAY and ANNIVERSARY vCard field
+
+vcard-bday-anniversary-header = Особливі дати
+vcard-bday-anniversary-add = Додати особливу дату
+vcard-bday-label = День народження
+vcard-anniversary-label = Річниця
+vcard-date-day = День
+vcard-date-month = Місяць
+vcard-date-year = Рік
+
+# ADR vCard field
+
+vcard-adr-header = Адреси
+vcard-adr-add = Додати адресу
+vcard-adr-label = Адреса
+vcard-adr-delivery-label = Мітка доставлення
+vcard-adr-pobox = Поштова скринька
+vcard-adr-ext = Розширена адреса
+vcard-adr-street = Вулиця
+# Or "Locality"
+vcard-adr-locality = Місто
+# Or "Region"
+vcard-adr-region = Область/Регіон
+# The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
+vcard-adr-code = Поштовий індекс
+vcard-adr-country = Країна
+
+# NOTE vCard field
+
+
+# TITLE, ROLE and ORGANIZATION vCard fields
+
