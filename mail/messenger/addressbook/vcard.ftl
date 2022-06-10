@@ -3,6 +3,12 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+# Display Name
+
+vcard-displayname = 顯示名稱
+vcard-displayname-placeholder =
+    .placeholder = { vcard-displayname }
+
 # Type selection
 
 vcard-entry-type-label = 類型
@@ -35,8 +41,7 @@ vcard-n-add-suffix =
 vcard-email-header = 電子郵件地址
 vcard-email-add = 新增電子郵件地址
 vcard-email-label = 電子郵件地址
-vcard-email-choose-primary = 預設
-    .aria-label = 選擇您的主要信箱
+vcard-primary-email-label = 預設
 
 # URL vCard field
 
@@ -54,3 +59,49 @@ vcard-tel-label = 電話號碼
 
 vcard-tz-header = 時區
 vcard-tz-add = 新增時區
+
+# IMPP vCard field
+
+vcard-impp-header = 聊天帳號
+vcard-impp-add = 新增聊天帳號
+vcard-impp-label = 聊天帳號
+
+# BDAY and ANNIVERSARY vCard field
+
+vcard-bday-anniversary-header = 特殊日期
+vcard-bday-anniversary-add = 新增特殊日期
+vcard-bday-label = 生日
+vcard-anniversary-label = 週年紀念日
+vcard-date-day = 日
+vcard-date-month = 月
+vcard-date-year = 年
+
+# ADR vCard field
+
+vcard-adr-header = 地址
+vcard-adr-add = 新增地址
+vcard-adr-label = 地址
+vcard-adr-delivery-label = 郵件標籤
+vcard-adr-pobox = 郵政信箱
+vcard-adr-ext = 完整地址
+vcard-adr-street = 街道地址
+# Or "Locality"
+vcard-adr-locality = 城市
+# Or "Region"
+vcard-adr-region = 縣／市
+# The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
+vcard-adr-code = 郵遞區號
+vcard-adr-country = 國家
+
+# NOTE vCard field
+
+vcard-note-header = 附註
+vcard-note-add = 加入附註
+
+# TITLE, ROLE and ORGANIZATION vCard fields
+
+vcard-org-header = 組織單位資訊
+vcard-org-add = 加入組織單位資訊
+vcard-org-title = 頭銜
+vcard-org-role = 角色
+vcard-org-org = 組織單位資訊

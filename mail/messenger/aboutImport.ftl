@@ -11,9 +11,6 @@ import-start = 匯入工具
 import-start-title = 從應用程式或檔案匯入設定或資料。
 import-start-description = 請選擇要匯入的來源資料位置，稍後會再詢問您要匯入哪些資料。
 import-from-app = 從應用程式匯入
-import-from-app-desc = 選擇從下列位置匯入帳號、通訊錄、行事曆與其他資料:
-import-address-book = 匯入通訊錄檔案
-import-calendar = 匯入行事曆檔案
 import-file = 從檔案匯入
 import-file-title = 請選擇要匯入內容的檔案。
 import-file-description = 選擇匯入先前被分的設定檔、通訊錄或行事曆。
@@ -23,7 +20,6 @@ export-profile = 匯出
 
 ## Buttons
 
-button-cancel = 取消
 button-back = 返回
 button-continue = 繼續
 button-export = 匯出
@@ -36,14 +32,6 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
-# Variables:
-#   $app (String) - The name of the app to import from
-profiles-pane-title = 從 { $app } 匯入
-profiles-pane-desc = 請選擇要從哪裡匯入資料
-profile-file-picker-dir = 選擇設定檔資料夾
-profile-file-picker-zip = 選擇 ZIP 檔（小於 2GB）
-items-pane-title = 選擇要匯入的項目
-items-pane-source = 來源位置:
 source-thunderbird = 從另一套 { app-name-thunderbird } 匯入
 source-thunderbird-description = 從 { app-name-thunderbird } 設定檔匯入設定、過濾器、訊息與其他資料。
 source-seamonkey = 從安裝好的 { app-name-seamonkey } 匯入
@@ -96,7 +84,6 @@ items-pane-override = 將不會覆蓋現有的資料。
 
 ## Import from address book file steps
 
-import-from-addr-book-file-desc = 請選擇您要匯入的檔案類型:
 import-from-addr-book-file-description = 請選擇您通訊錄的檔案格式。
 addr-book-csv-file = 逗點或 Tab 分隔文件（.csv、.tsv）
 addr-book-ldif-file = LDIF 檔案（.ldif）
@@ -106,13 +93,8 @@ addr-book-mab-file = Mork 資料庫檔案（.mab）
 addr-book-file-picker = 選擇通訊錄檔案
 addr-book-csv-field-map-title = 對應欄位名稱
 addr-book-csv-field-map-desc = 選擇來源欄位與通訊錄欄位之間的對應關係，可取消勾選不想匯入的欄位。
-addr-book-directories-pane-title = 請選擇您要匯入的資料夾:
 addr-book-directories-title = 請選擇要將選擇的資料匯入到哪裡
 addr-book-directories-pane-source = 來源檔案:
-addr-book-import-into-new-directory = 建立新目錄
-
-## Import from address book file steps
-
 # $addressBookName (string) - name of the new address book that would be created.
 addr-book-import-into-new-directory2 = 建立名為<strong>「{ $addressBookName }」</strong>的新目錄
 # $addressBookName (string) - name of the address book to import into
@@ -129,7 +111,6 @@ calendar-items-filter-input =
     .placeholder = 過濾項目…
 calendar-select-all-items = 選擇全部
 calendar-deselect-all-items = 取消選擇全部
-calendar-import-into-new-calendar = 建立新的行事曆
 calendar-target-title = 請選擇要將選擇的項目匯入到哪裡。
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = 建立名為<strong>「{ $targetCalendar }」</strong>的新行事曆
@@ -144,18 +125,12 @@ calendar-summary-description = 將建立名為「{ $targetCalendar }」的新行
 
 ## Import dialog
 
-progress-pane-importing = 匯入中
-progress-pane-exporting = 匯出中
-progress-pane-finished-desc = 完成。
-progress-pane-restart-desc = 請重新啟動以完成匯入。
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-importing2 = 匯入中… { $progressPercent }
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-exporting2 = 匯出中… { $progressPercent }
 progress-pane-finished-desc2 = 完成。
 error-pane-title = 錯誤
-error-message-zip-file-too-big = 選擇的 ZIP 檔案大小超過 2GB。請先解壓縮，然後改匯入解壓縮的資料匣。
-error-message-extract-zip-file-failed = ZIP 檔解壓縮失敗，請手動解壓縮，並重新匯入解開的資料夾。
 error-message-zip-file-too-big2 = 選擇的 ZIP 檔案大小超過 2GB。請先解壓縮，然後改匯入解壓縮的資料夾。
 error-message-extract-zip-file-failed2 = ZIP 檔解壓縮失敗，請手動解壓縮，並重新匯入解開的資料夾。
 error-message-failed = 發生未預期的匯入失敗，錯誤主控台中可能有更多資訊。
@@ -173,12 +148,9 @@ csv-target-field = 通訊錄欄位
 
 ## Export tab
 
-export-profile-desc = 將郵件帳號、郵件內容、通訊錄、設定匯出為一包 ZIP 檔案。需要的時候可將該檔案重新匯入，來還原設定檔。
-export-profile-desc2 = 若您目前的設定檔超過 2GB，建議您手動備份。
 export-profile-title = 將帳號、訊息、通訊錄、設定匯出成 ZIP 檔。
 export-profile-description = 若您目前的設定檔超過 2GB，建議您手動備份。
 export-open-profile-folder = 開啟設定檔目錄
-export-file-picker = 匯出成 zip 檔
 export-file-picker2 = 匯出成 ZIP 檔
 export-brand-name = { -brand-product-name }
 
@@ -195,3 +167,12 @@ footer-help = 需要幫忙嗎？
 footer-import-documentation = 匯入文件
 footer-export-documentation = 匯出文件
 footer-support-forum = 技術支援討論區
+
+## Step navigation on top of the wizard pages
+
+step-list =
+    .aria-label = 匯入步驟
+step-confirm = 確認
+# Variables:
+# $number (number) - step number
+step-count = { $number }

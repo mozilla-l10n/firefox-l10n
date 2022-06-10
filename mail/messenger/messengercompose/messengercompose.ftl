@@ -188,6 +188,9 @@ key-notification-resolve =
     .label = 解決…
     .accesskey = R
     .tooltiptext = 開啟 OpenPGP 金鑰助理
+can-e2e-encrypt-button =
+    .label = 加密
+    .accesskey = E
 
 ## Addressing Area
 

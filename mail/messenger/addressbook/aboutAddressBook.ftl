@@ -26,6 +26,8 @@ about-addressbook-books-context-properties =
     .label = 屬性
 about-addressbook-books-context-synchronize =
     .label = 同步
+about-addressbook-books-context-edit =
+    .label = 編輯
 about-addressbook-books-context-print =
     .label = 列印…
 about-addressbook-books-context-export =
@@ -53,8 +55,8 @@ about-addressbook-search =
     .placeholder = 搜尋 { $name }
 about-addressbook-search-all =
     .placeholder = 搜尋所有通訊錄
-about-addressbook-sort-button =
-    .title = 更改清單順序
+about-addressbook-sort-button2 =
+    .title = 清單顯示選項
 about-addressbook-name-format-display =
     .label = 顯示名稱
 about-addressbook-name-format-firstlast =
@@ -151,8 +153,18 @@ about-addressbook-confirm-delete-contacts =
        *[other] 您確定要刪除下列 { $count } 位聯絡人嗎？
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+about-addressbook-placeholder-empty-book = 無聯絡人
+about-addressbook-placeholder-new-contact = 新增聯絡人
+about-addressbook-placeholder-search-only = 進行搜尋後才會顯示此通訊錄的聯絡人
+about-addressbook-placeholder-searching = 搜尋中…
+about-addressbook-placeholder-no-search-results = 找不到聯絡人
+
 ## Details
 
+about-addressbook-prefer-display-name = 在郵件檔頭上方顯示姓名
 about-addressbook-write-action-button = 寫信
 about-addressbook-event-action-button = 事件
 about-addressbook-search-action-button = 搜尋
@@ -163,8 +175,6 @@ about-addressbook-save-edit-contact-button = 儲存
 about-addressbook-add-contact-to = 新增到:
 about-addressbook-details-email-addresses-header = 電子郵件地址
 about-addressbook-details-phone-numbers-header = 電話號碼
-about-addressbook-details-home-address-header = 住家地址
-about-addressbook-details-work-address-header = 商務地址
 about-addressbook-details-addresses-header = 通訊錄
 about-addressbook-details-notes-header = 附註
 about-addressbook-details-other-info-header = 其他資訊
@@ -177,7 +187,6 @@ about-addressbook-entry-name-birthday = 生日
 about-addressbook-entry-name-anniversary = 週年紀念日
 about-addressbook-entry-name-title = 頭銜
 about-addressbook-entry-name-role = 角色
-about-addressbook-entry-name-department = 部門
 about-addressbook-entry-name-organization = 公司
 about-addressbook-entry-name-website = 網站
 about-addressbook-entry-name-time-zone = 時區
