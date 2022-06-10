@@ -95,6 +95,13 @@ vcard-adr-country = Країна
 
 # NOTE vCard field
 
+vcard-note-header = Примітки
+vcard-note-add = Додати примітку
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-header = Організаційні властивості
+vcard-org-add = Додати організаційні властивості
+vcard-org-title = Заголовок
+vcard-org-role = Роль
+vcard-org-org = Організація

@@ -197,6 +197,11 @@ key-notification-resolve =
     .label = Розв'язати
     .accesskey = Р
     .tooltiptext = Відкрити менеджер керування ключами OpenPGP
+can-encrypt-smime-notification = Можливе наскрізне шифрування S/MIME.
+can-encrypt-openpgp-notification = Можливе наскрізне шифрування OpenPGP.
+can-e2e-encrypt-button =
+    .label = Шифрувати
+    .accesskey = Ш
 
 ## Addressing Area
 
