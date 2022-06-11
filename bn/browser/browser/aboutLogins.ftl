@@ -68,6 +68,8 @@ about-logins-list-section-week = গত 7 দিন
 about-logins-login-intro-heading-logged-out2 = আপনার সংরক্ষিত লগইনগুলি সন্ধান করছেন? সিঙ্ক চালু করুন বা সেগুলি আমদানি করুন।
 about-logins-login-intro-heading-logged-in = সিংক হওয়া কোনো লগইন পাওয়া যায়নি।
 login-intro-description = আপনি যদি ভিন্ন কোন ডিভাইসের { -brand-product-name } এ আপনার লগইন সমূহ সংরক্ষণ করে থাকেন, তাহলে সেগুলো এখানে কিভাবে পাবেন, সেটি রয়েছে এখানে:
+about-logins-intro-browser-only-import = যদি আপনার লগইনগুলি অন্য ব্রাউজারে সংরক্ষিত থাকে, তাহলে আপনি <a data-l10n-name="import-link">সেগুলি { -brand-product-name }-এ আমদানি করতে পারেন</a>
+about-logins-intro-import2 = যদি আপনার লগইনগুলি { -brand-product-name }-এর বাইরে সংরক্ষিত থাকে, তাহলে আপনি <a data-l10n-name="import-browser-link">এগুলি অন্য একটি ব্রাউজার থেকে</a> অথবা <a data-l10n- name="import-file-link">একটি ফাইল থেকে</a> নিয়ে আসতে পারেন
 
 ## Login
 
@@ -179,7 +181,7 @@ about-logins-vulnerable-alert-learn-more-link = আরও জানুন
 # a new login that is identical to an existing saved login.
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login-with-link = { $loginTitle } নামের ইউজার পূর্বের থেকেই আছে। <a data-l10n-name="duplicate-link">পূর্বে থাকা ইউজারটিতে যেতে চান?</a>
+about-logins-error-message-duplicate-login-with-link = { $loginTitle } নামের ব্যবহারকারী পূর্ব থেকেই আছেন। <a data-l10n-name="duplicate-link">পূর্বে থাকা ব্যবহারকারীতে যেতে চান?</a>
 # This is a generic error message.
 about-logins-error-message-default = এই পাসওয়ার্ডটি সংরক্ষণ করার চেষ্টা করার সময় একটি ত্রুটি ঘটেছে।
 
