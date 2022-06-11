@@ -192,6 +192,11 @@ key-notification-resolve =
     .label = Oplosse…
     .accesskey = l
     .tooltiptext = De OpenPGP-kaaiassistint iepenje
+can-encrypt-smime-notification = S/MIME end-to-end-fersifering is mooglik.
+can-encrypt-openpgp-notification = OpenPGP end-to-end-fersifering is mooglik.
+can-e2e-encrypt-button =
+    .label = Fersiferje
+    .accesskey = F
 
 ## Addressing Area
 
