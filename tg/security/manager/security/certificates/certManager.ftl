@@ -76,6 +76,10 @@ certificate-not-available = (Дастнорас)
 
 ## Add Security Exception dialog
 
+add-exception-checking-short = Дар ҳоли тафтиши маълумот
+add-exception-checking-long = Кӯшиши ташхиси сомонаи ҷорӣ…
+add-exception-no-cert-short = Маълумот дастрас нест
+add-exception-no-cert-long = Гирифтани вазъияти ташхисӣ барои сомонаи ҷорӣ ғайриимкон аст.
 
 ## Certificate export "Save as" and error dialogs
 
