@@ -97,6 +97,16 @@ perftools-thread-task-controller =
     .title = Потоки пула потоков TaskController
 perftools-thread-jvm-gecko =
     .title = Основной поток Gecko JVM
+perftools-thread-jvm-nimbus =
+    .title = Основные потоки для SDK экспериментов Nimbus
+perftools-thread-jvm-default-dispatcher =
+    .title = Диспетчер по умолчанию для библиотеки сопрограмм Kotlin
+perftools-thread-jvm-glean =
+    .title = Основные потоки для SDK телеметрии Glean
+perftools-thread-jvm-arch-disk-io =
+    .title = Диспетчер ввода-вывода для библиотеки сопрограмм Kotlin
+perftools-thread-jvm-pool =
+    .title = Потоки, созданные в безымянном пуле потоков
 
 ##
 
