@@ -11,9 +11,6 @@ import-start = Importhulpmiddel
 import-start-title = Instellingen of gegevens uit een toepassing of een bestand importeren.
 import-start-description = Selecteer de bron waaruit u wilt importeren. U wordt later gevraagd om te kiezen welke gegevens geïmporteerd moeten worden.
 import-from-app = Importeren uit toepassing
-import-from-app-desc = Kies of u accounts, adresboeken, agenda’s en andere gegevens wilt importeren uit:
-import-address-book = Adresboekbestand importeren
-import-calendar = Agendabestand importeren
 import-file = Uit een bestand importeren
 import-file-title = Selecteer een bestand om de inhoud ervan te importeren.
 import-file-description = Kiezen om een eerdere reservekopie van een profiel, adresboeken of agenda’s te importeren.
@@ -23,7 +20,6 @@ export-profile = Exporteren
 
 ## Buttons
 
-button-cancel = Annuleren
 button-back = Terug
 button-continue = Doorgaan
 button-export = Exporteren
@@ -36,14 +32,6 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
-# Variables:
-#   $app (String) - The name of the app to import from
-profiles-pane-title = Importeren uit { $app }
-profiles-pane-desc = Kies de locatie van waaruit u wilt importeren
-profile-file-picker-dir = Selecteer een profielmap
-profile-file-picker-zip = Selecteer een zipbestand (kleiner dan 2GB)
-items-pane-title = Selecteer wat u wilt importeren
-items-pane-source = Bronlocatie:
 source-thunderbird = Importeren uit een andere { app-name-thunderbird }-installatie
 source-thunderbird-description = Instellingen, filters, berichten en andere gegevens uit een { app-name-thunderbird }-profiel importeren.
 source-seamonkey = Importeren vanuit een { app-name-seamonkey }-installatie
@@ -96,7 +84,6 @@ items-pane-override = Bestaande of identieke gegevens worden niet overschreven.
 
 ## Import from address book file steps
 
-import-from-addr-book-file-desc = Selecteer het bestandstype dat u wilt importeren:
 import-from-addr-book-file-description = Kies het bestandsformaat met uw adresboekgegevens.
 addr-book-csv-file = Door komma’s of tabs gescheiden bestand (.csv, .tsv)
 addr-book-ldif-file = LDIF-bestand (.ldif)
@@ -106,13 +93,8 @@ addr-book-mab-file = Mork-databasebestand (.mab)
 addr-book-file-picker = Selecteer een adresboekbestand
 addr-book-csv-field-map-title = Veldnamen overeen laten komen
 addr-book-csv-field-map-desc = Selecteer adresboekvelden die overeenkomen met de bronvelden. Vink velden uit die u niet wilt importeren.
-addr-book-directories-pane-title = Selecteer de map waarin u wilt importeren:
 addr-book-directories-title = Selecteer waar u de gekozen gegevens wilt importeren
 addr-book-directories-pane-source = Bronbestand:
-addr-book-import-into-new-directory = Een nieuwe map maken
-
-## Import from address book file steps
-
 # $addressBookName (string) - name of the new address book that would be created.
 addr-book-import-into-new-directory2 = Een nieuwe map aanmaken met de naam <strong>‘{ $addressBookName }’</strong>
 # $addressBookName (string) - name of the address book to import into
@@ -129,7 +111,6 @@ calendar-items-filter-input =
     .placeholder = Items filteren…
 calendar-select-all-items = Alles selecteren
 calendar-deselect-all-items = Alles deselecteren
-calendar-import-into-new-calendar = Een nieuwe agenda maken
 calendar-target-title = Selecteer waar u de gekozen items wilt importeren.
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = Een nieuwe agenda maken met de naam <strong>‘{ $targetCalendar }’</strong>
@@ -145,18 +126,12 @@ calendar-summary-description = Er wordt een nieuwe agenda gemaakt met de naam �
 
 ## Import dialog
 
-progress-pane-importing = Importeren
-progress-pane-exporting = Exporteren
-progress-pane-finished-desc = Voltooid.
-progress-pane-restart-desc = Herstart om het importeren te voltooien.
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-importing2 = Importeren… { $progressPercent }
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-exporting2 = Exporteren… { $progressPercent }
 progress-pane-finished-desc2 = Voltooid.
 error-pane-title = Fout
-error-message-zip-file-too-big = Het geselecteerde zipbestand is groter dan 2 GB. Pak het eerst uit en importeer het vervolgens uit de uitgepakte map.
-error-message-extract-zip-file-failed = Kan het zipbestand niet uitpakken. Pak het handmatig uit en importeer het vervolgens uit de uitgepakte map.
 error-message-zip-file-too-big2 = Het geselecteerde ZIP-bestand is groter dan 2 GB. Pak het eerst uit en importeer het vervolgens uit de uitgepakte map.
 error-message-extract-zip-file-failed2 = Kan het ZIP-bestand niet uitpakken. Pak het handmatig uit en importeer het vervolgens uit de uitgepakte map.
 error-message-failed = Importeren is onverwacht mislukt, meer informatie is mogelijk beschikbaar in de Foutconsole.
@@ -174,12 +149,9 @@ csv-target-field = Adresboekveld
 
 ## Export tab
 
-export-profile-desc = E-mailaccounts, e-mailberichten, adresboeken, instellingen exporteren naar een zipbestand. Indien nodig kunt u het zipbestand importeren om uw profiel te herstellen.
-export-profile-desc2 = Als uw huidige profiel groter is dan 2 GB, raden we u aan er zelf een reservekopie van te maken.
 export-profile-title = Accounts, berichten, adresboeken en instellingen naar een ZIP-bestand exporteren.
 export-profile-description = Als uw huidige profiel groter is dan 2 GB, raden we u aan er zelf een reservekopie van te maken.
 export-open-profile-folder = Profielmap openen
-export-file-picker = Exporteren naar een zipbestand
 export-file-picker2 = Exporteren naar een ZIP-bestand
 export-brand-name = { -brand-product-name }
 
@@ -196,3 +168,12 @@ footer-help = Hulp nodig?
 footer-import-documentation = Importdocumentatie
 footer-export-documentation = Exportdocumentatie
 footer-support-forum = Ondersteuningsforum
+
+## Step navigation on top of the wizard pages
+
+step-list =
+    .aria-label = Importstappen
+step-confirm = Bevestigen
+# Variables:
+# $number (number) - step number
+step-count = { $number }

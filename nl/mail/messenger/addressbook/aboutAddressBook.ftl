@@ -26,6 +26,8 @@ about-addressbook-books-context-properties =
     .label = Eigenschappen
 about-addressbook-books-context-synchronize =
     .label = Synchroniseren
+about-addressbook-books-context-edit =
+    .label = Bewerken
 about-addressbook-books-context-print =
     .label = Afdrukken…
 about-addressbook-books-context-export =
@@ -53,8 +55,6 @@ about-addressbook-search =
     .placeholder = { $name } doorzoeken
 about-addressbook-search-all =
     .placeholder = Alle adresboeken doorzoeken
-about-addressbook-sort-button =
-    .title = Lijstvolgorde wijzigen
 about-addressbook-name-format-display =
     .label = Weergavenaam
 about-addressbook-name-format-firstlast =
@@ -154,6 +154,10 @@ about-addressbook-confirm-delete-contacts =
        *[other] Weet u zeker dat u deze { $count } contacten wilt verwijderen?
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+
 ## Details
 
 about-addressbook-write-action-button = Opstellen
@@ -166,8 +170,6 @@ about-addressbook-save-edit-contact-button = Opslaan
 about-addressbook-add-contact-to = Toevoegen aan:
 about-addressbook-details-email-addresses-header = E-mailadressen
 about-addressbook-details-phone-numbers-header = Telefoonnummers
-about-addressbook-details-home-address-header = Adres
-about-addressbook-details-work-address-header = Werkadres
 about-addressbook-details-addresses-header = Adressen
 about-addressbook-details-notes-header = Opmerkingen
 about-addressbook-details-other-info-header = Andere informatie
@@ -180,7 +182,6 @@ about-addressbook-entry-name-birthday = Verjaardag
 about-addressbook-entry-name-anniversary = Jubileum
 about-addressbook-entry-name-title = Titel
 about-addressbook-entry-name-role = Rol
-about-addressbook-entry-name-department = Afdeling
 about-addressbook-entry-name-organization = Organisatie
 about-addressbook-entry-name-website = Website
 about-addressbook-entry-name-time-zone = Tijdzone
