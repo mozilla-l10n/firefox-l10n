@@ -10,6 +10,14 @@ openpgp-key-assistant-recipients-issue-header = Fersiferjen net mooglik
 
 ## Resolve section
 
+openpgp-key-assistant-valid-description = Selektearje de kaai dy’t jo akseptearje wolle
+# Variables:
+# $numKeys (Number) - The number of available keys.
+openpgp-key-assistant-invalid-title =
+    { $numKeys ->
+        [one] De folgjende kaai kin net brûkt wurde, útsein as jo in fernijing krije.
+       *[other] De folgjende kaaien kinne net brûkt wurde, útsein as jo in fernijing krije.
+    }
 openpgp-key-assistant-no-key-available = Gjin kaai beskikber.
 openpgp-key-assistant-multiple-keys = Meardere kaaien binne beskikber.
 # Variables:
