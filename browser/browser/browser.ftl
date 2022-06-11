@@ -308,6 +308,22 @@ enable-devtools-popup-description = F12 শর্টকাট ব্যবহা
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = অনুসন্ধান করুন বা ঠিকানা দিন
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = ওয়েবে অনুসন্ধান করুন
+    .aria-label = { $name } দ্বারা অনুসন্ধান করুন
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = অনুসন্ধানের পদ লিখুন
+    .aria-label = { $name } অনুসন্ধান করুন
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -342,6 +358,22 @@ urlbar-result-action-search-in-private = ব্যক্তিগত উইন�
 urlbar-result-action-search-w-engine = { $engine } দিয়ে অনুসন্ধান করা হবে
 urlbar-result-action-switch-tab = ট্যাবে যান
 urlbar-result-action-visit = পরিদর্শন করুন
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = { $engine } দ্বারা অনুসন্ধান করতে ট্যাব টিপুন
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = { $engine } অনুসন্ধান করতে ট্যাব টিপুন
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = ঠিকানাদণ্ড থেকে সরাসরি { $engine } দ্বারা অনুসন্ধান করুন।
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

@@ -15,6 +15,15 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = অনুসন্ধান
     .aria-label = অনুসন্ধান
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = { $engine } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = { $engine } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
+    .title = { $engine } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
+    .aria-label = { $engine } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
 
 ## Top Sites - General form dialog.
 

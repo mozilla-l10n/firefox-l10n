@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 wizard-macos-button-back =
-    .label = পূর্ববর্তীতে যান (B)
+    .label = পিছনে যান
     .accesskey = B
 wizard-linux-button-back =
     .label = পূর্ববর্তী
@@ -11,24 +11,21 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < পূর্ববর্তী
     .accesskey = B
-
 wizard-macos-button-next =
     .label = চালিয়ে যান
     .accesskey = C
 wizard-linux-button-next =
-    .label = পরবর্তী (N)
+    .label = পরবর্তী
     .accesskey = N
 wizard-win-button-next =
-    .label = পরবর্তী > (N)
+    .label = পরবর্তী >
     .accesskey = N
-
 wizard-macos-button-finish =
     .label = সম্পন্ন
 wizard-linux-button-finish =
     .label = সমাপ্ত
 wizard-win-button-finish =
     .label = সমাপ্ত
-
 wizard-macos-button-cancel =
     .label = বাতিল
 wizard-linux-button-cancel =
