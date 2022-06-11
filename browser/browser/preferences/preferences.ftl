@@ -368,7 +368,7 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header = Firefox Home কনটেন্ট
+home-prefs-content-header = Firefox নীড় বিষয়সামগ্রী
 home-prefs-content-description = আপনার Firefox Home স্ক্রিনে যেসব কনটেন্ট রাখতে চান তা পছন্দ করুন।
 home-prefs-search-header =
     .label = ওয়েব অনুসন্ধান
