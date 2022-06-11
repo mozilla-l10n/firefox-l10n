@@ -21,7 +21,7 @@ category-search =
 pane-privacy-title = গোপনীয়তা ও নিরাপত্তা
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-help-button-label = { -brand-short-name } সাপোর্ট
+help-button-label = { -brand-short-name } সহায়তা
 addons-button-label = এক্সটেনশন ও থিম
 focus-search =
     .key = f
@@ -57,7 +57,7 @@ extension-controlled-enable = এক্সটেনশনটি সক্রি�
 ## Preferences UI Search Results
 
 search-results-header = অনুসন্ধানের ফলাফল
-search-results-help-link = সাহায্য প্রয়োজন? <a data-l10n-name="url">{ -brand-short-name } সাপোর্ট</a> দেখুন
+search-results-help-link = সাহায্য প্রয়োজন? <a data-l10n-name="url">{ -brand-short-name } সহায়তা</a> দেখুন
 
 ## General Section
 
