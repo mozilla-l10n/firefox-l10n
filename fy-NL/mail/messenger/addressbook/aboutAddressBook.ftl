@@ -26,6 +26,8 @@ about-addressbook-books-context-properties =
     .label = Eigenskippen
 about-addressbook-books-context-synchronize =
     .label = Syngronisearje
+about-addressbook-books-context-edit =
+    .label = Bewurkje
 about-addressbook-books-context-print =
     .label = Ofdrukke…
 about-addressbook-books-context-export =
@@ -53,8 +55,6 @@ about-addressbook-search =
     .placeholder = { $name } trochsykje
 about-addressbook-search-all =
     .placeholder = Alle adresboeken trochsykje
-about-addressbook-sort-button =
-    .title = Listfolchoarder wizigje
 about-addressbook-name-format-display =
     .label = Werjeftenamme
 about-addressbook-name-format-firstlast =
@@ -154,8 +154,18 @@ about-addressbook-confirm-delete-contacts =
        *[other] Binne jo wis dat jo dizze { $count } kontakten fuortsmite wolle?
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+about-addressbook-placeholder-empty-book = Gjin kontakten beskikber
+about-addressbook-placeholder-new-contact = Nij kontakt
+about-addressbook-placeholder-search-only = Dit adresboek toant allinnich kontakten nei in sykopdracht
+about-addressbook-placeholder-searching = Sykje…
+about-addressbook-placeholder-no-search-results = Gjin kontakten fûn
+
 ## Details
 
+about-addressbook-prefer-display-name = Leaver werjeftenamme boppe berjochtkop toane
 about-addressbook-write-action-button = Opstelle
 about-addressbook-event-action-button = Barren
 about-addressbook-search-action-button = Sykje
@@ -166,8 +176,6 @@ about-addressbook-save-edit-contact-button = Bewarje
 about-addressbook-add-contact-to = Tafoegje oan:
 about-addressbook-details-email-addresses-header = E-mailadressen
 about-addressbook-details-phone-numbers-header = Telefoannûmers
-about-addressbook-details-home-address-header = Adres
-about-addressbook-details-work-address-header = Wurkadres
 about-addressbook-details-addresses-header = Adressen
 about-addressbook-details-notes-header = Opmerkingen
 about-addressbook-details-other-info-header = Oare ynformaasje
@@ -180,7 +188,6 @@ about-addressbook-entry-name-birthday = Jierdei
 about-addressbook-entry-name-anniversary = Jubileum
 about-addressbook-entry-name-title = Titel
 about-addressbook-entry-name-role = Rol
-about-addressbook-entry-name-department = Ofdieling
 about-addressbook-entry-name-organization = Organisaasje
 about-addressbook-entry-name-website = Website
 about-addressbook-entry-name-time-zone = Tiidsône

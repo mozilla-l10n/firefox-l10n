@@ -11,9 +11,6 @@ import-start = Ymporthelpmiddel
 import-start-title = Ynstellingen of gegevens út in tapassing of in bestân ymportearje.
 import-start-description = Selektearje de boarne wêrfan jo ymportearje wolle. Jo wurde letter frege om te kiezen hokker gegevens ymportearre wurde moatte.
 import-from-app = Ymportearje út tapassing
-import-from-app-desc = Kies oft jo accounts, adresboeken, aginda’s en oare gegevens ymportearje wolle út:
-import-address-book = Adresboekbestân ymportearje
-import-calendar = Agindabestân ymportearje
 import-file = Ut in bestân ymportearje
 import-file-title = Selektearje in bestân om de ynhâld derfan te ymportearjen.
 import-file-description = Kieze om in earder makke reservekopy fan in profyl, adresboeken of aginda’s te ymportearjen.
@@ -23,7 +20,6 @@ export-profile = Eksportearje
 
 ## Buttons
 
-button-cancel = Annulearje
 button-back = Tebek
 button-continue = Trochgean
 button-export = Eksportearje
@@ -36,14 +32,6 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
-# Variables:
-#   $app (String) - The name of the app to import from
-profiles-pane-title = Ymportearje út { $app }
-profiles-pane-desc = Kies de lokaasje wêrfan jo ymportearje wolle
-profile-file-picker-dir = Selektearje in profylmap
-profile-file-picker-zip = Selektearje in zip-bestân (lytser as 2GB)
-items-pane-title = Selektearje wat jo ymportearje wolle
-items-pane-source = Boarnelokaasje:
 source-thunderbird = Ymportearje út in oare { app-name-thunderbird }-ynstallaasje
 source-thunderbird-description = Ynstellingen, filters, berjochten en oare gegevens út in { app-name-thunderbird }-profyl ymportearje.
 source-seamonkey = Ymportearje fan in { app-name-seamonkey }-ynstallaasje út
@@ -96,7 +84,6 @@ items-pane-override = Besteande of identike gegevens wurde net oerskreaun.
 
 ## Import from address book file steps
 
-import-from-addr-book-file-desc = Selektearje it bestânstype dat jo ymportearje wolle:
 import-from-addr-book-file-description = Kies it bestânsformaat mei jo adresboekgegevens.
 addr-book-csv-file = Komma- of tab-skieden bestân (.csv, .tsv)
 addr-book-ldif-file = LDIF-bestân (.ldif)
@@ -106,13 +93,8 @@ addr-book-mab-file = Mork-databasebestân (.mab)
 addr-book-file-picker = Adresboekbestân selektearje
 addr-book-csv-field-map-title = Fjildnammen oerien komme litte
 addr-book-csv-field-map-desc = Selektearje adresboekfjilden dy’t oerienkomme mei de boarnefjilden. Finkje fjilden út dy’t jo net ymportearje wolle.
-addr-book-directories-pane-title = Selektearje de map dêr’t jo nei ymportearje wolle:
 addr-book-directories-title = Selektearje wêr’t jo de keazen gegevens ymportearje wolle
 addr-book-directories-pane-source = Boarnebestân:
-addr-book-import-into-new-directory = Nije map meitsje
-
-## Import from address book file steps
-
 # $addressBookName (string) - name of the new address book that would be created.
 addr-book-import-into-new-directory2 = In nije map oanmeitsje mei de namme <strong>‘{ $addressBookName }’</strong>
 # $addressBookName (string) - name of the address book to import into
@@ -129,7 +111,6 @@ calendar-items-filter-input =
     .placeholder = Items filterje…
 calendar-select-all-items = Alles selektearje
 calendar-deselect-all-items = Alle deselektearje
-calendar-import-into-new-calendar = In nije aginda meitsje
 calendar-target-title = Selektearje wêr’t jo de keazen ûnderdielen ymportearje wolle.
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = In nije aginda meitsje mei de namme <strong>‘{ $targetCalendar }’</strong>
@@ -145,18 +126,12 @@ calendar-summary-description = Der wurdt in nije aginda makke mei de namme ‘{ 
 
 ## Import dialog
 
-progress-pane-importing = Ymportearje
-progress-pane-exporting = Eksportearje
-progress-pane-finished-desc = Foltôge.
-progress-pane-restart-desc = Opnij starte om it ymportearjen te foltôgjen.
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-importing2 = Ymportearje… { $progressPercent }
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-exporting2 = Eksportearje… { $progressPercent }
 progress-pane-finished-desc2 = Foltôge.
 error-pane-title = Flater
-error-message-zip-file-too-big = It selektearre zip-bestân is grutter as 2 GB. Pak it earst út en ymportearje it dernei út de útpakte map.
-error-message-extract-zip-file-failed = Kin it zipbestân net útpakke. Pak it hânmjittich út en ymportearje it dernei út de útpakte map.
 error-message-zip-file-too-big2 = It selektearre ZIP-bestân is grutter as 2 GB. Pak it earst út en ymportearje it dernei út de útpakte map.
 error-message-extract-zip-file-failed2 = Kin it ZIP-bestân net útpakke. Pak it hânmjittich út en ymportearje it dernei út de útpakte map.
 error-message-failed = Ymportearjen is ûnferwachte mislearre, mear ynformaasje is mooglik beskikber yn de Flaterconsole.
@@ -174,12 +149,9 @@ csv-target-field = Adresboekfjld
 
 ## Export tab
 
-export-profile-desc = E-mailaccounts, e-mailberjochten, adresboeken, ynstellingen eksportearje nei in zipbestân. Wannear nedich kinne jo it zipbestân ymportearje om jo profyl te werstellen.
-export-profile-desc2 = As jo aktuele profyl grutter is as 2 GB, riede wy jo oan der sels in reservekopy fan te meitsjen.
 export-profile-title = Accounts, berjochten, adresboeken en ynstellingen nei in ZIP-bestân eksportearje.
 export-profile-description = As jo aktuele profyl grutter is as 2 GB, riede wy jo oan der sels in reservekopy fan te meitsjen.
 export-open-profile-folder = Profylmap iepenje
-export-file-picker = Eksportearje nei in zipbestân
 export-file-picker2 = Eksportearje nei in ZIP-bestân
 export-brand-name = { -brand-product-name }
 
@@ -196,3 +168,12 @@ footer-help = Help nedich?
 footer-import-documentation = Ymportdokumintaasje
 footer-export-documentation = Eksportdokumintaasje
 footer-support-forum = Stipefoarum
+
+## Step navigation on top of the wizard pages
+
+step-list =
+    .aria-label = Ymportstappen
+step-confirm = Befêstigje
+# Variables:
+# $number (number) - step number
+step-count = { $number }
