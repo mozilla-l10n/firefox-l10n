@@ -70,6 +70,7 @@ openpgp-key-assistant-key-source =
        *[other] Sources
     }
 openpgp-key-assistant-key-collected-attachment = email attachment
+openpgp-key-assistant-key-collected-autocrypt = Autocrypt header
 openpgp-key-assistant-key-collected-keyserver = keyserver
 openpgp-key-assistant-key-collected-wkd = Web Key Directory
 openpgp-key-assistant-keys-has-collected =
@@ -79,9 +80,36 @@ openpgp-key-assistant-keys-has-collected =
     }
 openpgp-key-assistant-key-rejected = This key has been previously rejected.
 openpgp-key-assistant-key-accepted-other = This key has been previously accepted for a different email address.
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+openpgp-key-assistant-resolve-discover-info = Discover additional or updated keys for { $recipient } online, or import them from a file.
 
 ## Discovery section
 
+openpgp-key-assistant-discover-title = Online discovery in progress.
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-discover-keys = Discovering keys for { $recipient }…
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-expired-key-update =
+    An update was found for one of the previously accepted keys for { $recipient }.
+    It can now be used as it is no longer expired.
 
 ## Dialog buttons
 
+openpgp-key-assistant-discover-online-button = Discover Public Keys Online…
+openpgp-key-assistant-import-keys-button = Import Public Keys From File…
+openpgp-key-assistant-issue-resolve-button = Resolve…
+openpgp-key-assistant-view-key-button = View Key…
+openpgp-key-assistant-recipients-show-button = Show
+openpgp-key-assistant-recipients-hide-button = Hide
+openpgp-key-assistant-cancel-button = Cancel
+openpgp-key-assistant-back-button = Back
+openpgp-key-assistant-accept-button = Accept
+openpgp-key-assistant-close-button = Close
+openpgp-key-assistant-disable-button = Disable Encryption
+openpgp-key-assistant-confirm-button = Send Encrypted
+# Variables:
+# $date (String) - The key creation date.
+openpgp-key-assistant-key-created = created on { $date }
