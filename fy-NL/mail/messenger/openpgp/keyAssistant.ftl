@@ -3,10 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 openpgp-key-assistant-title = OpenPGP kaaiassistint
+openpgp-key-assistant-rogue-warning = Mij it akseptearjen fan in falske kaai. Om wis te wêzen dat jo de krekte kaai krigen hawwe, soene jo it ferifiearje moatte. <a data-l10n-name="openpgp-link">Mear ynfo…</a>
 
 ## Encryption status
 
 openpgp-key-assistant-recipients-issue-header = Fersiferjen net mooglik
+# Variables:
+# $count (Number) - The number of recipients that need attention.
+openpgp-key-assistant-recipients-issue-description =
+    { $count ->
+        [one] Om te fersiferjen moatte jo in brûkbere kaai krije en akseptearje foar ien ûntfanger. <a data-l10n-name="openpgp-link">Mear ynfo…</a>
+       *[other] Om te fersiferjen moatte jo brûkbere kaaien krije en akseptearje foar { $count } ûntfangers. <a data-l10n-name="openpgp-link">Mear ynfo…</a>
+    }
+openpgp-key-assistant-info-alias = { -brand-short-name } fereasket normaal sprutsen dat de publike kaai fan de ûntfanger in brûkers-ID mei in oerienkommend e-mailadres befettet. Dit kin ferfongen wurde troch aliasrigels foar OpenPGP-ûntfangers te brûken. <a data-l10n-name="openpgp-link">Mear ynfo…</a>
 # Variables:
 # $count (Number) - The number of recipients that need attention.
 openpgp-key-assistant-recipients-description =
