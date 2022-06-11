@@ -81,6 +81,7 @@ vcard-date-year = Jier
 vcard-adr-header = Adressen
 vcard-adr-add = Adres tafoegje
 vcard-adr-label = Adres
+vcard-adr-delivery-label = Leveringslabel
 vcard-adr-pobox = Brievebus
 vcard-adr-ext = Wiidweidich adres
 vcard-adr-street = Strjitte
