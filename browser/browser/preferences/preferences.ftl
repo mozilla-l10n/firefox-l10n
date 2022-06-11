@@ -308,8 +308,8 @@ applications-use-app-default =
 applications-use-os-default =
     .label =
         { PLATFORM() ->
-            [macos] Использовать приложение по умолчанию в macOS
-            [windows] Использовать приложение по умолчанию в Windows
+            [macos] Использовать приложение macOS по умолчанию
+            [windows] Использовать приложение Windows по умолчанию
            *[other] Использовать системное приложение по умолчанию
         }
 applications-use-other =
@@ -362,7 +362,7 @@ applications-save-for-new-types =
     .label = Сохранять файлы
     .accesskey = я
 applications-ask-before-handling =
-    .label = Спрашивать, нужно ли открывать или сохранять файлы
+    .label = Спрашивать, открывать или сохранять файлы
     .accesskey = ш
 drm-content-header = Содержимое использующее технические средства защиты авторских прав (DRM)
 play-drm-content =
