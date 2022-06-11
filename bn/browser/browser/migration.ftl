@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 migration-wizard =
-    .title = ইমপোর্ট উইজার্ড
+    .title = আমদানির উইজার্ড
 import-from =
     { PLATFORM() ->
         [windows] এ স্থান থেকে অপশনসমূহ, বুকমার্ক, ইতিহাস, পাসওয়ার্ড ও অন্যান্য তথ্য আমদানি করা হবে:
@@ -23,7 +23,7 @@ import-from-edge-beta =
     .label = Microsoft Edge Beta
     .accesskey = d
 import-from-nothing =
-    .label = কিছুই ইমপোর্ট করা হবে না
+    .label = কিছুই আমদানি করবেন না
     .accesskey = D
 import-from-safari =
     .label = সাফারি
@@ -50,10 +50,10 @@ import-from-360se =
     .label = 360 নিরাপদ ব্রাউজার
     .accesskey = 3
 no-migration-sources = বুকমার্ক, ইতিহাস অথবা পাসওয়ার্ড ধারণকারী কোনো প্রোগ্রাম পাওয়া যায়নি।
-import-source-page-title = সেটিং ও তথ্য ইমপোর্ট করুন
-import-items-page-title = ইমপোর্ট করা হবে
-import-items-description = ইমপোর্ট করার জন্য আইটেম নির্বাচন:
-import-migrating-page-title = ইমপোর্ট করা হচ্ছে...
+import-source-page-title = সেটিং ও উপাত্ত আমদানি করুন
+import-items-page-title = আমদানির আইটেম
+import-items-description = আমদানি করার জন্য আইটেম নির্বাচন করুন:
+import-migrating-page-title = আমদানি করা হচ্ছে…
 import-migrating-description = বর্তমানে নিম্নলিখিত আইটেম ইমপোর্ট করা হচ্ছে...
 import-select-profile-page-title = প্রোফাইল নির্বাচন
 import-select-profile-description = নিম্নলিখিত প্রোফাইলগুলি থেকে বর্তমানে ইমপোর্ট করা সম্ভব:
