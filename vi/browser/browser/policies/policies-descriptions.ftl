@@ -113,8 +113,10 @@ policy-SecurityDevices = Cài đặt các mô-đun PKCS # 11.
 policy-ShowHomeButton = Hiển thị nút trang chủ trên thanh công cụ.
 policy-SSLVersionMax = Chỉnh phiên bản SSL tối đa.
 policy-SSLVersionMin = Chỉnh phiên bản SSL tối thiểu.
+policy-StartDownloadsInTempDirectory = Buộc bắt đầu tải xuống ở một vị trí cục bộ, tạm thời thay vì thư mục tải xuống mặc định.
 policy-SupportMenu = Thêm một mục menu hỗ trợ tùy chỉnh vào menu trợ giúp.
 policy-UserMessaging = Không hiển thị một số thông điệp nhất định cho người dùng.
+policy-UseSystemPrintDialog = In bằng hộp thoại in hệ thống.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Chặn các trang web không được truy cập. Xem tài liệu để biết thêm chi tiết về định dạng.
 policy-Windows10SSO = Cho phép Windows đăng nhập một lần cho tài khoản Microsoft, cơ quan và trường học.
