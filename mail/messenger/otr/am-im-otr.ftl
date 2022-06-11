@@ -5,6 +5,7 @@
 account-encryption =
     .label = Ende-zu-Ende-Verschlüsselung
 account-otr-label = Off-the-Record-Kommunikation (OTR)
+account-otr-description2 = { -brand-short-name } unterstützt Ende-zu-Ende-Verschlüsselung für 1:1-Gespräche mittels OTR. Damit wird das Abhören eines Gesprächs durch Andere verhindert. Diese Art der Ende-zu-Ende-Verschlüsselung kann nur verwendet werden, falls die andere Person ebenfalls Software verwendet, welche OTR unterstützt.
 otr-encryption-title = Bestätigte Verschlüsselungen
 otr-encryption-caption = Um gegenüber Anderen in OTR-Chats Ihre Identität zu bestätigen, müssen Sie Ihren OTR-Fingerabdruck über einen anderen Kommunikationskanal (out-of-band) teilen.
 otr-fingerprint-label = Ihr Fingerabdruck:

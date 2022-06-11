@@ -235,6 +235,16 @@ key-notification-resolve =
     .accesskey = B
     .tooltiptext = OpenPGP-Schlüsselassistenten öffnen
 
+can-encrypt-smime-notification =
+    S/MIME-Ende-zu-Ende-Verschlüsselung verfügbar
+
+can-encrypt-openpgp-notification =
+    OpenPGP-Ende-zu-Ende-Verschlüsselung verfügbar
+
+can-e2e-encrypt-button =
+    .label = Verschlüsseln
+    .accesskey = V
+
 # Addressing Area
 
 to-address-row-label =
@@ -401,7 +411,7 @@ cloud-file-template-download-limit = Maximale Downloadanzahl:
 # Messages
 
 # $provider (string) - name of the online storage service that reported the error
-cloud-file-connection-error-title = Connection Error
+cloud-file-connection-error-title = Verbindungsfehler
 cloud-file-connection-error = { -brand-short-name } ist offline. Es konnte keine Verbindung mit { $provider } hergestellt werden.
 
 # $provider (string) - name of the online storage service that reported the error

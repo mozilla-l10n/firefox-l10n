@@ -20,6 +20,7 @@ openpgp-view-your-encryption-key =
 openpgp-openpgp = OpenPGP
 
 openpgp-no-sig = Keine digitale Unterschrift
+openpgp-no-sig-info = Diese Nachricht besitzt keine digitale Unterschrift des Absenders. Des Fehlen einer digitalen Unterschrift bedeutet, dass die Nachricht auch von jemandem gesendet worden sein kann, der vorgibt, diese E-Mail-Adresse zu besitzen. Die Nachricht kann auch während des Transports vom Absender zum Empfänger verändert worden sein.
 openpgp-uncertain-sig = Nicht gesicherte digitale Unterschrift
 openpgp-invalid-sig = Ungültige digitale Unterschrift
 openpgp-good-sig = Gute digitale Unterschrift
@@ -38,6 +39,17 @@ openpgp-sig-key-id-with-subkey-id = Schlüssel-ID der digitalen Unterschrift: { 
 
 openpgp-enc-key-id = Ihr Schlüssel für Entschlüsselung: { $key }
 openpgp-enc-key-with-subkey-id = Ihre Schlüssel-ID für Entschlüsselung: { $key } (Unterschlüssel-ID: { $subkey })
+
+openpgp-enc-none = Nachricht ist nicht verschlüsselt
+openpgp-enc-none-label = Die Nachricht wurde vor dem Senden nicht verschlüsselt. Unverschlüsselt über das Internet gesendete Informationen können von anderen Personen während des Transport gelesen werden.
+
+openpgp-enc-invalid-label = Nachricht kann nicht entschlüsselt werden
+openpgp-enc-invalid = Die Nachricht wurde vor dem Senden verschlüsselt, aber sie kann nicht entschlüsselt werden.
+
+openpgp-enc-clueless = Es sind unbekannte Probleme mit dieser verschlüsselten Nachricht aufgetreten.
+
+openpgp-enc-valid-label = Nachricht ist verschlüsselt
+openpgp-enc-valid = Die Nachricht wurde vor dem Senden verschlüsselt. Die Verschlüsselung stellt sicher, dass die Nachricht nur von den beabsichtigten Empfängern gelesen werden kann.
 
 openpgp-unknown-key-id = Unbekannter Schlüssel
 

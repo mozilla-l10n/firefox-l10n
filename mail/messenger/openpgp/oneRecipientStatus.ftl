@@ -26,6 +26,25 @@ openpgp-key-verified = Akzeptiert (verifiziert)
 openpgp-key-unverified = Akzeptiert (nicht verifiziert)
 openpgp-key-undecided = Nicht akzeptiert (nicht entschieden)
 openpgp-key-rejected = Nicht akzeptiert (abgelehnt)
+openpgp-key-expired = Abgelaufen
 
 openpgp-intro = Verfügbare öffentliche Schlüssel für { $key }
 
+openpgp-pubkey-import-id = ID: { $kid }
+openpgp-pubkey-import-fpr = Fingerabdruck: { $fpr }
+
+openpgp-pubkey-import-intro =
+    { $num ->
+      [one] Die Datei enthält den unten aufgeführten öffentlichen Schlüssel:
+      *[other] Die Datei enthält {$num} unten aufgeführte öffentliche Schlüssel:
+    }
+
+openpgp-pubkey-import-accept =
+    { $num ->
+      [one] Soll dieser Schlüssel für das Verifizieren digitaler Unterschriften und das Verschlüsseln von Nachrichten für alle genannten E-Mail-Adressen akzeptiert werden?
+      *[other] Sollen diese Schlüssel für das Verifizieren digitaler Unterschriften und das Verschlüsseln von Nachrichten für alle genannten E-Mail-Adressen akzeptiert werden?
+    }
+
+pubkey-import-button =
+    .buttonlabelaccept = Importieren
+    .buttonaccesskeyaccept = m

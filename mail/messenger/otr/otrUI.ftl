@@ -8,7 +8,6 @@ auth-label = Identität Ihres Kontaktes bestätigen
 reauth-label = Identität Ihres Kontaktes erneut bestätigen
 
 auth-cancel = Abbrechen
-
 auth-cancel-access-key = b
 
 auth-error = Beim Bestätigen der Identität Ihres Kontaktes trat ein Fehler auf.
@@ -18,8 +17,10 @@ auth-fail = Bestätigung der Identität Ihres Kontaktes fehlgeschlagen.
 auth-waiting = Warten auf Abschluss der Bestätigung durch den Kontakt…
 
 finger-verify = Bestätigen
-
 finger-verify-access-key = B
+
+finger-ignore = Ignorieren
+finger-ignore-access-key = g
 
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = OTR-Fingerabdruck hinzufügen
@@ -45,14 +46,19 @@ finger-unseen = Die Identität von { $name } wurde noch nicht bestätigt. Einfac
 finger-seen={ $name } kontaktiert Sie von einem unbekannten Gerät. Einfaches Abhören ist nicht möglich, sondern benötigt etwas Aufwand. Verhindern Sie Überwachung, indem Sie die Identität des Kontaktes bestätigen.
 
 state-not-private = Das derzeitige Gespräch ist nicht privat.
+state-generic-not-private = Das derzeitige Gespräch ist nicht privat.
 
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-unverified = Das derzeitige Gespräch ist verschlüsselt aber nicht privat, da die Identität von { $name } nicht bestätigt wurde.
 
+state-generic-unverified = Das derzeitige Gespräch ist verschlüsselt aber nicht privat, da einige Identitäten noch nicht bestätigt wurden.
+
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-private = Die Identität von { $name } wurde bestätigt. Das derzeitige Gespräch ist verschlüsselt und privat.
+
+state-generic-private = Das derzeitige Gespräch ist verschlüsselt und privat.
 
 # Variables:
 #   $name (String) - the screen name of a chat contact person

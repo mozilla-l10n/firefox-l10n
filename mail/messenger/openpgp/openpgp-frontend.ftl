@@ -63,3 +63,4 @@ openpgp-reminder-partial-display = Erinnerung: Die unten angezeigt Nachricht ist
 openpgp-partial-verify-button = Verifizieren
 openpgp-partial-decrypt-button = Entschlüsseln
 
+openpgp-unexpected-key-for-you = Warnung: Diese Nachricht enthält einen unbekannten OpenPGP-Schlüssel, der einer Ihrer eigenen E-Mail-Adressen zugeordnet ist. Falls dies keiner Ihrer eigenen Schlüssel ist, so kann dies ein Versuch sein, die anderen Gesprächsteilnehmer zu täuschen.
