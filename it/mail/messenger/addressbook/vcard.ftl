@@ -3,6 +3,12 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+# Display Name
+
+vcard-displayname = Nome visualizzato
+vcard-displayname-placeholder =
+    .placeholder = { vcard-displayname }
+
 # Type selection
 
 vcard-entry-type-label = Tipo
@@ -35,8 +41,7 @@ vcard-n-add-suffix =
 vcard-email-header = Indirizzi email
 vcard-email-add = Aggiungi indirizzo email
 vcard-email-label = Indirizzo email
-vcard-email-choose-primary = Predefinito
-    .aria-label = Scegli l’indirizzo email predefinito
+vcard-primary-email-label = Predefinita
 
 # URL vCard field
 
@@ -54,3 +59,42 @@ vcard-tel-label = Numero di telefono
 
 vcard-tz-header = Fuso orario
 vcard-tz-add = Aggiungi fuso orario
+
+# IMPP vCard field
+
+vcard-impp-header = Account di chat
+vcard-impp-add = Aggiungi account di chat
+vcard-impp-label = Account di chat
+
+# BDAY and ANNIVERSARY vCard field
+
+vcard-bday-anniversary-header = Date speciali
+vcard-bday-label = Compleanno
+vcard-anniversary-label = Anniversario
+vcard-date-day = Giorno
+vcard-date-month = Mese
+vcard-date-year = Anno
+
+# ADR vCard field
+
+vcard-adr-header = Indirizzi
+vcard-adr-add = Aggiungi indirizzo
+vcard-adr-label = Indirizzo
+vcard-adr-delivery-label = Etichetta di consegna
+vcard-adr-pobox = Casella postale
+vcard-adr-ext = Indirizzo esteso
+vcard-adr-street = Indirizzo
+# Or "Locality"
+vcard-adr-locality = Città
+vcard-adr-country = Nazione
+
+# NOTE vCard field
+
+vcard-note-header = Note
+vcard-note-add = Aggiungi nota
+
+# TITLE, ROLE and ORGANIZATION vCard fields
+
+vcard-org-title = Titolo
+vcard-org-role = Ruolo
+vcard-org-org = Organizzazione

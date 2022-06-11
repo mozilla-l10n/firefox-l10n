@@ -56,9 +56,28 @@ openpgp-key-assistant-this-key-accepted-expired = Questa chiave era stata preced
 openpgp-key-assistant-key-unaccepted-expired-one = La chiave è scaduta il { $date }.
 openpgp-key-assistant-key-unaccepted-expired-many = Sono scadute più chiavi.
 openpgp-key-assistant-key-fingerprint = Impronta digitale
+openpgp-key-assistant-key-collected-attachment = allegato email
+openpgp-key-assistant-key-collected-keyserver = keyserver
+openpgp-key-assistant-keys-has-collected =
+    { $count ->
+        [one] È stata trovata una chiave, ma non è stata ancora accettata.
+       *[other] Sono state trovate più chiavi, ma nessuna è stata ancora accettata.
+    }
+openpgp-key-assistant-key-rejected = Questa chiave è stata precedentemente rifiutata.
 
 ## Discovery section
 
 
 ## Dialog buttons
 
+openpgp-key-assistant-import-keys-button = Importa chiavi pubbliche da file…
+openpgp-key-assistant-issue-resolve-button = Risolvi…
+openpgp-key-assistant-view-key-button = Visualizza chiave…
+openpgp-key-assistant-recipients-show-button = Mostra
+openpgp-key-assistant-recipients-hide-button = Nascondi
+openpgp-key-assistant-cancel-button = Annulla
+openpgp-key-assistant-back-button = Indietro
+openpgp-key-assistant-accept-button = Accetta
+openpgp-key-assistant-close-button = Chiudi
+openpgp-key-assistant-disable-button = Disattiva crittografia
+openpgp-key-assistant-confirm-button = Invia crittato
