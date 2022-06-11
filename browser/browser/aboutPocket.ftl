@@ -12,7 +12,7 @@
 pocket-panel-saved-add-tags =
     .placeholder = ট্যাগসমূহ যোগ করুন
 pocket-panel-saved-error-generic = { -pocket-brand-name } এ সংরক্ষণ করতে ত্রুটি ঘটেছে।
-pocket-panel-saved-error-tag-length = ট্যাগ সমূহ 25 অক্ষরের মধ্যে সীমাবদ্ধ
+pocket-panel-saved-error-tag-length = ট্যাগ 25টি অক্ষরের মধ্যে সীমাবদ্ধ
 pocket-panel-saved-error-only-links = শুধু লিঙ্ক সংরক্ষণ করা যাবে
 pocket-panel-saved-error-not-saved = পাতা সংরক্ষণ করা হয়নি
 pocket-panel-saved-page-removed = পাতা অপসারণ করা হয়েছে
