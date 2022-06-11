@@ -15,6 +15,7 @@ openpgp-key-assistant-recipients-issue-description =
         [one] Para criptografar, você deve obter e aceitar uma chave usável de um destinatário. <a data-l10n-name="openpgp-link">Saiba mais…</a>
        *[other] Para criptografar, você deve obter e aceitar chaves usáveis de { $count } destinatários. <a data-l10n-name="openpgp-link">Saiba mais…</a>
     }
+openpgp-key-assistant-info-alias = Normalmente o { -brand-short-name } exige que a chave pública do destinatário contenha um ID de usuário com um endereço de email correspondente. Isso pode ser alterado usando regras de sinônimos de destinatário OpenPGP. <a data-l10n-name="openpgp-link">Saiba mais…</a>
 # Variables:
 # $count (Number) - The number of recipients that need attention.
 openpgp-key-assistant-recipients-description =
@@ -87,9 +88,18 @@ openpgp-key-assistant-discover-title = Descoberta online em andamento.
 # Variables:
 # $recipient (String) - The email address which we're discovering keys.
 openpgp-key-assistant-discover-keys = Descobrindo chaves de { $recipient }…
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-expired-key-update =
+    Foi encontrada uma atualização de uma das chaves de { $recipient } aceitas anteriormente.
+    Ela pode ser usada agora, pois não está mais expirada.
 
 ## Dialog buttons
 
+openpgp-key-assistant-discover-online-button = Descobrir chaves públicas online…
+openpgp-key-assistant-import-keys-button = Importar chaves públicas de arquivo…
+openpgp-key-assistant-issue-resolve-button = Resolver…
+openpgp-key-assistant-view-key-button = Exibir chave…
 openpgp-key-assistant-recipients-show-button = Exibir
 openpgp-key-assistant-recipients-hide-button = Ocultar
 openpgp-key-assistant-cancel-button = Cancelar
