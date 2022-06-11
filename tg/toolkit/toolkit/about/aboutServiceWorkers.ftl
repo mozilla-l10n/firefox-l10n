@@ -5,8 +5,8 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
-about-service-workers-title = Дар бораи коркунони хизматрасонӣ
-about-service-workers-main-title = Коркунони хизматрасонии бақайдгирифташуда
+about-service-workers-title = Дар бораи коргузорони хизматрасонӣ
+about-service-workers-main-title = Коргузорони хизматрасонии бақайдгирифташуда
 
 ## These strings are for showing the information of workers.
 ##
@@ -16,8 +16,5 @@ about-service-workers-main-title = Коркунони хизматрасонии
 
 # This term is used as a button label (verb, not noun).
 update-button = Навсозӣ кардан
-
 unregister-button = Аз қайд гирифтан
-
-unregister-error = Ин коркуни хизматрасонӣ аз қайд гирифта нашуд.
-
+unregister-error = Ин коргузори хизматрасонӣ аз қайд гирифта нашуд.
