@@ -113,8 +113,10 @@ policy-SecurityDevices = PKCS #11-modules ynstallearje.
 policy-ShowHomeButton = De startsideknop op de arkbalke toane.
 policy-SSLVersionMax = De maksimale SSL-ferzje ynstelle.
 policy-SSLVersionMin = De minimale SSL-ferzje ynstelle.
+policy-StartDownloadsInTempDirectory = Oftwinge dat downloads starte yn in lokale, tydlike lokaasje yn stee fan de standert downloadmap.
 policy-SupportMenu = In oanpast menu-item foar stipe oan it menu Help tafoegje.
 policy-UserMessaging = Bepaalde berjochten net oan de brûker toane.
+policy-UseSystemPrintDialog = Ofdrukke fia it systeemdialoochfienster fan it systeem.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = It besykjen fan websites blokkearje. Sjoch de dokumintaasje foar mear ynformaasje oer de notaasje.
 policy-Windows10SSO = Windows-single-sign-on tastean foar Microsoft- wurk- en skoalle-accounts.
