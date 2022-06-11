@@ -202,6 +202,11 @@ key-notification-resolve =
     .label = Rozeznawaś…
     .accesskey = R
     .tooltiptext = Klucowy asistent OpenPGP wócyniś
+can-encrypt-smime-notification = Koděrowanje kóńc do kóńca S/MIME jo móžne.
+can-encrypt-openpgp-notification = Koděrowanje kóńc do kóńca OpenPGP jo móžne.
+can-e2e-encrypt-button =
+    .label = Koděrowaś
+    .accesskey = K
 
 ## Addressing Area
 

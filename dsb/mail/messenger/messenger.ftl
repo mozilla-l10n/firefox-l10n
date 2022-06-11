@@ -129,6 +129,10 @@ message-header-msg-flagged =
     .aria-label = Z gwězdku
 message-header-msg-not-flagged =
     .title = Powěsć bźez gwězdki
+# Variables:
+# $address (String) - The email address of the recipient this picture belongs to.
+message-header-recipient-avatar =
+    .alt = Profilowy wobraz { $address }.
 
 ## Message header cutomize panel
 
@@ -142,6 +146,16 @@ message-header-button-style-text =
     .label = Tekst
 message-header-button-style-icons =
     .label = Symbole
+message-header-show-sender-full-address =
+    .label = Pśecej dopołnu adresu wótpósłarja pokazaś
+    .accesskey = d
+message-header-show-sender-full-address-description = E-mailowa adresa se pód zwobraznjeńskim mjenim pokažo.
+message-header-show-recipient-avatar =
+    .label = Profilowy wobraz wótpósłarja pokazaś
+    .accesskey = P
+message-header-hide-label-column =
+    .label = Słup pópisanjow schowaś
+    .accesskey = u
 message-header-large-subject =
     .label = Wjelika tema
     .accesskey = l
@@ -154,13 +168,6 @@ toolbar-context-menu-manage-extension =
 toolbar-context-menu-remove-extension =
     .label = Rozšyrjenje wótwónoźeś
     .accesskey = t
-
-## Message headers
-
-message-header-address-in-address-book-icon =
-    .alt = Adresa jo w adresniku
-message-header-address-not-in-address-book-icon =
-    .alt = Adresa njejo w adresniku
 
 ## Add-on removal warning
 
@@ -218,12 +225,6 @@ spaces-context-new-window-item =
 # $tabName (String) - The name of the tab this item will switch to.
 spaces-context-switch-tab-item =
     .label = K { $tabName } pśejś
-settings-context-open-settings-item =
-    .label = Nastajenja wócyniś
-settings-context-open-account-settings-item =
-    .label = Kontowe nastajenja wócyniś
-settings-context-open-addons-item =
-    .label = Dodanki a drastwy wócyniś
 settings-context-open-settings-item2 =
     .label = Nastajenja
 settings-context-open-account-settings-item2 =
