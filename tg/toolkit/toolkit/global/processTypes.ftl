@@ -22,7 +22,7 @@ process-type-file = Файли маҳаллӣ
 process-type-webisolated = Муҳтавои ҷудошудаи сомона
 # process used to isolate a ServiceWorker to improve
 # performance
-process-type-webserviceworker = Коркуни хизматрасонии ҷудокардашуда
+process-type-webserviceworker = Коргузори хизматрасонии ҷудокардашуда
 # process preallocated; may change to other types
 process-type-prealloc = Пешакӣ ҷойгиршуда
 

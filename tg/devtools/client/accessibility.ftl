@@ -6,9 +6,16 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = Маълумоти бештар
+accessibility-keyboard-header = Клавиатура
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
+accessibility-warning =
+    .alt = Огоҳӣ
+accessibility-fail =
+    .alt = Хато
+accessibility-best-practices =
+    .alt = Таҷрибаҳои беҳтарин
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has an accessibility issue
