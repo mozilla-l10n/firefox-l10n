@@ -7,9 +7,25 @@ openpgp-key-assistant-title = OpenPGP kaaiassistint
 ## Encryption status
 
 openpgp-key-assistant-recipients-issue-header = Fersiferjen net mooglik
+# Variables:
+# $count (Number) - The number of recipients that need attention.
+openpgp-key-assistant-recipients-description =
+    { $count ->
+        [one] Jo hawwe al in brûkbere en akseptearre kaai foar ien ûntfanger.
+       *[other] Jo hawwe al brûkbere en akseptearre kaaien foar { $count } ûntfangers.
+    }
+openpgp-key-assistant-recipients-description-no-issues = Dit berjocht kin fersifere wurde. Jo hawwe brûkbere en akseptearre kaaien foar alle ûntfangers.
 
 ## Resolve section
 
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+# $numKeys (Number) - The number of keys.
+openpgp-key-assistant-resolve-title =
+    { $numKeys ->
+        [one] { -brand-short-name } hat de folgjende kaai fûn foar { $recipient }.
+       *[other] { -brand-short-name } hat de folgjende kaaien fûn foar { $recipient }.
+    }
 openpgp-key-assistant-valid-description = Selektearje de kaai dy’t jo akseptearje wolle
 # Variables:
 # $numKeys (Number) - The number of available keys.
@@ -45,8 +61,19 @@ openpgp-key-assistant-key-source =
        *[other] Boarnen
     }
 openpgp-key-assistant-key-collected-attachment = e-mailbylage
+openpgp-key-assistant-key-collected-autocrypt = Koptekst automatysk fersiferje
 openpgp-key-assistant-key-collected-keyserver = kaaiserver
 openpgp-key-assistant-key-collected-wkd = Webkaaimap
+openpgp-key-assistant-keys-has-collected =
+    { $count ->
+        [one] In kaai is fûn, mar dy is noch net akseptearre.
+       *[other] Meardere kaaien binne fûn, mar net ien derfan is al akseptearre.
+    }
+openpgp-key-assistant-key-rejected = Dizze kaai is earder ôfwiisd.
+openpgp-key-assistant-key-accepted-other = Dizze kaai is earder akseptearre foar in oar e-mailadres.
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+openpgp-key-assistant-resolve-discover-info = Untdek online ekstra of bywurke kaaien foar { $recipient }, of ymportearje se út in bestân.
 
 ## Discovery section
 
@@ -54,6 +81,11 @@ openpgp-key-assistant-discover-title = Online ûntdekking dwaande.
 # Variables:
 # $recipient (String) - The email address which we're discovering keys.
 openpgp-key-assistant-discover-keys = Kaaien ûntdekke foar { $recipient }…
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-expired-key-update =
+    Der is in fernijing fûn foar ien fan de earder akseptearre kaaien foar { $recipient }.
+    It kin no brûkt wurde omdat it net langer ferrûn is.
 
 ## Dialog buttons
 
