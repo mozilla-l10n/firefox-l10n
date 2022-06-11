@@ -292,6 +292,7 @@ theme-disabled-heading = Disabled
 theme-disabled-heading2 = Saved Themes
 theme-monochromatic-heading = Colourways
 theme-monochromatic-subheading = Vibrant new colourways from { -brand-product-name }. Available for a limited time.
+theme-colorways-button = Try Colourways
 plugin-enabled-heading = Enabled
 plugin-disabled-heading = Disabled
 dictionary-enabled-heading = Enabled
