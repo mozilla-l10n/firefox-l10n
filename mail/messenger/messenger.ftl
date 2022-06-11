@@ -124,6 +124,10 @@ message-header-msg-flagged =
 message-header-msg-not-flagged =
     .title = Không gắn sao
     .aria-label = Không gắn sao
+# Variables:
+# $address (String) - The email address of the recipient this picture belongs to.
+message-header-recipient-avatar =
+    .alt = Ảnh hồ sơ của { $address }.
 
 ## Message header cutomize panel
 
@@ -137,6 +141,16 @@ message-header-button-style-text =
     .label = Văn bản
 message-header-button-style-icons =
     .label = Biểu tượng
+message-header-show-sender-full-address =
+    .label = Luôn hiển thị địa chỉ đầy đủ của người gửi
+    .accesskey = f
+message-header-show-sender-full-address-description = Địa chỉ email sẽ được hiển thị bên dưới tên hiển thị.
+message-header-show-recipient-avatar =
+    .label = Hiển thị ảnh hồ sơ của người gửi
+    .accesskey = P
+message-header-hide-label-column =
+    .label = Ẩn cột nhãn
+    .accesskey = l
 message-header-large-subject =
     .label = Chủ đề lớn
     .accesskey = s
@@ -149,13 +163,6 @@ toolbar-context-menu-manage-extension =
 toolbar-context-menu-remove-extension =
     .label = Xóa tiện ích mở rộng
     .accesskey = v
-
-## Message headers
-
-message-header-address-in-address-book-icon =
-    .alt = Địa chỉ có trong sổ địa chỉ
-message-header-address-not-in-address-book-icon =
-    .alt = Địa chỉ không có trong sổ địa chỉ
 
 ## Add-on removal warning
 
@@ -213,12 +220,6 @@ spaces-context-new-window-item =
 # $tabName (String) - The name of the tab this item will switch to.
 spaces-context-switch-tab-item =
     .label = Chuyển sang { $tabName }
-settings-context-open-settings-item =
-    .label = Mở cài đặt
-settings-context-open-account-settings-item =
-    .label = Mở cài đặt tài khoản
-settings-context-open-addons-item =
-    .label = Mở tiện ích mở rộng và chủ đề
 settings-context-open-settings-item2 =
     .label = Cài đặt
 settings-context-open-account-settings-item2 =
