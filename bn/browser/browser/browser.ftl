@@ -107,7 +107,7 @@ urlbar-tip-icon-description =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
-urlbar-search-tips-onboard = কম লিখে, বেশি অনুসন্ধান ফলাফল পান: ঠিকানাদণ্ড থেকেই { $engineName } খুঁজুন।
+urlbar-search-tips-onboard = কম লিখে, বেশি ফলাফল পান: ঠিকানাদণ্ড থেকেই { $engineName }-এ খুঁজুন।
 urlbar-search-tips-redirect-2 = আপনার ব্রাউজিং ইতিহাস এবং { $engineName } থেকে পরামর্শ দেখতে ঠিকানাদণ্ডে আপনার অনুসন্ধান শুরু করুন।
 
 ## Local search mode indicator labels in the urlbar
@@ -543,7 +543,7 @@ navbar-accessibility-indicator =
 tabs-toolbar =
     .aria-label = ব্রাউজার ট্যাব
 tabs-toolbar-new-tab =
-    .label = নতুন ট্যাব T
+    .label = নতুন ট্যাব
 tabs-toolbar-list-all-tabs =
     .label = সব ট্যাবের তালিকা
     .tooltiptext = সব ট্যাবের তালিকা
