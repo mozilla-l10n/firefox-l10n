@@ -26,6 +26,8 @@ about-addressbook-books-context-properties =
     .label = Ιδιότητες
 about-addressbook-books-context-synchronize =
     .label = Συγχρονισμός
+about-addressbook-books-context-edit =
+    .label = Επεξεργασία
 about-addressbook-books-context-print =
     .label = Εκτύπωση…
 about-addressbook-books-context-export =
@@ -53,8 +55,6 @@ about-addressbook-search =
     .placeholder = Αναζήτηση σε { $name }
 about-addressbook-search-all =
     .placeholder = Αναζήτηση σε όλα τα ευρετήρια
-about-addressbook-sort-button =
-    .title = Αλλαγή σειράς λίστας
 about-addressbook-name-format-display =
     .label = Εμφανιζόμενο όνομα
 about-addressbook-name-format-firstlast =
@@ -148,6 +148,10 @@ about-addressbook-confirm-delete-contacts =
        *[other] Θέλετε σίγουρα να διαγράψετε αυτές τις { $count } επαφές;
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+
 ## Details
 
 about-addressbook-write-action-button = Σύνταξη
@@ -160,8 +164,6 @@ about-addressbook-save-edit-contact-button = Αποθήκευση
 about-addressbook-add-contact-to = Προσθήκη σε:
 about-addressbook-details-email-addresses-header = Διευθύνσεις email
 about-addressbook-details-phone-numbers-header = Αριθμοί τηλεφώνου
-about-addressbook-details-home-address-header = Διεύθυνση οικίας
-about-addressbook-details-work-address-header = Διεύθυνση εργασίας
 about-addressbook-details-addresses-header = Διευθύνσεις
 about-addressbook-details-notes-header = Σημειώσεις
 about-addressbook-details-other-info-header = Άλλες πληροφορίες
@@ -173,7 +175,6 @@ about-addressbook-entry-name-birthday = Γενέθλια
 about-addressbook-entry-name-anniversary = Επέτειος
 about-addressbook-entry-name-title = Τίτλος
 about-addressbook-entry-name-role = Ρόλος
-about-addressbook-entry-name-department = Τμήμα
 about-addressbook-entry-name-website = Ιστότοπος
 about-addressbook-entry-name-time-zone = Ζώνη ώρας
 about-addressbook-unsaved-changes-prompt-title = Μη αποθηκευμένες αλλαγές
