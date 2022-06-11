@@ -26,6 +26,8 @@ about-addressbook-books-context-properties =
     .label = Properties
 about-addressbook-books-context-synchronize =
     .label = Synchronise
+about-addressbook-books-context-edit =
+    .label = Edit
 about-addressbook-books-context-print =
     .label = Print…
 about-addressbook-books-context-export =
@@ -53,8 +55,8 @@ about-addressbook-search =
     .placeholder = Search { $name }
 about-addressbook-search-all =
     .placeholder = Search all address books
-about-addressbook-sort-button =
-    .title = Change the list order
+about-addressbook-sort-button2 =
+    .title = List display options
 about-addressbook-name-format-display =
     .label = Display Name
 about-addressbook-name-format-firstlast =
@@ -154,6 +156,10 @@ about-addressbook-confirm-delete-contacts =
        *[other] Are you sure you want to delete these { $count } contacts?
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+
 ## Details
 
 about-addressbook-write-action-button = Write
@@ -166,8 +172,6 @@ about-addressbook-save-edit-contact-button = Save
 about-addressbook-add-contact-to = Add to:
 about-addressbook-details-email-addresses-header = Email Addresses
 about-addressbook-details-phone-numbers-header = Phone Numbers
-about-addressbook-details-home-address-header = Home Address
-about-addressbook-details-work-address-header = Work Address
 about-addressbook-details-addresses-header = Addresses
 about-addressbook-details-notes-header = Notes
 about-addressbook-details-other-info-header = Other Information
@@ -180,7 +184,6 @@ about-addressbook-entry-name-birthday = Birthday
 about-addressbook-entry-name-anniversary = Anniversary
 about-addressbook-entry-name-title = Title
 about-addressbook-entry-name-role = Role
-about-addressbook-entry-name-department = Department
 about-addressbook-entry-name-organization = Organisation
 about-addressbook-entry-name-website = Web site
 about-addressbook-entry-name-time-zone = Time Zone
