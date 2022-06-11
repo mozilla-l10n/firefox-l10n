@@ -22,10 +22,10 @@ openpgp-key-assistant-info-alias = { -brand-short-name } sej normalnje wužaduje
 # $count (Number) - The number of recipients that need attention.
 openpgp-key-assistant-recipients-description =
     { $count ->
-        [one] Maće hižo wužiwajomny a akcepotwany kluč za { $count } přijimarja.
-        [two] Maće hižo wužiwajomny a akcepotwany kluč za { $count } přijimarjow.
-        [few] Maće hižo wužiwajomny a akcepotwany kluč za { $count } přijimarjow.
-       *[other] Maće hižo wužiwajomny a akcepotwany kluč za { $count } přijimarjow.
+        [one] Maće hižo wužiwajomny a akceptowany kluč za { $count } přijimarja.
+        [two] Maće hižo wužiwajomny a akceptowany kluč za { $count } přijimarjow.
+        [few] Maće hižo wužiwajomny a akceptowany kluč za { $count } přijimarjow.
+       *[other] Maće hižo wužiwajomny a akceptowany kluč za { $count } přijimarjow.
     }
 openpgp-key-assistant-recipients-description-no-issues = Tuta powěsć da so zaklučować. Maće wužiwajomne a akceptowane kluče za wšěch přijimarjow.
 
