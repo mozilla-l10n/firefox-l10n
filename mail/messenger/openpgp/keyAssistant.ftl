@@ -74,9 +74,56 @@ openpgp-key-assistant-this-key-accepted-expired = Toś ten kluc jo se do togo ak
 openpgp-key-assistant-key-unaccepted-expired-one = Kluc jo spadnuł dnja { $date }.
 openpgp-key-assistant-key-unaccepted-expired-many = Někotare kluce su spadnuli.
 openpgp-key-assistant-key-fingerprint = Palcowy wótśišć
+openpgp-key-assistant-key-source =
+    { $count ->
+        [one] Žrědło
+        [two] Žrědle
+        [few] Žrědła
+       *[other] Žrědła
+    }
+openpgp-key-assistant-key-collected-attachment = e-mailowy pśidank
+openpgp-key-assistant-key-collected-autocrypt = Głowu awtomatiski koděrowaś
+openpgp-key-assistant-key-collected-keyserver = klucowy serwer
+openpgp-key-assistant-key-collected-wkd = Zapis webklucow
+openpgp-key-assistant-keys-has-collected =
+    { $count ->
+        [one] $count kluc jo se namakał, ale njejo se hyšći akceptěrował.
+        [two] $count kluca stej se namakałej, ale njejstej se hyšći akceptěrowałej.
+        [few] $count kluce su se namakali, ale njejsu se hyšći akceptěrowali.
+       *[other] $count klucow jo se namakało, ale njejo se hyšći akceptěrowało.
+    }
+openpgp-key-assistant-key-rejected = Toś ten kluc jo se do togo wótpokazał.
+openpgp-key-assistant-key-accepted-other = Toś ten kluc jo se do togo wótpokazał za drugu e-mailowu adresu.
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+openpgp-key-assistant-resolve-discover-info = Pytajśo za pśidatnymi abo zaktualizěrowanymi klucami za { $recipient } online, abo importěrujśo je z dataje.
 
 ## Discovery section
 
+openpgp-key-assistant-discover-title = Pytanje online běžy.
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-discover-keys = Kluce se za { $recipient } namakaju …
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-expired-key-update =
+    Aktualizacija jo se namakała za jaden z do togo akceptěrowanych klucow za { $recipient }.
+    Dajo se něnto wužywaś, dokulaž njejo wěcej spadnjony.
 
 ## Dialog buttons
 
+openpgp-key-assistant-discover-online-button = Zjawne kluce online namakaś…
+openpgp-key-assistant-import-keys-button = Zjawne kluce z dataje importěrowaś…
+openpgp-key-assistant-issue-resolve-button = Rozwězaś…
+openpgp-key-assistant-view-key-button = Kluc pokazaś…
+openpgp-key-assistant-recipients-show-button = Pokazaś
+openpgp-key-assistant-recipients-hide-button = Schowaś
+openpgp-key-assistant-cancel-button = Pśetergnuś
+openpgp-key-assistant-back-button = Slědk
+openpgp-key-assistant-accept-button = Akceptěrowaś
+openpgp-key-assistant-close-button = Zacyniś
+openpgp-key-assistant-disable-button = Koděrowanje znjemóžniś
+openpgp-key-assistant-confirm-button = Skoděrowany pósłaś
+# Variables:
+# $date (String) - The key creation date.
+openpgp-key-assistant-key-created = napórany: { $date }
