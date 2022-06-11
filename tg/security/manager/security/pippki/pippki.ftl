@@ -20,9 +20,15 @@ pippki-pw-change-ok = Ниҳонвожа бо муваффақият иваз к
 pippki-pw-empty-warning = Ниҳонвожаҳо ва калидҳои махфии нигоҳдошташудаи шумо ҳифз карда намешаванд.
 pippki-pw-erased-ok = Шумо ниҳонвожаи худро нест кардед. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Диққат! Шумо ба қарор омадед, ки ниҳонвожаро дигар истифода намебаред. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = Айни ҳол шумо дар реҷаи «FIPS» қарор доред. Реҷаи «FIPS» талаб мекунад, ки ниҳонвожа танзим карда шавад.
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Аз нав танзим кардани ниҳонвожаи асосӣ
+    .style = width: 40em
+reset-password-button-label =
+    .label = Аз нав танзим кардан
 pippki-reset-password-confirmation-title = Аз нав танзим кардани ниҳонвожаи асосӣ
 pippki-reset-password-confirmation-message = Ниҳонвожаи асосии шумо аз нав танзим карда шуд.
 
