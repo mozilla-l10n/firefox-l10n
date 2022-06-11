@@ -69,6 +69,7 @@ vcard-impp-label = Account di chat
 # BDAY and ANNIVERSARY vCard field
 
 vcard-bday-anniversary-header = Date speciali
+vcard-bday-anniversary-add = Aggiungi data speciale
 vcard-bday-label = Compleanno
 vcard-anniversary-label = Anniversario
 vcard-date-day = Giorno
@@ -86,6 +87,10 @@ vcard-adr-ext = Indirizzo esteso
 vcard-adr-street = Indirizzo
 # Or "Locality"
 vcard-adr-locality = Città
+# Or "Region"
+vcard-adr-region = Stato o provincia
+# The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
+vcard-adr-code = Codice postale
 vcard-adr-country = Nazione
 
 # NOTE vCard field
@@ -95,6 +100,8 @@ vcard-note-add = Aggiungi nota
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-header = Proprietà dell’organizzazione
+vcard-org-add = Aggiungi proprietà dell’organizzazione
 vcard-org-title = Titolo
 vcard-org-role = Ruolo
 vcard-org-org = Organizzazione
