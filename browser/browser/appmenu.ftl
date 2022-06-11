@@ -90,6 +90,7 @@ appmenuitem-fxa-toolbar-sync-now2 = এখনই সিঙ্ক করুন
 appmenuitem-fxa-sign-in = { -brand-product-name } এ সাইন ইন করুন
 appmenuitem-fxa-manage-account = অ্যাকাউন্ট পরিচালনা করুন
 appmenu-fxa-sync-and-save-data2 = সিঙ্ক করুন ও উপাত্ত সংরক্ষণ করুন
+appmenu-fxa-signed-in-label = সাইন ইন
 appmenuitem-save-page =
     .label = পাতা নতুনভাবে সংরক্ষণ…
 

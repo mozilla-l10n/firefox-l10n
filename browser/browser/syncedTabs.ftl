@@ -38,3 +38,4 @@ synced-tabs-context-manage-devices =
 synced-tabs-context-sync-now =
     .label = এখন সিঙ্ক
     .accesskey = S
+synced-tabs-fxa-sign-in = সিঙ্ক করতে সাইন ইন করুন
