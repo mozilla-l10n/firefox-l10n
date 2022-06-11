@@ -191,6 +191,8 @@ spaces-context-new-window-item =
 # $tabName (String) - The name of the tab this item will switch to.
 spaces-context-switch-tab-item =
     .label = { $tabName } sekmesine geç
+settings-context-open-settings-item2 =
+    .label = Ayarlar
 
 ## Spaces toolbar pinned tab menupopup
 
