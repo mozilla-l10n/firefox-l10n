@@ -11,9 +11,6 @@ import-start = Import Tool
 import-start-title = Import settings or data from an application or a file.
 import-start-description = Select the source from which you want to import. You will later be asked to choose which data needs to be imported.
 import-from-app = Import from Application
-import-from-app-desc = Choose to import Accounts, Address Books, Calendars, and other data from:
-import-address-book = Import Address Book File
-import-calendar = Import Calendar File
 import-file = Import from a file
 import-file-title = Select a file to import its content.
 import-file-description = Choose to import a previously backed up profile, address books or calendars.
@@ -23,7 +20,6 @@ export-profile = Export
 
 ## Buttons
 
-button-cancel = Cancel
 button-back = Back
 button-continue = Continue
 button-export = Export
@@ -36,14 +32,6 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
-# Variables:
-#   $app (String) - The name of the app to import from
-profiles-pane-title = Import from { $app }
-profiles-pane-desc = Choose the location from which to import
-profile-file-picker-dir = Select a profile folder
-profile-file-picker-zip = Select a zip file (smaller than 2GB)
-items-pane-title = Select what to import
-items-pane-source = Source location:
 source-thunderbird = Import from another { app-name-thunderbird } installation
 source-thunderbird-description = Import settings, filters, messages, and other data from a { app-name-thunderbird } profile.
 source-seamonkey = Import from a { app-name-seamonkey } installation
@@ -96,7 +84,6 @@ items-pane-override = Any existing or identical data will not be overwritten.
 
 ## Import from address book file steps
 
-import-from-addr-book-file-desc = Select the file type you would like to import:
 import-from-addr-book-file-description = Choose the file format containing your Address Book data.
 addr-book-csv-file = Comma or tab separated file (.csv, .tsv)
 addr-book-ldif-file = LDIF file (.ldif)
@@ -106,13 +93,8 @@ addr-book-mab-file = Mork database file (.mab)
 addr-book-file-picker = Select an address book file
 addr-book-csv-field-map-title = Match field names
 addr-book-csv-field-map-desc = Select address book fields corresponding to the source fields. Untick fields you do not want to import.
-addr-book-directories-pane-title = Select the directory you would like to import into:
 addr-book-directories-title = Select where to import the chosen data
 addr-book-directories-pane-source = Source file:
-addr-book-import-into-new-directory = Create a new directory
-
-## Import from address book file steps
-
 # $addressBookName (string) - name of the new address book that would be created.
 addr-book-import-into-new-directory2 = Create a new directory called <strong>"{ $addressBookName }"</strong>
 # $addressBookName (string) - name of the address book to import into
@@ -129,7 +111,6 @@ calendar-items-filter-input =
     .placeholder = Filter items…
 calendar-select-all-items = Select all
 calendar-deselect-all-items = Deselect all
-calendar-import-into-new-calendar = Create a new calendar
 calendar-target-title = Select where to import the chosen items.
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = Create a new calendar called <strong>"{ $targetCalendar }"</strong>
@@ -145,18 +126,12 @@ calendar-summary-description = A new calendar called "{ $targetCalendar }" will 
 
 ## Import dialog
 
-progress-pane-importing = Importing
-progress-pane-exporting = Exporting
-progress-pane-finished-desc = Finished.
-progress-pane-restart-desc = Restart to finish importing.
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-importing2 = Importing… { $progressPercent }
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-exporting2 = Exporting… { $progressPercent }
 progress-pane-finished-desc2 = Complete.
 error-pane-title = Error
-error-message-zip-file-too-big = The selected zip file is larger than 2GB. Please extract it first, then import from the extracted folder instead.
-error-message-extract-zip-file-failed = Failed to extract the zip file. Please extract it manually, then import from the extracted folder instead.
 error-message-zip-file-too-big2 = The selected ZIP file is larger than 2GB. Please extract it first, then import from the extracted folder instead.
 error-message-extract-zip-file-failed2 = Failed to extract the ZIP file. Please extract it manually, then import from the extracted folder instead.
 error-message-failed = Import failed unexpectedly, more information may be available in the Error Console.
@@ -174,12 +149,9 @@ csv-target-field = Address book field
 
 ## Export tab
 
-export-profile-desc = Export mail accounts, mail messages, address books, and settings to a zip file. When needed, you can import the zip file to restore your profile.
-export-profile-desc2 = If your current profile is larger than 2GB, we suggest you back it up by yourself.
 export-profile-title = Export accounts, messages, address books, and settings to a ZIP file.
 export-profile-description = If your current profile is larger than 2GB, we suggest you back it up by yourself.
 export-open-profile-folder = Open profile folder
-export-file-picker = Export to a zip file
 export-file-picker2 = Export to a ZIP file
 export-brand-name = { -brand-product-name }
 
@@ -196,3 +168,12 @@ footer-help = Need help?
 footer-import-documentation = Import documentation
 footer-export-documentation = Export documentation
 footer-support-forum = Support forum
+
+## Step navigation on top of the wizard pages
+
+step-list =
+    .aria-label = Import steps
+step-confirm = Confirm
+# Variables:
+# $number (number) - step number
+step-count = { $number }
