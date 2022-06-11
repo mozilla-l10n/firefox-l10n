@@ -11,9 +11,6 @@ import-start = Công cụ nhập
 import-start-title = Nhập cài đặt hoặc dữ liệu từ ứng dụng hoặc tập tin.
 import-start-description = Chọn nguồn mà bạn muốn nhập. Sau đó, bạn sẽ được yêu cầu chọn dữ liệu nào cần được nhập.
 import-from-app = Nhập từ ứng dụng
-import-from-app-desc = Chọn để nhập tài khoản, sổ địa chỉ, lịch và các dữ liệu khác từ:
-import-address-book = Nhập tập tin sổ địa chỉ
-import-calendar = Nhập tập tin lịch
 import-file = Nhập từ một tập tin
 import-file-title = Chọn một tập tin để nhập nội dung của nó.
 import-file-description = Chọn để nhập hồ sơ, sổ địa chỉ hoặc lịch đã sao lưu trước đó.
@@ -23,7 +20,6 @@ export-profile = Xuất
 
 ## Buttons
 
-button-cancel = Hủy bỏ
 button-back = Quay lại
 button-continue = Tiếp tục
 button-export = Xuất
@@ -36,14 +32,6 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
-# Variables:
-#   $app (String) - The name of the app to import from
-profiles-pane-title = Nhập từ { $app }
-profiles-pane-desc = Chọn vị trí để nhập
-profile-file-picker-dir = Chọn một thư mục hồ sơ
-profile-file-picker-zip = Chọn một tập tin zip (nhỏ hơn 2GB)
-items-pane-title = Chọn những gì để nhập
-items-pane-source = Vị trí nguồn:
 source-thunderbird = Nhập từ cài đặt khác của { app-name-thunderbird }
 source-thunderbird-description = Nhập cài đặt, bộ lọc, thư và dữ liệu khác từ hồ sơ { app-name-thunderbird }.
 source-seamonkey = Nhập từ cài đặt { app-name-seamonkey }
@@ -96,7 +84,6 @@ items-pane-override = Mọi dữ liệu hiện có hoặc giống hệt nhau s�
 
 ## Import from address book file steps
 
-import-from-addr-book-file-desc = Chọn loại tập tin bạn muốn nhập:
 import-from-addr-book-file-description = Chọn định dạng tập tin chứa dữ liệu sổ địa chỉ của bạn.
 addr-book-csv-file = Tệp được phân tách bằng dấu phẩy hoặc tab (.csv, .tsv)
 addr-book-ldif-file = Tập tin LDIF (.ldif)
@@ -106,13 +93,8 @@ addr-book-mab-file = Tập tin cơ sở dữ liệu Mork (.mab)
 addr-book-file-picker = Chọn một tập tin sổ địa chỉ
 addr-book-csv-field-map-title = Khớp tên trường
 addr-book-csv-field-map-desc = Chọn các trường sổ địa chỉ tương ứng với các trường nguồn. Bỏ chọn các trường bạn không muốn nhập.
-addr-book-directories-pane-title = Chọn thư mục bạn muốn nhập vào:
 addr-book-directories-title = Chọn nơi để nhập dữ liệu đã chọn
 addr-book-directories-pane-source = Tập tin nguồn:
-addr-book-import-into-new-directory = Tạo một thư mục mới
-
-## Import from address book file steps
-
 # $addressBookName (string) - name of the new address book that would be created.
 addr-book-import-into-new-directory2 = Tạo một thư mục mới có tên là <strong>"{ $addressBookName }"</strong>
 # $addressBookName (string) - name of the address book to import into
@@ -129,7 +111,6 @@ calendar-items-filter-input =
     .placeholder = Lọc các mục…
 calendar-select-all-items = Chọn tất cả
 calendar-deselect-all-items = Bỏ chọn tất cả
-calendar-import-into-new-calendar = Tạo một lịch mới
 calendar-target-title = Chọn nơi để nhập các mục đã chọn.
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = Tạo lịch mới có tên <strong>"{ $targetCalendar }"</strong>
@@ -144,18 +125,12 @@ calendar-summary-description = Lịch mới có tên "{ $targetCalendar }" sẽ 
 
 ## Import dialog
 
-progress-pane-importing = Đang nhập
-progress-pane-exporting = Đang xuất
-progress-pane-finished-desc = Hoàn tất.
-progress-pane-restart-desc = Khởi động lại để hoàn tất quá trình nhập.
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-importing2 = Đang nhập… { $progressPercent }
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-exporting2 = Đang xuất… { $progressPercent }
 progress-pane-finished-desc2 = Hoàn tất.
 error-pane-title = Lỗi
-error-message-zip-file-too-big = Tập tin zip đã chọn lớn hơn 2GB. Vui lòng giải nén nó trước, sau đó nhập từ thư mục đã giải nén.
-error-message-extract-zip-file-failed = Không giải nén được tập tin zip. Vui lòng giải nén nó theo cách thủ công, sau đó nhập từ thư mục đã giải nén để thay thế.
 error-message-zip-file-too-big2 = Tập tin ZIP đã chọn lớn hơn 2GB. Vui lòng giải nén nó trước, sau đó nhập từ thư mục đã giải nén.
 error-message-extract-zip-file-failed2 = Không giải nén được tập tin ZIP. Vui lòng giải nén nó theo cách thủ công, sau đó nhập từ thư mục đã giải nén để thay thế.
 error-message-failed = Nhập không thành công đột ngột, có thể xem thêm thông tin trong bảng điều khiển.
@@ -173,12 +148,9 @@ csv-target-field = Trường sổ địa chỉ
 
 ## Export tab
 
-export-profile-desc = Xuất tài khoản email, tin nhắn email, sổ địa chỉ, cài đặt sang một tập tin zip. Khi cần, bạn có thể nhập tập tin zip để khôi phục hồ sơ của mình.
-export-profile-desc2 = Nếu hồ sơ hiện tại của bạn lớn hơn 2GB, chúng tôi khuyên bạn nên tự sao lưu hồ sơ đó.
 export-profile-title = Xuất tài khoản, thư, sổ địa chỉ và cài đặt sang tập tin ZIP.
 export-profile-description = Nếu hồ sơ hiện tại của bạn lớn hơn 2GB, chúng tôi khuyên bạn nên tự sao lưu hồ sơ đó.
 export-open-profile-folder = Mở thư mục hồ sơ
-export-file-picker = Xuất sang tập tin zip
 export-file-picker2 = Xuất sang tập tin ZIP
 export-brand-name = { -brand-product-name }
 
@@ -195,3 +167,12 @@ footer-help = Cần trợ giúp?
 footer-import-documentation = Nhập tài liệu
 footer-export-documentation = Xuất tài liệu
 footer-support-forum = Diễn đàn hỗ trợ
+
+## Step navigation on top of the wizard pages
+
+step-list =
+    .aria-label = Các bước nhập
+step-confirm = Xác nhận
+# Variables:
+# $number (number) - step number
+step-count = { $number }
