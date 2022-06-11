@@ -4,7 +4,7 @@
 
 <!ENTITY Window.title        "Mục lục">
 <!ENTITY buildToc.label      "Tạo mục lục từ:">
-<!ENTITY tag.label           "Thẻ:">
+<!ENTITY tag.label           "Nhãn:">
 <!ENTITY class.label         "Lớp:">
 <!ENTITY header1.label       "Cấp 1">
 <!ENTITY header2.label       "Cấp 2">

@@ -3,6 +3,12 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+# Display Name
+
+vcard-displayname = Tên hiển thị
+vcard-displayname-placeholder =
+    .placeholder = { vcard-displayname }
+
 # Type selection
 
 vcard-entry-type-label = Kiểu
@@ -35,8 +41,7 @@ vcard-n-add-suffix =
 vcard-email-header = Địa chỉ email
 vcard-email-add = Thêm địa chỉ email
 vcard-email-label = Địa chỉ email
-vcard-email-choose-primary = Mặc định
-    .aria-label = Chọn địa chỉ email chính của bạn
+vcard-primary-email-label = Mặc định
 
 # URL vCard field
 
@@ -54,3 +59,49 @@ vcard-tel-label = Số điện thoại
 
 vcard-tz-header = Múi giờ
 vcard-tz-add = Thêm múi giờ
+
+# IMPP vCard field
+
+vcard-impp-header = Tài khoản trò chuyện
+vcard-impp-add = Thêm tài khoản trò chuyện
+vcard-impp-label = Tài khoản trò chuyện
+
+# BDAY and ANNIVERSARY vCard field
+
+vcard-bday-anniversary-header = Ngày đặc biệt
+vcard-bday-anniversary-add = Thêm ngày đặc biệt
+vcard-bday-label = Ngày sinh
+vcard-anniversary-label = Ngày kỷ niệm
+vcard-date-day = Ngày
+vcard-date-month = Tháng
+vcard-date-year = Năm
+
+# ADR vCard field
+
+vcard-adr-header = Địa chỉ
+vcard-adr-add = Thêm địa chỉ
+vcard-adr-label = Địa chỉ
+vcard-adr-delivery-label = Nhãn giao hàng
+vcard-adr-pobox = Hộp thư văn phòng
+vcard-adr-ext = Địa chỉ đầy đủ
+vcard-adr-street = Địa chỉ đường phố
+# Or "Locality"
+vcard-adr-locality = Thành phố
+# Or "Region"
+vcard-adr-region = Bang/Tỉnh
+# The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
+vcard-adr-code = ZIP/Mã bưu chính
+vcard-adr-country = Quốc gia
+
+# NOTE vCard field
+
+vcard-note-header = Ghi chú
+vcard-note-add = Thêm ghi chú
+
+# TITLE, ROLE and ORGANIZATION vCard fields
+
+vcard-org-header = Thuộc tính tổ chức
+vcard-org-add = Thêm thuộc tính tổ chức
+vcard-org-title = Tiêu đề
+vcard-org-role = Vai trò
+vcard-org-org = Tổ chức

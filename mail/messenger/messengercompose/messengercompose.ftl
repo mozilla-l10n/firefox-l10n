@@ -180,6 +180,11 @@ key-notification-resolve =
     .label = Giải quyết…
     .accesskey = R
     .tooltiptext = Mở trợ lý khóa OpenPGP
+can-encrypt-smime-notification = Có thể mã hóa đầu cuối S/MIME.
+can-encrypt-openpgp-notification = Có thể mã hóa đầu cuối OpenPGP.
+can-e2e-encrypt-button =
+    .label = Mã hóa
+    .accesskey = E
 
 ## Addressing Area
 
