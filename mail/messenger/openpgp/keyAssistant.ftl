@@ -3,10 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 openpgp-key-assistant-title = Assistente de chaves OpenPGP
+openpgp-key-assistant-rogue-warning = Evite aceitar uma chave falsificada. Para garantir que você obteve a chave correta, você deve verificar. <a data-l10n-name="openpgp-link">Saiba mais…</a>
 
 ## Encryption status
 
 openpgp-key-assistant-recipients-issue-header = Não é possível criptografar
+# Variables:
+# $count (Number) - The number of recipients that need attention.
+openpgp-key-assistant-recipients-issue-description =
+    { $count ->
+        [one] Para criptografar, você deve obter e aceitar uma chave usável de um destinatário. <a data-l10n-name="openpgp-link">Saiba mais…</a>
+       *[other] Para criptografar, você deve obter e aceitar chaves usáveis de { $count } destinatários. <a data-l10n-name="openpgp-link">Saiba mais…</a>
+    }
 # Variables:
 # $count (Number) - The number of recipients that need attention.
 openpgp-key-assistant-recipients-description =
