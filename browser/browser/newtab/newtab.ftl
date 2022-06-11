@@ -7,7 +7,7 @@
 
 newtab-page-title = নতুন ট্যাব
 newtab-settings-button =
-    .title = আপনার নতুন ট্যাব পেজটি কাস্টমাইজ করুন
+    .title = আপনার নতুন ট্যাবের পাতাটি কাস্টমাইজ করুন
 
 ## Search box component.
 
@@ -23,12 +23,10 @@ newtab-topsites-edit-topsites-header = শীর্ষ সাইট সম্প
 newtab-topsites-title-label = শিরোনাম
 newtab-topsites-title-input =
     .placeholder = নাম দিন
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = টাইপ করুন অথবা পেস্ট করুন URL
 newtab-topsites-url-validation = কার্যকর URL প্রয়োজন
-
 newtab-topsites-image-url-label = কাস্টম ছবির URL
 newtab-topsites-use-image-link = কাস্টম ছবি ব্যবহার করুন…
 newtab-topsites-image-validation = ছবি লোড করতে ব্যর্থ। ভিন্ন URL এ চেস্টা করুন।
@@ -49,18 +47,17 @@ newtab-confirm-delete-history-p2 = এই পরিবর্তনটি অপ�
 
 ## Top Sites - Sponsored label
 
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = মেনু খুলুন
     .aria-label = মেনু খুলুন
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = মুছে ফেলুন
     .aria-label = মুছে ফেলুন
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -127,7 +124,6 @@ newtab-label-removed-bookmark = বুকমার্ক মুছে ফেল�
 newtab-label-recommended = ঝোঁক
 newtab-label-saved = { -pocket-brand-name } এ সংরক্ষণ হয়েছে
 newtab-label-download = ডাউনলোড হয়েছে
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
@@ -164,12 +160,10 @@ newtab-section-header-pocket = { $provider } দ্বারা সুপার�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ব্রাউজি করা শুরু করুন, এবং কিছু গুরুত্বপূর্ণ নিবন্ধ, ভিডিও, এবং আপনি সম্প্রতি পরিদর্শন বা বুকমার্ক করেছেন এমন কিছু পৃষ্ঠা আমরা এখানে প্রদর্শন করব।
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = কিছু একটা ঠিক নেই। { $provider } এর শীর্ষ গল্পগুলো পেতে কিছুক্ষণ পর আবার দেখুন। অপেক্ষা করতে চান না? বিশ্বের সেরা গল্পগুলো পেতে কোন জনপ্রিয় বিষয় নির্বাচন করুন।
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -191,6 +185,7 @@ newtab-pocket-cta-text = { -pocket-brand-name } এ আপনার পছন্
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
