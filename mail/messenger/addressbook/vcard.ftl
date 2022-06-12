@@ -85,9 +85,23 @@ vcard-adr-delivery-label = Leveransetikett
 vcard-adr-pobox = Postlåda
 vcard-adr-ext = Utökad adress
 vcard-adr-street = Gatuadress
+# Or "Locality"
+vcard-adr-locality = Postort
+# Or "Region"
+vcard-adr-region = Stat/provins
+# The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
+vcard-adr-code = Postnummer
+vcard-adr-country = Land
 
 # NOTE vCard field
 
+vcard-note-header = Anteckningar
+vcard-note-add = Lägg till anteckning
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-header = Organisatoriska egenskaper
+vcard-org-add = Lägg till organisatoriska egenskaper
+vcard-org-title = Titel
+vcard-org-role = Roll
+vcard-org-org = Organisation

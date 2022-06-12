@@ -191,6 +191,11 @@ key-notification-resolve =
     .label = Lös…
     .accesskey = L
     .tooltiptext = Öppna nyckelassistenten för OpenPGP
+can-encrypt-smime-notification = S/MIME end-to-end kryptering är möjlig.
+can-encrypt-openpgp-notification = OpenPGP end-to-end kryptering är möjlig.
+can-e2e-encrypt-button =
+    .label = Kryptera
+    .accesskey = K
 
 ## Addressing Area
 
