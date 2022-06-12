@@ -47,7 +47,7 @@ about-debugging-sidebar-item-connect-button-connection-failed = সংযোগ 
 # the runtime is taking too much time.
 about-debugging-sidebar-item-connect-button-connection-not-responding = সংযোগটি এখনও অমীমাংসিত, গন্তব্য ব্রাউজারের বার্তাগুলো দেখুন
 # Text displayed as connection error in sidebar item when the connection has timed out.
-about-debugging-sidebar-item-connect-button-connection-timeout = সংযোগের সময় উত্তীর্ণ হয়ে গেছে
+about-debugging-sidebar-item-connect-button-connection-timeout = সংযোগের সময়সীমা উত্তীর্ণ হয়েছে
 # Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.

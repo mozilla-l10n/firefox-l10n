@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = { -pocket-brand-name } এ সংরক্ষ
 pocket-panel-saved-error-tag-length = ট্যাগ 25টি অক্ষরের মধ্যে সীমাবদ্ধ
 pocket-panel-saved-error-only-links = শুধু লিঙ্ক সংরক্ষণ করা যাবে
 pocket-panel-saved-error-not-saved = পাতা সংরক্ষণ করা হয়নি
+pocket-panel-saved-error-no-internet = { -pocket-brand-name }-এ সংরক্ষণ করার জন্য আপনাকে অবশ্যই ইন্টারনেটের সাথে সংযুক্ত থাকতে হবে। অনুগ্রহ করে ইন্টারনেটের সাথে সংযুক্ত হোন ও আবার চেষ্টা করুন।
 pocket-panel-saved-page-removed = পাতা অপসারণ করা হয়েছে
 pocket-panel-saved-page-saved = { -pocket-brand-name } এ সংরক্ষিত হয়েছে
 pocket-panel-saved-processing-remove = পাতা অপসারিত হচ্ছে…
