@@ -125,6 +125,10 @@ message-header-msg-flagged =
     .aria-label = Με αστέρι
 message-header-msg-not-flagged =
     .title = Μήνυμα χωρίς αστέρι
+# Variables:
+# $address (String) - The email address of the recipient this picture belongs to.
+message-header-recipient-avatar =
+    .alt = Εικόνα προφίλ του { $address }.
 
 ## Message header cutomize panel
 
@@ -138,6 +142,9 @@ message-header-button-style-text =
     .label = Κείμενο
 message-header-button-style-icons =
     .label = Εικονίδια
+message-header-hide-label-column =
+    .label = Απόκρυψη στήλης ετικετών
+    .accesskey = π
 message-header-large-subject =
     .label = Μεγάλο θέμα
     .accesskey = γ
@@ -150,13 +157,6 @@ toolbar-context-menu-manage-extension =
 toolbar-context-menu-remove-extension =
     .label = Αφαίρεση επέκτασης
     .accesskey = φ
-
-## Message headers
-
-message-header-address-in-address-book-icon =
-    .alt = Η διεύθυνση βρίσκεται στο ευρετήριο
-message-header-address-not-in-address-book-icon =
-    .alt = Η διεύθυνση δεν βρίσκεται στο ευρετήριο
 
 ## Add-on removal warning
 
@@ -214,12 +214,6 @@ spaces-context-new-window-item =
 # $tabName (String) - The name of the tab this item will switch to.
 spaces-context-switch-tab-item =
     .label = Εναλλαγή σε { $tabName }
-settings-context-open-settings-item =
-    .label = Άνοιγμα ρυθμίσεων
-settings-context-open-account-settings-item =
-    .label = Άνοιγμα ρυθμίσεων λογαριασμού
-settings-context-open-addons-item =
-    .label = Άνοιγμα προσθέτων και θεμάτων
 settings-context-open-settings-item2 =
     .label = Ρυθμίσεις
 settings-context-open-account-settings-item2 =
