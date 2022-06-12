@@ -202,6 +202,11 @@ key-notification-resolve =
     .label = Vyřešit…
     .accesskey = y
     .tooltiptext = Otevře asistenta klíčů OpenPGP
+can-encrypt-smime-notification = Koncové šifrování S/MIME je dostupné.
+can-encrypt-openpgp-notification = Koncové šifrování OpenPGP je dostupné.
+can-e2e-encrypt-button =
+    .label = Šifrovat
+    .accesskey = a
 
 ## Addressing Area
 

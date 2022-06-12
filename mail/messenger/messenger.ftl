@@ -128,6 +128,10 @@ message-header-msg-flagged =
 message-header-msg-not-flagged =
     .title = Bez hvězdičky
     .aria-label = Neoznačeno hvězdičkou
+# Variables:
+# $address (String) - The email address of the recipient this picture belongs to.
+message-header-recipient-avatar =
+    .alt = Profilový obrázek pro { $address }.
 
 ## Message header cutomize panel
 
@@ -141,6 +145,16 @@ message-header-button-style-text =
     .label = Text
 message-header-button-style-icons =
     .label = Ikony
+message-header-show-sender-full-address =
+    .label = Vždy zobrazovat celou adresu odesílatele
+    .accesskey = c
+message-header-show-sender-full-address-description = E-mailová adresa se zobrazí pod zobrazovaným jménem.
+message-header-show-recipient-avatar =
+    .label = Zobrazovat profilový obrázek odesílatele
+    .accesskey = p
+message-header-hide-label-column =
+    .label = Skrýt sloupec s popisky
+    .accesskey = l
 message-header-large-subject =
     .label = Velký předmět
     .accesskey = p
@@ -153,13 +167,6 @@ toolbar-context-menu-manage-extension =
 toolbar-context-menu-remove-extension =
     .label = Odebrat rozšíření
     .accesskey = d
-
-## Message headers
-
-message-header-address-in-address-book-icon =
-    .alt = Adresa je v kontaktech
-message-header-address-not-in-address-book-icon =
-    .alt = Adresa není v kontaktech
 
 ## Add-on removal warning
 
@@ -228,12 +235,6 @@ spaces-context-new-window-item =
 # $tabName (String) - The name of the tab this item will switch to.
 spaces-context-switch-tab-item =
     .label = Přepnout na panel { $tabName }
-settings-context-open-settings-item =
-    .label = Otevřít nastavení
-settings-context-open-account-settings-item =
-    .label = Otevřít nastavení účtu
-settings-context-open-addons-item =
-    .label = Otevřít správce doplňků
 settings-context-open-settings-item2 =
     .label = Nastavení
 settings-context-open-account-settings-item2 =

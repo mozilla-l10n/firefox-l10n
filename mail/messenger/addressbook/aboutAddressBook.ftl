@@ -26,6 +26,8 @@ about-addressbook-books-context-properties =
     .label = Vlastnosti
 about-addressbook-books-context-synchronize =
     .label = Synchronizovat
+about-addressbook-books-context-edit =
+    .label = Upravit
 about-addressbook-books-context-print =
     .label = Tisk…
 about-addressbook-books-context-export =
@@ -53,8 +55,8 @@ about-addressbook-search =
     .placeholder = Najít ve složce { $name }
 about-addressbook-search-all =
     .placeholder = Prohledat všechny složky kontaktů
-about-addressbook-sort-button =
-    .title = Změnit pořadí seznamu
+about-addressbook-sort-button2 =
+    .title = Zobrazení seznamu
 about-addressbook-name-format-display =
     .label = Zobrazované jméno
 about-addressbook-name-format-firstlast =
@@ -165,8 +167,18 @@ about-addressbook-confirm-delete-contacts =
        *[other] Opravdu chcete smazat těchto { $count } kontaktů?
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+about-addressbook-placeholder-empty-book = Nejsou zde žádné kontakty
+about-addressbook-placeholder-new-contact = Nový kontakt
+about-addressbook-placeholder-search-only = Tato složka kontaktů zobrazuje kontakty pouze po vyhledání
+about-addressbook-placeholder-searching = Hledání…
+about-addressbook-placeholder-no-search-results = Nebyly nalezeny žádné kontakty
+
 ## Details
 
+about-addressbook-prefer-display-name = Upřednostnit zobrazované jméno před hlavičkou zprávy
 about-addressbook-write-action-button = Napsat zprávu
 about-addressbook-event-action-button = Událost
 about-addressbook-search-action-button = Hledat
@@ -177,8 +189,6 @@ about-addressbook-save-edit-contact-button = Uložit
 about-addressbook-add-contact-to = Přidat do:
 about-addressbook-details-email-addresses-header = E-mailové adresy
 about-addressbook-details-phone-numbers-header = Telefonní čísla
-about-addressbook-details-home-address-header = Adresy domů
-about-addressbook-details-work-address-header = Adresy do zaměstnání
 about-addressbook-details-addresses-header = Adresy
 about-addressbook-details-notes-header = Poznámky
 about-addressbook-details-other-info-header = Další údaje
@@ -191,7 +201,6 @@ about-addressbook-entry-name-birthday = Narozeniny
 about-addressbook-entry-name-anniversary = Výročí
 about-addressbook-entry-name-title = Titul
 about-addressbook-entry-name-role = Pozice
-about-addressbook-entry-name-department = Oddělení
 about-addressbook-entry-name-organization = Společnost
 about-addressbook-entry-name-website = Webové stránky
 about-addressbook-entry-name-time-zone = Časové pásmo

@@ -11,9 +11,6 @@ import-start = Import
 import-start-title = Importuje nastavení nebo data z aplikace nebo souboru.
 import-start-description = Vyberte, odkud chcete importovat. Která data importovat vyberete později.
 import-from-app = Import z aplikace
-import-from-app-desc = Zvolte, odkud chcete importovat účty, kontakty, kalendáře a další data:
-import-address-book = Import souboru s kontakty
-import-calendar = Import souboru s kalendářem
 import-file = Importovat ze souboru
 import-file-title = Vyberte soubor, ze kterého chcete importovat.
 import-file-description = Vyberte pro importování dříve pořízené zálohy profilu, kontaktů nebo kalendářů.
@@ -23,7 +20,6 @@ export-profile = Export
 
 ## Buttons
 
-button-cancel = Zrušit
 button-back = Zpět
 button-continue = Pokračovat
 button-export = Exportovat
@@ -36,14 +32,6 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
-# Variables:
-#   $app (String) - The name of the app to import from
-profiles-pane-title = Import z aplikace { $app }
-profiles-pane-desc = Vyberte umístění, ze kterého chcete importovat
-profile-file-picker-dir = Vyberte složku profilu
-profile-file-picker-zip = Vyberte soubor ZIP (menší než 2 GB)
-items-pane-title = Zvolte, co chcete importovat
-items-pane-source = Umístění zdroje:
 source-thunderbird = Importovat z jiné instalace aplikace { app-name-thunderbird }
 source-thunderbird-description = Importuje nastavení, filtry, zprávy a další data z profilu aplikace { app-name-thunderbird }.
 source-seamonkey = Importovat z aplikace { app-name-seamonkey }
@@ -96,7 +84,6 @@ items-pane-override = Všechna stávající nebo shodná data budou přepsána.
 
 ## Import from address book file steps
 
-import-from-addr-book-file-desc = Vyberte typ souboru, který chcete importovat:
 import-from-addr-book-file-description = Vyberte formát souboru s kontakty.
 addr-book-csv-file = Soubor s hodnotami oddělenými čárkami nebo tabulátory (.csv, .tsv)
 addr-book-ldif-file = Soubor LDIF (.ldif)
@@ -106,13 +93,8 @@ addr-book-mab-file = Databáze Mork (.mab)
 addr-book-file-picker = Vyberte soubor s kontakty
 addr-book-csv-field-map-title = Přiřazení názvů polí
 addr-book-csv-field-map-desc = Vyberte pole odpovídající zdrojovým polím, a zrušte výběr polí, která nechcete importovat.
-addr-book-directories-pane-title = Vyberte složku, kam chcete kontakty importovat:
 addr-book-directories-title = Vyberte, kam chcete vybraná data importovat
 addr-book-directories-pane-source = Zdrojový soubor:
-addr-book-import-into-new-directory = Vytvořit novou složku
-
-## Import from address book file steps
-
 # $addressBookName (string) - name of the new address book that would be created.
 addr-book-import-into-new-directory2 = Vytvořit novou složku <strong>„{ $addressBookName }“</strong>
 # $addressBookName (string) - name of the address book to import into
@@ -129,7 +111,6 @@ calendar-items-filter-input =
     .placeholder = Filtrování položek…
 calendar-select-all-items = Vybrat vše
 calendar-deselect-all-items = Zrušit výběr
-calendar-import-into-new-calendar = Vytvořit nový kalendář
 calendar-target-title = Vyberte, kam chcete vybraná data importovat.
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = Vytvořit nový kalendář <strong>„{ $targetCalendar }“</strong>
@@ -146,18 +127,12 @@ calendar-summary-description = Bude vytvořen nový kalendář s názvem „{ $t
 
 ## Import dialog
 
-progress-pane-importing = Probíhá import
-progress-pane-exporting = Probíhá export
-progress-pane-finished-desc = Dokončeno.
-progress-pane-restart-desc = Pro dokončení importu restartujte aplikaci.
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-importing2 = Probíhá import… …{ $progressPercent }
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-exporting2 = Probíhá export… { $progressPercent }
 progress-pane-finished-desc2 = Dokončeno.
 error-pane-title = Chyba
-error-message-zip-file-too-big = Vybraný soubor ZIP je větší než 2 GB. Nejprve ho prosím rozbalte na disk a poté importujte rozbalený adresář.
-error-message-extract-zip-file-failed = Soubor ZIP se nepodařilo rozbalit. Rozbalte ho prosím ručně a naimportujte místo něj výslednou složku.
 error-message-zip-file-too-big2 = Vybraný soubor ZIP je větší než 2 GB. Nejprve ho prosím rozbalte na disk a poté importujte rozbalený adresář.
 error-message-extract-zip-file-failed2 = Soubor ZIP se nepodařilo rozbalit. Rozbalte ho prosím ručně a naimportujte místo něj výslednou složku.
 error-message-failed = Import se nepodařilo provést. Podrobnosti mohou být dostupné v chybové konzoli.
@@ -175,12 +150,9 @@ csv-target-field = Položka kontaktů
 
 ## Export tab
 
-export-profile-desc = Exportujte e-mailové účty, zprávy, kontakty a nastavení do souboru zip. V případě potřeby můžete soubor zip importovat a obnovit svůj profil.
-export-profile-desc2 = Pokud je váš aktuální profil větší než 2 GB, doporučujeme ho zazálohovat ručně.
 export-profile-title = Vyexportuje účty, zprávy, kontakty a nastavení do souboru ZIP.
 export-profile-description = Pokud je váš aktuální profil větší než 2 GB, doporučujeme ho zazálohovat ručně.
 export-open-profile-folder = Otevřít složku profilu
-export-file-picker = Exportovat do souboru ZIP
 export-file-picker2 = Exportovat do souboru ZIP
 export-brand-name = { -brand-product-name }
 
@@ -203,3 +175,12 @@ footer-help = Potřebujete pomoc?
 footer-import-documentation = Nápověda k importování
 footer-export-documentation = Nápověda k exportování
 footer-support-forum = Fórum podpory
+
+## Step navigation on top of the wizard pages
+
+step-list =
+    .aria-label = Postup importu
+step-confirm = Potvrdit
+# Variables:
+# $number (number) - step number
+step-count = { $number }
