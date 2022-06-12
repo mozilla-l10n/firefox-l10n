@@ -22,6 +22,7 @@ message-header-organization-field = Erakundea<span data-l10n-name="field-separat
 message-header-subject-field = Gaia<span data-l10n-name="field-separator">:</span>
 message-header-followup-to-field = Jarraitu honi<span data-l10n-name="field-separator">:</span>
 message-header-date-field = Data<span data-l10n-name="field-separator">:</span>
+message-header-user-agent-field = Erabiltzaile-agentea<span data-l10n-name="field-separator">:</span>
 message-header-references-field = Erreferentziak<span data-l10n-name="field-separator">:</span>
 message-header-message-id-field = Mezuaren ID<span data-l10n-name="field-separator">:</span>
 message-header-in-reply-to-field = Honi erantzunez<span data-l10n-name="field-separator">:</span>
