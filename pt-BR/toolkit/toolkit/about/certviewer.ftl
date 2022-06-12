@@ -6,7 +6,7 @@ certificate-viewer-certificate-section-title = Certificado
 
 ## Error messages
 
-certificate-viewer-error-message = Não conseguimos encontrar as informações do certificado, ou o certificado está corrompido. Tente novamente.
+certificate-viewer-error-message = Não foi possível encontrar as informações do certificado, ou o certificado está corrompido. Tente novamente.
 certificate-viewer-error-title = Algo deu errado.
 
 ## Certificate information labels
@@ -81,7 +81,6 @@ certificate-viewer-authority-info-aia = Informações da autoridade (AIA)
 certificate-viewer-certificate-policies = Políticas do certificado
 certificate-viewer-embedded-scts = SCTs incorporados
 certificate-viewer-crl-endpoints = Destinos de CRL
-
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Baixar
@@ -101,7 +100,6 @@ certificate-viewer-download-pem = PEM (certificado)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (cadeia)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Esta extensão foi marcada como crítica. Isso significa que os clientes devem rejeitar o certificado se não o entenderem.
