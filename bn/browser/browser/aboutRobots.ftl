@@ -25,5 +25,5 @@ error-long-desc4 = রোবোটের উজ্জ্বল ধাতব আ�
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = এবং তাদের একটি পরিকল্পনা আছে।
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
-error-try-again = পুনরায় চেষ্টা করুন
+error-try-again = আবার চেষ্টা করুন
     .label2 = অনুগ্রহ করে এই বোতামটি আর চাপবেন না।

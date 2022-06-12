@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY loadError.label "পাতা লোডে ত্রুটি">
-<!ENTITY retry.label "পুনরায় চেষ্টা">
+<!ENTITY retry.label "আবার চেষ্টা করুন">
 
 <!-- Specific error messages -->
 

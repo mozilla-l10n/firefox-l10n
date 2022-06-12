@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "পাতা লোড করতে সমস্যা">
-<!ENTITY retry.label "পুনরায় চেষ্টা করুন">
+<!ENTITY retry.label "আবার চেষ্টা করুন">
 <!ENTITY returnToPreviousPage.label "পিছনে ফিরে যাও">
 <!ENTITY returnToPreviousPage1.label "পেছনে যান (সুপারিশকৃত)">
 <!ENTITY advanced2.label "উন্নত…">

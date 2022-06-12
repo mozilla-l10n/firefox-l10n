@@ -178,7 +178,7 @@ newtab-empty-section-topstories = কিছু একটা ঠিক নেই�
 
 newtab-discovery-empty-section-topstories-header = আর কিছু নেই!
 newtab-discovery-empty-section-topstories-content = আরোও গল্পের জন্য পরে আবার দেখুন।
-newtab-discovery-empty-section-topstories-try-again-button = পুনরায় চেষ্টা করুন
+newtab-discovery-empty-section-topstories-try-again-button = আবার চেষ্টা করুন
 newtab-discovery-empty-section-topstories-loading = লোড করা হচ্ছে…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = ওহো! আমরা এই অনুচ্ছেদ প্রায় লোড করেছিলাম, কিন্তু শেষ করতে পারিনি।
@@ -200,7 +200,7 @@ newtab-pocket-cta-text = { -pocket-brand-name } এ আপনার পছন্
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = ওহো, কনটেন্টটি লোড করতে কিছু ভুল হয়েছে।
-newtab-error-fallback-refresh-link = পুনরায় চেস্টা করার জন্য পেজটি রিফ্রেশ করুন।
+newtab-error-fallback-refresh-link = আবার চেষ্টা করতে পাতাটি পুনঃসতেজ করুন।
 
 ## Customization Menu
 
