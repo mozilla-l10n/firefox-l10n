@@ -113,8 +113,10 @@ policy-SecurityDevices = Pasang modul PKCS #11.
 policy-ShowHomeButton = Tampilkan tombol beranda pada bilah alat.
 policy-SSLVersionMax = Tetapkan versi SSL maksimum.
 policy-SSLVersionMin = Tetapkan versi SSL minimum.
+policy-StartDownloadsInTempDirectory = Paksa unduhan untuk dimulai di lokasi lokal dan sementara, bukan direktori unduhan baku.
 policy-SupportMenu = Tambahkan item menu dukungan khusus pada menu bantuan.
 policy-UserMessaging = Jangan tampilkan pesan tertentu kepada pengguna.
+policy-UseSystemPrintDialog = Cetak menggunakan dialog sistem.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokir situs web agar tidak dikunjungi. Lihat dokumentasi lebih lanjut untuk formatnya.
 policy-Windows10SSO = Izinkan sistem masuk tunggal Windows untuk akun Microsoft, kantor, dan sekolah.
