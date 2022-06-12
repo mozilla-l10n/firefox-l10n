@@ -67,6 +67,8 @@ vcard-date-year = Έτος
 vcard-adr-header = Διευθύνσεις
 vcard-adr-add = Προσθήκη διεύθυνσης
 vcard-adr-label = Διεύθυνση
+vcard-adr-pobox = Ταχυδρομική θυρίδα
+vcard-adr-ext = Εκτεταμένη διεύθυνση
 # Or "Locality"
 vcard-adr-locality = Πόλη
 vcard-adr-country = Χώρα
