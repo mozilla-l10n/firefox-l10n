@@ -68,6 +68,8 @@ about-logins-list-section-week = গত 7 দিন
 about-logins-login-intro-heading-logged-out2 = আপনার সংরক্ষিত লগইনগুলি সন্ধান করছেন? সিঙ্ক চালু করুন বা সেগুলি আমদানি করুন।
 about-logins-login-intro-heading-logged-in = সিংক হওয়া কোনো লগইন পাওয়া যায়নি।
 login-intro-description = আপনি যদি ভিন্ন কোন ডিভাইসের { -brand-product-name } এ আপনার লগইন সমূহ সংরক্ষণ করে থাকেন, তাহলে সেগুলো এখানে কিভাবে পাবেন, সেটি রয়েছে এখানে:
+login-intro-instructions-fxa = আপনার লগইনগুলি যেখানে সংরক্ষিত আছে সেই ডিভাইসে আপনার { -fxaccount-brand-name(capitalization: "sentence") } তৈরি করুন বা সাইন ইন করুন৷
+login-intro-instructions-fxa-settings = সেটিংস > সিঙ্ক > সিঙ্কিং চালু করুন... লগইন এবং পাসওয়ার্ড চেকবক্স নির্বাচন করুন।
 about-logins-intro-browser-only-import = যদি আপনার লগইনগুলি অন্য ব্রাউজারে সংরক্ষিত থাকে, তাহলে আপনি <a data-l10n-name="import-link">সেগুলি { -brand-product-name }-এ আমদানি করতে পারেন</a>
 about-logins-intro-import2 = যদি আপনার লগইনগুলি { -brand-product-name }-এর বাইরে সংরক্ষিত থাকে, তাহলে আপনি <a data-l10n-name="import-browser-link">এগুলি অন্য একটি ব্রাউজার থেকে</a> অথবা <a data-l10n- name="import-file-link">একটি ফাইল থেকে</a> নিয়ে আসতে পারেন
 
