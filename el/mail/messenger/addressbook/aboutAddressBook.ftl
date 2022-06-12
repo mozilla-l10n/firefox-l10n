@@ -151,6 +151,9 @@ about-addressbook-confirm-delete-contacts =
 ## Card list placeholder
 ## Shown when there are no cards in the list
 
+about-addressbook-placeholder-new-contact = Νέα επαφή
+about-addressbook-placeholder-searching = Αναζήτηση…
+about-addressbook-placeholder-no-search-results = Δεν βρέθηκαν επαφές
 
 ## Details
 
@@ -175,6 +178,7 @@ about-addressbook-entry-name-birthday = Γενέθλια
 about-addressbook-entry-name-anniversary = Επέτειος
 about-addressbook-entry-name-title = Τίτλος
 about-addressbook-entry-name-role = Ρόλος
+about-addressbook-entry-name-organization = Οργανισμός
 about-addressbook-entry-name-website = Ιστότοπος
 about-addressbook-entry-name-time-zone = Ζώνη ώρας
 about-addressbook-unsaved-changes-prompt-title = Μη αποθηκευμένες αλλαγές

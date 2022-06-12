@@ -188,6 +188,9 @@ key-notification-resolve =
     .label = Επίλυση…
     .accesskey = λ
     .tooltiptext = Άνοιγμα βοηθού κλειδιών OpenPGP
+can-e2e-encrypt-button =
+    .label = Κρυπτογράφηση
+    .accesskey = Κ
 
 ## Addressing Area
 

@@ -3,21 +3,29 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Message headers
+## Header lists
 
+message-header-to-list-name = Προς
+message-header-from-list-name = Από
+message-header-sender-list-name = Αποστολέας
+message-header-reply-to-list-name = Απάντηση σε
+message-header-cc-list-name = Κοιν.
+message-header-bcc-list-name = Κρυφή κοιν.
+message-header-newsgroups-list-name = Ομάδες συζήτησης
+message-header-tags-list-name = Ετικέτες
 
-# The field-separator is for screen readers to separate the field name from the field value.
+## Other message headers.
+## The field-separator is for screen readers to separate the field name from the field value.
 
-message-header-to-field = Προς<span data-l10n-name="field-separator">:</span>
-message-header-from-field = Από<span data-l10n-name="field-separator">:</span>
-message-header-sender-field = Αποστολέας<span data-l10n-name="field-separator">:</span>
 message-header-author-field = Συντάκτης<span data-l10n-name="field-separator">:</span>
 message-header-organization-field = Οργανισμός<span data-l10n-name="field-separator">:</span>
-message-header-reply-to-field = Απάντηση σε<span data-l10n-name="field-separator">:</span>
 message-header-subject-field = Θέμα<span data-l10n-name="field-separator">:</span>
-message-header-tags-field = Ετικέτες<span data-l10n-name="field-separator">:</span>
 message-header-date-field = Ημερομηνία<span data-l10n-name="field-separator">:</span>
 message-header-references-field = Αναφορές<span data-l10n-name="field-separator">:</span>
 message-header-website-field = Ιστότοπος<span data-l10n-name="field-separator">:</span>
+
+##
+
 message-header-address-in-address-book-button =
     .title = Επεξεργασία επαφής
+message-ids-field-show-all = Εμφάνιση όλων

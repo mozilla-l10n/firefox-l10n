@@ -3,6 +3,12 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+# Display Name
+
+vcard-displayname = Εμφανιζόμενο όνομα
+vcard-displayname-placeholder =
+    .placeholder = { vcard-displayname }
+
 # Type selection
 
 vcard-entry-type-label = Τύπος
@@ -44,3 +50,34 @@ vcard-tel-label = Αριθμός τηλεφώνου
 
 vcard-tz-header = Ζώνη ώρας
 vcard-tz-add = Προσθήκη ζώνης ώρας
+
+# IMPP vCard field
+
+
+# BDAY and ANNIVERSARY vCard field
+
+vcard-bday-label = Γενέθλια
+vcard-anniversary-label = Επέτειος
+vcard-date-day = Ημέρα
+vcard-date-month = Μήνας
+vcard-date-year = Έτος
+
+# ADR vCard field
+
+vcard-adr-header = Διευθύνσεις
+vcard-adr-add = Προσθήκη διεύθυνσης
+vcard-adr-label = Διεύθυνση
+# Or "Locality"
+vcard-adr-locality = Πόλη
+vcard-adr-country = Χώρα
+
+# NOTE vCard field
+
+vcard-note-header = Σημειώσεις
+vcard-note-add = Προσθήκη σημείωσης
+
+# TITLE, ROLE and ORGANIZATION vCard fields
+
+vcard-org-title = Τίτλος
+vcard-org-role = Ρόλος
+vcard-org-org = Οργανισμός
