@@ -24,7 +24,7 @@
 <ul>
   <li>Tentar novamente mais tarde.</li>
   <li>Verificar sua conexão de rede.</li>
-  <li>Se você está conectado por meio de um firewall, verifique se o &brandShortName; tem permissão para acessar a web.</li>
+  <li>Se você está conectado por meio de um firewall, verifique nas regras se o &brandShortName; tem permissão para acessar a web.</li>
 </ul>">
 
 <!ENTITY fileNotFound.longDesc "<ul>
