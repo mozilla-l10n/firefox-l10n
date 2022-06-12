@@ -121,10 +121,14 @@ summary-pane-start-over = Επανεκκίνηση εργαλείου εισαγ
 ## Footer area
 
 footer-help = Χρειάζεστε βοήθεια;
+footer-import-documentation = Τεκμηρίωση εισαγωγής
+footer-export-documentation = Τεκμηρίωση εξαγωγής
 footer-support-forum = Φόρουμ υποστήριξης
 
 ## Step navigation on top of the wizard pages
 
+step-list =
+    .aria-label = Βήματα εισαγωγής
 step-confirm = Επιβεβαίωση
 # Variables:
 # $number (number) - step number

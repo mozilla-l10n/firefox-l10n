@@ -5,15 +5,24 @@
 
 ## Encryption status
 
+openpgp-key-assistant-recipients-issue-header = Δεν είναι δυνατή η κρυπτογράφηση
 
 ## Resolve section
 
+openpgp-key-assistant-key-fingerprint = Αποτύπωμα
+openpgp-key-assistant-key-source =
+    { $count ->
+        [one] Πηγή
+       *[other] Πηγές
+    }
 
 ## Discovery section
 
 
 ## Dialog buttons
 
+openpgp-key-assistant-issue-resolve-button = Επίλυση…
+openpgp-key-assistant-view-key-button = Προβολή κλειδιού…
 openpgp-key-assistant-recipients-show-button = Εμφάνιση
 openpgp-key-assistant-recipients-hide-button = Απόκρυψη
 openpgp-key-assistant-cancel-button = Ακύρωση
