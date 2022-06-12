@@ -21,6 +21,7 @@ perftools-heading-features-default = Fitur (Direkomendasikan secara baku)
 perftools-heading-features-disabled = Fitur Dinonaktifkan
 perftools-heading-features-experimental = Eksperimental
 perftools-heading-threads = Thread
+perftools-heading-threads-jvm = Utas JVM
 perftools-heading-local-build = Build lokal
 
 ##
@@ -41,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Ukuran buffer:
-
 perftools-custom-threads-label = Tambahkan thread khusus berdasarkan nama:
-
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Thread:
 perftools-devtools-settings-label = Pengaturan
@@ -95,11 +94,22 @@ perftools-thread-dns-resolver =
     .title = Resolusi DNS terjadi di thread ini
 perftools-thread-task-controller =
     .title = Utas kumpulan utas TaskController
+perftools-thread-jvm-gecko =
+    .title = Utas utama Gecko JVM
+perftools-thread-jvm-nimbus =
+    .title = Utas utama untuk SDK eksperimen Nimbus
+perftools-thread-jvm-default-dispatcher =
+    .title = Dispatcher baku untuk pustaka Kotlin coroutines
+perftools-thread-jvm-glean =
+    .title = Utas utama untuk SDK telemetri Glean
+perftools-thread-jvm-arch-disk-io =
+    .title = Dispatcher IO untuk pustaka Kotlin coroutines
+perftools-thread-jvm-pool =
+    .title = Utas yang dibuat di kumpulan utas yang tidak bernama
 
 ##
 
 perftools-record-all-registered-threads = Lewati pilihan di atas dan rekam semua utas yang terdaftar
-
 perftools-tools-threads-input-label =
     .title = Nama utas ini berupa daftar yang dipisahkan karakter koma, yang akan digunakan untuk mengaktifkan profiling utas pada profiler. Pencocokan nama juga akan dilakukan secara bagian, tidak secara lengkap pada utas yang disertakan. Karakter spasi pada nama berpengaruh.
 
@@ -107,14 +117,13 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Baru</b>: { -profiler-brand-name } telah diintegrasikan ke dalam Alat Pengembang. <a>Pelajari lebih lanjut</a> tentang alat baru yang canggih ini.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Untuk waktu yang terbatas, Anda dapat mengakses panel Kinerja lawas melalui <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Tutup pesan orientasi
 
@@ -127,19 +136,14 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Pengembang Web
 perftools-presets-web-developer-description = Prasetel yang direkomendasikan untuk sebagian besar debugging aplikasi web, dengan overhead yang rendah.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Prasetel yang disarankan untuk pembuatan profil { -brand-shorter-name }.
-
 perftools-presets-graphics-label = Grafik
 perftools-presets-graphics-description = Prasetel untuk menyelidiki bug grafis di { -brand-shorter-name }.
-
 perftools-presets-media-label = Media
 perftools-presets-media-description2 = Prasetel untuk menyelidiki bug audio dan video di { -brand-shorter-name }.
-
 perftools-presets-networking-label = Jaringan
 perftools-presets-networking-description = Prasetel untuk menyelidiki bug jaringan di { -brand-shorter-name }.
-
 perftools-presets-custom-label = Khusus
 
 ##
