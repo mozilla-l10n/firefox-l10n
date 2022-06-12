@@ -26,6 +26,8 @@ about-addressbook-books-context-properties =
     .label = Egenskaper
 about-addressbook-books-context-synchronize =
     .label = Synkronisera
+about-addressbook-books-context-edit =
+    .label = Redigera
 about-addressbook-books-context-print =
     .label = Skriv ut…
 about-addressbook-books-context-export =
@@ -53,8 +55,8 @@ about-addressbook-search =
     .placeholder = Sök i { $name }
 about-addressbook-search-all =
     .placeholder = Sök i alla adressböcker
-about-addressbook-sort-button =
-    .title = Ändra listordningen
+about-addressbook-sort-button2 =
+    .title = Lista visningsalternativ
 about-addressbook-name-format-display =
     .label = Visningsnamn
 about-addressbook-name-format-firstlast =
@@ -154,6 +156,15 @@ about-addressbook-confirm-delete-contacts =
        *[other] Är du säker på att du vill ta bort dessa { $count } kontakter?
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+about-addressbook-placeholder-empty-book = Inga kontakter tillgängliga
+about-addressbook-placeholder-new-contact = Ny kontakt
+about-addressbook-placeholder-search-only = Den här adressboken visar endast kontakter efter en sökning
+about-addressbook-placeholder-searching = Söker…
+about-addressbook-placeholder-no-search-results = Inga kontakter hittades
+
 ## Details
 
 about-addressbook-write-action-button = Skriv
@@ -166,8 +177,6 @@ about-addressbook-save-edit-contact-button = Spara
 about-addressbook-add-contact-to = Lägg till:
 about-addressbook-details-email-addresses-header = E-postadresser
 about-addressbook-details-phone-numbers-header = Telefonnummer
-about-addressbook-details-home-address-header = Hemadresser
-about-addressbook-details-work-address-header = Arbetsadress
 about-addressbook-details-addresses-header = Adresser
 about-addressbook-details-notes-header = Anteckningar
 about-addressbook-details-other-info-header = Annan information
@@ -180,7 +189,6 @@ about-addressbook-entry-name-birthday = Födelsedag
 about-addressbook-entry-name-anniversary = Årsdag
 about-addressbook-entry-name-title = Titel
 about-addressbook-entry-name-role = Roll
-about-addressbook-entry-name-department = Avdelning
 about-addressbook-entry-name-organization = Organisation
 about-addressbook-entry-name-website = Webbplats
 about-addressbook-entry-name-time-zone = Tidszon
