@@ -118,6 +118,8 @@ urlbar-search-mode-bookmarks = বুকমার্ক
 
 urlbar-geolocation-blocked =
     .tooltiptext = আপনি এই ওয়েবসাইটের জন্য অবস্থানগত তথ্য ব্লক করেছেন
+urlbar-xr-blocked =
+    .tooltiptext = আপনি এই ওয়েবসাইটের জন্য ভার্চুয়াল রিয়েলিটি ডিভাইস এক্সেস ব্লক করেছেন।
 urlbar-web-notifications-blocked =
     .tooltiptext = আপনি এই ওয়েব সাইটের জন্য ঘোষণা ব্লক করেছেন।
 urlbar-camera-blocked =
