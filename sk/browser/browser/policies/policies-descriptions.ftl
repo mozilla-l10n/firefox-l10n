@@ -113,8 +113,10 @@ policy-SecurityDevices = Nainštaluje moduly PKCS #11.
 policy-ShowHomeButton = Zobrazí tlačidlo Domov na paneli nástrojov.
 policy-SSLVersionMax = Nastaví maximálnu verziu SSL.
 policy-SSLVersionMin = Nastaví minimálnu verziu SSL.
+policy-StartDownloadsInTempDirectory = Vynúti spustenie sťahovania v lokálnom, dočasnom umiestnení a nie v predvolenom adresári sťahovania.
 policy-SupportMenu = Pridá vlastnú položku do ponuky pomocníka.
 policy-UserMessaging = Používateľovi sa nebudú zobrazovať určité oznámenia.
+policy-UseSystemPrintDialog = Tlač pomocou systémového dialógového okna tlače.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Zablokuje prístup na určité webové stránky. Ďalšie informácie o formáte nájdete v dokumentácii.
 policy-Windows10SSO = Povolí jednotné prihlásenie systému Windows pre konto Microsoft a pracovné a školské účty
