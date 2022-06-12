@@ -167,6 +167,7 @@ about-addressbook-placeholder-no-search-results = Inga kontakter hittades
 
 ## Details
 
+about-addressbook-prefer-display-name = Föredra visningsnamn framför meddelandehuvud
 about-addressbook-write-action-button = Skriv
 about-addressbook-event-action-button = Händelse
 about-addressbook-search-action-button = Sök
