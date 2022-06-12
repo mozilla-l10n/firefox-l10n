@@ -3,6 +3,12 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+# Display Name
+
+vcard-displayname = Visningsnamn
+vcard-displayname-placeholder =
+    .placeholder = { vcard-displayname }
+
 # Type selection
 
 vcard-entry-type-label = Typ
@@ -35,8 +41,7 @@ vcard-n-add-suffix =
 vcard-email-header = E-postadresser
 vcard-email-add = Lägg till e-postadress
 vcard-email-label = E-postadress
-vcard-email-choose-primary = Standard
-    .aria-label = Välj din primära e-postadress
+vcard-primary-email-label = Standard
 
 # URL vCard field
 
@@ -54,3 +59,35 @@ vcard-tel-label = Telefonnummer
 
 vcard-tz-header = Tidszon
 vcard-tz-add = Lägg till tidszon
+
+# IMPP vCard field
+
+vcard-impp-header = Chattkonton
+vcard-impp-add = Lägg till chattkonto
+vcard-impp-label = Chattkonto
+
+# BDAY and ANNIVERSARY vCard field
+
+vcard-bday-anniversary-header = Särskilda datum
+vcard-bday-anniversary-add = Lägg till ett speciellt datum
+vcard-bday-label = Födelsedag
+vcard-anniversary-label = Årsdag
+vcard-date-day = Dag
+vcard-date-month = Månad
+vcard-date-year = År
+
+# ADR vCard field
+
+vcard-adr-header = Adresser
+vcard-adr-add = Lägg till adress
+vcard-adr-label = Adress
+vcard-adr-delivery-label = Leveransetikett
+vcard-adr-pobox = Postlåda
+vcard-adr-ext = Utökad adress
+vcard-adr-street = Gatuadress
+
+# NOTE vCard field
+
+
+# TITLE, ROLE and ORGANIZATION vCard fields
+
