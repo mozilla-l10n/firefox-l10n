@@ -113,6 +113,7 @@ policy-SecurityDevices = 安装 PKCS #11 模块。
 policy-ShowHomeButton = 在工具栏显示“主页”按钮
 policy-SSLVersionMax = 设置最高 SSL 版本。
 policy-SSLVersionMin = 设置最低 SSL 版本。
+policy-StartDownloadsInTempDirectory = 强制下载至本地临时文件夹，而非默认下载路径。
 policy-SupportMenu = 向帮助菜单自选添加技术支持项目。
 policy-UserMessaging = 不向用户显示某些消息。
 policy-UseSystemPrintDialog = 使用系统打印对话框打印。
