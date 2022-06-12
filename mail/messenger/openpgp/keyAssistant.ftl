@@ -72,9 +72,44 @@ openpgp-key-assistant-key-source =
 openpgp-key-assistant-key-collected-attachment = e-postbilaga
 openpgp-key-assistant-key-collected-autocrypt = Kryptera rubrik automatiskt
 openpgp-key-assistant-key-collected-keyserver = nyckelserver
+openpgp-key-assistant-key-collected-wkd = Nyckelkatalog på webben
+openpgp-key-assistant-keys-has-collected =
+    { $count ->
+        [one] En nyckel hittades, men den har inte godkänts ännu.
+       *[other] Flera nycklar hittades, men ingen av dem har godkänts ännu.
+    }
+openpgp-key-assistant-key-rejected = Denna nyckel har tidigare avvisats.
+openpgp-key-assistant-key-accepted-other = Denna nyckel har tidigare godkänts för en annan e-postadress.
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+openpgp-key-assistant-resolve-discover-info = Upptäck ytterligare eller uppdaterade nycklar för { $recipient } online eller importera dem från en fil.
 
 ## Discovery section
 
+openpgp-key-assistant-discover-title = Letar efter nycklar online.
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-discover-keys = Letar efter nycklar för { $recipient }…
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-expired-key-update =
+    En uppdatering hittades för en av de tidigare godkända nycklarna för { $recipient }.
+    Den kan nu användas eftersom den inte längre är upphörd.
 
 ## Dialog buttons
 
+openpgp-key-assistant-discover-online-button = Upptäck publika nycklar online…
+openpgp-key-assistant-import-keys-button = Importera offentliga nycklar från fil…
+openpgp-key-assistant-issue-resolve-button = Lös…
+openpgp-key-assistant-view-key-button = Visa nyckel…
+openpgp-key-assistant-recipients-show-button = Visa
+openpgp-key-assistant-recipients-hide-button = Dölj
+openpgp-key-assistant-cancel-button = Avbryt
+openpgp-key-assistant-back-button = Tillbaka
+openpgp-key-assistant-accept-button = Acceptera
+openpgp-key-assistant-close-button = Stäng
+openpgp-key-assistant-disable-button = Inaktivera kryptering
+openpgp-key-assistant-confirm-button = Skicka krypterat
+# Variables:
+# $date (String) - The key creation date.
+openpgp-key-assistant-key-created = skapad { $date }
