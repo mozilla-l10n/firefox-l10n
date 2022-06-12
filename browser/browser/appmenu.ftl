@@ -97,6 +97,11 @@ appmenuitem-save-page =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = নতুন কি আছে
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = নতুন ফিচার সম্পর্কে জানান
+    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click

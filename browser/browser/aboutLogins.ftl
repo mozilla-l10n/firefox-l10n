@@ -206,6 +206,9 @@ about-logins-error-message-default = এই পাসওয়ার্ডটি
 
 # Title of the file picker dialog
 about-logins-export-file-picker-title = লগ ইন ফাইল রপ্তানি করুন
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
 about-logins-export-file-picker-export-button = রপ্তানি করুন
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -247,6 +250,9 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = সম্পন্ন হয়েছে
 about-logins-import-dialog-error-title = আমদানি ত্রুটি
+about-logins-import-dialog-error-file-permission-title = ফাইল পড়তে অক্ষম
+about-logins-import-dialog-error-unable-to-read-description = নিশ্চিত করুন যে আপনি একটি CSV অথবা TSV ফাইল নির্বাচন করেছেন৷
+about-logins-import-dialog-error-learn-more = অধিক জানুন
 about-logins-import-dialog-error-try-import-again = আবার আমদানির চেষ্টা করুন…
 about-logins-import-dialog-error-cancel = বাতিল করুন
 about-logins-import-report-title = আমদানির সারাংশ

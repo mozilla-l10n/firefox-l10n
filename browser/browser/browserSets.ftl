@@ -81,6 +81,8 @@ nav-stop-shortcut =
     .key = .
 history-show-all-shortcut =
     .key = H
+history-show-all-shortcut-mac =
+    .key = Y
 history-sidebar-shortcut =
     .key = h
 full-screen-shortcut =
@@ -120,6 +122,8 @@ bookmark-show-toolbar-shortcut =
 
 full-zoom-reduce-shortcut =
     .key = -
+full-zoom-reduce-shortcut-alt-a =
+    .key = _
 full-zoom-enlarge-shortcut =
     .key = +
 full-zoom-enlarge-shortcut-alt =

@@ -3,5 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = পুনরায় শুরু করা প্রয়োজন
-
+restart-required-heading = { -brand-short-name } ব্যবহার করতে পুনরায় চালু করুন
 restart-button-label = { -brand-short-name } পুনরায় চালু করুন
