@@ -278,6 +278,7 @@ extension-enabled-heading = 已启用
 extension-disabled-heading = 已禁用
 theme-enabled-heading = 已启用
 theme-disabled-heading = 已禁用
+theme-disabled-heading2 = 保存的主题
 theme-monochromatic-heading = 配色
 theme-monochromatic-subheading = 元气满满的 { -brand-product-name } 新配色，限时提供。
 plugin-enabled-heading = 已启用
