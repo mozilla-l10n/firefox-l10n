@@ -70,6 +70,7 @@ about-logins-login-intro-heading-logged-in = সিংক হওয়া কোন
 login-intro-description = আপনি যদি ভিন্ন কোন ডিভাইসের { -brand-product-name } এ আপনার লগইন সমূহ সংরক্ষণ করে থাকেন, তাহলে সেগুলো এখানে কিভাবে পাবেন, সেটি রয়েছে এখানে:
 login-intro-instructions-fxa = আপনার লগইনগুলি যেখানে সংরক্ষিত আছে সেই ডিভাইসে আপনার { -fxaccount-brand-name(capitalization: "sentence") } তৈরি করুন বা সাইন ইন করুন৷
 login-intro-instructions-fxa-settings = সেটিংস > সিঙ্ক > সিঙ্কিং চালু করুন... লগইন এবং পাসওয়ার্ড চেকবক্স নির্বাচন করুন।
+login-intro-instructions-fxa-passwords-help = আরও সহায়তার  জন্য <a data-l10n-name="passwords-help-link">পাসওয়ার্ড সমর্থন</a> দেখুন।
 about-logins-intro-browser-only-import = যদি আপনার লগইনগুলি অন্য ব্রাউজারে সংরক্ষিত থাকে, তাহলে আপনি <a data-l10n-name="import-link">সেগুলি { -brand-product-name }-এ আমদানি করতে পারেন</a>
 about-logins-intro-import2 = যদি আপনার লগইনগুলি { -brand-product-name }-এর বাইরে সংরক্ষিত থাকে, তাহলে আপনি <a data-l10n-name="import-browser-link">এগুলি অন্য একটি ব্রাউজার থেকে</a> অথবা <a data-l10n- name="import-file-link">একটি ফাইল থেকে</a> নিয়ে আসতে পারেন
 
@@ -79,6 +80,7 @@ login-item-new-login-title = নতুন লগইন তৈরি করুন
 login-item-edit-button = সম্পাদনা
 about-logins-login-item-remove-button = অপসারণ
 login-item-origin-label = ওয়েবসাইটের ঠিকানা
+login-item-tooltip-message = নিশ্চিত করুন যে এটি আপনি যে ওয়েবসাইটে লগ ইন করেছেন তার সঠিক ঠিকানার সাথে মেলে।
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ব্যবহারকারীর নাম
@@ -154,6 +156,18 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [one] হ্যাঁ, এই লগইন সরান
        *[other] হ্যাঁ, এই লগইনগুলি সরান
     }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] ১ (যেমন ১)
+       *[other] অন্যান্য (যেমন 2)
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] সমস্ত ডিভাইস থেকে সমস্ত { $count } লগইন মুছে ফেলবেন?
+       *[other] সমস্ত ডিভাইস থেকে সমস্ত { $count } লগইনগুলো মুছে ফেলবেন?
+    }
+about-logins-confirm-export-dialog-title = লগইন এবং পাসওয়ার্ড রপ্তানি করুন
+about-logins-confirm-export-dialog-message = আপনার পাসওয়ার্ড পাঠযোগ্য টেক্সট হিসাবে সংরক্ষণ করা হবে, সুতরাং ফাইলটি কেহ খুলতে পারলে পাসওয়ার্ড দেখতে পাবে
 about-logins-confirm-export-dialog-confirm-button = রপ্তানি করুন…
 about-logins-alert-import-title = আমদানি সম্পূর্ণ হয়েছে
 about-logins-alert-import-message = বিস্তারিত আমদানির সারাংশ দেখুন
@@ -163,6 +177,7 @@ confirm-discard-changes-dialog-confirm-button = বাতিল
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = ওয়েবসাইট উলঙ্গন হয়েছে
 breach-alert-text = আপনার সবশেষ পাসওয়ার্ড হালনাগাদ করার পরে এই ওয়েবসাইট থেকে পাসওয়ার্ড ফাঁস বা চুরি হয়েছে। আপনার অ্যাকাউন্ট সুরক্ষিত করতে পাসওয়ার্ড পরিবর্তন করুন।
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
@@ -189,6 +204,8 @@ about-logins-error-message-default = এই পাসওয়ার্ডটি
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = লগ ইন ফাইল রপ্তানি করুন
 about-logins-export-file-picker-export-button = রপ্তানি করুন
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
