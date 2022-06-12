@@ -115,6 +115,7 @@ policy-SSLVersionMax = 设置最高 SSL 版本。
 policy-SSLVersionMin = 设置最低 SSL 版本。
 policy-SupportMenu = 向帮助菜单自选添加技术支持项目。
 policy-UserMessaging = 不向用户显示某些消息。
+policy-UseSystemPrintDialog = 使用系统打印对话框打印。
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = 阻止访问某些网站。参阅文档了解该格式的更多详情。
 policy-Windows10SSO = 允许面向 Microsoft 账户（个人/工作/学校）的 Windows 单点登录。

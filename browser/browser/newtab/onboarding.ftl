@@ -121,6 +121,7 @@ mr1-onboarding-theme-label-light = 明亮
 mr1-onboarding-theme-label-dark = 深邃
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = 染山霞
+onboarding-theme-primary-button-label = 完成
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
