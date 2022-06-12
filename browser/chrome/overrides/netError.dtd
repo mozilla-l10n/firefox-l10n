@@ -20,11 +20,11 @@
 
 <!ENTITY dnsNotFound.pageTitle "Servidor não encontrado">
 <!ENTITY dnsNotFound.longDesc1 "
-<strong>Se este endereço estiver correto, aqui estão outras coisas que você pode tentar:</strong>
+<strong>Se este endereço estiver correto, experimente:</strong>
 <ul>
-  <li>Tente novamente mais tarde.</li>
-  <li>Verifique sua conexão de rede.</li>
-  <li>Se você está conectado atrás de um firewall, verifique se o &brandShortName; tem permissão para acessar a web.</li>
+  <li>Tentar novamente mais tarde.</li>
+  <li>Verificar sua conexão de rede.</li>
+  <li>Se você está conectado por meio de um firewall, verifique se o &brandShortName; tem permissão para acessar a web.</li>
 </ul>">
 
 <!ENTITY fileNotFound.longDesc "<ul>
