@@ -235,15 +235,94 @@ openpgp-ign-addr-intro = Acepta usar esta clave para las siguientes direcciones 
 openpgp-key-details-doc-title = Propiedades de la clave
 openpgp-key-details-signatures-tab =
     .label = Certificaciones
+openpgp-key-details-structure-tab =
+    .label = Estructura
+openpgp-key-details-uid-certified-col =
+    .label = ID de usuario / Certificado por
+openpgp-key-details-key-id-label = ID de clave
+openpgp-key-details-user-id3-label = Propietario de la clave reclamada
+openpgp-key-details-id-label =
+    .label = ID
+openpgp-key-details-key-type-label = Tipo
+openpgp-key-details-key-part-label =
+    .label = Parte de la clave
+openpgp-key-details-attr-ignored = Advertencia: es posible que esta clave no funcione como se esperaba porque algunas de sus propiedades son inseguras y podrían ser ignoradas.
+openpgp-key-details-attr-upgrade-sec = Debería actualizar las propiedades inseguras.
+openpgp-key-details-attr-upgrade-pub = Debería pedirle al propietario de esta clave que actualice las propiedades inseguras.
+openpgp-key-details-upgrade-unsafe =
+    .label = Actualizar propiedades inseguras
+    .accesskey = p
+openpgp-key-details-upgrade-ok = La clave se actualizó con éxito. Debería compartir la clave pública actualizada con sus contactos.
+openpgp-key-details-algorithm-label =
+    .label = Algoritmo
+openpgp-key-details-size-label =
+    .label = Tamaño
+openpgp-key-details-created-label =
+    .label = Creado
+openpgp-key-details-created-header = Creado
+openpgp-key-details-expiry-label =
+    .label = Caducidad
+openpgp-key-details-expiry-header = Caducidad
+openpgp-key-details-usage-label =
+    .label = Uso
 openpgp-key-details-fingerprint-label = Huella digital
+openpgp-key-details-legend-secret-missing = Las claves marcadas con (!) no disponen de clave secreta.
+openpgp-key-details-sel-action =
+    .label = Seleccionar acción…
+    .accesskey = S
+openpgp-card-details-close-window-label =
+    .buttonlabelaccept = Cerrar
+openpgp-acceptance-label =
+    .label = Su aceptación
+openpgp-acceptance-rejected-label =
+    .label = No, rechazar esta clave.
+openpgp-acceptance-undecided-label =
+    .label = Todavía no, quizás más tarde.
+openpgp-acceptance-unverified-label =
+    .label = Sí, pero no he verificado que sea la clave correcta.
 openpgp-acceptance-verified-label =
     .label = Sí, he verificado en persona que esta clave tiene la huella digital correcta.
+key-accept-personal =
+    Para esta clave, tiene tanto la parte pública como la secreta. Puede utilizarla como clave personal.
+    Si otra persona le dio esta clave, no la use como clave personal.
+openpgp-personal-no-label =
+    .label = No, no usar como mi clave personal.
+openpgp-personal-yes-label =
+    .label = Sí, tratar esta clave como una clave personal.
+openpgp-copy-cmd-label =
+    .label = Copiar
 
 ## e2e encryption settings
 
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name } no tiene una clave personal de OpenPGP para <b>{ $identity }</b>
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] { -brand-short-name } encontró { $count } clave personal de OpenPGP asociada con <b>{ $identity }</b>
+       *[other] { -brand-short-name } encontró { $count } claves personales de OpenPGP asociadas con <b>{ $identity }</b>
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Su configuración actual usa ID de clave <b>{ $key }</b>
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Su configuración actual utiliza la clave <b>{ $key }</b>, que ha caducado.
+openpgp-add-key-button =
+    .label = Añadir clave…
+    .accesskey = A
+e2e-learn-more = Saber más
+openpgp-keygen-success = ¡Clave OpenPGP creada correctamente!
+openpgp-keygen-import-success = ¡Claves OpenPGP importada correctamente!
+openpgp-keygen-external-success = ¡ID de clave GnuPG externa guardada!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Ninguno
+openpgp-radio-none-desc = No usar OpenPGP para esta identidad.
+openpgp-radio-key-not-usable = Esta clave no se puede usar como una clave personal, ¡porque falta la clave secreta!
+openpgp-radio-key-not-accepted = ¡Para usar esta clave debe aprobarla como una clave personal!
+openpgp-radio-key-not-found = ¡No se encontró esta clave! Si quiere usarla, debe importarla a { -brand-short-name }.
 
 ## Account settings export output
 
