@@ -113,8 +113,10 @@ policy-SecurityDevices = Installer PKCS #11 moduler.
 policy-ShowHomeButton = Vis hjem-knappen på værktøjslinjen.
 policy-SSLVersionMax = Angiv den højeste SSL-version.
 policy-SSLVersionMin = Angiv den laveste SSL-version.
+policy-StartDownloadsInTempDirectory = Tving filhentninger til at starte i en lokal, midlertidig placering i stedet for standard-mappen for filhentninger.
 policy-SupportMenu = Føj et tilpasset menupunkt til menuen Hjælp.
 policy-UserMessaging = Vis ikke bestemte beskeder til brugeren.
+policy-UseSystemPrintDialog = Udskriv ved at bruge systemets udskriftsdialog.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloker websteder fra at blive besøgt. Se dokumentationen for detaljer om formatet.
 policy-Windows10SSO = Tillad Windows enkeltlogon for Microsoft-, arbejds- og skole-konti.
