@@ -93,6 +93,10 @@ perftools-thread-dns-resolver =
     .title = A resolução de DNS acontece nesta thread
 perftools-thread-task-controller =
     .title = Threads do conjunto de threads do TaskController
+perftools-thread-jvm-gecko =
+    .title = A thread principal da Gecko JVM
+perftools-thread-jvm-nimbus =
+    .title = As principais threads do SDK de experiências Nimbus
 
 ##
 
