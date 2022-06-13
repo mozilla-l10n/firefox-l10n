@@ -33,6 +33,11 @@ openpgp-pubkey-import-intro =
         [one] Fitxategiak behean ikus daitekeen gako publikoa du:
        *[other] Fitxategiak behean ikus daitezkeen { $num } gako publiko ditu:
     }
+openpgp-pubkey-import-accept =
+    { $num ->
+        [one] Onartzen al duzu gako hau sinadura digitalak egiaztatzeko eta mezuak zifratzeko, erakutsitako posta elektroniko helbideentzat?
+       *[other] Onartzen al duzu gako hauek sinadura digitalak egiaztatzeko eta mezuak zifratzeko, erakutsitako posta elektroniko helbideentzat?
+    }
 pubkey-import-button =
     .buttonlabelaccept = Inportatu
     .buttonaccesskeyaccept = I
