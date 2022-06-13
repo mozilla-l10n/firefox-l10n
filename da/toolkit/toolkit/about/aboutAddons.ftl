@@ -293,6 +293,7 @@ extension-enabled-heading = Aktiveret
 extension-disabled-heading = Deaktiveret
 theme-enabled-heading = Aktiveret
 theme-disabled-heading = Deaktiveret
+theme-disabled-heading2 = Gemte temaer
 theme-monochromatic-heading = Farvekombinationer
 theme-monochromatic-subheading = Dynamiske nye farvekombinationer fra { -brand-product-name }. Findes kun i begrænset tid.
 plugin-enabled-heading = Aktiveret
