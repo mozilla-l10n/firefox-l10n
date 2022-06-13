@@ -197,6 +197,11 @@ key-notification-resolve =
     .label = Vyriešiť…
     .accesskey = V
     .tooltiptext = Otvoriť Asistenta pre kľúče OpenPGP
+can-encrypt-smime-notification = Je možné obojstranné šifrovanie S/MIME.
+can-encrypt-openpgp-notification = Je možné obojstranné šifrovanie OpenPGP.
+can-e2e-encrypt-button =
+    .label = Zašifrovať
+    .accesskey = f
 
 ## Addressing Area
 
