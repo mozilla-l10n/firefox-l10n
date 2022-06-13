@@ -125,6 +125,10 @@ message-header-msg-flagged =
     .aria-label = Stellate
 message-header-msg-not-flagged =
     .title = Message non marcate per stellas
+# Variables:
+# $address (String) - The email address of the recipient this picture belongs to.
+message-header-recipient-avatar =
+    .alt = Photo de profilo de { $address }.
 
 ## Message header cutomize panel
 
@@ -138,6 +142,13 @@ message-header-button-style-text =
     .label = Texto
 message-header-button-style-icons =
     .label = Icones
+message-header-show-sender-full-address =
+    .label = Sempre monstrar plen adresse del expeditor
+    .accesskey = p
+message-header-show-sender-full-address-description = Le adresse email essera monstrate sub le nomine a monstrar.
+message-header-show-recipient-avatar =
+    .label = Monstrar le photo de profilo del expeditor
+    .accesskey = p
 message-header-hide-label-column =
     .label = Celar columna de etiquettas
     .accesskey = e
