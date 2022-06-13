@@ -31,14 +31,28 @@ printui-portrait = লম্বালম্বি
 printui-destination-label = গন্তব্য
 printui-destination-pdf-label = PDF-এ সংরক্ষণ করুন
 printui-more-settings = আরও সেটিং
+printui-less-settings = কম সেটিং
 printui-paper-size-label = কাগজের আকার
 # Section title (noun) for the print scaling options
 printui-scale = স্কেল
+# Label for input control where user can set the scale percentage
+printui-scale-pcent = স্কেল
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = দ্বিমুখী মুদ্রণ
+printui-two-sided-printing-off = বন্ধ
+# Section title for miscellaneous print options
+printui-options = বিকল্প
 
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".
 
+# Option for printing the original page.
+printui-source-radio = মূল
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = নির্বাচিত অংশ
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = সরলীকৃত
 
 ##
 
@@ -50,15 +64,32 @@ printui-margins-default = পূর্বনির্ধারিত
 printui-margins-min = ন্যূনতম
 printui-margins-none = কোনোটি নয়
 printui-margins-custom-inches = স্বনির্ধারিত (ইঞ্চি)
+printui-margins-custom-top = শীর্ষে
+printui-margins-custom-top-inches = শীর্ষে (ইঞ্চি)
+printui-margins-custom-top-mm = শীর্ষে (মিমি)
+printui-margins-custom-bottom = নিচে
+printui-margins-custom-bottom-inches = নিচে (ইঞ্চি)
+printui-margins-custom-bottom-mm = নিচে (মিমি)
+printui-margins-custom-left = বামে
+printui-margins-custom-left-inches = বামে (ইঞ্চি)
+printui-margins-custom-left-mm = বামে (মিমি)
+printui-margins-custom-right = ডানে
+printui-margins-custom-right-inches = ডানে (ইঞ্চি)
+printui-margins-custom-right-mm = ডানে (মিমি)
+printui-system-dialog-link = সিস্টেম ডায়ালগ ব্যবহার করে মুদ্রণ করুন…
 printui-primary-button = মুদ্রণ করুন
 printui-primary-button-save = সংরক্ষণ করুন
-printui-cancel-button = বাতিল করুন
+printui-cancel-button = বাতিল
 printui-close-button = বন্ধ করুন
 printui-loading = প্রাকদর্শন প্রস্তুত করা হচ্ছে
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = মুদ্রণের প্রাকদর্শন
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = মুদ্রণ করা হচ্ছে…
+printui-print-progress-indicator-saving = সংরক্ষণ করা হচ্ছে…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
