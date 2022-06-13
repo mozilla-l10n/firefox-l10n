@@ -3,29 +3,38 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Message headers
+## Header lists
 
+message-header-to-list-name = Komu
+message-header-from-list-name = Od
+message-header-sender-list-name = Odosielateľ
+message-header-reply-to-list-name = Odpoveď na
+message-header-cc-list-name = Kópia
+message-header-bcc-list-name = Skrytá kópia
+message-header-newsgroups-list-name = Diskusné skupiny
+message-header-tags-list-name = Značky
 
-# The field-separator is for screen readers to separate the field name from the field value.
+## Other message headers.
+## The field-separator is for screen readers to separate the field name from the field value.
 
-message-header-to-field = Komu<span data-l10n-name="field-separator">:</span>
-message-header-from-field = Od<span data-l10n-name="field-separator">:</span>
-message-header-sender-field = Odosielateľ<span data-l10n-name="field-separator">:</span>
 message-header-author-field = Autor<span data-l10n-name="field-separator">:</span>
 message-header-organization-field = Organizácia<span data-l10n-name="field-separator">:</span>
-message-header-reply-to-field = Odpoveď na<span data-l10n-name="field-separator">:</span>
 message-header-subject-field = Predmet<span data-l10n-name="field-separator">:</span>
-message-header-cc-field = Kópia<span data-l10n-name="field-separator">:</span>
-message-header-bcc-field = Skrytá kópia<span data-l10n-name="field-separator">:</span>
-message-header-newsgroups-field = Diskusné skupiny<span data-l10n-name="field-separator">:</span>
 message-header-followup-to-field = Pokračovať na<span data-l10n-name="field-separator">:</span>
-message-header-tags-field = Značky<span data-l10n-name="field-separator">:</span>
 message-header-date-field = Dátum<span data-l10n-name="field-separator">:</span>
 message-header-user-agent-field = Program<span data-l10n-name="field-separator">:</span>
 message-header-references-field = Referencie<span data-l10n-name="field-separator">:</span>
 message-header-message-id-field = ID správy<span data-l10n-name="field-separator">:</span>
 message-header-in-reply-to-field = V odpovedi na<span data-l10n-name="field-separator">:</span>
 message-header-website-field = Webová stránka<span data-l10n-name="field-separator">:</span>
+# An additional email header field that the user has chosen to display. Unlike
+# the other headers, the name of this header is not expected to be localised
+# because it is generated from the raw field name found in the email header.
+#   $fieldName (String) - The field name.
+message-header-custom-field = { $fieldName }<span data-l10n-name="field-separator">:</span>
+
+##
+
 message-header-address-in-address-book-icon2 =
     .alt = V adresári
 message-header-address-not-in-address-book-icon2 =
@@ -36,3 +45,4 @@ message-header-address-in-address-book-button =
     .title = Upraviť kontakt
 message-header-field-show-more = Ďalší
     .title = Zobraziť všetkých príjemcov
+message-ids-field-show-all = Zobraziť všetko
