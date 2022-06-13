@@ -19,7 +19,10 @@ learn-more = <span data-l10n-name="link">আরো জানুন</span>
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
-inactive-css-not-grid-or-flex-container-or-multicol-container-fix = <strong>display:grid</strong>, <strong>display:flex</strong>, বা <strong>columns:2</strong> যুক্ত করার চেষ্টা করুন। { learn-more }
+inactive-css-not-grid-or-flex-container-fix = <strong>display:grid</strong> অথবা <strong>display:grid</strong> যোগ করার চেষ্টা করুন। { learn-more }
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix = <strong>display:grid</strong>, <strong>display:flex</strong>, বা <strong>columns:2</strong> যোগ করার চেষ্টা করুন। { learn-more }
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = <strong>display:inline-block</strong> যোগ করার চেষ্টা করুন। { learn-more }
+inactive-css-not-display-block-on-floated-fix = <strong>float</strong> সরানোর চেষ্টা করুন বা <strong>display:block</strong> যোগ করুন। { learn-more }
 inactive-text-overflow-when-no-overflow-fix = <strong>overflow:hidden</strong> যোগ করার চেষ্টা করুন। { learn-more }
 inactive-css-not-table-fix = <strong>display:table</strong> বা <strong>display:inline-table</strong> যোগ করার চেষ্টা করুন। { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, বা <strong>overflow:hidden</strong> যোগ করার চেষ্টা করুন। { learn-more }

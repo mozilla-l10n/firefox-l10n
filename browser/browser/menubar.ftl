@@ -250,8 +250,14 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = সহায়তা
     .accesskey = H
+menu-help-more-troubleshooting-info =
+    .label = সমস্যা সমাধান সংক্রান্ত আরও তথ্য
+    .accesskey = T
 menu-help-report-site-issue =
     .label = সাইটের সমস্যা রিপোর্ট করুন…
+menu-help-share-ideas =
+    .label = ধারনা ও প্রতিক্রিয়া শেয়ার করুন…
+    .accesskey = S
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

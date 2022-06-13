@@ -156,8 +156,14 @@ appmenu-about =
 appmenu-get-help =
     .label = সাহায্য নিন
     .accesskey = h
+appmenu-help-more-troubleshooting-info =
+    .label = সমস্যা সমাধান সংক্রান্ত আরও তথ্য
+    .accesskey = t
 appmenu-help-report-site-issue =
     .label = সাইটের সমস্যা রিপোর্ট করুন…
+appmenu-help-share-ideas =
+    .label = ধারনা ও প্রতিক্রিয়া শেয়ার করুন…
+    .accesskey = S
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
