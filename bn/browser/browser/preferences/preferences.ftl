@@ -312,6 +312,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = পিকচার-ইন-পিকচার ভিডিও নিয়ন্ত্রন চালু করুন
     .accesskey = E
 browsing-picture-in-picture-learn-more = আরও জানুন
+browsing-media-control-learn-more = আরও জানুন
 browsing-cfr-recommendations =
     .label = আপনার ব্রাউজ হিসাবে প্রস্তাবিত এক্সটেনশন
     .accesskey = R
