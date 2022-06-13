@@ -6,6 +6,10 @@ printpreview-simplify-page-checkbox =
     .label = Semplifiche la pagjine
     .accesskey = i
     .tooltiptext = Nol è pussibil semplificâ in automatic cheste pagjine
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = Cambie la disposizion par facilitâ la leture
 printpreview-close =
     .label = Siere
     .accesskey = S
@@ -27,17 +31,24 @@ printpreview-print =
     .accesskey = S
 printpreview-of =
     .value = di
+printpreview-custom-scale-prompt-title = Scjale personalizade
 printpreview-page-setup =
     .label = Configurazion de pagjine…
     .accesskey = C
 printpreview-page =
     .value = Pagjine:
     .accesskey = P
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum } di { $sheetCount }
 
 ## Variables
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-percentage-value =
+    .label = { $percent }%
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Pagjine iniziâl
@@ -50,3 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Ultime pagjine
+printpreview-homearrow-button =
+    .title = Prime pagjine
+printpreview-previousarrow-button =
+    .title = Pagjine precedente
+printpreview-nextarrow-button =
+    .title = Pagjine sucessive
+printpreview-endarrow-button =
+    .title = Ultime pagjine
