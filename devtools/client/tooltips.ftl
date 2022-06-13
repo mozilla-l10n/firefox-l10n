@@ -20,6 +20,9 @@ learn-more = <span data-l10n-name="link">আরো জানুন</span>
 ## the problem can be solved.
 
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = <strong>display:grid</strong>, <strong>display:flex</strong>, বা <strong>columns:2</strong> যুক্ত করার চেষ্টা করুন। { learn-more }
+inactive-text-overflow-when-no-overflow-fix = <strong>overflow:hidden</strong> যোগ করার চেষ্টা করুন। { learn-more }
+inactive-css-not-table-fix = <strong>display:table</strong> বা <strong>display:inline-table</strong> যোগ করার চেষ্টা করুন। { learn-more }
+inactive-scroll-padding-when-not-scroll-container-fix = <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, বা <strong>overflow:hidden</strong> যোগ করার চেষ্টা করুন। { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -28,3 +31,6 @@ inactive-css-not-grid-or-flex-container-or-multicol-container-fix = <strong>disp
 ##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
+css-compatibility-default-message = <strong>{ $property }</strong> নিম্নলিখিত ব্রাউজারগুলিতে সমর্থিত নয়:
+css-compatibility-experimental-supported-message = <strong>{ $property }</strong> একটি পরীক্ষামূলক বৈশিষ্ট্য।
+css-compatibility-learn-more-message = <strong>{ $rootProperty }</strong> সম্পর্কে <span data-l10n-name="link">আরও জানুন</span>
