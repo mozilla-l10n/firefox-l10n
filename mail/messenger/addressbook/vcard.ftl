@@ -3,6 +3,12 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+# Display Name
+
+vcard-displayname = Weergavenaam
+vcard-displayname-placeholder =
+    .placeholder = { vcard-displayname }
+
 # Type selection
 
 vcard-entry-type-label = Type
@@ -35,8 +41,7 @@ vcard-n-add-suffix =
 vcard-email-header = E-mailadressen
 vcard-email-add = E-mailadres toevoegen
 vcard-email-label = E-mailadres
-vcard-email-choose-primary = Standaard
-    .aria-label = Kies uw primaire e-mailadres
+vcard-primary-email-label = Standaard
 
 # URL vCard field
 
@@ -54,3 +59,46 @@ vcard-tel-label = Telefoonnummer
 
 vcard-tz-header = Tijdzone
 vcard-tz-add = Tijdzone toevoegen
+
+# IMPP vCard field
+
+vcard-impp-header = Chataccounts
+vcard-impp-add = Chataccount toevoegen
+vcard-impp-label = Chataccount
+
+# BDAY and ANNIVERSARY vCard field
+
+vcard-bday-anniversary-header = Speciale data
+vcard-bday-anniversary-add = Speciale datum toevoegen
+vcard-bday-label = Verjaardag
+vcard-anniversary-label = Jubileum
+vcard-date-day = Dag
+vcard-date-month = Maand
+vcard-date-year = Jaar
+
+# ADR vCard field
+
+vcard-adr-header = Adressen
+vcard-adr-add = Adres toevoegen
+vcard-adr-label = Adres
+vcard-adr-pobox = Postbus
+vcard-adr-ext = Uitgebreid adres
+vcard-adr-street = Adres
+# Or "Locality"
+vcard-adr-locality = Plaats
+# Or "Region"
+vcard-adr-region = Staat/provincie
+# The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
+vcard-adr-code = Postcode:
+vcard-adr-country = Land
+
+# NOTE vCard field
+
+vcard-note-header = Opmerkingen
+vcard-note-add = Notitie toevoegen
+
+# TITLE, ROLE and ORGANIZATION vCard fields
+
+vcard-org-title = Titel
+vcard-org-role = Rol
+vcard-org-org = Organisatie

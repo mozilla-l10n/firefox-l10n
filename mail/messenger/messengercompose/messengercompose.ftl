@@ -192,6 +192,9 @@ key-notification-resolve =
     .label = Oplossen…
     .accesskey = l
     .tooltiptext = De OpenPGP-sleutelassistent openen
+can-e2e-encrypt-button =
+    .label = Versleutelen
+    .accesskey = V
 
 ## Addressing Area
 
