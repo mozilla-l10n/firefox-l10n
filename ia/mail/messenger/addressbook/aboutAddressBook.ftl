@@ -55,6 +55,8 @@ about-addressbook-search =
     .placeholder = Cercar in { $name }
 about-addressbook-search-all =
     .placeholder = Cercar in tote le libros del adresses
+about-addressbook-sort-button2 =
+    .title = Optiones de monstra de lista
 about-addressbook-name-format-display =
     .label = Nomine monstrate
 about-addressbook-name-format-firstlast =
@@ -157,9 +159,11 @@ about-addressbook-confirm-delete-contacts =
 ## Card list placeholder
 ## Shown when there are no cards in the list
 
+about-addressbook-placeholder-empty-book = Nulle contactos disponibile
 about-addressbook-placeholder-new-contact = Nove contacto
 about-addressbook-placeholder-search-only = Iste libro de adresses monstrara contactos solo post un recerca
 about-addressbook-placeholder-searching = In cerca…
+about-addressbook-placeholder-no-search-results = Nulle contactos trovate
 
 ## Details
 

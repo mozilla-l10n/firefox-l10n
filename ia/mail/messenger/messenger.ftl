@@ -138,6 +138,9 @@ message-header-button-style-text =
     .label = Texto
 message-header-button-style-icons =
     .label = Icones
+message-header-hide-label-column =
+    .label = Celar columna de etiquettas
+    .accesskey = e
 message-header-large-subject =
     .label = Subjecto large
     .accesskey = s
@@ -150,13 +153,6 @@ toolbar-context-menu-manage-extension =
 toolbar-context-menu-remove-extension =
     .label = Remover le extension
     .accesskey = v
-
-## Message headers
-
-message-header-address-in-address-book-icon =
-    .alt = Le adresse es in le libro del adresses
-message-header-address-not-in-address-book-icon =
-    .alt = Le adresse non  es in le libro del adresses
 
 ## Add-on removal warning
 
@@ -214,12 +210,6 @@ spaces-context-new-window-item =
 # $tabName (String) - The name of the tab this item will switch to.
 spaces-context-switch-tab-item =
     .label = Passar a { $tabName }
-settings-context-open-settings-item =
-    .label = Aperir le parametros
-settings-context-open-account-settings-item =
-    .label = Aperir le parametros del conto
-settings-context-open-addons-item =
-    .label = Aperir Additivos e Themas
 settings-context-open-settings-item2 =
     .label = Parametros
 settings-context-open-account-settings-item2 =

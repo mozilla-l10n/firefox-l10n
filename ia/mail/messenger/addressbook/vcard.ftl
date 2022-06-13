@@ -63,9 +63,13 @@ vcard-tz-add = Adder fuso horari
 # IMPP vCard field
 
 vcard-impp-header = Contos chat
+vcard-impp-add = Adder conto chat
+vcard-impp-label = Conto chat
 
 # BDAY and ANNIVERSARY vCard field
 
+vcard-bday-anniversary-header = Datas special
+vcard-bday-anniversary-add = Adder data special
 vcard-bday-label = Die natal
 vcard-anniversary-label = Anniversario
 vcard-date-day = Die
@@ -77,6 +81,9 @@ vcard-date-year = Anno
 vcard-adr-header = Adresses
 vcard-adr-add = Adder adresse
 vcard-adr-label = Adresse
+vcard-adr-delivery-label = Etiquetta de consignation
+vcard-adr-pobox = Boxa postal
+vcard-adr-ext = Adresse extendite
 vcard-adr-street = Adresse del strata
 # Or "Locality"
 vcard-adr-locality = Citate
@@ -89,9 +96,12 @@ vcard-adr-country = Pais
 # NOTE vCard field
 
 vcard-note-header = Notas
+vcard-note-add = Adder nota
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-header = Proprietates organisative
+vcard-org-add = Adder proprietates organisative
 vcard-org-title = Titulo
 vcard-org-role = Rolo
 vcard-org-org = Organisation
