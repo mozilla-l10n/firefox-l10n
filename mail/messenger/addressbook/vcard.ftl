@@ -100,6 +100,8 @@ vcard-note-add = Pridať poznámku
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-header = Pozícia vo firme
+vcard-org-add = Pridať pozíciu vo firme
 vcard-org-title = Titul
 vcard-org-role = Funkcia
 vcard-org-org = Organizácia
