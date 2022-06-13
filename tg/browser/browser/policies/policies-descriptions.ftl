@@ -12,6 +12,10 @@
 
 policy-AppAutoUpdate = Навсозии худкори барномаро фаъол ё ғайрифаъол мекунад.
 policy-AppUpdateURL = Нишонии URL-и фармоиширо барои навсозии барнома насб мекунад.
+policy-BlockAboutAddons = Дастрасиро ба мудири ҷузъҳои иловагӣ манъ мекунад (about:addons).
+policy-BlockAboutConfig = Дастрасиро ба саҳифаи «about:config» манъ мекунад.
+policy-BlockAboutProfiles = Дастрасиро ба саҳифаи «about:profiles» манъ мекунад.
+policy-BlockAboutSupport = Дастрасиро ба саҳифаи «about:support» манъ мекунад.
 policy-CertificatesDescription = Гувоҳиномаҳоро илова кунед ё гувоҳиномаҳои дарунсохтро истифода баред.
 policy-DisabledCiphers = Рамзҳоро ғайрифаъол мекунад.
 policy-DisablePrivateBrowsing = Тамошокунии хусусиро ғайрифаъол мекунад.
