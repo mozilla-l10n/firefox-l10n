@@ -10,11 +10,17 @@ openpgp-key-assistant-recipients-issue-header = Impossibile cryptar
 
 ## Resolve section
 
+openpgp-key-assistant-valid-description = Elige le clave que tu vole acceptar
 openpgp-key-assistant-no-key-available = Nulle clave disponibile
 # Variables:
 # $date (String) - The expiration date of the key.
 openpgp-key-assistant-key-unaccepted-expired-one = Clave expirate le: { $date }
 openpgp-key-assistant-key-fingerprint = Dactylogramma
+openpgp-key-assistant-key-source =
+    { $count ->
+        [one] Fonte
+       *[other] Fontes
+    }
 openpgp-key-assistant-key-collected-keyserver = servitor de clave
 
 ## Discovery section
@@ -23,9 +29,15 @@ openpgp-key-assistant-key-collected-keyserver = servitor de clave
 ## Dialog buttons
 
 openpgp-key-assistant-issue-resolve-button = Resolver…
+openpgp-key-assistant-view-key-button = Vider clave…
 openpgp-key-assistant-recipients-show-button = Monstrar
 openpgp-key-assistant-recipients-hide-button = Celar
 openpgp-key-assistant-cancel-button = Cancellar
 openpgp-key-assistant-back-button = Retro
 openpgp-key-assistant-accept-button = Acceptar
 openpgp-key-assistant-close-button = Clauder
+openpgp-key-assistant-disable-button = Disactivar cryptation
+openpgp-key-assistant-confirm-button = Inviar cryptate
+# Variables:
+# $date (String) - The key creation date.
+openpgp-key-assistant-key-created = create le { $date }
