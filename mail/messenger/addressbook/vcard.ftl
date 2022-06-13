@@ -81,6 +81,7 @@ vcard-date-year = Jaar
 vcard-adr-header = Adressen
 vcard-adr-add = Adres toevoegen
 vcard-adr-label = Adres
+vcard-adr-delivery-label = Bezorgingslabel
 vcard-adr-pobox = Postbus
 vcard-adr-ext = Uitgebreid adres
 vcard-adr-street = Adres
@@ -99,6 +100,8 @@ vcard-note-add = Notitie toevoegen
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-header = Organisatie-eigenschappen
+vcard-org-add = Organisatie-eigenschappen toevoegen
 vcard-org-title = Titel
 vcard-org-role = Rol
 vcard-org-org = Organisatie
