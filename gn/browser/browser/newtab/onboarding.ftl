@@ -3,11 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### UI strings for the simplified onboarding / multistage about:welcome
-### Various strings use a non-breaking space to avoid a single dangling /
-### widowed word, so test on various window sizes if you also want this.
-
-
 ### UI strings for the MR1 onboarding / multistage about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -28,9 +23,6 @@ return-to-amo-subtitle = Iporãite, emohendáma { -brand-short-name }
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-title = Ko’ág̃a roguerekóta <img data-l10n-name="icon"/> <b>{ $addon-name }</b> ndéve g̃uarã.
 return-to-amo-add-extension-label = Embojuaju jepysokue
-
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
-
 return-to-amo-add-theme-label = Embojuaju Téma
 
 ## Multistage onboarding strings (about:welcome pages)
@@ -41,7 +33,6 @@ return-to-amo-add-theme-label = Embojuaju Téma
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Ku’e ñepyrũgua: mba’erechaha { $current } { $total } pegua
-
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -50,13 +41,11 @@ onboarding-welcome-steps-indicator =
 # An alternative title for localization is: "It starts here".
 # This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = Tata oñepyrũ ápe
-
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Moheñoihára purupy ogaygua, Firefox rayhuha
-
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Eipe’aite mbovy’aha
 
@@ -82,11 +71,9 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Eñepyrũ
-
 mr1-onboarding-welcome-header = Eg̃uahẽporãite { -brand-short-name }-pe
 mr1-onboarding-set-default-pin-primary-button-label = Ajapo { -brand-short-name }-gui che kundahára aipuruvévarõ
     .title = Areko { -brand-short-name } kundahára ypyguárõ ha ambojuaju tembiaporã rendáre
-
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Ajapo { -brand-short-name }-gui kundahára ypyguávarõ
@@ -104,16 +91,13 @@ mr1-onboarding-default-primary-button-label = Ejapo kundahára ijypyguárõ
 
 mr1-onboarding-import-header = Eguerahapa nendive
 mr1-onboarding-import-subtitle = Emba’egueru ne ñe’ẽñemi, <br/>techaukaha ha hetave.
-
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Emba’egueru { $previous } guive
-
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Emba’egueru kundahára itujavéva guive
 mr1-onboarding-import-secondary-button-label = Ani ko’ág̃a
-
 mr2-onboarding-colorway-header = Tekove sa’ýndi
 mr2-onboarding-colorway-subtitle = Sa’y ojuehegua overáva pyahu. Eipurukuaáva sapy’ami.
 mr2-onboarding-colorway-primary-button-label = Eñongatu sa’y ojueheguáva
@@ -123,112 +107,87 @@ mr2-onboarding-colorway-label-balanced = Vavapyre
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = Mbarete
-
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Jehegui
-
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = Ijypykue
-
 mr1-onboarding-theme-header = Eñemomba’e hese
 mr1-onboarding-theme-subtitle = Eñemomba’e { -brand-short-name } peteĩ téma ndive
 mr1-onboarding-theme-primary-button-label = Eñongatu téma
 mr1-onboarding-theme-secondary-button-label = Ani ko’ág̃a
-
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Téma apopyvusu
-
 mr1-onboarding-theme-label-light = Tesakã
 mr1-onboarding-theme-label-dark = Ypytũ
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+onboarding-theme-primary-button-label = Apopyréma
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
-
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
 # Tooltip displayed on hover of system theme
 mr1-onboarding-theme-tooltip-system =
     .title =
         Ehapykueho apopyvusu oku’éva téma
         votõ, poravorã ha ovetãme g̃uarã.
-
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         Ehapykueho apopyvusu oku’éva téma
         votõ, poravorã ha ovetãme g̃uarã.
-
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         Eipuru ojehechaporãva votõ,
         poravorã ha ovetã.
-
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         Eipuru ojehechaporãva votõ,
         poravorã ha ovetã.
-
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Eipuru téma ypytũ votõ,
         poravorã ha ovetãme g̃uarã.
-
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Eipuru téma ypytũ votõ,
         poravorã ha ovetãme g̃uarã.
-
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Eipuru téma hetia’e ha isa’ýva votõ,
         poravorã ha ovetãme g̃uarã.
-
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Eipuru téma hetia’e ha isa’ýva votõ,
         poravorã ha ovetãme g̃uarã.
-
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = Eipuru ko sa’y ojueheguáva.
-
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = Eipuru ko sa’y ojueheguáva.
-
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
     .title = Ehapereka sa’y ojueheguáva { $colorwayName }.
-
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-label = Ehapereka sa’y ojueheguáva { $colorwayName }.
-
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Ehapereka téma ypyguáva.
-
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Ehapereka téma ypyguáva.
 
@@ -243,20 +202,9 @@ mr2-onboarding-start-browsing-button-label = Eñepyrũ eikundaha
 ## The following language names are generated by the browser's Intl.DisplayNames API.
 ##
 ## Variables:
-##   $appLanguage (String) - The name of Firefox's language, e.g. "American English"
-##   $systemLanguage (String) - The name of the OS's language, e.g. "European Spanish"
-##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "European Spanish"
-
-
-## Multistage live language reloading onboarding strings (about:welcome pages)
-##
-## The following language names are generated by the browser's Intl.DisplayNames API.
-##
-## Variables:
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "Español (ES)"
 
 onboarding-live-language-header = Eiporavo ne ñe’ẽte
-
 onboarding-live-language-button-label-downloading = Amohendahína ñe’ẽ rysýi { $negotiatedLanguage } peg̃uarã…
 onboarding-live-language-waiting-button = Egueru ñe’ẽ eipurukuaáva…
 onboarding-live-language-installing = Amohendahína ñe’ẽ rysýi { $negotiatedLanguage } peg̃uarã…
@@ -282,7 +230,6 @@ fx100-thank-you-pin-primary-button-label =
         [macos] Ereko { -brand-short-name } Dock ndive
        *[other] Emboja { -brand-short-name } tembiapo rendáre
     }
-
 fx100-upgrade-thanks-header = 100 Aguyje
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
