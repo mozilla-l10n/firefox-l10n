@@ -243,6 +243,11 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = আমদানি সম্পূর্ণ হয়েছে
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>নতুন লগইন যোগ করা হয়েছে:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>নতুন লগইন যোগ করা হয়েছে:</span> <span data-l10n-name="count">{ $count }</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>ত্রুটি:</span> <span data-l10n-name="count">{ $count }টি</span> <span data-l10n-name="meta">(আমদানি করা হয়নি)</span>
@@ -250,7 +255,11 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = সম্পন্ন হয়েছে
 about-logins-import-dialog-error-title = আমদানি ত্রুটি
+about-logins-import-dialog-error-conflicting-values-title = এক লগইনের জন্য একাধিক পরস্পরবিরোধী মান
+about-logins-import-dialog-error-conflicting-values-description = উদাহরণস্বরূপ: এক লগইনের জন্য একাধিক ব্যবহারকারীর নাম, পাসওয়ার্ড, ইউআরএল ইত্যাদি।
+about-logins-import-dialog-error-file-format-title = ফাইল ফরম্যাট সমস্যা
 about-logins-import-dialog-error-file-permission-title = ফাইল পড়তে অক্ষম
+about-logins-import-dialog-error-unable-to-read-title = ফাইল পার্স করা যাচ্ছে না
 about-logins-import-dialog-error-unable-to-read-description = নিশ্চিত করুন যে আপনি একটি CSV অথবা TSV ফাইল নির্বাচন করেছেন৷
 about-logins-import-dialog-error-learn-more = অধিক জানুন
 about-logins-import-dialog-error-try-import-again = আবার আমদানির চেষ্টা করুন…
