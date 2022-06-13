@@ -9,7 +9,25 @@ findbar-next =
     .tooltiptext = Cjate la prossime ocorince dal test
 findbar-previous =
     .tooltiptext = Cjate la precedente ocorince dal test
-
 findbar-find-button-close =
     .tooltiptext = Siere la sbare di ricercje
-
+findbar-highlight-all2 =
+    .label = Evidenzie dut
+    .accesskey =
+        { PLATFORM() ->
+            [macos] u
+           *[other] d
+        }
+    .tooltiptext = Evidenzie ducj i câs te frase
+findbar-case-sensitive =
+    .label = Corispondence maiusculis/minusculis
+    .accesskey = m
+    .tooltiptext = Cîr cu la distinzion tra maiusculis e minusculis
+findbar-match-diacritics =
+    .label = Corispondence diacritiche
+    .accesskey = d
+    .tooltiptext = Fâs distinzion tra letaris acentadis e lis rispetivis letaris base (par esempli, cuant che si cîr “resume”, “résumé” nol vignarà cjatât)
+findbar-entire-word =
+    .label = Peraulis interiis
+    .accesskey = P
+    .tooltiptext = Cîr dome lis peraulis interiis
