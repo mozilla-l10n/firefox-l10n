@@ -125,6 +125,10 @@ message-header-msg-flagged =
     .aria-label = Met ster
 message-header-msg-not-flagged =
     .title = Niet met ster gemarkeerd bericht
+# Variables:
+# $address (String) - The email address of the recipient this picture belongs to.
+message-header-recipient-avatar =
+    .alt = Profielafbeelding van { $adres }.
 
 ## Message header cutomize panel
 
