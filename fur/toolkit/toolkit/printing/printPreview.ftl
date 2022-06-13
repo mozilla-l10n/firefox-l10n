@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = Semplifiche la pagjine
+    .accesskey = i
+    .tooltiptext = Nol è pussibil semplificâ in automatic cheste pagjine
 printpreview-close =
     .label = Siere
     .accesskey = S
@@ -46,4 +50,3 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Ultime pagjine
-

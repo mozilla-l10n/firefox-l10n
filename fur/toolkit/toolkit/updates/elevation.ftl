@@ -11,3 +11,8 @@ elevation-error-manual = Tu puedis inzornâ { -brand-short-name } a man fracant 
 elevation-finished-page = Inzornament pront pe instalazion
 elevation-finished-background-page = Un inzornament di sigurece e stabilitât par { -brand-short-name }al è stât discjamât e al è pront di instalâ.
 elevation-finished-background = Inzornament:
+elevation-more-elevated =
+    Chest inzornament al à bisugne dai privileçs di aministradôr. L'inzornament
+    al vignarà instalât al prossim inviament di { -brand-short-name }. Tu puedis
+    tornâ a inviâ { -brand-short-name } cumò, continuâ a lavorâ e tornâ a inviâ plui
+    indenant opûr declinâ chest inzornament.
