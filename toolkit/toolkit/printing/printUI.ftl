@@ -54,10 +54,15 @@ printui-primary-button = মুদ্রণ করুন
 printui-primary-button-save = সংরক্ষণ করুন
 printui-cancel-button = বাতিল করুন
 printui-close-button = বন্ধ করুন
-printui-loading = পূর্বরূপ প্রস্তুত করা হচ্ছে
+printui-loading = প্রাকদর্শন প্রস্তুত করা হচ্ছে
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = মুদ্রণের প্রাকদর্শন
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
+printui-paper-tabloid = ট্যাবলয়েড
 
 ## Error messages shown when a user has an invalid input
 
