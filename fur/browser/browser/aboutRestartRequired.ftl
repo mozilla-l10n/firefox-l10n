@@ -3,5 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Necessari tornâ a inviâ
-
+restart-required-heading = Torne invie par continuâ a doprâ { -brand-short-name }
 restart-button-label = Torne invie { -brand-short-name }
