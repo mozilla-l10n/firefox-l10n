@@ -495,6 +495,9 @@ key-error-key-id-not-found = Konfiguratutako gako ID '{ $keySpec }'  ez da aurki
 key-error-not-accepted-as-personal = Ez duzu berretsi '{ $keySpec }' IDa duen gakoa zure gako pertsonala denik.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Aukeratu duzu funtzioa ez dago erabilgarri lineaz kanpo moduan. Jar zaitez linean eta saiatu berriro.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found2 = Ez da aurkitu bilaketa irizpideekin bat datorren gako erabilgarririk.
+no-update-found = Badaukazu jada sarean aurkitu diren gakoak.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Errorea - gakoa ateratzeko komandoak huts egin du
 # Strings used in keyRing.jsm
