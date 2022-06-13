@@ -157,6 +157,10 @@ about-addressbook-confirm-delete-contacts =
 ## Card list placeholder
 ## Shown when there are no cards in the list
 
+about-addressbook-placeholder-new-contact = Nieuw contact
+about-addressbook-placeholder-search-only = Dit adresboek toont alleen contacten na een zoekopdracht
+about-addressbook-placeholder-searching = Zoeken…
+about-addressbook-placeholder-no-search-results = Geen contacten gevonden
 
 ## Details
 
