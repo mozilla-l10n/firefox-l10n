@@ -23,11 +23,14 @@ about-private-browsing-info-description-private-window = ব্যক্তি�
 about-private-browsing-info-description-simplified = আপনি যখন সমস্ত ব্যক্তিগত উইন্ডো বন্ধ করেন, { -brand-short-name } আপনার অনুসন্ধান এবং ব্রাউজিং ইতিহাস সাফ করে তবে এটি আপনাকে বেনামী করে না।
 about-private-browsing-learn-more-link = আরও জানুন
 about-private-browsing-hide-activity = আপনি যেখানেই ব্রাউজ করবেন, সেখানে আপনার কার্যকলাপ এবং অবস্থান গোপন রাখুন
+about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ব্যবহার করে ব্যক্তিগত থাকুন
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ডাউনলোড করুন
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = আপনার ফোনে ব্যক্তিগত ব্রাউজিং নিন
 about-private-browsing-focus-promo-header-c = মোবাইলে পরবর্তী স্তরের গোপনীয়তা
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } বিজ্ঞাপন ও ট্র্যাকার অবরুদ্ধ করাসহ প্রতিবার আপনার ইতিহাস পরিষ্কার করে।
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
