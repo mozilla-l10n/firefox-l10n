@@ -196,6 +196,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Zonte “{ $engineName }”
+    .tooltiptext = Zonte motôr di ricercje “{ $engineName }”
+    .aria-label = Zonte motôr di ricercje “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -253,6 +261,7 @@ identity-header-security-with-host =
     .title = Sigurece de conession par { $host }
 identity-connection-not-secure = Conession no sigure
 identity-connection-secure = Conession sigure
+identity-connection-failure = Erôr di conession
 identity-connection-internal = Cheste e je une pagjine di { -brand-short-name } sigure.
 identity-connection-file = Cheste pagjine e je archiviade sul to computer.
 identity-extension-page = Cheste pagjine e je cjariade di une estension.
@@ -369,6 +378,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Microfon
+popup-select-speaker-icon =
+    .tooltiptext = Cassis
 popup-all-windows-shared = A vignaran condividûts ducj i barcons visibii sul to schermi.
 popup-screen-sharing-block =
     .label = Bloche
@@ -429,6 +440,11 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Cîr cun { $name } o inserìs une direzion
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Il navigadôr al è sot di un control esterni (motîf: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Tu âs dât permès adizionâi a chest sît web.
 urlbar-switch-to-tab =
@@ -498,6 +514,16 @@ urlbar-result-action-search-tabs = Cîr tes schedis
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use sentence case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = Sugjeriments di { $engine }
 
 ## Full Screen and Pointer Lock UI
 
@@ -518,6 +544,10 @@ pointerlock-warning-no-domain = Chest document al à il control dal to pontadôr
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Part di cheste pagjine e je colassade.</strong> Par permeti a { -brand-product-name } di cognossi il motîf di chest probleme e vê risolt prime il probleme, par plasê invie une segnalazion.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Part di cheste pagjine e je colassade. Par permeti a { -brand-product-name } di cognossi in merit a chest probleme e fâ in mût che al vegni comedât plui di corse, par plasê invie une segnalazion.
 crashed-subframe-learnmore-link =
     .value = Plui informazions
 crashed-subframe-submit =
@@ -601,6 +631,9 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Comede la codifiche dal test
+    .tooltiptext = Partint dal contignût de pagjine, induvine la juste codifiche dal test
 
 ## Customize Toolbar Buttons
 
@@ -665,6 +698,9 @@ addon-removal-abuse-report-checkbox = Segnale cheste estension a { -vendor-short
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Altri…
 ui-tour-info-panel-close =
     .tooltiptext = Siere
 
@@ -683,6 +719,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = No sta mostrâmi chest messaç cuant che i barcons a comparse a vegnin blocâts
     .accesskey = D
+edit-popup-settings =
+    .label = Gjestìs impostazions pop-up…
+    .accesskey = m
 picture-in-picture-hide-toggle =
     .label = Plate seletôr pal Picture-in-Picture
     .accesskey = H
@@ -690,6 +729,12 @@ picture-in-picture-hide-toggle =
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-right =
+    .label = Sposte la mantie dal Picture-in-Picture te bande diestre
+    .accesskey = r
+picture-in-picture-move-toggle-left =
+    .label = Sposte la mantie dal Picture-in-Picture te bande çampe
+    .accesskey = l
 
 ##
 
