@@ -176,6 +176,13 @@ profiler-popup-presets-graphics-description = Preconfigurazion par investigâ su
 profiler-popup-presets-graphics-label =
     .label = Grafiche
 profiler-popup-presets-media-description2 = Preconfigurazion par investigâ su erôrs audio e video in { -brand-shorter-name }.
+profiler-popup-presets-media-label =
+    .label = Multimediâl
+profiler-popup-presets-networking-description = Preconfigurazion par investigâ su erôrs di rêt in { -brand-shorter-name }.
+profiler-popup-presets-networking-label =
+    .label = Rêt
+profiler-popup-presets-custom-label =
+    .label = Personalizât
 
 ## History panel
 
@@ -208,6 +215,9 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = T
 appmenu-help-report-site-issue =
     .label = Segnale probleme cul sît…
+appmenu-help-share-ideas =
+    .label = Condivît ideis e parês…
+    .accesskey = C
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
