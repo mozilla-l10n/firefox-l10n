@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Suositeltu ominaisuus
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Miksi näen tämän
-
 cfr-doorhanger-extension-cancel-button = Ei nyt
     .accesskey = E
-
 cfr-doorhanger-extension-ok-button = Lisää nyt
     .accesskey = L
-
 cfr-doorhanger-extension-manage-settings-button = Hallitse suositteluasetuksia
     .accesskey = H
-
 cfr-doorhanger-extension-never-show-recommendation = Älä näytä tätä suositusta minulle
     .accesskey = n
-
 cfr-doorhanger-extension-learn-more-link = Lue lisää
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = tekijältä { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Suositus
 cfr-doorhanger-extension-notification2 = Suositus
     .tooltiptext = Laajennussuositus
     .a11y-announcement = Laajennussuositus saatavilla
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Suositus
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = Lue lisää
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Uusi ominaisuus:
-
 cfr-whatsnew-button =
     .label = Mitä uutta
     .tooltiptext = Mitä uutta
-
 cfr-whatsnew-release-notes-link-text = Lue julkaisutiedote
 
 ## Enhanced Tracking Protection Milestones
@@ -154,6 +144,8 @@ spotlight-public-wifi-vpn-link = Ei nyt
 
 ## Total Cookie Protection Rollout
 
+spotlight-total-cookie-protection-body = Totaalinen evästesuoja estää seuraimia käyttämästä evästeitä sinun seuraamiseen verkossa.
+spotlight-total-cookie-protection-primary-button = Ota totaalinen evästesuoja käyttöön
 spotlight-total-cookie-protection-secondary-button = Ei nyt
 
 ## Emotive Continuous Onboarding
