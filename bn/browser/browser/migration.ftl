@@ -80,10 +80,18 @@ imported-edge-reading-list = তালিকা পড়া হচ্ছে (Edge 
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = কুকিস
+browser-data-cookies-label =
+    .value = কুকিস
 browser-data-formdata-checkbox =
     .label = সংরক্ষিত ফরমের ইতিহাস
 browser-data-formdata-label =
     .value = সংরক্ষিত ফরমের ইতিহাস
+browser-data-otherdata-checkbox =
+    .label = অন্যান্য তথ্য
+browser-data-otherdata-label =
+    .label = অন্যান্য তথ্য
 browser-data-session-checkbox =
     .label = উইন্ডো এবং ট্যাব
 browser-data-session-label =
