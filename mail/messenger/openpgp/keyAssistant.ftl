@@ -110,7 +110,7 @@ openpgp-key-assistant-key-rejected = Cafodd yr allwedd hon ei gwrthod gynt.
 openpgp-key-assistant-key-accepted-other = Cafodd yr  allwedd hon ei derbyn gynt ar gyfer cyfeiriad e-bost gwahanol.
 # Variables:
 # $recipient (String) - The email address of the recipient needing resolution.
-openpgp-key-assistant-resolve-discover-info = Darganfyddwch allweddi ychwanegol neu rhai wedi'u diweddaru ar gyfer { $recipient } ar-lein, neu eu mewnforio o ffeil.
+openpgp-key-assistant-resolve-discover-info = Darganfod allweddi ychwanegol neu rhai wedi'u diweddaru ar gyfer { $recipient } ar-lein, neu eu mewnforio o ffeil.
 
 ## Discovery section
 
