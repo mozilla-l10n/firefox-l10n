@@ -150,7 +150,15 @@ spotlight-public-wifi-vpn-link = No cumò
 spotlight-total-cookie-protection-header =
     Prove in anteprime la miôr esperience
     pal massim de riservatece
+spotlight-total-cookie-protection-body = Protezion Totâl dai Cookies e ferme i spions (tracker) dal doprâ i cookie par stâti daûr cuant che tu vâs ator pal web.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } al costruìs une stangjaçade tor ator dai cookies, limitantju al lôr sît, cussì che i spions (tracker) no rivin a doprâju par stâti daûr. Cun l'acès anticipât, tu judarâs a otimizâ cheste funzionalitât cussì che o rivìn a continuâ il nestri lavôr par costruî un web miôr par ducj.
+spotlight-total-cookie-protection-primary-button = Ative la Protezion Totâl dai Cookies
 spotlight-total-cookie-protection-secondary-button = No cumò
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Un internet miôr al scomence cun te
+spotlight-better-internet-body = Cuant che tu dopris { -brand-short-name }, tu esprimis il to supuart par vê un internet viert e acessibil, che al è miôr par ducj.
+spotlight-peace-mind-header = Ti tignìn al sigûr
