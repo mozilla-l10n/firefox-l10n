@@ -3,6 +3,12 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+# Display Name
+
+vcard-displayname = Enw dangos
+vcard-displayname-placeholder =
+    .placeholder = { vcard-displayname }
+
 # Type selection
 
 vcard-entry-type-label = Math
@@ -35,8 +41,7 @@ vcard-n-add-suffix =
 vcard-email-header = Cyfeiriadau E-bost
 vcard-email-add = Ychwanegu cyfeiriad e-bost
 vcard-email-label = Cyfeiriad e-bost
-vcard-email-choose-primary = Rhagosodiad
-    .aria-label = Dewiswch eich prif gyfeiriad e-bost
+vcard-primary-email-label = Rhagosodiad
 
 # URL vCard field
 
@@ -54,3 +59,49 @@ vcard-tel-label = Rhif ffôn
 
 vcard-tz-header = Cylch Amser
 vcard-tz-add = Ychwanegu cylch amser
+
+# IMPP vCard field
+
+vcard-impp-header = Cyfrifon Sgwrsio
+vcard-impp-add = Ychwanegu cyfrif sgwrsio
+vcard-impp-label = Cyfrif sgwrsio
+
+# BDAY and ANNIVERSARY vCard field
+
+vcard-bday-anniversary-header = Dyddiadau Arbennig
+vcard-bday-anniversary-add = Ychwanegu dyddiad arbennig
+vcard-bday-label = Pen-blwydd
+vcard-anniversary-label = Dathliad
+vcard-date-day = Diwrnod
+vcard-date-month = Mis
+vcard-date-year = Blwyddyn
+
+# ADR vCard field
+
+vcard-adr-header = Cyfeiriadau
+vcard-adr-add = Ychwanegu cyfeiriad
+vcard-adr-label = Cyfeiriadau
+vcard-adr-delivery-label = Label dosbarthu
+vcard-adr-pobox = Blwch swyddfa'r post
+vcard-adr-ext = Cyfeiriad estynedig
+vcard-adr-street = Cyfeiriad stryd
+# Or "Locality"
+vcard-adr-locality = Tref/Dinas
+# Or "Region"
+vcard-adr-region = Sir/Talaith:
+# The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
+vcard-adr-code = Cod Post/ZIP:
+vcard-adr-country = Gwlad
+
+# NOTE vCard field
+
+vcard-note-header = Nodiadau
+vcard-note-add = Ychwanegu nodyn
+
+# TITLE, ROLE and ORGANIZATION vCard fields
+
+vcard-org-header = Adeiladau Sefydliadol
+vcard-org-add = Ychwanegu adeiladau sefydliadol
+vcard-org-title = Teitl
+vcard-org-role = Rôl
+vcard-org-org = Corff

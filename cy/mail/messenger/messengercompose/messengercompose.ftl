@@ -212,6 +212,11 @@ key-notification-resolve =
     .label = Datrys...
     .accesskey = D
     .tooltiptext = Agor Cynorthwydd Allweddi OpenPGP
+can-encrypt-smime-notification = Mae amgryptio S/MIME o'r dechrau i'r diwedd yn bosibl.
+can-encrypt-openpgp-notification = Mae amgryptio S/MIME o'r dechrau i'r diwedd yn bosibl.
+can-e2e-encrypt-button =
+    .label = Amgryptio
+    .accesskey = A
 
 ## Addressing Area
 
