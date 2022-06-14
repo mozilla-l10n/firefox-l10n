@@ -73,6 +73,18 @@ downloads-cmd-show-button-2 =
             [macos] Mostre in Finder
            *[other] Mostre te cartele
         }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Mostre in Finder
+           *[other] Mostre te cartele
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Mostre in Finder
+           *[other] Mostre te cartele
+        }
 downloads-cmd-show-downloads =
     .label = Mostre la cartele dai discjamâts
 downloads-cmd-retry =
@@ -94,6 +106,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Nete liste dai discjariaments
     .accesskey = d
+downloads-cmd-delete-file =
+    .label = Elimine
+    .accesskey = E
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Permet discjariament
@@ -134,6 +149,13 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+downloading-file-opens-in-hours-and-minutes = Al vignarà viert chi di { $hours }h { $minutes }m…
+downloading-file-opens-in-minutes = Al vignarà viert chi di { $minutes }m…
+downloading-file-opens-in-minutes-and-seconds = Al vignarà viert chi di { $minutes }m { $seconds }s…
+downloading-file-opens-in-seconds = Al vignarà viert chi di { $seconds }s…
+downloading-file-opens-in-some-time = Al vignarà viert a pene completât…
+downloading-file-click-to-open =
+    .value = Al vignarà viert a pene che al sarà completât
 
 ##
 
@@ -161,6 +183,13 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-files-not-downloaded =
+    { $num ->
+        [one] File no discjariât.
+       *[other] { $num } files no discjariâts.
+    }
+downloads-blocked-from-url = Discjariaments blocâts di { $url }.
+downloads-blocked-download-detailed-info = { $url } al à cirût di discjamâ in automatic plui files. Al podarès sei che il sît al sedi ruvinât o che al ciri di archiviâ files di spam sul to dispositîf.
 
 ##
 
