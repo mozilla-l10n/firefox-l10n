@@ -13,6 +13,8 @@ appmenuitem-banner-update-manual =
     .label = Inzornament disponibil — discjame daurman
 appmenuitem-banner-update-unsupported =
     .label = Impussibil inzornâ — sisteme incompatibil
+appmenuitem-banner-update-restart =
+    .label = Inzornament disponibil — torne invie cumò
 appmenuitem-new-tab =
     .label = Gnove schede
 appmenuitem-new-window =
@@ -121,6 +123,9 @@ profiler-popup-button-idle =
 profiler-popup-button-recording =
     .label = Profiladôr
     .tooltiptext = Regjistrazion dal profîl in cors
+profiler-popup-button-capturing =
+    .label = Profiladôr
+    .tooltiptext = Il profiladôr al sta regjistrant un profîl
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -161,6 +166,15 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Preconfigurazion conseade pe plui part dai debug des web-app, cun basse sorecjame.
+profiler-popup-presets-web-developer-label =
+    .label = Svilupadôr web
+profiler-popup-presets-firefox-description = Preconfigurazion conseade pe profilazion di { -brand-shorter-name }.
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description = Preconfigurazion par investigâ sui erôrs grafics in { -brand-shorter-name }.
+profiler-popup-presets-graphics-label =
+    .label = Grafiche
 
 ## History panel
 
