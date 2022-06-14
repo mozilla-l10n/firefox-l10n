@@ -137,6 +137,9 @@ spotlight-learn-more-expanded = Altris informazions
 
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Al somee che tu stedis doprant un Wi-Fi public
+spotlight-public-wifi-vpn-body = Par platâ la tô posizion e la ativitât di navigazion, considere une Rêt Privade Virtuâl (VPN). Ti judarà a tignîti protet cuant che tu navighis in puescj publics tant che aeropuarts e cafetariis.
+spotlight-public-wifi-vpn-primary-button = Reste privât cun { -mozilla-vpn-brand-name }
+    .accesskey = s
 spotlight-public-wifi-vpn-link = No cumò
     .accesskey = N
 
