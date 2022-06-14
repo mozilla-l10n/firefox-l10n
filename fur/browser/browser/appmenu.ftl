@@ -175,6 +175,7 @@ profiler-popup-presets-firefox-label =
 profiler-popup-presets-graphics-description = Preconfigurazion par investigâ sui erôrs grafics in { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Grafiche
+profiler-popup-presets-media-description2 = Preconfigurazion par investigâ su erôrs audio e video in { -brand-shorter-name }.
 
 ## History panel
 
