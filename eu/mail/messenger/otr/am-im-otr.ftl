@@ -5,6 +5,7 @@
 account-encryption =
     .label = Muturretik muturrerako enkriptatzea
 account-otr-label = Off-the-Record mezularitza (OTR)
+account-otr-description2 = OTRn oinarritutako muturretik muturrera zifratutako banakako elkarrizketen euskarria dauka { -brand-short-name }. Honek hirugarren batzuk entzuten egotea ekiditen du. Muturretik muturrerako elkarrizketa mota hau beste aldeko softwareak OTR euskarria badauka erabil daiteke bakarrik.
 otr-encryption-title = Zifratze egiaztatua
 otr-encryption-caption = Beste batzuk zu OTR txatetan identifikatzea ahalbidetzeko, partekatu zure OTR hatz-marka, kanpo (bandaz kanpo) komunikazio kanal bat erabiliz.
 otr-fingerprint-label = Zure hatz-marka:
@@ -12,7 +13,6 @@ view-fingerprint-button =
     .label = Kudeatu kontaktuen hatz-markak
     .accesskey = h
 otr-settings-title = OTR ezarpenak
-
 otr-require-encryption =
     .label = Muturretik muturrerako zifraketa behar da banakako elkarrizketetarako
 otr-require-encryption-info =
@@ -21,6 +21,4 @@ otr-require-encryption-info =
     ez dira erakutsiko elkarrizketa arrunt bateko atal bezala, eta ez dira erregistratuko.
 otr-verify-nudge =
     .label = Beti gogorarazi egiaztatzea egiaztatu gabeko kontaktuak
-
 otr-not-yet-available = oraindik ez dago erabilgarri
-
