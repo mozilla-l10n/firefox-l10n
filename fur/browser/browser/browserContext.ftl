@@ -371,3 +371,6 @@ main-context-menu-eme-learn-more =
 main-context-menu-open-link-in-container-tab =
     .label = Vierç colegament intune gnove schede { $containerName }
     .accesskey = t
+main-context-menu-reveal-password =
+    .label = Rivele password
+    .accesskey = v
