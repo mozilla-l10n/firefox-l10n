@@ -133,6 +133,10 @@ message-header-msg-flagged =
     .aria-label = Serennog
 message-header-msg-not-flagged =
     .title = Neges heb ei marcio â seren
+# Variables:
+# $address (String) - The email address of the recipient this picture belongs to.
+message-header-recipient-avatar =
+    .alt = Llun proffil { $address }.
 
 ## Message header cutomize panel
 
@@ -146,6 +150,13 @@ message-header-button-style-text =
     .label = Testun
 message-header-button-style-icons =
     .label = Eiconau
+message-header-show-sender-full-address =
+    .label = Dangos cyfeiriad llawn yr anfonwr bob tro
+    .accesskey = l
+message-header-show-sender-full-address-description = Bydd y cyfeiriad e-bost yn cael ei ddangos o dan yr enw dangos.
+message-header-show-recipient-avatar =
+    .label = Dangos llun proffil yr anfonwr
+    .accesskey = D
 message-header-large-subject =
     .label = Pwnc mawr
     .accesskey = P
@@ -158,13 +169,6 @@ toolbar-context-menu-manage-extension =
 toolbar-context-menu-remove-extension =
     .label = Tynnu Estyniad
     .accesskey = T
-
-## Message headers
-
-message-header-address-in-address-book-icon =
-    .alt = Cyfeiriad yn y Llyfr Cyfeiriadau
-message-header-address-not-in-address-book-icon =
-    .alt = Nid yw'r cyfeiriad yn y Llyfr Cyfeiriadau
 
 ## Add-on removal warning
 
@@ -222,12 +226,6 @@ spaces-context-new-window-item =
 # $tabName (String) - The name of the tab this item will switch to.
 spaces-context-switch-tab-item =
     .label = Newid i { $tabName }
-settings-context-open-settings-item =
-    .label = Agor y Gosodiadau
-settings-context-open-account-settings-item =
-    .label = Agor Gosodiadau Cyfrif
-settings-context-open-addons-item =
-    .label = Agor Ychwanegion a Themâu
 settings-context-open-settings-item2 =
     .label = Gosodiadau
 settings-context-open-account-settings-item2 =

@@ -26,6 +26,8 @@ about-addressbook-books-context-properties =
     .label = Priodweddau
 about-addressbook-books-context-synchronize =
     .label = Cydweddu
+about-addressbook-books-context-edit =
+    .label = Golygu
 about-addressbook-books-context-print =
     .label = Argraffu…
 about-addressbook-books-context-export =
@@ -53,8 +55,8 @@ about-addressbook-search =
     .placeholder = Chwilio { $name }
 about-addressbook-search-all =
     .placeholder = Chwilio'r holl lyfrau cyfeiriadau
-about-addressbook-sort-button =
-    .title = Newid trefn y rhestr
+about-addressbook-sort-button2 =
+    .title = Dangos y dewisiadau dangos
 about-addressbook-name-format-display =
     .label = Dangos Enw
 about-addressbook-name-format-firstlast =
@@ -178,8 +180,18 @@ about-addressbook-confirm-delete-contacts =
        *[other] Ydych chi'n siŵr eich bod chi am ddileu'r { $count } cysylltiad yma?
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+about-addressbook-placeholder-empty-book = Dim cysylltiadau ar gael
+about-addressbook-placeholder-new-contact = Cysylltiad Newydd
+about-addressbook-placeholder-search-only = Dim ond ar ôl chwilio mae'r llyfr cyfeiriadau hwn yn dangos cysylltiadau
+about-addressbook-placeholder-searching = Yn chwilio…
+about-addressbook-placeholder-no-search-results = Heb ganfod cysylltiadau
+
 ## Details
 
+about-addressbook-prefer-display-name = Dewis enw dangos o flaen pennyn neges
 about-addressbook-write-action-button = Ysgrifennu
 about-addressbook-event-action-button = Digwyddiad
 about-addressbook-search-action-button = Chwilio
@@ -190,8 +202,6 @@ about-addressbook-save-edit-contact-button = Cadw
 about-addressbook-add-contact-to = Ychwanegu at:
 about-addressbook-details-email-addresses-header = Cyfeiriadau E-bost
 about-addressbook-details-phone-numbers-header = Rhifau Ffôn
-about-addressbook-details-home-address-header = Cyfeiriad Cartref
-about-addressbook-details-work-address-header = Cyfeiriad Gwaith
 about-addressbook-details-addresses-header = Cyfeiriadau
 about-addressbook-details-notes-header = Nodiadau
 about-addressbook-details-other-info-header = Manylion Eraill
@@ -204,7 +214,6 @@ about-addressbook-entry-name-birthday = Pen-blwydd
 about-addressbook-entry-name-anniversary = Dathliad
 about-addressbook-entry-name-title = Teitl
 about-addressbook-entry-name-role = Rôl
-about-addressbook-entry-name-department = Adran
 about-addressbook-entry-name-organization = Corff
 about-addressbook-entry-name-website = Gwefan
 about-addressbook-entry-name-time-zone = Cylch Amser
