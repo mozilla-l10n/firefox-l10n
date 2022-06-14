@@ -162,3 +162,10 @@ spotlight-total-cookie-protection-secondary-button = No cumò
 spotlight-better-internet-header = Un internet miôr al scomence cun te
 spotlight-better-internet-body = Cuant che tu dopris { -brand-short-name }, tu esprimis il to supuart par vê un internet viert e acessibil, che al è miôr par ducj.
 spotlight-peace-mind-header = Ti tignìn al sigûr
+spotlight-peace-mind-body = Ogni mês, { -brand-short-name } al bloche une medie di plui di 3000 spions (trackers) par utent. Parcè che nuie al à di stâ tra te e la part miôr di internet, soredut lis rognis pe riservatece come i trackers (spions).
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Ten tal Dock
+       *[other] Fisse te sbare des aplicazions
+    }
+spotlight-pin-secondary-button = No cumò
