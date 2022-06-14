@@ -254,6 +254,7 @@ openpgp-key-details-attr-upgrade-pub = Gako honen jabeari propietate ez seguruak
 openpgp-key-details-upgrade-unsafe =
     .label = Eguneratu propietate ez seguruak
     .accesskey = p
+openpgp-key-details-upgrade-ok = Gakoa ondo eguneratu da. Gako publiko eguneratua zure hartzaileekin banatu beharko zenuke.
 openpgp-key-details-algorithm-label =
     .label = Algoritmoa
 openpgp-key-details-size-label =
@@ -295,6 +296,15 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name }(e)k ez dauka OpenPGP gako pertsonalik honentzat: <b>{ $identity }</b>
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] { -brand-short-name } { $count } OpenPGP gako pertsonal bat aurkitu du <b>{ $identity }</b> identitateari lotuta
+       *[other] { -brand-short-name } { $count } OpenPGP gako pertsonal aurkitu ditu <b>{ $identity }</b> identitateari lotuta
+    }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Zure uneko konfigurazioak, <b>{ $key }</b> ID gakoa darabil
 #   $key (String) - the currently selected OpenPGP key
@@ -351,6 +361,7 @@ key-expired-date = Gakoaren iraungitzea: { $keyExpiry }
 key-expired-simple = Gakoa iraungita dago
 key-revoked-simple = Gakoa ukatu zen.
 key-do-you-accept = Onartzen al duzu gako hau sinadura digitalak egiaztatzeko eta mezuak zifratzeko?
+key-verification = Egiaztatu gakoaren hartz-marka posta elektronikoa ez den komunikazio kanal seguru bat erabiliz, benetan ziurtatzeko gakoa helbide honetakoa dela: { $addr }
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Ezin da mezua bidali, zure gako pertsonalarekin arazo bat dagoelako. { $problem }
 cannot-encrypt-because-missing = Ezin da mezua bidali muturretik-muturrerako zifratzeaz, ondorengo hartzaileen gakoekin arazoak daudelako: { $problem }
