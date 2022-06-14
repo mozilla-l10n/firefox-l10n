@@ -178,10 +178,25 @@ mr2-onboarding-theme-tooltip =
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = Dopre cheste tonalitât.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Esplore lis tonalitâts { $colorwayName }.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = Esplore lis tonalitâts { $colorwayName }.
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = Esplore i temis predefinîts.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = Esplore i temis predefinîts.
 
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = Graciis di vênus sielts
+mr2-onboarding-thank-you-text = { -brand-short-name } al è un navigadôr indipendent supuartât di une organizazion cence finalitât di vuadagn. Adun, o stin rindint il web plui sigûr, san e plui riservât.
 mr2-onboarding-start-browsing-button-label = Scomence a navigâ
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)
@@ -191,6 +206,35 @@ mr2-onboarding-start-browsing-button-label = Scomence a navigâ
 ## Variables:
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "Español (ES)"
 
+onboarding-live-language-header = Sielç la tô lenghe
+onboarding-live-language-button-label-downloading = Daûr a discjamâ il pachet de lenghe par { $negotiatedLanguage }…
+onboarding-live-language-waiting-button = Daûr a otignî lis lenghis disponibilis…
+onboarding-live-language-installing = Daûr a instalâ il pachet des lenghis par { $negotiatedLanguage }…
+onboarding-live-language-secondary-cancel-download = Anule
+onboarding-live-language-skip-button-label = Salte
 
 ## Firefox 100 Thank You screens
 
+# "Hero Text" displayed on left side of welcome screen. This text can be
+# formatted to span multiple lines as needed. The <span data-l10n-name="zap">
+# </span> in this string allows a "zap" underline style to be automatically
+# added to the text inside it. "Yous" should stay inside the zap span, but
+# "Thank" can be put inside instead if there's no "you" in the translation.
+# The English text would normally be "100 Thank-Yous" i.e., plural noun, but for
+# aesthetics of splitting it across multiple lines, the hyphen is omitted.
+fx100-thank-you-hero-text =
+    100
+    voltis
+    <span data-l10n-name="zap">graciis</span>
+fx100-thank-you-subtitle = E je la nestre centesime publicazion! Graciis par judânus a costruî un internet miôr e plui san.
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Ten { -brand-short-name } tal Dock
+       *[other] Fisse { -brand-short-name } te sbare des aplicazions
+    }
+fx100-upgrade-thanks-header = 100 voltis graciis
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = E je la nestre centesime publicazion di { -brand-short-name }. <em>Ti</em> ringraciìn par judânus a costruî un internet miôr e plui san.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = E je la nestre centesime publicazion! Graciis di jessi part de nestre comunitât. Ten { -brand-short-name } a puartade di clic pes prossimis 100
