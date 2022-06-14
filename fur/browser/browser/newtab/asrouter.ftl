@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Funzionalitât conseade
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Parcè stoio viodint chest messaç?
-
 cfr-doorhanger-extension-cancel-button = No cumò
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Zonte cumò
     .accesskey = Z
-
 cfr-doorhanger-extension-manage-settings-button = Gjestìs impostazions sugjeriments
     .accesskey = G
-
 cfr-doorhanger-extension-never-show-recommendation = No sta mostrâmi chest sugjeriment
     .accesskey = s
-
 cfr-doorhanger-extension-learn-more-link = Plui informazions
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = di { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Sugjeriment
 cfr-doorhanger-extension-notification2 = Sugjeriment
     .tooltiptext = Estension conseade
     .a11y-announcement = Al è disponibil un sugjeriment par une estension
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Sugjeriment
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = Plui informazions
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Gnove funzionalitât:
-
 cfr-whatsnew-button =
     .label = Novitâts
     .tooltiptext = Novitâts
-
 cfr-whatsnew-release-notes-link-text = Lei lis notis di publicazion
 
 ## Enhanced Tracking Protection Milestones
@@ -127,11 +117,17 @@ cfr-doorhanger-fission-secondary-button = Plui informazions
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = I videos su chest sît a podaressin jessi riprodots mâl su cheste version di { -brand-short-name }. Par vê il plen supuart video, inzorne { -brand-short-name } daurman.
+cfr-doorhanger-video-support-header = Inzorne { -brand-short-name } par riprodusi il video
 cfr-doorhanger-video-support-primary-button = Inzorne cumò
     .accesskey = c
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = Altris informazions
+    .title = Slargje par scuvierzi altris informazions su cheste funzionalitât
+spotlight-learn-more-expanded = Altris informazions
+    .title = Siere
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -139,6 +135,8 @@ cfr-doorhanger-video-support-primary-button = Inzorne cumò
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
+spotlight-public-wifi-vpn-header = Al somee che tu stedis doprant un Wi-Fi public
 spotlight-public-wifi-vpn-link = No cumò
     .accesskey = N
 

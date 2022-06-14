@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Preferencis
 menu-application-services =
     .label = Servizis
 menu-application-hide-this =
@@ -36,11 +38,9 @@ menu-quit =
             [windows] J
            *[other] J
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Jes di { -brand-shorter-name }
-
 menu-about =
     .label = Informazions su { -brand-shorter-name }
     .accesskey = I
@@ -70,6 +70,15 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Vierç file…
     .accesskey = f
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Siere schede
+           *[other] Siere { $tabCount } schedis
+        }
+    .accesskey = S
 menu-file-close-window =
     .label = Siere il barcon
     .accesskey = c
@@ -79,6 +88,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Mande colegament vie e-mail...
     .accesskey = e
+menu-file-share-url =
+    .label = Condivît
+    .accesskey = C
 menu-file-print-setup =
     .label = Configurazion pagjine…
     .accesskey = g
@@ -151,6 +163,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Stîl base de pagjine
     .accesskey = S
+menu-view-repair-text-encoding =
+    .label = Comede codifiche dal test
+    .accesskey = C
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -193,7 +208,6 @@ menu-history-undo-menu =
     .label = Schedis sieradis di resint
 menu-history-undo-window-menu =
     .label = Barcons sierâts cumò denant
-
 menu-history-reopen-all-tabs = Torne vierç dutis lis schedis
 menu-history-reopen-all-windows = Torne vierç ducj i barcons
 
@@ -202,6 +216,8 @@ menu-history-reopen-all-windows = Torne vierç ducj i barcons
 menu-bookmarks-menu =
     .label = Segnelibris
     .accesskey = S
+menu-bookmarks-manage =
+    .label = Gjestìs i segnelibris
 menu-bookmark-current-tab =
     .label = Met tai segnelibris cheste schede
 menu-bookmark-edit =
@@ -290,6 +306,9 @@ menu-help-more-troubleshooting-info =
     .accesskey = t
 menu-help-report-site-issue =
     .label = Segnale probleme cul sît…
+menu-help-share-ideas =
+    .label = Condivît ideis e parês…
+    .accesskey = C
 menu-help-enter-troubleshoot-mode2 =
     .label = Modalitât risoluzion problemis…
     .accesskey = M
