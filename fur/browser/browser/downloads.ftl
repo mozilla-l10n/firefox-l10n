@@ -44,14 +44,35 @@ downloads-cmd-show-menuitem-2 =
 downloads-cmd-use-system-default =
     .label = Vierç tal visualizadôr dal sisteme
     .accesskey = V
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = Vierç in { $handler }
+    .accesskey = i
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Vierç simpri tal visualizadôr dal sisteme
     .accesskey = s
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = Vierç simpri in { $handler }
+    .accesskey = s
 
 ##
 
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Vierç simpri files simii a chest
+    .accesskey = s
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Mostre in Finder
+           *[other] Mostre te cartele
+        }
 downloads-cmd-show-downloads =
     .label = Mostre la cartele dai discjamâts
 downloads-cmd-retry =
