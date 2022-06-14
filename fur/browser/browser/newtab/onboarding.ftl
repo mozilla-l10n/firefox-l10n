@@ -43,6 +43,11 @@ onboarding-welcome-steps-indicator =
 mr1-welcome-screen-hero-text =
     Scomencìn
     di chi
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
+mr1-onboarding-welcome-image-caption = Soraya Osorio — Dissegnadore di mobii, patide di Firefox
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Disative lis animazions
 
@@ -50,6 +55,12 @@ mr1-onboarding-reduce-motion-button-label = Disative lis animazions
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Ten { -brand-short-name } tal to Dock par un acès facilitât
+       *[other] Fisse { -brand-short-name } te tô sbare des aplicazions par un acès facilitât
+    }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -59,6 +70,9 @@ mr1-onboarding-pin-primary-button-label =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Scomence
 mr1-onboarding-welcome-header = Benvignûts su { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Rint { -brand-short-name } il gno navigadôr primari
     .title = Stabilìs { -brand-short-name } come navigadôr predefinît e fissilu te sbare des aplicazions
@@ -71,6 +85,8 @@ mr1-onboarding-sign-in-button-label = Jentre
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = Rint { -brand-short-name } il navigadôr predefinît
+mr1-onboarding-default-subtitle = Met il pilote automatic ae velocitât, ae sigurece e ae riservatece.
 mr1-onboarding-default-primary-button-label = Met come navigadôr predefinît
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
@@ -84,7 +100,17 @@ mr1-onboarding-import-primary-button-label-attribution = Impuarte di { $previous
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Impuarte dal navigadôr precedent
 mr1-onboarding-import-secondary-button-label = No cumò
+mr2-onboarding-colorway-header = Vite a colôrs
+mr2-onboarding-colorway-subtitle = Gnovis vibrantis tonalitâts. Disponibilis par un periodi di timp limitât.
+mr2-onboarding-colorway-primary-button-label = Salve tonalitât
 mr2-onboarding-colorway-secondary-button-label = No cumò
+mr2-onboarding-colorway-label-soft = Delicade
+mr2-onboarding-colorway-label-balanced = Belançade
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Fuarte
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = Automatiche
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = Predefinît
 mr1-onboarding-theme-header = Adatilu al tô stîl
@@ -97,6 +123,7 @@ mr1-onboarding-theme-label-light = Clâr
 mr1-onboarding-theme-label-dark = Scûr
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+onboarding-theme-primary-button-label = Fat
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -143,6 +170,14 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Dopre un colorât e dinamic pai botons,
         i menù e i barcons.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Dopre cheste tonalitât.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Dopre cheste tonalitât.
 
 ## Strings for Thank You page
 

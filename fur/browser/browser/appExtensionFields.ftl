@@ -21,8 +21,8 @@ extension-firefox-alpenglow-description = Dopre un aspiet colorât par botons, m
 ## Variables
 ##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
 
-extension-colorways-soft-name = { $colorway-name } — Delicât
-extension-colorways-balanced-name = { $colorway-name } — Belançât
+extension-colorways-soft-name = { $colorway-name } — Delicade
+extension-colorways-balanced-name = { $colorway-name } — Belançade
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
-extension-colorways-bold-name = { $colorway-name } — Fuart
+extension-colorways-bold-name = { $colorway-name } — Fuarte
