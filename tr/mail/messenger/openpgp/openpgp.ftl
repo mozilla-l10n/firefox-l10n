@@ -215,6 +215,7 @@ openpgp-key-details-structure-tab =
     .label = Yapı
 openpgp-key-details-uid-certified-col =
     .label = Kullanıcı kimliği / Onaylayan
+openpgp-key-details-key-id-label = Anahtar kimliği
 openpgp-key-details-id-label =
     .label = Kimlik
 openpgp-key-details-key-type-label = Türü
