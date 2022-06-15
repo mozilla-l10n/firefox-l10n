@@ -11,7 +11,6 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Asetukset
     .accesskey = A
-
 menu-addons-and-themes =
     .label = Lisäosat ja teemat
     .accesskey = L
@@ -21,11 +20,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Ongelmanratkaisutila…
     .accesskey = O
-
 menu-help-exit-troubleshoot-mode =
     .label = Poista Ongelmanratkaisutila käytöstä
     .accesskey = i
-
 menu-help-more-troubleshooting-info =
     .label = Lisää ongelmanratkaisutietoja
     .accesskey = s
@@ -53,18 +50,27 @@ menu-view-repair-text-encoding =
 
 ## View / Layout
 
+menu-font-size-label =
+    .label = Fonttikoko
+    .accesskey = o
+menuitem-font-size-enlarge =
+    .label = Suurenna fonttikokoa
+    .accesskey = u
+menuitem-font-size-reduce =
+    .label = Pienennä fonttikokoa
+    .accesskey = i
+menuitem-font-size-reset =
+    .label = Palauta fonttikoko
+    .accesskey = l
 mail-uidensity-label =
     .label = Tiheys
     .accesskey = h
-
 mail-uidensity-compact =
     .label = Tiivistä
     .accesskey = v
-
 mail-uidensity-normal =
     .label = Normaali
     .accesskey = N
-
 mail-uidensity-touch =
     .label = Kosketus
     .accesskey = k

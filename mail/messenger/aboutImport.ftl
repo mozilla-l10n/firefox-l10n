@@ -7,9 +7,8 @@ export-page-title = Vie
 
 ## Header
 
+import-start = Tuontityökalu
 import-from-app = Tuo sovelluksesta
-import-address-book = Tuo osoitekirjatiedosto
-import-calendar = Tuo kalenteritiedosto
 import-file = Tuo tiedostosta
 import-file-title = Valitse tiedosto tuodaksesi sen sisällön.
 import-address-book-title = Tuo osoitekirjatiedosto
@@ -18,7 +17,6 @@ export-profile = Vie
 
 ## Buttons
 
-button-cancel = Peruuta
 button-back = Edellinen
 button-continue = Jatka
 button-export = Vie
@@ -31,14 +29,6 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
-# Variables:
-#   $app (String) - The name of the app to import from
-profiles-pane-title = Tuo sovelluksesta { $app }
-profiles-pane-desc = Valitse sijainti, josta tuodaan
-profile-file-picker-dir = Valitse profiilikansio
-profile-file-picker-zip = Valitse zip-tiedosto (pienempi kuin 2 Gt)
-items-pane-title = Valitse tuotavat asiat
-items-pane-source = Lähteen sijainti:
 source-thunderbird = Tuo toisesta { app-name-thunderbird }-asennuksesta
 source-seamonkey = Tuo { app-name-seamonkey }-asennuksesta
 source-outlook = Tuo { app-name-outlook }ista
@@ -81,10 +71,6 @@ addr-book-sqlite-file = SQLite-tietokantatiedosto (.sqlite)
 addr-book-mab-file = Mork-tietokantatiedosto (.mab)
 addr-book-file-picker = Valitse osoitekirjatiedosto
 addr-book-directories-pane-source = Lähdetiedosto:
-addr-book-import-into-new-directory = Luo uusi kansio
-
-## Import from address book file steps
-
 # $addressBookName (string) - name of the new address book that would be created.
 addr-book-import-into-new-directory2 = Luo uusi kansio nimeltä <strong>"{ $addressBookName }"</strong>
 # $addressBookName (string) - name of the address book that will be created.
@@ -95,7 +81,6 @@ addr-book-summary-description = Uusi osoitekirja "{ $addressBookName }" luodaan.
 import-from-calendar-file-desc = Valitse iCalendar-tiedosto (.ics), jonka haluat tuoda.
 calendar-items-loading = Ladataan kohteita…
 calendar-select-all-items = Valitse kaikki
-calendar-import-into-new-calendar = Luo uusi kalenteri
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = Luo uusi kalenteri nimeltä <strong>"{ $targetCalendar }"</strong>
 # $targetCalendar (string) - name of the calendar that will be created
@@ -103,10 +88,6 @@ calendar-summary-description = Uusi kalenteri "{ $targetCalendar }" luodaan.
 
 ## Import dialog
 
-progress-pane-importing = Tuodaan
-progress-pane-exporting = Viedään
-progress-pane-finished-desc = Valmis.
-progress-pane-restart-desc = Käynnistä uudelleen tuonnin viimeistelmiseksi.
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-importing2 = Tuodaan… { $progressPercent }
 # $progressPercent (string) - percent formatted progress (for example "10%")
@@ -123,7 +104,6 @@ csv-target-field = Osoitekirjan kenttä
 ## Export tab
 
 export-open-profile-folder = Avaa profiilikansio
-export-file-picker = Vie zip-tiedostoon
 export-file-picker2 = Vie zip-tiedostoon
 export-brand-name = { -brand-product-name }
 
@@ -140,3 +120,10 @@ footer-help = Tarvitsetko apua?
 footer-import-documentation = Tuonnin dokumentaatio
 footer-export-documentation = Viennin dokumentaatio
 footer-support-forum = Tukipalsta
+
+## Step navigation on top of the wizard pages
+
+step-confirm = Vahvista
+# Variables:
+# $number (number) - step number
+step-count = { $number }
