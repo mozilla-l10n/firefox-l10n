@@ -30,7 +30,7 @@ printpreview-print =
     .label = মুদ্রণ…
     .accesskey = P
 printpreview-of =
-    .value = সর্বমোট
+    .value = এর
 printpreview-custom-scale-prompt-title = স্বনির্ধারিত মাপনী
 printpreview-page-setup =
     .label = পাতার সেটআপ…
@@ -41,7 +41,7 @@ printpreview-page =
 # Variables
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
-printpreview-sheet-of-sheets = { $sheetCount } এর { $sheetNum } নং
+printpreview-sheet-of-sheets = { $sheetCount } এর { $sheetNum }
 
 ## Variables
 ## $percent (integer) - menuitem percent label

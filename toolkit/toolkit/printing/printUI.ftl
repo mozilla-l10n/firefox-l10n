@@ -35,6 +35,7 @@ printui-less-settings = কম সেটিং
 printui-paper-size-label = কাগজের আকার
 # Section title (noun) for the print scaling options
 printui-scale = স্কেল
+printui-scale-fit-to-page-width = পাতার প্রস্থে মাপসই
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = স্কেল
 # Section title (noun) for the two-sided print options
@@ -91,6 +92,7 @@ printui-loading = প্রাকদর্শন প্রস্তুত কর
 # the print preview has focus.
 printui-preview-label =
     .aria-label = মুদ্রণের প্রাকদর্শন
+printui-pages-per-sheet = শীট প্রতি পাতা
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = মুদ্রণ করা হচ্ছে…
@@ -104,3 +106,5 @@ printui-paper-tabloid = ট্যাবলয়েড
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = স্কেল 10 ও 200-এর মধ্যকার একটি সংখ্যা হতে হবে।
+printui-error-invalid-margin = অনুগ্রহ করে নির্বাচিত কাগজটির আকারের জন্য একটি বৈধ প্রান্তরেখা দিন।
+printui-error-invalid-copies = কপির সংখ্যা অবশ্যই 1 ও 10000-এর মধ্যে হতে হবে।
