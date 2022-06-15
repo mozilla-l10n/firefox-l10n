@@ -3,11 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### UI strings for the simplified onboarding / multistage about:welcome
-### Various strings use a non-breaking space to avoid a single dangling /
-### widowed word, so test on various window sizes if you also want this.
-
-
 ### UI strings for the MR1 onboarding / multistage about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -28,9 +23,6 @@ return-to-amo-subtitle = เยี่ยม คุณได้ติดตั้
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-title = ตอนนี้มาติดตั้ง <img data-l10n-name="icon"/> <b>{ $addon-name }</b> กันเลย
 return-to-amo-add-extension-label = เพิ่มส่วนขยาย
-
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
-
 return-to-amo-add-theme-label = เพิ่มชุดตกแต่ง
 
 ## Multistage onboarding strings (about:welcome pages)
@@ -41,7 +33,6 @@ return-to-amo-add-theme-label = เพิ่มชุดตกแต่ง
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = เริ่มต้นใช้งาน: หน้าจอ { $current } จาก { $total }
-
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -52,13 +43,11 @@ onboarding-welcome-steps-indicator =
 mr1-welcome-screen-hero-text =
     ทุกอย่างเริ่มจาก
     ที่นี่
-
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — นักออกแบบเฟอร์นิเจอร์ แฟน Firefox
-
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = ปิดภาพเคลื่อนไหว
 
@@ -84,11 +73,9 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = เริ่มต้น
-
 mr1-onboarding-welcome-header = ยินดีต้อนรับสู่ { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = ทำให้ { -brand-short-name } เป็นเบราว์เซอร์หลักของฉัน
     .title = ตั้ง { -brand-short-name } เป็นเบราว์เซอร์หลักและปักหมุดเข้ากับแถบงาน
-
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = ทำให้ { -brand-short-name } เป็นเบราว์เซอร์เริ่มต้นของฉัน
@@ -106,16 +93,13 @@ mr1-onboarding-default-primary-button-label = ทำให้เป็นเบ�
 
 mr1-onboarding-import-header = นำทุกอย่างติดตัวไปด้วย
 mr1-onboarding-import-subtitle = นำเข้ารหัสผ่าน <br/>ที่คั่นหน้า และอื่น ๆ ของคุณ
-
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = นำเข้าจาก { $previous }
-
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = นำเข้าจากเบราว์เซอร์ก่อนหน้า
 mr1-onboarding-import-secondary-button-label = ไม่ใช่ตอนนี้
-
 mr2-onboarding-colorway-header = Life in color
 mr2-onboarding-colorway-subtitle = ชุดรูปแบบสีใหม่ที่สดใส มีให้ใช้ในช่วงเวลาจำกัด
 mr2-onboarding-colorway-primary-button-label = บันทึกชุดรูปแบบสี
@@ -125,112 +109,87 @@ mr2-onboarding-colorway-label-balanced = Balanced
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = Bold
-
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = อัตโนมัติ
-
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = ค่าเริ่มต้น
-
 mr1-onboarding-theme-header = ทำให้เป็นของคุณเอง
 mr1-onboarding-theme-subtitle = ปรับแต่ง { -brand-short-name } ด้วยชุดตกแต่ง
 mr1-onboarding-theme-primary-button-label = บันทึกชุดตกแต่ง
 mr1-onboarding-theme-secondary-button-label = ไม่ใช่ตอนนี้
-
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = ชุดตกแต่งระบบ
-
 mr1-onboarding-theme-label-light = สว่าง
 mr1-onboarding-theme-label-dark = มืด
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+onboarding-theme-primary-button-label = เสร็จสิ้น
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
-
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
 # Tooltip displayed on hover of system theme
 mr1-onboarding-theme-tooltip-system =
     .title =
         ใช้ชุดตกแต่งสำหรับปุ่ม เมนู และหน้าต่าง
         ตามระบบปฏิบัติการ
-
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         ใช้ชุดตกแต่งสำหรับปุ่ม เมนู และหน้าต่าง
         ตามระบบปฏิบัติการ
-
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         ใช้ชุดตกแต่งแบบสว่างสำหรับปุ่ม
         เมนู และหน้าต่าง
-
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         ใช้ชุดตกแต่งแบบสว่างสำหรับปุ่ม
         เมนู และหน้าต่าง
-
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         ใช้ชุดตกแต่งแบบมืดสำหรับปุ่ม
         เมนู และหน้าต่าง
-
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         ใช้ชุดตกแต่งแบบมืดสำหรับปุ่ม
         เมนู และหน้าต่าง
-
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         ใช้ชุดตกแต่งแบบไดนามิกที่มีสีสันสำหรับปุ่ม
         เมนู และหน้าต่าง
-
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         ใช้ชุดตกแต่งแบบไดนามิกที่มีสีสันสำหรับปุ่ม
         เมนู และหน้าต่าง
-
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = ใช้ชุดรูปแบบสีนี้
-
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = ใช้ชุดรูปแบบสีนี้
-
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
     .title = สำรวจชุดรูปแบบสี { $colorwayName }
-
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-label = สำรวจชุดรูปแบบสี { $colorwayName }
-
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = สำรวจชุดตกแต่งเริ่มต้น
-
 # Selector description for default themes
 mr2-onboarding-default-theme-label = สำรวจชุดตกแต่งเริ่มต้น
 
@@ -248,7 +207,6 @@ mr2-onboarding-start-browsing-button-label = เริ่มการเรี�
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "Español (ES)"
 
 onboarding-live-language-header = เลือกภาษาของคุณ
-
 onboarding-live-language-button-label-downloading = กำลังดาวน์โหลดชุดภาษาสำหรับ { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = กำลังขอข้อมูลเกี่ยวกับภาษาที่มีให้ใช้…
 onboarding-live-language-installing = กำลังติดตั้งชุดภาษาสำหรับ { $negotiatedLanguage }…
@@ -274,7 +232,6 @@ fx100-thank-you-pin-primary-button-label =
         [macos] เก็บ { -brand-short-name } ไว้ใน Dock
        *[other] ปักหมุด { -brand-short-name } เข้ากับแถบงาน
     }
-
 fx100-upgrade-thanks-header = 100 คำขอบคุณ
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
