@@ -11,9 +11,6 @@ import-start = Imporditööriist
 import-start-title = Sätete või andmete importimiseks teisest rakendusest või failist.
 import-start-description = Vali allikas, kust soovid importida. Hiljem küsitakse ka imporditavate andmete valiku kohta.
 import-from-app = Rakendusest importimine
-import-from-app-desc = Vali kontode, aadressiraamatute, kalendrite ja muude andmete importimine:
-import-address-book = Aadressiraamatu faili importimine
-import-calendar = Kalendri faili importimine
 import-file = Import failist
 import-file-title = Vali fail, mille sisu importida.
 import-file-description = Vali importimiseks varem varundatud profiil, aadressiraamatud või kalendrid.
@@ -23,7 +20,6 @@ export-profile = Ekspordi
 
 ## Buttons
 
-button-cancel = Loobu
 button-back = Tagasi
 button-continue = Jätka
 button-export = Ekspordi
@@ -36,14 +32,6 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
-# Variables:
-#   $app (String) - The name of the app to import from
-profiles-pane-title = Importimine rakendusest { $app }
-profiles-pane-desc = Vali asukoht, kust importida
-profile-file-picker-dir = Vali profiilikaust
-profile-file-picker-zip = Vali ZIP-fail (väiksem kui 2GiB)
-items-pane-title = Imporditava valimine
-items-pane-source = Allika asukoht:
 source-thunderbird = Importimine teisest { app-name-thunderbird }i paigaldusest
 source-thunderbird-description = Impordi sätted, filtrid, kirjad ja muud andmed teisest { app-name-thunderbird }i profiilist.
 source-seamonkey = Importimine { app-name-seamonkey } paigaldusest
@@ -96,7 +84,6 @@ items-pane-override = Olemasolevaid või identseid andmeid üle ei kirjutata.
 
 ## Import from address book file steps
 
-import-from-addr-book-file-desc = Vali imporditava faili tüüp:
 import-from-addr-book-file-description = Vali oma aadressiraamatu andmeid sisaldav failiformaat.
 addr-book-csv-file = Koma või tabeldusmärgiga eraldatud fail (.csv, .tsv)
 addr-book-ldif-file = LDIF-fail (.ldif)
@@ -106,13 +93,8 @@ addr-book-mab-file = Morki andmebaas (.mab)
 addr-book-file-picker = Vali aadressiraamatu fail
 addr-book-csv-field-map-title = Väljade nimede sobitamine
 addr-book-csv-field-map-desc = Vali allikale vastavad aadressiraamatu väljad. Eemalda linnuke väljadelt, mida sa ei soovi importida.
-addr-book-directories-pane-title = Vali kaust, kuhu soovid importida:
 addr-book-directories-title = Vali, kuhu valitud andmed importida
 addr-book-directories-pane-source = Lähtefail:
-addr-book-import-into-new-directory = Loo uus kaust
-
-## Import from address book file steps
-
 # $addressBookName (string) - name of the new address book that would be created.
 addr-book-import-into-new-directory2 = Luuakse uus kaust nimega <strong>"{ $addressBookName }"</strong>
 # $addressBookName (string) - name of the address book to import into
@@ -129,7 +111,6 @@ calendar-items-filter-input =
     .placeholder = Filtreeri üksusi…
 calendar-select-all-items = Vali kõik
 calendar-deselect-all-items = Tühista kõik valikud
-calendar-import-into-new-calendar = Loo uus kalender
 calendar-target-title = Vali, kuhu valitud andmed importida.
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = Luuakse uus kalender nimega <strong>"{ $targetCalendar }"</strong>
@@ -145,18 +126,12 @@ calendar-summary-description = Luuakse uus kalender nimega "{ $targetCalendar }"
 
 ## Import dialog
 
-progress-pane-importing = Importimine
-progress-pane-exporting = Eksportimine
-progress-pane-finished-desc = Lõpetatud.
-progress-pane-restart-desc = Importimise lõpetamiseks taaskäivita.
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-importing2 = Importimine… { $progressPercent }
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-exporting2 = Eksportimine… { $progressPercent }
 progress-pane-finished-desc2 = Lõpetatud.
 error-pane-title = Viga
-error-message-zip-file-too-big = Valitud ZIP-fail on suurem kui 2GiB. Palun paki see esmalt lahti ja impordi selle asemel lahtipakitud kaustast.
-error-message-extract-zip-file-failed = ZIP-faili lahtipakkimine ebaõnnestus. Paki see käsitsi lahti ja impordi selle asemel lahtipakitud kaustast.
 error-message-zip-file-too-big2 = Valitud ZIP-fail on suurem kui 2GiB. Palun paki see esmalt lahti ja impordi selle asemel lahtipakitud kaustast.
 error-message-extract-zip-file-failed2 = ZIP-faili lahtipakkimine ebaõnnestus. Paki see käsitsi lahti ja impordi selle asemel lahtipakitud kaustast.
 error-message-failed = Importimine ebaõnnestus ootamatult, rohkem infot võib olla saadaval veakonsoolis.
@@ -174,12 +149,9 @@ csv-target-field = Aadressiraamatu väli
 
 ## Export tab
 
-export-profile-desc = Ekspordi e-posti kontod, kirjad, aadressiraamatud ja sätted ZIP-faili. Vajadusel saad profiili taastamiseks ZIP-faili importida.
-export-profile-desc2 = Kui sinu praegune profiil on suurem kui 2GiB, siis soovitame sul selle ise varundada.
 export-profile-title = ZIP-faili eksporditakse kontod, e-post, aadressiraamatud ja sätted.
 export-profile-description = Kui sinu praegune profiil on suurem kui 2GiB, siis soovitame sul selle ise varundada.
 export-open-profile-folder = Ava profiili kaust
-export-file-picker = Ekspordi ZIP-faili
 export-file-picker2 = Ekspordi ZIP-faili
 export-brand-name = { -brand-product-name }
 
@@ -196,3 +168,12 @@ footer-help = Vajad abi?
 footer-import-documentation = Importimise dokumentatsioon
 footer-export-documentation = Eksportimise dokumentatsioon
 footer-support-forum = Tugifoorum
+
+## Step navigation on top of the wizard pages
+
+step-list =
+    .aria-label = Importimise sammud
+step-confirm = Kinnita
+# Variables:
+# $number (number) - step number
+step-count = { $number }
