@@ -96,6 +96,8 @@ perftools-thread-task-controller =
     .title = Fil d’execucion del grop de fils d’execucion de TaskController
 perftools-thread-jvm-gecko =
     .title = Fil d’execucion principal de Gecko JVM
+perftools-thread-jvm-nimbus =
+    .title = Fils d’execucion principals del SDK d’experimentacion de Nimbus
 
 ##
 
