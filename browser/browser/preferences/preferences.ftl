@@ -130,6 +130,10 @@ default-font-size = আকার
 advanced-fonts =
     .label = উচ্চপর্যায়...
     .accesskey = A
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = জু়ম
+preferences-default-zoom = পূর্বনির্ধারিত জুম
+    .accesskey = z
 preferences-default-zoom-value =
     .label = { $percentage }%
 language-header = ভাষা
@@ -218,6 +222,8 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } ব্যবহার করা হবে ({ -brand-short-name } তে)
+applications-open-inapp =
+    .label = { -brand-short-name } এ খুলুন
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -229,12 +235,16 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -463,6 +473,9 @@ containers-header = কন্টেইনার ট্যাব
 containers-add-button =
     .label = নতুন কন্টেইনার যোগ
     .accesskey = A
+containers-new-tab-check =
+    .label = প্রতিটি নতুন ট্যাবের জন্য একটি কনটেইনার নির্বাচন করুন
+    .accesskey = S
 containers-remove-button =
     .label = অপসারণ
 
@@ -614,6 +627,7 @@ forms-master-pw-fips-desc = পাসওয়ার্ড পরিবর্তন
 
 ## OS Authentication dialog
 
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
