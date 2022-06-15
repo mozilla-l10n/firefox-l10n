@@ -18,23 +18,34 @@ newtab-search-box-search-button =
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
+newtab-search-box-handoff-text-no-engine = অনুসন্ধান করুন বা ঠিকানা লিখুন
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder = { $engine } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
     .title = { $engine } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
     .aria-label = { $engine } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = অনুসন্ধান করুন বা ঠিকানা লিখুন
+    .title = অনুসন্ধান করুন বা ঠিকানা লিখুন
+    .aria-label = অনুসন্ধান করুন বা ঠিকানা লিখুন
+newtab-search-box-text = ওয়েবে অনুসন্ধান করুন
+newtab-search-box-input =
+    .placeholder = ওয়েবে অনুসন্ধান করুন
+    .aria-label = ওয়েবে অনুসন্ধান করুন
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = অনুসন্ধান ইঞ্জিন যোগ করুন
+newtab-topsites-add-shortcut-header = নতুন শর্টকাট
 newtab-topsites-edit-topsites-header = শীর্ষ সাইট সম্পাদনা করুন
+newtab-topsites-edit-shortcut-header = শর্টকাট সম্পাদনা করুন
 newtab-topsites-title-label = শিরোনাম
 newtab-topsites-title-input =
-    .placeholder = নাম দিন
+    .placeholder = শিরোনাম লিখুন
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
-    .placeholder = টাইপ করুন অথবা পেস্ট করুন URL
+    .placeholder = একটি URL লিখুন বা প্রতিলেপন করুন
 newtab-topsites-url-validation = কার্যকর URL প্রয়োজন
 newtab-topsites-image-url-label = কাস্টম ছবির URL
 newtab-topsites-use-image-link = কাস্টম ছবি ব্যবহার করুন…
@@ -46,7 +57,7 @@ newtab-topsites-cancel-button = বাতিল
 newtab-topsites-delete-history-button = ইতিহাস থেকে মুছে ফেলুন
 newtab-topsites-save-button = সংরক্ষণ
 newtab-topsites-preview-button = প্রাকদর্শন
-newtab-topsites-add-button = যোগ
+newtab-topsites-add-button = যোগ করুন
 
 ## Top Sites - Delete history confirmation dialog.
 
@@ -56,6 +67,7 @@ newtab-confirm-delete-history-p2 = এই পরিবর্তনটি অপ�
 
 ## Top Sites - Sponsored label
 
+newtab-topsite-sponsored = স্পন্সরকৃত
 
 ## Context Menu - Action Tooltips.
 
@@ -80,12 +92,12 @@ newtab-menu-topsites-placeholder-tooltip =
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
-newtab-menu-edit-topsites = সম্পাদনা
+newtab-menu-edit-topsites = সম্পাদন করুন
 newtab-menu-open-new-window = নতুন উইন্ডোতে খুলুন
 newtab-menu-open-new-private-window = নতুন ব্যক্তিগত উইন্ডোতে খুলুন
 newtab-menu-dismiss = বাতিল
-newtab-menu-pin = পিন
-newtab-menu-unpin = আনপিন
+newtab-menu-pin = পিন করুন
+newtab-menu-unpin = আনপিন করুন
 newtab-menu-delete-history = ইতিহাস থেকে মুছে ফেলুন
 newtab-menu-save-to-pocket = { -pocket-brand-name } এ সংরক্ষণ করুন
 newtab-menu-delete-pocket = { -pocket-brand-name } থেকে মুছে দিন
@@ -95,6 +107,7 @@ newtab-menu-show-privacy-info = আমাদের স্পনসর এবং 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = সম্পন্ন
+newtab-privacy-modal-button-manage = স্পনসর করা সামগ্রীর সেটিংস পরিচালনা করুন
 newtab-privacy-modal-header = আপনার গোপনীয়তার বিষয়টি গুরুত্বপূর্ণ।
 newtab-privacy-modal-link = কীভাবে গোপনীয়তা নতুন ট্যাবে কাজ করে তা শিখুন
 
