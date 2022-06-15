@@ -150,6 +150,9 @@ spotlight-total-cookie-protection-header =
     Testaa kaikkien aikojen tehokkainta
     yksityisyyttä varjelevaa ominaisuuttamme
 spotlight-total-cookie-protection-body = Totaalinen evästesuoja estää seuraimia käyttämästä evästeitä sinun seuraamiseen verkossa.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } rakentaa aidan evästeiden ympärille ja rajoittaa ne sivustoon, jolla olet, jotta seuraimet eivät voi käyttää evästeitä seuratakseen sinua. Varhaisen käytön avulla autat optimoimaan tämän ominaisuuden, jotta voimme jatkaa paremman verkon rakentamista kaikille.
 spotlight-total-cookie-protection-primary-button = Ota totaalinen evästesuoja käyttöön
 spotlight-total-cookie-protection-secondary-button = Ei nyt
 
