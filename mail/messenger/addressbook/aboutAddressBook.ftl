@@ -55,6 +55,8 @@ about-addressbook-search =
     .placeholder = { $name } doorzoeken
 about-addressbook-search-all =
     .placeholder = Alle adresboeken doorzoeken
+about-addressbook-sort-button2 =
+    .title = Weergaveopties vermelden
 about-addressbook-name-format-display =
     .label = Weergavenaam
 about-addressbook-name-format-firstlast =
@@ -165,6 +167,7 @@ about-addressbook-placeholder-no-search-results = Geen contacten gevonden
 
 ## Details
 
+about-addressbook-prefer-display-name = Weergavenaam boven berichtkop verkiezen
 about-addressbook-write-action-button = Opstellen
 about-addressbook-event-action-button = Gebeurtenis
 about-addressbook-search-action-button = Zoeken
