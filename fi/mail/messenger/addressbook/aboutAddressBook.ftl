@@ -26,6 +26,8 @@ about-addressbook-books-context-properties =
     .label = Ominaisuudet
 about-addressbook-books-context-synchronize =
     .label = Synkronoi
+about-addressbook-books-context-edit =
+    .label = Muokkaa
 about-addressbook-books-context-print =
     .label = Tulosta…
 about-addressbook-books-context-export =
@@ -51,8 +53,6 @@ about-addressbook-search =
     .placeholder = Hae { $name }
 about-addressbook-search-all =
     .placeholder = Hae kaikista osoitekirjoista
-about-addressbook-sort-button =
-    .title = Muuta listan järjestystä
 about-addressbook-name-format-display =
     .label = Näyttönimi
 about-addressbook-name-format-firstlast =
@@ -100,6 +100,10 @@ about-addressbook-column-header-addrbook = Osoitekirja
 about-addressbook-column-label-addrbook =
     .label = { about-addressbook-column-header-addrbook }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+
 ## Details
 
 about-addressbook-begin-edit-contact-button = Muokkaa
@@ -108,8 +112,6 @@ about-addressbook-cancel-edit-contact-button = Peruuta
 about-addressbook-save-edit-contact-button = Tallenna
 about-addressbook-details-email-addresses-header = Sähköpostiosoitteet
 about-addressbook-details-phone-numbers-header = Puhelinnumerot
-about-addressbook-details-home-address-header = Kotiosoite
-about-addressbook-details-work-address-header = Työosoite
 about-addressbook-details-addresses-header = Osoitteet
 about-addressbook-details-other-info-header = Muut tiedot
 about-addressbook-entry-type-work = Työ
@@ -117,7 +119,6 @@ about-addressbook-entry-type-home = Koti
 about-addressbook-entry-type-fax = Faksi
 about-addressbook-entry-name-birthday = Syntymäpäivä
 about-addressbook-entry-name-role = Rooli
-about-addressbook-entry-name-department = Osasto
 about-addressbook-entry-name-organization = Organisaatio
 about-addressbook-entry-name-website = Verkkosivusto
 about-addressbook-entry-name-time-zone = Aikavyöhyke

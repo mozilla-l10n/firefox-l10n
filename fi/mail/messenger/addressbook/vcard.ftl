@@ -3,6 +3,12 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+# Display Name
+
+vcard-displayname = Näyttönimi
+vcard-displayname-placeholder =
+    .placeholder = { vcard-displayname }
+
 # Type selection
 
 vcard-entry-type-label = Tyyppi
@@ -35,8 +41,7 @@ vcard-n-add-suffix =
 vcard-email-header = Sähköpostiosoitteet
 vcard-email-add = Lisää sähköpostiosoite
 vcard-email-label = Sähköpostiosoite
-vcard-email-choose-primary = Oletus
-    .aria-label = Valitse ensijainen sähköpostiosoitteesi
+vcard-primary-email-label = Oletus
 
 # URL vCard field
 
@@ -54,3 +59,29 @@ vcard-tel-label = Puhelinnumero
 
 vcard-tz-header = Aikavyöhyke
 vcard-tz-add = Lisää aikavyöhyke
+
+# IMPP vCard field
+
+vcard-impp-header = Pikaviestitilit
+vcard-impp-add = Lisää pikaviestitili
+vcard-impp-label = Pikaviestitili
+
+# BDAY and ANNIVERSARY vCard field
+
+
+# ADR vCard field
+
+vcard-adr-header = Osoitteet
+vcard-adr-add = Lisää osoite
+vcard-adr-label = Osoite
+vcard-adr-street = Katuosoite
+# Or "Locality"
+vcard-adr-locality = Kaupunki
+
+# NOTE vCard field
+
+
+# TITLE, ROLE and ORGANIZATION vCard fields
+
+vcard-org-role = Rooli
+vcard-org-org = Organisaatio
