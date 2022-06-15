@@ -145,6 +145,7 @@ message-header-button-style-icons =
 message-header-show-sender-full-address =
     .label = Mostrar siempre la dirección completa del remitente
     .accesskey = i
+message-header-show-sender-full-address-description = La dirección de correo electrónico se mostrará debajo del nombre para mostrar.
 message-header-show-recipient-avatar =
     .label = Mostrar foto de perfil del remitente
     .accesskey = p

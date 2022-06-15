@@ -3,6 +3,12 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+# Display Name
+
+vcard-displayname = Nombre para mostrar
+vcard-displayname-placeholder =
+    .placeholder = { vcard-displayname }
+
 # Type selection
 
 vcard-entry-type-label = Tipo
@@ -35,8 +41,7 @@ vcard-n-add-suffix =
 vcard-email-header = Direcciones de correo electrónico
 vcard-email-add = Agregar dirección de correo electrónico
 vcard-email-label = Dirección de correo electrónico
-vcard-email-choose-primary = Predeterminado
-    .aria-label = Seleccionar la dirección de correo electrónico primaria
+vcard-primary-email-label = Predeterminado
 
 # URL vCard field
 
@@ -54,3 +59,49 @@ vcard-tel-label = Número de teléfono
 
 vcard-tz-header = Huso horario
 vcard-tz-add = Agregar huso horario
+
+# IMPP vCard field
+
+vcard-impp-header = Cuentas de chat
+vcard-impp-add = Agregar cuenta de chat
+vcard-impp-label = Cuenta de chat
+
+# BDAY and ANNIVERSARY vCard field
+
+vcard-bday-anniversary-header = Fechas especiales
+vcard-bday-anniversary-add = Agregar fecha especial
+vcard-bday-label = Cumpleaños
+vcard-anniversary-label = Aniversario
+vcard-date-day = Día
+vcard-date-month = Mes
+vcard-date-year = Año
+
+# ADR vCard field
+
+vcard-adr-header = Direcciones
+vcard-adr-add = Agregar dirección
+vcard-adr-label = Dirección
+vcard-adr-delivery-label = Etiqueta de entrega
+vcard-adr-pobox = Buzón de correo
+vcard-adr-ext = vcard-adr-ext = Dirección extendida
+vcard-adr-street = Dirección de la calle
+# Or "Locality"
+vcard-adr-locality = Ciudad
+# Or "Region"
+vcard-adr-region = Estado/provincia
+# The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
+vcard-adr-code = Zip/Código postal
+vcard-adr-country = País
+
+# NOTE vCard field
+
+vcard-note-header = Notas
+vcard-note-add = Agregar nota
+
+# TITLE, ROLE and ORGANIZATION vCard fields
+
+vcard-org-header = Propiedades organizativas
+vcard-org-add = Agregar propiedades organizativas
+vcard-org-title = Título
+vcard-org-role = Rol
+vcard-org-org = Organización
