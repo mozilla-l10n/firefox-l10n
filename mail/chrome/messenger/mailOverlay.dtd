@@ -6,6 +6,6 @@
 <!ENTITY  newMessageCmd.key               "N">
 <!ENTITY  newMessageCmd.label             "Sporočilo">
 <!ENTITY  newMessageCmd.accesskey         "S">
- 
+
 <!ENTITY  newContactCmd.label             "Stik iz imenika …">
 <!ENTITY  newContactCmd.accesskey         "e">
