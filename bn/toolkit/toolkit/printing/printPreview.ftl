@@ -14,20 +14,20 @@ printpreview-close =
     .label = বন্ধ
     .accesskey = C
 printpreview-portrait =
-    .label = লম্বালম্বি (o)
+    .label = লম্বালম্বি
     .accesskey = o
 printpreview-landscape =
-    .label = আড়াআড়ি (L)
+    .label = আড়াআড়ি
     .accesskey = L
 printpreview-scale =
-    .value = আকার পরিবর্তন:
+    .value = স্কেল:
     .accesskey = S
 printpreview-shrink-to-fit =
-    .label = মানানসই করার জন্য সংকোচন করা হবে
+    .label = মাপসই করতে সঙ্কুচিত করুন
 printpreview-custom =
     .label = স্বনির্ধারিত…
 printpreview-print =
-    .label = মুদ্রণ… (P)
+    .label = মুদ্রণ…
     .accesskey = P
 printpreview-of =
     .value = সর্বমোট
@@ -38,6 +38,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = পাতা:
     .accesskey = a
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetCount } এর { $sheetNum } নং
 
 ## Variables
 ## $percent (integer) - menuitem percent label
@@ -57,4 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = শেষ পাতা
-
+printpreview-homearrow-button =
+    .title = প্রথম পাতা
+printpreview-previousarrow-button =
+    .title = পূর্ববর্তী পাতা
+printpreview-nextarrow-button =
+    .title = পরবর্তী পাতা
+printpreview-endarrow-button =
+    .title = শেষ পাতা

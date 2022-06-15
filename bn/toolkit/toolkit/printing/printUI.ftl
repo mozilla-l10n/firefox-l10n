@@ -42,11 +42,15 @@ printui-two-sided-printing = দ্বিমুখী মুদ্রণ
 printui-two-sided-printing-off = বন্ধ
 # Section title for miscellaneous print options
 printui-options = বিকল্প
+printui-headers-footers-checkbox = শিরোনাম ও পাদদেশ মুদ্রণ করুন
+printui-backgrounds-checkbox = পটভূমি মুদ্রণ করুন
 
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".
 
+# The section title.
+printui-source-label = বিন্যাস
 # Option for printing the original page.
 printui-source-radio = মূল
 # Option for printing just the content a user selected prior to printing.
@@ -57,13 +61,14 @@ printui-simplify-page-radio = সরলীকৃত
 ##
 
 printui-color-mode-label = রঙের ধরন
-printui-color-mode-color = রং
+printui-color-mode-color = রঙিন
 printui-color-mode-bw = সাদা ও কালো
 printui-margins = প্রান্তরেখা
 printui-margins-default = পূর্বনির্ধারিত
 printui-margins-min = ন্যূনতম
 printui-margins-none = কোনোটি নয়
 printui-margins-custom-inches = স্বনির্ধারিত (ইঞ্চি)
+printui-margins-custom-mm = স্বনির্ধারিত (মিমি)
 printui-margins-custom-top = শীর্ষে
 printui-margins-custom-top-inches = শীর্ষে (ইঞ্চি)
 printui-margins-custom-top-mm = শীর্ষে (মিমি)
@@ -93,7 +98,9 @@ printui-print-progress-indicator-saving = সংরক্ষণ করা হচ
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
+printui-paper-legal = মার্কিন আইনি
 printui-paper-tabloid = ট্যাবলয়েড
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = স্কেল 10 ও 200-এর মধ্যকার একটি সংখ্যা হতে হবে।
