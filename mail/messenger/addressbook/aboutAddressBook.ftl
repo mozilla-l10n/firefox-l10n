@@ -26,6 +26,8 @@ about-addressbook-books-context-properties =
     .label = Omadused
 about-addressbook-books-context-synchronize =
     .label = Sünkroniseeri
+about-addressbook-books-context-edit =
+    .label = Muuda
 about-addressbook-books-context-print =
     .label = Prindi…
 about-addressbook-books-context-export =
@@ -53,8 +55,8 @@ about-addressbook-search =
     .placeholder = Otsi aadressiraamatust { $name }
 about-addressbook-search-all =
     .placeholder = Otsi kõigist aadressiraamatutest
-about-addressbook-sort-button =
-    .title = Muuda listi järjekorda
+about-addressbook-sort-button2 =
+    .title = Nimekirja kuvamise valikud
 about-addressbook-name-format-display =
     .label = Kuvatav nimi
 about-addressbook-name-format-firstlast =
@@ -154,8 +156,18 @@ about-addressbook-confirm-delete-contacts =
        *[other] Kas oled kindel, et soovid kustutada need { $count } kontakti?
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+about-addressbook-placeholder-empty-book = Kontakte pole saadaval
+about-addressbook-placeholder-new-contact = Uus kontakt
+about-addressbook-placeholder-search-only = See aadressiraamat kuvab kontakte ainult pärast otsimist
+about-addressbook-placeholder-searching = Otsimine...
+about-addressbook-placeholder-no-search-results = Kontakte ei leitud
+
 ## Details
 
+about-addressbook-prefer-display-name = Kuvatavat nime eelistatakse kirja päistes olevale
 about-addressbook-write-action-button = Kirjuta
 about-addressbook-event-action-button = Sündmus
 about-addressbook-search-action-button = Otsi
@@ -166,8 +178,6 @@ about-addressbook-save-edit-contact-button = Salvesta
 about-addressbook-add-contact-to = Aadressiraamat:
 about-addressbook-details-email-addresses-header = E-posti aadressid
 about-addressbook-details-phone-numbers-header = Telefoninumbrid
-about-addressbook-details-home-address-header = Kodune aadress
-about-addressbook-details-work-address-header = Tööaadress
 about-addressbook-details-addresses-header = Addresses
 about-addressbook-details-notes-header = Märkmed
 about-addressbook-details-other-info-header = Muu info
@@ -180,7 +190,6 @@ about-addressbook-entry-name-birthday = Sünnipäev
 about-addressbook-entry-name-anniversary = Pulma-aastapäev
 about-addressbook-entry-name-title = Amet
 about-addressbook-entry-name-role = Roll
-about-addressbook-entry-name-department = Osakond
 about-addressbook-entry-name-organization = Organisatsioon
 about-addressbook-entry-name-website = Sait
 about-addressbook-entry-name-time-zone = Ajavöönd
