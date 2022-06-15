@@ -8,6 +8,11 @@
 newtab-page-title = নতুন ট্যাব
 newtab-settings-button =
     .title = আপনার নতুন ট্যাবের পাতাটি কাস্টমাইজ করুন
+newtab-personalize-icon-label =
+    .title = নতুন ট্যাব ব্যক্তিগত করুন
+    .aria-label = নতুন ট্যাব ব্যক্তিগত করুন
+newtab-personalize-dialog-label =
+    .aria-label = ব্যক্তিগতকরণ
 
 ## Search box component.
 
@@ -109,7 +114,7 @@ newtab-menu-show-privacy-info = আমাদের স্পনসর এবং 
 newtab-privacy-modal-button-done = সম্পন্ন
 newtab-privacy-modal-button-manage = স্পনসর করা সামগ্রীর সেটিংস পরিচালনা করুন
 newtab-privacy-modal-header = আপনার গোপনীয়তার বিষয়টি গুরুত্বপূর্ণ।
-newtab-privacy-modal-link = কীভাবে গোপনীয়তা নতুন ট্যাবে কাজ করে তা শিখুন
+newtab-privacy-modal-link = কীভাবে নতুন ট্যাবে গোপনীয়তা কাজ করে তা জানুন
 
 ##
 
@@ -122,7 +127,7 @@ newtab-menu-bookmark = বুকমার্ক
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = ডাউনলোডের লিঙ্ক অনুলিপি করুন
-newtab-menu-go-to-download-page = ডাউনলোড পাতায় যাও
+newtab-menu-go-to-download-page = ডাউনলোড পাতায় যান
 newtab-menu-remove-download = ইতিহাস থেকে মুছে ফেলুন
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
@@ -143,13 +148,22 @@ newtab-menu-open-file = ফাইল খুলুন
 newtab-label-visited = পরিদর্শিত
 newtab-label-bookmarked = বুকমার্ক করা হয়েছে
 newtab-label-removed-bookmark = বুকমার্ক মুছে ফেলা হয়েছে
-newtab-label-recommended = ঝোঁক
+newtab-label-recommended = প্রবণতা
 newtab-label-saved = { -pocket-brand-name } এ সংরক্ষণ হয়েছে
 newtab-label-download = ডাউনলোড হয়েছে
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } । প্রযোজিত
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#  $sponsor (String): This is the name of a sponsor
+newtab-label-sponsored-by = { $sponsor } দ্বারা স্পনসরকৃত
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#  $source (String): This is the name of a company or their domain
+#  $timeToRead (Number): This is the estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } মিনিট
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -159,10 +173,10 @@ newtab-section-menu-collapse-section = সেকশনটি সংকোচন 
 newtab-section-menu-expand-section = সেকশনটি প্রসারিত করুন
 newtab-section-menu-manage-section = সেকশনটি পরিচালনা করুন
 newtab-section-menu-manage-webext = এক্সটেনসন ব্যবহার করুন
-newtab-section-menu-add-topsite = টপ সাইট যোগ করুন
+newtab-section-menu-add-topsite = শীর্ষ সাইট যোগ করুন
 newtab-section-menu-add-search-engine = অনুসন্ধান ইঞ্জিন যোগ করুন
-newtab-section-menu-move-up = উপরে উঠাও
-newtab-section-menu-move-down = নীচে নামাও
+newtab-section-menu-move-up = উপরে উঠান
+newtab-section-menu-move-down = নিচে নামান
 newtab-section-menu-privacy-notice = গোপনীয়তা নীতি
 
 ## Section aria-labels
@@ -175,6 +189,7 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = শীর্ঘ সাইট
+newtab-section-header-recent-activity = সাম্প্রতিক কার্যকলাপ
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } দ্বারা সুপারিশকৃত
@@ -204,6 +219,11 @@ newtab-pocket-more-recommendations = আরও সুপারিশ
 newtab-pocket-learn-more = আরও জানুন
 newtab-pocket-cta-button = { -pocket-brand-name } ব্যবহার করুন
 newtab-pocket-cta-text = { -pocket-brand-name } এ আপনার পছন্দের গল্পগুলো সংরক্ষণ করুন, এবং চমৎকার সব লেখা পড়ে আপনার মনের ইন্ধন যোগান।
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = { -pocket-brand-name }-এ সংরক্ষণ করুন
+newtab-pocket-saved-to-pocket = { -pocket-brand-name }-এ সংরক্ষিত হয়েছে
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = আরও গল্প লোড করুন
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
@@ -217,3 +237,15 @@ newtab-error-fallback-refresh-link = আবার চেষ্টা করত�
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = শর্টকাট
+newtab-custom-shortcuts-subtitle = আপনার সংরক্ষণ বা পরিদর্শন করা সাইট
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num }টি সারি
+       *[other] { $num }টি সারি
+    }
+newtab-custom-sponsored-sites = স্পনসরকৃত শর্টকাট
+newtab-custom-pocket-title = { -pocket-brand-name } দ্বারা সুপারিশকৃত
+newtab-custom-recent-title = সাম্প্রতিক কার্যকলাপ
+newtab-custom-close-button = বন্ধ করুন
+newtab-custom-settings = আরও সেটিং পরিচালনা করুন
