@@ -156,6 +156,7 @@ spotlight-total-cookie-protection-secondary-button = Ei nyt
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = Parempi internet alkaa sinusta
+spotlight-peace-mind-header = Pidämme huolen sinusta
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Pidä Dockissa
