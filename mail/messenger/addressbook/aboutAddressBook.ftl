@@ -55,6 +55,8 @@ about-addressbook-search =
     .placeholder = Buscar { $name }
 about-addressbook-search-all =
     .placeholder = Buscar en todas las libretas de direcciones
+about-addressbook-sort-button2 =
+    .title = Listar de opciones de visualización
 about-addressbook-name-format-display =
     .label = Nombre para mostrar
 about-addressbook-name-format-firstlast =
@@ -165,6 +167,7 @@ about-addressbook-placeholder-no-search-results = No se encontraron contactos
 
 ## Details
 
+about-addressbook-prefer-display-name = Preferir el nombre para mostrar en lugar del encabezado del mensaje
 about-addressbook-write-action-button = Escribir
 about-addressbook-event-action-button = Evento
 about-addressbook-search-action-button = Buscar
