@@ -115,6 +115,7 @@ policy-SSLVersionMax = Maksimum SSL sürümünü ayarla.
 policy-SSLVersionMin = Minimum SSL sürümünü ayarla.
 policy-SupportMenu = Yardım menüsüne özel bir destek menüsü öğesi ekle.
 policy-UserMessaging = Kullanıcıya belirli mesajları gösterme.
+policy-UseSystemPrintDialog = Sistem yazdırma iletişim kutusunu kullanarak yazdır.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Web sitelerinin ziyaret edilmesini engelle. Biçimle ilgili daha fazla bilgi için belgelendirmeye bakın.
 policy-Windows10SSO = Microsoft, iş ve okul hesapları için Windows çoklu oturum açmaya izin ver.
