@@ -167,7 +167,7 @@ about-addressbook-placeholder-no-search-results = Gjin kontakten fûn
 
 ## Details
 
-about-addressbook-prefer-display-name = Leaver werjeftenamme boppe berjochtkop toane
+about-addressbook-prefer-display-name = Werjeftenamme boppe berjochtkop ferkieze
 about-addressbook-write-action-button = Opstelle
 about-addressbook-event-action-button = Barren
 about-addressbook-search-action-button = Sykje
