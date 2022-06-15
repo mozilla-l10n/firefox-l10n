@@ -370,7 +370,7 @@ use-current-pages =
     .label =
         { $tabCount ->
             [1] বর্তমান পাতা ব্যবহার করুন
-           *[other] বর্তমান পাতা ব্যবহার কর
+           *[other] বর্তমান পাতাগুলো ব্যবহার করুন
         }
     .accesskey = C
 choose-bookmark =
