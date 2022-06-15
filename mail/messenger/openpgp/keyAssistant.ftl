@@ -2,17 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-openpgp-key-assistant-title = OpenPGP kaaiassistint
-openpgp-key-assistant-rogue-warning = Mij it akseptearjen fan in falske kaai. Om wis te wêzen dat jo de krekte kaai krigen hawwe, soene jo it ferifiearje moatte. <a data-l10n-name="openpgp-link">Mear ynfo…</a>
+openpgp-key-assistant-title = OpenPGP-kaaiassistint
+openpgp-key-assistant-rogue-warning = Mij it akseptearjen fan in falske kaai. Om wis te wêzen dat jo de krekte kaai krigen hawwe, moatte jo dizze ferifiearje. <a data-l10n-name="openpgp-link">Mear ynfo…</a>
 
 ## Encryption status
 
-openpgp-key-assistant-recipients-issue-header = Fersiferjen net mooglik
+openpgp-key-assistant-recipients-issue-header = Kin net fersiferje
 # Variables:
 # $count (Number) - The number of recipients that need attention.
 openpgp-key-assistant-recipients-issue-description =
     { $count ->
-        [one] Om te fersiferjen moatte jo in brûkbere kaai krije en akseptearje foar ien ûntfanger. <a data-l10n-name="openpgp-link">Mear ynfo…</a>
+        [one] Om te fersiferjen moatte jo in brûkbere kaai krije en akseptearje foar in ûntfanger. <a data-l10n-name="openpgp-link">Mear ynfo…</a>
        *[other] Om te fersiferjen moatte jo brûkbere kaaien krije en akseptearje foar { $count } ûntfangers. <a data-l10n-name="openpgp-link">Mear ynfo…</a>
     }
 openpgp-key-assistant-info-alias = { -brand-short-name } fereasket normaal sprutsen dat de publike kaai fan de ûntfanger in brûkers-ID mei in oerienkommend e-mailadres befettet. Dit kin ferfongen wurde troch aliasrigels foar OpenPGP-ûntfangers te brûken. <a data-l10n-name="openpgp-link">Mear ynfo…</a>
@@ -44,13 +44,13 @@ openpgp-key-assistant-invalid-title =
        *[other] De folgjende kaaien kinne net brûkt wurde, útsein as jo in fernijing krije.
     }
 openpgp-key-assistant-no-key-available = Gjin kaai beskikber.
-openpgp-key-assistant-multiple-keys = Meardere kaaien binne beskikber.
+openpgp-key-assistant-multiple-keys = Der binne meardere kaaien beskikber.
 # Variables:
 # $count (Number) - The number of unaccepted keys.
 openpgp-key-assistant-key-unaccepted =
     { $count ->
-        [one] In kaai is beskikber, mar it is noch net akseptearre.
-       *[other] Meardere kaaien binne beskikber, mar net ien derfan is noch akseptearre.
+        [one] Der is in kaai is beskikber, mar dizze is noch net akseptearre.
+       *[other] Der binne meardere kaaien beskikber, mar net ien derfan is noch akseptearre.
     }
 # Variables:
 # $date (String) - The expiration date of the key.
@@ -75,14 +75,14 @@ openpgp-key-assistant-key-collected-keyserver = kaaiserver
 openpgp-key-assistant-key-collected-wkd = Webkaaimap
 openpgp-key-assistant-keys-has-collected =
     { $count ->
-        [one] In kaai is fûn, mar dy is noch net akseptearre.
-       *[other] Meardere kaaien binne fûn, mar net ien derfan is al akseptearre.
+        [one] Der is in kaai fûn, mar dy is noch net akseptearre.
+       *[other] Der binne meardere kaaien fûn, mar net ien derfan is akseptearre.
     }
 openpgp-key-assistant-key-rejected = Dizze kaai is earder ôfwiisd.
 openpgp-key-assistant-key-accepted-other = Dizze kaai is earder akseptearre foar in oar e-mailadres.
 # Variables:
 # $recipient (String) - The email address of the recipient needing resolution.
-openpgp-key-assistant-resolve-discover-info = Untdek online ekstra of bywurke kaaien foar { $recipient }, of ymportearje se út in bestân.
+openpgp-key-assistant-resolve-discover-info = Online ekstra of bywurke kaaien ûntdekke foar { $recipient }, of se ymportearje út in bestân.
 
 ## Discovery section
 
@@ -94,11 +94,11 @@ openpgp-key-assistant-discover-keys = Kaaien ûntdekke foar { $recipient }…
 # $recipient (String) - The email address which we're discovering keys.
 openpgp-key-assistant-expired-key-update =
     Der is in fernijing fûn foar ien fan de earder akseptearre kaaien foar { $recipient }.
-    It kin no brûkt wurde omdat it net langer ferrûn is.
+    Dizze kin no brûkt wurde, omdat it net langer ferrûn is.
 
 ## Dialog buttons
 
-openpgp-key-assistant-discover-online-button = Publike kaaien online ûntdekke…
+openpgp-key-assistant-discover-online-button = Iepenbiere kaaien online ûntdekke…
 openpgp-key-assistant-import-keys-button = Iepenbiere kaaien ymportearje út bestân…
 openpgp-key-assistant-issue-resolve-button = Oplosse…
 openpgp-key-assistant-view-key-button = Kaai besjen…
