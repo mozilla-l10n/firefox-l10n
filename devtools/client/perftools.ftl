@@ -98,6 +98,8 @@ perftools-thread-jvm-gecko =
     .title = Fil d’execucion principal de Gecko JVM
 perftools-thread-jvm-nimbus =
     .title = Fils d’execucion principals del SDK d’experimentacion de Nimbus
+perftools-thread-jvm-glean =
+    .title = Fils d’execucion principals del SDK de telemetria Glean
 
 ##
 
