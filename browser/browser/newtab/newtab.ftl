@@ -114,6 +114,12 @@ newtab-menu-show-privacy-info = আমাদের স্পনসর এবং 
 newtab-privacy-modal-button-done = সম্পন্ন
 newtab-privacy-modal-button-manage = স্পনসর করা সামগ্রীর সেটিংস পরিচালনা করুন
 newtab-privacy-modal-header = আপনার গোপনীয়তার বিষয়টি গুরুত্বপূর্ণ।
+newtab-privacy-modal-paragraph-2 =
+    মনোমুগ্ধকর গল্প পরিবেশন করার পাশাপাশি আমরা আপনাকে 
+    নির্বাচিত স্পনসরদের প্রাসঙ্গিক ,
+    উচ্চ-পরীক্ষিত বিষয়বস্তুও দেখাই। নিশ্চিত থাকুন, আপনার ব্রাউজিং
+    তথ্য কখনই আপনার ব্যক্তিগত { -brand-product-name } এ থাকে না - আমরা তা দেখতে পাই না এবং আমাদের
+    স্পনসরাও তা পায় না।
 newtab-privacy-modal-link = কীভাবে নতুন ট্যাবে গোপনীয়তা কাজ করে তা জানুন
 
 ##
