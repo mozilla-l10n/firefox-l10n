@@ -81,7 +81,10 @@ vcard-date-year = Ano
 vcard-adr-header = Endereços
 vcard-adr-add = Adicionar endereço
 vcard-adr-label = Endereço
+vcard-adr-delivery-label = Etiqueta de entrega
+vcard-adr-pobox = Caixa de correio
 vcard-adr-ext = Endereço estendido
+vcard-adr-street = Endereço
 # Or "Locality"
 vcard-adr-locality = Cidade
 # Or "Region"

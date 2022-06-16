@@ -165,6 +165,7 @@ about-addressbook-placeholder-no-search-results = Nenhum contato encontrado
 
 ## Details
 
+about-addressbook-prefer-display-name = Preferir nome de exibição ao cabeçalho da mensagem
 about-addressbook-write-action-button = Escrever
 about-addressbook-event-action-button = Evento
 about-addressbook-search-action-button = Pesquisar
