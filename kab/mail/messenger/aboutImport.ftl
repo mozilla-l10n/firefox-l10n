@@ -65,6 +65,7 @@ error-pane-title = Tuccḍa
 error-message-failed = Aktar yecceḍ, d ayen ur nettwarǧa ara. Ugar n telɣut tezmer ad tili deg Console n tuccḍa.
 error-failed-to-parse-ics-file = Ulac iferdisen ara yettwaktaren deg ufaylu.
 error-export-failed = Asifeḍ yecceḍ, d ayen ur nettwarǧa ara. Ugar n telɣut tezmer ad tili deg Console n tuccḍa.
+error-message-no-profile = Ulac amaɣnu yettwafen.
 
 ## <csv-field-map> element
 
@@ -76,6 +77,7 @@ csv-target-field = Urtan n imedlis n tensa
 
 ## Export tab
 
+export-profile-title = Sifeḍ imiḍanen n yimayl, iznan n yimayl, imedlisen n tansiwin akked yiɣewwaren s ufaylu Zip.
 export-open-profile-folder = Ldi akaram n umaɣnu
 export-brand-name = { -brand-product-name }
 
