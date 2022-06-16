@@ -98,7 +98,7 @@ policy-PasswordManagerExceptions = Voorkomen dat { -brand-short-name } wachtwoor
 # PDF.js and PDF should not be translated
 policy-PDFjs = PDF.js, de in { -brand-short-name } ingebouwde PDF-lezer, uitschakelen of instellen.
 policy-Permissions2 = Toestemmingen voor camera, microfoon, locatie, notificaties en automatisch afspelen configureren.
-policy-PictureInPicture = Picture-in-Picture in- of uitschakelen.
+policy-PictureInPicture = Picture-in-picture in- of uitschakelen.
 policy-PopupBlocking = Toestaan dat bepaalde websites standaard pop-ups weergeven.
 policy-Preferences = De waarde voor een subset van voorkeuren instellen en vergrendelen.
 policy-PromptForDownloadLocation = Vragen waar gedownloade bestanden moeten worden opgeslagen.
