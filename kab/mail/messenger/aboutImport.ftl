@@ -89,3 +89,7 @@ export-brand-name = { -brand-product-name }
 
 ## Step navigation on top of the wizard pages
 
+step-confirm = Sentem
+# Variables:
+# $number (number) - step number
+step-count = { $number }
