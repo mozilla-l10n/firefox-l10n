@@ -25,6 +25,7 @@ inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> একট�
 inactive-css-property-because-of-display = <strong>{ $display }</strong> এটি প্রদর্শন থাকার কারণে <strong>{ $property }</strong> উপাদানটির কোন প্রভাব নেই।
 inactive-css-not-display-block-on-floated = <strong>প্রদর্শন</strong> মান ইঞ্জিন দ্বারা পরিবর্তিত <strong>ব্লক</strong> হয়েছে কারণ উপাদানটি <strong>ফ্লোটেড<strong>।
 inactive-css-property-is-impossible-to-override-in-visited = এটি ওভাররাইড করা অসম্ভব<strong>{ $property }</strong><strong>:পরিদর্শন</strong>নিষেধাজ্ঞার কারণে।
+inactive-css-position-property-on-unpositioned-box = এই উপাদানটির ওপর <strong>{ $property }</strong> এর কোন প্রভাব নেই কারণ এটি positioned element নয়।
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -32,8 +33,15 @@ inactive-css-property-is-impossible-to-override-in-visited = এটি ওভা
 
 inactive-css-not-grid-or-flex-container-fix = <strong>display:grid</strong> অথবা <strong>display:grid</strong> যোগ করার চেষ্টা করুন। { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = <strong>display:grid</strong>, <strong>display:flex</strong>, বা <strong>columns:2</strong> যোগ করার চেষ্টা করুন। { learn-more }
+inactive-css-not-grid-item-fix-2 = উপাদানের মুলে <strong>display:grid</strong> বা <strong>display:inline-grid</strong> যোগ করার চেষ্টা করুন। { learn-more }
+inactive-css-not-grid-container-fix = <strong>display:grid</strong> বা <strong>display:inline-grid</strong> যোগ করার চেষ্টা করুন। { learn-more }
+inactive-css-not-flex-item-fix-2 = উপাদানটির প্যারেন্ট এর সাথে <strong>display:flex</strong> অথবা <strong>display:inline-flex</strong> জুড়ে দেবার চেষ্টা করুন। { learn-more }
+inactive-css-not-flex-container-fix = <strong>display:flex</strong> বা <strong>display:inline-flex</strong> যোগ করার চেষ্টা করুন। { learn-more }
+inactive-css-not-inline-or-tablecell-fix = <strong>display:inline</strong> বা <strong>display:table-cell</strong> যোগ করার চেষ্টা করুন। { learn-more }
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = <strong>display:inline-block</strong> বা <strong>display:block</strong> যোগ করার চেষ্টা করুন। { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = <strong>display:inline-block</strong> যোগ করার চেষ্টা করুন। { learn-more }
 inactive-css-not-display-block-on-floated-fix = <strong>float</strong> সরানোর চেষ্টা করুন বা <strong>display:block</strong> যোগ করুন। { learn-more }
+inactive-css-position-property-on-unpositioned-box-fix = এটির <strong>position</strong> এর বৈশিষ্ট্য <strong>static</strong> ব্যতীত , অন্য কিছু একটা সেট করার চেষ্টা করুন। { learn-more }
 inactive-text-overflow-when-no-overflow-fix = <strong>overflow:hidden</strong> যোগ করার চেষ্টা করুন। { learn-more }
 inactive-css-not-table-fix = <strong>display:table</strong> বা <strong>display:inline-table</strong> যোগ করার চেষ্টা করুন। { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, বা <strong>overflow:hidden</strong> যোগ করার চেষ্টা করুন। { learn-more }
