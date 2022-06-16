@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = WebExtensions যেন chrome.storage.managed এর মাধ্যমে এক্সেস করতে পারে সে নীতি ঠিক করুন।
+policy-AppAutoUpdate = স্বয়ংক্রিয় ভাবে অ্যাপ্লিকেশন আপডেট কার্যকর বা অকার্যকর করুন।
 policy-AppUpdateURL = কাস্টম অ্যাপ আপডেট URL নির্ধারণ করুন।
 policy-Authentication = সমর্থিত সাইটের জন্য অভ্যন্তরীণ ব্যবহারকারী প্রমাণীকরণ কনফিগার করুন।
 policy-BlockAboutAddons = অ্যাড-অন পরিচালকের অ্যাক্সেস প্রতিরোধ করুন (about:addons)।

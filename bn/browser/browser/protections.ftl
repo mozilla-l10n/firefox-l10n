@@ -18,6 +18,10 @@ graph-total-tracker-summary =
         [one] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } থেকে <b>{ $count }</b> ট্র্যাকার ব্লক করা হয়েছে
        *[other] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } থেকে <b>{ $count }</b> ট্র্যাকার ব্লক করা হয়েছে
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } ব্যক্তিগত উইন্ডোতে ট্র্যাকার আটক চালিয়ে যাবে, তবে কী আটক হয়েছিল সেটির তথ্য জমা রাখবে না।
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = { -brand-short-name } ট্র্যাকারগুলো এই সপ্তাহে অবরুদ্ধ করা হয়েছে
 protection-report-webpage-title = সুরক্ষা ড্যাশবোর্ড
 protection-report-etp-card-content-custom-not-blocking = সকল সুরক্ষা বর্তমানে বন্ধ আছে। কোন ট্র্যাকারকে ব্লক করবেন তা নির্বাচন করতে { -brand-short-name } সুরক্ষা সেটিংস থেকে পরিচালনা করুন।
 protection-report-manage-protections = সেটিং পরিচালনা
@@ -36,6 +40,9 @@ fingerprinter-tab-title = ফিঙ্গারপ্রিন্টারস
 fingerprinter-tab-content = আপনার প্রোফাইল তৈরি করতে ফিঙ্গারপিন্টার আপনার ব্রাউজার এবং কম্পিউটার থেকে সেটিংস সংগ্রহ করে। এই ডিজিটাল ফিঙ্গারপ্রিন্ট ব্যবহার করে, তারা বিভিন্ন ওয়েবসাইট জুড়ে আপনাকে ট্র্যাক করতে পারে। <a data-l10n-name="learn-more-link">আরও জানুন</a>
 cryptominer-tab-title = ক্রিপ্টোমাইনার
 cryptominer-tab-content = ক্রিপ্টোমাইনাররা গোপনে আপনার সিস্টেমের কম্পিউটিং শক্তি ডিজিটাল অর্থ মাইনিং এ ব্যবহার করে। ক্রিপ্টোমাইনিং স্ক্রিপ্টগুলি আপনার ব্যাটারি নিষ্কাশন করে, আপনার কম্পিউটারকে ধীর করে দেয় এবং আপনার বিদ্যুৎ বিল বাড়িয়ে দিতে পারে।<a data-l10n-name="learn-more-link">আরও জানুন</a>
+mobile-app-title = আরো বেশি ডিভাইস জুড়ে বিজ্ঞাপন ট্র্যাকারদের অবরুদ্ধ করুন
+mobile-app-card-content = বিজ্ঞাপন ট্র্যাকিংয়ের বিরুদ্ধে অন্তর্নির্মিত সুরক্ষা সহ মোবাইলে ব্রাউজারটি ব্যবহার করুন।
+mobile-app-links = <a data-l10n-name="android-mobile-inline-link">অ্যান্ড্রয়েড</a>এবং<a data-l10n-name="ios-mobile-inline-link">iOS</a> এর জন্য { -brand-product-name } ব্রাউজার
 lockwise-title = আবার কখনো পাসওয়ার্ড ভুলে যাবেন না
 lockwise-header-content-logged-in = নিরাপদভাবে আপনার সকল ডিভাইসে আপনার পাসওয়ার্ড সংরক্ষণ করুন এবং সিঙ্ক করুন।
 monitor-title = ডাটা ফাটল সন্ধান করুন
