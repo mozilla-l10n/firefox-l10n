@@ -14,6 +14,17 @@ learn-more = <span data-l10n-name="link">আরো জানুন</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> একটি flex container বা grid container না হওয়ায় এই উপাদানটির উপর কোনো প্রভাব নেই।
+inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> একটি flex container, grid container বা multi-column না হওয়ায় এই উপাদানটির উপর কোনো প্রভাব নেই।
+inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> একটি grid বা flex আইটেম না হওয়ায় এই উপাদানটির উপর কোনো প্রভাব নেই।
+inactive-css-not-grid-item = <strong>{ $property }</strong> একটি grid আইটেম না হওয়ায় এই উপাদানটির উপর কোনো প্রভাব নেই।
+inactive-css-not-grid-container = <strong>{ $property }</strong> একটি grid container না হওয়ায় এই উপাদানটির উপর কোনো প্রভাব নেই।
+inactive-css-not-flex-item = <strong>{ $property }</strong> একটি flex আইটেম না হওয়ায় এই উপাদানটির উপর কোনো প্রভাব নেই।
+inactive-css-not-flex-container = <strong>{ $property }</strong> একটি flex container না হওয়ায় এই উপাদানটির উপর কোনো প্রভাব নেই।
+inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> একটি inline বা table-cell না হওয়ায় এই উপাদানটির উপর কোনো প্রভাব নেই।
+inactive-css-property-because-of-display = <strong>{ $display }</strong> এটি প্রদর্শন থাকার কারণে <strong>{ $property }</strong> উপাদানটির কোন প্রভাব নেই।
+inactive-css-not-display-block-on-floated = <strong>প্রদর্শন</strong> মান ইঞ্জিন দ্বারা পরিবর্তিত <strong>ব্লক</strong> হয়েছে কারণ উপাদানটি <strong>ফ্লোটেড<strong>।
+inactive-css-property-is-impossible-to-override-in-visited = এটি ওভাররাইড করা অসম্ভব<strong>{ $property }</strong><strong>:পরিদর্শন</strong>নিষেধাজ্ঞার কারণে।
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
