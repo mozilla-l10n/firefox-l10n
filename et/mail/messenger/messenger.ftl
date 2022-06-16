@@ -126,6 +126,10 @@ message-header-msg-flagged =
 message-header-msg-not-flagged =
     .title = Tähistamata
     .aria-label = Tähistamata
+# Variables:
+# $address (String) - The email address of the recipient this picture belongs to.
+message-header-recipient-avatar =
+    .alt = Kontakti { $address } profiilipilt.
 
 ## Message header cutomize panel
 
@@ -139,6 +143,16 @@ message-header-button-style-text =
     .label = Tekst
 message-header-button-style-icons =
     .label = Ikoonid
+message-header-show-sender-full-address =
+    .label = Alati kuvatakse saatja täisaadressi
+    .accesskey = A
+message-header-show-sender-full-address-description = E-posti aadressi kuvatakse kuvatana nime all.
+message-header-show-recipient-avatar =
+    .label = Kuvatakse saatja profiilipilti
+    .accesskey = K
+message-header-hide-label-column =
+    .label = Väljade nimede veerg peidetakse
+    .accesskey = V
 message-header-large-subject =
     .label = Teemat kuvatakse suurelt
     .accesskey = T
@@ -151,13 +165,6 @@ toolbar-context-menu-manage-extension =
 toolbar-context-menu-remove-extension =
     .label = Eemalda laiendus
     .accesskey = E
-
-## Message headers
-
-message-header-address-in-address-book-icon =
-    .alt = Aadress on aadressiraamatus
-message-header-address-not-in-address-book-icon =
-    .alt = Aadressi aadressiraamatus pole
 
 ## Add-on removal warning
 
@@ -215,12 +222,6 @@ spaces-context-new-window-item =
 # $tabName (String) - The name of the tab this item will switch to.
 spaces-context-switch-tab-item =
     .label = Lülitu kaardile { $tabName }
-settings-context-open-settings-item =
-    .label = Ava sätted
-settings-context-open-account-settings-item =
-    .label = Ava kontode sätted
-settings-context-open-addons-item =
-    .label = Ava lisad ja teemad
 settings-context-open-settings-item2 =
     .label = Sätted
 settings-context-open-account-settings-item2 =

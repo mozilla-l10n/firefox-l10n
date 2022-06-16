@@ -192,6 +192,11 @@ key-notification-resolve =
     .label = Lahenda…
     .accesskey = L
     .tooltiptext = Ava OpenPGP võtmeassistent
+can-encrypt-smime-notification = S/MIME otspunktkrüptimine on võimalik.
+can-encrypt-openpgp-notification = OpenPGP otspunktkrüptimine on võimalik.
+can-e2e-encrypt-button =
+    .label = Krüpti
+    .accesskey = K
 
 ## Addressing Area
 
