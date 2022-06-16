@@ -70,7 +70,9 @@ openpgp-key-assistant-key-source =
        *[other] Origens
     }
 openpgp-key-assistant-key-collected-attachment = anexo de email
+openpgp-key-assistant-key-collected-autocrypt = Criptografar cabeçalho automaticamente
 openpgp-key-assistant-key-collected-keyserver = servidor de chaves
+openpgp-key-assistant-key-collected-wkd = Diretório de chaves da web
 openpgp-key-assistant-keys-has-collected =
     { $count ->
         [one] Uma chave foi encontrada, mas ainda não foi aceita.
