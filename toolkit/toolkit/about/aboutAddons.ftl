@@ -35,6 +35,8 @@ detail-version =
     .label = バージョン
 detail-last-updated =
     .label = 更新日
+addon-detail-description-expand = 詳細を表示
+addon-detail-description-collapse = 詳細を隠す
 detail-contributions-description = このアドオンの開発者が開発を継続するための少額の寄付によるサポートを求めています。
 detail-contributions-button = Contribute
     .title = このアドオンの開発に寄付する
@@ -157,9 +159,6 @@ addon-updates-check-for-updates = 今すぐ更新を確認
     .accesskey = C
 addon-updates-view-updates = 最近更新したアドオンを表示
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -291,8 +290,10 @@ extension-enabled-heading = 有効
 extension-disabled-heading = 無効
 theme-enabled-heading = 有効
 theme-disabled-heading = 無効
+theme-disabled-heading2 = 保存したテーマ
 theme-monochromatic-heading = カラーテーマ
 theme-monochromatic-subheading = { -brand-product-name } の新しいカラーテーマが期間限定で利用できます。
+theme-colorways-button = カラーテーマを試す
 plugin-enabled-heading = 有効
 plugin-disabled-heading = 無効
 dictionary-enabled-heading = 有効
@@ -345,10 +346,8 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = 許可した場合、この拡張機能はプライベートブラウジング中であってもユーザーのオンライン行動にアクセスできます。<a data-l10n-name="learn-more">詳細情報</a>
 addon-detail-private-browsing-allow = 許可する
 addon-detail-private-browsing-disallow = 許可しない
-
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
 addon-badge-recommended2 =
     .title = { -brand-product-name } は Mozilla が定めた安全性とパフォーマンスの基準に適合する拡張機能のみをおすすめします
     .aria-label = { addon-badge-recommended2.title }
