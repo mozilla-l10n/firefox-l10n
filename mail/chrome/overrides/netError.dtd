@@ -64,12 +64,12 @@ que o &brandShortName; esteja autorizado a acessar a web.</li>
 
 <!ENTITY contentEncodingError.title "Erro na codificação do conteúdo">
 <!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li> 
+<li>Entre em contato com os responsáveis pelo site para informar este problema.</li> 
 </ul>">
 
 <!ENTITY unsafeContentType.title "Tipo de arquivo não seguro">
 <!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li> 
+<li>Entre me contato com os responsáveis pelo site para informar este problema.</li> 
 </ul>">
 
 <!ENTITY netReset.title "Conexão reiniciada">
