@@ -15,12 +15,24 @@ appmenuitem-history =
     .label = Историја
 appmenuitem-downloads =
     .label = Преземања
+appmenuitem-passwords =
+    .label = Лозинки
+appmenuitem-addons-and-themes =
+    .label = Додатоци и теми
 appmenuitem-print =
     .label = Печати…
+appmenuitem-find-in-page =
+    .label = Најди во страница...
 appmenuitem-zoom =
     .value = Приказ
+appmenuitem-more-tools =
+    .label = Повеќе алатки
 appmenuitem-help =
     .label = Помош
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Поставки
 
 ## Zoom and Fullscreen Controls
 
@@ -35,31 +47,45 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Нема отворени јазичиња
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Вклучете синхронизација на јазичиња за да видите листа на јазичињата од вашите други уреди.
-
+appmenu-remote-tabs-opensettings =
+    .label = Поставки
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Сакате да ги видите вашите јазичиња од други уреди овде?
-
+appmenuitem-fxa-toolbar-sync-now2 = Синхронизирај сега
+appmenu-fxa-signed-in-label = Најавете се
 appmenuitem-save-page =
     .label = Сними страница како…
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Што е ново
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-learn-more-button =
+    .label = Дознајте повеќе
+profiler-popup-settings =
+    .value = Поставки
+profiler-popup-discard-button =
+    .label = Отфрли
 
 ## Profiler presets
 ## They are shown in the popup's select box.
 
+
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
+
+profiler-popup-presets-graphics-label =
+    .label = Графика
 
 ## History panel
 
