@@ -192,6 +192,9 @@ key-notification-resolve =
     .label = Leysa…
     .accesskey = L
     .tooltiptext = Opna leiðarvísi fyrir OpenPGP dulritunarlykla
+can-e2e-encrypt-button =
+    .label = Dulrita
+    .accesskey = D
 
 ## Addressing Area
 

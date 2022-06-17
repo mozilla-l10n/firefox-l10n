@@ -11,9 +11,6 @@ import-start = Innflutningsverkfæri
 import-start-title = Flytja inn stillingar eða gögn úr forriti eða skrá.
 import-start-description = Veldu uppruna gagnanna sem þú vilt flytja inn frá. Þú velur síðar hvaða gögn eigi að flytja inn.
 import-from-app = Flytja inn úr forriti
-import-from-app-desc = Velja að flytja inn reikninga, nafnaskrár, dagatöl og önnur gögn frá:
-import-address-book = Flytja inn nafnaskrá
-import-calendar = Flytja inn dagatalsskrá
 import-file = Flytja inn úr skrá
 import-file-title = Veldu skrá til að flytja inn efni hennar.
 import-file-description = Veldu að flytja inn áður afritað notandasnið, nafnaskrár eða dagatöl.
@@ -23,7 +20,6 @@ export-profile = Flytja út
 
 ## Buttons
 
-button-cancel = Hætta við
 button-back = Til baka
 button-continue = Halda áfram
 button-export = Flytja út
@@ -36,14 +32,6 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
-# Variables:
-#   $app (String) - The name of the app to import from
-profiles-pane-title = Flytja inn úr { $app }
-profiles-pane-desc = Veldu staðsetninguna sem á að flytja inn frá
-profile-file-picker-dir = Veldu möppu notandasniðs
-profile-file-picker-zip = Veldu zip-skrá (minni en 2GB)
-items-pane-title = Veldu hvað á að flytja inn
-items-pane-source = Staðsetning uppruna:
 source-thunderbird = Flytja inn úr annarri { app-name-thunderbird } uppsetningu
 source-thunderbird-description = Flytja inn stillingar, síur, skilaboð og önnur og gögn úr { app-name-thunderbird } notandasniði.
 source-seamonkey = Flytja inn úr { app-name-seamonkey } uppsetningu
@@ -96,7 +84,6 @@ items-pane-override = Ekki verður skrifað yfir nein fyrirliggjandi eða eins g
 
 ## Import from address book file steps
 
-import-from-addr-book-file-desc = Veldu skráartegundina sem þú vilt flytja inn:
 import-from-addr-book-file-description = Veldu skráarsniðið sem inniheldur nafnaskrárgögnin þín.
 addr-book-csv-file = Skrá aðgreind með kommum eða innskotsmerkjum (.csv, .tsv)
 addr-book-ldif-file = LDIF-skrá (.ldif)
@@ -106,13 +93,8 @@ addr-book-mab-file = Mork-gagnagrunnsskrá (.mab)
 addr-book-file-picker = Veldu nafnaskrá
 addr-book-csv-field-map-title = Samsvarandi nöfn reita
 addr-book-csv-field-map-desc = Veldu nafnaskrárreiti sem samsvara upprunalegum reitum. Afmerktu þá reiti sem þú vilt ekki flytja inn.
-addr-book-directories-pane-title = Veldu möppuna sem þú vilt flytja inn í:
 addr-book-directories-title = Veldu hvert á að flytja inn valin gögn
 addr-book-directories-pane-source = Upprunarskrá:
-addr-book-import-into-new-directory = Búa til nýja möppu
-
-## Import from address book file steps
-
 # $addressBookName (string) - name of the new address book that would be created.
 addr-book-import-into-new-directory2 = Búa til nýja möppu sem heitir <strong>"{ $addressBookName }"</strong>
 # $addressBookName (string) - name of the address book to import into
@@ -129,7 +111,6 @@ calendar-items-filter-input =
     .placeholder = Sía atriði…
 calendar-select-all-items = Velja allt
 calendar-deselect-all-items = Afvelja allt
-calendar-import-into-new-calendar = Búa til nýtt dagatal
 calendar-target-title = Veldu hvert á að flytja inn valin atriði.
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = Búa til nýtt dagatal sem heitir <strong>"{ $targetCalendar }"</strong>
@@ -145,18 +126,12 @@ calendar-summary-description = Nýtt dagatal sem heitir "{ $targetCalendar }" ve
 
 ## Import dialog
 
-progress-pane-importing = Innflutningur
-progress-pane-exporting = Útflutningur
-progress-pane-finished-desc = Lokið.
-progress-pane-restart-desc = Endurræstu til að ljúka innflutningi.
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-importing2 = Flyt inn... { $progressPercent }
 # $progressPercent (string) - percent formatted progress (for example "10%")
 progress-pane-exporting2 = Flyt út... { $progressPercent }
 progress-pane-finished-desc2 = Lokið.
 error-pane-title = Villa
-error-message-zip-file-too-big = Valin zip-skrá er stærri en 2GB. Afþjappaðu hana fyrst, síðan skaltu í staðinn flytja inn úr afþjöppuðu möppunni.
-error-message-extract-zip-file-failed = Mistókst að afþjappa zip-skrána. Afþjappaðu hana handvirkt, síðan skaltu í staðinn flytja inn úr afþjöppuðu möppunni.
 error-message-zip-file-too-big2 = Valin ZIP-skrá er stærri en 2GB. Afþjappaðu hana fyrst, síðan skaltu í staðinn flytja inn úr afþjöppuðu möppunni.
 error-message-extract-zip-file-failed2 = Mistókst að afþjappa ZIP-skrána. Afþjappaðu hana handvirkt, síðan skaltu í staðinn flytja inn úr afþjöppuðu möppunni.
 error-message-failed = Innflutningur mistókst óvænt, frekari upplýsingar gætu verið tiltækar á villuskjánum.
@@ -174,12 +149,9 @@ csv-target-field = Nafnaskrárreitur
 
 ## Export tab
 
-export-profile-desc = Flyttu út póstreikninga, póstskilaboð, nafnaskrár og stillingar í zip-skrá. Þegar þörf krefur geturðu flutt zip-skrána inn til að endurheimta notandasniðið þitt.
-export-profile-desc2 = Ef notkunarsniðið þitt er stærra en 2GB, mælum við með að þú afritir það sjálf/ur.
 export-profile-title = Flytja út póstreikninga, póstskilaboð, nafnaskrár og stillingar í ZIP-skrá.
 export-profile-description = Ef notkunarsniðið þitt er stærra en 2GB, mælum við með að þú afritir það sjálf/ur.
 export-open-profile-folder = Opna möppu notandasniðs
-export-file-picker = Flytja út í zip-skrá
 export-file-picker2 = Flytja út í ZIP-skrá
 export-brand-name = { -brand-product-name }
 
@@ -196,3 +168,10 @@ footer-help = Þarftu aðstoð?
 footer-import-documentation = Hjálparskjöl innflutnings
 footer-export-documentation = Hjálparskjöl útflutnings
 footer-support-forum = Aðstoðarspjallsvæði
+
+## Step navigation on top of the wizard pages
+
+step-confirm = Staðfesta
+# Variables:
+# $number (number) - step number
+step-count = { $number }
