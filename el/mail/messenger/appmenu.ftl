@@ -6,6 +6,10 @@
 ## View / Layout
 
 appmenu-font-size-value = Μέγεθος γραμματοσειράς
+appmenuitem-font-size-enlarge =
+    .tooltiptext = Αύξηση μεγέθους γραμματοσειράς
+appmenuitem-font-size-reduce =
+    .tooltiptext = Μείωση μεγέθους γραμματοσειράς
 # Variables:
 # $size (String) - The current font size.
 appmenuitem-font-size-reset =

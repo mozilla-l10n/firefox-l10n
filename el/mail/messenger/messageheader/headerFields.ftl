@@ -31,6 +31,12 @@ message-header-custom-field = { $fieldName }<span data-l10n-name="field-separato
 
 ##
 
+message-header-address-in-address-book-icon2 =
+    .alt = Στο ευρετήριο
+message-header-address-not-in-address-book-icon2 =
+    .alt = Όχι στο ευρετήριο
 message-header-address-in-address-book-button =
     .title = Επεξεργασία επαφής
+message-header-field-show-more = Περισσότερα
+    .title = Εμφάνιση όλων των παραληπτών
 message-ids-field-show-all = Εμφάνιση όλων
