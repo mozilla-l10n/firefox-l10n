@@ -11,5 +11,5 @@
 <!ENTITY spaceRadio.label      "Espaço">
 <!ENTITY otherRadio.label      "Outro caractere:">
 <!ENTITY deleteCharCheck.label "Excluir o caractere separador">
-<!ENTITY collapseSpaces.label  "Ignorar espaços extras">
+<!ENTITY collapseSpaces.label  "Ignorar espaços adicionais">
 <!ENTITY collapseSpaces.tooltip "Converter espaços adjacentes em um separador">
