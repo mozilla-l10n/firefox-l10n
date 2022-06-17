@@ -107,7 +107,7 @@ newtab-menu-delete-history = ইতিহাস থেকে মুছে ফে
 newtab-menu-save-to-pocket = { -pocket-brand-name } এ সংরক্ষণ করুন
 newtab-menu-delete-pocket = { -pocket-brand-name } থেকে মুছে দিন
 newtab-menu-archive-pocket = { -pocket-brand-name } এ আর্কাইভ করুন
-newtab-menu-show-privacy-info = আমাদের স্পনসর এবং আপনার গোপনীয়তা
+newtab-menu-show-privacy-info = আমাদের স্পন্সর ও আপনার গোপনীয়তা
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

@@ -8,6 +8,17 @@ do-not-track-option-default-content-blocking-known =
     .label = শুধুমাত্র যখন { -brand-short-name } পরিচিত ট্র্যাকারগুলোকে ব্লক করার জন্য সেট করা হয়
 do-not-track-option-always =
     .label = সর্বদা
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = সেটিংসে খুঁজুন
 managed-notice = আপনার ব্রাউজার আপনার প্রতিষ্ঠান দ্বারা পরিচালিত হচ্ছে।
 pane-general-title = সাধারণ
 category-general =
@@ -21,6 +32,7 @@ category-search =
 pane-privacy-title = গোপনীয়তা ও নিরাপত্তা
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-sync-title3 = সিঙ্ক
 help-button-label = { -brand-short-name } সহায়তা
 addons-button-label = এক্সটেনশন ও থিম
 focus-search =
@@ -415,8 +427,8 @@ home-prefs-snippets-header =
 home-prefs-sections-rows-option =
     .label =
         { $num ->
-            [one] { $num } সারি
-           *[other] { $num } সারিগুলি
+            [one] { $num }টি সারি
+           *[other] { $num }টি সারি
         }
 
 ## Search Section
@@ -494,7 +506,7 @@ sync-signedout-caption = আপনার ওয়েব আপনার সঙ্�
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Firefox ডাউনলোড <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> অথবা <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> আপনার মোবাইল ডিভাইসের সাথে সিঙ্ক করতে।
+sync-mobile-promo = আপনার মোবাইল ডিভাইসের সাথে সিঙ্ক করতে <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">অ্যান্ড্রয়েড</a> বা <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">আইওএসের</a> জন্য ফায়ারফক্স ডাউনলোড করুন।
 
 ## Firefox Account - Signed in
 
@@ -536,6 +548,7 @@ sync-currently-syncing-logins-passwords = লগইন ও পাসওয়ার
 sync-currently-syncing-addresses = ঠিকানা
 sync-currently-syncing-creditcards = ক্রেডিট কার্ড
 sync-currently-syncing-addons = অ্যাড-অন
+sync-currently-syncing-settings = সেটিং
 sync-change-options =
     .label = পরিবর্তন করুন...
     .accesskey = C
