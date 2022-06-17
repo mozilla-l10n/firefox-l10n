@@ -55,6 +55,24 @@ openpgp-key-assistant-key-unaccepted =
 # Variables:
 # $date (String) - The expiration date of the key.
 openpgp-key-assistant-key-accepted-expired = Kinnitatud võti aegus { $date }.
+openpgp-key-assistant-keys-accepted-expired = Mitmed kinnitatud võtmed on aegunud.
+# Variables:
+# $date (String) - The expiration date of the key.
+openpgp-key-assistant-this-key-accepted-expired = See võti oli varem kinnitatud, aga aegus { $date }.
+# Variables:
+# $date (String) - The expiration date of the key.
+openpgp-key-assistant-key-unaccepted-expired-one = Võti aegus { $date }.
+openpgp-key-assistant-key-unaccepted-expired-many = Mitmed võtmed on aegunud.
+openpgp-key-assistant-key-fingerprint = Sõrmejälg
+openpgp-key-assistant-key-source =
+    { $count ->
+        [one] Allikas
+       *[other] Allikad
+    }
+openpgp-key-assistant-key-collected-attachment = e-kirja manus
+openpgp-key-assistant-key-collected-autocrypt = Automaatkrüpti päis
+openpgp-key-assistant-key-collected-keyserver = võtmeserver
+openpgp-key-assistant-key-collected-wkd = Veebi võtmekataloog
 
 ## Discovery section
 
