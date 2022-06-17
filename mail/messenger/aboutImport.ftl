@@ -159,7 +159,7 @@ export-brand-name = { -brand-product-name }
 
 summary-pane-title = Dados a ser importados
 summary-pane-start = Iniciar importação
-summary-pane-warning = O { -brand-product-name } precisa ser reiniciado quando terminar a importação.
+summary-pane-warning = O { -brand-product-name } precisa ser reiniciado ao terminar a importação.
 summary-pane-start-over = Reiniciar ferramenta de importação
 
 ## Footer area
