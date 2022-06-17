@@ -11,13 +11,13 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Додај етикети
-
 pocket-panel-saved-error-generic = Се појави грешка кога се обидов да зачувам на { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Етикетите се ограничени на 25 знаци
 pocket-panel-saved-error-only-links = Може да се зачувуваат само врски до мрежни места
 pocket-panel-saved-error-not-saved = Страницата не е зачувана
 pocket-panel-saved-page-removed = Страницата е отстранета
 pocket-panel-saved-page-saved = Зачувано во { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Зачувано во { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Страницата се отстранува…
 pocket-panel-saved-processing-tags = Додавам етикети …
 pocket-panel-saved-remove-page = Отстрани страница
@@ -26,6 +26,8 @@ pocket-panel-saved-saving-tags = Се снима…
 pocket-panel-saved-suggested-tags = Предложени етикети
 pocket-panel-saved-tags-saved = Додадени етикети
 pocket-panel-signup-view-list = Види листа
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Додај етикети:
 
 ## about:pocket-signup panel
 
@@ -41,11 +43,17 @@ pocket-panel-signup-tagline-story-two = Прегледајте во { -pocket-br
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Моја листа
 pocket-panel-home-welcome-back = Добредојдовте назад
 pocket-panel-home-discover-more = Откријте повеќе
 pocket-panel-home-explore-more = Истражи
 
 ## Pocket panel header component
 
+pocket-panel-header-my-list = Прикажи ја мојата листа
+pocket-panel-header-sign-in = Најавете се
+
 ## Pocket panel buttons
 
+pocket-panel-button-show-all = Прикажи сè
+pocket-panel-button-remove = Отстрани
