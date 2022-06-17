@@ -196,6 +196,7 @@ search-one-offs-add-engine-menu =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = বুকমার্ক যোগ করুন
 bookmark-panel-cancel =
     .label = বাতিল
     .accesskey = C
@@ -432,8 +433,8 @@ bookmarks-tools-toolbar-visibility-menuitem =
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
-            [true] টুলবার থেকে বুকমার্ক মেনু অপসারণ
-           *[other] টুলবারে বুকমার্ক মেনু যোগ করুন
+            [true] সরঞ্জামদণ্ড থেকে বুকমার্ক মেনু সরান
+           *[other] সরঞ্জামদণ্ডে বুকমার্ক মেনু যোগ করুন
         }
 bookmarks-search =
     .label = বুকমার্ক অনুসন্ধান

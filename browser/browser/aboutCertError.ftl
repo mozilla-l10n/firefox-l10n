@@ -67,7 +67,7 @@ connectionFailure-title = সংযোগ করতে ব্যর্থ
 deniedPortAccess-title = এই ঠিকানাটি সীমাবদ্ধ
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
-dnsNotFound-title = হুমম। আমরা সাইটটি ঠিক খুঁজে পাচ্ছি না।
+dnsNotFound-title = হুমম। আমাদের সাইটটি খুঁজে পেতে সমস্যা হচ্ছে।
 fileNotFound-title = ফাইল পাওয়া যায়নি
 fileAccessDenied-title = ফাইলে প্রবেশাধিকার প্রত্যাখ্যাত হয়েছে
 generic-title = ওহ্ হো!
