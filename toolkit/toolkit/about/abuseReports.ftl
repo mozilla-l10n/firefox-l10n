@@ -49,11 +49,11 @@ abuse-report-messagebar-error-recent-submit = საჩივარი გაფ
 
 ## Message bars actions.
 
-abuse-report-messagebar-action-remove-extension = დიახ, მოსცილდეს
+abuse-report-messagebar-action-remove-extension = დიახ, მოცილდეს
 abuse-report-messagebar-action-keep-extension = არა, დარჩეს
-abuse-report-messagebar-action-remove-sitepermission = დიახ, მოსცილდეს
+abuse-report-messagebar-action-remove-sitepermission = დიახ, მოცილდეს
 abuse-report-messagebar-action-keep-sitepermission = არა, დარჩეს
-abuse-report-messagebar-action-remove-theme = დიახ, მოსცილდეს
+abuse-report-messagebar-action-remove-theme = დიახ, მოცილდეს
 abuse-report-messagebar-action-keep-theme = არა, დარჩეს
 abuse-report-messagebar-action-retry = გამეორება
 abuse-report-messagebar-action-cancel = გაუქმება
