@@ -6,6 +6,8 @@
 # Display Name
 
 vcard-displayname = Nom à afficher
+vcard-displayname-placeholder =
+    .placeholder = { vcard-displayname }
 
 # Type selection
 
@@ -66,7 +68,10 @@ vcard-impp-label = Compte de messagerie instantanée
 
 # BDAY and ANNIVERSARY vCard field
 
+vcard-bday-anniversary-header = Dates spéciales
+vcard-bday-anniversary-add = Ajouter une date spéciale
 vcard-bday-label = Anniversaire
+vcard-anniversary-label = Date d’anniversaire
 vcard-date-day = Jour
 vcard-date-month = Mois
 vcard-date-year = Année
