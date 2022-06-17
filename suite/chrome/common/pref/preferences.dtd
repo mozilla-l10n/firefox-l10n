@@ -44,6 +44,7 @@
 <!ENTITY sync.label "Sync">
 
 <!ENTITY advance.label "Avancé">
+<!ENTITY scriptsAndWindows2.label "Scripts">
 <!ENTITY keynav.label "Navigation au clavier">
 <!ENTITY findAsYouType.label "Recherche à la saisie">
 <!ENTITY cache.label "Cache">
@@ -52,7 +53,6 @@
 <!ENTITY httpnetworking.label "Protocole HTTP">
 <!ENTITY smart.label "Install. de logiciels">
 <!ENTITY mousewheel.label "Souris">
-
 <!ENTITY debugging.label "Débogage">
 
 <!ENTITY focusSearch.key "f">
