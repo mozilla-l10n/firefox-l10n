@@ -23,6 +23,11 @@ message-header-subject-field = Θέμα<span data-l10n-name="field-separator">:<
 message-header-date-field = Ημερομηνία<span data-l10n-name="field-separator">:</span>
 message-header-references-field = Αναφορές<span data-l10n-name="field-separator">:</span>
 message-header-website-field = Ιστότοπος<span data-l10n-name="field-separator">:</span>
+# An additional email header field that the user has chosen to display. Unlike
+# the other headers, the name of this header is not expected to be localised
+# because it is generated from the raw field name found in the email header.
+#   $fieldName (String) - The field name.
+message-header-custom-field = { $fieldName }<span data-l10n-name="field-separator">:</span>
 
 ##
 

@@ -69,6 +69,10 @@ about-addressbook-sort-email-ascending =
     .label = Ταξινόμηση κατά διεύθυνση email (A > Z)
 about-addressbook-sort-email-descending =
     .label = Ταξινόμηση κατά διεύθυνση email (Z > A)
+about-addressbook-horizontal-layout =
+    .label = Εναλλαγή σε οριζόντια διάταξη
+about-addressbook-vertical-layout =
+    .label = Εναλλαγή σε κάθετη διάταξη
 
 ## Card column headers
 ## Each string is listed here twice, and the values should match.
@@ -153,6 +157,7 @@ about-addressbook-confirm-delete-contacts =
 ## Card list placeholder
 ## Shown when there are no cards in the list
 
+about-addressbook-placeholder-empty-book = Καμία διαθέσιμη επαφή
 about-addressbook-placeholder-new-contact = Νέα επαφή
 about-addressbook-placeholder-searching = Αναζήτηση…
 about-addressbook-placeholder-no-search-results = Δεν βρέθηκαν επαφές
@@ -175,6 +180,7 @@ about-addressbook-details-other-info-header = Άλλες πληροφορίες
 about-addressbook-entry-type-work = Εργασία
 about-addressbook-entry-type-home = Οικία
 about-addressbook-entry-type-fax = Φαξ
+about-addressbook-entry-type-cell = Κινητό
 about-addressbook-entry-type-pager = Βομβητής
 about-addressbook-entry-name-birthday = Γενέθλια
 about-addressbook-entry-name-anniversary = Επέτειος
