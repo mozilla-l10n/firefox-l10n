@@ -229,8 +229,6 @@ openpgp-key-man-select-all-key =
 openpgp-key-man-key-details-key =
     .key = I
 openpgp-ign-addr-intro = Αποδέχεστε τη χρήση αυτού του κλειδιού για τις εξής επιλεγμένες διευθύνσεις email:
-openpgp-key-details-title =
-    .title = Ιδιότητες κλειδιού
 openpgp-key-details-doc-title = Ιδιότητες κλειδιού
 openpgp-key-details-signatures-tab =
     .label = Πιστοποιητικά
@@ -239,7 +237,6 @@ openpgp-key-details-structure-tab =
 openpgp-key-details-uid-certified-col =
     .label = Αναγνωριστικό χρήστη / Πιστοποιήθηκε από
 openpgp-key-details-key-id-label = ID κλειδιού
-openpgp-key-details-user-id2-label = Υποτιθέμενος Κάτοχος Κλειδιού
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Τύπος
@@ -499,8 +496,7 @@ key-error-key-id-not-found = Το ορισμένο αναγνωριστικό κ
 key-error-not-accepted-as-personal = Δεν έχετε επιβεβαιώσει ότι το κλειδί με αναγνωριστικό '{ $keySpec }' είναι το προσωπικό σας κλειδί.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Η λειτουργία που έχετε επιλέξει δεν είναι διαθέσιμη σε λειτουργία εκτός σύνδεσης. Συνδεθείτε στο διαδίκτυο και δοκιμάστε ξανά.
-# Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = Δεν μπορέσαμε να βρούμε κάποιο κλειδί που να ταιριάζει με τα καθορισμένα κριτήρια αναζήτησης.
+no-update-found = Έχετε ήδη τα κλειδιά που ανακαλύφθηκαν στο διαδίκτυο.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Σφάλμα - Η εντολή εξαγωγής κλειδιού απέτυχε
 # Strings used in keyRing.jsm

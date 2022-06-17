@@ -9,6 +9,10 @@ openpgp-key-assistant-recipients-issue-header = Δεν είναι δυνατή �
 
 ## Resolve section
 
+openpgp-key-assistant-no-key-available = Κανένα διαθέσιμο κλειδί.
+openpgp-key-assistant-multiple-keys = Διατίθενται πολλαπλά κλειδιά.
+openpgp-key-assistant-keys-accepted-expired = Έχουν λήξει πολλαπλά αποδεκτά κλειδιά.
+openpgp-key-assistant-key-unaccepted-expired-many = Έχουν λήξει πολλαπλά κλειδιά.
 openpgp-key-assistant-key-fingerprint = Αποτύπωμα
 openpgp-key-assistant-key-source =
     { $count ->
@@ -18,6 +22,10 @@ openpgp-key-assistant-key-source =
 
 ## Discovery section
 
+openpgp-key-assistant-discover-title = Διαδικτυακή ανακάλυψη σε εξέλιξη.
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-discover-keys = Ανακάλυψη κλειδιών για { $recipient }…
 
 ## Dialog buttons
 
