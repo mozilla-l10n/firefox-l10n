@@ -113,8 +113,10 @@ policy-SecurityDevices = Setja inn PKCS #11 forritseiningar.
 policy-ShowHomeButton = Sýna upphafshnappinn á verkfæraslánni.
 policy-SSLVersionMax = Stilltu hámarks SSL útgáfu.
 policy-SSLVersionMin = Stilltu lágmarks SSL útgáfuna.
+policy-StartDownloadsInTempDirectory = Þvinga niðurhal til að hefjast á staðbundinni, bráðabirgðastaðsetningu frekar en sjálfgefnu niðurhalsmöppunni.
 policy-SupportMenu = Bæta sérsniðinni færslu fyrir aðstoð í hjálparvalmyndina.
 policy-UserMessaging = Ekki sýna notandanum ákveðin skilaboð.
+policy-UseSystemPrintDialog = Prenta með prentglugga kerfisins.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Loka fyrir heimsóknir á vefsvæði. Sjá hjálparskjöl fyrir frekari upplýsingar um sniðið.
 policy-Windows10SSO = Leyfa eins-skiptis Windows-innskráningu fyrir Microsoft, vinnu og skólareikninga.
