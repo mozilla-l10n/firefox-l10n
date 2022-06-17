@@ -38,3 +38,4 @@ openpgp-key-assistant-back-button = Πίσω
 openpgp-key-assistant-accept-button = Αποδοχή
 openpgp-key-assistant-close-button = Κλείσιμο
 openpgp-key-assistant-disable-button = Απενεργοποίηση κρυπτογράφησης
+openpgp-key-assistant-confirm-button = Αποστολή κρυπτογραφημένου

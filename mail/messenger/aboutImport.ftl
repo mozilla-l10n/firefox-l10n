@@ -10,6 +10,7 @@ export-page-title = Εξαγωγή
 import-start = Εργαλείο εισαγωγής
 import-from-app = Εισαγωγή από εφαρμογή
 import-file = Εισαγωγή από αρχείο
+import-address-book-title = Εισαγωγή αρχείου ευρετηρίου
 import-calendar-title = Εισαγωγή αρχείου ημερολογίου
 export-profile = Εξαγωγή
 
