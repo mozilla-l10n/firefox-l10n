@@ -96,6 +96,14 @@ perftools-thread-jvm-gecko =
     .title = Le thread principal de Gecko JVM
 perftools-thread-jvm-nimbus =
     .title = Threads principaux du SDK de l’expérimentation Nimbus
+perftools-thread-jvm-default-dispatcher =
+    .title = Le répartiteur par défaut pour la bibliothèque de coroutines Kotlin
+perftools-thread-jvm-glean =
+    .title = Threads principaux du SDK de télémétrie Glean
+perftools-thread-jvm-arch-disk-io =
+    .title = Le répartiteur E/S pour la bibliothèque de coroutines Kotlin
+perftools-thread-jvm-pool =
+    .title = Threads créés dans un pool de threads sans nom
 
 ##
 
