@@ -30,7 +30,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription1.label "Este assistente importará para o &brandShortName; mensagens, nomes do catálogo de endereços, filtros e/ou opções de outros aplicativos e formatos mais comuns de catálogo de endereços.">
 <!ENTITY importDescription2.label "Uma vez importados, você poderá acessá-los pelo &brandShortName;.">
 
-<!ENTITY selectDescription.label  "Selecione o tipo de arquivo que você deseja importar:">
+<!ENTITY selectDescription.label  "Selecione o tipo de arquivo que você quer importar:">
 <!ENTITY selectDescriptionB.label "Selecione uma conta existente ou crie uma nova:">
 <!ENTITY selectDescription.accesskey "P">
 <!ENTITY acctName.label           "Nome:">
