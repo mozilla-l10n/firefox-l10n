@@ -140,7 +140,7 @@ de que o &brandShortName; esteja autorizado a acessar a web.</li>
 <!ENTITY xfoBlocked.longDesc "<p>O &brandShortName; impediu que esta página fosse carregada neste contexto porque a página tem uma política X-Frame-Options que não permite.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Conteúdo corrompido">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>A página que você está tentando abrir não pode ser exibida devido a um erro detectado na transmissão dos dados.</p><ul><li>Por favor, contacte os donos do website para informá-los do problema.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>A página que você está tentando abrir não pode ser exibida porque foi detectado um erro na transmissão dos dados.</p><ul><li>Entre me contato com os responsáveis pelo site para informar este problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ou você pode adicionar uma exceção…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Me tire daqui!">
@@ -157,7 +157,7 @@ functionality specific to thunderbird. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL remoto">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Entre em contato com os responsáveis pelo site para informar este problema.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "Sua conexão não é segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
