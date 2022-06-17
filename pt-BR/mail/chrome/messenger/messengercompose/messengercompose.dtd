@@ -174,7 +174,7 @@
 <!ENTITY addressBookCmd.label "Catálogo de endereços">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "b">
-<!ENTITY accountManagerCmd2.label "Configurações da conta">
+<!ENTITY accountManagerCmd2.label "Configurações de contas">
 <!ENTITY accountManagerCmd2.accesskey "s">
 <!ENTITY accountManagerCmdUnix2.accesskey "S">
 

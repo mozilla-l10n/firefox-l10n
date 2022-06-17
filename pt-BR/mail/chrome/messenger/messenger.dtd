@@ -49,7 +49,7 @@
 <!ENTITY saveAsFileCmd.key "S">
 <!ENTITY saveAsTemplateCmd.label "Modelo">
 <!ENTITY saveAsTemplateCmd.accesskey "M">
-<!ENTITY getNewMsgForCmd.label "Receber da conta">
+<!ENTITY getNewMsgForCmd.label "Receber novas mensagens de">
 <!ENTITY getNewMsgForCmd.accesskey "R">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Todas as contas">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
@@ -316,7 +316,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Conversa">
 <!ENTITY goChatCmd.accesskey "B">
-<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Mensagem com estrela">
 <!ENTITY prevStarredMsgCmd.accesskey "M">
 <!ENTITY folderMenu.label "Pasta">
@@ -490,7 +489,7 @@
 <!ENTITY exportCmd.accesskey "x">
 <!ENTITY clearRecentHistory.label "Limpar histórico recente…">
 <!ENTITY clearRecentHistory.accesskey "L">
-<!ENTITY accountManagerCmd2.label "Configurações da conta">
+<!ENTITY accountManagerCmd2.label "Configurações de contas">
 <!ENTITY accountManagerCmd2.accesskey "s">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu

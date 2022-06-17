@@ -81,7 +81,7 @@
 <!ENTITY browseNewsrc.label "Procurar…">
 <!ENTITY browseNewsrc.accesskey "r">
 
-<!ENTITY accountTitle.label "Configurações da conta">
+<!ENTITY accountTitle.label "Configurações de contas">
 <!ENTITY accountSettingsDesc.label "Esta é uma conta especial. Não há identidades associadas a ela.">
 <!ENTITY storeType.label "Tipo de armazenamento de mensagens:">
 <!ENTITY storeType.accesskey "T">

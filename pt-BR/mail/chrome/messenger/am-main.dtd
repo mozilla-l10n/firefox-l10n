@@ -4,7 +4,7 @@
 
 <!-- extracted from am-main.xhtml -->
 
-<!ENTITY accountTitle.label "Configurações da conta">
+<!ENTITY accountTitle.label "Configurações de contas">
 <!ENTITY accountName.label "Nome da conta:">
 <!ENTITY accountName.accesskey "N">
 <!ENTITY identityTitle.label "Identidade padrão">
