@@ -53,9 +53,14 @@ vcard-tz-add = Προσθήκη ζώνης ώρας
 
 # IMPP vCard field
 
+vcard-impp-header = Λογαριασμοί συνομιλίας
+vcard-impp-add = Προσθήκη λογαριασμού συνομιλίας
+vcard-impp-label = Λογαριασμός συνομιλίας
 
 # BDAY and ANNIVERSARY vCard field
 
+vcard-bday-anniversary-header = Ειδικές ημερομηνίες
+vcard-bday-anniversary-add = Προσθήκη ειδικής ημερομηνίας
 vcard-bday-label = Γενέθλια
 vcard-anniversary-label = Επέτειος
 vcard-date-day = Ημέρα
@@ -67,10 +72,13 @@ vcard-date-year = Έτος
 vcard-adr-header = Διευθύνσεις
 vcard-adr-add = Προσθήκη διεύθυνσης
 vcard-adr-label = Διεύθυνση
+vcard-adr-delivery-label = Ετικέτα παράδοσης
 vcard-adr-pobox = Ταχυδρομική θυρίδα
 vcard-adr-ext = Εκτεταμένη διεύθυνση
 # Or "Locality"
 vcard-adr-locality = Πόλη
+# The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
+vcard-adr-code = Ταχυδρομικός κώδικας
 vcard-adr-country = Χώρα
 
 # NOTE vCard field
@@ -80,6 +88,8 @@ vcard-note-add = Προσθήκη σημείωσης
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-header = Ιδιότητες οργανισμού
+vcard-org-add = Προσθήκη ιδιοτήτων οργανισμού
 vcard-org-title = Τίτλος
 vcard-org-role = Ρόλος
 vcard-org-org = Οργανισμός

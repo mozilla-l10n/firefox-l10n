@@ -8,8 +8,10 @@ export-page-title = Εξαγωγή
 ## Header
 
 import-start = Εργαλείο εισαγωγής
+import-start-title = Εισαγάγετε ρυθμίσεις ή δεδομένα από μια εφαρμογή ή ένα αρχείο.
 import-from-app = Εισαγωγή από εφαρμογή
 import-file = Εισαγωγή από αρχείο
+import-file-title = Επιλέξτε ένα αρχείο για να εισαγάγετε το περιεχόμενό του.
 import-address-book-title = Εισαγωγή αρχείου ευρετηρίου
 import-calendar-title = Εισαγωγή αρχείου ημερολογίου
 export-profile = Εξαγωγή
