@@ -199,7 +199,7 @@ about-debugging-profiler-dialog-title2 = প্রোফাইলার
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
-about-debugging-collapse-expand-debug-targets = সংকুচিত / প্রসারিত
+about-debugging-collapse-expand-debug-targets = সংকুচিত / প্রসারিত করুন
 
 # Debug Targets strings
 

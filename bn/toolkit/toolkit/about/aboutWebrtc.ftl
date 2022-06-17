@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = ওয়েব অভ্যন্তরীণ মেমোরি
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = সংরক্ষণ করুন about: WebRTC হিসাবে
@@ -57,9 +56,6 @@ about-webrtc-ice-pair-bytes-sent = প্রেরিত বাইট:
 about-webrtc-ice-pair-bytes-received = প্রাপ্ত বাইট:
 about-webrtc-ice-component-id = কম্পোনেন্ট ID
 
-## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
@@ -69,16 +65,13 @@ about-webrtc-type-remote = দূরবর্তী
 
 ##
 
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = নোমিনেটেড
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = নির্বাচিত
-
 about-webrtc-save-page-label = পাতা সংরক্ষণ করুন
 about-webrtc-debug-mode-msg-label = ডিবাগ মোড
 about-webrtc-debug-mode-off-state-label = ডিভাগ মোড চালু করুন
@@ -104,7 +97,6 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (বন�
 
 ##
 
-
 about-webrtc-local-candidate = লোকল পার্থী
 about-webrtc-remote-candidate = দূরবর্তী প্রার্থী
 about-webrtc-raw-candidates-heading = সকল প্রাথমিক প্রার্থীদের
@@ -115,7 +107,7 @@ about-webrtc-raw-cand-show-msg = প্রাথমিক প্রার্থ�
 about-webrtc-raw-cand-hide-msg = প্রাথমিক প্রার্থীদের লুকান
     .title = এই অধ্যায় সংকুচিত করতে ক্লিক করুন
 about-webrtc-priority = অগ্রাধিকার
-about-webrtc-fold-show-msg = বিস্তারিত প্রদর্শন
+about-webrtc-fold-show-msg = বিস্তারিত দেখান
     .title = এই অধ্যায় প্রসারিত করতে ক্লিক করুন
 about-webrtc-fold-hide-msg = বিস্তারিত আড়াল
     .title = এই অধ্যায় সংকুচিত করতে ক্লিক করুন
@@ -126,6 +118,7 @@ about-webrtc-encoder-label = ইনকোডার
 
 
 ##
+
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -147,11 +140,6 @@ about-webrtc-jitter-label = জিটার { $jitter }
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
-
-
-##
-
-##
 
 
 ##
