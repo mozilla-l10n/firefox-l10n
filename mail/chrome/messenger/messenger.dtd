@@ -30,7 +30,7 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "o">
 <!ENTITY newIMAccountCmd.label "Conta de conversa…">
 <!ENTITY newIMAccountCmd.accesskey "b">
-<!ENTITY newFeedAccountCmd.label "Conta RSS">
+<!ENTITY newFeedAccountCmd.label "Conta de canal de informações…">
 <!ENTITY newFeedAccountCmd.accesskey "R">
 <!ENTITY newIMContactCmd.label "Contato de conversa…">
 <!ENTITY newIMContactCmd.accesskey "c">
@@ -246,7 +246,7 @@
 <!ENTITY bodyAllParts.label "Todas as seções da mensagem">
 <!ENTITY bodyAllParts.accesskey "T">
 
-<!ENTITY bodyMenuFeed.label "Formatação do RSS como">
+<!ENTITY bodyMenuFeed.label "Formatar mensagens de canais de informações como">
 <!ENTITY bodyMenuFeed.accesskey "o">
 <!ENTITY viewFeedWebPage.label "Página web">
 <!ENTITY viewFeedWebPage.accesskey "P">
@@ -437,7 +437,7 @@
 <!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Anexos">
 <!ENTITY openAttachmentListCmd.accesskey "x">
-<!ENTITY openFeedMessage1.label "Ao abrir mensagens RSS">
+<!ENTITY openFeedMessage1.label "Ao abrir mensagens de canais de informações ">
 <!ENTITY openFeedMessage1.accesskey "b">
 <!ENTITY openFeedWebPage.label "Abrir como página web">
 <!ENTITY openFeedWebPage.accesskey "p">
