@@ -270,7 +270,7 @@ addon-options-button =
 report-addon-button = საჩივარი
 remove-addon-button = მოცილება
 # The link will always be shown after the other text.
-remove-addon-disabled-button = ვერ მოსცილდება <a data-l10n-name="link">რატომ?</a>
+remove-addon-disabled-button = ვერ მოცილდება <a data-l10n-name="link">რატომ?</a>
 disable-addon-button = ამორთვა
 enable-addon-button = ჩართვა
 # This is used for the toggle on the extension card, it's a checkbox and this
@@ -292,6 +292,7 @@ theme-disabled-heading = ამორთულია
 theme-disabled-heading2 = შენახული თემები
 theme-monochromatic-heading = შეფერილობები
 theme-monochromatic-subheading = ახალი ხასხასა შეფერილობები, რომელთაც { -brand-product-name } გთავაზობთ. ხელმისაწვდომია მცირე დროით.
+theme-colorways-button = მოსინჯეთ ახალი შეფერილობა
 plugin-enabled-heading = ჩართულია
 plugin-disabled-heading = ამორთულია
 dictionary-enabled-heading = ჩართულია
