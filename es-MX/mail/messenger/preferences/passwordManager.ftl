@@ -44,15 +44,13 @@ column-heading-times-used =
     .label = Veces usado
 remove =
     .label = Eliminar
-    .accesskey = R
+    .accesskey = E
 import =
     .label = Importar…
     .accesskey = I
-
 password-close-button =
     .label = Cerrar
     .accesskey = C
-
 show-passwords =
     .label = Mostrar contraseñas
     .accesskey = P
@@ -63,10 +61,10 @@ logins-description-all = Los inicios de sesión para los siguientes proveedores 
 logins-description-filtered = Los siguientes inicios de sesión coinciden con tu búsqueda:
 remove-all =
     .label = Eliminar todo
-    .accesskey = A
+    .accesskey = t
 remove-all-shown =
     .label = Eliminar todos los visibles
-    .accesskey = A
+    .accesskey = t
 remove-all-passwords-prompt = ¿Estás seguro de eliminar todas las contraseñas?
 remove-all-passwords-title = Eliminar todas las contraseñas
 no-master-password-prompt = ¿Estás seguro de querer mostrar tus contraseñas?
@@ -75,12 +73,10 @@ no-master-password-prompt = ¿Estás seguro de querer mostrar tus contraseñas?
 
 # This message can be seen by trying to show or copy the passwords.
 password-os-auth-dialog-message = Verifica tu identidad para mostrar las contraseñas guardadas.
-
 # This message can be seen by trying to show or copy the passwords.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 password-os-auth-dialog-message-macosx = mostrar las contraseñas guardadas
-
 # Don't change this label.
 password-os-auth-dialog-caption = { -brand-full-name }
