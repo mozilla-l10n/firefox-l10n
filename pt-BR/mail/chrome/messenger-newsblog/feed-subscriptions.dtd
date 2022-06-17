@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label     "Inscrições RSS">
-<!ENTITY learnMore.label             "Saiba mais sobre Feeds RSS">
+<!ENTITY feedSubscriptions.label     "Inscrições em canais de informações">
+<!ENTITY learnMore.label             "Saiba mais sobre canais de informações ">
 
 <!ENTITY feedTitle.label             "Título:">
 <!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY feedLocation.label          "URL do RSS:">
+<!ENTITY feedLocation.label          "URL do canal de informações:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation2.placeholder   "Forneça um URL de RSS válido">
+<!ENTITY feedLocation2.placeholder   "Forneça uma URL válida de canal de informações">
 <!ENTITY locationValidate.label      "Validar">
 <!ENTITY validateText.label          "Verificar validação e carregar um URL válido.">
 
