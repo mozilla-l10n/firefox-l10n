@@ -232,7 +232,7 @@ check-updates-label =
     .accesskey = C
 update-history-button =
     .label = Mostrar historial de actualizaciones
-    .accesskey = p
+    .accesskey = h
 use-service =
     .label = Usar un servicio en segundo plano para instalar actualizaciones
     .accesskey = b
@@ -322,7 +322,7 @@ type-column-header = Tipo de contenido
 action-column-header = Acción
 save-to-label =
     .label = Guardar archivos en
-    .accesskey = S
+    .accesskey = G
 choose-folder-label =
     .label =
         { PLATFORM() ->
