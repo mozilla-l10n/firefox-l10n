@@ -692,7 +692,7 @@ panel-save-update-password = პაროლი
 
 # Variables:
 #  $name (String): The name of the addon that will be removed.
-addon-removal-title = მოცილდეს { $name }?
+addon-removal-title = მოსცილდეს { $name }?
 addon-removal-abuse-report-checkbox = გაფართოებაზე საჩივარი { -vendor-short-name }-სთვის
 
 ##

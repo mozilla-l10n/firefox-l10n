@@ -3,11 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### UI strings for the simplified onboarding / multistage about:welcome
-### Various strings use a non-breaking space to avoid a single dangling /
-### widowed word, so test on various window sizes if you also want this.
-
-
 ### UI strings for the MR1 onboarding / multistage about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -28,9 +23,6 @@ return-to-amo-subtitle = მშვენიერია, თქვენ უკ�
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-title = ახლა, მოდით დავამატოთ <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = გაფართოების დამატება
-
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
-
 return-to-amo-add-theme-label = დაამატეთ გაფორმება
 
 ## Multistage onboarding strings (about:welcome pages)
@@ -41,7 +33,6 @@ return-to-amo-add-theme-label = დაამატეთ გაფორმე�
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = დაწყება: ეკრანი { $current }, სულ { $total }
-
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -52,13 +43,11 @@ onboarding-welcome-steps-indicator =
 mr1-welcome-screen-hero-text =
     დაიწყო
     ცეცხლი აინთო
-
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — ავეჯის კონსტრუქტორი, Firefox-ის ქომაგი
-
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = ანიმაციების გათიშვა
 
@@ -84,11 +73,9 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = დაიწყეთ
-
 mr1-onboarding-welcome-header = მოგესალმებათ { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = აქციეთ { -brand-short-name } ძირითად ბრაუზერად
     .title = { -brand-short-name } გახდება ნაგულისხმევი ბრაუზერი და მიმაგრდება ამოცანათა ზოლზე
-
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = გახდეს { -brand-short-name } ჩემი ძირითადი ბრაუზერი
@@ -106,16 +93,13 @@ mr1-onboarding-default-primary-button-label = ნაგულისხმევ 
 
 mr1-onboarding-import-header = თან გამოიყოლეთ
 mr1-onboarding-import-subtitle = გადმოიტანეთ პაროლები, <br/>სანიშნები და ა.შ.
-
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = გადმოტანა { $previous }-(ი)დან
-
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = გადმოტანა წინა ბრაუზერიდან
 mr1-onboarding-import-secondary-button-label = ახლა არა
-
 mr2-onboarding-colorway-header = სიცოცხლე ფერებში
 mr2-onboarding-colorway-subtitle = ხასხასა შეფერილობა. ხელმისაწვდომია, მცირე დროით
 mr2-onboarding-colorway-primary-button-label = შეფერილობის შენახვა
@@ -125,112 +109,87 @@ mr2-onboarding-colorway-label-balanced = საშუალო
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = მუქი
-
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = თვითშერჩევა
-
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = ნაგულისხმევი
-
 mr1-onboarding-theme-header = გახადეთ თქვენებური
 mr1-onboarding-theme-subtitle = მოირგეთ { -brand-short-name } გაფორმებით.
 mr1-onboarding-theme-primary-button-label = გაფორმების არჩევა
 mr1-onboarding-theme-secondary-button-label = ახლა არა
-
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = სისტემური გაფორმება
-
 mr1-onboarding-theme-label-light = ნათელი
 mr1-onboarding-theme-label-dark = მუქი
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+onboarding-theme-primary-button-label = მზადაა
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
-
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
 # Tooltip displayed on hover of system theme
 mr1-onboarding-theme-tooltip-system =
     .title =
         შეუხამებს სისტემის გაფორმებას
         ღილაკებს, მენიუსა და ფანჯრებს.
-
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         შეუხამებს სისტემის გაფორმებას
         ღილაკებს, მენიუსა და ფანჯრებს.
-
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         ნათელი გაფორმება ღილაკებზე,
         მენიუსა და ფანჯრებზე
-
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         ნათელი გაფორმება ღილაკებზე,
         მენიუსა და ფანჯრებზე
-
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         მუქი გაფორმება ღილაკებზე,
         მენიუსა და ფანჯრებზე
-
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         მუქი გაფორმება ღილაკებზე,
         მენიუსა და ფანჯრებზე
-
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         ცვალებადი, ფერადი გაფორმება ღილაკებზე,
         მენიუსა და ფანჯრებზე
-
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         ცვალებადი, ფერადი გაფორმება ღილაკებზე,
         მენიუსა და ფანჯრებზე
-
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = ამ შეფერილობის გამოყენება.
-
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = ამ შეფერილობის გამოყენება.
-
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
     .title = მოსინჯეთ { $colorwayName } შეფერილობა.
-
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-label = მოსინჯეთ { $colorwayName } შეფერილობა.
-
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = მოსინჯეთ ნაგულისხმევი შეფერილობა.
-
 # Selector description for default themes
 mr2-onboarding-default-theme-label = მოსინჯეთ ნაგულისხმევი შეფერილობა.
 
@@ -245,20 +204,9 @@ mr2-onboarding-start-browsing-button-label = გვერდების მო�
 ## The following language names are generated by the browser's Intl.DisplayNames API.
 ##
 ## Variables:
-##   $appLanguage (String) - The name of Firefox's language, e.g. "American English"
-##   $systemLanguage (String) - The name of the OS's language, e.g. "European Spanish"
-##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "European Spanish"
-
-
-## Multistage live language reloading onboarding strings (about:welcome pages)
-##
-## The following language names are generated by the browser's Intl.DisplayNames API.
-##
-## Variables:
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "Español (ES)"
 
 onboarding-live-language-header = აირჩიეთ თქვენი ენა
-
 onboarding-live-language-button-label-downloading = ჩამოიტვირთება ენის კრებულად { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = ხელმისაწვდომი ენების მოძიება…
 onboarding-live-language-installing = ჩაიდგმება ენის კრებულად { $negotiatedLanguage }…
@@ -284,7 +232,6 @@ fx100-thank-you-pin-primary-button-label =
         [macos] დარჩეს { -brand-short-name } Dock-ზე
        *[other] განთავსდეს { -brand-short-name } ამოცანათა ზოლზე
     }
-
 fx100-upgrade-thanks-header = 100 მადლობა თქვენ
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.

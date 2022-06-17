@@ -113,8 +113,10 @@ policy-SecurityDevices = PKCS #11 მოდულების დაყენე
 policy-ShowHomeButton = მთავარი გვერდის ღილაკის გამოჩენა ხელსაწყოთა ზოლზე.
 policy-SSLVersionMax = SSL-ის უმაღლესი ვერსიის განსაზღვრა.
 policy-SSLVersionMin = SSL-ის უმცირესი ვერსიის განსაზღვრა.
+policy-StartDownloadsInTempDirectory = ჩამოტვირთვის იძულებით დაწყება ადგილობრივ, დროებით ადგილას, ნაცვლად ნაგულისხმევი მდებარეობისა.
 policy-SupportMenu = საკუთარი მხარდაჭერის მენიუს დამატება დახმარების მენიუში.
 policy-UserMessaging = მომხმარებლისთვის, გარკვეული შეტყობინებების ჩვენების შეწყვეტა.
+policy-UseSystemPrintDialog = ამობეჭდვა სისტემის ფანჯრის მეშვეობით.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = ვებსაიტების მონახულების შეზღუდვა. იხილეთ შესაბამისი მასალა დამატებითი ინფორმაციისთვის ფორმატის თაობაზე.
 policy-Windows10SSO = Windows-ით ერთიანად შესვლის დაშვება, Microsoft-ის, სამუშაოს ან სკოლის ანგარიშებზე.
