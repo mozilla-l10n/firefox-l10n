@@ -79,9 +79,9 @@ was trying to connect. -->
 
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Problem leży prawdopodobnie po stronie witryny i nie masz możliwości jego rozwiązania.</p><p>Jeśli połączono poprzez sieć firmową lub używasz oprogramowania antywirusowego, możesz spróbować skontaktować się z zespołem wsparcia. Możesz również powiadomić administratora strony o problemie.</p>">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Zegar systemowy jest ustawiony na <span id='wrongSystemTime_systemDate2'/>. Upewnij się, że urządzenie ma ustawioną prawidłową datę, czas i strefę czasową w ustawieniach systemowych. Następnie spróbuj otworzyć witrynę „<span class='hostname'/>” ponownie.</p><p>Jeśli wskazania zegara systemowego są prawidłowe, to problem leży prawdopodobnie po stronie witryny i nie masz możliwości jego rozwiązania. Możesz powiadomić administratora strony o problemie.</p>">
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Zegar systemowy jest ustawiony na <span id='wrongSystemTime_systemDate2'/>. Upewnij się, że urządzenie ma ustawioną prawidłową datę, czas i strefę czasową w ustawieniach systemowych. Następnie spróbuj otworzyć witrynę „<span class='hostname'/>” ponownie.</p><p>Jeśli wskazania zegara systemowego są prawidłowe, to problem leży prawdopodobnie po stronie witryny i nie masz możliwości jego rozwiązania. Możesz powiadomić administratora witryny o problemie.</p>">
 
-<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Problem leży prawdopodobnie po stronie witryny i nie masz możliwości jego rozwiązania. Możesz powiadomić administratora strony o problemie.</p>">
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Problem leży prawdopodobnie po stronie witryny i nie masz możliwości jego rozwiązania. Możesz powiadomić administratora witryny o problemie.</p>">
 
 <!ENTITY sharedLongDesc "<ul><li>Witryna może być tymczasowo niedostępna lub przeciążona. Spróbuj ponownie za pewien czas.</li><li>Jeśli nie możesz otworzyć żadnej strony, sprawdź swoje połączenie sieciowe.</li><li>Jeśli ten komputer jest chroniony przez zaporę sieciową lub serwer proxy, należy sprawdzić, czy &brandShortName; jest uprawniony do łączenia się z Internetem.</li></ul>">
 
@@ -102,7 +102,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle2  "Ostrzeżenie: potencjalne zagrożenie bezpieczeństwa">
 <!ENTITY certerror.sts.pagetitle  "Nie połączono: potencjalne zagrożenie bezpieczeństwa">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Witryna „<span class='hostname'></span>” określa poprzez HSTS (HTTP Strict Transport Security), że &brandShortName; ma się z nią łączyć jedynie w sposób bezpieczny. Dodanie wyjątku w celu odwiedzenia tej strony jest niemożliwe.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Witryna „<span class='hostname'></span>” określa poprzez HSTS (HTTP Strict Transport Security), że &brandShortName; ma się z nią łączyć jedynie w sposób zabezpieczony. Dodanie wyjątku w celu odwiedzenia tej witryny jest niemożliwe.">
 <!ENTITY certerror.copyToClipboard.label "Kopiuj tekst do schowka">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
