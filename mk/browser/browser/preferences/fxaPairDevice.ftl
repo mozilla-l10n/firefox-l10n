@@ -5,7 +5,7 @@
 fxa-pair-device-dialog =
     .title = Поврзете друг уред
     .style = width: 26em; min-height: 35em;
-
+fxa-qrcode-heading-step2 = 2. Отворете го Firefox на вашиот мобилен уред.
+fxa-qrcode-heading-step4 = 4. Скенирајте го овој код:
 fxa-qrcode-error-title = Спарувањето е неуспешно.
-
 fxa-qrcode-error-body = Обидете се повторно.
