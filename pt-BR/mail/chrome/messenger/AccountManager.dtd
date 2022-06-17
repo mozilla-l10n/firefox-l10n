@@ -11,9 +11,9 @@
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "Adicionar conta de email…">
 <!ENTITY addMailAccountButton.accesskey "N">
-<!ENTITY addIMAccountButton.label "Nova conta de conversa…">
+<!ENTITY addIMAccountButton.label "Adicionar conta de conversa…">
 <!ENTITY addIMAccountButton.accesskey "v">
-<!ENTITY addFeedAccountButton.label "Nova conta RSS…">
+<!ENTITY addFeedAccountButton.label "Adicionar conta de canal de informações (RSS)…">
 <!ENTITY addFeedAccountButton.accesskey "R">
 <!ENTITY setDefaultButton.label "Definir como padrão">
 <!ENTITY setDefaultButton.accesskey "D">

@@ -15,7 +15,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importAll.accesskey      "I">
 <!ENTITY importMail.label         "Mensagens">
 <!ENTITY importMail.accesskey     "M">
-<!ENTITY importFeeds.label        "Inscrições RSS">
+<!ENTITY importFeeds.label        "Inscrições em canais de informações">
 <!ENTITY importFeeds.accesskey    "R">
 <!ENTITY importAddressbook.label  "Catálogos de endereços">
 <!ENTITY importAddressbook.accesskey "a">

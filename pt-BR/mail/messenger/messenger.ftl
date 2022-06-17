@@ -224,7 +224,7 @@ spaces-context-switch-tab-item =
 settings-context-open-settings-item2 =
     .label = Configurações
 settings-context-open-account-settings-item2 =
-    .label = Configurações da conta
+    .label = Configurações de contas
 settings-context-open-addons-item2 =
     .label = Extensões e temas
 
