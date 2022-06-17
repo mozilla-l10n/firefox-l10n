@@ -30,7 +30,7 @@
 <!ENTITY quickMode.label             "Exibir o conteúdo do item em vez de carregar a página web">
 <!ENTITY quickMode.accesskey         "E">
 
-<!ENTITY autotagEnable.label         "Criar etiquetas automaticamente a partir dos nomes das &lt;categorias&gt; do feed">
+<!ENTITY autotagEnable.label         "Criar etiquetas automaticamente a partir de nomes de &lt;categorias&gt; do canal de informações">
 <!ENTITY autotagEnable.accesskey     "c">
 <!ENTITY autotagUsePrefix.label      "Prefixar etiquetas com:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
@@ -49,7 +49,7 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Exportar">
 <!ENTITY button.exportOPML.accesskey "o">
-<!ENTITY button.exportOPML.tooltip   "Exporta mantendo a estrutura de pastas; clique segurando Ctrl ou pressione Ctrl + Enter para exportar como uma lista">
+<!ENTITY button.exportOPML.tooltip   "Exportar canais de informações mantendo a estrutura de pastas; clique com Ctrl ou tecle Ctrl+Enter para exportar como uma lista">
 
 <!ENTITY cmd.close.commandKey        "W">
 <!ENTITY button.close.label          "Fechar">

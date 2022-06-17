@@ -31,7 +31,7 @@
 <!ENTITY newIMAccountCmd.label "Conta de conversa…">
 <!ENTITY newIMAccountCmd.accesskey "b">
 <!ENTITY newFeedAccountCmd.label "Conta de canal de informações…">
-<!ENTITY newFeedAccountCmd.accesskey "R">
+<!ENTITY newFeedAccountCmd.accesskey "C">
 <!ENTITY newIMContactCmd.label "Contato de conversa…">
 <!ENTITY newIMContactCmd.accesskey "c">
 <!ENTITY  newMessageCmd2.key "N">

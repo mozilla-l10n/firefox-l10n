@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffAll.label                 "Ativar atualizações para todos os feeds">
+<!ENTITY biffAll.label                 "Ativar atualizações de todos os canais de informações">
 <!ENTITY biffAll.accesskey             "A">
 
-<!ENTITY newFeedSettings.label         "Configurações padrão para novos feeds">
+<!ENTITY newFeedSettings.label         "Configurações padrão para novos canais de informações">
 
 <!ENTITY manageSubscriptions.label     "Gerenciar inscrições…">
 <!ENTITY manageSubscriptions.accesskey "G">
 
-<!ENTITY feedWindowTitle.label         "Assistente de contas de Feed">
+<!ENTITY feedWindowTitle.label         "Assistente de contas de canais de informações">
 <!ENTITY feeds.accountName             "Canais de blogs e notícias">

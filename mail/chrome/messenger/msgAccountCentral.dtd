@@ -9,7 +9,7 @@
 <!ENTITY newsSectionHdr.label         "Grupos de notícias">
 <!ENTITY subscribeNewsLink.label      "Gerenciar inscrições em grupos de notícias">
 
-<!ENTITY feedsSectionHdr.label        "Canais de informações (RSS)">
+<!ENTITY feedsSectionHdr.label        "Canais de informações">
 <!ENTITY subscribeFeeds.label         "Gerenciar inscrições">
 
 <!ENTITY chat.label                   "Conversa">
