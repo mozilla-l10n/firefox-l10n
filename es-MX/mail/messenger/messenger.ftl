@@ -83,7 +83,7 @@ redirect-msg-menuitem =
     .accesskey = d
 menu-file-save-as-file =
     .label = Archivo…
-    .accesskey = F
+    .accesskey = A
 
 ## AppMenu
 
