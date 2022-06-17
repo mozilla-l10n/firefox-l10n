@@ -157,12 +157,15 @@ about-addressbook-confirm-delete-contacts =
 ## Card list placeholder
 ## Shown when there are no cards in the list
 
+about-addressbook-placeholder-empty-book = Aucun contact disponible
 about-addressbook-placeholder-new-contact = Nouveau contact
+about-addressbook-placeholder-search-only = Ce carnet d’adresses affiche uniquement les contacts lorsque vous effectuez une recherche
 about-addressbook-placeholder-searching = Recherche…
 about-addressbook-placeholder-no-search-results = Aucun contact trouvé
 
 ## Details
 
+about-addressbook-prefer-display-name = Préférer le nom à afficher plutôt que l’en-tête de message
 about-addressbook-write-action-button = Écrire
 about-addressbook-event-action-button = Évènement
 about-addressbook-search-action-button = Rechercher
