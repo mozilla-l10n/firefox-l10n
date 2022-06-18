@@ -79,7 +79,7 @@ about-addressbook-vertical-layout =
 ## Card column headers
 ## Each string is listed here twice, and the values should match.
 
-about-addressbook-column-header-generatedname = Nazwa
+about-addressbook-column-header-generatedname = Imię i nazwisko
 about-addressbook-column-label-generatedname =
     .label = { about-addressbook-column-header-generatedname }
 about-addressbook-column-header-emailaddresses = Adresy e-mail

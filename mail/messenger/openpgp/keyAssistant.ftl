@@ -72,9 +72,9 @@ openpgp-key-assistant-key-source =
        *[other] Źródła
     }
 openpgp-key-assistant-key-collected-attachment = załącznik e-mail
-openpgp-key-assistant-key-collected-autocrypt = Nagłówek Autocrypt
+openpgp-key-assistant-key-collected-autocrypt = nagłówek Autocrypt
 openpgp-key-assistant-key-collected-keyserver = serwer kluczy
-openpgp-key-assistant-key-collected-wkd = Katalog kluczy
+openpgp-key-assistant-key-collected-wkd = katalog kluczy
 openpgp-key-assistant-keys-has-collected =
     { $count ->
         [one] Odnaleziono klucz, ale nie został on jeszcze zaakceptowany.
