@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Преференции
 menu-application-services =
     .label = Сервиси
 menu-application-hide-this =
@@ -34,11 +36,9 @@ menu-quit =
             [windows] x
            *[other] з
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Излези од { -brand-shorter-name }
-
 menu-about =
     .label = За { -brand-shorter-name }
     .accesskey = A
