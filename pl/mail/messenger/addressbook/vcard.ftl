@@ -11,10 +11,15 @@ vcard-displayname-placeholder =
 
 # Type selection
 
+vcard-entry-type-label = Rodzaj
+vcard-entry-type-home = Dom
+vcard-entry-type-work = Praca
 vcard-entry-type-none = Brak
+vcard-entry-type-custom = Inne
 
 # N vCard field
 
+vcard-name-header = Nazwa
 vcard-n-prefix = Przedrostek
 vcard-n-add-prefix =
     .title = Dodaj przedrostek
@@ -40,6 +45,9 @@ vcard-primary-email-label = Domyślny
 
 # URL vCard field
 
+vcard-url-header = Strony WWW
+vcard-url-add = Dodaj stronę WWW
+vcard-url-label = Strona WWW
 
 # Tel vCard field
 
@@ -55,10 +63,13 @@ vcard-tz-add = Dodaj strefę czasową
 # IMPP vCard field
 
 vcard-impp-header = Konta komunikatora
+vcard-impp-add = Dodaj konto komunikatora
 vcard-impp-label = Konto komunikatora
 
 # BDAY and ANNIVERSARY vCard field
 
+vcard-bday-anniversary-header = Specjalne daty
+vcard-bday-anniversary-add = Dodaj specjalną datę
 vcard-bday-label = Urodziny
 vcard-anniversary-label = Rocznica
 vcard-date-day = Dzień
@@ -70,10 +81,27 @@ vcard-date-year = Rok
 vcard-adr-header = Adresy
 vcard-adr-add = Dodaj adres
 vcard-adr-label = Adres
+vcard-adr-delivery-label = Etykieta dostawy
+vcard-adr-pobox = Skrytka pocztowa
+vcard-adr-ext = Rozszerzony adres
+vcard-adr-street = Adres
+# Or "Locality"
+vcard-adr-locality = Miasto
+# Or "Region"
+vcard-adr-region = Województwo
+# The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
+vcard-adr-code = Kod pocztowy
+vcard-adr-country = Państwo
 
 # NOTE vCard field
 
+vcard-note-header = Notatki
+vcard-note-add = Dodaj notatkę
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-header = Właściwości organizacyjne
+vcard-org-add = Dodaj właściwości organizacyjne
 vcard-org-title = Tytuł
+vcard-org-role = Rola
+vcard-org-org = Firma/Organizacja

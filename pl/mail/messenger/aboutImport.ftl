@@ -3,9 +3,12 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 import-page-title = Importuj
+export-page-title = Eksportuj
 
 ## Header
 
+import-start = Narzędzie importowania
+import-start-title = Importuj ustawienia lub dane z aplikacji lub pliku.
 import-from-app = Importuj z aplikacji
 export-profile = Eksportuj
 
