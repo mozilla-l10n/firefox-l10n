@@ -55,6 +55,8 @@ about-addressbook-search =
     .placeholder = Szukaj w „{ $name }”
 about-addressbook-search-all =
     .placeholder = Szukaj we wszystkich książkach adresowych
+about-addressbook-sort-button2 =
+    .title = Opcje wyświetlania listy
 about-addressbook-name-format-display =
     .label = Wyświetlana nazwa
 about-addressbook-name-format-firstlast =
@@ -69,10 +71,15 @@ about-addressbook-sort-email-ascending =
     .label = Sortuj według adresów e-mail (A→Z)
 about-addressbook-sort-email-descending =
     .label = Sortuj według adresów e-mail (Z→A)
+about-addressbook-horizontal-layout =
+    .label = Przełącz na układ poziomy
+about-addressbook-vertical-layout =
+    .label = Przełącz na układ pionowy
 
 ## Card column headers
 ## Each string is listed here twice, and the values should match.
 
+about-addressbook-column-header-generatedname = Nazwa
 about-addressbook-column-label-generatedname =
     .label = { about-addressbook-column-header-generatedname }
 about-addressbook-column-header-emailaddresses = Adresy e-mail
@@ -90,6 +97,7 @@ about-addressbook-column-label-title =
 about-addressbook-column-header-department = Dział
 about-addressbook-column-label-department =
     .label = { about-addressbook-column-header-department }
+about-addressbook-column-header-organization = Firma/Organizacja
 about-addressbook-column-label-organization =
     .label = { about-addressbook-column-header-organization }
 about-addressbook-column-header-addrbook = Książka adresowa
@@ -159,20 +167,27 @@ about-addressbook-confirm-delete-contacts =
 ## Card list placeholder
 ## Shown when there are no cards in the list
 
+about-addressbook-placeholder-empty-book = Brak dostępnych kontaktów
 about-addressbook-placeholder-new-contact = Nowy kontakt
 about-addressbook-placeholder-search-only = Ta książka adresowa wyświetla kontakty wyłącznie po wyszukiwaniu
 about-addressbook-placeholder-searching = Wyszukiwanie…
+about-addressbook-placeholder-no-search-results = Nie odnaleziono kontaktów
 
 ## Details
 
+about-addressbook-prefer-display-name = Używaj nazwy kontaktu z książki adresowej zamiast nazwy podanej w wiadomości
+about-addressbook-write-action-button = Napisz
 about-addressbook-event-action-button = Wydarzenie
+about-addressbook-search-action-button = Szukaj
 about-addressbook-begin-edit-contact-button = Edytuj
 about-addressbook-delete-edit-contact-button = Usuń
 about-addressbook-cancel-edit-contact-button = Anuluj
 about-addressbook-save-edit-contact-button = Zapisz
+about-addressbook-add-contact-to = Dodaj do:
 about-addressbook-details-email-addresses-header = Adresy e-mail
 about-addressbook-details-phone-numbers-header = Numery telefonu
 about-addressbook-details-addresses-header = Adresy
+about-addressbook-details-notes-header = Notatki
 about-addressbook-details-other-info-header = Pozostałe informacje
 about-addressbook-entry-name-birthday = Urodziny
 about-addressbook-entry-name-anniversary = Rocznica
