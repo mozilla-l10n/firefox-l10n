@@ -14,9 +14,19 @@ openpgp-key-assistant-recipients-description =
         [one] Þú ert nú þegar með nothæfan og samþykktan lykil fyrir einn viðtakanda.
        *[other] Þú ert nú þegar með nothæfa og samþykkta lykla fyrir { $count } viðtakendur.
     }
+openpgp-key-assistant-recipients-description-no-issues = Hægt er að dulrita þessi skilaboð. Þú ert með nothæfa og samþykkta lykla fyrir alla viðtakendur.
 
 ## Resolve section
 
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+# $numKeys (Number) - The number of keys.
+openpgp-key-assistant-resolve-title =
+    { $numKeys ->
+        [one] { -brand-short-name } fann eftirfarandi lykil fyrir { $recipient }.
+       *[other] { -brand-short-name } fann eftirfarandi lykla fyrir { $recipient }.
+    }
+openpgp-key-assistant-valid-description = Veldu lykilinn sem þú vilt samþykkja
 # Variables:
 # $numKeys (Number) - The number of available keys.
 openpgp-key-assistant-invalid-title =
@@ -54,6 +64,16 @@ openpgp-key-assistant-key-collected-attachment = viðhengi í tölvupósti
 openpgp-key-assistant-key-collected-autocrypt = Sjálfvirk dulritun á haus
 openpgp-key-assistant-key-collected-keyserver = lyklaþjónn
 openpgp-key-assistant-key-collected-wkd = Veflyklamappa
+openpgp-key-assistant-keys-has-collected =
+    { $count ->
+        [one] Lykill fannst, en hann hefur ekki ennþá verið samþykktur.
+       *[other] Margir lyklar fundust, en enginn þeirra hefur verið samþykktur ennþá.
+    }
+openpgp-key-assistant-key-rejected = Þessum lykli hefur áður verið hafnað.
+openpgp-key-assistant-key-accepted-other = Þessi lykill hefur áður verið samþykktur fyrir annað tölvupóstfang.
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+openpgp-key-assistant-resolve-discover-info = Uppgötvaðu fleiri eða uppfærða lykla á netinu fyrir { $recipient } eða flyttu þá inn úr skrá.
 
 ## Discovery section
 
