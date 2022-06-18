@@ -5,6 +5,21 @@
 
 ## Send Format
 
+compose-send-format-menu =
+    .label = Format wysyłania
+    .accesskey = F
+compose-send-auto-menu-item =
+    .label = Automatyczny
+    .accesskey = A
+compose-send-both-menu-item =
+    .label = Zarówno HTML, jak i zwykły tekst
+    .accesskey = Z
+compose-send-html-menu-item =
+    .label = Tylko HTML
+    .accesskey = H
+compose-send-plain-menu-item =
+    .label = Tylko zwykły tekst
+    .accesskey = T
 
 ## Addressing widget
 
@@ -143,6 +158,9 @@ encryption-options-openpgp =
 encryption-options-smime =
     .label = S/MIME
     .tooltiptext = Wyświetl lub zmień ustawienia szyfrowania S/MIME
+signing-toggle =
+    .label = Podpisz
+    .tooltiptext = Użyj podpisu cyfrowego dla tej wiadomości
 menu-openpgp =
     .label = OpenPGP
     .accesskey = O
@@ -189,6 +207,8 @@ key-notification-resolve =
     .label = Rozwiąż…
     .accesskey = R
     .tooltiptext = Otwórz asystenta kluczy OpenPGP
+can-encrypt-smime-notification = Możliwe jest szyfrowanie S/MIME typu „end-to-end”.
+can-encrypt-openpgp-notification = Możliwe jest szyfrowanie OpenPGP typu „end-to-end”.
 
 ## Addressing Area
 

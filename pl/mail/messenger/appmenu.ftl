@@ -10,3 +10,8 @@ appmenuitem-font-size-enlarge =
     .tooltiptext = Zwiększ rozmiar czcionki
 appmenuitem-font-size-reduce =
     .tooltiptext = Zmniejsz rozmiar czcionki
+# Variables:
+# $size (String) - The current font size.
+appmenuitem-font-size-reset =
+    .label = { $size } px
+    .tooltiptext = Rozmiar pierwotny

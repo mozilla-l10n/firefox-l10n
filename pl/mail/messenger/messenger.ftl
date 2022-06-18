@@ -127,15 +127,36 @@ message-header-msg-flagged =
 message-header-msg-not-flagged =
     .title = Bez gwiazdki
     .aria-label = Bez gwiazdki
+# Variables:
+# $address (String) - The email address of the recipient this picture belongs to.
+message-header-recipient-avatar =
+    .alt = Zdjęcie profilowe { $address }.
 
 ## Message header cutomize panel
 
+message-header-customize-panel-title = Ustawienia nagłówka wiadomości
+message-header-customize-button-style =
+    .value = Styl przycisków
+    .accesskey = S
 message-header-button-style-default =
     .label = Ikony i tekst
 message-header-button-style-text =
     .label = Tekst
 message-header-button-style-icons =
     .label = Ikony
+message-header-show-sender-full-address =
+    .label = Zawsze pokazuj pełny adres nadawcy
+    .accesskey = a
+message-header-show-sender-full-address-description = Adres e-mail będzie widoczny pod wyświetlaną nazwą.
+message-header-show-recipient-avatar =
+    .label = Pokazuj zdjęcie profilowe nadawcy
+    .accesskey = P
+message-header-hide-label-column =
+    .label = Ukrywaj kolumnę etykiet
+    .accesskey = U
+message-header-large-subject =
+    .label = Duży temat
+    .accesskey = D
 
 ## Action Button Context Menu
 
