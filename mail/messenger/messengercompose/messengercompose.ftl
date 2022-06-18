@@ -209,6 +209,9 @@ key-notification-resolve =
     .tooltiptext = Otwórz asystenta kluczy OpenPGP
 can-encrypt-smime-notification = Możliwe jest szyfrowanie S/MIME typu „end-to-end”.
 can-encrypt-openpgp-notification = Możliwe jest szyfrowanie OpenPGP typu „end-to-end”.
+can-e2e-encrypt-button =
+    .label = Zaszyfruj
+    .accesskey = s
 
 ## Addressing Area
 
@@ -380,6 +383,10 @@ cloud-file-account-error = Zaktualizowanie załącznika { $filename } w serwisi
 
 ## Link Preview
 
+link-preview-title = Podgląd odnośników
+link-preview-description = { -brand-short-name } może dodawać osadzony podgląd podczas wklejania odnośników.
+link-preview-autoadd = Automatycznie dodawaj podgląd odnośników, kiedy to możliwe
+link-preview-replace-now = Dodać podgląd do tego odnośnika?
 link-preview-yes-replace = Tak
 
 ## Dictionary selection popup
