@@ -126,6 +126,10 @@ message-header-msg-flagged =
 message-header-msg-not-flagged =
     .title = Ekki stjörnumerkt
     .aria-label = Ekki stjörnumerkt
+# Variables:
+# $address (String) - The email address of the recipient this picture belongs to.
+message-header-recipient-avatar =
+    .alt = Auðkennismynd af { $address }.
 
 ## Message header cutomize panel
 
@@ -139,6 +143,13 @@ message-header-button-style-text =
     .label = Texti
 message-header-button-style-icons =
     .label = Táknmyndir
+message-header-show-sender-full-address =
+    .label = Alltaf birta fullt heimilisfang sendanda
+    .accesskey = f
+message-header-show-sender-full-address-description = Tölvupóstfangið mun birtast undir birtingarnafninu.
+message-header-show-recipient-avatar =
+    .label = Sýna birtingarmynd sendanda
+    .accesskey = b
 message-header-large-subject =
     .label = Stór efnislína
     .accesskey = S
@@ -151,13 +162,6 @@ toolbar-context-menu-manage-extension =
 toolbar-context-menu-remove-extension =
     .label = Fjarlægja viðbót
     .accesskey = r
-
-## Message headers
-
-message-header-address-in-address-book-icon =
-    .alt = Póstfang er í nafnaskránni
-message-header-address-not-in-address-book-icon =
-    .alt = Póstfang er ekki í nafnaskránni
 
 ## Add-on removal warning
 
@@ -215,12 +219,6 @@ spaces-context-new-window-item =
 # $tabName (String) - The name of the tab this item will switch to.
 spaces-context-switch-tab-item =
     .label = Skipta yfir í { $tabName }
-settings-context-open-settings-item =
-    .label = Opna stillingar
-settings-context-open-account-settings-item =
-    .label = Opna stillingar reiknings
-settings-context-open-addons-item =
-    .label = Opna viðbætur og þemu
 settings-context-open-settings-item2 =
     .label = Stillingar
 settings-context-open-account-settings-item2 =

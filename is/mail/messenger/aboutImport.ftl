@@ -171,6 +171,8 @@ footer-support-forum = Aðstoðarspjallsvæði
 
 ## Step navigation on top of the wizard pages
 
+step-list =
+    .aria-label = Innflutningsskref
 step-confirm = Staðfesta
 # Variables:
 # $number (number) - step number
