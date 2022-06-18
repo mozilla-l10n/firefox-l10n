@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 openpgp-key-assistant-title = OpenPGP lykilleiðbeiningar
+openpgp-key-assistant-rogue-warning = Forðastu að samþykkja falsaða lykla. Til að tryggja að þú hafir fengið réttan lykil ættir þú að staðfesta hann. <a data-l10n-name="openpgp-link">Frekari upplýsingar...</a>
 
 ## Encryption status
 
@@ -81,6 +82,11 @@ openpgp-key-assistant-discover-title = Leit á netinu í gangi.
 # Variables:
 # $recipient (String) - The email address which we're discovering keys.
 openpgp-key-assistant-discover-keys = Uppgötva lykla fyrir { $recipient }...
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-expired-key-update =
+    Uppfærsla fannst fyrir einn af áður samþykktum lyklum fyrir { $recipient }.
+    Nú er hægt að nota hann þar sem lykillinn er ekki lengur útrunninn.
 
 ## Dialog buttons
 
