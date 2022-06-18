@@ -27,6 +27,8 @@ openpgp-key-assistant-key-source =
         [one] Πηγή
        *[other] Πηγές
     }
+openpgp-key-assistant-key-collected-attachment = συνημμένο email
+openpgp-key-assistant-key-collected-autocrypt = Κεφαλίδα Autocrypt
 
 ## Discovery section
 

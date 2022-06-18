@@ -142,6 +142,7 @@ message-header-button-style-text =
     .label = Κείμενο
 message-header-button-style-icons =
     .label = Εικονίδια
+message-header-show-sender-full-address-description = Η διεύθυνση email θα προβάλλεται κάτω από το εμφανιζόμενο όνομα.
 message-header-show-recipient-avatar =
     .label = Εμφάνιση εικόνας προφίλ αποστολέα
     .accesskey = φ
