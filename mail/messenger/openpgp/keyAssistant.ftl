@@ -10,6 +10,14 @@ openpgp-key-assistant-rogue-warning = Forðastu að samþykkja falsaða lykla. T
 openpgp-key-assistant-recipients-issue-header = Get ekki dulritað
 # Variables:
 # $count (Number) - The number of recipients that need attention.
+openpgp-key-assistant-recipients-issue-description =
+    { $count ->
+        [one] Til að dulrita verður þú að fá og samþykkja nothæfan lykil fyrir einn viðtakanda. <a data-l10n-name="openpgp-link">Frekari upplýsingar...</a>
+       *[other] Til að dulrita verður þú að fá og samþykkja nothæfa lykla fyrir { $count } viðtakendur. <a data-l10n-name="openpgp-link">Frekari upplýsingar...</a>
+    }
+openpgp-key-assistant-info-alias = { -brand-short-name } krefst venjulega þess að opinber dreifilykill viðtakandans innihaldi notandaauðkenni með samsvarandi tölvupóstfangi. Þessu er hægt að hnekkja með því að nota reglur fyrir OpenPGP-samnefni viðtakenda. <a data-l10n-name="openpgp-link">Frekari upplýsingar…</a>
+# Variables:
+# $count (Number) - The number of recipients that need attention.
 openpgp-key-assistant-recipients-description =
     { $count ->
         [one] Þú ert nú þegar með nothæfan og samþykktan lykil fyrir einn viðtakanda.
