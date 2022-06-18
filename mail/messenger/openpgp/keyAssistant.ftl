@@ -72,13 +72,35 @@ openpgp-key-assistant-key-source =
        *[other] Źródła
     }
 openpgp-key-assistant-key-collected-attachment = załącznik e-mail
+openpgp-key-assistant-key-collected-autocrypt = Nagłówek Autocrypt
 openpgp-key-assistant-key-collected-keyserver = serwer kluczy
+openpgp-key-assistant-key-collected-wkd = Katalog kluczy
+openpgp-key-assistant-keys-has-collected =
+    { $count ->
+        [one] Odnaleziono klucz, ale nie został on jeszcze zaakceptowany.
+       *[other] Odnaleziono więcej niż jeden klucz, ale żaden z nich nie został jeszcze zaakceptowany.
+    }
+openpgp-key-assistant-key-rejected = Ten klucz został wcześniej odrzucony.
+openpgp-key-assistant-key-accepted-other = Ten klucz został wcześniej zaakceptowany dla innego adresu e-mail.
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+openpgp-key-assistant-resolve-discover-info = Wykryj dodatkowe lub zaktualizowane klucze odbiorcy { $recipient } w Internecie lub zaimportuj je z pliku.
 
 ## Discovery section
 
+openpgp-key-assistant-discover-title = Trwa wykrywanie w Internecie.
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-discover-keys = Wykrywanie kluczy odbiorcy { $recipient }…
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-expired-key-update =
+    Odnaleziono aktualizację jednego z wcześniej zaakceptowanych kluczy odbiorcy { $recipient }.
+    Można go teraz używać, ponieważ nie wygasł.
 
 ## Dialog buttons
 
+openpgp-key-assistant-discover-online-button = Wykryj klucze publiczne w Internecie…
 openpgp-key-assistant-import-keys-button = Importuj klucze publiczne z pliku…
 openpgp-key-assistant-issue-resolve-button = Rozwiąż…
 openpgp-key-assistant-view-key-button = Wyświetl klucz…
