@@ -11,7 +11,6 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Ustawienia
     .accesskey = U
-
 menu-addons-and-themes =
     .label = Dodatki i motywy
     .accesskey = D
@@ -21,11 +20,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Tryb rozwiązywania problemów…
     .accesskey = T
-
 menu-help-exit-troubleshoot-mode =
     .label = Wyłącz tryb rozwiązywania problemów
     .accesskey = t
-
 menu-help-more-troubleshooting-info =
     .label = Więcej informacji do rozwiązywania problemów
     .accesskey = n
@@ -53,22 +50,30 @@ menu-view-repair-text-encoding =
 
 ## View / Layout
 
+menu-font-size-label =
+    .label = Rozmiar czcionki
+    .accesskey = R
+menuitem-font-size-enlarge =
+    .label = Zwiększ rozmiar czcionki
+    .accesskey = w
+menuitem-font-size-reduce =
+    .label = Zmniejsz rozmiar czcionki
+    .accesskey = m
+menuitem-font-size-reset =
+    .label = Rozmiar pierwotny
+    .accesskey = z
 mail-uidensity-label =
     .label = Gęstość i upakowanie
     .accesskey = G
-
 mail-uidensity-compact =
     .label = Zwarte
     .accesskey = w
-
 mail-uidensity-normal =
     .label = Zwykłe
     .accesskey = Z
-
 mail-uidensity-touch =
     .label = Dotykowe
     .accesskey = D
-
 menu-spaces-toolbar-button =
     .label = Pasek miejsc
     .accesskey = c
