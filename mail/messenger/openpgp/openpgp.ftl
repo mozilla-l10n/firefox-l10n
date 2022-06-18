@@ -187,6 +187,9 @@ openpgp-key-man-reload =
 openpgp-key-man-change-expiry =
     .label = Zmień datę wygaśnięcia
     .accesskey = Z
+openpgp-key-man-refresh-online =
+    .label = Odśwież w Internecie
+    .accesskey = O
 openpgp-key-man-ignored-ids =
     .label = Adresy e-mail
 openpgp-key-man-del-key =
@@ -234,6 +237,7 @@ openpgp-key-man-select-all-key =
     .key = A
 openpgp-key-man-key-details-key =
     .key = I
+openpgp-ign-addr-intro = Akceptujesz użycie tego klucza dla następujących wybranych adresów e-mail:
 openpgp-key-details-doc-title = Właściwości klucza
 openpgp-key-details-signatures-tab =
     .label = Certyfikacje
@@ -242,11 +246,19 @@ openpgp-key-details-structure-tab =
 openpgp-key-details-uid-certified-col =
     .label = Identyfikator użytkownika/certyfikowane przez
 openpgp-key-details-key-id-label = Identyfikator klucza
+openpgp-key-details-user-id3-label = Deklarowany właściciel klucza
 openpgp-key-details-id-label =
     .label = Identyfikator
 openpgp-key-details-key-type-label = Typ
 openpgp-key-details-key-part-label =
     .label = Część klucza
+openpgp-key-details-attr-ignored = Ostrzeżenie: ten klucz może nie działać zgodnie z oczekiwaniami, ponieważ niektóre jego właściwości są niebezpieczne i mogą zostać zignorowane.
+openpgp-key-details-attr-upgrade-sec = Należy zaktualizować niebezpieczne właściwości.
+openpgp-key-details-attr-upgrade-pub = Należy poprosić właściciela tego klucza o zaktualizowanie niebezpiecznych właściwości.
+openpgp-key-details-upgrade-unsafe =
+    .label = Zaktualizuj niebezpieczne właściwości
+    .accesskey = n
+openpgp-key-details-upgrade-ok = Klucz został pomyślnie zaktualizowany. Należy udostępnić zaktualizowany klucz publiczny swoim rozmówcom.
 openpgp-key-details-algorithm-label =
     .label = Algorytm
 openpgp-key-details-size-label =
@@ -288,6 +300,8 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name } nie ma klucza osobistego OpenPGP dla tożsamości <b>{ $identity }</b>
 #   $count (Number) - the number of configured keys associated with the current identity
 #   $identity (String) - the email address of the currently selected identity
 openpgp-description-has-keys =
@@ -497,6 +511,7 @@ key-error-not-accepted-as-personal = Nie potwierdzono, że klucz o identyfikato
 need-online = Wybrana funkcja jest niedostępna w trybie offline. Przejdź do trybu online i spróbuj ponownie.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found2 = Nie można odnaleźć żadnego nadającego się klucza, który spełnia podane kryteria wyszukiwania.
+no-update-found = Masz już klucze, które zostały wykryte w Internecie.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Błąd: polecenie odczytu klucza się nie powiodło
 # Strings used in keyRing.jsm
