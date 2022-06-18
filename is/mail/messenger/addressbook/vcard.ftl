@@ -78,6 +78,11 @@ vcard-date-year = Ár
 
 # ADR vCard field
 
+vcard-adr-header = Póstföng
+vcard-adr-add = Bæta við póstfangi
+vcard-adr-label = Póstfang
+vcard-adr-pobox = Pósthólf
+vcard-adr-ext = Lengra heimilisfang
 vcard-adr-street = Heimilisfang
 # Or "Locality"
 vcard-adr-locality = Borg
