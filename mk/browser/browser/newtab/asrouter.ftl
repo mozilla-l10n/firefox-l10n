@@ -12,23 +12,17 @@ cfr-doorhanger-feature-heading = Препорачана карактеристи
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Зошто го гледам ова
-
 cfr-doorhanger-extension-cancel-button = Не сега
     .accesskey = Н
-
 cfr-doorhanger-extension-ok-button = Додади Сега
     .accesskey = Д
-
 cfr-doorhanger-extension-manage-settings-button = Управувајте со поставките за препораките
     .accesskey = У
-
 cfr-doorhanger-extension-learn-more-link = Дознајте повеќе
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = од { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Препорака
@@ -71,7 +65,6 @@ cfr-protections-panel-link-text = Дознајте повеќе
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Нова функција:
-
 cfr-whatsnew-button =
     .label = Што е ново
     .tooltiptext = Што е ново
@@ -103,3 +96,4 @@ cfr-whatsnew-button =
 
 ## Emotive Continuous Onboarding
 
+spotlight-pin-secondary-button = Не сега
