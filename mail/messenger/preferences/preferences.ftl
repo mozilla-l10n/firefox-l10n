@@ -421,7 +421,6 @@ spellcheck-inline-label =
     .accesskey = w
 language-popup-label =
     .value = Słownik:
-    .accesskey = S
 download-dictionaries-link = Pobierz więcej słowników
 font-label =
     .value = Czcionka:
