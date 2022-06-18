@@ -104,6 +104,8 @@ perftools-thread-jvm-glean =
     .title = Fils d’execucion principals del SDK de telemetria Glean
 perftools-thread-jvm-arch-disk-io =
     .title = Lo repartidor E/S per la bibliotèca de corotinas Kotlin
+perftools-thread-jvm-pool =
+    .title = Fils d’execucion creats al grop de fils sens nom
 
 ##
 
