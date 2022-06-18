@@ -19,7 +19,7 @@ vcard-entry-type-custom = Inne
 
 # N vCard field
 
-vcard-name-header = Nazwa
+vcard-name-header = Imię i nazwisko
 vcard-n-prefix = Przedrostek
 vcard-n-add-prefix =
     .title = Dodaj przedrostek
