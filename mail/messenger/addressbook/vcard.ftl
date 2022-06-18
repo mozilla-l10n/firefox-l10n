@@ -81,6 +81,7 @@ vcard-date-year = Ár
 vcard-adr-header = Póstföng
 vcard-adr-add = Bæta við póstfangi
 vcard-adr-label = Póstfang
+vcard-adr-delivery-label = Afhendingarmerking
 vcard-adr-pobox = Pósthólf
 vcard-adr-ext = Lengra heimilisfang
 vcard-adr-street = Heimilisfang
@@ -99,6 +100,8 @@ vcard-note-add = Bæta við athugasemd
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-header = Skipulagslegir eignleikar
+vcard-org-add = Bæta við skipulagslegum eignleikum
 vcard-org-title = Titill
 vcard-org-role = Hlutverk
 vcard-org-org = Fyrirtæki/Stofnun
