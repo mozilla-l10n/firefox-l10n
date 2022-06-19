@@ -264,7 +264,7 @@ compact-folder-size =
 use-cache-before =
     .value = გამოყენება, მანამ
     .accesskey = ყ
-use-cache-after = მბაიტი ბუფერისთვის
+use-cache-after = მბაიტი მარაგისთვის
 
 ##
 

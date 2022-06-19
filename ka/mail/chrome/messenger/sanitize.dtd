@@ -25,7 +25,7 @@ that require it.  -->
 <!ENTITY itemHistory.accesskey             "მ">
 <!ENTITY itemCookies.label                 "ფუნთუშები">
 <!ENTITY itemCookies.accesskey             "თ">
-<!ENTITY itemCache.label                   "ბუფერი">
+<!ENTITY itemCache.label                   "მარაგი">
 <!ENTITY itemCache.accesskey               "უ">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
