@@ -81,8 +81,13 @@ vcard-date-year = Année
 vcard-adr-header = Adresses
 vcard-adr-add = Ajouter une adresse
 vcard-adr-label = Adresse
+vcard-adr-pobox = Boite postale
+vcard-adr-ext = Adresse étendue
+vcard-adr-street = Adresse postale
 # Or "Locality"
 vcard-adr-locality = Ville
+# Or "Region"
+vcard-adr-region = État
 # The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
 vcard-adr-code = Code postal
 vcard-adr-country = Pays
