@@ -10,7 +10,7 @@
 <!ENTITY usingSubscription.accesskey "წ">
 <!ENTITY dualUseFolders.label "სერვერი მუშაობს იმ საქაღალდეებთანაც, რომლებიც ქვესაქაღალდეებსა და წერილებს შეიცავენ">
 <!ENTITY dualUseFolders.accesskey "ქ">
-<!ENTITY maximumConnectionsNumber.label "სერვერთან კავშირების მაქსიმალური რაოდენობა ბუფერირებისთვის">
+<!ENTITY maximumConnectionsNumber.label "სერვერთან კავშირების დასაშვები რაოდენობა მარაგისთვის">
 <!ENTITY maximumConnectionsNumber.accesskey "მ">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "ეს პარამეტრები მიუთითებს თქვენი IMAP სერვერის სახელთა არეებს">
