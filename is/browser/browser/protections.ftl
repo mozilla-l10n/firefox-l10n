@@ -158,8 +158,8 @@ monitor-partial-breaches-motivation-title-start = Frábær byrjun!
 monitor-partial-breaches-motivation-title-middle = Haltu þessu áfram!
 monitor-partial-breaches-motivation-title-end = Næstum lokið! Haltu þessu áfram.
 monitor-partial-breaches-motivation-description = Leystu restina af gagnaránunum þínum á { -monitor-brand-short-name }.
-monitor-resolve-breaches-link = Leysa gagnabrot
-    .title = Leysa gagnabrot á { -monitor-brand-short-name }
+monitor-resolve-breaches-link = Leysa gagnarán
+    .title = Leysa gagnarán á { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
