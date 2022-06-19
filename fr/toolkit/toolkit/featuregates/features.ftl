@@ -63,3 +63,4 @@ experimental-features-ime-search-description = Un IME (Input Method Editor, édi
 # Text recognition for images
 experimental-features-text-recognition =
     .label = Reconnaissance de texte
+experimental-features-text-recognition-description = Activer les fonctionnalités de reconnaissance de texte dans des images.
