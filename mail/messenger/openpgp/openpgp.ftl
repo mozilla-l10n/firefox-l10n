@@ -323,6 +323,78 @@ openpgp-radio-none-desc = No usar OpenPGP para esta identidad.
 openpgp-radio-key-not-usable = Esta clave no se puede usar como una clave personal, ¡porque falta la clave secreta!
 openpgp-radio-key-not-accepted = ¡Para usar esta clave debe aprobarla como una clave personal!
 openpgp-radio-key-not-found = ¡No se encontró esta clave! Si quiere usarla, debe importarla a { -brand-short-name }.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Caduca el: { $date }
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Caducó el: { $date }
+openpgp-key-expires-within-6-months-icon =
+    .title = La clave caduca en menos de 6 meses
+openpgp-key-has-expired-icon =
+    .title = Clave caducada
+openpgp-key-expand-section =
+    .tooltiptext = Más información
+openpgp-key-revoke-title = Revocar clave
+openpgp-key-edit-title = Cambiar la clave OpenPGP
+openpgp-key-edit-date-title = Extender la fecha de caducidad
+openpgp-manager-description = Utiliza el Administrador de claves OpenPGP para ver y administrar las claves públicas de sus corresponsales y todas las demás claves no listadas arriba.
+openpgp-manager-button =
+    .label = Administrador de claves OpenPGP
+    .accesskey = G
+openpgp-key-remove-external =
+    .label = Eliminar ID de clave externa
+    .accesskey = E
+key-external-label = Clave GnuPG externa
+# Strings in keyDetailsDlg.xhtml
+key-type-public = clave pública
+key-type-primary = clave primaria
+key-type-subkey = subclave
+key-type-pair = par de claves (clave secreta y clave pública)
+key-expiry-never = nunca
+key-usage-encrypt = Cifrar
+key-usage-sign = Firmar
+key-usage-certify = Certificar
+key-usage-authentication = Autenticación
+key-does-not-expire = La clave no caduca
+key-expired-date = La clave caducó el { $keyExpiry }
+key-expired-simple = La clave ha caducado
+key-revoked-simple = La clave fue revocada
+key-do-you-accept = ¿Acepta esta clave para verificar firmas digitales y para cifrar mensajes?
+key-verification = Verifique la huella digital de la clave utilizando un canal de comunicación seguro que no sea el correo electrónico para asegurarse de que realmente sea la clave de { $addr }.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = No se puede enviar el mensaje porque hay un problema con su clave personal. { $problem }
+cannot-encrypt-because-missing = No se puede enviar este mensaje con cifrado extremo a extremo porque hay problemas con las claves de los siguientes destinatarios: { $problem }
+window-locked = La ventana de redacción está bloqueada; envío cancelado
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-concealed-data = Esta es una parte cifrada del mensaje. Tiene que abrirla en una ventana separada haciendo clic en el archivo adjunto.
+# Strings in keyserver.jsm
+keyserver-error-aborted = Abortado
+keyserver-error-unknown = Se produjo un error desconocido
+keyserver-error-server-error = El servidor de claves informó de un error.
+keyserver-error-import-error = No se pudo importar la clave descargada.
+keyserver-error-unavailable = El servidor de claves no está disponible.
+keyserver-error-security-error = El servidor de claves no admite el acceso cifrado.
+keyserver-error-certificate-error = El certificado del servidor de claves no es válido.
+keyserver-error-unsupported = El servidor de claves no es compatible.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Su proveedor de correo electrónico procesó su solicitud para cargar su clave pública en el directorio de claves web de OpenPGP.
+    Confirme para completar la publicación de su clave pública.
+wkd-message-body-process =
+    Este es un correo electrónico relacionado con el procesamiento automático para cargar su clave pública en el Directorio de Claves Web de OpenPGP.
+    No es necesario que realice ninguna acción manual en este momento.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    No se pudo descifrar el mensaje con el asunto
+    { $subject }.
+    ¿Quiere volver a intentarlo con una frase de contraseña diferente o quiere saltarse el mensaje?
+# Strings filters.jsm
+filter-folder-required = Debe seleccionar una carpeta de destino.
+filter-decrypt-move-warn-experimental =
+    Advertencia: la acción de filtrado "Descifrar permanentemente" puede provocar la destrucción de mensajes.
+    Le recomendamos encarecidamente que primero pruebe el filtro "Crear copia descifrada", pruebe el resultado con cuidado y comience a usar este filtro solo una vez que esté satisfecho con el resultado.
+filter-term-pgpencrypted-label = OpenPGP cifrado
+filter-key-required = Debe seleccionar una clave de destinatario.
+filter-key-not-found = No se pudo encontrar una clave de cifrado para ‘{ $desc }’.
 
 ## Account settings export output
 
