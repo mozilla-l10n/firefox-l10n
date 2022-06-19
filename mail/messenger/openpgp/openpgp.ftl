@@ -395,9 +395,81 @@ filter-decrypt-move-warn-experimental =
 filter-term-pgpencrypted-label = OpenPGP cifrado
 filter-key-required = Debe seleccionar una clave de destinatario.
 filter-key-not-found = No se pudo encontrar una clave de cifrado para ‘{ $desc }’.
+filter-warn-key-not-secret =
+    Advertencia: la acción de filtro "Cifrar en clave" reemplaza a los destinatarios.
+    Si no tiene la clave secreta para '{ $desc }', ya no podrá leer los correos electrónicos.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Descifrar permanentemente (OpenPGP)
+filter-decrypt-copy-label = Crear copia descifrada (OpenPGP)
+filter-encrypt-label = Cifrar a clave (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = ¡Claves importadas correctamente!
+import-info-bits = Bits
+import-info-created = Creado
+import-info-fpr = Huella digital
+import-info-details = Ver detalles y administrar la aceptación de claves
+import-info-no-keys = No se importaron claves.
+# Strings in enigmailKeyManager.js
+import-from-clip = ¿Quiere importar alguna(s) clave(s) del portapapeles?
+import-from-url = Descarga la clave pública desde esta URL:
+copy-to-clipbrd-failed = No se pudieron copiar las claves seleccionadas al portapapeles.
+copy-to-clipbrd-ok = Clave(s) copiada(s) al portapapeles
+delete-secret-key =
+    ADVERTENCIA: ¡Está a punto de eliminar una clave secreta!
+    
+    Si elimina su clave secreta, ya no podrá descifrar ningún mensaje cifrado para esa clave, ni podrá revocarla.
+    
+    ¿Realmente quiere eliminar AMBAS, la clave secreta y la clave pública de
+    '{ $userId }'?
+delete-mix =
+    ADVERTENCIA: ¡Está a punto de eliminar una clave secreta!
+    Si elimina su clave secreta, ya no podrá descifrar ningún mensaje cifrado para esa clave, ni podrá revocarla.
+    ¿Realmente quiere eliminar AMBAS, la clave secreta y la clave pública?
+delete-pub-key =
+    ¿Quiere eliminar la clave pública
+    '{ $userId }'?
+delete-selected-pub-key = ¿Quiere eliminar las claves públicas?
+refresh-all-question = No seleccionó ninguna clave. ¿Le gustaría actualizar TODAS las claves?
+key-man-button-export-sec-key = Exportar claves &secretas
+key-man-button-export-pub-key = Exportar solo claves públicas
+key-man-button-refresh-all = &Actualizar todas las claves
+key-man-loading-keys = Cargando claves, espere ...
+ascii-armor-file = Archivos blindados ASCII (*.asc)
+no-key-selected = Debe seleccionar al menos una tecla para realizar la operación seleccionada
+export-to-file = Exportar clave pública a un archivo
+export-keypair-to-file = Exportar clave secreta y pública a un archivo
+export-secret-key = ¿Quiere incluir la clave secreta en el archivo de claves OpenPGP guardado?
+save-keys-ok = Las claves se guardaron correctamente
+save-keys-failed = No se pudieron guardar las claves
+default-pub-key-filename = Claves-públicas-exportadas
+default-pub-sec-key-filename = Copia de seguridad de claves secretas
+refresh-key-warn = Advertencia: dependiendo de la cantidad de claves y la velocidad de conexión, actualizar todas las claves puede ser un proceso bastante largo.
+preview-failed = No se puede leer el archivo de la clave pública.
+general-error = Error: { $reason }
+dlg-button-delete = &Eliminar
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>¡Clave pública exportada correctamente!</b>
+openpgp-export-public-fail = <b>¡No se puede exportar la clave pública seleccionada!</b>
+openpgp-export-secret-success = <b>¡La clave secreta se exportó correctamente!</b>
+openpgp-export-secret-fail = <b>¡No se puede exportar la clave secreta seleccionada!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = La clave { $userId } (ID de clave { $keyId }) está revocada.
+key-ring-pub-key-expired = La clave { $userId } (ID de clave { $keyId }) ha caducado.
+key-ring-no-secret-key = No parece tener la clave secreta para { $userId } (ID de clave { $keyId }) en su llavero; no puede utilizar la clave para firmar.
+key-ring-pub-key-not-for-signing = La clave { $userId } (ID de clave { $keyId }) no se puede usar para firmar.
+key-ring-pub-key-not-for-encryption = La clave { $userId } (ID de clave { $keyId }) no se puede usar para cifrado.
+key-ring-sign-sub-keys-revoked = Todas las subclaves de firma de la clave { $userId } (ID de clave { $keyId }) están revocadas.
+key-ring-sign-sub-keys-expired = Todas las subclaves de firma de la clave { $userId } (ID de clave { $keyId }) han caducado.
+key-ring-enc-sub-keys-revoked = Todas las subclaves de cifrado de la clave { $userId } (ID de clave { $keyId }) están revocadas.
+key-ring-enc-sub-keys-expired = Todas las subclaves de cifrado de la clave { $userId } (ID de clave { $keyId }) han caducado.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Foto
+user-att-photo = Atributo de usuario (imagen JPEG)
+# Strings in key.jsm
+already-revoked = Esta clave ya ha sido revocada.
 
 # Strings used in enigmailMessengerOverlay.js
 
