@@ -470,6 +470,81 @@ keyring-photo = Foto
 user-att-photo = Atributo de usuario (imagen JPEG)
 # Strings in key.jsm
 already-revoked = Esta clave ya ha sido revocada.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Está a punto de revocar la clave '{ $identity }'.
+    Ya no podrá firmar con esta clave y, una vez distribuida, otras personas ya no podrán cifrar con esa clave. Todavía puede usar la clave para descifrar mensajes antiguos.
+    ¿Quiere proceder?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    ¡No tiene ninguna clave (0x{ $keyId }) que coincida con este certificado de revocación!
+    Si perdió su clave, ¡tiene que importarla (por ejemplo, desde un servidor de claves) antes de importar el certificado de revocación!
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = La clave 0x{ $keyId } ya ha sido revocada.
+key-man-button-revoke-key = &Revocar clave
+openpgp-key-revoke-success = Clave revocada correctamente.
+after-revoke-info =
+    La clave ha sido revocada.
+    Vuelva a compartir esta clave pública, enviándola por correo electrónico o cargándola en servidores de claves, para que otros sepan que revocó su clave.
+    Tan pronto como el software utilizado por otras personas conozca la revocación, dejará de usar su antigua clave.
+    Si está usando una nueva clave para la misma dirección de correo electrónico y adjunta la nueva clave pública a los correos electrónicos que envía, la información sobre su antigua clave revocada se incluirá automáticamente.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Importar
+delete-key-title = Eliminar clave OpenPGP
+delete-external-key-title = Eliminar la clave GnuPG externa
+delete-external-key-description = ¿Quiere eliminar esta ID de clave GnuPG externa?
+key-in-use-title = Clave OpenPGP actualmente en uso
+delete-key-in-use-description = ¡No se puede continuar! La clave que seleccionó para eliminar está siendo usada por esta identidad. Seleccione una clave diferente, o no seleccione ninguna, y vuelva a intentarlo.
+revoke-key-in-use-description = ¡No se puede continuar! La clave que seleccionó para revocar está siendo usada por esta identidad. Seleccione una clave diferente, o no seleccione ninguna, y vuelva a intentarlo.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = La dirección de correo electrónico ‘{ $keySpec }’ no puede coincidir con una clave en su llavero.
+key-error-key-id-not-found = El ID de clave configurada '{ $keySpec }' no se encuentra en su llavero.
+key-error-not-accepted-as-personal = No ha confirmado que la clave con ID '{ $keySpec }' sea su clave personal.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = La función que ha seleccionado no está disponible en el modo sin conexión. Conéctese y vuelva a intentarlo.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found2 = No hemos podido encontrar ninguna clave utilizable que coincida con los criterios de búsqueda especificados.
+no-update-found = Ya tiene las claves que fueron descubiertas en línea.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Error - el comando de extracción de clave falló
+# Strings used in keyRing.jsm
+fail-cancel = Error - La recepción de clave ha sido cancelada por el usuario
+not-first-block = Error - El primer bloque OpenPGP no es un bloque de clave pública
+import-key-confirm = ¿Importar clave(s) pública(s) incrustadas en el mensaje?
+fail-key-import = Error - no se pudo importar la clave
+file-write-failed = Error al escribir en el archivo { $output }
+no-pgp-block = Error - no se encontró un bloque de datos OpenPGP blindado válido
+confirm-permissive-import = La importación falló. La clave que está intentando importar puede estar dañada o utilizar atributos desconocidos. ¿Le gustaría intentar importar las partes correctas? Esto puede resultar en la importación de claves incompletas e inutilizables.
+# Strings used in trust.jsm
+key-valid-unknown = desconocido
+key-valid-invalid = no válido
+key-valid-disabled = desactivado
+key-valid-revoked = revocado
+key-valid-expired = caducado
+key-trust-untrusted = no confiable
+key-trust-marginal = marginal
+key-trust-full = confiable
+key-trust-ultimate = absoluta
+key-trust-group = (grupo)
+# Strings used in commonWorkflows.js
+import-key-file = Importar archivo de clave OpenPGP
+import-rev-file = Importar archivo de revocación de OpenPGP
+gnupg-file = Archivos GnuPG
+import-keys-failed = Error al importar las claves
+passphrase-prompt = Escriba la frase de contraseña para desbloquear la siguiente clave: { $key }
+file-to-big-to-import = Este archivo es demasiado grande. No importe un gran conjunto de claves a la vez.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Crear y guardar certificado de revocación
+revoke-cert-ok = El certificado de revocación ha sido creado correctamente. Puede usarlo para invalidar su clave pública, por ejemplo en caso que perdiera su clave secreta.
+revoke-cert-failed = No se pudo crear el certificado de revocación.
+gen-going = ¡La generación de claves ya está en proceso!
+keygen-missing-user-name = No hay ningún nombre especificado para la cuenta actual. Escriba un valor el el campo "Su nombre" en la configuración de la cuenta.
+expiry-too-short = La clave debe ser válida durante al menos un día.
+expiry-too-long = No se puede crear una clave que caduque en más de 100 años.
+key-confirm = ¿Generar clave pública y secreta para ‘{ $id }’?
+key-man-button-generate-key = &Generar clave
+key-abort = ¿Abortar la generación de claves?
+key-man-button-generate-key-abort = &Abortar generación de clave
 
 # Strings used in enigmailMessengerOverlay.js
 
