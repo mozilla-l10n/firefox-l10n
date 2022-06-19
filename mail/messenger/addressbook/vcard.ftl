@@ -81,6 +81,8 @@ vcard-date-year = წელი
 vcard-adr-header = მისამართები
 vcard-adr-add = მისამართის დამატება
 vcard-adr-label = მისამართი
+vcard-adr-delivery-label = მიწოდების ზედნადები
+vcard-adr-pobox = ფოსტის სააბონენტო ყუთი
 vcard-adr-ext = დაწვრილებითი მისამართი
 vcard-adr-street = ქუჩის მისამართი
 # Or "Locality"
@@ -98,6 +100,8 @@ vcard-note-add = შენიშვნის დამატება
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-header = დაწესებულების მონაცემები
+vcard-org-add = დაწესებულების მონაცემების დამატება
 vcard-org-title = სათაური
 vcard-org-role = მოვალეობა
 vcard-org-org = დაწესებულება
