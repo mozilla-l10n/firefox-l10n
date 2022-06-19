@@ -10,6 +10,7 @@ message-header-from-list-name = De
 message-header-sender-list-name = Expéditeur
 message-header-reply-to-list-name = Réponse à
 message-header-cc-list-name = Copie à
+message-header-bcc-list-name = Copie cachée à
 message-header-newsgroups-list-name = Groupes de discussion
 message-header-tags-list-name = Étiquettes
 
