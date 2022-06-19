@@ -71,12 +71,29 @@ openpgp-key-assistant-keys-has-collected =
         [one] Une clé a été trouvée mais n’a pas encore été acceptée.
        *[other] Plusieurs clés ont été trouvées mais aucune d’entre elles n’a encore été acceptée.
     }
+openpgp-key-assistant-key-accepted-other = Cette clé a déjà été associée à une autre adresse électronique.
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+openpgp-key-assistant-resolve-discover-info = Rechercher en ligne de nouvelles clés ou des clés mises à jour pour { $recipient } ou les importer depuis un fichier.
 
 ## Discovery section
 
+openpgp-key-assistant-discover-title = Recherche en ligne en cours.
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-discover-keys = Recherche de clés pour { $recipient }…
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-expired-key-update =
+    Une clé précédemment acceptée a été mise à jour pour { $recipient }.
+    Elle est donc à nouveau valide et peut être utilisée.
 
 ## Dialog buttons
 
+openpgp-key-assistant-discover-online-button = Rechercher des clés publiques en ligne…
+openpgp-key-assistant-import-keys-button = Importer des clés publiques depuis un fichier…
+openpgp-key-assistant-issue-resolve-button = Résoudre…
+openpgp-key-assistant-view-key-button = Afficher la clé…
 openpgp-key-assistant-recipients-show-button = Afficher
 openpgp-key-assistant-recipients-hide-button = Masquer
 openpgp-key-assistant-cancel-button = Annuler
@@ -85,3 +102,6 @@ openpgp-key-assistant-accept-button = Accepter
 openpgp-key-assistant-close-button = Fermer
 openpgp-key-assistant-disable-button = Désactiver le chiffrement
 openpgp-key-assistant-confirm-button = Envoyer chiffré
+# Variables:
+# $date (String) - The key creation date.
+openpgp-key-assistant-key-created = créée le { $date }
