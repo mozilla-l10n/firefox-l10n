@@ -167,6 +167,7 @@ about-addressbook-placeholder-no-search-results = ხალხი ვერ მ�
 
 ## Details
 
+about-addressbook-prefer-display-name = სახელის გამოჩენა, ნაცვლად წერილის თავსართისა
 about-addressbook-write-action-button = ჩაწერა
 about-addressbook-event-action-button = ღონისძიება
 about-addressbook-search-action-button = ძიება
@@ -188,6 +189,7 @@ about-addressbook-entry-type-pager = პეიჯერი
 about-addressbook-entry-name-birthday = დაბადების დღე
 about-addressbook-entry-name-anniversary = იუბილე
 about-addressbook-entry-name-title = სათაური
+about-addressbook-entry-name-role = მოვალეობა
 about-addressbook-entry-name-organization = დაწესებულება
 about-addressbook-entry-name-website = ვებსაიტი
 about-addressbook-entry-name-time-zone = დროის სარტყელი
