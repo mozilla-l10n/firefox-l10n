@@ -545,6 +545,61 @@ key-confirm = ¿Generar clave pública y secreta para ‘{ $id }’?
 key-man-button-generate-key = &Generar clave
 key-abort = ¿Abortar la generación de claves?
 key-man-button-generate-key-abort = &Abortar generación de clave
+key-man-button-generate-key-continue = &Continuar con la generación de claves
 
 # Strings used in enigmailMessengerOverlay.js
 
+failed-decrypt = Error - no se pudo descifrar
+fix-broken-exchange-msg-failed = No se puede reparar este mensaje.
+attachment-no-match-from-signature = No se pudo hacer coincidir el archivo de firma ‘{ $attachment }’ con un archivo adjunto
+attachment-no-match-to-signature = No se pudo hacer coincidir el archivo adjunto ‘{ $attachment }’ con un archivo de firma
+signature-verified-ok = La firma del archivo adjunto { $attachment } se verificó correctamente
+signature-verify-failed = No se pudo verificar la firma del archivo adjunto { $attachment }
+decrypt-ok-no-sig =
+    Advertencia
+    El descifrado fue correcto, pero la firma no se pudo verificar correctamente
+msg-ovl-button-cont-anyway = &Continuar de todas formas
+enig-content-note = *Los archivos adjuntos a este mensaje no han sido firmados ni cifrados*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Enviar mensaje
+msg-compose-details-button-label = Detalles…
+msg-compose-details-button-access-key = D
+send-aborted = Operación de envío abortada.
+key-not-trusted = No hay suficiente confianza para la clave '{ $key }'
+key-not-found = Clave ‘{ $key }’ no encontrada
+key-revoked = Clave ‘{ $key }’ revocada
+key-expired = Clave ‘{ $key }’ caducada
+msg-compose-internal-error = Se ha producido un error interno.
+keys-to-export = Seleccione las claves OpenPGP para insertar
+msg-compose-partially-encrypted-inlinePGP =
+    El mensaje al que está respondiendo contenía partes cifradas y no cifradas. Si el remitente no pudo descifrar algunas partes del mensaje, es posible que esté filtrando información confidencial que el remitente no pudo descifrar originalmente.
+    Considere eliminar todo el texto citado de su respuesta a este remitente.
+msg-compose-cannot-save-draft = Error al guardar el borrador
+msg-compose-partially-encrypted-short = Ten cuidado con la filtración de información confidencial - correo electrónico parcialmente cifrado.
+quoted-printable-warn =
+    Activó la codificación 'quoted-printable' para enviar mensajes. Esto puede resultar en un descifrado incorrecto y/o verificación de su mensaje.
+    ¿Quiere desactivar ahora el envío de mensajes 'quoted-printable'?
+minimal-line-wrapping =
+    Ha configurado el ajuste de línea en { $width } caracteres. Para un correcto cifrado y/o firma correcta, este valor debe ser al menos de 68.
+    ¿Quiere cambiar ahora el ajuste de línea a 68 caracteres?
+sending-news =
+    Se abortó la operación de envío cifrado.
+    Este mensaje no se puede cifrar porque hay destinatarios de grupos de noticias. Vuelva a enviar el mensaje sin cifrar.
+send-to-news-warning =
+    Advertencia: está a punto de enviar un correo electrónico cifrado a un grupo de noticias.
+    Esto se desaconseja porque solo tiene sentido si todos los miembros del grupo pueden descifrar el mensaje, es decir, el mensaje debe cifrarse con las claves de todos los participantes del grupo. Envíe este mensaje solo si sabe exactamente lo que está haciendo.
+    ¿Continuar?
+save-attachment-header = Guardar adjunto descifrado
+possibly-pgp-mime = Posiblemente un mensaje cifrado o firmado PGP/MIME; use la función 'Descifrar/Verificar' para verificar
+cannot-send-sig-because-no-own-key = No se puede firmar digitalmente este mensaje porque todavía no ha configurado el cifrado extremo a extremo para <{ $key }>
+cannot-send-enc-because-no-own-key = No se puede enviar este mensaje cifrado, porque todavía no ha configurado cifrado extremo a extremo para <{ $key }>
+# Strings used in decryption.jsm
+do-import-multiple =
+    ¿Importar las siguientes claves?
+    { $key }
+do-import-one = ¿Importar { $name } ({ $id })?
+cant-import = Error al importar la clave pública
+unverified-reply = La parte del mensaje indentada (respuesta) fue probablemente modificada
+key-in-message-body = Se encontró una clave en el cuerpo del mensaje. Haga clic en ‘Importar clave’ para importar la clave.
+sig-mismatch = Error - Discrepancia en la firma
+invalid-email = Error - dirección o direcciones de correo no válidas
