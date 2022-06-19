@@ -31,7 +31,7 @@
 <!ENTITY PhoneticField2.label           "გამოითქმის:">
 <!ENTITY DisplayName.label              "გამოჩენა:">
 <!ENTITY DisplayName.accesskey          "ე">
-<!ENTITY preferDisplayName.label        "ყოველთვის გამოსაჩენი სახელის ასახვა წერილის თავსართში">
+<!ENTITY preferDisplayName.label        "ყოველთვის სახელის გამოჩენა, ნაცვლად წერილის თავსართისა">
 <!ENTITY preferDisplayName2.accesskey   "ყ">
 <!ENTITY NickName.label                 "მეტსახელი:">
 <!ENTITY NickName.accesskey             "მ">
@@ -45,7 +45,6 @@
 <!ENTITY PlainText.label                "ტექსტური">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "უცნობი">
-
 <!ENTITY chatName.label                 "სახელი სასაუბროსთვის:">
 
 <!ENTITY WorkPhone.label                "სამსახური:">
