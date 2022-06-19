@@ -26,6 +26,8 @@ about-addressbook-books-context-properties =
     .label = პარამეტრები
 about-addressbook-books-context-synchronize =
     .label = სინქრონიზაცია
+about-addressbook-books-context-edit =
+    .label = ჩასწორება
 about-addressbook-books-context-print =
     .label = ამობეჭდვა…
 about-addressbook-books-context-export =
@@ -53,8 +55,8 @@ about-addressbook-search =
     .placeholder = მოიძებნოს { $name }
 about-addressbook-search-all =
     .placeholder = მოიძებნოს ყველა წიგნაკი
-about-addressbook-sort-button =
-    .title = ჩამონათვალის რიგითობის შეცვლა
+about-addressbook-sort-button2 =
+    .title = ჩვენების პარამეტრების სია
 about-addressbook-name-format-display =
     .label = გამოსაჩენი სახელი
 about-addressbook-name-format-firstlast =
@@ -69,6 +71,38 @@ about-addressbook-sort-email-ascending =
     .label = დალაგება ელფოსტის მისამართით (ანბანურად)
 about-addressbook-sort-email-descending =
     .label = დალაგება ელფოსტის მისამართით (უკუანბანურად)
+about-addressbook-horizontal-layout =
+    .label = თარაზულ განლაგებაზე გადართვა
+about-addressbook-vertical-layout =
+    .label = შვეულ განლაგებაზე გადართვა
+
+## Card column headers
+## Each string is listed here twice, and the values should match.
+
+about-addressbook-column-header-generatedname = სახელი
+about-addressbook-column-label-generatedname =
+    .label = { about-addressbook-column-header-generatedname }
+about-addressbook-column-header-emailaddresses = ელფოსტის მისამართები
+about-addressbook-column-label-emailaddresses =
+    .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-phonenumbers = ტელეფონის ნომრები
+about-addressbook-column-label-phonenumbers =
+    .label = { about-addressbook-column-header-phonenumbers }
+about-addressbook-column-header-addresses = მისამართები
+about-addressbook-column-label-addresses =
+    .label = { about-addressbook-column-header-addresses }
+about-addressbook-column-header-title = სათაური
+about-addressbook-column-label-title =
+    .label = { about-addressbook-column-header-title }
+about-addressbook-column-header-department = განყოფილება
+about-addressbook-column-label-department =
+    .label = { about-addressbook-column-header-department }
+about-addressbook-column-header-organization = დაწესებულება
+about-addressbook-column-label-organization =
+    .label = { about-addressbook-column-header-organization }
+about-addressbook-column-header-addrbook = მისამართების წიგნაკი
+about-addressbook-column-label-addrbook =
+    .label = { about-addressbook-column-header-addrbook }
 about-addressbook-cards-context-write =
     .label = მიწერა
 about-addressbook-confirm-delete-mixed-title = ხალხისა და სიების წაშლა
@@ -122,6 +156,15 @@ about-addressbook-confirm-delete-contacts =
        *[other] ნამდვილად გსურთ, წაიშალოს { $count } პირი?
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+about-addressbook-placeholder-empty-book = მიუწვდომელია
+about-addressbook-placeholder-new-contact = ახალი პირი
+about-addressbook-placeholder-search-only = ეს წიგნაკი აჩვენებს ხალხს, მხოლოდ ძიების შემდგომ
+about-addressbook-placeholder-searching = ეძებს…
+about-addressbook-placeholder-no-search-results = ხალხი ვერ მოიძებნა
+
 ## Details
 
 about-addressbook-write-action-button = ჩაწერა
@@ -134,8 +177,6 @@ about-addressbook-save-edit-contact-button = შენახვა
 about-addressbook-add-contact-to = დამატება:
 about-addressbook-details-email-addresses-header = ელფოსტის მისამართები
 about-addressbook-details-phone-numbers-header = ტელეფონის ნომრები
-about-addressbook-details-home-address-header = ბინის მისამართი
-about-addressbook-details-work-address-header = სამსახურის მისამართი
 about-addressbook-details-addresses-header = მისამართები
 about-addressbook-details-notes-header = შენიშვნები
 about-addressbook-details-other-info-header = სხვა ინფორმაცია
@@ -147,7 +188,6 @@ about-addressbook-entry-type-pager = პეიჯერი
 about-addressbook-entry-name-birthday = დაბადების დღე
 about-addressbook-entry-name-anniversary = იუბილე
 about-addressbook-entry-name-title = სათაური
-about-addressbook-entry-name-department = განყოფილება
 about-addressbook-entry-name-organization = დაწესებულება
 about-addressbook-entry-name-website = ვებსაიტი
 about-addressbook-entry-name-time-zone = დროის სარტყელი
