@@ -192,6 +192,10 @@ key-notification-resolve =
     .accesskey = ყ
     .tooltiptext = OpenPGP-გასაღების მეგზურის გახსნა
 can-encrypt-smime-notification = S/MIME გამჭოლი დაშიფვრა შესაძლებელია.
+can-encrypt-openpgp-notification = OpenPGP გამჭოლი დაშიფვრა შესაძლებელია.
+can-e2e-encrypt-button =
+    .label = დაშიფვრა
+    .accesskey = ფ
 
 ## Addressing Area
 

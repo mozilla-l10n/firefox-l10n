@@ -125,6 +125,10 @@ message-header-msg-flagged =
     .aria-label = ვარსკვლავიანი
 message-header-msg-not-flagged =
     .title = უვარსკვლავო წერილი
+# Variables:
+# $address (String) - The email address of the recipient this picture belongs to.
+message-header-recipient-avatar =
+    .alt = პროფილის გამოსახულება – { $address }.
 
 ## Message header cutomize panel
 
@@ -138,6 +142,16 @@ message-header-button-style-text =
     .label = წარწერა
 message-header-button-style-icons =
     .label = ხატულები
+message-header-show-sender-full-address =
+    .label = ყოველთვის გამოჩნდეს გამგზავნის სრული მისამართი
+    .accesskey = უ
+message-header-show-sender-full-address-description = ელფოსტის მისამართი გამოჩნდება სახელის ქვეშ.
+message-header-show-recipient-avatar =
+    .label = გამგზავნის პროფილის გამოსახულების ჩვენება
+    .accesskey = პ
+message-header-hide-label-column =
+    .label = წარწერების სვეტის დამალვა
+    .accesskey = წ
 message-header-large-subject =
     .label = თემა გადიდებულად
     .accesskey = ე
@@ -150,13 +164,6 @@ toolbar-context-menu-manage-extension =
 toolbar-context-menu-remove-extension =
     .label = გაფართოების ამოშლა
     .accesskey = ლ
-
-## Message headers
-
-message-header-address-in-address-book-icon =
-    .alt = მისამართი წიგნაკშია
-message-header-address-not-in-address-book-icon =
-    .alt = მისამართი არაა წიგნაკში
 
 ## Add-on removal warning
 
@@ -214,12 +221,6 @@ spaces-context-new-window-item =
 # $tabName (String) - The name of the tab this item will switch to.
 spaces-context-switch-tab-item =
     .label = გადასვლა { $tabName }
-settings-context-open-settings-item =
-    .label = პარამეტრების გახსნა
-settings-context-open-account-settings-item =
-    .label = ანგარიშის პარამეტრების გახსნა
-settings-context-open-addons-item =
-    .label = დამატებები და თემები
 settings-context-open-settings-item2 =
     .label = პარამეტრები
 settings-context-open-account-settings-item2 =
