@@ -191,6 +191,7 @@ key-notification-resolve =
     .label = გადაწყვეტა…
     .accesskey = ყ
     .tooltiptext = OpenPGP-გასაღების მეგზურის გახსნა
+can-encrypt-smime-notification = S/MIME გამჭოლი დაშიფვრა შესაძლებელია.
 
 ## Addressing Area
 
