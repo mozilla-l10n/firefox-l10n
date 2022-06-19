@@ -113,8 +113,10 @@ policy-SecurityDevices = PKCS #11 модульдерін орнату.
 policy-ShowHomeButton = Құралдар панелінде үй батырмасын көрсету.
 policy-SSLVersionMax = Максималды SSL нұсқасын орнату.
 policy-SSLVersionMin = Минималды SSL нұсқасын орнату.
+policy-StartDownloadsInTempDirectory = Жүктемелерді қалыпты жүктеп алу бумасында емес, жергілікті, уақытша жерде бастауға мәжбүрлету.
 policy-SupportMenu = Көмек мәзіріне таңдауыңызша қолдау көрсету мәзір элементін қосу.
 policy-UserMessaging = Пайдаланушыға кейбір хабарламаларды көрсетпеу.
+policy-UseSystemPrintDialog = Жүйелік сұхбатын қолданып, баспаға шығару.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Веб-сайттарды шолуға тыйым салады. Пішімі туралы көбірек білу үшін, құжаттаманы қараңыз.
 policy-Windows10SSO = Microsoft, жұмыс және мектеп есептік жазбаларына Windows дара кіруін рұқсат ету.
