@@ -603,3 +603,35 @@ unverified-reply = La parte del mensaje indentada (respuesta) fue probablemente 
 key-in-message-body = Se encontró una clave en el cuerpo del mensaje. Haga clic en ‘Importar clave’ para importar la clave.
 sig-mismatch = Error - Discrepancia en la firma
 invalid-email = Error - dirección o direcciones de correo no válidas
+attachment-pgp-key =
+    El adjunto '{ $name }' que está abriendo parece ser un archivo de claves OpenPGP.
+    Haga clic en 'Importar' para importar las claves que contiene o 'Ver' para ver los contenidos del archivo en una ventana del navegador
+dlg-button-view = &Ver
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Mensaje descifrado (el formato de correo electrónico PGP roto restaurado probablemente causado por un antiguo servidor de Exchange, por lo que el resultado podría no ser perfecto para leer)
+# Strings used in encryption.jsm
+not-required = Error - no se requiere cifrado
+# Strings used in windows.jsm
+no-photo-available = No hay foto disponible
+error-photo-path-not-readable = La ruta de la foto ‘{ $photo }’ no es legible
+debug-log-title = Registro de depuración de OpenPGP
+# Strings used in dialog.jsm
+repeat-prefix = Esta alerta se repetirá { $count }
+repeat-suffix-singular = más tiempo.
+repeat-suffix-plural = más veces.
+no-repeat = Esta alerta no se volverá a mostrar.
+dlg-keep-setting = Recordar mi respuesta y no volver a preguntarme
+dlg-button-ok = &Aceptar
+dlg-button-close = &Cerrar
+dlg-button-cancel = &Cancelar
+dlg-no-prompt = No volver a mostrarme esta diálogo.
+enig-prompt = Aviso de OpenPGP
+enig-confirm = Confirmación de OpenPGP
+enig-alert = Alerta de OpenPGP
+enig-info = Información de OpenPGP
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Reintentar
+dlg-button-skip = &Omitir
+# Strings used in enigmailMsgBox.js
+enig-alert-title =
+    .title = Alerta de OpenPGP
