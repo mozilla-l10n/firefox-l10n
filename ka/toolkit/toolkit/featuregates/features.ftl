@@ -24,7 +24,7 @@ experimental-features-css-constructable-stylesheets =
 experimental-features-css-constructable-stylesheets-description = აგებულების შემსწორებლის დამატება <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>-გარსზე, აგრეთვე მასთან დაკავშირებული სხვა მრავალი ცვლილება, შესაძლებელს ხდის პირდაპირ შეიქმნას სტილის ახალი ცხრილები, HTML-ზე დართვის გარეშე. რაც მეტად გააადვილებს, მრავალჯერადი გამოყენების სტილის ცხრილების შექმნას, <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>-თან გამოსაყენებლად. ვრცლად, იხილეთ <a data-l10n-name="bugzilla">საკითხი 1520690</a>.
 experimental-features-devtools-compatibility-panel =
     .label = Developer Tools: Compatibility Panel
-experimental-features-devtools-compatibility-panel-description = გვერდითი არე საიტის დაკვირვების ხელსაწყოში, რომელიც აჩვენებს დაწვრილებით მონაცემებს აპლიკაციის მრავალ ბრაუზერთან თავსებადობის მდგომარეობას. ვრცლად, იხილეთ <a data-l10n-name="bugzilla">საკითხი 1584464</a>.
+experimental-features-devtools-compatibility-panel-description = საიტის გამოკვლევის ხელსაწყოს გვერდითი არე, რომელიც დაწვრილებით აჩვენებს აპლიკაციის სხვადასხვა ბრაუზერთან თავსებადობის მდგომარეობას. ვრცლად იხილეთ <a data-l10n-name="bugzilla">საკითხი 1584464</a>.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = ფუნთუშები: SameSite=Lax ნაგულისხმევად
