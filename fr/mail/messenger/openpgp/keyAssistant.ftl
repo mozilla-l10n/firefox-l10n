@@ -37,7 +37,40 @@ openpgp-key-assistant-resolve-title =
     }
 openpgp-key-assistant-valid-description = Sélectionnez la clé que vous souhaitez accepter
 openpgp-key-assistant-no-key-available = Aucune clé disponible.
+openpgp-key-assistant-multiple-keys = Plusieurs clés sont disponibles.
+# Variables:
+# $count (Number) - The number of unaccepted keys.
+openpgp-key-assistant-key-unaccepted =
+    { $count ->
+        [one] Une clé est disponible, mais elle n’a pas encore été acceptée.
+       *[other] Plusieurs clés sont disponibles, mais aucune d’entre elles n’a encore été acceptée.
+    }
+# Variables:
+# $date (String) - The expiration date of the key.
+openpgp-key-assistant-key-accepted-expired = Une clé acceptée a expiré le { $date }.
+openpgp-key-assistant-keys-accepted-expired = Plusieurs clés acceptées ont expiré.
+# Variables:
+# $date (String) - The expiration date of the key.
+openpgp-key-assistant-this-key-accepted-expired = Cette clé a été acceptée mais a expiré le { $date }.
+# Variables:
+# $date (String) - The expiration date of the key.
+openpgp-key-assistant-key-unaccepted-expired-one = La clé a expiré le { $date }.
+openpgp-key-assistant-key-unaccepted-expired-many = Plusieurs clés ont expiré.
+openpgp-key-assistant-key-fingerprint = Empreinte numérique
+openpgp-key-assistant-key-source =
+    { $count ->
+        [one] Source
+       *[other] Sources
+    }
+openpgp-key-assistant-key-collected-attachment = pièce jointe
+openpgp-key-assistant-key-collected-autocrypt = En-tête Autocrypt
 openpgp-key-assistant-key-collected-keyserver = Serveur de clés
+openpgp-key-assistant-key-collected-wkd = Annuaire de clés web
+openpgp-key-assistant-keys-has-collected =
+    { $count ->
+        [one] Une clé a été trouvée mais n’a pas encore été acceptée.
+       *[other] Plusieurs clés ont été trouvées mais aucune d’entre elles n’a encore été acceptée.
+    }
 
 ## Discovery section
 
