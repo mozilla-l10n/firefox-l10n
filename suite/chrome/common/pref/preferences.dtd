@@ -47,7 +47,7 @@
 <!ENTITY scriptsAndWindows2.label "სკრიპტები">
 <!ENTITY keynav.label "კლავიატურა">
 <!ENTITY findAsYouType.label "ძიება ტექსტის შეტანისას">
-<!ENTITY cache.label "ბუფერი">
+<!ENTITY cache.label "მარაგი">
 <!ENTITY offlineApps.label "ლოკალური პროგრამა">
 <!ENTITY proxies.label "პროქსი სერვერები">
 <!ENTITY httpnetworking.label "HTTP პარამეტრები">

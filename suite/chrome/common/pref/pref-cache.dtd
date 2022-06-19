@@ -13,12 +13,12 @@
 <!ENTITY diskCacheUpTo.label             "ზომა:">
 <!ENTITY diskCacheUpTo.accesskey         "U">
 <!ENTITY spaceMbytes                     "მეგაბაიტამდე">
-<!ENTITY diskCacheFolder.label           "ბუფერის საქაღალდის მისამართი:">
-<!ENTITY clearDiskCache.label            "ბუფერის გასუფთავება">
+<!ENTITY diskCacheFolder.label           "მარაგის საქაღალდის მისამართი:">
+<!ENTITY clearDiskCache.label            "მარაგის გასუფთავება">
 <!ENTITY clearDiskCache.accesskey        "C">
 <!ENTITY chooseDiskCacheFolder.label     "საქაღალდის არჩევა…">
 <!ENTITY chooseDiskCacheFolder.accesskey "F">
-<!ENTITY diskCacheFolderExplanation      "ბუფერის ფაილები შეინახება თქვენ მიერ მითითებული საქაღალდის &quot;ბუფერი&quot; ქვესაქაღალდეში. ცვლილებები ამოქმედდება &brandShortName;-ს ახალი სეანსის შემდეგ.">
+<!ENTITY diskCacheFolderExplanation      "მარაგი შეინახება თქვენ მიერ მითითებული საქაღალდის ქვესაქაღალდეში დასახელებით &quot;Cache&quot;. ცვლილებების ასახვისთვის ხელახლა გაუშვით &brandShortName;.">
 <!ENTITY docCache.label                  "ბუფერში განთავსებული გვერდის ქსელურ ვერსიასთან შედარება:">
 <!ENTITY docCache.accesskey              "m">
 <!ENTITY checkOncePerSession.label       "სეანსში ერთხელ">
