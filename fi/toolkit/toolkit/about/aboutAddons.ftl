@@ -286,6 +286,7 @@ theme-disabled-heading = Ei käytössä
 theme-disabled-heading2 = Tallennetut teemat
 theme-monochromatic-heading = Väriteemat
 theme-monochromatic-subheading = Eloisat uudet väriteemat { -brand-product-name }ilta. Saatavilla rajoitetun ajan.
+theme-colorways-button = Kokeile väriteemoja
 plugin-enabled-heading = Käytössä
 plugin-disabled-heading = Ei käytössä
 dictionary-enabled-heading = Käytössä

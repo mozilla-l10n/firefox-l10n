@@ -13,6 +13,7 @@
 policy-3rdparty = Aseta käytäntöjä, joita WebExtensionit voivat käyttää chrome.storage.managed-objektin kautta.
 policy-AllowedDomainsForApps = Määritä verkkotunnukset, joilla on pääsy Google Workspaceen.
 policy-AppAutoUpdate = Käytä tai poista käytöstä sovelluksen automaattiset päivitykset.
+policy-AppUpdatePin = Estä { -brand-short-name }in päivitykset määritettyä versiota uudemmaksi.
 policy-AppUpdateURL = Aseta oma sovelluksen päivittämisen URL-osoite.
 policy-Authentication = Määritä sisäänrakennettu tunnistautuminen sivustoille, jotka tukevat sitä.
 policy-AutoLaunchProtocolsFromOrigins = Määritä lista ulkoisista yhteyskäytännöistä, joita voi käyttää määrätyistä lähteistä kysymättä lupaa käyttäjältä.
