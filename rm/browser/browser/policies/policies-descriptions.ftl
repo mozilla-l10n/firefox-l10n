@@ -113,8 +113,10 @@ policy-SecurityDevices = Installar moduls PKCS #11.
 policy-ShowHomeButton = Mussar il buttun da la pagina da partenza en la trav d'utensils.
 policy-SSLVersionMax = Definir la versiun maximala da SSL.
 policy-SSLVersionMin = Definir la versiun minimala da SSL.
+policy-StartDownloadsInTempDirectory = Sfurzar las telechargias en in lieu local, temporar empè da las cumenzar en l'ordinatur da telechargiadas predefinì.
 policy-SupportMenu = Agiuntar in element da menu persunalisà en il menu d'agid.
 policy-UserMessaging = Betg mussar tscherts messadis a l'utilisader.
+policy-UseSystemPrintDialog = Stampar cun agid dal dialog da stampa dal sistem.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Impedir l'access a tschertas websites. Consultar la documentaziun per ulteriuras infurmaziuns davart il format.
 policy-Windows10SSO = Permetter l'utilisaziun da Windows single sign-on per ils contos Microsoft, da scola e da fatschenta.
