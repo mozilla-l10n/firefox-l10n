@@ -33,7 +33,9 @@ about-private-browsing-focus-promo-text = Yksityisyydelle omistettu mobiiliselai
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = Vie yksityinen selaaminen puhelimeesi
+about-private-browsing-focus-promo-text-b = Käytä { -focus-brand-name }ia niitä yksityisiä hakuja varten, joita et halua ensisijaisen mobiiliselaimesi näkevän.
 about-private-browsing-focus-promo-header-c = Seuraavan tason yksityisyyttä mobiilissa
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } tyhjentää selaushistorian jokaisen käyttökerran jälkeen samalla estäen mainokset ja seuraimet.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
