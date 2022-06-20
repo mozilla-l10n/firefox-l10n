@@ -73,9 +73,43 @@ openpgp-key-assistant-key-collected-attachment = e-kirja manus
 openpgp-key-assistant-key-collected-autocrypt = Automaatkrüpti päis
 openpgp-key-assistant-key-collected-keyserver = võtmeserver
 openpgp-key-assistant-key-collected-wkd = Veebi võtmekataloog
+openpgp-key-assistant-keys-has-collected =
+    { $count ->
+        [one] Leiti võti, aga seda pole veel kinnitatud.
+       *[other] Leiti mitu võtit, aga ühtki neist pole veel kinnitatud.
+    }
+openpgp-key-assistant-key-rejected = See võti on varasemalt tagasi lükatud.
+openpgp-key-assistant-key-accepted-other = See võti on varasemalt kinnitatud teise e-posti aadressi jaoks.
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+openpgp-key-assistant-resolve-discover-info = Avasta täiendavaid või uuendatud võtmeid kontakti { $recipient } jaoks võrgust, või impordi need failist.
 
 ## Discovery section
 
+openpgp-key-assistant-discover-title = Võrgust avastamine on pooleli.
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-discover-keys = Võtmete leidmine kontakti { $recipient } jaoks…
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-expired-key-update =
+    Leiti uuendus ühe varem kinnitatud võtme jaoks kontaktile { $recipient }.
+    Seda saab nüüd kasutada, sest see pole enam aegunud.
 
 ## Dialog buttons
 
+openpgp-key-assistant-discover-online-button = Avasta avalikke võtmeid võrgust…
+openpgp-key-assistant-import-keys-button = Impordi avalikud võtmed failist…
+openpgp-key-assistant-issue-resolve-button = Lahenda…
+openpgp-key-assistant-view-key-button = Vaata võtit…
+openpgp-key-assistant-recipients-show-button = Kuva
+openpgp-key-assistant-recipients-hide-button = Peida
+openpgp-key-assistant-cancel-button = Loobu
+openpgp-key-assistant-back-button = Tagasi
+openpgp-key-assistant-accept-button = Kinnita
+openpgp-key-assistant-close-button = Sulge
+openpgp-key-assistant-disable-button = Keela krüptimine
+openpgp-key-assistant-confirm-button = Saada krüptitult
+# Variables:
+# $date (String) - The key creation date.
+openpgp-key-assistant-key-created = loodud { $date }
