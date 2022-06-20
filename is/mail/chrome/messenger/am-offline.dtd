@@ -50,7 +50,7 @@
 <!ENTITY ageAutosyncBefore.label         "Samstilla nýjustu">
 <!ENTITY ageAutosync.accesskey           "t">
 <!ENTITY ageAutosyncMiddle.label         "">
-<!ENTITY dayAgeInterval.label            "Dagar">
+<!ENTITY dayAgeInterval.label            "daga">
 <!ENTITY weekAgeInterval.label           "Vikur">
 <!ENTITY monthAgeInterval.label          "Mánuðir">
 <!ENTITY yearAgeInterval.label           "Ár">
