@@ -296,6 +296,7 @@ theme-disabled-heading = Deaktiveret
 theme-disabled-heading2 = Gemte temaer
 theme-monochromatic-heading = Farvekombinationer
 theme-monochromatic-subheading = Dynamiske nye farvekombinationer fra { -brand-product-name }. Findes kun i begrænset tid.
+theme-colorways-button = Prøv farvekombinationer
 plugin-enabled-heading = Aktiveret
 plugin-disabled-heading = Deaktiveret
 dictionary-enabled-heading = Aktiveret
