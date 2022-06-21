@@ -87,7 +87,7 @@ vcard-adr-street = Adresse postale
 # Or "Locality"
 vcard-adr-locality = Ville
 # Or "Region"
-vcard-adr-region = État
+vcard-adr-region = Département/région
 # The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
 vcard-adr-code = Code postal
 vcard-adr-country = Pays
@@ -102,5 +102,5 @@ vcard-note-add = Ajouter une note
 vcard-org-header = Propriétés organisationnelles
 vcard-org-add = Ajouter des propriétés organisationnelles
 vcard-org-title = Fonction
-vcard-org-role = Fonction
+vcard-org-role = Rôle
 vcard-org-org = Société

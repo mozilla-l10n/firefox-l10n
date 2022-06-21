@@ -45,14 +45,14 @@ about-addressbook-confirm-delete-book = Voulez-vous vraiment supprimer { $name }
 about-addressbook-confirm-remove-remote-book-title = Supprimer le carnet d’adresses
 # Variables:
 # $name (String) - Name of the remote address book to be removed.
-about-addressbook-confirm-remove-remote-book = Voulez-vous vraiment supprimer{ $name } ?
+about-addressbook-confirm-remove-remote-book = Voulez-vous vraiment supprimer { $name } ?
 
 ## Cards
 
 # Variables:
 # $name (String) - Name of the address book that will be searched.
 about-addressbook-search =
-    .placeholder = Rechercher { $name }
+    .placeholder = Rechercher dans { $name }
 about-addressbook-search-all =
     .placeholder = Rechercher dans tous les carnets d’adresses
 about-addressbook-sort-button2 =
@@ -182,14 +182,14 @@ about-addressbook-details-addresses-header = Adresses
 about-addressbook-details-notes-header = Notes
 about-addressbook-details-other-info-header = Autres informations
 about-addressbook-entry-type-work = Professionnel
-about-addressbook-entry-type-home = Accueil
+about-addressbook-entry-type-home = Domicile
 about-addressbook-entry-type-fax = Fax
 about-addressbook-entry-type-cell = Téléphone portable
 about-addressbook-entry-type-pager = Pager
 about-addressbook-entry-name-birthday = Anniversaire
 about-addressbook-entry-name-anniversary = Date d’anniversaire
 about-addressbook-entry-name-title = Fonction
-about-addressbook-entry-name-role = Fonction
+about-addressbook-entry-name-role = Rôle
 about-addressbook-entry-name-organization = Société
 about-addressbook-entry-name-website = Site web
 about-addressbook-entry-name-time-zone = Fuseau horaire
