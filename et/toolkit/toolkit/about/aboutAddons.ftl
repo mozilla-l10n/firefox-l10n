@@ -283,6 +283,10 @@ theme-disabled-heading2 = Salvestatud teemad
 theme-monochromatic-heading = Värvivalikud
 theme-monochromatic-subheading = Uued erksad värvid { -brand-product-name }ilt. Saadaval piiratud aja jooksul.
 theme-colorways-button = Proovi värvivalikuid
+colorway-collection-independent-voices-subheading = Tee { -brand-short-name } natuke rohkem enda omaks.
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires.
+colorway-collection-expiry-date-span = Aegub { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Lubatud
 plugin-disabled-heading = Keelatud
 dictionary-enabled-heading = Lubatud
