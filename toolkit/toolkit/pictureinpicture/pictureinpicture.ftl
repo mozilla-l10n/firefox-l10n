@@ -3,20 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = 화면 속 화면
-
 pictureinpicture-pause =
     .aria-label = 정지
 pictureinpicture-play =
     .aria-label = 재생
-
 pictureinpicture-mute =
     .aria-label = 음소거
 pictureinpicture-unmute =
     .aria-label = 음소거 해제
-
 pictureinpicture-unpip =
     .aria-label = 탭으로 다시 보내기
-
 pictureinpicture-close =
     .aria-label = 닫기
-
+pictureinpicture-subtitles-label = 자막
+pictureinpicture-font-size-label = 글꼴 크기
+pictureinpicture-font-size-small = 작게
+pictureinpicture-font-size-medium = 보통
+pictureinpicture-font-size-large = 크게
