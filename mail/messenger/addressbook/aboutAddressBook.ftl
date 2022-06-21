@@ -69,10 +69,38 @@ about-addressbook-sort-email-ascending =
     .label = Sorter efter mailadresse (A > Å)
 about-addressbook-sort-email-descending =
     .label = Sorter efter mailadresse (Å > A)
+about-addressbook-horizontal-layout =
+    .label = Skift til vandret layout
+about-addressbook-vertical-layout =
+    .label = Skift til lodret layout
 
 ## Card column headers
 ## Each string is listed here twice, and the values should match.
 
+about-addressbook-column-header-generatedname = Navn
+about-addressbook-column-label-generatedname =
+    .label = { about-addressbook-column-header-generatedname }
+about-addressbook-column-header-emailaddresses = Mailadresser
+about-addressbook-column-label-emailaddresses =
+    .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-phonenumbers = Telefonnumre
+about-addressbook-column-label-phonenumbers =
+    .label = { about-addressbook-column-header-phonenumbers }
+about-addressbook-column-header-addresses = Adresser
+about-addressbook-column-label-addresses =
+    .label = { about-addressbook-column-header-addresses }
+about-addressbook-column-header-title = Titel
+about-addressbook-column-label-title =
+    .label = { about-addressbook-column-header-title }
+about-addressbook-column-header-department = Afdeling
+about-addressbook-column-label-department =
+    .label = { about-addressbook-column-header-department }
+about-addressbook-column-header-organization = Organisation
+about-addressbook-column-label-organization =
+    .label = { about-addressbook-column-header-organization }
+about-addressbook-column-header-addrbook = Adressebog
+about-addressbook-column-label-addrbook =
+    .label = { about-addressbook-column-header-addrbook }
 about-addressbook-cards-context-write =
     .label = Skriv
 about-addressbook-confirm-delete-mixed-title = Slet kontakter og lister
@@ -129,15 +157,28 @@ about-addressbook-confirm-delete-contacts =
 ## Card list placeholder
 ## Shown when there are no cards in the list
 
+about-addressbook-placeholder-new-contact = Ny kontakt
+about-addressbook-placeholder-search-only = Denne adressebog viser kun kontakter efter en søgning
+about-addressbook-placeholder-searching = Søger…
+about-addressbook-placeholder-no-search-results = Ingen kontakter fundet
 
 ## Details
 
+about-addressbook-write-action-button = Skriv
+about-addressbook-event-action-button = Begivenhed
+about-addressbook-search-action-button = Søg
 about-addressbook-begin-edit-contact-button = Rediger
+about-addressbook-delete-edit-contact-button = Slet
 about-addressbook-cancel-edit-contact-button = Annuller
 about-addressbook-save-edit-contact-button = Gem
+about-addressbook-add-contact-to = Føj til:
 about-addressbook-details-email-addresses-header = Mailadresser
 about-addressbook-details-phone-numbers-header = Telefonnumre
+about-addressbook-details-addresses-header = Adresser
+about-addressbook-details-notes-header = Noter
 about-addressbook-details-other-info-header = Anden information
+about-addressbook-entry-type-work = Arbejde
+about-addressbook-entry-type-home = Hjem
 about-addressbook-unsaved-changes-prompt-title = Ugemte ændringer
 about-addressbook-unsaved-changes-prompt = Vil du gemme dine ændringer, inden du forlader redigeringsvisningen?
 
