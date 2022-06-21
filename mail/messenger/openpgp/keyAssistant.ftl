@@ -36,6 +36,13 @@ openpgp-key-assistant-resolve-title =
        *[other] { -brand-short-name } a trouvé les clés suivantes pour { $recipient }.
     }
 openpgp-key-assistant-valid-description = Sélectionnez la clé que vous souhaitez accepter
+# Variables:
+# $numKeys (Number) - The number of available keys.
+openpgp-key-assistant-invalid-title =
+    { $numKeys ->
+        [one] La clé suivante ne peut pas être utilisée sans avoir obtenu au préalable une mise à jour de la clé.
+       *[other] Les clés suivantes ne peuvent pas être utilisées sans avoir obtenu au préalable une mise à jour des clés.
+    }
 openpgp-key-assistant-no-key-available = Aucune clé disponible.
 openpgp-key-assistant-multiple-keys = Plusieurs clés sont disponibles.
 # Variables:
@@ -63,14 +70,17 @@ openpgp-key-assistant-key-source =
        *[other] Sources
     }
 openpgp-key-assistant-key-collected-attachment = pièce jointe
+# Autocrypt is the name of a standard.
 openpgp-key-assistant-key-collected-autocrypt = En-tête Autocrypt
 openpgp-key-assistant-key-collected-keyserver = Serveur de clés
+# Web Key Directory (WKD) is a concept.
 openpgp-key-assistant-key-collected-wkd = Annuaire de clés web
 openpgp-key-assistant-keys-has-collected =
     { $count ->
         [one] Une clé a été trouvée mais n’a pas encore été acceptée.
        *[other] Plusieurs clés ont été trouvées mais aucune d’entre elles n’a encore été acceptée.
     }
+openpgp-key-assistant-key-rejected = Cette clé a été rejetée précédemment.
 openpgp-key-assistant-key-accepted-other = Cette clé a déjà été associée à une autre adresse électronique.
 # Variables:
 # $recipient (String) - The email address of the recipient needing resolution.
