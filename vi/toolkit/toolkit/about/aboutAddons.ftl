@@ -293,6 +293,10 @@ theme-disabled-heading2 = Chủ đề đã lưu
 theme-monochromatic-heading = Màu
 theme-monochromatic-subheading = Các phối màu mới sống động từ { -brand-product-name }. Có sẵn trong một thời gian giới hạn.
 theme-colorways-button = Thử Colorways
+colorway-collection-independent-voices-subheading = Biến { -brand-short-name } thành của riêng bạn nhiều hơn một chút.
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires.
+colorway-collection-expiry-date-span = Hết hạn vào { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Đã bật
 plugin-disabled-heading = Đã tắt
 dictionary-enabled-heading = Đã bật
