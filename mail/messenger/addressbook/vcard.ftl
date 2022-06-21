@@ -77,9 +77,21 @@ vcard-date-year = År
 vcard-adr-header = Adresser
 vcard-adr-add = Tilføj adresse
 vcard-adr-label = Adresse
+vcard-adr-pobox = Postboks
+vcard-adr-street = Postadresse
+# Or "Locality"
+vcard-adr-locality = By
+# Or "Region"
+vcard-adr-region = Stat/provins
+# The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
+vcard-adr-code = Postnummer
+vcard-adr-country = Land
 
 # NOTE vCard field
 
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-title = Titel
+vcard-org-role = Rolle
+vcard-org-org = Organisation
