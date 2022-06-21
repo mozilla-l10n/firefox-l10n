@@ -3,20 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = תמונה בתוך תמונה
-
 pictureinpicture-pause =
     .aria-label = השהיה
 pictureinpicture-play =
     .aria-label = ניגון
-
 pictureinpicture-mute =
     .aria-label = השתקה
 pictureinpicture-unmute =
     .aria-label = ביטול השתקה
-
 pictureinpicture-unpip =
     .aria-label = חזרה ללשונית
-
 pictureinpicture-close =
     .aria-label = סגירה
-
+pictureinpicture-subtitles-label = כתוביות
+pictureinpicture-font-size-label = גודל גופן
+pictureinpicture-font-size-small = קטן
+pictureinpicture-font-size-medium = בינוני
+pictureinpicture-font-size-large = גדול
