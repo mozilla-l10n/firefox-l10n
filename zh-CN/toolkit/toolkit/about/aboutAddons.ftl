@@ -282,6 +282,7 @@ theme-disabled-heading2 = 保存的主题
 theme-monochromatic-heading = 配色
 theme-monochromatic-subheading = 元气满满的 { -brand-product-name } 新配色，限时提供。
 theme-colorways-button = 配色随心换
+colorway-collection-independent-voices-subheading = 活力十足的 { -brand-short-name }。
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = { DATETIME($expiryDate, month: "long", day: "numeric") }到期
