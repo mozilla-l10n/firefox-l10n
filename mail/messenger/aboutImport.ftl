@@ -60,6 +60,14 @@ profiles-pane-title-seamonkey = Importer indstillinger og data fra en { app-name
 profiles-pane-title-outlook = Importer data fra { app-name-outlook }.
 profiles-pane-title-becky = Importer data fra { app-name-becky }.
 profiles-pane-title-apple-mail = Importer meddelelser fra { app-name-apple-mail }.
+profile-source = Importer fra profil
+profile-file-picker-directory = Vælg en profilmappe
+profile-file-picker-archive = Vælg en <strong>ZIP-komprimeret</strong> fil
+profile-file-picker-archive-description = Den ZIP-komprimerede fil skal være mindre end 2GB.
+profile-file-picker-archive-title = Vælg en ZIP-komprimeret fil (mindre end 2GB)
+items-pane-title2 = Vælg, hvad der skal importeres:
+items-pane-directory = Mappe:
+items-pane-profile-name = Profilnavn:
 items-pane-checkbox-accounts = Konti og indstillinger
 items-pane-checkbox-address-books = Adressebøger
 items-pane-checkbox-calendars = Kalendere
@@ -76,22 +84,48 @@ addr-book-file-picker = Vælg en adressebogsfil
 addr-book-csv-field-map-title = Match feltnavne
 addr-book-csv-field-map-desc = Vælg adressebogsfelter, der svarer til kildefelterne. Fjern fluebenene ud for felter, du ikke vil importere.
 addr-book-directories-pane-source = Kildefil:
+# $addressBookName (string) - name of the new address book that would be created.
+addr-book-import-into-new-directory2 = Opret en ny mappe med navnet <strong>"{ $addressBookName }"</strong>
+# $addressBookName (string) - name of the address book to import into
+addr-book-summary-title = Importer de valgte data til mappen <strong>"{ $addressBookName }"</strong>
+# $addressBookName (string) - name of the address book that will be created.
+addr-book-summary-description = En ny adressebog med navnet "{ $addressBookName }" vil blive oprettet.
 
 ## Import from calendar file steps
 
 import-from-calendar-file-desc = Vælg den iCalendar (.ics)-fil, du ønsker at importere.
+calendar-items-title = Vælg hvilke elementer, der skal importeres.
 calendar-items-loading = Indlæser elementer…
 calendar-items-filter-input =
     .placeholder = Filtrer elementer...
 calendar-select-all-items = Vælg alle
 calendar-deselect-all-items = Fravælg alle
+# $targetCalendar (string) - name of the new calendar that would be created
+calendar-import-into-new-calendar2 = Opret en ny kalender med navnet <strong>"{ $targetCalendar }"</strong>
+# $itemCount (number) - count of selected items (tasks, events) that will be imported
+# $targetCalendar (string) - name of the calendar the items will be imported into
+calendar-summary-title =
+    { $itemCount ->
+        [one] Importer et element til kalenderen "{ $targetCalendar }"
+       *[other] Importer { $itemCount } elementer til kalenderen "{ $targetCalendar }"
+    }
+# $targetCalendar (string) - name of the calendar that will be created
+calendar-summary-description = En ny kalender med navnet "{ $targetCalendar }" vil blive oprettet.
 
 ## Import dialog
 
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-importing2 = Importerer… { $progressPercent }
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-exporting2 = Eksporterer… { $progressPercent }
+progress-pane-finished-desc2 = Fuldført.
 error-pane-title = Fejl
+error-message-zip-file-too-big2 = Den valgte ZIP-komprimerede fil er større end 2GB. Udpak først filen, og importer derefter fra den udpakkede mappe i stedet.
+error-message-extract-zip-file-failed2 = Kunne ikke udpakke den ZIP-komprimerede fil. Udpak filen manuelt, og importer derefter fra den udpakkede mappe i stedet.
 error-message-failed = Importen mislykkedes uventet. Flere oplysninger er muligvis tilgængelige i fejlkonsollen.
 error-failed-to-parse-ics-file = Fandt ingen elementer at importere i filen.
 error-export-failed = Eksporten mislykkedes uventet. Flere oplysninger er muligvis tilgængelige i fejlkonsollen.
+error-message-no-profile = Ingen profil fundet.
 
 ## <csv-field-map> element
 
@@ -103,14 +137,23 @@ csv-target-field = Adressebogsfelt
 
 ## Export tab
 
+export-profile-title = Eksporter konti, meddelelser, adressebøger og indstillinger til en ZIP-komprimeret fil.
 export-open-profile-folder = Åbn profilmappen
+export-file-picker2 = Eksporter til en ZIP-komprimeret fil
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-start = Start import
 
 ## Footer area
 
+footer-help = Har du brug for hjælp?
+footer-support-forum = Supportforum
 
 ## Step navigation on top of the wizard pages
 
+step-confirm = Bekræft
+# Variables:
+# $number (number) - step number
+step-count = { $number }
