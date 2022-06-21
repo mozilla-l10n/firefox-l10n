@@ -135,7 +135,7 @@ message-header-recipient-avatar =
 
 message-header-customize-panel-title = Indstillinger for meddelelseshoved
 message-header-customize-button-style =
-    .value = Knapstil
+    .value = Knapudseende
     .accesskey = K
 message-header-button-style-default =
     .label = Ikoner og tekst
