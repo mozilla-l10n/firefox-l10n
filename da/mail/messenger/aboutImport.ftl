@@ -165,6 +165,8 @@ summary-pane-start-over = Genstart importværktøjet
 ## Footer area
 
 footer-help = Har du brug for hjælp?
+footer-import-documentation = Dokumentation om import
+footer-export-documentation = Dokumentation om eksport
 footer-support-forum = Supportforum
 
 ## Step navigation on top of the wizard pages
