@@ -3,20 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Imagine-in-imagine
-
 pictureinpicture-pause =
     .aria-label = Pausar
 pictureinpicture-play =
     .aria-label = Reproducer
-
 pictureinpicture-mute =
     .aria-label = Silentiar
 pictureinpicture-unmute =
     .aria-label = Non plus silentiar
-
 pictureinpicture-unpip =
     .aria-label = Inviar retro al scheda
-
 pictureinpicture-close =
     .aria-label = Clauder
-
+pictureinpicture-font-size-small = Micre
+pictureinpicture-font-size-medium = Medie
+pictureinpicture-font-size-large = Grande
