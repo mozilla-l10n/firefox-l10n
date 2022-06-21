@@ -5,6 +5,7 @@
 
 # Display Name
 
+vcard-displayname = Visningsnavn
 vcard-displayname-placeholder =
     .placeholder = { vcard-displayname }
 
@@ -40,6 +41,7 @@ vcard-n-add-suffix =
 vcard-email-header = Mailadresser
 vcard-email-add = Tilføj mailadresse
 vcard-email-label = Mailadresse
+vcard-primary-email-label = Standard
 
 # URL vCard field
 
@@ -66,6 +68,8 @@ vcard-impp-label = Chat-konto
 
 # BDAY and ANNIVERSARY vCard field
 
+vcard-bday-anniversary-header = Særlige datoer
+vcard-bday-anniversary-add = Tilføj særlig dato
 vcard-bday-label = Fødselsdag
 vcard-anniversary-label = Jubilæum
 vcard-date-day = Dag
@@ -77,7 +81,9 @@ vcard-date-year = År
 vcard-adr-header = Adresser
 vcard-adr-add = Tilføj adresse
 vcard-adr-label = Adresse
+vcard-adr-delivery-label = Leveringsetiket
 vcard-adr-pobox = Postboks
+vcard-adr-ext = Udvidet adresse
 vcard-adr-street = Postadresse
 # Or "Locality"
 vcard-adr-locality = By
@@ -89,9 +95,13 @@ vcard-adr-country = Land
 
 # NOTE vCard field
 
+vcard-note-header = Noter
+vcard-note-add = Tilføj note
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-header = Organisatoriske egenskaber
+vcard-org-add = Tilføj organisatoriske egenskaber
 vcard-org-title = Titel
 vcard-org-role = Rolle
 vcard-org-org = Organisation
