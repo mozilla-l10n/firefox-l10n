@@ -295,6 +295,10 @@ theme-disabled-heading2 = Mentett témák
 theme-monochromatic-heading = Színvilágok
 theme-monochromatic-subheading = Élénk új színvilágok a { -brand-product-name }tól. Korlátozott ideig elérhető.
 theme-colorways-button = Próbálja ki a színvilágokat
+colorway-collection-independent-voices-subheading = Formálja a saját ízlésének megfelelőre a { -brand-short-name }ot.
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires.
+colorway-collection-expiry-date-span = Lejárat: { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Engedélyezve
 plugin-disabled-heading = Tiltva
 dictionary-enabled-heading = Engedélyezve
