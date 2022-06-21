@@ -293,6 +293,10 @@ theme-disabled-heading2 = Themâu wedi'u Cadw
 theme-monochromatic-heading = Llwybrau lliw
 theme-monochromatic-subheading = Llwybrau lliw newydd bywiog gan { -brand-product-name }. Ar gael am gyfnod cyfyngedig.
 theme-colorways-button = Rhowch gynnig ar Colorways
+colorway-collection-independent-voices-subheading = Gwnewch i { -brand-short-name } deimlo ychydig yn fwy perthyn i chi.
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires.
+colorway-collection-expiry-date-span = Yn dod i ben{ DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Galluogwyd
 plugin-disabled-heading = Analluogwyd
 dictionary-enabled-heading = Galluogwyd
