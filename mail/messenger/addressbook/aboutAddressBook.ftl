@@ -179,6 +179,16 @@ about-addressbook-details-notes-header = Noter
 about-addressbook-details-other-info-header = Anden information
 about-addressbook-entry-type-work = Arbejde
 about-addressbook-entry-type-home = Hjem
+about-addressbook-entry-type-fax = Fax
+about-addressbook-entry-type-cell = Mobil
+about-addressbook-entry-type-pager = Personsøger
+about-addressbook-entry-name-birthday = Fødselsdag
+about-addressbook-entry-name-anniversary = Jubilæum
+about-addressbook-entry-name-title = Titel
+about-addressbook-entry-name-role = Rolle
+about-addressbook-entry-name-organization = Organisation
+about-addressbook-entry-name-website = Websted
+about-addressbook-entry-name-time-zone = Tidszone
 about-addressbook-unsaved-changes-prompt-title = Ugemte ændringer
 about-addressbook-unsaved-changes-prompt = Vil du gemme dine ændringer, inden du forlader redigeringsvisningen?
 
