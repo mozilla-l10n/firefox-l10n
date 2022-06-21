@@ -34,11 +34,9 @@ menu-quit =
             [windows] Y
            *[other] Y
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Yaltu { -brand-shorter-name }
-
 menu-about =
     .label = Baɗte { -brand-shorter-name }
     .accesskey = B
@@ -191,6 +189,8 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Maantore
     .accesskey = M
+menu-bookmark-current-tab =
+    .label = Maantoro Tabbere Wonaande
 menu-bookmark-edit =
     .label = Taƴto Ngol Maantorol
 menu-bookmarks-all-tabs =
@@ -239,15 +239,6 @@ menu-window-bring-all-to-front =
 # NOTE: For Engineers, any additions or changes to Help menu strings should
 # also be reflected in the related strings in appmenu.ftl. Those strings, by
 # convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
 # Example: appmenu-get-help
 #
 # These strings are duplicated to allow for different casing depending on
@@ -256,8 +247,14 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Ballal
     .accesskey = B
+menu-get-help =
+    .label = Heɓ Ballal
+    .accesskey = H
 menu-help-report-site-issue =
     .label = Jaŋto Caɗeele Lowre…
+menu-help-share-ideas =
+    .label = Wostondir Miijooji e Duttine...
+    .accesskey = s
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
