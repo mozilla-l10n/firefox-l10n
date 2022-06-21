@@ -181,6 +181,9 @@ openpgp-key-man-reload =
 openpgp-key-man-change-expiry =
     .label = Rediger udløbsdato
     .accesskey = e
+openpgp-key-man-refresh-online =
+    .label = Opdater online
+    .accesskey = O
 openpgp-key-man-ignored-ids =
     .label = Mailadresser
 openpgp-key-man-del-key =
@@ -236,11 +239,19 @@ openpgp-key-details-structure-tab =
 openpgp-key-details-uid-certified-col =
     .label = Bruger-id / Certificeret af
 openpgp-key-details-key-id-label = Nøgle-ID
+openpgp-key-details-user-id3-label = Påstået nøgleejer
 openpgp-key-details-id-label =
     .label = Id
 openpgp-key-details-key-type-label = Type
 openpgp-key-details-key-part-label =
     .label = Nøgledel
+openpgp-key-details-attr-ignored = Advarsel: Denne nøgle fungerer muligvis ikke som forventet, fordi nogle af dens egenskaber er usikre og kan blive ignoreret.
+openpgp-key-details-attr-upgrade-sec = Du bør opgradere de usikre egenskaber.
+openpgp-key-details-attr-upgrade-pub = Du bør bede ejeren af denne nøgle om at opgradere de usikre egenskaber.
+openpgp-key-details-upgrade-unsafe =
+    .label = Opgrader usikre egenskaber
+    .accesskey = p
+openpgp-key-details-upgrade-ok = Nøglen blev opgraderet. Du bør dele den opgraderede offentlige nøgle med dine korrespondenter.
 openpgp-key-details-algorithm-label =
     .label = Algoritme
 openpgp-key-details-size-label =
@@ -490,6 +501,9 @@ key-error-key-id-not-found = Det konfigurerede nøgle-id '{ $keySpec }' kan ikke
 key-error-not-accepted-as-personal = Du har ikke bekræftet, at nøglen med id'et '{ $keySpec }' er din personlige nøgle.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Den valgte funktion er ikke tilgængelig i offline-tilstand. Gå online og prøv igen.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found2 = Vi kunne ikke finde nogen brugbar nøgle, der matchede de angivne søgekriterier.
+no-update-found = Du har allerede de nøgler, der blev fundet online.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Fejl - kommandoen til nøgleudtrækning mislykkedes
 # Strings used in keyRing.jsm

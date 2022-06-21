@@ -55,6 +55,8 @@ about-addressbook-search =
     .placeholder = Søg i { $name }
 about-addressbook-search-all =
     .placeholder = Søg i alle adressebøger
+about-addressbook-sort-button2 =
+    .title = Listevisningsmuligheder
 about-addressbook-name-format-display =
     .label = Vist navn
 about-addressbook-name-format-firstlast =
@@ -157,6 +159,7 @@ about-addressbook-confirm-delete-contacts =
 ## Card list placeholder
 ## Shown when there are no cards in the list
 
+about-addressbook-placeholder-empty-book = Ingen tilgængelige kontakter
 about-addressbook-placeholder-new-contact = Ny kontakt
 about-addressbook-placeholder-search-only = Denne adressebog viser kun kontakter efter en søgning
 about-addressbook-placeholder-searching = Søger…
