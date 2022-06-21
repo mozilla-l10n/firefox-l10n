@@ -143,6 +143,15 @@ message-header-button-style-text =
     .label = Tekst
 message-header-button-style-icons =
     .label = Ikoner
+message-header-show-sender-full-address =
+    .label = Vis altid afsenderens fulde adresse
+    .accesskey = f
+message-header-show-recipient-avatar =
+    .label = Vis afsenderens profilbillede
+    .accesskey = p
+message-header-hide-label-column =
+    .label = Skjul kolonnen etiketter
+    .accesskey = E
 
 ## Action Button Context Menu
 
