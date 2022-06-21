@@ -23,12 +23,10 @@ newtab-topsites-edit-topsites-header = Taƴto Lowre Dowrowre
 newtab-topsites-title-label = Tiitoonde
 newtab-topsites-title-input =
     .placeholder = Naatnu tiitoonde
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Tappu walla ɗakku URL
 newtab-topsites-url-validation = URL Moƴƴo ina naamnaa
-
 newtab-topsites-image-url-label = Neɗɗin ngal natal URL
 newtab-topsites-use-image-link = Huutoro natal neɗɗinangal…
 newtab-topsites-image-validation = loowgol natal gallii. Enndir URL goɗɗo.
@@ -49,18 +47,17 @@ newtab-confirm-delete-history-p2 = Ngal baɗal waawaa firteede.
 
 ## Top Sites - Sponsored label
 
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = Uddit cuɓirgol
     .aria-label = Uddit cuɓirgol
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Momtu
     .aria-label = Momtu
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -121,17 +118,25 @@ newtab-menu-open-file = Uddit Fiilde
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
-newtab-label-visited = Yilliima
-newtab-label-bookmarked = Maantaa maanto deftere
-newtab-label-removed-bookmark = Maantorol omtaama
-newtab-label-recommended = Ina tiindii
+newtab-label-visited = Yillaama
+newtab-label-bookmarked = Maantoraama
+newtab-label-removed-bookmark = Maantorol motaama
+newtab-label-recommended = Jolɗum
 newtab-label-saved = Danndaama e { -pocket-brand-name }
 newtab-label-download = Awtaama
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Tammbaama
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#  $sponsor (String): This is the name of a sponsor
+newtab-label-sponsored-by = E ballal { $sponsor }
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#  $source (String): This is the name of a company or their domain
+#  $timeToRead (Number): This is the estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } hoj
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -164,12 +169,10 @@ newtab-section-header-pocket = Waggini ɗum ko { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Fuɗɗo wanngaade, min kolloymaa huunde e binndanɗe mawɗe ɗee, widewooji kañum e kelle goɗɗe ɗe njilliɗaa ko ɓooyaani walla maantoraaɗe ɗoo.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Rutto ɗoo goɗngol ngam daari goɗɗi { $provider }. A waawaa fadde ? Suvo tiitoonde lollunde ngam yiytude e geese hee daari goɗɗi.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -191,6 +194,7 @@ newtab-pocket-cta-text = Hisnu daari njiɗ-ɗaa nder { -pocket-brand-name }, ñi
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
