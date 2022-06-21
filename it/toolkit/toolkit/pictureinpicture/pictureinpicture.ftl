@@ -21,7 +21,11 @@ pictureinpicture-close =
   .aria-label = Chiudi
 
 pictureinpicture-subtitles-label = Sottotitoli
+
 pictureinpicture-font-size-label = Dimensione carattere
+
 pictureinpicture-font-size-small = Piccola
+
 pictureinpicture-font-size-medium = Media
+
 pictureinpicture-font-size-large = Grande
