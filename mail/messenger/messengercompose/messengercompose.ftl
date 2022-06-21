@@ -152,6 +152,9 @@ encryption-options-openpgp =
 encryption-options-smime =
     .label = S/MIME
     .tooltiptext = Vis eller skift S/MIME-krypteringsindstillingerne
+signing-toggle =
+    .label = Signer
+    .tooltiptext = Brug digital signering til denne meddelelse
 menu-openpgp =
     .label = OpenPGP
     .accesskey = O
@@ -188,6 +191,8 @@ key-notification-resolve =
     .label = Løs…
     .accesskey = L
     .tooltiptext = Åbn OpenPGP-nøgleassistent
+can-encrypt-smime-notification = S/MIME end to end-kryptering er mulig.
+can-encrypt-openpgp-notification = OpenPGP end to end-kryptering er mulig.
 
 ## Addressing Area
 
