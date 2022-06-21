@@ -68,6 +68,7 @@ openpgp-key-assistant-key-source =
         [one] Kilde
        *[other] Kilder
     }
+openpgp-key-assistant-key-collected-keyserver = nøgleserver
 
 ## Discovery section
 
