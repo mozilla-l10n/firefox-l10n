@@ -280,6 +280,10 @@ theme-disabled-heading2 = 儲存的佈景主題
 theme-monochromatic-heading = 配色
 theme-monochromatic-subheading = 活力滿點的 { -brand-product-name } 新配色，限時提供。
 theme-colorways-button = 嘗試 Colorways
+colorway-collection-independent-voices-subheading = 讓 { -brand-short-name } 更有您的風格。
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires.
+colorway-collection-expiry-date-span = 提供至 { DATETIME($expiryDate, month: "long", day: "numeric") } 為止
 plugin-enabled-heading = 啟用
 plugin-disabled-heading = 停用
 dictionary-enabled-heading = 啟用
