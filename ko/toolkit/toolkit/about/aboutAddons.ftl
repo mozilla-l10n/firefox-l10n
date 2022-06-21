@@ -284,6 +284,9 @@ theme-disabled-heading2 = 저장된 테마
 theme-monochromatic-heading = 컬러웨이
 theme-monochromatic-subheading = { -brand-product-name }의 생동감 넘치는 새로운 컬러웨이입니다. 제한된 시간 동안 사용할 수 있습니다.
 theme-colorways-button = 컬러웨이 체험
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires.
+colorway-collection-expiry-date-span = 만료 { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = 사용함
 plugin-disabled-heading = 사용 안 함
 dictionary-enabled-heading = 사용함
