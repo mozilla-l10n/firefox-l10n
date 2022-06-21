@@ -99,6 +99,8 @@ vcard-note-add = Ajouter une note
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-header = Propriétés organisationnelles
+vcard-org-add = Ajouter des propriétés organisationnelles
 vcard-org-title = Fonction
 vcard-org-role = Fonction
 vcard-org-org = Société
