@@ -71,7 +71,7 @@ openpgp-key-assistant-key-source =
     }
 openpgp-key-assistant-key-collected-attachment = vedhæftet fil
 # Autocrypt is the name of a standard.
-openpgp-key-assistant-key-collected-autocrypt = Autokrypter header
+openpgp-key-assistant-key-collected-autocrypt = Autocrypt-header
 openpgp-key-assistant-key-collected-keyserver = nøgleserver
 # Web Key Directory (WKD) is a concept.
 openpgp-key-assistant-key-collected-wkd = Web Key Directory
