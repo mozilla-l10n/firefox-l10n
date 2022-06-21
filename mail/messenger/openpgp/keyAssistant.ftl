@@ -69,9 +69,42 @@ openpgp-key-assistant-key-source =
        *[other] Kilder
     }
 openpgp-key-assistant-key-collected-keyserver = nøgleserver
+openpgp-key-assistant-keys-has-collected =
+    { $count ->
+        [one] Der blev fundet en nøgle, men den er ikke blevet accepteret endnu.
+       *[other] Der blev fundet flere nøgler, men ingen af dem er blevet accepteret endnu.
+    }
+openpgp-key-assistant-key-rejected = Denne nøgle er tidligere blevet afvist.
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+openpgp-key-assistant-resolve-discover-info = Find yderligere eller opdaterede nøgler til { $recipient } online, eller importer dem fra en fil.
 
 ## Discovery section
 
+openpgp-key-assistant-discover-title = Online-søgning i gang.
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-discover-keys = Finder nøgler til { $recipient }...
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-expired-key-update =
+    Der blev fundet en opdatering til en af de tidligere accepterede nøgler for { $recipient }.
+    Den kan nu bruges, da den ikke længere er udløbet.
 
 ## Dialog buttons
 
+openpgp-key-assistant-discover-online-button = Find offentlige nøgler online...
+openpgp-key-assistant-import-keys-button = Importer offentlige nøgler fra fil...
+openpgp-key-assistant-issue-resolve-button = Løs...
+openpgp-key-assistant-view-key-button = Se nøgle...
+openpgp-key-assistant-recipients-show-button = Vis
+openpgp-key-assistant-recipients-hide-button = Skjul
+openpgp-key-assistant-cancel-button = Annuller
+openpgp-key-assistant-back-button = Tilbage
+openpgp-key-assistant-accept-button = Accepter
+openpgp-key-assistant-close-button = Luk
+openpgp-key-assistant-disable-button = Deaktiver kryptering
+openpgp-key-assistant-confirm-button = Send krypteret
+# Variables:
+# $date (String) - The key creation date.
+openpgp-key-assistant-key-created = oprettet den { $date }
