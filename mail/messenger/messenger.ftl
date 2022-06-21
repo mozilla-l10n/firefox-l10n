@@ -146,12 +146,16 @@ message-header-button-style-icons =
 message-header-show-sender-full-address =
     .label = Vis altid afsenderens fulde adresse
     .accesskey = f
+message-header-show-sender-full-address-description = Mailadressen vil blive vist under visningsnavnet.
 message-header-show-recipient-avatar =
     .label = Vis afsenderens profilbillede
     .accesskey = p
 message-header-hide-label-column =
     .label = Skjul kolonnen etiketter
     .accesskey = E
+message-header-large-subject =
+    .label = Emne med stor skrift
+    .accesskey = S
 
 ## Action Button Context Menu
 

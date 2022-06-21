@@ -23,6 +23,7 @@ openpgp-key-assistant-recipients-description =
         [one] Du har allerede en brugbar og accepteret nøgle til én modtager.
        *[other] Du har allerede brugbare og accepterede nøgler til { $count } modtagere.
     }
+openpgp-key-assistant-recipients-description-no-issues = Denne meddelelse kan krypteres. Du har brugbare og accepterede nøgler til alle modtagere.
 
 ## Resolve section
 
@@ -68,13 +69,19 @@ openpgp-key-assistant-key-source =
         [one] Kilde
        *[other] Kilder
     }
+openpgp-key-assistant-key-collected-attachment = vedhæftet fil
+# Autocrypt is the name of a standard.
+openpgp-key-assistant-key-collected-autocrypt = Autokrypter header
 openpgp-key-assistant-key-collected-keyserver = nøgleserver
+# Web Key Directory (WKD) is a concept.
+openpgp-key-assistant-key-collected-wkd = Web Key Directory
 openpgp-key-assistant-keys-has-collected =
     { $count ->
         [one] Der blev fundet en nøgle, men den er ikke blevet accepteret endnu.
        *[other] Der blev fundet flere nøgler, men ingen af dem er blevet accepteret endnu.
     }
 openpgp-key-assistant-key-rejected = Denne nøgle er tidligere blevet afvist.
+openpgp-key-assistant-key-accepted-other = Denne nøgle er tidligere blevet accepteret for en anden mailadresse.
 # Variables:
 # $recipient (String) - The email address of the recipient needing resolution.
 openpgp-key-assistant-resolve-discover-info = Find yderligere eller opdaterede nøgler til { $recipient } online, eller importer dem fra en fil.

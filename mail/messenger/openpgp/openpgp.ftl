@@ -231,6 +231,7 @@ openpgp-key-man-select-all-key =
     .key = A
 openpgp-key-man-key-details-key =
     .key = I
+openpgp-ign-addr-intro = Du accepterer at bruge denne nøgle til følgende valgte mailadresser:
 openpgp-key-details-doc-title = Nøgleegenskaber
 openpgp-key-details-signatures-tab =
     .label = Certificeringer

@@ -167,6 +167,7 @@ about-addressbook-placeholder-no-search-results = Ingen kontakter fundet
 
 ## Details
 
+about-addressbook-prefer-display-name = Foretræk visningsnavn frem for navnet i meddelelses-headeren
 about-addressbook-write-action-button = Skriv
 about-addressbook-event-action-button = Begivenhed
 about-addressbook-search-action-button = Søg
