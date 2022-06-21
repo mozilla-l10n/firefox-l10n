@@ -361,6 +361,10 @@ cloud-file-account-error = Kunne ikke opdatere Filelink-vedhæftningen { $filena
 
 ## Link Preview
 
+link-preview-title = Forhåndsvisning af link
+link-preview-description = { -brand-short-name } kan tilføje en indlejret forhåndsvisning, når du indsætter links.
+link-preview-autoadd = Tilføj automatisk forhåndsvisning af links, når det er muligt
+link-preview-replace-now = Vil du bruge forhåndsvisning til dette link?
 link-preview-yes-replace = Ja
 
 ## Dictionary selection popup

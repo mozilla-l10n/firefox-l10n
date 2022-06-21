@@ -7,9 +7,13 @@ export-page-title = Eksporter
 
 ## Header
 
+import-start = Importværktøj
 import-start-title = Importer indstillinger eller data fra et program eller en fil.
+import-start-description = Vælg den kilde, du vil importere fra. Du vil senere blive bedt om at vælge, hvilke data der skal importeres.
 import-from-app = Importer fra program
 import-file = Importer fra en fil
+import-file-title = Vælg en fil for at importere dens indhold.
+import-file-description = Vælg at importere en tidligere sikkerhedskopieret profil, adressebøger eller kalendere.
 import-address-book-title = Importer adressebogsfil
 import-calendar-title = Importer kalenderfil
 export-profile = Eksporter
@@ -38,6 +42,8 @@ source-becky = Importer fra { app-name-becky }
 source-becky-description = Importer adressebøger og meddelelser fra { app-name-becky }.
 source-apple-mail = Importer fra { app-name-apple-mail }
 source-apple-mail-description = Importer meddelelser fra { app-name-apple-mail }.
+source-file2 = Importer fra en fil
+source-file-description = Vælg en fil for at importere adressebøger, kalendere eller en sikkerhedskopieret profil (ZIP-fil).
 
 ## Import from file selections
 
@@ -61,6 +67,8 @@ profiles-pane-title-outlook = Importer data fra { app-name-outlook }.
 profiles-pane-title-becky = Importer data fra { app-name-becky }.
 profiles-pane-title-apple-mail = Importer meddelelser fra { app-name-apple-mail }.
 profile-source = Importer fra profil
+# $profileName (string) - name of the profile
+profile-source-named = Importer fra profilen <strong>"{ $profileName }"</strong>
 profile-file-picker-directory = Vælg en profilmappe
 profile-file-picker-archive = Vælg en <strong>ZIP-komprimeret</strong> fil
 profile-file-picker-archive-description = Den ZIP-komprimerede fil skal være mindre end 2GB.
@@ -72,9 +80,11 @@ items-pane-checkbox-accounts = Konti og indstillinger
 items-pane-checkbox-address-books = Adressebøger
 items-pane-checkbox-calendars = Kalendere
 items-pane-checkbox-mail-messages = Mailmeddelelser
+items-pane-override = Eksisterende eller identiske data vil ikke blive overskrevet.
 
 ## Import from address book file steps
 
+import-from-addr-book-file-description = Vælg det filformat, der indeholder dine adressebogsdata.
 addr-book-csv-file = Komma- eller tabulatorsepareret fil (.csv, .tsv)
 addr-book-ldif-file = LDIF-fil (.ldif)
 addr-book-vcard-file = vCard-fil (.vcf, .vcard)
@@ -83,6 +93,7 @@ addr-book-mab-file = Mork-databasefil (.mab)
 addr-book-file-picker = Vælg en adressebogsfil
 addr-book-csv-field-map-title = Match feltnavne
 addr-book-csv-field-map-desc = Vælg adressebogsfelter, der svarer til kildefelterne. Fjern fluebenene ud for felter, du ikke vil importere.
+addr-book-directories-title = Vælg, hvor de valgte data skal importeres til
 addr-book-directories-pane-source = Kildefil:
 # $addressBookName (string) - name of the new address book that would be created.
 addr-book-import-into-new-directory2 = Opret en ny mappe med navnet <strong>"{ $addressBookName }"</strong>
@@ -100,6 +111,7 @@ calendar-items-filter-input =
     .placeholder = Filtrer elementer...
 calendar-select-all-items = Vælg alle
 calendar-deselect-all-items = Fravælg alle
+calendar-target-title = Vælg, hvor de valgte elementer skal importeres til.
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = Opret en ny kalender med navnet <strong>"{ $targetCalendar }"</strong>
 # $itemCount (number) - count of selected items (tasks, events) that will be imported
@@ -138,13 +150,17 @@ csv-target-field = Adressebogsfelt
 ## Export tab
 
 export-profile-title = Eksporter konti, meddelelser, adressebøger og indstillinger til en ZIP-komprimeret fil.
+export-profile-description = Hvis din nuværende profil er større end 2GB, foreslår vi, at du selv tager en sikkerhedskopi af den.
 export-open-profile-folder = Åbn profilmappen
 export-file-picker2 = Eksporter til en ZIP-komprimeret fil
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-title = Data der skal importeres
 summary-pane-start = Start import
+summary-pane-warning = { -brand-product-name } skal genstartes, når importen er fuldført.
+summary-pane-start-over = Genstart importværktøjet
 
 ## Footer area
 
