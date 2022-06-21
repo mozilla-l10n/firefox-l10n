@@ -9,6 +9,9 @@ export-page-title = Eksporter
 
 import-start-title = Importer indstillinger eller data fra et program eller en fil.
 import-from-app = Importer fra program
+import-file = Importer fra en fil
+import-address-book-title = Importer adressebogsfil
+import-calendar-title = Importer kalenderfil
 export-profile = Eksporter
 
 ## Buttons
@@ -16,6 +19,7 @@ export-profile = Eksporter
 button-back = Tilbage
 button-continue = Fortsæt
 button-export = Eksporter
+button-finish = Afslut
 
 ## Import from app steps
 
@@ -24,12 +28,38 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-thunderbird = Importer fra en anden { app-name-thunderbird }-installation
+source-thunderbird-description = Importer indstillinger, filtre, meddelelser og andre data fra en { app-name-thunderbird }-profil.
+source-seamonkey = Importer fra en { app-name-seamonkey }-installation
+source-seamonkey-description = Importer indstillinger, filtre, meddelelser og andre data fra en { app-name-seamonkey }-profil.
+source-outlook = Importer fra { app-name-outlook }
+source-outlook-description = Importer konti, adressebøger og meddelelser fra { app-name-outlook }.
+source-becky = Importer fra { app-name-becky }
+source-becky-description = Importer adressebøger og meddelelser fra { app-name-becky }.
+source-apple-mail = Importer fra { app-name-apple-mail }
+source-apple-mail-description = Importer meddelelser fra { app-name-apple-mail }.
 
 ## Import from file selections
 
+file-profile2 = Importer sikkerhedskopieret profil
+file-profile-description = Vælg en tidligere sikkerhedskopieret Thunderbird-profil (.zip)
+file-calendar = Importer kalendere
+file-calendar-description = Vælg en fil, der indeholder eksporterede kalendere eller begivenheder (.ics)
+file-addressbook = Importer adressebøger
+file-addressbook-description = Vælg en fil, der indeholder eksporterede adressebøger og kontakter
 
 ## Import from app profile steps
 
+from-app-thunderbird = Importer fra en { app-name-thunderbird }-profil
+from-app-seamonkey = Importer fra en { app-name-seamonkey }-profil
+from-app-outlook = Importer fra { app-name-outlook }
+from-app-becky = Importer fra { app-name-becky }
+from-app-apple-mail = Importer fra { app-name-apple-mail }
+profiles-pane-title-thunderbird = Importer indstillinger og data fra en { app-name-thunderbird }-profil.
+profiles-pane-title-seamonkey = Importer indstillinger og data fra en { app-name-seamonkey }-profil.
+profiles-pane-title-outlook = Importer data fra { app-name-outlook }.
+profiles-pane-title-becky = Importer data fra { app-name-becky }.
+profiles-pane-title-apple-mail = Importer meddelelser fra { app-name-apple-mail }.
 items-pane-checkbox-accounts = Konti og indstillinger
 items-pane-checkbox-address-books = Adressebøger
 items-pane-checkbox-calendars = Kalendere
