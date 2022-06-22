@@ -10,8 +10,8 @@
 <!ENTITY replyToField4.label "Svar til">
 
 <!ENTITY subjectField4.label "Emne">
-<!ENTITY ccField4.label "Cc">
-<!ENTITY bccField4.label "Bcc">
+<!ENTITY ccField4.label "Kopi til (Cc)">
+<!ENTITY bccField4.label "Skjult kopi til (Bcc)">
 <!ENTITY newsgroupsField4.label "Nyhedsgrupper">
 <!ENTITY followupToField4.label "Opfølgning til">
 <!ENTITY tagsHdr4.label "Mærkater">
