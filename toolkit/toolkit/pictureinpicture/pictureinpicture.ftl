@@ -3,20 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Bilde-i-bilde
-
 pictureinpicture-pause =
     .aria-label = Pause
 pictureinpicture-play =
     .aria-label = Spel av
-
 pictureinpicture-mute =
     .aria-label = Slå av lyd
 pictureinpicture-unmute =
     .aria-label = Slå på lyd
-
 pictureinpicture-unpip =
     .aria-label = Send tilbake til fana
-
 pictureinpicture-close =
     .aria-label = Lat att
-
+pictureinpicture-subtitles-label = Undertekstar
+pictureinpicture-font-size-label = Skriftstorleik
+pictureinpicture-font-size-small = Liten
+pictureinpicture-font-size-medium = Medium
+pictureinpicture-font-size-large = Stor

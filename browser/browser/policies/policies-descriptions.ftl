@@ -59,6 +59,7 @@ policy-DownloadDirectory = Spesifiser og lås netlastingskatalogen.
 policy-EnableTrackingProtection = Aktiver eller deaktiver innhaldsblokkering med moglegheit til å låse valet.
 # “lock” means that the user won’t be able to change this setting
 policy-EncryptedMediaExtensions = Aktiver eller deaktiver Encrypted Media Extension med høve til å låse valet.
+policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Slå av åtvaringar basert på filetternamn for spesifikke filtypar på domene.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -112,8 +113,10 @@ policy-SecurityDevices = Installer PKCS #11-modular.
 policy-ShowHomeButton = Vis heimknappen på verktøylinja.
 policy-SSLVersionMax = Still inn den maksimale SSL-versjonen.
 policy-SSLVersionMin = Still inn den minimale SSL-versjonen.
+policy-StartDownloadsInTempDirectory = Tving nedlastinger til å starte på ei lokal, mellombels plassering i staden for standard nedlastingskatalog.
 policy-SupportMenu = Legg til eit tilpassa menyelement med hjelp i hjelpemenyen.
 policy-UserMessaging = Ikkje vis visse meldingar til brukaren.
+policy-UseSystemPrintDialog = Skriv ut ved hjelp av utskriftsdialogvindauget til systemet.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokker besøk på nettstadar. Les dokumentasjonen for detaljer om formatet.
 policy-Windows10SSO = Tillat Windows enkel pålogging for Microsoft, arbeids- og skulekontoar.
