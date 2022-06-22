@@ -232,8 +232,6 @@ openpgp-key-man-select-all-key =
 openpgp-key-man-key-details-key =
     .key = I
 openpgp-ign-addr-intro = U accepteert het gebruik van deze sleutel voor de volgende geselecteerde e-mailadressen:
-openpgp-key-details-title =
-    .title = Sleuteleigenschappen
 openpgp-key-details-doc-title = Sleuteleigenschappen
 openpgp-key-details-signatures-tab =
     .label = Certificeringen
@@ -242,7 +240,6 @@ openpgp-key-details-structure-tab =
 openpgp-key-details-uid-certified-col =
     .label = Gebruikers-ID / Gecertificeerd door
 openpgp-key-details-key-id-label = Sleutel-ID
-openpgp-key-details-user-id2-label = Vermeende sleuteleigenaar
 openpgp-key-details-user-id3-label = Geclaimde sleuteleigenaar
 openpgp-key-details-id-label =
     .label = ID
@@ -505,8 +502,6 @@ key-error-key-id-not-found = De geconfigureerde sleutel-ID ‘{ $keySpec }’ ka
 key-error-not-accepted-as-personal = U heeft niet bevestigd dat de sleutel met ID ‘{ $keySpec }’ uw persoonlijke sleutel is.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = De geselecteerde functie is niet beschikbaar in de offlinemodus. Ga online en probeer het opnieuw.
-# Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = We kunnen geen sleutel vinden die overeenkomt met de opgegeven zoekcriteria.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found2 = We kunnen geen bruikbare sleutel vinden die overeenkomt met de opgegeven zoekcriteria.
 no-update-found = U hebt de sleutels die online zijn gevonden al.
