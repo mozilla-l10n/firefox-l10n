@@ -3,20 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Görüntü içinde görüntü
-
 pictureinpicture-pause =
     .aria-label = Duraklat
 pictureinpicture-play =
     .aria-label = Oynat
-
 pictureinpicture-mute =
     .aria-label = Sesi kapat
 pictureinpicture-unmute =
     .aria-label = Sesi aç
-
 pictureinpicture-unpip =
     .aria-label = Sekmeye geri gönder
-
 pictureinpicture-close =
     .aria-label = Kapat
-
+pictureinpicture-subtitles-label = Altyazı
+pictureinpicture-font-size-small = Küçük
+pictureinpicture-font-size-medium = Orta
+pictureinpicture-font-size-large = Büyük
