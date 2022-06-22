@@ -68,18 +68,32 @@ vcard-impp-label = Pikaviestitili
 
 # BDAY and ANNIVERSARY vCard field
 
+vcard-bday-anniversary-header = Erityiset päivät
+vcard-bday-anniversary-add = Lisää erityinen päivä
+vcard-bday-label = Syntymäpäivä
+vcard-anniversary-label = Merkkipäivä
+vcard-date-day = Päivä
+vcard-date-month = Kuukausi
+vcard-date-year = Vuosi
 
 # ADR vCard field
 
 vcard-adr-header = Osoitteet
 vcard-adr-add = Lisää osoite
 vcard-adr-label = Osoite
+vcard-adr-ext = Laajennettu osoite
 vcard-adr-street = Katuosoite
 # Or "Locality"
 vcard-adr-locality = Kaupunki
+# Or "Region"
+vcard-adr-region = Paikkakunta
+# The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
+vcard-adr-code = Postinumero
+vcard-adr-country = Maa
 
 # NOTE vCard field
 
+vcard-note-header = Huomautuksia
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
