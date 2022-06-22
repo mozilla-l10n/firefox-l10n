@@ -207,6 +207,7 @@ sec-error-not-a-recipient = Рамзкушоӣ намешавад: шумо қа
 sec-error-pkcs7-keyalg-mismatch = Рамзкушоӣ намешавад: алгоритми рамзгузории калид ба гувоҳиномаи шумо мувофиқат намекунад.
 sec-error-pkcs7-bad-signature = Санҷиши имзо иҷро нашуд: ягон имзокунанда ёфт нашуд, имзокунандагони аз ҳад зиёд ёфт шуданд ё маълумоти нодуруст ё вайроншуда ба миён омад.
 sec-error-unsupported-keyalg = Алгоритми калид номаълум аст ё дастгирӣ намешавад.
+sec-error-decryption-disallowed = Рамзкушоӣ намешавад: бо истифода аз алгоритм ё андозаи калиди иҷозатнашуда рамзгузорӣ карда шудааст.
 xp-sec-fortezza-no-card = Ягон корти «Fortezza» ёфт нашуд
 xp-sec-fortezza-none-selected = Ягон корти «Fortezza» интихоб карда нашуд
 xp-sec-fortezza-person-not-found = Шахсият ёфт нашуд
