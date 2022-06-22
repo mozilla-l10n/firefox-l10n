@@ -103,6 +103,7 @@ about-addressbook-column-label-addrbook =
 ## Card list placeholder
 ## Shown when there are no cards in the list
 
+about-addressbook-placeholder-searching = Etsitään…
 
 ## Details
 
