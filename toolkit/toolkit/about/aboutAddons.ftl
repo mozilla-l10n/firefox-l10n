@@ -338,6 +338,9 @@ theme-monochromatic-subheading =
        *[other] aplikaci { -brand-product-name }
     } dostupné po omezenou dobu.
 theme-colorways-button = Vyzkoušet palety barev
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires.
+colorway-collection-expiry-date-span = Platnost vyprší { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Povolené moduly
 plugin-disabled-heading = Zakázané moduly
 dictionary-enabled-heading = Povolené slovníky
