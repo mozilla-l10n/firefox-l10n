@@ -5,6 +5,21 @@
 
 ## Send Format
 
+compose-send-format-menu =
+    .label = Gönderme biçimi
+    .accesskey = G
+compose-send-auto-menu-item =
+    .label = Otomatik
+    .accesskey = O
+compose-send-both-menu-item =
+    .label = Hem HTML hem de düz metin
+    .accesskey = H
+compose-send-html-menu-item =
+    .label = Yalnızca HTML
+    .accesskey = M
+compose-send-plain-menu-item =
+    .label = Yalnızca düz metin
+    .accesskey = d
 
 ## Addressing widget
 
@@ -129,6 +144,18 @@ button-return-receipt =
 encryption-menu =
     .label = Güvenlik
     .accesskey = G
+encryption-toggle =
+    .label = Şifrele
+    .tooltiptext = Bu iletide uçtan uca şifreleme kullan
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = OpenPGP şifreleme ayarlarını göster ve değiştir
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = S/MIME şifreleme ayarlarını göster ve değiştir
+signing-toggle =
+    .label = İmzala
+    .tooltiptext = Bu iletiyi sayısal olarak imzala
 menu-openpgp =
     .label = OpenPGP
     .accesskey = O
@@ -141,6 +168,21 @@ menu-encrypt =
 menu-encrypt-subject =
     .label = Konuyu şifrele
     .accesskey = o
+menu-sign =
+    .label = Sayısal olarak imzala
+    .accesskey = i
+menu-manage-keys =
+    .label = Anahtar yardımcısı
+    .accesskey = A
+menu-view-certificates =
+    .label = Alıcıların sertifikalarını göster
+    .accesskey = s
+menu-open-key-manager =
+    .label = Anahtar yöneticisi
+    .accesskey = n
+can-e2e-encrypt-button =
+    .label = Şifrele
+    .accesskey = e
 
 ## Addressing Area
 
@@ -269,3 +311,6 @@ link-preview-yes-replace = Evet
 
 ## Dictionary selection popup
 
+spell-add-dictionaries =
+    .label = Sözlük ekle…
+    .accesskey = S

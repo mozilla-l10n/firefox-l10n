@@ -123,6 +123,10 @@ message-header-msg-flagged =
 message-header-msg-not-flagged =
     .title = Yıldızsız
     .aria-label = Yıldızsız
+# Variables:
+# $address (String) - The email address of the recipient this picture belongs to.
+message-header-recipient-avatar =
+    .alt = { $address } profil fotoğrafı.
 
 ## Message header cutomize panel
 
@@ -171,6 +175,10 @@ decrypt-and-copy-failures = { $total } iletinin { $failures } tanesinin şifresi
 
 ## Spaces toolbar
 
+spaces-toolbar-element =
+    .toolbarname = Sekme araç çubuğu
+    .aria-label = Sekme araç çubuğu
+    .aria-description = Farklı sekmeler arasında geçiş yapabileceğiniz dikey araç çubuğu. Mevcut düğmeler arasında gezinmek için ok tuşlarını kullanabilirsiniz.
 spaces-toolbar-button-mail2 =
     .title = E-posta
 spaces-toolbar-button-address-book2 =
@@ -181,8 +189,14 @@ spaces-toolbar-button-tasks2 =
     .title = Görevler
 spaces-toolbar-button-chat2 =
     .title = Sohbet
+spaces-toolbar-button-overflow =
+    .title = Daha fazla sekme…
 spaces-toolbar-button-settings2 =
     .title = Ayarlar
+spaces-toolbar-button-hide =
+    .title = Sekme araç çubuğunu gizle
+spaces-toolbar-button-show =
+    .title = Sekme araç çubuğunu göster
 spaces-context-new-tab-item =
     .label = Yeni sekmede aç
 spaces-context-new-window-item =
@@ -193,6 +207,10 @@ spaces-context-switch-tab-item =
     .label = { $tabName } sekmesine geç
 settings-context-open-settings-item2 =
     .label = Ayarlar
+settings-context-open-account-settings-item2 =
+    .label = Hesap ayarları
+settings-context-open-addons-item2 =
+    .label = Eklentiler ve temalar
 
 ## Spaces toolbar pinned tab menupopup
 
@@ -225,6 +243,7 @@ chat-button-unread-messages = { $count }
 
 menuitem-customize-label =
     .label = Özelleştir…
+spaces-customize-panel-title = Sekme Araç Çubuğu Ayarları
 spaces-customize-background-color = Arka plan rengi
 spaces-customize-icon-color = Düğme rengi
 # The background color used on the buttons of the spaces toolbar when they are
@@ -233,3 +252,7 @@ spaces-customize-accent-background-color = Seçilen düğme arka plan rengi
 # The icon color used on the buttons of the spaces toolbar when they are
 # `current`, meaning the related space/tab is active and visible.
 spaces-customize-accent-text-color = Seçilen düğme rengi
+spaces-customize-button-restore = Varsayılanları geri yükle
+    .accesskey = V
+customize-panel-button-save = Tamam
+    .accesskey = T
