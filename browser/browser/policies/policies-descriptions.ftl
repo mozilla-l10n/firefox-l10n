@@ -113,6 +113,7 @@ policy-SecurityDevices = PKCS #11 modüllerini yükle.
 policy-ShowHomeButton = Araç çubuğunda giriş sayfası düğmesini göster.
 policy-SSLVersionMax = Maksimum SSL sürümünü ayarla.
 policy-SSLVersionMin = Minimum SSL sürümünü ayarla.
+policy-StartDownloadsInTempDirectory = İndirmeleri varsayılan indirme dizini yerine  geçici bir yerel konumda başlat.
 policy-SupportMenu = Yardım menüsüne özel bir destek menüsü öğesi ekle.
 policy-UserMessaging = Kullanıcıya belirli mesajları gösterme.
 policy-UseSystemPrintDialog = Sistem yazdırma iletişim kutusunu kullanarak yazdır.
