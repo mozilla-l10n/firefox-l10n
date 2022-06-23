@@ -11,6 +11,9 @@ import-start = İçe aktarma aracı
 import-start-title = Bir uygulamadan veya dosyadan ayarları veya verileri içe aktar.
 import-from-app = Uygulamadan içe aktar
 import-file = Dosyadan içe aktar
+import-file-title = İçe aktarılacak dosyayı seçin.
+import-address-book-title = Adres defteri dosyasını içe aktar
+import-calendar-title = Takvim dosyasını içe aktar
 export-profile = Dışa aktar
 
 ## Buttons
@@ -18,6 +21,7 @@ export-profile = Dışa aktar
 button-back = Geri
 button-continue = Devam et
 button-export = Dışa aktar
+button-finish = Bitir
 
 ## Import from app steps
 
@@ -26,9 +30,25 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-thunderbird = Başka bir { app-name-thunderbird } kurulumundan içe aktar
+source-thunderbird-description = Bir { app-name-thunderbird } profilinden ayarları, filtreleri, iletileri ve diğer verileri içe aktar.
+source-seamonkey = { app-name-seamonkey } kurulumundan içe aktar
+source-seamonkey-description = bir { app-name-seamonkey } profilinden ayarları, filtreleri, iletileri ve diğer verileri içe aktar.
+source-outlook = { app-name-outlook }'tan içe aktar
+source-outlook-description = Hesapları, adres defterlerini ve iletileri { app-name-outlook }'tan içe aktar.
+source-becky = { app-name-becky }'den içe aktar
+source-becky-description = Adres defterlerini ve iletileri { app-name-becky }'den içe aktar.
+source-apple-mail = { app-name-apple-mail }'den içe aktar
+source-apple-mail-description = İletileri { app-name-apple-mail }'den içe aktar.
+source-file2 = Dosyadan içe aktar
+source-file-description = Adres defterlerini, takvimleri veya bir profil yedeklemesini (ZIP dosyası) içe aktarmak için bir dosya seçin.
 
 ## Import from file selections
 
+file-profile2 = Profil yedeğini içe aktar
+file-profile-description = Yedeklenmiş bir Thunderbird profili (.zip) seçin
+file-calendar = Takvimleri içe aktar
+file-addressbook = Adres defterlerini içeri aktar
 
 ## Import from app profile steps
 
