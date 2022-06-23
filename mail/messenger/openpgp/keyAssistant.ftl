@@ -63,7 +63,10 @@ openpgp-key-assistant-key-source =
     { $count ->
        *[other] Nguồn
     }
+openpgp-key-assistant-key-collected-attachment = tập tin đính kèm email
+# Autocrypt is the name of a standard.
 openpgp-key-assistant-key-collected-autocrypt = Tiêu đề tự động mã hóa
+# Web Key Directory (WKD) is a concept.
 openpgp-key-assistant-key-collected-wkd = Thư mục khoá Web
 openpgp-key-assistant-keys-has-collected =
     { $count ->
@@ -89,6 +92,8 @@ openpgp-key-assistant-expired-key-update =
 
 ## Dialog buttons
 
+openpgp-key-assistant-discover-online-button = Khám phá khóa công khai trực tuyến…
+openpgp-key-assistant-import-keys-button = Nhập khóa công khai từ tập tin…
 openpgp-key-assistant-issue-resolve-button = Giải quyết…
 openpgp-key-assistant-view-key-button = Xem khóa…
 openpgp-key-assistant-recipients-show-button = Hiển thị
@@ -97,3 +102,6 @@ openpgp-key-assistant-cancel-button = Hủy bỏ
 openpgp-key-assistant-back-button = Quay lại
 openpgp-key-assistant-accept-button = Chấp nhận
 openpgp-key-assistant-close-button = Đóng
+# Variables:
+# $date (String) - The key creation date.
+openpgp-key-assistant-key-created = được tạo vào { $date }
