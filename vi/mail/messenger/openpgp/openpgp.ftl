@@ -64,6 +64,9 @@ openpgp-key-id-label =
 openpgp-cannot-change-expiry = Đây là khóa có cấu trúc phức tạp, việc thay đổi ngày hết hạn không được hỗ trợ.
 openpgp-key-man-title =
     .title = Trình quản lý khóa OpenPGP
+openpgp-key-man-generate =
+    .label = Cặp khóa mới
+    .accesskey = K
 openpgp-key-man-gen-revoke =
     .label = Chứng nhận thu hồi
     .accesskey = R
@@ -328,8 +331,10 @@ openpgp-manager-button =
 key-type-public = khóa công khai
 key-type-primary = khóa chính
 key-type-subkey = khóa con
+key-type-pair = cặp khóa (khóa bí mật và khóa công khai)
 key-expiry-never = không bao giờ
 key-usage-encrypt = Mã hóa
+key-usage-sign = Ký
 key-usage-authentication = Xác thực
 key-does-not-expire = Khóa không hết hạn
 key-expired-date = Khóa hết hạn vào { $keyExpiry }
@@ -440,13 +445,23 @@ already-revoked = Khóa này đã bị thu hồi trước đó.
 revoke-key-already-revoked = Khóa 0x{ $keyId } đã bị thu hồi trước đó.
 key-man-button-revoke-key = Thu hồi khóa (&R)
 openpgp-key-revoke-success = Đã thu hồi khóa thành công.
+after-revoke-info =
+    Khóa đã bị thu hồi.
+    Chia sẻ lại khóa công khai này bằng cách gửi qua email hoặc tải lên máy chủ để cho người khác biết rằng bạn đã thu hồi khóa của mình.
+    Ngay sau khi phần mềm được người khác sử dụng biết về việc thu hồi, nó sẽ ngừng sử dụng khóa cũ của bạn.
+    Nếu bạn đang sử dụng khóa mới cho cùng một địa chỉ email và bạn đính kèm khóa công khai mới vào các email bạn gửi, thì thông tin về khóa cũ đã thu hồi của bạn sẽ tự động được đưa vào.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = Nhập (&I)
 delete-key-title = Xóa khóa OpenPGP
 key-in-use-title = Khóa OpenPGP hiện đang được sử dụng
+delete-key-in-use-description = Không thể tiếp tục! Chìa khóa bạn đã chọn để xóa hiện đang được sử dụng bởi danh tính này. Chọn một khóa khác hoặc chọn không có khóa nào và thử lại.
+revoke-key-in-use-description = Không thể tiếp tục! Chìa khóa bạn đã chọn để thu hồi hiện đang được sử dụng bởi danh tính này. Chọn một khóa khác hoặc chọn không có khóa nào và thử lại.
 key-error-not-accepted-as-personal = Bạn chưa xác nhận rằng khóa có ID ‘{ $keySpec }’ là khóa cá nhân của bạn.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Chức năng bạn đã chọn không khả dụng ở chế độ ngoại tuyến. Vui lòng truy cập trực tuyến và thử lại.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found2 = Chúng tôi không thể tìm thấy bất kỳ khóa có thể sử dụng nào phù hợp với tiêu chí tìm kiếm được chỉ định.
+no-update-found = Bạn đã có các khóa được phát hiện trực tuyến.
 fail-key-import = Lỗi - nhập khóa không thành công
 file-write-failed = Không thể ghi vào tập tin { $output }
 confirm-permissive-import = Nhập không thành công. Khóa bạn đang cố gắng nhập có thể bị hỏng hoặc sử dụng các thuộc tính không xác định. Bạn có muốn cố gắng nhập các bộ phận chính xác không? Điều này có thể dẫn đến việc nhập các khóa không đầy đủ và không sử dụng được.
@@ -504,6 +519,9 @@ msg-compose-partially-encrypted-inlinePGP =
     Vui lòng xem xét xóa tất cả văn bản được trích dẫn khỏi thư trả lời của bạn cho người gửi này.
 msg-compose-cannot-save-draft = Lỗi khi lưu bản nháp
 msg-compose-partially-encrypted-short = Cẩn thận với việc rò rỉ thông tin nhạy cảm - email được mã hóa một phần.
+minimal-line-wrapping =
+    Bạn đã đặt số lượng ký tự trong một dòng là { $width } kí tự. Để mã hóa và/hoặc ký chính xác, giá trị này ít nhất phải là 68.
+    Bạn có muốn đặt lại giá trị của nó thành 68 kí tự ngay bây giờ không?
 sending-news =
     Thao tác gửi được mã hóa đã bị hủy bỏ.
     Không thể mã hóa thư này vì có người nhận trong nhóm tin. Vui lòng gửi lại tin nhắn mà không mã hóa.
