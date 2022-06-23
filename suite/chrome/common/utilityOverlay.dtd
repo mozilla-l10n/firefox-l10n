@@ -109,7 +109,7 @@
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findReplaceCmdMac.key "F">
 <!ENTITY findReplaceCmd.accesskey "и">
-<!ENTITY findAgainCmd.label "Найти ещё раз">
+<!ENTITY findAgainCmd.label "Найти следующее">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "щ">
 <!ENTITY findAgainCmd.key2 "VK_F3">
@@ -133,7 +133,6 @@
 
 <!ENTITY helpMenu.label                   "Справка">
 <!ENTITY helpMenu.accesskey               "р">
-
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
      for the help button in the menubar. -->
 <!ENTITY helpMenuWin.label                "Справка">
