@@ -78,7 +78,7 @@
 <!ENTITY findReplaceCmd.label "Найти и заменить…">
 <!ENTITY findReplaceCmd.accesskey "а">
 <!ENTITY findReplaceCmd.key "H">
-<!ENTITY findAgainCmd.label "Найти ещё раз">
+<!ENTITY findAgainCmd.label "Найти следующее">
 <!ENTITY findAgainCmd.accesskey "а">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
