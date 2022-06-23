@@ -16,6 +16,7 @@ pictureinpicture-unpip =
 pictureinpicture-close =
     .aria-label = Kapat
 pictureinpicture-subtitles-label = Altyazı
+pictureinpicture-font-size-label = Yazı tipi boyutu
 pictureinpicture-font-size-small = Küçük
 pictureinpicture-font-size-medium = Orta
 pictureinpicture-font-size-large = Büyük
