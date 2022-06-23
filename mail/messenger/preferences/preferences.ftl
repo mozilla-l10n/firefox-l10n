@@ -440,6 +440,7 @@ restore-html-label =
 default-format-label =
     .label = Varsayılan olarak gövde metni yerine paragraf biçimini kullan
     .accesskey = V
+compose-send-format-title = Gönderme Biçimi
 compose-send-automatic-option =
     .label = Otomatik
 compose-send-both-option =

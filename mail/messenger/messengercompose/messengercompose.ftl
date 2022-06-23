@@ -307,6 +307,7 @@ cloud-file-rename-not-supported = { $provider } önceden yüklenmiş dosyaların
 ## Link Preview
 
 link-preview-title = Bağlantı ön izleme
+link-preview-autoadd = Mümkün olduğunda bağlantı ön izlemelerini otomatik olarak ekle
 link-preview-yes-replace = Evet
 
 ## Dictionary selection popup
