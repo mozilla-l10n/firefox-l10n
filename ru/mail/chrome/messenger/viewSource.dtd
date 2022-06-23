@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from content/viewSource.xul -->
-
 <!-- extracted from content/viewSource.xhtml -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
@@ -67,7 +65,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.label     "Найти на этой странице…">
 <!ENTITY findOnCmd.accesskey "а">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Найти далее">
+<!ENTITY findAgainCmd.label  "Найти следующее">
 <!ENTITY findAgainCmd.accesskey "е">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
