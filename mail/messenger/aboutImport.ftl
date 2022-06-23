@@ -49,38 +49,78 @@ file-profile2 = Profil yedeğini içe aktar
 file-profile-description = Yedeklenmiş bir Thunderbird profili (.zip) seçin
 file-calendar = Takvimleri içe aktar
 file-addressbook = Adres defterlerini içeri aktar
+file-addressbook-description = Dışa aktarılan adres defterlerini ve kişileri içeren bir dosya seçin
 
 ## Import from app profile steps
 
+from-app-thunderbird = { app-name-thunderbird } profilinden içe aktar
+from-app-seamonkey = { app-name-seamonkey } profilinden içe aktar
+from-app-outlook = { app-name-outlook }'tan içe aktar
+from-app-becky = { app-name-becky }'den içe aktar
+from-app-apple-mail = { app-name-apple-mail }'den içe aktar
+profile-source = Profilden içe aktar
+# $profileName (string) - name of the profile
+profile-source-named = <strong>"{ $profileName }"</strong> profilinden içe aktar
+profile-file-picker-directory = Profil klasörünü seçin
+profile-file-picker-archive = Bir <strong>ZIP</strong> dosyası seçin
+profile-file-picker-archive-description = ZIP dosyası 2 GB'den küçük olmalıdır.
+profile-file-picker-archive-title = Bir zip dosyası seçin (2 GB'den küçük)
+items-pane-title2 = Nelerin içe aktarılacağını seçin:
+items-pane-directory = Dizin:
+items-pane-profile-name = Profil adı:
 items-pane-checkbox-accounts = Hesaplar ve ayarlar
 items-pane-checkbox-address-books = Adres defterleri
 items-pane-checkbox-calendars = Takvimler
 items-pane-checkbox-mail-messages = Posta iletileri
+items-pane-override = Mevcut veya aynı verilerin üzerine yazılmayacaktır.
 
 ## Import from address book file steps
 
+import-from-addr-book-file-description = Adres defteri verilerinizi içeren dosya biçimini seçin.
 addr-book-csv-file = Virgülle veya sekmeyle ayrılmış dosya (.csv, .tsv)
 addr-book-ldif-file = LDIF dosyası (.ldif)
 addr-book-vcard-file = vCard dosyası (.vcf, .vcard)
 addr-book-sqlite-file = SQLite veritabanı dosyası (.sqlite)
 addr-book-mab-file = Mork veritabanı dosyası (.mab)
 addr-book-file-picker = Bir adres defteri dosyası seçin
+addr-book-csv-field-map-title = Alan adlarını eşleştir
+addr-book-csv-field-map-desc = Kaynak alanlara karşılık gelen adres defteri alanlarını seçin. İçe aktarmak istemediğiniz alanların işaretini kaldırın.
+addr-book-directories-title = Seçilen verilerin nereye aktarılacağını seçin
 addr-book-directories-pane-source = Kaynak dosya:
+# $addressBookName (string) - name of the new address book that would be created.
+addr-book-import-into-new-directory2 = <strong>"{ $addressBookName }"</strong> adında yeni bir dizin oluştur
+# $addressBookName (string) - name of the address book to import into
+addr-book-summary-title = Seçilen verileri "{ $addressBookName }" dizinine aktar
+# $addressBookName (string) - name of the address book that will be created.
+addr-book-summary-description = "{ $addressBookName }" adlı yeni bir adres defteri oluşturulacak.
 
 ## Import from calendar file steps
 
+import-from-calendar-file-desc = İçe aktarmak istediğiniz iCalendar (.ics) dosyasını seçin.
+calendar-items-title = İçe aktarılacak öğeleri seçin.
 calendar-items-loading = Öğeler yükleniyor…
 calendar-items-filter-input =
     .placeholder = Öğeleri filtrele…
 calendar-select-all-items = Tümünü seç
 calendar-deselect-all-items = Seçimi temizle
+calendar-target-title = Seçilen öğelerin nereye aktarılacağını seçin.
+# $targetCalendar (string) - name of the new calendar that would be created
+calendar-import-into-new-calendar2 = <strong>"{ $targetCalendar }"</strong> adında yeni bir takvim oluştur
+# $targetCalendar (string) - name of the calendar that will be created
+calendar-summary-description = "{ $targetCalendar }" adlı yeni bir takvim oluşturulacaktır.
 
 ## Import dialog
 
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-importing2 = İçe aktarılıyor… { $progressPercent }
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-exporting2 = Dışa aktarılıyor… { $progressPercent }
+progress-pane-finished-desc2 = Tamamlandı.
 error-pane-title = Hata
 error-message-failed = İçe aktarma beklenmedik bir şekilde başarısız oldu. Hata Konsolu'nda daha fazla bilgi mevcut olabilir.
 error-failed-to-parse-ics-file = Dosyada içe aktarılabilir öğe bulunamadı.
 error-export-failed = Dışa aktarma beklenmedik bir şekilde başarısız oldu. Hata Konsolu'nda daha fazla bilgi mevcut olabilir.
+error-message-no-profile = Profil bulunamadı.
 
 ## <csv-field-map> element
 
@@ -97,9 +137,21 @@ export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-title = İçe aktarılacak veriler
+summary-pane-start = İçe aktarmayı başlat
+summary-pane-warning = İçe aktarma bittikten sonra { -brand-product-name } yeniden başlatılmalıdır.
+summary-pane-start-over = İçe aktarma aracını yeniden başlat
 
 ## Footer area
 
+footer-help = Yardım mı lazım?
+footer-support-forum = Destek forumu
 
 ## Step navigation on top of the wizard pages
 
+step-list =
+    .aria-label = İçe aktarma adımları
+step-confirm = Onayla
+# Variables:
+# $number (number) - step number
+step-count = { $number }
