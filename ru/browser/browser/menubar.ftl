@@ -38,11 +38,9 @@ menu-quit =
             [windows] х
            *[other] ы
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Завершить { -brand-shorter-name }
-
 menu-about =
     .label = О { -brand-shorter-name }
     .accesskey = О
@@ -117,8 +115,8 @@ menu-edit-find-in-page =
     .label = Найти на странице…
     .accesskey = а
 menu-edit-find-again =
-    .label = Найти ещё раз
-    .accesskey = й
+    .label = Найти следующее
+    .accesskey = с
 menu-edit-bidi-switch-text-direction =
     .label = Переключить направление текста на странице
     .accesskey = т

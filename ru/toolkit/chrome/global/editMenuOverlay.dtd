@@ -5,7 +5,7 @@
 <!ENTITY findCmd.label             "Найти">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "а">
-<!ENTITY findAgainCmd.label        "Найти ещё раз">
+<!ENTITY findAgainCmd.label        "Найти следующее">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "й">

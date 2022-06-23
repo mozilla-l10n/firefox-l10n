@@ -3,20 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Картинка в картинке
-
 pictureinpicture-pause =
     .aria-label = Приостановить
 pictureinpicture-play =
     .aria-label = Воспроизвести
-
 pictureinpicture-mute =
     .aria-label = Убрать звук
 pictureinpicture-unmute =
     .aria-label = Восстановить звук
-
 pictureinpicture-unpip =
     .aria-label = Отправить обратно во вкладку
-
 pictureinpicture-close =
     .aria-label = Закрыть
-
+pictureinpicture-subtitles-label = Субтитры
+pictureinpicture-font-size-label = Размер шрифта
+pictureinpicture-font-size-small = Маленький
+pictureinpicture-font-size-medium = Средний
+pictureinpicture-font-size-large = Большой
