@@ -223,8 +223,6 @@ openpgp-key-man-select-all-key =
 openpgp-key-man-key-details-key =
     .key = I
 openpgp-ign-addr-intro = Bạn chấp nhận sử dụng khóa này cho các địa chỉ email đã chọn sau:
-openpgp-key-details-title =
-    .title = Thuộc tính khóa
 openpgp-key-details-doc-title = Thuộc tính khóa
 openpgp-key-details-signatures-tab =
     .label = Chứng chỉ
@@ -363,14 +361,23 @@ converter-decrypt-body-failed =
     Bạn muốn thử lại bằng một cụm mật khẩu khác hay bạn muốn bỏ qua tin nhắn?
 # Strings filters.jsm
 filter-folder-required = Bạn phải chọn một thư mục đích.
+filter-decrypt-move-warn-experimental =
+    Cảnh báo - hành động bộ lọc “Giải mã vĩnh viễn” có thể dẫn đến các thư bị phá hủy.
+    Chúng tôi thực sự khuyên bạn trước tiên nên thử bộ lọc “Tạo bản sao được giải mã”, kiểm tra kết quả một cách cẩn thận và chỉ bắt đầu sử dụng bộ lọc này khi bạn hài lòng với kết quả.
 filter-term-pgpencrypted-label = OpenPGP được mã hóa
+filter-key-required = Bạn phải chọn một khóa người nhận.
 filter-key-not-found = Không thể tìm thấy khóa mã hóa cho ‘{ $desc }’.
+filter-warn-key-not-secret =
+    Cảnh báo - hành động bộ lọc “Mã hóa thành khóa” thay thế người nhận.
+    Nếu bạn không có khóa bí mật cho ‘{ $desc }’, bạn sẽ không thể đọc email được nữa.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Giải mã vĩnh viễn (OpenPGP)
+filter-decrypt-copy-label = Tạo bản sao được giải mã (OpenPGP)
 filter-encrypt-label = Mã hóa thành khóa (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Thành công! Các khóa đã được nhập
+import-info-bits = Bit
 import-info-created = Đã tạo
 import-info-fpr = Dấu vân tay
 import-info-no-keys = Không có khóa nào được nhập.
@@ -400,15 +407,20 @@ key-man-button-export-pub-key = Chỉ xuất khóa &công khai
 key-man-button-refresh-all = &Làm mới tất cả các khóa
 key-man-loading-keys = Đang tải khóa, vui lòng đợi…
 no-key-selected = Bạn nên chọn ít nhất một khóa để thực hiện thao tác đã chọn
+export-to-file = Xuất khóa công khai vào tập tin
+export-keypair-to-file = Xuất khóa bí mật và khóa công khai thành tập tin
 export-secret-key = Bạn có muốn đưa khóa bí mật vào tập tin khóa OpenPGP đã lưu không?
 save-keys-ok = Khóa đã được lưu thành công
 save-keys-failed = Không thể lưu khóa
 refresh-key-warn = Cảnh báo: tùy thuộc vào số lượng khóa và tốc độ kết nối, việc làm mới tất cả các khóa có thể là một quá trình khá dài!
+preview-failed = Không thể đọc tập tin khóa công khai.
 general-error = Lỗi: { $reason }
 dlg-button-delete = Xóa (&D)
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Đã xuất thành công khóa công khai!</b>
+openpgp-export-public-fail = <b>Không thể xuất khóa công khai đã chọn!</b>
 openpgp-export-secret-success = <b>Đã xuất khóa bí mật!</b>
 openpgp-export-secret-fail = <b>Không thể xuất khóa bí mật đã chọn!</b>
 # Strings in keyObj.jsm
@@ -435,8 +447,6 @@ key-in-use-title = Khóa OpenPGP hiện đang được sử dụng
 key-error-not-accepted-as-personal = Bạn chưa xác nhận rằng khóa có ID ‘{ $keySpec }’ là khóa cá nhân của bạn.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Chức năng bạn đã chọn không khả dụng ở chế độ ngoại tuyến. Vui lòng truy cập trực tuyến và thử lại.
-# Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = Chúng tôi không thể tìm thấy bất kỳ khóa nào phù hợp với từ khóa tìm kiếm được chỉ định.
 fail-key-import = Lỗi - nhập khóa không thành công
 file-write-failed = Không thể ghi vào tập tin { $output }
 confirm-permissive-import = Nhập không thành công. Khóa bạn đang cố gắng nhập có thể bị hỏng hoặc sử dụng các thuộc tính không xác định. Bạn có muốn cố gắng nhập các bộ phận chính xác không? Điều này có thể dẫn đến việc nhập các khóa không đầy đủ và không sử dụng được.
