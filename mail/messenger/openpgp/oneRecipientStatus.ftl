@@ -28,3 +28,6 @@ openpgp-key-expired = Süresi dolmuş
 openpgp-intro = { $key } için kullanılabilir ortak anahtarlar
 openpgp-pubkey-import-id = Kimlik: { $kid }
 openpgp-pubkey-import-fpr = Parmak izi: { $fpr }
+pubkey-import-button =
+    .buttonlabelaccept = İçe aktar
+    .buttonaccesskeyaccept = İ

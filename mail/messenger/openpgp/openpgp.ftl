@@ -210,6 +210,7 @@ openpgp-key-man-select-all-key =
 openpgp-key-man-key-details-key =
     .key = I
 openpgp-ign-addr-intro = Aşağıdaki seçili e-posta adresleri için bu anahtarı kullanmayı kabul ediyorsunuz:
+openpgp-key-details-doc-title = Anahtar Özellikleri
 openpgp-key-details-signatures-tab =
     .label = Sertifikalar
 openpgp-key-details-structure-tab =
