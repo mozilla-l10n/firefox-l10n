@@ -263,9 +263,6 @@ openpgp-key-man-key-details-key =
 
 openpgp-ign-addr-intro = Accetti di utilizzare questa chiave per i seguenti indirizzi email selezionati:
 
-openpgp-key-details-title =
-    .title = Proprietà chiave
-
 openpgp-key-details-doc-title = Proprietà chiave
 openpgp-key-details-signatures-tab =
     .label = Certificazioni
@@ -274,7 +271,6 @@ openpgp-key-details-structure-tab =
 openpgp-key-details-uid-certified-col =
     .label = ID utente/Certificato da
 openpgp-key-details-key-id-label = ID chiave
-openpgp-key-details-user-id2-label = Presunto proprietario della chiave
 openpgp-key-details-user-id3-label = Proprietario della chiave dichiarato
 openpgp-key-details-id-label =
     .label = ID
@@ -592,9 +588,6 @@ key-error-not-accepted-as-personal = Non si è confermato che la chiave con ID �
 
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = La funzione selezionata non è disponibile in modalità non in linea. Connettersi a Internet e riprovare.
-
-# Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = Impossibile trovare chiavi corrispondenti ai criteri di ricerca specificati.
 
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found2 = Impossibile trovare chiavi utilizzabili che corrispondono ai criteri di ricerca specificati.
