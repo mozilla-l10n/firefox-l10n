@@ -131,6 +131,9 @@ perftools-tools-threads-input-label =
 
 perftools-onboarding-message = <b>Novità</b>: { -profiler-brand-name } ora è integrato negli strumenti di sviluppo. <a>Scopri altre informazioni</a> su questo potente strumento.
 
+# `options-context-advanced-settings` is defined in toolbox-options.ftl
+perftools-onboarding-reenable-old-panel = (per un periodo limitato di tempo sarà possibile accedere al pannello Prestazioni originale tramite <a>{ options-context-advanced-settings }</a>)
+
 perftools-onboarding-close-button =
   .aria-label = Chiudi il messaggio introduttivo
 
