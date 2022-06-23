@@ -290,6 +290,9 @@ theme-monochromatic-heading = Warna
 theme-monochromatic-subheading = Warna baru yang semarak dari { -brand-product-name }. Tersedia untuk waktu terbatas.
 theme-colorways-button = Coba Colorways
 colorway-collection-independent-voices-subheading = Buatlah { -brand-short-name } menjadi lebih seperti Anda.
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires.
+colorway-collection-expiry-date-span = Kedaluwarsa { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Aktif
 plugin-disabled-heading = Nonaktif
 dictionary-enabled-heading = Aktif
