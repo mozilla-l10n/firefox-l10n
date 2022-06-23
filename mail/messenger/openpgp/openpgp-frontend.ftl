@@ -17,6 +17,7 @@ openpgp-ctx-import-key =
 openpgp-ctx-verify-att =
     .label = Xác minh chữ ký
     .accesskey = V
+openpgp-has-sender-key = Thư này chứa khóa công khai OpenPGP của người gửi.
 openpgp-be-careful-new-key = Cảnh báo: Khóa công khai OpenPGP mới trong thông báo này khác với các khóa công khai mà trước đây bạn đã chấp nhận cho { $email }.
 openpgp-import-sender-key =
     .label = Nhập…
