@@ -3,20 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Gambar-dalam-Gambar
-
 pictureinpicture-pause =
     .aria-label = Tunda
 pictureinpicture-play =
     .aria-label = Mainkan
-
 pictureinpicture-mute =
     .aria-label = Senyap
 pictureinpicture-unmute =
     .aria-label = Keraskan
-
 pictureinpicture-unpip =
     .aria-label = Kirim kembali ke tab
-
 pictureinpicture-close =
     .aria-label = Tutup
-
+pictureinpicture-subtitles-label = Subtitel
+pictureinpicture-font-size-label = Ukuran fon
+pictureinpicture-font-size-small = Kecil
+pictureinpicture-font-size-medium = Sedang
+pictureinpicture-font-size-large = Besar
