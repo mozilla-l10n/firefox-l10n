@@ -289,6 +289,7 @@ theme-disabled-heading2 = Sparade teman
 theme-monochromatic-heading = Colorways
 theme-monochromatic-subheading = Levande nya colorways från { -brand-product-name }. Tillgängliga under en begränsad tid.
 theme-colorways-button = Prova Colorways
+colorway-collection-independent-voices-subheading = Gör { -brand-short-name } lite mer personlig.
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = Upphör { DATETIME($expiryDate, month: "long", day: "numeric") }
