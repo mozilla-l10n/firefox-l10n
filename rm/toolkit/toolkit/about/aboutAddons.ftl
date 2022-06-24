@@ -292,6 +292,10 @@ theme-disabled-heading2 = Designs memorisads
 theme-monochromatic-heading = Cumbinaziun da colurs
 theme-monochromatic-subheading = Novas cumbinaziuns da colurs vivas da { -brand-product-name }. Disponiblas durant in temp limità.
 theme-colorways-button = Empruvar las cumbinaziuns da colurs
+colorway-collection-independent-voices-subheading = Fa che { -brand-short-name } daventia tes.
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires.
+colorway-collection-expiry-date-span = Scroda ils { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Activà
 plugin-disabled-heading = Deactivà
 dictionary-enabled-heading = Activà
