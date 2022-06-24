@@ -63,3 +63,4 @@ experimental-features-ime-search-description = Peteĩ IME (Input Method Editor) 
 # Text recognition for images
 experimental-features-text-recognition =
     .label = Moñe’ẽrã kuaaukaha
+experimental-features-text-recognition-description = Emyandy moñe’ẽrã jekuaaukaha ta’ãnga rupive.
