@@ -829,9 +829,9 @@
 <!ENTITY contextPlay.accesskey "с">
 <!ENTITY contextPause.label "Приостановить">
 <!ENTITY contextPause.accesskey "с">
-<!ENTITY contextMute.label "Убрать звук">
+<!ENTITY contextMute.label "Отключить звук">
 <!ENTITY contextMute.accesskey "б">
-<!ENTITY contextUnmute.label "Восстановить звук">
+<!ENTITY contextUnmute.label "Включить звук">
 <!ENTITY contextUnmute.accesskey "т">
 
 <!-- Quick Search Bar -->
