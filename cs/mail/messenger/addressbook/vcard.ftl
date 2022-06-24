@@ -81,9 +81,27 @@ vcard-date-year = Rok
 vcard-adr-header = Adresy
 vcard-adr-add = Přidat adresu
 vcard-adr-label = Adresa
+vcard-adr-delivery-label = Doručovací štítek
+vcard-adr-pobox = Poštovní přihrádka
+vcard-adr-ext = Rozšířená adresa
+vcard-adr-street = Ulice
+# Or "Locality"
+vcard-adr-locality = Město
+# Or "Region"
+vcard-adr-region = Stát/Kraj
+# The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
+vcard-adr-code = PSČ
+vcard-adr-country = Země
 
 # NOTE vCard field
 
+vcard-note-header = Poznámky
+vcard-note-add = Přidat poznámku
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-header = Informace o společnosti
+vcard-org-add = Přidat informace o společnosti
+vcard-org-title = Pozice
+vcard-org-role = Role
+vcard-org-org = Společnost
