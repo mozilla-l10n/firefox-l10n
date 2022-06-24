@@ -35,4 +35,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = داخستن
-
+about-private-browsing-promo-close-button =
+    .title = داخستن

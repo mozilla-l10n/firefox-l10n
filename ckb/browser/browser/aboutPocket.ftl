@@ -46,6 +46,9 @@ pocket-panel-home-my-list = لیستەکەم
 
 ## Pocket panel header component
 
+pocket-panel-header-sign-in = بچۆژوورەوە
 
 ## Pocket panel buttons
 
+pocket-panel-button-show-all = هەمووی پیشان بدە
+pocket-panel-button-remove = بیسڕەوە
