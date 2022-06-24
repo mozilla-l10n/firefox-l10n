@@ -7,4 +7,5 @@
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
+default-browser-prompt-button-primary-pin = Դարձնել հիմնական դիտարկիչ
 default-browser-prompt-button-secondary = Ոչ հիմա

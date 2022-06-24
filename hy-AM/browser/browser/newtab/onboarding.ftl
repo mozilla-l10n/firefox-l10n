@@ -3,11 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### UI strings for the simplified onboarding / multistage about:welcome
-### Various strings use a non-breaking space to avoid a single dangling /
-### widowed word, so test on various window sizes if you also want this.
-
-
 ### UI strings for the MR1 onboarding / multistage about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -22,9 +17,8 @@ onboarding-not-now-button-label = Ոչ հիմա
 ## Custom Return To AMO onboarding strings
 
 
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
-
 ## Multistage onboarding strings (about:welcome pages)
+
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
@@ -44,42 +38,29 @@ mr1-onboarding-sign-in-button-label = Մուտք գործել
 
 mr1-onboarding-import-header = Այս ամենը բերեք ձեզ հետ
 mr1-onboarding-import-subtitle = Ներմուծեք ձեր գանղտնաբառերը, էջանիշերը և ավելին:
-
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Ներմուծել { $previous }-ից
-
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Ներմուծել նախորդ զննիչից
 mr1-onboarding-import-secondary-button-label = Ոչ հիմա
-
 mr1-onboarding-theme-header = Դարձրեք այն ձերը
 mr1-onboarding-theme-subtitle = Անհատականացրեք { -brand-short-name }-ը ոճով:
 mr1-onboarding-theme-primary-button-label = Պահել ոճը
 mr1-onboarding-theme-secondary-button-label = Ոչ հիմա
-
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Համակարգային
-
 mr1-onboarding-theme-label-light = Բաց
 mr1-onboarding-theme-label-dark = Մուգ
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+onboarding-theme-primary-button-label = Պատրաստ է
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
-
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-
-## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
 
 ## Strings for Thank You page
@@ -93,6 +74,9 @@ mr2-onboarding-thank-you-text = { -brand-short-name }-ը անկախ դիտարկ
 ##
 ## Variables:
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "Español (ES)"
+
+onboarding-live-language-secondary-cancel-download = Չեղարկել
+onboarding-live-language-skip-button-label = Բաց թողնել
 
 ## Firefox 100 Thank You screens
 
