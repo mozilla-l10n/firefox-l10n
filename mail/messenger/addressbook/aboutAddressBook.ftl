@@ -167,6 +167,7 @@ about-addressbook-placeholder-no-search-results = Na chattà nagins contacts
 
 ## Details
 
+about-addressbook-prefer-display-name = Da preferenza mussar il 'num per mussar' empè dal chau dal messadi
 about-addressbook-write-action-button = Scriver
 about-addressbook-event-action-button = Eveniment
 about-addressbook-search-action-button = Tschertgar

@@ -146,6 +146,7 @@ message-header-button-style-icons =
 message-header-show-sender-full-address =
     .label = Adina mussar l'entira adressa dal speditur
     .accesskey = e
+message-header-show-sender-full-address-description = L'adressa dad e-mail vegn mussada sut il num per mussar.
 message-header-show-recipient-avatar =
     .label = Mussar il maletg da profil dal speditur
     .accesskey = p

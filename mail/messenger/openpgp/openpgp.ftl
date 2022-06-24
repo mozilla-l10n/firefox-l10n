@@ -502,6 +502,9 @@ key-error-key-id-not-found = L'ID da clav «{ $keySpec }» configurada na sa cha
 key-error-not-accepted-as-personal = Ti n'has betg confermà che la clav cun l'ID «{ $keySpec }» è tia clav persunala.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = La funcziunalitad tschernida na stat betg da disposiziun en il modus offline. Ta connectescha cun l'internet ed emprova anc ina giada.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found2 = Nus n'avain betg chattà ina clav utilisabla che correspunda als criteris da tschertga inditgads.
+no-update-found = Ti has gia las clavs ch'èn vegnidas chattadas online.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Errur – il cumond d'extracziun da la clav n'è betg reussì
 # Strings used in keyRing.jsm

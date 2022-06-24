@@ -69,6 +69,8 @@ openpgp-key-assistant-key-source =
        *[other] Funtaunas
     }
 openpgp-key-assistant-key-collected-attachment = agiunta a l'e-mail
+# Autocrypt is the name of a standard.
+openpgp-key-assistant-key-collected-autocrypt = Chau dad autocrypt
 openpgp-key-assistant-key-collected-keyserver = server da clavs
 # Web Key Directory (WKD) is a concept.
 openpgp-key-assistant-key-collected-wkd = Web Key Directory
