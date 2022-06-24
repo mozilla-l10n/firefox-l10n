@@ -285,6 +285,10 @@ theme-disabled-heading2 = Téma ñongatupyre
 theme-monochromatic-heading = Sa’y ojueheguáva
 theme-monochromatic-subheading = Sa’y ojuehegua overáva pyahu { -brand-product-name }. Eipurukuaáva sapy’ami.
 theme-colorways-button = Eipuru Colorways
+colorway-collection-independent-voices-subheading = Ejapo { -brand-short-name } oñeñandumieve hag̃ua ndéicha.
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires.
+colorway-collection-expiry-date-span = Hekopaháta { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Myandypyre
 plugin-disabled-heading = Ojepuruve’ỹva
 dictionary-enabled-heading = Myandypyre
