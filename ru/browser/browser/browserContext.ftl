@@ -174,10 +174,10 @@ main-context-menu-media-pause =
 
 main-context-menu-media-mute =
     .label = Отключить звук
-    .accesskey = О
+    .accesskey = з
 main-context-menu-media-unmute =
     .label = Включить звук
-    .accesskey = В
+    .accesskey = з
 main-context-menu-media-play-speed-2 =
     .label = Скорость
     .accesskey = к
