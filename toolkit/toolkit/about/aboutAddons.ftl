@@ -287,6 +287,7 @@ theme-disabled-heading2 = Skłaźone drastwy
 theme-monochromatic-heading = Barwowe kombinacije
 theme-monochromatic-subheading = Žywe nowe barwowe kombinacije z { -brand-product-name }. Za wobgranicowany cas k dispoziciji.
 theme-colorways-button = Barwowe kombinacije wopytowaś
+colorway-collection-independent-voices-subheading = Dajśo { -brand-short-name } se wěcej ako wy cuś.
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = Płaśiwy do { DATETIME($expiryDate, month: "long", day: "numeric") }
