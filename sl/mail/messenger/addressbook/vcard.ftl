@@ -81,6 +81,14 @@ vcard-date-year = leto
 vcard-adr-header = Naslovi
 vcard-adr-add = Dodaj naslov
 vcard-adr-label = Naslov
+vcard-adr-pobox = Poštni nabiralnik
+vcard-adr-street = Ulica
+# Or "Locality"
+vcard-adr-locality = Mesto
+# Or "Region"
+vcard-adr-region = Okrožje/pokrajina
+# The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
+vcard-adr-code = Poštna številka
 vcard-adr-country = Država
 
 # NOTE vCard field
