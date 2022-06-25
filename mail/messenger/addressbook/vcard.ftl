@@ -15,6 +15,7 @@ vcard-entry-type-label = Тип
 vcard-entry-type-home = Домашний
 vcard-entry-type-work = Рабочий
 vcard-entry-type-none = Нет
+vcard-entry-type-custom = Персональный
 
 # N vCard field
 
@@ -102,3 +103,5 @@ vcard-note-add = Добавить заметку
 vcard-org-header = Организация
 vcard-org-add = Добавить организацию
 vcard-org-title = Должность
+vcard-org-role = Роль
+vcard-org-org = Организация
