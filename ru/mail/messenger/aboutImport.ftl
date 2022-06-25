@@ -133,9 +133,12 @@ progress-pane-importing2 = Импорт… { $progressPercent }
 progress-pane-exporting2 = Экспорт… { $progressPercent }
 progress-pane-finished-desc2 = Завершен.
 error-pane-title = Ошибка
+error-message-zip-file-too-big2 = Размер выбранного ZIP-файла превышает 2 ГБ. Пожалуйста, сначала распакуйте его, а затем импортируйте из распакованной папки.
+error-message-extract-zip-file-failed2 = Не удалось распаковать ZIP-файл. Распакуйте его вручную, а затем импортируйте из распакованной папки.
 error-message-failed = В процессе импорта произошёл непредвиденный сбой. Более подробная информация может быть доступна в Консоли ошибок.
 error-failed-to-parse-ics-file = В файле не найдены элементы для импорта.
 error-export-failed = В процессе экспорта произошёл непредвиденный сбой. Более подробная информация может быть доступна в Консоли ошибок.
+error-message-no-profile = Профиль не найден.
 
 ## <csv-field-map> element
 
@@ -147,14 +150,31 @@ csv-target-field = Поле адресной книги
 
 ## Export tab
 
+export-profile-title = Экспортируйте учётные записи, сообщения, адресные книги и настройки в ZIP-файл.
+export-profile-description = Если размер вашего текущего профиля превышает 2ГБ, мы рекомендуем вам создать его резервную копию самостоятельно.
 export-open-profile-folder = Открыть папку профиля
+export-file-picker2 = Экспорт в ZIP-файл
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-title = Данные для импорта
+summary-pane-start = Начать импорт
+summary-pane-warning = После завершения импорта будет необходимо перезапустить { -brand-product-name }.
+summary-pane-start-over = Перезапуск инструмента импорта
 
 ## Footer area
 
+footer-help = Нужна помощь?
+footer-import-documentation = Документация по импорту
+footer-export-documentation = Документация по экспорту
+footer-support-forum = Форум поддержки
 
 ## Step navigation on top of the wizard pages
 
+step-list =
+    .aria-label = Пошаговый импорт
+step-confirm = Подтвердить
+# Variables:
+# $number (number) - step number
+step-count = { $number }
