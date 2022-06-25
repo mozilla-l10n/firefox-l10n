@@ -830,9 +830,9 @@
 <!ENTITY contextPause.label "Приостановить">
 <!ENTITY contextPause.accesskey "с">
 <!ENTITY contextMute.label "Отключить звук">
-<!ENTITY contextMute.accesskey "б">
+<!ENTITY contextMute.accesskey "ю">
 <!ENTITY contextUnmute.label "Включить звук">
-<!ENTITY contextUnmute.accesskey "т">
+<!ENTITY contextUnmute.accesskey "ю">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
