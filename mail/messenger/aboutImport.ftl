@@ -84,16 +84,21 @@ items-pane-override = Morebitni obstoječi ali enaki podatki ne bodo prepisani.
 
 ## Import from address book file steps
 
+import-from-addr-book-file-description = Izberite obliko datoteke, ki vsebuje imenik.
 addr-book-csv-file = datoteka z vrednostmi, ločenimi z vejicami ali s tabulatorji (.csv, .tsv)
-addr-book-ldif-file = Datoteka LDIF (.ldif)
-addr-book-vcard-file = Datoteka vCard (.vcf, .vcard)
-addr-book-sqlite-file = Datoteka podatkovne zbirke SQLite (.sqlite)
-addr-book-mab-file = Datoteka podatkovne zbirke Mork (.mab)
-addr-book-file-picker = Izberite datoteko imenika
+addr-book-ldif-file = datoteka LDIF (.ldif)
+addr-book-vcard-file = datoteka vCard (.vcf, .vcard)
+addr-book-sqlite-file = podatkovna zbirka SQLite (.sqlite)
+addr-book-mab-file = podatkovna zbirka Mork (.mab)
+addr-book-file-picker = Izberite datoteko z imenikom
 addr-book-csv-field-map-title = Poveži imena polj
 addr-book-csv-field-map-desc = Izberite polja v imeniku, ki ustrezajo izvornim poljem. Počistite polja, ki jih ne želite uvoziti.
 addr-book-directories-title = Izberite, kam želite uvoziti izbrane podatke
 addr-book-directories-pane-source = Izvorna datoteka:
+# $addressBookName (string) - name of the new address book that would be created.
+addr-book-import-into-new-directory2 = Ustvari nov imenik z imenom <strong>"{ $addressBookName }"</strong>
+# $addressBookName (string) - name of the address book to import into
+addr-book-summary-title = Uvozi izbrane podatke v imenik "{ $addressBookName }"
 # $addressBookName (string) - name of the address book that will be created.
 addr-book-summary-description = Ustvarjen bo nov imenik z imenom "{ $addressBookName }".
 
@@ -106,6 +111,20 @@ calendar-items-filter-input =
     .placeholder = Filtriraj predmete …
 calendar-select-all-items = Izberi vse
 calendar-deselect-all-items = Počisti izbor
+calendar-target-title = Izberite, kam želite uvoziti izbrane predmete.
+# $targetCalendar (string) - name of the new calendar that would be created
+calendar-import-into-new-calendar2 = Ustvari nov koledar z imenom <strong>"{ $targetCalendar }"</strong>
+# $itemCount (number) - count of selected items (tasks, events) that will be imported
+# $targetCalendar (string) - name of the calendar the items will be imported into
+calendar-summary-title =
+    { $itemCount ->
+        [one] Uvozi en predmet v koledar "{ $targetCalendar }"
+        [two] Uvozi { $itemCount } predmeta v koledar "{ $targetCalendar }"
+        [few] Uvozi { $itemCount } predmete v koledar "{ $targetCalendar }"
+       *[other] Uvozi { $itemCount } predmetov v koledar "{ $targetCalendar }"
+    }
+# $targetCalendar (string) - name of the calendar that will be created
+calendar-summary-description = Ustvarjen bo nov koledar z imenom "{ $targetCalendar }".
 
 ## Import dialog
 
@@ -132,6 +151,8 @@ csv-target-field = Polje imenika
 
 ## Export tab
 
+export-profile-title = Izvozite račune, sporočila, imenike in nastavitve v datoteko ZIP.
+export-profile-description = Če je vaš trenutni profil večji od 2 GB, predlagamo, da ga varnostno kopirate sami.
 export-open-profile-folder = Odpri mapo s profilom
 export-file-picker2 = Izvozi v datoteko ZIP
 export-brand-name = { -brand-product-name }
@@ -141,6 +162,7 @@ export-brand-name = { -brand-product-name }
 summary-pane-title = Podatki za uvoz
 summary-pane-start = Začni uvoz
 summary-pane-warning = Po dokončanem uvozu se bo moral { -brand-product-name } znova zagnati.
+summary-pane-start-over = Znova zaženi orodje za uvoz
 
 ## Footer area
 
