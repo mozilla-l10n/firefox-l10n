@@ -11,7 +11,6 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Настройки
     .accesskey = а
-
 menu-addons-and-themes =
     .label = Дополнения и темы
     .accesskey = п
@@ -21,11 +20,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Безопасный режим…
     .accesskey = п
-
 menu-help-exit-troubleshoot-mode =
     .label = Отключить безопасный режим
     .accesskey = ю
-
 menu-help-more-troubleshooting-info =
     .label = Информация для решения проблем
     .accesskey = ш
@@ -53,21 +50,33 @@ menu-view-repair-text-encoding =
 
 ## View / Layout
 
+menu-font-size-label =
+    .label = Размер шрифта
+    .accesskey = м
+menuitem-font-size-enlarge =
+    .label = Увеличить размер шрифта
+    .accesskey = в
+menuitem-font-size-reduce =
+    .label = Уменьшить размер шрифта
+    .accesskey = м
+menuitem-font-size-reset =
+    .label = Сбросить размер шрифта
+    .accesskey = и
 mail-uidensity-label =
     .label = Значки
     .accesskey = н
-
 mail-uidensity-compact =
     .label = Компактные
     .accesskey = м
-
 mail-uidensity-normal =
     .label = Обычные
     .accesskey = ы
-
 mail-uidensity-touch =
     .label = Сенсорные
     .accesskey = о
+menu-spaces-toolbar-button =
+    .label = Панель пробелов
+    .accesskey = в
 
 ## File
 
