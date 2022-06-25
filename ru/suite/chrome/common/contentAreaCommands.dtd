@@ -101,9 +101,9 @@
 <!ENTITY mediaPause.label             "Приостановить">
 <!ENTITY mediaPause.accesskey         "с">
 <!ENTITY mediaMute.label              "Отключить звук">
-<!ENTITY mediaMute.accesskey          "б">
+<!ENTITY mediaMute.accesskey          "ю">
 <!ENTITY mediaUnmute.label            "Включить звук">
-<!ENTITY mediaUnmute.accesskey        "т">
+<!ENTITY mediaUnmute.accesskey        "ю">
 <!ENTITY mediaPlaybackRate.label        "Скорость воспроизведения">
 <!ENTITY mediaPlaybackRate.accesskey    "к">
 <!ENTITY mediaPlaybackRate050.label     "Замедленное движение (½×)">
