@@ -7,7 +7,6 @@ page-subtitle =
     Această pagină conține informații tehnice care ar putea fi utile atunci când
     încerci să rezolvi o problemă. Dacă cauți răspunsuri la întrebări comune despre
     { -brand-short-name }, verifică <a data-l10n-name="support-link">site-ul nostru de suport</a>.
-
 crashes-title = Rapoarte de defecțiuni
 crashes-id = ID-ul raportului
 crashes-send-date = Trimis
@@ -58,6 +57,10 @@ app-basics-enabled-plugins = Pluginuri activate
 app-basics-build-config = Configurația versiunii compilate
 app-basics-user-agent = Agent utilizator
 app-basics-os = SO
+app-basics-os-theme = Tema SO-ului
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Tradus prin Rosetta
 app-basics-memory-use = Utilizarea memoriei
 app-basics-performance = Performanță
 app-basics-service-workers = Scripturi service worker înregistrate
@@ -71,7 +74,6 @@ app-basics-location-service-key-google = Cheie de servicii Google pentru localiz
 app-basics-safebrowsing-key-google = Cheie Google pentru navigare în siguranță
 app-basics-key-mozilla = Cheie pentru serviciul de localizare Mozilla
 app-basics-safe-mode = Mod sigur
-
 show-dir-label =
     { PLATFORM() ->
         [macos] Afișează în Finder
@@ -119,13 +121,12 @@ copy-raw-data-to-clipboard-label = Copiază datele brute în clipboard
 sandbox-title = Sandbox
 sandbox-sys-call-log-title = Apeluri de sistem respinse
 sandbox-sys-call-index = #
-sandbox-sys-call-age = Secunde în urmă
+sandbox-sys-call-age = acum câteva secunde
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Tipul de proces
 sandbox-sys-call-number = Apel sistem
 sandbox-sys-call-args = Argumente
-
 troubleshoot-mode-title = Diagnostică problemele
 restart-in-troubleshoot-mode-label = Mod de depanare…
 clear-startup-cache-title = Încearcă să golești cache-ul de pornire
@@ -189,25 +190,22 @@ report-crash-for-days =
         [few] Rapoarte de defecțiuni pentru ultimele { $days } zile
        *[other] Rapoarte de defecțiuni pentru ultimele { $days } de zile
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
     { $minutes ->
-        [one] { $minutes } minut în urmă
-        [few] { $minutes } minute în urmă
-       *[other] { $minutes } de minute în urmă
+        [one] acum { $minutes } minut
+        [few] acum { $minutes } minute
+       *[other] acum { $minutes } de minute
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
     { $hours ->
-        [one] { $hours } oră în urmă
-        [few] { $hours } ore în urmă
-       *[other] { $hours } de ore în urmă
+        [one] acum { $hours } oră
+        [few] acum { $hours } ore
+       *[other] acum { $hours } de ore
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -216,7 +214,6 @@ crashes-time-days =
         [few] acum { $days } zile
        *[other] acum { $days } de zile
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -225,7 +222,6 @@ pending-reports =
         [few] Toate rapoartele de defecțiuni (inclusiv { $reports } rapoarte în așteptare în intervalul de timp dat)
        *[other] Toate rapoartele de defecțiuni (inclusiv { $reports } de rapoarte în așteptare în intervalul de timp dat)
     }
-
 raw-data-copied = Date brute copiate în clipboard
 text-copied = Text copiat în clipboard
 
@@ -238,11 +234,9 @@ blocked-mismatched-version = Blocat din cauza necorelării versiunilor driverelo
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blocat pentru versiunea ta de driver pentru adaptorul grafic. Încearcă să actualizezi driverul adaptorului grafic la versiunea { $driverVersion } sau mai nouă.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametrii ClearType
-
 compositing = Compunere
 hardware-h264 = Decodare H264 hardware
 main-thread-no-omtc = fir principal, fără OMTC
@@ -257,7 +251,6 @@ virtual-monitor-disp = Afișarea monitorului virtual
 
 found = Găsită
 missing = Lipsă
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Descriere
@@ -280,19 +273,15 @@ webgl2-renderer = Renderul driverului WebGL 2
 webgl2-version = Versiunea driverului WebGL 2
 webgl2-driver-extensions = Extensiile driverului WebGL 2
 webgl2-extensions = Extensii WebGL 2
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Pus pe lista de blocare din cauza problemelor cunoscute: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Pus pe lista de blocări; cod de eroare { $failureCode }
-
 d3d11layers-crash-guard = Compozitor D3D11
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Decodor video WMF VPX
-
 reset-on-next-restart = Resetează la următoarea repornire
 gpu-process-kill-button = Termină procesul GPU
 gpu-device-reset = Resetarea dispozitivului
@@ -302,10 +291,8 @@ content-uses-tiling = Folosește Tiling (Conținut)
 off-main-thread-paint-enabled = Desenare în afara firului de execuție principal activată
 off-main-thread-paint-worker-count = Număr de workeri pentru desenare în afara firului de execuție principal
 target-frame-rate = Frecvență de cadre țintă
-
 min-lib-versions = Versiune minimă așteptată
 loaded-lib-versions = Versiune în uz
-
 has-seccomp-bpf = Seccomp-BPF (filtrarea apelurilor de sistem)
 has-seccomp-tsync = Sincronizarea firului de execuție seccomp
 has-user-namespaces = Spații de nume ale utilizatorului
@@ -318,23 +305,19 @@ sandbox-proc-type-content = conținut
 sandbox-proc-type-file = conținut fișier
 sandbox-proc-type-media-plugin = plugin media
 sandbox-proc-type-data-decoder = decodor de date
-
 startup-cache-title = Cache de pornire
 startup-cache-disk-cache-path = Cale de salvare locală pentru cache
 startup-cache-ignore-disk-cache = Ignoră cache-ul salvat local
 startup-cache-found-disk-cache-on-init = Cache local identificat la inițializare
 startup-cache-wrote-to-disk-cache = Cache salvat local
-
 launcher-process-status-0 = Activat
 launcher-process-status-1 = Dezactivat din cauza unei probleme
 launcher-process-status-2 = Dezactivat forțat
 launcher-process-status-unknown = Stare necunoscută
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-
 async-pan-zoom = Panoramare/zoom asincron(ă)
 apz-none = fără
 wheel-enabled = intrare pentru rotița mouse-ului activată
@@ -370,7 +353,6 @@ support-printing-prefs-value = Valoare
 support-remote-experiments-title = Experimente la distanță
 support-remote-experiments-name = Nume
 support-remote-experiments-see-about-studies = Consultă <a data-l10n-name="support-about-studies-link">about:studies</a> pentru mai multe informații, inclusiv cum să dezactivezi experimentele individuale sau cum să împiedici { -brand-short-name } să ruleze acest tip de experiment în viitor.
-
 support-remote-features-title = Funcții la distanță
 support-remote-features-name = Nume
 support-remote-features-status = Stare
