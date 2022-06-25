@@ -75,8 +75,8 @@ mail-uidensity-touch =
     .label = Сенсорные
     .accesskey = о
 menu-spaces-toolbar-button =
-    .label = Панель пробелов
-    .accesskey = в
+    .label = Панель мест
+    .accesskey = м
 
 ## File
 
