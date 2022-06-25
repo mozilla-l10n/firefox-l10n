@@ -32,9 +32,9 @@ vcard-n-add-middlename =
 vcard-n-lastname = Фамилия
 vcard-n-add-lastname =
     .title = Добавить фамилию
-vcard-n-suffix = Добавление к имени и фамилии
+vcard-n-suffix = Суффикс
 vcard-n-add-suffix =
-    .title = Добавить к имени и фамилии
+    .title = Добавить суффикс
 
 # Email vCard field
 
@@ -51,7 +51,7 @@ vcard-url-label = Веб-сайт
 
 # Tel vCard field
 
-vcard-tel-header = Телефонные номера
+vcard-tel-header = Номера телефонов
 vcard-tel-add = Добавить номер телефона
 vcard-tel-label = Номер телефона
 
