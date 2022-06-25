@@ -73,6 +73,9 @@ restart-later = Repornește mai târziu
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> necesită file container.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -160,6 +163,35 @@ containers-remove-cancel-button = Nu elimina acest container
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Limbă și aspect
+preferences-web-appearance-header = Aspectul site-urilor web
+preferences-web-appearance-description = Unele site-uri web își adaptează schema de culori pe baza preferințelor tale. Alege schema de culori pe care dorești să o folosești pentru aceste site-uri.
+preferences-web-appearance-choice-browser = Tema { -brand-short-name }
+preferences-web-appearance-choice-system = Tema sistemului
+preferences-web-appearance-choice-light = Deschis
+preferences-web-appearance-choice-dark = Întunecat
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Potrivește setările temei { -brand-short-name } pentru fundalurile și conținutul site-urilor web.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Potrivește setările sistemului pentru fundalurile și conținutul site-urilor web.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Folosește un aspect deschis pentru fundalurile și conținutul site-urilor web.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Folosește un aspect întunecat pentru fundalurile și conținutul site-urilor web.
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Alegerile tale de culoare suprascriu aspectul site-urilor web. <a data-l10n-name="colors-link">Gestionează culorile</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Gestionează temele { -brand-short-name } în <a data-l10n-name="themes-link">Extensii și teme</a>
+preferences-colors-header = Culori
+preferences-colors-description = Suprascrie culorile implicite ale { -brand-short-name } pentru text, fundalurile site-urilor web și linkuri.
+preferences-colors-manage-button =
+    .label = Gestionează culorile…
+    .accesskey = C
 default-font = Font implicit
     .accesskey = D
 default-font-size = Dimensiune
@@ -299,6 +331,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Ce ar trebui să facă { -brand-short-name } cu alte fișiere?
+applications-save-for-new-types =
+    .label = Să salveze fișierele
+    .accesskey = S
+applications-ask-before-handling =
+    .label = Să întrebe dacă să deschidă sau să salveze fișierele
+    .accesskey = A
 drm-content-header = Conținut Digital Rights Management (DRM)
 play-drm-content =
     .label = Redă conținut controlat prin DRM
@@ -327,6 +366,9 @@ update-application-warning-cross-user-setting = Această setare se va aplica pen
 update-application-use-service =
     .label = Folosește un serviciu în fundal pentru a instala actualizări
     .accesskey = b
+update-application-suppress-prompts =
+    .label = Afișează mai puține solicitări de notificare a actualizărilor
+    .accesskey = n
 update-in-progress-title = Actualizare în curs
 update-in-progress-message = Vrei ca { -brand-short-name } să continue cu această actualizare?
 update-in-progress-ok-button = Înlătură
