@@ -193,6 +193,9 @@ spotlight-total-cookie-protection-expanded = { -brand-short-name } crea un recin
 spotlight-total-cookie-protection-primary-button = Attiva Protezione totale per i cookie
 spotlight-total-cookie-protection-secondary-button = Non adesso
 
+cfr-total-cookie-protection-header = Grazie al tuo aiuto, { -brand-short-name } è più riservato e sicuro che mai
+cfr-total-cookie-protection-body = La Protezione totale per i cookie è lo strumento più potente per la protezione della privacy che abbiamo finora realizzato. E adesso è disponibile come impostazione predefinita per tutti gli utenti di { -brand-short-name } nel mondo. Questo risultato sarebbe stato impossibile senza il contributo di persone che, come te, hanno deciso di provare questa funzione in anteprima. Grazie per il tuo contributo e per aiutarci a creare un Internet migliore e più sicuro.
+
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = La strada verso un Internet migliore parte da te
