@@ -207,7 +207,7 @@ exchange-dialog-cancel-button = Отмена
 
 exit-dialog-title = Ни одна учётная запись электронной почты не настроена
 exit-dialog-description = Вы уверены, что хотите отменить процесс настройки? { -brand-short-name } может быть использован без учётной записи электронной почты, но многие функции будут недоступны.
-account-setup-no-account-checkbox = Использование { -brand-short-name } без учётной записи электронной почты
+account-setup-no-account-checkbox = Использовать { -brand-short-name } без учётной записи электронной почты
     .accesskey = е
 exit-dialog-cancel-button = Продолжить настройку
     .accesskey = ж
