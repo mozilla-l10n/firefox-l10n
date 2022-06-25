@@ -22,11 +22,12 @@ about-addressbook-toolbar-import =
 ## Books
 
 all-address-books = Все адресные книги
-
 about-addressbook-books-context-properties =
     .label = Свойства
 about-addressbook-books-context-synchronize =
     .label = Синхронизовать
+about-addressbook-books-context-edit =
+    .label = Изменить
 about-addressbook-books-context-print =
     .label = Печать…
 about-addressbook-books-context-export =
@@ -37,7 +38,6 @@ about-addressbook-books-context-remove =
     .label = Удалить
 about-addressbook-books-context-startup-default =
     .label = Каталог по умолчанию при открытии
-
 about-addressbook-confirm-delete-book-title = Удаление адресной книги
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -55,17 +55,14 @@ about-addressbook-search =
     .placeholder = Поиск в { $name }
 about-addressbook-search-all =
     .placeholder = Поиск во всех адресных книгах
-
-about-addressbook-sort-button =
-    .title = Изменение порядка в списке
-
+about-addressbook-sort-button2 =
+    .title = Варианты отображения списка
 about-addressbook-name-format-display =
     .label = Отображаемое имя
 about-addressbook-name-format-firstlast =
     .label = Первый Последний
 about-addressbook-name-format-lastfirst =
     .label = Последний, Первый
-
 about-addressbook-sort-name-ascending =
     .label = Сортировать по имени (от А до Я)
 about-addressbook-sort-name-descending =
@@ -74,10 +71,40 @@ about-addressbook-sort-email-ascending =
     .label = Сортировать по адресу эл. почты (от A до Z)
 about-addressbook-sort-email-descending =
     .label = Сортировать по адресу эл. почты (от Z до A)
+about-addressbook-horizontal-layout =
+    .label = Переключиться на горизонтальную раскладку
+about-addressbook-vertical-layout =
+    .label = Переключиться на вертикальную компоновку
 
+## Card column headers
+## Each string is listed here twice, and the values should match.
+
+about-addressbook-column-header-generatedname = Имя
+about-addressbook-column-label-generatedname =
+    .label = { about-addressbook-column-header-generatedname }
+about-addressbook-column-header-emailaddresses = Адреса электронной почты
+about-addressbook-column-label-emailaddresses =
+    .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-header-phonenumbers = Телефонные номера
+about-addressbook-column-label-phonenumbers =
+    .label = { about-addressbook-column-header-phonenumbers }
+about-addressbook-column-header-addresses = Адреса
+about-addressbook-column-label-addresses =
+    .label = { about-addressbook-column-header-addresses }
+about-addressbook-column-header-title = Заголовок
+about-addressbook-column-label-title =
+    .label = { about-addressbook-column-header-title }
+about-addressbook-column-header-department = Департамент
+about-addressbook-column-label-department =
+    .label = { about-addressbook-column-header-department }
+about-addressbook-column-header-organization = Организация
+about-addressbook-column-label-organization =
+    .label = { about-addressbook-column-header-organization }
+about-addressbook-column-header-addrbook = Адресная книга
+about-addressbook-column-label-addrbook =
+    .label = { about-addressbook-column-header-addrbook }
 about-addressbook-cards-context-write =
     .label = Записать
-
 about-addressbook-confirm-delete-mixed-title = Удаление контактов и списков
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -135,19 +162,43 @@ about-addressbook-confirm-delete-contacts =
        *[many] Вы действительно хотите удалить эти { $count } контактов?
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+about-addressbook-placeholder-empty-book = Нет доступных контактов
+about-addressbook-placeholder-new-contact = Создать контакт
+about-addressbook-placeholder-search-only = Это адресная книга покажет контакты только после поиска
+about-addressbook-placeholder-searching = Поиск…
+about-addressbook-placeholder-no-search-results = Контакты не найдены
+
 ## Details
 
+about-addressbook-prefer-display-name = Использовать отображаемое имя вместо имени из заголовка сообщения
+about-addressbook-write-action-button = Записать
+about-addressbook-event-action-button = Событие
+about-addressbook-search-action-button = Поиск
 about-addressbook-begin-edit-contact-button = Изменить
 about-addressbook-delete-edit-contact-button = Удалить
 about-addressbook-cancel-edit-contact-button = Отмена
 about-addressbook-save-edit-contact-button = Сохранить
-
+about-addressbook-add-contact-to = Добавить в:
 about-addressbook-details-email-addresses-header = Адреса электронной почты
 about-addressbook-details-phone-numbers-header = Телефонные номера
-about-addressbook-details-home-address-header = Домашний адрес
-about-addressbook-details-work-address-header = Рабочий адрес
+about-addressbook-details-addresses-header = Адреса
+about-addressbook-details-notes-header = Заметки
 about-addressbook-details-other-info-header = Дополнительная информация
-
+about-addressbook-entry-type-work = Рабочий
+about-addressbook-entry-type-home = Домашний
+about-addressbook-entry-type-fax = Факс
+about-addressbook-entry-type-cell = Мобильный телефон
+about-addressbook-entry-type-pager = Пейджер
+about-addressbook-entry-name-birthday = День рождения
+about-addressbook-entry-name-anniversary = Юбилей
+about-addressbook-entry-name-title = Должность
+about-addressbook-entry-name-role = Роль
+about-addressbook-entry-name-organization = Организация
+about-addressbook-entry-name-website = Веб-сайт
+about-addressbook-entry-name-time-zone = Часовой пояс
 about-addressbook-unsaved-changes-prompt-title = Несохранённые изменения
 about-addressbook-unsaved-changes-prompt = Вы хотите сохранить изменения перед выходом из режима редактирования?
 
@@ -157,7 +208,6 @@ about-addressbook-photo-drop-target = Перетащите или вставьт
 about-addressbook-photo-drop-loading = Загрузка фото…
 about-addressbook-photo-drop-error = Не удалось загрузить фото.
 about-addressbook-photo-filepicker-title = Выберите файл изображения
-
 about-addressbook-photo-discard = Удалить существующее фото
 about-addressbook-photo-cancel = Отмена
 about-addressbook-photo-save = Сохранить
