@@ -16,3 +16,6 @@ message-header-tags-list-name = 标签
 
 ##
 
+message-header-address-in-address-book-button =
+    .title = 编辑联系人
+message-ids-field-show-all = 显示全部

@@ -55,6 +55,8 @@ about-addressbook-search =
     .placeholder = 搜索 { $name }
 about-addressbook-search-all =
     .placeholder = 搜索所有通讯录
+about-addressbook-sort-button2 =
+    .title = 列表显示选项
 about-addressbook-name-format-display =
     .label = 显示名称
 about-addressbook-name-format-firstlast =
@@ -158,6 +160,8 @@ about-addressbook-placeholder-searching = 正在搜索…
 
 ## Details
 
+about-addressbook-prefer-display-name = 在邮件标题上方显示姓名
+about-addressbook-write-action-button = 写邮件
 about-addressbook-event-action-button = 事件
 about-addressbook-search-action-button = 搜索
 about-addressbook-begin-edit-contact-button = 编辑
@@ -167,6 +171,7 @@ about-addressbook-save-edit-contact-button = 保存
 about-addressbook-details-email-addresses-header = 电子邮件地址
 about-addressbook-details-phone-numbers-header = 手机号码
 about-addressbook-details-addresses-header = 地址
+about-addressbook-details-notes-header = 备注
 about-addressbook-details-other-info-header = 其他信息
 about-addressbook-entry-type-fax = 传真
 about-addressbook-entry-type-cell = 手机
