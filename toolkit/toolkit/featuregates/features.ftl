@@ -63,3 +63,4 @@ experimental-features-ime-search-description = Το IME (Input Method Editor) ε
 # Text recognition for images
 experimental-features-text-recognition =
     .label = Αναγνώριση κειμένου
+experimental-features-text-recognition-description = Ενεργοποιήστε τις λειτουργίες αναγνώρισης κειμένου σε εικόνες.
