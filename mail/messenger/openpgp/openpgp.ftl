@@ -526,6 +526,7 @@ do-import-multiple =
     { $key }
 do-import-one = Uvozi { $name } ({ $id })?
 cant-import = Napaka pri uvažanju javnega ključa
+unverified-reply = Zamaknjeni del sporočila (odgovor) je bil verjetno spremenjen
 key-in-message-body = V telesu sporočila je najden ključ. Kliknite "Uvozi ključ", da ga uvozite
 sig-mismatch = Napaka – Neujemanje podpisov
 invalid-email = Napaka – Neveljavni e-poštni naslovi
