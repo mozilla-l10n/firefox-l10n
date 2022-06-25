@@ -3,162 +3,124 @@
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 import-page-title = Импорт
+export-page-title = Экспорт
 
 ## Header
 
 import-start = Импортировать
-
-import-start-desc = Импортируйте настройки и данные из приложения или файла.
-
+import-start-title = Импортируйте настройки или данные из приложения или файла.
+import-start-description = Выберите источник, из которого вы хотите импортировать. Позже вам будет предложено выбрать, какие данные необходимо импортировать.
 import-from-app = Импортировать из приложения
-
-import-from-app-desc = Выберите аккаунты, адресные книги, календари и другие данные для импорта из:
-
-import-from-file = Импортировать из файла
-
-import-address-book = Импортировать файл адресной книги
-
-import-calendar = Импортировать файл календаря
-
+import-file = Импортировать из файла
+import-file-title = Выберите файл для импорта его содержимого.
+import-file-description = Выберите для импорта резервную копию профиля, адресных книг или календарей.
+import-address-book-title = Импортировать файл адресной книги
+import-calendar-title = Импортировать файл календаря
 export-profile = Экспорт
 
 ## Buttons
 
-button-cancel = Отмена
-
 button-back = Назад
-
 button-continue = Продолжить
-
 button-export = Экспортировать
+button-finish = Завершить
 
 ## Import from app steps
 
 app-name-thunderbird = Thunderbird
-
 app-name-seamonkey = SeaMonkey
-
 app-name-outlook = Outlook
-
 app-name-becky = Becky! Internet Mail
-
 app-name-apple-mail = Apple Mail
-
-source-file = Импортировать из файла
+source-thunderbird = Импорт из другой установки { app-name-thunderbird }
+source-thunderbird-description = Импортируйте настройки, фильтры, сообщения и другие данные из профиля { app-name-thunderbird }.
+source-seamonkey = Импорт из установки { app-name-seamonkey }
+source-seamonkey-description = Импортируйте настройки, фильтры, сообщения и другие данные из профиля { app-name-seamonkey }.
+source-outlook = Импорт из { app-name-outlook }
+source-outlook-description = Импортируйте учётные записи, адресные книги и сообщения из { app-name-outlook }.
+source-becky = Импорт из { app-name-becky }
+source-becky-description = Импортируйте адресные книги и сообщения из { app-name-becky }.
+source-apple-mail = Импорт из { app-name-apple-mail }
+source-apple-mail-description = Импортируйте сообщения из { app-name-apple-mail }.
+source-file2 = Импорт из файла
+source-file-description = Выберите файл для импорта адресных книг, календарей или резервной копии профиля (ZIP-файл).
 
 ## Import from file selections
 
-file-profile = Импортировать резервную копию профиля (.zip)
-
+file-profile2 = Импорт резервной копии профиля
+file-profile-description = Выберите ранее сохранённый профиль Thunderbird (.zip)
 file-calendar = Импортировать календари
-
+file-calendar-description = Выберите файл, содержащий экспортированные календари или события (.ics)
 file-addressbook = Импортировать адресные книги
+file-addressbook-description = Выберите файл, содержащий экспортированные адресные книги и контакты.
 
-# Variables:
-#   $app (String) - The name of the app to import from
-profiles-pane-title = Импортировать из { $app }
+## Import from app profile steps
 
-profiles-pane-desc = Выберите, откуда нужно импортировать
-
-profile-file-picker-dir = Выберите папку профиля
-
-profile-file-picker-zip = Выберите zip-файл (до 2ГБ)
-
-items-pane-title = Выберите, что импортировать
-
-items-pane-source = Расположение источника:
-
+from-app-thunderbird = Импорт из профиля { app-name-thunderbird }
+from-app-seamonkey = Импорт из профиля { app-name-seamonkey }
+from-app-outlook = Импорт из { app-name-outlook }
+from-app-becky = Импорт из { app-name-becky }
+from-app-apple-mail = Импорт из { app-name-apple-mail }
+profiles-pane-title-thunderbird = Импортируйте настройки и данные из профиля { app-name-thunderbird }.
+profiles-pane-title-seamonkey = Импортируйте настройки и данные из профиля { app-name-seamonkey }.
+profiles-pane-title-outlook = Импорт данных из { app-name-outlook }.
+profiles-pane-title-becky = Импорт данных из { app-name-becky }.
+profiles-pane-title-apple-mail = Импорт сообщений из { app-name-apple-mail }.
+profile-source = Импорт из профиля
+# $profileName (string) - name of the profile
+profile-source-named = Импорт из профиля <strong>«{ $profileName }»</strong>
+profile-file-picker-directory = Выберите папку профиля
 items-pane-checkbox-accounts = Учётные записи и настройки
-
 items-pane-checkbox-address-books = Адресные книги
-
 items-pane-checkbox-calendars = Календари
-
 items-pane-checkbox-mail-messages = Почтовые сообщения
 
 ## Import from address book file steps
 
-import-from-addr-book-file-desc = Выберите тип файла, который хотите импортировать:
-
 addr-book-csv-file = Файл данных, разделенных запятыми или табуляциями (.csv, .tsv)
-
 addr-book-ldif-file = LDIF-файл (.ldif)
-
 addr-book-vcard-file = vCard-файл (.vcf, .vcard)
-
 addr-book-sqlite-file = Файл базы данных SQLite (.sqlite)
-
 addr-book-mab-file = Файл базы данных Mork (.mab)
-
 addr-book-file-picker = Выберите файл адресной книги
-
 addr-book-csv-field-map-title = Сопоставление имен полей
-
 addr-book-csv-field-map-desc = Выберите поля адресной книги, соответствующие полям источника. Снимите флажки с полей, которые не хотите импортировать.
-
-addr-book-directories-pane-title = Выберите каталог, в который необходимо импортировать:
-
 addr-book-directories-pane-source = Исходный файл:
 
-addr-book-import-into-new-directory = Создать новый каталог
-
-## Import from address book file steps
+## Import from calendar file steps
 
 import-from-calendar-file-desc = Выберите файл iCalendar (.ics), который вы хотите импортировать.
-
 calendar-items-loading = Загрузка элементов…
-
 calendar-items-filter-input =
     .placeholder = Фильтр элементов…
-
 calendar-select-all-items = Выделить все
-
 calendar-deselect-all-items = Снять выделение со всех
-
-calendar-import-into-new-calendar = Создать новый календарь
 
 ## Import dialog
 
-progress-pane-importing = Импорт
-
-progress-pane-exporting = Экспорт
-
-progress-pane-finished-desc = Завершено.
-
-progress-pane-restart-desc = Перезапустите приложение, чтобы завершить импорт.
-
 error-pane-title = Ошибка
-
-error-message-zip-file-too-big = Размер выбранного zip-файла превышает 2ГБ. Пожалуйста, сначала распакуйте его, а затем импортируйте из полученной папки.
-
-error-message-extract-zip-file-failed = Не удалось распаковать zip-файл. Распакуйте его вручную, а затем импортируйте из распакованной папки.
-
 error-message-failed = В процессе импорта произошёл непредвиденный сбой. Более подробная информация может быть доступна в Консоли ошибок.
-
 error-failed-to-parse-ics-file = В файле не найдены элементы для импорта.
-
 error-export-failed = В процессе экспорта произошёл непредвиденный сбой. Более подробная информация может быть доступна в Консоли ошибок.
 
 ## <csv-field-map> element
 
 csv-first-row-contains-headers = Первая строка содержит заголовки полей
-
 csv-source-field = Исходное поле
-
 csv-source-first-record = Первая запись
-
 csv-source-second-record = Вторая запись
-
 csv-target-field = Поле адресной книги
 
 ## Export tab
 
-export-profile-desc = Экспорт учётных записей почты, почтовых сообщений, адресных книг, настроек в zip-файл. При необходимости вы можете импортировать zip-файл, чтобы восстановить свой профиль.
-
-export-profile-desc2 = Если размер вашего текущего профиля превышает 2ГБ, мы рекомендуем вам создать его резервную копию самостоятельно.
-
 export-open-profile-folder = Открыть папку профиля
-
-export-file-picker = Экспорт в zip-файл
-
 export-brand-name = { -brand-product-name }
+
+## Summary pane
+
+
+## Footer area
+
+
+## Step navigation on top of the wizard pages
+
