@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 openpgp-key-assistant-title = Помощник по ключу OpenPGP
+openpgp-key-assistant-rogue-warning = Остерегайтесь принятия поддельного ключа. Чтобы убедиться, что вы получили правильный ключ, вы должны проверить его. <a data-l10n-name="openpgp-link">Подробнее…</a>
 
 ## Encryption status
 
