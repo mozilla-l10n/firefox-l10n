@@ -20,12 +20,12 @@ message-header-tags-list-name = Метки
 message-header-author-field = Автор<span data-l10n-name="field-separator">:</span>
 message-header-organization-field = Организация<span data-l10n-name="field-separator">:</span>
 message-header-subject-field = Тема<span data-l10n-name="field-separator">:</span>
-message-header-followup-to-field = Дополнение к <span data-l10n-name="field-separator">:</span>
+message-header-followup-to-field = Дополнение к<span data-l10n-name="field-separator">:</span>
 message-header-date-field = Дата<span data-l10n-name="field-separator">:</span>
 message-header-user-agent-field = Пользовательский агент<span data-l10n-name="field-separator">:</span>
 message-header-references-field = Ссылки<span data-l10n-name="field-separator">:</span>
 message-header-message-id-field = Идентификатор сообщения<span data-l10n-name="field-separator">:</span>
-message-header-in-reply-to-field = В ответ на <span data-l10n-name="field-separator">:</span>
+message-header-in-reply-to-field = В ответ на<span data-l10n-name="field-separator">:</span>
 message-header-website-field = Веб-сайт<span data-l10n-name="field-separator">:</span>
 # An additional email header field that the user has chosen to display. Unlike
 # the other headers, the name of this header is not expected to be localised
@@ -40,9 +40,9 @@ message-header-address-in-address-book-icon2 =
 message-header-address-not-in-address-book-icon2 =
     .alt = Нет в адресной книге
 message-header-address-not-in-address-book-button =
-    .title = Сохраните этот адрес в адресной книге
+    .title = Сохранить этот адрес в адресной книге
 message-header-address-in-address-book-button =
     .title = Изменение контакта
 message-header-field-show-more = Больше
-    .title = Показать всех получаетелей
+    .title = Показать всех получателей
 message-ids-field-show-all = Показать все
