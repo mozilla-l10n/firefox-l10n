@@ -148,6 +148,16 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Истифодаи пешфарз
 security-no-visits = Не
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] Тафсилот (1 барчасп)
+           *[other] Тафсилот ({ $tags } барчасп)
+        }
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
