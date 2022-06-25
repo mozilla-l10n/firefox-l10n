@@ -197,6 +197,7 @@ about-addressbook-entry-type-work = Služba
 about-addressbook-entry-type-home = Doma
 about-addressbook-entry-type-fax = Faks
 about-addressbook-entry-type-cell = Mobilni
+about-addressbook-entry-type-pager = Pozivnik
 about-addressbook-entry-name-birthday = Rojstni dan
 about-addressbook-entry-name-anniversary = Obletnica
 about-addressbook-entry-name-title = Naziv
