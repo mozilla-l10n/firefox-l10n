@@ -61,6 +61,11 @@ from-app-seamonkey = Uvoz iz { app-name-seamonkey }jevega profila
 from-app-outlook = Uvoz iz { app-name-outlook }a
 from-app-becky = Uvoz iz { app-name-becky }
 from-app-apple-mail = Uvoz iz { app-name-apple-mail }a
+profiles-pane-title-thunderbird = Uvozite nastavitve in podatke iz { app-name-thunderbird }ovega profila.
+profiles-pane-title-seamonkey = Uvozite nastavitve in podatke iz { app-name-seamonkey }jevega profila.
+profiles-pane-title-outlook = Uvozite podatke iz programa { app-name-outlook }.
+profiles-pane-title-becky = Uvozite podatke iz programa { app-name-becky }.
+profiles-pane-title-apple-mail = Uvozite sporočila iz programa { app-name-apple-mail }.
 profile-source = Uvozi iz profila
 # $profileName (string) - name of the profile
 profile-source-named = Uvozi iz profila <strong>"{ $profileName }"</strong>
@@ -68,12 +73,13 @@ profile-file-picker-directory = Izberi mapo s profilom
 profile-file-picker-archive = Izberi datoteko <strong>ZIP</strong>
 profile-file-picker-archive-description = Datoteka ZIP mora biti manjša od 2 GB.
 profile-file-picker-archive-title = Izberite datoteko .zip (manjšo od 2 GB)
+items-pane-title2 = Izberite, kaj želite uvoziti:
 items-pane-directory = Mapa:
 items-pane-profile-name = Ime profila:
-items-pane-checkbox-accounts = Račune in nastavitve
-items-pane-checkbox-address-books = Imenike
-items-pane-checkbox-calendars = Koledarje
-items-pane-checkbox-mail-messages = Poštna sporočila
+items-pane-checkbox-accounts = račune in nastavitve
+items-pane-checkbox-address-books = imenike
+items-pane-checkbox-calendars = koledarje
+items-pane-checkbox-mail-messages = e-poštna sporočila
 items-pane-override = Morebitni obstoječi ali enaki podatki ne bodo prepisani.
 
 ## Import from address book file steps
