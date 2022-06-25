@@ -26,6 +26,8 @@ about-addressbook-books-context-properties =
     .label = 属性
 about-addressbook-books-context-synchronize =
     .label = 同步
+about-addressbook-books-context-edit =
+    .label = 编辑
 about-addressbook-books-context-print =
     .label = 打印…
 about-addressbook-books-context-export =
@@ -53,8 +55,6 @@ about-addressbook-search =
     .placeholder = 搜索 { $name }
 about-addressbook-search-all =
     .placeholder = 搜索所有通讯录
-about-addressbook-sort-button =
-    .title = 更改列表顺序
 about-addressbook-name-format-display =
     .label = 显示名称
 about-addressbook-name-format-firstlast =
@@ -89,6 +89,8 @@ about-addressbook-column-label-phonenumbers =
 about-addressbook-column-header-addresses = 地址
 about-addressbook-column-label-addresses =
     .label = { about-addressbook-column-header-addresses }
+about-addressbook-column-label-title =
+    .label = { about-addressbook-column-header-title }
 about-addressbook-column-header-department = 部门
 about-addressbook-column-label-department =
     .label = { about-addressbook-column-header-department }
@@ -148,19 +150,31 @@ about-addressbook-confirm-delete-contacts =
        *[other] 您确定要删除下列 { $count } 位联系人吗？
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+about-addressbook-placeholder-new-contact = 新建联系人
+about-addressbook-placeholder-searching = 正在搜索…
+
 ## Details
 
+about-addressbook-event-action-button = 事件
+about-addressbook-search-action-button = 搜索
 about-addressbook-begin-edit-contact-button = 编辑
 about-addressbook-delete-edit-contact-button = 删除
 about-addressbook-cancel-edit-contact-button = 取消
 about-addressbook-save-edit-contact-button = 保存
 about-addressbook-details-email-addresses-header = 电子邮件地址
 about-addressbook-details-phone-numbers-header = 手机号码
-about-addressbook-details-home-address-header = 家庭地址
-about-addressbook-details-work-address-header = 工作地址
+about-addressbook-details-addresses-header = 地址
 about-addressbook-details-other-info-header = 其他信息
+about-addressbook-entry-type-fax = 传真
+about-addressbook-entry-type-cell = 手机
 about-addressbook-entry-name-birthday = 生日
 about-addressbook-entry-name-anniversary = 周年纪念
+about-addressbook-entry-name-role = 角色
+about-addressbook-entry-name-website = 网站
+about-addressbook-entry-name-time-zone = 时区
 about-addressbook-unsaved-changes-prompt-title = 未保存更改
 about-addressbook-unsaved-changes-prompt = 您想要在离开编辑视图前保存更改吗？
 
