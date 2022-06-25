@@ -7,15 +7,15 @@ export-page-title = Экспорт
 
 ## Header
 
-import-start = Импортировать
-import-start-title = Импортируйте настройки или данные из приложения или файла.
+import-start = Инструмент импорта
+import-start-title = Импорт настроек или данных из приложения или файла.
 import-start-description = Выберите источник, из которого вы хотите импортировать. Позже вам будет предложено выбрать, какие данные необходимо импортировать.
-import-from-app = Импортировать из приложения
-import-file = Импортировать из файла
+import-from-app = Импорт из приложения
+import-file = Импорт из файла
 import-file-title = Выберите файл для импорта его содержимого.
 import-file-description = Выберите для импорта резервную копию профиля, адресных книг или календарей.
-import-address-book-title = Импортировать файл адресной книги
-import-calendar-title = Импортировать файл календаря
+import-address-book-title = Импорт файла адресной книги
+import-calendar-title = Импорт файла календаря
 export-profile = Экспорт
 
 ## Buttons
@@ -33,15 +33,15 @@ app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
 source-thunderbird = Импорт из другой установки { app-name-thunderbird }
-source-thunderbird-description = Импортируйте настройки, фильтры, сообщения и другие данные из профиля { app-name-thunderbird }.
+source-thunderbird-description = Импорт настроек, фильтров, сообщений и других данных из профиля { app-name-thunderbird }.
 source-seamonkey = Импорт из установки { app-name-seamonkey }
-source-seamonkey-description = Импортируйте настройки, фильтры, сообщения и другие данные из профиля { app-name-seamonkey }.
+source-seamonkey-description = Импорт настроек, фильтров, сообщений и других данных из профиля { app-name-seamonkey }.
 source-outlook = Импорт из { app-name-outlook }
-source-outlook-description = Импортируйте учётные записи, адресные книги и сообщения из { app-name-outlook }.
+source-outlook-description = Импорт учётных записей, адресных книг и сообщений из { app-name-outlook }.
 source-becky = Импорт из { app-name-becky }
-source-becky-description = Импортируйте адресные книги и сообщения из { app-name-becky }.
+source-becky-description = Импорт адресных книг и сообщений из { app-name-becky }.
 source-apple-mail = Импорт из { app-name-apple-mail }
-source-apple-mail-description = Импортируйте сообщения из { app-name-apple-mail }.
+source-apple-mail-description = Импорт сообщений из { app-name-apple-mail }.
 source-file2 = Импорт из файла
 source-file-description = Выберите файл для импорта адресных книг, календарей или резервной копии профиля (ZIP-файл).
 
@@ -63,9 +63,9 @@ from-app-becky = Импорт из { app-name-becky }
 from-app-apple-mail = Импорт из { app-name-apple-mail }
 profiles-pane-title-thunderbird = Импортируйте настройки и данные из профиля { app-name-thunderbird }.
 profiles-pane-title-seamonkey = Импортируйте настройки и данные из профиля { app-name-seamonkey }.
-profiles-pane-title-outlook = Импорт данных из { app-name-outlook }.
-profiles-pane-title-becky = Импорт данных из { app-name-becky }.
-profiles-pane-title-apple-mail = Импорт сообщений из { app-name-apple-mail }.
+profiles-pane-title-outlook = Импортируйте данные из { app-name-outlook }.
+profiles-pane-title-becky = Импортируйте данные из { app-name-becky }.
+profiles-pane-title-apple-mail = Импортируйте сообщения из { app-name-apple-mail }.
 profile-source = Импорт из профиля
 # $profileName (string) - name of the profile
 profile-source-named = Импорт из профиля <strong>«{ $profileName }»</strong>
