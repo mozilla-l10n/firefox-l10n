@@ -30,9 +30,14 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple 邮件
+source-seamonkey = 从已安装的 { app-name-seamonkey } 导入
+source-seamonkey-description = 从 { app-name-seamonkey } 配置文件导入设置、过滤器、消息和其他数据。
 source-outlook = 从 { app-name-outlook } 导入
+source-outlook-description = 从 { app-name-outlook } 导入账户、通讯录和消息。
 source-becky = 从 { app-name-becky } 导入
+source-becky-description = 从 { app-name-becky }导入通讯录和消息。
 source-apple-mail = 从 { app-name-apple-mail } 导入
+source-apple-mail-description = 从 { app-name-apple-mail } 导入消息。
 source-file2 = 从文件导入
 
 ## Import from file selections
@@ -44,6 +49,8 @@ file-addressbook = 导入通讯录
 
 ## Import from app profile steps
 
+from-app-thunderbird = 从 { app-name-thunderbird } 配置文件导入
+from-app-seamonkey = 从 { app-name-seamonkey } 配置文件导入
 from-app-outlook = 从 { app-name-outlook } 导入
 from-app-becky = 从 { app-name-becky } 导入
 from-app-apple-mail = 从 { app-name-apple-mail } 导入
@@ -53,7 +60,11 @@ profiles-pane-title-outlook = 从 { app-name-outlook } 导入数据。
 profiles-pane-title-becky = 从 { app-name-becky } 导入数据。
 profiles-pane-title-apple-mail = 从 { app-name-apple-mail } 导入消息。
 profile-source = 从配置文件导入
+profile-file-picker-directory = 选择配置文件目录
+profile-file-picker-archive = 选择 <strong>ZIP</strong> 文件
 profile-file-picker-archive-description = ZIP 文件必须小于 2GB。
+profile-file-picker-archive-title = 选择 ZIP 文件（小于 2GB）
+items-pane-profile-name = 配置文件名称：
 items-pane-checkbox-accounts = 账户和设置
 items-pane-checkbox-address-books = 通讯录
 items-pane-checkbox-calendars = 日历
@@ -74,6 +85,7 @@ addr-book-directories-pane-source = 源文件：
 ## Import from calendar file steps
 
 import-from-calendar-file-desc = 选择您要导入的 iCalendar（.ics）文件。
+calendar-items-title = 选择要导入的项目。
 calendar-items-loading = 正在加载项目…
 calendar-items-filter-input =
     .placeholder = 过滤项目…
@@ -118,6 +130,7 @@ summary-pane-start-over = 重启导入工具
 footer-help = 需要帮助？
 footer-import-documentation = 导入文档
 footer-export-documentation = 导出文档
+footer-support-forum = 技术支持论坛
 
 ## Step navigation on top of the wizard pages
 
