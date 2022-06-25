@@ -306,7 +306,7 @@ openpgp-description-no-key = { -brand-short-name } не имеет личног�
 #   $identity (String) - the email address of the currently selected identity
 openpgp-description-has-keys =
     { $count ->
-        [one] { -brand-short-name } обнаружил { $count } личный ключ OpenPGP, связанных с <b>{ $identity }</b>
+        [one] { -brand-short-name } обнаружил { $count } личный ключ OpenPGP, связанный с <b>{ $identity }</b>
         [few] { -brand-short-name } обнаружил { $count } личных ключа OpenPGP, связанных с <b>{ $identity }</b>
        *[many] { -brand-short-name } обнаружил { $count } личных ключей OpenPGP, связанных с <b>{ $identity }</b>
     }
