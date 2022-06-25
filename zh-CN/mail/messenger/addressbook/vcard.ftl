@@ -5,6 +5,7 @@
 
 # Display Name
 
+vcard-displayname = 显示名称
 vcard-displayname-placeholder =
     .placeholder = { vcard-displayname }
 

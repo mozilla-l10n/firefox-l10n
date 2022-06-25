@@ -123,6 +123,10 @@ message-header-msg-flagged =
     .aria-label = 已加星标
 message-header-msg-not-flagged =
     .title = 非星标邮件
+# Variables:
+# $address (String) - The email address of the recipient this picture belongs to.
+message-header-recipient-avatar =
+    .alt = { $address } 的头像。
 
 ## Message header cutomize panel
 
@@ -136,6 +140,12 @@ message-header-button-style-text =
     .label = 文本
 message-header-button-style-icons =
     .label = 图标
+message-header-show-recipient-avatar =
+    .label = 显示发件人头像
+    .accesskey = p
+message-header-hide-label-column =
+    .label = 隐藏标签列
+    .accesskey = I
 message-header-large-subject =
     .label = 放大主题
     .accesskey = s
