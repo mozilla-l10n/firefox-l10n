@@ -70,13 +70,21 @@ profile-source = Импорт из профиля
 # $profileName (string) - name of the profile
 profile-source-named = Импорт из профиля <strong>«{ $profileName }»</strong>
 profile-file-picker-directory = Выберите папку профиля
+profile-file-picker-archive = Выберите <strong>ZIP</strong>-файл.
+profile-file-picker-archive-description = Размнер ZIP-файла не должен превышать 2 ГБ.
+profile-file-picker-archive-title = Выберите ZIP-файл (до 2ГБ)
+items-pane-title2 = Выберите, что импортировать:
+items-pane-directory = Каталог:
+items-pane-profile-name = Имя профиля:
 items-pane-checkbox-accounts = Учётные записи и настройки
 items-pane-checkbox-address-books = Адресные книги
 items-pane-checkbox-calendars = Календари
 items-pane-checkbox-mail-messages = Почтовые сообщения
+items-pane-override = Любые существующие или идентичные данные не будут перезаписаны.
 
 ## Import from address book file steps
 
+import-from-addr-book-file-description = Выберите формат файла, содержащего данные вашей адресной книги.
 addr-book-csv-file = Файл данных, разделенных запятыми или табуляциями (.csv, .tsv)
 addr-book-ldif-file = LDIF-файл (.ldif)
 addr-book-vcard-file = vCard-файл (.vcf, .vcard)
@@ -85,19 +93,45 @@ addr-book-mab-file = Файл базы данных Mork (.mab)
 addr-book-file-picker = Выберите файл адресной книги
 addr-book-csv-field-map-title = Сопоставление имен полей
 addr-book-csv-field-map-desc = Выберите поля адресной книги, соответствующие полям источника. Снимите флажки с полей, которые не хотите импортировать.
+addr-book-directories-title = Выберите, куда импортировать выбранные данные
 addr-book-directories-pane-source = Исходный файл:
+# $addressBookName (string) - name of the new address book that would be created.
+addr-book-import-into-new-directory2 = Создать новый каталог с именем <strong>«{ $addressBookName }»</strong>
+# $addressBookName (string) - name of the address book to import into
+addr-book-summary-title = Импортировать выбранные данные в каталог «{ $addressBookName }»
+# $addressBookName (string) - name of the address book that will be created.
+addr-book-summary-description = Будет создана новая адресная книга с именем «{ $addressBookName }».
 
 ## Import from calendar file steps
 
 import-from-calendar-file-desc = Выберите файл iCalendar (.ics), который вы хотите импортировать.
+calendar-items-title = Выберите элементы для импорта.
 calendar-items-loading = Загрузка элементов…
 calendar-items-filter-input =
     .placeholder = Фильтр элементов…
 calendar-select-all-items = Выделить все
 calendar-deselect-all-items = Снять выделение со всех
+calendar-target-title = Выберите, куда импортировать выбранные объекты.
+# $targetCalendar (string) - name of the new calendar that would be created
+calendar-import-into-new-calendar2 = Создать новый календарь с именем <strong>«{ $targetCalendar }»</strong>
+# $itemCount (number) - count of selected items (tasks, events) that will be imported
+# $targetCalendar (string) - name of the calendar the items will be imported into
+calendar-summary-title =
+    { $itemCount ->
+        [one] Импортировать { $itemCount } элемент в календарь «{ $targetCalendar }»
+        [few] Импортировать { $itemCount } элемента в календарь «{ $targetCalendar }»
+       *[many] Импортировать { $itemCount } элементов в календарь «{ $targetCalendar }»
+    }
+# $targetCalendar (string) - name of the calendar that will be created
+calendar-summary-description = Будет создан новый календарь с именем «{ $targetCalendar }».
 
 ## Import dialog
 
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-importing2 = Импорт… { $progressPercent }
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-exporting2 = Экспорт… { $progressPercent }
+progress-pane-finished-desc2 = Завершен.
 error-pane-title = Ошибка
 error-message-failed = В процессе импорта произошёл непредвиденный сбой. Более подробная информация может быть доступна в Консоли ошибок.
 error-failed-to-parse-ics-file = В файле не найдены элементы для импорта.
