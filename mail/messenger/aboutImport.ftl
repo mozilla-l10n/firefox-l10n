@@ -49,9 +49,9 @@ source-file-description = Выберите файл для импорта адр
 
 file-profile2 = Импорт резервной копии профиля
 file-profile-description = Выберите ранее сохранённый профиль Thunderbird (.zip)
-file-calendar = Импортировать календари
+file-calendar = Импорт календарей
 file-calendar-description = Выберите файл, содержащий экспортированные календари или события (.ics)
-file-addressbook = Импортировать адресные книги
+file-addressbook = Импорт адресных книг
 file-addressbook-description = Выберите файл, содержащий экспортированные адресные книги и контакты.
 
 ## Import from app profile steps
@@ -61,11 +61,11 @@ from-app-seamonkey = Импорт из профиля { app-name-seamonkey }
 from-app-outlook = Импорт из { app-name-outlook }
 from-app-becky = Импорт из { app-name-becky }
 from-app-apple-mail = Импорт из { app-name-apple-mail }
-profiles-pane-title-thunderbird = Импортируйте настройки и данные из профиля { app-name-thunderbird }.
-profiles-pane-title-seamonkey = Импортируйте настройки и данные из профиля { app-name-seamonkey }.
-profiles-pane-title-outlook = Импортируйте данные из { app-name-outlook }.
-profiles-pane-title-becky = Импортируйте данные из { app-name-becky }.
-profiles-pane-title-apple-mail = Импортируйте сообщения из { app-name-apple-mail }.
+profiles-pane-title-thunderbird = Импорт настроек и данных из профиля { app-name-thunderbird }.
+profiles-pane-title-seamonkey = Импорт настроек и данных из профиля { app-name-seamonkey }.
+profiles-pane-title-outlook = Импорт данных из { app-name-outlook }.
+profiles-pane-title-becky = Импорт данных из { app-name-becky }.
+profiles-pane-title-apple-mail = Импорт сообщений из { app-name-apple-mail }.
 profile-source = Импорт из профиля
 # $profileName (string) - name of the profile
 profile-source-named = Импорт из профиля <strong>«{ $profileName }»</strong>
@@ -98,7 +98,7 @@ addr-book-directories-pane-source = Исходный файл:
 # $addressBookName (string) - name of the new address book that would be created.
 addr-book-import-into-new-directory2 = Создать новый каталог с именем <strong>«{ $addressBookName }»</strong>
 # $addressBookName (string) - name of the address book to import into
-addr-book-summary-title = Импортировать выбранные данные в каталог «{ $addressBookName }»
+addr-book-summary-title = Импорт выбранных данных в каталог «{ $addressBookName }»
 # $addressBookName (string) - name of the address book that will be created.
 addr-book-summary-description = Будет создана новая адресная книга с именем «{ $addressBookName }».
 
@@ -118,9 +118,9 @@ calendar-import-into-new-calendar2 = Создать новый календар�
 # $targetCalendar (string) - name of the calendar the items will be imported into
 calendar-summary-title =
     { $itemCount ->
-        [one] Импортировать { $itemCount } элемент в календарь «{ $targetCalendar }»
-        [few] Импортировать { $itemCount } элемента в календарь «{ $targetCalendar }»
-       *[many] Импортировать { $itemCount } элементов в календарь «{ $targetCalendar }»
+        [one] Импорт { $itemCount } элемента в календарь «{ $targetCalendar }»
+        [few] Импорт { $itemCount } элементов в календарь «{ $targetCalendar }»
+       *[many] Импорт { $itemCount } элементов в календарь «{ $targetCalendar }»
     }
 # $targetCalendar (string) - name of the calendar that will be created
 calendar-summary-description = Будет создан новый календарь с именем «{ $targetCalendar }».
@@ -150,7 +150,7 @@ csv-target-field = Поле адресной книги
 
 ## Export tab
 
-export-profile-title = Экспортируйте учётные записи, сообщения, адресные книги и настройки в ZIP-файл.
+export-profile-title = Экспорт учётных записей, сообщений, адресных книг и настроек в ZIP-файл.
 export-profile-description = Если размер вашего текущего профиля превышает 2ГБ, мы рекомендуем вам создать его резервную копию самостоятельно.
 export-open-profile-folder = Открыть папку профиля
 export-file-picker2 = Экспорт в ZIP-файл
