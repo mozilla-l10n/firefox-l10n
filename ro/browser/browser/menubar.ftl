@@ -38,11 +38,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Ieși din { -brand-shorter-name }
-
 menu-about =
     .label = Despre { -brand-shorter-name }
     .accesskey = A
@@ -153,7 +151,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Stilul de bază al paginii
     .accesskey = b
-
 menu-view-repair-text-encoding =
     .label = Repară codarea de text
     .accesskey = c
@@ -199,7 +196,6 @@ menu-history-undo-menu =
     .label = File închise recent
 menu-history-undo-window-menu =
     .label = Ferestre închise recent
-
 menu-history-reopen-all-tabs = Redeschide toate filele
 menu-history-reopen-all-windows = Redeschise toate ferestrele
 
@@ -298,6 +294,9 @@ menu-help-more-troubleshooting-info =
     .accesskey = T
 menu-help-report-site-issue =
     .label = Raportează problemă cu site-ul…
+menu-help-share-ideas =
+    .label = Împărtășește idei și feedbackuri…
+    .accesskey = S
 menu-help-enter-troubleshoot-mode2 =
     .label = Mod de depanare…
     .accesskey = M
