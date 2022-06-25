@@ -14,6 +14,10 @@ openpgp-key-assistant-no-key-available = 无可用密钥。
 openpgp-key-assistant-multiple-keys = 多个密钥可用。
 # Variables:
 # $date (String) - The expiration date of the key.
+openpgp-key-assistant-key-accepted-expired = 一个接受的密钥已于 { $date } 过期。
+openpgp-key-assistant-keys-accepted-expired = 多个接受的密钥已过期。
+# Variables:
+# $date (String) - The expiration date of the key.
 openpgp-key-assistant-key-unaccepted-expired-one = 密钥已于 { $date } 过期。
 openpgp-key-assistant-key-unaccepted-expired-many = 多个密钥已过期。
 openpgp-key-assistant-key-fingerprint = 指纹

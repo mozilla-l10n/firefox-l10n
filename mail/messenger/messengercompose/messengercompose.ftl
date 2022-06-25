@@ -185,6 +185,8 @@ key-notification-resolve =
     .label = 解决…
     .accesskey = R
     .tooltiptext = 打开 OpenPGP 密钥助手
+can-encrypt-smime-notification = S/MIME 端到端加密可用。
+can-encrypt-openpgp-notification = OpenPGP 端到端加密可用。
 can-e2e-encrypt-button =
     .label = 加密
     .accesskey = E
@@ -355,6 +357,7 @@ cloud-file-account-error = 由于文件快传已被删除，文件快传附件 {
 ## Link Preview
 
 link-preview-title = 链接预览
+link-preview-yes-replace = 好的
 
 ## Dictionary selection popup
 

@@ -155,8 +155,10 @@ about-addressbook-confirm-delete-contacts =
 ## Card list placeholder
 ## Shown when there are no cards in the list
 
+about-addressbook-placeholder-empty-book = 无联系人
 about-addressbook-placeholder-new-contact = 新建联系人
 about-addressbook-placeholder-searching = 正在搜索…
+about-addressbook-placeholder-no-search-results = 找不到联系人
 
 ## Details
 
