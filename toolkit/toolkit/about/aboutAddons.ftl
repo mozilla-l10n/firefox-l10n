@@ -35,6 +35,8 @@ detail-version =
     .label = Laida
 detail-last-updated =
     .label = Paskiausiai atnaujintas
+addon-detail-description-expand = Rodyti daugiau
+addon-detail-description-collapse = Rodyti mažiau
 detail-contributions-description = Šio priedo autorius prašo paremti tolesnį jo kūrimą nedideliu finansiniu įnašu.
 detail-contributions-button = Prisidėkite
     .title = Prisidėkite prie šio priedo plėtojimo
@@ -289,8 +291,14 @@ extension-enabled-heading = Įjungta
 extension-disabled-heading = Išjungta
 theme-enabled-heading = Įjungta
 theme-disabled-heading = Išjungta
+theme-disabled-heading2 = Įrašyti grafiniai apvalkalai
 theme-monochromatic-heading = Spalvų rinkiniai
 theme-monochromatic-subheading = Ryškūs ir nauji spalvų rinkiniai iš „{ -brand-product-name }“. Pasiekiami ribotą laiką.
+theme-colorways-button = Išbandykite spalvų rinkinius
+colorway-collection-independent-voices-subheading = Priderinkite „{ -brand-short-name }“ prie savęs.
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires.
+colorway-collection-expiry-date-span = Iki { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Įjungta
 plugin-disabled-heading = Išjungta
 dictionary-enabled-heading = Įjungta
