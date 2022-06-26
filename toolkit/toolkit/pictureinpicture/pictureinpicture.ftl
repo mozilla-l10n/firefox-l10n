@@ -3,20 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Obraz v obraze
-
 pictureinpicture-pause =
     .aria-label = Pozastaviť
 pictureinpicture-play =
     .aria-label = Prehrať
-
 pictureinpicture-mute =
     .aria-label = Stlmiť
 pictureinpicture-unmute =
     .aria-label = Zapnúť zvuk
-
 pictureinpicture-unpip =
     .aria-label = Odoslať späť na kartu
-
 pictureinpicture-close =
     .aria-label = Zavrieť
-
+pictureinpicture-subtitles-label = Titulky
+pictureinpicture-font-size-label = Veľkosť písma
+pictureinpicture-font-size-small = Malé
+pictureinpicture-font-size-medium = Stredné
+pictureinpicture-font-size-large = Veľké
