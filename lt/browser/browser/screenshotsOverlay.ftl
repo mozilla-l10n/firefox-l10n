@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = Atsisakyti
 screenshots-overlay-instructions = Tempkite arba spustelėkite tinklalapyje, norėdami pasirinkti regioną. Spustelėkite „ESC“, norėdami atsisakyti.
+screenshots-overlay-download-button = Atsiųsti
+screenshots-overlay-copy-button = Kopijuoti
