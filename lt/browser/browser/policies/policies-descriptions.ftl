@@ -113,8 +113,10 @@ policy-SecurityDevices = Diegti PKCS #11 modulius.
 policy-ShowHomeButton = Rodyti pradžios mygtuką priemonių juostoje.
 policy-SSLVersionMax = Nustatyti didžiausią SSL versiją.
 policy-SSLVersionMin = Nustatyti mažiausią SSL versiją.
+policy-StartDownloadsInTempDirectory = Priversti atsiuntimus pradėti laikiname vietiniame aplanke, o ne numatytame atsiuntimų aplanke.
 policy-SupportMenu = Pridėti specialų pagalbos meniu elementą į žinyno meniu.
 policy-UserMessaging = Nerodyti naudotojui tam tikrų pranešimų.
+policy-UseSystemPrintDialog = Spausdinti naudojant sistemos dialogą…
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokuoti svetainių lankymą. Paskaitykite dokumentaciją dėl informacijos apie formatą.
 policy-Windows10SSO = Leisti bendrinį „Windows“ prisijungimą, skirtą „Microsoft“, darbo, ir mokyklos paskyroms.
