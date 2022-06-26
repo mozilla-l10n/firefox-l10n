@@ -192,7 +192,7 @@
 <!ENTITY sortByFromCmd.accesskey "W">
 <!ENTITY sortByRecipientCmd.label "Dostawaŕ">
 <!ENTITY sortByRecipientCmd.accesskey "o">
-<!ENTITY sortByCorrespondentCmd.label "Wótpósłarje">
+<!ENTITY sortByCorrespondentCmd.label "Dopisowarje">
 <!ENTITY sortByCorrespondentCmd.accesskey "s">
 <!ENTITY sortByUnreadCmd.label "Pśecytanych">
 <!ENTITY sortByUnreadCmd.accesskey "e">
@@ -316,7 +316,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
 <!ENTITY goChatCmd.accesskey "C">
-<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Powěsć z gwězdku">
 <!ENTITY prevStarredMsgCmd.accesskey "g">
 <!ENTITY folderMenu.label "Zarědnik">
@@ -677,7 +676,7 @@
 <!ENTITY threadColumn.label "Nitka">
 <!ENTITY fromColumn.label "Wót">
 <!ENTITY recipientColumn.label "Dostawaŕ">
-<!ENTITY correspondentColumn.label "Wótpósłaŕ">
+<!ENTITY correspondentColumn.label "Dopisowarje">
 <!ENTITY subjectColumn.label "Tema">
 <!ENTITY dateColumn.label "Datum">
 <!ENTITY priorityColumn.label "Priorita">
