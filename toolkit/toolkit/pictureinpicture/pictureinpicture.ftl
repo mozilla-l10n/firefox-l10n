@@ -3,20 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Obraz w obrazie
-
 pictureinpicture-pause =
     .aria-label = Wstrzymaj
 pictureinpicture-play =
     .aria-label = Odtwórz
-
 pictureinpicture-mute =
     .aria-label = Wycisz
 pictureinpicture-unmute =
     .aria-label = Włącz dźwięk
-
 pictureinpicture-unpip =
     .aria-label = Wyłącz „Obraz w obrazie”
-
 pictureinpicture-close =
     .aria-label = Zamknij
-
+pictureinpicture-subtitles-label = Napisy
+pictureinpicture-font-size-label = Rozmiar czcionki
+pictureinpicture-font-size-small = Mały
+pictureinpicture-font-size-medium = Średni
+pictureinpicture-font-size-large = Duży
