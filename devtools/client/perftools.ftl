@@ -83,6 +83,8 @@ perftools-thread-render-backend =
     .title = WebRender RenderBackend 스레드
 perftools-thread-paint-worker =
     .title = 오프 메인 스레드 페인팅이 활성화되면 페인팅이 발생하는 스레드
+perftools-thread-timer =
+    .title = 스레드 처리 타이머 (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = 스타일 계산이 여러 스레드로 분할됨
 pref-thread-stream-trans =
@@ -115,16 +117,9 @@ perftools-tools-threads-input-label =
     .title = 이러한 스레드 이름은 프로파일러에서 스레드의 프로파일링을 활성화하는데 사용되는 쉼표로 구분된 목록입니다. 이름은 포함할 스레드 이름과 부분적으로 일치해야 합니다. 공백에 민감합니다.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>새 기능</b>: { -profiler-brand-name }가 이제 개발자 도구에 통합되었습니다. 이 강력한 새 도구에 대해 <a>더 알아보세요</a>.
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (한시적으로 <a>{ options-context-advanced-settings }</a>을 통해 원래의 성능 패널에 액세스할 수 있습니다)
 perftools-onboarding-close-button =
     .aria-label = 온보딩 메시지 닫기
 
