@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = 추천 기능
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = 왜 이게 나왔나요
-
 cfr-doorhanger-extension-cancel-button = 나중에
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = 지금 추가
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = 추천 설정 관리
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = 이 추천을 표시하지 않음
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = 더 알아보기
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } 제작
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = 추천
 cfr-doorhanger-extension-notification2 = 추천
     .tooltiptext = 확장 기능 추천
     .a11y-announcement = 확장 기능 추천 사용 가능
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = 추천
@@ -83,11 +75,9 @@ cfr-protections-panel-link-text = 더 알아보기
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = 새 기능:
-
 cfr-whatsnew-button =
     .label = 새 기능
     .tooltiptext = 새 기능
-
 cfr-whatsnew-release-notes-link-text = 출시 정보 읽기
 
 ## Enhanced Tracking Protection Milestones
@@ -163,6 +153,7 @@ spotlight-total-cookie-protection-body = 전체 쿠키 보호는 추적기가 �
 spotlight-total-cookie-protection-expanded = { -brand-short-name }는 쿠키 주위에 울타리를 치고 사용자가 있는 사이트로 제한하므로 추적기가 사용자를 팔로우하는 데 쿠키를 사용할 수 없습니다. 먼저 이용해 보시면 이 기능을 최적화하는데 도움이 되므로 저희가 모든 사용자를 위한 더 나은 웹을 계속 구축할 수 있습니다.
 spotlight-total-cookie-protection-primary-button = 전체 쿠키 보호 켜기
 spotlight-total-cookie-protection-secondary-button = 나중에
+cfr-total-cookie-protection-header = 덕분에 { -brand-short-name }는 그 어느 때보다 사적이고 안전합니다
 
 ## Emotive Continuous Onboarding
 
