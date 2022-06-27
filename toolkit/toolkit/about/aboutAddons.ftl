@@ -406,6 +406,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } kompatibelny z { -brand-short-name } { $version } njeje.
+details-notification-incompatible-link = Dalše informacije
 details-notification-unsigned-and-disabled = { $name } njeda so za wužiwanje w { -brand-short-name } wobkrućić a je so znjemóžnił.
 details-notification-unsigned-and-disabled-link = Dalše informacije
 details-notification-unsigned = { $name } njeda so za wužiwanje w { -brand-short-name } wobkrućić. Pokročujće z kedźbliwosću.
