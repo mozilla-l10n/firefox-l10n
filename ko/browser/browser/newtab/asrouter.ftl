@@ -154,6 +154,9 @@ spotlight-total-cookie-protection-expanded = { -brand-short-name }는 쿠키 주
 spotlight-total-cookie-protection-primary-button = 전체 쿠키 보호 켜기
 spotlight-total-cookie-protection-secondary-button = 나중에
 cfr-total-cookie-protection-header = 덕분에 { -brand-short-name }는 그 어느 때보다 사적이고 안전합니다
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = 전체 쿠키 보호는 가장 강력한 개인 정보 보호 기능이며 이제 { -brand-short-name } 사용자를 위한 기본 설정입니다. 여러분과 같은 조기 참가자가 없었다면 불가능했을 것입니다. 더 나은 사적인 인터넷을 만들 수 있도록 도와주셔서 감사합니다.
 
 ## Emotive Continuous Onboarding
 
