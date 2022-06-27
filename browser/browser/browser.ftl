@@ -43,6 +43,7 @@ browser-main-window-mac =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+private-browsing-shortcut-text = Navegação privativa do { -brand-short-name }
 
 ##
 
