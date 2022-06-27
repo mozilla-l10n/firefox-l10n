@@ -411,6 +411,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } er ósamhæfð við { -brand-short-name } { $version }.
+details-notification-incompatible-link = Nánari upplýsingar
 details-notification-unsigned-and-disabled = Ekki tókst að staðfesta { $name } fyrir notkun í { -brand-short-name } þar af leiðandi var viðbót gerð óvirk.
 details-notification-unsigned-and-disabled-link = Ítarlegri upplýsingar
 details-notification-unsigned = Ekki tókst að staðfesta { $name } fyrir notkun í { -brand-short-name }. Farðu varlega í að halda áfram.

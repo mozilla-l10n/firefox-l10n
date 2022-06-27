@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Eiginleiki sem mælt er með
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Hvers vegna er ég að sjá þetta
-
 cfr-doorhanger-extension-cancel-button = Ekki núna
     .accesskey = E
-
 cfr-doorhanger-extension-ok-button = Bæta við núna
     .accesskey = B
-
 cfr-doorhanger-extension-manage-settings-button = Sýsla með ábendingastillingar
     .accesskey = s
-
 cfr-doorhanger-extension-never-show-recommendation = Ekki sýna mér þessar tillögur
     .accesskey = E
-
 cfr-doorhanger-extension-learn-more-link = Fræðast meira
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = eftir { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Tillaga
 cfr-doorhanger-extension-notification2 = Tillaga
     .tooltiptext = Tillaga að viðbót
     .a11y-announcement = Fyrirliggjandi er tillaga að viðbót
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Meðmæli
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = Frekari upplýsingar
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nýr eiginleiki:
-
 cfr-whatsnew-button =
     .label = Hvað er nýtt
     .tooltiptext = Hvað er nýtt
-
 cfr-whatsnew-release-notes-link-text = Lesa útgáfuskýringarnar
 
 ## Enhanced Tracking Protection Milestones
@@ -166,6 +156,7 @@ spotlight-total-cookie-protection-body = Allsherjar-vefkökuvörn kemur í veg f
 spotlight-total-cookie-protection-expanded = { -brand-short-name } byggir girðingu utan um vefkökur og takmarkar þær við vefsvæðið sem þú ert á svo rekjarar geti ekki notað þær til að fylgjast með þér. Með snemmbærum aðgangi muntu hjálpa til við að fínstilla þennan eiginleika svo við getum haldið áfram að byggja betri vef fyrir alla.
 spotlight-total-cookie-protection-primary-button = Kveiktu á allsherjar-vefkökuvörnum
 spotlight-total-cookie-protection-secondary-button = Ekki núna
+cfr-total-cookie-protection-header = Þökk sé þér fer { -brand-short-name } betur með persónuleg gögn þín og er öruggari en nokkru sinni fyrr
 
 ## Emotive Continuous Onboarding
 
