@@ -1154,6 +1154,7 @@ content-blocking-etp-blocking-desc = { -brand-short-name } blocca i seguenti ele
 
 content-blocking-private-windows = Contenuti traccianti in finestre anonime
 content-blocking-cross-site-cookies-in-all-windows = Cookie intersito in tutte le finestre (inclusi cookie traccianti)
+content-blocking-cross-site-cookies-in-all-windows2 = Cookie intersito in tutte le finestre
 content-blocking-cross-site-tracking-cookies = Cookie traccianti intersito
 content-blocking-all-cross-site-cookies-private-windows = Cookie traccianti intersito in finestre anonime
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookie traccianti intersito, isola i cookie restanti
@@ -1174,6 +1175,8 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La Protezione totale per i cookie isola i cookie del sito in cui ti trovi. In questo modo non è possibile utilizzarli per seguirti da un sito all’altro.
 content-blocking-etp-standard-tcp-rollout-learn-more = Ulteriori informazioni
+
+content-blocking-etp-standard-tcp-title = Include Protezione totale per i cookie, lo strumento più potente per la protezione della privacy che abbiamo mai realizzato
 
 content-blocking-warning-title = Attenzione
 content-blocking-and-isolating-etp-warning-description-2 = Questa impostazione potrebbe causare in alcuni siti la mancata visualizzazione di contenuti o altri problemi di funzionamento. Se una pagina non viene visualizzata correttamente, provare a disattivare la protezione antitracciamento per quel sito per ricaricare tutti i contenuti.
