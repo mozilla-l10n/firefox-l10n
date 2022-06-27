@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Page title
-about-performance-title = Aktivitetshandterar
+about-performance-title = Aktivitetshandsamar
 
 ## Column headers
 
@@ -53,8 +53,7 @@ size-GB = { $value } GB
 close-tab =
     .title = Lat att fane
 show-addon =
-    .title = Vis i tilleggshandteraren
-
+    .title = Vis i tilleggshandsamaren
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded
