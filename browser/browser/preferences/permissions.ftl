@@ -5,77 +5,59 @@
 permissions-window =
     .title = Unntak
     .style = width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adressa til nettstaden
     .accesskey = a
-
 permissions-block =
     .label = Blokker
     .accesskey = B
-
 permissions-session =
     .label = Tillat for programøkta
     .accesskey = T
-
 permissions-allow =
     .label = Tillat
     .accesskey = T
-
 permissions-button-off =
     .label = Slå av
     .accesskey = S
-
 permissions-button-off-temporarily =
     .label = Slå av kortvarig
     .accesskey = k
-
 permissions-site-name =
     .label = Nettside
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Fjern nettsida
     .accesskey = F
-
 permissions-remove-all =
     .label = Fjern alle nettstadar
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Lagre endringar
     .buttonaccesskeyaccept = L
-
 permissions-autoplay-menu = Standard for alle nettstadar:
-
 permissions-searchbox =
     .placeholder = Søk på nettsida
-
 permissions-capabilities-autoplay-allow =
     .label = Tillat lyd og video
 permissions-capabilities-autoplay-block =
     .label = Blokker lyd
 permissions-capabilities-autoplay-blockall =
     .label = Blokker lyd og video
-
 permissions-capabilities-allow =
     .label = Tillat
 permissions-capabilities-block =
     .label = Blokker
 permissions-capabilities-prompt =
     .label = Spør alltid
-
 permissions-capabilities-listitem-allow =
     .value = Tillat
 permissions-capabilities-listitem-block =
     .value = Blokker
 permissions-capabilities-listitem-allow-session =
     .value = Tillat for programøkta
-
 permissions-capabilities-listitem-off =
     .value = Av
 permissions-capabilities-listitem-off-temporarily =
@@ -133,7 +115,7 @@ permissions-exceptions-addons-desc = Du kan velje kva for nettstadar som har lø
 permissions-site-autoplay-window =
     .title = Innstillingar - Automatisk avspeling
     .style = { permissions-window.style }
-permissions-site-autoplay-desc = Du kan handtere nettstadar som ikkje følgjer standardinnstillingane dine for automatisk avspeling her.
+permissions-site-autoplay-desc = Du kan handsame nettstadar som ikkje følgjer standardinnstillingane dine for automatisk avspeling her.
 
 ## Site Permissions - Notifications
 

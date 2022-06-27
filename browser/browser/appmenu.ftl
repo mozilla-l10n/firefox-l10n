@@ -7,19 +7,14 @@
 
 appmenuitem-banner-update-downloading =
     .label = Lastar ned { -brand-shorter-name }-oppdatering
-
 appmenuitem-banner-update-available =
     .label = Oppdatering tilgjengeleg — last ned no
-
 appmenuitem-banner-update-manual =
     .label = Oppdatering tilgjengeleg — last ned no
-
 appmenuitem-banner-update-unsupported =
     .label = Kan ikkje oppdatere — systemet er inkompatibelt
-
 appmenuitem-banner-update-restart =
     .label = Oppdatering tilgjengeleg — start på nytt
-
 appmenuitem-new-tab =
     .label = Ny fane
 appmenuitem-new-window =
@@ -56,7 +51,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Lat att program-meny
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -77,33 +71,26 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Logg inn for å synkronisere…
 appmenu-remote-tabs-turn-on-sync =
     .label = Slå på Sync…
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Vis fleire faner
     .tooltiptext = Vis fleire faner frå denne eininga
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ingen opne faner
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Slå på fane-synkronisering for å sjå ei liste over faner frå dei andre einingane dine.
-
 appmenu-remote-tabs-opensettings =
     .label = Innstillingar
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Vil du sjå faner frå dei andre einingane dine her?
-
 appmenu-remote-tabs-connectdevice =
     .label = Kople til ei anna eining
 appmenu-remote-tabs-welcome = Vis ei liste over faner frå dei andre einingane dine.
 appmenu-remote-tabs-unverified = Kontoen din må stadfestast.
-
 appmenuitem-fxa-toolbar-sync-now2 = Synkroniser no
 appmenuitem-fxa-sign-in = Logg inn på { -brand-product-name }
-appmenuitem-fxa-manage-account = Handter kontoen
+appmenuitem-fxa-manage-account = Handsam kontoen
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -114,14 +101,12 @@ appmenu-fxa-sync-and-save-data2 = Synkroniser og lagre data
 appmenu-fxa-signed-in-label = Logg inn
 appmenu-fxa-setup-sync =
     .label = Slå på synkronisering…
-
 appmenuitem-save-page =
     .label = Lagre sida som…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Kva er nytt
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -135,53 +120,38 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profilering
     .tooltiptext = Ta opp ein ytingsprofil
-
 profiler-popup-button-recording =
     .label = Profilerar
     .tooltiptext = Profileraren registrerer ein profil
-
 profiler-popup-button-capturing =
     .label = Profilerar
     .tooltiptext = Profileraren tar opp ein profil
-
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Vis meir informasjon
-
 profiler-popup-description-title =
     .value = Registrer, analyser, del
-
 profiler-popup-description = Samarbeid om ytingsproblem ved å publisere profilar for å dele med teamet ditt.
-
 profiler-popup-learn-more-button =
     .label = Les meir
-
 profiler-popup-settings =
     .value = Innstillingar
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Rediger innstillingar …
-
 profiler-popup-recording-screen = Registrerer…
-
 profiler-popup-start-recording-button =
     .label = Start registrering
-
 profiler-popup-discard-button =
     .label = Forkast
-
 profiler-popup-capture-button =
     .label = Fang
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -199,30 +169,25 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Tilrådd førehandsinnstilling for dei fleste feilsøkingar i nettappar, med lite tillegg.
 profiler-popup-presets-web-developer-label =
     .label = Nettsideutvikling
-
 profiler-popup-presets-firefox-description = Tilrådd førehandsinnstilling for profilering { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-
 profiler-popup-presets-graphics-description = Førehandsinnstilt for å undersøke grafikk-problem i { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Grafikk
-
 profiler-popup-presets-media-description2 = Førehandsinnstilt for å undersøke lyd- og videoproblem i { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Media
-
 profiler-popup-presets-networking-description = Førehandsinnstilt for å undersøke nettverksfeil i { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Nettverk
-
 profiler-popup-presets-custom-label =
     .label = Tilpassa
 
 ## History panel
 
 appmenu-manage-history =
-    .label = Handter historikk
+    .label = Handsam historikk
 appmenu-reopen-all-tabs = Opne alle faner på nytt
 appmenu-reopen-all-windows = Opne alle vindauge på nytt
 appmenu-restore-session =
@@ -278,7 +243,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Tilpass verktøylinje…
-
 appmenu-developer-tools-subheader = Nettlesarverktøy
 appmenu-developer-tools-extensions =
     .label = Extensions for Developers
