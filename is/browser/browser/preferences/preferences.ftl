@@ -958,6 +958,7 @@ content-blocking-etp-custom-desc = Veldu hvaða rekjara og skriftur á að loka 
 content-blocking-etp-blocking-desc = { -brand-short-name } lokar á eftirfarandi:
 content-blocking-private-windows = Rakningu efnis í huliðsgluggum
 content-blocking-cross-site-cookies-in-all-windows = Vefkökur milli vefsvæða í öllum gluggum (meðal annars rakningarkökur)
+content-blocking-cross-site-cookies-in-all-windows2 = Vefkökur milli vefsvæða í öllum gluggum
 content-blocking-cross-site-tracking-cookies = Rakningarkökur milli vefsvæða
 content-blocking-all-cross-site-cookies-private-windows = Vefkökur milli vefsvæða í einkagluggum
 content-blocking-cross-site-tracking-cookies-plus-isolate = Rakningarkökur milli vefsvæða og einangra aðrar vefkökur
