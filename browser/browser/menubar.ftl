@@ -38,11 +38,9 @@ menu-quit =
             [windows] t
            *[other] t
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Avslutt { -brand-shorter-name }
-
 menu-about =
     .label = Om { -brand-shorter-name }
     .accesskey = O
@@ -260,7 +258,7 @@ menu-tools-browser-tools =
     .label = Nettlesarverktøy
     .accesskey = N
 menu-tools-task-manager =
-    .label = Oppgåvehandterar
+    .label = Oppgåvehandsamar
     .accesskey = O
 menu-tools-page-source =
     .label = Kjeldekode

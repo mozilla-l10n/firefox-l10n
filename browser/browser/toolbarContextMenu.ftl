@@ -28,8 +28,8 @@ toolbar-context-menu-reopen-closed-tabs =
         }
     .accesskey = a
 toolbar-context-menu-manage-extension =
-    .label = Handter utviding
-    .accesskey = e
+    .label = Handsam utviding
+    .accesskey = u
 toolbar-context-menu-remove-extension =
     .label = Fjern utviding
     .accesskey = F

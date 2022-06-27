@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-page-title = Handter tillegg
+addons-page-title = Handsam tillegg
 search-header =
     .placeholder = Søk på addons.mozilla.org
     .searchbuttonlabel = Søk
@@ -196,7 +196,7 @@ addon-open-about-debugging = Feilsøk tillegg
 ## Extension shortcut management
 
 # This is displayed in the page options menu
-addon-manage-extensions-shortcuts = Handter snarvegar for tillegg
+addon-manage-extensions-shortcuts = Handsam snarvegar for tillegg
     .accesskey = H
 shortcuts-no-addons = Du har ingen utvidinga aktiverte.
 shortcuts-no-commands = Følgjande utvidingar har ikkje snarvegar:
@@ -257,7 +257,7 @@ install-extension-button = Legg til i { -brand-product-name }
 install-theme-button = Installer tema
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
-manage-addon-button = Handter
+manage-addon-button = Handsam
 find-more-addons = Finn fleire tillegg
 find-more-themes = Finn fleire tema
 # This is a label for the button to open the "more options" menu, it is only
@@ -383,15 +383,15 @@ recommended-theme-1 = Er du i det kreative hjørnet? <a data-l10n-name="link">By
 
 ## Page headings
 
-extension-heading = Handter utvidingane dine
-theme-heading = Handter temaa dine
-plugin-heading = Handter programtillegga dine
-dictionary-heading = Handter ordbøkene dine
-locale-heading = Handter språka dine
-updates-heading = Handter oppdateringar
-sitepermission-heading = Handter nettstadløyva dine
+extension-heading = Handsam utvidingane dine
+theme-heading = Handsam temaa dine
+plugin-heading = Handsam programtillegga dine
+dictionary-heading = Handsam ordbøkene dine
+locale-heading = Handsam språka dine
+updates-heading = Handsam oppdateringar
+sitepermission-heading = Handsam nettstadløyva dine
 discover-heading = Tilpass { -brand-short-name }
-shortcuts-heading = Handter snarvegar for utvidingar
+shortcuts-heading = Handsam snarvegar for utvidingar
 default-heading-search-label = Finn fleire tillegg
 addons-heading-search-input =
     .placeholder = Søk på addons.mozilla.org
