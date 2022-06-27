@@ -958,6 +958,7 @@ content-blocking-etp-custom-desc = Escolha que rastreadores e scripts bloquear.
 content-blocking-etp-blocking-desc = { -brand-short-name } bloqueia o seguinte:
 content-blocking-private-windows = Conteúdo de rastreamento em janelas privativas
 content-blocking-cross-site-cookies-in-all-windows = Cookies entre sites em todas as janelas (inclui cookies de rastreamento)
+content-blocking-cross-site-cookies-in-all-windows2 = Cookies entre sites em todas as janelas
 content-blocking-cross-site-tracking-cookies = Cookies de rastreamento entre sites
 content-blocking-all-cross-site-cookies-private-windows = Cookies entre sites em janelas privativas
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies de rastreamento entre sites e isolar os cookies restantes
@@ -976,6 +977,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = A proteção total contra cookies isola os cookies do site em que você está, assim os rastreadores não conseguem usá-los para te seguir de um site para outro.
 content-blocking-etp-standard-tcp-rollout-learn-more = Saiba mais
+content-blocking-etp-standard-tcp-title = Inclui a proteção total contra cookies, nosso recurso de privacidade mais poderoso já feito
 content-blocking-warning-title = Atenção!
 content-blocking-and-isolating-etp-warning-description-2 = Esta configuração pode fazer com que alguns sites não exibam conteúdo ou não funcionem corretamente. Se um site parece ter sido afetado, você pode desativar a proteção contra rastreamento nesse site para carregar todo o conteúdo.
 content-blocking-warning-learn-how = Saiba como
