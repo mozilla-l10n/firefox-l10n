@@ -153,6 +153,9 @@ spotlight-total-cookie-protection-expanded = ‏{ -brand-short-name } בונה �
 spotlight-total-cookie-protection-primary-button = הפעלת הגנת עוגיות מלאה
 spotlight-total-cookie-protection-secondary-button = לא כעת
 cfr-total-cookie-protection-header = הודות לך, { -brand-short-name } פרטי ומאובטח יותר מאי פעם
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = הגנת עוגיות מלאה היא הגנת הפרטיות החזקה ביותר שלנו עד כה – והיא כעת הגדרת ברירת מחדל עבור משתמשי { -brand-short-name } בכל מקום. לא יכולנו לעשות את זה בלי משתתפי גישה מוקדמת כמוך. אז תודה שעזרת לנו ליצור אינטרנט פרטי וטוב יותר.
 
 ## Emotive Continuous Onboarding
 
