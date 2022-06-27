@@ -83,6 +83,8 @@ perftools-thread-render-backend =
     .title = De WebRender RenderBackend-thread
 perftools-thread-paint-worker =
     .title = As off-main-threadpainting ynskeakele is, de thread wêrop painting útfierd wurdt
+perftools-thread-timer =
+    .title = De timers foar it ôfhanneljen fan threads (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = Stylberekkening is opsplitst yn meardere threads
 pref-thread-stream-trans =
@@ -115,16 +117,9 @@ perftools-tools-threads-input-label =
     .title = Dizze threadnammen binne in kommaskieden list, dy’t brûkt wurdt om it profilearjen fan de threads yn de profiler mooglik te meitsjen. De namme hoecht mar in part oerien te kommen mei de threadnamme om opnommen te wurden. Gefoelich foar wytromte.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Nij</b>: { -profiler-brand-name } is no yntegrearre yn de Untwikkelershelpmiddelen. <a>Mear ynfo</a> oer dit krêftige nije helpmiddel.
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (Jo kinne tydlik it oarspronklike paniel Prestaasjes benaderje fia <a>{ options-context-advanced-settings }</a>)
 perftools-onboarding-close-button =
     .aria-label = It wolkomstberjocht slute
 
