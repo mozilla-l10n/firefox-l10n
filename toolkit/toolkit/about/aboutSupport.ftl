@@ -221,7 +221,7 @@ crashes-time-days =
 pending-reports =
     { $reports ->
         [one] Alle krasjrapportar (inkludert { $reports } krasjrapport som ventar på handsaming i tidsrommet)
-       *[other] Alle krasjrapportar (inkludert { $reports } krasjrapport som ventar på handtering i tidsrommet)
+       *[other] Alle krasjrapportar (inkludert { $reports } krasjrapport som ventar på handsaming i tidsrommet)
     }
 raw-data-copied = Rådata kopiert til utklippstavla
 text-copied = Tekst kopiert til utklippstavla
