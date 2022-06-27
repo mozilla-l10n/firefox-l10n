@@ -83,6 +83,8 @@ perftools-thread-render-backend =
     .title = A WebRender RenderBackend szála
 perftools-thread-paint-worker =
     .title = Ha a főszálon kívüli festés engedélyezett, akkor az a szál, amelyen a festés történik
+perftools-thread-timer =
+    .title = A szálkezelési időzítők (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = A stílusok számítása több szálra oszlik
 pref-thread-stream-trans =
@@ -115,16 +117,9 @@ perftools-tools-threads-input-label =
     .title = Az itt felsorolt szálnevek vesszővel elválasztott listája a profilozóban a szálak profilozásának engedélyezésére szolgál. A szál már nevének részleges egyezése esetén is hozzáadásra kerül. A mező szóközökre érzékeny.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Új</b>: A { -profiler-brand-name } mostantól a Fejlesztői eszközökbe integrált. <a>Tudjon meg többet</a> erről a hatékony új eszközről.
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (Korlátozott ideig elérheti az eredeti Teljesítmény panelt is a <a>{ options-context-advanced-settings }</a> segítségévél)
 perftools-onboarding-close-button =
     .aria-label = A bemutató üzenet bezárása
 
