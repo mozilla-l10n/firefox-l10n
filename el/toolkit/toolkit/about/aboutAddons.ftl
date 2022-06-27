@@ -407,6 +407,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = Το { $name } είναι ασύμβατο με τον { -brand-short-name } { $version }.
+details-notification-incompatible-link = Περισσότερες πληροφορίες
 details-notification-unsigned-and-disabled = Το { $name } δεν ήταν δυνατό να επαληθευτεί για χρήση από το { -brand-short-name } και έχει απενεργοποιηθεί.
 details-notification-unsigned-and-disabled-link = Περισσότερες πληροφορίες
 details-notification-unsigned = Το { $name } δεν ήταν δυνατό να επαληθευτεί για χρήση από το { -brand-short-name }. Συνεχίστε με προσοχή.
