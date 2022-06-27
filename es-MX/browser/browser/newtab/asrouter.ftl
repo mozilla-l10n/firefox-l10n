@@ -157,6 +157,9 @@ spotlight-total-cookie-protection-expanded = { -brand-short-name } construye un 
 spotlight-total-cookie-protection-primary-button = Activar la protección total contra las cookies
 spotlight-total-cookie-protection-secondary-button = Ahora no
 cfr-total-cookie-protection-header = Gracias a ti, { -brand-short-name } es más privado y seguro que nunca
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = Total Cookie Protection es nuestra protección de privacidad más sólida hasta el momento y ahora es una configuración predeterminada para los usuarios de { -brand-short-name } en todas partes. No podríamos haberlo hecho sin participantes de acceso anticipado como como tú. Gracias por ayudarnos a crear un Internet mejor y más privada.
 
 ## Emotive Continuous Onboarding
 
