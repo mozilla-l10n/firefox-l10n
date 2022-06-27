@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = תכונה מומלצת
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = למה אני רואה את זה
-
 cfr-doorhanger-extension-cancel-button = לא עכשיו
     .accesskey = ע
-
 cfr-doorhanger-extension-ok-button = הוספה כעת
     .accesskey = ס
-
 cfr-doorhanger-extension-manage-settings-button = ניהול הגדרות המלצות
     .accesskey = ג
-
 cfr-doorhanger-extension-never-show-recommendation = לא להציג לי המלצה זו
     .accesskey = ל
-
 cfr-doorhanger-extension-learn-more-link = מידע נוסף
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = מאת { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = המלצה
 cfr-doorhanger-extension-notification2 = המלצה
     .tooltiptext = המלצה על הרחבה
     .a11y-announcement = זמינה המלצה על הרחבה
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = המלצה
@@ -84,11 +76,9 @@ cfr-protections-panel-link-text = מידע נוסף
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = תכונה חדשה:
-
 cfr-whatsnew-button =
     .label = מה חדש
     .tooltiptext = מה חדש
-
 cfr-whatsnew-release-notes-link-text = קריאת הערור השחרור
 
 ## Enhanced Tracking Protection Milestones
@@ -162,6 +152,7 @@ spotlight-total-cookie-protection-body = הגנת עוגיות מלאה מונע
 spotlight-total-cookie-protection-expanded = ‏{ -brand-short-name } בונה גדר סביב עוגיות, ומבודד אותם לאתר שבו אתה נמצא, כך שעוגיות לא יכולות להשתמש בהן כדי לעקוב אחריך. הפעלת תכונה זו תסייע לנו לייעל אותה כדי שנוכל להמשיך לבנות אינטרנט טוב יותר עבור כולם.
 spotlight-total-cookie-protection-primary-button = הפעלת הגנת עוגיות מלאה
 spotlight-total-cookie-protection-secondary-button = לא כעת
+cfr-total-cookie-protection-header = הודות לך, { -brand-short-name } פרטי ומאובטח יותר מאי פעם
 
 ## Emotive Continuous Onboarding
 
