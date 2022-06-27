@@ -403,6 +403,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } est incompatible avec { -brand-short-name } { $version }.
+details-notification-incompatible-link = Plus d’informations
 details-notification-unsigned-and-disabled = { $name } n’a pas pu être vérifié pour son utilisation dans { -brand-short-name } et a été désactivé.
 details-notification-unsigned-and-disabled-link = Plus d’informations
 details-notification-unsigned = { $name } n’a pas pu être vérifié pour son utilisation dans { -brand-short-name }. Faites attention.
