@@ -160,6 +160,7 @@ cfr-total-cookie-protection-body = הגנת עוגיות מלאה היא הגנ�
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = אינטרנט טוב יותר מתחיל בך
+spotlight-better-internet-body = הבחירה להשתמש ב־{ -brand-short-name } משמעה הצבעה עבור אינטרנט פתוח ונגיש שטוב יותר לכולם.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] שמירה ב־Dock

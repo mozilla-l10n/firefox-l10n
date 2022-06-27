@@ -279,6 +279,7 @@ theme-disabled-heading2 = ערכות נושא שמורות
 theme-monochromatic-heading = ערכות צבעים
 theme-monochromatic-subheading = ערכות צבעים חדשים ותוססים מ־{ -brand-product-name }. זמינים לזמן מוגבל.
 theme-colorways-button = לנסות ערכות צבעים
+colorway-collection-independent-voices-subheading = להפוך את { -brand-short-name } לקצת אישי יותר
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = יפוג ב־{ DATETIME($expiryDate, month: "long", day: "numeric") }
