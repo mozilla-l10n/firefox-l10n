@@ -33,6 +33,7 @@ vcard-n-add-lastname =
 vcard-email-header = Διευθύνσεις email
 vcard-email-add = Προσθήκη διεύθυνσης email
 vcard-email-label = Διεύθυνση email
+vcard-primary-email-label = Προεπιλογή
 
 # URL vCard field
 
