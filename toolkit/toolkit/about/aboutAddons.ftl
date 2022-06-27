@@ -293,6 +293,10 @@ theme-disabled-heading2 = Bewarre tema’s
 theme-monochromatic-heading = Kleurstellingen
 theme-monochromatic-subheading = Libbene nije kleuren fan { -brand-product-name }. Beskikber foar in beheinde tiid.
 theme-colorways-button = Kleurstellingen probearje
+colorway-collection-independent-voices-subheading = Lit { -brand-short-name } in bytsje mear as josels fiele.
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires.
+colorway-collection-expiry-date-span = Ferrint op { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Ynskeakele
 plugin-disabled-heading = Utskeakele
 dictionary-enabled-heading = Ynskeakele
@@ -406,6 +410,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } is ynkompatibel mei { -brand-short-name } { $version }.
+details-notification-incompatible-link = Mear ynformaasje
 details-notification-unsigned-and-disabled = { $name } koe net ferifiearre wurde foar gebrûk yn { -brand-short-name } en is útskeakele.
 details-notification-unsigned-and-disabled-link = Mear ynformaasje
 details-notification-unsigned = { $name } koe net ferifiearre wurde foar gebrûk yn { -brand-short-name }. Wês foarsichtich as jo fierdergean.
