@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Fonctionnalité recommandée
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pourquoi ceci s’affiche-t-il ?
-
 cfr-doorhanger-extension-cancel-button = Pas maintenant
     .accesskey = P
-
 cfr-doorhanger-extension-ok-button = Ajouter maintenant
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Gérer les paramètres de recommandation
     .accesskey = G
-
 cfr-doorhanger-extension-never-show-recommendation = Ne pas montrer cette recommandation
     .accesskey = N
-
 cfr-doorhanger-extension-learn-more-link = En savoir plus
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = par { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recommandation
 cfr-doorhanger-extension-notification2 = Recommandation
     .tooltiptext = Recommandation d’extension
     .a11y-announcement = Recommandation d’extension disponible
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recommandation
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = En savoir plus
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nouvelle fonctionnalité :
-
 cfr-whatsnew-button =
     .label = Nouveautés
     .tooltiptext = Nouveautés
-
 cfr-whatsnew-release-notes-link-text = Lire les notes de version
 
 ## Enhanced Tracking Protection Milestones
@@ -163,6 +153,7 @@ spotlight-total-cookie-protection-body = La protection totale contre les cookies
 spotlight-total-cookie-protection-expanded = { -brand-short-name } crée une barrière autour des cookies, les limitant au site sur lequel vous vous trouvez afin que les traqueurs ne puissent pas les utiliser pour vous pister. Avec un accès anticipé, vous contribuerez à optimiser cette fonctionnalité afin que nous puissions continuer à bâtir un meilleur Web pour tout le monde.
 spotlight-total-cookie-protection-primary-button = Activer la protection totale contre les cookies
 spotlight-total-cookie-protection-secondary-button = Plus tard
+cfr-total-cookie-protection-header = Grâce à vous, { -brand-short-name } est plus privé et sûr que jamais
 
 ## Emotive Continuous Onboarding
 
