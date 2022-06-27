@@ -977,6 +977,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Allsherjar-vefkökuvörn inniheldur vefkökur á vefsvæðið sem þú ert á, þannig að rekjarar geta ekki notað þær til að fylgja þér á milli vefsvæða.
 content-blocking-etp-standard-tcp-rollout-learn-more = Frekari upplýsingar
+content-blocking-etp-standard-tcp-title = Inniheldur allsherjar-vefkökuvörn, öflugasta persónuverndareiginleikann okkar frá upphafi
 content-blocking-warning-title = Gættu þín!
 content-blocking-and-isolating-etp-warning-description-2 = Þessar stillingar gætu valdið því að sum vefsvæði birti ekki efni eða virki ekki rétt. Ef síða virðist biluð gætirðu viljað slökkva á rakningarvörn fyrir það vefsvæði til að hlaða inn öllu efni.
 content-blocking-warning-learn-how = Lærðu hvernig

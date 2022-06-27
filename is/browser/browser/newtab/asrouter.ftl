@@ -157,6 +157,9 @@ spotlight-total-cookie-protection-expanded = { -brand-short-name } byggir girði
 spotlight-total-cookie-protection-primary-button = Kveiktu á allsherjar-vefkökuvörnum
 spotlight-total-cookie-protection-secondary-button = Ekki núna
 cfr-total-cookie-protection-header = Þökk sé þér fer { -brand-short-name } betur með persónuleg gögn þín og er öruggari en nokkru sinni fyrr
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = Allsherjar-vefkökuvörn er öflugasti persónuverndareiginleikinn okkar frá upphafi - sem er núna sjálfgefin stilling fyrir alla notendur { -brand-short-name }. Við hefðum ekki náð að gera þetta nema með aðstoð notenda eins og þín sem prófa snemmbúna eiginleika. Þannig að þú færð þakkir fyrir að hjálpa til við að gera internetið meira einka og betra.
 
 ## Emotive Continuous Onboarding
 
