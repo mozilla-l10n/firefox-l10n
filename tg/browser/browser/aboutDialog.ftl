@@ -18,17 +18,17 @@ update-applying = Дар ҳоли татбиқи навсозӣ…
 update-failed = Навсозӣ иҷро нашуд. <label data-l10n-name="failed-link">Версияи охиринро боргирӣ намоед</label>
 update-failed-main = Навсозӣ иҷро нашуд. <a data-l10n-name="failed-link-main">Версияи охиринро боргирӣ намоед</a>
 update-adminDisabled = Навсозиҳо аз ҷониби маъмури низоми шумо ғайрифаъол карда шудаанд
-update-noUpdatesFound = { -brand-short-name } нав аст
+update-noUpdatesFound = «{ -brand-short-name }» нав аст
 update-otherInstanceHandlingUpdates = { -brand-short-name } аз тарафи раванди дигар навсозӣ шуда истодааст
 update-manual = Навсозиҳо дар <label data-l10n-name="manual-link"/> дастрасанд
 update-unsupported = Шумо дар низоми ҷорӣ навсозиҳои дигар иҷро карда наметавонед. <label data-l10n-name="unsupported-link">Маълумоти бештар</label>
 update-restarting = Дар ҳоли бозоғозӣ…
 channel-description = Айни ҳол шумо дар шабакаи навсозии «<label data-l10n-name="current-channel"></label>» қарор доред.
-warningDesc-version = { -brand-short-name } дар реҷаи озмоишӣ мебошад ва метавонад ноустувор кор кунад.
-aboutdialog-help-user = Кумаки { -brand-product-name }
+warningDesc-version = «{ -brand-short-name }» дар реҷаи озмоишӣ мебошад ва метавонад ноустувор кор кунад.
+aboutdialog-help-user = Кумаки «{ -brand-product-name }»
 aboutdialog-submit-feedback = Ирсоли изҳори назар
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> <label data-l10n-name="community-exp-creditsLink">ҷамъияти умумиҷаҳоние</label> мебошад, ки аъзои он барои ҳифзи Интернети кушод, оммавӣ ва ба ҳама дастрас ҳамкорӣ мекунанд.
-community-2 = { -brand-short-name } аз ҷониби <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> <label data-l10n-name="community-creditsLink">ҷамъияти умумиҷаҳоние</label> эҷод карда шудааст, ки аъзои он барои ҳифзи Интернети кушод, оммавӣ ва ба ҳама дастрас ҳамкорӣ мекунанд.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">«{ -vendor-short-name }»</label> <label data-l10n-name="community-exp-creditsLink">ҷамъияти умумиҷаҳоние</label> мебошад, ки аъзои он барои ҳифзи Интернети кушод, оммавӣ ва ба ҳама дастрас ҳамкорӣ мекунанд.
+community-2 = «{ -brand-short-name }» аз ҷониби <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> <label data-l10n-name="community-creditsLink">ҷамъияти умумиҷаҳоние</label> эҷод карда шудааст, ки аъзои он барои ҳифзи Интернети кушод, оммавӣ ва ба ҳама дастрас ҳамкорӣ мекунанд.
 helpus = Мехоҳед, ки кумак кунед? <label data-l10n-name="helpus-donateLink">Кумаки пулӣ расонед</label> ё <label data-l10n-name="helpus-getInvolvedLink">иштирок кунед!</label>
 bottomLinks-license = Маълумот дар бораи гувоҳинома
 bottomLinks-rights = Ҳуқуқҳои корбари ниҳоӣ
