@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Oanrekommandearre funksje
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Wêrom sjoch ik dit
-
 cfr-doorhanger-extension-cancel-button = No net
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = No tafoegje
     .accesskey = t
-
 cfr-doorhanger-extension-manage-settings-button = Ynstellingen foar oanrekommandaasjes beheare
     .accesskey = o
-
 cfr-doorhanger-extension-never-show-recommendation = Dizze oanrekommandaasje net toane
     .accesskey = D
-
 cfr-doorhanger-extension-learn-more-link = Mear ynfo
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = troch { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Oanrekommandaasje
 cfr-doorhanger-extension-notification2 = Oanrekommandaasje
     .tooltiptext = Oanrekommandaasje foar útwreiding
     .a11y-announcement = Oanrekommandaasje foar útwreiding beskikber
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Oanrekommandaasje
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = Mear ynfo
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nije funksje:
-
 cfr-whatsnew-button =
     .label = Wat is der nij
     .tooltiptext = Wat is der nij
-
 cfr-whatsnew-release-notes-link-text = Utjefteopmerkingen lêze
 
 ## Enhanced Tracking Protection Milestones
@@ -166,6 +156,10 @@ spotlight-total-cookie-protection-body = Totale cookiebeskerming foarkomt dat tr
 spotlight-total-cookie-protection-expanded = { -brand-short-name } bout in stek rûnom cookies, wêrtroch se beheint wurde ta de website wêrop jo jo binne, sadat trackers se net brûke kinne om jo te folgjen. As betide brûker helpe jo dizze funksje te optimalisearjen, sadat wy in better ynternet foar elkenien bouwe bliuwe kinne.
 spotlight-total-cookie-protection-primary-button = Totale cookiebeskerming ynskeakelje
 spotlight-total-cookie-protection-secondary-button = No net
+cfr-total-cookie-protection-header = Mei troch jo is { -brand-short-name } mear privee en feiliger as ea
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = Totale cookiebeskerming is ús sterkste privacybeskerming oant no ta – en it is no oeral in standertynstelling foar { -brand-short-name }-brûkers. Wy hiene dit net dwaan kinnen sûnder dielnimmers mei betide tagong lykas jo. Dus tank dat jo ús holpen hawwe om in better, mear privee ynternet te kreëarjen.
 
 ## Emotive Continuous Onboarding
 
