@@ -38,6 +38,13 @@ videocontrols-picture-in-picture-toggle-label = Смотреть в режиме
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Воспроизводите видео на переднем плане, пока вы занимаетесь другими делами в { -brand-short-name }
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label2 = Открепить видео
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer2 = Больше экранов — веселее. Воспроизводите это видео в режиме «Картинка в картинке» во время веб-сёрфинга.
 videocontrols-error-aborted = Загрузка видео остановлена.
 videocontrols-error-network = Воспроизведение видео прервано из-за ошибки сети.
 videocontrols-error-decode = Видео не может быть воспроизведено, так как файл повреждён.
