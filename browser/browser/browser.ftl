@@ -844,3 +844,5 @@ data-reporting-notification-message = Alcune informazioni vengono inviate automa
 data-reporting-notification-button =
     .label = Scegli cosa condividere
     .accesskey = S
+
+private-browsing-indicator-label = Navigazione anonima
