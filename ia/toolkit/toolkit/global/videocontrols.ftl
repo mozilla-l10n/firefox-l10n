@@ -38,6 +38,13 @@ videocontrols-picture-in-picture-toggle-label = Spectar in modo imagine-in-imagi
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Reproduce videos in prime plano durante que tu face altere cosas in { -brand-short-name }
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label2 = Distaccar iste video
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer2 = Plus paginas es plus amusante. Reproduce iste video in Imagine annidate durante que tu naviga.
 videocontrols-error-aborted = Cargamento de video stoppate.
 videocontrols-error-network = Reproduction del video abortate per un error de rete.
 videocontrols-error-decode = Le video non pote esser reproducite perque le file es corrumpite.
