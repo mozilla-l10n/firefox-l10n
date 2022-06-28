@@ -398,6 +398,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } 不兼容 { -brand-short-name } { $version }。
+details-notification-incompatible-link = 更多信息
 details-notification-unsigned-and-disabled = { $name } 未通过针对是否适用于 { -brand-short-name } 的验证，现已被禁用。
 details-notification-unsigned-and-disabled-link = 了解详情
 details-notification-unsigned = { $name } 未通过针对是否适用于 { -brand-short-name } 的验证。请谨慎。
