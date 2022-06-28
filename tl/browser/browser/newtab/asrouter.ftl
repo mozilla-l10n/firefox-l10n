@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Inirerekomenda na Tampok
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Bakit ko nakikita ito
-
 cfr-doorhanger-extension-cancel-button = Hindi Ngayon
     .accesskey = H
-
 cfr-doorhanger-extension-ok-button = Idagdag Ngayon
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Mangasiwa sa Rekomendasyong Itinakda
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = Itago ang Rekomendasyong ito
     .accesskey = I
-
 cfr-doorhanger-extension-learn-more-link = Alamin
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = ni { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendasyon
 cfr-doorhanger-extension-notification2 = Rekomendasyon
     .tooltiptext = Rekomendasyon
     .a11y-announcement = Rekomendasyon
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekomendasyon
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = Karagdagang kaalaman
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Bagong tampok:
-
 cfr-whatsnew-button =
     .label = Ano ang Bago
     .tooltiptext = Ano ang Bago
-
 cfr-whatsnew-release-notes-link-text = Basahin ang mga release note
 
 ## Enhanced Tracking Protection Milestones
@@ -140,6 +130,8 @@ cfr-doorhanger-video-support-primary-button = Mag-update Na
 
 
 ## Total Cookie Protection Rollout
+
+spotlight-total-cookie-protection-secondary-button = Hindi sa ngayon
 
 ## Emotive Continuous Onboarding
 
