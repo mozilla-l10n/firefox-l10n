@@ -40,7 +40,7 @@ videocontrols-picture-in-picture-toggle-label = צפייה בתמונה בתוך
 videocontrols-picture-in-picture-explainer = הפעלת סרטונים ברקע בזמן שעושים דברים אחרים ב־{ -brand-short-name }
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
-videocontrols-picture-in-picture-toggle-label2 = העברת הסרטון למצב מרחף
+videocontrols-picture-in-picture-toggle-label2 = העברת הסרטון למצב ריחוף
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
