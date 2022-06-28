@@ -83,6 +83,8 @@ perftools-thread-render-backend =
     .title = Le filo WebRender RenderBackend
 perftools-thread-paint-worker =
     .title = Quando es activate le pictura foras del filo principal, le filo sur le qual le pictura eveni
+perftools-thread-timer =
+    .title = Le argumento gere le temporisatores (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = Le computation de stilos es dividite in plure filos
 pref-thread-stream-trans =
@@ -115,16 +117,9 @@ perftools-tools-threads-input-label =
     .title = Iste nomines de filo forma un lista separate per commas que es usate pro activar le profilation del filos in le profilator. Es sufficiente un correspondentia partial con le nomine del filo a includer. Le spatios es significative.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Nove</b>: { -profiler-brand-name } es ora integrate in Utensiles de disveloppator. <a>Saper plus</a> re iste potente nove instrumento.
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (Pro un tempore limitate, tu pote acceder al quadro original Prestation via <a>{ options-context-advanced-settings }</a>)
 perftools-onboarding-close-button =
     .aria-label = Clauder le message introductive
 

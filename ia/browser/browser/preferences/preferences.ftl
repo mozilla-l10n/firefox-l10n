@@ -958,6 +958,7 @@ content-blocking-etp-custom-desc = Elige qual traciatores e scripts blocar.
 content-blocking-etp-blocking-desc = { -brand-short-name } bloca le sequente:
 content-blocking-private-windows = Contento de traciamento in fenestras private
 content-blocking-cross-site-cookies-in-all-windows = Cookies inter sitos in tote le fenestras (include cookies traciator)
+content-blocking-cross-site-cookies-in-all-windows2 = Cookies inter-sitos in tote le fenestras
 content-blocking-cross-site-tracking-cookies = Cookies de traciamento inter sitos
 content-blocking-all-cross-site-cookies-private-windows = Cookies inter sitos in fenestras private
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies de traciamento inter sitos, e isolar le cookies restante
@@ -976,6 +977,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Le protection total contra le cookies contine le cookies del sito ubi tu es, assi le traciatores non pote sequer te inter le sitos.
 content-blocking-etp-standard-tcp-rollout-learn-more = Pro saper plus
+content-blocking-etp-standard-tcp-title = Include Protection total del cookies, nostre plus potente functionalitate de confidentialitate de unquam
 content-blocking-warning-title = Attention!
 content-blocking-and-isolating-etp-warning-description-2 = Iste parametro pote causar alcun sitos web a non monstrar contento o non pote functionar correctemente. Si un sito pare corrupte, prova disactivar protection de traciamento pro ille sito pote cargar tote le contento.
 content-blocking-warning-learn-how = Apprende como
