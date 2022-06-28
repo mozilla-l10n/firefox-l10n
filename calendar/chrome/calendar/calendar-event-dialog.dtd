@@ -22,7 +22,7 @@
 <!ENTITY newevent.status.tentative.accesskey      "D" >
 <!ENTITY newevent.status.confirmed.label          "Confermato" >
 <!ENTITY newevent.status.confirmed.accesskey      "C" >
-<!ENTITY newevent.status.needsaction.label        "Richiede un'azione" >
+<!ENTITY newevent.status.needsaction.label        "Richiede un’azione" >
 <!ENTITY newevent.status.inprogress.label         "In corso" >
 <!ENTITY newevent.status.completed.label          "Completata il" >
 
@@ -142,7 +142,7 @@
 <!ENTITY  event.menu.options.privacy.accesskey                "v">
 <!ENTITY  event.menu.options.privacy.public.label             "Evento pubblico">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "u">
-<!ENTITY  event.menu.options.privacy.confidential.label       "Visualizza solo l'ora e la data">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Visualizza solo l’ora e la data">
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "V">
 <!ENTITY  event.menu.options.privacy.private.label            "Evento privato">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "E">
@@ -190,10 +190,10 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Applica proposta">
 <!ENTITY counter.button.proposal.accesskey                "A">
-<!ENTITY counter.button.proposal.tooltip2                 "I campi dell'evento verranno popolati usando i dati della controproposta. Solo il salvataggio (con o senza altre modifiche) notificherà tutti i partecipanti">
+<!ENTITY counter.button.proposal.tooltip2                 "I campi dell’evento verranno popolati usando i dati della controproposta. Solo il salvataggio (con o senza altre modifiche) notificherà tutti i partecipanti">
 <!ENTITY counter.button.original.label                    "Applica dati originali">
 <!ENTITY counter.button.original.accesskey                "o">
-<!ENTITY counter.button.original.tooltip2                 "I campi verranno popolati usando i dati dell'evento originale, anteriori alla controproposta">
+<!ENTITY counter.button.original.tooltip2                 "I campi verranno popolati usando i dati dell’evento originale, anteriori alla controproposta">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titolo:" >
@@ -297,7 +297,7 @@
 <!ENTITY event.recurrence.monthly.third.label           "Il terzo">
 <!ENTITY event.recurrence.monthly.fourth.label          "Il quarto">
 <!ENTITY event.recurrence.monthly.fifth.label           "Il quinto">
-<!ENTITY event.recurrence.monthly.last.label            "L'ultimo">
+<!ENTITY event.recurrence.monthly.last.label            "L’ultimo">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "domenica" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "lunedì" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "martedì" >
@@ -339,7 +339,7 @@
 <!ENTITY event.recurrence.yearly.third.label                 "Il terzo">
 <!ENTITY event.recurrence.yearly.fourth.label                "Il quarto">
 <!ENTITY event.recurrence.yearly.fifth.label                 "Il quinto">
-<!ENTITY event.recurrence.yearly.last.label                  "L'ultimo">
+<!ENTITY event.recurrence.yearly.last.label                  "L’ultimo">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "domenica" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "lunedì" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "martedì" >
@@ -417,12 +417,12 @@
 <!ENTITY summary.dialog.saveclose.label         "Salva e chiudi">
 <!ENTITY summary.dialog.saveclose.tooltiptext   "Salva le modifiche e chiude la finestra senza cambiare lo stato di partecipazione e inviare una risposta">
 <!ENTITY summary.dialog.accept.label            "Accetta">
-<!ENTITY summary.dialog.accept.tooltiptext      "Accetta l'invito">
+<!ENTITY summary.dialog.accept.tooltiptext      "Accetta l’invito">
 <!ENTITY summary.dialog.tentative.label         "Da confermare">
-<!ENTITY summary.dialog.tentative.tooltiptext   "Accetta l'invito come in forse">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Accetta l’invito come in forse">
 <!ENTITY summary.dialog.decline.label           "Declina">
-<!ENTITY summary.dialog.decline.tooltiptext     "Declina l'invito">
+<!ENTITY summary.dialog.decline.tooltiptext     "Declina l’invito">
 <!ENTITY summary.dialog.dontsend.label          "Non inviare una risposta">
-<!ENTITY summary.dialog.dontsend.tooltiptext    "Modifica lo stato di partecipazione senza inviare una risposta all'organizzatore e chiudi la finestra">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Modifica lo stato di partecipazione senza inviare una risposta all’organizzatore e chiudi la finestra">
 <!ENTITY summary.dialog.send.label              "Invia una risposta ora">
-<!ENTITY summary.dialog.send.tooltiptext        "Invia una risposta all'organizzatore e chiudi la finestra">
+<!ENTITY summary.dialog.send.tooltiptext        "Invia una risposta all’organizzatore e chiudi la finestra">
