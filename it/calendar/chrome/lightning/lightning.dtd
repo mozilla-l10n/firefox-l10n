@@ -52,46 +52,46 @@
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Accetta">
-<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Accetta l'invito all'evento">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Accetta l’invito all’evento">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Accetta tutte">
-<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Accetta l'invito all'evento per tutte le ricorrenze dello stesso">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Accetta l’invito all’evento per tutte le ricorrenze dello stesso">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Aggiungi">
-<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Aggiungi l'evento al calendario">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Aggiungi l’evento al calendario">
 <!ENTITY lightning.imipbar.btnDecline.label                                 "Declina">
-<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Declina l'invito all'evento">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Declina l’invito all’evento">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Declina tutte">
-<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Declina l'invito all'evento per tutte le ricorrenze dello stesso">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Declina l’invito all’evento per tutte le ricorrenze dello stesso">
 <!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Declina">
 <!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Declina la controproposta">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Elimina">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Elimina dal calendario">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Dettagli…">
-<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Visualizza i dettagli dell'evento">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Visualizza i dettagli dell’evento">
 <!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Non mostrare questi messaggi">
 <!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Calendario">
 <!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Vai alla scheda del calendario">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Di più">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Fare clic per visualizzare più opzioni">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Riconferma">
-<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Invia una riconferma all'organizzatore">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Invia una riconferma all’organizzatore">
 <!ENTITY lightning.imipbar.btnReschedule.label                              "Sposta">
-<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Sposta l'evento">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Sposta l’evento">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Salva una copia">
-<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Salva una copia dell'evento nel calendario a prescindere dalla risposta all'organizzatore. La lista dei partecipanti verrà cancellata.">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Salva una copia dell’evento nel calendario a prescindere dalla risposta all’organizzatore. La lista dei partecipanti verrà cancellata.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Da confermare">
-<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Accetta come in forse l'invito all'evento">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Accetta come in forse l’invito all’evento">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Da confermare tutte">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Accetta come in forse l'invito all'evento per tutte le ricorrenze dello stesso">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Accetta come in forse l’invito all’evento per tutte le ricorrenze dello stesso">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Aggiorna">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Aggiorna evento nel calendario">
 <!ENTITY lightning.imipbar.description                                      "Questo messaggio contiene un invito ad un evento.">
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "Invia una risposta ora">
-<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Invia una risposta all'organizzatore">
-<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Invia una risposta all'organizzatore per l'intera serie">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Invia una risposta all’organizzatore">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Invia una risposta all’organizzatore per l’intera serie">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Non inviare una risposta">
-<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Cambia lo stato di partecipazione senza inviare una risposta all'organizzatore">
-<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Cambia lo stato di partecipazione per la serie senza inviare una risposta all'organizzatore">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Cambia lo stato di partecipazione senza inviare una risposta all’organizzatore">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Cambia lo stato di partecipazione per la serie senza inviare una risposta all’organizzatore">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">

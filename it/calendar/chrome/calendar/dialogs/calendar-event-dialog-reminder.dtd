@@ -9,7 +9,7 @@
 <!ENTITY reminder.remove.accesskey                         "R">
 
 <!ENTITY reminder.reminderDetails.label                    "Dettagli promemoria">
-<!ENTITY reminder.action.label                             "Scegliere un'azione per il promemoria">
+<!ENTITY reminder.action.label                             "Scegliere un’azione per il promemoria">
 
 <!ENTITY reminder.action.alert.label                       "Mostra un avviso">
 <!ENTITY reminder.action.email.label                       "Invia una email">
