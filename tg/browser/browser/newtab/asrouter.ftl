@@ -156,6 +156,9 @@ spotlight-total-cookie-protection-expanded = { -brand-short-name } дар атр
 spotlight-total-cookie-protection-primary-button = Фаъол кардани «Муҳофизати пурра аз кукиҳо»
 spotlight-total-cookie-protection-secondary-button = Ҳоло не
 cfr-total-cookie-protection-header = Ба шарофати шумо, акнун { -brand-short-name } бештар хусусӣ ва бехатар аст.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = «Муҳофизати пурра аз кукиҳо» муҳофизати пурқувваттарини доимии мо барои махфияти шумо мебошад – ва акнун ин хусусият ҳамчун танзимоти пешфарз барои ҳамаи корбарони { -brand-short-name } истифода мешавад. Мо бе иштирокдорон дорои дастрасии барвақт, ба монанди шумо, ин хусусиятро эҷод карда наметавонистем. Ташаккур барои кумаки шумо дар сохтани Интернети беҳтар бо махфияти бештар.
 
 ## Emotive Continuous Onboarding
 
