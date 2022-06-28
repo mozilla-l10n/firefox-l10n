@@ -408,6 +408,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } ба { -brand-short-name } { $version } мувофиқат намекунад.
+details-notification-incompatible-link = Маълумоти бештар
 details-notification-unsigned-and-disabled = Истифодаи { $name } дар { -brand-short-name } тасдиқ карда нашуд ва бо ин сабаб ғайрифаъол карда шуд.
 details-notification-unsigned-and-disabled-link = Маълумоти бештар
 details-notification-unsigned = Истифодаи { $name } дар { -brand-short-name } тасдиқ карда нашуд. Бо эҳтиёт истифода баред.

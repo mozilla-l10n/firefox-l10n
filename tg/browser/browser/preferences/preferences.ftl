@@ -957,6 +957,7 @@ content-blocking-etp-custom-desc = Интихоб кунед, ки кадом в
 content-blocking-etp-blocking-desc = { -brand-short-name } зеринро манъ мекунад:
 content-blocking-private-windows = Муҳтавои пайгирикунанда дар равзанаҳои хусусӣ
 content-blocking-cross-site-cookies-in-all-windows = Кукиҳои байнисомонавӣ дар ҳамаи равзанаҳо (аз ҷумла кукиҳои пайгирикунанда)
+content-blocking-cross-site-cookies-in-all-windows2 = Кукиҳои байнисомонавӣ дар ҳамаи равзанаҳо
 content-blocking-cross-site-tracking-cookies = Кукиҳои васоити пайгирӣ байни сомонаҳо
 content-blocking-all-cross-site-cookies-private-windows = Кукиҳои байнисомонавӣ дар равзанаҳои хусусӣ
 content-blocking-cross-site-tracking-cookies-plus-isolate = Кукиҳои пайгирикунандаи байнисомонавӣ, бо дарназардошти манъкунии кукиҳои дигар
@@ -975,6 +976,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = «Муҳофизати пурра аз кукиҳо» ҳамаи кукиҳоро аз сомонаи ҷорие, ки шумо тамошо карда истодаед, нигоҳ медорад, то ки васоити пайгирӣ шуморо байни сомонаҳо назорат карда натавонанд.
 content-blocking-etp-standard-tcp-rollout-learn-more = Маълумоти бештар
+content-blocking-etp-standard-tcp-title = «Муҳофизати пурра аз кукиҳо»-ро дар бар мегирад, ки хусусияти пурқувваттарини мо барои махфияти шумо мебошад
 content-blocking-warning-title = Диққат!
 content-blocking-and-isolating-etp-warning-description-2 = Ин танзим метавонад боиси он гардад, ки баъзеи сомонаҳо метавонанд муҳтаворо намоиш надиҳанд ё дуруст кор накунанд. Агар сомона ҳамчун вайроншуда ба назар расад, барои намоиш додани тамоми мавод шумо метавонед «муҳофизат аз пайгирӣ»-ро ғайрифаъол кунед.
 content-blocking-warning-learn-how = Бифаҳмед, ки чӣ тавр
