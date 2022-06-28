@@ -43,6 +43,9 @@ about-debugging-sidebar-item-connect-button = Пайваст кардан
 about-debugging-sidebar-item-connect-button-connecting = Пайваст мешавад…
 # Text displayed in buttons found in sidebar items when the connection failed.
 about-debugging-sidebar-item-connect-button-connection-failed = Пайваст нашуд
+# Text displayed in connection warning on sidebar item of the runtime when connecting to
+# the runtime is taking too much time.
+about-debugging-sidebar-item-connect-button-connection-not-responding = Пайвастшавӣ то ҳол интизор аст, паёмҳоро дар браузери мавриди ҳадаф тафтиш кунед
 # Text displayed as connection error in sidebar item when the connection has timed out.
 about-debugging-sidebar-item-connect-button-connection-timeout = Вақти пайвастшавӣ ба анҷом расид
 # Text displayed in sidebar items for remote devices where a compatible browser (eg
