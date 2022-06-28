@@ -22,7 +22,7 @@ menu-application-hide-other =
 menu-application-show-all =
     .label = Ipakita ang Lahat
 menu-application-touch-bar =
-    .label = I-customize ang Touch Bar…
+    .label = i-Customize ang Touch Bar…
 
 ##
 
@@ -38,11 +38,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Isara ang { -brand-shorter-name }
-
 menu-about =
     .label = Tungkol sa { -brand-shorter-name }
     .accesskey = A
@@ -212,7 +210,7 @@ menu-bookmarks-menu =
 menu-bookmarks-manage =
     .label = Pamahalaan ang mga Bookmark
 menu-bookmark-current-tab =
-    .label = I-bookmark ang Kasalukuyang Tab
+    .label = i-Bookmark ang Kasalukuyang Tab
 menu-bookmark-edit =
     .label = i-Edit ang bookmark na ito
 menu-bookmarks-all-tabs =

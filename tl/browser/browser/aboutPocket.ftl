@@ -61,3 +61,4 @@ pocket-panel-header-sign-in = Mag sign-in
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Ipakita Lahat
+pocket-panel-button-remove = Tanggalin

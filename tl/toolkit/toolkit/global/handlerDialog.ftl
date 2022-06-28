@@ -21,10 +21,11 @@ permission-dialog-description = Payagan ang site na ito na buksan ang { $scheme 
 permission-dialog-btn-open-link =
     .label = Buksan ang Link
     .accessKey = B
-
 permission-dialog-btn-choose-app =
     .label = Pumili ng Application
     .accessKey = A
+permission-dialog-unset-description = Kakailanganin mong pumili ng isang application.
+permission-dialog-set-change-app-link = Pumili ng ibang application.
 
 ## Chooser dialog
 ## Variables:
@@ -33,16 +34,18 @@ permission-dialog-btn-choose-app =
 chooser-window =
     .title = Pumili ng Application
     .style = min-width: 26em; min-height: 26em;
-
 chooser-dialog =
     .buttonlabelaccept = Buksan ang Link
     .buttonaccesskeyaccept = B
-
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Puwede itong baguhin sa mga option ng Firefox
+       *[other] Puwede itong baguhin sa mga preference ng Firefox
+    }
 choose-other-app-description = Mamili ng ibang Application
 choose-app-btn =
     .label = Mamili...
     .accessKey = M
 choose-other-app-window-title = Ibang Application…
-
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = Naka-disable sa mga Private Window
