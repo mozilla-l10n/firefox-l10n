@@ -37,11 +37,6 @@ chooser-window =
 chooser-dialog =
     .buttonlabelaccept = Buksan ang Link
     .buttonaccesskeyaccept = B
-chooser-dialog-remember-extra =
-    { PLATFORM() ->
-        [windows] Puwede itong baguhin sa mga option ng Firefox
-       *[other] Puwede itong baguhin sa mga preference ng Firefox
-    }
 choose-other-app-description = Mamili ng ibang Application
 choose-app-btn =
     .label = Mamili...

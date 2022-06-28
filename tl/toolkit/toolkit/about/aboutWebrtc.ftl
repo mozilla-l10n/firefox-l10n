@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC Internals
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = i-save ang about:webrtc bilang
@@ -59,9 +58,6 @@ about-webrtc-ice-pair-bytes-sent = Bytes na ipinadala:
 about-webrtc-ice-pair-bytes-received = Bytes na natanggap:
 about-webrtc-ice-component-id = Component ID
 
-## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
@@ -71,16 +67,13 @@ about-webrtc-type-remote = Remote
 
 ##
 
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nakatalaga
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Napili
-
 about-webrtc-save-page-label = I-save ang Pahina
 about-webrtc-debug-mode-msg-label = Mode na Pag-debug
 about-webrtc-debug-mode-off-state-label = Simulan ang Debug Mode
@@ -105,7 +98,6 @@ about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (nasara) { $now }
 
 ##
-
 
 about-webrtc-local-candidate = Lokal na Kandidato
 about-webrtc-remote-candidate = Remote na Kandidato
@@ -139,6 +131,7 @@ about-webrtc-remote-send-ssrc = Remote Sending SSRC
 
 ##
 
+
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -151,12 +144,27 @@ about-webrtc-aec-logging-off-state-msg = ang nakuhang mga log file ay makikita s
 
 ##
 
+# This is the total number of frames encoded or decoded over an RTP stream.
+# Variables:
+#  $frames (Number) - The number of frames encoded or decoded.
+about-webrtc-frames =
+    { $frames ->
+        [one] { $frames } frame
+       *[other] { $frames } frames
+    }
+# This is the number of audio channels encoded or decoded over an RTP stream.
+# Variables:
+#  $channels (Number) - The number of channels encoded or decoded.
+about-webrtc-channels =
+    { $channels ->
+        [one] { $channels } channel
+       *[other] { $channels } channels
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -170,11 +178,6 @@ about-webrtc-trickle-caption-msg = Pumatak na mga kandidato (nakarating pagkatap
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 #  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
 about-webrtc-sdp-set-timestamp = Timestamp { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
-
-##
-
-##
-
 
 ##
 
