@@ -76,6 +76,8 @@ perftools-thread-render-backend =
     .title = WebRender 的 RenderBackend 线程
 perftools-thread-paint-worker =
     .title = 启用非主线程绘制时，进行绘制的线程
+perftools-thread-timer =
+    .title = 线程处理定时器（setTimeout、setInterval、nsITimer）
 perftools-thread-style-thread =
     .title = 样式计算会拆分在多个线程中进行
 pref-thread-stream-trans =
@@ -108,16 +110,9 @@ perftools-tools-threads-input-label =
     .title = 下方列表是要在分析器中测量性能的线程名称（以逗号分隔）。名称须与要测量的线程的名称部分匹配，且对空格敏感。
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>新变化</b>：{ -profiler-brand-name }现已集成于开发者工具。<a>详细了解</a>这个功能强大的新工具。
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = （短期内，您仍可以通过<a>{ options-context-advanced-settings }</a>访问旧的“性能”面板）
 perftools-onboarding-close-button =
     .aria-label = 关闭导览消息
 
