@@ -14,10 +14,15 @@ vcard-displayname-placeholder =
 vcard-entry-type-label = Τύπος
 vcard-entry-type-home = Οικία
 vcard-entry-type-work = Εργασία
+vcard-entry-type-none = Κανένα
+vcard-entry-type-custom = Προσαρμοσμένο
 
 # N vCard field
 
 vcard-name-header = Όνομα
+vcard-n-prefix = Πρόθεμα
+vcard-n-add-prefix =
+    .title = Προσθήκη προθέματος
 vcard-n-firstname = Όνομα
 vcard-n-add-firstname =
     .title = Προσθήκη ονόματος
@@ -27,6 +32,9 @@ vcard-n-add-middlename =
 vcard-n-lastname = Επώνυμο
 vcard-n-add-lastname =
     .title = Προσθήκη επωνύμου
+vcard-n-suffix = Επίθεμα
+vcard-n-add-suffix =
+    .title = Προσθήκη επιθέματος
 
 # Email vCard field
 
@@ -76,8 +84,11 @@ vcard-adr-label = Διεύθυνση
 vcard-adr-delivery-label = Ετικέτα παράδοσης
 vcard-adr-pobox = Ταχυδρομική θυρίδα
 vcard-adr-ext = Εκτεταμένη διεύθυνση
+vcard-adr-street = Διεύθυνση
 # Or "Locality"
 vcard-adr-locality = Πόλη
+# Or "Region"
+vcard-adr-region = Πολιτεία/περιφέρεια
 # The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
 vcard-adr-code = Ταχυδρομικός κώδικας
 vcard-adr-country = Χώρα

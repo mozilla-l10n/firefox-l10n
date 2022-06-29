@@ -20,8 +20,12 @@ message-header-tags-list-name = Ετικέτες
 message-header-author-field = Συντάκτης<span data-l10n-name="field-separator">:</span>
 message-header-organization-field = Οργανισμός<span data-l10n-name="field-separator">:</span>
 message-header-subject-field = Θέμα<span data-l10n-name="field-separator">:</span>
+message-header-followup-to-field = Απάντηση σε<span data-l10n-name="field-separator">:</span>
 message-header-date-field = Ημερομηνία<span data-l10n-name="field-separator">:</span>
+message-header-user-agent-field = Πρόγραμμα πελάτη<span data-l10n-name="field-separator">:</span>
 message-header-references-field = Αναφορές<span data-l10n-name="field-separator">:</span>
+message-header-message-id-field = Αναγνωριστικό μηνύματος<span data-l10n-name="field-separator">:</span>
+message-header-in-reply-to-field = Σε απάντηση του<span data-l10n-name="field-separator">:</span>
 message-header-website-field = Ιστότοπος<span data-l10n-name="field-separator">:</span>
 # An additional email header field that the user has chosen to display. Unlike
 # the other headers, the name of this header is not expected to be localised
@@ -35,6 +39,8 @@ message-header-address-in-address-book-icon2 =
     .alt = Στο ευρετήριο
 message-header-address-not-in-address-book-icon2 =
     .alt = Όχι στο ευρετήριο
+message-header-address-not-in-address-book-button =
+    .title = Αποθήκευση της διεύθυνσης στο Βιβλίο Διευθύνσεων
 message-header-address-in-address-book-button =
     .title = Επεξεργασία επαφής
 message-header-field-show-more = Περισσότερα
