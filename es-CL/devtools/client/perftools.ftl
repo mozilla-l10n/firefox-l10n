@@ -83,6 +83,8 @@ perftools-thread-render-backend =
     .title = El hilo RenderBackend de WebRender
 perftools-thread-paint-worker =
     .title = Cuando se activa la pintura fuera del hilo principal, el hilo en el que se realiza la pintura
+perftools-thread-timer =
+    .title = Los temporizadores de manejo de subprocesos (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = El cálculo de estilo se divide en múltiples hilos
 pref-thread-stream-trans =
@@ -115,16 +117,9 @@ perftools-tools-threads-input-label =
     .title = Estos nombres de hilos son una lista separada por comas que se utiliza para habilitar la creación de perfiles de los hilos en el perfilador. El nombre debe ser solo una coincidencia parcial del nombre del hilo para que se incluya. Es sensible a los espacios en blanco.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Nuevo</b>: { -profiler-brand-name } está ahora integrado en las herramientas para desarrolladores. <a>Aprender más</a> acerca de esta poderosa nueva herramienta.
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (Por un tiempo limitado, podrás acceder al panel de rendimiento original a través de <a>{ options-context-advanced-settings }</a>)
 perftools-onboarding-close-button =
     .aria-label = Cerrar el mensaje de introducción
 
