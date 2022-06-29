@@ -7,6 +7,25 @@ openpgp-key-assistant-title = Pomočnik za ključe OpenPGP
 ## Encryption status
 
 openpgp-key-assistant-recipients-issue-header = Ni mogoče šifrirati
+# Variables:
+# $count (Number) - The number of recipients that need attention.
+openpgp-key-assistant-recipients-issue-description =
+    { $count ->
+        [one] Za šifriranje morate pridobiti in sprejeti uporaben ključ za enega prejemnika. <a data-l10n-name="openpgp-link">Več o tem …</a>
+        [two] Za šifriranje morate pridobiti in sprejeti uporaben ključ za { $count } prejemnika. <a data-l10n-name="openpgp-link">Več o tem …</a>
+        [few] Za šifriranje morate pridobiti in sprejeti uporaben ključ za { $count } prejemnike. <a data-l10n-name="openpgp-link">Več o tem …</a>
+       *[other] Za šifriranje morate pridobiti in sprejeti uporaben ključ za { $count } prejemnikov. <a data-l10n-name="openpgp-link">Več o tem …</a>
+    }
+# Variables:
+# $count (Number) - The number of recipients that need attention.
+openpgp-key-assistant-recipients-description =
+    { $count ->
+        [one] Uporaben in sprejet ključ že imate za enega prejemnika.
+        [two] Uporaben in sprejet ključ že imate za { $count } prejemnika.
+        [few] Uporaben in sprejet ključ že imate za { $count } prejemnike.
+       *[other] Uporaben in sprejet ključ že imate za { $count } prejemnikov.
+    }
+openpgp-key-assistant-recipients-description-no-issues = To sporočilo je mogoče šifrirati. Za vse prejemnike imate uporabne in sprejete ključe.
 
 ## Resolve section
 
@@ -85,6 +104,11 @@ openpgp-key-assistant-discover-title = Iskanje na spletu poteka.
 # Variables:
 # $recipient (String) - The email address which we're discovering keys.
 openpgp-key-assistant-discover-keys = Odkrivanje ključev za { $recipient } …
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-expired-key-update =
+    Najdena je bila posodobitev za enega od predhodno sprejetih ključev za { $recipient }.
+    Zdaj ga je mogoče uporabljati, saj njegova veljavnost ni več pretečena.
 
 ## Dialog buttons
 
