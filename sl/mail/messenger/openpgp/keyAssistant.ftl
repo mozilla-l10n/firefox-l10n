@@ -10,6 +10,27 @@ openpgp-key-assistant-recipients-issue-header = Ni mogoče šifrirati
 
 ## Resolve section
 
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+# $numKeys (Number) - The number of keys.
+openpgp-key-assistant-resolve-title =
+    { $numKeys ->
+        [one] { -brand-short-name } je za { $recipient } našel naslednji ključ.
+        [two] { -brand-short-name } je za { $recipient } našel naslednja ključa.
+        [few] { -brand-short-name } je za { $recipient } našel naslednje ključe.
+       *[other] { -brand-short-name } je za { $recipient } našel naslednje ključe.
+    }
+openpgp-key-assistant-valid-description = Izberite ključ, ki ga želite sprejeti
+# Variables:
+# $numKeys (Number) - The number of available keys.
+openpgp-key-assistant-invalid-title =
+    { $numKeys ->
+        [one] Naslednjega ključa ni mogoče uporabiti, razen če prejmete posodobitev.
+        [two] Naslednjih ključev ni mogoče uporabiti, razen če prejmete posodobitev.
+        [few] Naslednjih ključev ni mogoče uporabiti, razen če prejmete posodobitev.
+       *[other] Naslednjih ključev ni mogoče uporabiti, razen če prejmete posodobitev.
+    }
+openpgp-key-assistant-no-key-available = Ni razpoložljivega ključa.
 openpgp-key-assistant-multiple-keys = Na voljo je več ključev.
 # Variables:
 # $count (Number) - The number of unaccepted keys.
@@ -26,6 +47,9 @@ openpgp-key-assistant-key-accepted-expired = Sprejetemu ključu je potekla velja
 openpgp-key-assistant-keys-accepted-expired = Več sprejetim ključem je potekla veljavnost.
 # Variables:
 # $date (String) - The expiration date of the key.
+openpgp-key-assistant-this-key-accepted-expired = Ta ključ je bil prej sprejet, vendar mu je { $date } potekla veljavnost.
+# Variables:
+# $date (String) - The expiration date of the key.
 openpgp-key-assistant-key-unaccepted-expired-one = Ključu je potekla veljavnost { $date }.
 openpgp-key-assistant-key-unaccepted-expired-many = Več ključem je potekla veljavnost.
 openpgp-key-assistant-key-fingerprint = Prstni odtis
@@ -37,9 +61,27 @@ openpgp-key-assistant-key-source =
        *[other] Viri
     }
 openpgp-key-assistant-key-collected-attachment = e-poštna priponka
+# Autocrypt is the name of a standard.
+openpgp-key-assistant-key-collected-autocrypt = Glava Autocrypt
+openpgp-key-assistant-key-collected-keyserver = strežnik ključev
+# Web Key Directory (WKD) is a concept.
+openpgp-key-assistant-key-collected-wkd = spletni imenik ključev
+openpgp-key-assistant-keys-has-collected =
+    { $count ->
+        [one] Najden je bil ključ, vendar še ni bil sprejet.
+        [two] Najdena sta bila dva ključa, vendar še nobeden od njiju ni bil sprejet.
+        [few] Najdenih je bilo več ključev, vendar še nobeden od njih ni bil sprejet.
+       *[other] Najdenih je bilo več ključev, vendar še nobeden od njih ni bil sprejet.
+    }
+openpgp-key-assistant-key-rejected = Ta ključ je bil prej zavrnjen.
+openpgp-key-assistant-key-accepted-other = Ta ključ je bil prej sprejet za drug e-poštni naslov.
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+openpgp-key-assistant-resolve-discover-info = Na spletu odkrijte dodatne ali posodobljene ključe za { $recipient } ali jih uvozite iz datoteke.
 
 ## Discovery section
 
+openpgp-key-assistant-discover-title = Iskanje na spletu poteka.
 # Variables:
 # $recipient (String) - The email address which we're discovering keys.
 openpgp-key-assistant-discover-keys = Odkrivanje ključev za { $recipient } …
