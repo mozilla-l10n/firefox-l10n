@@ -55,6 +55,8 @@ about-addressbook-search =
     .placeholder = Αναζήτηση σε { $name }
 about-addressbook-search-all =
     .placeholder = Αναζήτηση σε όλα τα ευρετήρια
+about-addressbook-sort-button2 =
+    .title = Επιλογές εμφάνισης λίστας
 about-addressbook-name-format-display =
     .label = Εμφανιζόμενο όνομα
 about-addressbook-name-format-firstlast =
@@ -180,6 +182,7 @@ about-addressbook-details-other-info-header = Άλλες πληροφορίες
 about-addressbook-entry-type-work = Εργασία
 about-addressbook-entry-type-home = Οικία
 about-addressbook-entry-type-fax = Φαξ
+# Or "Mobile"
 about-addressbook-entry-type-cell = Κινητό
 about-addressbook-entry-type-pager = Βομβητής
 about-addressbook-entry-name-birthday = Γενέθλια
