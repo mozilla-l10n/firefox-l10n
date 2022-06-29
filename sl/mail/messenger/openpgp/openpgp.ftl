@@ -505,8 +505,13 @@ key-man-button-generate-key-continue = &Nadaljuj ustvarjanje ključev
 
 failed-decrypt = Napaka – dešifriranje ni uspelo
 fix-broken-exchange-msg-failed = Tega sporočila ni mogoče popraviti.
+attachment-no-match-from-signature = Datoteke s podpisom "{ $attachment }" ni mogoče povezati s priponko
+attachment-no-match-to-signature = Priponke "{ $attachment }" ni mogoče povezati z datoteko s podpisom
 signature-verified-ok = Podpis za priponko { $attachment } je bil uspešno preverjen
 signature-verify-failed = Podpisa za priponko { $attachment } ni bilo mogoče preveriti
+decrypt-ok-no-sig =
+    Opozorilo
+    Dešifriranje je bilo uspešno, vendar podpisa ni bilo mogoče pravilno preveriti
 msg-ovl-button-cont-anyway = &Vseeno nadaljuj
 enig-content-note = *Priponke k temu sporočilu niso podpisane niti šifrirane*
 # Strings used in enigmailMsgComposeOverlay.js
@@ -514,6 +519,7 @@ msg-compose-button-send = &Pošlji sporočilo
 msg-compose-details-button-label = Podrobnosti …
 msg-compose-details-button-access-key = d
 send-aborted = Pošiljanje je prekinjeno.
+key-not-trusted = Ni dovolj zaupanja za ključ "{ $key }"
 key-not-found = Ključa "{ $key }" ni mogoče najti
 key-revoked = Ključ "{ $key }" je preklican
 key-expired = Ključ "{ $key }" je pretekel
@@ -540,6 +546,9 @@ unverified-reply = Zamaknjeni del sporočila (odgovor) je bil verjetno spremenje
 key-in-message-body = V telesu sporočila je najden ključ. Kliknite "Uvozi ključ", da ga uvozite
 sig-mismatch = Napaka – Neujemanje podpisov
 invalid-email = Napaka – Neveljavni e-poštni naslovi
+attachment-pgp-key =
+    Priponka "{ $name }", ki jo odpirate, je videti kot datoteka s ključem OpenPGP.
+    Kliknite "Uvozi" za uvoz ključev, ki jih vsebuje, ali "Prikaži" za ogled njene vsebine v brskalniku
 dlg-button-view = &Prikaži
 # Strings used in encryption.jsm
 not-required = Napaka – šifriranje ni zahtevano
