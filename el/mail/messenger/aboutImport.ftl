@@ -97,6 +97,10 @@ addr-book-directories-title = Επιλέξτε που θα γίνει η εισ�
 addr-book-directories-pane-source = Αρχείο πηγής:
 # $addressBookName (string) - name of the new address book that would be created.
 addr-book-import-into-new-directory2 = Δημιουργήστε ένα νέο κατάλογο με όνομα <strong>"{ $addressBookName }"</strong>
+# $addressBookName (string) - name of the address book to import into
+addr-book-summary-title = Εισαγάγετε τα επιλεγμένα δεδομένα στον κατάλογο "{ $addressBookName }"
+# $addressBookName (string) - name of the address book that will be created.
+addr-book-summary-description = Θα δημιουργηθεί ένα νέο βιβλίο διευθύνσεων με όνομα "{ $addressBookName }".
 
 ## Import from calendar file steps
 
@@ -107,6 +111,18 @@ calendar-items-filter-input =
     .placeholder = Φιλτράρισμα στοιχείων…
 calendar-select-all-items = Επιλογή όλων
 calendar-deselect-all-items = Αποεπιλογή όλων
+calendar-target-title = Επιλέξτε που θα γίνει η εισαγωγή των αντικειμένων που επιλέξατε.
+# $targetCalendar (string) - name of the new calendar that would be created
+calendar-import-into-new-calendar2 = Δημιουργήστε ένα νέο ημερολόγιο με όνομα <strong>"{ $targetCalendar }"</strong>
+# $itemCount (number) - count of selected items (tasks, events) that will be imported
+# $targetCalendar (string) - name of the calendar the items will be imported into
+calendar-summary-title =
+    { $itemCount ->
+        [one] Εισαγωγή ενός αντικειμένου στο ημερολόγιο "{ $targetCalendar }"
+       *[other] Εισαγωγή { $itemCount } αντικειμένων στο ημερολόγιο "{ $targetCalendar }"
+    }
+# $targetCalendar (string) - name of the calendar that will be created
+calendar-summary-description = Θα δημιουργηθεί ένα νέο ημερολόγιο με όνομα "{ $targetCalendar }".
 
 ## Import dialog
 
@@ -116,6 +132,8 @@ progress-pane-importing2 = Εισαγωγή… { $progressPercent }
 progress-pane-exporting2 = Εξαγωγή… { $progressPercent }
 progress-pane-finished-desc2 = Ολοκληρώθηκε.
 error-pane-title = Σφάλμα
+error-message-zip-file-too-big2 = Το επιλεγμένο αρχείο ZIP είναι μεγαλύτερο από 2GB. Αποσυμπιέστε το πρώτα και μετά εισαγάγετε τον φάκελο που έγινε η εξαγωγή.
+error-message-extract-zip-file-failed2 = Αδύνατη η εξαγωγή του αρχείου ZIP. Αποσυμπιέστε το χειροκίνητα και μετά εισαγάγετε από το φάκελο που θα εξαχθούν τα αρχεία.
 error-message-failed = Η εισαγωγή απέτυχε απροσδόκητα, περισσότερες πληροφορίες ενδέχεται να είναι διαθέσιμες στην Κονσόλα Σφαλμάτων.
 error-failed-to-parse-ics-file = Δεν βρέθηκαν στοιχεία προς εισαγωγή στο αρχείο.
 error-export-failed = Απρόσμενη αποτυχία εξαγωγής, περισσότερες πληροφορίες θα βρείτε στην κονσόλα σφαλμάτων.
@@ -131,6 +149,8 @@ csv-target-field = Πεδίο ευρετηρίου διευθύνσεων
 
 ## Export tab
 
+export-profile-title = Εξαγωγή λογαριασμών, μηνυμάτων, βιβλίων διευθύνσεων και ρυθμίσεων σε αρχείο ZIP.
+export-profile-description = Αν το τρέχον προφίλ σας είναι μεγαλύτερο από 2GB, προτείνεται η λήψη αντιγράφου ασφαλείας από εσάς.
 export-open-profile-folder = Άνοιγμα φακέλου προφίλ
 export-file-picker2 = Εξαγωγή σε αρχείο ZIP
 export-brand-name = { -brand-product-name }
@@ -139,6 +159,7 @@ export-brand-name = { -brand-product-name }
 
 summary-pane-title = Δεδομένα προς εισαγωγή
 summary-pane-start = Έναρξη εισαγωγής
+summary-pane-warning = Το { -brand-product-name } θα πρέπει να επανεκκινήσει αφού ολοκληρωθεί η εισαγωγή.
 summary-pane-start-over = Επανεκκίνηση εργαλείου εισαγωγής
 
 ## Footer area

@@ -7,6 +7,7 @@ open-addons-sidebar-button = Πρόσθετα και θέματα
 account-action-add-newsgroup-account =
     .label = Προσθήκη λογαριασμού ομάδας συζητήσεων…
     .accesskey = θ
+server-change-restart-required = Η επανεκκίνηση είναι απαιτούμενη για την εφαρμογή του ονόματος διακομιστή ή αλλαγή ονόματος χρήστη.
 edit-vcard-dialog-accept-button = Αποθήκευση
     .accesskey = Α
 edit-vcard-dialog-cancel-button = Ακύρωση
