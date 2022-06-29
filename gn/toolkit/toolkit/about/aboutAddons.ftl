@@ -402,6 +402,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } ndojokupytýi { -brand-short-name } { $version } ndive.
+details-notification-incompatible-link = Eñemomaranduve
 details-notification-unsigned-and-disabled = { $name } ndaikatúi ojehechajey ojepuru hag̃ua { -brand-short-name }-pe ha oñemongéma.
 details-notification-unsigned-and-disabled-link = Maranduve
 details-notification-unsigned = { $name } ndaikatúi ojehechajey ojepuru hag̃ua { -brand-short-name }-pe. Ejesareko porãke hese.
