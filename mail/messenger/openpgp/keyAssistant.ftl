@@ -92,9 +92,16 @@ openpgp-key-assistant-discover-title = Διαδικτυακή ανακάλυψη
 # Variables:
 # $recipient (String) - The email address which we're discovering keys.
 openpgp-key-assistant-discover-keys = Ανακάλυψη κλειδιών για { $recipient }…
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-expired-key-update =
+    Βρέθηκε ενημέρωση για ένα από τα προηγούμενα αποδεχθέντα κλειδιά για τον { $recipient }.
+    Μπορεί τώρα να χρησιμοποιηθεί καθώς δεν έχει λήξει.
 
 ## Dialog buttons
 
+openpgp-key-assistant-discover-online-button = Εύρεση Δημοσίων Κλειδιών στο Διαδίκτυο…
+openpgp-key-assistant-import-keys-button = Εισαγωγή Δημοσίων Κλειδιών από Αρχείο…
 openpgp-key-assistant-issue-resolve-button = Επίλυση…
 openpgp-key-assistant-view-key-button = Προβολή κλειδιού…
 openpgp-key-assistant-recipients-show-button = Εμφάνιση
@@ -105,3 +112,6 @@ openpgp-key-assistant-accept-button = Αποδοχή
 openpgp-key-assistant-close-button = Κλείσιμο
 openpgp-key-assistant-disable-button = Απενεργοποίηση κρυπτογράφησης
 openpgp-key-assistant-confirm-button = Αποστολή κρυπτογραφημένου
+# Variables:
+# $date (String) - The key creation date.
+openpgp-key-assistant-key-created = δημιουργήθηκε στις { $date }
