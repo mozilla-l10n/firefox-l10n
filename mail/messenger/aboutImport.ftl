@@ -9,9 +9,11 @@ export-page-title = Εξαγωγή
 
 import-start = Εργαλείο εισαγωγής
 import-start-title = Εισαγάγετε ρυθμίσεις ή δεδομένα από μια εφαρμογή ή ένα αρχείο.
+import-start-description = Επιλογή της πηγής από την οποία θέλετε να κάνετε εισαγωγή. Αργότερα θα ερωτηθείτε να επιλέξετε ποια δεδομένα θα εισαχθούν.
 import-from-app = Εισαγωγή από εφαρμογή
 import-file = Εισαγωγή από αρχείο
 import-file-title = Επιλέξτε ένα αρχείο για να εισαγάγετε το περιεχόμενό του.
+import-file-description = Επιλέξτε για εισαγωγή ένα προφίλ, βιβλία διευθύνσεων ή ημερολόγια που έχετε ήδη πάρει παλιότερα αντίγραφο ασφαλείας.
 import-address-book-title = Εισαγωγή αρχείου ευρετηρίου
 import-calendar-title = Εισαγωγή αρχείου ημερολογίου
 export-profile = Εξαγωγή
@@ -31,18 +33,26 @@ app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
 source-thunderbird = Εισαγωγή από άλλη εγκατάσταση του { app-name-thunderbird }
+source-thunderbird-description = Εισαγωγή ρυθμίσεων, φίλτρων, μηνυμάτων και άλλων δεδομένων από ένα προφίλ { app-name-thunderbird }.
 source-seamonkey = Εισαγωγή από εγκατάσταση του { app-name-seamonkey }
+source-seamonkey-description = Εισαγωγή ρυθμίσεων, φίλτρων, μηνυμάτων και άλλων δεδομένων από ένα προφίλ { app-name-seamonkey }.
 source-outlook = Εισαγωγή από { app-name-outlook }
+source-outlook-description = Εισαγωγή λογαριασμών, βιβλίων διευθύνσεων και μηνυμάτων από { app-name-outlook }.
 source-becky = Εισαγωγή από { app-name-becky }
+source-becky-description = Εισαγωγή βιβλίων διευθύνσεων και μηνυμάτων από { app-name-becky }.
 source-apple-mail = Εισαγωγή από { app-name-apple-mail }
 source-apple-mail-description = Εισαγωγή μηνυμάτων από { app-name-apple-mail }.
 source-file2 = Εισαγωγή από αρχείο
+source-file-description = Επιλέξτε ένα αρχείο για εισαγωγή βιβλίων διευθύνσεων, ημερολογίων ή αντιγράφου ασφαλείας προφίλ (αρχείο ZIP).
 
 ## Import from file selections
 
 file-profile2 = Εισαγωγή εφεδρικού προφίλ
+file-profile-description = Επιλέξτε ένα προφίλ Thunderbird από αντίγραφο ασφαλείας (.zip)
 file-calendar = Εισαγωγή ημερολογίων
+file-calendar-description = Επιλέξτε ένα αρχείο που περιέχει Ημερολόγια ή Συμβάντα που έχουν εξαχθεί (.ics)
 file-addressbook = Εισαγωγή ευρετηρίων διευθύνσεων
+file-addressbook-description = Επιλέξτε ένα αρχείο που περιέχει Βιβλία Διευθύνσεων και Επαφές
 
 ## Import from app profile steps
 
@@ -51,23 +61,30 @@ from-app-seamonkey = Εισαγωγή από προφίλ του { app-name-seam
 from-app-outlook = Εισαγωγή από { app-name-outlook }
 from-app-becky = Εισαγωγή από { app-name-becky }
 from-app-apple-mail = Εισαγωγή από { app-name-apple-mail }
+profiles-pane-title-thunderbird = Εισαγωγή Ρυθμίσεων και Δεδομένων από ένα προφίλ { app-name-thunderbird }.
+profiles-pane-title-seamonkey = Εισαγωγή Ρυθμίσεων και Δεδομένων από ένα προφίλ { app-name-seamonkey }.
 profiles-pane-title-outlook = Εισαγωγή δεδομένων από { app-name-outlook }.
 profiles-pane-title-becky = Εισαγωγή δεδομένων από { app-name-becky }.
 profiles-pane-title-apple-mail = Εισαγωγή μηνυμάτων από { app-name-apple-mail }.
 profile-source = Εισαγωγή από προφίλ
 # $profileName (string) - name of the profile
 profile-source-named = Εισαγωγή από προφίλ <strong>«{ $profileName }»</strong>
+profile-file-picker-directory = Επιλέξτε ένα φάκελο του προφίλ
 profile-file-picker-archive = Επιλέξτε ένα αρχείο <strong>ZIP</strong>
 profile-file-picker-archive-description = Το αρχείο ZIP πρέπει να είναι μικρότερο από 2 GB.
+profile-file-picker-archive-title = Επιλέξτε ένα αρχείο ZIP (μικρότερο από 2GB)
+items-pane-title2 = Επιλέξτε τι θα εισαγάγετε:
 items-pane-directory = Κατάλογος:
 items-pane-profile-name = Όνομα προφίλ:
 items-pane-checkbox-accounts = Λογαριασμοί και ρυθμίσεις
 items-pane-checkbox-address-books = Ευρετήρια
 items-pane-checkbox-calendars = Ημερολόγια
 items-pane-checkbox-mail-messages = Μηνύματα email
+items-pane-override = Τυχόν υπάρχοντα ή πανομοιότυπα δεδομένα θα αντικατασταθούν.
 
 ## Import from address book file steps
 
+import-from-addr-book-file-description = Επιλέξτε τη μορφή αρχείου που περιέχει τα δεδομένα των Βιβλίων Διευθύνσεων.
 addr-book-csv-file = Αρχείο διαχωρισμένο με κόμμα ή καρτέλα (.csv, .tsv)
 addr-book-ldif-file = Αρχείο LDIF (.ldif)
 addr-book-vcard-file = Αρχείο vCard (.vcf, .vcard)
@@ -76,7 +93,10 @@ addr-book-mab-file = Αρχείο βάσης δεδομένων Mork (.mab)
 addr-book-file-picker = Επιλογή αρχείου ευρετηρίου
 addr-book-csv-field-map-title = Αντιστοίχιση ονομάτων πεδίων
 addr-book-csv-field-map-desc = Επιλέξτε τα ευρετήρια που αντιστοιχούν στα πεδία πηγής. Καταργήστε την επιλογή των πεδίων που δεν θέλετε να εισαγάγετε.
+addr-book-directories-title = Επιλέξτε που θα γίνει η εισαγωγή των δεδομένων που επιλέξατε
 addr-book-directories-pane-source = Αρχείο πηγής:
+# $addressBookName (string) - name of the new address book that would be created.
+addr-book-import-into-new-directory2 = Δημιουργήστε ένα νέο κατάλογο με όνομα <strong>"{ $addressBookName }"</strong>
 
 ## Import from calendar file steps
 
