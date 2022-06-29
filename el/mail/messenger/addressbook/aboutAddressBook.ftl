@@ -161,11 +161,13 @@ about-addressbook-confirm-delete-contacts =
 
 about-addressbook-placeholder-empty-book = Καμία διαθέσιμη επαφή
 about-addressbook-placeholder-new-contact = Νέα επαφή
+about-addressbook-placeholder-search-only = Το βιβλίο διευθύνσεων εμφανίζει επαφές μόνο μετά από αναζήτηση
 about-addressbook-placeholder-searching = Αναζήτηση…
 about-addressbook-placeholder-no-search-results = Δεν βρέθηκαν επαφές
 
 ## Details
 
+about-addressbook-prefer-display-name = Να προτιμηθεί η εμφάνιση ονόματος στην κεφαλίδα του μηνύματος
 about-addressbook-write-action-button = Σύνταξη
 about-addressbook-event-action-button = Εκδήλωση
 about-addressbook-search-action-button = Αναζήτηση
