@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 openpgp-key-assistant-title = Βοηθός κλειδιών OpenPGP
+openpgp-key-assistant-rogue-warning = Να αποφεύγετε την αποδοχή πλαστού κλειδιού. Για να βεβαιωθείτε ότι λάβατε το σωστό κλειδί, θα πρέπει να το επαληθεύσετε. <a data-l10n-name="openpgp-link">Μάθετε περισσότερα…</a>
 
 ## Encryption status
 
@@ -28,6 +29,7 @@ openpgp-key-assistant-key-source =
        *[other] Πηγές
     }
 openpgp-key-assistant-key-collected-attachment = συνημμένο email
+# Autocrypt is the name of a standard.
 openpgp-key-assistant-key-collected-autocrypt = Κεφαλίδα Autocrypt
 
 ## Discovery section
