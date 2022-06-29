@@ -12,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Med povezovanjem na { $hostname } je prišlo do napake. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Koda napake: { $error }
-
 psmerr-ssl-disabled = Varna povezava ni mogoča, ker je bil protokol SSL onemogočen.
 psmerr-ssl2-disabled = Varna povezava ni mogoča, ker stran uporablja starejšo, nevarno različico protokola SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Prejeli ste neveljavno digitalno potrdilo. Obrnite se na skrbnika strežnika ali pošljite elektronsko pošto odgovornim, a ne pozabite dodati naslednje vsebine:
     
     Vaše digitalno potrdilo vsebuje enako serijsko številko, kot drugo digitalno potrdilo, ki ga je izdala uradna oseba. Potrebovali boste novo digitalno potrdilo z unikatno serisjko številko.
-
 ssl-error-export-only-server = Varna komunikacija ni možna. Vrstnik ne podpira visoke stopnje šifriranja.
 ssl-error-us-only-server = Varna komunikacija ni možna. Vrstnik zahteva visoko stopnjo šifriranja, ki ni na voljo.
 ssl-error-no-cypher-overlap = Varna komunikacija z vrstnikom ni mogoča: na voljo ni skupnih šifrirnih algoritmov.
@@ -111,7 +107,7 @@ ssl-error-token-insertion-removal = PKCS#11 žeton je bil med trajanjem operacij
 ssl-error-token-slot-not-found = Za zahtevano operacijo ni bilo možno najti PKCS#11 žetona.
 ssl-error-no-compression-overlap = Varna komunikacija z odjemalcem ni mogoča: ni skupnih šifrirnih algoritmov.
 ssl-error-handshake-not-completed = Ni možno začeti novega SSL rokovanja, dokler se trenutno rokovanje ne zaključi.
-ssl-error-bad-handshake-hash-value = Od vrstnika sem prejel nepravilne vrednosti izvlečka rokovanja.
+ssl-error-bad-handshake-hash-value = Od vrstnika so prejete nepravilne zgoščene vrednosti rokovanja.
 ssl-error-cert-kea-mismatch = Prejetega digitalnega potrdila ni mogoče uporabiti z izbranim algoritmom izmenjave ključev.
 ssl-error-no-trusted-ssl-client-ca = Nobenemu overitelju mi mogoče zaupati za overjanje odjemalca SSL.
 ssl-error-session-not-found = ID SSL seje odjemalca ni v strežnikovem predpomnilniku sej.
@@ -132,7 +128,7 @@ ssl-error-unsupported-extension-alert = SSL vrstnik ne podpira zahtevanih TLS he
 ssl-error-certificate-unobtainable-alert = SSL vrstnik ni mogel prevzeti vašega digitalnega potrdila s podanega URL-ja.
 ssl-error-unrecognized-name-alert = SSL vrstnik nima digitalnega potrdila za zahtevan DNS zapis.
 ssl-error-bad-cert-status-response-alert = SSL vrstnik ni mogel dobiti OCSP odziva za svoje digitalno potrdilo.
-ssl-error-bad-cert-hash-value-alert = SSL vrstnik je sporočil neveljavno vrednost izvlečka digitalnega potrdila.
+ssl-error-bad-cert-hash-value-alert = Vrstnik SSL je sporočil neveljavno zgoščeno vrednost digitalnega potrdila.
 ssl-error-rx-unexpected-new-session-ticket = SSL je ob rokovanju prejel nepričakovano sporočilo New Session Ticket.
 ssl-error-rx-malformed-new-session-ticket = SSL je prejel nepravilno sporočilo rokovanja New Session Ticket.
 ssl-error-decompression-failure = SSL je prejel stisnjen zapis, ki ga ni mogoče odpakirati.
@@ -150,7 +146,7 @@ ssl-error-rx-malformed-hello-verify-request = SSL je prejel nepravilno sporočil
 ssl-error-rx-unexpected-hello-verify-request = SSL je prejel nepričakovano sporočilo rokovanja Hello Verify Request.
 ssl-error-feature-not-supported-for-version = Zmogljivost SSL ni podprta v izbrani različici protokola.
 ssl-error-rx-unexpected-cert-status = SSL je prejel nepričakovano sporočilo rokovanja Certificate Status.
-ssl-error-unsupported-hash-algorithm = Vrstnik TLS uporablja nepodprt algoritem izvlečka.
+ssl-error-unsupported-hash-algorithm = Vrstnik TLS uporablja nepodprt algoritem zgoščevanja.
 ssl-error-digest-failure = Funkcija povzetka ni uspela.
 ssl-error-incorrect-signature-algorithm = Nepravilen algoritem za podpisovanje naveden v digitalno podpisanem elementu.
 ssl-error-next-protocol-no-callback = Naslednja razširitev za pogajanje s protokolom je bila omogočena, vendar je bil povratni klic opravljen, preden je bil potreben.
@@ -159,7 +155,7 @@ ssl-error-inappropriate-fallback-alert = Strežnik je zavrnil rokovanje, ker odj
 ssl-error-weak-server-cert-key = Strežniško potrdilo je vsebovalo javni ključ, ki je bil prešibak.
 ssl-error-rx-short-dtls-read = V medpomnilniku ni dovolj prostora za zapis DTLS.
 ssl-error-no-supported-signature-algorithm = Podprt algoritem za podpisovanje TLS ni nastavljen.
-ssl-error-unsupported-signature-algorithm = Soležnik je uporabil nepodprto kombinacijo podpisa in razpršilnega algoritma.
+ssl-error-unsupported-signature-algorithm = Soležnik je uporabil nepodprto kombinacijo podpisa in zgoščevalnega algoritma.
 ssl-error-missing-extended-master-secret = Soležnik je poskusil nadaljevati brez pravilne razširitve extended_master_secret.
 ssl-error-unexpected-extended-master-secret = Soležnik je poskusil nadaljevati z nepričakovano razširitvijo extended_master_secret.
 sec-error-io = Med varnostnim preverjanjem je prišlo do I/O napake.
