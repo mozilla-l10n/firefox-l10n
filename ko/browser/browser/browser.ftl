@@ -292,7 +292,7 @@ identity-description-custom-root = Mozilla는 이 인증서 발급자를 인식�
 identity-remove-cert-exception =
     .label = 예외 제거
     .accesskey = R
-identity-description-insecure = 이 사이트의 연결은 비공개가 아닙니다. 전송하는 정보(예: 비밀번호, 메시지, 신용 카드 등)를 다른사람이 볼 수 있습니다.
+identity-description-insecure = 이 사이트의 연결은 비공개가 아닙니다. 전송하는 정보(예: 비밀번호, 메시지, 신용 카드 등)를 다른 사람이 볼 수 있습니다.
 identity-description-insecure-login-forms = 이 페이지에 입력한 로그인 정보는 안전하지 않고 손상될 수 있습니다.
 identity-description-weak-cipher-intro = 이 사이트의 연결은 약한 암호화를 사용하며 비공개가 아닙니다.
 identity-description-weak-cipher-risk = 다른 사람이 정보를 보거나 웹 사이트의 동작을 바꿀 수 있습니다.
@@ -301,7 +301,7 @@ identity-description-passive-loaded = 이 사이트의 연결은 비공개가 �
 identity-description-passive-loaded-insecure = 이 웹 사이트는 안전하지 않은 콘텐츠(이미지 등)을 포함하고 있습니다. <label data-l10n-name="link">더 알아보기</label>
 identity-description-passive-loaded-mixed = { -brand-short-name }가 일부 콘텐츠를 차단했지만 아직 안전하지 않은 콘텐츠(이미지 등)가 있습니다. <label data-l10n-name="link">더 알아보기</label>
 identity-description-active-loaded = 이 웹 사이트는 안전하지 않은 콘텐츠(스크립트 등)가 포함되어 있으며 이 사이트의 연결은 비공개가 아닙니다.
-identity-description-active-loaded-insecure = 이 사이트에 공유하는 정보(비밀번호, 메시지, 신용 카드 번호 등)를 다른사람이 볼 수 있습니다.
+identity-description-active-loaded-insecure = 이 사이트에 공유하는 정보(예: 비밀번호, 메시지, 신용 카드 등)를 다른 사람이 볼 수 있습니다.
 identity-learn-more =
     .value = 더 알아보기
 identity-disable-mixed-content-blocking =
