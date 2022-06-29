@@ -155,7 +155,7 @@
 <!ENTITY unifiedFolders.label "Об’єднані">
 <!ENTITY unifiedFolders.accesskey "є">
 <!ENTITY allFolders.label "Усі">
-<!ENTITY allFolders.accesskey "В">
+<!ENTITY allFolders.accesskey "У">
 <!ENTITY unreadFolders.label "Непрочитані">
 <!ENTITY unreadFolders.accesskey "Н">
 <!ENTITY favoriteFolders.label "Улюблені">
@@ -213,7 +213,7 @@
 <!ENTITY threads.label "Розмови">
 <!ENTITY threads.accesskey "Р">
 <!ENTITY allMsgsCmd.label "Усі">
-<!ENTITY allMsgsCmd.accesskey "В">
+<!ENTITY allMsgsCmd.accesskey "У">
 <!ENTITY expandAllThreadsCmd.label "Розгорнути всі розмови">
 <!ENTITY expandAllThreadsCmd.accesskey "Р">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -232,7 +232,7 @@
 <!ENTITY headersMenu.label "Заголовки">
 <!ENTITY headersMenu.accesskey "З">
 <!ENTITY headersAllCmd.label "Усі">
-<!ENTITY headersAllCmd.accesskey "В">
+<!ENTITY headersAllCmd.accesskey "У">
 <!ENTITY headersNormalCmd.label "Звичайні">
 <!ENTITY headersNormalCmd.accesskey "З">
 <!ENTITY bodyMenu.label "Вміст повідомлення">
@@ -244,7 +244,7 @@
 <!ENTITY bodyAsPlaintext.label "У вигляді звичайного тексту">
 <!ENTITY bodyAsPlaintext.accesskey "т">
 <!ENTITY bodyAllParts.label "Усіх частин тіла">
-<!ENTITY bodyAllParts.accesskey "В">
+<!ENTITY bodyAllParts.accesskey "У">
 
 <!ENTITY bodyMenuFeed.label "Повідомлення зі стрічки новин як">
 <!ENTITY bodyMenuFeed.accesskey "с">
@@ -316,7 +316,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Чат">
 <!ENTITY goChatCmd.accesskey "Ч">
-<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Повідомлення з зіркою">
 <!ENTITY prevStarredMsgCmd.accesskey "З">
 <!ENTITY folderMenu.label "Тека">
@@ -417,7 +416,7 @@
 <!ENTITY markReadByDateCmd.accesskey "ч">
 <!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "Усі прочитаними">
-<!ENTITY markAllReadCmd.accesskey "В">
+<!ENTITY markAllReadCmd.accesskey "п">
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Додати зірочку">
 <!ENTITY markStarredCmd.accesskey "Д">
