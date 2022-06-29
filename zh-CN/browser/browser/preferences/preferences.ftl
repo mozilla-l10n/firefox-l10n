@@ -969,6 +969,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = “全方位 Cookie 保护”能够完全隔离每个网站的 Cookie，阻止跟踪器借其跨网站跟踪您。
 content-blocking-etp-standard-tcp-rollout-learn-more = 详细了解
+content-blocking-etp-standard-tcp-title = 包含我们迄今最强大的隐私保护功能 — 全方位 Cookie 保护
 content-blocking-warning-title = 注意！
 content-blocking-and-isolating-etp-warning-description-2 = 此设置可能会导致某些网站无法显示内容或正常工作。若网站异常，则可能需要对该网站关闭跟踪保护功能，以加载全部内容。
 content-blocking-warning-learn-how = 了解要如何做
