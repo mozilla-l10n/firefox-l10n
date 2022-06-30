@@ -43,8 +43,15 @@
 <!ENTITY viewVideoCmd.label           "Pokaži video">
 <!ENTITY viewBGImageCmd.label         "Pokaži sliko ozadja">
 <!ENTITY setDesktopBackgroundCmd.label     "Nastavi ozadje namizja …">
+<!ENTITY bookmarkPageCmd.label        "Dodaj stran med zaznamke …">
+<!ENTITY bookmarkPageCmd.accesskey    "z">
+<!ENTITY bookmarkLinkCmd.label        "Dodaj povezavo med zaznamke …">
+<!ENTITY bookmarkLinkCmd.accesskey    "m">
+<!ENTITY bookmarkFrameCmd.label       "Dodaj okvir med zaznamke …">
+<!ENTITY bookmarkFrameCmd.accesskey   "r">
 <!ENTITY savePageAsCmd.label          "Shrani stran kot …">
 <!ENTITY savePageCmd.label            "Shrani stran">
+<!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameAsCmd.label         "Shrani okvir kot …">
 <!ENTITY saveFrameCmd.label           "Shrani okvir">
 <!ENTITY printFrameCmd.label          "Natisni okvir …">
@@ -65,6 +72,13 @@
 <!ENTITY thisFrameMenu.label          "Ta okvir">
 <!ENTITY thisFrameMenu.accesskey      "a">
 <!ENTITY mediaPlay.label              "Predvajaj">
+<!ENTITY mediaMute.label              "Utišaj">
+<!ENTITY mediaMute.accesskey          "U">
+<!ENTITY mediaUnmute.label            "Povrni glasnost">
+<!ENTITY mediaUnmute.accesskey        "g">
+<!ENTITY mediaPlaybackRate.label        "Hitrost predvajanja">
+<!ENTITY mediaPlaybackRate.accesskey    "H">
+<!ENTITY mediaPlaybackRate050.label     "Počasen posnetek (½×)">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->

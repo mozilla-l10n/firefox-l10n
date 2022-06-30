@@ -67,13 +67,17 @@
 
 <!ENTITY  feedTab               "Viri">
 <!ENTITY  feedSubscribe         "Naroči se">
+<!ENTITY  feedSubscribe.accesskey "č">
 
 <!ENTITY  permTab               "Dovoljenja">
+<!ENTITY  permTab.accesskey     "D">
 <!ENTITY  permissionsFor        "Dovoljenja za:">
 
 <!ENTITY  securityTab           "Varnost">
+<!ENTITY  securityTab.accesskey "a">
 <!ENTITY  securityHeader        "Varnostni podatki za to stran">
 <!ENTITY  securityView.certView "Preglej digitalno potrdilo">
+<!ENTITY  securityView.accesskey "P">
 <!ENTITY  securityView.unknown   "Neznano">
 
 
@@ -84,9 +88,12 @@
 <!ENTITY  securityView.identity.validity "Poteče:">
 
 <!ENTITY  securityView.privacy.header                   "Zasebnost in zgodovina">
+<!ENTITY  securityView.privacy.history                  "Ali sem to stran obiskal že kdaj pred današnjim dnem?">
 <!ENTITY  securityView.privacy.cookies                  "Ali to spletno mesto shranjuje podatke (piškotke) na moj računalnik?">
 <!ENTITY  securityView.privacy.viewCookies              "Preglej piškotke">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "j">
 <!ENTITY  securityView.privacy.passwords                "Ali sem shranil kakšno geslo za to spletno mesto?">
 <!ENTITY  securityView.privacy.viewPasswords            "Preglej shranjena gesla">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "g">
 
 <!ENTITY  securityView.technical.header                 "Tehnične podrobnosti">
