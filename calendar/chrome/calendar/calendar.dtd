@@ -13,7 +13,6 @@
 
 <!ENTITY calendar.today.button.label          "Сьогодні">
 <!ENTITY calendar.tomorrow.button.label       "Завтра">
-<!ENTITY calendar.upcoming.button.label       "Незабаром">
 
 <!ENTITY calendar.events.filter.all.label "Усі події">
 <!ENTITY calendar.events.filter.today.label "Події сьогодні">
@@ -294,7 +293,7 @@
 
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
-<!ENTITY calendar.context.showonly.accesskey           "O">
+<!ENTITY calendar.context.showonly.accesskey           "о">
 <!ENTITY calendar.context.showall.label                "Показати всі календарі">
 <!ENTITY calendar.context.showall.accesskey            "і">
 
@@ -369,8 +368,6 @@
 <!ENTITY calendar.publish.url.label                 "Опублікувати URL">
 <!ENTITY calendar.publish.publish.button      "Опублікувати">
 <!ENTITY calendar.publish.close.button      "Закрити">
-
-<!ENTITY calendar.publish.example.url.description   "Наприклад, http://www.myserver.com/webdav/test.ics">
 
 <!-- Select Calendar Dialog -->
 <!ENTITY calendar.select.dialog.title    "Обрати календар">
