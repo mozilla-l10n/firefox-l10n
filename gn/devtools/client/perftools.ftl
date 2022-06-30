@@ -83,6 +83,8 @@ perftools-thread-render-backend =
     .title = Inimbo WebRender RenderBackend
 perftools-thread-paint-worker =
     .title = Hendy vove pe mbosa’ypyre inimbógui okápe, pe inimbo ojejapohápe mbosa’ypyre
+perftools-thread-timer =
+    .title = Umi mboaravopapaha tapereko’i rehegua (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = Pe mbohekoha kuaarã oñemboja’o heta inimbópe
 pref-thread-stream-trans =
@@ -115,16 +117,9 @@ perftools-tools-threads-input-label =
     .title = Ko’ã hilo ha’e tysýi ipa’ũva kyguái rupive ha ojepurúva oñemyandy hag̃ua mba’ete ñemoheñói mbohapehápe. Pe téra ojokupytyva’erã michĩmínte hilo réra emoingévape. Oñandukuaa umi pa’ũ inandíva.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Ipyahu</b>: { -profiler-brand-name } ko’ág̃a oĩ juajúpe mboguatahára rembipuru ndive. <a>Eikuaave</a> ko tembipuru guasu rehegua.
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (Ndahetái aravo’ípe, ikatu eike tembiapokue ra’ãngarupa ypyguápe <a>{ options-context-advanced-settings } rupive</a>)
 perftools-onboarding-close-button =
     .aria-label = Emboty pe ñe’ẽmondo jeikegua
 
