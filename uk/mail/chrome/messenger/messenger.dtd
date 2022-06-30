@@ -287,7 +287,7 @@
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Перехід">
 <!ENTITY goMenu.accesskey "П">
-<!ENTITY nextMenu.label "Наступний">
+<!ENTITY nextMenu.label "Далі">
 <!ENTITY nextMenu.accesskey "Н">
 <!ENTITY nextMsgCmd.label "Повідомлення">
 <!ENTITY nextMsgCmd.accesskey "в">
@@ -519,7 +519,7 @@
 <!ENTITY fileButton.label "Помістити">
 <!ENTITY archiveButton.label "Архівувати">
 <!ENTITY openConversationButton.label "Розмова">
-<!ENTITY nextButton.label "Наступний">
+<!ENTITY nextButton.label "Далі">
 <!ENTITY nextButtonToolbarItem.label "Наступний нечитаний">
 <!ENTITY nextMsgButton.label "Наступний">
 <!ENTITY previousButton.label "Попередній">
@@ -874,7 +874,7 @@
 <!ENTITY ViewContact.accesskey "П">
 <!ENTITY SubscribeToNewsgroup.label "Підписатись на групу новин">
 <!ENTITY SubscribeToNewsgroup.accesskey "н">
-<!ENTITY SendMessageTo.label "Створити повідомлення до">
+<!ENTITY SendMessageTo.label "Створити повідомлення">
 <!ENTITY SendMessageTo.accesskey "с">
 <!ENTITY CopyEmailAddress.label "Копіювати адресу е-пошти">
 <!ENTITY CopyEmailAddress.accesskey "К">
@@ -884,7 +884,7 @@
 <!ENTITY CopyNewsgroupName.accesskey "К">
 <!ENTITY CopyNewsgroupURL.label "Копіювати URL групи новин">
 <!ENTITY CopyNewsgroupURL.accesskey "U">
-<!ENTITY CreateFilterFrom.label "Створити фільтр з…">
+<!ENTITY CreateFilterFrom.label "Створити фільтр…">
 <!ENTITY CreateFilterFrom.accesskey "ф">
 <!ENTITY reportPhishingURL.label "Повідомити про шахрайство">
 <!ENTITY reportPhishingURL.accesskey "ш">
