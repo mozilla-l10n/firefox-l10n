@@ -108,7 +108,7 @@ cfr-doorhanger-doh-secondary-button = Desativar
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Sua privacidade é importante. O { -brand-short-name } agora isola (sandbox) sites uns dos outros, o que dificulta os hackers roubarem senhas, números de cartões de crédito e outras informações confidenciais.
+cfr-doorhanger-fission-body-approved = Sua privacidade é importante. O { -brand-short-name } agora isola (sandbox) sites uns dos outros, dificultando aos hackers roubar senhas, números de cartões de crédito e outras informações confidenciais.
 cfr-doorhanger-fission-header = Isolamento de sites
 cfr-doorhanger-fission-primary-button = OK, entendi
     .accesskey = O
