@@ -156,6 +156,9 @@ spotlight-total-cookie-protection-expanded = { -brand-short-name } omopu’ã t�
 spotlight-total-cookie-protection-primary-button = Embojuruja Total Cookie Protection
 spotlight-total-cookie-protection-secondary-button = Ani ko’ág̃a
 cfr-total-cookie-protection-header = Nde rupive, { -brand-short-name } ipya’eve ha hekoñemivéntema
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = Total Cookie Protection ha’e ore ñeñangareko imbaretevéva gueteri ñemigua rehegua – ha ko’ág̃a ha’e peteĩ ñemboheko tee { -brand-short-name } poruhárape g̃uarã oparupiete. Ndaikatúikuri rojapo umi participante acceso temprano ndeichagua’ỹre. Upéicharõ aguyje orepytyvõhaguére romoheñóivo peteĩ ñandutiveve iporãvéva, iñemihavéva.
 
 ## Emotive Continuous Onboarding
 
