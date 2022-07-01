@@ -33,9 +33,13 @@ certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = Рақами силсилавӣ
 certificate-viewer-value = Қимат
 certificate-viewer-version = Силсила
+certificate-viewer-business-category = Навъи тиҷорат
 certificate-viewer-subject-name = Номи воҳид
 certificate-viewer-issuer-name = Номи бароранда
+certificate-viewer-validity = Эътибор
 certificate-viewer-subject-alt-names = Номи иловагии воҳид
+certificate-viewer-public-key-info = Маълумот оид ба калиди ҷамъиятӣ
+certificate-viewer-miscellaneous = Гуногун
 certificate-viewer-fingerprints = Нақшҳои ангушт
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.

@@ -27,6 +27,9 @@ policy-FirefoxHome = Танзим кардани саҳифаи асосии Fir
 policy-FlashPlugin = Барои истифодаи плагини «Flash» иҷозат медиҳад ё онро манъ мекунад.
 policy-Handlers = Коркарди пешфарзи барномаро танзим мекунад.
 policy-HardwareAcceleration = Дар ҳолати «false» суръатафзои сахтафзор хомӯш карда мешавад.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Саҳифаи асосиро танзим мекунад ва ивази онро ба таври дилхоҳ қулф мекунад.
+policy-InstallAddonsPermission = Ба баъзе сомонаҳо иҷозат медиҳад, ки тавонанд ҷузъҳои иловагиро насб кунанд.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
