@@ -22,7 +22,10 @@ policy-DisablePrivateBrowsing = Тамошокунии хусусиро ғайр
 policy-DisableTelemetry = Санҷиши дурдаст (телеметрия)-ро хомӯш мекунад.
 policy-DNSOverHTTPS = Танзим кардани DNS тавассути HTTPS.
 policy-ExtensionSettings = Ҳамаи тарафҳои насбкунии васеъшавиро идора мекунад.
+policy-ExtensionUpdate = Навсозиҳои худкори васеъшавиро фаъол ё ғайрифаъол мекунад.
 policy-FirefoxHome = Танзим кардани саҳифаи асосии Firefox.
+policy-FlashPlugin = Барои истифодаи плагини «Flash» иҷозат медиҳад ё онро манъ мекунад.
+policy-Handlers = Коркарди пешфарзи барномаро танзим мекунад.
 policy-HardwareAcceleration = Дар ҳолати «false» суръатафзои сахтафзор хомӯш карда мешавад.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
