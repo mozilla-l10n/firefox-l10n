@@ -400,6 +400,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = Lisa { $name } ei ühildu { -brand-short-name }i versiooniga { $version }.
+details-notification-incompatible-link = Rohkem teavet
 details-notification-unsigned-and-disabled = Lisa { $name } polnud võimalik { -brand-short-name }is kasutamiseks verifitseerida ja see keelati.
 details-notification-unsigned-and-disabled-link = Rohkem teavet
 details-notification-unsigned = Lisa { $name } polnud võimalik { -brand-short-name }is kasutamiseks verifitseerida. Tasub olla ettevaatlik.
