@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Funktsionaalsuse soovitus
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Miks seda kuvatakse?
-
 cfr-doorhanger-extension-cancel-button = Mitte praegu
     .accesskey = M
-
 cfr-doorhanger-extension-ok-button = Paigalda
     .accesskey = P
-
 cfr-doorhanger-extension-manage-settings-button = Halda soovituste sätteid
     .accesskey = H
-
 cfr-doorhanger-extension-never-show-recommendation = Rohkem seda soovitust ei kuvata
     .accesskey = R
-
 cfr-doorhanger-extension-learn-more-link = Rohkem teavet
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Soovitus
 cfr-doorhanger-extension-notification2 = Soovitus
     .tooltiptext = Laienduse soovitus
     .a11y-announcement = Laienduse soovitus on saadaval
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Soovitus
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = Rohkem teavet
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Uus funktsionaalsus:
-
 cfr-whatsnew-button =
     .label = Mis on uut?
     .tooltiptext = Mis on uut?
-
 cfr-whatsnew-release-notes-link-text = Loe väljalasketeadet
 
 ## Enhanced Tracking Protection Milestones
@@ -164,6 +154,10 @@ spotlight-total-cookie-protection-body = Täielik küpsistevastane kaitse takist
 spotlight-total-cookie-protection-expanded = { -brand-short-name } ehitab küpsiste ümber aia, piirates need ühele saidile, nii et jälitajad ei saa neid sinu jälitamiseks kasutada. Varase ligipääsu kaudu aitad meil seda funktsionaalsust optimeerida, nii et saaksime ehitada parema veebi kõigile.
 spotlight-total-cookie-protection-primary-button = Lülita sisse täielik küpsiste vastane kaitse
 spotlight-total-cookie-protection-secondary-button = Mitte praegu
+cfr-total-cookie-protection-header = Tänu sulle on { -brand-short-name } veel privaatsem ja turvalisem kui kunagi varem
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = Täielik küpsistekaitse on meie seni tugevaim privaatsuskaitse – ja see on nüüd vaikeseade { -brand-short-name }i kasutajatele kõikjal. Me poleks seda saanud teha ilma sinusuguste varajase ligipääsuga osalejateta. Täname, et aitasid meil luua paremat ja privaatsemat internetti.
 
 ## Emotive Continuous Onboarding
 
