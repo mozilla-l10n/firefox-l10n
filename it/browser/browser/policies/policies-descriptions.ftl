@@ -114,6 +114,8 @@ policy-FirefoxHome = Configura pagina iniziale di Firefox.
 
 policy-FlashPlugin = Consenti o nega l’utilizzo del plugin Flash.
 
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Forza la navigazione verso pagine della Intranet invece di avviare una ricerca quando si digita una singola parola nella barra degli indirizzi.
+
 policy-Handlers = Configura i gestori predefiniti dell’applicazione.
 
 policy-HardwareAcceleration = Se “false”, disattiva l’accelerazione hardware.
