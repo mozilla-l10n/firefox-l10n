@@ -23,6 +23,7 @@ certificate-viewer-country = Кишвар
 certificate-viewer-dns-name = Номи DNS
 certificate-viewer-ip-address = Нишонии IP
 certificate-viewer-other-name = Номи дигар
+certificate-viewer-key-size = Андозаи калид
 certificate-viewer-location = Ҷойгиршавӣ
 certificate-viewer-name = Ном
 certificate-viewer-organization = Ташкилот
