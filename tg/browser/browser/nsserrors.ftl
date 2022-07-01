@@ -345,3 +345,7 @@ mozilla-pkix-error-signature-algorithm-mismatch = Алгоритми имзо д
 mozilla-pkix-error-ocsp-response-for-cert-missing = Посухи сервери OCSP ягон вазъиятро барои гувоҳиномаи тасдиқшаванда дар бар намегирад.
 mozilla-pkix-error-validity-too-long = Сервер гувоҳиномаеро пешниҳод кард, ки санаи эътибори он хеле дароз аст.
 mozilla-pkix-error-required-tls-feature-missing = Хусусияти лозимии TLS вуҷуд надорад.
+mozilla-pkix-error-invalid-integer-encoding = Сервер гувоҳиномаеро пешниҳод кард, ки дорои адади пурра бо рамзгузории нодуруст мебошад. Сабабҳои умумие, ки чунин мушкилиҳоро ба вуҷуд меоранд, аз рақамҳои силсилавии манфӣ, модулҳои RSA-и манфӣ ва рамзгузорие, ки дарозиаш аз ҳад дароз мебошад, иборатанд.
+mozilla-pkix-error-empty-issuer-name = Сервер гувоҳиномаеро пешниҳод кард, ки номи мушаххаси барорандаи он холӣ мебошад.
+mozilla-pkix-error-additional-policy-constraint-failed = Ҳангоми санҷиши эътибори ин гувоҳинома, маҳдудияти иловагии сиёсат ба нокомӣ дучор шуд.
+mozilla-pkix-error-self-signed-cert = Гувоҳинома эътибор надорад, зеро ки он ба таври худ имзо кардааст.
