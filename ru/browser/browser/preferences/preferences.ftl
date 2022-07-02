@@ -795,8 +795,8 @@ forms-primary-pw-learn-more-link = Подробнее
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
-    .label = Изменить основной пароль…
-    .accesskey = м
+    .label = Изменить мастер-пароль…
+    .accesskey = з
 forms-primary-pw-change =
     .label = Изменить основной пароль…
     .accesskey = з
