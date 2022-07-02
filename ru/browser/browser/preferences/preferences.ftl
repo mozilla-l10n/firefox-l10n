@@ -803,7 +803,7 @@ forms-primary-pw-change =
 # Leave this message empty if the translation for "Primary Password" matches
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
-forms-primary-pw-former-name = Ранее известный как мастер-пароль
+forms-primary-pw-former-name = Ранее — мастер-пароль
 forms-primary-pw-fips-title = Сейчас вы находитесь в режиме FIPS. Для работы в этом режиме необходимо установить основной пароль.
 forms-master-pw-fips-desc = Смена пароля не удалась
 forms-windows-sso =
