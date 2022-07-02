@@ -9,7 +9,7 @@
 <!ENTITY accountProtocolField.label   "Red:">
 <!ENTITY accountProtocolGetMore.label "Obtener más…">
 
-<!ENTITY accountUsernameTitle.label   "Username">
+<!ENTITY accountUsernameTitle.label   "Nombre de usuario">
 <!ENTITY accountUsernameDuplicate.label "¡Esta cuenta ya está configurada!">
 
 <!ENTITY accountPasswordTitle.label   "Contraseña">
@@ -20,7 +20,7 @@
 <!ENTITY accountAdvancedTitle.label   "Opciones avanzadas">
 <!ENTITY accountAdvancedInfo.label    "Es libre de saltearse este paso si quiere.">
 <!ENTITY accountAdvanced.newMailNotification.label   "Notificar correo nuevo">
-<!ENTITY accountAliasGroupbox.caption "Local Alias">
+<!ENTITY accountAliasGroupbox.caption "Alias local">
 <!ENTITY accountAliasField.label      "Alias:">
 <!ENTITY accountAliasInfo.label       "This will only be displayed in your conversations when you talk, remote contacts won't see it.">
 <!ENTITY accountProxySettings.caption "Configuración de proxy">
