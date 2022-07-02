@@ -82,6 +82,8 @@ perftools-thread-render-backend =
     .title = Nitka WebRender RenderBackend
 perftools-thread-paint-worker =
     .title = Hdyž je rysowanje zwonka hłowneje nitki zmóžnjene, nitka, w kotrejž so rysuje
+perftools-thread-timer =
+    .title = Časoměry, kotrež z nitku wobchadźeja (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = Stilowe wobličenje je do wjacorych nitkow rozdźělene
 pref-thread-stream-trans =
@@ -114,16 +116,9 @@ perftools-tools-threads-input-label =
     .title = Tute nitkowe mjena su přez komu dźělena lisćina, kotraž so wužiwa, zo by přepytowanje nitkow w profilowaku zmóžnił. Mjeno trjeba so jenož zdźěla z mjenom nitki kryć, kotrež so ma zapřijeć. Na mjezery so dźiwa.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Nowy</b>: { -profiler-brand-name } je nětko we wuwiwarskich nastrojach integrowany. <a>Dalše informacije</a> wo tutym mócnym nowym nastroju.
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (Za wobmjezowany čas móžeće přez <a>{ options-context-advanced-settings }</a> přistup k woknu Wukon měć.
 perftools-onboarding-close-button =
     .aria-label = Zapokazowansku powěsć začinić
 
