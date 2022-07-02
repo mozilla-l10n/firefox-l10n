@@ -316,7 +316,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
 <!ENTITY goChatCmd.accesskey "c">
-<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Mensaje destacado">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Carpeta">
@@ -465,7 +464,7 @@
 <!ENTITY imAccountsStatus.accesskey "C">
 <!ENTITY imStatus.available          "Disponible">
 <!ENTITY imStatus.unavailable        "No disponible">
-<!ENTITY imStatus.offline            "Offline">
+<!ENTITY imStatus.offline            "Desconectado">
 <!ENTITY imStatus.showAccounts       "Mostrar cuentas…">
 <!ENTITY joinChatCmd.label "Unirse al chat…">
 <!ENTITY joinChatCmd.accesskey "U">
