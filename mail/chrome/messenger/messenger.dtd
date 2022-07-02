@@ -120,8 +120,8 @@
 <!ENTITY redoMoveMsgCmd.label "Повторити переміщення повідомлення">
 <!ENTITY undoCopyMsgCmd.label "Скасувати копіювання повідомлення">
 <!ENTITY redoCopyMsgCmd.label "Повторити копіювання повідомлення">
-<!ENTITY undoMarkAllCmd.label "Скасувати помітку всіх як прочитаних">
-<!ENTITY redoMarkAllCmd.label "Повторити помітку всіх як прочитаних">
+<!ENTITY undoMarkAllCmd.label "Скасувати позначення всіх прочитаними">
+<!ENTITY redoMarkAllCmd.label "Повторити позначення всіх прочитаними">
 <!ENTITY undoDefaultCmd.label "Скасувати">
 <!ENTITY undoDefaultCmd.accesskey "С">
 <!ENTITY redoDefaultCmd.label "Повторити">
@@ -390,7 +390,7 @@
 <!ENTITY watchThreadMenu.label "Відстежувати розмову">
 <!ENTITY watchThreadMenu.accesskey "ж">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY tagMenu.label "Помітити">
+<!ENTITY tagMenu.label "Позначити міткою">
 <!ENTITY tagMenu.accesskey "м">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
@@ -569,7 +569,7 @@
 <!ENTITY stopButton.tooltip "Зупинити поточну передачу даних">
 <!ENTITY addressBookButton.tooltip "Відкрити адресну книгу">
 <!ENTITY chatButton.tooltip "Показати вкладку чату">
-<!ENTITY tagButton.tooltip "Помітити повідомлення">
+<!ENTITY tagButton.tooltip "Позначити повідомлення міткою">
 <!ENTITY compactButton.tooltip "Вилучити видалені повідомлення з вибраної теки">
 <!ENTITY appmenuButton1.tooltip "Відкрити меню &brandShortName;">
 

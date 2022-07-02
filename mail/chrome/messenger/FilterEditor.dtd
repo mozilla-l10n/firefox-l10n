@@ -43,7 +43,7 @@
 <!ENTITY markMessageUnread.label "Позначити як нечитане">
 <!ENTITY markMessageStarred.label "Додати зірочку">
 <!ENTITY setPriority.label "Змінити важливість на">
-<!ENTITY addTag.label "Помітити повідомлення">
+<!ENTITY addTag.label "Позначити повідомлення міткою">
 <!ENTITY setJunkScore.label "Встановити ознаку спаму">
 <!ENTITY deleteMessage.label "Видалити повідомлення">
 <!ENTITY deleteFromPOP.label "Видалити з POP-сервера">
