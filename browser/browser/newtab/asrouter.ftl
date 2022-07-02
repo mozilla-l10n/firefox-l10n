@@ -163,6 +163,9 @@ spotlight-total-cookie-protection-expanded = { -brand-short-name } płot wokoło
 spotlight-total-cookie-protection-primary-button = Dopołny šćit pśed cookiejami zmóžniś
 spotlight-total-cookie-protection-secondary-button = Nic něnto
 cfr-total-cookie-protection-header = Z wašeju pomocu jo { -brand-short-name } priwatnjejšy a wěsćejšy ako do togo
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = Dopołny šćit pśeśiwo cookiejam jo dotychměst naš nejmócnjejšy šćit priwatnosći – a jo něnto standardne nastajenje za wužywarje { -brand-short-name } wšuźi. My njeby napórali jen bźez jěsnych wobźělnikow ako wy. Wjeliki źěk pótakem, až sćo nam pomogł, lěpšy, priwatnjejši internet napóraś.
 
 ## Emotive Continuous Onboarding
 
