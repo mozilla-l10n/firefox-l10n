@@ -788,23 +788,23 @@ forms-saved-logins =
     .label = Сохранённые логины…
     .accesskey = х
 forms-primary-pw-use =
-    .label = Использовать мастер-пароль
-    .accesskey = о
+    .label = Использовать основной пароль
+    .accesskey = с
 forms-primary-pw-learn-more-link = Подробнее
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
-    .label = Сменить мастер-пароль…
+    .label = Изменить основной пароль…
     .accesskey = м
 forms-primary-pw-change =
-    .label = Сменить мастер-пароль…
-    .accesskey = м
+    .label = Изменить основной пароль…
+    .accesskey = з
 # Leave this message empty if the translation for "Primary Password" matches
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
-forms-primary-pw-former-name = { "" }
-forms-primary-pw-fips-title = Вы работаете в режиме соответствия FIPS. При работе в этом режиме необходимо установить мастер-пароль.
+forms-primary-pw-former-name = Ранее известный как мастер-пароль
+forms-primary-pw-fips-title = Сейчас вы находитесь в режиме FIPS. Для работы в этом режиме необходимо установить основной пароль.
 forms-master-pw-fips-desc = Смена пароля не удалась
 forms-windows-sso =
     .label = Разрешить единый вход Windows для учётных записей Microsoft, учётных записей на работе и в учебных заведениях
@@ -814,12 +814,12 @@ forms-windows-sso-desc = Управление аккаунтами в настр
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
-primary-password-os-auth-dialog-message-win = Чтобы создать мастер-пароль, введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
+primary-password-os-auth-dialog-message-win = Чтобы создать основной пароль, введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
-primary-password-os-auth-dialog-message-macosx = создать мастер-пароль
+primary-password-os-auth-dialog-message-macosx = создать основной пароль
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History

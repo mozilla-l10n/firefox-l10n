@@ -8,38 +8,30 @@ password-quality-meter = Качество пароля
 
 change-device-password-window =
     .title = Сменить пароль
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Устройство защиты: { $tokenName }
 change-password-old = Текущий пароль:
 change-password-new = Новый пароль:
 change-password-reenter = Новый пароль (повторно):
-
-## Reset Password dialog
-
 pippki-failed-pw-change = Не удалось изменить пароль.
 pippki-incorrect-pw = Вы ввели некорректный текущий пароль. Попробуйте снова.
 pippki-pw-change-ok = Пароль успешно изменён.
-
 pippki-pw-empty-warning = Ваши сохранённые пароли и закрытые ключи не будут защищены.
 pippki-pw-erased-ok = Вы удалили свой пароль. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Предупреждение! Вы решили не использовать пароль. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Вы работаете в режиме соответствия FIPS. При работе в этом режиме необходимо установить пароль.
 
 ## Reset Primary Password dialog
 
 reset-primary-password-window =
-    .title = Сбросить мастер-пароль
+    .title = Сбросить основной пароль
     .style = width: 40em
 reset-password-button-label =
     .label = Сбросить
-
-reset-primary-password-text = При сбросе мастер-пароля, все сохранённые пароли для веб-сайтов, электронной почты, личные сертификаты и закрытые ключи будут утеряны. Вы действительно хотите сбросить свой мастер-пароль?
-
-pippki-reset-password-confirmation-title = Сбросить мастер-пароль
-pippki-reset-password-confirmation-message = Мастер-пароль был сброшен.
+reset-primary-password-text = При сбросе основного пароля все сохранённые пароли для веб-сайтов и электронной почты, личные сертификаты и закрытые ключи будут утеряны. Вы действительно хотите сбросить свой основной пароль?
+pippki-reset-password-confirmation-title = Сброс основного пароля
+pippki-reset-password-confirmation-message = Ваш основной пароль был сброшен.
 
 ## Downloading cert dialog
 
