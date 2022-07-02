@@ -8,6 +8,6 @@
 <!ENTITY  changepassword.accesskey               "м">
 
 <!ENTITY  resetpassword.caption                  "Сбросить основной пароль">
-<!ENTITY  resetpassword.text                     "При сбросе мастер-пароля, все сохранённые вами почтовые и веб-пароли, данные форм, личные сертификаты и закрытые ключи будут утеряны.">
+<!ENTITY  resetpassword.text                     "При сбросе основного пароля, все сохранённые вами почтовые и веб-пароли, данные форм, личные сертификаты и закрытые ключи будут утеряны.">
 <!ENTITY  resetpassword2.button                  "Сбросить пароль">
 <!ENTITY  resetpassword2.accesskey               "а">
