@@ -89,12 +89,12 @@ open-addons-sidebar-button = Дополнения и темы
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
-primary-password-os-auth-dialog-message-win = Чтобы создать мастер-пароль, введите свои учётные данные для входа в Windows. Это поможет защитить ваши аккаунты.
+primary-password-os-auth-dialog-message-win = Чтобы создать основной пароль, введите свои учётные данные для входа в Windows. Это поможет защитить ваши аккаунты.
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
-primary-password-os-auth-dialog-message-macosx = создать мастер-пароль
+primary-password-os-auth-dialog-message-macosx = создать основной пароль
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -546,14 +546,14 @@ passwords-description = { -brand-short-name } может запоминать п
 passwords-button =
     .label = Сохранённые пароли…
     .accesskey = х
-primary-password-description = Мастер-пароль защищает все ваши пароли, но вам нужно будет вводить его один раз в каждой сессии.
+primary-password-description = Основной пароль защищает все ваши пароли, но вам нужно будет вводить его один раз в каждой сессии.
 primary-password-label =
-    .label = Использовать мастер-пароль
+    .label = Использовать основной пароль
     .accesskey = п
 primary-password-button =
-    .label = Сменить мастер-пароль…
+    .label = Сменить основной пароль…
     .accesskey = м
-forms-primary-pw-fips-title = Вы работаете в режиме соответствия FIPS. При работе в этом режиме необходимо установить мастер-пароль.
+forms-primary-pw-fips-title = Вы работаете в режиме соответствия FIPS. При работе в этом режиме необходимо установить основной пароль.
 forms-master-pw-fips-desc = Смена пароля не удалась
 junk-description = Здесь вы можете установить настройки анти-спам фильтра по умолчанию. Настройки анти-спам фильтра, специфичные для учётной записи, могут быть установлены в параметрах учётной записи.
 junk-label =
