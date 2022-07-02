@@ -102,7 +102,7 @@
 <!ENTITY selectMenu.label "Виділити">
 <!ENTITY selectMenu.accesskey "и">
 <!ENTITY all.label "Усі">
-<!ENTITY all.accesskey "В">
+<!ENTITY all.accesskey "У">
 <!ENTITY selectThreadCmd.label "Розмову">
 <!ENTITY selectThreadCmd.accesskey "Р">
 <!ENTITY selectThreadCmd.key "a">
@@ -145,7 +145,7 @@
 <!ENTITY messagePaneVertical.accesskey "В">
 <!ENTITY showFolderPaneCmd.label "Панель тек">
 <!ENTITY showFolderPaneCmd.accesskey "т">
-<!ENTITY showFolderPaneColsCmd.label "Колонки панелі тек">
+<!ENTITY showFolderPaneColsCmd.label "Стовпчики панелі тек">
 <!ENTITY showFolderPaneColsCmd.accesskey "н">
 <!ENTITY showMessageCmd.label "Панель повідомлень">
 <!ENTITY showMessageCmd.accesskey "О">
