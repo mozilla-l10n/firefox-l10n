@@ -75,8 +75,8 @@ mail-uidensity-touch =
     .label = Дотик
     .accesskey = о
 menu-spaces-toolbar-button =
-    .label = Панель Місць
-    .accesskey = М
+    .label = Панель місць
+    .accesskey = м
 
 ## File
 

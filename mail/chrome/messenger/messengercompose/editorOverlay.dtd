@@ -156,7 +156,7 @@
 <!ENTITY formatlistMenu.accesskey "п">
 <!ENTITY noneCmd.label "Нічого">
 <!ENTITY noneCmd.accesskey "і">
-<!ENTITY listBulletCmd.label "Маркірований">
+<!ENTITY listBulletCmd.label "Маркований">
 <!ENTITY listBulletCmd.accesskey "М">
 <!ENTITY listNumberedCmd.label "Нумерований">
 <!ENTITY listNumberedCmd.accesskey "Н">
@@ -282,7 +282,7 @@
 <!ENTITY boldToolbarCmd.tooltip "Жирний">
 <!ENTITY italicToolbarCmd.tooltip "Курсив">
 <!ENTITY underlineToolbarCmd.tooltip "Підкреслений">
-<!ENTITY bulletListToolbarCmd.tooltip "Додати або вилучити маркірований список">
+<!ENTITY bulletListToolbarCmd.tooltip "Додати чи вилучити маркований список">
 <!ENTITY numberListToolbarCmd.tooltip "Додати або вилучити нумерований список">
 <!ENTITY outdentToolbarCmd.tooltip "Прибрати відступ (вліво)">
 <!ENTITY indentToolbarCmd.tooltip "Зробити відступ (вправо)">

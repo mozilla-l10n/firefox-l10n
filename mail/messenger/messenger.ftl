@@ -194,8 +194,8 @@ decrypt-and-copy-failures = Не вдалося розшифрувати та с
 ## Spaces toolbar
 
 spaces-toolbar-element =
-    .toolbarname = Панель Місць
-    .aria-label = Панель Місць
+    .toolbarname = Панель місць
+    .aria-label = Панель місць
     .aria-description = Вертикальна панель інструментів для перемикання між різними місцями. Використовуйте клавіші зі стрілками для навігації доступними кнопками.
 spaces-toolbar-button-mail2 =
     .title = Пошта
