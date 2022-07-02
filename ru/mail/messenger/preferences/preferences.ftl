@@ -89,7 +89,7 @@ open-addons-sidebar-button = Дополнения и темы
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
-primary-password-os-auth-dialog-message-win = Чтобы создать мастер-пароль, введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
+primary-password-os-auth-dialog-message-win = Чтобы создать мастер-пароль, введите свои учётные данные для входа в Windows. Это поможет защитить ваши аккаунты.
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
@@ -546,7 +546,7 @@ passwords-description = { -brand-short-name } может запоминать п
 passwords-button =
     .label = Сохранённые пароли…
     .accesskey = х
-primary-password-description = Мастер-пароль защищает все ваши пароли, но вам нужно будет вводить его один раз в сессию.
+primary-password-description = Мастер-пароль защищает все ваши пароли, но вам нужно будет вводить его один раз в каждой сессии.
 primary-password-label =
     .label = Использовать мастер-пароль
     .accesskey = п
