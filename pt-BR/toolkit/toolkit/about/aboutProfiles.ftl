@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profiles-title = Sobre os perfis
-profiles-subtitle = Esta página ajuda a gerenciar seus perfis. Cada perfil é um mundo separado que contém histórico, favoritos, configurações e extensões separados.
+profiles-title = Gerenciamento de perfis
+profiles-subtitle = Esta página ajuda a gerenciar seus perfis. Cada perfil é independente, contém histórico, favoritos, configurações e extensões separados.
 profiles-create = Criar novo perfil
 profiles-restart-title = Reiniciar
 profiles-restart-in-safe-mode = Reiniciar com extensões desativadas…
