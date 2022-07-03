@@ -20,7 +20,7 @@
 <!ENTITY requestMDN.label             "Quando eu receber um pedido de confirmação de leitura:">
 <!ENTITY returnSome.label             "Permitir confirmação de leitura de algumas mensagens">
 <!ENTITY returnSome.accesskey         "r">
-<!ENTITY never.label                  "Nunca enviar uma confirmação de leitura">
+<!ENTITY never.label                  "Nunca enviar confirmação de leitura">
 <!ENTITY never.accesskey              "N">
 <!ENTITY notInToCc.label              "Se eu não estiver em Para ou Cc da mensagem:">
 <!ENTITY notInToCc.accesskey          "u">
