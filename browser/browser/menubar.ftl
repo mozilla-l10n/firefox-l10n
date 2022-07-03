@@ -38,11 +38,9 @@ menu-quit =
             [windows] S
            *[other] S
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Encerrar { -brand-shorter-name }
-
 menu-about =
     .label = Sobre o { -brand-shorter-name }
     .accesskey = S
@@ -309,7 +307,7 @@ menu-help-more-troubleshooting-info =
 menu-help-report-site-issue =
     .label = Relatar problema no site…
 menu-help-share-ideas =
-    .label = Compartilhe ideias e comentários…
+    .label = Compartilhar ideias e comentários…
     .accesskey = C
 menu-help-enter-troubleshoot-mode2 =
     .label = Modo de solução de problemas…
