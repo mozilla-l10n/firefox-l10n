@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Fitur yang Direkomendasikan
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Mengapa saya melihat ini?
-
 cfr-doorhanger-extension-cancel-button = Jangan Sekarang
     .accesskey = J
-
 cfr-doorhanger-extension-ok-button = Tambahkan Sekarang
     .accesskey = T
-
 cfr-doorhanger-extension-manage-settings-button = Kelola Pengaturan Rekomendasi
     .accesskey = K
-
 cfr-doorhanger-extension-never-show-recommendation = Jangan Tampilkan Rekomendasi Ini
     .accesskey = T
-
 cfr-doorhanger-extension-learn-more-link = Pelajari lebih lanjut
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = oleh { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendasi
 cfr-doorhanger-extension-notification2 = Rekomendasi
     .tooltiptext = Rekomendasi ekstensi
     .a11y-announcement = Rekomendasi ekstensi tersedia
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekomendasi
@@ -83,11 +75,9 @@ cfr-protections-panel-link-text = Pelajari lebih lanjut
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Fitur baru:
-
 cfr-whatsnew-button =
     .label = Yang Baru
     .tooltiptext = Yang Baru
-
 cfr-whatsnew-release-notes-link-text = Baca catatan rilis
 
 ## Enhanced Tracking Protection Milestones
@@ -163,6 +153,10 @@ spotlight-total-cookie-protection-body = Perlindungan Kuki Total mencegah pelaca
 spotlight-total-cookie-protection-expanded = { -brand-short-name } membangun pagar di sekitar kuki, dengan membatasi kuki di situs tempat Anda berada, sehingga pelacak tidak dapat menggunakannya untuk mengikuti Anda. Dengan akses awal, Anda akan membantu mengoptimalkan fitur ini agar kami dapat terus membangun web yang lebih baik untuk semua orang.
 spotlight-total-cookie-protection-primary-button = Aktifkan Perlindungan Kuki Total
 spotlight-total-cookie-protection-secondary-button = Jangan sekarang
+cfr-total-cookie-protection-header = Berkat Anda, { -brand-short-name } menjadi lebih aman dan privat dari sebelumnya
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = Perlindungan Kuki Total adalah perlindungan privasi terkuat kami - dan kini menjadi pengaturan baku bagi pengguna { -brand-short-name } di mana saja. Kami tidak dapat melakukannya tanpa peserta akses awal seperti Anda. Jadi, terima kasih telah membantu kami menciptakan Internet yang lebih baik dan lebih privat.
 
 ## Emotive Continuous Onboarding
 
