@@ -10,6 +10,8 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Сиёсатҳоеро, ки «WebExtensions» метавонад тавассути «chrome.storage.managed» дастрасӣ пайдо кунад, танзим мекунад.
+policy-AllowedDomainsForApps = Доменҳоеро муайян мекунад, ки барои пайдо кардани дастрасӣ ба «Google Workspace» иҷозат доранд.
 policy-AppAutoUpdate = Навсозии худкори барномаро фаъол ё ғайрифаъол мекунад.
 policy-AppUpdateURL = Нишонии URL-и фармоиширо барои навсозии барнома насб мекунад.
 policy-BlockAboutAddons = Дастрасиро ба мудири ҷузъҳои иловагӣ манъ мекунад (about:addons).
