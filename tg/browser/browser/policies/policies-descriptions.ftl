@@ -13,7 +13,9 @@
 policy-3rdparty = Сиёсатҳоеро, ки «WebExtensions» метавонад тавассути «chrome.storage.managed» дастрасӣ пайдо кунад, танзим мекунад.
 policy-AllowedDomainsForApps = Доменҳоеро муайян мекунад, ки барои пайдо кардани дастрасӣ ба «Google Workspace» иҷозат доранд.
 policy-AppAutoUpdate = Навсозии худкори барномаро фаъол ё ғайрифаъол мекунад.
+policy-AppUpdatePin = Ба { -brand-short-name } имкон намедиҳад, ки аз версияи муайяншуда ба версияи дигар навсозӣ карда шавад.
 policy-AppUpdateURL = Нишонии URL-и фармоиширо барои навсозии барнома насб мекунад.
+policy-Authentication = Санҷиши ҳаққонияти якпорчашударо барои сомонаҳое, ки онро дастгирӣ мекунанд, танзим менамояд.
 policy-BlockAboutAddons = Дастрасиро ба мудири ҷузъҳои иловагӣ манъ мекунад (about:addons).
 policy-BlockAboutConfig = Дастрасиро ба саҳифаи «about:config» манъ мекунад.
 policy-BlockAboutProfiles = Дастрасиро ба саҳифаи «about:profiles» манъ мекунад.
