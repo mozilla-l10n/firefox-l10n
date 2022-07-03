@@ -415,7 +415,7 @@
 <!ENTITY markReadByDateCmd.label "Como lidas por data…">
 <!ENTITY markReadByDateCmd.accesskey "o">
 <!ENTITY markReadByDateCmd.key "C">
-<!ENTITY markAllReadCmd.label "Tudo como lido">
+<!ENTITY markAllReadCmd.label "Todas como lidas">
 <!ENTITY markAllReadCmd.accesskey "T">
 <!ENTITY markAllReadCmd.key "C">
 <!ENTITY markStarredCmd.label "Adicionar estrela">
