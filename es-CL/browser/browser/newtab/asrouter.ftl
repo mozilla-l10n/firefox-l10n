@@ -150,13 +150,16 @@ spotlight-public-wifi-vpn-link = Ahora no
 spotlight-total-cookie-protection-header =
     Prueba nuestra experiencia de 
     privacidad más poderosa de la historia
-spotlight-total-cookie-protection-body = La  protección total contra cookies evita que los rastreadores te sigan por la web.
+spotlight-total-cookie-protection-body = La protección total contra cookies evita que los rastreadores te sigan por la web.
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch" as not everybody will get it yet.
 spotlight-total-cookie-protection-expanded = { -brand-short-name } construye un cerco alrededor de tus cookies, limitándolas al sitio en el que estás, para que los rastreadores no las puedan usar para seguirte. Con el acceso anticipado, ayudarás a optimizar esta funcionalidad para que sigamos construyendo una mejor web para todos.
 spotlight-total-cookie-protection-primary-button = Activar la protección total contra cookies
 spotlight-total-cookie-protection-secondary-button = Ahora no
 cfr-total-cookie-protection-header = Gracias a ti, { -brand-short-name } es más privado y seguro que nunca
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = La protección total contra cookies es nuestra protección de privacidad más fuerte a la fecha y ahora es el ajuste predeterminado para los usuarios de { -brand-short-name }. No podríamos haberlo logrado sin participantes de acceso temprano como tu. Por lo que te agradecemos por ayudarnos a crear un internet mejor y más privado.
 
 ## Emotive Continuous Onboarding
 

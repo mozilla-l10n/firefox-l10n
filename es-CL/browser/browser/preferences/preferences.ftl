@@ -977,6 +977,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La protección total contra cookies aísla las cookies del sitio en el que estas, de forma tal que los rastreadores no pueden usarlas para seguirte entre sitios.
 content-blocking-etp-standard-tcp-rollout-learn-more = Aprender más
+content-blocking-etp-standard-tcp-title = Incluye la protección total contra cookies , nuestra herramienta de privacidad más potente a la fecha
 content-blocking-warning-title = ¡Atención!
 content-blocking-and-isolating-etp-warning-description-2 = Este ajuste puede hacer que algunos sitios web no muestren contenido o que no funcionen correctamente. Si un sitio parece roto, puede que desees desactivar la protección contra seguimiento para que ese sitio cargue todo el contenido.
 content-blocking-warning-learn-how = Aprender cómo
