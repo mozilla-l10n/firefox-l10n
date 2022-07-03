@@ -9,7 +9,7 @@ export-page-title = Exportar
 
 import-start = Ferramenta de importação
 import-start-title = Importar configurações ou dados de um aplicativo ou arquivo.
-import-start-description = Selecione a origem de onde quer importar. Mais tarde, você será solicitado a escolher quais dados precisam ser importados.
+import-start-description = Selecione de onde importar. Mais à frente você vai escolher que dados devem ser importados.
 import-from-app = Importar do aplicativo
 import-file = Importar de arquivo
 import-file-title = Selecione um arquivo para importar seu conteúdo.
@@ -80,7 +80,7 @@ items-pane-checkbox-accounts = Contas e configurações
 items-pane-checkbox-address-books = Catálogos de endereços
 items-pane-checkbox-calendars = Agendas
 items-pane-checkbox-mail-messages = Mensagens de email
-items-pane-override = Quaisquer dados existentes ou idênticos não serão substituídos.
+items-pane-override = Dados já existentes ou idênticos não são substituídos.
 
 ## Import from address book file steps
 
