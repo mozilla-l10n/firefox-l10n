@@ -4,15 +4,15 @@
 
 <!ENTITY folderProps.windowtitle.label           "Властивості">
 
-<!ENTITY generalInfo.label                       "Основна інформація">
+<!ENTITY generalInfo.label                       "Загальне">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Перебудувати файл індекса">
 <!ENTITY folderRebuildSummaryFile2.label         "Відремонтувати теку">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "о">
-<!ENTITY folderRebuildSummaryFile.explanation    "Іноді файл індексу теки (.msf) пошкоджується, і повідомлення можуть здаватись зниклими, або видаленими; зневадження теки може розв'язати ці проблеми.">
+<!ENTITY folderRebuildSummaryFile.explanation    "Іноді файл індексу теки (.msf) пошкоджується, і може здатися, що нових повідомлень немає, а видалені повідомлення й надалі показуються. Зневадження теки може розв'язати ці проблеми.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Включати повідомлення цієї теки до результатів Глобального пошуку">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "Г">
 
-<!ENTITY retention.label "Налаштування збереження повідомлень">
+<!ENTITY retention.label "Зберігання">
 <!ENTITY retentionUseAccount.label  "Використовувати налаштування мого облікового запису">
 <!ENTITY retentionUseAccount.accesskey "м">
 <!ENTITY daysOld.label "днів">
@@ -30,7 +30,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "з">
 
 <!ENTITY folderSynchronizationTab.label          "Синхронізація">
-<!ENTITY folderCheckForNewMessages2.label         "При отриманні нових повідомлень для цього облікового запису, завжди перевіряти цю теку">
+<!ENTITY folderCheckForNewMessages2.label         "Отримуючи нові повідомлення облікового запису, завжди перевіряти цю теку">
 <!ENTITY folderCheckForNewMessages2.accesskey     "п">
 
 <!ENTITY offlineFolder.check.label               "Вибрати цю теку для автономної роботи">
@@ -51,10 +51,10 @@
 <!ENTITY folderProps.location.label              "Розташування:">
 <!ENTITY folderProps.location.accesskey          "о">
 
-<!ENTITY folderSharingTab.label                  "Сумісне використання">
+<!ENTITY folderSharingTab.label                  "Доступ">
 <!ENTITY privileges.button.label                 "Привілеї…">
 <!ENTITY privileges.button.accesskey             "П">
-<!ENTITY permissionsDesc.label                   "У вас є наступні права:">
+<!ENTITY permissionsDesc.label                   "Ви маєте такі повноваження:">
 <!ENTITY folderOtherUsers.label                  "Інші, з доступом до цієї теки:">
 <!ENTITY folderType.label                        "Тип теки:">
 

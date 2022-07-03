@@ -126,8 +126,8 @@ add-opensearch-provider-text = Введіть URL-адресу постачал�
 adding-opensearch-provider-failed-title = Помилка додавання постачальника OpenSearch
 adding-opensearch-provider-failed-text = Не вдалося додати постачальника OpenSearch для { $url }.
 minimize-to-tray-label =
-    .label = Коли вікно з { -brand-short-name } згорнуте, перемістіть його в системний лоток
-    .accesskey = з
+    .label = Згортати { -brand-short-name } в область сповіщень
+    .accesskey = З
 new-message-arrival = Коли надходять нові повідомлення:
 mail-play-sound-label =
     .label =
@@ -377,7 +377,7 @@ close-move-delete =
 display-name-label =
     .value = Ім’я для показу:
 condensed-addresses-label =
-    .label = Показувати тільки ім’я людей, що знаходяться в моїй адресній книзі
+    .label = Показуване ім'я для людей з адресної книги
     .accesskey = м
 
 ## Compose Tab
