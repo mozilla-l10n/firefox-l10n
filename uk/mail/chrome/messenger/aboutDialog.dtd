@@ -20,7 +20,7 @@
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
-<!ENTITY warningDesc.version        "&brandShortName; є експериментальним і може бути нестабільним.">
+<!ENTITY warningDesc.version        "&brandShortName; експериментальний і може бути нестабільним.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly builds automatically send Telemetry data back to Mozilla. It is only shown in this version. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "Він автоматично надсилає у &vendorShortName; інформацію про швидкодію, апаратне забезпечення, використання та налаштування, щоб допомогти зробити &brandShortName; кращим.">
 
