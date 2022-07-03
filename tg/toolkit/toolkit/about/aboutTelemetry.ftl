@@ -5,7 +5,11 @@
 about-telemetry-option-group-yesterday = Дирӯз
 about-telemetry-next-ping = >>
 about-telemetry-more-information = Маълумоти бештар лозим аст?
+about-telemetry-home-section = Асосӣ
+about-telemetry-general-data-section = Маълумоти умумӣ
+about-telemetry-environment-data-section = Маълумоти муҳит
 about-telemetry-session-info-section = Маълумот дар бораи ҷаласа
+about-telemetry-events-section = Рӯйдодҳо
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html

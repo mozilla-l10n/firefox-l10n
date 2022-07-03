@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# The Actions column
+about-processes-column-action =
+    .title = Амалҳо
 
 ## Tooltips
 
@@ -12,12 +15,24 @@ about-processes-shutdown-tab =
 
 ## Column headers
 
+about-processes-column-name = Ном
+about-processes-column-memory-resident = Ҳофиза
+about-processes-column-cpu-total = CPU
 
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 
+about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-file-process = Файлҳо ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-socket-process = Шабака ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = Дигар: { $type } ({ $pid })
 
 ## Isolated process names
 ## Variables:
