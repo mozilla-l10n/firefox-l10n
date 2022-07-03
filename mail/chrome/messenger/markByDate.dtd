@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY messageMarkByDate.label "Marcar mensagens como lidas por data">
-<!ENTITY markByDateLower.label "Marcar as mensagens como lidas de:">
+<!ENTITY markByDateLower.label "Marcar mensagens como lidas de:">
 <!ENTITY markByDateLower.accesskey "M">
-<!ENTITY markByDateUpper.label "Até:">
-<!ENTITY markByDateUpper.accesskey "A">
+<!ENTITY markByDateUpper.label "até:">
+<!ENTITY markByDateUpper.accesskey "a">
