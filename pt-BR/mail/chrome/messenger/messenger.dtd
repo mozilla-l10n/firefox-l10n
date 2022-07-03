@@ -24,7 +24,7 @@
 <!ENTITY moveToNewWindow.accesskey "j">
 <!ENTITY newVirtualFolderCmd.label "Pesquisa salva…">
 <!ENTITY newVirtualFolderCmd.accesskey "a">
-<!ENTITY newCreateEmailAccountCmd.label "Obter uma nova conta de email…">
+<!ENTITY newCreateEmailAccountCmd.label "Obter nova conta de email…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "O">
 <!ENTITY newExistingEmailAccountCmd.label "Conta de email existente…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "o">
