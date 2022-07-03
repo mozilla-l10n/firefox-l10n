@@ -67,8 +67,8 @@ move-to-end =
     .label = Mover para o final
     .accesskey = f
 move-to-new-window =
-    .label = Mover para uma nova janela
-    .accesskey = v
+    .label = Mover para nova janela
+    .accesskey = n
 tab-context-close-multiple-tabs =
     .label = Fechar várias abas
     .accesskey = v
@@ -101,7 +101,6 @@ tab-context-move-tabs =
            *[other] Mover abas
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
