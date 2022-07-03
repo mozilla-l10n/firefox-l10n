@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Configurações de correio indesejado">
-<!ENTITY trainingDescription.label "Se for ativado, primeiro você deve treinar o &brandShortName; para identificar mensagens indesejadas usando o botão na barra de ferramentas para marcar spam. Você precisa identificar mensagens legítimas e mensagens de spam. Depois disso, o &brandShortName; conseguirá marcar spam automaticamente.">
+<!ENTITY trainingDescription.label "Se for ativado, primeiro você deve treinar o &brandShortName; para identificar mensagens indesejadas usando o botão na barra de ferramentas para marcar spam. Você precisa identificar mensagens legítimas e mensagens de spam. Depois disso, o &brandShortName; consegue marcar spam automaticamente.">
 <!ENTITY level.label "Ativar controles adaptativos de lixo eletrônico nesta conta">
 <!ENTITY level.accesskey "A">
 
@@ -20,9 +20,9 @@
 <!ENTITY whitelistHeader.label "Não marcar automaticamente mensagens como spam se o remetente estiver em: ">
 <!ENTITY whitelistHeader.accesskey "N">
 
-<!ENTITY ispHeadersWarning.label "Se ativado, o &brandShortName; considera como spam automaticamente mensagens marcadas por este classificador externo.">
+<!ENTITY ispHeadersWarning.label "Se ativado, o &brandShortName; considera automaticamente como spam mensagens marcadas por este classificador externo.">
 <!ENTITY ispHeaders.label "Confiar em cabeçalhos de spam definidos por: ">
-<!ENTITY ispHeaders.accesskey "o">
+<!ENTITY ispHeaders.accesskey "C">
 
 <!ENTITY junkClassification.label "Seleção">
 <!ENTITY junkActions.label "Destino e retenção">
