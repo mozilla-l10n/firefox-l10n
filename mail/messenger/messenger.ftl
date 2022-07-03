@@ -46,8 +46,8 @@ redirect-msg-button =
 ## Folder Pane
 
 folder-pane-toolbar =
-    .toolbarname = Barra de ferramentas do painel de pastas
-    .accesskey = B
+    .toolbarname = Barra do painel de pastas
+    .accesskey = p
 folder-pane-toolbar-options-button =
     .tooltiptext = Opções do painel de pastas
 folder-pane-header-label = Pastas

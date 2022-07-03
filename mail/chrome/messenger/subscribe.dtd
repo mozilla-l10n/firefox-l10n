@@ -16,7 +16,7 @@
 <!ENTITY server.label                 "Conta:">
 <!ENTITY server.accesskey             "t">
 <!ENTITY subscribedHeader.label       "Inscrever">
-<!-- commenting out until bug 38906 is fixed 
+<!-- commenting out until bug 38906 is fixed
 <!ENTITY messagesHeader.label         "Messages"> -->
-<!ENTITY namefield.label              "Mostrar itens que contenham:">
-<!ENTITY namefield.accesskey          "z">
+<!ENTITY namefield.label              "Mostrar itens que contêm:">
+<!ENTITY namefield.accesskey          "M">
