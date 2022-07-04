@@ -171,7 +171,7 @@ spotlight-total-cookie-protection-secondary-button = Nid nawr
 cfr-total-cookie-protection-header = Diolch i chi, mae { -brand-short-name } yn fwy preifat a diogel nag erioed
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Total Cookie Protection yw ein hamddiffyniad preifatrwydd cryfaf eto – ac mae bellach yn osodiad rhagosodedig ar gyfer defnyddwyr { -brand-short-name } ym mhobman. Fyddem ni ddim wedi gallu ei greu heb gyfranogwyr cynnar fel chi. Felly diolch am ein helpu i greu rhyngrwyd gwell, mwy preifat.
+cfr-total-cookie-protection-body = Diogelwch Cwcis Llwyr yw ein hamddiffyniad preifatrwydd cryfaf eto – ac mae bellach yn osodiad rhagosodedig ar gyfer defnyddwyr { -brand-short-name } ym mhobman. Fyddem ni ddim wedi gallu ei greu heb gyfranogwyr cynnar fel chi. Felly diolch am ein helpu i greu rhyngrwyd gwell, mwy preifat.
 
 ## Emotive Continuous Onboarding
 

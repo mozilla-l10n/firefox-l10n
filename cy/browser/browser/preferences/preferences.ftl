@@ -993,7 +993,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Mae Diogelwch Cwcis Llwyr yn cyfyngu cwcis i'r wefan rydych chi arni, felly nid yw tracwyr yn gallu eu defnyddio i'ch dilyn rhwng gwefannau.
 content-blocking-etp-standard-tcp-rollout-learn-more = Dysgu rhagor
-content-blocking-etp-standard-tcp-title = Yn cynnwys Total Cookie Protection, ein nodwedd preifatrwydd mwyaf pwerus erioed
+content-blocking-etp-standard-tcp-title = Yn cynnwys Diogelwch Cwcis Llwyr, ein nodwedd preifatrwydd mwyaf pwerus erioed
 content-blocking-warning-title = Rhybudd!
 content-blocking-and-isolating-etp-warning-description-2 = Gall y gosodiad hwn beri i rai gwefannau beidio a dangos cynnwys na gweithio'n iawn. Os yw gwefan yn ymddangos wedi torri, efallai yr hoffech chi ddiffodd diogelu rhag tracio i'r wefan honno lwytho'r holl gynnwys.
 content-blocking-warning-learn-how = Dysgu sut
