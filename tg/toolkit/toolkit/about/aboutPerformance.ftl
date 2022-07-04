@@ -5,6 +5,8 @@
 
 ## Column headers
 
+column-name = Ном
+column-type = Навъ
 
 ## Special values for the Name column
 
@@ -32,4 +34,3 @@ close-tab =
     .title = Пӯшидани варақа
 show-addon =
     .title = Намоиш додан дар мудири ҷузъҳои иловагӣ
-

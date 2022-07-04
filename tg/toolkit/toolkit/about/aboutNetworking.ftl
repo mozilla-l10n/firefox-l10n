@@ -25,6 +25,14 @@ about-networking-received = Қабул шуд
 about-networking-family = Оила
 about-networking-trr = TRR
 about-networking-addresses = Нишониҳо
+about-networking-dns-domain = Домен:
+about-networking-dns-lookup-table-column = Нишониҳои IP
+about-networking-dns-https-rr-lookup-table-column = HTTP RRs
+about-networking-rcwn = Омори RCWN
+about-networking-rcwn-status = Вазъияти RCWN
+about-networking-rcwn-perf-open = Кушода
+about-networking-rcwn-perf-read = Хондашуда
+about-networking-rcwn-perf-write = Сабтшуда
 
 ## Link is intended as "network link"
 
