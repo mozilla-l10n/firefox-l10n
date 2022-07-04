@@ -8,6 +8,20 @@
 <!ENTITY prefCheckDefault.caption         "Systeemintegratie">
 <!ENTITY prefCheckDefaultClient.label     "Instellingen van standaardtoepassingen controleren bij het opstarten">
 <!ENTITY prefCheckDefaultClient.accesskey "s">
+<!ENTITY defaultClientFor.description     "&brandShortName; als de standaardtoepassing gebruiken voor:">
+<!ENTITY setDefaultBrowser.label          "Browser">
+<!ENTITY setDefaultBrowser.accesskey      "B">
+<!ENTITY setDefaultMail.label             "E-mail">
+<!ENTITY setDefaultMail.accesskey         "E">
+<!ENTITY setDefaultNews.label             "Nieuws">
+<!ENTITY setDefaultNews.accesskey         "N">
+<!ENTITY setDefaultFeed.label             "Feeds">
+<!ENTITY setDefaultFeed.accesskey         "F">
+<!ENTITY useInternalSettings.description  "Gebruik &brandShortName; E-mail &amp; nieuwsgroepen bij het openen van browserkoppelingen in:">
+<!ENTITY useInternalMail.label            "E-mail (mailto:)">
+<!ENTITY useInternalMail.accesskey        "a">
+<!ENTITY useInternalNews.label            "Nieuws (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "e">
 
 <!ENTITY printing.label                   "Afdrukken">
 <!ENTITY useNativePrintDialog.label       "Ingebouwde afdrukdialoog gebruiken (indien ondersteund)">

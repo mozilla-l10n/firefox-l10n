@@ -31,7 +31,9 @@
 <!ENTITY config.type.label        "Type:">
 <!ENTITY config.type.hint         "Objecttype om voorkeuren voor toe te voegen">
 <!ENTITY config.type.accesskey    "T">
+<!ENTITY config.network.label     "Netwerk:">
 <!ENTITY config.network.hint      "Bekende naam van het netwerk of de servernaam">
 <!ENTITY config.network.accesskey "B">
+<!ENTITY config.target.label      "Doel:">
 <!ENTITY config.target.hint       "Doelkanaal of gebruikersnaam">
 <!ENTITY config.target.accesskey  "D">

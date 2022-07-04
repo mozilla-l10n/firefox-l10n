@@ -12,7 +12,13 @@
 <!ENTITY mailAutoHide.accesskey           "D">
 <!ENTITY loadInBackground.label           "Naar nieuwe tabbladen schakelen wanneer deze worden geopend">
 <!ENTITY loadInBackground.accesskey       "N">
+<!ENTITY mailOpenTabsFor.label            "Tabbladen in plaats van vensters openen voor">
+<!ENTITY mailMiddleClick.label            "Middelklik of Ctrl+Enter op een bericht of een map">
+<!ENTITY mailMiddleClick.accesskey        "M">
 <!ENTITY mailMiddleClickMac.label         "Klik met uw middelste muisknop of gebruik &#8984;+Return op een bericht of een map">
+<!ENTITY mailMiddleClickMac.accesskey     "M">
+<!ENTITY mailDoubleClick.label            "Dubbelklik op een bericht">
+<!ENTITY mailDoubleClick.accesskey        "k">
 <!ENTITY mailBiffOnNewWindow.label        "Alleen op nieuwe berichten controleren na het openen van E-mail &amp; nieuwsgroepen">
 <!ENTITY mailBiffOnNewWindow.accesskey    "c">
 

@@ -11,6 +11,7 @@
 <!ENTITY background.accesskey "s">
 <!ENTITY diverted.label "Naar vanuit omgeleide koppelingen geopende nieuwe tabbladen schakelen">
 <!ENTITY diverted.accesskey "a">
+<!ENTITY browserFocus.label "Focus leggen op browservensters voor koppelingen die in tabbladen worden geopend vanuit andere toepassingen">
 <!ENTITY browserFocus.accesskey "F">
 <!ENTITY warnOnClose.label "Mij waarschuwen bij het sluiten van een venster met meerdere tabbladen">
 <!ENTITY warnOnClose.accesskey "n">
