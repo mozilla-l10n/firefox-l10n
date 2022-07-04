@@ -202,7 +202,7 @@ downloads-list-empty =
     .value = Nenhum download.
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
-    .value = Nenhum arquivo baixado nesta sessão.
+    .value = Nenhum arquivo baixado nesta sessão de navegação.
 # This is displayed in an item at the bottom of the Downloads Panel when there
 # are more downloads than can fit in the list in the panel.
 #   $count (number) - number of files being downloaded that are not shown in the
