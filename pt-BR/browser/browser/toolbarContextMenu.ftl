@@ -43,7 +43,7 @@ toolbar-context-menu-report-extension =
 # ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
 # have different access keys.
 toolbar-context-menu-pin-to-overflow-menu =
-    .label = Fixar no menu
+    .label = Fixar no menu expandido
     .accesskey = F
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Ocultar botão quando estiver vazio
