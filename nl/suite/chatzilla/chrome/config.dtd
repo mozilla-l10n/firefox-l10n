@@ -12,12 +12,25 @@
 <!ENTITY object.add.hint        "Voeg een nieuw netwerk, kanaal of gebruiker toe om voorkeuren in te stellen">
 <!ENTITY object.add.accesskey   "T">
 
+<!ENTITY object.del.label       "Verwijderen">
 <!ENTITY object.del.hint        "Het huidige object verwijderen en alle voorkeuren wissen">
+<!ENTITY object.del.accesskey   "V">
 
+<!ENTITY object.reset.label     "Opnieuw instellen">
+<!ENTITY object.reset.hint      "Stelt de voorkeuren van dit object opnieuw in naar de standaardinstellingen">
+<!ENTITY object.reset.accesskey "s">
 
+<!ENTITY dialog.apply   "Toepassen">
 
+<!ENTITY network "Netwerk">
+<!ENTITY channel "Kanaal">
+<!ENTITY user    "Gebruiker">
 
+<!ENTITY config.add.title "Voorkeursobject toevoegen">
 
+<!ENTITY config.type.label        "Type:">
+<!ENTITY config.type.hint         "Objecttype om voorkeuren voor toe te voegen">
+<!ENTITY config.type.accesskey    "T">
 <!ENTITY config.network.hint      "Bekende naam van het netwerk of de servernaam">
 <!ENTITY config.network.accesskey "B">
 <!ENTITY config.target.hint       "Doelkanaal of gebruikersnaam">
