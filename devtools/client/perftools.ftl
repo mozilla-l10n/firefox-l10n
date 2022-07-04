@@ -84,6 +84,8 @@ perftools-thread-render-backend =
     .title = Trywydd WebRender RenderBackend
 perftools-thread-paint-worker =
     .title = Pan mae off-main-thread wedi'i alluogi, yr edefyn y mae paentio yn digwydd arno
+perftools-thread-timer =
+    .title = Yr amseryddion trin trywydd (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = Mae cyfrifiant arddull yn cael ei rannu i drywyddion lluosog
 pref-thread-stream-trans =
@@ -116,16 +118,9 @@ perftools-tools-threads-input-label =
     .title = Mae'r enwau trywyddion hyn yn rhestr sydd wedi'i gwahanu â choma sy'n cael ei ddefnyddio i alluogi proffilio trywydd yn y proffiliwr. Mae angen i'r enw fod yn cyfateb yn unig â'r enw trywydd i'w gynnwys. Mae'n sensitif i ofod gwyn.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Newydd</b>: Mae'r { -profiler-brand-name } bellach wedi'i integreiddio i Offer Datblygwr. <a>Gweld rhagor</a> am yr offeryn newydd pwerus hwn.
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (Am gyfnod cyfyngedig, gallwch gyrchu'r panel Perfformiad gwreiddiol trwy <a>{ options-context-advanced-settings }</a>
 perftools-onboarding-close-button =
     .aria-label = Cau'r neges cyflwyno
 
