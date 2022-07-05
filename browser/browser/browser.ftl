@@ -792,3 +792,5 @@ data-reporting-notification-message = { -brand-short-name } автоматичн
 data-reporting-notification-button =
     .label = Вибрати чим ділитись
     .accesskey = В
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Приватний перегляд
