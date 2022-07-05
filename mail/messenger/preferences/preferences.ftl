@@ -644,13 +644,13 @@ notification-empty =
 notification-type-label =
     .label =
         { PLATFORM() ->
-            [macos] Animar o ícone da dock
-           *[other] Piscar o item da barra de tarefas
+            [macos] Animar o ícone no dock
+           *[other] Piscar o item na barra de tarefas
         }
     .accesskey =
         { PLATFORM() ->
             [macos] o
-           *[other] f
+           *[other] P
         }
 chat-play-sound-label =
     .label = Reproduzir um som
