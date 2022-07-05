@@ -799,3 +799,5 @@ data-reporting-notification-message = { -brand-short-name } do { -vendor-short-n
 data-reporting-notification-button =
     .label = Wubrać, štož so dźěli
     .accesskey = u
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Priwatny modus
