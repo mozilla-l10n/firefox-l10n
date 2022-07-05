@@ -157,6 +157,9 @@ spotlight-total-cookie-protection-expanded = { -brand-short-name } al costruìs 
 spotlight-total-cookie-protection-primary-button = Ative la Protezion Totâl dai Cookies
 spotlight-total-cookie-protection-secondary-button = No cumò
 cfr-total-cookie-protection-header = In gracie dal to jutori, { -brand-short-name } al è plui riservât e sigûr di simpri
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = La Protezion Totâl dai Cookies e je la nestre plui valevule protezion pe riservatece mai realizade – e cumò e je une impostazion predefinide pai utents di { -brand-short-name } di dut il mont. Chest no lu podevin fâ cence il contribût di personis come te, che a àn decidût di provâ in anteprime cheste funzionalitât. Duncje graciis di judânus a creâ un internet miôr e plui riservât.
 
 ## Emotive Continuous Onboarding
 

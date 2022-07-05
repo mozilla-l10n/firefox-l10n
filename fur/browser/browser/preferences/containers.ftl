@@ -5,10 +5,13 @@
 containers-window-new =
     .title = Zonte un gnûf contignidôr
     .style = width: 45em
-
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings =
+    .title = Impostazions contignidôr { $name }
+    .style = width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -19,26 +22,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = largjece minime: 4rem
-
 containers-name-label = Non
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Inserìs non dal contignidôr
-
 containers-icon-label = Icone
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = Colôr
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = Fat
     .buttonaccesskeyaccept = F
-
 containers-color-blue =
     .label = Blu
 containers-color-turquoise =
@@ -57,7 +54,6 @@ containers-color-purple =
     .label = Viole
 containers-color-toolbar =
     .label = Fâs coincidi cu la sbare dai struments
-
 containers-icon-fence =
     .label = Cente
 containers-icon-fingerprint =

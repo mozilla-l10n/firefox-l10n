@@ -113,7 +113,10 @@ policy-SecurityDevices = Instale i modui PKCS #11.
 policy-ShowHomeButton = Mostre il boton pagjine iniziâl te sbare dai struments.
 policy-SSLVersionMax = Stabilìs la massime version di SSL.
 policy-SSLVersionMin = Stabilìs la minime version di SSL.
+policy-StartDownloadsInTempDirectory = Sfuarce l'inviament dai discjariaments intune cartele locâl temporanie invezit che te cartele predefinide pai file discjariâts.
 policy-SupportMenu = Zonte un element personalizât dal menù di supuart al menù di jutori.
 policy-UserMessaging = No sta mostrâ cierts messaçs al utent.
+policy-UseSystemPrintDialog = Stampe doprant il dialic di stampe dal sisteme.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloche l'acès a cierts sîts web. Consulte la documentazion par vê plui detais sul formât.
+policy-Windows10SSO = Permet di doprâ l'acès unic di Windows pai accounts Microsoft, di vore e di scuele.
