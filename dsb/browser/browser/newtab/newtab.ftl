@@ -261,7 +261,7 @@ newtab-custom-sponsored-sites = Sponserowane zwězanja
 newtab-custom-pocket-title = Wót { -pocket-brand-name } dopórucone
 newtab-custom-pocket-subtitle = Wósebne wopśimjeśe, wubrane pśez { -pocket-brand-name }, źěla swójźby { -brand-product-name }
 newtab-custom-pocket-sponsored = Sponserowane tšojeńka
-newtab-custom-pocket-show-recent-saves = newtab-custom-pocket-show-recent-saves = Nejnowše składowanja pokazaś
+newtab-custom-pocket-show-recent-saves = Nejnowše składowanja pokazaś
 newtab-custom-recent-title = Nejnowša aktiwita
 newtab-custom-recent-subtitle = Wuběrk nejnowšych sedłow a nejnowšego wopśimjeśa
 newtab-custom-close-button = Zacyniś
