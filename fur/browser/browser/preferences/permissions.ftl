@@ -5,68 +5,63 @@
 permissions-window =
     .title = Ecezions
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Direzion dal sît web
     .accesskey = D
-
 permissions-block =
     .label = Bloche
     .accesskey = B
-
 permissions-session =
     .label = Permet par cheste session
     .accesskey = P
-
 permissions-allow =
     .label = Permet
     .accesskey = P
-
+permissions-button-off =
+    .label = Disative
+    .accesskey = D
+permissions-button-off-temporarily =
+    .label = Disative in mût temporani
+    .accesskey = t
 permissions-site-name =
     .label = Sît web
-
 permissions-status =
     .label = Stât
-
 permissions-remove =
     .label = Gjave sît web
     .accesskey = G
-
 permissions-remove-all =
     .label = Gjave ducj i sîts web
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Salve modifichis
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Predefinît par ducj i sîts web:
-
 permissions-searchbox =
     .placeholder = Cîr sît web
-
 permissions-capabilities-autoplay-allow =
     .label = Permet audio e video
 permissions-capabilities-autoplay-block =
     .label = Bloche l'audio
 permissions-capabilities-autoplay-blockall =
     .label = Bloche l'audio e il video
-
 permissions-capabilities-allow =
     .label = Permet
 permissions-capabilities-block =
     .label = Bloche
 permissions-capabilities-prompt =
     .label = Domande simpri
-
 permissions-capabilities-listitem-allow =
     .value = Permet
 permissions-capabilities-listitem-block =
     .value = Bloche
 permissions-capabilities-listitem-allow-session =
     .value = Permet par cheste session
+permissions-capabilities-listitem-off =
+    .value = Disativât
+permissions-capabilities-listitem-off-temporarily =
+    .value = Disativât in mût temporani
 
 ## Invalid Hostname Dialog
 
@@ -88,6 +83,10 @@ permissions-exceptions-cookie-window =
 permissions-exceptions-cookie-desc = Tu puedis specificâ cuai sîts web a puedin doprâ simpri, o mai, i cookies e i dâts al sît.  Scrîf la direzion esate dal sît che tu desideris gjestî e dopo fâs clic su Bloche, Permet par cheste session opûr Permet.
 
 ## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Ecezions - Modalitât Dome-HTTPS
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
