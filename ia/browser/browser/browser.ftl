@@ -788,3 +788,5 @@ data-reporting-notification-message = { -brand-short-name } invia automaticament
 data-reporting-notification-button =
     .label = Eliger lo que io comparti
     .accesskey = C
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Navigation private
