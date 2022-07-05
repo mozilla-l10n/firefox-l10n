@@ -788,3 +788,5 @@ data-reporting-notification-message = Το { -brand-short-name } στέλνει 
 data-reporting-notification-button =
     .label = Επιλέξτε τι θα μοιράζεστε
     .accesskey = ξ
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Ιδιωτική περιήγηση
