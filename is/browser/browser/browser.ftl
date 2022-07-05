@@ -791,3 +791,5 @@ data-reporting-notification-message = { -brand-short-name } sendir sjálfkrafa g
 data-reporting-notification-button =
     .label = Velja hverju ég deili
     .accesskey = V
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Huliðsvafur
