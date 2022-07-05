@@ -53,6 +53,8 @@ inactive-css-not-table = <strong>{ $property }</strong> non ha effetto su questo
 
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non prevede scorrimento (”scroll”).
 
+inactive-css-border-image = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non può essere applicato a elementi interni di una tabella il cui genitore ha la proprietà <strong>border-collapse</strong> impostata a <strong>collapse</strong>.
+
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
@@ -90,6 +92,8 @@ inactive-css-not-for-internal-table-elements-except-table-cells-fix = Provare a 
 inactive-css-not-table-fix = Provare ad aggiungere <strong>display:table</strong> o <strong>display:inline-table</strong>. { learn-more }
 
 inactive-scroll-padding-when-not-scroll-container-fix = Provare ad aggiungere <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> o <strong>overflow:hidden</strong>. { learn-more }
+
+inactive-css-border-image-fix = Rimuovere la proprietà <strong>border-collapse</strong> o impostarla a un valore diverso da <strong>collapse</strong> nell’elemento genitore. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
