@@ -791,3 +791,5 @@ data-reporting-notification-message = { -brand-short-name } oguerahauka ijehegui
 data-reporting-notification-button =
     .label = Aiporavo mba’etépa amoherakuãta
     .accesskey = C
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Kundaha ñemigua
