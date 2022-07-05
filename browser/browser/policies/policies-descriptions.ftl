@@ -68,6 +68,7 @@ policy-ExtensionSettings = Administra todos los aspectos de la instalación de e
 policy-ExtensionUpdate = Habilitar o deshabilitar actualizaciones automáticas de extensiones.
 policy-FirefoxHome = Configura Firefox Home.
 policy-FlashPlugin = Permitir o denegar el uso del complemento Flash.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Obliga la navegación directa del sitio de intranet en lugar de buscar al escribir entradas de una sola palabra en la barra de direcciones.
 policy-Handlers = Configurar gestores de aplicación predeterminados.
 policy-HardwareAcceleration = Si es "false", desactivar aceleración de hardware.
 # “lock” means that the user won’t be able to change this setting
