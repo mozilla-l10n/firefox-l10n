@@ -156,6 +156,7 @@ spotlight-total-cookie-protection-body = Protezion Totâl dai Cookies e ferme i 
 spotlight-total-cookie-protection-expanded = { -brand-short-name } al costruìs une stangjaçade tor ator dai cookies, limitantju al lôr sît, cussì che i spions (tracker) no rivin a doprâju par stâti daûr. Cun l'acès anticipât, tu judarâs a otimizâ cheste funzionalitât cussì che o rivìn a continuâ il nestri lavôr par costruî un web miôr par ducj.
 spotlight-total-cookie-protection-primary-button = Ative la Protezion Totâl dai Cookies
 spotlight-total-cookie-protection-secondary-button = No cumò
+cfr-total-cookie-protection-header = In gracie dal to jutori, { -brand-short-name } al è plui riservât e sigûr di simpri
 
 ## Emotive Continuous Onboarding
 
