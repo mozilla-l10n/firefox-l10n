@@ -180,6 +180,40 @@ containers-remove-cancel-button = No sta gjavâ chest contignidôr
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Lenghe e aspiet
+preferences-web-appearance-header = Aspiet dai sîts web
+preferences-web-appearance-description = Cualchi sît web al adate il so scheme di colôrs in base aes tôs preferencis. Sielç cuâl scheme di colôrs doprâ par chei sîts.
+preferences-web-appearance-choice-browser = Teme di { -brand-short-name }
+preferences-web-appearance-choice-system = Teme di sisteme
+preferences-web-appearance-choice-light = Clâr
+preferences-web-appearance-choice-dark = Scûr
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Va daûr dal teme di { -brand-short-name } pal fonts e pai contignûts dai sîts.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Va daûr des impostazions di sisteme pal fonts e pai contignûts dai sîts.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Dopre un aspiet clâr pal fonts e pai contignûts dai sîts.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Dopre un aspiet scûr pal fonts e pai contignûts dai sîts.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = L'aspiet dal sît web al è stât sostituît de tô selezion di colôrs. <a data-l10n-name="colors-link"> Gjestìs i colôrs</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Gjestìs i temis di { -brand-short-name } in <a data-l10n-name="themes-link">Estensions e temis</a>
+preferences-colors-header = Colôrs
+preferences-colors-description = Sostituìs i colôrs predefinîts di { -brand-short-name } par test, fonts di sît web e colegaments.
+preferences-colors-manage-button =
+    .label = Gjestìs colôrs…
+    .accesskey = c
+preferences-fonts-header = Caratars
 default-font = Caratar predefinît
     .accesskey = d
 default-font-size = Dimension
@@ -210,6 +244,7 @@ confirm-browser-language-change-button = Apliche e torne invie
 translate-web-pages =
     .label = Volte il contignût web
     .accesskey = t
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Traduzions di <img data-l10n-name="logo"/>
@@ -319,6 +354,10 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Ce aial di fâ { -brand-short-name } cun chei altris files?
+applications-save-for-new-types =
+    .label = Salve i files
+    .accesskey = S
 drm-content-header = Contignût DRM (Digital Rights Management, gjestion dai dirits digjitâi)
 play-drm-content =
     .label = Riprodûs contignût protet di DRM
