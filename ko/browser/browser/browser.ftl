@@ -784,3 +784,5 @@ data-reporting-notification-message = 여러분이 보다 나은 경험을 할 �
 data-reporting-notification-button =
     .label = 공유할 데이터 선택
     .accesskey = C
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = 사생활 보호 모드
