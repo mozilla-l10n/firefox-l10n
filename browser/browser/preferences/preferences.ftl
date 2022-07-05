@@ -953,6 +953,7 @@ content-blocking-etp-custom-desc = בחירה באילו רכיבי מעקב ו�
 content-blocking-etp-blocking-desc = ‏{ -brand-short-name } חוסם את הפריטים הבאים:
 content-blocking-private-windows = תוכן מעקב בחלונות פרטיים
 content-blocking-cross-site-cookies-in-all-windows = עוגיות חוצות אתרים בכל החלונות (כולל עוגיות מעקב)
+content-blocking-cross-site-cookies-in-all-windows2 = עוגיות חוצות אתרים בכל החלונות
 content-blocking-cross-site-tracking-cookies = עוגיות מעקב חוצות אתרים
 content-blocking-all-cross-site-cookies-private-windows = עוגיות חוצות אתרים בחלונות פרטיים
 content-blocking-social-media-trackers = רכיבי מעקב של מדיה חברתית
