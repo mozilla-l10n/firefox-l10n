@@ -31,7 +31,7 @@ inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> ž
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> žadyn efekt na interne tabelowe elementy mimo tabelowych celow nima.
 inactive-css-not-table = <strong>{ $property }</strong> na tutón element efekt nima, dokelž tabela njeje.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> na tutón element efekt nima, dokelž so njekuli.
-inactive-css-border-image = </strong>{ $property }<strong> na tutón element wuskutk nima, dokelž njeda so na nutřkowne tabelowe elementy nałožić, hdźež <strong>border-collapse</strong> je na <strong>collapse</strong> na nadrjadowanym elemenće tabele stajeny.
+inactive-css-border-image = <strong>{ $property }</strong> na tutón element wuskutk nima, dokelž njeda so na nutřkowne tabelowe elementy nałožić, hdźež <strong>border-collapse</strong> je na <strong>collapse</strong> na nadrjadowanym elemenće tabele stajeny.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
