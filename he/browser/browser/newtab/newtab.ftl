@@ -252,6 +252,7 @@ newtab-custom-sponsored-sites = קיצורי דרך ממומנים
 newtab-custom-pocket-title = מומלץ על־ידי { -pocket-brand-name }
 newtab-custom-pocket-subtitle = תוכן יוצא דופן שנבחר בקפידה על־ידי { -pocket-brand-name }, חלק ממשפחת { -brand-product-name }
 newtab-custom-pocket-sponsored = סיפורים ממומנים
+newtab-custom-pocket-show-recent-saves = הצגת שמירות אחרונות
 newtab-custom-recent-title = פעילות אחרונה
 newtab-custom-recent-subtitle = מבחר של אתרים ותכנים אחרונים
 newtab-custom-close-button = סגירה

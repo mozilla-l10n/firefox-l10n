@@ -786,3 +786,5 @@ data-reporting-notification-message = { -brand-short-name } יישלח אוטו�
 data-reporting-notification-button =
     .label = בחירת פריטים לשיתוף
     .accesskey = ש
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = גלישה פרטית
