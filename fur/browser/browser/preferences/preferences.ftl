@@ -358,6 +358,9 @@ applications-handle-new-file-types-description = Ce aial di fâ { -brand-short-n
 applications-save-for-new-types =
     .label = Salve i files
     .accesskey = S
+applications-ask-before-handling =
+    .label = Domande se vierzi o salvâ i files
+    .accesskey = D
 drm-content-header = Contignût DRM (Digital Rights Management, gjestion dai dirits digjitâi)
 play-drm-content =
     .label = Riprodûs contignût protet di DRM
@@ -379,10 +382,25 @@ update-application-check-choose =
 update-application-manual =
     .label = Mai controlâ la disponibilitât di inzornaments (disconseât)
     .accesskey = M
+update-application-background-enabled =
+    .label = Cuant che { -brand-short-name } nol è in esecuzion
+    .accesskey = C
 update-application-warning-cross-user-setting = Cheste impostazion e vignarà aplicade a ducj i account di Windows e ai profîi di { -brand-short-name } che a doprin cheste instalazion di { -brand-short-name }.
 update-application-use-service =
     .label = Dopre un servizi in sotfont par instalâ i inzornaments
     .accesskey = v
+update-application-suppress-prompts =
+    .label = Mostre mancul notifichis pai inzornaments
+    .accesskey = n
+update-setting-write-failure-title2 = Erôr tal salvâ lis impostazions di inzornament
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } al à vût un erôr e nol à salvât cheste modifiche. Viôt che par modificâ cheste impostazion di inzornament tu scugnis vê i permès di scriture sul file chi sot. Tu o l'aministradôr di sisteme o podaressis risolvi chest erôr dant al grup Utents (Users) il plen control di chest file.
+    
+    Impussibil scrivi sul file: { $path }
 update-in-progress-title = Inzornament in vore
 update-in-progress-message = Desideristu che { -brand-short-name } al continui cun chest inzornament?
 update-in-progress-ok-button = &Interomp
@@ -419,6 +437,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Dopre scoriment delicât
     .accesskey = c
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Mostre simpri lis sbaris di scoriment
+    .accesskey = o
 browsing-use-onscreen-keyboard =
     .label = Se al è necessari, mostre une tastiere virtuâl
     .accesskey = c
@@ -596,6 +617,8 @@ search-keyword-warning-bookmark = Tu âs sielzût une peraule clâf za doprade p
 
 ## Containers Section
 
+containers-back-button2 =
+    .aria-label = Torne aes impostazions
 containers-header = Schedis contignidôr
 containers-add-button =
     .label = Zonte gnûf contignidôr
@@ -778,6 +801,7 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = Une volte cognossude tant che password principâl
 forms-primary-pw-fips-title = Tu sês cumò te modalitât FIPS. FIPS al domande une password primarie no vueide.
 forms-master-pw-fips-desc = No si à rivât a cambiâ la password
+forms-windows-sso-learn-more-link = Plui informazions
 
 ## OS Authentication dialog
 
