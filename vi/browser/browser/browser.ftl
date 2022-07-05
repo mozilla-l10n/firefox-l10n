@@ -784,3 +784,5 @@ data-reporting-notification-message = { -brand-short-name } tự động gửi d
 data-reporting-notification-button =
     .label = Chọn những thứ tôi muốn chia sẻ
     .accesskey = C
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Duyệt web riêng tư
