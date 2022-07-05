@@ -68,6 +68,7 @@ policy-ExtensionSettings = ניהול כל ההיבטים של התקנת הרח
 policy-ExtensionUpdate = הפעלה או השבתה של עדכונים אוטומטיים להרחבות.
 policy-FirefoxHome = הגדרת תצורה של מסך הבית של Firefox.
 policy-FlashPlugin = לאפשר או לדחות את השימוש בתוסף החיצוני Flash.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = לכפות ניווט ישיר לאתרי אינטראנט במקום לבצע חיפוש, בעת הקלדת רשומות של מילה בודדה בשורת הכתובת.
 policy-Handlers = קביעת תצורה של מטפלים ביישומי ברירת מחדל.
 policy-HardwareAcceleration = כיבוי האצת חומרה אם מוגדר כ־false.
 # “lock” means that the user won’t be able to change this setting
