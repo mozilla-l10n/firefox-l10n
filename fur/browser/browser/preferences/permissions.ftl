@@ -87,6 +87,7 @@ permissions-exceptions-cookie-desc = Tu puedis specificâ cuai sîts web a puedi
 permissions-exceptions-https-only-window =
     .title = Ecezions - Modalitât Dome-HTTPS
     .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Tu puedis disativâ la modalitât Dome-HTTPS par specifics sîts web. { -brand-short-name } nol cirarà di puartâ la conession par chei sîts su HTTPS sigûr. Lis ecezions no vegnin aplicadis ai barcons privâts.
 
 ## Exceptions - Pop-ups
 
