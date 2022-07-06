@@ -788,3 +788,5 @@ data-reporting-notification-message = { -brand-short-name } баъзе маъл�
 data-reporting-notification-button =
     .label = Интихоб кунед, ки чӣ дастрас мешавад
     .accesskey = И
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Тамошокунии махфӣ
