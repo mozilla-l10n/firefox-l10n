@@ -1083,6 +1083,8 @@ addon-recommendations-link = Plui informazions
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = La segnalazion di dâts e je stade disativade te configurazion di cheste compilazion
+collection-backlogged-crash-reports-with-link = Permet a { -brand-short-name } di inviâ a to non segnalazions di colàs regjistradis in precedence <a data-l10n-name="crash-reports-link">Plui informazions</a>
+    .accesskey = c
 
 ## Privacy Section - Security
 ##
@@ -1114,6 +1116,9 @@ certs-view =
 certs-devices =
     .label = Dispositîfs di sigurece…
     .accesskey = D
+space-alert-over-5gb-settings-button =
+    .label = Vierç Impostazions
+    .accesskey = I
 
 ## Privacy Section - HTTPS-Only
 
