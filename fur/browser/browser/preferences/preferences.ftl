@@ -805,6 +805,7 @@ forms-master-pw-fips-desc = No si à rivât a cambiâ la password
 forms-windows-sso =
     .label = Permet di doprâ l'acès unic di Windows pai accounts Microsoft, di vore e di scuele.
 forms-windows-sso-learn-more-link = Plui informazions
+forms-windows-sso-desc = Gjestìs i accounts tes tôs impostazions dal dispositîf
 
 ## OS Authentication dialog
 
@@ -883,6 +884,10 @@ sitedata-block-desc = Gjenar blocât
     .accesskey = t
 sitedata-option-block-cross-site-trackers =
     .label = Spiis (trackers) inter-sît
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = Cookies inter-sît che a spiin
+sitedata-option-block-cross-site-cookies =
+    .label = Cookies inter-sît che a spiin e isole altris cookies inter-sît
 sitedata-option-block-unvisited =
     .label = Cookies dai sîts web no visitâts
 sitedata-option-block-all-third-party =
@@ -950,8 +955,12 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Belançât par vê protezion e prestazions. Lis pagjinis si cjariaran in maniere normâl.
 content-blocking-etp-strict-desc = Protezion miorade, ma cualchi sît o contignût al podarès no funzionâ ben.
 content-blocking-etp-custom-desc = Sielç cualis spiis (trackers) e scripts blocâ.
+content-blocking-etp-blocking-desc = { -brand-short-name } al bloche chescj:
 content-blocking-private-windows = Contignûts che a spiin tai barcons privâts
+content-blocking-cross-site-cookies-in-all-windows = Cookies inter-sît in ducj i barcons (al inclût i cookies che a spiin)
+content-blocking-cross-site-cookies-in-all-windows2 = Cookies inter-sît in ducj i barcons
 content-blocking-cross-site-tracking-cookies = Cookies inter-sît che a spiin
+content-blocking-all-cross-site-cookies-private-windows = Cookies inter-sît tai barcons privâts
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies inter-sît che a spiin e isole i cookies che a restin
 content-blocking-social-media-trackers = Spiis (trackers) dai social media
 content-blocking-all-cookies = Ducj i cookies
@@ -960,7 +969,15 @@ content-blocking-all-windows-tracking-content = Contignûts che a spiin in ducj 
 content-blocking-all-third-party-cookies = Ducj i cookies di tiercis parts
 content-blocking-cryptominers = Minadôrs di criptomonede
 content-blocking-fingerprinters = Rilevadôrs di stamp numeric (fingerprinters)
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Prove in anteprime la miôr funzionalitât pal massim de riservatece
+    .accesskey = P
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Protezion totâl dai cookies al conten i cookies al sît che tu stâs navigant, cussì che i spions no puedin doprâju par stâti daûr tra i sîts.
 content-blocking-etp-standard-tcp-rollout-learn-more = Plui informazions
+content-blocking-etp-standard-tcp-title = Al inclût Protezion Totâl dai Cookies, la nestre miôr funzionalitât pal massim de riservatece
 content-blocking-warning-title = Atenzion!
 content-blocking-and-isolating-etp-warning-description-2 = In cualchi sît cheste impostazion e podarès impedî la visualizazion dai contignûts o di lavorâ ben. Se un sît al somee vuast, tu puedis disativâ la protezion da lis spiis par chel sît e cjariâ ducj i contignûts.
 content-blocking-warning-learn-how = Impare cemût
@@ -1033,6 +1050,12 @@ permissions-autoplay-settings =
 permissions-block-popups =
     .label = Bloche i barcons a comparse
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Ecezions…
+    .accesskey = E
+    .searchkeywords = comparse
 permissions-addon-install-warning =
     .label = Vise cuant che i sîts web a cirin di instalâ zontis
     .accesskey = V

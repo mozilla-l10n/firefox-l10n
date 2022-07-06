@@ -68,6 +68,7 @@ policy-ExtensionSettings = Gjestìs ducj i aspiets relatîfs ae instalazion des 
 policy-ExtensionUpdate = Ative o disative i inzornaments automatics des estensions.
 policy-FirefoxHome = Configure la pagjine iniziâl di Firefox.
 policy-FlashPlugin = Permet o dinee l'ûs dal plugin Flash.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Cuant che si scrîf une peraule singule te sbare de direzion, sfuarce la navigazion direte su sîts intranet invezit di cirî in rêt.
 policy-Handlers = Configure i gjestôrs di aplicazion predefinîts.
 policy-HardwareAcceleration = Se false (fals), distude la acelerazion vie hardware.
 # “lock” means that the user won’t be able to change this setting
