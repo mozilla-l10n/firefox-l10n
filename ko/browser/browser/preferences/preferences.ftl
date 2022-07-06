@@ -751,7 +751,7 @@ forms-ask-to-save-logins =
     .label = 웹 사이트의 로그인과 비밀번호를 기억할지 묻기
     .accesskey = r
 forms-exceptions =
-    .label = 예외 목록…
+    .label = 예외…
     .accesskey = x
 forms-generate-passwords =
     .label = 강력한 비밀번호 제안 및 생성
@@ -1044,7 +1044,7 @@ permissions-addon-install-warning =
     .label = 웹 사이트가 부가 기능을 설치하려 할 때 경고
     .accesskey = W
 permissions-addon-exceptions =
-    .label = 예외 목록…
+    .label = 예외…
     .accesskey = E
 
 ## Privacy Section - Data Collection
