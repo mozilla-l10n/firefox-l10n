@@ -64,6 +64,7 @@ profile-file-picker-directory = 选择配置文件目录
 profile-file-picker-archive = 选择 <strong>ZIP</strong> 文件
 profile-file-picker-archive-description = ZIP 文件必须小于 2GB。
 profile-file-picker-archive-title = 选择 ZIP 文件（小于 2GB）
+items-pane-title2 = 选择要导入的内容：
 items-pane-profile-name = 配置文件名称：
 items-pane-checkbox-accounts = 账户和设置
 items-pane-checkbox-address-books = 通讯录
