@@ -590,6 +590,7 @@ search-show-suggestions-above-history-option =
     .label = Mostre sugjeriments di ricercje prime de cronologjie di navigazion tai risultâts de sbare de direzion
 search-show-suggestions-private-windows =
     .label = Mostre i sugjeriments di ricercje tai barcons privâts
+suggestions-addressbar-settings-generic2 = Cambie lis impostazions pai altris sugjeriments de sbare de direzion
 search-suggestions-cant-show = No vignaran mostrâts sugjeriments di ricercje tai risultâts de sbare di posizion, viodût che tu âs configurât { -brand-short-name } in mût che no si visi mai la cronologjie.
 search-one-click-header2 = Scurtis di ricercje
 search-one-click-desc = Cuant che tu scomencis a scrivi une peraule, sielç i motôrs di ricercje alternatîfs che a vegnin fûr sot de sbare de direzion e de sbare di ricercje.
@@ -801,6 +802,8 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = Une volte cognossude tant che password principâl
 forms-primary-pw-fips-title = Tu sês cumò te modalitât FIPS. FIPS al domande une password primarie no vueide.
 forms-master-pw-fips-desc = No si à rivât a cambiâ la password
+forms-windows-sso =
+    .label = Permet di doprâ l'acès unic di Windows pai accounts Microsoft, di vore e di scuele.
 forms-windows-sso-learn-more-link = Plui informazions
 
 ## OS Authentication dialog

@@ -260,6 +260,7 @@ newtab-custom-sponsored-sites = Scurtis sponsorizadis
 newtab-custom-pocket-title = Conseâts di { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contignûts ecezionâi curâts di { -pocket-brand-name }, part de famee { -brand-product-name }
 newtab-custom-pocket-sponsored = Storiis sponsorizadis
+newtab-custom-pocket-show-recent-saves = Mostre salvaments resints
 newtab-custom-recent-title = Ativitât resinte
 newtab-custom-recent-subtitle = Une selezion di sîts e contignûts resints
 newtab-custom-close-button = Siere

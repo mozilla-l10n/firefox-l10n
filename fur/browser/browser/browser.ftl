@@ -789,3 +789,5 @@ data-reporting-notification-message = { -brand-short-name } al invie in automati
 data-reporting-notification-button =
     .label = Sielç ce condividi
     .accesskey = C
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Esplorazion privade
