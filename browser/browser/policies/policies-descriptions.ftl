@@ -68,6 +68,7 @@ policy-ExtensionSettings = 管理扩展的各种安装设置。
 policy-ExtensionUpdate = 启用或禁用扩展自动更新。
 policy-FirefoxHome = 配置 Firefox 主页。
 policy-FlashPlugin = 允许或拒绝使用 Flash 插件。
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = 在地址栏输入单个词条时，强制导航至内部网站，而非进行网上搜索。
 policy-Handlers = 配置默认应用程序处理方式。
 policy-HardwareAcceleration = 若为 false，将会关闭硬件加速。
 # “lock” means that the user won’t be able to change this setting
