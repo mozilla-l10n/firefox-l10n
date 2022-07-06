@@ -19,6 +19,11 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Navigazione anonima)
     .data-content-title-default = { $content-title } – { -brand-full-name }
     .data-content-title-private = { $content-title } – { -brand-full-name } (Navigazione anonima)
+browser-main-window-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } Navigazione anonima
+    .data-content-title-default = { $content-title } – { -brand-full-name }
+    .data-content-title-private = { $content-title } – { -brand-full-name } Navigazione anonima
 
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
@@ -39,6 +44,11 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } – (Navigazione anonima)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } – (Navigazione anonima)
+browser-main-window-mac-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } – Navigazione anonima
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } – Navigazione anonima
 
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
