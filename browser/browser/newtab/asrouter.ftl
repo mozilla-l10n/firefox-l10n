@@ -152,6 +152,9 @@ spotlight-total-cookie-protection-expanded = { -brand-short-name } 可将每个�
 spotlight-total-cookie-protection-primary-button = 立即开启
 spotlight-total-cookie-protection-secondary-button = 暂时不要
 cfr-total-cookie-protection-header = 感谢有您，{ -brand-short-name } 的隐私保护能力和安全性比以往有亿点强
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = “全方位 Cookie 保护”是我们迄今为止最强大的隐私保护功能，现已为所有 { -brand-short-name } 用户默认启用。若没有像您这样的早期用户参与测试，我们就无法推出此功能。非常感谢您帮助我们建构一个更美好、更保护隐私的互联网。
 
 ## Emotive Continuous Onboarding
 
