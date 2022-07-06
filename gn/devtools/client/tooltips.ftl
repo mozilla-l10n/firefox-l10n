@@ -31,7 +31,7 @@ inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> nd
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> ndojapói mba’eve mba’epuru tabla ryepyguáre oiko’ỹva tabla kora’ípe.
 inactive-css-not-table = <strong>{ $property }</strong> ndojapói mba’eve ko mba’epurúpe ndaha’éire tabla.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> ndojapói mba’eve ko mba’epurúpe ndoku’éi rupi.
-inactive-css-border-image = </strong>{ $property } ndoguerekói mba’eve ko mba’epurúpe ndaikatúi rupi oñemohembiapo mba’epuruita hyepyguávape <strong>border-collapse</strong>oguereko tepykue<strong>collapse</strong> mba’epuru mba’ekuaarã’aty tuichavévape.
+inactive-css-border-image = <strong>{ $property }</strong> ndoguerekói mba’eve ko mba’epurúpe ndaikatúi rupi oñemohembiapo mba’epuruita hyepyguávape <strong>border-collapse</strong>oguereko tepykue<strong>collapse</strong> mba’epuru mba’ekuaarã’aty tuichavévape.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
