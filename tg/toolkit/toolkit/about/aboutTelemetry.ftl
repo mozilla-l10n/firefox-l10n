@@ -2,7 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-show-current-data = Маълумоти ҷорӣ
+about-telemetry-option-group-today = Имрӯз
 about-telemetry-option-group-yesterday = Дирӯз
+about-telemetry-option-group-older = Пештар
+about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-more-information = Маълумоти бештар лозим аст?
 about-telemetry-home-section = Асосӣ

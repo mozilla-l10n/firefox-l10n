@@ -4,6 +4,7 @@
 
 label-disable = Ғайрифаъол кардан
 label-enable = Фаъол кардан
+label-interventions = Дахолатҳо
 label-more-information = Маълумоти бештар: Хатои { $bug }
 
 ## Do not translate "SmartBlock". For reference, SmartBlock is a feature
