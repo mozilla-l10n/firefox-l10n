@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-processes-title = Мудири равандҳо
 # The Actions column
 about-processes-column-action =
     .title = Амалҳо
@@ -25,6 +27,7 @@ about-processes-column-cpu-total = CPU
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-file-process = Файлҳо ({ $pid })
+about-processes-extension-process = Васеъшавиҳо ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-socket-process = Шабака ({ $pid })
