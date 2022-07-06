@@ -41,6 +41,10 @@ videocontrols-picture-in-picture-explainer = Emboheta ta’ãngamýi tenondete e
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Enohẽ ko ta’ãngamýi
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer2 = Hetavéramo mba’erechaha, ojevy’aiteve. Ehecha ko ta’ãngamýi Picture-in-Picture-pe eikundahakuévo.
 videocontrols-error-aborted = Ojejoko ta’ãngamýi ñemyenyhẽ.
 videocontrols-error-network = Ta’ãndamýi ñemboheta ojejokóma ñanduti jejavy rupi.
 videocontrols-error-decode = Ndaikatúi emboheta ta’ãngamýi pe marandurenda imarã rupi.
