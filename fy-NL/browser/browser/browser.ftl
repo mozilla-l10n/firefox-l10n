@@ -791,3 +791,5 @@ data-reporting-notification-message = { -brand-short-name } ferstjoerd automatys
 data-reporting-notification-button =
     .label = Kieze wat ik diel
     .accesskey = K
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Priveenavigaasje

@@ -68,6 +68,7 @@ policy-ExtensionSettings = Alle aspekten fan ynstallaasje fan útwreidingen behe
 policy-ExtensionUpdate = Automatyske útwreiding-fernijingen ynskeakelje of útskeakelje.
 policy-FirefoxHome = De startside fan Firefox ynstelle.
 policy-FlashPlugin = Gebrûk fan de Flash-ynstekker tastean of wegerje.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Direkte navigaasje op yntranetsites forsearje yn stee fan sykje by it typen fan inkelde wurden yn de adresbalke.
 policy-Handlers = Standert tapassinghandlers konfigurearje
 policy-HardwareAcceleration = Wannear false, hardwarefersnelling útskeakelje.
 # “lock” means that the user won’t be able to change this setting
