@@ -784,3 +784,5 @@ data-reporting-notification-message = { -brand-short-name } 会自动向 { -vend
 data-reporting-notification-button =
     .label = 我要选择提供哪些信息
     .accesskey = C
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = 隐私浏览
