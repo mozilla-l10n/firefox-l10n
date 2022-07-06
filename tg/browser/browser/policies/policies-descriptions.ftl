@@ -54,6 +54,11 @@ policy-DisplayBookmarksToolbar = Навори хатбаракҳоро ба та
 policy-DisplayMenuBar = Навори менюро ба таври пешфарз нишон медиҳад.
 policy-DNSOverHTTPS = Танзим кардани DNS тавассути HTTPS.
 policy-DontCheckDefaultBrowser = Тафтиши браузери пешфарзро ҳангоми оғози кор ғайрифаъол мекунад.
+policy-DownloadDirectory = Ҷузвдонро барои боргириҳо танзим карда, бетағйир мекунад.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = «Манъкунии муҳтаво»-ро фаъол ё ғайрифаъол мекунад, ва дар ҳолати зарурӣ онро бетағйир мекунад.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = «Васеъшавиҳои расонаҳои рамзгузоришуда»-ро фаъол ё ғайрифаъол мекунад, ва дар ҳолати зарурӣ онро бетағйир мекунад.
 policy-ExtensionSettings = Ҳамаи тарафҳои насбкунии васеъшавиро идора мекунад.
 policy-ExtensionUpdate = Навсозиҳои худкори васеъшавиро фаъол ё ғайрифаъол мекунад.
 policy-FirefoxHome = Танзим кардани саҳифаи асосии Firefox.
