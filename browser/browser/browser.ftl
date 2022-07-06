@@ -134,6 +134,7 @@ urlbar-tabtosearch-onboard = Seleziona questa scorciatoia per trovare ciò che t
 urlbar-search-mode-bookmarks = Segnalibri
 urlbar-search-mode-tabs = Schede
 urlbar-search-mode-history = Cronologia
+urlbar-search-mode-actions = Azioni
 
 ##
 
@@ -240,6 +241,21 @@ search-one-offs-tabs =
     .tooltiptext = Schede ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Cronologia ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Azioni ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+
+quickactions-clear = Cancella cronologia
+quickactions-print = Stampa
+quickactions-screenshot = Cattura schermata
+quickactions-settings = Apri impostazioni
+quickactions-downloads = Apri download
+quickactions-viewsource = Visualizza sorgente
+quickactions-inspector = Apri analisi pagina
+quickactions-refresh = Ripristina { -brand-short-name }
+quickactions-restart = Riavvia { -brand-short-name }
+quickactions-update = Aggiorna { -brand-short-name }
 
 ## Bookmark Panel
 
@@ -466,6 +482,11 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Immetti i termini di ricerca
     .aria-label = Cerca nelle schede
+
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+  .placeholder = Immetti i termini di ricerca
+  .aria-label = Cerca nelle azioni
 
 # Variables
 #  $name (String): the name of the user's default search engine
