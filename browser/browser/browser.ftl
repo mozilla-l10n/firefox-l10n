@@ -791,3 +791,5 @@ data-reporting-notification-message = A { -brand-short-name } automatikusan adat
 data-reporting-notification-button =
     .label = Megosztandó adatok kiválasztása
     .accesskey = v
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Privát böngészés
