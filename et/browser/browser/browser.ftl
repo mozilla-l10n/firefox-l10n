@@ -791,3 +791,5 @@ data-reporting-notification-message = Sinu kasutuskogemuse parandamiseks saadab 
 data-reporting-notification-button =
     .label = Vali saadetavad andmed
     .accesskey = V
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Privaatne veebilehitsemine
