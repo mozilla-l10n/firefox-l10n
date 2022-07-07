@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Privat browsing)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Privat browsing)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,12 +38,12 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Privat browsing)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Privat browsing)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+private-browsing-shortcut-text = Privat browsing med { -brand-short-name }
 
 ##
 
@@ -115,7 +114,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Tast mindre, find mere: Søg med { $engineName } direkte i adressefeltet.
 urlbar-search-tips-redirect-2 = Start din søgning i adressefeltet for at få forslag fra { $engineName } og din browserhistorik.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Vælg denne genvej for hurtigere at finde det, du leder efter.
@@ -152,12 +150,10 @@ urlbar-midi-blocked =
     .tooltiptext = Du har blokeret MIDI-adgang for dette websted.
 urlbar-install-blocked =
     .tooltiptext = Du har blokeret installering af tilføjelser for dette websted.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Rediger dette bogmærke ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -184,10 +180,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Søg denne gang med:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Skift søgeindstillinger
-
 search-one-offs-context-open-new-tab =
     .label = Søg i nyt faneblad
     .accesskey = f
@@ -197,14 +191,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Sæt som standard-søgetjeneste i private vinduer
     .accesskey = p
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -253,7 +245,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = V
 bookmark-panel-save-button =
     .label = Gem
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -281,7 +272,6 @@ identity-passive-loaded = Dele af denne side (såsom billeder) er ikke sikre.
 identity-active-loaded = Du har slået beskyttelse fra på denne side.
 identity-weak-encryption = Denne side bruger svag kryptering.
 identity-insecure-login-forms = Logins foretaget på denne side kan blive kompromitteret.
-
 identity-https-only-connection-upgraded = (opgraderet til HTTPS)
 identity-https-only-label = Tilstanden Kun-HTTPS
 identity-https-only-dropdown-on =
@@ -293,11 +283,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Slå tilstanden kun-HTTPS til for dette websted, hvis du vil have { -brand-short-name } til at opgradere forbindelsen, når det er muligt.
 identity-https-only-info-turn-off2 = Hvis denne side ikke fungerer korrekt, kan du prøve at slå tilstanden kun-HTTPS fra for dette websted for at genindlæse den ved hjælp af usikker HTTP.
 identity-https-only-info-no-upgrade = Kunne ikke opgradere forbindelsen fra HTTP.
-
 identity-permissions-storage-access-header = Cookies på tværs af websteder
 identity-permissions-storage-access-hint = Disse parter kan anvende webstedsdata og cookies på tværs af websteder, mens du besøger dette websted.
 identity-permissions-storage-access-learn-more = Læs mere
-
 identity-permissions-reload-hint = Du skal muligvis genindlæse siden, før at ændringerne slår igennem.
 identity-clear-site-data =
     .label = Ryd cookies og webstedsdata…
@@ -361,14 +349,12 @@ browser-tab-mute =
         [one] SLÅ LYD FRA I FANEBLAD
        *[other] SLÅ LYD FRA I { $count } FANEBLADE
     }
-
 browser-tab-unmute =
     { $count ->
         [1] SLÅ LYD TIL I FANEBLAD
         [one] SLÅ LYD TIL I FANEBLAD
        *[other] SLÅ LYD TIL I { $count } FANEBLADE
     }
-
 browser-tab-unblock =
     { $count ->
         [1] AFSPIL FANEBLAD
@@ -381,7 +367,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = importer bogmærker…
     .tooltiptext = importer bogmærker fra en anden browser til { -brand-short-name }.
-
 bookmarks-toolbar-empty-message = Få hurtig adgang til dine bogmærker ved at placere dem her på bogmærkelinjen. <a data-l10n-name="manage-bookmarks">Håndter bogmærker…</a>
 
 ## WebRTC Pop-up notifications
@@ -399,15 +384,12 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Højttalere
 popup-all-windows-shared = Alle synlige vinduer på din skærm vil blive delt.
-
 popup-screen-sharing-block =
     .label = Bloker
     .accesskey = B
-
 popup-screen-sharing-always-block =
     .label = Bloker altid
     .accesskey = a
-
 popup-mute-notifications-checkbox = Slå websteds-beskeder fra ved deling
 
 ## WebRTC window or screen share tab switch warning
@@ -429,7 +411,6 @@ enable-devtools-popup-description = For at bruge F12 som genvej skal du først �
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Søg eller indtast en adresse
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -438,7 +419,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Søg på nettet
     .aria-label = Søg på nettet med { $name }
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -447,27 +427,22 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Indtast søgestreng
     .aria-label = Søg på { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Indtast søgestreng
     .aria-label = Søg efter bogmærker
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Indtast søgestreng
     .aria-label = Søg i historik
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Indtast søgestreng
     .aria-label = Søg i faneblade
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Søg med { $name } eller indtast en adresse
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -477,11 +452,9 @@ urlbar-permissions-granted =
     .tooltiptext = Du har givet dette websted yderligere tilladelser.
 urlbar-switch-to-tab =
     .value = Skift til faneblad:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Udvidelse:
-
 urlbar-go-button =
     .tooltiptext = Gå til adressen i adressefeltet
 urlbar-page-action-button =
@@ -548,9 +521,8 @@ urlbar-result-action-search-tabs = Søg i faneblade
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
-# should use title case.
+# should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
@@ -563,12 +535,9 @@ urlbar-group-search-suggestions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> vises nu i fuld skærm
 fullscreen-warning-no-domain = Dokumentet vises nu i fuld skærm
-
-
 fullscreen-exit-button = Afslut fuld skærm (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Afslut fuld skærm (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -578,7 +547,6 @@ pointerlock-warning-no-domain = Dette dokument kontrollerer din markør. Tryk Es
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>En del af denne side gik ned</strong>. Indsend en rapport for at fortælle { -brand-product-name } om dette problem, så det hurtigere kan blive løst.
-
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -634,7 +602,6 @@ bookmarks-tools =
     .label = Bogmærke-værktøjer
 bookmarks-bookmark-edit-panel =
     .label = Rediger bogmærke
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -648,7 +615,6 @@ bookmarks-toolbar-placeholder =
     .title = Bogmærkelinje-elementer
 bookmarks-toolbar-placeholder-button =
     .label = Bogmærkelinje-elementer
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Bogmærk dette faneblad
@@ -679,7 +645,6 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Tilføjelser og temaer
     .tooltiptext = Håndter dine tilføjelser og temaer ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -689,33 +654,25 @@ toolbar-settings-button =
             [macos] Åbn indstillinger ({ $shortcut })
            *[other] Åbn indstillinger
         }
-
-## More items
-
 toolbar-overflow-customize-button =
     .label = Tilpas værktøjslinje…
     .accesskey = T
-
 toolbar-button-email-link =
     .label = Send link
     .tooltiptext = Send link til siden i en mail…
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Gem side
     .tooltiptext = Gem denne side ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Åbn fil
     .tooltiptext = Åbn en fil ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Synkroniserede faneblade
     .tooltiptext = Vis faneblade fra dine andre enheder
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -742,8 +699,6 @@ panel-save-update-password = Adgangskode
 addon-removal-title = Fjern { $name }?
 addon-removal-abuse-report-checkbox = Rapporter denne udvidelse til { -vendor-short-name }
 
-## Remote / Synced tabs
-
 ##
 
 # "More" item in macOS share menu
@@ -758,7 +713,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Tillad pop op-vinduer for { $uriHost }
     .accesskey = T
-
 popups-infobar-block =
     .label = Bloker pop op-vinduer for { $uriHost }
     .accesskey = T
@@ -768,11 +722,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Vis ikke denne besked når pop op-vinduer bliver blokeret
     .accesskey = V
-
 edit-popup-settings =
     .label = Håndter pop op-indstillinger
     .accesskey = H
-
 picture-in-picture-hide-toggle =
     .label = Skjul knappen for Billede-i-billede
     .accesskey = S
@@ -783,7 +735,6 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = Flyt knappen for Billede-i-billede til højre side
     .accesskey = h
-
 picture-in-picture-move-toggle-left =
     .label = Flyt knappen for Billede-i-billede til venstre side
     .accesskey = v
@@ -798,42 +749,32 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Navigation
-
 navbar-downloads =
     .label = Filhentning
-
 navbar-overflow =
     .tooltiptext = Flere værktøjer…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Udskriv
     .tooltiptext = Udskriv denne side… ({ $shortcut })
-
 navbar-home =
     .label = Hjem
     .tooltiptext = Startside for { -brand-short-name }
-
 navbar-library =
     .label = Arkiv
     .tooltiptext = Se historik, gemte bogmærker og andet
-
 navbar-search =
     .title = Søgefelt
-
 navbar-accessibility-indicator =
     .tooltiptext = Tilgængelighedsfunktioner er aktiveret
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Faneblade
-
 tabs-toolbar-new-tab =
     .label = Nyt faneblad
-
 tabs-toolbar-list-all-tabs =
     .label = List alle faneblade
     .tooltiptext = List alle faneblade
@@ -850,3 +791,5 @@ data-reporting-notification-message = { -brand-short-name } sender automatisk da
 data-reporting-notification-button =
     .label = Vælg, hvad jeg deler
     .accesskey = V
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Privat browsing
