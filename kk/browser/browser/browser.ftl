@@ -788,3 +788,5 @@ data-reporting-notification-message = { -brand-short-name } автоматты �
 data-reporting-notification-button =
     .label = Мен немен бөлісе алатынымды көрсету
     .accesskey = М
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Жекелік шолу
