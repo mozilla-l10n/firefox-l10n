@@ -15,6 +15,12 @@ screenshots-download-button = Discjame
 screenshots-download-button-tooltip = Discjame la videade
 screenshots-copy-button = Copie
 screenshots-copy-button-tooltip = Copie la videade intes notis
+screenshots-download-button-title =
+    .title = Discjame videade
+screenshots-copy-button-title =
+    .title = Copie la videade intes notis
+screenshots-cancel-button-title =
+    .title = Anule
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
