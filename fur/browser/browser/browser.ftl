@@ -123,6 +123,7 @@ urlbar-tabtosearch-onboard = Selezione cheste scurte par cjatâ subite ce che ti
 urlbar-search-mode-bookmarks = Segnelibris
 urlbar-search-mode-tabs = Schedis
 urlbar-search-mode-history = Cronologjie
+urlbar-search-mode-actions = Azions
 
 ##
 
@@ -224,6 +225,10 @@ search-one-offs-tabs =
 search-one-offs-history =
     .tooltiptext = Cronologjie ({ $restrict })
 
+## QuickActions are shown in the urlbar as the user types a matching string
+
+quickactions-update = Inzorne { -brand-short-name }
+
 ## Bookmark Panel
 
 bookmarks-add-bookmark = Zonte segnelibri
@@ -288,7 +293,7 @@ identity-permissions-storage-access-hint = Chestis parts a puedin doprâ cookies
 identity-permissions-storage-access-learn-more = Plui informazions
 identity-permissions-reload-hint = Tu podaressis vê di tornâ a cjariâ la pagjine par aplicâ lis modifichis.
 identity-clear-site-data =
-    .label = Nete i cookies e i dâts dal sît…
+    .label = Nete i cookies e i dâts dai sîts web…
 identity-connection-not-secure-security-view = La conession cun chest sît no je sigure.
 identity-connection-verified = La conession cun chest sît e je sigure.
 identity-ev-owner-label = Certificât dât fûr a:
@@ -437,6 +442,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Inserìs i tiermins di ricercje
     .aria-label = Cîr tes schedis
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Inserìs i tiermins di ricercje
+    .aria-label = Azions di ricercje
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =

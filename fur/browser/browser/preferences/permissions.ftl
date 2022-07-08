@@ -78,9 +78,9 @@ permissions-exceptions-etp-desc = Tu âs disativât lis protezions su chescj sî
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
-    .title = Ecezions - Cookies e dâts dal sît
+    .title = Ecezions - Cookies e dâts di sîts
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Tu puedis specificâ cuai sîts web a puedin doprâ simpri, o mai, i cookies e i dâts al sît.  Scrîf la direzion esate dal sît che tu desideris gjestî e dopo fâs clic su Bloche, Permet par cheste session opûr Permet.
+permissions-exceptions-cookie-desc = Tu puedis specificâ cuai sîts web a puedin doprâ simpri, o mai, i cookies e i dâts di sîts.  Scrîf la direzion esate dal sît che tu desideris gjestî e dopo fâs clic su Bloche, Permet par cheste session opûr Permet.
 
 ## Exceptions - HTTPS-Only Mode
 
