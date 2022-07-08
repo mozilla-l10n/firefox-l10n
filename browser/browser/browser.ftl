@@ -269,6 +269,9 @@ quickactions-settings = 설정 열기
 quickactions-downloads = 다운로드 열기
 quickactions-viewsource = 소스 보기
 quickactions-inspector = 검사기 열기
+quickactions-refresh = { -brand-short-name } 새로 고침
+quickactions-restart = { -brand-short-name } 다시 시작
+quickactions-update = { -brand-short-name } 업데이트
 
 ## Bookmark Panel
 
@@ -473,11 +476,15 @@ urlbar-placeholder-search-mode-other-bookmarks =
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = 검색어 입력
-    .aria-label = 방문 기록 검색
+    .aria-label = 기록 검색
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = 검색어 입력
     .aria-label = 탭 검색
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = 검색어 입력
+    .aria-label = 작업 검색
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
