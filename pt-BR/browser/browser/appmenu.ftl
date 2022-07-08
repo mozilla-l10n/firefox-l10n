@@ -7,19 +7,14 @@
 
 appmenuitem-banner-update-downloading =
     .label = Baixando atualização do { -brand-shorter-name }
-
 appmenuitem-banner-update-available =
     .label = Atualização disponível — baixar agora
-
 appmenuitem-banner-update-manual =
     .label = Atualização disponível — baixar agora
-
 appmenuitem-banner-update-unsupported =
     .label = Não foi possível atualizar — sistema incompatível
-
 appmenuitem-banner-update-restart =
     .label = Atualização disponível — reiniciar agora
-
 appmenuitem-new-tab =
     .label = Nova aba
 appmenuitem-new-window =
@@ -56,7 +51,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Fechar menu do aplicativo
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -77,30 +71,23 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Entrar no Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Ativar o Sync…
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Mostrar mais abas
     .tooltiptext = Mostrar mais abas deste dispositivo
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nenhuma aba aberta
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Ative a sincronização de abas para ver uma lista de abas de seus outros dispositivos.
-
 appmenu-remote-tabs-opensettings =
     .label = Configurações
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Quer ver aqui suas abas de outros dispositivos?
-
 appmenu-remote-tabs-connectdevice =
     .label = Conectar outro dispositivo
 appmenu-remote-tabs-welcome = Veja uma lista de abas de seus outros dispositivos.
 appmenu-remote-tabs-unverified = Sua conta precisa ser verificada.
-
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar agora
 appmenuitem-fxa-sign-in = Entrar no { -brand-product-name }
 appmenuitem-fxa-manage-account = Gerenciar conta
@@ -114,14 +101,12 @@ appmenu-fxa-sync-and-save-data2 = Sincronizar e salvar dados
 appmenu-fxa-signed-in-label = Entrar
 appmenu-fxa-setup-sync =
     .label = Ativar sincronização…
-
 appmenuitem-save-page =
     .label = Salvar página como…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Novidades
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -135,53 +120,38 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Analisador
     .tooltiptext = Gravar uma análise de desempenho
-
 profiler-popup-button-recording =
     .label = Analisador
     .tooltiptext = O analisador de desempenho está gravando um profile
-
 profiler-popup-button-capturing =
     .label = Analisador
     .tooltiptext = O analisador de desempenho está capturando um profile
-
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Revelar mais informações
-
 profiler-popup-description-title =
     .value = Grave, analise, compartilhe
-
 profiler-popup-description = Colabore em questões de desempenho publicando profiles para compartilhar com sua equipe.
-
 profiler-popup-learn-more-button =
     .label = Saiba mais
-
 profiler-popup-settings =
     .value = Configurações
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Editar configurações…
-
 profiler-popup-recording-screen = Gravando…
-
 profiler-popup-start-recording-button =
     .label = Iniciar gravação
-
 profiler-popup-discard-button =
     .label = Descartar
-
 profiler-popup-capture-button =
     .label = Capturar
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -199,23 +169,18 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Ajuste prévio recomendado para depuração da maioria dos aplicativos web, com pouca sobrecarga.
 profiler-popup-presets-web-developer-label =
     .label = Desenvolvimento web
-
 profiler-popup-presets-firefox-description = Predefinição recomendada para gravação de profile no { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-
 profiler-popup-presets-graphics-description = Predefinição para investigar bugs gráficos no { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Gráficos
-
 profiler-popup-presets-media-description2 = Predefinição para investigar bugs de áudio e vídeo no { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Mídia
-
 profiler-popup-presets-networking-description = Predefinição para investigar bugs de rede no { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rede
-
 profiler-popup-presets-custom-label =
     .label = Personalizado
 
@@ -278,7 +243,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personalizar barra de ferramentas…
-
 appmenu-developer-tools-subheader = Ferramentas do navegador
 appmenu-developer-tools-extensions =
     .label = Extensões para desenvolvedores
