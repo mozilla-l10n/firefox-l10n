@@ -496,6 +496,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Pytańske wuraze zapódaś
     .aria-label = Rejtariki pśepytaś
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Pytańske wuraze zapódaś
+    .aria-label = Akcije pytaś
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
