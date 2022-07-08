@@ -802,7 +802,7 @@ navbar-accessible =
 navbar-downloads =
     .label = Downloads
 navbar-overflow =
-    .tooltiptext = Mais ferramentas…
+    .tooltiptext = Menu expandido
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
