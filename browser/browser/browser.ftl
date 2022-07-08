@@ -38,6 +38,39 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (사생활 보호 모드)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (사생활 보호 모드)
+# These are the default window titles everywhere except macOS. The first two
+# attributes are used when the web content opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } 사생활 보호 모드
+    .data-content-title-default = { $content-title } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } 사생활 보호 모드
+# These are the default window titles on macOS. The first two are for use when
+# there is no content title:
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Do not use the brand name in the last two attributes, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — 사생활 보호 모드
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — 사생활 보호 모드
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -123,6 +156,7 @@ urlbar-tabtosearch-onboard = 더 빨리 찾으려면 여기에서 하세요.
 urlbar-search-mode-bookmarks = 북마크
 urlbar-search-mode-tabs = 탭
 urlbar-search-mode-history = 기록
+urlbar-search-mode-actions = 작업
 
 ##
 
@@ -223,6 +257,18 @@ search-one-offs-tabs =
     .tooltiptext = 탭 ({ $restrict })
 search-one-offs-history =
     .tooltiptext = 기록 ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = 작업 ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+
+quickactions-clear = 기록 지우기
+quickactions-print = 인쇄
+quickactions-screenshot = 스크린샷 찍기
+quickactions-settings = 설정 열기
+quickactions-downloads = 다운로드 열기
+quickactions-viewsource = 소스 보기
+quickactions-inspector = 검사기 열기
 
 ## Bookmark Panel
 
