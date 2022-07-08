@@ -38,6 +38,39 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Priwatny modus)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Priwatny modus)
+# These are the default window titles everywhere except macOS. The first two
+# attributes are used when the web content opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = Priwatny modus { -brand-full-name }
+    .data-content-title-default = { $content-title } – { -brand-full-name }
+    .data-content-title-private = Priwatny modus { $content-title } – { -brand-full-name }
+# These are the default window titles on macOS. The first two are for use when
+# there is no content title:
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Do not use the brand name in the last two attributes, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } – priwatny modus
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } – priwatny modus
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -123,6 +156,7 @@ urlbar-tabtosearch-onboard = Wubjeŕśo toś to zwězanje, aby malsnjej namakał
 urlbar-search-mode-bookmarks = Cytańske znamjenja
 urlbar-search-mode-tabs = Rejtariki
 urlbar-search-mode-history = Historija
+urlbar-search-mode-actions = Akcije
 
 ##
 
@@ -223,6 +257,21 @@ search-one-offs-tabs =
     .tooltiptext = Rejariki ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Historija ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Akcije ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+
+quickactions-clear = Historiju wulašowaś
+quickactions-print = Śišćaś
+quickactions-screenshot = Foto wobrazowki cyniś
+quickactions-settings = Nastajenja wócyniś
+quickactions-downloads = Ześěgnjenja wócyniś
+quickactions-viewsource = Žrědłowy kod pokazaś
+quickactions-inspector = Inspektor wócyniś
+quickactions-refresh = { -brand-short-name } wótnowiś
+quickactions-restart = { -brand-short-name } znowego startowaś
+quickactions-update = { -brand-short-name } aktualizěrowaś
 
 ## Bookmark Panel
 
