@@ -260,6 +260,6 @@ newtab-custom-pocket-subtitle = { -brand-product-name } 제품군의 일부인 {
 newtab-custom-pocket-sponsored = 스폰서 소식
 newtab-custom-pocket-show-recent-saves = 최근 저장한 항목 표시
 newtab-custom-recent-title = 최근 활동
-newtab-custom-recent-subtitle = 최근 사이트 및 콘텐츠 선택
+newtab-custom-recent-subtitle = 최근 사이트 및 콘텐츠 모음
 newtab-custom-close-button = 닫기
 newtab-custom-settings = 더 많은 설정 관리
