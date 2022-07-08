@@ -38,6 +38,20 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navigation private)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navigation private)
+# These are the default window titles everywhere except macOS. The first two
+# attributes are used when the web content opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } Navigation private
+    .data-content-title-default = { $content-title } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } Navigation private
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -223,6 +237,9 @@ search-one-offs-tabs =
     .tooltiptext = Schedas ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Chronologia ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+
 
 ## Bookmark Panel
 
