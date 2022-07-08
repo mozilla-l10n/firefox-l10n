@@ -16,7 +16,7 @@
 <!ENTITY color.label                      "Color:">
 <!ENTITY color.accesskey                  "C">
 <!ENTITY displayPlainText.caption         "Mensajes en texto plano">
-<!ENTITY fontPlainText.label              "Font:">
+<!ENTITY fontPlainText.label              "Tipografía:">
 <!ENTITY fontPlainText.accesskey          "F">
 <!ENTITY displayQuoted.label              "Opciones para mensajes citados:">
 <!ENTITY wrapInMsg.label                  "Ajustar texto al ancho de la ventana">
