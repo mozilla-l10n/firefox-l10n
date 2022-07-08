@@ -80,6 +80,8 @@ perftools-thread-render-backend =
     .title = Vlákno WebRender RenderBackend
 perftools-thread-paint-worker =
     .title = Ak je povolené vykresľovanie mimo hlavného vlákna, ide o vlákno, v ktorom sa vykresľovanie uskutočňuje
+perftools-thread-timer =
+    .title = Časovače spracovania vlákien (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = Výpočty pre štýly sú rozdelené do viacerých vlákien
 pref-thread-stream-trans =
@@ -112,16 +114,9 @@ perftools-tools-threads-input-label =
     .title = Tieto názvy vlákien sú zoznamom oddeleným čiarkami, ktorý sa používa na povolenie profilovania vlákien v nástroji na profilovanie. Názov môže obsahovať iba časť názvu vlákna. Pozor na medzery.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Novinka</b>: { -profiler-brand-name } je teraz integrovaný do Nástrojov pre vývojárov. <a>Pozrite si ďalšie informácie</a> o tomto novom výkonnom nástroji.
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (Na obmedzený čas máte prístup k pôvodnému panelu Výkon prostredníctvom položky <a>{ options-context-advanced-settings }</a>)
 perftools-onboarding-close-button =
     .aria-label = Zavrieť informačnú správu
 

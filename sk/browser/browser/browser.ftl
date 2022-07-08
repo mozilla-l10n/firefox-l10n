@@ -68,7 +68,7 @@ browser-main-window-window-titles =
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } —  Súkromné prehliadanie
+    .data-title-private = { -brand-full-name } — Súkromné prehliadanie
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Súkromné prehliadanie
 # This gets set as the initial title, and is overridden as soon as we start
