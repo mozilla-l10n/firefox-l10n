@@ -68,14 +68,18 @@ policy-ExtensionSettings = Ҳамаи тарафҳои насбкунии вас
 policy-ExtensionUpdate = Навсозиҳои худкори васеъшавиро фаъол ё ғайрифаъол мекунад.
 policy-FirefoxHome = Танзим кардани саҳифаи асосии Firefox.
 policy-FlashPlugin = Барои истифодаи плагини «Flash» иҷозат медиҳад ё онро манъ мекунад.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Гузариши маҷбурии мустақим ба сомонаи шабакаи дохилӣ ба ивази амали ҷустуҷӯ ҳангоми воридкунии калимаҳои алоҳида дар навори нишонӣ.
 policy-Handlers = Коркарди пешфарзи барномаро танзим мекунад.
 policy-HardwareAcceleration = Дар ҳолати «false» суръатафзои сахтафзор хомӯш карда мешавад.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Саҳифаи асосиро танзим мекунад ва ивази онро ба таври дилхоҳ қулф мекунад.
 policy-InstallAddonsPermission = Ба баъзе сомонаҳо иҷозат медиҳад, ки тавонанд ҷузъҳои иловагиро насб кунанд.
+policy-LegacyProfiles = Хусусиятеро ғайрифаъол мекунад, ки профили алоҳидаро барои ҳар як насб маҷбуран эҷод мекунад.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Ба таври пешфарз фаъол кардани танзими рафтори куҳнашудаи кукии «SameSite».
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Барқарор кардани рафтори куҳнаи кукии «SameSite» барои сомонаҳои муайяншуда.
 
 ##
 
