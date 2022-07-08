@@ -53,8 +53,6 @@ about-addressbook-search =
     .placeholder = Search { $name }
 about-addressbook-search-all =
     .placeholder = Search all address books
-about-addressbook-sort-button =
-    .title = Change the list order
 about-addressbook-name-format-display =
     .label = Display Name
 about-addressbook-name-format-firstlast =
@@ -73,6 +71,22 @@ about-addressbook-sort-email-descending =
 ## Card column headers
 ## Each string is listed here twice, and the values should match.
 
+about-addressbook-column-label-generatedname =
+    .label = { about-addressbook-column-header-generatedname }
+about-addressbook-column-label-emailaddresses =
+    .label = { about-addressbook-column-header-emailaddresses }
+about-addressbook-column-label-phonenumbers =
+    .label = { about-addressbook-column-header-phonenumbers }
+about-addressbook-column-label-addresses =
+    .label = { about-addressbook-column-header-addresses }
+about-addressbook-column-label-title =
+    .label = { about-addressbook-column-header-title }
+about-addressbook-column-label-department =
+    .label = { about-addressbook-column-header-department }
+about-addressbook-column-label-organization =
+    .label = { about-addressbook-column-header-organization }
+about-addressbook-column-label-addrbook =
+    .label = { about-addressbook-column-header-addrbook }
 about-addressbook-cards-context-write =
     .label = Write
 about-addressbook-confirm-delete-mixed-title = Delete Contacts and Lists
@@ -126,6 +140,10 @@ about-addressbook-confirm-delete-contacts =
        *[other] Are you sure you want to delete these { $count } contacts?
     }
 
+## Card list placeholder
+## Shown when there are no cards in the list
+
+
 ## Details
 
 about-addressbook-begin-edit-contact-button = Edit
@@ -133,19 +151,17 @@ about-addressbook-cancel-edit-contact-button = Cancel
 about-addressbook-save-edit-contact-button = Save
 about-addressbook-details-email-addresses-header = Email Addresses
 about-addressbook-details-phone-numbers-header = Phone Numbers
-about-addressbook-details-home-address-header = Home Address
-about-addressbook-details-work-address-header = Work Address
 about-addressbook-details-notes-header = Notes
 about-addressbook-details-other-info-header = Other Information
 about-addressbook-entry-type-work = Work
 about-addressbook-entry-type-home = Home
 about-addressbook-entry-type-fax = Fax
+# Or "Mobile"
 about-addressbook-entry-type-cell = Cell
 about-addressbook-entry-type-pager = Pager
 about-addressbook-entry-name-birthday = Birthday
 about-addressbook-entry-name-anniversary = Anniversary
 about-addressbook-entry-name-title = Title
-about-addressbook-entry-name-department = Department
 about-addressbook-entry-name-organization = Organization
 about-addressbook-entry-name-website = Website
 about-addressbook-entry-name-time-zone = Time Zone
