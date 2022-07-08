@@ -12,7 +12,6 @@ videocontrols-volume-control =
     .aria-label = Hlasitosť
 videocontrols-closed-caption-button =
     .aria-label = Titulky
-
 videocontrols-play-button =
     .aria-label = Prehrať
 videocontrols-pause-button =
@@ -29,20 +28,23 @@ videocontrols-casting-button-label =
     .aria-label = Prehrať na obrazovke
 videocontrols-closed-caption-off =
     .offlabel = Vypnuté
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Obraz v obraze
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = Sledovať ako obraz v obraze
-
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Prehrávajte videá v popredí a zároveň robte v aplikácii { -brand-short-name } kľudne niečo iné
-
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label2 = Presunúť video do samostatného okna
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer2 = Viac okien znamená viac zábavy. Počas prehliadania si môžete toto video prehrať v režime Obraz v obraze.
 videocontrols-error-aborted = Načítavanie videa zastavené.
 videocontrols-error-network = Prehrávanie videa bolo prerušené kvôli chybe siete.
 videocontrols-error-decode = Video nemôže byť prehraté, pretože súbor je poškodený.
@@ -50,7 +52,6 @@ videocontrols-error-src-not-supported = Formát videa alebo typ MIME nie je podp
 videocontrols-error-no-source = Nebolo nájdené video s podporovaným formátom a typom MIME.
 videocontrols-error-generic = Prehrávanie videa bolo prerušené kvôli neznámej chybe.
 videocontrols-status-picture-in-picture = Toto video sa prehráva ako obraz v obraze.
-
 # This message shows the current position and total video duration
 #
 # Variables:
