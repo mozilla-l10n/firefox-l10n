@@ -412,6 +412,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = Doplnok { $name } nie je kompatibilný s verziou { $version } aplikácie { -brand-short-name }.
+details-notification-incompatible-link = Ďalšie informácie
 details-notification-unsigned-and-disabled = Doplnok { $name } nemohol byť overený pre použitie v prehliadači { -brand-short-name } a bol preto zakázaný.
 details-notification-unsigned-and-disabled-link = Ďalšie informácie
 details-notification-unsigned = Doplnok { $name } nemohol byť overený pre použitie v prehliadači { -brand-short-name }. Pokračujte opatrne.
