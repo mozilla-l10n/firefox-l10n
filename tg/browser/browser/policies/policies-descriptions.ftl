@@ -87,6 +87,7 @@ policy-LocalFileLinks = Ба сомонаҳои махсус барои дода
 policy-ManagedBookmarks = Рӯйхати хатбаракҳоеро танзим мекунад, ки аз ҷониби маъмур идора карда мешавад, аммо аз тарафи корбар иваз карда намешавад.
 policy-ManualAppUpdateOnly = Иҷозат додан танҳо ба навсозиҳои дастӣ ва огоҳ накардани корбар дар бораи навсозиҳо.
 policy-PrimaryPassword = Талаб кардан ё манъ кардани истифодаи ниҳонвожаи асосӣ.
+policy-NetworkPrediction = Фаъол ё ғайрифаъол кардани пешбинии шабака (интихоби пешдастии DNS).
 policy-NewTabPage = Саҳифаи варақаи навро фаъол ё ғайрифаъол мекунад.
 # PDF.js and PDF should not be translated
 policy-PDFjs = PDF.js, намоишгари PDF-и дарунсохтро дар { -brand-short-name } ғайрифаъол мекунад ё онро танзим менамояд.
