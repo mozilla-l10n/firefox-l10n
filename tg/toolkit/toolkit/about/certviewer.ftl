@@ -60,6 +60,7 @@ certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = Рақами силсилавӣ
 certificate-viewer-signature-algorithm = Алгоритми имзо
 certificate-viewer-signature-scheme = Нақшаи имзо
+certificate-viewer-timestamp = Тамғаи вақт
 certificate-viewer-value = Қимат
 certificate-viewer-version = Силсила
 certificate-viewer-business-category = Навъи тиҷорат
@@ -70,6 +71,16 @@ certificate-viewer-subject-alt-names = Номи иловагии воҳид
 certificate-viewer-public-key-info = Маълумот оид ба калиди ҷамъиятӣ
 certificate-viewer-miscellaneous = Гуногун
 certificate-viewer-fingerprints = Нақшҳои ангушт
+certificate-viewer-basic-constraints = Маҳдудиятҳои асосӣ
+certificate-viewer-key-usages = Истифодабарии калид
+certificate-viewer-extended-key-usages = Калиди такмилёфта
+certificate-viewer-ocsp-stapling = Устуворсозии OCSP
+certificate-viewer-subject-key-id = Рақами мушаххаси калиди субъект
+certificate-viewer-authority-key-id = Рақами мушаххаси калиди маркази иҷозатномадиҳӣ
+certificate-viewer-authority-info-aia = Маълумот дар бораи маркази иҷозатномадиҳӣ (AIA)
+certificate-viewer-certificate-policies = Сиёсатҳои гувоҳинома
+certificate-viewer-embedded-scts = Рӯйхати SCT
+certificate-viewer-crl-endpoints = Нуқтаҳои паҳнкунии CRL
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Боргирӣ кардан
