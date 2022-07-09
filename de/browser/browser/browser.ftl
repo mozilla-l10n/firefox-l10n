@@ -268,6 +268,10 @@ quickactions-screenshot = Bildschirmfoto aufnehmen
 quickactions-settings = Einstellungen öffnen
 quickactions-downloads = Downloads öffnen
 quickactions-viewsource = Quelltext anzeigen
+quickactions-inspector = Inspektor öffnen
+quickactions-refresh = { -brand-short-name } bereinigen
+quickactions-restart = { -brand-short-name } neu starten
+quickactions-update = { -brand-short-name } aktualisieren
 
 ## Bookmark Panel
 
