@@ -100,6 +100,9 @@ certificate-viewer-download-pem = PEM (гувоҳинома)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (занҷир)
     .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Ин васеъшавӣ ҳамҷум танқидӣ қайд карда шудааст, ва агар муштариён гувоҳиномаро нафаҳманд, онҳо бояд онро рад кунанд.
 certificate-viewer-export = Содир кардан
     .download = { $fileName }.pem
 
