@@ -269,6 +269,9 @@ quickactions-settings = Открыть настройки
 quickactions-downloads = Открыть загрузки
 quickactions-viewsource = Показать исходник
 quickactions-inspector = Открыть инспектор
+quickactions-refresh = Очистить { -brand-short-name }
+quickactions-restart = Перезапустить { -brand-short-name }
+quickactions-update = Обновить { -brand-short-name }
 
 ## Bookmark Panel
 
@@ -487,6 +490,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Введите поисковый запрос
     .aria-label = Поиск во вкладках
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Введите поисковый запрос
+    .aria-label = Поисковые действия
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
