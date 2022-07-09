@@ -29,6 +29,7 @@ certificate-viewer-other-name = Номи дигар
 certificate-viewer-exponent = Нишондиҳандаи дараҷа
 certificate-viewer-id = Рақами мушаххас
 certificate-viewer-key-exchange-group = Гурӯҳи мубодилаи калидҳо
+certificate-viewer-key-id = Рақами мушаххаси калид
 certificate-viewer-key-size = Андозаи калид
 certificate-viewer-location = Ҷойгиршавӣ
 certificate-viewer-method = Усул
