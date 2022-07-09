@@ -107,10 +107,12 @@ policy-Proxy = Хусусиятҳои проксиро танзим мекуна
 policy-RequestedLocales = Рӯйхати забонҳои дархостшударо барои барнома бо тартиби бартарӣ танзим мекунад.
 policy-SanitizeOnShutdown2 = Ҳангоми пӯшидани браузер иттилооти тамошоро тоза мекунад.
 policy-SearchBar = Ҷойгиршавии навори ҷустуҷӯро ба сурати пешфарз танзим мекунад. Бо вуҷуди ин, корбар метавонад ҷойгиршавиро ба таври дилхоҳ танзим намояд.
+policy-SearchEngines = Танзимоти низоми ҷустуҷӯиро танзим мекунад. Ин сиёсат танҳо дар версияи браузер бо нашри дастгирии тӯлонӣ (ESR) дастрас аст.
 policy-SearchSuggestEnabled = Пешниҳодҳои ҷустуҷӯро фаъол ё ғайрифаъол мекунад.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Модулҳои «PKCS #11»-ро насб мекунад.
 policy-ShowHomeButton = Намоиш додани тугмаи «Асосӣ» дар навори абзорҳо.
 policy-SSLVersionMax = Версия ҳадди аксари SSL-ро танзим мекунад.
 policy-SSLVersionMin = Версия ҳадди ақали SSL-ро танзим мекунад.
+policy-StartDownloadsInTempDirectory = Боргириҳоро маҷбур мекунад, то ки онҳо дар ҷойгиршавии муваққатии маҳаллӣ ба ивази феҳристи пешфарз оғоз карда шаванд.
 policy-Windows10SSO = Иҷозат додани воридшавии ягонаи Windows барои ҳисобҳои Microsoft, корӣ ва мактабӣ.
