@@ -160,6 +160,9 @@ spotlight-total-cookie-protection-expanded = { -brand-short-name } огораж�
 spotlight-total-cookie-protection-primary-button = Включить Полную защиту от кук
 spotlight-total-cookie-protection-secondary-button = Не сейчас
 cfr-total-cookie-protection-header = Благодаря вам, { -brand-short-name } стал более приватным и безопасным, чем когда-либо.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = Полная защита от кук — это наше самое надёжное средство защиты приватности, и теперь оно по умолчанию включено для пользователей { -brand-short-name } во всём мире. Мы не смогли бы сделать это без таких как вы — участников раннего доступа. Спасибо за помощь в создании лучшего и более приватного Интернета.
 
 ## Emotive Continuous Onboarding
 
