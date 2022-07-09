@@ -115,4 +115,7 @@ policy-ShowHomeButton = Намоиш додани тугмаи «Асосӣ» д
 policy-SSLVersionMax = Версия ҳадди аксари SSL-ро танзим мекунад.
 policy-SSLVersionMin = Версия ҳадди ақали SSL-ро танзим мекунад.
 policy-StartDownloadsInTempDirectory = Боргириҳоро маҷбур мекунад, то ки онҳо дар ҷойгиршавии муваққатии маҳаллӣ ба ивази феҳристи пешфарз оғоз карда шаванд.
+policy-SupportMenu = Унсури фармоишии менюи дастгириро ба менюи кумак илова мекунад.
+policy-UserMessaging = Имкон медиҳад, ки баъзе паёмҳо ба корбар нишон дода нашаванд.
+policy-UseSystemPrintDialog = Барои чоп аз равзанаи гуфтугӯи низомии чоп истифода мебарад.
 policy-Windows10SSO = Иҷозат додани воридшавии ягонаи Windows барои ҳисобҳои Microsoft, корӣ ва мактабӣ.
