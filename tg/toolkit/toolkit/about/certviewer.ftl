@@ -12,6 +12,7 @@ certificate-viewer-error-title = Чизе нодуруст иҷро шуд.
 
 certificate-viewer-algorithm = Алгоритм
 certificate-viewer-certificate-authority = Мақомоти иҷозатномадиҳанда
+certificate-viewer-cipher-suite = Маҷмӯи рамзҳо
 certificate-viewer-common-name = Номи умумӣ
 certificate-viewer-email-address = Нишонии почтаи электронӣ
 # Variables:
@@ -20,18 +21,29 @@ certificate-viewer-tab-title = Гувоҳинома барои { $firstCertName 
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Кишвари шахси ҳуқуқӣ
 certificate-viewer-country = Кишвар
+certificate-viewer-curve = Хати каҷ
+certificate-viewer-distribution-point = Нуқтаи паҳнкунӣ
 certificate-viewer-dns-name = Номи DNS
 certificate-viewer-ip-address = Нишонии IP
 certificate-viewer-other-name = Номи дигар
+certificate-viewer-exponent = Нишондиҳандаи дараҷа
+certificate-viewer-id = Рақами мушаххас
+certificate-viewer-key-exchange-group = Гурӯҳи мубодилаи калидҳо
 certificate-viewer-key-size = Андозаи калид
 certificate-viewer-location = Ҷойгиршавӣ
 certificate-viewer-method = Усул
 certificate-viewer-modulus = Модул
 certificate-viewer-name = Ном
 certificate-viewer-not-after = Боэътибор то
+certificate-viewer-not-before = Боэътибор аз
 certificate-viewer-organization = Ташкилот
+certificate-viewer-organizational-unit = Воҳиди ташкилотӣ
 certificate-viewer-policy = Сиёсат
 certificate-viewer-protocol = Протокол
+certificate-viewer-public-value = Қимати ҷамъиятӣ
+certificate-viewer-purposes = Таъинот
+certificate-viewer-qualifier = Тавсифгар
+certificate-viewer-qualifiers = Тавсифгарон
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = Рақами силсилавӣ
