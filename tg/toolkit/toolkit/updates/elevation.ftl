@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # This is temporary until bug 1521632 is fixed
 
+elevation-update-wizard =
+    .title = Насвозии нармафзор
 elevation-details-link-label =
     .value = Тафсилот
+elevation-finished-page = Навсозӣ барои насб омода аст
 elevation-finished-background = Навсозӣ:
