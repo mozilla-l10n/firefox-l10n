@@ -6,6 +6,7 @@ certificate-viewer-certificate-section-title = Гувоҳинома
 
 ## Error messages
 
+certificate-viewer-error-message = Маълумот дар бораи гувоҳинома ёфт нашуд ё ин ки гувоҳинома вайрон аст. Лутфан, аз нав кӯшиш кунед.
 certificate-viewer-error-title = Чизе нодуруст иҷро шуд.
 
 ## Certificate information labels
@@ -31,7 +32,11 @@ certificate-viewer-id = Рақами мушаххас
 certificate-viewer-key-exchange-group = Гурӯҳи мубодилаи калидҳо
 certificate-viewer-key-id = Рақами мушаххаси калид
 certificate-viewer-key-size = Андозаи калид
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Нишонии ҳуқуқӣ
+certificate-viewer-locality = Нишонӣ
 certificate-viewer-location = Ҷойгиршавӣ
+certificate-viewer-logid = Рақами мушаххаси сабт
 certificate-viewer-method = Усул
 certificate-viewer-modulus = Модул
 certificate-viewer-name = Ном
@@ -45,9 +50,16 @@ certificate-viewer-public-value = Қимати ҷамъиятӣ
 certificate-viewer-purposes = Таъинот
 certificate-viewer-qualifier = Тавсифгар
 certificate-viewer-qualifiers = Тавсифгарон
+certificate-viewer-required = Ҳатмӣ аст
+certificate-viewer-unsupported = &lt;дастгирӣ намешавад&gt;
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-state-province = Минтақа/вилояти нишонии ҳуқуқӣ
+certificate-viewer-state-province = Минтақа/вилоят
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = Рақами силсилавӣ
+certificate-viewer-signature-algorithm = Алгоритми имзо
+certificate-viewer-signature-scheme = Нақшаи имзо
 certificate-viewer-value = Қимат
 certificate-viewer-version = Силсила
 certificate-viewer-business-category = Навъи тиҷорат
