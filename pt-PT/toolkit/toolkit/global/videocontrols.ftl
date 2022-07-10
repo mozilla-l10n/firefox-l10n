@@ -38,6 +38,9 @@ videocontrols-picture-in-picture-toggle-label = Ver o vídeo numa janela flutuan
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Reproduzir vídeo em primeiro plano enquanto faz outras coisas no { -brand-short-name }
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label2 = Fazer este vídeo saltar
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
