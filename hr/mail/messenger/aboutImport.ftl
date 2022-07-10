@@ -168,6 +168,13 @@ summary-pane-start-over = Ponovno pokrenite alat za uvoz
 footer-help = Trebaš pomoć?
 footer-import-documentation = Uvozna dokumentacija
 footer-export-documentation = Izvozna dokumentacija
+footer-support-forum = Forum podrške
 
 ## Step navigation on top of the wizard pages
 
+step-list =
+    .aria-label = Koraci uvoza
+step-confirm = Potvrdi
+# Variables:
+# $number (number) - step number
+step-count = { $number }
