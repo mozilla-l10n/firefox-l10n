@@ -9,12 +9,27 @@ export-page-title = Izvoz
 
 import-start = Alat za uvoz
 import-start-title = Uvezi postavke ili podatke iz aplikacije ili datoteke.
+import-start-description = Odaberite izvor iz kojeg želite uvesti. Kasnije ćemo vas pitati koje podatke želite uvesti.
+import-from-app = Uvoz iz aplikacije
+import-file = Uvoz iz datoteke
+import-file-title = Odaberite datoteku za uvoz sadržaja.
+import-file-description = Odaberite za uvoz prethodno spremljenog profila, adresara ili kalendara.
+import-address-book-title = Uvezi datoteku adresara
+import-calendar-title = Uvezi datoteku kalendara
+export-profile = Izvoz
 
 ## Buttons
 
+button-back = Nazad
+button-continue = Nastavi
+button-export = Izvezi
+button-finish = Završi
 
 ## Import from app steps
 
+app-name-thunderbird = Thunderbird
+app-name-seamonkey = SeaMonkey
+app-name-outlook = Outlook
 
 ## Import from file selections
 
