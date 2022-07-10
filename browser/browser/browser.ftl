@@ -156,6 +156,7 @@ urlbar-tabtosearch-onboard = 一键直达，高效搜索。
 urlbar-search-mode-bookmarks = 书签
 urlbar-search-mode-tabs = 标签页
 urlbar-search-mode-history = 历史记录
+urlbar-search-mode-actions = 操作
 
 ##
 
@@ -256,6 +257,8 @@ search-one-offs-tabs =
     .tooltiptext = 标签页（{ $restrict }）
 search-one-offs-history =
     .tooltiptext = 历史记录（{ $restrict }）
+search-one-offs-actions =
+    .tooltiptext = 操作（{ $restrict }）
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
@@ -265,6 +268,8 @@ quickactions-screenshot = 截图
 quickactions-settings = 打开设置
 quickactions-downloads = 打开下载
 quickactions-viewsource = 查看源代码
+quickactions-inspector = 打开查看器
+quickactions-refresh = 翻新 { -brand-short-name }
 quickactions-restart = 重启 { -brand-short-name }
 quickactions-update = 更新 { -brand-short-name }
 
@@ -476,6 +481,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = 输入搜索词
     .aria-label = 搜索标签页
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = 输入搜索词
+    .aria-label = 搜索操作
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
