@@ -264,6 +264,11 @@ search-one-offs-actions =
 
 quickactions-clear = Limpiar historial
 quickactions-print = Imprimir
+quickactions-screenshot = Hacer una captura de pantalla
+quickactions-settings = Abrir ajustes
+quickactions-downloads = Abrir descargas
+quickactions-viewsource = Ver código fuente
+quickactions-inspector = Abrir inspector
 
 ## Bookmark Panel
 
