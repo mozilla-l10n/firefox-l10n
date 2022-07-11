@@ -123,6 +123,7 @@ urlbar-tabtosearch-onboard = Pilih pintasan ini untuk menemukan lebih cepat apa 
 urlbar-search-mode-bookmarks = Markah
 urlbar-search-mode-tabs = Tab
 urlbar-search-mode-history = Riwayat
+urlbar-search-mode-actions = Aksi
 
 ##
 
@@ -223,6 +224,19 @@ search-one-offs-tabs =
     .tooltiptext = Tab ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Riwayat ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+
+quickactions-clear = Bersihkan riwayat
+quickactions-print = Cetak
+quickactions-screenshot = Ambil tangkapan layar
+quickactions-settings = Buka Pengaturan
+quickactions-downloads = Buka Unduhan
+quickactions-viewsource = Lihat Sumber
+quickactions-inspector = Buka Pemeriksa
+quickactions-refresh = Segarkan { -brand-short-name }
+quickactions-restart = Mulai Ulang { -brand-short-name }
+quickactions-update = Perbarui { -brand-short-name }
 
 ## Bookmark Panel
 
@@ -784,3 +798,5 @@ data-reporting-notification-message = { -brand-short-name } mengirimkan beberapa
 data-reporting-notification-button =
     .label = Pilih yang Saya Bagikan
     .accesskey = P
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Penjelajahan pribadi
