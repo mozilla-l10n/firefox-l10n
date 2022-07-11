@@ -38,6 +38,39 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Privénavigatie)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Privénavigatie)
+# These are the default window titles everywhere except macOS. The first two
+# attributes are used when the web content opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name }-privénavigatie
+    .data-content-title-default = { $content-title } – { -brand-full-name }
+    .data-content-title-private = { $content-title } – { -brand-full-name }-privénavigatie
+# These are the default window titles on macOS. The first two are for use when
+# there is no content title:
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Do not use the brand name in the last two attributes, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } – Privénavigatie
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } – Privénavigatie
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -123,6 +156,7 @@ urlbar-tabtosearch-onboard = Selecteer deze snelkoppeling om sneller te vinden w
 urlbar-search-mode-bookmarks = Bladwijzers
 urlbar-search-mode-tabs = Tabbladen
 urlbar-search-mode-history = Geschiedenis
+urlbar-search-mode-actions = Acties
 
 ##
 
@@ -223,6 +257,21 @@ search-one-offs-tabs =
     .tooltiptext = Tabbladen ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Geschiedenis ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Acties ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+
+quickactions-clear = Geschiedenis wissen
+quickactions-print = Afdrukken
+quickactions-screenshot = Een schermafbeelding maken
+quickactions-settings = Instellingen openen
+quickactions-downloads = Downloads openen
+quickactions-viewsource = Bron bekijken
+quickactions-inspector = Inspector openen
+quickactions-refresh = { -brand-short-name } opfrissen
+quickactions-restart = { -brand-short-name } herstarten
+quickactions-update = { -brand-short-name } bijwerken
 
 ## Bookmark Panel
 
@@ -439,6 +488,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Voer zoektermen in
     .aria-label = Zoeken in tabbladen
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Voer zoektermen in
+    .aria-label = Zoekacties
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
