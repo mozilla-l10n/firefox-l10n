@@ -123,6 +123,7 @@ urlbar-tabtosearch-onboard = Sélectionnez ce raccourci pour trouver plus rapide
 urlbar-search-mode-bookmarks = Marque-pages
 urlbar-search-mode-tabs = Onglets
 urlbar-search-mode-history = Historique
+urlbar-search-mode-actions = Actions
 
 ##
 
@@ -223,6 +224,19 @@ search-one-offs-tabs =
     .tooltiptext = Onglets ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Historique ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+
+quickactions-clear = Effacer l’historique
+quickactions-print = Imprimer
+quickactions-screenshot = Effectuer une capture d’écran
+quickactions-settings = Ouvrir les paramètres
+quickactions-downloads = Ouvrir les téléchargements
+quickactions-viewsource = Afficher la source
+quickactions-inspector = Ouvrir l’inspecteur
+quickactions-refresh = Réparer { -brand-short-name }
+quickactions-restart = Redémarrer { -brand-short-name }
+quickactions-update = Mettre à jour { -brand-short-name }
 
 ## Bookmark Panel
 
@@ -791,3 +805,5 @@ data-reporting-notification-message = { -brand-short-name } envoie automatiqueme
 data-reporting-notification-button =
     .label = Choisir ce que j’envoie
     .accesskey = C
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Navigation privée
