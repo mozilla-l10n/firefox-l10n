@@ -76,6 +76,7 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+private-browsing-shortcut-text = { -brand-short-name } Private Browsing
 
 ##
 
@@ -155,6 +156,7 @@ urlbar-tabtosearch-onboard = Select this shortcut to find what you need faster.
 urlbar-search-mode-bookmarks = Bookmarks
 urlbar-search-mode-tabs = Tabs
 urlbar-search-mode-history = History
+urlbar-search-mode-actions = Actions
 
 ##
 
@@ -255,9 +257,21 @@ search-one-offs-tabs =
     .tooltiptext = Tabs ({ $restrict })
 search-one-offs-history =
     .tooltiptext = History ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Actions ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
+quickactions-clear = Clear history
+quickactions-print = Print
+quickactions-screenshot = Take a screenshot
+quickactions-settings = Open Settings
+quickactions-downloads = Open Downloads
+quickactions-viewsource = View Source
+quickactions-inspector = Open Inspector
+quickactions-refresh = Refresh { -brand-short-name }
+quickactions-restart = Restart { -brand-short-name }
+quickactions-update = Update { -brand-short-name }
 
 ## Bookmark Panel
 
@@ -471,6 +485,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Enter search terms
     .aria-label = Search tabs
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Enter search terms
+    .aria-label = Search actions
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -823,3 +841,5 @@ data-reporting-notification-message = { -brand-short-name } automatically sends 
 data-reporting-notification-button =
     .label = Choose What I Share
     .accesskey = C
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Private browsing

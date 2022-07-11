@@ -83,6 +83,8 @@ perftools-thread-render-backend =
     .title = The WebRender RenderBackend thread
 perftools-thread-paint-worker =
     .title = When off-main-thread painting is enabled, the thread on which painting happens
+perftools-thread-timer =
+    .title = The thread handling timers (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = Style computation is split into multiple threads
 pref-thread-stream-trans =
@@ -95,6 +97,18 @@ perftools-thread-dns-resolver =
     .title = DNS resolution happens on this thread
 perftools-thread-task-controller =
     .title = TaskController thread pool threads
+perftools-thread-jvm-gecko =
+    .title = The main Gecko JVM thread
+perftools-thread-jvm-nimbus =
+    .title = The main threads for the Nimbus experiments SDK
+perftools-thread-jvm-default-dispatcher =
+    .title = The Default dispatcher for the Kotlin coroutines library
+perftools-thread-jvm-glean =
+    .title = The main threads for the Glean telemetry SDK
+perftools-thread-jvm-arch-disk-io =
+    .title = The IO dispatcher for the Kotlin coroutines library
+perftools-thread-jvm-pool =
+    .title = Threads created in an unnamed thread pool
 
 ##
 
