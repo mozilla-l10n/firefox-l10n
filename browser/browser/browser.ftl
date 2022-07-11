@@ -488,6 +488,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Ingresar términos de búsqueda
     .aria-label = Buscar en pestañas
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Ingresar términos de búsqueda
+    .aria-label = Acciones de búsqueda
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
