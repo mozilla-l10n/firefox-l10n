@@ -6,6 +6,10 @@
 ### Notice: If you're updating this list, you should also
 ###         update the list in mozIntl.js.
 
+region-name-ad = Андорра
+region-name-ae = Амороти Муттаҳидаи Арабӣ
+region-name-af = Афгонистон
+region-name-ag = Антигуа ва Барбуда
 region-name-tw = Тайван
 region-name-uz = Ӯзбекистон
 region-name-vn = Ветнам
