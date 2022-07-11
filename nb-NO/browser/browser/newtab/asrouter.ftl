@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Anbefalt funksjon
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Hvorfor ser jeg dette
-
 cfr-doorhanger-extension-cancel-button = Ikke nå
     .accesskey = n
-
 cfr-doorhanger-extension-ok-button = Legg til nå
     .accesskey = e
-
 cfr-doorhanger-extension-manage-settings-button = Behandle anbefalingsinnstillinger
     .accesskey = B
-
 cfr-doorhanger-extension-never-show-recommendation = Ikke vis meg denne anbefalingen
     .accesskey = s
-
 cfr-doorhanger-extension-learn-more-link = Les mer
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = av { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Anbefaling
 cfr-doorhanger-extension-notification2 = Anbefaling
     .tooltiptext = Utvidelsesanbefaling
     .a11y-announcement = Utvidelsesanbefaling tilgjengelig
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Anbefaling
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = Les mer
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Ny funksjon:
-
 cfr-whatsnew-button =
     .label = Hva er nytt
     .tooltiptext = Hva er nytt
-
 cfr-whatsnew-release-notes-link-text = Les utgivelsesnotatene
 
 ## Enhanced Tracking Protection Milestones
@@ -165,6 +155,10 @@ spotlight-total-cookie-protection-body = Total beskyttelse mot infokapsler stopp
 spotlight-total-cookie-protection-expanded = { -brand-short-name }bygger et gjerde rundt infokapsler, og begrenser dem til nettstedet du er på, slik at sporere ikke kan bruke dem til å følge deg. Med tidlig tilgang hjelper du med å optimalisere denne funksjonen slik at vi kan fortsette å bygge et bedre nett for alle.
 spotlight-total-cookie-protection-primary-button = Slå på total beskyttelse mot infokapsler
 spotlight-total-cookie-protection-secondary-button = Ikke nå
+cfr-total-cookie-protection-header = Takket være deg er { -brand-short-name } mer privat og sikrere enn noen gang
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = Total beskyttelse mot infokapsler er vår sterkeste personvernbeskyttelse til nå – og den er nå en standardinnstilling for { -brand-short-name }-brukere overalt. Vi kunne ikke ha gjort det uten deltakere med tidlig tilgang som deg. Så takk for at du hjelper oss med å skape et bedre, mer privat internett.
 
 ## Emotive Continuous Onboarding
 
