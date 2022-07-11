@@ -123,6 +123,7 @@ urlbar-tabtosearch-onboard = Выберыце гэты ярлык, каб хут
 urlbar-search-mode-bookmarks = Закладкі
 urlbar-search-mode-tabs = Карткі
 urlbar-search-mode-history = Гісторыя
+urlbar-search-mode-actions = Дзеянні
 
 ##
 
@@ -223,6 +224,21 @@ search-one-offs-tabs =
     .tooltiptext = Карткі ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Гісторыя ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Дзеянні ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+
+quickactions-clear = Ачысціць гісторыю
+quickactions-print = Друкаваць
+quickactions-screenshot = Зрабіць здымак экрана
+quickactions-settings = Адкрыць налады
+quickactions-downloads = Адкрыць сцягванні
+quickactions-viewsource = Праглядзець зыходнік
+quickactions-inspector = Адкрыць інспектар
+quickactions-refresh = Ачысціць { -brand-short-name }
+quickactions-restart = Перазапусціць { -brand-short-name }
+quickactions-update = Абнавіць { -brand-short-name }
 
 ## Bookmark Panel
 
@@ -795,3 +811,5 @@ data-reporting-notification-message = { -brand-short-name } аўтаматычн
 data-reporting-notification-button =
     .label = Выбраць, чым дзяліцца
     .accesskey = В
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Прыватнае агляданне
