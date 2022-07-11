@@ -11,14 +11,15 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = បន្ថែម​ស្លាក
-
 pocket-panel-saved-error-generic = មាន​កំហុស ពេល​ព្យាយាម​រក្សាទុក​ទៅ​កាន់​ { -pocket-brand-name }។
 pocket-panel-saved-error-tag-length = ស្លាក​ត្រូវ​បាន​កំណត់​ត្រឹមតែ 25 តួ​អក្សរ
 pocket-panel-saved-error-only-links = អាច​រក្សាទុក​បាន​តែ​តំណភ្ជាប់​ប៉ុណ្ណោះ
 pocket-panel-saved-error-not-saved = ទំព័រ​មិន​ត្រូវបាន​រក្សាទុក
 pocket-panel-saved-error-no-internet = អ្នកត្រូវតែ​ភ្ជាប់​ទៅ​អ៊ីនធឺណិត ដើម្បី​រក្សាទុក​ទៅ​កាន់ { -pocket-brand-name }។ សូមភ្ជាប់​ទៅ​អ៊ីនធឺណិត រួចព្យាយាម​ម្ដងទៀត។
+pocket-panel-saved-error-remove = មានបញ្ហា​នៅពេល​ព្យាយាម​លុប​ទំព័រ​នេះ។
 pocket-panel-saved-page-removed = ទំព័រ​ត្រូវ​បាន​លុបចោល
 pocket-panel-saved-page-saved = បាន​រក្សាទុក​ទៅ { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = បានរក្សាទុក​ទៅ { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = កំពុង​លុប​ទំព័រ…
 pocket-panel-saved-processing-tags = កំពុង​បន្ថែម​ស្លាក...
 pocket-panel-saved-remove-page = លុប​ទំព័រ
@@ -50,6 +51,7 @@ pocket-panel-home-discover-more = ស្វែងយល់បន្ថែម
 pocket-panel-home-explore-more = រុករក
 
 ## Pocket panel header component
+
 
 ## Pocket panel buttons
 
