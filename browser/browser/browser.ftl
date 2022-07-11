@@ -266,6 +266,12 @@ quickactions-clear = Clirio'r hanes
 quickactions-print = Argraffu
 quickactions-screenshot = Cymryd llun sgrin
 quickactions-settings = Agor y Gosodiadau
+quickactions-downloads = Agor y Llwythi
+quickactions-viewsource = Gweld y Ffynhonell
+quickactions-inspector = Agor yr Archwilydd
+quickactions-refresh = Adnewyddu { -brand-short-name }
+quickactions-restart = Ailgychwyn { -brand-short-name }
+quickactions-update = Diweddaru { -brand-short-name }
 
 ## Bookmark Panel
 
@@ -498,6 +504,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Rhowch dermau chwilio
     .aria-label = Chwilio'r tabiau
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Rhowch dermau chwilio
+    .aria-label = Gweithredoedd chwilio
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -850,3 +860,5 @@ data-reporting-notification-message = Mae { -brand-short-name } yn anfon peth da
 data-reporting-notification-button =
     .label = Dewis Beth Rwy'n Rhannu
     .accesskey = D
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Pori preifat
