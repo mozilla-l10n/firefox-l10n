@@ -68,6 +68,7 @@ policy-ExtensionSettings = Kelola semua aspek pemasangan ekstensi.
 policy-ExtensionUpdate = Aktifkan atau nonaktifkan pembaruan ekstensi otomatis.
 policy-FirefoxHome = Atur Beranda Firefox.
 policy-FlashPlugin = Izinkan atau tolak penggunaan plugin Flash.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Paksa navigasi situs intranet langsung daripada mencari saat mengetik entri kata tunggal di bilah alamat.
 policy-Handlers = Konfigurasikan penanganan aplikasi baku.
 policy-HardwareAcceleration = Jika bernilai false, menonaktifkan akselerasi perangkat keras.
 # “lock” means that the user won’t be able to change this setting
