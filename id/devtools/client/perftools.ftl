@@ -101,11 +101,11 @@ perftools-thread-jvm-gecko =
 perftools-thread-jvm-nimbus =
     .title = Utas utama untuk SDK eksperimen Nimbus
 perftools-thread-jvm-default-dispatcher =
-    .title = Dispatcher baku untuk pustaka Kotlin coroutines
+    .title = Dispatcher baku untuk pustaka coroutine Kotlin
 perftools-thread-jvm-glean =
     .title = Utas utama untuk SDK telemetri Glean
 perftools-thread-jvm-arch-disk-io =
-    .title = Dispatcher IO untuk pustaka Kotlin coroutines
+    .title = Dispatcher IO untuk pustaka coroutine Kotlin
 perftools-thread-jvm-pool =
     .title = Utas yang dibuat di kumpulan utas yang tidak bernama
 
