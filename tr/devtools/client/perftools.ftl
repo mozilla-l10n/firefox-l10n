@@ -92,6 +92,10 @@ perftools-thread-task-controller =
     .title = TaskController iş parçacığı havuzu iş parçacıkları
 perftools-thread-jvm-gecko =
     .title = Ana Gecko JVM iş parçacığı
+perftools-thread-jvm-nimbus =
+    .title = Nimbus deney SDK'inin ana iş parçacıkları
+perftools-thread-jvm-glean =
+    .title = Glean telemetri SDK'inin ana iş parçacıkları
 
 ##
 
