@@ -269,6 +269,9 @@ quickactions-settings = Abrir Definições
 quickactions-downloads = Abrir transferências
 quickactions-viewsource = Ver fonte
 quickactions-inspector = Abrir Inspetor
+quickactions-refresh = Renovar o { -brand-short-name }
+quickactions-restart = Reiniciar o { -brand-short-name }
+quickactions-update = Atualizar o { -brand-short-name }
 
 ## Bookmark Panel
 
@@ -485,6 +488,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Introduza os termos de pesquisa
     .aria-label = Procurar nos separadores
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Introduza os termos da pesquisa
+    .aria-label = Ações de pesquisa
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -837,3 +844,5 @@ data-reporting-notification-message = O { -brand-short-name } envia automaticame
 data-reporting-notification-button =
     .label = Escolher o que partilho
     .accesskey = E
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Navegação privada
