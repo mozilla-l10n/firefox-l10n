@@ -287,6 +287,10 @@ theme-disabled-heading2 = Tallennetut teemat
 theme-monochromatic-heading = Väriteemat
 theme-monochromatic-subheading = Eloisat uudet väriteemat { -brand-product-name }ilta. Saatavilla rajoitetun ajan.
 theme-colorways-button = Kokeile väriteemoja
+colorway-collection-independent-voices-subheading = Tee { -brand-short-name }ista enemmän omanlaisesi.
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires.
+colorway-collection-expiry-date-span = Vanhenee { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Käytössä
 plugin-disabled-heading = Ei käytössä
 dictionary-enabled-heading = Käytössä
@@ -399,6 +403,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = Lisäosa { $name } on epäyhteensopiva { -brand-short-name }in version { $version } kanssa.
+details-notification-incompatible-link = Lisätietoja
 details-notification-unsigned-and-disabled = Lisäosaa { $name } ei ole varmennettu käytettäväksi { -brand-short-name }issa ja on otettu pois päältä.
 details-notification-unsigned-and-disabled-link = Lisätietoja
 details-notification-unsigned = Lisäosaa { $name } ei ole varmennettu käytettäväksi { -brand-short-name }issa. Ole varovainen.

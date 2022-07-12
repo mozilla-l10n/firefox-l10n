@@ -155,6 +155,7 @@ spotlight-total-cookie-protection-body = Totaalinen evästesuoja estää seuraim
 spotlight-total-cookie-protection-expanded = { -brand-short-name } rakentaa aidan evästeiden ympärille ja rajoittaa ne sivustoon, jolla olet, jotta seuraimet eivät voi käyttää evästeitä seuratakseen sinua. Varhaisen käytön avulla autat optimoimaan tämän ominaisuuden, jotta voimme jatkaa paremman verkon rakentamista kaikille.
 spotlight-total-cookie-protection-primary-button = Ota totaalinen evästesuoja käyttöön
 spotlight-total-cookie-protection-secondary-button = Ei nyt
+cfr-total-cookie-protection-header = Sinun ansiostasi { -brand-short-name } on yksityisempi ja turvallisempi kuin koskaan aiemmin
 
 ## Emotive Continuous Onboarding
 
