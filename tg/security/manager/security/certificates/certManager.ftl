@@ -100,6 +100,8 @@ certificate-not-available = (Дастнорас)
 
 ## Used to show whether an override is temporary or permanent
 
+permanent-override = Доимӣ
+temporary-override = Муваққатӣ
 
 ## Add Security Exception dialog
 
