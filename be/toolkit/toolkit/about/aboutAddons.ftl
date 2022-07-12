@@ -295,6 +295,9 @@ theme-disabled-heading2 = Захаваныя тэмы
 theme-monochromatic-heading = Расфарбоўкі
 theme-monochromatic-subheading = Яркія новыя колеры ад { -brand-product-name }. Даступныя абмежаваны час.
 theme-colorways-button = Паспрабаваць расфарбоўкі
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires.
+colorway-collection-expiry-date-span = Згасае { DATETIME($expiryDate, day: "numeric", month: "long") }
 plugin-enabled-heading = Уключаны
 plugin-disabled-heading = Адключана
 dictionary-enabled-heading = Уключаны
@@ -409,6 +412,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } несумяшчальна з { -brand-short-name } { $version }.
+details-notification-incompatible-link = Больш звестак
 details-notification-unsigned-and-disabled = Праца { $name } у { -brand-short-name } не была праверана, таму яно было адключана.
 details-notification-unsigned-and-disabled-link = Больш звестак
 details-notification-unsigned = Праца { $name } у { -brand-short-name } не была праверана. Працягвайце з асцярогай.
