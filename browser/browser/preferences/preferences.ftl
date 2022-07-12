@@ -976,7 +976,7 @@ content-blocking-fingerprinters = Збіральнікі адбіткаў пал
 # "Test pilot" is used as a verb. Possible alternatives:
 # "Be the first to try", "Join an early experiment".
 content-blocking-etp-standard-tcp-rollout-checkbox =
-    .label = Выпрабуйце нашу самую магутную за ўвесь час функцыю аховы прыватнасці
+    .label = Выпрабаваць нашу самую магутную за ўвесь час функцыю аховы прыватнасці
     .accesskey = е
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Поўная ахова кукаў абмяжоўвае кукі сайтам, на якім вы знаходзіцеся, таму трэкеры не могуць скарыстаць іх для сачэння за вамі ад сайта к сайту.
