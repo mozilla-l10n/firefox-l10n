@@ -194,6 +194,7 @@ region-name-pw = Палау
 region-name-py = Парагвай
 region-name-qa = Қатар
 region-name-qm = Ҷазираҳои Мидуэй
+region-name-qs = Бассас дар Ҳиндустон
 region-name-ru = Русия
 region-name-rw = Руанда
 region-name-sg = Сингапур
