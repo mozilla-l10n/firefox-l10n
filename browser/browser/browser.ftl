@@ -38,6 +38,39 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } — (Gizli Gezinti)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — (Gizli Gezinti)
+# These are the default window titles everywhere except macOS. The first two
+# attributes are used when the web content opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } Gizli Gezinti
+    .data-content-title-default = { $content-title } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } Gizli Gezinti
+# These are the default window titles on macOS. The first two are for use when
+# there is no content title:
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Do not use the brand name in the last two attributes, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Gizli Gezinti
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — Gizli Gezinti
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -123,6 +156,7 @@ urlbar-tabtosearch-onboard = Aradığınızı daha hızlı bulmak için bu kısa
 urlbar-search-mode-bookmarks = Yer imleri
 urlbar-search-mode-tabs = Sekmeler
 urlbar-search-mode-history = Geçmiş
+urlbar-search-mode-actions = Eylemler
 
 ##
 
@@ -223,6 +257,21 @@ search-one-offs-tabs =
     .tooltiptext = Sekmeler ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Geçmiş ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Eylemler ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+
+quickactions-clear = Geçmişi temizle
+quickactions-print = Yazdır
+quickactions-screenshot = Ekran görüntüsü al
+quickactions-settings = Ayarları aç
+quickactions-downloads = İndirilenleri aç
+quickactions-viewsource = Kaynağı göster
+quickactions-inspector = Denetçiyi aç
+quickactions-refresh = { -brand-short-name } tarayıcısını yenile
+quickactions-restart = { -brand-short-name } tarayıcısını yeniden başlat
+quickactions-update = { -brand-short-name } tarayıcısını güncelle
 
 ## Bookmark Panel
 
@@ -438,6 +487,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Aranacak terimleri yazın
     .aria-label = Sekmelerde ara
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Aranacak terimleri yazın
+    .aria-label = Eylemlerde ara
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
