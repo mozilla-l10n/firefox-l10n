@@ -6,6 +6,7 @@ openpgp-key-assistant-title = OpenPGP Anahtar Yardımcısı
 
 ## Encryption status
 
+openpgp-key-assistant-recipients-issue-header = Şifrelenemiyor
 
 ## Resolve section
 

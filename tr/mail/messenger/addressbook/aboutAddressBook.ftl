@@ -55,6 +55,8 @@ about-addressbook-search =
     .placeholder = { $name } defterinde ara
 about-addressbook-search-all =
     .placeholder = Tüm adres defterlerinde ara
+about-addressbook-sort-button2 =
+    .title = Görüntüleme seçeneklerini listele
 about-addressbook-name-format-display =
     .label = Görünen ad
 about-addressbook-name-format-firstlast =
@@ -69,6 +71,10 @@ about-addressbook-sort-email-ascending =
     .label = E-posta adresine göre sırala (A > Z)
 about-addressbook-sort-email-descending =
     .label = E-posta adresine göre sırala (Z > A)
+about-addressbook-horizontal-layout =
+    .label = Yatay düzene geç
+about-addressbook-vertical-layout =
+    .label = Dikey düzene geç
 
 ## Card column headers
 ## Each string is listed here twice, and the values should match.
@@ -177,6 +183,7 @@ about-addressbook-details-other-info-header = Diğer bilgiler
 about-addressbook-entry-type-work = İş
 about-addressbook-entry-type-home = Ev
 about-addressbook-entry-type-fax = Faks
+# Or "Mobile"
 about-addressbook-entry-type-cell = Cep
 about-addressbook-entry-type-pager = Çağrı cihazı
 about-addressbook-entry-name-birthday = Doğum günü
