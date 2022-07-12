@@ -81,6 +81,8 @@ perftools-thread-render-backend =
     .title = A thread RenderBackend do WebRender
 perftools-thread-paint-worker =
     .title = Quando o desenho fora da thread principal estiver ativo, a thread na qual o desenho acontece
+perftools-thread-timer =
+    .title = Os temporizadores de tratamento de threads (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = A computação de estilo é dividida em múltiplas threads
 pref-thread-stream-trans =
@@ -113,16 +115,9 @@ perftools-tools-threads-input-label =
     .title = Estes nomes de threads são uma lista separada por vírgulas que é utilizada para ativar o profiling das threads no profiler. O nome apenas necessita de ser uma correspondência parcial do nome da thread para ser incluído. É sensível a espaços em branco.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Novo</b>: O { -profiler-brand-name } está agora integrado nas ferramentas de desenvolvimento. <a>Saber mais</a> sobre esta poderosa nova ferramenta.
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (Por tempo limitado, pode aceder ao painel Desempenho original via  <a>{ options-context-advanced-settings }</a>)
 perftools-onboarding-close-button =
     .aria-label = Fechar mensagem de introdução
 
