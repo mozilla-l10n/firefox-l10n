@@ -38,6 +38,39 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Huliðsstilling)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Huliðsstilling)
+# These are the default window titles everywhere except macOS. The first two
+# attributes are used when the web content opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } huliðsvafur
+    .data-content-title-default = { $content-title } - { -brand-full-name }
+    .data-content-title-private = { $content-title } - { -brand-full-name } huliðsvafur
+# These are the default window titles on macOS. The first two are for use when
+# there is no content title:
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Do not use the brand name in the last two attributes, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } - Huliðsvafur
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } - Huliðsvafur
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -123,6 +156,7 @@ urlbar-tabtosearch-onboard = Veldu þessa flýtileið til að finna það sem þ
 urlbar-search-mode-bookmarks = Bókamerki
 urlbar-search-mode-tabs = Flipar
 urlbar-search-mode-history = Ferill
+urlbar-search-mode-actions = Aðgerðir
 
 ##
 
@@ -223,6 +257,21 @@ search-one-offs-tabs =
     .tooltiptext = Flipar ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Ferill ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Aðgerðir ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+
+quickactions-clear = Hreinsa feril
+quickactions-print = Prenta
+quickactions-screenshot = Taka skjámynd
+quickactions-settings = Opna stillingar
+quickactions-downloads = Opna sóttar skrár
+quickactions-viewsource = Skoða frumkóða
+quickactions-inspector = Opna Inspector
+quickactions-refresh = Endurlesa { -brand-short-name }
+quickactions-restart = Endurræsa { -brand-short-name }
+quickactions-update = Uppfæra { -brand-short-name }
 
 ## Bookmark Panel
 
@@ -439,6 +488,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Settu inn leitarorð
     .aria-label = Leita í flipum
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Settu inn leitarorð
+    .aria-label = Leita í aðgerðum
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
