@@ -453,6 +453,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Saisissez les termes à rechercher
     .aria-label = Rechercher dans les onglets
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Saisissez les termes à rechercher
+    .aria-label = Actions de recherche
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
