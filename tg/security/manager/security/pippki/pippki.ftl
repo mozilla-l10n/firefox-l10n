@@ -39,6 +39,7 @@ download-cert-view-cert =
 
 ## Client Authorization Ask dialog
 
+client-auth-cert-details = Тафсилоти гувоҳиномаи интихобшуда:
 
 ## Set password (p12) dialog
 

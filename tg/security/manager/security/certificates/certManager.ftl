@@ -105,6 +105,7 @@ temporary-override = Муваққатӣ
 
 ## Add Security Exception dialog
 
+add-exception-domain-mismatch-short = Сомонаи нодуруст
 add-exception-checking-short = Дар ҳоли тафтиши маълумот
 add-exception-checking-long = Кӯшиши ташхиси сомонаи ҷорӣ…
 add-exception-no-cert-short = Маълумот дастрас нест

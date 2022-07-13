@@ -25,6 +25,13 @@ about-telemetry-filter-placeholder =
 about-telemetry-telemetry-ping-type-all = ҳама
 # button label to copy the histogram
 about-telemetry-histogram-copy = Нусха бардоштан
+about-telemetry-addon-table-details = Тафсилот
 # Variables:
 #   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = Таъминкунандаи { $addonProvider }
+about-telemetry-keys-header = Хусусият
+about-telemetry-names-header = Ном
+about-telemetry-values-header = Қимат
+# Variables:
+#   $lateWriteCount (Integer): the number of the late writes
+about-telemetry-late-writes-title = Сабти дер #{ $lateWriteCount }
