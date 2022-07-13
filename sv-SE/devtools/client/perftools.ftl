@@ -83,6 +83,8 @@ perftools-thread-render-backend =
     .title = WebRender RenderBackend-tråden
 perftools-thread-paint-worker =
     .title = När målning utanför huvudtråden är aktiverad, den tråd som målningen sker på
+perftools-thread-timer =
+    .title = Trådhanteringstidur (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = Stilberäkning är uppdelad i flera trådar
 pref-thread-stream-trans =
@@ -115,16 +117,9 @@ perftools-tools-threads-input-label =
     .title = Dessa trådnamn är en kommaseparerad lista som används för att möjliggöra profilering av trådarna i profileraren. Namnet behöver bara vara en partiell matchning av trådnamnet som ska inkluderas. Den är känslig för mellanslag.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Nytt</b>: { -profiler-brand-name } är nu integrerad i utvecklarverktyg. <a>Läs mer</a> om det här kraftfulla nya verktyget.
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (Under en begränsad tid kan du komma åt den ursprungliga Prestanda-panelen via <a>{ options-context-advanced-settings }</a>)
 perftools-onboarding-close-button =
     .aria-label = Stäng meddelandet
 
