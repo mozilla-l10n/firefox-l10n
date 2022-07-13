@@ -268,6 +268,10 @@ quickactions-screenshot = Ejapo mba’erechaha jejapyhy
 quickactions-settings = Embojuruja ñemboheko
 quickactions-downloads = Embojuruja ñemboguejy
 quickactions-viewsource = Ehecha ayvu reñoiha
+quickactions-inspector = Embojuruja Mbohekoha
+quickactions-refresh = Eguerujey { -brand-short-name }
+quickactions-restart = Emoñepyrũjey { -brand-short-name }
+quickactions-update = Embohekopyahu { -brand-short-name }
 
 ## Bookmark Panel
 
