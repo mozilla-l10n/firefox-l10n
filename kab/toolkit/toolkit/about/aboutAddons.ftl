@@ -400,6 +400,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } ur imṣada ara d { -brand-short-name } { $version }.
+details-notification-incompatible-link = Ugar n telɣut
 details-notification-unsigned-and-disabled = { $name } ur iţusenqed ara i weseqdec-ines ɣef { -brand-short-name }, atan ihi irermed.
 details-notification-unsigned-and-disabled-link = Ugar n telɣut
 details-notification-unsigned = { $name } ur iţusenqed ara i weseqdec-ines ɣef { -brand-short-name }. Ɣuṛ-k.
