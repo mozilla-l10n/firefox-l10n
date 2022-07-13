@@ -156,6 +156,7 @@ urlbar-tabtosearch-onboard = Välj den här genvägen för att hitta det du beh�
 urlbar-search-mode-bookmarks = Bokmärken
 urlbar-search-mode-tabs = Flikar
 urlbar-search-mode-history = Historik
+urlbar-search-mode-actions = Åtgärder
 
 ##
 
@@ -256,9 +257,21 @@ search-one-offs-tabs =
     .tooltiptext = Flikar ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Historik ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Åtgärder ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
+quickactions-clear = Rensa historik
+quickactions-print = Skriv ut
+quickactions-screenshot = Ta en skärmdump
+quickactions-settings = Öppna Inställningar
+quickactions-downloads = Öppna hämtningar
+quickactions-viewsource = Visa källa
+quickactions-inspector = Öppna inspektör
+quickactions-refresh = Återställ { -brand-short-name }
+quickactions-restart = Starta om { -brand-short-name }
+quickactions-update = Uppdatera { -brand-short-name }
 
 ## Bookmark Panel
 
