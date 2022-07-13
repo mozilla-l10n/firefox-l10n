@@ -485,6 +485,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Ange söktermer
     .aria-label = Sök i flikar
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Ange söktermer
+    .aria-label = Sök åtgärder
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -837,3 +841,5 @@ data-reporting-notification-message = { -brand-short-name } skickar automatiskt 
 data-reporting-notification-button =
     .label = Välj vad som ska delas
     .accesskey = V
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Privat surfning
