@@ -122,6 +122,7 @@ urlbar-tabtosearch-onboard = Vel denne snarvegen for å finne det du treng raska
 urlbar-search-mode-bookmarks = Bokmerke
 urlbar-search-mode-tabs = Faner
 urlbar-search-mode-history = Historikk
+urlbar-search-mode-actions = Handlingar
 
 ##
 
@@ -222,6 +223,20 @@ search-one-offs-tabs =
     .tooltiptext = Faner ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Historikk ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Handlingar ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+
+quickactions-clear = Tøm historikk
+quickactions-print = Skriv ut
+quickactions-screenshot = Ta eit skjermbilde
+quickactions-settings = Opne Innstillingar
+quickactions-downloads = Opne nedlastingar
+quickactions-viewsource = Vis kjeldekode
+quickactions-inspector = Opne inspeksjon
+quickactions-restart = Start { -brand-short-name } på nytt
+quickactions-update = Oppdater { -brand-short-name }
 
 ## Bookmark Panel
 
@@ -787,3 +802,5 @@ data-reporting-notification-message = { -brand-short-name } sender automatisk en
 data-reporting-notification-button =
     .label = Vel kva som skal delast
     .accesskey = V
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Privat nettlesing
