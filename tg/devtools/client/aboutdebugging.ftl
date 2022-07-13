@@ -236,6 +236,11 @@ about-debugging-worker-fetch-not-listening =
 about-debugging-worker-status-running = Иҷро шуда истодааст
 # Displayed for service workers in runtime pages that are registered but stopped.
 about-debugging-worker-status-stopped = Қатъ карда шудааст
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = Дар ҳоли бақайдгирӣ
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = Доира
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Раванди асосӣ
