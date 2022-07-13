@@ -14,6 +14,7 @@ about-telemetry-general-data-section = Маълумоти умумӣ
 about-telemetry-environment-data-section = Маълумоти муҳит
 about-telemetry-session-info-section = Маълумот дар бораи ҷаласа
 about-telemetry-events-section = Рӯйдодҳо
+about-telemetry-late-writes-section = Сабтҳои дер
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html

@@ -74,6 +74,20 @@ about-processes-tab-name = Варақа: { $name }
 
 ## Duration units
 
+duration-unit-ns = нс
+duration-unit-us = мкс
+duration-unit-ms = мс
+duration-unit-s = сон
+duration-unit-m = дақ
+duration-unit-h = соат
+duration-unit-d = рӯз
 
 ## Memory units
 
+memory-unit-B = Б
+memory-unit-KB = КБ
+memory-unit-MB = МБ
+memory-unit-GB = ГБ
+memory-unit-TB = ТБ
+memory-unit-PB = ПБ
+memory-unit-EB = ЕБ
