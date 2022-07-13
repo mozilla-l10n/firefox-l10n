@@ -493,7 +493,7 @@ update-setting-write-failure-title2 = Errore durante il salvataggio delle impost
 
 update-setting-write-failure-message2 =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le impostazioni è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
-    
+
     Impossibile scrivere il file: { $path }
 
 update-in-progress-title = Aggiornamento in corso
@@ -662,6 +662,8 @@ home-prefs-recommended-by-description-new = Contenuti eccezionali a cura di { $p
 home-prefs-recommended-by-learn-more = Come funziona
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Articoli sponsorizzati
+home-prefs-recommended-by-option-recent-saves =
+    .label = Mostra elementi salvati di recente
 
 home-prefs-highlights-option-visited-pages =
     .label = Pagine visitate
