@@ -257,9 +257,21 @@ search-one-offs-tabs =
     .tooltiptext = Καρτέλες ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Ιστορικό ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Ενέργειες ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
+quickactions-clear = Απαλοιφή ιστορικού
+quickactions-print = Εκτύπωση
+quickactions-screenshot = Λήψη στιγμιότυπου
+quickactions-settings = Άνοιγμα ρυθμίσεων
+quickactions-downloads = Άνοιγμα λήψεων
+quickactions-viewsource = Προβολή πηγής
+quickactions-inspector = Άνοιγμα επιθεώρησης
+quickactions-refresh = Ανανέωση του { -brand-short-name }
+quickactions-restart = Επανεκκίνηση του { -brand-short-name }
+quickactions-update = Ενημέρωση του { -brand-short-name }
 
 ## Bookmark Panel
 
@@ -473,6 +485,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Εισάγετε όρους αναζήτησης
     .aria-label = Αναζήτηση καρτελών
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Εισαγωγή όρων αναζήτησης
+    .aria-label = Αναζήτηση ενεργειών
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
