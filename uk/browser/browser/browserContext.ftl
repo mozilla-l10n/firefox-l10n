@@ -86,12 +86,28 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-add =
+    .aria-label = Закласти цю сторінку
+    .accesskey = к
+    .tooltiptext = Закласти цю сторінку
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Закласти сторінку
+    .accesskey = З
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-edit-mac =
     .label = Редагувати закладку
     .accesskey = Р
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Закласти цю сторінку
+    .accesskey = к
+    .tooltiptext = Закласти цю сторінку ({ $shortcut })
 main-context-menu-bookmark-change =
     .aria-label = Редагувати цю закладку
     .accesskey = к
@@ -117,6 +133,9 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = Відкрити в приватному вікні
     .accesskey = и
+main-context-menu-bookmark-link =
+    .label = Закласти посилання
+    .accesskey = с
 main-context-menu-save-link =
     .label = Зберегти посилання як…
     .accesskey = я
@@ -303,6 +322,9 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Оновити фрейм
     .accesskey = в
+main-context-menu-frame-bookmark =
+    .label = Закласти цей фрейм
+    .accesskey = ф
 main-context-menu-frame-save-as =
     .label = Зберегти фрейм як…
     .accesskey = ф
