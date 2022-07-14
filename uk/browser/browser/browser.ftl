@@ -285,13 +285,13 @@ bookmark-panel-cancel =
 bookmark-panel-remove =
     .label =
         { $count ->
-            [one] Прибрати закладку
-            [few] Прибрати { $count } закладки
-           *[many] Прибрати { $count } закладок
+            [one] Вилучити закладку
+            [few] Вилучити { $count } закладки
+           *[many] Вилучити { $count } закладок
         }
-    .accesskey = П
+    .accesskey = ч
 bookmark-panel-show-editor-checkbox =
-    .label = Показати редактор при збереженні
+    .label = Показувати редактор під час збереження
     .accesskey = к
 bookmark-panel-save-button =
     .label = Зберегти
