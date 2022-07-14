@@ -34,8 +34,16 @@ pippki-reset-password-confirmation-message = Ниҳонвожаи асосии �
 
 ## Downloading cert dialog
 
+download-cert-window =
+    .title = Боргирии гувоҳинома
+    .style = width: 46em
+download-cert-trust-ssl =
+    .label = Доштани эътимод ба ин маркази иҷозатномадиҳӣ барои муайянкунии сомонаҳо.
+download-cert-trust-email =
+    .label = Доштани эътимод ба ин маркази иҷозатномадиҳӣ барои муайянкунии корбарони почтаи электронӣ.
 download-cert-view-cert =
     .label = Намоиш додан
+download-cert-view-text = Тафтиш кардани гувоҳиномаи маркази иҷозатномадиҳӣ
 
 ## Client Authorization Ask dialog
 
@@ -46,3 +54,4 @@ client-auth-cert-details = Тафсилоти гувоҳиномаи интих�
 
 ## Protected Auth dialog
 
+protected-auth-token = Нишон:
