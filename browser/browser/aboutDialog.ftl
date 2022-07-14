@@ -9,7 +9,7 @@ update-checkForUpdatesButton =
     .label = Перевірити оновлення
     .accesskey = П
 update-updateButton =
-    .label = Перезапуск для оновлення { -brand-shorter-name }
+    .label = Перезапустити для оновлення { -brand-shorter-name }
     .accesskey = о
 update-checkingForUpdates = Перевірка оновлень…
 update-downloading = <img data-l10n-name="icon"/>Оновлення завантажується — <label data-l10n-name="download-status"/>

@@ -52,10 +52,10 @@ unpin-selected-tabs =
     .label = Відкріпити вкладки
     .accesskey = В
 bookmark-selected-tabs =
-    .label = Закласти вкладки…
+    .label = Додати закладки вкладок…
     .accesskey = к
 bookmark-tab =
-    .label = Закласти вкладку
+    .label = Додати вкладку до закладок
     .accesskey = л
 tab-context-open-in-new-container-tab =
     .label = Відкрити в новій вкладці контейнера
@@ -103,7 +103,6 @@ tab-context-move-tabs =
            *[many] Перемістити { $tabCount } вкладок
         }
     .accesskey = м
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
