@@ -191,7 +191,7 @@ urlbar-star-edit-bookmark =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
-    .tooltiptext = Закласти цю сторінку ({ $shortcut })
+    .tooltiptext = Додати сторінку до закладок ({ $shortcut })
 
 ## Page Action Context Menu
 
@@ -671,7 +671,7 @@ bookmarks-toolbar-placeholder-button =
     .label = Елементи панелі закладок
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
-    .label = Закласти поточну вкладку
+    .label = Додати цю вкладку до закладок
 
 ## Library Panel items
 

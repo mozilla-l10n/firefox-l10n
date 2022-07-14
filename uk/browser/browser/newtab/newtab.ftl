@@ -151,7 +151,7 @@ newtab-menu-open-file = Відкрити файл
 ## the page is bookmarked, or is currently open on another device.
 
 newtab-label-visited = Відвідано
-newtab-label-bookmarked = Закладено
+newtab-label-bookmarked = Додано до закладок
 newtab-label-removed-bookmark = Закладку вилучено
 newtab-label-recommended = Популярне
 newtab-label-saved = Збережено в { -pocket-brand-name }
