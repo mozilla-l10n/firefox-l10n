@@ -188,10 +188,6 @@ urlbar-install-blocked =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Редагувати цю закладку ({ $shortcut })
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-urlbar-star-add-bookmark =
-    .tooltiptext = Закласти цю сторінку ({ $shortcut })
 
 ## Page Action Context Menu
 
@@ -290,9 +286,6 @@ bookmark-panel-remove =
            *[many] Прибрати { $count } закладок
         }
     .accesskey = П
-bookmark-panel-show-editor-checkbox =
-    .label = Показати редактор при збереженні
-    .accesskey = к
 bookmark-panel-save-button =
     .label = Зберегти
 # Width of the bookmark panel.
@@ -669,9 +662,6 @@ bookmarks-toolbar-placeholder =
     .title = Елементи панелі закладок
 bookmarks-toolbar-placeholder-button =
     .label = Елементи панелі закладок
-# "Bookmark" is a verb, as in "Add current tab to bookmarks".
-bookmarks-current-tab =
-    .label = Закласти поточну вкладку
 
 ## Library Panel items
 
