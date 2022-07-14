@@ -581,6 +581,10 @@ urlbar-group-firefox-suggest =
 urlbar-group-search-suggestions =
     .label = Suggerimenti da { $engine }
 
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+  .label = Azioni rapide
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
