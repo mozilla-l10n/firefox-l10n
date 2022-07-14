@@ -291,6 +291,7 @@ theme-disabled-heading2 = Αποθηκευμένα θέματα
 theme-monochromatic-heading = Χρωματικοί συνδυασμοί
 theme-monochromatic-subheading = Νέοι, δυναμικοί χρωματικοί συνδυασμοί από το { -brand-product-name }. Διαθέσιμοι για περιορισμένο χρονικό διάστημα.
 theme-colorways-button = Δοκιμή χρωματικών συνδυασμών
+colorway-collection-independent-voices-subheading = Φέρτε το { -brand-short-name } πιο κοντά στα μέτρα σας.
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = Λήγει στις { DATETIME($expiryDate, month: "long", day: "numeric") }
