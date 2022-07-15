@@ -280,6 +280,11 @@ theme-disabled-heading = Desgaituta
 theme-disabled-heading2 = Gordetako itxurak
 theme-monochromatic-heading = Kolore-konbinazioak
 theme-monochromatic-subheading = { -brand-product-name }(k) egindako kolore-konbinazio bizi berriak. Denbora mugatuz erabilgarri.
+theme-colorways-button = Probatu kolore-konbinazioak
+colorway-collection-independent-voices-subheading = Egizu { -brand-short-name } zure modukoa.
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires.
+colorway-collection-expiry-date-span = Iraungitzea: { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Gaituta
 plugin-disabled-heading = Desgaituta
 dictionary-enabled-heading = Gaituta
@@ -393,6 +398,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } bateraezina da { -brand-short-name } { $version } bertsioarekin.
+details-notification-incompatible-link = Informazio gehiago
 details-notification-unsigned-and-disabled = Ezin da { $name } gehigarria { -brand-short-name }(r)en erabiltzeko egiaztatu eta desgaitu egin da.
 details-notification-unsigned-and-disabled-link = Informazio gehiago
 details-notification-unsigned = Ezin da { $name } gehigarria { -brand-short-name }(r)en erabiltzeko egiaztatu. Kontuz jarraitu.
