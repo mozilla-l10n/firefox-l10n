@@ -343,6 +343,7 @@ theme-monochromatic-heading = Tonalità
 theme-monochromatic-subheading = Nuove vibranti tonalità da { -brand-product-name }. Disponibili per un periodo limitato.
 
 theme-colorways-button = Prova nuove tonalità
+theme-colorways-button-colorway-enabled = Cambia tonalità
 
 colorway-collection-independent-voices-subheading = Rendi { -brand-short-name } un po’ più tuo.
 # Variables:
