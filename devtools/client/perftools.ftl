@@ -83,6 +83,8 @@ perftools-thread-render-backend =
     .title = Паток WebRender RenderBackend
 perftools-thread-paint-worker =
     .title = Паток, у якім адбываецца прамалёўка, калі ўключана маляванне па-за асноўным патокам
+perftools-thread-timer =
+    .title = Таймеры апрацоўкі патоку (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = Вылічэнне стыляў падзелена на некалькі патокаў
 pref-thread-stream-trans =
@@ -115,16 +117,9 @@ perftools-tools-threads-input-label =
     .title = Гэтыя назвы патокаў уяўляюць сабой пералік, падзелены коскамі, які ўжываецца для ўключэння прафілявання патокаў у прафайлеры. Назва можа толькі часткова адпавядаць назве патоку для ўключэння. Прабелы ўлічваюцца.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Новае</b>: { -profiler-brand-name } цяпер інтэграваны ў Інструменты распрацоўшчыка. <a>Даведайцеся больш</a> пра гэты новы магутны інструмент.
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (На працягу абмежаванага часу вы можаце атрымаць доступ да арыгінальнай панэлі Прадукцыйнасці праз <a>{ options-context-advanced-settings }</a>)
 perftools-onboarding-close-button =
     .aria-label = Закрыць прывiтальнае паведамленне
 
