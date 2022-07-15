@@ -295,6 +295,7 @@ theme-disabled-heading2 = Захаваныя тэмы
 theme-monochromatic-heading = Расфарбоўкі
 theme-monochromatic-subheading = Яркія новыя колеры ад { -brand-product-name }. Даступныя абмежаваны час.
 theme-colorways-button = Паспрабаваць расфарбоўкі
+colorway-collection-independent-voices-subheading = Зрабіце так, каб { -brand-short-name } больш пасаваў да вас.
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = Згасае { DATETIME($expiryDate, day: "numeric", month: "long") }
