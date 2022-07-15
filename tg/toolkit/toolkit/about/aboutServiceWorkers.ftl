@@ -18,3 +18,4 @@ about-service-workers-main-title = Коргузорони хизматрасон
 update-button = Навсозӣ кардан
 unregister-button = Аз қайд гирифтан
 unregister-error = Ин коргузори хизматрасонӣ аз қайд гирифта нашуд.
+waiting = Интизорӣ…
