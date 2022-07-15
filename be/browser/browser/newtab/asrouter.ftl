@@ -160,6 +160,9 @@ spotlight-total-cookie-protection-expanded = { -brand-short-name } будуе п
 spotlight-total-cookie-protection-primary-button = Уключыць поўную ахову кукаў
 spotlight-total-cookie-protection-secondary-button = Не зараз
 cfr-total-cookie-protection-header = Дзякуючы вам, { -brand-short-name } больш прыватны і бяспечны, чым калі-небудзь
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = Поўная ахова кукаў – наша самая надзейная абарона прыватнасці, і цяпер гэта прадвызначаная налада для ўсіх карыстальнікаў { -brand-short-name }. Мы не змаглі б зрабіць гэта без такіх удзельнікаў ранняга доступу, як вы. Дзякуй за дапамогу ў стварэнні лепшага, больш прыватнага інтэрнэту.
 
 ## Emotive Continuous Onboarding
 
