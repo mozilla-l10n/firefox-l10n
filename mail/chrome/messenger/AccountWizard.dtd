@@ -7,8 +7,6 @@
 <!ENTITY windowTitle.label "Accounthelper">
 <!ENTITY accountWizard.size "width: 42em; height: 40em;">
 
-<!-- Entities for Account Type page -->
-
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identiteit">
@@ -29,14 +27,12 @@
 
 <!-- Entities for Incoming Server page -->
 
-<!ENTITY incomingTitle.label "Ynkommende serverynformaasje">
+<!ENTITY incomingTitle.label "Gegevens fan ynkommende server">
 <!ENTITY incomingUsername.label "Brûkersnamme:">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Fier de namme yn fan jo nijsserver (NNTP) (bygelyks ‘news.example.net’).">
 <!ENTITY newsServerLabel.label "Nijsgroepserver:">
 <!ENTITY newsServerLabel.accesskey "N">
-
-<!-- Entities for Outgoing Server page -->
 
 <!-- Entities for Account name page -->
 
