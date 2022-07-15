@@ -51,6 +51,10 @@ client-auth-cert-details = Тафсилоти гувоҳиномаи интих�
 
 ## Set password (p12) dialog
 
+set-password-backup-pw =
+    .value = Ниҳонвожаи нусхаи эҳтиётии гувоҳинома:
+set-password-repeat-backup-pw =
+    .value = Ниҳонвожаи нусхаи эҳтиётии гувоҳинома (такроран):
 
 ## Protected Auth dialog
 

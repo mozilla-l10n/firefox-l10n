@@ -83,11 +83,16 @@ exception-mgr-cert-location-download =
 exception-mgr-cert-status-view-cert =
     .label = Намоиш…
     .accesskey = Н
+exception-mgr-permanent =
+    .label = Ин истисно ба таври доимӣ нгоҳ дошта шавад
+    .accesskey = И
+pk11-bad-password = Ниҳонвожаии воридшуда нодуруст аст.
 
 ## PKCS#12 file dialogs
 
 choose-p12-backup-file-dialog = Номи файли нусхаи эҳтиётӣ
 file-browse-pkcs12-spec = Файлҳои PKCS12
+choose-p12-restore-file-dialog = Файли гувоҳиномае, ки ворид карда мешавад
 
 ## Import certificate(s) file dialog
 
@@ -107,6 +112,8 @@ delete-ssl-override-confirm = Шумо мутмаин ҳастед, ки мех�
 delete-email-cert-title =
     .title = Нест кардани гувоҳиномаҳои почтаи электронӣ
 delete-email-cert-confirm = Шумо мутмаин ҳастед, ки мехоҳед гувоҳиномаҳои почтаи электронии одамони зеринро нест намоед?
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (Нигоҳ дошта нашуд)
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (Дастнорас)
 
