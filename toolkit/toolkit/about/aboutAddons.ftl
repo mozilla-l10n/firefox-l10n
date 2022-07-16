@@ -281,6 +281,10 @@ theme-disabled-heading2 = Konservitaj etosoj
 theme-monochromatic-heading = Koloraroj
 theme-monochromatic-subheading = Vibraj, novaj koloraroj de { -brand-product-name }. Disponeblaj dum limigita tempo.
 theme-colorways-button = Provu koloraron
+colorway-collection-independent-voices-subheading = Igu { -brand-short-name } simili iom pli al vi.
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires.
+colorway-collection-expiry-date-span = Senvalidiĝo je { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Aktiva
 plugin-disabled-heading = Malaktiva
 dictionary-enabled-heading = Aktiva
@@ -394,6 +398,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } estas nekongrua kun { -brand-short-name } { $version }.
+details-notification-incompatible-link = Pli da informo
 details-notification-unsigned-and-disabled = { $name } ne povis esti kontrolita por uzo en { -brand-short-name } kaj estis malaktivigita.
 details-notification-unsigned-and-disabled-link = Pli da informo
 details-notification-unsigned = { $name } ne povis esti kontrolita por uzo en { -brand-short-name }. Daŭrigu singarde.

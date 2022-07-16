@@ -3,20 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Bildo en bildo
-
 pictureinpicture-pause =
     .aria-label = Paŭzigi
 pictureinpicture-play =
     .aria-label = Ludi
-
 pictureinpicture-mute =
     .aria-label = Silentigi
 pictureinpicture-unmute =
     .aria-label = Malsilentigi
-
 pictureinpicture-unpip =
     .aria-label = Sendi reen al langeto
-
 pictureinpicture-close =
     .aria-label = Fermi
-
+pictureinpicture-subtitles-label = Subtekstoj
+pictureinpicture-font-size-label = Tipara grando
+pictureinpicture-font-size-small = Eta
+pictureinpicture-font-size-medium = Mezgranda
+pictureinpicture-font-size-large = Granda
