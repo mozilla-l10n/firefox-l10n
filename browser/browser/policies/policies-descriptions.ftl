@@ -68,6 +68,7 @@ policy-ExtensionSettings = Zarządzanie wszystkimi aspektami instalacji rozszerz
 policy-ExtensionUpdate = Włączenie lub wyłączenie automatycznego aktualizowania rozszerzeń.
 policy-FirefoxHome = Konfiguracja strony startowej Firefoksa.
 policy-FlashPlugin = Zezwalanie lub zabranianie korzystania z wtyczki Flash.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Wymuszenie bezpośredniej nawigacji na witrynie intranetowej zamiast wyszukiwania podczas wpisywania pojedynczych słów na pasku adresu.
 policy-Handlers = Konfiguracja domyślnych aplikacji obsługujących typy plików.
 policy-HardwareAcceleration = Wartość „fałsz” wyłącza przyspieszanie sprzętowe.
 # “lock” means that the user won’t be able to change this setting
