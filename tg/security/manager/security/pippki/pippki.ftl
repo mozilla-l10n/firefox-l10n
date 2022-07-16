@@ -58,4 +58,7 @@ set-password-repeat-backup-pw =
 
 ## Protected Auth dialog
 
+protected-auth-window =
+    .title = Санҷиши ҳаққонияти нишони маҳфуз
+protected-auth-msg = Лутфан, ба воситаи нишон (токен) аз санҷиши ҳаққоният гузаронед. Тарзи санҷиши ҳаққоният аз навъи нишон (токен)-и шумо вобаста аст.
 protected-auth-token = Нишон:
