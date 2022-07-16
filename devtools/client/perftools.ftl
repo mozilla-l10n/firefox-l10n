@@ -76,6 +76,8 @@ perftools-thread-render-backend =
     .title = La fadeno WebRender RenderBackend
 perftools-thread-paint-worker =
     .title = Kiam farbado ekster la ĉefa fadeno estas aktiva, tiu estas la fadeno kiu farbas
+perftools-thread-timer =
+    .title = La fadeno kiu zorgas pri tempumiloj (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = La komputo de stiloj estas dividita inter pluraj fadenoj
 pref-thread-stream-trans =
@@ -108,16 +110,9 @@ perftools-tools-threads-input-label =
     .title = Tiuj ĉi nomoj de fadenoj estas listo apartigita per komoj, kiu estas uzita por aktivigi la rulanalizon de la fadenoj en la rulanalizilo. La nomo bezonas nur parte kongrui kun la nomo de la fadeno, por esti inkluzivita. Ĝi ne ignoras blankspacojn.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Nova</b>: { -profiler-brand-name } estas integrita al la iloj por programistoj. Jen <a>pli da informo</a> pri tiu pova nova ilo.
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (Dum iom da tempo, vi povas ankoraŭ aliri la originalan efikecan panelon ĉi tie <a>{ options-context-advanced-settings }</a>)
 perftools-onboarding-close-button =
     .aria-label = Fermi la enkondukan mesaĝon
 
