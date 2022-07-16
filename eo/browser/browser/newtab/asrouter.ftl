@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Rekomendata trajto
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kial mi vidas tion ĉi?
-
 cfr-doorhanger-extension-cancel-button = Poste
     .accesskey = P
-
 cfr-doorhanger-extension-ok-button = Aldoni nun
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Administri agordojn de rekomendoj
     .accesskey = A
-
 cfr-doorhanger-extension-never-show-recommendation = Ne montri al mi tiun ĉi rekomendon
     .accesskey = N
-
 cfr-doorhanger-extension-learn-more-link = Pli da informo
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = de { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendo
 cfr-doorhanger-extension-notification2 = Rekomendo
     .tooltiptext = Rekomendo pri etendaĵo
     .a11y-announcement = Havebla rekomendo pri etendaĵo
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekomendo
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = Pli da informo
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nova trajto:
-
 cfr-whatsnew-button =
     .label = Novaĵoj
     .tooltiptext = Novaĵoj
-
 cfr-whatsnew-release-notes-link-text = Legi la notojn pri liverado
 
 ## Enhanced Tracking Protection Milestones
@@ -163,6 +153,10 @@ spotlight-total-cookie-protection-body = La totala protekto kontraŭ kuketoj evi
 spotlight-total-cookie-protection-expanded = { -brand-short-name } konstruas barilon ĉirkaŭ kuketojn, limigante ilin al la retejo kie ili estas tiel ke spuriloj ne povas uzi ilin por sekvi vin. Per frua aliro al tiu funkcio, vi helpos nin plibonigi ĝin kaj plu konstrui pli bonan teksaĵon por ĉiuj.
 spotlight-total-cookie-protection-primary-button = Ŝalti totalan protekton kontraŭ kuketoj
 spotlight-total-cookie-protection-secondary-button = Nun ne
+cfr-total-cookie-protection-header = Danke al vi, { -brand-short-name } estas nun pli privata kaj sekura ol iam ajn antaŭe
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = La plena protekto kontraŭ kuketoj estas nia ĝisnune plej forta privateca proteko – kaj ĝi estas norma agordo por uzantoj de { -brand-short-name }, ĉie. Ni ne estus povintaj fari tion sen fruaj partoprenantoj kiel vi. Do, dankon pro via helpo krei pli bonan, pli privatan interreton.
 
 ## Emotive Continuous Onboarding
 
