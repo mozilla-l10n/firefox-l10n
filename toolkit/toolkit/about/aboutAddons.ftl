@@ -293,6 +293,10 @@ theme-disabled-heading2 = შენახული თემები
 theme-monochromatic-heading = შეფერილობები
 theme-monochromatic-subheading = ახალი ხასხასა შეფერილობები, რომელთაც { -brand-product-name } გთავაზობთ. ხელმისაწვდომია მცირე დროით.
 theme-colorways-button = მოსინჯეთ ახალი შეფერილობა
+colorway-collection-independent-voices-subheading = გახადეთ { -brand-short-name } ცოტათი უფრო თქვენებური.
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires.
+colorway-collection-expiry-date-span = ბოლო ვადაა { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = ჩართულია
 plugin-disabled-heading = ამორთულია
 dictionary-enabled-heading = ჩართულია
@@ -406,6 +410,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } არათავსებადია { -brand-short-name } { $version } ვერსიასთან.
+details-notification-incompatible-link = ვრცლად
 details-notification-unsigned-and-disabled = ვერ დასტურდება, რომ { -brand-short-name } შეძლებს გამოიყენოს { $name }, ამიტომ გამორთულია.
 details-notification-unsigned-and-disabled-link = ვრცლად
 details-notification-unsigned = ვერ დასტურდება, რომ { -brand-short-name } შეძლებს აამუშაოს { $name }. სიფრთხილით გამოიყენეთ.
