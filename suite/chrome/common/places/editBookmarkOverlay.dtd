@@ -18,7 +18,7 @@
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Разделяйте метки запятыми">
 <!ENTITY editBookmarkOverlay.description.label               "Описание:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "п">
-<!ENTITY editBookmarkOverlay.keyword.label                   "Краткое имя:">
+<!ENTITY editBookmarkOverlay.keyword.label                   "Ключевое слово:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "р">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Показать все метки">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Загружать закладку в боковой панели">

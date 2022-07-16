@@ -58,7 +58,7 @@
 <!ENTITY printButton.label            "Печать">
 <!ENTITY printButton.tooltip          "Распечатать эту страницу">
 
-<!ENTITY locationBar.tooltip          "Введите выражение для поиска, краткое имя закладки или веб-адрес">
+<!ENTITY locationBar.tooltip          "Введите поисковый запрос, ключевое слово или веб-адрес">
 <!ENTITY locationBar.accesskey        "д">
 <!ENTITY locationBar.title            "Расположение">
 <!ENTITY proxyIcon.tooltip            "Перетащите этот значок, чтобы создать ссылку на эту страницу">
