@@ -7,7 +7,7 @@
 <!ENTITY  engineManager.intro       "У вас установлены плагины для следующих поисковых систем:">
 
 <!ENTITY  columnLabel.name          "Название">
-<!ENTITY  columnLabel.keyword       "Краткое имя">
+<!ENTITY  columnLabel.keyword       "Ключевое слово">
 
 <!-- Buttons -->
 <!ENTITY  up.label                  "Вверх">
@@ -16,7 +16,7 @@
 <!ENTITY  dn.accesskey              "н">
 <!ENTITY  remove.label              "Удалить">
 <!ENTITY  remove.accesskey          "У">
-<!ENTITY  edit.label                "Изменить…">
+<!ENTITY  edit.label                "Изменить ключевое слово…">
 <!ENTITY  edit.accesskey            "з">
 
 <!ENTITY  addEngine.label           "Плагины для других поисковых систем…">
