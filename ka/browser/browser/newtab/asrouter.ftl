@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = შემოთავაზებული შ�
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = რატომ ვხედავ ამას
-
 cfr-doorhanger-extension-cancel-button = ახლა არა
     .accesskey = რ
-
 cfr-doorhanger-extension-ok-button = დამატება ახლავე
     .accesskey = ხ
-
 cfr-doorhanger-extension-manage-settings-button = შემოთავაზებების პარამეტრების მართვა
     .accesskey = შ
-
 cfr-doorhanger-extension-never-show-recommendation = ამ შემოთავაზების ჩვენების შეწყვეტა
     .accesskey = წ
-
 cfr-doorhanger-extension-learn-more-link = იხილეთ ვრცლად
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = შემქმნელი: { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = შემოთავაზება
 cfr-doorhanger-extension-notification2 = შემოთავაზება
     .tooltiptext = გაფართოების შემოთავაზება
     .a11y-announcement = ხელმისაწვდომია გაფართოების შემოთავაზება
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = შემოთავაზება
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = ვრცლად
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = ახალი შესაძლებლობა:
-
 cfr-whatsnew-button =
     .label = რა სიახლეებია
     .tooltiptext = რა სიახლეებია
-
 cfr-whatsnew-release-notes-link-text = იხილეთ გამოშვების შენიშვნები
 
 ## Enhanced Tracking Protection Milestones
@@ -166,6 +156,10 @@ spotlight-total-cookie-protection-body = ფუნთუშების სრ�
 spotlight-total-cookie-protection-expanded = { -brand-short-name } ზღუდეს შემოავლებს ფუნთუშებს, რომ ვერ გასცდეს იმ საიტს, რომელზეც იმყოფებით და მეთვალყურეებიც ვეღარ დაგედევნებიან. ადრეული წვდომით, დაგვეხმარებით ამ შესაძლებლობის დახვეწაში, შედეგად შევძლებთ გავხადოთ ვებსამყარო უკეთესი, ყველასათვის.
 spotlight-total-cookie-protection-primary-button = ჩართეთ ფუნთუშების სრული გამიჯვნა
 spotlight-total-cookie-protection-secondary-button = ახლა არა
+cfr-total-cookie-protection-header = თქვენი წყალობით, { -brand-short-name } აქამდე არნახულად პირადული და დაცულია.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = ფუნთუშების სრული გამიჯვნა არნახულად მძლავრი დაცვაა პირადულობისთვის – და ახლა უკვე ნაგულისხმევ პარამეტრად სთავაზობს { -brand-short-name } ყველა მომხმარებელს. ამას ვერ მოვახერხებდით თქვენი, ადრეული წვდომის მონაწილეებისა და გამომცდელების გარეშე. ასე რომ, გმადლობთ უკეთესი, მეტად პირადული ინტერნეტის შექმნაში მხარდაჭერისთვის.
 
 ## Emotive Continuous Onboarding
 
