@@ -958,6 +958,7 @@ content-blocking-etp-custom-desc = აირჩიეთ, რომელი მ
 content-blocking-etp-blocking-desc = { -brand-short-name } ზღუდავს შემდეგს:
 content-blocking-private-windows = მეთვალყურე შიგთავსი პირად ფანჯრებში
 content-blocking-cross-site-cookies-in-all-windows = საიტთაშორისი ფუნთუშები ყველა ფანჯარაში (მათ შორის მეთვალყურეები)
+content-blocking-cross-site-cookies-in-all-windows2 = საიტთაშორისი ფუნთუშები ყველა ფანჯარებში
 content-blocking-cross-site-tracking-cookies = საიტთაშორისი მეთვალყურე ფუნთუშები
 content-blocking-all-cross-site-cookies-private-windows = საიტთაშორისი ფუნთუშები პირად ფანჯარებში
 content-blocking-cross-site-tracking-cookies-plus-isolate = საიტთაშორისი მეთვალყურე ფუნთუშები, დანარჩენი ფუნთუშების გამიჯვნით
@@ -978,6 +979,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = ფუნთუშების სრული გამიჯვნით, ყველა ფუნთუშა იმ საიტის საზღვრებშივე დარჩება, რომელზეც იმყოფებით და მეთვალყურეები ვეღარ დაგედევნებიან, სხვა საიტებზე გადასვლისას.
 content-blocking-etp-standard-tcp-rollout-learn-more = ვრცლად
+content-blocking-etp-standard-tcp-title = მოიცავს ფუნთუშების სრულ გამიჯვნასაც, ჩვენს არნახულად მძლავრ საშუალებას პირადულობისთვის
 content-blocking-warning-title = ფრთხილად!
 content-blocking-and-isolating-etp-warning-description-2 = ამ პარამეტრებმა შეიძლება გამოიწვიოს გაუმართაობები, ზოგიერთი საიტის შიგთავსის ჩვენებასა და მუშაობაში. თუ საიტი დაზიანდება, მოგიწევთ მისი გამოთიშვა თვალთვალისგან დაცვიდან, შიგთავსის სრულად ჩასატვირთად.
 content-blocking-warning-learn-how = იხილეთ როგორ
