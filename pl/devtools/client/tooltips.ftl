@@ -54,6 +54,7 @@ inactive-css-not-for-internal-table-elements-fix = Spróbuj ustawić jego własn
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Spróbuj ustawić jego własność <strong>display</strong> na coś innego niż <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> lub <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Spróbuj dodać <strong>display:table</strong> lub <strong>display:inline-table</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Spróbuj dodać <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> lub <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-border-image-fix = W nadrzędnym elemencie tabeli usuń własność lub zmień wartość <strong>border-collapse</strong> na inną niż <strong>collapse</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
