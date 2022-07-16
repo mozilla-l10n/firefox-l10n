@@ -16,11 +16,11 @@ navbar-tooltip-instruction =
 main-context-menu-back-2 =
     .tooltiptext = На предыдущую страницу ({ $shortcut })
     .aria-label = Назад
-    .accesskey = а
+    .accesskey = Н
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
     .label = Назад
-    .accesskey = а
+    .accesskey = Н
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -33,11 +33,11 @@ toolbar-button-back-2 =
 main-context-menu-forward-2 =
     .tooltiptext = На следующую страницу ({ $shortcut })
     .aria-label = Вперёд
-    .accesskey = е
+    .accesskey = В
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
     .label = Вперёд
-    .accesskey = е
+    .accesskey = В
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -47,11 +47,11 @@ toolbar-button-forward-2 =
 
 main-context-menu-reload =
     .aria-label = Обновить
-    .accesskey = в
+    .accesskey = О
 # This menuitem is only visible on macOS
 main-context-menu-reload-mac =
     .label = Обновить
-    .accesskey = в
+    .accesskey = О
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -59,11 +59,11 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = Остановить
-    .accesskey = н
+    .accesskey = т
 # This menuitem is only visible on macOS
 main-context-menu-stop-mac =
     .label = Остановить
-    .accesskey = н
+    .accesskey = т
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -81,67 +81,67 @@ toolbar-button-fxaccount =
 ## Save Page
 
 main-context-menu-page-save =
-    .label = Сохранить как…
-    .accesskey = р
+    .label = Сохранить страницу как…
+    .accesskey = С
 
 ## Simple menu items
 
 main-context-menu-bookmark-add =
     .aria-label = Добавить страницу в закладки
-    .accesskey = в
+    .accesskey = з
     .tooltiptext = Добавить страницу в закладки
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-add-mac =
-    .label = Добавить в закладки
-    .accesskey = в
+    .label = Добавить страницу в закладки
+    .accesskey = з
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-edit-mac =
     .label = Изменить закладку
-    .accesskey = м
+    .accesskey = И
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
     .aria-label = Добавить страницу в закладки
-    .accesskey = в
+    .accesskey = з
     .tooltiptext = Добавить страницу в закладки ({ $shortcut })
 main-context-menu-bookmark-change =
-    .aria-label = Редактировать эту закладку
-    .accesskey = в
-    .tooltiptext = Редактировать эту закладку
+    .aria-label = Изменить закладку
+    .accesskey = И
+    .tooltiptext = Изменить закладку
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Редактировать эту закладку
-    .accesskey = в
-    .tooltiptext = Редактировать эту закладку ({ $shortcut })
+    .aria-label = Изменить закладку
+    .accesskey = И
+    .tooltiptext = Изменить закладку ({ $shortcut })
 main-context-menu-open-link =
     .label = Открыть ссылку
-    .accesskey = к
+    .accesskey = О
 main-context-menu-open-link-new-tab =
     .label = Открыть ссылку в новой вкладке
     .accesskey = в
 main-context-menu-open-link-container-tab =
     .label = Открыть ссылку в новой вкладке в контейнере
-    .accesskey = е
+    .accesskey = к
 main-context-menu-open-link-new-window =
     .label = Открыть ссылку в новом окне
-    .accesskey = ь
+    .accesskey = н
 main-context-menu-open-link-new-private-window =
     .label = Открыть ссылку в новом приватном окне
     .accesskey = п
 main-context-menu-bookmark-link =
-    .label = Добавить в закладки
+    .label = Добавить ссылку в закладки
     .accesskey = з
 main-context-menu-save-link =
     .label = Сохранить объект как…
-    .accesskey = х
+    .accesskey = С
 main-context-menu-save-link-to-pocket =
     .label = Сохранить ссылку в { -pocket-brand-name }
-    .accesskey = н
+    .accesskey = р
 
 ## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -302,8 +302,8 @@ main-context-menu-manage-logins2 =
     .label = Управление логинами
     .accesskey = п
 main-context-menu-keyword =
-    .label = Добавить краткое имя для данного поиска…
-    .accesskey = с
+    .label = Добавить ключевое слово для этого запроса…
+    .accesskey = к
 main-context-menu-link-send-to-device =
     .label = Отправить ссылку на устройство
     .accesskey = п

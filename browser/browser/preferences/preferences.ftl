@@ -601,7 +601,7 @@ search-one-click-desc = Выберите альтернативные поиск
 search-choose-engine-column =
     .label = Поисковая система
 search-choose-keyword-column =
-    .label = Краткое имя
+    .label = Ключевое слово
 search-restore-default =
     .label = Восстановить поисковые системы по умолчанию
     .accesskey = а
@@ -614,11 +614,11 @@ search-add-engine =
 search-find-more-link = Найти другие поисковые системы
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
-search-keyword-warning-title = Краткое имя уже используется
+search-keyword-warning-title = Ключевое слово уже используется
 # Variables:
 #   $name (String) - Name of a search engine.
-search-keyword-warning-engine = Вы выбрали краткое имя, которое в данный момент используется { $name }. Выберите другое.
-search-keyword-warning-bookmark = Вы выбрали краткое имя, которое в данный момент используется одной из закладок. Выберите другое.
+search-keyword-warning-engine = Выбранное ключевое слово уже используется «{ $name }». Пожалуйста, выберите другое.
+search-keyword-warning-bookmark = Выбранное ключевое слово уже используется одной из закладок. Пожалуйста, выберите другое.
 
 ## Containers Section
 
