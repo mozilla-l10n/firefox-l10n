@@ -68,6 +68,7 @@ policy-ExtensionSettings = გაფართოების დაყენე�
 policy-ExtensionUpdate = ჩართვა ან გამორთვა, გაფართოების თვითგანახლების.
 policy-FirefoxHome = Firefox Home-ის გამართვა.
 policy-FlashPlugin = Flash-მოდულის გამოყენების დაშვება ან უარყოფა.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = იძულებით გადასვლა პირდაპირ შიდა ქსელის საიტზე ცალკეული სიტყვის მისამართების ველში შეყვანისას, ნაცვლად საძიებოში მონახვისა.
 policy-Handlers = გამართვა, ნაგულისხმევი პროგრამების დამმუშავებლების.
 policy-HardwareAcceleration = თუ უარყოფილია, აპარატურული აჩქარების გათიშვა.
 # “lock” means that the user won’t be able to change this setting
