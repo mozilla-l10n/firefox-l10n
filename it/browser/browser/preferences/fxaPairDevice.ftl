@@ -2,6 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+fxa-pair-device-dialog-sync =
+    .style = width: 37em;
+
+fxa-qrcode-pair-title = Sincronizza { -brand-product-name } sul tuo telefono o tablet
+fxa-qrcode-pair-step1 = 1. Apri { -brand-product-name } sul tuo dispositivo mobile.
+
+fxa-qrcode-pair-step2 = 2. Apri il <strong>menu</strong> (<img data-l10n-name="ios-menu-icon"/> su iOS o <img data-l10n-name="android-menu-icon"/> su Android) e tocca <strong>Accedi per sincronizzare</strong>
+
+fxa-qrcode-pair-step3 = 3. Tocca <strong>Pronto per la scansione</strong> e inquadra questo codice con il tuo dispositivo
+
 fxa-pair-device-dialog =
     .title = Connessione dispositivo
     .style = width: 26em; min-height: 35em;
