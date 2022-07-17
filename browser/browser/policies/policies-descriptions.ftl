@@ -68,7 +68,7 @@ policy-ExtensionSettings = Hantera alla aspekter av tilläggsinstallation.
 policy-ExtensionUpdate = Aktivera eller inaktivera automatiska utökningsuppdateringar.
 policy-FirefoxHome = Konfigurera Firefox startsida.
 policy-FlashPlugin = Tillåt eller neka att insticksmodulen Flash används.
-policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Använd direkt intranätnavigation istället för att söka när ett enstaka ord skrivs i adressfältet.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Tvinga direkt navigering på intranätet istället för att söka när du skriver in enstaka ord i adressfältet.
 policy-Handlers = Konfigurera standardprogramhanterare.
 policy-HardwareAcceleration = Om inaktiv, stäng av hårdvaruacceleration.
 # “lock” means that the user won’t be able to change this setting

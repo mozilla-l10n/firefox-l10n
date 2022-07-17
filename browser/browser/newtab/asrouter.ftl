@@ -159,7 +159,7 @@ spotlight-total-cookie-protection-secondary-button = Inte nu
 cfr-total-cookie-protection-header = Tack vare dig är { -brand-short-name } mer privat och säkrare än någonsin
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Total Cookie Protection är vårt starkaste integritetsskydd hittils – och det är nu påslaget som standard i { -brand-short-name } användare överallt. Vi hade inte kunnat göra detta utan deltagare som valt att använda funktionen i förtid, som du. Så tack för att du hjälper oss att skapa ett bättre mer privat internet.
+cfr-total-cookie-protection-body = Totalt skydd mot kakor är vårt starkaste integritetsskydd hittills – och det är nu en standardinställning för { -brand-short-name } användare överallt. Vi hade inte kunnat göra det utan deltagare med tidig tillgång som du. Så tack för att du hjälper oss att skapa ett bättre, mer privat internet.
 
 ## Emotive Continuous Onboarding
 
