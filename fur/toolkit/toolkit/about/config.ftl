@@ -35,6 +35,8 @@ about-config-pref-delete-button =
 ## Labels for the type selection radio buttons shown when adding preferences.
 
 about-config-pref-add-type-boolean = Boolean
+about-config-pref-add-type-number = Numar
+about-config-pref-add-type-string = Stringhe
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
@@ -43,3 +45,7 @@ about-config-pref-add-type-boolean = Boolean
 ## Variables:
 ##   $value (String): The full value of the preference.
 
+about-config-pref-accessible-value-default =
+    .aria-label = { $value } (predefinît)
+about-config-pref-accessible-value-custom =
+    .aria-label = { $value } (personalizât)
