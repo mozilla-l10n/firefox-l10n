@@ -269,6 +269,7 @@ quickactions-settings = Opne Innstillingar
 quickactions-downloads = Opne nedlastingar
 quickactions-viewsource = Vis kjeldekode
 quickactions-inspector = Opne inspeksjon
+quickactions-refresh = Tilbakestill { -brand-short-name }
 quickactions-restart = Start { -brand-short-name } på nytt
 quickactions-update = Oppdater { -brand-short-name }
 

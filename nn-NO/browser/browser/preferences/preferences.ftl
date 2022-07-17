@@ -958,6 +958,7 @@ content-blocking-etp-custom-desc = Vel kva for sporarar og skript som skal blokk
 content-blocking-etp-blocking-desc = { -brand-short-name } blokkerer følgjande:
 content-blocking-private-windows = Sporingsinnhald i private vindauge
 content-blocking-cross-site-cookies-in-all-windows = Infokapslar på tvers av nettstadar i alle vindauge (inkluderer infokapslar for sporing)
+content-blocking-cross-site-cookies-in-all-windows2 = Infokapslar på tvers av nettstadar i alle vindauge
 content-blocking-cross-site-tracking-cookies = Sporingsinfokapslar på tvers av nettstadar
 content-blocking-all-cross-site-cookies-private-windows = Infokapslar på tvers av nettstadar i private vindauge
 content-blocking-cross-site-tracking-cookies-plus-isolate = Sporingsinfokapsler på tvers av nettstadar, isolering av attståande infokapslar
