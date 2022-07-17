@@ -271,6 +271,7 @@ quickactions-viewsource = ਸਰੋਤ ਵੇਖੋ
 quickactions-inspector = ਇੰਸਪੈਸਕਟਰ ਖੋਲ੍ਹੋ
 quickactions-refresh = { -brand-short-name } ਨੂੰ ਤਾਜ਼ਾ ਕਰੋ
 quickactions-restart = { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ
+quickactions-update = { -brand-short-name } ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ
 
 ## Bookmark Panel
 
@@ -492,6 +493,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = ਖੋਜ ਸ਼ਬਦ ਦਿਓ
     .aria-label = ਟੈਬਾਂ ਨੂੰ ਖੋਜੋ
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = ਖੋਜ ਸ਼ਬਦ ਦਿਓ
+    .aria-label = ਕਾਰਵਾਈਆਂ ਖੋਜੋ
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -844,3 +849,5 @@ data-reporting-notification-message = { -brand-short-name } ਆਪਣੇ-ਆਪ 
 data-reporting-notification-button =
     .label = ਚੁਣੋ ਕਿ ਮੈਂ ਕੀ ਸਾਂਝਾ ਕਰਾਂ
     .accesskey = C
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
