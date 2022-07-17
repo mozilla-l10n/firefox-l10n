@@ -195,7 +195,7 @@ about-logins-breach-alert-date = Cheste violazion e je capitade ai { DATETIME($d
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Va su { $hostname }
-about-logins-breach-alert-learn-more-link = Par savê di plui
+about-logins-breach-alert-learn-more-link = Plui informazions
 
 ## Vulnerable Password notification
 
@@ -204,7 +204,7 @@ about-logins-vulnerable-alert-text2 = Cheste password e je stade doprade suntun 
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Va su { $hostname }
-about-logins-vulnerable-alert-learn-more-link = Par savê di plui
+about-logins-vulnerable-alert-learn-more-link = Plui informazions
 
 ## Error Messages
 
@@ -284,7 +284,7 @@ about-logins-import-dialog-error-file-permission-description = { -brand-short-na
 about-logins-import-dialog-error-unable-to-read-title = Impussibil analizâ il file
 about-logins-import-dialog-error-unable-to-read-description = Siguriti di selezionâ un file CSV o TSV.
 about-logins-import-dialog-error-no-logins-imported = No je stade impuartade nissune credenziâl
-about-logins-import-dialog-error-learn-more = Par savê di plui
+about-logins-import-dialog-error-learn-more = Plui informazions
 about-logins-import-dialog-error-try-import-again = Prove torne a impuartâ…
 about-logins-import-dialog-error-cancel = Anule
 about-logins-import-report-title = Sintesi di importazion

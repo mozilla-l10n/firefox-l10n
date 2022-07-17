@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Copie la videade intes notis
 screenshots-cancel-button-title =
     .title = Anule
+screenshots-retry-button-title =
+    .title = Torne prove a cjapâ une videade
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
