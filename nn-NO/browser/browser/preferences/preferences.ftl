@@ -977,6 +977,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Totalt vern mot infokapslar isolerer infokapslar til nettstaden du er på, så sporarar ikkje kan bruke dei til å følgje deg mellom nettstadar.
 content-blocking-etp-standard-tcp-rollout-learn-more = Les meir
+content-blocking-etp-standard-tcp-title = Inkluderer totalt vern mot infokapslar, den kraftigaste personvernfunksjonen vår nokon gong
 content-blocking-warning-title = Viktig!
 content-blocking-and-isolating-etp-warning-description-2 = Denne innstillinga kan føre til at enkelte nettstadar ikkje viser innhald eller fungerer rett. Dersom ein nettstad verkar øydelagd, kan det vere lurt å slå av sporingsvernet for nettsaden for å få laste inn alt innhaldet.
 content-blocking-warning-learn-how = Les korleis
