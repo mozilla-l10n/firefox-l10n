@@ -294,6 +294,9 @@ theme-monochromatic-heading = Fargesamansetjingar
 theme-monochromatic-subheading = Levande nye fargesamansetjingar frå { -brand-product-name }. Tilgjengeleg for ein avgrensa periode.
 theme-colorways-button = Prøv Colorways
 colorway-collection-independent-voices-subheading = Gjer { -brand-short-name } litt meir personleg.
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires.
+colorway-collection-expiry-date-span = Går ut { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Slått på
 plugin-disabled-heading = Slått av
 dictionary-enabled-heading = Slått på

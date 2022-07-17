@@ -63,3 +63,4 @@ experimental-features-ime-search-description = Ein IME (Input Method Editor) er 
 # Text recognition for images
 experimental-features-text-recognition =
     .label = Tekstattkjenning
+experimental-features-text-recognition-description = Slå på funksjonar for å kjenne att tekst i bilde.

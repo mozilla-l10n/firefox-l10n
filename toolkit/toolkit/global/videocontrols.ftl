@@ -41,6 +41,10 @@ videocontrols-picture-in-picture-explainer = Spel av videoar i framgrunnen medan
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Sprett ut denne videoen
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer2 = Fleire skjermar er kjekkare. Spel av denne videoen i bilde-i-bilde medan du surfar.
 videocontrols-error-aborted = Videolasting stoppa.
 videocontrols-error-network = Videoavspeling avbroten på grunn av nettverksfeil.
 videocontrols-error-decode = Kan ikkje spela av video fordi fila er skada.
