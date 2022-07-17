@@ -21,6 +21,7 @@ perftools-heading-features-default = Funzionalitâts (racomandadis in mût prede
 perftools-heading-features-disabled = Funzionalitâts disativadis
 perftools-heading-features-experimental = Sperimentâl
 perftools-heading-threads = Threads
+perftools-heading-threads-jvm = Threads JVM
 perftools-heading-local-build = Compilazion locâl
 
 ##
@@ -42,9 +43,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Dimension mem. tampon:
-
 perftools-custom-threads-label = Zonte dai threads personalizâts par non:
-
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Threads:
 perftools-devtools-settings-label = Impostazions
@@ -84,6 +83,8 @@ perftools-thread-render-backend =
     .title = Il thread RenderBackend di WebRender
 perftools-thread-paint-worker =
     .title = Cuant che la piture fûr dal thread principâl (off-main-thread) e je ative, il thread dulà che e ven fate la piture
+perftools-thread-timer =
+    .title = Il thread che al gjestìs i temporizadôrs (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = Il calcul dai stîi al ven dividût in plui threads
 pref-thread-stream-trans =
@@ -94,33 +95,39 @@ perftools-thread-img-decoder =
     .title = Threads pe decodifiche des imagjins
 perftools-thread-dns-resolver =
     .title = La risoluzion dal DNS e ven fate su chest thread
+perftools-thread-task-controller =
+    .title = I threads dal bacin di threads dal TaskController
+perftools-thread-jvm-gecko =
+    .title = Il thread principâl de JVM di Gecko
+perftools-thread-jvm-nimbus =
+    .title = I threads principâls pal SDK dai esperiments Nimbus
+perftools-thread-jvm-default-dispatcher =
+    .title = Il spedizionîr predefinît pe librarie di coroutines di Kotlin
+perftools-thread-jvm-glean =
+    .title = I threads principâls pal SDK di telemetrie Glean
+perftools-thread-jvm-arch-disk-io =
+    .title = Il spedizionîr di IO pe librarie di coroutines di Kotlin
 
 ##
 
 perftools-record-all-registered-threads = Salte lis selezions chi parsore e regjistre ducj i threads regjistrâts
-
 perftools-tools-threads-input-label =
     .title = Chescj nons di thread a son une liste separade di virgulis che e ven doprade par ativâ la profilazion dai threads intal profiladôr. Par includi il non, chest al à di jessi dome une corispondence parziâl dal non efetîf dal thread. Al è sensibil ai spazis.
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Novitât</b>: { -profiler-brand-name } al è cumò integrât intai struments di disvilup. <a>Scuvierç altris informazions</a> su chest gnûf e potent strument.
-
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (Par un timp limitât, tu puedis acedi al panel origjinâl des prestazions vie <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Siere il messaç di introduzion
 
 ## Profiler presets
 
+
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+
 ##
+
