@@ -107,6 +107,8 @@ perftools-thread-jvm-glean =
     .title = I threads principâls pal SDK di telemetrie Glean
 perftools-thread-jvm-arch-disk-io =
     .title = Il spedizionîr di IO pe librarie di coroutines di Kotlin
+perftools-thread-jvm-pool =
+    .title = Threads creâts intun bacin cence non di threads
 
 ##
 
@@ -128,6 +130,17 @@ perftools-onboarding-close-button =
 # devtools/client/performance-new/popup/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+perftools-presets-web-developer-label = Svilupadôr Web
+perftools-presets-web-developer-description = Preconfigurazion conseade pe plui part dai debug des web-app, cun basse sorecjame.
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = Preconfigurazion conseade pe profilazion di { -brand-shorter-name }.
+perftools-presets-graphics-label = Grafiche
+perftools-presets-graphics-description = Preconfigurazion par investigâ sui erôrs grafics in { -brand-shorter-name }.
+perftools-presets-media-label = Media
+perftools-presets-media-description2 = Preconfigurazion par investigâ su erôrs audio e video in { -brand-shorter-name }.
+perftools-presets-networking-label = Rêt
+perftools-presets-networking-description = Preconfigurazion par investigâ su erôrs di rêt in { -brand-shorter-name }.
+perftools-presets-custom-label = Personalizât
 
 ##
 

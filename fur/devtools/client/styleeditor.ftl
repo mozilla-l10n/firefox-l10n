@@ -8,6 +8,8 @@ styleeditor-new-button =
 styleeditor-import-button =
     .tooltiptext = Impuarte e zonte un sfuei di stîl esistent al document
     .accesskey = I
+styleeditor-filter-input =
+    .placeholder = Filtre sfueis di stîl
 styleeditor-visibility-toggle =
     .tooltiptext = Comute la visibilitât dai sfueis di stîl
     .accesskey = S
@@ -28,3 +30,5 @@ styleeditor-copy-url =
 styleeditor-go-to-line =
     .label = Salte ae rie…
     .accesskey = S
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = Nol è stât cjatât nissun sfuei di stîl corispondent.
