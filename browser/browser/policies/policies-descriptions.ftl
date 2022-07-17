@@ -68,7 +68,7 @@ policy-ExtensionSettings = Alle Einstellungen für die Erweiterungsinstallation 
 policy-ExtensionUpdate = Automatische Add-on-Updates aktivieren oder deaktivieren
 policy-FirefoxHome = Firefox-Startseite konfigurieren
 policy-FlashPlugin = Flash-Plugin-Verwendung erlauben oder verbieten
-policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Direkte Navigation auf Intranet-Websites erzwingen, anstatt beim Eintippen von Einzelworteinträgen in die Adressleiste zu suchen
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Direkte Navigation zu Intranet-Websites erzwingen, anstatt beim Eintippen von Einzelworteinträgen in die Adressleiste eine Suche zu starten
 policy-Handlers = Standardanwendungen für das Öffnen von Dateien, Protokollen und MIME-Typen festlegen
 policy-HardwareAcceleration = Hardwarebeschleunigung deaktiviert, falls false
 # “lock” means that the user won’t be able to change this setting
