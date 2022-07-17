@@ -112,9 +112,19 @@ delete-user-cert-confirm = Шумо мутмаин ҳастед, ки мехоҳ
 delete-ssl-override-title =
     .title = Тоза кардани истисно барои гувоҳиномаи сервер
 delete-ssl-override-confirm = Шумо мутмаин ҳастед, ки мехоҳед ин истиснои серверро нест намоед?
+delete-ca-cert-title =
+    .title = Несткунӣ ё нобоварӣ нисбат ба гувоҳиномаҳои МИ
 delete-email-cert-title =
     .title = Нест кардани гувоҳиномаҳои почтаи электронӣ
 delete-email-cert-confirm = Шумо мутмаин ҳастед, ки мехоҳед гувоҳиномаҳои почтаи электронии одамони зеринро нест намоед?
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Гувоҳинома бо рақами силсилавӣ: { $serialNumber }
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Гувоҳиномаи муштарӣ ирсол карда нашавад
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Нигоҳ дошта нашуд)
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
