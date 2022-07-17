@@ -122,6 +122,7 @@ urlbar-tabtosearch-onboard = Fren anegzum-a akken ad tafeḍ ayen tettnadiḍ s 
 urlbar-search-mode-bookmarks = Ticraḍ n yisebtar
 urlbar-search-mode-tabs = Accaren
 urlbar-search-mode-history = Amazray
+urlbar-search-mode-actions = Tigawin
 
 ##
 
