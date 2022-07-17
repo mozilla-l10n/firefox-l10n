@@ -156,6 +156,9 @@ spotlight-total-cookie-protection-expanded = { -brand-short-name }byggjer eit gj
 spotlight-total-cookie-protection-primary-button = Slå på total vern mot infokapslar
 spotlight-total-cookie-protection-secondary-button = Ikkje no
 cfr-total-cookie-protection-header = Takka vere deg er { -brand-short-name } meir privat og sikrare enn nokon gong
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = Totalt vern mot infokapslar er vårt sterkaste personvern til no – og det er no ei standardinnstilling for { -brand-short-name }-brukarar overalt. Vi kunne ikkje ha gjort det utan deltakarar med tidleg tilgang som deg. Så takk for at du hjelper oss med å skape eit betre, meir privat internett.
 
 ## Emotive Continuous Onboarding
 
