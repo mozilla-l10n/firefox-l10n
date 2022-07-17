@@ -62,6 +62,10 @@ appmenu-settings =
     .label = Подешавања
 appmenu-addons-and-themes =
     .label = Додаци и теме
+appmenu-help-enter-troubleshoot-mode =
+    .label = Режим решавања проблема…
+appmenu-help-more-troubleshooting-info =
+    .label = Више података за решавање проблема
 appmenu-redirect-msg =
     .label = Преусмери
 
