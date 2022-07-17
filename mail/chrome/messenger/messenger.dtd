@@ -316,7 +316,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Ћаскање">
 <!ENTITY goChatCmd.accesskey "к">
-<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Порука са звездицом">
 <!ENTITY prevStarredMsgCmd.accesskey "з">
 <!ENTITY folderMenu.label "Фасцикла">
@@ -486,6 +485,8 @@
 <!ENTITY deleteJunk.accesskey "б">
 <!ENTITY importCmd.label "Увези…">
 <!ENTITY importCmd.accesskey "з">
+<!ENTITY exportCmd.label "Извези…">
+<!ENTITY exportCmd.accesskey "з">
 <!ENTITY clearRecentHistory.label "Очисти скорашњи историјат…">
 <!ENTITY clearRecentHistory.accesskey "и">
 <!ENTITY accountManagerCmd2.label "Подешавања налога">
@@ -692,7 +693,6 @@
 <!ENTITY locationColumn.label "Локација">
 <!ENTITY idColumn.label "Редослед пријема">
 <!ENTITY attachmentColumn.label "Прилози">
-
 <!ENTITY deleteColumn.label "Обриши">
 
 <!-- Thread Pane Tooltips -->
@@ -718,7 +718,6 @@
 <!ENTITY locationColumn2.tooltip "Поређај по месту">
 <!ENTITY idColumn2.tooltip "Поређај по редоследу пријема">
 <!ENTITY attachmentColumn2.tooltip "Поређај по прилозима">
-
 <!ENTITY deleteColumn.tooltip "Обриши поруку">
 
 <!-- Thread Pane Context Menu -->

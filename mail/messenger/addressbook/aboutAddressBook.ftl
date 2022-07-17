@@ -9,8 +9,18 @@ about-addressbook-title = Именик
 
 ## Books
 
+about-addressbook-books-context-export =
+    .label = Извези…
 
 ## Cards
+
+
+## Card column headers
+## Each string is listed here twice, and the values should match.
+
+
+## Card list placeholder
+## Shown when there are no cards in the list
 
 
 ## Details
