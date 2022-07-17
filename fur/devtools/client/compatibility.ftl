@@ -39,8 +39,14 @@ compatibility-issue-occurrences =
         [one] { $number } câs
        *[other] { $number } câs
     }
-
 compatibility-no-issues-found = Nissun probleme di compatibilitât cjatât.
 compatibility-close-settings-button =
     .title = Siere lis impostazions
-
+# Text used in the element containing the browser icons for a given compatibility issue.
+# Line breaks are significant.
+# Variables:
+#   $browsers (String) - A line-separated list of browser information (e.g. Firefox 98\nChrome 99).
+compatibility-issue-browsers-list =
+    .title =
+        Problemis di compatibilitât in:
+        { $browsers }
