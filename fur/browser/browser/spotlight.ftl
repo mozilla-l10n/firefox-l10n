@@ -17,3 +17,6 @@ spotlight-ios-marketplace-button =
 ## Firefox Focus promo message strings
 
 spotlight-focus-promo-title = Oten { -focus-brand-name }
+spotlight-focus-promo-subtitle = Scansione il codiç QR par discjamâ.
+spotlight-focus-promo-qr-code =
+    .alt = Scansione il codiç QR par otignî { -focus-brand-name }

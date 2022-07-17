@@ -124,9 +124,9 @@ cfr-doorhanger-video-support-primary-button = Inzorne cumò
 
 ## Spotlight modal shared strings
 
-spotlight-learn-more-collapsed = Altris informazions
+spotlight-learn-more-collapsed = Plui informazions
     .title = Slargje par scuvierzi altris informazions su cheste funzionalitât
-spotlight-learn-more-expanded = Altris informazions
+spotlight-learn-more-expanded = Plui informazions
     .title = Siere
 
 ## VPN promotion dialog for public Wi-Fi users

@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = Gnove schede
+    .accesskey = G
 reload-tab =
     .label = Torne cjarie la schede
     .accesskey = r
@@ -84,6 +87,14 @@ tab-context-reopen-closed-tabs =
            *[other] Torne vierç schedis sieradis
         }
     .accesskey = o
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Siere schede
+            [one] Siere { $tabCount } schedis
+           *[other] Siere { $tabCount } schedis
+        }
+    .accesskey = c
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -92,7 +103,6 @@ tab-context-move-tabs =
            *[other] Sposte schedis
         }
     .accesskey = h
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
