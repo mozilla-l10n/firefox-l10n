@@ -290,8 +290,11 @@ theme-disabled-heading = Ғайрифаъол аст
 theme-disabled-heading2 = Мавзуъҳои нигоҳдошташуда
 theme-monochromatic-heading = Нақшу нигор
 theme-monochromatic-subheading = Нақшу нигори нерӯманди нав аз { -brand-product-name }. Ба муддати маҳдуд дастрас аст.
+# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Нақшу нигорҳоро озмоед
 colorway-collection-independent-voices-subheading = Бигузор, ки шумо каме бештар соҳиби { -brand-short-name } шавед.
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Иваз кардани нақшу нигор
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = Дар санаи { DATETIME($expiryDate, month: "long", day: "numeric") } ба анҷом мерасад
