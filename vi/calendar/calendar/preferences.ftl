@@ -15,6 +15,10 @@ dateformat-long =
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = Ngắn: { $date }
+use-system-timezone-radio-button =
+    .label = Sử dụng múi giờ hệ thống
+set-timezone-manually-radio-button =
+    .label = Đặt múi giờ theo cách thủ công
 timezone-label =
     .value = Múi giờ:
 weekstart-label =
@@ -101,12 +105,6 @@ previous-weeks-label =
     .value = Số lượng tuần trước đó mà bạn muốn hiển thị:
     .accesskey = S
 todaypane-legend = Bảng ngày hôm nay
-# Note: "Upcoming" is the name of a section and the translation must match the
-# translation of that section name (calendar.upcoming.button.label). Also,
-# it should be upper case (as a proper name) if the target language permits.
-soon-label =
-    .value = Phần sắp tới cho thấy:
-    .accesskey = U
 agenda-days =
     .value = Chương trình cho thấy:
     .accesskey = g
