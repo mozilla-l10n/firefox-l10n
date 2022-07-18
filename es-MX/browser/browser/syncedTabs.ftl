@@ -37,12 +37,12 @@ synced-tabs-context-bookmark-single-tab =
 synced-tabs-context-open-in-tab =
     .label = Abrir en una pestaña nueva
     .accesskey = p
-synced-tabs-context-open-in-container-tab =
-    .label = Abrir en una nueva pestaña contenedora
-    .accesskey = i
 synced-tabs-context-open-in-window =
     .label = Abrir en una ventana nueva
     .accesskey = n
+synced-tabs-context-open-in-private-window =
+    .label = Abrir en una nueva ventana privada
+    .accesskey = p
 
 ##
 
