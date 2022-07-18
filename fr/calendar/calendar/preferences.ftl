@@ -15,6 +15,10 @@ dateformat-long =
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = Court : { $date }
+use-system-timezone-radio-button =
+    .label = Utiliser le fuseau horaire du système
+set-timezone-manually-radio-button =
+    .label = Définir manuellement le fuseau horaire
 timezone-label =
     .value = Fuseau horaire :
 weekstart-label =
@@ -101,12 +105,6 @@ previous-weeks-label =
     .value = Nombre de semaines passées :
     .accesskey = o
 todaypane-legend = Panneau « Aujourd’hui »
-# Note: "Upcoming" is the name of a section and the translation must match the
-# translation of that section name (calendar.upcoming.button.label). Also,
-# it should be upper case (as a proper name) if the target language permits.
-soon-label =
-    .value = La section « Prochainement » doit afficher une période de :
-    .accesskey = P
 agenda-days =
     .value = L’agenda indique :
     .accesskey = a
