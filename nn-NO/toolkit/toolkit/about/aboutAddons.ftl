@@ -292,8 +292,11 @@ theme-disabled-heading = Slått av
 theme-disabled-heading2 = Lagra tema
 theme-monochromatic-heading = Fargesamansetjingar
 theme-monochromatic-subheading = Levande nye fargesamansetjingar frå { -brand-product-name }. Tilgjengeleg for ein avgrensa periode.
+# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Prøv Colorways
 colorway-collection-independent-voices-subheading = Gjer { -brand-short-name } litt meir personleg.
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Endre fargesamansetjing
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = Går ut { DATETIME($expiryDate, month: "long", day: "numeric") }
