@@ -488,6 +488,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Emoinge ñe’ẽ ehekaséva
     .aria-label = Eheka tendayképe
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Emoinge ñe’ẽ ehekaséva
+    .aria-label = Jeku’e jehekarã
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -576,6 +580,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = { $engine } Ñemoñe’ẽ
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Jeku’e Pya’e
 
 ## Full Screen and Pointer Lock UI
 
