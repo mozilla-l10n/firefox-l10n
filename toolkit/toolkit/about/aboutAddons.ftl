@@ -278,8 +278,11 @@ permissions-addon-button = הרשאות
 theme-disabled-heading2 = ערכות נושא שמורות
 theme-monochromatic-heading = ערכות צבעים
 theme-monochromatic-subheading = ערכות צבעים חדשים ותוססים מ־{ -brand-product-name }. זמינים לזמן מוגבל.
+# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = לנסות ערכות צבעים
 colorway-collection-independent-voices-subheading = להפוך את { -brand-short-name } לקצת אישי יותר
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = שינוי ערכת צבעים
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = יפוג ב־{ DATETIME($expiryDate, month: "long", day: "numeric") }
