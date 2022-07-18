@@ -11,5 +11,9 @@ fxa-qrcode-heading-step3 = 3. Wočińće <b>menu</b> (<img data-l10n-name="ios-m
 fxa-qrcode-heading-step4 = Tutón kod skenować:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-qrcode-pair-title = Synchronizujće { -brand-product-name } na swojim telefonje abo tableće
+fxa-qrcode-pair-step1 = 1. Wočińće { -brand-product-name } na swojim mobilnym graće.
+fxa-qrcode-pair-step2 = 2. Wočińće <strong>meni</strong> (<img data-l10n-name="ios-menu-icon"/> na iOS abo <img data-l10n-name="android-menu-icon"/> na Android) a podótkńće so <strong>Za synchronizaciju přizjewić</strong>
+fxa-qrcode-pair-step3 = 3. Podótkńće so <strong>Za skenowanje hotowy</strong> a dźeržće swój telefon nad tutym kodom
 fxa-qrcode-error-title = Koplowanje je so nimokuliło.
 fxa-qrcode-error-body = Hišće raz spytać.
