@@ -12,6 +12,13 @@ synced-tabs-sidebar-tabsnotsyncing = Kapcsolja be a lapszinkronizálást a más 
 synced-tabs-sidebar-connect-another-device = Másik eszköz csatlakoztatása
 synced-tabs-sidebar-search =
     .placeholder = Szinkronizált lapok keresése
+
+## Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
+## and/or devices in the list. The "Open" strings below should be translated
+## consistently with the equivalent strings for the bookmarks manager's context
+## menu. That menu is activated by right-clicking a bookmark in the Library
+## window. The bookmarks manager context's strings are located in places.ftl.
+
 synced-tabs-context-open =
     .label = Megnyitás
     .accesskey = M
@@ -27,6 +34,29 @@ synced-tabs-context-open-in-new-private-window =
 synced-tabs-context-bookmark-single-tab =
     .label = Aktuális lap könyvjelzőbe…
     .accesskey = t
+synced-tabs-context-open-in-tab =
+    .label = Megnyitás új lapon
+    .accesskey = j
+synced-tabs-context-open-in-container-tab =
+    .label = Megnyitás új konténerlapban
+    .accesskey = o
+synced-tabs-context-open-in-window =
+    .label = Megnyitás új ablakban
+    .accesskey = a
+synced-tabs-context-open-in-private-window =
+    .label = Megnyitás új privát ablakban
+    .accesskey = p
+
+##
+
+# Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
+# and/or devices in the list. This string is for a menuitem equivalent to one in
+# the tab context menu (activated by right-clicking a tab in the tabstrip). That
+# string is located in tabContextMenu.ftl. So, this string should be translated
+# consistently with the "Bookmark Tab" string there.
+synced-tabs-context-bookmark-tab =
+    .label = Lap könyvjelzőzése
+    .accesskey = k
 synced-tabs-context-copy =
     .label = Másolás
     .accesskey = M
