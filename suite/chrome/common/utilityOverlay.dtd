@@ -154,6 +154,9 @@
 <!ENTITY aboutCommPluginsCmd.label          "Sobre os plugins">
 <!ENTITY aboutCommPluginsCmd.accesskey      "l">
 
+<!ENTITY aboutBuildConfigCmd.label          "Mostrar configuração da compilação">
+<!ENTITY aboutBuildConfigCmd.accesskey      "c">
+
 <!ENTITY direct.label                             "Conectado (Proxy: nenhum)">
 <!ENTITY direct.accesskey                         "C">
 <!ENTITY manual.label                             "Conectado (Proxy: manual)">
