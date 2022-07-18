@@ -13,7 +13,7 @@ fxa-pair-device-dialog-sync =
     .style = width: 32em;
 fxa-qrcode-pair-title = Sinkronkan { -brand-product-name } di ponsel atau tablet Anda
 fxa-qrcode-pair-step1 = 1. Buka { -brand-product-name } di perangkat seluler Anda.
-fxa-qrcode-pair-step2 = 2. Buka <strong>menu</strong> (<img data-l10n-name="ios-menu-icon"/> di iOS atau <img data-l10n-name="android-menu-icon"/> di Android) dan ketuk <strong>Masuk untuk sinkronisasi/strong>
-fxa-qrcode-pair-step3 = 3. Ketuk <strong>Siap Memindai</strong> dan tahan arahkan ponsel Anda ke kode ini
+fxa-qrcode-pair-step2 = 2. Buka <strong>menu</strong> (<img data-l10n-name="ios-menu-icon"/> di iOS atau <img data-l10n-name="android-menu-icon"/> di Android) dan ketuk <strong>Masuk untuk sinkronisasi</strong>
+fxa-qrcode-pair-step3 = 3. Ketuk <strong>Siap Memindai</strong> dan arahkan kamera ponsel Anda ke kode ini
 fxa-qrcode-error-title = Pemasangan gagal.
 fxa-qrcode-error-body = Coba lagi.
