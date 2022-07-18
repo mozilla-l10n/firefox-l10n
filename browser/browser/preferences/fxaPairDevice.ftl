@@ -13,7 +13,7 @@ fxa-pair-device-dialog-sync =
     .style = width: 52em;
 fxa-qrcode-pair-title = Cydweddwch { -brand-product-name } ar eich ffôn neu dabled
 fxa-qrcode-pair-step1 = 1. Agorwch { -brand-product-name } ar eich dyfais symudol.
-fxa-qrcode-pair-step2 = 2. Agorwch y <strong>ddewislen</strong> (<img data-l10n-name="ios-menu-icon"> ar iOS neu <img data-l10n-name="android-menu-icon"> ar Android) a thapiwch <strong>Mewngofnodwch i gydweddu</strong>
+fxa-qrcode-pair-step2 = 2. Agorwch y <strong>ddewislen</strong> (<img data-l10n-name="ios-menu-icon"/> ar iOS neu <img data-l10n-name="android-menu-icon"/> ar Android) a thapiwch <strong>Mewngofnodwch i gydweddu</strong>
 fxa-qrcode-pair-step3 = 3. Tapiwch <strong>Barod i Sganio</strong> a daliwch eich ffôn dros y cod hwn
 fxa-qrcode-error-title = Paru'n aflwyddiannus.
 fxa-qrcode-error-body = Ceisiwch eto
