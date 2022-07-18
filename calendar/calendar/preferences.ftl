@@ -15,6 +15,10 @@ dateformat-long =
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = Σύντομη: { $date }
+use-system-timezone-radio-button =
+    .label = Χρήση ζώνης ώρας συστήματος
+set-timezone-manually-radio-button =
+    .label = Χειροκίνητη ρύθμιση ζώνης ώρας
 timezone-label =
     .value = Ζώνη ώρας:
 weekstart-label =
@@ -101,12 +105,6 @@ previous-weeks-label =
     .value = Προηγούμενες εβδομάδες προς εμφάνιση:
     .accesskey = γ
 todaypane-legend = Προβολή «Σήμερα»
-# Note: "Upcoming" is the name of a section and the translation must match the
-# translation of that section name (calendar.upcoming.button.label). Also,
-# it should be upper case (as a proper name) if the target language permits.
-soon-label =
-    .value = Η ενότητα «Επερχόμενα» εμφανίζει:
-    .accesskey = Ε
 agenda-days =
     .value = Η ατζέντα εμφανίζει:
     .accesskey = ζ
