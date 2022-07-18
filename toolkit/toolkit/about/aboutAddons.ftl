@@ -286,8 +286,11 @@ theme-disabled-heading = Znjemóžnjeny
 theme-disabled-heading2 = Składowane drasty
 theme-monochromatic-heading = Barbowe kombinacije
 theme-monochromatic-subheading = Žiwe nowe barbowe kombinacije z { -brand-product-name }. Za wobmjezowany čas k dispoziciji.
+# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Barbowe kombinacije wupruwować
 colorway-collection-independent-voices-subheading = Dajće { -brand-short-name } so wjace kaž wy čuć.
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Barbowu kombinaciju změnić
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = Płaćiwy do { DATETIME($expiryDate, month: "long", day: "numeric") }
