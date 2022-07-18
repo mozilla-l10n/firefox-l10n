@@ -39,6 +39,8 @@ about-processes-gmp-plugin-process = Gecko Media tengiforrit ({ $pid })
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (mæli)
 
 ## Displaying Memory (total and delta)
 ## Variables:
