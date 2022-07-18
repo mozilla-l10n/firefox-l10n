@@ -12,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = 連線到 { $hostname } 時發生錯誤。{ $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = 錯誤碼: { $error }
-
 psmerr-ssl-disabled = 無法安全連線，因為 SSL 通訊協定已停用。
 psmerr-ssl2-disabled = 無法安全連線，因為該網站使用舊版、不安全的 SSL 通訊協定。
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     您收到無效的憑證，請與伺服器管理員或郵件聯絡人聯絡，並提供下列資訊:
     
     您的憑證內含與其他憑證機構所簽發憑證相同的序號，請用不同的序號產生新的憑證。
-
 ssl-error-export-only-server = 無法安全通訊，節點不支援高等級加密。
 ssl-error-us-only-server = 無法安全通訊，不支援節點所要求的高等級加密。
 ssl-error-no-cypher-overlap = 無法安全地與對方通訊: 無雙方接受的加密演算法。
@@ -127,7 +123,7 @@ ssl-error-insufficient-security-alert = 伺服器要求使用的加密演算法�
 ssl-error-internal-error-alert = 對方回報發生內部錯誤。
 ssl-error-user-canceled-alert = 對方使用者已取消交握。
 ssl-error-no-renegotiation-alert = 對方不允許重新協議 SSL 安全性參數。
-ssl-error-server-cache-not-configured = SSL 伺服器快取未組態且未於此 socket 停用。
+ssl-error-server-cache-not-configured = 未設定 SSL 伺服器快取且未於此 socket 停用。
 ssl-error-unsupported-extension-alert = SSL 端點不支援請求的 TLS hello 擴充欄位。
 ssl-error-certificate-unobtainable-alert = SSL 端點無法從您給的網址取得憑證。
 ssl-error-unrecognized-name-alert = SSL 端點沒有請求的 DNS 名稱的憑證。
