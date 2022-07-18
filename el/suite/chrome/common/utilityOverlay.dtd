@@ -154,6 +154,9 @@
 <!ENTITY aboutCommPluginsCmd.label          "Σχετικά με τα αρθρώματα">
 <!ENTITY aboutCommPluginsCmd.accesskey      "α">
 
+<!ENTITY aboutBuildConfigCmd.label          "Εμφάνιση ρύθμισης δομής">
+<!ENTITY aboutBuildConfigCmd.accesskey      "ρ">
+
 <!ENTITY direct.label                             "Σε σύνδεση (Διακομιστής μεσολάβησης: Κανένας)">
 <!ENTITY direct.accesskey                         "Κ">
 <!ENTITY manual.label                             "Σε σύνδεση (Διακομιστής μεσολάβησης: Χειροκίνητα)">
