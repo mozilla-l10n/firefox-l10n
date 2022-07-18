@@ -15,6 +15,10 @@ dateformat-long =
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = 短: { $date }
+use-system-timezone-radio-button =
+    .label = 使用系統時區
+set-timezone-manually-radio-button =
+    .label = 手動設定時區
 timezone-label =
     .value = 時區:
 weekstart-label =
@@ -101,12 +105,6 @@ previous-weeks-label =
     .value = 過去週次顯示:
     .accesskey = P
 todaypane-legend = 今日窗格
-# Note: "Upcoming" is the name of a section and the translation must match the
-# translation of that section name (calendar.upcoming.button.label). Also,
-# it should be upper case (as a proper name) if the target language permits.
-soon-label =
-    .value = 「即將到來」區塊將顯示:
-    .accesskey = U
 agenda-days =
     .value = 議程顯示:
     .accesskey = g
