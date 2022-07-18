@@ -15,6 +15,10 @@ dateformat-long =
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = Byr: { $date }
+use-system-timezone-radio-button =
+    .label = Defnyddio cylch amser y system
+set-timezone-manually-radio-button =
+    .label = Gosod y cylch amser â llaw
 timezone-label =
     .value = Cylch Amser:
 weekstart-label =
@@ -101,12 +105,6 @@ previous-weeks-label =
     .value = Dangos yr wythnos flaenorol:
     .accesskey = f
 todaypane-legend = Paen Heddiw
-# Note: "Upcoming" is the name of a section and the translation must match the
-# translation of that section name (calendar.upcoming.button.label). Also,
-# it should be upper case (as a proper name) if the target language permits.
-soon-label =
-    .value = Mae'r adran Nesaf yn dangos:
-    .accesskey = N
 agenda-days =
     .value = Mae'r agenda'n dangos:
     .accesskey = g
