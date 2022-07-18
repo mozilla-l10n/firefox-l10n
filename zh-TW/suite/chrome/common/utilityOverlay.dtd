@@ -133,7 +133,6 @@
 
 <!ENTITY helpMenu.label                   "說明">
 <!ENTITY helpMenu.accesskey               "H">
-
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
      for the help button in the menubar. -->
 <!ENTITY helpMenuWin.label                "說明">
@@ -154,6 +153,9 @@
 <!ENTITY aboutCmd.accesskey                 "A">
 <!ENTITY aboutCommPluginsCmd.label          "關於外掛程式">
 <!ENTITY aboutCommPluginsCmd.accesskey      "P">
+
+<!ENTITY aboutBuildConfigCmd.label          "顯示編譯設定">
+<!ENTITY aboutBuildConfigCmd.accesskey      "B">
 
 <!ENTITY direct.label                             "連線（Proxy: 無）">
 <!ENTITY direct.accesskey                         "n">
