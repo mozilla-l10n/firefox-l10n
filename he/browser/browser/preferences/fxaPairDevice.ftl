@@ -13,5 +13,7 @@ fxa-pair-device-dialog-sync =
     .style = width: 32em;
 fxa-qrcode-pair-title = סנכרון { -brand-product-name } בטלפון או במחשב לוח שלך
 fxa-qrcode-pair-step1 = 1. יש לפתוח את { -brand-product-name } במכשיר הנייד שלך.
+fxa-qrcode-pair-step2 = 2. יש לפתוח את <strong>התפריט</strong> (<img data-l10n-name="ios-menu-icon"/> ב־iOS או <img data-l10n-name="android-menu-icon"/> ב־Android) ולהקיש על <strong>כניסה כדי לסנכרן</strong>
+fxa-qrcode-pair-step3 = 3. יש להקיש על <strong>מוכן לסריקה</strong> ולהחזיק את הטלפון מול הקוד הזה
 fxa-qrcode-error-title = הצימוד לא הצליח.
 fxa-qrcode-error-body = נא לנסות שוב.
