@@ -15,6 +15,10 @@ dateformat-long =
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = Rövid: { $date }
+use-system-timezone-radio-button =
+    .label = Rendszeridőzóna használata
+set-timezone-manually-radio-button =
+    .label = Időzóna beállítása kézzel
 timezone-label =
     .value = Időzóna:
 weekstart-label =
@@ -101,12 +105,6 @@ previous-weeks-label =
     .value = Megjelenítendő előző hetek:
     .accesskey = e
 todaypane-legend = Ma panel
-# Note: "Upcoming" is the name of a section and the translation must match the
-# translation of that section name (calendar.upcoming.button.label). Also,
-# it should be upper case (as a proper name) if the target language permits.
-soon-label =
-    .value = A várakozó szakaszban megjelenik:
-    .accesskey = v
 agenda-days =
     .value = A napirenden látható:
     .accesskey = n
