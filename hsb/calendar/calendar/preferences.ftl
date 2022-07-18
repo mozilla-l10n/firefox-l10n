@@ -15,6 +15,10 @@ dateformat-long =
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = Krótki: { $date }
+use-system-timezone-radio-button =
+    .label = Systemowe časowe pasmo wužiwać
+set-timezone-manually-radio-button =
+    .label = Časowe pasmo manuelnje nastajić
 timezone-label =
     .value = Časowe pasmo:
 weekstart-label =
@@ -101,12 +105,6 @@ previous-weeks-label =
     .value = Ličba předchadnych tydźenjow:
     .accesskey = c
 todaypane-legend = Dźensniši plan
-# Note: "Upcoming" is the name of a section and the translation must match the
-# translation of that section name (calendar.upcoming.button.label). Also,
-# it should be upper case (as a proper name) if the target language permits.
-soon-label =
-    .value = Wotrězk Přichodne pokazuje:
-    .accesskey = P
 agenda-days =
     .value = Agenda pokazuje:
     .accesskey = g
