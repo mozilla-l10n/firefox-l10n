@@ -15,6 +15,10 @@ dateformat-long =
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = Curte: { $date }
+use-system-timezone-radio-button =
+    .label = Usar le fuso horari de systema
+set-timezone-manually-radio-button =
+    .label = Manualmente definir le fuso horari
 timezone-label =
     .value = Fuso horari:
 weekstart-label =
@@ -101,12 +105,6 @@ previous-weeks-label =
     .value = Septimanas previe a monstrar:
     .accesskey = P
 todaypane-legend = Pannello Hodie
-# Note: "Upcoming" is the name of a section and the translation must match the
-# translation of that section name (calendar.upcoming.button.label). Also,
-# it should be upper case (as a proper name) if the target language permits.
-soon-label =
-    .value = Le section proximemente monstra:
-    .accesskey = P
 agenda-days =
     .value = Le calendario monstra:
     .accesskey = c
