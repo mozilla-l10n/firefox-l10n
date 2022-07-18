@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Ping gagnastaðsetning:
+about-telemetry-show-current-data = Fyrirliggjandi gögn
 about-telemetry-show-archived-ping-data = Vistuð ping gögn
 about-telemetry-show-subsession-data = Sýna undirlotugögn
 about-telemetry-choose-ping = Velja ping:
@@ -97,6 +98,8 @@ about-telemetry-no-search-results-all = Því miður! Engar niðurstöður eru �
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Því miður! Engin gögn eru tiltæk í “{ $sectionName }”
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = fyrirliggjandi gögn
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = allt
 # button label to copy the histogram

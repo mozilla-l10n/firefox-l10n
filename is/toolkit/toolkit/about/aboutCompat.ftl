@@ -5,6 +5,7 @@
 label-disable = Gera óvirkt
 label-enable = Virkja
 label-interventions = Inngrip
+label-more-information = Frekari upplýsingar: Villa { $bug }
 
 ## Do not translate "SmartBlock". For reference, SmartBlock is a feature
 ## of Firefox anti-tracking which fixes website breakage caused when
