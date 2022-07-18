@@ -41,6 +41,10 @@ videocontrols-picture-in-picture-explainer = ਜਦੋਂ ਤੁਸੀਂ { -bra
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = ਇਹ ਵੀਡੀਓ ਨੂੰ ਬਾਹਰ ਵੇਖੋ
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer2 = ਵੱਧ ਸਕਰੀਨਾਂ ਉੱਤੇ ਵੱਧ ਨਜ਼ਾਰਾ ਹੈ। ਇਸ ਵੀਡੀਓ ਨੂੰ ਤਸਵੀਰ-ਵਿੱਚ-ਤਸਵੀਰ ਢੰਗ ਨਾਲ ਚਲਾਓ, ਨਾਲੇ ਕਰੋ ਬਰਾਊਜ਼।
 videocontrols-error-aborted = ਵੀਡੀਓ ਲੋਡ ਹੋਣ ਤੋਂ ਰੁਕ ਗਈ ਹੈ
 videocontrols-error-network = ਨੈੱਟਵਰਕ ਗਲਤੀ ਕਰਕੇ ਵਿਡੀਓ ਪਲੇਅਬੈਕ ਨੂੰ ਅਧੂਰਾ ਛੱਡਿਆ।
 videocontrols-error-decode = ਫਾਈਲ ਖਰਾਬ ਹੋਣ ਕਰਕੇ ਵਿਡੀਓ ਚਲਾਈ ਨਹੀਂ ਜਾ ਸਕਦੀ।
