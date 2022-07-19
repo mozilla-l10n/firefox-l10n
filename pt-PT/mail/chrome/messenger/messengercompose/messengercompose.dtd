@@ -11,6 +11,7 @@
 <!ENTITY newMenu.label "Novo">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Mensagem">
+<!ENTITY newMessage.accesskey "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newContact.label "Contacto do livro de endereços...">
 <!ENTITY newContact.accesskey "C">
