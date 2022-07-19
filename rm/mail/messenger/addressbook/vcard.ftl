@@ -100,6 +100,8 @@ vcard-note-add = Agiuntar ina notizia
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-header = Infurmaziuns da l'organisaziun
+vcard-org-add = Agiuntar infurmaziuns da l'organisaziun
 vcard-org-title = Titel
 vcard-org-role = Rolla
 vcard-org-org = Organisaziun
