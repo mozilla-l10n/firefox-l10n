@@ -133,7 +133,6 @@
 
 <!ENTITY helpMenu.label                   "Help">
 <!ENTITY helpMenu.accesskey               "h">
-
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
      for the help button in the menubar. -->
 <!ENTITY helpMenuWin.label                "Help">
@@ -154,6 +153,9 @@
 <!ENTITY aboutCmd.accesskey                 "A">
 <!ENTITY aboutCommPluginsCmd.label          "About Plugins">
 <!ENTITY aboutCommPluginsCmd.accesskey      "p">
+
+<!ENTITY aboutBuildConfigCmd.label          "Show Build Configuration">
+<!ENTITY aboutBuildConfigCmd.accesskey      "B">
 
 <!ENTITY direct.label                             "Online (Proxy: None)">
 <!ENTITY direct.accesskey                         "N">
