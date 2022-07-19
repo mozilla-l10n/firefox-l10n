@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Enviar um sinal “Do Not Track” aos sites com a indicação que não quer ser monitorizado(a)
+do-not-track-description = Enviar um sinal “Do Not Track” com a indicação que não deseja ser monitorizado(a)
 do-not-track-learn-more = Saber mais
 do-not-track-option-default-content-blocking-known =
     .label = Apenas quando o { -brand-short-name } está definido para bloquear os rastreadores conhecidos
@@ -535,6 +535,8 @@ home-prefs-recommended-by-description-new = Conteúdo excecional com curadoria d
 home-prefs-recommended-by-learn-more = Como funciona
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Histórias patrocinadas
+home-prefs-recommended-by-option-recent-saves =
+    .label = Mostrar gravações recentes
 home-prefs-highlights-option-visited-pages =
     .label = Páginas visitadas
 home-prefs-highlights-options-bookmarks =
