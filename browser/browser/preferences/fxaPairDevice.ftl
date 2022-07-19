@@ -11,5 +11,6 @@ fxa-qrcode-heading-step3 = 3. Abra o <b>menu</b> (<img data-l10n-name="ios-menu-
 fxa-qrcode-heading-step4 = 4. Digitalize este código:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-qrcode-pair-title = Sincronize { -brand-product-name } no seu telefone ou tablet
 fxa-qrcode-error-title = Emparelhamento sem sucesso.
 fxa-qrcode-error-body = Tente novamente.
