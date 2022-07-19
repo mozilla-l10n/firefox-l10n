@@ -154,6 +154,9 @@
 <!ENTITY aboutCommPluginsCmd.label          "Om insticksmoduler">
 <!ENTITY aboutCommPluginsCmd.accesskey      "m">
 
+<!ENTITY aboutBuildConfigCmd.label          "Visa byggkonfiguration">
+<!ENTITY aboutBuildConfigCmd.accesskey      "b">
+
 <!ENTITY direct.label                             "Uppkopplad (proxy: ingen)">
 <!ENTITY direct.accesskey                         "i">
 <!ENTITY manual.label                             "Uppkopplad (proxy: manuell)">
