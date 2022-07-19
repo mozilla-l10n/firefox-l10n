@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+openpgp-key-assistant-title = Assistent da clavs OpenPGP
 openpgp-key-assistant-rogue-warning = Evitescha dad acceptar ina clav faussa. Per far la segira che ti has survegnì la dretga clav, duessas ti la verifitgar. <a data-l10n-name="openpgp-link">Ulteriuras infurmaziuns…</a>
 
 ## Encryption status
