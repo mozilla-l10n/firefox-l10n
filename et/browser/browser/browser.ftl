@@ -257,9 +257,21 @@ search-one-offs-tabs =
     .tooltiptext = Kaardid ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Ajalugu ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Tegevused ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
+quickactions-clear = Tühjenda ajalugu
+quickactions-print = Prindi
+quickactions-screenshot = Tee ekraanipilt
+quickactions-settings = Ava sätted
+quickactions-downloads = Ava allalaadimised
+quickactions-viewsource = Vaata lähtekoodi
+quickactions-inspector = Ava inspekteerimine
+quickactions-refresh = Värskenda { -brand-short-name }
+quickactions-restart = Taaskäivita { -brand-short-name }
+quickactions-update = Uuenda { -brand-short-name }
 
 ## Bookmark Panel
 
@@ -476,6 +488,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Sisesta otsitav fraas
     .aria-label = Otsi kaartide seast
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Sisesta otsitav fraas
+    .aria-label = Otsi tegevusi
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -564,6 +580,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Otsingumootori { $engine } soovitused
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Kiired tegevused
 
 ## Full Screen and Pointer Lock UI
 
