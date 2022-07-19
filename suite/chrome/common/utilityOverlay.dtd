@@ -133,7 +133,6 @@
 
 <!ENTITY helpMenu.label                   "Nápověda">
 <!ENTITY helpMenu.accesskey               "v">
-
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
      for the help button in the menubar. -->
 <!ENTITY helpMenuWin.label                "Nápověda">
@@ -154,6 +153,8 @@
 <!ENTITY aboutCmd.accesskey                 "O">
 <!ENTITY aboutCommPluginsCmd.label          "O zásuvných modulech">
 <!ENTITY aboutCommPluginsCmd.accesskey      "m">
+
+<!ENTITY aboutBuildConfigCmd.label          "Zobrazit konfiguraci sestavení">
 
 <!ENTITY direct.label                             "Online (proxy: žádná)">
 <!ENTITY direct.accesskey                         "d">
