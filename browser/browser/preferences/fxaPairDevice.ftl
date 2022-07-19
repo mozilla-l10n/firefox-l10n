@@ -13,5 +13,7 @@ fxa-pair-device-dialog-sync =
     .style = width: 32em;
 fxa-qrcode-pair-title = 与您的手机或平板电脑同步 { -brand-product-name }
 fxa-qrcode-pair-step1 = 1. 打开您移动设备上的 { -brand-product-name }。
+fxa-qrcode-pair-step2 = 2. 打开<strong>菜单</strong>（iOS 上的 <img data-l10n-name="ios-menu-icon"/> 或 Android 上的 <img data-l10n-name="android-menu-icon"/>），点按<strong>登录同步服务</strong>
+fxa-qrcode-pair-step3 = 3. 点按<strong>扫描就绪</strong>，将手机对准二维码
 fxa-qrcode-error-title = 配对失败。
 fxa-qrcode-error-body = 请重试。
