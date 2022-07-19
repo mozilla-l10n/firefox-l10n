@@ -12,6 +12,13 @@ synced-tabs-sidebar-tabsnotsyncing = Барои дидани рӯйхати ва
 synced-tabs-sidebar-connect-another-device = Пайваст кардани дастгоҳи дигар
 synced-tabs-sidebar-search =
     .placeholder = Ҷустуҷӯи варақаҳои ҳамоҳангшуда
+
+## Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
+## and/or devices in the list. The "Open" strings below should be translated
+## consistently with the equivalent strings for the bookmarks manager's context
+## menu. That menu is activated by right-clicking a bookmark in the Library
+## window. The bookmarks manager context's strings are located in places.ftl.
+
 synced-tabs-context-open =
     .label = Кушодан
     .accesskey = К
@@ -27,6 +34,21 @@ synced-tabs-context-open-in-new-private-window =
 synced-tabs-context-bookmark-single-tab =
     .label = Гузоштани хатбарак барои ин варақа…
     .accesskey = Г
+synced-tabs-context-open-in-tab =
+    .label = Кушодан дар варақаи нав
+    .accesskey = К
+synced-tabs-context-open-in-container-tab =
+    .label = Кушодан дар варақаи нави дарбаргиранда
+    .accesskey = К
+synced-tabs-context-open-in-window =
+    .label = Кушодан дар равзанаи нав
+    .accesskey = К
+synced-tabs-context-open-in-private-window =
+    .label = Кушодан дар равзанаи хусусии нав
+    .accesskey = К
+
+##
+
 synced-tabs-context-copy =
     .label = Нусха бардоштан
     .accesskey = Н
