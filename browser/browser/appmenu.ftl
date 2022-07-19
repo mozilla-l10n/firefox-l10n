@@ -212,6 +212,9 @@ profiler-popup-presets-networking-description = Preset per la diagnosi di proble
 profiler-popup-presets-networking-label =
   .label = Rete
 
+profiler-popup-presets-power-label =
+  .label = Energia
+
 profiler-popup-presets-custom-label =
     .label = Personalizzato
 
