@@ -15,6 +15,10 @@ dateformat-long =
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = Kort: { $date }
+use-system-timezone-radio-button =
+    .label = Använd systemets tidszon
+set-timezone-manually-radio-button =
+    .label = Ställ in tidszon manuellt
 timezone-label =
     .value = Tidszon:
 weekstart-label =
@@ -101,12 +105,6 @@ previous-weeks-label =
     .value = Antal föregående veckor som visas:
     .accesskey = f
 todaypane-legend = Panel för idag
-# Note: "Upcoming" is the name of a section and the translation must match the
-# translation of that section name (calendar.upcoming.button.label). Also,
-# it should be upper case (as a proper name) if the target language permits.
-soon-label =
-    .value = Kommande avsnittet visar:
-    .accesskey = K
 agenda-days =
     .value = Agendan visar:
     .accesskey = g
