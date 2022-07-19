@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 troubleshoot-mode-window =
-    .title = Открыть { -brand-short-name } в Безопасном Режиме?
+    .title = Открыть { -brand-short-name } в безопасном режиме?
     .style = max-width: 400px
 start-troubleshoot-mode =
     .label = Открыть
