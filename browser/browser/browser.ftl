@@ -262,7 +262,7 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = 清除历史记录
+quickactions-clear = 清除历史
 quickactions-print = 打印
 quickactions-screenshot = 截图
 quickactions-settings = 打开设置
