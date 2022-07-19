@@ -87,7 +87,7 @@ perftools-thread-render-backend =
 perftools-thread-paint-worker =
   .title = Quando è attivo il painting fuori dal thread principale (“off-main-thread”), il painting viene eseguito in questo thread
 perftools-thread-timer =
-  .title = Il thread che gestisce i timer (setTimeout, setInterval, nsITimer)  
+  .title = Il thread che gestisce i timer (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
   .title = Il calcolo degli stili viene eseguito in thread multipli
 pref-thread-stream-trans =
@@ -158,6 +158,10 @@ perftools-presets-media-description2 = Preset per la diagnosi di problemi audio 
 
 perftools-presets-networking-label = Rete
 perftools-presets-networking-description = Preset per la diagnosi di problemi di rete in { -brand-shorter-name }.
+
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Energia
+perftools-presets-power-description = Preset per la diagnosi di problemi relativi al consumo di energia in { -brand-shorter-name }, con overhead limitato.
 
 perftools-presets-custom-label = Personalizzato
 
