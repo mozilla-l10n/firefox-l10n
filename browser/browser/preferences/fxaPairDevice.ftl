@@ -12,5 +12,6 @@ fxa-qrcode-heading-step4 = 4. Digitalize este código:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
 fxa-qrcode-pair-title = Sincronize { -brand-product-name } no seu telefone ou tablet
+fxa-qrcode-pair-step1 = 1. Abra { -brand-product-name } no seu dispositivo móvel.
 fxa-qrcode-error-title = Emparelhamento sem sucesso.
 fxa-qrcode-error-body = Tente novamente.
