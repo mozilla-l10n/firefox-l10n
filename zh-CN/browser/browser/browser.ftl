@@ -573,6 +573,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = { $engine } 建议
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = 快捷操作
 
 ## Full Screen and Pointer Lock UI
 
