@@ -14,5 +14,6 @@ fxa-pair-device-dialog-sync =
 fxa-qrcode-pair-title = Ҳамоҳангсозии { -brand-product-name } дар телефон ва планшет
 fxa-qrcode-pair-step1 = 1. Браузери «{ -brand-product-name }»-ро дар дастгоҳи мобилии худ кушоед.
 fxa-qrcode-pair-step2 = 2. <strong>Менюро</strong> (<img data-l10n-name="ios-menu-icon"/> дар iOS ё <img data-l10n-name="android-menu-icon"/> дар Android) ва <strong>Барои ҳамоҳангсозӣ ворид шавед</strong>-ро зер кунед
+fxa-qrcode-pair-step3 = 3. Имкони <strong>Барои сканкунӣ омода аст</strong>-ро зер кунед ва телефони худро болои ин рамз рост кунед.
 fxa-qrcode-error-title = Ҷуфтсозӣ иҷро нашуд.
 fxa-qrcode-error-body = Аз нав кӯшиш кунед.
