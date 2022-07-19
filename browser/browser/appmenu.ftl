@@ -83,10 +83,10 @@ appmenu-remote-tabs-opensettings =
     .label = הגדרות
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
-appmenu-remote-tabs-noclients = להציג כאן את הלשוניות שלך ממכשירים אחרים?
+appmenu-remote-tabs-noclients = להציג כאן את הלשוניות שלך משאר המכשירים?
 appmenu-remote-tabs-connectdevice =
     .label = חיבור מכשיר נוסף
-appmenu-remote-tabs-welcome = הצגת רשימת לשוניות מהמכשירים האחרים שלך.
+appmenu-remote-tabs-welcome = הצגת רשימת לשוניות משאר המכשירים שלך.
 appmenu-remote-tabs-unverified = יש לאמת את החשבון שלך.
 appmenuitem-fxa-toolbar-sync-now2 = סנכרון כעת
 appmenuitem-fxa-sign-in = התחברות אל { -brand-product-name }

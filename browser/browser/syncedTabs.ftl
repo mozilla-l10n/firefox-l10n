@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 synced-tabs-sidebar-title = לשוניות מסונכרנות
-synced-tabs-sidebar-noclients-subtitle = להציג כאן את הלשוניות שלך ממכשירים אחרים?
-synced-tabs-sidebar-intro = הצגת רשימת לשוניות מהמכשירים האחרים שלך.
+synced-tabs-sidebar-noclients-subtitle = להציג כאן את הלשוניות שלך משאר המכשירים?
+synced-tabs-sidebar-intro = הצגת רשימת לשוניות משאר המכשירים שלך.
 synced-tabs-sidebar-unverified = יש לאמת את החשבון שלך.
 synced-tabs-sidebar-notabs = אין לשוניות פתוחות
 synced-tabs-sidebar-open-settings = פתיחת הגדרות סנכרון
-synced-tabs-sidebar-tabsnotsyncing = יש להפעיל סנכרון לשוניות כדי לצפות ברשימת לשוניות מהמכשירים האחרים שלך.
+synced-tabs-sidebar-tabsnotsyncing = יש להפעיל סנכרון לשוניות כדי לצפות ברשימת לשוניות משארר המכשירים שלך.
 synced-tabs-sidebar-connect-another-device = חיבור מכשיר נוסף
 synced-tabs-sidebar-search =
     .placeholder = חיפוש בלשוניות מסונכרנות
