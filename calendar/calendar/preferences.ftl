@@ -15,6 +15,10 @@ dateformat-long =
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = Kratka: { $date }
+use-system-timezone-radio-button =
+    .label = Uporabi časovni pas sistema
+set-timezone-manually-radio-button =
+    .label = Ročno nastavi časovni pas
 timezone-label =
     .value = Časovni pas:
 weekstart-label =
@@ -101,12 +105,6 @@ previous-weeks-label =
     .value = Število prikazanih predhodnih tednov:
     .accesskey = Š
 todaypane-legend = Današnji dan
-# Note: "Upcoming" is the name of a section and the translation must match the
-# translation of that section name (calendar.upcoming.button.label). Also,
-# it should be upper case (as a proper name) if the target language permits.
-soon-label =
-    .value = Odsek 'Prihajajoči' prikazuje:
-    .accesskey = P
 agenda-days =
     .value = Na dnevnem redu je:
     .accesskey = j
