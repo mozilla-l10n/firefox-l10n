@@ -30,7 +30,7 @@ url-classifier-cache-show-entries = Prikaži vnose
 url-classifier-cache-entries = Vnosi v predpomnilnik
 url-classifier-cache-prefix = Predpona
 url-classifier-cache-ncache-expiry = Rok trajanja negativnega predpomnilnika
-url-classifier-cache-fullhash = Polna razpršena vrednost
+url-classifier-cache-fullhash = Polna zgoščena vrednost
 url-classifier-cache-pcache-expiry = Rok trajanja pozitivnega predpomnilnika
 url-classifier-debug-title = Razhroščevanje
 url-classifier-debug-module-btn = Nastavi dnevniške module
@@ -40,7 +40,6 @@ url-classifier-debug-sb-modules = Dnevniški moduli varnega brskanja
 url-classifier-debug-modules = Trenutni dnevniški moduli
 url-classifier-debug-sbjs-modules = Dnevnik JS varnega brskanja
 url-classifier-debug-file = Trenutna dnevniška datoteka
-
 url-classifier-trigger-update = Sproži posodobitev
 url-classifier-not-available = Ni določeno
 url-classifier-disable-sbjs-log = Onemogoči dnevnik JS varnega brskanja

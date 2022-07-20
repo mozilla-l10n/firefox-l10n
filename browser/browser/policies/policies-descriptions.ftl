@@ -68,6 +68,7 @@ policy-ExtensionSettings = Upravljaj vse vidike namestitve razširitve.
 policy-ExtensionUpdate = Omogoči ali onemogoči samodejno posodabljanje razširitev.
 policy-FirefoxHome = Nastavi Firefoxovo domačo stran.
 policy-FlashPlugin = Dovoli ali zavrni uporabo vtičnika Flash.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Ob vnosu ene besede v naslovno vrstico prisili neposredno krmarjenje na intranetno stran namesto iskanja.
 policy-Handlers = Nastavite privzete upravljalce aplikacij.
 policy-HardwareAcceleration = Če je "false", izklopi strojno pospeševanje.
 # “lock” means that the user won’t be able to change this setting
@@ -113,8 +114,10 @@ policy-SecurityDevices = Namesti module PKCS #11.
 policy-ShowHomeButton = Prikaži gumb Domov v orodni vrstici.
 policy-SSLVersionMax = Nastavi najnovejšo dovoljeno različico SSL.
 policy-SSLVersionMin = Nastavi najstarejšo dovoljeno različico SSL.
+policy-StartDownloadsInTempDirectory = Vsili shranjevanje prenosov na lokalno začasno mesto namesto v privzeto mapo za prenose.
 policy-SupportMenu = Dodaj poljubno povezavo za podporo v meni Pomoč.
 policy-UserMessaging = Uporabniku ne prikazuj določenih sporočil.
+policy-UseSystemPrintDialog = Tiskaj s pomočjo pogovornega okna sistema.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Prepreči obisk določenih spletnih mest. Za več podrobnosti o obliki glejte dokumentacijo.
 policy-Windows10SSO = Dovoli enotno prijavo v sistem Windows za Microsoftove, službene in šolske račune.
