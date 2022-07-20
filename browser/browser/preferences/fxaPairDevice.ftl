@@ -14,5 +14,6 @@ fxa-pair-device-dialog-sync =
 fxa-qrcode-pair-title = Sinkronizatu { -brand-product-name } zure telefono edo tabletan
 fxa-qrcode-pair-step1 = 1. Ireki { -brand-product-name } zure gailu mugikorrean.
 fxa-qrcode-pair-step2 = 2. Ireki <strong>menua</strong> (<img data-l10n-name="ios-menu-icon"/> iOS-en edo <img data-l10n-name="android-menu-icon"/> Android-en) eta sakatu <strong>Hasi saioa sinkronizatzeko</strong>
+fxa-qrcode-pair-step3 = 3. Sakatu <strong>Eskaneatzeko prest</strong> eta jarri telefonoa kode honen gainean
 fxa-qrcode-error-title = Parekatzeak kale egin du.
 fxa-qrcode-error-body = Saiatu berriro.
