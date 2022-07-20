@@ -15,6 +15,10 @@ dateformat-long =
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = Kısa: { $date }
+use-system-timezone-radio-button =
+    .label = Sistem saat dilimini kullan
+set-timezone-manually-radio-button =
+    .label = Saat dilimini elle ayarla
 timezone-label =
     .value = Saat dilimi:
 weekstart-label =
@@ -101,12 +105,6 @@ previous-weeks-label =
     .value = Önceki hafta sayısı:
     .accesskey = c
 todaypane-legend = Bugün bölmesi
-# Note: "Upcoming" is the name of a section and the translation must match the
-# translation of that section name (calendar.upcoming.button.label). Also,
-# it should be upper case (as a proper name) if the target language permits.
-soon-label =
-    .value = Yaklaşan bölümde gösterilecek süre:
-    .accesskey = Y
 agenda-days =
     .value = Gösterilecek gündem:
     .accesskey = g
