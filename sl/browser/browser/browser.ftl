@@ -38,6 +38,20 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Zasebno brskanje)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Zasebno brskanje)
+# These are the default window titles everywhere except macOS. The first two
+# attributes are used when the web content opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } – Zasebno brskanje
+    .data-content-title-default = { $content-title } – { -brand-full-name }
+    .data-content-title-private = { $content-title } – { -brand-full-name } – Zasebno brskanje
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -62,6 +76,7 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+private-browsing-shortcut-text = { -brand-short-name } – Zasebno brskanje
 
 ##
 
@@ -481,6 +496,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Vnesite iskalni niz
     .aria-label = Iskanje po zavihkih
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Vnesite iskalni niz
+    .aria-label = Iskanje dejanj
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =

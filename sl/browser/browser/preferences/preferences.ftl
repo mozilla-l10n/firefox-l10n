@@ -966,6 +966,7 @@ content-blocking-etp-custom-desc = Izberite, katere sledilce in skripte želite 
 content-blocking-etp-blocking-desc = { -brand-short-name } zavrača naslednje:
 content-blocking-private-windows = Sledilno vsebino v zasebnih oknih
 content-blocking-cross-site-cookies-in-all-windows = Medspletne piškotke v vseh oknih (vključuje sledilne piškotke)
+content-blocking-cross-site-cookies-in-all-windows2 = Medspletne piškotke v vseh oknih
 content-blocking-cross-site-tracking-cookies = Piškotke za sledenje med spletnimi mesti
 content-blocking-all-cross-site-cookies-private-windows = Medspletne piškotke v zasebnih oknih
 content-blocking-cross-site-tracking-cookies-plus-isolate = Piškotke za sledenje med spletnimi mesti in izoliraj preostale piškotke
@@ -984,6 +985,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Popolna zaščita pred piškotki zadrži piškotke na spletnem mestu, na katerem se nahajate, tako da jih sledilci ne morejo uporabiti za sledenje med različnimi spletnimi mesti.
 content-blocking-etp-standard-tcp-rollout-learn-more = Več o tem
+content-blocking-etp-standard-tcp-title = Vključuje popolno zaščito pred piškotki, našo najzmogljivejšo možnost zasebnosti doslej
 content-blocking-warning-title = Opozorilo!
 content-blocking-and-isolating-etp-warning-description-2 = Ta nastavitev lahko povzroči, da nekatera spletna mesta ne delujejo pravilno ali da se vsebina ne prikaže. Če se vam zdi spletno mesto pokvarjeno, lahko za nalaganje vse vsebine izklopite zaščito pred sledenjem.
 content-blocking-warning-learn-how = Naučite se, kako
