@@ -14,4 +14,12 @@ openpgp-compose-key-status-open-details = Upravljanje ključevima za odabranog p
 openpgp-recip-good = U redu
 openpgp-recip-missing = ključ nije dostupan
 openpgp-recip-none-accepted = nema prihvaćenog ključa
+openpgp-compose-general-info-alias = { -brand-short-name } obično zahtijeva da javni ključ primatelja sadrži korisnički ID s odgovarajućom adresom e-pošte. Ovo se može nadjačati upotrebom OpenPGP pravila za pseudonim primatelja.
 openpgp-compose-general-info-alias-learn-more = Saznajte više
+openpgp-compose-alias-status-direct =
+    { $count ->
+        [one] mapirano na { $count } alias ključ
+        [few] mapirano na { $count } alias ključa
+       *[other] mapirano na { $count } alias ključeva
+    }
+openpgp-compose-alias-status-error = neupotrebljiv/nedostupan alias ključ
