@@ -58,9 +58,13 @@ vcard-tel-label = Broj telefona
 # TZ vCard field
 
 vcard-tz-header = Vremenska zona
+vcard-tz-add = Dodaj vremensku zonu
 
 # IMPP vCard field
 
+vcard-impp-header = Računi razgovora
+vcard-impp-add = Dodaj račun razgovora
+vcard-impp-label = Račun razgovora
 
 # BDAY and ANNIVERSARY vCard field
 
