@@ -187,6 +187,21 @@ menu-open-key-manager =
     .accesskey = t
 openpgp-key-issue-notification-one = Šifriranje od-kraja-do-kraja zahtjeva rješavanje ključnih problema za { $addr }
 openpgp-key-issue-notification-many = Šifriranje od-kraja-do-kraja zahtjeva rješavanje ključnih problema za { $count } primatelja.
+smime-cert-issue-notification-one = Šifriranje od-kraja-do-kraja zahtjeva rješavanje problema s certifikatima za { $addr }.
+smime-cert-issue-notification-many = Šifriranje od-kraja-do-kraja zahtjeva rješavanje problema s certifikatima za { $count } primatelja.
+key-notification-disable-encryption =
+    .label = Nemoj šifrirati
+    .accesskey = N
+    .tooltiptext = Isključi šifriranje od-kraja-do-kraja
+key-notification-resolve =
+    .label = Razrješi…
+    .accesskey = R
+    .tooltiptext = Otvori OpenPGP pomoćnika za ključeve
+can-encrypt-smime-notification = S/MIME šifriranje od-kraja-do-kraja je moguće.
+can-encrypt-openpgp-notification = OpenPGP šifriranje od-kraja-do-kraja je moguće.
+can-e2e-encrypt-button =
+    .label = Šifriraj
+    .accesskey = f
 
 ## Addressing Area
 
@@ -237,9 +252,20 @@ show-bcc-row-button = Bcc
     .title = Prikaži Bcc polje ({ ctrl-cmd-shift-pretty-prefix }{ $key })
 extra-address-rows-menu-button =
     .title = Ostala polja adresiranja za prikaz
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] Vaša poruka ima { $count } javnog primatelja. Možete izbjeći otkrivanje primatelja ukoliko koristite Bcc polje.
+        [few] Vaša poruka ima { $count } javna primatelja. Možete izbjeći otkrivanje primatelja ukoliko koristite Bcc polje.
+       *[other] Vaša poruka ima { $count } javnih primatelja. Možete izbjeći otkrivanje primatelja ukoliko koristite Bcc polje.
+    }
 many-public-recipients-bcc =
     .label = Koristi Bcc umjesto toga
     .accesskey = u
+many-public-recipients-ignore =
+    .label = Neka primatelji budu javni
+    .accesskey = k
+many-public-recipients-prompt-title = Previše javnih primatelja
 
 ## Notifications
 
