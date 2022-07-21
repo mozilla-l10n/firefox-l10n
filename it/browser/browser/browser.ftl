@@ -881,3 +881,9 @@ data-reporting-notification-button =
     .accesskey = S
 
 private-browsing-indicator-label = Navigazione anonima
+
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = Estensioni
+    .tooltiptext = Estensioni
