@@ -50,6 +50,13 @@ pill-tooltip-not-in-address-book = { $email } nije u vašem adresaru
 pill-action-edit =
     .label = Uredi adresu
     .accesskey = e
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Odaberite sve adrese u { $type }
+    .accesskey = a
+pill-action-select-all-pills =
+    .label = Odaberite sve adrese
+    .accesskey = s
 pill-action-move-to =
     .label = Premjesti se na Prima
     .accesskey = t
@@ -91,6 +98,21 @@ context-menuitem-attach-files =
     .label = Priloži datoteke…
     .accesskey = P
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = Moj vCard
+    .accesskey = C
+context-menuitem-attach-openpgp-key =
+    .label = Moj javni OpenPGP ključ
+    .accesskey = k
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } privitak
+        [one] { $count } privitak
+        [few] { $count } privitka
+       *[other] { $count } privitaka
+    }
 attachment-area-show =
     .title = Prikaži okno privitka ({ ctrl-cmd-shift-pretty-prefix } { toggle-attachment-pane-key })
 attachment-area-hide =
@@ -124,6 +146,36 @@ button-return-receipt =
 
 ## Encryption
 
+encryption-menu =
+    .label = Sigurnost
+    .accesskey = g
+encryption-toggle =
+    .label = Šifriraj
+    .tooltiptext = Koristi šifriranje od-kraja-do-kraja za ovu poruku
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = Prikaži ili izmijeni postavke OpenPGP šifriranja
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = Prikaži ili izmijeni postavke S/MIME šifriranja
+signing-toggle =
+    .label = Potpiši
+    .tooltiptext = Koristi digitalno potpisivanje za ovu poruku
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = O
+menu-smime =
+    .label = S/MIME
+    .accesskey = S
+menu-encrypt =
+    .label = Šifriraj
+    .accesskey = f
+menu-encrypt-subject =
+    .label = Šifriraj naslov
+    .accesskey = n
+menu-sign =
+    .label = Digitalno potpiši
+    .accesskey = i
 
 ## Addressing Area
 
