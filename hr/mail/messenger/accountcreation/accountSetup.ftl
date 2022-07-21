@@ -71,14 +71,62 @@ account-setup-button-done = Gotovo
 
 account-setup-looking-up-settings = Traženje konfiguracije…
 account-setup-looking-up-settings-guess = Traženje postavki: isprobavanje čestih imena poslužitelja…
+account-setup-looking-up-settings-half-manual = Traženje postavki: ispitivanje poslužitelja…
+account-setup-looking-up-disk = Traženje postavki: { -brand-short-name } instalacija…
+account-setup-looking-up-isp = Traženje postavki: pružatelj e-pošte…
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-looking-up-db = Traženje postavki: Mozilla baza pružatelja Internet usluga…
+account-setup-looking-up-mx = Traženje konfiguracije: Domena za dolaznu e-poštu…
+account-setup-looking-up-exchange = Traženje konfiguracije: Exchange poslužitelj…
+account-setup-checking-password = Provjera lozinke…
+account-setup-installing-addon = Preuzimanje i instalacija dodatka…
+account-setup-success-half-manual = Sljedeće postavke su pronađene ispitivanjem danog poslužitelja:
+account-setup-success-guess = Postavke pronađene isprobavanjem čestih imena poslužitelja.
+account-setup-success-guess-offline = Trenutno ste u izvanmrežnom načinu rada. Pretpostavili smo neke postavke, ali trebat ćete ih provjeriti i ispraviti.
+account-setup-success-password = Lozinka OK
+account-setup-success-addon = Dodatak je uspješno instaliran
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-success-settings-db = Postavke pronađene u Mozilla bazi pružatelja Internet usluga.
+account-setup-success-settings-disk = Postavke pronađene u { -brand-short-name } instalaciji.
+account-setup-success-settings-isp = Postavke pronađene kod pružatelja usluge e-pošte.
+# Note: Microsoft Exchange is a product name.
+account-setup-success-settings-exchange = Pronađena je konfiguracija za Microsoft Exchange poslužitelj.
 
 ## Illustrations
 
+account-setup-step1-image =
+    .title = Početno postavljanje
+account-setup-step2-image =
+    .title = Učitavanje…
+account-setup-step3-image =
+    .title = Pronađena konfiguracija
+account-setup-step4-image =
+    .title = Greška u povezivanju
+account-setup-step5-image =
+    .title = Račun je stvoren
+account-setup-privacy-footnote2 = Vaše vjerodajnice biti će pohranjene samo lokalno na vašem računalu.
+account-setup-selection-help = Niste sigurni što odabrati?
+account-setup-selection-error = Trebate pomoć?
+account-setup-success-help = Niste sigurni u svoje sljedeće korake?
+account-setup-documentation-help = Dokumentacija za postavljanje
+account-setup-forum-help = Forum podrške
+account-setup-privacy-help = Politika privatnosti
+account-setup-getting-started = Početak rada
 
 ## Results area
 
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [one] Dostupna konfiguracija
+        [few] Dostupne konfiguracije
+       *[other] Dostupne konfiguracije
+    }
 account-setup-result-imap-description = Držite vaše mape i poruke e-pošte sinkronizirane na svom poslužitelju
 account-setup-result-pop-description = Držite vaše mape i poruke e-pošte na svom računalu
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Koristite Microsoft Exchange poslužitelj ili Office365 usluge u oblaku
 
 ## Error messages
 
