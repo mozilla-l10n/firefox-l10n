@@ -26,6 +26,7 @@ vcard-n-add-prefix =
 vcard-n-firstname = Ime
 vcard-n-add-firstname =
     .title = Dodaj ime
+vcard-n-middlename = Srednje ime
 
 # Email vCard field
 
