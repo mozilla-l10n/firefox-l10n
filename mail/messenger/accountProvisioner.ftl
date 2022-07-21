@@ -30,9 +30,27 @@ account-provisioner-fetching-provisioners = Dohvaćanje pružatelja usluga…
 account-provisioner-connection-issues = Nije moguće ostvariti komunikaciju s poslužiteljem za prijavu. Provjerite svoju vezu.
 account-provisioner-searching-email = Traženje dostupnih računa e-pošte…
 account-provisioner-searching-domain = Traženje dostupnih domena…
+account-provisioner-searching-error = Nisu pronađene adrese za predložiti. Pokušajte izmijeniti pojmove za pretraživanje.
 
 ## Illustrations
 
+account-provisioner-step1-image =
+    .title = Odaberite koji račun želite stvoriti
 
 ## Search results
 
+# Variables:
+# $count (Number) - The number of domains found during search.
+account-provisioner-results-title =
+    { $count ->
+        [one] { $count } dostupna adresa pronađena za:
+        [few] { $count } dostupne adrese pronađene za:
+       *[other] { $count } dostupnih adresa pronađeno za:
+    }
+account-provisioner-mail-results-caption = Možete pokušati tražiti prema nadimku ili nekom drugom pojmu kako biste našli više adresa e-pošte.
+account-provisioner-domain-results-caption = Možete pokušati tražiti prema nadimku ili nekom drugom pojmu kako biste našli više domena.
+account-provisioner-free-account = Besplatno
+account-provision-price-per-year = { $price } godišnje
+account-provisioner-all-results-button = Prikaži sve rezultate
+account-provisioner-open-in-tab-img =
+    .title = Otvara se u novoj kartici
