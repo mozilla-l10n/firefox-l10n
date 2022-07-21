@@ -176,6 +176,17 @@ menu-encrypt-subject =
 menu-sign =
     .label = Digitalno potpiši
     .accesskey = i
+menu-manage-keys =
+    .label = Pomoćnik za ključeve
+    .accesskey = a
+menu-view-certificates =
+    .label = Prikaži certifikate primatelja
+    .accesskey = k
+menu-open-key-manager =
+    .label = Upravitelj ključeva
+    .accesskey = t
+openpgp-key-issue-notification-one = Šifriranje od-kraja-do-kraja zahtjeva rješavanje ključnih problema za { $addr }
+openpgp-key-issue-notification-many = Šifriranje od-kraja-do-kraja zahtjeva rješavanje ključnih problema za { $count } primatelja.
 
 ## Addressing Area
 
