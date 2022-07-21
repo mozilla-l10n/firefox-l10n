@@ -127,36 +127,134 @@ account-setup-result-imap-description = Držite vaše mape i poruke e-pošte sin
 account-setup-result-pop-description = Držite vaše mape i poruke e-pošte na svom računalu
 # Note: Exchange, Office365 are the name of products.
 account-setup-result-exchange2-description = Koristite Microsoft Exchange poslužitelj ili Office365 usluge u oblaku
+account-setup-incoming-title = Dolazni
+account-setup-outgoing-title = Odlazni
+account-setup-username-title = Korisničko ime
+account-setup-exchange-title = Poslužitelj
+account-setup-result-no-encryption = Bez kriptiranja
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Koristi postojeći odlazni SMTP poslužitelj
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Dolazni: { $incoming }, Odlazni: { $outgoing }
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Provjera autentičnosti nije uspjela. Uneseni podaci su neispravni ili je odvojeno korisničko ime potrebno za prijavu. Ovo korisničko ime je uglavnom vaše korisničko ime za prijavu u Windows domenu s ili bez domene (npr. ivanhorvat ili AD\\ivanhorvat).
+account-setup-credentials-wrong = Provjera autentičnosti nije uspjela. Provjerite korisničko ime i lozinku.
+account-setup-find-settings-failed = { -brand-short-name } nije uspio pronaći postavke za vaš račun e-pošte.
+account-setup-exchange-config-unverifiable = Konfiguraciju nije moguće provjeriti. Ukoliko ste ispravno upisali korisničko ime i lozinku, vjerojatno je administrator onemogućio odabranu konfiguraciju za vaš račun. Probajte odabrati drugi protokol.
+account-setup-provisioner-error = Došlo je do greške prilikom postavljanja vašeg novog računa u { -brand-short-name }. Pokušajte ručno postaviti svoj račun.
 
 ## Manual configuration area
 
+account-setup-manual-config-title = Ručna konfiguracija
+account-setup-incoming-server-legend = Dolazni poslužitelj
+account-setup-protocol-label = Protokol:
+account-setup-hostname-label = Adresa poslužitelja:
+account-setup-port-label = Port:
+    .title = Postavite broj porta na 0 za automatsko otkrivanje
+account-setup-auto-description = { -brand-short-name }će pokušati automatski otkriti polja koja su ostavljena prazna.
+account-setup-ssl-label = Sigurnost veze:
+account-setup-outgoing-server-legend = Odlazni poslužitelj
 
 ## Incoming/Outgoing SSL Authentication options
 
+ssl-autodetect-option = Automatski otkrij
+ssl-no-authentication-option = Bez provjere autentičnosti
+ssl-cleartext-password-option = Normalna lozinka
+ssl-encrypted-password-option = Šifrirana lozinka
 
 ## Incoming/Outgoing SSL options
 
+ssl-noencryption-option = Ništa
+account-setup-auth-label = Metoda autentifikacije:
+account-setup-username-label = Korisničko ime:
+account-setup-advanced-setup-button = Napredno podešavanje
+    .accesskey = a
 
 ## Warning insecure server dialog
 
+account-setup-insecure-title = Upozorenje!
+account-setup-insecure-incoming-title = Dolazne postavke:
+account-setup-insecure-outgoing-title = Odlazne postavke:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> ne koristi šifriranje.
+account-setup-warning-cleartext-details = Nesigurni poslužitelji e-pošte ne koriste kriptirane veze kako bi zaštitili vaše lozinke i privatne podatke. Povezivanjem na ovaj poslužitelj možete izložiti svoje lozinke i privatne podatke.
+account-setup-insecure-server-checkbox = Razumijem rizike.
+    .accesskey = u
+account-setup-insecure-description = { -brand-short-name } će vam omogućiti primanje vaše pošte koristeći dane postavke. Međutim, trebali biste kontaktirati svog administratora ili pružatelja usluge u vezi s ovim nepravilnim vezama. Za više informacija pogledajte <a data-l10n-name="thunderbird-faq-link">često postavljana pitanja u vezi Thunderbirda</a>.
+insecure-dialog-cancel-button = Promijeni postavke
+    .accesskey = s
+insecure-dialog-confirm-button = Potvrdi
+    .accesskey = P
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } je pronašao podatke za postavljanje vašeg računa na { $domain }. Želite li nastaviti i poslati svoje podatke za prijavu?
+exchange-dialog-confirm-button = Prijava
+exchange-dialog-cancel-button = Odustani
 
 ## Dismiss account creation dialog
 
+exit-dialog-title = Račun e-pošte nije postavljen
+exit-dialog-description = Jeste li sigurni da želite otkazati postupak postavljanja? { -brand-short-name } se i dalje može koristiti bez računa e-pošte, ali mnoge mogućnosti neće biti dostupne.
+account-setup-no-account-checkbox = Koristi { -brand-short-name } bez računa e-pošte
+    .accesskey = u
+exit-dialog-cancel-button = Nastavi s postavljanjem
+    .accesskey = s
+exit-dialog-confirm-button = Izađi iz postavljanja
+    .accesskey = z
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Greška prilikom stvaranja računa
+account-setup-error-server-exists = Dolazni poslužitelj već postoji.
+account-setup-confirm-advanced-title = Potvrdite napredne postavke
+account-setup-confirm-advanced-description = Ovaj dijalog će se zatvoriti i stvorit će se račun s trenutnim postavkama, čak i ako konfiguracija nije ispravna. Želiš li nastaviti?
 
 ## Addon installation section
 
+account-setup-addon-install-title = Instaliraj
+account-setup-addon-install-intro = Dodatak treće strane vam može omogućiti pristup vašoj e-pošti na ovom poslužitelju:
+account-setup-addon-no-protocol = Ovaj poslužitelj e-pošte nažalost ne podržava otvorene protokole. { account-setup-addon-install-intro }
 
 ## Success view
 
+account-setup-settings-button = Postavke računa
+account-setup-encryption-button = Obostrano šifriranje
+account-setup-signature-button = Dodaj potpis
+account-setup-dictionaries-button = Preuzmi rječnike
+account-setup-address-book-carddav-button = Spoji se na CardDAV adresar
+account-setup-address-book-ldap-button = Spoji se na LDAP adresar
+account-setup-calendar-button = Spoji se na udaljeni kalendar
+account-setup-linked-services-title = Poveži svoje povezane servise
+account-setup-linked-services-description = { -brand-short-name } je otkrio druge servise povezane na vaš račun e-pošte.
+account-setup-no-linked-description = Postavite druge servise kako biste imali što bolje { -brand-short-name } iskustvo.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } je pronašao { $count } adresar povezan s vašim računom e-pošte.
+        [few] { -brand-short-name } je pronašao { $count } adresara povezana s vašim računom e-pošte.
+       *[other] { -brand-short-name } je pronašao { $count } adresara povezanih s vašim računom e-pošte.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } je pronašao { $count } kalendar povezan s vašim računom e-pošte.
+        [few] { -brand-short-name } je pronašao { $count } kalendara povezana s vašim računom e-pošte.
+       *[other] { -brand-short-name } je pronašao { $count } kalendara povezanih s vašim računom e-pošte.
+    }
+account-setup-button-finish = Završi
+    .accesskey = Z
 
 ## Calendar synchronization dialog
 
