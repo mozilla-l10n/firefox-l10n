@@ -68,12 +68,40 @@ vcard-impp-label = Račun razgovora
 
 # BDAY and ANNIVERSARY vCard field
 
+vcard-bday-anniversary-header = Posebni datumi
+vcard-bday-anniversary-add = Dodaj poseban datum
+vcard-bday-label = Rođendan
+vcard-anniversary-label = Godišnjica
+vcard-date-day = Dan
+vcard-date-month = Mjesec
+vcard-date-year = Godina
 
 # ADR vCard field
 
+vcard-adr-header = Adrese
+vcard-adr-add = Dodaj adresu
+vcard-adr-label = Adresa
+vcard-adr-delivery-label = Oznaka za isporuku
+vcard-adr-pobox = Poštanski sandučić
+vcard-adr-ext = Proširena adresa
+vcard-adr-street = Ulica
+# Or "Locality"
+vcard-adr-locality = Grad
+# Or "Region"
+vcard-adr-region = Država/pokrajina
+# The term "ZIP code" only applies in USA. Most locales should use "Postal code" only.
+vcard-adr-code = Poštanski broj
+vcard-adr-country = Država
 
 # NOTE vCard field
 
+vcard-note-header = Bilješke
+vcard-note-add = Dodaj bilješku
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-header = Svojstva organizacije
+vcard-org-add = Dodaj svojstva organizacije
+vcard-org-title = Naslov
+vcard-org-role = Uloga
+vcard-org-org = Organizacija
