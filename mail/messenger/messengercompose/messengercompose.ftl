@@ -359,9 +359,28 @@ cloud-file-upload-error-with-custom-message-title = Prijenos { $filename } na { 
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-rename-error-title = Greška preimenovanja
 cloud-file-rename-error = Došlo je do problema prilikom preimenovanja { $filename } na { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Preimenovanje { $filename } na { $provider } nije uspjelo
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } ne podržava preimenovanje već prenesenih datoteka.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Filelink greška privitka
+cloud-file-attachment-error = Nije uspjelo ažuriranje Filelink privitka { $filename }, iz razloga što je lokalna datoteka premještena ili obrisana.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Filelink greška računa
+cloud-file-account-error = Nije uspjelo ažuriranje Filelink privitka { $filename }, iz razloga što je Filelink račun obrisan.
 
 ## Link Preview
 
+link-preview-title = Pregled poveznice
+link-preview-description = { -brand-short-name } može dodati ugrađeni pregled prilikom lijepljenja poveznice.
+link-preview-autoadd = Automatski dodaj pregled poveznica kada je to moguće
+link-preview-replace-now = Dodaj pregled poveznice za ovu poveznicu?
+link-preview-yes-replace = Da
 
 ## Dictionary selection popup
 
+spell-add-dictionaries =
+    .label = Dodaj rječnike…
+    .accesskey = a
