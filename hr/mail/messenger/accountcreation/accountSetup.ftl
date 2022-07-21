@@ -37,12 +37,40 @@ account-setup-password-label = Lozinka
     .title = Neobavezno, koristiti će se samo za potvrđivanje korisničkog imena
 account-provisioner-button = Otvorite novu adresu e-pošte
     .accesskey = O
+account-setup-password-toggle-show =
+    .title = Prikaži lozinke u čistom tekstu
+account-setup-password-toggle-hide =
+    .title = Sakrij lozinku
+account-setup-remember-password = Zapamti lozinku
+    .accesskey = m
+account-setup-exchange-label = Vaša prijava
+    .accesskey = i
+#   YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows.
+account-setup-exchange-input =
+    .placeholder = VAŠADOMENA\vašekorisničkoime
+#   Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network.
+account-setup-exchange-info-icon =
+    .title = Domenska prijava
 
 ## Action buttons
 
+account-setup-button-cancel = Odustani
+    .accesskey = O
+account-setup-button-manual-config = Ručno podešavanje
+    .accesskey = n
+account-setup-button-stop = Zaustavi
+    .accesskey = s
+account-setup-button-retest = Ponovno testiraj
+    .accesskey = t
+account-setup-button-continue = Nastavi
+    .accesskey = N
+account-setup-button-done = Gotovo
+    .accesskey = G
 
 ## Notifications
 
+account-setup-looking-up-settings = Traženje konfiguracije…
+account-setup-looking-up-settings-guess = Traženje postavki: isprobavanje čestih imena poslužitelja…
 
 ## Illustrations
 
