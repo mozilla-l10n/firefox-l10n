@@ -255,6 +255,40 @@ account-setup-found-calendars-description =
     }
 account-setup-button-finish = Završi
     .accesskey = Z
+account-setup-looking-up-address-books = Traženje adresara…
+account-setup-looking-up-calendars = Traženje kalendara…
+account-setup-address-books-button = Adresari
+account-setup-calendars-button = Kalendari
+account-setup-connect-link = Poveži
+account-setup-existing-address-book = Povezan
+    .title = Adresar je već povezan
+account-setup-existing-calendar = Povezan
+    .title = Kalendar je već povezan
+account-setup-connect-all-calendars = Poveži sve kalendare
+account-setup-connect-all-address-books = Poveži sve adresare
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Poveži kalendar
+calendar-dialog-cancel-button = Odustani
+    .accesskey = O
+calendar-dialog-confirm-button = Poveži
+    .accesskey = P
+account-setup-calendar-name-label = Naziv
+account-setup-calendar-name-input =
+    .placeholder = Moj kalendar
+account-setup-calendar-color-label = Boja
+account-setup-calendar-refresh-label = Osvježi
+account-setup-calendar-refresh-manual = Ručno
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Svaku { $count } minutu
+        [few] Svake { $count } minute
+       *[other] Svakih { $count } minuta
+    }
+account-setup-calendar-read-only = Samo za čitanje
+    .accesskey = m
+account-setup-calendar-show-reminders = Prikaži podsjetnike
+    .accesskey = s
+account-setup-calendar-offline-support = Izvanmrežna podrška
+    .accesskey = o
