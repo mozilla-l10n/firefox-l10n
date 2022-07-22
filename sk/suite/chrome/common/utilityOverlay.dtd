@@ -154,6 +154,9 @@
 <!ENTITY aboutCommPluginsCmd.label          "O zásuvných moduloch">
 <!ENTITY aboutCommPluginsCmd.accesskey      "z">
 
+<!ENTITY aboutBuildConfigCmd.label          "Zobraziť konfiguráciu zostavenia">
+<!ENTITY aboutBuildConfigCmd.accesskey      "f">
+
 <!ENTITY direct.label                             "Online (proxy: žiadne)">
 <!ENTITY direct.accesskey                         "n">
 <!ENTITY manual.label                             "Online (proxy: ručné)">
