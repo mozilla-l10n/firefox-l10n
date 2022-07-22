@@ -123,6 +123,10 @@ other-action-redirect-msg =
 message-header-msg-flagged =
     .title = Starred
     .aria-label = Starred
+# Variables:
+# $address (String) - The email address of the recipient this picture belongs to.
+message-header-recipient-avatar =
+    .alt = Profile picture of { $address }.
 
 ## Message header cutomize panel
 
@@ -136,6 +140,16 @@ message-header-button-style-text =
     .label = Text
 message-header-button-style-icons =
     .label = Icons
+message-header-show-sender-full-address =
+    .label = Always show sender’s full address
+    .accesskey = f
+message-header-show-sender-full-address-description = The email address will be shown underneath the display name.
+message-header-show-recipient-avatar =
+    .label = Show sender’s profile picture
+    .accesskey = p
+message-header-hide-label-column =
+    .label = Hide labels column
+    .accesskey = l
 message-header-large-subject =
     .label = Large subject
     .accesskey = s
