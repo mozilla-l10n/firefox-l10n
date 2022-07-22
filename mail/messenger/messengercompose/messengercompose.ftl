@@ -192,6 +192,11 @@ key-notification-resolve =
     .label = Resolve…
     .accesskey = R
     .tooltiptext = Open the OpenPGP Key Assistant
+can-encrypt-smime-notification = S/MIME end-to-end encryption is possible.
+can-encrypt-openpgp-notification = OpenPGP end-to-end encryption is possible.
+can-e2e-encrypt-button =
+    .label = Encrypt
+    .accesskey = E
 
 ## Addressing Area
 
