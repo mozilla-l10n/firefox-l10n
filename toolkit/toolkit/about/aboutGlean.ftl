@@ -12,3 +12,4 @@ tag-pings-label = Assegna questa etichetta a tutti i ping inviati
 log-pings-label = Registrare nel log il payload del ping prima dell’invio?
 send-pings-label = Invia ping denominato
 controls-button-label = Salva impostazioni
+controls-button-label-verbose = Applica impostazioni e invia ping
