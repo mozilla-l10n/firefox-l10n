@@ -3,20 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Слика у слици
-
 pictureinpicture-pause =
     .aria-label = Пауза
 pictureinpicture-play =
     .aria-label = Пуштање
-
 pictureinpicture-mute =
     .aria-label = Искљ. звук
 pictureinpicture-unmute =
     .aria-label = Пусти тон
-
 pictureinpicture-unpip =
     .aria-label = Врати на картицу
-
 pictureinpicture-close =
     .aria-label = Затвори
-
+pictureinpicture-subtitles-label = Поднаслови
+pictureinpicture-font-size-label = Величина фонта
+pictureinpicture-font-size-small = Мала
+pictureinpicture-font-size-medium = Средња
+pictureinpicture-font-size-large = Велика
