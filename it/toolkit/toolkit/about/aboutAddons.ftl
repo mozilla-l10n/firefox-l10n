@@ -349,6 +349,7 @@ colorway-collection-independent-voices-subheading = Rendi { -brand-short-name } 
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = Scadenza { DATETIME($expiryDate, month: "long", day: "numeric") }
+colorway-collection-expiry-label = Scadenza { DATETIME($expiryDate, month: "long", day: "numeric") }
 
 plugin-enabled-heading = Attivi
 plugin-disabled-heading = Disattivati
