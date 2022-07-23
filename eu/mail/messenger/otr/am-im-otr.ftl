@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-encryption =
-    .label = Muturretik muturrerako enkriptatzea
+    .label = Muturretik muturrerako zifratzea
 account-otr-label = Off-the-Record mezularitza (OTR)
 account-otr-description2 = OTRn oinarritutako muturretik muturrera zifratutako banakako elkarrizketen euskarria dauka { -brand-short-name }. Honek hirugarren batzuk entzuten egotea ekiditen du. Muturretik muturrerako elkarrizketa mota hau beste aldeko softwareak OTR euskarria badauka erabil daiteke bakarrik.
 otr-encryption-title = Zifratze egiaztatua

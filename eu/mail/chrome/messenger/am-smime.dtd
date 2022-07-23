@@ -7,7 +7,7 @@
 
 <!ENTITY e2eEnc.description "Muturretik muturrerako enkriptatze gabe mezuen edukiak erraz bistaratzen ditu zure posta hornitzaileak eta zaintza masiboak.">
 
-<!ENTITY e2eTechPref.description "Hobetsitako enkriptatze teknologia:">
+<!ENTITY e2eTechPref.description "Hobetsitako zifratze teknologia:">
 
 <!ENTITY encryptionCert2.message "Enkriptatzeko ziurtagiri pertsonala:">
 <!ENTITY digitalSign.certificate.button "Hautatu…">
@@ -19,7 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Garbitu">
 <!ENTITY encryption.certificate_clear.accesskey "G">
 <!ENTITY signingGroupTitle.label "Sinadura digitala">
-
 <!ENTITY signingCert2.message "Ziurtagiri pertsonala sinadura digitalerako:">
 
 <!ENTITY sendingDefaults.label "Ezarpen lehenetsiak mezuak bidaltzeko">
@@ -42,6 +41,6 @@
 <!ENTITY certPicker.info  "Ziurtagiria:">
 <!ENTITY certPicker.detailsLabel "Hautatutako ziurtagiriaren xehetasunak:">
 
-<!ENTITY openpgpKey.message "Giltza pertsonala enkriptatzeko eta digitalki sinatzeko">
+<!ENTITY openpgpKey.message "Gako pertsonala zifratzeko eta digitalki sinatzeko:">
 <!ENTITY openpgpKey.button "Ezarri giltza pertsonala…">
 <!ENTITY openpgpKey.accesskey "p">
