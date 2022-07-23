@@ -248,7 +248,6 @@ search-one-offs-actions =
 
 quickactions-addons = Visualizza componenti aggiuntivi
 quickactions-bookmarks = Visualizza segnalibri
-quickactions-clear = Cancella cronologia
 quickactions-clearhistory = Cancella cronologia
 quickactions-downloads = Apri download
 quickactions-inspector = Apri Analisi pagina
@@ -257,7 +256,6 @@ quickactions-print = Stampa
 quickactions-private = Apri finestra in Navigazione anonima
 quickactions-refresh = Ripristina { -brand-short-name }
 quickactions-restart = Riavvia { -brand-short-name }
-quickactions-screenshot = Cattura schermata
 quickactions-screenshot2 = Cattura schermata
 quickactions-settings = Apri impostazioni
 quickactions-update = Aggiorna { -brand-short-name }
