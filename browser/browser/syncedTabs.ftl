@@ -12,6 +12,13 @@ synced-tabs-sidebar-tabsnotsyncing = Zapnutím synchronizácie kariet zobrazíte
 synced-tabs-sidebar-connect-another-device = Pripojiť ďalšie zariadenie
 synced-tabs-sidebar-search =
     .placeholder = Hľadať v synchronizovaných kartách
+
+## Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
+## and/or devices in the list. The "Open" strings below should be translated
+## consistently with the equivalent strings for the bookmarks manager's context
+## menu. That menu is activated by right-clicking a bookmark in the Library
+## window. The bookmarks manager context's strings are located in places.ftl.
+
 synced-tabs-context-open =
     .label = Otvoriť
     .accesskey = O
@@ -26,6 +33,29 @@ synced-tabs-context-open-in-new-private-window =
     .accesskey = s
 synced-tabs-context-bookmark-single-tab =
     .label = Pridať túto kartu medzi záložky…
+    .accesskey = z
+synced-tabs-context-open-in-tab =
+    .label = Otvoriť na novej karte
+    .accesskey = O
+synced-tabs-context-open-in-container-tab =
+    .label = Otvoriť na novej kontajnerovej karte
+    .accesskey = k
+synced-tabs-context-open-in-window =
+    .label = Otvoriť v novom okne
+    .accesskey = n
+synced-tabs-context-open-in-private-window =
+    .label = Otvoriť v novom súkromnom okne
+    .accesskey = s
+
+##
+
+# Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
+# and/or devices in the list. This string is for a menuitem equivalent to one in
+# the tab context menu (activated by right-clicking a tab in the tabstrip). That
+# string is located in tabContextMenu.ftl. So, this string should be translated
+# consistently with the "Bookmark Tab" string there.
+synced-tabs-context-bookmark-tab =
+    .label = Pridať kartu medzi záložky
     .accesskey = z
 synced-tabs-context-copy =
     .label = Kopírovať
