@@ -292,8 +292,11 @@ theme-disabled-heading = ამორთულია
 theme-disabled-heading2 = შენახული თემები
 theme-monochromatic-heading = შეფერილობები
 theme-monochromatic-subheading = ახალი ხასხასა შეფერილობები, რომელთაც { -brand-product-name } გთავაზობთ. ხელმისაწვდომია მცირე დროით.
+# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = მოსინჯეთ ახალი შეფერილობა
 colorway-collection-independent-voices-subheading = გახადეთ { -brand-short-name } ცოტათი უფრო თქვენებური.
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = შეფერილობის შეცვლა
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = ბოლო ვადაა { DATETIME($expiryDate, month: "long", day: "numeric") }
