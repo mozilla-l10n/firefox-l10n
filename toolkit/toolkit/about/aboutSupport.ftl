@@ -149,6 +149,7 @@ media-device-channels = Canali
 media-device-rate = Frequenza
 media-device-latency = Latenza
 media-capabilities-title = Funzionalità media
+media-codec-support-info = Informazioni di supporto per i codec
 media-capabilities-enumerate = Enumerazione database
 
 ##
