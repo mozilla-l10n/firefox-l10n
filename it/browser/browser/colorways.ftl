@@ -18,7 +18,7 @@ expressionist-colorway-name = Espressionista
 expressionist-colorway-description = Vedi il mondo in modo diverso e le tue creazioni suscitano emozioni negli altri.
 
 visionary-colorway-name = Visionaria
-visionary-colorway-description = Metti in dubbio lo <em>status quo</em> e spingi chi ti circonda a immaginare un mondo migliore.
+visionary-colorway-description = Metti in dubbio lo status quo e spingi chi ti circonda a immaginare un mondo migliore.
 
 activist-colorway-name = Attivista
 activist-colorway-description = Rendi il mondo migliore di come l’hai trovato e convinci le altre persone a credere nel cambiamento.
