@@ -6,24 +6,23 @@ toolbar-context-menu-new-tab =
     .label = Новая вкладка
     .accesskey = я
 toolbar-context-menu-reload-selected-tab =
-    .label = Обновить выделенную вкладку
-    .accesskey = к
+    .label = Обновить выбранную вкладку
+    .accesskey = О
 toolbar-context-menu-reload-selected-tabs =
-    .label = Обновить выделенные вкладки
-    .accesskey = к
+    .label = Обновить выбранные вкладки
+    .accesskey = О
 toolbar-context-menu-bookmark-selected-tab =
-    .label = Добавить в закладки выбранную вкладку…
-    .accesskey = ы
+    .label = Добавить выбранную вкладку в закладки…
+    .accesskey = з
 toolbar-context-menu-bookmark-selected-tabs =
-    .label = Добавить в закладки выбранные вкладки…
-    .accesskey = е
+    .label = Добавить выбранные вкладки в закладки…
+    .accesskey = з
 toolbar-context-menu-select-all-tabs =
     .label = Выбрать все вкладки
-    .accesskey = л
+    .accesskey = В
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
-            [1] Восстановить закрытую вкладку
             [one] Восстановить закрытую вкладку
             [few] Восстановить закрытые вкладки
            *[many] Восстановить закрытые вкладки
@@ -31,10 +30,10 @@ toolbar-context-menu-reopen-closed-tabs =
     .accesskey = н
 toolbar-context-menu-manage-extension =
     .label = Управление расширением
-    .accesskey = в
+    .accesskey = р
 toolbar-context-menu-remove-extension =
     .label = Удалить расширение
-    .accesskey = л
+    .accesskey = У
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
@@ -45,20 +44,20 @@ toolbar-context-menu-report-extension =
 # ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
 # have different access keys.
 toolbar-context-menu-pin-to-overflow-menu =
-    .label = Прикрепить в расширенном меню
+    .label = Закрепить в расширенном меню
     .accesskey = к
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Скрывать кнопку, когда нет загрузок
-    .accesskey = н
+    .accesskey = С
 toolbar-context-menu-always-open-downloads-panel =
     .label = Показать панель при начале загрузки
-    .accesskey = л
+    .accesskey = П
 toolbar-context-menu-remove-from-toolbar =
     .label = Убрать с панели инструментов
-    .accesskey = и
+    .accesskey = У
 toolbar-context-menu-view-customize-toolbar =
     .label = Настроить…
-    .accesskey = о
+    .accesskey = с
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = Настройка панели инструментов…
     .accesskey = с
@@ -72,8 +71,8 @@ toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = Отображать только на новой вкладке
     .accesskey = л
 toolbar-context-menu-bookmarks-show-other-bookmarks =
-    .label = Показать другие закладки
-    .accesskey = з
+    .label = Отображать другие закладки
+    .accesskey = д
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Панель меню
-    .accesskey = е
+    .accesskey = м
