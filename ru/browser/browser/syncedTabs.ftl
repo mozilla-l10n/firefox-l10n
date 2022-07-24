@@ -12,6 +12,13 @@ synced-tabs-sidebar-tabsnotsyncing = Включите синхронизацию
 synced-tabs-sidebar-connect-another-device = Подключить другое устройство
 synced-tabs-sidebar-search =
     .placeholder = Поиск облачных вкладок
+
+## Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
+## and/or devices in the list. The "Open" strings below should be translated
+## consistently with the equivalent strings for the bookmarks manager's context
+## menu. That menu is activated by right-clicking a bookmark in the Library
+## window. The bookmarks manager context's strings are located in places.ftl.
+
 synced-tabs-context-open =
     .label = Открыть
     .accesskey = ы
@@ -27,6 +34,29 @@ synced-tabs-context-open-in-new-private-window =
 synced-tabs-context-bookmark-single-tab =
     .label = Добавить эту вкладку в закладки…
     .accesskey = б
+synced-tabs-context-open-in-tab =
+    .label = Открыть в новой вкладке
+    .accesskey = О
+synced-tabs-context-open-in-container-tab =
+    .label = Открыть в новой вкладке в контейнере
+    .accesskey = к
+synced-tabs-context-open-in-window =
+    .label = Открыть в новом окне
+    .accesskey = е
+synced-tabs-context-open-in-private-window =
+    .label = Открыть в новом приватном окне
+    .accesskey = п
+
+##
+
+# Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
+# and/or devices in the list. This string is for a menuitem equivalent to one in
+# the tab context menu (activated by right-clicking a tab in the tabstrip). That
+# string is located in tabContextMenu.ftl. So, this string should be translated
+# consistently with the "Bookmark Tab" string there.
+synced-tabs-context-bookmark-tab =
+    .label = Добавить вкладку в закладки
+    .accesskey = з
 synced-tabs-context-copy =
     .label = Копировать
     .accesskey = и
