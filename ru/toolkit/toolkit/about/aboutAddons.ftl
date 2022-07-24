@@ -293,8 +293,11 @@ theme-disabled-heading = Отключены
 theme-disabled-heading2 = Сохранённые темы
 theme-monochromatic-heading = Расцветки
 theme-monochromatic-subheading = Яркие новые расцветки от { -brand-product-name }. Доступны в течение ограниченного времени.
+# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Попробуйте раскраски
 colorway-collection-independent-voices-subheading = Сделайте { -brand-short-name } немного более похожим на себя.
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Сменить расцветку
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = Истекает { DATETIME($expiryDate, month: "long", day: "numeric") }
