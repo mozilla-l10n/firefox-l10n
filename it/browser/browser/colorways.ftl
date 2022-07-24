@@ -11,7 +11,7 @@ colorway-collection-independent-voices-short-description = Colori che cambiano l
 
 ## Colorway names and descriptions
 
-playmaker-colorway-name = Regista di gioco
+playmaker-colorway-name = Regista
 playmaker-colorway-description = Crei opportunità per vincere e aiuti le persone intorno a te a migliorare il loro gioco.
 
 expressionist-colorway-name = Espressionista
