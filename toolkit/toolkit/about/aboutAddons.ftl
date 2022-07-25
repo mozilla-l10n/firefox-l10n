@@ -291,6 +291,7 @@ theme-disabled-heading = ถูกปิดใช้งาน
 theme-disabled-heading2 = ชุดตกแต่งที่บันทึกไว้
 theme-monochromatic-heading = ชุดรูปแบบสี
 theme-monochromatic-subheading = ชุดรูปแบบใหม่ที่สดใสจาก { -brand-product-name } มีให้ใช้ในช่วงเวลาจำกัด
+# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = ลอง Colorways
 plugin-enabled-heading = ถูกเปิดใช้งาน
 plugin-disabled-heading = ถูกปิดใช้งาน
@@ -404,6 +405,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } เข้ากันไม่ได้กับ { -brand-short-name } { $version }
+details-notification-incompatible-link = ข้อมูลเพิ่มเติม
 details-notification-unsigned-and-disabled = { $name } ไม่สามารถยืนยันสำหรับใช้ใน { -brand-short-name } และถูกปิดใช้งาน
 details-notification-unsigned-and-disabled-link = ข้อมูลเพิ่มเติม
 details-notification-unsigned = { $name } ไม่สามารถยืนยันสำหรับใช้ใน { -brand-short-name } ดำเนินการต่อด้วยความระมัดระวัง
