@@ -17,6 +17,7 @@ profile-selection-rename-button =
 profile-selection-delete-button =
     .label = Нест кардани профил…
     .accesskey = Н
+profile-selection-conflict-message = Нусхаи дигари { -brand-product-name } ба профилҳо тағйирот ворид кардааст. Пеш аз ворид кардани тағйироти дигар, шумо бояд { -brand-short-name }-ро аз нав оғоз кунед.
 
 ## Messages used in the profile manager
 
