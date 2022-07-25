@@ -14,5 +14,6 @@ fxa-pair-device-dialog-sync =
 fxa-qrcode-pair-title = Emoñondive { -brand-product-name } ne pumbyry ha tablétape
 fxa-qrcode-pair-step1 = 1. Embojuruja { -brand-product-name } ne pumbyry mba’e’okápe.
 fxa-qrcode-pair-step2 = 2. Embojuruja <strong>poravorã</strong> (<img data-l10n-name="ios-menu-icon"/>iOS-pe térã <img data-l10n-name="android-menu-icon"/>en Android) ha ejopy <strong>Emoñepyrũ tembiapo embojuehe hag̃ua</strong>
+fxa-qrcode-pair-step3 = 3. Ejopy <strong>Emoha’ãngakuaáma</strong> ha ejoko pe pumbyry ko ayvu ári
 fxa-qrcode-error-title = Ñemoñondive oiko’ỹva.
 fxa-qrcode-error-body = Eha’ã jey.
