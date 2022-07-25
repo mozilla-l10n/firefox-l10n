@@ -570,6 +570,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Cerca nei segnalibri
 urlbar-result-action-search-history = Cerca nella cronologia
 urlbar-result-action-search-tabs = Cerca nelle schede
+urlbar-result-action-search-actions = Cerca nelle azioni
 
 ## Labels shown above groups of urlbar results
 
