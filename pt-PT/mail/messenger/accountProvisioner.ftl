@@ -15,12 +15,40 @@ account-provisioner-domain-description = O Thunderbird fez uma parceria com <a d
 
 ## Forms
 
+account-provisioner-mail-input =
+    .placeholder = O seu nome, apelido ou outro termo de pesquisa
+account-provisioner-domain-input =
+    .placeholder = O seu nome, apelido ou outro termo de pesquisa
+account-provisioner-search-button = Pesquisar
+account-provisioner-button-cancel = Cancelar
+account-provisioner-button-existing = Usar uma conta de e-mail existente
+account-provisioner-button-back = Retroceder
 
 ## Notifications
 
+account-provisioner-connection-issues = Não foi possível contactar o nosso servidor de autenticação. Por favor, verifique a sua ligação.
+account-provisioner-searching-email = A procurar contas de e-mail disponíveis…
+account-provisioner-searching-domain = A procurar domínios disponíveis…
+account-provisioner-searching-error = Não foi possível encontrar nenhum endereço para sugerir. Tente alterar os termos de pesquisa.
 
 ## Illustrations
 
+account-provisioner-step1-image =
+    .title = Escolha qual conta criar
 
 ## Search results
 
+# Variables:
+# $count (Number) - The number of domains found during search.
+account-provisioner-results-title =
+    { $count ->
+        [one] Um endereço disponível encontrado para:
+       *[other] { $count } endereços disponíveis encontrados para:
+    }
+account-provisioner-mail-results-caption = Pode tentar pesquisar por pseudónimos ou outros termos para encontrar mais endereços.
+account-provisioner-domain-results-caption = Pode tentar pesquisar por pseudónimos ou outros termos para encontrar mais domínios.
+account-provisioner-free-account = Gratuito
+account-provision-price-per-year = { $price } por ano
+account-provisioner-all-results-button = Mostrar todos os resultados
+account-provisioner-open-in-tab-img =
+    .title = Abre num novo separador
