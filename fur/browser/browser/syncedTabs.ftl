@@ -12,6 +12,13 @@ synced-tabs-sidebar-tabsnotsyncing = Ative la sincronizazion des schedis par vis
 synced-tabs-sidebar-connect-another-device = Conet un altri dispositîf
 synced-tabs-sidebar-search =
     .placeholder = Cîr tes schedis sincronizadis
+
+## Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
+## and/or devices in the list. The "Open" strings below should be translated
+## consistently with the equivalent strings for the bookmarks manager's context
+## menu. That menu is activated by right-clicking a bookmark in the Library
+## window. The bookmarks manager context's strings are located in places.ftl.
+
 synced-tabs-context-open =
     .label = Vierç
     .accesskey = V
@@ -26,6 +33,29 @@ synced-tabs-context-open-in-new-private-window =
     .accesskey = p
 synced-tabs-context-bookmark-single-tab =
     .label = Met tai segnelibris cheste schede…
+    .accesskey = b
+synced-tabs-context-open-in-tab =
+    .label = Vierç intune gnove schede
+    .accesskey = g
+synced-tabs-context-open-in-container-tab =
+    .label = Vierç intune gnove schede contignidôr
+    .accesskey = i
+synced-tabs-context-open-in-window =
+    .label = Vierç intun gnûf barcon
+    .accesskey = n
+synced-tabs-context-open-in-private-window =
+    .label = Vierç intun gnûf barcon privât
+    .accesskey = p
+
+##
+
+# Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
+# and/or devices in the list. This string is for a menuitem equivalent to one in
+# the tab context menu (activated by right-clicking a tab in the tabstrip). That
+# string is located in tabContextMenu.ftl. So, this string should be translated
+# consistently with the "Bookmark Tab" string there.
+synced-tabs-context-bookmark-tab =
+    .label = Schede dai segnelibris
     .accesskey = b
 synced-tabs-context-copy =
     .label = Copie
