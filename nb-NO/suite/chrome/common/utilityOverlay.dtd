@@ -133,7 +133,6 @@
 
 <!ENTITY helpMenu.label                   "Hjelp">
 <!ENTITY helpMenu.accesskey               "h">
-
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
      for the help button in the menubar. -->
 <!ENTITY helpMenuWin.label                "Hjelp">
@@ -154,6 +153,9 @@
 <!ENTITY aboutCmd.accesskey                 "O">
 <!ENTITY aboutCommPluginsCmd.label          "Om programtillegg">
 <!ENTITY aboutCommPluginsCmd.accesskey      "p">
+
+<!ENTITY aboutBuildConfigCmd.label          "Vis byggekonfigurasjon">
+<!ENTITY aboutBuildConfigCmd.accesskey      "b">
 
 <!ENTITY direct.label                             "Tilkoblet (ingen proxy)">
 <!ENTITY direct.accesskey                         "n">
