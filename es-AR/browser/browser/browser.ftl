@@ -262,16 +262,51 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Limpiar historial
-quickactions-print = Imprimir
-quickactions-screenshot = Hacer captura de pantalla
-quickactions-settings = Abrir configuración
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Ver complementos
+quickactions-cmd-addons = complementos, extensiones, temas
+# Opens the bookmarks library window
+quickactions-bookmarks = Ver marcadores
+quickactions-cmd-bookmarks = marcadores
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Borrar Historial
+quickactions-cmd-clearhistory = borrar historial
+# Opens about:downloads page
 quickactions-downloads = Abrir descargas
-quickactions-viewsource = Ver fuente
+quickactions-cmd-downloads = descargas
+# Opens the devtools web inspector
 quickactions-inspector = Abrir inspector
+quickactions-cmd-inspector = inspector, herramientas de desarrollador
+# Opens about:logins
+quickactions-logins = Ver inicios de sesión
+quickactions-cmd-logins = inicios de sesión, contraseñas
+# Opens the print dialog
+quickactions-print = Imprimir
+quickactions-cmd-print = imprimir
+# Opens a new private browsing window
+quickactions-private = Abrir ventana de navegación privada
+quickactions-cmd-private = navegación privada
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Refrescar { -brand-short-name }
+quickactions-cmd-refresh = refrescar
+# Restarts the browser
 quickactions-restart = Reiniciar { -brand-short-name }
+quickactions-cmd-restart = reiniciar
+# Opens the screenshot tool
+quickactions-screenshot2 = Hacer captura de pantalla
+quickactions-cmd-screenshot = captura de pantalla
+# Opens about:preferences
+quickactions-settings = Abrir configuración
+quickactions-cmd-settings = ajustes, preferencias, opciones
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Actualizar { -brand-short-name }
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Ver fuente
 
 ## Bookmark Panel
 
@@ -849,3 +884,6 @@ data-reporting-notification-button =
     .accesskey = c
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Navegación privada
+
+## Unified extensions (toolbar) button
+
