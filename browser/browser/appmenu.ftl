@@ -166,7 +166,7 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
-profiler-popup-presets-web-developer-description = 推荐在对大部分 Web 应用程序调试时使用，开销较少。
+profiler-popup-presets-web-developer-description = 推荐在调试大部分 Web 应用程序时使用，开销较少。
 profiler-popup-presets-web-developer-label =
     .label = Web 开发者
 profiler-popup-presets-firefox-description = 推荐在分析 { -brand-shorter-name } 性能时使用。

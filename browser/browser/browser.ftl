@@ -281,26 +281,34 @@ quickactions-downloads = 打开下载
 quickactions-cmd-downloads = 下载, downloads
 # Opens the devtools web inspector
 quickactions-inspector = 查看源代码
-quickactions-cmd-inspector = 查看器、开发工具
+quickactions-cmd-inspector = 查看器, 开发工具, inspector, devtools
 # Opens about:logins
 quickactions-logins = 查看登录信息
-quickactions-cmd-logins = 登录名、密码
+quickactions-cmd-logins = 登录信息, 密码, logins, passwords
 # Opens the print dialog
 quickactions-print = 打印
 quickactions-cmd-print = 打印, print
+# Opens a new private browsing window
+quickactions-private = 打开隐私浏览窗口
+quickactions-cmd-private = 隐私浏览, private browsing
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = 翻新 { -brand-short-name }
+quickactions-cmd-refresh = 刷新, refresh
 # Restarts the browser
 quickactions-restart = 重启 { -brand-short-name }
+quickactions-cmd-restart = 重新启动, 重启, restart
 # Opens the screenshot tool
 quickactions-screenshot2 = 截图
 quickactions-cmd-screenshot = 截图, screenshot
 # Opens about:preferences
 quickactions-settings = 打开设置
+quickactions-cmd-settings = 设置, 偏好设置, 选项, settings, preferences, options
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = 更新 { -brand-short-name }
+quickactions-cmd-update = 更新, update
 # Opens the view-source UI with current pages source
 quickactions-viewsource = 查看源代码
+quickactions-cmd-viewsource = 查看源代码, 源代码, view source, source
 
 ## Bookmark Panel
 
