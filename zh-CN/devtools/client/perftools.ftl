@@ -133,6 +133,8 @@ perftools-presets-media-label = 媒体
 perftools-presets-media-description2 = 推荐在排查 { -brand-shorter-name } 音视频 Bug 时使用。
 perftools-presets-networking-label = 联网
 perftools-presets-networking-description = 推荐在排查 { -brand-shorter-name } 联网 Bug 时使用。
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = 功率
 perftools-presets-custom-label = 自定义
 
 ##
