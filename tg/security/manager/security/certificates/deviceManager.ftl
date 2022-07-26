@@ -86,6 +86,7 @@ devinfo-label =
     .label = Барчасп
 devinfo-serialnum =
     .label = Рақами силсилавӣ
+load-pk11-module-file-picker-title = Драйвери дастгоҳи PKCS#11-ро барои боркунӣ интихоб намоед
 # Load Module Dialog
 load-module-help-empty-module-name =
     .value = Номи модул наметавонад холӣ бошад.
