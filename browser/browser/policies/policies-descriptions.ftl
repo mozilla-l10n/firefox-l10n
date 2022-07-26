@@ -67,6 +67,7 @@ policy-Extensions = Rozšyrjenja instalěrowaś, wótinstalěrowaś abo zastaji�
 policy-ExtensionSettings = Wšykne aspekty instalacije rozšyrjenjow zastojaś.
 policy-ExtensionUpdate = Awtomatiske aktualizacije rozšyrjenjow zmóžniś abo znjemóžniś.
 policy-FirefoxHome = Firefox Home konfigurěrowaś.
+policy-FirefoxHome2 = { -firefox-home-brand-name } konfigurěrowaś.
 policy-FlashPlugin = Wužywanje tykaca Flash dowóliś abo zakazaś.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Wunuźćo direktnu nawigaciju do intranetnego sedła, město togo aby wy pytał, gaž jadnotliwe słowne zapiski do adresoweho póla zapódawaśo.
 policy-Handlers = Standardne nałožeńske pśeźěłaki konfigurěrowaś

@@ -496,6 +496,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Startowy bok Firefox (standard)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (standard)
 home-mode-choice-custom =
     .label = Swójske URL…
 home-mode-choice-blank =
@@ -521,6 +523,8 @@ choose-bookmark =
 
 home-prefs-content-header = Wopśimjeśe startowego boka Firefox
 home-prefs-content-description = Wubjeŕśo, kótare wopśimjeśe cośo na swójej startowej wobrazowce Firefox měś.
+home-prefs-content-header2 = { -firefox-home-brand-name } wopśimjeśe
+home-prefs-content-description2 = Wubjeŕśo, kótare wopśimjeśe cośo na swójej wobrazowce { -firefox-home-brand-name } měś.
 home-prefs-search-header =
     .label = Webpytanje
 home-prefs-shortcuts-header =
