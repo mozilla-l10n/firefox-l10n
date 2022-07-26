@@ -281,6 +281,8 @@ quickactions-inspector = Ouvrir l’inspecteur
 quickactions-logins = Afficher les identifiants
 # Opens the print dialog
 quickactions-print = Imprimer
+quickactions-cmd-print = imprimer
+quickactions-cmd-private = navigation privée
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Réparer { -brand-short-name }
 quickactions-cmd-refresh = réparer
