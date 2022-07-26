@@ -597,6 +597,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = 북마크 검색
 urlbar-result-action-search-history = 기록 검색
 urlbar-result-action-search-tabs = 탭 검색
+urlbar-result-action-search-actions = 작업 검색
 
 ## Labels shown above groups of urlbar results
 
@@ -882,3 +883,6 @@ private-browsing-indicator-label = 사생활 보호 모드
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = 확장 기능
+    .tooltiptext = 확장 기능
