@@ -269,6 +269,7 @@ search-one-offs-actions =
 
 # Opens the about:addons page
 quickactions-addons = Ver extensões
+quickactions-cmd-addons = extensões, temas
 # Opens the bookmarks library window
 quickactions-bookmarks = Ver favoritos
 quickactions-cmd-bookmarks = favoritos
@@ -282,6 +283,7 @@ quickactions-cmd-downloads = downloads
 quickactions-inspector = Abrir inspetor
 # Opens about:logins
 quickactions-logins = Ver contas de acesso
+quickactions-cmd-logins = contas, senhas
 # Opens the print dialog
 quickactions-print = Imprimir
 quickactions-cmd-print = imprimir

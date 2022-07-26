@@ -181,6 +181,10 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = Predefinição para investigar bugs de rede no { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rede
+profiler-popup-presets-power-description = Predefinição para investigar bugs de uso de energia no { -brand-shorter-name }, com baixa sobrecarga.
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = Energia
 profiler-popup-presets-custom-label =
     .label = Personalizado
 
