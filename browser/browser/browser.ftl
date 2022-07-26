@@ -262,16 +262,53 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Geçmişi temizle
-quickactions-print = Yazdır
-quickactions-screenshot = Ekran görüntüsü al
-quickactions-settings = Ayarları aç
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Eklentileri görüntüle
+quickactions-cmd-addons = eklentiler, uzantılar, temalar
+# Opens the bookmarks library window
+quickactions-bookmarks = Yer imlerini görüntüle
+quickactions-cmd-bookmarks = yer imleri
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Geçmişi temizle
+quickactions-cmd-clearhistory = geçmişi temizle
+# Opens about:downloads page
 quickactions-downloads = İndirilenleri aç
-quickactions-viewsource = Kaynağı göster
+quickactions-cmd-downloads = indirilenler
+# Opens the devtools web inspector
 quickactions-inspector = Denetçiyi aç
+quickactions-cmd-inspector = denetçi, geliştirici araçları
+# Opens about:logins
+quickactions-logins = Hesapları göster
+quickactions-cmd-logins = hesaplar, parolalar
+# Opens the print dialog
+quickactions-print = Yazdır
+quickactions-cmd-print = yazdır
+# Opens a new private browsing window
+quickactions-private = Gizli gezinti penceresini aç
+quickactions-cmd-private = gizli gezinti
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } tarayıcısını yenile
+quickactions-cmd-refresh = tazele
+# Restarts the browser
 quickactions-restart = { -brand-short-name } tarayıcısını yeniden başlat
+quickactions-cmd-restart = yeniden başlat
+# Opens the screenshot tool
+quickactions-screenshot2 = Ekran görüntüsü al
+quickactions-cmd-screenshot = ekran görüntüsü
+# Opens about:preferences
+quickactions-settings = Ayarları aç
+quickactions-cmd-settings = ayarlar, tercihler, seçenekler
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } tarayıcısını güncelle
+quickactions-cmd-update = güncelle
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Kaynağı göster
+quickactions-cmd-viewsource = kaynağı görüntüle, kaynak
 
 ## Bookmark Panel
 
@@ -566,6 +603,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Yer imlerinde ara
 urlbar-result-action-search-history = Geçmişte ara
 urlbar-result-action-search-tabs = Sekmelerde ara
+urlbar-result-action-search-actions = İşlemlerde ara
 
 ## Labels shown above groups of urlbar results
 
@@ -848,3 +886,9 @@ data-reporting-notification-button =
     .accesskey = N
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Gizli gezinti
+
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = Uzantılar
+    .tooltiptext = Uzantılar
