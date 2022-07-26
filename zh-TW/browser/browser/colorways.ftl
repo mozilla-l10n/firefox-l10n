@@ -12,6 +12,7 @@ colorway-collection-independent-voices-short-description = 改變文化的色彩
 
 ## Colorway names and descriptions
 
+playmaker-colorway-name = 控球後衛
 playmaker-colorway-description = 您創造了勝利的機會，並且幫助您周圍的所有人，一同贏得競賽。
 expressionist-colorway-name = 表現主義者
 expressionist-colorway-description = 您用不同的方式看待世界，您的作品激發出他人的情感。
