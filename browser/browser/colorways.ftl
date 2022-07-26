@@ -16,4 +16,6 @@ expressionist-colorway-name = 表现派
 visionary-colorway-name = 远见派
 activist-colorway-name = 行动派
 dreamer-colorway-name = 理想派
+dreamer-colorway-description = 您相信命运偏爱大胆的人，并激励他人勇敢做自己。
 innovator-colorway-name = 创新派
+innovator-colorway-description = 您善于捕捉各处机会，并正向影响身边所有人。
