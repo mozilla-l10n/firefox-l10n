@@ -486,6 +486,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox 主页（默认）
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name }（默认）
 home-mode-choice-custom =
     .label = 自定义网址…
 home-mode-choice-blank =
