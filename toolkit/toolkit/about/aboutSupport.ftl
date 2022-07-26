@@ -158,6 +158,7 @@ media-device-channels = Kênh
 media-device-rate = Tỉ lệ
 media-device-latency = Độ trễ
 media-capabilities-title = Khả năng truyền thông
+media-codec-support-info = Thông tin hỗ trợ Codec
 # List all the entries of the database.
 media-capabilities-enumerate = Liệt kê cơ sở dữ liệu
 
