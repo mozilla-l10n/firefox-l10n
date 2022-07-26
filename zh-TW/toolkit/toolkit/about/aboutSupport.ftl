@@ -161,6 +161,7 @@ media-device-channels = 頻道
 media-device-rate = 取樣率
 media-device-latency = 延滯
 media-capabilities-title = 媒體能力
+media-codec-support-info = 解碼器支援資訊
 # List all the entries of the database.
 media-capabilities-enumerate = 列舉資料庫
 

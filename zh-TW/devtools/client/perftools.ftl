@@ -133,6 +133,9 @@ perftools-presets-media-label = 媒體
 perftools-presets-media-description2 = 於 { -brand-shorter-name } 診斷影音 Bug 時的預設值。
 perftools-presets-networking-label = 網路連線
 perftools-presets-networking-description = 於 { -brand-shorter-name } 診斷網路連線 Bug 時的預設值。
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = 電源
+perftools-presets-power-description = 於 { -brand-shorter-name } 診斷耗電量時的預設值，額外負荷較低。
 perftools-presets-custom-label = 自訂
 
 ##
