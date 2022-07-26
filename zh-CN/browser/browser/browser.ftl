@@ -597,6 +597,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = 搜索书签
 urlbar-result-action-search-history = 搜索历史记录
 urlbar-result-action-search-tabs = 搜索标签页
+urlbar-result-action-search-actions = 搜索操作
 
 ## Labels shown above groups of urlbar results
 
