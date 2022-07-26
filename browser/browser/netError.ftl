@@ -3,3 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 dns-not-found-title = Serwer njeje so namakał
+dns-not-found-hint-try-again = Pozdźišo hišće raz spytać
+dns-not-found-hint-check-network = Waš syćowy zwisk přepruwować
