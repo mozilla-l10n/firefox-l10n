@@ -305,8 +305,10 @@ quickactions-settings = Abrir configuración
 quickactions-cmd-settings = ajustes, preferencias, opciones
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Actualizar { -brand-short-name }
+quickactions-cmd-update = actualizar
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Ver fuente
+quickactions-cmd-viewsource = ver fuente, fuente
 
 ## Bookmark Panel
 
@@ -602,6 +604,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Buscar en Marcadores
 urlbar-result-action-search-history = Buscar en el Historial
 urlbar-result-action-search-tabs = Buscar pestañas
+urlbar-result-action-search-actions = Buscar acciones
 
 ## Labels shown above groups of urlbar results
 
@@ -887,3 +890,6 @@ private-browsing-indicator-label = Navegación privada
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Extensiones
+    .tooltiptext = Extensiones
