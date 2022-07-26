@@ -262,16 +262,42 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Tøm historikk
-quickactions-print = Skriv ut
-quickactions-screenshot = Ta eit skjermbilde
-quickactions-settings = Opne Innstillingar
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the bookmarks library window
+quickactions-bookmarks = Vis bokmerke
+quickactions-cmd-bookmarks = bokmerke
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Tøm historikk
+quickactions-cmd-clearhistory = tøm historikk
+# Opens about:downloads page
 quickactions-downloads = Opne nedlastingar
-quickactions-viewsource = Vis kjeldekode
+quickactions-cmd-downloads = nedlastingar
+# Opens the devtools web inspector
 quickactions-inspector = Opne inspeksjon
+# Opens the print dialog
+quickactions-print = Skriv ut
+quickactions-cmd-print = Skriv ut
+quickactions-cmd-private = privat nettlesing
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Tilbakestill { -brand-short-name }
+quickactions-cmd-refresh = oppdater
+# Restarts the browser
 quickactions-restart = Start { -brand-short-name } på nytt
+quickactions-cmd-restart = Start på nytt
+# Opens the screenshot tool
+quickactions-screenshot2 = Ta eit skjermbilde
+quickactions-cmd-screenshot = skjermbilete
+# Opens about:preferences
+quickactions-settings = Opne Innstillingar
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Oppdater { -brand-short-name }
+quickactions-cmd-update = oppdater
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Vis kjeldekode
 
 ## Bookmark Panel
 
@@ -846,3 +872,6 @@ data-reporting-notification-button =
     .accesskey = V
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privat nettlesing
+
+## Unified extensions (toolbar) button
+
