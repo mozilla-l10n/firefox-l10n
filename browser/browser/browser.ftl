@@ -262,16 +262,52 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Тарихты тазарту
-quickactions-print = Баспаға шығару
-quickactions-screenshot = Скриншотты түсіру
-quickactions-settings = Баптауларды ашу
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Қосымшаларды қарау
+quickactions-cmd-addons = қосымшалар, кеңейтулер, темалар
+# Opens the bookmarks library window
+quickactions-bookmarks = Бетбелгілерді қарау
+quickactions-cmd-bookmarks = бетбелгілер
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Тарихты тазарту
+quickactions-cmd-clearhistory = тарихты тазарту
+# Opens about:downloads page
 quickactions-downloads = Жүктемелерді ашу
-quickactions-viewsource = Бастапқы кодын қарау
+quickactions-cmd-downloads = жүктемелер
+# Opens the devtools web inspector
 quickactions-inspector = Инспекторды ашу
+quickactions-cmd-inspector = бақылаушы, әзірлеуші құралдары
+# Opens about:logins
+quickactions-logins = Логиндерді қарау
+quickactions-cmd-logins = логиндер, парольдер
+# Opens the print dialog
+quickactions-print = Баспаға шығару
+quickactions-cmd-print = баспаға шығару
+# Opens a new private browsing window
+quickactions-private = Жекелік шолу терезесін ашу
+quickactions-cmd-private = жекелік шолу
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } жаңғырту
+quickactions-cmd-refresh = жаңарту
+# Restarts the browser
 quickactions-restart = { -brand-short-name } қайта қосу
+quickactions-cmd-restart = қайта қосу
+# Opens the screenshot tool
+quickactions-screenshot2 = Скриншотты түсіру
+quickactions-cmd-screenshot = скриншот
+# Opens about:preferences
+quickactions-settings = Баптауларды ашу
+quickactions-cmd-settings = баптаулар, қалаулар, опциялар
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } жаңарту
+quickactions-cmd-update = жаңарту
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Бастапқы кодын қарау
 
 ## Bookmark Panel
 
@@ -843,3 +879,6 @@ data-reporting-notification-button =
     .accesskey = М
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Жекелік шолу
+
+## Unified extensions (toolbar) button
+
