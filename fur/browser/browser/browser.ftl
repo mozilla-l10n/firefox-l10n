@@ -302,10 +302,13 @@ quickactions-screenshot2 = Cature une videade
 quickactions-cmd-screenshot = videade
 # Opens about:preferences
 quickactions-settings = Vierç Impostazions
+quickactions-cmd-settings = impostazions, preferencis, opzions
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Inzorne { -brand-short-name }
+quickactions-cmd-update = inzorne
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Visualize sorzint
+quickactions-cmd-viewsource = visualize sorzint, sorzint
 
 ## Bookmark Panel
 
@@ -599,6 +602,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Cîr tai segnelibris
 urlbar-result-action-search-history = Cîr te cronologjie
 urlbar-result-action-search-tabs = Cîr tes schedis
+urlbar-result-action-search-actions = Cîr tes azions
 
 ## Labels shown above groups of urlbar results
 
@@ -884,3 +888,6 @@ private-browsing-indicator-label = Esplorazion privade
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Estensions
+    .tooltiptext = Estensions
