@@ -262,16 +262,53 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Clirio'r hanes
-quickactions-print = Argraffu
-quickactions-screenshot = Cymryd llun sgrin
-quickactions-settings = Agor y Gosodiadau
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Gweld Ychwanegion
+quickactions-cmd-addons = ychwanegion, estyniadau, themâu
+# Opens the bookmarks library window
+quickactions-bookmarks = Gweld Nodau Tudalen
+quickactions-cmd-bookmarks = nodau tudalen
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Clirio Hanes
+quickactions-cmd-clearhistory = clirio hanes
+# Opens about:downloads page
 quickactions-downloads = Agor y Llwythi
-quickactions-viewsource = Gweld y Ffynhonell
+quickactions-cmd-downloads = llwythi
+# Opens the devtools web inspector
 quickactions-inspector = Agor yr Archwilydd
+quickactions-cmd-inspector = arolygydd, devtools
+# Opens about:logins
+quickactions-logins = Gweld Mewngofnodi
+quickactions-cmd-logins = mewngofnodion, cyfrineiriau
+# Opens the print dialog
+quickactions-print = Argraffu
+quickactions-cmd-print = argraffu
+# Opens a new private browsing window
+quickactions-private = Agor Ffenestr Pori Preifat
+quickactions-cmd-private = pori preifat
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Adnewyddu { -brand-short-name }
+quickactions-cmd-refresh = adnewyddu
+# Restarts the browser
 quickactions-restart = Ailgychwyn { -brand-short-name }
+quickactions-cmd-restart = ailgychwyn
+# Opens the screenshot tool
+quickactions-screenshot2 = Cymryd Llun Sgrin
+quickactions-cmd-screenshot = llun sgrin
+# Opens about:preferences
+quickactions-settings = Agor y Gosodiadau
+quickactions-cmd-settings = gosodiadau, dewisiadau, opsiynau
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Diweddaru { -brand-short-name }
+quickactions-cmd-update = diweddaru
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Gweld y Ffynhonell
+quickactions-cmd-viewsource = gweld ffynhonnell, ffynhonnell
 
 ## Bookmark Panel
 
@@ -583,6 +620,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Chwilio'r Nodau Tudalen
 urlbar-result-action-search-history = Chwilio'r Hanes
 urlbar-result-action-search-tabs = Chwilio'r Tabiau
+urlbar-result-action-search-actions = Gweithredoedd Chwilio
 
 ## Labels shown above groups of urlbar results
 
@@ -865,3 +903,9 @@ data-reporting-notification-button =
     .accesskey = D
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Pori preifat
+
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = Estyniadau
+    .tooltiptext = Estyniadau
