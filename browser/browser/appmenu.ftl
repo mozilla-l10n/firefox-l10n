@@ -181,6 +181,7 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = Prasetel untuk menyelidiki bug jaringan di { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Jaringan
+profiler-popup-presets-power-description = Prasetel untuk menyelidiki bug penggunaan daya di { -brand-shorter-name }, dengan overhead rendah.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Daya

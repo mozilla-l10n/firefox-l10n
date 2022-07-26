@@ -478,6 +478,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Beranda Firefox (Baku)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (Baku)
 home-mode-choice-custom =
     .label = URL Ubahsuai…
 home-mode-choice-blank =
@@ -503,6 +505,8 @@ choose-bookmark =
 
 home-prefs-content-header = Konten Beranda Firefox
 home-prefs-content-description = Pilih konten yang ingin Anda tampilkan dalam Beranda Firefox.
+home-prefs-content-header2 = Konten { -firefox-home-brand-name }
+home-prefs-content-description2 = Pilih konten yang diinginkan untuk tampil di layar { -firefox-home-brand-name } Anda.
 home-prefs-search-header =
     .label = Pencarian Web
 home-prefs-shortcuts-header =
