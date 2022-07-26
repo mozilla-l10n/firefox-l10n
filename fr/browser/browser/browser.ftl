@@ -270,20 +270,32 @@ search-one-offs-actions =
 # Opens the about:addons page
 quickactions-addons = Voir les modules
 quickactions-cmd-bookmarks = marque-pages
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Effacer l’historique
 # Opens about:downloads page
 quickactions-downloads = Ouvrir les téléchargements
+quickactions-cmd-downloads = téléchargements
 # Opens the devtools web inspector
 quickactions-inspector = Ouvrir l’inspecteur
+# Opens about:logins
+quickactions-logins = Afficher les identifiants
 # Opens the print dialog
 quickactions-print = Imprimer
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Réparer { -brand-short-name }
+quickactions-cmd-refresh = réparer
 # Restarts the browser
 quickactions-restart = Redémarrer { -brand-short-name }
+quickactions-cmd-restart = redémarrer
+# Opens the screenshot tool
+quickactions-screenshot2 = Effectuer une capture d’écran
+quickactions-cmd-screenshot = capture d’écran
 # Opens about:preferences
 quickactions-settings = Ouvrir les paramètres
+quickactions-cmd-settings = paramètres, préférences, options
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Mettre à jour { -brand-short-name }
+quickactions-cmd-update = mettre à jour
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Afficher la source
 
