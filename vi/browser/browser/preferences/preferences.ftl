@@ -478,6 +478,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Trang chủ Firefox (Mặc định)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (Mặc định)
 home-mode-choice-custom =
     .label = Tùy chỉnh URL...
 home-mode-choice-blank =
@@ -503,6 +505,8 @@ choose-bookmark =
 
 home-prefs-content-header = Nội dung của Trang chủ Firefox
 home-prefs-content-description = Chọn nội dung mà bạn muốn thêm vào Trang chủ Firefox.
+home-prefs-content-header2 = Nội dung { -firefox-home-brand-name }
+home-prefs-content-description2 = Chọn nội dung bạn muốn trên màn hình { -firefox-home-brand-name } của mình.
 home-prefs-search-header =
     .label = Tìm kiếm web
 home-prefs-shortcuts-header =
