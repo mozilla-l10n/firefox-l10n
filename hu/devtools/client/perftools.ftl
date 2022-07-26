@@ -140,6 +140,9 @@ perftools-presets-media-label = Média
 perftools-presets-media-description2 = Előbeállítás a { -brand-shorter-name } hang- és videóhibáinak kivizsgálásához.
 perftools-presets-networking-label = Hálózat
 perftools-presets-networking-description = Előbeállítás a { -brand-shorter-name } hálózati hibák kivizsgálásához.
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Energiagazdálkodás
+perftools-presets-power-description = Előbeállítás a { -brand-shorter-name } energiagazdálkodási hibáinak kivizsgálásához, alacsony többletfogyasztással.
 perftools-presets-custom-label = Egyéni
 
 ##
