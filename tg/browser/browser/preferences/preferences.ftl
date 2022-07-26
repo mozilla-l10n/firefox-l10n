@@ -489,6 +489,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Саҳифаи асосии Firefox (Пешфарз)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (Пешфарз)
 home-mode-choice-custom =
     .label = Нишониҳои URL-и фармоишӣ…
 home-mode-choice-blank =
@@ -514,6 +516,8 @@ choose-bookmark =
 
 home-prefs-content-header = Муҳтавои саҳифаи асосии Firefox
 home-prefs-content-description = Интихоб кунед, ки кадом мавод бояд дар саҳифаи асосии Firefox нишон дода шавад.
+home-prefs-content-header2 = Муҳтавои { -firefox-home-brand-name }
+home-prefs-content-description2 = Интихоб кунед, ки кадом мавод бояд дар экрани асосии { -firefox-home-brand-name } нишон дода шавад.
 home-prefs-search-header =
     .label = Ҷустуҷӯ дар Интернет
 home-prefs-shortcuts-header =

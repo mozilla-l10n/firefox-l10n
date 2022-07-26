@@ -262,16 +262,53 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Пок кардани таърих
-quickactions-print = Чоп кардан
-quickactions-screenshot = Гирифтани акси экран
-quickactions-settings = Кушодани танзимот
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Намоиши ҷузъҳои иловагӣ
+quickactions-cmd-addons = ҷузъҳои иловагӣ, васеъшавиҳо, мавзуъҳо
+# Opens the bookmarks library window
+quickactions-bookmarks = Намоиши хатбаракҳо
+quickactions-cmd-bookmarks = хатбаракҳо
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Пок кардани таърих
+quickactions-cmd-clearhistory = пок кардани таърих
+# Opens about:downloads page
 quickactions-downloads = Кушодани боргириҳо
-quickactions-viewsource = Дидани манбаъ
+quickactions-cmd-downloads = боргириҳо
+# Opens the devtools web inspector
 quickactions-inspector = Кушодани тафтишкунанда
+quickactions-cmd-inspector = тафтишкунанда, абзорҳои барномарезӣ
+# Opens about:logins
+quickactions-logins = Намоиши воридшавиҳо
+quickactions-cmd-logins = воридшавиҳо, ниҳонвожаҳо
+# Opens the print dialog
+quickactions-print = Чоп кардан
+quickactions-cmd-print = чоп кардан
+# Opens a new private browsing window
+quickactions-private = Кушодани равзанаи тамошокунии хусусӣ
+quickactions-cmd-private = тамошокунии хусусӣ
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Аз нав сохтани { -brand-short-name }
+quickactions-cmd-refresh = нав кардан
+# Restarts the browser
 quickactions-restart = Аз нав оғоз кардани { -brand-short-name }
+quickactions-cmd-restart = аз нав оғоз кардан
+# Opens the screenshot tool
+quickactions-screenshot2 = Гирифтани акси экран
+quickactions-cmd-screenshot = акси экран
+# Opens about:preferences
+quickactions-settings = Кушодани танзимот
+quickactions-cmd-settings = танзимот, хусусиятҳо, имконот
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Навсозӣ кардани { -brand-short-name }
+quickactions-cmd-update = навсозӣ кардан
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Дидани манбаъ
+quickactions-cmd-viewsource = намоиши манбаъ, манбаъ
 
 ## Bookmark Panel
 
@@ -564,6 +601,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Ҷустуҷӯ дар хатбаракҳо
 urlbar-result-action-search-history = Ҷустуҷӯ дар таърих
 urlbar-result-action-search-tabs = Ҷустуҷӯ дар варақаҳо
+urlbar-result-action-search-actions = Ҷустуҷӯи амалҳо
 
 ## Labels shown above groups of urlbar results
 
@@ -846,3 +884,9 @@ data-reporting-notification-button =
     .accesskey = И
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Тамошокунии махфӣ
+
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = Васеъшавиҳо
+    .tooltiptext = Васеъшавиҳо

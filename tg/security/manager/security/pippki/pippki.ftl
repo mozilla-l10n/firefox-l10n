@@ -47,6 +47,8 @@ download-cert-view-text = Тафтиш кардани гувоҳиномаи м�
 
 ## Client Authorization Ask dialog
 
+client-auth-window =
+    .title = Дархости муайянкунии корбар
 client-auth-cert-details = Тафсилоти гувоҳиномаи интихобшуда:
 
 ## Set password (p12) dialog
