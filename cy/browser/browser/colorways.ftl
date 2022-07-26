@@ -23,3 +23,4 @@ activist-colorway-description = Rydych chi'n gadael y byd yn lle gwell nag nag o
 dreamer-colorway-name = Breuddwydiwr
 dreamer-colorway-description = Rydych chi'n credu bod hap yn ffafrio'r beiddgar ac yn ysbrydoli eraill i fod yn ddewr.
 innovator-colorway-name = Arloesydd
+innovator-colorway-description = Rydych chi'n gweld cyfleoedd ym mhobman ac yn cael effaith ar fywydau pawb o'ch cwmpas.
