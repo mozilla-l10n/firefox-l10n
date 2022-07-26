@@ -11,3 +11,9 @@ colorway-collection-independent-voices-short-description = 色彩之魅，文化
 
 ## Colorway names and descriptions
 
+playmaker-colorway-name = 实力派
+expressionist-colorway-name = 表现派
+visionary-colorway-name = 远见派
+activist-colorway-name = 行动派
+dreamer-colorway-name = 理想派
+innovator-colorway-name = 创新派
