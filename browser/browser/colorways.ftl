@@ -5,6 +5,7 @@
 
 ## Colorway collections
 
+colorway-collection-independent-voices = 凡人之声
 colorway-collection-independent-voices-description = 色彩之魅，文化之味。最新的配色是为赞颂让世界变得更美好的声音。
 # Used as a subheading for the colorway collection card in about:addons
 colorway-collection-independent-voices-short-description = 色彩之魅，文化之味。
