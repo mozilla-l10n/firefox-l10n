@@ -262,16 +262,53 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Historiju zhašeć
-quickactions-print = Ćišćeć
-quickactions-screenshot = Foto wobrazowki činić
-quickactions-settings = Nastajenja wočinić
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Přidatki pokazać
+quickactions-cmd-addons = přidatki, rozšěrjenja, drasty
+# Opens the bookmarks library window
+quickactions-bookmarks = Zapołožki pokazać
+quickactions-cmd-bookmarks = zapołožki
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Historiju zhašeć
+quickactions-cmd-clearhistory = historiju zhašeć
+# Opens about:downloads page
 quickactions-downloads = Sćehnjenja wočinić
-quickactions-viewsource = Žórłowy kod pokazać
+quickactions-cmd-downloads = sćehnjenja
+# Opens the devtools web inspector
 quickactions-inspector = Inspektor wočinić
+quickactions-cmd-inspector = inspektor, wuwiwarske nastroje
+# Opens about:logins
+quickactions-logins = Přizjewjenja pokazać
+quickactions-cmd-logins = přizjewjenja, hesła
+# Opens the print dialog
+quickactions-print = Ćišćeć
+quickactions-cmd-print = ćišćeć
+# Opens a new private browsing window
+quickactions-private = Priwatne wokno wočinić
+quickactions-cmd-private = priwatny modus
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } wobnowić
+quickactions-cmd-refresh = aktualizować
+# Restarts the browser
 quickactions-restart = { -brand-short-name } znowa startować
+quickactions-cmd-restart = znowa startować
+# Opens the screenshot tool
+quickactions-screenshot2 = Foto wobrazowki činić
+quickactions-cmd-screenshot = foto wobrazowki
+# Opens about:preferences
+quickactions-settings = Nastajenja wočinić
+quickactions-cmd-settings = nastajenja
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } aktualizować
+quickactions-cmd-update = aktualizować
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Žórłowy kod pokazać
+quickactions-cmd-viewsource = žórło pokazać, žórło
 
 ## Bookmark Panel
 
@@ -575,6 +612,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Zapołožki přepytać
 urlbar-result-action-search-history = Historiju přepytać
 urlbar-result-action-search-tabs = Rajtarki přepytać
+urlbar-result-action-search-actions = W akcijach pytać
 
 ## Labels shown above groups of urlbar results
 
@@ -857,3 +895,9 @@ data-reporting-notification-button =
     .accesskey = u
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Priwatny modus
+
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = Rozšěrjenja
+    .tooltiptext = Rozšěrjenja
