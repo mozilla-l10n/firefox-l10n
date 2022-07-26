@@ -282,11 +282,14 @@ theme-monochromatic-subheading = 活力滿點的 { -brand-product-name } 新配�
 # Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = 嘗試 Colorways
 colorway-collection-independent-voices-subheading = 讓 { -brand-short-name } 更有您的風格。
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = 更改配色
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = 提供至 { DATETIME($expiryDate, month: "long", day: "numeric") } 為止
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = 更改配色
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+colorway-collection-expiry-label = 提供至 { DATETIME($expiryDate, month: "long", day: "numeric") } 為止
 plugin-enabled-heading = 啟用
 plugin-disabled-heading = 停用
 dictionary-enabled-heading = 啟用

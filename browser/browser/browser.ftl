@@ -262,16 +262,53 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = 清除瀏覽紀錄
-quickactions-print = 列印
-quickactions-screenshot = 拍攝畫面擷圖
-quickactions-settings = 開啟設定
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = 檢視附加元件
+quickactions-cmd-addons = 附加元件, 擴充套件, 佈景主題, add-ons, extensions, themes
+# Opens the bookmarks library window
+quickactions-bookmarks = 檢視書籤
+quickactions-cmd-bookmarks = 書籤, bookmarks
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = 清除瀏覽記錄
+quickactions-cmd-clearhistory = 清除瀏覽紀錄, clear history
+# Opens about:downloads page
 quickactions-downloads = 開啟下載項目
-quickactions-viewsource = 檢視原始碼
+quickactions-cmd-downloads = 下載項目, 下載, downloads
+# Opens the devtools web inspector
 quickactions-inspector = 開啟檢測器
+quickactions-cmd-inspector = 檢測器, 開發工具, inspector, devtools
+# Opens about:logins
+quickactions-logins = 檢視登入資訊
+quickactions-cmd-logins = 登入資訊, 密碼, 帳號, logins, passwords
+# Opens the print dialog
+quickactions-print = 列印
+quickactions-cmd-print = 列印, print
+# Opens a new private browsing window
+quickactions-private = 開啟隱私瀏覽視窗
+quickactions-cmd-private = 隱私瀏覽, 無痕模式, private browsing
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = 重新整理 { -brand-short-name }
+quickactions-cmd-refresh = 重新整理, refresh
+# Restarts the browser
 quickactions-restart = 重新啟動 { -brand-short-name }
+quickactions-cmd-restart = 重新啟動, 重開, restart
+# Opens the screenshot tool
+quickactions-screenshot2 = 拍攝畫面擷圖
+quickactions-cmd-screenshot = 畫面擷圖, 擷圖, screenshot
+# Opens about:preferences
+quickactions-settings = 開啟設定
+quickactions-cmd-settings = 設定, 偏好設定, 選項, settings, preferences, options
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = 更新 { -brand-short-name }
+quickactions-cmd-update = 更新, update
+# Opens the view-source UI with current pages source
+quickactions-viewsource = 檢視原始碼
+quickactions-cmd-viewsource = 檢視原始碼, 原始碼, view source, source
 
 ## Bookmark Panel
 
@@ -564,6 +601,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = 搜尋書籤
 urlbar-result-action-search-history = 搜尋瀏覽記錄
 urlbar-result-action-search-tabs = 搜尋分頁
+urlbar-result-action-search-actions = 搜尋動作
 
 ## Labels shown above groups of urlbar results
 
@@ -846,3 +884,9 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = 隱私瀏覽
+
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = 擴充套件
+    .tooltiptext = 擴充套件

@@ -478,6 +478,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox 首頁（預設值）
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name }（預設）
 home-mode-choice-custom =
     .label = 自訂網址…
 home-mode-choice-blank =
@@ -503,6 +505,8 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox 首頁內容
 home-prefs-content-description = 選擇要在您的 Firefox 首頁顯示哪些內容。
+home-prefs-content-header2 = { -firefox-home-brand-name } 內容
+home-prefs-content-description2 = 選擇要在您的 { -firefox-home-brand-name } 畫面顯示哪些內容。
 home-prefs-search-header =
     .label = 網頁搜尋
 home-prefs-shortcuts-header =
