@@ -91,6 +91,8 @@ exception-mgr-permanent =
     .label = Ин истисно ба таври доимӣ нгоҳ дошта шавад
     .accesskey = И
 pk11-bad-password = Ниҳонвожаии воридшуда нодуруст аст.
+pkcs12-unknown-err-restore = Бо сабабҳои номаълум файли PKCS #12 барқарор карда нашуд.
+pkcs12-unknown-err-backup = Бо сабабҳои номаълум нусхаи эҳтиётии файли PKCS #12 эҷод карда нашуд.
 
 ## PKCS#12 file dialogs
 
