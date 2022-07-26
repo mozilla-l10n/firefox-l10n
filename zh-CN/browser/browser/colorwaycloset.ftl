@@ -14,7 +14,7 @@ colorway-intensity-bold = 浓烈
 # Label for the button to keep using the selected colorway in the browser
 colorway-closet-set-colorway-button = 设置配色
 colorway-closet-cancel-button = 取消
-colorway-homepage-reset-prompt = 将 { -firefox-home-brand-name }设为您的多彩主页
-colorway-homepage-reset-success-message = 您的主页已设为 { -firefox-home-brand-name }
+colorway-homepage-reset-prompt = 将“{ -firefox-home-brand-name }”设为您的多彩主页
+colorway-homepage-reset-success-message = 已将“{ -firefox-home-brand-name }”设为您的主页
 colorway-homepage-reset-apply-button = 应用
 colorway-homepage-reset-undo-button = 撤销
