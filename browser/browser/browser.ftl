@@ -262,16 +262,27 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Удалить историю
-quickactions-print = Распечатать
-quickactions-screenshot = Сделать скриншот
-quickactions-settings = Открыть настройки
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens about:downloads page
 quickactions-downloads = Открыть загрузки
-quickactions-viewsource = Показать исходник
+# Opens the devtools web inspector
 quickactions-inspector = Открыть инспектор
+# Opens the print dialog
+quickactions-print = Распечатать
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Очистить { -brand-short-name }
+# Restarts the browser
 quickactions-restart = Перезапустить { -brand-short-name }
+# Opens about:preferences
+quickactions-settings = Открыть настройки
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Обновить { -brand-short-name }
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Показать исходник
 
 ## Bookmark Panel
 
@@ -770,10 +781,10 @@ ui-tour-info-panel-close =
 
 popups-infobar-allow =
     .label = Разрешить всплывающие окна для { $uriHost }
-    .accesskey = Р
+    .accesskey = в
 popups-infobar-block =
-    .label = Заблокировать всплывающие окна для { $uriHost }
-    .accesskey = Р
+    .label = Блокировать всплывающие окна для { $uriHost }
+    .accesskey = в
 
 ##
 
@@ -851,3 +862,6 @@ data-reporting-notification-button =
     .accesskey = В
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Приватный просмотр
+
+## Unified extensions (toolbar) button
+
