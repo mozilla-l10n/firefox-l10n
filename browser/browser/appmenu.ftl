@@ -180,6 +180,9 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = ערכה לחקירת באגים של רשת או תקשורת ב־{ -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Networking
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = צריכת חשמל
 profiler-popup-presets-custom-label =
     .label = התאמה אישית
 
