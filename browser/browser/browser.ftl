@@ -262,16 +262,32 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = 清除历史
-quickactions-print = 打印
-quickactions-screenshot = 截图
-quickactions-settings = 打开设置
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = 查看附加组件
+quickactions-cmd-addons = 附加组件、扩展、主题
+# Opens the bookmarks library window
+quickactions-bookmarks = 查看书签
+# Opens about:downloads page
 quickactions-downloads = 打开下载
-quickactions-viewsource = 查看源代码
+# Opens the devtools web inspector
 quickactions-inspector = 查看源代码
+# Opens the print dialog
+quickactions-print = 打印
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = 翻新 { -brand-short-name }
+# Restarts the browser
 quickactions-restart = 重启 { -brand-short-name }
+# Opens about:preferences
+quickactions-settings = 打开设置
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = 更新 { -brand-short-name }
+# Opens the view-source UI with current pages source
+quickactions-viewsource = 查看源代码
 
 ## Bookmark Panel
 
@@ -842,3 +858,6 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = 隐私浏览
+
+## Unified extensions (toolbar) button
+
