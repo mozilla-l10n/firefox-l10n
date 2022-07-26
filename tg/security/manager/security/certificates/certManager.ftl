@@ -17,6 +17,7 @@ certmgr-tab-ca =
 certmgr-mine = Шумо аз ташкилотҳои зерин гувоҳиномаҳоеро дар бар мегиред, ки шуморо муайян мекунанд
 certmgr-remembered = Ин гувоҳиномаҳо барои муайянкунии шумо дар сомонаҳо истифода мешаванд
 certmgr-people = Шумо гувоҳиномаҳоеро нигоҳ медоред, ки шахсони зеринро муайян мекунанд
+certmgr-server = Сабтҳои ҷорӣ барои хатоҳои гувоҳиномаҳои сервер истисноҳоро муайян мекунанд
 certmgr-ca = Шумо гувоҳиномаҳоеро нигоҳ медоред, ки макомотҳои гувоҳиномадиҳии зеринро муайян мекунанд
 certmgr-edit-ca-cert =
     .title = Таҳрир кардани танзимоти эътимоди гувоҳиномаи МИ
@@ -79,6 +80,7 @@ exception-mgr =
 exception-mgr-extra-button =
     .label = Тасдиқ кардани истиснои амниятӣ
     .accesskey = Т
+exception-mgr-supplemental-warning = Бонкҳои қонунӣ, мағозаҳои онлайни расмӣ ва дигар сомонаҳои ҷамъиятии расмӣ аз шумо чунин амалҳоро дархост намекунанд.
 exception-mgr-cert-location-url =
     .value = Ҷойгиршавӣ:
 exception-mgr-cert-location-download =
@@ -93,6 +95,7 @@ exception-mgr-permanent =
 pk11-bad-password = Ниҳонвожаии воридшуда нодуруст аст.
 pkcs12-unknown-err-restore = Бо сабабҳои номаълум файли PKCS #12 барқарор карда нашуд.
 pkcs12-unknown-err-backup = Бо сабабҳои номаълум нусхаи эҳтиётии файли PKCS #12 эҷод карда нашуд.
+pkcs12-unknown-err = Бо сабабҳои номаълум амалиёти PKCS #12 қатъ карда шуд.
 
 ## PKCS#12 file dialogs
 
