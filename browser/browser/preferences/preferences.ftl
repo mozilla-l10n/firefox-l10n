@@ -513,7 +513,8 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox 主页内容
 home-prefs-content-description = 选择要在您的 Firefox 主页上显示的版块。
-home-prefs-content-header2 = { -firefox-home-brand-name } 内容
+home-prefs-content-header2 = { -firefox-home-brand-name }内容
+home-prefs-content-description2 = 选择要在您的 { -firefox-home-brand-name }上显示的内容。
 home-prefs-search-header =
     .label = 网络搜索
 home-prefs-shortcuts-header =
