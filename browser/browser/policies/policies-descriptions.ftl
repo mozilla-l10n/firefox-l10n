@@ -67,6 +67,7 @@ policy-Extensions = 安装，移除或锁定扩展。安装选项可将网址或
 policy-ExtensionSettings = 管理扩展的各种安装设置。
 policy-ExtensionUpdate = 启用或禁用扩展自动更新。
 policy-FirefoxHome = 配置 Firefox 主页。
+policy-FirefoxHome2 = 配置 { -firefox-home-brand-name }。
 policy-FlashPlugin = 允许或拒绝使用 Flash 插件。
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = 在地址栏输入单个词条时，强制导航至内部网站，而非进行网上搜索。
 policy-Handlers = 配置默认应用程序处理方式。
