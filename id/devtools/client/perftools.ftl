@@ -139,6 +139,9 @@ perftools-presets-media-label = Media
 perftools-presets-media-description2 = Prasetel untuk menyelidiki bug audio dan video di { -brand-shorter-name }.
 perftools-presets-networking-label = Jaringan
 perftools-presets-networking-description = Prasetel untuk menyelidiki bug jaringan di { -brand-shorter-name }.
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Daya
+perftools-presets-power-description = Prasetel untuk menyelidiki bug penggunaan daya di { -brand-shorter-name }, dengan overhead rendah.
 perftools-presets-custom-label = Khusus
 
 ##

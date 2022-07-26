@@ -67,6 +67,7 @@ policy-Extensions = Memasang, mencopot, atau mengunci ekstensi. Opsi Memasang me
 policy-ExtensionSettings = Kelola semua aspek pemasangan ekstensi.
 policy-ExtensionUpdate = Aktifkan atau nonaktifkan pembaruan ekstensi otomatis.
 policy-FirefoxHome = Atur Beranda Firefox.
+policy-FirefoxHome2 = Atur { -firefox-home-brand-name }.
 policy-FlashPlugin = Izinkan atau tolak penggunaan plugin Flash.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Paksa untuk membuka situs intranet secara langsung alih-alih melakukan pencarian saat mengetik satu kata di bilah alamat.
 policy-Handlers = Konfigurasikan penanganan aplikasi baku.
