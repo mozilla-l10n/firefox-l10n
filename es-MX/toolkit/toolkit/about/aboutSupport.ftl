@@ -4,7 +4,6 @@
 
 page-title = Información para solucionar problemas
 page-subtitle = Esta página presenta información técnica que puede ser de ayuda si necesitas resolver un problema. Para obtener respuestas a preguntas comunes sobre { -brand-short-name } visita nuestro <a data-l10n-name="support-link">sitio web de soporte</a>.
-
 crashes-title = Reporte de fallos
 crashes-id = ID del reporte
 crashes-send-date = Enviado
@@ -75,12 +74,10 @@ app-basics-key-mozilla = Clave del servicio de localización de Mozilla
 app-basics-safe-mode = Modo Seguro
 app-basics-memory-size = Tamaño de la memoria (RAM)
 app-basics-disk-available = Espacio disponible del disco
-
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
-
 show-dir-label =
     { PLATFORM() ->
         [macos] Mostrar en Finder
@@ -161,6 +158,7 @@ media-device-channels = Canales
 media-device-rate = Frecuencia
 media-device-latency = Latencia
 media-capabilities-title = Capacidades del contenido multimedia
+media-codec-support-info = Información de soporte de códecs
 # List all the entries of the database.
 media-capabilities-enumerate = Enumerar base de datos
 
@@ -198,7 +196,6 @@ report-crash-for-days =
         [one] Informe de fallos del último { $days } día
        *[other] Informe de fallos de los últimos { $days } días
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -206,7 +203,6 @@ crashes-time-minutes =
         [one] hace { $minutes } minuto
        *[other] hace { $minutes } minutos
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -214,7 +210,6 @@ crashes-time-hours =
         [one] hace { $hours } hora
        *[other] hace { $hours } horas
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -222,7 +217,6 @@ crashes-time-days =
         [one] hace { $days } día
        *[other] hace { $days } días
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -230,7 +224,6 @@ pending-reports =
         [one] Todos los informes de fallos (incluyendo { $reports } fallo pendiente en el intervalo de tiempo indicado)
        *[other] Todos los informes de fallos (incluyendo { $reports } fallos pendientes en el intervalo de tiempo indicado)
     }
-
 raw-data-copied = Datos en crudo copiados al portapapeles
 text-copied = Texto copiado al portapapeles
 
@@ -243,11 +236,9 @@ blocked-mismatched-version = Bloqueado por la diferencia de versión de tu contr
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Bloqueado para la versión de tu controlador gráfico. Prueba actualizando tu controlador gráfico a la versión { $driverVersion } o más moderna.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parámetros de ClearType
-
 compositing = Composición
 hardware-h264 = Decodificación H264 por hardware
 main-thread-no-omtc = hilo principal, no OMTC
@@ -262,7 +253,6 @@ virtual-monitor-disp = Pantalla de monitor virtual
 
 found = Encontrada
 missing = Ausente
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Descripción
@@ -285,19 +275,15 @@ webgl2-renderer = Procesador WebGL2
 webgl2-version = Versión del controlador WebGL 2
 webgl2-driver-extensions = Extensiones del controlador WebGL 2
 webgl2-extensions = Extensiones WebGL 2
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = En lista de bloqueo debido a problemas conocidos: <a data-l10n-name="bug-link">{ $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Bloqueado; código de falla { $failureCode }
-
 d3d11layers-crash-guard = Compositor D3D11
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Decodificador de vídeo WMF VPX
-
 reset-on-next-restart = Restablecer en el próximo reinicio
 gpu-process-kill-button = Terminar proceso GPU
 gpu-device-reset = Restablecer dispositivo
@@ -307,10 +293,8 @@ content-uses-tiling = Usa mosaicos (contenido)
 off-main-thread-paint-enabled = Fuera del hilo principal de pintura Habilitado
 off-main-thread-paint-worker-count = Recuento de dibujo fuera del tema principal
 target-frame-rate = Frecuencia de imágenes objetivo
-
 min-lib-versions = Versión mínima esperada
 loaded-lib-versions = Versión en uso
-
 has-seccomp-bpf = Seccomp-BPF (sistema de filtro de llamadas)
 has-seccomp-tsync = Sincronización de hilos Seccomp
 has-user-namespaces = Espacios de nombres de usuario
@@ -324,18 +308,15 @@ sandbox-proc-type-content = contenido
 sandbox-proc-type-file = contenido del archivo
 sandbox-proc-type-media-plugin = plugin de medios
 sandbox-proc-type-data-decoder = decodificador de datos
-
 startup-cache-title = Caché de inicio
 startup-cache-disk-cache-path = Ruta de caché de disco
 startup-cache-ignore-disk-cache = Ignorar caché de disco
 startup-cache-found-disk-cache-on-init = Caché de disco encontrada durante la inicialización
 startup-cache-wrote-to-disk-cache = Se escribió a la caché de disco
-
 launcher-process-status-0 = Habilitado
 launcher-process-status-1 = Deshabilitado debido a un fallo
 launcher-process-status-2 = Deshabilitado forzosamente
 launcher-process-status-unknown = Estado desconocido
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -349,14 +330,12 @@ fission-status-experiment-treatment = Habilitado por el experimento
 fission-status-disabled-by-e10s-env = Deshabilitado por el entorno
 fission-status-enabled-by-env = Habilitado por el entorno
 fission-status-disabled-by-env = Deshabilitado por el entorno
-fission-status-disabled-by-safe-mode = Deshabilitado por el modo seguro
 fission-status-enabled-by-default = Habilitado de forma predeterminada
 fission-status-disabled-by-default = Deshabilitado de forma predeterminada
 fission-status-enabled-by-user-pref = Habilitado por el usuario
 fission-status-disabled-by-user-pref = Deshabilitado por el usuario
 fission-status-disabled-by-e10s-other = E10s deshabilitado
 fission-status-enabled-by-rollout = Habilitado por el lanzamiento por fases
-
 async-pan-zoom = Encuadro/zoom asíncrono
 apz-none = ninguno
 wheel-enabled = entrada de rueda de ratón activada
@@ -393,7 +372,6 @@ support-remote-experiments-title = Experimentos remotos
 support-remote-experiments-name = Nombre
 support-remote-experiments-branch = Rama de experimentos
 support-remote-experiments-see-about-studies = Ver <a data-l10n-name="support-about-studies-link">about:studies</a> para más información, incluyendo como desactivar experimentos individuales o desactivar que { -brand-short-name } ejecute este tipo de experimento en el futuro.
-
 support-remote-features-title = Funciones remotas
 support-remote-features-name = Nombre
 support-remote-features-status = Estado
