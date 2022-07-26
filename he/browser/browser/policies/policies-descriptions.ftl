@@ -67,6 +67,7 @@ policy-Extensions = התקנה, הסרה או נעילה של הרחבות. אפ
 policy-ExtensionSettings = ניהול כל ההיבטים של התקנת הרחבות.
 policy-ExtensionUpdate = הפעלה או השבתה של עדכונים אוטומטיים להרחבות.
 policy-FirefoxHome = הגדרת תצורה של מסך הבית של Firefox.
+policy-FirefoxHome2 = הגדרת תצורה של { -firefox-home-brand-name }.
 policy-FlashPlugin = לאפשר או לדחות את השימוש בתוסף החיצוני Flash.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = לכפות ניווט ישיר לאתרי אינטראנט במקום לבצע חיפוש, בעת הקלדת רשומות של מילה בודדה בשורת הכתובת.
 policy-Handlers = קביעת תצורה של מטפלים ביישומי ברירת מחדל.
