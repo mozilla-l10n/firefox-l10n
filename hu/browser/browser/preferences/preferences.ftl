@@ -490,6 +490,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox kezdőlap (alapértelmezett)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (alapértelmezett)
 home-mode-choice-custom =
     .label = Egyéni URL-ek…
 home-mode-choice-blank =
@@ -515,6 +517,8 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox kezdőlap tartalma
 home-prefs-content-description = Válassza ki milyen tartalmat szeretne a Firefox kezdőlapon.
+home-prefs-content-header2 = { -firefox-home-brand-name } tartalom
+home-prefs-content-description2 = Válassza ki milyen tartalmat szeretne a { -firefox-home-brand-name } képernyőn.
 home-prefs-search-header =
     .label = Webes keresés
 home-prefs-shortcuts-header =
