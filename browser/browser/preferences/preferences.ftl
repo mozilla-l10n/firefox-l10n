@@ -490,6 +490,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox giriş sayfası (varsayılan)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (Varsayılan)
 home-mode-choice-custom =
     .label = Özel adresler…
 home-mode-choice-blank =
@@ -515,6 +517,8 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox giriş sayfası içeriği
 home-prefs-content-description = Firefox giriş sayfasında görmek istediğiniz içerikleri seçin.
+home-prefs-content-header2 = { -firefox-home-brand-name } içerikleri
+home-prefs-content-description2 = { -firefox-home-brand-name } ekranınızda görmek istediğiniz içerikleri seçin.
 home-prefs-search-header =
     .label = Web araması
 home-prefs-shortcuts-header =
@@ -535,6 +539,8 @@ home-prefs-recommended-by-description-new = { -brand-product-name } ailesinin bi
 home-prefs-recommended-by-learn-more = Nasıl çalışır?
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsorlu haberler
+home-prefs-recommended-by-option-recent-saves =
+    .label = Son kaydedilenleri göster
 home-prefs-highlights-option-visited-pages =
     .label = Ziyaret ettiğim sayfalar
 home-prefs-highlights-options-bookmarks =

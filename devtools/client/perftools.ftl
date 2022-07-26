@@ -127,6 +127,8 @@ perftools-presets-media-label = Ortam
 perftools-presets-media-description2 = { -brand-shorter-name } tarayıcısında ses ve video hatalarını araştırma ayarı.
 perftools-presets-networking-label = Ağ
 perftools-presets-networking-description = { -brand-shorter-name } tarayıcısında ağ hatalarını araştırma ayarı.
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Güç
 perftools-presets-custom-label = Özel
 
 ##
