@@ -67,6 +67,7 @@ policy-Extensions = Васеъшавиҳоро насб, нест ё қулф м
 policy-ExtensionSettings = Ҳамаи тарафҳои насбкунии васеъшавиро идора мекунад.
 policy-ExtensionUpdate = Навсозиҳои худкори васеъшавиро фаъол ё ғайрифаъол мекунад.
 policy-FirefoxHome = Танзим кардани саҳифаи асосии Firefox.
+policy-FirefoxHome2 = { -firefox-home-brand-name }-ро танзим мекунад.
 policy-FlashPlugin = Барои истифодаи плагини «Flash» иҷозат медиҳад ё онро манъ мекунад.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Гузариши маҷбурии мустақим ба сомонаи шабакаи дохилӣ ба ивази амали ҷустуҷӯ ҳангоми воридкунии калимаҳои алоҳида дар навори нишонӣ.
 policy-Handlers = Коркарди пешфарзи барномаро танзим мекунад.

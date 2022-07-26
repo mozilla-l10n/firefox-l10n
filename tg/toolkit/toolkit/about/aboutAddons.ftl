@@ -293,11 +293,14 @@ theme-monochromatic-subheading = Нақшу нигори нерӯманди на
 # Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Нақшу нигорҳоро озмоед
 colorway-collection-independent-voices-subheading = Бигузор, ки шумо каме бештар соҳиби { -brand-short-name } шавед.
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Иваз кардани нақшу нигор
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = Дар санаи { DATETIME($expiryDate, month: "long", day: "numeric") } ба анҷом мерасад
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Иваз кардани нақшу нигор
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+colorway-collection-expiry-label = Дар санаи { DATETIME($expiryDate, month: "long", day: "numeric") } ба анҷом мерасад
 plugin-enabled-heading = Фаъол аст
 plugin-disabled-heading = Ғайрифаъол аст
 dictionary-enabled-heading = Фаъол аст

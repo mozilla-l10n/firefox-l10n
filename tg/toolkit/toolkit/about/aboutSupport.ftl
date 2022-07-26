@@ -162,6 +162,7 @@ media-device-channels = Шабакаҳо
 media-device-rate = Зичӣ
 media-device-latency = Таъхир
 media-capabilities-title = Қобилиятҳои расона
+media-codec-support-info = Маълумоти дастгирии кодек
 # List all the entries of the database.
 media-capabilities-enumerate = Ҳисоббарории пойгоҳи иттилоотӣ
 
