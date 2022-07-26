@@ -478,6 +478,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox 홈 (기본값)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (기본값)
 home-mode-choice-custom =
     .label = 사용자 지정 URL…
 home-mode-choice-blank =
@@ -503,6 +505,8 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox 홈 콘텐츠
 home-prefs-content-description = Firefox 홈 화면에서 원하는 콘텐츠를 선택하세요.
+home-prefs-content-header2 = { -firefox-home-brand-name } 콘텐츠
+home-prefs-content-description2 = { -firefox-home-brand-name } 화면에서 원하는 콘텐츠를 선택하세요.
 home-prefs-search-header =
     .label = 웹 검색
 home-prefs-shortcuts-header =

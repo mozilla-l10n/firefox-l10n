@@ -67,6 +67,7 @@ policy-Extensions = 확장 기능을 설치, 제거 또는 잠급니다. 설치 
 policy-ExtensionSettings = 확장 기능 설치의 모든 측면을 관리합니다.
 policy-ExtensionUpdate = 확장 기능 자동 업데이트를 사용하거나 사용하지 않게 합니다.
 policy-FirefoxHome = Firefox 홈을 구성합니다.
+policy-FirefoxHome2 = { -firefox-home-brand-name }을 구성합니다.
 policy-FlashPlugin = 플래시 플러그인의 사용을 허용하거나 거부합니다.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = 주소 표시줄에 단일 단어 항목을 입력할 때 검색하는 대신 인트라넷 사이트를 직접 탐색합니다.
 policy-Handlers = 기본 애플리케이션 핸들러를 구성합니다.
