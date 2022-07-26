@@ -14,6 +14,7 @@ colorway-intensity-bold = Tučny
 # Label for the button to keep using the selected colorway in the browser
 colorway-closet-set-colorway-button = Barbowu kombinaciju nastajić
 colorway-closet-cancel-button = Přetorhnyć
+colorway-homepage-reset-prompt = { -firefox-home-brand-name } k wašej barbnej startowej stronje činić
 colorway-homepage-reset-success-message = { -firefox-home-brand-name } je nětko waša startowa strona
 colorway-homepage-reset-apply-button = Nałožić
 colorway-homepage-reset-undo-button = Cofnyć
