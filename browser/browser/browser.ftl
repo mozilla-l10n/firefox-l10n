@@ -269,16 +269,16 @@ search-one-offs-actions =
 
 # Opens the about:addons page
 quickactions-addons = 查看附加组件
-quickactions-cmd-addons = 附加组件、扩展、主题｜add-ons, extensions, themes
+quickactions-cmd-addons = 附加组件, 扩展, 主题, add-ons, extensions, themes
 # Opens the bookmarks library window
 quickactions-bookmarks = 查看书签
-quickactions-cmd-bookmarks = 书签
+quickactions-cmd-bookmarks = 书签, bookmarks
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = 清除历史
-quickactions-cmd-clearhistory = 清除历史
+quickactions-cmd-clearhistory = 清除历史, clear history
 # Opens about:downloads page
 quickactions-downloads = 打开下载
-quickactions-cmd-downloads = 下载
+quickactions-cmd-downloads = 下载, downloads
 # Opens the devtools web inspector
 quickactions-inspector = 查看源代码
 quickactions-cmd-inspector = 查看器、开发工具
@@ -287,14 +287,14 @@ quickactions-logins = 查看登录信息
 quickactions-cmd-logins = 登录名、密码
 # Opens the print dialog
 quickactions-print = 打印
-quickactions-cmd-print = 打印
+quickactions-cmd-print = 打印, print
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = 翻新 { -brand-short-name }
 # Restarts the browser
 quickactions-restart = 重启 { -brand-short-name }
 # Opens the screenshot tool
 quickactions-screenshot2 = 截图
-quickactions-cmd-screenshot = 截图
+quickactions-cmd-screenshot = 截图, screenshot
 # Opens about:preferences
 quickactions-settings = 打开设置
 # Opens a SUMO article explaining how to update the browser
