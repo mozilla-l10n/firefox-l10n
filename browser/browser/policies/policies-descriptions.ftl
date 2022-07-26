@@ -67,6 +67,7 @@ policy-Extensions = Kiegészítők telepítése, eltávolítása vagy zárolása
 policy-ExtensionSettings = Kezelje a kiegészítők telepítésének összes vonatkozását.
 policy-ExtensionUpdate = Az automatikus kiegészítőfrissítések engedélyezése vagy letiltása.
 policy-FirefoxHome = A Firefox kezdőlap beállítása.
+policy-FirefoxHome2 = A { -firefox-home-brand-name } beállítása.
 policy-FlashPlugin = A Flash bővítmény használatának engedélyezése vagy tiltása.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = A közvetlen intranetes navigáció kényszerítése a keresés helyett, amikor egyetlen szót ír be a címsorba.
 policy-Handlers = Alapértelmezett alkalmazáskezelők beállítása
