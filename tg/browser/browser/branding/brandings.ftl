@@ -34,4 +34,4 @@
 -firefox-suggest-brand-name = Пешниҳоди Firefox
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
--firefox-home-brand-name = Хонаи «Firefox»
+-firefox-home-brand-name = Саҳифаи асосии «Firefox»
