@@ -493,6 +493,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Хатняя Firefox (прадвызначана)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (тыповая)
 home-mode-choice-custom =
     .label = Свае URL-адрасы…
 home-mode-choice-blank =
@@ -518,6 +520,8 @@ choose-bookmark =
 
 home-prefs-content-header = Хатні экран Firefox
 home-prefs-content-description = Выберыце пажаданае змесціва для хатняга экрана Firefox.
+home-prefs-content-header2 = Змесціва { -firefox-home-brand-name }
+home-prefs-content-description2 = Выберыце пажаданае змесціва для свайго экрана { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Пошук у сеціве
 home-prefs-shortcuts-header =
@@ -538,6 +542,8 @@ home-prefs-recommended-by-description-new = Выключнае змесціва,
 home-prefs-recommended-by-learn-more = Як гэта працуе
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Артыкулы ад спонсараў
+home-prefs-recommended-by-option-recent-saves =
+    .label = Паказваць апошнія захаванні
 home-prefs-highlights-option-visited-pages =
     .label = Наведаныя старонкі
 home-prefs-highlights-options-bookmarks =
