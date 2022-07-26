@@ -247,19 +247,33 @@ search-one-offs-actions =
 ## QuickActions are shown in the urlbar as the user types a matching string
 
 quickactions-addons = Visualizza componenti aggiuntivi
+quickactions-cmd-addons = componenti aggiuntivi, estensioni, temi
 quickactions-bookmarks = Visualizza segnalibri
+quickactions-cmd-bookmarks = segnalibri
 quickactions-clearhistory = Cancella cronologia
+quickactions-cmd-clearhistory = cancella cronologia
 quickactions-downloads = Apri download
+quickactions-cmd-downloads = download
 quickactions-inspector = Apri Analisi pagina
+quickactions-cmd-inspector = analisi pagina, devtools, sviluppatori
 quickactions-logins = Visualizza credenziali
+quickactions-cmd-logins = credenziali, password
 quickactions-print = Stampa
+quickactions-cmd-print = stampa
 quickactions-private = Apri finestra in Navigazione anonima
+quickactions-cmd-private = navigazione anonima, incognito
 quickactions-refresh = Ripristina { -brand-short-name }
+quickactions-cmd-refresh = ripristina
 quickactions-restart = Riavvia { -brand-short-name }
+quickactions-cmd-restart = riavvia
 quickactions-screenshot2 = Cattura schermata
+quickactions-cmd-screenshot = schermata, screenshot
 quickactions-settings = Apri impostazioni
+quickactions-cmd-settings = impostazioni, preferenze, opzioni
 quickactions-update = Aggiorna { -brand-short-name }
+quickactions-cmd-update = aggiorna
 quickactions-viewsource = Visualizza sorgente
+quickactions-cmd-viewsource = visualizza sorgente, sorgente
 
 ## Bookmark Panel
 
