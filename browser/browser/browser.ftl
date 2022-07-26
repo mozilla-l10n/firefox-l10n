@@ -281,6 +281,7 @@ quickactions-downloads = Abrir downloads
 quickactions-cmd-downloads = downloads
 # Opens the devtools web inspector
 quickactions-inspector = Abrir inspetor
+quickactions-cmd-inspector = inspetor, ferramentas de desenvolvimento
 # Opens about:logins
 quickactions-logins = Ver contas de acesso
 quickactions-cmd-logins = contas, senhas
