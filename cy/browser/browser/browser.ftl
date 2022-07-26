@@ -283,7 +283,7 @@ quickactions-cmd-downloads = llwythi
 quickactions-inspector = Agor yr Archwilydd
 quickactions-cmd-inspector = arolygydd, devtools
 # Opens about:logins
-quickactions-logins = Gweld Mewngofnodi
+quickactions-logins = Gweld Mewngofnodion
 quickactions-cmd-logins = mewngofnodion, cyfrineiriau
 # Opens the print dialog
 quickactions-print = Argraffu
