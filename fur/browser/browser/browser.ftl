@@ -262,16 +262,50 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Nete la cronologjie
-quickactions-print = Stampe
-quickactions-screenshot = Cature une videade
-quickactions-settings = Vierç Impostazions
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Visualize zontis
+quickactions-cmd-addons = zontis, estensions, temis
+# Opens the bookmarks library window
+quickactions-bookmarks = Visualize segnelibris
+quickactions-cmd-bookmarks = segnelibris
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Nete la cronologjie
+quickactions-cmd-clearhistory = nete la cronologjie
+# Opens about:downloads page
 quickactions-downloads = Vierç Discjamâts
-quickactions-viewsource = Visualize sorzint
+quickactions-cmd-downloads = discjamâts
+# Opens the devtools web inspector
 quickactions-inspector = Vierç Ispetôr
+quickactions-cmd-inspector = ispetôr, struments dai disvilupadôrs
+# Opens about:logins
+quickactions-logins = Visualize credenziâls
+quickactions-cmd-logins = credenziâls, passwords
+# Opens the print dialog
+quickactions-print = Stampe
+quickactions-cmd-print = stampe
+# Opens a new private browsing window
+quickactions-private = Vierç barcon di navigazion privade
+quickactions-cmd-private = navigazion privade
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Ripristine { -brand-short-name }
+quickactions-cmd-refresh = ripristine
+# Restarts the browser
 quickactions-restart = Torne invie { -brand-short-name }
+quickactions-cmd-restart = torne invie
+# Opens the screenshot tool
+quickactions-screenshot2 = Cature une videade
+quickactions-cmd-screenshot = videade
+# Opens about:preferences
+quickactions-settings = Vierç Impostazions
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Inzorne { -brand-short-name }
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Visualize sorzint
 
 ## Bookmark Panel
 
@@ -847,3 +881,6 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Esplorazion privade
+
+## Unified extensions (toolbar) button
+

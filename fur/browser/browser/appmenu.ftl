@@ -181,6 +181,10 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = Preconfigurazion par investigâ su erôrs di rêt in { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rêt
+profiler-popup-presets-power-description = Pre-configurazion par investigâ sui erôrs di consum di energjie in { -brand-shorter-name }, cun basse sorecjame.
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = Energje
 profiler-popup-presets-custom-label =
     .label = Personalizât
 
