@@ -262,16 +262,40 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = ניקוי היסטוריה
-quickactions-print = הדפסה
-quickactions-screenshot = צילום מסך
-quickactions-settings = פתיחת הגדרות
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = הצגת תוספות
+quickactions-cmd-addons = תוספות, תוספים, הרחבות, ערכות נושא
+# Opens the bookmarks library window
+quickactions-bookmarks = הצגת סימניות
+quickactions-cmd-bookmarks = סימניות, מועדפים
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = מחיקת היסטוריה
+quickactions-cmd-clearhistory = מחיקת היסטוריה, ניקוי היסטוריה, מחק היסטוריה, נקה היסטוריה
+# Opens about:downloads page
 quickactions-downloads = פתיחת הורדות
-quickactions-viewsource = הצגת המקור
+quickactions-cmd-downloads = הורדות
+# Opens the devtools web inspector
 quickactions-inspector = פתיחת המפקח
+quickactions-cmd-inspector = מפקח, inspector, כלי פיתוח, כלי מפתח, devtools
+# Opens about:logins
+quickactions-logins = הצגת כניסות
+# Opens the print dialog
+quickactions-print = הדפסה
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = רענון { -brand-short-name }
+# Restarts the browser
 quickactions-restart = הפעלת { -brand-short-name } מחדש
+# Opens about:preferences
+quickactions-settings = פתיחת הגדרות
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = עדכון { -brand-short-name }
+# Opens the view-source UI with current pages source
+quickactions-viewsource = הצגת המקור
 
 ## Bookmark Panel
 
@@ -844,3 +868,6 @@ data-reporting-notification-button =
     .accesskey = ש
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = גלישה פרטית
+
+## Unified extensions (toolbar) button
+
