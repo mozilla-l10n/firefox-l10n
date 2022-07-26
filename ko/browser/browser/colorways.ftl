@@ -5,6 +5,7 @@
 
 ## Colorway collections
 
+colorway-collection-independent-voices = 독립적인 목소리
 
 ## Colorway names and descriptions
 
