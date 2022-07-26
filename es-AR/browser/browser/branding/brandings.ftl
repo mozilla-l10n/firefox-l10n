@@ -34,4 +34,4 @@
 -firefox-suggest-brand-name = Firefox Suggest
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
--firefox-home-brand-name = Firefox Home
+-firefox-home-brand-name = Inicio de Firefox
