@@ -490,6 +490,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = מסך הבית של Firefox (ברירת מחדל)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (ברירת מחדל)
 home-mode-choice-custom =
     .label = כתובות מותאמות אישית…
 home-mode-choice-blank =
@@ -514,7 +516,9 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header = תוכן מסך הבית של Firefox
-home-prefs-content-description = בחירת תוכן שיוצג במסך הבית של Firefox.
+home-prefs-content-description = בחירת התוכן שיוצג במסך הבית של Firefox.
+home-prefs-content-header2 = תוכן { -firefox-home-brand-name }
+home-prefs-content-description2 = בחירת התוכן שיוצג ב{ -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = חיפוש ברשת
 home-prefs-shortcuts-header =
