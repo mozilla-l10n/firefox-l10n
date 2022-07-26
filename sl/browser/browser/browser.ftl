@@ -262,16 +262,27 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Počisti zgodovino
-quickactions-print = Natisni
-quickactions-screenshot = Zajemi posnetek zaslona
-quickactions-settings = Odpri nastavitve
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens about:downloads page
 quickactions-downloads = Odpri prenose
-quickactions-viewsource = Pokaži vir
+# Opens the devtools web inspector
 quickactions-inspector = Odpri pregledovalnik
+# Opens the print dialog
+quickactions-print = Natisni
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Osveži { -brand-short-name }
+# Restarts the browser
 quickactions-restart = Ponovno zaženi { -brand-short-name }
+# Opens about:preferences
+quickactions-settings = Odpri nastavitve
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Posodobi { -brand-short-name }
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Pokaži vir
 
 ## Bookmark Panel
 
@@ -588,6 +599,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Predlogi iskalnika { $engine }
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Hitra dejanja
 
 ## Full Screen and Pointer Lock UI
 
@@ -854,3 +868,6 @@ data-reporting-notification-button =
     .accesskey = I
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Zasebno brskanje
+
+## Unified extensions (toolbar) button
+

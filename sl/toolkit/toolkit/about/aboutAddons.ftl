@@ -298,6 +298,8 @@ colorway-collection-independent-voices-subheading = Dodajte { -brand-short-name(
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = Poteče { DATETIME($expiryDate, month: "long", day: "numeric") }
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Spremeni barvno kombinacijo
 plugin-enabled-heading = Omogočeno
 plugin-disabled-heading = Onemogočeno
 dictionary-enabled-heading = Omogočeno
