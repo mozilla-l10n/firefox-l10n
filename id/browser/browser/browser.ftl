@@ -262,16 +262,53 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Bersihkan riwayat
-quickactions-print = Cetak
-quickactions-screenshot = Ambil tangkapan layar
-quickactions-settings = Buka Pengaturan
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Tampilkan Pengaya
+quickactions-cmd-addons = pengaya, ekstensi, tema
+# Opens the bookmarks library window
+quickactions-bookmarks = Tampilkan Markah
+quickactions-cmd-bookmarks = markah
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Bersihkan Riwayat
+quickactions-cmd-clearhistory = bersihkan riwayat
+# Opens about:downloads page
 quickactions-downloads = Buka Unduhan
-quickactions-viewsource = Lihat Sumber
+quickactions-cmd-downloads = unduhan
+# Opens the devtools web inspector
 quickactions-inspector = Buka Inspektur
+quickactions-cmd-inspector = inspektur, perangkat pengembang
+# Opens about:logins
+quickactions-logins = Tampilkan Info Masuk
+quickactions-cmd-logins = info masuk, kata sandi
+# Opens the print dialog
+quickactions-print = Cetak
+quickactions-cmd-print = cetak
+# Opens a new private browsing window
+quickactions-private = Buka Jendela Penjelajahan Pribadi
+quickactions-cmd-private = penjelajahan pribadi
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Segarkan { -brand-short-name }
+quickactions-cmd-refresh = segarkan
+# Restarts the browser
 quickactions-restart = Mulai Ulang { -brand-short-name }
+quickactions-cmd-restart = mulai ulang
+# Opens the screenshot tool
+quickactions-screenshot2 = Ambil Tangkapan Layar
+quickactions-cmd-screenshot = tangkapan layar
+# Opens about:preferences
+quickactions-settings = Buka Pengaturan
+quickactions-cmd-settings = pengaturan, preferensi, pilihan
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Perbarui { -brand-short-name }
+quickactions-cmd-update = versi baru
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Lihat Sumber
+quickactions-cmd-viewsource = lihat kode sumber, sumber
 
 ## Bookmark Panel
 
@@ -560,6 +597,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Cari Markah
 urlbar-result-action-search-history = Cari di Riwayat
 urlbar-result-action-search-tabs = Cari Tab
+urlbar-result-action-search-actions = Cari Tindakan
 
 ## Labels shown above groups of urlbar results
 
@@ -842,3 +880,9 @@ data-reporting-notification-button =
     .accesskey = P
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Penjelajahan pribadi
+
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = Ekstensi
+    .tooltiptext = Ekstensi
