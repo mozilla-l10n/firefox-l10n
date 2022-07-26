@@ -262,16 +262,44 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = 기록 지우기
-quickactions-print = 인쇄
-quickactions-screenshot = 스크린샷 찍기
-quickactions-settings = 설정 열기
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = 부가 기능 보기
+quickactions-cmd-addons = 부가 기능, 확장 기능, 테마
+# Opens the bookmarks library window
+quickactions-bookmarks = 북마크 보기
+quickactions-cmd-bookmarks = 북마크
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = 기록 지우기
+quickactions-cmd-clearhistory = 기록 지우기
+# Opens about:downloads page
 quickactions-downloads = 다운로드 열기
-quickactions-viewsource = 소스 보기
+quickactions-cmd-downloads = 다운로드
+# Opens the devtools web inspector
 quickactions-inspector = 검사기 열기
+quickactions-cmd-inspector = 검사기, devtools
+# Opens about:logins
+quickactions-logins = 로그인 보기
+quickactions-cmd-logins = 로그인, 비밀번호
+# Opens the print dialog
+quickactions-print = 인쇄
+quickactions-cmd-print = 인쇄
+# Opens a new private browsing window
+quickactions-private = 새 사생활 보호 창 열기
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } 새로 고침
+# Restarts the browser
 quickactions-restart = { -brand-short-name } 다시 시작
+# Opens about:preferences
+quickactions-settings = 설정 열기
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } 업데이트
+# Opens the view-source UI with current pages source
+quickactions-viewsource = 소스 보기
 
 ## Bookmark Panel
 
@@ -842,3 +870,6 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = 사생활 보호 모드
+
+## Unified extensions (toolbar) button
+
