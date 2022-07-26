@@ -4,101 +4,77 @@
 
 certmgr-title =
     .title = Aministradôr dai certificâts
-
 certmgr-tab-mine =
     .label = I tiei certificâts
-
+certmgr-tab-remembered =
+    .label = Decisions di autenticazion
 certmgr-tab-people =
     .label = Înt
-
 certmgr-tab-servers =
     .label = Servidôrs
-
 certmgr-tab-ca =
     .label = Autoritâts
-
+certmgr-mine = Tu âs certificâts di chestis organizazions che ti identifichin
+certmgr-remembered = Chescj certificâts a vegnin doprâts par identificâti sui sîts web
+certmgr-people = Tu âs certificâts su files che a identifichin chestis personis
 certmgr-edit-ca-cert =
     .title = Modifiche impostazions afidabilitât dai certificâts CA
     .style = width: 48em;
-
 certmgr-edit-cert-edit-trust = Modifiche impostazions atendibilitât:
-
 certmgr-edit-cert-trust-email =
     .label = Chest certificât al pues identificâ utents di pueste.
-
 certmgr-delete-cert =
     .title = Elimine certificât
     .style = width: 48em; height: 24em;
-
 certmgr-cert-name =
     .label = Non dal certificât
-
 certmgr-cert-server =
     .label = Servidôr
-
 certmgr-override-lifetime =
     .label = Durade de vite
-
 certmgr-token-name =
     .label = Dispositîf di sigurece
-
 certmgr-expires-label =
     .label = Al scjât ai
-
 certmgr-email =
     .label = Direzion email
-
 certmgr-serial =
     .label = Numar seriâl
-
 certmgr-view =
     .label = Visualize…
     .accesskey = V
-
 certmgr-export =
     .label = Espuarte…
     .accesskey = E
-
 certmgr-delete =
     .label = Elimine…
     .accesskey = l
-
 certmgr-backup =
     .label = Fâs une copie di sigurece…
     .accesskey = s
-
 certmgr-backup-all =
     .label = Fâs une copie di sigurece di dut…
     .accesskey = d
-
 certmgr-restore =
     .label = Impuarte…
     .accesskey = m
-
 certmgr-add-exception =
     .label = Zonte ecezion…
     .accesskey = Z
-
 exception-mgr =
     .title = Zonte ecezion di sigurece
-
 exception-mgr-supplemental-warning = Bancjis, negozis, e altris sîts publics legjitims no ti domandaràn di fâ cussì.
-
 exception-mgr-cert-location-url =
     .value = Direzion:
-
 exception-mgr-cert-location-download =
     .label = Oten certificât
     .accesskey = G
-
 exception-mgr-cert-status-view-cert =
     .label = Visualize…
     .accesskey = V
-
 exception-mgr-permanent =
     .label = Salve ecezion in mût permanent
     .accesskey = p
-
 pk11-bad-password = La password inseride no je juste.
 pkcs12-decode-err = No si pues decodificâ il file. Al podarès no jessi tal formât PKCS #12, jessi corot o ben che tu vedis inseride une password sbaliade.
 pkcs12-unknown-err-restore = No si pues ripristinâ il file PKCS #12 par motîfs no cognossûts.
@@ -130,14 +106,10 @@ delete-user-cert-title =
     .title = Elimine i tiei certificâts
 delete-user-cert-confirm = Vuelistu eliminâ pardabon chescj certificâts?
 delete-user-cert-impact = Se tu eliminis un dai tiei certificâts, no tu podarâs plui doprâlu par identificâti.
-
-
 delete-email-cert-title =
     .title = Elimine certificâts di pueste eletroniche
 delete-email-cert-confirm = Vuelistu eliminâ pardabon chescj certificâts di pueste eletroniche di chestis personis?
 delete-email-cert-impact = Se tu eliminis il certificât di pueste eletroniche di une persone, no tu podarâs plui mandâi messaçs cifrâts.
-
-## Cert Viewer
 
 ## Used to show whether an override is temporary or permanent
 

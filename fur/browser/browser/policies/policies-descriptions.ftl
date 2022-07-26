@@ -67,6 +67,7 @@ policy-Extensions = Instale, disinstale o bloche lis estensions. La opzion par i
 policy-ExtensionSettings = Gjestìs ducj i aspiets relatîfs ae instalazion des estensions.
 policy-ExtensionUpdate = Ative o disative i inzornaments automatics des estensions.
 policy-FirefoxHome = Configure la pagjine iniziâl di Firefox.
+policy-FirefoxHome2 = Configure { -firefox-home-brand-name }.
 policy-FlashPlugin = Permet o dinee l'ûs dal plugin Flash.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Cuant che si scrîf une peraule singule te sbare de direzion, sfuarce la navigazion direte su sîts intranet invezit di cirî in rêt.
 policy-Handlers = Configure i gjestôrs di aplicazion predefinîts.
