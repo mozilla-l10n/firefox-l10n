@@ -611,6 +611,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Pagina iniziale di Firefox (predefinita)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (predefinita)
 
 home-mode-choice-custom =
     .label = Indirizzi personalizzati…
@@ -641,6 +643,8 @@ choose-bookmark =
 
 home-prefs-content-header = Pagina iniziale di Firefox
 home-prefs-content-description = Scegli i contenuti da visualizzare nella pagina iniziale di Firefox.
+home-prefs-content-header2 = Contenuti per { -firefox-home-brand-name }
+home-prefs-content-description2 = Scegli i contenuti da visualizzare in { -firefox-home-brand-name }.
 
 home-prefs-search-header =
     .label = Ricerca sul Web

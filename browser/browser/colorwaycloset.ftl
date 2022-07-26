@@ -17,7 +17,7 @@ colorway-intensity-bold = Forte
 colorway-closet-set-colorway-button = Imposta tonalità
 colorway-closet-cancel-button = Annulla
 
-colorway-homepage-reset-prompt = Utilizza { -brand-product-name } Home per una pagina iniziale multicolore
-colorway-homepage-reset-success-message = { -brand-product-name } Home è ora impostato come pagina iniziale
+colorway-homepage-reset-prompt = Utilizza { -firefox-home-brand-name } per una pagina iniziale multicolore
+colorway-homepage-reset-success-message = { -firefox-home-brand-name } è ora impostato come pagina iniziale
 colorway-homepage-reset-apply-button = Applica
 colorway-homepage-reset-undo-button = Annulla
