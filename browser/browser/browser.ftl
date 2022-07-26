@@ -38,6 +38,20 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navigation privée)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navigation privée)
+# These are the default window titles everywhere except macOS. The first two
+# attributes are used when the web content opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } (navigation privée)
+    .data-content-title-default = { $content-title } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name }  (navigation privée)
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -248,16 +262,30 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Effacer l’historique
-quickactions-print = Imprimer
-quickactions-screenshot = Effectuer une capture d’écran
-quickactions-settings = Ouvrir les paramètres
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Voir les modules
+quickactions-cmd-bookmarks = marque-pages
+# Opens about:downloads page
 quickactions-downloads = Ouvrir les téléchargements
-quickactions-viewsource = Afficher la source
+# Opens the devtools web inspector
 quickactions-inspector = Ouvrir l’inspecteur
+# Opens the print dialog
+quickactions-print = Imprimer
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Réparer { -brand-short-name }
+# Restarts the browser
 quickactions-restart = Redémarrer { -brand-short-name }
+# Opens about:preferences
+quickactions-settings = Ouvrir les paramètres
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Mettre à jour { -brand-short-name }
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Afficher la source
 
 ## Bookmark Panel
 
@@ -835,3 +863,6 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Navigation privée
+
+## Unified extensions (toolbar) button
+
