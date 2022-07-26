@@ -262,16 +262,50 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Limpar histórico
-quickactions-print = Imprimir
-quickactions-screenshot = Capturar tela
-quickactions-settings = Abrir configurações
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Ver extensões
+# Opens the bookmarks library window
+quickactions-bookmarks = Ver favoritos
+quickactions-cmd-bookmarks = favoritos
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Limpar histórico
+quickactions-cmd-clearhistory = limpar histórico
+# Opens about:downloads page
 quickactions-downloads = Abrir downloads
-quickactions-viewsource = Ver código-fonte
+quickactions-cmd-downloads = downloads
+# Opens the devtools web inspector
 quickactions-inspector = Abrir inspetor
+# Opens about:logins
+quickactions-logins = Ver contas de acesso
+# Opens the print dialog
+quickactions-print = Imprimir
+quickactions-cmd-print = imprimir
+# Opens a new private browsing window
+quickactions-private = Abrir janela de navegação privativa
+quickactions-cmd-private = navegação privativa
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Restaurar o { -brand-short-name }
+quickactions-cmd-refresh = atualizar
+# Restarts the browser
 quickactions-restart = Reiniciar o { -brand-short-name }
+quickactions-cmd-restart = reiniciar
+# Opens the screenshot tool
+quickactions-screenshot2 = Capturar tela
+quickactions-cmd-screenshot = capturar tela
+# Opens about:preferences
+quickactions-settings = Abrir configurações
+quickactions-cmd-settings = configurações, preferências, opções
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Atualizar o { -brand-short-name }
+quickactions-cmd-update = atualizar
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Ver código-fonte
+quickactions-cmd-viewsource = ver fonte, fonte
 
 ## Bookmark Panel
 
@@ -564,6 +598,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Procurar favoritos
 urlbar-result-action-search-history = Pesquisar no histórico
 urlbar-result-action-search-tabs = Pesquisar nas abas
+urlbar-result-action-search-actions = Ações de pesquisa
 
 ## Labels shown above groups of urlbar results
 
@@ -846,3 +881,9 @@ data-reporting-notification-button =
     .accesskey = E
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Navegação privativa
+
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = Extensões
+    .tooltiptext = Extensões
