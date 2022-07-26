@@ -13,8 +13,6 @@ change-password-old = Password corinte:
 change-password-new = Gnove password:
 change-password-reenter = Gnove password (torne a fâ):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -39,6 +37,7 @@ client-auth-window =
     .title = Domande di identificâ utent
 client-auth-site-description = Chest sît al domande che tu ti identifichis cuntune certificât:
 client-auth-choose-cert = Sielç une certificât par presentâ come identificazion:
+client-auth-cert-details = Detais dal certificât selezionât:
 
 ## Set password (p12) dialog
 
