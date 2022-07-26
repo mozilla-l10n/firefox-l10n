@@ -287,10 +287,14 @@ theme-disabled-heading = Devre dışı
 theme-disabled-heading2 = Kayıtlı temalar
 theme-monochromatic-heading = Renk kuşakları
 theme-monochromatic-subheading = { -brand-product-name } tarayıcınızdan yepyeni renk kuşakları. Sadece kısıtlı bir süre için.
+# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Renk kuşaklarını deneyin
+colorway-collection-independent-voices-subheading = { -brand-short-name } kişiliğinizi yansıtsın.
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = Son kullanma tarihi: { DATETIME($expiryDate, month: "long", day: "numeric") }
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Renk kuşağını değiştir
 plugin-enabled-heading = Etkin
 plugin-disabled-heading = Devre dışı
 dictionary-enabled-heading = Etkin
