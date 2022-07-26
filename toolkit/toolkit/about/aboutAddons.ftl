@@ -295,11 +295,14 @@ theme-monochromatic-subheading = Llwybrau lliw newydd bywiog gan { -brand-produc
 # Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Rhowch gynnig ar Colorways
 colorway-collection-independent-voices-subheading = Gwnewch i { -brand-short-name } deimlo ychydig yn fwy perthyn i chi.
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Newid y Llwybr Lliw
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = Yn dod i ben{ DATETIME($expiryDate, month: "long", day: "numeric") }
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Newid y Llwybr Lliw
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+colorway-collection-expiry-label = Yn dod i ben{ DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Galluogwyd
 plugin-disabled-heading = Analluogwyd
 dictionary-enabled-heading = Galluogwyd

@@ -141,6 +141,9 @@ perftools-presets-media-label = Cyfrwng
 perftools-presets-media-description2 = Y rhagosodiad ar gyfer ymchwilio i wallau sain a fideo yn { -brand-shorter-name }.
 perftools-presets-networking-label = Rhwydweithio
 perftools-presets-networking-description = Y rhagosodiad ar gyfer ymchwilio i wallau graffeg yn { -brand-shorter-name }
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Pŵer
+perftools-presets-power-description = Y rhagosodiad ar gyfer ymchwilio i wallau defnydd pŵer yn { -brand-shorter-name }, gyda gorbenion isel.
 perftools-presets-custom-label = Cyfaddas
 
 ##

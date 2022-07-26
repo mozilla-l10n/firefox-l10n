@@ -502,6 +502,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Cartref Firefox (Rhagosodiad)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (Rhagosodedig)
 home-mode-choice-custom =
     .label = URLau Cyfaddas...
 home-mode-choice-blank =
@@ -527,6 +529,8 @@ choose-bookmark =
 
 home-prefs-content-header = Cynnwys Cartref Firefox
 home-prefs-content-description = Dewis pa gynnwys rydych eisiau ar eich sgrin Firefox Cartref.
+home-prefs-content-header2 = { -firefox-home-brand-name } Cynnwys
+home-prefs-content-description2 = Dewiswch pa gynnwys rydych chi ei eisiau ar eich sgrin { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Chwilio'r We
 home-prefs-shortcuts-header =
