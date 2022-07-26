@@ -181,6 +181,7 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = 推荐在排查 { -brand-shorter-name } 联网 Bug 时使用。
 profiler-popup-presets-networking-label =
     .label = 联网
+profiler-popup-presets-power-description = 推荐在排查 { -brand-shorter-name } 耗电 Bug 时使用，开销较少。
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = 功率
