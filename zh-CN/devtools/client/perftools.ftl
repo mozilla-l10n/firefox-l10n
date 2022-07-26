@@ -124,7 +124,7 @@ perftools-onboarding-close-button =
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Web 开发者
-perftools-presets-web-developer-description = 推荐在对大部分 Web 应用程序调试时使用，开销较少。
+perftools-presets-web-developer-description = 推荐在调试大部分 Web 应用程序时使用，开销较少。
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = 推荐在分析 { -brand-shorter-name } 性能时使用。
 perftools-presets-graphics-label = 图形
@@ -135,6 +135,7 @@ perftools-presets-networking-label = 联网
 perftools-presets-networking-description = 推荐在排查 { -brand-shorter-name } 联网 Bug 时使用。
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = 功率
+perftools-presets-power-description = 推荐在排查 { -brand-shorter-name } 耗电 Bug 时使用，开销较少。
 perftools-presets-custom-label = 自定义
 
 ##
