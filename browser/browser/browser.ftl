@@ -262,16 +262,53 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Előzmények törlése
-quickactions-print = Nyomtatás
-quickactions-screenshot = Képernyőkép készítése
-quickactions-settings = Beállítások megnyitása
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Kiegészítők megjelenítése
+quickactions-cmd-addons = kiegészítők, bővítmények, témák
+# Opens the bookmarks library window
+quickactions-bookmarks = Könyvjelzők megtekintése
+quickactions-cmd-bookmarks = könyvjelzők
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Előzmények törlése
+quickactions-cmd-clearhistory = előzmények törlése
+# Opens about:downloads page
 quickactions-downloads = Letöltések megnyitása
-quickactions-viewsource = Forrás megtekintése
+quickactions-cmd-downloads = letöltések
+# Opens the devtools web inspector
 quickactions-inspector = Vizsgáló megnyitása
+quickactions-cmd-inspector = vizsgáló, fejlesztői eszközök
+# Opens about:logins
+quickactions-logins = Bejelentkezések megtekintése
+quickactions-cmd-logins = bejelentkezések, jelszavak
+# Opens the print dialog
+quickactions-print = Nyomtatás
+quickactions-cmd-print = nyomtatás
+# Opens a new private browsing window
+quickactions-private = Privát böngészési ablak megnyitása
+quickactions-cmd-private = privát böngészés
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = A { -brand-short-name } felfrissítése
+quickactions-cmd-refresh = frissítés
+# Restarts the browser
 quickactions-restart = A { -brand-short-name } újraindítása
+quickactions-cmd-restart = újraindítás
+# Opens the screenshot tool
+quickactions-screenshot2 = Képernyőkép készítése
+quickactions-cmd-screenshot = képernyőkép
+# Opens about:preferences
+quickactions-settings = Beállítások megnyitása
+quickactions-cmd-settings = beállítások, lehetőségek, kapcsolók
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = A { -brand-short-name } frissítése
+quickactions-cmd-update = frissítés
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Forrás megtekintése
+quickactions-cmd-viewsource = forrás megtekintése, forrás, forráskód
 
 ## Bookmark Panel
 
@@ -567,6 +604,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Könyvjelzők keresése
 urlbar-result-action-search-history = Előzmények keresése
 urlbar-result-action-search-tabs = Lapok keresése
+urlbar-result-action-search-actions = Keresési műveletek
 
 ## Labels shown above groups of urlbar results
 
@@ -849,3 +887,9 @@ data-reporting-notification-button =
     .accesskey = v
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privát böngészés
+
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = Kiegészítők
+    .tooltiptext = Kiegészítők
