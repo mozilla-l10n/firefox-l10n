@@ -284,18 +284,31 @@ quickactions-inspector = פתיחת המפקח
 quickactions-cmd-inspector = מפקח, inspector, כלי פיתוח, כלי מפתח, devtools
 # Opens about:logins
 quickactions-logins = הצגת כניסות
+quickactions-cmd-logins = כניסות, פרטי התחברות, פרטי גישה, פרטי כניסה, ססמאות, סיסמאות
 # Opens the print dialog
 quickactions-print = הדפסה
+quickactions-cmd-print = הדפסה, הדפס, להדפיס
+# Opens a new private browsing window
+quickactions-private = פתיחת חלון במצב גלישה פרטית
+quickactions-cmd-private = גלישה פרטית, גלישה אנונימית
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = רענון { -brand-short-name }
+quickactions-cmd-refresh = רענון, רענן, לרענן
 # Restarts the browser
 quickactions-restart = הפעלת { -brand-short-name } מחדש
+quickactions-cmd-restart = הפעלה מחדש, הפעל מחדש, להפעיל מחדש
+# Opens the screenshot tool
+quickactions-screenshot2 = צילום מסך
+quickactions-cmd-screenshot = צילום מסך, צלם מסך, לצלם מסך, לצלם את המסך, לקחת צילום מסך
 # Opens about:preferences
 quickactions-settings = פתיחת הגדרות
+quickactions-cmd-settings = הגדרות, העדפות, אפשרויות
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = עדכון { -brand-short-name }
+quickactions-cmd-update = עדכון, עדכן, לעדכן
 # Opens the view-source UI with current pages source
 quickactions-viewsource = הצגת המקור
+quickactions-cmd-viewsource = הצגת קוד מקור, הצג קוד מקור, להציג קוד מקור, קוד מקור, מקור
 
 ## Bookmark Panel
 
@@ -871,3 +884,6 @@ private-browsing-indicator-label = גלישה פרטית
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = הרחבות
+    .tooltiptext = הרחבות
