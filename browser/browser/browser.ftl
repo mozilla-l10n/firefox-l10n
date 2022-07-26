@@ -262,16 +262,53 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Xóa lịch sử
-quickactions-print = In
-quickactions-screenshot = Chụp ảnh màn hình
-quickactions-settings = Mở Cài đặt
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Xem tiện tích
+quickactions-cmd-addons = tiện ích, tiện ích mở rộng, chủ đề
+# Opens the bookmarks library window
+quickactions-bookmarks = Xem dấu trang
+quickactions-cmd-bookmarks = dấu trang
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Xóa lịch sử
+quickactions-cmd-clearhistory = xóa lịch sử
+# Opens about:downloads page
 quickactions-downloads = Mở Tải xuống
-quickactions-viewsource = Xem mã nguồn
+quickactions-cmd-downloads = tải xuống
+# Opens the devtools web inspector
 quickactions-inspector = Mở trình kiểm tra
+quickactions-cmd-inspector = trình kiểm tra, devtools
+# Opens about:logins
+quickactions-logins = Xem thông tin đăng nhập
+quickactions-cmd-logins = đăng nhập, thông tin đăng nhập, mật khẩu
+# Opens the print dialog
+quickactions-print = In
+quickactions-cmd-print = in
+# Opens a new private browsing window
+quickactions-private = Mở cửa sổ duyệt web riêng tư
+quickactions-cmd-private = duyệt web riêng tư
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Làm mới { -brand-short-name }
+quickactions-cmd-refresh = làm mới
+# Restarts the browser
 quickactions-restart = Khởi động lại { -brand-short-name }
+quickactions-cmd-restart = khởi động lại
+# Opens the screenshot tool
+quickactions-screenshot2 = Chụp ảnh màn hình
+quickactions-cmd-screenshot = chụp ảnh màn hình
+# Opens about:preferences
+quickactions-settings = Mở Cài đặt
+quickactions-cmd-settings = cài đặt, tùy chọn, thiết lập
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Cập nhật { -brand-short-name }
+quickactions-cmd-update = cập nhật
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Xem mã nguồn
+quickactions-cmd-viewsource = xem mã nguồn, xem nguồn, nguồn
 
 ## Bookmark Panel
 
@@ -560,6 +597,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Tìm kiếm dấu trang
 urlbar-result-action-search-history = Tìm kiếm lịch sử
 urlbar-result-action-search-tabs = Tìm kiếm thẻ
+urlbar-result-action-search-actions = Tìm kiếm hành động
 
 ## Labels shown above groups of urlbar results
 
@@ -842,3 +880,9 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Duyệt web riêng tư
+
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = Tiện ích mở rộng
+    .tooltiptext = Tiện ích mở rộng
