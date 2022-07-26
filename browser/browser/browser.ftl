@@ -289,17 +289,26 @@ quickactions-cmd-logins = 로그인, 비밀번호
 quickactions-print = 인쇄
 quickactions-cmd-print = 인쇄
 # Opens a new private browsing window
-quickactions-private = 새 사생활 보호 창 열기
+quickactions-private = 사생활 보호 창 열기
+quickactions-cmd-private = 사생활 보호 모드
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } 새로 고침
+quickactions-cmd-refresh = 새로 고침
 # Restarts the browser
 quickactions-restart = { -brand-short-name } 다시 시작
+quickactions-cmd-restart = 다시 시작
+# Opens the screenshot tool
+quickactions-screenshot2 = 스크린샷 찍기
+quickactions-cmd-screenshot = 스크린샷
 # Opens about:preferences
 quickactions-settings = 설정 열기
+quickactions-cmd-settings = 설정, 설정, 옵션
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } 업데이트
+quickactions-cmd-update = 업데이트
 # Opens the view-source UI with current pages source
 quickactions-viewsource = 소스 보기
+quickactions-cmd-viewsource = 소스 보기, 소스
 
 ## Bookmark Panel
 
