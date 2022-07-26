@@ -12,7 +12,9 @@ colorway-collection-independent-voices-short-description = 色彩之魅，文化
 ## Colorway names and descriptions
 
 playmaker-colorway-name = 实力派
+playmaker-colorway-description = 您是做事成功的关键，并能够帮助周围的人一同提升。
 expressionist-colorway-name = 表现派
+expressionist-colorway-description = 您以不同的方式看待世界，并善用创作引起他人的情感共鸣。
 visionary-colorway-name = 远见派
 activist-colorway-name = 行动派
 dreamer-colorway-name = 理想派
