@@ -13,8 +13,11 @@ colorway-collection-independent-voices-short-description = Barby, kotrež kultur
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Wodźacy hrajer
+playmaker-colorway-description = Wutworiće składnosce, zo byšće dobył a kóždemu wokoło was pomhał, jich hru polěpšić.
 expressionist-colorway-name = Ekspresionist
+expressionist-colorway-description = Widźiće swět hinak a waše dźěła začuća druhich wodźa.
 visionary-colorway-name = Wizionar
+visionary-colorway-description = Stajeće status quo do prašenja a pohnuwaće druhich, sej lěpši přichod předstajić.
 activist-colorway-name = Aktiwist
 dreamer-colorway-name = Sonjer
 innovator-colorway-name = Inowator
