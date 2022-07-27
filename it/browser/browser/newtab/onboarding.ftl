@@ -41,6 +41,9 @@ return-to-amo-add-theme-label = Aggiungi il tema
 onboarding-welcome-steps-indicator =
     .aria-label = Come iniziare: schermata { $current } di { $total }
 
+onboarding-welcome-steps-indicator2 =
+  .aria-valuetext = Avanzamento: passo { $current } di { $total }
+
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
