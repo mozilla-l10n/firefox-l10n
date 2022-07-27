@@ -269,46 +269,46 @@ search-one-offs-actions =
 
 # Opens the about:addons page
 quickactions-addons = Xem tiện tích
-quickactions-cmd-addons = tiện ích, tiện ích mở rộng, chủ đề
+quickactions-cmd-addons = tiện ích, tiện ích mở rộng, chủ đề, tien ich, tien ich mo rong, chu de
 # Opens the bookmarks library window
 quickactions-bookmarks = Xem dấu trang
-quickactions-cmd-bookmarks = dấu trang
+quickactions-cmd-bookmarks = dấu trang, dau trang
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Xóa lịch sử
-quickactions-cmd-clearhistory = xóa lịch sử
+quickactions-cmd-clearhistory = xóa lịch sử, xoa lich su
 # Opens about:downloads page
 quickactions-downloads = Mở Tải xuống
-quickactions-cmd-downloads = tải xuống
+quickactions-cmd-downloads = tải xuống, tai xuong
 # Opens the devtools web inspector
 quickactions-inspector = Mở trình kiểm tra
-quickactions-cmd-inspector = trình kiểm tra, devtools
+quickactions-cmd-inspector = trình kiểm tra, devtools, trinh kiem tra
 # Opens about:logins
 quickactions-logins = Xem thông tin đăng nhập
-quickactions-cmd-logins = đăng nhập, thông tin đăng nhập, mật khẩu
+quickactions-cmd-logins = đăng nhập, thông tin đăng nhập, mật khẩu, dang nhap, thong tin dang nhap, mat khau
 # Opens the print dialog
 quickactions-print = In
 quickactions-cmd-print = in
 # Opens a new private browsing window
 quickactions-private = Mở cửa sổ duyệt web riêng tư
-quickactions-cmd-private = duyệt web riêng tư
+quickactions-cmd-private = duyệt web riêng tư, duyet web rieng tu
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Làm mới { -brand-short-name }
-quickactions-cmd-refresh = làm mới
+quickactions-cmd-refresh = làm mới, lam moi
 # Restarts the browser
 quickactions-restart = Khởi động lại { -brand-short-name }
-quickactions-cmd-restart = khởi động lại
+quickactions-cmd-restart = khởi động lại, khoi dong lai
 # Opens the screenshot tool
 quickactions-screenshot2 = Chụp ảnh màn hình
-quickactions-cmd-screenshot = chụp ảnh màn hình
+quickactions-cmd-screenshot = chụp ảnh màn hình, chup anh man hinh
 # Opens about:preferences
 quickactions-settings = Mở Cài đặt
-quickactions-cmd-settings = cài đặt, tùy chọn, thiết lập
+quickactions-cmd-settings = cài đặt, tùy chọn, thiết lập, cai dat, tuy chon, thiet lap
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Cập nhật { -brand-short-name }
-quickactions-cmd-update = cập nhật
+quickactions-cmd-update = cập nhật, cap nhat
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Xem mã nguồn
-quickactions-cmd-viewsource = xem mã nguồn, xem nguồn, nguồn
+quickactions-cmd-viewsource = xem mã nguồn, xem nguồn, nguồn, xem ma nguon, xem nguon, nguon
 
 ## Bookmark Panel
 
