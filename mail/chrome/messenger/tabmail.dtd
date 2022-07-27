@@ -6,4 +6,4 @@
 <!ENTITY  listAllTabs.label        "Wšě rajtarki pokazać">
 <!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
      title to show when the tab has no title. -->
-<!ENTITY  defaultTabTitle.label    "Doma">
+<!ENTITY  defaultTabTitle.label    "Startowa strona">
