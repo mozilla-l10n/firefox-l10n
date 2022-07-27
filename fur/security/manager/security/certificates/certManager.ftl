@@ -165,6 +165,7 @@ add-exception-valid-long = Il sît web al da une identificazion valide e verific
 add-exception-checking-short = Control des informazions
 add-exception-checking-long = Tentatîf di identificazion di chest sît…
 add-exception-no-cert-short = No je nissune informazion disponibile
+add-exception-no-cert-long = Impussibil otignî il stât de identificazion par chest sît.
 
 ## Certificate export "Save as" and error dialogs
 
