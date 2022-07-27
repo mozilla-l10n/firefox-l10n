@@ -127,6 +127,7 @@ delete-ssl-override-impact = Se tu eliminis une ecezion par un servidôr, tu tor
 delete-ca-cert-title =
     .title = Elimine o considere inatendibii i certificâts CA
 delete-ca-cert-confirm = Tu âs domandât di eliminâ chescj certificâts CA. Pai certificâts integrâts e vignarà gjavade dute la atendibilitât, cussì si varà il stes risultât di une rimozion complete. Continuâ pardabon?
+delete-ca-cert-impact = Se tu eliminis o tu consideris inatendibil un certificât di autoritât di certificazion (CA), cheste aplicazion no considerarà atendibil nissun certificât emetût di chê CA.
 delete-email-cert-title =
     .title = Elimine certificâts di pueste eletroniche
 delete-email-cert-confirm = Vuelistu eliminâ pardabon chescj certificâts di pueste eletroniche di chestis personis?
@@ -146,18 +147,23 @@ certificate-not-available = (No disponibil)
 
 ## Used to show whether an override is temporary or permanent
 
+permanent-override = Permanent
+temporary-override = Provisori
 
 ## Add Security Exception dialog
 
 add-exception-branded-warning = Tu stâs par sorplantâ cemût che { -brand-short-name } al identifiche chest sît.
 add-exception-invalid-header = Chest sît al cîr di identificâsi cuntune informazion che no je valide.
 add-exception-domain-mismatch-short = Sît falât
+add-exception-domain-mismatch-long = Il certificât al aparten a un altri sît, al podarès tratâsi di un tentatîf par sostituîsi al sît origjinâl.
 add-exception-expired-short = Informazions no inzornadis
+add-exception-expired-long = Il certificât nol è plui valit. Al è pussibil che al sedi stât robât o pierdût e che al sedi doprât tal tentatîf di sostituîsi al sît origjinâl.
 add-exception-unverified-or-bad-signature-short = Identitât no cognossude
 add-exception-unverified-or-bad-signature-long = Nol è di fidâsi dal certificât, stant che no lu à verificât nissune autoritât ricognossude.
 add-exception-valid-short = Certificât valit
 add-exception-valid-long = Il sît web al da une identificazion valide e verificade. Nol covente zontâ nissune ecezion.
 add-exception-checking-short = Control des informazions
+add-exception-checking-long = Tentatîf di identificazion di chest sît…
 add-exception-no-cert-short = No je nissune informazion disponibile
 
 ## Certificate export "Save as" and error dialogs
