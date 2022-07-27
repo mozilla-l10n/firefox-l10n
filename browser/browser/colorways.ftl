@@ -19,5 +19,6 @@ expressionist-colorway-description = Widźiće swět hinak a waše dźěła zač
 visionary-colorway-name = Wizionar
 visionary-colorway-description = Stajeće status quo do prašenja a pohnuwaće druhich, sej lěpši přichod předstajić.
 activist-colorway-name = Aktiwist
+activist-colorway-description = Zawostajeće swět jako lěpše městno, hač sće jón namakał a wjedźeće druhich k wěrje.
 dreamer-colorway-name = Sonjer
 innovator-colorway-name = Inowator
