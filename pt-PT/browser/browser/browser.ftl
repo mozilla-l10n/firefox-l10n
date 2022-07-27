@@ -262,16 +262,31 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Limpar histórico
-quickactions-print = Imprimir
-quickactions-screenshot = Tirar uma captura de ecrã
-quickactions-settings = Abrir Definições
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Ver Extras
+quickactions-cmd-clearhistory = limpar histórico
+# Opens about:downloads page
 quickactions-downloads = Abrir transferências
-quickactions-viewsource = Ver fonte
+quickactions-cmd-downloads = transferências
+# Opens the devtools web inspector
 quickactions-inspector = Abrir Inspetor
+# Opens the print dialog
+quickactions-print = Imprimir
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Renovar o { -brand-short-name }
+# Restarts the browser
 quickactions-restart = Reiniciar o { -brand-short-name }
+# Opens about:preferences
+quickactions-settings = Abrir Definições
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Atualizar o { -brand-short-name }
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Ver fonte
 
 ## Bookmark Panel
 
@@ -849,3 +864,6 @@ data-reporting-notification-button =
     .accesskey = E
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Navegação privada
+
+## Unified extensions (toolbar) button
+
