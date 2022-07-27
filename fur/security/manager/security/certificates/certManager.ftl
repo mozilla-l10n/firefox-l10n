@@ -56,6 +56,9 @@ certmgr-export =
 certmgr-delete =
     .label = Elimine…
     .accesskey = l
+certmgr-delete-builtin =
+    .label = Elimine o considere inatendibil…
+    .accesskey = d
 certmgr-backup =
     .label = Fâs une copie di sigurece…
     .accesskey = s
@@ -70,6 +73,9 @@ certmgr-add-exception =
     .accesskey = Z
 exception-mgr =
     .title = Zonte ecezion di sigurece
+exception-mgr-extra-button =
+    .label = Conferme ecezion di sigurece
+    .accesskey = C
 exception-mgr-supplemental-warning = Bancjis, negozis, e altris sîts publics legjitims no ti domandaràn di fâ cussì.
 exception-mgr-cert-location-url =
     .value = Direzion:
@@ -94,6 +100,7 @@ pkcs12-dup-data = Il certificât e la clâf privade a esistin za intal disposit�
 
 choose-p12-backup-file-dialog = Non dal file di salvâ
 file-browse-pkcs12-spec = Files PKCS12
+choose-p12-restore-file-dialog = File di certificât di impuartâ
 
 ## Import certificate(s) file dialog
 
@@ -113,10 +120,29 @@ delete-user-cert-title =
     .title = Elimine i tiei certificâts
 delete-user-cert-confirm = Vuelistu eliminâ pardabon chescj certificâts?
 delete-user-cert-impact = Se tu eliminis un dai tiei certificâts, no tu podarâs plui doprâlu par identificâti.
+delete-ssl-override-title =
+    .title = Elimine ecezion di certificâts dal servidôr
+delete-ssl-override-confirm = Eliminâ pardabon cheste ecezion di servidôr?
+delete-ssl-override-impact = Se tu eliminis une ecezion par un servidôr, tu tornarâs a meti in vore i controi di sigurece normâi par chest servidôr e al varà di doprâ un certificât valit.
+delete-ca-cert-title =
+    .title = Elimine o considere inatendibii i certificâts CA
+delete-ca-cert-confirm = Tu âs domandât di eliminâ chescj certificâts CA. Pai certificâts integrâts e vignarà gjavade dute la atendibilitât, cussì si varà il stes risultât di une rimozion complete. Continuâ pardabon?
 delete-email-cert-title =
     .title = Elimine certificâts di pueste eletroniche
 delete-email-cert-confirm = Vuelistu eliminâ pardabon chescj certificâts di pueste eletroniche di chestis personis?
 delete-email-cert-impact = Se tu eliminis il certificât di pueste eletroniche di une persone, no tu podarâs plui mandâi messaçs cifrâts.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certificât cun numar seriâl: { $serialNumber }
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = No sta inviâ nissun certificât client
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (No memorizât)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (No disponibil)
 
 ## Used to show whether an override is temporary or permanent
 
