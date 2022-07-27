@@ -268,28 +268,28 @@ search-one-offs-actions =
 ## the action.
 
 # Opens the about:addons page
-quickactions-addons = 부가 기능 보기
+quickactions-addons = 부가 기능
 quickactions-cmd-addons = 부가 기능, 확장 기능, 테마
 # Opens the bookmarks library window
-quickactions-bookmarks = 북마크 보기
+quickactions-bookmarks = 북마크
 quickactions-cmd-bookmarks = 북마크
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = 기록 지우기
 quickactions-cmd-clearhistory = 기록 지우기
 # Opens about:downloads page
-quickactions-downloads = 다운로드 열기
+quickactions-downloads = 다운로드
 quickactions-cmd-downloads = 다운로드
 # Opens the devtools web inspector
-quickactions-inspector = 검사기 열기
+quickactions-inspector = 검사기
 quickactions-cmd-inspector = 검사기, devtools
 # Opens about:logins
-quickactions-logins = 로그인 보기
+quickactions-logins = 로그인
 quickactions-cmd-logins = 로그인, 비밀번호
 # Opens the print dialog
 quickactions-print = 인쇄
 quickactions-cmd-print = 인쇄
 # Opens a new private browsing window
-quickactions-private = 사생활 보호 창 열기
+quickactions-private = 사생활 보호 창
 quickactions-cmd-private = 사생활 보호 모드
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } 새로 고침
@@ -301,13 +301,13 @@ quickactions-cmd-restart = 다시 시작
 quickactions-screenshot2 = 스크린샷 찍기
 quickactions-cmd-screenshot = 스크린샷
 # Opens about:preferences
-quickactions-settings = 설정 열기
+quickactions-settings = 설정
 quickactions-cmd-settings = 설정, 설정, 옵션
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } 업데이트
 quickactions-cmd-update = 업데이트
 # Opens the view-source UI with current pages source
-quickactions-viewsource = 소스 보기
+quickactions-viewsource = 소스
 quickactions-cmd-viewsource = 소스 보기, 소스
 
 ## Bookmark Panel
