@@ -262,16 +262,53 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Geschiedenis wissen
-quickactions-print = Afdrukken
-quickactions-screenshot = Een schermafbeelding maken
-quickactions-settings = Instellingen openen
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Add-ons bekijken
+quickactions-cmd-addons = add-ons, extensies, thema’s
+# Opens the bookmarks library window
+quickactions-bookmarks = Bladwijzers bekijken
+quickactions-cmd-bookmarks = bladwijzers
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Geschiedenis wissen
+quickactions-cmd-clearhistory = geschiedenis wissen
+# Opens about:downloads page
 quickactions-downloads = Downloads openen
-quickactions-viewsource = Bron bekijken
+quickactions-cmd-downloads = downloads
+# Opens the devtools web inspector
 quickactions-inspector = Inspector openen
+quickactions-cmd-inspector = inspector, devtools
+# Opens about:logins
+quickactions-logins = Aanmeldingen weergeven
+quickactions-cmd-logins = aanmeldingen, wachtwoorden
+# Opens the print dialog
+quickactions-print = Afdrukken
+quickactions-cmd-print = afdrukken
+# Opens a new private browsing window
+quickactions-private = Privénavigatievenster openen
+quickactions-cmd-private = privénavigatie
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } opfrissen
+quickactions-cmd-refresh = vernieuwen
+# Restarts the browser
 quickactions-restart = { -brand-short-name } herstarten
+quickactions-cmd-restart = herstarten
+# Opens the screenshot tool
+quickactions-screenshot2 = Een schermafbeelding maken
+quickactions-cmd-screenshot = schermafbeelding
+# Opens about:preferences
+quickactions-settings = Instellingen openen
+quickactions-cmd-settings = instellingen, voorkeuren, opties
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } bijwerken
+quickactions-cmd-update = bijwerken
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Bron bekijken
+quickactions-cmd-viewsource = bron bekijken, bron
 
 ## Bookmark Panel
 
@@ -567,6 +604,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Bladwijzers doorzoeken
 urlbar-result-action-search-history = Geschiedenis doorzoeken
 urlbar-result-action-search-tabs = Tabbladen doorzoeken
+urlbar-result-action-search-actions = Zoekacties
 
 ## Labels shown above groups of urlbar results
 
@@ -849,3 +887,9 @@ data-reporting-notification-button =
     .accesskey = K
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privénavigatie
+
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = Extensies
+    .tooltiptext = Extensies
