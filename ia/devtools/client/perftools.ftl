@@ -142,6 +142,7 @@ perftools-presets-networking-label = Rete
 perftools-presets-networking-description = Pre-configuration pro investigar errores de rete in { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energia
+perftools-presets-power-description = Pre-configuration pro investigar errores in le uso del energia in { -brand-shorter-name }, con basse supercarga.
 perftools-presets-custom-label = Personalisate
 
 ##
