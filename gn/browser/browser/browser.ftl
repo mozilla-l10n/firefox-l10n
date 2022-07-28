@@ -282,8 +282,12 @@ quickactions-cmd-downloads = ñemboguejy
 # Opens the devtools web inspector
 quickactions-inspector = Embojuruja Mbohekoha
 quickactions-cmd-inspector = moambuekuaaha, ñemboguata rembipuru
+# Opens about:logins
+quickactions-logins = Ehecha tembiapo ñepyrũ
+quickactions-cmd-logins = tembiapo ñepyrũ, ñe’ẽñemi
 # Opens the print dialog
 quickactions-print = Mbokuatia
+quickactions-cmd-print = Mbokuatia
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Eguerujey { -brand-short-name }
 # Restarts the browser
