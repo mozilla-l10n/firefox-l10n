@@ -12,6 +12,7 @@ colorway-intensity-balanced = Balanceado
 # emphasized text.
 colorway-intensity-bold = Fuerte
 colorway-closet-cancel-button = Cancelar
+colorway-homepage-reset-prompt = Hacer de { -firefox-home-brand-name } una entrada colorida
 colorway-homepage-reset-success-message = { -firefox-home-brand-name } es ahora su página de inicio
 colorway-homepage-reset-apply-button = Aplicar
 colorway-homepage-reset-undo-button = Deshacer
