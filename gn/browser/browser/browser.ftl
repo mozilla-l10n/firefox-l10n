@@ -262,16 +262,38 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Embogue tembiasakue
-quickactions-print = Mbokuatia
-quickactions-screenshot = Ejapo mba’erechaha jejapyhy
-quickactions-settings = Embojuruja ñemboheko
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Ehecha Moĩmbaha
+quickactions-cmd-addons = moĩmbaha, jepysokue, téma
+# Opens the bookmarks library window
+quickactions-bookmarks = Ehecha Techaukaha
+quickactions-cmd-bookmarks = techaukaha
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Embogue Tembiasakue
+quickactions-cmd-clearhistory = embogue tembiasakue
+# Opens about:downloads page
 quickactions-downloads = Embojuruja ñemboguejy
-quickactions-viewsource = Ehecha ayvu reñoiha
+quickactions-cmd-downloads = ñemboguejy
+# Opens the devtools web inspector
 quickactions-inspector = Embojuruja Mbohekoha
+quickactions-cmd-inspector = moambuekuaaha, ñemboguata rembipuru
+# Opens the print dialog
+quickactions-print = Mbokuatia
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Eguerujey { -brand-short-name }
+# Restarts the browser
 quickactions-restart = Emoñepyrũjey { -brand-short-name }
+# Opens about:preferences
+quickactions-settings = Embojuruja ñemboheko
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Embohekopyahu { -brand-short-name }
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Ehecha ayvu reñoiha
 
 ## Bookmark Panel
 
@@ -849,3 +871,6 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Kundaha ñemigua
+
+## Unified extensions (toolbar) button
+
