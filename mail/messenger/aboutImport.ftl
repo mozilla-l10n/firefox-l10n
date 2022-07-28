@@ -7,11 +7,13 @@ export-page-title = Eksporter
 
 ## Header
 
+import-from-app = Importer frå applikasjon
+import-file = Importer frå ei fil
+import-file-title = Vel ei fil for[ importere innhaldet.
 export-profile = Eksporter
 
 ## Buttons
 
-button-cancel = Avbryt
 button-back = Tilbake
 button-continue = Fortset
 button-finish = Fullfør
@@ -23,31 +25,28 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
-# Variables:
-#   $app (String) - The name of the app to import from
-profiles-pane-title = Importer frå { $app }
-items-pane-source = Kjeldeplassering:
 
 ## Import from file selections
 
 
 ## Import from app profile steps
 
+items-pane-profile-name = Profilnamn:
+items-pane-checkbox-accounts = Konto og innstillingar
 items-pane-checkbox-address-books = Adressebøker
 items-pane-checkbox-calendars = Kalendrar
 items-pane-checkbox-mail-messages = E-postmeldingar
 
 ## Import from address book file steps
 
-
-## Import from address book file steps
-
+addr-book-directories-pane-source = Kjeldefil:
 
 ## Import from calendar file steps
 
 
 ## Import dialog
 
+progress-pane-finished-desc2 = Fullført
 error-pane-title = Feil
 
 ## <csv-field-map> element
@@ -55,9 +54,13 @@ error-pane-title = Feil
 
 ## Export tab
 
+export-open-profile-folder = Opne profilmappe
 
 ## Summary pane
 
 
 ## Footer area
+
+
+## Step navigation on top of the wizard pages
 
