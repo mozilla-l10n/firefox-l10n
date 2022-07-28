@@ -290,13 +290,16 @@ extension-disabled-heading = Deaktiviert
 theme-enabled-heading = Aktiviert
 theme-disabled-heading = Deaktiviert
 theme-disabled-heading2 = Gespeicherte Themes
-theme-monochromatic-heading = Farbgebungen
-theme-monochromatic-subheading = Lebendige, neue Farbgebungen von { -brand-product-name }. Verfügbar für eine begrenzte Zeit.
-theme-colorways-button = Farbgebungen ausprobieren
+theme-monochromatic-heading = Farbwelten
+theme-monochromatic-subheading = Lebendige, neue Farbwelten von { -brand-product-name }. Verfügbar für eine begrenzte Zeit.
+# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
+theme-colorways-button = Farbwelten ausprobieren
 colorway-collection-independent-voices-subheading = Machen Sie { -brand-short-name } etwas persönlicher.
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = Läuft am { DATETIME($expiryDate, month: "long", day: "numeric") } ab
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Farbwelt ändern
 plugin-enabled-heading = Aktiviert
 plugin-disabled-heading = Deaktiviert
 dictionary-enabled-heading = Aktiviert
