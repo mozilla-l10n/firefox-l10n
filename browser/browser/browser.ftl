@@ -262,16 +262,53 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Rensa historik
-quickactions-print = Skriv ut
-quickactions-screenshot = Ta en skärmdump
-quickactions-settings = Öppna inställningar
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Visa tillägg
+quickactions-cmd-addons = tillägg, teman
+# Opens the bookmarks library window
+quickactions-bookmarks = Visa bokmärken
+quickactions-cmd-bookmarks = bokmärken
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Rensa historik
+quickactions-cmd-clearhistory = rensa historik
+# Opens about:downloads page
 quickactions-downloads = Öppna hämtningar
-quickactions-viewsource = Visa källa
+quickactions-cmd-downloads = hämtningar
+# Opens the devtools web inspector
 quickactions-inspector = Öppna inspektör
+quickactions-cmd-inspector = inspektör, utvecklarverktyg
+# Opens about:logins
+quickactions-logins = Visa inloggningar
+quickactions-cmd-logins = inloggningar, lösenord
+# Opens the print dialog
+quickactions-print = Skriv ut
+quickactions-cmd-print = skriva ut
+# Opens a new private browsing window
+quickactions-private = Öppna fönstret för privat surfning
+quickactions-cmd-private = privat surfning
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Återställ { -brand-short-name }
+quickactions-cmd-refresh = uppdatera
+# Restarts the browser
 quickactions-restart = Starta om { -brand-short-name }
+quickactions-cmd-restart = omstart
+# Opens the screenshot tool
+quickactions-screenshot2 = Ta en skärmbild
+quickactions-cmd-screenshot = skärmbild
+# Opens about:preferences
+quickactions-settings = Öppna inställningar
+quickactions-cmd-settings = inställningar, alternativ
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Uppdatera { -brand-short-name }
+quickactions-cmd-update = uppdatera
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Visa källa
+quickactions-cmd-viewsource = visa källa, källa
 
 ## Bookmark Panel
 
@@ -564,6 +601,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Sök i bokmärken
 urlbar-result-action-search-history = Sök i historik
 urlbar-result-action-search-tabs = Sök i flikar
+urlbar-result-action-search-actions = Sökåtgärder
 
 ## Labels shown above groups of urlbar results
 
@@ -846,3 +884,9 @@ data-reporting-notification-button =
     .accesskey = V
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privat surfning
+
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = Tillägg
+    .tooltiptext = Tillägg
