@@ -292,6 +292,10 @@ quickactions-cmd-print = Mbokuatia
 quickactions-refresh = Eguerujey { -brand-short-name }
 # Restarts the browser
 quickactions-restart = Emoñepyrũjey { -brand-short-name }
+quickactions-cmd-restart = Moñepyrũjey
+# Opens the screenshot tool
+quickactions-screenshot2 = Ejapo mba’erechaha japyhypy
+quickactions-cmd-screenshot = Ta’ãnga japyhy
 # Opens about:preferences
 quickactions-settings = Embojuruja ñemboheko
 # Opens a SUMO article explaining how to update the browser
