@@ -158,6 +158,7 @@ media-device-channels = Kanalar
 media-device-rate = Fart
 media-device-latency = Forseinking
 media-capabilities-title = Mediefunksjonar
+media-codec-support-info = Kodekstøtteinformasjon
 # List all the entries of the database.
 media-capabilities-enumerate = Telje opp databasen
 
