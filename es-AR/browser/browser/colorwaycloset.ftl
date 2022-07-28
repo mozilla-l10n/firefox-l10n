@@ -11,6 +11,8 @@ colorway-intensity-balanced = Balanceado
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 colorway-intensity-bold = Fuerte
+# Label for the button to keep using the selected colorway in the browser
+colorway-closet-set-colorway-button = Establecer combinación de colores
 colorway-closet-cancel-button = Cancelar
 colorway-homepage-reset-prompt = Hacer de { -firefox-home-brand-name } una entrada colorida
 colorway-homepage-reset-success-message = { -firefox-home-brand-name } es ahora su página de inicio
