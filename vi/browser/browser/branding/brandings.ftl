@@ -31,7 +31,7 @@
 -focus-brand-name = Firefox Focus
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
--firefox-suggest-brand-name = Firefox đề xuất
+-firefox-suggest-brand-name = Đề xuất của Firefox
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-home-brand-name = Trang chủ Firefox
