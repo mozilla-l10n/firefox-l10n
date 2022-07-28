@@ -270,6 +270,8 @@ search-one-offs-actions =
 # Opens the about:addons page
 quickactions-addons = Vider le additivos
 quickactions-cmd-addons = additivos, extensiones, themas
+# Opens the bookmarks library window
+quickactions-bookmarks = Vider marcapaginas
 quickactions-cmd-bookmarks = marcapaginas
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Vacuar le chronologia
