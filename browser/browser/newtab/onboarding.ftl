@@ -101,8 +101,8 @@ mr1-onboarding-import-primary-button-label-attribution = Aus { $previous } impor
 mr1-onboarding-import-primary-button-label-no-attribution = Aus vorherigem Browser importieren
 mr1-onboarding-import-secondary-button-label = Nicht jetzt
 mr2-onboarding-colorway-header = Leben in Farbe
-mr2-onboarding-colorway-subtitle = Lebendige neue Farbgebungen. Verfügbar für eine begrenzte Zeit.
-mr2-onboarding-colorway-primary-button-label = Farbgebung speichern
+mr2-onboarding-colorway-subtitle = Lebendige neue Farbwelten. Verfügbar für eine begrenzte Zeit.
+mr2-onboarding-colorway-primary-button-label = Farbwelt speichern
 mr2-onboarding-colorway-secondary-button-label = Nicht jetzt
 mr2-onboarding-colorway-label-soft = Weich
 mr2-onboarding-colorway-label-balanced = Ausgewogen
@@ -173,20 +173,20 @@ mr1-onboarding-theme-description-alpenglow =
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
-    .title = Diese Farbgebung verwenden.
+    .title = Diese Farbwelt verwenden.
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
-    .aria-description = Diese Farbgebung verwenden.
+    .aria-description = Diese Farbwelt verwenden.
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
-    .title = { $colorwayName }-Farbgebungen erkunden
+    .title = { $colorwayName }-Farbwelten erkunden
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-label = { $colorwayName }-Farbgebungen erkunden
+mr2-onboarding-colorway-label = { $colorwayName }-Farbwelten erkunden
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Standard-Themes erkunden
