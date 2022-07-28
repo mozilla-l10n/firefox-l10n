@@ -140,6 +140,9 @@ perftools-presets-media-label = Media
 perftools-presets-media-description2 = Förinställd för att undersöka ljud- och videobuggar i { -brand-shorter-name }.
 perftools-presets-networking-label = Nätverk
 perftools-presets-networking-description = Förinställd för att undersöka ljud- och videobuggar i { -brand-shorter-name }.
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Energi
+perftools-presets-power-description = Förinställd för att undersöka buggar för energianvändning i { -brand-shorter-name }, med låg omkostnad.
 perftools-presets-custom-label = Anpassad
 
 ##

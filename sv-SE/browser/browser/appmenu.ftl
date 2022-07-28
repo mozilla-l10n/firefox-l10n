@@ -184,7 +184,7 @@ profiler-popup-presets-networking-label =
 profiler-popup-presets-power-description = Förinställd för att undersöka buggar för energianvändning i { -brand-shorter-name }, med låg omkostnad.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
-    .label = Ström
+    .label = Energi
 profiler-popup-presets-custom-label =
     .label = Anpassad
 

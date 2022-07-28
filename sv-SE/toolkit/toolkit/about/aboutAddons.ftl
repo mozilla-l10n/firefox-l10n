@@ -291,11 +291,14 @@ theme-monochromatic-subheading = Levande nya colorways från { -brand-product-na
 # Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Prova Colorways
 colorway-collection-independent-voices-subheading = Gör { -brand-short-name } lite mer personlig.
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Ändra Colorway
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = Upphör { DATETIME($expiryDate, month: "long", day: "numeric") }
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Ändra Colorway
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+colorway-collection-expiry-label = Upphör { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Aktiverad
 plugin-disabled-heading = Inaktiverad
 dictionary-enabled-heading = Aktiverad
