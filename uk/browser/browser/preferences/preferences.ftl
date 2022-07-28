@@ -493,6 +493,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Домівка Firefox (Типово)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (Типово)
 home-mode-choice-custom =
     .label = Власні URL-адреси…
 home-mode-choice-blank =
@@ -518,6 +520,7 @@ choose-bookmark =
 
 home-prefs-content-header = Домівка Firefox
 home-prefs-content-description = Оберіть бажаний вміст для показу в домівці Firefox.
+home-prefs-content-header2 = Вміст { -firefox-home-brand-name(case: "gen", capitalization: "lower") }
 home-prefs-search-header =
     .label = Пошук в Інтернеті
 home-prefs-shortcuts-header =

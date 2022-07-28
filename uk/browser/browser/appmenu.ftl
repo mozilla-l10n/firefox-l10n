@@ -181,6 +181,10 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = Налаштування для виявлення помилок мережі в { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Мережа
+profiler-popup-presets-power-description = Конфігурація для виявлення помилок використання потужності { -brand-shorter-name } із низьким накладанням.
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = Потужність
 profiler-popup-presets-custom-label =
     .label = Власний
 

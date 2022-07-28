@@ -262,16 +262,53 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Стерти історію
-quickactions-print = Друкувати
-quickactions-screenshot = Зробити знімок екрана
-quickactions-settings = Відкрити налаштування
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Переглянути додатки
+quickactions-cmd-addons = додатки, розширення, теми
+# Opens the bookmarks library window
+quickactions-bookmarks = Переглянути закладки
+quickactions-cmd-bookmarks = закладки
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Стерти історію
+quickactions-cmd-clearhistory = стерти історію
+# Opens about:downloads page
 quickactions-downloads = Відкрити завантаження
-quickactions-viewsource = Переглянути джерело
+quickactions-cmd-downloads = завантаження
+# Opens the devtools web inspector
 quickactions-inspector = Відкрити інспектор
+quickactions-cmd-inspector = інспектор, інструменти розробника
+# Opens about:logins
+quickactions-logins = Переглянути паролі
+quickactions-cmd-logins = входи, паролі
+# Opens the print dialog
+quickactions-print = Друкувати
+quickactions-cmd-print = друк
+# Opens a new private browsing window
+quickactions-private = Відкрити вікно приватного перегляду
+quickactions-cmd-private = приватний перегляд
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Оновити { -brand-short-name }
+quickactions-cmd-refresh = оновити
+# Restarts the browser
 quickactions-restart = Перезапустити { -brand-short-name }
+quickactions-cmd-restart = перезапустити
+# Opens the screenshot tool
+quickactions-screenshot2 = Зробити знімок екрана
+quickactions-cmd-screenshot = знімок екрана
+# Opens about:preferences
+quickactions-settings = Відкрити налаштування
+quickactions-cmd-settings = налаштування, уподобання, параметри
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Оновити { -brand-short-name }
+quickactions-cmd-update = оновити
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Переглянути джерело
+quickactions-cmd-viewsource = переглянути джерело, джерело
 
 ## Bookmark Panel
 
@@ -568,6 +605,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Шукати в закладках
 urlbar-result-action-search-history = Шукати в історії
 urlbar-result-action-search-tabs = Шукати у вкладках
+urlbar-result-action-search-actions = Дії з пошуком
 
 ## Labels shown above groups of urlbar results
 
@@ -850,3 +888,9 @@ data-reporting-notification-button =
     .accesskey = В
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Приватний перегляд
+
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = Розширення
+    .tooltiptext = Розширення
