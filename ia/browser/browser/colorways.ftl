@@ -12,3 +12,7 @@ colorway-collection-independent-voices-short-description = Colores que cambia le
 
 ## Colorway names and descriptions
 
+expressionist-colorway-name = Expressionista
+activist-colorway-name = Activista
+dreamer-colorway-name = Soniante
+innovator-colorway-name = Innovator
