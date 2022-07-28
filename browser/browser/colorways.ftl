@@ -12,6 +12,7 @@ colorway-collection-independent-voices-short-description = Colores que cambian l
 
 ## Colorway names and descriptions
 
+playmaker-colorway-name = Creador de jugadas
 playmaker-colorway-description = Crea oportunidades para ganar y ayuda a todos los que lo rodean a mejorar su juego.
 expressionist-colorway-name = Expresionista
 expressionist-colorway-description = Ve al mundo de manera diferente y sus creaciones despiertan las emociones de los demás.
