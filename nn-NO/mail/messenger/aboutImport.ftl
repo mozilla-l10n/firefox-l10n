@@ -55,12 +55,18 @@ error-pane-title = Feil
 ## Export tab
 
 export-open-profile-folder = Opne profilmappe
+export-file-picker2 = Eksporter til ei zip-fil
+export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-title = Data som skal importerast
+summary-pane-start = Start Import
 
 ## Footer area
 
+footer-help = Treng du hjelp?
 
 ## Step navigation on top of the wizard pages
 
+step-confirm = Stadfest

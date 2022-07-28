@@ -8,6 +8,7 @@ calendars-table-name = Namn
 calendars-table-type = Type
 calendars-table-disabled = Avslått
 calendars-table-username = Brukarnamn
+calendars-table-uri = URI
 calendars-table-readonly = Skriveverna
 calendars-table-imip-identity = iMIP-identitet
 calendars-table-imip-identity-account = iMIP-konto
