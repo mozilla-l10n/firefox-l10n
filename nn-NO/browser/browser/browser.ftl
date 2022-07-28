@@ -278,9 +278,14 @@ quickactions-downloads = Opne nedlastingar
 quickactions-cmd-downloads = nedlastingar
 # Opens the devtools web inspector
 quickactions-inspector = Opne inspeksjon
+# Opens about:logins
+quickactions-logins = Vis innloggingar
+quickactions-cmd-logins = Innloggingar, passord
 # Opens the print dialog
 quickactions-print = Skriv ut
 quickactions-cmd-print = Skriv ut
+# Opens a new private browsing window
+quickactions-private = Opne eit vindauge for privat nettlesing
 quickactions-cmd-private = privat nettlesing
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Tilbakestill { -brand-short-name }
@@ -298,6 +303,7 @@ quickactions-update = Oppdater { -brand-short-name }
 quickactions-cmd-update = oppdater
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Vis kjeldekode
+quickactions-cmd-viewsource = vis kjelde, kjelde
 
 ## Bookmark Panel
 
@@ -590,6 +596,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Søk i bokmerke
 urlbar-result-action-search-history = Søk i historikk
 urlbar-result-action-search-tabs = Søk i faner
+urlbar-result-action-search-actions = Søkjehandlingar
 
 ## Labels shown above groups of urlbar results
 
@@ -875,3 +882,6 @@ private-browsing-indicator-label = Privat nettlesing
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Utvidingar
+    .tooltiptext = Utvidingar
