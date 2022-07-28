@@ -67,6 +67,7 @@ policy-Extensions = Встановлювати, видаляти чи блоку
 policy-ExtensionSettings = Керувати всіма аспектами встановлення розширень.
 policy-ExtensionUpdate = Увімкнути чи вимкнути автоматичне оновлення розширень.
 policy-FirefoxHome = Налаштувати Домівку Firefox
+policy-FirefoxHome2 = Налаштувати { -firefox-home-brand-name(case: "acc", capitalization: "lower") }
 policy-FlashPlugin = Дозволити або заборонити використання плагіна Flash.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Примусова пряма навігація сайтом внутрішньої мережі замість пошуку під час введення окремих слів у адресному рядку.
 policy-Handlers = Налаштувати стандартні обробники програм.

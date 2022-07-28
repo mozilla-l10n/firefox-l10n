@@ -3,13 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## The following feature names must be treated as a brand, and kept in English.
-## They cannot be:
-## - Declined to adapt to grammatical case.
-## - Transliterated.
-## - Translated.
-
-
 ## The following feature names must be treated as a brand.
 ##
 ## They cannot be:
@@ -33,14 +26,44 @@
 -mozilla-vpn-brand-name = Mozilla VPN
 -profiler-brand-name = Firefox Profiler
 -translations-brand-name = Firefox Translations
-
 -rally-brand-name = Mozilla Rally
 -rally-short-name = Rally
-
-
 -focus-brand-name = Firefox Focus
-
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-suggest-brand-name = Пропозиції Firefox
-
+# ”Home" can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefox-home-brand-name =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Домівка Firefox
+                [lower] домівка Firefox
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Домівки Firefox
+                [lower] домівки Firefox
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Домівці Firefox
+                [lower] домівці Firefox
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Домівку Firefox
+                [lower] домівку Firefox
+            }
+        [abl]
+            { $capitalization ->
+               *[upper] Домівкою Firefox
+                [lower] домівкою Firefox
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Домівці Firefox
+                [lower] домівці Firefox
+            }
+    }
