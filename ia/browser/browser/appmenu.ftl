@@ -181,6 +181,7 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = Pre-configuration pro investigar errores de rete in { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rete
+profiler-popup-presets-power-description = Pre-configuration pro investigar errores in le uso del energia in { -brand-shorter-name }, con basse supercarga.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energia
