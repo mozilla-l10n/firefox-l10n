@@ -262,16 +262,37 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Tøm historikk
-quickactions-print = Skriv ut
-quickactions-screenshot = Ta et skjermbilde
-quickactions-settings = Åpne innstillinger
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Vis tillegg
+quickactions-cmd-addons = tillegg, utvidelser, temaer
+# Opens the bookmarks library window
+quickactions-bookmarks = Vis bokmerker
+quickactions-cmd-bookmarks = bokmerker
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Tøm historikk
+quickactions-cmd-clearhistory = tøm historikk
+# Opens about:downloads page
 quickactions-downloads = Åpne nedlastinger
-quickactions-viewsource = Vis kildekode
+quickactions-cmd-downloads = nedlastinger
+# Opens the devtools web inspector
 quickactions-inspector = Åpne inspeksjon
+# Opens the print dialog
+quickactions-print = Skriv ut
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Tilbakestill { -brand-short-name }
+# Restarts the browser
 quickactions-restart = Start { -brand-short-name } på nytt
+# Opens about:preferences
+quickactions-settings = Åpne innstillinger
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Oppdater { -brand-short-name }
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Vis kildekode
 
 ## Bookmark Panel
 
@@ -846,3 +867,6 @@ data-reporting-notification-button =
     .accesskey = V
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privat nettlesing
+
+## Unified extensions (toolbar) button
+
