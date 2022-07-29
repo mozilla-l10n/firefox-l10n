@@ -9,3 +9,4 @@ dns-not-found-with-suggestion = <a data-l10n-name="website">{ $hostAndPath }</a>
 dns-not-found-hint-header = <strong>Doğru adresi girdiyseniz şunları yapabilirsiniz:</strong>
 dns-not-found-hint-try-again = Daha sonra yeniden deneyin
 dns-not-found-hint-check-network = Ağ bağlantınızı kontrol edin
+dns-not-found-hint-firewall = { -brand-short-name } tarayıcısının web’e erişim izni olup olmadığını kontrol edin (Bağlı olsanız da bir güvenlik duvarının arkasında olabilirsiniz)
