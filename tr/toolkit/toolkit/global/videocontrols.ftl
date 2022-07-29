@@ -41,6 +41,10 @@ videocontrols-picture-in-picture-explainer = { -brand-short-name } ile başka ş
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Bu videoyu dışarı çıkar
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer2 = Daha fazla ekran, daha fazla eğlence. Bu videoyu görüntü içinde görüntü modunda izleyin.
 videocontrols-error-aborted = Video yükleme durduruldu.
 videocontrols-error-network = Bir ağ hatası nedeniyle video oynatması iptal edildi.
 videocontrols-error-decode = Dosya hasarlı olduğu için video oynatılamıyor.
