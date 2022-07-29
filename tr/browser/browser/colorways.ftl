@@ -5,9 +5,13 @@
 
 ## Colorway collections
 
+colorway-collection-independent-voices = Bağımsız Sesler
+# Used as a subheading for the colorway collection card in about:addons
+colorway-collection-independent-voices-short-description = Kültürü değiştiren renkler.
 
 ## Colorway names and descriptions
 
+playmaker-colorway-name = Oyun Kurucu
 expressionist-colorway-name = Ekspresyonist
 visionary-colorway-name = Vizyoner
 activist-colorway-name = Aktivist
