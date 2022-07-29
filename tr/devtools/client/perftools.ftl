@@ -94,8 +94,14 @@ perftools-thread-jvm-gecko =
     .title = Ana Gecko JVM iş parçacığı
 perftools-thread-jvm-nimbus =
     .title = Nimbus deney SDK'inin ana iş parçacıkları
+perftools-thread-jvm-default-dispatcher =
+    .title = Kotlin eşyordam kitaplığı için varsayılan işlemci zamanlayıcısı
 perftools-thread-jvm-glean =
     .title = Glean telemetri SDK'inin ana iş parçacıkları
+perftools-thread-jvm-arch-disk-io =
+    .title = Kotlin eşyordam kitaplığı için G/Ç işlemci zamanlayıcısı
+perftools-thread-jvm-pool =
+    .title = Adsız bir iş parçacığı havuzunda oluşturulan iş parçacıkları
 
 ##
 

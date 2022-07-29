@@ -67,7 +67,9 @@ policy-Extensions = Uzantıları yükle, kaldır veya kilitle. Yükleme seçene�
 policy-ExtensionSettings = Uzantı kurulumunun tüm yönlerini yönet.
 policy-ExtensionUpdate = Otomatik uzantı güncellemelerini aç veya kapat.
 policy-FirefoxHome = Firefox giriş sayfasını yapılandır.
+policy-FirefoxHome2 = { -firefox-home-brand-name }'i yapılandır.
 policy-FlashPlugin = Flash yan uygulama kullanımını engelle ya da kullanımına izin ver.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Adres çubuğuna tek bir sözcük yazıldığında arama yapmak yerine doğrudan intranet sitesine git.
 policy-Handlers = Varsayılan uygulama işleyicilerini yapılandır.
 policy-HardwareAcceleration = false ise donanım ivmelenmesini kapat.
 # “lock” means that the user won’t be able to change this setting
