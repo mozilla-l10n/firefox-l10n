@@ -45,7 +45,7 @@
 <!ENTITY setPriority.label "Definir prioridade como">
 <!ENTITY addTag.label "Aplicar etiqueta">
 <!ENTITY setJunkScore.label "Definir status de spam como">
-<!ENTITY deleteMessage.label "Excluir">
+<!ENTITY deleteMessage.label "Excluir mensagem">
 <!ENTITY deleteFromPOP.label "Excluir do servidor POP">
 <!ENTITY fetchFromPOP.label "Buscar do servidor POP">
 <!ENTITY ignoreThread.label "Ignorar tópico">
