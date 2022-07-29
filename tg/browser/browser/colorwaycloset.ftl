@@ -14,3 +14,5 @@ colorway-intensity-bold = Ғафс
 # Label for the button to keep using the selected colorway in the browser
 colorway-closet-set-colorway-button = Татбиқи нақшу нигор
 colorway-closet-cancel-button = Бекор кардан
+colorway-homepage-reset-apply-button = Татбиқ кардан
+colorway-homepage-reset-undo-button = Бекор кардан

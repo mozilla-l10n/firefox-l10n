@@ -156,6 +156,7 @@ add-exception-domain-mismatch-short = Сомонаи нодуруст
 add-exception-expired-short = Маълумоти куҳна
 add-exception-unverified-or-bad-signature-short = Айнияти номаълум
 add-exception-valid-short = Гувоҳиномаи боэътимод
+add-exception-valid-long = Ин сомона тарзи муайянкунии тасдиқшуда ва дурустро пешниҳод мекунад.  Барои илова кардани истисно лозим наомад.
 add-exception-checking-short = Дар ҳоли тафтиши маълумот
 add-exception-checking-long = Кӯшиши ташхиси сомонаи ҷорӣ…
 add-exception-no-cert-short = Маълумот дастрас нест
