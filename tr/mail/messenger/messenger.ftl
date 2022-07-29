@@ -120,9 +120,6 @@ other-action-redirect-msg =
 message-header-msg-flagged =
     .title = Yıldızlı
     .aria-label = Yıldızlı
-message-header-msg-not-flagged =
-    .title = Yıldızsız
-    .aria-label = Yıldızsız
 # Variables:
 # $address (String) - The email address of the recipient this picture belongs to.
 message-header-recipient-avatar =
@@ -216,18 +213,18 @@ settings-context-open-addons-item2 =
 
 spaces-toolbar-pinned-tab-button =
     .tooltiptext = Alanlar menüsünü aç
-spaces-pinned-button-menuitem-mail =
-    .label = { spaces-toolbar-button-mail.title }
-spaces-pinned-button-menuitem-address-book =
-    .label = { spaces-toolbar-button-address-book.title }
-spaces-pinned-button-menuitem-calendar =
-    .label = { spaces-toolbar-button-calendar.title }
-spaces-pinned-button-menuitem-tasks =
-    .label = { spaces-toolbar-button-tasks.title }
-spaces-pinned-button-menuitem-chat =
-    .label = { spaces-toolbar-button-chat.title }
-spaces-pinned-button-menuitem-settings =
-    .label = { spaces-toolbar-button-settings2.title }
+spaces-pinned-button-menuitem-mail2 =
+    .label = { spaces-toolbar-button-mail2.title }
+spaces-pinned-button-menuitem-address-book2 =
+    .label = { spaces-toolbar-button-address-book2.title }
+spaces-pinned-button-menuitem-calendar2 =
+    .label = { spaces-toolbar-button-calendar2.title }
+spaces-pinned-button-menuitem-tasks2 =
+    .label = { spaces-toolbar-button-tasks2.title }
+spaces-pinned-button-menuitem-chat2 =
+    .label = { spaces-toolbar-button-chat2.title }
+spaces-pinned-button-menuitem-settings2 =
+    .label = { spaces-toolbar-button-settings2.title }{ spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
     .label = { spaces-toolbar-button-show.title }
 # Variables:
