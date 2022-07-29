@@ -11,6 +11,8 @@ colorway-intensity-balanced = Équilibrée
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 colorway-intensity-bold = Soutenue
+# Label for the button to keep using the selected colorway in the browser
+colorway-closet-set-colorway-button = Choisir ce coloris
 colorway-closet-cancel-button = Annuler
 colorway-homepage-reset-apply-button = Appliquer
 colorway-homepage-reset-undo-button = Annuler
