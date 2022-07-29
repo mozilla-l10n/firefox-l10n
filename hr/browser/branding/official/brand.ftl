@@ -3,17 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Firefox Brand
-##
-## Firefox must be treated as a brand, and kept in English.
-## It cannot be:
-## - Declined to adapt to grammatical case.
-## - Transliterated.
-## - Translated.
-##
-## Reference: https://www.mozilla.org/styleguide/communications/translation/
-
-
 ## Firefox and Mozilla Brand
 ##
 ## Firefox and Mozilla must be treated as a brand.
@@ -80,4 +69,4 @@
         [ins] Mozillom
     }
     .gender = feminine
-trademarkInfo = Firefox i Firefoxovi logotipi zaštitni su znakovi zaklade Mozilla.
+trademarkInfo = Firefox i Firefox logotipi zaštitni su znakovi zaklade Mozilla.
