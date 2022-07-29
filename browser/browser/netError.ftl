@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 dns-not-found-title = Adresse introuvable
+dns-not-found-hint-check-network = Veuillez vérifier votre connexion réseau
