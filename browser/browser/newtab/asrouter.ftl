@@ -157,6 +157,9 @@ spotlight-total-cookie-protection-expanded = { -brand-short-name }, çerezlerin 
 spotlight-total-cookie-protection-primary-button = Komple çerez korumasını aç
 spotlight-total-cookie-protection-secondary-button = Daha sonra
 cfr-total-cookie-protection-header = Sizin sayenizde { -brand-short-name } her zamankinden daha gizli ve güvenli
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = Şimdiye kadarki en güçlü gizlilik korumamız olan komple çerez koruması, artık tüm { -brand-short-name } kullanıcıları için varsayılan ayar haline geldi. Sizin gibi erken erişim katılımcıları olmadan bunu başaramazdık. Daha iyi ve daha gizli bir internet yaratmamıza yardım ettiğiniz için teşekkür ederiz.
 
 ## Emotive Continuous Onboarding
 
