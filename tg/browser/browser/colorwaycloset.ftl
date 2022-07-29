@@ -14,5 +14,7 @@ colorway-intensity-bold = Ғафс
 # Label for the button to keep using the selected colorway in the browser
 colorway-closet-set-colorway-button = Татбиқи нақшу нигор
 colorway-closet-cancel-button = Бекор кардан
+colorway-homepage-reset-prompt = Бигузор { -firefox-home-brand-name } саҳифаи асосии рангини шумо шавад
+colorway-homepage-reset-success-message = Акнун { -firefox-home-brand-name } саҳифаи асосии шумо аст
 colorway-homepage-reset-apply-button = Татбиқ кардан
 colorway-homepage-reset-undo-button = Бекор кардан
