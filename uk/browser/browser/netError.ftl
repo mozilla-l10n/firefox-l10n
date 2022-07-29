@@ -5,7 +5,7 @@
 dns-not-found-title = Сервер не знайдено
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
-dns-not-found-with-suggestion = Ви хотіли відвідати <a data-l10n-name="вебсайт">{ $hostAndPath }</a>?
+dns-not-found-with-suggestion = Ви хотіли відвідати <a data-l10n-name="website">{ $hostAndPath }</a>?
 dns-not-found-hint-header = <strong>Якщо ви ввели правильну адресу, можна:</strong>
 dns-not-found-hint-try-again = Спробувати знову пізніше
 dns-not-found-hint-check-network = Перевірити мережеве з'єднання
