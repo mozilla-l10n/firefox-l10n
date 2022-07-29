@@ -7,5 +7,11 @@ elevation-update-wizard =
     .title = Насвозии нармафзор
 elevation-details-link-label =
     .value = Тафсилот
+elevation-error-manual =
+    Бо зер кардани пайванди зерин ва боргирӣ намудани версияи охирин
+    шумо метавонед «{ -brand-short-name }»-ро ба таври дастӣ навсозӣ кунед:
 elevation-finished-page = Навсозӣ барои насб омода аст
+elevation-finished-background-page =
+    Навсозии амният ва пойдорӣ барои { -brand-short-name }
+    боргирӣ карда шуд ва барои насб омода аст.
 elevation-finished-background = Навсозӣ:

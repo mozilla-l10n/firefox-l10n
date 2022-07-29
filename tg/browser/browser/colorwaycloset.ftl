@@ -5,3 +5,12 @@
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Дар санаи { DATETIME($expiryDate, month: "long", day: "numeric") } ба анҷом мерасад
+colorway-intensity-selector-label = Дурахшонӣ
+colorway-intensity-soft = Нарм
+colorway-intensity-balanced = Мутаносиб
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+colorway-intensity-bold = Ғафс
+# Label for the button to keep using the selected colorway in the browser
+colorway-closet-set-colorway-button = Татбиқи нақшу нигор
+colorway-closet-cancel-button = Бекор кардан
