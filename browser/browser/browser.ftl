@@ -269,9 +269,13 @@ search-one-offs-actions =
 
 # Opens the about:addons page
 quickactions-addons = Voir les modules
+quickactions-cmd-addons = modules complémentaires, extensions, thèmes
+# Opens the bookmarks library window
+quickactions-bookmarks = Afficher les marque-pages
 quickactions-cmd-bookmarks = marque-pages
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Effacer l’historique
+quickactions-cmd-clearhistory = effacer l’historique
 # Opens about:downloads page
 quickactions-downloads = Ouvrir les téléchargements
 quickactions-cmd-downloads = téléchargements
@@ -282,6 +286,8 @@ quickactions-logins = Afficher les identifiants
 # Opens the print dialog
 quickactions-print = Imprimer
 quickactions-cmd-print = imprimer
+# Opens a new private browsing window
+quickactions-private = Ouvrir une fenêtre de navigation privée
 quickactions-cmd-private = navigation privée
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Réparer { -brand-short-name }
