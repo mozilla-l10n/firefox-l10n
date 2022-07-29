@@ -7,6 +7,7 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
+perftools-intro-title = Postavke profiliranja
 
 ## All of the headings for the various sections.
 
@@ -50,16 +51,16 @@ perftools-button-edit-settings = Uredi postavke…
 
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
+
 ## Profiler presets
+
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+
 ##
+
