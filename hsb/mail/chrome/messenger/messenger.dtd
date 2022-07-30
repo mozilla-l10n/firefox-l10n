@@ -287,7 +287,7 @@
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Dźi">
 <!ENTITY goMenu.accesskey "i">
-<!ENTITY nextMenu.label "Přichodna">
+<!ENTITY nextMenu.label "Dale">
 <!ENTITY nextMenu.accesskey "c">
 <!ENTITY nextMsgCmd.label "Powěsć">
 <!ENTITY nextMsgCmd.accesskey "P">
@@ -519,7 +519,7 @@
 <!ENTITY fileButton.label "Dataja">
 <!ENTITY archiveButton.label "Archiw">
 <!ENTITY openConversationButton.label "Rozmołwa">
-<!ENTITY nextButton.label "Přichodna">
+<!ENTITY nextButton.label "Dale">
 <!ENTITY nextButtonToolbarItem.label "Přichodna njepřečitana">
 <!ENTITY nextMsgButton.label "Přichodny">
 <!ENTITY previousButton.label "Předchadny">
