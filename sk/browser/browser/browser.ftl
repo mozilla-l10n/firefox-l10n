@@ -262,16 +262,53 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Vymazať históriu
-quickactions-print = Tlačiť
-quickactions-screenshot = Urobiť snímku obrazovky
-quickactions-settings = Otvoriť nastavenia
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Zobraziť doplnky
+quickactions-cmd-addons = doplnky, rozšírenia, témy vzhľadu
+# Opens the bookmarks library window
+quickactions-bookmarks = Zobraziť záložky
+quickactions-cmd-bookmarks = záložky
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Vymazať históriu
+quickactions-cmd-clearhistory = vymazať históriu
+# Opens about:downloads page
 quickactions-downloads = Otvoriť Stiahnuté súbory
-quickactions-viewsource = Zobraziť zdrojový kód
+quickactions-cmd-downloads = stiahnuté súbory
+# Opens the devtools web inspector
 quickactions-inspector = Otvoriť Prieskumníka
+quickactions-cmd-inspector = prieskumník, vývojárske nástroje
+# Opens about:logins
+quickactions-logins = Zobraziť prihlasovacie údaje
+quickactions-cmd-logins = prihlasovacie údaje, heslá
+# Opens the print dialog
+quickactions-print = Tlačiť
+quickactions-cmd-print = tlačiť
+# Opens a new private browsing window
+quickactions-private = Otvoriť Súkromné okno
+quickactions-cmd-private = súkromné prehliadanie
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Obnoviť { -brand-short-name }
+quickactions-cmd-refresh = obnoviť
+# Restarts the browser
 quickactions-restart = Reštartovať { -brand-short-name }
+quickactions-cmd-restart = reštartovať
+# Opens the screenshot tool
+quickactions-screenshot2 = Urobiť snímku obrazovky
+quickactions-cmd-screenshot = snímka obrazovky
+# Opens about:preferences
+quickactions-settings = Otvoriť nastavenia
+quickactions-cmd-settings = nastavenia, preferencie, možnosti
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Aktualizovať { -brand-short-name }
+quickactions-cmd-update = aktualizovať
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Zobraziť zdrojový kód
+quickactions-cmd-viewsource = zobraziť zdrojový kód, zdrojový kód
 
 ## Bookmark Panel
 
@@ -571,6 +608,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Hľadať v záložkách
 urlbar-result-action-search-history = Hľadať v histórii
 urlbar-result-action-search-tabs = Hľadať v otvorených kartách
+urlbar-result-action-search-actions = Akcie vyhľadávania
 
 ## Labels shown above groups of urlbar results
 
@@ -853,3 +891,9 @@ data-reporting-notification-button =
     .accesskey = v
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Súkromné prehliadanie
+
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = Rozšírenia
+    .tooltiptext = Rozšírenia
