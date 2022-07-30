@@ -262,16 +262,53 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Απαλοιφή ιστορικού
-quickactions-print = Εκτύπωση
-quickactions-screenshot = Λήψη στιγμιότυπου
-quickactions-settings = Άνοιγμα ρυθμίσεων
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Προβολή προσθέτων
+quickactions-cmd-addons = πρόσθετα, επεκτάσεις, θέματα
+# Opens the bookmarks library window
+quickactions-bookmarks = Προβολή σελιδοδεικτών
+quickactions-cmd-bookmarks = σελιδοδείκτες
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Απαλοιφή ιστορικού
+quickactions-cmd-clearhistory = απαλοιφή ιστορικού, εκκαθάριση ιστορικού, διαγραφή ιστορικού
+# Opens about:downloads page
 quickactions-downloads = Άνοιγμα λήψεων
-quickactions-viewsource = Προβολή πηγής
+quickactions-cmd-downloads = λήψεις
+# Opens the devtools web inspector
 quickactions-inspector = Άνοιγμα επιθεώρησης
+quickactions-cmd-inspector = επιθεώρηση, εργαλεία προγραμματιστή, εργαλεία ανάπτυξης, devtools
+# Opens about:logins
+quickactions-logins = Προβολή συνδέσεων
+quickactions-cmd-logins = συνδέσεις, στοιχεία σύνδεσης, διαπιστευτήρια, κωδικοί πρόσβασης
+# Opens the print dialog
+quickactions-print = Εκτύπωση
+quickactions-cmd-print = εκτύπωση
+# Opens a new private browsing window
+quickactions-private = Άνοιγμα παραθύρου ιδιωτικής περιήγησης
+quickactions-cmd-private = ιδιωτική περιήγηση
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Ανανέωση του { -brand-short-name }
+quickactions-cmd-refresh = ανανέωση, επαναφόρτωση
+# Restarts the browser
 quickactions-restart = Επανεκκίνηση του { -brand-short-name }
+quickactions-cmd-restart = επανεκκίνηση
+# Opens the screenshot tool
+quickactions-screenshot2 = Λήψη στιγμιότυπου
+quickactions-cmd-screenshot = στιγμιότυπο
+# Opens about:preferences
+quickactions-settings = Άνοιγμα ρυθμίσεων
+quickactions-cmd-settings = ρυθμίσεις, προτιμήσεις, επιλογές
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Ενημέρωση του { -brand-short-name }
+quickactions-cmd-update = ενημέρωση
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Προβολή πηγής
+quickactions-cmd-viewsource = προβολή πηγής, πηγαίος κώδικας
 
 ## Bookmark Panel
 
@@ -564,6 +601,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Αναζήτηση σελιδοδεικτών
 urlbar-result-action-search-history = Αναζήτηση ιστορικού
 urlbar-result-action-search-tabs = Αναζήτηση καρτελών
+urlbar-result-action-search-actions = Αναζήτηση ενεργειών
 
 ## Labels shown above groups of urlbar results
 
@@ -846,3 +884,9 @@ data-reporting-notification-button =
     .accesskey = ξ
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Ιδιωτική περιήγηση
+
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = Επεκτάσεις
+    .tooltiptext = Επεκτάσεις

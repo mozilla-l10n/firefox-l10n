@@ -490,6 +490,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Αρχική σελίδα Firefox (Προεπιλογή)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (Προεπιλογή)
 home-mode-choice-custom =
     .label = Προσαρμοσμένα URL…
 home-mode-choice-blank =
