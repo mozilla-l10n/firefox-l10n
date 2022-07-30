@@ -137,6 +137,9 @@ perftools-presets-media-label = Médiá
 perftools-presets-media-description2 = Predvoľba na diagnostiku problémov so zvukom a videom v prehliadači { -brand-shorter-name }.
 perftools-presets-networking-label = Sieťová aktivita
 perftools-presets-networking-description = Predvoľba pre diagnostiku sieťovej aktivity v prehliadači { -brand-shorter-name }.
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Napájanie
+perftools-presets-power-description = Predvoľba pre diagnostiku chýb zvyšujúcich spotrebu energie prehliadača { -brand-shorter-name }, s nízkou réžiou
 perftools-presets-custom-label = Vlastné
 
 ##
