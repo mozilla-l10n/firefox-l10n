@@ -519,9 +519,9 @@
 <!ENTITY fileButton.label "Dataja">
 <!ENTITY archiveButton.label "Archiw">
 <!ENTITY openConversationButton.label "Rozgrono">
-<!ENTITY nextButton.label "Pśidujuca">
+<!ENTITY nextButton.label "Dalej">
 <!ENTITY nextButtonToolbarItem.label "Pśidujuca njepśecytana">
-<!ENTITY nextMsgButton.label "Pśidujuca">
+<!ENTITY nextMsgButton.label "Dalej">
 <!ENTITY previousButton.label "Pjerwjejšna">
 <!ENTITY previousButtonToolbarItem.label "Pjerwjejšna njepśecytana">
 <!ENTITY previousMsgButton.label "Pjerwjejšna">
