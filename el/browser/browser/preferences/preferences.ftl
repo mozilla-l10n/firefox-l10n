@@ -981,6 +981,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Η Ολική προστασία cookie περιορίζει τα cookies στον ιστότοπο που βρίσκεστε, ώστε να μην μπορούν να χρησιμοποιηθούν από ιχνηλάτες για την καταγραφή της δραστηριότητάς σας.
 content-blocking-etp-standard-tcp-rollout-learn-more = Μάθετε περισσότερα
+content-blocking-etp-standard-tcp-title = Περιλαμβάνει την Ολική προστασία cookie, την πιο ισχυρή μας λειτουργία απορρήτου
 content-blocking-warning-title = Προσοχή!
 content-blocking-and-isolating-etp-warning-description-2 = Αυτή η ρύθμιση ενδέχεται να εμποδίσει την εμφάνιση περιεχομένου ή τη σωστή λειτουργία ορισμένων ιστοτόπων. Αν κάποιος ιστότοπος δεν λειτουργεί σωστά, μπορείτε να απενεργοποιήσετε την προστασία από καταγραφή για να γίνει φόρτωση όλου του περιεχομένου.
 content-blocking-warning-learn-how = Μάθετε πώς
