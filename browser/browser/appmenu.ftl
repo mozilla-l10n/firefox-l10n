@@ -181,6 +181,7 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = Pśednastajenje za wuslěźenje seśowych zmólkow w { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Seś
+profiler-popup-presets-power-description = Pśednastajenje za wuslěźenje zmóylkow wužywanja energije w { -brand-shorter-name }, z niskeju pótrjebu.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energija
