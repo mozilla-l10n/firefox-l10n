@@ -287,16 +287,28 @@ quickactions-logins = ਲਾਗਇਨ ਵੇਖੋ
 quickactions-cmd-logins = ਲਾਗਇਨ, ਪਾਸਵਰਡ
 # Opens the print dialog
 quickactions-print = ਪਰਿੰਟ ਕਰੋ
+quickactions-cmd-print = ਪਰਿੰਟ ਕਰੋ
+# Opens a new private browsing window
+quickactions-private = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਿੰਡੋ ਖੋਲ੍ਹੋ
+quickactions-cmd-private = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } ਨੂੰ ਤਾਜ਼ਾ ਕਰੋ
+quickactions-cmd-refresh = ਤਾਜਾ ਕਰੋ
 # Restarts the browser
 quickactions-restart = { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ
+quickactions-cmd-restart = ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ
+# Opens the screenshot tool
+quickactions-screenshot2 = ਸਕਰੀਨ-ਸ਼ਾਟ ਲਵੋ
+quickactions-cmd-screenshot = ਸਕਰੀਨਸ਼ਾਟ
 # Opens about:preferences
 quickactions-settings = ਸੈਟਿੰਗਾਂ ਨੂੰ ਖੋਲ੍ਹੋ
+quickactions-cmd-settings = ਸੈਟਿੰਗਾਂ, ਮੇਰੀਆਂ ਪਸੰਦਾਂ, ਚੋਣਾਂ
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ
+quickactions-cmd-update = ਅੱਪਡੇਟ ਕਰੋ
 # Opens the view-source UI with current pages source
 quickactions-viewsource = ਸਰੋਤ ਵੇਖੋ
+quickactions-cmd-viewsource = ਸਰੋਤ ਵੇਖੋ, ਸਰੋਤ
 
 ## Bookmark Panel
 
@@ -597,6 +609,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = ਬੁੱਕਮਾਰਕ ਖੋਜੋ
 urlbar-result-action-search-history = ਅਤੀਤ ਖੋਜੋ
 urlbar-result-action-search-tabs = ਟੈਬਾਂ ਖੋਜੋ
+urlbar-result-action-search-actions = ਖੋਜ ਕਾਰਵਾਈਆਂ
 
 ## Labels shown above groups of urlbar results
 
@@ -610,6 +623,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = { $engine } ਸੁਝਾਅ
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = ਫ਼ੌਰੀ ਕਾਰਵਾਈਆਂ
 
 ## Full Screen and Pointer Lock UI
 
@@ -879,3 +895,6 @@ private-browsing-indicator-label = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼�
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = ਇਕਟੈਨਸ਼ਨਾਂ
+    .tooltiptext = ਇਕਟੈਨਸ਼ਨਾਂ
