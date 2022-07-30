@@ -262,16 +262,41 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = ਅਤੀਤ ਮਿਟਾਓ
-quickactions-print = ਪਰਿੰਟ ਕਰੋ
-quickactions-screenshot = ਸਕਰੀਨ-ਸ਼ਾਟ ਲਵੋ
-quickactions-settings = ਸੈਟਿੰਗਾਂ ਨੂੰ ਖੋਲ੍ਹੋ
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = ਐਡ-ਆਨ ਨੂੰ ਦੇਖੋ
+quickactions-cmd-addons = ਐਡ-ਆਨ, ਇਕਸਟੈਨਸਨ, ਥੀਮ
+# Opens the bookmarks library window
+quickactions-bookmarks = ਬੁੱਕਮਾਰਕ ਵੇਖੋ
+quickactions-cmd-bookmarks = ਬੁੱਕਮਾਰਕ
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = ਅਤੀਤ ਮਿਟਾਓ
+quickactions-cmd-clearhistory = ਅਤੀਤ ਮਿਟਾਓ
+# Opens about:downloads page
 quickactions-downloads = ਡਾਊਨਲੋਡ ਨੂੰ ਖੋਲ੍ਹੋ
-quickactions-viewsource = ਸਰੋਤ ਵੇਖੋ
+quickactions-cmd-downloads = ਡਾਊਨਲੋਡ
+# Opens the devtools web inspector
 quickactions-inspector = ਇੰਸਪੈਸਕਟਰ ਖੋਲ੍ਹੋ
+quickactions-cmd-inspector = ਇੰਸਪੈਕਟਰ, ਡਿਵ-ਟੂਲ
+# Opens about:logins
+quickactions-logins = ਲਾਗਇਨ ਵੇਖੋ
+quickactions-cmd-logins = ਲਾਗਇਨ, ਪਾਸਵਰਡ
+# Opens the print dialog
+quickactions-print = ਪਰਿੰਟ ਕਰੋ
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } ਨੂੰ ਤਾਜ਼ਾ ਕਰੋ
+# Restarts the browser
 quickactions-restart = { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ
+# Opens about:preferences
+quickactions-settings = ਸੈਟਿੰਗਾਂ ਨੂੰ ਖੋਲ੍ਹੋ
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ
+# Opens the view-source UI with current pages source
+quickactions-viewsource = ਸਰੋਤ ਵੇਖੋ
 
 ## Bookmark Panel
 
@@ -851,3 +876,6 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
+
+## Unified extensions (toolbar) button
+
