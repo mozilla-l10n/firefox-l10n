@@ -517,6 +517,8 @@ choose-bookmark =
 
 home-prefs-content-header = Περιεχόμενο αρχικής σελίδας Firefox
 home-prefs-content-description = Επιλέξτε τι περιεχόμενο θέλετε στην αρχική σελίδα του Firefox σας.
+home-prefs-content-header2 = Περιεχόμενο οθόνης «{ -firefox-home-brand-name }»
+home-prefs-content-description2 = Επιλέξτε το περιεχόμενο που θέλετε στην οθόνη «{ -firefox-home-brand-name }».
 home-prefs-search-header =
     .label = Διαδικτυακή αναζήτηση
 home-prefs-shortcuts-header =

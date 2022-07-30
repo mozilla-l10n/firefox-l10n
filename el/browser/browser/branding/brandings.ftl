@@ -34,4 +34,16 @@
 -firefox-suggest-brand-name = Προτάσεις Firefox
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
--firefox-home-brand-name = Αρχική Firefox
+-firefox-home-brand-name =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Αρχική Firefox
+                [lower] αρχική Firefox
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Αρχικής Firefox
+                [lower] αρχικής Firefox
+            }
+    }
