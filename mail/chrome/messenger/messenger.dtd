@@ -287,7 +287,7 @@
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Źi">
 <!ENTITY goMenu.accesskey "i">
-<!ENTITY nextMenu.label "Pśiducy">
+<!ENTITY nextMenu.label "Dalej">
 <!ENTITY nextMenu.accesskey "d">
 <!ENTITY nextMsgCmd.label "Powěsć">
 <!ENTITY nextMsgCmd.accesskey "P">

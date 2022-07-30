@@ -40,7 +40,7 @@
 <!ENTITY cellSelectCell.label             "Cela">
 <!ENTITY cellSelectRow.label              "Rěd">
 <!ENTITY cellSelectColumn.label           "Słup">
-<!ENTITY cellSelectNext.label             "Pśiducy">
+<!ENTITY cellSelectNext.label             "Dalej">
 <!ENTITY cellSelectNext.accessKey         "d">
 <!ENTITY cellSelectPrevious.label         "Pjerwjejšny">
 <!ENTITY cellSelectPrevious.accessKey     "P">
