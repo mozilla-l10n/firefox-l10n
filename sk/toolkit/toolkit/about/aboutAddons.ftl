@@ -293,11 +293,17 @@ theme-disabled-heading = Neaktívne témy vzhľadu
 theme-disabled-heading2 = Uložené témy vzhľadu
 theme-monochromatic-heading = Farebné témy
 theme-monochromatic-subheading = Nové živé farebné témy { -brand-product-name(case: "gen") }. K dispozícii na obmedzený čas.
+# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Vyskúšajte farebné témy
 colorway-collection-independent-voices-subheading = Umožnite { -brand-short-name(case: "dat") } podobať sa na vás.
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
-colorway-collection-expiry-date-span = Vyprší { DATETIME($expiryDate, month: "long", day: "numeric") }
+colorway-collection-expiry-date-span = Dostupná do { DATETIME($expiryDate, month: "long", day: "numeric") }
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Zmeniť farebnú tému
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+colorway-collection-expiry-label = Dostupná do { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Povolené zásuvné moduly
 plugin-disabled-heading = Zakázané zásuvné moduly
 dictionary-enabled-heading = Povolené slovníky

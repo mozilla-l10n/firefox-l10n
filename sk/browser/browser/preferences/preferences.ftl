@@ -493,6 +493,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Predvolená domovská stránka Firefoxu
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (predvolené)
 home-mode-choice-custom =
     .label = Vlastné URL adresy…
 home-mode-choice-blank =
@@ -518,6 +520,8 @@ choose-bookmark =
 
 home-prefs-content-header = Obsah domovskej stránky Firefoxu
 home-prefs-content-description = Vyberte si obsah, ktorý chcete mať na domovskej stránke svojho Firefoxu.
+home-prefs-content-header2 = Obsah na { -firefox-home-brand-name(case: "loc") }
+home-prefs-content-description2 = Zvoľte, aký obsah chcete mať dostupný na svojej { -firefox-home-brand-name(case: "loc") }.
 home-prefs-search-header =
     .label = Vyhľadávanie na webe
 home-prefs-shortcuts-header =

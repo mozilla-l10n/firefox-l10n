@@ -67,6 +67,7 @@ policy-Extensions = Nainštaluje, odinštaluje alebo uzamkne rozšírenie. Pre i
 policy-ExtensionSettings = Spravuje všetky aspekty inštalácie rozšírenia.
 policy-ExtensionUpdate = Zapne alebo vypne automatické aktualizácie rozšírení.
 policy-FirefoxHome = Nastaví domovskú stránku Firefoxu.
+policy-FirefoxHome2 = Nakonfiguruje { -firefox-home-brand-name(case: "acc") }.
 policy-FlashPlugin = Povolí alebo zakáže používanie zásuvného modulu Flash.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Vynúti priamu navigáciu v intranetovej lokalite namiesto vyhľadávania pri zadávaní jednotlivých slov do panela s adresou.
 policy-Handlers = Nastaví predvolené aplikácie pre odkazy a typy súborov.
