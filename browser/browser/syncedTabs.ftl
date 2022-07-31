@@ -36,7 +36,7 @@ synced-tabs-context-bookmark-single-tab =
     .accesskey = M
 synced-tabs-context-open-in-tab =
     .label = Abrir en una pestaña nueva
-    .accesskey = w
+    .accesskey = v
 synced-tabs-context-open-in-container-tab =
     .label = Abrir en una nueva pestaña contenedora
     .accesskey = i
@@ -56,7 +56,7 @@ synced-tabs-context-open-in-private-window =
 # consistently with the "Bookmark Tab" string there.
 synced-tabs-context-bookmark-tab =
     .label = Guardar pestaña como Marcador
-    .accesskey = B
+    .accesskey = u
 synced-tabs-context-copy =
     .label = Copiar
     .accesskey = C
