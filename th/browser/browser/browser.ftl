@@ -248,7 +248,6 @@ quickactions-inspector = เปิดตัวตรวจสอบ
 quickactions-logins = ดูการเข้าสู่ระบบ
 # Opens the print dialog
 quickactions-print = พิมพ์
-quickactions-cmd-print = { "" }
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = ล้าง { -brand-short-name } ใหม่
 # Restarts the browser
