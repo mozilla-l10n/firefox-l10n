@@ -226,16 +226,39 @@ search-one-offs-history =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = ล้างประวัติ
-quickactions-print = พิมพ์
-quickactions-screenshot = จับภาพหน้าจอ
-quickactions-settings = เปิดการตั้งค่า
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = ดูส่วนเสริม
+# Opens the bookmarks library window
+quickactions-bookmarks = ดูที่คั่นหน้า
+quickactions-cmd-bookmarks = ที่คั่นหน้าที่คั่นหน้า
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = ล้างประวัติ
+quickactions-cmd-clearhistory = ล้างประวัติ
+# Opens about:downloads page
 quickactions-downloads = เปิกการดาวน์โหลด
-quickactions-viewsource = ดูต้นฉบับ
+quickactions-cmd-downloads = ดาวน์โหลด
+# Opens the devtools web inspector
 quickactions-inspector = เปิดตัวตรวจสอบ
+# Opens about:logins
+quickactions-logins = ดูการเข้าสู่ระบบ
+# Opens the print dialog
+quickactions-print = พิมพ์
+quickactions-cmd-print = { "" }
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = ล้าง { -brand-short-name } ใหม่
+# Restarts the browser
 quickactions-restart = เริ่มการทำงาน { -brand-short-name } ใหม่
+# Opens about:preferences
+quickactions-settings = เปิดการตั้งค่า
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = ปรับปรุง { -brand-short-name }
+# Opens the view-source UI with current pages source
+quickactions-viewsource = ดูต้นฉบับ
 
 ## Bookmark Panel
 
@@ -799,3 +822,6 @@ data-reporting-notification-button =
     .accesskey = ล
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = การเรียกดูแบบส่วนตัว
+
+## Unified extensions (toolbar) button
+
