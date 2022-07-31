@@ -140,6 +140,9 @@ perftools-presets-media-label = Медыя
 perftools-presets-media-description2 = Папярэднія налады для даследавання хібаў гуку і відэа ў { -brand-shorter-name }.
 perftools-presets-networking-label = Сетка
 perftools-presets-networking-description = Папярэднія налады для даследавання сеткавых хібаў у { -brand-shorter-name }.
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Сілкаванне
+perftools-presets-power-description = Папярэднія налады для даследавання хібаў спажывання энергіі ў { -brand-shorter-name }, з невялікімі выдаткамі.
 perftools-presets-custom-label = Адмысловыя
 
 ##
