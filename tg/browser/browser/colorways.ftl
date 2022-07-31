@@ -19,5 +19,7 @@ expressionist-colorway-description = Шумо ҷаҳонро дар рангҳо
 visionary-colorway-name = Хаёлангез
 visionary-colorway-description = Шумо ҳолати корҳоро зери шубҳа қарор медиҳед ва дигаронро барои ҳаёл кардани ояндаи беҳтар руҳбаланд мекунед.
 activist-colorway-name = Фаъол
+activist-colorway-description = Шумо ҷаҳонро нисбат ба он ҷойе, ки шумо онро пайдо кардед, беҳтар мекунед ва дигаронро роҳбарӣ мекунед, то онҳо ба шумо бовар кунанд.
 dreamer-colorway-name = Орзуманд
+dreamer-colorway-description = Шумо бовар доред, ки бахт ҳамроҳи одами ҷасур мебошад ва дигарон барои ҷасур будан илҳом медиҳад.
 innovator-colorway-name = Навовар
