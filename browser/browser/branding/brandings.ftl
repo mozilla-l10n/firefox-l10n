@@ -45,9 +45,9 @@
 -firefox-home-brand-name =
     { $case ->
        *[nom] Domovská stránka Firefoxu
-        [gen] Domovskej stránke Firefoxu
+        [gen] Domovskej stránky Firefoxu
         [dat] Domovskej stránke Firefoxu
-        [acc] Domovskú stránka Firefoxu
+        [acc] Domovskú stránku Firefoxu
         [loc] Domovskej stránke Firefoxu
         [ins] Domovskou stránkou Firefoxu
     }
