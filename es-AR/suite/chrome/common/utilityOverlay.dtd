@@ -155,7 +155,7 @@
 <!ENTITY aboutCommPluginsCmd.accesskey      "p">
 
 <!ENTITY aboutBuildConfigCmd.label          "Mostrar la configuración de la compilación">
-<!ENTITY aboutBuildConfigCmd.accesskey      "B">
+<!ENTITY aboutBuildConfigCmd.accesskey      "p">
 
 <!ENTITY direct.label                             "Conectado (Proxy: ninguno)">
 <!ENTITY direct.accesskey                         "n">
