@@ -490,6 +490,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Upphafssíða Firefox (sjálfgefið)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (sjálfgefið)
 home-mode-choice-custom =
     .label = Sérsniðin URL…
 home-mode-choice-blank =
@@ -515,6 +517,8 @@ choose-bookmark =
 
 home-prefs-content-header = Efni á upphafssíðu Firefox
 home-prefs-content-description = Veldu hvaða efni þú vilt sjá á upphafssíðu Firefox.
+home-prefs-content-header2 = { -firefox-home-brand-name } efni
+home-prefs-content-description2 = Veldu hvaða efni þú vilt á { -firefox-home-brand-name } skjánum þínum.
 home-prefs-search-header =
     .label = Vefleit
 home-prefs-shortcuts-header =
