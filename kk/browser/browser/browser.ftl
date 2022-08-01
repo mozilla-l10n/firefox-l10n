@@ -308,6 +308,7 @@ quickactions-update = { -brand-short-name } жаңарту
 quickactions-cmd-update = жаңарту
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Бастапқы кодын қарау
+quickactions-cmd-viewsource = бастапқы кодын қарау, бастапқы код
 
 ## Bookmark Panel
 
