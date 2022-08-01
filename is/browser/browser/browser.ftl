@@ -262,16 +262,44 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Hreinsa feril
-quickactions-print = Prenta
-quickactions-screenshot = Taka skjámynd
-quickactions-settings = Opna stillingar
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Skoða viðbætur
+quickactions-cmd-addons = viðbætur, forritsaukar, þemu
+# Opens the bookmarks library window
+quickactions-bookmarks = Skoða bókamerki
+quickactions-cmd-bookmarks = bókamerki
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Hreinsa feril
+quickactions-cmd-clearhistory = hreinsa feril
+# Opens about:downloads page
 quickactions-downloads = Opna sóttar skrár
-quickactions-viewsource = Skoða frumkóða
+quickactions-cmd-downloads = sóttar skrár
+# Opens the devtools web inspector
 quickactions-inspector = Opna Inspector
+# Opens about:logins
+quickactions-logins = Skoða innskráningar
+quickactions-cmd-logins = innskráningar, lykilorð
+# Opens the print dialog
+quickactions-print = Prenta
+quickactions-cmd-print = prenta
+# Opens a new private browsing window
+quickactions-private = Opna huliðsglugga
+quickactions-cmd-private = huliðsvafur
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Endurlesa { -brand-short-name }
+# Restarts the browser
 quickactions-restart = Endurræsa { -brand-short-name }
+# Opens about:preferences
+quickactions-settings = Opna stillingar
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Uppfæra { -brand-short-name }
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Skoða frumkóða
 
 ## Bookmark Panel
 
@@ -849,3 +877,6 @@ data-reporting-notification-button =
     .accesskey = V
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Huliðsvafur
+
+## Unified extensions (toolbar) button
+
