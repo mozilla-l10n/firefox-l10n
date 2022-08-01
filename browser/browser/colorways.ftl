@@ -21,4 +21,6 @@ visionary-colorway-description = Stajeće status quo do prašenja a pohnuwaće d
 activist-colorway-name = Aktiwist
 activist-colorway-description = Zawostajeće swět jako lěpše městno, hač sće jón namakał a wjedźeće druhich k wěrje.
 dreamer-colorway-name = Sonjer
+dreamer-colorway-description = Wěriće, zo zbožo zmužiteho preferuje a inspirujeće druhich, zo bychu zmužići byli.
 innovator-colorway-name = Inowator
+innovator-colorway-description = Widźiće wšudźe šansy a wuskutkujeće so na žiwjenja wšěch wokoło was.
