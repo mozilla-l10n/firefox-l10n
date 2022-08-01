@@ -281,6 +281,7 @@ quickactions-downloads = Opna sóttar skrár
 quickactions-cmd-downloads = sóttar skrár
 # Opens the devtools web inspector
 quickactions-inspector = Opna Inspector
+quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins = Skoða innskráningar
 quickactions-cmd-logins = innskráningar, lykilorð
