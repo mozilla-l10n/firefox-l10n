@@ -262,16 +262,53 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Chronik löschen
-quickactions-print = Drucken
-quickactions-screenshot = Bildschirmfoto aufnehmen
-quickactions-settings = Einstellungen öffnen
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Add-ons anzeigen
+quickactions-cmd-addons = Add-ons, Erweiterungen, Themes
+# Opens the bookmarks library window
+quickactions-bookmarks = Lesezeichen anzeigen
+quickactions-cmd-bookmarks = Lesezeichen
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Chronik löschen
+quickactions-cmd-clearhistory = Chronik löschen
+# Opens about:downloads page
 quickactions-downloads = Downloads öffnen
-quickactions-viewsource = Quelltext anzeigen
+quickactions-cmd-downloads = Downloads
+# Opens the devtools web inspector
 quickactions-inspector = Inspektor öffnen
+quickactions-cmd-inspector = Inspektor, Entwicklertools
+# Opens about:logins
+quickactions-logins = Zugangsdaten anzeigen
+quickactions-cmd-logins = Zugangsdaten, Logins, Anmeldungen, Passwörter
+# Opens the print dialog
+quickactions-print = Drucken
+quickactions-cmd-print = Drucken
+# Opens a new private browsing window
+quickactions-private = Privates Browserfenster öffnen
+quickactions-cmd-private = Privater Modus
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } bereinigen
+quickactions-cmd-refresh = Aktualisieren
+# Restarts the browser
 quickactions-restart = { -brand-short-name } neu starten
+quickactions-cmd-restart = Neu starten
+# Opens the screenshot tool
+quickactions-screenshot2 = Bildschirmfoto aufnehmen
+quickactions-cmd-screenshot = Bildschirmfoto
+# Opens about:preferences
+quickactions-settings = Einstellungen öffnen
+quickactions-cmd-settings = Einstellungen, Präferenzen, Optionen
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } aktualisieren
+quickactions-cmd-update = Aktualisieren
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Quelltext anzeigen
+quickactions-cmd-viewsource = Quelltext anzeigen, Quelltext
 
 ## Bookmark Panel
 
@@ -846,3 +883,6 @@ data-reporting-notification-button =
     .accesskey = f
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privater Modus
+
+## Unified extensions (toolbar) button
+
