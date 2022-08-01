@@ -296,11 +296,14 @@ theme-monochromatic-subheading = Lífleg ný litasett frá { -brand-product-name
 # Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Prófaðu litasettin
 colorway-collection-independent-voices-subheading = Láttu { -brand-short-name } vera aðeins meira eins og þú.
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Breyta litasetti
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = Rennur út { DATETIME($expiryDate, month: "long", day: "numeric") }
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Breyta litasetti
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+colorway-collection-expiry-label = Rennur út { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Virkt
 plugin-disabled-heading = Óvirkt
 dictionary-enabled-heading = Virkt

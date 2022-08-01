@@ -67,6 +67,7 @@ policy-Extensions = Setja upp, fjarlægja eða læsa fyrir viðbætur. Uppsetnin
 policy-ExtensionSettings = Stjórna öllum uppsetningarþáttum viðbóta.
 policy-ExtensionUpdate = Virkja eða slökkva á sjálfvirkri uppfærslu á viðbótum.
 policy-FirefoxHome = Stilla upphafssíðu Firefox.
+policy-FirefoxHome2 = Stilla { -firefox-home-brand-name }.
 policy-FlashPlugin = Leyfa eða hafna notkun Flash-tengiforritsins.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Þvinga beint innranetsflakk í stað þess að leita að stökum orðum sem sett eru inn í veffangastikuna.
 policy-Handlers = Stilla meðhöndlun með sjálfgefnum forritum.
