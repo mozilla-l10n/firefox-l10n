@@ -21,4 +21,6 @@ visionary-colorway-description = Stajaśo status quo do pšašanja a pógnuwaśo
 activist-colorway-name = Aktiwist
 activist-colorway-description = Zawóstajaśo swět ako lěpše městno, ako sćo jen namakał a wjeźośo druge k wěrje.
 dreamer-colorway-name = Cowaŕ
+dreamer-colorway-description = Wěriśo, až gluka skobodnego lěbgoźi a inspirěrujośo druge, aby skobodne byli.
 innovator-colorway-name = Inowator
+innovator-colorway-description = Wiźiśo wšuźi šanse a wustatkujośo se na žywjenja wšych wokoło was.
