@@ -601,6 +601,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Lesezeichen durchsuchen
 urlbar-result-action-search-history = Chronik durchsuchen
 urlbar-result-action-search-tabs = Tabs durchsuchen
+urlbar-result-action-search-actions = Aktionen durchsuchen
 
 ## Labels shown above groups of urlbar results
 
@@ -886,3 +887,6 @@ private-browsing-indicator-label = Privater Modus
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Erweiterungen
+    .tooltiptext = Erweiterungen
