@@ -292,14 +292,22 @@ quickactions-private = Opna huliðsglugga
 quickactions-cmd-private = huliðsvafur
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Endurlesa { -brand-short-name }
+quickactions-cmd-refresh = endurlesa
 # Restarts the browser
 quickactions-restart = Endurræsa { -brand-short-name }
+quickactions-cmd-restart = endurræsa
+# Opens the screenshot tool
+quickactions-screenshot2 = Taka skjámynd
+quickactions-cmd-screenshot = skjámynd
 # Opens about:preferences
 quickactions-settings = Opna stillingar
+quickactions-cmd-settings = stillingar, kjörstillingar, valkostir
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Uppfæra { -brand-short-name }
+quickactions-cmd-update = uppfærsla
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Skoða frumkóða
+quickactions-cmd-viewsource = skoða frumkóða, frumkóði
 
 ## Bookmark Panel
 
@@ -595,6 +603,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Leita í bókamerkjum
 urlbar-result-action-search-history = Leita í vafurferli
 urlbar-result-action-search-tabs = Leita í flipum
+urlbar-result-action-search-actions = Leitaraðgerðir
 
 ## Labels shown above groups of urlbar results
 
@@ -880,3 +889,6 @@ private-browsing-indicator-label = Huliðsvafur
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Forritsaukar
+    .tooltiptext = Forritsaukar
