@@ -156,7 +156,10 @@ temporary-override = Муваққатӣ
 
 ## Add Security Exception dialog
 
+add-exception-branded-warning = Шумо дар ҳоли иваз кардани рафтори { -brand-short-name } барои муайянкунии ин сомона қарор доред.
+add-exception-invalid-header = Ин сомона дар ҳоли муайянкунии худ ба воситаи маълумоти нодуруст қарор дорад.
 add-exception-domain-mismatch-short = Сомонаи нодуруст
+add-exception-domain-mismatch-long = Ин гувоҳинома ба сомонаи дигар тааллуқ дорад ва ин маънои онро дорад, ки касе мехоҳад ин сомонаро сохтакорӣ кунад.
 add-exception-expired-short = Маълумоти куҳна
 add-exception-unverified-or-bad-signature-short = Айнияти номаълум
 add-exception-valid-short = Гувоҳиномаи боэътимод
