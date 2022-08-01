@@ -15,6 +15,10 @@ dateformat-long =
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = Lyhyt: { $date }
+use-system-timezone-radio-button =
+    .label = Käytä järjestelmän aikavyöhykettä
+set-timezone-manually-radio-button =
+    .label = Aseta aikavyöhyke manuaalisesti
 timezone-label =
     .value = Aikavyöhyke:
 weekstart-label =
@@ -101,12 +105,6 @@ previous-weeks-label =
     .value = Näytä edellisiä viikkoja:
     .accesskey = d
 todaypane-legend = Tänään-ruutu
-# Note: "Upcoming" is the name of a section and the translation must match the
-# translation of that section name (calendar.upcoming.button.label). Also,
-# it should be upper case (as a proper name) if the target language permits.
-soon-label =
-    .value = Tulevat-osiossa näytetään:
-    .accesskey = u
 agenda-days =
     .value = Esityslista näyttää:
     .accesskey = s
