@@ -3,3 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 dns-not-found-title = Netþjónn fannst ekki
+dns-not-found-hint-try-again = Reyndu aftur síðar
+dns-not-found-hint-check-network = Athugað nettenginguna þína
