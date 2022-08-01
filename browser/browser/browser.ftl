@@ -269,14 +269,24 @@ search-one-offs-actions =
 
 # Opens the about:addons page
 quickactions-addons = Ver Extras
+quickactions-cmd-addons = extras, extensões, temas
+# Opens the bookmarks library window
+quickactions-bookmarks = Ver marcadores
+quickactions-cmd-bookmarks = marcadores
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Limpar histórico
 quickactions-cmd-clearhistory = limpar histórico
 # Opens about:downloads page
 quickactions-downloads = Abrir transferências
 quickactions-cmd-downloads = transferências
 # Opens the devtools web inspector
 quickactions-inspector = Abrir Inspetor
+quickactions-cmd-inspector = inspetor, devtools
+# Opens about:logins
+quickactions-logins = Ver credenciais
 # Opens the print dialog
 quickactions-print = Imprimir
+quickactions-cmd-print = imprimir
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Renovar o { -brand-short-name }
 # Restarts the browser
