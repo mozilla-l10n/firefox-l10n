@@ -288,8 +288,12 @@ quickactions-cmd-logins = tembiapo ñepyrũ, ñe’ẽñemi
 # Opens the print dialog
 quickactions-print = Mbokuatia
 quickactions-cmd-print = Mbokuatia
+# Opens a new private browsing window
+quickactions-private = Embojuruja ovetã kundaha ñemíme
+quickactions-cmd-private = kundaha ñemigua
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Eguerujey { -brand-short-name }
+quickactions-cmd-refresh = Mbopiro’y
 # Restarts the browser
 quickactions-restart = Emoñepyrũjey { -brand-short-name }
 quickactions-cmd-restart = Moñepyrũjey
@@ -298,10 +302,13 @@ quickactions-screenshot2 = Ejapo mba’erechaha japyhypy
 quickactions-cmd-screenshot = Ta’ãnga japyhy
 # Opens about:preferences
 quickactions-settings = Embojuruja ñemboheko
+quickactions-cmd-settings = moĩporã, guerohoryvéva, poravorã
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Embohekopyahu { -brand-short-name }
+quickactions-cmd-update = mbohekopyahu
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Ehecha ayvu reñoiha
+quickactions-cmd-viewsource = ehecha teñoiha, teñoiha
 
 ## Bookmark Panel
 
@@ -597,6 +604,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Eheka techaukahápe
 urlbar-result-action-search-history = Eheka tembiasakuépe
 urlbar-result-action-search-tabs = Eheka tendayke
+urlbar-result-action-search-actions = Eheka tembiaporã
 
 ## Labels shown above groups of urlbar results
 
@@ -882,3 +890,6 @@ private-browsing-indicator-label = Kundaha ñemigua
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Jepysokue
+    .tooltiptext = Jepysokuekuéra
