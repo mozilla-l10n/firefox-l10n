@@ -31,4 +31,17 @@ toolbox-meatball-menu-noautohide-label = Disattiva “nascondi automaticamente�
 toolbox-meatball-menu-pseudo-locale-accented = Attiva locale “accented”
 toolbox-meatball-menu-pseudo-locale-bidi = Attiva locale “bidi”
 
-##
+## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
+
+toolbox-mode-browser-toolbox-label = Modalità Cassetta degli attrezzi browser
+toolbox-mode-browser-console-label = Modalità Console del browser
+
+toolbox-mode-everything-label = Multiprocesso
+toolbox-mode-everything-sub-label = (più lenta)
+toolbox-mode-everything-container =
+  .title = Effettua il debug per tutti i processi
+
+toolbox-mode-parent-process-label = Solo processo parent
+toolbox-mode-parent-process-sub-label = (veloce)
+toolbox-mode-parent-process-container =
+  .title = Esamina solo le risorse dal processo parent.
