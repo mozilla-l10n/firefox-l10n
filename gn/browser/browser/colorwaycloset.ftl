@@ -8,6 +8,11 @@ colorway-collection-expiry-label = Hekopaháta { DATETIME($expiryDate, month: "l
 colorway-intensity-selector-label = Tekoatã
 colorway-intensity-soft = Kangy
 colorway-intensity-balanced = Tekopyta
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+colorway-intensity-bold = Mohũve
+# Label for the button to keep using the selected colorway in the browser
+colorway-closet-set-colorway-button = Emopyenda sa’y ojueheguáva
 colorway-closet-cancel-button = Heja
 colorway-homepage-reset-apply-button = Jejapopy
 colorway-homepage-reset-undo-button = Mboguevi
