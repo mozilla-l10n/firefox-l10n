@@ -163,6 +163,7 @@ add-exception-domain-mismatch-long = Ин гувоҳинома ба сомона
 add-exception-expired-short = Маълумоти куҳна
 add-exception-expired-long = Дар айни ҳол ин гувоҳинома эътибор надорад. Эҳтимол аст, ки он дуздӣ ё гум карда шудааст ва метавонад барои сохтакорӣ кардани ин сомона бо касе дигар истифода шавад.
 add-exception-unverified-or-bad-signature-short = Айнияти номаълум
+add-exception-unverified-or-bad-signature-long = Гувоҳинома эътимд надорад, зеро ки он ба тавре ки аз ҷониби мақомоти боэътимод бо истифодаи имзои амният бароварда шудааст, тасдиқ нашудааст.
 add-exception-valid-short = Гувоҳиномаи боэътимод
 add-exception-valid-long = Ин сомона тарзи муайянкунии тасдиқшуда ва дурустро пешниҳод мекунад.  Барои илова кардани истисно лозим наомад.
 add-exception-checking-short = Дар ҳоли тафтиши маълумот

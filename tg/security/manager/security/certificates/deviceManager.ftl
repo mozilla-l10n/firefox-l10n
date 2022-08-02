@@ -86,6 +86,8 @@ devinfo-label =
     .label = Барчасп
 devinfo-serialnum =
     .label = Рақами силсилавӣ
+fips-nonempty-primary-password-required = Реҷаи «FIPS» талаб мекунад, ки шумо барои ҳар як дастгоҳи амният ниҳонвожаи асосиро танзим кунед. Лутфан, пеш аз кӯшиши фаъолсозии реҷаи «FIPS», ниҳонвожаро танзим намоед.
+unable-to-toggle-fips = Реҷаи «FIPS» барои дастгоҳи амният иваз карда намешавад. Тавсия дода мешавад, ки шумо ин барномаро хомӯш карда, аз нав оғоз кунед.
 load-pk11-module-file-picker-title = Драйвери дастгоҳи PKCS#11-ро барои боркунӣ интихоб намоед
 # Load Module Dialog
 load-module-help-empty-module-name =
