@@ -289,14 +289,22 @@ quickactions-print = Imprimir
 quickactions-cmd-print = imprimir
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Renovar o { -brand-short-name }
+quickactions-cmd-refresh = atualizar
 # Restarts the browser
 quickactions-restart = Reiniciar o { -brand-short-name }
+quickactions-cmd-restart = reiniciar
+# Opens the screenshot tool
+quickactions-screenshot2 = Tirar uma captura de ecrã
+quickactions-cmd-screenshot = captura de ecrã
 # Opens about:preferences
 quickactions-settings = Abrir Definições
+quickactions-cmd-settings = configurações, preferências, opções
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Atualizar o { -brand-short-name }
+quickactions-cmd-update = atualizar
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Ver fonte
+quickactions-cmd-viewsource = ver fonte, fonte
 
 ## Bookmark Panel
 
@@ -877,3 +885,6 @@ private-browsing-indicator-label = Navegação privada
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Extensões
+    .tooltiptext = Extensões
