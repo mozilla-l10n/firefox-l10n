@@ -883,3 +883,6 @@ private-browsing-indicator-label = Жекелік шолу
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Кеңейтулер
+    .tooltiptext = Кеңейтулер
