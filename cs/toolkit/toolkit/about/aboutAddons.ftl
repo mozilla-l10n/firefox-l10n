@@ -337,10 +337,16 @@ theme-monochromatic-subheading =
         [neuter] { -brand-product-name(case: "acc") }
        *[other] aplikaci { -brand-product-name }
     } dostupné po omezenou dobu.
+# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Vyzkoušet palety barev
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = Platnost vyprší { DATETIME($expiryDate, month: "long", day: "numeric") }
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Změnit paletu barev
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+colorway-collection-expiry-label = Platnost vyprší { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Povolené moduly
 plugin-disabled-heading = Zakázané moduly
 dictionary-enabled-heading = Povolené slovníky
@@ -473,6 +479,7 @@ details-notification-incompatible =
         [neuter] Doplněk { $name } není s { -brand-short-name(case: "ins") } { $version } kompatibilní.
        *[other] Doplněk { $name } není s aplikací { -brand-short-name } { $version } kompatibilní.
     }
+details-notification-incompatible-link = Více informací
 details-notification-unsigned-and-disabled =
     { -brand-short-name.gender ->
         [masculine] Doplněk { $name } nemohl být pro použití ve { -brand-short-name(case: "loc") } ověřen a byl zakázán.
