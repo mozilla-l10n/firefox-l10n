@@ -119,7 +119,6 @@
         [ins] Firefoxem Focus
     }
     .gender = masculine
-
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-suggest-brand-name =
@@ -158,5 +157,45 @@
             { $capitalization ->
                *[upper] Návrhy od Firefoxu
                 [lower] návrhy od Firefoxu
+            }
+    }
+# ”Home" can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefox-home-brand-name =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Domovská stránka Firefoxu
+                [lower] domovská stránka Firefoxu
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Domovské stránky Firefoxu
+                [lower] domovské stránky Firefoxu
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Domovské stránce Firefoxu
+                [lower] domovské stránce Firefoxu
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Domovskou stránku Firefoxu
+                [lower] domovskou stránku Firefoxu
+            }
+        [voc]
+            { $capitalization ->
+               *[upper] Domovská stránko Firefoxu
+                [lower] domovská stránko Firefoxu
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Domovské stránce Firefoxu
+                [lower] domovské stránce Firefoxu
+            }
+        [ins]
+            { $capitalization ->
+               *[upper] Domovskou stránkou Firefoxu
+                [lower] domovskou stránkou Firefoxu
             }
     }
