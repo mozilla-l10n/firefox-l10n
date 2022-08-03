@@ -177,6 +177,7 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = Réglage conçu pour examiner les bugs réseau dans { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Réseau
+profiler-popup-presets-power-description = Réglage conçu pour examiner les bugs liés à la consommation d’énergie dans { -brand-shorter-name }, avec une surcharge faible.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Énergie
