@@ -190,6 +190,8 @@ downloads-files-not-downloaded =
         [few] Tha { $num } faidhlichean gun luchdadh a-nuas.
        *[other] Tha { $num } faidhle gun luchdadh a-nuas.
     }
+downloads-blocked-from-url = Tha luchdadh a-nuas o { $url } air a bhachadh.
+downloads-blocked-download-detailed-info = Rinn { $url } oidhirp iomadh faidhle a luchdadh a-nuas. Dh’fhaoidte gu bheil an làrach seo briste no a’ feuchainn ri faidhlichean spama a chur air an uidheam agad.
 
 ##
 
@@ -203,3 +205,14 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Cha deach dad a luchdadh a-nuas san t-seisean seo.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] Tha { $count } fhaidhle eile ga luchdadh a-nuas
+        [two] Tha { $count } fhaidhle eile ga luchdadh a-nuas
+        [few] Tha { $count } faidhlichean eile gan luchdadh a-nuas
+       *[other] Tha { $count } faidhle eile gan luchdadh a-nuas
+    }
