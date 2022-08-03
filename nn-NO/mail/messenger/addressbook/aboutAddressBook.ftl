@@ -36,6 +36,8 @@ about-addressbook-books-context-delete =
     .label = Slett
 about-addressbook-books-context-remove =
     .label = Fjern
+about-addressbook-books-context-startup-default =
+    .label = Standard startmappe
 about-addressbook-confirm-delete-book-title = Slett adressebok
 about-addressbook-confirm-remove-remote-book-title = Fjern adressebok
 # Variables:

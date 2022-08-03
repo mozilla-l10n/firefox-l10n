@@ -4,6 +4,7 @@
 
 close-button =
     .aria-label = Lat att
+preferences-doc-title2 = Innstillingar
 category-list =
     .aria-label = kategoriar
 pane-general-title = Generelt
@@ -83,6 +84,7 @@ update-in-progress-ok-button = &Avvis
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortset
 account-button = Kontoinnstillingar
+open-addons-sidebar-button = Tillegg og tema
 
 ## OS Authentication dialog
 
@@ -113,6 +115,9 @@ restore-default-label =
     .label = Bruk standard
     .accesskey = u
 default-search-engine = Standard søkjemotor
+add-web-search-engine =
+    .label = Legg til…
+    .accesskey = L
 remove-search-engine =
     .label = Fjern
     .accesskey = e
