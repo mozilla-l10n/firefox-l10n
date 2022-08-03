@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 dns-not-found-title = Fann ikkje serveren
+dns-not-found-hint-try-again = Prøv igjen seinare

@@ -7,6 +7,9 @@
 colorway-collection-expiry-label = Går ut { DATETIME($expiryDate, month: "long", day: "numeric") }
 colorway-intensity-soft = Mjuk
 colorway-intensity-balanced = Balansert
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+colorway-intensity-bold = Halvfeit
 # Label for the button to keep using the selected colorway in the browser
 colorway-closet-set-colorway-button = Vel fargesamansetjing
 colorway-closet-cancel-button = Avbryt
