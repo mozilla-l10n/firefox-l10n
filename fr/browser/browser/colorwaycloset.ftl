@@ -14,5 +14,7 @@ colorway-intensity-bold = Soutenue
 # Label for the button to keep using the selected colorway in the browser
 colorway-closet-set-colorway-button = Choisir ce coloris
 colorway-closet-cancel-button = Annuler
+colorway-homepage-reset-prompt = Faites de la { -firefox-home-brand-name } votre page d’accueil colorée
+colorway-homepage-reset-success-message = La { -firefox-home-brand-name } est désormais votre page d’accueil
 colorway-homepage-reset-apply-button = Appliquer
 colorway-homepage-reset-undo-button = Annuler
