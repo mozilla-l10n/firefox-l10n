@@ -518,6 +518,7 @@ choose-bookmark =
 home-prefs-content-header = Inhalte des Firefox-Startbildschirms
 home-prefs-content-description = Wählen Sie, welche Inhalte auf Ihrem Firefox-Startbildschirm angezeigt werden sollen.
 home-prefs-content-header2 = { -firefox-home-brand-name }-Inhalte
+home-prefs-content-description2 = Wählen Sie, welche Inhalte auf Ihrem { -firefox-home-brand-name }-Bildschirm angezeigt werden sollen.
 home-prefs-search-header =
     .label = Internetsuche
 home-prefs-shortcuts-header =
