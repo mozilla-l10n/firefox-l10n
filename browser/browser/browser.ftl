@@ -514,6 +514,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Zadejte hledaný výraz
     .aria-label = Hledat v otevřených panelech
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Zadejte hledané výrazy
+    .aria-label = Vyhledávání akcí
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -589,6 +593,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Hledat v záložkách
 urlbar-result-action-search-history = Hledat v historii
 urlbar-result-action-search-tabs = Najít panel
+urlbar-result-action-search-actions = Akce vyhledávání
 
 ## Labels shown above groups of urlbar results
 
