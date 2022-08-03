@@ -490,6 +490,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox-Startseite (Standard)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (Standard)
 home-mode-choice-custom =
     .label = Benutzerdefinierte Adressen…
 home-mode-choice-blank =
@@ -515,6 +517,7 @@ choose-bookmark =
 
 home-prefs-content-header = Inhalte des Firefox-Startbildschirms
 home-prefs-content-description = Wählen Sie, welche Inhalte auf Ihrem Firefox-Startbildschirm angezeigt werden sollen.
+home-prefs-content-header2 = { -firefox-home-brand-name }-Inhalte
 home-prefs-search-header =
     .label = Internetsuche
 home-prefs-shortcuts-header =
@@ -535,6 +538,8 @@ home-prefs-recommended-by-description-new = Besondere Inhalte ausgewählt von { 
 home-prefs-recommended-by-learn-more = Wie es funktioniert
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Gesponserte Inhalte
+home-prefs-recommended-by-option-recent-saves =
+    .label = Zuletzt hinzugefügte Einträge anzeigen
 home-prefs-highlights-option-visited-pages =
     .label = Besuchte Seiten
 home-prefs-highlights-options-bookmarks =
