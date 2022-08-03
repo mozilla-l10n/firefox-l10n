@@ -76,7 +76,7 @@ firefoxview-pickup-tabs-badge = Ultima attiva
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
-  .title = Apri { $targetURI } in una nuova sheda
+  .title = Apri { $targetURI } in una nuova scheda
 
 firefoxview-try-colorways-button = Prova nuove tonalità
 firefoxview-no-current-colorway-collection = Sono in arrivo nuove tonalità
