@@ -281,8 +281,10 @@ quickactions-downloads = Ouvrir les téléchargements
 quickactions-cmd-downloads = téléchargements
 # Opens the devtools web inspector
 quickactions-inspector = Ouvrir l’inspecteur
+quickactions-cmd-inspector = inspecteur, outils de développement
 # Opens about:logins
 quickactions-logins = Afficher les identifiants
+quickactions-cmd-logins = identifiants, mots de passe
 # Opens the print dialog
 quickactions-print = Imprimer
 quickactions-cmd-print = imprimer
@@ -306,6 +308,7 @@ quickactions-update = Mettre à jour { -brand-short-name }
 quickactions-cmd-update = mettre à jour
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Afficher la source
+quickactions-cmd-viewsource = afficher la source, source
 
 ## Bookmark Panel
 
@@ -601,6 +604,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Rechercher dans les marque-pages
 urlbar-result-action-search-history = Rechercher dans l’historique
 urlbar-result-action-search-tabs = Rechercher dans les onglets
+urlbar-result-action-search-actions = Actions de recherche
 
 ## Labels shown above groups of urlbar results
 
@@ -886,3 +890,6 @@ private-browsing-indicator-label = Navigation privée
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Extensions
+    .tooltiptext = Extensions
