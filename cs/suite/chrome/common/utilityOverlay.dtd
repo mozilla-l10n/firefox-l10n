@@ -155,6 +155,7 @@
 <!ENTITY aboutCommPluginsCmd.accesskey      "m">
 
 <!ENTITY aboutBuildConfigCmd.label          "Zobrazit konfiguraci sestavení">
+<!ENTITY aboutBuildConfigCmd.accesskey      "b">
 
 <!ENTITY direct.label                             "Online (proxy: žádná)">
 <!ENTITY direct.accesskey                         "d">
