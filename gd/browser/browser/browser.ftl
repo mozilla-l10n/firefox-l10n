@@ -299,6 +299,16 @@ quickactions-restart = Ath-thòisich { -brand-short-name }
 quickactions-cmd-restart = ath-thòisich
 # Opens the screenshot tool
 quickactions-screenshot2 = Tog glacadh-sgrìn
+quickactions-cmd-screenshot = glacadh-sgrìn
+# Opens about:preferences
+quickactions-settings = Fosgail na roghainnean
+quickactions-cmd-settings = roghainnean
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = Ùraich { -brand-short-name }
+quickactions-cmd-update = ùraich
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Seall am bun-tùs
+quickactions-cmd-viewsource = seall am bun-tùs
 
 ## Bookmark Panel
 
@@ -523,6 +533,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Cuir a-steach abairt-luirg
     .aria-label = Lorg sna tabaichean
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Cuir a-steach briathran-luirg
+    .aria-label = Gnìomhan luirg
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -598,6 +612,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Lorg sna comharran-lìn
 urlbar-result-action-search-history = Lorg san eachdraidh
 urlbar-result-action-search-tabs = Lorg sna tabaichean
+urlbar-result-action-search-actions = Gnìomhan luirg
 
 ## Labels shown above groups of urlbar results
 
@@ -611,6 +626,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Molaidhean { $engine }
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Grad-ghnìomhan
 
 ## Full Screen and Pointer Lock UI
 
@@ -875,6 +893,11 @@ data-reporting-notification-message = Cuiridh { -brand-short-name } beagan dàta
 data-reporting-notification-button =
     .label = Co-dhùin na thèid a cho-roinneadh
     .accesskey = C
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Brabhsadh prìobhaideach
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Leudachain
+    .tooltiptext = Leudachain
