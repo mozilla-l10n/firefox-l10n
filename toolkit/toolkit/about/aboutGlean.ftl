@@ -14,8 +14,8 @@ about-glean-warning =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     }.
-
 tag-pings-label = Označovat všechny odeslané pingy tímto štítkem
 log-pings-label = Zaznamenávat obsah pingu před odesláním do protokolu?
 send-pings-label = Poslat pojmenovaný ping
 controls-button-label = Nastavit
+controls-button-label-verbose = Použít nastavení a odeslat ping
