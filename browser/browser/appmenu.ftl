@@ -181,6 +181,10 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = Preset for investigating networking bugs in { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Networking
+profiler-popup-presets-power-description = Preset for investigating power use bugs in { -brand-shorter-name }, with low overhead.
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = Cumhachd
 profiler-popup-presets-custom-label =
     .label = Custom
 
