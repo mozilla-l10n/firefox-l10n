@@ -15,6 +15,10 @@ dateformat-long =
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = Krátký: { $date }
+use-system-timezone-radio-button =
+    .label = Použít časové pásmo podle systému
+set-timezone-manually-radio-button =
+    .label = Nastavit časové pásmo ručně
 timezone-label =
     .value = Časové pásmo:
 weekstart-label =
