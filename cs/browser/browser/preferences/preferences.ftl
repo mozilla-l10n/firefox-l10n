@@ -686,6 +686,8 @@ home-prefs-recommended-by-description-new = Výjimečný obsah vybraný společn
 home-prefs-recommended-by-learn-more = Jak to funguje
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponzorované články
+home-prefs-recommended-by-option-recent-saves =
+    .label = Zobrazit nedávno uložené
 home-prefs-highlights-option-visited-pages =
     .label = Navštívené stránky
 home-prefs-highlights-options-bookmarks =
@@ -1152,6 +1154,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Úplná ochrana před cookies omezuje cookies na web, na němž se nacházíte, aby vás sledující subjekty nemohly sledovat napříč stránkami.
 content-blocking-etp-standard-tcp-rollout-learn-more = Zjistit více
+content-blocking-etp-standard-tcp-title = Zahrnuje úplnou ochranu před cookies, naši nejsilnější funkci zaměřenou na soukromí
 content-blocking-warning-title = Pozor!
 content-blocking-and-isolating-etp-warning-description-2 = Toto nastavení může způsobit, že některé stránky nebudou fungovat správně. Pro řešení případných problémů můžete ochranu proti sledování na takových stránkách vypnout.
 content-blocking-warning-learn-how = Jak na to
