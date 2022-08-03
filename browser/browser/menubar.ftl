@@ -38,11 +38,9 @@ menu-quit =
             [windows] F
            *[other] F
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Fàg { -brand-shorter-name }
-
 menu-about =
     .label = Mu { -brand-shorter-name }
     .accesskey = M
@@ -72,6 +70,18 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Fosgail faidhle…
     .accesskey = o
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Dùin an taba
+            [one] Dùin { $tabCount } taba
+            [two] Dùin { $tabCount } thaba
+            [few] Dùin { $tabCount } tabaichean
+           *[other] Dùin { $tabCount } taba
+        }
+    .accesskey = D
 menu-file-close-window =
     .label = Dùin an uinneag
     .accesskey = D
@@ -80,6 +90,9 @@ menu-file-save-page =
     .accesskey = a
 menu-file-email-link =
     .label = Cuir an dealbh air a' phost-d…
+    .accesskey = C
+menu-file-share-url =
+    .label = Co-roinn
     .accesskey = C
 menu-file-print-setup =
     .label = Roghainnean na duilleige…
