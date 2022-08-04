@@ -262,16 +262,32 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Ачысціць гісторыю
-quickactions-print = Друкаваць
-quickactions-screenshot = Зрабіць здымак экрана
-quickactions-settings = Адкрыць налады
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+quickactions-cmd-bookmarks = закладкі
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Ачысціць гісторыю
+quickactions-cmd-clearhistory = ачысціць гісторыю
+# Opens about:downloads page
 quickactions-downloads = Адкрыць сцягванні
-quickactions-viewsource = Праглядзець зыходнік
+quickactions-cmd-downloads = сцягванні
+# Opens the devtools web inspector
 quickactions-inspector = Адкрыць інспектар
+# Opens the print dialog
+quickactions-print = Друкаваць
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Ачысціць { -brand-short-name }
+# Restarts the browser
 quickactions-restart = Перазапусціць { -brand-short-name }
+# Opens about:preferences
+quickactions-settings = Адкрыць налады
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Абнавіць { -brand-short-name }
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Праглядзець зыходнік
 
 ## Bookmark Panel
 
@@ -584,6 +600,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Прапановы { $engine }
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Хуткія дзеянні
 
 ## Full Screen and Pointer Lock UI
 
@@ -850,3 +869,6 @@ data-reporting-notification-button =
     .accesskey = В
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Прыватнае агляданне
+
+## Unified extensions (toolbar) button
+
