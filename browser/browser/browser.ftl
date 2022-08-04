@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Quản lý tiện ích mở rộng…
 page-action-remove-extension =
     .label = Xóa tiện ích mở rộng
+page-action-manage-extension2 =
+    .label = Quản lý tiện ích mở rộng…
+    .accesskey = E
+page-action-remove-extension2 =
+    .label = Xóa tiện ích mở rộng
+    .accesskey = v
 
 ## Auto-hide Context Menu
 
