@@ -77,6 +77,8 @@ about-debugging-refresh-usb-devices-button = Навкунии рӯйхати д�
 
 # Title of the Setup page.
 about-debugging-setup-title = Танзимот
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Усули пайвастшавиеро танзим кунед, ки шумо мехоҳед барои ислоҳ кардани хатоҳои дастгоҳи худ ба таври дурдаст истифода баред.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Дастгоҳеро пайваст намоед
 # USB section of the Setup page
