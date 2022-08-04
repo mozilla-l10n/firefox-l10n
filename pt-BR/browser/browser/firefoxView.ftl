@@ -40,3 +40,22 @@ firefoxview-tabpickup-network-offline-primarybutton = Tentar novamente
 firefoxview-tabpickup-sync-error-header = Há algum problema na sincronização
 firefoxview-tabpickup-sync-error-description = O { -brand-short-name } não pode acessar o serviço no momento. Tente novamente daqui a pouco.
 firefoxview-tabpickup-sync-error-primarybutton = Tentar novamente
+firefoxview-tabpickup-syncing = Aguarde a sincronização de abas. É rápido.
+firefoxview-mobile-promo-header = Abra abas do seu celular ou tablet
+firefoxview-mobile-promo-description = Para ver suas abas mais recentes do celular, entre na sua conta no { -brand-product-name } no iOS ou Android.
+firefoxview-mobile-promo-primarybutton = Instale o { -brand-product-name } para dispositivos móveis
+firefoxview-mobile-confirmation-header = 🎉 Pronto!
+firefoxview-mobile-confirmation-description = Agora você pode abrir suas abas do { -brand-product-name } do seu tablet ou celular.
+firefoxview-closed-tabs-title = Fechado recentemente
+firefoxview-closed-tabs-collapse-button =
+    .title = Exibir ou ocultar a lista de abas fechadas recentemente
+firefoxview-closed-tabs-description = Reabrir páginas que você fechou neste dispositivo.
+firefoxview-closed-tabs-placeholder = <strong>Nenhuma página fechada recentemente</strong><br/>Nunca mais tenha medo de perder uma aba fechada. Você sempre pode recuperar aqui.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Última ativa
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Abrir { $targetURI } em nova aba
+firefoxview-try-colorways-button = Experimentar esquemas de cores
+firefoxview-no-current-colorway-collection = Estão chegando novos esquemas de cores
