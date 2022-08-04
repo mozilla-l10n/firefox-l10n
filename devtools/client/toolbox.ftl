@@ -40,3 +40,5 @@ toolbox-mode-everything-container =
     .title = Wšykno we wšych procesach za zmólkami pśepytowaś
 toolbox-mode-parent-process-label = Jano nadrědowany proces
 toolbox-mode-parent-process-sub-label = (Malsny)
+toolbox-mode-parent-process-container =
+    .title = Jano fokus na resurse z nadrědowanego procesa.

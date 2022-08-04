@@ -32,6 +32,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $pro
 inactive-css-not-table = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njejo tabela.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> na toś ten element efekt njama, dokulaž se njekula.
 inactive-css-border-image = <strong>{ $property }</strong> njama wustatkowanje na toś ten element, dokulaž njedajo se na nutśikowne tabelowe elementy nałožyś, źož <strong>border-collapse</strong> jo na <strong>collapse</strong> na nadrědowanem elemenśe tabele stajony.
+inactive-css-ruby-element = <strong>{ $property }</strong> njama wustatkowanje na toś ten element, dokulaž jo element ruby. Jeje wjelikosć se pśez wjelikosć pisma teksta ruby póstaja.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -55,6 +56,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells-fix = Wopytajśo
 inactive-css-not-table-fix = Wopytajśo <strong>display:table</strong> abo <strong>display:inline-table</strong> pśidaś. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Wopytajśo, <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> abo <strong>overflow:hidden</strong> pśidaś. { learn-more }
 inactive-css-border-image-fix = Wótwónoźćo na nadrědowanem elemenśe tabele kakosć abo změńśo gódnotu kakosći <strong>border-collapse</strong> do gódnoty, kótaraž se wót <strong>collapse</strong> rozeznawa. { learn-more }
+inactive-css-ruby-element-fix = Wopytajśo <strong>font-size</strong> teksta ruby změniś. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
