@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Stiùirich an leudachan...
 page-action-remove-extension =
     .label = Thoir an leudachan air falbh
+page-action-manage-extension2 =
+    .label = Stiùirich an leudachan...
+    .accesskey = S
+page-action-remove-extension2 =
+    .label = Thoir an leudachan air falbh
+    .accesskey = T
 
 ## Auto-hide Context Menu
 
