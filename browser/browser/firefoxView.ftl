@@ -2,6 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-button-firefox-view =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = { -firefoxview-brand-name }
+menu-tools-firefox-view =
+    .label = { -firefoxview-brand-name }
+    .accesskey = F
+firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-close-button =
+    .title = Fermer
+    .aria-label = Fermer
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = À l’instant
 firefoxview-tabpickup-description = Ouvrez des pages à partir d’autres appareils.
@@ -12,4 +22,17 @@ firefoxview-tabpickup-synctabs-header = Activez la synchronisation des onglets
 firefoxview-tabpickup-synctabs-primarybutton = Synchroniser les onglets ouverts
 firefoxview-tabpickup-network-offline-header = Vérifiez votre connexion à Internet
 firefoxview-tabpickup-network-offline-primarybutton = Réessayer
+firefoxview-tabpickup-sync-error-primarybutton = Réessayer
 firefoxview-closed-tabs-title = Récemment fermés
+firefoxview-closed-tabs-description = Rouvrez des pages que vous avez fermées sur cet appareil.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Dernier onglet actif
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Ouvrir { $targetURI } dans un nouvel onglet
+firefoxview-try-colorways-button = Essayer les coloris
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
