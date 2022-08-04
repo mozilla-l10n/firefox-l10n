@@ -33,6 +33,14 @@ return-to-amo-add-theme-label = 安裝佈景主題
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = 開始使用: 第 { $current } 畫面，全部共 { $total } 畫面
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
+onboarding-welcome-steps-indicator2 =
+    .aria-valuetext = 進度：第 { $current } 步，共 { $total } 步
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
