@@ -34,3 +34,18 @@ firefoxview-tabpickup-network-offline-primarybutton = Hišće raz spytać
 firefoxview-tabpickup-sync-error-header = Mamy problemy ze synchronizaciju
 firefoxview-tabpickup-sync-error-primarybutton = Hišće raz spytać
 firefoxview-mobile-promo-primarybutton = { -brand-product-name } za mobilny grat wobstarać
+firefoxview-mobile-confirmation-header = 🎉 Wšitko hotowe!
+firefoxview-closed-tabs-title = Njedawno začinjene
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Posledni raz aktiwny
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = { $targetURI } w nowym rajtarku wočinić
+firefoxview-try-colorways-button = Barbowe kombinacije wupruwować
+firefoxview-no-current-colorway-collection = Nowe barbowe kombinacije so přihotuja
+firefoxview-change-colorway-button = Barbowu kombinaciju změnić
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
