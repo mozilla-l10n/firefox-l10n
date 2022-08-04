@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Rozšěrjenje rjadować…
 page-action-remove-extension =
     .label = Rozšěrjenje wotstronić
+page-action-manage-extension2 =
+    .label = Rozšěrjenje rjadować…
+    .accesskey = R
+page-action-remove-extension2 =
+    .label = Rozšěrjenje wotstronić
+    .accesskey = s
 
 ## Auto-hide Context Menu
 
