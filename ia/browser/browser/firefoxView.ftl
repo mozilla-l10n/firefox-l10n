@@ -41,3 +41,7 @@ firefoxview-tabpickup-sync-error-header = Nos ha difficultates pro le synchronis
 firefoxview-tabpickup-sync-error-description = { -brand-short-name } non pote attinger le servicio al momento.
 firefoxview-tabpickup-sync-error-primarybutton = Retenta
 firefoxview-tabpickup-syncing = Sta sedite dum tu schedas se synchronisa. Il essera solo un momento.
+firefoxview-mobile-promo-header = Accede al schedas aperte ab tu telephono o tabletta
+firefoxview-mobile-promo-primarybutton = Installa { -brand-product-name } pro mobile
+firefoxview-mobile-confirmation-header = 🎉 Bon a ir!
+firefoxview-closed-tabs-title = Recentemente claudite
