@@ -39,3 +39,4 @@ toolbox-mode-everything-sub-label = (Pomałšy)
 toolbox-mode-everything-container =
     .title = Wšykno we wšych procesach za zmólkami pśepytowaś
 toolbox-mode-parent-process-label = Jano nadrědowany proces
+toolbox-mode-parent-process-sub-label = (Malsny)
