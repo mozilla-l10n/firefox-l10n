@@ -21,3 +21,15 @@ firefoxview-tabpickup-recenttabs-description = 최근 탭 목록이 여기에 �
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% 완료
+firefoxview-tabpickup-step-signin-header = 기기 간 원활한 전환
+firefoxview-tabpickup-step-signin-description = 여기에서 휴대폰 탭을 보려면, 먼저 로그인하거나 계정을 만드세요.
+firefoxview-tabpickup-step-signin-primarybutton = 계속
+firefoxview-tabpickup-adddevice-header = 휴대폰 또는 태블릿에서 { -brand-product-name } 동기화
+firefoxview-tabpickup-adddevice-description = 모바일용 { -brand-product-name }를 다운로드하고 로그인하세요.
+firefoxview-tabpickup-adddevice-learn-how = 방법 알아보기
+firefoxview-tabpickup-adddevice-primarybutton = 모바일용 { -brand-product-name } 받기
+firefoxview-tabpickup-synctabs-header = 탭 동기화 켜기
+firefoxview-tabpickup-synctabs-learn-how = 방법 알아보기
+firefoxview-tabpickup-synctabs-primarybutton = 열린 탭 동기화
+firefoxview-tabpickup-network-offline-primarybutton = 다시 시도
+firefoxview-tabpickup-sync-error-primarybutton = 다시 시도
