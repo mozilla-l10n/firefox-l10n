@@ -12,5 +12,7 @@ firefoxview-page-title = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Clauder
     .aria-label = Clauder
+# Used instead of the localized relative time when a timestamp is within a minute or so of now
+firefoxview-just-now-timestamp = Justo ora
 firefoxview-tabpickup-network-offline-primarybutton = Retenta
 firefoxview-tabpickup-sync-error-primarybutton = Retenta
