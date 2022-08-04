@@ -64,3 +64,4 @@ firefoxview-change-colorway-button = Barbowu kombinaciju změnić
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Hišće ničo widźeć njeje</strong><br/>Přichodny raz, hdyž stronu w { -brand-product-name } na druhim graće wočinjeće, wobstarajće ju tu na magiske wašnje.
