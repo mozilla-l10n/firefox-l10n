@@ -33,6 +33,7 @@ firefoxview-tabpickup-synctabs-description = 允許 { -brand-short-name } 在不
 firefoxview-tabpickup-synctabs-learn-how = 了解要怎麼做
 firefoxview-tabpickup-synctabs-primarybutton = 同步開啟的分頁
 firefoxview-tabpickup-fxa-admin-disabled-header = 您的組織已停用同步功能
+firefoxview-tabpickup-fxa-admin-disabled-description = 由於您的管理員已停用同步功能，{ -brand-short-name } 無法在裝置間同步分頁。
 firefoxview-tabpickup-network-offline-header = 請檢查您的網際網路連線是否正常
 firefoxview-tabpickup-network-offline-description = 若您在防火牆或代理伺服器後面，請確認 { -brand-short-name } 可連線至網際網路。
 firefoxview-tabpickup-network-offline-primarybutton = 重試
@@ -49,6 +50,7 @@ firefoxview-closed-tabs-title = 最近關閉的分頁
 firefoxview-closed-tabs-collapse-button =
     .title = 顯示或隱藏最近關閉的分頁清單
 firefoxview-closed-tabs-description = 重新開啟您在此裝置關閉的分頁。
+firefoxview-closed-tabs-placeholder = <strong>沒有最近關閉的頁面</strong><br/>免擔心遺失關閉的分頁，可隨時在此重新取回。
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = 最後開啟
 # Variables:
@@ -62,3 +64,4 @@ firefoxview-change-colorway-button = 更改配色
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>尚無資料</strong><br/>下次您在其他裝置上的 { -brand-product-name } 開啟頁面時，也可以在此同步開啟。
