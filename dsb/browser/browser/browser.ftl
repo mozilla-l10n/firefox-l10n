@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Rozšyrjenje zastojaś…
 page-action-remove-extension =
     .label = Rozšyrjenje wótwónoźeś
+page-action-manage-extension2 =
+    .label = Rozšyrjenje zastojaś…
+    .accesskey = R
+page-action-remove-extension2 =
+    .label = Rozšyrjenje wótwónoźeś
+    .accesskey = t
 
 ## Auto-hide Context Menu
 
