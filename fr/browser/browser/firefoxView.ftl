@@ -14,11 +14,18 @@ firefoxview-close-button =
     .aria-label = Fermer
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = À l’instant
+# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
+firefoxview-tabpickup-header = Récupérer des onglets
 firefoxview-tabpickup-description = Ouvrez des pages à partir d’autres appareils.
+# Variables:
+#  $percentValue (Number): the percentage value for setup completion
+firefoxview-tabpickup-progress-label = Terminé à { $percentValue } %
 firefoxview-tabpickup-step-signin-header = Passez facilement d’un appareil à l’autre
 firefoxview-tabpickup-step-signin-primarybutton = Continuer
 firefoxview-tabpickup-adddevice-learn-how = Découvrez comment
 firefoxview-tabpickup-synctabs-header = Activez la synchronisation des onglets
+firefoxview-tabpickup-synctabs-description = Autorisez { -brand-short-name } à partager les onglets entre vos appareils.
+firefoxview-tabpickup-synctabs-learn-how = Me montrer comment faire
 firefoxview-tabpickup-synctabs-primarybutton = Synchroniser les onglets ouverts
 firefoxview-tabpickup-network-offline-header = Vérifiez votre connexion à Internet
 firefoxview-tabpickup-network-offline-primarybutton = Réessayer
