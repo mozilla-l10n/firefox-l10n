@@ -341,12 +341,12 @@ theme-monochromatic-subheading =
 theme-colorways-button = Vyzkoušet palety barev
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
-colorway-collection-expiry-date-span = Platnost vyprší { DATETIME($expiryDate, month: "long", day: "numeric") }
+colorway-collection-expiry-date-span = Skončí { DATETIME($expiryDate, month: "long", day: "numeric") }
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = Změnit paletu barev
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = Platnost vyprší { DATETIME($expiryDate, month: "long", day: "numeric") }
+colorway-collection-expiry-label = Skončí { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Povolené moduly
 plugin-disabled-heading = Zakázané moduly
 dictionary-enabled-heading = Povolené slovníky
