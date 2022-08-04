@@ -14,12 +14,19 @@ firefoxview-close-button =
     .aria-label = Clauder
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Justo ora
+firefoxview-tabpickup-description = Aperi paginas ab altere apparatos.
+# Variables:
+#  $percentValue (Number): the percentage value for setup completion
+firefoxview-tabpickup-progress-label = { $percentValue }% complete
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
 firefoxview-tabpickup-adddevice-header = Synchronisa { -brand-product-name } sur tu telephono e tu tabletta
 firefoxview-tabpickup-adddevice-learn-how = Apprende como
 firefoxview-tabpickup-adddevice-primarybutton = Installa { -brand-product-name } pro mobile
 firefoxview-tabpickup-synctabs-header = Activar synchronisation schedas
+firefoxview-tabpickup-synctabs-description = Permitte a { -brand-short-name } de compartir schedas inter apparatos.
 firefoxview-tabpickup-synctabs-learn-how = Apprende como
 firefoxview-tabpickup-synctabs-primarybutton = Synchronisar le schedas aperte
+firefoxview-tabpickup-fxa-admin-disabled-header = Tu organisation ha disactivate le synchronisation
+firefoxview-tabpickup-network-offline-header = Controla tu connexion a internet
 firefoxview-tabpickup-network-offline-primarybutton = Retenta
 firefoxview-tabpickup-sync-error-primarybutton = Retenta
