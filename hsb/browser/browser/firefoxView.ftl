@@ -17,7 +17,7 @@ firefoxview-just-now-timestamp = Runje
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = Synchronizowane rajtarki
 firefoxview-tabpickup-description = Wočińće strony z druhich gratow.
-firefoxview-tabpickup-recenttabs-description = How so lisćina najnowšich rajtarkow pokaza
+firefoxview-tabpickup-recenttabs-description = Tu so lisćina najnowšich rajtarkow pokaza
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue } % dokónčene
