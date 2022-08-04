@@ -15,6 +15,34 @@ pictureinpicture-unpip =
     .aria-label = Senda aftur á flipa
 pictureinpicture-close =
     .aria-label = Loka
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-pause-cmd =
+    .aria-label = Setja í bið
+    .title = Setja í bið (bilslá)
+pictureinpicture-play-cmd =
+    .aria-label = Spila
+    .title = Spila (bilslá)
+pictureinpicture-mute-cmd =
+    .aria-label = Þagga
+    .title = Þagga ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = Hljóð á
+    .title = Hljóð á ({ $shortcut })
+pictureinpicture-unpip-cmd =
+    .aria-label = Senda aftur á flipa
+    .title = Aftur á flipa
+pictureinpicture-close-cmd =
+    .aria-label = Loka
+    .title = Loka ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = Skjátextar
+    .title = Skjátextar
+
+##
+
 pictureinpicture-subtitles-label = Skjátextar
 pictureinpicture-font-size-label = Leturstærð
 pictureinpicture-font-size-small = Lítil

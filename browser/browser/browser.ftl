@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Sýsla með viðbót…
 page-action-remove-extension =
     .label = Fjarlægja viðbót
+page-action-manage-extension2 =
+    .label = Sýsla með viðbót…
+    .accesskey = e
+page-action-remove-extension2 =
+    .label = Fjarlægja viðbót
+    .accesskey = F
 
 ## Auto-hide Context Menu
 
