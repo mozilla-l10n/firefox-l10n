@@ -15,6 +15,34 @@ pictureinpicture-unpip =
     .aria-label = חזרה ללשונית
 pictureinpicture-close =
     .aria-label = סגירה
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-pause-cmd =
+    .aria-label = השהייה
+    .title = השהייה (מקש הרווח)
+pictureinpicture-play-cmd =
+    .aria-label = ניגון
+    .title = ניגון (מקש הרווח)
+pictureinpicture-mute-cmd =
+    .aria-label = השתקה
+    .title = השתקה ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = ביטול השתקה
+    .title = ביטול השתקה ({ $shortcut })
+pictureinpicture-unpip-cmd =
+    .aria-label = חזרה ללשונית
+    .title = חזרה ללשונית
+pictureinpicture-close-cmd =
+    .aria-label = סגירה
+    .title = סגירה ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = כתוביות
+    .title = כתוביות
+
+##
+
 pictureinpicture-subtitles-label = כתוביות
 pictureinpicture-font-size-label = גודל גופן
 pictureinpicture-font-size-small = קטן
