@@ -4,7 +4,7 @@
 
 pictureinpicture-player-title = 화면 속 화면
 pictureinpicture-pause =
-    .aria-label = 정지
+    .aria-label = 일시 정지
 pictureinpicture-play =
     .aria-label = 재생
 pictureinpicture-mute =
@@ -15,6 +15,34 @@ pictureinpicture-unpip =
     .aria-label = 탭으로 다시 보내기
 pictureinpicture-close =
     .aria-label = 닫기
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-pause-cmd =
+    .aria-label = 일시 정지
+    .title = 일시 정지 (스페이스바)
+pictureinpicture-play-cmd =
+    .aria-label = 재생
+    .title = 재생 (스페이스바)
+pictureinpicture-mute-cmd =
+    .aria-label = 음소거
+    .title = 음소거 ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = 음소거 해제
+    .title = 음소거 해제 ({ $shortcut })
+pictureinpicture-unpip-cmd =
+    .aria-label = 탭으로 다시 보내기
+    .title = 다시 탭으로
+pictureinpicture-close-cmd =
+    .aria-label = 닫기
+    .title = 닫기 ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = 자막
+    .title = 자막
+
+##
+
 pictureinpicture-subtitles-label = 자막
 pictureinpicture-font-size-label = 글꼴 크기
 pictureinpicture-font-size-small = 작게
