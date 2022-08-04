@@ -27,3 +27,7 @@ firefoxview-tabpickup-step-signin-primarybutton = განაგრძეთ
 firefoxview-tabpickup-adddevice-header = დაასინქრონეთ { -brand-product-name } თქვენს ტელეფონსა და პლანშეტზე
 firefoxview-tabpickup-adddevice-description = ჩამოტვირთეთ { -brand-product-name } მობილურზე და იქიდანაც შედით.
 firefoxview-tabpickup-adddevice-learn-how = იხილეთ, როგორ
+firefoxview-tabpickup-adddevice-primarybutton = გადმოწერეთ { -brand-product-name } მობილურზე
+firefoxview-tabpickup-synctabs-header = ჩანართთა დასინქრონების ჩართვა
+firefoxview-tabpickup-synctabs-description = საჭიროა ნებართვა, რომ { -brand-short-name } შეძლებს ჩანართების გაზიარებას.
+firefoxview-tabpickup-synctabs-learn-how = იხილეთ, როგორ
