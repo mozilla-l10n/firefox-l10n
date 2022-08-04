@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Administrar extensión…
 page-action-remove-extension =
     .label = Eliminar la extensión
+page-action-manage-extension2 =
+    .label = Administrar el complemento...
+    .accesskey = E
+page-action-remove-extension2 =
+    .label = Eliminar el complemento
+    .accesskey = v
 
 ## Auto-hide Context Menu
 
