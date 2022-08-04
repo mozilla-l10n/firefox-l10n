@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Kiegészítő kezelése…
 page-action-remove-extension =
     .label = Kiegészítő eltávolítása
+page-action-manage-extension2 =
+    .label = Kiegészítő kezelése…
+    .accesskey = K
+page-action-remove-extension2 =
+    .label = Kiegészítő eltávolítása
+    .accesskey = e
 
 ## Auto-hide Context Menu
 
