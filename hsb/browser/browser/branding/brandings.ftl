@@ -37,4 +37,4 @@
 -firefox-home-brand-name = Startowa strona Firefox
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
--firefoxview-brand-name = Firefox View
+-firefoxview-brand-name = Firefox přehlad
