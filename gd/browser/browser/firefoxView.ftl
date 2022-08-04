@@ -29,3 +29,32 @@ firefoxview-tabpickup-adddevice-description = Luchdaich a-nuas { -brand-product-
 firefoxview-tabpickup-adddevice-learn-how = Barrachd fiosrachaidh
 firefoxview-tabpickup-adddevice-primarybutton = Faigh { -brand-product-name } mobile
 firefoxview-tabpickup-synctabs-header = Cuir sioncronachadh nan tabaichean air
+firefoxview-tabpickup-synctabs-description = Leig le { -brand-short-name } na tabaichean a nochdadh air diofar uidheaman.
+firefoxview-tabpickup-synctabs-learn-how = Barrachd fiosrachaidh
+firefoxview-tabpickup-synctabs-primarybutton = Sioncronaich na tabaichean fosgailte
+firefoxview-tabpickup-fxa-admin-disabled-header = Chuir am buidheann agad an sioncronachadh à comas
+firefoxview-tabpickup-fxa-admin-disabled-description = Chan urrainn dha { -brand-short-name } na tabaichean a shioncronachadh eadar uidheaman a chionn ’s gun do chuir an rianaire agad sioncronachadh à comas.
+firefoxview-tabpickup-network-offline-header = Thoir sùil air a’ cheangal agad ris an eadar-lìon
+firefoxview-tabpickup-network-offline-description = Ma tha thu a’ cleachdadh cachaileith-theine no progsaidh, dèan cinnteach gu bheil cead-inntrigidh aig { -brand-short-name } dhan lìon.
+firefoxview-tabpickup-network-offline-primarybutton = Feuch ris a-rithist
+firefoxview-tabpickup-sync-error-header = Tha duilgheadas againn leis an t-sioncronachadh
+firefoxview-tabpickup-sync-error-description = Cha ruig { -brand-short-name } an t-seirbheis an-dràsta fhèin. Feuch ris a-rithist ann am mionaid no dhà.
+firefoxview-tabpickup-sync-error-primarybutton = Feuch ris a-rithist
+firefoxview-tabpickup-syncing = Fuirich ort fhad ’s a shioncronaicheas sinn na tabaichean agad. Cha bhi sinn ach tiotan beag.
+firefoxview-mobile-promo-header = Faigh greim air na tabaichean a th’ agad air fòn no tablaid
+firefoxview-mobile-promo-description = Airson na tabaichean fhaicinn a bh’ agad air uidheam mobile o chionn goirid, clàraich a-steach gu { -brand-product-name } air iOS no Android.
+firefoxview-mobile-promo-primarybutton = Faigh { -brand-product-name } mobile
+firefoxview-mobile-confirmation-header = 🎉 Deiseil uile gu lèir!
+firefoxview-mobile-confirmation-description = Gheibh thu greim air na tabaichean { -brand-product-name } a th’ agad air an tablaid no fòn.
+firefoxview-closed-tabs-title = Air an dùnadh o chionn goirid
+firefoxview-closed-tabs-collapse-button =
+    .title = Seall no falaich liosta nan tabaichean a dhùin thu o chionn goirid
+firefoxview-closed-tabs-description = Ath-fhosgail duilleagan a dhùin thu air an uidheam seo.
+firefoxview-closed-tabs-placeholder = <strong>Cha do dhùin thu duilleag o chionn goirid</strong><br/>Na bi eagal ort tuilleadh gun caill thu cothrom air taba a dhùin thu. Gheibh thu greim orra a-rithist an-seo.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Am fear gnìomhach mu dheireadh
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Fosgail { $targetURI } ann an taba ùr
+firefoxview-try-colorways-button = Feuch na sgeamannan dhathan
