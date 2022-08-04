@@ -15,6 +15,34 @@ pictureinpicture-unpip =
     .aria-label = K rajtarkej wróćo pósłać
 pictureinpicture-close =
     .aria-label = Začinić
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-pause-cmd =
+    .aria-label = Přestawka
+    .title = Přestawka (wobłukowa lajsta)
+pictureinpicture-play-cmd =
+    .aria-label = Wothrać
+    .title = Wothrać (wobłukowe lajsta)
+pictureinpicture-mute-cmd =
+    .aria-label = Bjez zynka
+    .title = Bjez zynka ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = Ze zynkom
+    .title = Ze zynkom ({ $shortcut })
+pictureinpicture-unpip-cmd =
+    .aria-label = K rajtarkej wróćo pósłać
+    .title = Wróćo k rajtarkej
+pictureinpicture-close-cmd =
+    .aria-label = Začinić
+    .title = Začinić ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = Podtitule
+    .title = Podtitule
+
+##
+
 pictureinpicture-subtitles-label = Podtitule
 pictureinpicture-font-size-label = Pismowa wulkosć
 pictureinpicture-font-size-small = Mały
