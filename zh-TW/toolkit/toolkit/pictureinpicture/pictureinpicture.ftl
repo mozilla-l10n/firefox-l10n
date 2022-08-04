@@ -19,6 +19,9 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+pictureinpicture-pause-cmd =
+    .aria-label = 暫停
+    .title = 暫停（空白鍵）
 pictureinpicture-play-cmd =
     .aria-label = 播放
     .title = 播放（空白鍵）
