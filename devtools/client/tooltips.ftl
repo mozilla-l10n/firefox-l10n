@@ -32,6 +32,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $pro
 inactive-css-not-table = 테이블이 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-scroll-padding-when-not-scroll-container = 스크롤하지 않으므로 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-css-border-image = <strong>{ $property }</strong>는 부모 테이블 요소에서 <strong>border-collapse</strong>가 <strong>collapse</strong>로 설정된 내부 테이블 요소에 적용할 수 없으므로 이 요소에 영향을 미치지 않습니다.
+inactive-css-ruby-element = <strong>{ $property }</strong>는 윗주 요소이므로 이 요소에 영향을 미치지 않습니다. 크기는 윗주 텍스트의 글꼴 크기에 따라 결정됩니다.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -55,6 +56,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells-fix = <strong>di
 inactive-css-not-table-fix = <strong>display:table</strong> 또는 <strong>display:inline-table</strong>을 추가해보세요. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, 또는 <strong>overflow:hidden</strong>을 추가해보세요. { learn-more }
 inactive-css-border-image-fix = 부모 테이블 요소에서 속성을 제거하거나 <strong>border-collapse</strong> 값을 <strong>collapse</strong> 이외의 값으로 변경합니다. { learn-more }
+inactive-css-ruby-element-fix = 윗주 텍스트의 <strong>font-size</strong>를 변경해 보세요. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
