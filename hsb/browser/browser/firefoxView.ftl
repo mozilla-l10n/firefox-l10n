@@ -33,13 +33,23 @@ firefoxview-tabpickup-synctabs-description = { -brand-short-name } dowolić, raj
 firefoxview-tabpickup-synctabs-learn-how = Zhońće kak
 firefoxview-tabpickup-synctabs-primarybutton = Wočinjene rajtarki synchronizować
 firefoxview-tabpickup-fxa-admin-disabled-header = Waša organizacija je synchronizaciju znjemóžniła
+firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } njemóže rajtarki mjez gratami synchronizować, dokelž waš administrator je synchronizowanje znjemóžnił.
 firefoxview-tabpickup-network-offline-header = Přepruwujće swój internetny zwisk
+firefoxview-tabpickup-network-offline-description = Jeli wohnjowu murju abo proksy wužiwaće, přepruwujće, hač { -brand-short-name } ma prawo na přistup k internetej.
 firefoxview-tabpickup-network-offline-primarybutton = Hišće raz spytać
 firefoxview-tabpickup-sync-error-header = Mamy problemy ze synchronizaciju
+firefoxview-tabpickup-sync-error-description = { -brand-short-name } njemóže tuchwilu słužbu docpěć. Spytajće za někotre wokomiki hišće raz.
 firefoxview-tabpickup-sync-error-primarybutton = Hišće raz spytać
+firefoxview-tabpickup-syncing = Wočakajće, mjeztym zo so waše rajtarki synchronizuja. Budźe jenož wokomik trać.
+firefoxview-mobile-promo-header = Wobstarajće sej rajtarki ze swojeho šmóratka abo tableta
+firefoxview-mobile-promo-description = Zo byšće sej swoje najnowše mobilne rajtarki wobhladował, přizjewće so pola { -brand-product-name } na iOS abo Android.
 firefoxview-mobile-promo-primarybutton = { -brand-product-name } za mobilny grat wobstarać
 firefoxview-mobile-confirmation-header = 🎉 Wšitko hotowe!
+firefoxview-mobile-confirmation-description = Nětko móžeće swoje rajtarki { -brand-product-name } ze swojeho tableta abo šmóratka wobstarać.
 firefoxview-closed-tabs-title = Njedawno začinjene
+firefoxview-closed-tabs-collapse-button =
+    .title = Lisćinu njedawno začinjenych rajtarkow pokazać abo schować
+firefoxview-closed-tabs-description = Wočińće strony znowa, kotrež sće na tutym graće začinił.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Posledni raz aktiwny
 # Variables:
