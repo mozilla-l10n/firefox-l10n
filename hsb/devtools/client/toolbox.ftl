@@ -40,3 +40,5 @@ toolbox-mode-everything-container =
     .title = Wšitko we wšěch procesach za zmylkami přepytować
 toolbox-mode-parent-process-label = Jenož nadrjadowany proces
 toolbox-mode-parent-process-sub-label = (Spěšny)
+toolbox-mode-parent-process-container =
+    .title = Jenož fokus na resursy z nadrjadowaneho procesa.
