@@ -42,6 +42,14 @@ firefoxview-tabpickup-sync-error-description = { -brand-short-name } non pote at
 firefoxview-tabpickup-sync-error-primarybutton = Retenta
 firefoxview-tabpickup-syncing = Sta sedite dum tu schedas se synchronisa. Il essera solo un momento.
 firefoxview-mobile-promo-header = Accede al schedas aperte ab tu telephono o tabletta
+firefoxview-mobile-promo-description = Pro vider tu ultime schedas mobile, accede a { -brand-product-name } sur iOS o Android.
 firefoxview-mobile-promo-primarybutton = Installa { -brand-product-name } pro mobile
 firefoxview-mobile-confirmation-header = 🎉 Bon a ir!
 firefoxview-closed-tabs-title = Recentemente claudite
+firefoxview-closed-tabs-collapse-button =
+    .title = Monstrar o celar lista del schedas claudite recentemente
+firefoxview-closed-tabs-description = Reaperi paginas que tu ha claudite sur iste apparato.
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }

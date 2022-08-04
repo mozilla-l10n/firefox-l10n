@@ -15,21 +15,22 @@ toolbox-meatball-menu-dock-bottom-label = Ancorar al fundo
 toolbox-meatball-menu-dock-left-label = Ancorar a sinistra
 toolbox-meatball-menu-dock-right-label = Ancorar a dextra
 toolbox-meatball-menu-dock-separate-window-label = Fenestra separate
-
 toolbox-meatball-menu-splitconsole-label = Monstrar le consola dividite
 toolbox-meatball-menu-hideconsole-label = Celar le consola dividite
-
 toolbox-meatball-menu-settings-label = Parametros
 toolbox-meatball-menu-documentation-label = Documentation…
 toolbox-meatball-menu-community-label = Communitate…
-
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Disactivar le celamento automatic de fenestras emergente
-
 toolbox-meatball-menu-pseudo-locale-accented = Activar lingua “con accento”
 toolbox-meatball-menu-pseudo-locale-bidi = Activar lingua “bidi”
 
 ##
 
+
+## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
+
+toolbox-mode-everything-label = Multi-processo
+toolbox-mode-parent-process-label = Solo processo parente
