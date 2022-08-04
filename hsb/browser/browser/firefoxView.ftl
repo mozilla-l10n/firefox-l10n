@@ -21,11 +21,15 @@ firefoxview-tabpickup-recenttabs-description = Tu so lisćina najnowšich rajtar
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue } % dokónčene
+firefoxview-tabpickup-step-signin-header = Přeńdźće bjezposrědnje mjez gratami
+firefoxview-tabpickup-step-signin-description = Zo byšće tu rajtarki swojeho šmóratka dóstał, přizjewće so najprjedy abo załožće konto.
 firefoxview-tabpickup-step-signin-primarybutton = Dale
 firefoxview-tabpickup-adddevice-header = Synchronizujće { -brand-product-name } na swojim telefonje abo tableće
+firefoxview-tabpickup-adddevice-description = Sćehńće { -brand-product-name } za mobilne graty a přizjewće so tam.
 firefoxview-tabpickup-adddevice-learn-how = Zhońće kak
 firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } za mobilny grat wobstarać
 firefoxview-tabpickup-synctabs-header = Synchronizaciju rajtarkow zmóžnić
+firefoxview-tabpickup-synctabs-description = { -brand-short-name } dowolić, rajtarki mjez gratami dźělić.
 firefoxview-tabpickup-synctabs-learn-how = Zhońće kak
 firefoxview-tabpickup-synctabs-primarybutton = Wočinjene rajtarki synchronizować
 firefoxview-tabpickup-fxa-admin-disabled-header = Waša organizacija je synchronizaciju znjemóžniła
