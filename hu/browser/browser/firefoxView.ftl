@@ -39,6 +39,7 @@ firefoxview-tabpickup-network-offline-description = Ha tűzfalat vagy proxyt has
 firefoxview-tabpickup-network-offline-primarybutton = Próbálja újra
 firefoxview-tabpickup-sync-error-header = Problémáink vannak a szinkronizálással
 firefoxview-tabpickup-sync-error-description = A { -brand-short-name } jelenleg nem tudja elérni a szolgáltatást. Próbálja újra néhány pillanat múlva.
+firefoxview-tabpickup-sync-error-primarybutton = Próbálja újra
 firefoxview-tabpickup-syncing = Várjon amíg a lapjai szinkronizálódnak. Csak egy pillanat lesz.
 firefoxview-mobile-promo-header = Vegye át a lapjait a telefonjáról vagy táblagépéről
 firefoxview-mobile-promo-description = A legújabb mobillapok megtekintéséhez jelentkezzen be a { -brand-product-name }be iOS-en vagy Androidon.
