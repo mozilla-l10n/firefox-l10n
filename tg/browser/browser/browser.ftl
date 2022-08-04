@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Идоракунии васеъшавӣ…
 page-action-remove-extension =
     .label = Тоза кардани васеъшавӣ
+page-action-manage-extension2 =
+    .label = Идоракунии васеъшавӣ…
+    .accesskey = И
+page-action-remove-extension2 =
+    .label = Тоза кардани васеъшавӣ
+    .accesskey = Т
 
 ## Auto-hide Context Menu
 
