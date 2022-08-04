@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Gerir l’extension…
 page-action-remove-extension =
     .label = Suprimir l’extension
+page-action-manage-extension2 =
+    .label = Gerir l’extension…
+    .accesskey = G
+page-action-remove-extension2 =
+    .label = Suprimir l’extension
+    .accesskey = S
 
 ## Auto-hide Context Menu
 
@@ -262,16 +268,47 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Escafar l'istoric
-quickactions-print = Imprimir
-quickactions-screenshot = Prendre una captura d’ecran
-quickactions-settings = Dobrir los paramètres
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Veire los moduls
+quickactions-cmd-addons = moduls, extensions, tèmas
+# Opens the bookmarks library window
+quickactions-bookmarks = Veire los marcapaginas
+quickactions-cmd-bookmarks = marcapaginas
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Escafar l'istoric
+quickactions-cmd-clearhistory = escafar l'istoric
+# Opens about:downloads page
 quickactions-downloads = Dobrir los telecargaments
-quickactions-viewsource = Afichar la font
+quickactions-cmd-downloads = telecargaments
+# Opens the devtools web inspector
 quickactions-inspector = dobrir l’inspector
+# Opens the print dialog
+quickactions-print = Imprimir
+quickactions-cmd-print = imprimir
+quickactions-cmd-private = navegacion privada
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Reïnicializar { -brand-short-name }
+quickactions-cmd-refresh = actualizar
+# Restarts the browser
 quickactions-restart = Reaviar { -brand-short-name }
+quickactions-cmd-restart = reaviar
+# Opens the screenshot tool
+quickactions-screenshot2 = Prendre una captura d’ecran
+quickactions-cmd-screenshot = captura d’ecran
+# Opens about:preferences
+quickactions-settings = Dobrir los paramètres
+quickactions-cmd-settings = paramètres, preferéncias, opcions
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Metre a jorn { -brand-short-name }
+quickactions-cmd-update = mesa a jorn
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Afichar la font
+quickactions-cmd-viewsource = veire la font, font, sorga, còdi
 
 ## Bookmark Panel
 
@@ -849,3 +886,9 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Navegacion privada
+
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = Extensions
+    .tooltiptext = Extensions
