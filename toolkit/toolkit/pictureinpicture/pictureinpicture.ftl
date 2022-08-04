@@ -15,6 +15,16 @@ pictureinpicture-unpip =
     .aria-label = Renvoyer dans l’onglet
 pictureinpicture-close =
     .aria-label = Fermer
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-subtitles-cmd =
+    .aria-label = Sous-titres
+    .title = Sous-titres
+
+##
+
 pictureinpicture-subtitles-label = Sous-titres
 pictureinpicture-font-size-label = Taille de police
 pictureinpicture-font-size-small = Petite
