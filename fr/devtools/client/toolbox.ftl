@@ -34,3 +34,4 @@ toolbox-meatball-menu-pseudo-locale-bidi = Activer la langue « bidi »
 
 toolbox-mode-everything-label = Multiprocessus
 toolbox-mode-parent-process-label = Processus parent uniquement
+toolbox-mode-parent-process-sub-label = (Rapide)
