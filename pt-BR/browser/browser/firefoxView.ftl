@@ -59,3 +59,9 @@ firefoxview-tabs-list-tab-button =
     .title = Abrir { $targetURI } em nova aba
 firefoxview-try-colorways-button = Experimentar esquemas de cores
 firefoxview-no-current-colorway-collection = Estão chegando novos esquemas de cores
+firefoxview-change-colorway-button = Mudar esquema de cores
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Nada ainda</strong><br/>Na próxima vez que você abrir uma página no { -brand-product-name } em outro dispositivo, aparece aqui como mágica.
