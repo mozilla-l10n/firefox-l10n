@@ -50,3 +50,18 @@ firefoxview-closed-tabs-title = Nemrég bezárt
 firefoxview-closed-tabs-collapse-button =
     .title = A nemrég bezárt lapok megjelenítése vagy elrejtése
 firefoxview-closed-tabs-description = Nyissa meg újra az ezen az eszközön bezárt oldalakat.
+firefoxview-closed-tabs-placeholder = <strong>Nincsenek nemrég bezárt oldalak</strong><br/>Soha többé ne féljen egy bezárt lap elvesztésétől. Itt bármikor visszakeresheti.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Utoljára aktív
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = A(z) { $targetURI } megnyitása új lapon
+firefoxview-try-colorways-button = Próbálja ki a színvilágokat
+firefoxview-no-current-colorway-collection = Úton vannak az új színvilágok
+firefoxview-change-colorway-button = Színvilág módosítása
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Még nincs semmi látnivaló</strong><br/>Ha legközelebb kinyit egy oldalt a { -brand-product-name }ben vagy egy másik eszközön, akkor itt varázsütésre átveheti.
