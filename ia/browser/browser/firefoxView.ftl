@@ -14,5 +14,7 @@ firefoxview-close-button =
     .aria-label = Clauder
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Justo ora
+firefoxview-tabpickup-step-signin-primarybutton = Continuar
+firefoxview-tabpickup-adddevice-header = Synchronisa { -brand-product-name } sur tu telephono e tu tabletta
 firefoxview-tabpickup-network-offline-primarybutton = Retenta
 firefoxview-tabpickup-sync-error-primarybutton = Retenta
