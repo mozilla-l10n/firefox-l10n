@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = 확장 기능 관리…
 page-action-remove-extension =
     .label = 확장 기능 제거
+page-action-manage-extension2 =
+    .label = 확장 기능 관리…
+    .accesskey = E
+page-action-remove-extension2 =
+    .label = 확장 기능 제거
+    .accesskey = v
 
 ## Auto-hide Context Menu
 
