@@ -33,6 +33,7 @@ firefoxview-tabpickup-synctabs-description = { -brand-short-name }가 기기 간
 firefoxview-tabpickup-synctabs-learn-how = 방법 알아보기
 firefoxview-tabpickup-synctabs-primarybutton = 열린 탭 동기화
 firefoxview-tabpickup-fxa-admin-disabled-header = 조직에서 동기화를 사용하지 않도록 설정했습니다.
+firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name }는 관리자가 동기화를 비활성화했기 때문에 기기 간에 탭을 동기화할 수 없습니다.
 firefoxview-tabpickup-network-offline-header = 인터넷 연결 확인
 firefoxview-tabpickup-network-offline-description = 방화벽이나 프록시를 사용하는 경우, { -brand-short-name }에 웹 액세스 권한이 있는지 확인하세요.
 firefoxview-tabpickup-network-offline-primarybutton = 다시 시도
@@ -40,3 +41,25 @@ firefoxview-tabpickup-sync-error-header = 동기화에 문제 있음
 firefoxview-tabpickup-sync-error-description = { -brand-short-name }는 지금 서비스에 연결할 수 없습니다. 잠시 후 다시 시도하세요.
 firefoxview-tabpickup-sync-error-primarybutton = 다시 시도
 firefoxview-tabpickup-syncing = 잠깐이면 탭이 동기화됩니다.
+firefoxview-mobile-promo-header = 휴대폰 또는 태블릿에서 탭 가져오기
+firefoxview-mobile-promo-description = 최신 모바일 탭을 보려면, iOS 또는 Android에서 { -brand-product-name }에 로그인하세요.
+firefoxview-mobile-promo-primarybutton = 모바일용 { -brand-product-name } 받기
+firefoxview-mobile-confirmation-description = 이제 태블릿이나 휴대폰에서 { -brand-product-name } 탭을 가져올 수 있습니다.
+firefoxview-closed-tabs-title = 최근에 닫음
+firefoxview-closed-tabs-collapse-button =
+    .title = 최근에 닫은 탭 목록 표시 또는 숨기기
+firefoxview-closed-tabs-description = 이 기기에서 닫은 페이지를 다시 엽니다.
+firefoxview-closed-tabs-placeholder = <strong>최근에 닫은 페이지 없음</strong><br/>닫은 탭을 다시 잃어버릴 염려가 없습니다. 언제든지 여기서 검색할 수 있습니다.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = 마지막 활동
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = 새 탭에서 { $targetURI } 열기
+firefoxview-try-colorways-button = 컬러웨이 체험
+firefoxview-no-current-colorway-collection = 새로운 컬러웨이 출시 예정
+firefoxview-change-colorway-button = 컬러웨이 변경
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
