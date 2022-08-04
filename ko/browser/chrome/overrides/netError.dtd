@@ -123,8 +123,8 @@ was trying to connect. -->
 <!ENTITY certerror.sts.introPara "이 웹 사이트는 보안 연결을 필요로 하므로 &brandShortName;가 잠재적인 보안 위협을 감지하고 <span class='hostname'/> 사이트로 진행하지 않았습니다.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName;가 문제를 감지하여 <span class='hostname'/> 사이트로 진행하지 않았습니다. 웹 사이트가 잘못 구성되었거나 사용자의 컴퓨터 시계가 잘못된 시간으로 설정되어 있습니다.">
-<!ENTITY certerror.expiredCert.secondPara2 "웹 사이트의 인증서가 만료되어서 &brandShortName;가 안전하게 연결할 수가 없습니다. 사이트를 방문하면 공격자가 비밀번호나 이메일, 신용카드와 같은 정보를 탈취할 수 있습니다.">
-<!ENTITY certerror.expiredCert.sts.secondPara "웹 사이트의 인증서가 만료되어서 &brandShortName;가 안전하게 연결할 수가 없습니다.">
+<!ENTITY certerror.expiredCert.secondPara2 "웹 사이트의 인증서가 만료되어 &brandShortName;가 안전하게 연결할 수 없습니다. 사이트를 방문하면 공격자가 비밀번호나 이메일, 신용카드와 같은 정보를 탈취할 수 있습니다.">
+<!ENTITY certerror.expiredCert.sts.secondPara "웹 사이트의 인증서가 만료되어 &brandShortName;가 안전하게 연결할 수 없습니다.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "사용자가 무엇을 할 수 있습니까?">
 
