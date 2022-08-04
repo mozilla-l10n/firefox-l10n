@@ -44,6 +44,7 @@ firefoxview-tabpickup-syncing = 잠깐이면 탭이 동기화됩니다.
 firefoxview-mobile-promo-header = 휴대폰 또는 태블릿에서 탭 가져오기
 firefoxview-mobile-promo-description = 최신 모바일 탭을 보려면, iOS 또는 Android에서 { -brand-product-name }에 로그인하세요.
 firefoxview-mobile-promo-primarybutton = 모바일용 { -brand-product-name } 받기
+firefoxview-mobile-confirmation-header = 계속 진행!
 firefoxview-mobile-confirmation-description = 이제 태블릿이나 휴대폰에서 { -brand-product-name } 탭을 가져올 수 있습니다.
 firefoxview-closed-tabs-title = 최근에 닫음
 firefoxview-closed-tabs-collapse-button =
@@ -63,3 +64,4 @@ firefoxview-change-colorway-button = 컬러웨이 변경
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>아직 볼 것이 없음</strong><br/>다음에 다른 기기의 { -brand-product-name }에서 페이지를 열 때 마법처럼 여기로 가져옵니다.
