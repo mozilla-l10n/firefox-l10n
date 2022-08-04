@@ -142,7 +142,7 @@ perftools-presets-networking-label = Мережа
 perftools-presets-networking-description = Налаштування для виявлення помилок мережі в { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Потужність
-perftools-presets-power-description = Конфігурація для виявлення помилок використання потужності { -brand-shorter-name } із низьким накладанням.
+perftools-presets-power-description = Налаштування для виявлення помилок використання потужності { -brand-shorter-name } із низьким накладанням.
 perftools-presets-custom-label = Власні
 
 ##
