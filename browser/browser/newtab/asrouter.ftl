@@ -130,6 +130,10 @@ cfr-doorhanger-video-support-primary-button = Ùraich an-dràsta
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = Barrachd fiosrachaidh
+    .title = Leudaich seo airson barrachd fiosrachaidh mun ghleus
+spotlight-learn-more-expanded = Barrachd fiosrachaidh
+    .title = Dùin
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -137,9 +141,20 @@ cfr-doorhanger-video-support-primary-button = Ùraich an-dràsta
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
+spotlight-public-wifi-vpn-header = Tha coltas gu bheil thu air WiFi poblach
+spotlight-public-wifi-vpn-body = Airson d’ ionad is am brabhsadh a nì thu a chumail falaichte, saoil am b’ fheàirrde dhut Virtual Private Network? Cumaidh e tèarainte thu ’s tu ri brabhsadh ann an àitichean poblach mar puirt-adhair is cafaidhean.
+spotlight-public-wifi-vpn-primary-button = Dìon do phrìobhaideachd le { -mozilla-vpn-brand-name }
+    .accesskey = D
+spotlight-public-wifi-vpn-link = Chan ann an-dràsta
+    .accesskey = C
 
 ## Total Cookie Protection Rollout
 
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header = Cuir an àrainneachd as prìobhaidich againn a-riamh fo dheuchainn
+spotlight-total-cookie-protection-body = Cuiridh làn-dìon o bhriosgaidean stad air tracaichean a chleachdas briosgaidean gus do leantainn air feadh an lìn gu dìomhair.
 spotlight-total-cookie-protection-secondary-button = Chan ann an-dràsta
 
 ## Emotive Continuous Onboarding

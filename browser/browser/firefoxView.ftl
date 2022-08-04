@@ -58,3 +58,10 @@ firefoxview-pickup-tabs-badge = Am fear gnìomhach mu dheireadh
 firefoxview-tabs-list-tab-button =
     .title = Fosgail { $targetURI } ann an taba ùr
 firefoxview-try-colorways-button = Feuch na sgeamannan dhathan
+firefoxview-no-current-colorway-collection = Tha sgeamannan dhathan ùra air an t-slighe
+firefoxview-change-colorway-button = Atharraich an sgeama dhathan
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Chan eil dad ri fhaicinn ann fhathast</strong><br/>An ath-thuras a dh’fhosglas tu duilleag ann am { -brand-product-name } air uidheam eile, nochdaidh e an-seo leis fhèin.
