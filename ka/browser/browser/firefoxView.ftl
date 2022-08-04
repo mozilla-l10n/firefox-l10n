@@ -45,3 +45,22 @@ firefoxview-mobile-promo-header = წამოიღეთ ჩანართე
 firefoxview-mobile-promo-description = ტელეფონში ბოლოს გახსნილი ჩანართების სანახავად, გამოიყენეთ { -brand-product-name } iOS-ზე ან Android-ზე და შედით ანგარიშზე.
 firefoxview-mobile-promo-primarybutton = გადმოწერეთ { -brand-product-name } მობილურზე
 firefoxview-mobile-confirmation-header = 🎉 ყველაფერი მზადაა!
+firefoxview-closed-tabs-title = ბოლოს დახურული
+firefoxview-closed-tabs-collapse-button =
+    .title = ბოლოს დახურული ჩანართების სიის ჩვენება ან დამალვა
+firefoxview-closed-tabs-description = კვლავ გახსენით ამ მოწყობილობაზე დახურული გვერდები.
+firefoxview-closed-tabs-placeholder = <strong>ბოლოს დახურული ჩანართები არაა</strong><br/>ნუ შეგეშინდებათ დახურული ჩანართების დაკარგვის. ყოველთვის შეძლებთ აღადგინოთ აქედან.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = ბოლოს მოქმედი
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = გახსენით { $targetURI } ახალ ჩანართში
+firefoxview-try-colorways-button = მოსინჯეთ ახალი შეფერილობა
+firefoxview-no-current-colorway-collection = ახალი შეფერილობა უკვე გელოდებათ
+firefoxview-change-colorway-button = შეფერილობის შეცვლა
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>ჯერ არაფერია სანახავი</strong><br/>შემდეგ ჯერზე გამოიყენეთ { -brand-product-name } სხვა მოწყობილობაზე გვერდის მონასახულებლად და ჯადოსნურად გადმოვა აქაც.
