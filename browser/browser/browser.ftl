@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = ניהול הרחבה…
 page-action-remove-extension =
     .label = הסרת הרחבה
+page-action-manage-extension2 =
+    .label = ניהול הרחבה…
+    .accesskey = נ
+page-action-remove-extension2 =
+    .label = הסרת הרחבה
+    .accesskey = ה
 
 ## Auto-hide Context Menu
 
