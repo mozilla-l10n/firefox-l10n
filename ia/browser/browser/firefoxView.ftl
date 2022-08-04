@@ -14,12 +14,18 @@ firefoxview-close-button =
     .aria-label = Clauder
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Justo ora
+# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
+firefoxview-tabpickup-header = Election de scheda
 firefoxview-tabpickup-description = Aperi paginas ab altere apparatos.
+firefoxview-tabpickup-recenttabs-description = Le listas de schedas recente vaderea ci
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% complete
+firefoxview-tabpickup-step-signin-header = Passar perfectemente inter apparatos
+firefoxview-tabpickup-step-signin-description = Pro aperir ci le schedas de tu telephono, primo accede o crea un conto.
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
 firefoxview-tabpickup-adddevice-header = Synchronisa { -brand-product-name } sur tu telephono e tu tabletta
+firefoxview-tabpickup-adddevice-description = Discarga { -brand-product-name } pro apparato mobile e accede illac.
 firefoxview-tabpickup-adddevice-learn-how = Apprende como
 firefoxview-tabpickup-adddevice-primarybutton = Installa { -brand-product-name } pro mobile
 firefoxview-tabpickup-synctabs-header = Activar synchronisation schedas
@@ -27,6 +33,11 @@ firefoxview-tabpickup-synctabs-description = Permitte a { -brand-short-name } de
 firefoxview-tabpickup-synctabs-learn-how = Apprende como
 firefoxview-tabpickup-synctabs-primarybutton = Synchronisar le schedas aperte
 firefoxview-tabpickup-fxa-admin-disabled-header = Tu organisation ha disactivate le synchronisation
+firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } non pote synchronisar schedas inter apparatos perque tu administrator ha disactivate le synchronisation.
 firefoxview-tabpickup-network-offline-header = Controla tu connexion a internet
+firefoxview-tabpickup-network-offline-description = Si tu usa un firewall o proxy, verifica que { -brand-short-name } ha permission pro acceder al web.
 firefoxview-tabpickup-network-offline-primarybutton = Retenta
+firefoxview-tabpickup-sync-error-header = Nos ha difficultates pro le synchronisation
+firefoxview-tabpickup-sync-error-description = { -brand-short-name } non pote attinger le servicio al momento.
 firefoxview-tabpickup-sync-error-primarybutton = Retenta
+firefoxview-tabpickup-syncing = Sta sedite dum tu schedas se synchronisa. Il essera solo un momento.
