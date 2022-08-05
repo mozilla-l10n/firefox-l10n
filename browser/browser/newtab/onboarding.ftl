@@ -40,7 +40,7 @@ onboarding-welcome-steps-indicator =
 #   $total (Int) - Total number of pages
 
 onboarding-welcome-steps-indicator2 =
-    .aria-valuetext = Progreso: paso { $actual } de { $total }
+    .aria-valuetext = Progreso: paso { $current } de { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
