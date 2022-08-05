@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Διαχείριση επέκτασης…
 page-action-remove-extension =
     .label = Αφαίρεση επέκτασης
+page-action-manage-extension2 =
+    .label = Διαχείριση επέκτασης…
+    .accesskey = ε
+page-action-remove-extension2 =
+    .label = Αφαίρεση επέκτασης
+    .accesskey = φ
 
 ## Auto-hide Context Menu
 

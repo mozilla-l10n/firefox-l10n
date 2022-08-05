@@ -47,3 +47,6 @@
                 [lower] αρχικής Firefox
             }
     }
+# View" can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefoxview-brand-name = Προβολή Firefox

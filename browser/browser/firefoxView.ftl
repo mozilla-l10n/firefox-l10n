@@ -12,6 +12,19 @@ firefoxview-page-title = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Κλείσιμο
     .aria-label = Κλείσιμο
+# Used instead of the localized relative time when a timestamp is within a minute or so of now
+firefoxview-just-now-timestamp = Μόλις τώρα
+# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
+firefoxview-tabpickup-header = Συγχρονισμός καρτελών
+firefoxview-tabpickup-step-signin-header = Απρόσκοπτη εναλλαγή μεταξύ συσκευών
+firefoxview-tabpickup-step-signin-primarybutton = Συνέχεια
+firefoxview-tabpickup-adddevice-learn-how = Μάθετε πώς
+firefoxview-tabpickup-synctabs-learn-how = Μάθετε πώς
+firefoxview-tabpickup-fxa-admin-disabled-header = Ο οργανισμός σας έχει απενεργοποιήσει τον συγχρονισμό
+firefoxview-tabpickup-network-offline-header = Ελέγξτε τη σύνδεσή σας στο διαδίκτυο
+firefoxview-tabpickup-network-offline-primarybutton = Δοκιμή ξανά
+firefoxview-tabpickup-sync-error-primarybutton = Δοκιμή ξανά
+firefoxview-change-colorway-button = Αλλαγή χρωματικού συνδυασμού
 # Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
