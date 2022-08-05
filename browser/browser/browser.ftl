@@ -287,18 +287,34 @@ quickactions-downloads = Открыть загрузки
 quickactions-cmd-downloads = загрузки
 # Opens the devtools web inspector
 quickactions-inspector = Открыть инспектор
+quickactions-cmd-inspector = инспектор, инструменты разработки
+# Opens about:logins
+quickactions-logins = Просмотр логинов
+quickactions-cmd-logins = логины, пароли
 # Opens the print dialog
 quickactions-print = Распечатать
+quickactions-cmd-print = печать
+# Opens a new private browsing window
+quickactions-private = Открыть окно приватного просмотра
+quickactions-cmd-private = приватный просмотр
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Очистить { -brand-short-name }
+quickactions-cmd-refresh = обновить
 # Restarts the browser
 quickactions-restart = Перезапустить { -brand-short-name }
+quickactions-cmd-restart = перезапустить
+# Opens the screenshot tool
+quickactions-screenshot2 = Сделать скриншот
+quickactions-cmd-screenshot = скриншот
 # Opens about:preferences
 quickactions-settings = Открыть настройки
+quickactions-cmd-settings = настройки, параметры, опции
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Обновить { -brand-short-name }
+quickactions-cmd-update = обновление
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Показать исходник
+quickactions-cmd-viewsource = просмотр исходного текста, кода
 
 ## Bookmark Panel
 
@@ -596,6 +612,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Искать в закладках
 urlbar-result-action-search-history = Искать в журнале
 urlbar-result-action-search-tabs = Искать во вкладках
+urlbar-result-action-search-actions = Поисковые действия
 
 ## Labels shown above groups of urlbar results
 
@@ -881,3 +898,6 @@ private-browsing-indicator-label = Приватный просмотр
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Расширения
+    .tooltiptext = Расширения
