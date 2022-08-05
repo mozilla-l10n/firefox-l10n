@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Spravovať rozšírenie…
 page-action-remove-extension =
     .label = Odstrániť rozšírenie
+page-action-manage-extension2 =
+    .label = Spravovať rozšírenie…
+    .accesskey = S
+page-action-remove-extension2 =
+    .label = Odstrániť rozšírenie
+    .accesskey = O
 
 ## Auto-hide Context Menu
 

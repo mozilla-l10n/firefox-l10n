@@ -51,3 +51,14 @@
         [loc] Domovskej stránke Firefoxu
         [ins] Domovskou stránkou Firefoxu
     }
+# View" can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefoxview-brand-name =
+    { $case ->
+       *[nom] Prehľad Firefoxu
+        [gen] Prehľadu Firefoxu
+        [dat] Prehľadu Firefoxu
+        [acc] Prehľad Firefoxu
+        [loc] Prehľade Firefoxu
+        [ins] Prehľadom Firefoxu
+    }

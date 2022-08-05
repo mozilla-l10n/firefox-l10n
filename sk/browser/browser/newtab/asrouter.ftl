@@ -159,7 +159,7 @@ spotlight-total-cookie-protection-body = Úplná ochrana súborov cookie bráni 
 spotlight-total-cookie-protection-expanded = { -brand-short-name } vytvára virtuálny plot okolo súborov cookie a obmedzuje ich na stránku, na ktorej sa nachádzate, takže sledovači ich nemôžu použiť na to, aby vás sledovali. Vďaka testovaciemu programu nám pomôžete optimalizovať túto funkciu, aby sme mohli naďalej vytvárať lepší web pre všetkých.
 spotlight-total-cookie-protection-primary-button = Zapnúť Úplnú ochranu súborov cookie
 spotlight-total-cookie-protection-secondary-button = Teraz nie
-cfr-total-cookie-protection-header = Vďaka vám je { -brand-short-name } bezpečnejší a viac zameraný na súkromie než kedykoľvek predtým
+cfr-total-cookie-protection-header = Vďaka vám je { -brand-short-name } bezpečnejší a zameraný na súkromie viac než kedykoľvek predtým
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
 cfr-total-cookie-protection-body = Úplná ochrana súborov cookie je naša doteraz najsilnejšia ochrana súkromia – a teraz je predvoleným nastavením pre všetkých používateľov { -brand-short-name(case: "gen") }. Bez účastníkov nášho testovacieho programu ako ste vy by sme to nedokázali. Ďakujeme, že ste nám pomohli vytvoriť lepší a súkromnejší internet.
