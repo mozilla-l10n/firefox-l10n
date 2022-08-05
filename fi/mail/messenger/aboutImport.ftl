@@ -90,6 +90,8 @@ addr-book-vcard-file = vCard-tiedosto (.vcf, .vcard)
 addr-book-sqlite-file = SQLite-tietokantatiedosto (.sqlite)
 addr-book-mab-file = Mork-tietokantatiedosto (.mab)
 addr-book-file-picker = Valitse osoitekirjatiedosto
+addr-book-csv-field-map-title = Vastaa kenttien nimet
+addr-book-directories-title = Valitse, mihin valitut tiedot tuodaan
 addr-book-directories-pane-source = Lähdetiedosto:
 # $addressBookName (string) - name of the new address book that would be created.
 addr-book-import-into-new-directory2 = Luo uusi kansio nimeltä <strong>"{ $addressBookName }"</strong>
@@ -103,6 +105,8 @@ addr-book-summary-description = Uusi osoitekirja "{ $addressBookName }" luodaan.
 import-from-calendar-file-desc = Valitse iCalendar-tiedosto (.ics), jonka haluat tuoda.
 calendar-items-title = Valitse tuotavat tiedot.
 calendar-items-loading = Ladataan kohteita…
+calendar-items-filter-input =
+    .placeholder = Suodata kohteita…
 calendar-select-all-items = Valitse kaikki
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = Luo uusi kalenteri nimeltä <strong>"{ $targetCalendar }"</strong>
