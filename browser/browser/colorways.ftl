@@ -6,15 +6,21 @@
 ## Colorway collections
 
 colorway-collection-independent-voices = Независими гласове
+colorway-collection-independent-voices-description = Цветът може да промени културата. Най-новите цветови комбинации са в чест на гласовете, които правят света по-добър.
 # Used as a subheading for the colorway collection card in about:addons
 colorway-collection-independent-voices-short-description = Цветове, които променят културата.
 
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Плеймейкър
+playmaker-colorway-description = Създавате възможности за победа и помагате на всички около вас да подобрят играта си.
 expressionist-colorway-name = Експресионист
+expressionist-colorway-description = Виждате околния свят по различен начин и творенията ви предизвикват емоции у другите.
 visionary-colorway-name = Визионер
+visionary-colorway-description = Поставяте под въпрос статуквото и карате другите да си представят по-добро бъдеще.
 activist-colorway-name = Активист
+activist-colorway-description = Оставяте света по-добър, отколкото сте го намерили, и карате другите да вярват в това.
 dreamer-colorway-name = Мечтател
+dreamer-colorway-description = Вярвате, че късметът идва при смелите, и вдъхновявате другите да бъдат смели.
 innovator-colorway-name = Изобретател
 innovator-colorway-description = Виждате възможности навсякъде и оказвате влияние върху живота на всички около вас.
