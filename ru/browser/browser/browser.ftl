@@ -612,7 +612,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Искать в закладках
 urlbar-result-action-search-history = Искать в журнале
 urlbar-result-action-search-tabs = Искать во вкладках
-urlbar-result-action-search-actions = Поисковые действия
+urlbar-result-action-search-actions = Искать в действиях
 
 ## Labels shown above groups of urlbar results
 
