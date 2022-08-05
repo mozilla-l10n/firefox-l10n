@@ -33,6 +33,12 @@ return-to-amo-add-theme-label = Добавяне на темата
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Първи стъпки: екран { $current } от { $total }
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -101,8 +107,8 @@ mr1-onboarding-import-primary-button-label-attribution = Внасяне от { $
 mr1-onboarding-import-primary-button-label-no-attribution = Внасяне от предишен четец
 mr1-onboarding-import-secondary-button-label = Не сега
 mr2-onboarding-colorway-header = Цветен живот
-mr2-onboarding-colorway-subtitle = Изразителни цветни комбинации. Достъпни за ограничен период.
-mr2-onboarding-colorway-primary-button-label = Запазване на цветовата комбинация
+mr2-onboarding-colorway-subtitle = Изразителни цветови комбинации. Достъпни за ограничен период.
+mr2-onboarding-colorway-primary-button-label = Запазване
 mr2-onboarding-colorway-secondary-button-label = Не сега
 mr2-onboarding-colorway-label-soft = Мека
 mr2-onboarding-colorway-label-balanced = Умерена
@@ -168,11 +174,11 @@ mr1-onboarding-theme-description-alpenglow =
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
-    .title = Използвайте тази цветна комбинация
+    .title = Използвайте тази цветова комбинация.
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
-    .aria-description = Използвайте тази цветна комбинация
+    .aria-description = Използвайте тази цветова комбинация.
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
