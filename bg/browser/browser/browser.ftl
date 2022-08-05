@@ -528,6 +528,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Въведете търсене
     .aria-label = Търсене в раздели
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Въведете търсене
+    .aria-label = Действия при търсене
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -603,6 +607,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Търсене в отметките
 urlbar-result-action-search-history = Търсене в историята
 urlbar-result-action-search-tabs = Търсене на раздели
+urlbar-result-action-search-actions = Действия при търсене
 
 ## Labels shown above groups of urlbar results
 
@@ -616,6 +621,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Предложения от { $engine }
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Бързи действия
 
 ## Full Screen and Pointer Lock UI
 
@@ -821,6 +829,12 @@ picture-in-picture-hide-toggle =
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-right =
+    .label = Преместване на бутона за „Картина в картината“ отдясно
+    .accesskey = д
+picture-in-picture-move-toggle-left =
+    .label = Преместване на бутона за „Картина в картината“ отляво
+    .accesskey = л
 
 ##
 
@@ -874,6 +888,11 @@ data-reporting-notification-message = { -brand-short-name } автоматичн
 data-reporting-notification-button =
     .label = Изберете какво споделяте
     .accesskey = И
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Поверително разглеждане
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Разширения
+    .tooltiptext = Разширения
