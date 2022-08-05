@@ -5,8 +5,15 @@
 
 ## Colorway collections
 
+colorway-collection-independent-voices = Независимые голоса
 # Used as a subheading for the colorway collection card in about:addons
 colorway-collection-independent-voices-short-description = Цвета, меняющие культуру.
 
 ## Colorway names and descriptions
 
+playmaker-colorway-name = Плеймейкер
+expressionist-colorway-name = Экспрессионист
+visionary-colorway-name = Визионер
+activist-colorway-name = Активист
+dreamer-colorway-name = Мечтатель
+innovator-colorway-name = Новатор
