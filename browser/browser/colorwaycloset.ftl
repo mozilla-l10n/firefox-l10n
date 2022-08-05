@@ -14,7 +14,7 @@ colorway-intensity-bold = Смелая
 # Label for the button to keep using the selected colorway in the browser
 colorway-closet-set-colorway-button = Установить расцветку
 colorway-closet-cancel-button = Отмена
-colorway-homepage-reset-prompt = Сделайте { -firefox-home-brand-name } красочной домашней страницей
-colorway-homepage-reset-success-message = { -firefox-home-brand-name } теперь ваша домашняя страница
+colorway-homepage-reset-prompt = Сделайте { -firefox-home-brand-name(case: "accusative") } красочной домашней страницей
+colorway-homepage-reset-success-message = { -firefox-home-brand-name(case: "nominative") } — теперь ваша домашняя страница
 colorway-homepage-reset-apply-button = Применить
 colorway-homepage-reset-undo-button = Отменить
