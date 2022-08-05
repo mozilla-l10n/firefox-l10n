@@ -15,6 +15,25 @@ pictureinpicture-unpip =
     .aria-label = Ales tuzna deg yiccer
 pictureinpicture-close =
     .aria-label = Mdel
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-mute-cmd =
+    .aria-label = Sgugem
+    .title = Sgugem ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = Sgugem
+    .title = Sgugem ({ $shortcut })
+pictureinpicture-unpip-cmd =
+    .aria-label = Ales tuɣalin ɣer yiccer
+    .title = Tuɣalin ɣer yiccer
+pictureinpicture-close-cmd =
+    .aria-label = Mdel
+    .title = Mdel ({ $shortcut })
+
+##
+
 pictureinpicture-font-size-label = Teɣzi n tsefsit
 pictureinpicture-font-size-small = Mecṭuḥ
 pictureinpicture-font-size-medium = Alemmas

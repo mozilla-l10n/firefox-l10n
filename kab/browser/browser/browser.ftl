@@ -253,12 +253,26 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+quickactions-cmd-bookmarks = ticraḍ n isebtar
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Sfeḍ azray
+quickactions-cmd-clearhistory = Sfeḍ azray
+# Opens about:downloads page
+quickactions-downloads = Ldi isadaren
+quickactions-cmd-downloads = isadaren
+# Opens the devtools web inspector
+quickactions-inspector = Ldi amaswaḍ
 # Opens the print dialog
 quickactions-print = Siggez
 # Opens about:preferences
 quickactions-settings = Ldi iɣewwaren
+quickactions-cmd-settings = iɣewwaren, ismenyifen, tixtiṛiyin
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = Leqqem { -brand-short-name }
+quickactions-cmd-update = Leqqem
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Sken aɣbalu
+quickactions-cmd-viewsource = sken aɣbalu, aɣbalu
 
 ## Bookmark Panel
 
@@ -475,6 +489,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Sekcem awalen n unadi
     .aria-label = Iccaren n unadi
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Sekcem awalen n unadi
+    .aria-label = Nadi tigawin
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -550,6 +568,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Nadi ticraḍ n yisebtar
 urlbar-result-action-search-history = Nadi deg umazray
 urlbar-result-action-search-tabs = Nadi deg waccaren
+urlbar-result-action-search-actions = Nadi tigawin
 
 ## Labels shown above groups of urlbar results
 
@@ -563,6 +582,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Isumar { $engine }
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Tigawin tiruradin
 
 ## Full Screen and Pointer Lock UI
 
@@ -827,6 +849,11 @@ data-reporting-notification-message = { -brand-short-name } yettazen s wudem awu
 data-reporting-notification-button =
     .label = Fren ayen ara bḍuɣ
     .accesskey = F
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Tunigin tusligt
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Isiɣzaf
+    .tooltiptext = Isiɣzaf
