@@ -264,6 +264,13 @@ quickactions-cmd-downloads = isadaren
 quickactions-inspector = Ldi amaswaḍ
 # Opens the print dialog
 quickactions-print = Siggez
+quickactions-cmd-print = siggez
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = Smiren { -brand-short-name }
+quickactions-cmd-refresh = smiren
+# Restarts the browser
+quickactions-restart = Ales asenker n { -brand-short-name }
+quickactions-cmd-restart = Ales asenker
 # Opens about:preferences
 quickactions-settings = Ldi iɣewwaren
 quickactions-cmd-settings = iɣewwaren, ismenyifen, tixtiṛiyin
