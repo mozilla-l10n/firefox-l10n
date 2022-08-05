@@ -15,6 +15,10 @@ dateformat-long =
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = Awezlan: { $date }
+use-system-timezone-radio-button =
+    .label = Seqdec izḍi usrig n unagraw
+set-timezone-manually-radio-button =
+    .label = Sedec izḍi usrig s ufus
 timezone-label =
     .value = Izḍi usrig:
 weekstart-label =
@@ -101,12 +105,6 @@ previous-weeks-label =
     .value = Dduṛtat yezrin ara d-yettwaseknen:
     .accesskey = z
 todaypane-legend = Agalis Ass-a
-# Note: "Upcoming" is the name of a section and the translation must match the
-# translation of that section name (calendar.upcoming.button.label). Also,
-# it should be upper case (as a proper name) if the target language permits.
-soon-label =
-    .value = Tigezmi d iteddun ad tesken:
-    .accesskey = G
 agenda-days =
     .value = Awitay yeskan:
     .accesskey = w
