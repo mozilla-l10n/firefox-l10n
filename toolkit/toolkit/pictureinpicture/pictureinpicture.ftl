@@ -15,6 +15,34 @@ pictureinpicture-unpip =
     .aria-label = დაბრუნება ჩანართში
 pictureinpicture-close =
     .aria-label = დახურვა
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-pause-cmd =
+    .aria-label = შეჩერება
+    .title = შეჩერება (ჰარი)
+pictureinpicture-play-cmd =
+    .aria-label = გაშვება
+    .title = გაშვება (ჰარი)
+pictureinpicture-mute-cmd =
+    .aria-label = დადუმება
+    .title = დადუმება ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = ახმოვანება
+    .title = ახმოვანება ({ $shortcut })
+pictureinpicture-unpip-cmd =
+    .aria-label = დაბრუნება ჩანართში
+    .title = დაბრუნება ჩანართში
+pictureinpicture-close-cmd =
+    .aria-label = დახურვა
+    .title = დახურვა ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = ზედწარწერები
+    .title = სუბტიტრები
+
+##
+
 pictureinpicture-subtitles-label = ზედწარწერა
 pictureinpicture-font-size-label = შრიფტის ზომა
 pictureinpicture-font-size-small = მცირე
