@@ -155,7 +155,15 @@ spotlight-public-wifi-vpn-link = Chan ann an-dràsta
 # "Join an early experiment". This header text can be explicitly wrapped.
 spotlight-total-cookie-protection-header = Cuir an àrainneachd as prìobhaidich againn a-riamh fo dheuchainn
 spotlight-total-cookie-protection-body = Cuiridh làn-dìon o bhriosgaidean stad air tracaichean a chleachdas briosgaidean gus do leantainn air feadh an lìn gu dìomhair.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = Togaidh { -brand-short-name } feansa mun cuairt air na briosgaidean airson ’s nach obraich iad ach air an làrach air a bheil thu agus cuiridh sin bacadh air na tracaichean o bhith gad leantainn. Le bhith a’ cur a’ ghleus seo fo dheuchainn tràth, cuiridh tu ri obair-leasachaidh a’ ghleus seo ach an tog sinn lìon nas fheàrr dhan a h-uile duine.
+spotlight-total-cookie-protection-primary-button = Cuir an làn-dìon o bhriosgaidean air
 spotlight-total-cookie-protection-secondary-button = Chan ann an-dràsta
+cfr-total-cookie-protection-header = Taing dhut-sa, tha { -brand-short-name } nas prìobhaidiche agus nas tèarainte na bha e a-riamh roimhe
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = ’S e gleus an làn-dìon o bhriosgaidean an dìon prìobhaideachd as treasa a bh’ againn a-riamh – agus tha e an sàs ann am { -brand-short-name } dhan a h-uile duine o thùs a-nis. Tha sinn fada an comain dhaoine mar thu fhèin a chur fo dheuchainn e tràth. Mòran taing airson eadar-lìon nas fheàrr, nas prìobhaidiche a thogail còmhla rinn.
 
 ## Emotive Continuous Onboarding
 
