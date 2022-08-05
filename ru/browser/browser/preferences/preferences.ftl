@@ -493,6 +493,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Домашняя страница Firefox (по умолчанию)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (По умолчанию)
 home-mode-choice-custom =
     .label = Мой URL...
 home-mode-choice-blank =
@@ -518,6 +520,8 @@ choose-bookmark =
 
 home-prefs-content-header = Домашняя страница Firefox
 home-prefs-content-description = Выберите, какое содержимое вы хотите видеть на домашней странице Firefox.
+home-prefs-content-header2 = { -firefox-home-brand-name } Содержимое
+home-prefs-content-description2 = Выберите, какое содержимое вы хотите видеть на экране { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Поиск в Интернете
 home-prefs-shortcuts-header =
