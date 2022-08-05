@@ -271,6 +271,9 @@ quickactions-cmd-refresh = smiren
 # Restarts the browser
 quickactions-restart = Ales asenker n { -brand-short-name }
 quickactions-cmd-restart = Ales asenker
+# Opens the screenshot tool
+quickactions-screenshot2 = Eg tuṭṭfa n ugdil
+quickactions-cmd-screenshot = tuṭṭfa n ugdil
 # Opens about:preferences
 quickactions-settings = Ldi iɣewwaren
 quickactions-cmd-settings = iɣewwaren, ismenyifen, tixtiṛiyin
