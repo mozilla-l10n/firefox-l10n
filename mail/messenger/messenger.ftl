@@ -129,6 +129,13 @@ message-header-button-style-text =
     .label = Teksti
 message-header-button-style-icons =
     .label = Kuvakkeet
+message-header-show-sender-full-address =
+    .label = Näytä aina lähettäjän koko osoite
+    .accesskey = ä
+message-header-show-sender-full-address-description = Sähköpostiosoite näytetään näyttönimen alla.
+message-header-show-recipient-avatar =
+    .label = Näytä lähettäjän profiilikuva
+    .accesskey = p
 
 ## Action Button Context Menu
 
@@ -138,13 +145,6 @@ toolbar-context-menu-manage-extension =
 toolbar-context-menu-remove-extension =
     .label = Poista laajennus
     .accesskey = P
-
-## Message headers
-
-message-header-address-in-address-book-icon =
-    .alt = Osoite on osoitekirjassa
-message-header-address-not-in-address-book-icon =
-    .alt = Osoite ei ole osoitekirjassa
 
 ## Add-on removal warning
 
@@ -188,12 +188,6 @@ spaces-context-new-tab-item =
     .label = Avaa uudessa välilehdessä
 spaces-context-new-window-item =
     .label = Avaa uudessa ikkunassa
-settings-context-open-settings-item =
-    .label = Avaa asetukset
-settings-context-open-account-settings-item =
-    .label = Avaa tilin asetukset
-settings-context-open-addons-item =
-    .label = Avaa lisäosien hallinta
 settings-context-open-settings-item2 =
     .label = Asetukset
 settings-context-open-account-settings-item2 =
@@ -203,17 +197,17 @@ settings-context-open-addons-item2 =
 
 ## Spaces toolbar pinned tab menupopup
 
-spaces-pinned-button-menuitem-mail =
+spaces-pinned-button-menuitem-mail2 =
     .label = { spaces-toolbar-button-mail2.title }
-spaces-pinned-button-menuitem-address-book =
+spaces-pinned-button-menuitem-address-book2 =
     .label = { spaces-toolbar-button-address-book2.title }
-spaces-pinned-button-menuitem-calendar =
+spaces-pinned-button-menuitem-calendar2 =
     .label = { spaces-toolbar-button-calendar2.title }
-spaces-pinned-button-menuitem-tasks =
+spaces-pinned-button-menuitem-tasks2 =
     .label = { spaces-toolbar-button-tasks2.title }
-spaces-pinned-button-menuitem-chat =
+spaces-pinned-button-menuitem-chat2 =
     .label = { spaces-toolbar-button-chat2.title }
-spaces-pinned-button-menuitem-settings =
+spaces-pinned-button-menuitem-settings2 =
     .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
     .label = { spaces-toolbar-button-show.title }
