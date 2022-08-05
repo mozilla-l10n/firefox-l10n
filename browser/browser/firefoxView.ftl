@@ -15,7 +15,7 @@ firefoxview-close-button =
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = À l’instant
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Récupérer des onglets
+firefoxview-tabpickup-header = Récupération d’onglets
 firefoxview-tabpickup-description = Ouvrez des pages à partir d’autres appareils.
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
