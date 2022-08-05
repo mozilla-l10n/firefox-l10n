@@ -45,6 +45,7 @@ firefoxview-mobile-promo-header = წამოიღეთ ჩანართე
 firefoxview-mobile-promo-description = ტელეფონში ბოლოს გახსნილი ჩანართების სანახავად, გამოიყენეთ { -brand-product-name } iOS-ზე ან Android-ზე და შედით ანგარიშზე.
 firefoxview-mobile-promo-primarybutton = გადმოწერეთ { -brand-product-name } მობილურზე
 firefoxview-mobile-confirmation-header = 🎉 ყველაფერი მზადაა!
+firefoxview-mobile-confirmation-description = ახლა კი შეგიძლიათ გადმოიტანოთ ის გვერდები, რომელთა გასახსნელადაც { -brand-product-name } გაქვთ გამოყენებული პლანშეტსა თუ ტელეფონზე.
 firefoxview-closed-tabs-title = ბოლოს დახურული
 firefoxview-closed-tabs-collapse-button =
     .title = ბოლოს დახურული ჩანართების სიის ჩვენება ან დამალვა
