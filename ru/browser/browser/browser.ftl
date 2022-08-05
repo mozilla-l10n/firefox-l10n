@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Управление расширением…
 page-action-remove-extension =
     .label = Удалить расширение
+page-action-manage-extension2 =
+    .label = Управление расширением…
+    .accesskey = ш
+page-action-remove-extension2 =
+    .label = Удалить расширение
+    .accesskey = л
 
 ## Auto-hide Context Menu
 
@@ -267,8 +273,18 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page
+quickactions-addons = Просмотр дополнений
+quickactions-cmd-addons = дополнения, расширения, темы
+# Opens the bookmarks library window
+quickactions-bookmarks = Просмотр закладок
+quickactions-cmd-bookmarks = закладки
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Удаление истории
+quickactions-cmd-clearhistory = удалить историю
 # Opens about:downloads page
 quickactions-downloads = Открыть загрузки
+quickactions-cmd-downloads = загрузки
 # Opens the devtools web inspector
 quickactions-inspector = Открыть инспектор
 # Opens the print dialog
