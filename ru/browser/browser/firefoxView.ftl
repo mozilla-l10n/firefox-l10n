@@ -43,7 +43,7 @@ firefoxview-tabs-list-tab-button =
     .title = Откройте { $targetURI } в новой вкладке
 firefoxview-try-colorways-button = Попробуйте расцветки
 firefoxview-no-current-colorway-collection = Новые расцветки на подходе
-firefoxview-change-colorway-button = Сменить раскраску
+firefoxview-change-colorway-button = Сменить расцветку
 # Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
