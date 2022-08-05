@@ -15,6 +15,34 @@ pictureinpicture-unpip =
     .aria-label = Odoslať späť na kartu
 pictureinpicture-close =
     .aria-label = Zavrieť
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-pause-cmd =
+    .aria-label = Pozastaviť
+    .title = Pozastaviť (medzerník)
+pictureinpicture-play-cmd =
+    .aria-label = Prehrať
+    .title = Prehrať (medzerník)
+pictureinpicture-mute-cmd =
+    .aria-label = Stlmiť
+    .title = Stlmiť ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = Zrušiť stlmenie
+    .title = Zrušiť stlmenie ({ $shortcut })
+pictureinpicture-unpip-cmd =
+    .aria-label = Odoslať späť na kartu
+    .title = Späť na kartu
+pictureinpicture-close-cmd =
+    .aria-label = Zavrieť
+    .title = Zavrieť ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = Titulky
+    .title = Titulky
+
+##
+
 pictureinpicture-subtitles-label = Titulky
 pictureinpicture-font-size-label = Veľkosť písma
 pictureinpicture-font-size-small = Malé
