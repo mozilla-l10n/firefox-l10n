@@ -6,6 +6,8 @@
 ## Colorway collections
 
 colorway-collection-independent-voices = Независими гласове
+# Used as a subheading for the colorway collection card in about:addons
+colorway-collection-independent-voices-short-description = Цветове, които променят културата.
 
 ## Colorway names and descriptions
 
