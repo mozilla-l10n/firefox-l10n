@@ -32,6 +32,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $pro
 inactive-css-not-table = <strong>{ $property }</strong> не сработает для элемента, так как он не является таблицей.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> не сработает для элемента, так как он не является прокручиваемым.
 inactive-css-border-image = <strong>{ $property }</strong> не сработает для элемента, так как его нельзя применить к внутренним элементам таблицы, где для <strong>border-collapse</strong> задано значение <strong>collapse</strong> на элементе родительской таблицы.
+inactive-css-ruby-element = <strong>{ $property }</strong> не влияет на этот элемент, так как это элемент ruby. Его размер определяется размером шрифта текста ruby.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -55,6 +56,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells-fix = Попро
 inactive-css-not-table-fix = Попробуйте добавить <strong>display:table</strong> или <strong>display:inline-table</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Попробуйте добавить <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> или <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = В элементе родительской таблицы удалите свойство, или измените значение <strong>border-collapse</strong> на значение, отличное от <strong>collapse</strong>. { learn-more }
+inactive-css-ruby-element-fix = Попробуйте изменить <strong>font-size</strong> текста ruby. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

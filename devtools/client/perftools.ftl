@@ -140,6 +140,9 @@ perftools-presets-media-label = Медиа
 perftools-presets-media-description2 = Настройки для выявления ошибок аудио и видео в { -brand-shorter-name }.
 perftools-presets-networking-label = Сеть
 perftools-presets-networking-description = Настройки для выявления сетевых ошибок в { -brand-shorter-name }.
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Электропитание
+perftools-presets-power-description = Настройки для выявления ошибок потребления энергии в { -brand-shorter-name }, с небольшими накладными расходами.
 perftools-presets-custom-label = Персональный
 
 ##
