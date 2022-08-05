@@ -158,6 +158,7 @@ media-device-channels = არხები
 media-device-rate = სიხშირე
 media-device-latency = დაყოვნება
 media-capabilities-title = მასალის შესაძლებლობები
+media-codec-support-info = მშიფრავის მხარდაჭერის შესახებ
 # List all the entries of the database.
 media-capabilities-enumerate = მონაცემთა ბაზის გამოთვლა
 

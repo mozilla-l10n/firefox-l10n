@@ -34,7 +34,12 @@
 -firefox-suggest-brand-name = Firefox-შეთავაზება
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
--firefox-home-brand-name = Firefox-მთავარი
+-firefox-home-brand-name =
+    { $case ->
+       *[nom] Firefox-მთავარი
+        [dat] Firefox-მთავარს
+        [loc] Firefox-მთავარზე
+    }
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxview-brand-name = Firefox-ხედი

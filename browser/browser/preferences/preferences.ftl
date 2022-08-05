@@ -490,6 +490,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox საწყისი გვერდი (ნაგულისხმევი)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (ნაგულისხმევი)
 home-mode-choice-custom =
     .label = მითითებული URL-მისამართები...
 home-mode-choice-blank =
@@ -515,6 +517,8 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox საწყისი გვერდი
 home-prefs-content-description = აირჩიეთ, თუ რისი გამოჩენა გსურთ Firefox-ის საწყის გვერდზე.
+home-prefs-content-header2 = { -firefox-home-brand-name } – შიგთავსი
+home-prefs-content-description2 = აირჩიეთ, რისი ხილვა გსურთ { -firefox-home-brand-name(case: "loc") }
 home-prefs-search-header =
     .label = საძიებო ველი
 home-prefs-shortcuts-header =
