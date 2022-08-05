@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Hantera tillägg…
 page-action-remove-extension =
     .label = Ta bort tillägg
+page-action-manage-extension2 =
+    .label = Hantera tillägg…
+    .accesskey = H
+page-action-remove-extension2 =
+    .label = Ta bort tillägg
+    .accesskey = T
 
 ## Auto-hide Context Menu
 
