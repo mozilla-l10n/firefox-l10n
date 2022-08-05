@@ -16,3 +16,6 @@ playmaker-colorway-name = გამთამაშებელი
 playmaker-colorway-description = ქმნით გამარჯვების ახალ შესაძლებლობებს და გარშემო სხვებსაც ხელს უწყობთ, რომ უკეთ გამოიყენონ საკუთარი უნარები.
 expressionist-colorway-name = გამომსახველობითი
 expressionist-colorway-description = სამყაროს განსხვავებულად აღიქვამთ და თქვენი ნამუშევრები სხვებში აღძრავს ძლიერ განცდებს.
+visionary-colorway-name = შორსმჭრეტველი
+visionary-colorway-description = არ ეგუებით არსებულ მდგომარეობას და სხვებსაც უღვივებთ უკეთესის მომავლის იმედს.
+activist-colorway-name = მებრძოლი
