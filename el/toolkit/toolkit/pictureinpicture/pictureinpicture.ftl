@@ -15,6 +15,34 @@ pictureinpicture-unpip =
     .aria-label = Αποστολή πίσω στην καρτέλα
 pictureinpicture-close =
     .aria-label = Κλείσιμο
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-pause-cmd =
+    .aria-label = Παύση
+    .title = Παύση (Spacebar)
+pictureinpicture-play-cmd =
+    .aria-label = Αναπαραγωγή
+    .title = Αναπαραγωγή (Spacebar)
+pictureinpicture-mute-cmd =
+    .aria-label = Σίγαση
+    .title = Σίγαση ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = Άρση σίγασης
+    .title = Άρση σίγασης ({ $shortcut })
+pictureinpicture-unpip-cmd =
+    .aria-label = Αποστολή πίσω στην καρτέλα
+    .title = Πίσω στην καρτέλα
+pictureinpicture-close-cmd =
+    .aria-label = Κλείσιμο
+    .title = Κλείσιμο ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = Υπότιτλοι
+    .title = Υπότιτλοι
+
+##
+
 pictureinpicture-subtitles-label = Υπότιτλοι
 pictureinpicture-font-size-label = Μέγεθος γραμματοσειράς
 pictureinpicture-font-size-small = Μικρό
