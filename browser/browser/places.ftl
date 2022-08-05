@@ -113,6 +113,10 @@ places-manage-bookmarks =
     .label = Stiùirich na comharran-lìn
     .accesskey = m
 places-forget-about-this-site-confirmation-title = A’ dìochuimhneachadh na làraich seo
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Bheir seo air falbh an dàta air fad co-cheangailte ri { $hostOrBaseDomain }, a’ gabhail a-staigh na h-eachdraidh, nam faclan-faire, briosgaidean, an tasgadain is roghainnean na susbainte. A bheil thu cinnteach?
+places-forget-about-this-site-forget = Dìochuimhnich
 places-library =
     .title = Leabhar-lann
     .style = width:800px; height:500px;
