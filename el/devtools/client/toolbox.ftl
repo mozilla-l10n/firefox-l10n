@@ -32,4 +32,6 @@ toolbox-meatball-menu-pseudo-locale-bidi = Ενεργοποίηση γλώσσα
 
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
+toolbox-mode-browser-toolbox-label = Λειτουργία εργαλειοθήκης φυλλομετρητή
+toolbox-mode-browser-console-label = Λειτουργία κονσόλας φυλλομετρητή
 toolbox-mode-parent-process-label = Μόνο γονική διεργασία
