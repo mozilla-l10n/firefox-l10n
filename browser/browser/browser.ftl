@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = გაფართოების მართვა…
 page-action-remove-extension =
     .label = გაფართოების მოცილება
+page-action-manage-extension2 =
+    .label = გაფართოების მართვა…
+    .accesskey = ფ
+page-action-remove-extension2 =
+    .label = გაფართოების ამოშლა
+    .accesskey = ლ
 
 ## Auto-hide Context Menu
 
@@ -262,16 +268,53 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = ისტორიის გასუფთავება
-quickactions-print = ამობეჭდვა
-quickactions-screenshot = ეკრანის სურათის გადაღება
-quickactions-settings = პარამეტრების გახსნა
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = დამატებების ნახვა
+quickactions-cmd-addons = დამატებები, გაფართოებები, თემები
+# Opens the bookmarks library window
+quickactions-bookmarks = სანიშნების ნახვა
+quickactions-cmd-bookmarks = სანიშნები
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = ისტორიის გასუფთავება
+quickactions-cmd-clearhistory = ისტორიის გასუფთავება
+# Opens about:downloads page
 quickactions-downloads = ჩამოტვირთვების გახსნა
-quickactions-viewsource = წყაროს ჩვენება
+quickactions-cmd-downloads = ჩამოტვირთვები
+# Opens the devtools web inspector
 quickactions-inspector = გვერდის გამოკვლევა
+quickactions-cmd-inspector = გამოკვლევა, შემუშავება
+# Opens about:logins
+quickactions-logins = ანგარიშების ნახვა
+quickactions-cmd-logins = ანგარიშები და პაროლები
+# Opens the print dialog
+quickactions-print = ამობეჭდვა
+quickactions-cmd-print = ამობეჭდვა
+# Opens a new private browsing window
+quickactions-private = პირადი ფანჯრის გახსნა
+quickactions-cmd-private = პირადი თვალიერება
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = შეკეთდეს { -brand-short-name }
+quickactions-cmd-refresh = გაახლება
+# Restarts the browser
 quickactions-restart = ხელახლა გაეშვას { -brand-short-name }
+quickactions-cmd-restart = ხელახლა გაშვება
+# Opens the screenshot tool
+quickactions-screenshot2 = ეკრანის სურათის გადაღება
+quickactions-cmd-screenshot = ეკრანის ანაბეჭდი
+# Opens about:preferences
+quickactions-settings = პარამეტრების გახსნა
+quickactions-cmd-settings = პარამეტრები, მახასიათებლები, გამართვა
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = განახლდეს { -brand-short-name }
+quickactions-cmd-update = განახლება
+# Opens the view-source UI with current pages source
+quickactions-viewsource = წყაროს ჩვენება
+quickactions-cmd-viewsource = წყაროს ნახვა, პირველწყარო
 
 ## Bookmark Panel
 
@@ -564,6 +607,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = სანიშნების ძიება
 urlbar-result-action-search-history = ისტორიის ძიება
 urlbar-result-action-search-tabs = ჩანართების ძიება
+urlbar-result-action-search-actions = ძიების მოქმედებები
 
 ## Labels shown above groups of urlbar results
 
@@ -846,3 +890,9 @@ data-reporting-notification-button =
     .accesskey = ზ
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = პირადი ფანჯარა
+
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = გაფართოებები
+    .tooltiptext = გაფართოებები
