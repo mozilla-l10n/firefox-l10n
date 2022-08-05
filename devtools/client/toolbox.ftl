@@ -15,21 +15,23 @@ toolbox-meatball-menu-dock-bottom-label = 停靠于底部
 toolbox-meatball-menu-dock-left-label = 停靠于左侧
 toolbox-meatball-menu-dock-right-label = 停靠于右侧
 toolbox-meatball-menu-dock-separate-window-label = 独立窗口
-
 toolbox-meatball-menu-splitconsole-label = 显示分离式控制台
 toolbox-meatball-menu-hideconsole-label = 隐藏分离式控制台
-
 toolbox-meatball-menu-settings-label = 设置
 toolbox-meatball-menu-documentation-label = 文档…
 toolbox-meatball-menu-community-label = 社区…
-
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = 不自动隐藏弹窗
-
 toolbox-meatball-menu-pseudo-locale-accented = 启用“重音符号”语言环境
 toolbox-meatball-menu-pseudo-locale-bidi = 启用“双向字符”语言环境
 
 ##
 
+
+## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
+
+toolbox-mode-browser-toolbox-label = 浏览器工具箱模式
+toolbox-mode-browser-console-label = 浏览器控制台模式
+toolbox-mode-everything-label = 多进程
