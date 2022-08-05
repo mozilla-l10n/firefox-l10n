@@ -181,6 +181,7 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = მზა პარამეტრები, ქსელის ხარვეზების გამოსავლენად – { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = ქსელი
+profiler-popup-presets-power-description = მზა პარამეტრები, კვების მიწოდების ხარვეზების გამოსავლენად – { -brand-shorter-name }, ჭარბი დატვირთვის შეზღუდვით.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = კვება
