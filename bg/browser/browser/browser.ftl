@@ -275,6 +275,46 @@ search-one-offs-actions =
 
 # Opens the about:addons page
 quickactions-addons = Преглед на добавките
+quickactions-cmd-addons = добавки, разширения, теми
+# Opens the bookmarks library window
+quickactions-bookmarks = Преглед на отметките
+quickactions-cmd-bookmarks = отметки
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Изчистване на историята
+quickactions-cmd-clearhistory = изчистване на историята
+# Opens about:downloads page
+quickactions-downloads = Отваряне на изтеглянията
+quickactions-cmd-downloads = изтегляния
+# Opens the devtools web inspector
+quickactions-inspector = Изследовател на страницата
+quickactions-cmd-inspector = инспектор, изследовател, изследвач, инструменти за разработка, инструменти на разработчика
+# Opens about:logins
+quickactions-logins = Преглед на регистрациите
+quickactions-cmd-logins = регистрации, пароли, вход, профили
+# Opens the print dialog
+quickactions-print = Отпечатване
+quickactions-cmd-print = печат, отпечатване
+# Opens a new private browsing window
+quickactions-private = Отваряне на поверителен прозорец
+quickactions-cmd-private = поверително разглеждане
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = Освежаване на { -brand-short-name }
+quickactions-cmd-refresh = освежаване, опресняване
+# Restarts the browser
+quickactions-restart = Рестартиране на { -brand-short-name }
+quickactions-cmd-restart = рестарт, рестартиране
+# Opens the screenshot tool
+quickactions-screenshot2 = Снимка на екрана
+quickactions-cmd-screenshot = снимка на екрана
+# Opens about:preferences
+quickactions-settings = Отваряне на настройките
+quickactions-cmd-settings = настройки
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = Обновяване на { -brand-short-name }
+quickactions-cmd-update = обновяване
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Преглед на изходния код
+quickactions-cmd-viewsource = преглед на изходния код, изходен код
 
 ## Bookmark Panel
 
