@@ -167,3 +167,13 @@ cfr-total-cookie-protection-body = ’S e gleus an làn-dìon o bhriosgaidean an
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Is tusa ceann-toisich eadar-lìn nas fheàrr
+spotlight-better-internet-body = Le bhith a’ cleachdadh { -brand-short-name }, tha thu a’ cur taic ri eadar-lìon fosgailte agus so-ruigsinneach a tha nas fheàrr dhan a h-uile duine.
+spotlight-peace-mind-header = Tha sinn ri do thaobh
+spotlight-peace-mind-body = Bacaidh { -brand-short-name } mu thuaiream 3,000 tracaiche gach mìos. Oir cha bu chòir cas-bhacaidh a bhith eadar thusa agus deagh eadar-lìon.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Cùm san doca
+       *[other] Prìnich ri bàr nan saothair
+    }
+spotlight-pin-secondary-button = Chan ann an-dràsta
