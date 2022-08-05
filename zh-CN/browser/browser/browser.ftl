@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = 管理扩展…
 page-action-remove-extension =
     .label = 移除扩展
+page-action-manage-extension2 =
+    .label = 管理扩展…
+    .accesskey = E
+page-action-remove-extension2 =
+    .label = 移除扩展
+    .accesskey = v
 
 ## Auto-hide Context Menu
 
