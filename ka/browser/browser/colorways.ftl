@@ -13,7 +13,7 @@ colorway-collection-independent-voices-short-description = ფერები, �
 ## Colorway names and descriptions
 
 playmaker-colorway-name = გამთამაშებელი
-playmaker-colorway-description = ქმნით გამარჯვების ახალ შესაძლებლობებს და გარშემო ყველას ხელს უწყობთ, რომ უკეთ გამოიყენონ საკუთარი უნარები.
+playmaker-colorway-description = ქმნით გამარჯვების ახალ შესაძლებლობებს და ირგვლივ მყოფთაც ხელს უწყობთ, რომ უკეთ გამოავლინონ საკუთარი უნარები.
 expressionist-colorway-name = გამომსახველობითი
 expressionist-colorway-description = სამყაროს განსხვავებულად აღიქვამთ და თქვენი ნამუშევრები სხვებშიც ძლიერ განცდებს აღძრავს.
 visionary-colorway-name = შორსმჭვრეტელი
