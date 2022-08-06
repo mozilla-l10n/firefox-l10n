@@ -13,14 +13,14 @@ colorway-collection-independent-voices-short-description = ფერები, �
 ## Colorway names and descriptions
 
 playmaker-colorway-name = გამთამაშებელი
-playmaker-colorway-description = ქმნით გამარჯვების ახალ შესაძლებლობებს და გარშემო სხვებსაც ხელს უწყობთ, რომ უკეთ გამოიყენონ საკუთარი უნარები.
+playmaker-colorway-description = ქმნით გამარჯვების ახალ შესაძლებლობებს და გარშემო ყველას ხელს უწყობთ, რომ უკეთ გამოიყენონ საკუთარი უნარები.
 expressionist-colorway-name = გამომსახველობითი
 expressionist-colorway-description = სამყაროს განსხვავებულად აღიქვამთ და თქვენი ნამუშევრები სხვებშიც ძლიერ განცდებს აღძრავს.
-visionary-colorway-name = შორსმჭრეტველი
+visionary-colorway-name = შორსმჭვრეტელი
 visionary-colorway-description = არ ეგუებით არსებულ მდგომარეობას და სხვებსაც უღვივებთ უკეთესი მომავლის იმედს.
 activist-colorway-name = მებრძოლი
 activist-colorway-description = სამყაროს ცვლით უკეთესობისკენ და სხვებსაც არწმუნებით ამის საჭიროებაში.
 dreamer-colorway-name = მეოცნებე
-dreamer-colorway-description = მიგაჩნიათ, რომ უმართლებთ მხოლოდ ძლიერებს და ყველას შთააგონებთ, იყვნენ მეტად გაბედულნი.
+dreamer-colorway-description = გჯერათ, რომ უმართლებთ მხოლოდ ძლიერებს და ყველას შთააგონებთ, იყვნენ მეტად გაბედულნი.
 innovator-colorway-name = განმაახლებელი
-innovator-colorway-description = ყველაფრისადმი თქვენი ახლებური ხედვები დადებით გავლენას ახდენს გარშემომყოფთა ცხოვრებაზე.
+innovator-colorway-description = ყველაფრისადმი თქვენი ახლებური ხედვები უკეთესობისკენ ცვლის გარშემომყოფთა ცხოვრებას.
