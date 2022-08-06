@@ -19,6 +19,12 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+pictureinpicture-pause-cmd =
+    .aria-label = Asteɛfu
+    .title = Asteɛfu (Afeggag n tallunt)
+pictureinpicture-play-cmd =
+    .aria-label = Urar
+    .title = Urar (Afeggag n tallunt)
 pictureinpicture-mute-cmd =
     .aria-label = Sgugem
     .title = Sgugem ({ $shortcut })
@@ -31,9 +37,13 @@ pictureinpicture-unpip-cmd =
 pictureinpicture-close-cmd =
     .aria-label = Mdel
     .title = Mdel ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = Iduzwilen
+    .title = Iduzwilen
 
 ##
 
+pictureinpicture-subtitles-label = Iduzwilen
 pictureinpicture-font-size-label = Teɣzi n tsefsit
 pictureinpicture-font-size-small = Mecṭuḥ
 pictureinpicture-font-size-medium = Alemmas
