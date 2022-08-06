@@ -42,3 +42,25 @@ firefoxview-tabpickup-sync-error-description = { -brand-short-name } не мож
 firefoxview-tabpickup-sync-error-primarybutton = Спробувати знову
 firefoxview-tabpickup-syncing = Заждіть, доки синхронізуються вкладки. Це триватиме лише мить.
 firefoxview-mobile-promo-header = Отримайте вкладки зі свого телефона чи планшета
+firefoxview-mobile-promo-description = Щоб переглянути свої останні вкладки з мобільного, увійдіть у { -brand-product-name } на iOS чи Android.
+firefoxview-mobile-promo-primarybutton = Отримати { -brand-product-name } для мобільного
+firefoxview-mobile-confirmation-header = 🎉 Усе готово!
+firefoxview-mobile-confirmation-description = Тепер ви можете отримати доступ до вкладок { -brand-product-name } зі свого планшета чи телефона.
+firefoxview-closed-tabs-title = Недавно закриті
+firefoxview-closed-tabs-collapse-button =
+    .title = Показати чи сховати список недавно закритих вкладок
+firefoxview-closed-tabs-description = Повторно відкрити сторінки, які ви закрили на цьому пристрої.
+firefoxview-closed-tabs-placeholder = <strong>Немає недавно закритих сторінок</strong><br/>Не бійтеся знову втратити закриту вкладку. Ви завжди можете відновити її тут.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Остання активна
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Відкрити { $targetURI } у новій вкладці
+firefoxview-try-colorways-button = Спробувати забарвлення
+firefoxview-no-current-colorway-collection = Нові забарвлення вже незабаром
+firefoxview-change-colorway-button = Змінити забарвлення
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
