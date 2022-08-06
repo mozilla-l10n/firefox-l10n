@@ -15,6 +15,34 @@ pictureinpicture-unpip =
     .aria-label = Einfügen in ursprünglichen Tab
 pictureinpicture-close =
     .aria-label = Schließen
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-pause-cmd =
+    .aria-label = Anhalten
+    .title = Anhalten (Leertaste)
+pictureinpicture-play-cmd =
+    .aria-label = Abspielen
+    .title = Abspielen (Leertaste)
+pictureinpicture-mute-cmd =
+    .aria-label = Ton aus
+    .title = Ton aus ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = Ton an
+    .title = Ton an ({ $shortcut })
+pictureinpicture-unpip-cmd =
+    .aria-label = Einfügen in ursprünglichen Tab
+    .title = In ursprünglichen Tab
+pictureinpicture-close-cmd =
+    .aria-label = Schließen
+    .title = Schließen ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = Untertitel
+    .title = Untertitel
+
+##
+
 pictureinpicture-subtitles-label = Untertitel
 pictureinpicture-font-size-label = Schriftgröße
 pictureinpicture-font-size-small = Klein

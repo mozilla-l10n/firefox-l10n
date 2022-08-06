@@ -300,6 +300,9 @@ colorway-collection-independent-voices-subheading = Machen Sie { -brand-short-na
 colorway-collection-expiry-date-span = Läuft am { DATETIME($expiryDate, month: "long", day: "numeric") } ab
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = Farbwelt ändern
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+colorway-collection-expiry-label = Läuft am { DATETIME($expiryDate, month: "long", day: "numeric") } ab
 plugin-enabled-heading = Aktiviert
 plugin-disabled-heading = Deaktiviert
 dictionary-enabled-heading = Aktiviert
