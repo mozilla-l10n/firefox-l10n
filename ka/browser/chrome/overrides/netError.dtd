@@ -126,10 +126,10 @@
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara2 "&brandShortName;, აღმოჩენილი მოსალოდნელი საფრთხის გამო, აღარ ჩატვირთავს გვერდს ბმულიდან <span class='hostname'/>. თუ ამ საიტს ეწვევით, შემტევებს შეეძლებათ ხელყონ თქვენი მონაცემები, მათ შორის პაროლები, ელფოსტის მისამართები ან საკრედიტო ბარათის ნომრები.">
-<!ENTITY certerror.sts.introPara "&brandShortName;, აღმოჩენილი მოსალოდნელი საფრთხის გამო, აღარ ჩატვირთავს გვერდს ბმულიდან <span class='hostname'/>, ვინაიდან საიტი ითხოვს დაცულ კავშირს.">
+<!ENTITY certerror.introPara2 "&brandShortName; აღმოჩენილი მოსალოდნელი საფრთხის გამო აღარ ჩატვირთავს გვერდს ბმულიდან <span class='hostname'/>. თუ ამ საიტს ეწვევით, შემტევებს შეეძლებათ ხელყონ თქვენი მონაცემები, მათ შორის პაროლები, ელფოსტის მისამართები ან საკრედიტო ბარათის ნომრები.">
+<!ENTITY certerror.sts.introPara "&brandShortName; აღმოჩენილი მოსალოდნელი საფრთხის გამო აღარ ჩატვირთავს გვერდს ბმულიდან <span class='hostname'/>, ვინაიდან საიტი ითხოვს დაცულ კავშირს.">
 
-<!ENTITY certerror.expiredCert.introPara "&brandShortName;, აღმოჩენილი ხარვეზის გამო, აღარ ჩატვირთავს გვერდს ბმულიდან <span class='hostname'/>. საიტი ან გაუმართავია, ან თქვენი კომპიუტერის საათია გასასწორებელი.">
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; აღმოჩენილი ხარვეზის გამო აღარ ჩატვირთავს გვერდს ბმულიდან <span class='hostname'/>. საიტი ან გაუმართავია, ან თქვენი კომპიუტერის საათია გასასწორებელი.">
 <!ENTITY certerror.expiredCert.secondPara2 "როგორც ჩანს, საიტის სერტიფიკატი ვადაგასულია, რის გამოც &brandShortName; ვერ ახერხებს უსაფრთხო კავშირის დამყარებას. თუ ამ საიტს ეწვევით, შემტევებმა შეიძლება ხელყონ თქვენი მონაცემები, მათ შორის პაროლები, ელფოსტის მისამართები და საკრედიტო ბარათის ნომრები.">
 <!ENTITY certerror.expiredCert.sts.secondPara "როგორც ჩანს, საიტის სერტიფიკატი ვადაგასულია, რის გამოც &brandShortName; ვერ ახერხებს უსაფრთხო კავშირის დამყარებას.">
 
