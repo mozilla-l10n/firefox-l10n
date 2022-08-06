@@ -9,3 +9,4 @@ dns-not-found-with-suggestion = Tebɣiḍ ad tedduḍ ɣer <a data-l10n-name="we
 dns-not-found-hint-header = <strong>Ma yella teskecmeḍ tansa tameɣtut, tzemreeḍ:</strong>
 dns-not-found-hint-try-again = Ɛreḍ tikkelt-nniḍen ticki
 dns-not-found-hint-check-network = senqed azeṭṭa-k·m internet
+dns-not-found-hint-firewall = Senqqed aya { -brand-short-name } yettwasireg ad yekcem ɣer web ( yezmer ahat teqqneḍ d acu ɣer uɣrab n tmes)

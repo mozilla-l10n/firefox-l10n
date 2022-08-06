@@ -16,6 +16,11 @@ firefoxview-close-button =
 firefoxview-just-now-timestamp = Tura akka
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = Tafrant n waccaren
+firefoxview-tabpickup-description = Ldi isebtar seg yibenkan-nniḍen.
+firefoxview-tabpickup-recenttabs-description = Tabdart n waccaren tamaynut ad d-tuɣal ɣer da
+# Variables:
+#  $percentValue (Number): the percentage value for setup completion
+firefoxview-tabpickup-progress-label = Yemmed { $percentValue }%
 firefoxview-tabpickup-step-signin-primarybutton = Kemmel
 firefoxview-tabpickup-adddevice-header = Mtawi { -brand-product-name } ɣef tiliɣri-inek·inem neɣ ɣef tfelwit n uselken
 firefoxview-tabpickup-adddevice-description = Sader { -brand-product-name } i uziraz syen qqen ɣer-s.
@@ -27,7 +32,15 @@ firefoxview-tabpickup-synctabs-learn-how = Issin amek
 firefoxview-tabpickup-synctabs-primarybutton = Mtawi accaren yeldin
 firefoxview-tabpickup-fxa-admin-disabled-header = Takebbanit-ik·im tessens amtawi
 firefoxview-tabpickup-network-offline-header = senqed tuqqna-k·m internet
+firefoxview-tabpickup-network-offline-primarybutton = Ɛreḍ tikelt nniḍen
 firefoxview-tabpickup-sync-error-primarybutton = Ɛreḍ tikkelt-nniḍen
+firefoxview-mobile-promo-primarybutton = Awi { -brand-product-name } i uziraz
+firefoxview-mobile-confirmation-header = 🎉 igerrez i beddu!
+firefoxview-mobile-confirmation-description = Tzemreḍ tura ad d-terreḍ accaren-ik·im { -brand-product-name } seg tfelwit n uselken neɣ seg tiliɣri
+firefoxview-closed-tabs-title = Melmi kan i yettwamdal
+firefoxview-closed-tabs-collapse-button =
+    .title = Sken neɣ ffer tabdart n waccaren yettwamedlen melmi kan
+firefoxview-closed-tabs-description = Ales tawaledyawt n yisebtar i tmedleḍ ɣef yibenk-a
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Armud aneggaru
 # Variables:
