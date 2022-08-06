@@ -11,7 +11,7 @@ experimental-features-css-masonry-description = მხარდაჭერი�
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
-experimental-features-web-gpu-description2 = ახალი API უზრუნველყოფს დაბალი დონის მხარდაჭერას გამოთვლისა და გრაფიკული გამოსახვისთვის, <a data-l10n-name="wikipedia">ვიდეო პროცესორის (GPU)</a> გამოყენებით, მომხმარებლის მოწყობილობიდან. <a data-l10n-name="spec">მახასიათებლები</a> ჯერ კიდევ მუშავდება. ვრცლად, იხილეთ <a data-l10n-name="bugzilla">საკითხი 1602129</a>.
+experimental-features-web-gpu-description2 = ახალი API უზრუნველყოფს ქვედა დონის მხარდაჭერას გამოთვლისა და გრაფიკული გამოსახვისთვის, <a data-l10n-name="wikipedia">ვიდეო პროცესორის (GPU)</a> გამოყენებით, მომხმარებლის მოწყობილობიდან. <a data-l10n-name="spec">მახასიათებლები</a> ჯერ კიდევ მუშავდება. ვრცლად, იხილეთ <a data-l10n-name="bugzilla">საკითხი 1602129</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =

@@ -115,7 +115,7 @@ permissions-exceptions-addons-desc = შეგიძლიათ მიუთი
 permissions-site-autoplay-window =
     .title = პარამეტრები – თვითგაშვება
     .style = { permissions-window.style }
-permissions-site-autoplay-desc = აქ შეგიძლიათ მართოთ ის საიტები, რომლებიც თვითგაშვების ნაგულისხმევ პარამეტრებს არ მიყვება.
+permissions-site-autoplay-desc = აქ შეგიძლიათ მართოთ ის საიტები, რომლებიც თვითგაშვების ნაგულისხმევ პარამეტრებს არ მიჰყვება.
 
 ## Site Permissions - Notifications
 

@@ -43,7 +43,7 @@ category-experimental =
     .tooltiptext = { -brand-short-name } ცდები
 pane-experimental-subtitle = გამოიყენეთ სიფრთხილით
 pane-experimental-search-results-header = { -brand-short-name } ცდები: გამოიყენეთ სიფრთხილით
-pane-experimental-description2 = გაფართოებული პარამეტრების შეცვლით, შესაძლოა დაზიანდეს { -brand-short-name } წარმადობის ან უსაფრთხოების კუთხით.
+pane-experimental-description2 = გაფართოებული პარამეტრების შეცვლით შესაძლოა დაზიანდეს { -brand-short-name } წარმადობის ან უსაფრთხოების კუთხით.
 pane-experimental-reset =
     .label = ნაგულისხმევის აღდგენა
     .accesskey = უ
@@ -377,7 +377,7 @@ update-application-auto =
     .label = თავად დააყენებს განახლებებს (სასურველია)
     .accesskey = თ
 update-application-check-choose =
-    .label = შემოწმდეს განახლებებზე, მაგრამ დაგეკითხოთ, დაყენებამდე
+    .label = შემოწმდეს განახლებებზე, მაგრამ დაგეკითხოთ დაყენებამდე
     .accesskey = შ
 update-application-manual =
     .label = არასდროს შემოწმდეს განახლებებზე (არაა სასურველი)
@@ -1074,7 +1074,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } – მონაცემთა აღრიცხვა და გამოყენება
-collection-description = ჩვენ ვცდილობთ მოგცეთ არჩევანის უფლება და აღვრიცხოთ მხოლოდ ის მონაცემები, რომლებიც დაგვეხმარება, გავაუმჯობესოთ { -brand-short-name }. ყოველთვის დაგეკითხებით, პირადი ინფორმაციის მიღებამდე.
+collection-description = ჩვენ ვცდილობთ მოგცეთ არჩევანის უფლება და აღვრიცხოთ მხოლოდ ის მონაცემები, რომლებიც დაგვეხმარება, გავაუმჯობესოთ { -brand-short-name }. ყოველთვის დაგეკითხებით პირადი ინფორმაციის მიღებამდე.
 collection-privacy-notice = პირადი მონაცემების დაცვის განაცხადი
 collection-health-report-telemetry-disabled = თქვენ გააუქმეთ ნებართვა და შედეგად, { -vendor-short-name } ვეღარ შეძლებს ტექნიკური და გამოყენების მონაცემების აღრიცხვას. აქამდე შეგროვებული ყველა მონაცემი, წაიშლება 30 დღეში.
 collection-health-report-telemetry-disabled-link = ვრცლად
