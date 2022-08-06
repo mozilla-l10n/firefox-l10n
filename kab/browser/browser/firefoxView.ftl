@@ -28,6 +28,14 @@ firefoxview-tabpickup-synctabs-primarybutton = Mtawi accaren yeldin
 firefoxview-tabpickup-fxa-admin-disabled-header = Takebbanit-ik·im tessens amtawi
 firefoxview-tabpickup-network-offline-header = senqed tuqqna-k·m internet
 firefoxview-tabpickup-sync-error-primarybutton = Ɛreḍ tikkelt-nniḍen
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Armud aneggaru
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Ldi { $targetURI } deg yiccer amaynut
+firefoxview-try-colorways-button = Ɛreḍ afran n yiniten
+firefoxview-no-current-colorway-collection = Afran n yiniten amaynut la d-teddun
 firefoxview-change-colorway-button = Beddel afran n yiniten
 # Variables:
 #  $intensity (String): Colorway intensity

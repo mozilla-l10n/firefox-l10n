@@ -5,15 +5,13 @@
 fxa-pair-device-dialog =
     .title = Qqen ibenk-nniḍen
     .style = width: 26em; min-height: 35em;
-
 fxa-qrcode-heading-step1 = 1. Ma yella ur tesɛiḍ ara yakan, sebded <a data-l10n-name="connect-another-device">Firefox deg yibenk-ik·im aziraz</a>.
-
 fxa-qrcode-heading-step2 = 2. Ldi Firefox ɣef yibenk-ik·im aziraz.
-
 fxa-qrcode-heading-step3 = 3. Ldi <b>umuɣ</b> (<img data-l10n-name="ios-menu-icon"/> neɣ <img data-l10n-name="android-menu-icon"/>), aru <img data-l10n-name="settings-icon"/> <b>iɣewwaren</b> syen fren <b>Rmed amtawii</b>
-
 fxa-qrcode-heading-step4 = 4. Siggez tangalt-a:
-
+fxa-pair-device-dialog-sync =
+    .style = width: 32em;
+fxa-qrcode-pair-title = Mtawi { -brand-product-name } ɣef tiliɣri-inek·inem neɣ ɣef tfelwit n uselken
+fxa-qrcode-pair-step1 = 1. Ldi { -brand-product-name } ɣef yibenk-ik·im aziraz.
 fxa-qrcode-error-title = Acuddu ur yeddi ara.
-
 fxa-qrcode-error-body = Ɛreḍ tikelt nniḍen.

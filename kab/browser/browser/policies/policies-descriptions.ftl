@@ -67,6 +67,7 @@ policy-Extensions = Sebded, Kkes neƔ sewḥel isiƔzaf. Asebded yettawi URLs ne
 policy-ExtensionSettings = Sefrek meṛṛa timeẓra n usbeddi n yisiɣzaf.
 policy-ExtensionUpdate = Emed neɣ sens alqem awurman n iseɣzaf.
 policy-FirefoxHome = Swel asebter agejdan n Firefox.
+policy-FirefoxHome2 = Sbadu { -firefox-home-brand-name }.
 policy-FlashPlugin = Sireg neɣ gdel asemres n uzegrir Flash.
 policy-Handlers = Swel imsefrak n usnas s wuem amezwer.
 policy-HardwareAcceleration = Ma ur yelli d ameɣtu, sens tasɣiwelt n warrum.
