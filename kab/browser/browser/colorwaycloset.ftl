@@ -5,6 +5,7 @@
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Ad yemmet { DATETIME($expiryDate, month: "long", day: "numeric") }
+colorway-intensity-selector-label = Tadwast
 colorway-intensity-soft = Leqqaq
 colorway-intensity-balanced = Mnekni
 # "Bold" is used in the sense of bravery or courage, not in the sense of

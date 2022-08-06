@@ -52,11 +52,31 @@ browser-main-window-window-titles =
     .data-title-private = Inig uslig { -brand-full-name }
     .data-content-title-default = { $content-title }—{ -brand-full-name }
     .data-content-title-private = { $content-title }— Inig uslig { -brand-full-name }
+# These are the default window titles on macOS. The first two are for use when
+# there is no content title:
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Do not use the brand name in the last two attributes, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Tunigin tusligt
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — Tunigin tusligt
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+private-browsing-shortcut-text = { -brand-short-name } tunigin tusligt
 
 ##
 
@@ -253,6 +273,11 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page
+quickactions-addons = Sken izegrar
+quickactions-cmd-addons = izegrar, isiɣqzaf, isental
+# Opens the bookmarks library window
+quickactions-bookmarks = Sken ticraḍ n usebter
 quickactions-cmd-bookmarks = ticraḍ n isebtar
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Sfeḍ azray
@@ -262,9 +287,16 @@ quickactions-downloads = Ldi isadaren
 quickactions-cmd-downloads = isadaren
 # Opens the devtools web inspector
 quickactions-inspector = Ldi amaswaḍ
+quickactions-cmd-inspector = amaswaḍ, devtools
+# Opens about:logins
+quickactions-logins = Sken-d tuqniwin
+quickactions-cmd-logins = inekcam, awalen uffiren
 # Opens the print dialog
 quickactions-print = Siggez
 quickactions-cmd-print = siggez
+# Opens a new private browsing window
+quickactions-private = Ldi asfaylu n tunigin tusligt
+quickactions-cmd-private = tunigin tusligt
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Smiren { -brand-short-name }
 quickactions-cmd-refresh = smiren
