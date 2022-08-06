@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Uzantıyı yönet…
 page-action-remove-extension =
     .label = Uzantıyı kaldır
+page-action-manage-extension2 =
+    .label = Uzantıyı yönet…
+    .accesskey = U
+page-action-remove-extension2 =
+    .label = Uzantıyı kaldır
+    .accesskey = k
 
 ## Auto-hide Context Menu
 
