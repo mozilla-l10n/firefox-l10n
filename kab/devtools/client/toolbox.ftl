@@ -34,4 +34,9 @@ toolbox-meatball-menu-pseudo-locale-bidi = Rmed tutlayt “bidi”
 
 toolbox-mode-browser-toolbox-label = Askar n tnaka n ifecka n uminig
 toolbox-mode-browser-console-label = Askar n tdiwent n iminig
+toolbox-mode-everything-label = Agetsekkar
+toolbox-mode-everything-sub-label = (S taẓeyt)
+toolbox-mode-everything-container =
+    .title = Seɣti kullec deg agetsekkar
+toolbox-mode-parent-process-label = Agetsekkar kan amaraw
 toolbox-mode-parent-process-sub-label = (arurad)
