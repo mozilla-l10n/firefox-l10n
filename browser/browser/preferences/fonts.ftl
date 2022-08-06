@@ -3,16 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fonts-window =
-    .title = Poliças
-
+    .title = Polissas
 fonts-window-close =
     .key = w
 
 ## Font groups by language
 
-fonts-langgroup-header = Poliças per
+fonts-langgroup-header = Polissas per
     .accesskey = P
-
 fonts-langgroup-arabic =
     .label = Arabi
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcionala
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Talha
     .accesskey = T
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sens-serif
     .accesskey = n
-
 fonts-monospace = Largor fixa
     .accesskey = F
-
 fonts-monospace-size = Talha
     .accesskey = l
-
-fonts-minsize = Talha minimala de la poliça
+fonts-minsize = Talha minimala de la polissa
     .accesskey = T
-
 fonts-minsize-none =
     .label = Pas cap
-
 fonts-allow-own =
-    .label = Permetre a las paginas de causir lors poliças, puslèu que las seleccions precedentas
+    .label = Permetre a las paginas de causir lors polissas, puslèu que las seleccions precedentas
     .accesskey = A
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
