@@ -14,5 +14,7 @@ colorway-intensity-bold = Zur
 # Label for the button to keep using the selected colorway in the browser
 colorway-closet-set-colorway-button = Sbadu afran n yini
 colorway-closet-cancel-button = Sefsex
+colorway-homepage-reset-prompt = Err { -firefox-home-brand-name } d asebter-ik·im agejdan s yiniten
+colorway-homepage-reset-success-message = { -firefox-home-brand-name } d asebter-ik·im agejdan tura
 colorway-homepage-reset-apply-button = Snes
 colorway-homepage-reset-undo-button = Sefsex

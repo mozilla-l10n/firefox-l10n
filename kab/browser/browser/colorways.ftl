@@ -9,4 +9,5 @@
 ## Colorway names and descriptions
 
 visionary-colorway-name = Visionary
+activist-colorway-name = Ameɣnas
 innovator-colorway-name = Amesnulfu
