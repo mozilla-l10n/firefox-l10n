@@ -15,21 +15,23 @@ toolbox-meatball-menu-dock-bottom-label = Seddu ukesser
 toolbox-meatball-menu-dock-left-label = Tamdeyt s ayeffus
 toolbox-meatball-menu-dock-right-label = Tamdeyt s azelmaḍ
 toolbox-meatball-menu-dock-separate-window-label = Asfaylu i yiman-is
-
 toolbox-meatball-menu-splitconsole-label = Sken tadiwent yebḍan
 toolbox-meatball-menu-hideconsole-label = Ffer tadiwent yebḍan
-
 toolbox-meatball-menu-settings-label = Iɣewwaṛen
 toolbox-meatball-menu-documentation-label = Tasemlit…
 toolbox-meatball-menu-community-label = Tamezdagnut…
-
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Sens tuffra tawurmant n yisfuyla udhimen
-
 toolbox-meatball-menu-pseudo-locale-accented = Rmed tutlayt “s ufeskil”
 toolbox-meatball-menu-pseudo-locale-bidi = Rmed tutlayt “bidi”
 
 ##
 
+
+## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
+
+toolbox-mode-browser-toolbox-label = Askar n tnaka n ifecka n uminig
+toolbox-mode-browser-console-label = Askar n tdiwent n iminig
+toolbox-mode-parent-process-sub-label = (arurad)

@@ -103,16 +103,9 @@ perftools-tools-threads-input-label =
     .title = Ismawen-a n usqerdec d tabdart iferqen s tefrayin, yettuseqdacen i urmad n tmeɣna n yisqerdicen deg umaɣnay.  Isem ilaq ad yili d abruyan deg umṣada akked yisem n usqerdec ara yeddun. D amḥulfu i tallunt tamellalt.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Amaynut</b>: { -profiler-brand-name } yettwasleɣ tura deg yifecka n tneflit. <a>Issin ugar</a> qef ufecku-a amaynut yelhan.
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (I tenzagt yesεan talast, tzemreḍ ad teskecmeḍ agalis n temlellit taneẓlit s <a>{ options-context-advanced-settings }</a>)
 perftools-onboarding-close-button =
     .aria-label = Mdel izen n uslaɣ
 
@@ -133,6 +126,8 @@ perftools-presets-media-label = Amidyat
 perftools-presets-media-description2 = Uzwirfren yettufeṣṣlen i usekyed n yibugen n umeslaw d tvidyut deg { -brand-shorter-name }.
 perftools-presets-networking-label = Azeṭṭa
 perftools-presets-networking-description = Uzwirfren yettufeṣṣlen i usekyed n yibugen n uzeṭṭa deg { -brand-shorter-name }.
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Tazmert
 perftools-presets-custom-label = Sagen
 
 ##
