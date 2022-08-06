@@ -15,6 +15,34 @@ pictureinpicture-unpip =
     .aria-label = Відправити назад у вкладку
 pictureinpicture-close =
     .aria-label = Закрити
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-pause-cmd =
+    .aria-label = Пауза
+    .title = Пауза (Пробіл)
+pictureinpicture-play-cmd =
+    .aria-label = Відтворити
+    .title = Відтворити (Пробіл)
+pictureinpicture-mute-cmd =
+    .aria-label = Вимкнути звук
+    .title = Вимкнути звук ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = Увімкнути звук
+    .title = Увімкнути звук ({ $shortcut })
+pictureinpicture-unpip-cmd =
+    .aria-label = Відправити назад у вкладку
+    .title = Назад у вкладку
+pictureinpicture-close-cmd =
+    .aria-label = Закрити
+    .title = Закрити ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = Субтитри
+    .title = Субтитри
+
+##
+
 pictureinpicture-subtitles-label = Субтитри
 pictureinpicture-font-size-label = Розмір шрифту
 pictureinpicture-font-size-small = Маленький
