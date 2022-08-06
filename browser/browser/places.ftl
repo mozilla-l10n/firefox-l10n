@@ -193,4 +193,4 @@ places-back-button =
     .tooltiptext = წინაზე გადასვლა
 places-forward-button =
     .tooltiptext = მომდევნოზე გადასვლა
-places-details-pane-select-an-item-description = შეარჩიეთ ელემენტი მისი პარამეტრების სანახავად და ჩასასწორებლად
+places-details-pane-select-an-item-description = შეარჩიეთ ერთეული მისი პარამეტრების სანახავად და ჩასასწორებლად
