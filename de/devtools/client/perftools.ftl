@@ -138,6 +138,9 @@ perftools-presets-media-label = Medien
 perftools-presets-media-description2 = Voreinstellung für die Untersuchung von Audio- und Videoproblemen in { -brand-shorter-name }.
 perftools-presets-networking-label = Netzwerkverbindungen
 perftools-presets-networking-description = Voreinstellung für die Untersuchung von Problemen mit Netzwerkverbindungen in { -brand-shorter-name }.
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Leistung
+perftools-presets-power-description = Voreinstellung für die Untersuchung von Problemen beim Energieverbrauch in { -brand-shorter-name }, mit geringem Overhead.
 perftools-presets-custom-label = Benutzerdefiniert
 
 ##
