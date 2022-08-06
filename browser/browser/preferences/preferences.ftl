@@ -56,8 +56,8 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = ამ შესაძლებლობის ჩასართავად, ხელახლა გაუშვით { -brand-short-name }
-feature-disable-requires-restart = ამ შესაძლებლობის გამოსართავად, ხელახლა გაუშვით { -brand-short-name }
+feature-enable-requires-restart = ამ შესაძლებლობის ჩასართავად ხელახლა გაუშვით { -brand-short-name }
+feature-disable-requires-restart = ამ შესაძლებლობის გამოსართავად ხელახლა გაუშვით { -brand-short-name }
 should-restart-title = ხელახლა გაეშვას { -brand-short-name }
 should-restart-ok = გაუშვით ხელახლა { -brand-short-name } ახლავე
 cancel-no-restart-button = გაუქმება
