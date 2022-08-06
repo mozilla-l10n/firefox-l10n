@@ -67,3 +67,38 @@
                 [lower] домівці Firefox
             }
     }
+# View" can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefoxview-brand-name =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Оглядач Firefox
+                [lower] оглядач Firefox
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Оглядача Firefox
+                [lower] оглядача Firefox
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Оглядачу Firefox
+                [lower] оглядачу Firefox
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Оглядача Firefox
+                [lower] оглядача Firefox
+            }
+        [abl]
+            { $capitalization ->
+               *[upper] Оглядачем Firefox
+                [lower] оглядачем Firefox
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Оглядачі Firefox
+                [lower] оглядачі Firefox
+            }
+    }
