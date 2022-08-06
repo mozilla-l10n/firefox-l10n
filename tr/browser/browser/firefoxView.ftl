@@ -25,12 +25,31 @@ firefoxview-tabpickup-step-signin-header = Cihazlar arasında kolayca geçiş ya
 firefoxview-tabpickup-step-signin-description = Telefondaki sekmelerinizi burada görmek için önce giriş yapın veya hesap açın.
 firefoxview-tabpickup-step-signin-primarybutton = Devam et
 firefoxview-tabpickup-adddevice-header = { -brand-product-name } tarayıcınızı telefonunuz veya tabletinizle eşitleyin
+firefoxview-tabpickup-adddevice-description = Mobil cihazlar için { -brand-product-name }’u indirin ve hesabınıza giriş yapın.
 firefoxview-tabpickup-adddevice-learn-how = Nasıl yapılacağını öğrenin
+firefoxview-tabpickup-adddevice-primarybutton = Mobil cihazlar için { -brand-product-name }’u indir
+firefoxview-tabpickup-synctabs-header = Sekme eşitlemeyi açın
+firefoxview-tabpickup-synctabs-description = { -brand-short-name } tarayıcınızın sekmeleri cihazlar arasında paylaşmasına izin verin.
+firefoxview-tabpickup-synctabs-learn-how = Nasıl yapılacağını öğrenin
+firefoxview-tabpickup-synctabs-primarybutton = Açık sekmeleri eşitle
+firefoxview-tabpickup-fxa-admin-disabled-header = Kuruluşunuz eşitlemeyi devre dışı bırakmış
 firefoxview-tabpickup-network-offline-header = İnternet bağlantınızı kontrol edin
 firefoxview-tabpickup-network-offline-primarybutton = Yeniden dene
+firefoxview-tabpickup-sync-error-header = Eşitlemede sorun yaşıyoruz
 firefoxview-tabpickup-sync-error-primarybutton = Yeniden dene
+firefoxview-mobile-promo-primarybutton = Mobil cihazlar için { -brand-product-name }’u indir
 firefoxview-mobile-confirmation-header = 🎉 Her şey hazır!
+firefoxview-mobile-confirmation-description = Artık { -brand-product-name } sekmelerinize tabletinizden ve telefonunuzdan ulaşabilirsiniz.
 firefoxview-closed-tabs-title = Son kapatılanlar
+firefoxview-closed-tabs-collapse-button =
+    .title = Son kapatılan sekmeler listesini göster veya gizle
+firefoxview-closed-tabs-description = Bu cihazda kapattığınız sayfaları yeniden açın.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Son bakılan
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = { $targetURI } adresini yeni sekmede aç
 firefoxview-try-colorways-button = Renk kuşaklarını deneyin
 firefoxview-no-current-colorway-collection = Yeni renk kuşakları yolda
 firefoxview-change-colorway-button = Renk kuşağını değiştir
