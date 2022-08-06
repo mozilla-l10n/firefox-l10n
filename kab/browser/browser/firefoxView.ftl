@@ -16,6 +16,12 @@ firefoxview-close-button =
 firefoxview-just-now-timestamp = Tura akka
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = Tafrant n waccaren
+firefoxview-tabpickup-step-signin-primarybutton = Kemmel
+firefoxview-tabpickup-adddevice-header = Mtawi { -brand-product-name } ɣef tiliɣri-inek·inem neɣ ɣef tfelwit n uselken
+firefoxview-tabpickup-adddevice-description = Sader { -brand-product-name } i uziraz syen qqen ɣer-s.
+firefoxview-tabpickup-adddevice-learn-how = Issin amek
+firefoxview-tabpickup-adddevice-primarybutton = Awi { -brand-product-name } i uziraz
+firefoxview-tabpickup-synctabs-header = Rmed amtawi n waccaren…
 firefoxview-tabpickup-sync-error-primarybutton = Ɛreḍ tikkelt-nniḍen
 firefoxview-change-colorway-button = Beddel afran n yiniten
 # Variables:
