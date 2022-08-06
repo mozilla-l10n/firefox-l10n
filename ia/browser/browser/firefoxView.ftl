@@ -50,6 +50,7 @@ firefoxview-closed-tabs-title = Recentemente claudite
 firefoxview-closed-tabs-collapse-button =
     .title = Monstrar o celar lista del schedas claudite recentemente
 firefoxview-closed-tabs-description = Reaperi paginas que tu ha claudite sur iste apparato.
+firefoxview-try-colorways-button = Prova combinationes de colores
 # Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
