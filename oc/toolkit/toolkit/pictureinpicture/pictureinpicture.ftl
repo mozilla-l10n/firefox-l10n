@@ -15,8 +15,15 @@ pictureinpicture-unpip =
     .aria-label = Renviar a l’onglet
 pictureinpicture-close =
     .aria-label = Tampar
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
+##
+
 pictureinpicture-subtitles-label = Sostitoles
-pictureinpicture-font-size-label = Talha de poliça
+pictureinpicture-font-size-label = Talha de polissa
 pictureinpicture-font-size-small = Pichona
 pictureinpicture-font-size-medium = Mejana
 pictureinpicture-font-size-large = Granda

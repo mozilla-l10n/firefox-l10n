@@ -213,8 +213,8 @@ preferences-colors-description = Subrecargar las colors per defaut de { -brand-s
 preferences-colors-manage-button =
     .label = Gestion de las colors…
     .accesskey = c
-preferences-fonts-header = Poliças
-default-font = Poliça per defaut
+preferences-fonts-header = Polissas
+default-font = Polissa per defaut
     .accesskey = D
 default-font-size = Talha
     .accesskey = l
@@ -263,9 +263,6 @@ check-user-spelling =
 
 files-and-applications-title = Fichièrs e aplicacions
 download-header = Telecargaments
-download-save-to =
-    .label = Enregistrar los fichièrs dins lo dossièr
-    .accesskey = n
 download-save-where = Enregistrar los fichièrs dins lo dossièr
     .accesskey = n
 download-choose-folder =
@@ -1140,7 +1137,3 @@ httpsonly-radio-disabled =
 desktop-folder-name = Burèu
 downloads-folder-name = Telecargaments
 choose-download-folder-title = Causissètz lo dossièr de telecargament :
-# Variables:
-#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
-save-files-to-cloud-storage =
-    .label = Enregistrar los fichièrs dins { $service-name }
