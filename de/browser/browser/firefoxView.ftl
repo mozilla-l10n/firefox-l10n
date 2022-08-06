@@ -21,3 +21,4 @@ firefoxview-tabpickup-recenttabs-description = Die Liste der kürzlich verwendet
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue } % abgeschlossen
+firefoxview-tabpickup-step-signin-header = Nahtlos zwischen Geräten wechseln
