@@ -61,7 +61,7 @@
 
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.title.label              "მოწყობილობის დამატება">
-<!ENTITY addDevice.showMeHow.label          "მაჩვენე როგორ.">
+<!ENTITY addDevice.showMeHow.label          "მიჩვენე, როგორ.">
 <!ENTITY addDevice.dontHaveDevice.label     "არ მაქვს თან რაიმე მოწყობილობა">
 <!ENTITY addDevice.setup.description.label  "ასამოქმედებლად, გადადით სხვა მოწყობილობაზე და &syncBrand.shortName.label; პარამეტრებში მიუთითეთ „მოწყობილობის დაწყვილება“.">
 <!ENTITY addDevice.setup.enterCode.label    "შემდეგ მიუთოთეთ ეს კოდი:">
