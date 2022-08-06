@@ -19,6 +19,7 @@ firefoxview-tabpickup-header = 接收标签页
 firefoxview-tabpickup-description = 打开来自其他设备的标签页。
 firefoxview-tabpickup-step-signin-header = 设备间无缝切换
 firefoxview-tabpickup-step-signin-primarybutton = 继续
+firefoxview-tabpickup-adddevice-primarybutton = 下载 { -brand-product-name } 移动版
 firefoxview-tabpickup-synctabs-header = 开启标签页同步
 firefoxview-tabpickup-synctabs-description = 允许 { -brand-short-name } 跨设备共享标签页。
 firefoxview-tabpickup-synctabs-primarybutton = 同步打开的标签页
@@ -26,3 +27,14 @@ firefoxview-tabpickup-fxa-admin-disabled-header = 您的组织已禁用同步服
 firefoxview-tabpickup-network-offline-header = 请检查您的互联网连接
 firefoxview-tabpickup-network-offline-primarybutton = 重试
 firefoxview-tabpickup-sync-error-primarybutton = 重试
+firefoxview-mobile-promo-primarybutton = 下载 { -brand-product-name } 移动版
+firefoxview-closed-tabs-title = 最近关闭
+firefoxview-closed-tabs-collapse-button =
+    .title = 显示或隐藏最近关闭的标签页列表
+firefoxview-try-colorways-button = 配色随心换
+firefoxview-no-current-colorway-collection = 新的配色即将上线
+firefoxview-change-colorway-button = 更改配色
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }

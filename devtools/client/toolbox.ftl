@@ -35,3 +35,6 @@ toolbox-meatball-menu-pseudo-locale-bidi = 启用“双向字符”语言环境
 toolbox-mode-browser-toolbox-label = 浏览器工具箱模式
 toolbox-mode-browser-console-label = 浏览器控制台模式
 toolbox-mode-everything-label = 多进程
+toolbox-mode-everything-container =
+    .title = 调试所有进程中的全部内容
+toolbox-mode-parent-process-label = 仅父进程
