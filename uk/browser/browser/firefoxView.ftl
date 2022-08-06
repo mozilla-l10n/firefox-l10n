@@ -64,3 +64,4 @@ firefoxview-change-colorway-button = Змінити забарвлення
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Ще нічого немає</strong><br/>Наступного разу, коли ви відкриєте сторінку в { -brand-product-name } на іншому пристрої, вона з'явиться тут.
