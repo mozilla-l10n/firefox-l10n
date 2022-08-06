@@ -22,6 +22,11 @@ firefoxview-tabpickup-adddevice-description = Sader { -brand-product-name } i uz
 firefoxview-tabpickup-adddevice-learn-how = Issin amek
 firefoxview-tabpickup-adddevice-primarybutton = Awi { -brand-product-name } i uziraz
 firefoxview-tabpickup-synctabs-header = Rmed amtawi n waccaren…
+firefoxview-tabpickup-synctabs-description = Sireg { -brand-short-name } ad yebḍu accaren gar yibenkan.
+firefoxview-tabpickup-synctabs-learn-how = Issin amek
+firefoxview-tabpickup-synctabs-primarybutton = Mtawi accaren yeldin
+firefoxview-tabpickup-fxa-admin-disabled-header = Takebbanit-ik·im tessens amtawi
+firefoxview-tabpickup-network-offline-header = senqed tuqqna-k·m internet
 firefoxview-tabpickup-sync-error-primarybutton = Ɛreḍ tikkelt-nniḍen
 firefoxview-change-colorway-button = Beddel afran n yiniten
 # Variables:
