@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Керувати розширенням…
 page-action-remove-extension =
     .label = Вилучити розширення
+page-action-manage-extension2 =
+    .label = Керувати розширенням…
+    .accesskey = К
+page-action-remove-extension2 =
+    .label = Вилучити розширення
+    .accesskey = В
 
 ## Auto-hide Context Menu
 
