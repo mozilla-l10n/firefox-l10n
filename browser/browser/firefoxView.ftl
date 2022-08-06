@@ -50,3 +50,17 @@ firefoxview-closed-tabs-title = Kürzlich geschlossen
 firefoxview-closed-tabs-collapse-button =
     .title = Kürzlich geschlossene Tabs anzeigen oder ausblenden
 firefoxview-closed-tabs-description = Öffnen Sie Seiten erneut, die Sie auf diesem Gerät geschlossen haben.
+firefoxview-closed-tabs-placeholder = <strong>Keine kürzlich geschlossenen Seiten</strong><br/>Sie werden nie wieder einen geschlossenen Tab verlieren. Sie können ihn hier jederzeit abrufen.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Zuletzt aktiv
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = { $targetURI } in einem neuen Tab öffnen
+firefoxview-try-colorways-button = Farbwelten ausprobieren
+firefoxview-no-current-colorway-collection = Neue Farbwelten sind auf dem Weg
+firefoxview-change-colorway-button = Farbwelt ändern
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
