@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = …ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 page-action-remove-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਹਟਾਓ
+page-action-manage-extension2 =
+    .label = …ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਬੰਦੋਬਸਤ
+    .accesskey = E
+page-action-remove-extension2 =
+    .label = ਇਕਸਟੈਨਸ਼ਨ ਹਟਾਓ
+    .accesskey = v
 
 ## Auto-hide Context Menu
 
