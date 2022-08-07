@@ -40,10 +40,17 @@ firefoxview-tabpickup-network-offline-primarybutton = ਫੇਰ ਕੋਸ਼ਿ�
 firefoxview-tabpickup-sync-error-header = ਸਾਨੂੰ ਸਿੰਕ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ ਹੈ
 firefoxview-tabpickup-sync-error-description = { -brand-short-name } ਇਸ ਵੇਲੇ ਸੇਵਾ ਲਈ ਪਹੁੰਚ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ। ਕੁਝ ਪਲ਼ਾਂ ਵਿੱਚ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 firefoxview-tabpickup-sync-error-primarybutton = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ
+firefoxview-tabpickup-syncing = ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਸਿੰਕ ਕੀਤੇ ਜਾਣ ਦੌਰਾਨ ਉਡੀਕੋ। ਇਸ ਨੂੰ ਸਿਰਫ਼ ਪਲ਼ ਕੁ ਲੱਗੇਗਾ।
 firefoxview-mobile-promo-header = ਆਪਣੇ ਫ਼ੋਨ ਜਾਂ ਟੇਬਲੇਟ ਤੋਂ ਟੈਬਾਂ ਲਵੋ
+firefoxview-mobile-promo-description = ਆਪਣੀਆਂ ਸੱਜੀਆਂ ਮੋਬਾਈਲ ਟੈਬਾਂ ਵੇਖਣ ਲਈ, iOS ਜਾਂ Android ਉੱਤੇ { -brand-product-name } ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
 firefoxview-mobile-promo-primarybutton = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਲਵੋ
 firefoxview-mobile-confirmation-header = 🎉 ਸਭ ਤਿਆਰ ਹੈ!
+firefoxview-mobile-confirmation-description = ਹੁਣ ਤੁਸੀਂ ਟੈਬਲੇਟ ਜਾਂ ਫ਼ੋਨ ਤੋਂ ਆਪਣੇ { -brand-product-name } ਟੈਬਾਂ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹੋ।
 firefoxview-closed-tabs-title = ਸੱਜਰੀਆਂ ਬੰਦ ਕੀਤੀਆਂ
+firefoxview-closed-tabs-collapse-button =
+    .title = ਸੱਜੀਆਂ ਬੰਦ ਕੀਤੀਆਂ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਵੇਖਾਓ ਜਾਂ ਲੁਕਾਓ
+firefoxview-closed-tabs-description = ਤੁਹਾਡੇ ਵਲੋਂ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਬੰਦ ਕੀਤੇ ਸਫ਼ਿਆਂ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹੋ।
+firefoxview-closed-tabs-placeholder = <strong>ਕੋਈ ਵੀ ਸੱਜਰੇ ਬੰਦ ਕੀਤੇ ਸਫ਼ੇ ਨਹੀਂ</strong><br/>ਕੋਈ ਵੀ ਬੰਦ ਕੀਤੀ ਟੈਬ ਭੁੱਲ ਜਾਣ ਤੋਂ ਨਾ ਡਰੋ। ਇੱਥੋਂ ਇਸ ਨੂੰ ਕਦੇ ਵੀ ਬਹਾਲ ਕਰ ਸਕਦੇ ਹੋ।
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = ਆਖਰੀ ਸਰਗਰਮੀ
 # Variables:
@@ -57,3 +64,4 @@ firefoxview-change-colorway-button = ਰੰਗ-ਢੰਗ ਬਦਲੋ
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>ਹਾਲੇ ਕੁਝ ਵੀ ਨਹੀਂ ਹੈ</strong><br/>ਜਦੋਂ ਤੁਸੀਂ ਹੋਰ ਡਿਵਾਈਸ ਉੱਤੇ { -brand-product-name } ਵਿੱਚ ਸਫ਼ੇ ਨੂੰ ਖੋਲ੍ਹਦੇ ਹੋ ਤਾਂ ਉਸ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰੋ।
