@@ -33,6 +33,7 @@ firefoxview-tabpickup-synctabs-description = { -brand-short-name } ਨੂੰ ਡ
 firefoxview-tabpickup-synctabs-learn-how = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
 firefoxview-tabpickup-synctabs-primarybutton = ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਸਿੰਕ ਕਰੋ
 firefoxview-tabpickup-fxa-admin-disabled-header = ਤੁਹਾਡੇ ਸੰਗਠਨ ਨੇ ਲਿੰਕ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ
+firefoxview-tabpickup-fxa-admin-disabled-description = ਤੁਹਾਡੇ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਸਿੰਕ ਕਰਨ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੋਇਆ ਹੋਣ ਕਰਕੇ { -brand-short-name } ਟੈਬਾਂ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸਿੰਕ ਕਰਨ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੈ।
 firefoxview-tabpickup-network-offline-header = ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਦੀ ਜਾਂਚ ਕਰੋ
 firefoxview-tabpickup-network-offline-description = ਜੇ ਤੁਸੀਂ ਫਾਇਰਵਾਲ ਜਾਂ ਪਰਾਕਸੀ ਵਰਤ ਰਹੇ ਹੋ ਤਾਂ ਜਾਂਚ ਕਰੋ ਕਿ ਕੀ { -brand-short-name } ਨੂੰ ਵੈੱਬ ਵਰਤਣ ਦੀ ਇਜਾਜ਼ਤ ਹੈ।
 firefoxview-tabpickup-network-offline-primarybutton = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ
