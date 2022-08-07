@@ -15,6 +15,34 @@ pictureinpicture-unpip =
     .aria-label = Enviar de vuelta a la pestaña
 pictureinpicture-close =
     .aria-label = Cerrar
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-pause-cmd =
+    .aria-label = Pausar
+    .title = Pausar (Barra de espacios)
+pictureinpicture-play-cmd =
+    .aria-label = Reproducir
+    .title = Reproducir (Barra de espacios)
+pictureinpicture-mute-cmd =
+    .aria-label = Silenciar
+    .title = Silenciar ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = Activar el sonido
+    .title = Activar el sonido ({ $shortcut })
+pictureinpicture-unpip-cmd =
+    .aria-label = Enviar de vuelta a la pestaña
+    .title = De vuelta a la pestaña
+pictureinpicture-close-cmd =
+    .aria-label = Cerrar
+    .title = Cerrar ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = Subtítulos
+    .title = Subtítulos
+
+##
+
 pictureinpicture-subtitles-label = Subtítulos
 pictureinpicture-font-size-label = Tamaño de letra
 pictureinpicture-font-size-small = Chico
