@@ -281,7 +281,7 @@ quickactions-bookmarks = הצגת סימניות
 quickactions-cmd-bookmarks = סימניות, מועדפים
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = מחיקת היסטוריה
-quickactions-cmd-clearhistory = מחיקת היסטוריה, ניקוי היסטוריה, מחק היסטוריה, נקה היסטוריה
+quickactions-cmd-clearhistory = מחיקת היסטוריה, ניקוי היסטוריה, מחק היסטוריה, נקה היסטוריה, למחוק היסטוריה, לנקות היסטוריה
 # Opens about:downloads page
 quickactions-downloads = פתיחת הורדות
 quickactions-cmd-downloads = הורדות
