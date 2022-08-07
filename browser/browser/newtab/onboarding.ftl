@@ -114,7 +114,7 @@ mr2-onboarding-colorway-label-soft = Yumuşak
 mr2-onboarding-colorway-label-balanced = Dengeli
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
-mr2-onboarding-colorway-label-bold = Canlı
+mr2-onboarding-colorway-label-bold = Koyu
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Otomatik
 # This string will be used for Default theme
