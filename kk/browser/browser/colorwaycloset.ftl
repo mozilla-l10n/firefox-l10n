@@ -14,5 +14,7 @@ colorway-intensity-bold = Қалың
 # Label for the button to keep using the selected colorway in the browser
 colorway-closet-set-colorway-button = Түстер схемасын орнату
 colorway-closet-cancel-button = Бас тарту
+colorway-homepage-reset-prompt = { -firefox-home-brand-name } өнімін түрлі-түсті басты бетіңіз етіп жасаңыз
+colorway-homepage-reset-success-message = { -firefox-home-brand-name } енді сіздің басты бетіңіз
 colorway-homepage-reset-apply-button = Іске асыру
 colorway-homepage-reset-undo-button = Болдырмау

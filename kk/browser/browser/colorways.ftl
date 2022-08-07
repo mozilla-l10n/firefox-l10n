@@ -6,6 +6,21 @@
 ## Colorway collections
 
 colorway-collection-independent-voices = Тәуелсіз дауыстар
+colorway-collection-independent-voices-description = Түс мәдениетті өзгерте алады. Соңғы түстер әлемді жақсырақ орынға айналдыратын дауыстарды атап өтеді.
+# Used as a subheading for the colorway collection card in about:addons
+colorway-collection-independent-voices-short-description = Мәдениетті өзгертетін түстер.
 
 ## Colorway names and descriptions
 
+playmaker-colorway-name = Плеймейкер
+playmaker-colorway-description = Сіз жеңу мүмкіндігін жасайсыз және айналаңыздағы барлық адамдарға өз ойынын көтеруге көмектесесіз.
+expressionist-colorway-name = Экспрессионист
+expressionist-colorway-description = Сіз әлемді басқаша көресіз және сіздің туындыларыңыз басқалардың эмоцияларын қозғайды.
+visionary-colorway-name = Визионер
+visionary-colorway-description = Сіз статус-квоға күмән келтіресіз және басқаларды жақсы болашақты елестетуге итермелейсіз.
+activist-colorway-name = Активист
+activist-colorway-description = Сіз әлемді сіз тапқаннан да жақсы орынға тастап, басқаларды сенуге жетелейсіз.
+dreamer-colorway-name = Армандаушы
+dreamer-colorway-description = Сіз сәттілік батылдарды жақсы көреді және басқаларды батыл болуға шабыттандырады деп сенесіз.
+innovator-colorway-name = Жаңашыл
+innovator-colorway-description = Сіз барлық жерде мүмкіндіктерді көресіз және айналаңыздағы барлық адамдардың өміріне әсер етесіз.
