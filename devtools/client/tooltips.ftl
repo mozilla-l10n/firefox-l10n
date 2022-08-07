@@ -32,6 +32,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells = Vlastnosť <st
 inactive-css-not-table = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o tabuľku.
 inactive-scroll-padding-when-not-scroll-container = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože prvok nie je rolovateľný.
 inactive-css-border-image = Vlastnosť <strong>{ $property }</strong> nemá žiadny vplyv na tento prvok, pretože ju nemožno použiť na interné prvky tabuľky, kde je vlastnosť <strong>border-collapse</strong> na nadradenom prvku tabuľky nastavená na hodnotu <strong>collapse</strong>.
+inactive-css-ruby-element = Vlastnosť <strong>{ $property }</strong> nemá žiadny vplyv na tento prvok, pretože je to prvok ruby. Jeho veľkosť je určená veľkosťou písma textu prvku ruby.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -55,6 +56,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells-fix = Skúste na
 inactive-css-not-table-fix = Skúste pridať <strong>display:table</strong> alebo <strong>display:inline-table</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Skúste pridať <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, alebo <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Pre nadradený prvok tabuľky odstráňte vlastnosť alebo zmeňte hodnotu <strong>border-collapse</strong> na inú hodnotu než <strong>collapse</strong>. { learn-more }
+inactive-css-ruby-element-fix = Skúste zmeniť <strong>veľkosť písma</strong> textu prvku ruby. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
