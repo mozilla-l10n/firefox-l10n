@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Kudeatu hedapena…
 page-action-remove-extension =
     .label = Kendu hedapena
+page-action-manage-extension2 =
+    .label = Kudeatu hedapena…
+    .accesskey = h
+page-action-remove-extension2 =
+    .label = Kendu hedapena
+    .accesskey = k
 
 ## Auto-hide Context Menu
 
@@ -262,16 +268,53 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Garbitu historia
-quickactions-print = Inprimatu
-quickactions-screenshot = Hartu pantaila-argazkia
-quickactions-settings = Ireki ezarpenak
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Ikusi gehigarriak
+quickactions-cmd-addons = gehigarriak, hedapenak, itxurak
+# Opens the bookmarks library window
+quickactions-bookmarks = Ikusi laster-markak
+quickactions-cmd-bookmarks = laster-markak
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Garbitu historia
+quickactions-cmd-clearhistory = garbitu historia
+# Opens about:downloads page
 quickactions-downloads = Ireki deskargak
-quickactions-viewsource = Ikusi iturburua
+quickactions-cmd-downloads = deskargak
+# Opens the devtools web inspector
 quickactions-inspector = Ireki ikustailea
+quickactions-cmd-inspector = ikuskatzailea, garatzaile-tresnak
+# Opens about:logins
+quickactions-logins = Ikusi saio-hasierak
+quickactions-cmd-logins = saio-hasierak, pasahitzak
+# Opens the print dialog
+quickactions-print = Inprimatu
+quickactions-cmd-print = inprimatu
+# Opens a new private browsing window
+quickactions-private = Ireki nabigatze pribatuko leihoa
+quickactions-cmd-private = nabigatze pribatua
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Biziberritu { -brand-short-name }
+quickactions-cmd-refresh = berritu
+# Restarts the browser
 quickactions-restart = Berrabiarazi { -brand-short-name }
+quickactions-cmd-restart = berrabiarazi
+# Opens the screenshot tool
+quickactions-screenshot2 = Hartu pantaila-argazkia
+quickactions-cmd-screenshot = pantaila-argazkia
+# Opens about:preferences
+quickactions-settings = Ireki ezarpenak
+quickactions-cmd-settings = ezarpenak, hobespenak, aukerak
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Eguneratu { -brand-short-name }
+quickactions-cmd-update = eguneratu
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Ikusi iturburua
+quickactions-cmd-viewsource = ikusi iturburua, iturburua
 
 ## Bookmark Panel
 
@@ -564,6 +607,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Bilatu laster-markak
 urlbar-result-action-search-history = Bilatu historia
 urlbar-result-action-search-tabs = Bilatu fitxak
+urlbar-result-action-search-actions = Bilaketa-ekintzak
 
 ## Labels shown above groups of urlbar results
 
@@ -846,3 +890,9 @@ data-reporting-notification-button =
     .accesskey = A
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Nabigatze pribatua
+
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = Hedapenak
+    .tooltiptext = Hedapenak
