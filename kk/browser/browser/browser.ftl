@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Кеңейтуді басқару…
 page-action-remove-extension =
     .label = Кеңейтуді өшіру
+page-action-manage-extension2 =
+    .label = Кеңейтуді басқару…
+    .accesskey = е
+page-action-remove-extension2 =
+    .label = Кеңейтуді өшіру
+    .accesskey = ш
 
 ## Auto-hide Context Menu
 
@@ -601,6 +607,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Бетбелгілерден іздеу
 urlbar-result-action-search-history = Тарихтан іздеу
 urlbar-result-action-search-tabs = Беттерден іздеу
+urlbar-result-action-search-actions = Әрекеттерден іздеу
 
 ## Labels shown above groups of urlbar results
 
@@ -614,6 +621,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = { $engine } ұсыныстары
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Жылдам әрекеттер
 
 ## Full Screen and Pointer Lock UI
 
