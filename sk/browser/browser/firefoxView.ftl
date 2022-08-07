@@ -13,7 +13,7 @@ firefoxview-close-button =
     .title = Zavrieť
     .aria-label = Zavrieť
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
-firefoxview-just-now-timestamp = Práve teraz
+firefoxview-just-now-timestamp = práve teraz
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = Vyzdvihnutie karty
 firefoxview-tabpickup-description = Otvorte si stránky z iných zariadení.
@@ -49,7 +49,7 @@ firefoxview-mobile-confirmation-description = Teraz si môžete vziať karty z {
 firefoxview-closed-tabs-title = Nedávno zatvorené
 firefoxview-closed-tabs-collapse-button =
     .title = Zobraziť alebo skryť zoznam nedávno zatvorených kariet
-firefoxview-closed-tabs-description = Znova otvorte stránky, ktoré ste na tomto zariadení zatvorili.
+firefoxview-closed-tabs-description = Otvorte si znova stránky, ktoré ste na tomto zariadení predtým zatvorili.
 firefoxview-closed-tabs-placeholder = <strong>Žiadne nedávno zatvorené stránky</strong><br/>Už sa nemusíte báť, že stratíte zatvorenú kartu. Vždy ju môžete nájsť na tomto mieste.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Posledná aktivita
@@ -64,3 +64,4 @@ firefoxview-change-colorway-button = Zmeniť farebnú tému
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Zatiaľ tu nie je nič</strong><br/>Keď však nabudúce otvoríte stránku vo { -brand-product-name(case: "loc") } na inom zariadení, akoby zázrakom ju nájdete aj tu.
