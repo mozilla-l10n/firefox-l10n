@@ -490,6 +490,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox үй парағы (Бастапқы)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (Үнсіз келісім бойынша)
 home-mode-choice-custom =
     .label = Таңдауыңызша URL адрестері…
 home-mode-choice-blank =
@@ -515,6 +517,7 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox үй парағы құрамасы
 home-prefs-content-description = Firefox үй парағында қандай құраманы көргіңіз келетінді таңдаңыз.
+home-prefs-content-header2 = { -firefox-home-brand-name } мазмұны
 home-prefs-search-header =
     .label = Интернеттен іздеу
 home-prefs-shortcuts-header =
@@ -535,6 +538,8 @@ home-prefs-recommended-by-description-new = { -brand-product-name } отбасы
 home-prefs-recommended-by-learn-more = Ол қалай жұмыс істейді
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Демеушілер мақалалары
+home-prefs-recommended-by-option-recent-saves =
+    .label = Соңғы сақтауларды көрсету
 home-prefs-highlights-option-visited-pages =
     .label = Қаралған беттер
 home-prefs-highlights-options-bookmarks =
