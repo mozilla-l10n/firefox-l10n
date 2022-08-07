@@ -68,7 +68,7 @@ appmenuitem-fullscreen =
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 appmenu-remote-tabs-sign-into-sync =
-    .label = …ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
+    .label = …ਸਿੰਕ ਵਾਸਤੇ ਸਾਈਨ ਇਨ ਕਰੋ
 appmenu-remote-tabs-turn-on-sync =
     .label = …ਸਿੰਕ ਚਾਲੂ ਕਰੋ
 # This is shown after the tabs list if we can display more tabs by clicking on the button
@@ -100,7 +100,7 @@ appmenu-fxa-last-sync = ਪਿਛਲਾ ਸਿੰਕ ਕੀਤਾ { $time }
 appmenu-fxa-sync-and-save-data2 = ਡਾਟਾ ਸਿੰਕ ਕਰੋ ਤੇ ਸੰਭਾਲੋ
 appmenu-fxa-signed-in-label = ਸਾਇਨ ਇਨ
 appmenu-fxa-setup-sync =
-    .label = ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
+    .label = ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਕਰੋ…
 appmenuitem-save-page =
     .label = …ਸਫ਼ੇ ਨੂੰ ਇੰਝ ਸੰਭਾਲੋ
 
@@ -192,10 +192,10 @@ profiler-popup-presets-custom-label =
 
 appmenu-manage-history =
     .label = ਅਤੀਤ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
-appmenu-reopen-all-tabs = ਸਾਰੀਆਂ ਟੈਬਾਂ ਖੋਲ੍ਹੋ
+appmenu-reopen-all-tabs = ਸਾਰੀਆਂ ਟੈਬਾਂ ਮੁੜ-ਖੋਲ੍ਹੋ
 appmenu-reopen-all-windows = ਸਾਰੀਆਂ ਵਿੰਡੋ ਮੁੜ-ਖੋਲ੍ਹੋ
 appmenu-restore-session =
-    .label = ਪਿਛਲੇ ਸ਼ੈਸ਼ਨ ਨੂੰ ਮੁੜ-ਸਟੋਰ ਕਰੋ
+    .label = ਪਿਛਲੇ ਸੈਸ਼ਨ ਬਹਾਲ ਕਰੋ
 appmenu-clear-history =
     .label = …ਤਾਜ਼ੇ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ
 appmenu-recent-history-subheader = ਤਾਜ਼ਾ ਅਤੀਤ

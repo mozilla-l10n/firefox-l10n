@@ -15,6 +15,34 @@ pictureinpicture-unpip =
     .aria-label = ਟੈਬ ਤੇ ਵਾਪਸ ਭੇਜੋ
 pictureinpicture-close =
     .aria-label = ਬੰਦ ਕਰੋ
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-pause-cmd =
+    .aria-label = ਵਿਰਾਮ
+    .title = ਵਿਰਾਮ (ਸਪੇਸ-ਪੱਟੀ)
+pictureinpicture-play-cmd =
+    .aria-label = ਚਲਾਓ
+    .title = ਚਲਾਓ (ਸਪੇਸ-ਬਾਰ)
+pictureinpicture-mute-cmd =
+    .aria-label = ਮਿਊਟ
+    .title = ਮਿਊਟ ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = ਅਣ-ਮਿਊਟ
+    .title = ਅਣ-ਮਿਊਟ ({ $shortcut })
+pictureinpicture-unpip-cmd =
+    .aria-label = ਟੈਬ ਉੱਤੇ ਵਾਪਸ ਭੇਜੋ
+    .title = ਟੈਬ ਉੱਤੇ ਵਾਪਸ
+pictureinpicture-close-cmd =
+    .aria-label = ਬੰਦ ਕਰੋ
+    .title = ਬੰਦ ਕਰੋ ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = ਸਬ-ਟਾਈਟਲ
+    .title = ਸਬ-ਟਾਈਟਲ
+
+##
+
 pictureinpicture-subtitles-label = ਸਬ-ਟਾਈਟਲ
 pictureinpicture-font-size-label = ਫ਼ੋਂਟ ਦਾ ਆਕਾਰ
 pictureinpicture-font-size-small = ਛੋਟੇ
