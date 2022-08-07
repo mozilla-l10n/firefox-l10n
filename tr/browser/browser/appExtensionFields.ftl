@@ -8,13 +8,10 @@
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = Sistem teması — otomatik
 extension-default-theme-description = Düğmeler, menüler ve pencereler için işletim sistemi ayarını kullan.
-
 extension-firefox-compact-light-name = Açık
 extension-firefox-compact-light-description = Açık renklere sahip bir tema.
-
 extension-firefox-compact-dark-name = Koyu
 extension-firefox-compact-dark-description = Koyu renklerle sahip bir tema.
-
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Düğmeler, menüler ve pencereler için renkli bir görünüm kullanın.
 
@@ -28,4 +25,4 @@ extension-colorways-soft-name = { $colorway-name } — Yumuşak
 extension-colorways-balanced-name = { $colorway-name } — Dengeli
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
-extension-colorways-bold-name = { $colorway-name } — Canlı
+extension-colorways-bold-name = { $colorway-name } — Koyu

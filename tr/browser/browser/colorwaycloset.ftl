@@ -10,7 +10,7 @@ colorway-intensity-soft = Yumuşak
 colorway-intensity-balanced = Dengeli
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
-colorway-intensity-bold = Canlı
+colorway-intensity-bold = Koyu
 # Label for the button to keep using the selected colorway in the browser
 colorway-closet-set-colorway-button = Renk kuşağını ayarla
 colorway-closet-cancel-button = Vazgeç
