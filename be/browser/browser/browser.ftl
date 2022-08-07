@@ -267,6 +267,11 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page
+quickactions-addons = Паглядзець дадаткі
+quickactions-cmd-addons = дадаткі, пашырэнні, тэмы
+# Opens the bookmarks library window
+quickactions-bookmarks = Паглядзець закладкі
 quickactions-cmd-bookmarks = закладкі
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Ачысціць гісторыю
@@ -276,16 +281,30 @@ quickactions-downloads = Адкрыць сцягванні
 quickactions-cmd-downloads = сцягванні
 # Opens the devtools web inspector
 quickactions-inspector = Адкрыць інспектар
+# Opens about:logins
+quickactions-logins = Прагляд лагінаў
+quickactions-cmd-logins = лагіны, паролі
 # Opens the print dialog
 quickactions-print = Друкаваць
+quickactions-cmd-print = друк
+# Opens a new private browsing window
+quickactions-private = Адкрыць акно прыватнага аглядання
+quickactions-cmd-private = прыватнае агляданне
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Ачысціць { -brand-short-name }
+quickactions-cmd-refresh = абнавіць
 # Restarts the browser
 quickactions-restart = Перазапусціць { -brand-short-name }
+quickactions-cmd-restart = перазапусціць
+# Opens the screenshot tool
+quickactions-screenshot2 = Зрабіць здымак экрана
+quickactions-cmd-screenshot = здымак экрана
 # Opens about:preferences
 quickactions-settings = Адкрыць налады
+quickactions-cmd-settings = налады, перавагі, параметры
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Абнавіць { -brand-short-name }
+quickactions-cmd-update = абнавіць
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Праглядзець зыходнік
 
@@ -872,3 +891,6 @@ private-browsing-indicator-label = Прыватнае агляданне
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Пашырэнні
+    .tooltiptext = Пашырэнні
