@@ -15,6 +15,34 @@ pictureinpicture-unpip =
     .aria-label = Sekmeye geri gönder
 pictureinpicture-close =
     .aria-label = Kapat
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-pause-cmd =
+    .aria-label = Duraklat
+    .title = Duraklat (Boşluk)
+pictureinpicture-play-cmd =
+    .aria-label = Oynat
+    .title = Oynat (Boşluk)
+pictureinpicture-mute-cmd =
+    .aria-label = Sesi kapat
+    .title = Sesi kapat ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = Sesi aç
+    .title = Sesi aç ({ $shortcut })
+pictureinpicture-unpip-cmd =
+    .aria-label = Sekmeye geri gönder
+    .title = Geri gönder
+pictureinpicture-close-cmd =
+    .aria-label = Kapat
+    .title = Kapat ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = Altyazı
+    .title = Altyazı
+
+##
+
 pictureinpicture-subtitles-label = Altyazı
 pictureinpicture-font-size-label = Yazı tipi boyutu
 pictureinpicture-font-size-small = Küçük
