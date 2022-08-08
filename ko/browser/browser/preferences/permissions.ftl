@@ -22,7 +22,7 @@ permissions-button-off =
     .label = 끄기
     .accesskey = O
 permissions-button-off-temporarily =
-    .label = 일시 끄기
+    .label = 일시적으로 끄기
     .accesskey = T
 permissions-site-name =
     .label = 웹 사이트
@@ -61,7 +61,7 @@ permissions-capabilities-listitem-allow-session =
 permissions-capabilities-listitem-off =
     .value = 끄기
 permissions-capabilities-listitem-off-temporarily =
-    .value = 일시 끄기
+    .value = 일시적으로 끄기
 
 ## Invalid Hostname Dialog
 
