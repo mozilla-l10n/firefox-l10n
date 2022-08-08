@@ -25,3 +25,12 @@ firefoxview-tabpickup-step-signin-primarybutton = Ku’ejey
 firefoxview-tabpickup-adddevice-header = Embojuehe { -brand-product-name } ne pumbyry ha tablétape
 firefoxview-tabpickup-adddevice-learn-how = Mba’éicha eikuaáta
 firefoxview-tabpickup-adddevice-primarybutton = Eguereko { -brand-product-name } ne pumbyrýpe g̃uarã
+firefoxview-tabpickup-synctabs-learn-how = Mba’éichapa eikuaáta
+firefoxview-tabpickup-synctabs-primarybutton = Embojuehe tendayke ijurujáva
+firefoxview-tabpickup-network-offline-primarybutton = Eha’ãjey
+firefoxview-tabpickup-sync-error-primarybutton = Eha’ãjey
+firefoxview-mobile-confirmation-header = 🎉 ¡Eguerahakuaáma!
+firefoxview-closed-tabs-title = Oñembotyramovéva
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Hendyramovéva
+firefoxview-try-colorways-button = Eipuru sa’y ojueheguáva
