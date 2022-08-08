@@ -15,3 +15,5 @@ playmaker-colorway-name = Ñembosarái moheñoiha
 expressionist-colorway-name = Temiandugua
 visionary-colorway-name = Ohecha mombyrýva
 activist-colorway-name = Hekokuéva
+dreamer-colorway-name = Kerayvotyhára
+innovator-colorway-name = Mbopyahuhára

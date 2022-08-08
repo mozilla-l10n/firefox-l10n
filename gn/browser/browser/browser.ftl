@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Moĩmbaháre Ñangareko…
 page-action-remove-extension =
     .label = Emboguete jepysokue
+page-action-manage-extension2 =
+    .label = Eñangareko jepysokuére…
+    .accesskey = E
+page-action-remove-extension2 =
+    .label = Emboguete jepysokue
+    .accesskey = v
 
 ## Auto-hide Context Menu
 
