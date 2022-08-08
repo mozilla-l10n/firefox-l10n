@@ -89,6 +89,16 @@ tab-context-reopen-closed-tabs =
            *[other] Ath-fhosgail na tabaichean a chaidh a dhùnadh
         }
     .accesskey = o
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Dùin an taba
+            [one] Dùin { $tabCount } taba
+            [two] Dùin { $tabCount } thaba
+            [few] Dùin { $tabCount } tabaichean
+           *[other] Dùin { $tabCount } taba
+        }
+    .accesskey = t
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -99,7 +109,6 @@ tab-context-move-tabs =
            *[other] Gluais na tabaichean
         }
     .accesskey = G
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
