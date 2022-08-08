@@ -32,6 +32,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $pro
 inactive-css-not-table = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena bukan tabel.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini tidak menggulir.
 inactive-css-border-image = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena tidak dapat diterapkan pada elemen tabel internal di mana <strong>border-collapse</strong> disetel menjadi <strong>collapse</strong> pada elemen tabel induk.
+inactive-css-ruby-element = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena merupakan elemen ruby. Ukurannya ditentukan oleh ukuran font teks ruby.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -55,6 +56,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells-fix = Cobalah me
 inactive-css-not-table-fix = Coba tambahkan <strong>display:table</strong> atau <strong>display:inline-table</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Coba tambahkan <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, atau <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Pada elemen tabel induk, hapus properti atau ubah nilai <strong>border-collapse</strong> ke nilai selain <strong>collapse</strong>. { learn-more }
+inactive-css-ruby-element-fix = Coba ubah <strong>ukuran fon</strong> dari teks ruby. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
