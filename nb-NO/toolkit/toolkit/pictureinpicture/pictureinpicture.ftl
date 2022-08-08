@@ -26,11 +26,20 @@ pictureinpicture-play-cmd =
     .aria-label = Spill av
     .title = Spill av (mellomrom)
 pictureinpicture-mute-cmd =
-    .aria-label = Demp
-    .title = Demp ({ $shortcut })
+    .aria-label = Lyd av
+    .title = Lyd av ({ $shortcut })
 pictureinpicture-unmute-cmd =
     .aria-label = Lyd på
     .title = Lyd på ({ $shortcut })
+pictureinpicture-unpip-cmd =
+    .aria-label = Send tilbake til fanen
+    .title = Tilbake til fanen
+pictureinpicture-close-cmd =
+    .aria-label = Lukk
+    .title = Lukk ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = Undertekster
+    .title = Undertekster
 
 ##
 
