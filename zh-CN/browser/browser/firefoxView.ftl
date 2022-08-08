@@ -27,10 +27,17 @@ firefoxview-tabpickup-fxa-admin-disabled-header = 您的组织已禁用同步服
 firefoxview-tabpickup-network-offline-header = 请检查您的互联网连接
 firefoxview-tabpickup-network-offline-primarybutton = 重试
 firefoxview-tabpickup-sync-error-primarybutton = 重试
+firefoxview-mobile-promo-header = 从手机或平板电脑接收标签页
+firefoxview-mobile-promo-description = 若要查看近期您移动设备上的标签页，请登录 iOS/Android 版 { -brand-product-name }。
 firefoxview-mobile-promo-primarybutton = 下载 { -brand-product-name } 移动版
+firefoxview-mobile-confirmation-header = 🎉大功告成！
 firefoxview-closed-tabs-title = 最近关闭
 firefoxview-closed-tabs-collapse-button =
     .title = 显示或隐藏最近关闭的标签页列表
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = 新建标签页打开 { $targetURI }
 firefoxview-try-colorways-button = 配色随心换
 firefoxview-no-current-colorway-collection = 新的配色即将上线
 firefoxview-change-colorway-button = 更改配色
