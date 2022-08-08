@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 dns-not-found-title = Mohendahavusu ndojejuhúiva
+dns-not-found-hint-try-again = Eha’ãjey ag̃ave

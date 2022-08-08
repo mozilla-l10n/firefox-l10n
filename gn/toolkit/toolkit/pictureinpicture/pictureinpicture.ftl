@@ -15,6 +15,28 @@ pictureinpicture-unpip =
     .aria-label = Emondojey tendayképe
 pictureinpicture-close =
     .aria-label = Mboty
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-pause-cmd =
+    .aria-label = Mombyta
+    .title = Mombyta (momombyryha)
+pictureinpicture-mute-cmd =
+    .aria-label = Mokirirĩ
+    .title = Mokirirĩ ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = Embopu
+    .title = Embopu ({ $shortcut })
+pictureinpicture-close-cmd =
+    .aria-label = Mboty
+    .title = Mboty ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = Teratee’i
+    .title = Teratee’i
+
+##
+
 pictureinpicture-subtitles-label = Teratee’i
 pictureinpicture-font-size-label = Tai tuichakue
 pictureinpicture-font-size-small = Michĩva

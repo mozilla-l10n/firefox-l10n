@@ -34,3 +34,8 @@ firefoxview-closed-tabs-title = Oñembotyramovéva
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Hendyramovéva
 firefoxview-try-colorways-button = Eipuru sa’y ojueheguáva
+firefoxview-change-colorway-button = Emoambue sa’y ojueheguáva
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
