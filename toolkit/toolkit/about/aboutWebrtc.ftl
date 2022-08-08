@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC ਅੰਦਰੂਨੀ
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc ਨੂੰ ਇੰਝ ਸੰਭਾਲੋ
@@ -19,6 +18,8 @@ about-webrtc-aec-logging-msg-label = AEC ਲਾਗ ਰੱਖਣਾ
 about-webrtc-aec-logging-off-state-label = AEC ਲਾਗ ਰੱਖਣਾ ਸ਼ੁਰੂ
 about-webrtc-aec-logging-on-state-label = AEC ਲਾਗ ਰੱਖਣਾ ਰੋੋਕ
 about-webrtc-aec-logging-on-state-msg = AEC ਲਾਗ ਰੱਖਣਾ ਸਰਗਰਮ ਹੈ (ਕਾਲਰ ਨਾਲ ਕੁਝ ਮਿੰਟਾਂ ਲਈ ਗੱਲ ਕਰੋ ਅਤੇ ਤਦ ਪ੍ਰਾਪਤ ਕਰਨ ਨੂੰ ਰੋਕੋ)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = ਆਪਣੇ-ਆਪ ਤਾਜ਼ਾ
 
 ##
 
@@ -37,6 +38,8 @@ about-webrtc-local-sdp-heading-answer = ਲੋਕਲ SDP (ਜਵਾਬ)
 about-webrtc-remote-sdp-heading = ਰਿਮੋਟ SDP
 about-webrtc-remote-sdp-heading-offer = ਰਿਮੋਟ SDP (ਪੇਸ਼ਕਸ਼)
 about-webrtc-remote-sdp-heading-answer = ਰਿਮੋਟ SDP (ਜਵਾਬ)
+about-webrtc-sdp-history-heading = SDP ਅਤੀਤ
+about-webrtc-sdp-parsing-errors-heading = SDP ਪਾਰਸਿੰਗ ਗਲਤੀਆਂ
 
 ##
 
@@ -57,9 +60,6 @@ about-webrtc-ice-pair-bytes-sent = ਭੇਜੇ ਬਾਈਟ:
 about-webrtc-ice-pair-bytes-received = ਮਿਲੇ ਬਾਈਟ:
 about-webrtc-ice-component-id = ਭਾਗ ਆਈਡੀ
 
-## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
@@ -69,16 +69,13 @@ about-webrtc-type-remote = ਰਿਮੋਟ
 
 ##
 
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = ਨਾਮਜ਼ਦ
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = ਚੁਣੇ
-
 about-webrtc-save-page-label = ਸਫ਼ੇ ਨੂੰ ਸੰਭਾਲੋ
 about-webrtc-debug-mode-msg-label = ਡੀਬੱਗ ਮੋਡ
 about-webrtc-debug-mode-off-state-label = ਡੀਬੱਗ ਮੋਡ ਨੂੰ ਸ਼ੁਰੂ ਕਰੋ
@@ -104,7 +101,6 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ਬੰ�
 
 ##
 
-
 about-webrtc-local-candidate = ਲੋਕਲ ਉਮੀਦਵਾਰ
 about-webrtc-remote-candidate = ਰਿਮੋਟ ਉਮੀਦਵਾਰ
 about-webrtc-raw-candidates-heading = ਸਾਰੇ ਮੁ਼ਢਲੇ ਉਮੀਦਵਾਰ
@@ -121,11 +117,20 @@ about-webrtc-fold-hide-msg = ਵੇਰਵਿਆਂ ਨੂੰ ਲੁਕਾਓ
     .title = ਇਸ ਭਾਗ ਨੂੰ ਸਮੇਟਣ ਲਈ ਕਲਿੱਕ ਕਰੋ
 about-webrtc-decoder-label = ਡੀਕੋਡਰ
 about-webrtc-encoder-label = ਇਨਕੋਡਰ
+about-webrtc-show-tab-label = ਟੈਬ ਵੇਖੋ
+about-webrtc-current-framerate-label = ਫਰੇਮ ਦਰ
+about-webrtc-width-px = ਚੌੜਾਈ (px)
+about-webrtc-height-px = ਉਚਾਈ (px)
+about-webrtc-consecutive-frames = ਲਗਾਤਾਰ ਫਰੇਮ
+about-webrtc-time-elapsed = ਲੱਗਾ ਸਮਾਂ
+about-webrtc-estimated-framerate = ਅੰਦਾਜ਼ਨ ਫਰੇਮ-ਦਰ
+about-webrtc-rotation-degrees = ਘੁੰਮਾਉਣਾ (ਡਿਗਰੀਆਂ)
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
 
 ##
+
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -139,12 +144,27 @@ about-webrtc-aec-logging-off-state-msg = ਕੈਪਚਰ ਕੀਤੀਆਂ ਲ�
 
 ##
 
+# This is the number of audio channels encoded or decoded over an RTP stream.
+# Variables:
+#  $channels (Number) - The number of channels encoded or decoded.
+about-webrtc-channels =
+    { $channels ->
+        [one] { $channels } ਚੈਨਲ
+       *[other] { $channels } ਚੈਨਲ
+    }
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+        [one] { $packets } ਪੈਕੇਟ ਭੇਜਿਆ
+       *[other] { $packets } ਪੈਕੇਟ ਭੇਜੇ
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = ਜਿੱਟਰ { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -152,11 +172,6 @@ about-webrtc-trickle-caption-msg = ਜ਼ਾਹਰ ਹੋਏ ਉਮੀਦਵਾਰ�
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
-
-
-##
-
-##
 
 
 ##
