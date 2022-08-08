@@ -288,7 +288,17 @@ theme-disabled-heading = ਅਸਮਰੱਥ ਹੈ
 theme-disabled-heading2 = ਸੰਭਾਲੇ ਥੀਮ
 theme-monochromatic-heading = ਰੰਗਢੰਗ
 theme-monochromatic-subheading = { -brand-product-name } ਤੋਂ ਨਵੇਂ ਵੱਖ-ਵੱਖ ਰੰਗਢੰਗਸ ਸੀਮਿਤ ਸਮੇਂ ਲਈ ਹੀ ਉਪਲੱਬਧ ਹਨ।
+# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = ਰੰਗ-ਢੰਗ ਵਰਤ ਕੇ ਵੇਖੋ
+colorway-collection-independent-voices-subheading = { -brand-short-name } ਨੂੰ ਹੋਰ ਆਪਣਾ ਮਹਿਸੂਸ ਕਰੋ।
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires.
+colorway-collection-expiry-date-span = { DATETIME($expiryDate, month: "long", day: "numeric") } ਮਿਆਦ
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = ਰੰਗ-ਢੰਗ ਬਦਲੋ
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+colorway-collection-expiry-label = { DATETIME($expiryDate, month: "long", day: "numeric") } ਮਿਆਦ
 plugin-enabled-heading = ਸਮਰੱਥ ਹੈ
 plugin-disabled-heading = ਅਸਮਰੱਥ ਹੈ
 dictionary-enabled-heading = ਸਮਰੱਥ ਹੈ
@@ -402,6 +412,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } { -brand-short-name } { $version } ਦੇ ਲਈ ਢੁੱਕਵੀਂ ਨਹੀਂ ਹੈ।
+details-notification-incompatible-link = ਹੋਰ ਜਾਣਕਾਰੀ
 details-notification-unsigned-and-disabled = { $name } ਨੂੰ { -brand-short-name } ਵਿੱਚ ਵਰਤਣ ਲਈ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ ਅਤੇ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ।
 details-notification-unsigned-and-disabled-link = ਹੋਰ ਜਾਣਕਾਰੀ
 details-notification-unsigned = { $name } ਨੂੰ { -brand-short-name } ਵਿੱਚ ਵਰਤਣ ਲਈ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ। ਧਿਆਨ ਨਾਲ ਵਰਤੋਂ।
