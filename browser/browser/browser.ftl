@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Kelola Ekstensi…
 page-action-remove-extension =
     .label = Hapus Ekstensi
+page-action-manage-extension2 =
+    .label = Kelola Ekstensi…
+    .accesskey = E
+page-action-remove-extension2 =
+    .label = Hapus Ekstensi
+    .accesskey = s
 
 ## Auto-hide Context Menu
 
