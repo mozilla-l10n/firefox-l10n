@@ -19,5 +19,13 @@ more-from-moz-mozilla-vpn-description-advanced = Le { -mozilla-vpn-brand-name },
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-description = Cuir an dàta agad gu obair airson eadar-lìon nas fheàrr dhan a h-uile duine.
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description-advanced = Thoir an dàta agad do dh’obair-rannsachaidh a tha ag obair airson eadar-lìon nas sàbhailte ’s nas fhosgailte a chuidicheas daoine ’s chan e gnìomhachas mòr.
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally-2 = Gabh pàirt sa { -rally-short-name }
+more-from-moz-qr-code-box-firefox-mobile-title = Luchdaich a-nuas e leis an uidheam mobile agad. Tomh an camara agad ris a’ chòd QR. Nuair a nochdas ceangal, thoir gnogag air.
+more-from-moz-qr-code-box-firefox-mobile-button = Cuir post-d dhan fhòn agad an àite sin
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = Còd QR airson { -brand-product-name } a luchdadh a-nuas
 more-from-moz-button-mozilla-vpn-2 = Faigh VPN
 more-from-moz-learn-more-link = Barrachd fiosrachaidh
