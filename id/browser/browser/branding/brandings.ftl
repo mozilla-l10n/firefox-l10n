@@ -35,3 +35,6 @@
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-home-brand-name = Beranda Firefox
+# View" can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefoxview-brand-name = Firefox View
