@@ -192,7 +192,26 @@ preferences-web-appearance-choice-browser = Ùrlar { -brand-short-name }
 preferences-web-appearance-choice-system = Ùrlar an t-siostaim
 preferences-web-appearance-choice-light = Soilleir
 preferences-web-appearance-choice-dark = Dorcha
+preferences-web-appearance-choice-tooltip-light =
+    .title = Cleachd coltas soilleir airson cùlaibhean is susbaint làraichean-lìn.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Cleachd coltas dorcha airson cùlaibhean is susbaint làraichean-lìn.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Tha na dathan a thagh thu a’ tar-àithn coltas na làraich-lìn. <a data-l10n-name="colors-link">Stiùirich na dathan</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Stiùirich ùrlaran { -brand-short-name } ann an roghainnean nan <a data-l10n-name="themes-link">leudachan ⁊ ùrlaran</a>
 preferences-colors-header = Dathan
+preferences-colors-description = Tar-àithn na dathan bunaiteach aig { -brand-short-name } a thaobh teacsa, cùlaibhean làraichean-lìn is ceanglaichean.
 preferences-colors-manage-button =
     .label = Stiùirich na dathan…
     .accesskey = c
@@ -227,6 +246,7 @@ confirm-browser-language-change-button = Cuir an sàs is ath-thòisich
 translate-web-pages =
     .label = Eadar-theangaich susbaint-lìn
     .accesskey = t
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = An t-eadar-theangachadh le <img data-l10n-name="logo"/>
@@ -371,6 +391,9 @@ update-application-warning-cross-user-setting = Bidh buaidh aig an roghainn seo 
 update-application-use-service =
     .label = Cleachd seirbheis a stàlaicheas na h-ùrachaidhean sa chùlaibh
     .accesskey = C
+update-application-suppress-prompts =
+    .label = Seall brathan nas lugha mu ùrachaidhean
+    .accesskey = n
 update-setting-write-failure-title2 = Mearachd le sàbhaladh roghainnean an ùrachaidh
 # Variables:
 #   $path (String) - Path to the configuration file
@@ -415,6 +438,9 @@ browsing-use-autoscroll =
     .accesskey = a
 browsing-use-smooth-scrolling =
     .label = Cleachd sgroladh caoin
+    .accesskey = o
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Seall na bàraichean-sgrolaidh an-còmhnaidh
     .accesskey = o
 browsing-use-onscreen-keyboard =
     .label = Seall meur-chlàr suathaidh ma bhios feum air
@@ -466,6 +492,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Dachaigh Firefox (bun-roghainn)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (bun-roghainn)
 home-mode-choice-custom =
     .label = URLaichean gnàthaichte...
 home-mode-choice-blank =
@@ -491,6 +519,8 @@ choose-bookmark =
 
 home-prefs-content-header = Susbaint sgrìn mhòr Firefox
 home-prefs-content-description = Tagh an t-susbaint a bu mhath leat fhaicinn air sgrìn mhòr Firefox
+home-prefs-content-header2 = Susbaint { -firefox-home-brand-name }
+home-prefs-content-description2 = Tagh an t-susbaint a bu mhath leat fhaicinn air sgrìn mhòr { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Lorg air an lìon
 home-prefs-shortcuts-header =
@@ -511,6 +541,8 @@ home-prefs-recommended-by-description-new = Sàr-shusbaint ’ga thasgadh le { $
 home-prefs-recommended-by-learn-more = Mar a dh’obraicheas e
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sgeulachdan sponsairichte
+home-prefs-recommended-by-option-recent-saves =
+    .label = Seall na chaidh a shàbhaladh o chionn goird
 home-prefs-highlights-option-visited-pages =
     .label = Duilleagan air an do thadhail thu
 home-prefs-highlights-options-bookmarks =
@@ -780,6 +812,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Tha thu ann am modh FIPS an-dràsta. Feumaidh FIPS prìomh fhacal-faire nach eil falamh.
 forms-master-pw-fips-desc = Dh'fhàillig atharrachadh an fhacail-fhaire
+forms-windows-sso =
+    .label = Ceadaich clàradh a-steach le aon chunntas Windows airson cunntasan Microsoft, na h-obrach ’s na sgoile
+forms-windows-sso-learn-more-link = Barrachd fiosrachaidh
+forms-windows-sso-desc = Stiùirich na cunntasan ann an roghainnean an uidheim agad
 
 ## OS Authentication dialog
 
@@ -858,6 +894,10 @@ sitedata-block-desc = Seòrsa bacte
     .accesskey = t
 sitedata-option-block-cross-site-trackers =
     .label = Tracaichean thar làraichean
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = Briosgaidean a nì tracadh air feadh làraichean
+sitedata-option-block-cross-site-cookies =
+    .label = Briosgaidean a nì tracadh air feadh làraichean agus cùm an còrr dhe na briosgaidean thar-làraich fa leth
 sitedata-option-block-unvisited =
     .label = Briosgaidean o làraichean air nach deach tadhal
 sitedata-option-block-all-third-party =
@@ -928,6 +968,7 @@ content-blocking-etp-custom-desc = Tagh na tracaichean is sgriobtaichean a thèi
 content-blocking-etp-blocking-desc = Seo na bhacas { -brand-short-name }:
 content-blocking-private-windows = Susbaint tracaidh air uinneagan prìobhaideach
 content-blocking-cross-site-cookies-in-all-windows = Briosgaidean thar làraichean air uinneag sam bith (a’ gabhail a-staigh briosgaidean tracaidh)
+content-blocking-cross-site-cookies-in-all-windows2 = Briosgaidean thar-làraich anns gach uinneag
 content-blocking-cross-site-tracking-cookies = Briosgaidean tracaidh thar làraichean
 content-blocking-all-cross-site-cookies-private-windows = Briosgaidean thar làraichean air uinneagan prìobhaideach
 content-blocking-cross-site-tracking-cookies-plus-isolate = Briosgaidean tracaidh thar làraichean agus cùm an còrr dhe na briosgaidean fa leth
@@ -938,6 +979,15 @@ content-blocking-all-windows-tracking-content = Susbaint tracaidh air uinneag sa
 content-blocking-all-third-party-cookies = Gach briosgaid le treas-phàrtaidh
 content-blocking-cryptominers = Criopto-mhèinneadairean
 content-blocking-fingerprinters = Lorgaichean-meur
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Cuir an gleus prìobhaideachd as cumhachdaiche againn a-riamh fo dheuchainn
+    .accesskey = C
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Tha na briosgaidean a bhuineas dhan làrach air a bheil thu ann an gleus làn-dìon nam briosgaidean airson ’s nach fhaigh tracaichean cothrom orra gus do leantainn mun cuairt.
+content-blocking-etp-standard-tcp-rollout-learn-more = Barrachd fiosrachaidh
+content-blocking-etp-standard-tcp-title = A’ gabhail a-staigh gleus làn-dìon nam briosgaidean, an gleus prìobhaideachd as cumhachdaiche againn a-riamh
 content-blocking-warning-title = An aire!
 content-blocking-and-isolating-etp-warning-description-2 = Dh’fhaoidte gun adhbharaich an roghainn seo nach seall a h-uile làrach-lìn an t-susbaint mar bu chòir no nach obraich iad mar bu chòir. Ma tha coltas briste air làrach, ’s dòcha gu bheil thu airson an dìon o thracadh a chur dheth dhan làrach ud airson an t-susbaint gu lèir aice a luchdadh.
 content-blocking-warning-learn-how = Barrachd fiosrachaidh
@@ -1010,6 +1060,12 @@ permissions-autoplay-settings =
 permissions-block-popups =
     .label = Cuir bacadh air priob-uinneagan
     .accesskey = b
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Eisgeachdan…
+    .accesskey = E
+    .searchkeywords = priob-uinneagan
 permissions-addon-install-warning =
     .label = Thoir rabhadh nuair a dh’fheuchas làraichean-lìn ri tuilleadan a stàladh
     .accesskey = T
