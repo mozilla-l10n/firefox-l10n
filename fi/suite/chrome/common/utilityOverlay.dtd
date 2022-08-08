@@ -133,7 +133,6 @@
 
 <!ENTITY helpMenu.label                   "Ohje">
 <!ENTITY helpMenu.accesskey               "O">
-
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
      for the help button in the menubar. -->
 <!ENTITY helpMenuWin.label                "Ohje">
@@ -154,6 +153,9 @@
 <!ENTITY aboutCmd.accesskey                 "e">
 <!ENTITY aboutCommPluginsCmd.label          "Tietoja liitännäisistä">
 <!ENTITY aboutCommPluginsCmd.accesskey      "T">
+
+<!ENTITY aboutBuildConfigCmd.label          "Näytä koostamisasetukset">
+<!ENTITY aboutBuildConfigCmd.accesskey      "B">
 
 <!ENTITY direct.label                             "Yhdistetty (välityspalvelin: ei mikään)">
 <!ENTITY direct.accesskey                         "n">
