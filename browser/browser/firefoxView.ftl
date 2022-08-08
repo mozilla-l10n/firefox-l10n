@@ -58,3 +58,10 @@ firefoxview-pickup-tabs-badge = Terakhir aktif
 firefoxview-tabs-list-tab-button =
     .title = Buka { $targetURI } di tab baru
 firefoxview-try-colorways-button = Coba colorways
+firefoxview-no-current-colorway-collection = Colorways baru akan segera hadir
+firefoxview-change-colorway-button = Ubah colorway
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Belum ada yang bisa dilihat</strong><br/>Lain kali Anda membuka halaman di { -brand-product-name } di perangkat lain, ambil di sini seperti sulap.
