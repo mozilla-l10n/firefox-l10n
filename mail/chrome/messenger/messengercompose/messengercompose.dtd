@@ -11,6 +11,7 @@
 <!ENTITY newMenu.label "Yeni">
 <!ENTITY newMenu.accesskey "n">
 <!ENTITY newMessage.label "İleti">
+<!ENTITY newMessage.accesskey "G">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newContact.label "Adres defteri kişisi…">
 <!ENTITY newContact.accesskey "A">

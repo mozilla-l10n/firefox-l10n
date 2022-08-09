@@ -100,6 +100,7 @@ vcard-note-add = Not ekle
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-header = Kurum Özellikleri
 vcard-org-title = Unvan
 vcard-org-role = Rol
 vcard-org-org = Şirket
