@@ -4,3 +4,4 @@
 
 dns-not-found-title = Mohendahavusu ndojejuhúiva
 dns-not-found-hint-try-again = Eha’ãjey ag̃ave
+dns-not-found-hint-check-network = Ehechajey og̃uahẽ porãpa ñanduti

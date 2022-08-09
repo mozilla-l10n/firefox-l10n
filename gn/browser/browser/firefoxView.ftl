@@ -41,7 +41,12 @@ firefoxview-mobile-confirmation-header = 🎉 ¡Eguerahakuaáma!
 firefoxview-closed-tabs-title = Oñembotyramovéva
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Hendyramovéva
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Embojuruja { $targetURI } tendayke pyahúpe
 firefoxview-try-colorways-button = Eipuru sa’y ojueheguáva
+firefoxview-no-current-colorway-collection = Oĩma sa’y ojuehegua ipyahúva
 firefoxview-change-colorway-button = Emoambue sa’y ojueheguáva
 # Variables:
 #  $intensity (String): Colorway intensity
