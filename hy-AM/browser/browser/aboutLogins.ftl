@@ -54,6 +54,7 @@ about-logins-list-item-breach-icon =
     .title = Խախտված կայք
 about-logins-list-item-vulnerable-password-icon =
     .title = Խոցելի գաղտնաբառ
+about-logins-list-section-vulnerable = Խոցելի գաղտնաբառեր
 about-logins-list-section-nothing = Զգուշացում չկա
 about-logins-list-section-today = Այսօր
 about-logins-list-section-yesterday = Երեկ
