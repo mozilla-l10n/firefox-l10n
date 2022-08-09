@@ -287,11 +287,14 @@ theme-monochromatic-subheading = Sa’y ojuehegua overáva pyahu { -brand-produc
 # Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Eipuru Colorways
 colorway-collection-independent-voices-subheading = Ejapo { -brand-short-name } oñeñandumieve hag̃ua ndéicha.
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Emoambue sa’y ojueheguáva
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = Hekopaháta { DATETIME($expiryDate, month: "long", day: "numeric") }
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Emoambue sa’y ojueheguáva
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+colorway-collection-expiry-label = Hekopaháta { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Myandypyre
 plugin-disabled-heading = Ojepuruve’ỹva
 dictionary-enabled-heading = Myandypyre

@@ -32,6 +32,8 @@ toolbox-meatball-menu-pseudo-locale-bidi = Emyandy ñe’ẽ “bidi”
 
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
+toolbox-mode-browser-toolbox-label = Ayvu kundahára rembipuru ryru
+toolbox-mode-browser-console-label = Kundahára mba'e'okarupa ayvu
 toolbox-mode-everything-label = Tembiapoita
 toolbox-mode-everything-sub-label = (Imbegue)
 toolbox-mode-parent-process-label = Tembiapo tuichavéva añoite

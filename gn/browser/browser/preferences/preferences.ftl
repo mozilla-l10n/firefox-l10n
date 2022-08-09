@@ -490,6 +490,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox ñepyrũ (Ypykuegua)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (Ijypykue)
 home-mode-choice-custom =
     .label = URLs ñemomba’e…
 home-mode-choice-blank =
@@ -515,6 +517,7 @@ choose-bookmark =
 
 home-prefs-content-header = Kuatiarogue retepy Firefox ñepyrũháme
 home-prefs-content-description = Eiporavo mba’e retepýpa eipota Firefox mba’erechaha ñepyrũháme.
+home-prefs-content-header2 = { -firefox-home-brand-name } Retepy
 home-prefs-search-header =
     .label = Ñandutípe jeheka
 home-prefs-shortcuts-header =
