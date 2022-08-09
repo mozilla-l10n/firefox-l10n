@@ -56,3 +56,12 @@ about-private-browsing-search-banner-close-button =
 
 about-private-browsing-promo-close-button =
   .title = Chiudi
+
+## Strings used in a “pin promotion” message, which prompts users to pin a private window
+
+about-private-browsing-pin-promo-header = La libertà della navigazione anonima in un clic
+about-private-browsing-pin-promo-link-text = { PLATFORM() ->
+    [macos] Mantieni nel Dock
+   *[other] Aggiungi alla barra delle applicazioni
+}
+about-private-browsing-pin-promo-title = Niente cookie né cronologia, direttamente dal tuo desktop. Naviga come se nessuno ti stesse guardando.
