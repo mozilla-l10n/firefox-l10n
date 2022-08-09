@@ -34,4 +34,5 @@ toolbox-meatball-menu-pseudo-locale-bidi = Emyandy ñe’ẽ “bidi”
 
 toolbox-mode-everything-label = Tembiapoita
 toolbox-mode-everything-sub-label = (Imbegue)
+toolbox-mode-parent-process-label = Tembiapo tuichavéva añoite
 toolbox-mode-parent-process-sub-label = (Ipya’e)

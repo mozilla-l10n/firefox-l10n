@@ -21,8 +21,10 @@ firefoxview-tabpickup-recenttabs-description = Tendayke rysýi ipyahuvéva ohót
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% henyhẽma
+firefoxview-tabpickup-step-signin-header = Emoambue mba’e’oka pa’ũme ñekytĩ’ỹre
 firefoxview-tabpickup-step-signin-primarybutton = Ku’ejey
 firefoxview-tabpickup-adddevice-header = Embojuehe { -brand-product-name } ne pumbyry ha tablétape
+firefoxview-tabpickup-adddevice-description = Emboguejy { -brand-product-name } pumbyrýpe ha eñepyrũ tembiapo upépe.
 firefoxview-tabpickup-adddevice-learn-how = Mba’éicha eikuaáta
 firefoxview-tabpickup-adddevice-primarybutton = Eguereko { -brand-product-name } ne pumbyrýpe g̃uarã
 firefoxview-tabpickup-synctabs-header = Emyandy tendayke ñembojuehe
@@ -33,12 +35,16 @@ firefoxview-tabpickup-fxa-admin-disabled-header = Nde atyguasu omboyke pe ñembo
 firefoxview-tabpickup-network-offline-header = Ehecha og̃uahẽ porãpa ñanduti
 firefoxview-tabpickup-network-offline-primarybutton = Eha’ãjey
 firefoxview-tabpickup-sync-error-header = Oreapañuãi rombojuehe hag̃ua
+firefoxview-tabpickup-sync-error-description = { -brand-short-name } noñe’ẽkuaái me’ẽhára ndive ko’ag̃aite. Eha’ãjey ag̃amieve.
 firefoxview-tabpickup-sync-error-primarybutton = Eha’ãjey
 firefoxview-tabpickup-syncing = Eha’arõ tendayke toñembojuehe. Ndahi’aremo’ãi.
 firefoxview-mobile-promo-header = Ehecha tendayke ne pumbyry térã tabléta rupive
 firefoxview-mobile-promo-primarybutton = Ereko { -brand-product-name } ne pumbyrýpe
 firefoxview-mobile-confirmation-header = 🎉 ¡Eguerahakuaáma!
 firefoxview-closed-tabs-title = Oñembotyramovéva
+firefoxview-closed-tabs-collapse-button =
+    .title = Ehechauka térã eñomi tendayke rysýi embotyramóva
+firefoxview-closed-tabs-description = Embojurujajey kuatiarogue ko mba’e’okápe.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Hendyramovéva
 # Variables:
