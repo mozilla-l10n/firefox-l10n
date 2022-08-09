@@ -136,6 +136,9 @@ message-header-button-style-text =
     .label = Metin
 message-header-button-style-icons =
     .label = Simgeler
+message-header-large-subject =
+    .label = Büyük konu
+    .accesskey = o
 
 ## Action Button Context Menu
 

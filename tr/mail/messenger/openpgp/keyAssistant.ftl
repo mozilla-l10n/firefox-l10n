@@ -10,6 +10,10 @@ openpgp-key-assistant-recipients-issue-header = Şifrelenemiyor
 
 ## Resolve section
 
+openpgp-key-assistant-valid-description = Kabul etmek istediğiniz anahtarı seçin
+openpgp-key-assistant-no-key-available = Hiç anahtar mevcut değil.
+openpgp-key-assistant-multiple-keys = Birden fazla anahtar mevcut.
+openpgp-key-assistant-key-unaccepted-expired-many = Birden çok anahtarın süresi doldu.
 openpgp-key-assistant-key-fingerprint = Parmak izi
 openpgp-key-assistant-key-source =
     { $count ->

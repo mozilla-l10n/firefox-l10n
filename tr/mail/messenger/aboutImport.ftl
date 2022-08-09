@@ -58,6 +58,7 @@ from-app-seamonkey = { app-name-seamonkey } profilinden içe aktar
 from-app-outlook = { app-name-outlook }'tan içe aktar
 from-app-becky = { app-name-becky }'den içe aktar
 from-app-apple-mail = { app-name-apple-mail }'den içe aktar
+profiles-pane-title-apple-mail = İletileri { app-name-apple-mail }'den içe aktar.
 profile-source = Profilden içe aktar
 # $profileName (string) - name of the profile
 profile-source-named = <strong>"{ $profileName }"</strong> profilinden içe aktar
@@ -133,6 +134,7 @@ csv-target-field = Adres defteri alanı
 ## Export tab
 
 export-open-profile-folder = Profil klasörünü aç
+export-file-picker2 = ZIP dosyasına aktar
 export-brand-name = { -brand-product-name }
 
 ## Summary pane
@@ -145,6 +147,8 @@ summary-pane-start-over = İçe aktarma aracını yeniden başlat
 ## Footer area
 
 footer-help = Yardım mı lazım?
+footer-import-documentation = İçe aktarma belgeleri
+footer-export-documentation = Dışa aktarma belgeleri
 footer-support-forum = Destek forumu
 
 ## Step navigation on top of the wizard pages
