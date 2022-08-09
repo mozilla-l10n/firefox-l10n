@@ -3,3 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 dns-not-found-title = Сервер не знойдзены
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+dns-not-found-with-suggestion = Вы хацелі наведаць <a data-l10n-name="website">{ $hostAndPath }</a>?
+dns-not-found-hint-header = <strong>Калі вы ўвялі правільны адрас, вы можаце:</strong>
+dns-not-found-hint-try-again = Паўтарыць спробу пазней
+dns-not-found-hint-check-network = Праверыць падлучэнне да сеткі
