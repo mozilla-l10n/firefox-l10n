@@ -5,7 +5,7 @@
 <!ENTITY serverAdvanced.label "Configurações avançadas da conta">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "Servidor de diretórios IMAP:">
-<!ENTITY serverDirectory.accesskey "I">
+<!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Mostrar somente pastas inscritas">
 <!ENTITY usingSubscription.accesskey "M">
 <!ENTITY dualUseFolders.label "O servidor suporta pastas que contêm subpastas e mensagens">
@@ -27,5 +27,5 @@
 <!ENTITY accountInbox.accesskey "c">
 <!ENTITY deferToServer.label "Caixa de entrada de outra conta">
 <!ENTITY deferToServer.accesskey "o">
-<!ENTITY deferGetNewMail.label "Ao receber mensagens, incluir esta conta">
-<!ENTITY deferGetNewMail.accesskey "A">
+<!ENTITY deferGetNewMail.label "Incluir este servidor ao receber novas mensagens">
+<!ENTITY deferGetNewMail.accesskey "I">

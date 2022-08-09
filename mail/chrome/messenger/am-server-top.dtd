@@ -21,7 +21,7 @@
 <!ENTITY biffStart.label "Verificar novas mensagens a cada">
 <!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "minutos">
-<!ENTITY useIdleNotifications.label "Permitir notificações imediatas do servidor quando chegar novas mensagens">
+<!ENTITY useIdleNotifications.label "Permitir notificações imediatas do servidor ao chegar novas mensagens">
 <!ENTITY useIdleNotifications.accesskey "P">
 <!ENTITY connectionSecurity.label "Segurança da conexão:">
 <!ENTITY connectionSecurity.accesskey "d">
@@ -64,7 +64,7 @@
 <!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "mensagens">
-<!ENTITY alwaysAuthenticate.label "Sempre solicitar autenticação ao conectar-se a este servidor">
+<!ENTITY alwaysAuthenticate.label "Sempre solicitar autenticação ao conectar a este servidor">
 <!ENTITY alwaysAuthenticate.accesskey "m">
 <!ENTITY newsrcFilePath1.label "Arquivo News.rc:">
 <!ENTITY newsrcPicker1.label "Selecionar o arquivo News.rc">
@@ -75,7 +75,7 @@
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY serverDefaultCharset2.label "Codificação padrão do texto:">
 <!ENTITY localPath1.label "Diretório local:">
-<!ENTITY localFolderPicker.label "Selecionar o diretório local">
+<!ENTITY localFolderPicker.label "Selecionar diretório local">
 <!ENTITY browseFolder.label "Procurar…">
 <!ENTITY browseFolder.accesskey "P">
 <!ENTITY browseNewsrc.label "Procurar…">
