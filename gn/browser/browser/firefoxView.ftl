@@ -34,6 +34,9 @@ firefoxview-tabpickup-network-offline-header = Ehecha og̃uahẽ porãpa ñandut
 firefoxview-tabpickup-network-offline-primarybutton = Eha’ãjey
 firefoxview-tabpickup-sync-error-header = Oreapañuãi rombojuehe hag̃ua
 firefoxview-tabpickup-sync-error-primarybutton = Eha’ãjey
+firefoxview-tabpickup-syncing = Eha’arõ tendayke toñembojuehe. Ndahi’aremo’ãi.
+firefoxview-mobile-promo-header = Ehecha tendayke ne pumbyry térã tabléta rupive
+firefoxview-mobile-promo-primarybutton = Ereko { -brand-product-name } ne pumbyrýpe
 firefoxview-mobile-confirmation-header = 🎉 ¡Eguerahakuaáma!
 firefoxview-closed-tabs-title = Oñembotyramovéva
 # refers to the last tab that was used
