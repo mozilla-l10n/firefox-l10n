@@ -37,6 +37,10 @@ text-action-paste =
 text-action-paste-shortcut =
     .key = V
 
+text-action-paste-no-formatting =
+    .label = Copia senza formattazione
+    .accesskey = f
+
 text-action-delete =
     .label = Elimina
     .accesskey = E
