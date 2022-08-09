@@ -9,3 +9,4 @@ dns-not-found-with-suggestion = Вы хацелі наведаць <a data-l10n-
 dns-not-found-hint-header = <strong>Калі вы ўвялі правільны адрас, вы можаце:</strong>
 dns-not-found-hint-try-again = Паўтарыць спробу пазней
 dns-not-found-hint-check-network = Праверыць падлучэнне да сеткі
+dns-not-found-hint-firewall = Праверыць, ці мае { -brand-short-name } дазвол на доступ да Інтэрнэту (магчыма, вы падключаны, але за брандмаўарам)
