@@ -115,6 +115,7 @@ urlbar-search-tips-redirect-2 = Սկսեք ձեր որոնումը այստեղ�
 urlbar-search-mode-bookmarks = Էջանիշեր
 urlbar-search-mode-tabs = Ներդիրներ
 urlbar-search-mode-history = Պատմություն
+urlbar-search-mode-actions = Գործողություններ
 
 ##
 
@@ -215,6 +216,40 @@ search-one-offs-tabs =
     .tooltiptext = Ներդիրներ ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Պատմություն ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+quickactions-cmd-bookmarks = Էջանիշեր
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Մաքրել պատմությունը
+quickactions-cmd-clearhistory = մաքրել պատմությունը
+# Opens about:downloads page
+quickactions-downloads = Բացել Ներբեռնումները
+quickactions-cmd-downloads = ներբեռնումներ
+# Opens the print dialog
+quickactions-print = Տպել
+quickactions-cmd-print = տպել
+# Opens a new private browsing window
+quickactions-private = Բացել Գաղտնի դիտարկման պատուհանը
+quickactions-cmd-private = գաղտնի դիտարկում
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = Թարմացնել { -brand-short-name }-ը
+quickactions-cmd-refresh = թարմացնել
+# Restarts the browser
+quickactions-restart = Վերամեկնարկել { -brand-short-name }-ը
+quickactions-cmd-restart = վերամեկնարկել
+# Opens the screenshot tool
+quickactions-screenshot2 = Ստանալ էկրանի հանույթը
+quickactions-cmd-screenshot = էկրանի հանույթ
+# Opens about:preferences
+quickactions-settings = Բացել կարգավորումները
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Նայել աղբյուրը
 
 ## Bookmark Panel
 
@@ -686,3 +721,6 @@ data-reporting-notification-message = { -brand-short-name }-ը ինքնաշխա�
 data-reporting-notification-button =
     .label = Ընտրել, թե ինչը համօգտագործել
     .accesskey = C
+
+## Unified extensions (toolbar) button
+
