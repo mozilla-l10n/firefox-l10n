@@ -360,10 +360,10 @@ browsing-picture-in-picture-toggle-enabled =
 browsing-picture-in-picture-learn-more = Իմանալ ավելին
 browsing-media-control-learn-more = Իմանալ ավելին
 browsing-cfr-recommendations =
-    .label = Առարջարկեք հավելումներ՝ զննարկելիս
+    .label = Զննարկելիս առաջարկել հավելումներ
     .accesskey = R
 browsing-cfr-features =
-    .label = Առարջարկեք հատկություններ՝ զննարկելիս
+    .label = Զննարկելիս առաջարկել յուրահատկություններ
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Իմանալ ավելին
 
