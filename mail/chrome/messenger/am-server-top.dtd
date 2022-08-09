@@ -11,7 +11,7 @@
 <!ENTITY userName.label "Usuário:">
 <!ENTITY userName.accesskey "U">
 <!ENTITY port.label "Porta:">
-<!ENTITY port.accesskey "t">
+<!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Padrão:">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
@@ -22,7 +22,7 @@
 <!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "minutos">
 <!ENTITY useIdleNotifications.label "Permitir notificações imediatas do servidor ao chegar novas mensagens">
-<!ENTITY useIdleNotifications.accesskey "P">
+<!ENTITY useIdleNotifications.accesskey "r">
 <!ENTITY connectionSecurity.label "Segurança da conexão:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Nenhuma">
