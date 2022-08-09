@@ -24,7 +24,7 @@
 <!ENTITY useIdleNotifications.label "Permitir notificações imediatas do servidor ao chegar novas mensagens">
 <!ENTITY useIdleNotifications.accesskey "P">
 <!ENTITY connectionSecurity.label "Segurança da conexão:">
-<!ENTITY connectionSecurity.accesskey "d">
+<!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Nenhuma">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, se disponível">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
@@ -33,7 +33,7 @@
 <!ENTITY authMethod.accesskey "o">
 <!ENTITY leaveOnServer.label "Manter mensagens no servidor">
 <!ENTITY leaveOnServer.accesskey "M">
-<!ENTITY headersOnly.label "Receber somente os cabeçalhos">
+<!ENTITY headersOnly.label "Receber somente cabeçalhos">
 <!ENTITY headersOnly.accesskey "b">
 <!ENTITY deleteByAgeFromServer.label "Por no máximo">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
@@ -52,7 +52,7 @@
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Limpar (&quot;eliminar&quot;) a caixa de entrada ao sair">
 <!ENTITY expungeOnExit.accesskey "m">
-<!ENTITY emptyTrashOnExit.label "Esvaziar a lixeira ao sair">
+<!ENTITY emptyTrashOnExit.label "Esvaziar lixeira ao sair">
 <!ENTITY emptyTrashOnExit.accesskey "z">
 <!ENTITY loginAtStartup.label "Verificar novas mensagens ao iniciar">
 <!ENTITY loginAtStartup.accesskey "V">
