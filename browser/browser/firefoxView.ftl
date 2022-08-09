@@ -50,6 +50,7 @@ firefoxview-closed-tabs-title = Son kapatılanlar
 firefoxview-closed-tabs-collapse-button =
     .title = Son kapatılan sekmeler listesini göster veya gizle
 firefoxview-closed-tabs-description = Bu cihazda kapattığınız sayfaları yeniden açın.
+firefoxview-closed-tabs-placeholder = <strong>Yakın zamanda kapatılan sayfa yok<strong><br/>Ama kapattığınız sekmeleri kaybetmekten korkmanıza da gerek. Kapattığınız sekmeleri istediğiniz zaman buradan tekrar açabilirsiniz.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Son bakılan
 # Variables:
@@ -63,3 +64,4 @@ firefoxview-change-colorway-button = Renk kuşağını değiştir
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Henüz burada bir şey yok</strong><br/>Başka bir cihazdaki { -brand-product-name } tarayıcınızda bir sayfa açtığınızda burada görünecek.
