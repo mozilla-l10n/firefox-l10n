@@ -9,6 +9,8 @@ fxa-qrcode-heading-step1 = 1. Si ce n’est pas déjà fait, installez <a data-l
 fxa-qrcode-heading-step2 = 2. Ouvrez Firefox sur votre appareil mobile.
 fxa-qrcode-heading-step3 = 3. Ouvrez le <b>menu</b> (<img data-l10n-name="ios-menu-icon"/> ou <img data-l10n-name="android-menu-icon"/>), appuyez sur <img data-l10n-name="settings-icon"/> <b>Paramètres</b> et sélectionnez <b>Activer Sync</b>
 fxa-qrcode-heading-step4 = 4. Scannez ce code :
+fxa-pair-device-dialog-sync =
+    .style = width: 32em;
 fxa-qrcode-pair-title = Synchronisez { -brand-product-name } avec votre téléphone ou votre tablette
 fxa-qrcode-pair-step1 = 1. Ouvrez { -brand-product-name } sur votre appareil mobile
 fxa-qrcode-pair-step2 = 2. Ouvrez le <strong>menu</strong> (<img data-l10n-name="ios-menu-icon"/> sous iOS ou <img data-l10n-name="android-menu-icon"/> sous Android) et appuyez sur <strong>Se connecter pour synchroniser</strong>

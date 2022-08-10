@@ -9,3 +9,4 @@ dns-not-found-with-suggestion = Vouliez-vous plutôt ouvrir <a data-l10n-name="w
 dns-not-found-hint-header = <strong>Si l’adresse saisie était correcte, vous pouvez :</strong>
 dns-not-found-hint-try-again = Réessayer plus tard
 dns-not-found-hint-check-network = Veuillez vérifier votre connexion réseau
+dns-not-found-hint-firewall = Vérifier que { -brand-short-name } a l’autorisation d’accéder au Web (votre connexion pourrait être effective, mais protégée par un pare-feu)
