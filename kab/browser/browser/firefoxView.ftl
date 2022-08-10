@@ -21,6 +21,7 @@ firefoxview-tabpickup-recenttabs-description = Tabdart n waccaren tamaynut ad d-
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = Yemmed { $percentValue }%
+firefoxview-tabpickup-step-signin-header = Ttnaqal gar yibenkan s tefses
 firefoxview-tabpickup-step-signin-primarybutton = Kemmel
 firefoxview-tabpickup-adddevice-header = Mtawi { -brand-product-name } ɣef tiliɣri-inek·inem neɣ ɣef tfelwit n uselken
 firefoxview-tabpickup-adddevice-description = Sader { -brand-product-name } i uziraz syen qqen ɣer-s.
@@ -34,6 +35,7 @@ firefoxview-tabpickup-fxa-admin-disabled-header = Takebbanit-ik·im tessens amta
 firefoxview-tabpickup-network-offline-header = senqed tuqqna-k·m internet
 firefoxview-tabpickup-network-offline-primarybutton = Ɛreḍ tikelt nniḍen
 firefoxview-tabpickup-sync-error-primarybutton = Ɛreḍ tikkelt-nniḍen
+firefoxview-mobile-promo-description = I wakken ad d-tessekneḍ accaren ineggura izirazen, qqen ɣer { -brand-product-name } ɣef iOS neɣ Android.
 firefoxview-mobile-promo-primarybutton = Awi { -brand-product-name } i uziraz
 firefoxview-mobile-confirmation-header = 🎉 igerrez i beddu!
 firefoxview-mobile-confirmation-description = Tzemreḍ tura ad d-terreḍ accaren-ik·im { -brand-product-name } seg tfelwit n uselken neɣ seg tiliɣri
