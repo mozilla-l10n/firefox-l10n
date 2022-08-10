@@ -33,14 +33,26 @@ openpgp-key-assistant-key-source =
     }
 openpgp-key-assistant-key-collected-attachment = příloha
 openpgp-key-assistant-key-collected-keyserver = server klíčů
+# Web Key Directory (WKD) is a concept.
+openpgp-key-assistant-key-collected-wkd = Webový adresář klíčů
 openpgp-key-assistant-key-rejected = Tento klíč byl dříve odmítnut.
 openpgp-key-assistant-key-accepted-other = Tento klíč byl dříve přijat pro jinou e-mailovou adresu.
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+openpgp-key-assistant-resolve-discover-info = Vyhledejte další nebo aktualizované klíče pro { $recipient } online nebo je importujte ze souboru.
 
 ## Discovery section
 
+openpgp-key-assistant-discover-title = Probíhá online vyhledávání.
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-discover-keys = Vyhledávání klíčů pro { $recipient }…
 
 ## Dialog buttons
 
+openpgp-key-assistant-discover-online-button = Vyhledat veřejné klíče online…
+openpgp-key-assistant-import-keys-button = Importovat veřejné klíče ze souboru…
+openpgp-key-assistant-issue-resolve-button = Vyřešit…
 openpgp-key-assistant-view-key-button = Zobrazit klíč…
 openpgp-key-assistant-recipients-show-button = Zobrazit
 openpgp-key-assistant-recipients-hide-button = Skrýt
