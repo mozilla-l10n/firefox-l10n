@@ -50,3 +50,18 @@ firefoxview-closed-tabs-title = Fechados recentemente
 firefoxview-closed-tabs-collapse-button =
     .title = Mostrar ou ocultar a lista de separadores fechados recentemente
 firefoxview-closed-tabs-description = Reabrir as páginas que fechou neste dispositivo.
+firefoxview-closed-tabs-placeholder = <strong>Nenhuma página fechada recentemente</strong><br/>Nunca mais tenha receio de perder um separador fechado. Pode sempre recuperar o mesmo aqui.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Ativo pela última vez
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Abrir { $targetURI } num novo separador
+firefoxview-try-colorways-button = Experimente os estilos de cor
+firefoxview-no-current-colorway-collection = Novos estilos de cor estão a caminho
+firefoxview-change-colorway-button = Alterar estilo de cor
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Ainda não há nada para ver</strong><br/>Da próxima vez que abrir uma página no { -brand-product-name } noutro dispositivo, obtenha-a aqui como por magia.
