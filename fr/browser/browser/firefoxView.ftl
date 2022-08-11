@@ -27,10 +27,14 @@ firefoxview-tabpickup-synctabs-header = Activez la synchronisation des onglets
 firefoxview-tabpickup-synctabs-description = Autorisez { -brand-short-name } à partager les onglets entre vos appareils.
 firefoxview-tabpickup-synctabs-learn-how = Me montrer comment faire
 firefoxview-tabpickup-synctabs-primarybutton = Synchroniser les onglets ouverts
+firefoxview-tabpickup-fxa-admin-disabled-header = Votre organisation a désactivé la synchronisation
 firefoxview-tabpickup-network-offline-header = Vérifiez votre connexion à Internet
 firefoxview-tabpickup-network-offline-primarybutton = Réessayer
+firefoxview-tabpickup-sync-error-header = Nous rencontrons des problèmes de synchronisation
 firefoxview-tabpickup-sync-error-primarybutton = Réessayer
 firefoxview-closed-tabs-title = Récemment fermés
+firefoxview-closed-tabs-collapse-button =
+    .title = Afficher ou masquer la liste des onglets récemment fermés
 firefoxview-closed-tabs-description = Rouvrez des pages que vous avez fermées sur cet appareil.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Dernier onglet actif
@@ -39,6 +43,8 @@ firefoxview-pickup-tabs-badge = Dernier onglet actif
 firefoxview-tabs-list-tab-button =
     .title = Ouvrir { $targetURI } dans un nouvel onglet
 firefoxview-try-colorways-button = Essayer les coloris
+firefoxview-no-current-colorway-collection = De nouveaux coloris seront bientôt disponibles
+firefoxview-change-colorway-button = Changer de coloris
 # Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
