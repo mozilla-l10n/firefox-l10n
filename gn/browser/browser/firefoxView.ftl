@@ -22,6 +22,7 @@ firefoxview-tabpickup-recenttabs-description = Tendayke rysýi ipyahuvéva ohót
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% henyhẽma
 firefoxview-tabpickup-step-signin-header = Emoambue mba’e’oka pa’ũme ñekytĩ’ỹre
+firefoxview-tabpickup-step-signin-description = Ehecha hag̃ua ne pumbyry rendayke, emoñepyrũraẽ tembiapo térã emoheñói mba’ete.
 firefoxview-tabpickup-step-signin-primarybutton = Ku’ejey
 firefoxview-tabpickup-adddevice-header = Embojuehe { -brand-product-name } ne pumbyry ha tablétape
 firefoxview-tabpickup-adddevice-description = Emboguejy { -brand-product-name } pumbyrýpe ha eñepyrũ tembiapo upépe.

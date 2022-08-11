@@ -21,4 +21,5 @@ visionary-colorway-description = Emomýi pe mba’e rekotee ha emongu’e ambué
 activist-colorway-name = Hekokuéva
 activist-colorway-description = Eheja arapy iporãve ejuhuhaguégui ha egueroviauka peichaha.
 dreamer-colorway-name = Kerayvotyhára
+dreamer-colorway-description = Eroviápa po’a ouporãha ipy’aguasúvape ha nemoakãraku nde py’aguasu hag̃ua.
 innovator-colorway-name = Mbopyahuhára
