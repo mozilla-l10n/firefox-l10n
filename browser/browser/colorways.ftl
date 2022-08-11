@@ -6,9 +6,12 @@
 ## Colorway collections
 
 colorway-collection-independent-voices = Uavhengige røyster
+# Used as a subheading for the colorway collection card in about:addons
+colorway-collection-independent-voices-short-description = Fargar som endrar kultur.
 
 ## Colorway names and descriptions
 
+playmaker-colorway-name = Spelar
 visionary-colorway-name = Visjonær
 activist-colorway-name = Aktivist
 dreamer-colorway-name = Drøymar
