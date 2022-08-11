@@ -42,6 +42,7 @@ firefoxview-tabpickup-syncing = Eha’arõ tendayke toñembojuehe. Ndahi’aremo
 firefoxview-mobile-promo-header = Ehecha tendayke ne pumbyry térã tabléta rupive
 firefoxview-mobile-promo-primarybutton = Ereko { -brand-product-name } ne pumbyrýpe
 firefoxview-mobile-confirmation-header = 🎉 ¡Eguerahakuaáma!
+firefoxview-mobile-confirmation-description = Ko’ág̃a ikatu ehecha { -brand-product-name } rendayke nde tabléta térã pumbyry guive.
 firefoxview-closed-tabs-title = Oñembotyramovéva
 firefoxview-closed-tabs-collapse-button =
     .title = Ehechauka térã eñomi tendayke rysýi embotyramóva
