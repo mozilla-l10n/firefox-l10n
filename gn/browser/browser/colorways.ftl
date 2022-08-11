@@ -17,6 +17,7 @@ playmaker-colorway-description = Emoheñói pa’ũ egana hag̃ua ha eipytyvõ o
 expressionist-colorway-name = Temiandugua
 expressionist-colorway-description = Eho arapy rehe ambueháicha ha ne moheñoimbyre ombovy’áta hetaitereípe.
 visionary-colorway-name = Ohecha mombyrýva
+visionary-colorway-description = Emomýi pe mba’e rekotee ha emongu’e ambuépe tenonderã porãve rekávo.
 activist-colorway-name = Hekokuéva
 dreamer-colorway-name = Kerayvotyhára
 innovator-colorway-name = Mbopyahuhára
