@@ -22,6 +22,7 @@ firefoxview-tabpickup-recenttabs-description = Listen over siste faner vil vises
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue } % fullført
 firefoxview-tabpickup-step-signin-header = Bytt enkelt mellom enheter
+firefoxview-tabpickup-step-signin-description = For å hente telefonfanene dine hit, logger du først inn eller oppretter en konto.
 firefoxview-tabpickup-step-signin-primarybutton = Fortsett
 firefoxview-tabpickup-adddevice-header = Synkroniser { -brand-product-name } på telefonen eller nettbrettet
 firefoxview-tabpickup-adddevice-description = Last ned { -brand-product-name } for mobil og logg inn der.
@@ -49,3 +50,18 @@ firefoxview-closed-tabs-title = Nylig lukket
 firefoxview-closed-tabs-collapse-button =
     .title = Vis eller skjul liste over nylig lukkede faner
 firefoxview-closed-tabs-description = Åpne sider du har lukket på denne enheten på nytt.
+firefoxview-closed-tabs-placeholder = <strong>Ingen nylig lukkede sider</strong><br/>Frykt ikke å miste en lukket fane igjen. Du kan alltid hente den her.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Sist aktiv
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Åpne { $targetURI } i en ny fane
+firefoxview-try-colorways-button = Prøv fargesammensettinger
+firefoxview-no-current-colorway-collection = Nye fargesammensettinger er på vei
+firefoxview-change-colorway-button = Endre fargesammensetting
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Ingenting å se ennå</strong><br/>Neste gang du åpner en side i { -brand-product-name } på en annen enhet, får du på magisk vis tilgang til den her.
