@@ -490,6 +490,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox-startside (standard)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (standard)
 home-mode-choice-custom =
     .label = Tilpassede nettadresser…
 home-mode-choice-blank =
@@ -515,6 +517,7 @@ choose-bookmark =
 
 home-prefs-content-header = Innhold Firefox-startside
 home-prefs-content-description = Velg hvilket innhold som du vil ha på din Firefox-startside.
+home-prefs-content-header2 = { -firefox-home-brand-name } Innhold
 home-prefs-search-header =
     .label = Nettsøk
 home-prefs-shortcuts-header =
