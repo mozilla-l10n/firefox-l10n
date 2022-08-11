@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Handsam utviding…
 page-action-remove-extension =
     .label = Fjern utviding
+page-action-manage-extension2 =
+    .label = Handter utviding…
+    .accesskey = H
+page-action-remove-extension2 =
+    .label = Fjern utviding
+    .accesskey = u
 
 ## Auto-hide Context Menu
 
@@ -267,6 +273,9 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page
+quickactions-addons = Vis tillegg
+quickactions-cmd-addons = tillegg, utviding, tema
 # Opens the bookmarks library window
 quickactions-bookmarks = Vis bokmerke
 quickactions-cmd-bookmarks = bokmerke
@@ -278,6 +287,7 @@ quickactions-downloads = Opne nedlastingar
 quickactions-cmd-downloads = nedlastingar
 # Opens the devtools web inspector
 quickactions-inspector = Opne inspeksjon
+quickactions-cmd-inspector = inspektør, utviklarverktøy
 # Opens about:logins
 quickactions-logins = Vis innloggingar
 quickactions-cmd-logins = Innloggingar, passord
@@ -298,6 +308,7 @@ quickactions-screenshot2 = Ta eit skjermbilde
 quickactions-cmd-screenshot = skjermbilete
 # Opens about:preferences
 quickactions-settings = Opne Innstillingar
+quickactions-cmd-settings = val, innstillingar, alternativ
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Oppdater { -brand-short-name }
 quickactions-cmd-update = oppdater
