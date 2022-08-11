@@ -295,7 +295,7 @@ quickactions-cmd-logins = innlogginger, passord
 quickactions-print = Skriv ut
 quickactions-cmd-print = utskrift, skriv ut
 # Opens a new private browsing window
-quickactions-private = Åpne privat nettlesingsvindu.
+quickactions-private = Åpne privat nettlesingsvindu
 quickactions-cmd-private = privat nettlesing
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Tilbakestill { -brand-short-name }
