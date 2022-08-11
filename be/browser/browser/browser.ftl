@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Кіраваць пашырэннямі…
 page-action-remove-extension =
     .label = Выдаліць пашырэнне
+page-action-manage-extension2 =
+    .label = Кіраваць пашырэннем…
+    .accesskey = К
+page-action-remove-extension2 =
+    .label = Выдаліць пашырэнне
+    .accesskey = В
 
 ## Auto-hide Context Menu
 
@@ -281,6 +287,7 @@ quickactions-downloads = Адкрыць сцягванні
 quickactions-cmd-downloads = сцягванні
 # Opens the devtools web inspector
 quickactions-inspector = Адкрыць інспектар
+quickactions-cmd-inspector = інспектар, прылады распрацоўшчыка
 # Opens about:logins
 quickactions-logins = Прагляд лагінаў
 quickactions-cmd-logins = лагіны, паролі
