@@ -39,5 +39,6 @@ toolbox-mode-everything-sub-label = (Lebih lambat)
 toolbox-mode-everything-container =
     .title = Debug semuanya dalam semua proses
 toolbox-mode-parent-process-label = Proses induk saja
+toolbox-mode-parent-process-sub-label = (Cepat)
 toolbox-mode-parent-process-container =
     .title = Hanya fokus pada sumber daya dari proses induk.
