@@ -490,6 +490,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox-aloitussivu (oletus)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (Oletus)
 home-mode-choice-custom =
     .label = Omat osoitteet…
 home-mode-choice-blank =
@@ -535,6 +537,8 @@ home-prefs-recommended-by-description-new = Poikkeuksellista, valikoitua sisält
 home-prefs-recommended-by-learn-more = Kuinka se toimii
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsoroidut tarinat
+home-prefs-recommended-by-option-recent-saves =
+    .label = Näytä viimeisimmät tallennukset
 home-prefs-highlights-option-visited-pages =
     .label = Vieraillut sivustot
 home-prefs-highlights-options-bookmarks =
