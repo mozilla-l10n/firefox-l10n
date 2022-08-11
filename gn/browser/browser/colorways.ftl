@@ -19,5 +19,6 @@ expressionist-colorway-description = Eho arapy rehe ambueháicha ha ne moheñoim
 visionary-colorway-name = Ohecha mombyrýva
 visionary-colorway-description = Emomýi pe mba’e rekotee ha emongu’e ambuépe tenonderã porãve rekávo.
 activist-colorway-name = Hekokuéva
+activist-colorway-description = Eheja arapy iporãve ejuhuhaguégui ha egueroviauka peichaha.
 dreamer-colorway-name = Kerayvotyhára
 innovator-colorway-name = Mbopyahuhára
