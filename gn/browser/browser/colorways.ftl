@@ -13,7 +13,9 @@ colorway-collection-independent-voices-short-description = Sa’y omoambuéva ar
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Ñembosarái moheñoiha
+playmaker-colorway-description = Emoheñói pa’ũ egana hag̃ua ha eipytyvõ opavave nde jereguápe ñembosarái porãve rekávo.
 expressionist-colorway-name = Temiandugua
+expressionist-colorway-description = Eho arapy rehe ambueháicha ha ne moheñoimbyre ombovy’áta hetaitereípe.
 visionary-colorway-name = Ohecha mombyrýva
 activist-colorway-name = Hekokuéva
 dreamer-colorway-name = Kerayvotyhára
