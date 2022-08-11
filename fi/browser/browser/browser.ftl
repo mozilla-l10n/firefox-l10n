@@ -165,6 +165,12 @@ page-action-manage-extension =
     .label = Hallitse laajennusta…
 page-action-remove-extension =
     .label = Poista laajennus
+page-action-manage-extension2 =
+    .label = Hallitse laajennusta…
+    .accesskey = e
+page-action-remove-extension2 =
+    .label = Poista laajennus
+    .accesskey = i
 
 ## Auto-hide Context Menu
 
@@ -228,14 +234,40 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Tyhjennä historia
-quickactions-print = Tulosta
-quickactions-screenshot = Ota kuvakaappaus
-quickactions-settings = Avaa asetukset
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Näytä lisäosat
+# Opens the bookmarks library window
+quickactions-bookmarks = Näytä kirjanmerkit
+quickactions-cmd-bookmarks = kirjanmerkit
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Tyhjennä historia
+quickactions-cmd-clearhistory = tyhjennä historia
+# Opens about:downloads page
 quickactions-downloads = Avaa lataukset
-quickactions-viewsource = Näytä lähdekoodi
+quickactions-cmd-downloads = lataukset
+# Opens about:logins
+quickactions-logins = Näytä kirjautumistiedot
+# Opens the print dialog
+quickactions-print = Tulosta
+quickactions-cmd-print = tulosta
+# Opens a new private browsing window
+quickactions-private = Avaa yksityinen selausikkuna
+quickactions-cmd-private = yksityinen selaus
+# Restarts the browser
 quickactions-restart = Käynnistä { -brand-short-name } uudelleen
+# Opens the screenshot tool
+quickactions-screenshot2 = Ota kuvakaappaus
+# Opens about:preferences
+quickactions-settings = Avaa asetukset
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Päivitä { -brand-short-name }
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Näytä lähdekoodi
 
 ## Bookmark Panel
 
@@ -529,6 +561,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Etsi kirjanmerkeistä
 urlbar-result-action-search-history = Etsi historiasta
 urlbar-result-action-search-tabs = Etsi välilehdistä
+urlbar-result-action-search-actions = Etsi toimintoja
 
 ## Labels shown above groups of urlbar results
 
@@ -542,6 +575,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = { $engine }-ehdotukset
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Pikatoiminnot
 
 ## Full Screen and Pointer Lock UI
 
@@ -808,3 +844,9 @@ data-reporting-notification-button =
     .accesskey = V
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Yksityinen selaus
+
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = Laajennukset
+    .tooltiptext = Laajennukset
