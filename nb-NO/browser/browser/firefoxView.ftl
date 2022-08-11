@@ -17,3 +17,35 @@ firefoxview-just-now-timestamp = Akkurat nå
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = Synkroniserte faner
 firefoxview-tabpickup-description = Åpne sider fra andre enheter.
+firefoxview-tabpickup-recenttabs-description = Listen over siste faner vil vises her
+# Variables:
+#  $percentValue (Number): the percentage value for setup completion
+firefoxview-tabpickup-progress-label = { $percentValue } % fullført
+firefoxview-tabpickup-step-signin-header = Bytt enkelt mellom enheter
+firefoxview-tabpickup-step-signin-primarybutton = Fortsett
+firefoxview-tabpickup-adddevice-header = Synkroniser { -brand-product-name } på telefonen eller nettbrettet
+firefoxview-tabpickup-adddevice-description = Last ned { -brand-product-name } for mobil og logg inn der.
+firefoxview-tabpickup-adddevice-learn-how = Les hvordan
+firefoxview-tabpickup-adddevice-primarybutton = Få { -brand-product-name } for mobil
+firefoxview-tabpickup-synctabs-header = Slå på fanesynkronisering
+firefoxview-tabpickup-synctabs-description = Tillat { -brand-short-name } å dele faner mellom enheter.
+firefoxview-tabpickup-synctabs-learn-how = Les hvordan
+firefoxview-tabpickup-synctabs-primarybutton = Synkroniser åpne faner
+firefoxview-tabpickup-fxa-admin-disabled-header = Organisasjonen din har deaktivert synkronisering
+firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kan ikke synkronisere faner mellom enheter fordi administratoren din har deaktivert synkronisering.
+firefoxview-tabpickup-network-offline-header = Sjekk internettilkoblingen din
+firefoxview-tabpickup-network-offline-description = Hvis du bruker en brannmur eller proxy, sjekk at { -brand-short-name } har tillatelse til å få tilgang til nettet.
+firefoxview-tabpickup-network-offline-primarybutton = Prøv igjen
+firefoxview-tabpickup-sync-error-header = Vi har problemer med å synkronisere
+firefoxview-tabpickup-sync-error-description = { -brand-short-name } kan ikke nå tjenesten akkurat nå. Prøv igjen litt senere.
+firefoxview-tabpickup-sync-error-primarybutton = Prøv igjen
+firefoxview-tabpickup-syncing = Vi synkroniserer fanene dine, det tar bare et øyeblikk.
+firefoxview-mobile-promo-header = Åpne faner fra telefonen eller nettbrettet
+firefoxview-mobile-promo-description = For å se de siste mobilfanene dine, logg på { -brand-product-name } på iOS eller Android.
+firefoxview-mobile-promo-primarybutton = Få { -brand-product-name } for mobil
+firefoxview-mobile-confirmation-header = 🎉 Alt klart!
+firefoxview-mobile-confirmation-description = Nå kan du hente { -brand-product-name }-fanene fra nettbrettet eller telefonen.
+firefoxview-closed-tabs-title = Nylig lukket
+firefoxview-closed-tabs-collapse-button =
+    .title = Vis eller skjul liste over nylig lukkede faner
+firefoxview-closed-tabs-description = Åpne sider du har lukket på denne enheten på nytt.
