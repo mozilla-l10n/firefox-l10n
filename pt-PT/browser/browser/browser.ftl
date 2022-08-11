@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Gerir extensão…
 page-action-remove-extension =
     .label = Remover extensão
+page-action-manage-extension2 =
+    .label = Gerir Extensão…
+    .accesskey = E
+page-action-remove-extension2 =
+    .label = Remover Extensão
+    .accesskey = v
 
 ## Auto-hide Context Menu
 
@@ -284,9 +290,13 @@ quickactions-inspector = Abrir Inspetor
 quickactions-cmd-inspector = inspetor, devtools
 # Opens about:logins
 quickactions-logins = Ver credenciais
+quickactions-cmd-logins = credenciais, palavras-passe
 # Opens the print dialog
 quickactions-print = Imprimir
 quickactions-cmd-print = imprimir
+# Opens a new private browsing window
+quickactions-private = Abrir Janela de Navegação Privada
+quickactions-cmd-private = navegação privada
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Renovar o { -brand-short-name }
 quickactions-cmd-refresh = atualizar
@@ -600,6 +610,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Pesquisar marcadores
 urlbar-result-action-search-history = Pesquisar histórico
 urlbar-result-action-search-tabs = Pesquisar separadores
+urlbar-result-action-search-actions = Ações de Pesquisa
 
 ## Labels shown above groups of urlbar results
 
