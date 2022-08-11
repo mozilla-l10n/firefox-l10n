@@ -15,6 +15,34 @@ pictureinpicture-unpip =
     .aria-label = Lähetä takaisin välilehteen
 pictureinpicture-close =
     .aria-label = Sulje
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-pause-cmd =
+    .aria-label = Pysäytä
+    .title = Pysäytä (välilyönti)
+pictureinpicture-play-cmd =
+    .aria-label = Toista
+    .title = Toista (välilyönti)
+pictureinpicture-mute-cmd =
+    .aria-label = Vaimenna ääni
+    .title = Vaimenna ääni ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = Palauta ääni
+    .title = Palauta ääni ({ $shortcut })
+pictureinpicture-unpip-cmd =
+    .aria-label = Lähetä takaisin välilehteen
+    .title = Takaisin välilehteen
+pictureinpicture-close-cmd =
+    .aria-label = Sulje
+    .title = Sulje ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = Tekstitykset
+    .title = Tekstitykset
+
+##
+
 pictureinpicture-subtitles-label = Tekstitykset
 pictureinpicture-font-size-label = Kirjasinkoko
 pictureinpicture-font-size-small = Pieni
