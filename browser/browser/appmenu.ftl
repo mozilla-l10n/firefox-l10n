@@ -181,6 +181,10 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = Førehandsinnstilt for å undersøke nettverksfeil i { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Nettverk
+profiler-popup-presets-power-description = Førehandsinnstilt til å undersøke straumforbruksfeil i { -brand-shorter-name }, med låg overhead.
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = Energi
 profiler-popup-presets-custom-label =
     .label = Tilpassa
 
