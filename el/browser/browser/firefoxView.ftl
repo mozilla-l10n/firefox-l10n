@@ -26,6 +26,10 @@ firefoxview-tabpickup-fxa-admin-disabled-header = Ο οργανισμός σας
 firefoxview-tabpickup-network-offline-header = Ελέγξτε τη σύνδεσή σας στο διαδίκτυο
 firefoxview-tabpickup-network-offline-primarybutton = Δοκιμή ξανά
 firefoxview-tabpickup-sync-error-primarybutton = Δοκιμή ξανά
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Άνοιγμα { $targetURI } σε νέα καρτέλα
 firefoxview-change-colorway-button = Αλλαγή χρωματικού συνδυασμού
 # Variables:
 #  $intensity (String): Colorway intensity
