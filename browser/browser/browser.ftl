@@ -283,7 +283,7 @@ quickactions-logins = Vis innloggingar
 quickactions-cmd-logins = Innloggingar, passord
 # Opens the print dialog
 quickactions-print = Skriv ut
-quickactions-cmd-print = Skriv ut
+quickactions-cmd-print = utskrift, skriv ut
 # Opens a new private browsing window
 quickactions-private = Opne eit vindauge for privat nettlesing
 quickactions-cmd-private = privat nettlesing
