@@ -17,14 +17,23 @@ firefoxview-just-now-timestamp = 刚刚
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = 接收标签页
 firefoxview-tabpickup-description = 打开来自其他设备的标签页。
+# Variables:
+#  $percentValue (Number): the percentage value for setup completion
+firefoxview-tabpickup-progress-label = 完成 { $percentValue }%
 firefoxview-tabpickup-step-signin-header = 设备间无缝切换
+firefoxview-tabpickup-step-signin-description = 请先登录或创建账户，即可在此处接收手机上的标签页。
 firefoxview-tabpickup-step-signin-primarybutton = 继续
+firefoxview-tabpickup-adddevice-header = 与您的手机或平板电脑同步 { -brand-product-name }
+firefoxview-tabpickup-adddevice-description = 下载移动版 { -brand-product-name } 并登录。
+firefoxview-tabpickup-adddevice-learn-how = 了解要如何做
 firefoxview-tabpickup-adddevice-primarybutton = 下载 { -brand-product-name } 移动版
 firefoxview-tabpickup-synctabs-header = 开启标签页同步
 firefoxview-tabpickup-synctabs-description = 允许 { -brand-short-name } 跨设备共享标签页。
+firefoxview-tabpickup-synctabs-learn-how = 了解要如何做
 firefoxview-tabpickup-synctabs-primarybutton = 同步打开的标签页
 firefoxview-tabpickup-fxa-admin-disabled-header = 您的组织已禁用同步服务
 firefoxview-tabpickup-network-offline-header = 请检查您的互联网连接
+firefoxview-tabpickup-network-offline-description = 若您正在使用防火墙或代理，请检查 { -brand-short-name } 是否有联网权限。
 firefoxview-tabpickup-network-offline-primarybutton = 重试
 firefoxview-tabpickup-sync-error-header = 同步时遇到问题
 firefoxview-tabpickup-sync-error-description = { -brand-short-name } 目前暂时无法访问同步服务，请几分钟后重试。
@@ -38,6 +47,8 @@ firefoxview-closed-tabs-title = 最近关闭
 firefoxview-closed-tabs-collapse-button =
     .title = 显示或隐藏最近关闭的标签页列表
 firefoxview-closed-tabs-description = 再次打开您在此设备上关闭的页面。
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = 最后浏览
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
