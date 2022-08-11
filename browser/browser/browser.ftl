@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Behandle utvidelser…
 page-action-remove-extension =
     .label = Fjern utvidelse
+page-action-manage-extension2 =
+    .label = Behandle utvidelse…
+    .accesskey = e
+page-action-remove-extension2 =
+    .label = Fjern utvidelse
+    .accesskey = u
 
 ## Auto-hide Context Menu
 
@@ -281,10 +287,17 @@ quickactions-downloads = Åpne nedlastinger
 quickactions-cmd-downloads = nedlastinger
 # Opens the devtools web inspector
 quickactions-inspector = Åpne inspeksjon
+quickactions-cmd-inspector = inspektør, utviklerverktøy
+# Opens about:logins
+quickactions-logins = Vis innlogginger
+quickactions-cmd-logins = innlogginger, passord
 # Opens the print dialog
 quickactions-print = Skriv ut
+quickactions-cmd-print = utskrift
+quickactions-cmd-private = privat nettlesing
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Tilbakestill { -brand-short-name }
+quickactions-cmd-refresh = oppdater
 # Restarts the browser
 quickactions-restart = Start { -brand-short-name } på nytt
 # Opens about:preferences
