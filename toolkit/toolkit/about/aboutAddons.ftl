@@ -294,11 +294,17 @@ theme-disabled-heading = Выключана
 theme-disabled-heading2 = Захаваныя тэмы
 theme-monochromatic-heading = Расфарбоўкі
 theme-monochromatic-subheading = Яркія новыя колеры ад { -brand-product-name }. Даступныя абмежаваны час.
+# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Паспрабаваць расфарбоўкі
 colorway-collection-independent-voices-subheading = Зрабіце так, каб { -brand-short-name } больш пасаваў да вас.
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = Згасае { DATETIME($expiryDate, day: "numeric", month: "long") }
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Змяніць расфарбоўку
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+colorway-collection-expiry-label = Згасае { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Уключаны
 plugin-disabled-heading = Адключана
 dictionary-enabled-heading = Уключаны
