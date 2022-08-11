@@ -32,6 +32,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $pro
 inactive-css-not-table = 由于不是表格项目，<strong>{ $property }</strong> 对此元素无效。
 inactive-scroll-padding-when-not-scroll-container = 由于不会滚动，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-border-image = 由于父表格元素的 <strong>border-collapse</strong> 已设为 <strong>collapse</strong>，无法应用至内部表格元素，<strong>{ $property }</strong> 对此元素无效。
+inactive-css-ruby-element = <strong>{ $property }</strong> 对此 ruby 元素无效。此元素大小由 ruby 字体大小决定。
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -55,6 +56,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells-fix = 请尝试�
 inactive-css-not-table-fix = 请尝试添加 <strong>display:table</strong> 或 <strong>display:inline-table</strong>。{ learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = 请尝试添加 <strong>overflow:auto</strong>、<strong>overflow:scroll</strong> 或 <strong>overflow:hidden</strong>。{ learn-more }
 inactive-css-border-image-fix = 请在父表格元素上移除该属性，或将 <strong>border-collapse</strong> 的值更改为 <strong>collapse</strong> 以外的值。{ learn-more }
+inactive-css-ruby-element-fix = 请尝试调整 ruby 文本的 <strong>font-size</strong>。{ learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
