@@ -314,6 +314,7 @@ quickactions-update = Абнавіць { -brand-short-name }
 quickactions-cmd-update = абнавіць
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Праглядзець зыходнік
+quickactions-cmd-viewsource = прагляд зыходнага тэксту, код
 
 ## Bookmark Panel
 
@@ -613,6 +614,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Шукаць у закладках
 urlbar-result-action-search-history = Шукаць у гісторыі
 urlbar-result-action-search-tabs = Шукаць у картках
+urlbar-result-action-search-actions = Пошукавыя дзеянні
 
 ## Labels shown above groups of urlbar results
 
