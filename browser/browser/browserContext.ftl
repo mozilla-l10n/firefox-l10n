@@ -299,6 +299,10 @@ main-context-menu-image-set-image-as-background =
     .label = Imposta immagine come sfondo del desktop…
     .accesskey = p
 
+main-context-menu-image-copy-text =
+    .label = Copia testo da immagine
+    .accesskey = m
+
 main-context-menu-image-info =
     .label = Visualizza informazioni immagine
     .accesskey = u
