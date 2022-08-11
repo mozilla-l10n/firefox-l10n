@@ -67,6 +67,7 @@ policy-Extensions = Instalar, desinstalar ou bloquear extensões. A opção Inst
 policy-ExtensionSettings = Gerir todos os aspetos de instalação de extensões.
 policy-ExtensionUpdate = Ativar ou desativar atualizações automáticas de extensões.
 policy-FirefoxHome = Configurar o Firefox Home.
+policy-FirefoxHome2 = Configurar o { -firefox-home-brand-name }.
 policy-FlashPlugin = Permitir ou negar a utilização do plugin Flash.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Força a navegação direta no site da intranet em vez de pesquisar ao digitar entradas de uma única palavra na barra de endereço.
 policy-Handlers = Configurar as aplicações operadoras predefinidas.
