@@ -105,3 +105,8 @@ vcard-org-add = Organizaciske kajkosće přidać
 vcard-org-title = Titul
 vcard-org-role = Róla
 vcard-org-org = Organizacija
+
+# Custom properties
+
+vcard-custom-header = Swójske kajkosće
+vcard-custom-add = Swójske kajkosće přidać
