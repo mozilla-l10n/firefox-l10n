@@ -21,6 +21,7 @@ firefoxview-tabpickup-recenttabs-description = Рӯйхати варақаҳои
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% иҷро шуд
+firefoxview-tabpickup-step-signin-header = Байни дастгоҳҳо бе халал гузаред
 firefoxview-tabpickup-step-signin-primarybutton = Идома додан
 firefoxview-tabpickup-adddevice-header = Ҳамоҳангсозии { -brand-product-name } дар телефон ва планшет
 firefoxview-tabpickup-adddevice-learn-how = Бифаҳмед, ки чӣ тавр
