@@ -287,6 +287,7 @@ quickactions-downloads = Odpri prenose
 quickactions-cmd-downloads = prenosi
 # Opens the devtools web inspector
 quickactions-inspector = Odpri pregledovalnik
+quickactions-cmd-inspector = pregledovalnik, razvojna orodja
 # Opens about:logins
 quickactions-logins = Ogled prijav
 quickactions-cmd-logins = prijave, gesla
@@ -706,6 +707,8 @@ bookmarks-tools =
     .label = Orodja zaznamkov
 bookmarks-bookmark-edit-panel =
     .label = Uredi ta zaznamek
+bookmarks-subview-edit-bookmark =
+    .label = Uredi ta zaznamek …
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -722,6 +725,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Dodaj trenutni zavihek med zaznamke
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Dodaj trenutni zavihek med zaznamke …
 
 ## Library Panel items
 
