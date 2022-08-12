@@ -496,6 +496,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Domača stran Firefoxa (privzeto)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (privzeta)
 home-mode-choice-custom =
     .label = Spletne strani po meri ...
 home-mode-choice-blank =
@@ -521,6 +523,8 @@ choose-bookmark =
 
 home-prefs-content-header = Vsebina domače strani Firefoxa
 home-prefs-content-description = Izberite vsebino, ki jo želite prikazati na domači strani Firefoxa.
+home-prefs-content-header2 = Vsebina { -firefox-home-brand-name(sklon: "rodilnik") }
+home-prefs-content-description2 = Izberite vsebino, ki jo želite prikazati na { -firefox-home-brand-name(sklon: "mestnik") }.
 home-prefs-search-header =
     .label = Iskanje po spletu
 home-prefs-shortcuts-header =
@@ -541,6 +545,8 @@ home-prefs-recommended-by-description-new = Izjemna vsebina, ki jo pripravlja { 
 home-prefs-recommended-by-learn-more = Kako deluje
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Zgodbe oglaševalcev
+home-prefs-recommended-by-option-recent-saves =
+    .label = Prikaži nedavno shranjene strani
 home-prefs-highlights-option-visited-pages =
     .label = Obiskane strani
 home-prefs-highlights-options-bookmarks =

@@ -28,11 +28,42 @@
 -translations-brand-name = Firefox Translations
 -rally-brand-name = Mozilla Rally
 -rally-short-name = Rally
-
-
 -focus-brand-name = Firefox Focus
-
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-suggest-brand-name = Firefoxovi predlogi
-
+# ”Home" can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefox-home-brand-name =
+    { $sklon ->
+       *[imenovalnik]
+            { $zacetnica ->
+                [velika] Domača stran Firefoxa
+               *[mala] domača stran Firefoxa
+            }
+        [rodilnik]
+            { $zacetnica ->
+                [velika] Domače strani Firefoxa
+               *[mala] domače strani Firefoxa
+            }
+        [dajalnik]
+            { $zacetnica ->
+                [velika] Domači strani Firefoxa
+               *[mala] domači strani Firefoxa
+            }
+        [tozilnik]
+            { $zacetnica ->
+                [velika] Domačo stran Firefoxa
+               *[mala] domačo stran Firefoxa
+            }
+        [mestnik]
+            { $zacetnica ->
+                [velika] Domači strani Firefoxa
+               *[mala] domači strani Firefoxa
+            }
+        [orodnik]
+            { $zacetnica ->
+                [velika] Domačo stranjo Firefoxa
+               *[mala] domačo stranjo Firefoxa
+            }
+    }
