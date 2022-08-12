@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Tela inteira
+    .title = Tela inteira (duplo-clique)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Sair de tela inteira
+    .title = Sair de tela inteira (duplo-clique)
 pictureinpicture-subtitles-label = Subtítulos
 pictureinpicture-font-size-label = Tamanho da fonte
 pictureinpicture-font-size-small = Pequeno
