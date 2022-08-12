@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Повноекранний режим
+    .title = Повноекранний режим (подвійне натискання)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Вийти з повноекранного режиму
+    .title = Вийти з повноекранного режиму (подвійне натискання)
 pictureinpicture-subtitles-label = Субтитри
 pictureinpicture-font-size-label = Розмір шрифту
 pictureinpicture-font-size-small = Маленький
