@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Sekmeyi yer imlerine ekle
     .accesskey = i
+tab-context-bookmark-tab =
+    .label = Sekmeyi yer imlerine ekle…
+    .accesskey = m
 tab-context-open-in-new-container-tab =
     .label = Yeni kapsayıcı sekmede aç
     .accesskey = k
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Sekmeleri taşı
         }
     .accesskey = t
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
