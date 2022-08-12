@@ -38,6 +38,25 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Anonymní prohlížení)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Anonymní prohlížení)
+# These are the default window titles on macOS. The first two are for use when
+# there is no content title:
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Do not use the brand name in the last two attributes, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — anonymní prohlížení
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — anonymní prohlížení
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -165,6 +184,12 @@ page-action-manage-extension =
     .label = Nastavení tohoto rozšíření
 page-action-remove-extension =
     .label = Odebrat rozšíření
+page-action-manage-extension2 =
+    .label = Nastavení tohoto rozšíření…
+    .accesskey = e
+page-action-remove-extension2 =
+    .label = Odebrat rozšíření
+    .accesskey = r
 
 ## Auto-hide Context Menu
 
@@ -236,6 +261,8 @@ search-one-offs-actions =
 # Opens the about:addons page
 quickactions-addons = Zobrazit doplňky
 quickactions-cmd-addons = doplňky, rozšíření, vzhledy
+# Opens the bookmarks library window
+quickactions-bookmarks = Zobrazit záložky
 quickactions-cmd-bookmarks = záložky
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Vymazat historii
@@ -243,6 +270,9 @@ quickactions-cmd-clearhistory = vymazat historii
 # Opens about:downloads page
 quickactions-downloads = Otevřít seznam stahování
 quickactions-cmd-downloads = stahování
+# Opens the devtools web inspector
+quickactions-inspector = Zobrazit průzkumník
+quickactions-cmd-inspector = průzkumník, nástroje pro vývojáře, devtools
 # Opens about:logins
 quickactions-logins = Zobrazit přihlašovací údaje
 quickactions-cmd-logins = přihlašovací údaje, hesla
