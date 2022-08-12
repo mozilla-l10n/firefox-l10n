@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Upravljaj razširitev ...
 page-action-remove-extension =
     .label = Odstrani razširitev
+page-action-manage-extension2 =
+    .label = Upravljaj razširitev ...
+    .accesskey = U
+page-action-remove-extension2 =
+    .label = Odstrani razširitev
+    .accesskey = r
 
 ## Auto-hide Context Menu
 
@@ -267,12 +273,26 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page
+quickactions-addons = Prikaži dodatke
+quickactions-cmd-addons = dodatki, razširitve, teme
+# Opens the bookmarks library window
+quickactions-bookmarks = Prikaži zaznamke
+quickactions-cmd-bookmarks = zaznamki
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Počisti zgodovino
+quickactions-cmd-clearhistory = počisti zgodovino
 # Opens about:downloads page
 quickactions-downloads = Odpri prenose
+quickactions-cmd-downloads = prenosi
 # Opens the devtools web inspector
 quickactions-inspector = Odpri pregledovalnik
+# Opens about:logins
+quickactions-logins = Ogled prijav
+quickactions-cmd-logins = prijave, gesla
 # Opens the print dialog
 quickactions-print = Natisni
+quickactions-cmd-print = natisni, tiskanje, print
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Osveži { -brand-short-name }
 # Restarts the browser
