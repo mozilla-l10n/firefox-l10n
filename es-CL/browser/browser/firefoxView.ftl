@@ -33,18 +33,24 @@ firefoxview-tabpickup-synctabs-description = Permitir que { -brand-short-name } 
 firefoxview-tabpickup-synctabs-learn-how = Aprender cómo
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizar pestañas abiertas
 firefoxview-tabpickup-fxa-admin-disabled-header = Tu organización ha deshabilitado la sincronización
+firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } no puede sincronizar pestañas entre dispositivos porque tu administrador ha deshabilitado la sincronización.
 firefoxview-tabpickup-network-offline-header = Revisa tu conexión a Internet
 firefoxview-tabpickup-network-offline-description = Si estás usando un firewall o un proxy, verifica que { -brand-short-name } tenga permiso para acceder a la web.
 firefoxview-tabpickup-network-offline-primarybutton = Volver a intentarlo
 firefoxview-tabpickup-sync-error-header = Tenemos problemas para sincronizar
+firefoxview-tabpickup-sync-error-description = { -brand-short-name } no puede comunicarse con el servicio en este momento. Vuelve a intentarlo en unos instantes.
 firefoxview-tabpickup-sync-error-primarybutton = Volver a intentarlo
 firefoxview-tabpickup-syncing = Siéntate tranquilo mientras tus pestañas se sincronizan. Será solo un momento.
 firefoxview-mobile-promo-header = Mira las pestañas desde tu teléfono o tablet
+firefoxview-mobile-promo-description = Para ver tus últimas pestañas móviles, conéctate a { -brand-product-name } en iOS o Android.
 firefoxview-mobile-promo-primarybutton = Obtén { -brand-product-name } para dispositivos móviles
+firefoxview-mobile-confirmation-header = 🎉 ¡Listo para llevar!
+firefoxview-mobile-confirmation-description = Ahora puedes continuar con tus pestañas de { -brand-product-name } desde tu tablet o teléfono.
 firefoxview-closed-tabs-title = Cerrados recientemente
 firefoxview-closed-tabs-collapse-button =
     .title = Mostrar u ocultar la lista de pestañas cerradas recientemente
 firefoxview-closed-tabs-description = Vuelve a abrir las páginas que cerraste en este dispositivo.
+firefoxview-closed-tabs-placeholder = <strong>No más páginas cerradas recientemente</strong><br/>Nunca temas perder una pestaña cerrada de nuevo. Siempre podrás recuperarla aquí.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Última activa
 # Variables:
@@ -58,3 +64,4 @@ firefoxview-change-colorway-button = Cambiar combinación de colores
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>No hay nada que ver todavía</strong><br/>La próxima vez que abras una página en { -brand-product-name } en otro dispositivo, la verás aquí como por arte de magia.
