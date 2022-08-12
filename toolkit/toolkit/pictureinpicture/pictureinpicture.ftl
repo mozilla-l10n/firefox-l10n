@@ -15,6 +15,34 @@ pictureinpicture-unpip =
     .aria-label = Pošlji nazaj na zavihek
 pictureinpicture-close =
     .aria-label = Zapri
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-pause-cmd =
+    .aria-label = Začasno ustavi
+    .title = Premor (preslednica)
+pictureinpicture-play-cmd =
+    .aria-label = Predvajaj
+    .title = Predvajaj (preslednica)
+pictureinpicture-mute-cmd =
+    .aria-label = Utišaj
+    .title = Utišaj ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = Povrni glasnost
+    .title = Povrni glasnost ({ $shortcut })
+pictureinpicture-unpip-cmd =
+    .aria-label = Pošlji nazaj na zavihek
+    .title = Nazaj na zavihek
+pictureinpicture-close-cmd =
+    .aria-label = Zapri
+    .title = Zapri ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = Podnapisi
+    .title = Podnapisi
+
+##
+
 pictureinpicture-subtitles-label = Podnapisi
 pictureinpicture-font-size-label = Velikost pisave
 pictureinpicture-font-size-small = majhna
