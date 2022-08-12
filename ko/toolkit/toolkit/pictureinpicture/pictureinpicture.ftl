@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = 전체 화면
+    .title = 전체 화면 (더블 클릭)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = 전체 화면 종료
+    .title = 전체 화면 종료 (더블 클릭)
 pictureinpicture-subtitles-label = 자막
 pictureinpicture-font-size-label = 글꼴 크기
 pictureinpicture-font-size-small = 작게
