@@ -59,3 +59,4 @@ about-private-browsing-pin-promo-link-text =
         [macos] Dock’ta tut
        *[other] Görev çubuğuna sabitle
     }
+about-private-browsing-pin-promo-title = Çerezleriniz ve geçmişiniz kaydedilmesin. Hiç kimse izlemiyormuş gibi gezin.
