@@ -17,6 +17,7 @@ firefoxview-just-now-timestamp = 刚刚
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = 接收标签页
 firefoxview-tabpickup-description = 打开来自其他设备的标签页。
+firefoxview-tabpickup-recenttabs-description = 最近的标签页将列于此处
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = 完成 { $percentValue }%
@@ -32,12 +33,14 @@ firefoxview-tabpickup-synctabs-description = 允许 { -brand-short-name } 跨设
 firefoxview-tabpickup-synctabs-learn-how = 了解要如何做
 firefoxview-tabpickup-synctabs-primarybutton = 同步打开的标签页
 firefoxview-tabpickup-fxa-admin-disabled-header = 您的组织已禁用同步服务
+firefoxview-tabpickup-fxa-admin-disabled-description = 由于您的管理员已禁用同步服务，{ -brand-short-name } 无法跨设备同步标签页。
 firefoxview-tabpickup-network-offline-header = 请检查您的互联网连接
 firefoxview-tabpickup-network-offline-description = 若您正在使用防火墙或代理，请检查 { -brand-short-name } 是否有联网权限。
 firefoxview-tabpickup-network-offline-primarybutton = 重试
 firefoxview-tabpickup-sync-error-header = 同步时遇到问题
 firefoxview-tabpickup-sync-error-description = { -brand-short-name } 目前暂时无法访问同步服务，请几分钟后重试。
 firefoxview-tabpickup-sync-error-primarybutton = 重试
+firefoxview-tabpickup-syncing = 您的标签页正在同步，请稍等片刻。
 firefoxview-mobile-promo-header = 从手机或平板电脑接收标签页
 firefoxview-mobile-promo-description = 若要查看近期您移动设备上的标签页，请登录 iOS/Android 版 { -brand-product-name }。
 firefoxview-mobile-promo-primarybutton = 下载 { -brand-product-name } 移动版
