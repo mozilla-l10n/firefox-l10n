@@ -6,4 +6,7 @@
 ## Text recognition works through a modal that presents the text that is found
 ## in an image, and copies the results to the clipboard.
 
+text-recognition-modal-searching-title = Oheka ta’ãnga moñe’ẽrãme g̃uarã…
 text-recognition-modal-close-button = Mboty
+# The title of the the modal is only available to screen readers.
+text-recognition-modal-accessible-modal-title = Moñe’ẽrãgui ñeguenohẽpyre
