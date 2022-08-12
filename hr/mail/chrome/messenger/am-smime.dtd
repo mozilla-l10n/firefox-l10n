@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY e2eTitle.label "End-To-End šifriranje">
+<!ENTITY e2eTitle.label "Obostrano šifriranje">
 <!ENTITY e2eLearnMore.label "Saznaj više">
 
-<!ENTITY e2eEnc.description "Bez end-to-end šifriranja, sadržaji tvojih poruka lako su dostupni tvom davatelju usluge e-pošte i drugim masovnim nadzorima.">
+<!ENTITY e2eEnc.description "Bez obostranog šifriranja, sadržaji tvojih poruka lako su dostupni tvom davatelju usluge e-pošte i drugim masovnim nadzorima.">
 
 <!ENTITY e2eTechPref.description "Preferirana tehnologija šifriranja:">
 
@@ -19,7 +19,6 @@
 <!ENTITY encryption.certificate_clear.button "Očisti">
 <!ENTITY encryption.certificate_clear.accesskey "i">
 <!ENTITY signingGroupTitle.label "Digitalno potpisivanje">
-
 <!ENTITY signingCert2.message "Osobni certifikat za digitalno potpisivanje:">
 
 <!ENTITY sendingDefaults.label "Standardne postavke za slanje poruka">
