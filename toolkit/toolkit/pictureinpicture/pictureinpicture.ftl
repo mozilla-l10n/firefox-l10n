@@ -35,6 +35,14 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+  .aria-label = Schermo intero
+  .title = Schermo intero (doppio clic)
+
+pictureinpicture-exit-fullscreen-cmd =
+  .aria-label = Esci da schermo intero
+  .title = Esci da schermo intero (doppio clic)
+
 pictureinpicture-pause =
     .aria-label = Pausa
 pictureinpicture-play =
