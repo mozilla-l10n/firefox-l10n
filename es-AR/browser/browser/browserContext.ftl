@@ -134,6 +134,16 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Editar marcador…
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = Agregar página a marcadores…
+    .accesskey = m
+    .tooltiptext = Agregar página a marcadores ({ $shortcut })
+main-context-menu-edit-bookmark =
+    .aria-label = Editar marcador…
+    .accesskey = m
+    .tooltiptext = Editar marcador
 main-context-menu-open-link =
     .label = Abrir enlace
     .accesskey = e
