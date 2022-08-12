@@ -199,3 +199,43 @@
                 [lower] domovskou stránkou Firefoxu
             }
     }
+# View" can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefoxview-brand-name =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Přehled Firefoxu
+                [lower] přehled Firefoxu
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Přehledu Firefoxu
+                [lower] přehledu Firefoxu
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Přehledu Firefoxu
+                [lower] přehledu Firefoxu
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Přehled Firefoxu
+                [lower] přehled Firefoxu
+            }
+        [voc]
+            { $capitalization ->
+               *[upper] Přehlede Firefoxu
+                [lower] přehlede Firefoxu
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Přehledu Firefoxu
+                [lower] přehledu Firefoxu
+            }
+        [ins]
+            { $capitalization ->
+               *[upper] Přehledem Firefoxu
+                [lower] přehledem Firefoxu
+            }
+    }

@@ -15,6 +15,34 @@ pictureinpicture-unpip =
     .aria-label = Odeslat zpět do panelu
 pictureinpicture-close =
     .aria-label = Zavřít
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-pause-cmd =
+    .aria-label = Pozastavit
+    .title = Pozastavit (mezerník)
+pictureinpicture-play-cmd =
+    .aria-label = Přehrát
+    .title = Přehrát (mezerník)
+pictureinpicture-mute-cmd =
+    .aria-label = Ztlumit
+    .title = Ztlumit ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = Zapnout zvuk
+    .title = Zapnout zvuk ({ $shortcut })
+pictureinpicture-unpip-cmd =
+    .aria-label = Odeslat zpět do panelu
+    .title = Zpět do panelu
+pictureinpicture-close-cmd =
+    .aria-label = Zavřít
+    .title = Zavřít ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = Titulky
+    .title = Titulky
+
+##
+
 pictureinpicture-subtitles-label = Titulky
 pictureinpicture-font-size-label = Velikost písma
 pictureinpicture-font-size-small = Malé
