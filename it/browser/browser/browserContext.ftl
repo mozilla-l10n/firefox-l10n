@@ -99,13 +99,21 @@ main-context-menu-page-save =
 main-context-menu-bookmark-add =
     .aria-label = Aggiungi pagina ai segnalibri
     .accesskey = u
-    .tooltiptext = Aggiungi ai segnalibri
+    .tooltiptext = Aggiungi pagina ai segnalibri
+
+main-context-menu-bookmark-page =
+    .aria-label = Aggiungi pagina ai segnalibri…
+    .accesskey = u
+    .tooltiptext = Aggiungi pagina ai segnalibri
 
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-add-mac =
     .label = Aggiungi pagina ai segnalibri
+    .accesskey = n
+main-context-menu-bookmark-page-mac =
+    .label = Aggiungi pagina ai segnalibri…
     .accesskey = n
 
 # This menuitem is only visible on macOS
@@ -114,18 +122,29 @@ main-context-menu-bookmark-add-mac =
 main-context-menu-bookmark-edit-mac =
     .label = Modifica segnalibro
     .accesskey = n
+main-context-menu-edit-bookmark-mac =
+    .label = Modifica segnalibro…
+    .accesskey = n
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
     .aria-label = Aggiungi pagina ai segnalibri
     .accesskey = n
-    .tooltiptext = Aggiungi ai segnalibri ({ $shortcut })
+    .tooltiptext = Aggiungi pagina ai segnalibri ({ $shortcut })
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = Aggiungi pagina ai segnalibri…
+    .accesskey = n
+    .tooltiptext = Aggiungi pagina ai segnalibri ({ $shortcut })
 
 main-context-menu-bookmark-change =
     .aria-label = Modifica segnalibro
     .accesskey = n
     .tooltiptext = Modifica questo segnalibro
+main-context-menu-edit-bookmark =
+    .aria-label = Modifica segnalibro…
+    .accesskey = n
+    .tooltiptext = Modifica segnalibro
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
@@ -133,6 +152,10 @@ main-context-menu-bookmark-change-with-shortcut =
     .aria-label = Modifica segnalibro
     .accesskey = n
     .tooltiptext = Modifica questo segnalibro ({ $shortcut })
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = Modifica segnalibro…
+    .accesskey = n
+    .tooltiptext = Modifica segnalibro ({ $shortcut })
 
 main-context-menu-open-link =
     .label = Apri link
@@ -155,6 +178,9 @@ main-context-menu-open-link-new-private-window =
     .accesskey = k
 
 main-context-menu-bookmark-link =
+    .label = Aggiungi link ai segnalibri…
+    .accesskey = b
+main-context-menu-bookmark-link-2 =
     .label = Aggiungi link ai segnalibri…
     .accesskey = b
 
@@ -400,6 +426,9 @@ main-context-menu-frame-reload =
 main-context-menu-frame-bookmark =
     .label = Aggiungi riquadro ai segnalibri…
     .accesskey = e
+main-context-menu-frame-add-bookmark =
+    .label = Aggiungi riquadro ai segnalibri…
+    .accesskey = e
 
 main-context-menu-frame-save-as =
     .label = Salva riquadro con nome…
@@ -419,6 +448,9 @@ main-context-menu-frame-view-info =
 
 main-context-menu-print-selection =
     .label = Stampa selezione
+    .accesskey = m
+main-context-menu-print-selection-2 =
+    .label = Stampa selezione…
     .accesskey = m
 
 main-context-menu-view-selection-source =

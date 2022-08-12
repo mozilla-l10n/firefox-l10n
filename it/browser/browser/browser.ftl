@@ -688,6 +688,8 @@ bookmarks-tools =
     .label = Strumenti per i segnalibri
 bookmarks-bookmark-edit-panel =
     .label = Modifica segnalibro
+bookmarks-subview-edit-bookmark =
+    .label = Modifica segnalibro…
 
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
@@ -706,6 +708,8 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Aggiungi scheda corrente ai segnalibri
+bookmarks-subview-bookmark-tab =
+    .label = Aggiungi scheda corrente ai segnalibri…
 
 ## Library Panel items
 
