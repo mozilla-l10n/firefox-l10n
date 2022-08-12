@@ -118,6 +118,38 @@ main-context-menu-bookmark-change-with-shortcut =
     .aria-label = Редагувати цю закладку
     .accesskey = к
     .tooltiptext = Редагувати цю закладку ({ $shortcut })
+main-context-menu-bookmark-page =
+    .aria-label = Додати сторінку до закладок…
+    .accesskey = з
+    .tooltiptext = Додати сторінку до закладок…
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-page-mac =
+    .label = Додати сторінку до закладок…
+    .accesskey = з
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
+# so should probably have the same access key if possible.
+main-context-menu-edit-bookmark-mac =
+    .label = Редагувати закладку…
+    .accesskey = Р
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = Додати сторінку до закладок…
+    .accesskey = з
+    .tooltiptext = Додати сторінку до закладок ({ $shortcut })
+main-context-menu-edit-bookmark =
+    .aria-label = Редагувати закладку…
+    .accesskey = Р
+    .tooltiptext = Редагувати закладку
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = Редагувати закладку…
+    .accesskey = Р
+    .tooltiptext = Редагувати закладку ({ $shortcut })
 main-context-menu-open-link =
     .label = Відкрити посилання
     .accesskey = В
@@ -136,6 +168,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-link =
     .label = Додати посилання до закладок
     .accesskey = с
+main-context-menu-bookmark-link-2 =
+    .label = Додати посилання до закладок
+    .accesskey = п
 main-context-menu-save-link =
     .label = Зберегти посилання як…
     .accesskey = я
@@ -248,6 +283,9 @@ main-context-menu-image-email =
 main-context-menu-image-set-image-as-background =
     .label = Призначити тлом стільниці…
     .accesskey = ч
+main-context-menu-image-copy-text =
+    .label = Копіювати текст із зображення
+    .accesskey = К
 main-context-menu-image-info =
     .label = Інформація про зображення
     .accesskey = І
@@ -325,6 +363,9 @@ main-context-menu-frame-reload =
 main-context-menu-frame-bookmark =
     .label = Додати фрейм до закладок
     .accesskey = й
+main-context-menu-frame-add-bookmark =
+    .label = Додати фрейм до закладок…
+    .accesskey = й
 main-context-menu-frame-save-as =
     .label = Зберегти фрейм як…
     .accesskey = ф
@@ -339,6 +380,9 @@ main-context-menu-frame-view-info =
     .accesskey = ф
 main-context-menu-print-selection =
     .label = Друкувати вибране
+    .accesskey = к
+main-context-menu-print-selection-2 =
+    .label = Друкувати вибране…
     .accesskey = к
 main-context-menu-view-selection-source =
     .label = Програмний код вибірки

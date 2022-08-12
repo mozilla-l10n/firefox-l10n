@@ -703,6 +703,8 @@ bookmarks-tools =
     .label = Інструменти закладок
 bookmarks-bookmark-edit-panel =
     .label = Редагувати цю закладку
+bookmarks-subview-edit-bookmark =
+    .label = Редагувати цю закладку…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -719,6 +721,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Додати цю вкладку до закладок
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Додати цю вкладку до закладок…
 
 ## Library Panel items
 
