@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Tam ekran
+    .title = Tam ekran (çift tıklama)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Tam ekrandan çık
+    .title = Tam ekrandan çık (çift tıklama)
 pictureinpicture-subtitles-label = Altyazı
 pictureinpicture-font-size-label = Yazı tipi boyutu
 pictureinpicture-font-size-small = Küçük
