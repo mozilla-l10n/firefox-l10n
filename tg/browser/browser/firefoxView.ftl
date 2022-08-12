@@ -14,6 +14,10 @@ firefoxview-close-button =
     .aria-label = Пӯшидан
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Ҳоли ҳозир
+# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
+firefoxview-tabpickup-header = Интихоби варақа
+firefoxview-tabpickup-description = Кушодани саҳифаҳо аз дастгоҳҳои дигар.
+firefoxview-tabpickup-recenttabs-description = Рӯйхати варақаҳои охирин дар ин ҷо нишон дода мешавад
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% иҷро шуд
