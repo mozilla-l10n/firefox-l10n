@@ -710,6 +710,8 @@ bookmarks-tools =
     .label = Nastroje za zapołožki
 bookmarks-bookmark-edit-panel =
     .label = Tutu zapołožku wobdźěłać
+bookmarks-subview-edit-bookmark =
+    .label = Tutu zapołožku wobdźěłać …
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -726,6 +728,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Aktualny rajtark jako zapołožku składować
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Aktualny rajtark jako zapołožku składować …
 
 ## Library Panel items
 
