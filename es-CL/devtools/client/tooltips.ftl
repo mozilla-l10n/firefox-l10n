@@ -56,6 +56,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells-fix = Prueba aju
 inactive-css-not-table-fix = Prueba a añadir <strong>display:table</strong> o <strong>display:inline-table</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Prueba a añadir <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> u <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = En el elemento de la tabla principal, elimina la propiedad o cambia el valor de <strong>border-collapse</strong> a un valor que no sea <strong>collapse</strong>. { learn-more }
+inactive-css-ruby-element-fix = Intenta cambiar el <strong>tamaño de fuente</strong> del texto ruby. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
