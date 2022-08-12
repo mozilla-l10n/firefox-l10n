@@ -67,6 +67,7 @@ policy-Extensions = Namesti, odstrani ali zakleni razširitve. Možnost "Install
 policy-ExtensionSettings = Upravljaj vse vidike namestitve razširitve.
 policy-ExtensionUpdate = Omogoči ali onemogoči samodejno posodabljanje razširitev.
 policy-FirefoxHome = Nastavi Firefoxovo domačo stran.
+policy-FirefoxHome2 = Nastavi { -firefox-home-brand-name(sklon: "tozilnik") }.
 policy-FlashPlugin = Dovoli ali zavrni uporabo vtičnika Flash.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Ob vnosu ene besede v naslovno vrstico prisili neposredno krmarjenje na intranetno stran namesto iskanja.
 policy-Handlers = Nastavite privzete upravljalce aplikacij.
