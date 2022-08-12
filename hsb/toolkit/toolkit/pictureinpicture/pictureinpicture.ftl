@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Połna wobrazowka
+    .title = Połna wobrazowka (dwójne kliknjenje)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Połnu wobrazowku wopušćić
+    .title = Połnu wobrazowku wopušćić (dwójne kliknjenje)
 pictureinpicture-subtitles-label = Podtitule
 pictureinpicture-font-size-label = Pismowa wulkosć
 pictureinpicture-font-size-small = Mały
