@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Rajtark jako zapołožku składować
     .accesskey = z
+tab-context-bookmark-tab =
+    .label = Rajtark jako zapołožku składować …
+    .accesskey = R
 tab-context-open-in-new-container-tab =
     .label = W nowym kontejnerowym rajtarku wočinić
     .accesskey = k
@@ -109,7 +112,6 @@ tab-context-move-tabs =
            *[other] { $tabCount } rajtarkow přesunyć
         }
     .accesskey = s
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
