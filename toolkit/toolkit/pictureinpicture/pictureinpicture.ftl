@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Fullskjerm
+    .title = Fullskjerm (dobbeltklikk)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Avslutt fullskjerm
+    .title = Avslutt fullskjerm (dobbeltklikk)
 pictureinpicture-subtitles-label = Undertekster
 pictureinpicture-font-size-label = Skriftstørrelse
 pictureinpicture-font-size-small = Liten
