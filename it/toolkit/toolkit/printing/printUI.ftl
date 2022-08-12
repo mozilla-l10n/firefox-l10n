@@ -17,6 +17,7 @@ printui-sheets-count =
     }
 
 printui-page-range-all = Tutto
+printui-page-range-current = Corrente
 printui-page-range-odd = Dispari
 printui-page-range-even = Pari
 printui-page-range-custom = Personalizzato
