@@ -22,10 +22,14 @@ firefoxview-tabpickup-recenttabs-description = Рӯйхати варақаҳои
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% иҷро шуд
 firefoxview-tabpickup-step-signin-header = Байни дастгоҳҳо бе халал гузаред
+firefoxview-tabpickup-step-signin-description = Барои аз ин ҷо ба даст овардани варақаҳои браузери телефони худ, аввал ворид шавед ё ҳисоберо эҷод намоед.
 firefoxview-tabpickup-step-signin-primarybutton = Идома додан
 firefoxview-tabpickup-adddevice-header = Ҳамоҳангсозии { -brand-product-name } дар телефон ва планшет
+firefoxview-tabpickup-adddevice-description = Браузери «{ -brand-product-name }»-ро барои телефони моболии худ боргирӣ кунед ва дар он ҷо ворид шавед.
 firefoxview-tabpickup-adddevice-learn-how = Бифаҳмед, ки чӣ тавр
+firefoxview-tabpickup-adddevice-primarybutton = Браузери «{ -brand-product-name }»-ро дар телефони мобилии худ насб кунед
 firefoxview-tabpickup-synctabs-header = Фаъол кардани ҳамоҳангсозӣ варақаҳо
+firefoxview-tabpickup-synctabs-description = Иҷозат диҳед, ки «{ -brand-short-name }» варақаҳоро байни дастгоҳҳо мубодида кунад.
 firefoxview-tabpickup-synctabs-learn-how = Бифаҳмед, ки чӣ тавр
 firefoxview-tabpickup-synctabs-primarybutton = Ҳамоҳангсозии варақаҳои кушодашуда
 firefoxview-tabpickup-network-offline-primarybutton = Аз нав кӯшиш кардан
