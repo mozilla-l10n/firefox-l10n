@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Cel zaslon
+    .title = Cel zaslon (dvoklik)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Izhod iz celozaslonskega načina
+    .title = Izhod iz celozaslonskega načina (dvoklik)
 pictureinpicture-subtitles-label = Podnapisi
 pictureinpicture-font-size-label = Velikost pisave
 pictureinpicture-font-size-small = majhna

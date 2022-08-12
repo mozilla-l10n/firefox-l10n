@@ -163,6 +163,9 @@ spotlight-total-cookie-protection-expanded = { -brand-short-name } ograjuje piš
 spotlight-total-cookie-protection-primary-button = Vključi popolno zaščito pred piškotki
 spotlight-total-cookie-protection-secondary-button = Ne zdaj
 cfr-total-cookie-protection-header = Zahvaljujoč vam je { -brand-short-name } bolj zaseben in varen kot kdajkoli prej
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = Popolna zaščita piškotkov je naša najmočnejša zaščita zasebnosti doslej – in je po novem privzeta nastavitev za vse uporabnike { -brand-short-name(sklon: "rodilnik") }. Tega ne bi zmogli brez udeležencev z zgodnjim dostopom, kot ste vi. Hvala, ker nam pomagate ustvarjati boljši in zasebnejši internet.
 
 ## Emotive Continuous Onboarding
 

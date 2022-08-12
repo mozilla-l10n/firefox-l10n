@@ -293,14 +293,23 @@ quickactions-cmd-logins = prijave, gesla
 # Opens the print dialog
 quickactions-print = Natisni
 quickactions-cmd-print = natisni, tiskanje, print
+# Opens a new private browsing window
+quickactions-private = Odpri okno zasebnega brskanja
+quickactions-cmd-private = zasebno brskanje
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Osveži { -brand-short-name }
+quickactions-cmd-refresh = osveži
 # Restarts the browser
 quickactions-restart = Ponovno zaženi { -brand-short-name }
+quickactions-cmd-restart = ponovno zaženi, znova zaženi, zaženi znova
+# Opens the screenshot tool
+quickactions-screenshot2 = Zajemi posnetek zaslona
 # Opens about:preferences
 quickactions-settings = Odpri nastavitve
+quickactions-cmd-settings = nastavitve, možnosti
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Posodobi { -brand-short-name }
+quickactions-cmd-update = posodobi
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Pokaži vir
 
@@ -891,3 +900,6 @@ private-browsing-indicator-label = Zasebno brskanje
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Razširitve
+    .tooltiptext = Razširitve
