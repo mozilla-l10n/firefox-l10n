@@ -305,6 +305,7 @@ quickactions-restart = Ponovno zaženi { -brand-short-name }
 quickactions-cmd-restart = ponovno zaženi, znova zaženi, zaženi znova
 # Opens the screenshot tool
 quickactions-screenshot2 = Zajemi posnetek zaslona
+quickactions-cmd-screenshot = posnetek zaslona
 # Opens about:preferences
 quickactions-settings = Odpri nastavitve
 quickactions-cmd-settings = nastavitve, možnosti
