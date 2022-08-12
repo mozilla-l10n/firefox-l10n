@@ -105,3 +105,8 @@ vcard-org-add = Προσθήκη ιδιοτήτων οργανισμού
 vcard-org-title = Τίτλος
 vcard-org-role = Ρόλος
 vcard-org-org = Οργανισμός
+
+# Custom properties
+
+vcard-custom-header = Προσαρμοσμένες ιδιότητες
+vcard-custom-add = Προσθήκη προσαρμοσμένων ιδιοτήτων
