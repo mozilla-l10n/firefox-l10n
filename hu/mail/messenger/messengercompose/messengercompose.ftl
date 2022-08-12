@@ -250,11 +250,11 @@ extra-address-rows-menu-button =
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
-        [one] Az üzenetének nyilvános címzettje van. Elkerülheti a címzettek közzétételét, ha helyette titkos másolatot használ.
-       *[other] A címzett és másolatot kapó { $count } partner látni fogja egymás címét. Elkerülheti a címzettek közzétételét, ha helyette titkos másolatot használ.
+        [one] Az üzenetének nyilvános címzettje van. Elkerülheti a címzettek közzétételét, ha helyette rejtett másolatot használ.
+       *[other] A címzett és másolatot kapó { $count } partner látni fogja egymás címét. Elkerülheti a címzettek közzétételét, ha helyette rejtett másolatot használ.
     }
 many-public-recipients-bcc =
-    .label = Helyette titkos másolat használata
+    .label = Helyette rejtett másolat használata
     .accesskey = H
 many-public-recipients-ignore =
     .label = A címzettek legyenek nyilvánosak
@@ -263,8 +263,8 @@ many-public-recipients-prompt-title = Túl sok nyilvános címzett
 #   $count (Number) - the count of addresses in the public recipients fields.
 many-public-recipients-prompt-msg =
     { $count ->
-        [one] Üzenetének nyilvános címzettje van. Ez adatvédelmi aggály lehet. Elkerülheti a címzettek közzétételét, ha áthelyezi a címzetteket a Címzett/Másolatot kap mezőból a Titkos másolatba.
-       *[other] Üzenetének { $count } nyilvános címzettje van, akik láthatják egymás címét. Ez adatvédelmi aggály lehet. Elkerülheti a címzettek közzétételét, ha áthelyezi a címzetteket a Címzett/Másolatot kap mezőből a Titkos másolatba.
+        [one] Üzenetének nyilvános címzettje van. Ez adatvédelmi aggály lehet. Elkerülheti a címzettek közzétételét, ha áthelyezi a címzetteket a címzett/másolatot kap mezőből a rejtett másolatba.
+       *[other] Üzenetének { $count } nyilvános címzettje van, akik láthatják egymás címét. Ez adatvédelmi aggály lehet. Elkerülheti a címzettek közzétételét, ha áthelyezi a címzetteket a címzett/másolatot kap mezőből a rejtett másolatba.
     }
 many-public-recipients-prompt-cancel = Küldés megszakítása
 many-public-recipients-prompt-send = Küldés mindenképp
@@ -274,7 +274,7 @@ many-public-recipients-prompt-send = Küldés mindenképp
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Nem található egyedi személyazonosság, amely egyezik a feladó címével. Az üzenete a jelenlegi Feladó mező, és a(z) { $identity } személyazonosság beállításaival lesz elküldve.
-encrypted-bcc-warning = Titkosított üzenet küldésekor a Titkos másolatot kapóként hozzáadott címzettjei nincsenek teljesen elrejtve. Minden címzett képes lehet azonosítani őket.
+encrypted-bcc-warning = Titkosított üzenet küldésekor a rejtett másolatot kapóként hozzáadott címzettjei nincsenek teljesen elrejtve. Minden címzett képes lehet azonosítani őket.
 encrypted-bcc-ignore-button = Értettem
 
 ## Editing
