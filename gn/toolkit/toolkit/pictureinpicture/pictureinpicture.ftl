@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Mba’erechaha tuichakue
+    .title = Emboja isaja’ỹre (mokõi jekutu)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Esẽ mba’erechaha tuichavévagui
+    .title = Esẽ mba’erechaha tuichavévagui (mokõi jekutu)
 pictureinpicture-subtitles-label = Teratee’i
 pictureinpicture-font-size-label = Tai tuichakue
 pictureinpicture-font-size-small = Michĩva

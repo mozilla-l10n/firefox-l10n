@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Techaukaha rendayke
     .accesskey = B
+tab-context-bookmark-tab =
+    .label = Embojuaju kuatiarogue techaukaháre…
+    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = Ijuruja guerekoha rendayke pyahúpe
     .accesskey = e
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Eguerova tendaykekuéra
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
