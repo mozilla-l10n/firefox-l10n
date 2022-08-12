@@ -23,3 +23,12 @@ openpgp-import-sender-key =
     .label = Uvoz…
 openpgp-search-keys-openpgp =
     .label = Otkrijte OpenPGP ključ
+openpgp-missing-signature-key = Ova poruka je potpisana ključem koji još nemate.
+openpgp-search-signature-key =
+    .label = Otkrij…
+# Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-opened = Ovo je OpenPGP poruka koja je izgleda oštećena od strane MS-Exchange i ne može biti popravljena zato što je otvorena ih lokalne datoteke. Kopirajte poruku u mapu e-pošte kako biste je pokušali automatski popraviti.
+openpgp-broken-exchange-info = Ovo je OpenPGP poruka koja je izgleda oštećena od strane MS-Exchange. Ukoliko sadržaj poruke nije prikazan na očekivani način, možete pokušati automatski je popraviti.
+openpgp-broken-exchange-repair =
+    .label = Popravi poruku
+openpgp-broken-exchange-wait = Molim pričekajte…
