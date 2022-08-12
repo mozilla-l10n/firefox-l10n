@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Προσθήκη σελιδοδείκτη
     .accesskey = Π
+tab-context-bookmark-tab =
+    .label = Προσθήκη σελιδοδείκτη…
+    .accesskey = Π
 tab-context-open-in-new-container-tab =
     .label = Άνοιγμα σε νέα θεματική καρτέλα
     .accesskey = ι
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] Μετακίνηση καρτελών
         }
     .accesskey = τ
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
