@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = 탭 북마크
     .accesskey = B
+tab-context-bookmark-tab =
+    .label = 탭 북마크…
+    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = 새 컨테이너 탭에서 열기
     .accesskey = e
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] 탭 이동
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label = 탭 { $tabCount }개를 기기로 보내기
     .accesskey = n

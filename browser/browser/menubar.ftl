@@ -38,11 +38,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } 종료
-
 menu-about =
     .label = { -brand-shorter-name } 정보
     .accesskey = A
@@ -224,6 +222,10 @@ menu-bookmark-current-tab =
     .label = 현재 탭 북마크
 menu-bookmark-edit =
     .label = 이 북마크 편집
+menu-bookmark-tab =
+    .label = 현재 탭 북마크…
+menu-edit-bookmark =
+    .label = 이 북마크 편집…
 menu-bookmarks-all-tabs =
     .label = 모든 탭 북마크…
 menu-bookmarks-toolbar =
