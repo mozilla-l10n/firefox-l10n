@@ -248,10 +248,19 @@ quickactions-inspector = เปิดตัวตรวจสอบ
 quickactions-logins = ดูการเข้าสู่ระบบ
 # Opens the print dialog
 quickactions-print = พิมพ์
+quickactions-cmd-print = พิมพ์
+# Opens a new private browsing window
+quickactions-private = เปิดหน้าต่างการท่องเว็บแบบส่วนตัว
+quickactions-cmd-private = การเรียกดูแบบส่วนตัว
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = ล้าง { -brand-short-name } ใหม่
+quickactions-cmd-refresh = เรียกใหม่
 # Restarts the browser
 quickactions-restart = เริ่มการทำงาน { -brand-short-name } ใหม่
+quickactions-cmd-restart = เริ่มการทำงานใหม่
+# Opens the screenshot tool
+quickactions-screenshot2 = จับภาพหน้าจอ
+quickactions-cmd-screenshot = ภาพหน้าจอ
 # Opens about:preferences
 quickactions-settings = เปิดการตั้งค่า
 # Opens a SUMO article explaining how to update the browser
