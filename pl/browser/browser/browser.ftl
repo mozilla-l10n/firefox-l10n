@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Zarządzaj rozszerzeniem…
 page-action-remove-extension =
     .label = Usuń rozszerzenie
+page-action-manage-extension2 =
+    .label = Zarządzaj rozszerzeniem…
+    .accesskey = Z
+page-action-remove-extension2 =
+    .label = Usuń rozszerzenie
+    .accesskey = U
 
 ## Auto-hide Context Menu
 
@@ -262,16 +268,33 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Wyczyść historię
-quickactions-print = Drukuj
-quickactions-screenshot = Wykonaj zrzut ekranu
-quickactions-settings = Otwórz ustawienia
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Wyświetl dodatki
+quickactions-cmd-addons = dodatki, rozszerzenia, motywy, wtyczki
+# Opens the bookmarks library window
+quickactions-bookmarks = Wyświetl zakładki
+quickactions-cmd-bookmarks = zakładki, ulubione
+# Opens about:downloads page
 quickactions-downloads = Otwórz listę pobranych plików
-quickactions-viewsource = Wyświetl źródło
+# Opens the devtools web inspector
 quickactions-inspector = Otwórz inspektora
+# Opens the print dialog
+quickactions-print = Drukuj
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Odśwież przeglądarkę { -brand-short-name }
+# Restarts the browser
 quickactions-restart = Uruchom przeglądarkę { -brand-short-name } ponownie
+# Opens about:preferences
+quickactions-settings = Otwórz ustawienia
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Uaktualnij przeglądarkę { -brand-short-name }
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Wyświetl źródło
 
 ## Bookmark Panel
 
@@ -850,3 +873,6 @@ data-reporting-notification-button =
     .accesskey = W
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Tryb prywatny
+
+## Unified extensions (toolbar) button
+
