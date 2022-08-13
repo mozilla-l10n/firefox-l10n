@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = 將分頁加入書籤
     .accesskey = B
+tab-context-bookmark-tab =
+    .label = 將分頁加入書籤…
+    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = 用新容器分頁開啟
     .accesskey = e
@@ -99,7 +102,6 @@ tab-context-move-tabs =
            *[other] 移動分頁
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
