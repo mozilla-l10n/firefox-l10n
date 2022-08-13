@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = ჩანართის ჩანიშვნა
     .accesskey = ვ
+tab-context-bookmark-tab =
+    .label = ჩანართის ჩანიშვნა…
+    .accesskey = ნ
 tab-context-open-in-new-container-tab =
     .label = გახსნა ახალ სათავს ჩანართში
     .accesskey = თ
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] ჩანართების გადატანა
         }
     .accesskey = ტ
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

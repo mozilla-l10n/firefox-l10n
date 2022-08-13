@@ -38,11 +38,9 @@ menu-quit =
             [windows] ლ
            *[other] გ
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = დაიხუროს { -brand-shorter-name }
-
 menu-about =
     .label = { -brand-shorter-name } შესახებ
     .accesskey = შ
@@ -224,6 +222,10 @@ menu-bookmark-current-tab =
     .label = მიმდინარე ჩანართის ჩანიშვნა
 menu-bookmark-edit =
     .label = სანიშნის ჩასწორება
+menu-bookmark-tab =
+    .label = მიმდინარე ჩანართის ჩანიშვნა…
+menu-edit-bookmark =
+    .label = ამ სანიშნის ჩასწორება…
 menu-bookmarks-all-tabs =
     .label = ყველა ჩანართის ჩანიშვნა...
 menu-bookmarks-toolbar =
