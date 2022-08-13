@@ -696,6 +696,8 @@ bookmarks-tools =
     .label = כלי סימניות
 bookmarks-bookmark-edit-panel =
     .label = עריכת סימנייה זו
+bookmarks-subview-edit-bookmark =
+    .label = עריכת סימנייה זו…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -712,6 +714,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = יצירת סימנייה ללשונית הנוכחית
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = יצירת סימנייה ללשונית הנוכחית…
 
 ## Library Panel items
 
