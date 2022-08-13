@@ -181,6 +181,7 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = Uzwirfren yettufeṣṣlen i usekyed n yibugen n uzeṭṭa deg { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Azeṭṭa
+profiler-popup-presets-power-description = Uzwirfren yettufeṣṣlen i usekyed n yibugen i icudden ɣer useqdec n tnezmert deg { -brand-shorter-name }, s uwzir fessusen maḍi.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Tazmert
