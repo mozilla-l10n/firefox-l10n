@@ -38,11 +38,9 @@ menu-quit =
             [windows] k
            *[other] k
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Zakończ program { -brand-shorter-name }
-
 menu-about =
     .label = O programie { -brand-shorter-name }
     .accesskey = O
@@ -226,6 +224,10 @@ menu-bookmark-current-tab =
     .label = Dodaj zakładkę do tej karty
 menu-bookmark-edit =
     .label = Edytuj tę zakładkę
+menu-bookmark-tab =
+    .label = Dodaj zakładkę do tej karty…
+menu-edit-bookmark =
+    .label = Edytuj tę zakładkę…
 menu-bookmarks-all-tabs =
     .label = Dodaj zakładki do wszystkich kart…
 menu-bookmarks-toolbar =
