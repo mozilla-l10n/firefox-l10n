@@ -15,6 +15,10 @@ dateformat-long =
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = მოკლე: { $date }
+use-system-timezone-radio-button =
+    .label = სისტემის დროის სარტყლის გამოყენება
+set-timezone-manually-radio-button =
+    .label = დროის სარტყლის ხელით დაყენება
 timezone-label =
     .value = დროის სარტყელი:
 weekstart-label =
@@ -101,12 +105,6 @@ previous-weeks-label =
     .value = წინა საჩვენებელი კვირების რაოდენობა:
     .accesskey = წ
 todaypane-legend = დღევანდელის დღის არე
-# Note: "Upcoming" is the name of a section and the translation must match the
-# translation of that section name (calendar.upcoming.button.label). Also,
-# it should be upper case (as a proper name) if the target language permits.
-soon-label =
-    .value = მოახლებულების არეში გამოჩნდება უახლოესი:
-    .accesskey = ა
 agenda-days =
     .value = დღის წესრიგის მიხედვით:
     .accesskey = გ
