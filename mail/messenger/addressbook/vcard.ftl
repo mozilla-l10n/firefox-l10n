@@ -105,3 +105,8 @@ vcard-org-add = Bæta við skipulagslegum eignleikum
 vcard-org-title = Titill
 vcard-org-role = Hlutverk
 vcard-org-org = Fyrirtæki/Stofnun
+
+# Custom properties
+
+vcard-custom-header = Sérsniðnir eiginleikar
+vcard-custom-add = Bæta við sérsniðnum eiginleikum
