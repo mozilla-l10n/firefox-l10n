@@ -40,3 +40,5 @@ toolbox-mode-everything-container =
     .title = Debuguj wszystko we wszystkich procesach
 toolbox-mode-parent-process-label = Tylko proces nadrzędny
 toolbox-mode-parent-process-sub-label = (szybkie)
+toolbox-mode-parent-process-container =
+    .title = Skup się wyłącznie na zasobach z procesu nadrzędnego.
