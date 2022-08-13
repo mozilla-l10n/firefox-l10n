@@ -38,11 +38,9 @@ menu-quit =
             [windows] F
            *[other] F
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Anef { -brand-shorter-name }
-
 menu-about =
     .label = Ɣef { -brand-shorter-name }
     .accesskey = Γ
@@ -225,6 +223,10 @@ menu-bookmark-current-tab =
     .label = Creḍ iccer amiran
 menu-bookmark-edit =
     .label = Ẓreg tacreḍṭ n usebter-a
+menu-bookmark-tab =
+    .label = Iccer amiran n tecreḍt n usebter…
+menu-edit-bookmark =
+    .label = Ẓreg tacreḍṭ n usebter-a…
 menu-bookmarks-all-tabs =
     .label = Creḍ akk accaren…
 menu-bookmarks-toolbar =

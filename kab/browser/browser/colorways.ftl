@@ -6,6 +6,7 @@
 ## Colorway collections
 
 colorway-collection-independent-voices = Tuɣac tilelliyin
+colorway-collection-independent-voices-description = Initen zemren ad beddlen idles. Afran n yinite aneggaru isfugul tuɣac yettarran amaḍal igerrez ugar.
 # Used as a subheading for the colorway collection card in about:addons
 colorway-collection-independent-voices-short-description = Initen ara ibeddlen idles.
 
