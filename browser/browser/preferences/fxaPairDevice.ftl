@@ -14,5 +14,6 @@ fxa-pair-device-dialog-sync =
 fxa-qrcode-pair-title = Сінхранізуйце { -brand-product-name } на сваім тэлефоне або планшэце
 fxa-qrcode-pair-step1 = 1. Адкрыйце { -brand-product-name } на сваёй мабільнай прыладзе.
 fxa-qrcode-pair-step2 = 2. Адкрыйце <strong>меню</strong> (<img data-l10n-name="ios-menu-icon"/> на iOS або <img data-l10n-name="android-menu-icon"/> на Android) і націсніце <strong>Увайсці ў сінхранізацыю</strong>
+fxa-qrcode-pair-step3 = 3. Націсніце <strong>Гатова да сканавання</strong> і ўтрымлівайце тэлефон над гэтым кодам
 fxa-qrcode-error-title = Спараванне не ўдалося.
 fxa-qrcode-error-body = Паспрабуйце зноў.
