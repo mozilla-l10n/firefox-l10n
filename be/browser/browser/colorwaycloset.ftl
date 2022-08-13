@@ -14,3 +14,7 @@ colorway-intensity-bold = Выразная
 # Label for the button to keep using the selected colorway in the browser
 colorway-closet-set-colorway-button = Усталяваць расфарбоўку
 colorway-closet-cancel-button = Адмяніць
+colorway-homepage-reset-prompt = Зрабіце { -firefox-home-brand-name } сваёй маляўнічай хатняй старонкай
+colorway-homepage-reset-success-message = { -firefox-home-brand-name } — цяпер ваша хатняя старонка
+colorway-homepage-reset-apply-button = Ужыць
+colorway-homepage-reset-undo-button = Адмяніць
