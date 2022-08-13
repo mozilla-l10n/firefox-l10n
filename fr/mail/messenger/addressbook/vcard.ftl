@@ -105,3 +105,8 @@ vcard-org-add = Ajouter des propriétés organisationnelles
 vcard-org-title = Fonction
 vcard-org-role = Rôle
 vcard-org-org = Société
+
+# Custom properties
+
+vcard-custom-header = Propriétés personnalisées
+vcard-custom-add = Ajouter des propriétés personnalisées
