@@ -101,6 +101,12 @@ perftools-thread-jvm-gecko =
     .title = Asqerdec agejdan Gecko JMV
 perftools-thread-jvm-nimbus =
     .title = Isqerdcen igejdanen n SDK n tirmit Nimbus
+perftools-thread-jvm-default-dispatcher =
+    .title = Amzuzer s wudem uzwir i temkarḍit n coroutines Kotlin
+perftools-thread-jvm-glean =
+    .title = Isqerdcen igejdanen n SDK n tilisɣilt Nimbus
+perftools-thread-jvm-arch-disk-io =
+    .title = Amzuzer IO i temkarḍit n coroutines Kotlin
 
 ##
 
@@ -134,6 +140,7 @@ perftools-presets-networking-label = Azeṭṭa
 perftools-presets-networking-description = Uzwirfren yettufeṣṣlen i usekyed n yibugen n uzeṭṭa deg { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Tazmert
+perftools-presets-power-description = Uzwirfren yettufeṣṣlen i usekyed n yibugen i icudden ɣer useqdec n tnezmert deg { -brand-shorter-name }, s uwzir fessusen maḍi.
 perftools-presets-custom-label = Sagen
 
 ##
