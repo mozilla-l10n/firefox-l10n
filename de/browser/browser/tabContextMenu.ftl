@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Tab als Lesezeichen hinzufügen
     .accesskey = L
+tab-context-bookmark-tab =
+    .label = Tab als Lesezeichen hinzufügen…
+    .accesskey = L
 tab-context-open-in-new-container-tab =
     .label = In neuem Tab in Umgebung öffnen
     .accesskey = U
@@ -102,7 +105,6 @@ tab-context-move-tabs =
            *[other] Tabs verschieben
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
