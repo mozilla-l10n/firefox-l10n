@@ -105,3 +105,8 @@ vcard-org-add = Добавить организацию
 vcard-org-title = Должность
 vcard-org-role = Роль
 vcard-org-org = Организация
+
+# Custom properties
+
+vcard-custom-header = Пользовательские свойства
+vcard-custom-add = Добавить пользовательские свойства
