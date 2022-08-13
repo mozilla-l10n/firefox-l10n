@@ -57,3 +57,4 @@ firefoxview-change-colorway-button = Beddel afran n yiniten
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Ulac ayen ara akka tura</strong><br/>Tikkelt-nniḍen mi ara teldiḍ asebter deg { -brand-product-name } ɣef yibenk-nniḍen, ddem-it syagi am wakken d asugen.
