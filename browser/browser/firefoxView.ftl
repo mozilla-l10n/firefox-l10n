@@ -16,7 +16,7 @@ firefoxview-close-button =
 firefoxview-just-now-timestamp = 剛剛
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = 接收分頁
-firefoxview-tabpickup-description = 開啟來自其他裝置的頁面。
+firefoxview-tabpickup-description = 開啟其他裝置上的頁面。
 firefoxview-tabpickup-recenttabs-description = 近期開啟的分頁將顯示於此處
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
@@ -49,7 +49,7 @@ firefoxview-mobile-confirmation-description = 您現在可以直接開啟平板�
 firefoxview-closed-tabs-title = 最近關閉的分頁
 firefoxview-closed-tabs-collapse-button =
     .title = 顯示或隱藏最近關閉的分頁清單
-firefoxview-closed-tabs-description = 重新開啟您在此裝置關閉的分頁。
+firefoxview-closed-tabs-description = 重新開啟您最近在此裝置關閉的分頁。
 firefoxview-closed-tabs-placeholder = <strong>沒有最近關閉的頁面</strong><br/>免擔心遺失關閉的分頁，可隨時在此重新取回。
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = 最後開啟
