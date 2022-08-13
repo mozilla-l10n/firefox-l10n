@@ -59,3 +59,4 @@ about-private-browsing-pin-promo-link-text =
         [macos] Ḥrez deg Dock
        *[other] Senteḍ ɣer ufaggag n twuriwin
     }
+about-private-browsing-pin-promo-title = Ulac inagan n tuqqqna neɣ azray i yettwaskelsen, srid seg tnarit-ik·im. Inig am wakken ulac win i ak·akem-id-yettmuqulen.

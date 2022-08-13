@@ -5,6 +5,9 @@
 
 ## Colorway collections
 
+colorway-collection-independent-voices = Tuɣac tilelliyin
+# Used as a subheading for the colorway collection card in about:addons
+colorway-collection-independent-voices-short-description = Initen ara ibeddlen idles.
 
 ## Colorway names and descriptions
 

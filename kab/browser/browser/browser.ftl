@@ -702,6 +702,8 @@ bookmarks-tools =
     .label = Ifecka n tecraḍ n yisebtar
 bookmarks-bookmark-edit-panel =
     .label = Ẓreg tacreḍṭ n usebter-a
+bookmarks-subview-edit-bookmark =
+    .label = Ẓreg tacreḍt-a n usebter…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -718,6 +720,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Iccer amiran n tecreḍt n usebter
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Creḍ iccer- amiran…
 
 ## Library Panel items
 
