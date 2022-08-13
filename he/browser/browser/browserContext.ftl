@@ -95,7 +95,7 @@ main-context-menu-bookmark-add =
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-add-mac =
     .label = הוספת העמוד לסימניות
-    .accesskey = ס
+    .accesskey = ע
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
 # so should probably have the same access key if possible.

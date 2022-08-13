@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = יצירת סימנייה ללשונית
     .accesskey = צ
+tab-context-bookmark-tab =
+    .label = יצירת סימנייה ללשונית…
+    .accesskey = ס
 tab-context-open-in-new-container-tab =
     .label = פתיחה במגירת לשוניות חדשה
     .accesskey = ג
@@ -101,7 +104,6 @@ tab-context-move-tabs =
            *[other] העברת לשוניות
         }
     .accesskey = ע
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
