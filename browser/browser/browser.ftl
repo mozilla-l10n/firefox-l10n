@@ -695,6 +695,8 @@ bookmarks-tools =
     .label = Công cụ đánh dấu trang
 bookmarks-bookmark-edit-panel =
     .label = Chỉnh sửa dấu trang này
+bookmarks-subview-edit-bookmark =
+    .label = Chỉnh sửa dấu trang này…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -711,6 +713,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Đánh dấu thẻ hiện tại
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Đánh dấu thẻ hiện tại…
 
 ## Library Panel items
 

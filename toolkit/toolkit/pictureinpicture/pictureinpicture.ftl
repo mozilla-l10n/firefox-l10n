@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Toàn màn hình
+    .title = Toàn màn hình (nhấp đúp chuột)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Thoát toàn màn hình
+    .title = Thoát toàn màn hình (nhấp đúp chuột)
 pictureinpicture-subtitles-label = Phụ đề
 pictureinpicture-font-size-label = Cỡ chữ
 pictureinpicture-font-size-small = Nhỏ
