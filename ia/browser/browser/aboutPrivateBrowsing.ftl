@@ -50,3 +50,12 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Clauder
 about-private-browsing-promo-close-button =
     .title = Clauder
+
+## Strings used in a “pin promotion” message, which prompts users to pin a private window
+
+about-private-browsing-pin-promo-header = Le libertate del navigation private in un clic
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] Retener in Dock
+       *[other] Appunctar al barra del activitates
+    }
