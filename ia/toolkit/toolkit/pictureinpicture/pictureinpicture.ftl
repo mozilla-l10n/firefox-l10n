@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Plen schermo
+    .title = Plen schermo (duple-clic)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Exir del plen schermo
+    .title = Exir del plen schermo (duple-clic)
 pictureinpicture-subtitles-label = Subtitulos
 pictureinpicture-font-size-label = Dimension del litteras
 pictureinpicture-font-size-small = Micre

@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Marcar le scheda
     .accesskey = M
+tab-context-bookmark-tab =
+    .label = Adder scheda al marcapaginas
+    .accesskey = A
 tab-context-open-in-new-container-tab =
     .label = Aperir in un nove scheda contentor
     .accesskey = e
@@ -102,7 +105,6 @@ tab-context-move-tabs =
            *[other] Displaciar schedas
         }
     .accesskey = M
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

@@ -699,6 +699,8 @@ bookmarks-tools =
     .label = Instrumentos de marcapaginas
 bookmarks-bookmark-edit-panel =
     .label = Modificar iste marcapaginas
+bookmarks-subview-edit-bookmark =
+    .label = Rediger iste marcapagina…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
