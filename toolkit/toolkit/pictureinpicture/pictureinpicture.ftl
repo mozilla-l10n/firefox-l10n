@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = სრულ ეკრანზე
+    .title = სრულეკრანიანი (ორმაგი წკაპი)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = გამოსვლა სრული ეკრანიდან
+    .title = სრულეკრანიანიდან გამოსვლა (ორმაგი წკაპი)
 pictureinpicture-subtitles-label = ზედწარწერა
 pictureinpicture-font-size-label = შრიფტის ზომა
 pictureinpicture-font-size-small = მცირე
