@@ -59,3 +59,4 @@ about-private-browsing-pin-promo-link-text =
         [macos] Retener in Dock
        *[other] Appunctar al barra del activitates
     }
+about-private-browsing-pin-promo-title = Nulle cookies o chronologia salvate, justo ad tu desktop. Naviga como si nemo te spia.
