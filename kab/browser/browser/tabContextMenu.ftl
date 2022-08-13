@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Iccer n tecraḍ n yisebtar
     .accesskey = C
+tab-context-bookmark-tab =
+    .label = Iccer n tecraḍ n yisebtar…
+    .accesskey = I
 tab-context-open-in-new-container-tab =
     .label = Ldi deg yiccer n umagbar amaynut
     .accesskey = i
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Senkez iccaren
         }
     .accesskey = S
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

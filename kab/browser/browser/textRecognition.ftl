@@ -6,4 +6,8 @@
 ## Text recognition works through a modal that presents the text that is found
 ## in an image, and copies the results to the clipboard.
 
+text-recognition-modal-searching-title = Anadi n tugna i uḍris…
+text-recognition-modal-results-title = Aḍris yettwanɣel seg tugna
 text-recognition-modal-close-button = Mdel
+# The title of the the modal is only available to screen readers.
+text-recognition-modal-accessible-modal-title = Igmaḍ i tussfa n uḍris

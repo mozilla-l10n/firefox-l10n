@@ -964,6 +964,7 @@ content-blocking-etp-custom-desc = Fren ineḍfaṛen akked iskripten ara teswe�
 content-blocking-etp-blocking-desc = { -brand-short-name } issewḥal aya:
 content-blocking-private-windows = Agbur yettwaseqdec i uḍfaṛ deg yisfuyla n tunigin tuligt
 content-blocking-cross-site-cookies-in-all-windows = Inagan n tuqqna gar yismal deg meṛṛa isfuyla (rnu ula d inagan n tuqqna n uḍfar)
+content-blocking-cross-site-cookies-in-all-windows2 = Inagan n tuqqna deg meṛṛa yisfuyla
 content-blocking-cross-site-tracking-cookies = Inagan n tuqqna i uḍfaṛ gar yismal
 content-blocking-all-cross-site-cookies-private-windows = Inagan n tuqqna deg yisfuyla usligen
 content-blocking-cross-site-tracking-cookies-plus-isolate = Inagan n tuqqna n uḍfar gar yismal d uɛzal n yinagan n tuqqna i d-yeqqimen
