@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Bookmark Tab
     .accesskey = B
+tab-context-bookmark-tab =
+    .label = Bookmark Tab…
+    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = Open in New Container Tab
     .accesskey = e
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] Move Tabs
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
