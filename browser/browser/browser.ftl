@@ -699,6 +699,8 @@ bookmarks-tools =
     .label = Lesezeichen-Werkzeuge
 bookmarks-bookmark-edit-panel =
     .label = Lesezeichen bearbeiten
+bookmarks-subview-edit-bookmark =
+    .label = Dieses Lesezeichen bearbeiten…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -715,6 +717,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Aktuellen Tab als Lesezeichen hinzufügen
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Aktuellen Tab als Lesezeichen hinzufügen…
 
 ## Library Panel items
 
