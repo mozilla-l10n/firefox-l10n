@@ -105,3 +105,8 @@ vcard-org-add = Dodaj właściwości organizacyjne
 vcard-org-title = Tytuł
 vcard-org-role = Rola
 vcard-org-org = Firma/Organizacja
+
+# Custom properties
+
+vcard-custom-header = Inne właściwości
+vcard-custom-add = Dodaj inne właściwości
