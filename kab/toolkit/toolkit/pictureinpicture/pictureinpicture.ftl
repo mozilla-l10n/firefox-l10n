@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Agdil ačuran
+    .title = Agdil ačuran (sin isitiyen)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Ffeɣ seg ugdil ačuran
+    .title = Ffeɣ seg ugdil ačuran (sin isitiyen)
 pictureinpicture-subtitles-label = Iduzwilen
 pictureinpicture-font-size-label = Teɣzi n tsefsit
 pictureinpicture-font-size-small = Mecṭuḥ
