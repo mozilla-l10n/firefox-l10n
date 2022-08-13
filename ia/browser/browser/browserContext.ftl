@@ -134,6 +134,16 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Modificar marcapagina…
     .accesskey = m
+main-context-menu-edit-bookmark =
+    .aria-label = Modificar marcapagina…
+    .accesskey = m
+    .tooltiptext = Modifica marcapagina
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = Modificar marcapagina…
+    .accesskey = m
+    .tooltiptext = Modifica marcapaginas ({ $shortcut })
 main-context-menu-open-link =
     .label = Aperir le ligamine
     .accesskey = A
@@ -356,6 +366,9 @@ main-context-menu-frame-view-info =
 main-context-menu-print-selection =
     .label = Imprimer le selection
     .accesskey = s
+main-context-menu-print-selection-2 =
+    .label = Imprimer le selection…
+    .accesskey = p
 main-context-menu-view-selection-source =
     .label = Vider le codice fonte del selection
     .accesskey = e
