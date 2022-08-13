@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Vollbild
+    .title = Vollbild (Doppelklick)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Vollbild beenden
+    .title = Vollbild beenden (Doppelklick)
 pictureinpicture-subtitles-label = Untertitel
 pictureinpicture-font-size-label = Schriftgröße
 pictureinpicture-font-size-small = Klein
