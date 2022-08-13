@@ -17,5 +17,7 @@ playmaker-colorway-description = Trennuḍ-d tugnatin i rrbaḥ, akken daɣen i 
 expressionist-colorway-name = Anfalan
 expressionist-colorway-description = Tettwaliḍ amaḍal s tmuɣli-nniḍen, isnulfuyen-ik·im senkarayen-d iḥulfan n wiyaḍ.
 visionary-colorway-name = Visionary
+visionary-colorway-description = Tettcukkuteḍ aṭas deg tegnit-agi n tura, tettdeggireḍ wiyaḍ ad sugnen imal igerrzen ugar.
 activist-colorway-name = Ameɣnas
+activist-colorway-description = Tettaǧǧaḍ-d amaḍal igerrez ugar n wamek i t-id-tufiḍ, trennuḍ tgelluḍ s wiyaḍ ad amnen s waya.
 innovator-colorway-name = Amesnulfu
