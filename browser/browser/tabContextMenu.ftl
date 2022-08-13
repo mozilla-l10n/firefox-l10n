@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Dodaj zakładkę do karty
     .accesskey = D
+tab-context-bookmark-tab =
+    .label = Dodaj zakładkę do karty…
+    .accesskey = D
 tab-context-open-in-new-container-tab =
     .label = Otwórz w nowej karcie z kontekstem
     .accesskey = k
@@ -102,7 +105,6 @@ tab-context-move-tabs =
            *[other] Przenieś karty
         }
     .accesskey = r
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
