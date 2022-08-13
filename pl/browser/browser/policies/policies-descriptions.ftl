@@ -67,6 +67,7 @@ policy-Extensions = Instalacja, odinstalowywanie lub blokowanie rozszerzeń. Opc
 policy-ExtensionSettings = Zarządzanie wszystkimi aspektami instalacji rozszerzeń.
 policy-ExtensionUpdate = Włączenie lub wyłączenie automatycznego aktualizowania rozszerzeń.
 policy-FirefoxHome = Konfiguracja strony startowej Firefoksa.
+policy-FirefoxHome2 = Konfiguracja { -firefox-home-brand-name(case: "gen", capitalization: "lower") }.
 policy-FlashPlugin = Zezwalanie lub zabranianie korzystania z wtyczki Flash.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Wymuszenie bezpośredniej nawigacji na witrynie intranetowej zamiast wyszukiwania podczas wpisywania pojedynczych słów na pasku adresu.
 policy-Handlers = Konfiguracja domyślnych aplikacji obsługujących typy plików.
