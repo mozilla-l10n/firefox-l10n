@@ -8,6 +8,7 @@
 
 text-recognition-modal-searching-title = Recerca testo in le imagine…
 text-recognition-modal-results-title = Testo copiate ab le imagine
+text-recognition-modal-no-results-title = Desolate, nos non pote extraher ulle texto. Tenta con un imagine differente. <a data-l10n-name="error-link">Pro saper plus</a>.
 text-recognition-modal-close-button = Clauder
 # The title of the the modal is only available to screen readers.
 text-recognition-modal-accessible-modal-title = Resultatos del extraction de texto
