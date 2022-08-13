@@ -1098,7 +1098,7 @@ collection-backlogged-crash-reports-with-link = Να επιτρέπεται στ
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Ασφάλεια
-security-browsing-protection = Παραπλανητικό περιεχόμενο και προστασία από επικίνδυνο λογισμικό
+security-browsing-protection = Προστασία από παραπλανητικό περιεχόμενο και επικίνδυνο λογισμικό
 security-enable-safe-browsing =
     .label = Φραγή επικίνδυνου και παραπλανητικού περιεχομένου
     .accesskey = Α
