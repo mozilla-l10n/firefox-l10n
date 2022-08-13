@@ -50,3 +50,12 @@ about-private-browsing-search-banner-close-button =
     .aria-label = סגירה
 about-private-browsing-promo-close-button =
     .title = סגירה
+
+## Strings used in a “pin promotion” message, which prompts users to pin a private window
+
+about-private-browsing-pin-promo-header = חופש גלישה פרטית בלחיצה אחת
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] שמירה ב־Dock
+       *[other] הצמדה לשורת המשימות
+    }
