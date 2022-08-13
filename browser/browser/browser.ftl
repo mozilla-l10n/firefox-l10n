@@ -279,22 +279,42 @@ quickactions-cmd-addons = dodatki, rozszerzenia, motywy, wtyczki
 # Opens the bookmarks library window
 quickactions-bookmarks = Wyświetl zakładki
 quickactions-cmd-bookmarks = zakładki, ulubione
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Wyczyść historię
+quickactions-cmd-clearhistory = wyczyść historię, usuń historię
 # Opens about:downloads page
 quickactions-downloads = Otwórz listę pobranych plików
+quickactions-cmd-downloads = pobrane pliki, pobrane, pobierane, pobieranie
 # Opens the devtools web inspector
 quickactions-inspector = Otwórz inspektora
+quickactions-cmd-inspector = inspektor, narzędzia dla programistów, narzędzia dla deweloperów, devtools
+# Opens about:logins
+quickactions-logins = Wyświetl dane logowania
+quickactions-cmd-logins = dane logowania, loginy, hasła
 # Opens the print dialog
 quickactions-print = Drukuj
+quickactions-cmd-print = drukuj, wydrukuj
+# Opens a new private browsing window
+quickactions-private = Otwórz okno w trybie prywatnym
+quickactions-cmd-private = tryb prywatny, przeglądanie prywatne, incognito, tryb incognito
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Odśwież przeglądarkę { -brand-short-name }
+quickactions-cmd-refresh = odśwież, odnów
 # Restarts the browser
 quickactions-restart = Uruchom przeglądarkę { -brand-short-name } ponownie
+quickactions-cmd-restart = uruchom ponownie, ponowne uruchomienie, zrestartuj, restart
+# Opens the screenshot tool
+quickactions-screenshot2 = Wykonaj zrzut ekranu
+quickactions-cmd-screenshot = zrzut ekranu, screenshot, skrin
 # Opens about:preferences
 quickactions-settings = Otwórz ustawienia
+quickactions-cmd-settings = ustawienia, preferencje, opcje
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Uaktualnij przeglądarkę { -brand-short-name }
+quickactions-cmd-update = uaktualnij, uaktualnienie, zaktualizuj, aktualizuj, aktualizacja, apdejt
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Wyświetl źródło
+quickactions-cmd-viewsource = wyświetl źródło, źródło, pokaż źródło
 
 ## Bookmark Panel
 
