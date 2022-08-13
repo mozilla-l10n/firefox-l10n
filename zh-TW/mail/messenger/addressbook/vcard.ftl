@@ -105,3 +105,8 @@ vcard-org-add = 加入組織單位資訊
 vcard-org-title = 頭銜
 vcard-org-role = 角色
 vcard-org-org = 組織單位資訊
+
+# Custom properties
+
+vcard-custom-header = 自訂屬性
+vcard-custom-add = 新增自訂屬性
