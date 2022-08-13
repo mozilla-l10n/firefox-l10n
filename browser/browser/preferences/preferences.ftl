@@ -1101,14 +1101,14 @@ security-header = Ασφάλεια
 security-browsing-protection = Προστασία από παραπλανητικό περιεχόμενο και επικίνδυνο λογισμικό
 security-enable-safe-browsing =
     .label = Φραγή επικίνδυνου και παραπλανητικού περιεχομένου
-    .accesskey = Α
+    .accesskey = Φ
 security-enable-safe-browsing-link = Μάθετε περισσότερα
 security-block-downloads =
     .label = Φραγή επικίνδυνων λήψεων
     .accesskey = λ
 security-block-uncommon-software =
     .label = Προειδοποίηση για ανεπιθύμητο και ασυνήθιστο λογισμικό
-    .accesskey = Σ
+    .accesskey = σ
 
 ## Privacy Section - Certificates
 
