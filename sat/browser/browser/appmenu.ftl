@@ -181,6 +181,9 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = { -brand-shorter-name } ᱨᱮ ᱱᱮᱴᱣᱟᱨᱠᱤᱝ ᱵᱟᱵᱚᱛ ᱮᱴᱠᱮᱴᱚᱬᱮᱸ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱡᱤᱱᱤᱥ ᱾
 profiler-popup-presets-networking-label =
     .label = ᱱᱮᱴᱣᱟᱨᱠᱤᱝ
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = ᱞᱟᱹᱭᱤᱱ
 profiler-popup-presets-custom-label =
     .label = ᱠᱩᱥᱤᱭᱟᱜ
 
