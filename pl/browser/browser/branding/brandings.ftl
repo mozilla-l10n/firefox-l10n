@@ -3,13 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## The following feature names must be treated as a brand, and kept in English.
-## They cannot be:
-## - Declined to adapt to grammatical case.
-## - Transliterated.
-## - Translated.
-
-
 ## The following feature names must be treated as a brand.
 ##
 ## They cannot be:
@@ -33,13 +26,9 @@
 -mozilla-vpn-brand-name = Mozilla VPN
 -profiler-brand-name = Firefox Profiler
 -translations-brand-name = Firefox Translations
-
 -rally-brand-name = Mozilla Rally
 -rally-short-name = Rally
-
-
 -focus-brand-name = Firefox Focus
-
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-suggest-brand-name =
@@ -75,4 +64,73 @@
                 [lower] podpowiedziach Firefoksa
             }
     }
-
+# ”Home" can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefox-home-brand-name =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Strona startowa Firefoksa
+                [lower] strona startowa Firefoksa
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Strony startowej Firefoksa
+                [lower] strony startowej Firefoksa
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Stronie startowej Firefoksa
+                [lower] stronie startowej Firefoksa
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Stronę startową Firefoksa
+                [lower] stronę startową Firefoksa
+            }
+        [ins]
+            { $capitalization ->
+               *[upper] Stroną startową Firefoksa
+                [lower] stroną startową Firefoksa
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Stronie startowej Firefoksa
+                [lower] stronie startowej Firefoksa
+            }
+    }
+# View" can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefoxview-brand-name =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Przegląd Firefoksa
+                [lower] przegląd Firefoksa
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Przeglądu Firefoksa
+                [lower] przeglądu Firefoksa
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Przeglądowi Firefoksa
+                [lower] przeglądowi Firefoksa
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Przegląd Firefoksa
+                [lower] przegląd Firefoksa
+            }
+        [ins]
+            { $capitalization ->
+               *[upper] Przeglądem Firefoksa
+                [lower] przeglądem Firefoksa
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Przeglądzie Firefoksa
+                [lower] przeglądzie Firefoksa
+            }
+    }
