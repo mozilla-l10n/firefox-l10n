@@ -21,6 +21,7 @@ firefoxview-tabpickup-recenttabs-description = Listi yfir nýlega flipa myndi ko
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% lokið
+firefoxview-tabpickup-step-signin-header = Skiptu hiklaust á milli tækja
 firefoxview-tabpickup-step-signin-primarybutton = Halda áfram
 firefoxview-tabpickup-adddevice-header = Samstilltu { -brand-product-name } á símanum eða spjaldtölvunni
 firefoxview-tabpickup-adddevice-description = Sæktu { -brand-product-name } fyrir farsíma og skráðu þig inn þar.
