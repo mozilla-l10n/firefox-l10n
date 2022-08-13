@@ -83,6 +83,8 @@ perftools-thread-render-backend =
     .title = Asqerdec n WebRender RenderBackend
 perftools-thread-paint-worker =
     .title = Mi ara yermed Painting n off-main-thread, asqerdec iɣef Painting iḍerru
+perftools-thread-timer =
+    .title = Amakud yessefrak usqerdec (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = Asesfer n uɣanib yettwabḍa gar waṭas n yisqerdcen
 pref-thread-stream-trans =
@@ -95,6 +97,10 @@ perftools-thread-dns-resolver =
     .title = Tifrat n DNS tḍerru deg usqerdec-a
 perftools-thread-task-controller =
     .title = Isental n ugraw n yisental n TaskController
+perftools-thread-jvm-gecko =
+    .title = Asqerdec agejdan Gecko JMV
+perftools-thread-jvm-nimbus =
+    .title = Isqerdcen igejdanen n SDK n tirmit Nimbus
 
 ##
 
