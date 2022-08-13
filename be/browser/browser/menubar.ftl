@@ -38,11 +38,9 @@ menu-quit =
             [windows] ы
            *[other] В
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Выйсці з { -brand-shorter-name }
-
 menu-about =
     .label = Пра { -brand-shorter-name }
     .accesskey = П
@@ -226,6 +224,10 @@ menu-bookmark-current-tab =
     .label = Зрабіць закладку на гэту картку
 menu-bookmark-edit =
     .label = Правіць гэтую закладку
+menu-bookmark-tab =
+    .label = Зрабіць закладку на гэту картку…
+menu-edit-bookmark =
+    .label = Правіць гэтую закладку…
 menu-bookmarks-all-tabs =
     .label = Закладкі на ўсе карткі…
 menu-bookmarks-toolbar =
