@@ -105,3 +105,8 @@ vcard-org-add = Thêm thuộc tính tổ chức
 vcard-org-title = Tiêu đề
 vcard-org-role = Vai trò
 vcard-org-org = Tổ chức
+
+# Custom properties
+
+vcard-custom-header = Tùy chỉnh thuộc tính
+vcard-custom-add = Thêm thuộc tính tùy chỉnh
