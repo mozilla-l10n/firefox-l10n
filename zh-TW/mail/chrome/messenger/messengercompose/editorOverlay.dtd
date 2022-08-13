@@ -5,7 +5,7 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- Edit menu items -->
-<!ENTITY pasteNoFormatting.label "不重新格式化並貼上">
+<!ENTITY pasteNoFormatting.label "以純文字格式貼上">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAsQuotationCmd.label "以引言方式貼上">
@@ -261,6 +261,7 @@
 <!ENTITY tableProperties.label "表格屬性…">
 <!ENTITY tableProperties.accesskey "o">
 
+<!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "圖片">
 <!ENTITY imageToolbarCmd.tooltip "插入新圖片或編輯已選取圖片的屬性">
 <!ENTITY hruleToolbarCmd.label "水平線">
