@@ -109,3 +109,4 @@ vcard-org-org = Organisation
 # Custom properties
 
 vcard-custom-header = Proprietates personalisate
+vcard-custom-add = Adder proprietates personalisate
