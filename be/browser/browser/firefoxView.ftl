@@ -18,4 +18,19 @@ firefoxview-just-now-timestamp = Толькі што
 firefoxview-tabpickup-header = Выбар картак
 firefoxview-tabpickup-description = Адкрытыя старонкі з іншых прылад.
 firefoxview-tabpickup-recenttabs-description = Тут будзе спіс нядаўніх картак
+# Variables:
+#  $percentValue (Number): the percentage value for setup completion
+firefoxview-tabpickup-progress-label = { $percentValue }% завершана
+firefoxview-tabpickup-step-signin-primarybutton = Працягнуць
+firefoxview-tabpickup-adddevice-header = Сінхранізуйце { -brand-product-name } на сваім тэлефоне або планшэце
+firefoxview-tabpickup-synctabs-learn-how = Даведацца, як
 firefoxview-closed-tabs-title = Нядаўна закрытыя
+firefoxview-closed-tabs-collapse-button =
+    .title = Паказаць або схаваць спіс нядаўна закрытых картак
+firefoxview-closed-tabs-description = Паўторна адкрыць старонкі, якія вы закрылі на гэтай прыладзе.
+firefoxview-try-colorways-button = Паспрабуйце расфарбоўкі
+firefoxview-change-colorway-button = Змяніць расфарбоўку
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
