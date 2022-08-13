@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = מסך מלא
+    .title = מסך מלא (לחיצה כפולה)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = יציאה ממסך מלא
+    .title = יציאה ממסך מלא (לחיצה כפולה)
 pictureinpicture-subtitles-label = כתוביות
 pictureinpicture-font-size-label = גודל גופן
 pictureinpicture-font-size-small = קטן
