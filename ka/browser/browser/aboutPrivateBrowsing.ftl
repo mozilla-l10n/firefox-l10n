@@ -59,3 +59,4 @@ about-private-browsing-pin-promo-link-text =
         [macos] დატოვება Dock-ზე
        *[other] მიმაგრება სამუშაო ზოლზე
     }
+about-private-browsing-pin-promo-title = არანაირი კვალი და გვერდების ისტორია, პირდაპირ სამუშაო ეკრანიდან. მოინახულეთ საიტები მეთვალყურეობის გარეშე.
