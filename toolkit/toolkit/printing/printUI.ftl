@@ -5,7 +5,6 @@
 printui-title = Drukowanie
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Zapisz jako
-
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -14,8 +13,8 @@ printui-sheets-count =
         [few] { $sheetCount } kartki papieru
        *[many] { $sheetCount } kartek papieru
     }
-
 printui-page-range-all = Wszystkie
+printui-page-range-current = Bieżące
 printui-page-range-odd = Nieparzyste
 printui-page-range-even = Parzyste
 printui-page-range-custom = Wybrane
@@ -25,29 +24,22 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = Wprowadź inny zakres stron
     .placeholder = np. 2-6, 9, 12-16
-
 # Section title for the number of copies to print
 printui-copies-label = Kopie
-
 printui-orientation = Orientacja
 printui-landscape = Pozioma
 printui-portrait = Pionowa
-
 # Section title for the printer or destination device to target
 printui-destination-label = Drukarka
 printui-destination-pdf-label = Zapisz jako PDF
-
 printui-more-settings = Więcej ustawień
 printui-less-settings = Mniej ustawień
-
 printui-paper-size-label = Rozmiar papieru
-
 # Section title (noun) for the print scaling options
 printui-scale = Skalowanie
 printui-scale-fit-to-page-width = Dopasuj do szerokości strony
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skala
-
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Druk dwustronny
 printui-two-sided-printing-off = Wyłączony
@@ -55,7 +47,6 @@ printui-two-sided-printing-off = Wyłączony
 printui-two-sided-printing-long-edge = Obróć wzdłuż długiej krawędzi
 # Flip the sheet as if it were bound along its short edge.
 printui-two-sided-printing-short-edge = Obróć wzdłuż krótkiej krawędzi
-
 # Section title for miscellaneous print options
 printui-options = Opcje
 printui-headers-footers-checkbox = Drukuj nagłówki i stopki
@@ -79,7 +70,6 @@ printui-simplify-page-radio = Uproszczony
 printui-color-mode-label = Tryb kolorów
 printui-color-mode-color = Kolorowy
 printui-color-mode-bw = Czarno-biały
-
 printui-margins = Marginesy
 printui-margins-default = Domyślne
 printui-margins-min = Minimalne
@@ -98,23 +88,17 @@ printui-margins-custom-left-mm = Lewy (w milimetrach)
 printui-margins-custom-right = Prawy
 printui-margins-custom-right-inches = Prawy (w calach)
 printui-margins-custom-right-mm = Prawy (w milimetrach)
-
 printui-system-dialog-link = Drukuj za pomocą okna systemowego…
-
 printui-primary-button = Drukuj
 printui-primary-button-save = Zapisz
 printui-cancel-button = Anuluj
 printui-close-button = Zamknij
-
 printui-loading = Przygotowywanie podglądu
-
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Podgląd wydruku
-
 printui-pages-per-sheet = Strony na kartkę
-
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Drukowanie…
@@ -141,7 +125,6 @@ printui-paper-tabloid = Tabloid
 printui-error-invalid-scale = Skala musi być liczbą między 10 a 200.
 printui-error-invalid-margin = Wprowadź prawidłowy margines dla wybranego rozmiaru papieru.
 printui-error-invalid-copies = Liczba kopii musi wynosić między 1 a 10000.
-
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Zakres musi być liczbą między 1 a { $numPages }.
