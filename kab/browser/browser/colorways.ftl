@@ -13,6 +13,9 @@ colorway-collection-independent-voices-short-description = Initen ara ibeddlen i
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Playmaker
+playmaker-colorway-description = Trennuḍ-d tugnatin i rrbaḥ, akken daɣen i tettɛawaneḍ yal win i ak·am-d-yezzin ad issali urar-is.
+expressionist-colorway-name = Anfalan
+expressionist-colorway-description = Tettwaliḍ amaḍal s tmuɣli-nniḍen, isnulfuyen-ik·im senkarayen-d iḥulfan n wiyaḍ.
 visionary-colorway-name = Visionary
 activist-colorway-name = Ameɣnas
 innovator-colorway-name = Amesnulfu
