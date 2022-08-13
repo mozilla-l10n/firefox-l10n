@@ -614,6 +614,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = szukaj w zakładkach
 urlbar-result-action-search-history = szukaj w historii
 urlbar-result-action-search-tabs = szukaj w kartach
+urlbar-result-action-search-actions = szukaj w działaniach
 
 ## Labels shown above groups of urlbar results
 
@@ -627,6 +628,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Podpowiedzi { $engine }
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Szybkie działania
 
 ## Full Screen and Pointer Lock UI
 
@@ -702,6 +706,8 @@ bookmarks-tools =
     .label = Narzędzia zakładek
 bookmarks-bookmark-edit-panel =
     .label = Edytuj zakładkę
+bookmarks-subview-edit-bookmark =
+    .label = Edytuj zakładkę…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -718,6 +724,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Dodaj zakładkę do tej karty
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Dodaj zakładkę do tej karty…
 
 ## Library Panel items
 
@@ -896,3 +905,6 @@ private-browsing-indicator-label = Tryb prywatny
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Rozszerzenia
+    .tooltiptext = Rozszerzenia
