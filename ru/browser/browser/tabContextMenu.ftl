@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Добавить вкладку в закладки
     .accesskey = а
+tab-context-bookmark-tab =
+    .label = Добавить вкладку в закладки…
+    .accesskey = в
 tab-context-open-in-new-container-tab =
     .label = Открыть в новой вкладке в контейнере
     .accesskey = к
@@ -106,7 +109,6 @@ tab-context-move-tabs =
            *[many] { $tabCount } вкладок
         }
     .accesskey = м
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

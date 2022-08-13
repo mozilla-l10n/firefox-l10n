@@ -118,6 +118,38 @@ main-context-menu-bookmark-change-with-shortcut =
     .aria-label = Изменить закладку
     .accesskey = И
     .tooltiptext = Изменить закладку ({ $shortcut })
+main-context-menu-bookmark-page =
+    .aria-label = Добавить страницу в закладки…
+    .accesskey = а
+    .tooltiptext = Добавить страницу в закладки
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-page-mac =
+    .label = Добавить страницу в закладки…
+    .accesskey = а
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
+# so should probably have the same access key if possible.
+main-context-menu-edit-bookmark-mac =
+    .label = Изменить закладку…
+    .accesskey = м
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = Добавить страницу в закладки…
+    .accesskey = а
+    .tooltiptext = Добавить страницу в закладки ({ $shortcut })
+main-context-menu-edit-bookmark =
+    .aria-label = Изменить закладку…
+    .accesskey = м
+    .tooltiptext = Изменить закладку
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = Изменить закладку…
+    .accesskey = м
+    .tooltiptext = Изменить закладку ({ $shortcut })
 main-context-menu-open-link =
     .label = Открыть ссылку
     .accesskey = О
@@ -136,6 +168,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-link =
     .label = Добавить ссылку в закладки
     .accesskey = з
+main-context-menu-bookmark-link-2 =
+    .label = Добавить ссылку в закладки…
+    .accesskey = ы
 main-context-menu-save-link =
     .label = Сохранить объект как…
     .accesskey = С
@@ -248,6 +283,9 @@ main-context-menu-image-email =
 main-context-menu-image-set-image-as-background =
     .label = Сделать фоновым рисунком рабочего стола…
     .accesskey = у
+main-context-menu-image-copy-text =
+    .label = Копировать текст из изображения
+    .accesskey = ж
 main-context-menu-image-info =
     .label = Информация об изображении
     .accesskey = з
@@ -325,6 +363,9 @@ main-context-menu-frame-reload =
 main-context-menu-frame-bookmark =
     .label = Добавить фрейм в закладки
     .accesskey = б
+main-context-menu-frame-add-bookmark =
+    .label = Добавить фрейм в закладки…
+    .accesskey = й
 main-context-menu-frame-save-as =
     .label = Сохранить фрейм как…
     .accesskey = н
@@ -340,6 +381,9 @@ main-context-menu-frame-view-info =
 main-context-menu-print-selection =
     .label = Печать выделенной области
     .accesskey = ы
+main-context-menu-print-selection-2 =
+    .label = Печать выделенной области…
+    .accesskey = о
 main-context-menu-view-selection-source =
     .label = Исходный код выделенного фрагмента
     .accesskey = д
