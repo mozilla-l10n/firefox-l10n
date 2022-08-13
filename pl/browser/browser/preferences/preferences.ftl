@@ -493,6 +493,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = strona startowa Firefoksa (domyślnie)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name(case: "nom", capitalization: "lower") } (domyślnie)
 home-mode-choice-custom =
     .label = inne strony
 home-mode-choice-blank =
@@ -518,6 +520,8 @@ choose-bookmark =
 
 home-prefs-content-header = Strona startowa Firefoksa
 home-prefs-content-description = Wybierz, co wyświetlać na stronie startowej Firefoksa.
+home-prefs-content-header2 = { -firefox-home-brand-name }
+home-prefs-content-description2 = Wybierz, co wyświetlać na { -firefox-home-brand-name(case: "loc", capitalization: "lower") }.
 home-prefs-search-header =
     .label = Pasek wyszukiwania
 home-prefs-shortcuts-header =
@@ -538,6 +542,8 @@ home-prefs-recommended-by-description-new = Wyjątkowe rzeczy wybrane przez { $p
 home-prefs-recommended-by-learn-more = Jak to działa?
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsorowane artykuły
+home-prefs-recommended-by-option-recent-saves =
+    .label = Ostatnio zapisane
 home-prefs-highlights-option-visited-pages =
     .label = Historia
 home-prefs-highlights-options-bookmarks =
