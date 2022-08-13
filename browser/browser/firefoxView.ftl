@@ -24,11 +24,17 @@ firefoxview-tabpickup-progress-label = { $percentValue }% завершана
 firefoxview-tabpickup-step-signin-primarybutton = Працягнуць
 firefoxview-tabpickup-adddevice-header = Сінхранізуйце { -brand-product-name } на сваім тэлефоне або планшэце
 firefoxview-tabpickup-synctabs-learn-how = Даведацца, як
+firefoxview-tabpickup-network-offline-primarybutton = Паспрабаваць зноў
 firefoxview-closed-tabs-title = Нядаўна закрытыя
 firefoxview-closed-tabs-collapse-button =
     .title = Паказаць або схаваць спіс нядаўна закрытых картак
 firefoxview-closed-tabs-description = Паўторна адкрыць старонкі, якія вы закрылі на гэтай прыладзе.
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Адкрыць { $targetURI } у новай картцы
 firefoxview-try-colorways-button = Паспрабуйце расфарбоўкі
+firefoxview-no-current-colorway-collection = Новыя расфарбоўкі на падыходзе
 firefoxview-change-colorway-button = Змяніць расфарбоўку
 # Variables:
 #  $intensity (String): Colorway intensity
