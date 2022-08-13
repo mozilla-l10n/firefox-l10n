@@ -132,7 +132,7 @@ newtab-menu-bookmark = Dấu trang
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = Sao chép địa chỉ tải xuống
-newtab-menu-go-to-download-page = Đi tới trang web tải xuống
+newtab-menu-go-to-download-page = Đi đến trang web tải xuống
 newtab-menu-remove-download = Xóa khỏi lịch sử
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
