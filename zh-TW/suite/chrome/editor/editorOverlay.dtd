@@ -8,7 +8,7 @@
 <!ENTITY saveCmd.key "S">
 
 <!-- Edit menu items -->
-<!ENTITY pasteNoFormatting.label "不重新格式化並貼上">
+<!ENTITY pasteNoFormatting.label "以純文字格式貼上">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAsQuotationCmd.label "以引言方式貼上">
