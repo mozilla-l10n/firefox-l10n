@@ -42,3 +42,26 @@ firefoxview-tabpickup-sync-error-description = { -brand-short-name } nie może t
 firefoxview-tabpickup-sync-error-primarybutton = Spróbuj ponownie
 firefoxview-tabpickup-syncing = Poczekaj chwilę, karty są synchronizowane.
 firefoxview-mobile-promo-header = Otwieraj karty z telefonu lub tabletu
+firefoxview-mobile-promo-description = Zaloguj się w przeglądarce { -brand-product-name } na iOS lub Androida, aby wyświetlać najnowsze karty z telefonu.
+firefoxview-mobile-promo-primarybutton = Pobierz przeglądarkę { -brand-product-name } na telefon
+firefoxview-mobile-confirmation-header = 🎉 Wszystko gotowe!
+firefoxview-mobile-confirmation-description = Możesz teraz otwierać karty z przeglądarki { -brand-product-name } na telefonie lub tablecie.
+firefoxview-closed-tabs-title = Ostatnio zamknięte
+firefoxview-closed-tabs-collapse-button =
+    .title = Lista ostatnio zamkniętych kart
+firefoxview-closed-tabs-description = Ponownie otwieraj strony zamknięte na tym urządzeniu.
+firefoxview-closed-tabs-placeholder = <strong>Nie ma ostatnio zamkniętych stron</strong><br/>Nigdy więcej nie obawiaj się utraty zamkniętej karty. Zawsze możesz odzyskać ją tutaj.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Ostatnio aktywna
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Otwórz { $targetURI } w nowej karcie
+firefoxview-try-colorways-button = Wypróbuj kolorystykę
+firefoxview-no-current-colorway-collection = Nowe kolorystyki już niedługo
+firefoxview-change-colorway-button = Zmień kolorystykę
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Nic tu jeszcze nie ma</strong><br/>Gdy następnym razem otworzysz kartę w przeglądarce { -brand-product-name } na innym urządzeniu, magicznie pojawi się ona tutaj.
