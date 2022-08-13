@@ -154,6 +154,9 @@
 <!ENTITY aboutCommPluginsCmd.label          "Плагины">
 <!ENTITY aboutCommPluginsCmd.accesskey      "л">
 
+<!ENTITY aboutBuildConfigCmd.label          "Показать конфигурацию сборки">
+<!ENTITY aboutBuildConfigCmd.accesskey      "б">
+
 <!ENTITY direct.label                             "В сети (без прокси)">
 <!ENTITY direct.accesskey                         "б">
 <!ENTITY manual.label                             "В сети (прокси настроено вручную)">
