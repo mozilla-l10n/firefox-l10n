@@ -12,6 +12,7 @@ colorway-collection-independent-voices-short-description = Initen ara ibeddlen i
 
 ## Colorway names and descriptions
 
+playmaker-colorway-name = Playmaker
 visionary-colorway-name = Visionary
 activist-colorway-name = Ameɣnas
 innovator-colorway-name = Amesnulfu
