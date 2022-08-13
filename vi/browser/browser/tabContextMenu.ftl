@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Đánh dấu thẻ
     .accesskey = B
+tab-context-bookmark-tab =
+    .label = Đánh dấu thẻ…
+    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = Mở liên kết trong thẻ ngăn chứa mới
     .accesskey = e
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] Di chuyển các thẻ
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label = Gửi { $tabCount } thẻ đến thiết bị
     .accesskey = n
