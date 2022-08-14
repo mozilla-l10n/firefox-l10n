@@ -21,8 +21,12 @@ firefoxview-tabpickup-recenttabs-description = Тут будзе спіс няд
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% завершана
+firefoxview-tabpickup-step-signin-header = Лёгка пераключайцеся паміж прыладамі
+firefoxview-tabpickup-step-signin-description = Каб атрымаць тут карткі з тэлефона, спачатку ўвайдзіце або стварыце ўліковы запіс.
 firefoxview-tabpickup-step-signin-primarybutton = Працягнуць
 firefoxview-tabpickup-adddevice-header = Сінхранізуйце { -brand-product-name } на сваім тэлефоне або планшэце
+firefoxview-tabpickup-adddevice-description = Сцягніце { -brand-product-name } для мабільнага і ўвайдзіце там.
+firefoxview-tabpickup-adddevice-learn-how = Даведацца, як
 firefoxview-tabpickup-synctabs-learn-how = Даведацца, як
 firefoxview-tabpickup-network-offline-primarybutton = Паспрабаваць зноў
 firefoxview-closed-tabs-title = Нядаўна закрытыя
