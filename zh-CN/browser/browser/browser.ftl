@@ -695,6 +695,8 @@ bookmarks-tools =
     .label = 书签工具
 bookmarks-bookmark-edit-panel =
     .label = 编辑此书签
+bookmarks-subview-edit-bookmark =
+    .label = 编辑此书签…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -711,6 +713,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = 将当前标签页加入书签
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = 将当前标签页加入书签…
 
 ## Library Panel items
 
