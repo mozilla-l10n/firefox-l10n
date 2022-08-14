@@ -59,3 +59,4 @@ about-private-browsing-pin-promo-link-text =
         [macos] Gardi en la Dock
        *[other] Alpingli al la taska ilaro
     }
+about-private-browsing-pin-promo-title = Sen konservitaj kuketoj aŭ historio, rekte el via skribotablo. Retumu kvazaŭ neniu vin vidus.
