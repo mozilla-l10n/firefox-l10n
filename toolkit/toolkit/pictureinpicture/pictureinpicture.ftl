@@ -31,9 +31,24 @@ pictureinpicture-mute-cmd =
 pictureinpicture-unmute-cmd =
     .aria-label = Lyd på
     .title = Lyd på ({ $shortcut })
+pictureinpicture-unpip-cmd =
+    .aria-label = Send tilbake til fana
+    .title = Tilbake til fana
+pictureinpicture-close-cmd =
+    .aria-label = Lat att
+    .title = Lat att ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = Undertekstar
+    .title = Undertekstar
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Fullskjerm
+    .title = Fullskjerm (dobbelklikk)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Avslutt fullskjerm
+    .title = Avslutt fullskjerm (dobbelklikk)
 pictureinpicture-subtitles-label = Undertekstar
 pictureinpicture-font-size-label = Skriftstorleik
 pictureinpicture-font-size-small = Liten
