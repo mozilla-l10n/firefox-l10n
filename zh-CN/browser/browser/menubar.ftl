@@ -38,11 +38,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = 退出 { -brand-shorter-name }
-
 menu-about =
     .label = 关于 { -brand-shorter-name }
     .accesskey = A
@@ -224,6 +222,10 @@ menu-bookmark-current-tab =
     .label = 将当前标签页加入书签
 menu-bookmark-edit =
     .label = 编辑此书签
+menu-bookmark-tab =
+    .label = 将当前标签页加入书签…
+menu-edit-bookmark =
+    .label = 编辑此书签…
 menu-bookmarks-all-tabs =
     .label = 将所有标签页加入书签…
 menu-bookmarks-toolbar =

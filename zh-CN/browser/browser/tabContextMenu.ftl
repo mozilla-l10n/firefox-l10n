@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = 为标签页添加书签
     .accesskey = B
+tab-context-bookmark-tab =
+    .label = 将标签页加入书签…
+    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = 新建身份标签页打开
     .accesskey = e
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] 移动标签页
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

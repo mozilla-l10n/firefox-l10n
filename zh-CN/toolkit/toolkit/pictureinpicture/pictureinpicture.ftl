@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = 全屏
+    .title = 全屏（双击）
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = 退出全屏
+    .title = 退出全屏（双击）
 pictureinpicture-subtitles-label = 字幕
 pictureinpicture-font-size-label = 字号
 pictureinpicture-font-size-small = 小
