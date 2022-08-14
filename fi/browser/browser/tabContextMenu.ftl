@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Lisää välilehti kirjanmerkkeihin
     .accesskey = h
+tab-context-bookmark-tab =
+    .label = Lisää välilehti kirjanmerkkeihin…
+    .accesskey = L
 tab-context-open-in-new-container-tab =
     .label = Avaa uuteen eristettyyn välilehteen
     .accesskey = e
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] Siirrä välilehdet
         }
     .accesskey = r
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
