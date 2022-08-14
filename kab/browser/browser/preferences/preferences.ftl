@@ -985,6 +985,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Ammesten asemday mgal inagan n tuqqna itegg talast i yinagan n tuqqna ɣef usmel ideg telliḍ, ineḍfaren ur ssawaḍen ara ad ak·akem-ḍefren seg usmel ɣer wayeḍ.
 content-blocking-etp-standard-tcp-rollout-learn-more = Issin ugar
+content-blocking-etp-standard-tcp-title = Yegber ammesten asemday mgal yinagan  tuqqa, tamahilt-nneɣ n ummesten n tudert tabaḍnit tafellayt ugar
 content-blocking-warning-title = Aqeṛṛu d afella!
 content-blocking-and-isolating-etp-warning-description-2 = Aɣewwar-a yezmer ad yerr kra n yismal web ur zuzuren ara agbur neɣ ur teddun ara akken iwata. Ma yella yella usmel i yettbanen yerreẓ, tzemreḍ ad tsenseḍ ammesten n uḍfr i usmel-a i wakken ad d-tsaliḍ akk agbur.
 content-blocking-warning-learn-how = Issin amek
