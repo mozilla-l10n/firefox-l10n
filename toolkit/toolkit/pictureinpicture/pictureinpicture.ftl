@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Koko näyttö
+    .title = Koko näyttö (kaksoisnapsautus)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Poistu koko näytöstä
+    .title = Poistu koko näytön tilasta (kaksoisnapsautus)
 pictureinpicture-subtitles-label = Tekstitykset
 pictureinpicture-font-size-label = Kirjasinkoko
 pictureinpicture-font-size-small = Pieni
