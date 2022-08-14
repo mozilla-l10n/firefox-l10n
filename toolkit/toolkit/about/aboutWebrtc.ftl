@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Podatki o WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = shrani about:webrtc kot
@@ -19,7 +18,6 @@ about-webrtc-aec-logging-msg-label = Beleženje AEC
 about-webrtc-aec-logging-off-state-label = Začni Beleženje AEC
 about-webrtc-aec-logging-on-state-label = Končaj Beleženje AEC
 about-webrtc-aec-logging-on-state-msg = Beleženje AEC vključeno (nekaj minut govorite s klicateljem in nato končajte zajem)
-
 # The autorefresh checkbox causes the page to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Samodejno osvežuj
 
@@ -62,8 +60,6 @@ about-webrtc-ice-pair-bytes-sent = Poslano bajtov:
 about-webrtc-ice-pair-bytes-received = Prejetih bajtov:
 about-webrtc-ice-component-id = ID komponente
 
-## "Avg." is an abbreviation for Average. These are used as data labels.
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
@@ -76,12 +72,10 @@ about-webrtc-type-remote = Oddaljeno
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Predlagano
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Izbrano
-
 about-webrtc-save-page-label = Shrani stran
 about-webrtc-debug-mode-msg-label = Razhroščevanje
 about-webrtc-debug-mode-off-state-label = Začni razhroščevanje
@@ -143,9 +137,14 @@ about-webrtc-remote-send-ssrc = Oddaljeno pošiljanje SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Podano
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Ni podano
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Uporabniške nastavitve WebRTC
-
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Ocenjena pasovna širina
 
@@ -171,7 +170,6 @@ about-webrtc-frames =
         [few] { $frames } sličice
        *[other] { $frames } sličic
     }
-
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -182,7 +180,6 @@ about-webrtc-channels =
         [few] { $channels } kanali
        *[other] { $channels } kanalov
     }
-
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -193,7 +190,6 @@ about-webrtc-received-label =
         [few] Prejeti { $packets } paketi
        *[other] Prejetih { $packets } paketov
     }
-
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets lost.
@@ -204,7 +200,6 @@ about-webrtc-lost-label =
         [few] Izgubljeni { $packets } paketi
        *[other] Izgubljenih { $packets } paketov
     }
-
 # This is the total number of packets sent by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets sent.
@@ -215,13 +210,11 @@ about-webrtc-sent-label =
         [few] Poslani { $packets } paketi
        *[other] Poslanih { $packets } paketov
     }
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Tresenje { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
