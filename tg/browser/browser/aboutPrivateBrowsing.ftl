@@ -50,3 +50,12 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Пӯшидан
 about-private-browsing-promo-close-button =
     .title = Пӯшидан
+
+## Strings used in a “pin promotion” message, which prompts users to pin a private window
+
+about-private-browsing-pin-promo-header = Тамошокунии хусусии соҳибихтиёр бо зеркунии як тугма
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] Нигоҳ доштан дар мустақар
+       *[other] Васл кардан ба навори вазифа
+    }
