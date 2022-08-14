@@ -157,6 +157,9 @@ spotlight-total-cookie-protection-expanded = { -brand-short-name } itegg zzeṛb
 spotlight-total-cookie-protection-primary-button = Rmed ammesten asemday mgal inagan n tuqqna
 spotlight-total-cookie-protection-secondary-button = Mačči tura
 cfr-total-cookie-protection-header = Tanemmirt, { -brand-short-name } d uslig, d aɣellsan ugar ɣef wayen iɛeddan
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = Ammesten asemday mgal inagan n tuqqna d aswir n ummesten afellay i nettmuddu i tudert-ik·im tabaḍnit akka ar tura – tura yuɣal d aɣewwar s wudem amezwer i yiseqdacen n { -brand-short-name } deg meṛṛa amaḍal. Ur nezmir ara ad nessiweḍ ɣer waya lukan ulac imttekkiyen ɣef zik lḥal akka am kečč·kemm. Tanemmirt ɣef tallalt-ik·im i usnulfu n Internet igerrzen, uslig ugar.
 
 ## Emotive Continuous Onboarding
 
