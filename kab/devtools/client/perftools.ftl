@@ -107,6 +107,8 @@ perftools-thread-jvm-glean =
     .title = Isqerdcen igejdanen n SDK n tilisɣilt Nimbus
 perftools-thread-jvm-arch-disk-io =
     .title = Amzuzer IO i temkarḍit n coroutines Kotlin
+perftools-thread-jvm-pool =
+    .title = Isental yettwarnan ɣer ugraw n yisental s war isem
 
 ##
 

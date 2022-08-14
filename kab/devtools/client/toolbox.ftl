@@ -40,3 +40,5 @@ toolbox-mode-everything-container =
     .title = Seɣti kullec deg agetsekkar
 toolbox-mode-parent-process-label = Agetsekkar kan amaraw
 toolbox-mode-parent-process-sub-label = (arurad)
+toolbox-mode-parent-process-container =
+    .title = Err ddehn-ik·im kan ɣer yiɣbula n ukala amaraw.
