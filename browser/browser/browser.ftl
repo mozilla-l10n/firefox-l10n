@@ -308,10 +308,13 @@ quickactions-screenshot2 = Fari ekrankopion
 quickactions-cmd-screenshot = ekrankopio
 # Opens about:preferences
 quickactions-settings = Malfermi agordojn
+quickactions-cmd-settings = agordoj, preferoj, elektebloj
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Ĝisdatigi { -brand-short-name }
+quickactions-cmd-update = ĝisdatigi
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Montri fonton
+quickactions-cmd-viewsource = vidi fonton, fonton
 
 ## Bookmark Panel
 
@@ -604,6 +607,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Serĉi en legosignoj
 urlbar-result-action-search-history = Serĉi en historio
 urlbar-result-action-search-tabs = Serĉi en la langetoj
+urlbar-result-action-search-actions = Serĉaj agoj
 
 ## Labels shown above groups of urlbar results
 
@@ -617,6 +621,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Sugestoj de { $engine }
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Rapidaj agoj
 
 ## Full Screen and Pointer Lock UI
 
@@ -692,6 +699,8 @@ bookmarks-tools =
     .label = Iloj por legosignoj
 bookmarks-bookmark-edit-panel =
     .label = Redakti tiun ĉi legosignon
+bookmarks-subview-edit-bookmark =
+    .label = Modifi tiun ĉi legosignon…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -708,6 +717,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Aldoni legosignon por la nuna langeto
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Aldoni nunan langeton al legosignoj…
 
 ## Library Panel items
 
@@ -886,3 +898,6 @@ private-browsing-indicator-label = Privata retumo
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Etendaĵoj
+    .tooltiptext = Etendaĵoj
