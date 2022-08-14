@@ -43,6 +43,9 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Экрани пурра
+    .title = Экрани пурра (ду бор зер кунед)
 pictureinpicture-subtitles-label = Зерунвонҳо
 pictureinpicture-font-size-label = Андозаи ҳуруф
 pictureinpicture-font-size-small = Хурд
