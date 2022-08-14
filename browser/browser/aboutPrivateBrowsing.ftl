@@ -59,3 +59,4 @@ about-private-browsing-pin-promo-link-text =
         [macos] 在程序坞中保留
        *[other] 固定到任务栏
     }
+about-private-browsing-pin-promo-title = 不保存任何 Cookie 和历史记录，隐私浏览不留痕迹。
