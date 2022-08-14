@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = ਟੈਬ ਬੁੱਕਮਾਰਕ ਕਰੋ
     .accesskey = B
+tab-context-bookmark-tab =
+    .label = …ਟੈਬ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
+    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = ਨਵੇਂ ਕਨਟੇਨਰ ਵਿੱਚ ਖੋਲ੍ਹੋ
     .accesskey = e
@@ -101,7 +104,6 @@ tab-context-move-tabs =
            *[other] ਟੈਬਾਂ ਭੇਜੋ
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

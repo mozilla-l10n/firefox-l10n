@@ -13,3 +13,6 @@ colorway-collection-independent-voices-short-description = ਰੰਗ, ਜੋ ਕ
 ## Colorway names and descriptions
 
 playmaker-colorway-name = ਪਲੇਅਮੇਕਰ
+playmaker-colorway-description = ਤੁਸੀਂ ਜਿੱਤਣ ਦੇ ਮੌਕੇ ਬਣਾਉਂਦੇ ਹੋ ਅਤੇ ਆਪਣੇ ਆਲੇ-ਦੁਆਲੇ ਦੇ ਲੋਕਾਂ ਨੂੰ ਉਹਨਾਂ ਦੀ ਖੇਡ 'ਚ ਅੱਗੇ ਵਧਣ ਲਈ ਮਦਦ ਕਰਦੇ ਹੋ।
+visionary-colorway-name = ਭਵਿੱਖਦਰਸ਼ੀ
+dreamer-colorway-name = ਸੁਪਨਸਾਜ਼
