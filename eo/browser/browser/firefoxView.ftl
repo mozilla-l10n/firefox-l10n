@@ -51,3 +51,17 @@ firefoxview-closed-tabs-collapse-button =
     .title = Montri aŭ kaŝi la liston de ĵuse fermitaj langetoj
 firefoxview-closed-tabs-description = Malfermi paĝojn, kiujn vi estis ferminta en tiu ĉi aparato.
 firefoxview-closed-tabs-placeholder = <strong>Neniu ĵusa fermita paĝo</strong><br/>Neniam timu denove perdi fermitan langeton, vi povos ĝin ĉiam rehavi ĉi tie.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Laste aktiva
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Malfermi { $targetURI } en nova langeto
+firefoxview-try-colorways-button = Provu kolorarojn
+firefoxview-no-current-colorway-collection = Baldaŭ estos novaj koloraroj
+firefoxview-change-colorway-button = Ŝanĝi koloraron
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Ankoraŭ estas nenio ĉi tie</strong><br/>Kiam vi malfermos paĝojn en { -brand-product-name } en alia aparato, ĝi kvazaŭ magie aperos ĉi tie.

@@ -38,11 +38,9 @@ menu-quit =
             [windows] F
            *[other] F
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Fini { -brand-shorter-name }
-
 menu-about =
     .label = Pri { -brand-shorter-name }
     .accesskey = P
@@ -225,6 +223,10 @@ menu-bookmark-current-tab =
     .label = Aldoni legosignon por la nuna langeto
 menu-bookmark-edit =
     .label = Redakti tiun ĉi legosignon
+menu-bookmark-tab =
+    .label = Aldoni legosignon por la nuna langeto…
+menu-edit-bookmark =
+    .label = Modifi tiun ĉi legosignon…
 menu-bookmarks-all-tabs =
     .label = Aldoni legosignon por ĉiuj langetoj…
 menu-bookmarks-toolbar =
