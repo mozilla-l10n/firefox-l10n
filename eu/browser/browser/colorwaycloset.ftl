@@ -10,7 +10,7 @@ colorway-intensity-soft = Leuna
 colorway-intensity-balanced = Orekatua
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
-colorway-intensity-bold = Lodia
+colorway-intensity-bold = Ausarta
 # Label for the button to keep using the selected colorway in the browser
 colorway-closet-set-colorway-button = Ezarri kolore-konbinazioa
 colorway-closet-cancel-button = Utzi
