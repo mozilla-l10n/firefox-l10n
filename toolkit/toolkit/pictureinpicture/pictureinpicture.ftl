@@ -15,6 +15,40 @@ pictureinpicture-unpip =
     .aria-label = Sendi reen al langeto
 pictureinpicture-close =
     .aria-label = Fermi
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-pause-cmd =
+    .aria-label = Paŭzigi
+    .title = Paŭzigi (spacoklavo)
+pictureinpicture-play-cmd =
+    .aria-label = Ludi
+    .title = Ludi (spacoklavo)
+pictureinpicture-mute-cmd =
+    .aria-label = Silentigi
+    .title = Silentigi ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = Malsilentigi
+    .title = Malsilentigi ({ $shortcut })
+pictureinpicture-unpip-cmd =
+    .aria-label = Sendi reen al langeto
+    .title = Reen al langeto
+pictureinpicture-close-cmd =
+    .aria-label = Fermi
+    .title = Fermi ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = Subtekstoj
+    .title = Subtekstoj
+
+##
+
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Plenekrane
+    .title = Plenekrane (duobla alklako)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Eliri el plenekrana reĝimo
+    .title = Eliri el plenekrana reĝimo (duobla alklako)
 pictureinpicture-subtitles-label = Subtekstoj
 pictureinpicture-font-size-label = Tipara grando
 pictureinpicture-font-size-small = Eta
