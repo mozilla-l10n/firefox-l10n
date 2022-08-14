@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Aldoni langeton al legosignoj
     .accesskey = l
+tab-context-bookmark-tab =
+    .label = Aldoni langeton al legosignoj…
+    .accesskey = l
 tab-context-open-in-new-container-tab =
     .label = Malfermi en nova inga langeto
     .accesskey = i
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Movi langetojn
         }
     .accesskey = M
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
