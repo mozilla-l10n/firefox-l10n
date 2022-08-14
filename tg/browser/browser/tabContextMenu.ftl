@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Гузоштани хатбарак
     .accesskey = Г
+tab-context-bookmark-tab =
+    .label = Гузоштани хатбарак барои варақа…
+    .accesskey = Г
 tab-context-open-in-new-container-tab =
     .label = Кушодан дар варақаи нави дарбаргиранда
     .accesskey = К
@@ -102,7 +105,6 @@ tab-context-move-tabs =
            *[other] Ҷ
         }
     .accesskey = Ҷ
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

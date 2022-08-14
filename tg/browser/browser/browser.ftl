@@ -699,6 +699,8 @@ bookmarks-tools =
     .label = Воситаҳои хатбаракҳо
 bookmarks-bookmark-edit-panel =
     .label = Таҳрир кардани ин хатбарак
+bookmarks-subview-edit-bookmark =
+    .label = Таҳрир кардани ин хатбарак…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -715,6 +717,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Гузоштани хатбарак барои варақаи ҷорӣ
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Гузоштани хатбарак барои варақаи ҷорӣ…
 
 ## Library Panel items
 
