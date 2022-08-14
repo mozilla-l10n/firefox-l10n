@@ -40,3 +40,5 @@ toolbox-mode-everything-container =
     .title = Senerarigi ĉion en ĉiuj procezoj
 toolbox-mode-parent-process-label = Nur gepatra procezo
 toolbox-mode-parent-process-sub-label = (Rapida)
+toolbox-mode-parent-process-container =
+    .title = Koncentriĝi nur sur aktivaj rimedoj el la gepatra procezo.
