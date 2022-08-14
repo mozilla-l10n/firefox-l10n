@@ -85,6 +85,8 @@ about-debugging-setup-this-firefox2 = Барои ислоҳ кардани ха�
 about-debugging-setup-connect-heading = Дастгоҳеро пайваст намоед
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Фаъолсозии ин имкон барои ислоҳкунии хатоҳои «Android» бо сими «USB» унсурҳои лозимиро боргирӣ карда, ба «{ -brand-shorter-name }» илова мекунад.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = Фаъол кардани дастгоҳҳои USB
@@ -126,6 +128,10 @@ about-debugging-network-locations-host-input-label = Мизбон
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Тоза кардан
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Формати мизбон «{ $host-value }» нодуруст аст. Формати дуруст бояд дар шакли «hostname:portnumber» бошад.
 # Text used as error message if the input value was already registered in the network locations form of the Setup page.
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
@@ -159,6 +165,10 @@ about-debugging-runtime-processes =
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
 about-debugging-runtime-profile-button2 = Самаранокии профил
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to:
+# https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#service-workers-not-compatible
+about-debugging-runtime-service-workers-not-compatible = Танзимоти браузери шумо ба коргузорони хизматрасонӣ мувофиқат намекунад. <a>Маълумоти бештар</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -199,6 +209,16 @@ about-debugging-tmp-extension-reload-button = Аз нав бор кардан
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Тоза кардан
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will forcefully terminate the extension background script (button
+# only visible in extensions that includes a non-persistent background script, either an
+# event page or a background service worker).
+about-debugging-tmp-extension-terminate-bgscript-button = Қатъ кардани скрипти пасзамина
+# Message displayed in the file picker that opens to select a temporary extension to load
+# (triggered by the button using "about-debugging-tmp-extension-install-button")
+# manifest.json .xpi and .zip should not be localized.
+# Note: this message is only displayed in Windows and Linux platforms.
+about-debugging-tmp-extension-install-message = Файли «manifest.json» ё бойгонии «.xpi/.zip»-ро интихоб кунед
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
