@@ -15,6 +15,25 @@ pictureinpicture-unpip =
     .aria-label = Send tilbake til fana
 pictureinpicture-close =
     .aria-label = Lat att
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-pause-cmd =
+    .aria-label = Pause
+    .title = Pause (mellomrom)
+pictureinpicture-play-cmd =
+    .aria-label = Spel av
+    .title = Spel av (mellomrom)
+pictureinpicture-mute-cmd =
+    .aria-label = Lyd av
+    .title = Lyd av ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = Lyd på
+    .title = Lyd på ({ $shortcut })
+
+##
+
 pictureinpicture-subtitles-label = Undertekstar
 pictureinpicture-font-size-label = Skriftstorleik
 pictureinpicture-font-size-small = Liten
