@@ -63,4 +63,4 @@ experimental-features-ime-search-description = 对于东亚及印度语言使用
 # Text recognition for images
 experimental-features-text-recognition =
     .label = 文字识别
-experimental-features-text-recognition-description = 启用识别图像中文字功能。
+experimental-features-text-recognition-description = 启用识别图像内文字功能。
