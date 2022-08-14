@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Na celú obrazovku
+    .title = Na celú obrazovku (dvojité kliknutie)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Ukončiť režim celej obrazovky
+    .title = Ukončiť režim celej obrazovky (dvojité kliknutie)
 pictureinpicture-subtitles-label = Titulky
 pictureinpicture-font-size-label = Veľkosť písma
 pictureinpicture-font-size-small = Malé
