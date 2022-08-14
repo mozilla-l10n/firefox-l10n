@@ -22,3 +22,4 @@ activist-colorway-name = Ameɣnas
 activist-colorway-description = Tettaǧǧaḍ-d amaḍal igerrez ugar n wamek i t-id-tufiḍ, trennuḍ tgelluḍ s wiyaḍ ad amnen s waya.
 dreamer-colorway-description = Tumneḍ ssɛaya tetteg tissas, tettarra wiyaḍ sɛan tabɣest.
 innovator-colorway-name = Amesnulfu
+innovator-colorway-description = Tettwaliḍ tignatin deg yal adeg, tettḥazeḍ ula d tudert n wid i ak·am-d-yezzin.
