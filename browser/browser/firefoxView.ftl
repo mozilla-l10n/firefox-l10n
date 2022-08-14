@@ -50,6 +50,7 @@ firefoxview-closed-tabs-title = 最近关闭
 firefoxview-closed-tabs-collapse-button =
     .title = 显示或隐藏最近关闭的标签页列表
 firefoxview-closed-tabs-description = 再次打开您在此设备上关闭的页面。
+firefoxview-closed-tabs-placeholder = <strong>没有最近关闭的页面</strong><br/>无需再担心误关标签页，您可随时在此处找回。
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = 最后浏览
 # Variables:
