@@ -79,6 +79,8 @@ about-debugging-refresh-usb-devices-button = Навкунии рӯйхати д�
 about-debugging-setup-title = Танзимот
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Усули пайвастшавиеро танзим кунед, ки шумо мехоҳед барои ислоҳ кардани хатоҳои дастгоҳи худ ба таври дурдаст истифода баред.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Барои ислоҳ кардани хатоҳои васеъшавиҳо ва коргузорони хизматрасонӣ дар ин версияи «{ -brand-shorter-name }», лутфан. аз <a>{ about-debugging-this-firefox-runtime-name }</a> истифода баред.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Дастгоҳеро пайваст намоед
 # USB section of the Setup page
@@ -144,7 +146,7 @@ about-debugging-runtime-tabs =
     .name = Варақаҳо
 # Title of the service workers category.
 about-debugging-runtime-service-workers =
-    .name = Коргузорони хизматрасонй
+    .name = Коргузорони хизматрасонӣ
 # Title of the shared workers category.
 about-debugging-runtime-shared-workers =
     .name = Коргузорон бо дастрасии умумӣ
