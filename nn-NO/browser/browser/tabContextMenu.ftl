@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Bokmerk fane
     .accesskey = B
+tab-context-bookmark-tab =
+    .label = Bokmerk fane…
+    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = Opne i ny innhaldsfane
     .accesskey = O
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] Flytt faner
         }
     .accesskey = F
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
