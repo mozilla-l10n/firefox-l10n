@@ -31,6 +31,9 @@ pictureinpicture-mute-cmd =
 pictureinpicture-unmute-cmd =
     .aria-label = Ljud på
     .title = Ljud på ({ $shortcut })
+pictureinpicture-unpip-cmd =
+    .aria-label = Skicka tillbaka till flik
+    .title = Tillbaka till flik
 pictureinpicture-close-cmd =
     .aria-label = Stäng
     .title = Stäng ({ $shortcut })
@@ -40,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Helskärm
+    .title = Helskärm (dubbelklick)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Avsluta helskärm
+    .title = Avsluta helskärm (dubbelklick)
 pictureinpicture-subtitles-label = Undertexter
 pictureinpicture-font-size-label = Textstorlek
 pictureinpicture-font-size-small = Liten

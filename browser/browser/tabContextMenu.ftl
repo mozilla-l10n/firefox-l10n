@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Bokmärk flik
     .accesskey = B
+tab-context-bookmark-tab =
+    .label = Bokmärk flik…
+    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = Öppna i ny innehållsflik
     .accesskey = n
@@ -101,7 +104,6 @@ tab-context-move-tabs =
            *[other] Flytta flikar
         }
     .accesskey = t
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

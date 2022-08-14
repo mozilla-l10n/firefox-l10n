@@ -699,6 +699,8 @@ bookmarks-tools =
     .label = Verktyg för bokmärken
 bookmarks-bookmark-edit-panel =
     .label = Redigera bokmärket
+bookmarks-subview-edit-bookmark =
+    .label = Redigera detta bokmärke…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -715,6 +717,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Bokmärk aktuell flik
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Bokmärk aktuell flik…
 
 ## Library Panel items
 

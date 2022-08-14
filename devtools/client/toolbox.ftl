@@ -32,6 +32,8 @@ toolbox-meatball-menu-pseudo-locale-bidi = Aktivera "bidi"-språk
 
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
+toolbox-mode-browser-toolbox-label = Läge för webbläsarverktyg
+toolbox-mode-browser-console-label = Läge för webbläsarkonsol
 toolbox-mode-everything-label = Multiprocess
 toolbox-mode-everything-sub-label = (Långsammare)
 toolbox-mode-everything-container =

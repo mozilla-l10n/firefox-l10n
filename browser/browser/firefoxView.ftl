@@ -44,10 +44,13 @@ firefoxview-tabpickup-syncing = Vi synkroniserar dina flikar, det tar bara ett �
 firefoxview-mobile-promo-header = Öppna flikar från din telefon eller surfplatta
 firefoxview-mobile-promo-description = För att se dina senaste mobilflikar, logga in på { -brand-product-name } på iOS eller Android.
 firefoxview-mobile-promo-primarybutton = Hämta { -brand-product-name } för mobil
+firefoxview-mobile-confirmation-header = 🎉 Klar att användas!
+firefoxview-mobile-confirmation-description = Nu kan du hämta flikarna från { -brand-product-name } till din surfplatta eller telefon.
 firefoxview-closed-tabs-title = Nyligen stängda
 firefoxview-closed-tabs-collapse-button =
     .title = Visa eller dölj listan med nyligen stängda flikar
 firefoxview-closed-tabs-description = Öppna sidor du har stängt på den här enheten igen.
+firefoxview-closed-tabs-placeholder = <strong>Inga nyligen stängda sidor</strong><br/>Var aldrig rädd att förlora en stängd flik igen. Du kan alltid hämta den här.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Senast aktiv
 # Variables:
@@ -61,3 +64,4 @@ firefoxview-change-colorway-button = Ändra colorway
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Inget att se ännu</strong><br/>Nästa gång du öppnar en sida i { -brand-product-name } på en annan enhet, kommer du magiskt åt den här.
