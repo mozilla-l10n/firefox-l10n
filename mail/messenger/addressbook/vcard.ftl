@@ -103,3 +103,8 @@ vcard-org-add = Dodaj podatke o organizaciji
 vcard-org-title = Naziv
 vcard-org-role = Funkcija
 vcard-org-org = Organizacija
+
+# Custom properties
+
+vcard-custom-header = Lastnosti po meri
+vcard-custom-add = Dodaj lastnosti po meri
