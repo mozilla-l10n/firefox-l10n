@@ -490,6 +490,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefoxen hasiera-orria (lehenetsia)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (Lehenetsia)
 home-mode-choice-custom =
     .label = URL pertsonalizatuak…
 home-mode-choice-blank =
