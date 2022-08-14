@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Lap könyvjelzőzése
     .accesskey = k
+tab-context-bookmark-tab =
+    .label = Lap könyvjelzőzése…
+    .accesskey = k
 tab-context-open-in-new-container-tab =
     .label = Megnyitás új konténerlapban
     .accesskey = e
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Lapok áthelyezése
         }
     .accesskey = h
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
