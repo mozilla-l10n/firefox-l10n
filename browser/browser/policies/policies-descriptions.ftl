@@ -67,6 +67,7 @@ policy-Extensions = Installere, avinstallere eller låse tillegg. Installeringsa
 policy-ExtensionSettings = Handsam alle aspekt av utvidingsinstallasjonen.
 policy-ExtensionUpdate = Slå på eller slå av automatisk utvidingsoppdateringar.
 policy-FirefoxHome = Konfigurer Firefox startside.
+policy-FirefoxHome2 = Konfigurer { -firefox-home-brand-name }.
 policy-FlashPlugin = Tillat eller nekt bruk av programtillegget Flash.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Tving direkte navigering på intranettet i staden for å søkje når du skriv inn enkeltord i adressefeltet.
 policy-Handlers = Konfigurer standard applikasjonshandsamar.
