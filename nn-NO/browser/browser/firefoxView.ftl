@@ -58,3 +58,8 @@ firefoxview-tabs-list-tab-button =
     .title = Opne { $targetURI } i ei ny fane
 firefoxview-try-colorways-button = Prøv fargesamansetjingar
 firefoxview-no-current-colorway-collection = Nye fargesamansetjingar er på veg
+firefoxview-change-colorway-button = Endre fargesamansetjing
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
