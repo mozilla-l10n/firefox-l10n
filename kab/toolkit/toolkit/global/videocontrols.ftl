@@ -41,6 +41,10 @@ videocontrols-picture-in-picture-explainer = Senker tavidyut deg uɣawas n sdat 
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Ssef tavidyut-a seg usebter
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer2 = Ugar n yigdilen, ugar n usedhu. Ɣeṛ tavidyut-a deg tugna deg tugna mi ara tettinigeḍ.
 videocontrols-error-aborted = Asali n tvidyut yeḥbes
 videocontrols-error-network = Urar n tvidyutt yeḥbes acku tella tuccḍa deg uẓeṭṭa.
 videocontrols-error-decode = Ur tezmireḍ ara ad twaliḍ tavidyutt acku afaylu diri-t.

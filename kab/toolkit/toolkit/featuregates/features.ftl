@@ -63,3 +63,4 @@ experimental-features-ime-search-description = IME (Input Method Editor) d afeck
 # Text recognition for images
 experimental-features-text-recognition =
     .label = Aεqal n uḍris
+experimental-features-text-recognition-description = Rmed timahilin i wakken ad tɛeqleḍaḍris deg tugniwin.
