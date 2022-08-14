@@ -22,12 +22,10 @@ about-private-browsing-not-private = Práve nie ste v súkromnom prehliadaní
 about-private-browsing-info-description-private-window = Súkromné prehliadanie: { -brand-short-name } vymaže históriu vyhľadávania a prehliadania po zatvorení všetkých súkromných okien. Tým sa však nestanete anonymnými.
 about-private-browsing-info-description-simplified = { -brand-short-name } vymaže históriu vyhľadávania a prehliadania po zatvorení všetkých súkromných okien, ale tým sa nestanete anonymnými.
 about-private-browsing-learn-more-link = Ďalšie informácie
-
 about-private-browsing-hide-activity = Skryte svoju aktivitu a polohu, nech ste kdekoľvek
 about-private-browsing-get-privacy = Získajte ochranu súkromia všade, kde prehliadate
 about-private-browsing-hide-activity-1 = Skryte svoju aktivitu a polohu pri prehliadaní pomocou služby { -mozilla-vpn-brand-name }. Jedným kliknutím vytvoríte zabezpečené pripojenie, dokonca aj na verejných sieťach Wi-Fi.
 about-private-browsing-prominent-cta = Ochráňte svoje súkromie so službou { -mozilla-vpn-brand-name }
-
 about-private-browsing-focus-promo-cta = Nainštalujte si { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: súkromné prehliadanie na cestách
 about-private-browsing-focus-promo-text = Naša mobilná aplikácia zameraná na maximálnu ochranu súkromia vymaže vašu históriu a súbory cookie po každom prehliadaní.
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = Vezmite si súkromné prehliadanie
 about-private-browsing-focus-promo-text-b = Používajte { -focus-brand-name } na prehliadanie webu, ktorý by mal ostať skrytý pred vašim hlavným mobilným prehliadačom.
 about-private-browsing-focus-promo-header-c = Ochrana súkromia ďalšej úrovne na mobilnom zariadení
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } blokuje reklamy a sledovacie prvky, a zakaždým vymaže vašu históriu prehliadania.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,6 +48,14 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Zavrieť
-
 about-private-browsing-promo-close-button =
     .title = Zavrieť
+
+## Strings used in a “pin promotion” message, which prompts users to pin a private window
+
+about-private-browsing-pin-promo-header = Sloboda súkromného prehliadania na jedno kliknutie
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] Ponechať v Docku
+       *[other] Pripnúť na panel úloh
+    }
