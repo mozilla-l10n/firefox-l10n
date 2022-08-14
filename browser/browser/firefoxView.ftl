@@ -33,3 +33,10 @@ firefoxview-closed-tabs-title = Viimeksi suljetut
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Avaa { $targetURI } uuteen välilehteen
+firefoxview-try-colorways-button = Kokeile väriteemoja
+firefoxview-no-current-colorway-collection = Uusia värejä on tulossa
+firefoxview-change-colorway-button = Vaihda väriteemaa
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
