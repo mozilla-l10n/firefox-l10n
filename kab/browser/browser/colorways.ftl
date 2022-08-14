@@ -20,4 +20,5 @@ visionary-colorway-name = Visionary
 visionary-colorway-description = Tettcukkuteḍ aṭas deg tegnit-agi n tura, tettdeggireḍ wiyaḍ ad sugnen imal igerrzen ugar.
 activist-colorway-name = Ameɣnas
 activist-colorway-description = Tettaǧǧaḍ-d amaḍal igerrez ugar n wamek i t-id-tufiḍ, trennuḍ tgelluḍ s wiyaḍ ad amnen s waya.
+dreamer-colorway-description = Tumneḍ ssɛaya tetteg tissas, tettarra wiyaḍ sɛan tabɣest.
 innovator-colorway-name = Amesnulfu
