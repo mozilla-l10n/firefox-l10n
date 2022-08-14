@@ -6,4 +6,7 @@
 ## Text recognition works through a modal that presents the text that is found
 ## in an image, and copies the results to the clipboard.
 
+text-recognition-modal-results-title = 已复制图像中的文字
 text-recognition-modal-close-button = 关闭
+# The title of the the modal is only available to screen readers.
+text-recognition-modal-accessible-modal-title = 文字提取结果
