@@ -59,3 +59,4 @@ about-private-browsing-pin-promo-link-text =
         [macos] Ponechať v Docku
        *[other] Pripnúť na panel úloh
     }
+about-private-browsing-pin-promo-title = Žiadne uložené súbory cookie alebo história prehliadania z vášho počítača. Prehliadajte tak, aby sa nikto nepozeral.

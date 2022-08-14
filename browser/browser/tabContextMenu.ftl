@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Pridať kartu medzi záložky
     .accesskey = a
+tab-context-bookmark-tab =
+    .label = Pridať kartu medzi záložky…
+    .accesskey = r
 tab-context-open-in-new-container-tab =
     .label = Otvoriť na novej kontajnerovej karte
     .accesskey = k
@@ -104,7 +107,6 @@ tab-context-move-tabs =
            *[other] Presunúť karty
         }
     .accesskey = s
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
