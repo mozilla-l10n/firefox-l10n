@@ -265,6 +265,7 @@ quickactions-cmd-screenshot = ภาพหน้าจอ
 quickactions-settings = เปิดการตั้งค่า
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = ปรับปรุง { -brand-short-name }
+quickactions-cmd-update = อัปเดต
 # Opens the view-source UI with current pages source
 quickactions-viewsource = ดูต้นฉบับ
 
