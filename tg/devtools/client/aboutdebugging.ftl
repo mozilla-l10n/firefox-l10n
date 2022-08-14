@@ -219,6 +219,8 @@ about-debugging-tmp-extension-terminate-bgscript-button = Қатъ кардан�
 # manifest.json .xpi and .zip should not be localized.
 # Note: this message is only displayed in Windows and Linux platforms.
 about-debugging-tmp-extension-install-message = Файли «manifest.json» ё бойгонии «.xpi/.zip»-ро интихоб кунед
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = Ҳамин «WebExtension» дорои рақами мушаххаси муваққатӣ мебошад. <a>Маълумоти бештар</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
@@ -244,6 +246,12 @@ about-debugging-extension-backgroundscript =
 about-debugging-extension-backgroundscript-status-running = Иҷро шуда истодааст
 # Displayed for extension using a non-persistent background page when is currently stopped.
 about-debugging-extension-backgroundscript-status-stopped = Қатъ карда шудааст
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = Push
+    .disabledTitle = Намоишдиҳии коргузорони хизматрасонӣ дар айни ҳол барои серраванди «{ -brand-shorter-name }» ғайрифаъол аст.
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start2 = Оғоз кардан
     .disabledTitle = Айни ҳол коргузори хизматрасонӣ барои { -brand-shorter-name }-и серраванд ғайрифаъол аст
@@ -267,6 +275,13 @@ about-debugging-worker-status-registering = Дар ҳоли бақайдгирӣ
 # Displayed for service workers in runtime pages, to label the scope of a worker
 about-debugging-worker-scope =
     .label = Доира
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = Хидмати «Push»
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = Дар айни ҳол коргузори хизматрасонӣ барои серраванди «{ -brand-shorter-name }» ғайрифаъол аст
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Раванди асосӣ
