@@ -105,3 +105,8 @@ vcard-org-add = Organizaciske kakosći pśidaś
 vcard-org-title = Titel
 vcard-org-role = Rola
 vcard-org-org = Organizacija
+
+# Custom properties
+
+vcard-custom-header = Swójske kakosći
+vcard-custom-add = Swójske kakosći pśidaś
