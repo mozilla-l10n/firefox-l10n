@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Egin fitxaren laster-marka
     .accesskey = s
+tab-context-bookmark-tab =
+    .label = Egin fitxaren laster-marka…
+    .accesskey = m
 tab-context-open-in-new-container-tab =
     .label = Ireki edukiontzi-fitxa berrian
     .accesskey = e
@@ -101,7 +104,6 @@ tab-context-move-tabs =
            *[other] Mugitu fitxak
         }
     .accesskey = M
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
