@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Rejtarik ako cytańske znamje składowaś
     .accesskey = t
+tab-context-bookmark-tab =
+    .label = Rejtarik ako cytańske znamje składowaś …
+    .accesskey = R
 tab-context-open-in-new-container-tab =
     .label = W nowem kontejnerowem rejtariku wócyniś
     .accesskey = k
@@ -109,7 +112,6 @@ tab-context-move-tabs =
            *[other] { $tabCount } rejtarikow pśesunuś
         }
     .accesskey = s
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
