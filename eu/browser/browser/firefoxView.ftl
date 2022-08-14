@@ -38,3 +38,22 @@ firefoxview-mobile-promo-header = Hartu zure telefono edo tabletako fitxak
 firefoxview-mobile-promo-description = Zure mugikorreko azken fitxak ikusteko, hasi saioa iOS edo Androideko { -brand-product-name }(e)n.
 firefoxview-mobile-promo-primarybutton = Eskuratu mugikorrerako { -brand-product-name }
 firefoxview-mobile-confirmation-header = 🎉 Dena prest!
+firefoxview-mobile-confirmation-description = Hemendik aurrera zure tableta edo telefonoko { -brand-product-name }(e)n fitxak hartu ahal izango dituzu.
+firefoxview-closed-tabs-title = Itxitako azkenak
+firefoxview-closed-tabs-collapse-button =
+    .title = Erakutsi edo ezkutatu itxitako azken fitxen zerrenda
+firefoxview-closed-tabs-description = Berrireki gailu honetan itxi dituzun orriak.
+firefoxview-closed-tabs-placeholder = <strong>Itxitako azken orririk ez</strong><br/>Ez izan itxitako fitxak galtzeko beldurrik. Edozein unetan berreskura ditzakezu hemen.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Erabilitako azkena
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Ireki { $targetURI } fitxa berrian
+firefoxview-try-colorways-button = Probatu kolore-konbinazioak
+firefoxview-no-current-colorway-collection = Kolore-konbinazio berriak bidean dira
+firefoxview-change-colorway-button = Aldatu kolore-konbinazioa
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
