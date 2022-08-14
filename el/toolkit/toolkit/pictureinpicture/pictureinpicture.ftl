@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Πλήρης οθόνη
+    .title = Πλήρης οθόνη (διπλό κλικ)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Έξοδος από πλήρη οθόνη
+    .title = Έξοδος από πλήρη οθόνη (διπλό κλικ)
 pictureinpicture-subtitles-label = Υπότιτλοι
 pictureinpicture-font-size-label = Μέγεθος γραμματοσειράς
 pictureinpicture-font-size-small = Μικρό

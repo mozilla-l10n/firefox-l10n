@@ -16,6 +16,8 @@ firefoxview-close-button =
 firefoxview-just-now-timestamp = Μόλις τώρα
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = Συγχρονισμός καρτελών
+firefoxview-tabpickup-description = Ανοίξτε σελίδες από άλλες συσκευές.
+firefoxview-tabpickup-recenttabs-description = Η λίστα πρόσφατων καρτελών πηγαίνει εδώ
 firefoxview-tabpickup-step-signin-header = Απρόσκοπτη εναλλαγή μεταξύ συσκευών
 firefoxview-tabpickup-step-signin-primarybutton = Συνέχεια
 firefoxview-tabpickup-adddevice-learn-how = Μάθετε πώς
@@ -25,6 +27,7 @@ firefoxview-tabpickup-synctabs-primarybutton = Συγχρονισμός ανοι
 firefoxview-tabpickup-fxa-admin-disabled-header = Ο οργανισμός σας έχει απενεργοποιήσει τον συγχρονισμό
 firefoxview-tabpickup-network-offline-header = Ελέγξτε τη σύνδεσή σας στο διαδίκτυο
 firefoxview-tabpickup-network-offline-primarybutton = Δοκιμή ξανά
+firefoxview-tabpickup-sync-error-header = Υπάρχει πρόβλημα με τον συγχρονισμό
 firefoxview-tabpickup-sync-error-primarybutton = Δοκιμή ξανά
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab

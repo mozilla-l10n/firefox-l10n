@@ -118,6 +118,32 @@ main-context-menu-bookmark-change-with-shortcut =
     .aria-label = Επεξεργασία σελιδοδείκτη
     .accesskey = δ
     .tooltiptext = Επεξεργασία σελιδοδείκτη ({ $shortcut })
+main-context-menu-bookmark-page =
+    .aria-label = Προσθήκη σελιδοδείκτη…
+    .accesskey = δ
+    .tooltiptext = Προσθήκη σελιδοδείκτη
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-page-mac =
+    .label = Προσθήκη σελιδοδείκτη…
+    .accesskey = δ
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
+# so should probably have the same access key if possible.
+main-context-menu-edit-bookmark-mac =
+    .label = Επεξεργασία σελιδοδείκτη…
+    .accesskey = δ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = Προσθήκη σελιδοδείκτη…
+    .accesskey = δ
+    .tooltiptext = Προσθήκη σελιδοδείκτη ({ $shortcut })
+main-context-menu-edit-bookmark =
+    .aria-label = Επεξεργασία σελιδοδείκτη…
+    .accesskey = δ
+    .tooltiptext = Επεξεργασία σελιδοδείκτη
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
@@ -142,6 +168,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-link =
     .label = Προσθήκη σελιδοδείκτη συνδέσμου
     .accesskey = κ
+main-context-menu-bookmark-link-2 =
+    .label = Προσθήκη σελιδοδείκτη συνδέσμου…
+    .accesskey = η
 main-context-menu-save-link =
     .label = Αποθήκευση συνδέσμου ως…
     .accesskey = θ
@@ -333,6 +362,9 @@ main-context-menu-frame-reload =
     .accesskey = ν
 main-context-menu-frame-bookmark =
     .label = Προσθήκη στους σελιδοδείκτες
+    .accesskey = λ
+main-context-menu-frame-add-bookmark =
+    .label = Πλαίσιο σελιδοδείκτη…
     .accesskey = λ
 main-context-menu-frame-save-as =
     .label = Αποθήκευση πλαισίου ως…
