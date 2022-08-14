@@ -314,6 +314,7 @@ quickactions-update = Posodobi { -brand-short-name }
 quickactions-cmd-update = posodobi
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Pokaži vir
+quickactions-cmd-viewsource = pokaži vir, vir
 
 ## Bookmark Panel
 
@@ -617,6 +618,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Iskanje po zaznamkih
 urlbar-result-action-search-history = Iskanje po zgodovini
 urlbar-result-action-search-tabs = Išči zavihke
+urlbar-result-action-search-actions = Dejanja iskanja
 
 ## Labels shown above groups of urlbar results
 
