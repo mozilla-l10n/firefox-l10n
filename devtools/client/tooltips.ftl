@@ -32,7 +32,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $pro
 inactive-css-not-table = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es keine Tabelle ist.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es nicht scrollt.
 inactive-css-border-image = <strong>{ $property }</strong> hat keine Auswirkung auf dieses Element, da es nicht auf interne Tabellenelemente angewendet werden kann, bei denen auf dem übergeordneten Tabellenelement <strong>border-collapse</strong> auf <strong>collapse</strong> gesetzt ist.
-inactive-css-ruby-element = <strong>{ $property }</strong> hat keine Auswirkung auf dieses Element, da es sich um ein ruby-Element handelt. Seine Größe wird durch die Schriftgröße des ruby-Textes bestimmt.
+inactive-css-ruby-element = <strong>{ $property }</strong> hat keine Auswirkung auf dieses Element, da es sich um ein Ruby-Element handelt. Seine Größe wird durch die Schriftgröße des Ruby-Textes bestimmt.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -56,7 +56,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells-fix = Versuchen 
 inactive-css-not-table-fix = Versuchen Sie, <strong>display:table</strong> oder <strong>display:inline-table</strong> hinzuzufügen. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Versuchen Sie, <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> oder <strong>overflow:hidden</strong> hinzuzufügen. { learn-more }
 inactive-css-border-image-fix = Entfernen Sie auf dem übergeordneten Tabellenelement die Eigenschaft oder ändern Sie den Wert von <strong>border-collapse</strong> auf einen anderen Wert als <strong>collapse</strong>. { learn-more }
-inactive-css-ruby-element-fix = Versuchen Sie, die <strong>font-size</strong> des ruby-Textes zu ändern. { learn-more }
+inactive-css-ruby-element-fix = Versuchen Sie, die <strong>font-size</strong> des Ruby-Textes zu ändern. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
