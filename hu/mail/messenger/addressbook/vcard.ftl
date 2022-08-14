@@ -105,3 +105,8 @@ vcard-org-add = Szervezeti tulajdonságok hozzáadása
 vcard-org-title = Cím
 vcard-org-role = Szerep
 vcard-org-org = Szervezet
+
+# Custom properties
+
+vcard-custom-header = Egyéni tulajdonságok
+vcard-custom-add = Egyéni tulajdonságok hozzáadása
