@@ -40,7 +40,12 @@ firefoxview-tabpickup-network-offline-primarybutton = Аз нав кӯшиш к�
 firefoxview-tabpickup-sync-error-header = Ҳангоми ҳамоҳангсозӣ мушкилӣ ба миён омад
 firefoxview-tabpickup-sync-error-description = Дар айни ҳол { -brand-short-name } наметавонад, ки ба хидмат дастрасӣ пайдо кунад. Пас аз чанд лаҳза аз нав кӯшиш кунед.
 firefoxview-tabpickup-sync-error-primarybutton = Аз нав кӯшиш кардан
+firefoxview-tabpickup-syncing = Интизор шавед, варақаҳои шумо ҳамоҳанг шуда истодаанд. Онҳо пас аз чанд лаҳза дастрас мешаванд.
 firefoxview-mobile-promo-header = Варақаҳоро аз телефон ё планшети худ ба даст оред
+firefoxview-mobile-promo-description = Барои дидани варақаҳои охирин аз телефони мобилии худ, дар iOS ё Android ба { -brand-product-name } ворид шавед.
+firefoxview-mobile-promo-primarybutton = Браузери «{ -brand-product-name }»-ро дар телефони мобилии худ насб кунед
+firefoxview-mobile-confirmation-header = 🎉 Ҳамааш тайёр аст!
+firefoxview-mobile-confirmation-description = Акнун шумо метавонед варақаҳои худро дар браузери «{ -brand-product-name }» аз телефон ё планшети худ ба даст оред.
 firefoxview-closed-tabs-title = Пӯшидашудаи охирин
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Фаъолонаи охирин
