@@ -118,6 +118,22 @@ main-context-menu-bookmark-change-with-shortcut =
     .aria-label = Rediger dette bokmerket
     .accesskey = m
     .tooltiptext = Rediger dette bokmerket ({ $shortcut })
+main-context-menu-bookmark-page =
+    .aria-label = Bokmerk side…
+    .accesskey = m
+    .tooltiptext = Bokmerk side
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-page-mac =
+    .label = Bokmerk side …
+    .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
+# so should probably have the same access key if possible.
+main-context-menu-edit-bookmark-mac =
+    .label = Rediger bokmerke…
+    .accesskey = m
 main-context-menu-open-link =
     .label = Opne lenke
     .accesskey = O
