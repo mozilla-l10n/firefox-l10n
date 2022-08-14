@@ -38,11 +38,9 @@ menu-quit =
             [windows] K
            *[other] K
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Kilépés a { -brand-shorter-name }ból
-
 menu-about =
     .label = A { -brand-shorter-name } névjegye
     .accesskey = A
@@ -225,6 +223,10 @@ menu-bookmark-current-tab =
     .label = Jelenlegi lap könyvjelzőzése
 menu-bookmark-edit =
     .label = Könyvjelző szerkesztése
+menu-bookmark-tab =
+    .label = Jelenlegi lap könyvjelzőzése…
+menu-edit-bookmark =
+    .label = Könyvjelző szerkesztése…
 menu-bookmarks-all-tabs =
     .label = Minden lap egy könyvjelzőbe…
 menu-bookmarks-toolbar =
