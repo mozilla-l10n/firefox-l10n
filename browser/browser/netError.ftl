@@ -4,3 +4,4 @@
 
 dns-not-found-title = ไม่พบเซิร์ฟเวอร์
 dns-not-found-hint-try-again = ลองอีกครั้งในภายหลัง
+dns-not-found-hint-check-network = ตรวจสอบการเชื่อมต่อเครือข่ายของคุณ
