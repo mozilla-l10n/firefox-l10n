@@ -38,3 +38,23 @@ firefoxview-tabpickup-network-offline-header = Sjekk internettilkoplinga di
 firefoxview-tabpickup-network-offline-description = Dersom du brukar ein brannmur eller proxy, sjekk at { -brand-short-name } har tilgangsløyve til nettet.
 firefoxview-tabpickup-network-offline-primarybutton = Prøv igjen
 firefoxview-tabpickup-sync-error-header = Vi har problem med å synkronisere
+firefoxview-tabpickup-sync-error-description = { -brand-short-name } kan ikkje nå tenesta akkurat no. Prøv igjen litt seinare.
+firefoxview-tabpickup-sync-error-primarybutton = Prøv igjen
+firefoxview-tabpickup-syncing = Vi synkroniserer fanene dine, det tek berre ein augneblink.
+firefoxview-mobile-promo-header = Opne faner frå telefonen eller nettbrettet
+firefoxview-mobile-promo-description = For å sjå dei siste mobilfanene dine, logg på { -brand-product-name } på iOS eller Android.
+firefoxview-mobile-promo-primarybutton = Få { -brand-product-name } for mobil
+firefoxview-mobile-confirmation-header = 🎉 Alt klart!
+firefoxview-mobile-confirmation-description = No kan du hente { -brand-product-name }-fanene frå nettbrettet eller telefonen.
+firefoxview-closed-tabs-title = Nyleg attlatne
+firefoxview-closed-tabs-collapse-button =
+    .title = Vis eller skjul liste over nylege attletne faner
+firefoxview-closed-tabs-description = Opne sider du har late att, på denne eininga, på nytt.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Sist aktiv
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Opne { $targetURI } i ei ny fane
+firefoxview-try-colorways-button = Prøv fargesamansetjingar
+firefoxview-no-current-colorway-collection = Nye fargesamansetjingar er på veg
