@@ -120,14 +120,14 @@ main-context-menu-bookmark-change-with-shortcut =
     .tooltiptext = Umožní upraviť túto záložku ({ $shortcut })
 main-context-menu-bookmark-page =
     .aria-label = Pridať stránku medzi záložky…
-    .accesskey = r
+    .accesskey = m
     .tooltiptext = Pridať stránku medzi záložky
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-page-mac =
     .label = Pridať stránku medzi záložky…
-    .accesskey = r
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
 # so should probably have the same access key if possible.
