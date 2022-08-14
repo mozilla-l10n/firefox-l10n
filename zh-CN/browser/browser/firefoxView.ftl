@@ -50,7 +50,7 @@ firefoxview-closed-tabs-title = 最近关闭
 firefoxview-closed-tabs-collapse-button =
     .title = 显示或隐藏最近关闭的标签页列表
 firefoxview-closed-tabs-description = 再次打开您在此设备上关闭的页面。
-firefoxview-closed-tabs-placeholder = <strong>没有最近关闭的页面</strong><br/>无需再担心误关标签页，您可随时在此处找回。
+firefoxview-closed-tabs-placeholder = <strong>没有最近关闭的页面</strong><br/>无惧误关标签页，您可随时在此处找回。
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = 最后浏览
 # Variables:
@@ -64,3 +64,4 @@ firefoxview-change-colorway-button = 更改配色
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>空空如也</strong><br/>下次您在其他设备上的 { -brand-product-name } 打开页面时，将可在此看到同步内容。
