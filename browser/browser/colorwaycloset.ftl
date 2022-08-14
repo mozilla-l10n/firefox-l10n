@@ -14,5 +14,7 @@ colorway-intensity-bold = Halvfeit
 # Label for the button to keep using the selected colorway in the browser
 colorway-closet-set-colorway-button = Vel fargesamansetjing
 colorway-closet-cancel-button = Avbryt
+colorway-homepage-reset-prompt = Gjer { -firefox-home-brand-name } til di fargerike startside
+colorway-homepage-reset-success-message = { -firefox-home-brand-name } er no startsida di
 colorway-homepage-reset-apply-button = Bruk
 colorway-homepage-reset-undo-button = Angre
