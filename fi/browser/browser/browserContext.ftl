@@ -134,6 +134,22 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Muokkaa kirjanmerkkiä…
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = Lisää sivu kirjanmerkkeihin…
+    .accesskey = L
+    .tooltiptext = Lisää sivu kirjanmerkkeihin ({ $shortcut })
+main-context-menu-edit-bookmark =
+    .aria-label = Muokkaa kirjanmerkkiä…
+    .accesskey = m
+    .tooltiptext = Muokkaa kirjanmerkkiä
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = Muokkaa kirjanmerkkiä…
+    .accesskey = m
+    .tooltiptext = Muokkaa kirjanmerkkiä ({ $shortcut })
 main-context-menu-open-link =
     .label = Avaa
     .accesskey = A
@@ -152,6 +168,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-link =
     .label = Lisää linkki kirjanmerkkeihin
     .accesskey = L
+main-context-menu-bookmark-link-2 =
+    .label = Lisää linkki kirjanmerkkeihin…
+    .accesskey = k
 main-context-menu-save-link =
     .label = Tallenna kohde levylle…
     .accesskey = T
@@ -344,6 +363,9 @@ main-context-menu-frame-reload =
 main-context-menu-frame-bookmark =
     .label = Lisää kehyssivu kirjanmerkkeihin
     .accesskey = A
+main-context-menu-frame-add-bookmark =
+    .label = Lisää kehys kirjanmerkkeihin…
+    .accesskey = L
 main-context-menu-frame-save-as =
     .label = Tallenna kehys nimellä…
     .accesskey = T

@@ -14,11 +14,15 @@ firefoxview-close-button =
     .aria-label = Sulje
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Juuri nyt
+# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
+firefoxview-tabpickup-header = Välilehden valinta
 firefoxview-tabpickup-description = Avaa sivuja muilta laitteilta.
+firefoxview-tabpickup-recenttabs-description = Viimeaikaiset välilehdet ilmestyvät tänne
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue } % valmiina
 firefoxview-tabpickup-step-signin-header = Vaihda saumattomasti laitteiden välillä
+firefoxview-tabpickup-step-signin-description = Noutaaksesi puhelimen välilehdet tänne, kirjaudu ensin sisään tai luo tili.
 firefoxview-tabpickup-step-signin-primarybutton = Jatka
 firefoxview-tabpickup-adddevice-learn-how = Lue lisää
 firefoxview-tabpickup-adddevice-primarybutton = Hanki { -brand-product-name } mobiililaitteelle
@@ -37,6 +41,7 @@ firefoxview-mobile-promo-header = Nappaa välilehtiä puhelimestasi tai tabletis
 firefoxview-mobile-promo-primarybutton = Hanki { -brand-product-name } mobiililaitteelle
 firefoxview-mobile-confirmation-header = 🎉 Kaikki valmista!
 firefoxview-closed-tabs-title = Viimeksi suljetut
+firefoxview-closed-tabs-placeholder = <strong>Ei äskettäin suljettuja sivuja</strong><br/>Älä pelkää suljetun välilehden menettämistä. Voit palauttaa sen täältä.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Viimeksi aktiivinen
 # Variables:
@@ -50,3 +55,4 @@ firefoxview-change-colorway-button = Vaihda väriteemaa
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Ei vielä mitään nähtävää</strong><br/>Kun seuraavan kerran avaat sivun { -brand-product-name }issa toisella laitteella, löydä se täältä.
