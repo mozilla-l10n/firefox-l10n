@@ -14,5 +14,7 @@ colorway-intensity-bold = Rohkea
 # Label for the button to keep using the selected colorway in the browser
 colorway-closet-set-colorway-button = Aseta väriteema
 colorway-closet-cancel-button = Peruuta
+colorway-homepage-reset-prompt = Tee { -firefox-home-brand-name }ista värikäs kotisivusi
+colorway-homepage-reset-success-message = { -firefox-home-brand-name } on nyt kotisivusi
 colorway-homepage-reset-apply-button = Käytä
 colorway-homepage-reset-undo-button = Kumoa

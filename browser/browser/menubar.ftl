@@ -38,11 +38,9 @@ menu-quit =
             [windows] S
            *[other] S
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Sulje { -brand-shorter-name }
-
 menu-about =
     .label = Tietoja: { -brand-shorter-name }
     .accesskey = T
@@ -224,6 +222,10 @@ menu-bookmark-current-tab =
     .label = Lisää nykyinen välilehti kirjanmerkkeihin
 menu-bookmark-edit =
     .label = Muokkaa kirjanmerkkiä
+menu-bookmark-tab =
+    .label = Lisää nykyinen välilehti kirjanmerkkeihin…
+menu-edit-bookmark =
+    .label = Muokkaa kirjanmerkkiä…
 menu-bookmarks-all-tabs =
     .label = Lisää kaikki välilehdet kirjanmerkkeihin…
 menu-bookmarks-toolbar =
