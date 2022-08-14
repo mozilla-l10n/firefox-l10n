@@ -105,3 +105,8 @@ vcard-org-add = Pridať pozíciu vo firme
 vcard-org-title = Titul
 vcard-org-role = Funkcia
 vcard-org-org = Organizácia
+
+# Custom properties
+
+vcard-custom-header = Vlastné údaje
+vcard-custom-add = Pridať vlastné údaje
