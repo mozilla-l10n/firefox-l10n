@@ -699,6 +699,8 @@ bookmarks-tools =
     .label = Laster-marken tresnak
 bookmarks-bookmark-edit-panel =
     .label = Editatu laster-marka
+bookmarks-subview-edit-bookmark =
+    .label = Editatu laster-marka hau…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -715,6 +717,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Egin uneko fitxaren laster-marka
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Egin uneko fitxaren laster-marka…
 
 ## Library Panel items
 
