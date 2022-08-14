@@ -69,6 +69,7 @@ policy-ExtensionUpdate = Emed neɣ sens alqem awurman n iseɣzaf.
 policy-FirefoxHome = Swel asebter agejdan n Firefox.
 policy-FirefoxHome2 = Sbadu { -firefox-home-brand-name }.
 policy-FlashPlugin = Sireg neɣ gdel asemres n uzegrir Flash.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Ḥettem srid tunigin deg usmel intranet deg wadeg n unadi n usekcem n wawal asuf ma tettaruḍ deg ufeggag n tansiwin.
 policy-Handlers = Swel imsefrak n usnas s wuem amezwer.
 policy-HardwareAcceleration = Ma ur yelli d ameɣtu, sens tasɣiwelt n warrum.
 # “lock” means that the user won’t be able to change this setting
