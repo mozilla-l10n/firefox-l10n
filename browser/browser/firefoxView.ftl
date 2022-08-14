@@ -22,7 +22,7 @@ firefoxview-tabpickup-recenttabs-description = Die Liste der kürzlich verwendet
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue } % abgeschlossen
 firefoxview-tabpickup-step-signin-header = Nahtlos zwischen Geräten wechseln
-firefoxview-tabpickup-step-signin-description = Um Ihre Tabs vom Telefon hier abzurufen, melden Sie sich zuerst an, oder erstellen Sie ein Konto.
+firefoxview-tabpickup-step-signin-description = Um Ihre Tabs vom Telefon hier abzurufen, melden Sie sich zuerst an oder erstellen Sie ein Konto.
 firefoxview-tabpickup-step-signin-primarybutton = Weiter
 firefoxview-tabpickup-adddevice-header = Synchronisieren Sie { -brand-product-name } auf Ihrem Telefon oder Tablet
 firefoxview-tabpickup-adddevice-description = Laden Sie { -brand-product-name } für Mobilgeräte herunter und melden Sie sich dort an.
@@ -64,4 +64,4 @@ firefoxview-change-colorway-button = Farbwelt ändern
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder = <strong>Noch nichts zu sehen</strong><br/>Beim nächsten Öffnen einer Seite in { -brand-product-name } auf einem anderen Gerät, greifen Sie hier wie von Zauberhand darauf zu.
+firefoxview-synced-tabs-placeholder = <strong>Noch nichts zu sehen</strong><br/>Beim nächsten Öffnen einer Seite in { -brand-product-name } auf einem anderen Gerät erscheint diese hier wie von Zauberhand und kann auch auf diesem Gerät geöffnet werden.
