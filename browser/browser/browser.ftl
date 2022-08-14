@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Administri etendaĵon…
 page-action-remove-extension =
     .label = Forigi etendaĵon
+page-action-manage-extension2 =
+    .label = Administri etendaĵon…
+    .accesskey = A
+page-action-remove-extension2 =
+    .label = Forigi etendaĵon
+    .accesskey = f
 
 ## Auto-hide Context Menu
 
@@ -262,16 +268,50 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Viŝi historion
-quickactions-print = Presi
-quickactions-screenshot = Fari ekrankopion
-quickactions-settings = Malfermi agordojn
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page
+quickactions-addons = Vidi aldonaĵojn
+quickactions-cmd-addons = aldonaĵoj, etendaĵoj, etosoj
+# Opens the bookmarks library window
+quickactions-bookmarks = Vidi legosignojn
+quickactions-cmd-bookmarks = legosignojn
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Viŝi historion
+quickactions-cmd-clearhistory = viŝi historion
+# Opens about:downloads page
 quickactions-downloads = Malfermi elŝutojn
-quickactions-viewsource = Montri fonton
+quickactions-cmd-downloads = elŝutojn
+# Opens the devtools web inspector
 quickactions-inspector = Malfermi la inspektilon
+quickactions-cmd-inspector = inspektilo, iloj por programistoj
+# Opens about:logins
+quickactions-logins = Vidi legitimilojn
+quickactions-cmd-logins = legitimiloj, pasvortoj
+# Opens the print dialog
+quickactions-print = Presi
+quickactions-cmd-print = presi
+# Opens a new private browsing window
+quickactions-private = Malfermi fenestron de privata retumo
+quickactions-cmd-private = privata retumo
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Refreŝigi { -brand-short-name }
+quickactions-cmd-refresh = aktualigi
+# Restarts the browser
 quickactions-restart = Restartigi { -brand-short-name }
+quickactions-cmd-restart = restartigi
+# Opens the screenshot tool
+quickactions-screenshot2 = Fari ekrankopion
+quickactions-cmd-screenshot = ekrankopio
+# Opens about:preferences
+quickactions-settings = Malfermi agordojn
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Ĝisdatigi { -brand-short-name }
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Montri fonton
 
 ## Bookmark Panel
 
@@ -843,3 +883,6 @@ data-reporting-notification-button =
     .accesskey = E
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privata retumo
+
+## Unified extensions (toolbar) button
+
