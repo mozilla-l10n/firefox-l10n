@@ -47,6 +47,10 @@ firefoxview-mobile-promo-primarybutton = Браузери «{ -brand-product-nam
 firefoxview-mobile-confirmation-header = 🎉 Ҳамааш тайёр аст!
 firefoxview-mobile-confirmation-description = Акнун шумо метавонед варақаҳои худро дар браузери «{ -brand-product-name }» аз телефон ё планшети худ ба даст оред.
 firefoxview-closed-tabs-title = Пӯшидашудаи охирин
+firefoxview-closed-tabs-collapse-button =
+    .title = Намоиш додан ё пинҳон кардани рӯйхати варақаҳои ба наздикӣ пӯшидашуда
+firefoxview-closed-tabs-description = Аз нав кушодани ҳамаи варақаҳое, ки шумо дар ин дастгоҳ маҳкам кардед.
+firefoxview-closed-tabs-placeholder = <strong>Ягон саҳифаи ба наздикӣ пӯшидашуда нест</strong><br/>Хавотир нашавед, ки шумо варақаи пӯшидашударро боз гум мекунед. Шумо ҳамеша метавонед онро дар ин ҷо барқарор кунед.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Фаъолонаи охирин
 # Variables:
@@ -60,3 +64,4 @@ firefoxview-change-colorway-button = Иваз кардани нақшу ниго
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>То ҳол ягон чиз нест</strong><br/>Дар оянда, вақте ки шумо саҳифаеро дар «{ -brand-product-name }» тавассути дастгоҳи дигар мекушоед, он саҳифа дар ин ҷо ҷодугарона пайдо мешавад.
