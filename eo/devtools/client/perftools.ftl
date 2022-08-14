@@ -133,6 +133,9 @@ perftools-presets-media-label = Aŭdvidaĵo
 perftools-presets-media-description2 = Rekomendita agordaro por senerarigo de sono kaj video en { -brand-shorter-name }.
 perftools-presets-networking-label = Reto
 perftools-presets-networking-description = Rekomendita agordaro por esploro de retaj eraroj en { -brand-shorter-name }.
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Energio
+perftools-presets-power-description = Agordoj por senerarigo de uzo de energio en { -brand-shorter-name }, kun malmulte da aldona kromprocezado.
 perftools-presets-custom-label = Personecigita
 
 ##
