@@ -105,3 +105,8 @@ vcard-org-add = Lägg till organisatoriska egenskaper
 vcard-org-title = Titel
 vcard-org-role = Roll
 vcard-org-org = Organisation
+
+# Custom properties
+
+vcard-custom-header = Anpassade egenskaper
+vcard-custom-add = Lägg till anpassade egenskaper
