@@ -22,12 +22,10 @@ about-private-browsing-not-private = ᱟᱢ ᱫᱚ ᱱᱤᱛᱚᱜ ᱢᱤᱫ ᱱ
 about-private-browsing-info-description-private-window = ᱱᱤᱥᱚᱱ ᱡᱷᱚᱨᱠᱟ : { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ ᱠᱚ ᱢᱮᱴᱟᱣ ᱟᱭ ᱵᱚᱸᱫ ᱡᱷᱚᱜ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱩᱠᱩ ᱨᱮ ᱵᱟᱝ ᱫᱚᱦᱚᱭ ᱢᱮᱭᱟᱭ ᱾
 about-private-browsing-info-description-simplified = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ ᱠᱚ ᱢᱮᱴᱟᱣ ᱟᱭ ᱵᱚᱸᱫ ᱡᱷᱚᱜ, ᱢᱮᱱᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱫᱚ ᱩᱠᱩ ᱨᱮ ᱵᱟᱝ ᱫᱚᱦᱚᱭ ᱢᱮᱭᱟᱭ ᱾
 about-private-browsing-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-
 about-private-browsing-hide-activity = ᱟᱢᱟᱜ ᱠᱟᱹᱢᱤ ᱠᱚ ᱟᱨ ᱡᱟᱭᱜᱟ, ᱡᱷᱚᱛᱚᱡᱟᱭᱜᱟ ᱨᱮ ᱵᱨᱟᱡᱽ ᱠᱚ ᱩᱠᱩᱭ ᱢᱮ
 about-private-browsing-get-privacy = ᱟᱢ ᱡᱷᱚᱛᱚ ᱡᱟᱭᱜᱟ ᱨᱮ ᱵᱽᱨᱟᱩᱡᱽ ᱨᱮᱭᱟᱜ ᱱᱤᱥᱚᱱ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱧᱟᱢ ᱢᱮ
 about-private-browsing-hide-activity-1 = ᱵᱽᱨᱟᱩᱡᱤᱝ ᱠᱟᱹᱢᱤ ᱟᱨ ᱡᱟᱭᱜᱟ ᱫᱚ { -mozilla-vpn-brand-name } ᱛᱮ ᱩᱠᱩᱭ ᱢᱮ ᱾ ᱢᱤᱫ ᱚᱛᱟ ᱨᱮ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱡᱩᱲᱟᱣ ᱛᱮᱭᱟᱨ ᱟᱭ, ᱥᱟᱱᱟᱢ Wi-Fi ᱨᱮ ᱦᱚᱸ ᱠᱟᱹᱢᱤᱟᱭ ᱾
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ᱥᱟᱶ ᱩᱠᱩ ᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱢᱮ
-
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ᱰᱟᱩᱱᱞᱚᱰ ᱢᱮ
 about-private-browsing-focus-promo-header = { -focus-brand-name }: ᱢᱤᱫ ᱡᱮᱠᱷᱟ ᱛᱮ ᱱᱤᱡᱚᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
 about-private-browsing-focus-promo-text = ᱡᱷᱚᱛᱚ ᱚᱠᱛᱚ ᱨᱮ ᱜᱮ ᱟᱞᱮᱭᱟᱜ ᱱᱤᱡᱚᱨᱟᱜ ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱢᱚᱵᱟᱭᱤᱞ ᱮᱯ ᱜᱷᱤᱲ ᱜᱮ ᱟᱹᱵᱤᱱᱟᱜ ᱦᱤᱛᱟᱹᱞ ᱟᱨ ᱠᱩᱠᱤᱡᱽ ᱠᱚ ᱢᱮᱴᱟᱣᱟᱭ ᱾
@@ -46,6 +44,9 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
-
 about-private-browsing-promo-close-button =
     .title = ᱵᱚᱸᱫᱽ
+
+## Strings used in a “pin promotion” message, which prompts users to pin a private window
+
+about-private-browsing-pin-promo-header = ᱢᱤᱫ ᱚᱛᱟ ᱨᱮ ᱱᱤᱡᱚᱨᱟᱜ ᱯᱨᱟᱭᱤᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱯᱷᱨᱤᱰᱚᱢ
