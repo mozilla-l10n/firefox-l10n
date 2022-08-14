@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Teljes képernyős mód
+    .title = Teljes képernyős mód (dupla kattintás)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Kilépés a teljes képernyős módból
+    .title = Kilépés a teljes képernyős módból (dupla kattintás)
 pictureinpicture-subtitles-label = Feliratok
 pictureinpicture-font-size-label = Betűméret
 pictureinpicture-font-size-small = Kicsi
