@@ -280,11 +280,17 @@ theme-disabled-heading = Malaktiva
 theme-disabled-heading2 = Konservitaj etosoj
 theme-monochromatic-heading = Koloraroj
 theme-monochromatic-subheading = Vibraj, novaj koloraroj de { -brand-product-name }. Disponeblaj dum limigita tempo.
+# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Provu koloraron
 colorway-collection-independent-voices-subheading = Igu { -brand-short-name } simili iom pli al vi.
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires.
 colorway-collection-expiry-date-span = Senvalidiĝo je { DATETIME($expiryDate, month: "long", day: "numeric") }
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Ŝanĝi koloraron
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+colorway-collection-expiry-label = Senvalidiĝo je { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Aktiva
 plugin-disabled-heading = Malaktiva
 dictionary-enabled-heading = Aktiva
