@@ -490,6 +490,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Eka paĝo de Firefox (norma)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (Norma)
 home-mode-choice-custom =
     .label = Personecigitaj URL…
 home-mode-choice-blank =
@@ -515,6 +517,8 @@ choose-bookmark =
 
 home-prefs-content-header = Enhavo de la hejmekrano de Firefox
 home-prefs-content-description = Elektu la enhavon, kiun vi volas en via hejmekrano de Firefox.
+home-prefs-content-header2 = { -firefox-home-brand-name } Enhavo
+home-prefs-content-description2 = Elektu la enhavon, kiun vi volas en { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Serĉo en la reto
 home-prefs-shortcuts-header =
@@ -535,6 +539,8 @@ home-prefs-recommended-by-description-new = Eksterordinara  enhavo reviziita de 
 home-prefs-recommended-by-learn-more = Kiel funkcias tio
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Patronitaj artikoloj
+home-prefs-recommended-by-option-recent-saves =
+    .label = Montri ĵusajn konservojn
 home-prefs-highlights-option-visited-pages =
     .label = Vizititaj paĝoj
 home-prefs-highlights-options-bookmarks =

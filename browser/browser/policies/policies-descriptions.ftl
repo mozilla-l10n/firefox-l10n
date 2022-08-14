@@ -67,6 +67,7 @@ policy-Extensions = Instali, malinstali aŭ ŝlosi etendaĵojn. La elekteblo "in
 policy-ExtensionSettings = Administri ĉiujn agordojn por instalo de etendaĵoj.
 policy-ExtensionUpdate = Aktivigi aŭ malaktivigi aŭtomatan ĝisdatigon de etendaĵoj.
 policy-FirefoxHome = Agordi la ekan paĝon de Firefox.
+policy-FirefoxHome2 = Agordi { -firefox-home-brand-name }.
 policy-FlashPlugin = Permesi aŭ malpermesi la uzon de la kromprogramo Flash.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Kiam izolitaj vortoj estas tajpitaj en la adresa strio, devige iri al intraneta retejo anstataŭ serĉi.
 policy-Handlers = Agordi la normajn programajn traktilojn.
