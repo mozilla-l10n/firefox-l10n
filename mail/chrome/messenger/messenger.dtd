@@ -316,7 +316,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Nettprat">
 <!ENTITY goChatCmd.accesskey "e">
-<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Melding med stjerne">
 <!ENTITY prevStarredMsgCmd.accesskey "M">
 <!ENTITY folderMenu.label "Mappe">
@@ -487,7 +486,7 @@
 <!ENTITY importCmd.label "Importer …">
 <!ENTITY importCmd.accesskey "m">
 <!ENTITY exportCmd.label "Eksporter…">
-<!ENTITY exportCmd.accesskey "x">
+<!ENTITY exportCmd.accesskey "k">
 <!ENTITY clearRecentHistory.label "Slett nyleg historikk…">
 <!ENTITY clearRecentHistory.accesskey "n">
 <!ENTITY accountManagerCmd2.label "Kontoinnstillingar">
