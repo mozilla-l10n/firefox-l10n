@@ -50,6 +50,7 @@ firefoxview-closed-tabs-title = Nýlega lokað
 firefoxview-closed-tabs-collapse-button =
     .title = Birta eða fela lista yfir nýlega lokaða flipa
 firefoxview-closed-tabs-description = Opnaðu aftur síður sem þú hefur lokað á þessu tæki.
+firefoxview-closed-tabs-placeholder = <strong>Engar nýlega lokaðar síður</strong><br/>Ekki hræðast að tapa lokuðum flipum. Þú getur alltaf sótt þá hér.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Síðasta virkni
 # Variables:
@@ -63,3 +64,4 @@ firefoxview-change-colorway-button = Breyta litasetti
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Ekkert að sjá hér ennþá</strong><br/>Næst þegar þú opnar síðu í { -brand-product-name } í öðru tæki skaltu grípa hana hér eins og fyrir töfra.
