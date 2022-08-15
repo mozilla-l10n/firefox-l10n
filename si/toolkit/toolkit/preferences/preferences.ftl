@@ -4,8 +4,8 @@
 
 password-not-set =
     .value = (සකසා නැත)
-pw-change-success-title = රහස්පදය වෙනස් කිරීම සාර්ථකයි
-pw-change-failed-title = රහස්පදය වෙනස් කිරීම අසාර්ථකයි
+pw-change-success-title = මුරපදය වෙනස් කිරීම සාර්ථකයි
+pw-change-failed-title = මුරපදය වෙනස් කිරීමට අසමත් විය
 pw-remove-button =
     .label = ඉවත් කරන්න
 set-password-old-password = වත්මන් මුරපදය:
