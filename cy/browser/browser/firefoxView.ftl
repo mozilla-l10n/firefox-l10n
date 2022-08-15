@@ -20,7 +20,7 @@ firefoxview-tabpickup-description = Agor tudalennau o ddyfeisiau eraill.
 firefoxview-tabpickup-recenttabs-description = Byddai rhestr tabiau diweddar yn mynd yma
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentComplete }% wedi'i gwblhau
+firefoxview-tabpickup-progress-label = { $percentValue }% wedi'i gwblhau
 firefoxview-tabpickup-step-signin-header = Symud yn rhwydd rhwng dyfeisiau
 firefoxview-tabpickup-step-signin-description = I ddefnyddio'ch tabiau ffôn yma, mewngofnodwch yn gyntaf neu greu cyfrif.
 firefoxview-tabpickup-step-signin-primarybutton = Parhau
