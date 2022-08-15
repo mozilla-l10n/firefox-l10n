@@ -137,6 +137,8 @@ perftools-presets-media-label = Multimédia
 perftools-presets-media-description2 = Réglage conçu pour examiner les bugs audio et vidéo dans { -brand-shorter-name }.
 perftools-presets-networking-label = Réseau
 perftools-presets-networking-description = Réglage conçu pour examiner les bugs réseau dans { -brand-shorter-name }.
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Énergie
 perftools-presets-custom-label = Personnalisé
 
 ##

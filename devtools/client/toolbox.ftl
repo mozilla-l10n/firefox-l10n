@@ -33,5 +33,8 @@ toolbox-meatball-menu-pseudo-locale-bidi = Activer la langue « bidi »
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
 toolbox-mode-everything-label = Multiprocessus
+toolbox-mode-everything-sub-label = (Plus lent)
+toolbox-mode-everything-container =
+    .title = Tout déboguer dans tous les processus
 toolbox-mode-parent-process-label = Processus parent uniquement
 toolbox-mode-parent-process-sub-label = (Rapide)
