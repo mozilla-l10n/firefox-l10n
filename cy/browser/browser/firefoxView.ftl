@@ -31,3 +31,37 @@ firefoxview-tabpickup-adddevice-primarybutton = Cael { -brand-product-name } ar 
 firefoxview-tabpickup-synctabs-header = Cychwyn cydweddu tabiau
 firefoxview-tabpickup-synctabs-description = Caniatáu i { -brand-short-name } rannu tabiau rhwng dyfeisiau.
 firefoxview-tabpickup-synctabs-learn-how = Sut mae gwneud
+firefoxview-tabpickup-synctabs-primarybutton = Cydweddu tabiau agored
+firefoxview-tabpickup-fxa-admin-disabled-header = Mae eich sefydliad wedi analluogi cydweddu
+firefoxview-tabpickup-fxa-admin-disabled-description = Nid yw { -brand-short-name } yn gallu cydweddu tabiau rhwng dyfeisiau oherwydd bod eich gweinyddwr wedi analluogi cydweddu.
+firefoxview-tabpickup-network-offline-header = Gwiriwch eich cysylltiad rhwydwaith
+firefoxview-tabpickup-network-offline-description = Os ydych yn defnyddio mur cadarn neu ddirprwy, gwiriwch fod gan { -brand-short-name } ganiatâd i gael mynediad i'r we.
+firefoxview-tabpickup-network-offline-primarybutton = Ceisiwch eto
+firefoxview-tabpickup-sync-error-header = Rydyn ni'n cael trafferth cydweddu
+firefoxview-tabpickup-sync-error-description = Nid yw { -brand-short-name } yn gallu cyrraedd y gwasanaeth ar hyn o bryd. Ceisiwch eto mewn ychydig eiliadau.
+firefoxview-tabpickup-sync-error-primarybutton = Ceisiwch eto
+firefoxview-tabpickup-syncing = Arhoswch tra bod eich tabiau'n cydweddu. Fydd hi ddim yn hir.
+firefoxview-mobile-promo-header = Cydiwch mewn tabiau o'ch ffôn neu dabled
+firefoxview-mobile-promo-description = I weld eich tabiau symudol diweddaraf, mewngofnodwch i { -brand-product-name } ar iOS neu Android.
+firefoxview-mobile-promo-primarybutton = Cael { -brand-product-name } ar gyfer symudol
+firefoxview-mobile-confirmation-header = Barod i fynd!
+firefoxview-mobile-confirmation-description = Nawr gallwch chi gydio ar eich tabiau { -brand-product-name } o'ch tabled neu ffôn.
+firefoxview-closed-tabs-title = Caewyd yn ddiweddar
+firefoxview-closed-tabs-collapse-button =
+    .title = Dangos neu guddio rhestr tabiau a gaewyd yn ddiweddar
+firefoxview-closed-tabs-description = Ailagor tudalennau rydych chi wedi'u cau ar y ddyfais hon.
+firefoxview-closed-tabs-placeholder = <strong>Dim tudalennau sydd wedi cau yn ddiweddar</strong><br/>Peidiwch byth ag ofni colli tab wedi ei gau eto. Gallwch chi bob amser ei adfer yma.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Gweithgaredd diwethaf
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Agor { $targetURI } mewn tab newydd
+firefoxview-try-colorways-button = Rhowch gynnig ar lwybrau lliw
+firefoxview-no-current-colorway-collection = Mae llwybrau lliw newydd ar y ffordd
+firefoxview-change-colorway-button = Newid y llwybr lliw
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Dim byd yma eto</strong><br/>Y tro nesaf y byddwch yn agor tudalen yn { -brand-product-name } ar ddyfais arall, cydiwch arno'n hudol.
