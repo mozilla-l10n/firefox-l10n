@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Gosod Nod Tudalen i'r Tab
     .accesskey = N
+tab-context-bookmark-tab =
+    .label = Gosod Nod Tudalen i'r Tab
+    .accesskey = T
 tab-context-open-in-new-container-tab =
     .label = Agor Dolen mewn Tab Cynhwysydd Newydd
     .accesskey = A
@@ -115,7 +118,6 @@ tab-context-move-tabs =
            *[other] Symud Tab
         }
     .accesskey = S
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
