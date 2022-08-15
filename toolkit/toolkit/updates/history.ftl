@@ -6,7 +6,7 @@ history-title = යාවත්කාල ඉතිහාසය
 history-intro = පහත යාවත්කාල ස්ථාපනය කර ඇත
 close-button-label =
     .buttonlabelcancel = වසන්න
-    .title = යාවත්කාල කිරීම්හී අතීතයන්
+    .title = යාවත්කාල ඉතිහාසය
 no-updates-label = තවම යාවත්කාල ස්ථාපනය කර නැත
 type-header = වර්ගය
 # Used to display update history
