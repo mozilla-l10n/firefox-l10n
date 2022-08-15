@@ -267,6 +267,9 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page
+quickactions-addons = Vis tilføjelser
+quickactions-cmd-addons = tilføjelser, udvidelser, temaer
 # Opens the bookmarks library window
 quickactions-bookmarks = Vis bogmærker
 quickactions-cmd-bookmarks = bogmærker
@@ -275,6 +278,12 @@ quickactions-clearhistory = Ryd historik
 quickactions-cmd-clearhistory = ryd historik
 # Opens about:downloads page
 quickactions-downloads = Åbn Filhentninger
+# Opens the devtools web inspector
+quickactions-inspector = Åbn Inspektør
+quickactions-cmd-inspector = inspektør, udviklerværktøj
+# Opens about:logins
+quickactions-logins = Vis logins
+quickactions-cmd-logins = logins, adgangskoder
 # Opens the print dialog
 quickactions-print = Udskriv
 quickactions-cmd-print = udskriv
