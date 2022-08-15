@@ -9,10 +9,8 @@ findbar-next =
     .tooltiptext = මේ වාක්‍ය ඛණ්ඩය මීළඟට යෙදෙන ස්ථානය සොයන්න
 findbar-previous =
     .tooltiptext = මේ වාක්‍ය ඛණ්ඩය මීට පෙර යෙදුණු ස්ථානය සොයන්න
-
 findbar-find-button-close =
     .tooltiptext = සෙවීම් තීරුව වසන්න
-
 findbar-highlight-all2 =
     .label = සියල්ල උද්දීපනය
     .accesskey =
@@ -21,13 +19,11 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = වාක්‍යාංශයේ සියළු අවස්ථාවන් උද්දීපනය
-
 findbar-case-sensitive =
-    .label = අක්ෂර ගැලපුම
+    .label = අකුරු ගැළපුම
     .accesskey = c
-    .tooltiptext = අක්ශර සංවේදීව සොයන්න
-
+    .tooltiptext = අකුරු දෝෂ ද සොයන්න
 findbar-entire-word =
-    .label = මුළු වචනයම
+    .label = සමස්ත වචන
     .accesskey = w
-    .tooltiptext = සම්පූර්ණ වචනය පමණක් සොයන්න
+    .tooltiptext = සම්පූර්ණ වචන පමණක් සොයන්න
