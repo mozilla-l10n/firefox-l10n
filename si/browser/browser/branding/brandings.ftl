@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-## The following feature names must be treated as a brand, and kept in English.
-## They cannot be:
-## - Declined to adapt to grammatical case.
-## - Transliterated.
-## - Translated.
 
 ## The following feature names must be treated as a brand.
 ##
@@ -28,14 +23,8 @@
 -pocket-brand-name = Pocket
 -send-brand-name = Firefox Send
 -screenshots-brand-name = Firefox Screenshots
--mozilla-vpn-brand-name = Mozilla VPN
+-mozilla-vpn-brand-name = මොසිල්ලා වීපීඑන්
 -profiler-brand-name = Firefox Profiler
 -translations-brand-name = Firefox Translations
-
-
--rally-brand-name = Mozilla Rally
--rally-short-name = Rally
-
-
--focus-brand-name = Firefox Focus
-
+-rally-brand-name = මොසිල්ලා රැලි
+-focus-brand-name = ෆයර්ෆෝක්ස් ෆෝකස්
