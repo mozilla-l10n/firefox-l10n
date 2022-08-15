@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Marcar pestaña
     .accesskey = B
+tab-context-bookmark-tab =
+    .label = Marcar pestaña…
+    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = Abrir en una nueva pestaña contenedora
     .accesskey = e
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Mover pestañas
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
