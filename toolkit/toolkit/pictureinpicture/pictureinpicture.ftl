@@ -6,9 +6,14 @@ pictureinpicture-pause =
     .aria-label = විරාමය
 pictureinpicture-play =
     .aria-label = වාදනය
-
 pictureinpicture-mute =
-    .aria-label = නිහඬ කරන්න
+    .aria-label = නිහඬ
 pictureinpicture-unmute =
-    .aria-label = නිහඬ නොකරන්න
+    .aria-label = නොනිහඬ
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
+##
 
