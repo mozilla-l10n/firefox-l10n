@@ -105,3 +105,8 @@ vcard-org-add = Ychwanegu adeiladau sefydliadol
 vcard-org-title = Teitl
 vcard-org-role = Rôl
 vcard-org-org = Corff
+
+# Custom properties
+
+vcard-custom-header = Priodweddau Cyfaddas
+vcard-custom-add = Ychwanegu priodweddau cyfaddas
