@@ -301,11 +301,13 @@ quickactions-screenshot2 = Tag et skærmbillede
 quickactions-cmd-screenshot = skærmbillede
 # Opens about:preferences
 quickactions-settings = Åbn Indstillinger
+quickactions-cmd-settings = indstillinger
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Opdater { -brand-short-name }
 quickactions-cmd-update = opdater
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Vis kildekode
+quickactions-cmd-viewsource = vis kildekode, kildekode
 
 ## Bookmark Panel
 
@@ -601,6 +603,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Søg i bogmærker
 urlbar-result-action-search-history = Søg i historik
 urlbar-result-action-search-tabs = Søg i faneblade
+urlbar-result-action-search-actions = Søgehandlinger
 
 ## Labels shown above groups of urlbar results
 
@@ -614,6 +617,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Forslag fra { $engine }
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Hurtige handlinger
 
 ## Full Screen and Pointer Lock UI
 
@@ -689,6 +695,8 @@ bookmarks-tools =
     .label = Bogmærke-værktøjer
 bookmarks-bookmark-edit-panel =
     .label = Rediger bogmærke
+bookmarks-subview-edit-bookmark =
+    .label = Rediger bogmærke…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
