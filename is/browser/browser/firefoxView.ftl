@@ -36,9 +36,14 @@ firefoxview-tabpickup-network-offline-description = Ef þú ert að nota eldvegg
 firefoxview-tabpickup-network-offline-primarybutton = Reyndu aftur
 firefoxview-tabpickup-sync-error-header = Við eigum í vandræðum með að samstilla
 firefoxview-tabpickup-sync-error-primarybutton = Reyndu aftur
+firefoxview-mobile-promo-description = Til að skoða nýjustu farsímaflipana þína skaltu skrá þig inn á { -brand-product-name } á iOS eða Android.
 firefoxview-mobile-promo-primarybutton = Náðu í { -brand-product-name } fyrir farsíma
 firefoxview-mobile-confirmation-header = 🎉 Allt tilbúið!
+firefoxview-mobile-confirmation-description = Nú geturðu náð í { -brand-product-name }-flipana þína úr spjaldtölvunni eða símanum.
 firefoxview-closed-tabs-title = Nýlega lokað
+firefoxview-closed-tabs-collapse-button =
+    .title = Birta eða fela lista yfir nýlega lokaða flipa
+firefoxview-closed-tabs-description = Opnaðu aftur síður sem þú hefur lokað á þessu tæki.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Síðasta virkni
 # Variables:
