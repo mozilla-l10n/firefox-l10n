@@ -118,6 +118,38 @@ main-context-menu-bookmark-change-with-shortcut =
     .aria-label = Rediger bogmærke
     .accesskey = m
     .tooltiptext = Rediger dette bogmærke ({ $shortcut })
+main-context-menu-bookmark-page =
+    .aria-label = Bogmærk side…
+    .accesskey = m
+    .tooltiptext = Bogmærk side
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-page-mac =
+    .label = Bogmærk side…
+    .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
+# so should probably have the same access key if possible.
+main-context-menu-edit-bookmark-mac =
+    .label = Rediger bogmærke…
+    .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = Bogmærk side…
+    .accesskey = m
+    .tooltiptext = Bogmærk side ({ $shortcut })
+main-context-menu-edit-bookmark =
+    .aria-label = Rediger bogmærke…
+    .accesskey = m
+    .tooltiptext = Rediger bogmærke
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = Rediger bogmærke…
+    .accesskey = m
+    .tooltiptext = Rediger bogmærke ({ $shortcut })
 main-context-menu-open-link =
     .label = Åbn link
     .accesskey = Å
