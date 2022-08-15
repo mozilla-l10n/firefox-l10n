@@ -9,3 +9,5 @@
 
 # Firefox links folder name
 default-bookmarks-firefox-heading = මොසිල්ලා ෆයර්ෆොක්ස්
+# link title for https://www.mozilla.org/firefox/customize/
+default-bookmarks-firefox-customize = ෆයර්ෆොක්ස් අභිරුචිකරණය
