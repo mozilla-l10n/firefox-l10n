@@ -40,6 +40,7 @@ firefoxview-tabpickup-network-offline-primarybutton = Reyndu aftur
 firefoxview-tabpickup-sync-error-header = Við eigum í vandræðum með að samstilla
 firefoxview-tabpickup-sync-error-description = { -brand-short-name } getur ekki náð í þjónustuna eins og er. Reyndu aftur eftir smástund.
 firefoxview-tabpickup-sync-error-primarybutton = Reyndu aftur
+firefoxview-tabpickup-syncing = Ekki fara neitt meðan fliparnir þínir samstillast. Þetta tekur bara augnablik.
 firefoxview-mobile-promo-header = Náðu í flipa úr símanum þínum eða spjaldtölvunni
 firefoxview-mobile-promo-description = Til að skoða nýjustu farsímaflipana þína skaltu skrá þig inn á { -brand-product-name } á iOS eða Android.
 firefoxview-mobile-promo-primarybutton = Náðu í { -brand-product-name } fyrir farsíma
