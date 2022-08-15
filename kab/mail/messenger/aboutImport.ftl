@@ -17,6 +17,7 @@ export-profile = Sifeḍ
 button-back = Ɣer deffir
 button-continue = Kemmel
 button-export = Sifeḍ
+button-finish = Fak
 
 ## Import from app steps
 
@@ -25,6 +26,7 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
+source-file2 = Kter-d seg ufaylu
 
 ## Import from file selections
 
@@ -33,6 +35,8 @@ file-addressbook = Kter imedlisen n tansiwin
 
 ## Import from app profile steps
 
+items-pane-directory = Akaram:
+items-pane-profile-name = Isem n umaɣnu:
 items-pane-checkbox-accounts = Imiḍanen d Yiɣewwaren
 items-pane-checkbox-address-books = Imedlisen n tensa
 items-pane-checkbox-calendars = Iwitayen
