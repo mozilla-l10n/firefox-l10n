@@ -19,12 +19,11 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (පෞද්ගලික ගවේෂණය)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (පෞද්ගලික ගවේෂණය)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (පෞද්ගලික ගවේෂණය)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (පෞද්ගලික ගවේෂණය)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -115,12 +113,10 @@ urlbar-popup-blocked =
     .tooltiptext = ඔබ මෙම අඩවිය සඳහා පොප්-අප් වළක්වා ඇත.
 urlbar-midi-blocked =
     .tooltiptext = ඔබ මෙම වෙබ්අඩවියට MIDI පිවිසුම අවහිර කර ඇත.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = මෙම පිටු සලකුණ සකසන්න ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -144,14 +140,12 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = සෙවුම් සිටුවම් වෙනස් කරන්න
-
 search-one-offs-context-open-new-tab =
     .label = නව ටැබයක සොයන්න
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = පෙරනිමි සෙවුම් එළවුම ලෙස තබන්න
     .accesskey = D
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -163,6 +157,14 @@ search-one-offs-add-engine-menu =
 ##    Restriction tokens are special characters users can type in the urlbar to
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
+
+
+## QuickActions are shown in the urlbar as the user types a matching string
+
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
 
 
 ## Bookmark Panel
@@ -186,11 +188,11 @@ identity-connection-internal = මෙය ආරක්ෂිත { -brand-short-na
 identity-connection-file = මෙම පිටුව ඔබේ පරිගණකයේ ගබඩා කර ඇත.
 identity-extension-page = මෙම පිටුව දිගුවක් මගින් පූරණය වේ.
 identity-active-blocked = ආරක්ෂිත නොවන නිසා මෙම පිටුවේ කොටස් { -brand-short-name } අවහිර කර ඇත.
+identity-custom-root = සම්බන්ධතාවය තහවුරු කළ සහතික නිකුත් කරන්නා මොසිල්ලා විසින් හඳුනා ගෙන නැත.
 identity-passive-loaded = මෙම පිටුවේ (පිංතූර වැනි) කොටස් ආරක්ෂිත නැත.
 identity-active-loaded = මෙම පිටුව සඳහා ආරක්ෂාව ඔබ විසින් බල රහිත කර ඇත.
 identity-weak-encryption = මෙම පිටුව දුර්වල සංකේතනයක් භාවිතා කරයි.
 identity-insecure-login-forms = මෙම පිටුවට යොදන ප්‍රවේශ තොරතුරු නිසා ව්‍යකූලවීම් සිදුවිය හැකිය.
-
 identity-permissions-reload-hint = වෙනස්කම් යෙදවීම සඳහා ඔබට පිටුව යළි පූරණය කිරීමට සිදුවිය හැක.
 identity-clear-site-data =
     .label = කුකී සහ අඩවි දත්ත හිස් කරන්න...
@@ -248,21 +250,19 @@ popup-all-windows-shared = ඔබේ තිරයේ දිස්වෙන ස�
 
 ## URL Bar
 
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = ලිපිනය සොයන්න හෝ ඇතුලත් කරන්න
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } සමග සොයන්න හෝ ලිපිනය ඇතුලත් කරන්න
-
 urlbar-switch-to-tab =
     .value = ටැබයට මාරුවෙන්න:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = දිගුව:
-
 urlbar-go-button =
     .tooltiptext = පිහිටුම් තීරුවේ තුළ ඇති ලිපිනට යන්න
 urlbar-page-action-button =
@@ -294,12 +294,9 @@ urlbar-result-action-visit = පිවිසෙන්න
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> දැන් පූර්ණ තිරයේ
 fullscreen-warning-no-domain = මෙම ලේඛනය දැන් පූර්ණ තිරයේ
-
-
 fullscreen-exit-button = පූර්ණ තිරයෙන් පිටවන්න (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = පූර්ණ තිරයෙන් පිටවන්න (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -345,7 +342,6 @@ bookmarks-tools =
     .label = පිටු සලකුණු මෙවලම්
 bookmarks-bookmark-edit-panel =
     .label = මෙම පිටු සලකුණ සකසන්න
-
 bookmarks-toolbar-menu =
     .label = පිටු සලකුණු මෙවලම් තීරුව
 bookmarks-toolbar-placeholder =
@@ -366,33 +362,25 @@ library-bookmarks-menu =
 
 ## Customize Toolbar Buttons
 
-
-## More items
-
 toolbar-overflow-customize-button =
     .label = මෙවලම් තීරු රිසිකරණය…
     .accesskey = C
-
 toolbar-button-email-link =
     .label = ඊ-මේල් සබැඳිය
     .tooltiptext = මෙම පිටුවට සබැඳියක් ඊ-තැපැල් කරන්න
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = පිටුව සුරකින්න
     .tooltiptext = පිටුව සුරකින්න ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = ගොනුව විවෘත කරන්න
     .tooltiptext = ගොනුව විවෘත කරන්න ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = සම්මුහුර්ථ කළ ටැබ
     .tooltiptext = වෙනත් මෙවලම් වලින් ටැබ පෙන්වන්න
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -408,9 +396,6 @@ toolbar-button-new-private-window =
 ## Add-on removal warning
 
 
-## Remote / Synced tabs
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -422,7 +407,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Allow popups for { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Block popups for { $uriHost }
     .accesskey = p
@@ -444,39 +428,30 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = බාගැනිම්
-
 navbar-overflow =
     .tooltiptext = තවත් මෙවලම්...
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = මුද්‍රණය
     .tooltiptext = මෙම පිටුව මුදරණය කරන්න... ({ $shortcut })
-
 navbar-home =
     .label = මුල් පිටුව
     .tooltiptext = { -brand-short-name } නිවෙස් පිටුව
-
 navbar-library =
     .label = පුස්තකාලය
     .tooltiptext = ඉතිහාසය, සුරැකි පිටු සලකුණු හා තවත් දෑ බලන්න
-
 navbar-search =
     .title = සොයන්න
-
 navbar-accessibility-indicator =
     .tooltiptext = පිවිසුම්කාරක විශේෂාංග සක්‍රීයයි
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = ගවේෂක ටැබ්
-
 tabs-toolbar-new-tab =
     .label = නව ටැබයක් විවෘත කරන්න
-
 tabs-toolbar-list-all-tabs =
     .label = සියළු ටැබ් ලැයිස්තුගත කරන්න
     .tooltiptext = සියළු ටැබ් ලැයිස්තුගත කරන්න
@@ -490,3 +465,6 @@ data-reporting-notification-message = අපට ඔබේ අත්දැකී�
 data-reporting-notification-button =
     .label = මාගේ බෙදාගැනීම් තෝරන්න
     .accesskey = C
+
+## Unified extensions (toolbar) button
+
