@@ -16,15 +16,24 @@
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
 -facebook-container-brand-name = Facebook Container
--lockwise-brand-name = Firefox Lockwise
+-lockwise-brand-name = ෆයර්ෆෝක්ස් ලොක්වයිස්
 -lockwise-brand-short-name = Lockwise
--monitor-brand-name = Firefox Monitor
+-monitor-brand-name = ෆයර්ෆොක්ස් මොනිටර්
 -monitor-brand-short-name = Monitor
 -pocket-brand-name = Pocket
--send-brand-name = Firefox Send
--screenshots-brand-name = Firefox Screenshots
+-send-brand-name = ෆයර්ෆොක්ස් සෙන්ඩ්
+-screenshots-brand-name = ෆයර්ෆොක්ස් තිරසේයා
 -mozilla-vpn-brand-name = මොසිල්ලා වීපීඑන්
--profiler-brand-name = Firefox Profiler
--translations-brand-name = Firefox Translations
+-profiler-brand-name = ෆයර්ෆොක්ස් ප්‍රොෆයිලර්
+-translations-brand-name = ෆයර්ෆොක්ස් පරිවර්තන
 -rally-brand-name = මොසිල්ලා රැලි
 -focus-brand-name = ෆයර්ෆෝක්ස් ෆෝකස්
+# “Suggest” can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefox-suggest-brand-name = ෆයර්ෆෝක්ස් යෝජනාව
+# ”Home" can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefox-home-brand-name = ෆයර්ෆෝක්ස් මුල
+# View" can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefoxview-brand-name = ෆයර්ෆොක්ස් දැක්ම
