@@ -82,7 +82,7 @@ toolbar-button-fxaccount =
 
 main-context-menu-page-save =
     .label = Gem side som…
-    .accesskey = m
+    .accesskey = e
 
 ## Simple menu items
 
