@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Rheoli Estyniad…
 page-action-remove-extension =
     .label = Tynnu Estyniad
+page-action-manage-extension2 =
+    .label = Rheoli Estyniad…
+    .accesskey = E
+page-action-remove-extension2 =
+    .label = Tynnu Estyniad
+    .accesskey = T
 
 ## Auto-hide Context Menu
 
@@ -712,6 +718,8 @@ bookmarks-tools =
     .label = Offer Nodau Tudalen
 bookmarks-bookmark-edit-panel =
     .label = Golygu'r Nod Tudalen
+bookmarks-subview-edit-bookmark =
+    .label = Golygu'r nod tudalen…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -728,6 +736,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Gosod Nod Tudalen i'r Tab Cyfredol
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Gosod nod tudalen i'r tab cyfredol…
 
 ## Library Panel items
 
