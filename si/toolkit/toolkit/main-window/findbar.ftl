@@ -6,7 +6,7 @@
 ### This file contains the entities needed to use the Find Bar.
 
 findbar-next =
-    .tooltiptext = මේ වාක්‍ය ඛණ්ඩය මීළඟට යෙදෙන ස්ථානය සොයන්න
+    .tooltiptext = මෙම වාක්‍ය ඛණ්ඩය ඊළඟට යෙදෙන තැන සොයන්න
 findbar-previous =
     .tooltiptext = මෙම වාක්‍ය ඛණ්ඩය කලින් යෙදුණු තැනක් සොයන්න
 findbar-find-button-close =
