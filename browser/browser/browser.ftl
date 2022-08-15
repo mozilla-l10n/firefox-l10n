@@ -38,6 +38,39 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Privat browsing)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Privat browsing)
+# These are the default window titles everywhere except macOS. The first two
+# attributes are used when the web content opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } Privat browsing
+    .data-content-title-default = { $content-title } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } Privat browsing
+# These are the default window titles on macOS. The first two are for use when
+# there is no content title:
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Do not use the brand name in the last two attributes, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Privat browsing
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — Privat browsing
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -123,6 +156,7 @@ urlbar-tabtosearch-onboard = Vælg denne genvej for hurtigere at finde det, du l
 urlbar-search-mode-bookmarks = Bogmærker
 urlbar-search-mode-tabs = Faneblade
 urlbar-search-mode-history = Historik
+urlbar-search-mode-actions = Handlinger
 
 ##
 
@@ -223,6 +257,46 @@ search-one-offs-tabs =
     .tooltiptext = Faneblade ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Historik ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Handlinger ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the bookmarks library window
+quickactions-bookmarks = Vis bogmærker
+quickactions-cmd-bookmarks = bogmærker
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Ryd historik
+quickactions-cmd-clearhistory = ryd historik
+# Opens about:downloads page
+quickactions-downloads = Åbn Filhentninger
+# Opens the print dialog
+quickactions-print = Udskriv
+quickactions-cmd-print = udskriv
+# Opens a new private browsing window
+quickactions-private = Åbn privat browsing-vindue
+quickactions-cmd-private = privat browsing
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = Nulstil { -brand-short-name }
+quickactions-cmd-refresh = nulstil
+# Restarts the browser
+quickactions-restart = Genstart { -brand-short-name }
+quickactions-cmd-restart = genstart
+# Opens the screenshot tool
+quickactions-screenshot2 = Tag et skærmbillede
+quickactions-cmd-screenshot = skærmbillede
+# Opens about:preferences
+quickactions-settings = Åbn Indstillinger
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = Opdater { -brand-short-name }
+quickactions-cmd-update = opdater
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Vis kildekode
 
 ## Bookmark Panel
 
@@ -439,6 +513,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Indtast søgestreng
     .aria-label = Søg i faneblade
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Indtast søgestreng
+    .aria-label = Søgehandlinger
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -793,3 +871,9 @@ data-reporting-notification-button =
     .accesskey = V
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privat browsing
+
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = Udvidelser
+    .tooltiptext = Udvidelser
