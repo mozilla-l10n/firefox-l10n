@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Bókamerkja flipa
     .accesskey = B
+tab-context-bookmark-tab =
+    .label = Bókamerkja flipa…
+    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = Opna í nýjum sérefnisflipa
     .accesskey = e
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Færa flipa
         }
     .accesskey = F
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

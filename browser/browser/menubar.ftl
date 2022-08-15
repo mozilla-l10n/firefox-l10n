@@ -38,11 +38,9 @@ menu-quit =
             [windows] H
            *[other] H
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Hætta í { -brand-shorter-name }
-
 menu-about =
     .label = Um { -brand-shorter-name }
     .accesskey = U
@@ -225,6 +223,10 @@ menu-bookmark-current-tab =
     .label = Bókamerkja núverandi flipa
 menu-bookmark-edit =
     .label = Breyta bókamerki
+menu-bookmark-tab =
+    .label = Bókamerkja núverandi flipa…
+menu-edit-bookmark =
+    .label = Breyta þessu bókamerki…
 menu-bookmarks-all-tabs =
     .label = Setja alla flipa í bókamerki…
 menu-bookmarks-toolbar =
