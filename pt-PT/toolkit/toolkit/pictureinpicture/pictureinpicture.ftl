@@ -43,6 +43,9 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Ecrã completo
+    .title = Ecrã completo (duplo clique)
 pictureinpicture-subtitles-label = Legendas
 pictureinpicture-font-size-label = Tamanho do tipo de letra
 pictureinpicture-font-size-small = Pequeno
