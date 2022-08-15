@@ -19,9 +19,9 @@
 
 -brand-shorter-name = ෆයර්ෆෝක්ස්
 -brand-short-name = ෆයර්ෆෝක්ස්
--brand-full-name = Mozilla Firefox
+-brand-full-name = මොසිල්ලා ෆයර්ෆෝක්ස්
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = ෆයර්ෆෝක්ස්
--vendor-short-name = Mozilla
-trademarkInfo = Firefox සහ Firefox ලාංඡන Mozilla පදනම සතු වෙළද ලකුණුය.
+-vendor-short-name = මොසිල්ලා
+trademarkInfo = Firefox සහ Firefox ලාංඡන Mozilla පදනම සතු වෙළඳ ලකුණුය.

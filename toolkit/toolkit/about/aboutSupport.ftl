@@ -7,7 +7,6 @@ page-subtitle =
     This page contains technical information that might be useful when you're
     trying to solve a problem. If you are looking for answers to common questions
     about { -brand-short-name }, check out our <a data-l10n-name="support-link">support web site</a>.
-
 crashes-title = බිදවැටුම් වාර්තා
 crashes-id = වාර්තා අංකය
 crashes-send-date = පළකළ
@@ -46,9 +45,8 @@ app-basics-profiles = පැතිකඩයන්
 app-basics-launcher-process-status = දියත්කිරීම් සැකසුම
 app-basics-multi-process-support = බහුසැකසුම් කවුළු
 app-basics-enterprise-policies = ව්‍යවසාය ප්‍රතිපත්ති
-app-basics-key-mozilla = Mozilla ස්ථාන සේවා යතුර
+app-basics-key-mozilla = මොසිල්ලා ස්ථාන සේවා යතුර
 app-basics-safe-mode = ආරක්ෂිත ප්‍රකාරය
-
 show-dir-label =
     { PLATFORM() ->
         [macos] Finder තුළ පෙන්වන්න
@@ -115,7 +113,6 @@ report-crash-for-days =
         [one] අවසන් { $days } දිනය සඳහා බිඳවැටීම් වාර්ථා
        *[other] අවසන් { $days } දින සඳහා බිඳවැටීම් වාර්ථා
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -123,7 +120,6 @@ crashes-time-minutes =
         [one] මිනිත්තු { $minutes } පෙර
        *[other] මිනිත්තු { $minutes } පෙර
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -131,7 +127,6 @@ crashes-time-hours =
         [one] පැය { $hours } පෙර
        *[other] පැය { $hours } පෙර
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -139,7 +134,6 @@ crashes-time-days =
         [one] දින { $days } පෙර
        *[other] දින { $days } පෙර
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -147,7 +141,6 @@ pending-reports =
         [one] සියළුම බිඳවැටීම් වාර්ථා (දෙනලද කාල පරාසය තුළ පොරොත්තු වූ { $reports } බිඳවැටීමද ඇතුළුව)
        *[other] සියළුම බිඳවැටීම් වාර්ථා (දෙනලද කාල පරාසය තුළ පොරොත්තු වූ { $reports } බිඳවැටීම්ද ඇතුළුව)
     }
-
 raw-data-copied = අමු දත්ත පසුරු පුවරුවට පිටපත් විය
 text-copied = Text copied to clipboard
 
@@ -160,11 +153,9 @@ blocked-mismatched-version = ඔබගේ චිත්‍රණ ධාවක න
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = ඔබගේ ග්‍රැපික්ස් ධාවක නිකුතුව සඳහා අවහිර කර ඇත. { $driverVersion } හෝ ඊට අළුත් නැකුතුවක් වෙත ග්‍රැපික්ස් ධාවක නිකුතුව යාවත්කාලීන කර උත්සාහ කරන්න.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType Parameters
-
 compositing = නිබන්ධනය කරමින්
 hardware-h264 = දෘඩාංග H264 විකේතණය
 main-thread-no-omtc = ප්‍රධාන තීරය, OMTC නොමැත
@@ -177,7 +168,6 @@ unknown = නොදන්නා
 ## not found.
 
 found = හමුවුණි
-
 gpu-description = විස්තරය
 gpu-vendor-id = නිශ්පාදක ID
 gpu-device-id = උපාංග ID
@@ -193,12 +183,9 @@ webgl1-extensions = WebGL 1 දිගු
 webgl2-version = WebGL 2 ධාවක අනුවාදය
 webgl2-driver-extensions = WebGL 2 ධාවක දිගු
 webgl2-extensions = WebGL 2 දිගු
-
 glcontext-crash-guard = OpenGL
-
 min-lib-versions = බලාපොරුත්තුවන අවම නිකුතුව
 loaded-lib-versions = දැනට භාවිතා වන නිකුතුව
-
 has-seccomp-bpf = Seccomp-BPF (පද්ධති ඇමතුම් පෙරහණ්කරනය)
 has-seccomp-tsync = Seccomp තීර සම්මුහුර්ථකරණය
 has-user-namespaces = පරිශීලක නාම ඉඩ
@@ -206,15 +193,12 @@ has-privileged-user-namespaces = බලලත් ක්‍රියාවලි�
 can-sandbox-content = අන්තර්ගත සැකසුම් සෑන්ඩ්බොක්ස්කරණය
 can-sandbox-media = මාධ්‍ය ප්ලගින සෑන්ඩ්බොක්ස්කරණය
 sandbox-proc-type-content = අන්තර්ගතය
-
 launcher-process-status-0 = සක්‍රීය කළ
 launcher-process-status-unknown = නොදන්නා තත්වයකි
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-
 async-pan-zoom = අසමමුහූර්තක Pan/Zoom
 apz-none = නොමැත
 wheel-enabled = රෝද ආදාන සක්‍රීයයි
@@ -235,6 +219,7 @@ policies-active = සක්‍රීය
 policies-error = දෝෂය
 
 ## Printing section
+
 
 ## Normandy sections
 

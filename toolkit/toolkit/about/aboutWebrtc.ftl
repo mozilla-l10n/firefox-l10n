@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC අභ්‍යන්තරයන්
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc සුරකින්නේ
@@ -50,9 +49,6 @@ about-webrtc-ice-state = ICE තත්වය
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE තත්වය
 
-## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
@@ -62,16 +58,13 @@ about-webrtc-type-remote = දුරස්ථ
 
 ##
 
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = නාම යෝජිත
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = තෝරාගත්
-
 about-webrtc-save-page-label = පිටුව සුරකින්න
 about-webrtc-debug-mode-msg-label = දෝශ නිරාකරණ ප්‍රකාරය
 about-webrtc-debug-mode-off-state-label = දෝශ නිරාකරණ ප්‍රකාරය අරඹන්න
@@ -97,7 +90,6 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (වැ�
 
 ##
 
-
 about-webrtc-local-candidate = දේශීය අපේක්ෂකයා
 about-webrtc-remote-candidate = දුරස්ථ අපේක්ෂකයා
 about-webrtc-priority = ප්‍රමුඛතාවය
@@ -107,11 +99,15 @@ about-webrtc-fold-hide-msg = විස්තර සඟවන්න
     .title = මෙම කොටස හැකිළීමට ක්ලික් කරන්න
 about-webrtc-decoder-label = විකේතකය
 about-webrtc-encoder-label = සංකේතකය
+about-webrtc-current-framerate-label = රාමුඅනුපා.
+about-webrtc-width-px = පළල (px)
+about-webrtc-height-px = උස (px)
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
 
 ##
+
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -133,11 +129,6 @@ about-webrtc-jitter-label = ව්‍යාකූල { $jitter }
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
-
-
-##
-
-##
 
 
 ##
