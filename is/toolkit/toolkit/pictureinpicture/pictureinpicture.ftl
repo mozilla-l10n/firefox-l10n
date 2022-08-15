@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Skjáfylli
+    .title = Skjáfylli (tvísmella)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Hætta í fullum skjá
+    .title = Hætta í fullum skjá (tvísmella)
 pictureinpicture-subtitles-label = Skjátextar
 pictureinpicture-font-size-label = Leturstærð
 pictureinpicture-font-size-small = Lítil
