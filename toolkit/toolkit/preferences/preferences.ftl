@@ -4,19 +4,16 @@
 
 password-not-set =
     .value = (සකසා නැත)
-
 pw-change-success-title = රහස්පදය වෙනස් කිරීම සාර්ථකයි
 pw-change-failed-title = රහස්පදය වෙනස් කිරීම අසාර්ථකයි
 pw-remove-button =
     .label = ඉවත් කරන්න
-
-set-password-old-password = දැනට ඇති රහස්පදය:
-set-password-new-password = නව රහස්පදය ඇතුළත් කරන්න:
-set-password-reenter-password = රහස්පදය යළි ඇතුළත් කරන්න:
-set-password-meter = රහස්පදයේ ගුණාත්මක බවේ ගැටලුවක්
-set-password-meter-loading = පූරණය
-
+set-password-old-password = වත්මන් මුරපදය:
+set-password-new-password = නව මුරපදය යොදන්න:
+set-password-reenter-password = මුරපදය යළි යොදන්න:
+set-password-meter = මුරපදයේ ගුණත්‍ව මාපකය
+set-password-meter-loading = පූරණය වෙමින්
 remove-info =
-    .value = ඉදිරියට ක්‍රියාත්මක වීම සඳහා ඔබ දැනට භාවිත කරන රහස්පදය ඇතුළත් කළ යුතුම වේ:
+    .value = ඉදිරියට යාමට ඔබගේ වත්මන් මුරපදය යොදන්න:
 remove-password-old-password =
-    .value = දැනට ඇති රහස්පදය:
+    .value = වත්මන් මුරපදය:
