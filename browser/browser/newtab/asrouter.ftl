@@ -89,7 +89,7 @@ cfr-whatsnew-release-notes-link-text = Les versjonsnotatet
 #   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
-       *[other] { -brand-short-name } blokkerte over <b>{ $blockedCount }</b>sporarar sidan { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] { -brand-short-name } blokkerte over <b>{ $blockedCount }</b> sporarar sidan { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = Vis alle
     .accesskey = s
