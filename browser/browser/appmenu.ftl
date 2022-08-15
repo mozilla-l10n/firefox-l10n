@@ -31,18 +31,14 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = විවෘත ටැබ නොමැත
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = වෙනත් උපාංගයන්ගේ සිට ටැබ් ලැයිස්තුව බැලිමට ටැබ් සම්මුහුර්ථය අරින්න (Turn on).
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = වෙනත් උපාංගයක සිට ඔබේ මෙම ටැබ් බැලීමට අවශ්‍යද?
-
 appmenu-remote-tabs-connectdevice =
     .label = තවත් උපාංගයක් සබඳ කරන්න
 appmenu-remote-tabs-unverified = ඔබේ ගිනුම තහවුරු කල යුතුයි.
-
 appmenuitem-save-page =
     .label = පිටුව සුරකින්න...
 
@@ -57,9 +53,13 @@ appmenuitem-save-page =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
+
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
+
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
 
 ## History panel
 
