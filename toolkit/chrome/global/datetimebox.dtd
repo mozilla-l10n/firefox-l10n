@@ -13,10 +13,10 @@
 <!-- Field labels for input type=time -->
 
 <!ENTITY time.hour.label "පැය">
-<!ENTITY time.minute.label "මිනිත්තු">
+<!ENTITY time.minute.label "විනාඩි">
 <!ENTITY time.second.label "තත්පර">
 <!ENTITY time.millisecond.label "මිලි තත්පර">
-<!ENTITY time.dayperiod.label "AM/PM">
+<!ENTITY time.dayperiod.label "පෙ.ව./ප.ව">
 
 <!-- Placeholders for input type=date -->
 
@@ -26,10 +26,10 @@
 
 <!-- Field labels for input type=date -->
 
-<!ENTITY date.year.label "වසර">
+<!ENTITY date.year.label "අවුරුද්ද">
 <!ENTITY date.month.label "මාසය">
-<!ENTITY date.day.label "දිනය">
+<!ENTITY date.day.label "දවස">
 
 <!-- Date/time clear button -->
 
-<!ENTITY datetime.reset.label "හිස් කරන්න">
+<!ENTITY datetime.reset.label "මකන්න">
