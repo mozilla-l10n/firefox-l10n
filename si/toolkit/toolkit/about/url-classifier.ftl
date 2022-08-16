@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-url-classifier-title = URL වර්ගීකරණ තොරතුරු
+url-classifier-title = ඒ.ස.නි. වර්ගීකාරක තොරතුරු
 url-classifier-search-title = සොයන්න
 url-classifier-search-result-title = ප්‍රතිඵල
 url-classifier-search-result-uri = ඒ.ස.හ.: { $uri }
