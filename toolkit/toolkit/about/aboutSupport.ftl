@@ -2,30 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-page-title = දොස් සෙවීම් තොරතුරු
-page-subtitle =
-    This page contains technical information that might be useful when you're
-    trying to solve a problem. If you are looking for answers to common questions
-    about { -brand-short-name }, check out our <a data-l10n-name="support-link">support web site</a>.
-crashes-title = බිදවැටුම් වාර්තා
-crashes-id = වාර්තා අංකය
-crashes-send-date = පළකළ
-crashes-all-reports = සියළු බිදවැටුම් වාර්තා
-crashes-no-config = මෙම යෙදුම බිඳවැටුම් වාර්ථා පෙන්වීමට සකසා නොමැත.
+page-title = දොස් සෙවීමේ තොරතුරු
+page-subtitle = ඔබ ගැටළුවක් විසඳීමට උත්සාහ කරමින් සිටින විට ප්‍රයෝජනවත් විය හැකි තාක්‍ෂණික තොරතුරු මෙම පිටුවෙහි අඩංගු වේ. { -brand-short-name } ගැන සරල ප්‍රශ්නවලට පිළිතුරු සොයන්නේ නම්, අපගේ <a data-l10n-name="support-link">සහාය අඩවිය</a> බලන්න.
+crashes-title = බිඳ වැටීමේ වාර්තා
+crashes-id = වාර්තාවේ හැඳු.
+crashes-send-date = යොමුකළ
+crashes-all-reports = සියළු බිඳවැටීම් වාර්තා
+crashes-no-config = මෙම යෙදුම බිඳ වැටීම් වාර්තා පෙන්වීමට වින්‍යාසගත කර නැත.
 support-addons-name = නම
-support-addons-version = නිකුතුව
-support-addons-id = ID
-security-software-title = ආරක්ෂක මෘදුකාංග
+support-addons-version = අනුවාදය
+support-addons-id = හැඳු.
+security-software-title = ආරක්‍ෂණ මෘදුකාංග
 security-software-type = වර්ගය
 security-software-name = නම
 security-software-antivirus = ප්‍රතිවෛරස
 features-name = නම
-features-version = නිකුතුව
-features-id = ID
-app-basics-title = යෙදුම් මූලිකාංග
+features-version = අනුවාදය
+features-id = හැඳු.
 app-basics-name = නම
-app-basics-version = නිකුතුව
-app-basics-build-id = නිකුතු ID
+app-basics-version = අනුවාදය
+app-basics-build-id = තැනීමේ හැඳු.
 app-basics-update-channel = යාවත්කාල නාලිකාව
 app-basics-update-history = යාවත්කාල ඉතිහාසය
 app-basics-show-update-history = යාවත්කාල ඉතිහාසය පෙන්වන්න
