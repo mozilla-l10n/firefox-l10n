@@ -4,119 +4,85 @@
 
 certmgr-title =
     .title = සහතික කළමනාකරු
-
 certmgr-tab-mine =
     .label = ඔබගේ සහතික
-
 certmgr-tab-people =
     .label = පුද්ගලයින්
-
 certmgr-tab-servers =
     .label = සේවාදායක
-
 certmgr-tab-ca =
     .label = අධිකාරීන්
-
 certmgr-edit-ca-cert =
     .title = CA සහතික විශ්වාස සිටුවම් සකසන්න
     .style = width: 48em;
-
 certmgr-edit-cert-edit-trust = විශ්වාස සිටුවම් සකසන්න:
-
 certmgr-edit-cert-trust-ssl =
     .label = මෙම සහතිකයෙන් වෙබ් අඩවි හදුනාගත හැක.
-
 certmgr-edit-cert-trust-email =
     .label = මෙම සහතිකයෙන් තැපැල් පරිශීලකයින් හදුනාගත හැක.
-
 certmgr-delete-cert =
     .title = සහතිකය මකන්න
     .style = width: 48em; height: 24em;
-
 certmgr-cert-name =
     .label = සහතික නාමය
-
 certmgr-cert-server =
     .label = සේවාදායකය
-
 certmgr-override-lifetime =
     .label = ආයුකාළය
-
 certmgr-token-name =
     .label = ආරක්ෂණ උපාංගය
-
 certmgr-begins-label =
     .label = අරඹන්නේ
-
 certmgr-expires-label =
     .label = අවලංගු වන දිනය
-
 certmgr-email =
     .label = විද්‍යුත් තැපැල් ලිපිනය
-
 certmgr-serial =
     .label = අනුක්‍රමික අංකය
-
 certmgr-view =
     .label = පෙන්වන්න…
     .accesskey = V
-
 certmgr-edit =
     .label = Edit Trust…
     .accesskey = E
-
 certmgr-export =
     .label = නිර්යාත…
     .accesskey = x
-
 certmgr-delete =
     .label = මකන්න…
     .accesskey = D
-
 certmgr-delete-builtin =
     .label = Delete or Distrust…
     .accesskey = D
-
 certmgr-backup =
     .label = බැකප්…
     .accesskey = B
-
 certmgr-backup-all =
     .label = සියල්ල බැකප් කරන්න…
     .accesskey = k
-
 certmgr-restore =
     .label = ආයාත…
     .accesskey = m
-
 certmgr-add-exception =
     .label = හැරදැමීමක් එක් කරන්න…
     .accesskey = x
-
 exception-mgr =
     .title = ආරක්‍ෂක හැරදැමීම් එක් කරන්න
-
 exception-mgr-extra-button =
     .label = Confirm Security Exception
     .accesskey = C
-
 exception-mgr-supplemental-warning = පිළිගත් බැංකුවක්, වෙළඳසැලක් හෝ වෙනත්  අඩෙවියක් මෙය නම් ඔබට කිරිමට පවසන්නේ නැත.
-
 exception-mgr-cert-location-url =
     .value = පිහිටීම:
-
 exception-mgr-cert-location-download =
     .label = සහතිකය ගන්න
     .accesskey = G
-
 exception-mgr-cert-status-view-cert =
     .label = දසුන…
     .accesskey = V
-
 exception-mgr-permanent =
     .label = මෙම හැරදැමීම් ස්ථිරවම තබාගන්න
     .accesskey = P
-
 pk11-bad-password = ඇතුල්කල මුරපදය වැරදිය.
 pkcs12-decode-err = ගොනුව විකේතනය අසාර්ථකයි. PKCS #12 ආකෘතියට නොමැතිවීම වගේම, පළුදුවී ඇත, හෝ ඔබ ඇතුල්කල මුරපදය වැරදිය.
 pkcs12-unknown-err-restore = නොදන්නා හේතුවකි, PKCS #12 ගොනුව නැවත පිහිටුවිය නොහැක.
@@ -149,22 +115,17 @@ delete-user-cert-title =
     .title = ඔබගේ සහතික මකන්න
 delete-user-cert-confirm = මෙම සහතික මැකීමට අවශ්‍ය බවට ඔබට විශ්වාසද?
 delete-user-cert-impact = ඔබ ඔබගේම සහතිකයක් මැකුවහොත්, ඔබේ අනන්‍යතාවය දැක්වීමට තවදුරටත් එය භාවිතා කළ නොහැකි ය.
-
-
 delete-ca-cert-title =
     .title = Delete or Distrust CA Certificates
 delete-ca-cert-confirm = You have requested to delete these CA certificates. For built-in certificates all trust will be removed, which has the same effect. Are you sure you want to delete or distrust?
 delete-ca-cert-impact = If you delete or distrust a certificate authority (CA) certificate, this application will no longer trust any certificates issued by that CA.
-
-
 delete-email-cert-title =
     .title = විද්‍යුත් තැපැල් සහතික මකන්න
 delete-email-cert-confirm = මෙම පුද්ගලයින්ගේ විද්‍යුත් තැපැල් සහතික මැකීමට අවශ්‍ය බව ඔබට විශ්වාසද?
 delete-email-cert-impact = ඔබ කිසිවෙකුගේ විද්‍යුත් තැපැල් සහතිකයක් මැකුවහොත් එම පුද්ගලයාට කිසිවිටෙක සංකේතාංකනය කළ විද්‍යෘත් තැපැලක් යැවිය නොහැක.
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
@@ -190,5 +151,4 @@ cert-format-base64 = X.509 (PEM) සහතිකය
 cert-format-base64-chain = X.509 Certificate with chain (PEM)
 cert-format-der = X.509 (DER) සහතිකය
 cert-format-pkcs7 = X.509 (PKCS#7) සහතිකය
-cert-format-pkcs7-chain = X.509 Certificate with chain (PKCS#7)
-write-file-failure = ගොනු දෝෂය
+write-file-failure = ගොනුවේ දෝෂයකි
