@@ -40,6 +40,7 @@ firefoxview-tabpickup-sync-error-description = { -brand-short-name } noñe’ẽ
 firefoxview-tabpickup-sync-error-primarybutton = Eha’ãjey
 firefoxview-tabpickup-syncing = Eha’arõ tendayke toñembojuehe. Ndahi’aremo’ãi.
 firefoxview-mobile-promo-header = Ehecha tendayke ne pumbyry térã tabléta rupive
+firefoxview-mobile-promo-description = Ehecha hag̃ua tendayke eipuramovéva, emoñepyrũ tembiapo { -brand-product-name } iOS térã Android rupive.
 firefoxview-mobile-promo-primarybutton = Ereko { -brand-product-name } ne pumbyrýpe
 firefoxview-mobile-confirmation-header = 🎉 ¡Eguerahakuaáma!
 firefoxview-mobile-confirmation-description = Ko’ág̃a ikatu ehecha { -brand-product-name } rendayke nde tabléta térã pumbyry guive.
