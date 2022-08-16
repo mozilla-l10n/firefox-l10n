@@ -2,32 +2,32 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-password-quality-meter = රහස්පද තත්ත්ව දර්ශකය
+password-quality-meter = මුරපදයේ ගුණත්‍ව මාපකය
 
 ## Change Password dialog
 
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
-change-password-token = ආරක්‍ෂක උපාංගය: { $tokenName }
-change-password-old = වත්මන් රහස්පදය:
-change-password-new = නව රහස්පදය:
-change-password-reenter = නව රහස්පදය (යළි):
+change-password-token = ආරක්‍ෂණ උපාංගය: { $tokenName }
+change-password-old = වත්මන් මුරපදය:
+change-password-new = නව මුරපදය:
+change-password-reenter = නව මුරපදය (නැවත):
 
 ## Reset Primary Password dialog
 
 reset-password-button-label =
-    .label = නැවත සකසන්න
+    .label = යළි සකසන්න
 
 ## Downloading cert dialog
 
 download-cert-window =
-    .title = සහතිකය බාගතවෙමින් පවතී
+    .title = සහතිකය බාගැනෙමින්
     .style = width: 46em
-download-cert-message = ඔබ නව සහතික අධිකාරියක් (CA) විශ්වාස කිරීමට ඉල්ලා සිටි.
+download-cert-message = නව සහතික අධිකාරියක් (CA) විශ්වාස කිරීමට ඉල්ලා ඇත.
 download-cert-trust-ssl =
-    .label = වියුණු වල හඳුනාගැනීමට මෙම CA (සහතික අධිකාරිය) විශ්වාස කරන්න.
+    .label = අඩවි හඳුනා ගැනීමට මෙම CA විශ්වාස කරන්න.
 download-cert-trust-email =
-    .label = විද්‍යුත් තැපැල් භාවිතා කරන්නන්ගේ හඳුනාගැනීමට මෙම CA (සහතික අධිකාරිය) විශ්වාස කරන්න.
+    .label = වි-තැපැල් පරිශීලකයින් හඳුනාගැනීමට මෙම CA විශ්වාස කරන්න.
 download-cert-message-desc = කිසියම් කාර්යයක් සඳහා මෙම CA විශ්වාස කිරීමට පෙර, සහතිකය සහ එහි ප්‍රතිපත්ති මෙන්ම ක්‍රියා පටිපාටි (තිබේ නම්) පරීක්‍ෂා කළ යුතුය.
 download-cert-view-text = CA සහතිකය පිරික්සන්න
 
