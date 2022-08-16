@@ -3,34 +3,26 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-selection-window =
-    .title = { -brand-short-name } - පැතිකඩ තෝරන්න
-
+    .title = { -brand-short-name } - පරිශීලක පැතිකඩ තෝරන්න
 profile-selection-button-accept =
-    .label = { -brand-short-name } ආරඹීම
-
+    .label = { -brand-short-name } අරඹන්න
 profile-selection-button-cancel =
-    .label = පිටවීම
-
+    .label = පිට‌වන්න
 profile-selection-new-button =
-    .label = පැතිකඩ නිර්මාණය කරන්න...
+    .label = පැතිකඩ සාදන්න...
     .accesskey = C
-
 profile-selection-rename-button =
-    .label = පැතිකඩ නාමය වෙනස් කරන්න...
+    .label = පැතිකඩහි නම සංශෝධනය...
     .accesskey = R
-
 profile-selection-delete-button =
     .label = පැතිකඩ මකන්න...
     .accesskey = D
 
 ## Messages used in the profile manager
 
-profile-manager-description = { -brand-short-name } ඔබේ සැකසුම්, අභිප්‍රේත සහ පරිශීලක පැතිකඩේ ඇති වෙනත් තොරතුරු ගබඩා කරයි.
-
 profile-manager-work-offline =
-    .label = නොබැඳිව ක්‍රියා කරන්න
+    .label = මාර්ගඅපගතව වැඩ කරන්න
     .accesskey = o
-
 profile-manager-use-selected =
-    .label = ආරම්භයේදී විමසීමකින් තොරව තෝරාගත් පැතිකඩ භාවිත කරන්න
+    .label = ආරම්භයේදී විමසීමකින් තොරව තේරූ පැතිකඩ භාවිත කරන්න
     .accesskey = s
