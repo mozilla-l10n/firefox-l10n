@@ -18,31 +18,31 @@ list-empty-find-updates =
     .label = යාවත්කාලීන සඳහා පරීක්ෂා කරන්න
 list-empty-button =
     .label = ඇඩෝන පිළිබඳව වැඩිදුරටත් දැනගන්න
-help-button = ඇඩෝන සහාය
+help-button = එක්කහු සහාය
 sidebar-help-button-title =
-    .title = ඇඩෝන සහාය
+    .title = එක්කහු සහාය
 show-unsigned-extensions-button =
-    .label = ඇතැම් දිගු තහවුරු කළ නොහැක
+    .label = ඇතැම් දිගු තහවුරු කළ නොහැකිය
 show-all-extensions-button =
     .label = සියළු දිගු පෙන්වන්න
 detail-version =
-    .label = න්කුතුව
+    .label = අනුවාදය
 detail-last-updated =
-    .label = අවසන් වරට යාවත්කාලීන කළේ
-detail-contributions-description = මෙම ඇඩෝන සංවර්ධකයා එහි අඛණ්ඩ සංවර්ධනය වෙනුවෙන් ඔබගේ දායකත්වය ඉල්ලා සිටියි.
+    .label = අවසන යාවත්කාල කළේ
+detail-contributions-description = මෙම එක්කහුවෙහි සංවර්ධකයා එහි අඛණ්ඩ සංවර්ධනය වෙනුවෙන් ඔබගෙන් ස්වල්ප දායකත්වයක් ඉල්ලා සිටියි.
 detail-update-type =
-    .value = ස්වයංක්‍රීය යාවත්කාලීන
+    .value = ස්වයංක්‍රීය යාවත්කාල
 detail-update-default =
     .label = පෙරනිමි
-    .tooltiptext = එය පෙරනිමියෙන් පමණක් නම්, ස්වයංක්‍රීයව ඇඩෝන යාවත්කාලීන කරන්නA
+    .tooltiptext = පෙරනිමි නම්, ස්වයංක්‍රීයව එක්කහු යාවත්කාල කරන්න
 detail-update-automatic =
-    .label = On
-    .tooltiptext = ස්වයංක්‍රීයව යාවත්කාලීන ස්ථාපනය කරන්න
+    .label = සක්‍රිය
+    .tooltiptext = ස්වයංක්‍රීයව යාවත්කාල ස්ථාපනය කරන්න
 detail-update-manual =
-    .label = Off
-    .tooltiptext = ස්වයංක්‍රීයව යාවත්කාලීන ස්ථාපනය නොකරන්න
+    .label = අක්‍රිය
+    .tooltiptext = ස්වයංක්‍රීයව යාවත්කාල ස්ථාපනය නොකරන්න
 # Used as a description for the option to allow or block an add-on in private windows.
-detail-private-browsing-label = පුද්ගලික කවුළු තුළ ක්‍රියාකරවන්න
+detail-private-browsing-label = පෞද්. කවුළුවක ධාවනය
 detail-private-browsing-on =
     .label = ඉඩදෙන්න
     .tooltiptext = පුද්ගලික ගවේශණ තුළ සක්‍රීයයි
@@ -50,22 +50,22 @@ detail-private-browsing-off =
     .label = ඉඩ නොදෙන්න
     .tooltiptext = පුද්ගලික ගවේශණ තුළ අක්‍රීයයි
 detail-home =
-    .label = මුල්පිටුව
+    .label = මුල් පිටුව
 detail-home-value =
     .value = { detail-home.label }
 detail-repository =
-    .label = Add-on Profile
+    .label = එක්කහු පැතිකඩ
 detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
-    .label = යාවත්කාලීන සඳහා පරීක්ෂා කරන්න
+    .label = යාවත්කාල පරීක්‍ෂා කරන්න
     .accesskey = f
-    .tooltiptext = මෙම ඇඩෝනය සඳහා යාවත්කාලීන පරීක්ෂා කරන්න
+    .tooltiptext = මෙම එක්කහුව සඳහා යාවත්කාල බලන්න
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] විකල්ප
-           *[other] මනාපයන්
+           *[other] අභිප්‍රේත
         }
     .accesskey =
         { PLATFORM() ->
@@ -74,16 +74,16 @@ detail-show-preferences =
         }
     .tooltiptext =
         { PLATFORM() ->
-            [windows] මෙම ඇඩෝනයේ විකල්ප වෙනස් කරන්න
-           *[other] මෙම ඇඩෝනයේ මනාපයන් වෙනස් කරන්න
+            [windows] මෙම එක්කහුවෙහි විකල්ප වෙනස් කරන්න
+           *[other] මෙම එක්කහුවෙහි අභිප්‍රේත වෙනස් කරන්න
         }
 detail-rating =
-    .value = ඇගැයුම (Rating)
+    .value = ඇගැයුම
 addon-restart-now =
-    .label = දැන් ප්‍රත්‍යාරම්භ (Restart) කරන්න
+    .label = යළි අරඹන්න
 disabled-unsigned-heading =
-    .value = ඇතැම් ඇඩෝන අක්‍රීය කර ඇත
-disabled-unsigned-description = පහත ඇඩෝන { -brand-short-name } හි භාවිතයට තහවුරු කර නොමැත. ඔබට හැක්කේ <label data-l10n-name="find-addons">ප්‍රතිස්ථාපනයන් සොයන්න</label> හෝ තහවුරු කිරීම සඳහා සංවර්දකයාගෙන් විමසන්න.
+    .value = ඇතැම් එක්කහු අබල කර ඇත
+disabled-unsigned-description = { -brand-short-name } හි භාවිතයට පහත එක්කහු තහවුරු කර නැත. <label data-l10n-name="find-addons">ආදේශකයක් සොයා ගන්න</label> හෝ ඒවා තහවුරු කර ගන්නා ලෙස සංවර්ධකයාට දන්වන්න.
 addon-category-extension = දිගු
 addon-category-extension-title =
     .title = දිගු
