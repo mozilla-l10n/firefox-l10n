@@ -116,20 +116,20 @@ delete-user-cert-title =
 delete-user-cert-confirm = මෙම සහතික මැකීමට අවශ්‍ය බවට ඔබට විශ්වාසද?
 delete-user-cert-impact = ඔබ ඔබගේම සහතිකයක් මැකුවහොත්, ඔබේ අනන්‍යතාවය දැක්වීමට තවදුරටත් එය භාවිතා කළ නොහැකි ය.
 delete-ca-cert-title =
-    .title = Delete or Distrust CA Certificates
-delete-ca-cert-confirm = You have requested to delete these CA certificates. For built-in certificates all trust will be removed, which has the same effect. Are you sure you want to delete or distrust?
-delete-ca-cert-impact = If you delete or distrust a certificate authority (CA) certificate, this application will no longer trust any certificates issued by that CA.
+    .title = CA සහතික මකන්න හෝ අවිශ්වාස කරන්න
+delete-ca-cert-confirm = ඔබ මෙම CA සහතික මකා දැමීමට ඉල්ලා ඇත. නිර්මිත සහතික සඳහා සියළු විශ්වාස ද ඉවත් කරනු ලැබේ. ඔබට මැකීමට හෝ අවිශ්වාස කිරීමට අවශ්‍ය බව විශ්වාසද?
+delete-ca-cert-impact = ඔබ සහතික අධිකාරියක (CA) සහතිකයක් මැකීම හෝ අවිශ්වාස කරන්නේ නම්, මෙම යෙදුම එම CA විසින් නිකුත් කරන ලද කිසිදු සහතිකයක් තවදුරටත් විශ්වාස නොකරයි.
 delete-email-cert-title =
-    .title = විද්‍යුත් තැපැල් සහතික මකන්න
-delete-email-cert-confirm = මෙම පුද්ගලයින්ගේ විද්‍යුත් තැපැල් සහතික මැකීමට අවශ්‍ය බව ඔබට විශ්වාසද?
-delete-email-cert-impact = ඔබ කිසිවෙකුගේ විද්‍යුත් තැපැල් සහතිකයක් මැකුවහොත් එම පුද්ගලයාට කිසිවිටෙක සංකේතාංකනය කළ විද්‍යෘත් තැපැලක් යැවිය නොහැක.
+    .title = වි-තැපැල් සහතික මකන්න
+delete-email-cert-confirm = මෙම පුද්ගලයින්ගේ වි-තැපැල් සහතික මැකීමට අවශ්‍ය බව ඔබට විශ්වාසද?
+delete-email-cert-impact = ඔබ කිසිවෙකුගේ වි-තැපැල් සහතිකයක් මකා දැමුවහොත් එම පුද්ගලයා වෙත සංකේතිත වි-තැපෑලක් යැවීමට නොහැකිය.
 
 ## Used to show whether an override is temporary or permanent
 
 
 ## Add Security Exception dialog
 
-add-exception-branded-warning = You are about to override how { -brand-short-name } identifies this site.
+add-exception-branded-warning = ඔබ { -brand-short-name } මෙම අඩවිය හඳුනා ගන්නා අයුරු අභිබවීමට සැරසෙයි.
 add-exception-domain-mismatch-short = වැරදි අඩවියකි
 add-exception-domain-mismatch-long = සහතිකය වෙනත් අඩවියකට අයත් වේ, එයින් අදහස් වන්නේ යමෙක් මෙම අඩවිය ලෙස වංචනිකව පෙනී සිටීමට උත්සාහ කරන බවයි.
 add-exception-expired-short = යල් පැන ගිය තොරතුරු
