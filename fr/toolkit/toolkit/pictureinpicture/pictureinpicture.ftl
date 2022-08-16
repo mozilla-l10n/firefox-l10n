@@ -19,6 +19,9 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+pictureinpicture-close-cmd =
+    .aria-label = Fermer
+    .title = Fermer ({ $shortcut })
 pictureinpicture-subtitles-cmd =
     .aria-label = Sous-titres
     .title = Sous-titres
