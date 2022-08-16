@@ -14,15 +14,16 @@
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
 ## of the sentence as your language's grammar allows.
 
+
 ##
+
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
-choose-other-app-description = වෙනත් යෙදුම් තෝරන්න
+choose-other-app-description = වෙනත් යෙදුමක් තෝරන්න
 choose-app-btn =
     .label = තෝරන්න…
     .accessKey = C
 choose-other-app-window-title = වෙනත් යෙදුමක්…
-
