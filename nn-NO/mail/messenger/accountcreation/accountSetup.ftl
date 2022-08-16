@@ -35,6 +35,8 @@ account-setup-password-toggle-show =
     .title = Vis passordet i klartekt
 account-setup-password-toggle-hide =
     .title = Gøym passordet
+account-setup-remember-password = Hugs passord
+    .accesskey = H
 account-setup-exchange-label = Di innlogging:
     .accesskey = D
 
