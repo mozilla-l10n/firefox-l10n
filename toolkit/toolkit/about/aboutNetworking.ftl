@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-networking-title = ජාලකරණය පිළිබඳ
+about-networking-title = ජාලකරණය පිළිබඳව
 about-networking-http = HTTP
 about-networking-sockets = කෙවෙනි
 about-networking-dns = ව.නා.ප.
