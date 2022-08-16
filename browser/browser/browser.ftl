@@ -712,6 +712,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Blêdwizer foar aktuele ljepblêd meitsje
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Blêdwizer foar aktuele ljepblêd meitsje…
 
 ## Library Panel items
 
@@ -890,3 +893,6 @@ private-browsing-indicator-label = Priveenavigaasje
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Utwreidingen
+    .tooltiptext = Utwreidingen
