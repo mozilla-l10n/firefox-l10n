@@ -64,7 +64,7 @@ synced-tabs-context-bookmark-tab =
 # consistently with the "Bookmark Tab…" string there.
 synced-tabs-context-bookmark =
     .label = Agregar pestaña a marcadores…
-    .accesskey = B
+    .accesskey = m
 synced-tabs-context-copy =
     .label = Copiar
     .accesskey = C
