@@ -2,18 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-create-profile-window =
-    .title = පැතිකඩ විශාරද නිර්මාණය
-    .style = width: 45em; height: 32em;
 
 ## First wizard page
 
 create-profile-first-page-header =
     { PLATFORM() ->
         [macos] හැඳින්වීම
-       *[other] { create-profile-window.title } වෙතට සාදරයෙන් පිළිගනිමු
+       *[other] { create-profile-window.title } වෙත සාදරයෙන් පිළිගනිමු
     }
-profile-creation-explanation-1 = ඔබගේ පෞද්හලික පැතිකඩ තුළ { -brand-short-name } විසින් ඔබේ සැසුම් සහ අභිප්‍රේත ගබඩා කරනු ඇත.
+profile-creation-explanation-1 = ඔබගේ පෞද්ගලික පැතිකඩ තුළ { -brand-short-name } විසින් ඔබගේ සැකසුම් හා අභිප්‍රේත ගබඩා කෙරේ.
 profile-creation-explanation-2 = ඔබ මෙම { -brand-short-name } පිටපත තවත් අය සමඟ හවුලේ භාවිතා කරයි නම්, පරිශීලක තොරතුරු වෙන්ව තබා ගැනීම සඳහා ඔබට පැතිකඩ භාවිතා කළ හැකිය. ඒ සඳහා සෑම අයෙක්ම තමන්ගේ පැතිකඩක් සෑදිය යුතුය.
 profile-creation-explanation-3 = මෙම { -brand-short-name } පිටපත භාවිතා කරන එකම පුද්ගලයා ඔබ නම්, ඔබට අවම වශයෙන් එක් පැතිකඩක් තිබීම අවශ්‍යයි. ඔබ අවශ්‍ය නම් ඔබගේ භාවිතය සඳහා පැතිකඩ කිහිපයක් වුවද සෑදීමෙන් වෙනස් වූ සැකසුම් සහ අභිප්‍රේත ගබඩා කරගත හැකිය. නිදසුනක් ලෙස, ඔබට ව්‍යාපාරික සහ පෞද්ගලික භාවිතය සඳහා පැතිකඩ දෙකක් අවශ්‍ය විය හැකිය.
 profile-creation-explanation-4 =
