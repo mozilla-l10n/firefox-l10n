@@ -204,18 +204,16 @@ apz-none = නොමැත
 wheel-enabled = රෝද ආදාන සක්‍රීයයි
 touch-enabled = ස්පර්ශ ආදාන සක්‍රීයයි
 drag-enabled = ස්ක්‍රෝල් තීරු ඇදීම සක්‍රීයයි
-keyboard-enabled = යතුරුපුවරුව සක්‍රීය
+keyboard-enabled = යතුරුපුවරුව සබලයි
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
-wheel-warning = සහය නොදක්වන අභිප්‍රේයක් නිසා අසම්මුහුර්තක රෝද ආදානය අක්‍රීයයි: { $preferenceKey }
-touch-warning = සහය නොදක්වන අභිප්‍රේයක් නිසා අසම්මුහුර්තක ස්පර්ශක ආදානය අක්‍රීයයි: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
-policies-inactive = අක්‍රීය
-policies-active = සක්‍රීය
+policies-inactive = අක්‍රිය
+policies-active = සක්‍රිය
 policies-error = දෝෂය
 
 ## Printing section
