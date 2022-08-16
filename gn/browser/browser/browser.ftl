@@ -720,6 +720,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Embojuaju techaukaháre tendayke ag̃agua
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Embojuaju tendayke ag̃agua techaukaháre…
 
 ## Library Panel items
 

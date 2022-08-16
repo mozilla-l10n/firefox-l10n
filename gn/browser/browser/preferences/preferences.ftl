@@ -518,6 +518,7 @@ choose-bookmark =
 home-prefs-content-header = Kuatiarogue retepy Firefox ñepyrũháme
 home-prefs-content-description = Eiporavo mba’e retepýpa eipota Firefox mba’erechaha ñepyrũháme.
 home-prefs-content-header2 = { -firefox-home-brand-name } Retepy
+home-prefs-content-description2 = Eiporavo mba’e retepýpa eipota { -firefox-home-brand-name } mba’erechahápe.
 home-prefs-search-header =
     .label = Ñandutípe jeheka
 home-prefs-shortcuts-header =
