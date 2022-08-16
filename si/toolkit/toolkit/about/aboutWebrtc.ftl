@@ -33,50 +33,44 @@ about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = දේශීය SDP
 about-webrtc-local-sdp-heading-answer = දේශීය SDP (පිළිතුර)
 about-webrtc-remote-sdp-heading = දුරස්ථ SDP
-about-webrtc-remote-sdp-heading-answer = දුරස්ථ SDP (පිළිතුර)
+about-webrtc-remote-sdp-heading-answer = දුරස්ථ SDP (උත්තරය)
 
 ##
 
 # "RTP" is an abbreviation for the Real-time Transport Protocol, an IETF
 # specification, and should not normally be translated. "Stats" is an
 # abbreviation for Statistics.
-about-webrtc-rtp-stats-heading = RTP තත්වය
+about-webrtc-rtp-stats-heading = RTP සංඛ්‍යාලේඛන
 
 ## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
 ## is an IETF protocol, and should not normally be translated.
 
-about-webrtc-ice-state = ICE තත්වය
+about-webrtc-ice-state = ICE තත්‍වය
 # "Stats" is an abbreviation for Statistics.
-about-webrtc-ice-stats-heading = ICE තත්වය
+about-webrtc-ice-stats-heading = ICE සංඛ්‍යාලේඛන
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
 
-about-webrtc-type-local = දේශීය
+about-webrtc-type-local = ස්ථානීය
 about-webrtc-type-remote = දුරස්ථ
 
 ##
 
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
-about-webrtc-nominated = නාම යෝජිත
-# This adjective is used to label a table column. Cells in this column contain
-# the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = තෝරාගත්
 about-webrtc-save-page-label = පිටුව සුරකින්න
-about-webrtc-debug-mode-msg-label = දෝශ නිරාකරණ ප්‍රකාරය
-about-webrtc-debug-mode-off-state-label = දෝශ නිරාකරණ ප්‍රකාරය අරඹන්න
-about-webrtc-debug-mode-on-state-label = දෝශ නිරාකරණ ප්‍රකාරය නවතන්න
 about-webrtc-stats-heading = වාරයේ සංඛ්‍යාලේඛන
-about-webrtc-stats-clear = අතීතය හිස් කරන්න
-about-webrtc-log-heading = සබඳතා වාර්ථාව
-about-webrtc-log-clear = ලොග් සටහන් හිස් කරන්න
-about-webrtc-log-show-msg = වාර්ථාව පෙන්වන්න
-    .title = මෙම කොටස දිගහැරීමට ක්ලික් කරන්න
-about-webrtc-log-hide-msg = වාර්ථාව සඟවන්න
-    .title = මෙම කොටස හැකිළීමට ක්ලික් කරන්න
+about-webrtc-stats-clear = ඉතිහාසය මකන්න
+about-webrtc-log-heading = සම්බන්ධතා සටහන
+about-webrtc-log-clear = සටහන මකන්න
+about-webrtc-log-show-msg = සටහන පෙන්වන්න
+    .title = මෙම කොටස දිගහැරීමට ඔබන්න
+about-webrtc-log-hide-msg = සටහන සඟවන්න
+    .title = මෙම කොටස හැකිළීමට ඔබන්න
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -90,13 +84,11 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (වැ�
 
 ##
 
-about-webrtc-local-candidate = දේශීය අපේක්ෂකයා
-about-webrtc-remote-candidate = දුරස්ථ අපේක්ෂකයා
 about-webrtc-priority = ප්‍රමුඛතාවය
 about-webrtc-fold-show-msg = විස්තර පෙන්වන්න
-    .title = මෙම කොටස දිගහැරීමට ක්ලික් කරන්න
+    .title = මෙම කොටස දිගහැරීමට ඔබන්න
 about-webrtc-fold-hide-msg = විස්තර සඟවන්න
-    .title = මෙම කොටස හැකිළීමට ක්ලික් කරන්න
+    .title = මෙම කොටස හැකිළීමට ඔබන්න
 about-webrtc-decoder-label = විකේතකය
 about-webrtc-encoder-label = ආකේතකය
 about-webrtc-current-framerate-label = රාමුඅනුපා.
