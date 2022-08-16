@@ -59,3 +59,4 @@ about-private-browsing-pin-promo-link-text =
         [macos] Emboja tembiaporã rendáre
        *[other] Pin tembiaporã renda rehe
     }
+about-private-browsing-pin-promo-title = Kookie nongatupyre ha tembiasakue’ỹre, mohendaha guive. Eikundaha ejehecha’ỹrõguáicha.
