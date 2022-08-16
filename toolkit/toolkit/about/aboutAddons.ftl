@@ -345,10 +345,6 @@ theme-monochromatic-subheading = Nuove vibranti tonalità da { -brand-product-na
 theme-colorways-button = Prova nuove tonalità
 theme-colorways-button-colorway-enabled = Cambia tonalità
 
-colorway-collection-independent-voices-subheading = Rendi { -brand-short-name } un po’ più tuo.
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires.
-colorway-collection-expiry-date-span = Scade il { DATETIME($expiryDate, month: "long", day: "numeric") }
 colorway-collection-expiry-label = Scade il { DATETIME($expiryDate, month: "long", day: "numeric") }
 
 plugin-enabled-heading = Attivi
