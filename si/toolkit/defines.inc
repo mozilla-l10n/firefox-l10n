@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Sinhala (si-LK)
+#define MOZ_LANG_TITLE Sinhala (si)
