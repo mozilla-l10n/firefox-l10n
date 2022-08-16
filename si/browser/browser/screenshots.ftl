@@ -20,3 +20,4 @@ screenshots-connection-error-details = ඔබගේ අන්තර්ජාල 
 screenshots-login-error-details = { -screenshots-brand-name } තිරසේයා සේවාවේ ගැටළුවක් නිසා ඔබගේ සේයාව සුරැකීමට නොහැකි විය. පසුව උත්සාහ කරන්න.
 screenshots-unshootable-page-error-title = අපට මෙම පිටුවේ තිරදසුන් ලබා ගැනීමට නොහැකි.
 screenshots-unshootable-page-error-details = මෙය සම්මත වෙබ් පිටුවක් නොවේ, එම නිසා මෙහි තිරදසුන් ලබා ගැනීමට ඔබට නොහැකිය.
+screenshots-private-window-error-title = { -screenshots-brand-name } පෞද්. පිරික්සුම් ප්‍රකාරයේදී අබල කර ඇත

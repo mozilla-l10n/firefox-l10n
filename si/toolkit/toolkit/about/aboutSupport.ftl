@@ -26,21 +26,19 @@ app-basics-title = යෙදුම් මූලිකාංග
 app-basics-name = නම
 app-basics-version = නිකුතුව
 app-basics-build-id = නිකුතු ID
-app-basics-update-channel = යාවත් නාලිකාව
-app-basics-update-history = යාවත්කාලීන ඉතිහාසය
-app-basics-show-update-history = යාවත්කාලීන ඉතිහාසය පෙන්වන්න
+app-basics-update-channel = යාවත්කාල නාලිකාව
+app-basics-update-history = යාවත්කාල ඉතිහාසය
+app-basics-show-update-history = යාවත්කාල ඉතිහාසය පෙන්වන්න
 app-basics-profile-dir =
     { PLATFORM() ->
-        [linux] ප්‍රොපයිල ඩිරෙක්ටරිය
-       *[other] ෆ්‍රොපයිල ෆෝල්ඩරය
+        [linux] පැතිකඩ නාමාවලිය
+       *[other] පැතිකඩ බහාලුම
     }
-app-basics-enabled-plugins = ප්ලගීන බලැති (Enable) කරන්න
-app-basics-build-config = Build Configuration
-app-basics-user-agent = User Agent
-app-basics-os = OS
-app-basics-memory-use = මෙමරි භාවිතය
-app-basics-performance = ක්‍රියාකාරීත්වය
-app-basics-service-workers = ලියාපදිංචි කළ Service Workers
+app-basics-build-config = තැනීමේ වින්‍යාසය
+app-basics-user-agent = පරිශීලක නියෝතය
+app-basics-os = මෙ. පද්.
+app-basics-memory-use = මතක භාවිතය
+app-basics-performance = ක්‍රියාකාරිත්වය
 app-basics-profiles = පැතිකඩ
 app-basics-launcher-process-status = දියත්කිරීමේ සැකසීම
 app-basics-multi-process-support = බහුසැකසීම් කවුළු

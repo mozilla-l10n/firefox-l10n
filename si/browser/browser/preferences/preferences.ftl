@@ -456,6 +456,7 @@ forms-saved-logins =
 forms-master-pw-change =
     .label = ප්‍රධාන රහස්පදය වෙනස්කරන්න...
     .accesskey = M
+forms-primary-pw-fips-title = ඔබ දැනට FIPS ප්‍රකාරයේ සිටියි. FIPS සඳහා හිස් නොවන ප්‍රාථමික මුරපදයක් අවශ්‍යයි.
 forms-master-pw-fips-desc = රහස්පදය වෙනස් කිරීම අසාර්තකයි
 
 ## OS Authentication dialog
@@ -610,6 +611,13 @@ certs-devices =
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = HTTPS-පමණි ප්‍රකාරය
+httpsonly-radio-enabled =
+    .label = සියළු කවුළුවල HTTPS-පමණි ප්‍රකාරය සබල කරන්න
+httpsonly-radio-enabled-pbm =
+    .label = පෞද්. කවුළුවල පමණක් HTTPS-පමණි ප්‍රකාරය සබල කරන්න
+httpsonly-radio-disabled =
+    .label = HTTPS-පමණි ප්‍රකාරය සබල නොකරන්න
 
 ## The following strings are used in the Download section of settings
 

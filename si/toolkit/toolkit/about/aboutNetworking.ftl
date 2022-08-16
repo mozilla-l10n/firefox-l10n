@@ -6,6 +6,7 @@ about-networking-title = ජාලකරණය පිළිබඳ
 about-networking-http = HTTP
 about-networking-sockets = පේනු
 about-networking-dns = DNS
+about-networking-dns-trr-mode = DoH ප්‍රකාරය
 about-networking-websockets = WebSockets
 about-networking-refresh = ප්‍රතිපූර්ණය
 about-networking-auto-refresh = තත්පර 3 කට වරක් ස්වයං ප්‍රතිපූර්ණය
