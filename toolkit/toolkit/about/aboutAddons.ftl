@@ -84,37 +84,33 @@ addon-restart-now =
 disabled-unsigned-heading =
     .value = ඇතැම් ඇඩෝන අක්‍රීය කර ඇත
 disabled-unsigned-description = පහත ඇඩෝන { -brand-short-name } හි භාවිතයට තහවුරු කර නොමැත. ඔබට හැක්කේ <label data-l10n-name="find-addons">ප්‍රතිස්ථාපනයන් සොයන්න</label> හෝ තහවුරු කිරීම සඳහා සංවර්දකයාගෙන් විමසන්න.
-disabled-unsigned-learn-more = ඔබව මාර්ගගතව ආරක්ෂිතව තැබීම සඳහා අපගේ උත්සාහයන් පිළිබඳ දැනගන්න.
-disabled-unsigned-devinfo = මෙය කියවීම මගින් තම ඇඩෝන තහවුරු කරගැනීමට කැමති සංවර්ධකයන් ඉදිරියට යන්න <label data-l10n-name="learn-more">ශ්‍රමික</label>.
-plugin-deprecation-description = යමක් අහිමිද? { -brand-short-name } විසින් ඇතැම් ප්ලගින වෙත තවදුරටත් සහය නොදක්වයි. <label data-l10n-name="learn-more"> තවත් දැනගන්න.</label>
-addon-category-extension = දිගුකිරීම්
+addon-category-extension = දිගු
 addon-category-extension-title =
-    .title = දිගුකිරීම්
-addon-category-plugin = ප්ලගීන
+    .title = දිගු
+addon-category-plugin = පේනු
 addon-category-plugin-title =
-    .title = ප්ලගීන
-addon-category-dictionary = ශබ්දකෝෂයන්
+    .title = පේනු
+addon-category-dictionary = ශබ්දකෝෂ
 addon-category-dictionary-title =
-    .title = ශබ්දකෝෂයන්
-addon-category-locale = භාෂාවන්
+    .title = ශබ්දකෝෂ
+addon-category-locale = භාෂා
 addon-category-locale-title =
-    .title = භාෂාවන්
-addon-category-available-updates = පවතින යාවත්කාලීන
+    .title = භාෂා
+addon-category-available-updates = තිබෙන යාවත්කාල
 addon-category-available-updates-title =
-    .title = පවතින යාවත්කාලීන
-addon-category-recent-updates = මෑතකාලීන යාවත්කාලීන
+    .title = තිබෙන යාවත්කාල
+addon-category-recent-updates = මෑත යාවත්කාල
 addon-category-recent-updates-title =
-    .title = මෑතකාලීන යාවත්කාලීන
+    .title = මෑත යාවත්කාල
 
 ## These are global warnings
 
-extensions-warning-safe-mode = ආරක්ෂිත මාදිලිය (safe mode) විසින් සියළු ඇඩෝන කර ඇත.
-extensions-warning-check-compatibility = ඇඩෝන අනුකූලතා පරීක්ෂාව අබල (disable) කර ඇත. මෙහි අනුකූල නොවන ඇඩෝන තිබිය හැකිය.
-extensions-warning-check-compatibility-button = බලැති (Enable) කරන්න
-    .title = ඇඩෝන අනුකූලතා පරීක්ෂාව බලැති (Enable) කරන්න
-extensions-warning-update-security = Add-on update security checking is disabled. You may be compromised by updates.
-extensions-warning-update-security-button = බලැති (Enable) කරන්න
-    .title = ඇඩෝන යාවත්කාලීන කිරීමේ ආරක්ෂක සැකසුම් බලැතා (Enable) කරන්න
+extensions-warning-safe-mode = ආරක්‍ෂණ ප්‍රකාරය මගින් සියළු එක්කහු අබල කර ඇත.
+extensions-warning-check-compatibility = එක්කහු ගැළපීම පරීක්‍ෂාව අබල කර ඇත. ඔබ සතුව නොගැළපෙන එක්කහු තිබීමට හැකිය.
+extensions-warning-check-compatibility-button = සබල කරන්න
+    .title = එක්කහු ගැළපීම පරීක්‍ෂාව සබල කරන්න
+extensions-warning-update-security-button = සබල කරන්න
+    .title = එක්කහු යාවත්කාල ආරක්‍ෂණ පරීක්‍ෂාව සබල කරන්න
 
 ## Strings connected to add-on updates
 
