@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editfield0.label "පරිශීලක නම:"> 
-<!ENTITY editfield1.label "රහස්පදය:"> 
-<!ENTITY copyCmd.label    "පිටපත් කරන්න">
+<!ENTITY editfield0.label "පරිශීලක නාමය:">
+<!ENTITY editfield1.label "මුරපදය:">
+<!ENTITY copyCmd.label    "පිටපතක්">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "සිල්ල තෝරන්න">
+<!ENTITY selectAllCmd.label "සියල්ල තෝරන්න">
 <!ENTITY selectAllCmd.accesskey "A">
