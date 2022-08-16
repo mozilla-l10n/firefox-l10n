@@ -130,25 +130,23 @@ delete-email-cert-impact = ඔබ කිසිවෙකුගේ විද්‍
 ## Add Security Exception dialog
 
 add-exception-branded-warning = You are about to override how { -brand-short-name } identifies this site.
-add-exception-invalid-header = මෙම අඩවිය සාවද්‍ය දත්ත මගිවන හදුනාගැනීමට උත්සාහ කරයි.
-add-exception-domain-mismatch-short = වැරදි අඩවියක්
-add-exception-domain-mismatch-long = සහතිකය යම් අයෙකු විසින් මෙම වෙබ් අඩවිය නොමග යැවීමට තැත් කරන බව අදහස් හැකි වෙනස් වෙබ් අඩවිය , අයත් ය.
-add-exception-expired-short = කල් ඉකුත්වූ දත්ත
-add-exception-expired-long = සහතිකය දැනට වලංගු නැත . සොරකම් කළ හෝ නැති වූ අතර, මෙම වෙබ් අඩවිය වෙනත් පුද්ගලයින්ගේ ගමන් බලපත්ර ළඟ තබාගෙන කෙනෙකු විසින් ඒවා භාවිතා කරනු ලැබිය හැකි වී ඇති විය හැක.
-add-exception-unverified-or-bad-signature-short = නොදන්නා අනන්‍යතාවක්
-add-exception-unverified-or-bad-signature-long = හඳුනාගත් බලධාරියකුගෙන් හෝ ආරක්ශාකාරී අත්සනකින් තහවුරු කර නොමැති බැවින්, සහතිකය විශ්වාස කළ නොහැක.
-add-exception-valid-short = වලංගු සහතිකයක්
-add-exception-valid-long = මෙම අඩවිය නිරවද්‍ය, සත්‍යාපනය කළ හදුනාගැනීමක් ලබාදේ. හැරදැමීමක් එක් කිරීමට අවශ්‍ය නැත.
+add-exception-domain-mismatch-short = වැරදි අඩවියකි
+add-exception-domain-mismatch-long = සහතිකය වෙනත් අඩවියකට අයත් වේ, එයින් අදහස් වන්නේ යමෙක් මෙම අඩවිය ලෙස වංචනිකව පෙනී සිටීමට උත්සාහ කරන බවයි.
+add-exception-expired-short = යල් පැන ගිය තොරතුරු
+add-exception-expired-long = සහතිකය දැනට වලංගු නොවේ. එය සොරකම් කර හෝ අහිමි වී හෝ යමෙක් වංචනිකව හැසිරීමට යොදා ගෙන තිබෙනවා විය හැකිය.
+add-exception-unverified-or-bad-signature-short = නොදන්නා අනන්‍යතාවකි
+add-exception-valid-short = වලංගු සහතිකයකි
 add-exception-checking-short = තොරතුරු පිරික්සමින්
-add-exception-checking-long = අඩවිය හදුනා ගැනීමට උත්සාහ කරමින්…
-add-exception-no-cert-short = තොරතුරු නැත
-add-exception-no-cert-long = ලබා දුන් අඩවිය සඳහා හදුනා ගැනිමේ තත්ත්වය ලබා ගත නොහැකි විය.
+add-exception-checking-long = අඩවිය හඳුනා ගැනීමට තැත් කරමින්...
+add-exception-no-cert-short = තොරතුරු නොතිබේ
+add-exception-no-cert-long = මෙම අඩවිය සඳහා හඳුනාගැනීමේ තත්‍වය ගැනීමට නොහැකි විය.
 
 ## Certificate export "Save as" and error dialogs
 
 save-cert-as = සහතිකය ගොනුවට සුරකින්න
-cert-format-base64 = X.509 (PEM) සහතිකය
-cert-format-base64-chain = X.509 Certificate with chain (PEM)
-cert-format-der = X.509 (DER) සහතිකය
-cert-format-pkcs7 = X.509 (PKCS#7) සහතිකය
+cert-format-base64 = X.509 සහතිකය (PEM)
+cert-format-base64-chain = X.509 දාමය සහිත සහතිකය (PEM)
+cert-format-der = X.509 සහතිකය (DER)
+cert-format-pkcs7 = X.509 සහතිකය (PKCS#7)
+cert-format-pkcs7-chain = X.509 දාමය සහිත සහතිකය (PKCS#7)
 write-file-failure = ගොනුවේ දෝෂයකි
