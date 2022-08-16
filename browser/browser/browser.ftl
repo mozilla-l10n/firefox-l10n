@@ -262,16 +262,51 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Skiednis wiskje
-quickactions-print = Ofdrukke
-quickactions-screenshot = In skermôfbylding meitsje
-quickactions-settings = Ynstellingen iepenje
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+quickactions-cmd-addons = add-ons, útwreidingen, tema’s
+# Opens the bookmarks library window
+quickactions-bookmarks = Blêdwizers besjen
+quickactions-cmd-bookmarks = blêdwizers
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Skiednis wiskje
+quickactions-cmd-clearhistory = skiednis wiskje
+# Opens about:downloads page
 quickactions-downloads = Downloads iepenje
-quickactions-viewsource = Boarne besjen
+quickactions-cmd-downloads = downloads
+# Opens the devtools web inspector
 quickactions-inspector = Inspector iepenje
+quickactions-cmd-inspector = inspector, devtools
+# Opens about:logins
+quickactions-logins = Oanmeldingen werjaan
+quickactions-cmd-logins = oanmeldingen, wachtwurden
+# Opens the print dialog
+quickactions-print = Ofdrukke
+quickactions-cmd-print = ôfdrukke
+# Opens a new private browsing window
+quickactions-private = Priveenavigaasjefinster iepenje
+quickactions-cmd-private = priveenavigaasje
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } opfrisse
+quickactions-cmd-refresh = fernije
+# Restarts the browser
 quickactions-restart = { -brand-short-name } opnij starte
+quickactions-cmd-restart = opnij starte
+# Opens the screenshot tool
+quickactions-screenshot2 = In skermôfdruk meitsje
+quickactions-cmd-screenshot = skermôfdruk
+# Opens about:preferences
+quickactions-settings = Ynstellingen iepenje
+quickactions-cmd-settings = ynstellingen, foarkarren, opsjes
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } bywurkje
+quickactions-cmd-update = bywurkje
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Boarne besjen
+quickactions-cmd-viewsource = boarne besjen, boarne
 
 ## Bookmark Panel
 
@@ -567,6 +602,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Blêdwizers trochsykje
 urlbar-result-action-search-history = Skiednis trochsykje
 urlbar-result-action-search-tabs = Ljepblêden trochsykje
+urlbar-result-action-search-actions = Sykaksjes
 
 ## Labels shown above groups of urlbar results
 
@@ -658,6 +694,8 @@ bookmarks-tools =
     .label = Blêdwizerark
 bookmarks-bookmark-edit-panel =
     .label = Dizze blêdwizer bewurkje
+bookmarks-subview-edit-bookmark =
+    .label = Dizze blêdwizer bewurkje…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -849,3 +887,6 @@ data-reporting-notification-button =
     .accesskey = K
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Priveenavigaasje
+
+## Unified extensions (toolbar) button
+
