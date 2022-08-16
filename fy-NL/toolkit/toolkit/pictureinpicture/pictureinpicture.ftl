@@ -15,6 +15,37 @@ pictureinpicture-unpip =
     .aria-label = Weromstjoere nei ljepblêd
 pictureinpicture-close =
     .aria-label = Slute
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-pause-cmd =
+    .aria-label = Pauzearje
+    .title = Pauzearje (Spaasjebalke)
+pictureinpicture-play-cmd =
+    .aria-label = Ofspylje
+    .title = Ofspylje (Spaasjebalke)
+pictureinpicture-mute-cmd =
+    .aria-label = Lûd út
+    .title = Lûd út ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = Lûd oan
+    .title = Lûd oan ({ $shortcut })
+pictureinpicture-close-cmd =
+    .aria-label = Slute
+    .title = Slute ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = Undertitels
+    .title = Undertitels
+
+##
+
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Folslein skerm
+    .title = Folslein skerm (dûbelklik)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Folslein skerm ferlitte
+    .title = Folslein skerm ferlitte (dûbelklik)
 pictureinpicture-subtitles-label = Undertitels
 pictureinpicture-font-size-label = Lettergrutte
 pictureinpicture-font-size-small = Lyts

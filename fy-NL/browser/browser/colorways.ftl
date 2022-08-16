@@ -17,3 +17,7 @@ playmaker-colorway-description = Jo meitsje kânsen om te winnen en helpe elkeni
 expressionist-colorway-name = Ekspresjonist
 expressionist-colorway-description = Jo sjogge de wrâld oars en jo kreaasjes reitsje de emoasjes fan oaren.
 visionary-colorway-name = Fisjonêr
+visionary-colorway-description = Jo twivelje oan de status-quo en stimulearje oaren om harren in bettere takomst foar te stellen.
+activist-colorway-name = Aktivist
+activist-colorway-description = Jo litte de wrâld moaier efter dan jo it fûn ha en lit oaren leauwen.
+dreamer-colorway-name = Dreamer

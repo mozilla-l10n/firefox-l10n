@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Blêdwizer foar ljepblêd meitjse
     .accesskey = l
+tab-context-bookmark-tab =
+    .label = Blêdwizer foar ljepblêd meitsje…
+    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = Iepenje yn nij kontenerljepblêd
     .accesskey = e
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Ljepblêden ferpleatse
         }
     .accesskey = f
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

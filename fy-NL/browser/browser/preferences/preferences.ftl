@@ -490,6 +490,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox-startside (Standert)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (standert)
 home-mode-choice-custom =
     .label = Oanpaste URL’s
 home-mode-choice-blank =
@@ -515,6 +517,8 @@ choose-bookmark =
 
 home-prefs-content-header = Ynhâld fan Firefox-startside
 home-prefs-content-description = Kies hokker ynhâld jo op jo Firefox-startside werjaan wolle.
+home-prefs-content-header2 = { -firefox-home-brand-name }-ynhâld
+home-prefs-content-description2 = Kies hokker ynhâld jo op jo { -firefox-home-brand-name }-skerm werjaan wolle.
 home-prefs-search-header =
     .label = Sykje op it web
 home-prefs-shortcuts-header =
