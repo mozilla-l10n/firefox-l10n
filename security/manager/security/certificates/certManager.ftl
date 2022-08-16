@@ -34,16 +34,13 @@ certmgr-token-name =
 certmgr-begins-label =
     .label = අරඹන්නේ
 certmgr-expires-label =
-    .label = අවලංගු වන දිනය
+    .label = කල් ඉකුත් වීම
 certmgr-email =
-    .label = විද්‍යුත් තැපැල් ලිපිනය
+    .label = වි-තැපැල් ලිපිනය
 certmgr-serial =
     .label = අනුක්‍රමික අංකය
-certmgr-view =
-    .label = පෙන්වන්න…
-    .accesskey = V
 certmgr-edit =
-    .label = Edit Trust…
+    .label = විශ්වාසය සංස්කරණය...
     .accesskey = E
 certmgr-export =
     .label = නිර්යාත…
@@ -52,69 +49,54 @@ certmgr-delete =
     .label = මකන්න…
     .accesskey = D
 certmgr-delete-builtin =
-    .label = Delete or Distrust…
+    .label = මකන්න හෝ අවිශ්වාස...
     .accesskey = D
 certmgr-backup =
-    .label = බැකප්…
+    .label = උපස්ථ...
     .accesskey = B
 certmgr-backup-all =
-    .label = සියල්ල බැකප් කරන්න…
+    .label = සියල්ල උපස්ථ කරන්න...
     .accesskey = k
 certmgr-restore =
     .label = ආයාත…
     .accesskey = m
-certmgr-add-exception =
-    .label = හැරදැමීමක් එක් කරන්න…
-    .accesskey = x
-exception-mgr =
-    .title = ආරක්‍ෂක හැරදැමීම් එක් කරන්න
-exception-mgr-extra-button =
-    .label = Confirm Security Exception
-    .accesskey = C
-exception-mgr-supplemental-warning = පිළිගත් බැංකුවක්, වෙළඳසැලක් හෝ වෙනත්  අඩෙවියක් මෙය නම් ඔබට කිරිමට පවසන්නේ නැත.
+exception-mgr-supplemental-warning = නීත්‍යානුකූල බැංකු, වෙළඳසැල් සහ වෙනත් පොදු අඩවි මෙය කිරීමට අසන්නේ නැත.
 exception-mgr-cert-location-url =
-    .value = පිහිටීම:
+    .value = ස්ථානය:
 exception-mgr-cert-location-download =
     .label = සහතිකය ගන්න
     .accesskey = G
-exception-mgr-cert-status-view-cert =
-    .label = දසුන…
-    .accesskey = V
-exception-mgr-permanent =
-    .label = මෙම හැරදැමීම් ස්ථිරවම තබාගන්න
-    .accesskey = P
-pk11-bad-password = ඇතුල්කල මුරපදය වැරදිය.
-pkcs12-decode-err = ගොනුව විකේතනය අසාර්ථකයි. PKCS #12 ආකෘතියට නොමැතිවීම වගේම, පළුදුවී ඇත, හෝ ඔබ ඇතුල්කල මුරපදය වැරදිය.
-pkcs12-unknown-err-restore = නොදන්නා හේතුවකි, PKCS #12 ගොනුව නැවත පිහිටුවිය නොහැක.
-pkcs12-unknown-err-backup = නොදන්නා හේතුවකි, PKCS #12 ආරක්ෂන ගොනුව සෑදිය නොහැක.
-pkcs12-unknown-err = නොදන්නා හේතුවකි, PKCS #12 මෙහෙයුස අසාර්ථකයි.
-pkcs12-info-no-smartcard-backup = යස පත වැනි ආරක්ෂක උපාංගවලට රක්ෂිත කිරීම කල හැකි දෙයක් නොවේ.
-pkcs12-dup-data = ආරක්ෂක උපාංගයේ ‍සහතිකය සහ පෙෘද්ගලික යතුර දැනටමත් පවතී.
+pk11-bad-password = ඇතුල් කළ මුරපදය වැරදියි.
+pkcs12-decode-err = ගොනුව විකේතනය කිරීමට අසමත් විය. එය PKCS #12 ආකෘතියේ නැත, හෝ හානි වී ඇත, නැතහොත් ඔබ ඇතුල් කළ මුරපදය වැරදිය.
+pkcs12-unknown-err-restore = නොදන්නා හේතු නිසා PKCS #12 ගොනුව ප්‍රත්‍යර්පණයට අසමත් විය.
+pkcs12-unknown-err-backup = නොදන්නා හේතු නිසා PKCS #12 උපස්ථ ගොනුව සෑදීමට අසමත් විය.
+pkcs12-unknown-err = PKCS #12 මෙහෙයුම නොදන්නා හේතු නිසා අසාර්ථක විය.
+pkcs12-dup-data = සහතිකය සහ පුද්ගලික යතුර දැනටමත් ආරක්‍ෂණ උපාංගයේ පවතී.
 
 ## PKCS#12 file dialogs
 
-choose-p12-backup-file-dialog = රක්‍ෂිත ගොනු නාමය
+choose-p12-backup-file-dialog = උපස්ථයට ගොනු නාමය
 file-browse-pkcs12-spec = PKCS12 ගොනු
-choose-p12-restore-file-dialog = Certificate File to Import
+choose-p12-restore-file-dialog = ආයාතයට සහතික ගොනුව
 
 ## Import certificate(s) file dialog
 
 file-browse-certificate-spec = සහතික ගොනු
-import-ca-certs-prompt = ආයාත කිරීමට CA සහතික(ය) ඇති ගොනු තෝරන්න
-import-email-cert-prompt = ආයාත කිරීමට වෙනත් කෙනෙකුගේ විද්‍යුත් තැපැල් සහතික ඇතුළත් ගොනුව තෝරන්න
+import-ca-certs-prompt = ආයාත කිරීමට CA සහතික(ය) අඩංගු ගොනුව තෝරන්න
+import-email-cert-prompt = ආයාත කිරීමට යමෙකුගේ වි-තැපැල් සහතිකය අඩංගු ගොනුව තෝරන්න
 
 ## For editing certificates trust
 
 # Variables:
 #   $certName: the name of certificate
-edit-trust-ca = "{ $certName }" සහතිකය සහතික අධිකාරිය නියෝජය කරයි.
+edit-trust-ca = "{ $certName }" සහතිකය සහතික අධිකාරියක් නියෝජනය කරයි.
 
 ## For Deleting Certificates
 
 delete-user-cert-title =
     .title = ඔබගේ සහතික මකන්න
 delete-user-cert-confirm = මෙම සහතික මැකීමට අවශ්‍ය බවට ඔබට විශ්වාසද?
-delete-user-cert-impact = ඔබ ඔබගේම සහතිකයක් මැකුවහොත්, ඔබේ අනන්‍යතාවය දැක්වීමට තවදුරටත් එය භාවිතා කළ නොහැකි ය.
+delete-user-cert-impact = ඔබගේම සහතිකයක් මකා දැමුවහොත්, තවදුරටත් එය ඔබව හඳුනා ගැනීමට භාවිත කළ නොහැකිය.
 delete-ca-cert-title =
     .title = CA සහතික මකන්න හෝ අවිශ්වාස කරන්න
 delete-ca-cert-confirm = ඔබ මෙම CA සහතික මකා දැමීමට ඉල්ලා ඇත. නිර්මිත සහතික සඳහා සියළු විශ්වාස ද ඉවත් කරනු ලැබේ. ඔබට මැකීමට හෝ අවිශ්වාස කිරීමට අවශ්‍ය බව විශ්වාසද?
