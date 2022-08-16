@@ -2,23 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-unknowncontenttype-settingschange =
-    .value =
-        { PLATFORM() ->
-            [windows] සැකසුම් { -brand-short-name } හි විකල්ප තුළ වෙනස් කළ හැක.
-           *[other] සැකසුම් { -brand-short-name } හි අභිප්‍රේත තුළ වෙනස් කළ හැක.
-        }
-
 unknowncontenttype-intro = ඔබ විවෘත කිරීමට තෝරන ලද්දේ:
-unknowncontenttype-which-is = එනම්:
-unknowncontenttype-from = සිට:
-unknowncontenttype-prompt = ඔබ මෙම ගොනුව සුරකීමට කැමතිද?
-unknowncontenttype-action-question = { -brand-short-name } මෙ ගොනුව සමග කුමක් කළ යුතුද?
+unknowncontenttype-from = වෙතින්:
+unknowncontenttype-prompt = ඔබ මෙම ගොනුව සුරැකීමට කැමතිද?
+unknowncontenttype-action-question = මෙම ගොනුව සමඟ { -brand-short-name } කුමක් කළ යුතුද?
 unknowncontenttype-open-with =
-    .label = සමඟ විවෘත කරන්න
+    .label = සමඟ අරින්න
     .accesskey = O
 unknowncontenttype-other =
-    .label = අනිකුත්...
+    .label = වෙනත්…
 unknowncontenttype-choose-handler =
     .label =
         { PLATFORM() ->

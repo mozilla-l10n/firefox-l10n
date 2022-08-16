@@ -4,5 +4,4 @@
 
 refresh-profile-dialog-button =
     .label = { -brand-short-name } නැවුම් කරන්න
-refresh-profile = { -brand-short-name } සීරුමාරුවක් ලබාදෙන්න
 refresh-profile-button = { -brand-short-name } නැවුම් කරන්න...
