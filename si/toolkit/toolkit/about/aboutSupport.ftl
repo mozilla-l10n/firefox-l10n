@@ -71,7 +71,6 @@ graphics-decision-log-title = තීරණ වාර්ථාව
 a11y-title = ප්‍රවේශතාව
 a11y-activated = සක්‍රීය කළ
 a11y-force-disabled = පිවිසුම අබල කරන්න
-library-version-title = පුස්තකාල නිකුතුව
 copy-text-to-clipboard-label = පෙළ පිටපතක් පසුරු පුවරුවට
 copy-raw-data-to-clipboard-label = අමු දත්ත පිටපතක් පසුරු පුවරුවට
 sandbox-sys-call-pid = PID
