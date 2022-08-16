@@ -98,7 +98,7 @@ about-webrtc-fold-show-msg = විස්තර පෙන්වන්න
 about-webrtc-fold-hide-msg = විස්තර සඟවන්න
     .title = මෙම කොටස හැකිළීමට ක්ලික් කරන්න
 about-webrtc-decoder-label = විකේතකය
-about-webrtc-encoder-label = සංකේතකය
+about-webrtc-encoder-label = ආකේතකය
 about-webrtc-current-framerate-label = රාමුඅනුපා.
 about-webrtc-width-px = පළල (px)
 about-webrtc-height-px = උස (px)
@@ -114,18 +114,11 @@ about-webrtc-height-px = උස (px)
 ## Variables:
 ##  $path (String) - The path to which the file is saved.
 
-about-webrtc-save-page-msg = පිටුව සුරැකෙනු ඇත්තේ: { $path }
-about-webrtc-debug-mode-off-state-msg = ලුහුබැඳීම් වාර්ථාව හමුවනු ඇත්තේ: { $path }
-about-webrtc-debug-mode-on-state-msg = දෝශ නිරාකරණ ප්‍රකාරය සක්‍රීයයි, ලුහුබැඳීම් වාර්ථාව: { $path }
-about-webrtc-aec-logging-off-state-msg = ග්‍රහණය කළ වාර්ථා ගොනු සොයාගත හැක්කේ: { $path }
+about-webrtc-save-page-msg = පිටුව සුරකින ලද්දේ: { $path }
+about-webrtc-aec-logging-off-state-msg = ග්‍රහණය කළ සටහන් ගොනු: { $path }
 
 ##
 
-# Jitter is the variance in the arrival time of packets.
-# See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
-# Variables:
-#   $jitter (Number) - The jitter.
-about-webrtc-jitter-label = ව්‍යාකූල { $jitter }
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
