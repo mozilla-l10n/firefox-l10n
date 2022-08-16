@@ -5,10 +5,6 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
-about-service-workers-title = Service Workers පිළිබඳ
-about-service-workers-main-title = ලියාපදිංචි කළ Service Workers
-about-service-workers-warning-not-enabled = Service Workers සක්‍රීය කළ නොහැක.
-about-service-workers-warning-no-service-workers = කිසිඳු Service Workers ලියාපදිංචියක් නොමැත.
 # The original title of service workers' information
 #
 # Variables:

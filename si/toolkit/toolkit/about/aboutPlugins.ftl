@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = ප්ලගීන
-
 installed-plugins-label = ස්ථාපිත ප්ලගින
 no-plugins-are-installed-label = කිසිඳු ස්ථාපිත ප්ලගිනයන් හමු නොවිනි
-
 deprecation-description = යමක් අහිමිද? ඇතැම් ප්ලගින වෙත තවදුරටත් සහය නොදක්වයි. <a data-l10n-name="deprecation-link">තවත් දැනගන්න.</a>
 
 ## The information of plugins
@@ -25,19 +23,14 @@ version-dd = <span data-l10n-name="version">නිකුතුව::</span> { $ve
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
-state-dd-enabled = <span data-l10n-name="state">තත්වය:</span> සක්‍රීයයි
-state-dd-enabled-block-list-state = <span data-l10n-name="state">තත්වය:</span> සක්‍රීයයි ({ $blockListState })
-state-dd-Disabled = <span data-l10n-name="state">තත්වය:</span> අක්‍රීයයි
-state-dd-Disabled-block-list-state = <span data-l10n-name="state">තත්වය:</span> අක්‍රීයයි ({ $blockListState })
-
+state-dd-enabled = <span data-l10n-name="state">තත්‍වය:</span> සබලයි
+state-dd-enabled-block-list-state = <span data-l10n-name="state">තත්‍වය:</span> සබලයි ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">තත්‍වය:</span> අබලයි
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">තත්‍වය:</span> අබලයි ({ $blockListState })
 mime-type-label = MIME වර්ගය
 description-label = විස්තරය
-suffixes-label = ප්‍රත්‍ය
 
 ## Gecko Media Plugins (GMPs)
 
 plugins-gmp-license-info = බලපත්‍ර තොරතුරු
 plugins-gmp-privacy-info = පෞද්ගලිකත්ව තොරතුරු
-
-plugins-openh264-name = OpenH264 වීඩියෝ කේතනය ලබාදෙන්නේ Cisco Systems, Inc වෙතිනි.
-
