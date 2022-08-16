@@ -57,7 +57,7 @@ firefoxview-pickup-tabs-badge = Апошняя актыўная
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Адкрыць { $targetURI } у новай картцы
-firefoxview-try-colorways-button = Паспрабуйце расфарбоўкі
+firefoxview-try-colorways-button = Паспрабаваць расфарбоўкі
 firefoxview-no-current-colorway-collection = Новыя расфарбоўкі на падыходзе
 firefoxview-change-colorway-button = Змяніць расфарбоўку
 # Variables:
