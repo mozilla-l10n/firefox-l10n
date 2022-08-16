@@ -3,17 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 wizard-macos-button-back =
-    .label = පසුපසට
+    .label = ආපසු යන්න
     .accesskey = B
 wizard-linux-button-back =
-    .label = පසුපසට
+    .label = ආපසු
     .accesskey = B
 wizard-win-button-back =
-    .label = < පසුපසට
+    .label = < ආපසු
     .accesskey = B
-
 wizard-macos-button-next =
-    .label = දිගටම කරගෙන යන්න
+    .label = ඉදිරියට
     .accesskey = C
 wizard-linux-button-next =
     .label = ඉදිරියට
@@ -21,17 +20,15 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = ඉදිරියට >
     .accesskey = N
-
 wizard-macos-button-finish =
-    .label = කළා
+    .label = අහවරයි
 wizard-linux-button-finish =
     .label = අවසානයි
 wizard-win-button-finish =
     .label = අවසානයි
-
 wizard-macos-button-cancel =
-    .label = එපා
+    .label = අවලංගු
 wizard-linux-button-cancel =
-    .label = එපා
+    .label = අවලංගු
 wizard-win-button-cancel =
-    .label = එපා
+    .label = අවලංගු

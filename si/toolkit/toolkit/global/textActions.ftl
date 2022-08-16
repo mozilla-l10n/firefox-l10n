@@ -3,50 +3,37 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 text-action-undo =
-    .label = අවලංගු
+    .label = පෙරසේ
     .accesskey = U
-
 text-action-undo-shortcut =
     .key = Z
-
 text-action-redo =
-    .label = යළි කරන්න
+    .label = පසුසේ
     .accesskey = R
-
 text-action-redo-shortcut =
     .key = Y
-
 text-action-cut =
     .label = කපන්න
     .accesskey = t
-
 text-action-cut-shortcut =
     .key = X
-
 text-action-copy =
-    .label = පිටපත් කරන්න
+    .label = පිටපතක්
     .accesskey = C
-
 text-action-copy-shortcut =
     .key = C
-
 text-action-paste =
     .label = අලවන්න
     .accesskey = P
-
 text-action-paste-shortcut =
     .key = V
-
 text-action-delete =
     .label = මකන්න
     .accesskey = D
-
 text-action-select-all =
     .label = සියල්ල තෝරන්න
     .accesskey = A
-
 text-action-select-all-shortcut =
     .key = A
-
 text-action-search-text-box-clear =
-    .title = හිස් කරන්න
+    .title = මකන්න
