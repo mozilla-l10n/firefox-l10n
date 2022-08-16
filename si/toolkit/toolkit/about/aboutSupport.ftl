@@ -72,23 +72,21 @@ a11y-title = ප්‍රවේශතාව
 a11y-activated = සක්‍රීය කළ
 a11y-force-disabled = පිවිසුම අබල කරන්න
 library-version-title = පුස්තකාල නිකුතුව
-copy-text-to-clipboard-label = පෙළ පසුරු පුවරුවට පිටපත් කරන්න
-copy-raw-data-to-clipboard-label = අමු දත්ත පසුරු පුවරුවට පිටපත් කරන්න
-sandbox-title = සෑන්ඩ්බොක්ස්
+copy-text-to-clipboard-label = පෙළ පිටපතක් පසුරු පුවරුවට
+copy-raw-data-to-clipboard-label = අමු දත්ත පිටපතක් පසුරු පුවරුවට
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
-sandbox-sys-call-args = තර්ක
 
 ## Media titles
 
 media-output-devices-title = ප්‍රතිදාන උපාංග
-media-input-devices-title = ආදාන උපකරණ
+media-input-devices-title = ආදාන උපාංග
 media-device-name = නම
 media-device-group = සමුහය
-media-device-vendor = සම්පාදක
-media-device-state = තත්වය
-media-device-preferred = කැමති
-media-device-format = හැඩසවිය
+media-device-vendor = විකුණුම්කරු
+media-device-state = තත්‍වය
+media-device-preferred = වඩා කැමති
+media-device-format = ආකෘතිය
 
 ##
 
@@ -110,55 +108,37 @@ intl-os-title = මෙහෙයුම් පද්ධතිය
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
     { $days ->
-        [one] අවසන් { $days } දිනය සඳහා බිඳවැටීම් වාර්ථා
-       *[other] අවසන් { $days } දින සඳහා බිඳවැටීම් වාර්ථා
+        [one] පසුගිය දවස් { $days } සඳහා බිඳ වැටීම් වාර්තා
+       *[other] පසුගිය දවස් { $days } සඳහා බිඳ වැටීම් වාර්තා
     }
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
     { $minutes ->
-        [one] මිනිත්තු { $minutes } පෙර
-       *[other] මිනිත්තු { $minutes } පෙර
+        [one] විනාඩි { $minutes } කට පෙර
+       *[other] විනාඩි { $minutes } කට පෙර
     }
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
     { $hours ->
-        [one] පැය { $hours } පෙර
-       *[other] පැය { $hours } පෙර
+        [one] පැය { $hours } කට පෙර
+       *[other] පැය { $hours } කට පෙර
     }
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
     { $days ->
-        [one] දින { $days } පෙර
-       *[other] දින { $days } පෙර
-    }
-# Variables
-# $reports (integer) - Number of pending reports
-pending-reports =
-    { $reports ->
-        [one] සියළුම බිඳවැටීම් වාර්ථා (දෙනලද කාල පරාසය තුළ පොරොත්තු වූ { $reports } බිඳවැටීමද ඇතුළුව)
-       *[other] සියළුම බිඳවැටීම් වාර්ථා (දෙනලද කාල පරාසය තුළ පොරොත්තු වූ { $reports } බිඳවැටීම්ද ඇතුළුව)
+        [one] දවස් { $days } කට පෙර
+       *[other] දවස් { $days } කට පෙර
     }
 raw-data-copied = අමු දත්ත පසුරු පුවරුවට පිටපත් විය
-text-copied = Text copied to clipboard
+text-copied = පෙළ පසුරු පුවරුවට පිටපත් විය
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
-blocked-driver = ඔබගේ ග්‍රැපික්ස් ධාවක නිකුතුව සඳහා අවහිර කර ඇත.
-blocked-gfx-card = නොවිසඳුනු ධාවක ගැටළු නිසා ඔබගේ ග්‍රැපික්ස් කාඩ් එක සඳහා අවහිර කර ඇත.
-blocked-os-version = ඔබගේ මෙහෙයුම් පද්ධති නිකුතුව සඳහා අවහිර කර ඇත.
-blocked-mismatched-version = ඔබගේ චිත්‍රණ ධාවක නිකුතුව ලියාපදිංචිය හා DLL අතර නොගැලපීම නිසා අවහිර කර ඇත.
-# Variables
-# $driverVersion - The graphics driver version string
-try-newer-driver = ඔබගේ ග්‍රැපික්ස් ධාවක නිකුතුව සඳහා අවහිර කර ඇත. { $driverVersion } හෝ ඊට අළුත් නැකුතුවක් වෙත ග්‍රැපික්ස් ධාවක නිකුතුව යාවත්කාලීන කර උත්සාහ කරන්න.
-# "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
-# there are no good translations, these are only used in about:support
-clear-type-parameters = ClearType Parameters
-compositing = නිබන්ධනය කරමින්
-hardware-h264 = දෘඩාංග H264 විකේතණය
-main-thread-no-omtc = ප්‍රධාන තීරය, OMTC නොමැත
+blocked-os-version = ඔබගේ මෙහෙයුම් පද්ධතියේ අනුවාදය සඳහා අවහිරයි.
+hardware-h264 = දෘඩාංග H264 විකේතනය
 yes = ඔව්
 no = නැහැ
 unknown = නොදන්නා
@@ -168,42 +148,36 @@ unknown = නොදන්නා
 ## not found.
 
 found = හමුවුණි
-gpu-description = විස්තරය
-gpu-vendor-id = නිශ්පාදක ID
-gpu-device-id = උපාංග ID
-gpu-subsys-id = අනුපද්ධති ID
-gpu-drivers = ධාවකයන්
+gpu-description = සවිස්තරය
+gpu-vendor-id = විකුණුම්කරු හැඳු.
+gpu-device-id = උපාංගයේ හැඳු.
+gpu-subsys-id = අනුපද්ධති හැඳු.
+gpu-drivers = ධාවක
 gpu-ram = RAM
-gpu-driver-version = ධාවක නිකුතුව
+gpu-driver-version = ධාවකයේ අනුවාදය
 gpu-driver-date = ධාවක දිනය
-gpu-active = සක්‍රීය
-webgl1-version = WebGL 1 ධාවක අනුවාදය
+gpu-active = සක්‍රිය
+webgl1-version = WebGL 1 ධාවකයේ අනුවාදය
 webgl1-driver-extensions = WebGL 1 ධාවක දිගු
 webgl1-extensions = WebGL 1 දිගු
-webgl2-version = WebGL 2 ධාවක අනුවාදය
+webgl2-version = WebGL 2 ධාවකයේ අනුවාදය
 webgl2-driver-extensions = WebGL 2 ධාවක දිගු
 webgl2-extensions = WebGL 2 දිගු
 glcontext-crash-guard = OpenGL
-min-lib-versions = බලාපොරුත්තුවන අවම නිකුතුව
-loaded-lib-versions = දැනට භාවිතා වන නිකුතුව
-has-seccomp-bpf = Seccomp-BPF (පද්ධති ඇමතුම් පෙරහණ්කරනය)
-has-seccomp-tsync = Seccomp තීර සම්මුහුර්ථකරණය
-has-user-namespaces = පරිශීලක නාම ඉඩ
-has-privileged-user-namespaces = බලලත් ක්‍රියාවලියන් සඳහා පරිශීලක නාම ඉඩ
-can-sandbox-content = අන්තර්ගත සැකසුම් සෑන්ඩ්බොක්ස්කරණය
-can-sandbox-media = මාධ්‍ය ප්ලගින සෑන්ඩ්බොක්ස්කරණය
+min-lib-versions = අපේක්‍ෂිත අවම අනුවාදය
+loaded-lib-versions = භාවිතා වන අනුවාදය
+has-seccomp-bpf = Seccomp-BPF (පද්ධතියේ ඇමතුම් පෙරීීම)
 sandbox-proc-type-content = අන්තර්ගතය
-launcher-process-status-0 = සක්‍රීය කළ
-launcher-process-status-unknown = නොදන්නා තත්වයකි
+launcher-process-status-0 = සබලයි
+launcher-process-status-unknown = නොදන්නා තත්‍වයකි
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-async-pan-zoom = අසමමුහූර්තක Pan/Zoom
-apz-none = නොමැත
-wheel-enabled = රෝද ආදාන සක්‍රීයයි
-touch-enabled = ස්පර්ශ ආදාන සක්‍රීයයි
-drag-enabled = ස්ක්‍රෝල් තීරු ඇදීම සක්‍රීයයි
+apz-none = කිසිත් නැත
+wheel-enabled = රෝද ආදාන සබලයි
+touch-enabled = ස්පර්ශ ආදානය සබලයි
+drag-enabled = අනුචලන තීරුව ඇදීම සබලයි
 keyboard-enabled = යතුරුපුවරුව සබලයි
 
 ## Variables
