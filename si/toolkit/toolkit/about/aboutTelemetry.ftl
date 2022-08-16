@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-telemetry-ping-data-source = පින්ග් දත්ත මූලය:
-about-telemetry-show-archived-ping-data = සංරක්ශිත පින්ග් දත්ත
 about-telemetry-show-subsession-data = අනුවාර දත්ත පෙන්වන්න
 about-telemetry-option-group-today = අද
 about-telemetry-option-group-yesterday = ඊයේ
