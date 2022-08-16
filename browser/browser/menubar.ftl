@@ -38,11 +38,9 @@ menu-quit =
             [windows] Q
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Quitter { -brand-shorter-name }
-
 menu-about =
     .label = À propos de { -brand-shorter-name }
     .accesskey = p
@@ -224,6 +222,10 @@ menu-bookmark-current-tab =
     .label = Marquer l’onglet courant
 menu-bookmark-edit =
     .label = Modifier ce marque-page
+menu-bookmark-tab =
+    .label = Marquer l’onglet courant…
+menu-edit-bookmark =
+    .label = Modifier ce marque-page…
 menu-bookmarks-all-tabs =
     .label = Marquer tous les onglets…
 menu-bookmarks-toolbar =
