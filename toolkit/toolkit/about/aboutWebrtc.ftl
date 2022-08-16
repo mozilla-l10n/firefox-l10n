@@ -7,31 +7,31 @@
 ### for WebRTC calls. See https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API.
 
 # The text "WebRTC" is a proper noun and should not be translated.
-about-webrtc-document-title = WebRTC අභ්‍යන්තරයන්
+about-webrtc-document-title = WebRTC අභ්‍යන්තර
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
-about-webrtc-save-page-dialog-title = about:webrtc සුරකින්නේ
+about-webrtc-save-page-dialog-title = ලෙස about:webrtc සුරකින්න
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
-about-webrtc-aec-logging-msg-label = AEC වාර්ථාකරණය
-about-webrtc-aec-logging-off-state-label = AEC වාර්ථාකරණය අරඹන්න
-about-webrtc-aec-logging-on-state-label = AEC වාර්ථාකරණය නවතන්න
-about-webrtc-aec-logging-on-state-msg = AEC වාර්ථාකරණය සක්‍රීයයි (අමතන්නා සමඟ මිනිත්තු කිහිපයක් කථාකර ග්‍රහණය නවතන්න)
+about-webrtc-aec-logging-msg-label = AEC සටහන් තැබීම
+about-webrtc-aec-logging-off-state-label = AEC සටහන් තැබීම අරඹන්න
+about-webrtc-aec-logging-on-state-label = AEC සටහන නවතන්න
+about-webrtc-aec-logging-on-state-msg = AEC සටහන් තැබීම සක්‍රියයි (අමතන්නා සමඟ විනාඩි කිහිපයක් කතා කර ග්‍රහණය නවතන්න)
 
 ##
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
-about-webrtc-peerconnection-id-label = PeerConnection ID:
+about-webrtc-peerconnection-id-label = PeerConnection හැඳු.:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
 about-webrtc-sdp-heading = SDP
-about-webrtc-local-sdp-heading = දේශීය SDP
-about-webrtc-local-sdp-heading-answer = දේශීය SDP (පිළිතුර)
+about-webrtc-local-sdp-heading = ස්ථානීය SDP
+about-webrtc-local-sdp-heading-answer = ස්ථානීය SDP (උත්තරය)
 about-webrtc-remote-sdp-heading = දුරස්ථ SDP
 about-webrtc-remote-sdp-heading-answer = දුරස්ථ SDP (උත්තරය)
 
