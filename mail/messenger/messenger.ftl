@@ -131,8 +131,6 @@ other-action-redirect-msg =
 message-header-msg-flagged =
     .title = Serennog
     .aria-label = Serennog
-message-header-msg-not-flagged =
-    .title = Neges heb ei marcio â seren
 # Variables:
 # $address (String) - The email address of the recipient this picture belongs to.
 message-header-recipient-avatar =
@@ -182,7 +180,7 @@ addon-removal-confirmation-button = Tynnu
 addon-removal-confirmation-message = Tynnu { $name } yn ogystal â'i ffurfweddiad a'i ddata o { -brand-short-name }?
 caret-browsing-prompt-title = Pori Caret
 caret-browsing-prompt-text = Mae pwyso F7 yn cychwyn a diffodd Pori Caret. Mae'r nodwedd hon yn gosod cyrchwr symudol ar dudalennau gwe, gan ganiatáu i chi ddewis testun gyda'r bysellfwrdd. Hoffech chi gychwyn Pori Caret?
-caret-browsing-prompt-check-text = Peidio a gofyn eto.
+caret-browsing-prompt-check-text = Peidio â gofyn eto.
 repair-text-encoding-button =
     .label = Trwsio Amgodio Testun
     .tooltiptext = Dyfalu'r amgodiad testun cywir o gynnwys y neges
@@ -240,18 +238,6 @@ settings-context-open-addons-item2 =
 
 spaces-toolbar-pinned-tab-button =
     .tooltiptext = Dewislen Mannau
-spaces-pinned-button-menuitem-mail =
-    .label = { spaces-toolbar-button-mail.title }
-spaces-pinned-button-menuitem-address-book =
-    .label = { spaces-toolbar-button-address-book.title }
-spaces-pinned-button-menuitem-calendar =
-    .label = { spaces-toolbar-button-calendar.title }
-spaces-pinned-button-menuitem-tasks =
-    .label = { spaces-toolbar-button-tasks.title }
-spaces-pinned-button-menuitem-chat =
-    .label = { spaces-toolbar-button-chat.title }
-spaces-pinned-button-menuitem-settings =
-    .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-mail2 =
     .label = { spaces-toolbar-button-mail2.title }
 spaces-pinned-button-menuitem-address-book2 =
