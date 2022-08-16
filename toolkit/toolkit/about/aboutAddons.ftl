@@ -2,22 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-page-title = ඇඩෝන කළමනාකරු
+addons-page-title = එක්කහු කළමනාකරු
 search-header =
     .placeholder = addons.mozilla.org සොයන්න
     .searchbuttonlabel = සොයන්න
 search-header-shortcut =
     .key = f
 list-empty-installed =
-    .value = මේ ආකාරයේ කිසිඳු ඇඩෝනයක් ඔබ ස්ථාපනය කර නැත
+    .value = මෙම වර්ගයේ කිසිදු එක්කහුවක් ස්ථාපනය කර නැත
 list-empty-available-updates =
-    .value = යාවත්කාලීන හමු නොවීය
+    .value = යාවත්කාල හමු නොවිණි
 list-empty-recent-updates =
-    .value = ඔබ කිසිඳු ඇඩෝනයක් මෑතකදී යාවත්කාලීන කර නැත
+    .value = මෑතදී කිසිදු එක්කහුවක් යාවත්කාල කර නැත
 list-empty-find-updates =
-    .label = යාවත්කාලීන සඳහා පරීක්ෂා කරන්න
+    .label = යාවත්කාල පරීක්‍ෂා කරන්න
 list-empty-button =
-    .label = ඇඩෝන පිළිබඳව වැඩිදුරටත් දැනගන්න
+    .label = එක්කහු ගැන තව දැනගන්න
 help-button = එක්කහු සහාය
 sidebar-help-button-title =
     .title = එක්කහු සහාය
