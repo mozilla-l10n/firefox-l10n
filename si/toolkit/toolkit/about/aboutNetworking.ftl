@@ -4,34 +4,30 @@
 
 about-networking-title = ජාලකරණය පිළිබඳ
 about-networking-http = HTTP
-about-networking-sockets = පේනු
-about-networking-dns = DNS
+about-networking-sockets = කෙවෙනි
+about-networking-dns = ව.නා.ප.
 about-networking-dns-trr-mode = DoH ප්‍රකාරය
-about-networking-websockets = WebSockets
-about-networking-refresh = ප්‍රතිපූර්ණය
-about-networking-auto-refresh = තත්පර 3 කට වරක් ස්වයං ප්‍රතිපූර්ණය
-about-networking-hostname = ධාරක නම
-about-networking-port = පේනුව
+about-networking-websockets = විය. කෙවෙනි
+about-networking-refresh = නැවුම් කරන්න
+about-networking-auto-refresh = තත්. 3 කට වරක් ස්වයං නැවුම් වීම
+about-networking-hostname = සත්කාරක නාමය
+about-networking-port = තොට
 about-networking-ssl = SSL
-about-networking-active = සක්‍රීය
-about-networking-idle = නිශ්චල
+about-networking-active = සක්‍රිය
 about-networking-host = ධාරකය
 about-networking-sent = යැවු
-about-networking-received = ලැබුනු
+about-networking-received = ලැබුණු
 about-networking-family = පවුල
 about-networking-trr = TRR
 about-networking-addresses = ලිපින
-about-networking-expires = කල් ඉකුත්වේ (තත්පර)
+about-networking-expires = ඉකුත් වීම (තත්පර)
 about-networking-messages-sent = යැවූ පණිවිඩ
 about-networking-messages-received = පණිවිඩ ලැබුණි
 about-networking-bytes-sent = යැවූ බයිට
-about-networking-bytes-received = ලැබුනු බයිට
-about-networking-dns-lookup = DNS සෙවීම
-about-networking-dns-lookup-button = විසඳන්න
+about-networking-bytes-received = ලැබුණු බයිට
+about-networking-dns-lookup = ව.නා.ප. බැලීම
 about-networking-dns-domain = වසම:
-about-networking-dns-lookup-table-column = IPs
-about-networking-rcwn-perf-open = විවෘත කරන්න
-about-networking-rcwn-perf-write = ලියන්න
+about-networking-dns-lookup-table-column = අ.ජා.කෙ.
 
 ## Link is intended as "network link"
 
