@@ -67,6 +67,7 @@ policy-Extensions = Utwreidingen ynstallearje, fuortsmite of beskoattelje. De op
 policy-ExtensionSettings = Alle aspekten fan ynstallaasje fan útwreidingen beheare.
 policy-ExtensionUpdate = Automatyske útwreiding-fernijingen ynskeakelje of útskeakelje.
 policy-FirefoxHome = De startside fan Firefox ynstelle.
+policy-FirefoxHome2 = { -firefox-home-brand-name } konfigurearje.
 policy-FlashPlugin = Gebrûk fan de Flash-ynstekker tastean of wegerje.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Direkte navigaasje op yntranetsites forsearje yn stee fan sykje by it typen fan inkelde wurden yn de adresbalke.
 policy-Handlers = Standert tapassinghandlers konfigurearje
