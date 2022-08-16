@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-title-label = ප්ලගීන
-installed-plugins-label = ස්ථාපිත ප්ලගින
-no-plugins-are-installed-label = කිසිඳු ස්ථාපිත ප්ලගිනයන් හමු නොවිනි
-deprecation-description = යමක් අහිමිද? ඇතැම් ප්ලගින වෙත තවදුරටත් සහය නොදක්වයි. <a data-l10n-name="deprecation-link">තවත් දැනගන්න.</a>
 
 ## The information of plugins
 ##
@@ -15,8 +11,8 @@ deprecation-description = යමක් අහිමිද? ඇතැම් ප�
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">ගොනුව:</span> { $pluginLibraries }
-path-dd = <span data-l10n-name="path">මඟ:</span> { $pluginFullPath }
-version-dd = <span data-l10n-name="version">නිකුතුව::</span> { $version }
+path-dd = <span data-l10n-name="path">මාර්ගය:</span> { $pluginFullPath }
+version-dd = <span data-l10n-name="version">අනුවාදය:</span> { $version }
 
 ## These strings describe the state of plugins
 ##
