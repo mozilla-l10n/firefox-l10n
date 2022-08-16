@@ -3,15 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiledowngrade-window =
-    .title = ඔබ පැරණි { -brand-product-name } නිකුතුවක් දියත් කරයි.
+    .title = ඔබ පරණ { -brand-product-name } අනුවාදයක් දියත් කර ඇත
     .style = width: 490px;
-
 profiledowngrade-window-create =
-    .label = නව පැතිකඩක් තනන්න
-
+    .label = නව පැතිකඩක් සාදන්න
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->
-            [windows] පිටවීම
-           *[other] ඉවත්වීම
+            [windows] පිටවන්න
+           *[other] ඉවත්වන්න
         }
