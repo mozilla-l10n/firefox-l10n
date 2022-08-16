@@ -41,33 +41,30 @@ app-basics-os = OS
 app-basics-memory-use = මෙමරි භාවිතය
 app-basics-performance = ක්‍රියාකාරීත්වය
 app-basics-service-workers = ලියාපදිංචි කළ Service Workers
-app-basics-profiles = පැතිකඩයන්
-app-basics-launcher-process-status = දියත්කිරීම් සැකසුම
-app-basics-multi-process-support = බහුසැකසුම් කවුළු
+app-basics-profiles = පැතිකඩ
+app-basics-launcher-process-status = දියත්කිරීමේ සැකසීම
+app-basics-multi-process-support = බහුසැකසීම් කවුළු
 app-basics-enterprise-policies = ව්‍යවසාය ප්‍රතිපත්ති
 app-basics-key-mozilla = මොසිල්ලා ස්ථාන සේවා යතුර
-app-basics-safe-mode = ආරක්ෂිත ප්‍රකාරය
+app-basics-safe-mode = ආරක්‍ෂිත ප්‍රකාරය
 show-dir-label =
     { PLATFORM() ->
-        [macos] Finder තුළ පෙන්වන්න
-        [windows] බහළුම තුළ පෙන්වන්න
-       *[other] නාමාවලිය තුළ පෙන්වන්න
+        [macos] සෙවීමෙහි පෙන්වන්න
+        [windows] බහාලුම අරින්න
+       *[other] නාමාවලිය අරින්න
     }
-modified-key-prefs-title = ආයාතකළ වෙනස්කළ මනාපයන්
+modified-key-prefs-title = ආයාත කළ සංශෝධිත අභිප්‍රේත
 modified-prefs-name = නම
 modified-prefs-value = අගය
 user-js-title = user.js අභිප්‍රේත
-user-js-description = ඔබේ පැතිකඩ බහලුම සතුව { -brand-short-name } මගින් නිර්මාණය නොකල අභිප්‍රේතද අඩංගු <a data-l10n-name="user-js-link">user.js file</a> පවතී.
-locked-key-prefs-title = වැදගත් අගුළුලූ අභිප්‍රේත
+user-js-description = ඔබගේ පැතිකඩ බහාලුමෙහි <a data-l10n-name="user-js-link">user.js ගොනුවක්</a> අඩංගු වේ, එහි { -brand-short-name } මගින් නොසෑදූ අභිප්‍රේත ඇතුළත් වේ.
+locked-key-prefs-title = වැදගත් අගුළු දැමූ අභිප්‍රේත
 locked-prefs-name = නම
 locked-prefs-value = අගය
-graphics-title = පිංතූර
 graphics-features-title = විශේෂාංග
 graphics-diagnostics-title = දෝෂ නිර්ණය
-graphics-failure-log-title = අසමර්ථ වාර්ථාව
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
-graphics-decision-log-title = තීරණ වාර්ථාව
 a11y-title = ප්‍රවේශතාව
 a11y-activated = ක්‍රියාත්මකයි
 a11y-force-disabled = පිවිසුම අබල කරන්න
