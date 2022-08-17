@@ -60,6 +60,7 @@ account-setup-step2-image =
 account-setup-step5-image =
     .title = Konto opretta
 account-setup-selection-error = Treng du hjelp?
+account-setup-forum-help = Brukarstøtteforum
 account-setup-getting-started = Kom i gang
 
 ## Results area
