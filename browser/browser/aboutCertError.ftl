@@ -30,5 +30,5 @@ unknownProtocolFound-title = ලිපිනය වටහා ගෙන නැත
 proxyResolveFailure-title = ප්‍රතියුක්ත සේවාදායකය සොයා ගැනීමට නොහැකිය
 unknownSocketType-title = සේවාදායකයෙන් අනපේක්‍ෂිත ප්‍රතිචාරයකි
 nssFailure2-title = ආරක්‍ෂිත සම්බන්ධතාවය බිඳ වැටිණි
-sslv3Used-title = ආරක්ෂිතව සබඳවිය නොහැකි විය
-inadequateSecurityError-title = ඔබේ සබඳතාවය අනාරක්ෂිතයි
+sslv3Used-title = ආරක්‍ෂිතව සම්බන්ධ වීමට නොහැකිය
+inadequateSecurityError-title = ඔබගේ සම්බන්ධතාවය අනාරක්‍ෂිතයි
