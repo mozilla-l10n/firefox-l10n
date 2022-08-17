@@ -4,3 +4,7 @@
 
 tabmodalprompt-username =
     .value = वापरकर्त्याचे नाव:
+tabmodalprompt-ok-button =
+    .label = ठिक आहे
+tabmodalprompt-cancel-button =
+    .label = रद्द करा
