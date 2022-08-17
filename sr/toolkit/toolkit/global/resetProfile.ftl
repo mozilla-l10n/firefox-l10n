@@ -15,3 +15,5 @@ refresh-profile-dialog-description = Вратите се у почетно ст�
 refresh-profile = Подеси { -brand-short-name }
 refresh-profile-button = Освежи { -brand-short-name }…
 refresh-profile-learn-more = Сазнајте више
+refresh-profile-progress =
+    .title = Освежи { -brand-short-name }
