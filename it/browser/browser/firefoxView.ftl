@@ -64,8 +64,6 @@ firefoxview-mobile-confirmation-header = 🎉 Tutto pronto!
 firefoxview-mobile-confirmation-description = Ora puoi accedere alle schede di { -brand-product-name } aperte sul tuo telefono o tablet.
 
 firefoxview-closed-tabs-title = Chiuse di recente
-firefoxview-closed-tabs-collapse-button =
-  .title = Mostra o nascondi l’elenco delle schede chiuse di recente
 
 firefoxview-closed-tabs-description = Riapri pagine che hai chiuso su questo dispositivo.
 firefoxview-closed-tabs-placeholder = <strong>Nessuna pagina chiusa di recente</strong><br/>Non avrai più paura di perdere una scheda chiusa per errore, potrai sempre riaprirla qui.
@@ -88,3 +86,9 @@ firefoxview-change-colorway-button = Cambia tonalità
 firefoxview-colorway-description = { $intensity } · { $collection }
 
 firefoxview-synced-tabs-placeholder = <strong>Non c’è ancora nulla da mostrare</strong><br/>La prossima volta che apri una pagina in { -brand-product-name } su un altro dispositivo, la troverai qui.
+
+firefoxview-collapse-button-show =
+  .title = Mostra elenco
+
+firefoxview-collapse-button-hide =
+  .title = Nascondi elenco
