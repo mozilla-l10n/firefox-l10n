@@ -10,7 +10,7 @@
 
 ## Welcome page strings
 
-onboarding-welcome-header = Хуш омадед ба { -brand-short-name }
+onboarding-welcome-header = Хуш омадед ба «{ -brand-short-name }»
 onboarding-start-browsing-button-label = Оғоз кардани тамошо
 onboarding-not-now-button-label = Ҳоло не
 
@@ -79,7 +79,7 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Оғози кор
-mr1-onboarding-welcome-header = Хуш омадед ба { -brand-short-name }
+mr1-onboarding-welcome-header = Хуш омадед ба «{ -brand-short-name }»
 mr1-onboarding-set-default-pin-primary-button-label = Таъин кардани { -brand-short-name } ҳамчун браузери асосии ман
     .title = { -brand-short-name }-ро ҳамчун браузери асосӣ таъин мекунад ва ба навори вазифа мегузорад
 # This string will be used on welcome page primary button label
