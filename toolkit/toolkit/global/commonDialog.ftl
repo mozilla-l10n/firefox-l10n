@@ -6,3 +6,6 @@ common-dialog-username =
     .value = Օգտվողի անուն
 common-dialog-password =
     .value = Գաղտնաբառ
+common-dialog-select-all-cmd =
+    .label = Նշել բոլորը
+    .accesskey = բ
