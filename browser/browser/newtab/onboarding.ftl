@@ -64,8 +64,8 @@ mr1-onboarding-reduce-motion-button-label = 애니메이션 끄기
 # Title used on welcome page when Firefox is not pinned
 mr1-onboarding-pin-header =
     { PLATFORM() ->
-        [macos] 쉽게 접근할 수 있도록 { -brand-short-name }를 Dock에 넣기
-       *[other] 쉽게 접근할 수 있도록 { -brand-short-name }를 작업 표시줄에 고정
+        [macos] 쉽게 접근할 수 있도록 { -brand-short-name }를 Dock에 넣으세요
+       *[other] 쉽게 접근할 수 있도록 { -brand-short-name }를 작업 표시줄에 고정하세요
     }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
@@ -91,13 +91,13 @@ mr1-onboarding-sign-in-button-label = 로그인
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-header = { -brand-short-name }를 기본 브라우저로 설정
+mr1-onboarding-default-header = { -brand-short-name }를 기본 브라우저로 설정하세요
 mr1-onboarding-default-subtitle = 탐색할 때 속도, 안전 및 개인 정보 보호 기능이 제공됩니다.
 mr1-onboarding-default-primary-button-label = 기본 브라우저로 설정
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-import-header = 모든 것을 가져오기
+mr1-onboarding-import-header = 모든 것을 가지고 오세요
 mr1-onboarding-import-subtitle = 비밀번호, 북마크 등을 <br/>가져옵니다.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
@@ -119,7 +119,7 @@ mr2-onboarding-colorway-label-bold = 진하게
 mr2-onboarding-theme-label-auto = 자동
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = 기본
-mr1-onboarding-theme-header = 나만의 것으로 만들기
+mr1-onboarding-theme-header = 나만의 것으로 만드세요
 mr1-onboarding-theme-subtitle = 테마로 { -brand-short-name }를 개인화하세요.
 mr1-onboarding-theme-primary-button-label = 테마 저장
 mr1-onboarding-theme-secondary-button-label = 나중에
@@ -248,6 +248,8 @@ fx100-upgrade-thanks-keep-body = 100번째 출시입니다! 커뮤니티의 일�
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
 mr2022-onboarding-skip-step-button-label = 이 단계 건너뛰기
+mr2022-upgrade-onboarding-pin-private-window-header = 한 번의 클릭으로 사생활 보호 모드의 자유를 얻으세요
+mr2022-upgrade-onboarding-pin-private-window-subtitle = 쿠키나 기록이 저장되지 않습니다. 아무도 보고 있지 않은 것처럼 탐색하세요.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
         [macos] { -brand-short-name } 사생활 보호 모드를 Dock에 넣기
