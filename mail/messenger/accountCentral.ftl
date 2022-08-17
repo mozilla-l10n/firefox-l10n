@@ -36,6 +36,7 @@ newsgroups-label = Temagrupper
     .aria-label = Kopla til ei temagruppe
 newsgroups-description = { -brand-short-name } lar deg kople til alle temagruppene du ønskjer.
 import-title = Importer frå eit anna program
+import-paragraph2 = { -brand-short-name } lèt deg importere e-post, adressebøker, innstillingar og/eller filter frå andre e-postprogram og vanlege adressebokformat.
 import-label = Importer
     .aria-label = Importer data frå andre program
 about-paragraph = Thunderbird er den leiande plattformuavhengige e-post- og kalenderklienten basert på open kjeldekode, gratis for bedrifter og personleg bruk. Vi ønskjer at han skal halde seg sikker og verte endå betre. Ein donasjon vil tillate oss å tilsetje utviklarar, betale for infrastruktur, og å fortsetje med forbetringane.
