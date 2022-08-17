@@ -9,3 +9,6 @@ refresh-profile-dialog-description = Tatikirisaj ke'asolo' taq ruk'ayewal rub'ey
 refresh-profile = Tiya' jun rukamuluxik chi re { -brand-short-name }
 refresh-profile-button = Titzolïx { -brand-short-name }…
 refresh-profile-learn-more = Tetamäx ch'aqa' chik
+refresh-profile-progress =
+    .title = Titzolïx { -brand-short-name }
+refresh-profile-progress-description = Jub'a' chik nrajo'…
