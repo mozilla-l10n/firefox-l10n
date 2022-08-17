@@ -6,8 +6,10 @@ common-dialog-title-null = გვერდი გამცნობთ
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = უცნობი
-
 common-dialog-username =
     .value = მომხმარებელი
 common-dialog-password =
     .value = პაროლი
+common-dialog-select-all-cmd =
+    .label = ყველას მონიშვნა
+    .accesskey = ყ
