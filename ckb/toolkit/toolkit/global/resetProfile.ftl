@@ -6,3 +6,6 @@ refresh-profile-dialog-button =
     .label = نوێکردنەوە { -brand-short-name }
 refresh-profile = باشتر کردن ببەخشە بە { -brand-short-name }
 refresh-profile-button = نوێکردنەوە { -brand-short-name }...
+refresh-profile-progress =
+    .title = نوێکردنەوە { -brand-short-name }
+refresh-profile-progress-description = وا تەواو بوو...
