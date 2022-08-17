@@ -14,5 +14,13 @@ firefoxview-close-button =
     .aria-label = Slute
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Sa krekt
+# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
+firefoxview-tabpickup-header = Syngronisearre ljepblêden
+firefoxview-tabpickup-description = Siden fan oare apparaten ôf iepenje
+firefoxview-tabpickup-recenttabs-description = List fan resinte ljepblêden soe hjir gean
+# Variables:
+#  $percentValue (Number): the percentage value for setup completion
+firefoxview-tabpickup-progress-label = { $percentValue }% foltôge
+firefoxview-tabpickup-step-signin-header = Wikselje maklik tusken apparaten
 firefoxview-tabpickup-step-signin-primarybutton = Trochgean
 firefoxview-tabpickup-adddevice-learn-how = Mear ynfo
