@@ -4,3 +4,5 @@
 
 tabmodalprompt-ok-button =
     .label = OK
+tabmodalprompt-cancel-button =
+    .label = Kanselahin
