@@ -13,3 +13,6 @@ common-dialog-password =
 common-dialog-copy-cmd =
     .label = Kopjoje
     .accesskey = K
+common-dialog-select-all-cmd =
+    .label = Përzgjidhe Krejt
+    .accesskey = T
