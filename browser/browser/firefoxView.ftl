@@ -47,8 +47,6 @@ firefoxview-mobile-promo-primarybutton = 모바일용 { -brand-product-name } �
 firefoxview-mobile-confirmation-header = 계속 진행!
 firefoxview-mobile-confirmation-description = 이제 태블릿이나 휴대폰에서 { -brand-product-name } 탭을 가져올 수 있습니다.
 firefoxview-closed-tabs-title = 최근에 닫음
-firefoxview-closed-tabs-collapse-button =
-    .title = 최근에 닫은 탭 목록 표시 또는 숨기기
 firefoxview-closed-tabs-description = 이 기기에서 닫은 페이지를 다시 엽니다.
 firefoxview-closed-tabs-placeholder = <strong>최근에 닫은 페이지 없음</strong><br/>닫은 탭을 다시 잃어버릴 염려가 없습니다. 언제든지 여기서 검색할 수 있습니다.
 # refers to the last tab that was used
@@ -65,3 +63,7 @@ firefoxview-change-colorway-button = 컬러웨이 변경
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>아직 볼 것이 없음</strong><br/>다음에 다른 기기의 { -brand-product-name }에서 페이지를 열 때 마법처럼 여기로 가져옵니다.
+firefoxview-collapse-button-show =
+    .title = 목록 표시
+firefoxview-collapse-button-hide =
+    .title = 목록 숨기기

@@ -243,3 +243,13 @@ fx100-upgrade-thanks-header = 100 감사합니다
 fx100-upgrade-thank-you-body = 100번째 { -brand-short-name } 출시입니다. 더 나은 건강한 인터넷을 구축할 수 있도록 도와주셔서 <em>감사합니다</em>.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = 100번째 출시입니다! 커뮤니티의 일원이 되어주셔서 감사합니다. 다음 100번을 위해 클릭 한 번으로 { -brand-short-name }를 유지하세요.
+
+## MR2022 Upgrade Dialog screens
+## Pin private window screen shown only for users who don't have Firefox private pinned
+
+mr2022-onboarding-skip-step-button-label = 이 단계 건너뛰기
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } 사생활 보호 모드를 Dock에 넣기
+       *[other] { -brand-short-name } 사생활 보호 모드를 작업 표시줄에 고정
+    }
