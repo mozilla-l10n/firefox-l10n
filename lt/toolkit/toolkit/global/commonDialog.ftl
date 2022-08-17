@@ -13,3 +13,6 @@ common-dialog-password =
 common-dialog-copy-cmd =
     .label = Kopijuoti
     .accesskey = K
+common-dialog-select-all-cmd =
+    .label = Pažymėti viską
+    .accesskey = v
