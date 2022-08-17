@@ -288,3 +288,14 @@ fx100-upgrade-thanks-header = 100 volte grazie
 fx100-upgrade-thank-you-body = Questa è la nostra centesima versione di { -brand-short-name }. Grazie al <em>tuo</em> supporto possiamo rendere Internet un luogo migliore e più sano.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Questa è la nostra centesima versione! Grazie per essere parte della nostra comunità. Tieni { -brand-short-name } a portata di clic per le prossime 100.
+
+## MR2022 Upgrade Dialog screens
+## Pin private window screen shown only for users who don't have Firefox private pinned
+
+mr2022-onboarding-skip-step-button-label = Salta questo passaggio
+mr2022-upgrade-onboarding-pin-private-window-header = La libertà della navigazione anonima in un clic
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Niente cookie né cronologia, direttamente dal tuo desktop. Naviga come se nessuno ti stesse guardando.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label = { PLATFORM() ->
+    [macos] Mantieni { -brand-short-name } — Navigazione anonima nel Dock
+   *[other] Aggiungi { -brand-short-name } — Navigazione anonima alla barra delle applicazioni
+}
