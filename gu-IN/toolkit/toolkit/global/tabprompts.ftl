@@ -6,3 +6,7 @@ tabmodalprompt-username =
     .value = વપરાશકર્તા નામ:
 tabmodalprompt-password =
     .value = પાસવર્ડ:
+tabmodalprompt-ok-button =
+    .label = બરાબર
+tabmodalprompt-cancel-button =
+    .label = રદ કરો
