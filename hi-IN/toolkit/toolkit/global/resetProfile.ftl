@@ -7,3 +7,6 @@ refresh-profile-dialog-button =
 refresh-profile = { -brand-short-name } एक धुन दे दो
 refresh-profile-button = { -brand-short-name } रिसेट करें…
 refresh-profile-learn-more = अधिक जानें
+refresh-profile-progress =
+    .title = ताज़ा करें { -brand-short-name }
+refresh-profile-progress-description = लगभग हो गया...
