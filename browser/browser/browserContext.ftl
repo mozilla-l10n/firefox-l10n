@@ -100,11 +100,11 @@ main-context-menu-bookmark-change =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = මෙම පිටු සලකුණ සකසන්න
+    .aria-label = පොත්යොමුව සංස්කරණය
     .accesskey = m
-    .tooltiptext = මෙම පිටු සලකුණ සකසන්න ({ $shortcut })
+    .tooltiptext = පොත්යොමුව සංස්කරණය ({ $shortcut })
 main-context-menu-open-link =
-    .label = ඈඳුම විවෘත කරන්න
+    .label = සබැඳිය අරින්න
     .accesskey = O
 main-context-menu-open-link-new-tab =
     .label = සබැඳුම අලුත් ටැබයක විවෘත කරන්න
