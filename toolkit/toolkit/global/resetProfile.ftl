@@ -9,3 +9,6 @@ refresh-profile-dialog-description = Započńće znowa, zo byšće wukonowe prob
 refresh-profile = Powyšće wukonliwosć { -brand-short-name }
 refresh-profile-button = { -brand-short-name } wobnowić…
 refresh-profile-learn-more = Dalše informacije
+refresh-profile-progress =
+    .title = { -brand-short-name } wobnowić
+refresh-profile-progress-description = Nimale dokónčene…
