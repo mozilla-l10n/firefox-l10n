@@ -9,3 +9,6 @@ export-dialog =
 export-dialog-button-finish = Fullfør
 export-dialog-file-picker = Eksporter til ein zip-fil
 export-dialog-description1 = Eksporter e-postkontoane, e-postmeldingane, adressebøkene og innstillingane til ein zip-fil.
+export-dialog-desc2 = Ved behov kan du importere zip-fila for å stille tilbake profilen din.
+export-dialog-exporting = Eksporterer…
+export-dialog-exported = Eksportert…
