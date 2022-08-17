@@ -6,3 +6,6 @@ refresh-profile-dialog-button =
     .label = { -brand-short-name } yaynandi
 refresh-profile = Noo { -brand-short-name } se kanbe
 refresh-profile-button = { -brand-short-name } yaynandi…
+refresh-profile-progress =
+    .title = { -brand-short-name } yaynandi
+refresh-profile-progress-description = A baa ka ben…
