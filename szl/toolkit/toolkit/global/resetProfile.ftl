@@ -9,3 +9,6 @@ refresh-profile-dialog-description = Zacznij na nowo, coby naprawić problymy ze
 refresh-profile = Napasuj aplikacyjo { -brand-short-name }
 refresh-profile-button = Ôdświyż aplikacyjo { -brand-short-name }…
 refresh-profile-learn-more = Przewiydz sie wiyncyj
+refresh-profile-progress =
+    .title = Ôdświyż aplikacyjo { -brand-short-name }
+refresh-profile-progress-description = Mało wiela fertich…
