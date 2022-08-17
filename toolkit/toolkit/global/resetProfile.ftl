@@ -9,3 +9,6 @@ refresh-profile-dialog-description = Dèan toiseach-tòiseachaidh ùr airson dui
 refresh-profile = Cuir { -brand-short-name } air gleus
 refresh-profile-button = Ath-nuadhaich { -brand-short-name }…
 refresh-profile-learn-more = Barrachd fiosrachaidh
+refresh-profile-progress =
+    .title = Ath-nuadhaich { -brand-short-name }
+refresh-profile-progress-description = Cha mhòr deiseil…
