@@ -52,3 +52,5 @@ firefoxview-change-colorway-button = Αλλαγή χρωματικού συνδ�
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-collapse-button-hide =
+    .title = Απόκρυψη λίστας
