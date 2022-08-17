@@ -6,3 +6,6 @@ refresh-profile-dialog-button =
     .label = { -brand-short-name } परत चालू करात
 refresh-profile = { -brand-short-name } न रूपांतर घडयात
 refresh-profile-button = { -brand-short-name }परतून चालू करात...
+refresh-profile-progress =
+    .title = { -brand-short-name } परत चालू करात
+refresh-profile-progress-description = जायत आयले…
