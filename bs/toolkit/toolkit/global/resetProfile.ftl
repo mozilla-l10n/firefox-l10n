@@ -6,3 +6,6 @@ refresh-profile-dialog-button =
     .label = Osvježi { -brand-short-name }
 refresh-profile = Podesite { -brand-short-name }
 refresh-profile-button = Osvježite { -brand-short-name }…
+refresh-profile-progress =
+    .title = Osvježi { -brand-short-name }
+refresh-profile-progress-description = Skoro gotovo…
