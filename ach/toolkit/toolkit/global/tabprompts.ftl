@@ -6,3 +6,7 @@ tabmodalprompt-username =
     .value = Nying ma itiyo kwede:
 tabmodalprompt-password =
     .value = Mung me donyo:
+tabmodalprompt-ok-button =
+    .label = AYA
+tabmodalprompt-cancel-button =
+    .label = Juki
