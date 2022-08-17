@@ -9,3 +9,5 @@ refresh-profile-dialog-description = Bdu-d seg tazwara i uṣeggem n wuguren n t
 refresh-profile = Mudd cvaḥa i { -brand-short-name }
 refresh-profile-button = Smiren { -brand-short-name }…
 refresh-profile-learn-more = Issin ugar
+refresh-profile-progress =
+    .title = Smiren { -brand-short-name }
