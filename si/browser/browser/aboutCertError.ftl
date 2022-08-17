@@ -4,42 +4,31 @@
 
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-intro = { $hostname } සාවද්‍ය ආරක්‍ෂක සහතිකයක් භාවිත කරයි.
-
+cert-error-intro = { $hostname } සාවද්‍ය ආරක්‍ෂණ සහතිකයක් භාවිත කරයි.
 cert-error-trust-cert-invalid = සාවද්‍ය CA සහතිකයක් මඟින් නිකුත් කර ඇති නිසා සහතිකය විශ්වාස නැත.
-
 cert-error-trust-untrusted-issuer = නිකුත් කිරිමේ සහතිකය විශ්වාස නැති නිසා නිසා සහතිකය විශ්වාස නැත.
-
-cert-error-trust-signature-algorithm-disabled = ආරක්ශාකාරී නොවන බැවින් අක්‍රීය කළ සන්කිරීම් ඇල්ගොරිතමයකින් සන්කර ඇති බැවින් මෙම සහතිකය තහවුරු කළ නොහැක.
-
-cert-error-trust-expired-issuer = සහතිකය විස්වාස නැත, මන්ද නිකුත් කිරිමේ සහතිකය කළ් ඉකුත් වී ඇත.
-
-cert-error-trust-self-signed = The certificate is not trusted because it is self signed.
-
-cert-error-untrusted-default = සහතිකය ලැබෙන්නේ විශ්වාස මූලයකින් නොවේ.
-
+cert-error-trust-self-signed = සහතිකය ස්වයංව අත්සන් කර ඇති නිසා එය විශ්වාස නොවේ.
+cert-error-untrusted-default = සහතිකය විශ්වසන මූලාශ්‍රයකින් නොලැබෙයි.
 cert-error-details-cert-chain-label = සහතික දාමය:
 
 ## Messages used for certificate error titles
 
-connectionFailure-title = සම්බන්ධ වීමට නොහැක
-deniedPortAccess-title = මෙම ලිපිනය වාරණය කර ඇත
-fileNotFound-title = ගොනුව හමු නොවුනි
-fileAccessDenied-title = ගොනුවට පිවිසීම වළක්වා ඇත
-generic-title = ඔහ්!
+connectionFailure-title = සම්බන්ධ වීමට නොහැකිය
+deniedPortAccess-title = මෙම ලිපිනය සීමා කර ඇත
+fileNotFound-title = ගොනුව හමු නොවිණි
+fileAccessDenied-title = ගොනුවට ප්‍රවේශය ප්‍රතික්‍ෂේප විය
+generic-title = අපොයි!
 captivePortal-title = ජාලයට පිවිසෙන්න
-netInterrupt-title = සම්බන්ධය බාධා සහිත විය
+netInterrupt-title = සම්බන්ධතාවයට බාධා විය
 notCached-title = ලේඛනය කල් ඉකුත්වී ඇත
-netOffline-title = නොබැඳි ආකාරය
-contentEncodingError-title = අන්තර්ගත සංකේතාංකන දෝෂය
-unsafeContentType-title = අනාරක්‍ෂිත ගොනු වර්ගයක්
-netReset-title = සම්බන්ධය යළි සකසන ලදි
-netTimeout-title = සම්බන්ධක කාළය ඉකුත් විය
-unknownProtocolFound-title = ලිපිනය අවබෝධ කරගත නොහැකි විය
-proxyConnectFailure-title = ප්‍රොක්සි සේවාදායකය සම්බන්ධතාවය ඉවත දමයි
-proxyResolveFailure-title = ප්‍රොක්සි සේවාදායකය සොයාගත නොහැක
-redirectLoop-title = මෙම පිටුව නිසියාකාරව ප්‍රතිමාර්ගගත වන්නේ නැත
+netOffline-title = මාර්ගඅපගත ප්‍රකාරය
+contentEncodingError-title = අන්තර්ගත සංකේතන දෝෂයකි
+unsafeContentType-title = අනාරක්‍ෂිත ගොනු වර්ගයකි
+netReset-title = සම්බන්ධතාවය යළි සැකසිණි
+netTimeout-title = සම්බන්ධතාවය ඉකුත් වී ඇත
+unknownProtocolFound-title = ලිපිනය වටහා ගෙන නැත
+proxyResolveFailure-title = ප්‍රතියුක්ත සේවාදායකය සොයා ගැනීමට නොහැකිය
 unknownSocketType-title = සේවාදායකයෙන් අනපේක්‍ෂිත ප්‍රතිචාරයකි
-nssFailure2-title = ආරක්‍ෂිත සම්බන්ධය බිද වැටිනි
+nssFailure2-title = ආරක්‍ෂිත සම්බන්ධතාවය බිඳ වැටිණි
 sslv3Used-title = ආරක්ෂිතව සබඳවිය නොහැකි විය
 inadequateSecurityError-title = ඔබේ සබඳතාවය අනාරක්ෂිතයි
