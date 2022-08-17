@@ -50,3 +50,18 @@ firefoxview-closed-tabs-title = Koartlyn sluten
 firefoxview-closed-tabs-collapse-button =
     .title = List mei koartlyn sletten ljepblêden toane of ferstopje
 firefoxview-closed-tabs-description = Siden dy't jo sluten hawwe op dit apparaat opnij iepenje.
+firefoxview-closed-tabs-placeholder = <strong>Gjin koartlyn sletten siden</strong><br/>Wês nea bang wer in sletten ljepblêd te ferliezen. Jo kinne it hjir altyd ophelje.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Lêste aktyf
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = { $targetURI } yn in nij ljepblêd iepenje
+firefoxview-try-colorways-button = Kleurstellingen probearje
+firefoxview-no-current-colorway-collection = Nije kleurstellingen binne ûnderweis
+firefoxview-change-colorway-button = Kleurstelling wizigje
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Noch neat te sjen</strong><br/>De folgjende kear as jo in side iepenje yn { -brand-product-name } op in oar apparaat, iepenje it hjir as yn magy.
