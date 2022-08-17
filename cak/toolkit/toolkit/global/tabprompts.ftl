@@ -6,3 +6,5 @@ tabmodalprompt-username =
     .value = Rub'i' winäq:
 tabmodalprompt-password =
     .value = Ewan tzij:
+tabmodalprompt-cancel-button =
+    .label = Tiq'at
