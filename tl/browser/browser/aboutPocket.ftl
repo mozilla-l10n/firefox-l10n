@@ -19,6 +19,7 @@ pocket-panel-saved-error-no-internet = Kailangang konektado ka sa internet upang
 pocket-panel-saved-page-removed = Inalis ang Pahina
 pocket-panel-saved-page-saved = I-save sa { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Inaalis ang Pahina…
+pocket-panel-saved-removed = Naaslis ang Pahina sa aking list
 pocket-panel-saved-processing-tags = Dinadagdagan ang tanda...
 pocket-panel-saved-remove-page = Alisin ang Pahina
 pocket-panel-saved-save-tags = I-save
@@ -41,6 +42,7 @@ pocket-panel-signup-tagline = Mag-save ng mga artikulo at video mula sa { -brand
 pocket-panel-signup-tagline-story-one = Pindutin ang { -pocket-brand-name } Button para ma-save ang kahit anong artikulo, video o pahina mula sa { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Tingnan sa { -pocket-brand-name } sa anumang device, anumang oras.
 pocket-panel-signup-cta-a-fix = Iyong save button para sa internet.
+pocket-panel-signup-cta-c = Tignan ang iyong list sa kahit na anong device at anong oras
 
 ## about:pocket-home panel
 

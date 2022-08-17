@@ -20,13 +20,11 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Hanapin
     .aria-label = Hanapin
-
 newtab-search-box-handoff-text-no-engine = Maghanap o ilagay ang address
 newtab-search-box-handoff-input-no-engine =
     .placeholder = Hanapin o ilagay ang address
     .title = Hanapin o ilagay ang address
     .aria-label = Hanapin o ilagay ang address
-
 newtab-search-box-input =
     .placeholder = Hanapin sa web
     .aria-label = Hanapin sa web
@@ -40,12 +38,10 @@ newtab-topsites-edit-shortcut-header = I-edit ang Shortcut
 newtab-topsites-title-label = Pamagat
 newtab-topsites-title-input =
     .placeholder = MAgbigay ng Pamagat
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = I-type o i-paste ang URL
 newtab-topsites-url-validation = Wastong URL ang kinakailangan
-
 newtab-topsites-image-url-label = URL ng Custom na Larawan
 newtab-topsites-use-image-link = Gumamit ng custom na larawan...
 newtab-topsites-image-validation = Nabigo ang pag-load ng larawan. Subukan ang ibang URL.
@@ -74,12 +70,10 @@ newtab-topsite-sponsored = Sponsored
 newtab-menu-section-tooltip =
     .title = Buksan ang menu
     .aria-label = Buksan ang menu
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Tanggalin
     .aria-label = Tanggalin
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -128,7 +122,7 @@ newtab-menu-bookmark = Bookmark
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = Kopyahin ang Download Link
-newtab-menu-go-to-download-page = Pumunta sa Pahina ng mga Download
+newtab-menu-go-to-download-page = Magtungo sa Download Page
 newtab-menu-remove-download = Burahin sa Kasaysayan
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
@@ -152,12 +146,10 @@ newtab-label-removed-bookmark = Natanggal na ang bookmark
 newtab-label-recommended = Trending
 newtab-label-saved = Nai-save na sa { -pocket-brand-name }
 newtab-label-download = Nai-download na
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsored
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -194,7 +186,6 @@ newtab-section-header-pocket = Inirekomenda ni { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Magsimulang mag-browse, at ipapakita namin ang ilan sa mga magagandang artikulo, video, at iba pang mga pahina na kamakailan mong binisita o na-bookmark dito.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -240,7 +231,7 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Mga naka-sponsor na shortcut
 newtab-custom-pocket-title = Inirerekomenda ng { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Natatanging nilalaman na inorganisa ng { -pocket-brand-name }, bahagi ng pamilyang { -brand-product-name }
-newtab-custom-recent-title = Nakararaang mga-gawain
+newtab-custom-recent-title = Kamakailang aktibidad
 newtab-custom-recent-subtitle = Isang pagpipilian ng mga kamakailang site at nilalaman
 newtab-custom-close-button = Isara
 newtab-custom-settings = Mamahala ng higit pang mga setting
