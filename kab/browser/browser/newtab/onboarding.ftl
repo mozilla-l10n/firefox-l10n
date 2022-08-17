@@ -250,3 +250,4 @@ fx100-upgrade-thanks-keep-body = D lqem-nneɣ wis 100! Tanemmirt imi telliḍ d 
 
 mr2022-onboarding-skip-step-button-label = Zgel takkayt-a
 mr2022-upgrade-onboarding-pin-private-window-header = Sɛu tilelli n tunigin tusligt s yiwen usiti kan
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Ulac inagan n tuqqqna neɣ azray i yettwaskelsen, srid seg tnarit-ik·im. Inig am wakken ulac win i ak·akem-id-yettmuqulen.
