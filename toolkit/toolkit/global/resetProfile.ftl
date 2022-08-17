@@ -6,3 +6,6 @@ refresh-profile-dialog-button =
     .label = ចាប់ផ្ដើម { -brand-short-name } ឡើងវិញ
 refresh-profile = ធ្វើឲ្យ { -brand-short-name } ដំណើរការ​ស្រួល
 refresh-profile-button = កំណត់ { -brand-short-name } ឡើងវិញ...
+refresh-profile-progress =
+    .title = ផ្ទុក​ឡើង​វិញ { -brand-short-name }
+refresh-profile-progress-description = ជិត​រួច​ហើយ...
