@@ -19,6 +19,7 @@ chat-verify-identity =
     .accesskey = i
 chat-identity-verified =
     .label = Identiteten er allereie stadfesta
+chat-buddy-identity-status = Krypteringstillit
 chat-buddy-identity-status-verified = Stadfesta
 chat-buddy-identity-status-unverified = Ikkje stadfesta
 
