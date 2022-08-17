@@ -6,3 +6,6 @@ refresh-profile-dialog-button =
     .label = { -brand-short-name } রিফ্রেশ করুন
 refresh-profile = { -brand-short-name } টিউন করুন
 refresh-profile-button = { -brand-short-name } রিফ্রেশ করুন…
+refresh-profile-progress =
+    .title = { -brand-short-name } রিফ্রেশ করুন
+refresh-profile-progress-description = প্রায় সম্পন্ন…
