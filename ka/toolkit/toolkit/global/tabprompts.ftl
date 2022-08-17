@@ -6,3 +6,5 @@ tabmodalprompt-username =
     .value = სახელი:
 tabmodalprompt-password =
     .value = პაროლი:
+tabmodalprompt-cancel-button =
+    .label = გაუქმება
