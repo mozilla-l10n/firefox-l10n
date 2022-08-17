@@ -9,4 +9,6 @@ refresh-profile-dialog-description = Eñepyrũete emoĩporã hag̃ua tembiapokue
 refresh-profile = Eme’ẽ { -brand-short-name } omoĩ hag̃ua hendaitépe
 refresh-profile-button = { -brand-short-name } mbopiro’y…
 refresh-profile-learn-more = Kuaave
+refresh-profile-progress =
+    .title = { -brand-short-name } mbopiro’y
 refresh-profile-progress-description = Oĩmbapotáva…
