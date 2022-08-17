@@ -7,3 +7,6 @@ refresh-profile-dialog-button =
 refresh-profile = Roit { -brand-short-name } un taol lañs nevez
 refresh-profile-button = Azbevaat { -brand-short-name }…
 refresh-profile-learn-more = Gouzout hiroc’h
+refresh-profile-progress =
+    .title = Azbevaat { -brand-short-name }
+refresh-profile-progress-description = Tost echu…
