@@ -40,7 +40,7 @@ onboarding-welcome-steps-indicator =
 #   $total (Int) - Total number of pages
 
 onboarding-welcome-steps-indicator2 =
-    .aria-valuetext = Fuortgong: stap { $current } fan { $totaal }
+    .aria-valuetext = Fuortgong: stap { $current } fan { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -244,3 +244,7 @@ fx100-upgrade-thanks-header = 100 kear tank
 fx100-upgrade-thank-you-body = It is ús 100e ferzje fan { -brand-short-name }. <em>Tank</em> foar jo help by it bouwen fan in better, sûner ynternet.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = It is ús 100ste ferzje! Tank dat jo ûnderdiel binne fan ús mienskip. Hâld { -brand-short-name } ien klik ôf fan de folgjende 100.
+
+## MR2022 Upgrade Dialog screens
+## Pin private window screen shown only for users who don't have Firefox private pinned
+
