@@ -7,3 +7,6 @@ common-dialog-username =
 common-dialog-copy-cmd =
     .label = नोकोल
     .accesskey = C
+common-dialog-select-all-cmd =
+    .label = ᱡᱚᱛᱚ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+    .accesskey = A
