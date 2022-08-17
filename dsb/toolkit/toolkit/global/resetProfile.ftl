@@ -9,3 +9,6 @@ refresh-profile-dialog-description = Zachopśo znowego, aby wugbaśowe problemy 
 refresh-profile = Wugbałosć { -brand-short-name } pówušowaś
 refresh-profile-button = { -brand-short-name } wótnowiś…
 refresh-profile-learn-more = Dalšne informacije
+refresh-profile-progress =
+    .title = { -brand-short-name } wótnowiś
+refresh-profile-progress-description = Skóro dokóńcone…
