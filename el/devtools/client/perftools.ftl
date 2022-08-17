@@ -134,6 +134,7 @@ perftools-presets-networking-label = Δικτύωση
 perftools-presets-networking-description = Προτεινόμενη προεπιλογή για τη διερεύνηση σφαλμάτων δικτύωσης στο { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Ενέργεια
+perftools-presets-power-description = Προκαθορισμένη ρύθμιση για τη διερεύνηση σφαλμάτων χρήσης ενέργειας στο { -brand-shorter-name }, με μικρή επιβάρυνση.
 perftools-presets-custom-label = Προσαρμογή
 
 ##
