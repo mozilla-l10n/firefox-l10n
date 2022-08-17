@@ -18,6 +18,9 @@ firefoxview-just-now-timestamp = Μόλις τώρα
 firefoxview-tabpickup-header = Συγχρονισμός καρτελών
 firefoxview-tabpickup-description = Ανοίξτε σελίδες από άλλες συσκευές.
 firefoxview-tabpickup-recenttabs-description = Η λίστα πρόσφατων καρτελών πηγαίνει εδώ
+# Variables:
+#  $percentValue (Number): the percentage value for setup completion
+firefoxview-tabpickup-progress-label = Ολοκλήρωση κατά { $percentValue }%
 firefoxview-tabpickup-step-signin-header = Απρόσκοπτη εναλλαγή μεταξύ συσκευών
 firefoxview-tabpickup-step-signin-primarybutton = Συνέχεια
 firefoxview-tabpickup-adddevice-learn-how = Μάθετε πώς

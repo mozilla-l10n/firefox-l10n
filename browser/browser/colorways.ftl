@@ -11,6 +11,7 @@ colorway-collection-independent-voices-short-description = Χρώματα που
 
 ## Colorway names and descriptions
 
+playmaker-colorway-description = Δημιουργείτε ευκαιρίες για να κερδίσετε και βοηθάτε όλα τα άτομα γύρω σας να καταβάλουν τα μέγιστα.
 expressionist-colorway-name = Εξπρεσιονιστής
 expressionist-colorway-description = Βλέπετε τον κόσμο διαφορετικά και οι δημιουργίες σας διεγείρουν τα συναισθήματα των άλλων.
 visionary-colorway-name = Οραματιστής
