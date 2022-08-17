@@ -4,3 +4,5 @@
 
 tabmodalprompt-username =
     .value = Nying ma itiyo kwede:
+tabmodalprompt-password =
+    .value = Mung me donyo:
