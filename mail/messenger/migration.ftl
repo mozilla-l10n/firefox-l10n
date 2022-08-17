@@ -12,3 +12,4 @@ migration-progress-header = Klargjer { -brand-short-name }...
 
 migration-task-test-fast = Testar ei snøgg endring
 migration-task-test-slow = Testar ei langsam endring
+migration-task-test-progress = Testar styatuslinja

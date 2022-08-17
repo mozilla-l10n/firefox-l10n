@@ -12,9 +12,12 @@ view-fingerprint-button =
     .label = Handter fingeravtrykk for kontaktar
     .accesskey = f
 otr-settings-title = OTR-innstillingar
-
+otr-require-encryption =
+    .label = Krev ende-til-ende-kryptering for ein-til-ein-samtalar
 otr-require-encryption-info =
     Når du krev ende-til-ende-kryptering, vil meldingar i ein-til-ein-samtalar
     ikkje bli sendt med mindre dei kan krypterast. Mottatte ikkje-krypterte meldingar
     vert ikkje viste som ein del av den vanlege samtalen, og vert heller ikkje logga.
-
+otr-verify-nudge =
+    .label = Minn meg alltid på å stadfeste ein ikkje-stadfesta kontakt
+otr-not-yet-available = ikkje tilgjengeleg enno
