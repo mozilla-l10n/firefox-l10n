@@ -4,3 +4,9 @@
 
 common-dialog-username =
     .value = Sivɨ ñɨvɨ
+common-dialog-copy-cmd =
+    .label = Tɨɨn
+    .accesskey = C
+common-dialog-select-all-cmd =
+    .label = Kaji kuaiyo
+    .accesskey = S
