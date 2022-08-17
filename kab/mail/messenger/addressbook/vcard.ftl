@@ -5,6 +5,7 @@
 
 # Display Name
 
+vcard-displayname = Isem n uskan
 vcard-displayname-placeholder =
     .placeholder = { vcard-displayname }
 
@@ -25,6 +26,9 @@ vcard-n-add-prefix =
 vcard-n-firstname = Isem amezwaru
 vcard-n-add-firstname =
     .title = Rnu aɣara
+vcard-n-lastname = Isem
+vcard-n-add-lastname =
+    .title = Rnu isem
 
 # Email vCard field
 
@@ -36,22 +40,30 @@ vcard-primary-email-label = Amezwer
 # URL vCard field
 
 vcard-url-header = Ismal web
+vcard-url-add = Rnu asmel web
 vcard-url-label = Asmel Web
 
 # Tel vCard field
 
 vcard-tel-header = Uṭṭunen n tiliɣri
+vcard-tel-add = Rnu uṭṭun n tiliɣri
+vcard-tel-label = Uṭṭun n tiliɣri
 
 # TZ vCard field
 
 vcard-tz-header = Izḍi usrig
+vcard-tz-add = Rnu izḍi usrig
 
 # IMPP vCard field
 
 vcard-impp-header = Imiḍanen n udiwenni
+vcard-impp-add = Rnu amiḍan n udiwenni
+vcard-impp-label = Amiḍan n udiwenni
 
 # BDAY and ANNIVERSARY vCard field
 
+vcard-bday-anniversary-header = Azemz uzzig
+vcard-bday-anniversary-add = Rnu azemz uzzig
 vcard-bday-label = Azemz n tlalit
 vcard-anniversary-label = Amulli
 vcard-date-day = Ass
@@ -63,6 +75,7 @@ vcard-date-year = Aseggass
 vcard-adr-header = Tansiwin
 vcard-adr-add = Rnu tansa
 vcard-adr-label = Tansa
+vcard-adr-delivery-label = Tabzimt n usiweḍ
 # Or "Locality"
 vcard-adr-locality = Aɣrem
 # Or "Region"

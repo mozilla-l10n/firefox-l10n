@@ -90,9 +90,15 @@ export-brand-name = { -brand-product-name }
 
 ## Footer area
 
+footer-help = Tesriḍ tallalt?
+footer-import-documentation = Tasemlit n uktar
+footer-export-documentation = Tasemlit n usifeḍ
+footer-support-forum = Askasi n tallalt
 
 ## Step navigation on top of the wizard pages
 
+step-list =
+    .aria-label = Takkayin n uktar
 step-confirm = Sentem
 # Variables:
 # $number (number) - step number
