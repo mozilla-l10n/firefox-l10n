@@ -245,3 +245,8 @@ fx100-upgrade-thanks-header = 100-krat hvala
 fx100-upgrade-thank-you-body = To je 100. izdaja { -brand-short-name(sklon: "rodilnik") }. <em>Hvala</em>, ker z nami ustvarjate boljši in bolj zdrav internet.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = To je naša 100. izdaja! Hvala, ker ste del naše skupnosti. Pripnite si { -brand-short-name } na doseg roke za naslednjih 100.
+
+## MR2022 Upgrade Dialog screens
+## Pin private window screen shown only for users who don't have Firefox private pinned
+
+mr2022-onboarding-skip-step-button-label = Preskoči ta korak

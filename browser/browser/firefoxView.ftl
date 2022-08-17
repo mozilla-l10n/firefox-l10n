@@ -47,8 +47,6 @@ firefoxview-mobile-promo-primarybutton = Prenesi { -brand-product-name } za mobi
 firefoxview-mobile-confirmation-header = 🎉 Opravljeno!
 firefoxview-mobile-confirmation-description = Zdaj lahko zajamete zavihke iz { -brand-product-name(sklon: "rodilnik") } na tablici ali telefonu.
 firefoxview-closed-tabs-title = Nedavno zaprto
-firefoxview-closed-tabs-collapse-button =
-    .title = Prikaži ali skrij seznam nedavno zaprtih zavihkov
 firefoxview-closed-tabs-description = Ponovno odprite strani, ki ste jih zaprli na tej napravi.
 firefoxview-closed-tabs-placeholder = <strong>Ni nedavno zaprtih strani</strong><br/>Nikoli več ne bodite v strahu pred izgubo zaprtega zavihka. Vedno ga lahko pridobite tukaj.
 # refers to the last tab that was used
@@ -65,3 +63,7 @@ firefoxview-change-colorway-button = Spremeni barvno kombinacijo
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Trenutno tukaj ni ničesar</strong><br/>Ko naslednjič odprete stran v { -brand-product-name(sklon: "mestnik") } na drugi napravi, jo lahko tukaj zajamete.
+firefoxview-collapse-button-show =
+    .title = Prikaži seznam
+firefoxview-collapse-button-hide =
+    .title = Skrij seznam
