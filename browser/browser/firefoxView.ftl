@@ -47,8 +47,6 @@ firefoxview-mobile-promo-primarybutton = Атрымаць { -brand-product-name 
 firefoxview-mobile-confirmation-header = 🎉 Усё гатова!
 firefoxview-mobile-confirmation-description = Цяпер вы можаце атрымаць свае карткі { -brand-product-name } са свайго планшэта або тэлефона.
 firefoxview-closed-tabs-title = Нядаўна закрытыя
-firefoxview-closed-tabs-collapse-button =
-    .title = Паказаць або схаваць спіс нядаўна закрытых картак
 firefoxview-closed-tabs-description = Паўторна адкрыць старонкі, якія вы закрылі на гэтай прыладзе.
 firefoxview-closed-tabs-placeholder = <strong>Няма нядаўна закрытых старонак</strong><br/>Больш ніколі не бойцеся згубіць закрытую картку. Вы заўсёды можаце ўзнавіць яе тут.
 # refers to the last tab that was used
@@ -65,3 +63,7 @@ firefoxview-change-colorway-button = Змяніць расфарбоўку
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Пакуль няма нічога</strong><br/>Калі ў наступны раз вы адкрыеце старонку ў { -brand-product-name } на іншай прыладзе, яна з'явіцца тут.
+firefoxview-collapse-button-show =
+    .title = Паказаць спіс
+firefoxview-collapse-button-hide =
+    .title = Схаваць спіс
