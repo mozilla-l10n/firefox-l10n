@@ -6,5 +6,7 @@ tabmodalprompt-username =
     .value = Ainm a' chleachdaiche:
 tabmodalprompt-password =
     .value = Facal-faire:
+tabmodalprompt-ok-button =
+    .label = Ceart ma-thà
 tabmodalprompt-cancel-button =
     .label = Sguir dheth
