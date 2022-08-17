@@ -6,3 +6,6 @@ refresh-profile-dialog-button =
     .label = Hesɗitin { -brand-short-name }
 refresh-profile = Hokku { -brand-short-name } ƴellital
 refresh-profile-button = Hesɗitin { -brand-short-name }…
+refresh-profile-progress =
+    .title = Hesɗitin { -brand-short-name }
+refresh-profile-progress-description = Ena wayi no gasii…
