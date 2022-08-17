@@ -6,3 +6,6 @@ refresh-profile-dialog-button =
     .label = Repiggia { -brand-short-name }
 refresh-profile = Dâ recatto a { -brand-short-name }
 refresh-profile-button = Repiggia { -brand-short-name }…
+refresh-profile-progress =
+    .title = Repiggio de { -brand-short-name }
+refresh-profile-progress-description = Quæxi finio…
