@@ -250,3 +250,5 @@ fx100-upgrade-thanks-keep-body = To je naša 100. izdaja! Hvala, ker ste del na�
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
 mr2022-onboarding-skip-step-button-label = Preskoči ta korak
+mr2022-upgrade-onboarding-pin-private-window-header = Do svobode zasebnega brskanja z enim klikom
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Brez shranjenih piškotkov ali zgodovine, neposredno z namizja. Brskajte, kot da nihče ne gleda.
