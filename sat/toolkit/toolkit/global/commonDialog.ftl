@@ -4,3 +4,6 @@
 
 common-dialog-username =
     .value = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹᱜ ᱧᱩᱛᱩᱢ
+common-dialog-copy-cmd =
+    .label = नोकोल
+    .accesskey = C
