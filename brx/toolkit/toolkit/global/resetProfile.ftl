@@ -6,3 +6,6 @@ refresh-profile-dialog-button =
     .label = { -brand-short-name }खौ थाजा खालाम
 refresh-profile = { -brand-short-name } मोनसे टिउन आप हो
 refresh-profile-button = { -brand-short-name }खौ थाजा खालाम
+refresh-profile-progress =
+    .title = { -brand-short-name }खौ थाजा खालाम
+refresh-profile-progress-description = प्राइ मावबाय..
