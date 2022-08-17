@@ -9,3 +9,6 @@ refresh-profile-dialog-description = Սկսէք նորից, արդիւնաւետ
 refresh-profile = Տալ { -brand-short-name }-ին լարում
 refresh-profile-button = Թարմացնել { -brand-short-name }-ը…
 refresh-profile-learn-more = Իմանալ աւելին
+refresh-profile-progress =
+    .title = Թարմացնել { -brand-short-name }-ը
+refresh-profile-progress-description = Գրեթէ պատրաստ է...
