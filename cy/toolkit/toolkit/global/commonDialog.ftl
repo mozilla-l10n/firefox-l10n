@@ -6,8 +6,10 @@ common-dialog-title-null = Mae'r dudalen hon yn dweud
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Anhysbys
-
 common-dialog-username =
     .value = Enw Defnyddiwr
 common-dialog-password =
     .value = Cyfrinair
+common-dialog-select-all-cmd =
+    .label = Dewis Popeth
+    .accesskey = P
