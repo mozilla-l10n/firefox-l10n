@@ -9,4 +9,6 @@ refresh-profile-dialog-description = Comencia de novo pro resolver problemas de 
 refresh-profile = Da a { -brand-short-name } un affinamento
 refresh-profile-button = Refrescar { -brand-short-name }…
 refresh-profile-learn-more = Saper plus
+refresh-profile-progress =
+    .title = Refrescar { -brand-short-name }
 refresh-profile-progress-description = Quasi facite…
