@@ -47,8 +47,6 @@ firefoxview-mobile-promo-primarybutton = Installa { -brand-product-name } pro mo
 firefoxview-mobile-confirmation-header = 🎉 Bon a ir!
 firefoxview-mobile-confirmation-description = Ora tu pote acceder tu schedas de { -brand-product-name } ab tu tabletta o telephono.
 firefoxview-closed-tabs-title = Recentemente claudite
-firefoxview-closed-tabs-collapse-button =
-    .title = Monstrar o celar lista del schedas claudite recentemente
 firefoxview-closed-tabs-description = Reaperi paginas que tu ha claudite sur iste apparato.
 firefoxview-closed-tabs-placeholder = <strong>Nulle pagina recentemente claudite</strong><br/>Jammais time ancora de perder un scheda claudite. Tu pote sempre recuperar lo ci.
 # refers to the last tab that was used
@@ -65,3 +63,7 @@ firefoxview-change-colorway-button = Cambiar combination de colores
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Nihil a vider ancora</strong><br/>Le le proxime vice que tu aperi un pagina in { -brand-product-name } sur un altere apparato, sasi lo ci magicamente.
+firefoxview-collapse-button-show =
+    .title = Monstrar lista
+firefoxview-collapse-button-hide =
+    .title = Celar lista
