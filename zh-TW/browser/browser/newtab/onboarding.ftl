@@ -238,3 +238,5 @@ fx100-upgrade-thanks-keep-body = 這一版是我們的第 100 版！非常感謝
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
 mr2022-onboarding-skip-step-button-label = 跳過這步
+mr2022-upgrade-onboarding-pin-private-window-header = 只要點一下，自動進入隱私瀏覽模式
+mr2022-upgrade-onboarding-pin-private-window-subtitle = 不留下任何 Cookie 與瀏覽紀錄。隱私瀏覽不留痕跡。
