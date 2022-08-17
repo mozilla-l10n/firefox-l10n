@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Ajouter l’onglet aux marque-pages
     .accesskey = M
+tab-context-bookmark-tab =
+    .label = Ajouter aux marque-pages…
+    .accesskey = m
 tab-context-open-in-new-container-tab =
     .label = Ouvrir dans un nouvel onglet conteneur
     .accesskey = e
@@ -102,7 +105,6 @@ tab-context-move-tabs =
            *[other] Déplacer les onglets
         }
     .accesskey = c
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
