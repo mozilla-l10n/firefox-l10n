@@ -13,3 +13,6 @@ common-dialog-password =
 common-dialog-copy-cmd =
     .label = ਕਾਪੀ ਕਰੋ
     .accesskey = C
+common-dialog-select-all-cmd =
+    .label = ਸਭ ਚੁਣੋ
+    .accesskey = A
