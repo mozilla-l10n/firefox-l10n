@@ -13,3 +13,6 @@ common-dialog-password =
 common-dialog-copy-cmd =
     .label = Emomokõi
     .accesskey = E
+common-dialog-select-all-cmd =
+    .label = Mbosa’ypa
+    .accesskey = M
