@@ -5,3 +5,6 @@
 refresh-profile-dialog-button =
     .label = Ábɨdo jóne { -brand-short-name }
 refresh-profile-button = Ábɨdo jóne { -brand-short-name }…
+refresh-profile-progress =
+    .title = Ábɨdo taɨne { -brand-short-name }
+refresh-profile-progress-description = Dúe íte fúitayena...
