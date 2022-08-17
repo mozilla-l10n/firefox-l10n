@@ -47,8 +47,6 @@ firefoxview-mobile-promo-primarybutton = { -brand-product-name } za mobilny grat
 firefoxview-mobile-confirmation-header = 🎉 Wšitko hotowe!
 firefoxview-mobile-confirmation-description = Nětko móžeće swoje rajtarki { -brand-product-name } ze swojeho tableta abo šmóratka wobstarać.
 firefoxview-closed-tabs-title = Njedawno začinjene
-firefoxview-closed-tabs-collapse-button =
-    .title = Lisćinu njedawno začinjenych rajtarkow pokazać abo schować
 firefoxview-closed-tabs-description = Wočińće strony znowa, kotrež sće na tutym graće začinił.
 firefoxview-closed-tabs-placeholder = <strong>Žane njedawno začinjene strony</strong><br/>Njebojće so ženje začinjeny rajtark zaso zhubić. Móžeće jón přeco tu zaso dóstać.
 # refers to the last tab that was used
@@ -65,3 +63,7 @@ firefoxview-change-colorway-button = Barbowu kombinaciju změnić
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Hišće ničo widźeć njeje</strong><br/>Přichodny raz, hdyž stronu w { -brand-product-name } na druhim graće wočinjeće, wobstarajće ju tu na magiske wašnje.
+firefoxview-collapse-button-show =
+    .title = Lisćinu pokazać
+firefoxview-collapse-button-hide =
+    .title = Lisćinu schować

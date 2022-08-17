@@ -244,3 +244,10 @@ fx100-upgrade-thanks-header = 100 króć wulki dźak
 fx100-upgrade-thank-you-body = Je naša 100. wersija { -brand-short-name }. Dźakujemy so <em>wam</em>, zo nam pomhaće, lěpši, strowši internet natwarić.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Je naša 100. wersija! Dźakujemy so wam, zo sće dźěl našeho zhromadźenstwa. Dźeržće { -brand-short-name } jenož jedne kliknjenje wot přichodnych 100 zdaleny.
+
+## MR2022 Upgrade Dialog screens
+## Pin private window screen shown only for users who don't have Firefox private pinned
+
+mr2022-onboarding-skip-step-button-label = Tutón krok přeskočić
+mr2022-upgrade-onboarding-pin-private-window-header = Wobstarajće sej swobodu priwatneho modusa z jednym kliknjenjom
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Žane składowane placki abo žana historiju, direktnje z wašeho desktopa. Přehladujće kaž njeby was nichtó wobkedźbował.
