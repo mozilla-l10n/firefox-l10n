@@ -4,6 +4,8 @@
 
 tabmodalprompt-username =
     .value = Libitosebenta:
+tabmodalprompt-password =
+    .value = Libitophawu:
 tabmodalprompt-ok-button =
     .label = OK
 tabmodalprompt-cancel-button =
