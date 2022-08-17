@@ -4,3 +4,7 @@
 
 tabmodalprompt-password =
     .value = సంకేతపదం:
+tabmodalprompt-ok-button =
+    .label = సరే
+tabmodalprompt-cancel-button =
+    .label = రద్దుచేయి
