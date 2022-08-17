@@ -39,6 +39,9 @@ about-addressbook-books-context-remove =
 about-addressbook-books-context-startup-default =
     .label = Standard startmappe
 about-addressbook-confirm-delete-book-title = Slett adressebok
+# Variables:
+# $name (String) - Name of the address book to be deleted.
+about-addressbook-confirm-delete-book = Er du sikker på at du vil slette { $name } med alle kontaktane?
 about-addressbook-confirm-remove-remote-book-title = Fjern adressebok
 # Variables:
 # $name (String) - Name of the remote address book to be removed.
@@ -52,6 +55,8 @@ about-addressbook-search =
     .placeholder = Søk i { $name }
 about-addressbook-search-all =
     .placeholder = Søk i alle adressebøkene
+about-addressbook-sort-button2 =
+    .title = Vis liste over visingsvala
 about-addressbook-name-format-display =
     .label = Visingsnamn
 about-addressbook-name-format-firstlast =
@@ -81,6 +86,8 @@ about-addressbook-column-header-emailaddresses = E-postadresser
 about-addressbook-column-label-emailaddresses =
     .label = { about-addressbook-column-header-emailaddresses }
 about-addressbook-column-header-phonenumbers = Telefonnummer
+about-addressbook-column-label-phonenumbers =
+    .label = { about-addressbook-column-header-phonenumbers }
 about-addressbook-column-header-addresses = Adresser
 about-addressbook-column-label-addresses =
     .label = { about-addressbook-column-header-addresses }

@@ -17,6 +17,7 @@ rights-intro-point-5 = Nokre { -brand-short-name }-funksjonar brukar nettbaserte
 rights-intro-point-5-unbranded = Dersom dette produktet omfattar informasjonstenester, så bør tenestevilkår for tenestene lenkast opp i <a data-l10n-name="mozilla-website-services-link">nettstadtenester</a>-seksjonen.
 rights-intro-point-6 = For å spele av forskjellige typar videoinnhald, lastar { -brand-short-name } ned dekrypteringsmodular frå tredjepartar.
 rights-webservices-header = { -brand-full-name } nettbaserte informasjonstenester
+rights-webservices2 = { -brand-full-name } brukar nettbaserte informasjonstenester («Tenester») for å gjere nokre av funksjonane tilgjengelege i den binære versjonen av { -brand-short-name }, under vilkår som er skildra nedanfor. Dersom du ikkje ønskjer å bruke ei eller fleire av tenestene, eller om du ikkje kan akseptere vilkåra, kan du slå av funksjonen eller tenesta/tenestene. Instruksjonar om korleis du slår av ein bestemt funksjon eller teneste finn du <a data-l10n-name="mozilla-disable-service-link">her</a>. Andre funksjonar og tenester kan slåast av i program-innstillingane.
 rights-locationawarebrowsing = <strong>Stad-medviten nettlesing:</strong>er alltid ein funksjon du må aktivt velje å slå på for at han skal brukast. Ingen stadinfo vert sendt utan at du gjev løyve til det. Dersom du ønskjer å slå av denne funksjonen heilt, følg desse stega:
 rights-locationawarebrowsing-term-1 = I adresselinja, skriv du inn <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Skriv inn geo.enabled
