@@ -6,8 +6,10 @@ common-dialog-title-null = На гэтай старонцы напісана
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Невядома
-
 common-dialog-username =
     .value = Імя карыстальніка
 common-dialog-password =
     .value = Пароль
+common-dialog-select-all-cmd =
+    .label = Вылучыць усё
+    .accesskey = В
