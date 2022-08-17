@@ -6,3 +6,6 @@ refresh-profile-dialog-button =
     .label = ຟື້ນຟູ { -brand-short-name }
 refresh-profile = ປັບແຕ່ງ { -brand-short-name } ໃຫ້ດີຂື້ນກ່ວາເກົ່າ
 refresh-profile-button = ຟື້ນຟູ { -brand-short-name }
+refresh-profile-progress =
+    .title = ຟື້ນຟູ { -brand-short-name }
+refresh-profile-progress-description = ໃກ້ຈະສໍາເລັດແລ້ວ...
