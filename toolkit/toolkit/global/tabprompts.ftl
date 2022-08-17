@@ -6,3 +6,5 @@ tabmodalprompt-username =
     .value = ಬಳಕೆದಾರ ಹೆಸರು:
 tabmodalprompt-password =
     .value = ಗುಪ್ತಪದ:
+tabmodalprompt-cancel-button =
+    .label = ರದ್ದು ಮಾಡು
