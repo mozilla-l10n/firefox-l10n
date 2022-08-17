@@ -33,3 +33,6 @@ refresh-profile-button =
        *[other] aplikaci { -brand-short-name }
     }
 refresh-profile-learn-more = Zjistit více
+refresh-profile-progress =
+    .title = Obnovení aplikace { -brand-short-name }
+refresh-profile-progress-description = Téměř hotovo…
