@@ -6,3 +6,6 @@ refresh-profile-dialog-button =
     .label = &برانڈ شاٹ ناو؛ کْریو ریفریش
 refresh-profile = برانڈ شاٹ ناو؛ اس دِیو اکھ ٹیون اپ
 refresh-profile-button = برانڈ شاٹ ناو؛ کْریو ریفریش۔ ۔ ۔
+refresh-profile-progress =
+    .title = &برانڈ شاٹ ناو؛ کْریو ریفریش
+refresh-profile-progress-description = تقریبن کور مُکمل ۔ ۔ ۔
