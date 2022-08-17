@@ -57,6 +57,7 @@ addr-book-directories-pane-source = Afaylu aɣbalu:
 ## Import from calendar file steps
 
 import-from-calendar-file-desc = Fren afaylu iCalendar (.ics) i tebɣiḍ ad d-tketreḍ.
+calendar-items-title = Fren iferdisen ara yettwaktaren.
 calendar-items-loading = Asali n yiferdisen...
 calendar-items-filter-input =
     .placeholder = Iferdisen n imsizdig…
@@ -65,7 +66,13 @@ calendar-deselect-all-items = Kkes akk afran
 
 ## Import dialog
 
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-importing2 = Aktar… { $progressPercent }
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-exporting2 = Asifeḍ… { $progressPercent }
+progress-pane-finished-desc2 = Immed.
 error-pane-title = Tuccḍa
+error-message-zip-file-too-big2 = Teɣzi n ufaylu ZIP yettwafernen meqqer ɣef 2GAṬ. Ma ulac aɣilif, ssenf-it qbel syen kter seg ukaram n tussfa xiṛ.
 error-message-failed = Aktar yecceḍ, d ayen ur nettwarǧa ara. Ugar n telɣut tezmer ad tili deg Console n tuccḍa.
 error-failed-to-parse-ics-file = Ulac iferdisen ara yettwaktaren deg ufaylu.
 error-export-failed = Asifeḍ yecceḍ, d ayen ur nettwarǧa ara. Ugar n telɣut tezmer ad tili deg Console n tuccḍa.
