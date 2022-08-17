@@ -85,9 +85,9 @@ about-webrtc-stats-clear = 기록 지우기
 about-webrtc-log-heading = 연결 로그
 about-webrtc-log-clear = 로그 지우기
 about-webrtc-log-show-msg = 로그 보기
-    .title = 섹션 펼치기
+    .title = 이 섹션을 펼치려면 누르세요
 about-webrtc-log-hide-msg = 로그 감추기
-    .title = 섹션 접기
+    .title = 이 섹션을 접으려면 누르세요
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -107,14 +107,14 @@ about-webrtc-raw-candidates-heading = 모든 원시 후보자
 about-webrtc-raw-local-candidate = 원시 지역 후보자
 about-webrtc-raw-remote-candidate = 원시 원격 후보자
 about-webrtc-raw-cand-show-msg = 원시 후보자 보기
-    .title = 섹션 펼치기
+    .title = 이 섹션을 펼치려면 누르세요
 about-webrtc-raw-cand-hide-msg = 원시 후보자 감추기
-    .title = 섹션 접기
+    .title = 이 섹션을 접으려면 누르세요
 about-webrtc-priority = 우선 순위
 about-webrtc-fold-show-msg = 상세 보기
-    .title = 섹션 펼치기
+    .title = 이 섹션을 펼치려면 누르세요
 about-webrtc-fold-hide-msg = 상세 감추기
-    .title = 섹션 접기
+    .title = 이 섹션을 접으려면 누르세요
 about-webrtc-dropped-frames-label = 손실된 프레임:
 about-webrtc-discarded-packets-label = 버려진 패킷:
 about-webrtc-decoder-label = 디코더
