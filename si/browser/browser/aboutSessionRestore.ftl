@@ -8,8 +8,8 @@ restore-page-tab-title = වාරය ප්‍රත්‍යර්පණය
 restore-page-error-title = සමාවන්න. ඔබගේ පිටු ආපසු ගැනීමේ ගැටලුවක් තිබේ.
 restore-page-problem-desc = ඔබගේ පසුගිය වාරය ප්‍රත්‍යර්පණය කිරීමේ ගැටලුවක් ඇත. වාරය ප්‍රත්‍යර්පණය යන්න තෝරා යළි උත්සාහ කරන්න.
 restore-page-try-this = තවමත් ඔබගේ වාරය ප්‍රත්‍යර්පණය කිරීමට නොහැකි ද? සමහරවිට එක් පටිත්තක් මෙම ගැටලුවට හේතු විය හැකිය. ප්‍රතිසාධනය කිරීමට අනවශ්‍ය පටිති තෝරා ඉවත් කර, යළි උත්සාහ කරන්න.
-restore-page-hide-tabs = පෙර ටැබ් සගවන්න
-restore-page-show-tabs = පෙර ටැබ් බලන්න
+restore-page-hide-tabs = පෙර පටිති සඟවන්න
+restore-page-show-tabs = පෙර පටිති බලන්න
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -17,14 +17,14 @@ restore-page-show-tabs = පෙර ටැබ් බලන්න
 #    $windowNumber: Progressive number associated to each window
 restore-page-window-label = { $windowNumber } වන කවුළුව
 restore-page-restore-header =
-    .label = ප්‍රතිස්ථාපනය
+    .label = ප්‍රත්‍යර්පණය
 restore-page-list-header =
-    .label = කවුළු සහ ටැබ්
+    .label = කවුළු හා පටිති
 restore-page-try-again-button =
-    .label = සැසිය සළි පිහිටුවන්න
+    .label = වාරය ප්‍රත්‍යර්පණය
     .accesskey = R
 restore-page-close-button =
-    .label = නව සැසියක් අරබන්න
+    .label = නව වාරයක් අරඹන්න
     .accesskey = N
 
 ## The following strings are used in about:welcomeback
