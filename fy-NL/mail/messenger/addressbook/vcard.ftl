@@ -105,3 +105,8 @@ vcard-org-add = Organisaasjedetails tafoegje
 vcard-org-title = Titel
 vcard-org-role = Rol
 vcard-org-org = Organisaasje
+
+# Custom properties
+
+vcard-custom-header = Oanpaste eigenskippen
+vcard-custom-add = Oanpaste eigenskippen tafoegje
