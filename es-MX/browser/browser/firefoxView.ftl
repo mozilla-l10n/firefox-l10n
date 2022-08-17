@@ -47,8 +47,6 @@ firefoxview-mobile-promo-primarybutton = Obtén { -brand-product-name } para dis
 firefoxview-mobile-confirmation-header = 🎉 ¡Listo para llevar!
 firefoxview-mobile-confirmation-description = Ahora puedes tomar sus pestañas de { -brand-product-name } desde tu tableta o teléfono.
 firefoxview-closed-tabs-title = Cerradas recientemente
-firefoxview-closed-tabs-collapse-button =
-    .title = Mostrar u ocultar la lista de pestañas cerradas recientemente
 firefoxview-closed-tabs-description = Vuelve a abrir las páginas que cerraste en este dispositivo.
 firefoxview-closed-tabs-placeholder = <strong>Sin páginas cerradas recientemente</strong><br/>Nunca temas perder una pestaña cerrada de nuevo. Siempre puedes recuperarla aquí.
 # refers to the last tab that was used
@@ -65,3 +63,7 @@ firefoxview-change-colorway-button = Cambiar combinación de colores
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Nada que ver todavía</strong><br/>La próxima vez que abras una página en { -brand-product-name } en otro dispositivo, tómela aquí como por arte de magia.
+firefoxview-collapse-button-show =
+    .title = Mostrar lista
+firefoxview-collapse-button-hide =
+    .title = Ocultar lista
