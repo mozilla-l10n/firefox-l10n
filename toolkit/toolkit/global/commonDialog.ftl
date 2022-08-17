@@ -13,3 +13,6 @@ common-dialog-password =
 common-dialog-copy-cmd =
     .label = Kopiëren
     .accesskey = K
+common-dialog-select-all-cmd =
+    .label = Alles selecteren
+    .accesskey = A
