@@ -6,3 +6,6 @@ refresh-profile-dialog-button =
     .label = بازآوری { -brand-short-name }
 refresh-profile = { -brand-short-name } را تنظیم کنید
 refresh-profile-button = بازآوری { -brand-short-name }…
+refresh-profile-progress =
+    .title = بازآوری { -brand-short-name }
+refresh-profile-progress-description = تقریبا تمام است...
