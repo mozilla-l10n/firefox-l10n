@@ -9,3 +9,6 @@ refresh-profile-dialog-description = Encomienza dende zero pa apanyar problams d
 refresh-profile = Achustar o { -brand-short-name }
 refresh-profile-button = Refrescar o { -brand-short-name }…
 refresh-profile-learn-more = Saber-ne mas
+refresh-profile-progress =
+    .title = Refrescar { -brand-short-name }
+refresh-profile-progress-description = Quasi feito…
