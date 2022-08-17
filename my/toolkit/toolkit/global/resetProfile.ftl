@@ -6,3 +6,6 @@ refresh-profile-dialog-button =
     .label = { -brand-short-name } ကို ပြန်စပါ
 refresh-profile = { -brand-short-name } ကို စွမ်းအားမြှင့်ခွင့် ပေးလိုက်ပါ
 refresh-profile-button = { -brand-short-name } ကို ပြန်စပါ…
+refresh-profile-progress =
+    .title = { -brand-short-name } ကို ပြန်စပါ
+refresh-profile-progress-description = ပြီးစီးခါနီးပြီ…
