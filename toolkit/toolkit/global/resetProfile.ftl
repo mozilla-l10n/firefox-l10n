@@ -9,3 +9,4 @@ refresh-profile-dialog-description = Начните заново, чтобы у�
 refresh-profile = Наладка { -brand-short-name }
 refresh-profile-button = Очистить { -brand-short-name }…
 refresh-profile-learn-more = Подробнее
+refresh-profile-progress-description = Почти готово…
