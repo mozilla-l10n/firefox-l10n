@@ -9,3 +9,5 @@ refresh-profile-dialog-description = Meitsje in frisse start om prestaasjeproble
 refresh-profile = { -brand-short-name } opfrisse
 refresh-profile-button = { -brand-short-name } opfrisse…
 refresh-profile-learn-more = Mear ynfo
+refresh-profile-progress =
+    .title = { -brand-short-name } fernije
