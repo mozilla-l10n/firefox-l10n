@@ -10,38 +10,35 @@
 
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
-    .placeholder = ටැග් එක් කරන්න
-
+    .placeholder = අනන්‍යන යොදන්න
 pocket-panel-saved-error-generic = { -pocket-brand-name } හි සුරැකීමට තැත් කිරීමේදී දෝෂයක් මතු විය.
-pocket-panel-saved-error-tag-length = ටැග් අක්ෂර 25 කට සීමා වේ
-pocket-panel-saved-error-only-links = සබැඳි පමණක් සුරැකීමට හැකි වේ
-pocket-panel-saved-error-not-saved = පිටුව සුරැකුනේ නැත
-pocket-panel-saved-page-removed = පිටුව ඉවත් කරන ලදී
-pocket-panel-saved-page-saved = { -pocket-brand-name } හි සුරකින ලදී
+pocket-panel-saved-error-tag-length = අනන්‍යන අකුරු 25 කට සීමා වේ
+pocket-panel-saved-error-only-links = සබැඳි පමණක් සුරැකීමට හැකිය
+pocket-panel-saved-error-not-saved = පිටුව සුරැකී නැත
+pocket-panel-saved-page-removed = පිටුව ඉවත් කෙරිණි
+pocket-panel-saved-page-saved = { -pocket-brand-name } වෙත සුරැකිණි
 pocket-panel-saved-processing-remove = පිටුව ඉවත් කරමින්…
-pocket-panel-saved-processing-tags = ටැග් එක් කරමින්…
+pocket-panel-saved-processing-tags = අනන්‍යන එක් කරමින්…
 pocket-panel-saved-remove-page = පිටුව ඉවත් කරන්න
 pocket-panel-saved-save-tags = සුරකින්න
-pocket-panel-saved-saving-tags = සුරකිමින්…
-pocket-panel-saved-suggested-tags = යෝජිත ටැග්
-pocket-panel-saved-tags-saved = ටැග් එක් විය
-pocket-panel-signup-view-list = ලැයිස්තුව පෙන්වන්න
+pocket-panel-saved-saving-tags = සුරැකෙමින්…
+pocket-panel-saved-suggested-tags = යෝජිත අනන්‍යන
+pocket-panel-saved-tags-saved = අනන්‍යන එක් විය
 
 ## about:pocket-signup panel
 
-pocket-panel-signup-already-have = දැනටමත් { -pocket-brand-name } භාවිත කරන්නෙක්ද?
-pocket-panel-signup-learn-more = තවත් ඉගෙන ගන්න
+pocket-panel-signup-already-have = දැනටමත් { -pocket-brand-name } පරිශීලකයෙක්ද?
+pocket-panel-signup-learn-more = තව දැනගන්න
 pocket-panel-signup-login = පිවිසෙන්න
-pocket-panel-signup-signup-email = විද්‍යූත් ලිපිනය සමඟ ලියාපදිංචි වන්න
-pocket-panel-signup-signup-cta = { -pocket-brand-name } සඳහා ලියාපදිංචි වන්න. එය ගාස්තු තොරයි.
+pocket-panel-signup-signup-email = වි-තැපෑලකින් ලියාපදිංචි වන්න
+pocket-panel-signup-signup-cta = { -pocket-brand-name } සඳහා ලියාපදිංචි වන්න. එය නොමිලේ.
 pocket-panel-signup-signup-firefox = { -brand-product-name } සමඟ ලියාපදිංචි වන්න
-pocket-panel-signup-tagline = { -pocket-brand-name } මඟින් ඕනෑම උපකරණයකින්, ඕනෑම වේලාවක නැරඹීමට ලිපි හා වීඩියෝ { -brand-product-name } මඟින් සුරක්ෂිත කරන්න.
-pocket-panel-signup-tagline-story-one = ලිපි වීඩියෝ හෝ පිටු { -brand-product-name } මඟින් සුරැකීමට { -pocket-brand-name } බොත්තම ක්ලික් කරන්න.
-pocket-panel-signup-tagline-story-two = { -pocket-brand-name } තුළ පෙන්වන්න ඕනෑම උපකරණයක, ඕනෑම වේලාවක.
 
 ## about:pocket-home panel
 
+
 ## Pocket panel header component
+
 
 ## Pocket panel buttons
 
