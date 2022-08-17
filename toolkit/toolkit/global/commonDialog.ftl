@@ -5,3 +5,6 @@
 common-dialog-copy-cmd =
     .label = Копиране
     .accesskey = К
+common-dialog-select-all-cmd =
+    .label = Избиране на всичко
+    .accesskey = в
