@@ -6,8 +6,13 @@ common-dialog-title-null = Tha an duilleag seo ag ràdh:
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Chan eil fhios
-
 common-dialog-username =
     .value = Ainm-cleachdaiche
 common-dialog-password =
     .value = Facal-faire
+common-dialog-copy-cmd =
+    .label = Dèan lethbhreac
+    .accesskey = c
+common-dialog-select-all-cmd =
+    .label = Tagh a h-uile
+    .accesskey = a
