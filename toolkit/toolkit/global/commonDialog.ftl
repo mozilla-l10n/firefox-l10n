@@ -5,3 +5,6 @@
 common-dialog-copy-cmd =
     .label = Còpia
     .accesskey = C
+common-dialog-select-all-cmd =
+    .label = Seleçionn-a tutto
+    .accesskey = a
