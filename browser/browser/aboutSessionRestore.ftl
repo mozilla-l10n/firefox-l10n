@@ -33,8 +33,7 @@ welcome-back-tab-title = සාර්ථකයි!
 welcome-back-page-title = සාර්ථකයි!
 welcome-back-page-info = { -brand-short-name } ඇරඹීමට සූදානම්.
 welcome-back-restore-button =
-    .label = දැන් අරඹමු!
+    .label = දැන් යමු!
     .accesskey = L
-welcome-back-restore-all-label = සියලු කවුළු සහ ටැබ් යළි පිහිටු වන්න
-welcome-back-restore-some-label = ඔබට අවශ්‍ය දෑ පමණක් යලි පිහිටුවන්න
-welcome-back-page-info-link = ඔබේ ඇඩෝන හා රුචිකරණ ඉවත්වී ඇති අතර ඔබේ ගවේශක සැකසුම් එහි පෙරනිමියට පත්වී ඇත. මෙය ඔබේ ගැටළුව නිරාකරණය නොකරයි නම්, <a data-l10n-name="link-more">ඔබට කළ හැකි දෑ පිළිබඳ තවත් දැනගන්න.</a>
+welcome-back-restore-all-label = සියළු කවුළු හා පටිති ප්‍රත්‍යර්පණය
+welcome-back-restore-some-label = අත්‍යවශ්‍ය දෑ ප්‍රත්‍යර්පණය කරන්න
