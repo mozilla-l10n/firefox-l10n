@@ -6,6 +6,10 @@ saved-logins =
     .title = Lagra innloggingar
 window-close =
     .key = w
+focus-search-primary-shortcut =
+    .key = f
+focus-search-alt-shortcut =
+    .key = k
 copy-provider-url-cmd =
     .label = Kopier URL
     .accesskey = o
@@ -44,7 +48,9 @@ remove =
 import =
     .label = Import…
     .accesskey = I
-
+password-close-button =
+    .label = Lat att
+    .accesskey = L
 show-passwords =
     .label = Vis passord
     .accesskey = p
@@ -67,12 +73,10 @@ no-master-password-prompt = Er du sikker på at du vil vise passorda?
 
 # This message can be seen by trying to show or copy the passwords.
 password-os-auth-dialog-message = Stadfest identiteten din for å vise dei lagra passorda.
-
 # This message can be seen by trying to show or copy the passwords.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 password-os-auth-dialog-message-macosx = vis dei lagra passorda
-
 # Don't change this label.
 password-os-auth-dialog-caption = { -brand-full-name }
