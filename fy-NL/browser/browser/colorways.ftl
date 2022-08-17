@@ -21,3 +21,6 @@ visionary-colorway-description = Jo twivelje oan de status-quo en stimulearje oa
 activist-colorway-name = Aktivist
 activist-colorway-description = Jo litte de wrâld moaier efter dan jo it fûn ha en lit oaren leauwen.
 dreamer-colorway-name = Dreamer
+dreamer-colorway-description = Jo leauwe dat gelok de dappere favoryt is en oaren ynspirearret om dapper te wêzen.
+innovator-colorway-name = Ynnovator
+innovator-colorway-description = Jo sjogge oeral kânsen en hawwe ynfloed op it libben fan elkenien om jo hinne.

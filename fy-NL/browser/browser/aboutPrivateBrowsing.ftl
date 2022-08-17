@@ -22,12 +22,10 @@ about-private-browsing-not-private = Jo binne op dit stuit net yn in priveefinst
 about-private-browsing-info-description-private-window = Priveefinster: { -brand-short-name } wisket jo syk- en navigaasjeskiednis wannear’t jo alle priveefinsters slute. Dit makket jo net anonym.
 about-private-browsing-info-description-simplified = { -brand-short-name } wisket jo syk- en navigaasjeskiednis wannear’t jo alle priveefinsters slute, mar dit makket jo net anonym.
 about-private-browsing-learn-more-link = Mear ynfo
-
 about-private-browsing-hide-activity = Ferbergje jo aktiviteit en lokaasje, oeral wêr’t jo sneupe
 about-private-browsing-get-privacy = Untfang privacybeskerming oeral wêr’t jo sneupe
 about-private-browsing-hide-activity-1 = Ferbergje jo sneupaktiviteiten en lokaasje mei { -mozilla-vpn-brand-name }. Mei ien klik meitsje jo in feilige ferbining, sels op iepenbiere wifi.
 about-private-browsing-prominent-cta = Bliuw privee mei { -mozilla-vpn-brand-name }
-
 about-private-browsing-focus-promo-cta = { -focus-brand-name } downloade
 about-private-browsing-focus-promo-header = { -focus-brand-name }: priveenavigaasje ûnderweis
 about-private-browsing-focus-promo-text = Us spesjale mobile app foar priveenavigaasje wisket elke kear jo skiednis en cookies.
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = Bring priveenavigaasje nei jo tele
 about-private-browsing-focus-promo-text-b = Brûk { -focus-brand-name } foar dy priveesykopdrachten wêrfan jo net wolle dat jo mobile standertbrowser se sjocht.
 about-private-browsing-focus-promo-header-c = Privacy op mobyl op it folgjende nivo
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } wisket elke kear jo skiednis, wylst advertinsjes en trackers blokkearre wurde.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,6 +48,15 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Slute
-
 about-private-browsing-promo-close-button =
     .title = Slute
+
+## Strings used in a “pin promotion” message, which prompts users to pin a private window
+
+about-private-browsing-pin-promo-header = De frijheid fan priveenavigaasje mei ien klik
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] Yn Dock hâlde
+       *[other] Oan taakbalke fêstsette
+    }
+about-private-browsing-pin-promo-title = Gjin bewarre cookies of skiednis, direkt fan jo buroblêd. Blêdzje as oft net ien meisjocht.

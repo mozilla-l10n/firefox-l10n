@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Utwreiding beheare…
 page-action-remove-extension =
     .label = Utwreiding fuortsmite
+page-action-manage-extension2 =
+    .label = Utwreiding beheare…
+    .accesskey = U
+page-action-remove-extension2 =
+    .label = Utwreiding fuortsmite
+    .accesskey = U
 
 ## Auto-hide Context Menu
 
@@ -267,6 +273,8 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page
+quickactions-addons = Add-ons besjen
 quickactions-cmd-addons = add-ons, útwreidingen, tema’s
 # Opens the bookmarks library window
 quickactions-bookmarks = Blêdwizers besjen
