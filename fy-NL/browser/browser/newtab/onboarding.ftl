@@ -248,3 +248,11 @@ fx100-upgrade-thanks-keep-body = It is ús 100ste ferzje! Tank dat jo ûnderdiel
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-onboarding-skip-step-button-label = Dizze stap oerslaan
+mr2022-upgrade-onboarding-pin-private-window-header = Krij frijheid fan priveenavigaasje mei ien klik
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Gjin bewarre cookies of skiednis, direkt fan jo buroblêd. Blêdzje as oft net ien meisjocht.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] { -brand-short-name }-priveenavigaasje yn Dock hâlde
+       *[other] { -brand-short-name }-priveenavigaasje yn taakbalke fêst meitsje
+    }

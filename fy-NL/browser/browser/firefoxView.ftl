@@ -47,8 +47,6 @@ firefoxview-mobile-promo-primarybutton = Download { -brand-product-name } foar m
 firefoxview-mobile-confirmation-header = 🎉 Jo binne ree!
 firefoxview-mobile-confirmation-description = No kinne jo jo { -brand-product-name }-ljepblêden fan jo tablet of telefoan iepenje.
 firefoxview-closed-tabs-title = Koartlyn sluten
-firefoxview-closed-tabs-collapse-button =
-    .title = List mei koartlyn sletten ljepblêden toane of ferstopje
 firefoxview-closed-tabs-description = Siden dy't jo sluten hawwe op dit apparaat opnij iepenje.
 firefoxview-closed-tabs-placeholder = <strong>Gjin koartlyn sletten siden</strong><br/>Wês nea bang wer in sletten ljepblêd te ferliezen. Jo kinne it hjir altyd ophelje.
 # refers to the last tab that was used
@@ -65,3 +63,7 @@ firefoxview-change-colorway-button = Kleurstelling wizigje
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Noch neat te sjen</strong><br/>De folgjende kear as jo in side iepenje yn { -brand-product-name } op in oar apparaat, iepenje it hjir as yn magy.
+firefoxview-collapse-button-show =
+    .title = List toane
+firefoxview-collapse-button-hide =
+    .title = List ferstopje
