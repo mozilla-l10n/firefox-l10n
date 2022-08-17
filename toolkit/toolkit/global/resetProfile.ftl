@@ -9,4 +9,6 @@ refresh-profile-dialog-description = Začnite znova a opravte problémy s výkon
 refresh-profile = Poupratuje si { -brand-short-name }
 refresh-profile-button = Obnoviť { -brand-short-name }…
 refresh-profile-learn-more = Ďalšie informácie
+refresh-profile-progress =
+    .title = Obnovenie prehliadača { -brand-short-name }
 refresh-profile-progress-description = Takmer hotovo…
