@@ -5,3 +5,6 @@
 common-dialog-copy-cmd =
     .label = പകര്‍ത്തുക
     .accesskey = C
+common-dialog-select-all-cmd =
+    .label = എല്ലാം തെരഞ്ഞെടുക്കുക
+    .accesskey = A
