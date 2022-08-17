@@ -6,3 +6,6 @@ refresh-profile-dialog-button =
     .label = Nagi'iaj nakà { -brand-short-name }
 refresh-profile = Ga'uì' { -brand-short-name } 'ngo pûntu
 refresh-profile-button = Nagi'iaj nakà { -brand-short-name }…
+refresh-profile-progress =
+    .title = Nagi'iaj nakà { -brand-short-name }
+refresh-profile-progress-description = Ngà doj nahuî…
