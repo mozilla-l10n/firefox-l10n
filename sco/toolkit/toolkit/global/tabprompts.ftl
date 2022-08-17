@@ -8,3 +8,5 @@ tabmodalprompt-password =
     .value = Passwird:
 tabmodalprompt-ok-button =
     .label = OK
+tabmodalprompt-cancel-button =
+    .label = Stap
