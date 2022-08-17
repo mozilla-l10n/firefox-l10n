@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Menu item that sends a tab to all synced devices.
-account-send-to-all-devices = සියළු උපාංයන්ට යවන්න
-
+account-send-to-all-devices = සියළු උපාංග වෙත යවන්න

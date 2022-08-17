@@ -6,15 +6,15 @@
 ## App Menu
 
 appmenuitem-new-tab =
-    .label = නව ටැබයක් විවෘත කරන්න
+    .label = නව පටිත්ත
 appmenuitem-new-window =
-    .label = නව කවුළුවක්
+    .label = නව කවුළුව
 appmenuitem-new-private-window =
-    .label = නව පුද්ගලික කවුළුව
+    .label = නව පෞද්ගලික කවුළුව
 appmenuitem-history =
-    .label = අතීතය
+    .label = ඉතිහාසය
 appmenuitem-downloads =
-    .label = බාගැනිම්
+    .label = බාගැනීම්
 appmenuitem-print =
     .label = මුද්‍රණය...
 appmenuitem-zoom =
@@ -30,17 +30,17 @@ appmenuitem-fullscreen =
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 # This is shown beneath the name of a device when that device has no open tabs
-appmenu-remote-tabs-notabs = විවෘත ටැබ නොමැත
+appmenu-remote-tabs-notabs = විවෘත පටිති නැත.
 # This is shown when Sync is configured but syncing tabs is disabled.
-appmenu-remote-tabs-tabsnotsyncing = වෙනත් උපාංගයන්ගේ සිට ටැබ් ලැයිස්තුව බැලිමට ටැබ් සම්මුහුර්ථය අරින්න (Turn on).
+appmenu-remote-tabs-tabsnotsyncing = ඔබගේ අන් උපාංගවල පටිති ලේඛනයක් දැකීමට සමමුහූර්තය සක්‍රිය කරන්න.
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
-appmenu-remote-tabs-noclients = වෙනත් උපාංගයක සිට ඔබේ මෙම ටැබ් බැලීමට අවශ්‍යද?
+appmenu-remote-tabs-noclients = වෙනත් උපාංගයකින් ඔබගේ පටිති බැලීමට අවශ්‍යද?
 appmenu-remote-tabs-connectdevice =
-    .label = තවත් උපාංගයක් සබඳ කරන්න
-appmenu-remote-tabs-unverified = ඔබේ ගිනුම තහවුරු කල යුතුයි.
+    .label = අන් උපාංගයක් සබඳින්න
+appmenu-remote-tabs-unverified = ඔබගේ ගිණුම තහවුරු කළ යුතුයි.
 appmenuitem-save-page =
-    .label = පිටුව සුරකින්න...
+    .label = …ලෙස පිටුව සුරකින්න
 
 ## What's New panel in App menu.
 
@@ -64,22 +64,22 @@ profiler-popup-presets-firefox-label =
 ## History panel
 
 appmenu-restore-session =
-    .label = පෙර සැසිය ප්‍රතිස්ථාපනය
+    .label = කලින් වාරය ප්‍රත්‍යර්පණය
 appmenu-clear-history =
     .label = මෑත ඉතිහාසය මකන්න...
 appmenu-recent-history-subheader = මෑත ඉතිහාසය
 appmenu-recently-closed-tabs =
-    .label = මෑතකදි වැසු ටැබ්
+    .label = මෑත දී වැසු පටිති
 appmenu-recently-closed-windows =
-    .label = මෑතකදී වැසූ කවුළු
+    .label = මෑත දී වැසූ කවුළු
 
 ## Help panel
 
 appmenu-about =
-    .label = { -brand-shorter-name } පිළිබඳ
+    .label = { -brand-shorter-name } පිළිබඳව
     .accesskey = A
 appmenu-help-report-site-issue =
-    .label = අඩවියේ දෝශය වාර්ථා කරන්න…
+    .label = අඩවියේ දෝෂය වාර්තා කරන්න...
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -88,12 +88,6 @@ appmenu-help-report-site-issue =
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-report-deceptive-site =
-    .label = අවිශ්වාසී අඩවිය වාර්ථා කරන්න ...
-    .accesskey = D
-appmenu-help-not-deceptive =
-    .label = මෙය කූට අඩවියක් නොවේ
-    .accesskey = d
 
 ## More Tools
 

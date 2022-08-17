@@ -15,12 +15,11 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--facebook-container-brand-name = Facebook Container
 -lockwise-brand-name = ෆයර්ෆෝක්ස් ලොක්වයිස්
--lockwise-brand-short-name = Lockwise
+-lockwise-brand-short-name = ලොක්වයිස්
 -monitor-brand-name = ෆයර්ෆොක්ස් මොනිටර්
--monitor-brand-short-name = Monitor
--pocket-brand-name = Pocket
+-monitor-brand-short-name = මොනිටර්
+-pocket-brand-name = පොකට්
 -send-brand-name = ෆයර්ෆොක්ස් සෙන්ඩ්
 -screenshots-brand-name = ෆයර්ෆොක්ස් තිරසේයා
 -mozilla-vpn-brand-name = මොසිල්ලා වීපීඑන්
