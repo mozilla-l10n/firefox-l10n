@@ -6,3 +6,6 @@ refresh-profile-dialog-button =
     .label = { -brand-short-name } फेर सेट करू
 refresh-profile = { -brand-short-name } एकटा धुन द' दिअ
 refresh-profile-button = { -brand-short-name } ताजा करू…
+refresh-profile-progress =
+    .title = { -brand-short-name } फेर सेट करू
+refresh-profile-progress-description = तकरीबन पूरा भ गेल...
