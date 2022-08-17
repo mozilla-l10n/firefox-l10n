@@ -9,3 +9,5 @@ refresh-profile-dialog-description = Tornatz al començament per reglar los prob
 refresh-profile = Rejovenir { -brand-short-name }
 refresh-profile-button = Reïnicializar { -brand-short-name }…
 refresh-profile-learn-more = Ne saber mai
+refresh-profile-progress =
+    .title = Reïnicializar { -brand-short-name }
