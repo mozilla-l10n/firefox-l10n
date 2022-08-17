@@ -6,8 +6,13 @@ common-dialog-title-null = Tuta strona praji
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Njeznaty
-
 common-dialog-username =
     .value = Wužiwarske mjeno
 common-dialog-password =
     .value = Hesło
+common-dialog-copy-cmd =
+    .label = Kopěrować
+    .accesskey = K
+common-dialog-select-all-cmd =
+    .label = Wšo wubrać
+    .accesskey = W
