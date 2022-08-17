@@ -243,3 +243,14 @@ fx100-upgrade-thanks-header = 100 פעמים תודה
 fx100-upgrade-thank-you-body = זוהי המהדורה ה־100 שלנו של { -brand-short-name }. תודה <em>לך</em> שעזרת לנו לבנות אינטרנט בריא וטוב יותר.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = זוהי המהדורה ה־100 שלנו! תודה שהינך חלק מהקהילה שלנו. ניתן להשאיר את { -brand-short-name } במרחק קליק אחד עבור 100 המהדורות הבאות.
+
+## MR2022 Upgrade Dialog screens
+## Pin private window screen shown only for users who don't have Firefox private pinned
+
+mr2022-onboarding-skip-step-button-label = דילוג על השלב הזה
+mr2022-upgrade-onboarding-pin-private-window-header = קבלת חופש גלישה פרטית בלחיצה אחת
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] שמירת { -brand-short-name } במצב גלישה פרטית ב־Dock
+       *[other] הצמדת { -brand-short-name } במצב גלישה פרטית לשורת המשימות
+    }
