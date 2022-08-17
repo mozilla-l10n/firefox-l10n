@@ -51,7 +51,7 @@ firefoxview-tabpickup-network-offline-description = Se utilizzi un firewall o un
 firefoxview-tabpickup-network-offline-primarybutton = Riprova
 
 firefoxview-tabpickup-sync-error-header = Si è verificato un problema con la sincronizzazione
-firefoxview-tabpickup-sync-error-description = { -brand-short-name } non può raggiungere il servizio in questo momento. Riprova tra qualche istante.
+firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } non può raggiungere il servizio per la sincronizzazione in questo momento. Riprova tra qualche istante.
 firefoxview-tabpickup-sync-error-primarybutton = Riprova
 
 firefoxview-tabpickup-syncing = Stiamo sincronizzando le tue schede, ci vorrà solo un attimo.
