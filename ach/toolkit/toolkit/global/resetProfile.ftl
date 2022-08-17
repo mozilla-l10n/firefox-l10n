@@ -6,3 +6,6 @@ refresh-profile-dialog-button =
     .label = Cak { -brand-short-name } odoco
 refresh-profile = Ter { -brand-short-name } wek tii maber
 refresh-profile-button = Cak { -brand-short-name } odoco…
+refresh-profile-progress =
+    .title = Nwo { -brand-short-name }
+refresh-profile-progress-description = Cok tum…
