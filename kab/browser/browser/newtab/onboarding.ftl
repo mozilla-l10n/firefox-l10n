@@ -244,3 +244,9 @@ fx100-upgrade-thanks-header = 100 tikkal tanemmirt
 fx100-upgrade-thank-you-body = D lqem-nneɣ wis 100 n { -brand-short-name }. <em>Tanemmirt</em> ɣef tallalt-ik·im i lebni n internet igerrzen, azedgan.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = D lqem-nneɣ wis 100! Tanemmirt imi telliḍ d aεeggal deg tɣiwant-nneɣ. Eǧǧ { -brand-short-name } ɣef wafus i 100 i d-iteddun.
+
+## MR2022 Upgrade Dialog screens
+## Pin private window screen shown only for users who don't have Firefox private pinned
+
+mr2022-onboarding-skip-step-button-label = Zgel takkayt-a
+mr2022-upgrade-onboarding-pin-private-window-header = Sɛu tilelli n tunigin tusligt s yiwen usiti kan

@@ -47,8 +47,6 @@ firefoxview-mobile-promo-primarybutton = Awi { -brand-product-name } i uziraz
 firefoxview-mobile-confirmation-header = 🎉 igerrez i beddu!
 firefoxview-mobile-confirmation-description = Tzemreḍ tura ad d-terreḍ accaren-ik·im { -brand-product-name } seg tfelwit n uselken neɣ seg tiliɣri
 firefoxview-closed-tabs-title = Melmi kan i yettwamdal
-firefoxview-closed-tabs-collapse-button =
-    .title = Sken neɣ ffer tabdart n waccaren yettwamedlen melmi kan
 firefoxview-closed-tabs-description = Ales tawaledyawt n yisebtar i tmedleḍ ɣef yibenk-a
 firefoxview-closed-tabs-placeholder = <strong>Ulac isebtar yettwamedlen melmi kan</strong><br/>Ur ttaggad ara akk ad tesruḥeḍ iccer yeldin. Tzemreḍ ad t-id-terreḍ melmi i tebɣiḍ syagi.
 # refers to the last tab that was used
@@ -65,3 +63,7 @@ firefoxview-change-colorway-button = Beddel afran n yiniten
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Ulac ayen ara akka tura</strong><br/>Tikkelt-nniḍen mi ara teldiḍ asebter deg { -brand-product-name } ɣef yibenk-nniḍen, ddem-it syagi am wakken d asugen.
+firefoxview-collapse-button-show =
+    .title = Sken tabdart
+firefoxview-collapse-button-hide =
+    .title = Ffer tabdart
