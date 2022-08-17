@@ -6,8 +6,13 @@ common-dialog-title-null = Asebter-a yeqqar-d
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Arussin
-
 common-dialog-username =
     .value = Isem n useqdac
 common-dialog-password =
     .value = Awal uffir
+common-dialog-copy-cmd =
+    .label = Nɣel
+    .accesskey = N
+common-dialog-select-all-cmd =
+    .label = Fren imaṛṛa
+    .accesskey = i
