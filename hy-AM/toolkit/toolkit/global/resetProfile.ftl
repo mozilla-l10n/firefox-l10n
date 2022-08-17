@@ -6,3 +6,6 @@ refresh-profile-dialog-button =
     .label = Թարմացնել { -brand-short-name }-ը
 refresh-profile = Տալ { -brand-short-name }-ին լարում
 refresh-profile-button = Թարմացնել { -brand-short-name }-ը…
+refresh-profile-progress =
+    .title = Թարմացնել { -brand-short-name }-ը
+refresh-profile-progress-description = Գրեթե պատրաստ է...
