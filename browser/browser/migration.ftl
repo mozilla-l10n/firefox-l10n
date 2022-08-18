@@ -2,46 +2,44 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-migration-wizard =
-    .title = ආයාත විශාරද
 import-from =
     { PLATFORM() ->
-        [windows] වරණ, පිටු සලකුණු, පෙරදෑ, රහස්පද සහ අනෙකුත් දත්ත ආයාත කළ යුත්තේ:
-       *[other] මනාපයන්, පිටු සලකුණු, පෙරදෑ, රහස්පද සහ අනෙකුත් දත්ත ආයාත කළ යුත්තේ:
+        [windows] වෙතින් විකල්ප, පොත්යොමු, ඉතිහාසය, මුරපද හා අන් දත්ත ආයාත කරන්න:
+       *[other] වෙතින් අභිප්‍රේත, පොත්යොමු, ඉතිහාසය, මුරපද හා අන් දත්ත ආයාත කරන්න:
     }
-import-from-bookmarks = පිටු සලකුණු ආයාත කිරීම:
+import-from-bookmarks = වෙතින් පොත්යොමු ආයාත කරන්න:
 import-from-ie =
-    .label = Microsoft Internet Explorer
+    .label = ඉන්ටර්නෙට් එක්ස්ප්ලෝරර්
     .accesskey = M
 import-from-edge =
-    .label = Microsoft Edge
+    .label = මයික්‍රොසොෆ්ට් එඩ්ගේ
     .accesskey = E
 import-from-nothing =
     .label = කිසිවක් ආයාත නොකරන්න
     .accesskey = D
 import-from-safari =
-    .label = සෆාරි (Safari)
+    .label = සෆාරි
     .accesskey = S
 import-from-canary =
-    .label = Chrome Canary
+    .label = ක්‍රෝම් කැනරි
     .accesskey = n
 import-from-chrome =
-    .label = ක්‍රෝම් (Chrome)
+    .label = ක්‍රෝම්
     .accesskey = C
 import-from-chrome-beta =
-    .label = Chrome Beta
+    .label = ක්‍රෝම් බීටා
     .accesskey = B
 import-from-chrome-dev =
-    .label = Chrome Dev
+    .label = ක්‍රෝම් සංව.
     .accesskey = D
 import-from-chromium =
-    .label = Chromium
+    .label = ක්‍රෝමියම්
     .accesskey = u
 import-from-firefox =
     .label = ෆයර්ෆෝක්ස්
     .accesskey = x
 import-from-360se =
-    .label = 360 Secure Browser
+    .label = 360 ආරක්‍ෂිත අතිරික්සුව
     .accesskey = 3
 no-migration-sources = පිටු සලකුණු, අතීතය හෝ රහස්පද දත්ත අඩංගු වන කිසිදු වැඩසටහනක් සොයාගත නොහැකි විය.
 import-source-page-title = සැකසුම් සහ දත්ත ආයාත කිරීම

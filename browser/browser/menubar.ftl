@@ -225,11 +225,11 @@ menu-help =
     .label = උදව්
     .accesskey = H
 menu-help-report-site-issue =
-    .label = අඩවියේ දෝශය වාර්ථා කරන්න…
+    .label = අඩවියේ දෝෂ වාර්තාව…
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
-    .label = අවිශ්වාසී අඩවිය වාර්ථා කරන්න ...
+    .label = කූට අඩවි වාර්තා කරන්න...
     .accesskey = D
 menu-help-not-deceptive =
     .label = මෙය කූට අඩවියක් නොවේ
