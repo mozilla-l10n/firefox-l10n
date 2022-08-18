@@ -81,18 +81,18 @@ storage-tree-labels-local-storage = 로컬 저장소
 storage-tree-labels-session-storage = 세션 저장소
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = 캐시 저장소
-storage-tree-labels-extension-storage = 확장 저장소
+storage-tree-labels-extension-storage = 확장 기능 저장소
 
 ##
 
 # Tooltip for the button that collapses the right panel in the
 # storage UI when the panel is closed.
 storage-expand-pane =
-    .title = 창 확장
+    .title = 창 펼치기
 # Tooltip for the button that collapses the right panel in the
 # storage UI when the panel is open.
 storage-collapse-pane =
-    .title = 창 축소
+    .title = 창 접기
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = 세션
 # Heading displayed over the item value in the sidebar
