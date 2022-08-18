@@ -14,7 +14,7 @@ printui-sheets-count =
        *[many] { $sheetCount } kartek papieru
     }
 printui-page-range-all = Wszystkie
-printui-page-range-current = Bieżące
+printui-page-range-current = Bieżąca
 printui-page-range-odd = Nieparzyste
 printui-page-range-even = Parzyste
 printui-page-range-custom = Wybrane
