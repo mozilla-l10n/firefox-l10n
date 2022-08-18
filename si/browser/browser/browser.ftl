@@ -16,9 +16,9 @@
 #  $content-title (String): the title of the web content.
 browser-main-window =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (පෞද්ගලික ගවේෂණය)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (පෞද්ගලික ගවේෂණය)
+    .data-title-private = { -brand-full-name } (පෞද්. පිරික්සීම)
+    .data-content-title-default = { $content-title } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } (පෞද්. පිරික්සීම)
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -35,9 +35,9 @@ browser-main-window =
 #  $content-title (String): the title of the web content.
 browser-main-window-mac =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (පෞද්ගලික ගවේෂණය)
+    .data-title-private = { -brand-full-name } — (පෞද්. පිරික්සීම)
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (පෞද්ගලික ගවේෂණය)
+    .data-content-title-private = { $content-title } — (පෞද්. පිරික්සීම)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -47,44 +47,38 @@ browser-main-window-title = { -brand-full-name }
 ##
 
 urlbar-identity-button =
-    .aria-label = අඩවි තොරතුරු පෙන්වන්න
+    .aria-label = අඩවියේ තොරතුරු පෙන්වන්න
 
 ## Tooltips for images appearing in the address bar
 
 urlbar-services-notification-anchor =
-    .tooltiptext = ස්ථාපන පණිවිඩ පුවරුව විවෘත කරන්න
+    .tooltiptext = ස්ථාපන පණිවිඩ මඬල අරින්න
 urlbar-web-notification-anchor =
-    .tooltiptext = ඔබට අඩවියෙන් දැන්වීම් ලැබිය හැකිද යන්න වෙනස් කරන්න
+    .tooltiptext = ඔබට අඩවියෙන් දැන්වීම් ලැබීමට හැකිදැයි වෙනස් කරන්න
 urlbar-midi-notification-anchor =
-    .tooltiptext = MIDI පැනලය විවෘත කරන්න
+    .tooltiptext = MIDI මඬල අරින්න
 urlbar-eme-notification-anchor =
-    .tooltiptext = DRM මෘදුකාංග භාවිතය කළමණාකරනය කරන්න
-urlbar-canvas-notification-anchor =
-    .tooltiptext = canvas උපුටාගැනීම් බලතල පාලනය කරන්න
+    .tooltiptext = DRM මෘදුකාංග භාවිතය කළමනාකරණය
 urlbar-web-rtc-share-microphone-notification-anchor =
-    .tooltiptext = ඔබේ මයික්‍රෆෝනය අඩවිය සමඟ බෙදාගැනීම කළමණාකරනය කරන්න
+    .tooltiptext = ශබ්දවාහිනිය අඩවිය සමඟ බෙදාගැනීම කළමනාකරණය
 urlbar-default-notification-anchor =
-    .tooltiptext = පණිවිඩ පුවරුව විවෘත කරන්න
+    .tooltiptext = පණිවිඩ මඬල අරින්න
 urlbar-geolocation-notification-anchor =
-    .tooltiptext = ස්ථානය ඉල්ලීමේ පුවරුව විවෘත කරන්න
+    .tooltiptext = ස්ථානය ඉල්ලීමේ මඬල අරින්න
 urlbar-translate-notification-anchor =
-    .tooltiptext = මෙම පිටුව පරිවර්තනය කරන්න
+    .tooltiptext = පිටුව පරිවර්තනය කරන්න
 urlbar-web-rtc-share-screen-notification-anchor =
-    .tooltiptext = ඔබේ කවුළුව හෝ තිරය අඩවිය සමඟ බෙදාගැනීම කළමණාකරනය කරන්න
+    .tooltiptext = කවුළුව හෝ තිරය අඩවිය සමඟ බෙදාගැනීම කළමනාකරණය
 urlbar-indexed-db-notification-anchor =
-    .tooltiptext = මාර්ගගත නොවන ගබඩා පණිවුඩ පැනලය විවෘත කරන්න
+    .tooltiptext = මාර්ගඅපගත ආචයන පණිවිඩ මඬල අරින්න
 urlbar-password-notification-anchor =
-    .tooltiptext = සුරැකි මුරපද පණිවිඩ පුවරුව විවෘත කරන්න
+    .tooltiptext = සුරැකි මුරපද පණිවිඩ මඬල අරින්න
 urlbar-translated-notification-anchor =
-    .tooltiptext = පිටු පරිවර්තනය කළමණාකරනය කරන්න
-urlbar-plugins-notification-anchor =
-    .tooltiptext = ප්ලගින භාවිතය පාලනය කරන්න
-urlbar-web-rtc-share-devices-notification-anchor =
-    .tooltiptext = ඔබේ කැමරාව හා/හෝ මයික්‍රෆෝනය අඩවිය සමඟ බෙදාගැනීම කළමණාකරනය කරන්න
+    .tooltiptext = පිටු පරිවර්තනය කළමනාකරණය
 urlbar-persistent-storage-notification-anchor =
-    .tooltiptext = අනවරත ගබඩාවේ දත්ත ගබඩා කරන්න
+    .tooltiptext = අනවරත ආචයනයේ දත්ත ගබඩා කරන්න
 urlbar-addons-notification-anchor =
-    .tooltiptext = ඇඩෝන ස්ථාපනය කිරීමේ පණිවිඩ පුවරුව විවෘත කරන්න
+    .tooltiptext = එක්කහු ස්ථාපන පණිවිඩ මඬල අරින්න
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -104,13 +98,13 @@ urlbar-web-notifications-blocked =
 urlbar-camera-blocked =
     .tooltiptext = ඔබ මෙම අඩවියට ඔබගේ කැමරාව අවහිර කර ඇත.
 urlbar-microphone-blocked =
-    .tooltiptext = ඔබ මෙම අඩවියට ඔබගේ මයික්‍රෆෝනය අවහිර කර ඇත.
+    .tooltiptext = ඔබ මෙම අඩවියට ඔබගේ ශබ්දවාහිනිය අවහිර කර ඇත.
 urlbar-screen-blocked =
-    .tooltiptext = ඔබ මෙම අඩවිය ඔබගේ තිරය හවුල්කිරීම අවහිර කර ඇත.
+    .tooltiptext = ඔබ මෙම අඩවිය ඔබගේ තිරය බෙදාගැනීම අවහිර කර ඇත.
 urlbar-persistent-storage-blocked =
-    .tooltiptext = ඔබ මෙම අඩවිය සඳහා අනවරත ගබඩාව අවහිර කර ඇත.
+    .tooltiptext = ඔබ මෙම අඩවියට අනවරත ආචයනය අවහිර කර ඇත.
 urlbar-popup-blocked =
-    .tooltiptext = ඔබ මෙම අඩවිය සඳහා පොප්-අප් වළක්වා ඇත.
+    .tooltiptext = ඔබ මෙම අඩවිය සඳහා උත්පතන වළක්වා ඇත.
 urlbar-midi-blocked =
     .tooltiptext = ඔබ මෙම වෙබ්අඩවියට MIDI පිවිසුම අවහිර කර ඇත.
 # Variables
