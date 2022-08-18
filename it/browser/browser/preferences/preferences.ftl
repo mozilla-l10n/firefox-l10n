@@ -1125,8 +1125,13 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Motori di ricerca
     .accesskey = M
+addressbar-locbar-quickactions-option =
+    .label = Azioni rapide
+    .accesskey = z
 
 addressbar-suggestions-settings = Modifica le impostazioni relative ai suggerimenti dei motori di ricerca
+
+addressbar-quickactions-learn-more = Ulteriori informazioni
 
 ## Privacy Section - Content Blocking
 
