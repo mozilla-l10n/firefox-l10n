@@ -2,20 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-psmerr-ssl-disabled = SSL ප්‍රොටොකොලය අක්‍රීය වීම නිසා ආරක්‍ෂිතව සම්බන්ධ විය නොහැක.
+psmerr-ssl-disabled = SSL කෙටුම්පත අබල නිසා ආරක්‍ෂිතව සම්බන්ධ වීමට නොහැකිය.
 psmerr-ssl2-disabled = SSL ප්‍රොටොකොලයේ පැරණි, අනාරක්‍ෂිත වෙළුමක් භාවිත කරන නිසා ආරක්‍ෂිතව සම්බන්ධ විය නොහැක.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     You have received an invalid certificate.  Please contact the server administrator or email correspondent and give them the following information:
     
     Your certificate contains the same serial number as another certificate issued by the certificate authority.  Please get a new certificate containing a unique serial number.
-
 ssl-error-us-only-server = ආරක්ෂිතව සන්නිවේදනය කළ නොහැක. ලබන්නා වඩා ඉහළ-මට්ටමක ගුප්තකේනයක් ඉල්ලා සිටින අතර එයට සහය නොදක්වයි.
 ssl-error-no-cypher-overlap = අග්‍රය සමඟ ආරක්ෂිතව සන්නොවේදනය කළ නොහැක: පොදු සංකේතාංකන ඇල්ගොරිතම(ඇල්ගොරිතමයන්) නැත.
 ssl-error-no-certificate = සහතික කිරීම සඳහා අවශ්‍ය සහතිකය හෝ යතුර සොයා ගැනීමට නොහැක.
