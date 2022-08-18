@@ -82,8 +82,6 @@ vcard-adr-header = Helbideak
 vcard-adr-add = Gehitu helbidea
 vcard-adr-label = Helbidea
 vcard-adr-delivery-label = Entrega etiketa
-vcard-adr-pobox = Posta kutxa
-vcard-adr-ext = Helbide guztia
 vcard-adr-street = Helbideko kalea
 # Or "Locality"
 vcard-adr-locality = Hiria
@@ -105,3 +103,8 @@ vcard-org-add = Gehitu erakundearen propietateak
 vcard-org-title = Izenburua
 vcard-org-role = Rola
 vcard-org-org = Erakundea
+
+# Custom properties
+
+vcard-custom-header = Propietate pertsonalizatuak
+vcard-custom-add = Gehitu propietate pertsonalizatuak
