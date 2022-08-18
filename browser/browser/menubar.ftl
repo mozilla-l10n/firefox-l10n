@@ -88,7 +88,7 @@ menu-edit-find-again =
     .label = යළි සොයන්න
     .accesskey = g
 menu-edit-bidi-switch-text-direction =
-    .label = පෙළ දිශාව හරවන්න
+    .label = අකුරු දිශාව මාරු කරන්න
     .accesskey = w
 
 ## View Menu
@@ -103,41 +103,41 @@ menu-view-sidebar =
     .label = පැති තීරුව
     .accesskey = e
 menu-view-bookmarks =
-    .label = පිටු සලකුණු
+    .label = පොත්යොමු
 menu-view-history-button =
     .label = ඉතිහාසය
 menu-view-synced-tabs-sidebar =
-    .label = සම්මුහුර්ථ කළ ටැබ්
+    .label = සමමුහූර්ත පටිති
 menu-view-full-zoom =
-    .label = විශාලනය
+    .label = විශාල කරන්න
     .accesskey = Z
 menu-view-full-zoom-enlarge =
-    .label = විශාල කරන්න
+    .label = විශාලනය
     .accesskey = I
 menu-view-full-zoom-reduce =
-    .label = කුඩා කරන්න
+    .label = කුඩාලනය
     .accesskey = O
 menu-view-full-zoom-toggle =
-    .label = විශාලන පෙළ පමණයි
+    .label = පෙළ පමණක් විශාලනය
     .accesskey = T
 menu-view-page-style-menu =
-    .label = පිටු මෝස්තරය
+    .label = පිටුවේ ශෛලිය
     .accesskey = y
 menu-view-page-style-no-style =
-    .label = මෝස්තරයක් නැත
+    .label = ශෛලියක් නැත
     .accesskey = N
 menu-view-page-basic-style =
-    .label = මූලික පිටු මෝස්තරය
+    .label = පිටුවේ මූලික ශෛලිය
     .accesskey = B
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
 menu-view-enter-full-screen =
-    .label = පූර්ණතිරය වෙත යන්න
+    .label = පූර්ණ තිරයට යන්න
     .accesskey = F
 menu-view-exit-full-screen =
-    .label = පූර්ණ තිරයෙන් ඉවත්වන්න
+    .label = පූර්ණ තිරයෙන් පිටවන්න
     .accesskey = F
 menu-view-full-screen =
     .label = පූර්ණ තිරය
@@ -146,47 +146,44 @@ menu-view-full-screen =
 ##
 
 menu-view-show-all-tabs =
-    .label = සියළු ටැබ් පෙන්වන්න
+    .label = සියළු පටිති පෙන්වන්න
     .accesskey = A
-menu-view-bidi-switch-page-direction =
-    .label = පිටු දිශාව හරවන්න
-    .accesskey = D
 
 ## History Menu
 
 menu-history =
-    .label = අතීතය
+    .label = ඉතිහාසය
     .accesskey = s
 menu-history-show-all-history =
-    .label = සම්පූර්ණ අතීතය පෙන්වන්න
+    .label = සියළු ඉතිහාසය පෙන්වන්න
 menu-history-clear-recent-history =
     .label = මෑත ඉතිහාසය මකන්න...
 menu-history-synced-tabs =
-    .label = සම්මුහුර්ථ කළ ටැබ්
+    .label = සමමුහූර්ත පටිති
 menu-history-restore-last-session =
-    .label = පෙර සැසිය ප්‍රතිස්ථාපනය කරන්න
+    .label = කලින් වාරය ප්‍රත්‍යර්පණය
 menu-history-hidden-tabs =
-    .label = සැගවුනු ටැබ්
+    .label = සැඟවුණු පටිති
 menu-history-undo-menu =
-    .label = මෑතකදි වැසු ටැබ්
+    .label = මෑත දී වැසු පටිති
 menu-history-undo-window-menu =
-    .label = මෑතකදී වැසූ කවුළු
+    .label = මෑත දී වැසූ කවුළු
 
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
-    .label = පිටු සලකුණු
+    .label = පොත්යොමු
     .accesskey = B
 menu-bookmark-edit =
-    .label = මෙම පිටු සලකුණ සකසන්න
+    .label = පොත්යොමුව සංස්කරණය
 menu-bookmarks-all-tabs =
-    .label = සියලු ටැබ පිටු සලකුණුගත කරන්න...
+    .label = සියළු පොත්යොමු සංස්කරණය…
 menu-bookmarks-toolbar =
-    .label = පිටු සලකුණු මෙවලම් තීරුව
+    .label = පොත්යොමු මෙවලම් තීරුව
 menu-bookmarks-other =
-    .label = වෙනත් පිටුසලකුණු
+    .label = වෙනත් පොත්යොමු
 menu-bookmarks-mobile =
-    .label = ජංගම පිටු සළකුණු
+    .label = ජංගම පොත්යොමු
 
 ## Tools Menu
 
@@ -194,13 +191,13 @@ menu-tools =
     .label = මෙවලම්
     .accesskey = T
 menu-tools-downloads =
-    .label = බාගැනිම්
+    .label = බාගැනීම්
     .accesskey = D
 menu-tools-sync-now =
-    .label = දැන් සම්මුහුර්ත කරන්න
+    .label = සමමුහූර්ත කරන්න
     .accesskey = S
 menu-tools-page-source =
-    .label = පිටුවේ මූලය
+    .label = පිටුවේ මූලාශ්‍රය
     .accesskey = o
 menu-tools-page-info =
     .label = පිටුවේ තොරතුරු
