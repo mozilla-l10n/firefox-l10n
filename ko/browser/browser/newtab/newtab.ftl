@@ -175,7 +175,7 @@ newtab-label-source-read-time = { $source } · { $timeToRead }분
 
 newtab-section-menu-remove-section = 섹션 삭제
 newtab-section-menu-collapse-section = 섹션 축소
-newtab-section-menu-expand-section = 섹션 확장
+newtab-section-menu-expand-section = 섹션 펼치기
 newtab-section-menu-manage-section = 섹션 관리
 newtab-section-menu-manage-webext = 확장 기능 관리
 newtab-section-menu-add-topsite = 상위 사이트 추가
@@ -189,7 +189,7 @@ newtab-section-menu-privacy-notice = 개인정보처리방침
 newtab-section-collapse-section-label =
     .aria-label = 섹션 축소
 newtab-section-expand-section-label =
-    .aria-label = 섹션 확장
+    .aria-label = 섹션 펼치기
 
 ## Section Headers.
 
