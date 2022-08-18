@@ -4,7 +4,7 @@
 
 aboutDialog-title =
     .title = { -brand-full-name } පිළිබඳව
-releaseNotes-link = මොනවාද අළුත්
+releaseNotes-link = අළුත් දෑ
 update-checkForUpdatesButton =
     .label = යාවත්කාල පරීක්‍ෂා කරන්න
     .accesskey = C
