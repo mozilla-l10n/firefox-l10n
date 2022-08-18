@@ -243,3 +243,15 @@ fx100-upgrade-thanks-header = 100 köszönet
 fx100-upgrade-thank-you-body = Ez a { -brand-short-name } 100. kiadása. Köszönjük <em>Önnek</em>, hogy segít nekünk egy jobb, egészségesebb internet felépítésében.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Ez a 100. kiadásunk! Köszönjük, hogy segít a közösségünk tagja. Tartsa egy kattintásnyira a { -brand-short-name }ot a következő 100-hoz.
+
+## MR2022 Upgrade Dialog screens
+## Pin private window screen shown only for users who don't have Firefox private pinned
+
+mr2022-onboarding-skip-step-button-label = Lépés kihagyása
+mr2022-upgrade-onboarding-pin-private-window-header = Kapja meg a privát böngészés szabadságát egyetlen kattintással
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Nincsenek mentett sütik vagy előzmények, közvetlenül az asztaláról. Böngésszen úgy, mintha senki sem nézné.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] A { -brand-short-name } privát böngészés Dokkban tartása
+       *[other] A { -brand-short-name } privát böngészés rögzítése a tálcára
+    }
