@@ -26,22 +26,21 @@ newtab-topsites-title-input =
 newtab-topsites-url-label = ඒ.ස.නි.
 newtab-topsites-url-input =
     .placeholder = ඒ.ස.නි. ලියන්න හෝ අලවන්න
-newtab-topsites-url-validation = වලංගු URL එකක් අවශ්‍ය වේ
-newtab-topsites-image-validation = පින්තූරය පැටවීමට අපොහොසත් විය. වෙනත් URL එකක් උත්සාහ කරන්න.
+newtab-topsites-url-validation = වලංගු ඒ.ස.නි. අවශ්‍ය වේ
+newtab-topsites-image-validation = රූපය පූරණයට අසමත් විය. අන් ඒ.ස.නි. බලන්න.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = අවලංගු කරන්න
-newtab-topsites-delete-history-button = අතිතයෙන් මකන්න කරන්න
+newtab-topsites-delete-history-button = ඉතිහාසයෙන් මකන්න
 newtab-topsites-save-button = සුරකින්න
 newtab-topsites-preview-button = පෙරදසුන
-newtab-topsites-add-button = එක් කරන්න
+newtab-topsites-add-button = එකතු
 
 ## Top Sites - Delete history confirmation dialog.
 
-newtab-confirm-delete-history-p1 = ඔබට මෙම පිටුවට අදාල සියලුම සිදුවීම් ඔබේ අතීතයන් මැකීමට අවශ්‍ය ද?
 # "This action" refers to deleting a page from history.
-newtab-confirm-delete-history-p2 = මෙම ක්‍රියාව අහෝසි කළ නොහැක.
+newtab-confirm-delete-history-p2 = මෙම ක්‍රියාමාර්ගය අප්‍රතිවර්ත්‍යයි.
 
 ## Top Sites - Sponsored label
 
@@ -50,21 +49,21 @@ newtab-confirm-delete-history-p2 = මෙම ක්‍රියාව අහෝ�
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = මෙනුව විවෘත කරන්න
-    .aria-label = මෙනුව විවෘත කරන්න
+    .title = වට්ටෝරුව අරින්න
+    .aria-label = වට්ටෝරුව අරින්න
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = මෙම අඩවිය සකසන්න
-    .aria-label = මෙම අඩවිය සකසන්න
+    .title = අඩවිය සංස්කරණය
+    .aria-label = අඩවිය සංස්කරණය
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
-newtab-menu-edit-topsites = සැකසුම්
-newtab-menu-open-new-window = නව කවුළුවක විවෘත කරන්න
-newtab-menu-open-new-private-window = නව පුද්ගලික කවුළුවක විවෘත කරන්න
-newtab-menu-dismiss = ඉවත් කරන්න
-newtab-menu-pin = ඇමිණීම
-newtab-menu-unpin = ඇමුණුම ඉවත් කරන්න
+newtab-menu-edit-topsites = සංස්කරණය
+newtab-menu-open-new-window = නව කවුළුවක අරින්න
+newtab-menu-open-new-private-window = නව පෞද්. කවුළුවක අරින්න
+newtab-menu-dismiss = ඉවතලන්න
+newtab-menu-pin = අමුණන්න
+newtab-menu-unpin = ගළවන්න
 newtab-menu-delete-history = අතිතයෙන් මකන්න කරන්න
 newtab-menu-save-to-pocket = { -pocket-brand-name } හි සුරකින්න
 newtab-menu-delete-pocket = { -pocket-brand-name } වෙතින් මකන්න
