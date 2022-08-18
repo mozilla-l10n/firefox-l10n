@@ -106,20 +106,20 @@ urlbar-persistent-storage-blocked =
 urlbar-popup-blocked =
     .tooltiptext = ඔබ මෙම අඩවිය සඳහා උත්පතන වළක්වා ඇත.
 urlbar-midi-blocked =
-    .tooltiptext = ඔබ මෙම වෙබ්අඩවියට MIDI පිවිසුම අවහිර කර ඇත.
+    .tooltiptext = ඔබ මෙම අඩවියට MIDI ප්‍රවේශය අවහිර කර ඇත.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
-    .tooltiptext = මෙම පිටු සලකුණ සකසන්න ({ $shortcut })
+    .tooltiptext = මෙම පොත්යොමුව සංස්කරණය ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
-    .tooltiptext = පිටු සලකුණු කරන්න ({ $shortcut })
+    .tooltiptext = මෙම පිටුවට පොත්යොමුවක් ({ $shortcut })
 
 ## Page Action Context Menu
 
 page-action-manage-extension =
-    .label = දිගුව පාලනය කරන්න…
+    .label = දිගුව කළමනාකරණය...
 
 ## Auto-hide Context Menu
 
@@ -127,18 +127,18 @@ full-screen-autohide =
     .label = මෙවලම් තීරු සඟවන්න
     .accesskey = H
 full-screen-exit =
-    .label = පූර්ණතිර ආකාරයෙන් ඉවත් වන්න
+    .label = පූර්ණ තිරයෙන් පිටවන්න
     .accesskey = F
 
 ## Search Engine selection buttons (one-offs)
 
 search-one-offs-change-settings-compact-button =
-    .tooltiptext = සෙවුම් සිටුවම් වෙනස් කරන්න
+    .tooltiptext = සෙවීම් සැකසුම් සංශෝධනය
 search-one-offs-context-open-new-tab =
-    .label = නව ටැබයක සොයන්න
+    .label = නව පටිත්තක සොයන්න
     .accesskey = T
 search-one-offs-context-set-as-default =
-    .label = පෙරනිමි සෙවුම් එළවුම ලෙස තබන්න
+    .label = පෙරනිමි සෙවුම් යන්ත්‍රයට සකසන්න
     .accesskey = D
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
@@ -171,29 +171,23 @@ bookmark-panel-cancel =
 bookmark-panel-remove =
     .label =
         { $count ->
-            [one] පිටු සලකුණ මකන්න
-           *[other] පිටු සලකුණු මකන්න ({ $count })
+            [one] පොත්යොමුව මකන්න
+           *[other] පොත්යොමු { $count } ක් මකන්න
         }
     .accesskey = R
 
 ## Identity Panel
 
-identity-connection-internal = මෙය ආරක්ෂිත { -brand-short-name } පිටුවකි.
-identity-connection-file = මෙම පිටුව ඔබේ පරිගණකයේ ගබඩා කර ඇත.
+identity-connection-internal = මෙය ආරක්‍ෂිත { -brand-short-name } පිටුවකි.
+identity-connection-file = මෙම පිටුව පරිගණකයේ ගබඩා කර ඇත.
 identity-extension-page = මෙම පිටුව දිගුවක් මගින් පූරණය වේ.
-identity-active-blocked = ආරක්ෂිත නොවන නිසා මෙම පිටුවේ කොටස් { -brand-short-name } අවහිර කර ඇත.
+identity-active-blocked = { -brand-short-name } මෙම පිටුවේ ආරක්‍ෂිත නොවන කොටස් අවහිර කර ඇත.
 identity-custom-root = සම්බන්ධතාවය තහවුරු කළ සහතික නිකුත් කරන්නා මොසිල්ලා විසින් හඳුනා ගෙන නැත.
-identity-passive-loaded = මෙම පිටුවේ (පිංතූර වැනි) කොටස් ආරක්ෂිත නැත.
-identity-active-loaded = මෙම පිටුව සඳහා ආරක්ෂාව ඔබ විසින් බල රහිත කර ඇත.
+identity-passive-loaded = මෙම පිටුවේ කොටස් ආරක්‍ෂිත නොවේ (රූප වැනි).
+identity-active-loaded = ඔබ මෙම පිටුව සඳහා රැකවරණය අබල කර ඇත.
 identity-weak-encryption = මෙම පිටුව දුර්වල සංකේතනයක් භාවිතා කරයි.
-identity-insecure-login-forms = මෙම පිටුවට යොදන ප්‍රවේශ තොරතුරු නිසා ව්‍යකූලවීම් සිදුවිය හැකිය.
 identity-https-only-label = HTTPS-පමණි ප්‍රකාරය
-identity-permissions-reload-hint = වෙනස්කම් යෙදවීම සඳහා ඔබට පිටුව යළි පූරණය කිරීමට සිදුවිය හැක.
-identity-clear-site-data =
-    .label = කුකී සහ අඩවි දත්ත හිස් කරන්න...
-identity-remove-cert-exception =
-    .label = හැර දැමීම ඉවත් කරන්න
-    .accesskey = R
+identity-permissions-reload-hint = වෙනස්කම් යෙදීමට පිටුව යළි පූරණය කිරීමට සිදු වනු ඇත.
 identity-description-insecure = මෙම පිටුවට වූ ඔබේ සම්බන්ධතාවය පෞද්ගලික නොවේ. ඔබ ලබාදෙන තොරතුරු වෙනත් අයෙකු බැලීමට ඉඩ ඇත (රහස්පද, පණිවුඩ, ණය කාඩ්පත් ආදී..).
 identity-description-insecure-login-forms = මෙම පිටුවට යොදන ප්‍රවේශ තොරතුරු ආරක්ෂිත නොවන නිසා ව්‍යකූලවීම් සිදුවිය හැකිය.
 identity-description-weak-cipher-intro = මෙම පිටුවට වන ඔබේ සම්බන්ධතාවය දුර්වල සංකේතනයක් භාවිතා කරයි එසේම එය පෞද්ගලික නොවේ.
