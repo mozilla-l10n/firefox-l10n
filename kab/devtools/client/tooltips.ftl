@@ -31,6 +31,7 @@ inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> ur
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> ur d-igellu s kra ɣef yiferdisen n tfelwit tagensant slid tibliqin n tfelwit.
 inactive-css-not-table = <strong>{ $property }</strong> ur d-igellu s kra ɣef uferdis-a imi mačči d tafelwit.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> ur d-igellu s kra ɣef uferdis-a imi ur yezmir ara ad yedrurem.
+inactive-css-ruby-element = <strong>{ $property }</strong> ur yettḥaz ara akk aferdis-a, acku d aferdis ruby. Teɣzi-ines tebna ɣef teɣzi n tsefsit n uḍris ruby.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how

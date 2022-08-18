@@ -335,6 +335,7 @@ fission-status-disabled-by-default = Yensa s wudem amezwer
 fission-status-enabled-by-user-pref = Yetturmed sɣur useqdac
 fission-status-disabled-by-user-pref = Yensa sɣur useqdac
 fission-status-disabled-by-e10s-other = E10s yettwasens
+fission-status-enabled-by-rollout = Rmed asenqqes s cwiṭ cwiṭ
 async-pan-zoom = Asemɣeṛ/Asemẓi aramtawa
 apz-none = ulac
 wheel-enabled = anekcum n tjaṛaṛt yermed
