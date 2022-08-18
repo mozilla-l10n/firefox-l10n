@@ -250,3 +250,8 @@ fx100-upgrade-thanks-keep-body = Je to naše 100. vydanie! Ďakujeme, že ste s�
 mr2022-onboarding-skip-step-button-label = Preskočiť tento krok
 mr2022-upgrade-onboarding-pin-private-window-header = Získajte slobodu súkromného prehliadania na jedno kliknutie
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Žiadne uložené súbory cookie alebo história prehliadania z vášho počítača. Prehliadajte tak, aby sa nikto nepozeral.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Ponechať Súkromné prehliadanie { -brand-short-name(case: "gen") } v Docku
+       *[other] Pripnúť Súkromné prehliadanie { -brand-short-name(case: "gen") } na panel úloh
+    }
