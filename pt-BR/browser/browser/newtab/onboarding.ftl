@@ -243,3 +243,9 @@ fx100-upgrade-thanks-header = 100 agradecimentos
 fx100-upgrade-thank-you-body = É a nossa 100ª versão do { -brand-short-name }. Obrigado a <em>você</em> por nos ajudar a construir uma internet melhor e mais saudável.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = É a nossa 100ª versão! Obrigado por fazer parte da nossa comunidade. Mantenha o { -brand-short-name } a um clique de distância para os próximos 100.
+
+## MR2022 Upgrade Dialog screens
+## Pin private window screen shown only for users who don't have Firefox private pinned
+
+mr2022-onboarding-skip-step-button-label = Pular esta etapa
+mr2022-upgrade-onboarding-pin-private-window-header = Tenha liberdade de navegação privativa em apenas um clique

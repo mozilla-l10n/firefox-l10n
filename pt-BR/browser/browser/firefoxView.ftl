@@ -47,8 +47,6 @@ firefoxview-mobile-promo-primarybutton = Instale o { -brand-product-name } para 
 firefoxview-mobile-confirmation-header = 🎉 Pronto!
 firefoxview-mobile-confirmation-description = Agora você pode abrir suas abas do { -brand-product-name } do seu tablet ou celular.
 firefoxview-closed-tabs-title = Fechado recentemente
-firefoxview-closed-tabs-collapse-button =
-    .title = Exibir ou ocultar a lista de abas fechadas recentemente
 firefoxview-closed-tabs-description = Reabrir páginas que você fechou neste dispositivo.
 firefoxview-closed-tabs-placeholder = <strong>Nenhuma página fechada recentemente</strong><br/>Nunca mais tenha medo de perder uma aba fechada. Você sempre pode recuperar aqui.
 # refers to the last tab that was used
@@ -65,3 +63,7 @@ firefoxview-change-colorway-button = Mudar esquema de cores
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Nada ainda</strong><br/>Na próxima vez que você abrir uma página no { -brand-product-name } em outro dispositivo, aparece aqui como mágica.
+firefoxview-collapse-button-show =
+    .title = Exibir lista
+firefoxview-collapse-button-hide =
+    .title = Ocultar lista
