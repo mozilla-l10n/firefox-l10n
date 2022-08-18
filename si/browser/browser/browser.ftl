@@ -334,12 +334,12 @@ bookmarks-toolbar-menu =
 bookmarks-toolbar-placeholder =
     .title = පොත්යොමු මෙවලම් තීරුවේ අංග
 bookmarks-toolbar-placeholder-button =
-    .label = පිටු සලකුණු මෙවලම් තීරුවේ අයිතමයන්
+    .label = පොත්යොමු මෙවලම් තීරුවේ අංග
 
 ## Library Panel items
 
 library-bookmarks-menu =
-    .label = පිටු සලකුණු
+    .label = පොත්යොමු
 
 ## Pocket toolbar button
 
@@ -350,11 +350,8 @@ library-bookmarks-menu =
 ## Customize Toolbar Buttons
 
 toolbar-overflow-customize-button =
-    .label = මෙවලම් තීරු රිසිකරණය…
+    .label = මෙවලම් තීරුව රිසිකරණය…
     .accesskey = C
-toolbar-button-email-link =
-    .label = ඊ-මේල් සබැඳිය
-    .tooltiptext = මෙම පිටුවට සබැඳියක් ඊ-තැපැල් කරන්න
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -363,16 +360,16 @@ toolbar-button-save-page =
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
-    .label = ගොනුව විවෘත කරන්න
-    .tooltiptext = ගොනුව විවෘත කරන්න ({ $shortcut })
+    .label = ගොනුව අරින්න
+    .tooltiptext = ගොනුව අරින්න ({ $shortcut })
 toolbar-button-synced-tabs =
-    .label = සම්මුහුර්ථ කළ ටැබ
-    .tooltiptext = වෙනත් මෙවලම් වලින් ටැබ පෙන්වන්න
+    .label = සමමුහූර්ත පටිති
+    .tooltiptext = අන් උපාංග වලින් පටිති පෙන්වන්න
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
-    .label = නව පුද්ගලික කවුළුව
-    .tooltiptext = නව පුද්ගලික ගවේශන කවුළුවක් විවෘත කරන්න ({ $shortcut })
+    .label = නව පෞද්ගලික කවුළුව
+    .tooltiptext = නව පෞද්. පිරික්සුම් කවුළුවක් අරින්න ({ $shortcut })
 
 ## EME notification panel
 
@@ -392,16 +389,16 @@ ui-tour-info-panel-close =
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
 popups-infobar-allow =
-    .label = Allow popups for { $uriHost }
+    .label = { $uriHost } උත්පතනවලට ඉඩදෙන්න
     .accesskey = p
 popups-infobar-block =
-    .label = Block popups for { $uriHost }
+    .label = { $uriHost } උත්පතන අවහිර කරන්න
     .accesskey = p
 
 ##
 
 popups-infobar-dont-show-message =
-    .label = පොප්-අප් අවහිර කර ඇතිවිට මෙම පණිවිඩය පෙන්වන්න එපා
+    .label = උත්පතන අවහිර විට මෙම පණිවිඩය නොපෙන්වන්න
     .accesskey = D
 
 ## Since the default position for PiP controls does not change for RTL layout,
@@ -414,24 +411,24 @@ popups-infobar-dont-show-message =
 # Navigator Toolbox
 
 navbar-downloads =
-    .label = බාගැනිම්
+    .label = බාගැනීම්
 navbar-overflow =
     .tooltiptext = තවත් මෙවලම්...
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = මුද්‍රණය
-    .tooltiptext = මෙම පිටුව මුදරණය කරන්න... ({ $shortcut })
+    .tooltiptext = මෙම පිටුව මුද්‍රණය කරන්න... ({ $shortcut })
 navbar-home =
     .label = මුල් පිටුව
-    .tooltiptext = { -brand-short-name } නිවෙස් පිටුව
+    .tooltiptext = { -brand-short-name } මුල් පිටුව
 navbar-library =
     .label = පුස්තකාලය
-    .tooltiptext = ඉතිහාසය, සුරැකි පිටු සලකුණු හා තවත් දෑ බලන්න
+    .tooltiptext = ඉතිහාසය, සුරැකි පොත්යොමු හා තවත් දෑ බලන්න
 navbar-search =
     .title = සොයන්න
 navbar-accessibility-indicator =
-    .tooltiptext = පිවිසුම්කාරක විශේෂාංග සක්‍රීයයි
+    .tooltiptext = ප්‍රවේශ්‍යතා විශේෂාංග සබලයි
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
