@@ -15,25 +15,15 @@ psmerr-hostreusedissuerandserial =
     ඔබට වලංගු නොවන සහතිකයක් ලැබී ඇත. සේවාදායක පරිපාලක හෝ ලියුම්කරු අමතා ඔවුන්ට පහත තොරතුරු සපයන්න:
     
     සහතික අධිකාරිය විසින් නිකුත් කරන ලද තවත් සහතිකයකට සමාන අනුක්‍රමික අංකයක් ඔබගේ සහතිකයේ අඩංගු වේ. අනන්‍ය අනුක්‍රමික අංකයක් අඩංගු නව සහතිකයක් ගන්න.
-ssl-error-us-only-server = ආරක්ෂිතව සන්නිවේදනය කළ නොහැක. ලබන්නා වඩා ඉහළ-මට්ටමක ගුප්තකේනයක් ඉල්ලා සිටින අතර එයට සහය නොදක්වයි.
-ssl-error-no-cypher-overlap = අග්‍රය සමඟ ආරක්ෂිතව සන්නොවේදනය කළ නොහැක: පොදු සංකේතාංකන ඇල්ගොරිතම(ඇල්ගොරිතමයන්) නැත.
-ssl-error-no-certificate = සහතික කිරීම සඳහා අවශ්‍ය සහතිකය හෝ යතුර සොයා ගැනීමට නොහැක.
-ssl-error-bad-certificate = අග්‍රය සමඟ ආරක්ෂිතව සන්නොවේදනය කළ නොහැක: අග්‍රයේ සහතිකය ප්‍රතික්ෂේප කරන ලදි.
-ssl-error-bad-client = සේව්‍යයාගෙන් නරක දත්ත සේවකයාට හමු වී ඇත.
-ssl-error-bad-server = සේවකයාගෙන් නරක දත්ත සේව්‍යයාට හමු වී ඇත.
-ssl-error-unsupported-certificate-type = සහය නොදක්වන සහතික වර්ගය.
-ssl-error-unsupported-version = අග්‍රය ආරක්ෂණ සම්මුතියේ සහය නොදක්වන අනුවාදයක් භාවිතා කරමින්.
-ssl-error-wrong-certificate = සේව්‍යයා සහතික කිරීම අසමත් වී ඇත: යතුරු ගබඩාවේ ඇති පුද්ගලික යතුර සහතික ගබඩාවේ ඇති පොදු යතුර හා නොගැළපේ.
-ssl-error-bad-cert-domain = අග්‍රය සමඟ ආරක්ෂිතව සන්නොවේදනය කළ නොහැක: ඉල්ලූ වසම නාමය සේවකයාගේ සහතිකය සමඟ නොගැළපේ.
-ssl-error-ssl2-disabled = අග්‍රය දේශීයව අක්‍රිය කර ඇති SSL 2 අනුවාදය සඳහා පමණක් සහය දක්වයි.
-ssl-error-bad-mac-read = අසත්‍ය පණිවිඩ සහතික කිරීමේ කේතයක් සමඟ වාර්තාවක් SSL ට ලැබුණි.
-ssl-error-bad-mac-alert = SSL අග්‍රය අසත්‍ය පණිවිඩ සහතික කිරීමේ කේතයක් වාර්තා කරයි.
-ssl-error-bad-cert-alert = SSL අග්‍රයට ඔබගේ සහතිකය ස්ථිර කළ නොහැක.
-ssl-error-revoked-cert-alert = SSL අග්‍රය ඔබගේ සහතිකය අහෝසි වූවක් ලෙස ප්‍රතික්ෂේප කරන ලදි.
-ssl-error-expired-cert-alert = SSL අග්‍රය ඔබගේ සහතිකය කල් ඉකුත් වූවක් ලෙස ප්‍රතික්ෂේප කර ලදි.
-ssl-error-ssl-disabled = Cannot connect: SSL අකර්මන්‍ය කර ඇත.
-ssl-error-fortezza-pqg = Cannot connect: SSL අග්‍රය තවත් FORTEZZA වසමකි.
-ssl-error-unknown-cipher-suite = නාඳුනන SSL කේතාංක කටටළයක් ඉල්ලා ඇත.
+ssl-error-no-certificate = සත්‍යාපනය සඳහා අවශ්‍ය සහතිකය හෝ යතුර සොයා ගැනීමට නොහැකි විය.
+ssl-error-bad-client = අනුග්‍රාහකයේ නරක දත්ත සේවාදායකයට සමාසදය වී ඇත.
+ssl-error-bad-server = අනුග්‍රාහකයේ නරක දත්ත සේවාදායකයට සමාසදය වී ඇත.
+ssl-error-unsupported-certificate-type = සහය නොදක්වන සහතික වර්ගයකි.
+ssl-error-wrong-certificate = අනුග්‍රාහකය සත්‍යාපනයට අසමත් විය: ප්‍රධාන දත්ත ගබඩාවේ පෞද්ගලික යතුර සහතික දත්ත ගබඩාවේ පොදු යතුර සමඟ නොගැළපේ.
+ssl-error-bad-mac-read = SSL වෙත වැරදි පණිවිඩ සත්‍යාපන කේතයක් සහිත වාර්තාවක් ලැබිණි.
+ssl-error-ssl-disabled = සබැඳීමට නොහැකිය: SSL අබල කර ඇත.
+ssl-error-fortezza-pqg = සබැඳීමට නොහැකිය: SSL සාමානය වෙනත් FORTEZZA වසමක ඇත.
+ssl-error-unknown-cipher-suite = නොදන්නානා SSL කේතාංක කට්ටලයක් ඉල්ලා ඇත.
 ssl-error-no-ciphers-supported = මෙම වැඩසටහනේ කේතාංක කට්ටළ නැති අතර ඒවා ක්‍රියාත්මක කර නැත.
 ssl-error-bad-block-padding = නරක ඇසුරුම් කිරීමක් ඇති වාර්තාවක් SSL ට ලැබුණි.
 ssl-error-rx-record-too-long = උපරිම අවසර ඇති දිග ඉක්මවූ වාර්තාවක් SSL ට ලැබුණි.
