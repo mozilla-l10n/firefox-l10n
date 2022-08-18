@@ -244,3 +244,9 @@ fx100-upgrade-thanks-header = 100 Aguyje
 fx100-upgrade-thank-you-body = Ore ñemyasãi 100 { -brand-short-name } rehegua. Aguyje <em>ndéve</em> orepytyvõ haguére rojapóvo Ñanduti iporã ha hesãivéva.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = ¡Ore ñemyasãi 100! Aguyje reime haguére ore rekohápe. Eguereko { -brand-short-name } nde ykére ouvétava 100 ndiveguápe.
+
+## MR2022 Upgrade Dialog screens
+## Pin private window screen shown only for users who don't have Firefox private pinned
+
+mr2022-onboarding-skip-step-button-label = Epónte kóvagui
+mr2022-upgrade-onboarding-pin-private-window-header = Eikundaha ñemi sãsóme peteĩ jeikutúpe

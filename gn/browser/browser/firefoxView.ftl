@@ -48,6 +48,7 @@ firefoxview-mobile-confirmation-header = 🎉 ¡Eguerahakuaáma!
 firefoxview-mobile-confirmation-description = Ko’ág̃a ikatu ehecha { -brand-product-name } rendayke nde tabléta térã pumbyry guive.
 firefoxview-closed-tabs-title = Oñembotyramovéva
 firefoxview-closed-tabs-description = Embojurujajey kuatiarogue ko mba’e’okápe.
+firefoxview-closed-tabs-placeholder = <strong>Ndaipóri kuatiarogue oñembotyramóva</strong><br/>Ani ekyhyje tendayke oñembotyjeývagui. Eguerukuaajey ko’ápe.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Hendyramovéva
 # Variables:
@@ -61,3 +62,7 @@ firefoxview-change-colorway-button = Emoambue sa’y ojueheguáva
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-collapse-button-show =
+    .title = Ehechauka tysýi
+firefoxview-collapse-button-hide =
+    .title = Emokañy tysýi
