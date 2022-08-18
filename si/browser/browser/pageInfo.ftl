@@ -89,7 +89,7 @@ security-view-privacy-viewpasswords =
     .label = සුරකින ලද මුරපද බලන්න
     .accesskey = w
 security-view-technical =
-    .value = තාක්ෂණික දත්ත
+    .value = තාක්‍ෂණික දත්ත
 help-button =
     .label = උදව්
 
@@ -99,42 +99,38 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
-security-site-data-no = නැත
+security-site-data-no = නැහැ
 
 ##
 
 image-size-unknown = නොදන්නා
 page-info-not-specified =
-    .value = විශේෂිතව දක්වා නැත
-not-set-alternative-text = විශේෂිතව දක්වා නැත
-not-set-date = විශේෂිතව දක්වා නැත
+    .value = දක්වා නැත
+not-set-alternative-text = දක්වා නැත
+not-set-date = දක්වා නැත
 media-img = රූපය
-media-bg-img = පසුතලය
+media-bg-img = පසුබිම
 media-border-img = දාරය
-media-list-img = බුලටය
-media-cursor = කර්සරය
+media-list-img = ගුලිය
+media-cursor = ඊතලය
 media-object = වස්තුව
 media-embed = කාවැද්දූ
-media-link = අයිකනය
-media-input = ප්‍රධානය
+media-link = නිරූපකය
+media-input = ආදානය
 media-video = දෘශ්‍ය
 media-audio = ශ්‍රව්‍ය
 saved-passwords-yes = ඔව්
-saved-passwords-no = නැත
+saved-passwords-no = නැහැ
 no-page-title =
-    .value = නිර්ණාමික පිටුව:
-general-quirks-mode =
-    .value = Quirks ආකාරය
-general-strict-mode =
-    .value = සම්මත අනුකූල ආකාරය
+    .value = නම් නොකළ පිටුව:
 page-info-security-no-owner =
-    .value = මෙම වෙබ් අඩවිය අයිතිය පිළිබඳ තොරතුරු සපයන්නේ නැත..
-media-select-folder = රූපය සුරකීමට බහලුමක් තෝරන්න
+    .value = මෙම අඩවිය අයිතිය පිළිබඳව තොරතුරු සපයන්නේ නැත..
+media-select-folder = රූපය සුරැකීමට බහාලුමක් තෝරන්න
 media-unknown-not-cached =
-    .value = නොදන්නා (කැච් නොවූ)
+    .value = නොදන්නා (නිහිතගත නොවූ)
 permissions-use-default =
-    .label = පෙරනිමිය භාවිත කරන්න
-security-no-visits = නැත
+    .label = පෙරනිමිය භාවිතය
+security-no-visits = නැහැ
 # This string is used to display the type of
 # an image
 # Variables:
@@ -160,19 +156,19 @@ media-dimensions =
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
-media-file-size = { $size } KB
+media-file-size = කි.බ. { $size }
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
 #   $website (string) - The website name
 media-block-image =
-    .label = { $website } වෙතින් රූපය අවහිර කරන්න
+    .label = { $website } න් රූප අවහිර කරන්න
     .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
 #   $website (string) — The url of the website pageInfo is getting info for
 page-info-page =
-    .title = පිටු තොරතුරු - { $website }
+    .title = පිටුවේ තොරතුරු - { $website }
 page-info-frame =
-    .title = රාමු තොරතුරු - { $website }
+    .title = රාමුවේ තොරතුරු - { $website }
