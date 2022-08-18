@@ -47,8 +47,6 @@ firefoxview-mobile-promo-primarybutton = { -brand-product-name } za mobilny rěd
 firefoxview-mobile-confirmation-header = 🎉 Wšykno gótowe!
 firefoxview-mobile-confirmation-description = Něnto móžośo swóje rejtariki { -brand-product-name } ze swójogo tableta abo telefona wobstaraś.
 firefoxview-closed-tabs-title = Njedawno zacynjone
-firefoxview-closed-tabs-collapse-button =
-    .title = Lisćinu njedawno zacynjonych rejtarikow pokazaś abo schowaś
 firefoxview-closed-tabs-description = Wócyńśo boki znowego, kótarež sćo zacynił na toś tom rěźe.
 firefoxview-closed-tabs-placeholder = <strong>Žedne njedawno zacynjone boki</strong><br/>Njebójśo se nigda zacynjeny rejtarik zasej zgubiś. Móžośo jen pśecej how zasej dostaś.
 # refers to the last tab that was used
@@ -65,3 +63,7 @@ firefoxview-change-colorway-button = Barwowu kombinaciju změniś
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Hyšći njejo nic wiźeś</strong><br/>Pśiducy raz, gaž bok w { -brand-product-name } na drugem rěźe wócynjaśo, wobstarajśo jen how na magiski nałog.
+firefoxview-collapse-button-show =
+    .title = Lisćinu pokazaś
+firefoxview-collapse-button-hide =
+    .title = Lisćinu schowaś
