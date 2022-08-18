@@ -16,9 +16,9 @@ menu-application-services =
 menu-application-hide-this =
     .label = { -brand-shorter-name } සඟවන්න
 menu-application-hide-other =
-    .label = අනෙක්වා සඟවන්න
+    .label = අන් දෑ සඟවන්න
 menu-application-show-all =
-    .label = සියල්ල ම පෙන්වන්න
+    .label = සියල්ල පෙන්වන්න
 
 ##
 
@@ -26,7 +26,7 @@ menu-application-show-all =
 menu-quit =
     .label =
         { PLATFORM() ->
-            [windows] පිට‌වෙන්න
+            [windows] පිට‌වන්න
            *[other] ඉවත් වන්න
         }
     .accesskey =
@@ -34,13 +34,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
-    .label = { -brand-shorter-name } පිටවීම
-
+    .label = { -brand-shorter-name } වෙතින් ඉවත් වන්න
 menu-about =
-    .label = { -brand-shorter-name } පිළිබඳ
+    .label = { -brand-shorter-name } පිළිබඳව
     .accesskey = A
 
 ## File Menu
@@ -49,51 +47,45 @@ menu-file =
     .label = ගොනු
     .accesskey = F
 menu-file-new-tab =
-    .label = නව ටැබයක් විවෘත කරන්න
+    .label = නව පටිත්ත
     .accesskey = T
-menu-file-new-container-tab =
-    .label = නව බහලුම් ටැබය
-    .accesskey = C
 menu-file-new-window =
-    .label = නව කවුළුවක්
+    .label = නව කවුළුව
     .accesskey = N
 menu-file-new-private-window =
-    .label = නව පුද්ගලික කවුළුව
+    .label = නව පෞද්ගලික කවුළුව
     .accesskey = W
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
 menu-file-open-location =
-    .label = ස්ථානයක් විවෘත කරන්න...
+    .label = ස්ථානයක් අරින්න...
 menu-file-open-file =
-    .label = ගොනුවක් විවෘත කරන්න...
+    .label = ගොනුවක් අරින්න…
     .accesskey = O
 menu-file-close-window =
     .label = කවුළුව වසන්න
     .accesskey = d
 menu-file-save-page =
-    .label = පිටුව සුරකින්න...
+    .label = …ලෙස පිටුව සුරකින්න
     .accesskey = A
-menu-file-email-link =
-    .label = විද්‍යුත් තැපැල් සබැඳිය
-    .accesskey = E
 menu-file-print-setup =
-    .label = පිටු සැකසුම්:
+    .label = පිටුව පිහිටුම...
     .accesskey = u
 menu-file-print =
     .label = මුද්‍රණය...
     .accesskey = P
 menu-file-go-offline =
-    .label = නොබැඳිව ක්‍රියා කරන්න
+    .label = මාර්ගඅපගතව වැඩ කරන්න
     .accesskey = k
 
 ## Edit Menu
 
 menu-edit =
-    .label = සැකසුම්
+    .label = සංස්කරණය
     .accesskey = E
 menu-edit-find-again =
-    .label = ඊළඟ ගැලපුම සොයන්න
+    .label = යළි සොයන්න
     .accesskey = g
 menu-edit-bidi-switch-text-direction =
     .label = පෙළ දිශාව හරවන්න
@@ -227,15 +219,6 @@ menu-window-bring-all-to-front =
 # NOTE: For Engineers, any additions or changes to Help menu strings should
 # also be reflected in the related strings in appmenu.ftl. Those strings, by
 # convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
 # Example: appmenu-get-help
 #
 # These strings are duplicated to allow for different casing depending on
@@ -247,8 +230,7 @@ menu-help =
 menu-help-report-site-issue =
     .label = අඩවියේ දෝශය වාර්ථා කරන්න…
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = අවිශ්වාසී අඩවිය වාර්ථා කරන්න ...
     .accesskey = D
