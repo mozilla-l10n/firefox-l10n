@@ -433,21 +433,21 @@ navbar-accessibility-indicator =
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
-    .aria-label = ගවේෂක ටැබ්
+    .aria-label = පිරික්සුම් පටිති
 tabs-toolbar-new-tab =
-    .label = නව ටැබයක් විවෘත කරන්න
+    .label = නව පටිත්ත
 tabs-toolbar-list-all-tabs =
-    .label = සියළු ටැබ් ලැයිස්තුගත කරන්න
-    .tooltiptext = සියළු ටැබ් ලැයිස්තුගත කරන්න
+    .label = සියළු පටිති ලේඛනය
+    .tooltiptext = සියළු පටිති ලේඛනය
 
 ## Infobar shown at startup to suggest session-restore
 
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
-data-reporting-notification-message = අපට ඔබේ අත්දැකීම වඩා දියුණු කිරීමට ඉඩදීම සඳහා { -brand-short-name } විසින් ස්වයංක්‍රීයව { -vendor-short-name } වෙත ඇතැම් දත්ත යවන ලදී.
+data-reporting-notification-message = { -brand-short-name } ස්වයංක්‍රීයව සමහර දත්ත { -vendor-short-name } වෙත යවයි, එයින් ඔබගේ අත්දැකීම වැඩිදියුණු කළ හැකිය.
 data-reporting-notification-button =
-    .label = මාගේ බෙදාගැනීම් තෝරන්න
+    .label = බෙදාගන්නා දෑ තෝරන්න
     .accesskey = C
 
 ## Unified extensions (toolbar) button
