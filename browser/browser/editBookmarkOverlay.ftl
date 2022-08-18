@@ -4,21 +4,16 @@
 
 bookmark-overlay-choose =
     .label = තෝරන්න…
-
 bookmark-overlay-folders-expander =
-    .tooltiptext = සියලු පිටු සලකුණු බහලුම් දර්ශනය කරන්න
+    .tooltiptext = සියළු පොත්යොමු බහාලුම් පෙන්වන්න
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = සඟවන්න
-
 bookmark-overlay-new-folder-button =
-    .label = නව බහලුම
+    .label = නව බහාලුම
     .accesskey = o
-
 bookmark-overlay-tags-empty-description =
-    .placeholder = ලේබල කොමාවක් මඟින් වෙන් කරන්න
-
+    .placeholder = අල්ප විරාමයෙන් අනන්‍යන වෙන් කරන්න
 bookmark-overlay-tags-expander =
-    .tooltiptext = සියලු ලේබල දර්ශනය කරන්න
+    .tooltiptext = සියළු අනන්‍යන පෙන්වන්න
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = සඟවන්න
-
