@@ -118,6 +118,12 @@ main-context-menu-bookmark-change-with-shortcut =
     .aria-label = Editează acest marcaj
     .accesskey = m
     .tooltiptext = Editează acest marcaj ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = Editează marcajul…
+    .accesskey = m
+    .tooltiptext = Editează marcajul ({ $shortcut })
 main-context-menu-open-link =
     .label = Deschide linkul
     .accesskey = O
