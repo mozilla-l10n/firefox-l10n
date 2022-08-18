@@ -227,3 +227,15 @@ fx100-upgrade-thanks-header = 百版之约，万分感谢
 fx100-upgrade-thank-you-body = { -brand-short-name } 的第 100 个版本如约而至。感谢<em>您</em> 支持我们建设更好、更健康的互联网。
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = 这是我们的第 100 个版本！一路相伴，感谢有您。{ -brand-short-name } 诚挚邀您共赴下个百版之约。
+
+## MR2022 Upgrade Dialog screens
+## Pin private window screen shown only for users who don't have Firefox private pinned
+
+mr2022-onboarding-skip-step-button-label = 跳过此步骤
+mr2022-upgrade-onboarding-pin-private-window-header = 一键进入隐私浏览模式
+mr2022-upgrade-onboarding-pin-private-window-subtitle = 不保存任何 Cookie 和历史记录，隐私浏览不留痕迹。
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] 将 { -brand-short-name } 隐私浏览窗口固定到我的任务栏
+       *[other] 在您的程序坞中保留 { -brand-short-name } 隐私浏览窗口
+    }
