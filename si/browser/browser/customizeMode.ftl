@@ -3,27 +3,23 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 customize-mode-restore-defaults =
-    .label = පෙරනිමි යළි සකසන්න
-customize-mode-menu-and-toolbars-header = ඔබේ ප්‍රියතම අයිතමයන් මෙවලම් තීරුවට හෝ පිටාර මෙනුවට ඇද දමන්න.
-customize-mode-overflow-list-title = පිටාර මෙනුව
+    .label = පෙරනිමියට ප්‍රත්‍යර්පණය
 customize-mode-uidensity =
     .label = ඝනත්වය
 customize-mode-done =
-    .label = අවසන්
+    .label = අහවරයි
 customize-mode-toolbars =
     .label = මෙවලම් තීරු
 customize-mode-titlebar =
-    .label = මාතෘකා තීරුව
+    .label = සිරැසි තීරුව
 customize-mode-uidensity-menu-touch =
     .label = ස්පර්ශ
-    .accesskey = ඝනත්වය
+    .accesskey = T
     .tooltiptext = ස්පර්ශ
-customize-mode-uidensity-auto-touch-mode-checkbox =
-    .label = ටැබ්ලට් ප්‍රකාරය සඳහා ස්පර්ශ භාවිත කරන්න
-customize-mode-overflow-list-description = ඔබ ආසන්නයේ නමුත් ඔබේ මෙවලම් තීරුවෙන් පිටත අයිතම තබාගැනීමට මෙහි ඇද දමන්න…
+customize-mode-overflow-list-description = ඔබට ආසන්ව නමුත් මෙවලම් තීරුවට පිටතින් අංග තැබීමට මෙහි ඇද දමන්න…
 customize-mode-uidensity-menu-normal =
     .label = සාමාන්‍ය
     .accesskey = N
     .tooltiptext = සාමාන්‍ය
 customize-mode-undo-cmd =
-    .label = අවලංගු
+    .label = පෙරසේ
