@@ -47,8 +47,6 @@ firefoxview-mobile-promo-primarybutton = Szerezze be a mobilos { -brand-product-
 firefoxview-mobile-confirmation-header = 🎉 Kész is van.
 firefoxview-mobile-confirmation-description = Most már átveheti a { -brand-product-name } lapjait a táblagépéről vagy telefonjáról.
 firefoxview-closed-tabs-title = Nemrég bezárt
-firefoxview-closed-tabs-collapse-button =
-    .title = A nemrég bezárt lapok megjelenítése vagy elrejtése
 firefoxview-closed-tabs-description = Nyissa meg újra az ezen az eszközön bezárt oldalakat.
 firefoxview-closed-tabs-placeholder = <strong>Nincsenek nemrég bezárt oldalak</strong><br/>Soha többé ne féljen egy bezárt lap elvesztésétől. Itt bármikor visszakeresheti.
 # refers to the last tab that was used
@@ -65,3 +63,7 @@ firefoxview-change-colorway-button = Színvilág módosítása
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Még nincs semmi látnivaló</strong><br/>Ha legközelebb kinyit egy oldalt a { -brand-product-name }ben vagy egy másik eszközön, akkor itt varázsütésre átveheti.
+firefoxview-collapse-button-show =
+    .title = Lista megjelenítése
+firefoxview-collapse-button-hide =
+    .title = Lista elrejtése
