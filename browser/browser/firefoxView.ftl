@@ -47,8 +47,6 @@ firefoxview-mobile-promo-primarybutton = Tải { -brand-product-name } dành cho
 firefoxview-mobile-confirmation-header = 🎉 Tất cả đã xong!
 firefoxview-mobile-confirmation-description = Giờ đây, bạn có thể nhận các thẻ { -brand-product-name } từ máy tính bảng hoặc điện thoại của mình.
 firefoxview-closed-tabs-title = Đã đóng gần đây
-firefoxview-closed-tabs-collapse-button =
-    .title = Hiển thị hoặc ẩn danh sách các thẻ đã đóng gần đây
 firefoxview-closed-tabs-description = Mở lại các trang bạn đã đóng trên thiết bị này.
 firefoxview-closed-tabs-placeholder = <strong>Không có trang nào đã đóng gần đây</strong><br/>Không bao giờ sợ mất một thẻ đã đóng nữa. Bạn luôn có thể thấy nó ở đây.
 # refers to the last tab that was used
@@ -65,3 +63,7 @@ firefoxview-change-colorway-button = Thay đổi đường màu
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Chưa có gì để xem</strong><br/>Lần tới khi bạn mở một trang trong { -brand-product-name } trên thiết bị khác, hãy lấy nó ở đây như một phép thuật.
+firefoxview-collapse-button-show =
+    .title = Hiển thị danh sách
+firefoxview-collapse-button-hide =
+    .title = Ẩn danh sách

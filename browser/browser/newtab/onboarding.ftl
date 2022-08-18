@@ -243,3 +243,15 @@ fx100-upgrade-thanks-header = 100 lần cảm ơn bạn
 fx100-upgrade-thank-you-body = Đây là bản phát hành thứ 100 của chúng tôi về { -brand-short-name }. Cảm ơn <em>bạn</em> đã giúp chúng tôi xây dựng một Internet tốt hơn, lành mạnh hơn.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Đây là bản phát hành thứ 100 của chúng tôi! Cảm ơn vì đã trở thành một phần của cộng đồng của chúng tôi. Giữ { -brand-short-name } một cú nhấp chuột cho lần tiếp theo thứ 100.
+
+## MR2022 Upgrade Dialog screens
+## Pin private window screen shown only for users who don't have Firefox private pinned
+
+mr2022-onboarding-skip-step-button-label = Bỏ qua bước này
+mr2022-upgrade-onboarding-pin-private-window-header = Tự do duyệt web riêng tư trong một cú nhấp chuột
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Không có cookie hoặc lịch sử đã lưu, ngay từ màn hình của bạn. Duyệt như không có ai đang xem.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Giữ { -brand-short-name } duyệt web ở chế độ riêng tư trong thanh Dock
+       *[other] Ghim { -brand-short-name } duyệt web ở chế độ riêng tư vào thanh tác vụ
+    }
