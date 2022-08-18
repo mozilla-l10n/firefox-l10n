@@ -44,4 +44,4 @@ third-party-button-open =
 third-party-button-expand =
     .title = 자세한 정보 표시
 third-party-button-collapse =
-    .title = 자세한 정보 축소
+    .title = 자세한 정보 접기
