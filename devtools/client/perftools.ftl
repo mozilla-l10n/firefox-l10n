@@ -14,6 +14,7 @@ perftools-intro-title = Nastavitve profilerja
 perftools-heading-settings = Popolne nastavitve
 perftools-heading-buffer = Nastavitve medpomnilnika
 perftools-heading-features = Zmogljivosti
+perftools-heading-features-default = Zmogljivosti (priporočeno privzeto vklopljeno)
 perftools-heading-features-disabled = Onemogočene zmogljivosti
 perftools-heading-features-experimental = Poskusno
 perftools-heading-threads = Niti
@@ -45,10 +46,12 @@ perftools-status-restart-required = Za vključitev te možnosti se mora brskalni
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
 perftools-request-to-stop-profiler = Ustavljanje snemanja
+perftools-request-to-get-profile-and-stop-profiler = Zajemanje profila
 
 ##
 
 perftools-button-start-recording = Začni snemati
+perftools-button-capture-recording = Zajemi posnetek
 perftools-button-cancel-recording = Prekliči snemanje
 perftools-button-save-settings = Shrani nastavitve in se vrni
 perftools-button-restart = Znova zaženi
@@ -58,8 +61,12 @@ perftools-button-edit-settings = Uredi nastavitve …
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Glavni procesi za nadrejeni proces in za procese vsebine
 perftools-thread-render-backend =
     .title = Nit WebRender RenderBackend
+perftools-thread-style-thread =
+    .title = Izračunavanje sloga je razdeljeno med več niti
 perftools-thread-img-decoder =
     .title = Niti za dekodiranje slik
 perftools-thread-dns-resolver =
@@ -73,6 +80,7 @@ perftools-thread-jvm-glean =
 
 ##
 
+perftools-record-all-registered-threads = Preglasi zgornje izbire in spremljaj vse registrirane niti
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.

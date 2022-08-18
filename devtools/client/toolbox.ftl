@@ -30,7 +30,10 @@ toolbox-meatball-menu-noautohide-label = Onemogoči samodejno skrivanje pojavnih
 
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
+toolbox-mode-everything-label = Večprocesno
 toolbox-mode-everything-sub-label = (počasnejše)
+toolbox-mode-everything-container =
+    .title = Razhroščuj vse v vseh procesih
 toolbox-mode-parent-process-label = Samo nadrejeni proces
 toolbox-mode-parent-process-sub-label = (hitro)
 toolbox-mode-parent-process-container =
