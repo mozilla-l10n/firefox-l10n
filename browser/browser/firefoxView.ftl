@@ -47,8 +47,6 @@ firefoxview-mobile-promo-primarybutton = Cael { -brand-product-name } ar gyfer s
 firefoxview-mobile-confirmation-header = Barod i fynd!
 firefoxview-mobile-confirmation-description = Nawr gallwch chi gydio ar eich tabiau { -brand-product-name } o'ch tabled neu ffôn.
 firefoxview-closed-tabs-title = Caewyd yn ddiweddar
-firefoxview-closed-tabs-collapse-button =
-    .title = Dangos neu guddio rhestr tabiau a gaewyd yn ddiweddar
 firefoxview-closed-tabs-description = Ailagor tudalennau rydych chi wedi'u cau ar y ddyfais hon.
 firefoxview-closed-tabs-placeholder = <strong>Dim tudalennau sydd wedi cau yn ddiweddar</strong><br/>Peidiwch byth ag ofni colli tab wedi ei gau eto. Gallwch chi bob amser ei adfer yma.
 # refers to the last tab that was used
@@ -65,3 +63,7 @@ firefoxview-change-colorway-button = Newid y llwybr lliw
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Dim byd yma eto</strong><br/>Y tro nesaf y byddwch yn agor tudalen yn { -brand-product-name } ar ddyfais arall, cydiwch arno'n hudol.
+firefoxview-collapse-button-show =
+    .title = Dangos rhestr
+firefoxview-collapse-button-hide =
+    .title = Cuddio rhestr

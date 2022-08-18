@@ -244,3 +244,15 @@ fx100-upgrade-thanks-header = 100 Mil Diolch
 fx100-upgrade-thank-you-body = Dyma ein 100fed fersiwn o { -brand-short-name }. Diolch i <em>chi</em> am ein helpu i adeiladu rhyngrwyd gwell ac iachach.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Dyma ein 100fed fersiwn! Diolch am fod yn rhan o'n cymuned. Cadwch { -brand-short-name } wrth law am y 100 nesaf.
+
+## MR2022 Upgrade Dialog screens
+## Pin private window screen shown only for users who don't have Firefox private pinned
+
+mr2022-onboarding-skip-step-button-label = Hepgor y cam hwn
+mr2022-upgrade-onboarding-pin-private-window-header = Cael rhyddid pori preifat gydag un clic
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Dim cwcis na hanes wedi'u cadw, o'ch bwrdd gwaith. Porwch fel nad oes neb yn gwylio.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Cadw bori preifat { -brand-short-name } yn y Doc
+       *[other] Pinio pori preifat { -brand-short-name } i'r bar tasgau
+    }
