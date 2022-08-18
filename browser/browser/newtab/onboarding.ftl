@@ -251,3 +251,8 @@ fx100-upgrade-thanks-keep-body = Це наш 100-й випуск! Дякуємо
 mr2022-onboarding-skip-step-button-label = Пропустити цей крок
 mr2022-upgrade-onboarding-pin-private-window-header = Отримайте свободу приватного перегляду одним натиском
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Жодних збережених кук чи історії на комп'ютері. Переглядайте без думки, що за вами хтось спостерігає.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Закріпити приватне вікно { -brand-short-name } у док
+       *[other] Закріпити приватне вікно { -brand-short-name } на панелі завдань
+    }
