@@ -9,12 +9,12 @@
 # refactoring them in some way, the script will need updating.
 
 psmerr-ssl-disabled = SSL කෙටුම්පත අබල නිසා ආරක්‍ෂිතව සම්බන්ධ වීමට නොහැකිය.
-psmerr-ssl2-disabled = SSL ප්‍රොටොකොලයේ පැරණි, අනාරක්‍ෂිත වෙළුමක් භාවිත කරන නිසා ආරක්‍ෂිතව සම්බන්ධ විය නොහැක.
+psmerr-ssl2-disabled = අඩවිය මගින් SSL කෙටුම්පතෙහි පරණ, අනාරක්‍ෂිත අනුවාදයක් භාවිතා කරන නිසා ආරක්‍ෂිතව සම්බන්ධ වීමට නොහැකිය.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
-    You have received an invalid certificate.  Please contact the server administrator or email correspondent and give them the following information:
+    ඔබට වලංගු නොවන සහතිකයක් ලැබී ඇත. සේවාදායක පරිපාලක හෝ ලියුම්කරු අමතා ඔවුන්ට පහත තොරතුරු සපයන්න:
     
-    Your certificate contains the same serial number as another certificate issued by the certificate authority.  Please get a new certificate containing a unique serial number.
+    සහතික අධිකාරිය විසින් නිකුත් කරන ලද තවත් සහතිකයකට සමාන අනුක්‍රමික අංකයක් ඔබගේ සහතිකයේ අඩංගු වේ. අනන්‍ය අනුක්‍රමික අංකයක් අඩංගු නව සහතිකයක් ගන්න.
 ssl-error-us-only-server = ආරක්ෂිතව සන්නිවේදනය කළ නොහැක. ලබන්නා වඩා ඉහළ-මට්ටමක ගුප්තකේනයක් ඉල්ලා සිටින අතර එයට සහය නොදක්වයි.
 ssl-error-no-cypher-overlap = අග්‍රය සමඟ ආරක්ෂිතව සන්නොවේදනය කළ නොහැක: පොදු සංකේතාංකන ඇල්ගොරිතම(ඇල්ගොරිතමයන්) නැත.
 ssl-error-no-certificate = සහතික කිරීම සඳහා අවශ්‍ය සහතිකය හෝ යතුර සොයා ගැනීමට නොහැක.
