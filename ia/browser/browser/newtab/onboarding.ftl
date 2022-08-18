@@ -250,3 +250,8 @@ fx100-upgrade-thanks-keep-body = Isto es nostre 100me version! Gratias pro parti
 mr2022-onboarding-skip-step-button-label = Salta iste passo
 mr2022-upgrade-onboarding-pin-private-window-header = Obtene le libertate del navigation private in un clic
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Nulle cookies o chronologia salvate, justo ad tu desktop. Naviga como si nemo te spia.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Retene le navigation private de { -brand-short-name } in Dock
+       *[other] Appuncta le navigation private de { -brand-short-name } al barra del activitates
+    }
