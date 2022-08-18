@@ -23,3 +23,4 @@ activist-colorway-description = Eheja arapy iporãve ejuhuhaguégui ha eguerovia
 dreamer-colorway-name = Kerayvotyhára
 dreamer-colorway-description = Eroviápa po’a ouporãha ipy’aguasúvape ha nemoakãraku nde py’aguasu hag̃ua.
 innovator-colorway-name = Mbopyahuhára
+innovator-colorway-description = Ohecha pa’ũ opaite hendápe ha heko mbarete opavave tekove jereguápe.
