@@ -83,40 +83,39 @@ newtab-menu-bookmark = පොත්යොමුව
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = බාගැනීමේ සබැඳියේ පිටපතක්
-newtab-menu-go-to-download-page = බාගැනිම් පිටුවට යන්න
+newtab-menu-go-to-download-page = බාගැනීමේ පිටුවට යන්න
 newtab-menu-remove-download = ඉතිහාසයෙන් ඉවත් කරන්න
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
-newtab-menu-open-file = ගොනුව විවෘත කරන්න
+newtab-menu-open-file = ගොනුව අරින්න
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
-newtab-label-visited = ප්‍රවේශිත
-newtab-label-bookmarked = පිටු සලකුණු තැබූ
-newtab-label-recommended = නැඹුරුතා
-newtab-label-saved = { -pocket-brand-name } හි සුරකින ලදී
-newtab-label-download = බාගැනිණ
+newtab-label-visited = ගොඩවැදුණු
+newtab-label-bookmarked = පොත්යොමුවකි
+newtab-label-saved = { -pocket-brand-name } හි සුරැකිණි
+newtab-label-download = බාගත විය
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-manage-webext = දිගුව පාලනය කරන්න
-newtab-section-menu-add-search-engine = සෙවුම් යන්ත්‍රයක් එක් කරන්න
+newtab-section-menu-manage-webext = දිගුව කළමනාකරණය
+newtab-section-menu-add-search-engine = සෙවුම් යන්ත්‍රයක් යොදන්න
 newtab-section-menu-move-up = ඉහළට ගෙනයන්න
 newtab-section-menu-move-down = පහළට ගෙනයන්න
-newtab-section-menu-privacy-notice = පෞද්ගලිකත්ව සටහන
+newtab-section-menu-privacy-notice = පෞද්ගලිකත්ව දැන්වීම
 
 ## Section aria-labels
 
 
 ## Section Headers.
 
-newtab-section-header-topsites = ප්‍රමුඛ අඩවි
+newtab-section-header-topsites = ප්‍රචලිත අඩවි
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } විසින් නිර්දේශිතයි
@@ -141,7 +140,7 @@ newtab-pocket-more-recommendations = තවත් නිර්දේශ
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = අහෝ, මෙම අන්තර්ගතය පූර්ණයෙදී යම් වරදක් සිදුවිය.
-newtab-error-fallback-refresh-link = යළි උත්සාහ කිරීමට පිටුව යාවත්කාලීන කරන්න.
+newtab-error-fallback-refresh-link = පිටුව නැවුම් කර බලන්න.
 
 ## Customization Menu
 
