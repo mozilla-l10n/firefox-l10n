@@ -116,7 +116,7 @@ main-context-menu-open-link-new-private-window =
     .label = නව පෞද්. කවුළුවකින් සබැඳිය අරින්න
     .accesskey = P
 main-context-menu-save-link =
-    .label = …ලෙස සබැඳිය සුරකින්න
+    .label = සබැඳිය සුරකින්න
     .accesskey = k
 
 ## The access keys for "Copy Link" and "Copy Email Address"
@@ -124,7 +124,7 @@ main-context-menu-save-link =
 ## are mutually exclusive.
 
 main-context-menu-copy-email =
-    .label = විද්‍යුත් තැපැල් ලිපිනය පිටපත් කරන්න
+    .label = වි-තැපෑලෙහි පිටපතක්
     .accesskey = E
 
 ## Media (video/audio) controls
@@ -143,20 +143,20 @@ main-context-menu-media-pause =
 ##
 
 main-context-menu-media-mute =
-    .label = නිහඬ කරන්න
+    .label = නිහඬ
     .accesskey = M
 main-context-menu-media-unmute =
-    .label = නිහඬ නොකරන්න
+    .label = නොනිහඬ
     .accesskey = m
 main-context-menu-media-loop =
-    .label = ලූපය
+    .label = පුඩුලන්න
     .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
 main-context-menu-media-show-controls =
-    .label = පාලන දර්ශනය
+    .label = පාලන පෙන්වන්න
     .accesskey = C
 main-context-menu-media-hide-controls =
     .label = පාලන සඟවන්න
@@ -165,40 +165,40 @@ main-context-menu-media-hide-controls =
 ##
 
 main-context-menu-media-video-fullscreen =
-    .label = සමුපූර්ණ තිරය
+    .label = පූර්ණ තිරය
     .accesskey = F
 main-context-menu-media-video-leave-fullscreen =
     .label = පූර්ණ තිරයෙන් පිටවන්න
     .accesskey = u
 main-context-menu-image-reload =
-    .label = පිතුර යළි පූරණය
+    .label = රූපය යළි පූරණය
     .accesskey = R
 main-context-menu-image-copy =
-    .label = රූපය පිටපත් කරන්න
+    .label = රූපයේ පිටපතක්
     .accesskey = y
 main-context-menu-image-save-as =
-    .label = රූපය සුරකින අයුර...
+    .label = රූපය සුරකින්න
     .accesskey = v
 main-context-menu-image-email =
-    .label = රූපය ඊමේල් කරන්න...
+    .label = රූපය තැපෑලට...
     .accesskey = g
 main-context-menu-image-info =
-    .label = රූපයේ තොරතුරු පෙන්වන්න
+    .label = රූපයෙහි තොරතුරු
     .accesskey = f
 main-context-menu-image-desc =
     .label = විස්තරය පෙන්වන්න
     .accesskey = D
 main-context-menu-video-save-as =
-    .label = දෘශ්‍ය සුරකින අයුර…
+    .label = දෘශ්‍යකය සුරකින්න
     .accesskey = v
 main-context-menu-audio-save-as =
-    .label = ශ්‍රව්‍ය සුරකින අයුර…
+    .label = හඬපටය සුරකින්න
     .accesskey = v
 main-context-menu-video-email =
-    .label = වීඩියෝ ඊමේල් කරන්න...
+    .label = දෘශ්‍යකය තැපෑලට...
     .accesskey = a
 main-context-menu-audio-email =
-    .label = ශ්‍රව්‍ය තැපැල්...
+    .label = හඬපටය තැපෑලට...
     .accesskey = a
 main-context-menu-plugin-play =
     .label = මෙම ප්ලගිනය සකරිය කරන්න
