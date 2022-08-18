@@ -54,6 +54,10 @@ firefoxview-tabpickup-sync-error-header = Si è verificato un problema con la si
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } non può raggiungere il servizio per la sincronizzazione in questo momento. Riprova tra qualche istante.
 firefoxview-tabpickup-sync-error-primarybutton = Riprova
 
+firefoxview-tabpickup-sync-disconnected-header = Attiva la sincronizzazione per continuare
+firefoxview-tabpickup-sync-disconnected-description = Per accedere alle tue schede è necessario attivare la sincronizzazione in { -brand-short-name }.
+firefoxview-tabpickup-sync-disconnected-primarybutton = Attiva la sincronizzazione nelle impostazioni
+
 firefoxview-tabpickup-syncing = Stiamo sincronizzando le tue schede, ci vorrà solo un attimo.
 
 firefoxview-mobile-promo-header = Accedi alle schede aperte sul tuo telefono o tablet
