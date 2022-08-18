@@ -67,7 +67,7 @@ newtab-menu-unpin = ගළවන්න
 newtab-menu-delete-history = ඉතිහාසයෙන් මකන්න
 newtab-menu-save-to-pocket = { -pocket-brand-name } හි සුරකින්න
 newtab-menu-delete-pocket = { -pocket-brand-name } වෙතින් මකන්න
-newtab-menu-archive-pocket = { -pocket-brand-name } හි සංරක්ෂණ කරන්න
+newtab-menu-archive-pocket = { -pocket-brand-name } හි සංරක්‍ෂණය
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -75,14 +75,14 @@ newtab-menu-archive-pocket = { -pocket-brand-name } හි සංරක්ෂණ
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".
-newtab-menu-remove-bookmark = පිටු සලකුණ ඉවත් කරන්න
+newtab-menu-remove-bookmark = පොත්යොමුව ඉවත් කරන්න
 # Bookmark is a verb here.
-newtab-menu-bookmark = පිටු සලකුණ
+newtab-menu-bookmark = පොත්යොමුව
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
-newtab-menu-copy-download-link = බාගැනිමේ සබැඳිය පිටපත් කරන්න
+newtab-menu-copy-download-link = බාගැනීමේ සබැඳියේ පිටපතක්
 newtab-menu-go-to-download-page = බාගැනිම් පිටුවට යන්න
 newtab-menu-remove-download = ඉතිහාසයෙන් ඉවත් කරන්න
 
