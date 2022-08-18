@@ -10,14 +10,14 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
-policy-AppUpdateURL = රුචි යෙදුම් යාවත්කාලීන URL සකසන්න
+policy-AppUpdateURL = අභිරුචි යෙදුම් යාවත්කාල ඒ.ස.නි. සකසන්න.
 # Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = ෆයර්ෆෝක්ස් තිරසේයා විශේෂාංගය අක්‍රිය කරන්න.
+policy-DisableFirefoxScreenshots = ෆයර්ෆෝක්ස් තිරසේයා විශේෂාංගය අබල කරන්න.
 policy-DisableForgetButton = අමතක කිරීමේ බොත්තමට ප්‍රවේශය වලක්වන්න
-policy-DisablePrivateBrowsing = පුද්ගලික ගවේශනය අක්‍රීය කරන්න.
-policy-DisplayMenuBar = මෙනු තීරුව පෙරනිමියෙන් පෙන්වන්න
-policy-DNSOverHTTPS = HTTPS හරහා DNS සැකසුම් කරන්න.
-policy-DontCheckDefaultBrowser = ආරම්භයේදී පෙරනිමි ගවේශකය සඳහා සෙවීම අක්‍රීය කරන්න.
+policy-DisablePrivateBrowsing = පෞද්. පිරික්සීම අබල කරන්න.
+policy-DisplayMenuBar = වට්ටෝරු තීරුව පෙරනිමි ලෙස පෙන්වන්න
+policy-DNSOverHTTPS = HTTPS මගින් ව.නා.ප. වින්‍යාසය.
+policy-DontCheckDefaultBrowser = ආරම්භයේදී පෙරනිමි අතිරික්සුව පරීක්‍ෂා නොකරන්න.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
