@@ -107,19 +107,16 @@ main-context-menu-open-link =
     .label = සබැඳිය අරින්න
     .accesskey = O
 main-context-menu-open-link-new-tab =
-    .label = සබැඳුම අලුත් ටැබයක විවෘත කරන්න
+    .label = නව පටිත්තකින් සබැඳිය අරින්න
     .accesskey = T
-main-context-menu-open-link-container-tab =
-    .label = සබැඳුම නව බහාලුම් ටැබයක විවෘත කරන්න
-    .accesskey = C
 main-context-menu-open-link-new-window =
-    .label = අළුත් කවුළුවක විවෘත කරන්න
+    .label = නව කවුළුවකින් සබැඳිය අරින්න
     .accesskey = W
 main-context-menu-open-link-new-private-window =
-    .label = නව පුද්ගලික කවුළුවක විවෘත කරන්න
+    .label = නව පෞද්. කවුළුවකින් සබැඳිය අරින්න
     .accesskey = P
 main-context-menu-save-link =
-    .label = සබැඳුම සුරකින අයුර...
+    .label = …ලෙස සබැඳිය සුරකින්න
     .accesskey = k
 
 ## The access keys for "Copy Link" and "Copy Email Address"
