@@ -41,22 +41,22 @@ import-from-firefox =
 import-from-360se =
     .label = 360 ආරක්‍ෂිත අතිරික්සුව
     .accesskey = 3
-no-migration-sources = පිටු සලකුණු, අතීතය හෝ රහස්පද දත්ත අඩංගු වන කිසිදු වැඩසටහනක් සොයාගත නොහැකි විය.
-import-source-page-title = සැකසුම් සහ දත්ත ආයාත කිරීම
-import-items-page-title = ආයාත කරන අයිතමයන්
-import-items-description = ආයාත කරන්නේ කුමක් දැයි තෝරන්න:
-import-migrating-page-title = ආයාත කරමින්...
-import-migrating-description = පහත අයිතමයන් ආයාත කරමින් සිටියි...
+no-migration-sources = පොත්යොමු, ඉතිහාසය හෝ මුරපද දත්ත අඩංගු කිසිදු වැඩසටහනක් හමු නොවිණි.
+import-source-page-title = සැකසුම් හා දත්ත ආයාත කිරීම
+import-items-page-title = ආයාත කරන අංග
+import-items-description = ආයාත කරන දෑ තෝරන්න:
+import-migrating-page-title = ආයාත වෙමින්...
+import-migrating-description = පහත අංග ආයාත වෙමින් තිබේ...
 import-select-profile-page-title = පැතිකඩ තෝරන්න
-import-select-profile-description = පහත සඳහන් පැතිකඩ ආයාත කිරිම සඳහා භාවිතයට ඇත:
+import-select-profile-description = පහත සඳහන් පැතිකඩ ආයාත කිරීම සඳහා තිබේ:
 import-done-page-title = ආයාත කිරීම සම්පූර්ණයි
-import-done-description = පහත අයිතමයන් සාර්ථකව ආයාත කරන ලදී:
-import-close-source-browser = ඉදිරියට ක්‍රියාත්මක වීමට පෙර තෝරාගත් ගවේශකය වසා ඇති බව තහවුරු කරගන්න.
-source-name-ie = Internet Explorer
-source-name-edge = Microsoft Edge
-source-name-chrome = ගූග්ල් ක්‍රෝම් (Google Chrome)
-imported-safari-reading-list = කියවීම් ලැයිස්තුව (Safari වෙතින්)
-imported-edge-reading-list = කියවීම් ලැයිස්තුව (Edge වෙතින්)
+import-done-description = පහත අංග සාර්ථකව ආයාත කරන ලදි:
+import-close-source-browser = ඉදිරියට යාමට පෙර තේරූ අතිරික්සුව වසා තිබෙන බව තහවුරු කර ගන්න.
+source-name-ie = ඉන්ටර්නෙට් එක්ස්ප්ලෝරර්
+source-name-edge = මයික්‍රොසොෆ්ට් එඩ්ගේ
+source-name-chrome = ගූගල් ක්‍රෝම්
+imported-safari-reading-list = කියවීමේ ලේඛනය (සෆාරි වෙතින්)
+imported-edge-reading-list = කියවීමේ ලේඛනය (එඩ්ගේ වෙතින්)
 
 ## Browser data types
 ## All of these strings get a $browser variable passed in.
@@ -73,6 +73,6 @@ imported-edge-reading-list = කියවීම් ලැයිස්තුව (
 ## normalized to just "edge" and "chrome" for these strings.
 
 browser-data-session-checkbox =
-    .label = කවුළු සහ ටැබ්
+    .label = කවුළු හා පටිති
 browser-data-session-label =
-    .value = කවුළු සහ ටැබ්
+    .value = කවුළු හා පටිති
