@@ -251,3 +251,8 @@ fx100-upgrade-thanks-keep-body = Je naša 100. wersija! Dźakujemy so wam, zo s�
 mr2022-onboarding-skip-step-button-label = Tutón krok přeskočić
 mr2022-upgrade-onboarding-pin-private-window-header = Wobstarajće sej swobodu priwatneho modusa z jednym kliknjenjom
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Žane składowane placki abo žana historiju, direktnje z wašeho desktopa. Přehladujće kaž njeby was nichtó wobkedźbował.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Priwatny modus w { -brand-short-name } doku wobchować
+       *[other] Priwatny modus { -brand-short-name } k nadawkowej lajsće připjeć
+    }
