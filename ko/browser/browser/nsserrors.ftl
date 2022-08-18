@@ -12,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = { $hostname }에 연결하는 동안 오류가 발생했습니다. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = 오류 코드: { $error }
-
 psmerr-ssl-disabled = SSL 프로토콜을 사용할 수 없어서 보안 연결을 할 수 없습니다.
 psmerr-ssl2-disabled = 보안에 취약한 오래된 SSL 프로토콜을 사용하고 있어서 보안 연결을 할 수 없습니다.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     유효하지 않은 인증서를 받았습니다. 서버 관리자등에게 연락해서 다음 정보를 제공하세요:
     
     인증서에 인증 기관에서 발급한 다른 인증서와 같은 일련 번호가 있습니다. 고유한 일련 번호를 가진 새 인증서를 받으세요.
-
 ssl-error-export-only-server = 안전하게 통신을 할 수 없습니다. 상대방이 높은 등급의 암호화를 지원하지 않습니다.
 ssl-error-us-only-server = 안전하게 통신을 할 수 없습니다. 상대방이 지원하지 않는 높은 등급의 암호화를 요청합니다.
 ssl-error-no-cypher-overlap = 상대방과 안전하게 통신을 할 수 없음: 일반 암호화 알고리듬이 없습니다.
@@ -89,7 +85,7 @@ ssl-error-handshake-failure-alert = SSL 상대 측에서 받아들일 수 있는
 ssl-error-illegal-parameter-alert = SSL 상대 측에서 받아들일 수 없는 콘텐츠에 대한 교환 메시지를 거절했습니다.
 ssl-error-unsupported-cert-alert = SSL 상대 측에서 받아간 인증서 유형을 지원하지 않습니다.
 ssl-error-certificate-unknown-alert = SSL 상대 측에서 받아간 인증서에 대해 몇 가지 지정되지 않은 문제를 가지고 있습니다.
-ssl-error-generate-random-failure = SSL이 난수 생성기 고장에 직면했습니다.
+ssl-error-generate-random-failure = SSL에서 난수 생성기 오류가 발생했습니다.
 ssl-error-sign-hashes-failure = 본인의 인증서를 검증하는데 필요한 디지털 서명 데이터를 사용할 수 없습니다.
 ssl-error-extract-public-key-failure = SSL은 상대방 인증서에서 공개키를 꺼낼 수 없었습니다.
 ssl-error-server-key-exchange-failure = SSL 서버 키 교환을 위한 교환 도중에 지정되지 않은 문제점이 발생했습니다.
@@ -124,7 +120,7 @@ ssl-error-decrypt-error-alert = 상대방이 서명 검증 또는 키 교환 실
 ssl-error-export-restriction-alert = 상대방이 수출 규약에 따르지 않는 협상을 보고했습니다.
 ssl-error-protocol-version-alert = 상대방이 호환되지 않거나 지원되지 않는 프로토콜 버전을 보고했습니다.
 ssl-error-insufficient-security-alert = 서버가 클라이언트가 지원하는 암호기보다 더 보안성이 높은 암호기를 요구합니다.
-ssl-error-internal-error-alert = 상대방이 내부 오류에 직면했다고 보고합니다.
+ssl-error-internal-error-alert = 피어에서 내부 오류가 발생했다고 보고합니다.
 ssl-error-user-canceled-alert = 상대방 사용자가 교환를 취소했습니다.
 ssl-error-no-renegotiation-alert = 상대방이 SSL 보안 매개변수의 재협상을 허용하지 않습니다.
 ssl-error-server-cache-not-configured = SSL 서버 캐시가 설정 되지않아서 이 소켓에 대해서만은 사용하고 있습니다.
@@ -166,7 +162,7 @@ sec-error-io = 보안 권한 부여 중에 I/O 오류가 발생했습니다.
 sec-error-library-failure = 보안 라이브러리 고장입니다.
 sec-error-bad-data = 보안 라이브러리: 손상된 데이터를 받았습니다.
 sec-error-output-len = 보안 라이브러리: 출력 길이 오류입니다.
-sec-error-input-len = 보안 라이브러리가 입력 길이 오류에 직면했습니다.
+sec-error-input-len = 보안 라이브러리에 입력 길이 오류가 발생했습니다.
 sec-error-invalid-args = 보안 라이브러리: 유효하지 않은 인수입니다.
 sec-error-invalid-algorithm = 보안 라이브러리: 유효하지 않은 알고리듬입니다.
 sec-error-invalid-ava = 보안 라이브러리: 유효하지 않은 AVA입니다.
@@ -283,7 +279,7 @@ sec-error-cert-bad-access-location = 인증서 상태 서버의 위치가 유효
 sec-error-ocsp-unknown-response-type = OCSP 응답이 완전히 복호화되지 않았습니다. 알 수 없는 유형입니다.
 sec-error-ocsp-bad-http-response = OCSP 서버가 처리할 수 없는/유효하지 않은 HTTP 데이터를 반환했습니다.
 sec-error-ocsp-malformed-request = OCSP 서버가 훼손되거나 적절하지 않게 형식화된 요청을 발견했습니다.
-sec-error-ocsp-server-error = OCSP 서버가 내부 오류에 직면했습니다.
+sec-error-ocsp-server-error = OCSP 서버에 내부 오류가 발생했습니다.
 sec-error-ocsp-try-server-later = OCSP 서버가 나중에 다시 시도하기를 권합니다.
 sec-error-ocsp-request-needs-sig = OCSP 서버가 이 요청에 대한 서명을 요구합니다.
 sec-error-ocsp-unauthorized-request = OCSP 서버가 이 요청을 인증되지 않은 것으로 간주하고 거부했습니다.
