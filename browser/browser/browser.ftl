@@ -194,19 +194,18 @@ identity-description-weak-cipher-risk = අන් අයට ඔබගේ තො�
 identity-description-active-blocked = { -brand-short-name } මෙම පිටුවේ ආරක්‍ෂිත නොවන කොටස් අවහිර කර ඇත. <label data-l10n-name="link">තව දැනගන්න</label>
 identity-description-passive-loaded = ඔබගේ සම්බන්ධතාවය පෞද්ගලික නොවන නිසා ඔබ අඩවියට යොමු කරන තොරතුරු අන් අය බලනු ඇත.
 identity-description-passive-loaded-insecure = මෙම අඩවියේ ආරක්‍ෂිත නොවන අන්තර්ගත අඩංගු වේ (රූප වැනි). <label data-l10n-name="link">තව දැනගන්න</label>
-identity-description-passive-loaded-mixed = { -brand-short-name } සමහර කොටස් අවහිර කළද තවමත් ආරක්ෂිත නොවන (පිංතූර වැනි) කොටස් අඩංගු විය හැකිය. <label data-l10n-name="link">තවත් දැනගන්න</label>
-identity-description-active-loaded = මෙම පිටුවේ ආරක්ෂිත නොවන (scripts වැනි) කොටස් අඩංගුය එසේම ඔබගේ සම්බන්ධතාවය පෞද්ගලික නොවේ.
-identity-description-active-loaded-insecure = මෙම අඩවියට ඔබ ලබාදෙන තොරතුරු වෙනත් අයෙකු බැලීමට ඉඩ ඇත (රහස්පද, පණිවුඩ, ණය කාඩ්පත් ආදී..).
+identity-description-passive-loaded-mixed = { -brand-short-name } යම් කොටස් අවහිර කළ ද තවමත් ආරක්‍ෂිත නොවන කොටස් අඩංගු විය හැකිය (රූප වැනි) . <label data-l10n-name="link">තව දැනගන්න</label>
+identity-description-active-loaded-insecure = මෙම අඩවියට ඔබ යොමු කරන තොරතුරු අන් අය බලනු ඇත (මුරපද, පණිවිඩ, ණයපත් ආදිය).
 identity-learn-more =
-    .value = තවත් දැනගන්න
+    .value = තව දැනගන්න
 identity-disable-mixed-content-blocking =
-    .label = දැනට ආරක්සහාව අකරිය කරන්න
+    .label = දැනට රැකවරණය අබල කරන්න
     .accesskey = D
 identity-enable-mixed-content-blocking =
-    .label = ආරක්ෂණය සක්‍රීය කරන්න
+    .label = රැකවරණය සබල කරන්න
     .accesskey = E
 identity-more-info-link-text =
-    .label = බොහෝ තොරතුරු
+    .label = තවත් තොරතුරු
 
 ## Window controls
 
@@ -228,7 +227,7 @@ browser-window-close-button =
 
 ## WebRTC Pop-up notifications
 
-popup-all-windows-shared = ඔබේ තිරයේ දිස්වෙන සියළු කවුළු බෙදාගැනෙනු ඇත.
+popup-all-windows-shared = ඔබගේ තිරයේ දිස්වන සියළුම කවුළු බෙදා ගනු ඇත.
 
 ## WebRTC window or screen share tab switch warning
 
@@ -241,20 +240,20 @@ popup-all-windows-shared = ඔබේ තිරයේ දිස්වෙන ස�
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
-    .placeholder = ලිපිනය සොයන්න හෝ ඇතුලත් කරන්න
+    .placeholder = සොයන්න හෝ ලිපිනය යොදන්න
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = { $name } සමග සොයන්න හෝ ලිපිනය ඇතුලත් කරන්න
+    .placeholder = { $name } සමග සොයන්න හෝ ලිපිනය යොදන්න
 urlbar-switch-to-tab =
-    .value = ටැබයට මාරුවෙන්න:
+    .value = පටිත්තට මාරුවන්න:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = දිගුව:
 urlbar-go-button =
-    .tooltiptext = පිහිටුම් තීරුවේ තුළ ඇති ලිපිනට යන්න
+    .tooltiptext = ස්ථාන තීරුවේ ලිපිනය වෙත යන්න
 urlbar-page-action-button =
-    .tooltiptext = පිටු ක්‍රියාවන්
+    .tooltiptext = පිටුවේ ක්‍රියාමාර්ග
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -264,8 +263,8 @@ urlbar-page-action-button =
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } සමඟ සොයන්න
-urlbar-result-action-switch-tab = ටැබයට මාරුවෙන්න
-urlbar-result-action-visit = පිවිසෙන්න
+urlbar-result-action-switch-tab = පටිත්තට මාරුවන්න
+urlbar-result-action-visit = ගොඩවදින්න
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -280,8 +279,8 @@ urlbar-result-action-visit = පිවිසෙන්න
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
-fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> දැන් පූර්ණ තිරයේ
-fullscreen-warning-no-domain = මෙම ලේඛනය දැන් පූර්ණ තිරයේ
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> දැන් පූර්ණ තිරයෙහිය
+fullscreen-warning-no-domain = මෙම ලේඛනය දැන් පූර්ණ තිරයෙහිය
 fullscreen-exit-button = පූර්ණ තිරයෙන් පිටවන්න (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = පූර්ණ තිරයෙන් පිටවන්න (esc)
