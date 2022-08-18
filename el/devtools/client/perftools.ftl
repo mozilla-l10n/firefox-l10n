@@ -50,18 +50,18 @@ perftools-devtools-settings-label = Ρυθμίσεις
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
-perftools-status-recording-stopped-by-another-tool = Η εγγραφή τερματίστηκε από άλλο εργαλείο.
+perftools-status-recording-stopped-by-another-tool = Η καταγραφή τερματίστηκε από άλλο εργαλείο.
 perftools-status-restart-required = Θα πρέπει να επανεκκινήστε το πρόγραμμα περιήγησης για να ενεργοποιήσετε αυτή τη λειτουργία.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
-perftools-request-to-stop-profiler = Διακοπή εγγραφής
+perftools-request-to-stop-profiler = Διακοπή καταγραφής
 perftools-request-to-get-profile-and-stop-profiler = Καταγραφή προφίλ
 
 ##
 
-perftools-button-start-recording = Έναρξη εγγραφής
-perftools-button-capture-recording = Αποθήκευση εγγραφής
+perftools-button-start-recording = Έναρξη καταγραφής
+perftools-button-capture-recording = Αποθήκευση καταγραφής
 perftools-button-cancel-recording = Ακύρωση εγγραφής
 perftools-button-save-settings = Αποθήκευση ρυθμίσεων και επιστροφή
 perftools-button-restart = Επανεκκίνηση
