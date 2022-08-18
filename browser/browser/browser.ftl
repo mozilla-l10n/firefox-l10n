@@ -188,13 +188,12 @@ identity-active-loaded = ඔබ මෙම පිටුව සඳහා රැක
 identity-weak-encryption = මෙම පිටුව දුර්වල සංකේතනයක් භාවිතා කරයි.
 identity-https-only-label = HTTPS-පමණි ප්‍රකාරය
 identity-permissions-reload-hint = වෙනස්කම් යෙදීමට පිටුව යළි පූරණය කිරීමට සිදු වනු ඇත.
-identity-description-insecure = මෙම පිටුවට වූ ඔබේ සම්බන්ධතාවය පෞද්ගලික නොවේ. ඔබ ලබාදෙන තොරතුරු වෙනත් අයෙකු බැලීමට ඉඩ ඇත (රහස්පද, පණිවුඩ, ණය කාඩ්පත් ආදී..).
-identity-description-insecure-login-forms = මෙම පිටුවට යොදන ප්‍රවේශ තොරතුරු ආරක්ෂිත නොවන නිසා ව්‍යකූලවීම් සිදුවිය හැකිය.
-identity-description-weak-cipher-intro = මෙම පිටුවට වන ඔබේ සම්බන්ධතාවය දුර්වල සංකේතනයක් භාවිතා කරයි එසේම එය පෞද්ගලික නොවේ.
-identity-description-weak-cipher-risk = වෙනත් අයෙකු ඔබගේ තොරතුරු බැලීම හෝ වෙබ් අඩවියේ තොරතුරු වෙනස් කිරීම විය හැකිය.
-identity-description-active-blocked = ආරක්ෂිත නොවන නිසා මෙම පිටුවේ කොටස් { -brand-short-name } අවහිර කර ඇත <label data-l10n-name="link">තවත් දැනගන්න</label>
-identity-description-passive-loaded = ඔබගේ සම්බන්ධතාවය පෞද්ගලික නොවන නිසා ඔබ ඇතුළත් කරන් තොරතුරු වෙනත් අය බැලීමට ඉඩ ඇත.
-identity-description-passive-loaded-insecure = මෙම පිටුවේ ආරක්ෂිත නොවන (පිංතූර වැනි) කොටස් අඩංගුය. <label data-l10n-name="link">තවත් දැනගන්න</label>
+identity-description-insecure = මෙම අඩවිය වෙත ඔබගේ සම්බන්ධතාවය පෞද්ගලික නොවේ. යොමු කරන තොරතුරු අන් අය බලනු ඇත (මුරපද, පණිවිඩ, ණයපත්, ආදිය).
+identity-description-weak-cipher-intro = ඔබගේ සම්බන්ධතාවය මෙම අඩවිය වෙත දුර්වල සංකේතනයක් භාවිතා කරයි, එය පෞද්ගලික නොවේ.
+identity-description-weak-cipher-risk = අන් අයට ඔබගේ තොරතුරු බැලීමට හෝ අඩවියේ හැසිරීම මෙහෙයවීමට හැකිය.
+identity-description-active-blocked = { -brand-short-name } මෙම පිටුවේ ආරක්‍ෂිත නොවන කොටස් අවහිර කර ඇත. <label data-l10n-name="link">තව දැනගන්න</label>
+identity-description-passive-loaded = ඔබගේ සම්බන්ධතාවය පෞද්ගලික නොවන නිසා ඔබ අඩවියට යොමු කරන තොරතුරු අන් අය බලනු ඇත.
+identity-description-passive-loaded-insecure = මෙම අඩවියේ ආරක්‍ෂිත නොවන අන්තර්ගත අඩංගු වේ (රූප වැනි). <label data-l10n-name="link">තව දැනගන්න</label>
 identity-description-passive-loaded-mixed = { -brand-short-name } සමහර කොටස් අවහිර කළද තවමත් ආරක්ෂිත නොවන (පිංතූර වැනි) කොටස් අඩංගු විය හැකිය. <label data-l10n-name="link">තවත් දැනගන්න</label>
 identity-description-active-loaded = මෙම පිටුවේ ආරක්ෂිත නොවන (scripts වැනි) කොටස් අඩංගුය එසේම ඔබගේ සම්බන්ධතාවය පෞද්ගලික නොවේ.
 identity-description-active-loaded-insecure = මෙම අඩවියට ඔබ ලබාදෙන තොරතුරු වෙනත් අයෙකු බැලීමට ඉඩ ඇත (රහස්පද, පණිවුඩ, ණය කාඩ්පත් ආදී..).
