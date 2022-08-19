@@ -212,14 +212,14 @@ update-application-use-service =
 
 performance-title = ක්‍රියාකාරිත්වය
 performance-use-recommended-settings-checkbox =
-    .label = නිර්දේශිත ක්‍රියාකාරීත්ව සැකසුම් භාවිත කරන්න
+    .label = නිර්දේශිත ක්‍රියාකාරිත්ව සැකසුම් භාවිතා කරන්න
     .accesskey = U
-performance-use-recommended-settings-desc = මෙම සැකසුම් ඔබේ පරිගණකයේ දෘඩාංග සහ මෙහෙයුම් පද්ධතිය සඳහා සුදුසු ලෙස සැකසී ඇත.
-performance-settings-learn-more = තවත් දැනගන්න
+performance-use-recommended-settings-desc = මෙම සැකසුම් ඔබගේ පරිගණකයේ දෘඩාංග හා මෙහෙයුම් පද්ධතිය සඳහා සුදුසු ලෙස සැකසී ඇත.
+performance-settings-learn-more = තව දැනගන්න
 performance-allow-hw-accel =
-    .label = ඇත්නම් දෘඩාංග වේග-උපාංග (acceleration) භාවිතා කරන්න
+    .label = තිබෙන විට දෘඪාංග ත්වරණය භාවිතා කරන්න
     .accesskey = r
-performance-limit-content-process-option = අන්තර්ගත සැකසුම් සීමාව
+performance-limit-content-process-option = අන්තර්ගත සැකසීම් සීමාව
     .accesskey = I
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -228,47 +228,47 @@ performance-default-content-process-count =
 
 ## General Section - Browsing
 
-browsing-title = ගවේෂණය
+browsing-title = පිරික්සීම
 browsing-use-autoscroll =
-    .label = ස්වයංක්‍රීයව ස්ක්‍රෝල් වීම භාවිතා කරන්න
+    .label = ස්වයං අනුචලනය භාවිතා කරන්න
     .accesskey = a
 browsing-use-smooth-scrolling =
-    .label = සුමට ස්ක්‍රෝල් වීම භාවිතා කරන්න
+    .label = මෘදු අනුචලනය භාවිතා කරන්න
     .accesskey = m
 browsing-use-onscreen-keyboard =
     .label = අවශ්‍ය විටක ස්පර්ශක යතුරු පුවරුව පෙන්වන්න
     .accesskey = k
 browsing-use-cursor-navigation =
-    .label = සැම විටම පිටුව තුළ සැරිසැරීමට කර්සර යතුරු භාවිතා කරන්න
+    .label = සැම විටම පිටුව තුළ සැරිසැරීමට ඊතල යතුරු භාවිතා කරන්න
     .accesskey = c
 browsing-search-on-start-typing =
-    .label = ඔබ යතුරුකරණය ආරම්භ කළ විට පෙළ සඳහා සොයන්න
+    .label = ඔබ ලිවීමට පටන් ගත් විට පෙළ සඳහා සොයන්න
     .accesskey = x
-browsing-cfr-recommendations-learn-more = තවත් දැනගන්න
+browsing-cfr-recommendations-learn-more = තව දැනගන්න
 
 ## General Section - Proxy
 
 network-settings-title = ජාල සැකසුම්
-network-proxy-connection-learn-more = තවත් දැනගන්න
+network-proxy-connection-learn-more = තව දැනගන්න
 network-proxy-connection-settings =
     .label = සැකසුම්...
     .accesskey = e
 
 ## Home Section
 
-home-new-windows-tabs-header = නව කවුළු සහ ටැබ්
+home-new-windows-tabs-header = නව කවුළු සහ පටිති
 
 ## Home Section - Home Page Customization
 
 home-homepage-mode-label = මුල් පිටුව හා නව කවුළු
-home-newtabs-mode-label = නව ටැබ්
+home-newtabs-mode-label = නව පටිති
 home-restore-defaults =
-    .label = පෙරනිමි නැවත පිහිටුවන්න
+    .label = පෙරනිමියට ප්‍රත්‍යර්පණය
     .accesskey = R
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = ෆයර්ෆෝක්ස් මුල් පිටුව (පෙරනිමි)
+    .label = ෆයර්ෆෝක්ස් මුල්පිටුව (පෙරනිමි)
 home-mode-choice-blank =
     .label = හිස් පිටුව
 # This string has a special case for '1' and [other] (default). If necessary for
