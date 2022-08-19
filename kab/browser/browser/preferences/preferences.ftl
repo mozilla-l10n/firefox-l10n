@@ -933,7 +933,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Nadi imseddayen n unadi
     .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = Tigawin tiruradin
+    .accesskey = T
 addressbar-suggestions-settings = Snifel ismenyifen i yisumar n umsedday n unadi
+addressbar-quickactions-learn-more = Issin ugar
 
 ## Privacy Section - Content Blocking
 

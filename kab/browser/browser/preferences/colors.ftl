@@ -9,40 +9,32 @@ colors-window =
             [macos] width: 41em
            *[other] width: 38em
         }
-
+colors-dialog =
+    .title = Initen
+    .style = width: 41em;
 colors-close-key =
     .key = w
-
 colors-page-override = Snifel initen i d-ittunefken sɣur asebter s wid yettwafernen nig-a
     .accesskey = O
-
 colors-page-override-option-always =
     .label = Yal tikkelt
 colors-page-override-option-auto =
     .label = Anagar i yisentalen yellan s ugnil awriran
 colors-page-override-option-never =
     .label = Weṛǧin
-
 colors-text-and-background = Aḍris d ugilal
-
 colors-text-header = Aḍris
     .accesskey = M
-
 colors-background = Agilal
     .accesskey = Z
-
 colors-use-system =
     .label = Seqdec initen n unagraw
     .accesskey = s
-
 colors-underline-links =
     .label = Derrer iseɣwan
     .accesskey = D
-
 colors-links-header = Initen n iseɣwan
-
 colors-unvisited-links = Iseɣwan ur yettwarzan ara
     .accesskey = S
-
 colors-visited-links = Iseɣwan yettwarzan
     .accesskey = T
