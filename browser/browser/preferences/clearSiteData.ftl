@@ -3,19 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 clear-site-data-window =
-    .title = දත්ත හිස් කරන්න
+    .title = දත්ත මකන්න
     .style = width: 35em
-clear-site-data-description = { -brand-short-name } මගින් ගබඩා කර ඇති සියළු කුකී හා අඩවි දත්ත පිරිසිදු කිරීමෙන් ඔබ ජාල අඩවි වලින් ඉවත් වීම හා මාර්ග ගත නොවන ජාල අන්තර්ගතයන් ඉවත් වීම සිදු විය හැක. කෑශ් පිරිසිදු කිරීම ඔබේ පිවිසීම් වෙත බල නොපායි.
 clear-site-data-close-key =
     .key = w
-clear-site-data-cookies-info = පිරිසිදු කළ හොත් ඔබ ජාල අඩවි වලින් ඉවත් විය හැක
+clear-site-data-cookies-info = හිස් කළහොත් ඔබව අඩවිවලින් නික්මවෙනු ඇත
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
 # Variables:
 #   $amount (Number) - Amount of cache currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cache-with-data =
-    .label = කෑශ් කළ ජාල අන්තර්ගතයන් ({ $amount }{ $unit })
+    .label = නිහිතගත වියමන අන්තර්ගත ({ $amount }{ $unit })
     .accesskey = W
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
@@ -23,6 +22,6 @@ clear-site-data-cache-with-data =
 # or the same as clear-site-data-cache-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cache-empty =
-    .label = කෑශ් කළ ජාල අන්තර්ගතය
+    .label = නිහිතගත වියමන අන්තර්ගතය
     .accesskey = W
-clear-site-data-cache-info = ජාල අඩවි විසින් පින්තූර හා දත්ත යළි පූර්ණයක් අවශ්‍ය විය හැක
+clear-site-data-cache-info = අඩවිවලට රූප හා දත්ත යළි පූරණය කළ යුතු වනු ඇත
