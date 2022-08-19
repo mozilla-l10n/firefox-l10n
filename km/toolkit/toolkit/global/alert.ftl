@@ -4,3 +4,5 @@
 
 alert-close =
     .tooltiptext = បិទ​ការ​ជូនដំណឹង​នេះ
+alert-settings-title =
+    .tooltiptext = ការ​កំណត់
