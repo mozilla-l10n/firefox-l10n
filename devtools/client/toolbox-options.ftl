@@ -31,7 +31,7 @@ options-default-color-unit-name = වර්ණ නාම
 ## Style Editor section
 
 # The heading
-options-styleeditor-label = මොස්තර සැකසුම (Style Editor)
+options-styleeditor-label = ශෛලිය සංස්කරකය
 
 ## Screenshot section
 
@@ -43,4 +43,4 @@ options-sourceeditor-keybinding-default-label = පෙරනිමි
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
-options-context-advanced-settings = උසස් සැකසුම්
+options-context-advanced-settings = වැඩිදුර සැකසුම්
