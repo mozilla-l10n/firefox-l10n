@@ -4,3 +4,5 @@
 
 alert-close =
     .tooltiptext = Zatvori ovo obavještenje
+alert-settings-title =
+    .tooltiptext = Postavke
