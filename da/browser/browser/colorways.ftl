@@ -7,9 +7,13 @@
 
 colorway-collection-independent-voices = Uafhængige stemmer
 colorway-collection-independent-voices-description = Farver kan ændre kulturen. De nyeste farvekombinationer hylder stemmer, der gør verden til et bedre sted.
+# Used as a subheading for the colorway collection card in about:addons
+colorway-collection-independent-voices-short-description = Farver, der ændrer kulturen.
 
 ## Colorway names and descriptions
 
+playmaker-colorway-name = Playmaker
+playmaker-colorway-description = Du skaber muligheder for at vinde og hjælper alle omkring dig med at forbedre deres spil.
 expressionist-colorway-name = Ekspressionist
 expressionist-colorway-description = Du ser verden på en anden måde, og dine værker vækker andres følelser.
 visionary-colorway-name = Visionær
