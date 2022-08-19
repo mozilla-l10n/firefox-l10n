@@ -937,7 +937,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Засоби пошуку
     .accesskey = ш
+addressbar-locbar-quickactions-option =
+    .label = Швидкі дії
+    .accesskey = Ш
 addressbar-suggestions-settings = Змінити налаштування пропозицій засобів пошуку
+addressbar-quickactions-learn-more = Докладніше
 
 ## Privacy Section - Content Blocking
 
