@@ -575,14 +575,11 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = සහතික
-certs-enable-ocsp =
-    .label = සහතිකයන්හි වත්මන් වලංගුභාවය තහවුරු කිරීම සඳහා OCSP ප්‍රතිචාර සේවාදායක විමසන්න
-    .accesskey = Q
 certs-view =
-    .label = සහතික පෙන්වන්න…
+    .label = සහතික බලන්න...
     .accesskey = C
 certs-devices =
-    .label = ආරක්ෂක උපාංග…
+    .label = ආරක්‍ෂණ උපාංග
     .accesskey = D
 
 ## Privacy Section - HTTPS-Only
@@ -597,6 +594,6 @@ httpsonly-radio-disabled =
 
 ## The following strings are used in the Download section of settings
 
-desktop-folder-name = මුලිකතිරය
-downloads-folder-name = බාගැනිම්
-choose-download-folder-title = බාගත විමේ බහලුම තේරීම:
+desktop-folder-name = වැඩතලය
+downloads-folder-name = බාගැනීම්
+choose-download-folder-title = බාගත වන බහාලුම තේරීම:

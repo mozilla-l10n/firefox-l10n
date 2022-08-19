@@ -6,24 +6,20 @@
 ## Settings
 
 site-data-search-textbox =
-    .placeholder = ජාල අඩවි සොයන්න
+    .placeholder = අඩවි සොයන්න
     .accesskey = S
-
 site-data-column-host =
     .label = අඩවිය
 site-data-column-storage =
-    .label = ගබඩා කිරීම
+    .label = ආචයනය
 site-data-column-last-used =
     .label = අවසන් භාවිතය
-
 site-data-remove-selected =
-    .label = තෝරාගත් එක ඉවත් කරන්න
+    .label = තේරූ දෑ ඉවත් කරන්න
     .accesskey = r
-
 site-data-remove-all =
     .label = සියල්ල ඉවත් කරන්න
     .accesskey = e
-
 site-data-remove-shown =
     .label = පෙන්වූ සියල්ල ඉවත් කරන්න
     .accesskey = e
