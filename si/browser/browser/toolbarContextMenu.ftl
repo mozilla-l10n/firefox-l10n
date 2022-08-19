@@ -3,22 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 toolbar-context-menu-manage-extension =
-    .label = දිගුව පාලනය කරන්න
+    .label = දිගුව කළමනාකරණය
     .accesskey = E
-
-# Can appear on the same context menu as menubarCmd ("Menu Bar") and
-# personalbarCmd ("Bookmarks Toolbar"), so they should have different
-# access keys.
-toolbar-context-menu-pin-to-overflow-menu =
-    .label = පිටාර මෙනුවට අමුණන්න
-    .accesskey = P
 toolbar-context-menu-remove-from-toolbar =
-    .label = මෙවලම් තීරුවෙන්න ඉවත් කරන්න
+    .label = මෙවලම් තීරුවෙන් ඉවතලන්න
     .accesskey = R
 toolbar-context-menu-view-customize-toolbar =
     .label = රිසිකරණය...
     .accesskey = C
-
 toolbar-context-menu-menu-bar-cmd =
-    .toolbarname = මෙනු තීරුව
+    .toolbarname = වට්ටෝරු තීරුව
     .accesskey = M
