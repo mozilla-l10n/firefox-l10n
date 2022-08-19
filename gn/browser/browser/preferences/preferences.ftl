@@ -934,6 +934,7 @@ addressbar-locbar-engines-option =
     .label = Hekaha mongu’eha
     .accesskey = a
 addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu’eha je’epyre moambue
+addressbar-quickactions-learn-more = Kuaave
 
 ## Privacy Section - Content Blocking
 
