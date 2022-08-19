@@ -4,3 +4,5 @@
 
 alert-close =
     .tooltiptext = Itxi jakinarazpen hau
+alert-settings-title =
+    .tooltiptext = Ezarpenak
