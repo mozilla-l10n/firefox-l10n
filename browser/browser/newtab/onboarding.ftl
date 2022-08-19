@@ -223,9 +223,12 @@ mr2-onboarding-start-browsing-button-label = התחלת גלישה
 
 onboarding-live-language-header = בחירת השפה שלך
 mr2022-onboarding-live-language-text = ‏{ -brand-short-name } דובר בשפה שלך
+mr2022-language-mismatch-subtitle = הודות לקהילה שלנו, { -brand-short-name } מתורגם בלמעלה מ־90 שפות. נראה שהמערכת שלך משתמשת ב־{ $systemLanguage }, ו־{ -brand-short-name } משתמש ב־{ $appLanguage }.
 onboarding-live-language-button-label-downloading = ערכת השפה עבור { $negotiatedLanguage } בהורדה…
 onboarding-live-language-waiting-button = מתקבלות שפות זמינות…
 onboarding-live-language-installing = ערכת השפה עבור { $negotiatedLanguage } בהתקנה…
+mr2022-onboarding-live-language-switch-to = החלפה ל{ $negotiatedLanguage }
+mr2022-onboarding-live-language-continue-in = המשך שימוש ב{ $appLanguage }
 onboarding-live-language-secondary-cancel-download = ביטול
 onboarding-live-language-skip-button-label = דילוג
 
