@@ -941,7 +941,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Pytawy
     .accesskey = P
+addressbar-locbar-quickactions-option =
+    .label = Spěšne akcije
+    .accesskey = S
 addressbar-suggestions-settings = Nastajenja za namjety pytawy změnić
+addressbar-quickactions-learn-more = Dalše informacije
 
 ## Privacy Section - Content Blocking
 
