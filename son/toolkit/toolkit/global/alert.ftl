@@ -4,3 +4,5 @@
 
 alert-close =
     .tooltiptext = Bangandiyanoo woo daabu
+alert-settings-title =
+    .tooltiptext = Kayandiyaney
