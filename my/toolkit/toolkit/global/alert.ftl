@@ -4,3 +4,5 @@
 
 alert-close =
     .tooltiptext = ဒီသတိပေးချက် ပိတ်
+alert-settings-title =
+    .tooltiptext = အပြင်အဆင်များ
