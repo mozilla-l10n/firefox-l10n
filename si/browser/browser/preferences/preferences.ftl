@@ -370,11 +370,11 @@ sync-mobile-promo = ඔබගේ ජංගම උපාංගය සමඟ ස�
 ## Firefox Account - Signed in
 
 sync-profile-picture =
-    .tooltiptext = පැතිකඩ පින්තූරය වෙනස් කරන්න
-sync-manage-account = ගිණුම කළමනාකරණය කරන්න
+    .tooltiptext = පැතිකඩ රූපය සංශෝධනය
+sync-manage-account = ගිණුම කළමනාකරණය
     .accesskey = o
-sync-signedin-unverified = { $email } තහවුරු කර නොමැත
-sync-signedin-login-failure = කරුණාකර නැවත සබඳවීමට පිවිසෙන්න { $email }
+sync-signedin-unverified = { $email } තහවුරු කර නැත
+sync-signedin-login-failure = නැවත සබැඳීමට පිවිසෙන්න { $email }
 sync-resend-verification =
     .label = තහවුරු කිරීම නැවත එවන්න
     .accesskey = d
@@ -394,28 +394,28 @@ sync-sign-in =
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
-    .label = පිටුසළකුණු
+    .label = පොත්යොමු
     .accesskey = m
 sync-engine-history =
-    .label = පෙරදෑ
+    .label = ඉතිහාසය
     .accesskey = r
 sync-engine-addresses =
     .label = ලිපින
-    .tooltiptext = ඔබ සුරක්ෂිත කර අැති ලිපින (මේස පරිඝනකයේ පමණි)
+    .tooltiptext = සුරකින ලද තැපැල් ලිපින (වැඩතලයට පමණි)
     .accesskey = e
 sync-engine-creditcards =
     .label = ණය පත්
-    .tooltiptext = නම්,අංක සහ කල් ඉකුත්වන දින ( ඩෙස්ක්ටොප් පමණි)
+    .tooltiptext = නම්, අංක හා කල් ඉකුත්වන දින (වැඩතලයට පමණි)
     .accesskey = C
 
 ## The device name controls.
 
-sync-device-name-header = උපාංග නාමය
+sync-device-name-header = උපාංගයේ නම
 sync-device-name-change =
-    .label = මෙවලම් නාමය වෙනස් කරන්න...
+    .label = උපාංගයේ නම වෙනස් කරන්න...
     .accesskey = h
 sync-device-name-cancel =
-    .label = එපා
+    .label = අවලංගු
     .accesskey = n
 sync-device-name-save =
     .label = සුරකින්න
@@ -423,16 +423,13 @@ sync-device-name-save =
 
 ## Privacy Section
 
-privacy-header = ගවේශන පුද්ගලිකත්වය
+privacy-header = පිරික්සුම් රහස්‍යතාව
 
 ## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = පිවිසුම් සහ මුරපද
     .searchkeywords = { -lockwise-brand-short-name }
-forms-exceptions =
-    .label = හැරදැමීම්...
-    .accesskey = x
 forms-saved-logins =
     .label = සුරැකි පිවිසුම්…
     .accesskey = L
@@ -440,10 +437,10 @@ forms-saved-logins =
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
-    .label = ප්‍රධාන රහස්පදය වෙනස්කරන්න...
+    .label = ප්‍රධාන මුරපදය වෙනස් කරන්න...
     .accesskey = M
 forms-primary-pw-fips-title = ඔබ දැනට FIPS ප්‍රකාරයේ සිටියි. FIPS සඳහා හිස් නොවන ප්‍රාථමික මුරපදයක් අවශ්‍යයි.
-forms-master-pw-fips-desc = රහස්පදය වෙනස් කිරීම අසාර්තකයි
+forms-master-pw-fips-desc = මුරපදය වෙනස් කිරීමට අසමත් විය
 
 ## OS Authentication dialog
 
@@ -452,7 +449,7 @@ forms-master-pw-fips-desc = රහස්පදය වෙනස් කිරී�
 
 history-header = ඉතිහාසය
 history-remember-option-all =
-    .label = අතීතය මතක තබාගන්න
+    .label = ඉතිහාසය තබා ගන්න
 history-remember-option-never =
     .label = කිසිවිටෙක අතීතය මතක තබා නොගන්න
 history-remember-option-custom =
