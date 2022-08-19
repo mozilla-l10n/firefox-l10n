@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Markahi Tab
     .accesskey = m
+tab-context-bookmark-tab =
+    .label = Markahi Tab…
+    .accesskey = M
 tab-context-open-in-new-container-tab =
     .label = Buka di Tab Kontainer Baru
     .accesskey = T
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] Pindahkan Tab
         }
     .accesskey = P
-
 tab-context-send-tabs-to-device =
     .label = Kirim Tab ke { $tabCount } Peranti
     .accesskey = k

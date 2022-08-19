@@ -47,8 +47,6 @@ firefoxview-mobile-promo-primarybutton = Dapatkan { -brand-product-name } untuk 
 firefoxview-mobile-confirmation-header = 🎉 Semua sudah siap!
 firefoxview-mobile-confirmation-description = Sekarang Anda dapat mengambil tab { -brand-product-name } dari tablet atau ponsel Anda.
 firefoxview-closed-tabs-title = Baru saja ditutup
-firefoxview-closed-tabs-collapse-button =
-    .title = Tampilkan atau sembunyikan daftar tab yang baru saja ditutup
 firefoxview-closed-tabs-description = Buka kembali laman yang telah Anda tutup pada perangkat ini.
 firefoxview-closed-tabs-placeholder = <strong>Tidak ada laman yang tutup baru-baru ini</strong><br/>Jangan takut kehilangan tab yang tertutup lagi. Anda selalu bisa mengambilnya di sini.
 # refers to the last tab that was used
@@ -65,3 +63,7 @@ firefoxview-change-colorway-button = Ubah colorway
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Belum ada yang bisa dilihat</strong><br/>Lain kali Anda membuka halaman di { -brand-product-name } di perangkat lain, ambil di sini seperti sulap.
+firefoxview-collapse-button-show =
+    .title = Tampilkan daftar
+firefoxview-collapse-button-hide =
+    .title = Sembunyikan daftar
