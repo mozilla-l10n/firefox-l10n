@@ -68,27 +68,21 @@ set-as-my-default-browser =
     .label = පෙරනිමි කරන්න…
     .accesskey = D
 startup-restore-warn-on-quit =
-    .label = ගවේශකයෙන් පිටවන විට ඔබට දන්වන්න
+    .label = අතිරික්සුවෙන් ඉවත් වන විට දන්වන්න
 disable-extension =
-    .label = දිගු ක්‍රියා විරහිත කරන්න
-tabs-group-header = ටැබ්
-ctrl-tab-recently-used-order =
-    .label = මෑතදී භාවිත පෙළගැස්මට ටැබ අතර මාරුවීම සඳහා Ctrl+Tab භාවිත කරන්න
-    .accesskey = T
+    .label = දිගුව අබල කරන්න
+tabs-group-header = පටිති
 open-new-link-as-tabs =
-    .label = නව කවුළු වෙනුවට සබැඳි නව ටැබ තුළ පෙන්වන්න
+    .label = නව කවුළුවල වෙනුවට පටිති තුළ සබැඳි අරින්න
     .accesskey = w
 warn-on-open-many-tabs =
-    .label = බහු ටැබ විවෘත කිරීමේදී { -brand-short-name } මන්දගාමීවීමේ හැකියාවක් ඇති බවට ඔබට අනතුරු අඟවයි;
+    .label = පටිති කිහිපයක් විවෘත කිරීමේදී { -brand-short-name } මන්දගාමී වීමට හැකි බව දන්වන්න
     .accesskey = d
-show-tabs-in-taskbar =
-    .label = ටැබ් පෙරදසුන් වින්ඩෝස් ටාස්ක්බාරය (Windows taskbar) තුළ පෙන්වන්න
-    .accesskey = k
-browser-containers-learn-more = තවත් දැනගන්න
+browser-containers-learn-more = තව දැනගන්න
 browser-containers-settings =
-    .label = සිටුවම්...
+    .label = සැකසුම්…
     .accesskey = i
-containers-disable-alert-cancel-button = සක්‍රියව තබන්න
+containers-disable-alert-cancel-button = සබලව තබන්න
 
 ## General Section - Language & Appearance
 
