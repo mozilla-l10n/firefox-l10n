@@ -720,6 +720,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Bogmærk dette faneblad
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Bogmærk dette faneblad…
 
 ## Library Panel items
 

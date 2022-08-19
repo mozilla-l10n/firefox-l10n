@@ -42,3 +42,22 @@ firefoxview-mobile-promo-header = Hent faneblade fra din telefon eller tablet
 firefoxview-mobile-promo-description = For at se de seneste faneblade fra din mobil skal du logge ind på { -brand-product-name } til iOS eller Android.
 firefoxview-mobile-promo-primarybutton = Hent { -brand-product-name } til mobilen
 firefoxview-mobile-confirmation-header = 🎉 Alt er klart!
+firefoxview-closed-tabs-title = Senest lukkede
+firefoxview-closed-tabs-description = Genåbn sider, du har lukket på denne enhed.
+firefoxview-closed-tabs-placeholder = <strong>Ingen seneste lukkede faneblade</strong><br/>Du behøver ikke at være bange for at miste lukkede faneblade igen - du kan altid finde dem her.
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Åbn { $targetURI } i et nyt faneblad
+firefoxview-try-colorways-button = Prøv farvekombinationer
+firefoxview-no-current-colorway-collection = Ny farvekombinationer er på vej
+firefoxview-change-colorway-button = Skift farvekombination
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Her er ikke noget at se endnu</strong><br/>Næste gang, du åbner et faneblad i { -brand-product-name } på en anden enhed, kan du få det vist her.
+firefoxview-collapse-button-show =
+    .title = Vis liste
+firefoxview-collapse-button-hide =
+    .title = Skjul liste
