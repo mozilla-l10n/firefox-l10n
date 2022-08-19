@@ -695,6 +695,8 @@ bookmarks-tools =
     .label = Alat Pemarkahan
 bookmarks-bookmark-edit-panel =
     .label = Edit Markah Ini
+bookmarks-subview-edit-bookmark =
+    .label = Ubah markah ini…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -711,6 +713,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Markahi Tab Saat Ini
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Markahi tab saat ini…
 
 ## Library Panel items
 

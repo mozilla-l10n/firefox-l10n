@@ -245,3 +245,15 @@ fx100-upgrade-thanks-header = 100x Terima Kasih
 fx100-upgrade-thank-you-body = Ini adalah rilis { -brand-short-name } ke-100. Terima kasih untuk <em>Anda</em> karena telah membantu kami membangun Internet yang lebih baik dan lebih sehat.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Ini adalah rilis ke-100 kami! Terima kasih telah menjadi bagian dari komunitas kami. Hanya sekali klik untuk terus 100x bersama { -brand-short-name } berikutnya.
+
+## MR2022 Upgrade Dialog screens
+## Pin private window screen shown only for users who don't have Firefox private pinned
+
+mr2022-onboarding-skip-step-button-label = Lewati langkah ini
+mr2022-upgrade-onboarding-pin-private-window-header = Dapatkan kebebasan penjelajahan pribadi dengan sekali klik
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Tidak ada kuki tersimpan atau riwayat, langsung dari desktop Anda. Menjelajah seperti tidak ada yang mengawasi.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Sematkan penjelajahan pribadi { -brand-short-name } di Dock
+       *[other] Sematkan penjelajahan pribadi { -brand-short-name } ke bilah tugas
+    }
