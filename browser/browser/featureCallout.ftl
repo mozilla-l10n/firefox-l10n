@@ -9,3 +9,8 @@ callout-primary-complete-button-label = 확인
 
 ## Firefox View feature tour strings
 
+# "Tab pickup" refers to the section in Firefox View that displays open
+# tabs from other devices
+callout-firefox-view-tab-pickup-title = 탭 받기로 기기 간 빠른 전환
+callout-firefox-view-tab-pickup-subtitle = 휴대폰에서 열린 탭을 빠르게 가져와서 여기에서 엽니다.
+callout-firefox-view-recently-closed-subtitle = 여기에 닫힌 모든 탭들이 마법처럼 표시됩니다. 실수로 사이트를 닫는 것에 대해 다시는 걱정하지 마세요.

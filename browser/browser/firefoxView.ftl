@@ -15,7 +15,7 @@ firefoxview-close-button =
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = 방금 전
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = 탭 선택
+firefoxview-tabpickup-header = 탭 받기
 firefoxview-tabpickup-description = 다른 기기로부터 페이지를 엽니다.
 firefoxview-tabpickup-recenttabs-description = 최근 탭 목록이 여기에 표시됩니다.
 # Variables:
