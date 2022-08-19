@@ -27,10 +27,10 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = මෙම විශේෂාංගය සක්‍රීය කිරීමට { -brand-short-name } යළි ඇරඹිය යුතුයි.
-feature-disable-requires-restart = මෙම විශේෂාංගය අක්‍රිය කිරීමට { -brand-short-name } යළි ඇරඹිය යුතුයි.
+feature-enable-requires-restart = මෙම විශේෂාංගය සබල කිරීමට { -brand-short-name } යළි ඇරඹිය යුතුයි.
+feature-disable-requires-restart = මෙම විශේෂාංගය අබල කිරීමට { -brand-short-name } යළි ඇරඹිය යුතුයි.
 should-restart-title = { -brand-short-name } යළි අරඹන්න
-should-restart-ok = { -brand-short-name } දැන් ප්‍රතිපණගන්වන්න
+should-restart-ok = { -brand-short-name } යළි අරඹන්න
 cancel-no-restart-button = අවලංගු කරන්න
 restart-later = පසුව යළි අරඹන්න
 
@@ -49,23 +49,23 @@ restart-later = පසුව යළි අරඹන්න
 #
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
-extension-controlled-enable = මෙම දිගුව සක්‍රීය කිරීමට <img data-l10n-name="menu-icon"/> මෙනුවෙහි <img data-l10n-name="addons-icon"/> ඇඩෝන වෙත යන්න.
+extension-controlled-enable = මෙම දිගුව සබල කිරීමට <img data-l10n-name="menu-icon"/> වට්ටෝරුවෙහි <img data-l10n-name="addons-icon"/> එක්කහු වෙත යන්න.
 
 ## Preferences UI Search Results
 
-search-results-header = සෙවුම් ප්‍රථිපල
-search-results-help-link = උදව් ඇවැසිද? <a data-l10n-name="url">{ -brand-short-name }සහාය</a> වෙත පිවිසෙන්න
+search-results-header = සෙවුම් ප්‍රතිඵල
+search-results-help-link = උදව් වුවමනා ද? <a data-l10n-name="url">{ -brand-short-name }සහාය</a> බලන්න
 
 ## General Section
 
 startup-header = ආරම්භය
 always-check-default =
-    .label = සැමවිටම { -brand-short-name } ඔබේ පෙරනිමි ගවේශකයද බව පිරික්සන්න
-    .accesskey = w
-is-default = { -brand-short-name } is currently your default browser
-is-not-default = { -brand-short-name } දැනට ඔබේ පෙරනිමි ගවේශකය නොවේ
+    .label = සැමවිටම { -brand-short-name } ඔබගේ පෙරනිමි අතිරික්සුව දැයි බලන්න
+    .accesskey = y
+is-default = { -brand-short-name } දැනට ඔබගේ පෙරනිමි අතිරික්සුවයි
+is-not-default = { -brand-short-name } ඔබගේ පෙරනිමි අතිරික්සුව නොවේ
 set-as-my-default-browser =
-    .label = පෙරනිමිය ලෙස සකසන්න…
+    .label = පෙරනිමි කරන්න…
     .accesskey = D
 startup-restore-warn-on-quit =
     .label = ගවේශකයෙන් පිටවන විට ඔබට දන්වන්න
