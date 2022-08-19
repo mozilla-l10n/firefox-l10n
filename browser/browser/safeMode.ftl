@@ -4,5 +4,5 @@
 
 refresh-profile =
     .label = { -brand-short-name } නැවුම් කරන්න
-# Shown on the safe mode dialog after multiple startup crashes. 
-auto-safe-mode-description = ආරම්භයේදී { -brand-short-name } බලාපොරොත්තු රහිත ලෙස වැසිනි මෙයට ඇඩෝනයක් හෝ වෙනත් ගැටළුවක් හේතු විය හැක. ඔබට ආරක්ෂක ප්‍රකාරය හරහා මෙම දෝශය නිරාකරණය කළ හැක.
+# Shown on the safe mode dialog after multiple startup crashes.
+auto-safe-mode-description = { -brand-short-name } ආරම්භයේදී අනපේක්‍ෂිත ලෙස වැසී ගියේය. මෙය එක්කහු හෝ වෙනත් ගැටළු නිසා සිදු විය හැකිය. ඔබට ආරක්‍ෂිත ප්‍රකාරය හරහා දෝෂ සෙවීමෙන් ගැටළුව විසඳීමට උත්සාහ කළ හැකිය.

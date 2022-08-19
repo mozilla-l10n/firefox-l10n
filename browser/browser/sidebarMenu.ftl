@@ -3,16 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sidebar-menu-bookmarks =
-    .label = පිටු සලකුණු
-
+    .label = පොත්යොමු
 sidebar-menu-history =
     .label = ඉතිහාසය
-
 sidebar-menu-synced-tabs =
-    .label = සම්මුහුර්ථ කළ ටැබ්
-
+    .label = සමමුහූර්ත පටිති
 sidebar-menu-close =
     .label = පැති තීරුව වසන්න
-
 sidebar-close-button =
     .tooltiptext = පැති තීරුව වසන්න
