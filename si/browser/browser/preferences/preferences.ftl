@@ -199,18 +199,18 @@ update-application-auto =
     .label = ස්වයංක්‍රීයව යාවත්කාල ස්ථාපනය (නිර්දේශිතයි)
     .accesskey = A
 update-application-check-choose =
-    .label = යාවත් සඳහා සොයන්න නමුත් ස්ථාපනය සඳහා ඔබෙන් විමසන්න
+    .label = යාවත්කාල බලන්න නමුත් ස්ථාපනයට අසන්න
     .accesskey = C
 update-application-manual =
-    .label = කිසිවිට යාවත් සඳහා නොවිමසන්න (නිර්දේශිත නොවේ)
+    .label = යාවත්කාල නොබලන්න (නිර්දේශ නොකෙරේ)
     .accesskey = N
 update-application-use-service =
-    .label = යාවත්කාලීන ස්ථාපනය සඳහා පසුබ්ම් සේවාව (background service) භාවිතා කරන්න
+    .label = යාවත්කාල ස්ථාපනයට පසුබිම් සේවාවක්  යොදාගන්න
     .accesskey = b
 
 ## General Section - Performance
 
-performance-title = ක්‍රියාකාරීත්වය
+performance-title = ක්‍රියාකාරිත්වය
 performance-use-recommended-settings-checkbox =
     .label = නිර්දේශිත ක්‍රියාකාරීත්ව සැකසුම් භාවිත කරන්න
     .accesskey = U
