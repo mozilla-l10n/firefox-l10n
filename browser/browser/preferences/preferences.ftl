@@ -5,7 +5,7 @@
 do-not-track-description = ඔබව ලුහුබැඳීමට අකමැති බව ලුහු නොබඳින්න සංඥාවකින් අඩවි වෙත දන්වන්න
 do-not-track-learn-more = තව දැනගන්න
 do-not-track-option-always =
-    .label = සැමවිටම
+    .label = සැමවිට
 pane-general-title = සාමාන්‍ය
 category-general =
     .tooltiptext = { pane-general-title }
@@ -60,7 +60,7 @@ search-results-help-link = උදව් වුවමනා ද? <a data-l10n-nam
 
 startup-header = ආරම්භය
 always-check-default =
-    .label = සැමවිටම { -brand-short-name } ඔබගේ පෙරනිමි අතිරික්සුව දැයි බලන්න
+    .label = සැමවිට { -brand-short-name } ඔබගේ පෙරනිමි අතිරික්සුව දැයි බලන්න
     .accesskey = y
 is-default = { -brand-short-name } දැනට ඔබගේ පෙරනිමි අතිරික්සුවයි
 is-not-default = { -brand-short-name } ඔබගේ පෙරනිමි අතිරික්සුව නොවේ
@@ -127,7 +127,7 @@ download-choose-folder =
            *[other] o
         }
 download-always-ask-where =
-    .label = ගොනු සුරැකිය යුතු තැන සැමවිටම අසන්න
+    .label = ගොනු සුරැකිය යුතු තැන සැමවිට අසන්න
     .accesskey = A
 applications-header = යෙදුම්
 applications-description = වියමන වෙතින් බාගත කරන ගොනු හෝ ඔබ පිරික්සන අතරතුර භාවිතා කරන යෙදුම් { -brand-short-name } හසුරුවන්නේ කෙසේදැයි තෝරන්න.
@@ -158,7 +158,7 @@ applications-select-helper = සහායක යෙදුම තෝරන්න
 applications-manage-app =
     .label = යෙදුමේ විස්තර…
 applications-always-ask =
-    .label = සෑමවිට අසන්න
+    .label = සැමවිට අසන්න
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
@@ -239,7 +239,7 @@ browsing-use-onscreen-keyboard =
     .label = අවශ්‍ය විටක ස්පර්ශක යතුරු පුවරුව පෙන්වන්න
     .accesskey = k
 browsing-use-cursor-navigation =
-    .label = සැම විටම පිටුව තුළ සැරිසැරීමට ඊතල යතුරු භාවිතා කරන්න
+    .label = සැමවිට පිටුව තුළ සැරිසැරීමට ඊතල යතුරු භාවිතා කරන්න
     .accesskey = c
 browsing-search-on-start-typing =
     .label = ඔබ ලිවීමට පටන් ගත් විට පෙළ සඳහා සොයන්න
@@ -451,12 +451,12 @@ history-header = ඉතිහාසය
 history-remember-option-all =
     .label = ඉතිහාසය තබා ගන්න
 history-remember-option-never =
-    .label = කිසිවිටෙක අතීතය මතක තබා නොගන්න
+    .label = ඉතිහාසය තබා නොගන්න
 history-remember-option-custom =
-    .label = අතීතය සඳහා රිසිකරණ සැකසුම් භාවිතා කරන්න
-history-dontremember-description = { -brand-short-name } එම සැකසුම්ම පුද්ගලික ගවේෂණය සඳහා යොදාගනු ඇති අතර ඔබ ගවේෂණය කරන අතරතුර කිසිදු ඉතිහාසයක් මතකයේ තබානොගනු ඇත.
+    .label = ඉතිහාසය සඳහා අභිරුචි සැකසුම්
+history-dontremember-description = { -brand-short-name } පෞද්ගලික පිරික්සුම් සැකසුම් එළෙසම යොදා ගැනෙයි, වියමනෙහි පිරික්සන විට කිසිදු ඉතිහාසයක් මතක තබා නොගනී.
 history-private-browsing-permanent =
-    .label = සෑම විටම පෞද්ගලික ගවේෂණය භාවිතා කරන්න
+    .label = සැමවිට පෞද්. පිරික්සුම භාවිතා කරන්න
     .accesskey = p
 history-remember-browser-option =
     .label = ගවේශන ඉතිහාසය සහ බාගැනීම් මතක තබාගන්න
