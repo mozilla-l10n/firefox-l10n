@@ -4,3 +4,5 @@
 
 alert-close =
     .tooltiptext = Deze notificatie sluiten
+alert-settings-title =
+    .tooltiptext = Instellingen
