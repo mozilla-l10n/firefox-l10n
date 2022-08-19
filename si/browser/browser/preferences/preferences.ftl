@@ -2,23 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = පසුහැඹීම අනවශ්‍ය වෙබ් අඩවි සඳහා “පසුහැඹීම එපා“ සංඥාව යවන්න
-do-not-track-learn-more = තවත් දැනගන්න
+do-not-track-description = ඔබව ලුහුබැඳීමට අකමැති බව ලුහු නොබඳින්න සංඥාවකින් අඩවි වෙත දන්වන්න
+do-not-track-learn-more = තව දැනගන්න
 do-not-track-option-always =
     .label = සැමවිටම
 pane-general-title = සාමාන්‍ය
 category-general =
     .tooltiptext = { pane-general-title }
-pane-home-title = නිවස
+pane-home-title = මුල
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = සෙවුම
 category-search =
     .tooltiptext = { pane-search-title }
-pane-privacy-title = පුද්ගලිකත්වය සහ ආරක්ෂාව
+pane-privacy-title = පෞද්ගලිකත්වය හා ආරක්‍ෂාව
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-help-button-label = { -brand-short-name } සහය
+help-button-label = { -brand-short-name } සහාය
 addons-button-label = දිගු සහ තේමා
 focus-search =
     .key = f
