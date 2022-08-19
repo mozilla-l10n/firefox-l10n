@@ -3,29 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 set-desktop-background-window =
-    .title = තිරයේ පසුබිමට සැකසීම
-
+    .title = වැඩතල පසුබිම සකසන්න
 set-desktop-background-accept =
-    .label = තිරයේ පසුබිමට සැකසීම
-
+    .label = වැඩතල පසුබිම සකසන්න
 open-desktop-prefs =
-    .label = තිරමුහුණත අභිප්‍රේත විවෘත කරන්න
-
-set-background-color = වර්ණය
-
+    .label = වැඩතල අභිප්‍රේත අරින්න
+set-background-color = වර්ණය:
 set-background-position = පිහිටීම:
-
-set-background-tile =
-    .label = ටයිල්
-
 set-background-center =
-    .label = මැදින්
-
-set-background-stretch =
-    .label = ඇදෙන සේ
-
+    .label = මැද
 set-background-fill =
     .label = පිරවීම
-
-set-background-fit =
-    .label = සවිකිරීම

@@ -2,38 +2,48 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-synced-tabs-sidebar-title = සම්මුහුර්ථ කළ ටැබ්
-synced-tabs-sidebar-noclients-subtitle = ඔබගේ ටැබ් වෙනත් උපාංගයක සිට බැලීමට අවශ්‍යද?
-synced-tabs-sidebar-unverified = ඔබේ ගිනුම තහවුරු කල යුතුයි.
-synced-tabs-sidebar-notabs = විවෘත කළ ටැබ් නැත
-synced-tabs-sidebar-tabsnotsyncing = ටැබ් වෙනත් උපාංගයක සිට බැලීමට ටැබ් සම්මුහුර්තකරණය ගන්න.
-synced-tabs-sidebar-connect-another-device = තවත් උපාංගයක් සබඳ කරන්න
+synced-tabs-sidebar-title = සමමුහූර්ත පටිති
+synced-tabs-sidebar-noclients-subtitle = ඔබගේ පටිති වෙනත් උපාංගයකින් බැලීමට අවශ්‍යද?
+synced-tabs-sidebar-unverified = ඔබගේ ගිණුම තහවුරු කළ යුතුයි.
+synced-tabs-sidebar-notabs = විවෘත පටිති නැත.
+synced-tabs-sidebar-tabsnotsyncing = වෙනත් උපාංගයකින් පටිති බැලීමට පටිති සමමුහූර්තය සබල කරන්න.
+synced-tabs-sidebar-connect-another-device = අන් උපාංගයක් සබඳින්න
 synced-tabs-sidebar-search =
-    .placeholder = සමමුහු කළ ටැබ සොයන්න
+    .placeholder = සමමුහූර්ත පටිති සොයන්න
+
+## Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
+## and/or devices in the list. The "Open" strings below should be translated
+## consistently with the equivalent strings for the bookmarks manager's context
+## menu. That menu is activated by right-clicking a bookmark in the Library
+## window. The bookmarks manager context's strings are located in places.ftl.
+
 synced-tabs-context-open =
-    .label = විවෘත කරන්න
+    .label = අරින්න
     .accesskey = O
 synced-tabs-context-open-in-new-tab =
-    .label = නව ටැබයක විවෘත කරන්න
+    .label = නව පටිත්තක අරින්න
     .accesskey = w
 synced-tabs-context-open-in-new-window =
-    .label = නව කවුළුවක විවෘත කරන්න
+    .label = නව කවුළුවක අරින්න
     .accesskey = N
 synced-tabs-context-open-in-new-private-window =
-    .label = නව පුද්ගලික කවුළුවක විවෘත කරන්න
+    .label = නව පෞද්. කවුළුවක අරින්න
     .accesskey = P
 synced-tabs-context-bookmark-single-tab =
-    .label = මෙම ටැබ පිටුසළකුණු කරන්න…
+    .label = මෙම පිටුවට පොත්යොමුවක්…
     .accesskey = B
+
+##
+
 synced-tabs-context-copy =
-    .label = පිටපත් කරන්න
+    .label = පිටපතක්
     .accesskey = C
 synced-tabs-context-open-all-in-tabs =
-    .label = සියල්ල ටැබ තුළ විවෘත කරන්න
+    .label = පටිති තුළ සියල්ල අරින්න
     .accesskey = O
 synced-tabs-context-manage-devices =
-    .label = උපාංග පාලනය...
+    .label = උපාංග කළමනාකරණය...
     .accesskey = D
 synced-tabs-context-sync-now =
-    .label = දැන් සම්මුහුර්ත කරන්න
+    .label = සමමුහූර්ත කරන්න
     .accesskey = S
