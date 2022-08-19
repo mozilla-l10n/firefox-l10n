@@ -278,12 +278,12 @@ home-mode-choice-blank =
 use-current-pages =
     .label =
         { $tabCount ->
-            [1] දැන් පවතින පිටුව
-           *[other] දැන් පවතින පිටුව
+            [1] වත්මන් පිටුව යොදන්න
+           *[other] වත්මන් පිටු යොදන්න
         }
     .accesskey = C
 choose-bookmark =
-    .label = පිටු සලකුණු භාවිතා කරන්න…
+    .label = පොත්යොමුවක් යොදන්න…
     .accesskey = B
 
 ## Home Section - Firefox Home Content Customization
@@ -292,7 +292,7 @@ home-prefs-content-header = ෆයර්ෆෝක්ස් මුල්පිට
 home-prefs-content-description = ෆයර්ෆෝක්ස් මුල් තිරයට වුවමනා අන්තර්ගත තෝරන්න.
 home-prefs-content-description2 = ඔබගේ { -firefox-home-brand-name } තිරයට අවශ්‍ය අන්තර්ගතය තෝරන්න.
 home-prefs-search-header =
-    .label = ජාල සෙවුම
+    .label = වියමන සෙවුම
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -302,27 +302,27 @@ home-prefs-recommended-by-header =
 
 ##
 
-home-prefs-recommended-by-learn-more = එය ක්‍රියාත්මක වන්නේ කෙසේද
+home-prefs-recommended-by-learn-more = එය වැඩ කරන්නේ කෙසේද
 home-prefs-recommended-by-option-sponsored-stories =
-    .label = අනුග්‍රාහක කතා
+    .label = අනුග්‍රහය ලද කතා
 home-prefs-highlights-option-visited-pages =
-    .label = පිවිසුනු පිටු
+    .label = දුටු පිටු
 home-prefs-highlights-options-bookmarks =
-    .label = පිටු සලකුණු
+    .label = පොත්යොමු
 home-prefs-highlights-option-most-recent-download =
-    .label = මෑතකාලීන බාගත
+    .label = වඩාත්ම මෑත බාගැනීම්
 home-prefs-sections-rows-option =
     .label =
         { $num ->
-            [one] { $num } තීරය
-           *[other] { $num } තීර
+            [one] පේළි { $num }
+           *[other] පේළි { $num }
         }
 
 ## Search Section
 
 search-bar-header = සෙවුම් තීරය
 search-bar-shown =
-    .label = සෙවුම් තීරය මෙවලම් තීරයට එක් කරන්න
+    .label = සෙවුම් තීරය මෙවලම් තීරයට යොදන්න
 search-engine-default-header = පෙරනිමි සෙවුම් එළවුම
 search-suggestions-option =
     .label = සෙවුම් යෝජනා ලබාදෙන්න
@@ -335,7 +335,7 @@ search-choose-engine-column =
 search-choose-keyword-column =
     .label = මූල පදය
 search-restore-default =
-    .label = පෙරනිමි සෙවුම් එළවුමට යළි සකසන්න
+    .label = පෙරනිමි සෙවුම් එළවුමට ප්‍රත්‍යර්පණය
     .accesskey = D
 search-remove-engine =
     .label = ඉවත් කරන්න
@@ -343,25 +343,20 @@ search-remove-engine =
 search-find-more-link = තවත් සෙවුම් යන්ත්‍ර සොයන්න
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
-search-keyword-warning-title = මූල පදය කිහිපවරක් භවිතකර ඇත
+search-keyword-warning-title = අනුපිටපත් මූල පදය
 # Variables:
 #   $name (String) - Name of a search engine.
-search-keyword-warning-engine = ඔබ විසින් තෝරාගත් මූල පදය දැනට "{ $name }" විසින් භාවිතා කරයි. කරුණාකර වෙනත් එකක් තෝරන්න.
-search-keyword-warning-bookmark = ඔබ විසින් තෝරාගත් මූල පදය දැනට පිටු සලකුණක් විසින් භාවිතා කරයි. කරුණාකර වෙනත් එකක් තෝරාගන්න.
+search-keyword-warning-engine = ඔබ තෝරාගත් මූල පදය දැනට "{ $name }" මගින් භාවිතා කරයි. වෙනත් එකක් තෝරන්න.
+search-keyword-warning-bookmark = ඔබ තෝරාගත් මූල පදය දැනට පොත්යොමුවක භාවිතා කෙරේ. වෙනත් එකක් තෝරන්න.
 
 ## Containers Section
 
-containers-header = බහාලුම් ටැබ
-containers-add-button =
-    .label = නව බහාලුමක් එක් කරන්න
-    .accesskey = A
 containers-remove-button =
     .label = ඉවත් කරන්න
 
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
-sync-signedout-caption = ඔබේ ජාලය ඔබ සමඟ ගෙනයන්න
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
