@@ -4,3 +4,5 @@
 
 alert-close =
     .tooltiptext = बे मिथिसारहोनायखौ बन्द खालाम
+alert-settings-title =
+    .tooltiptext = सेटिं
