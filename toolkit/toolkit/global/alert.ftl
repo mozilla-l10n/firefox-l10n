@@ -4,3 +4,5 @@
 
 alert-close =
     .tooltiptext = இந்த அறிவிப்பை மூடவும்
+alert-settings-title =
+    .tooltiptext = அமைவுகள்
