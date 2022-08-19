@@ -14,3 +14,7 @@ callout-primary-complete-button-label = Entendi
 callout-firefox-view-tab-pickup-title = Continue em outro dispositivo com a sincronização de abas
 callout-firefox-view-tab-pickup-subtitle = Pegue rapidamente abas abertas do seu celular e abra aqui para ter um fluxo de trabalho máximo.
 callout-firefox-view-recently-closed-title = Recupere abas fechadas num piscar de olhos
+callout-firefox-view-recently-closed-subtitle = Todas as suas abas fechadas aparecem magicamente aqui. Nunca mais se preocupe com sites fechados acidentalmente.
+callout-firefox-view-colorways-title = Adicione um toque de cores
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Escolha o tom que combina com você nos esquemas de cores. Somente no { -brand-product-name }.
