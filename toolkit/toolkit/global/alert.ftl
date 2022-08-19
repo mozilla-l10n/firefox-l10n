@@ -4,3 +4,5 @@
 
 alert-close =
     .tooltiptext = ਇਹ ਸੂਚਨਾ ਬੰਦ ਕਰੋ
+alert-settings-title =
+    .tooltiptext = ਸੈਟਿੰਗਾਂ
