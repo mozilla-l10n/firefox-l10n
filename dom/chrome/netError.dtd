@@ -3,32 +3,25 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY loadError.label "පිටුව පූරණයේ දෝෂයකි">
-<!ENTITY retry.label "නැවත උත්සාහ කරන්න">
+<!ENTITY retry.label "යළි උත්සාහ කරන්න">
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "සම්බන්ධවීමට අසමත් විය">
-<!ENTITY connectionFailure.longDesc "<p>අඩවිය නිරවද්‍ය ලෙස පෙනුනත්, ගවේශකයට සම්බන්ධ වීමට නොහැකි විය.</p><ul><li>අඩවිය තාවකාලිකව භාවිතය සඳහා නොමැති වියහැකිද? පසුව යළි උත්සාහ කරන්න.</li><li>ඔබට වෙනත් අඩවි වෙත පිවිසීමට අපහසු ද?  පරිගණකයේ ජාල සබඳතාව පිරික්සන්න.</li><li>ඔබගේ පරිගණකය හෝ ජාලය ෆයර්වෝලයක් මඟින් ආරක්‍ෂිත ද? සාවද්‍ය සැකසුම් වෙබ් ගවේෂණයට බාධා ඇති කළ හැක.</li></ul>">
+<!ENTITY connectionFailure.title "සබැඳුමට අසමත් විය">
 
-<!ENTITY deniedPortAccess.title "ආරක්‍ෂක හේතුන් මත පොර්ට් එක අවහිර කර ඇත.">
-<!ENTITY deniedPortAccess.longDesc "<p>ඉල්ලුම් කර තිබෙන ලිපිනය මගින් නියම කර ඇත්තේ සාමාන්‍යයෙන් වෙබ් ගවේෂණය <em>හැර වෙනත්</em> කටයුතු සඳහා යොදාගැනෙන ප්‍රවේශමාර්ගයකි (උ.දා. mozilla.org මත 80 ප්‍රවේශමාර්ගය සඳහා <q>mozilla.org:80</q>) භාවිතය. ඔබේ රැකවරණය හා ආරක්ෂාව උදෙසා බ්‍රවුසරය එම ඉල්ලීම අහෝසි කර තිබේ.</p>">
+<!ENTITY deniedPortAccess.title "ආරක්‍ෂණ හේතුන් මත තොට සීමා කර ඇත.">
 
 <!ENTITY dnsNotFound.title "ලිපිනය හමු නොවුණි">
-<!ENTITY dnsNotFound.longDesc "<p>ලබාදුන් ලිපිනයට අදාල සේවාදායකය ගවේශකයට සොයාගත නොහැක.</p><ul><li>කලාප ලිපිනය යතුරුකරණයේදි ඔබට අතපසු වීමක් සිදු වූවාද ? (උදා: <q><strong>www</strong>.mozilla.org</q> වෙනුවට <q><strong>ww</strong>.mozilla.org</q>)</li><li>මෙම කලාප ලිපිනය පවතින බවට ඔබට විශ්වාස ද?  එහි ලියාපදිංචිය කල්ඉක්ම වී තිබිය හැක.</li><li>ඔබට වෙනත් අඩවි වෙත පිවිසීමට අපහසු ද?  පරිගණකයේ ජාල සබඳත සහ DNS සේවාදායකයේ සැකසුම් පිරික්සන්න.</li><li>ඔබගේ පරිගණකය හෝ ජාලය ෆයර්වෝලයක් මඟින් ආරක්‍ෂිත ද? සාවද්‍ය සැකසුම් වෙබ් ගවේෂණයට බාධා ඇති කළ හැක.</li></ul>">
 
 <!ENTITY fileNotFound.title "ගොනුව හමු නොවුණි">
-<!ENTITY fileNotFound.longDesc "<ul><li>අයිතමය නාමය වෙනස්කර, ඉවත්කර හෝ වෙනත් තැනක ස්ථාපිතව කර තිබිය හැකි?</li><li>දලිපිනයේ අක්‍ෂර වින්‍යාස හෝ වෙනත් ලිවිමේ ගැටලුවක් ද?</li><li>ඉල්ලා සිටි අයිතමය සඳහා ඔබට නිසි ප්‍රවේශ අවසර තිබේද?</li></ul>">
 
-<!ENTITY fileAccessDenied.title "ගොනුව වෙත පිවිසීම අවහිර කර ඇත">
-<!ENTITY fileAccessDenied.longDesc "<ul><li>එය ඉවත් කර හෝ ස්ථාන මාරු කර තිබිය හැකි, හෝ පිවිසුම වළක්වමින් ගොනු අවසර සකසා තිබිය හැක.</li></ul>">
 
-<!ENTITY generic.title "ඉල්ලීම නිම කළ නොහැක">
-<!ENTITY generic.longDesc "<p>මෙම ගැටලුව හෝ දෝෂය පිළිබඳ අමතර තොරතුරු දැනට නොමැත.</p>">
+<!ENTITY generic.title "ඉල්ලීම නිම කළ නොහැකිය">
+<!ENTITY generic.longDesc "<p>මෙම ගැටලුව හෝ දෝෂය පිළිබඳ අතිරේක තොරතුරු දැනට නැත.</p>">
 
-<!ENTITY malformedURI.title "සාවද්‍ය ලිපිය">
-<!ENTITY malformedURI.longDesc "<p>ලබාදුන් ලිපිනය හදුණාගත නොහැකි ආකාරයේ පවති. කරුණාකර අතපසුවීමක් සිදු වි ඇති දැයි පිහිටුම් තීරුවේ පරික්‍ෂා කර, යළි උත්සාහ කරන්න.</p>">
+<!ENTITY malformedURI.title "සාවද්‍ය ලිපියකි">
 
-<!ENTITY netInterrupt.title "දත්ත හුවමාරු කිරීමේ බාධා">
+<!ENTITY netInterrupt.title "දත්ත සම්ප්‍රේෂණයට බාධා විය">
 <!ENTITY netInterrupt.longDesc "<p>ගවේෂකය සාර්ථකව සම්බන්ධ වුවත් දත්ත හුවමාරුවේදි සම්බන්ධතාවට බාධා ඇති විය. කරුණාකර යළි උත්සාහ කරන්න.</p><ul><li>ඔබට වෙනත් අඩවි ගවේෂණය කළ නොහැකිද? පරිගණකයේ ජාල සම්බධතාව පරික්‍ෂා කරන්න.</li><li>ගැටලුව තවදුරටත් පවතීද? සහාය සඳහා ඔබගේ ජාල පරිපාලකගේ හෝ අන්තර්ජාල සැපයුම්කරුගේ උපදෙස් පතන්න.</li></ul>">
 
 <!ENTITY notCached.title "ලේඛනය කල් ඉකුත්වී ඇත">
@@ -78,6 +71,7 @@
 
 <!ENTITY cspBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+
 
 <!ENTITY corruptedContentErrorv2.title "දූශිත අන්තර්ගත දෝශය">
 
