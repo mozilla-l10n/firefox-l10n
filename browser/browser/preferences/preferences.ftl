@@ -462,26 +462,26 @@ history-remember-browser-option =
     .label = පිරික්සුම් සහ බාගැනීමේ ඉතිහාසය තබාගන්න
     .accesskey = b
 history-remember-search-option =
-    .label = සෙවීම් සහ පෝරම අතීතයන් මතක තබාගන්න
+    .label = සෙවුම් හා ආකෘති ඉතිහාසය තබාගන්න
     .accesskey = f
 history-clear-on-close-option =
-    .label = { -brand-short-name } වසන විට අතීතයන් හිස් කරන්න
+    .label = { -brand-short-name } වැසෙන විට ඉතිහාසය මකන්න
     .accesskey = r
 history-clear-on-close-settings =
     .label = සැකසුම්…
     .accesskey = t
 history-clear-button =
-    .label = අතීතය හිස් කරන්න...
+    .label = ඉතිහාසය මකන්න...
     .accesskey = S
 
 ## Privacy Section - Site Data
 
-sitedata-learn-more = තවත් දැනගන්න
+sitedata-learn-more = තව දැනගන්න
 sitedata-clear =
     .label = දත්ත මකන්න...
     .accesskey = l
 sitedata-settings =
-    .label = දත්ත කළමනාකරණය කරන්න...
+    .label = දත්ත කළමනාකරණය...
     .accesskey = M
 
 ## Privacy Section - Address Bar
@@ -489,19 +489,19 @@ sitedata-settings =
 addressbar-header = ලිපින තීරය
 addressbar-suggest = ලිපින තීරුව භාවිත කරන විට, යෝජනා කරන්න
 addressbar-locbar-history-option =
-    .label = සැරිසර අතීතය
+    .label = පිරික්සුම් ඉතිහාසය
     .accesskey = h
 addressbar-locbar-bookmarks-option =
-    .label = පිටු සලකුණු
+    .label = පොත්යොමු
     .accesskey = k
 addressbar-locbar-openpage-option =
-    .label = ටැබ් විවෘත කරන්න
+    .label = පටිති අරින්න
     .accesskey = O
-addressbar-suggestions-settings = සෙවුම් යන්ත්‍රයේ යෝජනා සඳහා අභිරුචි වෙනස් කරන්න
+addressbar-suggestions-settings = සෙවුම් යන්ත්‍රයේ යෝජනා සඳහා අභිප්‍රේත වෙනස් කරන්න
 
 ## Privacy Section - Content Blocking
 
-content-blocking-learn-more = තවත් දැනගන්න
+content-blocking-learn-more = තව දැනගන්න
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -514,7 +514,7 @@ enhanced-tracking-protection-setting-strict =
     .label = දැඩි
     .accesskey = r
 enhanced-tracking-protection-setting-custom =
-    .label = රිසිකළ
+    .label = අභිරුචි
     .accesskey = C
 
 ##
@@ -522,58 +522,51 @@ enhanced-tracking-protection-setting-custom =
 
 ## Privacy Section - Tracking
 
-tracking-manage-exceptions =
-    .label = හැරදැමීම් කළමනාකරණය
-    .accesskey = x
 
 ## Privacy Section - Permissions
 
-permissions-header = අවසරයන්
+permissions-header = අවසර
 permissions-location = ස්ථානය
 permissions-location-settings =
-    .label = සිටුවම්...
+    .label = සැකසුම්…
     .accesskey = t
-permissions-camera = කැමරාව
 permissions-camera-settings =
-    .label = සිටුවම්...
+    .label = සැකසුම්…
     .accesskey = t
-permissions-microphone = මයික්‍රොෆෝනය
+permissions-microphone = ශබ්දවාහිනිය
 permissions-microphone-settings =
-    .label = සිටුවම්...
+    .label = සැකසුම්…
     .accesskey = t
 permissions-notification = දැනුම්දීම්
 permissions-notification-settings =
-    .label = සිටුවම්...
+    .label = සැකසුම්…
     .accesskey = t
-permissions-notification-link = තවත් දැනගන්න
+permissions-notification-link = තව දැනගන්න
 permissions-notification-pause =
-    .label = { -brand-short-name } යළි ඇරඹේන තෙක්දැ නුම්දීම් මඳක් නවතන්න
+    .label = { -brand-short-name } යළි අරඹන තෙක් දැනුම්දීම් නවතන්න
     .accesskey = n
 permissions-block-popups =
-    .label = පොප්-අප් කවුළු වලකන්න
+    .label = උත්පතන කවුළු වලක්වන්න
     .accesskey = B
 permissions-addon-install-warning =
-    .label = වෙබ්අඩවි ඇඩෝන ස්ථාපනයට සැරසෙන විට ඔබට අවවාද කරන්න
+    .label = අඩවි එක්කහු ස්ථාපනයට සැරසෙන විට දන්වන්න
     .accesskey = W
-permissions-addon-exceptions =
-    .label = හැරදැමීම්...
-    .accesskey = E
 
 ## Privacy Section - Data Collection
 
-collection-privacy-notice = පෞද්ගලිකත්ව දැනුම්දීම
-collection-health-report-link = තවත් දැනගන්න
-addon-recommendations-link = තවත් දැනගන්න
+collection-privacy-notice = පෞද්ගලිකත්ව දැන්වීම
+collection-health-report-link = තව දැනගන්න
+addon-recommendations-link = තව දැනගන්න
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
-security-header = ආරක්ෂාව
-security-enable-safe-browsing-link = තවත් දැනගන්න
+security-header = ආරක්‍ෂාව
+security-enable-safe-browsing-link = තව දැනගන්න
 security-block-downloads =
-    .label = භයානක බාගත කිරීම් අවහිර කරන්න
+    .label = භයානක බාගැනීම් අවහිර කරන්න
     .accesskey = d
 security-block-uncommon-software =
     .label = අනවශ්‍ය සහ අසාමාන්‍ය මෘදුකාංග ගැන අනතුරු අඟවන්න
