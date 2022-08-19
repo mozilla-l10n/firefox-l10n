@@ -87,42 +87,39 @@ containers-disable-alert-cancel-button = සබලව තබන්න
 ## General Section - Language & Appearance
 
 language-and-appearance-header = භාෂාව සහ පෙනුම
-default-font = පෙරනිමි ෆොන්ටය
+default-font = පෙරනිමි අකුර
     .accesskey = D
-default-font-size = විශාලත්වය
+default-font-size = තරම
     .accesskey = S
 advanced-fonts =
-    .label = වැඩිමනත්...
+    .label = වැඩිදුර...
     .accesskey = A
 language-header = භාෂාව
-choose-language-description = පිටු දර්ශනය සඳහා ඔබට උචිත භාෂාව තෝරන්න
+choose-language-description = පිටු පෙන්වීම සඳහා ඔබ කැමති භාෂාව තෝරන්න
 choose-button =
     .label = තෝරන්න…
     .accesskey = o
 translate-web-pages =
-    .label = ජාල අන්තර්ගතය පරිවර්තනය
+    .label = වියමන අන්තර්ගතය පරිවර්තනය
     .accesskey = T
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = පරිවර්තනය කළේ <img data-l10n-name="logo"/>
-translate-exceptions =
-    .label = හැරදැමීම්...
-    .accesskey = x
 check-user-spelling =
-    .label = ඔබ යතුරු ලියන අතර අක්ෂර වින්‍යාසය පිරික්සන්න
+    .label = ඔබ ලියන විට අකුරු වින්‍යාසය බලන්න
     .accesskey = t
 
 ## General Section - Files and Applications
 
-files-and-applications-title = ගොනු හා යෙදවුම්
-download-header = බාගැනිම්
-download-save-where = ගොනු සුරකින්නේ
+files-and-applications-title = ගොනු සහ යෙදුම්
+download-header = බාගැනීම්
+download-save-where = වෙත ගොනු සුරකින්න
     .accesskey = v
 download-choose-folder =
     .label =
         { PLATFORM() ->
             [macos] තෝරන්න...
-           *[other] ගවේෂණය...
+           *[other] පිරික්සන්න...
         }
     .accesskey =
         { PLATFORM() ->
@@ -130,17 +127,17 @@ download-choose-folder =
            *[other] o
         }
 download-always-ask-where =
-    .label = ගොනු සුරකින්නේ කොතනටද යන්න සැමවිටම ඔබෙන් විමසන්න
+    .label = ගොනු සුරැකිය යුතු තැන සැමවිටම අසන්න
     .accesskey = A
 applications-header = යෙදුම්
-applications-description = ඔබ ජාලයෙන් බාගන්නා ගොනු හා ගවේෂණයේදී භාවිත කරන යෙදුම් { -brand-short-name } විසින් හසුරුවන්නේ කෙසේදැයි තෝරන්න.
+applications-description = වියමන වෙතින් බාගත කරන ගොනු හෝ ඔබ පිරික්සන අතරතුර භාවිතා කරන යෙදුම් { -brand-short-name } හසුරුවන්නේ කෙසේදැයි තෝරන්න.
 applications-filter =
     .placeholder = ගොනු වර්ග හෝ යෙදුම් සොයන්න
 applications-type-column =
     .label = අන්තර්ගත වර්ගය
     .accesskey = T
 applications-action-column =
-    .label = ක්‍රියාව
+    .label = ක්‍රියාමාර්ගය
     .accesskey = A
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
@@ -150,18 +147,18 @@ applications-action-save =
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
-    .label = { $app-name } භාවිත කරන්න
+    .label = { $app-name } භාවිතා කරන්න
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
-    .label = { $app-name } (පෙරනිමිය) භාවිත කරන්න
+    .label = { $app-name } (පෙරනිමි) භාවිතා කරන්න
 applications-use-other =
-    .label = වෙනත් යෙදුමක් භාවිතා කරන්න…
+    .label = අන් දෑ භාවිතා කරන්න…
 applications-select-helper = සහායක යෙදුම තෝරන්න
 applications-manage-app =
-    .label = යෙදුම් විස්තර…
+    .label = යෙදුමේ විස්තර…
 applications-always-ask =
-    .label = නිතර අසන්න
+    .label = සෑමවිට අසන්න
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
@@ -169,7 +166,7 @@ applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
-    .label = { $plugin-name } ({ -brand-short-name } තුළ) භාවිතා කරන්න
+    .label = ({ -brand-short-name } තුළ) { $plugin-name } භාවිතා කරන්න
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -191,15 +188,15 @@ applications-use-other-label =
 ##
 
 play-drm-content =
-    .label = DRM-පාලිත අන්තර්ගතය ධාවනය කරන්න
+    .label = DRM-පාලිත අන්තර්ගත වාදනය
     .accesskey = P
-play-drm-content-learn-more = තවත් දැනගන්න
+play-drm-content-learn-more = තව දැනගන්න
 update-application-title = { -brand-short-name } යාවත්කාල
 update-history =
-    .label = යාවත් ඉතිහාසය පෙන්වන්න…
+    .label = යාවත්කාල ඉතිහාසය පෙන්වන්න...
     .accesskey = p
 update-application-auto =
-    .label = ස්වයංක්‍රීයව යාවත් ස්ථාපනය කරන්න (නිර්දේශිත)
+    .label = ස්වයංක්‍රීයව යාවත්කාල ස්ථාපනය (නිර්දේශිතයි)
     .accesskey = A
 update-application-check-choose =
     .label = යාවත් සඳහා සොයන්න නමුත් ස්ථාපනය සඳහා ඔබෙන් විමසන්න
