@@ -490,6 +490,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox-startside (standard)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (Standard)
 home-mode-choice-custom =
     .label = Tilpassede URL'er…
 home-mode-choice-blank =

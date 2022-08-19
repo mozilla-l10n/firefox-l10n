@@ -14,3 +14,21 @@ firefoxview-close-button =
     .aria-label = Luk
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Nu
+firefoxview-tabpickup-description = Åbn sider fra andre enheder.
+firefoxview-tabpickup-recenttabs-description = Listen over seneste faneblade vil blive vist her
+# Variables:
+#  $percentValue (Number): the percentage value for setup completion
+firefoxview-tabpickup-progress-label = { $percentValue }% færdig
+firefoxview-tabpickup-step-signin-header = Skift nemt mellem enheder
+firefoxview-tabpickup-step-signin-description = For at hente faneblade fra din telefon skal du først logge ind eller oprette en konto.
+firefoxview-tabpickup-step-signin-primarybutton = Fortsæt
+firefoxview-tabpickup-adddevice-header = Synkroniser { -brand-product-name } på din telefon eller tablet
+firefoxview-tabpickup-adddevice-description = Hent { -brand-product-name } til mobil og login på din telefon.
+firefoxview-tabpickup-adddevice-learn-how = Læs hvordan
+firefoxview-tabpickup-adddevice-primarybutton = Hent { -brand-product-name } til mobilen
+firefoxview-tabpickup-synctabs-header = Slå synkronisering af faneblade til
+firefoxview-tabpickup-synctabs-description = Tillad { -brand-short-name } at dele faneblade mellem enheder.
+firefoxview-tabpickup-synctabs-learn-how = Læs hvordan
+firefoxview-tabpickup-synctabs-primarybutton = Synkroniser åbne faneblade
+firefoxview-tabpickup-fxa-admin-disabled-header = Din organisation har deaktiveret synkronisering
+firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kan ikke synkronisere faneblade mellem enheder, fordi din administrator har deaktiveret synkronisering.
