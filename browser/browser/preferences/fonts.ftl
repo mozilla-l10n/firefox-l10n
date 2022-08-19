@@ -3,8 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fonts-window =
-    .title = අකුරු හැඩ
-
+    .title = මුද්‍රණඅකුරු
 fonts-window-close =
     .key = w
 
@@ -13,19 +12,19 @@ fonts-window-close =
 fonts-langgroup-arabic =
     .label = අරාබි
 fonts-langgroup-armenian =
-    .label = ඇමරිකානු
+    .label = ආමේනියානු
 fonts-langgroup-bengali =
-    .label = බෙංගාලී
+    .label = බෙංගාලි
 fonts-langgroup-simpl-chinese =
     .label = සම්ප්‍රදායික චීන
 fonts-langgroup-trad-chinese-hk =
-    .label = සම්ප්‍රදායික චීන (හොංග් කොංග්)
+    .label = සම්ප්‍රදායික චීන (හොංකොං)
 fonts-langgroup-trad-chinese =
-    .label = සම්ප්‍රදායික චීන(තායිවානු)
+    .label = සම්ප්‍රදායික චීන (තායිවානය)
 fonts-langgroup-cyrillic =
     .label = සිරිලික්
 fonts-langgroup-devanagari =
-    .label = දෙවනගිරි
+    .label = දේවනාගරි
 fonts-langgroup-ethiopic =
     .label = ඊතියෝපියානු
 fonts-langgroup-georgian =
@@ -74,29 +73,18 @@ fonts-langgroup-other =
 
 fonts-proportional-header = සමානුපාතික:
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans-serif
-
 fonts-proportional-size = විශාලත්වය
     .accesskey = z
-
 fonts-monospace-size = විශාලත්වය
     .accesskey = e
-
 fonts-minsize = අවම අකුරු විශාලත්වය:
     .accesskey = o
-
 fonts-minsize-none =
     .label = කිසිවක් නැත
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
