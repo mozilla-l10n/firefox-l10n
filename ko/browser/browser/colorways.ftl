@@ -6,7 +6,7 @@
 ## Colorway collections
 
 colorway-collection-independent-voices = 독립적인 목소리
-colorway-collection-independent-voices-description = 색상은 문화를 바꿀 수 있습니다. 최신 컬러웨이는 세상을 더 나은 곳으로 만드는 목소리를 기념합니다.
+colorway-collection-independent-voices-description = 색상은 문화를 바꿀 수 있습니다. 최신 컬러웨이는 세상을 더 나은 곳으로 만듭니다.
 # Used as a subheading for the colorway collection card in about:addons
 colorway-collection-independent-voices-short-description = 문화를 바꾸는 색상.
 
