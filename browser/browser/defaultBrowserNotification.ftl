@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = להפוך את { -brand-short-name } לדפדפן הראשי שלך?
 default-browser-prompt-message-pin = כדי לשמור את { -brand-short-name } קרוב אליך — מומלץ להגדיר אותו כדפדפן ברירת המחדל ולהצמיד אותו לשורת המשימות.
+default-browser-prompt-message-pin-mac = כדי לשמור את { -brand-short-name } קרוב אליך — מומלץ להגדיר אותו כדפדפן ברירת המחדל לשמור אותו ב־Dock שלך.
 default-browser-prompt-button-primary-pin = הגדרה כדפדפן הראשי
 default-browser-prompt-title-alt = להפוך את { -brand-short-name } לדפדפן ברירת המחדל שלך?
 default-browser-prompt-message-alt = קבלת מהירות, בטיחות ופרטיות בכל פעם שגולשים ברשת.
