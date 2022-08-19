@@ -242,7 +242,7 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = 날짜, 시간, 숫자 및 측정 단위 형식에 “{ $localeName }”에 대한 운영 체제 설정을 사용
+    .label = 날짜, 시간, 숫자 및 측정 단위에 운영 체제의 “{ $localeName }” 형식을 사용
 check-user-spelling =
     .label = 입력할 때 맞춤법 검사
     .accesskey = t
