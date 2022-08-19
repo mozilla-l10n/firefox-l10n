@@ -2,52 +2,37 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = හැරදැමීම්
-    .style = width: 45em
-
 permissions-close-key =
     .key = w
-
-permissions-address = ජාල අඩවියේ ලිපිනය
+permissions-address = අඩවියේ ලිපිනය
     .accesskey = d
-
 permissions-block =
-    .label = වලකන්න
+    .label = අවහිර
     .accesskey = B
-
 permissions-session =
-    .label = සැසියට ඉඩදෙන්න
+    .label = වාරයට ඉඩදෙන්න
     .accesskey = S
-
 permissions-allow =
     .label = ඉඩ දෙන්න
     .accesskey = A
-
 permissions-site-name =
-    .label = ජාල අඩවිය
-
+    .label = අඩවිය
 permissions-status =
-    .label = තත්ත්වය
-
+    .label = තත්‍වය
 permissions-remove =
-    .label = ජාල අඩවිය ඉවත් කරන්න
+    .label = අඩවිය ඉවත් කරන්න
     .accesskey = R
-
 permissions-remove-all =
-    .label = සියලුම ජාල අඩවි ඉවත් කරන්න
+    .label = සියළු අඩවි ඉවත් කරන්න
     .accesskey = e
-
 permissions-searchbox =
     .placeholder = වෙබ් අඩවිය සොයන්න
-
 permissions-capabilities-allow =
     .label = අනුමත කරන්න
 permissions-capabilities-block =
     .label = අවහිර කරන්න
 permissions-capabilities-prompt =
     .label = සෑමවිටම විමසන්න
-
 permissions-capabilities-listitem-allow =
     .value = අනුමත කරන්න
 permissions-capabilities-listitem-block =
@@ -68,6 +53,7 @@ permissions-invalid-uri-label = නිවැරදි ධාරක නමක් 
 
 ## Exceptions - HTTPS-Only Mode
 
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = උපත්තන කවුළු විවෘත කිරීම අවසර ඇති වෙබ් අඩවි ඔබට නිර්ණය කල හැක. ඔබට කළමනාකරණය කිරීමට අවශ්‍ය ඒවායේ නිවැරදි ලිපිනය ඇතුළත් කර අවහිර කරන්න හෝ  අනුමත කරන්න ක්ලික් කරන්න.
@@ -79,10 +65,8 @@ permissions-exceptions-popup-desc = උපත්තන කවුළු විව
 
 permissions-exceptions-addons-desc = ඇඩෝන ස්ථාපනයට අවසර ඇති වෙබ් අඩවි ඔබට නිර්ණය කල හැක. ඔබට කළමනාකරණය කිරීමට අවශ්‍ය ඒවායේ නිවැරදි ලිපිනය ඇතුළත් කර අවහිර කරන්න හෝ  අනුමත කරන්න ක්ලික් කරන්න.
 
-## Exceptions - Autoplay Media
-
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -91,6 +75,7 @@ permissions-exceptions-addons-desc = ඇඩෝන ස්ථාපනයට අ�
 
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 
