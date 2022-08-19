@@ -917,7 +917,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = 검색 엔진
     .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = 빠른 작업
+    .accesskey = Q
 addressbar-suggestions-settings = 검색 엔진 제안 설정 변경
+addressbar-quickactions-learn-more = 더 알아보기
 
 ## Privacy Section - Content Blocking
 
