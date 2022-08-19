@@ -928,7 +928,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = מנועי חיפוש
     .accesskey = מ
+addressbar-locbar-quickactions-option =
+    .label = פעולות מהירות
+    .accesskey = פ
 addressbar-suggestions-settings = שינוי העדפות של הצעות מנועי חיפוש
+addressbar-quickactions-learn-more = מידע נוסף
 
 ## Privacy Section - Content Blocking
 
