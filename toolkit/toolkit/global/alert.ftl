@@ -4,3 +4,5 @@
 
 alert-close =
     .tooltiptext = Бұл хабарламаны жабу
+alert-settings-title =
+    .tooltiptext = Баптаулар
