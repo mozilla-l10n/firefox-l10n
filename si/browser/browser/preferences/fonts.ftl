@@ -42,7 +42,7 @@ fonts-langgroup-hebrew =
 fonts-langgroup-kannada =
     .label = කන්නඩ
 fonts-langgroup-khmer =
-    .label = ක්මේර්
+    .label = ක්හේමර්
 fonts-langgroup-korean =
     .label = කොරියානු
 # Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
@@ -57,37 +57,37 @@ fonts-langgroup-odia =
 fonts-langgroup-sinhala =
     .label = සිංහල
 fonts-langgroup-tamil =
-    .label = දමිළ
+    .label = දෙමළ
 fonts-langgroup-telugu =
-    .label = තෙලිගු
+    .label = තෙළිඟු
 fonts-langgroup-thai =
     .label = තායි
 fonts-langgroup-tibetan =
-    .label = Tibetan
+    .label = ටිබෙට්
 fonts-langgroup-canadian =
-    .label = Unified Canadian Syllabary
+    .label = අනුමත කැනේඩියානු අකුරු මාලාව
 fonts-langgroup-other =
-    .label = වෙනත් ලිවීම් පද්ධති
+    .label = වෙනත් ලිවීමේ පද්ධති
 
 ## Default fonts and their sizes
 
-fonts-proportional-header = සමානුපාතික:
+fonts-proportional-header = සමානුපාතික
     .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
-    .label = Sans-serif
-fonts-proportional-size = විශාලත්වය
+    .label = Sans Serif
+fonts-proportional-size = ප්‍රමාණය
     .accesskey = z
-fonts-monospace-size = විශාලත්වය
+fonts-monospace-size = ප්‍රමාණය
     .accesskey = e
-fonts-minsize = අවම අකුරු විශාලත්වය:
+fonts-minsize = අකුරේ අවම ප්‍රමාණය
     .accesskey = o
 fonts-minsize-none =
     .label = කිසිවක් නැත
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
-    .label = පෙරනිමිය ({ $name })
+    .label = පෙරනිමි ({ $name })
 fonts-label-default-unnamed =
     .label = පෙරනිමි
