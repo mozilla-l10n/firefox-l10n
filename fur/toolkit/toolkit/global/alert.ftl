@@ -4,3 +4,5 @@
 
 alert-close =
     .tooltiptext = Siere cheste notifiche
+alert-settings-title =
+    .tooltiptext = Impostazions
