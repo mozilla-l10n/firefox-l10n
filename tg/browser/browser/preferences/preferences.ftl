@@ -932,7 +932,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Низомҳои ҷустуҷӯӣ
     .accesskey = Н
+addressbar-locbar-quickactions-option =
+    .label = Амалҳои зуд
+    .accesskey = А
 addressbar-suggestions-settings = Иваз кардани хусусиятҳо барои пешниҳодҳои низоми ҷустуҷӯӣ
+addressbar-quickactions-learn-more = Маълумоти бештар
 
 ## Privacy Section - Content Blocking
 
