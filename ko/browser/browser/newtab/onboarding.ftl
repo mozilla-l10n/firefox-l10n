@@ -223,6 +223,7 @@ mr2-onboarding-start-browsing-button-label = 탐색 시작
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = 언어를 선택하세요
+mr2022-onboarding-live-language-text = { -brand-short-name }는 사용자의 언어로 표시합니다
 mr2022-language-mismatch-subtitle = 커뮤니티 덕분에 { -brand-short-name }는 90개 이상의 언어로 번역되었습니다. 사용자의 시스템은 { $systemLanguage } 언어를 사용 중이고 { -brand-short-name }는 { $appLanguage } 언어를 사용하고 있는 것 같습니다.
 onboarding-live-language-button-label-downloading = { $negotiatedLanguage }용 언어 팩 다운로드 중…
 onboarding-live-language-waiting-button = 사용 가능한 언어를 가져오는 중…
