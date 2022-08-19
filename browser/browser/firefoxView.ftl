@@ -5,6 +5,9 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+menu-tools-firefox-view =
+    .label = { -firefoxview-brand-name }
+    .accesskey = r
 firefoxview-page-title = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Luk

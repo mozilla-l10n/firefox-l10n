@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Håndter udvidelse…
 page-action-remove-extension =
     .label = Fjern udvidelse
+page-action-manage-extension2 =
+    .label = Håndter udvidelser…
+    .accesskey = H
+page-action-remove-extension2 =
+    .label = Fjern udvidelse
+    .accesskey = v
 
 ## Auto-hide Context Menu
 
@@ -278,6 +284,7 @@ quickactions-clearhistory = Ryd historik
 quickactions-cmd-clearhistory = ryd historik
 # Opens about:downloads page
 quickactions-downloads = Åbn Filhentninger
+quickactions-cmd-downloads = hentede filer, filhentninger
 # Opens the devtools web inspector
 quickactions-inspector = Åbn Inspektør
 quickactions-cmd-inspector = inspektør, udviklerværktøj
