@@ -3,17 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 reload-tab =
-    .label = ටැබ් ප්‍රතිපූරණය කරන්න
+    .label = පටිත්ත යළි පූරණය
     .accesskey = R
 tab-context-play-tab =
-    .label = ටැබය ධාවනය කරන්න
+    .label = පටිත්ත වාදනය
     .accesskey = l
 tab-context-play-tabs =
-    .label = ටැබ ධාවනය කරන්න
+    .label = පටිති  වාදනය
     .accesskey = y
 duplicate-tab =
-    .label = ටැබ පිටපතක්
+    .label = පටිත්තෙහි පිටපතක්
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = දකුණට ඇති ටැබ වසන්න
     .accesskey = i

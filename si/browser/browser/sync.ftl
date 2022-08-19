@@ -4,5 +4,4 @@
 
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
-    .label = උපාංග සමමුහුර්ත කරමින්…
-
+    .label = උපාංග සමමුහූර්ත වෙමින්...
