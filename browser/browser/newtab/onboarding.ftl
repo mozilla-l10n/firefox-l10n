@@ -257,11 +257,18 @@ mr2-onboarding-start-browsing-button-label = Inizia a navigare
 
 onboarding-live-language-header = Scegli la tua lingua
 
+mr2022-onboarding-live-language-text = { -brand-short-name } parla la tua lingua
+
+mr2022-language-mismatch-subtitle = Grazie alla nostra comunità, { -brand-short-name } è tradotto in oltre 90 lingue. Sembra che il tuo sistema utilizzi { $systemLanguage }, mentre { -brand-short-name } sta utilizzando { $appLanguage }.
+
 onboarding-live-language-button-label-downloading = Download del pacchetto lingua per { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Recupero elenco delle lingue disponibili…
 onboarding-live-language-installing = Installazione del pacchetto lingua per { $negotiatedLanguage }…
 onboarding-live-language-secondary-cancel-download = Annulla
 onboarding-live-language-skip-button-label = Salta
+
+mr2022-onboarding-live-language-switch-to = Passa a { $negotiatedLanguage }
+mr2022-onboarding-live-language-continue-in = Continua in { $appLanguage }
 
 ## Firefox 100 Thank You screens
 
