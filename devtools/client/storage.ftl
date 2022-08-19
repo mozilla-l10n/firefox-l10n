@@ -7,15 +7,12 @@
 
 # Key shortcut used to focus the filter box on top of the data view
 storage-filter-key = CmdOrCtrl+F
-
 # Placeholder for the searchbox that allows you to filter the table items
 storage-search-box =
-    .placeholder = අයිතම පෙරන්න
-
+    .placeholder = අංග පෙරන්න
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = අගයන් පෙරන්න
-
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = සියල්ල මකන්න
@@ -25,23 +22,17 @@ storage-context-menu-delete-all =
 
 storage-table-headers-cookies-name = නම
 storage-table-headers-cookies-value = අගය
-storage-table-headers-cache-status = තත්ත්වය
+storage-table-headers-cache-status = තත්‍වය
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
-storage-tree-labels-cookies = කුකී
-storage-tree-labels-local-storage = දේශීය ආචයන
-storage-tree-labels-session-storage = වාර ආචයනය
+storage-tree-labels-local-storage = ස්ථානීය ආචයනය
+storage-tree-labels-session-storage = වාරය ආචයනය
 storage-tree-labels-indexed-db = සූචිගත DB
 
 ##
 
 # String displayed in the expires column when the cookie is a Session Cookie
-storage-expires-session = සැසිය
-
+storage-expires-session = වාරය
 # Heading displayed over the item value in the sidebar
 storage-data = දත්ත
-
-# Heading displayed over the item parsed value in the sidebar
-storage-parsed-value = ඛණ්ඩනය කළ අගය
-
