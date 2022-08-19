@@ -10,22 +10,21 @@
 
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
-options-select-additional-tools-label = ඇඩෝන මඟින් ස්තහාපනය කල සනඟවර්දහක මෙවලම්
+options-select-additional-tools-label = එක්කහු මඟින් ස්ථාපිත සංවර්ධක මෙවලම්
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = තේමා
 
 ## Inspector section
 
 # The heading
-options-context-inspector = Inspector
+options-context-inspector = පරීක්‍ෂකය
 # The label for the checkbox option to show user agent styles
-options-show-user-agent-styles-label = ගවේශක මෝස්තර පෙන්වන්න
+options-show-user-agent-styles-label = අතිරික්සුවේ ශෛලීන් පෙන්වන්න
 options-show-user-agent-styles-tooltip =
-    .title = මෙය කරියාත්ම කිරීමෙන් ගවේශයකයෙන් පූර්ණය කල පෙරනිමි මෝස්තර පෙන්වනු  ඇත.
+    .title = සක්‍රිය කළහොත් අතිරික්සුවෙන් පූරණය වන පෙරනිමි ශෛලීන් පෙන්වයි.
 
 ## "Default Color Unit" options for the Inspector
 
-options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL
 options-default-color-unit-name = වර්ණ නාම
 
