@@ -4,3 +4,5 @@
 
 alert-close =
     .tooltiptext = Tampar aquesta notificacion
+alert-settings-title =
+    .tooltiptext = Paramètres
