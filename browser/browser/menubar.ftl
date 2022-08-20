@@ -117,6 +117,9 @@ menu-view-full-zoom-enlarge =
 menu-view-full-zoom-reduce =
     .label = කුඩාලනය
     .accesskey = O
+menu-view-full-zoom-actual-size =
+    .label = සැබෑ ප්‍රමාණය
+    .accesskey = A
 menu-view-full-zoom-toggle =
     .label = පෙළ පමණක් විශාලනය
     .accesskey = T
@@ -202,6 +205,9 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = පිටුවේ තොරතුරු
     .accesskey = I
+menu-tools-layout-debugger =
+    .label = පිරිසැලසුම නිදොස්කරණය
+    .accesskey = L
 
 ## Window Menu
 

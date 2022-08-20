@@ -6,6 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = නිර්දේශිත දිගුව
+cfr-doorhanger-feature-heading = නිර්දේශිත විශේෂාංගය
 
 ##
 
@@ -23,6 +24,14 @@ cfr-doorhanger-extension-learn-more-link = තව දැනගන්න
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = නිර්දේශය
+cfr-doorhanger-extension-notification2 = නිර්දේශය
+    .tooltiptext = නිර්දේශිත දිගු
+    .a11y-announcement = නිර්දේශිත දිගු තිබේ
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = නිර්දේශ
+    .tooltiptext = නිර්දේශිත විශේෂාංග
+    .a11y-announcement = නිර්දේශිත විශේෂාංග තිබේ
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -38,15 +47,28 @@ cfr-doorhanger-extension-total-users =
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = බොත්තම වසන්න
+    .title = වසන්න
 
 ## Protections panel
 
+cfr-protections-panel-link-text = තව දැනගන්න
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = නව විශේෂාංගය:
+cfr-whatsnew-button =
+    .label = අළුත් දෑ
+    .tooltiptext = අළුත් දෑ
+cfr-whatsnew-release-notes-link-text = නිකුතු සටහන් කියවන්න
 
 ## Enhanced Tracking Protection Milestones
 
+cfr-doorhanger-milestone-ok-button = සියල්ල බලන්න
+    .accesskey = S
 
 ## DOH Message
 

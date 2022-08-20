@@ -79,6 +79,14 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = අනවරත ආචයනයේ දත්ත ගබඩා කරන්න
 urlbar-addons-notification-anchor =
     .tooltiptext = එක්කහු ස්ථාපන පණිවිඩ මඬල අරින්න
+urlbar-tip-help-icon =
+    .title = උදව් ගන්න
+urlbar-search-tips-confirm = හරි, තේරුණා
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = ඉඟිය:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -120,6 +128,8 @@ urlbar-star-add-bookmark =
 
 page-action-manage-extension =
     .label = දිගුව කළමනාකරණය...
+page-action-remove-extension =
+    .label = දිගුව ඉවත් කරන්න
 
 ## Auto-hide Context Menu
 
@@ -175,6 +185,14 @@ bookmark-panel-remove =
            *[other] පොත්යොමු { $count } ක් මකන්න
         }
     .accesskey = R
+bookmark-panel-show-editor-checkbox =
+    .label = සුරකින විට සංස්කරකය පෙන්වන්න
+    .accesskey = S
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
 
 ## Identity Panel
 
@@ -210,6 +228,10 @@ identity-more-info-link-text =
 ## Window controls
 
 browser-window-minimize-button =
+    .tooltiptext = හකුළන්න
+browser-window-maximize-button =
+    .tooltiptext = විහිදන්න
+browser-window-restore-down-button =
     .tooltiptext = හකුළන්න
 browser-window-close-button =
     .tooltiptext = වසන්න
