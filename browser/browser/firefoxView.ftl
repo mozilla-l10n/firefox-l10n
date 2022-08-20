@@ -31,12 +31,10 @@ firefoxview-tabpickup-fxa-admin-disabled-header = Synchronizace je zakázána va
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nemůže synchronizovat panely mezi zařízeními, protože je to synchronizace zakázána vaším správcem.
 firefoxview-tabpickup-network-offline-header = Zkontrolujte své připojení k Internetu
 firefoxview-tabpickup-network-offline-primarybutton = Zkusit znovu
-firefoxview-tabpickup-sync-error-description = { -brand-short-name } se nyní nemůže spojit se serverem. Zkuste to prosím za chvíli znovu.
+firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } se nyní nemůže spojit se službou pro synchronizaci. Zkuste to prosím za chvíli znovu.
 firefoxview-tabpickup-sync-error-primarybutton = Zkusit znovu
 firefoxview-mobile-confirmation-header = 🎉 Jdeme na to!
 firefoxview-closed-tabs-title = Nedávno zavřené
-firefoxview-closed-tabs-collapse-button =
-    .title = Zobrazit nebo skrýt seznam nedávno zavřených panelů
 firefoxview-closed-tabs-description = Znovu otevřete stránky, které jste na tomto zařízení zavřeli.
 firefoxview-closed-tabs-placeholder = <strong>V poslední době jste nezavřeli žádné panely</strong><br/>Už se nemusíte bát, že přijdete o zavřené panely. Tady je vždy najdete.
 # refers to the last tab that was used
@@ -59,3 +57,7 @@ firefoxview-synced-tabs-placeholder =
         [neuter] <strong>Zatím tu nic není</strong><br/>Až příště ve { -brand-product-name(case: "loc") } na jiném zařízení otevřete nějakou stránku, můžete si ji tu vyzvednout.
        *[other] <strong>Zatím tu nic není</strong><br/>Až příště v aplikaci { -brand-product-name } na jiném zařízení otevřete nějakou stránku, můžete si ji tu vyzvednout.
     }
+firefoxview-collapse-button-show =
+    .title = Zobrazit seznam
+firefoxview-collapse-button-hide =
+    .title = Skrýt seznam

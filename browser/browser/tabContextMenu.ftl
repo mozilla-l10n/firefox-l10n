@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Přidat panel do záložek
     .accesskey = P
+tab-context-bookmark-tab =
+    .label = Přidat panel do záložek…
+    .accesskey = P
 tab-context-open-in-new-container-tab =
     .label = Otevřít v novém kontejnerovém panelu
     .accesskey = e
@@ -105,7 +108,6 @@ tab-context-move-tabs =
            *[other] { $tabCount } panelů
         }
     .accesskey = s
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

@@ -1104,7 +1104,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Vyhledávače
     .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = Rychlé akce
+    .accesskey = R
 addressbar-suggestions-settings = Nastavit našeptávání dotazů pro vyhledávač
+addressbar-quickactions-learn-more = Zjistit více
 
 ## Privacy Section - Content Blocking
 

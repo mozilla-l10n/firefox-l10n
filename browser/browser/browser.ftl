@@ -751,6 +751,8 @@ bookmarks-tools =
     .label = Nástroje pro práci se záložkami
 bookmarks-bookmark-edit-panel =
     .label = Upravit záložku
+bookmarks-subview-edit-bookmark =
+    .label = Upravit záložku…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -767,6 +769,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Přidat současný panel do záložek
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Přidat současný panel do záložek…
 
 ## Library Panel items
 
