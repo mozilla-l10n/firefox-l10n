@@ -61,6 +61,7 @@ appmenu-help-more-troubleshooting-info =
 
 ## Message header cutomize panel
 
+message-header-customize-panel-title = Innstillingar for meldingshovud
 message-header-button-style-default =
     .label = Ikon og tekst
 message-header-button-style-text =

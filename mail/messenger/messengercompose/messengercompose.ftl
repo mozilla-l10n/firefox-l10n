@@ -91,6 +91,12 @@ button-return-receipt =
 
 ## Encryption
 
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = Vis eller endre krypteringsinnstillingar forOpenPGP
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = Vis eller endre krypteringsinnstillingar for S/MIME
 
 ## Addressing Area
 
