@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
+fxaccounts-sign-in-sync-button = සමමුහූර්තයට පිවිසෙන්න
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -22,15 +23,24 @@ about-logins-menu-menuitem-help = උදව්
 
 login-list =
     .aria-label = සෙවුම් විමසුමට ගැළපෙන පිවිසුම්
+login-list-username-option = පරිශීලක නාමය (අ-ෆ)
+login-list-username-reverse-option = පරිශීලක නාමය (ෆ-අ)
 about-logins-login-list-empty-search-title = පිවිසුම් හමු නොවුණි
 about-logins-login-list-empty-search-description = ඔබගේ සෙවුමට ගැළපෙන ප්‍රතිඵල නැත.
 login-list-item-title-new-login = නව පිවිසුම
 login-list-item-subtitle-new-login = ඔබගේ පිවිසුම් අක්තපත්‍ර යොදන්න
 login-list-item-subtitle-missing-username = (පරිශීලක නාමය නැත)
+about-logins-list-section-nothing = ඇඟවීම් නැත
+about-logins-list-section-today = අද
+about-logins-list-section-yesterday = ඊයේ
+about-logins-list-section-week = පසුගිය දවස් 7
 
 ## Introduction screen
 
 about-logins-login-intro-heading-logged-in = සමමුහූර්ත පිවිසුම් හමු නොවිණි.
+login-intro-instructions-fxa-settings = සැකසුම් > සමමුහූර්තය > සමමුහූර්තය සක්‍රිය කරන්න... වෙත ගොස් පිවිසුම් හා මුරපද කොටුව තෝරන්න.
+login-intro-instructions-fxa-passwords-help = උපකාර සඳහා <a data-l10n-name="passwords-help-link">මුරපද සහාය</a> වෙත ගොඩවදින්න.
+about-logins-intro-browser-only-import = ඔබගේ පිවිසුම් වෙනත් අතිරික්සුවක සුරකින ලද්දේ නම්, ඒවා <a data-l10n-name="import-link">{ -brand-product-name } වෙත ආයාත</a> කළ හැකිය.
 
 ## Login
 
@@ -53,6 +63,8 @@ login-item-copied-password-button-text = පිටපත් විය!
 login-item-save-changes-button = වෙනස්කම් සුරකින්න
 login-item-save-new-button = සුරකින්න
 login-item-cancel-button = අවලංගු
+login-item-time-changed = අවසාන යාවත්කාලය: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = සෑදුවේ: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = අවසාන භාවිතය: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## OS Authentication dialog
@@ -69,9 +81,13 @@ about-logins-reveal-password-os-auth-dialog-message-macosx = සුරකින 
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = සුරකින ලද මුරපදය පෙන්වන්න
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = සුරැකි පිවිසුම් හා මුරපද නිර්යාත කරන්න
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = සුරැකි පිවිසුම් හා මුරපද දැකීමට ඔබගේ ප්‍රාථමික මුරපදය ඇතුල් කරන්න
 master-password-reload-button =
     .label = පිවිසෙන්න
     .accesskey = L
@@ -84,6 +100,16 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = මෙම පිවිසුම මකන්නද?
 confirm-delete-dialog-message = මෙම ක්‍රියාමාර්ගය අප්‍රතිවර්ත්‍යයි.
 about-logins-confirm-remove-dialog-confirm-button = ඉවත් කරන්න
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] ඉවත් කරන්න
+       *[other] සියල්ල ඉවතලන්න
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] ඔව්, මෙම පිවිසුම ඉවලන්න
+       *[other] ඔව්, මෙම පිවිසුම් ඉවතලන්න
+    }
 confirm-discard-changes-dialog-title = සුරැකි වෙනස්කම් ඉවත් කරන්නද?
 confirm-discard-changes-dialog-message = සුරකින ලද සියළුම වෙනස්කම් අහිමි වී යනු ඇත.
 confirm-discard-changes-dialog-confirm-button = ඉවතලන්න
@@ -101,6 +127,8 @@ about-logins-vulnerable-alert-learn-more-link = තව දැනගන්න
 
 ## Error Messages
 
+# This is a generic error message.
+about-logins-error-message-default = මෙම මුරපදය සුරැකීමේදී දෝෂයක් සිදු විය.
 
 ## Login Export Dialog
 

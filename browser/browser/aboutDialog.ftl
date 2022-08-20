@@ -13,6 +13,7 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = යාවත්කාල පරීක්‍ෂා කෙරෙමින්...
 update-downloading = <img data-l10n-name="icon"/>යාවත්කාල බාගැනෙමින් — <label data-l10n-name="download-status"/>
+update-downloading-message = යාවත්කාලය බාගැනෙමින් — <label data-l10n-name="download-status"/>
 update-applying = යාවත්කාලය යොදමින්…
 update-failed = යාවත්කාල කිරීමට අසමත් විය. <label data-l10n-name="failed-link">නවතම අනුවාදය බාගන්න</label>
 update-failed-main = යාවත්කාල කිරීමට අසමත් විය. <a data-l10n-name="failed-link-main">නවතම අනුවාදය බාගන්න</a>
@@ -22,7 +23,10 @@ update-manual = මෙහි යාවත්කාල තිබේ <label data-l
 update-restarting = නැවත අරඹමින්…
 channel-description = ඔබ දැනට සිටින්නේ <label data-l10n-name="current-channel"></label> යාවත්කාල නාලිකාවේය.
 warningDesc-version = { -brand-short-name } පරීක්‍ෂාත්මක හා අස්ථායි විය හැකිය.
+aboutdialog-help-user = { -brand-product-name } උදව්
+aboutdialog-submit-feedback = ප්‍රතිපෝෂණය යොමන්න
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> යනු <label data-l10n-name="community-exp-creditsLink">ගෝලීය ප්‍රජාවකි</label> එය අන්තර්ජාලය විවෘත, පොදු, සහ සැමට ප්‍රවේශ වීමට හැකි ලෙස පවත්වා ගැනීමට එක්ව වැඩ කරයි.
+helpus = උදව් කිරීමට අවශ්‍යද? <label data-l10n-name="helpus-donateLink">පරිත්‍යාගයක් කරන්න</label> හෝ <label data-l10n-name="helpus-getInvolvedLink">සම්බන්ධ වන්න!</label>
 bottomLinks-license = බලපත්‍ර තොරතුරු
 bottomLinks-rights = පරිශීලක අයිතීන්
 bottomLinks-privacy = පෞද්ගලිකත්ව ප්‍රතිපත්තිය
