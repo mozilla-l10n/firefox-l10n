@@ -933,7 +933,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Μηχανών αναζήτησης
     .accesskey = α
+addressbar-locbar-quickactions-option =
+    .label = Γρήγορες ενέργειες
+    .accesskey = Γ
 addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τις προτάσεις μηχανών αναζήτησης
+addressbar-quickactions-learn-more = Μάθετε περισσότερα
 
 ## Privacy Section - Content Blocking
 

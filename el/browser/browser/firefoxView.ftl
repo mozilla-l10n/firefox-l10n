@@ -36,8 +36,8 @@ firefoxview-tabpickup-network-offline-header = Ελέγξτε τη σύνδεσ�
 firefoxview-tabpickup-network-offline-description = Εάν χρησιμοποιείτε τείχος προστασίας ή διακομιστή μεσολάβησης, ελέγξτε ότι το { -brand-short-name } έχει άδεια πρόσβασης στο διαδίκτυο.
 firefoxview-tabpickup-network-offline-primarybutton = Δοκιμή ξανά
 firefoxview-tabpickup-sync-error-header = Υπάρχει πρόβλημα με τον συγχρονισμό
-firefoxview-tabpickup-sync-error-description = Το { -brand-short-name } δεν μπορεί να προσπελάσει την υπηρεσία αυτήν τη στιγμή. Δοκιμάστε ξανά σε λίγα λεπτά.
 firefoxview-tabpickup-sync-error-primarybutton = Δοκιμή ξανά
+firefoxview-tabpickup-syncing = Περιμένετε μέχρι να συγχρονιστούν οι καρτέλες σας. Θα χρειαστεί μόνο μια στιγμή.
 firefoxview-mobile-promo-primarybutton = Λήψη του { -brand-product-name } για κινητά
 firefoxview-mobile-confirmation-header = 🎉 Όλα έτοιμα!
 firefoxview-closed-tabs-title = Πρόσφατα κλεισμένες
@@ -52,5 +52,7 @@ firefoxview-change-colorway-button = Αλλαγή χρωματικού συνδ�
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-collapse-button-show =
+    .title = Εμφάνιση λίστας
 firefoxview-collapse-button-hide =
     .title = Απόκρυψη λίστας
