@@ -23,3 +23,6 @@ customize-mode-uidensity-menu-normal =
     .tooltiptext = සාමාන්‍ය
 customize-mode-undo-cmd =
     .label = පෙරසේ
+customize-mode-lwthemes-link = තේමා කළමනාකරණය
+customize-mode-downloads-button-autohide =
+    .label = හිස් විට බොත්තම සඟවන්න
