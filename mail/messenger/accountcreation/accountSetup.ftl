@@ -7,6 +7,7 @@ account-setup-tab-title = Kontoinnstillingar
 ## Header
 
 account-setup-secondary-description = { -brand-product-name } vil automatiskt søkje etter ein fungerande og tilrådd serverkonfigurasjon.
+account-setup-success-title = Kontoen er oppretta
 
 ## Form fields
 
