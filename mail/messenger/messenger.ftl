@@ -29,6 +29,11 @@ quick-filter-toolbarbutton =
 
 ## Folder Pane
 
+folder-pane-toolbar =
+    .toolbarname = Verktøylinje for mapperute
+    .accesskey = m
+folder-pane-toolbar-options-button =
+    .tooltiptext = Innstillingar for mapperute
 folder-pane-header-label = Mapper
 
 ## Folder Toolbar Header Popup
