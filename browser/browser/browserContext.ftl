@@ -138,6 +138,12 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = වි-තැපෑල පිටපත් කරන්න
     .accesskey = E
+main-context-menu-copy-phone =
+    .label = දු.ක. අංකයේ පිටපතක්
+    .accesskey = o
+main-context-menu-copy-link-simple =
+    .label = සබැඳියේ පිටපතක්
+    .accesskey = L
 
 ## Media (video/audio) controls
 ##
@@ -160,6 +166,19 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = නොනිහඬ
     .accesskey = m
+main-context-menu-media-play-speed-2 =
+    .label = වේගය
+    .accesskey = d
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = පුඩුලන්න
     .accesskey = L
@@ -182,18 +201,41 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = පූර්ණ තිරයෙන් පිටවන්න
     .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = ඡායාරූපයෙන්-ඡායාරූපය නරඹන්න
+    .accesskey = u
 main-context-menu-image-reload =
     .label = රූපය යළි පූරණය
     .accesskey = R
+main-context-menu-image-view-new-tab =
+    .label = නව පටිත්තකින් රූපය බලන්න
+    .accesskey = I
+main-context-menu-video-view-new-tab =
+    .label = දෘශ්‍යකය නව පටිත්තකින් නරඹන්න
+    .accesskey = I
 main-context-menu-image-copy =
     .label = රූපය පිටපත් කරන්න
     .accesskey = y
+main-context-menu-image-copy-link =
+    .label = රූපයේ සබැඳියේ පිටපතක්
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = දෘශ්‍යකයේ සබැඳියේ පිටපතක්
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = හඬපටයේ සබැඳියේ පිටපතක්
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = …ලෙස රූපය සුරකින්න
     .accesskey = v
 main-context-menu-image-email =
     .label = රූපය තැපැල් කරන්න...
     .accesskey = g
+main-context-menu-image-set-image-as-background =
+    .label = වැඩතලයේ පසුබිම ලෙස රූපය සකසන්න...
+    .accesskey = S
 main-context-menu-image-info =
     .label = රූපයේ තොරතුරු පෙන්වන්න
     .accesskey = f
@@ -206,6 +248,9 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = …ලෙස හඬපටය සුරකින්න
     .accesskey = v
+main-context-menu-video-take-snapshot =
+    .label = තිරසේයාවක් ගන්න…
+    .accesskey = S
 main-context-menu-video-email =
     .label = දෘශ්‍යකය තැපැල් කරන්න...
     .accesskey = a
@@ -220,9 +265,18 @@ main-context-menu-send-to-device =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = සුරැකි පිවිසුම භාවිතය
+    .accesskey = o
+main-context-menu-use-saved-password =
+    .label = සුරැකි මුරපදය භාවිතය
+    .accesskey = o
 
 ##
 
+main-context-menu-manage-logins2 =
+    .label = පිවිසුම් කළමනාකරණය
+    .accesskey = M
 main-context-menu-keyword =
     .label = මෙම සෙවුමට මූලපදයක් යොදන්න...
     .accesskey = K
@@ -259,6 +313,15 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = රාමුවේ තොරතුරු පෙන්වන්න
     .accesskey = I
+main-context-menu-print-selection =
+    .label = තේරීම මුද්‍රණය
+    .accesskey = r
+main-context-menu-take-screenshot =
+    .label = තිර සේයාවක් ගන්න
+    .accesskey = T
+main-context-menu-take-frame-screenshot =
+    .label = තිර සේයාවක් ගන්න
+    .accesskey = o
 main-context-menu-view-page-source =
     .label = පිටුවේ මූලය ‌පෙන්වන්න
     .accesskey = V
@@ -271,3 +334,11 @@ main-context-menu-bidi-switch-page =
 main-context-menu-eme-learn-more =
     .label = DRM ගැන තව දැනගන්න...
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab =
+    .label = සබැඳිය නව { $containerName } පටිත්තෙහි අරින්න
+    .accesskey = T
+main-context-menu-reveal-password =
+    .label = මුරපදය පෙන්වන්න
+    .accesskey = v
