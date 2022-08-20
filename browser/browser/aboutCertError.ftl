@@ -6,8 +6,8 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } සාවද්‍ය ආරක්‍ෂණ සහතිකයක් භාවිත කරයි.
 cert-error-trust-cert-invalid = සාවද්‍ය CA සහතිකයක් මඟින් නිකුත් කර ඇති නිසා සහතිකය විශ්වාස නැත.
-cert-error-trust-untrusted-issuer = නිකුත් කිරිමේ සහතිකය විශ්වාස නැති නිසා නිසා සහතිකය විශ්වාස නැත.
-cert-error-trust-self-signed = සහතිකය ස්වයංව අත්සන් කර ඇති නිසා එය විශ්වාස නොවේ.
+cert-error-trust-untrusted-issuer = නිකුත් කරන්නාගේ සහතිකය විශ්වාස නැති නිසා සහතිකය විශ්වාස නැත.
+cert-error-trust-self-signed = සහතිකය ස්වයංව අත්සන් කර ඇති නිසා එය විශ්වාස නැත.
 cert-error-untrusted-default = සහතිකය විශ්වසන මූලාශ්‍රයකින් නොලැබෙයි.
 cert-error-details-cert-chain-label = සහතික දාමය:
 
