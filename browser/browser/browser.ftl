@@ -165,6 +165,9 @@ page-action-manage-extension =
     .label = จัดการส่วนขยาย…
 page-action-remove-extension =
     .label = เอาส่วนขยายออก
+page-action-manage-extension2 =
+    .label = จัดการส่วนขยาย…
+    .accesskey = E
 
 ## Auto-hide Context Menu
 
@@ -263,6 +266,7 @@ quickactions-screenshot2 = จับภาพหน้าจอ
 quickactions-cmd-screenshot = ภาพหน้าจอ
 # Opens about:preferences
 quickactions-settings = เปิดการตั้งค่า
+quickactions-cmd-settings = การตั้งค่า ค่ากำหนด ตัวเลือก
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = ปรับปรุง { -brand-short-name }
 quickactions-cmd-update = อัปเดต
