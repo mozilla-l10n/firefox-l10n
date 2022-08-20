@@ -925,7 +925,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = 搜索引擎
     .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = 快捷操作
+    .accesskey = Q
 addressbar-suggestions-settings = 更改搜索引擎建议的首选项
+addressbar-quickactions-learn-more = 详细了解
 
 ## Privacy Section - Content Blocking
 
