@@ -3,4 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = යළි ආරම්භ කළ යුතුය
+restart-required-heading = දිගටම { -brand-short-name } භාවිතා කිරීමට යළි අරඹන්න
+window-restoration-info = ඔබගේ කවුළු හා පටිති ඉක්මනින් ප්‍රත්‍යර්පණය කෙරේ, නමුත් පෞද්. ඒවා හැර.
 restart-button-label = { -brand-short-name } යළි අරඹන්න
