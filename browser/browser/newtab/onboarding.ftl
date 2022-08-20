@@ -213,10 +213,12 @@ mr2-onboarding-start-browsing-button-label = 開始上網
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = 選擇您的語言
+mr2022-onboarding-live-language-text = { -brand-short-name } 會說您的語言
+mr2022-language-mismatch-subtitle = 透過社群的努力，{ -brand-short-name } 已翻譯成超過 90 種語言版本。您的系統使用 { $systemLanguage }，而 { -brand-short-name } 則是 { $appLanguage } 版本。
 onboarding-live-language-button-label-downloading = 正在下載 { $negotiatedLanguage } 的語言套件…
 onboarding-live-language-waiting-button = 正在取得可用的語言清單…
 onboarding-live-language-installing = 正在安裝 { $negotiatedLanguage } 的語言套件…
-mr2022-onboarding-live-language-switch-to = 切換為 { $negotiatedLanguage }
+mr2022-onboarding-live-language-switch-to = 切換為 { $negotiatedLanguage } 版
 mr2022-onboarding-live-language-continue-in = 以 { $appLanguage } 版繼續
 onboarding-live-language-secondary-cancel-download = 取消
 onboarding-live-language-skip-button-label = 略過
