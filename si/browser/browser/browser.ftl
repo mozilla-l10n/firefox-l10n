@@ -38,11 +38,45 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } — (පෞද්. පිරික්සීම)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — (පෞද්. පිරික්සීම)
+# These are the default window titles everywhere except macOS. The first two
+# attributes are used when the web content opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } පෞද්. පිරික්සුම
+    .data-content-title-default = { $content-title } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } පෞද්. පිරික්සුම
+# These are the default window titles on macOS. The first two are for use when
+# there is no content title:
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Do not use the brand name in the last two attributes, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — පෞද්. පිරික්සුම
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — පෞද්. පිරික්සුම
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+private-browsing-shortcut-text = { -brand-short-name } පෞද්. පිරික්සුම
 
 ##
 
@@ -75,6 +109,10 @@ urlbar-password-notification-anchor =
     .tooltiptext = සුරැකි මුරපද පණිවිඩ මඬල අරින්න
 urlbar-translated-notification-anchor =
     .tooltiptext = පිටු පරිවර්තනය කළමනාකරණය
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = අඩවිය සමඟ අන් විකාශක බෙදාගැනීම කළමනාකරණය
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = අනවරත ආචයනයේ දත්ත ගබඩා කරන්න
 urlbar-addons-notification-anchor =
@@ -96,6 +134,10 @@ urlbar-tip-icon-description =
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = පොත්යොමු
+urlbar-search-mode-tabs = පටිති
+urlbar-search-mode-history = ඉතිහාසය
+urlbar-search-mode-actions = ක්‍රියාමාර්ග
 
 ##
 
@@ -130,6 +172,12 @@ page-action-manage-extension =
     .label = දිගුව කළමනාකරණය...
 page-action-remove-extension =
     .label = දිගුව ඉවත් කරන්න
+page-action-manage-extension2 =
+    .label = දිගුව කළමනාකරණය...
+    .accesskey = E
+page-action-remove-extension2 =
+    .label = දිගුව ඉවත් කරන්න
+    .accesskey = v
 
 ## Auto-hide Context Menu
 
@@ -150,6 +198,20 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = පෙරනිමි සෙවුම් යන්ත්‍රයට සකසන්න
     .accesskey = D
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = "{ $engineName }" එක් කරන්න
+    .tooltiptext = “{ $engineName }” සෙවුම් යන්ත්‍රය එක් කරන්න
+    .aria-label = “{ $engineName }” සෙවුම් යන්ත්‍රය එක් කරන්න
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -162,6 +224,14 @@ search-one-offs-add-engine-menu =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = පොත්යොමු ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = පටිති ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = ඉතිහාසය ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = ක්‍රියාමාර්ග ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
@@ -170,9 +240,49 @@ search-one-offs-add-engine-menu =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page
+quickactions-addons = එක්කහු බලන්න
+quickactions-cmd-addons = එක්කහු, දිගු, තේමා
+# Opens the bookmarks library window
+quickactions-bookmarks = පොත්යොමු බලන්න
+quickactions-cmd-bookmarks = පොත්යොමු
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = ඉතිහාසය මකන්න
+quickactions-cmd-clearhistory = ඉතිහාසය මකන්න
+# Opens about:downloads page
+quickactions-downloads = බාගැනීම් අරින්න
+quickactions-cmd-downloads = බාගැනීම්
+# Opens about:logins
+quickactions-logins = පිවිසුම් බලන්න
+quickactions-cmd-logins = පිවිසුම්, මුරපද
+# Opens the print dialog
+quickactions-print = මුද්‍රණය
+quickactions-cmd-print = මුද්‍රණය
+# Opens a new private browsing window
+quickactions-private = පෞද්. පිරික්සුම් කවුළුව අරින්න
+quickactions-cmd-private = පෞද්. පිරික්සුම
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = { -brand-short-name } නැවුම් කරන්න
+quickactions-cmd-refresh = නැවුම් කරන්න
+# Restarts the browser
+quickactions-restart = { -brand-short-name } යළි අරඹන්න
+quickactions-cmd-restart = යළි අරඹන්න
+# Opens the screenshot tool
+quickactions-screenshot2 = තිර සේයාවක් ගන්න
+quickactions-cmd-screenshot = තිරසේයාව
+# Opens about:preferences
+quickactions-settings = සැකසුම් අරින්න
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = { -brand-short-name } යාවත්කාල
+quickactions-cmd-update = යාවත්කාල
+# Opens the view-source UI with current pages source
+quickactions-viewsource = මූලාශ්‍රය පෙන්වන්න
+quickactions-cmd-viewsource = මූලාශ්‍රය බලන්න, මූලාශ්‍රය
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = පොත්යොමුව එක් කරන්න
+bookmarks-edit-bookmark = පොත්යොමුව සංස්කරණය
 bookmark-panel-cancel =
     .label = අවලංගු කරන්න
     .accesskey = C
@@ -188,6 +298,8 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = සුරකින විට සංස්කරකය පෙන්වන්න
     .accesskey = S
+bookmark-panel-save-button =
+    .label = සුරකින්න
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -196,6 +308,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = { $host } සඳහා අඩවියේ තොරතුරු
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = { $host } සඳහා සම්බන්ධතාවේ ආරක්‍ෂාව
 identity-connection-internal = මෙය ආරක්‍ෂිත { -brand-short-name } පිටුවකි.
 identity-connection-file = මෙම පිටුව පරිගණකයේ ගබඩා කර ඇත.
 identity-extension-page = මෙම පිටුව දිගුවක් මගින් පූරණය වේ.
@@ -205,6 +324,8 @@ identity-passive-loaded = මෙම පිටුවේ කොටස් ආරක
 identity-active-loaded = ඔබ මෙම පිටුව සඳහා රැකවරණය අබල කර ඇත.
 identity-weak-encryption = මෙම පිටුව දුර්වල සංකේතනයක් භාවිතා කරයි.
 identity-https-only-label = HTTPS-පමණි ප්‍රකාරය
+identity-https-only-info-no-upgrade = HTTP වෙතින් සම්බන්ධතාව උත්ශ්‍රේණි කළ නොහැකිය.
+identity-permissions-storage-access-learn-more = තව දැනගන්න
 identity-permissions-reload-hint = වෙනස්කම් යෙදීමට පිටුව යළි පූරණය කිරීමට සිදු වනු ඇත.
 identity-description-insecure = මෙම අඩවිය වෙත ඔබගේ සම්බන්ධතාවය පෞද්ගලික නොවේ. යොමු කරන තොරතුරු අන් අය බලනු ඇත (මුරපද, පණිවිඩ, ණයපත්, ආදිය).
 identity-description-weak-cipher-intro = ඔබගේ සම්බන්ධතාවය මෙම අඩවිය වෙත දුර්වල සංකේතනයක් භාවිතා කරයි, එය පෞද්ගලික නොවේ.
@@ -238,21 +359,57 @@ browser-window-close-button =
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = වාදනය වෙමින්
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = නිහඬයි
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = ස්වයං වාදනය අවහිරයි
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = ඡායාරූපයෙන්-ඡායාරූපය
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] නිහඬ පටිත්ත
+       *[other] නිහඬ පටිති { $count }
+    }
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = පොත්යොමු ආයාතය...
+    .tooltiptext = අන් අතිරික්සුවකින් පොත්යොමු { -brand-short-name } වෙත ආයාත කරන්න
 
 ## WebRTC Pop-up notifications
 
+popup-select-microphone-device =
+    .value = ශබ්දවාහිනිය:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = ශබ්දවාහිනිය
+popup-select-speaker-icon =
+    .tooltiptext = විකාශක
 popup-all-windows-shared = ඔබගේ තිරයේ දිස්වන සියළුම කවුළු බෙදා ගනු ඇත.
+popup-screen-sharing-block =
+    .label = අවහිර
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = සෑමවිටම අවහිර
+    .accesskey = w
+popup-mute-notifications-checkbox = බෙදාගැනීමේදී අඩවිවල දැනුම්දීම් නිහඬ කරන්න
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = ඔබ { -brand-short-name } බෙදා ගනිමින් සිටියි. ඔබ නව පටිත්තකට මාරු වන විට අකෙතුත් පුද්ගලයින් එය දකිනු ඇත.
+sharing-warning-screen = ඔබගේ පූර්ණ තිරය බෙදා ගනිමින් සිටියි. ඔබ නව පටිත්තකට මාරු වන විට අකෙතුත් පුද්ගලයින් එය දකිනු ඇත.
+sharing-warning-proceed-to-tab =
+    .label = පටිත්තට යන්න
+sharing-warning-disable-for-session =
+    .label = මෙම වාරය සඳහා බෙදාගැනීමේ ආරක්‍ෂාව අබල කරන්න
 
 ## DevTools F12 popup
 
@@ -263,6 +420,34 @@ popup-all-windows-shared = ඔබගේ තිරයේ දිස්වන ස�
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = සොයන්න හෝ ලිපිනය යොදන්න
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = වියමනහි සොයන්න
+    .aria-label = { $name } සමඟ සොයන්න
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = සෙවුම් පද යොදන්න
+    .aria-label = { $name } සොයන්න
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = සෙවුම් පද යොදන්න
+    .aria-label = පොත්යොමු සොයන්න
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = සෙවුම් පද යොදන්න
+    .aria-label = ඉතිහාසය සොයන්න
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = සෙවුම් පද යොදන්න
+    .aria-label = පටිති සොයන්න
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
