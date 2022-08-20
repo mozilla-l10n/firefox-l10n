@@ -198,16 +198,47 @@ about-logins-import-dialog-done = අහවරයි
 about-logins-import-dialog-error-title = ආයාත දෝෂයකි
 about-logins-import-dialog-error-conflicting-values-description = නිදසුනක් ලෙස: එක් පිවිසුමක් සඳහා පරි. නාම, මුරපද, ඒ.ස.නි. කිහිපයක්.
 about-logins-import-dialog-error-file-permission-title = ගොනුව කියවීමට නොහැකිය
+about-logins-import-dialog-error-unable-to-read-description = CSV හෝ TSV ගොනුවක් තේරූ බවට වගබලා ගන්න.
+about-logins-import-dialog-error-no-logins-imported = කිසිදු පිවිසුමක් ආයාත නැත
+about-logins-import-dialog-error-learn-more = තව දැනගන්න
+about-logins-import-dialog-error-try-import-again = යළි ආයාත කිරීමට බලන්න...
+about-logins-import-dialog-error-cancel = අවලංගු
+about-logins-import-report-title = ආයාත සාරාංශය
+about-logins-import-report-description = { -brand-short-name } වෙත පිවිසුම් හා මුරපද ආයාත කෙරිණි.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = පේළිය { $number }
+about-logins-import-report-row-description-modified = පවතින පිවිසුමක් යාවත්කාල විය
+about-logins-import-report-row-description-added = නව පිවිසුමක් එක් කෙරිණි
+about-logins-import-report-row-description-error = දෝෂය: මඟ හැරුණු ක්‍ෂේත්‍රයකි
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = දෝෂය: { $field } සඳහා අගයන් කිහිපයකි
+about-logins-import-report-row-description-error-missing-field = දෝෂය: { $field } මඟහැරී ඇත
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">නව පිවිසුමක් එක් කෙරිණි</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">නව පිවිසුම් එක් කෙරිණි</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">පවතින පිවිසුමක් යාවත්කාල විය</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">පවතින පිවිසුම් යාවත්කාල විය</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">දෝෂ</div> <div data-l10n-name="not-imported" >(ආයාත කර නැත)</div>
+    }
 
 ## Logins import report page
 
+about-logins-import-report-page-title = සාරාංශ වාර්තාව ආයාත කරන්න
