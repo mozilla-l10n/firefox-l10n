@@ -225,6 +225,8 @@ mr2-onboarding-start-browsing-button-label = Έναρξη περιήγησης
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Επιλέξτε τη γλώσσα σας
+mr2022-onboarding-live-language-text = Το { -brand-short-name } μιλάει τη γλώσσα σας
+mr2022-language-mismatch-subtitle = Χάρη στην κοινότητά μας, το { -brand-short-name } έχει μεταφραστεί σε πάνω από 90 γλώσσες. Φαίνεται ότι το σύστημά σας χρησιμοποιεί { $systemLanguage } και το { -brand-short-name } χρησιμοποιεί { $appLanguage }.
 onboarding-live-language-button-label-downloading = Λήψη πακέτου γλώσσας για τα { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Λήψη διαθέσιμων γλωσσών…
 onboarding-live-language-installing = Εγκατάσταση πακέτου γλώσσας για τα { $negotiatedLanguage }…
@@ -262,3 +264,10 @@ fx100-upgrade-thanks-keep-body = Είναι η 100η μας έκδοση! Σας
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
 mr2022-onboarding-skip-step-button-label = Παράβλεψη βήματος
+mr2022-upgrade-onboarding-pin-private-window-header = Η ελευθερία της ιδιωτικής περιήγησης, με ένα κλικ
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Χωρίς αποθήκευση cookies ή ιστορικού, απευθείας από την επιφάνεια εργασίας σας. Περιηγηθείτε σαν να μην σας παρακολουθεί κανείς.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Διατήρηση της ιδιωτικής περιήγησης του { -brand-short-name } στο Dock
+       *[other] Καρφίτσωμα της ιδιωτικής περιήγησης του { -brand-short-name } στη γραμμή εργασιών
+    }
