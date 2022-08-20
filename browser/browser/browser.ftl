@@ -510,14 +510,38 @@ urlbar-result-action-tabtosearch-web = ලිපින තීරුවෙන් 
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = ලිපින තීරුවෙන් සෘජුව { $engine } හි සොයන්න
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = පිටපතක්
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = පොත්යොමු සොයන්න
+urlbar-result-action-search-history = ඉතිහාසය සොයන්න
+urlbar-result-action-search-tabs = සෙවුම් පටිති
+urlbar-result-action-search-actions = ක්‍රියාමාර්ග සොයන්න
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use sentence case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = { $engine } යෝජනා
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = ඉක්මන් ක්‍රියාමාර්ග
 
 ## Full Screen and Pointer Lock UI
 
@@ -537,9 +561,17 @@ pointerlock-warning-no-domain = මෙම ලේඛනයට ඔබගේ ඊත
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore-link =
+    .value = තව දැනගන්න
+crashed-subframe-submit =
+    .label = වාර්තාවක් යොමන්න
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = පොත්යොමු කළමනාකරණය
+bookmarks-recent-bookmarks-panel-subheader = මෑත පොත්යොමු
 bookmarks-toolbar-chevron =
     .tooltiptext = තව පොත්යොමු පෙන්වන්න
 bookmarks-sidebar-content =
@@ -562,6 +594,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] පොත්යොමු මෙවලම් තීරුව සඟවන්න
            *[other] පොත්යොමු මෙවලම් තීරුව පෙන්වන්න
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] පොත්යොමු මෙවලම්තීරුව සඟවන්න
+           *[other] පොත්යොමු මෙවලම්තීරුව පෙන්වන්න
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -574,26 +612,55 @@ bookmarks-tools =
     .label = පොත්යොමු මෙවලම්
 bookmarks-bookmark-edit-panel =
     .label = පොත්යොමුව සංස්කරණය
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = පොත්යොමු මෙවලම් තීරුව
+    .accesskey = B
+    .aria-label = පොත්යොමු
 bookmarks-toolbar-menu =
     .label = පොත්යොමු මෙවලම් තීරුව
 bookmarks-toolbar-placeholder =
     .title = පොත්යොමු මෙවලම් තීරුවේ අංග
 bookmarks-toolbar-placeholder-button =
     .label = පොත්යොමු මෙවලම් තීරුවේ අංග
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = වත්මන් පටිත්තට පොත්යොමුවක්
 
 ## Library Panel items
 
 library-bookmarks-menu =
     .label = පොත්යොමු
+library-recent-activity-title =
+    .value = මෑත ක්‍රියාකාරකම
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = { -pocket-brand-name } වෙත සුරකින්න
+    .tooltiptext = { -pocket-brand-name } වෙත සුරකින්න
 
 ## Repair text encoding toolbar button
 
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = එක්කහු සහ තේමා
+    .tooltiptext = ඔබගේ එක්කහු සහ තේමා කළමනාකරණය ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = සැකසුම්
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] සැකසුම් අරින්න ({ $shortcut })
+           *[other] සැකසුම් අරින්න
+        }
 toolbar-overflow-customize-button =
     .label = මෙවලම් තීරුව රිසිකරණය…
     .accesskey = C
@@ -618,15 +685,28 @@ toolbar-button-new-private-window =
 
 ## EME notification panel
 
+eme-notifications-drm-content-playing-manage = සැකසුම් අරින්න
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = ඉවතලන්න
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
+panel-save-update-username = පරිශීලක නාමය
+panel-save-update-password = මුරපදය
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = { $name } ඉවතලන්නද?
+addon-removal-abuse-report-checkbox = මෙම එක්කහුව { -vendor-short-name } වෙත වාර්තා කරන්න
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = තවත්…
 ui-tour-info-panel-close =
     .tooltiptext = වසන්න
 
@@ -655,6 +735,11 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = යාත්‍රණය
 navbar-downloads =
     .label = බාගැනීම්
 navbar-overflow =
@@ -687,6 +772,9 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>කලින් පටිත්ත අරින්නද?</strong> ඉතිහාසය යටතේ, { -brand-short-name } යෙදුමේ වට්ටෝරුව <img data-l10n-name="icon"/> වෙතින් ඔබගේ කලින් වාරය ප්‍රත්‍යර්පණය කළ හැකිය.
+restore-session-startup-suggestion-button = කෙසේදැයි පෙන්වන්න
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -694,6 +782,11 @@ data-reporting-notification-message = { -brand-short-name } ස්වයංක�
 data-reporting-notification-button =
     .label = බෙදාගන්නා දෑ තෝරන්න
     .accesskey = C
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = පෞද්. පිරික්සුම
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = දිගු
+    .tooltiptext = දිගු
