@@ -74,6 +74,12 @@ message-header-button-style-icons =
 
 ## Action Button Context Menu
 
+toolbar-context-menu-manage-extension =
+    .label = Handter utviding
+    .accesskey = H
+toolbar-context-menu-remove-extension =
+    .label = Fjern utviding
+    .accesskey = F
 
 ## Add-on removal warning
 
