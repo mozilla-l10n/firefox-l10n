@@ -3,11 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## View Menu
-
 ## Tools Menu
 
+menu-tools-settings =
+    .label = Innstillingar
+    .accesskey = I
+
 ## Help Menu
+
 
 ## Mail Toolbar
 
@@ -26,7 +29,9 @@ toolbar-undelete-button =
 
 ## View
 
+
 ## View / Layout
+
 
 ## File
 
