@@ -38,7 +38,6 @@ firefoxview-tabpickup-network-offline-header = Überprüfen Sie Ihre Internetver
 firefoxview-tabpickup-network-offline-description = Wenn Sie eine Firewall oder einen Proxy verwenden, überprüfen Sie, ob { -brand-short-name } die Berechtigung hat, auf das Internet zuzugreifen.
 firefoxview-tabpickup-network-offline-primarybutton = Erneut versuchen
 firefoxview-tabpickup-sync-error-header = Wir haben Probleme bei der Synchronisierung
-firefoxview-tabpickup-sync-error-description = { -brand-short-name } kann den Dienst derzeit nicht erreichen. Versuchen Sie es in ein paar Augenblicken erneut.
 firefoxview-tabpickup-sync-error-primarybutton = Erneut versuchen
 firefoxview-tabpickup-syncing = Warten Sie, während Ihre Tabs synchronisiert werden. Es wird nur einen Moment dauern.
 firefoxview-mobile-promo-header = Holen Sie sich Tabs von Ihrem Telefon oder Tablet
@@ -47,8 +46,6 @@ firefoxview-mobile-promo-primarybutton = { -brand-product-name } für Mobilgerä
 firefoxview-mobile-confirmation-header = 🎉 Alles startklar!
 firefoxview-mobile-confirmation-description = Jetzt können Sie Ihre { -brand-product-name }-Tabs von Ihrem Tablet oder Telefon holen.
 firefoxview-closed-tabs-title = Kürzlich geschlossen
-firefoxview-closed-tabs-collapse-button =
-    .title = Kürzlich geschlossene Tabs anzeigen oder ausblenden
 firefoxview-closed-tabs-description = Öffnen Sie Seiten erneut, die Sie auf diesem Gerät geschlossen haben.
 firefoxview-closed-tabs-placeholder = <strong>Keine kürzlich geschlossenen Seiten</strong><br/>Sie werden nie wieder einen geschlossenen Tab verlieren. Sie können ihn hier jederzeit abrufen.
 # refers to the last tab that was used
@@ -65,3 +62,7 @@ firefoxview-change-colorway-button = Farbwelt ändern
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Noch nichts zu sehen</strong><br/>Beim nächsten Öffnen einer Seite in { -brand-product-name } auf einem anderen Gerät erscheint diese hier wie von Zauberhand und kann auch auf diesem Gerät geöffnet werden.
+firefoxview-collapse-button-show =
+    .title = Liste anzeigen
+firefoxview-collapse-button-hide =
+    .title = Liste ausblenden
