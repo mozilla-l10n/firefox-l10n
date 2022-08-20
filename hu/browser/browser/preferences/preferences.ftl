@@ -933,7 +933,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Keresőszolgáltatások
     .accesskey = K
+addressbar-locbar-quickactions-option =
+    .label = Gyors műveletek
+    .accesskey = r
 addressbar-suggestions-settings = Keresőszolgáltatás-javaslatok beállításainak módosítása
+addressbar-quickactions-learn-more = További tudnivalók
 
 ## Privacy Section - Content Blocking
 
