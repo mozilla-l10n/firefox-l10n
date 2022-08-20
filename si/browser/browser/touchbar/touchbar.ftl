@@ -20,6 +20,7 @@ close-window = කවුළුව වසන්න
 
 ## Various categories of shortcuts for search.
 
+search-titles = සිරැසිය
 
 ##
 

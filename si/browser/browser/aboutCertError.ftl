@@ -10,6 +10,7 @@ cert-error-trust-untrusted-issuer = නිකුත් කරන්නාගේ 
 cert-error-trust-self-signed = සහතිකය ස්වයංව අත්සන් කර ඇති නිසා එය විශ්වාස නැත.
 cert-error-untrusted-default = සහතිකය විශ්වසන මූලාශ්‍රයකින් නොලැබෙයි.
 cert-error-details-cert-chain-label = සහතික දාමය:
+open-in-new-window-for-csp-or-xfo-error = නව කවුළුවකින් අඩවිය අරින්න
 
 ## Messages used for certificate error titles
 
