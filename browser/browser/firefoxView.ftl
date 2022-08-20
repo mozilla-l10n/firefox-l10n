@@ -31,3 +31,19 @@ firefoxview-tabpickup-synctabs-primarybutton = විවෘත පටිති �
 firefoxview-tabpickup-fxa-admin-disabled-header = ඔබගේ සංවිධානය සමමුහූර්තය අබල කර ඇත
 firefoxview-tabpickup-fxa-admin-disabled-description = ඔබගේ පරිපාලකයා විසින් සමමුහූර්ත කිරීම අබල කර තිබෙන නිසා { -brand-short-name } මගින් උපාංග අතර පටිති සමමුහුර්ත කිරීමට නොහැකිය.
 firefoxview-tabpickup-network-offline-header = අන්තර්ජාල සම්බන්ධතාවය පරීක්‍ෂා කරන්න
+firefoxview-tabpickup-network-offline-description = ගිනිපවුරක් හෝ ප්‍රතියුක්තයක් භාවිතා කරන්නේ නම්, { -brand-short-name } සඳහා අන්තර්ජාලයට ප්‍රවේශ වීමට අවසර තිබේදැයි බලන්න.
+firefoxview-tabpickup-network-offline-primarybutton = යළි උත්සාහය
+firefoxview-tabpickup-sync-error-header = සමමුහූර්ත කිරීමේ ගැටළුවක් තිබේ
+firefoxview-tabpickup-sync-error-primarybutton = යළි උත්සාහය
+firefoxview-tabpickup-syncing = ඔබගේ පටිති මොහොතකින් සමමුහූර්ත වනු ඇත. රැඳී සිටින්න.
+firefoxview-mobile-promo-primarybutton = දුරකථනය සඳහා { -brand-product-name } ගන්න
+firefoxview-closed-tabs-title = මෑතදී වසා දැමූ
+firefoxview-closed-tabs-description = මෙම උපාංගයේ වසා දැමූ පිටු නැවත විවෘත කරන්න.
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = නව පටිත්තකින් { $targetURI } අරින්න
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }

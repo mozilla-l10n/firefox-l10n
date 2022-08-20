@@ -69,18 +69,37 @@ cfr-whatsnew-release-notes-link-text = නිකුතු සටහන් කි
 
 cfr-doorhanger-milestone-ok-button = සියල්ල බලන්න
     .accesskey = S
+cfr-doorhanger-milestone-close-button = වසන්න
+    .accesskey = C
 
 ## DOH Message
 
+cfr-doorhanger-doh-header = වඩාත් ආරක්‍ෂිත, සංකේතිත ව.නා.ප. බැලීම්
+cfr-doorhanger-doh-primary-button-2 = හරි
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = අබල කරන්න
+    .accesskey = D
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-primary-button = හරි, තේරුණා
+    .accesskey = O
+cfr-doorhanger-fission-secondary-button = තව දැනගන්න
+    .accesskey = L
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = මෙම අඩවියේ දෘශ්‍යක මෙම { -brand-short-name } අනුවාදයේ හරිහැටි වාදනය නොවිය හැකිය. පූර්ණ දෘශ්‍යක සහාය සඳහා, දැන් { -brand-short-name } යාවත්කාල කරන්න.
+cfr-doorhanger-video-support-header = දෘශ්‍යකය වාදනයට { -brand-short-name } යාවත්කාල කරන්න
+cfr-doorhanger-video-support-primary-button = යාවත්කාල කරන්න
+    .accesskey = U
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = තව දැනගන්න
+    .title = විශේෂාංගය ගැන තව දැන ගැනීමට දිග හරින්න
+spotlight-learn-more-expanded = තව දැනගන්න
+    .title = වසන්න
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -88,9 +107,21 @@ cfr-doorhanger-milestone-ok-button = සියල්ල බලන්න
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
+spotlight-public-wifi-vpn-header = ඔබ පොදු වයි-ෆයි භාවිතා කරන බව පෙනේ
+spotlight-public-wifi-vpn-body = ඔබගේ ස්ථානය සහ පිරික්සුම් ක්‍රියාකාරකම් සැඟවීමට, අතථ්‍ය පුද්ගලික ජාලයක් භාවිතයට සලකා බලන්න. එය ගුවන් තොටුපළ, කෝපි කඩ වැනි පොදු ස්ථාන වලින් අන්තර්ජාලයට ප්‍රවේශයේ දී ඔබව රැක දීමට උපකාරී වේ.
+spotlight-public-wifi-vpn-link = දැන් නොවේ
+    .accesskey = N
 
 ## Total Cookie Protection Rollout
 
+spotlight-total-cookie-protection-secondary-button = දැන් නොවේ
 
 ## Emotive Continuous Onboarding
 
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] තැටියේ තබාගන්න
+       *[other] කාර්ය තීරුවට අමුණන්න
+    }
+spotlight-pin-secondary-button = දැන් නොවේ
