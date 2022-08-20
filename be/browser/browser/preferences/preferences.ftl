@@ -937,7 +937,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Пошукавыя сістэмы
     .accesskey = П
+addressbar-locbar-quickactions-option =
+    .label = Хуткія дзеянні
+    .accesskey = Х
 addressbar-suggestions-settings = Змяніць налады для падказак пашукавіка
+addressbar-quickactions-learn-more = Падрабязней
 
 ## Privacy Section - Content Blocking
 
