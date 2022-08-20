@@ -20,6 +20,9 @@ about-rights-notification-text = { -brand-short-name } er fri programvare basert
 
 ## Toolbar
 
+addons-and-themes-toolbarbutton =
+    .label = Tillegg og tema
+    .tooltiptext = Handter tillegga dine
 quick-filter-toolbarbutton =
     .label = Snøggfilter
     .tooltiptext = Filtrer meldingar

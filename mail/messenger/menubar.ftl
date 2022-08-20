@@ -8,6 +8,9 @@
 menu-tools-settings =
     .label = Innstillingar
     .accesskey = I
+menu-addons-and-themes =
+    .label = Tillegg og tema
+    .accesskey = T
 
 ## Help Menu
 
