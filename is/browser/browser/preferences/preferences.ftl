@@ -933,7 +933,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Leitarvélar
     .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = Flýtiaðgerðir
+    .accesskey = g
 addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvéla
+addressbar-quickactions-learn-more = Kanna nánar
 
 ## Privacy Section - Content Blocking
 
