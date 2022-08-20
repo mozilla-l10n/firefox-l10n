@@ -917,7 +917,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = 搜尋引擎
     .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = 快速操作
+    .accesskey = Q
 addressbar-suggestions-settings = 修改搜尋建議偏好設定
+addressbar-quickactions-learn-more = 了解更多
 
 ## Privacy Section - Content Blocking
 
