@@ -282,7 +282,23 @@ quickactions-cmd-print = tisk
 # Opens a new private browsing window
 quickactions-private = Otevřít nové anonymní okno
 quickactions-cmd-private = anonymní prohlížení
-quickactions-cmd-refresh = obnovit
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh =
+    { -brand-short-name.gender ->
+        [masculine] Obnova { -brand-short-name(case: "gen") }
+        [feminine] Obnova { -brand-short-name(case: "gen") }
+        [neuter] Obnova { -brand-short-name(case: "gen") }
+       *[other] Obnova aplikace { -brand-short-name }
+    }
+quickactions-cmd-refresh = obnova, obnovit
+# Restarts the browser
+quickactions-restart =
+    { -brand-short-name.gender ->
+        [masculine] Restartovat { -brand-short-name(case: "acc") }
+        [feminine] Restartovat { -brand-short-name(case: "acc") }
+        [neuter] Restartovat { -brand-short-name(case: "acc") }
+       *[other] Restartovat aplikaci { -brand-short-name }
+    }
 quickactions-cmd-restart = restart, restartovat
 # Opens the screenshot tool
 quickactions-screenshot2 = Pořídit snímek stránky
@@ -290,6 +306,14 @@ quickactions-cmd-screenshot = snímek obrazovky, stránky
 # Opens about:preferences
 quickactions-settings = Otevřít Nastavení
 quickactions-cmd-settings = nastavení, předvolby, možnosti
+# Opens a SUMO article explaining how to update the browser
+quickactions-update =
+    { -brand-short-name.gender ->
+        [masculine] Aktualizace { -brand-short-name(case: "gen") }
+        [feminine] Aktualizace { -brand-short-name(case: "gen") }
+        [neuter] Aktualizace { -brand-short-name(case: "gen") }
+       *[other] Aktualizace aplikace { -brand-short-name }
+    }
 quickactions-cmd-update = aktualizace, aktualizovat
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Zobrazit zdrojový kód
