@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Celá obrazovka
+    .title = Celá obrazovka (poklepání)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Ukončit režim celé obrazovky
+    .title = Ukončit režim celé obrazovky (poklepání)
 pictureinpicture-subtitles-label = Titulky
 pictureinpicture-font-size-label = Velikost písma
 pictureinpicture-font-size-small = Malé
