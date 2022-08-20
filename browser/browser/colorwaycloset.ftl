@@ -13,3 +13,5 @@ colorway-intensity-bold = තද
 colorway-closet-cancel-button = අවලංගු
 colorway-homepage-reset-prompt = { -firefox-home-brand-name } ඔබගේ වර්ණවත් මුල්පිටුව ලෙස යොදන්න
 colorway-homepage-reset-success-message = { -firefox-home-brand-name } දැන් ඔබගේ මුල් පිටුවයි
+colorway-homepage-reset-apply-button = යොදන්න
+colorway-homepage-reset-undo-button = පෙරසේ

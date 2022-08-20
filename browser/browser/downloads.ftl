@@ -13,6 +13,11 @@ downloads-panel =
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of
+# in-progress and blocked downloads.
+downloads-panel-items =
+    .style = width: 35em
 downloads-cmd-pause =
     .label = විරාමය
     .accesskey = P
@@ -23,15 +28,55 @@ downloads-cmd-cancel =
     .tooltiptext = අවලංගු
 downloads-cmd-cancel-panel =
     .aria-label = අවලංගු
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] බහාලුමෙහි පෙන්වන්න
+           *[other] බහාලුමෙහි පෙන්වන්න
+        }
+    .accesskey = F
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
 ##   $handler (String) - The name of the mime type's default file handler.
 ##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = { $handler } හි අරින්න
+    .accesskey = I
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = { $handler } හි සැමවිට අරින්න
+    .accesskey = w
 
 ##
 
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = සෑමවිට සමාන ගොනු අරින්න
+    .accesskey = w
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] බහාලුමෙහි පෙන්වන්න
+           *[other] බහාලුමෙහි පෙන්වන්න
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] බහාලුමෙහි පෙන්වන්න
+           *[other] බහාලුමෙහි පෙන්වන්න
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] බහාලුමෙහි පෙන්වන්න
+           *[other] බහාලුමෙහි පෙන්වන්න
+        }
 downloads-cmd-show-downloads =
     .label = බාගැනීමේ බහාලුම පෙන්වන්න
 downloads-cmd-retry =
@@ -52,6 +97,9 @@ downloads-cmd-clear-list =
     .accesskey = a
 downloads-cmd-clear-downloads =
     .label = බාගැනීම් මකන්න
+    .accesskey = D
+downloads-cmd-delete-file =
+    .label = මකන්න
     .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
@@ -93,6 +141,13 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+downloading-file-opens-in-hours-and-minutes = පැය { $hours } වි. { $minutes } කින් විවෘත වේ…
+downloading-file-opens-in-minutes = වි. { $minutes } කින් විවෘත වේ…
+downloading-file-opens-in-minutes-and-seconds = තත්. { $minutes } වි. { $seconds } කින් විවෘත වේ…
+downloading-file-opens-in-seconds = තත්. { $seconds } කින් විවෘත වේ...
+downloading-file-opens-in-some-time = සම්පූර්ණ වූ විට විවෘත වේ...
+downloading-file-click-to-open =
+    .value = සම්පූර්ණ වූ විට අරින්න
 
 ##
 
@@ -120,6 +175,13 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-files-not-downloaded =
+    { $num ->
+        [one] ගොනුව බාගත නොවිණි.
+       *[other] ගොනු { $num } ක් බාගත නොවිණි.
+    }
+downloads-blocked-from-url = { $url } වෙතින් බාගැනීම් අවහිර කර ඇත.
+downloads-blocked-download-detailed-info = { $url } වෙතින් ගොනු කිහිපයක් ස්වයංක්‍රීයව බාගැනීමට තැත් කෙරිණි. අඩවියට හානි වී හෝ ඔබගේ උපාංගයට අයාචිත ගොනු ගබඩා කිරීමට උත්සාහ කරනවා විය හැකිය.
 
 ##
 
@@ -133,3 +195,12 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = මෙම වාරය සඳහා බාගැනීම් නැත.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] තවත් ගොනු { $count } ක් බාගැනෙමින්
+       *[other] තවත් ගොනු { $count } ක් බාගැනෙමින්
+    }
