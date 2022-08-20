@@ -917,7 +917,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Công cụ tìm kiếm
     .accesskey = t
+addressbar-locbar-quickactions-option =
+    .label = Hành động nhanh
+    .accesskey = Q
 addressbar-suggestions-settings = Thay đổi tùy chỉnh phần gợi ý của công cụ tìm kiếm
+addressbar-quickactions-learn-more = Tìm hiểu thêm
 
 ## Privacy Section - Content Blocking
 
