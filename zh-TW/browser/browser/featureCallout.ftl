@@ -16,3 +16,5 @@ callout-firefox-view-tab-pickup-subtitle = 在手機上開啟分頁之後，馬�
 callout-firefox-view-recently-closed-title = 快速重開先前關閉的分頁
 callout-firefox-view-recently-closed-subtitle = 您先前關閉的分頁都會顯示於此處，不必再擔心不小心關掉網站了。
 callout-firefox-view-colorways-title = 加上一抹色彩
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = 選擇有您風格的配色。僅在 { -brand-product-name } 提供。
