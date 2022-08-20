@@ -496,6 +496,20 @@ urlbar-result-action-visit = ගොඩවදින්න
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-result-action-before-tabtosearch-web = { $engine } සමඟ සෙවීමට පටිත්ත ඔබන්න
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = { $engine } සෙවීමට පටිත්ත ඔබන්න
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = ලිපින තීරුවෙන් සෘජුව { $engine } සමඟ සොයන්න
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = ලිපින තීරුවෙන් සෘජුව { $engine } හි සොයන්න
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
