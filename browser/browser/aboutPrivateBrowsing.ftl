@@ -5,10 +5,28 @@
 privatebrowsingpage-open-private-window-label = පෞද්. කවුළුවක් අරින්න
     .accesskey = P
 about-private-browsing-search-placeholder = වියමන තුළ සොයන්න
+about-private-browsing-search-btn =
+    .title = වියමනහි සොයන්න
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = { $engine } සමඟ සොයන්න හෝ ලිපිනය යොදන්න
+about-private-browsing-handoff-no-engine =
+    .title = සොයන්න හෝ ලිපිනය යොදන්න
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = { $engine } සමඟ සොයන්න හෝ ලිපිනය යොදන්න
+about-private-browsing-handoff-text-no-engine = සොයන්න හෝ ලිපිනය යොදන්න
 about-private-browsing-not-private = ඔබ දැනට සිටින්නේ පෞද්ගලික කවුළුවක නොවේ.
+about-private-browsing-info-description-private-window = පෞද්. කවුළුව: ඔබ සියළු පෞද්. කවුළු වසා දැමූ විටෙක { -brand-short-name } විසින් ඔබගේ සෙවුම් සහ පිරික්සුම් ඉතිහාසය හිස් කෙරේ. මෙය ඔබව නිර්නාමික නොකරයි.
+about-private-browsing-info-description-simplified = ඔබ සියළුම පෞද්. කවුළු වසා දැමූ විට { -brand-short-name } විසින් ඔබගේ සෙවුම් සහ පිරික්සුම් ඉතිහාසය හිස් කෙරේ, නමුත් මෙය ඔබව නිර්නාමික නොකරයි.
+about-private-browsing-learn-more-link = තව දැනගන්න
+about-private-browsing-focus-promo-cta = { -focus-brand-name } බාගන්න
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-promo-close-button =
+    .title = වසන්න
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
