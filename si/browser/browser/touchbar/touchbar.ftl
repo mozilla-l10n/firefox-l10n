@@ -9,6 +9,7 @@ forward = ඉදිරියට
 reload = යළි පූරණය
 home = මුල
 fullscreen = පූර්ණ තිරය
+touchbar-fullscreen-exit = පූර්ණ තිරයෙන් පිටවන්න
 find = සොයන්න
 new-tab = නව පටිත්ත
 add-bookmark = පොත්යොමුවක් යොදන්න
@@ -17,9 +18,16 @@ reader-view = කියවීමේ දැක්ම
 open-location = සොයන්න හෝ ලිපිනය යොදන්න
 share = බෙදාගන්න
 close-window = කවුළුව වසන්න
+open-sidebar = පැති තීරු
+# This string describes shortcuts for search.
+search-popover = කෙටිමං සොයන්න
 
 ## Various categories of shortcuts for search.
 
+search-bookmarks = පොත්යොමු
+search-history = ඉතිහාසය
+search-opentabs = පටිති අරින්න
+search-tags = අනන්‍යන
 search-titles = සිරැසිය
 
 ##
