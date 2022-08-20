@@ -110,6 +110,21 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [1] ඔව්, මෙම පිවිසුම ඉවලන්න
        *[other] ඔව්, මෙම පිවිසුම් ඉවතලන්න
     }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] පිවිසුම ඉවතලන්නද?
+       *[other] පිවිසුම් { $count } ඉවතලන්නද?
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] සියළුම උපාංගවලින් පිවිසුම් { $count } ඉවත් කරන්නද?
+       *[other] සියළුම උපාංගවලින් පිවිසුම් { $count } ඉවත් කරන්නද?
+    }
+about-logins-confirm-export-dialog-title = පිවිසුම් හා මුරපද නිර්යාත කරන්න
+about-logins-confirm-export-dialog-message = ඔබගේ මුරපද කියවීමට හැකි පෙළක් ලෙස සුරකිනු ඇත (උදා., BadP@ssw0rd) එබැවින් නිර්යාත කළ ගොනුව විවෘත කළ හැකි ඕනෑම අයෙකු ඒවා දකිනු ඇත.
+about-logins-confirm-export-dialog-confirm-button = නිර්යාතය…
+about-logins-alert-import-title = ආයාත වීම නිමයි
+about-logins-alert-import-message = සවිස්තරාත්මක ආයාත සාරාංශය බලන්න
 confirm-discard-changes-dialog-title = සුරැකි වෙනස්කම් ඉවත් කරන්නද?
 confirm-discard-changes-dialog-message = සුරකින ලද සියළුම වෙනස්කම් අහිමි වී යනු ඇත.
 confirm-discard-changes-dialog-confirm-button = ඉවතලන්න
@@ -132,14 +147,57 @@ about-logins-error-message-default = මෙම මුරපදය සුරැ�
 
 ## Login Export Dialog
 
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV ලේඛනය
+       *[other] CSV ගොනුව
+    }
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = පිවිසුම් ගොනුව ආයාතය
+about-logins-import-file-picker-import-button = ආයාතය
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV ලේඛනය
+       *[other] CSV ගොනුව
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV ලේඛනය
+       *[other] TSV ගොනුව
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = ආයාත වීම සම්පූර්ණයි
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>නව පිවිසුමක් එක් කෙරිණි:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>නව පිවිසුම් එක් කෙරිණි:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>පවතින පිවිසුමක් යාවත්කාල විය:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>පවතින පිවිසුම් යාවත්කාල විය:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>දෝෂ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ආයාත කර නැත)</span>
+    }
+about-logins-import-dialog-done = අහවරයි
+about-logins-import-dialog-error-title = ආයාත දෝෂයකි
+about-logins-import-dialog-error-conflicting-values-description = නිදසුනක් ලෙස: එක් පිවිසුමක් සඳහා පරි. නාම, මුරපද, ඒ.ස.නි. කිහිපයක්.
+about-logins-import-dialog-error-file-permission-title = ගොනුව කියවීමට නොහැකිය
 
 ##
 ## Variables:
