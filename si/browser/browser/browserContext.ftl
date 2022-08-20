@@ -74,6 +74,9 @@ toolbar-button-stop-reload =
 
 ## Firefox Account Button
 
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name(capitalization: "sentence") }
+    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
 
 ## Save Page
 
@@ -87,6 +90,12 @@ main-context-menu-bookmark-add =
     .aria-label = මෙම පිටුවට පොත්යොමුවක්
     .accesskey = m
     .tooltiptext = මෙම පිටුවට පොත්යොමුවක්
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = පොත්යොමුව සංස්කරණය
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -115,6 +124,9 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = නව පෞද්. කවුළුවකින් සබැඳිය අරින්න
     .accesskey = P
+main-context-menu-bookmark-link =
+    .label = පොත්යොමුවේ සබැඳිය
+    .accesskey = B
 main-context-menu-save-link =
     .label = …ලෙස සබැඳිය සුරකින්න
     .accesskey = k
