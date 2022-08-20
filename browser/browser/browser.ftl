@@ -448,10 +448,19 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = සෙවුම් පද යොදන්න
     .aria-label = පටිති සොයන්න
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = සෙවුම් පද යොදන්න
+    .aria-label = ක්‍රියාමාර්ග සොයන්න
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } සමග සොයන්න හෝ ලිපිනය යොදන්න
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = අතිරික්සුව දුරස්ථ පාලනය යටතේ පවතී (හේතුව: { $component })
 urlbar-switch-to-tab =
     .value = පටිත්තට මාරුවන්න:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -465,13 +474,28 @@ urlbar-page-action-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Used when the private browsing engine differs from the default engine.
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-in-private-w-engine = පෞද්. කවුළුවක { $engine } සමඟ සොයන්න
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = පෞද්. කවුළුවක සොයන්න
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } සමඟ සොයන්න
+urlbar-result-action-sponsored = අනුග්‍රහය ලද
 urlbar-result-action-switch-tab = පටිත්තට මාරුවන්න
 urlbar-result-action-visit = ගොඩවදින්න
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = { $engine } සමඟ සෙවීමට පටිත්ත ඔබන්න
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
