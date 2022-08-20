@@ -9,4 +9,6 @@ callout-primary-complete-button-label = ¡Lo tengo!
 
 ## Firefox View feature tour strings
 
+callout-firefox-view-recently-closed-title = Recupere sus pestañas cerradas en un instante
+callout-firefox-view-recently-closed-subtitle = Todas las pestañas cerradas aparecerán mágicamente aquí. No vuelva a preocuparse por cerrar accidentalmente un sitio.
 callout-firefox-view-colorways-title = Agregue un toque de color
