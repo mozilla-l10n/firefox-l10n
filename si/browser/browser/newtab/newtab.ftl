@@ -8,6 +8,11 @@
 newtab-page-title = නව පටිත්ත
 newtab-settings-button =
     .title = නව පටිත්ත පිටුව අභිරුචිකරණය
+newtab-personalize-icon-label =
+    .title = නව පටිත්ත පුද්ගලීකරණය
+    .aria-label = නව පටිත්ත පුද්ගලීකරණය
+newtab-personalize-dialog-label =
+    .aria-label = පුද්ගලීකරණය
 
 ## Search box component.
 
@@ -15,11 +20,31 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = සොයන්න
     .aria-label = සොයන්න
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = { $engine } සමඟ සොයන්න හෝ ලිපිනය යොදන්න
+newtab-search-box-handoff-text-no-engine = සොයන්න හෝ ලිපිනය යොදන්න
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = { $engine } සමඟ සොයන්න හෝ ලිපිනය යොදන්න
+    .title = { $engine } සමඟ සොයන්න හෝ ලිපිනය යොදන්න
+    .aria-label = { $engine } සමඟ සොයන්න හෝ ලිපිනය යොදන්න
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = සොයන්න හෝ ලිපිනය යොදන්න
+    .title = සොයන්න හෝ ලිපිනය යොදන්න
+    .aria-label = සොයන්න හෝ ලිපිනය යොදන්න
+newtab-search-box-text = වියමනහි සොයන්න
+newtab-search-box-input =
+    .placeholder = වියමනහි සොයන්න
+    .aria-label = වියමනහි සොයන්න
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = සෙවුම් යන්ත්‍රයක් යොදන්න
+newtab-topsites-add-shortcut-header = නව කෙටිමඟ
 newtab-topsites-edit-topsites-header = ප්‍රචලිත අඩවිය සංස්කරණය
+newtab-topsites-edit-shortcut-header = කෙටිමඟ සංස්කරණය
 newtab-topsites-title-label = සිරැසිය
 newtab-topsites-title-input =
     .placeholder = සිරැසියක් යොදන්න
@@ -27,6 +52,8 @@ newtab-topsites-url-label = ඒ.ස.නි.
 newtab-topsites-url-input =
     .placeholder = ඒ.ස.නි. ලියන්න හෝ අලවන්න
 newtab-topsites-url-validation = වලංගු ඒ.ස.නි. අවශ්‍ය වේ
+newtab-topsites-image-url-label = අභිරුචි රූපයේ ඒ.ස.නි.
+newtab-topsites-use-image-link = අභිරුචි රූපයක් යොදා ගන්න...
 newtab-topsites-image-validation = රූපය පූරණයට අසමත් විය. අන් ඒ.ස.නි. බලන්න.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
@@ -44,6 +71,7 @@ newtab-confirm-delete-history-p2 = මෙම ක්‍රියාමාර්�
 
 ## Top Sites - Sponsored label
 
+newtab-topsite-sponsored = අනුග්‍රහය ලද
 
 ## Context Menu - Action Tooltips.
 
@@ -51,6 +79,10 @@ newtab-confirm-delete-history-p2 = මෙම ක්‍රියාමාර්�
 newtab-menu-section-tooltip =
     .title = වට්ටෝරුව අරින්න
     .aria-label = වට්ටෝරුව අරින්න
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = ඉවත් කරන්න
+    .aria-label = ඉවත් කරන්න
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = අඩවිය සංස්කරණය
@@ -71,6 +103,8 @@ newtab-menu-archive-pocket = { -pocket-brand-name } හි සංරක්‍ෂ
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+newtab-privacy-modal-button-done = අහවරයි
+newtab-privacy-modal-link = රහස්‍යතාව වැඩ කරන අයුරු නව පටිත්තකින් දැනගන්න
 
 ##
 
@@ -98,12 +132,26 @@ newtab-menu-open-file = ගොනුව අරින්න
 
 newtab-label-visited = ගොඩවැදුණු
 newtab-label-bookmarked = පොත්යොමුවකි
+newtab-label-removed-bookmark = පොත්යොමුව ඉවත් කළා
 newtab-label-saved = { -pocket-brand-name } හි සුරැකිණි
 newtab-label-download = බාගත විය
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · අනුග්‍රහය ලද
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#  $source (String): This is the name of a company or their domain
+#  $timeToRead (Number): This is the estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · විනාඩි { $timeToRead }
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = කොටස ඉවතලන්න
+newtab-section-menu-collapse-section = කොටස හකුළන්න
+newtab-section-menu-expand-section = කොටස දිගහරින්න
+newtab-section-menu-manage-section = කොටස කළමනාකරණය
 newtab-section-menu-manage-webext = දිගුව කළමනාකරණය
 newtab-section-menu-add-search-engine = සෙවුම් යන්ත්‍රයක් යොදන්න
 newtab-section-menu-move-up = ඉහළට ගෙනයන්න
@@ -112,10 +160,15 @@ newtab-section-menu-privacy-notice = පෞද්ගලිකත්ව දැන
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = කොටස හකුළන්න
+newtab-section-expand-section-label =
+    .aria-label = කොටස විහිදන්න
 
 ## Section Headers.
 
 newtab-section-header-topsites = ප්‍රචලිත අඩවි
+newtab-section-header-recent-activity = මෑත ක්‍රියාකාරකම
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } විසින් නිර්දේශිතයි
@@ -125,16 +178,24 @@ newtab-section-header-pocket = { $provider } විසින් නිර්ද�
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-try-again-button = යළි උත්සාහය
+newtab-discovery-empty-section-topstories-loading = පූරණය වෙමින්…
 
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ජනප්‍රිය මාතෘකා:
 newtab-pocket-more-recommendations = තවත් නිර්දේශ
+newtab-pocket-learn-more = තව දැනගන්න
+newtab-pocket-cta-button = { -pocket-brand-name } ගන්න
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = { -pocket-brand-name } වෙත සුරකින්න
+newtab-pocket-saved-to-pocket = { -pocket-brand-name } වෙත සුරකින්න
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+newtab-pocket-last-card-desc = තවත් දෑ සඳහා පසුව බලන්න.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -144,3 +205,13 @@ newtab-error-fallback-refresh-link = පිටුව නැවුම් කර �
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = කෙටිමං
+newtab-custom-shortcuts-subtitle = ඔබ සුරකින හෝ ගොඩවදින අඩවි
+newtab-custom-row-selector =
+    { $num ->
+        [one] පේළි { $num }
+       *[other] පේළි { $num }
+    }
+newtab-custom-sponsored-sites = අනුග්‍රහය ලද කෙටිමං
+newtab-custom-recent-title = මෑත ක්‍රියාකාරකම
+newtab-custom-close-button = වසන්න

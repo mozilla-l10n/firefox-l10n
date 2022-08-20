@@ -3,3 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 dns-not-found-title = සේවාදායකය හමු නොවුණි
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+dns-not-found-with-suggestion = ඔබ අදහස් කළේ <a data-l10n-name="website">{ $hostAndPath }</a> වෙත යාමටද?
+dns-not-found-hint-try-again = පසුව උත්සාහ කරන්න
+dns-not-found-hint-check-network = ජාලයේ සම්බන්ධතාවය පරීක්‍ෂා කරන්න

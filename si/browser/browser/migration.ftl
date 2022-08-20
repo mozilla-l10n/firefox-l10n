@@ -72,6 +72,44 @@ imported-edge-reading-list = කියවීමේ ලේඛනය (එඩ්ග
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] පිරික්සුම් ඉතිහාසය හා පොත්යොමු
+           *[other] පිරික්සුම් ඉතිහාසය
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] පිරික්සුම් ඉතිහාසය හා පොත්යොමු
+           *[other] පිරික්සුම් ඉතිහාසය
+        }
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = සුරකින ලද පිවිසුම් සහ මුරපද
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = සුරකින ලද පිවිසුම් සහ මුරපද
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] ප්‍රියතමයන්
+            [edge] ප්‍රියතමයන්
+           *[other] පොත්යොමු
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] ප්‍රියතමයන්
+            [edge] ප්‍රියතමයන්
+           *[other] පොත්යොමු
+        }
+browser-data-otherdata-checkbox =
+    .label = වෙනත් දත්ත
+browser-data-otherdata-label =
+    .label = වෙනත් දත්ත
 browser-data-session-checkbox =
     .label = කවුළු හා පටිති
 browser-data-session-label =
