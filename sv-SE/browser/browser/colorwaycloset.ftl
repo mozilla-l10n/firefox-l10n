@@ -10,7 +10,7 @@ colorway-intensity-soft = Mjuk
 colorway-intensity-balanced = Balanserad
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
-colorway-intensity-bold = Fet
+colorway-intensity-bold = Djärv
 # Label for the button to keep using the selected colorway in the browser
 colorway-closet-set-colorway-button = Ange colorway
 colorway-closet-cancel-button = Avbryt
