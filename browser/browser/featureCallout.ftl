@@ -16,3 +16,5 @@ callout-firefox-view-tab-pickup-subtitle = Rýchlo si preneste otvorené karty z
 callout-firefox-view-recently-closed-title = Instantne získajte späť svoje zatvorené karty
 callout-firefox-view-recently-closed-subtitle = Všetky vaše zatvorené karty sa tu zázračne zobrazia. Už sa nikdy nemusíte báť náhodného zatvorenia stránky.
 callout-firefox-view-colorways-title = Pridajte si kvapku svojej farby
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Vyberte si odtieň, ktorý sa vám páči pomocou farebných tém. Iba vo { -brand-product-name(case: "loc") }.
