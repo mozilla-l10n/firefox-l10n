@@ -5,62 +5,47 @@
 permissions-window =
     .title = Բացառումներ
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Կայքի հասցեն
     .accesskey = d
-
 permissions-block =
     .label = Արգելել
     .accesskey = Ա
-
 permissions-session =
     .label = Թույլատրել աշխատաշրջանում
     .accesskey = ա
-
 permissions-allow =
     .label = Թույլատրել
     .accesskey = Թ
-
 permissions-site-name =
     .label = Կայք
-
 permissions-status =
     .label = Կարգավիճակը
-
 permissions-remove =
     .label = Հեռացնել կայքը
     .accesskey = R
-
 permissions-remove-all =
     .label = Հեռացնել բոլոր կայքերը
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Պահել փոփոխությունները
     .buttonaccesskeyaccept = Պ
-
 permissions-autoplay-menu = Սկզբնադիր բոլոր կայքերի համար.
-
 permissions-searchbox =
     .placeholder = Որոնել կայք
-
 permissions-capabilities-autoplay-allow =
     .label = Թույլատրել Ձայն և Տեսանյութ
 permissions-capabilities-autoplay-block =
-    .label = Կողպել ձայնը
+    .label = Արգելափակել ձայնը
 permissions-capabilities-autoplay-blockall =
-    .label = Կողպել Ձայնը և Տեսանյութը
-
+    .label = Արգելափակել ձայնը և տեսանյութը
 permissions-capabilities-allow =
     .label = Թույլատրել
 permissions-capabilities-block =
     .label = Արգելել
 permissions-capabilities-prompt =
     .label = Միշտ հարցնել
-
 permissions-capabilities-listitem-allow =
     .value = Թույլատրել
 permissions-capabilities-listitem-block =
@@ -88,6 +73,7 @@ permissions-exceptions-cookie-window =
 permissions-exceptions-cookie-desc = Կարող եք հատկորոշել, թե որ կայքերին է թույլատրվում միշտ կամ երբեք օգտագործել cookie-ներ և կայքի տվյալները:  Մուտքագրեք կայքի կոնկրետ հասցե, որը ցանկանում եք կառավարել և սեղմեք Արգելափակել, Թույլատրել աշխատաշրջանի համար կամ Թույլատրել:
 
 ## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 
