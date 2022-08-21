@@ -937,7 +937,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = vyhľadávacie moduly
     .accesskey = v
+addressbar-locbar-quickactions-option =
+    .label = Rýchle akcie
+    .accesskey = R
 addressbar-suggestions-settings = Zmeniť nastavenia pre návrhy vyhľadávania
+addressbar-quickactions-learn-more = Ďalšie informácie
 
 ## Privacy Section - Content Blocking
 
