@@ -5,9 +5,30 @@
 places-open =
     .label = අරින්න
     .accesskey = O
+places-open-in-tab =
+    .label = නව පටිත්තකින් අරින්න
+    .accesskey = w
+places-open-all-bookmarks =
+    .label = පොත්යොමු සියල්ල අරින්න
+    .accesskey = O
 places-open-all-in-tabs =
     .label = පටිති තුළ සියල්ල අරින්න
     .accesskey = O
+places-open-in-window =
+    .label = නව කවුළුවකින් අරින්න
+    .accesskey = N
+places-open-in-private-window =
+    .label = නව පෞද්. කවුළුවකින් අරින්න
+    .accesskey = P
+places-add-bookmark =
+    .label = පොත්යොමුවක් එක්කරන්න…
+    .accesskey = B
+places-add-folder-contextmenu =
+    .label = බහාලුමක් එක් කරන්න…
+    .accesskey = F
+places-add-folder =
+    .label = බහාලුමක් එක් කරන්න…
+    .accesskey = o
 places-by-date =
     .label = දිනය අනුව
     .accesskey = D
@@ -35,6 +56,46 @@ places-delete-domain-data =
 places-sortby-name =
     .label = නම අනුව පිළිවෙළට
     .accesskey = r
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = පොත්යොමුව සංස්කරණය...
+    .accesskey = E
+places-edit-generic =
+    .label = සංස්කරණය…
+    .accesskey = E
+places-edit-folder2 =
+    .label = බහාලුම සංස්කරණය…
+    .accesskey = E
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] බහාලුම මකන්න
+           *[other] බහාලුම් මකන්න
+        }
+    .accesskey = D
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = අනු බහාලුම
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = වෙනත් පොත්යොමු
+places-show-in-folder =
+    .label = බහාලුමෙහි පෙන්වන්න
+    .accesskey = F
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] පොත්යොමුව මකන්න
+           *[other] පොත්යොමු මකන්න
+        }
+    .accesskey = D
+places-manage-bookmarks =
+    .label = පොත්යොමු කළමනාකරණය
+    .accesskey = M
+places-forget-about-this-site-confirmation-title = අඩවිය ගැන අමතක කරමින්
+places-forget-about-this-site-forget = අමතක
 places-library =
     .title = පුස්තකාලය
     .style = width:700px; height:500px;
