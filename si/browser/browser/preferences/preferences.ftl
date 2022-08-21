@@ -661,17 +661,33 @@ pane-privacy-logins-and-passwords-header = පිවිසුම් සහ ම�
 forms-ask-to-save-logins =
     .label = අඩවි සඳහා පිවිසුම් සහ මුරපද සුරැකීමට අසන්න
     .accesskey = r
+forms-breach-alerts-learn-more-link = තව දැනගන්න
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = පිවිසුම් සහ මුරපද ස්වයංව පුරවන්න
+    .accesskey = i
 forms-saved-logins =
     .label = සුරැකි පිවිසුම්…
     .accesskey = L
+forms-primary-pw-use =
+    .label = ප්‍රාථමික මුරපදයක් යොදා ගන්න
+    .accesskey = U
+forms-primary-pw-learn-more-link = තව දැනගන්න
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = ප්‍රධාන මුරපදය වෙනස් කරන්න...
     .accesskey = M
+forms-primary-pw-change =
+    .label = ප්‍රාථමික මුරපදය සංශෝධනය...
+    .accesskey = P
 forms-primary-pw-fips-title = ඔබ දැනට FIPS ප්‍රකාරයේ සිටියි. FIPS සඳහා හිස් නොවන ප්‍රාථමික මුරපදයක් අවශ්‍යයි.
 forms-master-pw-fips-desc = මුරපදය වෙනස් කිරීමට අසමත් විය
+forms-windows-sso =
+    .label = මයික්‍රොසොෆ්ට්, වැඩ හා පාසල් ගිණුම් සඳහා වින්ඩෝස් තනි පිවිසුමට ඉඩ දෙන්න
+forms-windows-sso-learn-more-link = තව දැනගන්න
+forms-windows-sso-desc = ඔබගේ උපාංග සැකසුම් තුළ ගිණුම් කළමනාකරණය
 
 ## OS Authentication dialog
 
