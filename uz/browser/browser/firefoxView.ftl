@@ -2,6 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-button-firefox-view =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = { -firefoxview-brand-name }
+menu-tools-firefox-view =
+    .label = { -firefoxview-brand-name }
+    .accesskey = F
+firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-close-button =
+    .title = Yopish
+    .aria-label = Yopish
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Hozir
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -20,6 +30,7 @@ firefoxview-tabpickup-adddevice-learn-how = Qanday amalga oshirishni oʻrganish
 firefoxview-tabpickup-adddevice-primarybutton = Telefon uchun { -brand-product-name }ni yuklab oling
 firefoxview-tabpickup-synctabs-header = Varaqlar sinxronizatsiyasini yoqing
 firefoxview-tabpickup-synctabs-description = { -brand-short-name }ga qurilmalarga varaqlarni ulashish uchun ruxsat bering
+firefoxview-tabpickup-synctabs-learn-how = Qanday amalga oshirishni oʻrganish
 firefoxview-tabpickup-synctabs-primarybutton = Ochiq varaqlarni sinxronlash
 firefoxview-tabpickup-fxa-admin-disabled-header = Tashkilotingiz sinxronizatsiyani oʻchirib qoʻygan
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } varaqlarni qurilmalarga sinxronlay olmaydi, chunki administrator sinxronizatsiyani oʻchirib qoʻygan.
@@ -54,5 +65,8 @@ firefoxview-change-colorway-button = Colorway funksiyasini oʻzgartirish
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Hali hech narsa koʻrinmayapti</strong><br/>Keyingi safar boshqa qurilmada { -brand-product-name } sahifasini ochganingizda, moʻjizadek ular oʻsha yerda paydo boʻladi.
 firefoxview-collapse-button-show =
     .title = Roʻyxatni koʻrsatish
+firefoxview-collapse-button-hide =
+    .title = Roʻyxatni yashirish
