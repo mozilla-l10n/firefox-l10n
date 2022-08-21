@@ -14,9 +14,19 @@ site-data-column-storage =
     .label = ආචයනය
 site-data-column-last-used =
     .label = අවසන් භාවිතය
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (ස්ථානීය ගොනුව)
 site-data-remove-selected =
     .label = තේරූ දෑ ඉවත් කරන්න
     .accesskey = r
+site-data-settings-dialog =
+    .buttonlabelaccept = වෙනස්කම් සුරකින්න
+    .buttonaccesskeyaccept = a
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-storage-usage =
+    .value = { $value } { $unit }
 site-data-remove-all =
     .label = සියල්ල ඉවත් කරන්න
     .accesskey = e
@@ -26,3 +36,6 @@ site-data-remove-shown =
 
 ## Removing
 
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = ඉවත් කරන්න

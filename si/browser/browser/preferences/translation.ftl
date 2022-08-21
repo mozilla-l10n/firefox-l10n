@@ -22,3 +22,6 @@ translation-sites-button-remove =
 translation-sites-button-remove-all =
     .label = සියළු අඩවි ඉවත් කරන්න
     .accesskey = i
+translation-dialog =
+    .buttonlabelaccept = වසන්න
+    .buttonaccesskeyaccept = C

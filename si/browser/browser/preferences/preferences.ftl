@@ -691,6 +691,14 @@ forms-windows-sso-desc = ඔබගේ උපාංග සැකසුම් ත�
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = ප්‍රාථමික මුරපදයක් සෑදීමට, ඔබගේ වින්ඩෝස් පිවිසීමේ අක්තපත්‍ර ඇතුල් කරන්න. මෙය ඔබගේ ගිණුම් වල සුරක්‍ෂිත බව රැක දීමට උපකාරී වේ.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = ප්‍රාථමික මුරපදයක් සාදන්න
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
@@ -701,6 +709,7 @@ history-remember-option-never =
     .label = ඉතිහාසය තබා නොගන්න
 history-remember-option-custom =
     .label = ඉතිහාසය සඳහා අභිරුචි සැකසුම්
+history-remember-description = { -brand-short-name } ඔබගේ පිරික්සුම්, බාගැනීම්, ආකෘති හා සෙවුම් ඉතිහාසය මතක තබා ගනී.
 history-dontremember-description = { -brand-short-name } පෞද්ගලික පිරික්සුම් සැකසුම් එළෙසම යොදා ගැනෙයි, වියමනෙහි පිරික්සන විට කිසිදු ඉතිහාසයක් මතක තබා නොගනී.
 history-private-browsing-permanent =
     .label = සැමවිට පෞද්. පිරික්සුම භාවිතා කරන්න
@@ -723,6 +732,7 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
+sitedata-total-size-calculating = අඩවි දත්ත සහ නිහිතයේ ප්‍රමාණය ගණනය වෙමින්...
 sitedata-learn-more = තව දැනගන්න
 sitedata-clear =
     .label = දත්ත මකන්න...
@@ -744,10 +754,21 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = පටිති අරින්න
     .accesskey = O
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = කෙටිමං
+    .accesskey = S
+addressbar-locbar-topsites-option =
+    .label = ප්‍රචලිත අඩවි
+    .accesskey = T
+addressbar-locbar-engines-option =
+    .label = සෙවුම් යන්ත්‍ර
+    .accesskey = a
 addressbar-suggestions-settings = සෙවුම් යන්ත්‍රයේ යෝජනා සඳහා අභිප්‍රේත වෙනස් කරන්න
 
 ## Privacy Section - Content Blocking
 
+content-blocking-enhanced-tracking-protection = දියුණුකළ ලුහුබැඳීමේ රැකවරණය
 content-blocking-learn-more = තව දැනගන්න
 
 ## These strings are used to define the different levels of
@@ -766,6 +787,26 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-social-media-trackers = සමාජ මාධ්‍ය ලුහුබැඳීම්
+content-blocking-etp-standard-tcp-rollout-learn-more = තව දැනගන්න
+content-blocking-and-isolating-etp-warning-description-2 = මෙම සැකසුම සමහර අඩවිවල අන්තර්ගතය දර්ශනය නොවීමට හෝ හරිහැටි වැඩ නොකිරීමට හේතු විය හැකිය. එසේ පෙනේ නම්, ඔබට එම අඩවියේ සියළුම අන්තර්ගත පූරණය කිරීම සඳහා ලුහුබැඳීමේ රැකවරණය අක්‍රිය කිරීමට සිදු වනු ඇත.
+content-blocking-warning-learn-how = කෙසේදැයි දැනගන්න
+content-blocking-reload-description = මෙම වෙනස්කම් යෙදීමට ඔබගේ පටිති යළි පූරණය කළ යුතුය.
+content-blocking-reload-tabs-button =
+    .label = සියළුම පටිති යළි පූරණය
+    .accesskey = R
+content-blocking-tracking-content-label =
+    .label = ලුහුබැඳීමේ අන්තර්ගතය
+    .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = සියළුම කවුළු වල
+    .accesskey = A
+content-blocking-option-private =
+    .label = පෞද්. කවුළුවලදී පමණි
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = අවහිර ලේඛන සංශෝධනය
+content-blocking-expand-section =
+    .tooltiptext = තව තොරතුරු
 
 ## Privacy Section - Tracking
 
@@ -775,6 +816,10 @@ enhanced-tracking-protection-setting-custom =
 permissions-header = අවසර
 permissions-location = ස්ථානය
 permissions-location-settings =
+    .label = සැකසුම්…
+    .accesskey = t
+permissions-xr = අතථ්‍ය යථාර්ථය
+permissions-xr-settings =
     .label = සැකසුම්…
     .accesskey = t
 permissions-camera-settings =
@@ -792,6 +837,10 @@ permissions-notification-link = තව දැනගන්න
 permissions-notification-pause =
     .label = { -brand-short-name } යළි අරඹන තෙක් දැනුම්දීම් නවතන්න
     .accesskey = n
+permissions-autoplay = ස්වයං වාදනය
+permissions-autoplay-settings =
+    .label = සැකසුම්…
+    .accesskey = t
 permissions-block-popups =
     .label = උත්පතන කවුළු වලක්වන්න
     .accesskey = B
@@ -801,9 +850,14 @@ permissions-addon-install-warning =
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } දත්ත රැස් කිරීම හා භාවිතය
 collection-privacy-notice = පෞද්ගලිකත්ව දැන්වීම
+collection-health-report-telemetry-disabled-link = තව දැනගන්න
 collection-health-report-link = තව දැනගන්න
 addon-recommendations-link = තව දැනගන්න
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = මෙම තැනීමේ වින්‍යාසය සඳහා දත්ත වාර්තාකරණය අබල කර ඇත
 
 ## Privacy Section - Security
 ##
@@ -828,10 +882,14 @@ certs-view =
 certs-devices =
     .label = ආරක්‍ෂණ උපාංග
     .accesskey = D
+space-alert-over-5gb-settings-button =
+    .label = සැකසුම් අරින්න
+    .accesskey = O
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-පමණි ප්‍රකාරය
+httpsonly-learn-more = තව දැනගන්න
 httpsonly-radio-enabled =
     .label = සියළු කවුළුවල HTTPS-පමණි ප්‍රකාරය සබල කරන්න
 httpsonly-radio-enabled-pbm =
