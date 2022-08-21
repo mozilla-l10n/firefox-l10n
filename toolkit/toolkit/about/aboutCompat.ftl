@@ -7,6 +7,7 @@ label-enable = Virkja
 label-interventions = Inngrip
 label-more-information = Frekari upplýsingar: Villa { $bug }
 text-disabled-in-about-config = Þessi eiginleiki hefur verið gerður óvirkur í about:config
+text-title = about:compat
 
 ## Do not translate "SmartBlock". For reference, SmartBlock is a feature
 ## of Firefox anti-tracking which fixes website breakage caused when
