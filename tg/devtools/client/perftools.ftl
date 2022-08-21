@@ -24,6 +24,8 @@ perftools-heading-features-experimental = Таҷрибавӣ
 
 ##
 
+perftools-devtools-interval-label = Фосила:
+perftools-devtools-threads-label = Ҷараёнҳо:
 perftools-devtools-settings-label = Танзимот
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
@@ -49,12 +51,8 @@ perftools-button-edit-settings = Таҳрир кардани танзимот…
 
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
+
 
 ## Profiler presets
 
@@ -64,19 +62,14 @@ perftools-button-edit-settings = Таҳрир кардани танзимот…
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Барномарезии сомонаҳо
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Танзимоти тавсияшуда барои профилсозии { -brand-shorter-name }.
-
 perftools-presets-graphics-label = Графика
 perftools-presets-graphics-description = Танзимот барои тафтиши хатоҳои графикӣ дар { -brand-shorter-name }.
-
 perftools-presets-media-label = Расона
 perftools-presets-media-description2 = Танзимот барои тафтиши хатоҳои аудио ва видео дар { -brand-shorter-name }.
-
 perftools-presets-networking-label = Шабакасозӣ
 perftools-presets-networking-description = Танзимот барои тафтиши хатоҳои шабакасозӣ дар { -brand-shorter-name }.
-
 perftools-presets-custom-label = Фармоишӣ
 
 ##
