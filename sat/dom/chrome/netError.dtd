@@ -78,7 +78,7 @@
 
 
 <!ENTITY corruptedContentErrorv2.title "ᱨᱟᱹᱯᱩᱫ ᱡᱤᱱᱤᱥ ᱦᱩᱲᱟᱹᱜ">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>साहटा आम ञेल रेयाक् एम कुरुमुटु येत् आ बाय ञेल दाड़ेयाक् आ चेदाक् जे डाटा बोदोल रे मित् भुल पानते ञाम लेन ताहेना, .</p><ul><li> आम वेब साइट मालिक को सोमपोक काते उनकु नोवा दिगदा ला़य उदुक् आको मे .</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>ᱥᱟᱦᱴᱟ ᱟᱢ ᱧᱮᱞ ᱨᱮᱭᱟᱜ ᱮᱢ ᱠᱩᱨᱩᱢᱩᱴᱩ ᱭᱮᱫ ᱟ ᱵᱟᱭ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱰᱟᱴᱟ ᱵᱚᱫᱚᱞ ᱨᱮ ᱢᱤᱫ ᱵᱷᱩᱞ ᱯᱟᱱᱛᱮ ᱧᱟᱢ ᱞᱮᱱ ᱛᱟᱦᱮᱱᱟ ᱾</p><ul><li>ᱟᱢ ᱣᱮᱵ ᱥᱟᱤᱴ ᱢᱟᱞᱤᱠ ᱠᱚ ᱥᱚᱢᱯᱚᱠ ᱠᱟᱛᱮ ᱩᱱᱠᱩ ᱱᱚᱣᱟ ᱫᱤᱜᱽᱫᱷᱟ ᱞᱟᱹᱭ ᱩᱫᱩᱜ ᱟᱠᱚ ᱢᱮ ᱾</li></ul>">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
