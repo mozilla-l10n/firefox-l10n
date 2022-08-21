@@ -4,8 +4,25 @@
 
 do-not-track-description = ඔබව ලුහුබැඳීමට අකමැති බව ලුහු නොබඳින්න සංඥාවකින් අඩවි වෙත දන්වන්න
 do-not-track-learn-more = තව දැනගන්න
+do-not-track-option-default-content-blocking-known =
+    .label = දන්නා ලුහුබැඳීම් අවහිරයට { -brand-short-name } සකසා ඇති විට පමණි
 do-not-track-option-always =
     .label = සැමවිට
+settings-page-title = සැකසුම්
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = සැකසුම්වල සොයාගන්න
+managed-notice = අතිරික්සුව ඔබගේ සංවිධානය මගින් කළමනාකරණය කෙරේ.
+category-list =
+    .aria-label = ප්‍රවර්ග
 pane-general-title = සාමාන්‍ය
 category-general =
     .tooltiptext = { pane-general-title }
@@ -18,6 +35,15 @@ category-search =
 pane-privacy-title = පෞද්ගලිකත්වය හා ආරක්‍ෂාව
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-sync-title3 = සමමුහූර්තය
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
+pane-experimental-title = { -brand-short-name } අත්හදා බැලීම්
+category-experimental =
+    .tooltiptext = { -brand-short-name } අත්හදා බැලීම්
+pane-experimental-reset =
+    .label = පෙරනිමියට ප්‍රත්‍යර්පණය
+    .accesskey = R
 help-button-label = { -brand-short-name } සහාය
 addons-button-label = දිගු සහ තේමා
 focus-search =
@@ -44,6 +70,18 @@ restart-later = පසුව යළි අරඹන්න
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> මෙම සැකසුම පාලනය කරයි.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> මෙම සැකසුම පාලනය කරයි.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> මෙම සැකසුම පාලනය කරයි.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name = "icon"/> <strong>{ $name }</strong> විසින් { -brand-short-name } අන්තර්ජාලයට සබැඳෙන ආකාරය පාලනය කරයි.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -54,6 +92,8 @@ extension-controlled-enable = මෙම දිගුව සබල කිරී�
 ## Preferences UI Search Results
 
 search-results-header = සෙවුම් ප්‍රතිඵල
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = කණගාටුයි! “<span data-l10n-name="query"></span>” සඳහා සැකසුම් තුළ ප්‍රතිඵල නැත.
 search-results-help-link = උදව් වුවමනා ද? <a data-l10n-name="url">{ -brand-short-name }සහාය</a> බලන්න
 
 ## General Section
@@ -67,6 +107,9 @@ is-not-default = { -brand-short-name } ඔබගේ පෙරනිමි අත
 set-as-my-default-browser =
     .label = පෙරනිමි කරන්න…
     .accesskey = D
+startup-restore-windows-and-tabs =
+    .label = කලින් කවුළු හා පටිති අරින්න
+    .accesskey = s
 startup-restore-warn-on-quit =
     .label = අතිරික්සුවෙන් ඉවත් වන විට දන්වන්න
 disable-extension =
@@ -75,9 +118,15 @@ tabs-group-header = පටිති
 open-new-link-as-tabs =
     .label = නව කවුළුවල වෙනුවට පටිති තුළ සබැඳි අරින්න
     .accesskey = w
+confirm-on-close-multiple-tabs =
+    .label = පටිති කිහිපයක් වැසීමට පෙර තහවුරුව
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = පටිති කිහිපයක් විවෘත කිරීමේදී { -brand-short-name } මන්දගාමී වීමට හැකි බව දන්වන්න
     .accesskey = d
+switch-to-new-tabs =
+    .label = ඔබ නව පටිත්තක සබැඳියක්, රූපයක් හෝ මාධ්‍යයක් විවෘත කළ විට, වහාම එයට මාරු වන්න
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = පටිති පෙරදසුන් වින්ඩෝස් කාර්ය තීරුවේ පෙන්වන්න
     .accesskey = k
@@ -90,6 +139,35 @@ containers-disable-alert-cancel-button = සබලව තබන්න
 ## General Section - Language & Appearance
 
 language-and-appearance-header = භාෂාව සහ පෙනුම
+preferences-web-appearance-header = අඩවියේ පෙනුම
+preferences-web-appearance-choice-browser = { -brand-short-name } තේමාව
+preferences-web-appearance-choice-system = පද්ධතියේ තේමාව
+preferences-web-appearance-choice-light = දීප්ත
+preferences-web-appearance-choice-dark = අඳුරු
+preferences-web-appearance-choice-tooltip-browser =
+    .title = අඩවිවල පසුබිම් සහ අන්තර්ගතය සඳහා ඔබගේ { -brand-short-name } තේමාවේ සැකසුම් ගළපන්න.
+preferences-web-appearance-choice-tooltip-system =
+    .title = අඩවියේ පසුබිම් හා අන්තර්ගතය සඳහා පද්ධතියේ සැකසුම් ගළපන්න.
+preferences-web-appearance-choice-tooltip-light =
+    .title = අඩවියේ පසුබිම් හා අන්තර්ගතය සඳහා දීප්තිමත් පෙනුමක් යොදාගන්න.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = අඩවියේ පසුබිම් හා අන්තර්ගතය සඳහා අඳුරු පෙනුමක් යොදාගන්න.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = <a data-l10n-name="themes-link">දිගු සහ තේමා</a> තුළ { -brand-short-name } තේමා කළමනාකරණය කරන්න
+preferences-colors-header = වර්ණ
+preferences-colors-manage-button =
+    .label = වර්ණ කළමනාකරණය...
+    .accesskey = C
+preferences-fonts-header = මුද්‍රණඅකුර
 default-font = පෙරනිමි අකුර
     .accesskey = D
 default-font-size = තරම
@@ -97,17 +175,32 @@ default-font-size = තරම
 advanced-fonts =
     .label = වැඩිදුර...
     .accesskey = A
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = විශාලනය
+preferences-default-zoom = පෙරනිමි විශාලනය
+    .accesskey = z
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = පෙළ පමණක් විශාලනය
+    .accesskey = t
 language-header = භාෂාව
 choose-language-description = පිටු පෙන්වීම සඳහා ඔබ කැමති භාෂාව තෝරන්න
 choose-button =
     .label = තෝරන්න…
     .accesskey = o
+confirm-browser-language-change-button = යොදා යළි අරඹන්න
 translate-web-pages =
     .label = වියමන අන්තර්ගතය පරිවර්තනය
     .accesskey = T
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = පරිවර්තනය කළේ <img data-l10n-name="logo"/>
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = දින, වේලා, අංක, සහ මිනුම් ආකෘතිකරණයට “{ $localeName }” සඳහා ඔබගේ මෙහෙයුම් පද්ධතියේ සැකසුම් භාවිතා කරන්න.
 check-user-spelling =
     .label = ඔබ ලියන විට අකුරු වින්‍යාසය බලන්න
     .accesskey = t
@@ -155,6 +248,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } (පෙරනිමි) භාවිතා කරන්න
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] මැක්ඕඑස් පෙරනිමි යෙදුම භාවිතා කරන්න
+            [windows] වින්ඩෝස් පෙරනිමි යෙදුම භාවිතා කරන්න
+           *[other] පද්ධතියේ පෙරනිමි යෙදුම භාවිතා කරන්න
+        }
 applications-use-other =
     .label = අන් දෑ භාවිතා කරන්න…
 applications-select-helper = සහායක යෙදුම තෝරන්න
@@ -167,9 +267,15 @@ applications-always-ask =
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = ({ -brand-short-name } තුළ) { $plugin-name } භාවිතා කරන්න
+applications-open-inapp =
+    .label = { -brand-short-name } හි අරින්න
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -181,20 +287,32 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
+applications-handle-new-file-types-description = { -brand-short-name } අන් ගොනු සමඟ කුමක් කළ යුතුද?
+applications-save-for-new-types =
+    .label = ගොනු සුරකින්න
+    .accesskey = S
+applications-ask-before-handling =
+    .label = ගොනු විවෘත හෝ සුරැකීමට දැයි අසන්න
+    .accesskey = A
 play-drm-content =
     .label = DRM-පාලිත අන්තර්ගත වාදනය
     .accesskey = P
 play-drm-content-learn-more = තව දැනගන්න
 update-application-title = { -brand-short-name } යාවත්කාල
+update-application-version = අනුවාදය { $version } <a data-l10n-name="learn-more">අළුත් දෑ</a>
 update-history =
     .label = යාවත්කාල ඉතිහාසය පෙන්වන්න...
     .accesskey = p
@@ -207,9 +325,17 @@ update-application-check-choose =
 update-application-manual =
     .label = යාවත්කාල නොබලන්න (නිර්දේශ නොකෙරේ)
     .accesskey = N
+update-application-background-enabled =
+    .label = { -brand-short-name } ධාවනය නොවන විට
+    .accesskey = W
 update-application-use-service =
     .label = යාවත්කාල ස්ථාපනයට පසුබිම් සේවාවක්  යොදාගන්න
     .accesskey = b
+update-setting-write-failure-title2 = යාවත්කාල සැකසුම් සුරැකීමේ දෝෂයකි
+update-in-progress-ok-button = &ඉවතලන්න
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &ඉදිරියට
 
 ## General Section - Performance
 
@@ -238,6 +364,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = මෘදු අනුචලනය භාවිතා කරන්න
     .accesskey = m
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = සැමවිට අනුචලන තීරු පෙන්වන්න
+    .accesskey = o
 browsing-use-onscreen-keyboard =
     .label = අවශ්‍ය විටක ස්පර්ශක යතුරු පුවරුව පෙන්වන්න
     .accesskey = k
@@ -247,11 +376,17 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = ඔබ ලිවීමට පටන් ගත් විට පෙළ සඳහා සොයන්න
     .accesskey = x
+browsing-picture-in-picture-toggle-enabled =
+    .label = රූපයෙන් රූපයට දෘශ්‍ය පාලක සබල කරන්න
+    .accesskey = E
+browsing-picture-in-picture-learn-more = තව දැනගන්න
+browsing-media-control-learn-more = තව දැනගන්න
 browsing-cfr-recommendations-learn-more = තව දැනගන්න
 
 ## General Section - Proxy
 
 network-settings-title = ජාල සැකසුම්
+network-proxy-connection-description = { -brand-short-name } අන්තර්ජාලයට සම්බන්ධ වන අයුරු වින්‍යාස කරන්න.
 network-proxy-connection-learn-more = තව දැනගන්න
 network-proxy-connection-settings =
     .label = සැකසුම්...
@@ -260,6 +395,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = නව කවුළු සහ පටිති
+home-new-windows-tabs-description2 = ඔබගේ මුල් පිටුව, නව කවුළු හෝ පටිති විවෘත කරන විට ඔබ දැකීමට ප්‍රිය දෑ තෝරන්න.
 
 ## Home Section - Home Page Customization
 
@@ -272,8 +408,14 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = ෆයර්ෆෝක්ස් මුල්පිටුව (පෙරනිමි)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (පෙරනිමි)
+home-mode-choice-custom =
+    .label = අභිරුචි ඒ.ස.නි...
 home-mode-choice-blank =
     .label = හිස් පිටුව
+home-homepage-custom-url =
+    .placeholder = ඒ.ස.නි. අලවන්න...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -293,9 +435,15 @@ choose-bookmark =
 
 home-prefs-content-header = ෆයර්ෆෝක්ස් මුල්පිටුවේ අන්තර්ගතය
 home-prefs-content-description = ෆයර්ෆෝක්ස් මුල් තිරයට වුවමනා අන්තර්ගත තෝරන්න.
+home-prefs-content-header2 = { -firefox-home-brand-name } අන්තර්ගතය
 home-prefs-content-description2 = ඔබගේ { -firefox-home-brand-name } තිරයට අවශ්‍ය අන්තර්ගතය තෝරන්න.
 home-prefs-search-header =
     .label = වියමන සෙවුම
+home-prefs-shortcuts-header =
+    .label = කෙටිමං
+home-prefs-shortcuts-description = ඔබ සුරකින හෝ ගොඩවදින අඩවි
+home-prefs-shortcuts-by-option-sponsored =
+    .label = අනුග්‍රහය ලද කෙටිමං
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -308,12 +456,19 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-learn-more = එය වැඩ කරන්නේ කෙසේද
 home-prefs-recommended-by-option-sponsored-stories =
     .label = අනුග්‍රහය ලද කතා
+home-prefs-recommended-by-option-recent-saves =
+    .label = මෑත සුරැකීම් පෙන්වන්න
 home-prefs-highlights-option-visited-pages =
     .label = දුටු පිටු
 home-prefs-highlights-options-bookmarks =
     .label = පොත්යොමු
 home-prefs-highlights-option-most-recent-download =
     .label = වඩාත්ම මෑත බාගැනීම්
+home-prefs-highlights-option-saved-to-pocket =
+    .label = { -pocket-brand-name } වෙත සුරැකි පිටු
+home-prefs-recent-activity-header =
+    .label = මෑත ක්‍රියාකාරකම
+home-prefs-recent-activity-description = මෑත අඩවි සහ අන්තර්ගතවල තෝරාගැනීම
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -327,12 +482,25 @@ search-bar-header = සෙවුම් තීරය
 search-bar-shown =
     .label = සෙවුම් තීරය මෙවලම් තීරයට යොදන්න
 search-engine-default-header = පෙරනිමි සෙවුම් එළවුම
+search-engine-default-desc-2 = ලිපින තීරුවේ සහ සෙවුම් තීරුවේ ඇති ඔබගේ පෙරනිමි සෙවුම් යන්ත්‍රය මෙයයි. ඔබට එය ඕනෑම විටෙක මාරු කළ හැකිය.
+search-engine-default-private-desc-2 = පෞද්. කවුළු සඳහා පමණක් වෙනස් පෙරනිමි සෙවුම් යන්ත්‍රයක් තෝරන්න
+search-separate-default-engine =
+    .label = පෞද්. කවුළුවල මෙම සෙවුම් යන්ත්‍රය භාවිතා කරන්න
+    .accesskey = U
+search-suggestions-header = සෙවුම් යෝජනා
+search-suggestions-desc = සෙවුම් යන්ත්‍රවලින් යෝජනා දිස්වන ආකාරය තෝරන්න.
 search-suggestions-option =
     .label = සෙවුම් යෝජනා ලබාදෙන්න
     .accesskey = s
 search-show-suggestions-url-bar-option =
     .label = සෙවුම් යෝජනා ලිපින තීරුවේ පෙන්වන්න
     .accesskey = I
+search-show-suggestions-private-windows =
+    .label = පෞද්. කවුළුවල සෙවුම් යෝජනා පෙන්වන්න
+suggestions-addressbar-settings-generic2 = අන් ලිපින තීරු යෝජනා සඳහා සැකසුම් වෙනස් කරන්න
+search-suggestions-cant-show = ඔබ ඉතිහාසය කිසිදා මතක තබා නොගන්නා ලෙස { -brand-short-name } වින්‍යාස කර ඇති නිසා ස්ථාන තීරු ප්‍රතිඵලවල සෙවුම් යෝජනා පෙන්වනු නොලැබේ.
+search-one-click-header2 = කෙටිමං සොයන්න
+search-one-click-desc = ඔබ මූල පදයක් ඇතුල් කිරීමට පටන් ගන්නා විට ලිපින තීරුවට සහ සෙවුම් තීරුවට පහළින් දිස්වන විකල්ප සෙවුම් යන්ත්‍ර තෝරන්න.
 search-choose-engine-column =
     .label = සෙචුම් එළවුම
 search-choose-keyword-column =
@@ -343,6 +511,9 @@ search-restore-default =
 search-remove-engine =
     .label = ඉවත් කරන්න
     .accesskey = R
+search-add-engine =
+    .label = එකතු
+    .accesskey = A
 search-find-more-link = තවත් සෙවුම් යන්ත්‍ර සොයන්න
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -354,12 +525,20 @@ search-keyword-warning-bookmark = ඔබ තෝරාගත් මූල පද�
 
 ## Containers Section
 
+containers-back-button2 =
+    .aria-label = සැකසුම් වෙත ආපසු
+containers-settings-button =
+    .label = සැකසුම්
 containers-remove-button =
     .label = ඉවත් කරන්න
 
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+sync-signedout-description2 = ඔබගේ සියළුම උපාංග වලට ඔබගේ පොත්යොමු, ඉතිහාසය, පටිති, මුරපද, එක්කහු සහ සැකසුම් සමමුහූර්ත කරන්න.
+sync-signedout-account-signin3 =
+    .label = සමමුහූර්තයට පිවිසෙන්න…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -374,6 +553,9 @@ sync-mobile-promo = ඔබගේ ජංගම උපාංගය සමඟ ස�
 
 sync-profile-picture =
     .tooltiptext = පැතිකඩ රූපය සංශෝධනය
+sync-sign-out =
+    .label = නික්මෙන්න…
+    .accesskey = g
 sync-manage-account = ගිණුම කළමනාකරණය
     .accesskey = o
 sync-signedin-unverified = { $email } තහවුරු කර නැත
@@ -390,18 +572,55 @@ sync-sign-in =
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = සමමුහූර්තය: සක්‍රියයි
+prefs-syncing-off = සමමුහූර්තය: අක්‍රියයි
+prefs-sync-turn-on-syncing =
+    .label = සමමුහූර්තය සක්‍රිය කරන්න...
+    .accesskey = s
+prefs-sync-offer-setup-label2 = ඔබගේ සියළුම උපාංග වලට ඔබගේ පොත්යොමු, ඉතිහාසය, පටිති, මුරපද, එක්කහු සහ සැකසුම් සමමුහූර්ත කරන්න.
+prefs-sync-now =
+    .labelnotsyncing = සමමුහූර්ත කරන්න
+    .accesskeynotsyncing = N
+    .labelsyncing = සමමුහූර්ත වෙමින්
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = ඔබ දැනට මෙම අංග සමමුහූර්ත කරයි:
+sync-currently-syncing-bookmarks = පොත්යොමු
+sync-currently-syncing-history = ඉතිහාසය
+sync-currently-syncing-tabs = පටිති අරිින්න
+sync-currently-syncing-logins-passwords = පිවිසුම් සහ මුරපද
+sync-currently-syncing-addresses = ලිපින
+sync-currently-syncing-creditcards = ණය පත්
+sync-currently-syncing-addons = එක්කහු
+sync-currently-syncing-settings = සැකසුම්
+sync-change-options =
+    .label = සංශෝධනය…
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = සමමුහූර්ත කළ යුතු දෑ තෝරන්න
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = වෙනස්කම් සුරකින්න
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = විසන්ධි…
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = පොත්යොමු
     .accesskey = m
 sync-engine-history =
     .label = ඉතිහාසය
     .accesskey = r
+sync-engine-tabs =
+    .label = පටිති අරිින්න
+    .tooltiptext = සියළුම සමමුහූර්ත උපාංගවල විවෘත පටිති ලේඛනය
+    .accesskey = t
+sync-engine-logins-passwords =
+    .label = පිවිසුම් සහ මුරපද
+    .tooltiptext = ඔබ සුරැකි පිවිසුම් සහ මුරපද
+    .accesskey = L
 sync-engine-addresses =
     .label = ලිපින
     .tooltiptext = සුරකින ලද තැපැල් ලිපින (වැඩතලයට පමණි)
@@ -410,6 +629,10 @@ sync-engine-creditcards =
     .label = ණය පත්
     .tooltiptext = නම්, අංක හා කල් ඉකුත්වන දින (වැඩතලයට පමණි)
     .accesskey = C
+sync-engine-addons =
+    .label = එක්කහු
+    .tooltiptext = ෆයර්ෆොක්ස් වැඩතලය සඳහා එක්කහු හා තේමා
+    .accesskey = A
 
 ## The device name controls.
 
@@ -423,6 +646,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = සුරකින්න
     .accesskey = v
+sync-connect-another-device = අන් උපාංගයක් සබඳින්න
 
 ## Privacy Section
 
@@ -433,6 +657,10 @@ privacy-header = පිරික්සුම් රහස්‍යතාව
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = පිවිසුම් සහ මුරපද
     .searchkeywords = { -lockwise-brand-short-name }
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-logins =
+    .label = අඩවි සඳහා පිවිසුම් සහ මුරපද සුරැකීමට අසන්න
+    .accesskey = r
 forms-saved-logins =
     .label = සුරැකි පිවිසුම්…
     .accesskey = L

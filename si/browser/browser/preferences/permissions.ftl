@@ -15,6 +15,12 @@ permissions-session =
 permissions-allow =
     .label = ඉඩ දෙන්න
     .accesskey = A
+permissions-button-off =
+    .label = අක්‍රිය කරන්න
+    .accesskey = O
+permissions-button-off-temporarily =
+    .label = තාවකාලිකව අක්‍රිය කරන්න
+    .accesskey = T
 permissions-site-name =
     .label = අඩවිය
 permissions-status =
@@ -25,8 +31,18 @@ permissions-remove =
 permissions-remove-all =
     .label = සියළු අඩවි ඉවත් කරන්න
     .accesskey = e
+permission-dialog =
+    .buttonlabelaccept = වෙනස්කම් සුරකින්න
+    .buttonaccesskeyaccept = S
+permissions-autoplay-menu = සියළුම අඩවි සඳහා මකන්න:
 permissions-searchbox =
     .placeholder = අඩවිය සොයන්න
+permissions-capabilities-autoplay-allow =
+    .label = ශ්‍රව්‍ය සහ දෘශ්‍ය ඉඩදෙන්න
+permissions-capabilities-autoplay-block =
+    .label = හඬ අවහිර
+permissions-capabilities-autoplay-blockall =
+    .label = ශ්‍රව්‍ය සහ දෘශ්‍ය අවහිර
 permissions-capabilities-allow =
     .label = ඉඩ දෙන්න
 permissions-capabilities-block =
@@ -39,6 +55,8 @@ permissions-capabilities-listitem-block =
     .value = අවහිර
 permissions-capabilities-listitem-allow-session =
     .value = වාරයට ඉඩදෙන්න
+permissions-capabilities-listitem-off-temporarily =
+    .value = තාවකාලිකව අක්‍රියයි
 
 ## Invalid Hostname Dialog
 
@@ -47,6 +65,7 @@ permissions-invalid-uri-label = වලංගු සත්කාරක නාම�
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-etp-desc = ඔබ මෙම අඩවිවලට රැකවරණය අක්‍රිය කර ඇත.
 
 ## Exceptions - Cookies
 
@@ -60,25 +79,50 @@ permissions-exceptions-popup-desc = උපත්තන කවුළු විව
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-desc = පහත වියමන අඩවි සඳහා පිවිසුම් සුරැකෙන්නේ නැත
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = ඉඩ දුන් වියමන අඩවි - එක්කහු ස්ථාපනය
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = එක්කහු ස්ථාපනය කිරීමට ඉඩ දෙන අඩවි දැක්වීමට හැකිය. ඉඩ දීමට අවශ්‍ය අඩවිවල නිවැරදි ලිපිනය ලිවීමෙන් පසු ඉඩ දෙන්න ඔබන්න.
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = සැකසුම් - ස්වයං වාදනය
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = ඔබගේ පෙරනිමි ස්වයං වාදන සැකසුම් අනුගමනය නොකරන අඩවි මෙහි කළමනාකරණය කළ හැකිය.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-disable-label =
+    .label = දැනුම්දීම් සඳහා ඉල්ලා සිටින නව ඉල්ලීම් අවහිර කරන්න
+permissions-site-notification-disable-desc = මෙය ඉහත ලේඛනගත කර නැති අඩවිවල දැනුම්දීම් අවසර ඉල්ලීම් වලක්වනු ඇත. දැනුම්දීම් අවහිර කිරීම සමහර අඩවිවල විශේෂාංග බිඳ දැමීමට හැකිය.
 
 ## Site Permissions - Location
 
+permissions-site-location-desc = පහත වියමන අඩවි ඔබගේ ස්ථානයට ප්‍රවේශ වීමට ඉල්ලා ඇත. ස්ථානයට ප්‍රවේශ වීමට ඉඩ දිය යුතු අඩවි මොනවාදැයි ඔබට සඳහන් කළ හැකිය. ඔබගේ ස්ථානයට ප්‍රවේශ වීමට ඉල්ලා සිටින නව ඉල්ලීම් ද අවහිර කළ හැකිය.
+permissions-site-location-disable-label =
+    .label = ස්ථානයට ප්‍රවේශ වීමට ඉල්ලන නව ඉල්ලීම් අවහිර කරන්න
+permissions-site-location-disable-desc = මෙය ඉහත ලේඛනගත කර නැති අඩවිවලට ඔබගේ ස්ථානයට ප්‍රවේශ වීමට අවසර නොදෙනු ඇත. ඔබගේ ස්ථානයට පිවිසීම අවහිර කිරීම සමහර වියමන අඩවිවල විශේෂාංග බිඳ දැමීමට හැකිය.
 
 ## Site Permissions - Virtual Reality
 
+permissions-site-xr-window =
+    .title = සැකසුම් - අතථ්‍ය යථාර්ථය අවසර
+    .style = { permissions-window.style }
+permissions-site-xr-disable-label =
+    .label = අතථ්‍ය යථාර්ත උපාංග වෙත ප්‍රවේශය සඳහා නව ඉල්ලීම් අවහිර කරන්න
 
 ## Site Permissions - Camera
 
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = සැකසුම් - ශබ්දවාහිනියේ අවසර
+    .style = { permissions-window.style }
+permissions-site-microphone-disable-label =
+    .label = ශබ්දවාහිනියට ප්‍රවේශය සඳහා නව ඉල්ලීම් අවහිර කරන්න

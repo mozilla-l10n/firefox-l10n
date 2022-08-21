@@ -33,6 +33,11 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
+languages-active-code-format =
+    .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name } භාෂා සැකසුම්
+    .style = width: 40em
 browser-languages-search = තවත් භාෂා සොයන්න...
 browser-languages-searching =
     .label = භාෂා සොයමින්...
