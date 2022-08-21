@@ -9,6 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = ස්ථාපන දෝෂයකි
+opensearch-error-format-title = වැරදි ආකෘතියකි
 opensearch-error-download-title = බාගැනිමේ දෝෂයකි
 
 ##
@@ -26,3 +27,4 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
+remove-search-engine-button = හරි
