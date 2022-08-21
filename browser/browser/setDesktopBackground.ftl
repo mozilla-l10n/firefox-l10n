@@ -8,6 +8,7 @@ set-desktop-background-accept =
     .label = වැඩතල පසුබිම සකසන්න
 open-desktop-prefs =
     .label = වැඩතල අභිප්‍රේත අරින්න
+set-background-preview-unavailable = පෙරදසුන නොතිබේ
 set-background-color = වර්ණය:
 set-background-position = පිහිටීම:
 set-background-center =

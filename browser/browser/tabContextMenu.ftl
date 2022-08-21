@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = නව පටිත්ත
+    .accesskey = w
 reload-tab =
     .label = පටිත්ත යළි පූරණය
     .accesskey = R
@@ -20,6 +23,11 @@ duplicate-tab =
 duplicate-tabs =
     .label = අනුපිටපත් පටිති
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = වමට පටිති වසන්න
+    .accesskey = l
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
@@ -40,6 +48,9 @@ unpin-tab =
 pin-selected-tabs =
     .label = පටිති අමුණන්න
     .accesskey = P
+unpin-selected-tabs =
+    .label = පටිති ගළවන්න
+    .accesskey = p
 bookmark-selected-tabs =
     .label = පටිතිවලට පොත්යොමු…
     .accesskey = B
@@ -55,7 +66,34 @@ move-to-end =
 move-to-new-window =
     .label = නව කවුළුවකට යන්න
     .accesskey = W
+tab-context-close-multiple-tabs =
+    .label = පටිති කිහිපයක් වසන්න
+    .accesskey = M
+tab-context-share-url =
+    .label = බෙදාගන්න
+    .accesskey = h
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] වැසූ පටිත්ත යළි අරින්න
+           *[other] වැසූ පටිති යළි අරින්න
+        }
+    .accesskey = o
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] පටිත්ත වසන්න
+           *[other] පටිති { $tabCount } ක් වසන්න
+        }
+    .accesskey = C
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] පටිත්ත ගෙනයන්න
+           *[other] පටිති ගෙනයන්න
+        }
+    .accesskey = v
