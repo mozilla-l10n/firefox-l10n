@@ -48,6 +48,7 @@ about-processes-web-isolated-process = { $origin } ({ $pid })
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Flipi: { $name }
+about-processes-utility-actor-audio-decoder = Hljóðafkóðari
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -80,9 +81,12 @@ duration-unit-us = µs
 duration-unit-ms = ms
 duration-unit-s = s
 duration-unit-m = m
+duration-unit-h = klst.
+duration-unit-d = d
 
 ## Memory units
 
+memory-unit-B = B
 memory-unit-KB = KB
 memory-unit-MB = MB
 memory-unit-GB = GB

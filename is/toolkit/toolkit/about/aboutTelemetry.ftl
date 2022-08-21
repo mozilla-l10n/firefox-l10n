@@ -130,3 +130,4 @@ about-telemetry-category-header = flokkur
 about-telemetry-method-header = aðferð
 about-telemetry-object-header = hlutur
 about-telemetry-extra-header = auka
+about-telemetry-origin-count = fjöldi

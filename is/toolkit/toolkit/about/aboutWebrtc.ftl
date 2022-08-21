@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC Internals
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = vista about:webrtc sem
@@ -57,9 +56,6 @@ about-webrtc-ice-pair-bytes-sent = Send bæti:
 about-webrtc-ice-pair-bytes-received = Móttekin bæti:
 about-webrtc-ice-component-id = Auðkenni einingar
 
-## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
@@ -72,12 +68,10 @@ about-webrtc-type-remote = Fjarlægt
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Þýðing
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Valið
-
 about-webrtc-save-page-label = Vista síðu
 about-webrtc-debug-mode-msg-label = Villuleitarhamur
 about-webrtc-debug-mode-off-state-label = Byrja í villuleitarham
@@ -119,6 +113,14 @@ about-webrtc-fold-hide-msg = fela nánar
     .title = smelltu til að fella saman þetta svæði
 about-webrtc-decoder-label = Afkóðari
 about-webrtc-encoder-label = Kóðari
+about-webrtc-show-tab-label = Sýna flipa
+about-webrtc-current-framerate-label = Rammatíðni
+about-webrtc-width-px = Breidd (px)
+about-webrtc-height-px = Hæð (px)
+about-webrtc-consecutive-frames = Samliggjandi rammar
+about-webrtc-time-elapsed = Tími liðinn (s)
+about-webrtc-estimated-framerate = Áætluð rammatíðni
+about-webrtc-rotation-degrees = Snúningur (gráður)
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
@@ -127,7 +129,9 @@ about-webrtc-encoder-label = Kóðari
 
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Áætluð bandbreidd
-
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -146,12 +150,27 @@ about-webrtc-aec-logging-off-state-msg = hægt er að finna skrár fyrir atvikas
 
 ##
 
+# This is the total number of frames encoded or decoded over an RTP stream.
+# Variables:
+#  $frames (Number) - The number of frames encoded or decoded.
+about-webrtc-frames =
+    { $frames ->
+        [one] { $frames } rammi
+       *[other] { $frames } rammar
+    }
+# This is the number of audio channels encoded or decoded over an RTP stream.
+# Variables:
+#  $channels (Number) - The number of channels encoded or decoded.
+about-webrtc-channels =
+    { $channels ->
+        [one] { $channels } rás
+       *[other] { $channels } rásir
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Flökt { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
