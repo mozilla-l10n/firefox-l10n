@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+start-troubleshoot-mode =
+    .label = විවෘත
 refresh-profile =
     .label = { -brand-short-name } නැවුම් කරන්න
 # Shown on the safe mode dialog after multiple startup crashes.

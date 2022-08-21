@@ -7,7 +7,19 @@
 # This approach minimizes issues across multiple release channels and rebranded
 # versions.
 
+default-bookmarks-title = පොත්යොමු
+default-bookmarks-heading = පොත්යොමු
+# link title for https://www.mozilla.org/firefox/central/
+default-bookmarks-getting-started = පටන් ගන්න
 # Firefox links folder name
 default-bookmarks-firefox-heading = මොසිල්ලා ෆයර්ෆොක්ස්
+# link title for https://www.mozilla.org/firefox/help/
+default-bookmarks-firefox-get-help = උදව් ගන්න
 # link title for https://www.mozilla.org/firefox/customize/
 default-bookmarks-firefox-customize = ෆයර්ෆොක්ස් අභිරුචිකරණය
+# link title for https://www.mozilla.org/about/
+default-bookmarks-firefox-about = අප ගැන
+# Nightly builds only, link title for https://developer.mozilla.org/
+default-bookmarks-mdn = මොසිල්ලා සංවර්ධක ජාලය
+# Nightly builds only, link title for about:crashes
+default-bookmarks-crashes = ඔබගේ සියළු බිඳවැටීම්
