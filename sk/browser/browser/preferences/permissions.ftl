@@ -5,77 +5,59 @@
 permissions-window =
     .title = Výnimky
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adresa webovej stránky
     .accesskey = d
-
 permissions-block =
     .label = Zakázať
     .accesskey = a
-
 permissions-session =
     .label = Povoliť pre reláciu
     .accesskey = o
-
 permissions-allow =
     .label = Povoliť
     .accesskey = P
-
 permissions-button-off =
     .label = Vypnúť
     .accesskey = V
-
 permissions-button-off-temporarily =
     .label = Vypnúť dočasne
     .accesskey = d
-
 permissions-site-name =
     .label = Webová stránka
-
 permissions-status =
     .label = Stav
-
 permissions-remove =
     .label = Odstrániť stránku
     .accesskey = r
-
 permissions-remove-all =
     .label = Odstrániť všetky stránky
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Uložiť zmeny
     .buttonaccesskeyaccept = U
-
 permissions-autoplay-menu = Predvolené nastavenia pre všetky webové stránky:
-
 permissions-searchbox =
     .placeholder = Hľadať
-
 permissions-capabilities-autoplay-allow =
     .label = Povoliť zvuk a video
 permissions-capabilities-autoplay-block =
     .label = Blokovať zvuk
 permissions-capabilities-autoplay-blockall =
     .label = Blokovať zvuk a video
-
 permissions-capabilities-allow =
     .label = Povoliť
 permissions-capabilities-block =
     .label = Zakázať
 permissions-capabilities-prompt =
     .label = Vždy sa opýtať
-
 permissions-capabilities-listitem-allow =
     .value = Povoliť
 permissions-capabilities-listitem-block =
     .value = Zakázať
 permissions-capabilities-listitem-allow-session =
     .value = Povoliť pre reláciu
-
 permissions-capabilities-listitem-off =
     .value = Vypnutá
 permissions-capabilities-listitem-off-temporarily =
@@ -89,7 +71,7 @@ permissions-invalid-uri-label = Zadajte platný názov servera
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window =
-    .title = Výnimky pre rozšírenú ochranu pred sledovaním
+    .title = Výnimky pre Rozšírenú ochranu pred sledovaním
     .style = { permissions-window.style }
 permissions-exceptions-etp-desc = Na týchto stránkach ste vypli ochranu pred sledovaním.
 
