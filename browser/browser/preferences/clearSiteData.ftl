@@ -25,3 +25,6 @@ clear-site-data-cache-empty =
     .label = නිහිතගත වියමන අන්තර්ගතය
     .accesskey = W
 clear-site-data-cache-info = අඩවිවලට රූප හා දත්ත යළි පූරණය කළ යුතු වනු ඇත
+clear-site-data-dialog =
+    .buttonlabelaccept = මකන්න
+    .buttonaccesskeyaccept = l

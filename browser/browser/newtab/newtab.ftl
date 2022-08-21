@@ -213,5 +213,7 @@ newtab-custom-row-selector =
        *[other] පේළි { $num }
     }
 newtab-custom-sponsored-sites = අනුග්‍රහය ලද කෙටිමං
+newtab-custom-pocket-show-recent-saves = මෑත සුරැකීම් පෙන්වන්න
 newtab-custom-recent-title = මෑත ක්‍රියාකාරකම
 newtab-custom-close-button = වසන්න
+newtab-custom-settings = තවත් සැකසුම් කළමනාකරණය
