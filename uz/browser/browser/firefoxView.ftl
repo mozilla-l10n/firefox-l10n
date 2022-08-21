@@ -23,5 +23,36 @@ firefoxview-tabpickup-synctabs-description = { -brand-short-name }ga qurilmalarg
 firefoxview-tabpickup-synctabs-primarybutton = Ochiq varaqlarni sinxronlash
 firefoxview-tabpickup-fxa-admin-disabled-header = Tashkilotingiz sinxronizatsiyani oʻchirib qoʻygan
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } varaqlarni qurilmalarga sinxronlay olmaydi, chunki administrator sinxronizatsiyani oʻchirib qoʻygan.
+firefoxview-tabpickup-network-offline-header = Internetga ulanishni tekshiring
+firefoxview-tabpickup-network-offline-description = Fayervol yoki proksidan foydalansangiz, { -brand-short-name }ga internetga kirish ruxsati berilganini tekshiring.
+firefoxview-tabpickup-network-offline-primarybutton = Qayta urinish
+firefoxview-tabpickup-sync-error-header = Sinxronlanmadi
+firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } sinxronizatsiya xizmatiga hozir ulana olmadi. Birozdan keyin qayta urining
+firefoxview-tabpickup-sync-error-primarybutton = Qayta urinish
+firefoxview-tabpickup-sync-disconnected-header = Davom etish uchun sinxronizatsiyani yoqing
+firefoxview-tabpickup-sync-disconnected-description = Varaqlarni olish uchun { -brand-short-name }ga sinxronlash uchun ruxsat bering.
+firefoxview-tabpickup-sync-disconnected-primarybutton = Sozlamalar orqali sinxronizatsiyani yoqing
+firefoxview-tabpickup-syncing = Varaqlar sinxronlanayotganda jim oʻtiring. Bu bir lahzada tayyor boʻladi.
+firefoxview-mobile-promo-header = Telefoningiz yoki planshetingizdan varaqlarni oling
+firefoxview-mobile-promo-description = Eng soʻnggi mobil varaqlarni koʻrish uchun iOS yoki Android qurilmalarida { -brand-product-name } hisobiga kiring.
+firefoxview-mobile-promo-primarybutton = Telefon uchun { -brand-product-name }ni yuklab oling
+firefoxview-mobile-confirmation-header = 🎉 Yaxshi!
+firefoxview-mobile-confirmation-description = Endi siz planshet yoki telefoningizdan { -brand-product-name } varaqlarini olishingiz mumkin.
+firefoxview-closed-tabs-title = Yaqinda yopilgan
+firefoxview-closed-tabs-description = Ushbu qurilmada yopilgan varaqlarni qayta oching.
+firefoxview-closed-tabs-placeholder = <strong>Yaqinda yopilgan varaqlar yoʻq</strong><br/>Yopilgan varaqni yoʻqotishdan qoʻrqmang. Siz uni har doim shu yerda koʻrasiz.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Oxirgi faol
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = { $targetURI } havolasini yangi varaqda oching
+firefoxview-try-colorways-button = Colorways ishlatish
+firefoxview-no-current-colorway-collection = Yangi colorways bilan tanishing
+firefoxview-change-colorway-button = Colorway funksiyasini oʻzgartirish
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-collapse-button-show =
     .title = Roʻyxatni koʻrsatish
