@@ -257,11 +257,98 @@ fx100-upgrade-thanks-header = 100 köszönet
 fx100-upgrade-thank-you-body = Ez a { -brand-short-name } 100. kiadása. Köszönjük <em>Önnek</em>, hogy segít nekünk egy jobb, egészségesebb internet felépítésében.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Ez a 100. kiadásunk! Köszönjük, hogy segít a közösségünk tagja. Tartsa egy kattintásnyira a { -brand-short-name }ot a következő 100-hoz.
+mr2022-onboarding-secondary-skip-button-label = Lépés kihagyása
+
+## MR2022 New User Pin Firefox screen strings
+
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Fedezzen fel egy csodálatos internetet
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Indítsa el a { -brand-short-name }ot bárhonnan egyetlen kattintással. Minden alkalommal, amikor ezt teszi, egy nyitottabb és függetlenebb internetet választ.
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] A { -brand-short-name } Dokkban tartása
+       *[other] A { -brand-short-name } rögzítése a tálcára
+    }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Kezdje egy nonprofit szervezet által támogatott böngészővel. Megvédjük a magánszféráját, miközben a világhálón böngészik.
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Köszönjük, hogy szereti a { -brand-product-name }ot
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Használjon olyan böngészőt, amely megvédi a magánszféráját, miközben a világhálón böngészik. Legújabb frissítésünk tele van olyan dolgokkal, amelyeket imádni fog.
+
+## MR2022 New User Set Default screen strings
+
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Legyen a { -brand-short-name } a szokásos böngészője
+mr2022-onboarding-set-default-primary-button-label = Állítsa be a { -brand-short-name }ot alapértelmezett böngészőként
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Használjon egy nonprofit szervezet által támogatott böngészőt. Megvédjük a magánszféráját, miközben a világhálón böngészik.
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+mr2022-onboarding-get-started-primary-button-label = Állítsa be másodpercek alatt
+
+## MR2022 Import Settings screen strings
+
+mr2022-onboarding-import-header = Villámgyors beállítás
+mr2022-onboarding-import-subtitle = Állítsa be úgy a { -brand-short-name }ot, ahogy Önnek tetszik. Adja hozzá könyvjelzőit, jelszavait és egyebeket a régi böngészőjéből.
+mr2022-onboarding-import-primary-button-label-no-attribution = Importálás az előző böngészőből
+
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+mr2022-onboarding-colorway-title = Válassza ki azt a színt, amelyik inspirálja
+mr2022-onboarding-colorway-subtitle = A független hangok megváltoztathatják a kultúrát.
+mr2022-onboarding-colorway-primary-button-label = Színvilág beállítása
+mr2022-onboarding-existing-colorway-checkbox-label = Legyen a { -firefox-home-brand-name } a színes kezdőlapja
+mr2022-onboarding-colorway-label-default = Alapértelmezett
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Alapértelmezett
+mr2022-onboarding-colorway-description-default = <b>A { -brand-short-name } jelenlegi színeinek használata.</b>
+mr2022-onboarding-colorway-label-playmaker = Játékmester
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Játékmester
+mr2022-onboarding-colorway-description-playmaker = <b>Ön a játékmester.</b> Lehetőségeket teremt a győzelemre, és segít feldobni a többiek játékát.
+mr2022-onboarding-colorway-label-expressionist = Expresszionista
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Expresszionista
+mr2022-onboarding-colorway-description-expressionist = <b>Ön egy expresszionista.</b> Másképp látja a világot, és alkotásai felkavarják mások érzelmeit.
+mr2022-onboarding-colorway-label-visionary = Látnok
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Látnok
+mr2022-onboarding-colorway-description-visionary = <b>Ön egy látnok.</b> Megkérdőjelezi a status quót, és arra késztet másokat, hogy képzeljenek el egy jobb jövőt.
+mr2022-onboarding-colorway-label-activist = Aktivista
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Aktivista
+mr2022-onboarding-colorway-description-activist = <b>Ön egy aktivista.</b> Jobb állapotban hagyja a világot, mint ahogyan találta, és arra vezet másokat is, hogy higgyenek.
+mr2022-onboarding-colorway-label-dreamer = Álmodozó
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Álmodozó
+mr2022-onboarding-colorway-description-dreamer = <b>Ön egy álmodozó.</b> Úgy hiszi, hogy bátraké a szerencse, és másokat is bátorságra ösztönöz.
+
+## MR2022 Multistage Mobile Download screen strings
+
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-onboarding-skip-step-button-label = Lépés kihagyása
 mr2022-upgrade-onboarding-pin-private-window-header = Kapja meg a privát böngészés szabadságát egyetlen kattintással
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Nincsenek mentett sütik vagy előzmények, közvetlenül az asztaláról. Böngésszen úgy, mintha senki sem nézné.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
@@ -269,3 +356,9 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
         [macos] A { -brand-short-name } privát böngészés Dokkban tartása
        *[other] A { -brand-short-name } privát böngészés rögzítése a tálcára
     }
+
+## MR2022 Privacy Segmentation screen strings
+
+
+## MR2022 Multistage Gratitude screen strings
+
