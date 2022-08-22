@@ -351,11 +351,14 @@ mr2022-onboarding-colorway-description-dreamer = <b>Tu es un Soniator.</b> Tu cr
 mr2022-onboarding-colorway-label-innovator = Innovator
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Innovator
+mr2022-onboarding-colorway-description-innovator = <b>Tu es un Innovator.</b> Tu vide ubique opportunitates de grande impacto super le vitas de totes circum te.
 
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Passa de portabile a telephono e retro ancora
 mr2022-onboarding-mobile-download-subtitle = Collige schedas de un apparato e reprende de ubi tu los habeva lassate in un altere. Synchronisa tu marcapaginas e contrasignos ubique tu usa { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Scande le codice QR pro haber { -brand-product-name } sur tu apparato mobile o <a data-l10n-name="download-label">invia a te mesme un ligamine de discargamento.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Scande le codice QR pro haber { -brand-product-name } sur tu apparato mobile.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -374,8 +377,11 @@ mr2022-onboarding-privacy-segmentation-title = Nos sempre respecta tu confidenti
 mr2022-onboarding-privacy-segmentation-subtitle = Ab le suggestiones intelligente al recerca plus intelligente, nos constantemente labora pro crear un { -brand-product-name } melior e plus personal.
 mr2022-onboarding-privacy-segmentation-cta-text = Quando nos offere nove functionalitates que usa tu datos pro meliorar tu navigation, vole tu vider:
 mr2022-onboarding-privacy-segmentation-primary-button-label = Le recommendationes de { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-secondary-button-label = Informationes detaliate
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Tu adjuta nos a construer un web melior.
+mr2022-onboarding-gratitude-subtitle = Gratias pro usar { -brand-short-name }, supportate per Mozilla Foundation. Con tu supporto, nos labora pro render internet plus aperte, accessibile e melior, pro totes.
 mr2022-onboarding-gratitude-primary-button-label = Vide le novas
 mr2022-onboarding-gratitude-secondary-button-label = Comenciar a navigar
