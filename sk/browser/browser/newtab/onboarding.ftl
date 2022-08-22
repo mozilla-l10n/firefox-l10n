@@ -373,8 +373,14 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Vždy rešpektujeme vaše súkromie
+mr2022-onboarding-privacy-segmentation-subtitle = Od inteligentných návrhov po inteligentnejšie vyhľadávanie, neustále pracujeme na vytvorení lepšieho a osobnejšieho { -brand-product-name(case: "gen") }.
+mr2022-onboarding-privacy-segmentation-primary-button-label = Odporúčania { -brand-product-name(case: "gen") }
 mr2022-onboarding-privacy-segmentation-secondary-button-label = Detailné informácie
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Pomáhate nám vytvárať lepší web.
+mr2022-onboarding-gratitude-subtitle = Ďakujeme, že používate { -brand-short-name }, ktorý podporuje Mozilla Foundation. S vašou podporou pracujeme na tom, aby bol internet otvorenejší, prístupnejší a lepší pre každého.
 mr2022-onboarding-gratitude-primary-button-label = Pozrite sa, čo je nové
+mr2022-onboarding-gratitude-secondary-button-label = Poďme prehliadať
