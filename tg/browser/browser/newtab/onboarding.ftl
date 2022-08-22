@@ -262,6 +262,11 @@ mr2022-onboarding-secondary-skip-button-label = Нодида гузаронда�
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Интернети ҳайратангезро во бисоз
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -274,6 +279,8 @@ mr2022-onboarding-pin-primary-button-label =
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = «{ -brand-short-name }»-ро ҳамчун браузери писандида таъин намоед
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -289,6 +296,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Ворид кар
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Ранги илҳомбахши худро интихоб намоед
 mr2022-onboarding-colorway-primary-button-label = Татбиқи нақшу нигор
 mr2022-onboarding-existing-colorway-checkbox-label = Бигузор { -firefox-home-brand-name } саҳифаи асосии рангини шумо шавад
 mr2022-onboarding-colorway-label-default = Пешфарз
@@ -334,5 +342,6 @@ mr2022-onboarding-privacy-segmentation-secondary-button-label = Маълумот
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-subtitle = Баҳри истифодабарии «{ -brand-short-name }», ки аз ҷониби «Mozilla Foundation» дастгирӣ мегардад, ба шумо изҳори сипос менамоем. Бо дастгирии шумо кӯшиш ба харҷ медиҳем, то ин ки доираи истифодабарии Интернетро боз ҳам васеътар, беҳтар ва дастраси ҳамагон гардонем.
 mr2022-onboarding-gratitude-primary-button-label = Бинед, ки чӣ нав аст
 mr2022-onboarding-gratitude-secondary-button-label = Оғоз кардани тамошо

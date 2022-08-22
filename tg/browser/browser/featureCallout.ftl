@@ -9,3 +9,4 @@ callout-primary-complete-button-label = Фаҳмидам!
 
 ## Firefox View feature tour strings
 
+callout-firefox-view-colorways-title = Чакраҳои рангро илова намоед

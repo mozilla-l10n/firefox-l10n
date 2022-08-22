@@ -6,6 +6,9 @@
 ### Localization for about:webrtc, a troubleshooting and diagnostic page
 ### for WebRTC calls. See https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API.
 
+# "about:webrtc" is a internal browser URL and should not be
+# translated. This string is used as a title for a file save dialog box.
+about-webrtc-save-page-dialog-title = нигоҳ доштани «about:webrtc» ҳамчун
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -25,9 +28,6 @@ about-webrtc-sdp-history-heading = Таърихи SDP
 ## is an IETF protocol, and should not normally be translated.
 
 
-## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
@@ -41,7 +41,6 @@ about-webrtc-type-remote = Дурдаст
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Интихоб шуд
-
 about-webrtc-save-page-label = Нигоҳ доштани саҳифа
 about-webrtc-debug-mode-msg-label = Реҷаи ислоҳи нуқсонҳо
 about-webrtc-debug-mode-off-state-label = Оғоз кардани реҷаи ислоҳи нуқсонҳо

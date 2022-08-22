@@ -10,6 +10,10 @@ compatibility-all-elements-header = Ҳамаи масъалаҳо
 
 ## Message used as labels for the type of issue
 
+compatibility-issue-deprecated = (кӯҳнашуда)
+compatibility-issue-experimental = (озмоишӣ)
+compatibility-issue-prefixneeded = (пешоянд лозим аст)
+compatibility-issue-deprecated-experimental = (кӯҳнашуда, озмоишӣ)
 
 ## Messages used as labels and titles for buttons in the footer
 
@@ -26,4 +30,3 @@ compatibility-target-browsers-header = Браузерҳои мақсаднок
 
 compatibility-close-settings-button =
     .title = Пӯшидани танзимот
-
