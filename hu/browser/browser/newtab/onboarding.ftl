@@ -287,6 +287,7 @@ mr2022-onboarding-existing-pin-header = Köszönjük, hogy szereti a { -brand-pr
 # Subtitle will be used on the welcome screen for existing users
 # when they already have Firefox pinned but not set as default
 mr2022-onboarding-existing-set-default-only-subtitle = Használjon olyan böngészőt, amely megvédi a magánszféráját, miközben a világhálón böngészik. Legújabb frissítésünk tele van olyan dolgokkal, amelyeket imádni fog.
+mr2022-onboarding-existing-pin-checkbox-label = Adja hozzá a { -brand-short-name } privát böngészését is
 
 ## MR2022 New User Set Default screen strings
 
@@ -349,6 +350,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Ön egy újító.</b> Mind
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Ugorjon át a laptopjáról a telefonjára és vissza
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -363,6 +365,15 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Mindig tiszteletben tartjuk a magánszféráját
+mr2022-onboarding-privacy-segmentation-subtitle = Az intelligens javaslatoktól az okos keresésig, folyamatosan dolgozunk egy jobb, személyesebb { -brand-product-name } létrehozásán.
+mr2022-onboarding-privacy-segmentation-cta-text = Ha olyan új funkciókat kínálunk, amelyek az Ön adatait használják fel a böngészése javítása érdekében, akkor mit szeretne látni:
+mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } javaslatok
+mr2022-onboarding-privacy-segmentation-secondary-button-label = Részletes információk
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Segít nekünk egy jobb web kialakításában.
+mr2022-onboarding-gratitude-subtitle = Köszönjük, hogy a { -brand-short-name }et használja, amelyet a Mozilla Alapítvány támogat. Az Ön támogatásával azon dolgozunk, hogy az internetet mindenki számára nyitottabbá, hozzáférhetőbbé és jobbá tegyük.
+mr2022-onboarding-gratitude-primary-button-label = Nézze meg az újdonságokat
+mr2022-onboarding-gratitude-secondary-button-label = Böngészés megkezdése
