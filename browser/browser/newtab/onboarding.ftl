@@ -278,7 +278,7 @@ mr2022-onboarding-pin-primary-button-label =
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = 비영리 단체가 지원하는 브라우저로 시작하세요. 웹을 탐색하시는 동안 저희는 개인정보를 보호합니다.
+mr2022-onboarding-set-default-only-subtitle = 비영리 단체가 지원하는 브라우저로 시작하세요. 웹을 탐색하시는 동안 저희는 개인 정보를 보호합니다.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -286,6 +286,10 @@ mr2022-onboarding-set-default-only-subtitle = 비영리 단체가 지원하는 �
 mr2022-onboarding-existing-pin-header = { -brand-product-name }를 사랑해 주셔서 감사합니다.
 # Subtitle is used on onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-subtitle = 어디서나 클릭 한 번으로 더 건강한 인터넷을 시작하세요. 최신 업데이트에는 여러분이 좋아할 만한 새로운 것들이 가득합니다.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = 웹을 탐색하는 동안 개인 정보를 보호하는 브라우저를 사용하세요. 최신 업데이트는 당신이 좋아하는 것들로 가득 차 있습니다.
+mr2022-onboarding-existing-pin-checkbox-label = { -brand-short-name } 사생활 보호 모드도 추가
 
 ## MR2022 New User Set Default screen strings
 
