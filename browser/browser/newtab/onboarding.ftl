@@ -375,6 +375,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = Vždy rešpektujeme vaše súkromie
 mr2022-onboarding-privacy-segmentation-subtitle = Od inteligentných návrhov po inteligentnejšie vyhľadávanie, neustále pracujeme na vytvorení lepšieho a osobnejšieho { -brand-product-name(case: "gen") }.
+mr2022-onboarding-privacy-segmentation-cta-text = Keď ponúkame nové funkcie, ktoré využívajú vaše údaje na zlepšenie vášho prehliadania, chcete vidieť:
 mr2022-onboarding-privacy-segmentation-primary-button-label = Odporúčania { -brand-product-name(case: "gen") }
 mr2022-onboarding-privacy-segmentation-secondary-button-label = Detailné informácie
 
