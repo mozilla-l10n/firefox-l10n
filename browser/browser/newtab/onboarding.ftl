@@ -356,6 +356,7 @@ mr2022-onboarding-colorway-description-innovator = <b>혁신가입니다.</b> �
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = 노트북에서 휴대폰으로 이동 후 다시 이동
+mr2022-onboarding-mobile-download-subtitle = 한 기기에서 탭을 가져와서 다른 기기에서 그 중단한 부분을 엽니다. 또한 { -brand-product-name }를 사용하는 곳이면 어디에서나 북마크와 비밀번호를 동기화할 수 있습니다.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
