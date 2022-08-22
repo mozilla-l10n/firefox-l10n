@@ -257,11 +257,63 @@ fx100-upgrade-thanks-header = 100 agradecimentos
 fx100-upgrade-thank-you-body = É a nossa 100ª versão do { -brand-short-name }. Obrigado a <em>você</em> por nos ajudar a construir uma internet melhor e mais saudável.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = É a nossa 100ª versão! Obrigado por fazer parte da nossa comunidade. Mantenha o { -brand-short-name } a um clique de distância para os próximos 100.
+mr2022-onboarding-secondary-skip-button-label = Pular esta etapa
+
+## MR2022 New User Pin Firefox screen strings
+
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Abra-se uma internet incrível
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Inicie o { -brand-short-name } de qualquer lugar com um único clique. Toda vez que faz isso, você está escolhendo uma web mais aberta e independente.
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Manter o { -brand-short-name } no Dock
+       *[other] Fixar o { -brand-short-name } na barra de tarefas
+    }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Comece com um navegador respaldado por uma organização sem fins lucrativos. Defendemos sua privacidade enquanto você passeia pela web.
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Obrigado por adorar o { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Inicie uma internet mais saudável de qualquer lugar com um único clique. Nossa versão mais recente está repleta de novidades que achamos que você vai adorar.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Use um navegador que defende sua privacidade enquanto você passeia pela web. Nossa versão mais recente está repleta de coisas que você adora.
+mr2022-onboarding-existing-pin-checkbox-label = Adicione também a navegação privativa do { -brand-short-name }
+
+## MR2022 New User Set Default screen strings
+
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+
+## MR2022 Import Settings screen strings
+
+
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+
+## MR2022 Multistage Mobile Download screen strings
+
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-onboarding-skip-step-button-label = Pular esta etapa
 mr2022-upgrade-onboarding-pin-private-window-header = Tenha liberdade de navegação privativa em apenas um clique
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Não salva cookies nem histórico, direto da sua área de trabalho. Navegue como se ninguém estivesse vendo.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
@@ -269,3 +321,9 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
         [macos] Manter a navegação privativa do { -brand-short-name } no Dock
        *[other] Fixar a navegação privativa do { -brand-short-name } na barra de tarefas
     }
+
+## MR2022 Privacy Segmentation screen strings
+
+
+## MR2022 Multistage Gratitude screen strings
+
