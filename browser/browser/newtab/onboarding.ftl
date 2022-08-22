@@ -325,6 +325,11 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Wy respektearje altyd jo privacy
+mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name }-oanrekommandaasjes
+mr2022-onboarding-privacy-segmentation-secondary-button-label = Detaillearre ynformaasje
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-primary-button-label = Besjoch wat nij is
+mr2022-onboarding-gratitude-secondary-button-label = Start mei browsen

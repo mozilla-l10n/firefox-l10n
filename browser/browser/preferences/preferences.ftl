@@ -933,7 +933,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Sykmasinen
     .accesskey = y
+addressbar-locbar-quickactions-option =
+    .label = Flugge aksjes
+    .accesskey = F
 addressbar-suggestions-settings = Foarkarren foar sykmasinesuggestjes wizigje
+addressbar-quickactions-learn-more = Mear ynfo
 
 ## Privacy Section - Content Blocking
 
