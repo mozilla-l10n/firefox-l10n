@@ -307,6 +307,7 @@ mr2022-onboarding-set-default-subtitle = 비영리 단체가 지원하는 브라
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = 최신 버전이 사용자 중심으로 구축되어, 그 어느 때보다 쉽게 웹을 둘러볼 수 있습니다. 여러분이 좋아할 만한 기능으로 가득 차 있습니다.
+mr2022-onboarding-get-started-primary-button-label = 빠른 설정
 
 ## MR2022 Import Settings screen strings
 
@@ -322,6 +323,8 @@ mr2022-onboarding-import-primary-button-label-no-attribution = 이전 브라우�
 mr2022-onboarding-colorway-title = 영감을 주는 색상을 선택하세요
 mr2022-onboarding-colorway-subtitle = 독립적인 목소리가 문화를 바꿀 수 있습니다.
 mr2022-onboarding-colorway-primary-button-label = 컬러웨이 설정
+mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name }를 다채로운 홈페이지로 만드세요
+mr2022-onboarding-colorway-description-default = <b>현재의 { -brand-short-name } 색상을 사용합니다.</b>
 
 ## MR2022 Multistage Mobile Download screen strings
 
@@ -339,6 +342,8 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } 추천
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-primary-button-label = 새 기능 보기
