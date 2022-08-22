@@ -331,9 +331,11 @@ mr2022-onboarding-colorway-description-default = <b>Usa mi colores actual de { -
 mr2022-onboarding-colorway-label-playmaker = Gestor de joco
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Gestor de joco
+mr2022-onboarding-colorway-description-playmaker = <b>Tu es un Gestor de joco.</b> Tu crea opportunitates pro vincer e adjutar totes circum te a elevar lor joco.
 mr2022-onboarding-colorway-label-expressionist = Expressionista
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = Expressionista
+mr2022-onboarding-colorway-description-expressionist = <b>Tu es un Expressionista.</b> Tu vide le mundo differentemente e tu creationes agita le emotiones de alteres.
 mr2022-onboarding-colorway-label-visionary = Visionari
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Visionari
@@ -368,6 +370,10 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Nos sempre respecta tu confidentialitate
+mr2022-onboarding-privacy-segmentation-subtitle = Ab le suggestiones intelligente al recerca plus intelligente, nos constantemente labora pro crear un { -brand-product-name } melior e plus personal.
+mr2022-onboarding-privacy-segmentation-cta-text = Quando nos offere nove functionalitates que usa tu datos pro meliorar tu navigation, vole tu vider:
+mr2022-onboarding-privacy-segmentation-primary-button-label = Le recommendationes de { -brand-product-name }
 
 ## MR2022 Multistage Gratitude screen strings
 
