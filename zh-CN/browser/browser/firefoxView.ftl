@@ -41,6 +41,7 @@ firefoxview-tabpickup-sync-error-header = 同步时遇到问题
 firefoxview-tabpickup-sync-error-primarybutton = 重试
 firefoxview-tabpickup-sync-disconnected-header = 启用同步服务以继续
 firefoxview-tabpickup-sync-disconnected-description = 若要接收您的标签页，需先启用 { -brand-short-name } 的同步服务。
+firefoxview-tabpickup-sync-disconnected-primarybutton = 在设置中启用
 firefoxview-tabpickup-syncing = 您的标签页正在同步，请稍等片刻。
 firefoxview-mobile-promo-header = 从手机或平板电脑接收标签页
 firefoxview-mobile-promo-description = 若要查看近期您移动设备上的标签页，请登录 iOS/Android 版 { -brand-product-name }。
