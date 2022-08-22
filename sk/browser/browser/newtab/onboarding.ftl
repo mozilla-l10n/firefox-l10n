@@ -304,15 +304,24 @@ mr2022-onboarding-set-default-subtitle = Použite prehliadač podporovaný nezis
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Naša najnovšia verzia je postavená okolo vás, vďaka čomu je prehliadanie webu jednoduchšie ako kedykoľvek predtým. Je nabitý funkciami, o ktorých si myslíme, že si ich zamilujete.
+mr2022-onboarding-get-started-primary-button-label = Nastavenie za pár sekúnd
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Bleskové nastavenie
+mr2022-onboarding-import-subtitle = Nastavte si { -brand-short-name } podľa seba. Pridajte si záložky, heslá a ďalšie položky zo starého prehliadača.
+mr2022-onboarding-import-primary-button-label-no-attribution = Importovať z predchádzajúceho prehliadača
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Vyberte si farbu, ktorá vás inšpiruje
+mr2022-onboarding-colorway-subtitle = Nezávislé hlasy môžu zmeniť kultúru.
 mr2022-onboarding-colorway-primary-button-label = Použiť farebnú tému
 mr2022-onboarding-existing-colorway-checkbox-label = Urobte z { -firefox-home-brand-name(case: "gen") } svoju farebnú domovskú stránku
 mr2022-onboarding-colorway-label-default = Predvolená
@@ -346,6 +355,10 @@ mr2022-onboarding-colorway-description-innovator = <b>Ste inovátor.</b> Všade 
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Preskočte z notebooku na telefón a späť
+mr2022-onboarding-mobile-download-subtitle = Vezmite karty z jedného zariadenia a pokračujte tam, kde ste prestali na inom. Navyše si synchronizujte svoje záložky a heslá kdekoľvek, kde používate prehliadač { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Naskenujte QR kód a získajte { -brand-product-name } pre mobilné zariadenie alebo si <a data-l10n-name="download-label">pošlite odkaz na stiahnutie</a>.
+mr2022-onboarding-no-mobile-download-cta-text = Naskenujte QR kód a získajte { -brand-product-name } pre mobilné zariadenie.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
