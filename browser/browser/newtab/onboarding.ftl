@@ -274,12 +274,31 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Ponechať { -brand-short-name } v Docku
        *[other] Pripnúť { -brand-short-name } na hlavný panel úloh
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Začnite s prehliadačom podporovaným neziskovou organizáciou. Chránime vaše súkromie, keď sa pohybujete po webe.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Ďakujeme, že máte radi { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Spustite zdravší internet odkiaľkoľvek jediným kliknutím. Naša najnovšia aktualizácia je plná nových vecí, o ktorých si myslíme, že si ich zamilujete.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Používajte prehliadač, ktorý chráni vaše súkromie, keď sa pohybujete po webe. Naša najnovšia aktualizácia je plná vecí, ktoré zbožňujete.
+mr2022-onboarding-existing-pin-checkbox-label = Pridajte si aj Súkromné prehliadanie { -brand-short-name(case: "gen") }
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Nastaviť { -brand-short-name } ako váš prehliadač
+mr2022-onboarding-set-default-primary-button-label = Nastaviť { -brand-short-name } ako predvolený prehliadač
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Použite prehliadač podporovaný neziskovou organizáciou. Chránime vaše súkromie, keď sa pohybujete po webe.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
