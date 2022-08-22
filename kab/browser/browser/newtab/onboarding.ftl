@@ -305,6 +305,7 @@ mr2022-onboarding-colorway-description-dreamer = <b>Kečč·kemm d b·mmtirga.</
 mr2022-onboarding-colorway-label-innovator = Amesnulfu
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Amesnulfu
+mr2022-onboarding-colorway-description-innovator = <b>Kečč·kemm d t·amesnulfuṭ.</b> Tettwaliḍ tignatin deg yal adeg, tettḥazeḍ ula d tudert n wid i ak·am-d-yezzin.
 
 ## MR2022 Multistage Mobile Download screen strings
 
