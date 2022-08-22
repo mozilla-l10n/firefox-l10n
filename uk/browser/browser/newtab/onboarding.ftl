@@ -258,11 +258,107 @@ fx100-upgrade-thanks-header = 100 разів дякуємо вам
 fx100-upgrade-thank-you-body = Це наш 100-й випуск { -brand-short-name }. Дякуємо <em>вам</em> за допомогу в створенні кращого та здоровішого інтернету.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Це наш 100-й випуск! Дякуємо за те, що ви є частиною нашої спільноти. Тримайте { -brand-short-name } на відстані одного натискання для наступних 100.
+mr2022-onboarding-secondary-skip-button-label = Пропустити цей крок
+
+## MR2022 New User Pin Firefox screen strings
+
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Відкрийте дивовижний інтернет
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Відкривайте { -brand-short-name } всюди одним натиском. Щоразу роблячи це, ви обираєте відкритий та незалежний інтернет.
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Закріпити { -brand-short-name } у док
+       *[other] Закріпити { -brand-short-name } на панелі завдань
+    }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Розпочніть роботу з некомерційним браузером. Ми захищаємо вашу приватність, поки ви мандруєте інтернетом.
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Дякуємо за вибір { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Відкривайте здоровіший інтернет звідусіль одним натиском. Наша найновіша версія має функції, які вам сподобаються.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Користуйтеся браузером, який захищає вашу приватність, поки ви мандруєте інтернетом. Наша найновіша версія має функції, які вам сподобаються.
+mr2022-onboarding-existing-pin-checkbox-label = Також додайте приватний перегляд { -brand-short-name }
+
+## MR2022 New User Set Default screen strings
+
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Зробіть { -brand-short-name } основним браузером
+mr2022-onboarding-set-default-primary-button-label = Встановити { -brand-short-name } типовим браузером
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Користуйтеся некомерційним браузером. Ми захищаємо вашу приватність, поки ви мандруєте інтернетом.
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Наша найновіша версія створена для вас, пропонуючи ще простіше користування інтернетом та функції, які вам сподобаються.
+mr2022-onboarding-get-started-primary-button-label = Налаштуйте за лічені секунди
+
+## MR2022 Import Settings screen strings
+
+mr2022-onboarding-import-header = Блискавично швидке налаштування
+mr2022-onboarding-import-subtitle = Налаштуйте { -brand-short-name } на свій смак. Додайте закладки, паролі та інші дані зі свого іншого браузера.
+mr2022-onboarding-import-primary-button-label-no-attribution = Імпортувати з іншого браузера
+
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+mr2022-onboarding-colorway-title = Оберіть колір, який вас надихає
+mr2022-onboarding-colorway-subtitle = Незалежні голоси можуть змінити культуру.
+mr2022-onboarding-colorway-primary-button-label = Встановити забарвлення
+mr2022-onboarding-existing-colorway-checkbox-label = Зробіть { -firefox-home-brand-name(case: "acc", capitalization: "lower") } своєю яскравою домашньою сторінкою
+mr2022-onboarding-colorway-label-default = Типово
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Типово
+mr2022-onboarding-colorway-description-default = <b>Використовувати поточні кольори { -brand-short-name }.</b>
+mr2022-onboarding-colorway-label-playmaker = Гра
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Гра
+mr2022-onboarding-colorway-label-expressionist = Експресіонізм
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Експресіонізм
+mr2022-onboarding-colorway-label-visionary = Мрійливість
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Мрійливість
+mr2022-onboarding-colorway-label-activist = Активізм
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Активізм
+mr2022-onboarding-colorway-label-dreamer = Натхненність
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Натхненність
+mr2022-onboarding-colorway-description-dreamer = <b>Ви надихаєте інших.</b> Ви вірите, що доля любить завзятих і надихаєте людей бути сміливими.
+mr2022-onboarding-colorway-label-innovator = Винахідливість
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Винахідливість
+
+## MR2022 Multistage Mobile Download screen strings
+
+mr2022-onboarding-mobile-download-title = Переходьте з ноутбука на телефон і назад
+mr2022-onboarding-mobile-download-subtitle = Продовжуйте працювати зі своїми вкладками на іншому пристрої. А також синхронізуйте закладки й паролі всюди, де користуєтеся { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Скануйте QR-код, щоб отримати { -brand-product-name } для мобільного, або <a data-l10n-name="download-label">надішліть собі посилання для завантаження.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Скануйте QR-код, щоб отримати { -brand-product-name } для мобільного.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-onboarding-skip-step-button-label = Пропустити цей крок
 mr2022-upgrade-onboarding-pin-private-window-header = Отримайте свободу приватного перегляду одним натиском
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Жодних збережених кук чи історії на комп'ютері. Переглядайте без думки, що за вами хтось спостерігає.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
@@ -270,3 +366,18 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
         [macos] Закріпити приватне вікно { -brand-short-name } у док
        *[other] Закріпити приватне вікно { -brand-short-name } на панелі завдань
     }
+
+## MR2022 Privacy Segmentation screen strings
+
+mr2022-onboarding-privacy-segmentation-title = Ми завжди поважаємо вашу приватність
+mr2022-onboarding-privacy-segmentation-subtitle = Від інтелектуальних пропозицій до розумнішого пошуку, ми постійно працюємо над створенням досконалішого, більш персоналізованого { -brand-product-name }.
+mr2022-onboarding-privacy-segmentation-cta-text = Коли ми пропонуємо нові можливості, що використовують ваші дані для вдосконалення перегляду, ви хочете бачити:
+mr2022-onboarding-privacy-segmentation-primary-button-label = Рекомендації { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-secondary-button-label = Докладну інформацію
+
+## MR2022 Multistage Gratitude screen strings
+
+mr2022-onboarding-gratitude-title = Ви допомагаєте нам створювати кращий інтернет.
+mr2022-onboarding-gratitude-subtitle = Дякуємо вам за користування { -brand-short-name }, створеним командою Mozilla Foundation. Завдяки вашій підтримці ми докладаємо зусиль для створення більш відкритого, доступного та кращого інтернету для всіх.
+mr2022-onboarding-gratitude-primary-button-label = Перегляньте, що нового
+mr2022-onboarding-gratitude-secondary-button-label = Почати перегляд
