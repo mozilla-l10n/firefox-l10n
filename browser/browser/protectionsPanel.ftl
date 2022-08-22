@@ -39,7 +39,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Todos os rastreadores deste
 ##
 
 protections-panel-no-trackers-found = Nenhum rastreador conhecido pelo { -brand-short-name } foi detectado nesta página.
-protections-panel-content-blocking-tracking-protection = Conteúdo de rastreamento
+protections-panel-content-blocking-tracking-protection = Conteúdo com rastreamento
 protections-panel-content-blocking-socialblock = Rastreadores de mídias sociais
 protections-panel-content-blocking-cryptominers-label = Criptomineradores
 protections-panel-content-blocking-fingerprinters-label = Fingerprinters (rastreadores de identidade digital)
@@ -77,7 +77,7 @@ protections-panel-site-not-working-view-send-report = Enviar um relato
 protections-panel-cross-site-tracking-cookies = Esses cookies tentam te seguir de um site para outro para coletar dados sobre o que você faz online. Eles são criados por terceiros, como anunciantes e empresas analíticas.
 protections-panel-cryptominers = Criptomineradores usam o poder computacional do seu sistema para minerar moedas digitais. Scripts de criptomineradores drenam sua bateria, fazem seu computador ficar mais lento e podem aumentar sua conta de energia elétrica.
 protections-panel-fingerprinters = Fingerprinters coletam configurações do seu navegador e do seu computador para traçar um perfil seu. Usando esta identidade digital, eles podem rastrear você em vários sites.
-protections-panel-tracking-content = Sites podem carregar anúncios, vídeos e outros conteúdos externos com código de rastreamento. Bloquear conteúdo de rastreamento pode ajudar a carregar sites mais rápido, mas alguns botões, formulários e campos de acesso a contas podem não funcionar.
+protections-panel-tracking-content = Sites podem carregar anúncios, vídeos e outros conteúdos externos com código de rastreamento. Bloquear conteúdo com rastreamento pode ajudar a carregar sites mais rápido, mas alguns botões, formulários e campos de acesso a contas podem não funcionar.
 protections-panel-social-media-trackers = Redes sociais colocam rastreadores em outros sites para seguir o que você faz, vê e assiste online. Isto permite que empresas de mídias sociais saibam mais sobre você, muito além do que você compartilha nos perfis de suas mídias sociais.
 protections-panel-description-shim-allowed = Alguns rastreadores marcados abaixo foram parcialmente desbloqueados nesta página porque você interagiu com eles.
 protections-panel-description-shim-allowed-learn-more = Saiba mais
