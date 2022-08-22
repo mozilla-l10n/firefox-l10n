@@ -324,7 +324,21 @@ mr2022-onboarding-colorway-title = 영감을 주는 색상을 선택하세요
 mr2022-onboarding-colorway-subtitle = 독립적인 목소리가 문화를 바꿀 수 있습니다.
 mr2022-onboarding-colorway-primary-button-label = 컬러웨이 설정
 mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name }를 다채로운 홈페이지로 만드세요
+mr2022-onboarding-colorway-label-default = 기본
+mr2022-onboarding-colorway-tooltip-default =
+    .title = 기본
 mr2022-onboarding-colorway-description-default = <b>현재의 { -brand-short-name } 색상을 사용합니다.</b>
+mr2022-onboarding-colorway-label-playmaker = 플레이메이커
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = 플레이메이커
+mr2022-onboarding-colorway-description-playmaker = <b>플레이메이커입니다.</b> 여러분은 승리할 수 있는 기회를 만들고 주변의 모든 사람들이 게임을 향상시킬 수 있도록 돕습니다.
+mr2022-onboarding-colorway-label-expressionist = 표현주의자
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = 표현주의자
+mr2022-onboarding-colorway-description-expressionist = <b>표현주의자입니다.</b> 여러분은 세상을 다르게 보고 여러분의 창조물이 다른 사람들의 감정을 자극합니다.
+mr2022-onboarding-colorway-label-visionary = 공상가
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = 공상가
 
 ## MR2022 Multistage Mobile Download screen strings
 
