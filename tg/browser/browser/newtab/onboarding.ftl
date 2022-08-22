@@ -276,16 +276,21 @@ mr2022-onboarding-pin-primary-button-label =
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Ташаккур барои дӯст доштани «{ -brand-product-name }»
+mr2022-onboarding-existing-pin-checkbox-label = Инчунин тамошокунии хусусии «{ -brand-short-name }»-ро илова кунед
 
 ## MR2022 New User Set Default screen strings
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = «{ -brand-short-name }»-ро ҳамчун браузери писандида таъин намоед
+mr2022-onboarding-set-default-primary-button-label = Танзим кардани «{ -brand-short-name }» ҳамчун браузери пешфарз
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = Дар як лаҳза танзим кунед
 
 ## MR2022 Import Settings screen strings
 
@@ -343,6 +348,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Мо ҳамеша махфияти шуморо эҳтиром мекунем
 mr2022-onboarding-privacy-segmentation-primary-button-label = Тавсияҳои { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-secondary-button-label = Маълумоти муфассал
 
