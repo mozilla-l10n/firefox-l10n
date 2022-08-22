@@ -304,3 +304,4 @@ mr2022-onboarding-colorway-tooltip-dreamer =
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-primary-button-label = Découvrir les nouveautés
