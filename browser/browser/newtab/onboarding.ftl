@@ -254,6 +254,7 @@ mr2022-onboarding-secondary-skip-button-label = 跳过此步骤
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = 几秒钟就能完成设置
 
 ## MR2022 Import Settings screen strings
 
@@ -272,6 +273,30 @@ mr2022-onboarding-colorway-label-default = 默认
 mr2022-onboarding-colorway-tooltip-default =
     .title = 默认
 mr2022-onboarding-colorway-description-default = <b>使用我当前的 { -brand-short-name } 颜色。</b>
+mr2022-onboarding-colorway-label-playmaker = 实力派
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = 实力派
+mr2022-onboarding-colorway-description-playmaker = <b>您是实力派。</b>您是做事成功的关键，并乐于帮助周围的人一同提升。
+mr2022-onboarding-colorway-label-expressionist = 表现派
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = 表现派
+mr2022-onboarding-colorway-description-expressionist = <b>您是表现派。</b>您以不同的方式看待世界，并善用创作引起他人的情感共鸣。
+mr2022-onboarding-colorway-label-visionary = 远见派
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = 远见派
+mr2022-onboarding-colorway-description-visionary = <b>您是远见派。</b>您不满足于现状，并带领大家畅想更美好的未来。
+mr2022-onboarding-colorway-label-activist = 行动派
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = 行动派
+mr2022-onboarding-colorway-description-activist = <b>您是行动派。</b>您让世界变得更美好，并引导他人相信亦应如此。
+mr2022-onboarding-colorway-label-dreamer = 理想派
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = 理想派
+mr2022-onboarding-colorway-description-dreamer = <b>您是理想派。</b>您相信命运偏爱大胆的人，并激励他人勇敢做自己。
+mr2022-onboarding-colorway-label-innovator = 创新派
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = 创新派
+mr2022-onboarding-colorway-description-innovator = <b>您是创新派。</b>您善于捕捉各处机会，并正向影响身边所有人。
 
 ## MR2022 Multistage Mobile Download screen strings
 
@@ -289,6 +314,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } 推荐
 mr2022-onboarding-privacy-segmentation-secondary-button-label = 详细信息
 
 ## MR2022 Multistage Gratitude screen strings
