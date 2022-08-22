@@ -82,8 +82,6 @@ vcard-adr-header = Adrese
 vcard-adr-add = Dodaj adresu
 vcard-adr-label = Adresa
 vcard-adr-delivery-label = Oznaka za isporuku
-vcard-adr-pobox = Poštanski sandučić
-vcard-adr-ext = Proširena adresa
 vcard-adr-street = Ulica
 # Or "Locality"
 vcard-adr-locality = Grad
@@ -105,3 +103,8 @@ vcard-org-add = Dodaj svojstva organizacije
 vcard-org-title = Naslov
 vcard-org-role = Uloga
 vcard-org-org = Organizacija
+
+# Custom properties
+
+vcard-custom-header = Prilagođene postavke
+vcard-custom-add = Dodaj prilagođene postavke
