@@ -296,7 +296,11 @@ theme-disabled-heading = Deaktiveret
 theme-disabled-heading2 = Gemte temaer
 theme-monochromatic-heading = Farvekombinationer
 theme-monochromatic-subheading = Dynamiske nye farvekombinationer fra { -brand-product-name }. Findes kun i begrænset tid.
+# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Prøv farvekombinationer
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+colorway-collection-expiry-label = Udløber { DATETIME($expiryDate, day: "numeric", month: "long") }
 plugin-enabled-heading = Aktiveret
 plugin-disabled-heading = Deaktiveret
 dictionary-enabled-heading = Aktiveret
