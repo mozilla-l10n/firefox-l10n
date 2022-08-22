@@ -356,6 +356,9 @@ mr2022-onboarding-colorway-description-innovator = <b>Você é um inovador.</b> 
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Alterne entre o notebook e o celular
+mr2022-onboarding-mobile-download-subtitle = Pegue abas de um dispositivo e continue de onde parou em outro. Além disso, sincronize seus favoritos e senhas em qualquer lugar que use o { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Capture o código QR para instalar o { -brand-product-name } para celular ou <a data-l10n-name="download-label">envie um link de download para si mesmo</a>.
+mr2022-onboarding-no-mobile-download-cta-text = Capture o código QR para instalar o { -brand-product-name } para dispositivos móveis.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
