@@ -350,6 +350,7 @@ mr2022-onboarding-colorway-tooltip-innovator =
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Passa de portabile a telephono e retro ancora
+mr2022-onboarding-mobile-download-subtitle = Collige schedas de un apparato e reprende de ubi tu los habeva lassate in un altere. Synchronisa tu marcapaginas e contrasignos ubique tu usa { -brand-product-name }.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
