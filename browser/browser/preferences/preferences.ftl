@@ -1346,7 +1346,7 @@ certs-devices =
     .label = Bezpečnostní zařízení…
     .accesskey = B
 space-alert-over-5gb-settings-button =
-    .label = Otevřít Nastavení
+    .label = Otevřít nastavení
     .accesskey = O
 space-alert-over-5gb-message2 =
     <strong>{ -brand-short-name.gender ->
