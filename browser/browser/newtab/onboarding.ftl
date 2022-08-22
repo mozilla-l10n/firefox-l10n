@@ -357,6 +357,8 @@ mr2022-onboarding-colorway-description-innovator = <b>혁신가입니다.</b> �
 
 mr2022-onboarding-mobile-download-title = 노트북에서 휴대폰으로 이동 후 다시 이동
 mr2022-onboarding-mobile-download-subtitle = 한 기기에서 탭을 가져와서 다른 기기에서 그 중단한 부분을 엽니다. 또한 { -brand-product-name }를 사용하는 곳이면 어디에서나 북마크와 비밀번호를 동기화할 수 있습니다.
+mr2022-onboarding-mobile-download-cta-text = QR 코드를 스캔하여 모바일용 { -brand-product-name }를 받거나 <a data-l10n-name="download-label">다운로드 링크를 보내세요.</a>
+mr2022-onboarding-no-mobile-download-cta-text = 모바일용 { -brand-product-name }를 받으려면 QR 코드를 스캔하세요.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -371,7 +373,9 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = 항상 개인 정보를 존중합니다
 mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } 추천
+mr2022-onboarding-privacy-segmentation-secondary-button-label = 자세한 정보
 
 ## MR2022 Multistage Gratitude screen strings
 
