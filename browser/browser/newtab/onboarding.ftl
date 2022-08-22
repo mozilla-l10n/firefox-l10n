@@ -243,12 +243,21 @@ mr2022-onboarding-secondary-skip-button-label = 跳过此步骤
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] 在程序坞中保留 { -brand-short-name }
+       *[other] 将 { -brand-short-name } 固定到任务栏
+    }
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = 要将 { -brand-short-name } 设为您的默认浏览器吗？
+mr2022-onboarding-set-default-primary-button-label = 将 { -brand-short-name } 设为默认浏览器
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -267,6 +276,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = 从先前所用�
 ## help creating a more inclusive translation.
 
 mr2022-onboarding-colorway-title = 选择能激发你灵感的颜色
+mr2022-onboarding-colorway-subtitle = 凡人之声，文化之根
 mr2022-onboarding-colorway-primary-button-label = 设置配色
 mr2022-onboarding-existing-colorway-checkbox-label = 将“{ -firefox-home-brand-name }”设为您的多彩主页
 mr2022-onboarding-colorway-label-default = 默认
@@ -300,6 +310,8 @@ mr2022-onboarding-colorway-description-innovator = <b>您是创新派。</b>您�
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-cta-text = 扫码下载移动版 { -brand-product-name } 或<a data-l10n-name="download-label">向自己发送下载链接。</a>
+mr2022-onboarding-no-mobile-download-cta-text = 扫码下载移动版 { -brand-product-name }。
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
