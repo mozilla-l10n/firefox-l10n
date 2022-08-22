@@ -302,6 +302,7 @@ mr2022-onboarding-existing-colorway-checkbox-label = להפוך את { -firefox-
 mr2022-onboarding-colorway-label-default = ברירת מחדל
 mr2022-onboarding-colorway-tooltip-default =
     .title = ברירת מחדל
+mr2022-onboarding-colorway-description-default = <b>שימוש בצבעי { -brand-short-name } הנוכחיים שלי.</b>
 
 ## MR2022 Multistage Mobile Download screen strings
 
@@ -318,6 +319,12 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = אנחנו תמיד מכבדים את הפרטיות שלך
+mr2022-onboarding-privacy-segmentation-subtitle = מהצעות חכמות ועד לחיפוש חכם יותר, אנו פועלים ללא הרף כדי ליצור { -brand-product-name } טוב ואישי יותר.
+mr2022-onboarding-privacy-segmentation-primary-button-label = הצעות של { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-secondary-button-label = מידע מפורט
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-primary-button-label = מה חדש
+mr2022-onboarding-gratitude-secondary-button-label = התחלת גלישה
