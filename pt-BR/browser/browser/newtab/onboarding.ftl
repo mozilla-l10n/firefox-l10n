@@ -355,6 +355,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Você é um inovador.</b> 
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Alterne entre o notebook e o celular
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -369,6 +370,15 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Sempre respeitamos sua privacidade
+mr2022-onboarding-privacy-segmentation-subtitle = De sugestões inteligentes a pesquisas mais espertas, trabalhamos constantemente para criar um { -brand-product-name } melhor e mais pessoal.
+mr2022-onboarding-privacy-segmentation-cta-text = Quando oferecermos novos recursos que usam seus dados para aprimorar sua navegação, você quer que apareça:
+mr2022-onboarding-privacy-segmentation-primary-button-label = Recomendações do { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-secondary-button-label = Informações detalhadas
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Você está nos ajudando a construir uma web melhor.
+mr2022-onboarding-gratitude-subtitle = Obrigado por usar o { -brand-short-name }, respaldado pela Fundação Mozilla. Com o seu apoio, estamos trabalhando para tornar a internet mais aberta, acessível e melhor para todos.
+mr2022-onboarding-gratitude-primary-button-label = Veja as novidades
+mr2022-onboarding-gratitude-secondary-button-label = Iniciar navegação
