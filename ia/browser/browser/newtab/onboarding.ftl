@@ -282,6 +282,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importar ab previ
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-primary-button-label = Defini combination de colores
 mr2022-onboarding-colorway-label-default = Predefinite
 mr2022-onboarding-colorway-tooltip-default =
     .title = Predefinite
