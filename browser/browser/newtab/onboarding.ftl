@@ -312,6 +312,8 @@ mr2022-onboarding-get-started-primary-button-label = Configure em segundos
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = Configuração extremamente rápida
+mr2022-onboarding-import-subtitle = Configure o { -brand-short-name } como você gostar. Adicione favoritos, senhas e muito mais do seu navegador antigo.
+mr2022-onboarding-import-primary-button-label-no-attribution = Importar do navegador anterior
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
