@@ -320,6 +320,38 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importar do naveg
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Escolha a cor que te inspira
+mr2022-onboarding-colorway-subtitle = Vozes independentes podem mudar a cultura.
+mr2022-onboarding-colorway-primary-button-label = Definir esquema de cores
+mr2022-onboarding-existing-colorway-checkbox-label = Torne a { -firefox-home-brand-name } sua tela inicial colorida
+mr2022-onboarding-colorway-label-default = Padrão
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Padrão
+mr2022-onboarding-colorway-description-default = <b>Usar minhas cores atuais do { -brand-short-name }.</b>
+mr2022-onboarding-colorway-label-playmaker = Jogador em equipe
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Jogador em equipe
+mr2022-onboarding-colorway-description-playmaker = <b>Você é um jogador em equipe.</b> Você cria oportunidades para vencer e ajuda todos ao seu redor a elevar seus jogos.
+mr2022-onboarding-colorway-label-expressionist = Expressionista
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Expressionista
+mr2022-onboarding-colorway-description-expressionist = <b>Você é um expressionista.</b> Você vê o mundo de forma diferente e suas criações despertam emoções nos outros.
+mr2022-onboarding-colorway-label-visionary = Visionário
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Visionário
+mr2022-onboarding-colorway-description-visionary = <b>Você é um visionário.</b> Você questiona o status quo e leva os outros a imaginar um futuro melhor.
+mr2022-onboarding-colorway-label-activist = Ativista
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Ativista
+mr2022-onboarding-colorway-description-activist = <b>Você é um ativista.</b> Você torna o mundo um lugar melhor do que encontrou e leva os outros a acreditar.
+mr2022-onboarding-colorway-label-dreamer = Sonhador
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Sonhador
+mr2022-onboarding-colorway-description-dreamer = <b>Você é um sonhador.</b> Você acredita que a sorte favorece os ousados e inspira os outros a ser corajosos.
+mr2022-onboarding-colorway-label-innovator = Inovador
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Inovador
+mr2022-onboarding-colorway-description-innovator = <b>Você é um inovador.</b> Você vê oportunidades em todo lugar e causa impacto na vida de todos ao seu redor.
 
 ## MR2022 Multistage Mobile Download screen strings
 
