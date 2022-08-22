@@ -339,9 +339,23 @@ mr2022-onboarding-colorway-description-expressionist = <b>표현주의자입니�
 mr2022-onboarding-colorway-label-visionary = 공상가
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = 공상가
+mr2022-onboarding-colorway-description-visionary = <b>공상가입니다.</b> 여러분은 현상 유지에 의문을 제기하고 더 나은 미래를 상상하도록 다른 사람들을 움직입니다.
+mr2022-onboarding-colorway-label-activist = 활동가
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = 활동가
+mr2022-onboarding-colorway-description-activist = <b>활동가입니다.</b> 여러분은 세상을 당신이 발견한 것보다 더 나은 곳으로 남겨두고 다른 사람들이 믿도록 이끕니다.
+mr2022-onboarding-colorway-label-dreamer = 몽상가
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = 몽상가
+mr2022-onboarding-colorway-description-dreamer = <b>몽상가입니다.</b> 여러분은 행운이 대담한 사람을 선호하고 다른 사람들에게 용기를 북돋아준다고 믿습니다.
+mr2022-onboarding-colorway-label-innovator = 혁신가
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = 혁신가
+mr2022-onboarding-colorway-description-innovator = <b>혁신가입니다.</b> 여러분은 어디에서나 기회를 보고 여러분 주변의 모든 사람들의 삶에 영향을 미칩니다.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = 노트북에서 휴대폰으로 이동 후 다시 이동
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
