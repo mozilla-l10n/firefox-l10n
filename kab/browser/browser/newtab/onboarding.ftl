@@ -301,6 +301,7 @@ mr2022-onboarding-colorway-tooltip-activist =
 mr2022-onboarding-colorway-label-dreamer = Win·Tin yettargun
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Win·Tin yettargun
+mr2022-onboarding-colorway-description-dreamer = <b>Kečč·kemm d b·mmtirga.</b> Tumneḍ ssɛaya tetteg tissas, tettarra wiyaḍ sɛan tabɣest.
 mr2022-onboarding-colorway-label-innovator = Amesnulfu
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Amesnulfu
