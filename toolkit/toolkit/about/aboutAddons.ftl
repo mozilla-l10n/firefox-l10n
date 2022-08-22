@@ -300,7 +300,7 @@ theme-monochromatic-subheading = Dynamiske nye farvekombinationer fra { -brand-p
 theme-colorways-button = Prøv farvekombinationer
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = Udløber { DATETIME($expiryDate, day: "numeric", month: "long") }
+colorway-collection-expiry-label = Udløber { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Aktiveret
 plugin-disabled-heading = Deaktiveret
 dictionary-enabled-heading = Aktiveret
