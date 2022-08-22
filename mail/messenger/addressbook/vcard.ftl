@@ -82,8 +82,6 @@ vcard-adr-header = Direcciones
 vcard-adr-add = Añadir dirección
 vcard-adr-label = Dirección
 vcard-adr-delivery-label = Etiqueta de entrega
-vcard-adr-pobox = Apartado de correos
-vcard-adr-ext = Dirección extendida
 vcard-adr-street = Dirección postal
 # Or "Locality"
 vcard-adr-locality = Ciudad
@@ -105,3 +103,8 @@ vcard-org-add = Añadir propiedades de la organización
 vcard-org-title = Cargo
 vcard-org-role = Rol
 vcard-org-org = Organización
+
+# Custom properties
+
+vcard-custom-header = Propiedades personalizadas
+vcard-custom-add = Añadir propiedades personalizadas
