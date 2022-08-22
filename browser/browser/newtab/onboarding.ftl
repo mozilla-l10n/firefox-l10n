@@ -261,15 +261,29 @@ mr2022-onboarding-secondary-skip-button-label = 이 단계 건너뛰기
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = 놀라운 인터넷을 여세요
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = 어디서나 클릭 한 번으로 { -brand-short-name }를 실행하세요. 그럴 때마다 더 개방적이고 독립적인 웹을 선택하게 됩니다.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
         [macos] { -brand-short-name }를 Dock에 넣기
        *[other] { -brand-short-name }를 작업 표시줄에 고정
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = 비영리 단체가 지원하는 브라우저로 시작하세요. 웹을 탐색하시는 동안 저희는 개인정보를 보호합니다.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = { -brand-product-name }를 사랑해 주셔서 감사합니다.
 
 ## MR2022 New User Set Default screen strings
 
