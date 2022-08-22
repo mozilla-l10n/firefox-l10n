@@ -257,11 +257,59 @@ fx100-upgrade-thanks-header = 100 gratias
 fx100-upgrade-thank-you-body = Isto es nostre 100me version de { -brand-short-name }. Gratias a <em>tu</em>adjuta nos pote render internet melior e plus salubre.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Isto es nostre 100me version! Gratias pro participar a nostre communitate. Mantene { -brand-short-name } a portata de clic pro le proxime 100.
+mr2022-onboarding-secondary-skip-button-label = Salta iste passo
+
+## MR2022 New User Pin Firefox screen strings
+
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+
+## MR2022 New User Set Default screen strings
+
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+
+## MR2022 Import Settings screen strings
+
+mr2022-onboarding-import-primary-button-label-no-attribution = Importar ab previe navigator
+
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+mr2022-onboarding-colorway-label-default = Predefinite
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Predefinite
+mr2022-onboarding-colorway-label-playmaker = Gestor de joco
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Gestor de joco
+mr2022-onboarding-colorway-label-expressionist = Expressionista
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Expressionista
+mr2022-onboarding-colorway-label-visionary = Visionari
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Visionari
+mr2022-onboarding-colorway-label-activist = Activista
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Activista
+mr2022-onboarding-colorway-label-dreamer = Soniator
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Soniator
+mr2022-onboarding-colorway-label-innovator = Innovator
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Innovator
+
+## MR2022 Multistage Mobile Download screen strings
+
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-onboarding-skip-step-button-label = Salta iste passo
 mr2022-upgrade-onboarding-pin-private-window-header = Obtene le libertate del navigation private in un clic
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Nulle cookies o chronologia salvate, justo ad tu desktop. Naviga como si nemo te spia.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
@@ -269,3 +317,11 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
         [macos] Retene le navigation private de { -brand-short-name } in Dock
        *[other] Appuncta le navigation private de { -brand-short-name } al barra del activitates
     }
+
+## MR2022 Privacy Segmentation screen strings
+
+
+## MR2022 Multistage Gratitude screen strings
+
+mr2022-onboarding-gratitude-primary-button-label = Vide le novas
+mr2022-onboarding-gratitude-secondary-button-label = Comenciar a navigar
