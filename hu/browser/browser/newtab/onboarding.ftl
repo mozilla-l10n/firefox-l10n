@@ -342,6 +342,10 @@ mr2022-onboarding-colorway-label-dreamer = Álmodozó
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Álmodozó
 mr2022-onboarding-colorway-description-dreamer = <b>Ön egy álmodozó.</b> Úgy hiszi, hogy bátraké a szerencse, és másokat is bátorságra ösztönöz.
+mr2022-onboarding-colorway-label-innovator = Újító
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Újító
+mr2022-onboarding-colorway-description-innovator = <b>Ön egy újító.</b> Mindenhol a lehetőségeket látja, és hatással van a körülötte élők életére.
 
 ## MR2022 Multistage Mobile Download screen strings
 
