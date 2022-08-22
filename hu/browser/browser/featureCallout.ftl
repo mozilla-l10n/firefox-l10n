@@ -12,3 +12,9 @@ callout-primary-complete-button-label = Megértettem!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Váltson az eszközök között a lapok átvételével
+callout-firefox-view-tab-pickup-subtitle = Gyorsan ragadja meg a nyitott lapokat a telefonjáról, és nyissa meg őket a maximális flow élmény érdekében.
+callout-firefox-view-recently-closed-title = Állítsa vissza a bezárt lapjait egy pillanat alatt
+callout-firefox-view-recently-closed-subtitle = Az összes bezárt lapja varázsütésre megjelenik itt. Sose aggódjon, ha véletlenül bezár egy webhelyet.
+callout-firefox-view-colorways-title = Adjon hozzá egy kis színt
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Válasszon egy Önhöz passzoló színvilágot. Csak a { -brand-product-name }ban.
