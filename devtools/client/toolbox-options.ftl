@@ -8,6 +8,8 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = පෙරනිමි සංවර්ධක මෙවලම්
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = එක්කහු මඟින් ස්ථාපිත සංවර්ධක මෙවලම්
@@ -25,7 +27,10 @@ options-show-user-agent-styles-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = පෙරනිමි වර්ණ ඒකකය
 options-default-color-unit-hsl = HSL
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-hwb = HWB
 options-default-color-unit-name = වර්ණ නාම
 
 ## Style Editor section
@@ -35,12 +40,26 @@ options-styleeditor-label = ශෛලිය සංස්කරකය
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = තිරසේයාව හැසිරීම
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = තිර සේයාව පසුරු පුවරුවට පමණි
+options-screenshot-clipboard-tooltip2 =
+    .title = තිරසේයාව සෘජුව පසුරුපුවරුවට සුරකියි
 
 ## Editor section
 
+options-sourceeditor-tabsize-label = පටිත්තෙහි තරම
+options-sourceeditor-keybinding-label = යතුරු බැඳීම්
 options-sourceeditor-keybinding-default-label = පෙරනිමි
 
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = වැඩිදුර සැකසුම්
+# The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
+options-enable-remote-label = දුරස්ථ නිදොස්කරණය සබල කරන්න
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = මූලාශ්‍ර සිතියම් සබල කරන්න
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * වත්මන් වාරයට පමණි, පිටුව යළි පූරණය කරයි
