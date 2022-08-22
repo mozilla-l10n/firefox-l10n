@@ -239,11 +239,46 @@ fx100-upgrade-thanks-header = 百版之约，万分感谢
 fx100-upgrade-thank-you-body = { -brand-short-name } 的第 100 个版本如约而至。感谢<em>您</em> 支持我们建设更好、更健康的互联网。
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = 这是我们的第 100 个版本！一路相伴，感谢有您。{ -brand-short-name } 诚挚邀您共赴下个百版之约。
+mr2022-onboarding-secondary-skip-button-label = 跳过此步骤
+
+## MR2022 New User Pin Firefox screen strings
+
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+
+## MR2022 New User Set Default screen strings
+
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+
+## MR2022 Import Settings screen strings
+
+mr2022-onboarding-import-header = 快速设置
+mr2022-onboarding-import-primary-button-label-no-attribution = 从先前所用浏览器导入
+
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+mr2022-onboarding-colorway-title = 选择能激发你灵感的颜色
+mr2022-onboarding-colorway-primary-button-label = 设置配色
+mr2022-onboarding-existing-colorway-checkbox-label = 将“{ -firefox-home-brand-name }”设为您的多彩主页
+mr2022-onboarding-colorway-label-default = 默认
+mr2022-onboarding-colorway-tooltip-default =
+    .title = 默认
+mr2022-onboarding-colorway-description-default = <b>使用我当前的 { -brand-short-name } 颜色。</b>
+
+## MR2022 Multistage Mobile Download screen strings
+
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-onboarding-skip-step-button-label = 跳过此步骤
 mr2022-upgrade-onboarding-pin-private-window-header = 一键进入隐私浏览模式
 mr2022-upgrade-onboarding-pin-private-window-subtitle = 不保存任何 Cookie 和历史记录，隐私浏览不留痕迹。
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
@@ -251,3 +286,11 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
         [macos] 将 { -brand-short-name } 隐私浏览窗口固定到我的任务栏
        *[other] 在您的程序坞中保留 { -brand-short-name } 隐私浏览窗口
     }
+
+## MR2022 Privacy Segmentation screen strings
+
+mr2022-onboarding-privacy-segmentation-secondary-button-label = 详细信息
+
+## MR2022 Multistage Gratitude screen strings
+
+mr2022-onboarding-gratitude-secondary-button-label = 开始浏览
