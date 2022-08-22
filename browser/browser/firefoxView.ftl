@@ -36,16 +36,14 @@ firefoxview-tabpickup-network-offline-header = Vérifiez votre connexion à Inte
 firefoxview-tabpickup-network-offline-description = Si vous utilisez un pare-feu ou un proxy, vérifiez que { -brand-short-name } a l’autorisation d’accéder au Web.
 firefoxview-tabpickup-network-offline-primarybutton = Réessayer
 firefoxview-tabpickup-sync-error-header = Nous rencontrons des problèmes de synchronisation
-firefoxview-tabpickup-sync-error-description = { -brand-short-name } ne peut pas joindre le service pour l’instant. Réessayez dans quelques instants.
 firefoxview-tabpickup-sync-error-primarybutton = Réessayer
+firefoxview-tabpickup-sync-disconnected-header = Activez la synchronisation pour continuer
 firefoxview-mobile-promo-header = Récupérez les onglets de votre téléphone ou de votre tablette
 firefoxview-mobile-promo-description = Pour afficher les derniers onglets de votre appareil mobile, connectez-vous à { -brand-product-name } sous iOS ou Android.
 firefoxview-mobile-promo-primarybutton = Installez { -brand-product-name } sur votre appareil mobile
 firefoxview-mobile-confirmation-header = 🎉 C’est parti !
 firefoxview-mobile-confirmation-description = Vous pouvez maintenant récupérer les onglets du { -brand-product-name } de votre tablette ou votre téléphone.
 firefoxview-closed-tabs-title = Récemment fermés
-firefoxview-closed-tabs-collapse-button =
-    .title = Afficher ou masquer la liste des onglets récemment fermés
 firefoxview-closed-tabs-description = Rouvrez des pages que vous avez fermées sur cet appareil.
 firefoxview-closed-tabs-placeholder = <strong>Aucune page fermée récemment</strong><br/>Ne craignez plus de perdre encore un onglet fermé. Vous pouvez toujours le retrouver ici.
 # refers to the last tab that was used
@@ -62,3 +60,7 @@ firefoxview-change-colorway-button = Changer de coloris
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Rien à voir encore</strong><br/>La prochaine fois que vous ouvrirez une page dans { -brand-product-name } sur un autre appareil, récupérez-la ici comme par magie.
+firefoxview-collapse-button-show =
+    .title = Afficher la liste
+firefoxview-collapse-button-hide =
+    .title = Masquer la liste

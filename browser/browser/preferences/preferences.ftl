@@ -934,6 +934,7 @@ addressbar-locbar-engines-option =
     .label = Les moteurs de recherche
     .accesskey = r
 addressbar-suggestions-settings = Modifier les préférences pour les suggestions de recherche
+addressbar-quickactions-learn-more = En savoir plus
 
 ## Privacy Section - Content Blocking
 
