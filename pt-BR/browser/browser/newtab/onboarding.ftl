@@ -293,14 +293,25 @@ mr2022-onboarding-existing-pin-checkbox-label = Adicione também a navegação p
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Torne o { -brand-short-name } seu navegador padrão
+mr2022-onboarding-set-default-primary-button-label = Definir o { -brand-short-name } como navegador padrão
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Use um navegador respaldado por uma organização sem fins lucrativos. Defendemos sua privacidade enquanto você passeia pela web.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Nossa versão mais recente foi construída com base em vocês, tornando mais fácil do que nunca passear pela web. Está repleto de recursos que achamos que você vai adorar.
+mr2022-onboarding-get-started-primary-button-label = Configure em segundos
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Configuração extremamente rápida
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
