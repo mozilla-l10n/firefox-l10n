@@ -257,11 +257,43 @@ fx100-upgrade-thanks-header = 100 감사합니다
 fx100-upgrade-thank-you-body = 100번째 { -brand-short-name } 출시입니다. 더 나은 건강한 인터넷을 구축할 수 있도록 도와주셔서 <em>감사합니다</em>.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = 100번째 출시입니다! 커뮤니티의 일원이 되어주셔서 감사합니다. 다음 100번을 위해 클릭 한 번으로 { -brand-short-name }를 유지하세요.
+mr2022-onboarding-secondary-skip-button-label = 이 단계 건너뛰기
+
+## MR2022 New User Pin Firefox screen strings
+
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] { -brand-short-name }를 Dock에 넣기
+       *[other] { -brand-short-name }를 작업 표시줄에 고정
+    }
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+
+## MR2022 New User Set Default screen strings
+
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+
+## MR2022 Import Settings screen strings
+
+
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+
+## MR2022 Multistage Mobile Download screen strings
+
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-onboarding-skip-step-button-label = 이 단계 건너뛰기
 mr2022-upgrade-onboarding-pin-private-window-header = 한 번의 클릭으로 사생활 보호 모드의 자유를 얻으세요
 mr2022-upgrade-onboarding-pin-private-window-subtitle = 쿠키나 기록이 저장되지 않습니다. 아무도 보고 있지 않은 것처럼 탐색하세요.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
@@ -269,3 +301,9 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
         [macos] { -brand-short-name } 사생활 보호 모드를 Dock에 넣기
        *[other] { -brand-short-name } 사생활 보호 모드를 작업 표시줄에 고정
     }
+
+## MR2022 Privacy Segmentation screen strings
+
+
+## MR2022 Multistage Gratitude screen strings
+
