@@ -304,15 +304,23 @@ mr2022-onboarding-set-default-subtitle = 비영리 단체가 지원하는 브라
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = 최신 버전이 사용자 중심으로 구축되어, 그 어느 때보다 쉽게 웹을 둘러볼 수 있습니다. 여러분이 좋아할 만한 기능으로 가득 차 있습니다.
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = 매우 빠른 설정
+mr2022-onboarding-import-primary-button-label-no-attribution = 이전 브라우저에서 가져오기
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = 영감을 주는 색상을 선택하세요
+mr2022-onboarding-colorway-subtitle = 독립적인 목소리가 문화를 바꿀 수 있습니다.
+mr2022-onboarding-colorway-primary-button-label = 컬러웨이 설정
 
 ## MR2022 Multistage Mobile Download screen strings
 
