@@ -22,10 +22,10 @@ psmerr-hostreusedissuerandserial =
     Você recebeu um certificado inválido. Entre em contato com o administrador do servidor e forneça as seguintes informações:
     
     Seu certificado contém o mesmo número de série que o de outro certificado emitido pela autoridade certificadora. Providencie um novo certificado contendo um número de série único.
-ssl-error-export-only-server = Não foi possível comunicar com segurança. O sistema remoto não oferece suporte a criptografia de alto grau.
+ssl-error-export-only-server = Não foi possível comunicar com segurança. O sistema remoto não oferece suporte a criptografia de alto nível.
 ssl-error-us-only-server = Não foi possível comunicar com segurança. O sistema remoto necessita de criptografia de alto nível que não é suportada.
-ssl-error-no-cypher-overlap = Não foi possível comunicar com segurança com o sistema remoto: não há algoritmo(s) de criptografia em comum.
-ssl-error-no-certificate = Não foi possível localizar o certificado ou chave necessários à autenticação.
+ssl-error-no-cypher-overlap = Não foi possível comunicar com segurança com o sistema remoto: nenhum algoritmo de criptografia comum.
+ssl-error-no-certificate = Não foi possível encontrar o certificado ou chave necessários à autenticação.
 ssl-error-bad-certificate = Não foi possível comunicar com segurança com o sistema remoto: o certificado do sistema remoto foi rejeitado.
 ssl-error-bad-client = O servidor encontrou dados defeituosos do cliente.
 ssl-error-bad-server = O cliente encontrou dados defeituosos do servidor.
@@ -33,8 +33,8 @@ ssl-error-unsupported-certificate-type = Tipo de certificado não suportado.
 ssl-error-unsupported-version = O sistema remoto usa uma versão não suportada do protocolo de segurança.
 ssl-error-wrong-certificate = Falha na autenticação do cliente: a chave privada no banco de dados de chaves não corresponde à chave pública no banco de dados de certificados.
 ssl-error-bad-cert-domain = Não foi possível comunicar com segurança com o sistema remoto: o nome de domínio solicitado não corresponde ao certificado do servidor.
-ssl-error-post-warning = Código de erro SSL desconhecido.
-ssl-error-ssl2-disabled = O sistema remoto suporta somente SSL versão 2, que está desativada localmente.
+ssl-error-post-warning = Código de erro SSL não reconhecido.
+ssl-error-ssl2-disabled = O sistema remoto suporta somente SSL versão 2, que está desativado localmente.
 ssl-error-bad-mac-read = O SSL recebeu um registro com “Message Authentication Code” incorreto.
 ssl-error-bad-mac-alert = O sistema remoto SSL informa “Message Authentication Code” incorreto.
 ssl-error-bad-cert-alert = O sistema remoto SSL não pôde verificar seu certificado.
