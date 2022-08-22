@@ -271,7 +271,7 @@ quickactions-cmd-clearhistory = vymazat historii
 quickactions-downloads = Otevřít seznam stahování
 quickactions-cmd-downloads = stahování
 # Opens the devtools web inspector
-quickactions-inspector = Zobrazit průzkumník
+quickactions-inspector = Otevřít průzkumník
 quickactions-cmd-inspector = průzkumník, nástroje pro vývojáře, devtools
 # Opens about:logins
 quickactions-logins = Zobrazit přihlašovací údaje
@@ -304,7 +304,7 @@ quickactions-cmd-restart = restart, restartovat
 quickactions-screenshot2 = Pořídit snímek stránky
 quickactions-cmd-screenshot = snímek obrazovky, stránky
 # Opens about:preferences
-quickactions-settings = Otevřít Nastavení
+quickactions-settings = Otevřít nastavení
 quickactions-cmd-settings = nastavení, předvolby, možnosti
 # Opens a SUMO article explaining how to update the browser
 quickactions-update =
