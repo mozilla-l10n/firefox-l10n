@@ -258,11 +258,67 @@ fx100-upgrade-thanks-header = 100 бор ташаккур ба Шумо
 fx100-upgrade-thank-you-body = Ин 100-умин нашри { -brand-short-name }-и мост! Ташаккур ба <em>Шумо</em> барои кумак ба мо дар сохтани Интернети беҳтар ва солим.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Ин 100-умин нашри мост! Сипосгузорем, ки Шумо қисми ҷамъияти мо мебошед. { -brand-short-name }-ро дар масофаи на дур аз як клик барои 100 нашри дигар нигоҳ доред.
+mr2022-onboarding-secondary-skip-button-label = Нодида гузарондани ин қадам
+
+## MR2022 New User Pin Firefox screen strings
+
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Нигоҳ доштани { -brand-short-name } дар мустақар
+       *[other] Васл кардани { -brand-short-name } ба навори вазифа
+    }
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+
+## MR2022 New User Set Default screen strings
+
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+
+## MR2022 Import Settings screen strings
+
+mr2022-onboarding-import-primary-button-label-no-attribution = Ворид кардан аз браузери қаблӣ
+
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+mr2022-onboarding-colorway-primary-button-label = Татбиқи нақшу нигор
+mr2022-onboarding-existing-colorway-checkbox-label = Бигузор { -firefox-home-brand-name } саҳифаи асосии рангини шумо шавад
+mr2022-onboarding-colorway-label-default = Пешфарз
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Пешфарз
+mr2022-onboarding-colorway-label-playmaker = Бозингар
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Бозингар
+mr2022-onboarding-colorway-label-expressionist = Экспрессионист
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Экспрессионист
+mr2022-onboarding-colorway-label-visionary = Хаёлангез
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Хаёлангез
+mr2022-onboarding-colorway-label-activist = Фаъол
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Фаъол
+mr2022-onboarding-colorway-label-dreamer = Орзуманд
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Орзуманд
+mr2022-onboarding-colorway-label-innovator = Навовар
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Навовар
+
+## MR2022 Multistage Mobile Download screen strings
+
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-onboarding-skip-step-button-label = Нодида гузарондани ин қадам
 mr2022-upgrade-onboarding-pin-private-window-header = Тамошокунии хусусии соҳибихтиёрро бо зеркунии як тугма ба даст оред
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Рост аз мизи кории шумо меояд ва ягон куки ё таърих нигоҳ дошта намешавад. Аз Интернет истифода баред ба мисли ҳеҷ кас ба шумо нигоҳ намедорад.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
@@ -270,3 +326,13 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
         [macos] Нигоҳ доштани тамошокунии хусусии { -brand-short-name } дар мустақар
        *[other] Васл кардани тамошокунии хусусии { -brand-short-name } ба навори вазифа
     }
+
+## MR2022 Privacy Segmentation screen strings
+
+mr2022-onboarding-privacy-segmentation-primary-button-label = Тавсияҳои { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-secondary-button-label = Маълумоти муфассал
+
+## MR2022 Multistage Gratitude screen strings
+
+mr2022-onboarding-gratitude-primary-button-label = Бинед, ки чӣ нав аст
+mr2022-onboarding-gratitude-secondary-button-label = Оғоз кардани тамошо
