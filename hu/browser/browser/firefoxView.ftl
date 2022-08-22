@@ -41,6 +41,7 @@ firefoxview-tabpickup-sync-error-header = Problémáink vannak a szinkronizálá
 firefoxview-tabpickup-generic-sync-error-description = A { -brand-short-name } jelenleg nem tudja elérni a szinkronizálási szolgáltatást. Próbálja újra néhány pillanat múlva.
 firefoxview-tabpickup-sync-error-primarybutton = Próbálja újra
 firefoxview-tabpickup-sync-disconnected-header = A folytatáshoz kapcsolja be a szinkronizálást
+firefoxview-tabpickup-sync-disconnected-description = A lapok átvételéhez engedélyeznie kell a szinkronizálást a { -brand-short-name }ban.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Kapcsolja be a szinkronizálást a beállításokban
 firefoxview-tabpickup-syncing = Várjon amíg a lapjai szinkronizálódnak. Csak egy pillanat lesz.
 firefoxview-mobile-promo-header = Vegye át a lapjait a telefonjáról vagy táblagépéről
