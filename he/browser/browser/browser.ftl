@@ -605,6 +605,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = חיפוש בסימניות
 urlbar-result-action-search-history = חיפוש בהיסטוריה
 urlbar-result-action-search-tabs = חיפוש לשוניות
+urlbar-result-action-search-actions = פעולות חיפוש
 
 ## Labels shown above groups of urlbar results
 
