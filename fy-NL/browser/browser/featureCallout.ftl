@@ -9,3 +9,10 @@ callout-primary-complete-button-label = Begrepen!
 
 ## Firefox View feature tour strings
 
+# "Tab pickup" refers to the section in Firefox View that displays open
+# tabs from other devices
+callout-firefox-view-tab-pickup-title = Wikselje tusken apparaten mei gean fierde mei jo ljepblêd
+callout-firefox-view-tab-pickup-subtitle = Iepenje hjir fluch ljepblêden fan jo telefoan en gean fierder wêr’t jo bleaun wiene.
+callout-firefox-view-recently-closed-title = Iepenje ienfâldichwei jo krekt sluten ljepblêden
+callout-firefox-view-recently-closed-subtitle = Al jo sletten ljepblêden sille hjir op magyske wize ferskine. Nea wer soargen oer it mei fersin sluten fan in website.
+callout-firefox-view-colorways-title = Foegje wat kleur ta
