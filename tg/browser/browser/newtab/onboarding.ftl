@@ -305,21 +305,27 @@ mr2022-onboarding-colorway-tooltip-default =
 mr2022-onboarding-colorway-label-playmaker = Бозингар
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Бозингар
+mr2022-onboarding-colorway-description-playmaker = <b>Шумо бозингар ҳастед.</b> Шумо барои ғолиб шудан имкониятҳоро фароҳам меоред ва ба ҳар як кас дар атрофи худ барои баланд бардоштани бозии худ кумак мерасонед.
 mr2022-onboarding-colorway-label-expressionist = Экспрессионист
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = Экспрессионист
+mr2022-onboarding-colorway-description-expressionist = <b>Шумо экспрессионист ҳастед.</b> Шумо ҷаҳонро дар рангҳои дигар мебинед ва эҷодиёти шумо ҳиссиёти одамонро ба ҳаяҷон меорад.
 mr2022-onboarding-colorway-label-visionary = Хаёлангез
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Хаёлангез
+mr2022-onboarding-colorway-description-visionary = <b>Шумо хаёлангез ҳастед.</b> Шумо ҳолати корҳоро зери шубҳа қарор медиҳед ва дигаронро барои ҳаёл кардани ояндаи беҳтар руҳбаланд мекунед.
 mr2022-onboarding-colorway-label-activist = Фаъол
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Фаъол
+mr2022-onboarding-colorway-description-activist = <b>Шумо фаъол ҳастед.</b> Шумо ҷаҳонро нисбат ба он ҷойе, ки шумо онро пайдо кардед, беҳтар мекунед ва дигаронро роҳбарӣ мекунед, то онҳо ба шумо бовар кунанд.
 mr2022-onboarding-colorway-label-dreamer = Орзуманд
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Орзуманд
+mr2022-onboarding-colorway-description-dreamer = <b>Шумо орзуманд ҳастед.</b> Шумо бовар доред, ки бахт ҳамроҳи одами ҷасур мебошад ва дигарон барои ҷасур будан илҳом медиҳад.
 mr2022-onboarding-colorway-label-innovator = Навовар
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Навовар
+mr2022-onboarding-colorway-description-innovator = <b>Шумо навовар ҳастед.</b> Шумо дар ҳама ҷо имкониятҳоро мебинед ва ба ҳаёти ҳар як кас дар атрофи шумо қувва медиҳед.
 
 ## MR2022 Multistage Mobile Download screen strings
 
