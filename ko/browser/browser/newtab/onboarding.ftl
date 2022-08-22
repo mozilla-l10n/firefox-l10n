@@ -284,6 +284,8 @@ mr2022-onboarding-set-default-only-subtitle = 비영리 단체가 지원하는 �
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = { -brand-product-name }를 사랑해 주셔서 감사합니다.
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = 어디서나 클릭 한 번으로 더 건강한 인터넷을 시작하세요. 최신 업데이트에는 여러분이 좋아할 만한 새로운 것들이 가득합니다.
 
 ## MR2022 New User Set Default screen strings
 
