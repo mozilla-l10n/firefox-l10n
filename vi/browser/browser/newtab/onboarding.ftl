@@ -257,11 +257,112 @@ fx100-upgrade-thanks-header = 100 lần cảm ơn bạn
 fx100-upgrade-thank-you-body = Đây là bản phát hành thứ 100 của chúng tôi về { -brand-short-name }. Cảm ơn <em>bạn</em> đã giúp chúng tôi xây dựng một Internet tốt hơn, lành mạnh hơn.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Đây là bản phát hành thứ 100 của chúng tôi! Cảm ơn vì đã trở thành một phần của cộng đồng của chúng tôi. Giữ { -brand-short-name } một cú nhấp chuột cho lần tiếp theo thứ 100.
+mr2022-onboarding-secondary-skip-button-label = Bỏ qua bước này
+
+## MR2022 New User Pin Firefox screen strings
+
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Mở ra một mạng internet tuyệt vời
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Khởi chạy { -brand-short-name } từ bất kỳ đâu chỉ với một cú nhấp chuột. Mỗi lần như vậy, bạn đang chọn một trang web độc lập và cởi mở hơn.
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Giữ { -brand-short-name } trên thanh dock
+       *[other] Ghim { -brand-short-name } vào thanh tác vụ
+    }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Bắt đầu với một trình duyệt được hỗ trợ bởi một tổ chức phi lợi nhuận. Chúng tôi bảo vệ quyền riêng tư của bạn trong khi bạn duyệt web.
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Cảm ơn bạn đã yêu thích { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Khởi động một mạng internet lành mạnh hơn từ mọi nơi chỉ với một cú nhấp chuột. Bản cập nhật mới nhất của chúng tôi chứa đựng những điều mới mà chúng tôi nghĩ rằng bạn sẽ yêu thích.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Sử dụng trình duyệt bảo vệ quyền riêng tư của bạn khi bạn lướt web. Bản cập nhật mới nhất của chúng tôi chứa đầy những thứ mà bạn yêu thích.
+mr2022-onboarding-existing-pin-checkbox-label = Đồng thời thêm { -brand-short-name } duyệt web riêng tư
+
+## MR2022 New User Set Default screen strings
+
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Đặt { -brand-short-name } làm trình duyệt truy cập của bạn
+mr2022-onboarding-set-default-primary-button-label = Đặt { -brand-short-name } làm trình duyệt mặc định
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Sử dụng trình duyệt được hỗ trợ bởi tổ chức phi lợi nhuận. Chúng tôi bảo vệ quyền riêng tư của bạn trong khi bạn duyệt web.
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Phiên bản mới nhất của chúng tôi được xây dựng xung quanh bạn, giúp bạn truy cập trên web dễ dàng hơn bao giờ hết. Nó được đóng gói với các tính năng mà chúng tôi nghĩ rằng bạn sẽ yêu thích.
+mr2022-onboarding-get-started-primary-button-label = Thiết lập trong vài giây
+
+## MR2022 Import Settings screen strings
+
+mr2022-onboarding-import-header = Thiết lập nhanh như chớp
+mr2022-onboarding-import-subtitle = Thiết lập { -brand-short-name } theo cách bạn thích. Thêm dấu trang, mật khẩu và hơn thế nữa từ trình duyệt cũ của bạn.
+mr2022-onboarding-import-primary-button-label-no-attribution = Nhập từ trình duyệt trước
+
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+mr2022-onboarding-colorway-title = Chọn màu sắc truyền cảm hứng cho bạn
+mr2022-onboarding-colorway-subtitle = Tiếng nói độc lập có thể thay đổi văn hóa.
+mr2022-onboarding-colorway-primary-button-label = Đặt đường màu
+mr2022-onboarding-existing-colorway-checkbox-label = Đặt { -firefox-home-brand-name } làm trang chủ đầy màu sắc của bạn
+mr2022-onboarding-colorway-label-default = Mặc định
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Mặc định
+mr2022-onboarding-colorway-description-default = <b>Sử dụng màu { -brand-short-name } hiện tại của tôi.</b>
+mr2022-onboarding-colorway-label-playmaker = Người kiến tạo lối chơi
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Người kiến tạo lối chơi
+mr2022-onboarding-colorway-description-playmaker = <b>Bạn là người kiến tạo lối chơi.</b> Bạn tạo cơ hội để giành chiến thắng và giúp mọi người xung quanh nâng tầm trò chơi của họ.
+mr2022-onboarding-colorway-label-expressionist = Trường phái biểu hiện
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Trường phái biểu hiện
+mr2022-onboarding-colorway-description-expressionist = <b>Bạn là người theo chủ nghĩa biểu hiện.</b> Bạn nhìn thế giới một cách khác biệt và những sáng tạo của bạn khuấy động cảm xúc của người khác.
+mr2022-onboarding-colorway-label-visionary = Nhìn xa trông rộng
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Nhìn xa trông rộng
+mr2022-onboarding-colorway-description-visionary = <b>Bạn là một người có tầm nhìn xa.</b> Bạn đặt câu hỏi về hiện trạng và khiến người khác phải tưởng tượng về một tương lai tốt đẹp hơn.
+mr2022-onboarding-colorway-label-activist = Nhà hoạt động
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Nhà hoạt động
+mr2022-onboarding-colorway-description-activist = <b>Bạn là một nhà hoạt động.</b> Bạn để lại cho thế giới một nơi tốt đẹp hơn những gì bạn đã tìm thấy và khiến người khác tin tưởng.
+mr2022-onboarding-colorway-label-dreamer = Người mơ mộng
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Người mơ mộng
+mr2022-onboarding-colorway-description-dreamer = <b>Bạn là một người mơ mộng.</b> Bạn tin rằng vận may ủng hộ những người mạnh dạn và truyền cảm hứng cho những người khác dũng cảm.
+mr2022-onboarding-colorway-label-innovator = Người đổi mới
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Người đổi mới
+mr2022-onboarding-colorway-description-innovator = <b>Bạn là một người đổi mới.</b> Bạn nhìn thấy cơ hội ở khắp mọi nơi và tạo ra ảnh hưởng đến cuộc sống của mọi người xung quanh bạn.
+
+## MR2022 Multistage Mobile Download screen strings
+
+mr2022-onboarding-mobile-download-title = Chuyển từ máy tính xách tay sang điện thoại và quay lại một lần nữa
+mr2022-onboarding-mobile-download-subtitle = Lấy các thẻ từ một thiết bị và tiếp tục nơi bạn đã dừng lại trên một thiết bị khác. Ngoài ra, hãy đồng bộ hóa dấu trang và mật khẩu của bạn ở bất kỳ đâu bạn sử dụng { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Quét mã QR để lấy liên kết tải xuống { -brand-product-name } dành cho di động hoặc <a data-l10n-name="download-label">gửi liên kết cho chính bạn.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Quét mã QR để tải xuống { -brand-product-name } dành cho di động.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-onboarding-skip-step-button-label = Bỏ qua bước này
 mr2022-upgrade-onboarding-pin-private-window-header = Tự do duyệt web riêng tư trong một cú nhấp chuột
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Không có cookie hoặc lịch sử đã lưu, ngay từ màn hình của bạn. Duyệt như không có ai đang xem.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
@@ -269,3 +370,18 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
         [macos] Giữ { -brand-short-name } duyệt web ở chế độ riêng tư trong thanh Dock
        *[other] Ghim { -brand-short-name } duyệt web ở chế độ riêng tư vào thanh tác vụ
     }
+
+## MR2022 Privacy Segmentation screen strings
+
+mr2022-onboarding-privacy-segmentation-title = Chúng tôi luôn tôn trọng quyền riêng tư của bạn
+mr2022-onboarding-privacy-segmentation-subtitle = Từ các đề xuất thông minh đến tìm kiếm thông minh hơn, chúng tôi không ngừng nỗ lực để tạo ra { -brand-product-name } tốt hơn, cá nhân hóa hơn.
+mr2022-onboarding-privacy-segmentation-cta-text = Khi chúng tôi cung cấp các tính năng mới sử dụng dữ liệu của bạn để nâng cao khả năng duyệt web của bạn, bạn có muốn xem:
+mr2022-onboarding-privacy-segmentation-primary-button-label = Đề xuất { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-secondary-button-label = Thông tin chi tiết
+
+## MR2022 Multistage Gratitude screen strings
+
+mr2022-onboarding-gratitude-title = Bạn đang giúp chúng tôi xây dựng một trang web tốt hơn.
+mr2022-onboarding-gratitude-subtitle = Cảm ơn bạn đã sử dụng { -brand-short-name }, được hỗ trợ bởi Mozilla Foundation. Với sự hỗ trợ của bạn, chúng tôi đang nỗ lực để làm cho Internet trở nên cởi mở hơn, dễ tiếp cận hơn và tốt hơn cho mọi người.
+mr2022-onboarding-gratitude-primary-button-label = Xem có gì mới
+mr2022-onboarding-gratitude-secondary-button-label = Bắt đầu duyệt web
