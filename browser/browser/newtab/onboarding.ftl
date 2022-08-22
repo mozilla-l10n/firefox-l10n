@@ -311,6 +311,7 @@ mr2022-onboarding-get-started-primary-subtitle = 최신 버전이 사용자 중�
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = 매우 빠른 설정
+mr2022-onboarding-import-subtitle = { -brand-short-name }를 원하는 대로 설정하세요. 기존 브라우저에서 북마크, 비밀번호 등을 추가하세요.
 mr2022-onboarding-import-primary-button-label-no-attribution = 이전 브라우저에서 가져오기
 
 ## If your language uses grammatical genders, in the description for the
