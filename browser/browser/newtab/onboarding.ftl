@@ -257,14 +257,67 @@ fx100-upgrade-thanks-header = 100 פעמים תודה
 fx100-upgrade-thank-you-body = זוהי המהדורה ה־100 שלנו של { -brand-short-name }. תודה <em>לך</em> שעזרת לנו לבנות אינטרנט בריא וטוב יותר.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = זוהי המהדורה ה־100 שלנו! תודה שהינך חלק מהקהילה שלנו. ניתן להשאיר את { -brand-short-name } במרחק קליק אחד עבור 100 המהדורות הבאות.
+mr2022-onboarding-secondary-skip-button-label = דילוג על השלב הזה
+
+## MR2022 New User Pin Firefox screen strings
+
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = לגלות אינטרנט מדהים
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] שמירת { -brand-short-name } ב־Dock
+       *[other] הצמדת { -brand-short-name } לשורת המשימות
+    }
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+mr2022-onboarding-existing-pin-checkbox-label = להוסיף גם את ‏{ -brand-short-name } במצב גלישה פרטית
+
+## MR2022 New User Set Default screen strings
+
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = להפוך את { -brand-short-name } לדפדפן ברירת המחדל שלך
+mr2022-onboarding-set-default-primary-button-label = הגדרת { -brand-short-name } כדפדפן ברירת המחדל
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+
+## MR2022 Import Settings screen strings
+
+mr2022-onboarding-import-primary-button-label-no-attribution = ייבוא מהדפדפן הקודם
+
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+mr2022-onboarding-colorway-primary-button-label = הגדרת ערכים צבעים
+mr2022-onboarding-existing-colorway-checkbox-label = להפוך את { -firefox-home-brand-name } לדף הבית הצבעוני שלך
+mr2022-onboarding-colorway-label-default = ברירת מחדל
+mr2022-onboarding-colorway-tooltip-default =
+    .title = ברירת מחדל
+
+## MR2022 Multistage Mobile Download screen strings
+
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-onboarding-skip-step-button-label = דילוג על השלב הזה
 mr2022-upgrade-onboarding-pin-private-window-header = קבלת חופש גלישה פרטית בלחיצה אחת
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
         [macos] שמירת { -brand-short-name } במצב גלישה פרטית ב־Dock
        *[other] הצמדת { -brand-short-name } במצב גלישה פרטית לשורת המשימות
     }
+
+## MR2022 Privacy Segmentation screen strings
+
+
+## MR2022 Multistage Gratitude screen strings
+
