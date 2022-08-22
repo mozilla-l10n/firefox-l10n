@@ -16,3 +16,5 @@ callout-firefox-view-tab-pickup-subtitle = Iepenje hjir fluch ljepblêden fan jo
 callout-firefox-view-recently-closed-title = Iepenje ienfâldichwei jo krekt sluten ljepblêden
 callout-firefox-view-recently-closed-subtitle = Al jo sletten ljepblêden sille hjir op magyske wize ferskine. Nea wer soargen oer it mei fersin sluten fan in website.
 callout-firefox-view-colorways-title = Foegje wat kleur ta
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Kies it skaad dy’t jo oansprekt mei kleurstellingen. Allinnich yn { -brand-product-name }.
