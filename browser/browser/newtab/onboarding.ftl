@@ -247,11 +247,83 @@ fx100-upgrade-thanks-header = 100 倍的感謝您
 fx100-upgrade-thank-you-body = 這一版是 { -brand-short-name } 的第 100 版！非常感謝<em>您</em>與我們一起打造更好、更健康的網路環境。
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = 這一版是我們的第 100 版！非常感謝您參與我們的社群，只要點一下即可進入 { -brand-short-name } 的下一個 100 版旅程。
+mr2022-onboarding-secondary-skip-button-label = 跳過這步
+
+## MR2022 New User Pin Firefox screen strings
+
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] 將 { -brand-short-name } 保留在 Dock
+       *[other] 將 { -brand-short-name } 釘選到工具列
+    }
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = 感謝您愛用 { -brand-product-name }
+mr2022-onboarding-existing-pin-checkbox-label = 也加入 { -brand-short-name } 隱私瀏覽模式
+
+## MR2022 New User Set Default screen strings
+
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = 要將 { -brand-short-name } 設為您的預設瀏覽器嗎？
+mr2022-onboarding-set-default-primary-button-label = 將 { -brand-short-name } 設為預設瀏覽器
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+mr2022-onboarding-get-started-primary-button-label = 幾秒鐘就能設定完成
+
+## MR2022 Import Settings screen strings
+
+mr2022-onboarding-import-header = 設定光速快
+mr2022-onboarding-import-primary-button-label-no-attribution = 從先前使用的瀏覽器匯入
+
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+mr2022-onboarding-colorway-title = 選擇能激發您靈感的色彩
+mr2022-onboarding-colorway-subtitle = 獨立的聲音將改變文化。
+mr2022-onboarding-colorway-primary-button-label = 使用此配色
+mr2022-onboarding-existing-colorway-checkbox-label = 將 { -firefox-home-brand-name } 設定為您色彩繽紛的首頁
+mr2022-onboarding-colorway-label-default = 預設
+mr2022-onboarding-colorway-tooltip-default =
+    .title = 預設
+mr2022-onboarding-colorway-label-playmaker = 控球後衛
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = 控球後衛
+mr2022-onboarding-colorway-description-playmaker = <b>您是控球後衛。</b>您創造了勝利的機會，並且幫助您周圍的所有人，一同贏得競賽。
+mr2022-onboarding-colorway-label-expressionist = 表現主義者
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = 表現主義者
+mr2022-onboarding-colorway-description-expressionist = <b>您是表現主義者。</b>您用不同的方式看待世界，您的作品激發出他人的情感。
+mr2022-onboarding-colorway-label-visionary = 遠見家
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = 遠見家
+mr2022-onboarding-colorway-description-visionary = <b>您是遠見家。</b>您不滿意於現狀，讓所有人能夠一同想像出更好的未來。
+mr2022-onboarding-colorway-label-activist = 社會運動家
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = 社會運動家
+mr2022-onboarding-colorway-description-activist = <b>您是社會運動家。</b>您讓世界變得更好，並讓他人也如此相信。
+mr2022-onboarding-colorway-label-dreamer = 夢想家
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = 夢想家
+mr2022-onboarding-colorway-description-dreamer = <b>您是夢想家。</b>您相信命運之神眷顧大膽的人，並且鼓勵大家勇敢表現。
+mr2022-onboarding-colorway-label-innovator = 創造者
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = 創造者
+mr2022-onboarding-colorway-description-innovator = <b>您是創造者。</b>您看到各處的機會，並且對周遭的所有人產生正面影響。
+
+## MR2022 Multistage Mobile Download screen strings
+
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-onboarding-skip-step-button-label = 跳過這步
 mr2022-upgrade-onboarding-pin-private-window-header = 只要點一下，自動進入隱私瀏覽模式
 mr2022-upgrade-onboarding-pin-private-window-subtitle = 不留下任何 Cookie 與瀏覽紀錄。隱私瀏覽不留痕跡。
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
@@ -259,3 +331,14 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
         [macos] 將 { -brand-short-name } 隱私瀏覽模式放置在 Dock
        *[other] 將 { -brand-short-name } 隱私瀏覽模式釘選到工作列
     }
+
+## MR2022 Privacy Segmentation screen strings
+
+mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } 推薦
+mr2022-onboarding-privacy-segmentation-secondary-button-label = 詳細資訊
+
+## MR2022 Multistage Gratitude screen strings
+
+mr2022-onboarding-gratitude-title = 您正在幫助我們打造更好的網路環境。
+mr2022-onboarding-gratitude-primary-button-label = 看看有什麼新鮮事
+mr2022-onboarding-gratitude-secondary-button-label = 開始瀏覽
