@@ -225,10 +225,13 @@ mr2-onboarding-start-browsing-button-label = Comenzar a navegar
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Selecciona tu idioma
+mr2022-onboarding-live-language-text = { -brand-short-name } habla en tu idioma
+mr2022-language-mismatch-subtitle = Gracias a nuestra comunidad, { -brand-short-name } está traducido a más de 90 idiomas. Parece que tu sistema está usando { $systemLanguage } y { -brand-short-name } está usando { $appLanguage }.
 onboarding-live-language-button-label-downloading = Descargar el paquete de idioma para { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Obtener idiomas disponibles…
 onboarding-live-language-installing = Instalando el paquete de idioma para { $negotiatedLanguage }…
 mr2022-onboarding-live-language-switch-to = Cambiar a { $negotiatedLanguage }
+mr2022-onboarding-live-language-continue-in = Continuar en { $appLanguage }
 onboarding-live-language-secondary-cancel-download = Cancelar
 onboarding-live-language-skip-button-label = Saltar
 
@@ -256,11 +259,37 @@ fx100-upgrade-thanks-header = 100 Gracias
 fx100-upgrade-thank-you-body = Es nuestro lanzamiento número 100 de { -brand-short-name }. <em>Gracias</em> por ayudarnos a construir un internet mejor y más saludable.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = ¡Es nuestro lanzamiento número 100! Gracias por ser parte de nuestra comunidad. Mantén { -brand-short-name } a un clic de distancia de los próximos 100.
+mr2022-onboarding-secondary-skip-button-label = Saltar este paso
+
+## MR2022 New User Pin Firefox screen strings
+
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+
+## MR2022 New User Set Default screen strings
+
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+
+## MR2022 Import Settings screen strings
+
+
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+
+## MR2022 Multistage Mobile Download screen strings
+
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-onboarding-skip-step-button-label = Saltar este paso
 mr2022-upgrade-onboarding-pin-private-window-header = Obtén navegación privada gratuita con un solo clic
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Sin cookies guardadas ni historial, directamente desde tu escritorio. Navega como si nadie te estuviera mirando.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
@@ -268,3 +297,9 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
         [macos] Mantén la navegación privada de { -brand-short-name } en el Dock
        *[other] Fija la navegación privada de { -brand-short-name } en la barra de tareas
     }
+
+## MR2022 Privacy Segmentation screen strings
+
+
+## MR2022 Multistage Gratitude screen strings
+
