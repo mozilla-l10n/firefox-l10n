@@ -293,6 +293,12 @@ mr2022-onboarding-existing-pin-checkbox-label = { -brand-short-name } 사생활 
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = { -brand-short-name }를 기본 브라우저로 만드세요
+mr2022-onboarding-set-default-primary-button-label = { -brand-short-name }를 기본 브라우저로 설정
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = 비영리 단체가 지원하는 브라우저를 사용하세요. 웹을 탐색하시는 동안 저희는 개인 정보를 보호합니다.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
