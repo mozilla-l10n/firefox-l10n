@@ -143,3 +143,4 @@ permissions-site-microphone-window =
     .style = { permissions-window.style }
 permissions-site-microphone-disable-label =
     .label = ශබ්දවාහිනියට ප්‍රවේශය සඳහා නව ඉල්ලීම් අවහිර කරන්න
+permissions-site-microphone-disable-desc = ඉහත ලේඛනයෙහි නැති කිසිදු අඩවියකට ඔබගේ ශබ්දවාහිනිය වෙත ප්‍රවේශ වීමට අවසර නොදේ. මෙය අවහිර කිරීම නිසා සමහර වියමන අඩවිවල විශේෂාංග නිසි අයුරින් ක්‍රියා නොකරනු ඇත.
