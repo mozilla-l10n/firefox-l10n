@@ -24,5 +24,7 @@ customize-mode-uidensity-menu-normal =
 customize-mode-undo-cmd =
     .label = පෙරසේ
 customize-mode-lwthemes-link = තේමා කළමනාකරණය
+customize-mode-touchbar-cmd =
+    .label = ස්පර්ශ තීරුව රිසිකරණය…
 customize-mode-downloads-button-autohide =
     .label = හිස් විට බොත්තම සඟවන්න
