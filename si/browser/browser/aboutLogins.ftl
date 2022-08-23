@@ -3,10 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
+about-logins-page-title = පිවිසුම් හා මුරපද
+login-filter =
+    .placeholder = පිවිසුම් සොයන්න
+create-login-button = නව පිවිසුමක් සාදන්න
+fxaccounts-sign-in-text = ඔබගේ වෙනත් උපාංග වල තිබෙන මුරපද ගන්න
 fxaccounts-sign-in-sync-button = සමමුහූර්තයට පිවිසෙන්න
+fxaccounts-avatar-button =
+    .title = ගිණුම කළමනාකරණය
 
 ## The ⋯ menu that is in the top corner of the page
 
+menu =
+    .title = වට්ටෝරුව අරින්න
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = වෙනත් අතිරික්සුවකින් ආයාත කරන්න...
 about-logins-menu-menuitem-import-from-a-file = ගොනුවකින් ආයාත කරන්න…
@@ -23,6 +32,11 @@ about-logins-menu-menuitem-help = උදව්
 
 login-list =
     .aria-label = සෙවුම් විමසුමට ගැළපෙන පිවිසුම්
+login-list-count =
+    { $count ->
+        [one] පිවිසුම් { $count }
+       *[other] පිවිසුම් { $count }
+    }
 login-list-name-option = නම (අ-ෆ)
 login-list-name-reverse-option = නම (ෆ-අ)
 login-list-username-option = පරිශීලක නාමය (අ-ෆ)
