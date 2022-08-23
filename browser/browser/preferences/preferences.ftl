@@ -189,6 +189,10 @@ choose-language-description = පිටු පෙන්වීම සඳහා �
 choose-button =
     .label = තෝරන්න…
     .accesskey = o
+manage-browser-languages-button =
+    .label = විකල්ප සකසන්න…
+    .accesskey = I
+confirm-browser-language-change-description = මෙම වෙනස්කම් යෙදීමට { -brand-short-name } යළි අරඹන්න
 confirm-browser-language-change-button = යොදා යළි අරඹන්න
 translate-web-pages =
     .label = වියමන අන්තර්ගතය පරිවර්තනය
@@ -310,6 +314,7 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = ගොනු විවෘත හෝ සුරැකීමට දැයි අසන්න
     .accesskey = A
+drm-content-header = සංඛ්‍යාංක හිමිකම් කළමනාකරණ (DRM) අන්තර්ගතය
 play-drm-content =
     .label = DRM-පාලිත අන්තර්ගත වාදනය
     .accesskey = P
@@ -482,6 +487,8 @@ home-prefs-sections-rows-option =
 ## Search Section
 
 search-bar-header = සෙවුම් තීරය
+search-bar-hidden =
+    .label = සෙවුම් සහ යාත්‍රණ සඳහා ලිපින තීරුව යොදා ගන්න
 search-bar-shown =
     .label = සෙවුම් තීරය මෙවලම් තීරයට යොදන්න
 search-engine-default-header = පෙරනිමි සෙවුම් එළවුම

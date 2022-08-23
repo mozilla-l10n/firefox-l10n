@@ -5,6 +5,21 @@
 toolbar-context-menu-new-tab =
     .label = නව පටිත්ත
     .accesskey = w
+toolbar-context-menu-reload-selected-tab =
+    .label = තේරූ පටිත්ත යළි පූරණය
+    .accesskey = R
+toolbar-context-menu-reload-selected-tabs =
+    .label = තේරූ පටිති යළි පූරණය
+    .accesskey = R
+toolbar-context-menu-bookmark-selected-tab =
+    .label = තේරූ පටිත්තට පොත්යොමුවක්…
+    .accesskey = T
+toolbar-context-menu-bookmark-selected-tabs =
+    .label = තේරූ පටිති සඳහා පොත්යොමු…
+    .accesskey = T
+toolbar-context-menu-select-all-tabs =
+    .label = සියළු පටිති තෝරන්න
+    .accesskey = S
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
