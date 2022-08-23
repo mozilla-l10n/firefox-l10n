@@ -87,6 +87,12 @@ about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = විසන්ධි
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = සම්බන්ධතා ප්‍රේරකය සබල කරන්න
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = සම්බන්ධතා ප්‍රේරකය අබල කරන්න
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -115,6 +121,10 @@ about-debugging-tmp-extension-remove-button = ඉවත් කරන්න
 about-debugging-tmp-extension-install-message = manifest.json ගොනුව හෝ .xpi/.zip සංරක්‍ෂිතය තෝරන්න
 # This string is displayed as a message about the add-on having a temporaryID.
 about-debugging-tmp-extension-temporary-id = මෙම වියමන දිගුවට තාවකාලික හැඳු. ඇත. <a>තව දැනගන්න</a>
+# Text displayed for extensions in "runtime" pages, before displaying a link the extension's
+# manifest URL.
+about-debugging-extension-manifest-url =
+    .label = ව්‍යක්ත ඒ.ස.නි.
 # Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
 # UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
 about-debugging-extension-uuid =
@@ -132,6 +142,16 @@ about-debugging-extension-id =
 about-debugging-extension-backgroundscript-status-running = ධාවනය වෙමින්
 # Displayed for extension using a non-persistent background page when is currently stopped.
 about-debugging-extension-backgroundscript-status-stopped = නවතා ඇත
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = ලියාපදිංචිය ඉවතට
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = ලබාගන්න
+    .value = සිදුවීම් ලබා ගැනීම සඳහා සවන් දෙයි
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = ලබාගන්න
+    .value = සිදුවීම් ලබා ගැනීම සඳහා සවන් නොදෙයි
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = ධාවනය වෙමින්
