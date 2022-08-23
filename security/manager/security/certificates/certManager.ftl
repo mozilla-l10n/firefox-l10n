@@ -12,6 +12,7 @@ certmgr-tab-servers =
     .label = සේවාදායක
 certmgr-tab-ca =
     .label = අධිකාරි
+certmgr-mine = මෙම සංවිධාන වෙතින් ඔබව හඳුනාගත හැකි සහතික ඔබ සතුව ඇත
 certmgr-people = මෙම පුද්ගලයින් හඳුනාගත හැකි සහතික ඇතුළත් ගොනුවක් ඔබ සතුව ඇත
 certmgr-ca = මෙම සහතික අධිකාරි හඳුනාගත හැකි සහතික ඇතුළත් ගොනුවක් ඔබ සතුව ඇත
 certmgr-edit-ca-cert =
