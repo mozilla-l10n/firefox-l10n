@@ -312,12 +312,17 @@ mr2022-onboarding-get-started-primary-button-label = Ynstelle yn in pear tellen
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Bliksemfluch ynstelle
+mr2022-onboarding-import-subtitle = Stel { -brand-short-name } yn sa as jo dat graach wolle. Foegje jo blêdwizers, wachtwurden en mear ta fan jo âlde browser.
+mr2022-onboarding-import-primary-button-label-no-attribution = Ymportearje út foarige browser
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Kies de kleur dy’t jo ynspirearret
+mr2022-onboarding-colorway-subtitle = Unôfhinklike stimmen kinne kultuer feroarje.
 mr2022-onboarding-colorway-primary-button-label = Kleurstelling ynstelle
 mr2022-onboarding-existing-colorway-checkbox-label = Meitsje fan { -firefox-home-brand-name } jo kleurrike startside
 mr2022-onboarding-colorway-label-default = Standert
@@ -351,6 +356,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Jo binne in ynnovator.</b>
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Wikselje fan laptop nei telefoan en wer werom
 mr2022-onboarding-no-mobile-download-cta-text = Scan de QR-koade om { -brand-product-name } op mobyl te downloaden.
 
 ## MR2022 Upgrade Dialog screens
