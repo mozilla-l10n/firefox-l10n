@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editfield0.label "ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹᱜ ᱧᱩᱛᱩᱢ :">
-<!ENTITY editfield1.label "दानाङ साबाद :">
-<!ENTITY copyCmd.label    "नोकोल">
+<!ENTITY editfield1.label "ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ :">
+<!ENTITY copyCmd.label    "ᱱᱚᱠᱚᱞ">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "ᱡᱚᱛᱚ ᱵᱟᱪᱷᱟᱣ ᱢᱮ">
 <!ENTITY selectAllCmd.accesskey "A">
