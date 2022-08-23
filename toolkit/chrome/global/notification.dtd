@@ -6,6 +6,9 @@
 
 <!ENTITY checkForUpdates "යාවත්කාල පරීක්‍ෂා කරන්න…">
 
+<!ENTITY learnMoreNoEllipsis "තව දැනගන්න">
 
+<!ENTITY defaultButton.label "හරි!">
 <!ENTITY defaultButton.accesskey "O">
 
+<!ENTITY moreActionsButton.accessibleLabel "තවත් ක්‍රියාමාර්ග">
