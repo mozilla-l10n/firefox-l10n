@@ -39,6 +39,7 @@ abuse-report-messagebar-action-cancel = අවලංගු
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason-v2 = එය මාගේ පරිගණකයට හානි කළා හෝ දත්ත බිඳ හෙළුවා
 abuse-report-settings-reason-v2 = එය මට දැනුම් දීමකින් හෝ විමසීමකින් තොරව මාගේ සෙවුම් යන්ත්‍රය, මුල් පිටුව හෝ නව පටිත්ත වෙනස් කෙරිණි
 abuse-report-settings-suggestions-search = ඔබගේ පෙරනිමි සෙවුම් සැකසුම් සංශෝධනය
 abuse-report-settings-suggestions-homepage = ඔබගේ මුල් පිටුව හා නව පටිත්ත සංශෝධනය
