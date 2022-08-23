@@ -949,7 +949,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Peiriannau chwilio
     .accesskey = P
+addressbar-locbar-quickactions-option =
+    .label = Gweithredoedd cyflym
+    .accesskey = c
 addressbar-suggestions-settings = Newid dewisiadau am awgrymiadau peiriannau chwilio
+addressbar-quickactions-learn-more = Dysgu rhagor
 
 ## Privacy Section - Content Blocking
 
