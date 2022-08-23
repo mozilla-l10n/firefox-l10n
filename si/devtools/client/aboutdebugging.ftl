@@ -77,6 +77,9 @@ about-debugging-runtime-extensions =
 # Title of the tabs category.
 about-debugging-runtime-tabs =
     .name = පටිති
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = සැකසීම්
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -110,8 +113,45 @@ about-debugging-tmp-extension-remove-button = ඉවත් කරන්න
 # manifest.json .xpi and .zip should not be localized.
 # Note: this message is only displayed in Windows and Linux platforms.
 about-debugging-tmp-extension-install-message = manifest.json ගොනුව හෝ .xpi/.zip සංරක්‍ෂිතය තෝරන්න
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = මෙම වියමන දිගුවට තාවකාලික හැඳු. ඇත. <a>තව දැනගන්න</a>
+# Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
+# UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
+about-debugging-extension-uuid =
+    .label = අභ්‍යන්තර UUID
+# Text displayed for extensions (temporary extensions only) in "runtime" pages, before
+# displaying the location of the temporary extension.
+about-debugging-extension-location =
+    .label = ස්ථානය
+# Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
+# For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
+about-debugging-extension-id =
+    .label = දිගුවේ හැඳු.
 # Displayed for extension using a non-persistent background page (either an event page or
 # background service worker) when the background script is currently running.
 about-debugging-extension-backgroundscript-status-running = ධාවනය වෙමින්
 # Displayed for extension using a non-persistent background page when is currently stopped.
 about-debugging-extension-backgroundscript-status-stopped = නවතා ඇත
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = ධාවනය වෙමින්
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = නවතා ඇත
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = ලියාපදිංචි වෙමින්
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = තල්ලු සේවාව
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = ප්‍රධාන සැකසීම
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = පණිවිඩය වසන්න
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = දෝෂ විස්තර
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = අවවාදයේ විස්තර
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = විස්තර
