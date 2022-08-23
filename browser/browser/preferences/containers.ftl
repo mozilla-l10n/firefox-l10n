@@ -50,6 +50,8 @@ containers-icon-briefcase =
 # so don't change to local currency. See Bug 1291672.
 containers-icon-dollar =
     .label = ඩොලර් සලකුණ
+containers-icon-cart =
+    .label = බඩු කරත්තය
 containers-icon-circle =
     .label = තිත
 containers-icon-vacation =
