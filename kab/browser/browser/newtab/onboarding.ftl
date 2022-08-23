@@ -261,12 +261,24 @@ mr2022-onboarding-secondary-skip-button-label = Zgel takkayt-a
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Eǧǧ { -brand-short-name } deg Dock
+       *[other] Senteḍ { -brand-short-name } deg ufeggag n tiwuriwin
+    }
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Tanemmirt imi i tḥemmleḍ { -brand-product-name }
+mr2022-onboarding-existing-pin-checkbox-label = Rnu daqen tunigin tusligt { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Err { -brand-short-name } d iminig-ik·im ufrin
+mr2022-onboarding-set-default-primary-button-label = Sbadu { -brand-short-name } d iminig amezwer
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -319,6 +331,9 @@ mr2022-upgrade-onboarding-pin-private-window-subtitle = Ulac inagan n tuqqqna ne
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Nezga nettqadaṛ tabaḍnit
+mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } iwellihen
+mr2022-onboarding-privacy-segmentation-secondary-button-label = Talɣut s telqayt
 
 ## MR2022 Multistage Gratitude screen strings
 

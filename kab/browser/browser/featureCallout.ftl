@@ -12,3 +12,5 @@ callout-primary-complete-button-label = Gziɣ!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Ɛeddi seg yibenk ɣer wayeḍ s ulqaḍ n waccaren
+callout-firefox-view-tab-pickup-subtitle = Kkes-d s zzerb accaren yeldin seg tiliɣri-inek·inem, teldiḍ-ten dagi i uktum uffay.
+callout-firefox-view-recently-closed-title = Err-d accaren-ik·im yettwamedlen s zzerb
