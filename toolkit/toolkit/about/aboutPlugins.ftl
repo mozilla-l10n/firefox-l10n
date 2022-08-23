@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+title-label = පේනු ගැන
+installed-plugins-label = ස්ථාපිත පේනු
+no-plugins-are-installed-label = ස්ථාපිත පේනු හමු නොවිණි
+deprecation-description = යමක් මඟහැරී තිබේද? ඇතැම් පේනු තවදුරටත් සහය නොදක්වයි. <a data-l10n-name="deprecation-link">තව දැනගන්න.</a>
 
 ## The information of plugins
 ##

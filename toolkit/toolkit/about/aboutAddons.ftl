@@ -179,12 +179,14 @@ addon-open-about-debugging = එක්කහු නිදොස්කරණය
 
 ## Extension shortcut management
 
+shortcuts-no-commands = පහත දිගු සඳහා කෙටිමං නැත:
 shortcuts-input =
     .placeholder = කෙටිමඟක් ලියන්න
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] තවත් { $numberToShow } ක් පෙන්වන්න
     }
+shortcuts-card-collapse-button = අඩුවෙන් පෙන්වන්න
 header-back-button =
     .title = ආපසු යන්න
 
