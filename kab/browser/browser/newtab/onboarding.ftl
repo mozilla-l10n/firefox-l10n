@@ -356,10 +356,13 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Nezga nettqadaṛ tabaḍnit
+mr2022-onboarding-privacy-segmentation-cta-text = Mi ara d-nmudd timahilin timaynutin ara isseqqdacen isefka-k·m i usnerni n tunigin, tebɣiḍ ad twaliḍ:
 mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } iwellihen
 mr2022-onboarding-privacy-segmentation-secondary-button-label = Talɣut s telqayt
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Tettɛwaneḍ-aɣ ad nebnu web igerrzen.
+mr2022-onboarding-gratitude-subtitle = Tanemmirt ɣef useqdec n { -brand-short-name }, d-yettwasbedden sɣur tkebbanit Mozilla. S tallalt-ik·im, nxeddem akken ara nerr internet yeldi ugar, igerrez ugar i yal yiwen.
 mr2022-onboarding-gratitude-primary-button-label = Wali amaynut
 mr2022-onboarding-gratitude-secondary-button-label = Bdu tunigin
