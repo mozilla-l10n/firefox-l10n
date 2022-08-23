@@ -305,6 +305,10 @@ mr2022-onboarding-set-default-subtitle = Brûk in browser stipe troch in non-pro
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Us lêste ferzje is om jo hinne boud, wêrtroch it makliker is dan ea om op it web te sneupen. It is fol mei funksjes wêrfan wy tinke dat jo se wurdearje sille.
+mr2022-onboarding-get-started-primary-button-label = Ynstelle yn in pear tellen
 
 ## MR2022 Import Settings screen strings
 
