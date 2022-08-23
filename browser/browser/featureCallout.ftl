@@ -14,7 +14,7 @@ callout-primary-complete-button-label = Tutto chiaro.
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Passa da un dispositivo all’altro con Riprendi schede
 
-callout-firefox-view-tab-pickup-subtitle = Accedi velocemente alle schede sul tuo telefono e aprile direttamente qui.
+callout-firefox-view-tab-pickup-subtitle = Recupera al volo le schede dal tuo telefono e aprile direttamente qui.
 
 callout-firefox-view-recently-closed-title = Recupera al volo le schede chiuse
 

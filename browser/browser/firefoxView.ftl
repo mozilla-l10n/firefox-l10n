@@ -30,7 +30,7 @@ firefoxview-tabpickup-recenttabs-description = Le schede recenti verranno visual
 firefoxview-tabpickup-progress-label = { $percentValue }% completato
 
 firefoxview-tabpickup-step-signin-header = Passa velocemente da un dispositivo all’altro
-firefoxview-tabpickup-step-signin-description = Per visualizzare le schede aperte sul tuo telefono, accedi o crea un account.
+firefoxview-tabpickup-step-signin-description = Per recuperare le schede aperte sul tuo telefono, accedi o crea un account.
 firefoxview-tabpickup-step-signin-primarybutton = Continua
 
 firefoxview-tabpickup-adddevice-header = Sincronizza { -brand-product-name } sul tuo telefono o tablet
@@ -55,17 +55,17 @@ firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } non
 firefoxview-tabpickup-sync-error-primarybutton = Riprova
 
 firefoxview-tabpickup-sync-disconnected-header = Attiva la sincronizzazione per continuare
-firefoxview-tabpickup-sync-disconnected-description = Per accedere alle tue schede è necessario attivare la sincronizzazione in { -brand-short-name }.
+firefoxview-tabpickup-sync-disconnected-description = Per recuperare le tue schede è necessario attivare la sincronizzazione in { -brand-short-name }.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Attiva la sincronizzazione nelle impostazioni
 
 firefoxview-tabpickup-syncing = Stiamo sincronizzando le tue schede, ci vorrà solo un attimo.
 
-firefoxview-mobile-promo-header = Accedi alle schede aperte sul tuo telefono o tablet
+firefoxview-mobile-promo-header = Recupera le schede aperte sul tuo telefono o tablet
 firefoxview-mobile-promo-description = Per visualizzare le ultime schede che hai aperto sul tuo telefono, accedi a { -brand-product-name } su iOS o Android.
 firefoxview-mobile-promo-primarybutton = Ottieni { -brand-product-name } per mobile
 
 firefoxview-mobile-confirmation-header = 🎉 Tutto pronto!
-firefoxview-mobile-confirmation-description = Ora puoi accedere alle schede di { -brand-product-name } aperte sul tuo telefono o tablet.
+firefoxview-mobile-confirmation-description = Ora puoi recuperare le schede di { -brand-product-name } aperte sul tuo telefono o tablet.
 
 firefoxview-closed-tabs-title = Chiuse di recente
 
