@@ -257,11 +257,42 @@ fx100-upgrade-thanks-header = 100 Tack
 fx100-upgrade-thank-you-body = Det är vår 100:e version av { -brand-short-name }. Tack för att <em>du</em> hjälper oss att bygga ett bättre och hälsosammare internet.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Det är vår 100:e utgåva! Tack för att du är en del av vår gemenskap. Ha { -brand-short-name } ett klick bort för de kommande 100.
+mr2022-onboarding-secondary-skip-button-label = Hoppa över det här steget
+
+## MR2022 New User Pin Firefox screen strings
+
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Öppna upp ett fantastiskt internet
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+
+## MR2022 New User Set Default screen strings
+
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+
+## MR2022 Import Settings screen strings
+
+
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+
+## MR2022 Multistage Mobile Download screen strings
+
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-onboarding-skip-step-button-label = Hoppa över det här steget
 mr2022-upgrade-onboarding-pin-private-window-header = Få privat surffrihet med ett klick
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Inga sparade kakor eller historik, direkt från ditt skrivbord. Surfa som om ingen tittar.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
@@ -269,3 +300,9 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
         [macos] Behåll { -brand-short-name } privat surfning i Dock
        *[other] Fäst { -brand-short-name } privat surfning i aktivitetsfältet
     }
+
+## MR2022 Privacy Segmentation screen strings
+
+
+## MR2022 Multistage Gratitude screen strings
+
