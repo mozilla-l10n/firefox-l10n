@@ -243,7 +243,7 @@ preferences-zoom-text-only =
     .label = Chwyddo testun yn unig
     .accesskey = t
 language-header = Iaith
-choose-language-description = Dewis eich dewis iaith i ddangos tudalennau
+choose-language-description = Dewiswch eich dewis o iaith i ddangos tudalennau
 choose-button =
     .label = Dewis…
     .accesskey = D
@@ -292,7 +292,7 @@ download-always-ask-where =
     .label = Gofyn i mi lle i gadw ffeiliau
     .accesskey = G
 applications-header = Rhaglenni
-applications-description = Dewis sut mae { -brand-short-name } yn trin y ffeiliau rydych wedi eu llwytho i lawr o'r We neu'r rhaglenni rydych yn eu defnyddio wrth bori.
+applications-description = Dewiswch sut mae { -brand-short-name } yn trin y ffeiliau rydych wedi eu llwytho i lawr o'r we neu'r rhaglenni rydych yn eu defnyddio wrth bori.
 applications-filter =
     .placeholder = Chwilio'r mathau o ffeil neu raglenni
 applications-type-column =
@@ -379,7 +379,7 @@ play-drm-content =
     .accesskey = C
 play-drm-content-learn-more = Dysgu rhagor
 update-application-title = Diweddariadau { -brand-short-name }
-update-application-description = Cadw { -brand-short-name } yn gyfredol am y perfformiad, y sefydlogrwydd a'r diogelwch gorau.
+update-application-description = Cadwch { -brand-short-name } yn gyfredol am y perfformiad, y sefydlogrwydd a'r diogelwch gorau.
 update-application-version = Fersiwn { $version } <a data-l10n-name="learn-more">Beth sy'n newydd</a>
 update-history =
     .label = Dangos Hanes Diweddaru…
@@ -480,7 +480,7 @@ browsing-cfr-recommendations-learn-more = Dysgu Rhagor
 ## General Section - Proxy
 
 network-settings-title = Gosodiadau Rhwydwaith
-network-proxy-connection-description = Ffurfweddu sut mae { -brand-short-name } yn cysylltu â'r rhyngrwyd.
+network-proxy-connection-description = Ffurfweddwch sut mae { -brand-short-name } yn cysylltu â'r rhyngrwyd.
 network-proxy-connection-learn-more = Dysgu rhagor
 network-proxy-connection-settings =
     .label = Gosodiadau…
