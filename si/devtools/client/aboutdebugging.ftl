@@ -16,14 +16,69 @@ about-debugging-page-title-setup-page = නිදොස්කරණය - පි�
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = මෙම { -brand-shorter-name }
+# Sidebar heading for selecting the currently running instance of Firefox
+about-debugging-sidebar-this-firefox =
+    .name = { about-debugging-this-firefox-runtime-name }
 # Sidebar heading for connecting to some remote source
 about-debugging-sidebar-setup =
     .name = පිහිටුවීම
+# Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
+about-debugging-sidebar-usb-enabled = USB සබලයි
+# Text displayed in the about:debugging sidebar when USB devices discovery is disabled
+# (for instance because the mandatory ADB extension is not installed).
+about-debugging-sidebar-usb-disabled = USB අබලයි
+# Connection status (connected) for runtime items in the sidebar
+aboutdebugging-sidebar-runtime-connection-status-connected = සම්බන්ධිතයි
+# Connection status (disconnected) for runtime items in the sidebar
+aboutdebugging-sidebar-runtime-connection-status-disconnected = විසන්ධි වී ඇත
+# Text displayed in the about:debugging sidebar when no device was found.
+about-debugging-sidebar-no-devices = උපාංග හමු නොවිණි
+# Text displayed in buttons found in sidebar items representing remote runtimes.
+# Clicking on the button will attempt to connect to the runtime.
+about-debugging-sidebar-item-connect-button = සම්බන්ධ
+# Text displayed in buttons found in sidebar items when the runtime is connecting.
+about-debugging-sidebar-item-connect-button-connecting = සම්බන්ධ වෙමින්…
+# Text displayed in buttons found in sidebar items when the connection failed.
+about-debugging-sidebar-item-connect-button-connection-failed = සබැඳීමට අසමත්!
+# Text displayed as connection error in sidebar item when the connection has timed out.
+about-debugging-sidebar-item-connect-button-connection-timeout = සම්බන්ධතාවය ඉකුත් විය
+# Text displayed in sidebar items for remote devices where a compatible browser (eg
+# Firefox) has not been detected yet. Typically, Android phones connected via USB with
+# USB debugging enabled, but where Firefox is not started.
+about-debugging-sidebar-runtime-item-waiting-for-browser = අතිරික්සුව සඳහා රැඳෙමින්…
+# Text displayed in sidebar items for remote devices that have been disconnected from the
+# computer.
+about-debugging-sidebar-runtime-item-unplugged = පේනුව ගැලවූ
+# Title for runtime sidebar items that are related to a specific device (USB, WiFi).
+about-debugging-sidebar-runtime-item-name =
+    .title = { $displayName } ({ $deviceName })
+# Title for runtime sidebar items where we cannot get device information (network
+# locations).
+about-debugging-sidebar-runtime-item-name-no-device =
+    .title = { $displayName }
+# Text to show in the footer of the sidebar that links to a help page
+# (currently: https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/)
+about-debugging-sidebar-support = නිදොස්කරණ සහාය
+# Text to show as the ALT attribute of a help icon that accompanies the help about
+# debugging link in the footer of the sidebar
+about-debugging-sidebar-support-icon =
+    .alt = උදව් නිරූපකය
+# Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
+# will attempt to update the list of devices displayed in the sidebar.
+about-debugging-refresh-usb-devices-button = උපාංග නැවුම් කරන්න
 
 # Setup Page strings
 
 # Title of the Setup page.
 about-debugging-setup-title = පිහිටුවීම
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = ඔබගේ උපාංගය දුරස්ථව නිදොස්කරණයට අපේක්‍ෂා කරන සම්බන්ධතා ක්‍රමය සකසන්න.
+# Title of the heading Connect section of the Setup page.
+about-debugging-setup-connect-heading = උපාංගයක් සබඳින්න
+# USB section of the Setup page
+about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = මෙය සබල කිරීමෙන් { -brand-shorter-name } වෙත අවශ්‍ය ඇන්ඩ්‍රොයිඩ් USB නිදොස්කරණ සංරචක බාගත කර එක් කරනු ඇත.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = USB උපාංග සබල කරන්න
