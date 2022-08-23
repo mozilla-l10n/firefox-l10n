@@ -5,8 +5,8 @@
 tabmodalprompt-username =
     .value = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹᱜ ᱧᱩᱛᱩᱢ :
 tabmodalprompt-password =
-    .value = दानाङ साबाद :
+    .value = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ :
 tabmodalprompt-ok-button =
-    .label = बेसाक्
+    .label = ᱴᱷᱤᱠ
 tabmodalprompt-cancel-button =
-    .label = बा़डरा़
+    .label = ᱵᱟᱹᱰᱨᱟᱹ

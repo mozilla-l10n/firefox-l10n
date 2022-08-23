@@ -5,24 +5,22 @@
 unknowncontenttype-handleinternally =
     .label = { -brand-short-name } ᱵᱮᱵᱷᱟᱨ ᱛᱮ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
     .accesskey = ᱥ
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] { -brand-short-name }'ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱥᱟᱡᱟᱣ ᱠᱚ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ
            *[other] { -brand-short-name }' ᱠᱩᱥᱤᱭᱟᱜ ᱨᱮ ᱥᱟᱡᱟᱣ ᱠᱚ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜ ᱾
         }
-
-unknowncontenttype-intro = आम झिज ला़गित् एम बाछावाकात् आ:
-unknowncontenttype-which-is = ओका काना:
-unknowncontenttype-from = खोन:
-unknowncontenttype-prompt = चेत् आम नोवा रेत् सांचाव सानाम काना ?
-unknowncontenttype-action-question = नोवा रेत् सांव { -brand-short-name } चेत् चेका ला़कती. ?
+unknowncontenttype-intro = ᱟᱢ ᱡᱷᱤᱡ ᱞᱟᱹᱜᱤᱫ ᱮᱢ ᱵᱟᱪᱷᱟᱣᱟᱠᱟᱫ ᱟ:
+unknowncontenttype-which-is = ᱳᱠᱟ ᱠᱟᱱᱟ:
+unknowncontenttype-from = ᱠᱷᱚᱱ:
+unknowncontenttype-prompt = ᱪᱮᱫ ᱟᱢ ᱱᱚᱣᱟ ᱨᱮᱫ ᱥᱟᱸᱪᱟᱣ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ?
+unknowncontenttype-action-question = ᱱᱚᱣᱟ ᱨᱮᱫ ᱥᱟᱸᱣ { -brand-short-name } ᱪᱮᱫ ᱪᱮᱠᱟ ᱞᱟᱹᱠᱛᱤ᱾ ?
 unknowncontenttype-open-with =
-    .label = सांव झिच्
+    .label = ᱥᱟᱸᱣ ᱡᱷᱤᱡ
     .accesskey = O
 unknowncontenttype-other =
-    .label = एटागाक्…
+    .label = ᱮᱴᱟᱜᱟᱜ…
 unknowncontenttype-choose-handler =
     .label =
         { PLATFORM() ->
@@ -35,8 +33,8 @@ unknowncontenttype-choose-handler =
            *[other] B
         }
 unknowncontenttype-save-file =
-    .label = रेत् सांचाव
+    .label = ᱨᱮᱫ ᱥᱟᱸᱪᱟᱣ ᱢᱮ
     .accesskey = S
 unknowncontenttype-remember-choice =
-    .label = नोवा आच् आच् ते नित् खोन नोवा रेत् को ला़गित्.
+    .label = ᱱᱚᱣᱟ ᱟᱡ ᱟᱡ ᱛᱮ ᱱᱤᱫ ᱠᱷᱚᱱ ᱱᱚᱣᱟ ᱨᱮᱫ ᱠᱚ ᱞᱟᱹᱜᱤᱫ᱾
     .accesskey = a

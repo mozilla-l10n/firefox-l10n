@@ -3,4 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tree-columnpicker-restore-order =
-    .label = कांधा थार दोहड़ा जोगाव मे
+    .label = ᱠᱟᱸᱫᱷᱟ ᱛᱷᱟᱨ ᱫᱚᱦᱲᱟ ᱡᱚᱜᱟᱣ ᱢᱮ
