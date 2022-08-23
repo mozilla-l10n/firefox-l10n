@@ -323,9 +323,43 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Mewnforio o'ch po
 
 mr2022-onboarding-colorway-title = Dewiswch y lliw sy'n eich ysbrydoli
 mr2022-onboarding-colorway-subtitle = Gall lleisiau annibynnol newid diwylliant.
+mr2022-onboarding-colorway-primary-button-label = Gosod llwybr lliw
+mr2022-onboarding-existing-colorway-checkbox-label = Gwnewch { -firefox-home-brand-name } yn gartref liwgar i chi
+mr2022-onboarding-colorway-label-default = Rhagosodiad
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Rhagosodiad
+mr2022-onboarding-colorway-description-default = <b>Defnyddio fy lliwiau { -brand-short-name } cyfredol.</b>
+mr2022-onboarding-colorway-label-playmaker = Chwaraewr
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Chwaraewr
+mr2022-onboarding-colorway-description-playmaker = <b>Rydych chi'n Chwaraewr.</b> Rydych chi'n creu cyfleoedd i ennill a helpu pawb o'ch cwmpas i ddyrchafu eu gêm.
+mr2022-onboarding-colorway-label-expressionist = Mynegiadwr
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Mynegiadwr
+mr2022-onboarding-colorway-description-expressionist = <b>Ydych chi'n Fynegyddwr.</b> Rydych chi'n gweld y byd yn wahanol ac mae eich creadigaethau'n cyffroi emosiynau pobl eraill.
+mr2022-onboarding-colorway-label-visionary = Gweledydd
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Gweledydd
+mr2022-onboarding-colorway-description-visionary = <b>Rydych chi'n Weledydd.</b> Rydych chi'n cwestiynu'r status quo ac yn symud eraill i ddychmygu dyfodol gwell.
+mr2022-onboarding-colorway-label-activist = Ymgyrchydd
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Ymgyrchydd
+mr2022-onboarding-colorway-description-activist = <b>Rydych chi'n Ymgyrchydd.</b> Rydych yn gadael y byd yn lle gwell nag y daethoch iddo ac yn arwain eraill i gredu.
+mr2022-onboarding-colorway-label-dreamer = Breuddwydiwr
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Breuddwydiwr
+mr2022-onboarding-colorway-description-dreamer = <b>Rydych chi'n Freuddwydiwr.</b> Rydych chi'n credu bod ffortiwn yn ffafrio'r beiddgar ac yn ysbrydoli eraill i fod yn ddewr.
+mr2022-onboarding-colorway-label-innovator = Arloesydd
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Arloesydd
+mr2022-onboarding-colorway-description-innovator = <b>Rydych chi'n Arloeswr.</b> Rydych chi'n gweld cyfleoedd ym mhobman ac yn cael effaith ar fywydau pawb o'ch cwmpas.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Neidiwch o'r gliniadur i'r ffôn ac yn ôl eto
+mr2022-onboarding-mobile-download-subtitle = Cipiwch dabiau o un ddyfais a pharhau o le gwnaethoch chi ei adael ar ddyfais arall. Hefyd cydweddwch eich nodau tudalen a'ch cyfrineiriau lle bynnag rydych chi'n defnyddio { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Sganiwch y cod QR i gael { -brand-product-name } ar gyfer ffôn symudol neu <a data-l10n-name="download-label">anfon dolen llwytho i chi'ch hun.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Sganiwch y cod QR i gael { -brand-product-name } ar gyfer ffôn symudol.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -340,6 +374,15 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Rydym wastad yn parchu eich preifatrwydd
+mr2022-onboarding-privacy-segmentation-subtitle = O awgrymiadau deallus i chwilio clyfrach, rydym yn gweithio'n gyson i greu { -brand-product-name } gwell, mwy personol.
+mr2022-onboarding-privacy-segmentation-cta-text = Pan fyddwn yn cynnig nodweddion newydd sy'n defnyddio'ch data i wella'ch pori, a ydych chi am weld:
+mr2022-onboarding-privacy-segmentation-primary-button-label = Argymhellion { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-secondary-button-label = Gwybodaeth fanwl
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Rydych chi'n ein helpu ni i adeiladu gwe well.
+mr2022-onboarding-gratitude-subtitle = Diolch am ddefnyddio { -brand-short-name }, gyda chefnogaeth y Mozilla Foundation. Gyda'ch cefnogaeth chi, rydyn ni'n gweithio i wneud y rhyngrwyd yn fwy agored, hygyrch, ac yn well i bawb.
+mr2022-onboarding-gratitude-primary-button-label = Gweld beth sy'n newydd
+mr2022-onboarding-gratitude-secondary-button-label = Cychwyn pori
