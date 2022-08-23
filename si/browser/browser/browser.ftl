@@ -115,6 +115,8 @@ urlbar-password-notification-anchor =
     .tooltiptext = සුරැකි මුරපද පණිවිඩ මඬල අරින්න
 urlbar-translated-notification-anchor =
     .tooltiptext = පිටු පරිවර්තනය කළමනාකරණය
+urlbar-plugins-notification-anchor =
+    .tooltiptext = පේනු භාවිතය කළමනාකරණය
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 urlbar-web-rtc-share-speaker-notification-anchor =
@@ -164,8 +166,12 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = ඔබ මෙම අඩවියට අනවරත ආචයනය අවහිර කර ඇත.
 urlbar-popup-blocked =
     .tooltiptext = ඔබ මෙම අඩවිය සඳහා උත්පතන වළක්වා ඇත.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = ඔබ මෙම අඩවිය සඳහා ශබ්දය සහිත ස්වයං වාදන මාධ්‍ය අවහිර කර ඇත.
 urlbar-midi-blocked =
     .tooltiptext = ඔබ මෙම අඩවියට MIDI ප්‍රවේශය අවහිර කර ඇත.
+urlbar-install-blocked =
+    .tooltiptext = ඔබ මෙම අඩවිය සඳහා එක්කහු ස්ථාපනය අවහිර කර ඇත.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -207,6 +213,9 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = පෙරනිමි සෙවුම් යන්ත්‍රයට සකසන්න
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = පෞද්. කවුළු සඳහා පෙරනිමි සෙවුම් යන්ත්‍රය ලෙස යොදන්න
+    .accesskey = P
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -324,6 +333,8 @@ identity-site-information = { $host } සඳහා අඩවියේ තොර�
 #  $host (String): the hostname of the site that is being displayed.
 identity-header-security-with-host =
     .title = { $host } සඳහා සම්බන්ධතාවේ ආරක්‍ෂාව
+identity-connection-not-secure = සම්බන්ධතාවය අනාරක්‍ෂිතයි
+identity-connection-secure = සම්බන්ධතාවය ආරක්‍ෂිතයි
 identity-connection-internal = මෙය ආරක්‍ෂිත { -brand-short-name } පිටුවකි.
 identity-connection-file = මෙම පිටුව පරිගණකයේ ගබඩා කර ඇත.
 identity-extension-page = මෙම පිටුව දිගුවක් මගින් පූරණය වේ.
@@ -339,6 +350,7 @@ identity-permissions-storage-access-learn-more = තව දැනගන්න
 identity-permissions-reload-hint = වෙනස්කම් යෙදීමට පිටුව යළි පූරණය කිරීමට සිදු වනු ඇත.
 identity-connection-not-secure-security-view = ඔබ මෙම අඩවියට ආරක්‍ෂිතව සම්බන්ධ වී නැත.
 identity-connection-verified = ඔබ මෙම අඩවියට ආරක්‍ෂිතව සම්බන්ධ වී ඇත.
+identity-ev-owner-label = සහතිකය නිකුත් වූයේ:
 identity-remove-cert-exception =
     .label = හැරදැමීම ඉවත් කරන්න
     .accesskey = R
@@ -350,6 +362,7 @@ identity-description-active-blocked = { -brand-short-name } මෙම පිට�
 identity-description-passive-loaded = ඔබගේ සම්බන්ධතාවය පෞද්ගලික නොවන නිසා ඔබ අඩවියට යොමු කරන තොරතුරු අන් අය බලනු ඇත.
 identity-description-passive-loaded-insecure = මෙම අඩවියේ ආරක්‍ෂිත නොවන අන්තර්ගත අඩංගු වේ (රූප වැනි). <label data-l10n-name="link">තව දැනගන්න</label>
 identity-description-passive-loaded-mixed = { -brand-short-name } යම් කොටස් අවහිර කළ ද තවමත් ආරක්‍ෂිත නොවන කොටස් අඩංගු විය හැකිය (රූප වැනි) . <label data-l10n-name="link">තව දැනගන්න</label>
+identity-description-active-loaded = මෙම අඩවියේ ආරක්‍ෂිත නොවන (අත්පත් වැනි) අන්තර්ගතය අඩංගු වේ. ඔබගේ සම්බන්ධතාවය පෞද්ගලික නොවේ.
 identity-description-active-loaded-insecure = මෙම අඩවියට ඔබ යොමු කරන තොරතුරු අන් අය බලනු ඇත (මුරපද, පණිවිඩ, ණයපත් ආදිය).
 identity-learn-more =
     .value = තව දැනගන්න
