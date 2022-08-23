@@ -290,9 +290,12 @@ mr2022-onboarding-set-default-primary-button-label = Sbadu { -brand-short-name }
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = Asesteb deg kra n tesdatin
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Asesteb s zzerb ugar
+mr2022-onboarding-import-subtitle = Sesteb { -brand-short-name } akken i t-tebɣiḍ. Rnu ticraḍ-ik·im n yisebtar, awalen uffiren d wayen-nniḍen seg yiminig-ik·im aqbur.
 mr2022-onboarding-import-primary-button-label-no-attribution = Kter seg yiminig wayeḍ
 
 ## If your language uses grammatical genders, in the description for the
@@ -300,11 +303,14 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Kter seg yiminig 
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Fren ini ara ak·akem-yerren deg usugnen
+mr2022-onboarding-colorway-subtitle = Tuɣac tilelliyen zemrent ad beddlent idles.
 mr2022-onboarding-colorway-primary-button-label = Sbadu afran n yini
 mr2022-onboarding-existing-colorway-checkbox-label = Err { -firefox-home-brand-name } d asebter-ik·im agejdan s yiniten
 mr2022-onboarding-colorway-label-default = Amezwer
 mr2022-onboarding-colorway-tooltip-default =
     .title = Amezwer
+mr2022-onboarding-colorway-description-default = <b>Seqdec initen-inu imiranen n { -brand-short-name }.</b>
 mr2022-onboarding-colorway-label-playmaker = Playmaker
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Playmaker
