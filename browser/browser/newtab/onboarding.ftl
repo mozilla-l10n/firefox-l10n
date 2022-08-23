@@ -284,6 +284,8 @@ mr2022-onboarding-set-default-only-subtitle = Kezdje egy nonprofit szervezet ál
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Köszönjük, hogy szereti a { -brand-product-name }ot
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Indítson el egy egészségesebb internetet bárhonnan egyetlen kattintással. A legfrissebb frissítésünk tele van olyan új dolgokkal, amelyekről azt gondoljuk, hogy imádni fog.
 # Subtitle will be used on the welcome screen for existing users
 # when they already have Firefox pinned but not set as default
 mr2022-onboarding-existing-set-default-only-subtitle = Használjon olyan böngészőt, amely megvédi a magánszféráját, miközben a világhálón böngészik. Legújabb frissítésünk tele van olyan dolgokkal, amelyeket imádni fog.
@@ -302,6 +304,9 @@ mr2022-onboarding-set-default-subtitle = Használjon egy nonprofit szervezet ál
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = A legfrissebb verziónk Ön köré épül fel, így minden eddiginél egyszerűbb a világhálón szörfölés. Tele van olyan funkciókkal, amelyekről úgy gondoljuk, hogy imádni fog.
 mr2022-onboarding-get-started-primary-button-label = Állítsa be másodpercek alatt
 
 ## MR2022 Import Settings screen strings
@@ -351,6 +356,9 @@ mr2022-onboarding-colorway-description-innovator = <b>Ön egy újító.</b> Mind
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Ugorjon át a laptopjáról a telefonjára és vissza
+mr2022-onboarding-mobile-download-subtitle = Vegyen át lapokat az egyik eszközéről, és folytassa egy másik eszközön ott, ahol abbahagyta. Ezenkívül szinkronizálhatja könyvjelzőit és jelszavait bárhol, ahol { -brand-product-name }ot használ.
+mr2022-onboarding-mobile-download-cta-text = Olvassa le a QR-kódot, hogy megkapja a mobilos { -brand-product-name }ot, vagy <a data-l10n-name="download-label">küldjön magának egy letöltési hivatkozást.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Olvassa le a QR-kódot, hogy beszerezze a { -brand-product-name }ot a mobiljára.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
