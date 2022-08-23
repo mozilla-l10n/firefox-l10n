@@ -100,6 +100,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "සංස්ථානික ජාලයක නම්, ඔබගේ තොරතුරු තාක්‍ෂණ ක්‍රියාංශය අමතන්න.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "<span class='mitm-name'/> පිළිබඳව ඔබට හුරුපුරුදු නැතිනම්, මෙය ප්‍රහාරයක් විය හැකිය. මෙම අඩවියට නොයා සිටින්න.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "<span class='mitm-name'/> පිළිබඳව ඔබට හුරුපුරුදු නැතිනම්, මෙය ප්‍රහාරයක් විය හැකිය. මෙම අඩවියට යාම සඳහා ඔබට කළ හැකි දෙයක් නැත.">
 
 
 <!ENTITY prefReset.label "පෙරනිමි සැකසුම් ප්‍රත්‍යර්පණය">
