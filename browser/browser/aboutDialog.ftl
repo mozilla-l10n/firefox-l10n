@@ -20,12 +20,14 @@ update-failed-main = යාවත්කාල කිරීමට අසමත්
 update-adminDisabled = පද්ධති පරිපාලක විසින් යාවත්කාල කිරීම අබල කර ඇත
 update-noUpdatesFound = { -brand-short-name } යාවත්කාලීනයි
 update-manual = මෙහි යාවත්කාල තිබේ <label data-l10n-name="manual-link"/>
+update-unsupported = ඔබට මෙම පද්ධතිය මත තවදුරටත් යාවත්කාල කිරීමට නොහැකිය. <label data-l10n-name="unsupported-link">තව දැනගන්න</label>
 update-restarting = නැවත අරඹමින්…
 channel-description = ඔබ දැනට සිටින්නේ <label data-l10n-name="current-channel"></label> යාවත්කාල නාලිකාවේය.
 warningDesc-version = { -brand-short-name } පරීක්‍ෂාත්මක හා අස්ථායි විය හැකිය.
 aboutdialog-help-user = { -brand-product-name } උදව්
 aboutdialog-submit-feedback = ප්‍රතිපෝෂණය යොමන්න
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> යනු <label data-l10n-name="community-exp-creditsLink">ගෝලීය ප්‍රජාවකි</label> එය අන්තර්ජාලය විවෘත, පොදු, සහ සැමට ප්‍රවේශ වීමට හැකි ලෙස පවත්වා ගැනීමට එක්ව වැඩ කරයි.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> යනු <label data-l10n-name="community-exp-creditsLink">ගෝලීය ප්‍රජාවකි</label> විවෘත, පොදු, සහ සැමට ප්‍රවේශ වීමට හැකි ලෙස අන්තර්ජාලය පවත්වා ගැනීමට එක්ව වැඩ කරයි.
+community-2 = <label data-l10n-name="community-mozillaLink">{ -vendor-short-name } විසින් { -brand-short-name } නිර්මාණය කර ඇත, විවෘත, පොදු සහ සැමට ප්‍රවේශ වීමට හැකි ලෙස අන්තර්ජාලය පවත්වා ගැනීමට එක්ව වැඩ කරන <label data-l10n-name="community-creditsLink">ගෝලීය ප්‍රජාවකි</label>.
 helpus = උදව් කිරීමට අවශ්‍යද? <label data-l10n-name="helpus-donateLink">පරිත්‍යාගයක් කරන්න</label> හෝ <label data-l10n-name="helpus-getInvolvedLink">සම්බන්ධ වන්න!</label>
 bottomLinks-license = බලපත්‍ර තොරතුරු
 bottomLinks-rights = පරිශීලක අයිතීන්
