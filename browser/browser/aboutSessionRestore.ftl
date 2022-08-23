@@ -37,3 +37,4 @@ welcome-back-restore-button =
     .accesskey = L
 welcome-back-restore-all-label = සියළු කවුළු හා පටිති ප්‍රත්‍යර්පණය
 welcome-back-restore-some-label = අත්‍යවශ්‍ය දෑ ප්‍රත්‍යර්පණය කරන්න
+welcome-back-page-info-link = ඔබගේ එක්කහු හා අභිරුචිකරණ ඉවත් කර ඇත. ඔබගේ අතිරික්සුව පෙරනිමි සැකසුම් වලට ප්‍රත්‍යර්පණය කර ඇත. මෙය ඔබගේ ගැටලුව නිරාකරණය නොකළේ නම්, <a data-l10n-name="link-more">ඔබට කළ හැකි දෑ ගැන තව දැනගන්න.</a>
