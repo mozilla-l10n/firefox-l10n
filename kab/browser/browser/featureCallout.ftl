@@ -14,3 +14,4 @@ callout-primary-complete-button-label = Gziɣ!
 callout-firefox-view-tab-pickup-title = Ɛeddi seg yibenk ɣer wayeḍ s ulqaḍ n waccaren
 callout-firefox-view-tab-pickup-subtitle = Kkes-d s zzerb accaren yeldin seg tiliɣri-inek·inem, teldiḍ-ten dagi i uktum uffay.
 callout-firefox-view-recently-closed-title = Err-d accaren-ik·im yettwamedlen s zzerb
+callout-firefox-view-colorways-title = Rnu ṛucc s yini
