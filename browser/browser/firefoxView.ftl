@@ -35,6 +35,7 @@ firefoxview-tabpickup-network-offline-description = ගිනිපවුරක�
 firefoxview-tabpickup-network-offline-primarybutton = යළි උත්සාහය
 firefoxview-tabpickup-sync-error-header = සමමුහූර්ත කිරීමේ ගැටළුවක් තිබේ
 firefoxview-tabpickup-sync-error-primarybutton = යළි උත්සාහය
+firefoxview-tabpickup-sync-disconnected-primarybutton = සැකසුම් තුළ සමමුහූර්තය සක්‍රිය කරන්න
 firefoxview-tabpickup-syncing = ඔබගේ පටිති මොහොතකින් සමමුහූර්ත වනු ඇත. රැඳී සිටින්න.
 firefoxview-mobile-promo-primarybutton = දුරකථනය සඳහා { -brand-product-name } ගන්න
 firefoxview-closed-tabs-title = මෑතදී වසා දැමූ

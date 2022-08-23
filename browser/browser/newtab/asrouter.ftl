@@ -110,6 +110,8 @@ spotlight-learn-more-expanded = තව දැනගන්න
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = ඔබ පොදු වයි-ෆයි භාවිතා කරන බව පෙනේ
 spotlight-public-wifi-vpn-body = ඔබගේ ස්ථානය සහ පිරික්සුම් ක්‍රියාකාරකම් සැඟවීමට, අතථ්‍ය පුද්ගලික ජාලයක් භාවිතයට සලකා බලන්න. එය ගුවන් තොටුපළ, කෝපි කඩ වැනි පොදු ස්ථාන වලින් අන්තර්ජාලයට ප්‍රවේශයේ දී ඔබව රැක දීමට උපකාරී වේ.
+spotlight-public-wifi-vpn-primary-button = { -mozilla-vpn-brand-name } සමඟ රහසිගතව සිටින්න
+    .accesskey = S
 spotlight-public-wifi-vpn-link = දැන් නොවේ
     .accesskey = N
 
