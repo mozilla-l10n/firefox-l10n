@@ -294,7 +294,7 @@ mr2022-onboarding-existing-pin-checkbox-label = Pridajte si aj Súkromné prehli
 ## MR2022 New User Set Default screen strings
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
-mr2022-onboarding-set-default-title = Nastaviť { -brand-short-name } ako váš prehliadač
+mr2022-onboarding-set-default-title = Nastavte si { -brand-short-name } ako váš prehliadač
 mr2022-onboarding-set-default-primary-button-label = Nastaviť { -brand-short-name } ako predvolený prehliadač
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
@@ -356,7 +356,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Ste inovátor.</b> Všade 
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Preskočte z notebooku na telefón a späť
-mr2022-onboarding-mobile-download-subtitle = Vezmite karty z jedného zariadenia a pokračujte tam, kde ste prestali na inom. Navyše si synchronizujte svoje záložky a heslá kdekoľvek, kde používate prehliadač { -brand-product-name }.
+mr2022-onboarding-mobile-download-subtitle = Vezmite karty z jedného zariadenia a pokračujte na inom tam, kde ste prestali. A nezabudnite si synchronizovať svoje záložky a heslá kdekoľvek, kde používate prehliadač { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Naskenujte QR kód a získajte { -brand-product-name } pre mobilné zariadenie alebo si <a data-l10n-name="download-label">pošlite odkaz na stiahnutie</a>.
 mr2022-onboarding-no-mobile-download-cta-text = Naskenujte QR kód a získajte { -brand-product-name } pre mobilné zariadenie.
 
@@ -381,7 +381,7 @@ mr2022-onboarding-privacy-segmentation-secondary-button-label = Detailné inform
 
 ## MR2022 Multistage Gratitude screen strings
 
-mr2022-onboarding-gratitude-title = Pomáhate nám vytvárať lepší web.
+mr2022-onboarding-gratitude-title = Pomáhate nám vytvárať lepší web
 mr2022-onboarding-gratitude-subtitle = Ďakujeme, že používate { -brand-short-name }, ktorý podporuje Mozilla Foundation. S vašou podporou pracujeme na tom, aby bol internet otvorenejší, prístupnejší a lepší pre každého.
 mr2022-onboarding-gratitude-primary-button-label = Pozrite sa, čo je nové
 mr2022-onboarding-gratitude-secondary-button-label = Poďme prehliadať
