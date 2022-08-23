@@ -57,6 +57,8 @@ options-sourceeditor-keybinding-default-label = පෙරනිමි
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = වැඩිදුර සැකසුම්
+# The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
+options-enable-chrome-label = ක්‍රෝම් අතිරික්සුව හා එක්කහු නිදොස්කරණ මෙවලම් පෙට්ටි සබල කරන්න
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = දුරස්ථ නිදොස්කරණය සබල කරන්න
 # The label for the checkbox that toggles source maps in all tools.
