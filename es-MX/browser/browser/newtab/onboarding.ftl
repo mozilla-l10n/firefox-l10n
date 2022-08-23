@@ -315,15 +315,52 @@ mr2022-onboarding-get-started-primary-button-label = Configurar en segundos
 
 mr2022-onboarding-import-header = Configuración ultrarrápida
 mr2022-onboarding-import-subtitle = Configura { -brand-short-name } como quieras. Agrega tus marcadores, contraseñas y más desde tu antiguo navegador.
+mr2022-onboarding-import-primary-button-label-no-attribution = Importar desde el navegador anterior
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Selecciona el color que te inspire
+mr2022-onboarding-colorway-subtitle = Voces independientes puede cambiar la cultura.
+mr2022-onboarding-colorway-primary-button-label = Establecer combinación de colores
+mr2022-onboarding-existing-colorway-checkbox-label = Haz de { -firefox-home-brand-name } tu colorida página de inicio
+mr2022-onboarding-colorway-label-default = Predeterminado
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Predeterminado
+mr2022-onboarding-colorway-description-default = <b>Usar mis colores actuales de { -brand-short-name }.</b>
+mr2022-onboarding-colorway-label-playmaker = Creador de jugadas
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Creador de jugadas
+mr2022-onboarding-colorway-description-playmaker = <b>Eres un Creador de Jugadas.</b> Creas oportunidades para ganar y ayudas a todos los que te rodean a mejorar su juego.
+mr2022-onboarding-colorway-label-expressionist = Expresionista
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Expresionista
+mr2022-onboarding-colorway-description-expressionist = <b>Eres un Expresionista.</b> Miras el mundo de forma distinta y tus creaciones despiertan las emociones de los demás.
+mr2022-onboarding-colorway-label-visionary = Visionario
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Visionario
+mr2022-onboarding-colorway-description-visionary = <b>Eres un Visionario.</b> Cuestiones el status quo y mueves a otros a imaginar un futuro mejor.
+mr2022-onboarding-colorway-label-activist = Activista
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Activista
+mr2022-onboarding-colorway-description-activist = <b>Eres un Activista.</b> Dejar el mundo como un lugar mejor de lo que encontraste y llevas a otros a creer.
+mr2022-onboarding-colorway-label-dreamer = Soñador
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Soñador
+mr2022-onboarding-colorway-description-dreamer = <b>Eres un soñador.</b> Crees que la fortuna favorece a los audaces e inspiras a otros a ser valientes.
+mr2022-onboarding-colorway-label-innovator = Innovador
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Innovador
+mr2022-onboarding-colorway-description-innovator = <b>Eres un Innovador.</b> Ves oportunidades donde sea y creas un impacto en las vidas de quienes te rodean.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Salta de la computadora al teléfono y viceversa
+mr2022-onboarding-mobile-download-subtitle = Toma las pestañas de un dispositivo y retoma donde te quedaste en otro. Además, sincroniza tus marcadores y contraseñas en cualquier lugar donde uses { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Escanea el código QR para tener { -brand-product-name } para dispositivos móviles o <a data-l10n-name="download-label">envíate un enlace de descarga.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Escanea el código QR para tener { -brand-product-name } para dispositivos móviles.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -338,6 +375,15 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Siempre respetamos tu privacidad
+mr2022-onboarding-privacy-segmentation-subtitle = Desde sugerencias inteligentes hasta búsquedas más inteligentes, trabajamos constantemente para crear un { -brand-product-name } mejor y más personal.
+mr2022-onboarding-privacy-segmentation-cta-text = Cuando ofrecemos nuestras funciones que usan tus datos para mejorar la navegación, quieres ver:
+mr2022-onboarding-privacy-segmentation-primary-button-label = Recomendaciones de { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-secondary-button-label = Información detallada
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Estas ayudándonos a crear un mejor internet.
+mr2022-onboarding-gratitude-subtitle = Gracias por usar { -brand-short-name }, respaldado por la fundación Mozilla. Con tu ayuda, trabajamos para crear un internet más abierto, accesible y mejor para todas y todos.
+mr2022-onboarding-gratitude-primary-button-label = Mira las novedades
+mr2022-onboarding-gratitude-secondary-button-label = Empieza a navegar
