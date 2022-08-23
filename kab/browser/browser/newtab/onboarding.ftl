@@ -322,12 +322,18 @@ mr2022-onboarding-colorway-description-innovator = <b>Kečč·kemm d t·amesnulf
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-no-mobile-download-cta-text = Smiḍen tangalt QR i wakken ad tawiḍ { -brand-product-name } i uziraz.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
 mr2022-upgrade-onboarding-pin-private-window-header = Sɛu tilelli n tunigin tusligt s yiwen usiti kan
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Ulac inagan n tuqqqna neɣ azray i yettwaskelsen, srid seg tnarit-ik·im. Inig am wakken ulac win i ak·akem-id-yettmuqulen.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Eǧǧ { -brand-short-name } deg tunigin tusligt deg Dock
+       *[other] Rzi { -brand-short-name } ɣer ufaggag-iw n twuriwin
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
