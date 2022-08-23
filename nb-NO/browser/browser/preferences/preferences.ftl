@@ -933,7 +933,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Søkemotorer
     .accesskey = k
+addressbar-locbar-quickactions-option =
+    .label = Hurtige handlinger
+    .accesskey = H
 addressbar-suggestions-settings = Endre innstillinger for søkeforslag
+addressbar-quickactions-learn-more = Les mer
 
 ## Privacy Section - Content Blocking
 
