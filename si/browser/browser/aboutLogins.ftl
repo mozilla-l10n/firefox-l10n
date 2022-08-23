@@ -23,8 +23,14 @@ about-logins-menu-menuitem-help = උදව්
 
 login-list =
     .aria-label = සෙවුම් විමසුමට ගැළපෙන පිවිසුම්
+login-list-name-option = නම (අ-ෆ)
+login-list-name-reverse-option = නම (ෆ-අ)
 login-list-username-option = පරිශීලක නාමය (අ-ෆ)
 login-list-username-reverse-option = පරිශීලක නාමය (ෆ-අ)
+about-logins-login-list-alerts-option = ඇඟවීම්
+login-list-last-changed-option = අවසන් සංශෝධනය
+login-list-last-used-option = අවසන් භාවිතය
+login-list-intro-title = පිවිසුම් හමු නොවුණි
 about-logins-login-list-empty-search-title = පිවිසුම් හමු නොවුණි
 about-logins-login-list-empty-search-description = ඔබගේ සෙවුමට ගැළපෙන ප්‍රතිඵල නැත.
 login-list-item-title-new-login = නව පිවිසුම
