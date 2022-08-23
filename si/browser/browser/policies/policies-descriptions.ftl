@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = වියමන දිගු සඳහා chrome.storage.managed හරහා ප්‍රවේශ විය හැකි ප්‍රතිපත්ති සකසන්න.
 policy-AllowedDomainsForApps = ගූගල් වැඩබිමට ප්‍රවේශ වීමට ඉඩ දෙන වසම් දක්වන්න.
 policy-AppAutoUpdate = ස්වයංක්‍රීයව යෙදුම යාවත්කාල වීම සබල හෝ අබල කරන්න.
 policy-AppUpdateURL = අභිරුචි යෙදුම් යාවත්කාල ඒ.ස.නි. සකසන්න.
@@ -25,7 +26,9 @@ policy-DisabledCiphers = කේතාංක අබල කරන්න
 policy-DefaultDownloadDirectory = පෙරනිමි බාගැනීමේ නාමාවලිය සකසන්න
 policy-DisableAppUpdate = අතිරික්සුව යාවත්කාල වීමෙන් වළක්වන්න
 policy-DisableBuiltinPDFViewer = { -brand-short-name } හි තිළෑලි පීඩීඑෆ් පිළිඹිඹුව වන PDF.js අබල කරන්න.
+policy-DisableDefaultBrowserAgent = පෙරනිමි අතිරික්සු නියෝතය කිසිදු ක්‍රියාමාර්ගයක් ගැනීමෙන් වළක්වන්න. වින්ඩෝස් සඳහා පමණක් අදාළ වේ; වෙනත් වේදිකාවලට නියෝත නැත.
 policy-DisableDeveloperTools = සංවර්ධක මෙවලම් වෙත ප්‍රවේශය අවහිර කරන්න.
+policy-DisableFeedbackCommands = උදව් වට්ටෝරුවෙන් ප්‍රතිපෝෂණ යවන විධාන අබල කරන්න (ප්‍රතිපෝෂණ යොමන්න හා කූට අඩවි වාර්තා කරන්න).
 policy-DisableFirefoxAccounts = සමමුහූර්ත කිරීම ඇතුළුව, { -fxaccount-brand-name } මත පදනම් වූ සේවා අබල කරන්න.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = ෆයර්ෆෝක්ස් තිරසේයා විශේෂාංගය අබල කරන්න.
