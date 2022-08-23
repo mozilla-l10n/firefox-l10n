@@ -55,6 +55,7 @@ inactive-css-not-for-internal-table-elements-fix = Ɛreḍ asbadu n tmeẓli-ine
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Ɛreḍ asbadu n tmeẓli-ines <strong>display</strong> ɣef wayeḍ-nniḍen yemgaraden ɣef <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> neɣ <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Ɛreḍ timerna n <strong>display:table</strong> neɣ <strong>display:inline-table</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Ɛreḍ ad ternuḍ <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> neɣ <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-border-image-fix = Ɣef uferdis amaraw n tfelwit, kkes timeẓlit neɣ senfel azal n <strong>border-collapse</strong> s wazal-nniḍen ur nelli d <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Ɛreḍ ad tbeddleḍ <strong>font-size</strong> n uḍris "ruby". { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
