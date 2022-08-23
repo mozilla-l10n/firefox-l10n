@@ -17,6 +17,7 @@ profile-selection-rename-button =
 profile-selection-delete-button =
     .label = පැතිකඩ මකන්න...
     .accesskey = D
+profile-selection-conflict-message = { -brand-product-name } හි තවත් පිටපතක් පැතිකඩ වෙත වෙනස්කම් සිදු කර ඇත. වෙනත් වෙනස්කම් කිරීමට පෙර ඔබ { -brand-short-name } යළි ආරම්භ කළ යුතුය.
 
 ## Messages used in the profile manager
 

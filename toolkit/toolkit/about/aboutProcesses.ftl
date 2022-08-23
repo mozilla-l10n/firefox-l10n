@@ -2,20 +2,53 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# The Actions column
+about-processes-column-action =
+    .title = ක්‍රියාමාර්ග
+
 ## Tooltips
 
+about-processes-shutdown-tab =
+    .title = පටිත්ත වසන්න
+
 ## Column headers
+
+about-processes-column-name = නම
+about-processes-column-memory-resident = මතකය
+about-processes-column-cpu-total = ම.සැ.ඒ.
 
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
+
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-file-process = ගොනු ({ $pid })
+about-processes-extension-process = දිගු ({ $pid })
+about-processes-privilegedabout-process = පිළිබඳව පිටු ({ $pid })
+about-processes-privilegedmozilla-process = { -vendor-short-name } අඩවි ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = දත්ත විකේතකය ({ $pid })
+about-processes-socket-process = ජාලය ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = වෙනත්: { $type } ({ $pid })
 
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
 
+about-processes-web-isolated-process = { $origin } ({ $pid })
+
 ## Details within processes
+
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = පටිත්ත: { $name }
+about-processes-utility-actor-audio-decoder = ශ්‍රව්‍ය විකේතනය
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -25,6 +58,16 @@
 ##                    its start.
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
+
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = මුළු ම.සැ.ඒ. කාලය: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (මැනීම)
+# Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
+# This case only occurs on Windows where the precision of the CPU times is low.
+about-processes-cpu-almost-idle = < 0.1%
+    .title = මුළු ම.සැ.ඒ. කාලය: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -37,7 +80,18 @@
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+
 ## Duration units
+
 
 ## Memory units
 
+memory-unit-B = බ.
+memory-unit-KB = කි.බ.
+memory-unit-MB = මෙ.බ.
+memory-unit-GB = ගි.බ.
+memory-unit-TB = ටෙ.බ.
+memory-unit-PB = පෙ.බ.
+memory-unit-EB = එ.බ.

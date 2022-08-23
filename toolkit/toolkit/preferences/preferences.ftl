@@ -4,6 +4,7 @@
 
 password-not-set =
     .value = (සකසා නැත)
+pp-empty-warning = ඔබගේ ගබඩා කර ඇති මුරපද සහ පෞද්. යතුරු ආරක්‍ෂා නොවනු ඇත.
 pp-change2empty-in-fips-mode = ඔබ දැනට FIPS ප්‍රකාරයේ සිටියි. FIPS සඳහා හිස් නොවන ප්‍රාථමික මුරපදයක් අවශ්‍යය.
 pw-change-success-title = මුරපදය වෙනස් කිරීම සාර්ථකයි
 pw-change-failed-title = මුරපදය වෙනස් කිරීමට අසමත් විය
