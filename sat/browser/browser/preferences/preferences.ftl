@@ -3,9 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-
 settings-page-title = ᱥᱟᱡᱟᱣ ᱠᱚ
-
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -17,22 +15,16 @@ settings-page-title = ᱥᱟᱡᱟᱣ ᱠᱚ
 search-input-box2 =
     .style = width: 15.4em
     .placeholder = ᱥᱟᱡᱟᱣ ᱨᱮ ᱯᱟᱱᱛᱮ ᱢᱮ
-
 pane-general-title = ᱥᱟᱫᱷᱟᱨᱚᱱ
 category-general =
     .tooltiptext = { pane-general-title }
-
 category-search =
     .tooltiptext = { pane-search-title }
-
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
 help-button-label = { -brand-short-name } ᱜᱚᱲᱚ
-
 focus-search =
     .key = f
-
 close-button =
     .aria-label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 
@@ -62,49 +54,36 @@ restart-later = ᱛᱟᱭᱚᱢ ᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵ ᱢᱮ
 ## General Section
 
 startup-header = ᱮᱛᱦᱚᱵ
-
 is-default = { -brand-short-name } ᱫᱚ ᱱᱤᱛᱚᱜ ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱟᱱᱟ
 is-not-default = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱵᱟᱝ ᱠᱟᱱᱟ
-
 set-as-my-default-browser =
     .label = ᱢᱩᱞ ᱯᱷᱮᱲᱟᱛ ᱵᱮᱵᱷᱟᱨ ᱢᱮ …
     .accesskey = D
-
 tabs-group-header = ᱴᱮᱵᱽ ᱠᱚ
-
 show-tabs-in-taskbar =
     .label = ᱡᱷᱚᱨᱠᱟ ᱠᱟᱹᱢᱤ ᱵᱟᱨ ᱨᱮ ᱴᱮᱵᱽ ᱢᱟᱲᱟᱝ ᱛᱮᱭᱟᱜ ᱧᱮᱞ ᱩᱫᱩᱜ ᱢᱮ
     .accesskey = k
-
 browser-containers-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-
 containers-disable-alert-cancel-button = ᱮᱢ ᱪᱷᱚ ᱠᱟᱜ ᱢᱮ
-
 containers-remove-cancel-button = ᱱᱚᱶᱟ ᱠᱚᱱᱴᱮᱱᱚᱨ ᱟᱞᱚᱢ ᱚᱪᱚᱜᱽ ᱟ
 
 ## General Section - Language & Appearance
 
 default-font-size = ᱢᱟᱯ
     .accesskey = S
-
 advanced-fonts =
     .label = ᱞᱟᱦᱟᱱᱛᱤ…
     .accesskey = A
-
 choose-language-description = ᱥᱟᱦᱟᱴ ᱠᱚ ᱩᱫᱩᱜ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱠᱩᱥᱤᱭᱟᱜ ᱯᱟᱹᱨᱚᱥᱤ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
-
 choose-button =
     .label = ᱵᱟᱪᱷᱟᱣ ᱢᱮ…
     .accesskey = o
-
 translate-web-pages =
     .label = ᱣᱮᱵᱽ ᱡᱤᱱᱤᱥ ᱛᱚᱨᱡᱚᱢᱟᱭ ᱢᱮ
     .accesskey = T
-
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = <img data-l10n-name="logo"/> ᱛᱮ ᱛᱚᱨᱡᱚᱢᱟ ᱦᱩᱭᱠᱟᱱᱟ
-
 translate-exceptions =
     .label = ᱪᱷᱟᱰᱟ ᱠᱚ …
     .accesskey = x
@@ -112,14 +91,8 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ
-
-download-save-to =
-    .label = ᱨᱮ ᱨᱮᱫ ᱠᱚ ᱥᱟᱺᱪᱟᱣ
-    .accesskey = v
-
 download-save-where = ᱨᱮ ᱨᱮᱫ ᱠᱚ ᱥᱟᱺᱪᱟᱣ
     .accesskey = v
-
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -131,45 +104,36 @@ download-choose-folder =
             [macos] ᱣ
            *[other] ᱚ
         }
-
 applications-type-column =
     .label = ᱡᱤᱱᱤᱥ ᱞᱮᱠᱟ
     .accesskey = T
-
 applications-action-column =
     .label = ᱠᱟᱹᱢᱤ
     .accesskey = A
-
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } ᱨᱮᱫ
 applications-action-save =
     .label = ᱨᱮᱫ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = { $app-name } ᱵᱮᱵᱷᱟᱨ ᱢᱮ
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } ᱵᱮᱵᱷᱟᱨ ᱢᱮ (ᱢᱩᱞ)
-
 applications-use-other =
     .label = ᱮᱴᱟᱜᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱢᱮ …
 applications-select-helper = ᱜᱚᱲᱚᱭᱤᱡᱟᱜ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
-
 applications-manage-app =
     .label = ᱟᱨᱚᱡᱤ ᱥᱟᱠᱟᱢ ᱵᱤᱵᱨᱚᱬ ᱠᱚ …
 applications-always-ask =
     .label = ᱡᱟᱣᱜᱮ ᱠᱩᱞᱤᱮᱢ
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -181,30 +145,23 @@ applications-use-plugin-in =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
 
 ##
 
 play-drm-content-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-
 update-application-use-service =
     .label = ᱦᱟᱹᱞᱤ ᱠᱚ ᱵᱚᱦᱟᱞ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱚᱱᱚᱲ ᱠᱟᱹᱢᱤ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = b
-
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ᱞᱟᱦᱟᱜ ᱢᱮ
@@ -212,7 +169,6 @@ update-in-progress-cancel-button = &ᱞᱟᱦᱟᱜ ᱢᱮ
 ## General Section - Performance
 
 performance-settings-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-
 performance-allow-hw-accel =
     .label = ᱦᱟᱰᱣᱮᱨ ᱛᱚᱲᱛᱮ ᱵᱮᱵᱷᱟᱨ ᱛᱤᱱ ᱨᱮ ᱧᱟᱢᱚᱜᱼᱟ
     .accesskey = r
@@ -220,29 +176,22 @@ performance-allow-hw-accel =
 ## General Section - Browsing
 
 browsing-title = ᱯᱟᱱᱛᱮ ᱮᱫ ᱟ
-
 browsing-use-autoscroll =
     .label = ᱟᱡ ᱛᱮ ᱜᱩᱲᱟᱹᱣ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = a
-
 browsing-use-smooth-scrolling =
     .label = ᱪᱤᱠᱟᱹᱬ ᱜᱩᱲᱤᱭᱟᱹᱣ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = m
-
 browsing-use-cursor-navigation =
     .label = ᱥᱟᱦᱴᱟ ᱵᱷᱤᱛᱤᱨ ᱨᱮ ᱯᱟᱱᱛᱮ ᱞᱟᱹᱜᱤᱫ ᱡᱟᱣᱜᱮ ᱠᱚᱨᱥᱚᱨ ᱠᱟᱹᱴᱷᱤ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = k
-
 browsing-picture-in-picture-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-
 browsing-media-control-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-
 browsing-cfr-recommendations-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## General Section - Proxy
 
 network-proxy-connection-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-
 network-proxy-connection-settings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
     .accesskey = e
@@ -263,7 +212,6 @@ use-current-pages =
            *[other] ᱱᱤᱛᱚᱜᱟᱠ ᱥᱟᱦᱴᱟ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
         }
     .accesskey = C
-
 choose-bookmark =
     .label = ᱵᱩᱠᱢᱟᱨᱠ ᱵᱮᱵᱷᱟᱨ ᱢᱮ …
     .accesskey = B
@@ -285,7 +233,6 @@ home-prefs-highlights-options-bookmarks =
 search-remove-engine =
     .label = ᱚᱪᱚᱜᱽ ᱢᱮ
     .accesskey = R
-
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = ᱱᱚᱠᱚᱞ ᱛᱮᱭᱟᱨ ᱠᱟᱹᱴᱷᱤ ᱥᱟᱵᱟᱫᱽ
@@ -319,11 +266,9 @@ sync-currently-syncing-history = ᱱᱟᱜᱟᱢ
 sync-engine-bookmarks =
     .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
     .accesskey = m
-
 sync-engine-history =
     .label = ᱱᱟᱜᱟᱢ
     .accesskey = ᱱ
-
 sync-engine-logins-passwords =
     .label = ᱵᱚᱞᱚᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
     .tooltiptext = ᱟᱢ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱫ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
@@ -334,7 +279,6 @@ sync-engine-logins-passwords =
 sync-device-name-cancel =
     .label = ᱵᱟᱹᱰᱨᱟᱹ
     .accesskey = ᱵ
-
 sync-device-name-save =
     .label = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
     .accesskey = ᱥ
@@ -348,7 +292,6 @@ forms-exceptions =
     .label = ᱪᱷᱟᱰᱟ ᱠᱚ …
     .accesskey = x
 forms-breach-alerts-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-
 forms-primary-pw-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -356,7 +299,6 @@ forms-primary-pw-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 forms-master-pw-change =
     .label = ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱚᱫᱚᱞ ᱢᱮ …
     .accesskey = M
-
 forms-master-pw-fips-desc = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱚᱫᱚᱞ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ ᱾
 forms-windows-sso-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
@@ -366,7 +308,6 @@ forms-windows-sso-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 ## Privacy Section - History
 
 history-header = ᱱᱟᱜᱟᱢ
-
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
@@ -378,28 +319,22 @@ history-header = ᱱᱟᱜᱟᱢ
 #   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } ᱫᱚ
     .accesskey = ᱫ
-
 history-remember-option-all =
     .label = ᱱᱟᱜᱟᱢ ᱢᱚᱱᱮ ᱠᱟᱜ ᱢᱮ
 history-remember-option-never =
     .label = ᱦᱤᱛᱟᱹᱞ ᱛᱤᱥ ᱦᱚᱸ ᱟᱞᱚᱢ ᱩᱭᱦᱟᱹᱨ ᱟ
 history-remember-option-custom =
     .label = ᱦᱤᱛᱟᱹᱞ ᱞᱟᱹᱜᱤᱛ ᱠᱩᱥᱤᱭᱟᱜ ᱥᱟᱡᱟᱣ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾
-
 history-dontremember-description = { -brand-short-name } ᱫᱚ ᱱᱤᱡᱮᱨᱟᱜ ᱯᱟᱱᱛᱮ ᱭᱟᱜ ᱞᱮᱠᱟ ᱢᱤᱛ ᱜᱮ ᱥᱟᱡᱟᱣ ᱠᱚ ᱨᱮᱭᱟᱜ ᱵᱮᱵᱷᱟᱨᱟ, ᱟᱨ ᱟᱢ ᱣᱮᱵ ᱯᱟᱱᱛᱮ ᱞᱮᱠᱟ ᱡᱟᱦᱟᱱ ᱦᱤᱛᱟᱹᱞ ᱵᱟᱭ ᱩᱭᱦᱟᱹᱨᱟ ᱾
-
 history-private-browsing-permanent =
     .label = ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱩᱡᱤᱝ ᱢᱳᱰ ᱡᱟᱣᱜᱮ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = p
-
 history-remember-search-option =
     .label = ᱯᱟᱱᱛᱮ ᱟᱨ ᱛᱮᱭᱟᱨ ᱦᱤᱛᱟᱹᱞ ᱩᱭᱦᱟᱹᱨ ᱫᱚᱦᱚᱭ ᱢᱮ
     .accesskey = f
-
 history-clear-on-close-option =
     .label = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ ᱛᱤᱱᱨᱮ  { -brand-short-name } ᱵᱚᱸᱫᱚᱜᱼᱟ
     .accesskey = r
-
 history-clear-on-close-settings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ
     .accesskey = ᱥ
@@ -428,11 +363,9 @@ content-blocking-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 ## Privacy Section - Permissions
 
 permissions-notification-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-
 permissions-block-popups =
     .label = ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱟᱴᱠᱟᱣ
     .accesskey = B
-
 permissions-addon-exceptions =
     .label = ᱪᱷᱟᱰᱟ ᱠᱚ …
     .accesskey = E
@@ -440,9 +373,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-health-report-telemetry-disabled-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-
 collection-health-report-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-
 addon-recommendations-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## Privacy Section - Security
@@ -455,9 +386,8 @@ security-enable-safe-browsing-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 ## Privacy Section - Certificates
 
 certs-header = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱠᱚ
-
 certs-enable-ocsp =
-    .label = ᱯᱚᱨᱚᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱠᱚ ᱨᱮᱭᱟᱜ ᱱᱤᱛᱚᱜᱟᱜ ᱚᱠᱛᱚ ᱮᱢ ᱜᱚᱴᱟᱭ ᱞᱟᱹᱜᱤᱫ OCSP ᱠᱩᱠᱞᱤ ᱨᱩᱟᱹᱲᱤᱡ ᱥᱚᱨᱣᱚᱨ ᱠᱟᱹᱢᱤᱟᱭ
+    .label = ᱯᱚᱨᱚᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱠᱚ ᱨᱮᱭᱟᱜ ᱱᱤᱛᱚᱜᱟᱜ ᱚᱠᱛᱚ ᱮᱢ ᱜᱚᱴᱟᱭ ᱞᱟᱹᱜᱤᱫ OCSP ᱠᱩᱠᱞᱤ ᱨᱩᱣᱟᱹᱲᱤᱡ ᱥᱚᱨᱣᱚᱨ ᱠᱟᱹᱢᱤᱟᱭ
     .accesskey = Q
 
 ## Privacy Section - HTTPS-Only
@@ -469,4 +399,3 @@ httpsonly-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 desktop-folder-name = ᱰᱮᱥᱠᱴᱚᱯ
 downloads-folder-name = ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ
 choose-download-folder-title = ᱟᱛᱩᱨ ᱟᱬᱜᱚ ᱯᱚᱴᱚᱢ ᱵᱟᱪᱷᱟᱣ ᱢᱮ:
-

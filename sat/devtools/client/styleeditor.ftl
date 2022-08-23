@@ -19,7 +19,7 @@ styleeditor-editor-textbox =
 styleeditor-no-stylesheet = ᱱᱚᱣᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱡᱟᱦᱟᱱ ᱦᱩᱱᱟᱹᱨ ᱯᱟᱛᱟᱨ ᱵᱟᱹᱱᱩᱜ ᱟ ᱾
 styleeditor-no-stylesheet-tip = ᱯᱟᱞᱮ ᱟᱢ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ <a data-l10n-name="append-new-stylesheet"> ᱢᱤᱫ ᱱᱟᱶᱟ ᱦᱩᱱᱟᱹᱨ ᱯᱟᱛᱟᱨ ᱟᱠᱟᱭ ᱢᱮ </a>?
 styleeditor-open-link-new-tab =
-    .label = ᱱᱟᱶᱟ ᱴᱮᱵ ᱨᱮ ᱞᱤᱝᱠ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱞᱤᱝᱠ ᱡᱷᱤᱡᱽ ᱢᱮ
 styleeditor-copy-url =
     .label = URL ᱱᱚᱠᱚᱞ‌ ᱢᱮ
 styleeditor-go-to-line =

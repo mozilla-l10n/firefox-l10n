@@ -73,17 +73,17 @@ appmenu-remote-tabs-turn-on-sync =
     .label = ᱛᱚᱞ ᱡᱚᱠᱷᱟ ᱚᱱ ᱢᱮ...
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
-    .label = ᱟᱨᱦᱚᱸ ᱴᱮᱵ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
-    .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱟᱨᱦᱚᱸ ᱴᱮᱵ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+    .label = ᱟᱨᱦᱚᱸ ᱴᱮᱵᱽ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+    .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱟᱨᱦᱚᱸ ᱴᱮᱵᱽ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = ᱠᱷᱩᱞᱟᱹᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱵᱟᱹᱱᱩᱜᱼᱟ
 # This is shown when Sync is configured but syncing tabs is disabled.
-appmenu-remote-tabs-tabsnotsyncing = ᱚᱞᱜᱟ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱴᱮᱵ ᱨᱮᱭᱟᱜ ᱞᱤᱥᱴᱤ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱴᱮᱵ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱚᱱ ᱛᱟᱢ ᱾
+appmenu-remote-tabs-tabsnotsyncing = ᱚᱞᱜᱟ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱴᱮᱵᱽ ᱨᱮᱭᱟᱜ ᱞᱤᱥᱴᱤ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱴᱮᱵᱽ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱚᱱ ᱛᱟᱢ ᱾
 appmenu-remote-tabs-opensettings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
-appmenu-remote-tabs-noclients = ᱟᱢᱟᱠ ᱴᱮᱵ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱱᱚᱸᱱᱰᱮ ᱧᱮᱞ ᱪᱷᱚ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟᱢ ᱥᱮ?
+appmenu-remote-tabs-noclients = ᱟᱢᱟᱠ ᱴᱮᱵᱽ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱱᱚᱸᱱᱰᱮ ᱧᱮᱞ ᱪᱷᱚ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟᱢ ᱥᱮ?
 appmenu-remote-tabs-connectdevice =
     .label = ᱚᱞᱜᱟ ᱥᱟᱫᱷᱚᱱ ᱡᱩᱰᱟᱹᱣ ᱢᱮ
 appmenu-remote-tabs-welcome = ᱟᱢᱟᱜ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱴᱮᱵᱽ ᱞᱤᱥᱴᱤ ᱫᱮᱠᱷᱟᱣ ᱢᱮ ᱾

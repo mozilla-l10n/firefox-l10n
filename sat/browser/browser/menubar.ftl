@@ -38,11 +38,9 @@ menu-quit =
             [windows] ᱚ
            *[other] ᱛ
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } ᱵᱟᱹᱜᱤ ᱢᱮ
-
 menu-about =
     .label = { -brand-shorter-name } ᱵᱟᱵᱚᱛ
     .accesskey = ᱵ
@@ -142,7 +140,7 @@ menu-view-bookmarks =
 menu-view-history-button =
     .label = ᱱᱟᱜᱟᱢ
 menu-view-synced-tabs-sidebar =
-    .label = ᱛᱷᱟᱨ ᱦᱚᱪᱚ ᱴᱮᱵ ᱠᱚ
+    .label = ᱛᱷᱟᱨ ᱦᱚᱪᱚ ᱴᱮᱵᱽ ᱠᱚ
 menu-view-full-zoom =
     .label = ᱦᱩᱲᱤᱧ ᱞᱟᱹᱴᱩ ᱛᱮᱭᱟᱨ
     .accesskey = ᱦ

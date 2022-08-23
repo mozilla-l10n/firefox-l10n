@@ -6,7 +6,7 @@ tab-context-new-tab =
     .label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ
     .accesskey = w
 reload-tab =
-    .label = ᱴᱮᱵ ᱞᱟᱫᱮ ᱫᱚᱦᱲᱟ
+    .label = ᱴᱮᱵᱽ ᱞᱟᱫᱮ ᱫᱚᱦᱲᱟ
     .accesskey = R
 select-all-tabs =
     .label = ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
@@ -26,15 +26,15 @@ duplicate-tabs =
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
 close-tabs-to-the-start =
-    .label = ᱞᱮᱝᱜᱟ ᱥᱮᱫ ᱴᱮᱵ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    .label = ᱞᱮᱝᱜᱟ ᱥᱮᱫ ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
     .accesskey = l
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
-    .label = ᱡᱚᱡᱚᱢ ᱥᱮᱫ ᱴᱮᱵ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    .label = ᱡᱚᱡᱚᱢ ᱥᱮᱫ ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
     .accesskey = i
 close-other-tabs =
-    .label = ᱵᱷᱮᱜᱟᱨ ᱴᱮᱵ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    .label = ᱵᱷᱮᱜᱟᱨ ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
     .accesskey = o
 reload-tabs =
     .label = ᱴᱮᱵᱽ ᱠᱚ ᱫᱚᱦᱲᱟ ᱞᱟᱫᱮ ᱢᱮ
@@ -82,10 +82,10 @@ tab-context-share-url =
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
-            [1] ᱵᱚᱸᱫ ᱟᱠᱟᱱ ᱴᱮᱵ ᱫᱩᱦᱲᱟᱹ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
-            [one] ᱵᱚᱸᱫ ᱟᱠᱟᱱ ᱴᱮᱵ ᱫᱩᱦᱲᱟᱹ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
-            [two] ᱵᱚᱸᱫ ᱟᱠᱟᱱ ᱴᱮᱵ ᱠᱤᱱ ᱫᱩᱦᱲᱟᱹ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
-           *[other] ᱵᱚᱸᱫ ᱟᱠᱟᱱ ᱴᱮᱵ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+            [1] ᱵᱚᱸᱫ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱫᱩᱦᱲᱟᱹ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+            [one] ᱵᱚᱸᱫ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱫᱩᱦᱲᱟᱹ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+            [two] ᱵᱚᱸᱫ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱤᱱ ᱫᱩᱦᱲᱟᱹ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+           *[other] ᱵᱚᱸᱫ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
         }
     .accesskey = o
 tab-context-close-n-tabs =
@@ -106,7 +106,6 @@ tab-context-move-tabs =
            *[other] ᱴᱮᱵᱽ ᱠᱚ ᱩᱪᱟᱹᱲ ᱢᱮ
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

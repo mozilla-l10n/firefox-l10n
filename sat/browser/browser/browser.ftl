@@ -223,6 +223,14 @@ search-one-offs-tabs =
 search-one-offs-history =
     .tooltiptext = ᱱᱟᱜᱟᱢ ({ $restrict })
 
+## QuickActions are shown in the urlbar as the user types a matching string
+
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+
 ## Bookmark Panel
 
 bookmarks-add-bookmark = ᱵᱩᱠᱢᱟᱨᱠ ᱥᱮᱞᱮᱫᱽ ᱢᱮ
@@ -325,7 +333,7 @@ browser-window-minimize-button =
 browser-window-maximize-button =
     .tooltiptext = ᱢᱟᱨᱟᱝ ᱪᱷᱚ
 browser-window-restore-down-button =
-    .tooltiptext = ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚ ᱨᱩᱟᱹᱲ
+    .tooltiptext = ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚ ᱨᱩᱣᱟᱹᱲ
 browser-window-close-button =
     .tooltiptext = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 
@@ -517,7 +525,7 @@ urlbar-result-action-calculator-result = = { $result }
 
 urlbar-result-action-search-bookmarks = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 urlbar-result-action-search-history = ᱥᱮᱸᱫᱽᱨᱟ ᱱᱟᱜᱟᱢ ᱠᱚ
-urlbar-result-action-search-tabs = ᱴᱮᱵ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱤ ᱢᱮ
+urlbar-result-action-search-tabs = ᱴᱮᱵᱽ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 
 ## Labels shown above groups of urlbar results
 
@@ -545,8 +553,8 @@ fullscreen-exit-mac-button = ᱯᱩᱨᱟᱹ ᱥᱠᱨᱤᱱ ᱠᱷᱚᱱ ᱵᱟ
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
-pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ᱴᱷᱮᱱ ᱫᱚ ᱟᱢᱟᱜ ᱩᱫᱩᱜ ᱨᱮᱭᱟᱜ ᱠᱚᱵᱽᱡᱟ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱠᱚᱵᱽᱡᱟ ᱤᱫᱤ ᱨᱩᱟᱹᱲ ᱞᱟᱹᱜᱤᱫ Esc ᱚᱛᱟᱭ ᱢᱮ ᱾
-pointerlock-warning-no-domain = ᱱᱚᱶᱟ ᱫᱚᱞᱤᱞ ᱫᱚ ᱟᱢᱟᱜ ᱩᱫᱩᱜ ᱨᱮᱭᱟᱜ ᱠᱚᱵᱡᱟ ᱢᱮᱱᱟᱜ ᱛᱟᱭᱟ ᱾ ᱠᱚᱵᱽᱡᱟ ᱤᱫᱤ ᱨᱩᱟᱹᱲ ᱞᱟᱹᱜᱤᱫ Esc ᱚᱛᱟᱭ ᱢᱮ ᱾
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ᱴᱷᱮᱱ ᱫᱚ ᱟᱢᱟᱜ ᱩᱫᱩᱜ ᱨᱮᱭᱟᱜ ᱠᱚᱵᱽᱡᱟ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱠᱚᱵᱽᱡᱟ ᱤᱫᱤ ᱨᱩᱣᱟᱹᱲ ᱞᱟᱹᱜᱤᱫ Esc ᱚᱛᱟᱭ ᱢᱮ ᱾
+pointerlock-warning-no-domain = ᱱᱚᱶᱟ ᱫᱚᱞᱤᱞ ᱫᱚ ᱟᱢᱟᱜ ᱩᱫᱩᱜ ᱨᱮᱭᱟᱜ ᱠᱚᱵᱡᱟ ᱢᱮᱱᱟᱜ ᱛᱟᱭᱟ ᱾ ᱠᱚᱵᱽᱡᱟ ᱤᱫᱤ ᱨᱩᱣᱟᱹᱲ ᱞᱟᱹᱜᱤᱫ Esc ᱚᱛᱟᱭ ᱢᱮ ᱾
 
 ## Subframe crash notification
 
@@ -795,3 +803,6 @@ data-reporting-notification-message = { -brand-short-name } ᱟᱡᱼᱟᱡ ᱛ�
 data-reporting-notification-button =
     .label = ᱪᱮᱫ ᱤᱧᱤᱧ ᱦᱟᱹᱴᱤᱧ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
     .accesskey = C
+
+## Unified extensions (toolbar) button
+
