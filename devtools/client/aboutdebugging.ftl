@@ -8,12 +8,25 @@
 
 # Page Title strings
 
+# Page title (ie tab title) for the Setup page
+about-debugging-page-title-setup-page = නිදොස්කරණය - පිහිටුවීම
 
 # Sidebar strings
 
+# Display name of the runtime for the currently running instance of Firefox. Used in the
+# Sidebar and in the Setup page.
+about-debugging-this-firefox-runtime-name = මෙම { -brand-shorter-name }
+# Sidebar heading for connecting to some remote source
+about-debugging-sidebar-setup =
+    .name = පිහිටුවීම
 
 # Setup Page strings
 
+# Title of the Setup page.
+about-debugging-setup-title = පිහිටුවීම
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = ජාලයේ ස්ථානය
 
 # Runtime Page strings
 
