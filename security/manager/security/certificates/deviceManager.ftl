@@ -35,9 +35,17 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = PKCS#11 උපාංග ධාවකය පූරණය
 load-device-info = ඔබට එක් කිරීමට අවශ්‍ය ඒකකයේ තොරතුරු ඇතුල් කරන්න.
+load-device-modname =
+    .value = ඒකකයේ නම
+    .accesskey = M
 load-device-modname-default =
     .value = නව PKCS#11 ඒකකය
+load-device-filename =
+    .value = ඒකක ගොනුවේ නම
+    .accesskey = f
 load-device-browse =
     .label = පිරික්සන්න...
     .accesskey = B
