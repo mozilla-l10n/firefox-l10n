@@ -130,6 +130,9 @@ main-context-menu-bookmark-link =
 main-context-menu-save-link =
     .label = …ලෙස සබැඳිය සුරකින්න
     .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = { -pocket-brand-name } වෙත සබැඳිය සුරකින්න
+    .accesskey = o
 
 ## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -257,6 +260,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = හඬපටය තැපැල් කරන්න...
     .accesskey = a
+main-context-menu-save-to-pocket =
+    .label = { -pocket-brand-name } වෙත පිටුව සුරකින්න
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = පිටුව උපාංගයට යවන්න
     .accesskey = D
@@ -316,6 +322,9 @@ main-context-menu-frame-view-info =
 main-context-menu-print-selection =
     .label = තේරීම මුද්‍රණය
     .accesskey = r
+main-context-menu-view-selection-source =
+    .label = තේරීමෙහි මූලාශ්‍රය බලන්න
+    .accesskey = e
 main-context-menu-take-screenshot =
     .label = තිර සේයාවක් ගන්න
     .accesskey = T

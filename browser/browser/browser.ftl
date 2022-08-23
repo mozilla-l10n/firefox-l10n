@@ -93,6 +93,8 @@ urlbar-midi-notification-anchor =
     .tooltiptext = MIDI මඬල අරින්න
 urlbar-eme-notification-anchor =
     .tooltiptext = DRM මෘදුකාංග භාවිතය කළමනාකරණය
+urlbar-web-authn-anchor =
+    .tooltiptext = වියමන සත්‍යාපන මඬල අරින්න
 urlbar-web-rtc-share-microphone-notification-anchor =
     .tooltiptext = ශබ්දවාහිනිය අඩවිය සමඟ බෙදාගැනීම කළමනාකරණය
 urlbar-default-notification-anchor =
@@ -101,6 +103,8 @@ urlbar-geolocation-notification-anchor =
     .tooltiptext = ස්ථානය ඉල්ලීමේ මඬල අරින්න
 urlbar-xr-notification-anchor =
     .tooltiptext = අතථ්‍ය යථාර්ථ අවසර මඬල අරින්න
+urlbar-storage-access-anchor =
+    .tooltiptext = පිරික්සුම් ක්‍රියාකාරකම් අවසර මඬල අරින්න
 urlbar-translate-notification-anchor =
     .tooltiptext = පිටුව පරිවර්තනය කරන්න
 urlbar-web-rtc-share-screen-notification-anchor =
@@ -115,6 +119,8 @@ urlbar-translated-notification-anchor =
 # another audio output connection.
 urlbar-web-rtc-share-speaker-notification-anchor =
     .tooltiptext = අඩවිය සමඟ අන් විකාශක බෙදාගැනීම කළමනාකරණය
+urlbar-autoplay-notification-anchor =
+    .tooltiptext = ස්වයං වාදන මඬල අරින්න
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = අනවරත ආචයනයේ දත්ත ගබඩා කරන්න
 urlbar-addons-notification-anchor =
@@ -133,6 +139,7 @@ urlbar-tip-icon-description =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-redirect-2 = { $engineName } සහ පිරික්සුම් ඉතිහාසයෙන් යෝජනා බැලීමට ලිපින තීරුවෙහි සෙවීම අරඹන්න.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -145,10 +152,10 @@ urlbar-search-mode-actions = ක්‍රියාමාර්ග
 
 urlbar-geolocation-blocked =
     .tooltiptext = ඔබ මෙම අඩවිය සඳහා ස්ථානීය තොරතුරු අවහිර කර ඇත.
+urlbar-xr-blocked =
+    .tooltiptext = ඔබ මෙම අඩවිය සඳහා අතථ්‍ය යථාර්ථ උපාංග ප්‍රවේශය අවහිර කර ඇත.
 urlbar-web-notifications-blocked =
     .tooltiptext = ඔබ මෙම අඩවිය සඳහා දැනුම්දීම් අවහිර කර ඇත.
-urlbar-camera-blocked =
-    .tooltiptext = ඔබ මෙම අඩවියට ඔබගේ කැමරාව අවහිර කර ඇත.
 urlbar-microphone-blocked =
     .tooltiptext = ඔබ මෙම අඩවියට ඔබගේ ශබ්දවාහිනිය අවහිර කර ඇත.
 urlbar-screen-blocked =
