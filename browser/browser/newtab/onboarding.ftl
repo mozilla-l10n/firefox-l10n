@@ -224,9 +224,12 @@ mr2-onboarding-start-browsing-button-label = Start mei browsen
 
 onboarding-live-language-header = Kies jo taal
 mr2022-onboarding-live-language-text = { -brand-short-name } sprekt jo taal
+mr2022-language-mismatch-subtitle = Mei tank oan ús mienskip, { -brand-short-name } is yn mear as 90 talen oerset. It liket derop dat jo systeem { $systemLanguage } brûkt, en { -brand-short-name } { $appLanguage } brûkt.
 onboarding-live-language-button-label-downloading = It taalpakket downloade foar { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Beskikbere talen ophelje…
 onboarding-live-language-installing = It taalpakket foar { $negotiatedLanguage } ynstallearje…
+mr2022-onboarding-live-language-switch-to = Wikselje nei { $negotiatedLanguage }
+mr2022-onboarding-live-language-continue-in = Trochgean yn { $appLanguage }
 onboarding-live-language-secondary-cancel-download = Annulearje
 onboarding-live-language-skip-button-label = Oerslaan
 
@@ -259,12 +262,44 @@ mr2022-onboarding-secondary-skip-button-label = Dizze stap oerslaan
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Iepenje in geweldich ynternet
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Start { -brand-short-name } fan oeral wei mei ien klik. Elke kear as jo dat dogge, kieze jo in mear iepen en ûnôfhinklik web.
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } yn Dock hâlde
+       *[other] { -brand-short-name } oan taakbalke fêstmeitsje
+    }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Start mei in browser stipe troch in non-profit. Wy ferdigenje jo privacy wylst jo sneupe op it ynternet.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Tank foar jo leafde foar { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Start in sûner ynternet fan oeral wei mei ien klik. Us lêste fernijing is fol mei nije saken wêrfan wy tinke dat jo se wurdearje sille.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Brûk in browser dy’t jo privacy ferdigenet wylst jo op it web sneupe. Us lêste fernijing is fol mei saken wêr’t jo fan hâlde.
+mr2022-onboarding-existing-pin-checkbox-label = Foegje ek { -brand-short-name }-priveenavigaasje ta
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Meitsje { -brand-short-name } earste browser
+mr2022-onboarding-set-default-primary-button-label = Stel { -brand-short-name } yn as standertbrowser
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Brûk in browser stipe troch in non-profit. Wy ferdigenje jo privacy wylst jo sneupe op it ynternet.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
