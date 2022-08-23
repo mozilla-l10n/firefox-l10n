@@ -254,6 +254,13 @@ search-one-offs-actions =
 
 quickactions-addons = Visualizza componenti aggiuntivi
 quickactions-cmd-addons = componenti aggiuntivi, estensioni, temi
+quickactions-cmd-addons2 = componenti aggiuntivi
+quickactions-extensions = Gestisci estensioni
+quickactions-cmd-extensions = estensioni
+quickactions-plugins = Gestisci plugin
+quickactions-cmd-plugins = plugin
+quickactions-themes = Gestisci temi
+quickactions-cmd-themes = temi
 quickactions-bookmarks = Visualizza segnalibri
 quickactions-cmd-bookmarks = segnalibri
 quickactions-clearhistory = Cancella cronologia
