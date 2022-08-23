@@ -2,14 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-password-quality-meter = दानाङ साबाद गुन मिटार
+password-quality-meter = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱜᱩᱱ ᱢᱤᱴᱟᱨ
 
 ## Change Password dialog
 
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
-change-password-token = जा़पती साधोन: { $tokenName }
-change-password-old = नितोगाक् दानाङ साबाद :
+change-password-token = ᱡᱟᱹᱯᱛᱤ ᱥᱟᱫᱷᱚᱱ: { $tokenName }
+change-password-old = ᱱᱤᱛᱚᱜᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ :
 change-password-new = ᱱᱟᱣᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ :
 change-password-reenter = ᱱᱟᱣᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ (ᱫᱩᱦᱲᱟᱹ):
 
@@ -21,14 +21,14 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window =
-    .title = पोरमान साकाम आ़तुर आंड़गोयेत् आ
+    .title = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱟᱹᱛᱩᱨ ᱟᱸᱲᱜᱚᱭᱮᱫ ᱟ
     .style = width: 46em
-download-cert-message = आम नावा पोरमान साकाम एमोगिच्  (CA) चेतान पा़तया़व ला़गित् कुली याकानाम.
+download-cert-message = ᱟᱢ ᱱᱟᱣᱟ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱮᱢᱚᱜᱤᱡ (CA) ᱪᱮᱛᱟᱱ ᱯᱟᱹᱛᱭᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱞᱤ ᱭᱟᱠᱟᱱᱟᱢ᱾
 download-cert-trust-ssl =
-    .label = नोवा CA वेब साइट को उपरुम ला़गित् पा़तया़वाक् मे.
+    .label = ᱱᱚᱣᱟ CA ᱣᱮᱵ ᱥᱟᱤᱴ ᱠᱚ ᱩᱯᱨᱩᱢ ᱞᱟᱹᱜᱤᱫ ᱯᱟᱹᱛᱭᱟᱹᱣᱟᱜ ᱢᱮ᱾
 download-cert-trust-email =
-    .label = इमेल बेभार को उपरुम ला़गित् नोवा  CA पा़तया़वाक् मे .
-download-cert-message-desc = जाहान कारोन ला़गित् नोवा CA चेतान पा़तया़व माड़ाङ , आम उनियाक् पोरमान साकाम ञेल बिड़ाव ला़कती आर उनीयाक् निती आर का़मी होरा  (जुदी ञामोक् आ ).
+    .label = ᱤᱢᱮᱞ ᱵᱮᱵᱷᱟᱨ ᱠᱚ ᱩᱯᱨᱩᱢ ᱞᱟᱹᱜᱤᱫ ᱱᱚᱣᱟ CA ᱯᱟᱹᱛᱭᱟᱹᱣᱟᱜ ᱢᱮ ᱾
+download-cert-message-desc = ᱡᱟᱦᱟᱱ ᱠᱟᱨᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱱᱚᱣᱟ CA ᱪᱮᱛᱟᱱ ᱯᱟᱹᱛᱭᱟᱹᱣ ᱢᱟᱲᱟᱝ , ᱟᱢ ᱩᱱᱤᱭᱟᱜ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱧᱮᱞ ᱵᱤᱲᱟᱣ ᱞᱟᱹᱠᱛᱤ ᱟᱨ ᱩᱱᱤᱭᱟᱜ ᱱᱤᱛᱤ ᱟᱨ ᱠᱟᱹᱢᱤ ᱦᱚᱨᱟ (ᱡᱩᱫᱤ ᱧᱟᱢᱚᱜ ᱟ ) ᱾
 download-cert-view-cert =
     .label = ᱧᱮᱱᱮᱞ
 download-cert-view-text = CA ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱯᱚᱨᱚᱠ ᱵᱤᱲᱟᱹᱣ
@@ -36,19 +36,19 @@ download-cert-view-text = CA ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱯᱚᱨᱚᱠ 
 ## Client Authorization Ask dialog
 
 client-auth-window =
-    .title = बेभारिजाक् उपरुम बाबोत नेहोर
-client-auth-site-description = नोवा साइट नेहोर आकात् आ जे आम पोरमान साकाम सांव आमते उपरुमोक् मे :
-client-auth-choose-cert = उपरुम उदुक् लेका मित् पोरमान साकाम बाछाव मे:
+    .title = ᱵᱮᱵᱷᱟᱨᱤᱡᱟᱜ ᱩᱯᱨᱩᱢ ᱵᱟᱵᱚᱛ ᱱᱮᱦᱚᱨ
+client-auth-site-description = ᱱᱚᱣᱟ ᱥᱟᱤᱴ ᱱᱮᱦᱚᱨ ᱟᱠᱟᱫ ᱟ ᱡᱮ ᱟᱢ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱥᱟᱸᱣ ᱟᱢᱛᱮ ᱩᱯᱨᱩᱢᱚᱜ ᱢᱮ :
+client-auth-choose-cert = ᱩᱯᱨᱩᱢ ᱩᱫᱩᱠ ᱞᱮᱠᱟ ᱢᱤᱫ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱵᱟᱪᱷᱟᱣ ᱢᱮ:
 
 ## Set password (p12) dialog
 
 set-password-window =
-    .title = पोरमान साकाम नोकोल जोगाव दानाङ साबाद बाछाव मे
-set-password-message = आम नोडेम साजाव आकात् पोरमान साकाम नोकोल जोगाव दानाङ साबाद नोकोल जोगाव रेत् ए आ़ड़ा ओका आम  तेयार ला़गितदोक् काना. आम नोकोल जोगाव सांव लाहाक् ला़गित् नोवा दानाङ साबाद साजाव ला़कती .
+    .title = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱱᱚᱠᱚᱞ ᱡᱚᱜᱟᱣ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+set-password-message = ᱟᱢ ᱱᱚᱰᱮᱢ ᱥᱟᱡᱟᱣ ᱟᱠᱟᱫ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱱᱚᱠᱚᱞ ᱡᱚᱜᱟᱣ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱱᱚᱠᱚᱞ ᱡᱚᱜᱟᱣ ᱨᱮᱫ ᱮ ᱟᱹᱲᱟ ᱳᱠᱟ ᱟᱢ ᱛᱮᱭᱟᱨ ᱞᱟᱹᱜᱤᱛᱫᱚᱜ ᱠᱟᱱᱟ᱾ ᱟᱢ ᱱᱚᱠᱚᱞ ᱡᱚᱜᱟᱣ ᱥᱟᱸᱣ ᱞᱟᱦᱟᱜ ᱞᱟᱹᱜᱤᱫ ᱱᱚᱣᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱥᱟᱡᱟᱣ ᱞᱟᱹᱠᱛᱤ ᱾
 set-password-backup-pw =
-    .value = पोरमान साकाम नोकोल जोगाव दानाङ साबाद :
+    .value = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱱᱚᱠᱚᱞ ᱡᱚᱜᱟᱣ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ :
 set-password-repeat-backup-pw =
-    .value = पोरमान साकाम नोकोल जोगाव दानाङ साबाद (दोहड़ा ):
+    .value = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱱᱚᱠᱚᱞ ᱡᱚᱜᱟᱣ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ (ᱫᱚᱦᱲᱟ ):
 set-password-reminder = ला़कतियाक्: जुदी आम आमाक् पोरमान साकाम नोकोल जोगाव  दानाङ साबाद हिड़िञ आकात् आम, आम तायोम ते नोवा नोकोल जोगाव दोहड़ा ते बाम जोगाव दाड़ेयाक् आ. नोवा नोवा सोनेसेद जायगा रे रेकोर्ड मे .
 
 ## Protected Auth dialog
