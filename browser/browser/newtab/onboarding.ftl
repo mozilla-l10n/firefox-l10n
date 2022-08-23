@@ -258,11 +258,62 @@ fx100-upgrade-thanks-header = 100 króć wulki dźak
 fx100-upgrade-thank-you-body = Je naša 100. wersija { -brand-short-name }. Dźakujemy so <em>wam</em>, zo nam pomhaće, lěpši, strowši internet natwarić.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Je naša 100. wersija! Dźakujemy so wam, zo sće dźěl našeho zhromadźenstwa. Dźeržće { -brand-short-name } jenož jedne kliknjenje wot přichodnych 100 zdaleny.
+mr2022-onboarding-secondary-skip-button-label = Tutón krok přeskočić
+
+## MR2022 New User Pin Firefox screen strings
+
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+
+## MR2022 New User Set Default screen strings
+
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+mr2022-onboarding-get-started-primary-button-label = Instalacija za sekundy
+
+## MR2022 Import Settings screen strings
+
+mr2022-onboarding-import-primary-button-label-no-attribution = Z předchadneho wobhladowaka importować
+
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+mr2022-onboarding-colorway-primary-button-label = Barbowu kombinaciju nastajić
+mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } k wašej barbnej startowej stronje činić
+mr2022-onboarding-colorway-label-default = Standard
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Standard
+mr2022-onboarding-colorway-label-playmaker = Wodźacy hrajer
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Wodźacy hrajer
+mr2022-onboarding-colorway-label-expressionist = Ekspresionist
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Ekspresionist
+mr2022-onboarding-colorway-label-visionary = Wizionar
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Wizionar
+mr2022-onboarding-colorway-label-activist = Aktiwist
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Aktiwist
+mr2022-onboarding-colorway-label-dreamer = Sonjer
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Sonjer
+mr2022-onboarding-colorway-label-innovator = Inowator
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Inowator
+
+## MR2022 Multistage Mobile Download screen strings
+
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-onboarding-skip-step-button-label = Tutón krok přeskočić
 mr2022-upgrade-onboarding-pin-private-window-header = Wobstarajće sej swobodu priwatneho modusa z jednym kliknjenjom
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Žane składowane placki abo žana historiju, direktnje z wašeho desktopa. Přehladujće kaž njeby was nichtó wobkedźbował.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
@@ -270,3 +321,11 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
         [macos] Priwatny modus w { -brand-short-name } doku wobchować
        *[other] Priwatny modus { -brand-short-name } k nadawkowej lajsće připjeć
     }
+
+## MR2022 Privacy Segmentation screen strings
+
+
+## MR2022 Multistage Gratitude screen strings
+
+mr2022-onboarding-gratitude-primary-button-label = Čitajće, štož je nowe
+mr2022-onboarding-gratitude-secondary-button-label = Přehladowanje započeć
