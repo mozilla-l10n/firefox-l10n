@@ -296,6 +296,9 @@ mr2022-onboarding-set-default-subtitle = Seqdec iminig ur nettnadi ara ɣef tedr
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Lqem-nneɣ aneggaru yettwafeṣṣel almend n wakken i tḥemmleḍ, err-it fessus ugarqef wayen iɛeddan mi ara tettinigeḍ deg web. Yeččur d timahilin i neẓra ad awint leɛqel-ik·im.
 mr2022-onboarding-get-started-primary-button-label = Asesteb deg kra n tesdatin
 
 ## MR2022 Import Settings screen strings
