@@ -3,65 +3,46 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = ᱮᱰᱼᱚᱱᱥ ᱵᱮᱵᱚᱥᱛᱷᱟᱤᱡ
-
 search-header-shortcut =
     .key = f
-
 list-empty-installed =
-    .value = आम ठेन नोवा लेकान बोहालाक्  रेयाक्  जाहान एड-ऑनस बा़नुक् आ
-
+    .value = ᱟᱢ ᱴᱷᱮᱱ ᱱᱚᱣᱟ ᱞᱮᱠᱟᱱ ᱵᱚᱦᱟᱞᱟᱜ ᱨᱮᱭᱟᱜ ᱡᱟᱦᱟᱱ ᱮᱰ-ᱟᱹᱱᱥ ᱵᱟᱹᱱᱩᱜ ᱟ
 list-empty-available-updates =
-    .value = जाहान हा़लियाक् को बाय ञाम लेना
-
+    .value = ᱡᱟᱦᱟᱱ ᱦᱟᱹᱞᱤᱭᱟᱜ ᱠᱚ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱱᱟ
 list-empty-recent-updates =
-    .value = आम सुर दिन जाहां गे एड-ऑनस बाम हा़ली आकात् आ
-
+    .value = ᱟᱢ ᱥᱩᱨ ᱫᱤᱱ ᱡᱟᱦᱟᱸ ᱜᱮ ᱮᱰ-ᱟᱹᱱᱥ ᱵᱟᱢ ᱦᱟᱹᱞᱤ ᱟᱠᱟᱫ ᱟ
 list-empty-find-updates =
-    .label = हा़ली को ला़गित् ञेंल
-
+    .label = ᱦᱟᱹᱞᱤ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱧᱮᱸᱞ
 list-empty-button =
-    .label = खोंजा-आदेर बाबोत् बाड़ती चेद मे
-
+    .label = ᱠᱷᱚᱸᱡᱟ-ᱟᱫᱮᱨ ᱵᱟᱵᱚᱫ ᱵᱟᱲᱛᱤ ᱪᱮᱫ ᱢᱮ
 detail-version =
-    .label = बार्सान
-
+    .label = ᱵᱷᱟᱹᱨᱥᱚᱱ
 detail-last-updated =
-    .label = मुचा़त् हा़लियाक्
-
-detail-contributions-description = नोवा एड-ऑन रे निच् तेयारिच् कुली गेया जे आमाक् गोड़ो ते मित् हुडिञाक् गोड़ो तेयार दाराय ते आजाक् लेताड़ लाहा रेयाक् गोड़ो मेनाक् आ.
-
+    .label = ᱢᱩᱪᱟᱹᱫ ᱦᱟᱹᱞᱤᱭᱟᱜ
+detail-contributions-description = ᱱᱚᱣᱟ ᱮᱰ-ᱟᱹᱱ ᱨᱮ ᱱᱤᱡ ᱛᱮᱭᱟᱨᱤᱡ ᱠᱩᱞᱤ ᱜᱮᱭᱟ ᱡᱮ ᱟᱢᱟᱜ ᱜᱚᱲᱚ ᱛᱮ ᱢᱤᱫ ᱦᱩᱰᱤᱧᱟᱜ ᱜᱚᱲᱚ ᱛᱮᱭᱟᱨ ᱫᱟᱨᱟᱭ ᱛᱮ ᱟᱡᱟᱜ ᱞᱮᱛᱟᱲ ᱞᱟᱦᱟ ᱨᱮᱭᱟᱜ ᱜᱚᱲᱚ ᱢᱮᱱᱟᱜ ᱟ᱾
 detail-update-type =
-    .value = आच् आच् ते हा़लियाक् को
-
+    .value = ᱟᱡ ᱟᱡ ᱛᱮ ᱦᱟᱹᱞᱤᱭᱟᱜ ᱠᱚ
 detail-update-default =
-    .label = हुड़ाक्
-    .tooltiptext = एकेन आच् आच् ते हा़ली को बो़हाल जुदी ओंडे हुड़ाक् मेनाक् आ .
-
+    .label = ᱢᱩᱞ
+    .tooltiptext = ᱮᱠᱮᱱ ᱟᱡ ᱟᱡ ᱛᱮ ᱦᱟᱹᱞᱤ ᱠᱚ ᱵᱚ़ᱦᱟᱞ ᱡᱩᱫᱤ ᱳᱸᱰᱮ ᱦᱩᱲᱟᱜ ᱢᱮᱱᱟᱜ ᱟ ᱾
 detail-update-automatic =
     .label = चालु
     .tooltiptext = हा़ली को आच् आच् ते बो़हाल
-
 detail-update-manual =
     .label = ऑफ
     .tooltiptext = आच् आच् ते हा़ली को आलोम बो़हाला
-
 detail-home =
     .label = ओड़ाक् साहटा
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = एड-ऑन प्रोफाइल
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = हा़ली को ला़गित् तेंघान
     .accesskey = f
     .tooltiptext = नोवा एड-ऑन ला़गित् हा़ली को तेंघान
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -78,13 +59,10 @@ detail-show-preferences =
             [windows] नोवा एड-ऑन आपनार मोने तेयाक् को बोदोल में
            *[other] नोवा एड-ऑनस रेयाक् कुसियाक् को
         }
-
 detail-rating =
     .value = ᱫᱚᱨ ᱴᱷᱟᱹᱣᱠᱟᱹ
-
 addon-restart-now =
     .label = नित दोहड़ा एहोब मे
-
 addon-category-extension = पासनाव को
 addon-category-extension-title =
     .title = पासनाव को
@@ -184,10 +162,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } दो { -brand-short-name } { $version } सांव बाङ सोंगोता.
-
 details-notification-blocked = { $name } दो जा़पती आर बाङ तिंगु थिर काथा को कारोन ते बाङ हुय होचो आकाना
 details-notification-blocked-link = ढेर ला़य सोदोर
-
 details-notification-softblocked = { $name }दो जा़पती आर बाङ तिंगु थिर काथा को कारोन ते बाडाया काना.
 details-notification-softblocked-link = ढेर ला़य सोदोर
-
