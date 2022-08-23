@@ -8,10 +8,19 @@
 # to go through and translate everything. Once these strings are ready for
 # translation, we'll move it to the locales folder.
 
+# This string is used so that the window has a title in tools that enumerate/look for window
+# titles. It is not normally visible anywhere.
+webrtc-indicator-title = { -brand-short-name } - බෙදාගැනීමේ දර්ශකය
+webrtc-sharing-window = ඔබ වෙනත් යෙදුමක කවුළුවක් බෙදා ගනිමින්.
+webrtc-sharing-browser-window = ඔබ { -brand-short-name } බෙදා ගනිමින් සිටියි.
+webrtc-sharing-screen = ඔබගේ සමස්ත තිරයම බෙදා ගනිමින් සිටියි.
+webrtc-stop-sharing-button = බෙදාගැනීම නවත්වන්න
 webrtc-microphone-unmuted =
     .title = ශබ්දවාහිනිය අක්‍රිය කරන්න
 webrtc-microphone-muted =
     .title = ශබ්දවාහිනිය සක්‍රිය කරන්න
+webrtc-minimize =
+    .title = දර්ශකය හකුළන්න
 webrtc-microphone-system-menu =
     .label = ඔබගේ ශබ්දවාහිනිය බෙදා ගැනෙමින්. එය පාලනයට ඔබන්න.
 webrtc-screen-system-menu =
