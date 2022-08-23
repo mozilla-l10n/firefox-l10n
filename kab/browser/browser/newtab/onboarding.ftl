@@ -322,6 +322,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Kečč·kemm d t·amesnulf
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-cta-text = Smiḍen tangalt QR i wakken ad tawiḍ { -brand-product-name } i uziraz neɣ <a data-l10n-name="download-label">sader s timmad-ik·im aseɣwen n usader.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Smiḍen tangalt QR i wakken ad tawiḍ { -brand-product-name } i uziraz.
 
 ## MR2022 Upgrade Dialog screens
