@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = AEC සටහන් තැබීම
 about-webrtc-aec-logging-off-state-label = AEC සටහන් තැබීම අරඹන්න
 about-webrtc-aec-logging-on-state-label = AEC සටහන නවතන්න
 about-webrtc-aec-logging-on-state-msg = AEC සටහන් තැබීම සක්‍රියයි (අමතන්නා සමඟ විනාඩි කිහිපයක් කතා කර ග්‍රහණය නවතන්න)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = ස්වයං නැවුම් කිරීම
 
 ##
 
@@ -34,6 +36,7 @@ about-webrtc-local-sdp-heading = ස්ථානීය SDP
 about-webrtc-local-sdp-heading-answer = ස්ථානීය SDP (උත්තරය)
 about-webrtc-remote-sdp-heading = දුරස්ථ SDP
 about-webrtc-remote-sdp-heading-answer = දුරස්ථ SDP (උත්තරය)
+about-webrtc-sdp-history-heading = SDP ඉතිහාසය
 
 ##
 
@@ -48,6 +51,9 @@ about-webrtc-rtp-stats-heading = RTP සංඛ්‍යාලේඛන
 about-webrtc-ice-state = ICE තත්‍වය
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE සංඛ්‍යාලේඛන
+about-webrtc-ice-pair-bytes-sent = යැවූ බයිට:
+about-webrtc-ice-pair-bytes-received = ලැබුණු බයිට:
+about-webrtc-ice-component-id = සංරචකයේ හැඳු.
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
@@ -91,15 +97,24 @@ about-webrtc-fold-hide-msg = විස්තර සඟවන්න
     .title = මෙම කොටස හැකිළීමට ඔබන්න
 about-webrtc-decoder-label = විකේතකය
 about-webrtc-encoder-label = ආකේතකය
+about-webrtc-show-tab-label = පටිත්ත පෙන්වන්න
 about-webrtc-current-framerate-label = රාමුඅනුපා.
 about-webrtc-width-px = පළල (px)
 about-webrtc-height-px = උස (px)
+about-webrtc-estimated-framerate = තක්සේරුගත රාමුඅනු.
+about-webrtc-rotation-degrees = කරකැවීම (අංශක)
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = සපයා ඇත
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = සපයා නැත
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -111,6 +126,22 @@ about-webrtc-aec-logging-off-state-msg = ග්‍රහණය කළ සටහ�
 
 ##
 
+# This is the total number of frames encoded or decoded over an RTP stream.
+# Variables:
+#  $frames (Number) - The number of frames encoded or decoded.
+about-webrtc-frames =
+    { $frames ->
+        [one] රාමු { $frames }
+       *[other] රාමු { $frames }
+    }
+# This is the number of audio channels encoded or decoded over an RTP stream.
+# Variables:
+#  $channels (Number) - The number of channels encoded or decoded.
+about-webrtc-channels =
+    { $channels ->
+        [one] නාලිකා { $channels }
+       *[other] නාලිකා { $channels }
+    }
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol

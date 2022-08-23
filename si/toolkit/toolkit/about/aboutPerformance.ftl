@@ -19,6 +19,7 @@ ghost-windows = මෑතදී වැසු පටිති
 
 type-tab = පටිත්ත
 type-subframe = අනුරාමුව
+type-tracker = ලුහුබැඳීම
 type-addon = එක්කහු
 type-browser = අතිරික්සුව
 type-other = වෙනත්

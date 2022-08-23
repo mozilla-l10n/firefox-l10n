@@ -17,3 +17,8 @@ pictureinpicture-unmute =
 
 ##
 
+pictureinpicture-subtitles-label = උපසිරැසි
+pictureinpicture-font-size-label = මුද්‍රණඅකුරේ තරම
+pictureinpicture-font-size-small = කුඩා
+pictureinpicture-font-size-medium = මධ්‍යම
+pictureinpicture-font-size-large = විශාල

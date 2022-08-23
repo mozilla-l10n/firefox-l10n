@@ -2,9 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+refresh-profile-dialog-title = { -brand-short-name } එහි පෙරනිමි සැකසුම්වලට නැවුම් කරන්නද?
 refresh-profile-dialog-button =
     .label = { -brand-short-name } නැවුම් කරන්න
 refresh-profile-button = { -brand-short-name } නැවුම් කරන්න...
+refresh-profile-learn-more = තව දැනගන්න
 refresh-profile-progress =
     .title = { -brand-short-name } නැවුම් කරන්න
 refresh-profile-progress-description = බොහෝ දුරට නිමයි…

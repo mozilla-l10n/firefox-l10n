@@ -9,6 +9,9 @@
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = මෙම අඩවියට { $scheme } සබැඳිය විවෘත කිරීමට ඉඩ දෙන්නද?
+permission-dialog-description-file = මෙම ගොනුවට { $scheme } සබැඳිය විවෘත කිරීමට ඉඩ දෙන්නද?
+permission-dialog-description-host-app = { $appName } සමඟ { $scheme } සබැඳිය විවෘත කිරීමට { $host } සඳහා ඉඩ දෙන්නද?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
@@ -17,13 +20,32 @@
 
 ##
 
+permission-dialog-btn-open-link =
+    .label = සබැඳිය අරින්න
+    .accessKey = O
+permission-dialog-btn-choose-app =
+    .label = යෙදුමක් තෝරන්න
+    .accessKey = A
+permission-dialog-unset-description = ඔබ යෙදුමක් තෝරා ගත යුතුයි.
+permission-dialog-set-change-app-link = වෙනස් යෙදුමක් තෝරන්න.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = යෙදුමක් තෝරන්න
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = සබැඳිය අරින්න
+    .buttonaccesskeyaccept = O
+chooser-dialog-description = { $scheme } සබැඳිය විවෘත කිරීමට යෙදුමක් තෝරන්න.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = <strong>{ $scheme }</strong> සබැඳි විවෘත කිරීමට සැමවිට මෙම යෙදුම භාවිතා කරන්න
 choose-other-app-description = වෙනත් යෙදුමක් තෝරන්න
 choose-app-btn =
     .label = තෝරන්න…
     .accessKey = C
 choose-other-app-window-title = වෙනත් යෙදුමක්…
+# Displayed under the name of a protocol handler in the Launch Application dialog.
+choose-dialog-privatebrowsing-disabled = පෞද්ගලික කවුළු තුළ අබලයි

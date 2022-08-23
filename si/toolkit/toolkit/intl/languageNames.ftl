@@ -4,6 +4,7 @@
 
 language-name-aa = අෆාර්
 language-name-ab = අබ්කාසින්
+language-name-ach = අචෝලි
 language-name-ae = අවෙසටන්
 language-name-af = අප්‍රිකානු
 language-name-ak = අකාන්
@@ -109,6 +110,7 @@ language-name-lo = ලාඕ
 language-name-lt = ලිතුවේනියානු
 language-name-lu = ලුබා-කටංගා
 language-name-lv = ලැට්වියානු
+language-name-mai = මයිතිලි
 language-name-mg = මැලගසි
 language-name-mh = මාර්ෂල්ස්
 language-name-mi = මවෝරි
