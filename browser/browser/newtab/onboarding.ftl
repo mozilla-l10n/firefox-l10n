@@ -329,15 +329,22 @@ mr2022-onboarding-colorway-label-default = Типово
 mr2022-onboarding-colorway-tooltip-default =
     .title = Типово
 mr2022-onboarding-colorway-description-default = <b>Використовувати поточні кольори { -brand-short-name }.</b>
+mr2022-onboarding-colorway-label-playmaker = Тактичність
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Тактичність
+mr2022-onboarding-colorway-description-playmaker = <b>Ви тактичні.</b> Ви створюєте можливості для перемоги та допомагаєте всім навколо покращити їхню гру.
 mr2022-onboarding-colorway-label-expressionist = Експресіонізм
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = Експресіонізм
+mr2022-onboarding-colorway-description-expressionist = <b>Ви експресивні.</b> Ви бачите світ інакше, а ваші витвори викликають в інших емоції.
 mr2022-onboarding-colorway-label-visionary = Мрійливість
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Мрійливість
+mr2022-onboarding-colorway-description-visionary = <b>Ви мрійливі.</b> Ви ставите під сумнів стан речей та спонукаєте інших уявити краще майбутнє.
 mr2022-onboarding-colorway-label-activist = Активізм
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Активізм
+mr2022-onboarding-colorway-description-activist = <b>Ви активні.</b> Ви покращуєте світ і зміцнюєте переконання інших.
 mr2022-onboarding-colorway-label-dreamer = Натхненність
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Натхненність
@@ -345,6 +352,7 @@ mr2022-onboarding-colorway-description-dreamer = <b>Ви надихаєте ін
 mr2022-onboarding-colorway-label-innovator = Винахідливість
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Винахідливість
+mr2022-onboarding-colorway-description-innovator = <b>Ви винахідливі.</b> Ви всюди бачите можливості та впливаєте на життя всіх навколо.
 
 ## MR2022 Multistage Mobile Download screen strings
 
