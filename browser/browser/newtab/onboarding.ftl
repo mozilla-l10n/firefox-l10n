@@ -260,11 +260,49 @@ fx100-upgrade-thanks-header = 100 sinnum takk til þín
 fx100-upgrade-thank-you-body = Þetta er hundraðasta útgáfan okkar af { -brand-short-name }. Þakka <em>þér</em> fyrir að hjálpa okkur að byggja upp betra og heilbrigðara internet.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Þetta er hundraðasta útgáfan okkar! Takk fyrir að vera hluti af samfélaginu okkar. Höldum { -brand-short-name } ótrauð áfram í næstu 100.
+mr2022-onboarding-secondary-skip-button-label = Sleppa þessu skrefi
+
+## MR2022 New User Pin Firefox screen strings
+
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Haltu { -brand-short-name } í dokkunni
+       *[other] Festu { -brand-short-name } á verkefnastikuna
+    }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Byrjaðu með vafra sem studdur er af sjálfseignarstofnun. Við verjum friðhelgi þína á meðan þú rennir um vefinn.
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+
+## MR2022 New User Set Default screen strings
+
+mr2022-onboarding-set-default-primary-button-label = Gerðu { -brand-short-name } að sjálfgefnum vafra
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+
+## MR2022 Import Settings screen strings
+
+
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+
+## MR2022 Multistage Mobile Download screen strings
+
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-onboarding-skip-step-button-label = Sleppa þessu skrefi
 mr2022-upgrade-onboarding-pin-private-window-header = Fáðu persónulegt frelsi við vafur - með einum smelli
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Engar vistaðar vefkökur eða ferilskráning, beint af skjáborðinu þínu. Vafraðu eins og enginn sé að horfa.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
@@ -272,3 +310,9 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
         [macos] Haltu { -brand-short-name } einkavafra í dokkunni
        *[other] Festu { -brand-short-name } einkavafra við verkefnastikuna
     }
+
+## MR2022 Privacy Segmentation screen strings
+
+
+## MR2022 Multistage Gratitude screen strings
+

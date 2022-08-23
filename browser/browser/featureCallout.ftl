@@ -9,3 +9,4 @@ callout-primary-complete-button-label = Ég skil!
 
 ## Firefox View feature tour strings
 
+callout-firefox-view-colorways-title = Bættu við skvettu af lit
