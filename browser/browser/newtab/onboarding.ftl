@@ -262,12 +262,44 @@ mr2022-onboarding-secondary-skip-button-label = Tutón krok přeskočić
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Wotkryjće so wulkotny internet
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Startujće { -brand-short-name } zwotkelžkuli z jednym kliknjenjom. Kóždy raz, hdyž to činiće, woliće bóle wotewrjeny a njewotwisny web.
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Wobchowajće { -brand-short-name } w doku
+       *[other] Připniće { -brand-short-name } k nadawkowej lajsće
+    }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Započńće z wobhladowakom, kotryž so wot powšitkownosći wužitneje organizacije podpěruje. Škitamy wašu priwatnosć, mjeztym zo w interneće hawroniće.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Wulki dźak, zo { -brand-product-name } lubujeće
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Startujće strowši internet zwotkelžkuli z jednym kliknjenjom. Naša najnowša aktualizacija je połna nowych wěcow, wo kotrychž sej myslimy, zo budźeće je smjerć lubować.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Wužiwajće wobhladowak, kotryž wašu priwatnosć škita, mjeztym zo w interneće hawroniće. Naša najnowša aktualizacija je połna nowych wěcow, kotrež smjerć lubujuće.
+mr2022-onboarding-existing-pin-checkbox-label = Přidajće tež priwatny modus { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Čińće { -brand-short-name } k swojemu spušćomnemu wobhladowakej
+mr2022-onboarding-set-default-primary-button-label = Nastajće { -brand-short-name } jako standardny wobhladowak
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Wužiwajće wobhladowak, kotryž so wot powšitkownosći wužitneje organizacije podpěruje. Škitamy wašu priwatnosć, mjeztym zo w interneće hawroniće.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -277,6 +309,7 @@ mr2022-onboarding-get-started-primary-button-label = Instalacija za sekundy
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Błyskospěšna instalacija
 mr2022-onboarding-import-primary-button-label-no-attribution = Z předchadneho wobhladowaka importować
 
 ## If your language uses grammatical genders, in the description for the
@@ -284,32 +317,43 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Z předchadneho w
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Wubjerće barbu, kotraž was inspiruje
+mr2022-onboarding-colorway-subtitle = Njewotwisne hłosy móža kulturu změnić.
 mr2022-onboarding-colorway-primary-button-label = Barbowu kombinaciju nastajić
 mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } k wašej barbnej startowej stronje činić
 mr2022-onboarding-colorway-label-default = Standard
 mr2022-onboarding-colorway-tooltip-default =
     .title = Standard
+mr2022-onboarding-colorway-description-default = <b>Moje aktualne barby { -brand-short-name } wužiwać.</b>
 mr2022-onboarding-colorway-label-playmaker = Wodźacy hrajer
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Wodźacy hrajer
+mr2022-onboarding-colorway-description-playmaker = <b>Sće wodźacy hrajer.</b> Wutworiće składnosće, zo byšće dobył a kóždemu wokoło was pomhał, jich hru polěpšić.
 mr2022-onboarding-colorway-label-expressionist = Ekspresionist
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = Ekspresionist
+mr2022-onboarding-colorway-description-expressionist = <b>Sće ekspresionist.</b> Widźiće swět hinak a waše dźěła začuća druhich wodźa.
 mr2022-onboarding-colorway-label-visionary = Wizionar
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Wizionar
+mr2022-onboarding-colorway-description-visionary = <b>Sće wizionar.</b> Stajeće status quo do prašenja a pohnuwaće druhich, sej lěpši přichod předstajić.
 mr2022-onboarding-colorway-label-activist = Aktiwist
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Aktiwist
+mr2022-onboarding-colorway-description-activist = <b>Sće aktiwist.</b> Zawostajeće swět jako lěpše městno, hač sće jón namakał a wjedźeće druhich k wěrje.
 mr2022-onboarding-colorway-label-dreamer = Sonjer
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Sonjer
+mr2022-onboarding-colorway-description-dreamer = <b>Sće sonjer.</b> Wěriće, zo zbožo zmužiteho preferuje a inspirujeće druhich, zo bychu zmužići byli.
 mr2022-onboarding-colorway-label-innovator = Inowator
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Inowator
+mr2022-onboarding-colorway-description-innovator = <b>Sće inowator.</b> Widźiće wšudźe šansy a wuskutkujeće so na žiwjenja wšěch wokoło was.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Skočće wot laptopa do šmóratka a zaso wróćo
+mr2022-onboarding-no-mobile-download-cta-text = Skenujće QR-kod, zo byšće sej { -brand-product-name } za mobilny grat wobstarał.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -324,8 +368,12 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Wašu priwatnosć přeco respektujemy.
+mr2022-onboarding-privacy-segmentation-primary-button-label = Doporučenja { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-secondary-button-label = Podrobne informacije
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Pomhaće nam lěpši web natwarić.
 mr2022-onboarding-gratitude-primary-button-label = Čitajće, štož je nowe
 mr2022-onboarding-gratitude-secondary-button-label = Přehladowanje započeć
