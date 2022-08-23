@@ -16,6 +16,7 @@ onboarding-not-now-button-label = දැන් නොවේ
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = කදිමයි, දැන් ඔබ සතුව { -brand-short-name } තිබේ
 return-to-amo-add-extension-label = දිගුව එක් කරන්න
 return-to-amo-add-theme-label = තේමාව එක් කරන්න
 
@@ -250,3 +251,4 @@ mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-n
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-primary-button-label = අළුත් දෑ බලන්න
+mr2022-onboarding-gratitude-secondary-button-label = පිරික්සුම අරඹන්න
