@@ -63,6 +63,14 @@ about-debugging-network-locations-host-input-label = සත්කාරකය
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = ඉවත් කරන්න
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = සත්කාරකය “{ $host-value }” වලංගු නොවේ. අපේක්‍ෂිත ආකෘතිය “සත්කාරකය:තොටඅංකය” වේ.
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = “{ $host-value }” සත්කාරකය දැනටමත් ලියාපදිංචි වී ඇත
 
 # Runtime Page strings
 
@@ -77,9 +85,30 @@ about-debugging-runtime-extensions =
 # Title of the tabs category.
 about-debugging-runtime-tabs =
     .name = පටිති
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = සේවා ක්‍රියාකාරක
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = හවුල් ක්‍රියාකාරක
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = අන් ක්‍රියාකාරක
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = සැකසීම්
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = පැතිකඩ ක්‍රියාකාරිත්‍වය
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to:
+# https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#service-workers-not-compatible
+about-debugging-runtime-service-workers-not-compatible = ඔබගේ අතිරික්සුව වින්‍යාසය සේවා ක්‍රියාකාරක සමඟ නොගැළපේ. <a>තව දැනගන්න</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = සම්බන්ධිත අතිරික්සුව පරණ අනුවාදයකි ({ $runtimeVersion }). සහාය දක්වන අවම අනුවාදය ({ $minVersion }) වේ. මෙය සහාය නොදක්වන පිහිටුවීමක් වන අතර DevTools ගැටළු වලට හේතු විය හැකිය. සම්බන්ධිත අතිරික්සුව යාවත්කාල කරන්න. <a>දෝෂ සෙවීම</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
