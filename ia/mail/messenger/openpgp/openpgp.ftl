@@ -232,8 +232,6 @@ openpgp-key-man-select-all-key =
 openpgp-key-man-key-details-key =
     .key = I
 openpgp-ign-addr-intro = Tu accepta usar iste clave pro le sequente adresses email eligite:
-openpgp-key-details-title =
-    .title = Proprietates del clave
 openpgp-key-details-doc-title = Proprietates del clave
 openpgp-key-details-signatures-tab =
     .label = Certificationes
@@ -242,7 +240,6 @@ openpgp-key-details-structure-tab =
 openpgp-key-details-uid-certified-col =
     .label = ID usator/Certificate per
 openpgp-key-details-key-id-label = ID de clave
-openpgp-key-details-user-id2-label = Presumite proprietario de clave
 openpgp-key-details-user-id3-label = Proprietario de clave asserite
 openpgp-key-details-id-label =
     .label = ID
@@ -383,8 +380,8 @@ wkd-message-body-req =
     Tu fornitor de servicios email ha processate tu requesta de cargar tu clave public in le directorio de clave web OpenPGP.
     Confirma pro completar le publication de tu clave public.
 wkd-message-body-process =
-    Isto es un email correlate al processo automatic pro cargar tu clave public in le directorio claves web OpenPGP.
-    Tu non debe prender ulle action manual a iste puncto.
+    Iste message de e-mail concerne le processo automatic del incargamento de tu clave public al directorio web de claves OpenPGP.
+    Non es necessari prender alcun action manual in iste momento.
 # Strings in persistentCrypto.jsm
 converter-decrypt-body-failed =
     Impossibile decifrar message con subjecto
@@ -507,8 +504,6 @@ key-error-key-id-not-found = Le ID clave configurate '{ $keySpec }' non pote ess
 key-error-not-accepted-as-personal = Tu non ha confirmate que le clave con ID '{ $keySpec }' es tu clave personal.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Le function que tu ha seligite non es disponibile in modo sin connexion. Per favor va online e reproba.
-# Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = Impossibile trovar ulle clave concordante le criterios de recerca specificate.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found2 = Impossibile trovar ulle clave utile concordante le criterios de recerca specificate.
 no-update-found = Tu jam ha le claves discoperite online.
