@@ -282,20 +282,29 @@ mr2022-onboarding-set-default-only-subtitle = Byrjaðu með vafra sem studdur er
 ## MR2022 New User Set Default screen strings
 
 mr2022-onboarding-set-default-primary-button-label = Gerðu { -brand-short-name } að sjálfgefnum vafra
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Notaðu vafra sem studdur er af sjálfseignarstofnun. Við verjum friðhelgi þína á meðan þú rennir um vefinn.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = Settu upp á nokkrum sekúndum
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Uppsetning í einum grænum
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-label-default = Sjálfgefið
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Sjálfgefið
+mr2022-onboarding-colorway-description-default = <b>Nota núverandi { -brand-short-name } litina mína.</b>
 
 ## MR2022 Multistage Mobile Download screen strings
 
@@ -313,6 +322,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Við virðum alltaf friðhelgi þína
 
 ## MR2022 Multistage Gratitude screen strings
 
