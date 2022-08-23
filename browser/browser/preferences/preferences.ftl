@@ -197,6 +197,9 @@ fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = පරිවර්තනය කළේ <img data-l10n-name="logo"/>
+translate-exceptions =
+    .label = හැරදැමීම්...
+    .accesskey = x
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -661,6 +664,9 @@ pane-privacy-logins-and-passwords-header = පිවිසුම් සහ ම�
 forms-ask-to-save-logins =
     .label = අඩවි සඳහා පිවිසුම් සහ මුරපද සුරැකීමට අසන්න
     .accesskey = r
+forms-exceptions =
+    .label = හැරදැමීම්...
+    .accesskey = x
 forms-breach-alerts-learn-more-link = තව දැනගන්න
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -744,6 +750,9 @@ sitedata-clear =
 sitedata-settings =
     .label = දත්ත කළමනාකරණය...
     .accesskey = M
+sitedata-cookies-exceptions =
+    .label = හැරදැමීම් කළමනාකරණය...
+    .accesskey = x
 
 ## Privacy Section - Address Bar
 
@@ -814,6 +823,9 @@ content-blocking-expand-section =
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = හැරදැමීම් කළමනාකරණය...
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
@@ -848,9 +860,18 @@ permissions-autoplay-settings =
 permissions-block-popups =
     .label = උත්පතන කවුළු වලක්වන්න
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = හැරදැමීම්...
+    .accesskey = E
+    .searchkeywords = උත්පතන
 permissions-addon-install-warning =
     .label = අඩවි එක්කහු ස්ථාපනයට සැරසෙන විට දන්වන්න
     .accesskey = W
+permissions-addon-exceptions =
+    .label = හැරදැමීම්...
+    .accesskey = E
 
 ## Privacy Section - Data Collection
 
