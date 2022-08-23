@@ -34,6 +34,7 @@ profile-prompt = නව පැතිකඩ නාමය යොදන්න:
     .accesskey = E
 profile-default-name =
     .value = පෙරනිමි පරිශීලක
+profile-directory-explanation = ඔබගේ පරිශීලක සැකසුම්, අභිප්‍රේත සහ අනෙකුත් පරිශීලක-ආශ්‍රිත දත්ත ගබඩා වන්නේ:
 create-profile-choose-folder =
     .label = බහාලුම තෝරන්න...
     .accesskey = C
