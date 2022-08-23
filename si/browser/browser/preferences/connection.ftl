@@ -62,4 +62,13 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = HTTPS මගින් ව.නා.ප. සබල කරන්න
     .accesskey = b
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (පෙරනිමි)
+    .tooltiptext = HTTPS මගින් ව.නා.ප. විසඳීමට පෙරනිමි ඒ.ස.නි. යොදාගන්න
+connection-dns-over-https-url-custom =
+    .label = අභිරුචි
+    .accesskey = C
+    .tooltiptext = HTTPS මගින් ව.නා.ප. විසඳීමට ප්‍රියතම ඒ.ස.නි. යොදන්න
 connection-dns-over-https-custom-label = අභිරුචි
