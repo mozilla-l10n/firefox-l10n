@@ -2,8 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY closeNotification.tooltip "नोवा खोबोर बोंदोय में">
+<!ENTITY closeNotification.tooltip "ᱱᱚᱣᱟ ᱠᱷᱚᱵᱚᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ">
 
-<!ENTITY checkForUpdates "हा़ली को ला़गित् तेंघान…">
+<!ENTITY checkForUpdates "ᱦᱟᱹᱞᱤ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱛᱮᱸᱜᱷᱟᱱ…">
 
+<!ENTITY learnMoreNoEllipsis "ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ">
 
+<!ENTITY defaultButton.label "ᱴᱷᱤᱠ!">
+<!ENTITY defaultButton.accesskey "O">
+
+<!ENTITY moreActionsButton.accessibleLabel "ᱰᱷᱮᱨ ᱠᱟᱹᱢᱤ ᱠᱚ">
