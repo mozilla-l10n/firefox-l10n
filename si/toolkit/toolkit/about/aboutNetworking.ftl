@@ -43,6 +43,8 @@ about-networking-dns-https-rr-lookup-table-column = HTTP RRs
 about-networking-rcwn-status = RCWN තත්‍වය
 about-networking-total-network-requests = මුළු ජාල ඉල්ලීම් ගණන
 about-networking-rcwn-operation = නිහිත මෙහෙයුම
+about-networking-networkid = ජාලයේ හැඳු.
+about-networking-networkid-id = ජාලයේ හැඳු.
 
 ## Link is intended as "network link"
 
