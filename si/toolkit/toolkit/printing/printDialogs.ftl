@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 print-setup =
-    .title = පිටුව පිහිටුම
+    .title = පිටුව පිහිටුවීම
 custom-prompt-title = අභිරුචි…
 custom-prompt-prompt = ඔබගේ අභිරුචි ශ්‍රීර්ෂකය/පාදතලය පෙළ යොදන්න
 basic-tab =
