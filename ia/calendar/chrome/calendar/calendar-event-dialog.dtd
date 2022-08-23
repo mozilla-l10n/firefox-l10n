@@ -232,7 +232,7 @@
 <!ENTITY event.attachments.popup.removeAll.accesskey      "T" >
 <!ENTITY event.attachments.popup.attachPage.label         "Annexar pagina web…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "g" >
-<!ENTITY event.url.label                                  "Ligamines correlate:" >
+<!ENTITY event.url.label                                  "Ligamine associate:" >
 <!ENTITY event.priority2.label                            "Prioritate:">
 
 <!ENTITY event.reminder.none.label                        "Nulle memento" >
@@ -402,7 +402,7 @@
 <!ENTITY read.only.attachments.label     "Annexos:">
 <!ENTITY read.only.attendees.label       "Participantes">
 <!ENTITY read.only.description.label     "Description">
-<!ENTITY read.only.link.label            "Ligamines correlate">
+<!ENTITY read.only.link.label            "Ligamine associate">
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Salvar e clauder">
