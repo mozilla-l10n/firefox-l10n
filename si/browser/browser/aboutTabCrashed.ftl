@@ -11,6 +11,7 @@ crashed-offer-help = අපට උදව් කළ හැකිය!
 crashed-single-offer-help-message = පිටුව යළි පූරණයට { crashed-restore-tab-button } තෝරන්න.
 crashed-multiple-offer-help-message = මෙම පිටු(ව) යළි පූරණය කිරිමට { crashed-restore-tab-button } හෝ { crashed-restore-all-button } තෝරන්න.
 crashed-request-help = ඔබ අපට උදව් කරනවාද?
+crashed-request-help-message = බිඳ වැටීම් වාර්තා ගැටළු හඳුනා ගැනීමට හා { -brand-short-name } දියුණු කිරීමට උපකාරී වේ.
 crashed-request-report-title = පටිත්ත වාර්තා කරන්න
 crashed-comment =
     .placeholder = විකල්ප අදහස් (අදහස් ප්‍රසිද්ධියේ දිස් වේ)

@@ -141,6 +141,7 @@ urlbar-tip-icon-description =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-onboard = ටිකක් ලියන්න, ගොඩක් සොයා ගන්න: ඔබගේ ලිපින තීරුවෙන් { $engineName } හි සොයන්න.
 urlbar-search-tips-redirect-2 = { $engineName } සහ පිරික්සුම් ඉතිහාසයෙන් යෝජනා බැලීමට ලිපින තීරුවෙහි සෙවීම අරඹන්න.
 
 ## Local search mode indicator labels in the urlbar
@@ -205,6 +206,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of search shortcuts in
+# the Urlbar and searchbar.
+search-one-offs-with-title = මෙවර, මෙය සමඟ සොයන්න:
 search-one-offs-change-settings-compact-button =
     .tooltiptext = සෙවීම් සැකසුම් සංශෝධනය
 search-one-offs-context-open-new-tab =
