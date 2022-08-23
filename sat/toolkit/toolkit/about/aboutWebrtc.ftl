@@ -24,9 +24,6 @@
 ## is an IETF protocol, and should not normally be translated.
 
 
-## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
@@ -34,8 +31,7 @@
 
 ##
 
-
-about-webrtc-save-page-label = साहटा सांचाव मे
+about-webrtc-save-page-label = ᱥᱟᱦᱴᱟ ᱥᱟᱸᱪᱟᱣ ᱢᱮ
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -45,7 +41,7 @@ about-webrtc-save-page-label = साहटा सांचाव मे
 ##  $now (Date) - The JavaScript timestamp at the time the report was generated.
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
-about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (बोन्दो आकाना) { $now }
+about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ᱵᱚᱱᱫᱚ ᱟᱠᱟᱱᱟ) { $now }
 
 ##
 
@@ -54,6 +50,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (बो�
 
 
 ##
+
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -69,10 +66,4 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (बो�
 
 
 ##
-
-##
-
-
-##
-
 

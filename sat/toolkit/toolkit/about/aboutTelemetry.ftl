@@ -2,34 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-telemetry-page-title = टेली मेटरी डाटा
-about-telemetry-histograms-section = हिस्टोग्राम
+about-telemetry-page-title = ᱴᱮᱞᱤ ᱢᱮᱴᱨᱤ ᱰᱟᱴᱟ
+about-telemetry-histograms-section = ᱦᱤᱥᱴᱚᱜᱨᱟᱢ
 about-telemetry-simple-measurements-section = ᱥᱟᱫᱷᱟᱨᱚᱬ ᱢᱟᱯ ᱠᱚ
-about-telemetry-slow-sql-section = SQL  ला़य उदुक् बा़य बा़य .
-about-telemetry-addon-details-section = एड-ऑन पुरा बिबरोन
-about-telemetry-late-writes-section = बिलोम ओल को
-about-telemetry-full-sql-warning = NOTE: बा़य बा़याक्  SQL डिवॉगिंग दो हुय होचो तेयाराक् काना. पुरा़  SQL स्ट्रिंग दो लातार रे उदुक् दाड़ेयाक् आ मेनखान उनकु टेलीनेटरी रे बाको जोमा दाड़ेयाक् आ .
+about-telemetry-slow-sql-section = SQL ᱞᱟᱹᱭ ᱩᱫᱩᱠ ᱵᱟᱹᱭ ᱵᱟᱹᱭ
+about-telemetry-addon-details-section = ᱮᱰ-ᱟᱹᱱ ᱯᱩᱨᱟ ᱵᱤᱵᱨᱚᱱ
+about-telemetry-late-writes-section = ᱵᱤᱞᱚᱢ ᱚᱞ ᱠᱚ
+about-telemetry-full-sql-warning = NOTE: ᱵᱟᱹᱭ ᱵᱟᱹᱭᱟᱜ SQL ᱰᱤᱣᱟᱸᱜᱤᱸᱜ ᱫᱚ ᱦᱩᱭ ᱦᱚᱪᱚ ᱛᱮᱭᱟᱨᱟᱜ ᱠᱟᱱᱟ᱾ ᱯᱩᱨᱟᱹ SQL ᱥᱴᱨᱤᱸᱜ ᱫᱚ ᱞᱟᱛᱟᱨ ᱨᱮ ᱩᱫᱩᱠ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱢᱮᱱᱠᱷᱟᱱ ᱩᱱᱠᱩ ᱴᱮᱞᱤᱱᱮᱴᱨᱤ ᱨᱮ ᱵᱟᱠᱚ ᱡᱚᱢᱟ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱾
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-page-subtitle = नोवा साहटा उदुक् सोदोर, हार्ड वेयार बेबोहार आर कुसियाक् तेयार को टेलीमेटरी दाराय ते तुमा़ल बाबोत ला़य सोदोर उदुगा. नोवा ला़य सोदोर दो  { $telemetryServerOwner } रे जोमाया  { -brand-full-name } लाहा राकाब गोड़ो ला़गित्.
+about-telemetry-page-subtitle = ᱱᱚᱣᱟ ᱥᱟᱦᱴᱟ ᱩᱫᱩᱠ ᱥᱚᱫᱚᱨ, ᱦᱟᱨᱰ ᱣᱮᱭᱟᱨ ᱵᱮᱵᱚᱦᱟᱨ ᱟᱨ ᱠᱩᱥᱤᱭᱟᱜ ᱛᱮᱭᱟᱨ ᱠᱚ ᱴᱮᱞᱤᱢᱮᱴᱨᱤ ᱫᱟᱨᱟᱭ ᱛᱮ ᱛᱩᱢᱟᱹᱞ ᱵᱟᱵᱚᱛ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱩᱫᱩᱜᱟ᱾ ᱱᱚᱣᱟ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱫᱚ { $telemetryServerOwner } ᱨᱮ ᱡᱚᱢᱟᱭᱟ { -brand-full-name } ᱞᱟᱦᱟ ᱨᱟᱠᱟᱵ ᱜᱚᱲᱚ ᱞᱟᱹᱜᱤᱫ᱾
 # button label to copy the histogram
-about-telemetry-histogram-copy = नोकोल मे
+about-telemetry-histogram-copy = ᱱᱚᱠᱚᱞ ᱢᱮ
 # these strings are used in the “Slow SQL Statements” section
-about-telemetry-slow-sql-main = मुल सुता़म रे बा़य बा़य ते SQL  ला़य उदुक् को .
-about-telemetry-slow-sql-other = मुल सुता़म रे बा़य बा़य ते SQL  ला़य उदुक् को .
-about-telemetry-slow-sql-hits = दाल को
-about-telemetry-slow-sql-average = सांजला. ओकतो (ms)
+about-telemetry-slow-sql-main = ᱢᱩᱞ ᱥᱩᱛᱟᱹᱢ ᱨᱮ ᱵᱟᱹᱭ ᱵᱟᱹᱭ ᱛᱮ SQL ᱞᱟᱹᱭ ᱩᱫᱩᱠ ᱠᱚ ᱾
+about-telemetry-slow-sql-other = ᱢᱩᱞ ᱥᱩᱛᱟᱹᱢ ᱨᱮ ᱵᱟᱹᱭ ᱵᱟᱹᱭ ᱛᱮ SQL ᱞᱟᱹᱭ ᱩᱫᱩᱠ ᱠᱚ ᱾
+about-telemetry-slow-sql-hits = ᱫᱟᱞ ᱠᱚ
+about-telemetry-slow-sql-average = ᱥᱟᱸᱡᱞᱟ᱾ ᱳᱠᱛᱚ (ms)
 about-telemetry-slow-sql-statement = ᱞᱟᱹᱭ ᱩᱫᱩᱜ
 # these strings are used in the “Add-on Details” section
-about-telemetry-addon-table-id = एड-ऑन ID
-about-telemetry-addon-table-details = भेदे भेद
+about-telemetry-addon-table-id = ᱮᱰ-ᱟᱹᱱ ID
+about-telemetry-addon-table-details = ᱵᱤᱵᱨᱚᱬ ᱠᱚ
 # Variables:
 #   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
-about-telemetry-addon-provider = { $addonProvider } एमोगिज
-about-telemetry-keys-header = गुन
+about-telemetry-addon-provider = { $addonProvider } ᱮᱢᱚᱜᱤᱡ
+about-telemetry-keys-header = ᱜᱩᱱ
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
-about-telemetry-late-writes-title = बिलोम ते ओल #{ $lateWriteCount }
-about-telemetry-stack-title = डांग:
-about-telemetry-memory-map-title = मेमोरी नोकसा:
-about-telemetry-error-fetching-symbols = मित् भुल ञामेना तिन रे चिनहा़ को सेन काते आ़गुयेत् आ. ञेल मे जे आम इनटारनेट रेम जोड़ावाकाना आर दोहड़ा कुरुमुटुय मे.
+about-telemetry-late-writes-title = ᱵᱤᱞᱚᱢ ᱛᱮ ᱚᱞ #{ $lateWriteCount }
+about-telemetry-stack-title = ᱰᱟᱸᱜ:
+about-telemetry-memory-map-title = ᱢᱮᱢᱚᱨᱤ ᱱᱚᱠᱥᱟ:
+about-telemetry-error-fetching-symbols = ᱢᱤᱫ ᱵᱷᱩᱞ ᱧᱟᱢᱮᱱᱟ ᱛᱤᱱ ᱨᱮ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱥᱮᱱ ᱠᱟᱛᱮ ᱟᱹᱜᱩᱭᱮᱫ ᱟ᱾ ᱧᱮᱞ ᱢᱮ ᱡᱮ ᱟᱢ ᱤᱱᱴᱟᱨᱱᱮᱴ ᱨᱮᱢ ᱡᱚᱲᱟᱣᱟᱠᱟᱱᱟ ᱟᱨ ᱫᱚᱦᱲᱟ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ᱾

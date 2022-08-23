@@ -5,7 +5,7 @@
 common-dialog-username =
     .value = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹᱜ ᱧᱩᱛᱩᱢ
 common-dialog-copy-cmd =
-    .label = नोकोल
+    .label = ᱱᱚᱠᱚᱞ
     .accesskey = C
 common-dialog-select-all-cmd =
     .label = ᱡᱚᱛᱚ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
