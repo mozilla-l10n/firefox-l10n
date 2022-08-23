@@ -1,17 +1,10 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
-# License, v- 2-0- If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla-org/MPL/2-0/-
-
-# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-delete-confirm-title = चेत् आम गोटा आकात् आ?
-
-id-heading = रिपोर्ट ID
-
-crashes-submitted-label = रा़पुद रिपोर्ट को जोमा येना
-date-submitted-heading = मा़हित् जोमा येना
-
-no-reports-label = जाहान रा़पुद रिपोर्ट बाय जोमा आकाना
-no-config-label = नोवा आ़रजी साकाम रा़पुद रिपोर्ट को उदुक् ला़गित् बाय तेयाराकाना. कुसियाक्  <दानाङ चिनहा़ं >रा़पुद पेड.रिपोर्टURL</दानाङ चिनहा़ं साजाव ला़कती.
+delete-confirm-title = ᱪᱮᱫ ᱟᱢ ᱜᱚᱴᱟ ᱟᱠᱟᱫ ᱟ?
+id-heading = ᱨᱤᱯᱚᱨᱴ ID
+crashes-submitted-label = ᱨᱟᱹᱯᱩᱫ ᱨᱤᱯᱚᱨᱴ ᱠᱚ ᱡᱚᱢᱟ ᱭᱮᱱᱟ
+date-submitted-heading = ᱢᱟᱹᱦᱤᱫ ᱡᱚᱢᱟ ᱭᱮᱱᱟ
+no-reports-label = ᱡᱟᱦᱟᱱ ᱨᱟᱹᱯᱩᱫ ᱨᱤᱯᱚᱨᱴ ᱵᱟᱭ ᱡᱚᱢᱟ ᱟᱠᱟᱱᱟ
+no-config-label = ᱱᱚᱣᱟ ᱟᱹᱨᱡᱤ ᱥᱟᱠᱟᱢ ᱨᱟᱹᱯᱩᱫ ᱨᱤᱯᱚᱨᱴ ᱠᱚ ᱩᱫᱩᱠ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱛᱮᱭᱟᱨᱟᱠᱟᱱᱟ᱾ ᱠᱩᱥᱤᱭᱟᱜ <code> ᱨᱟᱹᱯᱩᱫ ᱯᱮᱰ ᱾ reportURL</code> ᱥᱮᱴ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾
