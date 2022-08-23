@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+pictureinpicture-player-title = රූපයෙන් රූපයට
 pictureinpicture-pause =
     .aria-label = විරාමය
 pictureinpicture-play =
@@ -10,6 +11,10 @@ pictureinpicture-mute =
     .aria-label = නිහඬ
 pictureinpicture-unmute =
     .aria-label = නොනිහඬ
+pictureinpicture-unpip =
+    .aria-label = පටිත්තට ආපසු යවන්න
+pictureinpicture-close =
+    .aria-label = වසන්න
 
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
