@@ -21,8 +21,14 @@ pippki-pw-not-wanted = අවවාදයයි! මුරපදයක් භා
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = ප්‍රාථමික මුරපදය යළි සකසන්න
+    .style = width: 40em
 reset-password-button-label =
     .label = යළි සකසන්න
+reset-primary-password-text = ඔබගේ ප්‍රාථමික මුරපදය යළි සකසන්නේ නම්, ඔබ ගබඩා කර තිබෙන සියළුම වියමන හා වි-තැපැල් මුරපද මෙන්ම, පෞද්ගලික සහතික සහ යතුරු අමතක කෙරෙනු ඇත. ඔබගේ ප්‍රාථමික මුරපදය යළි සැකසීමට වුවමනා ද?
+pippki-reset-password-confirmation-title = ප්‍රාථමික මුරපදය යළි සකසන්න
+pippki-reset-password-confirmation-message = ඔබගේ ප්‍රාථමික මුරපදය යළි සකසා ඇත.
 
 ## Downloading cert dialog
 
