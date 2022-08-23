@@ -312,9 +312,9 @@ mr2022-onboarding-get-started-primary-button-label = Ei osod mewn eiliadau
 
 ## MR2022 Import Settings screen strings
 
-mr2022-onboarding-import-header = Gosodiad cyflym iawn
+mr2022-onboarding-import-header = Gosodiad chwim
 mr2022-onboarding-import-subtitle = Gosodwch { -brand-short-name } fel rydych chi'n ei hoffi. Ychwanegwch eich nodau tudalen, cyfrineiriau, a mwy o'ch hen borwr.
-mr2022-onboarding-import-primary-button-label-no-attribution = Mewnforio o'ch porwr blaenorol
+mr2022-onboarding-import-primary-button-label-no-attribution = Mewnforiwch o'ch porwr blaenorol
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
@@ -323,20 +323,20 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Mewnforio o'ch po
 
 mr2022-onboarding-colorway-title = Dewiswch y lliw sy'n eich ysbrydoli
 mr2022-onboarding-colorway-subtitle = Gall lleisiau annibynnol newid diwylliant.
-mr2022-onboarding-colorway-primary-button-label = Gosod llwybr lliw
+mr2022-onboarding-colorway-primary-button-label = Gosodwch lwybr lliw
 mr2022-onboarding-existing-colorway-checkbox-label = Gwnewch { -firefox-home-brand-name } yn gartref liwgar i chi
 mr2022-onboarding-colorway-label-default = Rhagosodiad
 mr2022-onboarding-colorway-tooltip-default =
     .title = Rhagosodiad
 mr2022-onboarding-colorway-description-default = <b>Defnyddio fy lliwiau { -brand-short-name } cyfredol.</b>
-mr2022-onboarding-colorway-label-playmaker = Chwaraewr
+mr2022-onboarding-colorway-label-playmaker = Arweinydd
 mr2022-onboarding-colorway-tooltip-playmaker =
-    .title = Chwaraewr
-mr2022-onboarding-colorway-description-playmaker = <b>Rydych chi'n Chwaraewr.</b> Rydych chi'n creu cyfleoedd i ennill a helpu pawb o'ch cwmpas i ddyrchafu eu gêm.
+    .title = Arweinydd
+mr2022-onboarding-colorway-description-playmaker = <b>Rydych chi'n Arweinydd.</b> Rydych chi'n creu cyfleoedd i ennill a helpu pawb o'ch cwmpas i ddyrchafu eu gêm.
 mr2022-onboarding-colorway-label-expressionist = Mynegiadwr
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = Mynegiadwr
-mr2022-onboarding-colorway-description-expressionist = <b>Ydych chi'n Fynegyddwr.</b> Rydych chi'n gweld y byd yn wahanol ac mae eich creadigaethau'n cyffroi emosiynau pobl eraill.
+mr2022-onboarding-colorway-description-expressionist = <b>Ydych chi'n Fynegiadwr.</b> Rydych chi'n gweld y byd yn wahanol ac mae eich creadigaethau'n cyffroi emosiynau pobl eraill.
 mr2022-onboarding-colorway-label-visionary = Gweledydd
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Gweledydd
@@ -352,7 +352,7 @@ mr2022-onboarding-colorway-description-dreamer = <b>Rydych chi'n Freuddwydiwr.</
 mr2022-onboarding-colorway-label-innovator = Arloesydd
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Arloesydd
-mr2022-onboarding-colorway-description-innovator = <b>Rydych chi'n Arloeswr.</b> Rydych chi'n gweld cyfleoedd ym mhobman ac yn cael effaith ar fywydau pawb o'ch cwmpas.
+mr2022-onboarding-colorway-description-innovator = <b>Rydych chi'n Arloesydd.</b> Rydych chi'n gweld cyfleoedd ym mhobman ac yn cael effaith ar fywydau pawb o'ch cwmpas.
 
 ## MR2022 Multistage Mobile Download screen strings
 
