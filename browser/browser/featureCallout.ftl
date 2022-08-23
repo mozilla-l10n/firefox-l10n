@@ -16,3 +16,5 @@ callout-firefox-view-tab-pickup-subtitle = Cipiwch dabiau agored yn gyflym o'ch 
 callout-firefox-view-recently-closed-title = Ewch yn ôl eich tabiau caeedig mewn chwinciad
 callout-firefox-view-recently-closed-subtitle = Bydd eich holl dabiau caeedig yn ymddangos yn hudol yma. Peidiwch byth â phoeni am gau gwefan ar ddamwain eto.
 callout-firefox-view-colorways-title = Ychwanegwch bach o liw
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Dewiswch yr arlliw sy'n siarad â chi gyda llwybrau lliw. Dim ond yn { -brand-product-name }.
