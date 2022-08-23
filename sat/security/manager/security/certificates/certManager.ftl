@@ -3,120 +3,86 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 certmgr-title =
-    .title = पोरमान साकाम बेबो़सतायिच् .
-
+    .title = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱵᱮᱵᱚᱥᱛᱟᱭᱤᱡ
 certmgr-tab-mine =
-    .label = आमाक् पोरमान साकाम.
-
+    .label = ᱟᱢᱟᱜ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ
 certmgr-tab-people =
-    .label = होड़
-
+    .label = ᱦᱚᱲ
 certmgr-tab-servers =
-    .label = सार्वार को
-
+    .label = ᱥᱟᱨᱣᱟᱨ ᱠᱚ
 certmgr-tab-ca =
-    .label = पोरमान एमोक् को
-
+    .label = ᱯᱚᱨᱢᱟᱱ ᱮᱢᱚᱜ ᱠᱚ
 certmgr-edit-ca-cert =
     .title = CA ᱯᱚᱨᱢᱟᱱ ᱯᱟᱹᱛᱤᱭᱟᱹᱣᱜ ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
     .style = width: 48em;
-
 certmgr-edit-cert-edit-trust = ᱯᱟᱥᱱᱟᱣ ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱟᱯᱲᱟᱣ ᱢᱮ :
-
 certmgr-edit-cert-trust-ssl =
-    .label = नोवा पोरमान साकाम वेबसाइट को उपरुमा.
-
+    .label = ᱱᱚᱣᱟ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱣᱮᱵᱥᱟᱤᱴ ᱠᱚ ᱩᱯᱨᱩᱢᱟ ᱾
 certmgr-edit-cert-trust-email =
-    .label = नोवा पोरमान साकाम मेल बेभार को उपरुम दाड़ेयाको वा.
-
+    .label = ᱱᱚᱣᱟ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱢᱮᱞ ᱵᱮᱵᱷᱟᱨ ᱠᱚ ᱩᱯᱨᱩᱢ ᱫᱟᱲᱮᱭᱟᱠᱚ ᱣᱟ ᱾
 certmgr-delete-cert =
     .title = पोरमान साकाम मेटाव
     .style = width: 48em; height: 24em;
-
 certmgr-cert-name =
     .label = पोरमान साकाम ञुतुम
-
 certmgr-cert-server =
     .label = सार्वार  को
-
 certmgr-override-lifetime =
     .label = ᱡᱟᱭᱡᱩᱜ
-
 certmgr-token-name =
     .label = जा़पती साधोन
-
 certmgr-begins-label =
     .label = रे एहोब
-
 certmgr-expires-label =
     .label = रे ओकोतो चाबा आ.
-
 certmgr-email =
     .label = ई-मेल ठिका़न
-
 certmgr-serial =
     .label = तिरया़व लेखा
-
 certmgr-view =
     .label = ञेनेल…
     .accesskey = V
-
 certmgr-edit =
     .label = ᱯᱟᱹᱛᱤᱭᱟᱹᱣᱜ ᱥᱟᱯᱲᱟᱣ ᱢᱮ…
     .accesskey = E
-
 certmgr-export =
     .label = बाहरे कुल मे…
     .accesskey = x
-
 certmgr-delete =
     .label = मेटाव मे…
     .accesskey = D
-
 certmgr-delete-builtin =
     .label = आर बाङ आलोम पा़तया़वाक् आ…
     .accesskey = D
-
 certmgr-backup =
     .label = ᱱᱚᱠᱚᱞ ᱡᱚᱜᱟᱣ…
     .accesskey = B
-
 certmgr-backup-all =
     .label = जोतो नोकोल जोगाव
     .accesskey = k
-
 certmgr-restore =
     .label = आ़गू...
     .accesskey = m
-
 certmgr-add-exception =
     .label = बादाक् को सेलेद…
     .accesskey = x
-
 exception-mgr =
     .title = जा़पती बादाक सेलेद
-
 exception-mgr-extra-button =
     .label = जा़पती बादाक् गोटाय मे
     .accesskey = C
-
 exception-mgr-supplemental-warning = आ़न लेकातेनाक् बैंक, जोगाव को, आर एटाक् होड़ साइट को नोवा का़मी ला़गित् बाय कुली मेया.
-
 exception-mgr-cert-location-url =
     .value = जायगा ठांव:
-
 exception-mgr-cert-location-download =
     .label = पोरमान साकाम ञाम मे
     .accesskey = G
-
 exception-mgr-cert-status-view-cert =
     .label = ञेनेल…
     .accesskey = V
-
 exception-mgr-permanent =
     .label = नोवा बादाक् जाव ला़गित् जोगावाकाना
     .accesskey = P
-
 pk11-bad-password = दानाङ साबाद आदेर बाङठिक आदेर होचो लेना.
 pkcs12-decode-err = रेत् दानाङ चिनहा़ बाङ ओचोक् दाड़ेयाक् आ. बाङ मा PKCS #12 तेयार रे ताहें काना, रा़पुद ताहें काना, आर बाङ आमेम आदेर होचो लेत् दानाङ साबाद बाङठिक ताहें काना.
 pkcs12-unknown-err-restore = PKCS #12 बाङ बाडाय कारोन ला़गित् ते दोहड़ा जोगाव डिगा़वेना.
@@ -149,19 +115,14 @@ delete-user-cert-title =
     .title = आमाक पोरमान साकाम मेटाव में.
 delete-user-cert-confirm = चेत् आम नोवा पोरमान साकाम मेटाव गोटा आकात् आम ?
 delete-user-cert-impact = जुदी आम निजेरा मित् पोरमान साकाम एम मेटावा, आम आर नोवा आमाक् उपरुम ला़गित् बाम बेभार दाड़ेयाक् आ.
-
-
 delete-ca-cert-title =
     .title = CA पोरमान साकाम को मेटाव आर बाङ बाङ पा़तया़वाक्
 delete-ca-cert-confirm = आम नोवा CA पोरमान साकाम को मेटाव ला़गित् एम नेहोराकाना. तेयार रे पोरमान साकाम ला़गित् जोतो पा़तया़व ओचोक् काक् आ, ओकारे मित् सोमान पोरभाव पाड़ाक् आ. चेत् आम गोटा आकात् आ आम मेताट आर बाङ बाङ पा़तया़व सानाम काना?
 delete-ca-cert-impact = जुदी आम पोरमान साकाम एमोगिच्  (CA) पोरमान साकाम मेटाव आर बाङ बाङ पा़तया़वा, नोवा पोरमान साकाम ओना CA दाराय ते एमाकान  जांहा पोरमान साकाम गे आर बाय पा़तया़वाक् आ.
-
-
 delete-email-cert-title =
     .title = इ-मेल पोरमान साकाम  मेटाव में
 delete-email-cert-confirm = चेत् आम गोटा आकात् आ नुकू होड़ कोवाक् पोरमान साकाम मेटाव सानाम काना?
 delete-email-cert-impact = जुदी आम  होड़ कोवाक् इ-मेल पोरमान साकाम मेटावा ,आम उनकु ला़गित् दानाङ इ-मेल भेजा आर बाम दाड़ेयाक् आ.
-
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (ᱵᱟᱹᱱᱩᱜᱼᱟ)
 
