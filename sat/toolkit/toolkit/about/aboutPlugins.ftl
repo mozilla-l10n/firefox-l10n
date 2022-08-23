@@ -2,10 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-title-label = खोंजा आदेर  को बाबोत ते
-
-installed-plugins-label = खोंजा आदेर बोहाल एना
-no-plugins-are-installed-label = जाहान बोहाल खोंजा आदेर बाय ञाम लेना .
+title-label = ᱠᱷᱚᱸᱡᱟ ᱟᱫᱮᱨ ᱠᱚ ᱵᱟᱵᱚᱛ ᱛᱮ
+installed-plugins-label = ᱠᱷᱚᱸᱡᱟ ᱟᱫᱮᱨ ᱵᱚᱦᱟᱞ ᱮᱱᱟ
+no-plugins-are-installed-label = ᱡᱟᱦᱟᱱ ᱵᱚᱦᱟᱞ ᱠᱷᱚᱸᱡᱟ ᱟᱫᱮᱨ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱱᱟ ᱾
 
 ## The information of plugins
 ##
@@ -14,25 +13,23 @@ no-plugins-are-installed-label = जाहान बोहाल खोंजा
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
-file-dd = <span data-l10n-name="file">रेत्:</span> { $pluginLibraries }
-path-dd = <span data-l10n-name="path">होर:</span> { $pluginFullPath }
-version-dd = <span data-l10n-name="version">बार्सान:</span> { $version }
+file-dd = <span data-l10n-name="file">ᱨᱮᱫ :</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">ᱦᱚᱨ :</span> { $pluginFullPath }
+version-dd = <span data-l10n-name="version">ᱦᱟᱹᱞᱤᱭᱟᱠ :</span> { $version }
 
 ## These strings describe the state of plugins
 ##
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
-state-dd-enabled = <span data-l10n-name="state">राज्य:</span> हुय होचोवाक्
-state-dd-enabled-block-list-state = <span data-l10n-name="state">राज्य:</span> हुय होचोवाक् ({ $blockListState })
-state-dd-Disabled = <span data-l10n-name="state">राज्य:</span> बाङ हुय होचो
-state-dd-Disabled-block-list-state = <span data-l10n-name="state">राज्य:</span> बाङ हुय होचो ({ $blockListState })
-
+state-dd-enabled = <span data-l10n-name="state">ᱯᱚᱱᱚᱛ :</span> ᱮᱢ ᱦᱚᱪᱚᱮᱱᱟ
+state-dd-enabled-block-list-state = <span data-l10n-name="state">ᱯᱚᱱᱚᱛ :</span> ({ $blockListState }) ᱮᱢ ᱪᱷᱚ ᱮᱱᱟ
+state-dd-Disabled = <span data-l10n-name="state">ᱯᱚᱱᱚᱛ :</span> ᱵᱚᱸᱫ ᱮᱱᱟ
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">ᱯᱚᱱᱚᱛ :</span> ({ $blockListState }) ᱵᱚᱸᱫ ᱪᱷᱚ ᱮᱱᱟ
 mime-type-label = MIME ᱞᱮᱠᱟᱱ:
-description-label = विबरोन
-suffixes-label = साबाद तायोम सेलेद आखोर को.
+description-label = ᱵᱤᱵᱨᱚᱬ
+suffixes-label = ᱥᱟᱵᱟᱫ ᱛᱟᱭᱚᱢ ᱥᱮᱞᱮᱫ ᱟᱠᱷᱚᱨ ᱠᱚ᱾
 
 ## Gecko Media Plugins (GMPs)
 
-plugins-openh264-name = सिसको सेस्टेम ,इंक दारय ते एमाकान H264 बिडियो कोडेक झिज मे .
-
+plugins-openh264-name = ᱥᱤᱥᱠᱚ ᱥᱮᱥᱴᱮᱢ ,ᱤᱸᱠ ᱫᱟᱨᱭ ᱛᱮ ᱮᱢᱟᱠᱟᱱ H264 ᱵᱤᱰᱤᱭᱚ ᱠᱚᱰᱮᱠ ᱡᱷᱤᱡ ᱢᱮ ᱾
