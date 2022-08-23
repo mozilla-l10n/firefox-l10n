@@ -22,12 +22,30 @@ return-to-amo-add-theme-label = තේමාව එක් කරන්න
 
 ## Multistage onboarding strings (about:welcome pages)
 
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = පටන් ගැනීම: { $total } න් { $current } වන තිරය
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+onboarding-welcome-steps-indicator2 =
+    .aria-valuetext = ප්‍රගතිය: { $total } න් { $current } වන පියවර
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text =
+    ගින්න ඇරඹෙන්නේ
+    මෙතැනින්
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
@@ -95,6 +113,8 @@ mr1-onboarding-theme-secondary-button-label = දැන් නොවේ
 mr1-onboarding-theme-label-system = පද්ධතියේ තේමාව
 mr1-onboarding-theme-label-light = දීප්ත
 mr1-onboarding-theme-label-dark = අඳුරු
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = ඇල්පෙන්ග්ලෝ
 onboarding-theme-primary-button-label = අහවරයි
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -142,6 +162,23 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         බොත්තම්, වට්ටෝරු හා කවුළු සඳහා
         අහඹු, වර්ණවත් තේමාවක් යොදා ගන්න.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = මෙම වර්ණ පරාසය යොදාගන්න.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = මෙම වර්ණ පරාසය යොදාගන්න.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = { $colorwayName } වර්ණ පරාස ගවේශණය.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = { $colorwayName } වර්ණ පරාස ගවේශණය.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = පෙරනිමි තේමා ගවේශණය.
@@ -171,9 +208,12 @@ mr2-onboarding-start-browsing-button-label = පිරික්සුම අර�
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = ඔබගේ භාෂාව තෝරන්න
+mr2022-onboarding-live-language-text = { -brand-short-name } ඔබගේ භාෂාව කතා කරයි
 onboarding-live-language-button-label-downloading = { $negotiatedLanguage } සඳහා භාෂා ඇසුරුම බාගැනෙමින්…
 onboarding-live-language-waiting-button = තිබෙන භාෂා ගැනෙමින්...
 onboarding-live-language-installing = { $negotiatedLanguage } සඳහා භාෂා ඇසුරුම ස්ථාපනය වෙමින්…
+mr2022-onboarding-live-language-switch-to = { $negotiatedLanguage } වෙත මාරු වන්න
+mr2022-onboarding-live-language-continue-in = { $appLanguage } න් ඉදිරියට
 onboarding-live-language-secondary-cancel-download = අවලංගු
 onboarding-live-language-skip-button-label = මඟහරින්න
 
@@ -195,6 +235,8 @@ fx100-thank-you-pin-primary-button-label =
         [macos] { -brand-short-name } තැටියෙහි තබන්න
        *[other] කාර්ය තීරුවට { -brand-short-name } අමුණන්න
     }
+fx100-upgrade-thanks-header = 100 ස්තූතියි
+mr2022-onboarding-secondary-skip-button-label = පියවර මඟ හරින්න
 
 ## MR2022 New User Pin Firefox screen strings
 
@@ -231,6 +273,9 @@ mr2022-onboarding-import-primary-button-label-no-attribution = කලින් �
 ## help creating a more inclusive translation.
 
 mr2022-onboarding-colorway-primary-button-label = වර්ණ පරාසය සකසන්න
+mr2022-onboarding-colorway-label-default = පෙරනිමි
+mr2022-onboarding-colorway-tooltip-default =
+    .title = පෙරනිමි
 
 ## MR2022 Multistage Mobile Download screen strings
 
@@ -247,6 +292,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } නිර්දේශ
+mr2022-onboarding-privacy-segmentation-secondary-button-label = විස්තරාත්මක තොරතුරු
 
 ## MR2022 Multistage Gratitude screen strings
 
