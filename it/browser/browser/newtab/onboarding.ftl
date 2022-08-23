@@ -15,7 +15,7 @@
 
 ## Welcome page strings
 
-onboarding-welcome-header = Benvenuto in { -brand-short-name }
+onboarding-welcome-header = Benvenuti in { -brand-short-name }
 onboarding-start-browsing-button-label = Inizia a navigare
 onboarding-not-now-button-label = Non adesso
 
@@ -82,7 +82,7 @@ mr1-onboarding-pin-primary-button-label =
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Inizia
 
-mr1-onboarding-welcome-header = Benvenuto in { -brand-short-name }
+mr1-onboarding-welcome-header = Benvenuti in { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Imposta { -brand-short-name } come browser principale
     .title = Imposta { -brand-short-name } come browser predefinito e lo aggiunge alla barra delle applicazioni
 
@@ -411,7 +411,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label = { PLATFORM()
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Passa dal computer al telefono, e viceversa
-mr2022-onboarding-mobile-download-subtitle = Accedi alle schede di un altro dispositivo e riprendi esattamente da dove avevi interrotto. Inoltre, sincronizza i tuoi segnalibri e le tue password ovunque utilizzi { -brand-product-name }.
+mr2022-onboarding-mobile-download-subtitle = Recupera le schede da un altro dispositivo e riprendi esattamente da dove avevi interrotto. Inoltre, sincronizza i tuoi segnalibri e le tue password ovunque utilizzi { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Scansiona il codice QR per ottenere { -brand-product-name } per dispositivi mobili oppure <a data-l10n-name="download-label">inviati un link per il download.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Scansiona il codice QR per ottenere { -brand-product-name } per dispositivi mobili.
 
