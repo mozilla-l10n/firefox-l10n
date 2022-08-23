@@ -489,7 +489,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Ffenestri a Thabiau Newydd
-home-new-windows-tabs-description2 = Dewis beth fyddwch yn ei weld wrth i chi agor eich tudalen cartref, ffenestri newydd a thabiau newydd.
+home-new-windows-tabs-description2 = Dewiswch beth fyddwch yn ei weld wrth i chi agor eich tudalen cartref, ffenestri newydd a thabiau newydd.
 
 ## Home Section - Home Page Customization
 
@@ -596,7 +596,7 @@ search-separate-default-engine =
     .label = Defnyddio'r peiriant chwilio hwn mewn Ffenestri Preifat
     .accesskey = D
 search-suggestions-header = Awgrymiadau Chwilio
-search-suggestions-desc = Dewis sut mae awgrymiadau gan beiriannau chwilio yn ymddangos.
+search-suggestions-desc = Dewiswch sut fydd awgrymiadau gan beiriannau chwilio yn ymddangos.
 search-suggestions-option =
     .label = Darparu awgrymiadau chwilio
     .accesskey = c
@@ -615,7 +615,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic2 = Newid dewisiadau awgrymiadau eraill y bar cyfeiriad
 search-suggestions-cant-show = Ni fydd awgrymiadau chwilio'n cael eu dangos yn y bar lleoliad gan eich bod wedi ffurfweddu { -brand-short-name } i byth cofio hanes.
 search-one-click-header2 = Chwilio'r Llwybrau Byr
-search-one-click-desc = Dewis peiriant chwilio arall sy'n ymddangos o dan y bar cyfeiriad a'r bar chwilio pan fyddwch yn cychwyn allweddair.
+search-one-click-desc = Dewiswch beiriant chwilio arall sy'n ymddangos o dan y bar cyfeiriad a'r bar chwilio pan fyddwch yn cychwyn allweddair.
 search-choose-engine-column =
     .label = Peiriannau Chwilio
 search-choose-keyword-column =
