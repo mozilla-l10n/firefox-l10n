@@ -68,6 +68,7 @@
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara2 "&brandShortName; ආරක්‍ෂණ තර්ජනයක් හඳුනාගත් බැවින් <span class='hostname'/> වෙත නොයන ලදි. මෙම අඩවියට ඔබ ගොඩවදින්නේ නම්, ප්‍රහාරකයින්ට ඔබගේ මුරපද, වි-තැපැල්, හෝ ණයපත් විස්තර වැනි තොරතුරු සොරකම් කිරීමට හැකිය.">
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "ඔබට ඒ ගැන කුමක් කළ හැකිද?">
