@@ -114,15 +114,15 @@ edit-trust-ca = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ”{ $certName }” ᱢᱤᱫ
 delete-user-cert-title =
     .title = ᱟᱢᱟᱜ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱢᱮᱴᱟᱣ ᱢᱮ ᱾
 delete-user-cert-confirm = ᱪᱮᱫ ᱟᱢ ᱱᱚᱣᱟ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱢᱮᱴᱟᱣ ᱜᱚᱴᱟ ᱟᱠᱟᱫ ᱟᱢ ?
-delete-user-cert-impact = जुदी आम निजेरा मित् पोरमान साकाम एम मेटावा, आम आर नोवा आमाक् उपरुम ला़गित् बाम बेभार दाड़ेयाक् आ.
+delete-user-cert-impact = ᱡᱩᱫᱤ ᱟᱢ ᱱᱤᱡᱮᱨᱟ ᱢᱤᱫ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱮᱢ ᱢᱮᱴᱟᱣᱟ, ᱟᱢ ᱟᱨ ᱱᱚᱣᱟ ᱟᱢᱟᱜ ᱩᱯᱨᱩᱢ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱢ ᱵᱮᱵᱷᱟᱨ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱾
 delete-ca-cert-title =
-    .title = CA पोरमान साकाम को मेटाव आर बाङ बाङ पा़तया़वाक्
-delete-ca-cert-confirm = आम नोवा CA पोरमान साकाम को मेटाव ला़गित् एम नेहोराकाना. तेयार रे पोरमान साकाम ला़गित् जोतो पा़तया़व ओचोक् काक् आ, ओकारे मित् सोमान पोरभाव पाड़ाक् आ. चेत् आम गोटा आकात् आ आम मेताट आर बाङ बाङ पा़तया़व सानाम काना?
-delete-ca-cert-impact = जुदी आम पोरमान साकाम एमोगिच्  (CA) पोरमान साकाम मेटाव आर बाङ बाङ पा़तया़वा, नोवा पोरमान साकाम ओना CA दाराय ते एमाकान  जांहा पोरमान साकाम गे आर बाय पा़तया़वाक् आ.
+    .title = CA ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱠᱚ ᱢᱮᱴᱟᱣ ᱟᱨ ᱵᱟᱝ ᱵᱟᱝ ᱯᱟᱹᱛᱭᱟᱹᱣᱟᱜ
+delete-ca-cert-confirm = ᱟᱢ ᱱᱚᱣᱟ CA ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱠᱚ ᱢᱮᱴᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱮᱢ ᱱᱮᱦᱚᱨᱟᱠᱟᱱᱟ᱾ ᱛᱮᱭᱟᱨ ᱨᱮ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱡᱚᱛᱚ ᱯᱟᱹᱛᱭᱟᱹᱣ ᱚᱪᱚᱜ ᱠᱟᱜ ᱟ, ᱳᱠᱟᱨᱮ ᱢᱤᱫ ᱥᱚᱢᱟᱱ ᱯᱚᱨᱵᱷᱟᱣ ᱯᱟᱲᱟᱜ ᱟ᱾ ᱪᱮᱫ ᱟᱢ ᱜᱚᱴᱟ ᱟᱠᱟᱫ ᱟ ᱟᱢ ᱢᱮᱛᱟᱴ ᱟᱨ ᱵᱟᱝ ᱵᱟᱝ ᱯᱟᱹᱛᱭᱟᱹᱣ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ?
+delete-ca-cert-impact = ᱡᱩᱫᱤ ᱟᱢ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱮᱢᱚᱜᱤᱡ (CA) ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱢᱮᱴᱟᱣ ᱟᱨ ᱵᱟᱝ ᱵᱟᱝ ᱯᱟᱹᱛᱭᱟᱹᱣᱟ, ᱱᱚᱣᱟ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱳᱱᱟ CA ᱫᱟᱨᱟᱭ ᱛᱮ ᱮᱢᱟᱠᱟᱱ ᱡᱟᱸᱦᱟ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱜᱮ ᱟᱨ ᱵᱟᱭ ᱯᱟᱹᱛᱭᱟᱹᱣᱟᱜ ᱟ ᱾
 delete-email-cert-title =
-    .title = इ-मेल पोरमान साकाम  मेटाव में
-delete-email-cert-confirm = चेत् आम गोटा आकात् आ नुकू होड़ कोवाक् पोरमान साकाम मेटाव सानाम काना?
-delete-email-cert-impact = जुदी आम  होड़ कोवाक् इ-मेल पोरमान साकाम मेटावा ,आम उनकु ला़गित् दानाङ इ-मेल भेजा आर बाम दाड़ेयाक् आ.
+    .title = ᱤ-ᱢᱮᱞ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱢᱮᱴᱟᱣ ᱢᱮ
+delete-email-cert-confirm = ᱤ-ᱢᱮᱞ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱢᱮᱴᱟᱣ ᱢᱮ
+delete-email-cert-impact = ᱡᱩᱫᱤ ᱟᱢ ᱦᱚᱲ ᱠᱚᱣᱟᱜ ᱤ-ᱢᱮᱞ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱢᱮᱴᱟᱣᱟ ,ᱟᱢ ᱩᱱᱠᱩ ᱞᱟᱹᱜᱤᱫ ᱫᱟᱱᱟᱝ ᱤ-ᱢᱮᱞ ᱵᱷᱮᱡᱟ ᱟᱨ ᱵᱟᱢ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱾
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (ᱵᱟᱹᱱᱩᱜᱼᱟ)
 
@@ -131,22 +131,22 @@ certificate-not-available = (ᱵᱟᱹᱱᱩᱜᱼᱟ)
 
 ## Add Security Exception dialog
 
-add-exception-branded-warning = आम राकाब तालोमोक् ला़गित् चेत् लेका { -brand-short-name } नोवा साइट एम उपरुमा .
-add-exception-invalid-header = नोवा साइट बाङ बाताव ला़य सोदोर सांव आच् ते उपरुम ला़गित् कुरुमुटु येत् आ.
-add-exception-domain-mismatch-short = बाङठिक साइट
-add-exception-expired-short = पा़हिल ओकतो वाक् ला़य सोदोर
-add-exception-unverified-or-bad-signature-short = बाङ बाड़ाय उपरुम
-add-exception-unverified-or-bad-signature-long = पोरमान साकाम बाङ पा़तया़वाक् काना, चेदाक् जे नोवा जा़पती सुही बेभाराते चिनहा़व एमोगिच् दाराय ते बाय ञेल मिला़व होचो आकाना.
-add-exception-valid-short = बातावाक् पोरमान साकाम
-add-exception-valid-long = नोवा साइट बातावाक् , ञेल मिला़वाक् उपरुम एम आकात् आ. मित् बादाक् सेलेद बाङ लाकतिया.
-add-exception-checking-short = ला़य सोदोराक् सुही ञेलेत् आ
-add-exception-no-cert-short = जाहान ला़य सोदोर बाय ञामोक् आ
+add-exception-branded-warning = ᱟᱢ ᱨᱟᱠᱟᱵ ᱛᱟᱞᱚᱢᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱞᱮᱠᱟ { -brand-short-name } ᱱᱚᱣᱟ ᱥᱟᱤᱴ ᱮᱢ ᱩᱯᱨᱩᱢᱟ ᱾
+add-exception-invalid-header = ᱱᱚᱣᱟ ᱥᱟᱤᱴ ᱵᱟᱝ ᱵᱟᱛᱟᱣ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱥᱟᱸᱣ ᱟᱡ ᱛᱮ ᱩᱯᱨᱩᱢ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱨᱩᱢᱩᱴᱩ ᱭᱮᱫ ᱟ᱾
+add-exception-domain-mismatch-short = ᱵᱟᱝᱴᱷᱤᱠ ᱥᱟᱤᱴ
+add-exception-expired-short = ᱯᱟᱹᱦᱤᱞ ᱚᱠᱛᱚ ᱣᱟᱜ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
+add-exception-unverified-or-bad-signature-short = ᱵᱟᱝ ᱵᱟᱲᱟᱭ ᱩᱯᱨᱩᱢ
+add-exception-unverified-or-bad-signature-long = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱵᱟᱝ ᱯᱟᱹᱛᱭᱟᱹᱣᱟᱜ ᱠᱟᱱᱟ, ᱪᱮᱫᱟᱜ ᱡᱮ ᱱᱚᱣᱟ ᱡᱟᱹᱯᱛᱤ ᱥᱩᱦᱤ ᱵᱮᱵᱷᱟᱨᱟᱛᱮ ᱪᱤᱱᱦᱟᱹᱣ ᱮᱢᱚᱜᱤᱡ ᱫᱟᱨᱟᱭ ᱛᱮ ᱵᱟᱭ ᱧᱮᱞ ᱢᱤᱞᱟᱹᱣ ᱦᱚᱪᱚ ᱟᱠᱟᱱᱟ ᱾
+add-exception-valid-short = ᱵᱟᱛᱟᱣᱟᱜ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ
+add-exception-valid-long = ᱱᱚᱣᱟ ᱥᱟᱤᱴ ᱵᱟᱛᱟᱣᱟᱜ , ᱧᱮᱞ ᱢᱤᱞᱟᱹᱣᱟᱜ ᱩᱯᱨᱩᱢ ᱮᱢ ᱟᱠᱟᱫ ᱟ᱾ ᱢᱤᱫ ᱵᱟᱫᱟᱜ ᱥᱮᱞᱮᱫ ᱵᱟᱝ ᱞᱟᱠᱛᱤᱭᱟ ᱾
+add-exception-checking-short = ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨᱟᱜ ᱥᱩᱦᱤ ᱧᱮᱞᱮᱫ ᱟ
+add-exception-no-cert-short = ᱡᱟᱦᱟᱱ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱵᱟᱭ ᱧᱟᱢᱚᱜ ᱟ
 
 ## Certificate export "Save as" and error dialogs
 
-save-cert-as = रेत् रे पोरमान साकाम सांचाव
-cert-format-base64 = X.509पोरमान साकाम (PEM)
-cert-format-base64-chain = X.509 सिकड़ी सांव पोरमान साकाम (PEM)
+save-cert-as = ᱨᱮᱫ ᱨᱮ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱥᱟᱸᱪᱟᱣ
+cert-format-base64 = X.509 ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ (PEM)
+cert-format-base64-chain = X.509 ᱥᱤᱠᱲᱤ ᱥᱟᱸᱣ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ (PEM)
 cert-format-der = X.509 पोरमान साकाम (DER)
 cert-format-pkcs7 = X.509पोरमान साकाम (PKCS#7)
 cert-format-pkcs7-chain = X.509 सिकड़ी सांव पोरमान साकाम (PKCS#7)
