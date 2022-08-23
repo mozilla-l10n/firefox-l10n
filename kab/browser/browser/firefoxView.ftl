@@ -41,6 +41,7 @@ firefoxview-tabpickup-sync-error-header = Nettmagar-d uguren n umtawi
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } mazal ur issaweḍ ara ɣer umeẓlu n umtawi. Ɛreḍ tikkelt-nniḍen deg kra n tesdatin.
 firefoxview-tabpickup-sync-error-primarybutton = Ɛreḍ tikkelt-nniḍen
 firefoxview-tabpickup-sync-disconnected-header = Rmed amtawi i wakken ad tkemmleḍ
+firefoxview-tabpickup-sync-disconnected-description = I ulqaḍ n waccaren-ik·im, tesriḍ ad tsirgeḍ amtawi deg { -brand-short-name }
 firefoxview-tabpickup-sync-disconnected-primarybutton = Rmed amtawi deg yiɣewwaren
 firefoxview-tabpickup-syncing = Seqɛed tiɣimit mi ara tessemtawayeḍ accaren-ik·im. Ur yettɛeṭṭil ara.
 firefoxview-mobile-promo-header = Awi-d accaren seg tiliɣri-inek·inem neɣ seg tfelwit n uselken
