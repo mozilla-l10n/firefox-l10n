@@ -163,7 +163,7 @@ about-debugging-runtime-service-workers-not-compatible = ඔබගේ අති�
 # "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-browser-version-too-old = සම්බන්ධිත අතිරික්සුව පරණ අනුවාදයකි ({ $runtimeVersion }). සහාය දක්වන අවම අනුවාදය ({ $minVersion }) වේ. මෙය සහාය නොදක්වන පිහිටුවීමක් වන අතර DevTools ගැටළු වලට හේතු විය හැකිය. සම්බන්ධිත අතිරික්සුව යාවත්කාල කරන්න. <a>දෝෂ සෙවීම</a>
+about-debugging-browser-version-too-old = සම්බන්ධිත අතිරික්සුව පරණ අනුවාදයකි ({ $runtimeVersion }). සහාය දක්වන අවම අනුවාදය ({ $minVersion }) වේ. මෙය සහාය නොදක්වන පිහිටුවීමක් වන අතර සංවර්ධන මෙවලම් ගැටළු වලට හේතු විය හැකිය. සම්බන්ධිත අතිරික්සුව යාවත්කාල කරන්න. <a>දෝෂ සෙවීම</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
