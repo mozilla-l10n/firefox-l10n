@@ -69,6 +69,7 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName; ආරක්‍ෂණ තර්ජනයක් හඳුනාගත් බැවින් <span class='hostname'/> වෙත නොයන ලදි. මෙම අඩවියට ඔබ ගොඩවදින්නේ නම්, ප්‍රහාරකයින්ට ඔබගේ මුරපද, වි-තැපැල්, හෝ ණයපත් විස්තර වැනි තොරතුරු සොරකම් කිරීමට හැකිය.">
+<!ENTITY certerror.sts.introPara "&brandShortName; ආරක්‍ෂණ තර්ජනයක් හඳුනාගෙන ඇත. මෙම අඩවියට ආරක්‍ෂිත සම්බන්ධතාවයක් අවශ්‍ය නිසා <span class='hostname'/> වෙත ගියේ නැත.">
 
 <!ENTITY certerror.expiredCert.secondPara2 "&brandShortName; ආරක්‍ෂිතව සම්බන්ධ වීම වළක්වන්නේ පෙනෙන හැටියට අඩවියෙහි සහතිකය කල් ඉකුත් වී තිබෙන නිසා විය හැකිය. මෙම අඩවියට ඔබ ගොඩවදින්නේ නම්, ප්‍රහාරකයින්ට ඔබගේ මුරපද, වි-තැපැල්, හෝ ණයපත් විස්තර වැනි තොරතුරු සොරකම් කිරීමට හැකිය.">
 
@@ -90,6 +91,7 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "වැඩිදුර තොරතුරු: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY certerror.pagetitle2  "අවවාදයයි: ආරක්‍ෂණ අවදානමක් ඉදිරියෙන්">
 <!ENTITY certerror.sts.pagetitle  "සම්බන්ධ නොවිණි: ආරක්‍ෂණ ගැටළුවක් විය හැකිය">
 <!ENTITY certerror.copyToClipboard.label "පෙළ පිටපතක් පසුරු පුවරුවට">
 
