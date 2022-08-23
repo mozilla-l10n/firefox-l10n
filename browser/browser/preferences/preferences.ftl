@@ -682,6 +682,10 @@ forms-master-pw-change =
 forms-primary-pw-change =
     .label = ප්‍රාථමික මුරපදය සංශෝධනය...
     .accesskey = P
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = කලින් හැඳින්වූයේ ප්‍රධාන මුරපදය ලෙසය
 forms-primary-pw-fips-title = ඔබ දැනට FIPS ප්‍රකාරයේ සිටියි. FIPS සඳහා හිස් නොවන ප්‍රාථමික මුරපදයක් අවශ්‍යයි.
 forms-master-pw-fips-desc = මුරපදය වෙනස් කිරීමට අසමත් විය
 forms-windows-sso =

@@ -63,6 +63,7 @@ mr1-onboarding-sign-in-button-label = පිවිසෙන්න
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = { -brand-short-name } පෙරනිමි ලෙස සකසන්න
+mr1-onboarding-default-subtitle = වේගය, ආරක්‍ෂාව හා පෞද්ගලිකත්වය ස්වයංක්‍රීයව.
 mr1-onboarding-default-primary-button-label = පෙරනිමි අතිරික්සුව කරන්න
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
@@ -75,6 +76,7 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous } වෙත
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = කලින් අතිරික්සුවෙන් ආයාත කරන්න
 mr1-onboarding-import-secondary-button-label = දැන් නොවේ
+mr2-onboarding-colorway-primary-button-label = වර්ණ පරාසය සුරකින්න
 mr2-onboarding-colorway-secondary-button-label = දැන් නොවේ
 mr2-onboarding-colorway-label-soft = මෘදු
 mr2-onboarding-colorway-label-balanced = සංතුලිත
@@ -193,6 +195,55 @@ fx100-thank-you-pin-primary-button-label =
        *[other] කාර්ය තීරුවට { -brand-short-name } අමුණන්න
     }
 
+## MR2022 New User Pin Firefox screen strings
+
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] තැටියෙහි { -brand-short-name } තබාගන්න
+       *[other] කාර්ය තීරුවට { -brand-short-name } අමුණන්න
+    }
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+
+## MR2022 New User Set Default screen strings
+
+mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } පෙරනිමි අතිරික්සුව කරන්න
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+mr2022-onboarding-get-started-primary-button-label = තත්පර කිහිපයකින් සකසන්න
+
+## MR2022 Import Settings screen strings
+
+mr2022-onboarding-import-primary-button-label-no-attribution = කලින් අතිරික්සුවෙන් ආයාත කරන්න
+
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+mr2022-onboarding-colorway-primary-button-label = වර්ණ පරාසය සකසන්න
+
+## MR2022 Multistage Mobile Download screen strings
+
+
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } පෞද්. පිරික්සුම තැටියෙහි තබාගන්න
+       *[other] { -brand-short-name } පෞද්. පිරික්සුම කාර්ය තීරුවට අමුණන්න
+    }
+
+## MR2022 Privacy Segmentation screen strings
+
+mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } නිර්දේශ
+
+## MR2022 Multistage Gratitude screen strings
+
+mr2022-onboarding-gratitude-primary-button-label = අළුත් දෑ බලන්න
