@@ -17,6 +17,8 @@ change-password-reenter = නව මුරපදය (නැවත):
 pippki-failed-pw-change = මුරපදය වෙනස් කළ නොහැකිය.
 pippki-incorrect-pw = ඔබ නිවැරදි වත්මන් මුරපදය ඇතුල් කර නැත. නැවත උත්සාහ කරන්න.
 pippki-pw-change-ok = මුරපදය වෙනස් කෙරිණි.
+pippki-pw-empty-warning = ඔබගේ ගබඩා කර ඇති මුරපද සහ පෞද්ගලික යතුරු ආරක්‍ෂා නොවනු ඇත.
+pippki-pw-erased-ok = ඔබගේ මුරපදය මකා දමා ඇත. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = අවවාදයයි! මුරපදයක් භාවිතා නොකිරීමට ඔබ තීරණය කර ඇත. { pippki-pw-empty-warning }
 
 ## Reset Primary Password dialog

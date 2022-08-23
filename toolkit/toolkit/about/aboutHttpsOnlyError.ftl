@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-httpsonly-title-alert = HTTPS-පමණි ප්‍රකාරයේ ඇඟවීම
+about-httpsonly-title-site-not-available = ආරක්‍ෂිත අඩවිය නැත
 about-httpsonly-button-continue-to-site = HTTP අඩවියට යන්න
 about-httpsonly-button-go-back = ආපසු යන්න
 about-httpsonly-link-learn-more = තව දැනගන්න…
