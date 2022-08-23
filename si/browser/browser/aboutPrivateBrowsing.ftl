@@ -5,6 +5,7 @@
 privatebrowsingpage-open-private-window-label = පෞද්. කවුළුවක් අරින්න
     .accesskey = P
 about-private-browsing-search-placeholder = වියමන තුළ සොයන්න
+about-private-browsing-info-title = ඔබ පෞද්. කවුළුවක සිටියි
 about-private-browsing-search-btn =
     .title = වියමනහි සොයන්න
 # Variables
@@ -25,6 +26,18 @@ about-private-browsing-focus-promo-cta = { -focus-brand-name } බාගන්�
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } යනු පෞද්. කවුළුවල ඔබගේ පෙරනිමි සෙවුම් යන්ත්‍රයයි
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] වෙනත් සෙවුම් යන්ත්‍රයක් තේරීමට <a data-l10n-name="link-options">විකල්ප</a> වෙත යන්න
+       *[other] වෙනත් සෙවුම් යන්ත්‍රයක් තේරීමට <a data-l10n-name="link-options">අභිප්‍රේත</a> වෙත යන්න
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = වසන්න
 about-private-browsing-promo-close-button =
     .title = වසන්න
 

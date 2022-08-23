@@ -169,6 +169,12 @@ about-logins-error-message-default = මෙම මුරපදය සුරැ�
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = පිවිසුම් ගොනුව නිර්යාතය
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = පිවිසුම්.csv
+about-logins-export-file-picker-export-button = නිර්යාත
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
