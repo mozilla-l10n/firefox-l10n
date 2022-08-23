@@ -337,6 +337,8 @@ identity-https-only-label = HTTPS-පමණි ප්‍රකාරය
 identity-https-only-info-no-upgrade = HTTP වෙතින් සම්බන්ධතාව උත්ශ්‍රේණි කළ නොහැකිය.
 identity-permissions-storage-access-learn-more = තව දැනගන්න
 identity-permissions-reload-hint = වෙනස්කම් යෙදීමට පිටුව යළි පූරණය කිරීමට සිදු වනු ඇත.
+identity-connection-not-secure-security-view = ඔබ මෙම අඩවියට ආරක්‍ෂිතව සම්බන්ධ වී නැත.
+identity-connection-verified = ඔබ මෙම අඩවියට ආරක්‍ෂිතව සම්බන්ධ වී ඇත.
 identity-remove-cert-exception =
     .label = හැරදැමීම ඉවත් කරන්න
     .accesskey = R
@@ -427,6 +429,7 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = F12 කෙටිමඟ භාවිතා කිරීමට, පළමුව වියමන සංවර්ධක වට්ටෝරුව හරහා සංවර්ධන මෙවලම් අරින්න.
 
 ## URL Bar
 
@@ -475,6 +478,8 @@ urlbar-placeholder-with-name =
 #    Example: "DevTools", "Marionette", "RemoteAgent".
 urlbar-remote-control-notification-anchor2 =
     .tooltiptext = අතිරික්සුව දුරස්ථ පාලනය යටතේ පවතී (හේතුව: { $component })
+urlbar-permissions-granted =
+    .tooltiptext = ඔබ මෙම අඩවියට අතිරේක අවසර ලබා දී ඇත.
 urlbar-switch-to-tab =
     .value = පටිත්තට මාරුවන්න:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
