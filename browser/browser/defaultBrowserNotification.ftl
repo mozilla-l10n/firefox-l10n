@@ -7,6 +7,6 @@
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
-default-browser-prompt-title-pin = { -brand-short-name } මූලික අතිරික්සුව ලෙස සකසන්න
-default-browser-prompt-button-primary-pin = මූලික අතිරික්සුව කරන්න
+default-browser-prompt-title-pin = { -brand-short-name } ප්‍රාථමික අතිරික්සුව කරන්න ද?
+default-browser-prompt-button-primary-pin = ප්‍රාථමික අතිරික්සුව කරන්න
 default-browser-prompt-button-primary-alt = පෙරනිමි අතිරික්සුව කරන්න
