@@ -56,6 +56,10 @@ appmenuitem-settings =
 
 ## Zoom and Fullscreen Controls
 
+appmenuitem-zoom-enlarge =
+    .label = විශාලනය
+appmenuitem-zoom-reduce =
+    .label = කුඩාලනය
 appmenuitem-fullscreen =
     .label = පූර්ණ තිරය
 
