@@ -113,12 +113,18 @@ permissions-site-autoplay-desc = ඔබගේ පෙරනිමි ස්වය
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = සැකසුම් - දැනුම්දීමේ අවසර
+    .style = { permissions-window.style }
 permissions-site-notification-disable-label =
     .label = දැනුම්දීම් සඳහා ඉල්ලා සිටින නව ඉල්ලීම් අවහිර කරන්න
 permissions-site-notification-disable-desc = ඉහත ලේඛනගත කර නැති අඩවි වලින් ලැබෙන දැනුම්දීම් අවසර ඉල්ලීම් වලක්වනු ඇත. මෙය අවහිර කිරීම නිසා සමහර වියමන අඩවිවල විශේෂාංග නිසි අයුරින් ක්‍රියා නොකරනු ඇත.
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = සැකසුම් - ස්ථාන අවසර
+    .style = { permissions-window.style }
 permissions-site-location-desc = පහත වියමන අඩවි ඔබගේ ස්ථානයට ප්‍රවේශ වීමට ඉල්ලා ඇත. ස්ථානයට ප්‍රවේශ වීමට ඉඩ දිය යුතු අඩවි මොනවාදැයි ඔබට සඳහන් කළ හැකිය. ඔබගේ ස්ථානයට ප්‍රවේශ වීමට ඉල්ලා සිටින නව ඉල්ලීම් ද අවහිර කළ හැකිය.
 permissions-site-location-disable-label =
     .label = ස්ථානයට ප්‍රවේශ වීමට ඉල්ලන නව ඉල්ලීම් අවහිර කරන්න

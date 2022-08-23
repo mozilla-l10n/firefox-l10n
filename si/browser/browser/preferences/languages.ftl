@@ -48,3 +48,4 @@ browser-languages-select-language =
     .placeholder = එක් කිරීමට භාෂාවක් තෝරන්න...
 browser-languages-installed-label = ස්ථාපිත භාෂා
 browser-languages-available-label = තිබෙන භාෂා
+browser-languages-error = { -brand-short-name } මගින් දැන් ඔබගේ භාෂා යාවත්කාල කළ නොහැකිය. අන්තර්ජාලයට සම්බන්ධ වී ඇත්දැයි පරීක්‍ෂා කරන්න හෝ නැවත උත්සාහ කරන්න.
