@@ -14,6 +14,7 @@ cert-error-untrusted-default = සහතිකය විශ්වසන මූ�
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = දෝෂ කේතය: <a data-l10n-name="error-code-link">{ $error }</a>
+cert-error-symantec-distrust-admin = මෙම ගැටළුව පිළිබඳව අඩවියේ පරිපාලක වෙත දැනුම් දීමට හැකිය
 cert-error-old-tls-version = මෙම වියමන අඩවිය { -brand-short-name } මගින් සහය දක්වන අවම අනුවාදය වන TLS 1.2 කෙටුම්පත සඳහා සහාය නොදක්වයි.
 cert-error-details-cert-chain-label = සහතික දාමය:
 open-in-new-window-for-csp-or-xfo-error = නව කවුළුවකින් අඩවිය අරින්න
