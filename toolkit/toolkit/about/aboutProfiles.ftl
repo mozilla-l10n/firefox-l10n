@@ -22,5 +22,7 @@ profiles-set-as-default = පෙරනිමි පැතිකඩ ලෙස ස
 profiles-launch-profile = නව අතිරික්සුවක පැතිකඩ දියත්කරන්න
 profiles-yes = ඔව්
 profiles-no = නැහැ
+profiles-delete-profile-title = පැතිකඩ මකන්න
 profiles-delete-files = ගොනු මකන්න
 profiles-dont-delete-files = ගොනු මකන්න එපා
+profiles-delete-profile-failed-title = දෝෂයකි

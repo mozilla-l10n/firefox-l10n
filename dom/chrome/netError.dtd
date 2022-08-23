@@ -58,9 +58,11 @@
 
 
 
+<!ENTITY inadequateSecurityError.title "ඔබගේ සම්බන්ධතාවය අනාරක්‍ෂිතයි">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
 <!ENTITY blockedByPolicy.title "අවහිර කළ පිටුව">
 
+<!ENTITY networkProtocolError.title "ජාල කෙටුම්පතෙහි දෝෂයකි">
 <!ENTITY networkProtocolError.longDesc "<p>ජාල කෙටුම්පතෙහි දෝෂයක් අනාවරණය වූ නිසා ඔබ දැකීමට උත්සාහ කරන පිටුව පෙන්වීමට නොහැකිය.</p><ul><li>මෙම ගැටළුව පිළිබඳව අඩවියේ හිමිකරුවන්ට දන්වන්න.</li></ul>">

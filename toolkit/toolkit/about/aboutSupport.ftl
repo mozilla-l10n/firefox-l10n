@@ -97,6 +97,7 @@ a11y-activated = ක්‍රියාත්මකයි
 a11y-force-disabled = පිවිසුම අබල කරන්න
 copy-text-to-clipboard-label = පෙළ පිටපතක් පසුරු පුවරුවට
 copy-raw-data-to-clipboard-label = අමු දත්ත පිටපතක් පසුරු පුවරුවට
+sandbox-sys-call-age = තත්. කිහිපයකට පෙර
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 restart-button-label = යළි අරඹන්න
