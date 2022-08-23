@@ -12,6 +12,8 @@ certmgr-tab-servers =
     .label = සේවාදායක
 certmgr-tab-ca =
     .label = අධිකාරි
+certmgr-people = මෙම පුද්ගලයින් හඳුනාගත හැකි සහතික ඇතුළත් ගොනුවක් ඔබ සතුව ඇත
+certmgr-ca = මෙම සහතික අධිකාරි හඳුනාගත හැකි සහතික ඇතුළත් ගොනුවක් ඔබ සතුව ඇත
 certmgr-edit-ca-cert =
     .title = CA සහතිකයේ විශ්වාස සැකසුම් සංස්කරණය
     .style = width: 48em;
@@ -105,6 +107,12 @@ delete-email-cert-title =
     .title = වි-තැපැල් සහතික මකන්න
 delete-email-cert-confirm = මෙම පුද්ගලයින්ගේ වි-තැපැල් සහතික මැකීමට අවශ්‍ය බව ඔබට විශ්වාසද?
 delete-email-cert-impact = ඔබ කිසිවෙකුගේ වි-තැපැල් සහතිකයක් මකා දැමුවහොත් එම පුද්ගලයා වෙත සංකේතිත වි-තැපෑලක් යැවීමට නොහැකිය.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = අනුක්‍රමික අංකය සහිත සහතිකය: { $serialNumber }
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (ගබඩා කර නැත)
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
