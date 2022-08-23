@@ -6,12 +6,18 @@ password-quality-meter = මුරපදයේ ගුණත්‍ව මාප�
 
 ## Change Password dialog
 
+change-device-password-window =
+    .title = මුරපදය වෙනස් කරන්න
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = ආරක්‍ෂණ උපාංගය: { $tokenName }
 change-password-old = වත්මන් මුරපදය:
 change-password-new = නව මුරපදය:
 change-password-reenter = නව මුරපදය (නැවත):
+pippki-failed-pw-change = මුරපදය වෙනස් කළ නොහැකිය.
+pippki-incorrect-pw = ඔබ නිවැරදි වත්මන් මුරපදය ඇතුල් කර නැත. නැවත උත්සාහ කරන්න.
+pippki-pw-change-ok = මුරපදය වෙනස් කෙරිණි.
+pippki-pw-not-wanted = අවවාදයයි! මුරපදයක් භාවිතා නොකිරීමට ඔබ තීරණය කර ඇත. { pippki-pw-empty-warning }
 
 ## Reset Primary Password dialog
 

@@ -23,6 +23,8 @@ certmgr-edit-cert-trust-email =
 certmgr-delete-cert =
     .title = සහතිකය මකන්න
     .style = width: 48em; height: 24em;
+certmgr-cert-host =
+    .label = සත්කාරකය
 certmgr-cert-name =
     .label = සහතිකයේ නම
 certmgr-cert-server =
@@ -103,9 +105,15 @@ delete-email-cert-title =
     .title = වි-තැපැල් සහතික මකන්න
 delete-email-cert-confirm = මෙම පුද්ගලයින්ගේ වි-තැපැල් සහතික මැකීමට අවශ්‍ය බව ඔබට විශ්වාසද?
 delete-email-cert-impact = ඔබ කිසිවෙකුගේ වි-තැපැල් සහතිකයක් මකා දැමුවහොත් එම පුද්ගලයා වෙත සංකේතිත වි-තැපෑලක් යැවීමට නොහැකිය.
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (ගබඩා කර නැත)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (නොතිබේ)
 
 ## Used to show whether an override is temporary or permanent
 
+permanent-override = ස්ථිර
+temporary-override = තාවකාලික
 
 ## Add Security Exception dialog
 

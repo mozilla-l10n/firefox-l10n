@@ -21,6 +21,9 @@ list-empty-button =
 help-button = එක්කහු සහාය
 sidebar-help-button-title =
     .title = එක්කහු සහාය
+addons-settings-button = { -brand-short-name } සැකසුම්
+sidebar-settings-button-title =
+    .title = { -brand-short-name } සැකසුම්
 show-unsigned-extensions-button =
     .label = ඇතැම් දිගු තහවුරු කළ නොහැකිය
 show-all-extensions-button =
@@ -29,6 +32,8 @@ detail-version =
     .label = අනුවාදය
 detail-last-updated =
     .label = අවසන යාවත්කාල කළේ
+addon-detail-description-expand = තවත් පෙන්වන්න
+addon-detail-description-collapse = අඩුවෙන් පෙන්වන්න
 detail-contributions-description = මෙම එක්කහුවෙහි සංවර්ධකයා එහි අඛණ්ඩ සංවර්ධනය වෙනුවෙන් ඔබගෙන් ස්වල්ප දායකත්වයක් ඉල්ලා සිටියි.
 detail-update-type =
     .value = ස්වයංක්‍රීය යාවත්කාල
@@ -43,6 +48,13 @@ detail-update-manual =
     .tooltiptext = ස්වයංක්‍රීයව යාවත්කාල ස්ථාපනය නොකරන්න
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = පෞද්. කවුළුවක ධාවනය
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = පෞද්. කවුළු තුළ ඉඩ නොදේ
+detail-private-disallowed-description2 = පෞද්. පිරික්සුම් අතරතුර මෙම දිගුව ධාවනය නොවේ. <a data-l10n-name="learn-more">තව දැනගන්න</a>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = පෞද්. කවුළු වෙත ප්‍රවේශය අවශ්‍ය වේ
+detail-private-required-description2 = මෙම දිගුවට පෞද්. පිරික්සුම් අතරතුර ඔබගේ ක්‍රියාකාරකම් වෙත ප්‍රවේශය ඇත. <a data-l10n-name="learn-more">තව දැනගන්න</a>
 detail-private-browsing-on =
     .label = ඉඩදෙන්න
     .tooltiptext = පුද්ගලික ගවේශණ තුළ සක්‍රීයයි
@@ -84,9 +96,15 @@ addon-restart-now =
 disabled-unsigned-heading =
     .value = ඇතැම් එක්කහු අබල කර ඇත
 disabled-unsigned-description = { -brand-short-name } හි භාවිතයට පහත එක්කහු තහවුරු කර නැත. <label data-l10n-name="find-addons">ආදේශකයක් සොයා ගන්න</label> හෝ ඒවා තහවුරු කර ගන්නා ලෙස සංවර්ධකයාට දන්වන්න.
+addon-category-discover = නිර්දේශ
+addon-category-discover-title =
+    .title = නිර්දේශ
 addon-category-extension = දිගු
 addon-category-extension-title =
     .title = දිගු
+addon-category-theme = තේමා
+addon-category-theme-title =
+    .title = තේමා
 addon-category-plugin = පේනු
 addon-category-plugin-title =
     .title = පේනු
@@ -102,6 +120,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = මෑත යාවත්කාල
 addon-category-recent-updates-title =
     .title = මෑත යාවත්කාල
+addon-category-sitepermission = අඩවියේ අවසර
+addon-category-sitepermission-title =
+    .title = අඩවියේ අවසර
 
 ## These are global warnings
 
@@ -156,18 +177,92 @@ addon-open-about-debugging = එක්කහු නිදොස්කරණය
 
 shortcuts-input =
     .placeholder = කෙටිමඟක් ලියන්න
+shortcuts-card-expand-button =
+    { $numberToShow ->
+       *[other] තවත් { $numberToShow } ක් පෙන්වන්න
+    }
+header-back-button =
+    .title = ආපසු යන්න
 
 ## Recommended add-ons page
 
+discopane-notice-learn-more = තව දැනගන්න
+privacy-policy = රහස්‍යතා ප්‍රතිපත්තිය
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = පරිශීලකයින්: { $dailyUsers }
+install-extension-button = { -brand-product-name } වෙත දමන්න
+install-theme-button = තේමාව ස්ථාපනය
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = කළමනාකරණය
+find-more-addons = තවත් එක්කහු සොයාගන්න
+find-more-themes = තවත් තේමා සොයාගන්න
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = තවත් විකල්ප
 
 ## Add-on actions
 
+report-addon-button = වාර්තා
 remove-addon-button = ඉවත් කරන්න
 disable-addon-button = අබල කරන්න
 enable-addon-button = සබල කරන්න
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = සබල
+details-addon-button = විස්තර
+release-notes-addon-button = නිකුතු සටහන්
+permissions-addon-button = අවසර
+extension-enabled-heading = සබල කර ඇත
+extension-disabled-heading = අබල කර ඇත
+theme-enabled-heading = සබල කර ඇත
+theme-disabled-heading = අබල කර ඇත
+theme-disabled-heading2 = සුරැකි තේමා
+plugin-enabled-heading = සබලයි
+plugin-disabled-heading = අබලයි
+dictionary-enabled-heading = සබලයි
+dictionary-disabled-heading = අබලයි
+locale-enabled-heading = සබලයි
+locale-disabled-heading = අබලයි
+sitepermission-enabled-heading = සබලයි
+sitepermission-disabled-heading = අබලයි
+addon-detail-author-label = කතෘ
+addon-detail-version-label = අනුවාදය
+addon-detail-last-updated-label = අවසාන යාවත්කාලය
+addon-detail-homepage-label = මුල් පිටුව
+addon-detail-rating-label = ඇගැයුම
+install-postponed-button = යාවත්කාල කරන්න
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (අබලයි)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] සමාලෝචන { $numberOfReviews }
+       *[other] සමාලෝචන { $numberOfReviews }
+    }
 
 ## Pending uninstall message bar
 
+pending-uninstall-undo-button = පෙරසේ
+addon-detail-updates-label = ස්වයං යාවත්කාලයට ඉඩදෙන්න
+addon-detail-updates-radio-default = පෙරනිමි
+addon-detail-update-check-label = යාවත්කාල බලන්න
+install-update-button = යාවත්කාල
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = පෞද්. කවුළුවල ඉඩ දී ඇත
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
+addon-detail-private-browsing-allow = ඉඩදෙන්න
+addon-detail-private-browsing-disallow = ඉඩ නොදෙන්න
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -175,9 +270,25 @@ enable-addon-button = සබල කරන්න
 
 ##
 
+available-updates-heading = තිබෙන යාවත්කාල
+recent-updates-heading = මෑත යාවත්කාල
+release-notes-loading = පූරණය වෙමින්…
+release-notes-error = කණගාටුයි, නිකුතු සටහන් පූරණය කිරීමේදී දෝෂයකි.
+addon-permissions-empty = මෙම දිගුවට කිසිදු අවසරයක් අවශ්‍ය නොවේ
+addon-permissions-learnmore = අවසර ගැන තව දැනගන්න
+recommended-extensions-heading = නිර්දේශිත දිගු
+recommended-themes-heading = නිර්දේශිත තේමා
 
 ## Page headings
 
+extension-heading = ඔබගේ දිගු කළමනාකරණය
+theme-heading = ඔබගේ තේමා කළමනාකරණය
+dictionary-heading = ඔබගේ ශබ්දකෝෂ කළමනාකරණය
+locale-heading = ඔබගේ භාෂා කළමනාකරණය
+updates-heading = ඔබගේ යාවත්කාල කළමනාකරණය
+sitepermission-heading = ඔබගේ අඩවි අවසර කළමනාකරණය
+shortcuts-heading = දිගු කෙටිමං කළමනාකරණය
+default-heading-search-label = තවත් එක්කහු සොයාගන්න
 addons-heading-search-input =
     .placeholder = addons.mozilla.org සොයන්න
 addon-page-options-button =
@@ -190,6 +301,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { -brand-short-name } { $version } සමඟ { $name } නොගැළපෙයි.
+details-notification-incompatible-link = තව තොරතුරු
 details-notification-unsigned-and-disabled = { -brand-short-name } හි භාවිතය සඳහා { $name } තහවුරු කළ නොහැකි බැවින් අබල කර ඇත.
 details-notification-unsigned-and-disabled-link = වැඩිදුර තොරතුරු
 details-notification-unsigned = { -brand-short-name } හි භාවිතයට { $name } තහවුරු කළ නොහැකිය. ප්‍රවේශම්ව ඉදිරියට යන්න.

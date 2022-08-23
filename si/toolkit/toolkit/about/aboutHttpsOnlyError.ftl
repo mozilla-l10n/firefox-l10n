@@ -3,8 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-httpsonly-title-alert = HTTPS-පමණි ප්‍රකාරයේ ඇඟවීම
+about-httpsonly-button-continue-to-site = HTTP අඩවියට යන්න
+about-httpsonly-button-go-back = ආපසු යන්න
+about-httpsonly-link-learn-more = තව දැනගන්න…
 
 ## Suggestion Box that only shows up if a secure connection to www can be established
 ## Variables:
 ##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
 
+about-httpsonly-suggestion-box-www-button = www.{ $websiteUrl } වෙත යන්න
