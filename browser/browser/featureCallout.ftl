@@ -9,3 +9,4 @@ callout-primary-complete-button-label = ¡Entendido!
 
 ## Firefox View feature tour strings
 
+callout-firefox-view-colorways-title = Añade un toque de color

@@ -933,7 +933,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Motores de búsqueda
     .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = Acciones rápidas
+    .accesskey = Q
 addressbar-suggestions-settings = Cambia las preferencias para las sugerencias de los motores de búsqueda
+addressbar-quickactions-learn-more = Aprender más
 
 ## Privacy Section - Content Blocking
 
