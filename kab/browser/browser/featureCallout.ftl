@@ -16,3 +16,5 @@ callout-firefox-view-tab-pickup-subtitle = Kkes-d s zzerb accaren yeldin seg til
 callout-firefox-view-recently-closed-title = Err-d accaren-ik·im yettwamedlen s zzerb
 callout-firefox-view-recently-closed-subtitle = Akk accaren-ik·im i imedlen ad d-banen dagi war ma tfaqqeḍ. Ɣas ur ttagad ma yella yettwamdel kra n usmel weḥd-s.
 callout-firefox-view-colorways-title = Rnu ṛucc s yini
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Fren tiɣmi ara ak·am-d-yettmeslayen s ufran n yiniten. Yella kan deg { -brand-product-name }.

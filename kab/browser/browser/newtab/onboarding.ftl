@@ -278,6 +278,9 @@ mr2022-onboarding-pin-primary-button-label =
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Tanemmirt imi i tḥemmleḍ { -brand-product-name }
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Seqdec iminig yekkaten ɣef uqader n tudert-ik:im tabaḍnit mi ara tettinigeḍ deg web. Lqem-nneɣ aneggaru yusa-d s ukemmus n tɣawsiwin ara yawin leɛmeṛ-ik·im.
 mr2022-onboarding-existing-pin-checkbox-label = Rnu daqen tunigin tusligt { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
@@ -285,6 +288,9 @@ mr2022-onboarding-existing-pin-checkbox-label = Rnu daqen tunigin tusligt { -bra
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = Err { -brand-short-name } d iminig-ik·im ufrin
 mr2022-onboarding-set-default-primary-button-label = Sbadu { -brand-short-name } d iminig amezwer
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Seqdec iminig ur nettnadi ara ɣef tedrimt. Nekkat ɣef uqader n tudert-ik·im tabaḍnit mi ara tettinigeḍ deg web.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
