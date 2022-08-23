@@ -70,6 +70,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName; ආරක්‍ෂණ තර්ජනයක් හඳුනාගත් බැවින් <span class='hostname'/> වෙත නොයන ලදි. මෙම අඩවියට ඔබ ගොඩවදින්නේ නම්, ප්‍රහාරකයින්ට ඔබගේ මුරපද, වි-තැපැල්, හෝ ණයපත් විස්තර වැනි තොරතුරු සොරකම් කිරීමට හැකිය.">
 
+<!ENTITY certerror.expiredCert.secondPara2 "&brandShortName; ආරක්‍ෂිතව සම්බන්ධ වීම වළක්වන්නේ පෙනෙන හැටියට අඩවියෙහි සහතිකය කල් ඉකුත් වී තිබෙන නිසා විය හැකිය. මෙම අඩවියට ඔබ ගොඩවදින්නේ නම්, ප්‍රහාරකයින්ට ඔබගේ මුරපද, වි-තැපැල්, හෝ ණයපත් විස්තර වැනි තොරතුරු සොරකම් කිරීමට හැකිය.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "ඔබට ඒ ගැන කුමක් කළ හැකිද?">
 
@@ -98,6 +99,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "අවහිර කළ පිටුව">
 
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "සංස්ථානික ජාලයක නම්, ඔබගේ තොරතුරු තාක්‍ෂණ ක්‍රියාංශය අමතන්න.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "<span class='mitm-name'/> පිළිබඳව ඔබට හුරුපුරුදු නැතිනම්, මෙය ප්‍රහාරයක් විය හැකිය. මෙම අඩවියට නොයා සිටින්න.">
 
 
 <!ENTITY prefReset.label "පෙරනිමි සැකසුම් ප්‍රත්‍යර්පණය">
