@@ -38,6 +38,14 @@ cfr-doorhanger-feature-notification = නිර්දේශ
 ## users and rating for an add-on. They are shown next to each other.
 
 # Variables:
+#   $total (Number) - The rating of the add-on from 1 to 5
+cfr-doorhanger-extension-rating =
+    .tooltiptext =
+        { $total ->
+            [one] තරු { $total }
+           *[other] තරු { $total }
+        }
+# Variables:
 #   $total (Number) - The total number of users using the add-on
 cfr-doorhanger-extension-total-users =
     { $total ->
@@ -47,12 +55,15 @@ cfr-doorhanger-extension-total-users =
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = පොත්යොමු ඕනෑම තැනකට සමමුහූර්ත කරන්න.
+cfr-doorhanger-bookmark-fxa-link-text = පොත්යොමු දැන් සමමුහූර්ත කරන්න…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = බොත්තම වසන්න
     .title = වසන්න
 
 ## Protections panel
 
+cfr-protections-panel-header = ලුහුබැඳීම් මඟහැර පිරික්සන්න
 cfr-protections-panel-link-text = තව දැනගන්න
 
 ## What's New toolbar button and panel

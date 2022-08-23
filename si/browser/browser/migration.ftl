@@ -45,6 +45,7 @@ no-migration-sources = පොත්යොමු, ඉතිහාසය හෝ �
 import-source-page-title = සැකසුම් හා දත්ත ආයාත කිරීම
 import-items-page-title = ආයාත කරන අංග
 import-items-description = ආයාත කරන දෑ තෝරන්න:
+import-permissions-page-title = { -brand-short-name } වෙත අවසර ලබා දෙන්න
 import-migrating-page-title = ආයාත වෙමින්...
 import-migrating-description = පහත අංග ආයාත වෙමින් තිබේ...
 import-select-profile-page-title = පැතිකඩ තෝරන්න
