@@ -286,17 +286,35 @@ mr2022-onboarding-set-default-only-subtitle = Comienza con un navegador respalda
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Gracias por querer a { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Inicia un Internet más saludable desde cualquier lugar con un solo clic. Nuestra última actualización está repleta de cosas nuevas que creemos que te encantarán.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Usa un navegador que defiende tu privacidad mientras navegas por la web. Nuestra última actualiza está repleta de cosas que te encantarán.
+mr2022-onboarding-existing-pin-checkbox-label = Agrega también navegación privada de { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Haz de { -brand-short-name } tu navegador para llevar
+mr2022-onboarding-set-default-primary-button-label = Establece { -brand-short-name } como navegador privado
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Usa un navegador respaldado por una organización sin fines de lucro. Defendemos tu privacidad mientras navegas por la web.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Nuestra última versión está diseñada pensando en ti, lo que hace que navegar por la web sea más fácil que nunca. Está repleto de funciones que creemos que te encantarán.
+mr2022-onboarding-get-started-primary-button-label = Configurar en segundos
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Configuración ultrarrápida
+mr2022-onboarding-import-subtitle = Configura { -brand-short-name } como quieras. Agrega tus marcadores, contraseñas y más desde tu antiguo navegador.
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
