@@ -51,7 +51,7 @@ mr1-onboarding-pin-primary-button-label =
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = පටන් ගන්න
 mr1-onboarding-welcome-header = { -brand-short-name } වෙත සාදරයෙන් පිළිගනිමු
-mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } මූලික අතිරික්සුව ලෙස සකසන්න
+mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } ප්‍රාථමික අතිරික්සුව කරන්න
     .title = මූලික අතිරික්සුව ලෙස { -brand-short-name } සකසයි හා කාර්ය තීරුවට අමුණයි
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
@@ -215,6 +215,9 @@ mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } ප�
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = අපගේ නවතම අනුවාදය ඔබ වෙනුවෙන්ම තනන ලදි, වියමන පුරා වේගයෙන් සැරිසැරීමට අන් කවරදාටත් වඩා පහසු කරයි. එය ඔබ ඇලුම් කරනු ඇතැයි අප සිතන විශේෂාංගවලින් පුරවා ඇත.
 mr2022-onboarding-get-started-primary-button-label = තත්පර කිහිපයකින් සකසන්න
 
 ## MR2022 Import Settings screen strings

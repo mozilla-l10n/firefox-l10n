@@ -73,6 +73,7 @@ devinfo-label =
     .label = නම්පත
 devinfo-serialnum =
     .label = අනුක්‍රමික අංකය
+fips-nonempty-primary-password-required = FIPS ප්‍රකාරය සඳහා ඔබට එක් එක් ආරක්‍ෂණ උපාංගය සඳහා ප්‍රාථමික මුරපදයක් තිබීම අවශ්‍ය වේ. FIPS ප්‍රකාරය සබල කිරීමට උත්සාහ කිරීමට පෙර කරුණාකර මුරපදය සකසන්න.
 unable-to-toggle-fips = ආරක්‍ෂණ උපාංගය සඳහා FIPS ප්‍රකාරය වෙනස් කළ නොහැකිය. මෙම යෙදුමෙන් පිටවී නැවත ආරම්භ කිරීම නිර්දේශ කෙරේ.
 add-module-failure = ඒකකය එක් කිරීමට නොහැකිය
 del-module-warning = මෙම ආරක්‍ෂණ ඒකකය මැකීමට වුවමනාද?
