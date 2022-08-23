@@ -326,3 +326,5 @@ mr2022-onboarding-privacy-segmentation-title = Við virðum alltaf friðhelgi þ
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-primary-button-label = Sjáðu hvað er nýtt á seyði
+mr2022-onboarding-gratitude-secondary-button-label = Byrjaðu að vafra
