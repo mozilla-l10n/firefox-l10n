@@ -11,8 +11,18 @@
 ## in the documentation section in about:policies.
 
 policy-AllowedDomainsForApps = ගූගල් වැඩබිමට ප්‍රවේශ වීමට ඉඩ දෙන වසම් දක්වන්න.
+policy-AppAutoUpdate = ස්වයංක්‍රීයව යෙදුම යාවත්කාල වීම සබල හෝ අබල කරන්න.
 policy-AppUpdateURL = අභිරුචි යෙදුම් යාවත්කාල ඒ.ස.නි. සකසන්න.
+policy-Authentication = සහාය දක්වන වියමන අඩවි සඳහා අනුකලිත සත්‍යාපනය වින්‍යාස කරන්න.
 policy-BackgroundAppUpdate2 = පසුබිම් යාවත්කාලකරනය සබල හෝ අබල කරන්න.
+policy-BlockAboutAddons = එක්කහු කළමණාකරු වෙත ප්‍රවේශය අවහිර කරන්න (about:addons).
+policy-BlockAboutConfig = about:config පිටුවට ප්‍රවේශය අවහිර කරන්න.
+policy-BlockAboutProfiles = about:profiles පිටුවට ප්‍රවේශය අවහිර කරන්න.
+policy-BlockAboutSupport = about:support පිටුවට ප්‍රවේශය අවහිර කරන්න.
+policy-Bookmarks = පොත්යොමු මෙවලම් තීරුව, පොත්යොමු වට්ටෝරුව හෝ නිශ්චිත බහාලුමක් තුළ නිශ්චිත පොත්යොමු සාදන්න.
+policy-CertificatesDescription = සහතික එක් කරන්න හෝ තිළෑලි සහතික යොදාගන්න.
+policy-DisabledCiphers = කේතාංක අබල කරන්න
+policy-DefaultDownloadDirectory = පෙරනිමි බාගැනීමේ නාමාවලිය සකසන්න
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = ෆයර්ෆෝක්ස් තිරසේයා විශේෂාංගය අබල කරන්න.
 policy-DisableForgetButton = අමතක කිරීමේ බොත්තමට ප්‍රවේශය වලක්වන්න
