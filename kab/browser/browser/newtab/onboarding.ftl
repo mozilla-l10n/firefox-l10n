@@ -314,15 +314,19 @@ mr2022-onboarding-colorway-description-default = <b>Seqdec initen-inu imiranen n
 mr2022-onboarding-colorway-label-playmaker = Playmaker
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Playmaker
+mr2022-onboarding-colorway-description-playmaker = <b>Kečč.Kemm d Playmaker.</b> Trennuḍ-d tugnatin i rrbaḥ, akken daɣen i tettɛawaneḍ yal win i ak·am-d-yezzin ad issali urar-is.
 mr2022-onboarding-colorway-label-expressionist = Anfalan
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = Anfalan
+mr2022-onboarding-colorway-description-expressionist = <b>Kečč·Kemm d Experssionist.</b> Tettwaliḍ amaḍal s tmuɣli-nniḍen, isnulfuyen-ik·im senkarayen-d iḥulfan n wiyaḍ.
 mr2022-onboarding-colorway-label-visionary = Visionary
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Visionary
+mr2022-onboarding-colorway-description-visionary = <b>Kečč·Kemm d Visionary.</b> Tettcukkuteḍ aṭas deg tegnit-agi n tura, tettdeggireḍ wiyaḍ ad sugnen imal igerrzen ugar.
 mr2022-onboarding-colorway-label-activist = Ameɣnas
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Ameɣnas
+mr2022-onboarding-colorway-description-activist = <b>Kečč·Kemm d Ameqnas.</b> Tettaǧǧaḍ-d amaḍal igerrez ugar n wamek i t-id-tufiḍ, trennuḍ tgelluḍ s wiyaḍ ad amnen s waya.
 mr2022-onboarding-colorway-label-dreamer = Win·Tin yettargun
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Win·Tin yettargun
@@ -334,6 +338,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Kečč·kemm d t·amesnulf
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Ɛeddi seg uselkim ɣer tiliɣri, neɣ seg tiliɣri ɣer uselkim
 mr2022-onboarding-mobile-download-cta-text = Smiḍen tangalt QR i wakken ad tawiḍ { -brand-product-name } i uziraz neɣ <a data-l10n-name="download-label">sader s timmad-ik·im aseɣwen n usader.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Smiḍen tangalt QR i wakken ad tawiḍ { -brand-product-name } i uziraz.
 
