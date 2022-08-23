@@ -60,6 +60,7 @@ about-logins-list-section-week = පසුගිය දවස් 7
 ## Introduction screen
 
 about-logins-login-intro-heading-logged-in = සමමුහූර්ත පිවිසුම් හමු නොවිණි.
+login-intro-description = ඔබගේ පිවිසුම් වෙනත් උපාංගයක { -brand-product-name } වෙත සුරැකිින ලද්දේ නම්, ඒවා මෙහි ලබා ගන්නේ කෙසේද යන්න මෙන්න:
 login-intro-instructions-fxa-settings = සැකසුම් > සමමුහූර්තය > සමමුහූර්තය සක්‍රිය කරන්න... වෙත ගොස් පිවිසුම් හා මුරපද කොටුව තෝරන්න.
 login-intro-instructions-fxa-passwords-help = උපකාර සඳහා <a data-l10n-name="passwords-help-link">මුරපද සහාය</a> වෙත ගොඩවදින්න.
 about-logins-intro-browser-only-import = ඔබගේ පිවිසුම් වෙනත් අතිරික්සුවක සුරකින ලද්දේ නම්, ඒවා <a data-l10n-name="import-link">{ -brand-product-name } වෙත ආයාත</a> කළ හැකිය.
@@ -97,12 +98,18 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = ඔබගේ පිවිසුම සංස්කරණයට, ඔබගේ වින්ඩෝස් පිවිසුම් අක්තපත්‍ර යොදන්න. මෙය ඔබගේ ගිණුම්වල සුරක්‍ෂිත බව රැක දීමට උපකාරී වේ.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = සුරැකි පිවිසුම සංස්කරණය
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = ඔබගේ මුරපදය දැකීමට, ඔබගේ වින්ඩෝස් පිවිසුම් අක්තපත්‍ර යොදන්න. මෙය ඔබගේ ගිණුම්වල සුරක්‍ෂිත බව රැක දීමට උපකාරී වේ.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = සුරකින ලද මුරපදය පෙන්වන්න
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = ඔබගේ මුරපදය පිටපත් කිරීමට, ඔබගේ වින්ඩෝස් පිවිසුම් අක්තපත්‍ර යොදන්න. මෙය ඔබගේ ගිණුම්වල සුරක්‍ෂිත බව රැක දීමට උපකාරී වේ.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = සුරකින ලද මුරපදය පෙන්වන්න
@@ -156,6 +163,7 @@ confirm-discard-changes-dialog-confirm-button = ඉවතලන්න
 
 ## Breach Alert notification
 
+breach-alert-text = ඔබ අවසන් වරට පිවිසුම් තොරතුරු යාවත්කාල කළ දිනට පසු මෙම වියමන අඩවියෙන් මුරපද කාන්දු වී හෝ සොරකම් කර ඇත. ඔබගේ ගිණුම ආරක්‍ෂා කර ගැනීමට මුරපදය වෙනස් කරන්න.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = { $hostname } වෙත යන්න
@@ -170,6 +178,11 @@ about-logins-vulnerable-alert-learn-more-link = තව දැනගන්න
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = එම පරිශීලක නාමය සහිත { $loginTitle } සඳහා නිවේශිතයක් දැනටමත් පවතී. <a data-l10n-name="duplicate-link">පවතින නිවේශිතයට යන්නද?</a>
 # This is a generic error message.
 about-logins-error-message-default = මෙම මුරපදය සුරැකීමේදී දෝෂයක් සිදු විය.
 
