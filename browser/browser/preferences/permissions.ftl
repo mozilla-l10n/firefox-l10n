@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+permissions-window =
+    .title = හැරදැමීම්
+    .style = width: 45em
 permissions-close-key =
     .key = w
 permissions-address = අඩවියේ ලිපිනය
@@ -65,6 +68,9 @@ permissions-invalid-uri-label = වලංගු සත්කාරක නාම�
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-etp-window =
+    .title = වැඩිදියුණු කළ ලුහුබැඳීමේ ආරක්‍ෂාව සඳහා හැරදැමීම්
+    .style = { permissions-window.style }
 permissions-exceptions-etp-desc = ඔබ මෙම අඩවිවලට රැකවරණය අක්‍රිය කර ඇත.
 
 ## Exceptions - Cookies
@@ -72,6 +78,9 @@ permissions-exceptions-etp-desc = ඔබ මෙම අඩවිවලට රැ�
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window =
+    .title = හැරදැමීම් - HTTPS-පමණි ප්‍රකාරය
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
