@@ -21,99 +21,99 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = ᱱᱚᱣᱟ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱢᱮᱞ ᱵᱮᱵᱷᱟᱨ ᱠᱚ ᱩᱯᱨᱩᱢ ᱫᱟᱲᱮᱭᱟᱠᱚ ᱣᱟ ᱾
 certmgr-delete-cert =
-    .title = पोरमान साकाम मेटाव
+    .title = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱢᱮᱴᱟᱣ
     .style = width: 48em; height: 24em;
 certmgr-cert-name =
-    .label = पोरमान साकाम ञुतुम
+    .label = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱧᱩᱛᱩᱢ
 certmgr-cert-server =
-    .label = सार्वार  को
+    .label = ᱥᱟᱨᱣᱟᱨ ᱠᱚ
 certmgr-override-lifetime =
     .label = ᱡᱟᱭᱡᱩᱜ
 certmgr-token-name =
-    .label = जा़पती साधोन
+    .label = ᱡᱟᱹᱯᱛᱤ ᱥᱟᱫᱷᱚᱱ
 certmgr-begins-label =
-    .label = रे एहोब
+    .label = ᱨᱮ ᱮᱦᱚᱵ
 certmgr-expires-label =
-    .label = रे ओकोतो चाबा आ.
+    .label = ᱨᱮ ᱚᱠᱛᱚ ᱪᱟᱵᱟᱜᱼᱟ ᱾
 certmgr-email =
-    .label = ई-मेल ठिका़न
+    .label = ᱤᱻ-ᱢᱮᱞ ᱴᱷᱤᱠᱟᱹᱱ
 certmgr-serial =
-    .label = तिरया़व लेखा
+    .label = ᱛᱤᱨᱭᱟᱹᱣ ᱞᱮᱠᱷᱟ
 certmgr-view =
-    .label = ञेनेल…
+    .label = ᱧᱮᱞ…
     .accesskey = V
 certmgr-edit =
     .label = ᱯᱟᱹᱛᱤᱭᱟᱹᱣᱜ ᱥᱟᱯᱲᱟᱣ ᱢᱮ…
     .accesskey = E
 certmgr-export =
-    .label = बाहरे कुल मे…
+    .label = ᱵᱟᱦᱨᱮ ᱠᱩᱞ ᱢᱮ…
     .accesskey = x
 certmgr-delete =
-    .label = मेटाव मे…
+    .label = ᱢᱮᱴᱟᱣ ᱢᱮ…
     .accesskey = D
 certmgr-delete-builtin =
-    .label = आर बाङ आलोम पा़तया़वाक् आ…
+    .label = ᱟᱨ ᱵᱟᱝ ᱟᱞᱚᱢ ᱯᱟᱹᱛᱭᱟᱹᱣᱟᱜ ᱟ…
     .accesskey = D
 certmgr-backup =
     .label = ᱱᱚᱠᱚᱞ ᱡᱚᱜᱟᱣ…
     .accesskey = B
 certmgr-backup-all =
-    .label = जोतो नोकोल जोगाव
+    .label = ᱡᱚᱛᱚ ᱱᱚᱠᱚᱞ ᱡᱚᱜᱟᱣ
     .accesskey = k
 certmgr-restore =
-    .label = आ़गू...
+    .label = ᱟᱹᱜᱩ…
     .accesskey = m
 certmgr-add-exception =
-    .label = बादाक् को सेलेद…
+    .label = ᱵᱟᱫᱟᱜ ᱠᱚ ᱥᱮᱞᱮᱫ…
     .accesskey = x
 exception-mgr =
-    .title = जा़पती बादाक सेलेद
+    .title = ᱡᱟᱹᱯᱛᱤ ᱵᱟᱫᱟᱜ ᱥᱮᱞᱮᱫ
 exception-mgr-extra-button =
-    .label = जा़पती बादाक् गोटाय मे
+    .label = ᱡᱟᱹᱯᱛᱤ ᱵᱟᱫᱟᱜ ᱜᱚᱴᱟᱭ ᱢᱮ
     .accesskey = C
-exception-mgr-supplemental-warning = आ़न लेकातेनाक् बैंक, जोगाव को, आर एटाक् होड़ साइट को नोवा का़मी ला़गित् बाय कुली मेया.
+exception-mgr-supplemental-warning = ᱟᱹᱱ ᱞᱮᱠᱟᱛᱮᱱᱟᱜ ᱵᱮᱭᱸᱠ, ᱡᱚᱜᱟᱣ ᱠᱚ, ᱟᱨ ᱮᱴᱟᱜ ᱦᱚᱲ ᱥᱟᱤᱴ ᱠᱚ ᱱᱚᱣᱟ ᱠᱟᱹᱢᱤ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱠᱩᱞᱤ ᱢᱮᱭᱟ ᱾
 exception-mgr-cert-location-url =
-    .value = जायगा ठांव:
+    .value = ᱴᱷᱟᱶ :
 exception-mgr-cert-location-download =
-    .label = पोरमान साकाम ञाम मे
+    .label = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱧᱟᱢ ᱢᱮ
     .accesskey = G
 exception-mgr-cert-status-view-cert =
-    .label = ञेनेल…
+    .label = ᱧᱮᱞ…
     .accesskey = V
 exception-mgr-permanent =
-    .label = नोवा बादाक् जाव ला़गित् जोगावाकाना
+    .label = ᱱᱚᱣᱟ ᱵᱟᱫᱟᱜ ᱡᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱡᱚᱜᱟᱣᱟᱠᱟᱱᱟ
     .accesskey = P
-pk11-bad-password = दानाङ साबाद आदेर बाङठिक आदेर होचो लेना.
-pkcs12-decode-err = रेत् दानाङ चिनहा़ बाङ ओचोक् दाड़ेयाक् आ. बाङ मा PKCS #12 तेयार रे ताहें काना, रा़पुद ताहें काना, आर बाङ आमेम आदेर होचो लेत् दानाङ साबाद बाङठिक ताहें काना.
-pkcs12-unknown-err-restore = PKCS #12 बाङ बाडाय कारोन ला़गित् ते दोहड़ा जोगाव डिगा़वेना.
-pkcs12-unknown-err-backup = PKCS #12 बाङ बाडाय कारोन ला़गित् ते बैकअप रेत् तेयार डिगा़वेना.
-pkcs12-unknown-err = PKCS #12 बाङ बाडाय कारोन को ला़गित् ते का़मी डिगा़वेना.
-pkcs12-info-no-smartcard-backup = स्मार्ट कार्ड लेका हार्डवेयार जा़पती साधोन खोन पोरमान साकाम को नोकोल सांचाव बाङ हुय दाड़ेयाक् आ.
-pkcs12-dup-data = जा़पती साधोन रे पोरमान साकाम आर निजेरा का़ठी माड़ाङ खोन मेनाक् आ.
+pk11-bad-password = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱟᱫᱮᱨ ᱵᱟᱝᱴᱷᱤᱠ ᱟᱫᱮᱨ ᱦᱚᱪᱚ ᱞᱮᱱᱟ᱾
+pkcs12-decode-err = ᱨᱮᱫ ᱫᱟᱱᱟᱝ ᱪᱤᱱᱦᱟᱹ ᱵᱟᱝ ᱚᱪᱚᱜ ᱫᱟᱲᱮᱭᱟᱜ ᱟ᱾ ᱵᱟᱝ ᱢᱟ PKCS #12 ᱛᱮᱭᱟᱨ ᱨᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ, ᱨᱟᱹᱯᱩᱫ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ, ᱟᱨ ᱵᱟᱝ ᱟᱢᱮᱢ ᱟᱫᱮᱨ ᱦᱚᱪᱚ ᱞᱮᱫ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱟᱝᱴᱷᱤᱠ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱾
+pkcs12-unknown-err-restore = PKCS #12 ᱵᱟᱝ ᱵᱟᱰᱟᱭ ᱠᱟᱨᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱫᱚᱦᱲᱟ ᱡᱚᱜᱟᱣ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ ᱾
+pkcs12-unknown-err-backup = PKCS #12 ᱵᱟᱝ ᱵᱟᱰᱟᱭ ᱠᱟᱨᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱵᱮᱭᱠᱚᱯ ᱨᱮᱫ ᱛᱮᱭᱟᱨ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ ᱾
+pkcs12-unknown-err = PKCS #12 ᱵᱟᱝ ᱵᱟᱰᱟᱭ ᱠᱟᱨᱚᱱ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱠᱟᱹᱢᱤ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ ᱾
+pkcs12-info-no-smartcard-backup = ᱥᱢᱟᱨᱴ ᱠᱟᱨᱰ ᱞᱮᱠᱟ ᱦᱟᱨᱰᱣᱮᱭᱟᱨ ᱡᱟᱹᱯᱛᱤ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱠᱚ ᱱᱚᱠᱚᱞ ᱥᱟᱸᱪᱟᱣ ᱵᱟᱝ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱾
+pkcs12-dup-data = ᱡᱟᱹᱯᱛᱤ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱟᱨ ᱱᱤᱡᱮᱨᱟ ᱠᱟᱹᱴᱷᱤ ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱢᱮᱱᱟᱜ ᱟ ᱾
 
 ## PKCS#12 file dialogs
 
-choose-p12-backup-file-dialog = नोकोल जोगाव ला़गित् रेत् ञुतुम.
-file-browse-pkcs12-spec = PKCS12 रेत् को
-choose-p12-restore-file-dialog = आ़गू ला़गित् पोरमान साकाम रेत्
+choose-p12-backup-file-dialog = ᱱᱚᱠᱚᱞ ᱡᱚᱜᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱨᱮᱫ ᱧᱩᱛᱩᱢ ᱾
+file-browse-pkcs12-spec = PKCS12 ᱨᱮᱫ ᱠᱚ
+choose-p12-restore-file-dialog = ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱨᱮᱫ
 
 ## Import certificate(s) file dialog
 
-file-browse-certificate-spec = पोरमान साकाम रेत्.
-import-ca-certs-prompt = आगु ला़गित् CA  पोरमान साकाम मेनाक् रेत् बाछाव होचोय में.
-import-email-cert-prompt = आ़गु ला़गित् जाहांयाक् इ-मेल मेनाक् पोरमान साकाम रेत् बाछाव होचोय मे.
+file-browse-certificate-spec = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱨᱮᱫ
+import-ca-certs-prompt = ᱟᱜᱩ ᱞᱟᱹᱜᱤᱫ CA ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱢᱮᱱᱟᱜ ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱦᱚᱪᱚᱭ ᱢᱮ ᱾
+import-email-cert-prompt = ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ ᱡᱟᱦᱟᱸᱭᱟᱜ ᱤ-ᱢᱮᱞ ᱢᱮᱱᱟᱜ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱦᱚᱪᱚᱭ ᱢᱮ ᱾
 
 ## For editing certificates trust
 
 # Variables:
 #   $certName: the name of certificate
-edit-trust-ca = पोरमान साकाम"{ $certName }" मित्  पोरमान साकाम  एमोगिच् उदुक् आय काना .
+edit-trust-ca = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ”{ $certName }” ᱢᱤᱫ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱮᱢᱚᱜᱤᱡ ᱩᱫᱩᱜ ᱟᱭ ᱠᱟᱱᱟ ᱾
 
 ## For Deleting Certificates
 
 delete-user-cert-title =
-    .title = आमाक पोरमान साकाम मेटाव में.
-delete-user-cert-confirm = चेत् आम नोवा पोरमान साकाम मेटाव गोटा आकात् आम ?
+    .title = ᱟᱢᱟᱜ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱢᱮᱴᱟᱣ ᱢᱮ ᱾
+delete-user-cert-confirm = ᱪᱮᱫ ᱟᱢ ᱱᱚᱣᱟ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱢᱮᱴᱟᱣ ᱜᱚᱴᱟ ᱟᱠᱟᱫ ᱟᱢ ?
 delete-user-cert-impact = जुदी आम निजेरा मित् पोरमान साकाम एम मेटावा, आम आर नोवा आमाक् उपरुम ला़गित् बाम बेभार दाड़ेयाक् आ.
 delete-ca-cert-title =
     .title = CA पोरमान साकाम को मेटाव आर बाङ बाङ पा़तया़वाक्
