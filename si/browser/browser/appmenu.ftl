@@ -196,6 +196,9 @@ appmenu-about =
 appmenu-get-help =
     .label = උදව් ගන්න
     .accesskey = h
+appmenu-help-more-troubleshooting-info =
+    .label = තවත් දොස් සෙවීමේ තොරතුරු
+    .accesskey = t
 appmenu-help-report-site-issue =
     .label = අඩවියේ දෝෂය වාර්තා කරන්න...
 appmenu-help-share-ideas =
@@ -205,10 +208,22 @@ appmenu-help-share-ideas =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = දොස් සෙවීමේ ප්‍රකාරය…
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = දොස් සෙවීම ප්‍රකාරය අක්‍රිය කරන්න
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = කූට අඩවි වාර්තා කරන්න…
+    .accesskey = d
+appmenu-help-not-deceptive =
+    .label = මෙය කූට අඩවියක් නොවේ…
+    .accesskey = d
 
 ## More Tools
 

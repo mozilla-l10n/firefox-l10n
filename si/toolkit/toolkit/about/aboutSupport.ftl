@@ -100,6 +100,7 @@ copy-raw-data-to-clipboard-label = අමු දත්ත පිටපතක් 
 sandbox-sys-call-age = තත්. කිහිපයකට පෙර
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
+restart-in-troubleshoot-mode-label = දොස් සෙවීමේ ප්‍රකාරය…
 restart-button-label = යළි අරඹන්න
 
 ## Media titles
@@ -237,6 +238,7 @@ policies-error = දෝෂය
 ## Printing section
 
 support-printing-title = මුද්‍රණය
+support-printing-troubleshoot = දොස් සෙවීම
 support-printing-clear-settings-button = සුරැකි මුද්‍රණ සැකසුම් මකන්න
 support-printing-modified-settings = සංශෝධිත මුද්‍රණ සැකසුම්
 support-printing-prefs-name = නම
