@@ -259,6 +259,8 @@ addon-detail-version-label = අනුවාදය
 addon-detail-last-updated-label = අවසාන යාවත්කාලය
 addon-detail-homepage-label = මුල් පිටුව
 addon-detail-rating-label = ඇගැයුම
+# Message for add-ons with a staged pending update.
+install-postponed-message = { -brand-short-name } නැවත ආරම්භ වන විට මෙම දිගුව යාවත්කාල වේ.
 install-postponed-button = යාවත්කාල කරන්න
 # This string is used to show that an add-on is disabled.
 # Variables:
