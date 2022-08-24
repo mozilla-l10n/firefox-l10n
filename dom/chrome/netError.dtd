@@ -55,8 +55,10 @@
 
 <!ENTITY unknownSocketType.title "වැරදි ප්‍රතිචාරයකි">
 
+<!ENTITY nssFailure2.title "ආරක්‍ෂිත සම්බන්ධතාවය බිඳ වැටුණි">
 <!ENTITY nssFailure2.longDesc2 "<p>ලැබුණු දත්තවල සත්‍යතාව තහවුරු කිරීමට නොහැකි නිසා ඔබ දැකීමට උත්සාහ කරන පිටුව පෙන්වීමට නොහැකිය.</p><ul><li>මෙම ගැටලුව පිළිබඳව අඩවියේ හිමිකරුවන්ට දන්වන්න.</li ></ul>">
 
+<!ENTITY nssBadCert.title "ආරක්‍ෂිත සම්බන්ධතාවය බිඳ වැටුණි">
 
 <!ENTITY securityOverride.linkText "හෝ ඔබට හැරදැමීමක් එක් කළ හැකිය…">
 
