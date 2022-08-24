@@ -7,6 +7,17 @@
 
 # Key shortcut used to focus the filter box on top of the data view
 storage-filter-key = CmdOrCtrl+F
+# Hint shown when the selected storage host does not contain any data
+storage-table-empty-text = තේරූ සත්කාරකය සඳහා දත්ත නැත
+# Hint shown when the local storage type is selected. Clicking the link will open
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/local_storage_session_storage/
+storage-table-type-localstorage-hint = සත්කාරකයක් තේරීමෙන් ස්ථානීය ආචයනය බලන්න සහ සංස්කරණය කරන්න. <a data-l10n-name="learn-more-link">තව දැනගන්න</a>
+# Hint shown when the session storage type is selected. Clicking the link will open
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/local_storage_session_storage/
+storage-table-type-sessionstorage-hint = සත්කාරකයක් තේරීමෙන් වාර ආචයනය බලන්න සහ සංස්කරණය කරන්න. <a data-l10n-name="learn-more-link">තව දැනගන්න</a>
+# Hint shown when the extension storage type is selected. Clicking the link will open
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/extension_storage/
+storage-table-type-extensionstorage-hint = සත්කාරකයක් තේරීමෙන් දිගු ආචයනය බලන්න හා සංස්කරණය කරන්න. <a data-l10n-name="learn-more-link">තව දැනගන්න</a>
 # Placeholder for the searchbox that allows you to filter the table items
 storage-search-box =
     .placeholder = අංග පෙරන්න
