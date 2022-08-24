@@ -50,3 +50,8 @@ about-private-browsing-promo-close-button =
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
 about-private-browsing-pin-promo-header = ᱢᱤᱫ ᱚᱛᱟ ᱨᱮ ᱱᱤᱡᱚᱨᱟᱜ ᱯᱨᱟᱭᱤᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱯᱷᱨᱤᱰᱚᱢ
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] ᱰᱚᱠ ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ
+       *[other] ᱠᱟᱹᱢᱤᱵᱟᱨ ᱨᱮ ᱞᱟᱴᱷᱟᱭ ᱢᱮ
+    }
