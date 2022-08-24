@@ -292,6 +292,13 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Emba’egueru kun
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Eiporavo pe sa’y nemokyre’ỹva
+mr2022-onboarding-colorway-subtitle = Ayvu okaygua omoambuekuaáva arandupy.
+mr2022-onboarding-colorway-primary-button-label = Emopyenda sa’y ojueheguáva
+mr2022-onboarding-existing-colorway-checkbox-label = Ejapo { -firefox-home-brand-name }-gui jeike isa’yetáva
+mr2022-onboarding-colorway-label-default = Ijypykue
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Ijypykue
 
 ## MR2022 Multistage Mobile Download screen strings
 
