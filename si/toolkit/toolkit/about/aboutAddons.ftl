@@ -179,9 +179,20 @@ addon-open-about-debugging = එක්කහු නිදොස්කරණය
 
 ## Extension shortcut management
 
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = දිගු කෙටිමං කළමනාකරණය
+    .accesskey = S
+shortcuts-no-addons = ඔබට කිසිදු දිගුවක් සබල කර නැත.
 shortcuts-no-commands = පහත දිගු සඳහා කෙටිමං නැත:
 shortcuts-input =
     .placeholder = කෙටිමඟක් ලියන්න
+shortcuts-system = { -brand-short-name } කෙටිමඟක් අභිබවීමට නොහැකිය
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = අනුපිටපත් කෙටිමඟකි
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = දැනටමත් { $addon } සඳහා භාවිතා කරයි
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] තවත් { $numberToShow } ක් පෙන්වන්න
