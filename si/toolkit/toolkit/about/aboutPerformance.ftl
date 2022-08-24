@@ -13,7 +13,7 @@ column-memory = මතකය
 
 ## Special values for the Name column
 
-ghost-windows = මෑතදී වැසු පටිති
+ghost-windows = මෑත දී වසා දැමූ පටිති
 
 ## Values for the Type column
 
