@@ -143,6 +143,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = ටිකක් ලියන්න, ගොඩක් සොයා ගන්න: ඔබගේ ලිපින තීරුවෙන් { $engineName } හි සොයන්න.
 urlbar-search-tips-redirect-2 = { $engineName } සහ පිරික්සුම් ඉතිහාසයෙන් යෝජනා බැලීමට ලිපින තීරුවෙහි සෙවීම අරඹන්න.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = අවශ්‍ය දෑ ඉක්මනින් සොයා ගැනීමට මෙම කෙටිමඟ තෝරන්න.
 
 ## Local search mode indicator labels in the urlbar
 
