@@ -357,6 +357,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Kečč·kemm d t·amesnulf
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Ɛeddi seg uselkim ɣer tiliɣri, neɣ seg tiliɣri ɣer uselkim
+mr2022-onboarding-mobile-download-subtitle = Lqeḍ accaren seg yiwen yibenk syen kemmel segwanda i tḥebseḍ ɣef yibenk-nniḍen. Daɣen, mtawi accaren-ik·im d wawalen uffiren anida akk i tesseqdaceḍ { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Smiḍen tangalt QR i wakken ad tawiḍ { -brand-product-name } i uziraz neɣ <a data-l10n-name="download-label">sader s timmad-ik·im aseɣwen n usader.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Smiḍen tangalt QR i wakken ad tawiḍ { -brand-product-name } i uziraz.
 
@@ -374,6 +375,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Nezga nettqadaṛ tabaḍnit
+mr2022-onboarding-privacy-segmentation-subtitle = Isumar imegza ɣer unadi amegzu, nxeddem akk tazmert-nneɣ i tmerna n { -brand-product-name } igerrzen ugar, d udmawan ugar.
 mr2022-onboarding-privacy-segmentation-cta-text = Mi ara d-nmudd timahilin timaynutin ara isseqqdacen isefka-k·m i usnerni n tunigin, tebɣiḍ ad twaliḍ:
 mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } iwellihen
 mr2022-onboarding-privacy-segmentation-secondary-button-label = Talɣut s telqayt
