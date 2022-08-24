@@ -9,6 +9,7 @@
 ## user accepts.
 
 prompt-to-install-title = { -brand-short-name } ස්ථාපනය නිමා කරන්නද?
+prompt-to-install-message = { -brand-short-name } යාවත්කාලීනව තබා ගැනීමට සහ දත්ත අහිමි වීම වැළැක්වීමට මෙම තනි-පියවර ස්ථාපනය සම්පූර්ණ කරන්න. { -brand-short-name } ඔබගේ යෙදුම් බහාලුමට සහ තැටියට එක් කරනු ඇත.
 prompt-to-install-yes-button = ස්ථාපනය
 prompt-to-install-no-button = ස්ථාපනය නොකරන්න
 
