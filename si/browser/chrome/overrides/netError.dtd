@@ -85,6 +85,12 @@
 
 
 
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>ලැබුණු දත්තවල සත්‍යතාව තහවුරු කළ නොහැකි නිසා ඔබ බැලීමට උත්සාහ කරන පිටුව පෙන්වීමට නොහැකිය.</li>
+  <li>මෙම ගැටලුව පිළිබඳව අඩවියේ හිමිකරුවන්ට දන්වන්න.</li>
+</ul>
+">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -135,3 +141,4 @@ was trying to connect. -->
 
 <!ENTITY prefReset.label "පෙරනිමි සැකසුම් ප්‍රත්‍යර්පණය">
 
+<!ENTITY networkProtocolError.longDesc "<p>ජාල කෙටුම්පතෙහි දෝෂයක් අනාවරණය වූ නිසා ඔබ බැලීමට උත්සාහ කරන පිටුව පෙන්වීමට නොහැකිය.</p><ul><li>මෙම ගැටලුව පිළිබඳව අඩවියේ හිමිකරුවන්ට දන්වන්න.</li></ul>">
