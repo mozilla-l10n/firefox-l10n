@@ -35,6 +35,24 @@ file-addressbook = Kter imedlisen n tansiwin
 
 ## Import from app profile steps
 
+from-app-thunderbird = Kter seg umaɣnu { app-name-thunderbird }
+from-app-seamonkey = Kter seg umaɣnu { app-name-seamonkey }
+from-app-outlook = Kter seg { app-name-outlook }
+from-app-becky = Kter seg { app-name-becky }
+from-app-apple-mail = Kter seg { app-name-apple-mail }
+profiles-pane-title-thunderbird = Kter iɣewwaren d yisefka seg umaɣnu { app-name-thunderbird }.
+profiles-pane-title-seamonkey = Kter iɣewwaren d yisefka seg umaɣnu { app-name-seamonkey }.
+profiles-pane-title-outlook = Kter isefka seg { app-name-outlook }.
+profiles-pane-title-becky = Kter isefka seg { app-name-becky }
+profiles-pane-title-apple-mail = Kter iznan seg { app-name-apple-mail }
+profile-source = Kter-d seg umaɣnu
+# $profileName (string) - name of the profile
+profile-source-named = Kter-d seg umaɣnu <strong>"{ $profileName }"</strong>
+profile-file-picker-directory = Fren akaram n umaɣnu
+profile-file-picker-archive = Fren afaylu <strong>ZIP</strong>
+profile-file-picker-archive-description = Afaylu ZIP ilaqq ad yili ddaw n 2GAṬ.
+profile-file-picker-archive-title = Fren afaylu zip (wezzilen ɣef 2GB)
+items-pane-title2 = Fren acu ara d-tketreḍ:
 items-pane-directory = Akaram:
 items-pane-profile-name = Isem n umaɣnu:
 items-pane-checkbox-accounts = Imiḍanen d Yiɣewwaren
@@ -94,6 +112,8 @@ export-brand-name = { -brand-product-name }
 
 ## Summary pane
 
+summary-pane-start = Bdu aktar
+summary-pane-start-over = Ales senker afecku n uktar
 
 ## Footer area
 
