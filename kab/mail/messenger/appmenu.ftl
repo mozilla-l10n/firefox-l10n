@@ -8,3 +8,8 @@
 appmenu-font-size-value = Teɣzi n tsefsit
 appmenuitem-font-size-enlarge =
     .tooltiptext = Semɣer teɣzi n tsefsit
+# Variables:
+# $size (String) - The current font size.
+appmenuitem-font-size-reset =
+    .label = { $size }px
+    .tooltiptext = Wennez teɣzi n tsefsit
