@@ -140,6 +140,7 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "<span class='mitm-name'/> පිළිබඳව ඔබට හුරුපුරුදු නැතිනම්, මෙය ප්‍රහාරයක් විය හැකිය. මෙම අඩවියට නොයා සිටින්න.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "<span class='mitm-name'/> පිළිබඳව ඔබට හුරුපුරුදු නැතිනම්, මෙය ප්‍රහාරයක් විය හැකිය. මෙම අඩවියට යාම සඳහා ඔබට කළ හැකි දෙයක් නැත.">
 
+<!ENTITY clockSkewError.longDesc "ඔබගේ පරිගණකය <span id='wrongSystemTime_systemDate1'/> යැයි නිගමනය කිරීම මත &brandShortName; ආරක්‍ෂිතව සම්බන්ධ නොවේ. <span class='hostname'></span> වෙත ගොඩවැදීමට ඔබගේ පද්ධතියේ සැකසුම් හරහා වත්මන් දිනය, වේලාව සහ වේලා කලාපයට පරිගණක ඔරලෝසුව යාවත්කාල කර, පසුව <span class='hostname'></span> නැවුම් කරන්න.">
 
 <!ENTITY prefReset.label "පෙරනිමි සැකසුම් ප්‍රත්‍යර්පණය">
 
