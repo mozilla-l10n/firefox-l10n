@@ -4,10 +4,11 @@
 
 addons-page-title = එක්කහු කළමනාකරු
 search-header =
-    .placeholder = addons.mozilla.org සොයන්න
+    .placeholder = addons.mozilla.org හි සොයන්න
     .searchbuttonlabel = සොයන්න
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = <a data-l10n-name="get-extensions">{ $domain }</a> වෙතින් දිගු සහ තේමා ගන්න
 list-empty-installed =
     .value = මෙම වර්ගයේ කිසිදු එක්කහුවක් ස්ථාපනය කර නැත
 list-empty-available-updates =
@@ -254,6 +255,8 @@ locale-enabled-heading = සබලයි
 locale-disabled-heading = අබලයි
 sitepermission-enabled-heading = සබලයි
 sitepermission-disabled-heading = අබලයි
+always-activate-button = සැමවිට සක්‍රිය
+never-activate-button = සැමවිට අක්‍රියයි
 addon-detail-author-label = කතෘ
 addon-detail-version-label = අනුවාදය
 addon-detail-last-updated-label = අවසාන යාවත්කාලය
@@ -310,6 +313,7 @@ addon-sitepermissions-required = <span data-l10n-name="hostname">{ $hostname }</
 
 extension-heading = ඔබගේ දිගු කළමනාකරණය
 theme-heading = ඔබගේ තේමා කළමනාකරණය
+plugin-heading = ඔබගේ පේනු කළමනාකරණය
 dictionary-heading = ඔබගේ ශබ්දකෝෂ කළමනාකරණය
 locale-heading = ඔබගේ භාෂා කළමනාකරණය
 updates-heading = ඔබගේ යාවත්කාල කළමනාකරණය
