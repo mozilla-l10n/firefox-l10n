@@ -182,9 +182,9 @@ appmenu-clear-history =
     .label = මෑත ඉතිහාසය මකන්න...
 appmenu-recent-history-subheader = මෑත ඉතිහාසය
 appmenu-recently-closed-tabs =
-    .label = මෑත දී වැසු පටිති
+    .label = මෑත දී වසා දැමූ පටිති
 appmenu-recently-closed-windows =
-    .label = මෑත දී වැසූ කවුළු
+    .label = මෑත දී වසා දැමූ කවුළු
 
 ## Help panel
 

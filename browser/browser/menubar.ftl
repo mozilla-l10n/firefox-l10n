@@ -191,9 +191,9 @@ menu-history-restore-last-session =
 menu-history-hidden-tabs =
     .label = සැඟවුණු පටිති
 menu-history-undo-menu =
-    .label = මෑත දී වැසු පටිති
+    .label = මෑත දී වසා දැමූ පටිති
 menu-history-undo-window-menu =
-    .label = මෑත දී වැසූ කවුළු
+    .label = මෑත දී වසා දැමූ කවුළු
 menu-history-reopen-all-tabs = සියළු පටිති යළි අරින්න
 menu-history-reopen-all-windows = සියළු කවුළු යළි අරින්න
 
