@@ -958,12 +958,17 @@ collection-health-report =
     .label = තාක්‍ෂණික හා අන්තර්ක්‍රියා දත්ත { -vendor-short-name } වෙත යැවීමට ඉඩ දෙන්න
     .accesskey = r
 collection-health-report-link = තව දැනගන්න
+collection-studies =
+    .label = { -brand-short-name } වෙත අධ්‍යන ස්ථාපනයට හා ධාවනයට ඉඩ දෙන්න
+collection-studies-link = { -brand-short-name } අධ්‍යන බලන්න
 addon-recommendations =
-    .label = { -brand-short-name } සඳහා පුද්ගලීකරණය කළ දිගු නිර්දේශ කිරීමට ඉඩ දෙන්න
+    .label = { -brand-short-name } වෙත පුද්ගලීකරණ දිගු නිර්දේශ සැකසීමට ඉඩ දෙන්න
 addon-recommendations-link = තව දැනගන්න
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = මෙම තැනීමේ වින්‍යාසය සඳහා දත්ත වාර්තාකරණය අබල කර ඇත
+collection-backlogged-crash-reports-with-link = ඔබට අතපසු වූ බිඳ වැටීම් වාර්තා යැවීමට ඉඩ දෙන්න <a data-l10n-name="crash-reports-link">තව දැනගන්න</a>
+    .accesskey = c
 
 ## Privacy Section - Security
 ##
@@ -971,6 +976,10 @@ collection-health-report-disabled = මෙම තැනීමේ වින්‍
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = ආරක්‍ෂාව
+security-browsing-protection = කූට අන්තර්ගත සහ භයානක මෘදුකාංග ආරක්‍ෂණය
+security-enable-safe-browsing =
+    .label = භයානක හා කූට අන්තර්ගත අවහිර කරන්න
+    .accesskey = B
 security-enable-safe-browsing-link = තව දැනගන්න
 security-block-downloads =
     .label = භයානක බාගැනීම් අවහිර කරන්න
