@@ -3,12 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fonts-window =
-    .title = මුද්‍රණඅකුරු
+    .title = මුද්‍රණ අකුරු
 fonts-window-close =
     .key = w
 
 ## Font groups by language
 
+fonts-langgroup-header = මුද්‍රණ අකුරු
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = අරාබි
 fonts-langgroup-armenian =
@@ -72,27 +74,27 @@ fonts-langgroup-other =
 ## Default fonts and their sizes
 
 fonts-proportional-header = සමානුපාතික
-    .accesskey = P
+    .accesskey = { "" }
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-fonts-proportional-size = ප්‍රමාණය
+fonts-proportional-size = තරම
     .accesskey = z
 fonts-serif = සෙරිෆ්
-    .accesskey = S
-fonts-sans-serif = සාන්ස්-සෙරිෆ්
-    .accesskey = n
+    .accesskey = { "" }
+fonts-sans-serif = සාන්ස් සෙරිෆ්
+    .accesskey = { "" }
 fonts-monospace = එකසම
     .accesskey = M
-fonts-monospace-size = ප්‍රමාණය
+fonts-monospace-size = තරම
     .accesskey = e
 fonts-minsize = අකුරේ අවම ප්‍රමාණය
     .accesskey = o
 fonts-minsize-none =
     .label = කිසිවක් නැත
 fonts-allow-own =
-    .label = ඉහත ඔබගේ තේරීම් වෙනුවට පිටුවලට අකුරු යොදා ගැනීමට  ඉඩ දෙන්න
+    .label = ඉහත ඔබගේ තේරීම් වෙනුවට පිටුවලට ඒවායේ අකුරු යොදා ගැනීමට ඉඩ දෙන්න
     .accesskey = A
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
