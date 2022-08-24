@@ -12,6 +12,9 @@
 ### across the developer tools. A good criteria is the language in which you'd find the
 ### best documentation on web development on the web.
 
+# Text displayed next to the list of Service Workers to encourage users to check out
+# about:debugging to see all registered Service Workers.
+serviceworker-list-aboutdebugging = වෙනත් වසම් වලින් සේවා ක්‍රියාකාරක සඳහා <a>about:debugging</a> අරින්න
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = ලියාපදිංචිය අහෝසිය
 # Text for the start link displayed for a registered but not running Service Worker.

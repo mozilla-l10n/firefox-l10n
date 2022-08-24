@@ -95,12 +95,12 @@ appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = අවසාන සමමුහූර්තය { $time }
     .label = අවසාන සමමුහූර්තය { $time }
-appmenu-fxa-sync-and-save-data2 = දත්ත සමමුහූර්ත කර සුරකින්න
+appmenu-fxa-sync-and-save-data2 = සමමුහූර්ත කර සුරකින්න
 appmenu-fxa-signed-in-label = පිවිසෙන්න
 appmenu-fxa-setup-sync =
     .label = සමමුහූර්තය සක්‍රිය කරන්න...
 appmenuitem-save-page =
-    .label = …ලෙස පිටුව සුරකින්න
+    .label = මෙලෙස පිටුව සුරකින්න
 
 ## What's New panel in App menu.
 
