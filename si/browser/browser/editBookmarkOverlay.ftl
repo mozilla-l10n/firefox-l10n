@@ -34,3 +34,5 @@ bookmark-overlay-tags-expander =
 bookmark-overlay-keyword-2 =
     .value = මූලපදය
     .accesskey = K
+bookmark-overlay-tags-caption-label = ලිපින තීරුවෙන් පොත්යොමු සංවිධානයට හා සෙවීමට අනන්‍යන යොදා ගන්න
+bookmark-overlay-keyword-caption-label-2 = ලිපින තීරුවෙන් කෙලින්ම පොත්යොමු විවෘත කිරීමට තනි මූලපදයක් යොදා ගන්න
