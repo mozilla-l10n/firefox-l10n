@@ -180,6 +180,8 @@ newtab-section-header-pocket = { $provider } විසින් නිර්ද�
 
 newtab-discovery-empty-section-topstories-try-again-button = යළි උත්සාහය
 newtab-discovery-empty-section-topstories-loading = පූරණය වෙමින්…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = අපොයි! මෙම කොටස මුළුමනින්ම පාහේ පූරණය වී ඇත, නමුත් හරියටම නොවේ.
 
 ## Pocket Content Section.
 

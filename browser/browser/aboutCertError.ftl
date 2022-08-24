@@ -17,6 +17,10 @@ cert-error-untrusted-default = සහතිකය විශ්වසන මූ�
 # $not-after-local-time (Date) - Certificate is not valid after this time.
 cert-error-expired-now = නිශ්චිත කාල සීමාවක් සඳහා වලංගු වන සහතික හරහා අඩවි ඔවුන්ගේ අනන්‍යතාවය ඔප්පු කරයි. { $hostname } සඳහා සහතිකය { $not-after-local-time } දී කල් ඉකුත් වී ඇත.
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = නිශ්චිත කාල සීමාවක් සඳහා වලංගු වන සහතික හරහා අඩවි ඔවුන්ගේ අනන්‍යතාවය ඔප්පු කරයි. { $hostname } සඳහා සහතිකය { $not-before-local-time } දක්වා වලංගු නොවේ.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = දෝෂ කේතය: <a data-l10n-name="error-code-link">{ $error }</a>
 cert-error-symantec-distrust-admin = මෙම ගැටළුව පිළිබඳව අඩවියේ පරිපාලක වෙත දැනුම් දීමට හැකිය
