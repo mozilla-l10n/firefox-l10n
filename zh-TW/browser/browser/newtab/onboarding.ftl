@@ -251,6 +251,8 @@ mr2022-onboarding-secondary-skip-button-label = 跳過這步
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = 只要輕鬆一點就可以從任何地方啟動 { -brand-short-name }。您每次這麼做的時候就是在選擇讓網路環境更加開放、獨立。
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -262,6 +264,8 @@ mr2022-onboarding-pin-primary-button-label =
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = 感謝您愛用 { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = 只要輕鬆一點就可以從任何地方啟動更健康的網路環境。最新推出的版本中，有我們認為您會喜歡的滿滿新鮮事。
 mr2022-onboarding-existing-pin-checkbox-label = 也加入 { -brand-short-name } 隱私瀏覽模式
 
 ## MR2022 New User Set Default screen strings
