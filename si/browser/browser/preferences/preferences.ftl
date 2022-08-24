@@ -821,7 +821,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = සෙවුම් යන්ත්‍ර
     .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = ඉක්මන් ක්‍රියාමාර්ග
+    .accesskey = Q
 addressbar-suggestions-settings = සෙවුම් යන්ත්‍රයේ යෝජනා සඳහා අභිප්‍රේත වෙනස් කරන්න
+addressbar-quickactions-learn-more = තව දැනගන්න
 
 ## Privacy Section - Content Blocking
 
