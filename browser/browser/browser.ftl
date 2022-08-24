@@ -277,6 +277,8 @@ quickactions-cmd-clearhistory = ඉතිහාසය මකන්න
 # Opens about:downloads page
 quickactions-downloads = බාගැනීම් අරින්න
 quickactions-cmd-downloads = බාගැනීම්
+# Opens the devtools web inspector
+quickactions-inspector = සෝදිසිය අරින්න
 # Opens about:logins
 quickactions-logins = පිවිසුම් බලන්න
 quickactions-cmd-logins = පිවිසුම්, මුරපද

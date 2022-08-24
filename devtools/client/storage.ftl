@@ -24,6 +24,9 @@ storage-search-box =
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = අගයන් පෙරන්න
+# Add Item button title
+storage-add-button =
+    .title = අංගයක් යොදන්න
 # Refresh button title
 storage-refresh-button =
     .title = අංග නැවුම් කරන්න

@@ -19,11 +19,15 @@ options-select-dev-tools-theme-label = තේමා
 ## Inspector section
 
 # The heading
-options-context-inspector = පරීක්‍ෂකය
+options-context-inspector = සෝදිසිකරු
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = අතිරික්සුවේ ශෛලීන් පෙන්වන්න
 options-show-user-agent-styles-tooltip =
     .title = සක්‍රිය කළහොත් අතිරික්සුවෙන් පූරණය වන පෙරනිමි ශෛලීන් පෙන්වයි.
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = ප්‍රමාණය වෙනස් කිරීමට ඔබාගෙන අදින්න
+options-inspector-draggable-properties-tooltip =
+    .title = සෝදිසිකරන නීති දැක්මෙහි ප්‍රමාණය වෙනස් කිරීමට ඔබාගෙන අදින්න.
 
 ## "Default Color Unit" options for the Inspector
 

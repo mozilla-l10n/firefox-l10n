@@ -187,6 +187,10 @@ about-debugging-collapse-expand-debug-targets = හකුළන්න / වි�
 # Displayed in the categories of "runtime" pages that don't have any debug target to
 # show. Debug targets depend on the category (extensions, tabs, workers...).
 about-debugging-debug-target-list-empty = තවම කිසිත් නැත.
+# Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
+# button will open a DevTools toolbox that will allow inspecting the target.
+# A target can be an addon, a tab, a worker...
+about-debugging-debug-target-inspect-button = සෝදිසිය
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = තාවකාලික එක්කහුව පූරණය…
@@ -247,6 +251,9 @@ about-debugging-worker-status-registering = ලියාපදිංචි ව�
 # of a worker
 about-debugging-worker-push-service =
     .label = තල්ලු සේවාව
+# Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
+about-debugging-zombie-tab-inspect-action-disabled =
+    .title = පටිත්ත පූරණය වී අවසන් නැති නිසා සෝදිසි කළ නොහැකිය
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = ප්‍රධාන සැකසීම

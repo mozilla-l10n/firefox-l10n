@@ -132,6 +132,8 @@ intl-os-title = මෙහෙයුම් පද්ධතිය
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = දුරස්ථ නිදොස්කරණය (ක්‍රෝමියම් කෙටුම්පත)
+remote-debugging-accepting-connections = සම්බන්ධතා පිළිගැනීම
 remote-debugging-url = ඒ.ස.නි.
 
 ##
