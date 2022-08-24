@@ -121,6 +121,14 @@ open-new-link-as-tabs =
 confirm-on-close-multiple-tabs =
     .label = පටිති කිහිපයක් වැසීමට පෙර තහවුරුව
     .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = { $quitKey } මඟින් ඉවත් වීමට පෙර තහවුරු කරන්න
+    .accesskey = b
 warn-on-open-many-tabs =
     .label = පටිති කිහිපයක් විවෘත කිරීමේදී { -brand-short-name } මන්දගාමී වීමට හැකි බව දන්වන්න
     .accesskey = d
