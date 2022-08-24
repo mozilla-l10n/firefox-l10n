@@ -148,6 +148,7 @@ containers-disable-alert-cancel-button = සබලව තබන්න
 
 language-and-appearance-header = භාෂාව සහ පෙනුම
 preferences-web-appearance-header = අඩවියේ පෙනුම
+preferences-web-appearance-description = ඔබගේ අභිප්‍රේත මත පදනම්ව ඇතැම් වියමන අඩවිවල වර්ණ රටාව සැකසෙයි. එම අඩවි සඳහා භාවිතා කිරීමට කැමති වර්ණ රටාව තෝරන්න.
 preferences-web-appearance-choice-browser = { -brand-short-name } තේමාව
 preferences-web-appearance-choice-system = පද්ධතියේ තේමාව
 preferences-web-appearance-choice-light = දීප්ත
