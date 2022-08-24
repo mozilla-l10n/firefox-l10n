@@ -278,6 +278,7 @@ mr2022-onboarding-colorway-primary-button-label = වර්ණ පරාසය �
 mr2022-onboarding-colorway-label-default = පෙරනිමි
 mr2022-onboarding-colorway-tooltip-default =
     .title = පෙරනිමි
+mr2022-onboarding-colorway-description-default = <b>මාගේ වත්මන් { -brand-short-name } වර්ණ යොදා ගන්න.</b>
 
 ## MR2022 Multistage Mobile Download screen strings
 

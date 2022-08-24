@@ -175,14 +175,15 @@ preferences-web-appearance-override-warning = ඔබගේ වර්ණ තේ�
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = <a data-l10n-name="themes-link">දිගු සහ තේමා</a> තුළ { -brand-short-name } තේමා කළමනාකරණය කරන්න
 preferences-colors-header = වර්ණ
+preferences-colors-description = පෙළ, අඩවිවල පසුබිම් හා සබැඳි සඳහා { -brand-short-name } හි පෙරනිමි වර්ණ අභිබවන්න.
 preferences-colors-manage-button =
     .label = වර්ණ කළමනාකරණය...
     .accesskey = C
 preferences-fonts-header = මුද්‍රණඅකුර
 default-font = පෙරනිමි අකුර
-    .accesskey = D
+    .accesskey = { "" }
 default-font-size = තරම
-    .accesskey = S
+    .accesskey = { "" }
 advanced-fonts =
     .label = වැඩිදුර...
     .accesskey = A
