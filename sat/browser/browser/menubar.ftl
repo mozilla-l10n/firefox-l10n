@@ -185,7 +185,7 @@ menu-view-full-screen =
 ##
 
 menu-view-show-all-tabs =
-    .label = ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱫᱮᱠᱷᱟᱣ  ᱢᱮ
+    .label = ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
     .accesskey = ᱴ
 menu-view-bidi-switch-page-direction =
     .label = ᱥᱟᱦᱴᱟ ᱱᱟᱠᱷᱟ ᱚᱛᱟᱭ ᱢᱮ
