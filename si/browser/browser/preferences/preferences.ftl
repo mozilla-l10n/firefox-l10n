@@ -826,6 +826,7 @@ addressbar-suggestions-settings = සෙවුම් යන්ත්‍රයේ
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = දියුණුකළ ලුහුබැඳීමේ රැකවරණය
+content-blocking-section-top-level-description = ලුහුබැඳීම් මගින් ඔබගේ මාර්ගගත පිරික්සුම් පුරුදු සහ රුචිකත්ව පිළිබඳව තොරතුරු රැස් කරයි. { -brand-short-name } මෙවැනි ලුහුබැඳීම් බොහොමයක් සහ අනෙකුත් අනිෂ්ට අත්පත් අවහිර කරයි.
 content-blocking-learn-more = තව දැනගන්න
 
 ## These strings are used to define the different levels of
