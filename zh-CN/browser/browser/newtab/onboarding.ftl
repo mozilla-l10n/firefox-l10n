@@ -252,6 +252,8 @@ mr2022-onboarding-pin-primary-button-label =
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = 感谢您对 { -brand-product-name } 的青睐
 
 ## MR2022 New User Set Default screen strings
 
