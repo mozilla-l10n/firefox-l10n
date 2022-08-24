@@ -53,7 +53,7 @@ policy-DisableTelemetry = Diffodd Telemetreg
 policy-DisplayBookmarksToolbar = Dangos y Bar Offer Nodau Tudalen drwy ragosodiad.
 policy-DisplayMenuBar = Dangos y Bar Dewislen drwy ragosodiad
 policy-DNSOverHTTPS = Ffurfweddu DNS dros HTTPS.
-policy-DontCheckDefaultBrowser = Analluogi gwirio am y porwr rhagosodedig wrth gychwyn.
+policy-DontCheckDefaultBrowser = Analluogwch gwirio am y porwr rhagosodedig wrth gychwyn.
 policy-DownloadDirectory = Gosod a chloi'r cyfeiriadur llwytho i lawr.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Galluogi neu analluogi Rhwystro Cynnwys ac o ddewis ei gloi.

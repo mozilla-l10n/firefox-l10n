@@ -12,15 +12,15 @@ update-updateButton =
     .label = Ailgychwyn i ddiweddaru { -brand-shorter-name }
     .accesskey = A
 update-checkingForUpdates = Wrthi'n gwirio am ddiweddariadau…
-update-downloading = <img data-l10n-name="icon"/>Llwytho'r diweddariad i lawr — <label data-l10n-name="download-status"/>
-update-downloading-message = Yn llwytho i lawr y diweddariad — <label data-l10n-name="download-status"/>
-update-applying = Gosod y diweddariad…
+update-downloading = <img data-l10n-name="icon"/>Wrthi'n llwytho'r diweddariad i lawr — <label data-l10n-name="download-status"/>
+update-downloading-message = Wrthi'n llwytho'r diweddariad i lawr — <label data-l10n-name="download-status"/>
+update-applying = Wrthi'n gosod y diweddariad…
 update-failed = Methodd y diweddaru. <label data-l10n-name="failed-link">Llwythwch y fersiwn diweddaraf i lawr</label>
 update-failed-main = Methodd y diweddaru. <a data-l10n-name="failed-link-main">Llwythwch y fersiwn diweddaraf i lawr</a>
 update-adminDisabled = Mae'r diweddariad wedi ei analluogi gan eich gweinyddwr
 update-noUpdatesFound = Mae { -brand-short-name } yn gyfredol
 update-otherInstanceHandlingUpdates = Mae { -brand-short-name } yn cael ei ddiweddaru gan enghraifft arall
-update-manual = Diweddariadau ar gael yn <label data-l10n-name="manual-link"/>
+update-manual = Mae diweddariadau ar gael yn <label data-l10n-name="manual-link"/>
 update-unsupported = Nid oes modd i chi ddiweddaru'r system hon ymhellach. <label data-l10n-name="unsupported-link">Dysgu rhagor</label>
 update-restarting = Ailgychwyn…
 channel-description = Rydych ar sianel diweddaru <label data-l10n-name="current-channel"></label>.

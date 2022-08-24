@@ -10,7 +10,7 @@ appmenu-update-available2 =
     .secondarybuttonaccesskey = C
 appmenu-update-available-message2 = Llwythwch y fersiwn ddiweddaraf o { -brand-shorter-name } i lawr.
 appmenu-update-manual2 =
-    .label = Diweddariad ar gael
+    .label = Mae diweddariad ar gael
     .buttonlabel = Llwytho i lawr
     .buttonaccesskey = L
     .secondarybuttonlabel = Cau
@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Nid Nawr
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Mae diweddariad newydd { -brand-shorter-name } ar gael, ond nid oes modd ei osod oherwydd bod copi arall o { -brand-shorter-name } yn rhedeg. Caewch ef i barhau â'r diweddariad, neu dewiswch ei ddiweddaru beth bynnag (efallai na fydd y copi arall yn gweithio'n iawn nes i chi ei ailgychwyn).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Iawn
     .buttonaccesskey = I
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Rheolwch eich estyniadau a'ch themâu trwy
 appmenu-addon-post-install-incognito-checkbox =
     .label = Caniatáu i'r estyniad yma redeg mewn Ffenestri Preifat
     .accesskey = C
-    
 appmenu-new-tab-controlled-changes =
     .label = Mae eich tab newydd wedi newid.
     .buttonlabel = Cadw'r Newidiadau
