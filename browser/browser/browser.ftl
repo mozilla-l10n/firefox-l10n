@@ -667,6 +667,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = වත්මන් පටිත්තට පොත්යොමුවක්
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = වත්මන් පටිත්තට පොත්යොමුවක්…
 
 ## Library Panel items
 
