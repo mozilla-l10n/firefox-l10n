@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = ᱫᱤᱜᱫᱷᱟᱹ ᱥᱟᱦᱟ ᱵᱟᱰᱟᱭ ᱛᱮᱫ ᱠᱚ
+page-subtitle = ᱱᱚᱣᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱯᱨᱚᱣᱫᱭᱚᱜᱤᱠᱤ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱢᱮᱱᱟᱜ ᱟ ᱾ ᱳᱠᱟ ᱫᱚ ᱞᱟᱵ ᱧᱟᱢᱚᱜᱟᱜ ᱠᱟᱱᱟ, ᱛᱤᱱ ᱨᱮ ᱟᱢ ᱢᱤᱫ ᱫᱤᱧᱜᱷᱟ ᱥᱟᱹᱛ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱨᱩᱢᱩᱴᱩᱭᱟ ᱾ ᱡᱩᱫᱤ ᱟᱢ ᱥᱟᱫᱷᱟᱨᱚᱱ ᱠᱩᱠᱞᱤ ᱞᱟᱹᱭ ᱞᱟᱹᱜᱤᱫ ᱧᱮᱞᱮᱫ ᱟᱢ { -brand-short-name }, ᱵᱟᱵᱚᱛ ᱛᱮ ᱟᱞᱮᱭᱟᱜ ᱛᱮᱸᱜᱷᱟᱱᱟ ᱢᱮ <a data-l10n-name="support-link"> ᱜᱚᱲᱚ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ</a> ᱾
 crashes-title = ᱨᱟᱹᱯᱩᱫ ᱨᱤᱯᱚᱨᱴ ᱠᱚ
 crashes-id = ᱨᱤᱯᱚᱨᱴ ID
 crashes-send-date = ᱡᱚᱢᱟ ᱮᱢ ᱟᱠᱟᱜ
@@ -23,7 +24,7 @@ app-basics-memory-use = ᱢᱮᱢᱚᱨᱤ ᱵᱮᱵᱷᱟᱨ
 app-basics-multi-process-support = ᱟᱹᱰᱤ ᱞ ᱞᱮᱠᱟᱱ ᱠᱟᱹᱢᱤ ᱣᱤᱱᱰᱚ᱾
 modified-key-prefs-title = ᱢᱚᱦᱚᱛ ᱵᱚᱫᱚᱞᱟᱜ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ
 user-js-title = user.js ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ
-user-js-description = ᱟᱢᱟᱜ ᱯᱨᱚᱯᱷᱟᱤᱞ ᱯᱚᱴᱚᱢ ᱨᱮ <a data-l10n-name="user-js-link">user.js</a> ᱨᱮᱫ,ᱢᱮᱱᱟᱜ ᱟ, ᱳᱠᱟ ᱨᱮ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ ᱥᱟᱹᱢᱤᱞ ᱢᱮᱱᱟᱜ ᱟ ᱳᱠᱟ ᱫᱚ { -brand-short-name } ᱫᱟᱨᱟᱭ ᱛᱮ ᱵᱟᱭ ᱛᱮᱭᱟᱨ ᱞᱮᱱ ᱛᱟᱦᱮᱸᱱᱟ᱾
+user-js-description = ᱟᱢᱟᱜ ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱯᱚᱴᱚᱢ ᱨᱮ <a data-l10n-name="user-js-link">user.js</a> ᱨᱮᱫ, ᱢᱮᱱᱟᱜᱼᱟ, ᱡᱟᱦᱟᱸ ᱨᱮ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ ᱥᱟᱹᱢᱤᱞ ᱢᱮᱱᱟᱜ ᱟ ᱚᱠᱟ ᱫᱚ { -brand-short-name } ᱫᱟᱨᱟᱭ ᱛᱮ ᱵᱟᱭ ᱛᱮᱭᱟᱨ ᱞᱮᱱ ᱛᱟᱦᱮᱸᱱᱟ ᱾
 locked-key-prefs-title = ᱢᱚᱦᱚᱛ ᱠᱩᱞᱩᱯᱟᱜ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ ᱾
 graphics-title = ᱜᱟᱨ ᱪᱤᱛᱟᱹᱨ ᱠᱚ
 a11y-title = ᱟᱹᱛᱩᱨ ᱫᱟᱲᱮ ᱛᱮᱫ
