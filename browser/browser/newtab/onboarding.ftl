@@ -356,6 +356,9 @@ mr2022-onboarding-colorway-description-innovator = <b>Du är en innovatör.</b> 
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Byt från bärbar dator till telefon och tillbaka igen
+mr2022-onboarding-mobile-download-subtitle = Hämta flikar från en annan enhet och fortsätt precis där du slutade. Synkronisera även dina bokmärken och lösenord var du än använder { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Skanna QR-koden för att hämta { -brand-product-name } för mobil eller <a data-l10n-name="download-label">skicka en nedladdningslänk till dig själv.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Skanna QR-koden för att skaffa { -brand-product-name } för mobil.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -370,6 +373,15 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Vi respekterar alltid din integritet
+mr2022-onboarding-privacy-segmentation-subtitle = Från intelligenta förslag till smartare sökningar, vi arbetar ständigt med att skapa ett bättre och mer personligt { -brand-product-name }.
+mr2022-onboarding-privacy-segmentation-cta-text = När vi erbjuder nya funktioner som använder din data för att förbättra din surfning, vill du se:
+mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } rekommendationer
+mr2022-onboarding-privacy-segmentation-secondary-button-label = Detaljerad information
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Du hjälper oss att bygga en bättre webb.
+mr2022-onboarding-gratitude-subtitle = Tack för att du använder { -brand-short-name }, med stöd av Mozilla Foundation. Med ditt stöd arbetar vi för att göra internet mer öppet, tillgängligt och bättre för alla.
+mr2022-onboarding-gratitude-primary-button-label = Se vad som är nytt
+mr2022-onboarding-gratitude-secondary-button-label = Börja surfa
