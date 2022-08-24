@@ -281,6 +281,8 @@ mr2022-onboarding-existing-pin-checkbox-label = Embojuaju kundaha ñemigua { -br
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Ejapo { -brand-short-name }-gui ne kundaha ehayhuvévarõ
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -343,3 +345,5 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-primary-button-label = Ehecha mba’epyahu
+mr2022-onboarding-gratitude-secondary-button-label = Eñepyrũ eikundaha

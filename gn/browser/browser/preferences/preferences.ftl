@@ -933,6 +933,9 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Hekaha mongu’eha
     .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = Jeku’e pya’e
+    .accesskey = Q
 addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu’eha je’epyre moambue
 addressbar-quickactions-learn-more = Kuaave
 
