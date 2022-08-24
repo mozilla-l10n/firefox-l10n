@@ -284,11 +284,20 @@ menu-help =
 menu-get-help =
     .label = උදව් ගන්න
     .accesskey = H
+menu-help-more-troubleshooting-info =
+    .label = තවත් දොස් සෙවීමේ තොරතුරු
+    .accesskey = T
 menu-help-report-site-issue =
     .label = අඩවියේ දෝෂ වාර්තාව…
 menu-help-share-ideas =
     .label = අදහස් හා ප්‍රතිපෝෂණ බෙදාගන්න...
     .accesskey = S
+menu-help-enter-troubleshoot-mode2 =
+    .label = දොස් සෙවීමේ ප්‍රකාරය…
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = දොස් සෙවීම ප්‍රකාරය අක්‍රිය කරන්න
+    .accesskey = M
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
