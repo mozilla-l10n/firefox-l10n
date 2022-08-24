@@ -297,6 +297,7 @@ quickactions-screenshot2 = තිර සේයාවක් ගන්න
 quickactions-cmd-screenshot = තිරසේයාව
 # Opens about:preferences
 quickactions-settings = සැකසුම් අරින්න
+quickactions-cmd-settings = සැකසුම්, අභිප්‍රේත, විකල්ප
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } යාවත්කාල
 quickactions-cmd-update = යාවත්කාල
