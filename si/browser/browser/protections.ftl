@@ -6,6 +6,10 @@
 graph-week-summary-private-window = මෙම සතියේදී { -brand-short-name } අවහිර කළ ලුහුබැඳීම්
 protection-report-webpage-title = රැකවරණ උපකරණ පුවරුව
 protection-report-page-content-title = රැකවරණ උපකරණ පුවරුව
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = ඔබ පිරික්සන අතරතුර { -brand-short-name } මගින් පසුබිමින් ඔබගේ පෞද්ගලිකත්වය ආරක්‍ෂා කළ හැකිය. මෙය ඔබගේ මාර්ගගත ආරක්‍ෂාව පාලනය කිරීමට මෙවලම් මෙන්ම, එම ආරක්‍ෂාවන් පුද්ගලීකරණය කළ සාරාංශයකි.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = ඔබ පිරික්සන අතරතුර { -brand-short-name } මගින් පසුබිමින් ඔබගේ පෞද්ගලිකත්වය ආරක්‍ෂා කළ හැකිය. මෙය ඔබගේ මාර්ගගත ආරක්‍ෂාව පාලනය කිරීමට මෙවලම් මෙන්ම, එම ආරක්‍ෂාවන් පුද්ගලීකරණය කළ සාරාංශයකි.
 protection-report-settings-link = පෞද්ගලිකත්ව හා ආරක්‍ෂණ සැකසුම් කළමනාකරණය
 etp-card-title-always = දියුණුකළ ලුහුබැඳීමේ රැකවරණය: සැමවිට සක්‍රියයි
 etp-card-title-custom-not-blocking = දියුණුකළ ලුහුබැඳීමේ රැකවරණය: අක්‍රියයි
