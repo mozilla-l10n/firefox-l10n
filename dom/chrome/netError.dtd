@@ -30,6 +30,7 @@
 <!ENTITY netOffline.title "මාර්ගඅපගත ප්‍රකාරය">
 
 <!ENTITY contentEncodingError.title "අන්තර්ගත ආකේතන දෝෂයකි">
+<!ENTITY contentEncodingError.longDesc "<p>ඔබ දැකීමට උත්සාහ කරන පිටුව වලංගු නොවන හෝ සහාය නොදක්වන හැකිළුම් අන්දමක් භාවිතා කරන නිසා පෙන්වීමට නොහැකිය.</p><ul><li>මෙම ගැටලුව පිළිබඳව අඩවියේ හිමිකරුවන්ට දන්වන්න.</li></ul>">
 
 <!ENTITY unsafeContentType.title "අනාරක්‍ෂිත ගොනු වර්ගයකි">
 <!ENTITY unsafeContentType.longDesc "
@@ -51,6 +52,7 @@
 
 <!ENTITY unknownSocketType.title "වැරදි ප්‍රතිචාරයකි">
 
+<!ENTITY nssFailure2.longDesc2 "<p>ලැබුණු දත්තවල සත්‍යතාව තහවුරු කිරීමට නොහැකි නිසා ඔබ දැකීමට උත්සාහ කරන පිටුව පෙන්වීමට නොහැකිය.</p><ul><li>මෙම ගැටලුව පිළිබඳව අඩවියේ හිමිකරුවන්ට දන්වන්න.</li ></ul>">
 
 
 <!ENTITY securityOverride.linkText "හෝ ඔබට හැරදැමීමක් එක් කළ හැකිය…">
@@ -58,6 +60,7 @@
 <!ENTITY cspBlocked.title "අන්තර්ගත ආරක්‍ෂණ ප්‍රතිපත්තිය මගින් අවහිරයි">
 
 
+<!ENTITY corruptedContentErrorv2.longDesc "<p>දත්ත සම්ප්‍රේෂණ දෝෂයක් අනාවරණය වූ නිසා ඔබ දැකීමට උත්සාහ කරන පිටුව පෙන්වීමට නොහැකිය.</p><ul><li>මෙම ගැටලුව පිළිබඳව අඩවියේ හිමිකරුවන්ට දන්වන්න.</li></ul>">
 
 <!ENTITY inadequateSecurityError.title "ඔබගේ සම්බන්ධතාවය අනාරක්‍ෂිතයි">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
