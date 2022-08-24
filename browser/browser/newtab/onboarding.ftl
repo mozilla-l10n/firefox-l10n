@@ -251,6 +251,11 @@ mr2022-onboarding-secondary-skip-button-label = 跳過這步
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = 探索驚人的網路世界
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
 mr2022-onboarding-welcome-pin-subtitle = 只要輕鬆一點就可以從任何地方啟動 { -brand-short-name }。您每次這麼做的時候就是在選擇讓網路環境更加開放、獨立。
 # Primary button string used on welcome page for when Firefox is not pinned.
@@ -259,6 +264,11 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] 將 { -brand-short-name } 保留在 Dock
        *[other] 將 { -brand-short-name } 釘選到工具列
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = 從非營利組織在背後開發的瀏覽器出發。我們會在您上網時捍衛您的隱私權。
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -335,6 +345,7 @@ mr2022-onboarding-colorway-description-innovator = <b>您是創造者。</b>您�
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-cta-text = 掃描 QR Code 即可下載 { -brand-product-name } 行動版，也可以<a data-l10n-name="download-label">傳送下載鏈結給自己。</a>
 mr2022-onboarding-no-mobile-download-cta-text = 掃描這組 QR Code，下載 { -brand-product-name } 行動版。
 
 ## MR2022 Upgrade Dialog screens
@@ -351,11 +362,13 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = 我們始終尊重您的隱私權
+mr2022-onboarding-privacy-segmentation-cta-text = 當我們提供透過使用您的資料來加強上網過程的新功能時，您會想要看到：
 mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } 推薦
 mr2022-onboarding-privacy-segmentation-secondary-button-label = 詳細資訊
 
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = 您正在幫助我們打造更好的網路環境。
+mr2022-onboarding-gratitude-subtitle = 感謝您使用由 Mozilla Foundation 所支持開發的 { -brand-short-name }。透過您的支援，我們努力讓網路環境變得更好、更開放、更可被所有人使用。
 mr2022-onboarding-gratitude-primary-button-label = 看看有什麼新鮮事
 mr2022-onboarding-gratitude-secondary-button-label = 開始瀏覽
