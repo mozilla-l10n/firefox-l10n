@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = ᱣᱤᱡᱟᱹᱲ ᱟᱹᱜᱩ
-
 import-from =
     { PLATFORM() ->
         [windows] ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱟᱹᱜᱩ, ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ, ᱦᱤᱛᱟᱹᱞ, ᱫᱚᱱᱚᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ ᱟᱨ ᱮᱴᱟᱜ ᱰᱟᱴᱟ ᱠᱷᱚᱱ:
        *[other] ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ ᱟᱹᱜᱩ, ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ, ᱦᱤᱛᱟᱹᱞ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ
     }
-
 import-from-bookmarks = ᱠᱷᱚᱱ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱟᱹᱜᱩ:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -34,7 +32,7 @@ import-from-brave =
     .label = Brave
     .accesskey = r
 import-from-canary =
-    .label = Chrome Canary
+    .label = Chrome Canraryr
     .accesskey = n
 import-from-chrome =
     .label = Chrome
@@ -54,37 +52,23 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-
 no-migration-sources = ᱡᱟᱦᱱᱟᱜ ᱯᱨᱚᱜᱽᱨᱟᱢ ᱵᱟᱝ ᱚᱠᱟ ᱨᱮ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱢᱮᱱᱟᱜ ᱟ ᱦᱤᱛᱟᱹᱞ ᱟᱨ ᱵᱟᱝ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱰᱟᱴᱟ ᱵᱟᱭ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
-
 import-source-page-title = ᱥᱟᱡᱣᱟ ᱠᱚ ᱟᱨ ᱰᱟᱴᱟ ᱟᱹᱜᱩ
 import-items-page-title = ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ ᱡᱱᱤᱥ ᱠᱚ
-
 import-items-description = ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱚᱞᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱟᱹᱜᱩᱭ ᱞᱟᱹᱜᱤᱫ:
-
 import-permissions-page-title = ᱫᱟᱭᱟᱠᱟᱛᱮ { -brand-short-name } ᱪᱷᱟᱲ ᱮᱢᱟᱭ ᱢᱮ
-
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS ᱫᱚ ᱟᱢ { -brand-short-name } ᱥᱟᱹᱯᱷᱟᱹᱨᱤ ᱵᱩᱠᱢᱟᱨᱠ ᱪᱷᱟᱲ ᱮᱢᱟᱭᱟᱭ ᱾ ᱨᱮᱫᱽ ᱦᱟᱹᱡᱩᱜ ᱯᱮᱱᱟᱞ ᱠᱷᱚᱱ ”ᱞᱟᱦᱟ” ᱟᱨ ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ “ ᱥᱢ Bookmarks.plist ᱨᱮ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
-
 import-migrating-page-title = ᱟᱹᱜᱩᱭᱮᱫ ᱟ…
-
 import-migrating-description = ᱱᱚᱶᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱫᱚ ᱱᱤᱛᱚᱜ ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ…
-
 import-select-profile-page-title = ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
-
 import-select-profile-description = ᱱᱚᱶᱟ ᱯᱨᱚᱯᱷᱟᱩᱤᱞ ᱠᱚ ᱫᱚ ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ ᱧᱟᱢᱚᱜᱼᱟ ᱠᱷᱚᱱ:
-
 import-done-page-title = ᱟᱹᱜᱩ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
-
 import-done-description = ᱱᱚᱶᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱵᱮᱥ ᱞᱮᱠᱟᱛᱮ ᱟᱹᱜᱩ ᱠᱮᱱ ᱛᱟᱦᱮᱸᱱᱟ:
-
 import-close-source-browser = ᱫᱟᱭᱟᱠᱟᱛᱮ ᱞᱟᱦᱟ ᱢᱟᱲᱟᱝ ᱨᱮ ᱧᱮᱞ ᱵᱤᱲᱟᱹᱜ ᱠᱟᱜ ᱡᱮ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱱ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱱᱟ ᱾
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-
 imported-safari-reading-list = ᱯᱟᱲᱦᱟᱣ ᱥᱩᱪᱤ  (Safari ᱠᱷᱚᱱ)
 imported-edge-reading-list = ᱯᱟᱲᱦᱟᱣ ᱥᱩᱪᱤ  (Edge ᱠᱷᱚᱱ)
 
@@ -106,7 +90,6 @@ browser-data-cookies-checkbox =
     .label = ᱠᱩᱠᱤ ᱠᱚ
 browser-data-cookies-label =
     .value = ᱠᱩᱠᱤᱡᱠᱚ
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -119,12 +102,10 @@ browser-data-history-label =
             [firefox] ᱱᱟᱜᱟᱢ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
            *[other] ᱱᱟᱜᱟᱢ ᱯᱟᱱᱛᱮ
         }
-
 browser-data-formdata-checkbox =
     .label = ᱱᱟᱜᱟᱢ ᱠᱷᱚᱱ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱᱟ
 browser-data-formdata-label =
     .value = ᱱᱟᱜᱟᱢ ᱠᱷᱚᱱ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱᱟ
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -133,7 +114,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱞᱚᱜᱤᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -148,12 +128,10 @@ browser-data-bookmarks-label =
             [edge] ᱠᱩᱥᱤ ᱠᱚ
            *[other] ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
         }
-
 browser-data-otherdata-checkbox =
     .label = ᱮᱴᱟᱜ ᱰᱟᱴᱟ
 browser-data-otherdata-label =
     .label = ᱮᱴᱟᱜ ᱰᱟᱴᱟ
-
 browser-data-session-checkbox =
     .label = ᱣᱤᱱᱰᱚ ᱟᱨ ᱴᱮᱵᱥ ᱠᱚ
 browser-data-session-label =
