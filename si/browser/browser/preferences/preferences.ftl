@@ -582,6 +582,7 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+sync-signedout-caption = වියමන ඔබ සමඟ ගෙනයන්න
 sync-signedout-description2 = ඔබගේ සියළුම උපාංග වලට ඔබගේ පොත්යොමු, ඉතිහාසය, පටිති, මුරපද, එක්කහු සහ සැකසුම් සමමුහූර්ත කරන්න.
 sync-signedout-account-signin3 =
     .label = සමමුහූර්තයට පිවිසෙන්න…
