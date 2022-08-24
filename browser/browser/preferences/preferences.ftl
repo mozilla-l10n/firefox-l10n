@@ -535,6 +535,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = සෙවුම් යෝජනා ලිපින තීරුවේ පෙන්වන්න
     .accesskey = I
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = පිරික්සුම් ඉතිහාසයට පෙර සෙවුම් යෝජනා ලිපින තීරු ප්‍රතිඵලවල පෙන්වන්න
 search-show-suggestions-private-windows =
     .label = පෞද්. කවුළුවල සෙවුම් යෝජනා පෙන්වන්න
 suggestions-addressbar-settings-generic2 = අන් ලිපින තීරු යෝජනා සඳහා සැකසුම් වෙනස් කරන්න
@@ -857,6 +864,11 @@ content-blocking-option-private =
 content-blocking-tracking-protection-change-block-list = අවහිර ලේඛන සංශෝධනය
 content-blocking-expand-section =
     .tooltiptext = තව තොරතුරු
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = ඇඟිලි සටහන්
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
