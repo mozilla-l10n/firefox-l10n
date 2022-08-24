@@ -8,6 +8,7 @@
 more-from-moz-title = { -vendor-short-name } වෙතින් තවත්
 more-from-moz-category =
     .tooltiptext = { -vendor-short-name } වෙතින් තවත්
+more-from-moz-subtitle = හිතකර අන්තර්ජාලයක් වෙනුවෙන් සහාය වීමට ක්‍රියා කරන වෙනත් { -vendor-short-name } නිෂ්පාදන බලන්න.
 more-from-moz-firefox-mobile-title = ජංගම { -brand-product-name }
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
