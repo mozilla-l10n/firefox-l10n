@@ -7,6 +7,8 @@ protections-panel-sendreportview-error = වාර්තාව යැවීම�
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+protections-popup-footer-protection-label-strict = දැඩි
+    .label = දැඩි
 protections-popup-footer-protection-label-custom = අභිරුචි
     .label = අභිරුචි
 protections-popup-footer-protection-label-standard = සම්මත
