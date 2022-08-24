@@ -11,6 +11,7 @@
 opensearch-error-duplicate-title = ස්ථාපන දෝෂයකි
 opensearch-error-format-title = වැරදි ආකෘතියකි
 opensearch-error-download-title = බාගැනිමේ දෝෂයකි
+opensearch-error-download-desc = { -brand-short-name } මගින් සෙවුම් පේනුව බාගැනීමට නොහැකි විය: { $location-url }
 
 ##
 
