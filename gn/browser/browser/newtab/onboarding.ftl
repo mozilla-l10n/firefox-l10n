@@ -261,9 +261,17 @@ mr2022-onboarding-secondary-skip-button-label = Ehejánte kóva
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Eguereko { -brand-short-name } Dock-pe
+       *[other] Emboja { -brand-short-name } tembiapo rendáre
+    }
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Aguyje ehayhúre { -brand-product-name }
 
 ## MR2022 New User Set Default screen strings
 
@@ -272,9 +280,12 @@ mr2022-onboarding-secondary-skip-button-label = Ehejánte kóva
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = Emboheko sapy’aitépe
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Emboheko pya’eterei
+mr2022-onboarding-import-primary-button-label-no-attribution = Emba’egueru kundahára itujavéva guive
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
