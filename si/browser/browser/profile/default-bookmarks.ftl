@@ -17,6 +17,8 @@ default-bookmarks-firefox-heading = මොසිල්ලා ෆයර්ෆො
 default-bookmarks-firefox-get-help = උදව් ගන්න
 # link title for https://www.mozilla.org/firefox/customize/
 default-bookmarks-firefox-customize = ෆයර්ෆොක්ස් අභිරුචිකරණය
+# link title for https://www.mozilla.org/contribute/
+default-bookmarks-firefox-community = සම්බන්ධ වන්න
 # link title for https://www.mozilla.org/about/
 default-bookmarks-firefox-about = අප ගැන
 # Nightly builds only, link title for https://developer.mozilla.org/
