@@ -266,6 +266,9 @@ mr2022-onboarding-pin-primary-button-label =
 mr2022-onboarding-existing-pin-header = 感謝您愛用 { -brand-product-name }
 # Subtitle is used on onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-subtitle = 只要輕鬆一點就可以從任何地方啟動更健康的網路環境。最新推出的版本中，有我們認為您會喜歡的滿滿新鮮事。
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = 使用會在您上網時保護您隱私的瀏覽器。我們最新推出的更新，有我們認為您會喜歡的滿滿新鮮事。
 mr2022-onboarding-existing-pin-checkbox-label = 也加入 { -brand-short-name } 隱私瀏覽模式
 
 ## MR2022 New User Set Default screen strings
@@ -273,6 +276,9 @@ mr2022-onboarding-existing-pin-checkbox-label = 也加入 { -brand-short-name } 
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = 要將 { -brand-short-name } 設為您的預設瀏覽器嗎？
 mr2022-onboarding-set-default-primary-button-label = 將 { -brand-short-name } 設為預設瀏覽器
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = 使用由非營利組織在背後開發的瀏覽器。我們會在您上網時捍衛您的隱私權。
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
