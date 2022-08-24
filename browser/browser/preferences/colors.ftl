@@ -9,6 +9,9 @@ colors-window =
             [macos] width: 41em
            *[other] width: 38em
         }
+colors-dialog =
+    .title = වර්ණ
+    .style = width: 41em;
 colors-close-key =
     .key = w
 colors-page-override = පිටුවෙන් දක්වා ඇති වර්ණ ඉහත ඔබගේ තේරීම් මගින් අභිබවන්න
