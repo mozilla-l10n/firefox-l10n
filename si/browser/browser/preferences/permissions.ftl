@@ -43,7 +43,7 @@ permissions-searchbox =
 permissions-capabilities-autoplay-allow =
     .label = ශ්‍රව්‍ය සහ දෘශ්‍ය ඉඩදෙන්න
 permissions-capabilities-autoplay-block =
-    .label = හඬ අවහිර
+    .label = හඬ අවහිර කරන්න
 permissions-capabilities-autoplay-blockall =
     .label = ශ්‍රව්‍ය සහ දෘශ්‍ය අවහිර
 permissions-capabilities-allow =
@@ -118,7 +118,7 @@ permissions-site-notification-window =
     .style = { permissions-window.style }
 permissions-site-notification-disable-label =
     .label = දැනුම්දීම් සඳහා ඉල්ලා සිටින නව ඉල්ලීම් අවහිර කරන්න
-permissions-site-notification-disable-desc = ඉහත ලේඛනගත කර නැති අඩවි වලින් ලැබෙන දැනුම්දීම් අවසර ඉල්ලීම් වලක්වනු ඇත. මෙය අවහිර කිරීම නිසා සමහර වියමන අඩවිවල විශේෂාංග නිසි අයුරින් ක්‍රියා නොකරනු ඇත.
+permissions-site-notification-disable-desc = ඉහත ලේඛනගත කර නැති අඩවි වලින් ලැබෙන දැනුම්දීම් අවසර ඉල්ලීම් වලක්වනු ඇත. මෙය අවහිර කිරීම නිසා ඇතැම් අඩවිවල විශේෂාංග නිසි අයුරින් ක්‍රියා නොකරනු ඇත.
 
 ## Site Permissions - Location
 
@@ -128,7 +128,7 @@ permissions-site-location-window =
 permissions-site-location-desc = පහත වියමන අඩවි ඔබගේ ස්ථානයට ප්‍රවේශ වීමට ඉල්ලා ඇත. ස්ථානයට ප්‍රවේශ වීමට ඉඩ දිය යුතු අඩවි මොනවාදැයි ඔබට සඳහන් කළ හැකිය. ඔබගේ ස්ථානයට ප්‍රවේශ වීමට ඉල්ලා සිටින නව ඉල්ලීම් ද අවහිර කළ හැකිය.
 permissions-site-location-disable-label =
     .label = ස්ථානයට ප්‍රවේශ වීමට ඉල්ලන නව ඉල්ලීම් අවහිර කරන්න
-permissions-site-location-disable-desc = ඉහත ලේඛනගත කර නැති අඩවි වලට ඔබගේ ස්ථානය වෙත ප්‍රවේශ වීමට අවසර නොදේ. මෙය අවහිර කිරීම නිසා සමහර වියමන අඩවිවල විශේෂාංග නිසි අයුරින් ක්‍රියා නොකරනු ඇත.
+permissions-site-location-disable-desc = ඉහත ලේඛනගත කර නැති අඩවි වලට ඔබගේ ස්ථානය වෙත ප්‍රවේශ වීමට අවසර නොදේ. මෙය අවහිර කිරීම නිසා ඇතැම් අඩවිවල විශේෂාංග නිසි අයුරින් ක්‍රියා නොකරනු ඇත.
 
 ## Site Permissions - Virtual Reality
 
@@ -138,7 +138,7 @@ permissions-site-xr-window =
 permissions-site-xr-desc = පහත වියමන අඩවි ඔබගේ අතථ්‍ය යථාර්ථ උපාංග වෙත ප්‍රවේශ වීමට ඉල්ලා ඇත. අවසර දීමට අවශ්‍ය අඩවි මොනවාදැයි ඔබට සඳහන් කළ හැකිය. තවද, ප්‍රවේශ වීමට ඉල්ලා සිටින නව ඉල්ලීම් ද අවහිර කළ හැකිය.
 permissions-site-xr-disable-label =
     .label = අතථ්‍ය යථාර්ත උපාංග වෙත ප්‍රවේශය සඳහා නව ඉල්ලීම් අවහිර කරන්න
-permissions-site-xr-disable-desc = ඉහත ලේඛනගත කර නැති අඩවි වලට ඔබගේ අතථ්‍ය යථාර්ථ උපාංග වෙත ප්‍රවේශ වීමට අවසර නොදේ. මෙය අවහිර කිරීම නිසා සමහර වියමන අඩවිවල විශේෂාංග නිසි අයුරින් ක්‍රියා නොකරනු ඇත.
+permissions-site-xr-disable-desc = ඉහත ලේඛනගත කර නැති අඩවි වලට ඔබගේ අතථ්‍ය යථාර්ථ උපාංග වෙත ප්‍රවේශ වීමට අවසර නොදේ. මෙය අවහිර කිරීම නිසා ඇතැම් අඩවිවල විශේෂාංග නිසි අයුරින් ක්‍රියා නොකරනු ඇත.
 
 ## Site Permissions - Camera
 
@@ -150,4 +150,4 @@ permissions-site-microphone-window =
     .style = { permissions-window.style }
 permissions-site-microphone-disable-label =
     .label = ශබ්දවාහිනියට ප්‍රවේශය සඳහා නව ඉල්ලීම් අවහිර කරන්න
-permissions-site-microphone-disable-desc = ඉහත ලේඛනගත කර නැති අඩවි වලට ඔබගේ ශබ්දවාහිනිය වෙත ප්‍රවේශ වීමට අවසර නොදේ. මෙය අවහිර කිරීම නිසා සමහර වියමන අඩවිවල විශේෂාංග නිසි අයුරින් ක්‍රියා නොකරනු ඇත.
+permissions-site-microphone-disable-desc = ඉහත ලේඛනගත කර නැති අඩවි වලට ඔබගේ ශබ්දවාහිනිය වෙත ප්‍රවේශ වීමට අවසර නොදේ. මෙය අවහිර කිරීම නිසා ඇතැම් අඩවිවල විශේෂාංග නිසි අයුරින් ක්‍රියා නොකරනු ඇත.

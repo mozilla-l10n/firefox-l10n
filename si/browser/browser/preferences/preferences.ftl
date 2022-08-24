@@ -711,6 +711,9 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = හැරදැමීම්...
     .accesskey = x
+forms-generate-passwords =
+    .label = ශක්තිමත් මුරපද යෝජනා කර උත්පාදනය කරන්න
+    .accesskey = u
 forms-breach-alerts-learn-more-link = තව දැනගන්න
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
