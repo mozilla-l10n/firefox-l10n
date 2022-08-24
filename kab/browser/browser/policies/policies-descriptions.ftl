@@ -115,6 +115,7 @@ policy-SecurityDevices = Sebded izegrar n PKCS #11.
 policy-ShowHomeButton = Sken taqeffalt n usebtar agejdan deg ufeggag n yifecka.
 policy-SSLVersionMax = Sbadu lqem afellay n SSL.
 policy-SSLVersionMin = Sbadu lqem adday n SSL.
+policy-StartDownloadsInTempDirectory = Ḥettem beddu n yisadaren deg wadig adigan askudan deg wadeg n ukaram n usader amezwer.
 policy-SupportMenu = Ad yernu anekcum udmawan ɣer wumuɣ n tallelt i uɛiwen.
 policy-UserMessaging = Ur d-skan ara kra n yiznan i useqdac.
 policy-UseSystemPrintDialog = Siggez s useqdec n udiwenni Anagraw n usiggez.
