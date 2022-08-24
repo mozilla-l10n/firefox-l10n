@@ -89,6 +89,9 @@ fonts-minsize = අකුරේ අවම ප්‍රමාණය
     .accesskey = o
 fonts-minsize-none =
     .label = කිසිවක් නැත
+fonts-allow-own =
+    .label = ඉහත ඔබගේ තේරීම් වෙනුවට පිටුවලට අකුරු යොදා ගැනීමට  ඉඩ දෙන්න
+    .accesskey = A
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

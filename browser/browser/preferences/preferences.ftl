@@ -160,6 +160,9 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = ඔබගේ වර්ණ තේරීම අඩවියෙහි පෙනුම අභිබවා යයි. <a data-l10n-name="colors-link">වර්ණ කළමනාකරණය</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = <a data-l10n-name="themes-link">දිගු සහ තේමා</a> තුළ { -brand-short-name } තේමා කළමනාකරණය කරන්න
@@ -886,6 +889,8 @@ collection-header = { -brand-short-name } දත්ත රැස් කිරී
 collection-privacy-notice = පෞද්ගලිකත්ව දැන්වීම
 collection-health-report-telemetry-disabled-link = තව දැනගන්න
 collection-health-report-link = තව දැනගන්න
+addon-recommendations =
+    .label = { -brand-short-name } සඳහා පුද්ගලීකරණය කළ දිගු නිර්දේශ කිරීමට ඉඩ දෙන්න
 addon-recommendations-link = තව දැනගන්න
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
