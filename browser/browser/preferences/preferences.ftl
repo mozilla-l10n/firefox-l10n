@@ -757,6 +757,17 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy Section - History
 
 history-header = ඉතිහාසය
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name }
+    .accesskey = { "" }
 history-remember-option-all =
     .label = ඉතිහාසය තබා ගන්න
 history-remember-option-never =
@@ -851,12 +862,14 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-etp-standard-desc = ආරක්‍ෂාව හා කාර්ය සාධනය අතර සංතුලිතයි. පිටු සාමාන්‍ය ලෙස පූරණය වේ.
 content-blocking-etp-strict-desc = ප්‍රබල රැකවරණයක් ලබා දෙයි, නමුත් ඇතැම් අඩවි හෝ අන්තර්ගත කැඩී යාමට හේතුවනු ඇත.
+content-blocking-etp-custom-desc = අවහිර කළ යුතු ලුහුබැඳීම් හා අත්පත් තෝරන්න.
 content-blocking-etp-blocking-desc = { -brand-short-name } පහත දෑ අවහිර කරයි:
 content-blocking-private-windows = පෞද්. කවුළුවල ලුහුබැඳීමේ අන්තර්ගත
 content-blocking-social-media-trackers = සමාජ මාධ්‍ය ලුහුබැඳීම්
 content-blocking-all-windows-tracking-content = සියළු කවුළුවල ලුහුබැඳීමේ අන්තර්ගත
 content-blocking-etp-standard-tcp-rollout-learn-more = තව දැනගන්න
-content-blocking-and-isolating-etp-warning-description-2 = මෙම සැකසුම සමහර අඩවිවල අන්තර්ගතය දර්ශනය නොවීමට හෝ හරිහැටි වැඩ නොකිරීමට හේතු විය හැකිය. එසේ පෙනේ නම්, ඔබට එම අඩවියේ සියළුම අන්තර්ගත පූරණය කිරීම සඳහා ලුහුබැඳීමේ රැකවරණය අක්‍රිය කිරීමට සිදු වනු ඇත.
+content-blocking-warning-title = අවධානය!
+content-blocking-and-isolating-etp-warning-description-2 = මෙම සැකසුම ඇතැම් අඩවිවල අන්තර්ගත දර්ශනය නොවීමට හෝ හරිහැටි වැඩ නොකිරීමට හේතු විය හැකිය. එසේ පෙනේ නම්, ඔබට එම අඩවියේ සියළුම අන්තර්ගත පූරණය කිරීම සඳහා ලුහුබැඳීමේ රැකවරණය අක්‍රිය කිරීමට සිදු වනු ඇත.
 content-blocking-warning-learn-how = කෙසේදැයි දැනගන්න
 content-blocking-reload-description = මෙම වෙනස්කම් යෙදීමට ඔබගේ පටිති යළි පූරණය කළ යුතුය.
 content-blocking-reload-tabs-button =
@@ -926,7 +939,7 @@ permissions-block-popups-exceptions-button =
     .accesskey = E
     .searchkeywords = උත්පතන
 permissions-addon-install-warning =
-    .label = අඩවි එක්කහු ස්ථාපනයට සැරසෙන විට දන්වන්න
+    .label = එක්කහු ස්ථාපනයට අඩවි සැරසෙන විට දන්වන්න
     .accesskey = W
 permissions-addon-exceptions =
     .label = හැරදැමීම්...
