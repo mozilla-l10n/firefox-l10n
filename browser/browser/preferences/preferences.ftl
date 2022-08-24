@@ -333,6 +333,7 @@ play-drm-content =
     .accesskey = P
 play-drm-content-learn-more = තව දැනගන්න
 update-application-title = { -brand-short-name } යාවත්කාල
+update-application-description = ඉහළ කාර්ය සාධනය, ස්ථායිතාව සහ ආරක්‍ෂාව සඳහා { -brand-short-name } යාවත්කාලීනව තබා ගන්න.
 update-application-version = අනුවාදය { $version } <a data-l10n-name="learn-more">අළුත් දෑ</a>
 update-history =
     .label = යාවත්කාල ඉතිහාසය පෙන්වන්න...
