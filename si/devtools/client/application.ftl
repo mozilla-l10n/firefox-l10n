@@ -17,6 +17,9 @@
 serviceworker-list-aboutdebugging = වෙනත් වසම් වලින් සේවා ක්‍රියාකාරක සඳහා <a>about:debugging</a> අරින්න
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = ලියාපදිංචිය අහෝසිය
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = සෝදිසිය
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start3 = අරඹන්න
