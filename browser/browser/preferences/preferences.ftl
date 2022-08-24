@@ -991,6 +991,9 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = සහතික
+certs-enable-ocsp =
+    .label = සහතිකවල වත්මන් වලංගුභාවය තහවුරු කර ගැනීමට මා.ස.ත.කෙ. (OCSP) ප්‍රතිචාර සේවාදායක වලින් විමසන්න
+    .accesskey = Q
 certs-view =
     .label = සහතික බලන්න...
     .accesskey = C
@@ -1004,11 +1007,12 @@ space-alert-over-5gb-settings-button =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-පමණි ප්‍රකාරය
+httpsonly-description = { -brand-short-name } හා ඔබ ගොඩවදින අඩවි අතර ආරක්‍ෂිත, සංකේතිත සම්බන්ධතාවයක් HTTPS මගින් සපයයි. බොහෝ අඩවි HTTPS සඳහා සහාය දක්වන අතර, HTTPS-පමණි ප්‍රකාරය සබල කර ඇත්නම්, { -brand-short-name } සියළු සම්බන්ධතා HTTPS වෙත උත්ශ්‍රේණි කරයි.
 httpsonly-learn-more = තව දැනගන්න
 httpsonly-radio-enabled =
     .label = සියළු කවුළුවල HTTPS-පමණි ප්‍රකාරය සබල කරන්න
 httpsonly-radio-enabled-pbm =
-    .label = පෞද්. කවුළුවල පමණක් HTTPS-පමණි ප්‍රකාරය සබල කරන්න
+    .label = පෞද්. කවුළුවල පමණක් HTTPS-පමණි ප්‍රකාරය
 httpsonly-radio-disabled =
     .label = HTTPS-පමණි ප්‍රකාරය සබල නොකරන්න
 
