@@ -274,11 +274,15 @@ mr2022-onboarding-set-default-primary-button-label = 將 { -brand-short-name } �
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = 最新版本是圍繞您打造的。讓您更簡單就可在網路中探索，我們希望您也會喜歡我們推出的滿滿功能。
 mr2022-onboarding-get-started-primary-button-label = 幾秒鐘就能設定完成
 
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = 設定光速快
+mr2022-onboarding-import-subtitle = 根據您的喜好來設定 { -brand-short-name }。可從您的舊瀏覽器匯入書籤、密碼與更多資料。
 mr2022-onboarding-import-primary-button-label-no-attribution = 從先前使用的瀏覽器匯入
 
 ## If your language uses grammatical genders, in the description for the
@@ -293,6 +297,7 @@ mr2022-onboarding-existing-colorway-checkbox-label = 將 { -firefox-home-brand-n
 mr2022-onboarding-colorway-label-default = 預設
 mr2022-onboarding-colorway-tooltip-default =
     .title = 預設
+mr2022-onboarding-colorway-description-default = <b>使用我目前的 { -brand-short-name } 色彩。</b>
 mr2022-onboarding-colorway-label-playmaker = 控球後衛
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = 控球後衛
