@@ -17,6 +17,8 @@ permission-dialog-description-host-app = { $appName } සමඟ { $scheme } ස�
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
 ## of the sentence as your language's grammar allows.
 
+permission-dialog-remember = <strong>{ $host }</strong> සඳහා <strong>{ $scheme }</strong> සබැඳි විවෘත කිරීමට සැමවිට ඉඩ දෙන්න
+permission-dialog-remember-file = මෙම ගොනුවට <strong>{ $scheme }</strong> සබැඳි විවෘත කිරීමට සෑමවිට ඉඩ දෙන්න
 
 ##
 
