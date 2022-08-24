@@ -5,6 +5,8 @@
 
 ## These strings appear on the warning you see when first visiting about:config.
 
+about-config-intro-warning-title = ප්‍රවේශම්ව ඉදිරියට යන්න
+about-config-intro-warning-text = වැඩිදුර වින්‍යාස අභිප්‍රේත වෙනස් කිරීම { -brand-short-name } කාර්ය සාධනයට හෝ ආරක්‍ෂාවට බලපෑ හැකිය.
 about-config-intro-warning-button = අවදානම පිළිගෙන ඉදිරියට
 
 ##
