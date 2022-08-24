@@ -7,7 +7,7 @@ about-logins-page-title = පිවිසුම් හා මුරපද
 login-filter =
     .placeholder = පිවිසුම් සොයන්න
 create-login-button = නව පිවිසුමක් සාදන්න
-fxaccounts-sign-in-text = ඔබගේ වෙනත් උපාංග වල තිබෙන මුරපද ගන්න
+fxaccounts-sign-in-text = ඔබගේ වෙනත් උපාංගවල තිබෙන මුරපද ගන්න
 fxaccounts-sign-in-sync-button = සමමුහූර්තයට පිවිසෙන්න
 fxaccounts-avatar-button =
     .title = ගිණුම කළමනාකරණය
@@ -59,6 +59,7 @@ about-logins-list-section-week = පසුගිය දවස් 7
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-out2 = සුරැකි පිවිසුම් සොයනවාද? සමමුහූර්තය සබල කරන්න හෝ ඒවා ආයාත කරන්න.
 about-logins-login-intro-heading-logged-in = සමමුහූර්ත පිවිසුම් හමු නොවිණි.
 login-intro-description = ඔබගේ පිවිසුම් වෙනත් උපාංගයක { -brand-product-name } වෙත සුරැකිින ලද්දේ නම්, ඒවා මෙහි ලබා ගන්නේ කෙසේද යන්න මෙන්න:
 login-intro-instructions-fxa-settings = සැකසුම් > සමමුහූර්තය > සමමුහූර්තය සක්‍රිය කරන්න... වෙත ගොස් පිවිසුම් හා මුරපද කොටුව තෝරන්න.
