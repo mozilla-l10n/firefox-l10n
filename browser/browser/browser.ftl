@@ -168,6 +168,9 @@ page-action-remove-extension =
 page-action-manage-extension2 =
     .label = จัดการส่วนขยาย…
     .accesskey = E
+page-action-remove-extension2 =
+    .label = เอาส่วนขยายออก
+    .accesskey = เ
 
 ## Auto-hide Context Menu
 
