@@ -47,6 +47,8 @@ connection-proxy-socks4 =
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
+connection-proxy-noproxy = ප්‍රතියුක්තය රහිත
+    .accesskey = N
 connection-proxy-noproxy-desc = නිදසුන: .හෙළුව.ලංකා, .ubuntu.lk, 192.168.1.0/24
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = localhost, 127.0.0.1/8, සහ ::1 වෙත සම්බන්ධතා කිසිවිටක ප්‍රතියුක්තගත නැත.
@@ -66,6 +68,8 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = HTTPS මගින් ව.නා.ප. සබල කරන්න
     .accesskey = b
+connection-dns-over-https-url-resolver = සැපයුම්කරු භාවිතය
+    .accesskey = P
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
