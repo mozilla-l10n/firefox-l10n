@@ -6,7 +6,7 @@
 ## App Menu
 
 appmenuitem-banner-update-downloading =
-    .label = Yn llwytho diweddariad { -brand-shorter-name } i lawr
+    .label = Wrthi'n llwytho diweddariad { -brand-shorter-name } i lawr
 appmenuitem-banner-update-available =
     .label = Mae diweddariad ar gael — llwytho i lawr nawr
 appmenuitem-banner-update-manual =
