@@ -845,6 +845,9 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-etp-standard-desc = ආරක්‍ෂාව හා කාර්ය සාධනය අතර සංතුලිතයි. පිටු සාමාන්‍ය ලෙස පූරණය වේ.
+content-blocking-etp-strict-desc = ප්‍රබල රැකවරණයක් ලබා දෙයි, නමුත් ඇතැම් අඩවි හෝ අන්තර්ගත කැඩී යාමට හේතුවනු ඇත.
+content-blocking-etp-blocking-desc = { -brand-short-name } පහත දෑ අවහිර කරයි:
 content-blocking-social-media-trackers = සමාජ මාධ්‍ය ලුහුබැඳීම්
 content-blocking-etp-standard-tcp-rollout-learn-more = තව දැනගන්න
 content-blocking-and-isolating-etp-warning-description-2 = මෙම සැකසුම සමහර අඩවිවල අන්තර්ගතය දර්ශනය නොවීමට හෝ හරිහැටි වැඩ නොකිරීමට හේතු විය හැකිය. එසේ පෙනේ නම්, ඔබට එම අඩවියේ සියළුම අන්තර්ගත පූරණය කිරීම සඳහා ලුහුබැඳීමේ රැකවරණය අක්‍රිය කිරීමට සිදු වනු ඇත.
