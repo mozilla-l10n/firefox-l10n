@@ -46,6 +46,8 @@ onboarding-welcome-steps-indicator2 =
 mr1-welcome-screen-hero-text =
     ගින්න ඇරඹෙන්නේ
     මෙතැනින්
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = සජීවිකරණ අක්‍රිය කරන්න
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
