@@ -299,6 +299,24 @@ mr2022-onboarding-existing-colorway-checkbox-label = Ejapo { -firefox-home-brand
 mr2022-onboarding-colorway-label-default = Ijypykue
 mr2022-onboarding-colorway-tooltip-default =
     .title = Ijypykue
+mr2022-onboarding-colorway-label-playmaker = Ñembosarái moheñoiha
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Ñembosarái moheñoiha
+mr2022-onboarding-colorway-label-expressionist = Temiandugua
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Temiandugua
+mr2022-onboarding-colorway-label-visionary = Ohecha mombyrýva
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Ohecha mombyrýva
+mr2022-onboarding-colorway-label-activist = Hekoku’éva
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Hekoku’éva
+mr2022-onboarding-colorway-label-dreamer = Kerayvotyhára
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Kerayvotyhára
+mr2022-onboarding-colorway-label-innovator = Mbopyahuhára
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Mbopyahuhára
 
 ## MR2022 Multistage Mobile Download screen strings
 
