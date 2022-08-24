@@ -320,6 +320,7 @@ mr2022-onboarding-colorway-description-innovator = <b>您是創造者。</b>您�
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-no-mobile-download-cta-text = 掃描這組 QR Code，下載 { -brand-product-name } 行動版。
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -334,6 +335,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = 我們始終尊重您的隱私權
 mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } 推薦
 mr2022-onboarding-privacy-segmentation-secondary-button-label = 詳細資訊
 
