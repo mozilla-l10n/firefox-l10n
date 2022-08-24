@@ -36,6 +36,8 @@ about-telemetry-upload-type =
         [enabled] සබලයි
        *[disabled] අබලයි
     }
+about-telemetry-filter-all-placeholder =
+    .placeholder = සියළු කොටස්වල සොයන්න
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-results-for-search = “{ $searchTerms }” සඳහා ප්‍රතිඵල

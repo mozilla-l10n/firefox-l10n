@@ -6,6 +6,7 @@ certificate-viewer-certificate-section-title = සහතිකය
 
 ## Error messages
 
+certificate-viewer-error-message = අපට සහතික තොරතුරු සොයා ගැනීමට නොහැකි විය, හෝ සහතිකයට හානි වී ඇත. නැවත උත්සාහ කරන්න.
 certificate-viewer-error-title = යම් දෙයක් වැරදී ඇත.
 
 ## Certificate information labels
