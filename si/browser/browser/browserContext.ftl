@@ -91,6 +91,12 @@ main-context-menu-bookmark-add =
     .accesskey = m
     .tooltiptext = මෙම පිටුවට පොත්යොමුවක්
 # This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = පිටුවට පොත්යොමුවක්
+    .accesskey = m
+# This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-edit-mac =
@@ -112,6 +118,18 @@ main-context-menu-bookmark-change-with-shortcut =
     .aria-label = පොත්යොමුව සංස්කරණය
     .accesskey = m
     .tooltiptext = පොත්යොමුව සංස්කරණය ({ $shortcut })
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-page-mac =
+    .label = පිටුවට පොත්යොමුවක්…
+    .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
+# so should probably have the same access key if possible.
+main-context-menu-edit-bookmark-mac =
+    .label = පොත්යොමුව සංස්කරණය...
+    .accesskey = m
 main-context-menu-open-link =
     .label = සබැඳිය අරින්න
     .accesskey = O
