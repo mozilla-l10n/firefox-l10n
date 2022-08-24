@@ -11,7 +11,10 @@
 
 permission-dialog-description = මෙම අඩවියට { $scheme } සබැඳිය විවෘත කිරීමට ඉඩ දෙන්නද?
 permission-dialog-description-file = මෙම ගොනුවට { $scheme } සබැඳිය විවෘත කිරීමට ඉඩ දෙන්නද?
+permission-dialog-description-host = { $scheme } සබැඳිය විවෘත කිරීමට { $host } සඳහා ඉඩ දෙන්නද?
+permission-dialog-description-app = { $appName } සමඟින් { $scheme } සබැඳිය විවෘත කිරීමට මෙම අඩවියට ඉඩ දෙන්නද?
 permission-dialog-description-host-app = { $appName } සමඟ { $scheme } සබැඳිය විවෘත කිරීමට { $host } සඳහා ඉඩ දෙන්නද?
+permission-dialog-description-file-app = { $appName } සමඟින් { $scheme } සබැඳිය විවෘත කිරීමට මෙම ගොනුවට ඉඩ දෙන්නද?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

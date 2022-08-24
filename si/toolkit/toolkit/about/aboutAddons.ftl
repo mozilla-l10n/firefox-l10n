@@ -302,6 +302,7 @@ addon-permissions-empty = මෙම දිගුවට කිසිදු අව
 addon-permissions-learnmore = අවසර ගැන තව දැනගන්න
 recommended-extensions-heading = නිර්දේශිත දිගු
 recommended-themes-heading = නිර්දේශිත තේමා
+addon-sitepermissions-required = <span data-l10n-name="hostname">{ $hostname }</span> වෙත පහත ශක්‍යතා ප්‍රදානය කරයි:
 
 ## Page headings
 
