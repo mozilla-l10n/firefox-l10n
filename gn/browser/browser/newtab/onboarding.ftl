@@ -257,11 +257,37 @@ fx100-upgrade-thanks-header = 100 Aguyje
 fx100-upgrade-thank-you-body = Ore ñemyasãi 100 { -brand-short-name } rehegua. Aguyje <em>ndéve</em> orepytyvõ haguére rojapóvo Ñanduti iporã ha hesãivéva.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = ¡Ore ñemyasãi 100! Aguyje reime haguére ore rekohápe. Eguereko { -brand-short-name } nde ykére ouvétava 100 ndiveguápe.
+mr2022-onboarding-secondary-skip-button-label = Ehejánte kóva
+
+## MR2022 New User Pin Firefox screen strings
+
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+
+## MR2022 New User Set Default screen strings
+
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+
+## MR2022 Import Settings screen strings
+
+
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+
+## MR2022 Multistage Mobile Download screen strings
+
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-onboarding-skip-step-button-label = Epónte kóvagui
 mr2022-upgrade-onboarding-pin-private-window-header = Eikundaha ñemi sãsóme peteĩ jeikutúpe
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Kookie nongatupyre ha tembiasakue’ỹre, ne mohendahaite guive. Eikundaha ejehecha’ỹrõguáicha.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
@@ -269,3 +295,9 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
         [macos] Emboja kundahára ñemi { -brand-short-name } mba’e tembiapo rendápe
        *[other] Pin { -brand-short-name } kundahára ñemi { -brand-short-name } mba’e tembiapo rendápe
     }
+
+## MR2022 Privacy Segmentation screen strings
+
+
+## MR2022 Multistage Gratitude screen strings
+
