@@ -48,3 +48,7 @@ firefoxview-tabs-list-tab-button =
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-collapse-button-show =
+    .title = ලේඛනය පෙන්වන්න
+firefoxview-collapse-button-hide =
+    .title = ලේඛනය සඟවන්න

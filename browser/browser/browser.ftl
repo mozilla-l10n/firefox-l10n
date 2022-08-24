@@ -654,6 +654,8 @@ bookmarks-tools =
     .label = පොත්යොමු මෙවලම්
 bookmarks-bookmark-edit-panel =
     .label = පොත්යොමුව සංස්කරණය
+bookmarks-subview-edit-bookmark =
+    .label = පොත්යොමුව සංස්කරණය…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
