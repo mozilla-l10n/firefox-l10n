@@ -28,6 +28,7 @@ pocket-panel-saved-save-tags = සුරකින්න
 pocket-panel-saved-saving-tags = සුරැකෙමින්…
 pocket-panel-saved-suggested-tags = යෝජිත අනන්‍යන
 pocket-panel-saved-tags-saved = අනන්‍යන එක් විය
+pocket-panel-signup-view-list = ලේඛනය බලන්න
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = අනන්‍යන යොදන්න:
 
