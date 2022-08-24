@@ -399,10 +399,19 @@ browsing-search-on-start-typing =
     .label = ඔබ ලිවීමට පටන් ගත් විට පෙළ සඳහා සොයන්න
     .accesskey = x
 browsing-picture-in-picture-toggle-enabled =
-    .label = රූපයෙන් රූපයට දෘශ්‍ය පාලක සබල කරන්න
+    .label = රූපයෙන් රූපයට දෘශ්‍ය පාලකය සබල කරන්න
     .accesskey = E
 browsing-picture-in-picture-learn-more = තව දැනගන්න
+browsing-media-control =
+    .label = යතුරුපුවරුව, ඉස්බණුව හෝ අතථ්‍ය අතුරුමුහුණත හරහා මාධ්‍ය පාලනය
+    .accesskey = v
 browsing-media-control-learn-more = තව දැනගන්න
+browsing-cfr-recommendations =
+    .label = ඔබ පිරික්සන දෑ සඳහා දිගු නිර්දේශ කරන්න
+    .accesskey = R
+browsing-cfr-features =
+    .label = ඔබ පිරික්සන දෑ සඳහා විශේෂාංග නිර්දේශ කරන්න
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = තව දැනගන්න
 
 ## General Section - Proxy

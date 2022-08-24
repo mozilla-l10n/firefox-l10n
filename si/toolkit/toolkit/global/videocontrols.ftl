@@ -28,10 +28,10 @@ videocontrols-closed-caption-off =
     .offlabel = අක්‍රිය
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
-videocontrols-picture-in-picture-label = ඡායාරූපයෙන් ඡායාරූපයට
+videocontrols-picture-in-picture-label = රූපයෙන් රූපයට
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
-videocontrols-picture-in-picture-toggle-label = ඡායාරූපයෙන් ඡායාරූපයට නරඹන්න
+videocontrols-picture-in-picture-toggle-label = රූපයෙන් රූපයට නරඹන්න
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
