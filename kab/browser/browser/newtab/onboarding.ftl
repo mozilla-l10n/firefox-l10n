@@ -267,6 +267,8 @@ mr2022-onboarding-secondary-skip-button-label = Zgel takkayt-a
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Ldi internet issedhacen
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Senker { -brand-short-name } seg kra n wadeg s yiwen usiti asuf. Yal tikkelt mi ara t-tgeḍ, ad tfferneḍ web yeldin, ilelli.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -283,6 +285,8 @@ mr2022-onboarding-set-default-only-subtitle = Bdu s yiminig ur nettnadi ara ɣef
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Tanemmirt imi i tḥemmleḍ { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Senker internet zeddigen segwanda yebɣu tiliḍs yiwen usiti asuf. Lqem-nneɣ aneggaru yeččur d tiɣawsiwin timaynutin i nettwali ad awint leɛqel-ik·im.
 # Subtitle will be used on the welcome screen for existing users
 # when they already have Firefox pinned but not set as default
 mr2022-onboarding-existing-set-default-only-subtitle = Seqdec iminig yekkaten ɣef uqader n tudert-ik:im tabaḍnit mi ara tettinigeḍ deg web. Lqem-nneɣ aneggaru yusa-d s ukemmus n tɣawsiwin ara yawin leɛmeṛ-ik·im.
