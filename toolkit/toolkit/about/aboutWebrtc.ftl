@@ -69,6 +69,9 @@ about-webrtc-type-remote = දුරස්ථ
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = තෝරාගත්
 about-webrtc-save-page-label = පිටුව සුරකින්න
+about-webrtc-debug-mode-msg-label = නිදොස්කරණ ප්‍රකාරය
+about-webrtc-debug-mode-off-state-label = නිදොස්කරණ ප්‍රකාරය අරඹන්න
+about-webrtc-debug-mode-on-state-label = නිදොස්කරණ ප්‍රකාරය නවත්වන්න
 about-webrtc-stats-heading = වාරයේ සංඛ්‍යාලේඛන
 about-webrtc-stats-clear = ඉතිහාසය මකන්න
 about-webrtc-log-heading = සම්බන්ධතා සටහන
@@ -115,6 +118,9 @@ about-webrtc-configuration-element-provided = සපයා ඇත
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = සපයා නැත
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT මි.ත.
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
