@@ -12,6 +12,22 @@ datetime-time-placeholder = --
 
 ## Field labels for input type=date
 
+datetime-year =
+    .aria-label = Godina
+datetime-month =
+    .aria-label = Mjesec
+datetime-day =
+    .aria-label = Dan
 
 ## Field labels for input type=time
 
+datetime-hour =
+    .aria-label = Sati
+datetime-minute =
+    .aria-label = Minuta
+datetime-second =
+    .aria-label = Sekundi
+datetime-millisecond =
+    .aria-label = Milisekundi
+datetime-dayperiod =
+    .aria-label = AM/PM
