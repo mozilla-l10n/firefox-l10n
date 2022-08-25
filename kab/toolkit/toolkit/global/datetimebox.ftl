@@ -24,6 +24,8 @@ datetime-day =
 
 ## Field labels for input type=time
 
+datetime-hour =
+    .aria-label = Isragen
 datetime-minute =
     .aria-label = Tisdatin
 datetime-second =
