@@ -75,6 +75,9 @@ permissions-exceptions-etp-desc = ඔබ මෙම අඩවිවලට රැ�
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = හැරදැමීම් - දත්තකඩ හා අඩවි දත්ත
+    .style = { permissions-window.style }
 
 ## Exceptions - HTTPS-Only Mode
 

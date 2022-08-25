@@ -87,6 +87,9 @@ security-view-privacy =
     .value = පෞද්ගලිකත්වය හා ඉතිහාසය
 security-view-privacy-history-value = මම අදට කලින් මෙම අඩවියට ගොඩවැදී තිබේද?
 security-view-privacy-sitedata-value = මෙම අඩවිය මාගේ පරිගණකයේ තොරතුරු ගබඩා කරන්නේද?
+security-view-privacy-clearsitedata =
+    .label = දත්තකඩ හා අඩවි දත්ත මකන්න
+    .accesskey = C
 security-view-privacy-passwords-value = මෙම අඩවිය සඳහා මවිසින් සුරකින ලද මුරපද තිබේද?
 security-view-privacy-viewpasswords =
     .label = සුරකින ලද මුරපද බලන්න
@@ -102,6 +105,7 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies-only = ඔව්, දත්තකඩ
 security-site-data-no = නැහැ
 
 ##
