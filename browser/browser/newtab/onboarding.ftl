@@ -357,6 +357,8 @@ mr2022-onboarding-colorway-description-innovator = <b>Jo binne in ynnovator.</b>
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Wikselje fan laptop nei telefoan en wer werom
+mr2022-onboarding-mobile-download-subtitle = Pak ljepblêden fan ien apparaat en gean fierder wêr’t jo op in oar bleaun binne. Syngronisearje jo blêdwizers en wachtwurden ek oeral wêr’t jo { -brand-product-name } brûke.
+mr2022-onboarding-mobile-download-cta-text = Scan de QR-koade om { -brand-product-name } foar mobyl te krijen of <a data-l10n-name="download-label">stjoer josels in downloadkeppeling.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Scan de QR-koade om { -brand-product-name } op mobyl te downloaden.
 
 ## MR2022 Upgrade Dialog screens
@@ -373,10 +375,14 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Wy respektearje altyd jo privacy
+mr2022-onboarding-privacy-segmentation-subtitle = Fan yntelliginte suggestjes oant tûker sykjen, wy wurkje konstant oan it meitsjen fan in bettere, mear persoanlike { -brand-product-name }.
+mr2022-onboarding-privacy-segmentation-cta-text = As wy nije funksjes oanbiede dy’t jo gegevens brûke om jo blêdzjen te ferbetterjen, wolle jo dan sjen:
 mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name }-oanrekommandaasjes
 mr2022-onboarding-privacy-segmentation-secondary-button-label = Detaillearre ynformaasje
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Jo helpe ús in better web te bouwen.
+mr2022-onboarding-gratitude-subtitle = Tank foar it brûken fan { -brand-short-name }, stipe troch de Mozilla Foundation. Mei jo stipe wurkje wy om it ynternet iepener, tagonkliker en better te meitsjen foar elkenien.
 mr2022-onboarding-gratitude-primary-button-label = Besjoch wat nij is
 mr2022-onboarding-gratitude-secondary-button-label = Start mei browsen
