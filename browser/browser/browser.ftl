@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Voir les modules
 quickactions-cmd-addons = modules complémentaires, extensions, thèmes
+quickactions-cmd-addons2 = modules complémentaires
 # Opens the bookmarks library window
 quickactions-bookmarks = Afficher les marque-pages
 quickactions-cmd-bookmarks = marque-pages
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = effacer l’historique
 # Opens about:downloads page
 quickactions-downloads = Ouvrir les téléchargements
 quickactions-cmd-downloads = téléchargements
+# Opens about:addons page in the extensions section
+quickactions-extensions = Gérer les extensions
+quickactions-cmd-extensions = extensions
 # Opens the devtools web inspector
 quickactions-inspector = Ouvrir l’inspecteur
 quickactions-cmd-inspector = inspecteur, outils de développement
 # Opens about:logins
 quickactions-logins = Afficher les identifiants
 quickactions-cmd-logins = identifiants, mots de passe
+# Opens about:addons page in the plugins section
+quickactions-plugins = Gérer les plugins
+quickactions-cmd-plugins = plugins
 # Opens the print dialog
 quickactions-print = Imprimer
 quickactions-cmd-print = imprimer
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = capture d’écran
 # Opens about:preferences
 quickactions-settings = Ouvrir les paramètres
 quickactions-cmd-settings = paramètres, préférences, options
+# Opens about:addons page in the themes section
+quickactions-themes = Gérer les thèmes
+quickactions-cmd-themes = thèmes
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Mettre à jour { -brand-short-name }
 quickactions-cmd-update = mettre à jour

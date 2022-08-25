@@ -17,6 +17,7 @@ firefoxview-just-now-timestamp = À l’instant
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = Récupération d’onglets
 firefoxview-tabpickup-description = Ouvrez des pages à partir d’autres appareils.
+firefoxview-tabpickup-recenttabs-description = La liste des onglets récents s’afficherait ici
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = Terminé à { $percentValue } %
