@@ -378,6 +378,9 @@ mr2022-onboarding-privacy-segmentation-subtitle = Az intelligens javaslatoktól 
 mr2022-onboarding-privacy-segmentation-cta-text = Ha olyan új funkciókat kínálunk, amelyek az Ön adatait használják fel a böngészése javítása érdekében, akkor mit szeretne látni:
 mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } javaslatok
 mr2022-onboarding-privacy-segmentation-secondary-button-label = Részletes információk
+mr2022-onboarding-privacy-segmentation-text-cta = Mit szeretne látni, amikor olyan új szolgáltatásokat kínálunk, amelyek az Ön adatait használják fel a böngészés javítása érdekében?
+mr2022-onboarding-privacy-segmentation-button-primary-label = A{ -brand-product-name } javaslatainak használata
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Részletes információk megjelenítése
 
 ## MR2022 Multistage Gratitude screen strings
 
