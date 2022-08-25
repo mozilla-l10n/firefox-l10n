@@ -265,9 +265,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = එක්කහු බලන්න
 quickactions-cmd-addons = එක්කහු, දිගු, තේමා
+quickactions-cmd-addons2 = එක්කහු
 # Opens the bookmarks library window
 quickactions-bookmarks = පොත්යොමු බලන්න
 quickactions-cmd-bookmarks = පොත්යොමු
@@ -277,11 +278,17 @@ quickactions-cmd-clearhistory = ඉතිහාසය මකන්න
 # Opens about:downloads page
 quickactions-downloads = බාගැනීම් අරින්න
 quickactions-cmd-downloads = බාගැනීම්
+# Opens about:addons page in the extensions section
+quickactions-extensions = දිගු කළමනාකරණය
+quickactions-cmd-extensions = දිගු
 # Opens the devtools web inspector
 quickactions-inspector = සෝදිසිය අරින්න
 # Opens about:logins
 quickactions-logins = පිවිසුම් බලන්න
 quickactions-cmd-logins = පිවිසුම්, මුරපද
+# Opens about:addons page in the plugins section
+quickactions-plugins = පේනු කළමණාකරණය
+quickactions-cmd-plugins = පේනු
 # Opens the print dialog
 quickactions-print = මුද්‍රණය
 quickactions-cmd-print = මුද්‍රණය
@@ -300,6 +307,9 @@ quickactions-cmd-screenshot = තිරසේයාව
 # Opens about:preferences
 quickactions-settings = සැකසුම් අරින්න
 quickactions-cmd-settings = සැකසුම්, අභිප්‍රේත, විකල්ප
+# Opens about:addons page in the themes section
+quickactions-themes = තේමා කළමනාකරණය
+quickactions-cmd-themes = තේමා
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } යාවත්කාල
 quickactions-cmd-update = යාවත්කාල
