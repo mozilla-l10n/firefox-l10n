@@ -66,3 +66,4 @@ experimental-features-text-recognition =
 experimental-features-text-recognition-description = 이미지의 텍스트를 인식하는 기능을 활성화합니다.
 experimental-features-accessibility-cache =
     .label = 접근성 캐시
+experimental-features-accessibility-cache-description = { -brand-short-name } 메인 프로세스의 모든 문서에서 모든 접근성 정보를 캐시합니다. 이렇게 하면 접근성 API를 사용하는 스크린 리더 및 기타 응용 프로그램의 성능이 향상됩니다.
