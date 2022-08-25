@@ -378,6 +378,9 @@ mr2022-onboarding-privacy-segmentation-subtitle = Od inteligentných návrhov po
 mr2022-onboarding-privacy-segmentation-cta-text = Keď ponúkame nové funkcie, ktoré využívajú vaše údaje na zlepšenie vášho prehliadania, chcete vidieť:
 mr2022-onboarding-privacy-segmentation-primary-button-label = Odporúčania { -brand-product-name(case: "gen") }
 mr2022-onboarding-privacy-segmentation-secondary-button-label = Detailné informácie
+mr2022-onboarding-privacy-segmentation-text-cta = Čo chcete vidieť, keď ponúkame nové funkcie, ktoré využívajú vaše údaje na zlepšenie vášho prehliadania?
+mr2022-onboarding-privacy-segmentation-button-primary-label = Použiť odporúčania { -brand-product-name(case: "gen") }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Zobraziť podrobné informácie
 
 ## MR2022 Multistage Gratitude screen strings
 

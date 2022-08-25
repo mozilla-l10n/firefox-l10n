@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Zobraziť doplnky
 quickactions-cmd-addons = doplnky, rozšírenia, témy vzhľadu
+quickactions-cmd-addons2 = doplnky
 # Opens the bookmarks library window
 quickactions-bookmarks = Zobraziť záložky
 quickactions-cmd-bookmarks = záložky
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = vymazať históriu
 # Opens about:downloads page
 quickactions-downloads = Otvoriť Stiahnuté súbory
 quickactions-cmd-downloads = stiahnuté súbory
+# Opens about:addons page in the extensions section
+quickactions-extensions = Spravovať rozšírenia
+quickactions-cmd-extensions = rozšírenia
 # Opens the devtools web inspector
 quickactions-inspector = Otvoriť Prieskumníka
 quickactions-cmd-inspector = prieskumník, vývojárske nástroje
 # Opens about:logins
 quickactions-logins = Zobraziť prihlasovacie údaje
 quickactions-cmd-logins = prihlasovacie údaje, heslá
+# Opens about:addons page in the plugins section
+quickactions-plugins = Spravovať zásuvné moduly
+quickactions-cmd-plugins = zásuvné moduly
 # Opens the print dialog
 quickactions-print = Tlačiť
 quickactions-cmd-print = tlačiť
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = snímka obrazovky
 # Opens about:preferences
 quickactions-settings = Otvoriť nastavenia
 quickactions-cmd-settings = nastavenia, preferencie, možnosti
+# Opens about:addons page in the themes section
+quickactions-themes = Spravovať témy
+quickactions-cmd-themes = témy vzhľadu
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Aktualizovať { -brand-short-name }
 quickactions-cmd-update = aktualizovať
