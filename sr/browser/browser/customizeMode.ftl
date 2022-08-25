@@ -31,6 +31,7 @@ customize-mode-uidensity-menu-compact-unsupported =
     .tooltiptext = Компактно (није подржано)
 customize-mode-undo-cmd =
     .label = Опозови
+customize-mode-lwthemes-link = Управљај темама
 customize-mode-touchbar-cmd =
     .label = Прилагоди додирну траку…
 customize-mode-downloads-button-autohide =
