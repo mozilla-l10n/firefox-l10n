@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Date/time clear button
+datetime-reset =
+    .aria-label = मिटायें
 
 ## Placeholders for date and time inputs
 
@@ -21,3 +24,13 @@ datetime-day =
 
 ## Field labels for input type=time
 
+datetime-hour =
+    .aria-label = घंटे
+datetime-minute =
+    .aria-label = मिनट
+datetime-second =
+    .aria-label = सेकंड
+datetime-millisecond =
+    .aria-label = मिलीसेकंड
+datetime-dayperiod =
+    .aria-label = AM/PM
