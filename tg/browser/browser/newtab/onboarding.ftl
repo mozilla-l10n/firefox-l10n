@@ -354,6 +354,7 @@ mr2022-onboarding-privacy-segmentation-secondary-button-label = Маълумот
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Шумо ба беҳтарсозии Интернет кумак менамоед.
 mr2022-onboarding-gratitude-subtitle = Баҳри истифодабарии «{ -brand-short-name }», ки аз ҷониби «Mozilla Foundation» дастгирӣ мегардад, ба шумо изҳори сипос менамоем. Бо дастгирии шумо кӯшиш ба харҷ медиҳем, то ин ки доираи истифодабарии Интернетро боз ҳам васеътар, беҳтар ва дастраси ҳамагон гардонем.
 mr2022-onboarding-gratitude-primary-button-label = Бинед, ки чӣ нав аст
 mr2022-onboarding-gratitude-secondary-button-label = Оғоз кардани тамошо
