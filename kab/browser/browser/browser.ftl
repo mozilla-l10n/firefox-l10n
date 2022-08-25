@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Sken izegrar
 quickactions-cmd-addons = izegrar, isiɣqzaf, isental
+quickactions-cmd-addons2 = Izegrar
 # Opens the bookmarks library window
 quickactions-bookmarks = Sken ticraḍ n usebter
 quickactions-cmd-bookmarks = ticraḍ n isebtar
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = Sfeḍ azray
 # Opens about:downloads page
 quickactions-downloads = Ldi isadaren
 quickactions-cmd-downloads = isadaren
+# Opens about:addons page in the extensions section
+quickactions-extensions = Sefrek isiɣzaf
+quickactions-cmd-extensions = Isiɣzaf
 # Opens the devtools web inspector
 quickactions-inspector = Ldi amaswaḍ
 quickactions-cmd-inspector = amaswaḍ, devtools
 # Opens about:logins
 quickactions-logins = Sken-d tuqniwin
 quickactions-cmd-logins = inekcam, awalen uffiren
+# Opens about:addons page in the plugins section
+quickactions-plugins = Sefrek izegrar
+quickactions-cmd-plugins = Izegrar
 # Opens the print dialog
 quickactions-print = Siggez
 quickactions-cmd-print = siggez
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = tuṭṭfa n ugdil
 # Opens about:preferences
 quickactions-settings = Ldi iɣewwaren
 quickactions-cmd-settings = iɣewwaren, ismenyifen, tixtiṛiyin
+# Opens about:addons page in the themes section
+quickactions-themes = Sefrek isental
+quickactions-cmd-themes = Isental
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Leqqem { -brand-short-name }
 quickactions-cmd-update = Leqqem
