@@ -36,7 +36,6 @@ menu-application-touch-bar =
 menu-quit =
     .label = Изађи
     .accesskey = И
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label =
@@ -46,7 +45,6 @@ menu-quit-mac =
             [neuter] { -brand-shorter-name(case: "gen") }
            *[other] програма { -brand-shorter-name }
         }
-
 menu-about =
     .label =
         О { -brand-shorter-name.gender ->
@@ -82,6 +80,17 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Отвори датотеку…
     .accesskey = О
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Затвори језичак
+            [one] Затвори { $tabCount } језичак
+            [few] Затвори { $tabCount } језичка
+           *[other] Затвори { $tabCount } језичака
+        }
+    .accesskey = C
 menu-file-close-window =
     .label = Затвори прозор
     .accesskey = d
@@ -225,6 +234,10 @@ menu-bookmark-current-tab =
     .label = Обележи тренутну картицу
 menu-bookmark-edit =
     .label = Уреди обележивач
+menu-bookmark-tab =
+    .label = Обележи тренутни језичак…
+menu-edit-bookmark =
+    .label = Уреди овај обележивач…
 menu-bookmarks-all-tabs =
     .label = Обележи све картице…
 menu-bookmarks-toolbar =

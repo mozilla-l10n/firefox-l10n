@@ -141,7 +141,7 @@ downloads-details =
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
 downloads-blocked-from-url = Преузимања са { $url } су блокирана.
-downloads-blocked-download-detailed-info = Страница { $url } је покушала да аутоматски преузме неколико датотека. Ово може бити грешка на страници, али може бити и њена намера да складишти нежељене датотеке на вашем уређају.
+downloads-blocked-download-detailed-info = Страница { $url } покушала је да аутоматски преузме неколико датотека. Ово може бити грешка на страници, а можда жели да складишти нежељене датотеке на вашем уређају.
 
 ##
 
