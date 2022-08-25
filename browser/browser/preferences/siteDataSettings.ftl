@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = දත්තකඩ හා අඩවි දත්ත කළමනාකරණය
 site-data-search-textbox =
     .placeholder = අඩවි සොයන්න
     .accesskey = S
