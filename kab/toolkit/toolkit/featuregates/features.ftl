@@ -64,3 +64,5 @@ experimental-features-ime-search-description = IME (Input Method Editor) d afeck
 experimental-features-text-recognition =
     .label = Aεqal n uḍris
 experimental-features-text-recognition-description = Rmed timahilin i wakken ad tɛeqleḍaḍris deg tugniwin.
+experimental-features-accessibility-cache =
+    .label = Takatut tuffirt n unekcum

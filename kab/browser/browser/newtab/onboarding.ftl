@@ -379,6 +379,8 @@ mr2022-onboarding-privacy-segmentation-subtitle = Isumar imegza ɣer unadi amegz
 mr2022-onboarding-privacy-segmentation-cta-text = Mi ara d-nmudd timahilin timaynutin ara isseqqdacen isefka-k·m i usnerni n tunigin, tebɣiḍ ad twaliḍ:
 mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } iwellihen
 mr2022-onboarding-privacy-segmentation-secondary-button-label = Talɣut s telqayt
+mr2022-onboarding-privacy-segmentation-button-primary-label = Seqdec iwellihen n { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Sken talɣut leqqayen
 
 ## MR2022 Multistage Gratitude screen strings
 
