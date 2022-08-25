@@ -55,3 +55,4 @@ about-private-browsing-pin-promo-link-text =
         [macos] Остави у Dock-у
        *[other] Закачи на траку задатака
     }
+about-private-browsing-pin-promo-title = Нема сачуваних колачића или историје, директно са радне површине. Прегледајте као да нико не гледа.
