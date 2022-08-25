@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Kiegészítők megjelenítése
 quickactions-cmd-addons = kiegészítők, bővítmények, témák
+quickactions-cmd-addons2 = kiegészítők
 # Opens the bookmarks library window
 quickactions-bookmarks = Könyvjelzők megtekintése
 quickactions-cmd-bookmarks = könyvjelzők
@@ -285,6 +286,9 @@ quickactions-cmd-clearhistory = előzmények törlése
 # Opens about:downloads page
 quickactions-downloads = Letöltések megnyitása
 quickactions-cmd-downloads = letöltések
+# Opens about:addons page in the extensions section
+quickactions-extensions = Kiegészítők kezelése
+quickactions-cmd-extensions = kiegészítők
 # Opens the devtools web inspector
 quickactions-inspector = Vizsgáló megnyitása
 quickactions-cmd-inspector = vizsgáló, fejlesztői eszközök
