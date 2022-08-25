@@ -6,6 +6,7 @@
 ## View / Layout
 
 appmenu-font-size-value = Dimension del litteras
+appmenu-mail-uidensity-value = Densitate
 appmenuitem-font-size-enlarge =
     .tooltiptext = Augmentar le dimension del litteras
 appmenuitem-font-size-reduce =
