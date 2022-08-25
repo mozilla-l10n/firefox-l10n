@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = הצגת תוספות
 quickactions-cmd-addons = תוספות, תוספים, הרחבות, ערכות נושא
+quickactions-cmd-addons2 = תוספות
 # Opens the bookmarks library window
 quickactions-bookmarks = הצגת סימניות
 quickactions-cmd-bookmarks = סימניות, מועדפים
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = מחיקת היסטוריה, ניקוי היסט
 # Opens about:downloads page
 quickactions-downloads = פתיחת הורדות
 quickactions-cmd-downloads = הורדות
+# Opens about:addons page in the extensions section
+quickactions-extensions = ניהול הרחבות
+quickactions-cmd-extensions = הרחבות
 # Opens the devtools web inspector
 quickactions-inspector = פתיחת המפקח
 quickactions-cmd-inspector = מפקח, inspector, כלי פיתוח, כלי מפתח, devtools
 # Opens about:logins
 quickactions-logins = הצגת כניסות
 quickactions-cmd-logins = כניסות, פרטי התחברות, פרטי גישה, פרטי כניסה, ססמאות, סיסמאות
+# Opens about:addons page in the plugins section
+quickactions-plugins = ניהול תוספים חיצוניים
+quickactions-cmd-plugins = תוספים חיצוניים
 # Opens the print dialog
 quickactions-print = הדפסה
 quickactions-cmd-print = הדפסה, הדפס, להדפיס
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = צילום מסך, צלם מסך, לצלם מסך,
 # Opens about:preferences
 quickactions-settings = פתיחת הגדרות
 quickactions-cmd-settings = הגדרות, העדפות, אפשרויות
+# Opens about:addons page in the themes section
+quickactions-themes = ניהול ערכות נושא
+quickactions-cmd-themes = ערכות נושא
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = עדכון { -brand-short-name }
 quickactions-cmd-update = עדכון, עדכן, לעדכן

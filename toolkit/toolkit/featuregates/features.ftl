@@ -41,3 +41,5 @@ experimental-features-js-warp-description = הפעלת Warp, מיזם לשיפו
 experimental-features-text-recognition =
     .label = זיהוי טקסט
 experimental-features-text-recognition-description = הפעלת תכונות לזיהוי טקסט בתמונות.
+experimental-features-accessibility-cache =
+    .label = מטמון נגישות
