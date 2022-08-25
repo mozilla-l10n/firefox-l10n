@@ -224,6 +224,7 @@ mr2-onboarding-start-browsing-button-label = Empezar a navegar
 
 onboarding-live-language-header = Seleccionar un idioma
 mr2022-onboarding-live-language-text = { -brand-short-name } habla tu idioma
+mr2022-language-mismatch-subtitle = Gracias a nuestra comunidad, { -brand-short-name } está traducido a 90 idiomas. Parece que su sistema está usando { $systemLanguage } y { -brand-short-name } está usando { $appLanguage }.
 onboarding-live-language-button-label-downloading = Descargando el pack de idioma para { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Obteniendo idiomas disponibles…
 onboarding-live-language-installing = Instalando el pack de idioma para { $negotiatedLanguage }…
@@ -261,28 +262,53 @@ mr2022-onboarding-secondary-skip-button-label = Saltear este paso
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Inicie { -brand-short-name } desde cualquier lugar con un solo clic. Cada vez que lo haga, estará eligiendo una web más abierta e independiente.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Mantener { -brand-short-name } en Dock
        *[other] Pegar { -brand-short-name } a la barra de tareas
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Comience con un navegador respaldado por una organización sin fines de lucro. Defendemos su privacidad mientras navega por la web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Gracias por amar { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Inicie una Internet más saludable desde cualquier lugar con un solo clic. Nuestra última actualización está repleta de cosas nuevas que creemos que le encantarán.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Use un navegador que defienda su privacidad mientras navega por la web. Nuestra última actualización está repleta de cosas que le encantarán.
+mr2022-onboarding-existing-pin-checkbox-label = También agregue la navegación privada de { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Haga de { -brand-short-name } su navegador favorito
+mr2022-onboarding-set-default-primary-button-label = Haga que { -brand-short-name } sea su navegador predeterminado
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Use un navegador respaldado por una organización sin fines de lucro. Defendemos su privacidad mientras navega por la web.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Nuestra última versión está diseñada pensando en usted, haciendo que navegar por la web sea más fácil que nunca. Está repleto de funciones que creemos que le encantarán.
+mr2022-onboarding-get-started-primary-button-label = Configurar en segundos
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Configuración ultrarrápida
+mr2022-onboarding-import-subtitle = Configure { -brand-short-name } como más le guste. Agregue sus marcadores, contraseñas y más desde su antiguo navegador.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importar desde el navegador anterior
 
 ## If your language uses grammatical genders, in the description for the
