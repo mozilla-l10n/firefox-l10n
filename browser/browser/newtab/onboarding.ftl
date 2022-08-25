@@ -345,6 +345,7 @@ mr2022-onboarding-colorway-description-innovator = <b>您是創造者。</b>您�
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = 在筆電與手機間往返跳轉
 mr2022-onboarding-mobile-download-cta-text = 掃描 QR Code 即可下載 { -brand-product-name } 行動版，也可以<a data-l10n-name="download-label">傳送下載鏈結給自己。</a>
 mr2022-onboarding-no-mobile-download-cta-text = 掃描這組 QR Code，下載 { -brand-product-name } 行動版。
 
