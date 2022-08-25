@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = 부가 기능
 quickactions-cmd-addons = 부가 기능, 확장 기능, 테마
+quickactions-cmd-addons2 = 부가 기능
 # Opens the bookmarks library window
 quickactions-bookmarks = 북마크
 quickactions-cmd-bookmarks = 북마크
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = 기록 지우기
 # Opens about:downloads page
 quickactions-downloads = 다운로드
 quickactions-cmd-downloads = 다운로드
+# Opens about:addons page in the extensions section
+quickactions-extensions = 확장 기능 관리
+quickactions-cmd-extensions = 확장 기능
 # Opens the devtools web inspector
 quickactions-inspector = 검사기
 quickactions-cmd-inspector = 검사기, devtools
 # Opens about:logins
 quickactions-logins = 로그인
 quickactions-cmd-logins = 로그인, 비밀번호
+# Opens about:addons page in the plugins section
+quickactions-plugins = 플러그인 관리
+quickactions-cmd-plugins = 플러그인
 # Opens the print dialog
 quickactions-print = 인쇄
 quickactions-cmd-print = 인쇄
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = 스크린샷
 # Opens about:preferences
 quickactions-settings = 설정
 quickactions-cmd-settings = 설정, 설정, 옵션
+# Opens about:addons page in the themes section
+quickactions-themes = 테마 관리
+quickactions-cmd-themes = 테마
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } 업데이트
 quickactions-cmd-update = 업데이트

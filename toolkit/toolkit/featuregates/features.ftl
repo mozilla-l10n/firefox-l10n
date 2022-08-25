@@ -64,3 +64,5 @@ experimental-features-ime-search-description = IME (Input Method Editor)는 표�
 experimental-features-text-recognition =
     .label = 텍스트 인식
 experimental-features-text-recognition-description = 이미지의 텍스트를 인식하는 기능을 활성화합니다.
+experimental-features-accessibility-cache =
+    .label = 접근성 캐시
