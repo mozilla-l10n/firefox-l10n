@@ -64,3 +64,6 @@ experimental-features-ime-search-description = Az IME (bemenetimód-szerkesztő)
 experimental-features-text-recognition =
     .label = Szövegfelismerés
 experimental-features-text-recognition-description = Funkciók engedélyezése a képeken szereplő szövegek felismeréséhez.
+experimental-features-accessibility-cache =
+    .label = Akadálymentesítési gyorsítótár
+experimental-features-accessibility-cache-description = Gyorsítótárazza az összes dokumentum összes akadálymentesítési információját a { -brand-short-name } főfolyamatban. Ez javítja a képernyőolvasók és az egyéb, akadálymentesítési API-kat használó alkalmazások teljesítményét.
