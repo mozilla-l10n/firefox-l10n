@@ -267,29 +267,94 @@ mr2022-onboarding-secondary-skip-button-label = Spring dette trin over
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Åbn op for et fantastisk internet
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Behold { -brand-short-name } i Dock
+       *[other] Fastgør { -brand-short-name } til proceslinjen
+    }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Start med en browser, der er støttet af en nonprofit-organisation. Vi forsvarer din ret til et privatliv, mens du bevæger dig rundt på nettet.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Tak for at du støtter { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Få adgang til et sundere internet med et enkelt klik. Vores seneste opdatering er fyldt med nyheder, vi tror du kommer til at elske.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Brug en browser, der forsvarer din ret til et privatliv, mens du bevæger dig rundt på nettet. Vores seneste opdatering er fyldt med nyheder, du kommer til at elske.
+mr2022-onboarding-existing-pin-checkbox-label = Tilføj også { -brand-short-name } privat browsing
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Gør { -brand-short-name } til din standard-browser
+mr2022-onboarding-set-default-primary-button-label = Gør { -brand-short-name } til min standard-browser
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Brug en browser, der er støttet af en nonprofit-organisation. Vi forsvarer din ret til et privatliv, mens du bevæger dig rundt på nettet.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Vores seneste version er bygget for at opfylde dine behov og gøre det nemmere at bevæge dig rundt på nettet. Den er fyldt med funktioner, vi tror du kommer til at elske.
+mr2022-onboarding-get-started-primary-button-label = Hurtig opsætning
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Lynhurtig opsætning
+mr2022-onboarding-import-subtitle = Opsæt { -brand-short-name } som du vil. Tilføj dine bogmærker, adgangskoder og mere fra din gamle browser.
+mr2022-onboarding-import-primary-button-label-no-attribution = Importer fra tidligere browser
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Vælg den farve, der inspirerer dig
+mr2022-onboarding-colorway-subtitle = Uafhængige stemmer kan ændre kulturen.
+mr2022-onboarding-colorway-primary-button-label = Indstil farvekombination
+mr2022-onboarding-existing-colorway-checkbox-label = Gør { -firefox-home-brand-name } til din farverige startside
+mr2022-onboarding-colorway-label-default = Standard
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Standard
+mr2022-onboarding-colorway-description-default = <b>Brug mine nuværende { -brand-short-name }-farver.</b>
+mr2022-onboarding-colorway-label-playmaker = Playmaker
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Playmaker
+mr2022-onboarding-colorway-description-playmaker = <b>Du er en playmaker.</b> Du skaber muligheder for at vinde og hjælper alle omkring dig med at forbedre deres spil.
+mr2022-onboarding-colorway-label-expressionist = Ekspressionist
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Ekspressionist
+mr2022-onboarding-colorway-description-expressionist = <b>Du er en ekspressionist.</b> Du ser verden på en anden måde, og dine værker vækker andres følelser.
+mr2022-onboarding-colorway-label-visionary = Visionær
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Visionær
+mr2022-onboarding-colorway-description-visionary = <b>Du er en visionær.</b> Du stiller spørgsmålstegn til tingenes tilstand og får andre til at forestille sig en bedre fremtid.
+mr2022-onboarding-colorway-label-activist = Aktivist
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Aktivist
+mr2022-onboarding-colorway-description-activist = <b>Du er en aktivist.</b> Du engagerer dig for at gøre verden bedre og får andre med dig.
+mr2022-onboarding-colorway-label-dreamer = Drømmer
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Drømmer
+mr2022-onboarding-colorway-description-dreamer = <b>Du er en drømmer.</b> Du mener, at lykken står den kække bi, og inspirerer andre til at være modige.
+mr2022-onboarding-colorway-label-innovator = Nyskaber
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Nyskaber
+mr2022-onboarding-colorway-description-innovator = <b>Du er en nyskaber.</b> Du ser muligheder overalt og påvirker livet for alle omkring dig.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Hop fra din computer til din telefon og tilbage igen.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
