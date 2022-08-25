@@ -118,6 +118,10 @@ main-context-menu-bookmark-change-with-shortcut =
     .aria-label = පොත්යොමුව සංස්කරණය
     .accesskey = m
     .tooltiptext = පොත්යොමුව සංස්කරණය ({ $shortcut })
+main-context-menu-bookmark-page =
+    .aria-label = පිටුවට පොත්යොමුවක්…
+    .accesskey = m
+    .tooltiptext = පිටුවට පොත්යොමුවක්
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -130,6 +134,22 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = පොත්යොමුව සංස්කරණය...
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = පිටුවට පොත්යොමුවක්…
+    .accesskey = m
+    .tooltiptext = පිටුවට පොත්යොමුවක් ({ $shortcut })
+main-context-menu-edit-bookmark =
+    .aria-label = පොත්යොමුව සංස්කරණය…
+    .accesskey = m
+    .tooltiptext = පොත්යොමුව සංස්කරණය
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = පොත්යොමුව සංස්කරණය…
+    .accesskey = m
+    .tooltiptext = පොත්යොමුව සංස්කරණය ({ $shortcut })
 main-context-menu-open-link =
     .label = සබැඳිය අරින්න
     .accesskey = O
@@ -144,6 +164,9 @@ main-context-menu-open-link-new-private-window =
     .accesskey = P
 main-context-menu-bookmark-link =
     .label = පොත්යොමුවේ සබැඳිය
+    .accesskey = B
+main-context-menu-bookmark-link-2 =
+    .label = පොත්යොමුවේ සබැඳිය…
     .accesskey = B
 main-context-menu-save-link =
     .label = …ලෙස සබැඳිය සුරකින්න
@@ -257,6 +280,9 @@ main-context-menu-image-email =
 main-context-menu-image-set-image-as-background =
     .label = වැඩතලයේ පසුබිම ලෙස රූපය සකසන්න...
     .accesskey = S
+main-context-menu-image-copy-text =
+    .label = රූපයෙන් පෙළ පිටපතක්
+    .accesskey = x
 main-context-menu-image-info =
     .label = රූපයේ තොරතුරු පෙන්වන්න
     .accesskey = f
@@ -304,6 +330,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = ශක්තිමත් මුරපදයක් යෝජනා කරන්න…
+    .accesskey = S
 main-context-menu-manage-logins2 =
     .label = පිවිසුම් කළමනාකරණය
     .accesskey = M

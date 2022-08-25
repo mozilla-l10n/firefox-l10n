@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = අභිප්‍රේත
 menu-application-services =
     .label = සේවා
 menu-application-hide-this =
@@ -210,6 +212,8 @@ menu-bookmark-edit =
     .label = පොත්යොමුව සංස්කරණය
 menu-bookmark-tab =
     .label = වත්මන් පටිත්තට පොත්යොමුවක්…
+menu-edit-bookmark =
+    .label = පොත්යොමුව සංස්කරණය…
 menu-bookmarks-all-tabs =
     .label = සියළු පොත්යොමු සංස්කරණය…
 menu-bookmarks-toolbar =
@@ -233,6 +237,9 @@ menu-tools-addons-and-themes =
 menu-tools-fxa-sign-in2 =
     .label = පිවිසෙන්න
     .accesskey = g
+menu-tools-turn-on-sync2 =
+    .label = සමමුහූර්තය සක්‍රිය කරන්න…
+    .accesskey = n
 menu-tools-sync-now =
     .label = සමමුහූර්ත කරන්න
     .accesskey = S

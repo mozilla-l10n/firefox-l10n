@@ -18,6 +18,9 @@ process-type-file = ස්ථානීය ගොනුව
 
 process-type-default = ප්‍රධාන
 process-type-tab = පටිත්ත
+# process used to communicate with the GPU for
+# graphics acceleration
+process-type-gpu = GPU
 # process used to perform network operations
 process-type-socket = කෙවෙනිය
 # process used to decode media

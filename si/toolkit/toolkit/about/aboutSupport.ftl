@@ -86,6 +86,7 @@ user-js-description = ඔබගේ පැතිකඩ බහාලුමෙහ�
 locked-key-prefs-title = වැදගත් අගුළු දැමූ අභිප්‍රේත
 locked-prefs-name = නම
 locked-prefs-value = අගය
+graphics-title = මාධ්‍යරූප
 graphics-features-title = විශේෂාංග
 graphics-diagnostics-title = දෝෂ නිර්ණය
 graphics-gpu1-title = GPU #1
