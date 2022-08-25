@@ -19,3 +19,7 @@ expressionist-colorway-description = На свет гледате другачи
 visionary-colorway-name = Визионар
 visionary-colorway-description = Доводите у питање стање ствари и побуђујете друге да размишљају о бољој будућности.
 activist-colorway-name = Активиста
+activist-colorway-description = Ви чините свет бољим него што сте га нашли и изазивате друге да верују у промене.
+dreamer-colorway-name = Сањар
+dreamer-colorway-description = Ви верујете да срећа прати храбре и инспиришете друге да буду храбри.
+innovator-colorway-name = Проналазач
