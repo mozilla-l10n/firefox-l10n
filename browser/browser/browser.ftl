@@ -295,6 +295,9 @@ quickactions-cmd-inspector = vizsgáló, fejlesztői eszközök
 # Opens about:logins
 quickactions-logins = Bejelentkezések megtekintése
 quickactions-cmd-logins = bejelentkezések, jelszavak
+# Opens about:addons page in the plugins section
+quickactions-plugins = Bővítmények kezelése
+quickactions-cmd-plugins = bővítmények
 # Opens the print dialog
 quickactions-print = Nyomtatás
 quickactions-cmd-print = nyomtatás
@@ -313,6 +316,9 @@ quickactions-cmd-screenshot = képernyőkép
 # Opens about:preferences
 quickactions-settings = Beállítások megnyitása
 quickactions-cmd-settings = beállítások, lehetőségek, kapcsolók
+# Opens about:addons page in the themes section
+quickactions-themes = Témák kezelése
+quickactions-cmd-themes = témák
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = A { -brand-short-name } frissítése
 quickactions-cmd-update = frissítés
