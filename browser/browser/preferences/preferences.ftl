@@ -998,6 +998,8 @@ addon-recommendations-link = තව දැනගන්න
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = මෙම තැනීමේ වින්‍යාසය සඳහා දත්ත වාර්තාකරණය අබල කර ඇත
+collection-backlogged-crash-reports-with-link = ඔබට අතපසු වූ බිඳ වැටීම් වාර්තා යැවීමට { -brand-short-name } සඳහා ඉඩ දෙන්න <a data-l10n-name="crash-reports-link">තව දැනගන්න</a>
+    .accesskey = c
 
 ## Privacy Section - Security
 ##
