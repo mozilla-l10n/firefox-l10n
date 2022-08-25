@@ -277,15 +277,44 @@ mr2022-onboarding-secondary-skip-button-label = Παράβλεψη βήματο�
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-primary-button-label-no-attribution = Εισαγωγή από προηγούμενο πρόγραμμα περιήγησης
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Επιλέξτε το χρώμα που σας εμπνέει
+mr2022-onboarding-colorway-subtitle = Οι ανεξάρτητες φωνές μπορούν να αλλάξουν τον πολιτισμό.
+mr2022-onboarding-colorway-primary-button-label = Ορισμός χρωματικού συνδυασμού
+mr2022-onboarding-colorway-label-default = Προεπιλογή
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Προεπιλογή
+mr2022-onboarding-colorway-description-default = <b>Χρήση τρεχόντων χρωμάτων στο { -brand-short-name }.</b>
+mr2022-onboarding-colorway-label-playmaker = Δημιουργός
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Δημιουργός
+mr2022-onboarding-colorway-description-playmaker = <b>Δημιουργός:</b> Δημιουργείτε ευκαιρίες για να κερδίσετε και βοηθάτε όλα τα άτομα γύρω σας να καταβάλουν τα μέγιστα.
+mr2022-onboarding-colorway-label-expressionist = Εξπρεσιονιστής
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Εξπρεσιονιστής
+mr2022-onboarding-colorway-description-expressionist = <b>Εξπρεσιονιστής:</b> Βλέπετε τον κόσμο διαφορετικά και οι δημιουργίες σας διεγείρουν τα συναισθήματα των άλλων.
+mr2022-onboarding-colorway-label-visionary = Οραματιστής
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Οραματιστής
+mr2022-onboarding-colorway-description-visionary = <b>Οραματιστής:</b> Αμφισβητείτε το status quo και κάνετε τους άλλους να φαντάζονται ένα καλύτερο μέλλον.
+mr2022-onboarding-colorway-label-activist = Ακτιβιστής
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Ακτιβιστής
+mr2022-onboarding-colorway-description-activist = <b>Ακτιβιστής:</b> Παραδίδετε έναν καλύτερο κόσμο στους επόμενους και κάνετε τους άλλους να πιστεύουν.
+mr2022-onboarding-colorway-label-dreamer = Ονειροπόλος
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Ονειροπόλος
+mr2022-onboarding-colorway-description-dreamer = <b>Ονειροπόλος:</b> Πιστεύετε ότι η τύχη ευνοεί τους τολμηρούς και εμπνέετε τους άλλους να είναι γενναίοι.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-no-mobile-download-cta-text = Σαρώστε τον κωδικό QR για λήψη του { -brand-product-name } για κινητές συσκευές.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -300,10 +329,12 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Σεβόμαστε πάντοτε το απόρρητό σας
 mr2022-onboarding-privacy-segmentation-primary-button-label = Προτάσεις του { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-secondary-button-label = Λεπτομερείς πληροφορίες
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Μας βοηθάτε να δημιουργήσουμε ένα καλύτερο διαδίκτυο.
 mr2022-onboarding-gratitude-primary-button-label = Δείτε τι νέο υπάρχει
 mr2022-onboarding-gratitude-secondary-button-label = Έναρξη περιήγησης
