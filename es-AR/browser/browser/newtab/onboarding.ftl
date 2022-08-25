@@ -316,6 +316,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importar desde el
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Elige el color que te inspira
 mr2022-onboarding-colorway-subtitle = Las voces independientes pueden cambiar la cultura.
 mr2022-onboarding-colorway-primary-button-label = Establecer combinación de colores
 mr2022-onboarding-existing-colorway-checkbox-label = Hacer de { -firefox-home-brand-name } una entrada colorida
@@ -350,6 +351,9 @@ mr2022-onboarding-colorway-description-innovator = <b>Es un innovador.</b> Ve op
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Cambie de su computadora a su teléfono y viceversa.
+mr2022-onboarding-mobile-download-cta-text = Escanee el código QR para obtener { -brand-product-name } para dispositivos móviles o <a data-l10n-name="download-label">envíese un enlace de descarga.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Escanee el código QR para obtener { -brand-product-name } para dispositivos móviles.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -364,8 +368,15 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Siempre respetamos su privacidad
+mr2022-onboarding-privacy-segmentation-subtitle = Desde sugerencias inteligentes hasta búsquedas más inteligentes, trabajamos constantemente para crear un { -brand-product-name } mejor y más personal.
+mr2022-onboarding-privacy-segmentation-cta-text = Cuando ofrecemos nuevas funciones que usan sus datos para mejorar su navegación, ¿quiere ver?:
+mr2022-onboarding-privacy-segmentation-primary-button-label = recomendaciones de { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-secondary-button-label = Información detallada
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Nos está ayudando a construir una web mejor.
+mr2022-onboarding-gratitude-subtitle = Gracias por usar { -brand-short-name }, respaldado por la Fundación Mozilla. Con su apoyo, estamos trabajando para que Internet sea más abierta, accesible y mejor para todos.
 mr2022-onboarding-gratitude-primary-button-label = Veamos que hay de nuevo
 mr2022-onboarding-gratitude-secondary-button-label = Empezar a navegar
