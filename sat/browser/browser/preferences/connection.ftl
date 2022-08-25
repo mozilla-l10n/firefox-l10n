@@ -9,10 +9,10 @@ connection-window =
             [macos] width: 44em
            *[other] width: 49em
         }
-
 connection-close-key =
     .key = w
-
+connection-disable-extension =
+    .label = ᱮᱠᱮᱴᱮᱱᱮᱚᱱ ᱵᱚᱱᱫᱚᱭ ᱢᱮ
 connection-proxy-option-no =
     .label = ᱯᱴᱚᱠᱥᱭ ᱫᱚ ᱵᱟᱹᱱᱩᱜᱼᱟ
     .accesskey = y
@@ -22,22 +22,18 @@ connection-proxy-option-system =
 connection-proxy-option-auto =
     .label = ᱱᱚᱶᱟ ᱱᱮᱴᱣᱟᱨᱠ ᱞᱟᱹᱜᱤᱫ ᱟᱡ ᱛᱮ ᱯᱟᱱᱛᱮ ᱯᱨᱚᱠᱥᱭ ᱥᱟᱡᱟᱣ ᱠᱚ
     .accesskey = w
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
-
 connection-proxy-noproxy-desc = ᱡᱮᱞᱠᱟ : .mozilla.org, .net.nz, 192.168.1.0/24
-
 connection-proxy-reload =
     .label = ᱫᱚᱦᱲᱟ ᱞᱟᱫᱤ
     .accesskey = e
-
 connection-proxy-autologin =
     .label = ᱯᱚᱨᱢᱟᱱ ᱮᱢ ᱞᱟᱹᱜᱤᱫ ᱟᱞᱚᱢ ᱞᱚᱜᱚᱱᱚᱜᱼᱟ ᱡᱩᱫᱤ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱᱟ ᱾
     .accesskey = i
     .tooltip = ᱱᱚᱶᱟ ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱛᱷᱤᱨᱼᱛᱷᱤᱨ ᱛᱮ ᱯᱚᱨᱢᱟᱱ ᱮᱢᱟᱠᱟᱱᱟ  ᱟᱢᱟᱜ ᱮᱲᱮ ᱞᱟᱹᱜᱤᱫ ᱛᱤᱱ ᱨᱮ ᱟᱢ ᱩᱫᱠᱩ ᱞᱟᱹᱜᱤᱫ ᱛᱟᱭᱚᱢ ᱨᱮ ᱥᱮᱞᱮᱫᱟᱜ ᱥᱟᱧᱪᱟᱣ ᱾ ᱟᱢ ᱩᱥᱠᱟᱹᱣ ᱢᱮᱭᱟ ᱠᱚ ᱡᱩᱫᱤ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱰᱤᱜᱟᱹᱣᱜᱼᱟ ᱾
-
+connection-dns-over-https-custom-label = ᱠᱩᱥᱤᱭᱟᱜ
