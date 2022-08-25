@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Přidatki pokazać
 quickactions-cmd-addons = přidatki, rozšěrjenja, drasty
+quickactions-cmd-addons2 = přidatki
 # Opens the bookmarks library window
 quickactions-bookmarks = Zapołožki pokazać
 quickactions-cmd-bookmarks = zapołožki
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = historiju zhašeć
 # Opens about:downloads page
 quickactions-downloads = Sćehnjenja wočinić
 quickactions-cmd-downloads = sćehnjenja
+# Opens about:addons page in the extensions section
+quickactions-extensions = Rozšěrjenja rjadować
+quickactions-cmd-extensions = rozšěrjenja
 # Opens the devtools web inspector
 quickactions-inspector = Inspektor wočinić
 quickactions-cmd-inspector = inspektor, wuwiwarske nastroje
 # Opens about:logins
 quickactions-logins = Přizjewjenja pokazać
 quickactions-cmd-logins = přizjewjenja, hesła
+# Opens about:addons page in the plugins section
+quickactions-plugins = Tykače rjadować
+quickactions-cmd-plugins = tykače
 # Opens the print dialog
 quickactions-print = Ćišćeć
 quickactions-cmd-print = ćišćeć
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = foto wobrazowki
 # Opens about:preferences
 quickactions-settings = Nastajenja wočinić
 quickactions-cmd-settings = nastajenja
+# Opens about:addons page in the themes section
+quickactions-themes = Drasty rjadować
+quickactions-cmd-themes = drasty
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } aktualizować
 quickactions-cmd-update = aktualizować

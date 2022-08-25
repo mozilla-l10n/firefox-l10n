@@ -371,6 +371,8 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 mr2022-onboarding-privacy-segmentation-title = Wašu priwatnosć přeco respektujemy.
 mr2022-onboarding-privacy-segmentation-primary-button-label = Doporučenja { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-secondary-button-label = Podrobne informacije
+mr2022-onboarding-privacy-segmentation-button-primary-label = Doporučenja { -brand-product-name } wužiwać
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Nadrobne informacije pokazać
 
 ## MR2022 Multistage Gratitude screen strings
 
