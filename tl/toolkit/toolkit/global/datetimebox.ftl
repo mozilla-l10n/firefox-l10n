@@ -12,6 +12,20 @@ datetime-time-placeholder = --
 
 ## Field labels for input type=date
 
+datetime-year =
+    .aria-label = Taon
+datetime-month =
+    .aria-label = Buwan
+datetime-day =
+    .aria-label = Araw
 
 ## Field labels for input type=time
 
+datetime-hour =
+    .aria-label = Mga Oras
+datetime-minute =
+    .aria-label = Mga Minuto
+datetime-second =
+    .aria-label = Mga Segundo
+datetime-dayperiod =
+    .aria-label = AM/PM
