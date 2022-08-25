@@ -6,6 +6,7 @@
 ## View / Layout
 
 appmenu-font-size-value = Betűméret
+appmenu-mail-uidensity-value = Sűrűség
 appmenuitem-font-size-enlarge =
     .tooltiptext = Betűméret növelése
 appmenuitem-font-size-reduce =
