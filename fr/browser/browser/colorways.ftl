@@ -13,7 +13,7 @@ colorway-collection-independent-voices-short-description = Des couleurs qui chan
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Meneur/Meneuse
-playmaker-colorway-description = Vous créez des occasions de gagner et vous aidez tout un chacun autour de vous à élever le niveau de leur jeu.
+playmaker-colorway-description = Vous créez des occasions de gagner et vous aidez tout un chacun autour de vous à élever le niveau de son jeu.
 expressionist-colorway-name = Expressionniste
 expressionist-colorway-description = Vous voyez le monde différemment et vos créations suscitent l’émotion chez les autres.
 visionary-colorway-name = Visionnaire
