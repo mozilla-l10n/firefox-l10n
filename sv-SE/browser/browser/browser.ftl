@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Visa tillägg
 quickactions-cmd-addons = tillägg, teman
+quickactions-cmd-addons2 = tillägg
 # Opens the bookmarks library window
 quickactions-bookmarks = Visa bokmärken
 quickactions-cmd-bookmarks = bokmärken
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = rensa historik
 # Opens about:downloads page
 quickactions-downloads = Öppna hämtningar
 quickactions-cmd-downloads = hämtningar
+# Opens about:addons page in the extensions section
+quickactions-extensions = Hantera tillägg
+quickactions-cmd-extensions = tillägg
 # Opens the devtools web inspector
 quickactions-inspector = Öppna inspektör
 quickactions-cmd-inspector = inspektör, utvecklarverktyg
 # Opens about:logins
 quickactions-logins = Visa inloggningar
 quickactions-cmd-logins = inloggningar, lösenord
+# Opens about:addons page in the plugins section
+quickactions-plugins = Hantera insticksmoduler
+quickactions-cmd-plugins = insticksmoduler
 # Opens the print dialog
 quickactions-print = Skriv ut
 quickactions-cmd-print = skriva ut
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = skärmbild
 # Opens about:preferences
 quickactions-settings = Öppna inställningar
 quickactions-cmd-settings = inställningar, alternativ
+# Opens about:addons page in the themes section
+quickactions-themes = Hantera teman
+quickactions-cmd-themes = teman
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Uppdatera { -brand-short-name }
 quickactions-cmd-update = uppdatera
