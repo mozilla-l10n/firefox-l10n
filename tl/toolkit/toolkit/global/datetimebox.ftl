@@ -27,5 +27,7 @@ datetime-minute =
     .aria-label = Mga Minuto
 datetime-second =
     .aria-label = Mga Segundo
+datetime-millisecond =
+    .aria-label = Mga Milisegundo
 datetime-dayperiod =
     .aria-label = AM/PM
