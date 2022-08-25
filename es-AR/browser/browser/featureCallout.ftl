@@ -12,6 +12,7 @@ callout-primary-complete-button-label = ¡Lo tengo!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Cambie entre dispositivos llevándose sus pestañas
+callout-firefox-view-tab-pickup-subtitle = Traiga rápidamente las pestañas abiertas de su teléfono y ábralas acá para un flujo máximo.
 callout-firefox-view-recently-closed-title = Recupere sus pestañas cerradas en un instante
 callout-firefox-view-recently-closed-subtitle = Todas las pestañas cerradas aparecerán mágicamente aquí. No vuelva a preocuparse por cerrar accidentalmente un sitio.
 callout-firefox-view-colorways-title = Agregue un toque de color
