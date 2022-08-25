@@ -27,5 +27,7 @@ datetime-minute =
     .aria-label = Λεπτά
 datetime-second =
     .aria-label = Δευτερόλεπτα
+datetime-millisecond =
+    .aria-label = Χιλιοστά δευτερολέπτου
 datetime-dayperiod =
     .aria-label = ΠΜ/ΜΜ
