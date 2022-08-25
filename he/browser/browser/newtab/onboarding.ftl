@@ -323,6 +323,8 @@ mr2022-onboarding-privacy-segmentation-title = אנחנו תמיד מכבדים 
 mr2022-onboarding-privacy-segmentation-subtitle = מהצעות חכמות ועד לחיפוש חכם יותר, אנו פועלים ללא הרף כדי ליצור { -brand-product-name } טוב ואישי יותר.
 mr2022-onboarding-privacy-segmentation-primary-button-label = הצעות של { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-secondary-button-label = מידע מפורט
+mr2022-onboarding-privacy-segmentation-button-primary-label = שימוש בהצעות של { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = הצגת מידע מפורט
 
 ## MR2022 Multistage Gratitude screen strings
 
