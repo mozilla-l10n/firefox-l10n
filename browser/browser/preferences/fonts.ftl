@@ -74,7 +74,7 @@ fonts-langgroup-other =
 ## Default fonts and their sizes
 
 fonts-proportional-header = සමානුපාතික
-    .accesskey = { "" }
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
@@ -82,9 +82,9 @@ fonts-default-sans-serif =
 fonts-proportional-size = තරම
     .accesskey = z
 fonts-serif = සෙරිෆ්
-    .accesskey = { "" }
+    .accesskey = S
 fonts-sans-serif = සාන්ස් සෙරිෆ්
-    .accesskey = { "" }
+    .accesskey = n
 fonts-monospace = එකසම
     .accesskey = M
 fonts-monospace-size = තරම

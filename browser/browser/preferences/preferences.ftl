@@ -185,9 +185,9 @@ preferences-colors-manage-button =
     .accesskey = C
 preferences-fonts-header = මුද්‍රණඅකුර
 default-font = පෙරනිමි අකුර
-    .accesskey = { "" }
+    .accesskey = D
 default-font-size = තරම
-    .accesskey = { "" }
+    .accesskey = S
 advanced-fonts =
     .label = වැඩිදුර...
     .accesskey = A
@@ -774,7 +774,7 @@ history-header = ඉතිහාසය
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }
-    .accesskey = { "" }
+    .accesskey = w
 history-remember-option-all =
     .label = ඉතිහාසය තබා ගන්න
 history-remember-option-never =
@@ -998,8 +998,6 @@ addon-recommendations-link = තව දැනගන්න
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = මෙම තැනීමේ වින්‍යාසය සඳහා දත්ත වාර්තාකරණය අබල කර ඇත
-collection-backlogged-crash-reports-with-link = ඔබට අතපසු වූ බිඳ වැටීම් වාර්තා යැවීමට ඉඩ දෙන්න <a data-l10n-name="crash-reports-link">තව දැනගන්න</a>
-    .accesskey = c
 
 ## Privacy Section - Security
 ##
