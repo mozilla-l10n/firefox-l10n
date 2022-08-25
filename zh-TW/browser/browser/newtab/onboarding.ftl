@@ -346,6 +346,7 @@ mr2022-onboarding-colorway-description-innovator = <b>您是創造者。</b>您�
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = 在筆電與手機間往返跳轉
+mr2022-onboarding-mobile-download-subtitle = 在一台裝置上取得分頁，並且在另一台裝置上從中斷的頁面繼續上網。另外還可以在您使用 { -brand-product-name } 的任何地方同步書籤、密碼等資料。
 mr2022-onboarding-mobile-download-cta-text = 掃描 QR Code 即可下載 { -brand-product-name } 行動版，也可以<a data-l10n-name="download-label">傳送下載鏈結給自己。</a>
 mr2022-onboarding-no-mobile-download-cta-text = 掃描這組 QR Code，下載 { -brand-product-name } 行動版。
 
@@ -363,6 +364,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = 我們始終尊重您的隱私權
+mr2022-onboarding-privacy-segmentation-subtitle = 不論是搜尋建議或是更聰明的搜尋功能，我們會持續打造更好、更有個人風格的 { -brand-product-name }。
 mr2022-onboarding-privacy-segmentation-cta-text = 當我們提供透過使用您的資料來加強上網過程的新功能時，您會想要看到：
 mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } 推薦
 mr2022-onboarding-privacy-segmentation-secondary-button-label = 詳細資訊
