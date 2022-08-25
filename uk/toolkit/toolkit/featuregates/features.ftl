@@ -64,3 +64,5 @@ experimental-features-ime-search-description = IME (редактор метод�
 experimental-features-text-recognition =
     .label = Розпізнавання тексту
 experimental-features-text-recognition-description = Увімкніть функції розпізнавання тексту на зображеннях.
+experimental-features-accessibility-cache =
+    .label = Кеш підтримки доступності
