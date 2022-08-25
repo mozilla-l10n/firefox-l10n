@@ -12,6 +12,12 @@ datetime-time-placeholder = --
 
 ## Field labels for input type=date
 
+datetime-year =
+    .aria-label = वर्ष
+datetime-month =
+    .aria-label = महीना
+datetime-day =
+    .aria-label = दिन
 
 ## Field labels for input type=time
 
