@@ -12,6 +12,8 @@ about-webrtc-save-page-dialog-title = нигоҳ доштани «about:webrtc»
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Навсозии худкор
 
 ##
 
@@ -19,6 +21,7 @@ about-webrtc-save-page-dialog-title = нигоҳ доштани «about:webrtc»
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+about-webrtc-sdp-heading = SDP
 about-webrtc-sdp-history-heading = Таърихи SDP
 
 ##
@@ -59,6 +62,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (пӯш�
 
 ##
 
+about-webrtc-priority = Афзалият
 about-webrtc-show-tab-label = Намоиш додани варақа
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream

@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Намоиши ҷузъҳои иловагӣ
 quickactions-cmd-addons = ҷузъҳои иловагӣ, васеъшавиҳо, мавзуъҳо
+quickactions-cmd-addons2 = ҷузъҳои иловагӣ
 # Opens the bookmarks library window
 quickactions-bookmarks = Намоиши хатбаракҳо
 quickactions-cmd-bookmarks = хатбаракҳо
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = пок кардани таърих
 # Opens about:downloads page
 quickactions-downloads = Кушодани боргириҳо
 quickactions-cmd-downloads = боргириҳо
+# Opens about:addons page in the extensions section
+quickactions-extensions = Идоракунии васеъшавиҳо
+quickactions-cmd-extensions = васеъшавиҳо
 # Opens the devtools web inspector
 quickactions-inspector = Кушодани тафтишкунанда
 quickactions-cmd-inspector = тафтишкунанда, абзорҳои барномарезӣ
 # Opens about:logins
 quickactions-logins = Намоиши воридшавиҳо
 quickactions-cmd-logins = воридшавиҳо, ниҳонвожаҳо
+# Opens about:addons page in the plugins section
+quickactions-plugins = Идоракунии плагинҳо
+quickactions-cmd-plugins = плагинҳо
 # Opens the print dialog
 quickactions-print = Чоп кардан
 quickactions-cmd-print = чоп кардан
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = акси экран
 # Opens about:preferences
 quickactions-settings = Кушодани танзимот
 quickactions-cmd-settings = танзимот, хусусиятҳо, имконот
+# Opens about:addons page in the themes section
+quickactions-themes = Идоракунии мавзуъҳо
+quickactions-cmd-themes = мавзуъҳо
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Навсозӣ кардани { -brand-short-name }
 quickactions-cmd-update = навсозӣ кардан

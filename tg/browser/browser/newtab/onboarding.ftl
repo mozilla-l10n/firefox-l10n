@@ -351,6 +351,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 mr2022-onboarding-privacy-segmentation-title = Мо ҳамеша махфияти шуморо эҳтиром мекунем
 mr2022-onboarding-privacy-segmentation-primary-button-label = Тавсияҳои { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-secondary-button-label = Маълумоти муфассал
+mr2022-onboarding-privacy-segmentation-button-primary-label = Истифода бурдан аз тавсияҳои «{ -brand-product-name }»
 
 ## MR2022 Multistage Gratitude screen strings
 
