@@ -34,8 +34,11 @@ toolbox-meatball-menu-pseudo-locale-bidi = Ενεργοποίηση γλώσσα
 
 toolbox-mode-browser-toolbox-label = Λειτουργία εργαλειοθήκης φυλλομετρητή
 toolbox-mode-browser-console-label = Λειτουργία κονσόλας φυλλομετρητή
+toolbox-mode-everything-label = Πολυδιεργασία
 toolbox-mode-everything-sub-label = (Πιο αργό)
 toolbox-mode-everything-container =
     .title = Έλεγχος σφαλμάτων όλων, σε όλες τις διαδικασίες
 toolbox-mode-parent-process-label = Μόνο γονική διεργασία
 toolbox-mode-parent-process-sub-label = (Γρήγορο)
+toolbox-mode-parent-process-container =
+    .title = Εστίαση μόνο σε πόρους από τη γονική διεργασία.
