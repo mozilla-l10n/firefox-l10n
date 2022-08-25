@@ -64,3 +64,6 @@ experimental-features-ime-search-description = IME (Input Method Editor) je nás
 experimental-features-text-recognition =
     .label = Rozpoznávanie textu
 experimental-features-text-recognition-description = Povolí funkcie na rozpoznávanie textu v obrázkoch.
+experimental-features-accessibility-cache =
+    .label = Vyrovnávacia pamäť pre zjednodušenie ovládania
+experimental-features-accessibility-cache-description = Ukladá všetky informácie o prístupnosti zo všetkých dokumentov v hlavnom procese { -brand-short-name(case: "gen") }. To zlepšuje výkon čítačiek obrazovky a iných aplikácií, ktoré používajú rozhrania API na zjednodušenie ovládania.
