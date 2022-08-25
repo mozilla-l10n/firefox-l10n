@@ -67,6 +67,7 @@ perftools-button-edit-settings = සැකසුම් සංස්කරණය.
 
 perftools-presets-web-developer-label = වියමන සංවර්ධක
 perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-graphics-label = මාධ්‍යරූප
 perftools-presets-media-label = මාධ්‍ය
 perftools-presets-networking-label = ජාලකරණය
 # "Power" is used in the sense of energy (electricity used by the computer).
