@@ -80,3 +80,7 @@ storage-tree-labels-extension-storage = දිගු ආචයනය
 storage-expires-session = වාරය
 # Heading displayed over the item value in the sidebar
 storage-data = දත්ත
+# Warning notification when IndexedDB database could not be deleted immediately.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-blocked = සියළු සම්බන්ධතා වසා දැමූ පසු “{ $dbName }” දත්ත සමුදාය මකා දැමෙනු ඇත.
