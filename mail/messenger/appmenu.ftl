@@ -6,6 +6,7 @@
 ## View / Layout
 
 appmenu-font-size-value = Pismowa wulkosć
+appmenu-mail-uidensity-value = Hustosć
 appmenuitem-font-size-enlarge =
     .tooltiptext = Pismowu wulkosć powjetšić
 appmenuitem-font-size-reduce =
