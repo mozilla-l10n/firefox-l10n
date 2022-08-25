@@ -35,6 +35,7 @@ about-private-browsing-focus-promo-text = Наш прегледач који ј�
 about-private-browsing-focus-promo-header-b = Уживајте у приватном прегледању на свом телефону
 about-private-browsing-focus-promo-text-b = Користите { -focus-brand-name } за приватне претраге које желите да сакријете од свог главног мобилног прегледача.
 about-private-browsing-focus-promo-header-c = Висок ниво приватности на телефону
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } брише вашу историју и истовремено блокира огласе и елементе за праћење.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -43,6 +44,14 @@ about-private-browsing-search-banner-title = { $engineName } је ваш под�
 about-private-browsing-search-banner-description = У <a data-l10n-name="link-options">подешавањима</a> можете да изаберете други претраживач.
 about-private-browsing-search-banner-close-button =
     .aria-label = Затвори
+about-private-browsing-promo-close-button =
+    .title = Затвори
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+about-private-browsing-pin-promo-header = Једним кликом до слободе приватног прегледања
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] Остави у Dock-у
+       *[other] Закачи на траку задатака
+    }
