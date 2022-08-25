@@ -47,6 +47,7 @@ firefoxview-pickup-tabs-badge = Πρόσφατα ενεργή
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Άνοιγμα { $targetURI } σε νέα καρτέλα
+firefoxview-no-current-colorway-collection = Έρχονται νέοι χρωματικοί συνδυασμοί
 firefoxview-change-colorway-button = Αλλαγή χρωματικού συνδυασμού
 # Variables:
 #  $intensity (String): Colorway intensity
