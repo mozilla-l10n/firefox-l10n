@@ -26,5 +26,11 @@ datetime-day =
 
 datetime-hour =
     .aria-label = Aravo
+datetime-minute =
+    .aria-label = Aravo’i
+datetime-second =
+    .aria-label = Aravo’ive
+datetime-millisecond =
+    .aria-label = Aravo’ieteve
 datetime-dayperiod =
     .aria-label = AM/PM
