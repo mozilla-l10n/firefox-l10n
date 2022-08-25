@@ -22,6 +22,7 @@ policy-BlockAboutProfiles = about:profiles පිටුවට ප්‍රවේ
 policy-BlockAboutSupport = about:support පිටුවට ප්‍රවේශය අවහිර කරන්න.
 policy-Bookmarks = පොත්යොමු මෙවලම් තීරුව, පොත්යොමු වට්ටෝරුව හෝ නිශ්චිත බහාලුමක් තුළ නිශ්චිත පොත්යොමු සාදන්න.
 policy-CertificatesDescription = සහතික එක් කරන්න හෝ තිළෑලි සහතික යොදාගන්න.
+policy-Cookies = දත්තකඩ සැකසීමට අඩවිවලට ඉඩ දෙන්න/නොදෙන්න.
 policy-DisabledCiphers = කේතාංක අබල කරන්න
 policy-DefaultDownloadDirectory = පෙරනිමි බාගැනීමේ නාමාවලිය සකසන්න
 policy-DisableAppUpdate = අතිරික්සුව යාවත්කාල වීමෙන් වළක්වන්න
