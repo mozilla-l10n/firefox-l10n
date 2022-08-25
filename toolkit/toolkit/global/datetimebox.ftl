@@ -32,3 +32,5 @@ datetime-second =
     .aria-label = Секунды
 datetime-millisecond =
     .aria-label = Миллисекунды
+datetime-dayperiod =
+    .aria-label = AM/PM
