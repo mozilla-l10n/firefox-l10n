@@ -223,9 +223,13 @@ mr2-onboarding-start-browsing-button-label = Afslut rundvisningen
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Vælg dit sprog
+mr2022-onboarding-live-language-text = { -brand-short-name } taler dit sprog
+mr2022-language-mismatch-subtitle = Takket være vores fællesskab er { -brand-short-name } oversat til mere end 90 sprog. Det ser ud til, at dit system bruger { $systemLanguage } og { -brand-short-name } bruger { $appLanguage }.
 onboarding-live-language-button-label-downloading = Henter sprogpakke til { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Henter tilgængelige sprog…
 onboarding-live-language-installing = Installerer sprogpakke til { $negotiatedLanguage }…
+mr2022-onboarding-live-language-switch-to = Skift til { $negotiatedLanguage }
+mr2022-onboarding-live-language-continue-in = Fortsæt med { $appLanguage }
 onboarding-live-language-secondary-cancel-download = Annuller
 onboarding-live-language-skip-button-label = Spring over
 
@@ -254,8 +258,45 @@ fx100-upgrade-thanks-header = 100 gange tak
 fx100-upgrade-thank-you-body = Det er vores version nummer 100 af { -brand-short-name }. Tak for at <em>du</em> hjælper os med at skabe et bedre og sundere internet.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Det er vores version nummer 100! Tak for at du er en del af fællesskabet. Hav { -brand-short-name } indenfor rækkevide i de næste 100.
+mr2022-onboarding-secondary-skip-button-label = Spring dette trin over
+
+## MR2022 New User Pin Firefox screen strings
+
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Åbn op for et fantastisk internet
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+
+## MR2022 New User Set Default screen strings
+
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+
+## MR2022 Import Settings screen strings
+
+
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+
+## MR2022 Multistage Mobile Download screen strings
+
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-onboarding-skip-step-button-label = Spring dette trin over
+
+## MR2022 Privacy Segmentation screen strings
+
+
+## MR2022 Multistage Gratitude screen strings
+
