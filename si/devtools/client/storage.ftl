@@ -33,6 +33,9 @@ storage-refresh-button =
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = සියල්ල මකන්න
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = සියළු වාර දත්තකඩ මකන්න
 # Context menu action to copy a storage item
 storage-context-menu-copy =
     .label = පිටපතක්
@@ -64,6 +67,7 @@ storage-table-headers-extension-storage-area = ආචයන පෙදෙස
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
+storage-tree-labels-cookies = දත්තකඩ
 storage-tree-labels-local-storage = ස්ථානීය ආචයනය
 storage-tree-labels-session-storage = වාරය ආචයනය
 storage-tree-labels-indexed-db = සූචිගත DB
