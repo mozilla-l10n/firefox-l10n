@@ -8,6 +8,7 @@ datetime-reset =
 
 ## Placeholders for date and time inputs
 
+datetime-year-placeholder = åååå
 datetime-month-placeholder = mm
 datetime-day-placeholder = dd
 datetime-time-placeholder = --
