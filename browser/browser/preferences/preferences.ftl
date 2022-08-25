@@ -804,8 +804,21 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
+sitedata-header = දත්තකඩ හා අඩවි දත්ත
 sitedata-total-size-calculating = අඩවි දත්ත සහ නිහිතයේ ප්‍රමාණය ගණනය වෙමින්...
 sitedata-learn-more = තව දැනගන්න
+sitedata-allow-cookies-option =
+    .label = දත්තකඩ හා අඩවි දත්ත පිළිගන්න
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = දත්තකඩ හා අඩවි දත්ත අවහිරය
+    .accesskey = B
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = හරස්-අඩවි ලුහුබඳින දත්තකඩ
+sitedata-option-block-all-third-party =
+    .label = සියළු තෙවන පාර්ශ්ව දත්තකඩ (අඩවි කැඩීමට හේතු වේ)
+sitedata-option-block-all =
+    .label = සියළු දත්තකඩ (අඩවි කැඩීමට හේතු වේ)
 sitedata-clear =
     .label = දත්ත මකන්න...
     .accesskey = l
@@ -872,8 +885,13 @@ content-blocking-etp-strict-desc = ප්‍රබල රැකවරණයක�
 content-blocking-etp-custom-desc = අවහිර කළ යුතු ලුහුබැඳීම් හා අත්පත් තෝරන්න.
 content-blocking-etp-blocking-desc = { -brand-short-name } පහත දෑ අවහිර කරයි:
 content-blocking-private-windows = පෞද්. කවුළුවල ලුහුබැඳීමේ අන්තර්ගත
+content-blocking-cross-site-cookies-in-all-windows2 = සියළු කවුළුවල හරස්-අඩවි දත්තකඩ
+content-blocking-cross-site-tracking-cookies = හරස්-අඩවි ලුහුබඳින දත්තකඩ
+content-blocking-all-cross-site-cookies-private-windows = සියළු පෞද්. කවුළුවල හරස්-අඩවි දත්තකඩ
 content-blocking-social-media-trackers = සමාජ මාධ්‍ය ලුහුබැඳීම්
+content-blocking-all-cookies = සියළු දත්තකඩ
 content-blocking-all-windows-tracking-content = සියළු කවුළුවල ලුහුබැඳීමේ අන්තර්ගත
+content-blocking-all-third-party-cookies = සියළු තෙවන පාර්ශ්ව දත්තකඩ
 content-blocking-etp-standard-tcp-rollout-learn-more = තව දැනගන්න
 content-blocking-warning-title = අවධානය!
 content-blocking-and-isolating-etp-warning-description-2 = මෙම සැකසුම ඇතැම් අඩවිවල අන්තර්ගත දර්ශනය නොවීමට හෝ හරිහැටි වැඩ නොකිරීමට හේතු විය හැකිය. එසේ පෙනේ නම්, ඔබට එම අඩවියේ සියළුම අන්තර්ගත පූරණය කිරීම සඳහා ලුහුබැඳීමේ රැකවරණය අක්‍රිය කිරීමට සිදු වනු ඇත.
@@ -892,6 +910,9 @@ content-blocking-option-private =
     .label = පෞද්. කවුළුවලදී පමණි
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = අවහිර ලේඛන සංශෝධනය
+content-blocking-cookies-label =
+    .label = දත්තකඩ
+    .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = තව තොරතුරු
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
