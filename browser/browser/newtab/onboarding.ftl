@@ -378,6 +378,7 @@ mr2022-onboarding-privacy-segmentation-subtitle = Från intelligenta förslag ti
 mr2022-onboarding-privacy-segmentation-cta-text = När vi erbjuder nya funktioner som använder din data för att förbättra din surfning, vill du se:
 mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } rekommendationer
 mr2022-onboarding-privacy-segmentation-secondary-button-label = Detaljerad information
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Visa detaljerad information
 
 ## MR2022 Multistage Gratitude screen strings
 
