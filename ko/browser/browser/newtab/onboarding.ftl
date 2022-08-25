@@ -378,6 +378,9 @@ mr2022-onboarding-privacy-segmentation-subtitle = 지능적인 제안에서 더 
 mr2022-onboarding-privacy-segmentation-cta-text = 사용자의 탐색을 향상시키기 위해 사용자의 데이터를 사용하는 새로운 기능을 제공할 때 다음을 보시겠습니까:
 mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } 추천
 mr2022-onboarding-privacy-segmentation-secondary-button-label = 자세한 정보
+mr2022-onboarding-privacy-segmentation-text-cta = 사용자의 탐색을 향상시키기 위해 사용자의 데이터를 사용하는 새로운 기능을 제공할 때 무엇을 보고 싶습니까?
+mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name } 추천 사용
+mr2022-onboarding-privacy-segmentation-button-secondary-label = 자세한 정보 표시
 
 ## MR2022 Multistage Gratitude screen strings
 
