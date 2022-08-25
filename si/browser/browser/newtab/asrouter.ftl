@@ -129,6 +129,7 @@ spotlight-public-wifi-vpn-link = දැන් නොවේ
 
 ## Total Cookie Protection Rollout
 
+spotlight-total-cookie-protection-primary-button = පූර්ණ දත්තකඩ රැකවරණය සක්‍රිය කරන්න
 spotlight-total-cookie-protection-secondary-button = දැන් නොවේ
 
 ## Emotive Continuous Onboarding

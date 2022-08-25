@@ -75,6 +75,10 @@ imported-edge-reading-list = කියවීමේ ලේඛනය (එඩ්ග
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = දත්තකඩ
+browser-data-cookies-label =
+    .value = දත්තකඩ
 browser-data-history-checkbox =
     .label =
         { $browser ->
