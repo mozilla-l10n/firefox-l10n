@@ -423,6 +423,10 @@ mr2022-onboarding-privacy-segmentation-cta-text = Quando offriamo nuove funzioni
 mr2022-onboarding-privacy-segmentation-primary-button-label = Suggerimenti di { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-secondary-button-label = Informazioni dettagliate
 
+mr2022-onboarding-privacy-segmentation-text-cta = Quale scelta preferisci quando offriamo nuove funzioni che utilizzano i tuoi dati per migliorare la navigazione?
+mr2022-onboarding-privacy-segmentation-button-primary-label = Usa le impostazioni consigliate da { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostra informazioni dettagliate
+
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Ci stai aiutando a realizzare un Web migliore
