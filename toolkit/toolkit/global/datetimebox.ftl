@@ -17,8 +17,20 @@ datetime-time-placeholder = --
 
 datetime-year =
     .aria-label = Any
+datetime-month =
+    .aria-label = Mes
+datetime-day =
+    .aria-label = Dia
 
 ## Field labels for input type=time
 
 datetime-hour =
     .aria-label = Hores
+datetime-minute =
+    .aria-label = Minuts
+datetime-second =
+    .aria-label = Segons
+datetime-millisecond =
+    .aria-label = Mil·lisegons
+datetime-dayperiod =
+    .aria-label = AM/PM
