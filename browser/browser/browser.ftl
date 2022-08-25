@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Переглянути додатки
 quickactions-cmd-addons = додатки, розширення, теми
+quickactions-cmd-addons2 = додатки
 # Opens the bookmarks library window
 quickactions-bookmarks = Переглянути закладки
 quickactions-cmd-bookmarks = закладки
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = стерти історію
 # Opens about:downloads page
 quickactions-downloads = Відкрити завантаження
 quickactions-cmd-downloads = завантаження
+# Opens about:addons page in the extensions section
+quickactions-extensions = Керувати розширеннями
+quickactions-cmd-extensions = розширення
 # Opens the devtools web inspector
 quickactions-inspector = Відкрити інспектор
 quickactions-cmd-inspector = інспектор, інструменти розробника
 # Opens about:logins
 quickactions-logins = Переглянути паролі
 quickactions-cmd-logins = входи, паролі
+# Opens about:addons page in the plugins section
+quickactions-plugins = Керувати плагінами
+quickactions-cmd-plugins = плагіни
 # Opens the print dialog
 quickactions-print = Друкувати
 quickactions-cmd-print = друк
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = знімок екрана
 # Opens about:preferences
 quickactions-settings = Відкрити налаштування
 quickactions-cmd-settings = налаштування, уподобання, параметри
+# Opens about:addons page in the themes section
+quickactions-themes = Керувати темами
+quickactions-cmd-themes = теми
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Оновити { -brand-short-name }
 quickactions-cmd-update = оновити
