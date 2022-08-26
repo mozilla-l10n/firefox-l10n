@@ -296,7 +296,7 @@ mr2022-onboarding-existing-pin-checkbox-label = Foegje ek { -brand-short-name }-
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = Meitsje { -brand-short-name } earste browser
-mr2022-onboarding-set-default-primary-button-label = Stel { -brand-short-name } yn as standertbrowser
+mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } ynstelle as standertbrowser
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-set-default-subtitle = Brûk in browser stipe troch in non-profit. Wy ferdigenje jo privacy wylst jo sneupe op it ynternet.
@@ -376,9 +376,9 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = Wy respektearje altyd jo privacy
 mr2022-onboarding-privacy-segmentation-subtitle = Fan yntelliginte suggestjes oant tûker sykjen, wy wurkje konstant oan it meitsjen fan in bettere, mear persoanlike { -brand-product-name }.
-mr2022-onboarding-privacy-segmentation-cta-text = As wy nije funksjes oanbiede dy’t jo gegevens brûke om jo blêdzjen te ferbetterjen, wolle jo dan sjen:
-mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name }-oanrekommandaasjes
-mr2022-onboarding-privacy-segmentation-secondary-button-label = Detaillearre ynformaasje
+mr2022-onboarding-privacy-segmentation-text-cta = Wat wolle jo sjen as wy nije funksjes oanbiede dy’t jo gegevens brûke om jo navigaasje te ferbetterjen?
+mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name }-oanrekommandaasjes brûke
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Detailynformaasje toane
 
 ## MR2022 Multistage Gratitude screen strings
 

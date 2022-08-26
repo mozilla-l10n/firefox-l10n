@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Add-ons besjen
 quickactions-cmd-addons = add-ons, útwreidingen, tema’s
+quickactions-cmd-addons2 = add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks = Blêdwizers besjen
 quickactions-cmd-bookmarks = blêdwizers
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = skiednis wiskje
 # Opens about:downloads page
 quickactions-downloads = Downloads iepenje
 quickactions-cmd-downloads = downloads
+# Opens about:addons page in the extensions section
+quickactions-extensions = Utwreidingen beheare
+quickactions-cmd-extensions = útwreidingen
 # Opens the devtools web inspector
 quickactions-inspector = Inspector iepenje
 quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins = Oanmeldingen werjaan
 quickactions-cmd-logins = oanmeldingen, wachtwurden
+# Opens about:addons page in the plugins section
+quickactions-plugins = Ynstekkers beheare…
+quickactions-cmd-plugins = ynstekkers
 # Opens the print dialog
 quickactions-print = Ofdrukke
 quickactions-cmd-print = ôfdrukke
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = skermôfdruk
 # Opens about:preferences
 quickactions-settings = Ynstellingen iepenje
 quickactions-cmd-settings = ynstellingen, foarkarren, opsjes
+# Opens about:addons page in the themes section
+quickactions-themes = Tema’s beheare
+quickactions-cmd-themes = tema’s
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } bywurkje
 quickactions-cmd-update = bywurkje
