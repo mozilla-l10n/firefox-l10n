@@ -889,6 +889,8 @@ sitedata-option-block-cross-site-trackers =
     .label = רכיבי מעקב חוצי אתרים
 sitedata-option-block-cross-site-tracking-cookies =
     .label = עוגיות מעקב חוצות אתרים
+sitedata-option-block-cross-site-cookies =
+    .label = עוגיות מעקב חוצות אתרים, ובידוד שאר עוגיות חוצות אתרים
 sitedata-option-block-unvisited =
     .label = עוגיות מאתרים שלא ביקרתי בהם
 sitedata-option-block-all-third-party =
@@ -966,6 +968,7 @@ content-blocking-cross-site-cookies-in-all-windows = עוגיות חוצות א�
 content-blocking-cross-site-cookies-in-all-windows2 = עוגיות חוצות אתרים בכל החלונות
 content-blocking-cross-site-tracking-cookies = עוגיות מעקב חוצות אתרים
 content-blocking-all-cross-site-cookies-private-windows = עוגיות חוצות אתרים בחלונות פרטיים
+content-blocking-cross-site-tracking-cookies-plus-isolate = עוגיות מעקב חוצות אתרים, ובידוד שאר העוגיות
 content-blocking-social-media-trackers = רכיבי מעקב של מדיה חברתית
 content-blocking-all-cookies = כל העוגיות
 content-blocking-unvisited-cookies = עוגיות מאתרים שלא ביקרתי בהם
@@ -1088,6 +1091,8 @@ addon-recommendations-link = מידע נוסף
 collection-health-report-disabled = דיווח נתונים מנוטרל עבור תצורת בנייה זו
 collection-backlogged-crash-reports-with-link = לאפשר ל־{ -brand-short-name } לשלוח דיווחי קריסות שנשמרו בשמך <a data-l10n-name="crash-reports-link">מידע נוסף</a>
     .accesskey = ק
+privacy-segmentation-section-header = תכונות חדשות שמשפרות את הגלישה שלך
+privacy-segmentation-section-description = כשאנחנו מציעים תכונות המשתמשות בנתונים שלך כדי להעניק לך חוויה אישית יותר:
 
 ## Privacy Section - Security
 ##
