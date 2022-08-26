@@ -9,9 +9,11 @@ export-page-title = Dışa aktar
 
 import-start = İçe aktarma aracı
 import-start-title = Bir uygulamadan veya dosyadan ayarları veya verileri içe aktar.
+import-start-description = İçe aktarmak istediğiniz kaynağı seçin. Daha sonra hangi verilerin içe aktarılacağını seçmeniz istenecektir.
 import-from-app = Uygulamadan içe aktar
 import-file = Dosyadan içe aktar
 import-file-title = İçe aktarılacak dosyayı seçin.
+import-file-description = Yedeklenmiş bir profili, adres defterlerini veya takvimleri içe aktarın.
 import-address-book-title = Adres defteri dosyasını içe aktar
 import-calendar-title = Takvim dosyasını içe aktar
 export-profile = Dışa aktar
@@ -58,6 +60,9 @@ from-app-seamonkey = { app-name-seamonkey } profilinden içe aktar
 from-app-outlook = { app-name-outlook }'tan içe aktar
 from-app-becky = { app-name-becky }'den içe aktar
 from-app-apple-mail = { app-name-apple-mail }'den içe aktar
+profiles-pane-title-seamonkey = { app-name-seamonkey } ayarlarını ve verilerini içe aktar.
+profiles-pane-title-outlook = { app-name-outlook } verilerini içe aktar.
+profiles-pane-title-becky = { app-name-becky } verilerini içe aktar.
 profiles-pane-title-apple-mail = İletileri { app-name-apple-mail }'den içe aktar.
 profile-source = Profilden içe aktar
 # $profileName (string) - name of the profile
