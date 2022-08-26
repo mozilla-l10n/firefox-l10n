@@ -1095,6 +1095,12 @@ addon-recommendations-link = Μάθετε περισσότερα
 collection-health-report-disabled = Η αναφορά δεδομένων είναι ανενεργή για αυτήν τη ρύθμιση δομής
 collection-backlogged-crash-reports-with-link = Να επιτρέπεται στο { -brand-short-name } η αποστολή αναφορών καταρρεύσεων με καθυστέρηση <a data-l10n-name="crash-reports-link">Μάθετε περισσότερα</a>
     .accesskey = κ
+privacy-segmentation-section-header = Νέες λειτουργίες που βελτιώνουν την περιήγησή σας
+privacy-segmentation-section-description = Όταν προσφέρουμε λειτουργίες που χρησιμοποιούν τα δεδομένα σας για μια πιο εξατομικευμένη εμπειρία:
+privacy-segmentation-radio-off =
+    .label = Χρήση προτάσεων του { -brand-product-name }
+privacy-segmentation-radio-on =
+    .label = Εμφάνιση λεπτομερών πληροφοριών
 
 ## Privacy Section - Security
 ##

@@ -263,12 +263,24 @@ mr2022-onboarding-secondary-skip-button-label = Παράβλεψη βήματο�
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Ανοίξτε ένα καταπληκτικό διαδίκτυο
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Διατήρηση του { -brand-short-name } στο Dock
+       *[other] Καρφίτσωμα του { -brand-short-name } στη γραμμή εργασιών
+    }
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 
 ## MR2022 New User Set Default screen strings
 
+mr2022-onboarding-set-default-primary-button-label = Ορισμός του { -brand-short-name } ως προεπιλογής
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -277,6 +289,7 @@ mr2022-onboarding-secondary-skip-button-label = Παράβλεψη βήματο�
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Αστραπιαία ρύθμιση
 mr2022-onboarding-import-primary-button-label-no-attribution = Εισαγωγή από προηγούμενο πρόγραμμα περιήγησης
 
 ## If your language uses grammatical genders, in the description for the
@@ -287,6 +300,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Εισαγωγή 
 mr2022-onboarding-colorway-title = Επιλέξτε το χρώμα που σας εμπνέει
 mr2022-onboarding-colorway-subtitle = Οι ανεξάρτητες φωνές μπορούν να αλλάξουν τον πολιτισμό.
 mr2022-onboarding-colorway-primary-button-label = Ορισμός χρωματικού συνδυασμού
+mr2022-onboarding-existing-colorway-checkbox-label = Κάντε την { -firefox-home-brand-name } σας μια πολύχρωμη αρχική σελίδα
 mr2022-onboarding-colorway-label-default = Προεπιλογή
 mr2022-onboarding-colorway-tooltip-default =
     .title = Προεπιλογή
@@ -330,8 +344,8 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Σεβόμαστε πάντοτε το απόρρητό σας
-mr2022-onboarding-privacy-segmentation-primary-button-label = Προτάσεις του { -brand-product-name }
-mr2022-onboarding-privacy-segmentation-secondary-button-label = Λεπτομερείς πληροφορίες
+mr2022-onboarding-privacy-segmentation-button-primary-label = Χρήση προτάσεων του { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Εμφάνιση λεπτομερών πληροφοριών
 
 ## MR2022 Multistage Gratitude screen strings
 
