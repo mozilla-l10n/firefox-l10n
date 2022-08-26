@@ -1099,6 +1099,11 @@ addon-recommendations-link = Докладніше
 collection-health-report-disabled = Відправлення даних вимкнено для цієї конфігурації збірки
 collection-backlogged-crash-reports-with-link = Дозволити { -brand-short-name } надсилати звіти про збої від вашого імені <a data-l10n-name="crash-reports-link">Докладніше</a>
     .accesskey = м
+privacy-segmentation-section-header = Нові функції, які покращують ваш перегляд
+privacy-segmentation-radio-off =
+    .label = Використовувати рекомендації { -brand-product-name }
+privacy-segmentation-radio-on =
+    .label = Показати подробиці
 
 ## Privacy Section - Security
 ##
