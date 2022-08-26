@@ -6,6 +6,7 @@
 ## View / Layout
 
 appmenu-font-size-value = Lettergrutte
+appmenu-mail-uidensity-value = Tichtens
 appmenuitem-font-size-enlarge =
     .tooltiptext = Lettergrutte fergrutsje
 appmenuitem-font-size-reduce =
