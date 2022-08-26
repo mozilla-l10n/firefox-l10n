@@ -6,6 +6,7 @@
 ## View / Layout
 
 appmenu-font-size-value = Μέγεθος γραμματοσειράς
+appmenu-mail-uidensity-value = Πυκνότητα
 appmenuitem-font-size-enlarge =
     .tooltiptext = Αύξηση μεγέθους γραμματοσειράς
 appmenuitem-font-size-reduce =
