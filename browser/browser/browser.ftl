@@ -199,6 +199,12 @@ page-action-manage-extension =
     .label = Extensie beheren…
 page-action-remove-extension =
     .label = Extensie verwijderen
+page-action-manage-extension2 =
+    .label = Extensie beheren…
+    .accesskey = E
+page-action-remove-extension2 =
+    .label = Extensie verwijderen
+    .accesskey = v
 
 ## Auto-hide Context Menu
 
@@ -267,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Add-ons bekijken
 quickactions-cmd-addons = add-ons, extensies, thema’s
+quickactions-cmd-addons2 = add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks = Bladwijzers bekijken
 quickactions-cmd-bookmarks = bladwijzers
@@ -279,12 +286,18 @@ quickactions-cmd-clearhistory = geschiedenis wissen
 # Opens about:downloads page
 quickactions-downloads = Downloads openen
 quickactions-cmd-downloads = downloads
+# Opens about:addons page in the extensions section
+quickactions-extensions = Extensies beheren
+quickactions-cmd-extensions = extensies
 # Opens the devtools web inspector
 quickactions-inspector = Inspector openen
 quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins = Aanmeldingen weergeven
 quickactions-cmd-logins = aanmeldingen, wachtwoorden
+# Opens about:addons page in the plugins section
+quickactions-plugins = Plug-ins beheren
+quickactions-cmd-plugins = plug-ins
 # Opens the print dialog
 quickactions-print = Afdrukken
 quickactions-cmd-print = afdrukken
@@ -303,6 +316,9 @@ quickactions-cmd-screenshot = schermafbeelding
 # Opens about:preferences
 quickactions-settings = Instellingen openen
 quickactions-cmd-settings = instellingen, voorkeuren, opties
+# Opens about:addons page in the themes section
+quickactions-themes = Thema’s beheren
+quickactions-cmd-themes = thema’s
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } bijwerken
 quickactions-cmd-update = bijwerken
@@ -696,6 +712,8 @@ bookmarks-tools =
     .label = Bladwijzerhulpmiddelen
 bookmarks-bookmark-edit-panel =
     .label = Deze bladwijzer bewerken
+bookmarks-subview-edit-bookmark =
+    .label = Deze bladwijzer bewerken…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -712,6 +730,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Bladwijzer voor huidige tabblad maken
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Bladwijzer voor huidige tabblad maken…
 
 ## Library Panel items
 
