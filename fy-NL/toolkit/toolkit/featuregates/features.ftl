@@ -64,3 +64,6 @@ experimental-features-ime-search-description = In IME (Input Method Editor) is i
 experimental-features-text-recognition =
     .label = Tekstwerkenning
 experimental-features-text-recognition-description = Funksjes ynskeakelje om tekst yn ôfbyldingen te werkennen.
+experimental-features-accessibility-cache =
+    .label = Tagonklikheidsbuffer
+experimental-features-accessibility-cache-description = Sammelet alle tagonklikheidsynformaasje fan alle dokuminten yn it { -brand-short-name }-haadproses. Dit ferbetteret prestaasjes foar skermlêzers en oare applikaasjes dy’t tagonklikheids-API’s brûke.
