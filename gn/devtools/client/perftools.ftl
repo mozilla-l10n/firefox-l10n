@@ -142,6 +142,7 @@ perftools-presets-networking-label = Pyha
 perftools-presets-networking-description = Oñemoĩva ohapykuereka hag̃ua pyha apañuãi { -brand-shorter-name }-pe.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Tendyry
+perftools-presets-power-description = Oñemoĩva ohapykuerereka hag̃ua tendyry ndoikóirõ eipurukuévo { -brand-shorter-name }.
 perftools-presets-custom-label = Mboavapyre
 
 ##

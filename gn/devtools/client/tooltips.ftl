@@ -54,6 +54,7 @@ inactive-css-not-for-internal-table-elements-fix = Ikatu emboheko imba’etee <s
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Ikatúma emboheko imba’etee <strong>display</strong>iñambuéva<strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> térã <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Eñeha’ã embojuaju <strong>display:table<strong> térã <strong>display:inline-table</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Ehecha embojuaju <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, térã <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-ruby-element-fix = Emoambuekuaa <strong>teñoiha tuichakue</strong> moñe’rã pytãva. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
