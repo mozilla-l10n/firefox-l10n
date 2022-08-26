@@ -69,6 +69,7 @@ policy-ExtensionUpdate = Ενεργοποίηση ή απενεργοποίησ�
 policy-FirefoxHome = Ρύθμιση παραμέτρων της Αρχικής Firefox.
 policy-FirefoxHome2 = Διαμόρφωση του { -firefox-home-brand-name }.
 policy-FlashPlugin = Αποδοχή ή απόρριψη χρήσης του αρθρώματος Flash.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Αναγκαστική πλοήγηση στον ιστότοπο ενδοδικτύου, αντί για αναζήτηση κατά την πληκτρολόγηση μίας λέξης στη γραμμή διευθύνσεων.
 policy-Handlers = Ρύθμιση παραμέτρων χειριστών προεπιλεγμένης εφαρμογής.
 policy-HardwareAcceleration = Αν είναι ψευδές, απενεργοποίηση επιτάχυνσης υλικού.
 # “lock” means that the user won’t be able to change this setting

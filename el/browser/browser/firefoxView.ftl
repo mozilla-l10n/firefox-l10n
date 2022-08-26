@@ -39,6 +39,7 @@ firefoxview-tabpickup-network-offline-primarybutton = Δοκιμή ξανά
 firefoxview-tabpickup-sync-error-header = Υπάρχει πρόβλημα με τον συγχρονισμό
 firefoxview-tabpickup-generic-sync-error-description = Το { -brand-short-name } δεν μπορεί να επικοινωνήσει με την υπηρεσία συγχρονισμού αυτήν τη στιγμή. Δοκιμάστε ξανά σε λίγα λεπτά.
 firefoxview-tabpickup-sync-error-primarybutton = Δοκιμή ξανά
+firefoxview-tabpickup-sync-disconnected-header = Ενεργοποιήστε τον συγχρονισμό για να συνεχίσετε
 firefoxview-tabpickup-syncing = Περιμένετε μέχρι να συγχρονιστούν οι καρτέλες σας. Θα χρειαστεί μόνο μια στιγμή.
 firefoxview-mobile-promo-primarybutton = Λήψη του { -brand-product-name } για κινητά
 firefoxview-mobile-confirmation-header = 🎉 Όλα έτοιμα!
