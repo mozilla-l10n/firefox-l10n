@@ -60,7 +60,8 @@ from-app-seamonkey = { app-name-seamonkey } profilinden içe aktar
 from-app-outlook = { app-name-outlook }'tan içe aktar
 from-app-becky = { app-name-becky }'den içe aktar
 from-app-apple-mail = { app-name-apple-mail }'den içe aktar
-profiles-pane-title-seamonkey = { app-name-seamonkey } ayarlarını ve verilerini içe aktar.
+profiles-pane-title-thunderbird = Ayarları ve verileri { app-name-thunderbird } profilinden içe aktar.
+profiles-pane-title-seamonkey = Ayarları ve verileri { app-name-seamonkey } profilinden içe aktar.
 profiles-pane-title-outlook = { app-name-outlook } verilerini içe aktar.
 profiles-pane-title-becky = { app-name-becky } verilerini içe aktar.
 profiles-pane-title-apple-mail = İletileri { app-name-apple-mail }'den içe aktar.
@@ -138,6 +139,8 @@ csv-target-field = Adres defteri alanı
 
 ## Export tab
 
+export-profile-title = Hesapları, iletileri, adres defterlerini ve ayarları bir ZIP dosyasına aktar.
+export-profile-description = Mevcut profiliniz 2 GB'den büyükse manuel olarak yedeklemenizi öneririz.
 export-open-profile-folder = Profil klasörünü aç
 export-file-picker2 = ZIP dosyasına aktar
 export-brand-name = { -brand-product-name }

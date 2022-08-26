@@ -6,6 +6,7 @@
 ## View / Layout
 
 appmenu-font-size-value = Yazı tipi boyutu
+appmenu-mail-uidensity-value = Yoğunluk
 appmenuitem-font-size-enlarge =
     .tooltiptext = Yazı tipi boyutunu büyüt
 appmenuitem-font-size-reduce =
