@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Eklentileri görüntüle
 quickactions-cmd-addons = eklentiler, uzantılar, temalar
+quickactions-cmd-addons2 = eklentiler
 # Opens the bookmarks library window
 quickactions-bookmarks = Yer imlerini görüntüle
 quickactions-cmd-bookmarks = yer imleri
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = geçmişi temizle
 # Opens about:downloads page
 quickactions-downloads = İndirilenleri aç
 quickactions-cmd-downloads = indirilenler
+# Opens about:addons page in the extensions section
+quickactions-extensions = Uzantıları yönet
+quickactions-cmd-extensions = uzantılar
 # Opens the devtools web inspector
 quickactions-inspector = Denetçiyi aç
 quickactions-cmd-inspector = denetçi, geliştirici araçları
 # Opens about:logins
 quickactions-logins = Hesapları göster
 quickactions-cmd-logins = hesaplar, parolalar
+# Opens about:addons page in the plugins section
+quickactions-plugins = Yan uygulamaları yönet
+quickactions-cmd-plugins = yan uygulamalar
 # Opens the print dialog
 quickactions-print = Yazdır
 quickactions-cmd-print = yazdır
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = ekran görüntüsü
 # Opens about:preferences
 quickactions-settings = Ayarları aç
 quickactions-cmd-settings = ayarlar, tercihler, seçenekler
+# Opens about:addons page in the themes section
+quickactions-themes = Temaları yönet
+quickactions-cmd-themes = temalar
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } tarayıcısını güncelle
 quickactions-cmd-update = güncelle

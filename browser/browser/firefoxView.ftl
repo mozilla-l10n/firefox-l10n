@@ -38,7 +38,6 @@ firefoxview-tabpickup-network-offline-header = İnternet bağlantınızı kontro
 firefoxview-tabpickup-network-offline-description = Güvenlik duvarı veya vekil sunucu kullanıyorsanız { -brand-short-name } tarayıcısının web’e erişim iznine sahip olup olmadığını kontrol edin.
 firefoxview-tabpickup-network-offline-primarybutton = Yeniden dene
 firefoxview-tabpickup-sync-error-header = Eşitlemede sorun yaşıyoruz
-firefoxview-tabpickup-sync-error-description = { -brand-short-name } şu anda hizmete ulaşamıyor. Birkaç dakika sonra yeniden deneyin.
 firefoxview-tabpickup-sync-error-primarybutton = Yeniden dene
 firefoxview-tabpickup-syncing = Sekmeleriniz eşitleniyor. Birkaç saniye bekleyin.
 firefoxview-mobile-promo-header = Telefon veya tabletinizdeki sekmelerinize erişin
@@ -47,8 +46,6 @@ firefoxview-mobile-promo-primarybutton = Mobil cihazlar için { -brand-product-n
 firefoxview-mobile-confirmation-header = 🎉 Her şey hazır!
 firefoxview-mobile-confirmation-description = Artık { -brand-product-name } sekmelerinize tabletinizden ve telefonunuzdan ulaşabilirsiniz.
 firefoxview-closed-tabs-title = Son kapatılanlar
-firefoxview-closed-tabs-collapse-button =
-    .title = Son kapatılan sekmeler listesini göster veya gizle
 firefoxview-closed-tabs-description = Bu cihazda kapattığınız sayfaları yeniden açın.
 firefoxview-closed-tabs-placeholder = <strong>Yakın zamanda kapatılan sayfa yok<strong><br/>Ama kapattığınız sekmeleri kaybetmekten korkmanıza da gerek. Kapattığınız sekmeleri istediğiniz zaman buradan tekrar açabilirsiniz.
 # refers to the last tab that was used
@@ -65,3 +62,7 @@ firefoxview-change-colorway-button = Renk kuşağını değiştir
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Henüz burada bir şey yok</strong><br/>Başka bir cihazdaki { -brand-product-name } tarayıcınızda bir sayfa açtığınızda burada görünecek.
+firefoxview-collapse-button-show =
+    .title = Listeyi göster
+firefoxview-collapse-button-hide =
+    .title = Listeyi gizle
