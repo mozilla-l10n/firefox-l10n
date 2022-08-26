@@ -64,3 +64,6 @@ experimental-features-ime-search-description = Το IME (Input Method Editor) ε
 experimental-features-text-recognition =
     .label = Αναγνώριση κειμένου
 experimental-features-text-recognition-description = Ενεργοποιήστε τις λειτουργίες αναγνώρισης κειμένου σε εικόνες.
+experimental-features-accessibility-cache =
+    .label = Προσωρινή μνήμη προσβασιμότητας
+experimental-features-accessibility-cache-description = Αποθηκεύει προσωρινά όλες τις πληροφορίες προσβασιμότητας από όλα τα έγγραφα στην κύρια διεργασία του { -brand-short-name }. Αυτό βελτιώνει τις επιδόσεις των λογισμικών ανάγνωσης οθόνης και άλλων εφαρμογών που χρησιμοποιούν API προσβασιμότητας.

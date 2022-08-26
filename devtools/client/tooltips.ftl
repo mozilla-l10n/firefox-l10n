@@ -32,6 +32,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells = Το <strong>{
 inactive-css-not-table = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι πίνακας.
 inactive-scroll-padding-when-not-scroll-container = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν κάνει κύλιση.
 inactive-css-border-image = Το <strong>{ $property }</strong> δεν έχει καμία επίδραση σε αυτό το στοιχείο, επειδή δεν μπορεί να εφαρμοστεί σε εσωτερικά στοιχεία πίνακα όπου το <strong>border-collapse</strong> έχει οριστεί σε <strong>collapse</strong>, στο στοιχείο γονικού πίνακα.
+inactive-css-ruby-element = Το <strong>{ $property }</strong> δεν έχει καμία επίδραση σε αυτό το στοιχείο, επειδή είναι στοιχείο ruby. Το μέγεθός του καθορίζεται από το μέγεθος γραμματοσειράς του κειμένου ruby.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -54,6 +55,7 @@ inactive-css-not-for-internal-table-elements-fix = Δοκιμάστε να ορ�
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Δοκιμάστε να ορίσετε την ιδιότητα <strong>display</strong> του σε κάτι άλλο εκτός από <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, ή <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Δοκιμάστε να προσθέσετε το <strong>display:table</strong> ή το <strong>display:inline-table</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Δοκιμάστε να προσθέσετε το <strong>overflow:auto</strong>, το <strong>overflow:scroll</strong>, ή το <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-border-image-fix = Στο στοιχείο γονικού πίνακα, καταργήστε την ιδιότητα ή αλλάξτε την τιμή του <strong>border-collapse</strong> σε μια τιμή εκτός της <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Δοκιμάστε να αλλάξετε το <strong>font-size</strong> του κειμένου ruby. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers

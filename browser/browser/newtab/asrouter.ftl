@@ -156,6 +156,9 @@ spotlight-total-cookie-protection-expanded = Το { -brand-short-name } δημι
 spotlight-total-cookie-protection-primary-button = Ενεργοποίηση ολικής προστασίας cookie
 spotlight-total-cookie-protection-secondary-button = Όχι τώρα
 cfr-total-cookie-protection-header = Χάρη σε εσάς, το { -brand-short-name } είναι πιο ιδιωτικό και ασφαλές από ποτέ
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = Η Ολική προστασία cookie είναι η ισχυρότερη προστασία απορρήτου μέχρι σήμερα – και αποτελεί πλέον προεπιλεγμένη ρύθμιση για όλους τους χρήστες του { -brand-short-name }. Δεν θα το είχαμε καταφέρει χωρίς την πρώιμη πρόσβαση από συμμετέχοντες, όπως εσείς. Ευχαριστούμε λοιπόν που μας βοηθήσατε να δημιουργήσουμε ένα καλύτερο, πιο ιδιωτικό διαδίκτυο.
 
 ## Emotive Continuous Onboarding
 
