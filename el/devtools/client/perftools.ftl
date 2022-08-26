@@ -101,8 +101,14 @@ perftools-thread-jvm-gecko =
     .title = Το κύριο νήμα Gecko JVM
 perftools-thread-jvm-nimbus =
     .title = Τα κύρια νήματα για το SDK πειραμάτων Nimbus
+perftools-thread-jvm-default-dispatcher =
+    .title = Ο προεπιλεγμένος αποστολέας για τη βιβλιοθήκη «coroutines» της Kotlin
 perftools-thread-jvm-glean =
     .title = Τα κύρια νήματα για το SDK τηλεμετρίας Glean
+perftools-thread-jvm-arch-disk-io =
+    .title = Ο αποστολέας IO για τη βιβλιοθήκη «coroutines» της Kotlin
+perftools-thread-jvm-pool =
+    .title = Νήματα που δημιουργήθηκαν σε μια ανώνυμη ομάδα νημάτων
 
 ##
 
