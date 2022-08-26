@@ -1094,6 +1094,11 @@ addon-recommendations-link = Маълумоти бештар
 collection-health-report-disabled = Гузоришдиҳии маълумот барои ин танзими сохт ғайрифаъол карда шуд
 collection-backlogged-crash-reports-with-link = Иҷозат додан ба { -brand-short-name } барои фиристодани аз номи шумо гузоришҳо бо сабтҳои вайроншавӣ ва корҳои иҷронашуда <a data-l10n-name="crash-reports-link">Маълумоти бештар</a>
     .accesskey = И
+privacy-segmentation-section-header = Хусусиятҳои нав, ки таҷрибаи тамошокунии шуморо беҳтар мекунанд
+privacy-segmentation-radio-off =
+    .label = Истифода бурдан аз тавсияҳои «{ -brand-product-name }»
+privacy-segmentation-radio-on =
+    .label = Намоиш додани маълумоти муфассал
 
 ## Privacy Section - Security
 ##

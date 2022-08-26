@@ -302,11 +302,13 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Ворид кар
 ## help creating a more inclusive translation.
 
 mr2022-onboarding-colorway-title = Ранги илҳомбахши худро интихоб намоед
+mr2022-onboarding-colorway-subtitle = Овозҳои мустақил метавонанд фарҳанги браузерро тағйир диҳанд.
 mr2022-onboarding-colorway-primary-button-label = Татбиқи нақшу нигор
 mr2022-onboarding-existing-colorway-checkbox-label = Бигузор { -firefox-home-brand-name } саҳифаи асосии рангини шумо шавад
 mr2022-onboarding-colorway-label-default = Пешфарз
 mr2022-onboarding-colorway-tooltip-default =
     .title = Пешфарз
+mr2022-onboarding-colorway-description-default = <b>Истифода бурдани рангҳои ҷории ман дар «{ -brand-short-name }».</b>
 mr2022-onboarding-colorway-label-playmaker = Бозингар
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Бозингар
@@ -349,9 +351,8 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Мо ҳамеша махфияти шуморо эҳтиром мекунем
-mr2022-onboarding-privacy-segmentation-primary-button-label = Тавсияҳои { -brand-product-name }
-mr2022-onboarding-privacy-segmentation-secondary-button-label = Маълумоти муфассал
 mr2022-onboarding-privacy-segmentation-button-primary-label = Истифода бурдан аз тавсияҳои «{ -brand-product-name }»
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Намоиш додани маълумоти муфассал
 
 ## MR2022 Multistage Gratitude screen strings
 
