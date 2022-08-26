@@ -9,3 +9,9 @@ callout-primary-complete-button-label = J’ai compris
 
 ## Firefox View feature tour strings
 
+# "Tab pickup" refers to the section in Firefox View that displays open
+# tabs from other devices
+callout-firefox-view-tab-pickup-title = Jonglez entre vos appareils grâce à la récupération d’onglets
+callout-firefox-view-colorways-title = Ajoutez une touche de couleur
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Choisissez la nuance qui vous correspond grâce aux coloris. Seulement dans { -brand-product-name }.
