@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Vis tillegg
 quickactions-cmd-addons = tillegg, utviding, tema
+quickactions-cmd-addons2 = tillegg
 # Opens the bookmarks library window
 quickactions-bookmarks = Vis bokmerke
 quickactions-cmd-bookmarks = bokmerke
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = tøm historikk
 # Opens about:downloads page
 quickactions-downloads = Opne nedlastingar
 quickactions-cmd-downloads = nedlastingar
+# Opens about:addons page in the extensions section
+quickactions-extensions = Handsam utviding
+quickactions-cmd-extensions = Utvidingar
 # Opens the devtools web inspector
 quickactions-inspector = Opne inspeksjon
 quickactions-cmd-inspector = inspektør, utviklarverktøy
 # Opens about:logins
 quickactions-logins = Vis innloggingar
 quickactions-cmd-logins = Innloggingar, passord
+# Opens about:addons page in the plugins section
+quickactions-plugins = Handsam programtillegg
+quickactions-cmd-plugins = programtillegg
 # Opens the print dialog
 quickactions-print = Skriv ut
 quickactions-cmd-print = utskrift, skriv ut
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = skjermbilete
 # Opens about:preferences
 quickactions-settings = Opne Innstillingar
 quickactions-cmd-settings = val, innstillingar, alternativ
+# Opens about:addons page in the themes section
+quickactions-themes = Handsam tema
+quickactions-cmd-themes = tema
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Oppdater { -brand-short-name }
 quickactions-cmd-update = oppdater
