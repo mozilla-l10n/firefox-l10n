@@ -294,30 +294,95 @@ mr2022-onboarding-existing-pin-checkbox-label = Voeg ook privénavigatie met { -
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Maak van { -brand-short-name } uw favoriete browser
+mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } instellen als standaardbrowser
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Gebruik een browser die wordt ondersteund door een non-profitorganisatie. Wij verdedigen uw privacy terwijl u rondsurft op het internet.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Onze nieuwste versie is rondom u gebouwd, waardoor het eenvoudiger dan ooit is om over het internet te surfen. Het zit boordevol functies waarvan we denken dat u er dol op zult zijn.
+mr2022-onboarding-get-started-primary-button-label = Binnen enkele seconden opgezet
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Razendsnelle installatie
+mr2022-onboarding-import-subtitle = Stel { -brand-short-name } in zoals u het wilt. Voeg uw bladwijzers, wachtwoorden en meer toe vanuit uw oude browser.
+mr2022-onboarding-import-primary-button-label-no-attribution = Importeren uit vorige browser
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Kies de kleur die u inspireert
+mr2022-onboarding-colorway-subtitle = Onafhankelijke stemmen kunnen cultuur veranderen.
+mr2022-onboarding-colorway-primary-button-label = Kleurstelling instellen
+mr2022-onboarding-existing-colorway-checkbox-label = Maak van { -firefox-home-brand-name } uw kleurrijke startpagina
+mr2022-onboarding-colorway-label-default = Standaard
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Standaard
+mr2022-onboarding-colorway-description-default = <b>Mijn huidige { -brand-short-name }-kleuren gebruiken.</b>
+mr2022-onboarding-colorway-label-playmaker = Spelmaker
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Spelmaker
+mr2022-onboarding-colorway-description-playmaker = <b>U bent een spelmaker.</b> U creëert kansen om te winnen en helpt iedereen om u heen hun spel te verbeteren.
+mr2022-onboarding-colorway-label-expressionist = Expressionist
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Expressionist
+mr2022-onboarding-colorway-description-expressionist = <b>U bent een expressionist.</b> U ziet de wereld anders en uw creaties roeren de emoties van anderen.
+mr2022-onboarding-colorway-label-visionary = Visionair
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Visionair
+mr2022-onboarding-colorway-description-visionary = <b>U bent een visionair.</b> U trekt de status-quo in twijfel en stimuleert anderen om zich een betere toekomst voor te stellen.
+mr2022-onboarding-colorway-label-activist = Activist
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Activist
+mr2022-onboarding-colorway-description-activist = <b>U bent een activist.</b> U laat de wereld mooier achter dan u hem aantrof en laat anderen geloven.
+mr2022-onboarding-colorway-label-dreamer = Dromer
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Dromer
+mr2022-onboarding-colorway-description-dreamer = <b>U bent een dromer.</b> U gelooft dat geluk met de stoutmoedigen is en inspireert anderen om dapper te zijn.
+mr2022-onboarding-colorway-label-innovator = Innovator
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Innovator
+mr2022-onboarding-colorway-description-innovator = <b>U bent een innovator.</b> U ziet overal kansen en hebt invloed op het leven van iedereen om u heen.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Spring van laptop naar telefoon en weer terug
+mr2022-onboarding-mobile-download-subtitle = Haal tabbladen van het ene apparaat op en ga verder waar u was gebleven op een ander. Synchroniseer daarnaast uw bladwijzers en wachtwoorden overal waar u { -brand-product-name } gebruikt.
+mr2022-onboarding-mobile-download-cta-text = Scan de QR-code om { -brand-product-name } voor mobiel te downloaden of <a data-l10n-name="download-label">stuur uzelf een downloadkoppeling.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Scan de QR-code om { -brand-product-name } voor mobiel te downloaden
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Ontvang de vrijheid van privénavigatie in één klik
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Geen opgeslagen cookies of geschiedenis, rechtstreeks vanaf uw bureaublad. Surf alsof niemand kijkt.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] { -brand-short-name }-privénavigatie in de Dock houden
+       *[other] { -brand-short-name }-privénavigatie aan mijn taakbalk vastmaken
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = We respecteren altijd uw privacy
+mr2022-onboarding-privacy-segmentation-subtitle = Van intelligente suggesties tot slimmer zoeken, we werken voortdurend aan een betere, meer persoonlijke { -brand-product-name }.
+mr2022-onboarding-privacy-segmentation-text-cta = Wat wilt u zien als we nieuwe functies aanbieden die uw gegevens gebruiken om uw navigatie te verbeteren?
+mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name }-aanbevelingen gebruiken
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Detailinformatie tonen
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = U helpt ons een beter web te bouwen.
+mr2022-onboarding-gratitude-subtitle = Bedankt voor het gebruik van { -brand-short-name }, ondersteund door de Mozilla Foundation. Met uw steun werken we eraan om het internet voor iedereen opener, toegankelijker en beter te maken.
+mr2022-onboarding-gratitude-primary-button-label = Zie wat er nieuw is
+mr2022-onboarding-gratitude-secondary-button-label = Beginnen met browsen

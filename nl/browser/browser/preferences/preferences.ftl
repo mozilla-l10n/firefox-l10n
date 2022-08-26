@@ -933,7 +933,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Zoekmachines
     .accesskey = o
+addressbar-locbar-quickactions-option =
+    .label = Snelle acties
+    .accesskey = S
 addressbar-suggestions-settings = Voorkeuren voor zoekmachinesuggesties wijzigen
+addressbar-quickactions-learn-more = Meer info
 
 ## Privacy Section - Content Blocking
 
@@ -1091,6 +1095,12 @@ addon-recommendations-link = Meer info
 collection-health-report-disabled = Gegevensrapportage is uitgeschakeld voor deze buildconfiguratie
 collection-backlogged-crash-reports-with-link = { -brand-short-name } toestaan om namens u achterstallige crashrapporten te verzenden. <a data-l10n-name="crash-reports-link">Meer info</a>
     .accesskey = c
+privacy-segmentation-section-header = Nieuwe functies die uw browsen verbeteren
+privacy-segmentation-section-description = Wanneer we functies aanbieden die uw gegevens gebruiken om u een meer persoonlijke ervaring te bieden:
+privacy-segmentation-radio-off =
+    .label = { -brand-product-name }-aanbevelingen gebruiken
+privacy-segmentation-radio-on =
+    .label = Detailinformatie tonen
 
 ## Privacy Section - Security
 ##
