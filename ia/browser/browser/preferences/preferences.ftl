@@ -1095,6 +1095,10 @@ addon-recommendations-link = Saper plus
 collection-health-report-disabled = Le reporto de datos es inactive pro iste configuration de compilation
 collection-backlogged-crash-reports-with-link = Permitter que { -brand-short-name } invia in tu nomine le reportos accumulate de crash <a data-l10n-name="crash-reports-link">saper plus</a>
     .accesskey = P
+privacy-segmentation-radio-off =
+    .label = Usar recommendationes de { -brand-product-name }
+privacy-segmentation-radio-on =
+    .label = Monstrar informationes detaliate
 
 ## Privacy Section - Security
 ##
