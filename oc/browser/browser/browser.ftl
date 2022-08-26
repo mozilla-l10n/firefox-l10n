@@ -273,7 +273,7 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Veire los moduls
 quickactions-cmd-addons = moduls, extensions, tèmas
 # Opens the bookmarks library window
@@ -285,6 +285,9 @@ quickactions-cmd-clearhistory = escafar l'istoric
 # Opens about:downloads page
 quickactions-downloads = Dobrir los telecargaments
 quickactions-cmd-downloads = telecargaments
+# Opens about:addons page in the extensions section
+quickactions-extensions = Gerir las extensions
+quickactions-cmd-extensions = extensions
 # Opens the devtools web inspector
 quickactions-inspector = dobrir l’inspector
 # Opens the print dialog
@@ -303,6 +306,7 @@ quickactions-cmd-screenshot = captura d’ecran
 # Opens about:preferences
 quickactions-settings = Dobrir los paramètres
 quickactions-cmd-settings = paramètres, preferéncias, opcions
+quickactions-cmd-themes = tèmas
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Metre a jorn { -brand-short-name }
 quickactions-cmd-update = mesa a jorn
