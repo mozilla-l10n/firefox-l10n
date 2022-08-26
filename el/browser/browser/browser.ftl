@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Προβολή προσθέτων
 quickactions-cmd-addons = πρόσθετα, επεκτάσεις, θέματα
+quickactions-cmd-addons2 = πρόσθετα
 # Opens the bookmarks library window
 quickactions-bookmarks = Προβολή σελιδοδεικτών
 quickactions-cmd-bookmarks = σελιδοδείκτες
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = απαλοιφή ιστορικού, εκκαθ�
 # Opens about:downloads page
 quickactions-downloads = Άνοιγμα λήψεων
 quickactions-cmd-downloads = λήψεις
+# Opens about:addons page in the extensions section
+quickactions-extensions = Διαχείριση επεκτάσεων
+quickactions-cmd-extensions = επεκτάσεις
 # Opens the devtools web inspector
 quickactions-inspector = Άνοιγμα επιθεώρησης
 quickactions-cmd-inspector = επιθεώρηση, εργαλεία προγραμματιστή, εργαλεία ανάπτυξης, devtools
 # Opens about:logins
 quickactions-logins = Προβολή συνδέσεων
 quickactions-cmd-logins = συνδέσεις, στοιχεία σύνδεσης, διαπιστευτήρια, κωδικοί πρόσβασης
+# Opens about:addons page in the plugins section
+quickactions-plugins = Διαχείριση αρθρωμάτων
+quickactions-cmd-plugins = αρθρώματα
 # Opens the print dialog
 quickactions-print = Εκτύπωση
 quickactions-cmd-print = εκτύπωση
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = στιγμιότυπο
 # Opens about:preferences
 quickactions-settings = Άνοιγμα ρυθμίσεων
 quickactions-cmd-settings = ρυθμίσεις, προτιμήσεις, επιλογές
+# Opens about:addons page in the themes section
+quickactions-themes = Διαχείριση θεμάτων
+quickactions-cmd-themes = θέματα
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Ενημέρωση του { -brand-short-name }
 quickactions-cmd-update = ενημέρωση
