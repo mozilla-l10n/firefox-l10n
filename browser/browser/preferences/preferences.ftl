@@ -979,7 +979,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = נסו את תכונת הפרטיות העוצמתית ביותר שלנו אי פעם
     .accesskey = נ
 # "Contains" here means "isolates", "limits".
-content-blocking-etp-standard-tcp-rollout-description = הגנת עוגיות מלאה מגבילה עוגיות לאתר שבו אתה נמצא, כך שרכיבי מעקב לא יכולים להשתמש בהם כדי לעקוב אחרי בין אתרים.
+content-blocking-etp-standard-tcp-rollout-description = הגנת עוגיות מלאה מגבילה עוגיות לאתר שבו אתה נמצא, כך שרכיבי מעקב לא יכולים להשתמש בהן כדי לעקוב אחריך בין אתרים.
 content-blocking-etp-standard-tcp-rollout-learn-more = מידע נוסף
 content-blocking-etp-standard-tcp-title = כולל הגנת עוגיות מלאה, תכונת הפרטיות העוצמתית ביותר שלנו אי פעם
 content-blocking-warning-title = לתשומת לבך!
