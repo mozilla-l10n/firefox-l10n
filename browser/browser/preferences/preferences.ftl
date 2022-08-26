@@ -1093,6 +1093,10 @@ collection-backlogged-crash-reports-with-link = לאפשר ל־{ -brand-short-na
     .accesskey = ק
 privacy-segmentation-section-header = תכונות חדשות שמשפרות את הגלישה שלך
 privacy-segmentation-section-description = כשאנחנו מציעים תכונות המשתמשות בנתונים שלך כדי להעניק לך חוויה אישית יותר:
+privacy-segmentation-radio-off =
+    .label = שימוש בהצעות של { -brand-product-name }
+privacy-segmentation-radio-on =
+    .label = הצגת מידע מפורט
 
 ## Privacy Section - Security
 ##
