@@ -57,7 +57,7 @@ firefoxview-pickup-tabs-badge = Lêst aktyf
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
-    .title = { $targetURI } yn in nij ljepblêd iepenje
+    .title = { $targetURI } iepenje yn in nij ljepblêd
 firefoxview-try-colorways-button = Kleurstellingen probearje
 firefoxview-no-current-colorway-collection = Nije kleurstellingen binne ûnderweis
 firefoxview-change-colorway-button = Kleurstelling wizigje
