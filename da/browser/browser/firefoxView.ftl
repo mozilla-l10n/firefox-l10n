@@ -45,6 +45,8 @@ firefoxview-mobile-confirmation-header = 🎉 Alt er klart!
 firefoxview-closed-tabs-title = Senest lukkede
 firefoxview-closed-tabs-description = Genåbn sider, du har lukket på denne enhed.
 firefoxview-closed-tabs-placeholder = <strong>Ingen seneste lukkede faneblade</strong><br/>Du behøver ikke at være bange for at miste lukkede faneblade igen - du kan altid finde dem her.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Seneste aktive
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =

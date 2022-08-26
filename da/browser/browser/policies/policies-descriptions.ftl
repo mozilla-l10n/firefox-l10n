@@ -67,6 +67,7 @@ policy-Extensions = Installer, afinstaller eller lås udvidelser. Valgmuligheden
 policy-ExtensionSettings = Håndter alle aspekter af udvidelses-installering.
 policy-ExtensionUpdate = Slå automatisk opdatering af udvidelser til eller fra.
 policy-FirefoxHome = Indstil Firefox' startside.
+policy-FirefoxHome2 = Konfigurer { -firefox-home-brand-name }.
 policy-FlashPlugin = Tillad eller afvis brug af Flash-plugin.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Gennemtving direkte intranet-navigation fremfor søgning, når der indtastes enkelte ord i adresselinjen.
 policy-Handlers = Indstil håndtering af standard-applikationer.
