@@ -64,3 +64,5 @@ experimental-features-ime-search-description = Peteĩ IME (Input Method Editor) 
 experimental-features-text-recognition =
     .label = Moñe’ẽrã kuaaukaha
 experimental-features-text-recognition-description = Emyandy moñe’ẽrã jekuaaukaha ta’ãnga rupive.
+experimental-features-accessibility-cache =
+    .label = Kache jeikerãva

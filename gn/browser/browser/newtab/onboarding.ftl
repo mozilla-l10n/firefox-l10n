@@ -283,6 +283,7 @@ mr2022-onboarding-existing-pin-checkbox-label = Embojuaju kundaha ñemigua { -br
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = Ejapo { -brand-short-name }-gui ne kundaha ehayhuvévarõ
+mr2022-onboarding-set-default-primary-button-label = Ajapo { -brand-short-name }-gui kundahára ypyguávarõ
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -307,6 +308,7 @@ mr2022-onboarding-existing-colorway-checkbox-label = Ejapo { -firefox-home-brand
 mr2022-onboarding-colorway-label-default = Ijypykue
 mr2022-onboarding-colorway-tooltip-default =
     .title = Ijypykue
+mr2022-onboarding-colorway-description-default = <b>Eipuru sa’y ag̃agua { -brand-short-name } mba’éva.</b>
 mr2022-onboarding-colorway-label-playmaker = Ñembosarái moheñoiha
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Ñembosarái moheñoiha
@@ -328,6 +330,7 @@ mr2022-onboarding-colorway-tooltip-innovator =
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Emoambue mohendahágui pumbyrýpe ha jevýpe
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -342,8 +345,12 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Opa ára romomba’e nde rekoñemi
+mr2022-onboarding-privacy-segmentation-button-primary-label = Eipuru he’iháicha { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Ehechauka marandu oĩháicha
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Nereipytyvõi oiko hag̃ua ñanduti iporãvéva.
 mr2022-onboarding-gratitude-primary-button-label = Ehecha mba’epyahu
 mr2022-onboarding-gratitude-secondary-button-label = Eñepyrũ eikundaha
