@@ -6,6 +6,7 @@
 ## View / Layout
 
 appmenu-font-size-value = Letra-tamaina
+appmenu-mail-uidensity-value = Dentsitatea
 appmenuitem-font-size-enlarge =
     .tooltiptext = Handiagotu letra-tipoaren tamaina
 appmenuitem-font-size-reduce =
