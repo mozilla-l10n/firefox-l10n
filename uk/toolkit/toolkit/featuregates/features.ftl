@@ -66,3 +66,4 @@ experimental-features-text-recognition =
 experimental-features-text-recognition-description = Увімкніть функції розпізнавання тексту на зображеннях.
 experimental-features-accessibility-cache =
     .label = Кеш підтримки доступності
+experimental-features-accessibility-cache-description = Кешує всю інформацію підтримки доступності з усіх документів у основному процесі { -brand-short-name }. Це пришвидшує роботу зчитувачів з екрана та інших програм, які використовують API підтримки доступності.
