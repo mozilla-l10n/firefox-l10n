@@ -12,5 +12,6 @@ callout-primary-complete-button-label = ¡Arekóma!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Epo mba’e’oka pa’ũme embyatykuévo ficha
+callout-firefox-view-tab-pickup-subtitle = Egueru pya’e tendayke ijurujáva pumbyrýgui ha embojuruja ojepurutahápe tuichaháicha.
 callout-firefox-view-recently-closed-title = Erujey tendayke mbotypyre sapy’aitépe
 callout-firefox-view-colorways-title = Embojuaju sa’y sa’imi
