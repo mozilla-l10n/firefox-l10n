@@ -419,11 +419,8 @@ mr2022-onboarding-no-mobile-download-cta-text = Scansiona il codice QR per otten
 
 mr2022-onboarding-privacy-segmentation-title = Rispettiamo sempre la tua privacy
 mr2022-onboarding-privacy-segmentation-subtitle = Da suggerimenti intelligenti a ricerche più efficienti, siamo sempre al lavoro per creare un’esperienza migliore e più personale in { -brand-product-name }.
-mr2022-onboarding-privacy-segmentation-cta-text = Quando offriamo nuove funzioni che utilizzano i tuoi dati per migliorare la navigazione, vuoi visualizzare:
-mr2022-onboarding-privacy-segmentation-primary-button-label = Suggerimenti di { -brand-product-name }
-mr2022-onboarding-privacy-segmentation-secondary-button-label = Informazioni dettagliate
 
-mr2022-onboarding-privacy-segmentation-text-cta = Quale scelta preferisci quando offriamo nuove funzioni che utilizzano i tuoi dati per migliorare la navigazione?
+mr2022-onboarding-privacy-segmentation-text-cta = Quale scelta preferisci quando introduciamo nuove funzioni che utilizzano i tuoi dati per migliorare la navigazione?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Usa le impostazioni consigliate da { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostra informazioni dettagliate
 

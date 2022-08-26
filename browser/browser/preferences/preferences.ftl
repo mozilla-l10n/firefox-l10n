@@ -1317,6 +1317,16 @@ collection-health-report-disabled = L’invio dei dati è stato disattivato nell
 collection-backlogged-crash-reports-with-link = Consenti a { -brand-short-name } di inviare segnalazioni di arresto anomalo in sospeso <a data-l10n-name="crash-reports-link">Ulteriori informazioni</a>
     .accesskey = C
 
+privacy-segmentation-section-header = Nuove funzioni per migliorare la navigazione
+
+privacy-segmentation-section-description = Quando introduciamo nuove funzioni che utilizzano i tuoi dati per offrire un’esperienza più personale:
+
+privacy-segmentation-radio-off =
+    .label = Usa le impostazioni consigliate da { -brand-product-name }
+
+privacy-segmentation-radio-on =
+    .label = Mostra informazioni dettagliate
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
