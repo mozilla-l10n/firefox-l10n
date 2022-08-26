@@ -6,6 +6,7 @@
 ## View / Layout
 
 appmenu-font-size-value = Velikost pisave
+appmenu-mail-uidensity-value = Gostota
 appmenuitem-font-size-enlarge =
     .tooltiptext = Povečaj velikost pisave
 appmenuitem-font-size-reduce =
