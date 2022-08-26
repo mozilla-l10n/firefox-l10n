@@ -356,7 +356,7 @@ mr2022-onboarding-colorway-description-innovator = <b>혁신가입니다.</b> �
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = 노트북에서 휴대폰으로 이동 후 다시 이동
-mr2022-onboarding-mobile-download-subtitle = 한 기기에서 탭을 가져와서 다른 기기에서 그 중단한 부분을 엽니다. 또한 { -brand-product-name }를 사용하는 곳이면 어디에서나 북마크와 비밀번호를 동기화할 수 있습니다.
+mr2022-onboarding-mobile-download-subtitle = 한 기기의 탭을 가져와서 다른 기기에서 중단한 부분부터 다시 시작하세요. 또한 { -brand-product-name }를 사용하는 곳이면 어디에서나 북마크와 비밀번호를 동기화할 수 있습니다.
 mr2022-onboarding-mobile-download-cta-text = QR 코드를 스캔하여 모바일용 { -brand-product-name }를 받거나 <a data-l10n-name="download-label">다운로드 링크를 보내세요.</a>
 mr2022-onboarding-no-mobile-download-cta-text = 모바일용 { -brand-product-name }를 받으려면 QR 코드를 스캔하세요.
 
@@ -375,9 +375,6 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = 항상 개인 정보를 존중합니다
 mr2022-onboarding-privacy-segmentation-subtitle = 지능적인 제안에서 더 똑똑한 검색에 이르기까지 저희는 더 좋고 더 개인화된 { -brand-product-name }를 만들기 위해 끊임없이 노력하고 있습니다.
-mr2022-onboarding-privacy-segmentation-cta-text = 사용자의 탐색을 향상시키기 위해 사용자의 데이터를 사용하는 새로운 기능을 제공할 때 다음을 보시겠습니까:
-mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } 추천
-mr2022-onboarding-privacy-segmentation-secondary-button-label = 자세한 정보
 mr2022-onboarding-privacy-segmentation-text-cta = 사용자의 탐색을 향상시키기 위해 사용자의 데이터를 사용하는 새로운 기능을 제공할 때 무엇을 보고 싶습니까?
 mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name } 추천 사용
 mr2022-onboarding-privacy-segmentation-button-secondary-label = 자세한 정보 표시
