@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Ehecha Moĩmbaha
 quickactions-cmd-addons = moĩmbaha, jepysokue, téma
+quickactions-cmd-addons2 = moĩmbaha
 # Opens the bookmarks library window
 quickactions-bookmarks = Ehecha Techaukaha
 quickactions-cmd-bookmarks = techaukaha
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = embogue tembiasakue
 # Opens about:downloads page
 quickactions-downloads = Embojuruja ñemboguejy
 quickactions-cmd-downloads = ñemboguejy
+# Opens about:addons page in the extensions section
+quickactions-extensions = Eñangareko jepysokuére
+quickactions-cmd-extensions = jepysokue
 # Opens the devtools web inspector
 quickactions-inspector = Embojuruja Mbohekoha
 quickactions-cmd-inspector = moambuekuaaha, ñemboguata rembipuru
 # Opens about:logins
 quickactions-logins = Ehecha tembiapo ñepyrũ
 quickactions-cmd-logins = tembiapo ñepyrũ, ñe’ẽñemi
+# Opens about:addons page in the plugins section
+quickactions-plugins = Eñangareko mba’ejoajurãre
+quickactions-cmd-plugins = Mba’ejoajurã
 # Opens the print dialog
 quickactions-print = Mbokuatia
 quickactions-cmd-print = Mbokuatia
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = Ta’ãnga japyhy
 # Opens about:preferences
 quickactions-settings = Embojuruja ñemboheko
 quickactions-cmd-settings = moĩporã, guerohoryvéva, poravorã
+# Opens about:addons page in the themes section
+quickactions-themes = Eñangareko témare
+quickactions-cmd-themes = Téma
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Embohekopyahu { -brand-short-name }
 quickactions-cmd-update = mbohekopyahu
