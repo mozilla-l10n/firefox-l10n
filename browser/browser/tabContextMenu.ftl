@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Bladwijzer voor tabblad maken
     .accesskey = t
+tab-context-bookmark-tab =
+    .label = Bladwijzer voor tabblad maken…
+    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = Openen in nieuw containertabblad
     .accesskey = e
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Tabbladen verplaatsen
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
