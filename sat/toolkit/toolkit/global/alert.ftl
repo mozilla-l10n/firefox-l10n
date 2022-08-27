@@ -3,4 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 alert-close =
-    .tooltiptext = नोवा इतला़य बोनदोय मे
+    .tooltiptext = ᱱᱚᱣᱟ ᱤᱛᱞᱟᱹᱭ ᱵᱚᱱᱫᱚᱭ ᱢᱮ
+alert-settings-title =
+    .tooltiptext = ᱥᱟᱡᱟᱣ ᱠᱚ
