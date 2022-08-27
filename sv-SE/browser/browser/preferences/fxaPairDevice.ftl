@@ -15,5 +15,5 @@ fxa-qrcode-pair-title = Synkronisera { -brand-product-name } på din telefon ell
 fxa-qrcode-pair-step1 = 1. Öppna { -brand-product-name } på din mobila enhet.
 fxa-qrcode-pair-step2 = 2. Öppna <strong>menyn</strong> (<img data-l10n-name="ios-menu-icon"/> på iOS eller <img data-l10n-name="android-menu-icon"/> på Android) och tryck på <strong>Logga in för att synkronisera</strong>
 fxa-qrcode-pair-step3 = 3. Tryck på <strong>Redo att skanna</strong> och håll telefonen över den här koden
-fxa-qrcode-error-title = Parning misslyckades.
+fxa-qrcode-error-title = Parkoppling misslyckades
 fxa-qrcode-error-body = Försök igen.

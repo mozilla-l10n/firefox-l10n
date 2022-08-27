@@ -64,3 +64,6 @@ experimental-features-ime-search-description = En IME (Input Method Editor) är 
 experimental-features-text-recognition =
     .label = Textigenkänning
 experimental-features-text-recognition-description = Aktivera funktioner för att känna igen text i bilder.
+experimental-features-accessibility-cache =
+    .label = Tillgänglighetscache
+experimental-features-accessibility-cache-description = Cachar all tillgänglighetsinformation från alla dokument i huvudprocessen { -brand-short-name }. Detta förbättrar prestandan för skärmläsare och andra applikationer som använder tillgänglighets-API:er.
