@@ -23,11 +23,11 @@ about-processes-column-cpu-total = CPU
 about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-file-process = फाइल ({ $pid })
 about-processes-extension-process = एक्सटेंशन ({ $pid })
+about-processes-plugin-process = प्लगइन ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = डेटा डिकोडर ({ $pid })
 about-processes-socket-process = नेटवर्क ({ $pid })
-
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -43,10 +43,17 @@ about-processes-web-isolated-process = { $origin } ({ $pid })
 
 ## Details within processes
 
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = थ्रेड आईडी: { $tid }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = टैब: { $name }
+about-processes-utility-actor-audio-decoder = ऑडियो डिकोडर
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -57,6 +64,9 @@ about-processes-tab-name = टैब: { $name }
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = कुल CPU समय: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
