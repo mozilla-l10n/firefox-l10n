@@ -6,6 +6,9 @@
 ## Colorway collections
 
 colorway-collection-independent-voices = Ahots independenteak
+colorway-collection-independent-voices-description = Koloreek kultura alda dezakete. Azken kolore-konbinazioek mundua toki hobea egiten duten ahotsak ospatzen dituzte.
+# Used as a subheading for the colorway collection card in about:addons
+colorway-collection-independent-voices-short-description = Kultura aldatzen duten koloreak.
 
 ## Colorway names and descriptions
 

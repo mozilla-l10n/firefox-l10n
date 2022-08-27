@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Ikusi gehigarriak
 quickactions-cmd-addons = gehigarriak, hedapenak, itxurak
+quickactions-cmd-addons2 = gehigarriak
 # Opens the bookmarks library window
 quickactions-bookmarks = Ikusi laster-markak
 quickactions-cmd-bookmarks = laster-markak
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = garbitu historia
 # Opens about:downloads page
 quickactions-downloads = Ireki deskargak
 quickactions-cmd-downloads = deskargak
+# Opens about:addons page in the extensions section
+quickactions-extensions = Kudeatu hedapenak
+quickactions-cmd-extensions = hedapenak
 # Opens the devtools web inspector
 quickactions-inspector = Ireki ikustailea
 quickactions-cmd-inspector = ikuskatzailea, garatzaile-tresnak
 # Opens about:logins
 quickactions-logins = Ikusi saio-hasierak
 quickactions-cmd-logins = saio-hasierak, pasahitzak
+# Opens about:addons page in the plugins section
+quickactions-plugins = Kudeatu pluginak
+quickactions-cmd-plugins = pluginak
 # Opens the print dialog
 quickactions-print = Inprimatu
 quickactions-cmd-print = inprimatu
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = pantaila-argazkia
 # Opens about:preferences
 quickactions-settings = Ireki ezarpenak
 quickactions-cmd-settings = ezarpenak, hobespenak, aukerak
+# Opens about:addons page in the themes section
+quickactions-themes = Kudeatu itxurak
+quickactions-cmd-themes = itxurak
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Eguneratu { -brand-short-name }
 quickactions-cmd-update = eguneratu
