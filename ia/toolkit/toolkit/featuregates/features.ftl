@@ -66,3 +66,4 @@ experimental-features-text-recognition =
 experimental-features-text-recognition-description = Activar functionalitates pro recognoscer texto ex imagines.
 experimental-features-accessibility-cache =
     .label = Cache pro accessibilitate
+experimental-features-accessibility-cache-description = Retene tote le informationes de accessibilitate de tote documentos in le processo principal de { -brand-short-name }. Isto meliora le prestation pro lectores schermo e altere applicationes que usa APIs de accessibilitate.
