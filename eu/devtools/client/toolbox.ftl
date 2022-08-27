@@ -34,3 +34,11 @@ toolbox-meatball-menu-pseudo-locale-bidi = Gaitu "bidi" hizkuntza
 
 toolbox-mode-browser-toolbox-label = Nabigatzailearen tresna-kutxa modua
 toolbox-mode-browser-console-label = Nabigatzailearen kontsola modua
+toolbox-mode-everything-label = Multiprozesua
+toolbox-mode-everything-sub-label = (Motelagoa)
+toolbox-mode-everything-container =
+    .title = Araztu prozesu guztietako dena
+toolbox-mode-parent-process-label = Prozesu gurasoa soilik
+toolbox-mode-parent-process-sub-label = (Azkarra)
+toolbox-mode-parent-process-container =
+    .title = Zentratu soilik prozesu gurasoaren baliabideetan.

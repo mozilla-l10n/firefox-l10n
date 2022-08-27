@@ -334,6 +334,10 @@ mr2022-onboarding-colorway-primary-button-label = Ezarri kolore-konbinazioa
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-button-primary-label = Erabili { -brand-product-name } gomendioak
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Erakutsi informazio xehatua
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-primary-button-label = Ikusi nobedadeak
+mr2022-onboarding-gratitude-secondary-button-label = Hasi nabigatzen

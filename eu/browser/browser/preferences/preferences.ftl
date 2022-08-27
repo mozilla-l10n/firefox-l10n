@@ -517,6 +517,8 @@ choose-bookmark =
 
 home-prefs-content-header = Firefoxen hasiera-orriko edukia
 home-prefs-content-description = Aukeratu zein eduki nahi duzun Firefoxen hasiera-orriko pantailan.
+home-prefs-content-header2 = { -firefox-home-brand-name } edukia
+home-prefs-content-description2 = Aukeratu zer eduki ikusi nahi duzun zure { -firefox-home-brand-name } pantailan.
 home-prefs-search-header =
     .label = Web bilaketa
 home-prefs-shortcuts-header =
@@ -931,7 +933,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Bilaketa-motorrak
     .accesskey = k
+addressbar-locbar-quickactions-option =
+    .label = Ekintza bizkorrak
+    .accesskey = b
 addressbar-suggestions-settings = Aldatu bilaketa-motorren iradokizunetarako hobespenak
+addressbar-quickactions-learn-more = Argibide gehiago
 
 ## Privacy Section - Content Blocking
 
@@ -1089,6 +1095,10 @@ addon-recommendations-link = Argibide gehiago
 collection-health-report-disabled = Datuen berri ematea desgaituta dago eraikitze-konfigurazio honetarako
 collection-backlogged-crash-reports-with-link = Baimendu { -brand-short-name }(r)i zure izenean hutsegite-txostenak atzeko planoan bidaltzea <a data-l10n-name="crash-reports-link">Argibide gehiago</a>
     .accesskey = h
+privacy-segmentation-section-header = Zure nabigazioa hobetzen duten eginbide berriak
+privacy-segmentation-section-description = Noiz eskaintzen ditugun esperientzia pertsonalizatuagoa emateko zure datuak erabiltzen dituzten eginbideak:
+privacy-segmentation-radio-off =
+    .label = Erabili { -brand-product-name } gomendioak
 privacy-segmentation-radio-on =
     .label = Erakutsi informazio xehatua
 
