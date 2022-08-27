@@ -243,6 +243,11 @@ mr2022-onboarding-secondary-skip-button-label = 跳过此步骤
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = 探索精彩互联网
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -329,8 +334,6 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = 尊重您的隐私是我们不变的承诺
-mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } 推荐
-mr2022-onboarding-privacy-segmentation-secondary-button-label = 详细信息
 
 ## MR2022 Multistage Gratitude screen strings
 
