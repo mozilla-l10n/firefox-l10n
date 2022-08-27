@@ -55,6 +55,7 @@ proxyResolveFailure-title = ප්‍රතියුක්ත සේවාදා
 redirectLoop-title = පිටුව නිසි අයුරින් හරවා යවන්නේ නැත
 unknownSocketType-title = සේවාදායකයෙන් අනපේක්‍ෂිත ප්‍රතිචාරයකි
 nssFailure2-title = ආරක්‍ෂිත සම්බන්ධතාවය බිඳ වැටුණි
+csp-xfo-error-title = { -brand-short-name } සඳහා පිටුව විවෘත කළ නොහැකිය
 corruptedContentError-title = හානි වූ අන්තර්ගත දෝෂයකි
 sslv3Used-title = ආරක්‍ෂිතව සම්බන්ධ වීමට නොහැකිය
 inadequateSecurityError-title = ඔබගේ සම්බන්ධතාවය අනාරක්‍ෂිතයි

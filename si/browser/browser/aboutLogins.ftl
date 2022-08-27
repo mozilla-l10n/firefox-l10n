@@ -249,6 +249,7 @@ about-logins-import-dialog-error-title = ආයාත දෝෂයකි
 about-logins-import-dialog-error-conflicting-values-description = නිදසුනක් ලෙස: එක් පිවිසුමක් සඳහා පරි. නාම, මුරපද, ඒ.ස.නි. කිහිපයක්.
 about-logins-import-dialog-error-file-permission-title = ගොනුව කියවීමට නොහැකිය
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } මගින් ගොනුව කියවීමට අවසර නැත. ගොනුවේ අවසර වෙනස් කිරීමට උත්සාහ කරන්න.
+about-logins-import-dialog-error-unable-to-read-title = ගොනුව විග්‍රහ කළ නොහැකිය
 about-logins-import-dialog-error-unable-to-read-description = CSV හෝ TSV ගොනුවක් තේරූ බවට වගබලා ගන්න.
 about-logins-import-dialog-error-no-logins-imported = කිසිදු පිවිසුමක් ආයාත කර නැත
 about-logins-import-dialog-error-learn-more = තව දැනගන්න

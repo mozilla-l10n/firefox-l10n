@@ -355,6 +355,7 @@ identity-header-security-with-host =
     .title = { $host } සඳහා සම්බන්ධතාවේ ආරක්‍ෂාව
 identity-connection-not-secure = සම්බන්ධතාවය අනාරක්‍ෂිතයි
 identity-connection-secure = සම්බන්ධතාවය ආරක්‍ෂිතයි
+identity-connection-failure = සබඳතාවය බිඳවැටුණි
 identity-connection-internal = මෙය ආරක්‍ෂිත { -brand-short-name } පිටුවකි.
 identity-connection-file = මෙම පිටුව පරිගණකයේ ගබඩා කර ඇත.
 identity-extension-page = මෙම පිටුව දිගුවක් මගින් පූරණය වේ.
@@ -364,6 +365,7 @@ identity-passive-loaded = මෙම පිටුවේ කොටස් ආරක
 identity-active-loaded = ඔබ මෙම පිටුව සඳහා රැකවරණය අබල කර ඇත.
 identity-weak-encryption = මෙම පිටුව දුර්වල සංකේතනයක් භාවිතා කරයි.
 identity-insecure-login-forms = මෙම පිටුවට යොදන පිවිසුම් තොරතුරු බිඳ හෙළීමකට ලක් විය හැකිය.
+identity-https-only-connection-upgraded = (HTTPS වෙත උත්ශ්‍රේණියි)
 identity-https-only-label = HTTPS-පමණි ප්‍රකාරය
 identity-https-only-dropdown-on =
     .label = සක්‍රිය
@@ -430,11 +432,6 @@ browser-tab-audio-pip = ඡායාරූපයෙන්-ඡායාරූප�
 ## Variables:
 ##  $count (number): number of affected tabs
 
-browser-tab-mute =
-    { $count ->
-        [1] නිහඬ පටිත්ත
-       *[other] නිහඬ පටිති { $count }
-    }
 
 ## Bookmarks toolbar items
 
@@ -791,6 +788,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = උත්පතන අවහිර විට මෙම පණිවිඩය නොපෙන්වන්න
     .accesskey = D
+edit-popup-settings =
+    .label = උත්පතන සැකසුම් කළමනාකරණය…
+    .accesskey = M
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
