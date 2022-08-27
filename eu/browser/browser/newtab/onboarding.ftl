@@ -342,6 +342,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = Zure pribatutasuna errespetatzen dugu beti
 mr2022-onboarding-privacy-segmentation-subtitle = Gomendio adimentsuetatik bilaketa azkarrago batera, etengabe { -brand-product-name } hobe eta pertsonalizatuago bat sortzeko lanean ari gara.
+mr2022-onboarding-privacy-segmentation-text-cta = Zer nahi duzu ikusi nabigazioa hobetzeko zure datuak erabiltzen dituzten eginbide berriak eskaintzen ditugunean?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Erabili { -brand-product-name } gomendioak
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Erakutsi informazio xehatua
 
