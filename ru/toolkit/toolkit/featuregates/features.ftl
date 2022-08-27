@@ -64,3 +64,6 @@ experimental-features-ime-search-description = IME (Input Method Editor - Ред
 experimental-features-text-recognition =
     .label = Распознавание текста
 experimental-features-text-recognition-description = Включает функцию распознавания текста на изображениях.
+experimental-features-accessibility-cache =
+    .label = Кэш поддержки доступности
+experimental-features-accessibility-cache-description = Кэширует всю информацию о поддержке доступности из всех документов в основном процессе { -brand-short-name }. Это повышает производительность программ чтения с экрана и других приложений, использующих API поддержки доступности.
