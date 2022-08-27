@@ -324,13 +324,20 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Inportatu aurreko
 mr2022-onboarding-colorway-title = Aukeratu inspiratzen zaituen kolorea
 mr2022-onboarding-colorway-subtitle = Ahots independenteek kultura alda dezakete.
 mr2022-onboarding-colorway-primary-button-label = Ezarri kolore-konbinazioa
+mr2022-onboarding-colorway-label-default = Lehenetsia
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Lehenetsia
+mr2022-onboarding-colorway-description-default = <b>Erabili uneko nire { -brand-short-name } koloreak.</b>
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-cta-text = Eskaneatu QR kodea mugikorrerako { -brand-product-name } lortzeko edo <a data-l10n-name="download-label">bidal iezaiozu deskarga-lotura zure buruari.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Eskaneatu QR kodea mugikorrerako { -brand-product-name } lortzeko.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Lortu nabigatze pribatuaren askatasuna klik bakarrean
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Gordetako cookie edo historiarik ez. Nabigatu inor begira ez balego bezala.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->

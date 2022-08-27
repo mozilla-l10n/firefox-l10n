@@ -15,7 +15,7 @@ firefoxview-close-button =
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Oraintxe bertan
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Jasotako fitxa
+firefoxview-tabpickup-header = Fitxa-bilketa
 firefoxview-tabpickup-description = Ireki orriak beste gailuetatik.
 firefoxview-tabpickup-recenttabs-description = Azken fitxen zerrenda hemen joango litzateke
 # Variables:
