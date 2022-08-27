@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crash-reports-title = ᱨᱟᱹᱯᱩᱫ ᱨᱤᱯᱚᱨᱴ ᱠᱚ
 delete-confirm-title = ᱪᱮᱫ ᱟᱢ ᱜᱚᱴᱟ ᱟᱠᱟᱫ ᱟ?
 id-heading = ᱨᱤᱯᱚᱨᱴ ID
 crashes-submitted-label = ᱨᱟᱹᱯᱩᱫ ᱨᱤᱯᱚᱨᱴ ᱠᱚ ᱡᱚᱢᱟ ᱭᱮᱱᱟ
