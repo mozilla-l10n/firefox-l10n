@@ -11,3 +11,9 @@ firefoxview-just-now-timestamp = ara meteis
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% acabat
 firefoxview-tabpickup-step-signin-primarybutton = Contunhar
+firefoxview-tabpickup-adddevice-learn-how = Ne saber mai
+firefoxview-tabpickup-adddevice-primarybutton = Installatz { -brand-product-name } per mobil
+firefoxview-tabpickup-synctabs-learn-how = M’ensenhar cossí far
+firefoxview-tabpickup-network-offline-primarybutton = Tornar ensajar
+firefoxview-tabpickup-sync-error-primarybutton = Tornar ensajar
+firefoxview-mobile-confirmation-header = 🎉 Tot es prèst !
