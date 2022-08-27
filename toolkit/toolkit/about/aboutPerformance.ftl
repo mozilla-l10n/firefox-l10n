@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-performance-title = टास्क मैनेजर
 
 ## Column headers
 
@@ -45,4 +47,3 @@ close-tab =
     .title = टैब को बंद करें
 show-addon =
     .title = ऐड-ऑन प्रबंधक में दिखाएँ
-
