@@ -6,6 +6,7 @@
 ## View / Layout
 
 appmenu-font-size-value = Textstorlek
+appmenu-mail-uidensity-value = Täthet
 appmenuitem-font-size-enlarge =
     .tooltiptext = Öka textstorlek
 appmenuitem-font-size-reduce =
