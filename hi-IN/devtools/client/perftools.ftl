@@ -7,6 +7,7 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
+perftools-intro-title = प्रोफाइलर सेटिंग
 
 ## All of the headings for the various sections.
 
@@ -43,12 +44,8 @@ perftools-thread-render-backend =
 
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
+
 
 ## Profiler presets
 
@@ -57,10 +54,9 @@ perftools-thread-render-backend =
 # devtools/client/performance-new/popup/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+perftools-presets-web-developer-label = वेब डेवलपर
 perftools-presets-firefox-label = { -brand-shorter-name }
-
 perftools-presets-graphics-label = ग्राफिक्स
-
 perftools-presets-media-label = मीडिया
 
 ##
