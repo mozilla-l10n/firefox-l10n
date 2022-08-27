@@ -295,16 +295,52 @@ mr2022-onboarding-colorway-tooltip-default =
     .title = По умолчанию
 mr2022-onboarding-colorway-description-default = <b>Использовать мои текущие цвета { -brand-short-name }.</b>
 mr2022-onboarding-colorway-label-playmaker = Создатель игр
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Создатель игр
+mr2022-onboarding-colorway-description-playmaker = <b>Вы — Создатель игр.</b> Вы создаёте возможности победить и помогаете всем вокруг поднять их игру на новый уровень.
+mr2022-onboarding-colorway-label-expressionist = Экспрессионист
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Экспрессионист
+mr2022-onboarding-colorway-description-expressionist = <b>Вы — Экспрессионист.</b> Вы видите мир иначе, а ваши творения поражают остальных.
+mr2022-onboarding-colorway-label-visionary = Провидец
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Провидец
+mr2022-onboarding-colorway-description-visionary = <b>Вы — Провидец.</b> Вы ставите под сомнение статус-кво и побуждаете остальных представлять лучшее будущее.
+mr2022-onboarding-colorway-label-activist = Активист
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Активист
+mr2022-onboarding-colorway-description-activist = <b>Вы — Активист.</b> Вы делаете мир лучше и ведёте за собой остальных.
+mr2022-onboarding-colorway-label-dreamer = Мечтатель
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Мечтатель
+mr2022-onboarding-colorway-description-dreamer = <b>Вы — Мечтатель.</b> Вы верите, что удача любит смелых, и вдохновляете других быть отважнее.
+mr2022-onboarding-colorway-label-innovator = Новатор
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Новатор
+mr2022-onboarding-colorway-description-innovator = <b>Вы — Новатор.</b> Вы везде видите возможности и влияете на жизнь всех вокруг.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-no-mobile-download-cta-text = Отсканируйте QR-код, чтобы загрузить { -brand-product-name } на смартфон.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Получите свободу приватного просмотра одним щелчком
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Никаких сохранённых кук или истории, прямо с вашего рабочего стола. Сёрфите так, как будто никто не смотрит.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Добавить приватный просмотр { -brand-short-name } в Dock
+       *[other] Закрепить приватный просмотр { -brand-short-name } на панели задач
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-button-primary-label = Использовать рекомендации { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Показать подробную информацию
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Вы помогаете нам сделать Интернет лучше.
+mr2022-onboarding-gratitude-primary-button-label = Ознакомьтесь с новинками
+mr2022-onboarding-gratitude-secondary-button-label = Начать веб-сёрфинг
