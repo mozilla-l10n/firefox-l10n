@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+label-disable = ᱵᱚᱸᱫᱚᱭ
+label-enable = ᱦᱩᱭ ᱦᱚᱪᱚ
+
 ## Do not translate "SmartBlock". For reference, SmartBlock is a feature
 ## of Firefox anti-tracking which fixes website breakage caused when
 ## trackers are blocked, by acting just enough like those trackers to fix the
