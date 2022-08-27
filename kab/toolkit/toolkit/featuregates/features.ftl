@@ -66,3 +66,4 @@ experimental-features-text-recognition =
 experimental-features-text-recognition-description = Rmed timahilin i wakken ad tɛeqleḍaḍris deg tugniwin.
 experimental-features-accessibility-cache =
     .label = Takatut tuffirt n unekcum
+experimental-features-accessibility-cache-description = Ffer akk talɣut n unekcum n meṛṛa isemliyen deg usesfar agejda { -brand-short-name }. Aya ad yesnarnay tamlellit i yimeɣriyen n ugilal d yisnasen-nniḍen ara isseqdacen anekcum APIs.
