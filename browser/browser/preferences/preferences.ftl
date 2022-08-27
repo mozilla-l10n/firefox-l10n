@@ -1099,6 +1099,8 @@ addon-recommendations-link = Падрабязней
 collection-health-report-disabled = Адпраўка дадзеных адключана для гэтай канфігурацыі зборкі
 collection-backlogged-crash-reports-with-link = Дазволіць { -brand-short-name } адсылаць запісаныя справаздачы аб збоях ад вашага імя <a data-l10n-name="crash-reports-link">Падрабязней</a>
     .accesskey = с
+privacy-segmentation-radio-on =
+    .label = Паказаць падрабязную інфармацыю
 
 ## Privacy Section - Security
 ##
