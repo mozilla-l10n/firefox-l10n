@@ -40,16 +40,21 @@ firefoxview-tabpickup-sync-error-header = Υπάρχει πρόβλημα με �
 firefoxview-tabpickup-generic-sync-error-description = Το { -brand-short-name } δεν μπορεί να επικοινωνήσει με την υπηρεσία συγχρονισμού αυτήν τη στιγμή. Δοκιμάστε ξανά σε λίγα λεπτά.
 firefoxview-tabpickup-sync-error-primarybutton = Δοκιμή ξανά
 firefoxview-tabpickup-sync-disconnected-header = Ενεργοποιήστε τον συγχρονισμό για να συνεχίσετε
+firefoxview-tabpickup-sync-disconnected-description = Για να λάβετε τις καρτέλες σας, θα πρέπει να επιτρέψετε τον συγχρονισμό στο { -brand-short-name }.
+firefoxview-tabpickup-sync-disconnected-primarybutton = Ενεργοποιήστε τον συγχρονισμό στις ρυθμίσεις
 firefoxview-tabpickup-syncing = Περιμένετε μέχρι να συγχρονιστούν οι καρτέλες σας. Θα χρειαστεί μόνο μια στιγμή.
+firefoxview-mobile-promo-header = Λάβετε καρτέλες από το τηλέφωνο ή το tablet σας
 firefoxview-mobile-promo-primarybutton = Λήψη του { -brand-product-name } για κινητά
 firefoxview-mobile-confirmation-header = 🎉 Όλα έτοιμα!
 firefoxview-closed-tabs-title = Πρόσφατα κλεισμένες
+firefoxview-closed-tabs-description = Ανοίξτε ξανά τις σελίδες που κλείσατε σε αυτήν τη συσκευή.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Πρόσφατα ενεργή
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Άνοιγμα { $targetURI } σε νέα καρτέλα
+firefoxview-try-colorways-button = Δοκιμή χρωματικών συνδυασμών
 firefoxview-no-current-colorway-collection = Έρχονται νέοι χρωματικοί συνδυασμοί
 firefoxview-change-colorway-button = Αλλαγή χρωματικού συνδυασμού
 # Variables:
