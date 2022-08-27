@@ -15,6 +15,40 @@ pictureinpicture-unpip =
     .aria-label = Bidali berriro fitxara
 pictureinpicture-close =
     .aria-label = Itxi
+
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+pictureinpicture-pause-cmd =
+    .aria-label = Pausatu
+    .title = Pausatu (zuriune-barra)
+pictureinpicture-play-cmd =
+    .aria-label = Erreproduzitu
+    .title = Erreproduzitu (zuriune-barra)
+pictureinpicture-mute-cmd =
+    .aria-label = Mututu
+    .title = Mututu ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = Ez mututu
+    .title = Ez mututu ({ $shortcut })
+pictureinpicture-unpip-cmd =
+    .aria-label = Bidali berriro fitxara
+    .title = Itzuli fitxara
+pictureinpicture-close-cmd =
+    .aria-label = Itxi
+    .title = Itxi ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = Azpitituluak
+    .title = Azpitituluak
+
+##
+
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Pantaila osoa
+    .title = Pantaila osoa (klik bikoitza)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Irten pantaila osotik
+    .title = Irten pantaila osotik (klik bikoitza)
 pictureinpicture-subtitles-label = Azpitituluak
 pictureinpicture-font-size-label = Letra-tamaina
 pictureinpicture-font-size-small = Txikia

@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-button-firefox-view =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = { -firefoxview-brand-name }
+menu-tools-firefox-view =
+    .label = { -firefoxview-brand-name }
+    .accesskey = F
+firefoxview-page-title = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Itxi
     .aria-label = Itxi
@@ -31,7 +38,11 @@ firefoxview-tabpickup-network-offline-header = Egiaztatu zure Interneterako kone
 firefoxview-tabpickup-network-offline-description = Suebaki edo proxy bat erabiltzen baduzu, egiaztatu { -brand-short-name }(e)k weba atzitzeko baimena duela.
 firefoxview-tabpickup-network-offline-primarybutton = Saiatu berriro
 firefoxview-tabpickup-sync-error-header = Sinkronizatzeko arazoak izaten ari gara
+firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name }(e)k ezin du sinkronizazio-zerbitzura heldu une honetan. Saiatu berriro geroago.
 firefoxview-tabpickup-sync-error-primarybutton = Saiatu berriro
+firefoxview-tabpickup-sync-disconnected-header = Jarraitzeko, aktibatu sinkronizazioa
+firefoxview-tabpickup-sync-disconnected-description = Zure fitxak eskura izateko, sinkronizazioa gaitu behar duzu { -brand-short-name }(e)n.
+firefoxview-tabpickup-sync-disconnected-primarybutton = Aktibatu sinkronizazioa ezarpenetan
 firefoxview-tabpickup-syncing = Itxaron apur bat zure fitxak sinkronizatu bitartean. Une bat izango da soilik.
 firefoxview-mobile-promo-header = Hartu zure telefono edo tabletako fitxak
 firefoxview-mobile-promo-description = Zure mugikorreko azken fitxak ikusteko, hasi saioa iOS edo Androideko { -brand-product-name }(e)n.
@@ -54,6 +65,7 @@ firefoxview-change-colorway-button = Aldatu kolore-konbinazioa
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Momentuz ikustekorik ez</strong><br/>Beste gailu batean { -brand-product-name } irekitzen duzun hurrengo aldian, esku-eskura izango duzu hemen.
 firefoxview-collapse-button-show =
     .title = Erakutsi zerrenda
 firefoxview-collapse-button-hide =
