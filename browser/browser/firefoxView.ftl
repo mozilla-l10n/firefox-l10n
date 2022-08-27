@@ -31,7 +31,6 @@ firefoxview-tabpickup-network-offline-header = Egiaztatu zure Interneterako kone
 firefoxview-tabpickup-network-offline-description = Suebaki edo proxy bat erabiltzen baduzu, egiaztatu { -brand-short-name }(e)k weba atzitzeko baimena duela.
 firefoxview-tabpickup-network-offline-primarybutton = Saiatu berriro
 firefoxview-tabpickup-sync-error-header = Sinkronizatzeko arazoak izaten ari gara
-firefoxview-tabpickup-sync-error-description = { -brand-short-name }(e)k ezin da zerbitzura heldu oraintxe bertan. Saiatu berriro geroago, mesedez.
 firefoxview-tabpickup-sync-error-primarybutton = Saiatu berriro
 firefoxview-tabpickup-syncing = Itxaron apur bat zure fitxak sinkronizatu bitartean. Une bat izango da soilik.
 firefoxview-mobile-promo-header = Hartu zure telefono edo tabletako fitxak
@@ -40,8 +39,6 @@ firefoxview-mobile-promo-primarybutton = Eskuratu mugikorrerako { -brand-product
 firefoxview-mobile-confirmation-header = 🎉 Dena prest!
 firefoxview-mobile-confirmation-description = Hemendik aurrera zure tableta edo telefonoko { -brand-product-name }(e)n fitxak hartu ahal izango dituzu.
 firefoxview-closed-tabs-title = Itxitako azkenak
-firefoxview-closed-tabs-collapse-button =
-    .title = Erakutsi edo ezkutatu itxitako azken fitxen zerrenda
 firefoxview-closed-tabs-description = Berrireki gailu honetan itxi dituzun orriak.
 firefoxview-closed-tabs-placeholder = <strong>Itxitako azken orririk ez</strong><br/>Ez izan itxitako fitxak galtzeko beldurrik. Edozein unetan berreskura ditzakezu hemen.
 # refers to the last tab that was used
@@ -57,3 +54,7 @@ firefoxview-change-colorway-button = Aldatu kolore-konbinazioa
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-collapse-button-show =
+    .title = Erakutsi zerrenda
+firefoxview-collapse-button-hide =
+    .title = Ezkutatu zerrenda
