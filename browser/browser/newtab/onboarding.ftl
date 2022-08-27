@@ -224,9 +224,12 @@ mr2-onboarding-start-browsing-button-label = Gezinmeye başla
 
 onboarding-live-language-header = Dilinizi seçin
 mr2022-onboarding-live-language-text = { -brand-short-name } sizin dilinizi de konuşuyor
+mr2022-language-mismatch-subtitle = Topluluğumuz sayesinde { -brand-short-name } 90’dan fazla dile çevrildi. Görünüşe göre sisteminiz { $systemLanguage } ama { -brand-short-name } { $appLanguage }.
 onboarding-live-language-button-label-downloading = { $negotiatedLanguage } dil paketi indiriliyor…
 onboarding-live-language-waiting-button = Kullanabileceğiniz diller alınıyor…
 onboarding-live-language-installing = { $negotiatedLanguage } dil paketi yükleniyor…
+mr2022-onboarding-live-language-switch-to = { $negotiatedLanguage } diline geç
+mr2022-onboarding-live-language-continue-in = { $appLanguage } dilinde devam et
 onboarding-live-language-secondary-cancel-download = Vazgeç
 onboarding-live-language-skip-button-label = Geç
 
@@ -259,6 +262,11 @@ mr2022-onboarding-secondary-skip-button-label = Bu adımı atla
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Harika bir internete yelken açın
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -270,32 +278,44 @@ mr2022-onboarding-secondary-skip-button-label = Bu adımı atla
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = Saniyeler içinde kurun
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Işık hızında kurulum
+mr2022-onboarding-import-primary-button-label-no-attribution = Önceki tarayıcımdan içe aktar
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Size ilham veren rengi seçin
+mr2022-onboarding-colorway-subtitle = Bağımsız sesler kültürü değiştirebilir.
 mr2022-onboarding-colorway-primary-button-label = Renk kuşağını ayarla
 mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } renkli giriş sayfanız olsun
 mr2022-onboarding-colorway-label-default = Varsayılan
 mr2022-onboarding-colorway-tooltip-default =
     .title = Varsayılan
+mr2022-onboarding-colorway-description-default = <b>Mevcut { -brand-short-name } renklerimi kullan.</b>
 mr2022-onboarding-colorway-label-playmaker = Oyun Kurucu
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Oyun Kurucu
+mr2022-onboarding-colorway-description-playmaker = <b>Siz bir oyun kurucusunuz.</b> Hem kazanmanızı sağlayacak hem de çevrenizdeki herkese fayda sağlayacak fırsatlar yaratıyorsunuz.
 mr2022-onboarding-colorway-label-expressionist = Ekspresyonist
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = Ekspresyonist
 mr2022-onboarding-colorway-label-visionary = Vizyoner
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Vizyoner
+mr2022-onboarding-colorway-label-activist = Aktivist
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Aktivist
+mr2022-onboarding-colorway-description-activist = <b>Siz bir aktivistsiniz.</b> Dünyayı bulduğunuzdan daha iyi bir yer olarak bırakmak için insanlara önderlik ediyorsunuz.
 mr2022-onboarding-colorway-label-dreamer = Hayalperest
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Hayalperest
+mr2022-onboarding-colorway-description-dreamer = <b>Siz bir hayalperestsiniz.</b> Şansın cesurdan yana olduğuna inanıyor ve cesur olmaları için insanlara ilham veriyorsunuz.
 mr2022-onboarding-colorway-label-innovator = Yenilikçi
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Yenilikçi
@@ -306,9 +326,16 @@ mr2022-onboarding-colorway-tooltip-innovator =
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Çerezleriniz ve geçmişiniz kaydedilmesin. Hiç kimse izlemiyormuş gibi gezin.
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Gizliliğinize her zaman saygı duyuyoruz
+mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name } önerilerini kullan
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Ayrıntılı bilgileri göster
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Daha iyi bir web inşa etmemize yardım ediyorsunuz.
+mr2022-onboarding-gratitude-primary-button-label = Yeniliklere bak
+mr2022-onboarding-gratitude-secondary-button-label = Gezinmeye başla
