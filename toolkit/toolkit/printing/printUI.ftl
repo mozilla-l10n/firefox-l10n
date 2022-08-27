@@ -5,7 +5,6 @@
 printui-title = Inprimatu
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Gorde honela
-
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -13,8 +12,8 @@ printui-sheets-count =
         [one] Orrialde bat
        *[other] { $sheetCount } orrialde
     }
-
 printui-page-range-all = Denak
+printui-page-range-current = Unekoa
 printui-page-range-odd = Bakoitia
 printui-page-range-even = Bikoitia
 printui-page-range-custom = Pertsonalizatua
@@ -24,29 +23,22 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = Idatzi orri-barruti pertsonalizatua
     .placeholder = adib. 2-6, 9, 12-16
-
 # Section title for the number of copies to print
 printui-copies-label = Kopiak
-
 printui-orientation = Orientazioa
 printui-landscape = Horizontala
 printui-portrait = Bertikala
-
 # Section title for the printer or destination device to target
 printui-destination-label = Helburua
 printui-destination-pdf-label = Gorde PDF gisa
-
 printui-more-settings = Ezarpen gehiago
 printui-less-settings = Ezarpen gutxiago
-
 printui-paper-size-label = Paper-tamaina
-
 # Section title (noun) for the print scaling options
 printui-scale = Eskala
 printui-scale-fit-to-page-width = Doitu orriaren zabalerara
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Eskala
-
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Bi aldeko inprimatzea
 printui-two-sided-printing-off = Desaktibatuta
@@ -54,7 +46,6 @@ printui-two-sided-printing-off = Desaktibatuta
 printui-two-sided-printing-long-edge = Irauli ertz luzean
 # Flip the sheet as if it were bound along its short edge.
 printui-two-sided-printing-short-edge = Irauli ertz laburrean
-
 # Section title for miscellaneous print options
 printui-options = Aukerak
 printui-headers-footers-checkbox = Inprimatu goiburu eta oinak
@@ -78,7 +69,6 @@ printui-simplify-page-radio = Sinplifikatua
 printui-color-mode-label = Kolorearen modua
 printui-color-mode-color = Koloretan
 printui-color-mode-bw = Zuri-beltzean
-
 printui-margins = Marjinak
 printui-margins-default = Lehenetsia
 printui-margins-min = Gutxienekoa
@@ -97,23 +87,17 @@ printui-margins-custom-left-mm = Ezkerra (mm)
 printui-margins-custom-right = Eskuina
 printui-margins-custom-right-inches = Eskuina (hazbeteak)
 printui-margins-custom-right-mm = Eskuina (mm)
-
 printui-system-dialog-link = Inprimatu sistemaren elkarrizketa-koadroa erabiliz…
-
 printui-primary-button = Inprimatu
 printui-primary-button-save = Gorde
 printui-cancel-button = Utzi
 printui-close-button = Itxi
-
 printui-loading = Aurrebista prestatzen
-
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Inprimatzeko aurrebista
-
 printui-pages-per-sheet = Orri-kopurua aldeko
-
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Inprimatzen…
@@ -140,7 +124,6 @@ printui-paper-tabloid = Tabloidea
 printui-error-invalid-scale = Eskala 10 eta 200 arteko zenbakia izan behar da.
 printui-error-invalid-margin = Sartu baliozko marjina hautatutako paper-tamainarako.
 printui-error-invalid-copies = Kopiak 1 eta 10000 arteko zenbakia izan behar du.
-
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Barrutiak 1 eta { $numPages } arteko zenbakia izan behar du.

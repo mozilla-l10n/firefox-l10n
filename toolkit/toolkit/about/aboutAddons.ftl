@@ -282,12 +282,11 @@ theme-monochromatic-heading = Kolore-konbinazioak
 theme-monochromatic-subheading = { -brand-product-name }(k) egindako kolore-konbinazio bizi berriak. Denbora mugatuz erabilgarri.
 # Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Probatu kolore-konbinazioak
-colorway-collection-independent-voices-subheading = Egizu { -brand-short-name } zure modukoa.
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = Aldatu kolore-konbinazioa
 # Variables:
-#   $expiryDate (string) - date on which the colorway collection expires.
-colorway-collection-expiry-date-span = Iraungitzea: { DATETIME($expiryDate, month: "long", day: "numeric") }
+#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+colorway-collection-expiry-label = Iraungitzea: { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Gaituta
 plugin-disabled-heading = Desgaituta
 dictionary-enabled-heading = Gaituta

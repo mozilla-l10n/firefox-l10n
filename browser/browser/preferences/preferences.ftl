@@ -1089,6 +1089,8 @@ addon-recommendations-link = Argibide gehiago
 collection-health-report-disabled = Datuen berri ematea desgaituta dago eraikitze-konfigurazio honetarako
 collection-backlogged-crash-reports-with-link = Baimendu { -brand-short-name }(r)i zure izenean hutsegite-txostenak atzeko planoan bidaltzea <a data-l10n-name="crash-reports-link">Argibide gehiago</a>
     .accesskey = h
+privacy-segmentation-radio-on =
+    .label = Erakutsi informazio xehatua
 
 ## Privacy Section - Security
 ##
