@@ -29,6 +29,7 @@ firefoxview-tabpickup-adddevice-description = Κάντε λήψη του { -bran
 firefoxview-tabpickup-adddevice-learn-how = Μάθετε πώς
 firefoxview-tabpickup-adddevice-primarybutton = Λήψη του { -brand-product-name } για κινητά
 firefoxview-tabpickup-synctabs-header = Ενεργοποίηση συγχρονισμού καρτελών
+firefoxview-tabpickup-synctabs-description = Επιτρέψτε στο { -brand-short-name } να κάνει κοινή χρήση καρτελών μεταξύ συσκευών.
 firefoxview-tabpickup-synctabs-learn-how = Μάθετε πώς
 firefoxview-tabpickup-synctabs-primarybutton = Συγχρονισμός ανοικτών καρτελών
 firefoxview-tabpickup-fxa-admin-disabled-header = Ο οργανισμός σας έχει απενεργοποιήσει τον συγχρονισμό
@@ -44,10 +45,13 @@ firefoxview-tabpickup-sync-disconnected-description = Για να λάβετε �
 firefoxview-tabpickup-sync-disconnected-primarybutton = Ενεργοποιήστε τον συγχρονισμό στις ρυθμίσεις
 firefoxview-tabpickup-syncing = Περιμένετε μέχρι να συγχρονιστούν οι καρτέλες σας. Θα χρειαστεί μόνο μια στιγμή.
 firefoxview-mobile-promo-header = Λάβετε καρτέλες από το τηλέφωνο ή το tablet σας
+firefoxview-mobile-promo-description = Για να δείτε τις πρόσφατες καρτέλες από την κινητή σας συσκευή, συνδεθείτε στο { -brand-product-name } για iOS ή Android.
 firefoxview-mobile-promo-primarybutton = Λήψη του { -brand-product-name } για κινητά
 firefoxview-mobile-confirmation-header = 🎉 Όλα έτοιμα!
+firefoxview-mobile-confirmation-description = Μπορείτε πλέον να λάβετε τις καρτέλες σας από το { -brand-product-name } του tablet ή του τηλεφώνου σας.
 firefoxview-closed-tabs-title = Πρόσφατα κλεισμένες
 firefoxview-closed-tabs-description = Ανοίξτε ξανά τις σελίδες που κλείσατε σε αυτήν τη συσκευή.
+firefoxview-closed-tabs-placeholder = <strong>Δεν έκλεισε καμία σελίδα πρόσφατα</strong><br/>Μην φοβάστε το ενδεχόμενο απώλειας καρτελών. Μπορείτε πάντα να τις ανακτήσετε εδώ.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Πρόσφατα ενεργή
 # Variables:
@@ -61,6 +65,7 @@ firefoxview-change-colorway-button = Αλλαγή χρωματικού συνδ�
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Δεν υπάρχει τίποτα ακόμα</strong><br/>Την επόμενη φορά που θα ανοίξετε μια σελίδα στο { -brand-product-name } μιας άλλης συσκευής, αυτή θα εμφανιστεί μαγικά εδώ.
 firefoxview-collapse-button-show =
     .title = Εμφάνιση λίστας
 firefoxview-collapse-button-hide =

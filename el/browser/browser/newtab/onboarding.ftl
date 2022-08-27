@@ -330,6 +330,7 @@ mr2022-onboarding-colorway-description-dreamer = <b>Ονειροπόλος:</b> 
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-cta-text = Σαρώστε τον κωδικό QR για να αποκτήσετε το { -brand-product-name } για κινητές συσκευές ή <a data-l10n-name="download-label">στείλτε στον εαυτό σας έναν σύνδεσμο λήψης.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Σαρώστε τον κωδικό QR για λήψη του { -brand-product-name } για κινητές συσκευές.
 
 ## MR2022 Upgrade Dialog screens
