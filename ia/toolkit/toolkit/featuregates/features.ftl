@@ -64,3 +64,5 @@ experimental-features-ime-search-description = Un IME (Input Method Editor, edit
 experimental-features-text-recognition =
     .label = Recognition de texto
 experimental-features-text-recognition-description = Activar functionalitates pro recognoscer texto ex imagines.
+experimental-features-accessibility-cache =
+    .label = Cache pro accessibilitate
