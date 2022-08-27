@@ -252,6 +252,8 @@ mr2022-onboarding-pin-primary-button-label =
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = { -brand-product-name } වෙත ආදරයට ස්තුතියි
 
 ## MR2022 New User Set Default screen strings
 
@@ -284,6 +286,7 @@ mr2022-onboarding-colorway-description-default = <b>මාගේ වත්මන
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-cta-text = ජංගම දුරකථන සඳහා { -brand-product-name } ලබා ගැනීමට QR කේතය සුපිරික්සන්න හෝ <a data-l10n-name="download-label">ඔබටම බාගැනීමේ සබැඳියක් යවන්න.</a>
+mr2022-onboarding-no-mobile-download-cta-text = දුරකථනයට { -brand-product-name } ගැනීමට QR කේතය සුපිරික්සන්න.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -296,8 +299,8 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
-mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } නිර්දේශ
-mr2022-onboarding-privacy-segmentation-secondary-button-label = විස්තරාත්මක තොරතුරු
+mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name } නිර්දේශ භාවිතා කරන්න
+mr2022-onboarding-privacy-segmentation-button-secondary-label = විස්තරාත්මක තොරතුරු පෙන්වන්න
 
 ## MR2022 Multistage Gratitude screen strings
 
