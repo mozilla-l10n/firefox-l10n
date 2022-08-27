@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Просмотр дополнений
 quickactions-cmd-addons = дополнения, расширения, темы
+quickactions-cmd-addons2 = дополнения
 # Opens the bookmarks library window
 quickactions-bookmarks = Просмотр закладок
 quickactions-cmd-bookmarks = закладки
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = удалить историю
 # Opens about:downloads page
 quickactions-downloads = Открыть загрузки
 quickactions-cmd-downloads = загрузки
+# Opens about:addons page in the extensions section
+quickactions-extensions = Управление расширениями
+quickactions-cmd-extensions = расширения
 # Opens the devtools web inspector
 quickactions-inspector = Открыть инспектор
 quickactions-cmd-inspector = инспектор, инструменты разработки
 # Opens about:logins
 quickactions-logins = Просмотр логинов
 quickactions-cmd-logins = логины, пароли
+# Opens about:addons page in the plugins section
+quickactions-plugins = Управление плагинами
+quickactions-cmd-plugins = плагины
 # Opens the print dialog
 quickactions-print = Распечатать
 quickactions-cmd-print = печать
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = скриншот
 # Opens about:preferences
 quickactions-settings = Открыть настройки
 quickactions-cmd-settings = настройки, параметры, опции
+# Opens about:addons page in the themes section
+quickactions-themes = Управление темами
+quickactions-cmd-themes = темы
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Обновить { -brand-short-name }
 quickactions-cmd-update = обновление

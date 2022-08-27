@@ -937,7 +937,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = из поисковых систем
     .accesskey = ы
+addressbar-locbar-quickactions-option =
+    .label = Быстрые действия
+    .accesskey = ы
 addressbar-suggestions-settings = Изменить настройки для предложений поисковых систем
+addressbar-quickactions-learn-more = Подробнее
 
 ## Privacy Section - Content Blocking
 
@@ -1095,6 +1099,11 @@ addon-recommendations-link = Подробнее
 collection-health-report-disabled = Для этой конфигурации сборки отправка данных отключена
 collection-backlogged-crash-reports-with-link = Разрешить { -brand-short-name } отправлять от вашего имени накопившиеся сообщения о падениях <a data-l10n-name="crash-reports-link">Подробнее</a>
     .accesskey = ш
+privacy-segmentation-section-header = Новые функции, улучшающие ваш веб-сёрфинг
+privacy-segmentation-radio-off =
+    .label = Использовать рекомендации { -brand-product-name }
+privacy-segmentation-radio-on =
+    .label = Показать подробную информацию
 
 ## Privacy Section - Security
 ##
