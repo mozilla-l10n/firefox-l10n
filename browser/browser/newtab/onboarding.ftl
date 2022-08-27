@@ -277,6 +277,7 @@ mr2022-onboarding-pin-primary-button-label =
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+mr2022-onboarding-existing-pin-checkbox-label = Προσθήκη συντόμευσης και για την ιδιωτική περιήγηση του { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
 
@@ -286,6 +287,7 @@ mr2022-onboarding-set-default-primary-button-label = Ορισμός του { -br
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = Ρύθμιση σε δευτερόλεπτα
 
 ## MR2022 Import Settings screen strings
 
@@ -344,6 +346,8 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Σεβόμαστε πάντοτε το απόρρητό σας
+mr2022-onboarding-privacy-segmentation-subtitle = Από έξυπνες προτάσεις έως πιο έξυπνη αναζήτηση, εργαζόμαστε συνεχώς για να δημιουργήσουμε ένα καλύτερο, πιο εξατομικευμένο { -brand-product-name }.
+mr2022-onboarding-privacy-segmentation-text-cta = Τι θέλετε να βλέπετε όταν προσφέρουμε νέες δυνατότητες που χρησιμοποιούν τα δεδομένα σας για τη βελτίωση της περιήγησής σας;
 mr2022-onboarding-privacy-segmentation-button-primary-label = Χρήση προτάσεων του { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Εμφάνιση λεπτομερών πληροφοριών
 
