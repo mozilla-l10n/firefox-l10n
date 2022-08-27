@@ -14,5 +14,7 @@ colorway-intensity-bold = Ausarta
 # Label for the button to keep using the selected colorway in the browser
 colorway-closet-set-colorway-button = Ezarri kolore-konbinazioa
 colorway-closet-cancel-button = Utzi
+colorway-homepage-reset-prompt = Egizu { -firefox-home-brand-name } zure hasiera-orri koloretsua
+colorway-homepage-reset-success-message = { -firefox-home-brand-name } zure hasiera-orria da orain
 colorway-homepage-reset-apply-button = Aplikatu
 colorway-homepage-reset-undo-button = Desegin

@@ -331,13 +331,23 @@ mr2022-onboarding-colorway-primary-button-label = Ezarri kolore-konbinazioa
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Gordetako cookie edo historiarik ez. Nabigatu inor begira ez balego bezala.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Mantendu { -brand-short-name } nabigatze pribatua Dock-ean
+       *[other] Ainguratu { -brand-short-name } nabigatze pribatua ataza-barran
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Zure pribatutasuna errespetatzen dugu beti
+mr2022-onboarding-privacy-segmentation-subtitle = Gomendio adimentsuetatik bilaketa azkarrago batera, etengabe { -brand-product-name } hobe eta pertsonalizatuago bat sortzeko lanean ari gara.
 mr2022-onboarding-privacy-segmentation-button-primary-label = Erabili { -brand-product-name } gomendioak
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Erakutsi informazio xehatua
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Web hobea eraikitzen laguntzen ari zatzaizkigu.
+mr2022-onboarding-gratitude-subtitle = Eskerrik asko Mozillak babesten duen { -brand-short-name } erabiltzeagatik. Zure laguntzarekin Internet denontzat irekiagoa, atzigarriagoa eta hobea egiteko lanean ari gara.
 mr2022-onboarding-gratitude-primary-button-label = Ikusi nobedadeak
 mr2022-onboarding-gratitude-secondary-button-label = Hasi nabigatzen
