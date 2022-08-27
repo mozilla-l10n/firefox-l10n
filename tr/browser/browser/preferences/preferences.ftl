@@ -933,7 +933,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Arama motorları
     .accesskey = m
+addressbar-locbar-quickactions-option =
+    .label = Hızlı eylemler
+    .accesskey = H
 addressbar-suggestions-settings = Arama motoru önerileri için tercihleri değiştir
+addressbar-quickactions-learn-more = Daha fazla bilgi al
 
 ## Privacy Section - Content Blocking
 
@@ -1091,6 +1095,12 @@ addon-recommendations-link = Daha fazla bilgi al
 collection-health-report-disabled = Bu yapılandırma için veri raporlama devre dışı bırakılmış
 collection-backlogged-crash-reports-with-link = { -brand-short-name } geriye dönük çökme raporlarını benim adıma gönderebilir <a data-l10n-name="crash-reports-link">Daha fazla bilgi al</a>
     .accesskey = d
+privacy-segmentation-section-header = Gezintinizi iyileştiren yeni özellikler
+privacy-segmentation-section-description = Size daha kişisel bir deneyim sunmak için verilerinizi kullanan özellikler sunduğumuzda:
+privacy-segmentation-radio-off =
+    .label = { -brand-product-name } önerilerini kullan
+privacy-segmentation-radio-on =
+    .label = Ayrıntılı bilgileri göster
 
 ## Privacy Section - Security
 ##

@@ -64,3 +64,5 @@ experimental-features-ime-search-description = IME (Giriş Yöntemi Düzenleyici
 experimental-features-text-recognition =
     .label = Metin tanıma
 experimental-features-text-recognition-description = Resimlerdeki metinleri tanıma özelliklerini etkinleştir.
+experimental-features-accessibility-cache =
+    .label = Erişilebilirlik önbelleği
