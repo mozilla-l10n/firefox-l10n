@@ -67,6 +67,7 @@ policy-Extensions = Instalatu, desinstalatu edo blokeatu hedapenak. Instalatzeko
 policy-ExtensionSettings = Kudeatu hedapenen instalazioko arlo guztiak.
 policy-ExtensionUpdate = Gaitu edo desgaitu hedapenen eguneraketa automatikoa.
 policy-FirefoxHome = Konfiguratu Firefox Home.
+policy-FirefoxHome2 = Konfiguratu { -firefox-home-brand-name }.
 policy-FlashPlugin = Baimendu edo ukatu Flash plugina erabiltzea.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Hitz bakarreko sarrerak helbide-barran idaztean, behartu intranet gunerako nabigazio zuzena bilaketa egin ordez.
 policy-Handlers = Konfiguratu aplikazio-maneiatzaile lehenetsiak.

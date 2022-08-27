@@ -32,6 +32,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $pro
 inactive-css-not-table = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ez delako taula bat.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ezin delako korritu.
 inactive-css-border-image = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ezin delako barneko taula-elementuetan aplikatu guraso taula-elementuan <strong>border-collapse</strong> atributuaren balioa <strong>collapse</strong> gisa ezarrita dagoenean.
+inactive-css-ruby-element = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan, 'ruby' elementua delako. Bere tamaina 'ruby' testuaren letra-tamainak zehazten du.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -55,6 +56,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells-fix = Saiatu ber
 inactive-css-not-table-fix = Saiatu gehitzen <strong>display:table</strong> edo <strong>display:inline-table</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Saiatu gehitzen <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> edo <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Guraso taula-elementuan, kendu propietatea edo aldatu <strong>border-collapse</strong> atributuaren balioa <strong>collapse</strong> ez den beste balio batera. { learn-more }
+inactive-css-ruby-element-fix = Saiatu 'ruby' testuaren <strong>font-size</strong> propietatea aldatzen. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

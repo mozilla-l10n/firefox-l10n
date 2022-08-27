@@ -64,3 +64,6 @@ experimental-features-ime-search-description = Sinbolo konplexuak (Asia Ekialdek
 experimental-features-text-recognition =
     .label = Testu-ezagutza
 experimental-features-text-recognition-description = Gaitu irudietako testua ezagutzeko eginbideak.
+experimental-features-accessibility-cache =
+    .label = Erabilgarritasun-cachea
+experimental-features-accessibility-cache-description = { -brand-short-name } prozesu nagusiko dokumentu guztietako erabilgarritasun-informazio dena gordetzen du cachean. Pantaila-irakurleen eta erabilgarritasun APIak darabiltzaten bestelako aplikazioen errendimendua hobetzen du honek.
