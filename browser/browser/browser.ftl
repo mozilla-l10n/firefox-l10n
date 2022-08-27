@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = 查看附加组件
 quickactions-cmd-addons = 附加组件, 扩展, 主题, add-ons, extensions, themes
+quickactions-cmd-addons2 = 附加组件
 # Opens the bookmarks library window
 quickactions-bookmarks = 查看书签
 quickactions-cmd-bookmarks = 书签, bookmarks
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = 清除历史, clear history
 # Opens about:downloads page
 quickactions-downloads = 打开下载
 quickactions-cmd-downloads = 下载, downloads
+# Opens about:addons page in the extensions section
+quickactions-extensions = 管理扩展
+quickactions-cmd-extensions = 扩展
 # Opens the devtools web inspector
 quickactions-inspector = 查看源代码
 quickactions-cmd-inspector = 查看器, 开发工具, inspector, devtools
 # Opens about:logins
 quickactions-logins = 查看登录信息
 quickactions-cmd-logins = 登录信息, 密码, logins, passwords
+# Opens about:addons page in the plugins section
+quickactions-plugins = 管理插件
+quickactions-cmd-plugins = 插件
 # Opens the print dialog
 quickactions-print = 打印
 quickactions-cmd-print = 打印, print
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = 截图, screenshot
 # Opens about:preferences
 quickactions-settings = 打开设置
 quickactions-cmd-settings = 设置, 偏好设置, 选项, settings, preferences, options
+# Opens about:addons page in the themes section
+quickactions-themes = 管理主题
+quickactions-cmd-themes = 主题
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = 更新 { -brand-short-name }
 quickactions-cmd-update = 更新, update
