@@ -1097,6 +1097,8 @@ addon-recommendations-link = Issin ugar
 collection-health-report-disabled = Aneqqis n isefka ur irmid ara i uswel-a n usefsu
 collection-backlogged-crash-reports-with-link = Sireg { -brand-short-name } ad yazen ineqqisen n uɣelluy deg ugilal s yisem-ik·im <a data-l10n-name="crash-reports-link">Issin ugar</a>
     .accesskey = g
+privacy-segmentation-section-header = Timahilin timaynutin ara isselhun tunigin
+privacy-segmentation-section-description = Mi ara d-nmudd timahilin ara isseqdacen isefka-k•m i wakken ad ak•am-nmudd ugar n tirmit tudmawat:
 privacy-segmentation-radio-off =
     .label = Seqdec iwellihen n { -brand-product-name }
 privacy-segmentation-radio-on =

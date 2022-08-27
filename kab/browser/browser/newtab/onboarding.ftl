@@ -376,9 +376,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = Nezga nettqadaṛ tabaḍnit
 mr2022-onboarding-privacy-segmentation-subtitle = Isumar imegza ɣer unadi amegzu, nxeddem akk tazmert-nneɣ i tmerna n { -brand-product-name } igerrzen ugar, d udmawan ugar.
-mr2022-onboarding-privacy-segmentation-cta-text = Mi ara d-nmudd timahilin timaynutin ara isseqqdacen isefka-k·m i usnerni n tunigin, tebɣiḍ ad twaliḍ:
-mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } iwellihen
-mr2022-onboarding-privacy-segmentation-secondary-button-label = Talɣut s telqayt
+mr2022-onboarding-privacy-segmentation-text-cta = Acu i tebɣiḍ ad t-twaliḍ mi ara d-nmudd timahilin timaynutin ara isseqdacen isefka-k•m i uselhu n tunigin-inek•inem?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Seqdec iwellihen n { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Sken talɣut leqqayen
 
