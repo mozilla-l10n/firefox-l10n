@@ -9,7 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = { $addon-name } සඳහා වාර්තාව
 abuse-report-textarea =
-    .placeholder = නිශ්චිත කරුණක් තිබේ නම් අපට ගැටලුවක් විසඳීමට පහසුය. ඔබ අත්විඳින දේ විස්තර කරන්න. වියමන හිතකර අයුරින් තබා ගැනීම සඳහා අපට උදවු කිරීමට තුති.
+    .placeholder = නිශ්චිත කරුණක් තිබේ නම් අපට ගැටළුවක් විසඳීමට පහසුය. ඔබ අත්විඳින දේ විස්තර කරන්න. වියමන හිතකර අයුරින් තබා ගැනීම සඳහා අපට උදවු කිරීමට තුති.
 
 ## Panel buttons.
 
