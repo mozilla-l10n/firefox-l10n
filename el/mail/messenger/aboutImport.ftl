@@ -33,54 +33,54 @@ app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple Mail
 source-thunderbird = Εισαγωγή από άλλη εγκατάσταση του { app-name-thunderbird }
-source-thunderbird-description = Εισαγωγή ρυθμίσεων, φίλτρων, μηνυμάτων και άλλων δεδομένων από ένα προφίλ του { app-name-thunderbird }.
+source-thunderbird-description = Κάντε εισαγωγή ρυθμίσεων, φίλτρων, μηνυμάτων και άλλων δεδομένων από ένα προφίλ του { app-name-thunderbird }.
 source-seamonkey = Εισαγωγή από εγκατάσταση του { app-name-seamonkey }
-source-seamonkey-description = Εισαγωγή ρυθμίσεων, φίλτρων, μηνυμάτων και άλλων δεδομένων από ένα προφίλ του { app-name-seamonkey }.
+source-seamonkey-description = Κάντε εισαγωγή ρυθμίσεων, φίλτρων, μηνυμάτων και άλλων δεδομένων από ένα προφίλ του { app-name-seamonkey }.
 source-outlook = Εισαγωγή από το { app-name-outlook }
-source-outlook-description = Εισαγωγή λογαριασμών, ευρετηρίων και μηνυμάτων από το { app-name-outlook }.
+source-outlook-description = Κάντε εισαγωγή λογαριασμών, ευρετηρίων και μηνυμάτων από το { app-name-outlook }.
 source-becky = Εισαγωγή από το { app-name-becky }
-source-becky-description = Εισαγωγή ευρετηρίων και μηνυμάτων από το { app-name-becky }.
+source-becky-description = Κάντε εισαγωγή ευρετηρίων και μηνυμάτων από το { app-name-becky }.
 source-apple-mail = Εισαγωγή από το { app-name-apple-mail }
-source-apple-mail-description = Εισαγωγή μηνυμάτων από το { app-name-apple-mail }.
+source-apple-mail-description = Κάντε εισαγωγή μηνυμάτων από το { app-name-apple-mail }.
 source-file2 = Εισαγωγή από αρχείο
 source-file-description = Επιλέξτε ένα αρχείο για εισαγωγή ευρετηρίων, ημερολογίων ή αντιγράφου ασφαλείας προφίλ (αρχείο ZIP).
 
 ## Import from file selections
 
 file-profile2 = Εισαγωγή εφεδρικού προφίλ
-file-profile-description = Επιλέξτε ένα προφίλ Thunderbird από αντίγραφο ασφαλείας (.zip)
+file-profile-description = Επιλέξτε ένα προφίλ του Thunderbird από αντίγραφο ασφαλείας (.zip)
 file-calendar = Εισαγωγή ημερολογίων
-file-calendar-description = Επιλέξτε ένα αρχείο που περιέχει Ημερολόγια ή Συμβάντα που έχουν εξαχθεί (.ics)
-file-addressbook = Εισαγωγή ευρετηρίων διευθύνσεων
-file-addressbook-description = Επιλέξτε ένα αρχείο που περιέχει ευρετήρια και επαφές
+file-calendar-description = Επιλέξτε ένα αρχείο που περιέχει εξαχθέντα ημερολόγια ή εκδηλώσεις (.ics)
+file-addressbook = Εισαγωγή ευρετηρίων
+file-addressbook-description = Επιλέξτε ένα αρχείο που περιέχει εξαχθέντα ευρετήρια και επαφές
 
 ## Import from app profile steps
 
 from-app-thunderbird = Εισαγωγή από προφίλ του { app-name-thunderbird }
 from-app-seamonkey = Εισαγωγή από προφίλ του { app-name-seamonkey }
-from-app-outlook = Εισαγωγή από { app-name-outlook }
-from-app-becky = Εισαγωγή από { app-name-becky }
-from-app-apple-mail = Εισαγωγή από { app-name-apple-mail }
-profiles-pane-title-thunderbird = Εισαγωγή Ρυθμίσεων και Δεδομένων από ένα προφίλ { app-name-thunderbird }.
-profiles-pane-title-seamonkey = Εισαγωγή Ρυθμίσεων και Δεδομένων από ένα προφίλ { app-name-seamonkey }.
-profiles-pane-title-outlook = Εισαγωγή δεδομένων από { app-name-outlook }.
-profiles-pane-title-becky = Εισαγωγή δεδομένων από { app-name-becky }.
-profiles-pane-title-apple-mail = Εισαγωγή μηνυμάτων από { app-name-apple-mail }.
+from-app-outlook = Εισαγωγή από το { app-name-outlook }
+from-app-becky = Εισαγωγή από το { app-name-becky }
+from-app-apple-mail = Εισαγωγή από το { app-name-apple-mail }
+profiles-pane-title-thunderbird = Κάντε εισαγωγή ρυθμίσεων και δεδομένων από ένα προφίλ του { app-name-thunderbird }.
+profiles-pane-title-seamonkey = Κάντε εισαγωγή ρυθμίσεων και δεδομένων από ένα προφίλ του { app-name-seamonkey }.
+profiles-pane-title-outlook = Κάντε εισαγωγή δεδομένων από το { app-name-outlook }.
+profiles-pane-title-becky = Κάντε εισαγωγή δεδομένων από το { app-name-becky }.
+profiles-pane-title-apple-mail = Κάντε εισαγωγή μηνυμάτων από το { app-name-apple-mail }.
 profile-source = Εισαγωγή από προφίλ
 # $profileName (string) - name of the profile
-profile-source-named = Εισαγωγή από προφίλ <strong>«{ $profileName }»</strong>
-profile-file-picker-directory = Επιλέξτε ένα φάκελο του προφίλ
+profile-source-named = Εισαγωγή από το προφίλ <strong>«{ $profileName }»</strong>
+profile-file-picker-directory = Επιλέξτε έναν φάκελο προφίλ
 profile-file-picker-archive = Επιλέξτε ένα αρχείο <strong>ZIP</strong>
 profile-file-picker-archive-description = Το αρχείο ZIP πρέπει να είναι μικρότερο από 2 GB.
 profile-file-picker-archive-title = Επιλέξτε ένα αρχείο ZIP (μικρότερο από 2GB)
-items-pane-title2 = Επιλέξτε τι θα εισαγάγετε:
+items-pane-title2 = Επιλέξτε τι θα εισαχθεί:
 items-pane-directory = Κατάλογος:
 items-pane-profile-name = Όνομα προφίλ:
 items-pane-checkbox-accounts = Λογαριασμοί και ρυθμίσεις
 items-pane-checkbox-address-books = Ευρετήρια
 items-pane-checkbox-calendars = Ημερολόγια
 items-pane-checkbox-mail-messages = Μηνύματα email
-items-pane-override = Τυχόν υπάρχοντα ή πανομοιότυπα δεδομένα θα αντικατασταθούν.
+items-pane-override = Όλα τα υπάρχοντα ή πανομοιότυπα δεδομένα δεν θα αντικατασταθούν.
 
 ## Import from address book file steps
 
@@ -111,9 +111,9 @@ calendar-items-filter-input =
     .placeholder = Φιλτράρισμα στοιχείων…
 calendar-select-all-items = Επιλογή όλων
 calendar-deselect-all-items = Αποεπιλογή όλων
-calendar-target-title = Επιλέξτε που θα γίνει η εισαγωγή των αντικειμένων που επιλέξατε.
+calendar-target-title = Επιλέξτε πού θα γίνει η εισαγωγή των επιλεγμένων στοιχείων.
 # $targetCalendar (string) - name of the new calendar that would be created
-calendar-import-into-new-calendar2 = Δημιουργήστε ένα νέο ημερολόγιο με όνομα <strong>"{ $targetCalendar }"</strong>
+calendar-import-into-new-calendar2 = Δημιουργήστε ένα νέο ημερολόγιο με όνομα <strong>«{ $targetCalendar }»</strong>
 # $itemCount (number) - count of selected items (tasks, events) that will be imported
 # $targetCalendar (string) - name of the calendar the items will be imported into
 calendar-summary-title =
@@ -122,7 +122,7 @@ calendar-summary-title =
        *[other] Εισαγωγή { $itemCount } αντικειμένων στο ημερολόγιο "{ $targetCalendar }"
     }
 # $targetCalendar (string) - name of the calendar that will be created
-calendar-summary-description = Θα δημιουργηθεί ένα νέο ημερολόγιο με όνομα "{ $targetCalendar }".
+calendar-summary-description = Θα δημιουργηθεί ένα νέο ημερολόγιο με όνομα «{ $targetCalendar }».
 
 ## Import dialog
 
@@ -134,7 +134,7 @@ progress-pane-finished-desc2 = Ολοκληρώθηκε.
 error-pane-title = Σφάλμα
 error-message-zip-file-too-big2 = Το επιλεγμένο αρχείο ZIP είναι μεγαλύτερο από 2GB. Αποσυμπιέστε το πρώτα και μετά εισαγάγετε τον φάκελο που έγινε η εξαγωγή.
 error-message-extract-zip-file-failed2 = Αδύνατη η εξαγωγή του αρχείου ZIP. Αποσυμπιέστε το χειροκίνητα και μετά εισαγάγετε από το φάκελο που θα εξαχθούν τα αρχεία.
-error-message-failed = Η εισαγωγή απέτυχε απροσδόκητα, περισσότερες πληροφορίες ενδέχεται να είναι διαθέσιμες στην Κονσόλα Σφαλμάτων.
+error-message-failed = Απρόσμενη αποτυχία εισαγωγής, περισσότερες πληροφορίες θα βρείτε στην κονσόλα σφαλμάτων.
 error-failed-to-parse-ics-file = Δεν βρέθηκαν στοιχεία προς εισαγωγή στο αρχείο.
 error-export-failed = Απρόσμενη αποτυχία εξαγωγής, περισσότερες πληροφορίες θα βρείτε στην κονσόλα σφαλμάτων.
 error-message-no-profile = Δεν βρέθηκε προφίλ.
@@ -149,8 +149,8 @@ csv-target-field = Πεδίο ευρετηρίου
 
 ## Export tab
 
-export-profile-title = Εξαγωγή λογαριασμών, μηνυμάτων, ευρετηρίων και ρυθμίσεων σε αρχείο ZIP.
-export-profile-description = Αν το τρέχον προφίλ σας είναι μεγαλύτερο από 2GB, προτείνεται η λήψη αντιγράφου ασφαλείας από εσάς.
+export-profile-title = Κάντε εξαγωγή λογαριασμών, μηνυμάτων, ευρετηρίων και ρυθμίσεων σε αρχείο ZIP.
+export-profile-description = Αν το τρέχον προφίλ σας είναι μεγαλύτερο από 2GB, καλό θα ήταν να δημιουργήσετε ένα αντίγραφο ασφαλείας.
 export-open-profile-folder = Άνοιγμα φακέλου προφίλ
 export-file-picker2 = Εξαγωγή σε αρχείο ZIP
 export-brand-name = { -brand-product-name }
@@ -159,7 +159,7 @@ export-brand-name = { -brand-product-name }
 
 summary-pane-title = Δεδομένα προς εισαγωγή
 summary-pane-start = Έναρξη εισαγωγής
-summary-pane-warning = Το { -brand-product-name } θα πρέπει να επανεκκινήσει αφού ολοκληρωθεί η εισαγωγή.
+summary-pane-warning = Το { -brand-product-name } θα πρέπει να επανεκκινηθεί αφού ολοκληρωθεί η εισαγωγή.
 summary-pane-start-over = Επανεκκίνηση εργαλείου εισαγωγής
 
 ## Footer area
