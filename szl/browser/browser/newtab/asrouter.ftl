@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Rykōmyndowano funkcyjo
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Po jakimu to widza?
-
 cfr-doorhanger-extension-cancel-button = Niy teroz
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Przidej teroz
     .accesskey = P
-
 cfr-doorhanger-extension-manage-settings-button = Nasztalowania rykōmyndacyji
     .accesskey = n
-
 cfr-doorhanger-extension-never-show-recommendation = Niy pokozuj mi tyj rykōmyndacyje
     .accesskey = T
-
 cfr-doorhanger-extension-learn-more-link = Przewiydz sie wiyncyj
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = autōr: { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekōmyndacyjo
 cfr-doorhanger-extension-notification2 = Rekōmyndacyjo
     .tooltiptext = Rekōmyndacyjo rozszyrzynio
     .a11y-announcement = Rekōmyndacyjo rozszyrzynio je dostympno
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekōmyndacyjo
@@ -87,11 +79,9 @@ cfr-protections-panel-link-text = Przewiydz sie wiyncyj
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nowo funkcyjo:
-
 cfr-whatsnew-button =
     .label = Co je nowego
     .tooltiptext = Co je nowego
-
 cfr-whatsnew-release-notes-link-text = Poczytej informacyje ô wydaniu
 
 ## Enhanced Tracking Protection Milestones
@@ -169,6 +159,10 @@ spotlight-total-cookie-protection-body = Połno ôchrōna cookies zastawio śled
 spotlight-total-cookie-protection-expanded = { -brand-short-name } buduje naôbkoło cookies płot, bez co ôstowajōm na strōnie, na keryj żeś je, tak co sledzōnce elymynty niy mogōm ich użyć do śledzynio cie. Jak załōnczysz ta fōnkcyjo, to pōmożesz jōm zôptymalizować, tak co poradzymy durch budować lepszy internet do wszyskich.
 spotlight-total-cookie-protection-primary-button = Załōncz połno ôchrōna cookies
 spotlight-total-cookie-protection-secondary-button = Niy teroz
+cfr-total-cookie-protection-header = Skuli Ciebie aplikacyjo { -brand-short-name } je wiyncyj prywatno i bezpieczniyjszo
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = Połno ôchrōna cookies to je do teroz nasza nojsiylniyjszo ôchrōna prywatności – a teroz je za bazowy sztalōnek do użytkownikōw aplikacyje { -brand-short-name }. Niy poradziylibymy tego szafnōńć bez uczestnikōw testōw takich jak ty. Tōż dziynkujymy za pōmoc przi tworzyniu lepszego, prywatniyjszego internetu.
 
 ## Emotive Continuous Onboarding
 
