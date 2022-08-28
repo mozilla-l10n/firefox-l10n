@@ -99,13 +99,13 @@ about-debugging-setup-usb-step-enable-debug2 = ඇන්ඩ්‍රොයිඩ
 about-debugging-setup-usb-step-plug-device = ඇන්ඩ්‍රොයිඩ් උපාංගය පරිගණකයට සම්බන්ධ කරන්න.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-to-a-remote-device
-about-debugging-setup-usb-troubleshoot = USB උපාංගයට සම්බන්ධ වීමේ ගැටලු තිබේද? <a>දෝෂ සෙවීම</a>
+about-debugging-setup-usb-troubleshoot = USB උපාංගයට සම්බන්ධ වීමේ ගැටළු තිබේද? <a>දෝෂ සෙවීම</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = ජාලයේ ස්ථානය
 # Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-over-the-network
-about-debugging-setup-network-troubleshoot = ජාල ස්ථානය හරහා සම්බන්ධ වීමේ ගැටලු තිබේද? <a>දෝෂ සෙවීම</a>
+about-debugging-setup-network-troubleshoot = ජාල ස්ථානය හරහා සම්බන්ධ වීමේ ගැටළු තිබේද? <a>දෝෂ සෙවීම</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = එකතු
@@ -163,7 +163,7 @@ about-debugging-runtime-service-workers-not-compatible = ඔබගේ අති�
 # "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-browser-version-too-old = සම්බන්ධිත අතිරික්සුව පරණ අනුවාදයකි ({ $runtimeVersion }). සහාය දක්වන අවම අනුවාදය ({ $minVersion }) වේ. මෙය සහාය නොදක්වන පිහිටුවීමක් වන අතර සංවර්ධන මෙවලම් ගැටලු වලට හේතු විය හැකිය. සම්බන්ධිත අතිරික්සුව යාවත්කාල කරන්න. <a>දෝෂ සෙවීම</a>
+about-debugging-browser-version-too-old = සම්බන්ධිත අතිරික්සුව පරණ අනුවාදයකි ({ $runtimeVersion }). සහාය දක්වන අවම අනුවාදය ({ $minVersion }) වේ. මෙය සහාය නොදක්වන පිහිටුවීමක් වන අතර සංවර්ධන මෙවලම් ගැටළු වලට හේතු විය හැකිය. සම්බන්ධිත අතිරික්සුව යාවත්කාල කරන්න. <a>දෝෂ සෙවීම</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
