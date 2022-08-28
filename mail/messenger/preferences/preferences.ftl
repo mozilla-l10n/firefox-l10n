@@ -128,7 +128,7 @@ adding-opensearch-provider-failed-text = Δεν ήταν δυνατή η προ�
 minimize-to-tray-label =
     .label = Όταν το { -brand-short-name } ελαχιστοποιείται, να γίνεται μετακίνηση στην περιοχή ειδοποιήσεων
     .accesskey = ε
-new-message-arrival = Όταν φθάνουν νέα μηνύματα:
+new-message-arrival = Όταν φτάνουν νέα μηνύματα:
 mail-play-sound-label =
     .label =
         { PLATFORM() ->
@@ -627,7 +627,7 @@ away-message-label =
 send-typing-label =
     .label = Αποστολή ειδοποιήσεων πληκτρολόγησης στις συνομιλίες
     .accesskey = σ
-notification-label = Όταν φθάνουν μηνύματα που απευθύνονται σε εσάς:
+notification-label = Όταν φτάνουν μηνύματα που απευθύνονται σε εσάς:
 show-notification-label =
     .label = Εμφάνιση ειδοποίησης:
     .accesskey = ε
