@@ -92,15 +92,15 @@ addr-book-sqlite-file = Αρχείο βάσης δεδομένων SQLite (.sqli
 addr-book-mab-file = Αρχείο βάσης δεδομένων Mork (.mab)
 addr-book-file-picker = Επιλογή αρχείου ευρετηρίου
 addr-book-csv-field-map-title = Αντιστοίχιση ονομάτων πεδίων
-addr-book-csv-field-map-desc = Επιλέξτε τα ευρετήρια που αντιστοιχούν στα πεδία πηγής. Καταργήστε την επιλογή των πεδίων που δεν θέλετε να εισαγάγετε.
-addr-book-directories-title = Επιλέξτε που θα γίνει η εισαγωγή των δεδομένων που επιλέξατε
+addr-book-csv-field-map-desc = Επιλέξτε τα πεδία του ευρετηρίου που αντιστοιχούν στα πεδία της πηγής. Καταργήστε την επιλογή των πεδίων που δεν θέλετε να εισαγάγετε.
+addr-book-directories-title = Επιλέξτε πού θα γίνει η εισαγωγή των επιλεγμένων δεδομένων
 addr-book-directories-pane-source = Αρχείο πηγής:
 # $addressBookName (string) - name of the new address book that would be created.
-addr-book-import-into-new-directory2 = Δημιουργήστε ένα νέο κατάλογο με όνομα <strong>"{ $addressBookName }"</strong>
+addr-book-import-into-new-directory2 = Δημιουργήστε έναν νέο κατάλογο με όνομα <strong>«{ $addressBookName }»</strong>
 # $addressBookName (string) - name of the address book to import into
-addr-book-summary-title = Εισαγάγετε τα επιλεγμένα δεδομένα στον κατάλογο "{ $addressBookName }"
+addr-book-summary-title = Εισαγάγετε τα επιλεγμένα δεδομένα στον κατάλογο «{ $addressBookName }»
 # $addressBookName (string) - name of the address book that will be created.
-addr-book-summary-description = Θα δημιουργηθεί ένα νέο βιβλίο διευθύνσεων με όνομα "{ $addressBookName }".
+addr-book-summary-description = Θα δημιουργηθεί ένα νέο ευρετήριο με όνομα «{ $addressBookName }».
 
 ## Import from calendar file steps
 
@@ -145,7 +145,7 @@ csv-first-row-contains-headers = Η πρώτη σειρά περιέχει ον�
 csv-source-field = Πεδίο πηγής
 csv-source-first-record = Πρώτη καταχώρηση
 csv-source-second-record = Δεύτερη καταχώρηση
-csv-target-field = Πεδίο ευρετηρίου διευθύνσεων
+csv-target-field = Πεδίο ευρετηρίου
 
 ## Export tab
 
