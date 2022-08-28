@@ -33,6 +33,6 @@ customize-mode-undo-cmd =
     .label = Ångra
 customize-mode-lwthemes-link = Hantera teman
 customize-mode-touchbar-cmd =
-    .label = Anpassa menyrad för Touch...
+    .label = Anpassa Touch Bar…
 customize-mode-downloads-button-autohide =
     .label = Dölj knappen när den är tom

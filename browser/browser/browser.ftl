@@ -118,7 +118,7 @@ urlbar-password-notification-anchor =
 urlbar-translated-notification-anchor =
     .tooltiptext = Hantera sidöversättning
 urlbar-plugins-notification-anchor =
-    .tooltiptext = Hantera plugins som används
+    .tooltiptext = Hantera insticksmoduler som används
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Hantera delning av din kamera och/eller mikrofon med webbplatsen
 # "Speakers" is used in a general sense that might include headphones or
@@ -161,7 +161,7 @@ urlbar-search-mode-actions = Åtgärder
 ##
 
 urlbar-geolocation-blocked =
-    .tooltiptext = Du har blockerat platsinformation för denna webbplats.
+    .tooltiptext = Du har blockerat platsinformation för den här webbplatsen.
 urlbar-xr-blocked =
     .tooltiptext = Du har blockerat enheter för virtuell verklighet att få åtkomst till den här webbplatsen.
 urlbar-web-notifications-blocked =
@@ -169,17 +169,17 @@ urlbar-web-notifications-blocked =
 urlbar-camera-blocked =
     .tooltiptext = Du har blockerat din kamera för denna webbsida.
 urlbar-microphone-blocked =
-    .tooltiptext = Du har blockerat din mikrofon för denna webbsida.
+    .tooltiptext = Du har blockerat din mikrofon för den här webbsidan.
 urlbar-screen-blocked =
-    .tooltiptext = Du har blockerat denna webbsida från att få dela din skärm
+    .tooltiptext = Du har blockerat den här webbsidan från att få dela din skärm.
 urlbar-persistent-storage-blocked =
-    .tooltiptext = Du har blockerat beständig lagring för denna webbplats.
+    .tooltiptext = Du har blockerat beständig lagring för den här webbplatsen.
 urlbar-popup-blocked =
     .tooltiptext = Du har blockerat popup-fönster för den här webbplatsen.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Du har blockerat automatisk uppspelning av media med ljud för den här webbplatsen.
 urlbar-canvas-blocked =
-    .tooltiptext = Du har blockerat canvas-extrahering för denna webbplats.
+    .tooltiptext = Du har blockerat canvas-extrahering för den här webbplatsen.
 urlbar-midi-blocked =
     .tooltiptext = Du har blockerat MIDI-åtkomst för denna webbplats.
 urlbar-install-blocked =
@@ -407,7 +407,7 @@ identity-description-passive-loaded = Anslutningen till denna webbplats är inte
 identity-description-passive-loaded-insecure = Den här webbplatsen har innehåll som inte är säkert (t.ex. bilder). <label data-l10n-name="link">Lär dig mer</label>
 identity-description-passive-loaded-mixed = { -brand-short-name } har blockerat några osäkra komponenter på sidan, men det finns fortfarande osäkra komponenter (såsom bilder). <label data-l10n-name="link">Lär dig mer</label>
 identity-description-active-loaded = Den här webbplatsen innehåller material som inte är säkra (såsom skript) och din anslutning till det är inte privat.
-identity-description-active-loaded-insecure = Information du delar med denna webbplats kan ses av andra (som lösenord, meddelanden, kreditkort, etc.).
+identity-description-active-loaded-insecure = Information du delar med den här webbplatsen kan ses av andra (som lösenord, meddelanden, kreditkort, etc.).
 identity-learn-more =
     .value = Lär dig mer
 identity-disable-mixed-content-blocking =
@@ -552,7 +552,7 @@ urlbar-placeholder-with-name =
 urlbar-remote-control-notification-anchor2 =
     .tooltiptext = Webbläsaren är fjärrstyrd (orsak: { $component })
 urlbar-permissions-granted =
-    .tooltiptext = Du har beviljat denna webbplats ytterligare behörigheter.
+    .tooltiptext = Du har beviljat den här webbplatsen ytterligare behörigheter.
 urlbar-switch-to-tab =
     .value = Växla till flik:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
