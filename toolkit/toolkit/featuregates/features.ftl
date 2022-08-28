@@ -64,3 +64,6 @@ experimental-features-ime-search-description = 对于东亚及印度语言使用
 experimental-features-text-recognition =
     .label = 文字识别
 experimental-features-text-recognition-description = 启用识别图像内文字功能。
+experimental-features-accessibility-cache =
+    .label = 无障碍服务缓存
+experimental-features-accessibility-cache-description = 缓存 { -brand-short-name } 主进程中全部文档的所有无障碍服务信息。此举可提升屏幕阅读器和其他使用无障碍服务 API 的应用程序的性能。
