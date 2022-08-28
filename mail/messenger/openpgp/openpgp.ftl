@@ -401,7 +401,7 @@ filter-warn-key-not-secret =
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Οριστική αποκρυπτογράφηση (OpenPGP)
 filter-decrypt-copy-label = Δημιουργία αποκρυπτογραφημένου αντιγράφου (OpenPGP)
-filter-encrypt-label = Κρυπτογράφηση με το κλειδί (OpenPGP)
+filter-encrypt-label = Κρυπτογράφηση με κλειδί (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Επιτυχία! Έγινε εισαγωγή κλειδιών
@@ -412,7 +412,7 @@ import-info-details = Προβολή λεπτομερειών και διαχε�
 import-info-no-keys = Δεν έγινε εισαγωγή κλειδιών.
 # Strings in enigmailKeyManager.js
 import-from-clip = Θέλετε να εισαγάγετε μερικά κλειδιά από το πρόχειρο;
-import-from-url = Λήψη δημόσιου κλειδιού από αυτήν τη διεύθυνση URL:
+import-from-url = Λήψη δημόσιου κλειδιού από αυτό το URL:
 copy-to-clipbrd-failed = Δεν ήταν δυνατή η αντιγραφή των επιλεγμένων κλειδιών στο πρόχειρο.
 copy-to-clipbrd-ok = Τα κλειδιά αντιγράφηκαν στο πρόχειρο
 delete-secret-key =
@@ -430,7 +430,7 @@ delete-pub-key =
     Θέλετε να διαγράψετε το δημόσιο κλειδί
     «{ $userId }»;
 delete-selected-pub-key = Θέλετε να διαγράψετε τα δημόσια κλειδιά;
-refresh-all-question = Δεν επιλέξατε κλειδί. Θέλετε να ανανεώσετε ΟΛΑ τα κλειδιά;
+refresh-all-question = Δεν επιλέξατε κανένα κλειδί. Θέλετε να ανανεώσετε ΟΛΑ τα κλειδιά;
 key-man-button-export-sec-key = Εξαγωγή &μυστικών κλειδιών
 key-man-button-export-pub-key = Εξαγωγή μόνο &δημόσιων κλειδιών
 key-man-button-refresh-all = &Ανανέωση όλων των κλειδιών
@@ -438,12 +438,12 @@ key-man-loading-keys = Φόρτωση κλειδιών, παρακαλώ περ�
 ascii-armor-file = Θωρακισμένα αρχεία ASCII (*.asc)
 no-key-selected = Πρέπει να επιλέξετε τουλάχιστον ένα πλήκτρο για να εκτελέσετε την επιλεγμένη λειτουργία
 export-to-file = Εξαγωγή δημόσιου κλειδιού σε αρχείο
-export-keypair-to-file = Εξαγωγή Ιδιωτικού και Δημόσιου Κλειδιού σε αρχείο
-export-secret-key = Θέλετε να συμπεριλάβετε το μυστικό κλειδί στο αποθηκευμένο με τα κλειδιά αρχείο OpenPGP;
-save-keys-ok = Τα κλειδιά αποθηκεύτηκαν με επιτυχία
-save-keys-failed = Η αποθήκευση των κλειδιών απέτυχε
+export-keypair-to-file = Εξαγωγή μυστικού και δημόσιου κλειδιού σε αρχείο
+export-secret-key = Θέλετε να συμπεριλάβετε το μυστικό κλειδί στο αποθηκευμένο αρχείο κλειδιού OpenPGP;
+save-keys-ok = Επιτυχής αποθήκευση κλειδιών
+save-keys-failed = Αποτυχία αποθήκευσης κλειδιών
 default-pub-key-filename = Εξαγόμενα-δημόσια-κλειδιά
-default-pub-sec-key-filename = Αντίγραφα-ασφαλείας-των-ιδιωτικών-κλειδιών
+default-pub-sec-key-filename = Αντίγραφο-ασφαλείας-ιδιωτικών-κλειδιών
 refresh-key-warn = Προειδοποίηση: ανάλογα με τον αριθμό των κλειδιών και την ταχύτητα σύνδεσης, η ανανέωση όλων των κλειδιών ενδέχεται να είναι αρκετά χρονοβόρα!
 preview-failed = Δεν είναι δυνατή η ανάγνωση του αρχείου δημόσιου κλειδιού.
 general-error = Σφάλμα: { $reason }
@@ -451,10 +451,10 @@ dlg-button-delete = &Διαγραφή
 
 ## Account settings export output
 
-openpgp-export-public-success = <b>Το δημόσιο κλειδί εξήχθη με επιτυχία!</b>
-openpgp-export-public-fail = <b>Δεν ήταν δυνατή η εξαγωγή του επιλεγμένου δημόσιου κλειδιού!</b>
-openpgp-export-secret-success = <b>Το μυστικό κλειδί εξήχθη με επιτυχία!</b>
-openpgp-export-secret-fail = <b>Δεν ήταν δυνατή η εξαγωγή του επιλεγμένου μυστικού κλειδιού!</b>
+openpgp-export-public-success = <b>Επιτυχής εξαγωγή δημόσιου κλειδιού!</b>
+openpgp-export-public-fail = <b>Δεν είναι δυνατή η εξαγωγή του επιλεγμένου δημόσιου κλειδιού!</b>
+openpgp-export-secret-success = <b>Επιτυχής εξαγωγή μυστικού κλειδιού!</b>
+openpgp-export-secret-fail = <b>Δεν είναι δυνατή η εξαγωγή του επιλεγμένου μυστικού κλειδιού!</b>
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = Το κλειδί { $userId } (αναγνωριστικό κλειδιού { $keyId }) είναι ανακλημένο.
 key-ring-pub-key-expired = Το κλειδί { $userId } (αναγνωριστικό κλειδιού { $keyId }) έχει λήξει.
@@ -493,13 +493,13 @@ key-man-button-import = &Εισαγωγή
 delete-key-title = Διαγραφή κλειδιού OpenPGP
 delete-external-key-title = Αφαίρεση εξωτερικού κλειδιού GnuPG
 delete-external-key-description = Θέλετε να αφαιρέσετε αυτό το ID εξωτερικού κλειδιού GnuPG;
-key-in-use-title = Το κλειδί OpenPGP χρησιμοποιείται αυτήν τη στιγμή
-delete-key-in-use-description = Αδύνατο να συνεχίσω! Το κλειδί που επιλέξατε για διαγραφή χρησιμοποιείται αυτήν τη στιγμή από αυτήν την ταυτότητα. Επιλέξτε διαφορετικό κλειδί ή μην επιλέγετε κάτι και δοκιμάστε ξανά.
-revoke-key-in-use-description = Αδύνατο να συνεχίσω! Το κλειδί που επιλέξατε για ανάκληση χρησιμοποιείται αυτήν τη στιγμή από αυτήν την ταυτότητα. Επιλέξτε διαφορετικό κλειδί ή μην επιλέγετε κάτι και δοκιμάστε ξανά.
+key-in-use-title = Το κλειδί OpenPGP χρησιμοποιείται
+delete-key-in-use-description = Δεν είναι δυνατή η συνέχεια! Το κλειδί που επιλέξατε για διαγραφή χρησιμοποιείται αυτήν τη στιγμή από αυτήν την ταυτότητα. Επιλέξτε ένα άλλο κλειδί ή μην επιλέξετε κανένα και δοκιμάστε ξανά.
+revoke-key-in-use-description = Δεν είναι δυνατή η συνέχεια! Το κλειδί που επιλέξατε για ανάκληση χρησιμοποιείται αυτήν τη στιγμή από αυτήν την ταυτότητα. Επιλέξτε ένα άλλο κλειδί ή μην επιλέξετε κανένα και δοκιμάστε ξανά.
 # Strings used in errorHandling.jsm
-key-error-key-spec-not-found = Η διεύθυνση ηλεκτρονικού ταχυδρομείο '{ $keySpec }' δεν μπορεί να αντιστοιχιστεί με ένα κλειδί στο αποθετήριο κλειδιών σας.
+key-error-key-spec-not-found = Η διεύθυνση email «{ $keySpec }» δεν μπορεί να αντιστοιχιστεί με κάποιο κλειδί στο αποθετήριο κλειδιών σας.
 key-error-key-id-not-found = Το ορισμένο αναγνωριστικό κλειδιού «{ $keySpec }» δεν μπορεί να βρεθεί στο αποθετήριο κλειδιών σας.
-key-error-not-accepted-as-personal = Δεν έχετε επιβεβαιώσει ότι το κλειδί με αναγνωριστικό '{ $keySpec }' είναι το προσωπικό σας κλειδί.
+key-error-not-accepted-as-personal = Δεν έχετε επιβεβαιώσει ότι το κλειδί με αναγνωριστικό «{ $keySpec }» είναι το προσωπικό σας κλειδί.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Η λειτουργία που έχετε επιλέξει δεν είναι διαθέσιμη σε λειτουργία εκτός σύνδεσης. Συνδεθείτε στο διαδίκτυο και δοκιμάστε ξανά.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
