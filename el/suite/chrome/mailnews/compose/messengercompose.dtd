@@ -119,7 +119,7 @@
 <!ENTITY formatToolbar.tooltip "Γραμμή μορφοποίησης">
 <!ENTITY sendButton.tooltip "Άμεση αποστολή μηνύματος">
 <!ENTITY sendlaterButton.tooltip "Αποστολή μηνύματος αργότερα">
-<!ENTITY addressButton.tooltip "Επιλογή παραλήπτη από ευρετήριο διευθύνσεων">
+<!ENTITY addressButton.tooltip "Επιλογή παραλήπτη από ευρετήριο">
 <!ENTITY attachButton.tooltip "Εισαγωγή συνημμένου">
 <!ENTITY saveButton.tooltip "Αποθήκευση μηνύματος">
 <!ENTITY stopButton.tooltip "Διακοπή τρέχουσας μεταφοράς">
