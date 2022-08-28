@@ -7,7 +7,7 @@
 ### feature.
 
 about-unloads-last-updated = අවසාන යාවත්කාලය: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
-about-unloads-column-priority = ප්‍රමුඛත්වය
+about-unloads-column-priority = ප්‍රමුඛත්‍වය
 about-unloads-column-host = සත්කාරකය
 about-unloads-column-last-accessed = අවසන් ප්‍රවේශය
 about-unloads-column-memory = මතකය

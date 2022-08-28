@@ -100,7 +100,7 @@ newtab-menu-delete-history = ඉතිහාසයෙන් මකන්න
 newtab-menu-save-to-pocket = { -pocket-brand-name } හි සුරකින්න
 newtab-menu-delete-pocket = { -pocket-brand-name } වෙතින් මකන්න
 newtab-menu-archive-pocket = { -pocket-brand-name } හි සංරක්‍ෂණය
-newtab-menu-show-privacy-info = අපගේ අනුග්‍රහකයින් හා ඔබගේ පෞද්ගලිකත්වය
+newtab-menu-show-privacy-info = අපගේ අනුග්‍රහකයින් හා ඔබගේ පෞද්ගලිකත්‍වය
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -161,7 +161,7 @@ newtab-section-menu-manage-webext = දිගුව කළමනාකරණය
 newtab-section-menu-add-search-engine = සෙවුම් යන්ත්‍රයක් යොදන්න
 newtab-section-menu-move-up = ඉහළට ගෙනයන්න
 newtab-section-menu-move-down = පහළට ගෙනයන්න
-newtab-section-menu-privacy-notice = පෞද්ගලිකත්ව දැන්වීම
+newtab-section-menu-privacy-notice = පෞද්ගලිකත්‍ව දැන්වීම
 
 ## Section aria-labels
 
