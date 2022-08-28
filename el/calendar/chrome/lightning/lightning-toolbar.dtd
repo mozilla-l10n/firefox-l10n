@@ -47,5 +47,5 @@
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Προβολή του μενού του &brandShortName;">
 <!ENTITY lightning.toolbar.calendarmenu.label        "Παράθυρο ημερολογίου">
 <!ENTITY lightning.toolbar.calendarmenu.accesskey    "θ">
-<!ENTITY lightning.toolbar.calendarpane.label        "Εμφάνιση παραθύρου ημερολογίου">
+<!ENTITY lightning.toolbar.calendarpane.label        "Εμφάνιση προβολής ημερολογίου">
 <!ENTITY lightning.toolbar.calendarpane.accesskey    "η">
