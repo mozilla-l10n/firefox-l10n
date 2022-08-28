@@ -32,7 +32,7 @@ category-home =
 pane-search-title = සෙවුම
 category-search =
     .tooltiptext = { pane-search-title }
-pane-privacy-title = පෞද්ගලිකත්වය හා ආරක්‍ෂාව
+pane-privacy-title = පෞද්ගලිකත්‍වය හා ආරක්‍ෂාව
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = සමමුහූර්තය
@@ -364,14 +364,14 @@ update-in-progress-cancel-button = &ඉදිරියට
 
 ## General Section - Performance
 
-performance-title = ක්‍රියාකාරිත්වය
+performance-title = කාර්ය සාධනය
 performance-use-recommended-settings-checkbox =
-    .label = නිර්දේශිත ක්‍රියාකාරිත්ව සැකසුම් භාවිතා කරන්න
+    .label = නිර්දේශිත කාර්ය සාධන සැකසුම් භාවිතා කරන්න
     .accesskey = U
 performance-use-recommended-settings-desc = මෙම සැකසුම් ඔබගේ පරිගණකයේ දෘඩාංග හා මෙහෙයුම් පද්ධතිය සඳහා සුදුසු ලෙස සැකසී ඇත.
 performance-settings-learn-more = තව දැනගන්න
 performance-allow-hw-accel =
-    .label = තිබෙන විට දෘඪාංග ත්වරණය භාවිතා කරන්න
+    .label = තිබෙන විට දෘඪාංග ත්‍වරණය භාවිතා කරන්න
     .accesskey = r
 performance-limit-content-process-option = අන්තර්ගත සැකසීම් සීමාව
     .accesskey = I
@@ -983,7 +983,7 @@ permissions-addon-exceptions =
 
 collection-header = { -brand-short-name } දත්ත රැස් කිරීම හා භාවිතය
 collection-description = අපි බොහෝ විට ඔබට තෝරාගැනීම් ලබා දීමට වෙහෙසෙන අතර සැමට { -brand-short-name } වැඩිදියුණු කිරීමට හා සැපයීමට අවශ්‍ය දෑ පමණක් එක්කාසු කරන්නෙමු. පෞද්ගලික තොරතුරු ලැබීමට පෙර ද සැමවිට අවසර ඉල්ලා සිටින්නෙමු.
-collection-privacy-notice = පෞද්ගලිකත්ව දැන්වීම
+collection-privacy-notice = පෞද්ගලිකත්‍ව දැන්වීම
 collection-health-report-telemetry-disabled-link = තව දැනගන්න
 collection-health-report =
     .label = තාක්‍ෂණික හා අන්තර්ක්‍රියා දත්ත { -vendor-short-name } වෙත යැවීමට ඉඩ දෙන්න
