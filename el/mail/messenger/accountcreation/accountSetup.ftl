@@ -142,8 +142,8 @@ account-setup-result-username-different = Εισερχόμενα: { $incoming },
 ## Error messages
 
 # Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
-account-setup-credentials-incomplete = Η αυθεντικοποίηση απέτυχε. Είτε τα διαπιστευτήρια που εισαγάγατε είναι λάθος είτε απαιτείται ξεχωριστό όνομα χρήστη για είσοδο. Το όνομα χρήστη συνήθως είναι το όνομα χρήστη για τον τομέα στα Windows, με ή χωρίς το όνομα τομέα (για παράδειγμα janedoe ή AD\\janedoe).
-account-setup-credentials-wrong = Η αυθεντικοποίηση απέτυχε. Παρακαλούμε ελέγξτε το όνομα χρήστη και τον κωδικό πρόσβασης
+account-setup-credentials-incomplete = Η ταυτοποίηση απέτυχε. Είτε τα διαπιστευτήρια που εισαγάγατε είναι εσφαλμένα είτε απαιτείται ξεχωριστό όνομα χρήστη για σύνδεση. Αυτό το όνομα χρήστη είναι συνήθως το όνομα χρήστη του τομέα σας στα Windows, με ή χωρίς το όνομα τομέα (για παράδειγμα, janedoe ή AD\\janedoe).
+account-setup-credentials-wrong = Η ταυτοποίηση απέτυχε. Παρακαλώ ελέγξτε το όνομα χρήστη και τον κωδικό πρόσβασης
 account-setup-find-settings-failed = Το { -brand-short-name } απέτυχε να εντοπίσει τις ρυθμίσεις του λογαριασμού ηλεκτρονικής αλληλογραφίας σας
 account-setup-exchange-config-unverifiable = Δεν ήταν δυνατή η επαλήθευση των ρυθμίσεων παραμέτρων. Αν το όνομα χρήστη και ο κωδικός πρόσβασής σας είναι σωστά, ο διαχειριστής του διακομιστή ενδέχεται να έχει απενεργοποιήσει τις επιλεγμένες ρυθμίσεις παραμέτρων για τον λογαριασμό σας. Δοκιμάστε να επιλέξετε άλλο πρωτόκολλο.
 account-setup-provisioner-error = Προέκυψε σφάλμα κατά τη ρύθμιση του νέου σας λογαριασμού στο { -brand-short-name }. Παρακαλώ δοκιμάστε να τον ρυθμίσετε χειροκίνητα με τα διαπιστευτήριά σας.
