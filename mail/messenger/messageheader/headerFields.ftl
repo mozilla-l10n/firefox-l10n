@@ -24,7 +24,7 @@ message-header-followup-to-field = Απάντηση σε<span data-l10n-name="fi
 message-header-date-field = Ημερομηνία<span data-l10n-name="field-separator">:</span>
 message-header-user-agent-field = Πρόγραμμα πελάτη<span data-l10n-name="field-separator">:</span>
 message-header-references-field = Αναφορές<span data-l10n-name="field-separator">:</span>
-message-header-message-id-field = Αναγνωριστικό μηνύματος<span data-l10n-name="field-separator">:</span>
+message-header-message-id-field = ID μηνύματος<span data-l10n-name="field-separator">:</span>
 message-header-in-reply-to-field = Σε απάντηση του<span data-l10n-name="field-separator">:</span>
 message-header-website-field = Ιστότοπος<span data-l10n-name="field-separator">:</span>
 # An additional email header field that the user has chosen to display. Unlike

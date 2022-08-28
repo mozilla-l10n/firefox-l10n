@@ -25,7 +25,7 @@ e2e-encrypt-subject =
 e2e-encrypt-drafts =
     .label = Αποθήκευση πρόχειρων μηνυμάτων σε κρυπτογραφημένη μορφή
     .accesskey = κ
-openpgp-key-user-id-label = Λογαριασμός / Αναγνωριστικό χρήστη
+openpgp-key-user-id-label = Λογαριασμός/ID χρήστη
 openpgp-keygen-title-label =
     .title = Δημιουργία κλειδιού OpenPGP
 openpgp-cancel-key =
@@ -112,7 +112,7 @@ openpgp-key-man-backup-secret-keys =
 openpgp-key-man-discover-cmd =
     .label = Ανακάλυψη κλειδιών στο διαδίκτυο
     .accesskey = Α
-openpgp-key-man-discover-prompt = Για να βρείτε κλειδιά OpenPGP στο διαδίκτυο, σε διακομιστές κλειδιών ή με χρήση του πρωτοκόλλου WKD, εισάγετε είτε την διεύθυνση ηλεκτρονικού ταχυδρομείου, είτε το αναγνωριστικό χρήστη.
+openpgp-key-man-discover-prompt = Για να βρείτε κλειδιά OpenPGP στο διαδίκτυο, σε διακομιστές κλειδιών ή μέσω του πρωτοκόλλου WKD, εισαγάγετε είτε μια διεύθυνση email είτε ένα ID κλειδιού.
 openpgp-key-man-discover-progress = Αναζήτηση…
 openpgp-key-copy-key =
     .label = Αντιγραφή δημόσιου κλειδιού
@@ -238,7 +238,7 @@ openpgp-key-details-signatures-tab =
 openpgp-key-details-structure-tab =
     .label = Δομή
 openpgp-key-details-uid-certified-col =
-    .label = Αναγνωριστικό χρήστη / Πιστοποιήθηκε από
+    .label = ID χρήστη/Πιστοποίηση από
 openpgp-key-details-key-id-label = ID κλειδιού
 openpgp-key-details-user-id3-label = Υποτιθέμενος κάτοχος κλειδιού
 openpgp-key-details-id-label =
@@ -313,7 +313,7 @@ openpgp-add-key-button =
 e2e-learn-more = Μάθετε περισσότερα
 openpgp-keygen-success = Επιτυχής δημιουργία κλειδιού OpenPGP!
 openpgp-keygen-import-success = Επιτυχής εισαγωγή κλειδιών OpenPGP!
-openpgp-keygen-external-success = Το εξωτερικό αναγνωριστικό κλειδιού GnuPG αποθηκεύτηκε!
+openpgp-keygen-external-success = Το ID εξωτερικού κλειδιού GnuPG αποθηκεύτηκε!
 
 ## OpenPGP Key selection area
 
@@ -341,7 +341,7 @@ openpgp-manager-button =
     .label = Διαχείριση κλειδιών OpenPGP
     .accesskey = κ
 openpgp-key-remove-external =
-    .label = Αφαίρεση αναγνωριστικού εξωτερικού κλειδιού
+    .label = Αφαίρεση ID εξωτερικού κλειδιού
     .accesskey = φ
 key-external-label = Εξωτερικό κλειδί GnuPG
 # Strings in keyDetailsDlg.xhtml
@@ -456,15 +456,15 @@ openpgp-export-public-fail = <b>Δεν είναι δυνατή η εξαγωγή
 openpgp-export-secret-success = <b>Επιτυχής εξαγωγή μυστικού κλειδιού!</b>
 openpgp-export-secret-fail = <b>Δεν είναι δυνατή η εξαγωγή του επιλεγμένου μυστικού κλειδιού!</b>
 # Strings in keyObj.jsm
-key-ring-pub-key-revoked = Το κλειδί { $userId } (αναγνωριστικό κλειδιού { $keyId }) είναι ανακλημένο.
-key-ring-pub-key-expired = Το κλειδί { $userId } (αναγνωριστικό κλειδιού { $keyId }) έχει λήξει.
-key-ring-no-secret-key = Φαίνεται να μην έχετε το μυστικό κλειδί για { $userId } (αναγνωριστικό κλειδιού { $keyId }) στο αποθετήριο κλειδιών σας· δεν μπορείτε να χρησιμοποιήσετε το κλειδί για υπογραφή.
-key-ring-pub-key-not-for-signing = Το κλειδί { $userId } (αναγνωριστικό κλειδιού { $keyId }) δεν μπορεί να χρησιμοποιηθεί για υπογραφή.
-key-ring-pub-key-not-for-encryption = Το κλειδί { $userId } (αναγνωριστικό κλειδιού { $keyId }) δεν μπορεί να χρησιμοποιηθεί για κρυπτογράφηση.
-key-ring-sign-sub-keys-revoked = Ανακαλούνται όλα τα υποκλειδιά υπογραφής του κλειδιού { $userId } (αναγνωριστικό κλειδιού { $keyId }).
-key-ring-sign-sub-keys-expired = Όλα τα υποκλειδιά υπογραφής του κλειδιού { $userId } (αναγνωριστικό κλειδιού { $keyId }) έχουν λήξει.
-key-ring-enc-sub-keys-revoked = Όλα τα υποκλειδιά κρυπτογράφησης του κλειδιού { $userId } (αναγνωριστικό κλειδιού { $keyId }) έχουν ανακληθεί.
-key-ring-enc-sub-keys-expired = Όλα τα υποκλειδιά κρυπτογράφησης του κλειδιού { $userId } (αναγνωριστικό κλειδιού { $keyId }) έχουν λήξει.
+key-ring-pub-key-revoked = Το κλειδί { $userId } (ID κλειδιού { $keyId }) έχει ανακληθεί.
+key-ring-pub-key-expired = Το κλειδί { $userId } (ID κλειδιού { $keyId }) έχει λήξει.
+key-ring-no-secret-key = Φαίνεται ότι δεν έχετε το μυστικό κλειδί για το { $userId } (ID κλειδιού { $keyId }) στο αποθετήριο κλειδιών σας· δεν μπορείτε να χρησιμοποιήσετε το κλειδί για υπογραφή.
+key-ring-pub-key-not-for-signing = Το κλειδί { $userId } (ID κλειδιού { $keyId }) δεν μπορεί να χρησιμοποιηθεί για υπογραφή.
+key-ring-pub-key-not-for-encryption = Το κλειδί { $userId } (ID κλειδιού { $keyId }) δεν μπορεί να χρησιμοποιηθεί για κρυπτογράφηση.
+key-ring-sign-sub-keys-revoked = Ανακαλούνται όλα τα υποκλειδιά υπογραφής του κλειδιού { $userId } (ID κλειδιού { $keyId }).
+key-ring-sign-sub-keys-expired = Όλα τα υποκλειδιά υπογραφής του κλειδιού { $userId } (ID κλειδιού { $keyId }) έχουν λήξει.
+key-ring-enc-sub-keys-revoked = Όλα τα υποκλειδιά κρυπτογράφησης του κλειδιού { $userId } (ID κλειδιού { $keyId }) έχουν ανακληθεί.
+key-ring-enc-sub-keys-expired = Όλα τα υποκλειδιά κρυπτογράφησης του κλειδιού { $userId } (ID κλειδιού { $keyId }) έχουν λήξει.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Φωτογραφία
 user-att-photo = Χαρακτηριστικό χρήστη (εικόνα JPEG)
@@ -498,8 +498,8 @@ delete-key-in-use-description = Δεν είναι δυνατή η συνέχει
 revoke-key-in-use-description = Δεν είναι δυνατή η συνέχεια! Το κλειδί που επιλέξατε για ανάκληση χρησιμοποιείται αυτήν τη στιγμή από αυτήν την ταυτότητα. Επιλέξτε ένα άλλο κλειδί ή μην επιλέξετε κανένα και δοκιμάστε ξανά.
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = Η διεύθυνση email «{ $keySpec }» δεν μπορεί να αντιστοιχιστεί με κάποιο κλειδί στο αποθετήριο κλειδιών σας.
-key-error-key-id-not-found = Το ορισμένο αναγνωριστικό κλειδιού «{ $keySpec }» δεν μπορεί να βρεθεί στο αποθετήριο κλειδιών σας.
-key-error-not-accepted-as-personal = Δεν έχετε επιβεβαιώσει ότι το κλειδί με αναγνωριστικό «{ $keySpec }» είναι το προσωπικό σας κλειδί.
+key-error-key-id-not-found = Δεν είναι δυνατή η εύρεση του καθορισμένου ID κλειδιού «{ $keySpec }» στο αποθετήριο κλειδιών σας.
+key-error-not-accepted-as-personal = Δεν έχετε επιβεβαιώσει ότι το κλειδί με ID «{ $keySpec }» είναι το προσωπικό σας κλειδί.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Η λειτουργία που έχετε επιλέξει δεν είναι διαθέσιμη σε λειτουργία εκτός σύνδεσης. Συνδεθείτε στο διαδίκτυο και δοκιμάστε ξανά.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
