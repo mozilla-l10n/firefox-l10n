@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 chat-title = Λογαριασμοί συζητήσεων
-chat-table-heading-account = Αναγνωριστικό
+chat-table-heading-account = ID
 chat-table-heading-protocol = Πρωτόκολλο
 chat-table-heading-name = Όνομα
 chat-table-heading-actions = Ενέργειες
