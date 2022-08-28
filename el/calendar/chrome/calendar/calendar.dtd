@@ -13,7 +13,6 @@
 
 <!ENTITY calendar.today.button.label          "Σήμερα">
 <!ENTITY calendar.tomorrow.button.label       "Αύριο">
-<!ENTITY calendar.upcoming.button.label       "Επερχόμενα">
 
 <!ENTITY calendar.events.filter.all.label "Όλες οι εκδηλώσεις">
 <!ENTITY calendar.events.filter.today.label "Σημερινές εκδηλώσεις">
@@ -175,7 +174,7 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Συμμετοχή">
 <!ENTITY calendar.context.attendance.menu.accesskey             "χ">
 <!ENTITY calendar.context.attendance.occurrence.label           "Αυτό το στιγμιότυπο">
-<!ENTITY calendar.context.attendance.all2.label                 "Πλήρης Σειρά">
+<!ENTITY calendar.context.attendance.all2.label                 "Πλήρης σειρά">
 <!ENTITY calendar.context.attendance.send.label                 "Αποστολή ειδοποίησης τώρα">
 <!ENTITY calendar.context.attendance.send.accesskey             "Α">
 <!ENTITY calendar.context.attendance.dontsend.label             "Να μην αποσταλεί τώρα ειδοποίηση">
@@ -369,8 +368,6 @@
 <!ENTITY calendar.publish.url.label                 "URL δημοσίευσης">
 <!ENTITY calendar.publish.publish.button      "Δημοσίευση">
 <!ENTITY calendar.publish.close.button      "Κλείσιμο">
-
-<!ENTITY calendar.publish.example.url.description   "Κάτι σαν http://www.myserver.com/webdav/test.ics">
 
 <!-- Select Calendar Dialog -->
 <!ENTITY calendar.select.dialog.title    "Επιλογή ημερολογίου">
