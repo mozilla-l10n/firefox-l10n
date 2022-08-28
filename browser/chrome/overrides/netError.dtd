@@ -127,7 +127,7 @@ was trying to connect. -->
 <!ENTITY sslv3Used.longDesc2 "වැඩිදුර තොරතුරු: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY certerror.pagetitle2  "අවවාදයයි: ආරක්‍ෂණ අවදානමක් ඉදිරියෙන්">
-<!ENTITY certerror.sts.pagetitle  "සම්බන්ධ නොවිණි: ආරක්‍ෂණ ගැටළුවක් විය හැකිය">
+<!ENTITY certerror.sts.pagetitle  "සම්බන්ධ නොවිණි: ආරක්‍ෂණ ගැටලුවක් විය හැකිය">
 <!ENTITY certerror.copyToClipboard.label "පෙළ පිටපතක් පසුරු පුවරුවට">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
@@ -135,7 +135,7 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "අවහිර කළ පිටුව">
 
-<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> බොහෝ දුරට ආරක්‍ෂිත අඩවියකි, නමුත් ආරක්‍ෂිත සම්බන්ධතාවයක් පිහිටුවීමට නොහැකිය. මෙම ගැටළුව <span class='mitm-name'/> නිසා මතු වේ, එය ඔබගේ පරිගණකයේ හෝ ඔබගේ ජාලයේ තිබෙන මෘදුකාංගයකි.">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> බොහෝ දුරට ආරක්‍ෂිත අඩවියකි, නමුත් ආරක්‍ෂිත සම්බන්ධතාවයක් පිහිටුවීමට නොහැකිය. මෙම ගැටලුව <span class='mitm-name'/> නිසා මතු වේ, එය ඔබගේ පරිගණකයේ හෝ ඔබගේ ජාලයේ තිබෙන මෘදුකාංගයකි.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "සංස්ථානික ජාලයක නම්, ඔබගේ තොරතුරු තාක්‍ෂණ ක්‍රියාංශය අමතන්න.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "<span class='mitm-name'/> පිළිබඳව ඔබට හුරුපුරුදු නැතිනම්, මෙය ප්‍රහාරයක් විය හැකිය. මෙම අඩවියට නොයා සිටින්න.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "<span class='mitm-name'/> පිළිබඳව ඔබට හුරුපුරුදු නැතිනම්, මෙය ප්‍රහාරයක් විය හැකිය. මෙම අඩවියට යාම සඳහා ඔබට කළ හැකි දෙයක් නැත.">
