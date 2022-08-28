@@ -6,6 +6,7 @@
 ## View / Layout
 
 appmenu-font-size-value = Cỡ chữ
+appmenu-mail-uidensity-value = Mật độ
 appmenuitem-font-size-enlarge =
     .tooltiptext = Tăng cỡ chữ
 appmenuitem-font-size-reduce =
