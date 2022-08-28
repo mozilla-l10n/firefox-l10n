@@ -5,7 +5,7 @@
 customize-mode-restore-defaults =
     .label = පෙරනිමියට ප්‍රත්‍යර්පණය
 customize-mode-uidensity =
-    .label = ඝනත්වය
+    .label = ඝනත්‍වය
 customize-mode-done =
     .label = අහවරයි
 customize-mode-toolbars =
