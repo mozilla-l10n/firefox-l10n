@@ -85,7 +85,7 @@ items-pane-override = Τυχόν υπάρχοντα ή πανομοιότυπα 
 ## Import from address book file steps
 
 import-from-addr-book-file-description = Επιλέξτε τη μορφή του αρχείου που περιέχει τα δεδομένα ευρετηρίων σας.
-addr-book-csv-file = Αρχείο διαχωρισμένο με κόμμα ή καρτέλα (.csv, .tsv)
+addr-book-csv-file = Αρχείο διαχωρισμένο με κόμμα ή στηλοθέτη (.csv, .tsv)
 addr-book-ldif-file = Αρχείο LDIF (.ldif)
 addr-book-vcard-file = Αρχείο vCard (.vcf, .vcard)
 addr-book-sqlite-file = Αρχείο βάσης δεδομένων SQLite (.sqlite)
