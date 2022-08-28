@@ -18,10 +18,10 @@ tab-context-play-tabs =
     .label = පටිති  වාදනය
     .accesskey = y
 duplicate-tab =
-    .label = පටිත්තෙහි පිටපතක්
+    .label = පටිත්තෙහි අනුපිටපතක්
     .accesskey = D
 duplicate-tabs =
-    .label = අනුපිටපත් පටිති
+    .label = පටිති අනුපිටපත්
     .accesskey = D
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
