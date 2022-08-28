@@ -11,4 +11,4 @@ refresh-profile =
     .label = { -brand-short-name } නැවුම් කරන්න
 skip-troubleshoot-refresh-profile = ඔබට දොස් සෙවීම මඟ හැර ඒ වෙනුවට { -brand-short-name } නැවුම් කළ හැකිය.
 # Shown on the safe mode dialog after multiple startup crashes.
-auto-safe-mode-description = { -brand-short-name } ආරම්භයේදී අනපේක්‍ෂිත ලෙස වැසී ගියේය. මෙය එක්කහු හෝ වෙනත් ගැටලු නිසා සිදු විය හැකිය. ඔබට ආරක්‍ෂිත ප්‍රකාරය හරහා දෝෂ සෙවීමෙන් ගැටලුව විසඳීමට උත්සාහ කළ හැකිය.
+auto-safe-mode-description = { -brand-short-name } ආරම්භයේදී අනපේක්‍ෂිත ලෙස වැසී ගියේය. මෙය එක්කහු හෝ වෙනත් ගැටළු නිසා සිදු විය හැකිය. ඔබට ආරක්‍ෂිත ප්‍රකාරය හරහා දෝෂ සෙවීමෙන් ගැටළුව විසඳීමට උත්සාහ කළ හැකිය.
