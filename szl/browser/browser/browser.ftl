@@ -301,6 +301,30 @@ quickactions-cmd-plugins = pluginy
 # Opens the print dialog
 quickactions-print = Durkuj
 quickactions-cmd-print = durkuj
+# Opens a new private browsing window
+quickactions-private = Ôdewrzij ôkno w trybie prywatnego przeglōndanio
+quickactions-cmd-private = prywatne przeglōndanie
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = Ôdświyż aplikacyjo { -brand-short-name }
+quickactions-cmd-refresh = ôdświyż
+# Restarts the browser
+quickactions-restart = Resztatuj aplikacyjo { -brand-short-name }
+quickactions-cmd-restart = resztartnij
+# Opens the screenshot tool
+quickactions-screenshot2 = Zrōb ôbroz ekranu
+quickactions-cmd-screenshot = ôbroz ekranu
+# Opens about:preferences
+quickactions-settings = Ôdewrzij sztalōnki
+quickactions-cmd-settings = sztalōnki, preferyncyje, ôpcyje
+# Opens about:addons page in the themes section
+quickactions-themes = Regiyruj motywami
+quickactions-cmd-themes = motywy
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = Akctualizuj aplikacyjo { -brand-short-name }
+quickactions-cmd-update = aktualizuj
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Pokoż zdrzōdło
+quickactions-cmd-viewsource = pokoż zdrzōdło, zdrzōdło
 
 ## Bookmark Panel
 
@@ -521,6 +545,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Wkludź szukane słowo
     .aria-label = Szukej we kartach
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Wkludź szukane wyrazy
+    .aria-label = Przeszukowanie akcyjōw
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -596,6 +624,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Szukej we zokłodkach
 urlbar-result-action-search-history = Szukej w historyji
 urlbar-result-action-search-tabs = Szukej po kartach
+urlbar-result-action-search-actions = Przeszukowanie akcyjōw
 
 ## Labels shown above groups of urlbar results
 
@@ -609,6 +638,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Dorady { $engine }
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Gibke akcyje
 
 ## Full Screen and Pointer Lock UI
 
@@ -684,6 +716,8 @@ bookmarks-tools =
     .label = Noczynia przidowanio do zokłodek
 bookmarks-bookmark-edit-panel =
     .label = Edytuj ta zokłodka
+bookmarks-subview-edit-bookmark =
+    .label = Edytuj ta zokłodka…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -700,6 +734,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Przidej aktualno karta do zookłodek
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Przidej zokłodka do tyj karty…
 
 ## Library Panel items
 
@@ -873,6 +910,11 @@ data-reporting-notification-message = { -brand-short-name } autōmatycznie posy�
 data-reporting-notification-button =
     .label = Ôbier, co udostympniać
     .accesskey = O
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Prywatne przeglōndanie
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Rozszyrzynia
+    .tooltiptext = Rozszyrzynia
