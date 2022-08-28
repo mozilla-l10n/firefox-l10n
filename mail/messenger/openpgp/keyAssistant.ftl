@@ -15,7 +15,7 @@ openpgp-key-assistant-recipients-issue-description =
         [one] Για την κρυπτογράφηση, πρέπει να λάβετε και αποδεχτείτε ένα κλειδί για ένα αποδέκτη. <a data-l10n-name="openpgp-link">Μάθετε περισσότερα…</a>
        *[other] Για την κρυπτογράφηση, πρέπει να λάβετε και αποδεχτείτε ένα κλειδί για { $count } αποδέκτες. <a data-l10n-name="openpgp-link">Μάθετε περισσότερα…</a>
     }
-openpgp-key-assistant-info-alias = Το { -brand-short-name } κανονικά απαιτεί το δημόσιο κλειδί του αποδέκτη που περιέχει ένα αναγνωριστικό χρήστη με ίδια διεύθυνση e-mail. Αυτό μπορεί να παρακαμφθεί με χρήση κανόνων ψευδώνυμων αποδεκτών του OpenPGP. <a data-l10n-name="openpgp-link">Μάθετε περισσότερα…</a>
+openpgp-key-assistant-info-alias = Το { -brand-short-name } κανονικά απαιτεί το δημόσιο κλειδί του παραλήπτη, το οποίο περιέχει ένα ID χρήστη με την ίδια διεύθυνση email. Αυτό μπορεί να παρακαμφθεί με τη χρήση κανόνων ψευδωνύμων παραληπτών του OpenPGP. <a data-l10n-name="openpgp-link">Μάθετε περισσότερα…</a>
 # Variables:
 # $count (Number) - The number of recipients that need attention.
 openpgp-key-assistant-recipients-description =
@@ -81,7 +81,7 @@ openpgp-key-assistant-keys-has-collected =
        *[other] Βρέθηκαν πολλαπλά κλειδιά, αλλά για κανένα δεν έχει γίνει αποδοχή ακόμη.
     }
 openpgp-key-assistant-key-rejected = Το κλειδί απορρίφθηκε παλιότερα.
-openpgp-key-assistant-key-accepted-other = Το κλειδί έγινε αποδεκτό παλιότερα, αλλά για διαφορετική διεύθυνση e-mail.
+openpgp-key-assistant-key-accepted-other = Το κλειδί έγινε αποδεκτό παλιότερα, αλλά για διαφορετική διεύθυνση email.
 # Variables:
 # $recipient (String) - The email address of the recipient needing resolution.
 openpgp-key-assistant-resolve-discover-info = Βρείτε πρόσθετα ή ενημερωμένα κλειδιά για τον { $recipient } στο διαδίκτυο, ή εισαγάγετέ τα από ένα αρχείο.
