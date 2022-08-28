@@ -262,6 +262,11 @@ mr2022-onboarding-secondary-skip-button-label = Saltear este paso
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Abra una increíble Internet
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
 mr2022-onboarding-welcome-pin-subtitle = Inicie { -brand-short-name } desde cualquier lugar con un solo clic. Cada vez que lo haga, estará eligiendo una web más abierta e independiente.
 # Primary button string used on welcome page for when Firefox is not pinned.
@@ -352,6 +357,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Es un innovador.</b> Ve op
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Cambie de su computadora a su teléfono y viceversa.
+mr2022-onboarding-mobile-download-subtitle = Tome las pestañas de un dispositivo y continúe donde lo dejó en otro. Además, sincroniza sus marcadores y contraseñas en cualquier lugar donde use { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Escanee el código QR para obtener { -brand-product-name } para dispositivos móviles o <a data-l10n-name="download-label">envíese un enlace de descarga.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Escanee el código QR para obtener { -brand-product-name } para dispositivos móviles.
 
@@ -370,9 +376,6 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = Siempre respetamos su privacidad
 mr2022-onboarding-privacy-segmentation-subtitle = Desde sugerencias inteligentes hasta búsquedas más inteligentes, trabajamos constantemente para crear un { -brand-product-name } mejor y más personal.
-mr2022-onboarding-privacy-segmentation-cta-text = Cuando ofrecemos nuevas funciones que usan sus datos para mejorar su navegación, ¿quiere ver?:
-mr2022-onboarding-privacy-segmentation-primary-button-label = recomendaciones de { -brand-product-name }
-mr2022-onboarding-privacy-segmentation-secondary-button-label = Información detallada
 mr2022-onboarding-privacy-segmentation-text-cta = ¿Qué quiere ver cuando ofrezcamos nuevas funciones que usen sus datos para mejorar la navegación?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Usar recomendaciones de { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostrar información detallada
