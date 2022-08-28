@@ -12,7 +12,7 @@
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Λίστα αλληλογραφίας…">
 <!ENTITY newListCmd.accesskey                           "Λ">
-<!ENTITY newAddressBookCmd.label                        "Ευρετήριο διευθύνσεων…">
+<!ENTITY newAddressBookCmd.label                        "Ευρετήριο…">
 <!ENTITY newAddressBookCmd.accesskey                    "τ">
 <!ENTITY newLDAPDirectoryCmd.label                      "Κατάλογος LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "Κ">
@@ -41,7 +41,7 @@
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
-<!ENTITY showAbToolbarCmd.label                         "Γραμμή ευρετηρίων διευθύνσεων">
+<!ENTITY showAbToolbarCmd.label                         "Γραμμή ευρετηρίων">
 <!ENTITY showAbToolbarCmd.accesskey                     "ρ">
 <!ENTITY layoutMenu.label                               "Διάταξη">
 <!ENTITY layoutMenu.accesskey                           "Δ">
@@ -86,7 +86,7 @@
 <!ENTITY searchBox.title                                "Αναζήτηση">
 
 <!-- Tooltips -->
-<!ENTITY addressbookToolbar.tooltip                     "Γραμμή ευρετηρίων διευθύνσεων">
+<!ENTITY addressbookToolbar.tooltip                     "Γραμμή ευρετηρίων">
 <!ENTITY newContactButton.tooltip                       "Δημιουργία νέας επαφής ευρετηρίου">
 <!ENTITY newlistButton.tooltip                          "Δημιουργία νέας λίστας">
 <!ENTITY editItemButton.tooltip                         "Επεξεργασία επιλεγμένου στοιχείου">
