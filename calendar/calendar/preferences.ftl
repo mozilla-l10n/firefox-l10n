@@ -189,4 +189,4 @@ category-new-label = Νέα κατηγορία
 category-edit-label = Επεξεργασία κατηγορίας
 category-overwrite-title = Προειδοποίηση: Διπλότυπο όνομα
 category-overwrite = Υπάρχει ήδη κατηγορία με αυτό το όνομα. Θέλετε να την αντικαταστήσετε;
-category-blank-warning = Πρέπει να εισαγάγετε όνομα κατηγορίας.
+category-blank-warning = Πρέπει να εισαγάγετε ένα όνομα κατηγορίας.
