@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Xem tiện tích
 quickactions-cmd-addons = tiện ích, tiện ích mở rộng, chủ đề, tien ich, tien ich mo rong, chu de
+quickactions-cmd-addons2 = tiện ích
 # Opens the bookmarks library window
 quickactions-bookmarks = Xem dấu trang
 quickactions-cmd-bookmarks = dấu trang, dau trang
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = xóa lịch sử, xoa lich su
 # Opens about:downloads page
 quickactions-downloads = Mở Tải xuống
 quickactions-cmd-downloads = tải xuống, tai xuong
+# Opens about:addons page in the extensions section
+quickactions-extensions = Quản lý tiện ích
+quickactions-cmd-extensions = tiện ích mở rộng
 # Opens the devtools web inspector
 quickactions-inspector = Mở trình kiểm tra
 quickactions-cmd-inspector = trình kiểm tra, devtools, trinh kiem tra
 # Opens about:logins
 quickactions-logins = Xem thông tin đăng nhập
 quickactions-cmd-logins = đăng nhập, thông tin đăng nhập, mật khẩu, dang nhap, thong tin dang nhap, mat khau
+# Opens about:addons page in the plugins section
+quickactions-plugins = Quản lý phần bổ trợ
+quickactions-cmd-plugins = phần bổ trợ
 # Opens the print dialog
 quickactions-print = In
 quickactions-cmd-print = in
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = chụp ảnh màn hình, chup anh man hinh
 # Opens about:preferences
 quickactions-settings = Mở Cài đặt
 quickactions-cmd-settings = cài đặt, tùy chọn, thiết lập, cai dat, tuy chon, thiet lap
+# Opens about:addons page in the themes section
+quickactions-themes = Quản lý chủ đề
+quickactions-cmd-themes = chủ đề
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Cập nhật { -brand-short-name }
 quickactions-cmd-update = cập nhật, cap nhat

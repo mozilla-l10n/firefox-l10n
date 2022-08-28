@@ -64,3 +64,6 @@ experimental-features-ime-search-description = IME (Trình chỉnh sửa phươn
 experimental-features-text-recognition =
     .label = Nhận dạng văn bản
 experimental-features-text-recognition-description = Bật tính năng nhận dạng văn bản trong hình ảnh.
+experimental-features-accessibility-cache =
+    .label = Bộ nhớ đệm hỗ trợ tiếp cận
+experimental-features-accessibility-cache-description = Lưu trữ tất cả thông tin trợ năng từ tất cả các tài liệu trong quy trình chính của { -brand-short-name }. Điều này cải thiện hiệu suất cho trình đọc màn hình và các ứng dụng khác sử dụng API hỗ trợ tiếp cận.

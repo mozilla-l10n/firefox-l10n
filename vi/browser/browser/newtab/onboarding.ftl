@@ -375,9 +375,9 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = Chúng tôi luôn tôn trọng quyền riêng tư của bạn
 mr2022-onboarding-privacy-segmentation-subtitle = Từ các đề xuất thông minh đến tìm kiếm thông minh hơn, chúng tôi không ngừng nỗ lực để tạo ra { -brand-product-name } tốt hơn, cá nhân hóa hơn.
-mr2022-onboarding-privacy-segmentation-cta-text = Khi chúng tôi cung cấp các tính năng mới sử dụng dữ liệu của bạn để nâng cao khả năng duyệt web của bạn, bạn có muốn xem:
-mr2022-onboarding-privacy-segmentation-primary-button-label = Đề xuất { -brand-product-name }
-mr2022-onboarding-privacy-segmentation-secondary-button-label = Thông tin chi tiết
+mr2022-onboarding-privacy-segmentation-text-cta = Bạn muốn thấy gì khi chúng tôi cung cấp các tính năng mới sử dụng dữ liệu của bạn để nâng cao khả năng duyệt web của bạn?
+mr2022-onboarding-privacy-segmentation-button-primary-label = Sử dụng các đề xuất của { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Hiển thị thông tin chi tiết
 
 ## MR2022 Multistage Gratitude screen strings
 
