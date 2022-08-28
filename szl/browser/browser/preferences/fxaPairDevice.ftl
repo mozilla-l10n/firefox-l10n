@@ -14,5 +14,6 @@ fxa-pair-device-dialog-sync =
 fxa-qrcode-pair-title = Synchrōnizuj aplikacyjo { -brand-product-name } na swojim telefōnie abo tablecie
 fxa-qrcode-pair-step1 = 1. Ôderzij aplikacyjo { -brand-product-name } na swojij mobilnyj maszinie.
 fxa-qrcode-pair-step2 = 2. Ôdewrzij <strong>myni</strong> (<img data-l10n-name="ios-menu-icon"/> na iOS abo <img data-l10n-name="android-menu-icon"/> na Androidzie) i tyknij <strong>Zaloguj sie do synchrōnizacyje</strong>
+fxa-qrcode-pair-step3 = 3. Tyknij <strong>Fertich, coby skanować</strong> i przitrzimej telefōn nad tym kodym
 fxa-qrcode-error-title = Porowanie sie niy podarziło.
 fxa-qrcode-error-body = Sprōbuj jeszcze roz.
