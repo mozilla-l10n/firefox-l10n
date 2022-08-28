@@ -38,6 +38,7 @@ firefoxview-tabpickup-network-offline-header = 请检查您的互联网连接
 firefoxview-tabpickup-network-offline-description = 若您正在使用防火墙或代理，请检查 { -brand-short-name } 是否有联网权限。
 firefoxview-tabpickup-network-offline-primarybutton = 重试
 firefoxview-tabpickup-sync-error-header = 同步时遇到问题
+firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } 目前无法连接到同步服务，请稍后再试。
 firefoxview-tabpickup-sync-error-primarybutton = 重试
 firefoxview-tabpickup-sync-disconnected-header = 启用同步服务以继续
 firefoxview-tabpickup-sync-disconnected-description = 若要接收您的标签页，需先启用 { -brand-short-name } 的同步服务。
