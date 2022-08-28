@@ -13,7 +13,7 @@ import-start-description = Επιλογή της πηγής από την οπο
 import-from-app = Εισαγωγή από εφαρμογή
 import-file = Εισαγωγή από αρχείο
 import-file-title = Επιλέξτε ένα αρχείο για να εισαγάγετε το περιεχόμενό του.
-import-file-description = Επιλέξτε για εισαγωγή ένα προφίλ, βιβλία διευθύνσεων ή ημερολόγια που έχετε ήδη πάρει παλιότερα αντίγραφο ασφαλείας.
+import-file-description = Επιλέξτε για εισαγωγή αντιγράφου ασφαλείας προφίλ, ευρετηρίων ή ημερολογίων.
 import-address-book-title = Εισαγωγή αρχείου ευρετηρίου
 import-calendar-title = Εισαγωγή αρχείου ημερολογίου
 export-profile = Εξαγωγή
@@ -37,13 +37,13 @@ source-thunderbird-description = Εισαγωγή ρυθμίσεων, φίλτρ
 source-seamonkey = Εισαγωγή από εγκατάσταση του { app-name-seamonkey }
 source-seamonkey-description = Εισαγωγή ρυθμίσεων, φίλτρων, μηνυμάτων και άλλων δεδομένων από ένα προφίλ { app-name-seamonkey }.
 source-outlook = Εισαγωγή από { app-name-outlook }
-source-outlook-description = Εισαγωγή λογαριασμών, βιβλίων διευθύνσεων και μηνυμάτων από { app-name-outlook }.
+source-outlook-description = Εισαγωγή λογαριασμών, ευρετηρίων και μηνυμάτων από το { app-name-outlook }.
 source-becky = Εισαγωγή από { app-name-becky }
-source-becky-description = Εισαγωγή βιβλίων διευθύνσεων και μηνυμάτων από { app-name-becky }.
+source-becky-description = Εισαγωγή ευρετηρίων και μηνυμάτων από το { app-name-becky }.
 source-apple-mail = Εισαγωγή από { app-name-apple-mail }
 source-apple-mail-description = Εισαγωγή μηνυμάτων από { app-name-apple-mail }.
 source-file2 = Εισαγωγή από αρχείο
-source-file-description = Επιλέξτε ένα αρχείο για εισαγωγή βιβλίων διευθύνσεων, ημερολογίων ή αντιγράφου ασφαλείας προφίλ (αρχείο ZIP).
+source-file-description = Επιλέξτε ένα αρχείο για εισαγωγή ευρετηρίων, ημερολογίων ή αντιγράφου ασφαλείας προφίλ (αρχείο ZIP).
 
 ## Import from file selections
 
@@ -52,7 +52,7 @@ file-profile-description = Επιλέξτε ένα προφίλ Thunderbird απ
 file-calendar = Εισαγωγή ημερολογίων
 file-calendar-description = Επιλέξτε ένα αρχείο που περιέχει Ημερολόγια ή Συμβάντα που έχουν εξαχθεί (.ics)
 file-addressbook = Εισαγωγή ευρετηρίων διευθύνσεων
-file-addressbook-description = Επιλέξτε ένα αρχείο που περιέχει Βιβλία Διευθύνσεων και Επαφές
+file-addressbook-description = Επιλέξτε ένα αρχείο που περιέχει ευρετήρια και επαφές
 
 ## Import from app profile steps
 
@@ -84,7 +84,7 @@ items-pane-override = Τυχόν υπάρχοντα ή πανομοιότυπα 
 
 ## Import from address book file steps
 
-import-from-addr-book-file-description = Επιλέξτε τη μορφή αρχείου που περιέχει τα δεδομένα των Βιβλίων Διευθύνσεων.
+import-from-addr-book-file-description = Επιλέξτε τη μορφή του αρχείου που περιέχει τα δεδομένα ευρετηρίων σας.
 addr-book-csv-file = Αρχείο διαχωρισμένο με κόμμα ή καρτέλα (.csv, .tsv)
 addr-book-ldif-file = Αρχείο LDIF (.ldif)
 addr-book-vcard-file = Αρχείο vCard (.vcf, .vcard)
@@ -149,7 +149,7 @@ csv-target-field = Πεδίο ευρετηρίου διευθύνσεων
 
 ## Export tab
 
-export-profile-title = Εξαγωγή λογαριασμών, μηνυμάτων, βιβλίων διευθύνσεων και ρυθμίσεων σε αρχείο ZIP.
+export-profile-title = Εξαγωγή λογαριασμών, μηνυμάτων, ευρετηρίων και ρυθμίσεων σε αρχείο ZIP.
 export-profile-description = Αν το τρέχον προφίλ σας είναι μεγαλύτερο από 2GB, προτείνεται η λήψη αντιγράφου ασφαλείας από εσάς.
 export-open-profile-folder = Άνοιγμα φακέλου προφίλ
 export-file-picker2 = Εξαγωγή σε αρχείο ZIP
