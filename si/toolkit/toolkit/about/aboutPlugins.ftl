@@ -33,4 +33,4 @@ description-label = විස්තරය
 ## Gecko Media Plugins (GMPs)
 
 plugins-gmp-license-info = බලපත්‍ර තොරතුරු
-plugins-gmp-privacy-info = පෞද්ගලිකත්ව තොරතුරු
+plugins-gmp-privacy-info = පෞද්ගලිකත්‍ව තොරතුරු
