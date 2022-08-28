@@ -25,7 +25,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.accesskey  "Φ">
 
 <!ENTITY importTitle.label        "Βοηθός εισαγωγής του &brandShortName;">
-<!ENTITY importShortDesc.label    "Εισαγωγή αλληλογραφίας, ευρετήριου διευθύνσεων και φίλτρων από άλλα προγράμματα">
+<!ENTITY importShortDesc.label    "Εισαγωγή αλληλογραφίας, ευρετηρίων και φίλτρων από άλλα προγράμματα">
 
 <!ENTITY importDescription1.label "Αυτός ο βοηθός θα εισαγάγει τα μηνύματα email, τις καταχωρήσεις ευρετηρίων, τις συνδρομές ροών, τις προτιμήσεις και/ή τα φίλτρα από άλλα προγράμματα email και κοινές μορφές ευρετηρίων στο &brandShortName;.">
 <!ENTITY importDescription2.label "Όταν ολοκληρωθεί η εισαγωγή, θα είναι δυνατή η πρόσβαση μέσω του &brandShortName;.">
