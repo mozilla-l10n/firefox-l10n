@@ -216,7 +216,7 @@
 <!ENTITY followupAddr2.label "Σε συνέχεια του">
 <!ENTITY subject2.label "Θέμα">
 <!ENTITY subject.accesskey "Θ">
-<!ENTITY attachmentBucketCloseButton.tooltip "Απόκρυψη του πίνακα συνημμένων">
+<!ENTITY attachmentBucketCloseButton.tooltip "Απόκρυψη πίνακα συνημμένων">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Εισαγωγή emoji">
