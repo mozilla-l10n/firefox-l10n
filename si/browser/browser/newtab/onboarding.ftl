@@ -84,7 +84,7 @@ mr1-onboarding-sign-in-button-label = පිවිසෙන්න
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = { -brand-short-name } පෙරනිමි ලෙස සකසන්න
-mr1-onboarding-default-subtitle = වේගය, ආරක්‍ෂාව හා පෞද්ගලිකත්වය ස්වයංක්‍රීයව.
+mr1-onboarding-default-subtitle = වේගය, ආරක්‍ෂාව හා පෞද්ගලිකත්‍වය ස්වයංක්‍රීයව.
 mr1-onboarding-default-primary-button-label = පෙරනිමි අතිරික්සුව කරන්න
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
