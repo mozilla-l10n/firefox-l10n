@@ -23,7 +23,7 @@ openpgp-import-sender-key =
     .label = Εισαγωγή…
 openpgp-search-keys-openpgp =
     .label = Ανακάλυψη κλειδιού OpenPGP
-openpgp-missing-signature-key = Το μήνυμα έχει υπογραφεί με ένα κλειδί που δεν έχετε ακόμη στη διάθεσή σας.
+openpgp-missing-signature-key = Αυτό το μήνυμα έχει υπογραφεί με ένα κλειδί που δεν έχετε ακόμα στη διάθεσή σας.
 openpgp-search-signature-key =
     .label = Ανακάλυψη…
 # Don't translate the terms "OpenPGP" and "MS-Exchange"
@@ -47,4 +47,4 @@ openpgp-partially-encrypted =
 openpgp-reminder-partial-display = Υπενθύμιση: Το μήνυμα που εμφανίζεται παρακάτω είναι μόνο ένα υποσύνολο του αρχικού μηνύματος.
 openpgp-partial-verify-button = Επαλήθευση
 openpgp-partial-decrypt-button = Αποκρυπτογράφηση
-openpgp-unexpected-key-for-you = Προειδοποίηση: Το μήνυμα περιέχει ένα άγνωστο OpenPGP κλειδί που αναφέρεται σε μία από τις δικές σας διευθύνσεις e-mail. Αν το κλειδί δεν είναι ένα από τα δικά σας, ενδέχεται να είναι προσπάθεια εξαπάτησης των άλλων επιστολογράφων.
+openpgp-unexpected-key-for-you = Προειδοποίηση: Αυτό το μήνυμα περιέχει ένα άγνωστο κλειδί OpenPGP που αναφέρεται σε μία από τις δικές σας διευθύνσεις email. Αν το κλειδί δεν είναι ένα από τα δικά σας, ενδέχεται να είναι προσπάθεια εξαπάτησης των άλλων συνομιλητών.
