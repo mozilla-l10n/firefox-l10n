@@ -285,9 +285,18 @@ mr2022-onboarding-secondary-skip-button-label = Passar aquesta etapa
 mr2022-onboarding-colorway-label-default = Per defaut
 mr2022-onboarding-colorway-tooltip-default =
     .title = Per defaut
+mr2022-onboarding-colorway-label-visionary = Endevenissètz
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Endevenissètz
 mr2022-onboarding-colorway-label-activist = Militatz
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Militatz
+mr2022-onboarding-colorway-label-dreamer = Somiatz
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Somiatz
+mr2022-onboarding-colorway-label-innovator = Innovatz
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Innovatz
 
 ## MR2022 Multistage Mobile Download screen strings
 
