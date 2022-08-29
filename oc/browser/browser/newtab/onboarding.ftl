@@ -39,6 +39,8 @@ onboarding-welcome-steps-indicator =
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+onboarding-welcome-steps-indicator2 =
+    .aria-valuetext = Progression : etapa { $current } de { $total }
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -222,6 +224,7 @@ mr2-onboarding-start-browsing-button-label = Començar de navegar
 
 onboarding-live-language-header = Causissètz vòstra lenga
 mr2022-onboarding-live-language-text = { -brand-short-name } parla vòstra lenga
+mr2022-language-mismatch-subtitle = Gràcia a nòstra comunitat, { -brand-short-name } es traduch dins mai de 90 lengas. Sembla que vòstre sistèma utiliza lo reglatge { $systemLanguage }, e { -brand-short-name } emplega utiliza coma paramètre { $appLanguage }.
 onboarding-live-language-button-label-downloading = Telecargament del paquet lingüistic en { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Obtencion de las lengas disponiblas…
 onboarding-live-language-installing = Installacion del paquet lingüistic en { $negotiatedLanguage }…
