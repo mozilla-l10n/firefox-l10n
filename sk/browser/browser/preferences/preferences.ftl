@@ -938,8 +938,8 @@ addressbar-locbar-engines-option =
     .label = vyhľadávacie moduly
     .accesskey = v
 addressbar-locbar-quickactions-option =
-    .label = Rýchle akcie
-    .accesskey = R
+    .label = rýchle akcie
+    .accesskey = r
 addressbar-suggestions-settings = Zmeniť nastavenia pre návrhy vyhľadávania
 addressbar-quickactions-learn-more = Ďalšie informácie
 
