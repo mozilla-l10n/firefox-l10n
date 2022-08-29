@@ -365,6 +365,8 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = 我們始終尊重您的隱私權
 mr2022-onboarding-privacy-segmentation-subtitle = 不論是搜尋建議或是更聰明的搜尋功能，我們會持續打造更好、更有個人風格的 { -brand-product-name }。
+mr2022-onboarding-privacy-segmentation-text-cta = 當我們推出會使用您的資料來加強上網體驗的新功能時，您想收到什麼消息？
+mr2022-onboarding-privacy-segmentation-button-primary-label = 使用 { -brand-product-name } 推薦設定
 mr2022-onboarding-privacy-segmentation-button-secondary-label = 顯示詳細資訊
 
 ## MR2022 Multistage Gratitude screen strings
