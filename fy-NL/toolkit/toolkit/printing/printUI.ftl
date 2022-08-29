@@ -13,7 +13,7 @@ printui-sheets-count =
        *[other] { $sheetCount } siden
     }
 printui-page-range-all = Alle
-printui-page-range-current = Aktuele
+printui-page-range-current = Aktueel
 printui-page-range-odd = Uneven
 printui-page-range-even = Even
 printui-page-range-custom = Oanpast

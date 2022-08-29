@@ -32,12 +32,12 @@ toolbox-meatball-menu-pseudo-locale-bidi = Locale ‘bidi’ ynskeakelje
 
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
-toolbox-mode-browser-toolbox-label = Browserwurkset-modus
-toolbox-mode-browser-console-label = Browserkonsole-modus
+toolbox-mode-browser-toolbox-label = Browserwurksetmodus
+toolbox-mode-browser-console-label = Browserkonsolemodus
 toolbox-mode-everything-label = Multiproses
 toolbox-mode-everything-sub-label = (Stadiger)
 toolbox-mode-everything-container =
-    .title = Debug alles yn alle prosessen
+    .title = Alles yn alle prosessen debugge
 toolbox-mode-parent-process-label = Allinnich boppelizzend proses
 toolbox-mode-parent-process-sub-label = (Fluch)
 toolbox-mode-parent-process-container =
