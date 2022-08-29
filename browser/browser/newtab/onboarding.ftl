@@ -258,6 +258,7 @@ fx100-upgrade-thanks-header = 100 mercés
 fx100-upgrade-thank-you-body = Es nòstra 100èna version de { -brand-short-name }. Mercés <em>you</em> de nos ajudar a construire un Internet melhor e mai sanitós.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Es la version 100 ! Mercés de far part de la nòstra comunitat. Gardatz { -brand-short-name } a portada de clic per las 100 venentas.
+mr2022-onboarding-secondary-skip-button-label = Passar aquesta etapa
 
 ## MR2022 New User Pin Firefox screen strings
 
@@ -281,6 +282,12 @@ fx100-upgrade-thanks-keep-body = Es la version 100 ! Mercés de far part de la
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-label-default = Per defaut
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Per defaut
+mr2022-onboarding-colorway-label-activist = Militatz
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Militatz
 
 ## MR2022 Multistage Mobile Download screen strings
 
