@@ -58,3 +58,4 @@ about-private-browsing-pin-promo-link-text =
         [macos] Behold i Dock
        *[other] Fastgør til proceslinjen
     }
+about-private-browsing-pin-promo-title = Ingen gemte cookies eller historik, direkte fra dit skrivebord. Brug nettet uden tilskuere.

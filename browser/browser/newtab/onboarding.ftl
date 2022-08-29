@@ -267,6 +267,8 @@ mr2022-onboarding-secondary-skip-button-label = Spring dette trin over
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Åbn op for et fantastisk internet
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Start { -brand-short-name } hvor som helst med et enkelt klik. Hver gang du gør det, vælger du et mere åbent og uafhængigt internet.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -355,13 +357,24 @@ mr2022-onboarding-colorway-description-innovator = <b>Du er en nyskaber.</b> Du 
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Hop fra din computer til din telefon og tilbage igen.
+mr2022-onboarding-mobile-download-subtitle = Hent faneblade fra én enhed og fortsæt hvor du slap på en anden enhed. Synkroniser desuden dine bogmærker og adgangskoder overalt, hvor du bruger { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Skan QR-koden for at hente { -brand-product-name } til din mobil, eller <a data-l10n-name="download-label">send et link til dig selv, så du kan hente filen.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Skan QR-koden for at hente { -brand-product-name } til din mobil.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Ingen gemte cookies eller historik, direkte fra dit skrivebord. Brug nettet uden tilskuere.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Behold { -brand-short-name } privat browsing i Dock
+       *[other] Fastgør { -brand-short-name } privat browsing til proceslinjen
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Vi respekterer altid din ret til et privatliv
+mr2022-onboarding-privacy-segmentation-subtitle = Fra intelligente forslag til smartere søgning. Vi arbejder altid på at gøre { -brand-product-name } bedre og mere personlig.
 
 ## MR2022 Multistage Gratitude screen strings
 

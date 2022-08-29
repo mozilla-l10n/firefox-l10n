@@ -14,6 +14,8 @@ firefoxview-close-button =
     .aria-label = Luk
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Nu
+# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
+firefoxview-tabpickup-header = Synkroniserede faneblade
 firefoxview-tabpickup-description = Åbn sider fra andre enheder.
 firefoxview-tabpickup-recenttabs-description = Listen over seneste faneblade vil blive vist her
 # Variables:
@@ -36,12 +38,17 @@ firefoxview-tabpickup-network-offline-header = Kontroller din internetforbindels
 firefoxview-tabpickup-network-offline-description = Hvis du bruger en firewall eller en proxy, kontroller om { -brand-short-name } har adgang til internettet.
 firefoxview-tabpickup-network-offline-primarybutton = Prøv igen
 firefoxview-tabpickup-sync-error-header = Vi har problemer med at synkronisere
+firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } kan ikke oprette forbindelse til synkroniserings-tjenesten lige nu. Prøv igen senere.
 firefoxview-tabpickup-sync-error-primarybutton = Prøv igen
+firefoxview-tabpickup-sync-disconnected-header = Slå synkronisering til for at fortsætte
+firefoxview-tabpickup-sync-disconnected-description = For at synkronisere dine faneblade skal du tillade synkronisering i { -brand-short-name }.
+firefoxview-tabpickup-sync-disconnected-primarybutton = Slå synkronisering til i indstillingerne
 firefoxview-tabpickup-syncing = Vent, mens vi synkroniserer dine faneblade. Det tager kun et øjeblik.
 firefoxview-mobile-promo-header = Hent faneblade fra din telefon eller tablet
 firefoxview-mobile-promo-description = For at se de seneste faneblade fra din mobil skal du logge ind på { -brand-product-name } til iOS eller Android.
 firefoxview-mobile-promo-primarybutton = Hent { -brand-product-name } til mobilen
 firefoxview-mobile-confirmation-header = 🎉 Alt er klart!
+firefoxview-mobile-confirmation-description = Nu kan du hente faneblade i { -brand-product-name } fra din telefon eller din tablet.
 firefoxview-closed-tabs-title = Senest lukkede
 firefoxview-closed-tabs-description = Genåbn sider, du har lukket på denne enhed.
 firefoxview-closed-tabs-placeholder = <strong>Ingen seneste lukkede faneblade</strong><br/>Du behøver ikke at være bange for at miste lukkede faneblade igen - du kan altid finde dem her.
