@@ -14,6 +14,8 @@ firefoxview-close-button =
     .aria-label = Sluiten
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Zojuist
+# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
+firefoxview-tabpickup-header = Tabbladen ophalen
 firefoxview-tabpickup-description = Open pagina’s van andere apparaten.
 firefoxview-tabpickup-recenttabs-description = Hier komt de lijst met recente tabbladen
 # Variables:
