@@ -286,12 +286,18 @@ quickactions-cmd-clearhistory = 清除瀏覽紀錄, clear history
 # Opens about:downloads page
 quickactions-downloads = 開啟下載項目
 quickactions-cmd-downloads = 下載項目, 下載, downloads
+# Opens about:addons page in the extensions section
+quickactions-extensions = 管理擴充套件
+quickactions-cmd-extensions = 擴充套件
 # Opens the devtools web inspector
 quickactions-inspector = 開啟檢測器
 quickactions-cmd-inspector = 檢測器, 開發工具, inspector, devtools
 # Opens about:logins
 quickactions-logins = 檢視登入資訊
 quickactions-cmd-logins = 登入資訊, 密碼, 帳號, logins, passwords
+# Opens about:addons page in the plugins section
+quickactions-plugins = 管理外掛程式
+quickactions-cmd-plugins = 外掛程式
 # Opens the print dialog
 quickactions-print = 列印
 quickactions-cmd-print = 列印, print
@@ -310,6 +316,9 @@ quickactions-cmd-screenshot = 畫面擷圖, 擷圖, screenshot
 # Opens about:preferences
 quickactions-settings = 開啟設定
 quickactions-cmd-settings = 設定, 偏好設定, 選項, settings, preferences, options
+# Opens about:addons page in the themes section
+quickactions-themes = 管理佈景主題
+quickactions-cmd-themes = 佈景主題
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = 更新 { -brand-short-name }
 quickactions-cmd-update = 更新, update
