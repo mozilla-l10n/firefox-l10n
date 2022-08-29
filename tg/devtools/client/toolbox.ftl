@@ -12,10 +12,14 @@
 ## the label.
 
 toolbox-meatball-menu-splitconsole-label = Намоиш додани консоли тақсимшуда
-
 toolbox-meatball-menu-settings-label = Танзимот
 toolbox-meatball-menu-documentation-label = Ҳуҷҷатҳо…
 toolbox-meatball-menu-community-label = Ҷомеа…
 
 ##
 
+
+## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
+
+toolbox-mode-everything-sub-label = (Оҳистатар)
+toolbox-mode-parent-process-sub-label = (Зуд)

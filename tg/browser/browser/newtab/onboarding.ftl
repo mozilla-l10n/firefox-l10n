@@ -336,6 +336,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Шумо навовар ҳ
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Аз ноутбук ба телефон гузаред ва боз баргардед
 mr2022-onboarding-no-mobile-download-cta-text = Барои гирифтани гунаи мобилии «{ -brand-product-name }», рамзи «QR»-ро сканер кунед.
 
 ## MR2022 Upgrade Dialog screens
