@@ -25,6 +25,17 @@ accessibility-best-practices =
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
+accessibility-text-label-issue-dialog = Равзанаҳои гуфтугӯ бояд номгузорӣ карда шаванд. <a>Маълумоти бештар</a>
+accessibility-text-label-issue-document-title = Ҳуҷҷатҳо бояд дорои сифати <code>title</code> бошанд. <a>Маълумоти бештар</a>
+accessibility-text-label-issue-embed = Муҳтавои дарунсохт бояд номгузорӣ карда шавад. <a>Маълумоти бештар</a>
+accessibility-text-label-issue-figure = Унсурҳо бо зернависҳои ихтиёрӣ бояд номгузорӣ карда шаванд. <a>Маълумоти бештар</a>
+accessibility-text-label-issue-fieldset = Унсурҳои бо сифати <code>fieldset</code> бояд номгузорӣ карда шаванд. <a>Маълумоти бештар</a>
+accessibility-text-label-issue-form = Унсурҳои шакл бояд номгузорӣ карда шаванд. <a>Маълумоти бештар</a>
+accessibility-text-label-issue-form-visible = Унсурҳои шакл бояд дорои тамғаҳои матнии намоён бошанд. <a>Маълумоти бештар</a>
+accessibility-text-label-issue-frame = Унсурҳои бо сифати <code>frame</code> бояд номгузорӣ карда шаванд. <a>Маълумоти бештар</a>
+accessibility-text-label-issue-heading = Унвонҳо бояд номгузорӣ карда шаванд. <a>Маълумоти бештар</a>
+accessibility-text-label-issue-heading-content = Унвонҳо бояд дорои тамғаҳои матнии намоён бошанд. <a>Маълумоти бештар</a>
+accessibility-text-label-issue-image = Муҳтаво бо аксҳо бояд номгузорӣ карда шавад. <a>Маълумоти бештар</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
