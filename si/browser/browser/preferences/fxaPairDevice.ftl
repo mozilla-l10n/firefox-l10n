@@ -11,6 +11,6 @@ fxa-qrcode-heading-step4 = 4. මෙම කේතය සුපිරික්ස
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
 fxa-qrcode-pair-step1 = 1. ජංගම උපාංගයේ { -brand-product-name } විවෘත කරන්න.
-fxa-qrcode-pair-step3 = 3. <strong>සුපිරික්සීමට සූදානම්</strong> මත තට්ටු කර දුරකථනය මෙම කේතයට උඩින් අල්ලන්න
+fxa-qrcode-pair-step3 = 3. <strong>පරිලෝකනයට සූදානම්</strong> මත තට්ටු කර දුරකථනය මෙම කේතයට උඩින් අල්ලන්න
 fxa-qrcode-error-title = යුගල කිරීම අසාර්ථකයි.
 fxa-qrcode-error-body = යළි උත්සාහය
