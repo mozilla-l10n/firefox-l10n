@@ -60,7 +60,7 @@ detail-private-disallowed-description2 = පෞද්. පිරික්සු�
 detail-private-required-label = පෞද්. කවුළු වෙත ප්‍රවේශය අවශ්‍ය වේ
 detail-private-required-description2 = මෙම දිගුවට පෞද්. පිරික්සුම් අතරතුර ඔබගේ ක්‍රියාකාරකම් වෙත ප්‍රවේශය ඇත. <a data-l10n-name="learn-more">තව දැනගන්න</a>
 detail-private-browsing-on =
-    .label = ඉඩදෙන්න
+    .label = ඉඩ දෙන්න
     .tooltiptext = පුද්ගලික ගවේශණ තුළ සක්‍රීයයි
 detail-private-browsing-off =
     .label = ඉඩ නොදෙන්න
@@ -290,7 +290,7 @@ install-update-button = යාවත්කාල
 addon-badge-private-browsing-allowed2 =
     .title = පෞද්. කවුළුවල ඉඩ දී ඇත
     .aria-label = { addon-badge-private-browsing-allowed2.title }
-addon-detail-private-browsing-allow = ඉඩදෙන්න
+addon-detail-private-browsing-allow = ඉඩ දෙන්න
 addon-detail-private-browsing-disallow = ඉඩ නොදෙන්න
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
