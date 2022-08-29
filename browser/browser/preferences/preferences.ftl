@@ -1103,6 +1103,10 @@ addon-recommendations-link = Dalše informacije
 collection-health-report-disabled = Datowe rozprawjenje je znjemóžnjene za tutu programowu konfiguraciju
 collection-backlogged-crash-reports-with-link = { -brand-short-name } dowolić, zo bychu so njepósłane spadowe rozprawy we wašim mjenje pósłali <a data-l10n-name="crash-reports-link">Dalše informacije</a>
     .accesskey = d
+privacy-segmentation-radio-off =
+    .label = Doporučenja { -brand-product-name } wužiwać
+privacy-segmentation-radio-on =
+    .label = Nadrobne informacije pokazać
 
 ## Privacy Section - Security
 ##
