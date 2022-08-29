@@ -9,4 +9,8 @@ callout-primary-complete-button-label = Фаҳмидам!
 
 ## Firefox View feature tour strings
 
+# "Tab pickup" refers to the section in Firefox View that displays open
+# tabs from other devices
+callout-firefox-view-tab-pickup-title = Бо интихоби варақаҳо аз як дастгоҳ ба дастгоҳи дигар гузаред
+callout-firefox-view-recently-closed-title = Дар як лаҳза варақаҳои пӯшидаро бозгардонед
 callout-firefox-view-colorways-title = Чакраҳои рангро илова намоед
