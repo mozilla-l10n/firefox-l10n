@@ -13,7 +13,7 @@ protection-report-page-summary-default = ඔබ පිරික්සන අත�
 protection-report-settings-link = පෞද්ගලිකත්‍ව හා ආරක්‍ෂණ සැකසුම් කළමනාකරණය
 etp-card-title-always = දියුණුකළ ලුහුබැඳීමේ රැකවරණය: සැමවිට සක්‍රියයි
 etp-card-title-custom-not-blocking = දියුණුකළ ලුහුබැඳීමේ රැකවරණය: අක්‍රියයි
-etp-card-content-description = { -brand-short-name } විසින් අන්තර්ජාලය පුරා ඔබව රහසිගතව ලුහුබඳින සමාගම් ස්වයංක්‍රීයව නවත්වයි.
+etp-card-content-description = { -brand-short-name } මගින් අන්තර්ජාලය පුරා ඔබව රහසිගතව ලුහුබඳින සමාගම් ස්වයංක්‍රීයව නවත්වයි.
 protection-report-manage-protections = සැකසුම් කළමනාකරණය
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
