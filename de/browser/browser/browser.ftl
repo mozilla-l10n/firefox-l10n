@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Add-ons anzeigen
 quickactions-cmd-addons = Add-ons, Erweiterungen, Themes
+quickactions-cmd-addons2 = Add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks = Lesezeichen anzeigen
 quickactions-cmd-bookmarks = Lesezeichen
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = Chronik löschen
 # Opens about:downloads page
 quickactions-downloads = Downloads öffnen
 quickactions-cmd-downloads = Downloads
+# Opens about:addons page in the extensions section
+quickactions-extensions = Erweiterungen verwalten
+quickactions-cmd-extensions = Erweiterungen
 # Opens the devtools web inspector
 quickactions-inspector = Inspektor öffnen
 quickactions-cmd-inspector = Inspektor, Entwicklertools
 # Opens about:logins
 quickactions-logins = Zugangsdaten anzeigen
 quickactions-cmd-logins = Zugangsdaten, Logins, Anmeldungen, Passwörter
+# Opens about:addons page in the plugins section
+quickactions-plugins = Plugins verwalten
+quickactions-cmd-plugins = Plugins
 # Opens the print dialog
 quickactions-print = Drucken
 quickactions-cmd-print = Drucken
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = Bildschirmfoto
 # Opens about:preferences
 quickactions-settings = Einstellungen öffnen
 quickactions-cmd-settings = Einstellungen, Präferenzen, Optionen
+# Opens about:addons page in the themes section
+quickactions-themes = Themes verwalten
+quickactions-cmd-themes = Themes
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } aktualisieren
 quickactions-cmd-update = Aktualisieren
