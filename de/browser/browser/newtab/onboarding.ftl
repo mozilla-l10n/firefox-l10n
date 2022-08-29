@@ -225,6 +225,7 @@ mr2-onboarding-start-browsing-button-label = Lossurfen
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Wähle deine Sprache
+mr2022-onboarding-live-language-text = { -brand-short-name } spricht deine Sprache
 onboarding-live-language-button-label-downloading = Das Sprachpaket für { $negotiatedLanguage } wird heruntergeladen…
 onboarding-live-language-waiting-button = Verfügbare Sprachen werden abgerufen…
 onboarding-live-language-installing = Das Sprachpaket für { $negotiatedLanguage } wird installiert…
@@ -258,7 +259,38 @@ fx100-upgrade-thank-you-body = Dies ist unsere 100. Version von { -brand-short-n
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Dies ist unsere 100. Version! Danke, dass du Teil unserer Gemeinschaft bist. Halte { -brand-short-name } nur einen Klick entfernt für die nächsten 100.
 
+## MR2022 New User Pin Firefox screen strings
+
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+
+## MR2022 New User Set Default screen strings
+
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+
+## MR2022 Import Settings screen strings
+
+
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+
+## MR2022 Multistage Mobile Download screen strings
+
+
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-onboarding-skip-step-button-label = Diesen Schritt überspringen
+
+## MR2022 Privacy Segmentation screen strings
+
+
+## MR2022 Multistage Gratitude screen strings
+
