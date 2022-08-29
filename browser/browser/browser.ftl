@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = 檢視附加元件
 quickactions-cmd-addons = 附加元件, 擴充套件, 佈景主題, add-ons, extensions, themes
+quickactions-cmd-addons2 = 附加元件
 # Opens the bookmarks library window
 quickactions-bookmarks = 檢視書籤
 quickactions-cmd-bookmarks = 書籤, bookmarks
