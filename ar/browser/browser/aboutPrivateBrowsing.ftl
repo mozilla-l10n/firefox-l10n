@@ -34,6 +34,7 @@ about-private-browsing-focus-promo-text = يمسح تطبيق الهاتف لل�
 
 about-private-browsing-focus-promo-header-b = جرّب التصفح الخاص من هاتفك
 about-private-browsing-focus-promo-text-b = استعمل { -focus-brand-name } كي تبحث عما تريد بخصوصية ولا تريد لمتصفّح الهاتف الرئيس أن يرى ما تفعل.
+about-private-browsing-focus-promo-text-c = يمسح { -focus-brand-name } تأريخ التصفّح في كل مرة، وفي نفس الوقت يمنع الإعلانات والمتعقّبات.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -46,6 +47,8 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = أغلِق
+about-private-browsing-promo-close-button =
+    .title = أغلِق
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
