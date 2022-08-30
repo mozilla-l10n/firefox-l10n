@@ -126,7 +126,7 @@ newtab-menu-bookmark = ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟ.
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
-newtab-menu-copy-download-link = ᱰᱟᱩᱱᱞᱚᱰ ᱞᱤᱸᱠ ᱱᱚᱠᱚᱞ ᱢᱮ
+newtab-menu-copy-download-link = ᱰᱟᱩᱱᱞᱚᱰ ᱞᱤᱝᱠ ᱱᱚᱠᱚᱞ ᱢᱮ
 newtab-menu-go-to-download-page = ᱰᱟᱩᱱᱞᱚᱰ ᱥᱟᱦᱴᱟ ᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ
 newtab-menu-remove-download = ᱱᱟᱜᱟᱢ ᱠᱷᱚᱱ ᱚᱪᱚᱜᱽ ᱢᱮ
 
