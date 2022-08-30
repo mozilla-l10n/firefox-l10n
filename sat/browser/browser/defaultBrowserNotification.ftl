@@ -18,6 +18,6 @@ default-browser-prompt-message-pin-mac = { -brand-short-name } ᱫᱚ ᱟᱢᱟ�
 default-browser-prompt-button-primary-pin = ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱛᱮᱭᱟᱨ ᱡᱮ
 default-browser-prompt-title-alt = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱛᱮᱭᱟᱨ ᱟᱢ ᱥᱮ ?
 default-browser-prompt-message-alt = ᱡᱟᱦᱟᱸ ᱛᱤ ᱨᱮ ᱟᱢ ᱵᱽᱨᱟᱩᱡᱽ ᱡᱷᱚᱜ ᱨᱚᱯᱷᱛᱟᱨ, ᱨᱩᱠᱷᱤᱭᱟᱹ , ᱟᱨ ᱩᱠᱩ ᱧᱟᱢ ᱢᱮ ᱾
-default-browser-prompt-button-primary-alt = ᱢᱩᱞ ᱵᱨᱟᱩᱡᱚᱨ ᱞᱮᱠᱟ ᱥᱟᱡᱟᱣ ᱢᱮ
+default-browser-prompt-button-primary-alt = ᱢᱩᱞ ᱵᱽᱨᱟᱣᱩᱡᱚᱨ ᱞᱮᱠᱟ ᱥᱟᱡᱟᱣ ᱢᱮ
 default-browser-prompt-checkbox-not-again-label = ᱱᱚᱶᱟ ᱠᱷᱚᱵᱚᱨ ᱟᱨ ᱫᱩᱦᱲᱟᱹ ᱟᱞᱚᱢ ᱫᱮᱠᱷᱟᱣᱟᱢ
 default-browser-prompt-button-secondary = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
