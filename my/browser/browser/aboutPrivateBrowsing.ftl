@@ -6,6 +6,7 @@ privatebrowsingpage-open-private-window-label = သီးသန့်ဝင်�
     .accesskey = P
 about-private-browsing-search-placeholder = ဝဘ်တွင် ရှာဖွေပါ
 about-private-browsing-info-title = သင်ဟာ ကိုယ်ပိုင်ဝင်းဒိုးရှာဖွေမှုထဲတွင်ရှိပါသည်။
+about-private-browsing-handoff-text-no-engine = ရှာဖွေပါ (သို့) လိပ်စာရိုက်ပါ
 about-private-browsing-not-private = သင်သည် လက်ရှိတွင် သီးသန့်ဝင်းဒိုးတွင် ရှိမနေပါ။
 
 ## The following strings will be used for experiments in Fx99 and Fx100
@@ -17,4 +18,6 @@ about-private-browsing-not-private = သင်သည် လက်ရှိတွ
 about-private-browsing-search-banner-title = { $engineName } သည် သီးသန့် ဝင်းဒိုးများတွင် သင်၏ ပုံမှန် ရှာဖွေရေးအင်ဂျင်ဖြစ်သည်။
 about-private-browsing-search-banner-close-button =
     .aria-label = ပိတ်ရန်
+
+## Strings used in a “pin promotion” message, which prompts users to pin a private window
 

@@ -23,12 +23,10 @@ newtab-topsites-edit-topsites-header = ထိပ်တန်းဆိုက်�
 newtab-topsites-title-label = ခေါင်းစဉ်
 newtab-topsites-title-input =
     .placeholder = ခေါင်းစဉ် ရေးပါ
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL ကို ရိုက်ပါ သို့မဟုတ် ပွားထည့်ပါ
 newtab-topsites-url-validation = URL အမှန် လိုအပ်သည်
-
 newtab-topsites-image-url-label = စိတ်ကြိုက်ပုံ URL
 newtab-topsites-use-image-link = စိတ်ကြိုက်ပုံတစ်ခုသုံးပါ…
 newtab-topsites-image-validation = ပုံတင်ရန် ပျက်ကွက်ခဲ့သည်။ မတူသော URL ကို စမ်းပါ။
@@ -49,13 +47,13 @@ newtab-confirm-delete-history-p2 = ယခုလုပ်ဆောင်မှု
 
 ## Top Sites - Sponsored label
 
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = မီနူးကို ဖွင့်ပါ
     .aria-label = မီနူးကို ဖွင့်ပါ
-
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = ဆိုက်အားပြင်မည်
@@ -79,9 +77,9 @@ newtab-menu-delete-pocket = { -pocket-brand-name } မှ ပယ်ဖျက်�
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".
-newtab-menu-remove-bookmark = စာအမှတ်အားဖယ်ပါ
+newtab-menu-remove-bookmark = စာမှတ် ဖယ်ရန်
 # Bookmark is a verb here.
-newtab-menu-bookmark = စာအမှတ်
+newtab-menu-bookmark = စာမှတ်
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -101,9 +99,8 @@ newtab-menu-open-file = ဖိုင်ကိုဖွင့်ပါ
 ## the page is bookmarked, or is currently open on another device.
 
 newtab-label-visited = သွားလည်ခဲ့သော
-newtab-label-bookmarked = စာအမှတ်မှတ်ထားသော
+newtab-label-bookmarked = စာမှတ် မှတ်ထားပြီး
 newtab-label-removed-bookmark = စာမှတ်ကို ဖျက်ပြီး
-newtab-label-recommended = လူကြိုက်များနေသော
 newtab-label-download = ဆွဲချခဲ့သည်
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -143,6 +140,7 @@ newtab-pocket-cta-button = { -pocket-brand-name } ကို ရယူပါ
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

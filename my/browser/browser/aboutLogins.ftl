@@ -8,6 +8,7 @@ login-filter =
     .placeholder = လော့ဂ်အင် များ ရှာရန်
 create-login-button = လော့ဂ်အင် အသစ် ဖန်တီးရန်
 fxaccounts-sign-in-text = သင် ၏ အခြား ကိရိယာ များမှ စကားဝှက်ကိုရယူပါ
+fxaccounts-sign-in-sync-button = တစ်ပြေးညီဖြစ်စေရန် ဝင်ရောက်ပါ
 fxaccounts-avatar-button =
     .title = အကောင့် စီမံရေးရာ
 
@@ -51,6 +52,8 @@ about-logins-list-item-breach-icon =
     .title = ချိုးဖောက်ခံရသောဝက်ဘ်ဆိုက်
 about-logins-list-item-vulnerable-password-icon =
     .title = အားနည်းသော စကားဝှက်
+about-logins-list-section-vulnerable = အားနည်းသော စကားဝှက်များ
+about-logins-list-section-nothing = သတိပေးချက်မရှိပါ။
 about-logins-list-section-today = ဒီနေ့
 about-logins-list-section-yesterday = မနေ့
 about-logins-list-section-week = လွန်ခဲ့သော ၇ ရက်က
@@ -83,6 +86,7 @@ login-item-save-new-button = သိမ်းရန်
 login-item-cancel-button = ပယ်​ဖျက်ပါ
 login-item-time-changed = နောက်ဆုံးပြုပြင်ခဲ့သည်မှာ : { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = ဖန်တီးခဲ့သည်မှာ :{ DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = နောက်ဆုံး သုံခဲ့သည်မှာ :{ DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## OS Authentication dialog
 
@@ -119,8 +123,10 @@ confirmation-dialog-cancel-button = ပယ်ဖျက်
 confirmation-dialog-dismiss-button =
     .title = ပယ်ဖျက်
 about-logins-confirm-remove-dialog-title = ဤ ဝင်ရောက်မှု ကို ဖယ်ရှားမှာလား။
+confirm-delete-dialog-message = ဤ လုပ်ဆောင်မှုကို နောက်ပြန်ဆုတ် ၍ မရပါ။
 about-logins-confirm-remove-dialog-confirm-button = ဖယ်ရှားပါ
 about-logins-confirm-export-dialog-title = ဝင်ရောက်မှုများ နှင့် စကားဝှက်များကို ထုတ်ပို့ရန်
+about-logins-confirm-export-dialog-message = သင်၏ စကားဝှက်များကို ဖတ်နိုင်သည့်စာသား အဖြစ် (ဥပမာ - BadP@ssw0rd) သိမ်းဆည်းလိမ့်မည် သို့ပါသောကြောင့် ထုတ်ပို့ ထားသောဖိုင် ကို ဖွင့်ကာ မည်သူမဆို မြင်နိုင်လိမ့်မည်။
 about-logins-confirm-export-dialog-confirm-button = ထုတ်ပို့...
 confirm-discard-changes-dialog-title = မသိမ်းရသောသော ပြောင်းလဲမှုများကို ပယ်ဖျက်မှာလား?
 confirm-discard-changes-dialog-message = မသိမ်းဆည်းရသေးသော အပြောင်းအလဲများအားလုံး ပျောက်ဆုံးပါလိမ့်မည်။
