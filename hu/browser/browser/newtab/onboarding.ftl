@@ -283,7 +283,7 @@ mr2022-onboarding-set-default-only-subtitle = Kezdje egy nonprofit szervezet ál
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
-mr2022-onboarding-existing-pin-header = Köszönjük, hogy szereti a { -brand-product-name }ot
+mr2022-onboarding-existing-pin-header = Köszönjük, hogy szereti a { -brand-product-name(case: "accusative") }
 # Subtitle is used on onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-subtitle = Indítson el egy egészségesebb internetet bárhonnan egyetlen kattintással. A legfrissebb frissítésünk tele van olyan új dolgokkal, amelyekről azt gondoljuk, hogy imádni fog.
 # Subtitle will be used on the welcome screen for existing users
@@ -356,7 +356,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Ön egy újító.</b> Mind
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Ugorjon át a laptopjáról a telefonjára és vissza
-mr2022-onboarding-mobile-download-subtitle = Vegyen át lapokat az egyik eszközéről, és folytassa egy másik eszközön ott, ahol abbahagyta. Ezenkívül szinkronizálhatja könyvjelzőit és jelszavait bárhol, ahol { -brand-product-name }ot használ.
+mr2022-onboarding-mobile-download-subtitle = Vegyen át lapokat az egyik eszközéről, és folytassa egy másik eszközön ott, ahol abbahagyta. Ezenkívül szinkronizálhatja könyvjelzőit és jelszavait bárhol, ahol { -brand-product-name(case: "accusative") } használ.
 mr2022-onboarding-mobile-download-cta-text = Olvassa le a QR-kódot, hogy megkapja a mobilos { -brand-product-name(case: "accusative") }, vagy <a data-l10n-name="download-label">küldjön magának egy letöltési hivatkozást.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Olvassa le a QR-kódot, hogy beszerezze a { -brand-product-name(case: "accusative") } a mobiljára.
 
