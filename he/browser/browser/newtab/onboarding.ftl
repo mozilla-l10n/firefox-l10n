@@ -257,7 +257,7 @@ fx100-upgrade-thanks-header = 100 פעמים תודה
 fx100-upgrade-thank-you-body = זוהי המהדורה ה־100 שלנו של { -brand-short-name }. תודה <em>לך</em> שעזרת לנו לבנות אינטרנט בריא וטוב יותר.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = זוהי המהדורה ה־100 שלנו! תודה שהינך חלק מהקהילה שלנו. ניתן להשאיר את { -brand-short-name } במרחק קליק אחד עבור 100 המהדורות הבאות.
-mr2022-onboarding-secondary-skip-button-label = דילוג על השלב הזה
+mr2022-onboarding-secondary-skip-button-label = דילוג על שלב זה
 
 ## MR2022 New User Pin Firefox screen strings
 
@@ -321,8 +321,6 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = אנחנו תמיד מכבדים את הפרטיות שלך
 mr2022-onboarding-privacy-segmentation-subtitle = מהצעות חכמות ועד לחיפוש חכם יותר, אנו פועלים ללא הרף כדי ליצור { -brand-product-name } טוב ואישי יותר.
-mr2022-onboarding-privacy-segmentation-primary-button-label = הצעות של { -brand-product-name }
-mr2022-onboarding-privacy-segmentation-secondary-button-label = מידע מפורט
 mr2022-onboarding-privacy-segmentation-button-primary-label = שימוש בהצעות של { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = הצגת מידע מפורט
 
