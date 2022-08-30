@@ -28,10 +28,15 @@
 -translations-brand-name = Firefox Translations
 -rally-brand-name = Mozilla Rally
 -rally-short-name = Rally
--focus-brand-name = Firefox Focus
+-focus-brand-name =
+    { $case ->
+       *[nominative] Firefox Focus
+        [accusative] Firefox Focust
+        [instrumental] Firefox Focusszal
+    }
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
--firefox-suggest-brand-name = Firefox Javaslatok
+-firefox-suggest-brand-name = Firefox javaslatok
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-home-brand-name = Firefox kezdőlap
