@@ -267,12 +267,23 @@ mr2022-onboarding-secondary-skip-button-label = Toś ten kšac pśeskócyś
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Namakajśo wjelicny internet
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } w doku wobchowaś
+       *[other] Pśipěśo { -brand-short-name } k nadawkowej rědce
+    }
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Wjeliki źěk, až { -brand-product-name } lubujośo
+mr2022-onboarding-existing-pin-checkbox-label = Pśidajśo teke priwatny modus { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Cyńśo { -brand-short-name } k swójomu spušćobnemu wobglědowakoju
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
