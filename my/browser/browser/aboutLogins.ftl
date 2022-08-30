@@ -55,6 +55,7 @@ about-logins-list-item-breach-icon =
     .title = ချိုးဖောက်ခံရသောဝက်ဘ်ဆိုက်
 about-logins-list-item-vulnerable-password-icon =
     .title = အားနည်းသော စကားဝှက်
+about-logins-list-section-breach = လုံခြုံမှုမရှိသော ဝက်ဘ်ဆိုက်
 about-logins-list-section-vulnerable = အားနည်းသော စကားဝှက်များ
 about-logins-list-section-nothing = သတိပေးချက်မရှိပါ။
 about-logins-list-section-today = ဒီနေ့
@@ -197,6 +198,11 @@ about-logins-import-file-picker-csv-filter-title =
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-done = ပြီးပြီ
+about-logins-import-dialog-error-title = တင်သွင်းမှုအမှား
+about-logins-import-dialog-error-file-format-title = ဖိုင်ဖော်မတ်ပြဿနာ
+about-logins-import-dialog-error-no-logins-imported = မည်သည့် လော့ဂ်အင်ကိုမျှ တင်သွင်းခြင်းမပြုပါ။
+about-logins-import-dialog-error-learn-more = ပိုမိုလေ့လာရန်
 about-logins-import-dialog-error-try-import-again = ထပ်မံတင်သွင်းကြည့်ပါ...
 about-logins-import-dialog-error-cancel = ပယ်​ဖျက်ပါ
 about-logins-import-report-title = တင်သွင်းမှု အကျဉ်းချုပ်
@@ -212,6 +218,7 @@ about-logins-import-report-row-description-error = အမှား- နေရာ
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-missing-field = အမှား- { $field } ပျောက်နေသည်
 
 ##
 ## Variables:

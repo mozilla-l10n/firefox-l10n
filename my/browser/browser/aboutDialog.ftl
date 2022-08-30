@@ -22,11 +22,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } ကို အခြ�
 update-manual = နောက်ဆုံးပေါ်ရနိုင်သောနေရာသည် <label data-l10n-name="manual-link"/>
 update-unsupported = ဒီကွန်ပျူတာစနစ်တွင် နောင်လာမည့် အဆင့်မြှင့်တင်မှုများကို လုပ်ဆောင်နိုင်တော့မည် မဟုတ်ပါ။ <label data-l10n-name="unsupported-link">ပိုမို လေ့လာပါ</label>
 update-restarting = ပြန်ဖွင့်နေသည်…
-channel-description = ယခု ရှိနေသောနေရာသည် <label data-l10n-name="current-channel"></label> နောက်ဆုံးပေါ်ရနိုင်သည့် လမ်းကြောင်း ဖြစ်သည်။ 
+channel-description = သင်သည် နောက်ဆုံး ထွက်ရှိသော အဆင့်မြင့်တင်မှု့ ချန်နယ် <label data-l10n-name="current-channel"></label> သို့‌ ရောက်ရှိနေပါသည်။
 warningDesc-version = { -brand-short-name } သည် စမ်းသပ်နေဆဲအရာဖြစ်ပြီး မတည်ငြိမ်မှု ဖြစ်ကောင်းဖြစ်နိုင်သည်။
+aboutdialog-help-user = { -brand-product-name } အကူအညီ
 aboutdialog-submit-feedback = အကြုံပြုချက်ကို ပေးပို့ရန်
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> သည် <label data-l10n-name="community-exp-creditsLink">ကမ္ဘာလုံးဆိုင်ရာ ကွန်မြူနတီ ဖြစ်ပါသည်</label> ဝဘ်ကို အများပိုင်ဖြစ်ရန် ၊ ပွင့်လင်းမြင်သာရန် ၊ အသုံးပြုနိုင်ရန် လုပ်ဆောင်လျက်
-community-2 = { -brand-short-name } ကို ဒီဇိုင်းထုတ်သူမှာ <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a<label data-l10n-name="community-creditsLink">ကမ္ဘာလုံးဆိုင်ရာ ကွန်မြူနတီ</label> ဝဘ်ကို အများပိုင်ဖြစ်ရန် ၊ ပွင့်လင်းမြင်သာရန် ၊ အသုံးပြုနိုင်ရန် လုပ်ဆောင်လျက်
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> သည် လွတ်လပ် ပွင့်လင်းပြီး အများပြည်သူတို့ အားလုံး လက်လှမ်းမီနိုင်စေရန် လုပ်ဆောင်နေသော <label data-l10n-name="community-exp-creditsLink">ကမ္ဘာလုံးဆိုင်ရာ လူမှုအဖွဲ့အစည်း </label>  ဖြစ်ပါသည်။
+community-2 = { -brand-short-name } ကို <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a<label data-l10n-name="community-creditsLink">ကမ္ဘာလုံးဆိုင်ရာ လူမှုအဖွဲ့အစည်း</label> ဝဘ် အများပိုင်ဖြစ်ရန် ၊ ပွင့်လင်းမြင်သာရန် ၊ အသုံးပြုနိုင်ရန် ရည်ရွယ်သည်။
 helpus = အကူအညီပေးချင်ပါသလား။ <label data-l10n-name="helpus-donateLink">လှူဒါန်းပါ</label> သို့မဟုတ် <label data-l10n-name="helpus-getInvolvedLink">ပါဝင်ဆောင်ရွက်ပါ။</label>
 bottomLinks-license = လိုင်စင်အကြောင်းသိကောင်းစရာ
 bottomLinks-rights = သုံးစွဲသူ၏ အခွင့်အရေးများ

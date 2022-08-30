@@ -47,12 +47,18 @@ appmenu-remote-tabs-noclients = အခြားကိရိယာများမ
 appmenu-remote-tabs-connectdevice =
     .label = အခြားကိရိယာကို ချိတ်ဆက်ရန်
 appmenu-remote-tabs-unverified = အကောင့်ကို အတည်ပြုရန် လိုအပ်သည်။
+appmenuitem-fxa-toolbar-sync-now2 = ယခုချိတ်ပါ
 appmenuitem-save-page =
     .label = စာမျက်နှာကို သိမ်းမည်…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = ဘာတွေ အသစ် ပါလဲ
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = လုပ်ဆောင်ချက် အသစ် အကြောင်း အသိပေးရန်
+    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
