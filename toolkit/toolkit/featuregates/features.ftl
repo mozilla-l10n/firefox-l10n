@@ -64,3 +64,5 @@ experimental-features-ime-search-description = IME (Input Method Editor, editor 
 experimental-features-text-recognition =
     .label = Tekstowe spóznawanje
 experimental-features-text-recognition-description = Zmóžniśo funkcije, aby tekst we wobrazach spóznał.
+experimental-features-accessibility-cache =
+    .label = Pufrowak bźezbariernosći
