@@ -44,8 +44,10 @@ pocket-panel-home-explore-more = ရှာဖွေစူးစမ်းပါ�
 
 ## Pocket panel header component
 
+pocket-panel-header-my-list = စာရင်းကို ကြည့်ပါ
 pocket-panel-header-sign-in = ၀င်ပါ
 
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = အားလုံးကို ပြပါ
+pocket-panel-button-remove = ဖယ်ရှားပါ

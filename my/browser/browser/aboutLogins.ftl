@@ -20,6 +20,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = အခြား ဘရောင်ဇာ မှ တင်သွင်းရန်...
 about-logins-menu-menuitem-import-from-a-file = ဖိုင်မှ တင်သွင်းရန်...
 about-logins-menu-menuitem-export-logins = ဝင်ရောက်မှုများ ထုတ်ပို့ရန်...
+about-logins-menu-menuitem-remove-all-logins = အကောင့်၀င်ရောက်မှုများအားလုံးကိုဖယ်ရှားပါ…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ရွေးချယ်စရာများ
@@ -38,6 +39,8 @@ login-list-count =
 login-list-sort-label-text = ဖြင့် စဥ်ရန်:
 login-list-name-option = အမည် (က - အ)
 login-list-name-reverse-option = အမည်( အ-က)
+login-list-username-option = အမည် (အေ - ဇက်)
+login-list-username-reverse-option = အမည်(ဇက်-အေ)
 about-logins-login-list-alerts-option = သတိပေးချက်
 login-list-last-changed-option = နောက်ဆုံး ပြုပြင်ထားမှုများ
 login-list-last-used-option = နောက်ဆုံး သုံးထား‌သော
@@ -194,8 +197,16 @@ about-logins-import-file-picker-csv-filter-title =
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-error-try-import-again = ထပ်မံတင်သွင်းကြည့်ပါ...
 about-logins-import-dialog-error-cancel = ပယ်​ဖျက်ပါ
+about-logins-import-report-title = တင်သွင်းမှု အကျဉ်းချုပ်
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = အတန်း { $number }
+about-logins-import-report-row-description-modified = လက်ရှိအကောင့်ကို အပ်ဒိတ်လုပ်ထားသည်။
 about-logins-import-report-row-description-added = အကောင့်အသစ်ထည့်ထားသည်။
+about-logins-import-report-row-description-error = အမှား- နေရာပျောက်နေသည်။
 
 ##
 ## Variables:
