@@ -32,6 +32,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $pro
 inactive-css-not-table = <strong>{ $property }</strong> heeft geen effect op dit element aangezien het geen tabel is.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> heeft geen effect op dit element aangezien het niet scrollt.
 inactive-css-border-image = <strong>{ $property }</strong> heeft geen effect op dit element, omdat het niet kan worden toegepast op interne tabelelementen waar <strong>border-collapse</strong> is ingesteld op <strong>collapse</strong> op het bovenliggende tabelelement.
+inactive-css-ruby-element = <strong>{ $property }</strong> heeft geen effect op dit element, aangezien het een Ruby-element is. De grootte wordt bepaald door de lettergrootte van de Ruby-tekst.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -55,6 +56,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells-fix = Probeer de
 inactive-css-not-table-fix = Probeer <strong>display:table</strong> of <strong>display:inline-table</strong> toe te voegen. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Probeer <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> of <strong>overflow:hidden</strong> toe te voegen. { learn-more }
 inactive-css-border-image-fix = Verwijder in het bovenliggende tabelelement de eigenschap, of wijzig de waarde van <strong>border-collapse</strong> in een andere waarde dan <strong>collapse</strong>. { learn-more }
+inactive-css-ruby-element-fix = Probeer de <strong>lettergrootte</strong> van de Ruby-tekst te wijzigen. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
