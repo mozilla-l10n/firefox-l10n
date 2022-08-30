@@ -266,7 +266,7 @@ mr2022-onboarding-secondary-skip-button-label = Tutón krok přeskočić
 # In this context, open up is synonymous with "Discover".
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
-mr2022-onboarding-welcome-pin-header = Wotkryjće so wulkotny internet
+mr2022-onboarding-welcome-pin-header = Wotkryjće wulkotny internet
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
 mr2022-onboarding-welcome-pin-subtitle = Startujće { -brand-short-name } zwotkelžkuli z jednym kliknjenjom. Kóždy raz, hdyž to činiće, woliće bóle wotewrjeny a njewotwisny web.
 # Primary button string used on welcome page for when Firefox is not pinned.
@@ -369,8 +369,6 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Wašu priwatnosć přeco respektujemy.
-mr2022-onboarding-privacy-segmentation-primary-button-label = Doporučenja { -brand-product-name }
-mr2022-onboarding-privacy-segmentation-secondary-button-label = Podrobne informacije
 mr2022-onboarding-privacy-segmentation-button-primary-label = Doporučenja { -brand-product-name } wužiwać
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Nadrobne informacije pokazać
 
