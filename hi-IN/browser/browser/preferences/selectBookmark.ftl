@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 select-bookmark-window =
-    .title = घर पृष्ठ सेट करें
+    .title = होम पेज सेट करें
     .style = width: 32em;
-
 select-bookmark-desc = अपना घर पृष्ठ बनाने के लिए बुकमार्क चुनें. यदि आप कोई फोल्डर चुनते हैं, उस फोल्डर में बुकमार्क टैब में खोला जाएगा.
