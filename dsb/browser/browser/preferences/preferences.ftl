@@ -941,7 +941,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Pytnice
     .accesskey = P
+addressbar-locbar-quickactions-option =
+    .label = Malsne akcije
+    .accesskey = M
 addressbar-suggestions-settings = Nastajenja za naraźenja pytnice změniś
+addressbar-quickactions-learn-more = Dalšne informacije
 
 ## Privacy Section - Content Blocking
 
@@ -1099,6 +1103,11 @@ addon-recommendations-link = Dalšne informacije
 collection-health-report-disabled = Datowe rozpšawjenje jo znjemóžnjone za toś tu programowu konfiguraciju
 collection-backlogged-crash-reports-with-link = { -brand-short-name } dowóliś, aby se njepósłane wowaleńske rozpšawy we wašom mjenju pósłali <a data-l10n-name="crash-reports-link">Dalšne informacije</a>
     .accesskey = d
+privacy-segmentation-section-header = Nowe funkcije, kótarež wašo pśeglědowanje pólěpšaju
+privacy-segmentation-radio-off =
+    .label = Dopórucenja { -brand-product-name } wužywaś
+privacy-segmentation-radio-on =
+    .label = Detailěrowane informacije pokazaś
 
 ## Privacy Section - Security
 ##
