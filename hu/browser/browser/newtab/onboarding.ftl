@@ -64,13 +64,13 @@ mr1-onboarding-reduce-motion-button-label = Animációk kikapcsolása
 # Title used on welcome page when Firefox is not pinned
 mr1-onboarding-pin-header =
     { PLATFORM() ->
-        [macos] A könnyű hozzáférés érdekében tartsa a { -brand-short-name } a Dokkon
-       *[other] A könnyű hozzáférés érdekében rögzítse a { -brand-short-name } címet a tálcára
+        [macos] A könnyű hozzáférés érdekében tartsa a { -brand-short-name(case: "accusative") } a Dokkon
+       *[other] A könnyű hozzáférés érdekében rögzítse a { -brand-short-name(case: "accusative") } a tálcára
     }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->
-        [macos] Hozzáadás a Dokkhoz
+        [macos] Dokkban tartás
        *[other] Rögzítés a tálcára
     }
 
