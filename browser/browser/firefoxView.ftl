@@ -39,6 +39,7 @@ firefoxview-tabpickup-network-offline-primarybutton = Réessayer
 firefoxview-tabpickup-sync-error-header = Nous rencontrons des problèmes de synchronisation
 firefoxview-tabpickup-sync-error-primarybutton = Réessayer
 firefoxview-tabpickup-sync-disconnected-header = Activez la synchronisation pour continuer
+firefoxview-tabpickup-syncing = Veuillez patienter pendant la synchronisation de vos onglets. Ce ne sera pas long.
 firefoxview-mobile-promo-header = Récupérez les onglets de votre téléphone ou de votre tablette
 firefoxview-mobile-promo-description = Pour afficher les derniers onglets de votre appareil mobile, connectez-vous à { -brand-product-name } sous iOS ou Android.
 firefoxview-mobile-promo-primarybutton = Installez { -brand-product-name } sur votre appareil mobile
