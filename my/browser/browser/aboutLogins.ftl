@@ -4,14 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = အကောင့်ဝင်ရောက်မှုနှင့် စကားဝှက်များ
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 login-filter =
     .placeholder = လော့ဂ်အင် များ ရှာရန်
-
 create-login-button = လော့ဂ်အင် အသစ် ဖန်တီးရန်
-
 fxaccounts-sign-in-text = သင် ၏ အခြား ကိရိယာ များမှ စကားဝှက်ကိုရယူပါ
 fxaccounts-avatar-button =
     .title = အကောင့် စီမံရေးရာ
@@ -56,6 +51,9 @@ about-logins-list-item-breach-icon =
     .title = ချိုးဖောက်ခံရသောဝက်ဘ်ဆိုက်
 about-logins-list-item-vulnerable-password-icon =
     .title = အားနည်းသော စကားဝှက်
+about-logins-list-section-today = ဒီနေ့
+about-logins-list-section-yesterday = မနေ့
+about-logins-list-section-week = လွန်ခဲ့သော ၇ ရက်က
 
 ## Introduction screen
 
@@ -99,17 +97,12 @@ about-logins-edit-login-os-auth-dialog-message-win = သင်၏ ဝင်ရ�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = သိမ်းထားသော ဝင်ရောက်မှု ကိုပြင်ဆင်ရန်
-
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = သိမ်းဆည်းထားသောစကားဝှက်ကိုထုတ်ဖေါ်ပါ
-
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = သိမ်းဆည်းထားသောစကားဝှက်ကိုကူးယူပါ
-
-## Master Password notification
-
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = သိမ်းဆည်းထားသောဝင်ရောက်မှုများ နှင့် စကားဝှက်များကို ထုတ်ပို့ရန်
@@ -120,20 +113,15 @@ master-password-reload-button =
     .label = လော့အင်
     .accesskey = လ
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = ပယ်ဖျက်
 confirmation-dialog-dismiss-button =
     .title = ပယ်ဖျက်
-
 about-logins-confirm-remove-dialog-title = ဤ ဝင်ရောက်မှု ကို ဖယ်ရှားမှာလား။
 about-logins-confirm-remove-dialog-confirm-button = ဖယ်ရှားပါ
-
 about-logins-confirm-export-dialog-title = ဝင်ရောက်မှုများ နှင့် စကားဝှက်များကို ထုတ်ပို့ရန်
 about-logins-confirm-export-dialog-confirm-button = ထုတ်ပို့...
-
 confirm-discard-changes-dialog-title = မသိမ်းရသောသော ပြောင်းလဲမှုများကို ပယ်ဖျက်မှာလား?
 confirm-discard-changes-dialog-message = မသိမ်းဆည်းရသေးသော အပြောင်းအလဲများအားလုံး ပျောက်ဆုံးပါလိမ့်မည်။
 confirm-discard-changes-dialog-confirm-button = ပယ်ဖျက်
@@ -164,10 +152,8 @@ about-logins-vulnerable-alert-learn-more-link = ပိုမို လေ့လ�
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = { $loginTitle } အတွက် ဖြည့်သွင်းမှု့ မှာ အသုံးပြုသူအမည် သည် ရှိပြီးသာဖြစ်သည်။ <a data-l10n-name="duplicate-link">ရှိပြီးသား ဖြည့်သွင်းမှု့ ဆီ သွားမလား?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = ဤ စကားဝှက်ကို သိမ်းရန် ကြိုးစားစဉ်အမှား ဖြစ်ခဲ့သည်။
-
 
 ## Login Export Dialog
 
@@ -202,13 +188,18 @@ about-logins-import-file-picker-csv-filter-title =
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-error-cancel = ပယ်​ဖျက်ပါ
+about-logins-import-report-row-description-added = အကောင့်အသစ်ထည့်ထားသည်။
+
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
