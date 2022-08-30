@@ -59,9 +59,14 @@ pocket-panel-home-explore-more = استكشف
 pocket-panel-home-most-recent-saves = هنا آخر ما حفظته:
 pocket-panel-home-most-recent-saves-loading = يُحمّل آخر ما حفظته…
 pocket-panel-home-new-user-cta = انقر زر { -pocket-brand-name } لحفظ المقالات والفيديوهات والروابط.
+pocket-panel-home-new-user-message = طالِع آخر ما حفظت هنا.
 
 ## Pocket panel header component
 
+pocket-panel-header-my-list = اعرض قائمتي
+pocket-panel-header-sign-in = لِج
 
 ## Pocket panel buttons
 
+pocket-panel-button-show-all = اعرض الكل
+pocket-panel-button-remove = أزِل
