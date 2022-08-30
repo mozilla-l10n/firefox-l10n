@@ -284,23 +284,61 @@ mr2022-onboarding-existing-pin-checkbox-label = Pśidajśo teke priwatny modus {
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = Cyńśo { -brand-short-name } k swójomu spušćobnemu wobglědowakoju
+mr2022-onboarding-set-default-primary-button-label = Nastajśo { -brand-short-name } ako standardny wobglědowak
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = Instalacija za sekundy
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Spěšnučka instalacija
+mr2022-onboarding-import-primary-button-label-no-attribution = Z pjerwjejšnego wobglědowaka importěrowaś
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Wubjeŕśo barwu, kótaraž was inspirěrujo
+mr2022-onboarding-colorway-subtitle = Njewótwisne głose mógu kulturu změniś.
+mr2022-onboarding-colorway-primary-button-label = Barwowu kombinaciju nastajiś
+mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } k wašomu barbnemu startowemu bokoju cyniś
+mr2022-onboarding-colorway-label-default = Standard
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Standard
+mr2022-onboarding-colorway-description-default = <b>Móje aktualne barwy { -brand-short-name } wužywaś.</b>
+mr2022-onboarding-colorway-label-playmaker = Wjeźecy grajaŕ
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Wjeźecy grajaŕ
+mr2022-onboarding-colorway-description-playmaker = <b>Sćo wjeźecy grajaŕ.</b> Napórajośo góźby, aby dobył a kuždemu wokoło was pomagał, jich graśe pólěpšyś.
+mr2022-onboarding-colorway-label-expressionist = Ekspresionist
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Ekspresionist
+mr2022-onboarding-colorway-description-expressionist = <b>Sćo ekspresionist.</b> Wiźiśo swět hynac a waše źěła zacuśa drugich wóźe.
+mr2022-onboarding-colorway-label-visionary = Wizionaŕ
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Wizionaŕ
+mr2022-onboarding-colorway-description-visionary = <b>Sćo wizionaŕ.</b> Stajaśo status quo do pšašanja a pógnuwaśo druge, se lěpšy pśichod pśedstajiś.
+mr2022-onboarding-colorway-label-activist = Aktiwist
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Aktiwist
+mr2022-onboarding-colorway-description-activist = <b>Sćo aktiwist.</b> Zawóstajaśo swět ako lěpše městno, ako sćo jen namakał a wjeźośo druge k wěrje.
+mr2022-onboarding-colorway-label-dreamer = Cowaŕ
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Cowaŕ
+mr2022-onboarding-colorway-description-dreamer = <b>Sćo cowaŕ.</b> Wěriśo, až gluka skobodnego lěbgoźi a inspirěrujośo druge, aby skobodne byli.
+mr2022-onboarding-colorway-label-innovator = Inowator
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Inowator
+mr2022-onboarding-colorway-description-innovator = <b>Sćo inowator.</b> Wiźiśo wšuźi šanse a wustatkujośo se na žywjenja wšych wokoło was.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Skócćo wót laptopa do telefona a zasej slědk
+mr2022-onboarding-no-mobile-download-cta-text = Skannujśo QR-kod, aby se { -brand-product-name } za mobilny rěd wobstarał.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -315,6 +353,12 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Wašu priwatnosć pśecej respektěrujomy.
+mr2022-onboarding-privacy-segmentation-button-primary-label = Dopórucenja { -brand-product-name } wužywaś
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Detailěrowane informacije pokazaś
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Pomagajśo nam lěpšy web natwariś.
+mr2022-onboarding-gratitude-primary-button-label = Cytajśo, což jo nowe
+mr2022-onboarding-gratitude-secondary-button-label = Pśeglědowanje zachopiś
