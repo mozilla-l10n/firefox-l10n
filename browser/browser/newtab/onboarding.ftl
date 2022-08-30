@@ -120,7 +120,7 @@ mr2-onboarding-theme-label-auto = Automatikus
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = Alapértelmezett
 mr1-onboarding-theme-header = Tegye a sajátjává
-mr1-onboarding-theme-subtitle = Tegye egyedivé a { -brand-short-name }ot egy témával.
+mr1-onboarding-theme-subtitle = A { -brand-short-name } személyre szabása egy témával.
 mr1-onboarding-theme-primary-button-label = Téma mentése
 mr1-onboarding-theme-secondary-button-label = Most nem
 # System theme uses operating system color settings
@@ -295,7 +295,7 @@ mr2022-onboarding-existing-pin-checkbox-label = Adja hozzá a { -brand-short-nam
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = Legyen a { -brand-short-name } a szokásos böngészője
-mr2022-onboarding-set-default-primary-button-label = Állítsa be a { -brand-short-name }ot alapértelmezett böngészőként
+mr2022-onboarding-set-default-primary-button-label = A { -brand-short-name } beállítása alapértelmezett böngészőként
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-set-default-subtitle = Használjon egy nonprofit szervezet által támogatott böngészőt. Megvédjük a magánszféráját, miközben a világhálón böngészik.
@@ -307,7 +307,7 @@ mr2022-onboarding-set-default-subtitle = Használjon egy nonprofit szervezet ál
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = A legfrissebb verziónk Ön köré épül fel, így minden eddiginél egyszerűbb a világhálón szörfölés. Tele van olyan funkciókkal, amelyekről úgy gondoljuk, hogy imádni fog.
-mr2022-onboarding-get-started-primary-button-label = Állítsa be másodpercek alatt
+mr2022-onboarding-get-started-primary-button-label = Beállítás másodpercek alatt
 
 ## MR2022 Import Settings screen strings
 
@@ -375,9 +375,6 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = Mindig tiszteletben tartjuk a magánszféráját
 mr2022-onboarding-privacy-segmentation-subtitle = Az intelligens javaslatoktól az okos keresésig, folyamatosan dolgozunk egy jobb, személyesebb { -brand-product-name } létrehozásán.
-mr2022-onboarding-privacy-segmentation-cta-text = Ha olyan új funkciókat kínálunk, amelyek az Ön adatait használják fel a böngészése javítása érdekében, akkor mit szeretne látni:
-mr2022-onboarding-privacy-segmentation-primary-button-label = { -brand-product-name } javaslatok
-mr2022-onboarding-privacy-segmentation-secondary-button-label = Részletes információk
 mr2022-onboarding-privacy-segmentation-text-cta = Mit szeretne látni, amikor olyan új szolgáltatásokat kínálunk, amelyek az Ön adatait használják fel a böngészés javítása érdekében?
 mr2022-onboarding-privacy-segmentation-button-primary-label = A{ -brand-product-name } javaslatainak használata
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Részletes információk megjelenítése
