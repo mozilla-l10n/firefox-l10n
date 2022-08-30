@@ -134,6 +134,22 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱥᱟᱯᱲᱟᱣ ᱢᱮ …
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = ᱥᱟᱦᱴᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ …
+    .accesskey = m
+    .tooltiptext = ᱥᱟᱦᱴᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ ({ $shortcut })
+main-context-menu-edit-bookmark =
+    .aria-label = ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱥᱟᱯᱲᱟᱣ ᱢᱮ …
+    .accesskey = m
+    .tooltiptext = ᱵᱩᱠᱢᱟᱨᱠ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱥᱟᱯᱲᱟᱣ ᱢᱮ …
+    .accesskey = m
+    .tooltiptext = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱥᱟᱯᱲᱟᱣ ᱢᱮ ({ $shortcut })
 main-context-menu-open-link =
     .label = ᱠᱷᱚᱧᱡᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
     .accesskey = ᱠ
@@ -151,6 +167,9 @@ main-context-menu-open-link-new-private-window =
     .accesskey = ᱡ
 main-context-menu-bookmark-link =
     .label = ᱞᱤᱸᱠ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ
+    .accesskey = B
+main-context-menu-bookmark-link-2 =
+    .label = ᱞᱤᱸᱠ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ …
     .accesskey = B
 main-context-menu-save-link =
     .label = ᱞᱮᱠᱷᱟ ᱠᱷᱚᱧᱡᱟ ᱥᱟᱺᱪᱟᱣ ᱢᱮ…

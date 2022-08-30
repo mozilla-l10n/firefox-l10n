@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = ᱥᱮᱸᱫᱽᱨᱟ
     .aria-label = ᱥᱮᱸᱫᱽᱨᱟ
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱟᱝ ᱴᱷᱤᱠᱬᱟᱹ ᱟᱫᱮᱨ ᱢᱮ
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
     .title = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
     .aria-label = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
-
 newtab-search-box-text = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 newtab-search-box-input =
     .placeholder = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
@@ -43,19 +41,17 @@ newtab-search-box-input =
 
 ## Top Sites - General form dialog.
 
-newtab-topsites-add-search-engine-header = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱸᱡᱤᱱ ᱥᱮᱞᱮᱫ ᱢᱮ
+newtab-topsites-add-search-engine-header = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱥᱮᱞᱮᱫ ᱢᱮ
 newtab-topsites-add-shortcut-header = ᱱᱟᱶᱟ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
 newtab-topsites-edit-topsites-header = ᱪᱮᱛᱟᱱ ᱨᱤᱱ ᱥᱟᱭᱤᱴ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 newtab-topsites-edit-shortcut-header = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 newtab-topsites-title-label = ᱧᱩᱛᱩᱢ
 newtab-topsites-title-input =
     .placeholder = ᱧᱩᱛᱩᱢ ᱟᱫᱮᱨ ᱢᱮ
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = ᱢᱤᱫᱴᱟᱹᱝ URL ᱚᱞ ᱢᱮ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱞᱟᱴᱷᱟᱭ ᱢᱮ
 newtab-topsites-url-validation = ᱴᱷᱤᱠ URL ᱫᱚᱨᱠᱟᱨ ᱠᱟᱱᱟ
-
 newtab-topsites-image-url-label = ᱱᱤᱡᱚᱨ URL ᱪᱤᱛᱟᱹᱨ
 newtab-topsites-use-image-link = ᱱᱤᱡᱚᱨ ᱪᱤᱛᱟᱹᱨ ᱵᱮᱵᱷᱟᱨ ᱢᱮ …
 newtab-topsites-image-validation = ᱪᱤᱛᱟᱹᱨ ᱞᱟᱫᱮ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾ ᱮᱴᱟᱜ URL ᱪᱮᱥᱴᱟ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱾
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = ᱠᱟᱹᱢᱤᱼᱤᱭᱟᱹ
 newtab-menu-section-tooltip =
     .title = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
     .aria-label = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = ᱚᱪᱚᱜᱽ ᱢᱮ
     .aria-label = ᱚᱪᱚᱜᱽ ᱢᱮ
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -157,17 +151,14 @@ newtab-label-removed-bookmark = ᱵᱩᱠᱢᱟᱨᱠ ᱚᱪᱚᱜᱟᱠᱟᱱ�
 newtab-label-recommended = ᱴᱨᱮᱱᱰᱤᱝ
 newtab-label-saved = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱮᱱᱟ
 newtab-label-download = ᱰᱟᱩᱱᱞᱚᱰ ᱦᱩᱭ
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · ᱜᱚᱲᱚᱤᱡ
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = ᱜᱚᱲᱚᱤᱡ ᱫᱚ { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -217,11 +208,9 @@ newtab-discovery-empty-section-topstories-loading = ᱞᱟᱫᱮᱜ ᱠᱟᱱᱟ
 newtab-pocket-read-more = ᱧᱩᱛᱩᱢᱟᱱ ᱵᱤᱥᱚᱭ ᱠᱚ :
 newtab-pocket-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 newtab-pocket-cta-button = { -pocket-brand-name } ᱧᱟᱢ ᱢᱮ
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱢᱮ
 newtab-pocket-saved-to-pocket = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱮᱱᱟ
-
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = ᱰᱷᱮᱨ ᱠᱟᱹᱦᱱᱤ ᱠᱚ ᱞᱟᱫᱮ ᱢᱮ
 

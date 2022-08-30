@@ -9,8 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = ᱵᱚᱦᱟᱞ ᱵᱷᱩᱞ
-opensearch-error-duplicate-desc = { -brand-short-name } ᱫᱚ “{ $location-url }” ᱠᱷᱚᱱ ᱯᱟᱱᱛᱮ ᱠᱷᱚᱸᱡᱟ ᱟᱫᱮᱨ ᱵᱟᱝ ᱵᱚᱦᱟᱞ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱢᱤᱫ ᱧᱩᱛᱩᱢ ᱥᱟᱸᱣ ᱢᱤᱫ ᱤᱸᱡᱤᱱ ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱢᱮᱱᱟᱜ ᱟ ᱾
-
+opensearch-error-duplicate-desc = { -brand-short-name } ᱫᱚ “{ $location-url }” ᱠᱷᱚᱱ ᱯᱟᱱᱛᱮ ᱠᱷᱚᱸᱡᱟ ᱟᱫᱮᱨ ᱵᱟᱝ ᱵᱚᱦᱟᱞ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱢᱤᱫ ᱧᱩᱛᱩᱢ ᱥᱟᱸᱣ ᱢᱤᱫ ᱤᱧᱡᱤᱱ ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱢᱮᱱᱟᱜ ᱟ ᱾
 opensearch-error-download-title = ᱰᱟᱩᱱᱞᱚᱰ ᱵᱷᱩᱞ
 opensearch-error-download-desc = { -brand-short-name } ᱯᱟᱱᱛᱮ ᱠᱷᱚᱸᱡᱟ ᱟᱫᱮᱨ ᱵᱟᱝ ᱟᱹᱛᱩᱨ ᱟᱝᱲᱜᱚ ᱫᱟᱲᱮᱭᱟᱜ ᱟ: { $location-url }
 
@@ -18,11 +17,9 @@ opensearch-error-download-desc = { -brand-short-name } ᱯᱟᱱᱛᱮ ᱠᱷᱚ
 
 searchbar-submit =
     .tooltiptext = ᱥᱮᱸᱫᱽᱨᱟ ᱡᱚᱢᱟᱭ ᱢᱮ
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = ᱥᱮᱸᱫᱽᱨᱟ
-
 searchbar-icon =
     .tooltiptext = ᱥᱮᱸᱫᱽᱨᱟ
 
