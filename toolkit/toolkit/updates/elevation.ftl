@@ -11,4 +11,4 @@ elevation-error-manual = Kézzel frissítheti a { -brand-short-name } programot,
 elevation-finished-page = A frissítés készen áll a telepítésre
 elevation-finished-background-page = A { -brand-short-name } biztonsági és stabilitási frissítése letöltődött, és telepítésre kész.
 elevation-finished-background = Frissítés:
-elevation-more-elevated = Ez a frissítés rendszergazdai jogosultságot igényel. A frissítés a { -brand-short-name } következő indításakor települ. Újraindíthatja most a { -brand-short-name }ot, folytathatja a munkát és újraindíthatja később, vagy elutasíthatja ezt a frissítést.
+elevation-more-elevated = Ez a frissítés rendszergazdai jogosultságot igényel. A frissítés a { -brand-short-name } következő indításakor települ. Újraindíthatja most a { -brand-short-name(case: "accusative") }, folytathatja a munkát és újraindíthatja később, vagy elutasíthatja ezt a frissítést.

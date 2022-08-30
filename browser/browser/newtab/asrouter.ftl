@@ -117,8 +117,8 @@ cfr-doorhanger-fission-secondary-button = További tudnivalók
 
 ## Full Video Support CFR message
 
-cfr-doorhanger-video-support-body = Előfordulhat, hogy az oldalon található videók nem játszhatók le a { -brand-short-name } ezen verziójában. A teljes videótámogatásért frissítse most a { -brand-short-name }ot.
-cfr-doorhanger-video-support-header = A videó lejátszásához frissítse a { -brand-short-name }ot
+cfr-doorhanger-video-support-body = Előfordulhat, hogy az oldalon található videók nem játszhatók le a { -brand-short-name } ezen verziójában. A teljes videótámogatásért frissítse most a { -brand-short-name(case: "accusative") }.
+cfr-doorhanger-video-support-header = A videó lejátszásához frissítse a { -brand-short-name(case: "accusative") }
 cfr-doorhanger-video-support-primary-button = Frissítés most
     .accesskey = F
 
@@ -164,7 +164,7 @@ cfr-total-cookie-protection-body = A Teljes sütivédelem az eddigi legerősebb 
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = A jobb internet Önnel kezdődik
-spotlight-better-internet-body = Amikor a { -brand-short-name }ot használja, akkor egy nyílt és hozzáférhető internetre szavaz, amely jobb mindenki számára.
+spotlight-better-internet-body = Amikor a { -brand-short-name(case: "accusative") } használja, akkor egy nyílt és hozzáférhető internetre szavaz, amely jobb mindenki számára.
 spotlight-peace-mind-header = Fedezzük Önt
 spotlight-peace-mind-body = Minden hónapban, a { -brand-short-name } átlagosan 3.000 nyomkövetőt blokkol felhasználónként. Mert semmi nem állhat Ön és a jó internet közé, az adatvédelmi szempontból aggályos követők különösen nem.
 spotlight-pin-primary-button =

@@ -496,7 +496,7 @@ popup-mute-notifications-checkbox = Webhely értesítéseinek elnémítása mego
 
 ## WebRTC window or screen share tab switch warning
 
-sharing-warning-window = Ön megosztja a { -brand-short-name }ot. Mások is láthatják, ha új lapra vált.
+sharing-warning-window = Ön megosztja a { -brand-short-name(case: "accusative") }. Mások is láthatják, ha új lapra vált.
 sharing-warning-screen = Ön megosztja a teljes képernyőjét. Mások is láthatják, ha új lapra vált.
 sharing-warning-proceed-to-tab =
     .label = Tovább a laphoz

@@ -81,7 +81,7 @@ mr1-onboarding-pin-primary-button-label =
 mr1-onboarding-get-started-primary-button-label = Kezdő lépések
 mr1-onboarding-welcome-header = Üdvözli a { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = A { -brand-short-name } elsődleges böngészővé tétele
-    .title = Beállítja elsődleges böngészőként a { -brand-short-name }ot, és kitűzi a tálcára
+    .title = Beállítja elsődleges böngészőként a { -brand-short-name(case: "accusative") }, és kitűzi a tálcára
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = A { -brand-short-name } alapértelmezett böngészővé tétele
@@ -256,7 +256,7 @@ fx100-upgrade-thanks-header = 100 köszönet
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Ez a { -brand-short-name } 100. kiadása. Köszönjük <em>Önnek</em>, hogy segít nekünk egy jobb, egészségesebb internet felépítésében.
 # Message shown with either a pin-to-taskbar or set-default button.
-fx100-upgrade-thanks-keep-body = Ez a 100. kiadásunk! Köszönjük, hogy segít a közösségünk tagja. Tartsa egy kattintásnyira a { -brand-short-name }ot a következő 100-hoz.
+fx100-upgrade-thanks-keep-body = Ez a 100. kiadásunk! Köszönjük, hogy segít a közösségünk tagja. Tartsa egy kattintásnyira a { -brand-short-name(case: "accusative") } a következő 100-hoz.
 mr2022-onboarding-secondary-skip-button-label = Lépés kihagyása
 
 ## MR2022 New User Pin Firefox screen strings
@@ -267,7 +267,7 @@ mr2022-onboarding-secondary-skip-button-label = Lépés kihagyása
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Fedezzen fel egy csodálatos internetet
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
-mr2022-onboarding-welcome-pin-subtitle = Indítsa el a { -brand-short-name }ot bárhonnan egyetlen kattintással. Minden alkalommal, amikor ezt teszi, egy nyitottabb és függetlenebb internetet választ.
+mr2022-onboarding-welcome-pin-subtitle = Indítsa el a { -brand-short-name(case: "accusative") } bárhonnan egyetlen kattintással. Minden alkalommal, amikor ezt teszi, egy nyitottabb és függetlenebb internetet választ.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -312,7 +312,7 @@ mr2022-onboarding-get-started-primary-button-label = Beállítás másodpercek a
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = Villámgyors beállítás
-mr2022-onboarding-import-subtitle = Állítsa be úgy a { -brand-short-name }ot, ahogy Önnek tetszik. Adja hozzá könyvjelzőit, jelszavait és egyebeket a régi böngészőjéből.
+mr2022-onboarding-import-subtitle = Állítsa be úgy a { -brand-short-name(case: "accusative") }, ahogy Önnek tetszik. Adja hozzá könyvjelzőit, jelszavait és egyebeket a régi böngészőjéből.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importálás az előző böngészőből
 
 ## If your language uses grammatical genders, in the description for the
@@ -357,8 +357,8 @@ mr2022-onboarding-colorway-description-innovator = <b>Ön egy újító.</b> Mind
 
 mr2022-onboarding-mobile-download-title = Ugorjon át a laptopjáról a telefonjára és vissza
 mr2022-onboarding-mobile-download-subtitle = Vegyen át lapokat az egyik eszközéről, és folytassa egy másik eszközön ott, ahol abbahagyta. Ezenkívül szinkronizálhatja könyvjelzőit és jelszavait bárhol, ahol { -brand-product-name }ot használ.
-mr2022-onboarding-mobile-download-cta-text = Olvassa le a QR-kódot, hogy megkapja a mobilos { -brand-product-name }ot, vagy <a data-l10n-name="download-label">küldjön magának egy letöltési hivatkozást.</a>
-mr2022-onboarding-no-mobile-download-cta-text = Olvassa le a QR-kódot, hogy beszerezze a { -brand-product-name }ot a mobiljára.
+mr2022-onboarding-mobile-download-cta-text = Olvassa le a QR-kódot, hogy megkapja a mobilos { -brand-product-name(case: "accusative") }, vagy <a data-l10n-name="download-label">küldjön magának egy letöltési hivatkozást.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Olvassa le a QR-kódot, hogy beszerezze a { -brand-product-name(case: "accusative") } a mobiljára.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -376,12 +376,12 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 mr2022-onboarding-privacy-segmentation-title = Mindig tiszteletben tartjuk a magánszféráját
 mr2022-onboarding-privacy-segmentation-subtitle = Az intelligens javaslatoktól az okos keresésig, folyamatosan dolgozunk egy jobb, személyesebb { -brand-product-name } létrehozásán.
 mr2022-onboarding-privacy-segmentation-text-cta = Mit szeretne látni, amikor olyan új szolgáltatásokat kínálunk, amelyek az Ön adatait használják fel a böngészés javítása érdekében?
-mr2022-onboarding-privacy-segmentation-button-primary-label = A{ -brand-product-name } javaslatainak használata
+mr2022-onboarding-privacy-segmentation-button-primary-label = A { -brand-product-name } javaslatainak használata
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Részletes információk megjelenítése
 
 ## MR2022 Multistage Gratitude screen strings
 
-mr2022-onboarding-gratitude-title = Segít nekünk egy jobb web kialakításában.
-mr2022-onboarding-gratitude-subtitle = Köszönjük, hogy a { -brand-short-name }et használja, amelyet a Mozilla Alapítvány támogat. Az Ön támogatásával azon dolgozunk, hogy az internetet mindenki számára nyitottabbá, hozzáférhetőbbé és jobbá tegyük.
+mr2022-onboarding-gratitude-title = Segít nekünk egy jobb világháló felépítésében.
+mr2022-onboarding-gratitude-subtitle = Köszönjük, hogy a { -brand-short-name(case: "accusative") } használja, amelyet a Mozilla Alapítvány támogat. Az Ön támogatásával azon dolgozunk, hogy az internetet mindenki számára nyitottabbá, hozzáférhetőbbé és jobbá tegyük.
 mr2022-onboarding-gratitude-primary-button-label = Nézze meg az újdonságokat
 mr2022-onboarding-gratitude-secondary-button-label = Böngészés megkezdése
