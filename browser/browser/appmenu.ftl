@@ -55,6 +55,7 @@ appmenu-remote-tabs-opensettings =
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Сакате да ги видите вашите јазичиња од други уреди овде?
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизирај сега
+appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-fxa-signed-in-label = Најавете се
 appmenuitem-save-page =
     .label = Сними страница како…
