@@ -6,6 +6,7 @@
 ## View / Layout
 
 appmenu-font-size-value = Leturstærð
+appmenu-mail-uidensity-value = Þéttleiki
 appmenuitem-font-size-enlarge =
     .tooltiptext = Auka leturstærð
 appmenuitem-font-size-reduce =
