@@ -163,7 +163,7 @@ newtab-label-sponsored = { $sponsorOrSource } · Gesponsert
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
-newtab-label-sponsored-by = Gesponsert von { $sponsor }
+newtab-label-sponsored-by = Werbung von { $sponsor }
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
