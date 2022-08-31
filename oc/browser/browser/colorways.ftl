@@ -19,3 +19,5 @@ expressionist-colorway-description = Vesètz lo monde diferentament e vòstras c
 visionary-colorway-name = Visionari-ària
 visionary-colorway-description = Questionatz los estatuts quo e incitatz los autres a imaginar un futur melhor.
 activist-colorway-name = Activista
+activist-colorway-description = Rendètz lo monde melhor qu’èra quand lo trobèretz e menatz los autres a creire al cambiament.
+dreamer-colorway-name = Somiatz
