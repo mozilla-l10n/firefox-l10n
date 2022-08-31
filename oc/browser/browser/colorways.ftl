@@ -21,3 +21,5 @@ visionary-colorway-description = Questionatz los estatuts quo e incitatz los aut
 activist-colorway-name = Activista
 activist-colorway-description = Rendètz lo monde melhor qu’èra quand lo trobèretz e menatz los autres a creire al cambiament.
 dreamer-colorway-name = Somiatz
+innovator-colorway-name = Innovatz
+innovator-colorway-description = Vesètz d’oportunitats pertot e afectatz la vida de vòstre monde.

@@ -9,3 +9,4 @@ callout-primary-complete-button-label = Plan comprés !
 
 ## Firefox View feature tour strings
 
+callout-firefox-view-colorways-title = Botatz de color
