@@ -19,9 +19,33 @@ pictureinpicture-close =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+pictureinpicture-pause-cmd =
+    .aria-label = Pausa
+    .title = Pausa (barra d’espaci)
+pictureinpicture-play-cmd =
+    .aria-label = Legir
+    .title = Legir (barra d’espaci)
+pictureinpicture-mute-cmd =
+    .aria-label = Amudir
+    .title = Amudir ({ $shortcut })
+pictureinpicture-unmute-cmd =
+    .aria-label = Restablir lo son
+    .title = Restablir lo son ({ $shortcut })
+pictureinpicture-close-cmd =
+    .aria-label = Tampar
+    .title = Tampar ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = Sostitoles
+    .title = Sostitoles
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Ecran complet
+    .title = Ecran complet (clic doble)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Quitar l’ecran complet
+    .title = Quitar l’ecran complet (clic doble)
 pictureinpicture-subtitles-label = Sostitoles
 pictureinpicture-font-size-label = Talha de polissa
 pictureinpicture-font-size-small = Pichona
