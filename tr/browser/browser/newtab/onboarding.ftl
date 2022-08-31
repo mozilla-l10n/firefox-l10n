@@ -267,6 +267,14 @@ mr2022-onboarding-secondary-skip-button-label = Bu adımı atla
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Harika bir internete yelken açın
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = { -brand-short-name } tarayıcısını tek bir tıklamayla başlatın. { -brand-short-name } tarayıcınızı her kullandığınızda daha açık ve bağımsız bir web’i desteklemiş oluyorsunuz.
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } uygulamasını Dock’ta tut
+       *[other] { -brand-short-name } uygulamasını görev çubuğuma sabitle
+    }
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -302,12 +310,14 @@ mr2022-onboarding-colorway-label-playmaker = Oyun Kurucu
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Oyun Kurucu
 mr2022-onboarding-colorway-description-playmaker = <b>Siz bir oyun kurucusunuz.</b> Hem kazanmanızı sağlayacak hem de çevrenizdeki herkese fayda sağlayacak fırsatlar yaratıyorsunuz.
-mr2022-onboarding-colorway-label-expressionist = Ekspresyonist
+mr2022-onboarding-colorway-label-expressionist = Dışavurumcu
 mr2022-onboarding-colorway-tooltip-expressionist =
-    .title = Ekspresyonist
+    .title = Dışavurumcu
+mr2022-onboarding-colorway-description-expressionist = <b>Siz bir dışavurumcusunuz.</b> Dünyayı farklı görüyorsunuz ve eserleriniz başkalarının duygularını harekete geçiriyor.
 mr2022-onboarding-colorway-label-visionary = Vizyoner
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Vizyoner
+mr2022-onboarding-colorway-description-visionary = <b>Siz bir vizyonersiniz.</b> Statükoyu sorguluyor ve insanları daha iyi bir gelecek hayal etmeye yönlendiriyorsunuz.
 mr2022-onboarding-colorway-label-activist = Aktivist
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Aktivist
@@ -319,14 +329,23 @@ mr2022-onboarding-colorway-description-dreamer = <b>Siz bir hayalperestsiniz.</b
 mr2022-onboarding-colorway-label-innovator = Yenilikçi
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Yenilikçi
+mr2022-onboarding-colorway-description-innovator = <b>Siz bir yenilikçisiniz.</b> Her yerde fırsatları görüyor ve çevrenizdeki herkesin hayatında bir etki yaratıyorsunuz.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Bilgisayardan telefona, telefondan bilgisayar atlayın
+mr2022-onboarding-mobile-download-cta-text = { -brand-product-name } mobil uygulamasını indirmek için QR kodunu okutun veya <a data-l10n-name="download-label">kendinize indirme linkini gönderin</a>.
+mr2022-onboarding-no-mobile-download-cta-text = { -brand-product-name } mobil uygulamasını indirmek için QR kodunu okutun.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Çerezleriniz ve geçmişiniz kaydedilmesin. Hiç kimse izlemiyormuş gibi gezin.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } gizli gezintiyi Dock’ta tut
+       *[other] { -brand-short-name } gizli gezintiyi görev çubuğuma sabitle
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
