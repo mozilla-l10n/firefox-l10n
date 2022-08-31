@@ -927,7 +927,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Motors de recèrca
     .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = Accions rapidas
+    .accesskey = A
 addressbar-suggestions-settings = Cambiar las preferéncias per las suggestions del motor de recèrca
+addressbar-quickactions-learn-more = Ne saber mai
 
 ## Privacy Section - Content Blocking
 
