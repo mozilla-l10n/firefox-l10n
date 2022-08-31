@@ -55,3 +55,4 @@ pocket-panel-home-explore-more = រុករក
 
 ## Pocket panel buttons
 
+pocket-panel-button-show-all = បង្ហាញ​ទាំងអស់
