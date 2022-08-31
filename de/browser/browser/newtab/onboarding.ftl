@@ -321,6 +321,30 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Aus vorherigem Br
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Wähle die Farbe, die dich inspiriert
+mr2022-onboarding-colorway-subtitle = Unabhängige Stimmen können die Kultur verändern.
+mr2022-onboarding-colorway-primary-button-label = Farbwelt festlegen
+mr2022-onboarding-colorway-label-default = Standard
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Standard
+mr2022-onboarding-colorway-label-playmaker = Spielmacher
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Spielmacher
+mr2022-onboarding-colorway-label-expressionist = Expressionist
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Expressionist
+mr2022-onboarding-colorway-label-visionary = Visionär
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Visionär
+mr2022-onboarding-colorway-label-activist = Aktivist
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Aktivist
+mr2022-onboarding-colorway-label-dreamer = Träumer
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Träumer
+mr2022-onboarding-colorway-label-innovator = Innovator
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Innovator
 
 ## MR2022 Multistage Mobile Download screen strings
 
