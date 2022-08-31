@@ -14,7 +14,7 @@ colorway-collection-independent-voices-short-description = Kültürü değiştir
 
 playmaker-colorway-name = Oyun Kurucu
 playmaker-colorway-description = Hem kazanmanızı sağlayacak hem de çevrenizdeki herkese fayda sağlayacak fırsatlar yaratıyorsunuz.
-expressionist-colorway-name = Ekspresyonist
+expressionist-colorway-name = Dışavurumcu
 expressionist-colorway-description = Dünyayı farklı görüyorsunuz ve eserleriniz başkalarının duygularını harekete geçiriyor.
 visionary-colorway-name = Vizyoner
 visionary-colorway-description = Statükoyu sorguluyor ve insanları daha iyi bir gelecek hayal etmeye yönlendiriyorsunuz.
