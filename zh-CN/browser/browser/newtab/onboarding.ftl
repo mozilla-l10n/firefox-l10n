@@ -335,6 +335,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = 尊重您的隐私是我们不变的承诺
+mr2022-onboarding-privacy-segmentation-button-primary-label = 使用 { -brand-product-name } 推荐
 mr2022-onboarding-privacy-segmentation-button-secondary-label = 显示详细信息
 
 ## MR2022 Multistage Gratitude screen strings
