@@ -10,6 +10,7 @@ export-page-title = Sifeḍ
 import-start = Kter ifecka
 import-from-app = Kter seg usnas
 import-file = Kter-d seg ufaylu
+import-file-title = Fren afaylu iwumi ara d-tketreḍ agbur-is.
 export-profile = Sifeḍ
 
 ## Buttons
