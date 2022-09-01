@@ -223,6 +223,7 @@ mr2-onboarding-start-browsing-button-label = Commencer la navigation
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Choisissez votre langue
+mr2022-onboarding-live-language-text = { -brand-short-name } parle votre langue
 onboarding-live-language-button-label-downloading = Téléchargement du paquetage linguistique en { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Obtention des langues disponibles…
 onboarding-live-language-installing = Installation du paquetage linguistique en { $negotiatedLanguage }…
@@ -260,6 +261,14 @@ mr2022-onboarding-secondary-skip-button-label = Ignorer cette étape
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Lancez { -brand-short-name } depuis n’importe où en un seul clic. Chaque fois que vous le faites, vous choisissez un Web plus ouvert et indépendant.
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Conserver { -brand-short-name } dans le Dock
+       *[other] Épingler { -brand-short-name } à la barre des tâches
+    }
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -271,15 +280,19 @@ mr2022-onboarding-secondary-skip-button-label = Ignorer cette étape
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = Configurer en quelques secondes
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Configuration ultra-rapide
+mr2022-onboarding-import-primary-button-label-no-attribution = Importer depuis un autre navigateur
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Choisissez la couleur qui vous inspire
 mr2022-onboarding-existing-colorway-checkbox-label = Faites de la { -firefox-home-brand-name } votre page d’accueil colorée
 mr2022-onboarding-colorway-label-default = Par défaut
 mr2022-onboarding-colorway-tooltip-default =
@@ -318,7 +331,6 @@ mr2022-onboarding-colorway-description-innovator = <b>Pionnier/Pionnière :</b>
 
 ## MR2022 Privacy Segmentation screen strings
 
-mr2022-onboarding-privacy-segmentation-primary-button-label = Recommandations de { -brand-product-name }
 
 ## MR2022 Multistage Gratitude screen strings
 
