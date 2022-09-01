@@ -342,6 +342,10 @@ mr2022-onboarding-colorway-description-innovator = <b>Þú ert frumkvöðull.</b
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Stökktu úr fartölvu í síma og til baka aftur
+mr2022-onboarding-mobile-download-subtitle = Gríptu flipa úr einu tæki og haltu áfram þar sem frá var horfið á öðru tæki. Auk þess geturðu samstillt bókamerkin þín og lykilorð alls staðar þar sem þú notar { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Skannaðu QR-kóðann til að fá { -brand-product-name } fyrir farsíma eða <a data-l10n-name="download-label">sendu sjálfum þér niðurhalstengil.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Skannaðu QR-kóðann til að sækja { -brand-product-name } fyrir farsíma
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -357,6 +361,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Við virðum alltaf friðhelgi þína
+mr2022-onboarding-privacy-segmentation-subtitle = Við erum stöðugt að vinna að því að búa til betri og persónulegri { -brand-product-name }, allt frá snjöllum tillögum til betri leitar.
 
 ## MR2022 Multistage Gratitude screen strings
 
