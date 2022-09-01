@@ -279,7 +279,7 @@ mr2022-onboarding-pin-primary-button-label =
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Započńće z wobhladowakom, kotryž so wot powšitkownosći wužitneje organizacije podpěruje. Škitamy wašu priwatnosć, mjeztym zo w interneće hawroniće.
+mr2022-onboarding-set-default-only-subtitle = Započńće z wobhladowakom, kotryž so wot powšitkownosći wužitneje organizacije podpěruje. Škitamy wašu priwatnosć, mjeztym zo po interneće hawroniće.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -289,7 +289,7 @@ mr2022-onboarding-existing-pin-header = Wulki dźak, zo { -brand-product-name } 
 mr2022-onboarding-existing-pin-subtitle = Startujće strowši internet zwotkelžkuli z jednym kliknjenjom. Naša najnowša aktualizacija je połna nowych wěcow, wo kotrychž sej myslimy, zo budźeće je smjerć lubować.
 # Subtitle will be used on the welcome screen for existing users
 # when they already have Firefox pinned but not set as default
-mr2022-onboarding-existing-set-default-only-subtitle = Wužiwajće wobhladowak, kotryž wašu priwatnosć škita, mjeztym zo w interneće hawroniće. Naša najnowša aktualizacija je połna nowych wěcow, kotrež smjerć lubujuće.
+mr2022-onboarding-existing-set-default-only-subtitle = Wužiwajće wobhladowak, kotryž wašu priwatnosć škita, mjeztym zo pointerneće hawroniće. Naša najnowša aktualizacija je połna nowych wěcow, kotrež smjerć lubujeće.
 mr2022-onboarding-existing-pin-checkbox-label = Přidajće tež priwatny modus { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
