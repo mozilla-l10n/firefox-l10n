@@ -300,16 +300,45 @@ mr2022-onboarding-get-started-primary-button-label = Settu upp á nokkrum sekún
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = Uppsetning í einum grænum
+mr2022-onboarding-import-primary-button-label-no-attribution = Flytja inn úr fyrri vafra
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Veldu litinn sem veitir þér innblástur
+mr2022-onboarding-colorway-subtitle = Óháðar raddir geta breytt menningunni.
+mr2022-onboarding-colorway-primary-button-label = Stilla litasett
+mr2022-onboarding-existing-colorway-checkbox-label = Gerðu { -firefox-home-brand-name } að litríku upphafssíðunni þinni
 mr2022-onboarding-colorway-label-default = Sjálfgefið
 mr2022-onboarding-colorway-tooltip-default =
     .title = Sjálfgefið
 mr2022-onboarding-colorway-description-default = <b>Nota núverandi { -brand-short-name } litina mína.</b>
+mr2022-onboarding-colorway-label-playmaker = Leikstjórnandi
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Leikstjórnandi
+mr2022-onboarding-colorway-description-playmaker = <b>Þú ert leikstjórnandi.</b> Þú skapar tækifæri til árangurs og hjálpar öllum í kringum þig að verða betri.
+mr2022-onboarding-colorway-label-expressionist = Expressjónisti
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Expressjónisti
+mr2022-onboarding-colorway-description-expressionist = <b>Þú ert expressjónisti.</b> Þú sérð heiminn öðruvísi og sköpun þín vekur tilfinningar annarra.
+mr2022-onboarding-colorway-label-visionary = Framsýni
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Framsýni
+mr2022-onboarding-colorway-description-visionary = <b>Þú ert framsýn hugsjónamanneskja.</b> Þú efast um óbreytt ástand og færð aðra til að ímynda sér betri framtíð.
+mr2022-onboarding-colorway-label-activist = Aðgerðarsinni
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Aðgerðarsinni
+mr2022-onboarding-colorway-description-activist = <b>Þú ert aðgerðarsinni.</b> Þú skilur heiminn eftir sem betri stað en þú fannst hann og færð aðra til að trúa á málstaðinn.
+mr2022-onboarding-colorway-label-dreamer = Dreymandi
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Dreymandi
+mr2022-onboarding-colorway-description-dreamer = <b>Þú ert draumóramaður.</b> Þú trúir því að örlögin séu hagstæð þeim djörfu og hvetur aðra til að vera hugrakkir.
+mr2022-onboarding-colorway-label-innovator = Frumkvöðull
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Frumkvöðull
+mr2022-onboarding-colorway-description-innovator = <b>Þú ert frumkvöðull.</b> Þú sérð tækifæri alls staðar og hefur áhrif á líf allra í kringum þig.
 
 ## MR2022 Multistage Mobile Download screen strings
 
