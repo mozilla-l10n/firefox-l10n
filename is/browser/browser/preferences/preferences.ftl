@@ -1095,6 +1095,12 @@ addon-recommendations-link = Fræðast meira
 collection-health-report-disabled = Gagnaskýrslur eru óvirkar í þessari útgáfu
 collection-backlogged-crash-reports-with-link = Leyfa { -brand-short-name } að senda bakraktar hrunskýrslur fyrir þína hönd <a data-l10n-name="crash-reports-link">Frekari upplýsingar</a>
     .accesskey = y
+privacy-segmentation-section-header = Nýir eiginleikar sem bæta vafrið þitt
+privacy-segmentation-section-description = Þegar við bjóðum upp á eiginleika sem nota gögnin þín til að veita þér persónulegri upplifun:
+privacy-segmentation-radio-off =
+    .label = Nota ráðleggingar frá { -brand-product-name }
+privacy-segmentation-radio-on =
+    .label = Sýna nánari upplýsingar
 
 ## Privacy Section - Security
 ##

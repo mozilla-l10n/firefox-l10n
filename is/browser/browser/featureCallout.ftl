@@ -9,4 +9,5 @@ callout-primary-complete-button-label = Ég skil!
 
 ## Firefox View feature tour strings
 
+callout-firefox-view-recently-closed-title = Fáðu aftur lokaða flipa á einni svipstundu
 callout-firefox-view-colorways-title = Bættu við skvettu af lit
