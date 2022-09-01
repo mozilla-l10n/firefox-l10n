@@ -273,7 +273,7 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Ver Extras
 quickactions-cmd-addons = extras, extensões, temas
 # Opens the bookmarks library window
@@ -309,6 +309,9 @@ quickactions-cmd-screenshot = captura de ecrã
 # Opens about:preferences
 quickactions-settings = Abrir Definições
 quickactions-cmd-settings = configurações, preferências, opções
+# Opens about:addons page in the themes section
+quickactions-themes = Gerir temas
+quickactions-cmd-themes = temas
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Atualizar o { -brand-short-name }
 quickactions-cmd-update = atualizar
