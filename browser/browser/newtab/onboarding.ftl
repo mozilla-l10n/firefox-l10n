@@ -362,8 +362,13 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = Við virðum alltaf friðhelgi þína
 mr2022-onboarding-privacy-segmentation-subtitle = Við erum stöðugt að vinna að því að búa til betri og persónulegri { -brand-product-name }, allt frá snjöllum tillögum til betri leitar.
+mr2022-onboarding-privacy-segmentation-text-cta = Hvað viltu sjá þegar við bjóðum upp á nýja eiginleika, sem nota gögnin þín til að bæta vafrið þitt?
+mr2022-onboarding-privacy-segmentation-button-primary-label = Nota ráðleggingar frá { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Sýna nánari upplýsingar
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Þú hjálpar okkur að við byggja upp betri vef.
+mr2022-onboarding-gratitude-subtitle = Takk fyrir að nota { -brand-short-name }, sem stutt er af Mozilla Foundation. Með stuðningi þínum erum við að vinna að því að gera internetið opnara, aðgengilegra og betra fyrir alla.
 mr2022-onboarding-gratitude-primary-button-label = Sjáðu hvað er nýtt á seyði
 mr2022-onboarding-gratitude-secondary-button-label = Byrjaðu að vafra
