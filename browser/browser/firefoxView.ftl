@@ -15,8 +15,8 @@ firefoxview-close-button =
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Newydd ddigwydd
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Ail gychwyn tab
-firefoxview-tabpickup-description = Agor tudalennau o ddyfeisiau eraill.
+firefoxview-tabpickup-header = Ail agor tabiau
+firefoxview-tabpickup-description = Agorwch dudalennau o ddyfeisiau eraill.
 firefoxview-tabpickup-recenttabs-description = Byddai rhestr tabiau diweddar yn mynd yma
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
@@ -50,7 +50,7 @@ firefoxview-mobile-promo-primarybutton = Cael { -brand-product-name } ar gyfer s
 firefoxview-mobile-confirmation-header = Barod i fynd!
 firefoxview-mobile-confirmation-description = Nawr gallwch chi gydio ar eich tabiau { -brand-product-name } o'ch tabled neu ffôn.
 firefoxview-closed-tabs-title = Caewyd yn ddiweddar
-firefoxview-closed-tabs-description = Ailagor tudalennau rydych chi wedi'u cau ar y ddyfais hon.
+firefoxview-closed-tabs-description = Ail agorwch dudalennau rydych chi wedi'u cau ar y ddyfais hon.
 firefoxview-closed-tabs-placeholder = <strong>Dim tudalennau sydd wedi cau yn ddiweddar</strong><br/>Peidiwch byth ag ofni colli tab wedi ei gau eto. Gallwch chi bob amser ei adfer yma.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Gweithgaredd diwethaf
