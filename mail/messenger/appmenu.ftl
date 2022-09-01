@@ -6,6 +6,7 @@
 ## View / Layout
 
 appmenu-font-size-value = Maint Ffont
+appmenu-mail-uidensity-value = Dwysedd
 appmenuitem-font-size-enlarge =
     .tooltiptext = Cynyddu Maint Ffont
 appmenuitem-font-size-reduce =
