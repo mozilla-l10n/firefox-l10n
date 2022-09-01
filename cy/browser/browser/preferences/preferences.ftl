@@ -1111,6 +1111,12 @@ addon-recommendations-link = Dysgu rhagor
 collection-health-report-disabled = Mae adrodd ar ddata wedi ei analluogi ar gyfer ffurfweddiad yr adeiledd hwn
 collection-backlogged-crash-reports-with-link = Caniatáu i { -brand-short-name } anfon adroddiadau chwalu sydd wedi'u crynhoi ar eich rhan <a data-l10n-name="crash-reports-link">Dysgu rhagor</a>
     .accesskey = C
+privacy-segmentation-section-header = Nodweddion newydd sy'n gwella eich pori
+privacy-segmentation-section-description = Pan fyddwn yn cynnig nodweddion sy'n defnyddio'ch data i roi profiad mwy personol i chi:
+privacy-segmentation-radio-off =
+    .label = Defnyddio argymhellion { -brand-product-name }
+privacy-segmentation-radio-on =
+    .label = Dangos gwybodaeth fanwl
 
 ## Privacy Section - Security
 ##

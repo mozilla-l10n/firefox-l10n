@@ -376,9 +376,9 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = Rydym wastad yn parchu eich preifatrwydd
 mr2022-onboarding-privacy-segmentation-subtitle = O awgrymiadau deallus i chwilio clyfrach, rydym yn gweithio'n gyson i greu { -brand-product-name } gwell, mwy personol.
-mr2022-onboarding-privacy-segmentation-cta-text = Pan fyddwn yn cynnig nodweddion newydd sy'n defnyddio'ch data i wella'ch pori, a ydych chi am weld:
-mr2022-onboarding-privacy-segmentation-primary-button-label = Argymhellion { -brand-product-name }
-mr2022-onboarding-privacy-segmentation-secondary-button-label = Gwybodaeth fanwl
+mr2022-onboarding-privacy-segmentation-text-cta = Beth hoffech chi ei weld pan fyddwn yn cynnig nodweddion newydd sy'n defnyddio'ch data i gyfoethogi eich pori?
+mr2022-onboarding-privacy-segmentation-button-primary-label = Defnyddio argymhellion { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Dangos gwybodaeth fanwl
 
 ## MR2022 Multistage Gratitude screen strings
 
