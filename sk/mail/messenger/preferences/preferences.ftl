@@ -684,7 +684,7 @@ preview-label = Ukážka:
 no-preview-label = K dispozícii nie je žiadny náhľad
 no-preview-description = Táto téma vzhľadu nie je platná alebo je momentálne nedostupná (zakázaný doplnok, núdzový režim…).
 chat-variant-label =
-    .value = Varianta:
+    .value = Variant:
     .accesskey = V
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
