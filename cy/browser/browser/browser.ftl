@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Gweld Ychwanegion
 quickactions-cmd-addons = ychwanegion, estyniadau, themâu
+quickactions-cmd-addons2 = ychwanegion
 # Opens the bookmarks library window
 quickactions-bookmarks = Gweld Nodau Tudalen
 quickactions-cmd-bookmarks = nodau tudalen
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = clirio hanes
 # Opens about:downloads page
 quickactions-downloads = Agor y Llwythi
 quickactions-cmd-downloads = llwythi
+# Opens about:addons page in the extensions section
+quickactions-extensions = Rheoli estyniadau
+quickactions-cmd-extensions = estyniadau
 # Opens the devtools web inspector
 quickactions-inspector = Agor yr Archwilydd
 quickactions-cmd-inspector = arolygydd, devtools
 # Opens about:logins
 quickactions-logins = Gweld Mewngofnodion
 quickactions-cmd-logins = mewngofnodion, cyfrineiriau
+# Opens about:addons page in the plugins section
+quickactions-plugins = Rheoli ategion
+quickactions-cmd-plugins = ategion
 # Opens the print dialog
 quickactions-print = Argraffu
 quickactions-cmd-print = argraffu
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = llun sgrin
 # Opens about:preferences
 quickactions-settings = Agor y Gosodiadau
 quickactions-cmd-settings = gosodiadau, dewisiadau, opsiynau
+# Opens about:addons page in the themes section
+quickactions-themes = Rheoli themâu
+quickactions-cmd-themes = themâu
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Diweddaru { -brand-short-name }
 quickactions-cmd-update = diweddaru
