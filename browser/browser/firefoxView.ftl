@@ -38,7 +38,6 @@ firefoxview-tabpickup-network-offline-header = Verifique a sua ligação à Inte
 firefoxview-tabpickup-network-offline-description = Se está a utilizar uma firewall ou proxy, verifique se o { -brand-short-name } tem permissão para aceder à Internet.
 firefoxview-tabpickup-network-offline-primarybutton = Tentar novamente
 firefoxview-tabpickup-sync-error-header = Estamos com problemas para sincronizar
-firefoxview-tabpickup-sync-error-description = O { -brand-short-name } não pode aceder ao serviço de momento. Tente novamente daqui a uns instantes.
 firefoxview-tabpickup-sync-error-primarybutton = Tentar novamente
 firefoxview-tabpickup-syncing = Aguarde enquanto os seus separadores estão a ser sincronizados. Será apenas um momento.
 firefoxview-mobile-promo-header = Obter separadores do seu telemóvel ou tablet
@@ -47,8 +46,6 @@ firefoxview-mobile-promo-primarybutton = Obtenha o { -brand-product-name } para 
 firefoxview-mobile-confirmation-header = 🎉 Tudo pronto!
 firefoxview-mobile-confirmation-description = Agora pode obter os seus separadores do { -brand-product-name } a partir do seu tablet ou telemóvel.
 firefoxview-closed-tabs-title = Fechados recentemente
-firefoxview-closed-tabs-collapse-button =
-    .title = Mostrar ou ocultar a lista de separadores fechados recentemente
 firefoxview-closed-tabs-description = Reabrir as páginas que fechou neste dispositivo.
 firefoxview-closed-tabs-placeholder = <strong>Nenhuma página fechada recentemente</strong><br/>Nunca mais tenha receio de perder um separador fechado. Pode sempre recuperar o mesmo aqui.
 # refers to the last tab that was used
@@ -65,3 +62,7 @@ firefoxview-change-colorway-button = Alterar estilo de cor
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>Ainda não há nada para ver</strong><br/>Da próxima vez que abrir uma página no { -brand-product-name } noutro dispositivo, obtenha-a aqui como por magia.
+firefoxview-collapse-button-show =
+    .title = Mostrar lista
+firefoxview-collapse-button-hide =
+    .title = Esconder lista
