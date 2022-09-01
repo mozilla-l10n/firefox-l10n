@@ -64,3 +64,6 @@ experimental-features-ime-search-description = Offeryn yw IME (Golygydd Dull Mew
 experimental-features-text-recognition =
     .label = Adnabod Testun
 experimental-features-text-recognition-description = Galluogi nodweddion i adnabod testun mewn delweddau.
+experimental-features-accessibility-cache =
+    .label = Storfa hygyrchedd
+experimental-features-accessibility-cache-description = Yn cadw'r holl wybodaeth hygyrchedd o bob dogfen ym mhrif broses { -brand-short-name }. Mae hyn yn gwella perfformiad ar gyfer darllenwyr sgrin a rhaglenni eraill sy'n defnyddio APIs hygyrchedd.
