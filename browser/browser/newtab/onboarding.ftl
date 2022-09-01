@@ -275,11 +275,21 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] { -brand-short-name } w doku wobchowaś
        *[other] Pśipěśo { -brand-short-name } k nadawkowej rědce
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Zachopśo z wobglědowakom, kótaryž se wót za wše wužytneje organizacije pódpěra. Šćitamy wašu priwatnosć, mjaztym až pó interneśe tšochtaśo.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Wjeliki źěk, až { -brand-product-name } lubujośo
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Startujśo strowšy internet wótkulžkuli z jadnym kliknjenim. Naša nejnowša aktualizacija jo połna nowych wěcow, wó kótarychž se myslimy, až buźośo je wjelgin lubowaś.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Wužywajśo wobglědowak, kótaryž wašu priwatnosć šćita, mjaztym až pó interneśe tšochtaśo. Naša nejnowša aktualizacija jo połna nowych wěcow, kótarež wjelgin lubujośo.
 mr2022-onboarding-existing-pin-checkbox-label = Pśidajśo teke priwatny modus { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
@@ -287,6 +297,9 @@ mr2022-onboarding-existing-pin-checkbox-label = Pśidajśo teke priwatny modus {
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = Cyńśo { -brand-short-name } k swójomu spušćobnemu wobglědowakoju
 mr2022-onboarding-set-default-primary-button-label = Nastajśo { -brand-short-name } ako standardny wobglědowak
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Wužywajśo wobglědowak, kótaryž se wót za wše wužytneje organizacije pódpěra. Šćitamy wašu priwatnosć, mjaztym až pó interneśe tšochtaśo.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
