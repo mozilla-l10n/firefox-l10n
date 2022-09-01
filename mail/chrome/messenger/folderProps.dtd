@@ -30,7 +30,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "σ">
 
 <!ENTITY folderSynchronizationTab.label          "Συγχρονισμός">
-<!ENTITY folderCheckForNewMessages2.label         "Κατά τη λήψη μηνυμάτων από αυτόν το λογαριασμό, να γίνεται πάντα έλεγχος αυτού του φακέλου">
+<!ENTITY folderCheckForNewMessages2.label         "Κατά τη λήψη νέων μηνυμάτων από τον λογαριασμό, να γίνεται πάντα έλεγχος αυτού του φακέλου">
 <!ENTITY folderCheckForNewMessages2.accesskey     "φ">
 
 <!ENTITY offlineFolder.check.label               "Επιλογή αυτού του φακέλου για εργασία χωρίς σύνδεση">
