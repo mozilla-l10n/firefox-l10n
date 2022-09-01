@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Skoða viðbætur
 quickactions-cmd-addons = viðbætur, forritsaukar, þemu
+quickactions-cmd-addons2 = viðbætur
 # Opens the bookmarks library window
 quickactions-bookmarks = Skoða bókamerki
 quickactions-cmd-bookmarks = bókamerki
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = hreinsa feril
 # Opens about:downloads page
 quickactions-downloads = Opna sóttar skrár
 quickactions-cmd-downloads = sóttar skrár
+# Opens about:addons page in the extensions section
+quickactions-extensions = Sýsla með forritsauka
+quickactions-cmd-extensions = forritsviðaukar
 # Opens the devtools web inspector
 quickactions-inspector = Opna Inspector
 quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins = Skoða innskráningar
 quickactions-cmd-logins = innskráningar, lykilorð
+# Opens about:addons page in the plugins section
+quickactions-plugins = Sýsla með tengiforrit
+quickactions-cmd-plugins = tengiforrit
 # Opens the print dialog
 quickactions-print = Prenta
 quickactions-cmd-print = prenta
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = skjámynd
 # Opens about:preferences
 quickactions-settings = Opna stillingar
 quickactions-cmd-settings = stillingar, kjörstillingar, valkostir
+# Opens about:addons page in the themes section
+quickactions-themes = Sýsla með þemu
+quickactions-cmd-themes = þemu
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Uppfæra { -brand-short-name }
 quickactions-cmd-update = uppfærsla
