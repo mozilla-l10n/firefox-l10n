@@ -267,6 +267,8 @@ mr2022-onboarding-secondary-skip-button-label = Toś ten kšac pśeskócyś
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Namakajśo wjelicny internet
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Startujśo { -brand-short-name } wótkulžkuli z jadnym kliknjenim. Kuždy raz, gaž to cyniśo, wóliśo wěcej wótwórjony a njewótwisny web.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
