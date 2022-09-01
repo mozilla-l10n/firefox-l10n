@@ -16,17 +16,39 @@ firefoxview-close-button =
 firefoxview-just-now-timestamp = ara meteis
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = Recuperacion d’onglets
+firefoxview-tabpickup-description = Dobrissètz de paginas d’autres aparelhs.
+firefoxview-tabpickup-recenttabs-description = La lista dels onglets recents apreissarà aquí
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% acabat
 firefoxview-tabpickup-step-signin-primarybutton = Contunhar
+firefoxview-tabpickup-adddevice-header = Sincronizatz { -brand-product-name } amb vòstre telefòn o vòstra tauleta
+firefoxview-tabpickup-adddevice-description = Telecargatz { -brand-product-name } per mobil e connectatz-vos enlai.
 firefoxview-tabpickup-adddevice-learn-how = Ne saber mai
 firefoxview-tabpickup-adddevice-primarybutton = Installatz { -brand-product-name } per mobil
+firefoxview-tabpickup-synctabs-header = Activar la sincronizacion dels onglets
+firefoxview-tabpickup-synctabs-description = Autorizatz { -brand-short-name } a partejar los onglets entre vòstres aparelhs.
 firefoxview-tabpickup-synctabs-learn-how = M’ensenhar cossí far
+firefoxview-tabpickup-synctabs-primarybutton = Sincronizar los onglets dobèrts
+firefoxview-tabpickup-fxa-admin-disabled-header = Vòstra organizacion a desactivat la sincronizacion
+firefoxview-tabpickup-network-offline-header = Verificatz la connexion Internet
 firefoxview-tabpickup-network-offline-primarybutton = Tornar ensajar
 firefoxview-tabpickup-sync-error-primarybutton = Tornar ensajar
 firefoxview-mobile-confirmation-header = 🎉 Tot es prèst !
 firefoxview-closed-tabs-title = Tampats recentament
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Darrièr actiu
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Dobrir { $targetURI } dins un onglet novèl
+firefoxview-try-colorways-button = Ensajatz Colorways
+firefoxview-no-current-colorway-collection = De novèls colorits son en camin
+firefoxview-change-colorway-button = Cambiar de colorits
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-collapse-button-show =
     .title = Afichar la lista
 firefoxview-collapse-button-hide =
