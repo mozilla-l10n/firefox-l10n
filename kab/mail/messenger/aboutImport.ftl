@@ -11,6 +11,7 @@ import-start = Kter ifecka
 import-from-app = Kter seg usnas
 import-file = Kter-d seg ufaylu
 import-file-title = Fren afaylu iwumi ara d-tketreḍ agbur-is.
+import-calendar-title = Kter afaylu n uwitay
 export-profile = Sifeḍ
 
 ## Buttons
