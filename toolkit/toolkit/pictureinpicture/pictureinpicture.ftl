@@ -43,6 +43,12 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = ਪੂਰੀ ਸਕਰੀਨ
+    .title = ਪੂਰੀ ਸਕਰੀਨ (ਦੋ ਵਾਰ ਕਲਿੱਕ)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = ਪੂਰੀ ਸਕਰੀਨ ਤੋਂ ਬਾਹਰ
+    .title = ਪੂਰੀ ਸਕਰੀਨ ਤੋਂ ਬਾਹਰ (ਦੋ ਵਾਰ ਕਲਿੱਕ)
 pictureinpicture-subtitles-label = ਸਬ-ਟਾਈਟਲ
 pictureinpicture-font-size-label = ਫ਼ੋਂਟ ਦਾ ਆਕਾਰ
 pictureinpicture-font-size-small = ਛੋਟੇ

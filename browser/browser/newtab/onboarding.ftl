@@ -287,23 +287,48 @@ mr2022-onboarding-existing-pin-checkbox-label = { -brand-short-name } ਪ੍ਰ�
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = { -brand-short-name } ਨੂੰ ਆਪਣਾ ਫਿਰਤੂ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
 mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } ਨੂੰ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = ਗ਼ੈਰ-ਫਾਇਦੇ ਵਲੋਂ ਸਮਰੱਥਨ ਮਿਲੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਵਰਤੋਂ। ਤੁਹਾਡੇ ਵਲੋਂ ਵੈੱਬ ਦੇ ਫੇਰੇ ਲਾਉਣ ਦੌਰਾਨ ਅਸੀਂ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦੀ ਸੁਰੱਖਿਆ ਕਰਦੇ ਹਾਂ।
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = ਸਕਿੰਟਾਂ ਵਿੱਚ ਸੈਟਅੱਪ ਕਰੋ
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = ਨ੍ਹੇਰੀ ਵਰਗਾ ਤੇਜ਼ ਸੈਟਅੱਪ
+mr2022-onboarding-import-subtitle = { -brand-short-name } ਨੂੰ ਜਿਵੇਂ ਤੁਸੀਂ ਚਾਹੋ, ਉਵੇਂ ਸੈਟਅੱਪ ਕਰੋ। ਆਪਣੇ ਪੁਰਾਣੇ ਬਰਾਊਜ਼ਰ ਤੋਂ ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਅਤੇ ਕਈ ਕੁਝ ਜੋੜੋ।
+mr2022-onboarding-import-primary-button-label-no-attribution = ਪਿਛਲੇ ਬਰਾਊਜ਼ਰ ਤੋਂ ਦਰਾਮਦ ਕਰੋ
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = ਰੰਗ ਚੁਣੋ, ਜੋ ਤੁਹਾਡੇ ਦਿਲ ਨੂੰ ਖਿੱਚ ਪਾਉਣ
+mr2022-onboarding-colorway-subtitle = ਆਜ਼ਾਦ ਆਵਾਜ਼ਾਂ, ਜੋ ਕਿ ਸੱਭਿਆਚਾਰ ਨੂੰ ਬਦਲ ਸਕਦੀਆਂ ਹਨ।
+mr2022-onboarding-colorway-primary-button-label = ਰੰਗ-ਢੰਗ ਲਾਓ
+mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } ਆਪਣਾ ਰੰਗਦਾਰ ਮੁੱਖ-ਸਫ਼ਾ ਬਣਾਓ
+mr2022-onboarding-colorway-label-default = ਡਿਫਾਲਟ
+mr2022-onboarding-colorway-tooltip-default =
+    .title = ਡਿਫਾਲਟ
+mr2022-onboarding-colorway-description-default = <b>ਮੇਰੇ ਮੌਜੂਦਾ { -brand-short-name } ਰੰਗਾਂ ਨੂੰ ਵਰਤੋਂ।</b>
+mr2022-onboarding-colorway-label-playmaker = ਪਲੇਅਮੇਕਰ
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = ਪਲੇਅਮੇਕਰ
+mr2022-onboarding-colorway-label-visionary = ਭਵਿੱਖਦਰਸ਼ੀ
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = ਭਵਿੱਖਦਰਸ਼ੀ
+mr2022-onboarding-colorway-label-dreamer = ਸੁਪਨਸਾਜ਼
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = ਸੁਪਨਸਾਜ਼
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = ਲੈਪਟਾਪ ਤੋਂ ਫ਼ੋਨ ਉੱਤੇ ਜਾਓ ਅਤੇ ਫੇਰ ਵਾਪਸ ਆਓ
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -311,6 +336,13 @@ mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } ਨ�
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = ਅਸੀਂ ਹਮੇਸ਼ਾਂ ਤੁਹਾਡੀ ਪਰਰੇਦਾਰੀ ਦਾ ਸਤਿਕਾਰ ਕਰਦੇ ਹਾਂ
+mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name } ਸਿਫ਼ਾਰਸ਼ਾਂ ਨੂੰ ਵਰਤੋਂ
+mr2022-onboarding-privacy-segmentation-button-secondary-label = ਵੇਰਵੇ ਸਮੇਤ ਜਾਣਕਾਰੀ ਵੇਖਾਓ
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = ਤੁਸੀਂ ਸਾਨੂੰ ਹੋਰ ਵਧੀਆ ਵੈੱਬ ਬਣਾਉਣ ਲਈ ਮਦਦ ਕਰ ਰਹੇ ਹੋ।
+mr2022-onboarding-gratitude-subtitle = { -brand-short-name }, ਜਿਸ ਨੂੰ Mozilla Foundation ਵਲੋਂ ਸਹਿਯੋਗ ਮਿਲਦਾ ਹੈ, ਵਰਤਣ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਹੈ। ਤੁਹਾਡੀ ਮਦਦ ਨਾਲ ਅਸੀਂ ਇੰਟਰਨੈੱਟ ਨੂੰ ਹਰ ਕਿਸੇ ਲਈ ਵੱਧ ਆਜ਼ਾਦ, ਪਹੁੰਚ ਵਿੱਚ ਅਤੇ ਹੋਰ ਵਧੀਆ ਬਣਾਉਣ ਲਈ ਕੰਮ ਕਰ ਰਹੇ ਹਾਂ।
+mr2022-onboarding-gratitude-primary-button-label = ਵੇਖੋ ਕਿ ਨਵਾਂ ਕੀ ਹੈ
+mr2022-onboarding-gratitude-secondary-button-label = ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ

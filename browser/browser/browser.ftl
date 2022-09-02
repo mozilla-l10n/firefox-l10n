@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = ਐਡ-ਆਨ ਨੂੰ ਦੇਖੋ
 quickactions-cmd-addons = ਐਡ-ਆਨ, ਇਕਸਟੈਨਸਨ, ਥੀਮ
+quickactions-cmd-addons2 = ਐਡ-ਆਨ
 # Opens the bookmarks library window
 quickactions-bookmarks = ਬੁੱਕਮਾਰਕ ਵੇਖੋ
 quickactions-cmd-bookmarks = ਬੁੱਕਮਾਰਕ
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = ਅਤੀਤ ਮਿਟਾਓ
 # Opens about:downloads page
 quickactions-downloads = ਡਾਊਨਲੋਡ ਨੂੰ ਖੋਲ੍ਹੋ
 quickactions-cmd-downloads = ਡਾਊਨਲੋਡ
+# Opens about:addons page in the extensions section
+quickactions-extensions = ਇਕਸਟੈਨਸ਼ਨ ਦਾ ਇੰਤਜ਼ਾਮ
+quickactions-cmd-extensions = ਇਕਸਟੈਨਸ਼ਨ
 # Opens the devtools web inspector
 quickactions-inspector = ਇੰਸਪੈਸਕਟਰ ਖੋਲ੍ਹੋ
 quickactions-cmd-inspector = ਇੰਸਪੈਕਟਰ, ਡਿਵ-ਟੂਲ
 # Opens about:logins
 quickactions-logins = ਲਾਗਇਨ ਵੇਖੋ
 quickactions-cmd-logins = ਲਾਗਇਨ, ਪਾਸਵਰਡ
+# Opens about:addons page in the plugins section
+quickactions-plugins = ਪਲੱਗਇਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+quickactions-cmd-plugins = ਪਲੱਗਇਨ
 # Opens the print dialog
 quickactions-print = ਪਰਿੰਟ ਕਰੋ
 quickactions-cmd-print = ਪਰਿੰਟ ਕਰੋ
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = ਸਕਰੀਨਸ਼ਾਟ
 # Opens about:preferences
 quickactions-settings = ਸੈਟਿੰਗਾਂ ਨੂੰ ਖੋਲ੍ਹੋ
 quickactions-cmd-settings = ਸੈਟਿੰਗਾਂ, ਮੇਰੀਆਂ ਪਸੰਦਾਂ, ਚੋਣਾਂ
+# Opens about:addons page in the themes section
+quickactions-themes = ਥੀਮਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+quickactions-cmd-themes = ਥੀਮ
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ
 quickactions-cmd-update = ਅੱਪਡੇਟ ਕਰੋ
