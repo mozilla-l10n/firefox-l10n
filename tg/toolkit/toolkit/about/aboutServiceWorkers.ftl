@@ -7,6 +7,13 @@
 
 about-service-workers-title = Дар бораи коргузорони хизматрасонӣ
 about-service-workers-main-title = Коргузорони хизматрасонии бақайдгирифташуда
+about-service-workers-warning-not-enabled = Коргузорони хизматрасонӣ фаъол нестанд.
+about-service-workers-warning-no-service-workers = Ягон коргузори хизматрасонӣ ба қайд гирифта нашуд.
+# The original title of service workers' information
+#
+# Variables:
+#   $originTitle: original title
+origin-title = Манбаъ: { $originTitle }
 
 ## These strings are for showing the information of workers.
 ##
@@ -14,6 +21,7 @@ about-service-workers-main-title = Коргузорони хизматрасон
 ##  $name: the name of scope, active cache, waiting cache and the push end point.
 ##  $url: the url of script specification and current worker.
 
+scope = <strong>Соҳа:</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = Навсозӣ кардан
 unregister-button = Аз қайд гирифтан
