@@ -262,12 +262,31 @@ mr2022-onboarding-secondary-skip-button-label = ਇਹ ਪਗ਼ ਛੱਡੋ
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = ਸ਼ਾਨਦਾਰ ਇੰਟਰਨੈੱਟ ਖੋਲ੍ਹੋ
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = ਸਿਰਫ਼ ਇੱਕ ਕਲਿੱਕ ਨਾਲ ਕਿਤੋਂ ਵੀ { -brand-short-name } ਚਲਾਓ। ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਚਲਾਓ ਤਾਂ ਤੁਸੀਂ ਵੱਧ ਬੇਫ਼ਿਕਰ ਅਤੇ ਆਜ਼ਾਦ ਵੈੱਬ ਚੁਣਦੇ ਹੋ।
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } ਡੌਕ ਵਿੱਚ ਰੱਖੋ
+       *[other] { -brand-short-name } ਟਾਸਕਬਾਰ ਵਿੱਚ ਟੰਗੋ
+    }
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = ਪਿਆਰੇ { -brand-product-name }  ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ
+mr2022-onboarding-existing-pin-checkbox-label = { -brand-short-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਵੀ ਜੋੜੋ
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = { -brand-short-name } ਨੂੰ ਆਪਣਾ ਫਿਰਤੂ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
+mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } ਨੂੰ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
