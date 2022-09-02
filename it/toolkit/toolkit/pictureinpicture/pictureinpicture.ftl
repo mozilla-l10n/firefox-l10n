@@ -43,6 +43,14 @@ pictureinpicture-exit-fullscreen-cmd =
   .aria-label = Esci da schermo intero
   .title = Esci da schermo intero (doppio clic)
 
+pictureinpicture-seekbackward-cmd =
+  .aria-label = Indietro
+  .title = Indietro (←)
+
+pictureinpicture-seekforward-cmd =
+  .aria-label = Avanti
+  .title = Avanti (→)
+
 pictureinpicture-pause =
     .aria-label = Pausa
 pictureinpicture-play =
