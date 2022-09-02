@@ -275,17 +275,31 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] { -brand-short-name } uygulamasını Dock’ta tut
        *[other] { -brand-short-name } uygulamasını görev çubuğuma sabitle
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Kâr amacı gütmeyen bir tarayıcıyla yola çıkın. Siz internette dolaşın, biz gizliliğinizi koruyalım.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = { -brand-product-name }’u sevdiğiniz için teşekkürler
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Tek bir tıklamayla daha sağlıklı bir internete adım atın. En son güncellememiz, seveceğinizi düşündüğümüz yeniliklerle dolu.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = İnternette dolaşırken gizliliğinizi koruyan tarayıcıyı kullanın. En son güncellememiz, seveceğinizi düşündüğümüz yeniliklerle dolu.
+mr2022-onboarding-existing-pin-checkbox-label = { -brand-short-name } gizli gezinti kısayolunu da ekle
 
 ## MR2022 New User Set Default screen strings
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = { -brand-short-name }’u varsayılan tarayıcınız yapın
 mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } tarayıcısını varsayılan tarayıcım yap
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Kâr amacı gütmeyen bir tarayıcıyla yola çıkın. Siz internette dolaşın, biz gizliliğinizi koruyalım.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -294,7 +308,7 @@ mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } taray
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Yeni sürümümüz web’de gezinmenizi daha da kolaylaştıracak özelliklerle dolu.
-mr2022-onboarding-get-started-primary-button-label = Kuruluma başla
+mr2022-onboarding-get-started-primary-button-label = Ayarlamaya başla
 
 ## MR2022 Import Settings screen strings
 
@@ -360,6 +374,8 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Gizliliğinize her zaman saygı duyuyoruz
+mr2022-onboarding-privacy-segmentation-subtitle = Akıllı öneriler ve akıllı arama gibi özelliklerimizle daha kişisel bir { -brand-product-name } yaratmak için sürekli çalışıyoruz.
+mr2022-onboarding-privacy-segmentation-text-cta = İnternet gezintilerinizi geliştirmek için verilerinizi kullanan yeni özellikler sunduğumuzda ne görmek istersiniz?
 mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name } önerilerini kullan
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Ayrıntılı bilgileri göster
 
