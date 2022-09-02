@@ -16,7 +16,7 @@
 <!ENTITY deniedPortAccess.title "Tilgjenge til denne adressa er avgrensa">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Tenar ikkje funnen">
+<!ENTITY dnsNotFound.title "Fann ikkje tenaren">
 <!ENTITY dnsNotFound.longDesc "<ul>  <li>Kontroller om det er skrivefeil i adressa, til dømes <strong>ww</strong>.example.com i staden for <strong>www</strong>.example.com</li>  <li>Dersom du ikkje greier å lasta nettsider, kontroller at nettverksambandet til datamaskina er i orden.</li>  <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, kontroller at &brandShortName; har løyve til å bruka Internett.</li> </ul> ">
 
 <!ENTITY fileNotFound.title "Fann ikkje fila">
