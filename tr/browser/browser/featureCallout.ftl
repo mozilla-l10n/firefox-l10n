@@ -9,6 +9,10 @@ callout-primary-complete-button-label = Anladım
 
 ## Firefox View feature tour strings
 
+# "Tab pickup" refers to the section in Firefox View that displays open
+# tabs from other devices
+callout-firefox-view-tab-pickup-title = Sekma taşıma ile cihazlarınız arasında geçiş yapın
+callout-firefox-view-tab-pickup-subtitle = Telefonunuzdaki açık sekmeleri daha rahat incelemek için bilgisayarınızda açabilirsiniz.
 callout-firefox-view-recently-closed-title = Kapattığınız sekmeleri bir çırpıda tekrar açın
 callout-firefox-view-recently-closed-subtitle = Kapattığınız tüm sekmeler burada görünecek. Artık siteleri yanlışlıkla kapatmaktan korkmanıza gerek yok.
 callout-firefox-view-colorways-title = Renklendirin

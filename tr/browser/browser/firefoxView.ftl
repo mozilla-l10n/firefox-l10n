@@ -15,7 +15,7 @@ firefoxview-close-button =
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Az önce
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Sekme aktarımı
+firefoxview-tabpickup-header = Sekme taşıma
 firefoxview-tabpickup-description = Diğer cihazlarınızdaki sayfaları açın.
 firefoxview-tabpickup-recenttabs-description = Son sekmelerin listesi buraya gelecek
 # Variables:
@@ -51,7 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 Her şey hazır!
 firefoxview-mobile-confirmation-description = Artık { -brand-product-name } sekmelerinize tabletinizden ve telefonunuzdan ulaşabilirsiniz.
 firefoxview-closed-tabs-title = Son kapatılanlar
 firefoxview-closed-tabs-description = Bu cihazda kapattığınız sayfaları yeniden açın.
-firefoxview-closed-tabs-placeholder = <strong>Yakın zamanda kapatılan sayfa yok<strong><br/>Ama kapattığınız sekmeleri kaybetmekten korkmanıza da gerek. Kapattığınız sekmeleri istediğiniz zaman buradan tekrar açabilirsiniz.
+firefoxview-closed-tabs-placeholder = <strong>Yakın zamanda kapatılan sayfa yok</strong><br/>Kapattığınız sekmeleri kaybetmekten korkmayın. Kapattığınız sekmeleri istediğiniz zaman buradan tekrar açabilirsiniz.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Son bakılan
 # Variables:
