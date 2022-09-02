@@ -66,3 +66,4 @@ experimental-features-text-recognition =
 experimental-features-text-recognition-description = Resimlerdeki metinleri tanıma özelliklerini etkinleştir.
 experimental-features-accessibility-cache =
     .label = Erişilebilirlik önbelleği
+experimental-features-accessibility-cache-description = { -brand-short-name } ana işleminde bulunan tüm belgelerin tüm erişilebilirlik bilgilerini önbelleğe alır. Bu sayede erişilebilirlik API'lerini kullanan ekran okuyucuların ve diğer uygulamaların performansı atar.
