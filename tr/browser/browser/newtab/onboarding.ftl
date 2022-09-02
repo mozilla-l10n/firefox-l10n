@@ -278,19 +278,28 @@ mr2022-onboarding-pin-primary-button-label =
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = { -brand-product-name }’u sevdiğiniz için teşekkürler
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = { -brand-short-name }’u varsayılan tarayıcınız yapın
+mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } tarayıcısını varsayılan tarayıcım yap
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
-mr2022-onboarding-get-started-primary-button-label = Saniyeler içinde kurun
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Yeni sürümümüz web’de gezinmenizi daha da kolaylaştıracak özelliklerle dolu.
+mr2022-onboarding-get-started-primary-button-label = Kuruluma başla
 
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = Işık hızında kurulum
+mr2022-onboarding-import-subtitle = { -brand-short-name } tarayıcınızı istediğiniz gibi ayarlayın. İsterseniz eski tarayıcınızdaki yer imlerinizi, parolalarınızı ve diğer verilerinizi alabiliriz.
 mr2022-onboarding-import-primary-button-label-no-attribution = Önceki tarayıcımdan içe aktar
 
 ## If your language uses grammatical genders, in the description for the
@@ -340,6 +349,7 @@ mr2022-onboarding-no-mobile-download-cta-text = { -brand-product-name } mobil uy
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Tek tıklamayla gizli gezintiye başlayın
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Çerezleriniz ve geçmişiniz kaydedilmesin. Hiç kimse izlemiyormuş gibi gezin.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
@@ -356,5 +366,6 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Ayrıntılı bil
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Daha iyi bir web inşa etmemize yardım ediyorsunuz.
+mr2022-onboarding-gratitude-subtitle = Mozilla Vakfı tarafından geliştirilen { -brand-short-name } tarayıcısını kullandığınız için teşekkür ederiz. Desteğinizle interneti herkes için daha açık, daha erişilebilir ve daha iyi bir yere dönüştürüyoruz.
 mr2022-onboarding-gratitude-primary-button-label = Yeniliklere bak
 mr2022-onboarding-gratitude-secondary-button-label = Gezinmeye başla
