@@ -58,13 +58,19 @@ autofill-address-parish = Paroisse
 autofill-address-prefecture = Préfecture
 # Used in HK
 autofill-address-area = Zone
+# Used in KR
+autofill-address-do-si = Do/Si
 # Used in NI, CO
 autofill-address-department = Département
 # Used in AE
 autofill-address-emirate = Émirat
+# Used in RU and UA
+autofill-address-oblast = Oblast
 
 ## Postal code name types
 
+# Used in IN
+autofill-address-pin = Pin
 autofill-address-postal-code = Code postal
 autofill-address-zip = Code postal (États-Unis)
 # Used in IE
