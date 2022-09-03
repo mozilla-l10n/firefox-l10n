@@ -7,6 +7,7 @@
 
 autofill-manage-addresses-title = محفوظ شدہ پتے
 autofill-manage-addresses-list-header = پتے
+autofill-manage-credit-cards-title = محفوظ شدہ کریڈٹ کارڈ…
 autofill-manage-credit-cards-list-header = کریڈٹ کارڈز
 autofill-manage-dialog =
     .style = min-width: 560px
