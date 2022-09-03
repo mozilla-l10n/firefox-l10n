@@ -61,6 +61,11 @@ translation-notification-options-menu =
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = Mai translatar { $langName }
+    .accesskey = N
 translation-notification-options-never-for-site =
     .label = Mai per questa pagina
     .accesskey = e
