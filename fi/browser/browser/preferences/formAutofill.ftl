@@ -29,20 +29,34 @@ autofill-address-street = Katuosoite
 
 ## address-level-3 (Sublocality) names
 
+# Used in IE
+autofill-address-townland = Alue
 
 ## address-level-2 names
 
 autofill-address-city = Kaupunki
+# Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
+autofill-address-district = Alue
+# Used in GB, NO, SE
+autofill-address-post-town = Postitoimipaikka
 
 ## address-level-1 names
 
 autofill-address-province = Maakunta
 autofill-address-state = Osavaltio
+# Used in KR
+autofill-address-do-si = Do/Si
+# Used in NI, CO
+autofill-address-department = Departementti
 
 ## Postal code name types
 
+# Used in IN
+autofill-address-pin = Postinumero
 autofill-address-postal-code = Postinumero
 autofill-address-zip = Postinumero
+# Used in IE
+autofill-address-eircode = Eircode
 
 ##
 
@@ -57,8 +71,19 @@ autofill-add-new-card-title = Lisää uusi luottokortti
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Muokkaa luottokorttia
 autofill-card-number = Luottokortti
+autofill-card-invalid-number = Kirjoita kelvollinen luottokortin numero
 autofill-card-name-on-card = Nimi kortissa
 autofill-card-billing-address = Laskutusosoite
+autofill-card-network = Kortin tyyppi
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = American Express
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = Discover
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
+autofill-card-network-visa = Visa
