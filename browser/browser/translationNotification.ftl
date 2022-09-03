@@ -59,6 +59,11 @@ translation-notification-service-unavailable =
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = Никад не преводи { $langName }
+    .accesskey = Н
 translation-notification-options-never-for-site =
     .label = Никад не преводи овај сајт
     .accesskey = и
