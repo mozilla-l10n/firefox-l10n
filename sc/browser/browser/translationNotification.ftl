@@ -21,6 +21,8 @@ translation-notification-translate-this-page =
 
 translation-notification-translate-button =
     .label = Tradue
+translation-notification-not-now-button =
+    .label = Immoe nono
 translation-notification-translating-content =
     .value = Traduende su cuntenutu de sa pàgina…
 
