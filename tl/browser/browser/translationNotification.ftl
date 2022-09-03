@@ -56,9 +56,16 @@ translation-notification-try-again-button =
     .label = Ulitin
 translation-notification-service-unavailable =
     .value = Ang pagsasalin ay hindi magagamit sa sandaling ito. Subukang muli mamaya.
+translation-notification-options-menu =
+    .label = Mga pagpipilian
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = Hindi kailanman isalin ang { $langName }
+    .accesskey = N
 translation-notification-options-never-for-site =
     .label = Huwag kailanman isalin ang site na ito
     .accesskey = e
