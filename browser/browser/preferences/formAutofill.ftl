@@ -88,6 +88,14 @@ autofill-country-warning-message = Saat ini fitur IsiOtomatis Formulir hanya ter
 autofill-add-new-card-title = Tambahkan Kartu Kredit Baru
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Edit Kartu Kredit
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] menampilkan informasi kartu kredit.
+        [windows] { -brand-short-name } berusaha menampilkan informasi kartu kredit. Konfirmasikan akses ke akun Windows di bawah ini.
+       *[other] { -brand-short-name } berusaha menampilkan informasi kartu kredit.
+    }
 autofill-card-number = Nomor Kartu
 autofill-card-invalid-number = Masukkan nomor kartu yang valid
 autofill-card-name-on-card = Nama pada Kartu
