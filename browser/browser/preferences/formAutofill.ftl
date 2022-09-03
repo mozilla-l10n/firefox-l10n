@@ -9,6 +9,8 @@ autofill-manage-addresses-title = العناوين المحفوظة
 autofill-manage-addresses-list-header = العناوين
 autofill-manage-credit-cards-title = بطاقات الائتمان المحفوظة
 autofill-manage-credit-cards-list-header = بطاقات الائتمان
+autofill-manage-dialog =
+    .style = min-width: 560px
 autofill-manage-remove-button = أزِل
 autofill-manage-add-button = أضِف…
 autofill-manage-edit-button = حرّر…
@@ -22,6 +24,7 @@ autofill-edit-address-title = حرّر العنوان
 autofill-address-given-name = الاسم الأول
 autofill-address-additional-name = الاسم الأوسط
 autofill-address-family-name = الاسم الأخير
+autofill-address-organization = المؤسسة
 autofill-address-street = عنوان الشارع
 
 ## address-level-3 (Sublocality) names
@@ -35,6 +38,7 @@ autofill-address-suburb = الضاحية
 
 ## address-level-1 names
 
+autofill-address-province = المقاطعة
 autofill-address-state = الولاية
 autofill-address-county = البلد
 # Used in BB, JM
@@ -47,6 +51,7 @@ autofill-address-department = القِسم
 ## Postal code name types
 
 autofill-address-postal-code = الرمز البريدي
+autofill-address-zip = الرمز البريدي
 
 ##
 
@@ -73,6 +78,7 @@ autofill-card-invalid-number = رجاءً أدخِل اسم بطاقة سليم
 autofill-card-name-on-card = الاسم على البطاقة
 autofill-card-expires-month = شهر انقضاء الصلاحية
 autofill-card-expires-year = سنة انقضاء الصلاحية
+autofill-card-billing-address = عنوان إرسال الفواتير
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
