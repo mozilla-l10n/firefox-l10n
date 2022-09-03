@@ -21,6 +21,8 @@ translation-notification-translate-this-page =
 
 translation-notification-translate-button =
     .label = Owerset
+translation-notification-not-now-button =
+    .label = No Jist Noo
 translation-notification-translating-content =
     .value = Owersettin page content…
 
@@ -52,6 +54,8 @@ translation-notification-error-translating =
     .value = There has been a mishanter owersettin this page.
 translation-notification-try-again-button =
     .label = Try Aince Mair
+translation-notification-service-unavailable =
+    .value = Owersettin isnae available the noo. Gie it anither shot later on.
 translation-notification-options-menu =
     .label = Options
 
