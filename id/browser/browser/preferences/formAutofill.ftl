@@ -33,22 +33,41 @@ autofill-address-street = Jalan
 autofill-address-neighborhood = Neighborhood
 # Used in MY
 autofill-address-village-township = Desa atau Kotamadya
+autofill-address-island = Pulau
 # Used in IE
 autofill-address-townland = Kota kecil
 
 ## address-level-2 names
 
 autofill-address-city = Kota
+# Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
+autofill-address-district = Distrik
 
 ## address-level-1 names
 
 autofill-address-province = Provinsi
 autofill-address-state = Negara Bagian
+# Used in JP
+autofill-address-prefecture = Prefektur
+# Used in HK
+autofill-address-area = Wilayah
+# Used in KR
+autofill-address-do-si = Do/Si
+# Used in NI, CO
+autofill-address-department = Departemen
+# Used in AE
+autofill-address-emirate = Emirat
+# Used in RU and UA
+autofill-address-oblast = Oblast
 
 ## Postal code name types
 
+# Used in IN
+autofill-address-pin = Pin
 autofill-address-postal-code = Kode Pos
 autofill-address-zip = Kode Pos
+# Used in IE
+autofill-address-eircode = Eircode
 
 ##
 
@@ -65,6 +84,8 @@ autofill-edit-card-title = Edit Kartu Kredit
 autofill-card-number = Nomor Kartu
 autofill-card-invalid-number = Masukkan nomor kartu yang valid
 autofill-card-name-on-card = Nama pada Kartu
+autofill-card-expires-month = Bulan Kedaluwarsa
+autofill-card-expires-year = Tahun Kedaluwarsa
 autofill-card-billing-address = Alamat Tagihan
 autofill-card-network = Jenis Kartu
 
