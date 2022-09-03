@@ -12,9 +12,19 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = Þessi síða á
+translation-notification-translate-this-page =
+    .value = Þýða þessa síðu?
 
 ##
 
+translation-notification-translate-button =
+    .label = Þýða
+translation-notification-not-now-button =
+    .label = Ekki núna
+translation-notification-translating-content =
+    .value = Þýði innihald síðu…
 
 ## These 3 strings are used to construct a sentence that contains 2 dropdowns
 ## showing the source and target language of a translated web page.
@@ -25,9 +35,29 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-translated-from =
+    .value = Þessi síða var þýtt úr
+translation-notification-translated-to =
+    .value = til
+# This string (empty in en-US) is for locales that need to display some text
+# after the second drop down for the sentence to be grammatically correct.
+translation-notification-translated-to-suffix =
+    .value = { "" }
 
 ##
 
+translation-notification-show-original-button =
+    .label = Sýna upphaflegt
+translation-notification-show-translation-button =
+    .label = Sýna þýðingu
+translation-notification-error-translating =
+    .value = Upp kom villa við að þýða þessa síðu.
+translation-notification-try-again-button =
+    .label = Reyna aftur
+translation-notification-service-unavailable =
+    .value = Þýðing er ekki aðgengileg eins og stendur. Reyndu aftur seinna.
+translation-notification-options-menu =
+    .label = Valkostir
 
 ## The accesskey values used here should not clash with each other
 
@@ -39,3 +69,6 @@ translation-notification-options-never-for-language =
 translation-notification-options-never-for-site =
     .label = Aldrei þýða þetta vefsvæði
     .accesskey = e
+translation-notification-options-preferences =
+    .label = Valkostir þýðinga
+    .accesskey = t
