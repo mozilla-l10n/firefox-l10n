@@ -88,6 +88,14 @@ autofill-country-warning-message = Samodejno izpolnjevanje obrazcev je trenutno 
 autofill-add-new-card-title = Dodaj novo kreditno kartico
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Uredi kreditno kartico
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] show credit card information
+        [windows] { -brand-short-name } poskuša prikazati podatke o kreditni kartici. Spodaj potrdite dostop do tega računa Windows.
+       *[other] { -brand-short-name } poskuša prikazati podatke o kreditni kartici.
+    }
 autofill-card-number = Številka kartice
 autofill-card-invalid-number = Vnesite veljavno številko kartice
 autofill-card-name-on-card = Ime na kartici
