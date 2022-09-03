@@ -54,11 +54,18 @@ translation-notification-error-translating =
     .value = Tulkojot lapu notikusi kļūda.
 translation-notification-try-again-button =
     .label = Mēģināt vēlreiz
+translation-notification-service-unavailable =
+    .value = Tulkošana šobrīd nav pieejama. Lūdzu mēģiniet vēlreiz nedaudz vēlāk.
 translation-notification-options-menu =
     .label = Iestatījumi
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = Nekad netulkot { $langName }
+    .accesskey = N
 translation-notification-options-never-for-site =
     .label = Nekad netulkot šo lapu
     .accesskey = e
