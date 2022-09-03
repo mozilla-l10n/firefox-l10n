@@ -29,10 +29,21 @@ autofill-address-street = عنوان الشارع
 
 ## address-level-3 (Sublocality) names
 
+# Used in IR, MX
+autofill-address-neighborhood = الحي
+# Used in MY
+autofill-address-village-township = البلدة
+autofill-address-island = الجزيرة
+# Used in IE
+autofill-address-townland = الأرض
 
 ## address-level-2 names
 
 autofill-address-city = المدينة
+# Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
+autofill-address-district = المنطقة
+# Used in GB, NO, SE
+autofill-address-post-town = أنزل
 # Used in AU as Address Level-2 and used in ZZ as Sublocality.
 autofill-address-suburb = الضاحية
 
@@ -47,11 +58,19 @@ autofill-address-parish = الأبرشيّة
 autofill-address-area = المنطقة
 # Used in NI, CO
 autofill-address-department = القِسم
+# Used in AE
+autofill-address-emirate = الإمارة
+# Used in RU and UA
+autofill-address-oblast = المقاطعة
 
 ## Postal code name types
 
+# Used in IN
+autofill-address-pin = الرمز البريدي
 autofill-address-postal-code = الرمز البريدي
 autofill-address-zip = الرمز البريدي
+# Used in IE
+autofill-address-eircode = الرمز البريدي الأيرلندي
 
 ##
 
