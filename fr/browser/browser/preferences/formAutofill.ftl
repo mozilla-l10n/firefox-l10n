@@ -42,11 +42,14 @@ autofill-address-townland = Commune
 autofill-address-city = Ville
 # Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
 autofill-address-district = Arrondissement
+# Used in GB, NO, SE
+autofill-address-post-town = Ville postale
 # Used in AU as Address Level-2 and used in ZZ as Sublocality.
 autofill-address-suburb = Banlieue
 
 ## address-level-1 names
 
+autofill-address-province = Province
 autofill-address-state = État
 autofill-address-county = Comté
 # Used in BB, JM
@@ -93,6 +96,16 @@ autofill-card-name-on-card = Titulaire
 autofill-card-expires-month = Mois d’expiration
 autofill-card-expires-year = Année d’expiration
 autofill-card-billing-address = Adresse de facturation
+autofill-card-network = Type de carte
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = American Express
+autofill-card-network-cartebancaire = Carte bancaire
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = Discover
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
+autofill-card-network-visa = Visa
