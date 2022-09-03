@@ -29,20 +29,52 @@ autofill-address-street = Strata adreso
 
 ## address-level-3 (Sublocality) names
 
+# Used in IR, MX
+autofill-address-neighborhood = Kvartalo
+# Used in MY
+autofill-address-village-township = Vilaĝo aŭ municipo
+autofill-address-island = Insulo
+# Used in IE
+autofill-address-townland = Urbo
 
 ## address-level-2 names
 
 autofill-address-city = Urbo
+# Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
+autofill-address-district = Distrikto
+# Used in GB, NO, SE
+autofill-address-post-town = Poŝta urbo
+# Used in AU as Address Level-2 and used in ZZ as Sublocality.
+autofill-address-suburb = Suburbo
 
 ## address-level-1 names
 
 autofill-address-province = Provinco
 autofill-address-state = Ŝtato
+autofill-address-county = Municipo
+# Used in BB, JM
+autofill-address-parish = Paroĥo
+# Used in JP
+autofill-address-prefecture = Prefektejo
+# Used in HK
+autofill-address-area = Regiono
+# Used in KR
+autofill-address-do-si = Do/Si
+# Used in NI, CO
+autofill-address-department = Departamento
+# Used in AE
+autofill-address-emirate = Emirlando
+# Used in RU and UA
+autofill-address-oblast = Sendependa provinco
 
 ## Postal code name types
 
+# Used in IN
+autofill-address-pin = Poŝta kodo (Pin)
 autofill-address-postal-code = Poŝtkodo
 autofill-address-zip = Kodo Zip
+# Used in IE
+autofill-address-eircode = Koda poŝto (Eircode)
 
 ##
 
@@ -57,8 +89,21 @@ autofill-add-new-card-title = Aldoni novan kreditkarton
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Redakti kreditkarton
 autofill-card-number = Numero de karto
+autofill-card-invalid-number = Bonvolu tajpi validan kartan numeron
 autofill-card-name-on-card = Nomo sur karto
+autofill-card-expires-month = Monato de senvalidiĝo
+autofill-card-expires-year = Jaro de senvalidiĝo
 autofill-card-billing-address = Faktura adreso
+autofill-card-network = Tipo de karto
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = American Express
+autofill-card-network-cartebancaire = Banka karto
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = Discover
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
+autofill-card-network-visa = Visa
