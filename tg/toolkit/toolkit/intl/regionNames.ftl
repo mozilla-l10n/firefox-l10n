@@ -151,6 +151,7 @@ region-name-mf = Сент Мартин
 region-name-mg = Мадагаскар
 region-name-mh = Ҷазираҳои Маршалл
 region-name-mk = Македония
+region-name-mk-2019 = Македонияи Шимолӣ
 region-name-ml = Мали
 region-name-mm = Бирма
 region-name-mn = Муғулистон
