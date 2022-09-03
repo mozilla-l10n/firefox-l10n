@@ -79,7 +79,13 @@ autofill-card-name-on-card = الاسم على البطاقة
 autofill-card-expires-month = شهر انقضاء الصلاحية
 autofill-card-expires-year = سنة انقضاء الصلاحية
 autofill-card-billing-address = عنوان إرسال الفواتير
+autofill-card-network = نوع البطاقة
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-discover = اكتشف
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = ماستِركارد
+autofill-card-network-mir = MIR
+autofill-card-network-visa = ڤيزا
