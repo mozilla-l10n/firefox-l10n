@@ -23,6 +23,12 @@ styleeditor-no-stylesheet = Níl aon stílbhileog ag an leathanach seo.
 styleeditor-no-stylesheet-tip = B'fhéidir gur mhaith leat <a data-l10n-name="append-new-stylesheet">stílbhileog nua a chur leis</a>?
 styleeditor-open-link-new-tab =
     .label = Oscail an Nasc i gCluaisín Nua
+styleeditor-find =
+    .label = Aimsigh
+    .accesskey = A
+styleeditor-find-again =
+    .label = Aimsigh Arís
+    .accesskey = m
 styleeditor-go-to-line =
     .label = Léim go líne…
     .accesskey = L
