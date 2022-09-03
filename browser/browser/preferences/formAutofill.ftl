@@ -6,13 +6,18 @@
 ## The address and credit card autofill management dialog in browser preferences
 
 autofill-manage-credit-cards-list-header = கடன் அட்டைகள்
+autofill-manage-dialog =
+    .style = min-width: 560px
 autofill-manage-remove-button = நீக்கு
 autofill-manage-add-button = சேர்…
 autofill-manage-edit-button = திருத்து…
 
 ##
 
+# The dialog title for editing addresses in browser preferences.
+autofill-edit-address-title = முகவரியைத் திருத்தவும்
 autofill-address-additional-name = நடு பெயர்
+autofill-address-organization = நிறுவனம்
 
 ## address-level-3 (Sublocality) names
 
@@ -31,6 +36,7 @@ autofill-address-state = மாநிலம்
 ##
 
 autofill-address-country = நாடு அல்லது பிராந்தியம்
+autofill-country-warning-message = படிவம் தானியங்குநிரப்பல் தற்போது குறிப்பிட்ட நாடுகளில் மட்டுமே கிடைக்கிறது.
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
