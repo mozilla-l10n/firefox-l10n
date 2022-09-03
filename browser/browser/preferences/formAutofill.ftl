@@ -29,20 +29,52 @@ autofill-address-street = Domicilio
 
 ## address-level-3 (Sublocality) names
 
+# Used in IR, MX
+autofill-address-neighborhood = Vecindario
+# Used in MY
+autofill-address-village-township = Pueblo o municipio
+autofill-address-island = Isla
+# Used in IE
+autofill-address-townland = Townland
 
 ## address-level-2 names
 
 autofill-address-city = Ciudad
+# Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
+autofill-address-district = Distrito
+# Used in GB, NO, SE
+autofill-address-post-town = Ciudad postal
+# Used in AU as Address Level-2 and used in ZZ as Sublocality.
+autofill-address-suburb = Barrio
 
 ## address-level-1 names
 
 autofill-address-province = Provincia
 autofill-address-state = Estado
+autofill-address-county = Condado
+# Used in BB, JM
+autofill-address-parish = Parroquia
+# Used in JP
+autofill-address-prefecture = Prefectura
+# Used in HK
+autofill-address-area = Área
+# Used in KR
+autofill-address-do-si = Do/Si
+# Used in NI, CO
+autofill-address-department = Departamento
+# Used in AE
+autofill-address-emirate = Emirato
+# Used in RU and UA
+autofill-address-oblast = Región
 
 ## Postal code name types
 
+# Used in IN
+autofill-address-pin = Pin
 autofill-address-postal-code = Código postal
 autofill-address-zip = Código postal
+# Used in IE
+autofill-address-eircode = Eircode
 
 ##
 
@@ -74,3 +106,4 @@ autofill-card-network-jcb = JCB
 autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
+autofill-card-network-visa = Visa
