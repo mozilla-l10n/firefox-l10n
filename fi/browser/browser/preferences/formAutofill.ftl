@@ -29,6 +29,11 @@ autofill-address-street = Katuosoite
 
 ## address-level-3 (Sublocality) names
 
+# Used in IR, MX
+autofill-address-neighborhood = Naapurusto
+# Used in MY
+autofill-address-village-township = Kylä tai kaupunki
+autofill-address-island = Saari
 # Used in IE
 autofill-address-townland = Alue
 
@@ -39,15 +44,28 @@ autofill-address-city = Kaupunki
 autofill-address-district = Alue
 # Used in GB, NO, SE
 autofill-address-post-town = Postitoimipaikka
+# Used in AU as Address Level-2 and used in ZZ as Sublocality.
+autofill-address-suburb = Lähiö
 
 ## address-level-1 names
 
 autofill-address-province = Maakunta
 autofill-address-state = Osavaltio
+autofill-address-county = Maakunta
+# Used in BB, JM
+autofill-address-parish = Kirkonkylä
+# Used in JP
+autofill-address-prefecture = Prefektuuri
+# Used in HK
+autofill-address-area = Alue
 # Used in KR
 autofill-address-do-si = Do/Si
 # Used in NI, CO
 autofill-address-department = Departementti
+# Used in AE
+autofill-address-emirate = Emiirikunta
+# Used in RU and UA
+autofill-address-oblast = Oblasti
 
 ## Postal code name types
 
@@ -70,9 +88,19 @@ autofill-country-warning-message = Lomakkeiden automaattitäyttö on tällä het
 autofill-add-new-card-title = Lisää uusi luottokortti
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Muokkaa luottokorttia
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] esittää luottokorttitietoja
+        [windows] { -brand-short-name } yrittää näyttää luottokorttitietoja. Vahvista tämän Windows-tilin käyttöoikeus alla.
+       *[other] { -brand-short-name } yrittää esittää luottokorttitietoja.
+    }
 autofill-card-number = Luottokortti
 autofill-card-invalid-number = Kirjoita kelvollinen luottokortin numero
 autofill-card-name-on-card = Nimi kortissa
+autofill-card-expires-month = Vanhenemiskuukausi
+autofill-card-expires-year = Vanhenemisvuosi
 autofill-card-billing-address = Laskutusosoite
 autofill-card-network = Kortin tyyppi
 
