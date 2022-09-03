@@ -12,6 +12,8 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = ຫນ້ານີ້ເປັນພາສາ
 
 ##
 
