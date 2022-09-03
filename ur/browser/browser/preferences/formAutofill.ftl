@@ -82,6 +82,7 @@ autofill-address-tel = فون
 autofill-address-email = ای میل
 autofill-cancel-button = منسوخ کریں
 autofill-save-button = محفوظ کریں
+autofill-country-warning-message = فارم آٹوفل فی الحال صرف مخصوص ممالک کے لئے دستیاب ہے۔
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = نیا کریڈٹ کارڈ شامل کریں
 # The dialog title for editing credit cards in browser preferences.
