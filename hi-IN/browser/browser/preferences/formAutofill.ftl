@@ -9,6 +9,8 @@ autofill-manage-addresses-title = सहेजे गए पते
 autofill-manage-addresses-list-header = पते
 autofill-manage-credit-cards-title = सहेजे गए क्रेडिट कार्ड
 autofill-manage-credit-cards-list-header = क्रेडिट कार्ड
+autofill-manage-dialog =
+    .style = min-width: 560px
 autofill-manage-remove-button = हटाएँ
 autofill-manage-add-button = जोड़ें…
 autofill-manage-edit-button = संपादित करें…
@@ -49,12 +51,14 @@ autofill-address-tel = फ़ोन
 autofill-address-email = ईमेल
 autofill-cancel-button = रद्द करें
 autofill-save-button = सहेजें
+autofill-country-warning-message = प्रपत्र स्वतः भरने की सुविधा फिलहाल केवल कुछ देशों के लिए उपलब्ध है.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = नया क्रेडिट कार्ड जोड़े
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = क्रेडिट कार्ड संपादित करें
 autofill-card-number = कार्ड नंबर
 autofill-card-name-on-card = कार्ड पर नाम
+autofill-card-billing-address = बिल भेजने का पता
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
