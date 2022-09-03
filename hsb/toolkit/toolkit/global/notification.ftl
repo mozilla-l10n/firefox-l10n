@@ -4,8 +4,9 @@
 
 notification-learnmore-default-label =
     .value = Dalše informacije
-
 # This label is read by screen readers when focusing the close button for an
 # "infobar" (message shown when for example a popup is blocked).
 close-button-label =
     .aria-label = Začinić
+close-notification-message =
+    .tooltiptext = Tutu zdźělenku začinić
