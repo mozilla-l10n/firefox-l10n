@@ -37,6 +37,8 @@ translation-notification-translating-content =
 
 translation-notification-translated-from =
     .value = Esta página ha sido traducida del
+translation-notification-translated-to =
+    .value = para
 # This string (empty in en-US) is for locales that need to display some text
 # after the second drop down for the sentence to be grammatically correct.
 translation-notification-translated-to-suffix =
