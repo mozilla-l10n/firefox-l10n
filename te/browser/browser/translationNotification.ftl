@@ -32,12 +32,24 @@ translation-notification-not-now-button =
 
 ##
 
+translation-notification-show-original-button =
+    .label = అసలును చూపించు
 translation-notification-show-translation-button =
     .label = అనువాదాన్ని చూపించు
+translation-notification-error-translating =
+    .value = ఈ పేజీని అనువదించడంలో ఏదో పొరపాటు జరిగింది.
 translation-notification-try-again-button =
     .label = మళ్ళీ ప్రయత్నించు
 translation-notification-service-unavailable =
     .value = ప్రస్తుతం అనువాద సౌలభ్యం అందుబాటులో లేదు. కాసేపాగి మళ్ళీ ప్రయత్నించండి.
+translation-notification-options-menu =
+    .label = ఎంపికలు
 
 ## The accesskey values used here should not clash with each other
 
+translation-notification-options-never-for-site =
+    .label = ఈ సైటును ఎప్పుడూ అనువదించవద్దు
+    .accesskey = e
+translation-notification-options-preferences =
+    .label = అనువాద అభిరుచులు
+    .accesskey = T
