@@ -35,10 +35,12 @@ autofill-address-city = Πόλη
 
 ## address-level-1 names
 
+autofill-address-province = Επαρχία
 autofill-address-state = Περιφέρεια
 
 ## Postal code name types
 
+autofill-address-postal-code = Ταχυδρομικός κώδικας
 autofill-address-zip = Ταχ. κώδικας
 
 ##
@@ -53,7 +55,21 @@ autofill-add-new-card-title = Προσθήκη νέας πιστωτικής κ�
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Επεξεργασία πιστωτικής κάρτας
 autofill-card-number = Αριθμός κάρτας
+autofill-card-invalid-number = Εισάγετε έναν έγκυρο αριθμό κάρτας
 autofill-card-name-on-card = Όνομα στην κάρτα
+autofill-card-expires-month = Μήνας λήξης
+autofill-card-expires-year = Έτος λήξης
+autofill-card-billing-address = Διεύθυνση χρέωσης
+autofill-card-network = Τύπος κάρτας
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = American Express
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = Discover
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
+autofill-card-network-visa = Visa
