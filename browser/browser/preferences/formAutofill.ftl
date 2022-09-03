@@ -54,6 +54,8 @@ autofill-address-prefecture = Präfektur
 autofill-address-area = Area
 # Used in KR
 autofill-address-do-si = Do/Si
+# Used in NI, CO
+autofill-address-department = Departamento
 # Used in AE
 autofill-address-emirate = Emirat
 # Used in RU and UA
