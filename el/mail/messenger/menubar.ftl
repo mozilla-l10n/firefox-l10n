@@ -17,6 +17,27 @@ menu-addons-and-themes =
 
 ## Help Menu
 
+menu-help-help-title =
+    .label = Βοήθεια
+    .accesskey = Β
+menu-help-get-help =
+    .label = Λήψη βοήθειας
+    .accesskey = ψ
+menu-help-explore-features =
+    .label = Εξερεύνηση λειτουργιών
+    .accesskey = ν
+menu-help-shortcuts =
+    .label = Συντομεύσεις πληκτρολογίου
+    .accesskey = υ
+menu-help-get-involved =
+    .label = Συμμετοχή
+    .accesskey = Σ
+menu-help-donation =
+    .label = Πραγματοποίηση δωρεάς
+    .accesskey = γ
+menu-help-feedback =
+    .label = Υποβολή σχολίων και ιδεών
+    .accesskey = β
 menu-help-enter-troubleshoot-mode =
     .label = Λειτουργία επίλυσης προβλημάτων…
     .accesskey = Λ
@@ -26,6 +47,12 @@ menu-help-exit-troubleshoot-mode =
 menu-help-more-troubleshooting-info =
     .label = Πληροφορίες επίλυσης προβλημάτων
     .accesskey = Π
+menu-help-troubleshooting-info =
+    .label = Πληροφορίες επίλυσης προβλημάτων
+    .accesskey = ο
+menu-help-about-product =
+    .label = Σχετικά με το { -brand-short-name }
+    .accesskey = χ
 
 ## Mail Toolbar
 
