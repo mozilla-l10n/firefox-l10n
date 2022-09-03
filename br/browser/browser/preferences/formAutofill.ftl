@@ -83,11 +83,13 @@ autofill-address-tel = Pellgomz
 autofill-address-email = Chomlec'h postel
 autofill-cancel-button = Nullañ
 autofill-save-button = Enrollañ
+autofill-country-warning-message = Leuniañ emgefreek ar furmskridoù a zo hegerz evit chomlec'hioù broioù ’zo hepken
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Ouzhpennañ ar gartenn gred
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Embann ar gartenn gred
 autofill-card-number = Niverenn ar gartenn
+autofill-card-invalid-number = Roit un niver kartenn dalvoudek mar plij
 autofill-card-name-on-card = Anv war ar gartenn
 autofill-card-expires-month = Miz diamzeriñ
 autofill-card-expires-year = Bloaz diamzeriñ
