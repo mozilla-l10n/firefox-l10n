@@ -42,11 +42,18 @@ autofill-address-townland = Kota kecil
 autofill-address-city = Kota
 # Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
 autofill-address-district = Distrik
+# Used in GB, NO, SE
+autofill-address-post-town = Kode kota
+# Used in AU as Address Level-2 and used in ZZ as Sublocality.
+autofill-address-suburb = Pinggiran kota
 
 ## address-level-1 names
 
 autofill-address-province = Provinsi
 autofill-address-state = Negara Bagian
+autofill-address-county = Kabupaten
+# Used in BB, JM
+autofill-address-parish = Paroki
 # Used in JP
 autofill-address-prefecture = Prefektur
 # Used in HK
