@@ -41,21 +41,39 @@ autofill-address-townland = ٹاؤن لینڈ
 autofill-address-city = شہر
 # Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
 autofill-address-district = ضلع
+# Used in GB, NO, SE
+autofill-address-post-town = پوسٹ ٹاؤن
+# Used in AU as Address Level-2 and used in ZZ as Sublocality.
+autofill-address-suburb = مضافات
 
 ## address-level-1 names
 
 autofill-address-province = صوبہ
 autofill-address-state = ریاست
 autofill-address-county = کاؤنٹی
+# Used in BB, JM
+autofill-address-parish = پیرش
+# Used in JP
+autofill-address-prefecture = کامل
 # Used in HK
 autofill-address-area = علاقہ
+# Used in KR
+autofill-address-do-si = کیا/سی
+# Used in NI, CO
+autofill-address-department = محکمہ
 # Used in AE
 autofill-address-emirate = امارت
+# Used in RU and UA
+autofill-address-oblast = اوبلاست
 
 ## Postal code name types
 
 # Used in IN
 autofill-address-pin = پن
+autofill-address-postal-code = پوسٹل کوڈ
+autofill-address-zip = زپ کوڈ
+# Used in IE
+autofill-address-eircode = ایروکوڈ
 
 ##
 
@@ -64,13 +82,24 @@ autofill-address-tel = فون
 autofill-address-email = ای میل
 autofill-cancel-button = منسوخ کریں
 autofill-save-button = محفوظ کریں
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-new-card-title = نیا کریڈٹ کارڈ شامل کریں
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title = کریڈٹ کارڈ میں ترمیم کریں
 autofill-card-number = کارڈ کا نمبر
 autofill-card-invalid-number = کوئی جائز کار ڈ نمبر داخل کریں
 autofill-card-name-on-card = کارڈ پر نام
+autofill-card-expires-month = اختتامی مہینہ
+autofill-card-expires-year = اختتامی سال
+autofill-card-billing-address = بل کا پتہ
+autofill-card-network = کارڈ کی قسم
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = American Express
 autofill-card-network-cartebancaire = کارٹے بانکیئر
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = دریافت
 autofill-card-network-jcb = JCB
 autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
