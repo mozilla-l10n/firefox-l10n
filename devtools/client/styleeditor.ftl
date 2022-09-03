@@ -23,6 +23,12 @@ styleeditor-no-stylesheet = ទំព័រ​នេះ មិន​មាន​
 styleeditor-no-stylesheet-tip = ប្រហែល​ជា​អ្នក​ចង់<a data-l10n-name="append-new-stylesheet">បន្ថែម​សន្លឹក​រចនាប័ទ្ម​ថ្មី</a>?
 styleeditor-open-link-new-tab =
     .label = បើក​តំណ​ក្នុង​ផ្ទាំង​ថ្មី
+styleeditor-find =
+    .label = រក
+    .accesskey = ក
+styleeditor-find-again =
+    .label = រក​ម្តង​ទៀត
+    .accesskey = ត
 styleeditor-go-to-line =
     .label = លោត​ទៅ​បន្ទាត់...
     .accesskey = ត
