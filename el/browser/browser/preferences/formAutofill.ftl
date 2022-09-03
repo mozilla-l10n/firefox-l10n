@@ -24,29 +24,63 @@ autofill-edit-address-title = Επεξεργασία διεύθυνσης
 autofill-address-given-name = Όνομα
 autofill-address-additional-name = Μεσαίο όνομα
 autofill-address-family-name = Επώνυμο
+autofill-address-organization = Εταιρεία
 autofill-address-street = Διεύθυνση οδού
 
 ## address-level-3 (Sublocality) names
 
+# Used in IR, MX
+autofill-address-neighborhood = Γειτονιά
+# Used in MY
+autofill-address-village-township = Χωριό ή κωμόπολη
+autofill-address-island = Νησί
+# Used in IE
+autofill-address-townland = Κοινότητα
 
 ## address-level-2 names
 
 autofill-address-city = Πόλη
+# Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
+autofill-address-district = Συνοικία
+# Used in GB, NO, SE
+autofill-address-post-town = Πόλη αποστολής
+# Used in AU as Address Level-2 and used in ZZ as Sublocality.
+autofill-address-suburb = Προάστιο
 
 ## address-level-1 names
 
 autofill-address-province = Επαρχία
 autofill-address-state = Περιφέρεια
+autofill-address-county = Κομητεία
+# Used in BB, JM
+autofill-address-parish = Ενορία
+# Used in JP
+autofill-address-prefecture = Νομαρχία
+# Used in HK
+autofill-address-area = Περιοχή
+# Used in KR
+autofill-address-do-si = Do/Si
+# Used in NI, CO
+autofill-address-department = Τμήμα
+# Used in AE
+autofill-address-emirate = Εμιράτο
+# Used in RU and UA
+autofill-address-oblast = Oblast
 
 ## Postal code name types
 
+# Used in IN
+autofill-address-pin = Ταχ. κώδικας
 autofill-address-postal-code = Ταχυδρομικός κώδικας
 autofill-address-zip = Ταχ. κώδικας
+# Used in IE
+autofill-address-eircode = Eircode
 
 ##
 
 autofill-address-country = Χώρα ή περιοχή
 autofill-address-tel = Τηλέφωνο
+autofill-address-email = Email
 autofill-cancel-button = Ακύρωση
 autofill-save-button = Αποθήκευση
 autofill-country-warning-message = Η αυτοσυμπλήρωση φορμών είναι διαθέσιμη μόνο σε ορισμένες χώρες προς το παρόν.
@@ -54,6 +88,14 @@ autofill-country-warning-message = Η αυτοσυμπλήρωση φορμών 
 autofill-add-new-card-title = Προσθήκη νέας πιστωτικής κάρτας
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Επεξεργασία πιστωτικής κάρτας
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] εμφανίσει στοιχεία πιστωτικής κάρτας
+        [windows] Το { -brand-short-name } προσπαθεί να εμφανίσει πληροφορίες πιστωτικών καρτών. Επιβεβαιώστε παρακάτω την πρόσβαση σε αυτό το λογαριασμό Windows.
+       *[other] Το { -brand-short-name } προσπαθεί να εμφανίσει πληροφορίες πιστωτικών καρτών.
+    }
 autofill-card-number = Αριθμός κάρτας
 autofill-card-invalid-number = Εισάγετε έναν έγκυρο αριθμό κάρτας
 autofill-card-name-on-card = Όνομα στην κάρτα
