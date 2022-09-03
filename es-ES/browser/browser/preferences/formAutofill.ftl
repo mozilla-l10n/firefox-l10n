@@ -57,7 +57,10 @@ autofill-add-new-card-title = Añadir nueva tarjeta de crédito
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Editar tarjeta de crédito
 autofill-card-number = Número de tarjeta
+autofill-card-invalid-number = Introduzca un número de tarjeta válido
 autofill-card-name-on-card = Nombre en la tarjeta
+autofill-card-expires-month = Mes cad.
+autofill-card-expires-year = Año cad.
 autofill-card-billing-address = Dirección de facturación
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
