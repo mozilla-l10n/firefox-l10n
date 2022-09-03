@@ -6,3 +6,5 @@ app-picker-browse-button =
     .buttonlabelextra2 = Yeny…
 app-picker-send-msg =
     .value = Cwal jami man bot:
+app-picker-no-app-found =
+    .value = Pe kinongo purugram mo keken pi kit pwail man.
