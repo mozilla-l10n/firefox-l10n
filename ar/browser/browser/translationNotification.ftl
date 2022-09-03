@@ -39,6 +39,10 @@ translation-notification-translated-from =
     .value = تُرجمت هذه الصفحة من اللغة
 translation-notification-translated-to =
     .value = إلى
+# This string (empty in en-US) is for locales that need to display some text
+# after the second drop down for the sentence to be grammatically correct.
+translation-notification-translated-to-suffix =
+    .value = { "" }
 
 ##
 
@@ -48,6 +52,8 @@ translation-notification-show-translation-button =
     .label = اعرض الترجمة
 translation-notification-error-translating =
     .value = حدث خطأ أثناء ترجمة هذه الصفحة.
+translation-notification-try-again-button =
+    .label = حاول مجددًا
 translation-notification-service-unavailable =
     .value = الترجمة ليست متوفرة حاليًا. من فضلك أعد المحاولة لاحقًا.
 translation-notification-options-menu =
