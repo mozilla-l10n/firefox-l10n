@@ -151,6 +151,7 @@ region-name-mf = 산타 마틴
 region-name-mg = 마다카스카르
 region-name-mh = 마샬 군도
 region-name-mk = 마케도니아
+region-name-mk-2019 = 북 마케도니아
 region-name-ml = 말리
 region-name-mm = 미안마
 region-name-mn = 몽고
