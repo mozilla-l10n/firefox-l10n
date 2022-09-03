@@ -39,6 +39,7 @@ autofill-address-townland = 镇
 
 ## address-level-2 names
 
+autofill-address-city = 市
 # Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
 autofill-address-district = 区
 # Used in GB, NO, SE
