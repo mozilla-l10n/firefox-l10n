@@ -29,20 +29,52 @@ autofill-address-street = Rochochib'al B'ey
 
 ## address-level-3 (Sublocality) names
 
+# Used in IR, MX
+autofill-address-neighborhood = Nimachinamït
+# Used in MY
+autofill-address-village-township = Tinamït o Chinamït
+autofill-address-island = Yul
+# Used in IE
+autofill-address-townland = Townland
 
 ## address-level-2 names
 
 autofill-address-city = Tinamït
+# Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
+autofill-address-district = Jachulew
+# Used in GB, NO, SE
+autofill-address-post-town = Post town
+# Used in AU as Address Level-2 and used in ZZ as Sublocality.
+autofill-address-suburb = k'ulb'at
 
 ## address-level-1 names
 
 autofill-address-province = Lajtinamït
 autofill-address-state = Amaq'
+autofill-address-county = Tinamït
+# Used in BB, JM
+autofill-address-parish = Yuq'b'äl
+# Used in JP
+autofill-address-prefecture = Prepektur
+# Used in HK
+autofill-address-area = K'ojlib'äl
+# Used in KR
+autofill-address-do-si = Do/Si
+# Used in NI, CO
+autofill-address-department = Tinamital
+# Used in AE
+autofill-address-emirate = Emirato
+# Used in RU and UA
+autofill-address-oblast = Lajtinamït
 
 ## Postal code name types
 
+# Used in IN
+autofill-address-pin = Ximoj
 autofill-address-postal-code = Rub'itz'ib' B'ow
 autofill-address-zip = Rub'itz'ib' B'ow
+# Used in IE
+autofill-address-eircode = Eircode
 
 ##
 
@@ -56,12 +88,30 @@ autofill-country-warning-message = Ri samaj richin pa Ruyonil Ninojisäx xa xe o
 autofill-add-new-card-title = Titz'aqatisäx K'ak'a Ch'utit'im Pwäq
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Tinuk' ri Ch'utit'im Pwäq
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] tik'ut retamab'al rutarjeta' kre'ito
+        [windows] { -brand-short-name } nutojtob'ej nuk'üt retamab'al ri t'im pwäq. Tajikib'a' okem pa ri rub'i' rutaqoya'l Windows ri k'o ikim.
+       *[other] { -brand-short-name } nutojtob'ej nuk'üt retamab'al ri t'im pwäq.
+    }
 autofill-card-number = Rajilab'al Ch'utit'im
 autofill-card-invalid-number = Titz'ib'äx jun okel rajilab'al ch'utit'im pwäq
 autofill-card-name-on-card = B'i'aj pa ri Ch'utiti'm
 autofill-card-expires-month = Ik' Nik'is
 autofill-card-expires-year = Juna' Nik'is
 autofill-card-billing-address = Rochochib'al rut'unem
+autofill-card-network = Ruwäch Ch'utiwuj
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = American Express
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = Discover
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
+autofill-card-network-visa = Visa
