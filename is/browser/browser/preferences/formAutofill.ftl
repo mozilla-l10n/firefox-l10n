@@ -27,6 +27,13 @@ autofill-address-street = Heimilisfang
 
 ## address-level-3 (Sublocality) names
 
+# Used in IR, MX
+autofill-address-neighborhood = Hverfi
+# Used in MY
+autofill-address-village-township = Þorp eða bæjarfélag
+autofill-address-island = Eyja
+# Used in IE
+autofill-address-townland = Bæjarland
 
 ## address-level-2 names
 
@@ -55,6 +62,9 @@ autofill-add-new-card-title = Bæta við nýju kortanúmeri
 autofill-edit-card-title = Breyta kortanúmeri
 autofill-card-number = Kortanúmer
 autofill-card-name-on-card = Nafn á korti
+autofill-card-expires-month = Gildistími mánuður
+autofill-card-expires-year = Gildistími ár
+autofill-card-billing-address = Heimilisfang innheimtu
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
