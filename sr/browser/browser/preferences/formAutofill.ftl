@@ -28,20 +28,52 @@ autofill-address-organization = Организација
 
 ## address-level-3 (Sublocality) names
 
+# Used in IR, MX
+autofill-address-neighborhood = Суседство
+# Used in MY
+autofill-address-village-township = Село или град
+autofill-address-island = Острво
+# Used in IE
+autofill-address-townland = Варош
 
 ## address-level-2 names
 
 autofill-address-city = Град
+# Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
+autofill-address-district = Област
+# Used in GB, NO, SE
+autofill-address-post-town = Поштански град
+# Used in AU as Address Level-2 and used in ZZ as Sublocality.
+autofill-address-suburb = Предграђе
 
 ## address-level-1 names
 
 autofill-address-province = Општина
 autofill-address-state = Држава
+autofill-address-county = Округ
+# Used in BB, JM
+autofill-address-parish = Парохија
+# Used in JP
+autofill-address-prefecture = Префектура
+# Used in HK
+autofill-address-area = Зона
+# Used in KR
+autofill-address-do-si = Do/Si
+# Used in NI, CO
+autofill-address-department = Одељење
+# Used in AE
+autofill-address-emirate = Емират
+# Used in RU and UA
+autofill-address-oblast = Област
 
 ## Postal code name types
 
+# Used in IN
+autofill-address-pin = Поштански код
 autofill-address-postal-code = Поштански број
 autofill-address-zip = Zip код
+# Used in IE
+autofill-address-eircode = Eircode
 
 ##
 
@@ -60,6 +92,16 @@ autofill-card-name-on-card = Име на картици
 autofill-card-expires-month = Месец ист.
 autofill-card-expires-year = Година ист.
 autofill-card-billing-address = Адреса за наплату
+autofill-card-network = Тип картице
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = American Express
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = Discover
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
+autofill-card-network-visa = Visa
