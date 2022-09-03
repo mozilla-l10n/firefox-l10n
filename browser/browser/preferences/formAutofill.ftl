@@ -50,11 +50,13 @@ autofill-address-zip = Poštanski broj
 
 autofill-address-country = Država ili pokrajina
 autofill-address-tel = Telefon
+autofill-address-email = Adresa e-pošte
 autofill-save-button = Spremi
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Dodaj novu kreditnu karticu
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Uredi kreditnu karticu
+autofill-card-number = Broj kartice
 autofill-card-name-on-card = Ime na kartici
 autofill-card-network = Vrsta kartice
 
