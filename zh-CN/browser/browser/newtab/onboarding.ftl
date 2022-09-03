@@ -250,6 +250,8 @@ mr2022-onboarding-secondary-skip-button-label = 跳过此步骤
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = 探索精彩互联网
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = 随时随地一键进入 { -brand-short-name }。您的每次点击都代表着选择更加开放且独立的互联网。
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
