@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Αποθηκευμένες διευθύνσε�
 autofill-manage-addresses-list-header = Διευθύνσεις
 autofill-manage-credit-cards-title = Αποθηκευμένες πιστωτικές κάρτες
 autofill-manage-credit-cards-list-header = Πιστωτικές κάρτες
+autofill-manage-dialog =
+    .style = min-width: 560px
 autofill-manage-remove-button = Αφαίρεση
 autofill-manage-add-button = Προσθήκη…
 autofill-manage-edit-button = Επεξεργασία…
@@ -33,15 +35,19 @@ autofill-address-city = Πόλη
 
 ## address-level-1 names
 
+autofill-address-state = Περιφέρεια
 
 ## Postal code name types
 
+autofill-address-zip = Ταχ. κώδικας
 
 ##
 
 autofill-address-country = Χώρα ή περιοχή
+autofill-address-tel = Τηλέφωνο
 autofill-cancel-button = Ακύρωση
 autofill-save-button = Αποθήκευση
+autofill-country-warning-message = Η αυτοσυμπλήρωση φορμών είναι διαθέσιμη μόνο σε ορισμένες χώρες προς το παρόν.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Προσθήκη νέας πιστωτικής κάρτας
 # The dialog title for editing credit cards in browser preferences.
