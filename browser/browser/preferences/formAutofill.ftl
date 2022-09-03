@@ -88,6 +88,14 @@ autofill-country-warning-message = Tha fèin-lìonadh fhoirmean ri fhaighinn air
 autofill-add-new-card-title = Cuir cairt-chreideis ùr ris
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Deasaich a’ chairt-chreideis
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] fiosrachadh cairte-creideis a shealltainn
+        [windows] Tha { -brand-short-name } a’ feuchainn ri fiosrachadh cairt-chreidis a shealltainn. Dearbh inntrigeadh dhan chunntas Windows seo gu h-ìosal.
+       *[other] Tha { -brand-short-name } a’ feuchainn ri fiosrachadh cairt-chreidis a shealltainn.
+    }
 autofill-card-number = Àireamh na cairt-chreideis
 autofill-card-invalid-number = Cuir a-steach àireamh cairt dhligheach
 autofill-card-name-on-card = An t-ainm air a’ chairt
