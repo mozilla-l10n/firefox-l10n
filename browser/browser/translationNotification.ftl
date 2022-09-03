@@ -23,6 +23,8 @@ translation-notification-translate-button =
     .label = Omset
 translation-notification-not-now-button =
     .label = Ikkje no
+translation-notification-translating-content =
+    .value = Omset innhaldet…
 
 ## These 3 strings are used to construct a sentence that contains 2 dropdowns
 ## showing the source and target language of a translated web page.
@@ -59,6 +61,11 @@ translation-notification-options-menu =
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = Omset aldri { $langName }
+    .accesskey = O
 translation-notification-options-never-for-site =
     .label = Aldri omset denne nettstaden
     .accesskey = d
