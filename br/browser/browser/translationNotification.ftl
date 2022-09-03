@@ -12,6 +12,10 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = Ar bajenn-mañ a zo e/en
+translation-notification-translate-this-page =
+    .value = Treiñ ar bajennad-mañ?
 
 ##
 
