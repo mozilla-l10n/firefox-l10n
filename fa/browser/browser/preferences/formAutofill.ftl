@@ -67,6 +67,7 @@ autofill-address-tel = تلفن
 autofill-address-email = رایانامه
 autofill-cancel-button = لغو
 autofill-save-button = ذخیره
+autofill-country-warning-message = پرکردن خودکار فرم در حال حاضر برای تعدادی از کشورها فعال است.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = افزودن کارت اعتباری جدید
 # The dialog title for editing credit cards in browser preferences.
