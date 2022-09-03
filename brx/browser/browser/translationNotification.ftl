@@ -56,6 +56,8 @@ translation-notification-try-again-button =
     .label = फिन नाजा
 translation-notification-service-unavailable =
     .value = राव सोलायनाया बे समाव मोननो हाथाव नङा। अननानै उनाव फिन नाजा
+translation-notification-options-menu =
+    .label = उफ्रा
 
 ## The accesskey values used here should not clash with each other
 
