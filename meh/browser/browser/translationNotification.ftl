@@ -34,6 +34,10 @@ translation-notification-translated-to-suffix =
 
 ##
 
+translation-notification-try-again-button =
+    .label = Nasá´á tuku
+translation-notification-options-menu =
+    .label = Kaji
 
 ## The accesskey values used here should not clash with each other
 
