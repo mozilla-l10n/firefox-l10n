@@ -12,6 +12,8 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = Η σελίδα είναι στα
 translation-notification-translate-this-page =
     .value = Μετάφραση σελίδας;
 
@@ -21,6 +23,8 @@ translation-notification-translate-button =
     .label = Μετάφραση
 translation-notification-not-now-button =
     .label = Όχι τώρα
+translation-notification-translating-content =
+    .value = Μετάφραση περιεχόμενου σελίδας…
 
 ## These 3 strings are used to construct a sentence that contains 2 dropdowns
 ## showing the source and target language of a translated web page.
@@ -57,6 +61,14 @@ translation-notification-options-menu =
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = Να μην μεταφράζεται ποτέ η γλώσσα "{ $langName }"
+    .accesskey = Ν
+translation-notification-options-never-for-site =
+    .label = Να μην μεταφράζεται ποτέ αυτός ο ιστότοπος
+    .accesskey = π
 translation-notification-options-preferences =
     .label = Προτιμήσεις μετάφρασης
     .accesskey = μ
