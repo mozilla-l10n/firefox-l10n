@@ -12,6 +12,8 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = Halaman ini dalam
 translation-notification-translate-this-page =
     .value = Terjemahkan halaman ini?
 
@@ -33,6 +35,8 @@ translation-notification-translating-content =
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-translated-from =
+    .value = Halaman ini telah diterjemahkan daripada
 translation-notification-translated-to =
     .value = kepada
 # This string (empty in en-US) is for locales that need to display some text
@@ -42,10 +46,29 @@ translation-notification-translated-to-suffix =
 
 ##
 
+translation-notification-show-original-button =
+    .label = Papar Original
+translation-notification-show-translation-button =
+    .label = Papar Terjemahan
 translation-notification-error-translating =
     .value = Berlaku ralat dalam menterjemahkan halaman ini.
+translation-notification-try-again-button =
+    .label = Cuba Lagi
 translation-notification-service-unavailable =
     .value = Terjemahan tidak tersedia pada masa ini. Sila cuba lagi kemudian.
+translation-notification-options-menu =
+    .label = Pilihan
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = Jangan sesekali terjemah { $langName }
+    .accesskey = N
+translation-notification-options-never-for-site =
+    .label = Jangan sesekali terjemahkan laman ini
+    .accesskey = e
+translation-notification-options-preferences =
+    .label = Keutamaan terjemahan
+    .accesskey = T
