@@ -267,6 +267,8 @@ mr2022-onboarding-secondary-skip-button-label = Нодида гузаронда�
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Интернети ҳайратангезро во бисоз
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = «{ -brand-short-name }»-ро аз ҷойи дилхоҳ бо зеркунии як тугма оғоз намоед. Ҳар вақте, ки шумо ин амалро иҷро мекунед, шумо аз Интернети кушодатар ва мустақилтар истифода мебаред.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->

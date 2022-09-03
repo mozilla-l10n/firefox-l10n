@@ -16,3 +16,5 @@ callout-firefox-view-tab-pickup-subtitle = Варақаҳои кушодашуд
 callout-firefox-view-recently-closed-title = Дар як лаҳза варақаҳои пӯшидаро бозгардонед
 callout-firefox-view-recently-closed-subtitle = Ҳамаи варақаҳои шумо ҳайратангезона дар ин ҷо намоиш дода мешаванд. Ҳеҷ гоҳ хавотир нашавед, ки сомона боз ногаҳон пӯшида мешавад.
 callout-firefox-view-colorways-title = Чакраҳои рангро илова намоед
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Тобишеро интихоб намоед, ки бо шумо тавассути нақшу нигор суҳбат мекунад. Танҳо дар «{ -brand-product-name }» дастрас аст.
