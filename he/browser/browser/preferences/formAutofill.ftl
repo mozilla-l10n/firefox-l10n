@@ -75,6 +75,7 @@ autofill-card-invalid-number = נא להקליד מספר כרטיס תקני
 autofill-card-name-on-card = שם שעל הכרטיס
 autofill-card-expires-month = חודש תפוגה
 autofill-card-expires-year = שנת תפוגה
+autofill-card-billing-address = כתובת חיוב
 autofill-card-network = סוג כרטיס
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
