@@ -23,6 +23,12 @@ styleeditor-no-stylesheet = Тази страница няма стилов ли
 styleeditor-no-stylesheet-tip = Може би искате да <a data-l10n-name="append-new-stylesheet">добавите нов стилов лист</a>?
 styleeditor-open-link-new-tab =
     .label = Отваряне в раздел
+styleeditor-find =
+    .label = Търсене
+    .accesskey = Т
+styleeditor-find-again =
+    .label = Търсене отново
+    .accesskey = ъ
 styleeditor-go-to-line =
     .label = Отиване на ред…
     .accesskey = р
