@@ -62,6 +62,15 @@ autofill-card-name-on-card = Nombre en la tarjeta
 autofill-card-expires-month = Mes cad.
 autofill-card-expires-year = Año cad.
 autofill-card-billing-address = Dirección de facturación
+autofill-card-network = Tipo de tarjeta
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = American Express
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = Discover
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
