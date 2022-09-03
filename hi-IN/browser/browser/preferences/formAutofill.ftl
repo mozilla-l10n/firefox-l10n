@@ -37,11 +37,15 @@ autofill-address-village-township = गाँव या उपनगर
 ## address-level-2 names
 
 autofill-address-city = शहर
+# Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
+autofill-address-district = जिला
 
 ## address-level-1 names
 
 autofill-address-province = प्रांत
 autofill-address-state = राज्य
+# Used in NI, CO
+autofill-address-department = विभाग
 
 ## Postal code name types
 
@@ -70,6 +74,7 @@ autofill-card-network = कार्ड प्रकार
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = अमेरिकन एक्सप्रेस
 autofill-card-network-discover = पता लगाएँ
 autofill-card-network-jcb = JCB
 autofill-card-network-mastercard = MasterCard
