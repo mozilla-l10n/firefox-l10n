@@ -230,8 +230,8 @@ mr2022-language-mismatch-subtitle = Χάρη στην κοινότητά μας,
 onboarding-live-language-button-label-downloading = Λήψη πακέτου γλώσσας για τα { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Λήψη διαθέσιμων γλωσσών…
 onboarding-live-language-installing = Εγκατάσταση πακέτου γλώσσας για τα { $negotiatedLanguage }…
-mr2022-onboarding-live-language-switch-to = Εναλλαγή σε { $negotiatedLanguage }
-mr2022-onboarding-live-language-continue-in = Συνέχεια με { $appLanguage }
+mr2022-onboarding-live-language-switch-to = Εναλλαγή στα { $negotiatedLanguage }
+mr2022-onboarding-live-language-continue-in = Συνέχεια στα { $appLanguage }
 onboarding-live-language-secondary-cancel-download = Ακύρωση
 onboarding-live-language-skip-button-label = Παράλειψη
 
@@ -268,30 +268,53 @@ mr2022-onboarding-secondary-skip-button-label = Παράβλεψη βήματο�
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Ανοίξτε ένα καταπληκτικό διαδίκτυο
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Εκκινήστε το { -brand-short-name } από οπουδήποτε με ένα μόνο κλικ. Κάθε φορά που το κάνετε αυτό, επιλέγετε ένα πιο ανοικτό και ανεξάρτητο διαδίκτυο.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Διατήρηση του { -brand-short-name } στο Dock
        *[other] Καρφίτσωμα του { -brand-short-name } στη γραμμή εργασιών
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Ξεκινήστε με ένα πρόγραμμα περιήγησης που υποστηρίζεται από έναν μη κερδοσκοπικό οργανισμό. Υπερασπιζόμαστε το απόρρητό σας ενώ περιηγείστε στο διαδίκτυο.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Σας ευχαριστούμε που αγαπάτε το { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Προσπελάστε ένα πιο υγιές διαδίκτυο από οπουδήποτε με ένα μόνο κλικ. Η τελευταία μας ενημέρωση είναι γεμάτη με νέα πράγματα που πιστεύουμε ότι θα λατρέψετε.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Χρησιμοποιήστε ένα πρόγραμμα περιήγησης που υπερασπίζεται το απόρρητό σας ενώ περιηγείστε στο διαδίκτυο. Η τελευταία μας ενημέρωση είναι γεμάτη με πράγματα που λατρεύετε.
 mr2022-onboarding-existing-pin-checkbox-label = Προσθήκη συντόμευσης και για την ιδιωτική περιήγηση του { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Ορισμός του { -brand-short-name } ως προεπιλογής
 mr2022-onboarding-set-default-primary-button-label = Ορισμός του { -brand-short-name } ως προεπιλογής
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Χρησιμοποιήστε ένα πρόγραμμα περιήγησης που υποστηρίζεται από έναν μη κερδοσκοπικό οργανισμό. Υπερασπιζόμαστε το απόρρητό σας ενώ περιηγείστε στο διαδίκτυο.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Η πιο πρόσφατη έκδοσή μας έχει προσαρμοστεί στις ανάγκες σας, κάνοντας πιο εύκολη από ποτέ την περιήγησή σας στο διαδίκτυο. Είναι γεμάτη με λειτουργίες που πιστεύουμε ότι θα λατρέψετε.
 mr2022-onboarding-get-started-primary-button-label = Ρύθμιση σε δευτερόλεπτα
 
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = Αστραπιαία ρύθμιση
+mr2022-onboarding-import-subtitle = Ρυθμίστε το { -brand-short-name } όπως σας αρέσει. Προσθέστε σελιδοδείκτες, κωδικούς πρόσβασης και πολλά άλλα από το παλιό σας πρόγραμμα περιήγησης.
 mr2022-onboarding-import-primary-button-label-no-attribution = Εισαγωγή από προηγούμενο πρόγραμμα περιήγησης
 
 ## If your language uses grammatical genders, in the description for the
@@ -327,9 +350,15 @@ mr2022-onboarding-colorway-label-dreamer = Ονειροπόλος
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Ονειροπόλος
 mr2022-onboarding-colorway-description-dreamer = <b>Ονειροπόλος:</b> Πιστεύετε ότι η τύχη ευνοεί τους τολμηρούς και εμπνέετε τους άλλους να είναι γενναίοι.
+mr2022-onboarding-colorway-label-innovator = Νεωτεριστής
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Νεωτεριστής
+mr2022-onboarding-colorway-description-innovator = <b>Νεωτεριστής:</b> Βλέπετε ευκαιρίες παντού και επηρεάζετε τις ζωές όλων των ατόμων γύρω σας.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Εναλλαγή από τον υπολογιστή στο τηλέφωνο και αντίστροφα
+mr2022-onboarding-mobile-download-subtitle = Λάβετε καρτέλες από μια συσκευή και συνεχίστε από εκεί που σταματήσατε σε μια άλλη. Συγχρονίστε τους σελιδοδείκτες και τους κωδικούς πρόσβασής σας οπουδήποτε χρησιμοποιείτε το { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Σαρώστε τον κωδικό QR για να αποκτήσετε το { -brand-product-name } για κινητές συσκευές ή <a data-l10n-name="download-label">στείλτε στον εαυτό σας έναν σύνδεσμο λήψης.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Σαρώστε τον κωδικό QR για λήψη του { -brand-product-name } για κινητές συσκευές.
 
@@ -355,5 +384,6 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Εμφάνιση
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Μας βοηθάτε να δημιουργήσουμε ένα καλύτερο διαδίκτυο.
+mr2022-onboarding-gratitude-subtitle = Σας ευχαριστούμε που χρησιμοποιείτε το { -brand-short-name }, που υποστηρίζεται από το Mozilla Foundation. Με την υποστήριξή σας, εργαζόμαστε για να κάνουμε το διαδίκτυο πιο ανοικτό, προσβάσιμο και ωφέλιμο για όλους.
 mr2022-onboarding-gratitude-primary-button-label = Δείτε τι νέο υπάρχει
 mr2022-onboarding-gratitude-secondary-button-label = Έναρξη περιήγησης
