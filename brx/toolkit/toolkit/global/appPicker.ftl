@@ -4,5 +4,7 @@
 
 app-picker-browse-button =
     .buttonlabelextra2 = ब्राउज...
+app-picker-send-msg =
+    .value = सिम बे आइटेमखौ दैथाय हर:
 app-picker-no-app-found =
     .value = बे फाइल रोखोमनि थाखाय जेबो एप्लिकेसन मोनाखै।
