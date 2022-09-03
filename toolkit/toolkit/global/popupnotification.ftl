@@ -5,3 +5,6 @@
 popup-notification-learn-more = Сазнајте више
 popup-notification-more-actions-button =
     .aria-label = Више радњи
+popup-notification-default-button =
+    .label = У реду
+    .accesskey = У
