@@ -42,15 +42,28 @@ autofill-address-townland = टाउनलैंड
 autofill-address-city = शहर
 # Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
 autofill-address-district = जिला
+# Used in GB, NO, SE
+autofill-address-post-town = पोस्ट सिटी
+# Used in AU as Address Level-2 and used in ZZ as Sublocality.
+autofill-address-suburb = उपनगर
 
 ## address-level-1 names
 
 autofill-address-province = प्रांत
 autofill-address-state = राज्य
+autofill-address-county = काउंटी
+# Used in BB, JM
+autofill-address-parish = पैरिश
+# Used in JP
+autofill-address-prefecture = प्रांत
 # Used in HK
 autofill-address-area = क्षेत्र
 # Used in NI, CO
 autofill-address-department = विभाग
+# Used in AE
+autofill-address-emirate = अमीरात
+# Used in RU and UA
+autofill-address-oblast = ओब्लास्त
 
 ## Postal code name types
 
@@ -58,6 +71,8 @@ autofill-address-department = विभाग
 autofill-address-pin = पिन
 autofill-address-postal-code = डाक कोड
 autofill-address-zip = ज़िप कोड
+# Used in IE
+autofill-address-eircode = Eircode
 
 ##
 
@@ -80,8 +95,10 @@ autofill-card-network = कार्ड प्रकार
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-amex = अमेरिकन एक्सप्रेस
+autofill-card-network-cartebancaire = भुगतान कार्ड
 autofill-card-network-discover = पता लगाएँ
 autofill-card-network-jcb = JCB
 autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
