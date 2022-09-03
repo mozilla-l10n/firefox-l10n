@@ -6,3 +6,5 @@ app-picker-browse-button =
     .buttonlabelextra2 = Ceeci…
 app-picker-send-msg =
     .value = Hayiizoo woo sanba ne:
+app-picker-no-app-found =
+    .value = Porogaram kul mana duwandi tukoo woo dumoo se.
