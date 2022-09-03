@@ -37,6 +37,7 @@ autofill-address-city = City
 ## address-level-1 names
 
 autofill-address-province = Province
+autofill-address-state = State
 
 ## Postal code name types
 
