@@ -12,6 +12,10 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = ఈ పేజీ
+translation-notification-translate-this-page =
+    .value = లో ఉంది. ఈ పేజీని అనువదించాలా?
 
 ##
 
@@ -19,6 +23,8 @@ translation-notification-translate-button =
     .label = అనువదించు
 translation-notification-not-now-button =
     .label = ఇప్పుడు కాదు
+translation-notification-translating-content =
+    .value = పేజీలో విషయం అనువాదమవుతోంది…
 
 ## These 3 strings are used to construct a sentence that contains 2 dropdowns
 ## showing the source and target language of a translated web page.
@@ -29,6 +35,14 @@ translation-notification-not-now-button =
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-translated-from =
+    .value = ఈ పేజీ
+translation-notification-translated-to =
+    .value = నుండి
+# This string (empty in en-US) is for locales that need to display some text
+# after the second drop down for the sentence to be grammatically correct.
+translation-notification-translated-to-suffix =
+    .value = లోనికి అనువదించబడింది
 
 ##
 
@@ -47,6 +61,11 @@ translation-notification-options-menu =
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = { $langName } ఎప్పుడూ అనువదించవద్దు
+    .accesskey = N
 translation-notification-options-never-for-site =
     .label = ఈ సైటును ఎప్పుడూ అనువదించవద్దు
     .accesskey = e
