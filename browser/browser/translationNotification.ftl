@@ -12,9 +12,17 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-translate-this-page =
+    .value = האם לתרגם את דף זה?
 
 ##
 
+translation-notification-translate-button =
+    .label = תרגום
+translation-notification-not-now-button =
+    .label = לא כעת
+translation-notification-translating-content =
+    .value = תוכן הדף בתרגום…
 
 ## These 3 strings are used to construct a sentence that contains 2 dropdowns
 ## showing the source and target language of a translated web page.
@@ -25,6 +33,8 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-translated-from =
+    .value = דף זה תורגם מהשפה
 translation-notification-translated-to =
     .value = אל
 # This string (empty in en-US) is for locales that need to display some text
@@ -34,8 +44,21 @@ translation-notification-translated-to-suffix =
 
 ##
 
+translation-notification-show-original-button =
+    .label = הצגת מקור
+translation-notification-show-translation-button =
+    .label = הצגת תרגום
+translation-notification-error-translating =
+    .value = אירעה שגיאה במהלך תרגום דף זה.
+translation-notification-try-again-button =
+    .label = לנסות שוב
+translation-notification-service-unavailable =
+    .value = שירות התרגום אינו זמין כעת. נא לנסות שוב מאוחר יותר.
 translation-notification-options-menu =
     .label = אפשרויות
 
 ## The accesskey values used here should not clash with each other
 
+translation-notification-options-preferences =
+    .label = העדפות תרגום
+    .accesskey = ע
