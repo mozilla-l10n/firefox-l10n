@@ -29,6 +29,10 @@ autofill-address-street = गली का पता
 
 ## address-level-3 (Sublocality) names
 
+# Used in IR, MX
+autofill-address-neighborhood = पड़ोस
+# Used in MY
+autofill-address-village-township = गाँव या उपनगर
 
 ## address-level-2 names
 
@@ -41,6 +45,8 @@ autofill-address-state = राज्य
 
 ## Postal code name types
 
+# Used in IN
+autofill-address-pin = पिन
 autofill-address-postal-code = डाक कोड
 autofill-address-zip = ज़िप कोड
 
@@ -60,9 +66,12 @@ autofill-card-number = कार्ड नंबर
 autofill-card-invalid-number = एक वैध कार्ड नंबर डालें
 autofill-card-name-on-card = कार्ड पर नाम
 autofill-card-billing-address = बिल भेजने का पता
+autofill-card-network = कार्ड प्रकार
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-discover = पता लगाएँ
 autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-visa = Visa
