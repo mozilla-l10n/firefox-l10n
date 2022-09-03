@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 popup-notification-learn-more = Weitere Informationen
+popup-notification-more-actions-button =
+    .aria-label = Weitere Aktionen
 popup-notification-default-button =
     .label = OK
     .accesskey = O
