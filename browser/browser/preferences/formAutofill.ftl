@@ -34,6 +34,8 @@ autofill-address-neighborhood = Vecindad
 # Used in MY
 autofill-address-village-township = Pueblo o municipio
 autofill-address-island = Isla
+# Used in IE
+autofill-address-townland = Townland
 
 ## address-level-2 names
 
