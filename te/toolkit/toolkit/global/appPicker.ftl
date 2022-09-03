@@ -6,3 +6,5 @@ app-picker-browse-button =
     .buttonlabelextra2 = అన్వేషించు…
 app-picker-send-msg =
     .value = ఈఅంశమును ఇక్కడకు పంపు:
+app-picker-no-app-found =
+    .value = ఈ ఫైలు రకానికి అనువర్తనాలేమీ కనబడలేదు.
