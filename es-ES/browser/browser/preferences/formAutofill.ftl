@@ -58,6 +58,7 @@ autofill-add-new-card-title = Añadir nueva tarjeta de crédito
 autofill-edit-card-title = Editar tarjeta de crédito
 autofill-card-number = Número de tarjeta
 autofill-card-name-on-card = Nombre en la tarjeta
+autofill-card-billing-address = Dirección de facturación
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
