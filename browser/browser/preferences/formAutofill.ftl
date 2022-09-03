@@ -88,6 +88,14 @@ autofill-country-warning-message = Aŭtomata plenigo de formularoj disponeblas n
 autofill-add-new-card-title = Aldoni novan kreditkarton
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Redakti kreditkarton
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] montri kreditkartajn informojn
+        [windows] { -brand-short-name } klopodas montri kreditkartajn informojn. Konfirmu aliron al tiu ĉi suba konto de Windows.
+       *[other] { -brand-short-name } klopodas montri kreditkartajn informojn.
+    }
 autofill-card-number = Numero de karto
 autofill-card-invalid-number = Bonvolu tajpi validan kartan numeron
 autofill-card-name-on-card = Nomo sur karto
