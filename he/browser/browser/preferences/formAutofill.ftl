@@ -48,6 +48,8 @@ autofill-address-suburb = פרבר
 autofill-address-province = מחוז
 autofill-address-state = מדינה
 autofill-address-county = מחוז
+# Used in JP
+autofill-address-prefecture = מחוז
 # Used in HK
 autofill-address-area = אזור
 # Used in AE
