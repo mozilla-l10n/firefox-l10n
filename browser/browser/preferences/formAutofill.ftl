@@ -24,6 +24,7 @@ autofill-edit-address-title = Uredi naslov
 autofill-address-given-name = Ime
 autofill-address-additional-name = Srednje ime
 autofill-address-family-name = Priimek
+autofill-address-organization = Organizacija
 autofill-address-street = Ulica
 
 ## address-level-3 (Sublocality) names
@@ -31,6 +32,8 @@ autofill-address-street = Ulica
 # Used in MY
 autofill-address-village-township = Vas ali okraj
 autofill-address-island = Otok
+# Used in IE
+autofill-address-townland = Townland
 
 ## address-level-2 names
 
@@ -78,6 +81,7 @@ autofill-edit-card-title = Uredi kreditno kartico
 autofill-card-number = Številka kartice
 autofill-card-invalid-number = Vnesite veljavno številko kartice
 autofill-card-name-on-card = Ime na kartici
+autofill-card-billing-address = Naslov za izstavitev računa
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
