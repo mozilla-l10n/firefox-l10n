@@ -39,6 +39,10 @@ translation-notification-translated-from =
     .value = এই পাতাটি যা থেকে অনুদিত হয়েছে
 translation-notification-translated-to =
     .value = শেষ
+# This string (empty in en-US) is for locales that need to display some text
+# after the second drop down for the sentence to be grammatically correct.
+translation-notification-translated-to-suffix =
+    .value = { "" }
 
 ##
 
@@ -60,3 +64,9 @@ translation-notification-options-menu =
 translation-notification-options-never-for-language =
     .label = { $langName } কখনও অনুবাদ করবেন না N
     .accesskey = N
+translation-notification-options-never-for-site =
+    .label = কখনও এই সাইট অনুবাদ করবেন না
+    .accesskey = e
+translation-notification-options-preferences =
+    .label = অনুবাদ পছন্দসমূহ
+    .accesskey = T
