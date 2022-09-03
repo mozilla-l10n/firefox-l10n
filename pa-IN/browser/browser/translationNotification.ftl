@@ -54,6 +54,8 @@ translation-notification-error-translating =
     .value = ਇਹ ਸਫ਼ੇ ਨੂੰ ਅਨੁਵਾਦ ਕਰਨ ਵਿੱਚ ਗਲਤੀ ਹੈ।
 translation-notification-try-again-button =
     .label = ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ
+translation-notification-service-unavailable =
+    .value = ਅਨੁਵਾਦ ਇਸ ਸਮੇਂ ਮੌਜੂਦ ਨਹੀਂ ਹੈ। ਬਾਅਦ ਵਿੱਚ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 translation-notification-options-menu =
     .label = ਚੋਣਾਂ
 
@@ -67,3 +69,6 @@ translation-notification-options-never-for-language =
 translation-notification-options-never-for-site =
     .label = ਇਹ ਸਾਈਟ ਦਾ ਅਨੁਵਾਦ ਕਦੇ ਨਾ ਕਰੋ
     .accesskey = e
+translation-notification-options-preferences =
+    .label = ਅਨੁਵਾਦ ਪਸੰਦ
+    .accesskey = T
