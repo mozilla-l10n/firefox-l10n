@@ -5,6 +5,7 @@
 
 ## The address and credit card autofill management dialog in browser preferences
 
+autofill-manage-addresses-title = সংরক্ষিত ঠিকানা
 autofill-manage-addresses-list-header = ঠিকানা
 autofill-manage-credit-cards-title = সংরক্ষিত ক্রেডিট কার্ড
 autofill-manage-credit-cards-list-header = ক্রেডিট কার্ড
@@ -21,10 +22,15 @@ autofill-edit-address-title = ঠিকানা সম্পাদনা
 autofill-address-given-name = নামের প্রথমাংশ
 autofill-address-additional-name = নামের মধ্যাংশ
 autofill-address-family-name = নামের শেষাংশ
+autofill-address-organization = প্রতিষ্ঠান
 autofill-address-street = সড়ক
 
 ## address-level-3 (Sublocality) names
 
+# Used in IR, MX
+autofill-address-neighborhood = প্রতিবেশী
+# Used in MY
+autofill-address-village-township = গ্রাম বা শহর
 autofill-address-island = দ্বীপ
 # Used in IE
 autofill-address-townland = টাউনল্যান্ড
@@ -43,12 +49,17 @@ autofill-address-suburb = গ্রাম
 
 autofill-address-province = প্রদেশ
 autofill-address-state = রাজ্য
+autofill-address-county = কাউন্টি
 # Used in BB, JM
 autofill-address-parish = প্যারিস
 # Used in JP
 autofill-address-prefecture = এলাকা
 # Used in HK
 autofill-address-area = এলাকা
+# Used in KR
+autofill-address-do-si = Do/Si
+# Used in NI, CO
+autofill-address-department = বিভাগ
 # Used in AE
 autofill-address-emirate = আমিরাত
 # Used in RU and UA
@@ -71,11 +82,23 @@ autofill-address-email = ইমেইল
 autofill-cancel-button = বাতিল
 autofill-save-button = সংরক্ষণ
 autofill-country-warning-message = Form Autofill কেবলমাত্র নির্দিষ্ট দেশের জন্য উপলব্ধ।
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-new-card-title = নতুন ক্রেডিট কার্ড যোগ করুন
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title = ক্রেডিট কার্ড সম্পাদনা করুন
+autofill-card-number = কার্ড নম্বর
+autofill-card-name-on-card = কার্ডের উপর নাম
 autofill-card-expires-month = মেয়াদোত্তীর্ণের মাস
 autofill-card-expires-year = মেয়াদোত্তীর্ণের বছর
+autofill-card-billing-address = বিল পাঠানোর ঠিকানা
+autofill-card-network = কার্ডের ধরন
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = American Express
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = আবিষ্কার করুন
 autofill-card-network-jcb = JCB
 autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
