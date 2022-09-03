@@ -50,6 +50,10 @@ translation-notification-show-original-button =
     .label = დედნის ჩვენება
 translation-notification-show-translation-button =
     .label = თარგმნილის ჩვენება
+translation-notification-error-translating =
+    .value = შეცდომა, გვერდის თარგმნისას.
+translation-notification-try-again-button =
+    .label = სცადეთ ხელახლა
 translation-notification-service-unavailable =
     .value = თარგმნა ამ დროისთვის შეუძლებელია. გთხოვთ, სცადოთ მოგვიანებით.
 translation-notification-options-menu =
@@ -57,3 +61,14 @@ translation-notification-options-menu =
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = არასდროს ითარგმნოს { $langName }
+    .accesskey = ა
+translation-notification-options-never-for-site =
+    .label = არასდროს ითარგმნოს ეს საიტი
+    .accesskey = რ
+translation-notification-options-preferences =
+    .label = თარგმნის პარამეტრები
+    .accesskey = თ
