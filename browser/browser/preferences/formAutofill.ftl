@@ -56,10 +56,30 @@ autofill-country-warning-message = L'endataziun automatica per formulars è actu
 autofill-add-new-card-title = Agiuntar ina nova carta da credit
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Modifitgar la carta da credit
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] mussar las infurmaziuns da las cartas da credit
+        [windows] { -brand-short-name } emprova da mussar infurmaziuns dad ina carta da credit. Conferma l'access al conto d'utilisader da Windows sutvart.
+       *[other] { -brand-short-name } emprova da mussar infurmaziuns dad ina carta da credit.
+    }
 autofill-card-number = Numer da la carta
 autofill-card-invalid-number = Endatescha p. pl. in numer da carta da credit valaivel
 autofill-card-name-on-card = Num sin la carta
+autofill-card-expires-month = Mais scadenza
+autofill-card-expires-year = Onn scadenza
 autofill-card-billing-address = Adressa da quint
+autofill-card-network = Tip da carta
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = American Express
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = Discover
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
+autofill-card-network-visa = Visa
