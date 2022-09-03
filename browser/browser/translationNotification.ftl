@@ -46,6 +46,10 @@ translation-notification-translated-to-suffix =
 
 ##
 
+translation-notification-show-original-button =
+    .label = Afișează originalul
+translation-notification-show-translation-button =
+    .label = Afișează traducerea
 translation-notification-error-translating =
     .value = A apărut o eroare la traducerea acestei pagini.
 translation-notification-try-again-button =
