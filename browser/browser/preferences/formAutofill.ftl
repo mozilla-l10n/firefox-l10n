@@ -44,12 +44,18 @@ autofill-address-city = ਸ਼ਹਿਰ
 autofill-address-district = ਜ਼ਿਲ੍ਹਾ
 # Used in GB, NO, SE
 autofill-address-post-town = ਪੋਸਟ ਟਾਊਨ
+# Used in AU as Address Level-2 and used in ZZ as Sublocality.
+autofill-address-suburb = ਸ਼ਹਿਰ ਦਾ ਬਾਹਰੀ ਖੇਤਰ
 
 ## address-level-1 names
 
 autofill-address-province = ਸੂਬਾ
 autofill-address-state = ਸੂਬਾ
 autofill-address-county = ਦੇਸ਼
+# Used in BB, JM
+autofill-address-parish = ਪੈਰਿਸ਼
+# Used in JP
+autofill-address-prefecture = ਪ੍ਰੀਫੈਕਚਰ
 # Used in HK
 autofill-address-area = ਖੇਤਰ
 # Used in KR
