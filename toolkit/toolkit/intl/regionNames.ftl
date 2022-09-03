@@ -151,6 +151,7 @@ region-name-mf = סנט מרטין
 region-name-mg = מדגסקר
 region-name-mh = איי מרשל
 region-name-mk = מקדוניה
+region-name-mk-2019 = צפון מקדוניה
 region-name-ml = מאלי
 region-name-mm = מיאנמר
 region-name-mn = מונגוליה
