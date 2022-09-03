@@ -16,3 +16,67 @@ appmenuitem-font-size-reduce =
 appmenuitem-font-size-reset =
     .label = { $size }px
     .tooltiptext = Remontar le dimension del litteras
+
+## Tools
+
+appmenu-tools-panel-title =
+    .title = Utensiles
+appmenu-tools-panel =
+    .label = Utensiles
+    .accesskey = U
+appmenu-tools-import =
+    .label = Importar
+    .accesskey = I
+appmenu-tools-export =
+    .label = Exportar
+    .accesskey = E
+appmenu-tools-message-search =
+    .label = Cercar messages
+    .accesskey = C
+appmenu-tools-message-filters =
+    .label = Filtros de messages
+    .accesskey = F
+appmenu-tools-download-manager =
+    .label = Gestor de discargamento
+    .accesskey = d
+appmenu-tools-activity-manager =
+    .label = Gestor de activitate
+    .accesskey = a
+appmenu-tools-dev-tools =
+    .label = Utensiles de disveloppator
+    .accesskey = U
+
+## Help
+
+appmenu-help-panel-title =
+    .title = Adjuta
+appmenu-help-get-help =
+    .label = Obtener adjuta
+    .accesskey = a
+appmenu-help-explore-features =
+    .label = Discoperi le functionalitates
+    .accesskey = f
+appmenu-help-shortcuts =
+    .label = Vias breve de claviero
+    .accesskey = b
+appmenu-help-get-involved =
+    .label = Collabora
+    .accesskey = C
+appmenu-help-donation =
+    .label = Face un donation
+    .accesskey = d
+appmenu-help-feedback =
+    .label = Invia commentarios e ideas
+    .accesskey = I
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Modo diagnostic…
+    .accesskey = d
+appmenu-help-exit-troubleshoot-mode2 =
+    .label = Disactivar le modo diagnostic
+    .accesskey = D
+appmenu-help-troubleshooting-info =
+    .label = Informationes diagnostic
+    .accesskey = d
+appmenu-help-about-product =
+    .label = A proposito de { -brand-short-name }
+    .accesskey = A
