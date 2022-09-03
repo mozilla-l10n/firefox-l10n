@@ -11,24 +11,48 @@ toolbar-context-menu-menu-bar =
 menu-tools-settings =
     .label = Impostazioni
     .accesskey = s
-
 menu-addons-and-themes =
     .label = Componenti aggiuntivi e temi
     .accesskey = C
 
 ## Help Menu
 
+menu-help-help-title =
+    .label = Aiuto
+    .accesskey = A
+menu-help-get-help =
+    .label = Ottieni assistenza
+    .accesskey = O
+menu-help-explore-features =
+    .label = Scopri le funzionalità
+    .accesskey = f
+menu-help-shortcuts =
+    .label = Scorciatoie da tastiera
+    .accesskey = S
+menu-help-get-involved =
+    .label = Collabora con noi
+    .accesskey = C
+menu-help-donation =
+    .label = Fai una donazione
+    .accesskey = d
+menu-help-feedback =
+    .label = Invia feedback e idee
+    .accesskey = k
 menu-help-enter-troubleshoot-mode =
     .label = Modalità risoluzione problemi…
     .accesskey = M
-
 menu-help-exit-troubleshoot-mode =
     .label = Disattiva Modalità risoluzione problemi
     .accesskey = D
-
 menu-help-more-troubleshooting-info =
     .label = Altre informazioni per la risoluzione di problemi
     .accesskey = u
+menu-help-troubleshooting-info =
+    .label = Informazioni sulla risoluzione dei problemi
+    .accesskey = z
+menu-help-about-product =
+    .label = Informazioni su { -brand-short-name }
+    .accesskey = m
 
 ## Mail Toolbar
 
@@ -56,35 +80,27 @@ menu-view-repair-text-encoding =
 menu-font-size-label =
     .label = Dimensione carattere
     .accesskey = m
-
 menuitem-font-size-enlarge =
     .label = Aumenta dimensione carattere
     .accesskey = u
-
 menuitem-font-size-reduce =
     .label = Riduci dimensione carattere
     .accesskey = d
-
 menuitem-font-size-reset =
     .label = Reimposta dimensione carattere
     .accesskey = m
-
 mail-uidensity-label =
     .label = Densità
     .accesskey = D
-
 mail-uidensity-compact =
     .label = Compatta
     .accesskey = C
-
 mail-uidensity-normal =
     .label = Normale
     .accesskey = N
-
 mail-uidensity-touch =
     .label = Touch
     .accesskey = T
-
 menu-spaces-toolbar-button =
     .label = Barra degli spazi
     .accesskey = B

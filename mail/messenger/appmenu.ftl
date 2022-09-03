@@ -16,3 +16,67 @@ appmenuitem-font-size-reduce =
 appmenuitem-font-size-reset =
     .label = { $size }px
     .tooltiptext = Reimposta dimensione carattere
+
+## Tools
+
+appmenu-tools-panel-title =
+    .title = Strumenti
+appmenu-tools-panel =
+    .label = Strumenti
+    .accesskey = S
+appmenu-tools-import =
+    .label = Importa
+    .accesskey = I
+appmenu-tools-export =
+    .label = Esporta
+    .accesskey = E
+appmenu-tools-message-search =
+    .label = Ricerca messaggi
+    .accesskey = m
+appmenu-tools-message-filters =
+    .label = Filtri messaggi
+    .accesskey = F
+appmenu-tools-download-manager =
+    .label = Gestione download
+    .accesskey = G
+appmenu-tools-activity-manager =
+    .label = Registro attività
+    .accesskey = R
+appmenu-tools-dev-tools =
+    .label = Strumenti di sviluppo
+    .accesskey = v
+
+## Help
+
+appmenu-help-panel-title =
+    .title = Aiuto
+appmenu-help-get-help =
+    .label = Ottieni assistenza
+    .accesskey = O
+appmenu-help-explore-features =
+    .label = Scopri le funzionalità
+    .accesskey = u
+appmenu-help-shortcuts =
+    .label = Scorciatoie da tastiera
+    .accesskey = t
+appmenu-help-get-involved =
+    .label = Collabora con noi
+    .accesskey = C
+appmenu-help-donation =
+    .label = Fai una donazione
+    .accesskey = F
+appmenu-help-feedback =
+    .label = Invia feedback e idee
+    .accesskey = k
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Modalità risoluzione problemi…
+    .accesskey = z
+appmenu-help-exit-troubleshoot-mode2 =
+    .label = Disattiva Modalità risoluzione problemi
+    .accesskey = M
+appmenu-help-troubleshooting-info =
+    .label = Informazioni sulla risoluzione dei problemi
+    .accesskey = u
+appmenu-help-about-product =
+    .label = Informazioni su { -brand-short-name }
+    .accesskey = n
