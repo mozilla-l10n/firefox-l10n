@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Tampilkan Pengaya
 quickactions-cmd-addons = pengaya, ekstensi, tema
+quickactions-cmd-addons2 = pengaya
 # Opens the bookmarks library window
 quickactions-bookmarks = Tampilkan Markah
 quickactions-cmd-bookmarks = markah
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = bersihkan riwayat
 # Opens about:downloads page
 quickactions-downloads = Buka Unduhan
 quickactions-cmd-downloads = unduhan
+# Opens about:addons page in the extensions section
+quickactions-extensions = Kelola ekstensi
+quickactions-cmd-extensions = ekstensi
 # Opens the devtools web inspector
 quickactions-inspector = Buka Inspektur
 quickactions-cmd-inspector = inspektur, perangkat pengembang
 # Opens about:logins
 quickactions-logins = Tampilkan Info Masuk
 quickactions-cmd-logins = info masuk, kata sandi
+# Opens about:addons page in the plugins section
+quickactions-plugins = Kelola plugin
+quickactions-cmd-plugins = plugin
 # Opens the print dialog
 quickactions-print = Cetak
 quickactions-cmd-print = cetak
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = tangkapan layar
 # Opens about:preferences
 quickactions-settings = Buka Pengaturan
 quickactions-cmd-settings = pengaturan, preferensi, pilihan
+# Opens about:addons page in the themes section
+quickactions-themes = Kelola tema
+quickactions-cmd-themes = tema;themes;
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Perbarui { -brand-short-name }
 quickactions-cmd-update = versi baru
