@@ -12,9 +12,19 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = Sta pagina a l'é in
+translation-notification-translate-this-page =
+    .value = Tradue sta pagina?
 
 ##
 
+translation-notification-translate-button =
+    .label = Traduci
+translation-notification-not-now-button =
+    .label = Òua no
+translation-notification-translating-content =
+    .value = Traduçion contegnui…
 
 ## These 3 strings are used to construct a sentence that contains 2 dropdowns
 ## showing the source and target language of a translated web page.
@@ -25,9 +35,29 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-translated-from =
+    .value = Sta pagina a l'é traduta da
+translation-notification-translated-to =
+    .value = a
+# This string (empty in en-US) is for locales that need to display some text
+# after the second drop down for the sentence to be grammatically correct.
+translation-notification-translated-to-suffix =
+    .value = { "" }
 
 ##
 
+translation-notification-show-original-button =
+    .label = Fanni vedde òriginale
+translation-notification-show-translation-button =
+    .label = Fanni vedde traduçion
+translation-notification-error-translating =
+    .value = Gh'é stæto 'n'erô inta traduçion.
+translation-notification-try-again-button =
+    .label = Preuva torna
+translation-notification-service-unavailable =
+    .value = A traduçion a no gh'é òua. Preuva ciù tardi.
+translation-notification-options-menu =
+    .label = Inpostaçioin
 
 ## The accesskey values used here should not clash with each other
 
