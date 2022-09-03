@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Direcciones guardadas
 autofill-manage-addresses-list-header = Direcciones
 autofill-manage-credit-cards-title = Tarjetas de crédito guardadas
 autofill-manage-credit-cards-list-header = Tarjetas de crédito
+autofill-manage-dialog =
+    .style = min-width: 560px
 autofill-manage-remove-button = Eliminar
 autofill-manage-add-button = Agregar…
 autofill-manage-edit-button = Editar…
@@ -22,6 +24,7 @@ autofill-edit-address-title = Editar dirección
 autofill-address-given-name = Primer nombre
 autofill-address-additional-name = Nombre del medio
 autofill-address-family-name = Apellido
+autofill-address-organization = Organización
 autofill-address-street = Dirección
 
 ## address-level-3 (Sublocality) names
@@ -48,6 +51,7 @@ autofill-address-tel = Teléfono
 autofill-address-email = Correo electrónico
 autofill-cancel-button = Cancelar
 autofill-save-button = Guardar
+autofill-country-warning-message = El formulario de autocompletado por ahora está disponible solo para algunos países.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Agregar nueva tarjeta de crédito
 # The dialog title for editing credit cards in browser preferences.
