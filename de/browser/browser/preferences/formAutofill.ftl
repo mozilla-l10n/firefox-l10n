@@ -80,6 +80,14 @@ autofill-country-warning-message = Das automatische Ausfüllen von Adressen ist 
 autofill-add-new-card-title = Neue Kreditkarte hinzufügen
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Kreditkarte bearbeiten
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] Kreditkartendaten anzeigen
+        [windows] { -brand-short-name } versucht, Kreditkartendaten anzuzeigen. Bestätigen Sie unten den Zugriff auf dieses Windows-Konto.
+       *[other] { -brand-short-name } versucht, Kreditkartendaten anzuzeigen.
+    }
 autofill-card-number = Kartennummer
 autofill-card-invalid-number = Bitte geben Sie eine gültige Kreditkartennummer ein.
 autofill-card-name-on-card = Name auf Karte
