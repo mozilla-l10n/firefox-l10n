@@ -151,6 +151,7 @@ region-name-mf = Sveti Martin
 region-name-mg = Madagaskar
 region-name-mh = Marshallovi otoki
 region-name-mk = Makedonija
+region-name-mk-2019 = Severna Makedonija
 region-name-ml = Mali
 region-name-mm = Mjanmar
 region-name-mn = Mongolija
