@@ -58,6 +58,7 @@ autofill-add-new-card-title = Lisää uusi luottokortti
 autofill-edit-card-title = Muokkaa luottokorttia
 autofill-card-number = Luottokortti
 autofill-card-name-on-card = Nimi kortissa
+autofill-card-billing-address = Laskutusosoite
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
