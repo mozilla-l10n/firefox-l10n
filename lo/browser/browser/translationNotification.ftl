@@ -14,9 +14,17 @@
 
 translation-notification-this-page-is-in =
     .value = ຫນ້ານີ້ເປັນພາສາ
+translation-notification-translate-this-page =
+    .value = ແປຫນ້ານີ້?
 
 ##
 
+translation-notification-translate-button =
+    .label = ແປ
+translation-notification-not-now-button =
+    .label = ບໍ່ແມ່ນຕອນນີ້
+translation-notification-translating-content =
+    .value = ກຳລັງແປເນື້ອຫາຂອງຫນ້າ…
 
 ## These 3 strings are used to construct a sentence that contains 2 dropdowns
 ## showing the source and target language of a translated web page.
@@ -27,6 +35,10 @@ translation-notification-this-page-is-in =
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-translated-from =
+    .value = ຫນ້ານີ້ໄດ້ຖືກແປຈາກ
+translation-notification-translated-to =
+    .value = ເປັນ
 # This string (empty in en-US) is for locales that need to display some text
 # after the second drop down for the sentence to be grammatically correct.
 translation-notification-translated-to-suffix =
@@ -34,6 +46,27 @@ translation-notification-translated-to-suffix =
 
 ##
 
+translation-notification-show-original-button =
+    .label = ສະແດງຕົ້ນສະບັບ
+translation-notification-show-translation-button =
+    .label = ສະແດງການແປ
+translation-notification-error-translating =
+    .value = ມີຂໍ້ຜິດພາດໃນການແປຫນ້ານີ້.
+translation-notification-try-again-button =
+    .label = ລອງໃຫມ່ອີກຄັ້ງ
+translation-notification-options-menu =
+    .label = ຕົວເລືອກ
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = ບໍ່ຕ້ອງແປ { $langName }
+    .accesskey = ບ
+translation-notification-options-never-for-site =
+    .label = ບໍ່ຕ້ອງແປເວັບໄຊທ໌ນີ້
+    .accesskey = ປ
+translation-notification-options-preferences =
+    .label = ການຕັ້ງຄ່າການແປ
+    .accesskey = ຕ
