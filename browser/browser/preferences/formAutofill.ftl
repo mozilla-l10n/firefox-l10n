@@ -53,6 +53,7 @@ autofill-add-new-card-title = Thêm thẻ tín dụng mới
 autofill-edit-card-title = Sửa thẻ tín dụng
 autofill-card-number = Số thẻ
 autofill-card-name-on-card = Tên trên thẻ
+autofill-card-billing-address = Địa chỉ thanh toán
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
