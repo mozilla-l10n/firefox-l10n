@@ -12,6 +12,8 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = Idioma da página
 translation-notification-translate-this-page =
     .value = Traduzir esta página?
 
@@ -33,6 +35,10 @@ translation-notification-translating-content =
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-translated-from =
+    .value = Esta página foi traduzida de
+translation-notification-translated-to =
+    .value = para
 # This string (empty in en-US) is for locales that need to display some text
 # after the second drop down for the sentence to be grammatically correct.
 translation-notification-translated-to-suffix =
@@ -44,11 +50,25 @@ translation-notification-show-original-button =
     .label = Mostrar original
 translation-notification-show-translation-button =
     .label = Mostrar tradução
+translation-notification-error-translating =
+    .value = Houve um erro ao traduzir esta página.
+translation-notification-try-again-button =
+    .label = Tentar novamente
+translation-notification-service-unavailable =
+    .value = A tradução não está disponível no momento. Tente novamente mais tarde.
 translation-notification-options-menu =
     .label = Opções
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = Nunca traduzir de { $langName }
+    .accesskey = N
 translation-notification-options-never-for-site =
     .label = Nunca traduzir este site
     .accesskey = N
+translation-notification-options-preferences =
+    .label = Preferências de tradução
+    .accesskey = P
