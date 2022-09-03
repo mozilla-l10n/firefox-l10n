@@ -21,7 +21,7 @@ firefoxview-tabpickup-recenttabs-description = 最近的标签页将列于此处
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = 完成 { $percentValue }%
-firefoxview-tabpickup-step-signin-header = 设备间无缝切换
+firefoxview-tabpickup-step-signin-header = 无缝切换设备
 firefoxview-tabpickup-step-signin-description = 请先登录或创建账户，即可在此处接收手机上的标签页。
 firefoxview-tabpickup-step-signin-primarybutton = 继续
 firefoxview-tabpickup-adddevice-header = 与您的手机或平板电脑同步 { -brand-product-name }
