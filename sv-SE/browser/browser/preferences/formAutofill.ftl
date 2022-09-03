@@ -88,6 +88,14 @@ autofill-country-warning-message = Autofyll av formulär är för närvarande en
 autofill-add-new-card-title = Lägg till nytt kreditkort
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Redigera kreditkort
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] visa kreditkortsinformation
+        [windows] { -brand-short-name } försöker visa kreditkortsinformation. Bekräfta åtkomst till detta Windows-konto nedan.
+       *[other] { -brand-short-name } försöker visa kreditkortsinformation.
+    }
 autofill-card-number = Kortnummer
 autofill-card-invalid-number = Ange ett giltigt kortnummer
 autofill-card-name-on-card = Namn på kort
@@ -98,4 +106,12 @@ autofill-card-network = Korttyp
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = American Express
 autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = Discover
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
+autofill-card-network-visa = Visa
