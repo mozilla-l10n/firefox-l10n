@@ -22,6 +22,7 @@ autofill-edit-address-title = Edit Alamat
 autofill-address-given-name = Nama Depan
 autofill-address-additional-name = Nama Tengah
 autofill-address-family-name = Nama Belakang
+autofill-address-organization = Organisasi
 autofill-address-street = Jalan
 
 ## address-level-3 (Sublocality) names
