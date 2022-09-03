@@ -12,6 +12,8 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-translate-this-page =
+    .value = Μετάφραση σελίδας;
 
 ##
 
@@ -44,8 +46,17 @@ translation-notification-show-original-button =
     .label = Εμφάνιση πρωτοτύπου
 translation-notification-show-translation-button =
     .label = Εμφάνιση μετάφρασης
+translation-notification-error-translating =
+    .value = Προέκυψε σφάλμα κατά τη μετάφραση της σελίδας.
+translation-notification-try-again-button =
+    .label = Δοκιμή ξανά
+translation-notification-service-unavailable =
+    .value = Η μετάφραση δεν είναι διαθέσιμη προς το παρόν. Παρακαλώ δοκιμάστε ξανά αργότερα.
 translation-notification-options-menu =
     .label = Επιλογές
 
 ## The accesskey values used here should not clash with each other
 
+translation-notification-options-preferences =
+    .label = Προτιμήσεις μετάφρασης
+    .accesskey = μ
