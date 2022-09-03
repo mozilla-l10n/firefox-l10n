@@ -15,6 +15,8 @@
 
 ##
 
+translation-notification-not-now-button =
+    .label = Nkuvi ntañu´u
 
 ## These 3 strings are used to construct a sentence that contains 2 dropdowns
 ## showing the source and target language of a translated web page.
