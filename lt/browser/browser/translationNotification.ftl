@@ -50,10 +50,14 @@ translation-notification-show-original-button =
     .label = Rodyti originalą
 translation-notification-show-translation-button =
     .label = Rodyti vertimą
+translation-notification-error-translating =
+    .value = Verčiant šį tinklalapį įvyko klaida.
 translation-notification-try-again-button =
     .label = Bandyti dar kartą
 translation-notification-service-unavailable =
     .value = Šiuo metu vertimas negalimas. Bandykite vėliau.
+translation-notification-options-menu =
+    .label = Nuostatos
 
 ## The accesskey values used here should not clash with each other
 
