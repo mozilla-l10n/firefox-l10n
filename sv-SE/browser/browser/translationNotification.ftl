@@ -35,6 +35,8 @@ translation-notification-translating-content =
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-translated-from =
+    .value = Denna sida har blivit översatt från
 translation-notification-translated-to =
     .value = till
 # This string (empty in en-US) is for locales that need to display some text
@@ -46,6 +48,10 @@ translation-notification-translated-to-suffix =
 
 translation-notification-show-original-button =
     .label = Visa originalet
+translation-notification-show-translation-button =
+    .label = Visa översättning
+translation-notification-error-translating =
+    .value = Det uppstod ett problem då denna sida skulle översättas.
 translation-notification-try-again-button =
     .label = Försök igen
 translation-notification-service-unavailable =
@@ -63,3 +69,6 @@ translation-notification-options-never-for-language =
 translation-notification-options-never-for-site =
     .label = Översätt aldrig denna sida
     .accesskey = a
+translation-notification-options-preferences =
+    .label = Översättningsinställningar
+    .accesskey = Ö
