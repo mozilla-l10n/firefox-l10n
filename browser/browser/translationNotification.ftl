@@ -39,6 +39,10 @@ translation-notification-translated-from =
     .value = ह्या पृष्ठाचे ह्यापासून भाषांतरन झाले आहे
 translation-notification-translated-to =
     .value = पर्यंत
+# This string (empty in en-US) is for locales that need to display some text
+# after the second drop down for the sentence to be grammatically correct.
+translation-notification-translated-to-suffix =
+    .value = { "" }
 
 ##
 
