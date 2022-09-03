@@ -12,6 +12,8 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = Itei lopa ir
 translation-notification-translate-this-page =
     .value = Translate this page?
 
@@ -19,6 +21,8 @@ translation-notification-translate-this-page =
 
 translation-notification-translate-button =
     .label = Translate
+translation-notification-not-now-button =
+    .label = Na tagad
 translation-notification-translating-content =
     .value = Translating page content…
 
@@ -33,6 +37,8 @@ translation-notification-translating-content =
 
 translation-notification-translated-from =
     .value = This page has been translated from
+translation-notification-translated-to =
+    .value = iz
 # This string (empty in en-US) is for locales that need to display some text
 # after the second drop down for the sentence to be grammatically correct.
 translation-notification-translated-to-suffix =
@@ -40,6 +46,8 @@ translation-notification-translated-to-suffix =
 
 ##
 
+translation-notification-show-original-button =
+    .label = Ruodeit suokūtnejū
 translation-notification-show-translation-button =
     .label = Show Translation
 translation-notification-error-translating =
@@ -48,6 +56,8 @@ translation-notification-try-again-button =
     .label = Try Again
 translation-notification-service-unavailable =
     .value = Translation is not available at the moment. Please try again later.
+translation-notification-options-menu =
+    .label = Īstatiejumi
 
 ## The accesskey values used here should not clash with each other
 
