@@ -14,6 +14,8 @@
 
 translation-notification-this-page-is-in =
     .value = Aceasta pagină este în
+translation-notification-translate-this-page =
+    .value = Traduci această pagină?
 
 ##
 
@@ -21,6 +23,8 @@ translation-notification-translate-button =
     .label = Tradu
 translation-notification-not-now-button =
     .label = Nu acum
+translation-notification-translating-content =
+    .value = Se traduce conținutul paginii…
 
 ## These 3 strings are used to construct a sentence that contains 2 dropdowns
 ## showing the source and target language of a translated web page.
@@ -46,6 +50,8 @@ translation-notification-error-translating =
     .value = A apărut o eroare la traducerea acestei pagini.
 translation-notification-try-again-button =
     .label = Încearcă din nou
+translation-notification-service-unavailable =
+    .value = Traducerea nu este disponibilă pentru moment. Te rugăm să încerci din nou mai târziu.
 translation-notification-options-menu =
     .label = Opțiuni
 
@@ -56,6 +62,9 @@ translation-notification-options-menu =
 translation-notification-options-never-for-language =
     .label = Nu tradu niciodată { $langName }
     .accesskey = N
+translation-notification-options-never-for-site =
+    .label = Nu tradu niciodată acest site
+    .accesskey = e
 translation-notification-options-preferences =
     .label = Preferințe pentru traducere
     .accesskey = P
