@@ -88,6 +88,14 @@ autofill-country-warning-message = Leuniañ emgefreek ar furmskridoù a zo heger
 autofill-add-new-card-title = Ouzhpennañ ar gartenn gred
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Embann ar gartenn gred
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] diskouez titouroù ar gartenn-gred
+        [windows] { -brand-short-name } a glask diskouez titouroù ur gartenn vank. Kadarnait an haeziñ d'ar gont Windows dindan.
+       *[other] { -brand-short-name } a glask diskouez titouroù ur gartenn vank.
+    }
 autofill-card-number = Niverenn ar gartenn
 autofill-card-invalid-number = Roit un niver kartenn dalvoudek mar plij
 autofill-card-name-on-card = Anv war ar gartenn
