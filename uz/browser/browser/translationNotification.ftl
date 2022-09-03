@@ -12,6 +12,10 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = Ushbu sahifa tili:
+translation-notification-translate-this-page =
+    .value = Bu sahifa tarjima qilinsinmi?
 
 ##
 
@@ -31,6 +35,8 @@ translation-notification-translating-content =
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-translated-from =
+    .value = Sahifaning asl tili:
 translation-notification-translated-to =
     .value = ushbu tilga
 # This string (empty in en-US) is for locales that need to display some text
@@ -46,8 +52,23 @@ translation-notification-show-translation-button =
     .label = Tarjimani ko‘rsatish
 translation-notification-error-translating =
     .value = Ushbu sahifani tarjima qilishda xato yuz berdi.
+translation-notification-try-again-button =
+    .label = Yana urinib ko‘rish
+translation-notification-service-unavailable =
+    .value = Tarjima ayni lahzalarda mavjud emas. Keyinroq urinib ko‘ring.
 translation-notification-options-menu =
     .label = Moslamalar
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = { $langName } hech qachon tarjima qilinmasin
+    .accesskey = h
+translation-notification-options-never-for-site =
+    .label = Bu sayt hech qachon tarjima qilinmasin
+    .accesskey = h
+translation-notification-options-preferences =
+    .label = Tarjima parametrlari
+    .accesskey = T
