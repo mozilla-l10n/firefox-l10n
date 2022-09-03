@@ -12,9 +12,15 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = Страницата е на
+translation-notification-translate-this-page =
+    .value = език. Превеждане на страницата?
 
 ##
 
+translation-notification-translate-button =
+    .label = Превеждане
 translation-notification-not-now-button =
     .label = Не сега
 translation-notification-translating-content =
@@ -44,6 +50,10 @@ translation-notification-show-original-button =
     .label = Показване на оригинала
 translation-notification-show-translation-button =
     .label = Показване на превода
+translation-notification-error-translating =
+    .value = Възникна грешка при превода на страницата.
+translation-notification-try-again-button =
+    .label = Нов опит
 translation-notification-service-unavailable =
     .value = Превеждането е недостъпно в момента. Моля, опитайте по-късно.
 translation-notification-options-menu =
@@ -51,3 +61,14 @@ translation-notification-options-menu =
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = Без превод на { $langName }
+    .accesskey = п
+translation-notification-options-never-for-site =
+    .label = Без превод на този сайт
+    .accesskey = с
+translation-notification-options-preferences =
+    .label = Настройки на превода
+    .accesskey = Н
