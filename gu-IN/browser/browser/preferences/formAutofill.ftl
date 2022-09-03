@@ -59,6 +59,9 @@ autofill-edit-card-title = ક્રેડિટ કાર્ડ સંપાદ
 autofill-card-number = કાર્ડ ક્રમાંક
 autofill-card-invalid-number = કૃપા કરી માન્ય કાર્ડ નંબર દાખલ કરો
 autofill-card-name-on-card = કાર્ડ પરનું નામ
+autofill-card-expires-month = સમાપ્તિ માસ
+autofill-card-expires-year = સમાપ્તિ વર્ષ
+autofill-card-billing-address = બિલિંગ સરનામું
 autofill-card-network = કાર્ડ પ્રકાર
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
