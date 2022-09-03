@@ -12,6 +12,7 @@ autofill-manage-credit-cards-list-header = Credit Cairds
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Remuive
+autofill-manage-add-button = Eik on…
 autofill-manage-edit-button = Edit…
 
 ##
