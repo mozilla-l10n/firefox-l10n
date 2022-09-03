@@ -21,6 +21,12 @@ styleeditor-editor-textbox =
     .data-placeholder = ইয়াত CSS টাইপ কৰক।
 styleeditor-no-stylesheet = এই পৃষ্ঠাৰ কোনো শৈলী পৰ্দা নাই।
 styleeditor-no-stylesheet-tip = হয়তো আপুনি <a data-l10n-name="append-new-stylesheet">এটা নতুন শৈলী পৰ্দা সংযোজন কৰিব বিচাৰিব পাৰে</a>?
+styleeditor-find =
+    .label = সন্ধান কৰক
+    .accesskey = F
+styleeditor-find-again =
+    .label = আকৌ সন্ধান কৰক
+    .accesskey = g
 styleeditor-go-to-line =
     .label = শাৰীলৈ যাওক…
     .accesskey = J
