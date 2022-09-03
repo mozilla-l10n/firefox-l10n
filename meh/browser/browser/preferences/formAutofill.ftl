@@ -6,7 +6,11 @@
 ## The address and credit card autofill management dialog in browser preferences
 
 autofill-manage-credit-cards-title = Tutu crédito nchuva´a
+autofill-manage-dialog =
+    .style = min-width: 560px
+autofill-manage-remove-button = Xita
 autofill-manage-add-button = Tee…
+autofill-manage-edit-button = Natee…
 
 ##
 
@@ -38,6 +42,8 @@ autofill-address-area = Área
 ##
 
 autofill-address-email = Email
+autofill-cancel-button = Nkuvi-ka
+autofill-save-button = Chuva´a
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
