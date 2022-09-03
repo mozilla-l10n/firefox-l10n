@@ -40,6 +40,8 @@ autofill-address-tel = فون
 autofill-address-email = ای میل
 autofill-cancel-button = منسوخ کریں
 autofill-save-button = محفوظ کریں
+autofill-card-number = کارڈ کا نمبر
+autofill-card-name-on-card = کارڈ پر نام
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
