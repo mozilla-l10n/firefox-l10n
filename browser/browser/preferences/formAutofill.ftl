@@ -111,6 +111,7 @@ autofill-card-network-cartebancaire = Carte Bancaire
 autofill-card-network-diners = Diners Club
 autofill-card-network-discover = Discover
 autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
