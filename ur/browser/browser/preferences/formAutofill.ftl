@@ -54,6 +54,8 @@ autofill-address-emirate = امارت
 
 ## Postal code name types
 
+# Used in IN
+autofill-address-pin = پن
 
 ##
 
