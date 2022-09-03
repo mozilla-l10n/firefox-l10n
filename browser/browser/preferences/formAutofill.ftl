@@ -29,18 +29,36 @@ autofill-address-street = Adresse postale
 
 ## address-level-3 (Sublocality) names
 
+# Used in IR, MX
+autofill-address-neighborhood = Quartier
+# Used in MY
+autofill-address-village-township = Village ou canton
+autofill-address-island = Île
 # Used in IE
 autofill-address-townland = Commune
 
 ## address-level-2 names
 
 autofill-address-city = Ville
+# Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
+autofill-address-district = Arrondissement
+# Used in AU as Address Level-2 and used in ZZ as Sublocality.
+autofill-address-suburb = Banlieue
 
 ## address-level-1 names
 
 autofill-address-state = État
+autofill-address-county = Comté
 # Used in BB, JM
 autofill-address-parish = Paroisse
+# Used in JP
+autofill-address-prefecture = Préfecture
+# Used in HK
+autofill-address-area = Zone
+# Used in NI, CO
+autofill-address-department = Département
+# Used in AE
+autofill-address-emirate = Émirat
 
 ## Postal code name types
 
@@ -72,6 +90,8 @@ autofill-edit-card-password-prompt =
 autofill-card-number = Numéro de carte
 autofill-card-invalid-number = Veuillez saisir un numéro de carte valide
 autofill-card-name-on-card = Titulaire
+autofill-card-expires-month = Mois d’expiration
+autofill-card-expires-year = Année d’expiration
 autofill-card-billing-address = Adresse de facturation
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
