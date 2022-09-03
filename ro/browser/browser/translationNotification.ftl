@@ -42,6 +42,10 @@ translation-notification-translated-to-suffix =
 
 ##
 
+translation-notification-error-translating =
+    .value = A apărut o eroare la traducerea acestei pagini.
+translation-notification-try-again-button =
+    .label = Încearcă din nou
 translation-notification-options-menu =
     .label = Opțiuni
 
