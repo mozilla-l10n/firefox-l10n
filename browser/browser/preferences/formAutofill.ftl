@@ -88,6 +88,14 @@ autofill-country-warning-message = Az űrlapkitöltés jelenleg csak egyes orsz�
 autofill-add-new-card-title = Új bankkártya hozzáadása
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Bankkártya szerkesztése
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] bankkártya-információk megjelenítése
+        [windows] A { -brand-short-name } bankkártyaadatokat akar megjeleníteni. Erősítse meg a hozzáférést az alábbi Windows-fiókhoz.
+       *[other] A { -brand-short-name } bankkártyaadatokat akar megjeleníteni.
+    }
 autofill-card-number = Kártyaszám
 autofill-card-invalid-number = Írjon be érvényes kártyaszámot
 autofill-card-name-on-card = Kártyán szereplő név
