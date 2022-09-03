@@ -23,6 +23,12 @@ styleeditor-no-stylesheet = This page has no style sheet.
 styleeditor-no-stylesheet-tip = Perhaps you'd like to <a data-l10n-name="append-new-stylesheet">append a new style sheet</a>?
 styleeditor-open-link-new-tab =
     .label = নতুন ট্যাব-এ লিঙ্ক খুলুন
+styleeditor-find =
+    .label = অনুসন্ধান
+    .accesskey = F
+styleeditor-find-again =
+    .label = পরবর্তী উপস্থিতি অনুসন্ধান করুন
+    .accesskey = প
 styleeditor-go-to-line =
     .label = এই লাইনে যান…
     .accesskey = J
