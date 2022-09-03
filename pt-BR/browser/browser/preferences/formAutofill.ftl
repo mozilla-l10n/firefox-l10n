@@ -38,6 +38,8 @@ autofill-address-island = Ilha
 autofill-address-city = Cidade
 # Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
 autofill-address-district = Distrito
+# Used in AU as Address Level-2 and used in ZZ as Sublocality.
+autofill-address-suburb = Subúrbio
 
 ## address-level-1 names
 
