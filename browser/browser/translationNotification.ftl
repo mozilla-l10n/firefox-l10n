@@ -54,6 +54,18 @@ translation-notification-error-translating =
     .value = Здарылася памылка падчас перакладу гэтай старонкі.
 translation-notification-try-again-button =
     .label = Паспрабаваць зноў
+translation-notification-service-unavailable =
+    .value = Пераклад зараз недаступны. Калі ласка, паспрабуйце пазней.
+translation-notification-options-menu =
+    .label = Налады
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = Ніколі не перакладаць { $langName }
+    .accesskey = Н
+translation-notification-options-never-for-site =
+    .label = Ніколі не перакладаць гэты сайт
+    .accesskey = э
