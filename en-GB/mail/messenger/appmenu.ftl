@@ -16,3 +16,67 @@ appmenuitem-font-size-reduce =
 appmenuitem-font-size-reset =
     .label = { $size }px
     .tooltiptext = Reset Font Size
+
+## Tools
+
+appmenu-tools-panel-title =
+    .title = Tools
+appmenu-tools-panel =
+    .label = Tools
+    .accesskey = T
+appmenu-tools-import =
+    .label = Import
+    .accesskey = I
+appmenu-tools-export =
+    .label = Export
+    .accesskey = E
+appmenu-tools-message-search =
+    .label = Search Messages
+    .accesskey = S
+appmenu-tools-message-filters =
+    .label = Message Filters
+    .accesskey = F
+appmenu-tools-download-manager =
+    .label = Download Manager
+    .accesskey = D
+appmenu-tools-activity-manager =
+    .label = Activity Manager
+    .accesskey = A
+appmenu-tools-dev-tools =
+    .label = Developer Tools
+    .accesskey = T
+
+## Help
+
+appmenu-help-panel-title =
+    .title = Help
+appmenu-help-get-help =
+    .label = Get Help
+    .accesskey = H
+appmenu-help-explore-features =
+    .label = Explore Features
+    .accesskey = F
+appmenu-help-shortcuts =
+    .label = Keyboard Shortcuts
+    .accesskey = K
+appmenu-help-get-involved =
+    .label = Get Involved
+    .accesskey = G
+appmenu-help-donation =
+    .label = Make a Donation
+    .accesskey = D
+appmenu-help-feedback =
+    .label = Submit Feedback and Ideas
+    .accesskey = S
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Troubleshoot Mode…
+    .accesskey = T
+appmenu-help-exit-troubleshoot-mode2 =
+    .label = Turn Troubleshoot Mode Off
+    .accesskey = O
+appmenu-help-troubleshooting-info =
+    .label = Troubleshooting Information
+    .accesskey = I
+appmenu-help-about-product =
+    .label = About { -brand-short-name }
+    .accesskey = A
