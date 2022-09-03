@@ -4,3 +4,5 @@
 
 app-picker-send-msg =
     .value = এই বস্তুলৈ ইয়াত পঠিয়াওক:
+app-picker-no-app-found =
+    .value = এই ফাইলৰ ধৰণৰ কাৰণে কোনো এপ্লিকেচন পোৱা ন'গ'ল।
