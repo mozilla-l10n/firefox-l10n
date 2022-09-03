@@ -59,3 +59,4 @@ about-private-browsing-pin-promo-link-text =
         [macos] שמירה ב־Dock
        *[other] הצמדה לשורת המשימות
     }
+about-private-browsing-pin-promo-title = ללא עוגיות או היסטוריה שמורה, היישר משולחן העבודה שלך. לדפדף כאילו אף אחד לא צופה בך.
