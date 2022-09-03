@@ -54,8 +54,12 @@ autofill-address-state = الولاية
 autofill-address-county = البلد
 # Used in BB, JM
 autofill-address-parish = الأبرشيّة
+# Used in JP
+autofill-address-prefecture = المحافظة
 # Used in HK
 autofill-address-area = المنطقة
+# Used in KR
+autofill-address-do-si = Do/Si
 # Used in NI, CO
 autofill-address-department = القِسم
 # Used in AE
@@ -102,9 +106,12 @@ autofill-card-network = نوع البطاقة
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = أمريكان إكسبرِس
 autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
 autofill-card-network-discover = اكتشف
 autofill-card-network-jcb = JCB
 autofill-card-network-mastercard = ماستِركارد
 autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = ڤيزا
