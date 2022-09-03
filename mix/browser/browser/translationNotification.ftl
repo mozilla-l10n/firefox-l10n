@@ -35,3 +35,8 @@ translation-notification-translated-to-suffix =
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = Miki samu{ $langName }
+    .accesskey = N
