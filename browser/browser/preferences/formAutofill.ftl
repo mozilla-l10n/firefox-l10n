@@ -29,20 +29,52 @@ autofill-address-street = શેરીનુ સરનામું
 
 ## address-level-3 (Sublocality) names
 
+# Used in IR, MX
+autofill-address-neighborhood = નજીકનો વિસ્તાર
+# Used in MY
+autofill-address-village-township = ગામ અથવા નગર વસાહત
+autofill-address-island = ટાપું
+# Used in IE
+autofill-address-townland = શહેર
 
 ## address-level-2 names
 
 autofill-address-city = શહેર
+# Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
+autofill-address-district = જિલ્લો
+# Used in GB, NO, SE
+autofill-address-post-town = Post town
+# Used in AU as Address Level-2 and used in ZZ as Sublocality.
+autofill-address-suburb = ઉપનગર
 
 ## address-level-1 names
 
 autofill-address-province = પ્રાંત
 autofill-address-state = રાજ્ય
+autofill-address-county = તાલુકો
+# Used in BB, JM
+autofill-address-parish = પરગણું
+# Used in JP
+autofill-address-prefecture = વહીવટી વિભાગ
+# Used in HK
+autofill-address-area = વિસ્તાર
+# Used in KR
+autofill-address-do-si = Do/Si
+# Used in NI, CO
+autofill-address-department = વિભાગ
+# Used in AE
+autofill-address-emirate = અમીરાત
+# Used in RU and UA
+autofill-address-oblast = પ્રદેશ
 
 ## Postal code name types
 
+# Used in IN
+autofill-address-pin = પિન
 autofill-address-postal-code = પોસ્ટલ કોડ
 autofill-address-zip = પિન કોડ
+# Used in IE
+autofill-address-eircode = Eircode
 
 ##
 
