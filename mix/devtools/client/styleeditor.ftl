@@ -4,3 +4,6 @@
 
 styleeditor-copy-url =
     .label = Ndatava URL
+styleeditor-find =
+    .label = Nduku
+    .accesskey = N
