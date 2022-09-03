@@ -12,9 +12,17 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = Re ruxaq re' k'o pa
+translation-notification-translate-this-page =
+    .value = ¿Titzalq'omïx re ruxaq re'?
 
 ##
 
+translation-notification-translate-button =
+    .label = Titzalq'omïx
+translation-notification-translating-content =
+    .value = Titzalq'omïj rupam ruxaq k'amaya'l…
 
 ## These 3 strings are used to construct a sentence that contains 2 dropdowns
 ## showing the source and target language of a translated web page.
@@ -25,6 +33,10 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-translated-from =
+    .value = Tzalq'omin re ruxaq k'amaya'l re' pa
+translation-notification-translated-to =
+    .value = richin
 # This string (empty in en-US) is for locales that need to display some text
 # after the second drop down for the sentence to be grammatically correct.
 translation-notification-translated-to-suffix =
@@ -32,6 +44,29 @@ translation-notification-translated-to-suffix =
 
 ##
 
+translation-notification-show-original-button =
+    .label = Tik'ut pe ri qitzij
+translation-notification-show-translation-button =
+    .label = Tik'ut pe ri tzalq'omanïk
+translation-notification-error-translating =
+    .value = Xk'ulwachitäj jun sachoj toq xtzalq'omïx re ruxaq re'.
+translation-notification-try-again-button =
+    .label = Titojtob'ëx chik
+translation-notification-service-unavailable =
+    .value = Wakami man wachel ta ri tzalq'omanï. Tab'ana' utzil tatojtob'ej chik pa jun ti ramaj.
+translation-notification-options-menu =
+    .label = Taq cha'oj
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = Majub'ey titzalq'omïx { $langName }
+    .accesskey = M
+translation-notification-options-never-for-site =
+    .label = Majub'ey titzalq'omïx re ruxaq k'amaya'l re'
+    .accesskey = b
+translation-notification-options-preferences =
+    .label = Taq rajowaxik tzalq'omanïk
+    .accesskey = t
