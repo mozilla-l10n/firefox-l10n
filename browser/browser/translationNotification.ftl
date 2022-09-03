@@ -56,6 +56,8 @@ translation-notification-try-again-button =
     .label = Klopodi denove
 translation-notification-service-unavailable =
     .value = Nuntempe ne eblas traduki. Bonvolu provi denove poste.
+translation-notification-options-menu =
+    .label = Preferoj
 
 ## The accesskey values used here should not clash with each other
 
