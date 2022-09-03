@@ -151,6 +151,7 @@ region-name-mf = Saint Martin
 region-name-mg = Madagascar
 region-name-mh = Quần đảo Marshall
 region-name-mk = Cộng hòa Macedonia
+region-name-mk-2019 = Bắc Macedonia
 region-name-ml = Mali
 region-name-mm = Miến Điện
 region-name-mn = Mông Cổ

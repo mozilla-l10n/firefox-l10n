@@ -113,9 +113,14 @@ about-processes-frame-name-one = Khung phụ: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Khung phụ ({ $number }): { $shortUrl }
-# Utility process actor names
+
+## Utility process actor names
+
 about-processes-utility-actor-unknown = Tác nhân không xác định
 about-processes-utility-actor-audio-decoder = Bộ giải mã âm thanh
+about-processes-utility-actor-audio-decoder-generic = Bộ giải mã âm thanh chung
+about-processes-utility-actor-audio-decoder-applemedia = Bộ giải mã âm thanh Apple Media
+about-processes-utility-actor-audio-decoder-wmf = Bộ giải mã âm thanh Windows Media Framework
 
 ## Displaying CPU (percentage and total)
 ## Variables:
