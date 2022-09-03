@@ -6,3 +6,5 @@ app-picker-browse-button =
     .buttonlabelextra2 = Przeglōndej…
 app-picker-send-msg =
     .value = Poślij tyn elymynt do:
+app-picker-no-app-found =
+    .value = Do tego typu zbiorōw niy była znaleziōno żodno aplikacyjo.
