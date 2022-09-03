@@ -12,9 +12,19 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = हे पृष्ठ येथे आहे
+translation-notification-translate-this-page =
+    .value = ह्या पृष्ठाचे भाषांतरन करायचे?
 
 ##
 
+translation-notification-translate-button =
+    .label = भाषांतरन करा
+translation-notification-not-now-button =
+    .label = आता नाही
+translation-notification-translating-content =
+    .value = पृष्ठ अंतर्भुत माहितीचे भाषांतरन करत आहे…
 
 ## These 3 strings are used to construct a sentence that contains 2 dropdowns
 ## showing the source and target language of a translated web page.
@@ -25,11 +35,21 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-translated-from =
+    .value = ह्या पृष्ठाचे ह्यापासून भाषांतरन झाले आहे
 translation-notification-translated-to =
     .value = पर्यंत
 
 ##
 
+translation-notification-show-original-button =
+    .label = मूळ दाखवा
+translation-notification-show-translation-button =
+    .label = भाषांतरन दाखवा
+translation-notification-error-translating =
+    .value = ह्या पृष्ठाच्या भाषांतरनवेळी त्रुटी आढळली.
+translation-notification-try-again-button =
+    .label = पुनः प्रयत्न करा
 translation-notification-service-unavailable =
     .value = भाषांतरन याक्षणी उपलब्ध नाही. कृपया पुन्हा प्रयत्न करा.
 translation-notification-options-menu =
