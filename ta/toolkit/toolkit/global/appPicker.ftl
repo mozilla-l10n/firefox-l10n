@@ -6,3 +6,5 @@ app-picker-browse-button =
     .buttonlabelextra2 = உலாவு...
 app-picker-send-msg =
     .value = இந்த உருப்படிகளை இங்கு அனுப்பு:
+app-picker-no-app-found =
+    .value = இந்த கோப்பு வகைக்கு எந்த பயன்பாடுகளும் காணப்படவில்லை.
