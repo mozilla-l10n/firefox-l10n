@@ -5,6 +5,7 @@
 
 ## The address and credit card autofill management dialog in browser preferences
 
+autofill-manage-addresses-title = محفوظ شدہ پتے
 autofill-manage-addresses-list-header = پتے
 autofill-manage-credit-cards-list-header = کریڈٹ کارڈز
 autofill-manage-dialog =
@@ -17,13 +18,22 @@ autofill-manage-edit-button = تدوین کریں…
 
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = نیا پتہ شامل کریں
+# The dialog title for editing addresses in browser preferences.
+autofill-edit-address-title = پتہ تدوین کریں
 autofill-address-given-name = پہلا نام
+autofill-address-additional-name = درمیانی نام
 autofill-address-family-name = آخری نام
 autofill-address-organization = تنظیم
 autofill-address-street = گلی کا پتہ
 
 ## address-level-3 (Sublocality) names
 
+# Used in IR, MX
+autofill-address-neighborhood = پڑوسی
+# Used in MY
+autofill-address-village-township = گاؤں یا ٹاؤنشپ
+# Used in IE
+autofill-address-townland = ٹاؤن لینڈ
 
 ## address-level-2 names
 
@@ -33,6 +43,9 @@ autofill-address-city = شہر
 
 autofill-address-province = صوبہ
 autofill-address-state = ریاست
+autofill-address-county = کاؤنٹی
+# Used in AE
+autofill-address-emirate = امارت
 
 ## Postal code name types
 
@@ -45,7 +58,9 @@ autofill-address-email = ای میل
 autofill-cancel-button = منسوخ کریں
 autofill-save-button = محفوظ کریں
 autofill-card-number = کارڈ کا نمبر
+autofill-card-invalid-number = کوئی جائز کار ڈ نمبر داخل کریں
 autofill-card-name-on-card = کارڈ پر نام
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-cartebancaire = کارٹے بانکیئر
