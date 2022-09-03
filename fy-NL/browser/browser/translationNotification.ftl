@@ -50,6 +50,8 @@ translation-notification-error-translating =
     .value = Der is in flater bard wylst it oersetten fan dizze side.
 translation-notification-try-again-button =
     .label = Opnij probearje
+translation-notification-service-unavailable =
+    .value = Oersetting is op dit stuit net beskikber. Probearje it letter opnij.
 translation-notification-options-menu =
     .label = Opsjes
 
