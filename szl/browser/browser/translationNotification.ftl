@@ -61,6 +61,14 @@ translation-notification-options-menu =
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = Nigdy niy przekłodej { $langName }
+    .accesskey = N
+translation-notification-options-never-for-site =
+    .label = Nigdy niy przekłodej tyj strōny
+    .accesskey = e
 translation-notification-options-preferences =
     .label = Preferyncyje przekłodanio
     .accesskey = P
