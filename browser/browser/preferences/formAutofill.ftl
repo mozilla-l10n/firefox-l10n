@@ -11,6 +11,7 @@ autofill-manage-credit-cards-title = భద్రపరిచిన క్రె
 autofill-manage-credit-cards-list-header = క్రెడిట్ కార్డులు
 autofill-manage-remove-button = తీసివేయి
 autofill-manage-add-button = చేర్చు…
+autofill-manage-edit-button = సరిచేయు…
 
 ##
 
@@ -43,6 +44,9 @@ autofill-address-tel = ఫోను
 autofill-address-email = ఇమెయిల్
 autofill-cancel-button = రద్దుచేయి
 autofill-save-button = భద్రపరచు
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title = క్రెడిట్ కార్డ్ను సవరించండి
+autofill-card-number = కార్డ్ సంఖ్య
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
