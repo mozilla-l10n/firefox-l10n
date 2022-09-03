@@ -88,6 +88,14 @@ autofill-country-warning-message = Autoudfyldning af adresser er lige nu kun til
 autofill-add-new-card-title = Tilføj nyt betalingskort
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Rediger betalingskort
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] vise informationer om betalingskort
+        [windows] { -brand-short-name } forsøger at vise information om et betalingskort. Bekræft adgang til Windows-kontoen nedenfor.
+       *[other] { -brand-short-name } forsøger at vise information om et betalingskort.
+    }
 autofill-card-number = Kortnummer
 autofill-card-invalid-number = Angiv et gyldigt kortnummer
 autofill-card-name-on-card = Navn på kort
