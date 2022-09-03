@@ -29,20 +29,52 @@ autofill-address-street = Gatuadress
 
 ## address-level-3 (Sublocality) names
 
+# Used in IR, MX
+autofill-address-neighborhood = Grannskap
+# Used in MY
+autofill-address-village-township = Samhälle eller stadsdel
+autofill-address-island = Ö
+# Used in IE
+autofill-address-townland = Bygd
 
 ## address-level-2 names
 
 autofill-address-city = Ort
+# Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
+autofill-address-district = Distrikt
+# Used in GB, NO, SE
+autofill-address-post-town = Postort
+# Used in AU as Address Level-2 and used in ZZ as Sublocality.
+autofill-address-suburb = Förort
 
 ## address-level-1 names
 
 autofill-address-province = Län
 autofill-address-state = Region
+autofill-address-county = Grevskap
+# Used in BB, JM
+autofill-address-parish = Socken
+# Used in JP
+autofill-address-prefecture = Prefektur
+# Used in HK
+autofill-address-area = Yta
+# Used in KR
+autofill-address-do-si = Do/Si
+# Used in NI, CO
+autofill-address-department = Avdelning
+# Used in AE
+autofill-address-emirate = Emirat
+# Used in RU and UA
+autofill-address-oblast = Oblast
 
 ## Postal code name types
 
+# Used in IN
+autofill-address-pin = Pin
 autofill-address-postal-code = Postnummer
 autofill-address-zip = Postnummer
+# Used in IE
+autofill-address-eircode = Eircode
 
 ##
 
@@ -61,6 +93,7 @@ autofill-card-invalid-number = Ange ett giltigt kortnummer
 autofill-card-name-on-card = Namn på kort
 autofill-card-expires-month = Utg. månad
 autofill-card-expires-year = Utg. år
+autofill-card-billing-address = Fakturaadress
 autofill-card-network = Korttyp
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
