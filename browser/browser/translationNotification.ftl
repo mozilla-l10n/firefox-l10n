@@ -54,6 +54,8 @@ translation-notification-error-translating =
     .value = 번역을 돌리다 오류가 발생했습니다.
 translation-notification-try-again-button =
     .label = 다시 시도
+translation-notification-service-unavailable =
+    .value = 지금은 번역을 사용할 수 없습니다. 나중에 다시 시도하세요.
 translation-notification-options-menu =
     .label = 설정
 
