@@ -208,6 +208,7 @@ mr2-onboarding-start-browsing-button-label = 开始上网冲浪
 
 onboarding-live-language-header = 选择您的语言
 mr2022-onboarding-live-language-text = { -brand-short-name } 也懂您的语言
+mr2022-language-mismatch-subtitle = 幸得社区相助，{ -brand-short-name } 已被翻译成 90 余种语言。您的操作系统似乎正在使用“{ $systemLanguage }”，而 { -brand-short-name } 正在使用“{ $appLanguage }”。
 onboarding-live-language-button-label-downloading = 正在下载“{ $negotiatedLanguage }”语言包…
 onboarding-live-language-waiting-button = 正在获取可用语言列表…
 onboarding-live-language-installing = 正在安装“{ $negotiatedLanguage }”语言包…
@@ -255,6 +256,11 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] 在程序坞中保留 { -brand-short-name }
        *[other] 将 { -brand-short-name } 固定到任务栏
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = 选用由非营利组织支持的浏览器。遨游网络，有我们捍卫隐私。
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
