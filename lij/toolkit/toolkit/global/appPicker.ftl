@@ -6,3 +6,5 @@ app-picker-browse-button =
     .buttonlabelextra2 = Çerca…
 app-picker-send-msg =
     .value = Spedisci sto ògetto a:
+app-picker-no-app-found =
+    .value = Nisciunn-a aplicaçion trovâ pe sto tipo de schedaio.
