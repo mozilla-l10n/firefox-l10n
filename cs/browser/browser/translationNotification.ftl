@@ -14,11 +14,17 @@
 
 translation-notification-this-page-is-in =
     .value = Tato stránka je v jazyce
+translation-notification-translate-this-page =
+    .value = Chcete tuto stránku přeložit?
 
 ##
 
 translation-notification-translate-button =
     .label = Přeložit
+translation-notification-not-now-button =
+    .label = Teď ne
+translation-notification-translating-content =
+    .value = Probíhá překlad stránky…
 
 ## These 3 strings are used to construct a sentence that contains 2 dropdowns
 ## showing the source and target language of a translated web page.
@@ -31,6 +37,8 @@ translation-notification-translate-button =
 
 translation-notification-translated-from =
     .value = Tato stránka byla přeložena z jazyka
+translation-notification-translated-to =
+    .value = do jazyka
 # This string (empty in en-US) is for locales that need to display some text
 # after the second drop down for the sentence to be grammatically correct.
 translation-notification-translated-to-suffix =
@@ -38,6 +46,8 @@ translation-notification-translated-to-suffix =
 
 ##
 
+translation-notification-show-original-button =
+    .label = Zobrazit původní obsah
 translation-notification-show-translation-button =
     .label = Zobrazit překlad
 translation-notification-error-translating =
@@ -51,6 +61,11 @@ translation-notification-options-menu =
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = Nikdy nepřekládat z jazyka { $langName }
+    .accesskey = N
 translation-notification-options-never-for-site =
     .label = Nikdy nepřekládat tuto stránku
     .accesskey = e
