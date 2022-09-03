@@ -30,6 +30,7 @@ autofill-address-zip = Kode Pos
 
 ##
 
+autofill-cancel-button = Bateuë
 autofill-save-button = Keubah
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
