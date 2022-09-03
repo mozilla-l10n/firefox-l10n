@@ -15,6 +15,10 @@
 
 ##
 
+translation-notification-not-now-button =
+    .label = Не сега
+translation-notification-translating-content =
+    .value = Превеждане съдържанието на страницата…
 
 ## These 3 strings are used to construct a sentence that contains 2 dropdowns
 ## showing the source and target language of a translated web page.
@@ -25,6 +29,10 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-translated-from =
+    .value = Тази страница е преведена от
+translation-notification-translated-to =
+    .value = на
 # This string (empty in en-US) is for locales that need to display some text
 # after the second drop down for the sentence to be grammatically correct.
 translation-notification-translated-to-suffix =
@@ -32,6 +40,14 @@ translation-notification-translated-to-suffix =
 
 ##
 
+translation-notification-show-original-button =
+    .label = Показване на оригинала
+translation-notification-show-translation-button =
+    .label = Показване на превода
+translation-notification-service-unavailable =
+    .value = Превеждането е недостъпно в момента. Моля, опитайте по-късно.
+translation-notification-options-menu =
+    .label = Настройки
 
 ## The accesskey values used here should not clash with each other
 
