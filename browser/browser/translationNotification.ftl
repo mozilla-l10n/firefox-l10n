@@ -39,6 +39,10 @@ translation-notification-translated-from =
     .value = ഈ താള്‍ ഏത് ഭാഷയില്‍ നിന്നും തര്‍ജ്ജമ ചെയ്തിരിയ്ക്കുന്നു
 translation-notification-translated-to =
     .value = എവിടേക്കു്
+# This string (empty in en-US) is for locales that need to display some text
+# after the second drop down for the sentence to be grammatically correct.
+translation-notification-translated-to-suffix =
+    .value = { "" }
 
 ##
 
