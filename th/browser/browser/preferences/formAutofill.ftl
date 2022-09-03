@@ -31,11 +31,19 @@ autofill-address-street = ที่อยู่
 
 # Used in IR, MX
 autofill-address-neighborhood = ชุมชน
+# Used in MY
+autofill-address-village-township = หมู่บ้านหรือเขตการปกครอง
 autofill-address-island = เกาะ
+# Used in IE
+autofill-address-townland = เขต
 
 ## address-level-2 names
 
 autofill-address-city = เมือง
+# Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
+autofill-address-district = เขต
+# Used in GB, NO, SE
+autofill-address-post-town = เมือง
 # Used in AU as Address Level-2 and used in ZZ as Sublocality.
 autofill-address-suburb = ชานเมือง
 
@@ -43,11 +51,30 @@ autofill-address-suburb = ชานเมือง
 
 autofill-address-province = จังหวัด
 autofill-address-state = รัฐ
+autofill-address-county = เคาน์ตี
+# Used in BB, JM
+autofill-address-parish = ตำบล
+# Used in JP
+autofill-address-prefecture = อำเภอ
+# Used in HK
+autofill-address-area = เขต
+# Used in KR
+autofill-address-do-si = จังหวัด
+# Used in NI, CO
+autofill-address-department = จังหวัด
+# Used in AE
+autofill-address-emirate = เอมิเรต
+# Used in RU and UA
+autofill-address-oblast = แคว้น
 
 ## Postal code name types
 
+# Used in IN
+autofill-address-pin = พิน
 autofill-address-postal-code = รหัสไปรษณีย์
 autofill-address-zip = รหัสไปรษณีย์
+# Used in IE
+autofill-address-eircode = เอียร์โค้ด
 
 ##
 
