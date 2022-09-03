@@ -12,6 +12,8 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = Trang này sử dụng tiếng
 translation-notification-translate-this-page =
     .value = Dịch trang này?
 
@@ -33,6 +35,8 @@ translation-notification-translating-content =
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-translated-from =
+    .value = Trang này đã được dịch từ tiếng
 # This string (empty in en-US) is for locales that need to display some text
 # after the second drop down for the sentence to be grammatically correct.
 translation-notification-translated-to-suffix =
@@ -46,6 +50,10 @@ translation-notification-show-translation-button =
     .label = Xem bản dịch
 translation-notification-error-translating =
     .value = Có lỗi khi đang dịch trang này.
+translation-notification-try-again-button =
+    .label = Thử lại
+translation-notification-service-unavailable =
+    .value = Hiện tại không thể dịch được. Vui lòng thử lại sau.
 translation-notification-options-menu =
     .label = Tùy chọn
 
