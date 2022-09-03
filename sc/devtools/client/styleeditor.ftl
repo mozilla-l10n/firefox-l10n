@@ -4,3 +4,9 @@
 
 styleeditor-open-link-new-tab =
     .label = Aberi su ligòngiu in un'ischeda noa
+styleeditor-find =
+    .label = Chirca
+    .accesskey = C
+styleeditor-find-again =
+    .label = Torra a chircare
+    .accesskey = o
