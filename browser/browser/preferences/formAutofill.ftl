@@ -34,6 +34,8 @@ autofill-address-neighborhood = Հարևանություն
 # Used in MY
 autofill-address-village-township = Գյուղ կամ համայնք
 autofill-address-island = Կղզի
+# Used in IE
+autofill-address-townland = Townland
 
 ## address-level-2 names
 
