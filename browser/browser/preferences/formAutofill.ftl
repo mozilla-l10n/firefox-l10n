@@ -59,6 +59,7 @@ autofill-card-number = 卡号
 autofill-card-name-on-card = 卡上名称
 autofill-card-expires-month = 到期月
 autofill-card-expires-year = 到期年
+autofill-card-billing-address = 账单地址
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
