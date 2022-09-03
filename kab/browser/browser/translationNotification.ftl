@@ -37,6 +37,8 @@ translation-notification-translating-content =
 
 translation-notification-translated-from =
     .value = Asebtar-a yettusuqel-d seg
+translation-notification-translated-to =
+    .value = ar
 # This string (empty in en-US) is for locales that need to display some text
 # after the second drop down for the sentence to be grammatically correct.
 translation-notification-translated-to-suffix =
@@ -50,11 +52,20 @@ translation-notification-show-translation-button =
     .label = Sken tasuqilt
 translation-notification-error-translating =
     .value = Tuccḍa deg tsuqilt n usebter-a.
+translation-notification-try-again-button =
+    .label = Ɛreḍ i tikelt-nniḍen
 translation-notification-service-unavailable =
     .value = Ameẓlu n tsulqilt ulac-itt. Ɛreḍ ticki.
+translation-notification-options-menu =
+    .label = Iɣewwaṛen
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = Weṛǧin ad tsuqleḍ{ $langName }
+    .accesskey = W
 translation-notification-options-never-for-site =
     .label = Werǧin asuqel n usmel-a
     .accesskey = W
