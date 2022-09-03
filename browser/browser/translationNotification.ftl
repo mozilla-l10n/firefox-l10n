@@ -54,6 +54,8 @@ translation-notification-error-translating =
     .value = Бұл парақты аудару кезінде қате орын алды.
 translation-notification-try-again-button =
     .label = Қайталап көру
+translation-notification-service-unavailable =
+    .value = Аударма қазір қолжетімсіз. Кейінірек қайталап көріңіз.
 translation-notification-options-menu =
     .label = Баптаулар
 
