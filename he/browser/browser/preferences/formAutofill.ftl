@@ -72,6 +72,14 @@ autofill-country-warning-message = מילוי טפסים אוטומטי זמין
 autofill-add-new-card-title = הוספת כרטיס אשראי חדש
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = עריכת כרטיס אשראי
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] להציג פרטי כרטיס אשראי
+        [windows] מתבצע ניסיון מצד { -brand-short-name } להציג נתוני כרטיס אשראי. יש לאשר את הגישה לחשבון ה־Windows הזה להלן.
+       *[other] מתבצע ניסיון מצד { -brand-short-name } להציג נתוני כרטיס אשראי.
+    }
 autofill-card-number = מספר כרטיס
 autofill-card-invalid-number = נא להקליד מספר כרטיס תקני
 autofill-card-name-on-card = שם שעל הכרטיס
