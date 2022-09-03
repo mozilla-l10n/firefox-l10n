@@ -12,6 +12,10 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = පිටුව තිබෙන්නේ
+translation-notification-translate-this-page =
+    .value = පිටුව පරිවර්තනය කරන්නද?
 
 ##
 
@@ -19,6 +23,8 @@ translation-notification-translate-button =
     .label = පරිවර්තනය
 translation-notification-not-now-button =
     .label = දැන් නොවේ
+translation-notification-translating-content =
+    .value = පිටුව පරිවර්තනය වෙමින්…
 
 ## These 3 strings are used to construct a sentence that contains 2 dropdowns
 ## showing the source and target language of a translated web page.
@@ -31,6 +37,8 @@ translation-notification-not-now-button =
 
 translation-notification-translated-from =
     .value = මෙම පිටුව පරිවර්තනය වූයේ
+translation-notification-translated-to =
+    .value = වෙත
 # This string (empty in en-US) is for locales that need to display some text
 # after the second drop down for the sentence to be grammatically correct.
 translation-notification-translated-to-suffix =
@@ -38,8 +46,29 @@ translation-notification-translated-to-suffix =
 
 ##
 
+translation-notification-show-original-button =
+    .label = මුල් පිටපත පෙන්වන්න
 translation-notification-show-translation-button =
     .label = පරිවර්තනය පෙන්වන්න
+translation-notification-error-translating =
+    .value = පිටුව පරිවර්තනය කිරීමේදී දෝෂයක් ඇති විය.
+translation-notification-try-again-button =
+    .label = යළි උත්සාහය
+translation-notification-service-unavailable =
+    .value = මේ මොහොතේ පරිවර්තනය නොතිබේ. පසුව උත්සහ කරන්න.
+translation-notification-options-menu =
+    .label = විකල්ප
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = { $langName } පරිවර්තනය නොකරන්න
+    .accesskey = N
+translation-notification-options-never-for-site =
+    .label = අඩවිය පරිවර්තනය නොකරන්න
+    .accesskey = e
+translation-notification-options-preferences =
+    .label = පරිවර්තන අභිප්‍රේත
+    .accesskey = T
