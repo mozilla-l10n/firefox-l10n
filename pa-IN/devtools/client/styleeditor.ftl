@@ -3,3 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 styleeditor-media-rules = @media ਨਿਯਮ
+styleeditor-find =
+    .label = ਖੋਜ
+    .accesskey = F
+styleeditor-find-again =
+    .label = ਅੱਗੇ ਖੋਜ
+    .accesskey = g
