@@ -4,3 +4,5 @@
 
 app-picker-browse-button =
     .buttonlabelextra2 = Procurar…
+app-picker-no-app-found =
+    .value = Nenhum aplicativo foi encontrado para este tipo de arquivo.
