@@ -88,6 +88,14 @@ autofill-country-warning-message = ขณะนี้การกรอกแบ
 autofill-add-new-card-title = เพิ่มบัตรเครดิตใหม่
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = แก้ไขบัตรเครดิต
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] แสดงข้อมูลบัตรเครดิต
+        [windows] { -brand-short-name } กำลังพยายามจะแสดงข้อมูลบัตรเครดิต ยืนยันการเข้าถึงบัญชี Windows นี้ด้านล่าง
+       *[other] { -brand-short-name } กำลังพยายามจะแสดงข้อมูลบัตรเครดิต
+    }
 autofill-card-number = หมายเลขบัตร
 autofill-card-invalid-number = โปรดป้อนหมายเลขบัตรที่ถูกต้อง
 autofill-card-name-on-card = ชื่อบนบัตร
