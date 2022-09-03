@@ -7,7 +7,10 @@
 
 autofill-manage-addresses-title = सङ्ग्रह गरिएका ठेगानाहरू
 autofill-manage-addresses-list-header = ठेगानाहरू
+autofill-manage-credit-cards-title = सुरक्षित गरिएका क्रेडिट कार्डहरु
 autofill-manage-credit-cards-list-header = क्रेडिट कार्ड
+autofill-manage-dialog =
+    .style = min-width: 560px
 autofill-manage-remove-button = हटाउनुहोस्
 autofill-manage-add-button = थप्नुहोस्…
 autofill-manage-edit-button = सम्पादन गर्नुहोस्…
