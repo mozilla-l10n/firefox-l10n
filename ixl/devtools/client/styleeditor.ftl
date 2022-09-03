@@ -4,3 +4,9 @@
 
 styleeditor-copy-url =
     .label = Eesa ivatz URL
+styleeditor-find =
+    .label = Chuk
+    .accesskey = F
+styleeditor-find-again =
+    .label = Chuk unpajte
+    .accesskey = g
