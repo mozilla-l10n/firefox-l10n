@@ -12,6 +12,8 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = Ang pahinang ito ay nasa
 
 ##
 
@@ -36,6 +38,8 @@ translation-notification-translated-to-suffix =
 
 ##
 
+translation-notification-show-original-button =
+    .label = Ipakita ang orihinal
 translation-notification-try-again-button =
     .label = Ulitin
 
