@@ -21,6 +21,8 @@ translation-notification-translate-this-page =
 
 translation-notification-translate-button =
     .label = Titzalq'omïx
+translation-notification-not-now-button =
+    .label = Wakami Mani
 translation-notification-translating-content =
     .value = Titzalq'omïj rupam ruxaq k'amaya'l…
 
