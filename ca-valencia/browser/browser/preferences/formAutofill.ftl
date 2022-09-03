@@ -88,6 +88,14 @@ autofill-country-warning-message = Actualment l'emplenament automàtic de formul
 autofill-add-new-card-title = Afig una targeta de crèdit
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Edita la targeta de crèdit
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] mostrar informació d'una targeta de crèdit
+        [windows] El { -brand-short-name } està provant de mostrar informació d'una targeta de crèdit. Confirmeu l'accés a este compte del Windows a continuació.
+       *[other] El { -brand-short-name } està provant de mostrar informació d'una targeta de crèdit.
+    }
 autofill-card-number = Número de targeta
 autofill-card-invalid-number = Introduïu un número de targeta vàlid
 autofill-card-name-on-card = Nom del titular
