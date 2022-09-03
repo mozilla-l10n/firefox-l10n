@@ -21,6 +21,8 @@ translation-notification-translate-this-page =
 
 translation-notification-translate-button =
     .label = 翻译
+translation-notification-not-now-button =
+    .label = 暂不
 translation-notification-translating-content =
     .value = 正在翻译页面内容…
 
@@ -59,6 +61,14 @@ translation-notification-options-menu =
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = 不翻译 { $langName }
+    .accesskey = N
+translation-notification-options-never-for-site =
+    .label = 不翻译此网站
+    .accesskey = e
 translation-notification-options-preferences =
     .label = 翻译首选项
     .accesskey = T
