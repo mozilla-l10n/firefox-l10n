@@ -4,3 +4,6 @@
 
 popup-notification-more-actions-button =
     .aria-label = การกระทำเพิ่มเติม
+popup-notification-default-button =
+    .label = ตกลง!
+    .accesskey = ต
