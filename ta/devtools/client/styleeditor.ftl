@@ -23,6 +23,12 @@ styleeditor-no-stylesheet = பக்கத்தில் ஸ்டைல் �
 styleeditor-no-stylesheet-tip = நீங்கள் இதை விரும்புகிறீர்களா <a data-l10n-name="append-new-stylesheet">புதிய ஸ்டைல் ஷீட்டை இணைத்தல்</a>?
 styleeditor-open-link-new-tab =
     .label = இணைப்பைப் புதிய கீற்றில் திற
+styleeditor-find =
+    .label = கண்டுபிடி
+    .accesskey = F
+styleeditor-find-again =
+    .label = மீண்டும் கண்டுபிடி
+    .accesskey = g
 styleeditor-go-to-line =
     .label = வரிக்குத் செல்…
     .accesskey = வ
