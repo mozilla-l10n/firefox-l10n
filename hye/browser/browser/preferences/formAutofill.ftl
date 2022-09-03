@@ -34,12 +34,16 @@ autofill-address-neighborhood = Հարեւանութիւն
 # Used in MY
 autofill-address-village-township = Գիւղ կամ համայնք
 autofill-address-island = Կղզի
+# Used in IE
+autofill-address-townland = Քաղաքային տարածք
 
 ## address-level-2 names
 
 autofill-address-city = Քաղաք
 # Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
 autofill-address-district = Նահանգ
+# Used in GB, NO, SE
+autofill-address-post-town = Փոստային քաղաք
 # Used in AU as Address Level-2 and used in ZZ as Sublocality.
 autofill-address-suburb = Արուարձան
 
@@ -48,6 +52,10 @@ autofill-address-suburb = Արուարձան
 autofill-address-province = Շրջան
 autofill-address-state = Նահանգ
 autofill-address-county = Երկիր
+# Used in BB, JM
+autofill-address-parish = Ծուխ
+# Used in JP
+autofill-address-prefecture = Նահանգապետութիւն
 # Used in HK
 autofill-address-area = Տարածք
 # Used in KR
@@ -65,6 +73,8 @@ autofill-address-oblast = Շրջան
 autofill-address-pin = Ամրացնել
 autofill-address-postal-code = Փոստային կոդ
 autofill-address-zip = ZIP կոդ
+# Used in IE
+autofill-address-eircode = Eircode
 
 ##
 
