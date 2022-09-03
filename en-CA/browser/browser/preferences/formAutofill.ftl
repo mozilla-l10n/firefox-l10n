@@ -55,6 +55,7 @@ autofill-add-new-card-title = Add New Credit Card
 autofill-edit-card-title = Edit Credit Card
 autofill-card-number = Card Number
 autofill-card-name-on-card = Name on Card
+autofill-card-billing-address = Billing Address
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
