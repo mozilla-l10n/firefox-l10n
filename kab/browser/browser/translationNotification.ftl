@@ -12,6 +12,10 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = Asebter-a yella deg
+translation-notification-translate-this-page =
+    .value = Suqel asebter-a?
 
 ##
 
@@ -44,11 +48,16 @@ translation-notification-show-original-button =
     .label = Sken asebter aneẓli
 translation-notification-show-translation-button =
     .label = Sken tasuqilt
+translation-notification-error-translating =
+    .value = Tuccḍa deg tsuqilt n usebter-a.
 translation-notification-service-unavailable =
     .value = Ameẓlu n tsulqilt ulac-itt. Ɛreḍ ticki.
 
 ## The accesskey values used here should not clash with each other
 
+translation-notification-options-never-for-site =
+    .label = Werǧin asuqel n usmel-a
+    .accesskey = W
 translation-notification-options-preferences =
     .label = Ismenyifen n tsuqilt
     .accesskey = I
