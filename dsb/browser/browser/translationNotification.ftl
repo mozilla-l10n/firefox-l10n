@@ -54,8 +54,21 @@ translation-notification-error-translating =
     .value = Pśi pśełožowanju toś togo boka jo zmólka nastała.
 translation-notification-try-again-button =
     .label = Hyšći raz wopytaś
+translation-notification-service-unavailable =
+    .value = Pśełožk tuchylu njestoj k dispoziciji. Pšosym wopytajśo pózdźej hyšći raz.
 translation-notification-options-menu =
     .label = Nastajenja
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = { $langName } nigda njepśełožowaś
+    .accesskey = n
+translation-notification-options-never-for-site =
+    .label = Njepśełožujśo nigda toś to sedło
+    .accesskey = e
+translation-notification-options-preferences =
+    .label = Pśełožowańske nastajenja
+    .accesskey = P
