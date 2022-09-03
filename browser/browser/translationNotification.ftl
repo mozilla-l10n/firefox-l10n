@@ -14,6 +14,8 @@
 
 translation-notification-this-page-is-in =
     .value = Այս էջի լեզուն է՝
+translation-notification-translate-this-page =
+    .value = Թարգմանե՞լ այս էջը։
 
 ##
 
@@ -21,6 +23,8 @@ translation-notification-translate-button =
     .label = Թարգմանել
 translation-notification-not-now-button =
     .label = Ոչ հիմա
+translation-notification-translating-content =
+    .value = Թարգմանում է էջի բովանդակությունը…
 
 ## These 3 strings are used to construct a sentence that contains 2 dropdowns
 ## showing the source and target language of a translated web page.
@@ -42,6 +46,8 @@ translation-notification-translated-to-suffix =
 
 ##
 
+translation-notification-show-original-button =
+    .label = Ցուցադրել բնօրինակը
 translation-notification-show-translation-button =
     .label = Ցուցադրել թարգմանությունը
 translation-notification-error-translating =
