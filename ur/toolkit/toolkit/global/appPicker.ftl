@@ -4,5 +4,7 @@
 
 app-picker-browse-button =
     .buttonlabelextra2 = براؤز کریں...
+app-picker-send-msg =
+    .value = اس شے کو بھیجیں بطرف:
 app-picker-no-app-found =
     .value = اس مسل قسم کے لیے کوئی ایپلی کیشن نہیں ملی۔
