@@ -37,6 +37,8 @@ translation-notification-translating-content =
 
 translation-notification-translated-from =
     .value = หน้านี้ถูกแปลจาก
+translation-notification-translated-to =
+    .value = เป็น
 # This string (empty in en-US) is for locales that need to display some text
 # after the second drop down for the sentence to be grammatically correct.
 translation-notification-translated-to-suffix =
@@ -59,3 +61,14 @@ translation-notification-options-menu =
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = ไม่แปล { $langName } เสมอ
+    .accesskey = ม
+translation-notification-options-never-for-site =
+    .label = ไม่แปลไซต์นี้เสมอ
+    .accesskey = ป
+translation-notification-options-preferences =
+    .label = การตั้งค่าการแปล
+    .accesskey = ค
