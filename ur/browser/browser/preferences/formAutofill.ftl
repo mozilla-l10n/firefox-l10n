@@ -32,18 +32,23 @@ autofill-address-street = گلی کا پتہ
 autofill-address-neighborhood = پڑوسی
 # Used in MY
 autofill-address-village-township = گاؤں یا ٹاؤنشپ
+autofill-address-island = جزیرہ
 # Used in IE
 autofill-address-townland = ٹاؤن لینڈ
 
 ## address-level-2 names
 
 autofill-address-city = شہر
+# Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
+autofill-address-district = ضلع
 
 ## address-level-1 names
 
 autofill-address-province = صوبہ
 autofill-address-state = ریاست
 autofill-address-county = کاؤنٹی
+# Used in HK
+autofill-address-area = علاقہ
 # Used in AE
 autofill-address-emirate = امارت
 
@@ -64,3 +69,8 @@ autofill-card-name-on-card = کارڈ پر نام
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-cartebancaire = کارٹے بانکیئر
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
+autofill-card-network-visa = Visa
