@@ -12,6 +12,8 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = 此页面使用
 translation-notification-translate-this-page =
     .value = 翻译此页面？
 
@@ -50,6 +52,8 @@ translation-notification-error-translating =
     .value = 翻译此页面时出错。
 translation-notification-try-again-button =
     .label = 重试
+translation-notification-service-unavailable =
+    .value = 暂时无法翻译。请稍后再试。
 translation-notification-options-menu =
     .label = 选项
 
