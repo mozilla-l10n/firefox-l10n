@@ -56,6 +56,7 @@ autofill-address-tel = โทรศัพท์
 autofill-address-email = อีเมล
 autofill-cancel-button = ยกเลิก
 autofill-save-button = บันทึก
+autofill-country-warning-message = ขณะนี้การกรอกแบบฟอร์มมีให้บริการเฉพาะบางประเทศเท่านั้น
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = เพิ่มบัตรเครดิตใหม่
 # The dialog title for editing credit cards in browser preferences.
