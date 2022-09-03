@@ -88,6 +88,14 @@ autofill-country-warning-message = Le completion automatic de formularios es dis
 autofill-add-new-card-title = Adder un nove carta de credito
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Modificar le carta de credito
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] monstrar le informationes del carta de credito
+        [windows] { -brand-short-name } tenta de monstrar informationes de carta de credito. Confirma le accesso a iste conto de Windows infra.
+       *[other] { -brand-short-name } tenta de monstrar informationes de carta de credito.
+    }
 autofill-card-number = Numero del carta
 autofill-card-invalid-number = Per favor insere un valide numero de carta
 autofill-card-name-on-card = Nomine sur le carta
