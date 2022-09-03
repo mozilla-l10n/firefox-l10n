@@ -17,6 +17,27 @@ menu-addons-and-themes =
 
 ## Help Menu
 
+menu-help-help-title =
+    .label = Hjälp
+    .accesskey = H
+menu-help-get-help =
+    .label = Få hjälp
+    .accesskey = F
+menu-help-explore-features =
+    .label = Utforska funktioner
+    .accesskey = t
+menu-help-shortcuts =
+    .label = Tangentbordsgenvägar
+    .accesskey = T
+menu-help-get-involved =
+    .label = Engagera dig
+    .accesskey = E
+menu-help-donation =
+    .label = Gör en donation
+    .accesskey = d
+menu-help-feedback =
+    .label = Skicka feedback och idéer
+    .accesskey = f
 menu-help-enter-troubleshoot-mode =
     .label = Felsökningsläge…
     .accesskey = F
@@ -26,6 +47,12 @@ menu-help-exit-troubleshoot-mode =
 menu-help-more-troubleshooting-info =
     .label = Mer felsökningsinformation
     .accesskey = M
+menu-help-troubleshooting-info =
+    .label = Felsökningsinformation
+    .accesskey = F
+menu-help-about-product =
+    .label = Om { -brand-short-name }
+    .accesskey = m
 
 ## Mail Toolbar
 
