@@ -31,6 +31,8 @@ autofill-address-street = వీధి చిరునామా
 
 # Used in IR, MX
 autofill-address-neighborhood = పరిసర ప్రాంతం
+# Used in MY
+autofill-address-village-township = గ్రామం లేదా టౌన్షిప్
 autofill-address-island = ఐస్‌లాండ్
 # Used in IE
 autofill-address-townland = టౌన్లాండ్
