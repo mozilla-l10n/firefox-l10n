@@ -25,6 +25,7 @@ autofill-address-given-name = Име
 autofill-address-additional-name = Средње име
 autofill-address-family-name = Презиме
 autofill-address-organization = Организација
+autofill-address-street = Адреса
 
 ## address-level-3 (Sublocality) names
 
@@ -79,6 +80,7 @@ autofill-address-eircode = Eircode
 
 autofill-address-country = Држава или покрајна
 autofill-address-tel = Телефон
+autofill-address-email = Имејл-адреса
 autofill-cancel-button = Откажи
 autofill-save-button = Сачувај
 autofill-country-warning-message = Аутоматско попуњавање форми тренутно није доступно само у одређеним државама.
