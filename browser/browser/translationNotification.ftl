@@ -57,3 +57,9 @@ translation-notification-try-again-button =
 
 ## The accesskey values used here should not clash with each other
 
+translation-notification-options-never-for-site =
+    .label = Никад не преводи овај сајт
+    .accesskey = и
+translation-notification-options-preferences =
+    .label = Подешавања превода
+    .accesskey = П
