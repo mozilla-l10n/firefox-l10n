@@ -52,6 +52,8 @@ autofill-address-suburb = उपनगर
 autofill-address-province = प्रांत
 autofill-address-state = राज्य
 autofill-address-county = देश
+# Used in BB, JM
+autofill-address-parish = पॅरीश
 # Used in HK
 autofill-address-area = क्षेत्र
 # Used in NI, CO
@@ -81,6 +83,7 @@ autofill-card-invalid-number = कृपया वैध कार्ड क्�
 autofill-card-name-on-card = कार्ड वरील नाव
 autofill-card-expires-month = कालबाह्यता महिना
 autofill-card-expires-year = कालबाह्यता वर्ष
+autofill-card-billing-address = बिलाचा पत्ता
 autofill-card-network = कार्ड प्रकार
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
