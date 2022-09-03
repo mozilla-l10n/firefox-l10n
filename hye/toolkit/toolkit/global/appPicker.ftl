@@ -4,5 +4,7 @@
 
 app-picker-browse-button =
     .buttonlabelextra2 = Զննել…
+app-picker-send-msg =
+    .value = Ուղարկէք այս միաւորը
 app-picker-no-app-found =
     .value = Այս ծրագրերի համար նիշքի տեսակ չի գտնուել
