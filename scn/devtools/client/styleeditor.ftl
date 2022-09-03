@@ -4,3 +4,6 @@
 
 styleeditor-open-link-new-tab =
     .label = Rapi a lijami nta na scheda nova
+styleeditor-find =
+    .label = Trova
+    .accesskey = v
