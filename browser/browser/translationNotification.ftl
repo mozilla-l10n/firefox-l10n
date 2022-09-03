@@ -14,6 +14,8 @@
 
 translation-notification-this-page-is-in =
     .value = Aquesta pagina es en
+translation-notification-translate-this-page =
+    .value = Traduire aquesta pagina ?
 
 ##
 
