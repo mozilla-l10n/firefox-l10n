@@ -38,6 +38,9 @@ autofill-address-city = Aγrem
 
 autofill-address-province = Tamnaḍt
 autofill-address-state = Addad
+autofill-address-county = Tamurt
+# Used in NI, CO
+autofill-address-department = Agezdu
 
 ## Postal code name types
 
@@ -60,6 +63,7 @@ autofill-card-number = Uṭṭun n tkeṛḍa
 autofill-card-invalid-number = Ma ulac aɣilif, sekcem uṭṭun n tkeṛḍa ameɣtu
 autofill-card-expires-month = Aggur n tagara
 autofill-card-expires-year = Aseggas n tagara
+autofill-card-billing-address = Tansa n tuzna n tfaturt
 autofill-card-network = Tawsit n tkarḍa
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
