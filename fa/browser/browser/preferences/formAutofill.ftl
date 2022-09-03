@@ -69,6 +69,8 @@ autofill-address-oblast = Oblast
 
 ## Postal code name types
 
+# Used in IN
+autofill-address-pin = سنجاق کردن
 autofill-address-postal-code = کد پستی
 autofill-address-zip = کد پستی
 # Used in IE
@@ -107,5 +109,9 @@ autofill-card-network = نوع کارت
 autofill-card-network-amex = امریکن اکسپرس
 autofill-card-network-cartebancaire = Carte Bancaire
 autofill-card-network-diners = Diners Club
+autofill-card-network-discover = اکتشاف
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = ویزا
