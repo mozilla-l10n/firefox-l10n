@@ -4,3 +4,7 @@
 
 app-picker-browse-button =
     .buttonlabelextra2 = Stravaig…
+app-picker-send-msg =
+    .value = Send this item tae:
+app-picker-no-app-found =
+    .value = Nae applications wir fund for this file type.
