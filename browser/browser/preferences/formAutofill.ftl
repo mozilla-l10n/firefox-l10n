@@ -85,6 +85,7 @@ autofill-add-new-card-title = 새 신용 카드 추가
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = 신용 카드 수정
 autofill-card-number = 카드 번호
+autofill-card-invalid-number = 유효한 카드 번호를 입력하세요
 autofill-card-expires-month = 만료월
 autofill-card-expires-year = 만료년
 autofill-card-billing-address = 청구 주소
