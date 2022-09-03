@@ -2,5 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-close-notification-message =
-    .tooltiptext = འཆར་འཕྲིན་འདི་ཁ་རྒྱག
+popup-notification-more-actions-button =
+    .aria-label = དེ་ལས་མང་བའི་བྱ་འགུལ
+popup-notification-default-button =
+    .label = OK!
+    .accesskey = O
