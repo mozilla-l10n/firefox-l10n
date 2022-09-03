@@ -88,6 +88,14 @@ autofill-country-warning-message = Inprimakiak automatikoki betetzea momentuz ze
 autofill-add-new-card-title = Gehitu kreditu-txartel berria
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Editatu kreditu-txartela
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] erakutsi kreditu txartelaren informazioa
+        [windows] Kreditu-txartelen informazioa erakusten saiatzen ari da { -brand-short-name }. Berretsi azpian Windows kontu honetarako sarbidea.
+       *[other] Kreditu-txartelen informazioa erakusten saiatzen ari da { -brand-short-name }.
+    }
 autofill-card-number = Txartelaren zenbakia
 autofill-card-invalid-number = Idatzi baliozko txartel-zenbakia
 autofill-card-name-on-card = Txarteleko izena
