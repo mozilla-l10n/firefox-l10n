@@ -7,7 +7,11 @@
 
 autofill-manage-addresses-list-header = پتے
 autofill-manage-credit-cards-list-header = کریڈٹ کارڈز
+autofill-manage-dialog =
+    .style = min-width: 560px
 autofill-manage-remove-button = ہٹائیں
+autofill-manage-add-button = ا‌ضافہ کریں…
+autofill-manage-edit-button = تدوین کریں…
 
 ##
 
