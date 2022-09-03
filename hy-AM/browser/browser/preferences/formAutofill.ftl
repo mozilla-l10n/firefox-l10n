@@ -88,6 +88,14 @@ autofill-country-warning-message = Ինքնալրացման ձևը այժմ մա
 autofill-add-new-card-title = Ավելացնել նոր բանկային քարտ
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Խմբագրել բանկային քարտը
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] ցույց տալ բանկային քարտի տեղեկությունները
+        [windows] { -brand-short-name }-ը փորձում է ցուցադրել վարկային քարտի տեղեկություն։ Հաստատեք ստորև այս պատուհանների էջի մատչումը։
+       *[other] { -brand-short-name }-ը փորձում է ցցուցադրել բանկային քարտի տեղեկությունը։
+    }
 autofill-card-number = Քատի համարը
 autofill-card-invalid-number = Մուտքագրեք ճիշտ քարտի համար
 autofill-card-name-on-card = Անունը քարտի վրա
