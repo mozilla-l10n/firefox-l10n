@@ -21,6 +21,8 @@ translation-notification-translate-button =
     .label = Traduire
 translation-notification-not-now-button =
     .label = Pas ara
+translation-notification-translating-content =
+    .value = Traduire lo contengut de la pagina…
 
 ## These 3 strings are used to construct a sentence that contains 2 dropdowns
 ## showing the source and target language of a translated web page.
@@ -31,6 +33,8 @@ translation-notification-not-now-button =
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-translated-from =
+    .value = Aquesta pagina es estada tradusida de
 translation-notification-translated-to =
     .value = per
 # This string (empty in en-US) is for locales that need to display some text
@@ -46,6 +50,10 @@ translation-notification-show-translation-button =
     .label = Veire la traduccion
 translation-notification-error-translating =
     .value = I a agut una error de traduccion sus aquesta pagina.
+translation-notification-try-again-button =
+    .label = Tornar ensajar
+translation-notification-service-unavailable =
+    .value = Lo servici de traduccion es actualament indisponible. Tornatz ensajar mai tard.
 translation-notification-options-menu =
     .label = Opcions
 
