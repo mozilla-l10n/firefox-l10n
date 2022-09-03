@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Сақталған адрестер
 autofill-manage-addresses-list-header = Адрестер
 autofill-manage-credit-cards-title = Сақталған несиелік карталар
 autofill-manage-credit-cards-list-header = Несиелік карталар
+autofill-manage-dialog =
+    .style = min-width: 660px
 autofill-manage-remove-button = Өшіру
 autofill-manage-add-button = Қосу…
 autofill-manage-edit-button = Түзету…
@@ -104,3 +106,12 @@ autofill-card-network = Карточка түрі
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = American Express
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = Discover
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
+autofill-card-network-visa = Visa
