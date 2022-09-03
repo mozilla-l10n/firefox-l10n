@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Պահպանված հասցեներ
 autofill-manage-addresses-list-header = Հասցեներ
 autofill-manage-credit-cards-title = Պահպանված բանկային քարտեր
 autofill-manage-credit-cards-list-header = Բանկային քարտեր
+autofill-manage-dialog =
+    .style = min-width: 560px
 autofill-manage-remove-button = Հեռացնել
 autofill-manage-add-button = Ավելացնել…
 autofill-manage-edit-button = Խմբագրել…
@@ -49,6 +51,7 @@ autofill-address-tel = Հեռախոս
 autofill-address-email = Էլ. փոստ
 autofill-cancel-button = Չեղարկել
 autofill-save-button = Պահպանել
+autofill-country-warning-message = Ինքնալրացման ձևը այժմ մատչելի է միայն որոշ երկրների համար:
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Ավելացնել նոր բանկային քարտ
 # The dialog title for editing credit cards in browser preferences.
@@ -57,6 +60,7 @@ autofill-card-number = Քատի համարը
 autofill-card-name-on-card = Անունը քարտի վրա
 autofill-card-expires-month = Սպռ. ամիս
 autofill-card-expires-year = Սպռ. տարի
+autofill-card-billing-address = Վճարման հասցե
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
