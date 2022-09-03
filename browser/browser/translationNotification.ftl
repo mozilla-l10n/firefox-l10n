@@ -12,6 +12,8 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = דף זה מוצג בשפה
 translation-notification-translate-this-page =
     .value = האם לתרגם את דף זה?
 
@@ -59,6 +61,14 @@ translation-notification-options-menu =
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = לעולם לא לתרגם { $langName }
+    .accesskey = ל
+translation-notification-options-never-for-site =
+    .label = לעולם לא לתרגם את אתר זה
+    .accesskey = א
 translation-notification-options-preferences =
     .label = העדפות תרגום
     .accesskey = ע
