@@ -69,3 +69,6 @@ translation-notification-options-never-for-language =
 translation-notification-options-never-for-site =
     .label = Ніколі не перакладаць гэты сайт
     .accesskey = э
+translation-notification-options-preferences =
+    .label = Налады перакладу
+    .accesskey = е
