@@ -51,12 +51,24 @@ autofill-address-tel = ફોન
 autofill-address-email = ઇમેઇલ
 autofill-cancel-button = રદ કરો
 autofill-save-button = સાચવો
+autofill-country-warning-message = ફોર્મ સ્વતઃભરણ હાલમાં ફક્ત ચોક્કસ દેશો માટે જ ઉપલબ્ધ છે.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = નવું ક્રેડિટ કાર્ડ ઉમેરો
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ક્રેડિટ કાર્ડ સંપાદિત કરો
 autofill-card-number = કાર્ડ ક્રમાંક
+autofill-card-invalid-number = કૃપા કરી માન્ય કાર્ડ નંબર દાખલ કરો
 autofill-card-name-on-card = કાર્ડ પરનું નામ
+autofill-card-network = કાર્ડ પ્રકાર
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = અમેરિકન એક્સપ્રેસ
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = શોધો
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
+autofill-card-network-visa = વિઝા
