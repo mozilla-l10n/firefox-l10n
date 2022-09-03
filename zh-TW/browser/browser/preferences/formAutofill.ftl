@@ -24,7 +24,7 @@ autofill-edit-address-title = 編輯地址
 autofill-address-given-name = 名字
 autofill-address-additional-name = 中間名
 autofill-address-family-name = 姓氏
-autofill-address-organization = 組織
+autofill-address-organization = 公司
 autofill-address-street = 街道地址
 
 ## address-level-3 (Sublocality) names

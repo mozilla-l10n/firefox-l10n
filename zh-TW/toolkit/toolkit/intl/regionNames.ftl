@@ -151,6 +151,7 @@ region-name-mf = 法屬聖馬丁
 region-name-mg = 馬達加斯加
 region-name-mh = 馬紹爾群島
 region-name-mk = 馬其頓
+region-name-mk-2019 = 北馬其頓
 region-name-ml = 馬利
 region-name-mm = 緬甸
 region-name-mn = 蒙古
