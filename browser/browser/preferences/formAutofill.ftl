@@ -5,6 +5,7 @@
 
 ## The address and credit card autofill management dialog in browser preferences
 
+autofill-manage-addresses-title = सङ्ग्रह गरिएका ठेगानाहरू
 autofill-manage-addresses-list-header = ठेगानाहरू
 autofill-manage-credit-cards-list-header = क्रेडिट कार्ड
 autofill-manage-remove-button = हटाउनुहोस्
@@ -28,6 +29,7 @@ autofill-address-street = सडक ठेगाना
 
 ## address-level-2 names
 
+autofill-address-city = सहर
 
 ## address-level-1 names
 
@@ -37,6 +39,7 @@ autofill-address-state = स्टेट
 ## Postal code name types
 
 autofill-address-postal-code = पोष्ट कोड
+autofill-address-zip = ZIP कोड
 
 ##
 
