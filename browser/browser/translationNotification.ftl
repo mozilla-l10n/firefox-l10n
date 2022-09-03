@@ -14,6 +14,8 @@
 
 translation-notification-this-page-is-in =
     .value = 此頁面的語言為
+translation-notification-translate-this-page =
+    .value = 要翻譯此頁面嗎？
 
 ##
 
@@ -59,6 +61,14 @@ translation-notification-options-menu =
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = 永不翻譯{ $langName }網頁
+    .accesskey = N
 translation-notification-options-never-for-site =
     .label = 永不翻譯此網站
     .accesskey = e
+translation-notification-options-preferences =
+    .label = 翻譯偏好設定
+    .accesskey = T
