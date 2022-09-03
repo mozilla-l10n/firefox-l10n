@@ -42,6 +42,8 @@ autofill-address-townland = Tamurt
 autofill-address-city = Aγrem
 # Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
 autofill-address-district = Tamnaḍt
+# Used in GB, NO, SE
+autofill-address-post-town = Sader
 # Used in AU as Address Level-2 and used in ZZ as Sublocality.
 autofill-address-suburb = Tamnaḍt
 
@@ -86,8 +88,17 @@ autofill-country-warning-message = Tura akka taččart tawurmant n iferka tella 
 autofill-add-new-card-title = Rnu takeṛḍa n usmad tamaynut
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Ẓreg takeṛḍa n usmad
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] sken talɣut n tkarḍa n usmad
+        [windows] { -brand-short-name } ittaεraḍ ad d-sken talɣut n tkarḍa n usmad. Sentem anekcum ɣer usfaylu-a n umiḍan ddaw.
+       *[other] { -brand-short-name } yettaεraḍ ad isken talɣut n tkarḍa n usmad.
+    }
 autofill-card-number = Uṭṭun n tkeṛḍa
 autofill-card-invalid-number = Ma ulac aɣilif, sekcem uṭṭun n tkeṛḍa ameɣtu
+autofill-card-name-on-card = Isem deg tkarḍa
 autofill-card-expires-month = Aggur n tagara
 autofill-card-expires-year = Aseggas n tagara
 autofill-card-billing-address = Tansa n tuzna n tfaturt
