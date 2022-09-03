@@ -24,6 +24,7 @@ autofill-edit-address-title = მისამართის ჩასწორ�
 autofill-address-given-name = სახელი
 autofill-address-additional-name = მეორე სახელი
 autofill-address-family-name = გვარი
+autofill-address-organization = დაწესებულება
 autofill-address-street = მისამართი
 
 ## address-level-3 (Sublocality) names
@@ -87,11 +88,20 @@ autofill-country-warning-message = ველების თვითშევ�
 autofill-add-new-card-title = ახალი საკრედიტო ბარათის დამატება
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = საკრედიტო ბარათის მონაცემების ჩასწორება
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] საკრედიტო ბარათის მონაცემების გამოჩენას
+        [windows] { -brand-short-name } ცდილობს გამოაჩინოს საკრედიტო ბარათის მონაცემები. დაადასტურეთ ამ Windows-ანგარიშთან წვდომა.
+       *[other] { -brand-short-name } ცდილობს გამოაჩინოს საკრედიტო ბარათის მონაცემები.
+    }
 autofill-card-number = ბარათის ნომერი
 autofill-card-invalid-number = გთხოვთ, მიუთითეთ ბარათის მართებული ნომერი
 autofill-card-name-on-card = მფლობელის სახელი
 autofill-card-expires-month = ვადის გასვლის თვე
 autofill-card-expires-year = ვადის გასვლის წელი
+autofill-card-billing-address = ანგარიშსწორების მისამართი
 autofill-card-network = ბარათის სახეობა
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
