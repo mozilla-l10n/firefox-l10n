@@ -14,9 +14,15 @@
 
 translation-notification-this-page-is-in =
     .value = Ang pahinang ito ay nasa
+translation-notification-translate-this-page =
+    .value = Isalin ang pahinang ito?
 
 ##
 
+translation-notification-translate-button =
+    .label = Isalin
+translation-notification-not-now-button =
+    .label = Hindi Ngayon
 
 ## These 3 strings are used to construct a sentence that contains 2 dropdowns
 ## showing the source and target language of a translated web page.
