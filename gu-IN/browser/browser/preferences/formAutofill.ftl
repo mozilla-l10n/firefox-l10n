@@ -22,6 +22,7 @@ autofill-edit-address-title = સરનામું સંપાદિત કર
 autofill-address-given-name = પ્રથમ નામ
 autofill-address-additional-name = વચલું નામ
 autofill-address-family-name = છેલ્લું નામ
+autofill-address-organization = સંસ્થા
 autofill-address-street = શેરીનુ સરનામું
 
 ## address-level-3 (Sublocality) names
