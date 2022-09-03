@@ -23,6 +23,12 @@ styleeditor-no-stylesheet = این صفحه هیچ برگ شیوه‌ای ندا
 styleeditor-no-stylesheet-tip = شاید شما بخواهید که<a data-l10n-name="append-new-stylesheet">افزودن یک برگ شیوه‌ی جدید</a>؟
 styleeditor-open-link-new-tab =
     .label = باز کردن پیوند در زبانهٔ جدید
+styleeditor-find =
+    .label = پیدا کردن
+    .accesskey = پ
+styleeditor-find-again =
+    .label = پیدا کردن مجدد
+    .accesskey = ج
 styleeditor-go-to-line =
     .label = برو به خط…
     .accesskey = ب
