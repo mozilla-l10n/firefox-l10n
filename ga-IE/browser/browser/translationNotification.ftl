@@ -12,9 +12,19 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = Tá an leathanach seo scríofa as
+translation-notification-translate-this-page =
+    .value = An bhfuil fonn ort an leathanach seo a aistriú?
 
 ##
 
+translation-notification-translate-button =
+    .label = Aistrigh
+translation-notification-not-now-button =
+    .label = Níl Anois
+translation-notification-translating-content =
+    .value = Leathanach á aistriú…
 
 ## These 3 strings are used to construct a sentence that contains 2 dropdowns
 ## showing the source and target language of a translated web page.
@@ -25,9 +35,29 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-translated-from =
+    .value = Aistríodh an leathanach seo ó
+translation-notification-translated-to =
+    .value = go
+# This string (empty in en-US) is for locales that need to display some text
+# after the second drop down for the sentence to be grammatically correct.
+translation-notification-translated-to-suffix =
+    .value = { "" }
 
 ##
 
+translation-notification-show-original-button =
+    .label = Taispeáin an Bunteanga
+translation-notification-show-translation-button =
+    .label = Taispeáin an tAistriúchán
+translation-notification-error-translating =
+    .value = Tharla earráid agus an leathanach seo á aistriú.
+translation-notification-try-again-button =
+    .label = Déan Iarracht Arís
+translation-notification-service-unavailable =
+    .value = Níl aistriúchán ar fáil faoi láthair. Déan iarracht eile ar ball.
+translation-notification-options-menu =
+    .label = Roghanna
 
 ## The accesskey values used here should not clash with each other
 
@@ -39,3 +69,6 @@ translation-notification-options-never-for-language =
 translation-notification-options-never-for-site =
     .label = Ná haistrigh an suíomh seo riamh
     .accesskey = N
+translation-notification-options-preferences =
+    .label = Sainroghanna aistriúcháin
+    .accesskey = t
