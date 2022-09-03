@@ -80,6 +80,8 @@ autofill-edit-card-password-prompt =
 autofill-card-number = Número do cartão
 autofill-card-invalid-number = Digite um número de cartão válido
 autofill-card-name-on-card = Nome no cartão
+autofill-card-expires-month = Mês de Expiração
+autofill-card-expires-year = Ano de Expiração
 autofill-card-billing-address = Endereço de cobrança
 autofill-card-network = Tipo de cartão
 
