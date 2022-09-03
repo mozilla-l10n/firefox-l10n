@@ -39,6 +39,10 @@ translation-notification-translated-from =
     .value = Dizze side is oerset fan it
 translation-notification-translated-to =
     .value = nei
+# This string (empty in en-US) is for locales that need to display some text
+# after the second drop down for the sentence to be grammatically correct.
+translation-notification-translated-to-suffix =
+    .value = oerset
 
 ##
 
@@ -57,3 +61,14 @@ translation-notification-options-menu =
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = { $langName } nea oersette
+    .accesskey = n
+translation-notification-options-never-for-site =
+    .label = Dizze website nea oersette
+    .accesskey = e
+translation-notification-options-preferences =
+    .label = Oersetfoarkarren
+    .accesskey = O
