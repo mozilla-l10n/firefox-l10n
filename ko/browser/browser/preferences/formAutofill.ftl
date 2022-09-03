@@ -19,6 +19,8 @@ autofill-manage-edit-button = 수정…
 
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = 새 주소 추가
+# The dialog title for editing addresses in browser preferences.
+autofill-edit-address-title = 주소 편집
 autofill-address-given-name = 이름
 autofill-address-additional-name = 중간 이름
 autofill-address-family-name = 성
@@ -76,16 +78,27 @@ autofill-address-eircode = 우편 번호
 
 ##
 
+autofill-address-country = 국가 또는 지역
 autofill-address-tel = 전화
 autofill-address-email = 이메일
 autofill-cancel-button = 취소
 autofill-save-button = 저장
+autofill-country-warning-message = 양식 자동 채우기는 현재 일부 국가에서만 사용할 수 있습니다.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = 새 신용 카드 추가
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = 신용 카드 수정
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] 신용 카드 정보 표시
+        [windows] { -brand-short-name }가 신용카드 정보를 표시하려고 합니다. 아래 Windows 계정에 대한 접근을 확인하세요.
+       *[other] { -brand-short-name }가 신용카드 정보를 표시하려고 합니다.
+    }
 autofill-card-number = 카드 번호
 autofill-card-invalid-number = 유효한 카드 번호를 입력하세요
+autofill-card-name-on-card = 카드상의 이름
 autofill-card-expires-month = 만료월
 autofill-card-expires-year = 만료년
 autofill-card-billing-address = 청구 주소
