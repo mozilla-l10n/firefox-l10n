@@ -38,15 +38,40 @@ autofill-address-townland = Bæjarland
 ## address-level-2 names
 
 autofill-address-city = Borg
+# Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
+autofill-address-district = Sveit
+# Used in GB, NO, SE
+autofill-address-post-town = Bær
+# Used in AU as Address Level-2 and used in ZZ as Sublocality.
+autofill-address-suburb = Úthverfi
 
 ## address-level-1 names
 
 autofill-address-province = Hérað
+autofill-address-county = Sýsla
+# Used in BB, JM
+autofill-address-parish = Hreppur
+# Used in JP
+autofill-address-prefecture = Hérað
+# Used in HK
+autofill-address-area = Svæði
+# Used in KR
+autofill-address-do-si = Do/Si
+# Used in NI, CO
+autofill-address-department = Deild
+# Used in AE
+autofill-address-emirate = Emírstign
+# Used in RU and UA
+autofill-address-oblast = Oblast
 
 ## Postal code name types
 
+# Used in IN
+autofill-address-pin = Leyninúmer
 autofill-address-postal-code = Póstnúmer
 autofill-address-zip = Póstnúmer
+# Used in IE
+autofill-address-eircode = Eircode
 
 ##
 
@@ -65,6 +90,16 @@ autofill-card-name-on-card = Nafn á korti
 autofill-card-expires-month = Gildistími mánuður
 autofill-card-expires-year = Gildistími ár
 autofill-card-billing-address = Heimilisfang innheimtu
+autofill-card-network = Kortategund
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = American Express
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = Discover
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
+autofill-card-network-visa = Visa
