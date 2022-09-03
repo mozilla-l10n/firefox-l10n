@@ -16,3 +16,67 @@ appmenuitem-font-size-reduce =
 appmenuitem-font-size-reset =
     .label = { $size } px
     .tooltiptext = Pismowu wulkosć wróćo stajić
+
+## Tools
+
+appmenu-tools-panel-title =
+    .title = Nastroje
+appmenu-tools-panel =
+    .label = Nastroje
+    .accesskey = N
+appmenu-tools-import =
+    .label = Importować
+    .accesskey = I
+appmenu-tools-export =
+    .label = Eksportować
+    .accesskey = E
+appmenu-tools-message-search =
+    .label = Powěsće pytać
+    .accesskey = P
+appmenu-tools-message-filters =
+    .label = Powěsćowe filtry
+    .accesskey = f
+appmenu-tools-download-manager =
+    .label = Zrjadowak sćehnjenjow
+    .accesskey = s
+appmenu-tools-activity-manager =
+    .label = Zrjadowak aktiwitow
+    .accesskey = a
+appmenu-tools-dev-tools =
+    .label = Wuwiwarske nastroje
+    .accesskey = W
+
+## Help
+
+appmenu-help-panel-title =
+    .title = Pomoc
+appmenu-help-get-help =
+    .label = Pomoc wobstarać
+    .accesskey = P
+appmenu-help-explore-features =
+    .label = Funkcije wuslědźić
+    .accesskey = F
+appmenu-help-shortcuts =
+    .label = Tastowe skrótšenki
+    .accesskey = T
+appmenu-help-get-involved =
+    .label = Čińće sobu
+    .accesskey = i
+appmenu-help-donation =
+    .label = Darić
+    .accesskey = D
+appmenu-help-feedback =
+    .label = Měnjenja a ideje zapodać
+    .accesskey = M
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Modus za rozrisowanje problemow…
+    .accesskey = r
+appmenu-help-exit-troubleshoot-mode2 =
+    .label = Modus za rozrisanje problemow znjemóžnić
+    .accesskey = z
+appmenu-help-troubleshooting-info =
+    .label = Informacije za rozrisowanje problemow
+    .accesskey = I
+appmenu-help-about-product =
+    .label = Wo { -brand-short-name }
+    .accesskey = o
