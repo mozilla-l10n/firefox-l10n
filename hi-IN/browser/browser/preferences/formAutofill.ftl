@@ -33,6 +33,9 @@ autofill-address-street = गली का पता
 autofill-address-neighborhood = पड़ोस
 # Used in MY
 autofill-address-village-township = गाँव या उपनगर
+autofill-address-island = द्वीप
+# Used in IE
+autofill-address-townland = टाउनलैंड
 
 ## address-level-2 names
 
@@ -44,6 +47,8 @@ autofill-address-district = जिला
 
 autofill-address-province = प्रांत
 autofill-address-state = राज्य
+# Used in HK
+autofill-address-area = क्षेत्र
 # Used in NI, CO
 autofill-address-department = विभाग
 
