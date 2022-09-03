@@ -40,6 +40,10 @@ translation-notification-translated-to-suffix =
 
 ##
 
+translation-notification-show-original-button =
+    .label = Mostrar original
+translation-notification-show-translation-button =
+    .label = Mostrar tradução
 translation-notification-options-menu =
     .label = Opções
 
