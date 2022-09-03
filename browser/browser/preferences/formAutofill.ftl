@@ -57,6 +57,7 @@ autofill-add-new-card-title = नया क्रेडिट कार्ड �
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = क्रेडिट कार्ड संपादित करें
 autofill-card-number = कार्ड नंबर
+autofill-card-invalid-number = एक वैध कार्ड नंबर डालें
 autofill-card-name-on-card = कार्ड पर नाम
 autofill-card-billing-address = बिल भेजने का पता
 
