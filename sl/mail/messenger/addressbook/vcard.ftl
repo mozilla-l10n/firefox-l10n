@@ -81,7 +81,7 @@ vcard-date-year = leto
 vcard-adr-header = Naslovi
 vcard-adr-add = Dodaj naslov
 vcard-adr-label = Naslov
-vcard-adr-pobox = Poštni nabiralnik
+vcard-adr-delivery-label = Oznaka za dostavo
 vcard-adr-street = Ulica
 # Or "Locality"
 vcard-adr-locality = Mesto
