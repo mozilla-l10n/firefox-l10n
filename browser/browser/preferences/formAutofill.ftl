@@ -94,6 +94,16 @@ autofill-card-name-on-card = Ім'я на картці
 autofill-card-expires-month = Місяць завершення
 autofill-card-expires-year = Рік завершення
 autofill-card-billing-address = Платіжний адреса
+autofill-card-network = Тип картки
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = Аmerican Express
+autofill-card-network-cartebancaire = Сarte Bancaire
+autofill-card-network-diners = Dіners Club
+autofill-card-network-discover = Dіscover
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCаrd
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Uniоn Pay
+autofill-card-network-visa = Vіsa
