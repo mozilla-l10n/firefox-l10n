@@ -34,6 +34,7 @@ autofill-address-city = Oraș
 
 ## address-level-1 names
 
+autofill-address-province = Provincie
 autofill-address-state = Stat
 
 ## Postal code name types
