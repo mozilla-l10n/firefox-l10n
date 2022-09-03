@@ -44,6 +44,8 @@ autofill-address-city = Cidade
 autofill-address-district = Distrito
 # Used in GB, NO, SE
 autofill-address-post-town = Cidade postal
+# Used in AU as Address Level-2 and used in ZZ as Sublocality.
+autofill-address-suburb = Bairro
 
 ## address-level-1 names
 
