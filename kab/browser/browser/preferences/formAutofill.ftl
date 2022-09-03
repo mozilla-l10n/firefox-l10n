@@ -29,23 +29,50 @@ autofill-address-street = Tansa n taddart
 
 ## address-level-3 (Sublocality) names
 
+# Used in IR, MX
+autofill-address-neighborhood = Taddart
+# Used in MY
+autofill-address-village-township = Taddart neɣ adrum
+autofill-address-island = Tigzirt
+# Used in IE
+autofill-address-townland = Tamurt
 
 ## address-level-2 names
 
 autofill-address-city = Aγrem
+# Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
+autofill-address-district = Tamnaḍt
+# Used in AU as Address Level-2 and used in ZZ as Sublocality.
+autofill-address-suburb = Tamnaḍt
 
 ## address-level-1 names
 
 autofill-address-province = Tamnaḍt
 autofill-address-state = Addad
 autofill-address-county = Tamurt
+# Used in BB, JM
+autofill-address-parish = Taparicit
+# Used in JP
+autofill-address-prefecture = Azegdu
+# Used in HK
+autofill-address-area = Tamnaḍt
+# Used in KR
+autofill-address-do-si = Do/Si
 # Used in NI, CO
 autofill-address-department = Agezdu
+# Used in AE
+autofill-address-emirate = Tageldit
+# Used in RU and UA
+autofill-address-oblast = Tamnaḍt
 
 ## Postal code name types
 
+# Used in IN
+autofill-address-pin = Pin
 autofill-address-postal-code = Tangalt n pusṭa
 autofill-address-zip = Tangalt n pusṭa
+# Used in IE
+autofill-address-eircode = Tangalt n irlanda
 
 ##
 
