@@ -276,6 +276,7 @@ mr2022-onboarding-get-started-primary-button-label = 几秒钟就能完成设置
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = 快速设置
+mr2022-onboarding-import-subtitle = 按自己的喜好设置 { -brand-short-name }。可从您的旧浏览器导入书签、密码等数据。
 mr2022-onboarding-import-primary-button-label-no-attribution = 从先前所用浏览器导入
 
 ## If your language uses grammatical genders, in the description for the
@@ -318,6 +319,7 @@ mr2022-onboarding-colorway-description-innovator = <b>您是创新派。</b>您�
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = PC 与手机自由切换
 mr2022-onboarding-mobile-download-cta-text = 扫码下载移动版 { -brand-product-name } 或<a data-l10n-name="download-label">向自己发送下载链接。</a>
 mr2022-onboarding-no-mobile-download-cta-text = 扫码下载移动版 { -brand-product-name }。
 
