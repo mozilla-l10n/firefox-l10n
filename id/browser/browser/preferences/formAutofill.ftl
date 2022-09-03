@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Alamat Tersimpan
 autofill-manage-addresses-list-header = Alamat
 autofill-manage-credit-cards-title = Kartu Kredit Tersimpan
 autofill-manage-credit-cards-list-header = Kartu Kredit
+autofill-manage-dialog =
+    .style = min-width: 560px
 autofill-manage-remove-button = Hapus
 autofill-manage-add-button = Tambah…
 autofill-manage-edit-button = Edit…
@@ -55,6 +57,7 @@ autofill-address-tel = Telepon
 autofill-address-email = Email
 autofill-cancel-button = Batalkan
 autofill-save-button = Simpan
+autofill-country-warning-message = Saat ini fitur IsiOtomatis Formulir hanya tersedia untuk negara tertentu.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Tambahkan Kartu Kredit Baru
 # The dialog title for editing credit cards in browser preferences.
@@ -63,6 +66,16 @@ autofill-card-number = Nomor Kartu
 autofill-card-invalid-number = Masukkan nomor kartu yang valid
 autofill-card-name-on-card = Nama pada Kartu
 autofill-card-billing-address = Alamat Tagihan
+autofill-card-network = Jenis Kartu
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = American Express
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = Discover
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
+autofill-card-network-visa = Visa
