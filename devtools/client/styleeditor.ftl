@@ -23,6 +23,12 @@ styleeditor-no-stylesheet = ई पृष्ठक कोनो स्टाइ�
 styleeditor-no-stylesheet-tip = साइत अहाँ करै चाहब <a data-l10n-name="append-new-stylesheet">एकगोट नव स्टाइल शीट जोड़नाइ</a>?
 styleeditor-open-link-new-tab =
     .label = नव टैब मे कड़ी खोलू
+styleeditor-find =
+    .label = ताकू (F)
+    .accesskey = F
+styleeditor-find-again =
+    .label = फेर ताकू (g)
+    .accesskey = g
 styleeditor-go-to-line =
     .label = पाँति पर जाउ…
     .accesskey = J
