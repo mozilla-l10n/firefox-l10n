@@ -40,6 +40,8 @@ translation-notification-translated-to-suffix =
 
 ##
 
+translation-notification-try-again-button =
+    .label = Bí~rè lìy
 translation-notification-options-menu =
     .label = Kuan tak kel xhin
 
