@@ -81,12 +81,23 @@ autofill-address-eircode = Eircode
 autofill-address-country = Država ili pokrajina
 autofill-address-tel = Telefon
 autofill-address-email = Adresa e-pošte
+autofill-cancel-button = Odustani
 autofill-save-button = Spremi
+autofill-country-warning-message = Automatsko popunjavanje obrazaca trenutačno je dostupno samo za određene zemlje.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Dodaj novu kreditnu karticu
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Uredi kreditnu karticu
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] pokaži podatke kreditne kartice
+        [windows] { -brand-short-name } pokušava prikazati podatke o kreditnoj kartici. U nastavku potvrdite pristup ovom Windows računu.
+       *[other] { -brand-short-name } pokušava prikazati podatke o kreditnoj kartici.
+    }
 autofill-card-number = Broj kartice
+autofill-card-invalid-number = Upiši ispravan broj kartice
 autofill-card-name-on-card = Ime na kartici
 autofill-card-expires-month = Mjesec isteka
 autofill-card-expires-year = Godina isteka
