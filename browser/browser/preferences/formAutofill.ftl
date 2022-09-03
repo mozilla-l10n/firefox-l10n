@@ -24,6 +24,7 @@ autofill-edit-address-title = Edit Address
 autofill-address-given-name = First Name
 autofill-address-additional-name = Middle Name
 autofill-address-family-name = Last Name
+autofill-address-organization = Organization
 autofill-address-street = Street Address
 
 ## address-level-3 (Sublocality) names
