@@ -4,5 +4,7 @@
 
 app-picker-browse-button =
     .buttonlabelextra2 = બ્રાઉઝ કરો...
+app-picker-send-msg =
+    .value = આ વસ્તુને અહીં મોકલો:
 app-picker-no-app-found =
     .value = આ ફાઈલ પ્રકાર માટે કોઈ કાર્યક્રમો મળ્યા નહિં.
