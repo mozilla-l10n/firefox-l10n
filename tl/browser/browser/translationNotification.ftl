@@ -23,6 +23,8 @@ translation-notification-translate-button =
     .label = Isalin
 translation-notification-not-now-button =
     .label = Hindi Ngayon
+translation-notification-translating-content =
+    .value = Pagsasalin sa nilalaman ng pahina...
 
 ## These 3 strings are used to construct a sentence that contains 2 dropdowns
 ## showing the source and target language of a translated web page.
@@ -46,11 +48,20 @@ translation-notification-translated-to-suffix =
 
 translation-notification-show-original-button =
     .label = Ipakita ang orihinal
+translation-notification-show-translation-button =
+    .label = Ipakita ang Pagsasalin
+translation-notification-error-translating =
+    .value = Nagkaroon ng error sa pagsasalin ng pahinang ito.
 translation-notification-try-again-button =
     .label = Ulitin
+translation-notification-service-unavailable =
+    .value = Ang pagsasalin ay hindi magagamit sa sandaling ito. Subukang muli mamaya.
 
 ## The accesskey values used here should not clash with each other
 
 translation-notification-options-never-for-site =
     .label = Huwag kailanman isalin ang site na ito
     .accesskey = e
+translation-notification-options-preferences =
+    .label = Mga kagustuhan sa pagsasalin
+    .accesskey = T
