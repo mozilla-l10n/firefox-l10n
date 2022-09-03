@@ -12,6 +12,8 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = Esta página está em
 translation-notification-translate-this-page =
     .value = Traduzir esta página?
 
@@ -50,11 +52,23 @@ translation-notification-show-translation-button =
     .label = Mostrar tradução
 translation-notification-error-translating =
     .value = Ocorreu um erro ao traduzir esta página.
+translation-notification-try-again-button =
+    .label = Tentar novamente
+translation-notification-service-unavailable =
+    .value = A tradução ainda não está disponível. Por favor, volte a tentar mais tarde.
 translation-notification-options-menu =
     .label = Opções
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = Nunca traduzir { $langName }
+    .accesskey = N
+translation-notification-options-never-for-site =
+    .label = Nunca traduzir este site
+    .accesskey = e
 translation-notification-options-preferences =
     .label = Preferências da tradução
     .accesskey = t
