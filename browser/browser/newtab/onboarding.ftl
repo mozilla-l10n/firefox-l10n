@@ -268,12 +268,16 @@ mr2022-onboarding-set-default-only-subtitle = 选用由非营利组织支持的�
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = 感谢您对 { -brand-product-name } 的青睐
+mr2022-onboarding-existing-pin-checkbox-label = 同时固定 { -brand-short-name } 隐私浏览模式
 
 ## MR2022 New User Set Default screen strings
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = 要将 { -brand-short-name } 设为您的默认浏览器吗？
 mr2022-onboarding-set-default-primary-button-label = 将 { -brand-short-name } 设为默认浏览器
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = 选用由非营利组织支持的浏览器。遨游网络，有我们捍卫隐私。
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
