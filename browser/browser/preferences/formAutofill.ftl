@@ -50,6 +50,8 @@ autofill-address-state = מדינה
 autofill-address-county = מחוז
 # Used in HK
 autofill-address-area = אזור
+# Used in AE
+autofill-address-emirate = אמירות
 
 ## Postal code name types
 
