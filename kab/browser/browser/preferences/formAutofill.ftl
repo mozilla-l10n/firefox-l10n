@@ -24,6 +24,7 @@ autofill-edit-address-title = Ẓreg tansa
 autofill-address-given-name = Isem n twacult
 autofill-address-additional-name = Isem alemmas
 autofill-address-family-name = Isem
+autofill-address-organization = Takebbanit
 autofill-address-street = Tansa n taddart
 
 ## address-level-3 (Sublocality) names
@@ -56,6 +57,19 @@ autofill-add-new-card-title = Rnu takeṛḍa n usmad tamaynut
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Ẓreg takeṛḍa n usmad
 autofill-card-number = Uṭṭun n tkeṛḍa
+autofill-card-invalid-number = Ma ulac aɣilif, sekcem uṭṭun n tkeṛḍa ameɣtu
+autofill-card-expires-month = Aggur n tagara
+autofill-card-expires-year = Aseggas n tagara
+autofill-card-network = Tawsit n tkarḍa
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = American Express
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = Snirem
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
+autofill-card-network-visa = Visa
