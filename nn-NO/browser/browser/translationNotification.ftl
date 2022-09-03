@@ -62,3 +62,6 @@ translation-notification-options-menu =
 translation-notification-options-never-for-site =
     .label = Aldri omset denne nettstaden
     .accesskey = d
+translation-notification-options-preferences =
+    .label = Innstillingar for omsetting
+    .accesskey = t
