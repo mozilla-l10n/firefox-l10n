@@ -87,6 +87,7 @@ autofill-add-new-card-title = নতুন ক্রেডিট কার্ড
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ক্রেডিট কার্ড সম্পাদনা করুন
 autofill-card-number = কার্ড নম্বর
+autofill-card-invalid-number = অনুগ্রহ করে কার্যকর কার্ড নম্বর দিন
 autofill-card-name-on-card = কার্ডের উপর নাম
 autofill-card-expires-month = মেয়াদোত্তীর্ণের মাস
 autofill-card-expires-year = মেয়াদোত্তীর্ণের বছর
