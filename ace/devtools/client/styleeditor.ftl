@@ -4,3 +4,6 @@
 
 styleeditor-copy-url =
     .label = Salèn URL
+styleeditor-find =
+    .label = Mita
+    .accesskey = M
