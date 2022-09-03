@@ -54,6 +54,8 @@ translation-notification-error-translating =
     .value = Настала је грешка приликом превођења ове странице.
 translation-notification-try-again-button =
     .label = Покушај поново
+translation-notification-service-unavailable =
+    .value = Превод тренутно није доступан. Покушајте поново касније.
 
 ## The accesskey values used here should not clash with each other
 
