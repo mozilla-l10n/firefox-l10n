@@ -54,8 +54,21 @@ translation-notification-error-translating =
     .value = Er is een fout opgetreden bij het vertalen van deze pagina.
 translation-notification-try-again-button =
     .label = Opnieuw proberen
+translation-notification-service-unavailable =
+    .value = Vertaling is momenteel niet beschikbaar. Probeer het later opnieuw.
 translation-notification-options-menu =
     .label = Opties
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = { $langName } nooit vertalen
+    .accesskey = n
+translation-notification-options-never-for-site =
+    .label = Deze website nooit vertalen
+    .accesskey = D
+translation-notification-options-preferences =
+    .label = Vertaalvoorkeuren
+    .accesskey = V
