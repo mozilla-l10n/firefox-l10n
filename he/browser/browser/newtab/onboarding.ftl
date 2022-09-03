@@ -311,6 +311,7 @@ mr2022-onboarding-colorway-description-default = <b>שימוש בצבעי { -bra
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
 mr2022-upgrade-onboarding-pin-private-window-header = קבלת חופש גלישה פרטית בלחיצה אחת
+mr2022-upgrade-onboarding-pin-private-window-subtitle = ללא עוגיות או היסטוריה שמורה, היישר משולחן העבודה שלך. לדפדף כאילו אף אחד לא צופה בך.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
         [macos] שמירת { -brand-short-name } במצב גלישה פרטית ב־Dock
