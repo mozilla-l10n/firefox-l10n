@@ -54,6 +54,8 @@ translation-notification-error-translating =
     .value = ມີຂໍ້ຜິດພາດໃນການແປຫນ້ານີ້.
 translation-notification-try-again-button =
     .label = ລອງໃຫມ່ອີກຄັ້ງ
+translation-notification-service-unavailable =
+    .value = ການແປບໍ່ພ້ອມໃຊ້ງານໃນຕອນນີ້. ກະລຸນາລອງໃໝ່ອີກຄັ້ງໃນພາຍຫຼັງ.
 translation-notification-options-menu =
     .label = ຕົວເລືອກ
 
