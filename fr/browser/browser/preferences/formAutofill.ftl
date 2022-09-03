@@ -29,6 +29,8 @@ autofill-address-street = Adresse postale
 
 ## address-level-3 (Sublocality) names
 
+# Used in IE
+autofill-address-townland = Commune
 
 ## address-level-2 names
 
@@ -37,10 +39,15 @@ autofill-address-city = Ville
 ## address-level-1 names
 
 autofill-address-state = État
+# Used in BB, JM
+autofill-address-parish = Paroisse
 
 ## Postal code name types
 
 autofill-address-postal-code = Code postal
+autofill-address-zip = Code postal (États-Unis)
+# Used in IE
+autofill-address-eircode = Eircode
 
 ##
 
@@ -49,11 +56,21 @@ autofill-address-tel = Téléphone
 autofill-address-email = Courriel
 autofill-cancel-button = Annuler
 autofill-save-button = Enregistrer
+autofill-country-warning-message = Pour le moment, le remplissage automatique des formulaires est uniquement disponible dans certains pays.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Ajouter une nouvelle carte bancaire
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Modifier la carte bancaire
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] afficher les informations de la carte bancaire
+        [windows] { -brand-short-name } tente d’afficher les informations liées à une carte bancaire. Veuillez confirmer l’accès au compte utilisateur Windows ci-dessous.
+       *[other] { -brand-short-name } tente d’afficher les informations liées à une carte bancaire.
+    }
 autofill-card-number = Numéro de carte
+autofill-card-invalid-number = Veuillez saisir un numéro de carte valide
 autofill-card-name-on-card = Titulaire
 autofill-card-billing-address = Adresse de facturation
 
