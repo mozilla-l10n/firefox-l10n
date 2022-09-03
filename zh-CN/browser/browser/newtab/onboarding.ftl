@@ -342,5 +342,6 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = 显示详细信�
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = 您正在帮助我们建设更好的互联网环境。
 mr2022-onboarding-gratitude-primary-button-label = 了解新版变化
 mr2022-onboarding-gratitude-secondary-button-label = 开始浏览
