@@ -42,6 +42,8 @@ autofill-address-townland = ناحیه شهری
 autofill-address-city = شهر
 # Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
 autofill-address-district = ناحیه
+# Used in GB, NO, SE
+autofill-address-post-town = Post town
 # Used in AU as Address Level-2 and used in ZZ as Sublocality.
 autofill-address-suburb = حومه شهر
 
@@ -50,17 +52,27 @@ autofill-address-suburb = حومه شهر
 autofill-address-province = استان
 autofill-address-state = ایالت
 autofill-address-county = شهرستان
+# Used in BB, JM
+autofill-address-parish = Parish
+# Used in JP
+autofill-address-prefecture = Prefecture
 # Used in HK
 autofill-address-area = حوزه
+# Used in KR
+autofill-address-do-si = Do/Si
 # Used in NI, CO
 autofill-address-department = گروه
 # Used in AE
 autofill-address-emirate = امارت
+# Used in RU and UA
+autofill-address-oblast = Oblast
 
 ## Postal code name types
 
 autofill-address-postal-code = کد پستی
 autofill-address-zip = کد پستی
+# Used in IE
+autofill-address-eircode = کد پستی
 
 ##
 
@@ -74,14 +86,26 @@ autofill-country-warning-message = پرکردن خودکار فرم در حال 
 autofill-add-new-card-title = افزودن کارت اعتباری جدید
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ویرایش کارت اعتباری
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] نمایش اطلاعات کارت اعتباری
+        [windows] { -brand-short-name } در تلاش است تا اطلاعات کارت اعتباری را نمایش دهد. دسترسی به این حساب Windows را در زیر تأیید کنید.
+       *[other] { -brand-short-name } در تلاش است تا اطلاعات کارت اعتباری را نمایش دهد.
+    }
 autofill-card-number = شماره کارت
 autofill-card-invalid-number = لطفا یک شماره کارت اعتباری معتبر وارد کنید
 autofill-card-name-on-card = نام روی کارت
 autofill-card-expires-month = ماه انقضا
 autofill-card-expires-year = سال انقضا
+autofill-card-billing-address = آدرس قبض
 autofill-card-network = نوع کارت
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-amex = امریکن اکسپرس
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
+autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = ویزا
