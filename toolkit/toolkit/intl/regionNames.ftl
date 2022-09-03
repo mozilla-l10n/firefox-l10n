@@ -151,6 +151,7 @@ region-name-mf = Άγιος Μαρτίνος
 region-name-mg = Μαδαγασκάρη
 region-name-mh = Νήσοι Μάρσαλ
 region-name-mk = Macedonia, F.Y.R. of
+region-name-mk-2019 = Βόρεια Μακεδονία
 region-name-ml = Μαλί
 region-name-mm = Myanmar
 region-name-mn = Μογγολία
