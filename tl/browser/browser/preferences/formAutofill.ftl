@@ -14,6 +14,7 @@ autofill-manage-remove-button = Tanggalin
 
 autofill-address-given-name = Pangalan
 autofill-address-family-name = Apelyido
+autofill-address-organization = Organisasyon
 
 ## address-level-3 (Sublocality) names
 
