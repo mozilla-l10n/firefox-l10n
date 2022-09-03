@@ -15,6 +15,8 @@
 
 ##
 
+translation-notification-not-now-button =
+    .label = Bek Jinoe
 
 ## These 3 strings are used to construct a sentence that contains 2 dropdowns
 ## showing the source and target language of a translated web page.
@@ -25,6 +27,8 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-translated-to =
+    .value = keu
 # This string (empty in en-US) is for locales that need to display some text
 # after the second drop down for the sentence to be grammatically correct.
 translation-notification-translated-to-suffix =
