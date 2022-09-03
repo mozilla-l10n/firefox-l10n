@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = 进程管理器
-
 # The Actions column
 about-processes-column-action =
     .title = 操作
@@ -15,7 +14,6 @@ about-processes-shutdown-process =
     .title = 卸载标签页并结束进程
 about-processes-shutdown-tab =
     .title = 关闭标签页
-
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -51,9 +49,7 @@ about-processes-socket-process = 网络（{ $pid }）
 about-processes-remote-sandbox-broker-process = 远程沙箱中介（{ $pid }）
 about-processes-fork-server-process = Fork 服务器（{ $pid }）
 about-processes-preallocated-process = 预分配（{ $pid }）
-
 about-processes-utility-process = 工具（{ $pid }）
-
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -87,7 +83,6 @@ about-processes-active-threads =
     { $active ->
        *[other] { $active } 个活动线程，共 { $number } 个：{ $list }
     }
-
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -98,34 +93,34 @@ about-processes-inactive-threads =
     { $number ->
        *[other] { $number } 个空闲线程
     }
-
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = 线程 ID：{ $tid }
-
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = 标签页：{ $name }
 about-processes-preloaded-tab = 预加载的新标签页
-
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = 子帧：{ $url }
-
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = 子帧（{ $number }）：{ $shortUrl }
 
-# Utility process actor names
+## Utility process actor names
+
 about-processes-utility-actor-unknown = 未知角色
 about-processes-utility-actor-audio-decoder = 音频解码器
+about-processes-utility-actor-audio-decoder-generic = 通用音频解码器
+about-processes-utility-actor-audio-decoder-applemedia = Apple 媒体音频解码器
+about-processes-utility-actor-audio-decoder-wmf = Windows 媒体框架音频解码器
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -139,15 +134,12 @@ about-processes-utility-actor-audio-decoder = 音频解码器
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = 总 CPU 时间：{ NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = （测量中）
-
 # Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
 # This case only occurs on Windows where the precision of the CPU times is low.
 about-processes-cpu-almost-idle = < 0.1%
     .title = 总 CPU 时间： { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = 空闲
     .title = 总 CPU 时间：{ NUMBER($total, maximumFractionDigits: 0) }{ $unit }
@@ -166,7 +158,6 @@ about-processes-cpu-fully-idle = 空闲
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = 变化：{ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
-
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
