@@ -29,6 +29,10 @@ autofill-address-street = Straße und Hausnummer
 
 ## address-level-3 (Sublocality) names
 
+# Used in IR, MX
+autofill-address-neighborhood = Neighborhood
+# Used in MY
+autofill-address-village-township = Dorf oder Gemeinde
 autofill-address-island = Insel
 # Used in IE
 autofill-address-townland = Townland
@@ -40,6 +44,8 @@ autofill-address-city = Ort
 autofill-address-district = Distrikt
 # Used in GB, NO, SE
 autofill-address-post-town = Post Town
+# Used in AU as Address Level-2 and used in ZZ as Sublocality.
+autofill-address-suburb = Suburb
 
 ## address-level-1 names
 
