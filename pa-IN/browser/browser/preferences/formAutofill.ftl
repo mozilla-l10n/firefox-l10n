@@ -29,18 +29,42 @@ autofill-address-street = ਸੜਕ ਸਿਰਨਾਵਾਂ
 
 ## address-level-3 (Sublocality) names
 
+# Used in IR, MX
+autofill-address-neighborhood = ਗੁਆਂਢ
+# Used in MY
+autofill-address-village-township = ਪਿੰਡ ਜਾਂ ਕਸਬਾ
+autofill-address-island = ਟਾਪੂ
+# Used in IE
+autofill-address-townland = ਟਾਊਨਲੈਂਡ
 
 ## address-level-2 names
 
 autofill-address-city = ਸ਼ਹਿਰ
+# Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
+autofill-address-district = ਜ਼ਿਲ੍ਹਾ
+# Used in GB, NO, SE
+autofill-address-post-town = ਪੋਸਟ ਟਾਊਨ
 
 ## address-level-1 names
 
 autofill-address-province = ਸੂਬਾ
 autofill-address-state = ਸੂਬਾ
+autofill-address-county = ਦੇਸ਼
+# Used in HK
+autofill-address-area = ਖੇਤਰ
+# Used in KR
+autofill-address-do-si = ਡੂ/ਸੀ
+# Used in NI, CO
+autofill-address-department = ਵਿਭਾਗ
+# Used in AE
+autofill-address-emirate = ਅਮੀਰਾਤ
+# Used in RU and UA
+autofill-address-oblast = ਓਬਲਾਸਟ
 
 ## Postal code name types
 
+# Used in IN
+autofill-address-pin = ਪਿੰਨ
 autofill-address-postal-code = ਡਾਕ ਕੋਡ
 autofill-address-zip = ਜ਼ਿਪ ਕੋਡ
 
@@ -56,9 +80,29 @@ autofill-country-warning-message = ਫ਼ਾਰਮ ਖੁਦ-ਭਰੋ ਇਸ ਵ�
 autofill-add-new-card-title = ਨਵਾਂ ਕਰੈਡਿਟ ਕਾਰਡ ਜੋੜੋ
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ਕਰੈਡਿਟ ਕਾਰਡ ਸੋਧੋ
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] ਕਰੈਡਿਟ ਕਾਰਡ ਜਾਣਕਾਰੀ ਵੇਖਾਓ
+        [windows] { -brand-short-name } ਕਰੈਡਿਟ ਕਾਰਡ ਜਾਣਕਾਰੀ ਵਿਖਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ। ਹੇਠ ਦਿੱਤੇ ਇਸ ਵਿੰਡੋ ਖਾਤੇ ਲਈ ਪਹੁੰਚ ਦੀ ਤਸਦੀਕ ਕਰੋ।
+       *[other] { -brand-short-name } ਕਰੈਡਿਟ ਕਾਰਡ ਜਾਣਾਕਰੀ ਦਿਖਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ।
+    }
 autofill-card-number = ਕਾਰਡ ਨੰਬਰ
+autofill-card-invalid-number = ਢੁੱਕਵਾਂ ਕਾਰਡ ਨੰਬਰ ਦਿਓ
 autofill-card-name-on-card = ਕਾਰਡ 'ਤੇ ਨਾਂ
+autofill-card-expires-month = ਮਿਆਦ ਮਹੀਨਾ
+autofill-card-expires-year = ਮਿਆਦ ਸਾਲ
 autofill-card-billing-address = ਬਿੱਲ ਲਈ ਸਿਰਨਾਵਾਂ
+autofill-card-network = ਕਾਰਡ ਕਿਸਮ
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = ਅਮੈਰਿਕਨ ਐਕਸਪਰੈਸ
+autofill-card-network-diners = ਡਿਨਰਸ ਕਲੱਬ
+autofill-card-network-discover = ਡਿਸਕਵਰ
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = ਯੂਨੀਅਨ ਪੇਅ
+autofill-card-network-visa = ਵੀਜ਼ਾ
