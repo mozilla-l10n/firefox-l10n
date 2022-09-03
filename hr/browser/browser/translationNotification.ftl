@@ -12,6 +12,8 @@
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-this-page-is-in =
+    .value = Ova je stranica prevedena na
 translation-notification-translate-this-page =
     .value = Prevedi ovu stranicu?
 
@@ -33,6 +35,8 @@ translation-notification-translating-content =
 ## the correct grammar case to keep the same structure of the original
 ## sentence.
 
+translation-notification-translated-from =
+    .value = Izvorni jezik prijevoda ove stranice je
 translation-notification-translated-to =
     .value = za
 # This string (empty in en-US) is for locales that need to display some text
@@ -48,6 +52,10 @@ translation-notification-show-translation-button =
     .label = Prikažu prijevod
 translation-notification-error-translating =
     .value = Došlo je do greške prilikom prevođenja ove stranice.
+translation-notification-try-again-button =
+    .label = Pokušaj ponovo
+translation-notification-service-unavailable =
+    .value = Prijevod trenutačno nije dostupan. Pokušaj kasnije ponovo.
 translation-notification-options-menu =
     .label = Mogućnosti
 
