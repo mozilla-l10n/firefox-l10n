@@ -33,6 +33,8 @@ translation-notification-not-now-button =
 
 translation-notification-translated-from =
     .value = Այս էջը թարգմանվել է՝
+translation-notification-translated-to =
+    .value = դեպի
 # This string (empty in en-US) is for locales that need to display some text
 # after the second drop down for the sentence to be grammatically correct.
 translation-notification-translated-to-suffix =
@@ -53,3 +55,14 @@ translation-notification-options-menu =
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = Երբեք չթարգմանել { $langName }-ը
+    .accesskey = N
+translation-notification-options-never-for-site =
+    .label = Երբեք չթարգմանել այս կայքը
+    .accesskey = e
+translation-notification-options-preferences =
+    .label = Թարգմանելու կարգավորումներ
+    .accesskey = T
