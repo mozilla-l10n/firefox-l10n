@@ -21,6 +21,8 @@ autofill-manage-edit-button = Breyta…
 autofill-add-new-address-title = Bæta við nýju heimilisfangi
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Breyta heimilisfangi
+autofill-address-given-name = Skírnarnafn
+autofill-address-additional-name = Millinafn
 autofill-address-family-name = Eftirnafn
 autofill-address-organization = Fyrirtæki
 autofill-address-street = Heimilisfang
@@ -48,6 +50,7 @@ autofill-address-suburb = Úthverfi
 ## address-level-1 names
 
 autofill-address-province = Hérað
+autofill-address-state = Ríki/Hérað
 autofill-address-county = Sýsla
 # Used in BB, JM
 autofill-address-parish = Hreppur
@@ -85,7 +88,16 @@ autofill-country-warning-message = Sjálfvirkar útfyllingar er bara tiltækar f
 autofill-add-new-card-title = Bæta við nýju kortanúmeri
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Breyta kortanúmeri
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] sýna greiðslukortaupplýsingar
+        [windows] { -brand-short-name } er að reyna að sýna greiðslukortaupplýsingar. Staðfestu aðgang að þessum Windows-reikningi hér fyrir neðan.
+       *[other] { -brand-short-name } er að reyna að birta upplýsingar um greiðslukort.
+    }
 autofill-card-number = Kortanúmer
+autofill-card-invalid-number = Settu inn gilt kortanúmer
 autofill-card-name-on-card = Nafn á korti
 autofill-card-expires-month = Gildistími mánuður
 autofill-card-expires-year = Gildistími ár
