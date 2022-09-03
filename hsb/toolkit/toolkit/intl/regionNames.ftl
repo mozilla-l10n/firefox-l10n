@@ -151,6 +151,7 @@ region-name-mf = Saint Martin
 region-name-mg = Madagaskar
 region-name-mh = Maršalske kupy
 region-name-mk = Makedonska
+region-name-mk-2019 = Sewjerna Makedonska
 region-name-ml = Mali
 region-name-mm = Burma
 region-name-mn = Mongolska
