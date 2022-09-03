@@ -22,6 +22,7 @@ autofill-add-new-address-title = Add New Addresses
 autofill-edit-address-title = Edit Address
 autofill-address-given-name = First Nemme
 autofill-address-additional-name = Middle Nemme
+autofill-address-family-name = Last Nemme
 autofill-address-organization = Organisation
 autofill-address-street = Street Address
 
@@ -67,6 +68,8 @@ autofill-address-oblast = Oblast
 
 ## Postal code name types
 
+# Used in IN
+autofill-address-pin = Peen
 autofill-address-postal-code = Postal Code
 autofill-address-zip = ZIP Code
 # Used in IE
@@ -79,10 +82,21 @@ autofill-address-tel = Phone
 autofill-address-email = Email
 autofill-cancel-button = Stap
 autofill-save-button = Save
+autofill-country-warning-message = Form Autofeenish is available anely fur certain kintras the noo.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Eik On New Credit Caird
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Edit Credit Caird
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] kythe credit caird information
+        [windows] { -brand-short-name } is tryin tae kythe credit caird information. Confirm ingang tae this Windows accoont ablow.
+       *[other] { -brand-short-name } is tryin tae kythe credit caird information.
+    }
+autofill-card-number = Caird Nummer
+autofill-card-invalid-number = Gonnae inpit a suithfest caird nummer
 autofill-card-name-on-card = Nemme on Caird
 autofill-card-expires-month = Exp. Month
 autofill-card-expires-year = Exp. Year
