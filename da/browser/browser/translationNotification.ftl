@@ -54,8 +54,21 @@ translation-notification-error-translating =
     .value = Der opstod en fejl, da denne side skulle oversættes.
 translation-notification-try-again-button =
     .label = Prøv igen
+translation-notification-service-unavailable =
+    .value = Oversættelse er ikke mulig i øjeblikket. Prøv igen senere.
 translation-notification-options-menu =
     .label = Indstillinger
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = Oversæt aldrig { $langName }
+    .accesskey = O
+translation-notification-options-never-for-site =
+    .label = Oversæt aldrig dette websted
+    .accesskey = a
+translation-notification-options-preferences =
+    .label = Indstillinger for oversættelse
+    .accesskey = I
