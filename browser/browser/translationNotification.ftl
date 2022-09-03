@@ -39,6 +39,10 @@ translation-notification-translated-from =
     .value = Eli khasi liguqulelwe ukusuka kwi
 translation-notification-translated-to =
     .value = ukuya
+# This string (empty in en-US) is for locales that need to display some text
+# after the second drop down for the sentence to be grammatically correct.
+translation-notification-translated-to-suffix =
+    .value = { "" }
 
 ##
 
