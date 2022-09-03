@@ -37,6 +37,8 @@ translation-notification-translating-content =
 
 translation-notification-translated-from =
     .value = Trang này đã được dịch từ tiếng
+translation-notification-translated-to =
+    .value = sang tiếng
 # This string (empty in en-US) is for locales that need to display some text
 # after the second drop down for the sentence to be grammatically correct.
 translation-notification-translated-to-suffix =
@@ -59,3 +61,14 @@ translation-notification-options-menu =
 
 ## The accesskey values used here should not clash with each other
 
+# Variables:
+#  $langName (String): a language name coming from the toolkit/intl/languageNames.ftl file.
+translation-notification-options-never-for-language =
+    .label = Không bao giờ dịch { $langName }
+    .accesskey = N
+translation-notification-options-never-for-site =
+    .label = Không bao giờ dịch trang này
+    .accesskey = e
+translation-notification-options-preferences =
+    .label = Tùy chọn dịch
+    .accesskey = T
