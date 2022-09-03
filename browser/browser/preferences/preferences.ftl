@@ -1088,6 +1088,7 @@ collection-health-report-disabled = 在此构建配置下数据反馈被禁用
 collection-backlogged-crash-reports-with-link = 允许 { -brand-short-name } 代您发送积压的崩溃报告 <a data-l10n-name="crash-reports-link">详细了解</a>
     .accesskey = c
 privacy-segmentation-section-header = 增强浏览体验的新功能
+privacy-segmentation-section-description = 当我们推出需使用您数据以提供更个性化的上网体验的新功能时：
 privacy-segmentation-radio-off =
     .label = 使用 { -brand-product-name } 推荐
 privacy-segmentation-radio-on =
