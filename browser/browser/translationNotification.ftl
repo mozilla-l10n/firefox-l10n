@@ -39,6 +39,10 @@ translation-notification-translated-from =
     .value = This page has been translated from
 translation-notification-translated-to =
     .value = to
+# This string (empty in en-US) is for locales that need to display some text
+# after the second drop down for the sentence to be grammatically correct.
+translation-notification-translated-to-suffix =
+    .value = { "" }
 
 ##
 
