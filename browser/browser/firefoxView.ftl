@@ -16,7 +16,7 @@ firefoxview-close-button =
 firefoxview-just-now-timestamp = Толькі што
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = Выбар картак
-firefoxview-tabpickup-description = Адкрытыя старонкі з іншых прылад.
+firefoxview-tabpickup-description = Адкрыць старонкі з іншых прылад.
 firefoxview-tabpickup-recenttabs-description = Тут будзе спіс нядаўніх картак
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
@@ -38,7 +38,6 @@ firefoxview-tabpickup-network-offline-header = Праверце падлучэн
 firefoxview-tabpickup-network-offline-description = Калі вы карыстаецеся фаерволам або проксі, пераканайцеся, што { -brand-short-name } мае дазвол на доступ у сеціва.
 firefoxview-tabpickup-network-offline-primarybutton = Паспрабаваць зноў
 firefoxview-tabpickup-sync-error-header = У нас узніклі праблемы з сінхранізацыяй
-firefoxview-tabpickup-sync-error-description = { -brand-short-name } зараз не можа падключыцца да службы. Паспрабуйце зноў праз хвіліну.
 firefoxview-tabpickup-sync-error-primarybutton = Паспрабаваць зноў
 firefoxview-tabpickup-syncing = Пачакайце, пакуль вашы карткі сінхранізуюцца. Гэта толькі на імгненне.
 firefoxview-mobile-promo-header = Атрымайце карткі з тэлефона або планшэта
