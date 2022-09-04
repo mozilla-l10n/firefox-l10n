@@ -917,7 +917,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Mesin pencari
     .accesskey = p
+addressbar-locbar-quickactions-option =
+    .label = Tindakan cepat
+    .accesskey = T
 addressbar-suggestions-settings = Ubah pengaturan untuk saran mesin pencari
+addressbar-quickactions-learn-more = Pelajari lebih lanjut
 
 ## Privacy Section - Content Blocking
 
@@ -1077,6 +1081,12 @@ addon-recommendations-link = Pelajari lebih lanjut
 collection-health-report-disabled = Pelaporan data dinonaktifkan untuk konfigurasi build ini
 collection-backlogged-crash-reports-with-link = Izinkan { -brand-short-name } mengirim laporan kerusakan sebelumnya atas nama Anda <a data-l10n-name="crash-reports-link">Pelajari lebih lanjut</a>
     .accesskey = l
+privacy-segmentation-section-header = Fitur baru yang meningkatkan penjelajahan Anda
+privacy-segmentation-section-description = Saat kami menawarkan fitur yang menggunakan data Anda untuk memberi Anda pengalaman yang lebih pribadi:
+privacy-segmentation-radio-off =
+    .label = Gunakan rekomendasi { -brand-product-name }
+privacy-segmentation-radio-on =
+    .label = Tampilkan informasi rinci
 
 ## Privacy Section - Security
 ##
