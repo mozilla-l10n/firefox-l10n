@@ -309,6 +309,7 @@ mr2022-onboarding-get-started-primary-button-label = Дар як лаҳза та
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Танзими барқрафтор
 mr2022-onboarding-import-primary-button-label-no-attribution = Ворид кардан аз браузери қаблӣ
 
 ## If your language uses grammatical genders, in the description for the
