@@ -95,13 +95,13 @@ main-context-menu-bookmark-add =
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-add-mac =
     .label = Afegeix la pàgina a les adreces d'interès
-    .accesskey = A
+    .accesskey = i
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-edit-mac =
     .label = Edita l'adreça d'interès
-    .accesskey = E
+    .accesskey = i
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -118,6 +118,16 @@ main-context-menu-bookmark-change-with-shortcut =
     .aria-label = Edita aquesta adreça d'interès
     .accesskey = d
     .tooltiptext = Edita l'adreça d'interès ({ $shortcut })
+main-context-menu-bookmark-page =
+    .aria-label = Afegeix la pàgina a les adreces d'interès…
+    .accesskey = g
+    .tooltiptext = Afegeix la pàgina a les adreces d'interès
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-page-mac =
+    .label = Afegeix la pàgina a les adreces d'interès…
+    .accesskey = i
 main-context-menu-open-link =
     .label = Obre l'enllaç
     .accesskey = O
