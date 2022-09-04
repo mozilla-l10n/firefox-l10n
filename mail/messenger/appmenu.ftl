@@ -16,3 +16,32 @@ appmenuitem-font-size-reduce =
 appmenuitem-font-size-reset =
     .label = { $size }px
     .tooltiptext = Endurstilla stærð leturs
+
+## Tools
+
+appmenu-tools-panel-title =
+    .title = Verkfæri
+appmenu-tools-panel =
+    .label = Verkfæri
+    .accesskey = k
+appmenu-tools-import =
+    .label = Flytja inn
+    .accesskey = i
+appmenu-tools-export =
+    .label = Flytja út
+    .accesskey = F
+appmenu-tools-message-search =
+    .label = Leita í póstum
+    .accesskey = p
+appmenu-tools-message-filters =
+    .label = Póstsíur
+    .accesskey = P
+appmenu-tools-download-manager =
+    .label = Umsýsla niðurhals
+    .accesskey = m
+appmenu-tools-activity-manager =
+    .label = Yfirlit aðgerða
+    .accesskey = a
+
+## Help
+
