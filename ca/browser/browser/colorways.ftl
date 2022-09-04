@@ -12,6 +12,8 @@ colorway-collection-independent-voices-short-description = Colors que canvien la
 
 ## Colorway names and descriptions
 
+playmaker-colorway-name = Migcampista
+playmaker-colorway-description = Creeu oportunitats per guanyar i ajudeu tothom qui us envolta a millorar el seu joc.
 expressionist-colorway-name = Expressionista
 expressionist-colorway-description = Vieu el món d'una altra manera i les vostres creacions regiren les emocions dels altres.
 visionary-colorway-name = Visionari
@@ -21,3 +23,4 @@ activist-colorway-description = Feu que el món sigui millor del que l'heu troba
 dreamer-colorway-name = Somniador
 dreamer-colorway-description = Creieu que la fortuna afavoreix els atrevits i inspira els altres a ser valents.
 innovator-colorway-name = Innovador
+innovator-colorway-description = Veieu oportunitats a tot arreu i teniu un impacte en la vida de tothom qui us envoltA.
