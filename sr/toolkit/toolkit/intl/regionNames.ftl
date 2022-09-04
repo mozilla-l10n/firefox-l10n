@@ -151,6 +151,7 @@ region-name-mf = Свети Мартин
 region-name-mg = Мадагаскар
 region-name-mh = Маршалска Острва
 region-name-mk = Македонија
+region-name-mk-2019 = Северна Македонија
 region-name-ml = Мали
 region-name-mm = Мианмар
 region-name-mn = Монголија
