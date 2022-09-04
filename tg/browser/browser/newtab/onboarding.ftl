@@ -275,11 +275,21 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Нигоҳ доштани { -brand-short-name } дар мустақар
        *[other] Васл кардани { -brand-short-name } ба навори вазифа
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Фаъолияти худро бо браузере, ки аз ҷониби ташкилоти ғайритиҷорӣ дастгирӣ мешавад, оғоз намоед. Вақте ки шумо дар Интернет сайру гашт мекунед, мо махфияти шуморо муҳофизат менамоем.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Ташаккур барои дӯст доштани «{ -brand-product-name }»
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Интернети солимтарро аз ҷойи дилхоҳ бо зеркунии як тугма оғоз кунед. Навсозии охирини мо чизҳои наверо дар бар мегирад, ки ба назари мо ба шумо маъқул мешаванд.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Аз браузере истифода баред, ки махфияти шуморо ҳангоми сайру гашт дар Интернет муҳофизат мекунад. Навсозии охирини мо чизҳои наверо дар бар мегирад, ки ба назари мо ба шумо маъқул мешаванд.
 mr2022-onboarding-existing-pin-checkbox-label = Инчунин тамошокунии хусусии «{ -brand-short-name }»-ро илова кунед
 
 ## MR2022 New User Set Default screen strings
@@ -287,6 +297,9 @@ mr2022-onboarding-existing-pin-checkbox-label = Инчунин тамошоку�
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = «{ -brand-short-name }»-ро ҳамчун браузери писандида таъин намоед
 mr2022-onboarding-set-default-primary-button-label = Танзим кардани «{ -brand-short-name }» ҳамчун браузери пешфарз
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Аз браузере истифода баред, ки аз ҷониби ташкилоти ғайритиҷорӣ дастгирӣ мешавад. Вақте ки шумо дар Интернет сайру гашт мекунед, мо махфияти шуморо муҳофизат менамоем.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -339,6 +352,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Шумо навовар ҳ
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Аз ноутбук ба телефон гузаред ва боз баргардед
+mr2022-onboarding-mobile-download-cta-text = Барои ба даст овардани «{ -brand-product-name }» дар телефони мобилии худ, рамзи «QR»-ро сканер кунед ё <a data-l10n-name="download-label">пайванди боргириеро ба худ фиристонед.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Барои гирифтани гунаи мобилии «{ -brand-product-name }», рамзи «QR»-ро сканер кунед.
 
 ## MR2022 Upgrade Dialog screens
