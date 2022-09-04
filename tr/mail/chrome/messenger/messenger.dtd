@@ -316,7 +316,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Sohbet">
 <!ENTITY goChatCmd.accesskey "b">
-<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Yıldızlı ileti">
 <!ENTITY prevStarredMsgCmd.accesskey "d">
 <!ENTITY folderMenu.label "Dizin">
@@ -460,7 +459,7 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addonNoPrefs.label "Hiç eklenti ayarı bulunamadı.">
 <!ENTITY activitymanager.label "Etkinlik yöneticisi">
-<!ENTITY activitymanager.accesskey "Y">
+<!ENTITY activitymanager.accesskey "ö">
 <!ENTITY imAccountsStatus.label "Sohbet durumu">
 <!ENTITY imAccountsStatus.accesskey "S">
 <!ENTITY imStatus.available          "Müsait">

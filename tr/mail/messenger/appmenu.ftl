@@ -16,3 +16,67 @@ appmenuitem-font-size-reduce =
 appmenuitem-font-size-reset =
     .label = { $size } px
     .tooltiptext = Yazı tipi boyutunu sıfırla
+
+## Tools
+
+appmenu-tools-panel-title =
+    .title = Araçlar
+appmenu-tools-panel =
+    .label = Araçlar
+    .accesskey = A
+appmenu-tools-import =
+    .label = İçe aktar
+    .accesskey = İ
+appmenu-tools-export =
+    .label = Dışa aktar
+    .accesskey = D
+appmenu-tools-message-search =
+    .label = İletilerde ara
+    .accesskey = a
+appmenu-tools-message-filters =
+    .label = İleti süzgeçleri
+    .accesskey = s
+appmenu-tools-download-manager =
+    .label = İndirme yöneticisi
+    .accesskey = m
+appmenu-tools-activity-manager =
+    .label = Etkinlik yöneticisi
+    .accesskey = ö
+appmenu-tools-dev-tools =
+    .label = Geliştirici araçları
+    .accesskey = G
+
+## Help
+
+appmenu-help-panel-title =
+    .title = Yardım
+appmenu-help-get-help =
+    .label = Yardım al
+    .accesskey = Y
+appmenu-help-explore-features =
+    .label = Özellikleri keşfet
+    .accesskey = Ö
+appmenu-help-shortcuts =
+    .label = Klavye kısayolları
+    .accesskey = K
+appmenu-help-get-involved =
+    .label = Katkıda bulunun
+    .accesskey = b
+appmenu-help-donation =
+    .label = Bağış yapın
+    .accesskey = B
+appmenu-help-feedback =
+    .label = Görüş ve fikir gönderin
+    .accesskey = f
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Sorun giderme modu…
+    .accesskey = o
+appmenu-help-exit-troubleshoot-mode2 =
+    .label = Sorun giderme modunu kapat
+    .accesskey = o
+appmenu-help-troubleshooting-info =
+    .label = Sorun giderme bilgileri
+    .accesskey = u
+appmenu-help-about-product =
+    .label = { -brand-short-name } hakkında
+    .accesskey = a
