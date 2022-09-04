@@ -146,9 +146,19 @@ spotlight-learn-more-expanded = Сазнај више
 
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Изгледа да користите јавни Wi-Fi
+spotlight-public-wifi-vpn-body = Да бисте сакрили вашу локацију и активност прегледања, размислите о коришћењу виртуелне приватне мреже (VPN). VPN ће вас заштитити када прегледате на јавним местима као што су аеродроми и кафићи.
+spotlight-public-wifi-vpn-primary-button = Будите приватни уз { -mozilla-vpn-brand-name }
+    .accesskey = S
+spotlight-public-wifi-vpn-link = Не сада
+    .accesskey = N
 
 ## Total Cookie Protection Rollout
 
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    Први испробајте наше најмоћније
+    искуство приватности до сада
 
 ## Emotive Continuous Onboarding
 
