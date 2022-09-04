@@ -51,3 +51,11 @@ firefoxview-mobile-confirmation-header = 🎉 Tot llest!
 firefoxview-mobile-confirmation-description = Ara podeu recuperar les pestanyes del { -brand-product-name } des del vostre telèfon o tauleta.
 firefoxview-closed-tabs-title = Tancades recentment
 firefoxview-closed-tabs-description = Torneu a obrir les pàgines que heu tancat en aquest dispositiu.
+firefoxview-closed-tabs-placeholder = <strong>No hi ha cap pàgina tancada recentment</strong><br/>No patiu més per perdre una pestanya tancada. Sempre la podeu recuperar des d'aquí.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Darrera activa
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Obre { $targetURI } en una pestanya nova
+firefoxview-try-colorways-button = Proveu les combinacions de colors
