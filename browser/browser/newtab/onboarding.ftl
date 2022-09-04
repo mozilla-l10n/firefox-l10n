@@ -241,7 +241,7 @@ fx100-upgrade-thanks-header = 百版之约，万分感谢
 fx100-upgrade-thank-you-body = { -brand-short-name } 的第 100 个版本如约而至。感谢<em>您</em> 支持我们建设更好、更健康的互联网。
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = 这是我们的第 100 个版本！一路相伴，感谢有您。{ -brand-short-name } 诚挚邀您共赴下个百版之约。
-mr2022-onboarding-secondary-skip-button-label = 跳过此步骤
+mr2022-onboarding-secondary-skip-button-label = 跳过此步
 
 ## MR2022 New User Pin Firefox screen strings
 
@@ -355,6 +355,6 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = 显示详细信�
 
 ## MR2022 Multistage Gratitude screen strings
 
-mr2022-onboarding-gratitude-title = 您正在帮助我们建设更好的互联网环境。
+mr2022-onboarding-gratitude-title = 您正在帮助我们建设更好的互联网。
 mr2022-onboarding-gratitude-primary-button-label = 了解新版变化
 mr2022-onboarding-gratitude-secondary-button-label = 开始浏览
