@@ -13,4 +13,7 @@ callout-primary-complete-button-label = Ég skil!
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Hoppaðu á milli tækja og taktu með þér flipana þína
 callout-firefox-view-recently-closed-title = Fáðu aftur lokaða flipa á einni svipstundu
+callout-firefox-view-recently-closed-subtitle = Allir lokaðir flipar munu birtast hér eins og fyrir galdra. Hafðu ekki framar áhyggjur af því að loka vefsíðum fyrir slysni.
 callout-firefox-view-colorways-title = Bættu við skvettu af lit
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Notaðu litasett til að velja tóna sem tala til þín. Aðeins í boði í { -brand-product-name }.
