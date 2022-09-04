@@ -151,6 +151,7 @@ region-name-mf = Sankti Martin
 region-name-mg = Madagaskar
 region-name-mh = Marshall-eyjar
 region-name-mk = Makedónía
+region-name-mk-2019 = Norður Makedónía
 region-name-ml = Malí
 region-name-mm = Búrma
 region-name-mn = Mongólía
