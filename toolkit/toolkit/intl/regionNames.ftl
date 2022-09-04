@@ -151,6 +151,7 @@ region-name-mf = Svätý Martin
 region-name-mg = Madagaskar
 region-name-mh = Marshallove ostrovy
 region-name-mk = Macedónsko
+region-name-mk-2019 = Severné Macedónsko
 region-name-ml = Mali
 region-name-mm = Barma
 region-name-mn = Mongolsko
