@@ -122,6 +122,8 @@ about-processes-frame-name-many = Submarcos ({ $number }): { $shortUrl }
 about-processes-utility-actor-unknown = Actor desconocido
 about-processes-utility-actor-audio-decoder = Decodificador de audio
 about-processes-utility-actor-audio-decoder-generic = Decodificador de audio genérico
+about-processes-utility-actor-audio-decoder-applemedia = Decodificador Apple Media Audio
+about-processes-utility-actor-audio-decoder-wmf = Decodificador Windows Media Framework
 
 ## Displaying CPU (percentage and total)
 ## Variables:
