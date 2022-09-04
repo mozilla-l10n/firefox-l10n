@@ -17,6 +17,27 @@ menu-addons-and-themes =
 
 ## Help Menu
 
+menu-help-help-title =
+    .label = Pomocník
+    .accesskey = P
+menu-help-get-help =
+    .label = Získať pomoc
+    .accesskey = Z
+menu-help-explore-features =
+    .label = Spoznajte funkcie
+    .accesskey = S
+menu-help-shortcuts =
+    .label = Klávesové skratky
+    .accesskey = K
+menu-help-get-involved =
+    .label = Zapojte sa
+    .accesskey = a
+menu-help-donation =
+    .label = Darovať príspevok
+    .accesskey = D
+menu-help-feedback =
+    .label = Odoslať spätnú väzbu a nápady
+    .accesskey = O
 menu-help-enter-troubleshoot-mode =
     .label = Režim riešenia problémov…
     .accesskey = R
@@ -26,6 +47,12 @@ menu-help-exit-troubleshoot-mode =
 menu-help-more-troubleshooting-info =
     .label = Ďalšie informácie pre riešenie problémov
     .accesskey = a
+menu-help-troubleshooting-info =
+    .label = Informácie pre riešenie problémov
+    .accesskey = I
+menu-help-about-product =
+    .label = O aplikácii { -brand-short-name }
+    .accesskey = O
 
 ## Mail Toolbar
 
