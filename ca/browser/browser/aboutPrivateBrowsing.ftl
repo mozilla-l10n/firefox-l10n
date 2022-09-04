@@ -56,6 +56,7 @@ about-private-browsing-promo-close-button =
 about-private-browsing-pin-promo-header = La llibertat de la navegació privada en un clic
 about-private-browsing-pin-promo-link-text =
     { PLATFORM() ->
-        [macos] Fixa'l al Dock
-       *[other] Fixa'l a la barra de tasques
+        [macos] Fixa al Dock
+       *[other] Fixa a la barra de tasques
     }
+about-private-browsing-pin-promo-title = Ni galetes, ni historial, directament des del vostre escriptori. Navegueu sense sentir-vos observat.
