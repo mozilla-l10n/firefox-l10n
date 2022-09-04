@@ -269,9 +269,14 @@ mr2022-onboarding-pin-primary-button-label =
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Спасибо, что полюбили { -brand-product-name }
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Сделайте { -brand-short-name } своим браузером по умолчанию
+mr2022-onboarding-set-default-primary-button-label = Установите { -brand-short-name } своим браузером по умолчанию
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
