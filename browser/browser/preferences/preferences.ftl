@@ -1095,6 +1095,7 @@ addon-recommendations-link = Weitere Informationen
 collection-health-report-disabled = Datenübermittlung ist für diese Build-Konfiguration deaktiviert
 collection-backlogged-crash-reports-with-link = Nicht gesendete Absturzberichte automatisch von { -brand-short-name } senden lassen <a data-l10n-name="crash-reports-link">Weitere Informationen</a>
     .accesskey = g
+privacy-segmentation-section-header = Neue Funktionen, die Ihr Surfen verbessern
 privacy-segmentation-radio-off =
     .label = { -brand-product-name }-Empfehlungen verwenden
 privacy-segmentation-radio-on =
