@@ -38,7 +38,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Všetky sledovacie prvky na
 
 ##
 
-protections-panel-no-trackers-found = Aplikácia { -brand-short-name } nenašla na tejto stránke žiadne známe sledovacie prvky.
+protections-panel-no-trackers-found = Prehliadač { -brand-short-name } nenašiel na tejto stránke žiadne známe sledovacie prvky.
 protections-panel-content-blocking-tracking-protection = Sledovací obsah
 protections-panel-content-blocking-socialblock = Sledovacie prvky sociálnych sietí
 protections-panel-content-blocking-cryptominers-label = Ťažba kryptomien
