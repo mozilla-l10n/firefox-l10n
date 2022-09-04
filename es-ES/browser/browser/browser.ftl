@@ -199,6 +199,9 @@ page-action-manage-extension =
     .label = Administrar extensión…
 page-action-remove-extension =
     .label = Eliminar extensión
+page-action-remove-extension2 =
+    .label = Eliminar extensión
+    .accesskey = E
 
 ## Auto-hide Context Menu
 
@@ -262,16 +265,47 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 
-quickactions-clear = Limpiar historial
-quickactions-print = Imprimir
-quickactions-screenshot = Hacer una captura de pantalla
-quickactions-settings = Abrir ajustes
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = Ver complementos
+quickactions-cmd-addons = complementos, extensiones, temas
+quickactions-cmd-addons2 = complementos
+# Opens the bookmarks library window
+quickactions-bookmarks = Ver marcadores
+quickactions-cmd-bookmarks = marcadores
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Limpiar historial
+# Opens about:downloads page
 quickactions-downloads = Abrir descargas
-quickactions-viewsource = Ver código fuente
+quickactions-cmd-downloads = descargas
+# Opens about:addons page in the extensions section
+quickactions-extensions = Gestionar extensiones
+quickactions-cmd-extensions = extensiones
+# Opens the devtools web inspector
 quickactions-inspector = Abrir inspector
+# Opens about:logins
+quickactions-logins = Ver inicios de sesión
+quickactions-cmd-logins = inicios de sesión y contraseñas
+# Opens about:addons page in the plugins section
+quickactions-plugins = Administrar plugins
+quickactions-cmd-plugins = plugins
+# Opens the print dialog
+quickactions-print = Imprimir
+quickactions-cmd-print = imprimir
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Restablecer { -brand-short-name }
+# Restarts the browser
 quickactions-restart = Reiniciar { -brand-short-name }
+# Opens about:preferences
+quickactions-settings = Abrir ajustes
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Actualizar { -brand-short-name }
+# Opens the view-source UI with current pages source
+quickactions-viewsource = Ver código fuente
 
 ## Bookmark Panel
 
@@ -846,3 +880,6 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Navegación privada
+
+## Unified extensions (toolbar) button
+
