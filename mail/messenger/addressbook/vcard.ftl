@@ -82,8 +82,6 @@ vcard-adr-header = Adresler
 vcard-adr-add = Adres ekle
 vcard-adr-label = Adres
 vcard-adr-delivery-label = Teslimat etiketi
-vcard-adr-pobox = Posta kutusu
-vcard-adr-ext = Geniş adres
 vcard-adr-street = Sokak adresi
 # Or "Locality"
 vcard-adr-locality = İlçe
@@ -104,3 +102,8 @@ vcard-org-header = Kurum Özellikleri
 vcard-org-title = Unvan
 vcard-org-role = Rol
 vcard-org-org = Şirket
+
+# Custom properties
+
+vcard-custom-header = Özel Özellikler
+vcard-custom-add = Özel özellik ekle

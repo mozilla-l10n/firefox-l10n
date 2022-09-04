@@ -12,11 +12,14 @@ menu-tools-settings =
     .label = Ayarlar
     .accesskey = A
 menu-addons-and-themes =
-    .label = Eklentiler ve Temalar
+    .label = Eklentiler ve temalar
     .accesskey = E
 
 ## Help Menu
 
+menu-help-help-title =
+    .label = Yardım
+    .accesskey = Y
 menu-help-enter-troubleshoot-mode =
     .label = Sorun giderme modu…
     .accesskey = o
