@@ -87,9 +87,9 @@ main-context-menu-page-save =
 ## Simple menu items
 
 main-context-menu-bookmark-add =
-    .aria-label = Afegeix la pàgina a les adreces d'interès
-    .accesskey = d
-    .tooltiptext = Afegeix la pàgina a les adreces d'interès
+    .aria-label = Afegeix aquesta pàgina a les adreces d'interès
+    .accesskey = i
+    .tooltiptext = Afegeix aquesta pàgina a les adreces d'interès
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
 # so should probably have the same access key if possible.
@@ -105,22 +105,22 @@ main-context-menu-bookmark-edit-mac =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Afegeix la pàgina a les adreces d'interès
-    .accesskey = d
-    .tooltiptext = Afegeix la pàgina a les adreces d'interès ({ $shortcut })
+    .aria-label = Afegeix aquesta pàgina a les adreces d'interès
+    .accesskey = i
+    .tooltiptext = Afegeix aquesta pàgina a les adreces d'interès ({ $shortcut })
 main-context-menu-bookmark-change =
     .aria-label = Edita aquesta adreça d'interès
-    .accesskey = d
-    .tooltiptext = Edita l'adreça d'interès
+    .accesskey = i
+    .tooltiptext = Edita aquesta adreça d'interès
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-bookmark-change-with-shortcut =
     .aria-label = Edita aquesta adreça d'interès
-    .accesskey = d
+    .accesskey = i
     .tooltiptext = Edita l'adreça d'interès ({ $shortcut })
 main-context-menu-bookmark-page =
     .aria-label = Afegeix la pàgina a les adreces d'interès…
-    .accesskey = g
+    .accesskey = i
     .tooltiptext = Afegeix la pàgina a les adreces d'interès
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
@@ -128,6 +128,28 @@ main-context-menu-bookmark-page =
 main-context-menu-bookmark-page-mac =
     .label = Afegeix la pàgina a les adreces d'interès…
     .accesskey = i
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
+# so should probably have the same access key if possible.
+main-context-menu-edit-bookmark-mac =
+    .label = Edita l'adreça d'interès…
+    .accesskey = i
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = Afegeix la pàgina a les adreces d'interès…
+    .accesskey = i
+    .tooltiptext = Afegeix la pàgina a les adreces d'interès ({ $shortcut })
+main-context-menu-edit-bookmark =
+    .aria-label = Edita l'adreça d'interès…
+    .accesskey = i
+    .tooltiptext = Edita l'adreça d'interès
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = Edita l'adreça d'interès…
+    .accesskey = i
+    .tooltiptext = Edita l'adreça d'interès ({ $shortcut })
 main-context-menu-open-link =
     .label = Obre l'enllaç
     .accesskey = O
@@ -145,7 +167,10 @@ main-context-menu-open-link-new-private-window =
     .accesskey = p
 main-context-menu-bookmark-link =
     .label = Afegeix l'enllaç a les adreces d'interès
-    .accesskey = e
+    .accesskey = i
+main-context-menu-bookmark-link-2 =
+    .label = Afegeix l'enllaç a les adreces d'interès…
+    .accesskey = i
 main-context-menu-save-link =
     .label = Anomena i desa el contingut de l'enllaç…
     .accesskey = s
@@ -159,7 +184,10 @@ main-context-menu-save-link-to-pocket =
 
 main-context-menu-copy-email =
     .label = Copia l'adreça electrònica
-    .accesskey = e
+    .accesskey = l
+main-context-menu-copy-phone =
+    .label = Copia el número de telèfon
+    .accesskey = o
 main-context-menu-copy-link-simple =
     .label = Copia l'enllaç
     .accesskey = l
@@ -346,6 +374,9 @@ main-context-menu-frame-view-info =
     .accesskey = I
 main-context-menu-print-selection =
     .label = Imprimeix la selecció
+    .accesskey = r
+main-context-menu-print-selection-2 =
+    .label = Imprimeix la selecció…
     .accesskey = r
 main-context-menu-view-selection-source =
     .label = Codi font de la selecció
