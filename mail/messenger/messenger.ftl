@@ -127,6 +127,7 @@ message-header-recipient-avatar =
 
 ## Message header cutomize panel
 
+message-header-customize-panel-title = İleti Başlığı Ayarları
 message-header-customize-button-style =
     .value = Düğme stili
     .accesskey = D
@@ -136,6 +137,16 @@ message-header-button-style-text =
     .label = Metin
 message-header-button-style-icons =
     .label = Simgeler
+message-header-show-sender-full-address =
+    .label = Her zaman gönderenin tam adresini göster
+    .accesskey = H
+message-header-show-sender-full-address-description = E-posta adresi, gönderen adının altında gösterilecektir.
+message-header-show-recipient-avatar =
+    .label = Gönderenin profil resmini göster
+    .accesskey = o
+message-header-hide-label-column =
+    .label = Etiketler sütununu gizle
+    .accesskey = ü
 message-header-large-subject =
     .label = Büyük konu
     .accesskey = o

@@ -262,6 +262,9 @@ compose-tool-button-remove-text-styling =
 
 # Placeholder file
 
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } - Filelink Eki
 
 # Template
 
@@ -287,6 +290,14 @@ cloud-file-service-provider-footer-single = { $link } hakkında daha fazla bilgi
 cloud-file-service-provider-footer-multiple = { $firstLinks } ve { $lastLink } hakkında daha fazla bilgi alın.
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Parola korumalı bağlantı
+# Used in a list of stats about a specific file
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
+# Size - the size of the file (Size: 4.2 MB)
+# Link - the link to the file (Link: https://some.provider.com)
+# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
+# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
+#                  (Download Limit: 6)
+cloud-file-template-service-name = Filelink hizmeti:
 cloud-file-template-size = Boyut:
 cloud-file-template-link = Bağlantı:
 cloud-file-template-password-protected-link = Parola korumalı bağlantı:
