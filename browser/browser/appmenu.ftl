@@ -169,12 +169,22 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Preconfiguració recomanada per a depuració de la majoria d'aplicacions web, amb poca sobrecàrrega.
 profiler-popup-presets-web-developer-label =
     .label = Desenvolupador web
+profiler-popup-presets-firefox-description = Preconfiguració recomanada per a fer anàlisis de rendiment del { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description = Preconfiguració recomanada per a investigar errors de gràfics del { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Gràfics
+profiler-popup-presets-media-description2 = Preconfiguració recomanada per a investigar errors d'àudio i vídeo del { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Elements multimèdia
+profiler-popup-presets-networking-description = Preconfiguració recomanada per a investigar errors de xarxa del { -brand-shorter-name }.
+profiler-popup-presets-networking-label =
+    .label = Xarxa
+profiler-popup-presets-power-description = Preconfiguració recomanada per a investigar errors de consum d'energia del { -brand-shorter-name }, amb poca sobrecàrrega.
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = Energia
 profiler-popup-presets-custom-label =
     .label = Personalitzat
 
