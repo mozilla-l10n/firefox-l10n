@@ -159,6 +159,7 @@ spotlight-public-wifi-vpn-link = Не сада
 spotlight-total-cookie-protection-header =
     Први испробајте наше најмоћније
     искуство приватности до сада
+spotlight-total-cookie-protection-body = Свеобухватна заштита од колачића спречава механизме за праћење да вас прате широм мреже.
 
 ## Emotive Continuous Onboarding
 
