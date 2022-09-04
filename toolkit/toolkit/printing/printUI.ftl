@@ -14,6 +14,7 @@ printui-sheets-count =
        *[other] { $sheetCount } листова папира
     }
 printui-page-range-all = Све
+printui-page-range-current = Тренутно
 printui-page-range-odd = Непарне
 printui-page-range-even = Парне
 printui-page-range-custom = Прилагођено
