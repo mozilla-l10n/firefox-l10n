@@ -355,6 +355,8 @@ mr2022-onboarding-colorway-tooltip-innovator =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name }-Empfehlungen verwenden
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Detaillierte Informationen anzeigen
 
 ## MR2022 Multistage Gratitude screen strings
 
