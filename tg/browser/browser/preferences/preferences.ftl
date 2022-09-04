@@ -1095,6 +1095,7 @@ collection-health-report-disabled = Гузоришдиҳии маълумот б
 collection-backlogged-crash-reports-with-link = Иҷозат додан ба { -brand-short-name } барои фиристодани аз номи шумо гузоришҳо бо сабтҳои вайроншавӣ ва корҳои иҷронашуда <a data-l10n-name="crash-reports-link">Маълумоти бештар</a>
     .accesskey = И
 privacy-segmentation-section-header = Хусусиятҳои нав, ки таҷрибаи тамошокунии шуморо беҳтар мекунанд
+privacy-segmentation-section-description = Вақте ки мо хусусиятҳоеро пешниҳод мекунем, ки барои таъмини таҷрибаи хусусии беҳтар аз маълумоти шумо истифода мебаранд:
 privacy-segmentation-radio-off =
     .label = Истифода бурдан аз тавсияҳои «{ -brand-product-name }»
 privacy-segmentation-radio-on =
