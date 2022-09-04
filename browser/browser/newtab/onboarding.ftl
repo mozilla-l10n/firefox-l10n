@@ -268,6 +268,11 @@ mr2022-onboarding-set-default-only-subtitle = 选用由非营利组织支持的�
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = 感谢您对 { -brand-product-name } 的青睐
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = 随时随地一键打开更健康的互联网。我们的更新满载新鲜内容，希望您会喜欢。
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = 使用能在浏览网页时捍卫隐私的浏览器。我们的更新满载您喜欢的内容。
 mr2022-onboarding-existing-pin-checkbox-label = 同时固定 { -brand-short-name } 隐私浏览模式
 
 ## MR2022 New User Set Default screen strings
@@ -283,6 +288,9 @@ mr2022-onboarding-set-default-subtitle = 选用由非营利组织支持的浏览
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = 我们的最新版本贴合您的需求，满载您喜欢的内容，让您轻松浏览互联网。
 mr2022-onboarding-get-started-primary-button-label = 几秒钟就能完成设置
 
 ## MR2022 Import Settings screen strings
@@ -296,7 +304,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = 从先前所用�
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
-mr2022-onboarding-colorway-title = 选择能激发你灵感的颜色
+mr2022-onboarding-colorway-title = 选择您心动的配色
 mr2022-onboarding-colorway-subtitle = 凡人之声，文化之根
 mr2022-onboarding-colorway-primary-button-label = 设置配色
 mr2022-onboarding-existing-colorway-checkbox-label = 将“{ -firefox-home-brand-name }”设为您的多彩主页
@@ -332,6 +340,7 @@ mr2022-onboarding-colorway-description-innovator = <b>您是创新派。</b>您�
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = PC 与手机自由切换
+mr2022-onboarding-mobile-download-subtitle = 一处打开网页，处处接续浏览。还可在使用 { -brand-product-name } 的设备间同步书签和密码。
 mr2022-onboarding-mobile-download-cta-text = 扫码下载移动版 { -brand-product-name } 或<a data-l10n-name="download-label">向自己发送下载链接。</a>
 mr2022-onboarding-no-mobile-download-cta-text = 扫码下载移动版 { -brand-product-name }。
 
@@ -356,5 +365,6 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = 显示详细信�
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = 您正在帮助我们建设更好的互联网。
+mr2022-onboarding-gratitude-subtitle = 感谢使用由 Mozilla 基金会支持的 { -brand-short-name }。您的支持激励着我们为更开放、更美好且人人可用的互联网继续奋斗。
 mr2022-onboarding-gratitude-primary-button-label = 了解新版变化
 mr2022-onboarding-gratitude-secondary-button-label = 开始浏览
