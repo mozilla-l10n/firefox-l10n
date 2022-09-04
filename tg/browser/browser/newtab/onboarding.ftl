@@ -305,11 +305,15 @@ mr2022-onboarding-set-default-subtitle = Аз браузере истифода 
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Версияи охирини мо барои ниёзҳои шумо сохта шуда, сайру гашти шуморо дар Интернет осотан мекунад. Ин версия хусусиятҳои наверо дар бар мегирад, ки ба назари мо ба шумо маъқул мешаванд.
 mr2022-onboarding-get-started-primary-button-label = Дар як лаҳза танзим кунед
 
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = Танзими барқрафтор
+mr2022-onboarding-import-subtitle = Браузери «{ -brand-short-name }»-ро ба таври дилхоҳ танзим кунед. Хатбаракҳо, ниҳонвожаҳо ва чизҳои дигари худро аз браузери куҳна илова намоед.
 mr2022-onboarding-import-primary-button-label-no-attribution = Ворид кардан аз браузери қаблӣ
 
 ## If your language uses grammatical genders, in the description for the
@@ -353,6 +357,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Шумо навовар ҳ
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Аз ноутбук ба телефон гузаред ва боз баргардед
+mr2022-onboarding-mobile-download-subtitle = Варақаҳоро аз як дастгоҳ гирифта, кори худро бо онҳо дар дастгоҳи дигар идома диҳед. Илова бар ин, хатбаракҳо ва ниҳонвожаҳои худро дар ҳар ҷое, ки шумо аз «{ -brand-product-name }» истифода мебаред, ҳамоҳанг кунед.
 mr2022-onboarding-mobile-download-cta-text = Барои ба даст овардани «{ -brand-product-name }» дар телефони мобилии худ, рамзи «QR»-ро сканер кунед ё <a data-l10n-name="download-label">пайванди боргириеро ба худ фиристонед.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Барои гирифтани гунаи мобилии «{ -brand-product-name }», рамзи «QR»-ро сканер кунед.
 
