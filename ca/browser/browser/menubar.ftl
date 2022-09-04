@@ -38,11 +38,9 @@ menu-quit =
             [windows] u
            *[other] u
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Surt del { -brand-shorter-name }
-
 menu-about =
     .label = Quant al { -brand-shorter-name }
     .accesskey = Q
@@ -309,6 +307,9 @@ menu-help-more-troubleshooting-info =
     .accesskey = i
 menu-help-report-site-issue =
     .label = Informa d'un problema amb el lloc…
+menu-help-share-ideas =
+    .label = Compartiu idees i comentaris…
+    .accesskey = s
 menu-help-enter-troubleshoot-mode2 =
     .label = Mode de resolució de problemes…
     .accesskey = M
