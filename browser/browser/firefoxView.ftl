@@ -51,3 +51,22 @@ firefoxview-mobile-confirmation-header = 🎉 Све је спремно!
 firefoxview-mobile-confirmation-description = Сада можете да преузмете ваше { -brand-product-name } језичке са таблета или телефона.
 firefoxview-closed-tabs-title = Недавно затворено
 firefoxview-closed-tabs-description = Поново отворите странице које сте затворили на овом уређају.
+firefoxview-closed-tabs-placeholder = <strong>Нема недавно затворених страница</strong><br/>Не брините да ћете грешком затворити и изгубити језичак. Увек их можете пронаћи овде.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Последња активност
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Отворите { $targetURI } у новом језичку
+firefoxview-try-colorways-button = Испробајте комбинације боја
+firefoxview-no-current-colorway-collection = Стижу нове комбинације боја
+firefoxview-change-colorway-button = Промените комбинације боја
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Још нема шта да се види</strong><br/>Следећи пут када отворите страницу у { -brand-product-name }-у на другом уређају, можете да је преузмете овде.
+firefoxview-collapse-button-show =
+    .title = Прикажи листу
+firefoxview-collapse-button-hide =
+    .title = Сакриј листу
