@@ -163,3 +163,10 @@ cfr-total-cookie-protection-body = La Protecció total de galetes és la funció
 spotlight-better-internet-header = Fer una Internet millor és responsabilitat de tots nosaltres
 spotlight-better-internet-body = Utilitzant el { -brand-short-name } doneu suport a una Internet oberta, accessible i millor per a tothom.
 spotlight-peace-mind-header = Teniu les espatlles ben cobertes
+spotlight-peace-mind-body = Cada mes, el { -brand-short-name } bloca una mitjana de 3000 elements de seguiment per usuari. Creiem que no s'hauria d'interposar res entre l'usuari i el bon contingut d'Internet, i menys els atacs a la privadesa provocats per aquests elements de seguiment.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Fixa'l al Dock
+       *[other] Fixa'l a la barra de tasques
+    }
+spotlight-pin-secondary-button = Ara no
