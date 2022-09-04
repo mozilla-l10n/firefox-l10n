@@ -151,6 +151,7 @@ region-name-mf = Святого Мартина, остров
 region-name-mg = Мадагаскар
 region-name-mh = Маршалловы острова
 region-name-mk = Северная Македония
+region-name-mk-2019 = Северная Македония
 region-name-ml = Мали
 region-name-mm = Мьянма
 region-name-mn = Монголия

@@ -9,3 +9,4 @@ callout-primary-complete-button-label = Понятно!
 
 ## Firefox View feature tour strings
 
+callout-firefox-view-colorways-title = Добавьте всплеск цвета
