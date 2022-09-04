@@ -20,6 +20,15 @@ menu-addons-and-themes =
 menu-help-help-title =
     .label = Yardım
     .accesskey = Y
+menu-help-get-help =
+    .label = Yardım al
+    .accesskey = Y
+menu-help-explore-features =
+    .label = Özellikleri keşfet
+    .accesskey = Ö
+menu-help-shortcuts =
+    .label = Klavye kısayolları
+    .accesskey = K
 menu-help-enter-troubleshoot-mode =
     .label = Sorun giderme modu…
     .accesskey = o
@@ -29,6 +38,9 @@ menu-help-exit-troubleshoot-mode =
 menu-help-more-troubleshooting-info =
     .label = Sorun giderme bilgileri
     .accesskey = b
+menu-help-about-product =
+    .label = { -brand-short-name } hakkında
+    .accesskey = a
 
 ## Mail Toolbar
 
