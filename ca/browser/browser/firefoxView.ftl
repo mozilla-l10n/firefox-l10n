@@ -59,3 +59,14 @@ firefoxview-pickup-tabs-badge = Darrera activa
 firefoxview-tabs-list-tab-button =
     .title = Obre { $targetURI } en una pestanya nova
 firefoxview-try-colorways-button = Proveu les combinacions de colors
+firefoxview-no-current-colorway-collection = Aviat hi haurà noves combinacions de colors diponibles
+firefoxview-change-colorway-button = Canvia la combinació de colors
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Encara no hi ha res per veure</strong><br/>La pròxima vegada que obriu una pàgina en el { -brand-product-name } en un altre dispositiu, podreu recuperar-la des d'aquí com per art de màgia.
+firefoxview-collapse-button-show =
+    .title = Mostra la llista
+firefoxview-collapse-button-hide =
+    .title = Amaga la llista

@@ -41,7 +41,7 @@ reload-tabs =
     .accesskey = r
 pin-tab =
     .label = Fixa la pestanya
-    .accesskey = p
+    .accesskey = F
 unpin-tab =
     .label = No fixis la pestanya
     .accesskey = f
@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Afegeix la pestanya a les adreces d'interès
     .accesskey = x
+tab-context-bookmark-tab =
+    .label = Afegeix la pestanya a les adreces d'interès…
+    .accesskey = g
 tab-context-open-in-new-container-tab =
     .label = Obre en una pestanya de contenidor nova
     .accesskey = b
@@ -100,11 +103,10 @@ tab-context-move-tabs =
            *[other] Mou les pestanyes
         }
     .accesskey = M
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
             [one] Envia la pestanya a un dispositiu
            *[other] Envia { $tabCount } pestanyes a un dispositiu
         }
-    .accesskey = n
+    .accesskey = v
