@@ -18,3 +18,6 @@ firefoxview-just-now-timestamp = Ara mateix
 firefoxview-tabpickup-header = Recull de pestanyes
 firefoxview-tabpickup-description = Accediu a les pàgines obertes des d'altres dispositius.
 firefoxview-tabpickup-recenttabs-description = Aquí es mostra la llista de pestanyes recents
+# Variables:
+#  $percentValue (Number): the percentage value for setup completion
+firefoxview-tabpickup-progress-label = { $percentValue }% completat
