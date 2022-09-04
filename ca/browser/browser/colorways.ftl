@@ -17,3 +17,7 @@ expressionist-colorway-description = Vieu el món d'una altra manera i les vostr
 visionary-colorway-name = Visionari
 visionary-colorway-description = Poseu en dubte l'statu quo i inciteu els altres a imaginar un futur millor.
 activist-colorway-name = Activista
+activist-colorway-description = Feu que el món sigui millor del que l'heu trobat i convenceu els altres perquè creguin en el canvi.
+dreamer-colorway-name = Somniador
+dreamer-colorway-description = Creieu que la fortuna afavoreix els atrevits i inspira els altres a ser valents.
+innovator-colorway-name = Innovador
