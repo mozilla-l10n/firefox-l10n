@@ -16,3 +16,67 @@ appmenuitem-font-size-reduce =
 appmenuitem-font-size-reset =
     .label = { $size }пікселів
     .tooltiptext = Скинути розмір шрифту
+
+## Tools
+
+appmenu-tools-panel-title =
+    .title = Інструменти
+appmenu-tools-panel =
+    .label = Інструменти
+    .accesskey = І
+appmenu-tools-import =
+    .label = Імпорт
+    .accesskey = м
+appmenu-tools-export =
+    .label = Експорт
+    .accesskey = Е
+appmenu-tools-message-search =
+    .label = Пошук повідомлень
+    .accesskey = П
+appmenu-tools-message-filters =
+    .label = Фільтри повідомлень
+    .accesskey = Ф
+appmenu-tools-download-manager =
+    .label = Менеджер завантажень
+    .accesskey = е
+appmenu-tools-activity-manager =
+    .label = Менеджер діяльності
+    .accesskey = ж
+appmenu-tools-dev-tools =
+    .label = Інструменти розробника
+    .accesskey = с
+
+## Help
+
+appmenu-help-panel-title =
+    .title = Довідка
+appmenu-help-get-help =
+    .label = Отримати допомогу
+    .accesskey = т
+appmenu-help-explore-features =
+    .label = Ознайомитися з функціями
+    .accesskey = з
+appmenu-help-shortcuts =
+    .label = Комбінації клавіш
+    .accesskey = л
+appmenu-help-get-involved =
+    .label = Долучитися
+    .accesskey = ч
+appmenu-help-donation =
+    .label = Зробити внесок
+    .accesskey = б
+appmenu-help-feedback =
+    .label = Надіслати відгуки й ідеї
+    .accesskey = ї
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Режим усунення проблем…
+    .accesskey = п
+appmenu-help-exit-troubleshoot-mode2 =
+    .label = Вимкнути режим усунення проблем
+    .accesskey = В
+appmenu-help-troubleshooting-info =
+    .label = Інформація для усунення проблем
+    .accesskey = І
+appmenu-help-about-product =
+    .label = Про { -brand-short-name }
+    .accesskey = о
