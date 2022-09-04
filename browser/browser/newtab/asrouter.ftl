@@ -160,3 +160,6 @@ cfr-total-cookie-protection-body = La Protecció total de galetes és la funció
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Fer una Internet millor és responsabilitat de tots nosaltres
+spotlight-better-internet-body = Utilitzant el { -brand-short-name } doneu suport a una Internet oberta, accessible i millor per a tothom.
+spotlight-peace-mind-header = Teniu les espatlles ben cobertes
