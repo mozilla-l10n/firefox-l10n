@@ -269,6 +269,8 @@ mr2022-onboarding-secondary-skip-button-label = Sleppa þessu skrefi
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Opnaðu ótrúlega frábært internet
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Ræstu { -brand-short-name } hvar sem er með einum smelli. Í hvert skipti sem þú gerir það ertu að velja opnari og sjálfstæðari vef.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -285,9 +287,16 @@ mr2022-onboarding-set-default-only-subtitle = Byrjaðu með vafra sem studdur er
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Þakka þér fyrir að finnast vænt um { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Opnaðu internetið á heilbrigðari máta hvar sem er með einum smelli. Nýjasta uppfærslan okkar er stútfull af nýjum hlutum sem við höldum að þú munir kunna að meta.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Notaðu vafra sem verndar friðhelgi þína á meðan þú vafrar um vefinn. Nýjasta uppfærslan okkar er stútfull af hlutum sem þú munt dýrka.
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Gerðu { -brand-short-name } að vafranum sem þú notar mest
 mr2022-onboarding-set-default-primary-button-label = Gerðu { -brand-short-name } að sjálfgefnum vafra
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
@@ -302,6 +311,7 @@ mr2022-onboarding-get-started-primary-button-label = Settu upp á nokkrum sekún
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = Uppsetning í einum grænum
+mr2022-onboarding-import-subtitle = Settu upp { -brand-short-name } eins og þér hentar. Bættu við bókamerkjunum þínum, lykilorðum og fleiru úr gamla vafranum þínum.
 mr2022-onboarding-import-primary-button-label-no-attribution = Flytja inn úr fyrri vafra
 
 ## If your language uses grammatical genders, in the description for the
