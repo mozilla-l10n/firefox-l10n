@@ -43,6 +43,18 @@ pictureinpicture-subtitles-cmd =
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Layar Penuh
+    .title = Layar Penuh (klik ganda)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Keluar dari Layar Penuh
+    .title = Keluar dari Layar Penuh (klik ganda)
+pictureinpicture-seekbackward-cmd =
+    .aria-label = Mundur
+    .title = Mundur (←)
+pictureinpicture-seekforward-cmd =
+    .aria-label = Maju
+    .title = Maju (→)
 pictureinpicture-subtitles-label = Subtitel
 pictureinpicture-font-size-label = Ukuran fon
 pictureinpicture-font-size-small = Kecil

@@ -325,9 +325,42 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Impor dari peramb
 mr2022-onboarding-colorway-title = Pilih warna yang menginspirasi Anda
 mr2022-onboarding-colorway-subtitle = Suara independen dapat mengubah budaya.
 mr2022-onboarding-colorway-primary-button-label = Atur ragam warna
+mr2022-onboarding-existing-colorway-checkbox-label = Jadikan { -firefox-home-brand-name } beranda penuh warna
+mr2022-onboarding-colorway-label-default = Bawaan
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Baku
+mr2022-onboarding-colorway-description-default = <b>Gunakan warna { -brand-short-name } saya saat ini.</b>
+mr2022-onboarding-colorway-label-playmaker = Playmaker
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Playmaker
+mr2022-onboarding-colorway-description-playmaker = <b>Anda adalah seorang Playmaker.</b> Anda menciptakan peluang untuk menang dan membantu semua orang di sekitar Anda meningkatkan permainan mereka.
+mr2022-onboarding-colorway-label-expressionist = Ekspresionis
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Ekspresionis
+mr2022-onboarding-colorway-description-expressionist = <b>Anda adalah seorang Ekspresionis.</b> Anda melihat dunia secara berbeda dan kreasi Anda membangkitkan emosi orang lain.
+mr2022-onboarding-colorway-label-visionary = Visioner
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Visioner
+mr2022-onboarding-colorway-description-visionary = <b>Anda adalah seorang Visioner.</b> Anda mempertanyakan status quo dan menggerakkan orang lain untuk membayangkan masa depan yang lebih baik.
+mr2022-onboarding-colorway-label-activist = Aktivis
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Aktivis
+mr2022-onboarding-colorway-description-activist = <b>Anda adalah seorang Aktivis.</b> Anda meninggalkan dunia sebagai tempat yang lebih baik daripada yang Anda temukan dan membuat orang lain percaya.
+mr2022-onboarding-colorway-label-dreamer = Pemimpi
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Pemimpi
+mr2022-onboarding-colorway-description-dreamer = <b>Anda adalah Pemimpi.</b> Anda percaya bahwa keberuntungan berpihak pada yang berani dan menginspirasi orang lain untuk menjadi berani.
+mr2022-onboarding-colorway-label-innovator = Inovator
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Inovator
+mr2022-onboarding-colorway-description-innovator = <b>Anda adalah seorang Inovator.</b> Anda melihat peluang di mana-mana dan memberi dampak pada kehidupan semua orang di sekitar Anda.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Lompat dari laptop ke ponsel dan kembali lagi
+mr2022-onboarding-mobile-download-subtitle = Ambil tab dari satu perangkat dan lanjutkan di mana Anda tinggalkan di perangkat lain. Selain itu, sinkronkan markah dan sandi Anda di mana pun Anda menggunakan { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Pindai kode QR untuk mendapatkan { -brand-product-name } untuk seluler atau <a data-l10n-name="download-label">kirim sendiri tautan unduhan.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Pindai kode QR untuk mendapatkan { -brand-product-name } untuk seluler.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -342,6 +375,15 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Kami selalu menghormati privasi Anda
+mr2022-onboarding-privacy-segmentation-subtitle = Dari penyaranan cerdas hingga penelusuran yang lebih cerdas, kami terus berupaya menciptakan { -brand-product-name } yang lebih pribadi dan lebih baik.
+mr2022-onboarding-privacy-segmentation-text-cta = Apa yang ingin Anda lihat saat kami menawarkan fitur baru yang menggunakan data Anda untuk menyempurnakan penjelajahan Anda?
+mr2022-onboarding-privacy-segmentation-button-primary-label = Gunakan rekomendasi { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Tampilkan informasi rinci
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Anda membantu kami membangun web yang lebih baik.
+mr2022-onboarding-gratitude-subtitle = Terima kasih telah menggunakan { -brand-short-name }, yang didukung oleh Mozilla Foundation. Dengan dukungan Anda, kami berupaya menjadikan internet lebih terbuka, mudah diakses, dan lebih baik bagi semua orang.
+mr2022-onboarding-gratitude-primary-button-label = Lihat apa yang baru
+mr2022-onboarding-gratitude-secondary-button-label = Mulai menjelajah

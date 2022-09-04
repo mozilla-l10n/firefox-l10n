@@ -64,3 +64,6 @@ experimental-features-ime-search-description = IME (Input Method Editor) adalah 
 experimental-features-text-recognition =
     .label = Pengenalan Teks
 experimental-features-text-recognition-description = Aktifkan fitur untuk mengenali teks dalam gambar.
+experimental-features-accessibility-cache =
+    .label = Tembolok aksesibilitas
+experimental-features-accessibility-cache-description = Tembolok semua informasi aksesibilitas dari semua dokumen dalam proses utama { -brand-short-name }. Ini meningkatkan kinerja untuk pembaca layar dan aplikasi lain yang menggunakan API aksesibilitas.
