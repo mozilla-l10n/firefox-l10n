@@ -283,6 +283,8 @@ mr2022-onboarding-set-default-only-subtitle = Byrjaðu með vafra sem studdur er
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Þakka þér fyrir að finnast vænt um { -brand-product-name }
 
 ## MR2022 New User Set Default screen strings
 
