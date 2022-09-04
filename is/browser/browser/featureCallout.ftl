@@ -12,6 +12,7 @@ callout-primary-complete-button-label = Ég skil!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Hoppaðu á milli tækja og taktu með þér flipana þína
+callout-firefox-view-tab-pickup-subtitle = Gríptu með þér opna flipa úr símanum þínum og opnaðu þá hér til að hámarka flæðið.
 callout-firefox-view-recently-closed-title = Fáðu aftur lokaða flipa á einni svipstundu
 callout-firefox-view-recently-closed-subtitle = Allir lokaðir flipar munu birtast hér eins og fyrir galdra. Hafðu ekki framar áhyggjur af því að loka vefsíðum fyrir slysni.
 callout-firefox-view-colorways-title = Bættu við skvettu af lit
