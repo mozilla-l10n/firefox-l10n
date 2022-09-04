@@ -31,7 +31,7 @@ firefoxview-tabpickup-adddevice-primarybutton = Získať { -brand-product-name }
 firefoxview-tabpickup-synctabs-header = Zapnite synchronizáciu kariet
 firefoxview-tabpickup-synctabs-description = Povoľte { -brand-short-name(case: "dat") } zdieľať karty medzi zariadeniami.
 firefoxview-tabpickup-synctabs-learn-how = Ďalšie informácie
-firefoxview-tabpickup-synctabs-primarybutton = Synchronizovať otvorené karty
+firefoxview-tabpickup-synctabs-primarybutton = Zapnúť synchronizáciu kariet
 firefoxview-tabpickup-fxa-admin-disabled-header = Vaša organizácia zakázala synchronizáciu
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nemôže synchronizovať karty medzi zariadeniami, pretože váš správca zakázal synchronizáciu.
 firefoxview-tabpickup-network-offline-header = Skontrolujte svoje internetové pripojenie
@@ -53,7 +53,7 @@ firefoxview-closed-tabs-title = Nedávno zatvorené
 firefoxview-closed-tabs-description = Otvorte si znova stránky, ktoré ste na tomto zariadení predtým zatvorili.
 firefoxview-closed-tabs-placeholder = <strong>Žiadne nedávno zatvorené stránky</strong><br/>Už sa nemusíte báť, že stratíte zatvorenú kartu. Vždy ju môžete nájsť na tomto mieste.
 # refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Posledná aktivita
+firefoxview-pickup-tabs-badge = Naposledy prezerané
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
