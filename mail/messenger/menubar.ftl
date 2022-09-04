@@ -17,6 +17,27 @@ menu-addons-and-themes =
 
 ## Help Menu
 
+menu-help-help-title =
+    .label = Довідка
+    .accesskey = в
+menu-help-get-help =
+    .label = Отримати допомогу
+    .accesskey = т
+menu-help-explore-features =
+    .label = Ознайомитися з функціями
+    .accesskey = О
+menu-help-shortcuts =
+    .label = Комбінації клавіш
+    .accesskey = л
+menu-help-get-involved =
+    .label = Долучитися
+    .accesskey = ч
+menu-help-donation =
+    .label = Зробити внесок
+    .accesskey = б
+menu-help-feedback =
+    .label = Надіслати відгуки й ідеї
+    .accesskey = ї
 menu-help-enter-troubleshoot-mode =
     .label = Режим усунення проблем…
     .accesskey = Р
@@ -26,6 +47,12 @@ menu-help-exit-troubleshoot-mode =
 menu-help-more-troubleshooting-info =
     .label = Додаткова інформація про режим усунення проблем
     .accesskey = Д
+menu-help-troubleshooting-info =
+    .label = Інформація для усунення проблем
+    .accesskey = І
+menu-help-about-product =
+    .label = Про { -brand-short-name }
+    .accesskey = П
 
 ## Mail Toolbar
 
