@@ -123,7 +123,7 @@ about-processes-frame-name-many = Podrámce ({ $number }): { $shortUrl }
 ## Utility process actor names
 
 about-processes-utility-actor-unknown = Neznámy actor
-about-processes-utility-actor-audio-decoder = Audio dekodér
+about-processes-utility-actor-audio-decoder = Zvukový dekodér
 about-processes-utility-actor-audio-decoder-generic = Všeobecný zvukový dekodér
 about-processes-utility-actor-audio-decoder-applemedia = Zvukový dekodér Apple Media
 about-processes-utility-actor-audio-decoder-wmf = Windows Media Framework Audio Decoder
