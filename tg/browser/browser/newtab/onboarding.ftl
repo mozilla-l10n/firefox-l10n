@@ -370,6 +370,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Мо ҳамеша махфияти шуморо эҳтиром мекунем
+mr2022-onboarding-privacy-segmentation-text-cta = Вақте ки мо хусусиятҳои наверо пешниҳод мекунем, ки барои беҳтарсозии тамошокунии шумо аз маълумоти шахсиатон истифода мебаранд, шумо чиро дидан мехоҳед?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Истифода бурдан аз тавсияҳои «{ -brand-product-name }»
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Намоиш додани маълумоти муфассал
 
