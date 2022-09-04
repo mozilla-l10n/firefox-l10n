@@ -47,3 +47,7 @@ firefoxview-tabpickup-syncing = Сачекајте да се ваши језич
 firefoxview-mobile-promo-header = Преузмите језичке са телефона или таблета
 firefoxview-mobile-promo-description = Да видите ваше најновије језичке са мобилног уређаја, пријавите се на { -brand-product-name } за iOS или Android.
 firefoxview-mobile-promo-primarybutton = Преузмите { -brand-product-name } за телефон
+firefoxview-mobile-confirmation-header = 🎉 Све је спремно!
+firefoxview-mobile-confirmation-description = Сада можете да преузмете ваше { -brand-product-name } језичке са таблета или телефона.
+firefoxview-closed-tabs-title = Недавно затворено
+firefoxview-closed-tabs-description = Поново отворите странице које сте затворили на овом уређају.
