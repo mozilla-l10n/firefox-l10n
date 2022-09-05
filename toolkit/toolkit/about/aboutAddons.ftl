@@ -297,6 +297,8 @@ dictionary-enabled-heading = Activats
 dictionary-disabled-heading = Desactivats
 locale-enabled-heading = Activat
 locale-disabled-heading = Desactivats
+sitepermission-enabled-heading = Activats
+sitepermission-disabled-heading = Desactivats
 always-activate-button = Activa'l sempre
 never-activate-button = No l'activis mai
 addon-detail-author-label = Autor
@@ -373,6 +375,7 @@ addon-permissions-optional = Permisos opcionals per a les funcions addicionals:
 addon-permissions-learnmore = Més informació sobre els permisos
 recommended-extensions-heading = Extensions recomanades
 recommended-themes-heading = Temes recomanats
+addon-sitepermissions-required = Atorga les capacitats següents a <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Us sentiu creatiu? <a data-l10n-name="link">Creeu el vostre propi tema amb el Firefox Color.</a>
@@ -385,6 +388,7 @@ plugin-heading = Gestioneu els connectors
 dictionary-heading = Gestioneu els diccionaris
 locale-heading = Gestioneu les llengües
 updates-heading = Gestioneu les actualitzacions
+sitepermission-heading = Gestioneu els permisos dels llocs
 discover-heading = Personalitzeu el { -brand-short-name }
 shortcuts-heading = Gestioneu les dreceres de les extensions
 default-heading-search-label = Cerca més complements
@@ -400,6 +404,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } no és compatible amb el { -brand-short-name } { $version }.
+details-notification-incompatible-link = Més informació
 details-notification-unsigned-and-disabled = «{ $name }» no s'ha pogut verificar per al seu ús al { -brand-short-name } i s'ha inhabilitat.
 details-notification-unsigned-and-disabled-link = Més informació
 details-notification-unsigned = «{ $name }» no s'ha pogut verificar per al seu ús al { -brand-short-name }. Aneu amb compte.
