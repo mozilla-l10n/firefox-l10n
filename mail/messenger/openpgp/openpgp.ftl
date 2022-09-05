@@ -467,6 +467,7 @@ msg-compose-button-send = &İletiyi gönder
 msg-compose-details-button-label = Ayrıntılar…
 msg-compose-details-button-access-key = n
 send-aborted = Gönderme işlemi iptal edildi.
+key-not-trusted = ‘{ $key }’ anahtarı için güven yetersiz
 key-not-found = '{ $key }' anahtarı bulunamadı
 key-revoked = '{ $key }' anahtarı iptal edildi
 key-expired = '{ $key }' anahtarının süresi doldu
