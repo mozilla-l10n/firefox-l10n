@@ -17,6 +17,27 @@ menu-addons-and-themes =
 
 ## Help Menu
 
+menu-help-help-title =
+    .label = Ajuda
+    .accesskey = A
+menu-help-get-help =
+    .label = Obter ajuda
+    .accesskey = a
+menu-help-explore-features =
+    .label = Conhecer recursos
+    .accesskey = r
+menu-help-shortcuts =
+    .label = Atalhos de teclado
+    .accesskey = t
+menu-help-get-involved =
+    .label = Envolva-se
+    .accesskey = E
+menu-help-donation =
+    .label = Faça uma doação
+    .accesskey = d
+menu-help-feedback =
+    .label = Enviar comentários e ideias
+    .accesskey = E
 menu-help-enter-troubleshoot-mode =
     .label = Modo de solução de problemas…
     .accesskey = s
@@ -26,6 +47,12 @@ menu-help-exit-troubleshoot-mode =
 menu-help-more-troubleshooting-info =
     .label = Informações técnicas
     .accesskey = t
+menu-help-troubleshooting-info =
+    .label = Informações técnicas
+    .accesskey = I
+menu-help-about-product =
+    .label = Sobre o { -brand-short-name }
+    .accesskey = S
 
 ## Mail Toolbar
 
