@@ -1088,6 +1088,8 @@ addon-recommendations-link = Læs mere
 collection-health-report-disabled = Data-rapportering er deaktiveret for denne build-konfiguration
 collection-backlogged-crash-reports-with-link = Tillad at { -brand-short-name } sender ophobede fejlrapporter på dine vegne <a data-l10n-name="crash-reports-link">Læs mere</a>
     .accesskey = o
+privacy-segmentation-radio-off =
+    .label = Brug { -brand-product-name }-anbefalinger
 
 ## Privacy Section - Security
 ##
