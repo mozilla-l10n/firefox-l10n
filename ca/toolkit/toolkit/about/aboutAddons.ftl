@@ -3,113 +3,82 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Gestor de complements
-
 search-header =
     .placeholder = Cerca a addons.mozilla.org
     .searchbuttonlabel = Cerca
-
 search-header-shortcut =
     .key = f
-
 list-empty-get-extensions-message = Obteniu més extensions i temes a <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-get-dictionaries-message = Obteniu més diccionaris a <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-get-language-packs-message = Obteniu més paquets d’idioma a <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-installed =
     .value = No teniu instal·lat cap complement d'aquest tipus
-
 list-empty-available-updates =
     .value = No s'ha trobat cap actualització
-
 list-empty-recent-updates =
     .value = No heu actualitzat recentment cap complement
-
 list-empty-find-updates =
     .label = Cerca actualitzacions
-
 list-empty-button =
     .label = Més informació dels complements
-
 help-button = Assistència per als complements
 sidebar-help-button-title =
     .title = Assistència per als complements
-
 addons-settings-button = Paràmetres del { -brand-short-name }
 sidebar-settings-button-title =
     .title = Paràmetres del { -brand-short-name }
-
 show-unsigned-extensions-button =
     .label = No s'han pogut verificar algunes extensions
-
 show-all-extensions-button =
     .label = Mostra totes les extensions
-
 detail-version =
     .label = Versió
-
 detail-last-updated =
     .label = Darrera actualització
-
+addon-detail-description-expand = Mostra'n més
+addon-detail-description-collapse = Mostra'n menys
 detail-contributions-description = El desenvolupador del complement us demana que l'ajudeu a continuar amb el seu desenvolupament fent una donació.
-
 detail-contributions-button = Col·labora-hi
     .title = Col·labora en el desenvolupament del complement
     .accesskey = C
-
 detail-update-type =
     .value = Actualitzacions automàtiques
-
 detail-update-default =
     .label = Per defecte
     .tooltiptext = Instal·la automàticament les actualitzacions només si és el comportament per defecte
-
 detail-update-automatic =
     .label = Activades
     .tooltiptext = Instal·la actualitzacions automàticament
-
 detail-update-manual =
     .label = Desactivades
     .tooltiptext = No instal·lis actualitzacions automàticament
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Executa en finestres privades
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = No es permet en finestres privades
 detail-private-disallowed-description2 = Aquesta extensió no s'executa durant la navegació privada. <a data-l10n-name="learn-more">Més informació</a>
-
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Necessita accés a les finestres privades
 detail-private-required-description2 = Aquesta extensió té accés a la vostra activitat a Internet durant la navegació privada. <a data-l10n-name="learn-more">Més informació</a>
-
 detail-private-browsing-on =
     .label = Permet
     .tooltiptext = Activa en la navegació privada
-
 detail-private-browsing-off =
     .label = No ho permetis
     .tooltiptext = Desactiva en la navegació privada
-
 detail-home =
     .label = Pàgina d'inici
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Perfil del complement
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Cerca actualitzacions
     .accesskey = t
     .tooltiptext = Cerca actualitzacions d'aquest complement
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -126,35 +95,23 @@ detail-show-preferences =
             [windows] Canvia les opcions del complement
            *[other] Canvia les preferències del complement
         }
-
 detail-rating =
     .value = Puntuació
-
 addon-restart-now =
     .label = Reinicia ara
-
 disabled-unsigned-heading =
     .value = S'han inhabilitat alguns complements
-
 disabled-unsigned-description = Els complements següents no s'han verificat per al seu ús al { -brand-short-name }. Podeu <label data-l10n-name="find-addons">cercar un altre complement similar</label> o demanar al desenvolupador que els verifiqui.
-
 disabled-unsigned-learn-more = Més informació sobre els nostres esforços per garantir la vostra seguretat a Internet.
-
 disabled-unsigned-devinfo = Els desenvolupadors interessats en la verificació dels seus complements poden llegir el nostre <label data-l10n-name="learn-more">manual</label>.
-
 plugin-deprecation-description = Us falta res? Alguns complements ja no són compatibles amb el { -brand-short-name }. <label data-l10n-name="learn-more">Més informació.</label>
-
 legacy-warning-show-legacy = Mostra les extensions antigues
-
 legacy-extensions =
     .value = Extensions antigues
-
 legacy-extensions-description = Aquestes extensions no compleixen els estàndards actuals del { -brand-short-name } i s'han desactivat. <label data-l10n-name="legacy-learn-more">Més informació sobre els canvis en els complements</label>
-
 private-browsing-description2 =
     El { -brand-short-name } ha canviat el funcionament de les extensions en la navegació privada. Per defecte, les extensions noves que s'afegeixin al { -brand-short-name } no s'executaran en les finestres privades. Llevat que ho permeteu als paràmetres, l'extensió no funcionarà durant la navegació privada i no tindrà accés a les vostres activitats en línia. Hem fet aquest canvi per garantir la privadesa de la vostra navegació quan s'utilitzen les finestres privades.
     <label data-l10n-name="private-browsing-learn-more">Més informació sobre com gestionar els paràmetres de les extensions</label>
-
 addon-category-discover = Recomanacions
 addon-category-discover-title =
     .title = Recomanacions
@@ -235,43 +192,34 @@ addon-open-about-debugging = Depura complements
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Gestiona les dreceres de les extensions
     .accesskey = G
-
 shortcuts-no-addons = No teniu cap extensió activada.
 shortcuts-no-commands = Les extensions següents no tenen dreceres:
 shortcuts-input =
     .placeholder = Escriviu una drecera
-
 shortcuts-browserAction2 = Activa el botó de la barra d'eines
 shortcuts-pageAction = Activeu l'acció de la pàgina
 shortcuts-sidebarAction = Mostra/amaga la barra lateral
-
 shortcuts-modifier-mac = Cal incloure Ctrl, Alt o ⌘
 shortcuts-modifier-other = Cal incloure Ctrl o Alt
 shortcuts-invalid = La combinació no és vàlida
 shortcuts-letter = Escriviu una lletra
 shortcuts-system = Les dreceres del { -brand-short-name } no es poden substituir
-
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Drecera duplicada
-
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } ja s'utilitza com a drecera en més d’un cas. Les dreceres duplicades poden causar un comportament inesperat.
-
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Ja s'utilitza en { $addon }
-
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Mostra'n { $numberToShow } més
        *[other] Mostra'n { $numberToShow } més
     }
-
 shortcuts-card-collapse-button = Mostra'n menys
-
 header-back-button =
     .title = Vés enrere
 
@@ -280,15 +228,12 @@ header-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro = Les extensions i els temes són com les aplicacions per al navegador i us permeten protegir les contrasenyes, baixar vídeos, trobar ofertes, blocar anuncis molestos, canviar com es veu el vostre navegador i molt més. Aquests petits programes sovint són desenvolupats per tercers. Aquí teniu una selecció <a data-l10n-name="learn-more-trigger">recomanada</a> pel { -brand-product-name } per aconseguir un nivell excepcional de seguretat, rendiment i funcionalitat.
-
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Algunes d’aquestes recomanacions són personalitzades. Es basen en altres
     extensions que heu instal·lat, preferències del perfil i estadístiques d’ús.
 discopane-notice-learn-more = Més informació
-
 privacy-policy = Política de privadesa
-
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -304,7 +249,6 @@ install-theme-button = Instal·la el tema
 manage-addon-button = Gestiona
 find-more-addons = Cerca més complements
 find-more-themes = Cerqueu més temes
-
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -330,48 +274,37 @@ preferences-addon-button =
 details-addon-button = Detalls
 release-notes-addon-button = Notes de la versió
 permissions-addon-button = Permisos
-
 extension-enabled-heading = Activades
 extension-disabled-heading = Desactivades
-
 theme-enabled-heading = Activat
 theme-disabled-heading = Desactivats
 theme-monochromatic-heading = Combinació de colors
 theme-monochromatic-subheading = Combinacions de colors vibrants del { -brand-product-name }. Disponibles durant un temps limitat.
-
 plugin-enabled-heading = Activats
 plugin-disabled-heading = Desactivats
-
 dictionary-enabled-heading = Activats
 dictionary-disabled-heading = Desactivats
-
 locale-enabled-heading = Activat
 locale-disabled-heading = Desactivats
-
 always-activate-button = Activa'l sempre
 never-activate-button = No l'activis mai
-
 addon-detail-author-label = Autor
 addon-detail-version-label = Versió
 addon-detail-last-updated-label = Darrera actualització
 addon-detail-homepage-label = Pàgina d'inici
 addon-detail-rating-label = Valoració
-
 # Message for add-ons with a staged pending update.
 install-postponed-message = Aquesta extensió s'actualitzarà en reiniciar el { -brand-short-name }.
 install-postponed-button = Actualitza ara
-
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Valorat amb { NUMBER($rating, maximumFractionDigits: 1) } de 5 estrelles
-
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (desactivat)
-
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -387,14 +320,12 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> s'ha eliminat.
 pending-uninstall-undo-button = Desfés
-
 addon-detail-updates-label = Permet actualitzacions automàtiques
 addon-detail-updates-radio-default = Per defecte
 addon-detail-updates-radio-on = Sí
 addon-detail-updates-radio-off = No
 addon-detail-update-check-label = Cerca actualitzacions
 install-update-button = Actualitza
-
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -423,18 +354,14 @@ addon-badge-verified2 =
 
 available-updates-heading = Actualitzacions disponibles
 recent-updates-heading = Actualitzacions recents
-
 release-notes-loading = S'està carregant…
 release-notes-error = S'ha produït un error en carregar les notes de la versió.
-
 addon-permissions-empty = Aquesta extensió no necessita cap permís
 addon-permissions-required = Permisos necessaris per a les funcions bàsiques:
 addon-permissions-optional = Permisos opcionals per a les funcions addicionals:
 addon-permissions-learnmore = Més informació sobre els permisos
-
 recommended-extensions-heading = Extensions recomanades
 recommended-themes-heading = Temes recomanats
-
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Us sentiu creatiu? <a data-l10n-name="link">Creeu el vostre propi tema amb el Firefox Color.</a>
@@ -449,11 +376,9 @@ locale-heading = Gestioneu les llengües
 updates-heading = Gestioneu les actualitzacions
 discover-heading = Personalitzeu el { -brand-short-name }
 shortcuts-heading = Gestioneu les dreceres de les extensions
-
 default-heading-search-label = Cerca més complements
 addons-heading-search-input =
     .placeholder = Cerca a addons.mozilla.org
-
 addon-page-options-button =
     .title = Eines per a tots els complements
 
@@ -464,17 +389,12 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } no és compatible amb el { -brand-short-name } { $version }.
-
 details-notification-unsigned-and-disabled = «{ $name }» no s'ha pogut verificar per al seu ús al { -brand-short-name } i s'ha inhabilitat.
 details-notification-unsigned-and-disabled-link = Més informació
-
 details-notification-unsigned = «{ $name }» no s'ha pogut verificar per al seu ús al { -brand-short-name }. Aneu amb compte.
 details-notification-unsigned-link = Més informació
-
 details-notification-blocked = S'ha inhabilitat { $name } per motius de seguretat o d'estabilitat.
 details-notification-blocked-link = Més informació
-
 details-notification-softblocked = «{ $name }» pot causar problemes de seguretat o d'estabilitat.
 details-notification-softblocked-link = Més informació
-
 details-notification-gmp-pending = «{ $name }» s'instal·larà aviat.
