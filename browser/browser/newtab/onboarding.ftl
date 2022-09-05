@@ -261,6 +261,11 @@ mr2022-onboarding-secondary-skip-button-label = Ignorer cette étape
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Découvrez un Internet incroyable
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
 mr2022-onboarding-welcome-pin-subtitle = Lancez { -brand-short-name } depuis n’importe où en un seul clic. Chaque fois que vous le faites, vous choisissez un Web plus ouvert et indépendant.
 # Primary button string used on welcome page for when Firefox is not pinned.
@@ -272,6 +277,8 @@ mr2022-onboarding-pin-primary-button-label =
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Merci d’apprécier { -brand-product-name }
 
 ## MR2022 New User Set Default screen strings
 
@@ -331,8 +338,12 @@ mr2022-onboarding-colorway-description-innovator = <b>Pionnier/Pionnière :</b>
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-button-primary-label = Utiliser les recommandations de { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Afficher les informations détaillées
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Vous nous aidez à créer un Web meilleur.
+mr2022-onboarding-gratitude-subtitle = Merci d’utiliser { -brand-short-name }, soutenu par la Fondation Mozilla. Avec votre soutien, nous nous efforçons de rendre Internet plus ouvert, accessible et meilleur pour tout le monde.
 mr2022-onboarding-gratitude-primary-button-label = Découvrir les nouveautés
 mr2022-onboarding-gratitude-secondary-button-label = Commencer la navigation
