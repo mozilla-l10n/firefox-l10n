@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Bogmærk faneblad
     .accesskey = B
+tab-context-bookmark-tab =
+    .label = Bogmærk faneblad…
+    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = Åbn i nyt kontekst-faneblad
     .accesskey = t
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Flyt faneblade
         }
     .accesskey = y
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
