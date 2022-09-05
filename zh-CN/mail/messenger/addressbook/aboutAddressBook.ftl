@@ -158,6 +158,7 @@ about-addressbook-confirm-delete-contacts =
 
 about-addressbook-placeholder-empty-book = 无联系人
 about-addressbook-placeholder-new-contact = 新建联系人
+about-addressbook-placeholder-search-only = 进行搜索后才会显示此通讯录的联系人
 about-addressbook-placeholder-searching = 正在搜索…
 about-addressbook-placeholder-no-search-results = 找不到联系人
 

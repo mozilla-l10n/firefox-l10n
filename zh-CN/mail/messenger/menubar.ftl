@@ -17,6 +17,12 @@ menu-addons-and-themes =
 
 ## Help Menu
 
+menu-help-donation =
+    .label = 向我们捐款
+    .accesskey = D
+menu-help-feedback =
+    .label = 提交反馈和想法
+    .accesskey = S
 menu-help-enter-troubleshoot-mode =
     .label = 排障模式…
     .accesskey = T
@@ -26,6 +32,12 @@ menu-help-exit-troubleshoot-mode =
 menu-help-more-troubleshooting-info =
     .label = 更多排障信息
     .accesskey = M
+menu-help-troubleshooting-info =
+    .label = 排障信息
+    .accesskey = I
+menu-help-about-product =
+    .label = 关于 { -brand-short-name }
+    .accesskey = A
 
 ## Mail Toolbar
 

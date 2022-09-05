@@ -29,6 +29,8 @@ message-header-custom-field = { $fieldName }<span data-l10n-name="field-separato
 
 message-header-address-in-address-book-icon2 =
     .alt = 在通讯录中
+message-header-address-not-in-address-book-icon2 =
+    .alt = 不在通讯录中
 message-header-address-in-address-book-button =
     .title = 编辑联系人
 message-ids-field-show-all = 显示全部

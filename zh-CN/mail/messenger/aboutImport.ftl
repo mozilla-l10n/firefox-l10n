@@ -116,6 +116,8 @@ csv-target-field = 通讯录字段
 
 ## Export tab
 
+export-profile-title = 将账户、消息、通讯录和设置导出为 ZIP 文件。
+export-profile-description = 若您当前的配置文件超过 2GB，建议手动备份。
 export-open-profile-folder = 打开配置文件夹
 export-file-picker2 = 导出为 ZIP 文件
 export-brand-name = { -brand-product-name }
@@ -124,6 +126,7 @@ export-brand-name = { -brand-product-name }
 
 summary-pane-title = 要导入的数据
 summary-pane-start = 开始导入
+summary-pane-warning = 导入完成后需重启 { -brand-product-name }。
 summary-pane-start-over = 重启导入工具
 
 ## Footer area
