@@ -150,6 +150,11 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [one] Gā'hue, nādurê' nej riña gayi'ìt sesión nan
        *[other] { "" }
     }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Nādurê't riña gayi'ìt sesión { $count } nan anj
+       *[other] Nādurê't nej riña gayi'ìt sesión { $count } nan anj
+    }
 about-logins-confirm-export-dialog-title = Gā'nïnj gan'ānj nej riña gayi'ìt sēsiûn nī nej da'nga' huìi
 about-logins-confirm-export-dialog-message = Ngà lêchra nāginu sà’ nej da’nga’ huì huā ‘iát (Dàj rû’, BadP@ssw0rd) da’ ga’ue gīni’iāj ahuin mān’an duguî’ na’nïn archivo nan.
 about-logins-confirm-export-dialog-confirm-button = Gā’nïnj gān’an a’ngô hiūj u…
