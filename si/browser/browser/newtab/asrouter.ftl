@@ -94,6 +94,7 @@ cfr-doorhanger-doh-secondary-button = අබල කරන්න
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-header = අඩවිය හුදකලාව
 cfr-doorhanger-fission-primary-button = හරි, තේරුණා
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = තව දැනගන්න
