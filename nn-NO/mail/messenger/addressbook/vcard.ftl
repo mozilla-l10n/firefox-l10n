@@ -70,6 +70,7 @@ vcard-impp-label = Nettpratkonto
 vcard-bday-anniversary-header = Spesielle datoar
 vcard-bday-anniversary-add = Legg til spesiell dato
 vcard-bday-label = Fødselsdag
+vcard-anniversary-label = Merkedag
 vcard-date-day = Dag
 vcard-date-month = Månad
 vcard-date-year = År
@@ -79,7 +80,6 @@ vcard-date-year = År
 vcard-adr-header = Adresser
 vcard-adr-add = Legg til adresse
 vcard-adr-label = Adresse
-vcard-adr-pobox = Postboks
 vcard-adr-street = Gateadresse
 # Or "Locality"
 vcard-adr-locality = Poststad
@@ -99,3 +99,6 @@ vcard-note-add = Legg til notat
 vcard-org-title = Tittel
 vcard-org-role = Rolle
 vcard-org-org = Organisasjon
+
+# Custom properties
+
