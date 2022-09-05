@@ -359,6 +359,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = 尊重您的隐私是我们不变的承诺
 mr2022-onboarding-privacy-segmentation-subtitle = 从搜索建议到更智能的搜索功能，我们一直致力于构建更好用、更个性化的 { -brand-product-name }。
+mr2022-onboarding-privacy-segmentation-text-cta = 当我们推出需使用您数据以提供增强浏览体验的新功能时，您希望其如何呈现？
 mr2022-onboarding-privacy-segmentation-button-primary-label = 使用 { -brand-product-name } 推荐
 mr2022-onboarding-privacy-segmentation-button-secondary-label = 显示详细信息
 
