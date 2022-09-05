@@ -17,6 +17,21 @@ menu-addons-and-themes =
 
 ## Help Menu
 
+menu-help-help-title =
+    .label = 帮助
+    .accesskey = H
+menu-help-get-help =
+    .label = 获取帮助
+    .accesskey = H
+menu-help-explore-features =
+    .label = 探索功能
+    .accesskey = F
+menu-help-shortcuts =
+    .label = 键盘快捷键
+    .accesskey = K
+menu-help-get-involved =
+    .label = 参与进来
+    .accesskey = G
 menu-help-donation =
     .label = 向我们捐款
     .accesskey = D

@@ -361,3 +361,6 @@ link-preview-yes-replace = 好的
 
 ## Dictionary selection popup
 
+spell-add-dictionaries =
+    .label = 添加字典…
+    .accesskey = A

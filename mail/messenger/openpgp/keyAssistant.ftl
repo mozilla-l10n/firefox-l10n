@@ -25,6 +25,7 @@ openpgp-key-assistant-key-source =
     { $count ->
        *[other] 来源
     }
+openpgp-key-assistant-key-collected-attachment = 邮件附件
 openpgp-key-assistant-key-collected-keyserver = 密钥服务器
 
 ## Discovery section

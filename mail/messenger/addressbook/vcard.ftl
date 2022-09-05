@@ -52,15 +52,18 @@ vcard-tel-label = 手机号码
 # TZ vCard field
 
 vcard-tz-header = 时区
+vcard-tz-add = 添加时区
 
 # IMPP vCard field
 
 vcard-impp-header = 聊天账户
+vcard-impp-add = 添加聊天账户
 vcard-impp-label = 聊天账户
 
 # BDAY and ANNIVERSARY vCard field
 
 vcard-bday-anniversary-header = 特殊日期
+vcard-bday-anniversary-add = 添加特殊日期
 vcard-bday-label = 生日
 vcard-anniversary-label = 周年纪念
 vcard-date-day = 日
@@ -70,6 +73,7 @@ vcard-date-year = 年
 # ADR vCard field
 
 vcard-adr-header = 地址
+vcard-adr-add = 添加地址
 vcard-adr-label = 地址
 vcard-adr-street = 街道地址
 # Or "Locality"
@@ -83,9 +87,13 @@ vcard-adr-country = 国家/地区
 # NOTE vCard field
 
 vcard-note-header = 备注
+vcard-note-add = 添加备注
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-role = 角色
 
 # Custom properties
 
+vcard-custom-header = 自定义属性
+vcard-custom-add = 添加自定义属性
