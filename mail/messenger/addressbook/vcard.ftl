@@ -19,6 +19,20 @@ vcard-entry-type-custom = 自定义
 
 vcard-name-header = 姓名
 vcard-n-prefix = 前缀
+vcard-n-add-prefix =
+    .title = 添加前缀
+vcard-n-firstname = 名字
+vcard-n-add-firstname =
+    .title = 添加名字
+vcard-n-middlename = 中间名
+vcard-n-add-middlename =
+    .title = 添加中间名
+vcard-n-lastname = 姓氏
+vcard-n-add-lastname =
+    .title = 添加姓氏
+vcard-n-suffix = 后缀
+vcard-n-add-suffix =
+    .title = 添加后缀
 
 # Email vCard field
 
@@ -57,7 +71,6 @@ vcard-date-year = 年
 
 vcard-adr-header = 地址
 vcard-adr-label = 地址
-vcard-adr-ext = 详细地址
 vcard-adr-street = 街道地址
 # Or "Locality"
 vcard-adr-locality = 城市
@@ -72,4 +85,7 @@ vcard-adr-country = 国家/地区
 vcard-note-header = 备注
 
 # TITLE, ROLE and ORGANIZATION vCard fields
+
+
+# Custom properties
 
