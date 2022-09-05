@@ -136,6 +136,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Actualitzacions recents
 addon-category-recent-updates-title =
     .title = Actualitzacions recents
+addon-category-sitepermission = Permisos dels llocs
+addon-category-sitepermission-title =
+    .title = Permisos dels llocs
 
 ## These are global warnings
 
@@ -278,8 +281,16 @@ extension-enabled-heading = Activades
 extension-disabled-heading = Desactivades
 theme-enabled-heading = Activat
 theme-disabled-heading = Desactivats
+theme-disabled-heading2 = Temes desats
 theme-monochromatic-heading = Combinació de colors
 theme-monochromatic-subheading = Combinacions de colors vibrants del { -brand-product-name }. Disponibles durant un temps limitat.
+# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
+theme-colorways-button = Proveu les combinacions de colors
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Canvia la combinació de colors
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+colorway-collection-expiry-label = Caduca: { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Activats
 plugin-disabled-heading = Desactivats
 dictionary-enabled-heading = Activats
