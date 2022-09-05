@@ -151,6 +151,7 @@ region-name-mf = Sint Martin
 region-name-mg = Madagaskar
 region-name-mh = Marshall Eilannen
 region-name-mk = Masedoonje, V.J.R.
+region-name-mk-2019 = Noard-Masedoanië
 region-name-ml = Mali
 region-name-mm = Myanmar
 region-name-mn = Mongoolje
