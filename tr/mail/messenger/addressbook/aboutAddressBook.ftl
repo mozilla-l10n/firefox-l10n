@@ -167,6 +167,7 @@ about-addressbook-placeholder-no-search-results = Kişi bulunamadı
 
 ## Details
 
+about-addressbook-prefer-display-name = İleti başlığında gösterilen adı tercih et
 about-addressbook-write-action-button = Yaz
 about-addressbook-event-action-button = Etkinlik
 about-addressbook-search-action-button = Ara
