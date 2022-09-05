@@ -66,7 +66,7 @@ inactive-css-ruby-element-fix = Experimente alterar o <strong>font-size</strong>
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
 css-compatibility-default-message = Não há suporte para <strong>{ $property }</strong> nos seguintes navegadores:
-css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> was an experimental property that is now deprecated by W3C standards. It is not supported in the following browsers:
+css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> era uma propriedade experimental que agora está obsoleta pelos padrões W3C. Não há suporte a ela nos seguintes navegadores:
 css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> era uma propriedade experimental que agora está obsoleta pelas normas W3C.
 css-compatibility-deprecated-message = <strong>{ $property }</strong> está obsoleta pelas normas W3C. Não é suportada pelos seguintes navegadores:
 css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> está obsoleta pelas normas W3C.
