@@ -52,6 +52,9 @@ firefoxview-closed-tabs-placeholder = <strong>මෑත දී වසා දැ�
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = නව පටිත්තකින් { $targetURI } අරින්න
+firefoxview-try-colorways-button = වර්ණ පරාසය ගන්න
+firefoxview-no-current-colorway-collection = නව වර්ණ පරාසයක් පැමිණෙමින් තිබේ
+firefoxview-change-colorway-button = වර්ණ පරාසය සංශෝධනය
 # Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name

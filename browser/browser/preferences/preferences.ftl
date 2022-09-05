@@ -1007,6 +1007,10 @@ addon-recommendations-link = තව දැනගන්න
 collection-health-report-disabled = මෙම තැනීමේ වින්‍යාසය සඳහා දත්ත වාර්තාකරණය අබල කර ඇත
 collection-backlogged-crash-reports-with-link = ඔබට අතපසු වූ බිඳ වැටීම් වාර්තා යැවීමට { -brand-short-name } සඳහා ඉඩ දෙන්න <a data-l10n-name="crash-reports-link">තව දැනගන්න</a>
     .accesskey = c
+privacy-segmentation-radio-off =
+    .label = { -brand-product-name } නිර්දේශ භාවිතා කරන්න
+privacy-segmentation-radio-on =
+    .label = විස්තරාත්මක තොරතුරු පෙන්වන්න
 
 ## Privacy Section - Security
 ##
