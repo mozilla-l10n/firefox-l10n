@@ -17,6 +17,27 @@ menu-addons-and-themes =
 
 ## Help Menu
 
+menu-help-help-title =
+    .label = Help
+    .accesskey = H
+menu-help-get-help =
+    .label = Help krije
+    .accesskey = H
+menu-help-explore-features =
+    .label = Funksjes ferkenne
+    .accesskey = F
+menu-help-shortcuts =
+    .label = Fluchtoetsen
+    .accesskey = F
+menu-help-get-involved =
+    .label = Meiwurkje
+    .accesskey = M
+menu-help-donation =
+    .label = In donaasje dwaan
+    .accesskey = d
+menu-help-feedback =
+    .label = Kommentaar en ideeën yntsjinje
+    .accesskey = K
 menu-help-enter-troubleshoot-mode =
     .label = Probleemoplossingsmodus…
     .accesskey = P
@@ -26,6 +47,12 @@ menu-help-exit-troubleshoot-mode =
 menu-help-more-troubleshooting-info =
     .label = Mear probleemoplossingsynformaasje
     .accesskey = M
+menu-help-troubleshooting-info =
+    .label = Probleemoplossingsynformaasje
+    .accesskey = y
+menu-help-about-product =
+    .label = Oer { -brand-short-name }
+    .accesskey = O
 
 ## Mail Toolbar
 
