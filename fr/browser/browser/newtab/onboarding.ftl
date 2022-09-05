@@ -282,6 +282,8 @@ mr2022-onboarding-existing-pin-header = Merci d’apprécier { -brand-product-na
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Faites de { -brand-short-name } votre navigateur par défaut
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -292,6 +294,7 @@ mr2022-onboarding-get-started-primary-button-label = Configurer en quelques seco
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = Configuration ultra-rapide
+mr2022-onboarding-import-subtitle = Configurez { -brand-short-name } comme vous l’aimez. Ajoutez vos marque-pages, mots de passe et plus encore depuis votre ancien navigateur.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importer depuis un autre navigateur
 
 ## If your language uses grammatical genders, in the description for the
@@ -331,6 +334,10 @@ mr2022-onboarding-colorway-description-innovator = <b>Pionnier/Pionnière :</b>
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Passez d’un ordinateur portable à un téléphone et vice-versa
+mr2022-onboarding-mobile-download-subtitle = Récupérez les onglets d’un appareil et reprenez là où vous en étiez sur un autre. Et synchronisez même vos marque-pages et vos mots de passe partout où vous utilisez { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Scannez le code QR pour installer { -brand-product-name } pour mobile ou <a data-l10n-name="download-label">envoyez-vous un lien de téléchargement.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Scannez le code QR pour installer { -brand-product-name } sur mobile.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -338,6 +345,8 @@ mr2022-onboarding-colorway-description-innovator = <b>Pionnier/Pionnière :</b>
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Nous respectons toujours votre vie privée
+mr2022-onboarding-privacy-segmentation-subtitle = Des suggestions intelligentes à la recherche plus intelligente, nous nous efforçons constamment de créer un { -brand-product-name } meilleur et plus personnel.
 mr2022-onboarding-privacy-segmentation-button-primary-label = Utiliser les recommandations de { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Afficher les informations détaillées
 
