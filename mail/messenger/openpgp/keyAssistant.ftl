@@ -43,3 +43,7 @@ openpgp-key-assistant-back-button = 上一步
 openpgp-key-assistant-accept-button = 接受
 openpgp-key-assistant-close-button = 关闭
 openpgp-key-assistant-disable-button = 禁用加密
+openpgp-key-assistant-confirm-button = 加密发送
+# Variables:
+# $date (String) - The key creation date.
+openpgp-key-assistant-key-created = 创建于 { $date }
