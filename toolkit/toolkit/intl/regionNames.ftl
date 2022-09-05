@@ -151,6 +151,7 @@ region-name-mf = Saint Martin
 region-name-mg = Madagascar
 region-name-mh = Marshall Uharteak
 region-name-mk = Mazedonia
+region-name-mk-2019 = Ipar Mazedonia
 region-name-ml = Mali
 region-name-mm = Birmania
 region-name-mn = Mongolia
