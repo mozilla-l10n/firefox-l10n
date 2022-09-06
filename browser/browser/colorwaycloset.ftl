@@ -16,3 +16,5 @@ colorway-closet-set-colorway-button = Establecer combinación de colores
 colorway-closet-cancel-button = Cancelar
 colorway-homepage-reset-prompt = Hacer de { -firefox-home-brand-name } su colorida página de inicio
 colorway-homepage-reset-success-message = { -firefox-home-brand-name } es ahora su página de inicio
+colorway-homepage-reset-apply-button = Aplicar
+colorway-homepage-reset-undo-button = Deshacer
