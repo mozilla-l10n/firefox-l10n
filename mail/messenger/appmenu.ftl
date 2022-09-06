@@ -77,3 +77,6 @@ appmenu-help-exit-troubleshoot-mode2 =
 appmenu-help-troubleshooting-info =
     .label = Información para resolver problemas
     .accesskey = I
+appmenu-help-about-product =
+    .label = Acerca de { -brand-short-name }
+    .accesskey = A
