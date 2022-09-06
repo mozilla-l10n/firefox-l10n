@@ -151,6 +151,7 @@ region-name-mf = Сен-Мартен
 region-name-mg = Мадагаскар
 region-name-mh = Маршаллові Острови
 region-name-mk = Македонія
+region-name-mk-2019 = Північна Македонія
 region-name-ml = Малі
 region-name-mm = М'янма
 region-name-mn = Монголія
