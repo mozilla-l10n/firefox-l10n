@@ -199,6 +199,9 @@ page-action-manage-extension =
     .label = Administrar extensión…
 page-action-remove-extension =
     .label = Eliminar extensión
+page-action-manage-extension2 =
+    .label = Administrar extensión…
+    .accesskey = e
 page-action-remove-extension2 =
     .label = Eliminar extensión
     .accesskey = E
@@ -279,6 +282,7 @@ quickactions-bookmarks = Ver marcadores
 quickactions-cmd-bookmarks = marcadores
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Limpiar historial
+quickactions-cmd-clearhistory = limpiar historial
 # Opens about:downloads page
 quickactions-downloads = Abrir descargas
 quickactions-cmd-downloads = descargas
@@ -287,6 +291,7 @@ quickactions-extensions = Gestionar extensiones
 quickactions-cmd-extensions = extensiones
 # Opens the devtools web inspector
 quickactions-inspector = Abrir inspector
+quickactions-cmd-inspector = inspector, herramientas de desarrollo
 # Opens about:logins
 quickactions-logins = Ver inicios de sesión
 quickactions-cmd-logins = inicios de sesión y contraseñas
@@ -296,16 +301,30 @@ quickactions-cmd-plugins = plugins
 # Opens the print dialog
 quickactions-print = Imprimir
 quickactions-cmd-print = imprimir
+# Opens a new private browsing window
+quickactions-private = Abrir ventana de navegación privada
+quickactions-cmd-private = navegación privada
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Restablecer { -brand-short-name }
+quickactions-cmd-refresh = refrescar
 # Restarts the browser
 quickactions-restart = Reiniciar { -brand-short-name }
+quickactions-cmd-restart = reiniciar
+# Opens the screenshot tool
+quickactions-screenshot2 = Hacer una captura de pantalla
+quickactions-cmd-screenshot = captura de pantalla
 # Opens about:preferences
 quickactions-settings = Abrir ajustes
+quickactions-cmd-settings = ajustes, preferencias, opciones
+# Opens about:addons page in the themes section
+quickactions-themes = Administrar temas
+quickactions-cmd-themes = temas
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Actualizar { -brand-short-name }
+quickactions-cmd-update = actualizar
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Ver código fuente
+quickactions-cmd-viewsource = ver fuente, fuente
 
 ## Bookmark Panel
 
@@ -601,6 +620,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Buscar marcadores
 urlbar-result-action-search-history = Buscar en el historial
 urlbar-result-action-search-tabs = Buscar pestañas
+urlbar-result-action-search-actions = Buscar acciones
 
 ## Labels shown above groups of urlbar results
 
@@ -614,6 +634,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Sugerencias de { $engine }
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Acciones rápidas
 
 ## Full Screen and Pointer Lock UI
 
@@ -689,6 +712,8 @@ bookmarks-tools =
     .label = Herramientas de marcadores
 bookmarks-bookmark-edit-panel =
     .label = Editar este marcador
+bookmarks-subview-edit-bookmark =
+    .label = Editar este marcador…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -705,6 +730,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Añadir pestaña actual a marcadores
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Añadir pestaña actual a marcadores…
 
 ## Library Panel items
 
@@ -883,3 +911,6 @@ private-browsing-indicator-label = Navegación privada
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Extensiones
+    .tooltiptext = Extensiones
