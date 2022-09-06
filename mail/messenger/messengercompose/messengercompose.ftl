@@ -24,6 +24,9 @@ compose-send-plain-menu-item =
 ## Addressing widget
 
 #   $type (String) - the type of the addressing row
+remove-address-row-button =
+    .title = Poista { $type } -kenttä
+#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
@@ -57,6 +60,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Siirrä piilokopion vastaanottajaksi
     .accesskey = p
+pill-action-expand-list =
+    .label = Laajenna luettelo
+    .accesskey = L
 
 ## Attachment widget
 
@@ -126,6 +132,39 @@ menu-smime =
 
 ## Addressing Area
 
+to-address-row-label =
+    .value = Vastaanottaja
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = Vastaanottaja-kenttä
+    .accesskey = V
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = Vastaanottaja
+    .accesskey = V
+#   $key (String) - the shortcut key for this field
+show-to-row-button = Vastaanottaja
+    .title = Näytä vastaanottajakenttä ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Kopio
+    .accesskey = K
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = Kopio
+    .title = Näytä kopiokenttä ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Piilokopio
+    .accesskey = P
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Piilokopio
+    .title = Näytä piilokopiokenttä ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+extra-address-rows-menu-button =
+    .title = Muut näytettävät osoitekentät
 many-public-recipients-bcc =
     .label = Käytä sen sijaan piilokopiota (Bcc)
     .accesskey = K
