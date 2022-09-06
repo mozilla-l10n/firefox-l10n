@@ -48,6 +48,8 @@ firefoxview-mobile-confirmation-header = 🎉 යන්න හොඳයි!
 firefoxview-closed-tabs-title = මෑතදී වසා දැමූ
 firefoxview-closed-tabs-description = මෙම උපාංගයේ වසා දැමූ පිටු නැවත විවෘත කරන්න.
 firefoxview-closed-tabs-placeholder = <strong>මෑත දී වසා දැමූ පිටු නැත</strong><br/>කිසි විටෙක වසා දැමූ පටිත්තක් අහිමි වේ යැයි බිය නොවන්න. ඔබට එය සැමවිටම මෙතැනින් සොයාගත හැකිය.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = අවසන සක්‍රිය
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
