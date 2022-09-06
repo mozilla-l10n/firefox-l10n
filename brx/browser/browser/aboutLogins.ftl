@@ -4,14 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = लगिन & पासवर्डखौ
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 login-filter =
     .placeholder = ल'गइनफोर नागिर
-
 create-login-button = गोदान ल'गइन खुलि
-
 fxaccounts-sign-in-text = नोंनि पासवर्दखौ गुबुन डिभाइस आव लाबो
 fxaccounts-avatar-button =
     .title = एकाउन्ट सामलाय
@@ -22,6 +17,7 @@ menu =
     .title = मेनु बेखेव
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = गुबुन मोनसे ब्राउजार निफ्राय लाबो...
+about-logins-menu-menuitem-remove-all-logins = गासै दिन्थिनाय ल'गइनफोर बोखार
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] उफ्रा
@@ -54,6 +50,7 @@ about-logins-list-item-breach-icon =
     .title = गाजि् जानाय वेवसाइथ
 
 ## Introduction screen
+
 
 ## Login
 
@@ -89,26 +86,20 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## notes are only valid for English. Please test in your respected locale.
 
 
-## Master Password notification
-
 ## Primary Password notification
 
 master-password-reload-button =
     .label = ल'ग इन
     .accesskey = L
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = नेवसि
 confirmation-dialog-dismiss-button =
     .title = नेवसि
-
 about-logins-confirm-remove-dialog-title = बे ल'गइनखौ बोखारनो?
 confirm-delete-dialog-message = बे हाबाखौ मावनो हायै खालामनो हाया।
 about-logins-confirm-remove-dialog-confirm-button = बोखार
-
 confirm-discard-changes-dialog-title = थिनानै देनै सोलायनाफोरखौ बोखार
 confirm-discard-changes-dialog-message = गासिबो थिनानै दोनै सोलायनायफोरा गोमागोन
 confirm-discard-changes-dialog-confirm-button = नागार
@@ -129,7 +120,6 @@ about-logins-vulnerable-alert-learn-more-link = गोबां सोलों
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = बे { $loginTitle } इउजार नेमजों सोगा्या दंखायो,  <a data-l10n-name="duplicate-link"> थाखानाय सोनायाव थां</a>
-
 # This is a generic error message.
 about-logins-error-message-default = बे फासवाद खौ लाखिनो नाजानायाव गोरोनथि जादों
 
