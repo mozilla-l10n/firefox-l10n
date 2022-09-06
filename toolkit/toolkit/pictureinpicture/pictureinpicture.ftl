@@ -37,9 +37,24 @@ pictureinpicture-unpip-cmd =
 pictureinpicture-close-cmd =
     .aria-label = Затвори
     .title = Затвори ({ $shortcut })
+pictureinpicture-subtitles-cmd =
+    .aria-label = Титлови
+    .title = Титлови
 
 ##
 
+pictureinpicture-fullscreen-cmd =
+    .aria-label = Цео екран
+    .title = Цео екран (дупли клик)
+pictureinpicture-exit-fullscreen-cmd =
+    .aria-label = Изађи из целог екрана
+    .title = Изађи из целог екрана (дупли клик)
+pictureinpicture-seekbackward-cmd =
+    .aria-label = Уназад
+    .title = Уназад (←)
+pictureinpicture-seekforward-cmd =
+    .aria-label = Напред
+    .title = Напред (→)
 pictureinpicture-subtitles-label = Поднаслови
 pictureinpicture-font-size-label = Величина фонта
 pictureinpicture-font-size-small = Мала
