@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Паглядзець дадаткі
 quickactions-cmd-addons = дадаткі, пашырэнні, тэмы
+quickactions-cmd-addons2 = дадаткі
 # Opens the bookmarks library window
 quickactions-bookmarks = Паглядзець закладкі
 quickactions-cmd-bookmarks = закладкі
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = ачысціць гісторыю
 # Opens about:downloads page
 quickactions-downloads = Адкрыць сцягванні
 quickactions-cmd-downloads = сцягванні
+# Opens about:addons page in the extensions section
+quickactions-extensions = Кіраваць пашырэннямі
+quickactions-cmd-extensions = пашырэнні
 # Opens the devtools web inspector
 quickactions-inspector = Адкрыць інспектар
 quickactions-cmd-inspector = інспектар, прылады распрацоўшчыка
 # Opens about:logins
 quickactions-logins = Прагляд лагінаў
 quickactions-cmd-logins = лагіны, паролі
+# Opens about:addons page in the plugins section
+quickactions-plugins = Кіраваць плагінамі
+quickactions-cmd-plugins = плагіны
 # Opens the print dialog
 quickactions-print = Друкаваць
 quickactions-cmd-print = друк
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = здымак экрана
 # Opens about:preferences
 quickactions-settings = Адкрыць налады
 quickactions-cmd-settings = налады, перавагі, параметры
+# Opens about:addons page in the themes section
+quickactions-themes = Кіраваць тэмамі
+quickactions-cmd-themes = тэмы
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Абнавіць { -brand-short-name }
 quickactions-cmd-update = абнавіць
