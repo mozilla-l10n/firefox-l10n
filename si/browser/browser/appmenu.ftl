@@ -42,7 +42,7 @@ appmenuitem-help =
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
-            [linux] ඉවත්වන්න
+            [linux] ඉවත් වන්න
            *[other] පිටවන්න
         }
 appmenu-menu-button-closed2 =
