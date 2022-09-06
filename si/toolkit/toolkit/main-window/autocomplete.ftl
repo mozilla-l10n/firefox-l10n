@@ -12,6 +12,12 @@
 autocomplete-import-logins-chrome =
     <div data-l10n-name="line2">{ $host } සහ අනෙකුත් අඩවි සඳහා ඔබගේ පිවිසුම්</div>
     <div data-l10n-name="line1">ගූගල් ක්‍රෝම් වෙතින් ආයාත කරන්න</div>
+autocomplete-import-logins-chromium =
+    <div data-l10n-name="line2">{ $host } සහ අනෙකුත් අඩවි සඳහා ඔබගේ පිවිසුම්</div>
+    <div data-l10n-name="line1">ක්‍රෝමියම් වෙතින් ආයාත කරන්න</div>
+autocomplete-import-logins-chromium-edge =
+    <div data-l10n-name="line2">{ $host } සහ අනෙකුත් අඩවි සඳහා ඔබගේ පිවිසුම්</div>
+    <div data-l10n-name="line1">මයික්‍රොසොෆ්ට් එඩ්ගේ වෙතින් ආයාත කරන්න</div>
 
 ##
 
