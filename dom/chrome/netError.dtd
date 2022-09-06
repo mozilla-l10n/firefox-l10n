@@ -64,7 +64,9 @@
 
 <!ENTITY cspBlocked.title "අන්තර්ගත ආරක්‍ෂණ ප්‍රතිපත්තිය මගින් අවහිරයි">
 
+<!ENTITY xfoBlocked.title "X-රාමු-විකල්ප ප්‍රතිපත්තිය මගින් අවහිරයි">
 
+<!ENTITY corruptedContentErrorv2.title "හානි වූ අන්තර්ගත දෝෂයකි">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>දත්ත සම්ප්‍රේෂණ දෝෂයක් අනාවරණය වූ නිසා ඔබ දැකීමට උත්සාහ කරන පිටුව පෙන්වීමට නොහැකිය.</p><ul><li>මෙම ගැටළුව පිළිබඳව අඩවියේ හිමිකරුවන්ට දන්වන්න.</li></ul>">
 
 <!ENTITY inadequateSecurityError.title "ඔබගේ සම්බන්ධතාවය අනාරක්‍ෂිතයි">
