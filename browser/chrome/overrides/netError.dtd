@@ -52,8 +52,6 @@ ju wicy aùtomatno nie bãdze pòbierôł wrażlëwëch dokùmentów.</li><li>Kl
 
 <!ENTITY redirectLoop.longDesc "<p>Przezérnik òprzestół próbã zladënkù żądónegò elementu. strona przeczerowùje żądanié na ôrt, chtëren nie dôwô mòżnotë jegò skùńczeniô.</p><ul><li>Są kùszczi wëłączoné abò zablokòwóné dlô ti stronë?</li><li><em>BÔCZËNK</em>: Jeżlë włączenié òbsłużënkù kùszków dlô ti stronë nie rozwiąże problemu, je to prôwdopòdodno problem kònfigùracje serwera, a ni twòjégò kòmpùtra.</li></ul>">
 
-<!ENTITY unknownSocketType.longDesc "<p>strona òdpòwiedza na niespòdzajny  ôrt i przezérnik ni mòże jic dali.</p>">
-
 <!ENTITY sharedLongDesc "
 <ul>
   <li>Na strona mòże bëc terëczasno nieprzistãpnô abò zajãtô. Spróbùjë znowa za sztócëk.</li>
