@@ -138,18 +138,6 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ¿Nadurê't riña gayi'ìt sesión na anj?
 confirm-delete-dialog-message = Si ga'ue dure' sa 'ngà gahuin na.
 about-logins-confirm-remove-dialog-confirm-button = Guxūn
-about-logins-confirm-remove-all-dialog-confirm-button-label =
-    { $count ->
-        [1] Nādure'
-        [one] Nādure' daran'anj
-       *[other] { "" }
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] Gā'hue, nādurê' riña gayi'ìt sesión nan
-        [one] Gā'hue, nādurê' nej riña gayi'ìt sesión nan
-       *[other] { "" }
-    }
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Nādurê't riña gayi'ìt sesión { $count } nan anj
