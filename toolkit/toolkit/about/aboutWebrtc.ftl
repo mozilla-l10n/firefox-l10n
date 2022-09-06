@@ -120,18 +120,53 @@ about-webrtc-discarded-packets-label = Одбачени пакети:
 about-webrtc-decoder-label = Декодер
 about-webrtc-encoder-label = Енкодер
 about-webrtc-show-tab-label = Прикажи картицу
+about-webrtc-current-framerate-label = Фрејмрејт
 about-webrtc-width-px = Ширина (у пикселима)
 about-webrtc-height-px = Висина (у пикселима)
 about-webrtc-consecutive-frames = Узастопни кадрови
 about-webrtc-time-elapsed = Протекло време (у секундама)
 about-webrtc-estimated-framerate = Процењена брзина кадрова
 about-webrtc-rotation-degrees = Ротација (у степенима)
+about-webrtc-first-frame-timestamp = Временска ознака пријема првог кадра
+about-webrtc-last-frame-timestamp = Временска ознака пријема последњег кадра
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Локални SSRC пријем
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Даљинско SSRC слање
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Одобрено
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Није одобрено
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Корисничка WebRTC подешавања
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Процењени пропусни опсег
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Идентификатор нумере
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Пропусни опсег за слање (бајтови/сек)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Пропусни опсег за примање (бајтови/сек)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Максимална допуна (бајтови/сек)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Интервал кашњења ms
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = Статистика видео оквира - MediaStreamTrack ID: { $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -145,6 +180,33 @@ about-webrtc-aec-logging-off-state-msg = датотеке евиденција �
 
 ##
 
+# This is the total number of frames encoded or decoded over an RTP stream.
+# Variables:
+#  $frames (Number) - The number of frames encoded or decoded.
+about-webrtc-frames =
+    { $frames ->
+        [one] { $frames } фрејм
+        [few] { $frames } фрејма
+       *[other] { $frames } фрејмова
+    }
+# This is the number of audio channels encoded or decoded over an RTP stream.
+# Variables:
+#  $channels (Number) - The number of channels encoded or decoded.
+about-webrtc-channels =
+    { $channels ->
+        [one] { $channels } канал
+        [few] { $channels } канала
+       *[other] { $channels } канала
+    }
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+        [one] Примљен { $packets } пакет
+        [few] Примљена { $packets } пакета
+       *[other] Примљено { $packets } пакета
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
