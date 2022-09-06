@@ -36,14 +36,19 @@ videocontrols-picture-in-picture-toggle-label = රූපයෙන් රූප�
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = { -brand-short-name } හි ඔබ වෙනත් දෑ කරන අතරතුර පෙරබිමෙහි දෘශ්‍යක වාදනය කරන්න
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label2 = දෘශ්‍යකය පිටතට ගන්න
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = බොහෝ තිර වඩා විනෝදජනකයි. ඔබ පිරික්සන අතරතුර මෙම දෘශ්‍යකය රූපයෙන් රූපයට වාදනය කරන්න.
 videocontrols-error-aborted = දෘශ්‍යකය පූරණය නැවතිණි.
+videocontrols-error-network = ජාලයේ දෝෂයක් නිසා දෘශ්‍යකය නැවත වාදනය නැවතිණි.
 videocontrols-error-decode = ගොනුව හානි වී තිබෙන නිසා දෘශ්‍යකය වාදනය කළ නොහැකිය.
 videocontrols-error-src-not-supported = දෘශ්‍යක ආකෘතිය හෝ MIME වර්ගය සහාය නොදක්වයි.
 videocontrols-error-no-source = සහාය දක්වන ආකෘතිය සහ MIME වර්ගය සහිත දෘශ්‍යකයක් හමු නොවිණි.
+videocontrols-error-generic = නොදන්නා දෝෂයක් නිසා දෘශ්‍යකය නැවත වාදනය නැවතිණි.
 videocontrols-status-picture-in-picture = මෙම දෘශ්‍යකය රූපයෙන් රූපයට අකාරයෙන් වාදනය වේ.
 # This message shows the current position and total video duration
 #
