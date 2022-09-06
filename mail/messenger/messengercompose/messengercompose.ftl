@@ -180,6 +180,8 @@ menu-view-certificates =
 menu-open-key-manager =
     .label = Anahtar yöneticisi
     .accesskey = n
+can-encrypt-smime-notification = S/MIME uçtan uca şifreleme mümkün.
+can-encrypt-openpgp-notification = OpenPGP uçtan uca şifreleme mümkün.
 can-e2e-encrypt-button =
     .label = Şifrele
     .accesskey = e
@@ -318,7 +320,9 @@ cloud-file-rename-not-supported = { $provider } önceden yüklenmiş dosyaların
 ## Link Preview
 
 link-preview-title = Bağlantı ön izleme
+link-preview-description = { -brand-short-name }, bağlantıları yapıştırırken gömülü bir ön izleme ekleyebilir.
 link-preview-autoadd = Mümkün olduğunda bağlantı ön izlemelerini otomatik olarak ekle
+link-preview-replace-now = Bu bağlantı için bir bağlantı ön izlemesi eklensin mi?
 link-preview-yes-replace = Evet
 
 ## Dictionary selection popup
