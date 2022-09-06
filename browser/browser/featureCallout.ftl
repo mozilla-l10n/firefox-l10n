@@ -14,3 +14,7 @@ callout-primary-complete-button-label = ¡Entendido!
 callout-firefox-view-tab-pickup-title = Cambie entre dispositivos llevándose sus pestañas
 callout-firefox-view-tab-pickup-subtitle = Traiga rápidamente las pestañas abiertas de su teléfono y ábralas aquí directamente.
 callout-firefox-view-recently-closed-title = Recupere en un instante sus pestañas cerradas
+callout-firefox-view-recently-closed-subtitle = Todas las pestañas cerradas aparecerán mágicamente aquí. No vuelva a preocuparse por cerrar accidentalmente un sitio.
+callout-firefox-view-colorways-title = Añade un toque de color
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Elija el tono que le represente con combinaciones de colores. Solo en { -brand-product-name }.
