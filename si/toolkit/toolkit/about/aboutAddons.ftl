@@ -126,9 +126,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = මෑත යාවත්කාල
 addon-category-recent-updates-title =
     .title = මෑත යාවත්කාල
-addon-category-sitepermission = අඩවියේ අවසර
+addon-category-sitepermission = අඩවි අවසර
 addon-category-sitepermission-title =
-    .title = අඩවියේ අවසර
+    .title = අඩවි අවසර
 
 ## These are global warnings
 
