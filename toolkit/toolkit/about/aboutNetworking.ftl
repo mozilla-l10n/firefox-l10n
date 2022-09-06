@@ -40,6 +40,7 @@ about-networking-dns-lookup = ව.නා.ප. බැලීම
 about-networking-dns-domain = වසම:
 about-networking-dns-lookup-table-column = අ.ජා.කෙ.
 about-networking-dns-https-rr-lookup-table-column = HTTP RRs
+about-networking-rcwn = RCWN තත්‍වය
 about-networking-rcwn-status = RCWN තත්‍වය
 about-networking-total-network-requests = මුළු ජාල ඉල්ලීම් ගණන
 about-networking-rcwn-operation = නිහිත මෙහෙයුම

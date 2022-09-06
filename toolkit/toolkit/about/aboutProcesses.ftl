@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-processes-title = සැකසීම් කළමනාකරු
 # The Actions column
 about-processes-column-action =
     .title = ක්‍රියාමාර්ග
@@ -22,10 +24,14 @@ about-processes-column-cpu-total = ම.සැ.ඒ.
 ##    $pid (String) The process id of this process, assigned by the OS.
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = හවුල් වියමන සැකසීම ({ $pid })
 about-processes-file-process = ගොනු ({ $pid })
 about-processes-extension-process = දිගු ({ $pid })
 about-processes-privilegedabout-process = පිළිබඳව පිටු ({ $pid })
+about-processes-plugin-process = පේනු ({ $pid })
 about-processes-privilegedmozilla-process = { -vendor-short-name } අඩවි ({ $pid })
+about-processes-gmp-plugin-process = ගෙක්කෝ මාධ්‍ය පේනු ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = දත්ත විකේතකය ({ $pid })
 about-processes-socket-process = ජාලය ({ $pid })
@@ -51,6 +57,7 @@ about-processes-tab-name = පටිත්ත: { $name }
 
 ## Utility process actor names
 
+about-processes-utility-actor-unknown = නොදන්නා දෝෂයකි
 about-processes-utility-actor-audio-decoder = ශ්‍රව්‍ය විකේතනය
 about-processes-utility-actor-audio-decoder-applemedia = ඇපල් මාධ්‍ය හඬ විකේතකය
 
@@ -89,6 +96,13 @@ about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDi
 
 ## Duration units
 
+duration-unit-ns = නැ.ත.
+duration-unit-us = මයි.ත.
+duration-unit-ms = මි.ත.
+duration-unit-s = ත.
+duration-unit-m = වි.
+duration-unit-h = පැ.
+duration-unit-d = දි.
 
 ## Memory units
 

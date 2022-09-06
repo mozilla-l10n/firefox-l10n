@@ -5,4 +5,5 @@
 
 ### "Glean" and "Glean SDK" should remain in English.
 
+about-glean-page-title = ග්ලීන් ගැන
 controls-button-label = සැකසුම් යොමන්න
