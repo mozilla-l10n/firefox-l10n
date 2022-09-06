@@ -22,6 +22,7 @@ perftools-heading-local-build = ස්ථානීය තැනුම
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-milliseconds = මි.ත. { NUMBER($interval, maxFractionalUnits: 2) }
 
 ##
 
