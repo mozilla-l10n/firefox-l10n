@@ -198,6 +198,8 @@ newtab-pocket-cta-button = { -pocket-brand-name } ගන්න
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = { -pocket-brand-name } වෙත සුරකින්න
 newtab-pocket-saved-to-pocket = { -pocket-brand-name } වෙත සුරකින්න
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = තවත් කතා පූරණය
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
