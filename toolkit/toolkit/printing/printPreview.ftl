@@ -18,6 +18,8 @@ printpreview-landscape =
 printpreview-scale =
     .value = පරිමාණය:
     .accesskey = S
+printpreview-shrink-to-fit =
+    .label = යෝග්‍ය ලෙස අකුළන්න
 printpreview-custom =
     .label = අභිරුචි…
 printpreview-print =
@@ -30,6 +32,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = පිටුව:
     .accesskey = a
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetCount } න් { $sheetNum }
 
 ## Variables
 ## $percent (integer) - menuitem percent label

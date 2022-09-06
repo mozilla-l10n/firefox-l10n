@@ -5,16 +5,29 @@
 printui-title = මුද්‍රණය
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = ලෙස සුරකින්න
+# Variables
+# $sheetCount (integer) - Number of paper sheets
+printui-sheets-count =
+    { $sheetCount ->
+        [one] පත්‍ර { $sheetCount }
+       *[other] පත්‍ර { $sheetCount }
+    }
 printui-page-range-all = සියල්ල
+printui-page-range-current = වත්මන්
 printui-page-range-custom = අභිරුචි
 printui-page-range-label = පිටු
+printui-page-range-picker =
+    .aria-label = පිටු පරාසය තෝරන්න
 printui-page-custom-range-input =
     .aria-label = අභිරුචි පිටු පරාසයක් යොදන්න
     .placeholder = උදා. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = පිටපත්
+printui-orientation = දිශානතිය
 printui-landscape = තිරස්
 printui-portrait = සිරස්
+# Section title for the printer or destination device to target
+printui-destination-label = ගමනස්ථානය
 printui-destination-pdf-label = පීඩීඑෆ් වෙත සුරකින්න
 printui-more-settings = තවත් සැකසුම්
 printui-less-settings = සැකසුම් අඩුවෙන්
@@ -34,6 +47,8 @@ printui-backgrounds-checkbox = පසුබිම් මුද්‍රණය
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".
 
+# The section title.
+printui-source-label = ආකෘතිය
 # Option for printing the original page.
 printui-source-radio = මුල් පිටපත
 # Option for printing just the content a user selected prior to printing.
@@ -51,14 +66,19 @@ printui-margins-default = පෙරනිමි
 printui-margins-min = අවම
 printui-margins-none = කිසිත් නැත
 printui-margins-custom-inches = අභිරුචි (අඟල්)
+printui-margins-custom-mm = අභිරුචි (මි.මී.)
 printui-margins-custom-top = මුදුන
 printui-margins-custom-top-inches = මුදුන (අඟල්)
+printui-margins-custom-top-mm = මුදුන (මි.මී.)
 printui-margins-custom-bottom = පතුල:
 printui-margins-custom-bottom-inches = පතුල (අඟල්)
+printui-margins-custom-bottom-mm = පතුල (මි.මී.)
 printui-margins-custom-left = වම
 printui-margins-custom-left-inches = වම (අඟල්)
+printui-margins-custom-left-mm = වම් (මි.මී.)
 printui-margins-custom-right = දකුණ
 printui-margins-custom-right-inches = දකුණ (අඟල්)
+printui-margins-custom-right-mm = දකුණ (මි.මී.)
 printui-system-dialog-link = පද්ධතියේ කවුළුව භාවිතයෙන් මුද්‍රණය...
 printui-primary-button = මුද්‍රණය
 printui-primary-button-save = සුරකින්න
