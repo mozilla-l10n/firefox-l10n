@@ -12,6 +12,8 @@ certificate-viewer-error-title = යම් දෙයක් වැරදී ඇ�
 ## Certificate information labels
 
 certificate-viewer-certificate-authority = සහතික අධිකාරිය
+certificate-viewer-cipher-suite = කේතාංක කට්ටලය
+certificate-viewer-common-name = පොදු නම
 certificate-viewer-email-address = වි-තැපැල් ලිපිනය
 # Variables:
 #   $firstCertName (String) - Common Name for the displayed certificate
@@ -44,7 +46,14 @@ certificate-viewer-value = අගය
 certificate-viewer-version = අනුවාදය
 certificate-viewer-business-category = ව්‍යාපාර ප්‍රවර්ගය
 certificate-viewer-subject-name = මාතෘකාවේ නම
+certificate-viewer-issuer-name = නිකුත්කරුගේ නම
 certificate-viewer-validity = වලංගුභාවය
+certificate-viewer-public-key-info = පොදු යතුරෙහි තොරතුරු
+certificate-viewer-miscellaneous = ප්‍රකීර්ණ
+certificate-viewer-fingerprints = ඇඟිලි සටහන්
+certificate-viewer-authority-key-id = අධිකාරියේ යතුරු හැඳු.
+certificate-viewer-authority-info-aia = අධිකාරියේ තොරතුරු (AIA)
+certificate-viewer-certificate-policies = සහතික ප්‍රතිපත්ති
 certificate-viewer-embedded-scts = කාවැද්දූ SCTs
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
@@ -61,6 +70,10 @@ certificate-viewer-boolean =
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (සහතිකය)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (දාමය)
+    .download = { $fileName }-chain.pem
 certificate-viewer-export = නිර්යාතය
     .download = { $fileName }.pem
 

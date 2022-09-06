@@ -48,7 +48,11 @@ about-processes-web-isolated-process = { $origin } ({ $pid })
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = පටිත්ත: { $name }
+
+## Utility process actor names
+
 about-processes-utility-actor-audio-decoder = ශ්‍රව්‍ය විකේතනය
+about-processes-utility-actor-audio-decoder-applemedia = ඇපල් මාධ්‍ය හඬ විකේතකය
 
 ## Displaying CPU (percentage and total)
 ## Variables:
