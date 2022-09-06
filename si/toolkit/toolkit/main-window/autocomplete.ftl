@@ -9,6 +9,9 @@
 ## Variables:
 ##   $host (String) - Host name of the current site.
 
+autocomplete-import-logins-chrome =
+    <div data-l10n-name="line2">{ $host } සහ අනෙකුත් අඩවි සඳහා ඔබගේ පිවිසුම්</div>
+    <div data-l10n-name="line1">ගූගල් ක්‍රෝම් වෙතින් ආයාත කරන්න</div>
 
 ##
 
