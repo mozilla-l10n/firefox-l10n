@@ -151,6 +151,7 @@ region-name-mf = Saint Martin
 region-name-mg = Madagascar
 region-name-mh = Islas Marshall
 region-name-mk = Macedonia, Ex-República de
+region-name-mk-2019 = Macedonia Del Norte
 region-name-ml = Mali
 region-name-mm = Myanmar
 region-name-mn = Mongolia
