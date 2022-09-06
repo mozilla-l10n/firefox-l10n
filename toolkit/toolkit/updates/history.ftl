@@ -8,6 +8,8 @@ close-button-label =
     .buttonlabelcancel = වසන්න
     .title = යාවත්කාල ඉතිහාසය
 no-updates-label = තවම යාවත්කාල ස්ථාපනය කර නැත
+name-header = යාවත්කාලයේ නම
+date-header = ස්ථාපිත දිනය
 type-header = වර්ගය
 # Used to display update history
 #
