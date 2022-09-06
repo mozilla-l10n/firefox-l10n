@@ -74,6 +74,9 @@ mail-uidensity-normal =
 mail-uidensity-touch =
     .label = Kosketus
     .accesskey = k
+menu-spaces-toolbar-button =
+    .label = Tilat-työkalupalkki
+    .accesskey = T
 
 ## File
 

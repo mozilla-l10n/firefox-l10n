@@ -10,3 +10,20 @@ appmenuitem-font-size-enlarge =
     .tooltiptext = Suurenna fontin kokoa
 appmenuitem-font-size-reduce =
     .tooltiptext = Pienennä fontin kokoa
+
+## Tools
+
+appmenu-tools-panel-title =
+    .title = Työkalut
+appmenu-tools-panel =
+    .label = Työkalut
+    .accesskey = T
+appmenu-tools-import =
+    .label = Tuonti
+    .accesskey = u
+appmenu-tools-export =
+    .label = Vienti
+    .accesskey = V
+
+## Help
+
