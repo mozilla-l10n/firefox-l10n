@@ -9,6 +9,8 @@ search-header =
 search-header-shortcut =
     .key = f
 list-empty-get-extensions-message = <a data-l10n-name="get-extensions">{ $domain }</a> වෙතින් දිගු සහ තේමා ගන්න
+list-empty-get-dictionaries-message = <a data-l10n-name="get-extensions">{ $domain }</a> වෙතින් ශබ්දකෝෂ ගන්න
+list-empty-get-language-packs-message = <a data-l10n-name="get-extensions">{ $domain }</a> වෙතින් භාෂා ඇසුරුම් ගන්න
 list-empty-installed =
     .value = මෙම වර්ගයේ කිසිදු එක්කහුවක් ස්ථාපනය කර නැත
 list-empty-available-updates =
@@ -239,6 +241,11 @@ enable-addon-button = සබල කරන්න
 # is always its label.
 extension-enable-addon-button-label =
     .aria-label = සබල
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] විකල්ප
+       *[other] අභිප්‍රේත
+    }
 details-addon-button = විස්තර
 release-notes-addon-button = නිකුතු සටහන්
 permissions-addon-button = අවසර
@@ -280,9 +287,14 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> ඉවත් කර ඇත.
 pending-uninstall-undo-button = පෙරසේ
 addon-detail-updates-label = ස්වයං යාවත්කාලයට ඉඩදෙන්න
 addon-detail-updates-radio-default = පෙරනිමි
+addon-detail-updates-radio-on = සක්‍රිය
+addon-detail-updates-radio-off = අක්‍රිය
 addon-detail-update-check-label = යාවත්කාල බලන්න
 install-update-button = යාවත්කාල
 # This is the tooltip text for the private browsing badge in about:addons. The

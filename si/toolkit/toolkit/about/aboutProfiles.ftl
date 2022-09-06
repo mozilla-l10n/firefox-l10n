@@ -5,6 +5,7 @@
 profiles-title = පැතිකඩ ගැන
 profiles-create = නව පැතිකඩක් සාදන්න
 profiles-restart-title = යළි අරඹන්න
+profiles-restart-in-safe-mode = එක්කහු අබල කර අරඹන්න…
 profiles-restart-normal = සාමාන්‍ය පරිදි යළි අරඹන්න…
 profiles-flush-fail-title = වෙනස්කම් සුරැකී නැත
 profiles-flush-conflict = { profiles-conflict }
