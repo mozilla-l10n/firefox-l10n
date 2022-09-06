@@ -47,6 +47,11 @@ chooser-dialog =
 chooser-dialog-description = { $scheme } සබැඳිය විවෘත කිරීමට යෙදුමක් තෝරන්න.
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = <strong>{ $scheme }</strong> සබැඳි විවෘත කිරීමට සැමවිට මෙම යෙදුම භාවිතා කරන්න
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } හි විකල්ප තුළ මෙය වෙනස් කළ හැකිය.
+       *[other] { -brand-short-name } හි අභිප්‍රේත තුළ මෙය වෙනස් කළ හැකිය.
+    }
 choose-other-app-description = වෙනත් යෙදුමක් තෝරන්න
 choose-app-btn =
     .label = තෝරන්න…

@@ -21,6 +21,7 @@ profile-selection-conflict-message = { -brand-product-name } හි තවත්
 
 ## Messages used in the profile manager
 
+profile-manager-description = { -brand-short-name } මගින් ඔබගේ සැකසුම්, අභිප්‍රේත සහ අනෙකුත් පරිශීලක අංග පිළිබඳව තොරතුරු ඔබගේ පරිශීලක පැතිකඩෙහි ගබඩා කරයි.
 profile-manager-work-offline =
     .label = මාර්ගඅපගතව වැඩ කරන්න
     .accesskey = o

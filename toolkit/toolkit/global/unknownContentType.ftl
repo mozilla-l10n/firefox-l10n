@@ -5,6 +5,12 @@
 unknowncontenttype-handleinternally =
     .label = { -brand-short-name } සමඟ අරින්න
     .accesskey = e
+unknowncontenttype-settingschange =
+    .value =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } හි විකල්ප තුළ සැකසුම් වෙනස් කළ හැකිය.
+           *[other] { -brand-short-name } හි අභිප්‍රේත තුළ සැකසුම් වෙනස් කළ හැකිය.
+        }
 unknowncontenttype-intro = ඔබ විවෘත කිරීමට තෝරන ලද්දේ:
 unknowncontenttype-from = වෙතින්:
 unknowncontenttype-prompt = ඔබ මෙම ගොනුව සුරැකීමට කැමතිද?
