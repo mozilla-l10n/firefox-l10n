@@ -85,7 +85,7 @@
 <!ENTITY xfoBlocked.title "Bloqueada pela política X-Frame-Options">
 <!ENTITY xfoBlocked.longDesc "<p>O navegador impediu que esta página fosse carregada neste contexto porque a página tem uma política X-Frame-Options que não permite.</p>">
 
-<!ENTITY corruptedContentErrorv2.title "Corrupted Content Error">
+<!ENTITY corruptedContentErrorv2.title "Erro de conteúdo corrompido">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 <!ENTITY inadequateSecurityError.title "Sua conexão não é segura">
