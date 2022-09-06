@@ -44,4 +44,14 @@ firefoxview-pickup-tabs-badge = Última activa
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Abrir { $targetURI } en una nueva pestaña
-firefoxview-try-colorways-button = Probar colorways
+firefoxview-try-colorways-button = Probar combinaciones de colores
+firefoxview-no-current-colorway-collection = Hay nuevas combinaciones de colores en camino
+firefoxview-change-colorway-button = Cambiar la combinación de colores
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-collapse-button-show =
+    .title = Mostrar lista
+firefoxview-collapse-button-hide =
+    .title = Ocultar lista
