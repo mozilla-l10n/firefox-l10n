@@ -50,6 +50,7 @@ source-file-description = Adres defterlerini, takvimleri veya bir profil yedekle
 file-profile2 = Profil yedeğini içe aktar
 file-profile-description = Yedeklenmiş bir Thunderbird profili (.zip) seçin
 file-calendar = Takvimleri içe aktar
+file-calendar-description = Dışa aktarılan takvimleri veya etkinlikleri (.ics) içeren bir dosya seçin
 file-addressbook = Adres defterlerini içeri aktar
 file-addressbook-description = Dışa aktarılan adres defterlerini ve kişileri içeren bir dosya seçin
 
@@ -113,6 +114,13 @@ calendar-deselect-all-items = Seçimi temizle
 calendar-target-title = Seçilen öğelerin nereye aktarılacağını seçin.
 # $targetCalendar (string) - name of the new calendar that would be created
 calendar-import-into-new-calendar2 = <strong>"{ $targetCalendar }"</strong> adında yeni bir takvim oluştur
+# $itemCount (number) - count of selected items (tasks, events) that will be imported
+# $targetCalendar (string) - name of the calendar the items will be imported into
+calendar-summary-title =
+    { $itemCount ->
+        [one] 1 öğeyi "{ $targetCalendar }" takvimine aktar
+       *[other] { $itemCount } öğeyi "{ $targetCalendar }" takvimine aktar
+    }
 # $targetCalendar (string) - name of the calendar that will be created
 calendar-summary-description = "{ $targetCalendar }" adlı yeni bir takvim oluşturulacaktır.
 
