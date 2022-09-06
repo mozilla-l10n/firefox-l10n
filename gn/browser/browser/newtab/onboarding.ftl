@@ -272,6 +272,11 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Eguereko { -brand-short-name } Dock-pe
        *[other] Emboja { -brand-short-name } tembiapo rendáre
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Eipuru peteĩ kundahára atyguasu viru’ỹgua oykekóva. Romomba’e nde rekoñemi eikundakuévo ñandutípe.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -284,6 +289,9 @@ mr2022-onboarding-existing-pin-checkbox-label = Embojuaju kundaha ñemigua { -br
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = Ejapo { -brand-short-name }-gui ne kundaha ehayhuvévarõ
 mr2022-onboarding-set-default-primary-button-label = Ajapo { -brand-short-name }-gui kundahára ypyguávarõ
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Eipuru peteĩ kundahára atyguasu viru’ỹgua oykekóva. Romomba’e nde rekoñemi eikundakuévo ñandutípe.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -312,6 +320,7 @@ mr2022-onboarding-colorway-description-default = <b>Eipuru sa’y ag̃agua { -br
 mr2022-onboarding-colorway-label-playmaker = Ñembosarái moheñoiha
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Ñembosarái moheñoiha
+mr2022-onboarding-colorway-description-playmaker = <b>Ha’e ñembosarái moheñóiha.</b> Omoheñói pa’ũ egana ha eipytyvõ hag̃ua opavave nde jereguápe ñembosarái porãve rekávo.
 mr2022-onboarding-colorway-label-expressionist = Temiandugua
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = Temiandugua
