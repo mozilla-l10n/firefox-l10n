@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = Чување странице about:webrtc
@@ -19,6 +18,8 @@ about-webrtc-aec-logging-msg-label = AEC евидентирање
 about-webrtc-aec-logging-off-state-label = Започни AEC евидентирање
 about-webrtc-aec-logging-on-state-label = Заустави AEC евидентирање
 about-webrtc-aec-logging-on-state-msg = AEC евидентирање је активно (разговарајте са позиваоцем неколико минута па зауставите евидентирање)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Аутоматско освежавање
 
 ##
 
@@ -59,8 +60,6 @@ about-webrtc-ice-pair-bytes-sent = Послато бајтова:
 about-webrtc-ice-pair-bytes-received = Примљено бајтова:
 about-webrtc-ice-component-id = ИБ компоненте
 
-## "Avg." is an abbreviation for Average. These are used as data labels.
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
@@ -73,12 +72,10 @@ about-webrtc-type-remote = Удаљени
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Номиновани
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Одабрани
-
 about-webrtc-save-page-label = Сачувај страницу као…
 about-webrtc-debug-mode-msg-label = Режим за отклањање грешака
 about-webrtc-debug-mode-off-state-label = Покрени режим за отклањање грешака
@@ -153,7 +150,6 @@ about-webrtc-aec-logging-off-state-msg = датотеке евиденција �
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
