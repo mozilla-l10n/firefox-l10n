@@ -11,7 +11,11 @@ about-config-intro-warning-button = අවදානම පිළිගෙන ඉ
 
 ##
 
+about-config-page-title = සංකීර්ණ අභිප්‍රේත
+about-config-search-input1 =
+    .placeholder = අභිප්‍රේත නාමය සොයන්න
 about-config-show-all = සියල්ල පෙන්වන්න
+about-config-show-only-modified = සංශෝධිත අභිප්‍රේත පමණක් පෙන්වන්න
 about-config-pref-add-button =
     .title = එකතු
 about-config-pref-edit-button =
@@ -27,6 +31,7 @@ about-config-pref-delete-button =
 
 about-config-pref-add-type-boolean = බූලීය
 about-config-pref-add-type-number = අංකය
+about-config-pref-add-type-string = තන්තුව
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
