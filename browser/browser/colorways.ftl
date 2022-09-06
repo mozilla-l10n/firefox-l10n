@@ -21,4 +21,5 @@ visionary-colorway-description = Du stiller spørsmål ved status quo og får an
 activist-colorway-name = Aktivist
 activist-colorway-description = Du engasjerer deg for å gjere verda betre, og du får andre med deg.
 dreamer-colorway-name = Drøymar
+dreamer-colorway-description = Du meiner at lykka står dei tapre bi og inspirerar andre til å vere modige.
 innovator-colorway-name = Nyskapar
