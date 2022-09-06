@@ -7,6 +7,7 @@
 
 about-config-intro-warning-title = ප්‍රවේශම්ව ඉදිරියට යන්න
 about-config-intro-warning-text = වැඩිදුර වින්‍යාස අභිප්‍රේත වෙනස් කිරීම { -brand-short-name } කාර්ය සාධනයට හෝ ආරක්‍ෂාවට බලපෑ හැකිය.
+about-config-intro-warning-checkbox = මෙම අභිප්‍රේත වෙත ප්‍රවේශ වීමට තැත් කරන විට අනතුරු අඟවන්න
 about-config-intro-warning-button = අවදානම පිළිගෙන ඉදිරියට
 
 ##
