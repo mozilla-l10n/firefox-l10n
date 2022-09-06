@@ -223,6 +223,7 @@ mr2-onboarding-start-browsing-button-label = Пачаць агляданне
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Абярыце сваю мову
+mr2022-onboarding-live-language-text = { -brand-short-name } гаворыць на вашай мове
 onboarding-live-language-button-label-downloading = Сцягваецца моўны пакет для { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Атрыманне даступных моў…
 onboarding-live-language-installing = Усталяванне моўнага пакета для { $negotiatedLanguage }…
@@ -259,6 +260,12 @@ mr2022-onboarding-secondary-skip-button-label = Прапусціць гэты к
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Трымаць { -brand-short-name } у доку
+       *[other] Замацаваць { -brand-short-name } на панэлі заданняў
+    }
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
