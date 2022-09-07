@@ -46,3 +46,13 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Sulje
 about-private-browsing-promo-close-button =
     .title = Sulje
+
+## Strings used in a “pin promotion” message, which prompts users to pin a private window
+
+about-private-browsing-pin-promo-header = Yksityisen selauksen vapautta yhdellä napsautuksella
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] Kiinnitä Dockiin
+       *[other] Kiinnitä tehtäväpalkkiin
+    }
+about-private-browsing-pin-promo-title = Ei tallennettuja evästeitä tai historiaa, käynnistä suoraan työpöydältäsi. Selaa kuin kukaan ei näkisi.
