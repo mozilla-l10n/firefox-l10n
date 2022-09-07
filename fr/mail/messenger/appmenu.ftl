@@ -16,3 +16,37 @@ appmenuitem-font-size-reduce =
 appmenuitem-font-size-reset =
     .label = { $size } px
     .tooltiptext = Réinitialiser la taille de la police
+
+## Tools
+
+appmenu-tools-panel-title =
+    .title = Outils
+appmenu-tools-panel =
+    .label = Outils
+    .accesskey = u
+appmenu-tools-import =
+    .label = Importer
+    .accesskey = I
+appmenu-tools-export =
+    .label = Exporter
+    .accesskey = x
+appmenu-tools-message-search =
+    .label = Rechercher dans les messages
+    .accesskey = R
+appmenu-tools-message-filters =
+    .label = Filtres de messages
+    .accesskey = t
+appmenu-tools-download-manager =
+    .label = Gestionnaire de téléchargements
+    .accesskey = c
+appmenu-tools-activity-manager =
+    .label = Activités
+    .accesskey = s
+appmenu-tools-dev-tools =
+    .label = Outils de développement
+    .accesskey = o
+
+## Help
+
+appmenu-help-panel-title =
+    .title = Aide
