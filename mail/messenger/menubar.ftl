@@ -17,6 +17,24 @@ menu-addons-and-themes =
 
 ## Help Menu
 
+menu-help-help-title =
+    .label = Laguntza
+    .accesskey = L
+menu-help-get-help =
+    .label = Lortu laguntza
+    .accesskey = L
+menu-help-explore-features =
+    .label = Eginbideak esploratu
+    .accesskey = E
+menu-help-shortcuts =
+    .label = Teklatuaren lasterbideak
+    .accesskey = k
+menu-help-get-involved =
+    .label = Parte hartu
+    .accesskey = P
+menu-help-donation =
+    .label = Egin dohaintza
+    .accesskey = d
 menu-help-enter-troubleshoot-mode =
     .label = Arazoak konpontzeko modua…
     .accesskey = A
@@ -26,6 +44,12 @@ menu-help-exit-troubleshoot-mode =
 menu-help-more-troubleshooting-info =
     .label = Arazoak konpontzeko informazio gehiago
     .accesskey = i
+menu-help-troubleshooting-info =
+    .label = Arazoak konpontzeko informazioa…
+    .accesskey = i
+menu-help-about-product =
+    .label = { -brand-short-name }(r)i buruz
+    .accesskey = b
 
 ## Mail Toolbar
 

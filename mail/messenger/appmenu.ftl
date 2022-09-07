@@ -74,3 +74,6 @@ appmenu-help-exit-troubleshoot-mode2 =
 appmenu-help-troubleshooting-info =
     .label = Arazoak konpontzeko informazioa…
     .accesskey = i
+appmenu-help-about-product =
+    .label = { -brand-short-name }(r)i buruz
+    .accesskey = b
