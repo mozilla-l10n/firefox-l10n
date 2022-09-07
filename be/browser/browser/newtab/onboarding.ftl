@@ -224,6 +224,7 @@ mr2-onboarding-start-browsing-button-label = Пачаць агляданне
 
 onboarding-live-language-header = Абярыце сваю мову
 mr2022-onboarding-live-language-text = { -brand-short-name } гаворыць на вашай мове
+mr2022-language-mismatch-subtitle = Дзякуючы нашай супольнасці, { -brand-short-name } перакладзены больш чым на 90 моў. Здаецца, ваша сістэма выкарыстоўвае { $systemLanguage }, а { -brand-short-name } выкарыстоўвае { $appLanguage }.
 onboarding-live-language-button-label-downloading = Сцягваецца моўны пакет для { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Атрыманне даступных моў…
 onboarding-live-language-installing = Усталяванне моўнага пакета для { $negotiatedLanguage }…
@@ -260,15 +261,29 @@ mr2022-onboarding-secondary-skip-button-label = Прапусціць гэты к
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Адкрыйце дзіўны Інтэрнэт
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Запускайце { -brand-short-name } з любога месца адной пстрычкай мышы. Кожны раз, калі вы гэта робіце, вы выбіраеце больш адкрытае і незалежнае сеціва.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Трымаць { -brand-short-name } у доку
        *[other] Замацаваць { -brand-short-name } на панэлі заданняў
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Пачніце з браўзера, які падтрымліваецца некамерцыйнай арганізацыяй. Мы абараняем вашу прыватнасць, пакуль вы блукаеце па сетцы.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Дзякуй за любоў да { -brand-product-name }
 
 ## MR2022 New User Set Default screen strings
 
