@@ -360,3 +360,4 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Detaillierte Inf
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-secondary-button-label = Lossurfen
