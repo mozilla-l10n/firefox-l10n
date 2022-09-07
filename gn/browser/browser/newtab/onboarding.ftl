@@ -333,12 +333,15 @@ mr2022-onboarding-colorway-description-visionary = <b>Ha’e ohechapukúva.</b> 
 mr2022-onboarding-colorway-label-activist = Hekoku’éva
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Hekoku’éva
+mr2022-onboarding-colorway-description-activist = <b>Ha’e hekoku’ememe.</b> Eheja arapy iporãve ejuhuhaguégui ha kóva egueroviauka peichaha ambuekuépe.
 mr2022-onboarding-colorway-label-dreamer = Kerayvotyhára
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Kerayvotyhára
+mr2022-onboarding-colorway-description-dreamer = <b>Ikerayvoty heta.</b> Eroviápa po’a ouporãha ipy’aguasúvape ha nemoakãraku nde py’aguasu hag̃ua.
 mr2022-onboarding-colorway-label-innovator = Mbopyahuhára
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Mbopyahuhára
+mr2022-onboarding-colorway-description-innovator = <b>Ombopyahu tapiáva.</b> Ohecha pa’ũ opaite hendápe ha heko omombarete opavave tekove ijereguápe.
 
 ## MR2022 Multistage Mobile Download screen strings
 
