@@ -280,11 +280,20 @@ mr2022-onboarding-pin-primary-button-label =
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Merci d’apprécier { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Accédez à un Internet plus sain où que vous soyez en un seul clic. Notre dernière mise à jour regorge de nouveautés que nous pensons que vous allez adorer.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Utilisez un navigateur qui défend votre vie privée pendant que vous naviguez sur le Web. Notre dernière mise à jour regorge de choses que vous allez adorer.
 
 ## MR2022 New User Set Default screen strings
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = Faites de { -brand-short-name } votre navigateur par défaut
+mr2022-onboarding-set-default-primary-button-label = Faire de { -brand-short-name } mon navigateur par défaut
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Utilisez un navigateur soutenu par une organisation à but non lucratif. Nous défendons votre vie privée pendant que vous naviguez sur le Web.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -304,10 +313,12 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importer depuis u
 ## help creating a more inclusive translation.
 
 mr2022-onboarding-colorway-title = Choisissez la couleur qui vous inspire
+mr2022-onboarding-colorway-primary-button-label = Choisir ce coloris
 mr2022-onboarding-existing-colorway-checkbox-label = Faites de la { -firefox-home-brand-name } votre page d’accueil colorée
 mr2022-onboarding-colorway-label-default = Par défaut
 mr2022-onboarding-colorway-tooltip-default =
     .title = Par défaut
+mr2022-onboarding-colorway-description-default = <b>Utiliser mes couleurs actuelles de { -brand-short-name }.</b>
 mr2022-onboarding-colorway-label-playmaker = Meneur/Meneuse
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Meneur/Meneuse
@@ -348,6 +359,7 @@ mr2022-onboarding-no-mobile-download-cta-text = Scannez le code QR pour installe
 
 mr2022-onboarding-privacy-segmentation-title = Nous respectons toujours votre vie privée
 mr2022-onboarding-privacy-segmentation-subtitle = Des suggestions intelligentes à la recherche plus intelligente, nous nous efforçons constamment de créer un { -brand-product-name } meilleur et plus personnel.
+mr2022-onboarding-privacy-segmentation-text-cta = Que voulez-vous voir lorsque nous proposerons de nouvelles fonctionnalités qui utilisent vos données pour améliorer votre navigation ?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Utiliser les recommandations de { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Afficher les informations détaillées
 
