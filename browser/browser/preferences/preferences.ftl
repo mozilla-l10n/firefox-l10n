@@ -518,6 +518,7 @@ choose-bookmark =
 home-prefs-content-header = Indhold på Firefox' startside
 home-prefs-content-description = Vælg det indhold, du vil have vist på din startside i Firefox.
 home-prefs-content-header2 = Indhold på { -firefox-home-brand-name }
+home-prefs-content-description2 = Vælg det indhold, du vil have vist på din { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Søgning på internettet
 home-prefs-shortcuts-header =

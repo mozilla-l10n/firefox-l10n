@@ -298,6 +298,8 @@ theme-monochromatic-heading = Farvekombinationer
 theme-monochromatic-subheading = Dynamiske nye farvekombinationer fra { -brand-product-name }. Findes kun i begrænset tid.
 # Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Prøv farvekombinationer
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Skift farvekombination
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Udløber { DATETIME($expiryDate, month: "long", day: "numeric") }
@@ -414,6 +416,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } er inkompatibel med { -brand-short-name } { $version }.
+details-notification-incompatible-link = Mere information
 details-notification-unsigned-and-disabled = { $name } kunne ikke verificeres til brug i { -brand-short-name } og er blevet deaktiveret.
 details-notification-unsigned-and-disabled-link = Læs mere
 details-notification-unsigned = { $name } kunne ikke verificeres til brug i { -brand-short-name }. Fortsæt på eget ansvar.
