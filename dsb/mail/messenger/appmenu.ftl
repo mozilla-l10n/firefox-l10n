@@ -16,3 +16,43 @@ appmenuitem-font-size-reduce =
 appmenuitem-font-size-reset =
     .label = { $size } px
     .tooltiptext = Pismowu wjelikosć slěd stajiś
+
+## Tools
+
+appmenu-tools-panel-title =
+    .title = Rědy
+appmenu-tools-panel =
+    .label = Rědy
+    .accesskey = R
+appmenu-tools-import =
+    .label = Importěrowaś
+    .accesskey = I
+appmenu-tools-export =
+    .label = Eksportěrowaś
+    .accesskey = E
+appmenu-tools-message-search =
+    .label = Powěsći pytaś
+    .accesskey = P
+appmenu-tools-message-filters =
+    .label = Powěsćowe filtry
+    .accesskey = f
+appmenu-tools-download-manager =
+    .label = Zastojnik ześěgnjenjow
+    .accesskey = Z
+appmenu-tools-activity-manager =
+    .label = Zastojnik aktiwity
+    .accesskey = a
+appmenu-tools-dev-tools =
+    .label = Wuwijarske rědy
+    .accesskey = u
+
+## Help
+
+appmenu-help-panel-title =
+    .title = Pomoc
+appmenu-help-get-help =
+    .label = Pomoc wobstaraś
+    .accesskey = m
+appmenu-help-explore-features =
+    .label = Funkcije wuslěźiś
+    .accesskey = c
