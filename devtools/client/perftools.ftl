@@ -83,6 +83,8 @@ perftools-thread-render-backend =
     .title = WebRender RenderBackend-tråden
 perftools-thread-paint-worker =
     .title = Når off-main-thread painting er aktiveret, tråden på hvilken painting sker
+perftools-thread-timer =
+    .title = Thread-handling-timerne (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = Style-beregning opdeles på flere tråde
 pref-thread-stream-trans =
@@ -115,16 +117,9 @@ perftools-tools-threads-input-label =
     .title = Disse tråd-navne er en kommasepareret liste, der bruges til at aktivere profilering af trådene i profileringsværktøjet. Navnet behøver bare at stemme delvist overens med trådnavnet for at blive inkluderet. Mellemrum indgår i sammenligningen.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Nyhed</b>: { -profiler-brand-name } er nu en del af Udviklerværktøj. <a>Læs mere</a> om dette praktiske nye værktøj.
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (I en begrænset periode kan du se det originale Ydelses-panel i <a>{ options-context-advanced-settings }</a>)
 perftools-onboarding-close-button =
     .aria-label = Luk introduktions-beskeden
 
@@ -145,6 +140,9 @@ perftools-presets-media-label = Medieindhold
 perftools-presets-media-description2 = Forhåndsindstilling for at undersøge lyd- og video-problemer i { -brand-shorter-name }.
 perftools-presets-networking-label = Netværk
 perftools-presets-networking-description = Forhåndsindstilling for at undersøge netværksproblemer i { -brand-shorter-name }.
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Energi
+perftools-presets-power-description = Forhåndsindstilling for at undersøge strømproblemer i { -brand-shorter-name }, med lavt overhead.
 perftools-presets-custom-label = Tilpasset
 
 ##

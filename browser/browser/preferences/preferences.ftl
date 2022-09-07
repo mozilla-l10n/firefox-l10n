@@ -539,6 +539,8 @@ home-prefs-recommended-by-description-new = Interessant indhold udvalgt af { $pr
 home-prefs-recommended-by-learn-more = Sådan virker det
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsorerede historier
+home-prefs-recommended-by-option-recent-saves =
+    .label = Vis seneste gemte
 home-prefs-highlights-option-visited-pages =
     .label = Besøgte sider
 home-prefs-highlights-options-bookmarks =
@@ -931,7 +933,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Søgetjenester
     .accesskey = S
+addressbar-locbar-quickactions-option =
+    .label = Hurtige handlinger
+    .accesskey = H
 addressbar-suggestions-settings = Skift indstillinger for søgeforslag
+addressbar-quickactions-learn-more = Læs mere
 
 ## Privacy Section - Content Blocking
 
@@ -1089,8 +1095,12 @@ addon-recommendations-link = Læs mere
 collection-health-report-disabled = Data-rapportering er deaktiveret for denne build-konfiguration
 collection-backlogged-crash-reports-with-link = Tillad at { -brand-short-name } sender ophobede fejlrapporter på dine vegne <a data-l10n-name="crash-reports-link">Læs mere</a>
     .accesskey = o
+privacy-segmentation-section-header = Nye funktioner, der forbedrer din browsing
+privacy-segmentation-section-description = Når vi tilbyder funktioner, der brugere dine data til at give dig en mere personlig oplevelse:
 privacy-segmentation-radio-off =
     .label = Brug { -brand-product-name }-anbefalinger
+privacy-segmentation-radio-on =
+    .label = Vis detaljeret information
 
 ## Privacy Section - Security
 ##
