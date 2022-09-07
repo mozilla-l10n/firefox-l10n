@@ -16,3 +16,5 @@ callout-firefox-view-tab-pickup-subtitle = Egueru pya’e tendayke ijurujáva pu
 callout-firefox-view-recently-closed-title = Erujey tendayke mbotypyre sapy’aitépe
 callout-firefox-view-recently-closed-subtitle = Opaite tendayke mbotypyre osẽta mba’eve’ỹre ko’ápe. Anive ejepy’apy embotýramo peichahágui.
 callout-firefox-view-colorways-title = Embojuaju sa’y sa’imi
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Eiporavo mba’etépa ohechauka sa’ykuéra ojueheguáva. { -brand-product-name }-pe añoite.
