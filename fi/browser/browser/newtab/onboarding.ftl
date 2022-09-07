@@ -265,12 +265,19 @@ mr2022-onboarding-secondary-skip-button-label = Ohita tämä vaihe
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Kiinnitä { -brand-short-name } Dockiin
+       *[other] Kiinnitä { -brand-short-name } tehtäväpalkkiin
+    }
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 
 ## MR2022 New User Set Default screen strings
 
+mr2022-onboarding-set-default-primary-button-label = Aseta { -brand-short-name } oletusselaimeksi
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -288,18 +295,31 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Tuo edellisestä 
 
 mr2022-onboarding-colorway-title = Valitse väri, joka inspiroi sinua
 mr2022-onboarding-colorway-subtitle = Itsenäiset äänet voivat muuttaa kulttuuria.
+mr2022-onboarding-colorway-primary-button-label = Aseta väriteema
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-no-mobile-download-cta-text = Skannaa QR-koodi saadaksesi { -brand-product-name }in mobiililaitteille.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Yksityisen selauksen vapautta yhdellä napsautuksella
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Ei tallennettuja evästeitä tai historiaa, käynnistä suoraan työpöydältäsi. Selaa kuin kukaan ei näkisi.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Pidä { -brand-short-name }in yksityinen selaus Dockissa
+       *[other] Kiinnitä { -brand-short-name }in yksityinen selaus tehtäväpalkkiin
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Kunnioitamme aina yksityisyyttäsi
+mr2022-onboarding-privacy-segmentation-button-primary-label = Käytä { -brand-product-name }-suosituksia
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Näytä yksityiskohtaiset tiedot
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Autat meitä rakentamaan parempaa verkkoa.
+mr2022-onboarding-gratitude-primary-button-label = Katso, mikä on uutta
 mr2022-onboarding-gratitude-secondary-button-label = Aloita selaaminen
