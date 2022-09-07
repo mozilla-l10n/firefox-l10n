@@ -302,6 +302,7 @@ mr2022-onboarding-get-started-primary-button-label = Emboheko sapy’aitépe
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = Emboheko pya’eterei
+mr2022-onboarding-import-subtitle = Emboheko { -brand-short-name } eipotaháicha. Embojuaju techaukaha, ñe’ẽñemi ha hetave ne kundahára itujavéva guive.
 mr2022-onboarding-import-primary-button-label-no-attribution = Emba’egueru kundahára itujavéva guive
 
 ## If your language uses grammatical genders, in the description for the

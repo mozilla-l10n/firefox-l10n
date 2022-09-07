@@ -9,3 +9,4 @@ dns-not-found-with-suggestion = ¿Aikesékuri <a data-l10n-name="website">{ $hos
 dns-not-found-hint-header = <strong>Ahaiporãvo kundaharape, ikatu:</strong>
 dns-not-found-hint-try-again = Eha’ãjey ag̃ave
 dns-not-found-hint-check-network = Ehechajey og̃uahẽ porãpa ñanduti
+dns-not-found-hint-firewall = Ehechajey { -brand-short-name } oguerekópa ñemoneĩ oike hag̃ua ñandutípe (ikatuhína oike firewall rapykuéguivo)
