@@ -331,12 +331,15 @@ mr2022-onboarding-colorway-description-visionary = <b>Вы — візіянер.
 mr2022-onboarding-colorway-label-activist = Актывіст
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Актывіст
+mr2022-onboarding-colorway-description-activist = <b>Вы — актывіст.</b> Вы пакідаеце свет лепшым месцам, чым яго знайшлі, і ўзмацняеце перакананне іншых.
 mr2022-onboarding-colorway-label-dreamer = Летуценнік
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Летуценнік
+mr2022-onboarding-colorway-description-dreamer = <b>Вы — летуценнік.</b> Вы лічыце, што фартуна спрыяе смелым, і натхняеце іншых на адвагу.
 mr2022-onboarding-colorway-label-innovator = Наватар
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Наватар
+mr2022-onboarding-colorway-description-innovator = <b>Вы — наватар.</b> Вы паўсюль бачыце магчымасці і ўплываеце на жыццё ўсіх вакол вас.
 
 ## MR2022 Multistage Mobile Download screen strings
 
