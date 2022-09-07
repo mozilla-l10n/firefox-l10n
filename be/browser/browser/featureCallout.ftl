@@ -9,4 +9,5 @@ callout-primary-complete-button-label = Зразумела!
 
 ## Firefox View feature tour strings
 
+callout-firefox-view-recently-closed-title = Вяртайце закрытыя карткі імгненна
 callout-firefox-view-colorways-title = Дадайце ўсплёск колеру
