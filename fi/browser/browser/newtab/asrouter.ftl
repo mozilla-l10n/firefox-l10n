@@ -156,6 +156,9 @@ spotlight-total-cookie-protection-expanded = { -brand-short-name } rakentaa aida
 spotlight-total-cookie-protection-primary-button = Ota totaalinen evästesuoja käyttöön
 spotlight-total-cookie-protection-secondary-button = Ei nyt
 cfr-total-cookie-protection-header = Sinun ansiostasi { -brand-short-name } on yksityisempi ja turvallisempi kuin koskaan aiemmin
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = Totaalinen evästesuoja on vahvin tietosuojaominaisuutemme koskaan – ja nyt se on oletusasetus kaikille { -brand-short-name }-käyttäjille. Emme olisi pystyneet toteuttamaan tätä ilman kaltaisiasi varhaisen pääsyn osallistujia. Kiitos siis sinulle, että autat luomaan entistä paremman ja yksityisemmän internetin.
 
 ## Emotive Continuous Onboarding
 
