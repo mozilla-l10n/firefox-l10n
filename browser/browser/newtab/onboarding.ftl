@@ -292,9 +292,15 @@ mr2022-onboarding-existing-pin-header = Дзякуй за любоў да { -bra
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Наша апошняя версія створана для вас, што дазваляе прасцей, чым калі-небудзь, перамяшчацца па сетцы. Яна багатая функцыямі, якія, як мы думаем, вам спадабаюцца.
+mr2022-onboarding-get-started-primary-button-label = Наладзіць за лічаныя секунды
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Вокамгненная налада
+mr2022-onboarding-import-subtitle = Наладзьце { -brand-short-name } як вам падабаецца. Дадайце свае закладкі, паролі і іншае са свайго старога браўзера.
 mr2022-onboarding-import-primary-button-label-no-attribution = Імпартаваць з папярэдняга браўзера
 
 ## If your language uses grammatical genders, in the description for the
@@ -302,6 +308,8 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Імпартав�
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Выберыце колер, які вас натхняе
+mr2022-onboarding-colorway-subtitle = Незалежныя галасы могуць змяніць культуру.
 mr2022-onboarding-colorway-primary-button-label = Усталяваць расфарбоўку
 mr2022-onboarding-existing-colorway-checkbox-label = Зрабіце { -firefox-home-brand-name } сваёй маляўнічай хатняй старонкай
 mr2022-onboarding-colorway-label-default = Прадвызначана
