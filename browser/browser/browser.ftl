@@ -273,7 +273,7 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Näytä lisäosat
 # Opens the bookmarks library window
 quickactions-bookmarks = Näytä kirjanmerkit
@@ -284,6 +284,8 @@ quickactions-cmd-clearhistory = tyhjennä historia
 # Opens about:downloads page
 quickactions-downloads = Avaa lataukset
 quickactions-cmd-downloads = lataukset
+# Opens about:addons page in the extensions section
+quickactions-extensions = Hallitse laajennuksia
 # Opens about:logins
 quickactions-logins = Näytä kirjautumistiedot
 # Opens the print dialog
@@ -298,6 +300,8 @@ quickactions-restart = Käynnistä { -brand-short-name } uudelleen
 quickactions-screenshot2 = Ota kuvakaappaus
 # Opens about:preferences
 quickactions-settings = Avaa asetukset
+# Opens about:addons page in the themes section
+quickactions-themes = Hallitse teemoja
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Päivitä { -brand-short-name }
 # Opens the view-source UI with current pages source
