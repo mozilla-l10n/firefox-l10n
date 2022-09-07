@@ -288,10 +288,6 @@ theme-monochromatic-heading = Väriteemat
 theme-monochromatic-subheading = Eloisat uudet väriteemat { -brand-product-name }ilta. Saatavilla rajoitetun ajan.
 # Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Kokeile väriteemoja
-colorway-collection-independent-voices-subheading = Tee { -brand-short-name }ista enemmän omanlaisesi.
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires.
-colorway-collection-expiry-date-span = Vanhenee { DATETIME($expiryDate, month: "long", day: "numeric") }
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = Vaihda väriteemaa
 # Variables:
@@ -381,6 +377,7 @@ addon-permissions-optional = Valinnaiset käyttöoikeudet lisätoiminnoille:
 addon-permissions-learnmore = Lue lisää käyttöoikeuksista
 recommended-extensions-heading = Suositellut laajennukset
 recommended-themes-heading = Suositellut teemat
+addon-sitepermissions-required = Antaa seuraavat ominaisuudet sivustolle <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Haluatko kokeilla itse? <a data-l10n-name="link">Voit luoda oman teeman Firefox Color -ohjelmalla.</a>
