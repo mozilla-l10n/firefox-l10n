@@ -517,6 +517,7 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox-aloitussivun sisältö
 home-prefs-content-description = Valitse Firefox-aloitussivulle haluamasi sisältö.
+home-prefs-content-description2 = Valitse mitä sisältöä haluat { -firefox-home-brand-name }in näytölle.
 home-prefs-search-header =
     .label = Verkkohaku
 home-prefs-shortcuts-header =
@@ -931,7 +932,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = hakukoneista
     .accesskey = h
+addressbar-locbar-quickactions-option =
+    .label = Pikatoiminnot
+    .accesskey = Q
 addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
+addressbar-quickactions-learn-more = Lue lisää
 
 ## Privacy Section - Content Blocking
 
@@ -981,6 +986,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Totaalinen evästesuoja eristää evästeet sivustolle, jolla olet, joten seuraimet eivät voi käyttää niitä seurantaan sivustojen välillä.
 content-blocking-etp-standard-tcp-rollout-learn-more = Lue lisää
+content-blocking-etp-standard-tcp-title = Sisältää totaalisen evästesuojan, kaikkien aikojen tehokkaimman tietosuojaominaisuuden
 content-blocking-warning-title = Huomio!
 content-blocking-and-isolating-etp-warning-description-2 = Tämä asetus saattaa aiheuttaa sen, että jotkin verkkosivustot eivät näytä sisältöä tai toimi oikein. Jos sivusto vaikuttaa rikkoutuneen, saatat haluta poistaa seurannan suojauksen käytöstä kyseisen sivuston kohdalta, jotta kaikki sisältö voidaan ladata.
 content-blocking-warning-learn-how = Lue lisää
@@ -1088,6 +1094,12 @@ addon-recommendations-link = Lue lisää
 collection-health-report-disabled = Tietojen kerääminen ei ole käytössä tässä koostamiskokoonpanossa
 collection-backlogged-crash-reports-with-link = Salli, että { -brand-short-name } lähettää lähettämättömät kaatumisraportit puolestasi <a data-l10n-name="crash-reports-link">Lue lisää</a>
     .accesskey = S
+privacy-segmentation-section-header = Uudet selaamista parantavat ominaisuudet
+privacy-segmentation-section-description = Kun tarjoamme ominaisuuksia, jotka käyttävät tietojasi aiempaa henkilökohtaisemman käyttökokemuksen tarjoamiseksi:
+privacy-segmentation-radio-off =
+    .label = Käytä { -brand-product-name }-suosituksia
+privacy-segmentation-radio-on =
+    .label = Näytä yksityiskohtaiset tiedot
 
 ## Privacy Section - Security
 ##
