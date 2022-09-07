@@ -170,12 +170,12 @@ mr1-onboarding-theme-description-dark =
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Düğmeler, menüler ve pencereler için
-        dinamik, renkli bir tema kullanın.
+        dinamik, renkli bir tema kullan.
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Düğmeler, menüler ve pencereler için
-        dinamik, renkli bir tema kullanın.
+        dinamik, renkli bir tema kullan.
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
