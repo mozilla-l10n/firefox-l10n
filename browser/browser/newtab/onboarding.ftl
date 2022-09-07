@@ -230,9 +230,12 @@ mr2-onboarding-start-browsing-button-label = Aloita selaaminen
 
 onboarding-live-language-header = Valitse kieli
 mr2022-onboarding-live-language-text = { -brand-short-name } puhuu kieltäsi
+mr2022-language-mismatch-subtitle = Yhteisömme ansiosta { -brand-short-name } on käännetty yli 90 kielelle. Vaikuttaa siltä, että järjestelmäsi kieli on { $systemLanguage } ja { -brand-short-name } käyttää kieltä { $appLanguage }.
 onboarding-live-language-button-label-downloading = Ladataan kielen { $negotiatedLanguage } kielipakettia…
 onboarding-live-language-waiting-button = Haetaan saatavilla olevia kieliä…
 onboarding-live-language-installing = Asennetaan kielen { $negotiatedLanguage } kielipakettia…
+mr2022-onboarding-live-language-switch-to = Vaihda kieleen { $negotiatedLanguage }
+mr2022-onboarding-live-language-continue-in = Jatka kielellä { $appLanguage }
 onboarding-live-language-secondary-cancel-download = Peruuta
 onboarding-live-language-skip-button-label = Ohita
 
@@ -265,6 +268,11 @@ mr2022-onboarding-secondary-skip-button-label = Ohita tämä vaihe
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Avaa hämmästyttävä internet
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -274,6 +282,7 @@ mr2022-onboarding-pin-primary-button-label =
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+mr2022-onboarding-existing-pin-checkbox-label = Lisää myös { -brand-short-name }in yksityinen selaus
 
 ## MR2022 New User Set Default screen strings
 
@@ -283,9 +292,12 @@ mr2022-onboarding-set-default-primary-button-label = Aseta { -brand-short-name }
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = Määritä sekunneissa
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Salamannopea määritys
+mr2022-onboarding-import-subtitle = Määritä { -brand-short-name } haluamallasi tavalla. Lisää kirjanmerkkisi, salasanasi ja paljon muuta aiemmin käyttämästäsi selaimesta.
 mr2022-onboarding-import-primary-button-label-no-attribution = Tuo edellisestä selaimesta
 
 ## If your language uses grammatical genders, in the description for the
@@ -299,6 +311,7 @@ mr2022-onboarding-colorway-primary-button-label = Aseta väriteema
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Hyppää kannettavalta tietokoneelta puhelimelle ja takaisin
 mr2022-onboarding-no-mobile-download-cta-text = Skannaa QR-koodi saadaksesi { -brand-product-name }in mobiililaitteille.
 
 ## MR2022 Upgrade Dialog screens
@@ -315,6 +328,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Kunnioitamme aina yksityisyyttäsi
+mr2022-onboarding-privacy-segmentation-text-cta = Mitä haluat nähdä, kun tarjoamme uusia ominaisuuksia, jotka käyttävät tietojasi selauskokemuksen parantamiseksi?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Käytä { -brand-product-name }-suosituksia
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Näytä yksityiskohtaiset tiedot
 
