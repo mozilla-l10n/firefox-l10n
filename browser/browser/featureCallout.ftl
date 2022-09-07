@@ -10,4 +10,5 @@ callout-primary-complete-button-label = Зразумела!
 ## Firefox View feature tour strings
 
 callout-firefox-view-recently-closed-title = Вяртайце закрытыя карткі імгненна
+callout-firefox-view-recently-closed-subtitle = Тут чароўным чынам з'явяцца ўсе закрытыя карткі. Больш ніколі не турбуйцеся, што выпадкова закрылі сайт.
 callout-firefox-view-colorways-title = Дадайце ўсплёск колеру
