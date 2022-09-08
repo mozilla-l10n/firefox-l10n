@@ -812,6 +812,10 @@ history-clear-button =
 
 sitedata-header = දත්තකඩ හා අඩවි දත්ත
 sitedata-total-size-calculating = අඩවි දත්ත සහ නිහිතයේ ප්‍රමාණය ගණනය වෙමින්...
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = ගබඩා වී තිබෙන දත්තකඩ, අඩවි දත්ත සහ නිහිතය දැනට { $unit } { $value } ක තැටි ඉඩක් භාවිතා කරයි.
 sitedata-learn-more = තව දැනගන්න
 sitedata-delete-on-close =
     .label = { -brand-short-name } වසා දැමූ විට දත්තකඩ හා අඩවි දත්ත මකන්න
@@ -904,6 +908,8 @@ content-blocking-all-cookies = සියළු දත්තකඩ
 content-blocking-all-windows-tracking-content = සියළු කවුළුවල ලුහුබැඳීමේ අන්තර්ගත
 content-blocking-all-third-party-cookies = සියළු තෙවන පාර්ශ්ව දත්තකඩ
 content-blocking-fingerprinters = ඇඟිලි සටහන්
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = පූර්ණ දත්තකඩ ආරක්‍ෂණය ඔබ සිටින අඩවියෙහි දත්තකඩ හුදකලා කරන බැවින් ලුහුබඳින්නන්ට අඩවි අතරින් ඔබව හඹා යාමට ඒවා භාවිතා කළ නොහැකිය.
 content-blocking-etp-standard-tcp-rollout-learn-more = තව දැනගන්න
 content-blocking-etp-standard-tcp-title = අපගේ බලවත්ම රහස්‍යතා විශේෂාංගය වන පූර්ණ දත්තකඩ රැකවරණය ඇතුළත්ය
 content-blocking-warning-title = අවධානය!

@@ -28,6 +28,7 @@ about-private-browsing-focus-promo-cta = { -focus-brand-name } බාගන්�
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = දුරකථනයෙන් ද පෞද්ගලිකව පිරික්සන්න
+about-private-browsing-focus-promo-text-b = ඔබගේ ප්‍රධාන ජංගම අතිරික්සුවෙහි දැකීමට අපේක්‍ෂා නොකරන පෞද්ගලික සෙවීම් සඳහා { -focus-brand-name } භාවිතා කරන්න.
 about-private-browsing-focus-promo-header-c = දුරකථනයට ඊළඟ මට්ටමේ පෞද්ගලිකත්‍වය
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } දැන්වීම් සහ ලුහුබැඳීම් අවහිර කරන සැමවිට ඔබගේ ඉතිහාසය හිස් කරයි.
 # This string is the title for the banner for search engine selection

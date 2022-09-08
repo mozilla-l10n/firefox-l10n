@@ -30,7 +30,7 @@ site-data-settings-dialog =
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-storage-usage =
-    .value = { $value } { $unit }
+    .value = { $unit } { $value }
 site-data-remove-all =
     .label = සියල්ල ඉවත් කරන්න
     .accesskey = e
