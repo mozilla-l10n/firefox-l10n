@@ -951,6 +951,7 @@ permissions-xr = අතථ්‍ය යථාර්ථය
 permissions-xr-settings =
     .label = සැකසුම්…
     .accesskey = t
+permissions-camera = රූගතය
 permissions-camera-settings =
     .label = සැකසුම්…
     .accesskey = t

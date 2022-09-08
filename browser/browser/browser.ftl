@@ -441,6 +441,11 @@ browser-import-button2 =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera-device =
+    .value = රූගතය:
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = රූගතය
 popup-select-microphone-device =
     .value = ශබ්දවාහිනිය:
     .accesskey = M
