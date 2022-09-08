@@ -5,6 +5,7 @@
 clear-site-data-window =
     .title = දත්ත මකන්න
     .style = width: 35em
+clear-site-data-description = { -brand-short-name } මගින් ගබඩා කර තිබෙන සියළුම දත්තකඩ සහ අඩවි දත්ත හිස් කිරීමෙන් ඔබව අඩවි වෙතින් නික්මවන අතර මාර්ගඅපගත වියමන අන්තර්ගත ද ඉවත් කෙරේ. නිහිතගත දත්ත පමණක් හිස් කිරීම ඔබගේ පිවිසුම් වලට බලපාන්නේ නැත.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
@@ -13,7 +14,7 @@ clear-site-data-close-key =
 #   $amount (Number) - Amount of site data currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cookies-with-data =
-    .label = දත්තකඩ හා අඩවි දත්ත ({ $amount } { $unit })
+    .label = දත්තකඩ හා අඩවි දත්ත ({ $unit } { $amount })
     .accesskey = S
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cookies-with-data is loading. This placeholder is usually
@@ -30,7 +31,7 @@ clear-site-data-cookies-info = හිස් කළහොත් ඔබව අඩ�
 #   $amount (Number) - Amount of cache currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cache-with-data =
-    .label = නිහිතගත වියමන අන්තර්ගත ({ $amount }{ $unit })
+    .label = නිහිතගත වියමන අන්තර්ගත ({ $unit } { $amount })
     .accesskey = W
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually

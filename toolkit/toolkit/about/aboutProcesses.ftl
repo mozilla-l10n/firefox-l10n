@@ -72,7 +72,7 @@ about-processes-utility-actor-audio-decoder-applemedia = ඇපල් මාධ�
 
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
-    .title = මුළු ම.සැ.ඒ. කාලය: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+    .title = මුළු ම.සැ.ඒ. කාලය: { $unit } { NUMBER($total, maximumFractionDigits: 0) }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (මැනීම)
 # Special case: process or thread is almost idle (using less than 0.1% of a CPU core).

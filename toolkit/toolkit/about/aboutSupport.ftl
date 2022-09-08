@@ -65,7 +65,7 @@ app-basics-disk-available = තැටියේ ඉඩ තිබේ
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
-app-basics-data-size = { $value } { $unit }
+app-basics-data-size = { $unit } { $value }
 show-dir-label =
     { PLATFORM() ->
         [macos] සෙවීමෙහි පෙන්වන්න
@@ -103,6 +103,7 @@ sandbox-sys-call-age = තත්. කිහිපයකට පෙර
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 restart-in-troubleshoot-mode-label = දොස් සෙවීමේ ප්‍රකාරය…
+clear-startup-cache-title = ආරම්භක නිහිතය මැකීමට බලන්න
 restart-button-label = යළි අරඹන්න
 
 ## Media titles
