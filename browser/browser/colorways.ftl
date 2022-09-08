@@ -23,3 +23,4 @@ activist-colorway-description = Du engasjerer deg for å gjere verda betre, og d
 dreamer-colorway-name = Drøymar
 dreamer-colorway-description = Du meiner at lykka står dei tapre bi og inspirerar andre til å vere modige.
 innovator-colorway-name = Nyskapar
+innovator-colorway-description = Du ser moglegheiter overalt og påverkar liva til alle rundt deg.
