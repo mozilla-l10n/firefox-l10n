@@ -282,11 +282,18 @@ mr2022-onboarding-pin-primary-button-label =
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Kiitos että arvostat { -brand-product-name }ia
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Käynnistä terveellisempi internet missä tahansa yhdellä napsautuksella. Uusin päivityksemme on täynnä uusia asioita, joista uskomme sinun pitävän.
 mr2022-onboarding-existing-pin-checkbox-label = Lisää myös { -brand-short-name }in yksityinen selaus
 
 ## MR2022 New User Set Default screen strings
 
 mr2022-onboarding-set-default-primary-button-label = Aseta { -brand-short-name } oletusselaimeksi
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Käytä voittoa tavoittelemattoman säätiön tukemaa selainta. Puolustamme yksityisyyttäsi, kun selaat verkkoa.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -308,10 +315,13 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Tuo edellisestä 
 mr2022-onboarding-colorway-title = Valitse väri, joka inspiroi sinua
 mr2022-onboarding-colorway-subtitle = Itsenäiset äänet voivat muuttaa kulttuuria.
 mr2022-onboarding-colorway-primary-button-label = Aseta väriteema
+mr2022-onboarding-colorway-description-default = <b>Käytä nykyisiä { -brand-short-name }-värejä.</b>
 
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Hyppää kannettavalta tietokoneelta puhelimelle ja takaisin
+mr2022-onboarding-mobile-download-subtitle = Nouda välilehdet yhdeltä laitteelta ja jatka toisella laitteella siitä mihin jäit. Synkronoi kirjanmerkkisi ja salasanasi missä tahansa käytät { -brand-product-name }ia.
+mr2022-onboarding-mobile-download-cta-text = Skannaa QR-koodi saadaksesi { -brand-product-name }in mobiililaitteille tai <a data-l10n-name="download-label">lähetä itsellesi latauslinkki.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Skannaa QR-koodi saadaksesi { -brand-product-name }in mobiililaitteille.
 
 ## MR2022 Upgrade Dialog screens
@@ -328,6 +338,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Kunnioitamme aina yksityisyyttäsi
+mr2022-onboarding-privacy-segmentation-subtitle = Pyrimme jatkuvasti luomaan paremman, henkilökohtaisemman { -brand-product-name }in ominaisuuksilla kuten älykkäät ehdotukset ja entistä älykkäämpi haku.
 mr2022-onboarding-privacy-segmentation-text-cta = Mitä haluat nähdä, kun tarjoamme uusia ominaisuuksia, jotka käyttävät tietojasi selauskokemuksen parantamiseksi?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Käytä { -brand-product-name }-suosituksia
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Näytä yksityiskohtaiset tiedot
@@ -335,5 +346,6 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Näytä yksityis
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Autat meitä rakentamaan parempaa verkkoa.
+mr2022-onboarding-gratitude-subtitle = Kiitos, että käytit { -brand-short-name }ia, jota Mozilla Foundation tukee. Tukesi avulla pyrimme tekemään internetistä entistä avoimemman, saavutettavamman ja paremman kaikille.
 mr2022-onboarding-gratitude-primary-button-label = Katso, mikä on uutta
 mr2022-onboarding-gratitude-secondary-button-label = Aloita selaaminen
