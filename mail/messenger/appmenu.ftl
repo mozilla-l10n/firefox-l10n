@@ -39,9 +39,32 @@ appmenu-newab-panel =
 appmenu-new-addressbook =
     .label = Lokalny adresnik
     .accesskey = L
+appmenu-new-carddav =
+    .label = Adresnik CardDAV
+    .accesskey = C
+appmenu-new-ldap =
+    .label = Nowy LDAP-adresnik
+    .accesskey = P
 
 ## Create
 
+appmenu-create-panel-title =
+    .title = Wutworić
+appmenu-create-panel =
+    .label = Wutworić
+    .accesskey = u
+appmenu-create-message =
+    .label = Powěsć
+    .accesskey = o
+appmenu-create-event =
+    .label = Podawk
+    .accesskey = d
+appmenu-create-task =
+    .label = Nadawk
+    .accesskey = N
+appmenu-create-contact =
+    .label = Kontakt
+    .accesskey = K
 
 ## View / Layout
 
@@ -105,6 +128,9 @@ appmenu-help-get-involved =
 appmenu-help-donation =
     .label = Darić
     .accesskey = D
+appmenu-help-share-feedback =
+    .label = Ideje a měnjenja dźělić
+    .accesskey = I
 appmenu-help-enter-troubleshoot-mode2 =
     .label = Modus za rozrisowanje problemow…
     .accesskey = r
