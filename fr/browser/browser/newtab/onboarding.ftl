@@ -299,12 +299,15 @@ mr2022-onboarding-set-default-subtitle = Utilisez un navigateur soutenu par une 
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Notre dernière version est conçue sur mesure pour vous, ce qui facilite plus que jamais la navigation sur le Web. Cette dernière version regorge de fonctionnalités que vous allez adorer.
 mr2022-onboarding-get-started-primary-button-label = Configurer en quelques secondes
 
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = Configuration ultra-rapide
-mr2022-onboarding-import-subtitle = Configurez { -brand-short-name } comme vous l’aimez. Ajoutez vos marque-pages, mots de passe et plus encore depuis votre ancien navigateur.
+mr2022-onboarding-import-subtitle = Configurez { -brand-short-name } à votre guise. Ajoutez vos marque-pages, mots de passe et plus encore depuis votre ancien navigateur.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importer depuis un autre navigateur
 
 ## If your language uses grammatical genders, in the description for the
