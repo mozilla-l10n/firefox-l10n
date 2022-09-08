@@ -12,6 +12,7 @@ import-start-title = 从应用程序或文件导入设置或数据。
 import-from-app = 从应用程序导入
 import-file = 从文件导入
 import-file-title = 选择文件以导入其内容。
+import-file-description = 选择导入以前备份的配置文件、通讯录或日历。
 import-address-book-title = 导入通讯录文件
 import-calendar-title = 导入日历文件
 export-profile = 导出
@@ -30,6 +31,8 @@ app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
 app-name-apple-mail = Apple 邮件
+source-thunderbird = 从另一个 { app-name-thunderbird } 安装导入
+source-thunderbird-description = 从 { app-name-thunderbird } 配置文件导入设置、过滤器、消息和其他数据。
 source-seamonkey = 从已安装的 { app-name-seamonkey } 导入
 source-seamonkey-description = 从 { app-name-seamonkey } 配置文件导入设置、过滤器、消息和其他数据。
 source-outlook = 从 { app-name-outlook } 导入
@@ -39,6 +42,7 @@ source-becky-description = 从 { app-name-becky }导入通讯录和消息。
 source-apple-mail = 从 { app-name-apple-mail } 导入
 source-apple-mail-description = 从 { app-name-apple-mail } 导入消息。
 source-file2 = 从文件导入
+source-file-description = 请选择文件导入通讯录、日历或配置文件备份（ZIP 文件）。
 
 ## Import from file selections
 
