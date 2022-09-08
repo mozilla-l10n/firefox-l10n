@@ -185,6 +185,7 @@ unknown = නොදන්නා
 ## not found.
 
 found = හමුවුණි
+missing = මඟහැරී
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = සවිස්තරය
@@ -193,12 +194,15 @@ gpu-device-id = උපාංගයේ හැඳු.
 gpu-subsys-id = අනුපද්ධති හැඳු.
 gpu-drivers = ධාවක
 gpu-ram = RAM
+gpu-driver-vendor = ධාවකය විකුණුම්කරු
 gpu-driver-version = ධාවකයේ අනුවාදය
 gpu-driver-date = ධාවක දිනය
 gpu-active = සක්‍රිය
+webgl1-wsiinfo = WebGL 1 ධාවකයේ WSI තොරතුරු
 webgl1-version = WebGL 1 ධාවකයේ අනුවාදය
 webgl1-driver-extensions = WebGL 1 ධාවක දිගු
 webgl1-extensions = WebGL 1 දිගු
+webgl2-wsiinfo = WebGL 2 ධාවකයේ WSI තොරතුරු
 webgl2-version = WebGL 2 ධාවකයේ අනුවාදය
 webgl2-driver-extensions = WebGL 2 ධාවක දිගු
 webgl2-extensions = WebGL 2 දිගු
