@@ -3,6 +3,69 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## New Account
+
+appmenu-new-account-panel-title =
+    .title = Новий обліковий запис
+appmenu-new-account-panel =
+    .label = Новий обліковий запис
+    .accesskey = б
+appmenu-create-new-mail-account =
+    .label = Отримати нову адресу
+    .accesskey = н
+appmenu-new-mail-account =
+    .label = Наявна адреса
+    .accesskey = я
+appmenu-new-calendar =
+    .label = Календар
+    .accesskey = К
+appmenu-new-chat-account =
+    .label = Чат
+    .accesskey = Ч
+appmenu-new-feed =
+    .label = Стрічка
+    .accesskey = С
+appmenu-new-newsgroup =
+    .label = Група новин
+    .accesskey = Г
+
+## New Account / Address Book
+
+appmenu-newab-panel-title =
+    .title = Нова адресна книга
+appmenu-newab-panel =
+    .label = Нова адресна книга
+    .accesskey = г
+appmenu-new-addressbook =
+    .label = Локальна адресна книга
+    .accesskey = ь
+appmenu-new-carddav =
+    .label = Адресна книга CardDav
+    .accesskey = C
+appmenu-new-ldap =
+    .label = Адресна книга LDAP
+    .accesskey = L
+
+## Create
+
+appmenu-create-panel-title =
+    .title = Створити
+appmenu-create-panel =
+    .label = Створити
+    .accesskey = С
+appmenu-create-message =
+    .label = Повідомлення
+    .accesskey = П
+appmenu-create-event =
+    .label = Подія
+    .accesskey = я
+appmenu-create-task =
+    .label = Завдання
+    .accesskey = З
+appmenu-create-contact =
+    .label = Контакт
+    .accesskey = К
+
 ## View / Layout
 
 appmenu-font-size-value = Розмір шрифту
@@ -65,9 +128,9 @@ appmenu-help-get-involved =
 appmenu-help-donation =
     .label = Зробити внесок
     .accesskey = б
-appmenu-help-feedback =
-    .label = Надіслати відгуки й ідеї
-    .accesskey = ї
+appmenu-help-share-feedback =
+    .label = Поділіться ідеями та відгуком
+    .accesskey = и
 appmenu-help-enter-troubleshoot-mode2 =
     .label = Режим усунення проблем…
     .accesskey = п
