@@ -267,9 +267,16 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Behold { -brand-short-name } i Dock
        *[other] Fest { -brand-short-name } til oppgavelinjen
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Start med en nettleser støttet av en ideell organisasjon. Vi forsvarer personvernet ditt mens du surfer rundt på nettet.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Takk for at du liker { -brand-product-name }
 
 ## MR2022 New User Set Default screen strings
 
