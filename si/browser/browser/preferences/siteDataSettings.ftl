@@ -44,3 +44,4 @@ site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = ඉවත් කරන්න
 site-data-removing-header = දත්තකඩ හා අඩවි දත්ත ඉවත් වෙමින්
+site-data-removing-table = පහත වියමන අඩවිවල දත්තකඩ සහ අඩවි දත්ත ඉවත් කෙරේ
