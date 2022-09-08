@@ -3,6 +3,69 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## New Account
+
+appmenu-new-account-panel-title =
+    .title = Nýr reikningur
+appmenu-new-account-panel =
+    .label = Nýr reikningur
+    .accesskey = N
+appmenu-create-new-mail-account =
+    .label = Fáðu nýjan tölvupóst
+    .accesskey = j
+appmenu-new-mail-account =
+    .label = Núverandi tölvupóstur
+    .accesskey = e
+appmenu-new-calendar =
+    .label = Dagatal
+    .accesskey = D
+appmenu-new-chat-account =
+    .label = Spjall
+    .accesskey = j
+appmenu-new-feed =
+    .label = Streymi
+    .accesskey = m
+appmenu-new-newsgroup =
+    .label = Fréttahópur
+    .accesskey = h
+
+## New Account / Address Book
+
+appmenu-newab-panel-title =
+    .title = Ný nafnaskrá
+appmenu-newab-panel =
+    .label = Ný nafnaskrá
+    .accesskey = a
+appmenu-new-addressbook =
+    .label = Staðbundin nafnaskrá
+    .accesskey = a
+appmenu-new-carddav =
+    .label = CardDAV-nafnaskrá
+    .accesskey = C
+appmenu-new-ldap =
+    .label = LDAP-nafnaskrá
+    .accesskey = L
+
+## Create
+
+appmenu-create-panel-title =
+    .title = Búa til
+appmenu-create-panel =
+    .label = Búa til
+    .accesskey = B
+appmenu-create-message =
+    .label = Skilaboð
+    .accesskey = b
+appmenu-create-event =
+    .label = Atburður
+    .accesskey = u
+appmenu-create-task =
+    .label = Verkefni
+    .accesskey = k
+appmenu-create-contact =
+    .label = Tengiliður
+    .accesskey = g
+
 ## View / Layout
 
 appmenu-font-size-value = Leturstærð
@@ -65,9 +128,9 @@ appmenu-help-get-involved =
 appmenu-help-donation =
     .label = Styrktu verkefnið
     .accesskey = y
-appmenu-help-feedback =
-    .label = Sendu inn athugasemdir og hugmyndir
-    .accesskey = S
+appmenu-help-share-feedback =
+    .label = Deildu hugmyndum og athugasemdum
+    .accesskey = D
 appmenu-help-enter-troubleshoot-mode2 =
     .label = Úrræðaleitarhamur…
     .accesskey = t
