@@ -299,6 +299,7 @@ mr2022-onboarding-existing-colorway-checkbox-label = Gjør { -firefox-home-brand
 mr2022-onboarding-colorway-label-default = Standard
 mr2022-onboarding-colorway-tooltip-default =
     .title = Standard
+mr2022-onboarding-colorway-description-default = <b>Bruk mine nåværende { -brand-short-name }-farger.</b>
 mr2022-onboarding-colorway-label-playmaker = Spiller
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Spiller
@@ -332,9 +333,15 @@ mr2022-onboarding-no-mobile-download-cta-text = Skann QR-koden for å få { -bra
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Behold { -brand-short-name } privat nettlesing i Dock
+       *[other] Fest { -brand-short-name } privat nettlesing til oppgavelinjen
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-button-primary-label = Bruk { -brand-product-name }-anbefalinger
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Vis detaljert informasjon
 
 ## MR2022 Multistage Gratitude screen strings
