@@ -121,6 +121,7 @@ about-processes-utility-actor-audio-decoder = 音频解码器
 about-processes-utility-actor-audio-decoder-generic = 通用音频解码器
 about-processes-utility-actor-audio-decoder-applemedia = Apple 媒体音频解码器
 about-processes-utility-actor-audio-decoder-wmf = Windows 媒体框架音频解码器
+about-processes-utility-actor-mf-media-engine = Windows Media Foundation 媒体引擎 CDM
 
 ## Displaying CPU (percentage and total)
 ## Variables:
