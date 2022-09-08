@@ -3,6 +3,66 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## New Account
+
+appmenu-new-account-panel-title =
+    .title = Cuenta nueva
+appmenu-new-account-panel =
+    .label = Cuenta nueva
+    .accesskey = N
+appmenu-create-new-mail-account =
+    .label = Obtener un nuevo correo electrónico
+    .accesskey = G
+appmenu-new-mail-account =
+    .label = Correo electrónico existente
+    .accesskey = E
+appmenu-new-calendar =
+    .label = Calendario
+    .accesskey = C
+appmenu-new-chat-account =
+    .label = Chat
+    .accesskey = h
+appmenu-new-feed =
+    .label = Feed
+    .accesskey = F
+appmenu-new-newsgroup =
+    .label = Grupo de noticias
+    .accesskey = N
+
+## New Account / Address Book
+
+appmenu-newab-panel-title =
+    .title = Nueva libreta de direcciones
+appmenu-newab-panel =
+    .label = Nueva libreta de direcciones
+    .accesskey = A
+appmenu-new-addressbook =
+    .label = Libretas de direcciones locales
+    .accesskey = A
+appmenu-new-carddav =
+    .label = Libreta de direcciones CardDAV
+    .accesskey = C
+appmenu-new-ldap =
+    .label = Libreta de direcciones LDAP
+    .accesskey = L
+
+## Create
+
+appmenu-create-panel-title =
+    .title = Crear
+appmenu-create-panel =
+    .label = Crear
+    .accesskey = C
+appmenu-create-message =
+    .label = Mensaje
+    .accesskey = M
+appmenu-create-event =
+    .label = Evento
+    .accesskey = E
+appmenu-create-task =
+    .label = Tarea
+    .accesskey = T
+
 ## View / Layout
 
 appmenu-font-size-value = Tamaño de letra
@@ -65,9 +125,6 @@ appmenu-help-get-involved =
 appmenu-help-donation =
     .label = Haga una donación
     .accesskey = d
-appmenu-help-feedback =
-    .label = Enviar opinión e ideas
-    .accesskey = s
 appmenu-help-enter-troubleshoot-mode2 =
     .label = Modo de resolución de problemas…
     .accesskey = r
