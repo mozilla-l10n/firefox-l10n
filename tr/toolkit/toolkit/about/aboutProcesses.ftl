@@ -124,6 +124,7 @@ about-processes-utility-actor-audio-decoder = Ses çözücü
 about-processes-utility-actor-audio-decoder-generic = Genel ses çözücü
 about-processes-utility-actor-audio-decoder-applemedia = Apple medya ses çözücüsü
 about-processes-utility-actor-audio-decoder-wmf = Windows Media Framework ses çözücüsü
+about-processes-utility-actor-mf-media-engine = Windows Media Foundation Media Engine CDM
 
 ## Displaying CPU (percentage and total)
 ## Variables:
