@@ -57,7 +57,7 @@ cfr-doorhanger-extension-total-users =
 
 ## Firefox Accounts Message
 
-cfr-doorhanger-bookmark-fxa-header = 把书签随身带着走
+cfr-doorhanger-bookmark-fxa-header = 书签随身带着走
 cfr-doorhanger-bookmark-fxa-body = 发现好网站了！接下来也把该书签同步至移动设备吧。开始使用 { -fxaccount-brand-name }。
 cfr-doorhanger-bookmark-fxa-link-text = 立即同步书签...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
