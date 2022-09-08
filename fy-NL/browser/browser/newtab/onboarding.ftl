@@ -344,15 +344,15 @@ mr2022-onboarding-colorway-description-visionary = <b>Jo binne in fisjonêr.</b>
 mr2022-onboarding-colorway-label-activist = Aktivist
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Aktivist
-mr2022-onboarding-colorway-description-activist = <b>Jo binne in aktivist.</b>Jo litte de wrâld moaier efter dan jo it fûn ha en lit oaren leauwen.
+mr2022-onboarding-colorway-description-activist = <b>Jo binne in aktivist.</b> Jo litte de wrâld moaier efter dan jo it fûn ha en lit oaren leauwen.
 mr2022-onboarding-colorway-label-dreamer = Dreamer
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Dreamer
-mr2022-onboarding-colorway-description-dreamer = <b>Jo binne in dreamer.</b>Jo leauwe dat gelok de dappere favoryt is en oaren ynspirearret om dapper te wêzen.
+mr2022-onboarding-colorway-description-dreamer = <b>Jo binne in dreamer.</b> Jo leauwe dat gelok de dappere favoryt is en oaren ynspirearret om dapper te wêzen.
 mr2022-onboarding-colorway-label-innovator = Ynnovator
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Ynnovator
-mr2022-onboarding-colorway-description-innovator = <b>Jo binne in ynnovator.</b>Jo sjogge oeral kânsen en hawwe ynfloed op it libben fan elkenien om jo hinne.
+mr2022-onboarding-colorway-description-innovator = <b>Jo binne in ynnovator.</b> Jo sjogge oeral kânsen en hawwe ynfloed op it libben fan elkenien om jo hinne.
 
 ## MR2022 Multistage Mobile Download screen strings
 
