@@ -212,6 +212,7 @@ mr2-onboarding-start-browsing-button-label = පිරික්සුම අර�
 
 onboarding-live-language-header = ඔබගේ භාෂාව තෝරන්න
 mr2022-onboarding-live-language-text = { -brand-short-name } ඔබගේ භාෂාව කතා කරයි
+mr2022-language-mismatch-subtitle = { -brand-short-name } අතිරික්සුව භාෂා 90 කට වඩා වැඩි ගණනකට සහාය දක්වයි. ඔබගේ පද්ධතියෙහි { $systemLanguage } භාවිතා වන බව පෙනෙන අතර { -brand-short-name } අතිරික්සුව { $appLanguage } භාවිතා කරයි.
 onboarding-live-language-button-label-downloading = { $negotiatedLanguage } සඳහා භාෂා ඇසුරුම බාගැනෙමින්…
 onboarding-live-language-waiting-button = තිබෙන භාෂා ගැනෙමින්...
 onboarding-live-language-installing = { $negotiatedLanguage } සඳහා භාෂා ඇසුරුම ස්ථාපනය වෙමින්…
