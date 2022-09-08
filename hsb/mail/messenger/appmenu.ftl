@@ -3,6 +3,46 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## New Account
+
+appmenu-new-account-panel-title =
+    .title = Nowe konto
+appmenu-new-account-panel =
+    .label = Nowe konto
+    .accesskey = N
+appmenu-create-new-mail-account =
+    .label = Nowu e-mejl wobstarać
+    .accesskey = m
+appmenu-new-mail-account =
+    .label = Eksistowaca e-mejl
+    .accesskey = E
+appmenu-new-calendar =
+    .label = Protyka
+    .accesskey = P
+appmenu-new-chat-account =
+    .label = Chat
+    .accesskey = h
+appmenu-new-feed =
+    .label = Kanale
+    .accesskey = K
+appmenu-new-newsgroup =
+    .label = Diskusijna skupina
+    .accesskey = D
+
+## New Account / Address Book
+
+appmenu-newab-panel-title =
+    .title = Nowy asdresnik
+appmenu-newab-panel =
+    .label = Nowy adresnik
+    .accesskey = a
+appmenu-new-addressbook =
+    .label = Lokalny adresnik
+    .accesskey = L
+
+## Create
+
+
 ## View / Layout
 
 appmenu-font-size-value = Pismowa wulkosć
@@ -65,9 +105,6 @@ appmenu-help-get-involved =
 appmenu-help-donation =
     .label = Darić
     .accesskey = D
-appmenu-help-feedback =
-    .label = Měnjenja a ideje zapodać
-    .accesskey = M
 appmenu-help-enter-troubleshoot-mode2 =
     .label = Modus za rozrisowanje problemow…
     .accesskey = r
