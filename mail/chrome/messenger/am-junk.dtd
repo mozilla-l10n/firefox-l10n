@@ -25,7 +25,7 @@
 <!ENTITY ispHeaders.accesskey "T">
 
 <!ENTITY junkClassification.label "选择">
-<!ENTITY junkActions.label "目的地和保留与否">
+<!ENTITY junkActions.label "存放与保留">
 
 <!ENTITY globalJunkPrefs.label "全局垃圾邮件设置…">
 <!ENTITY globalJunkPrefs.accesskey "G">
