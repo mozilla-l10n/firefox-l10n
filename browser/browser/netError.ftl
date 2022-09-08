@@ -9,4 +9,4 @@ dns-not-found-with-suggestion = 您是要打开 <a data-l10n-name="website">{ $h
 dns-not-found-hint-header = <strong>若您确认输入的是正确网址，可以：</strong>
 dns-not-found-hint-try-again = 稍后再试
 dns-not-found-hint-check-network = 检查您的网络连接
-dns-not-found-hint-firewall = 检查 { -brand-short-name } 是否有权限上网（可能已接入网络，但被防火墙阻止）
+dns-not-found-hint-firewall = 检查 { -brand-short-name } 是否有联网权限（可能已接入网络，但被防火墙阻止）
