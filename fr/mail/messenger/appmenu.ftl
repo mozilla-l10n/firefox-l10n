@@ -3,6 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## New Account
+
+appmenu-new-account-panel-title =
+    .title = Nouveau compte
+
+## New Account / Address Book
+
+appmenu-newab-panel-title =
+    .title = Nouveau carnet d’adresses
+
+## Create
+
+appmenu-create-panel-title =
+    .title = Créer
+
 ## View / Layout
 
 appmenu-font-size-value = Taille de police
