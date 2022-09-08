@@ -285,12 +285,18 @@ quickactions-cmd-clearhistory = limpar histórico
 # Opens about:downloads page
 quickactions-downloads = Abrir transferências
 quickactions-cmd-downloads = transferências
+# Opens about:addons page in the extensions section
+quickactions-extensions = Gerir extensões
+quickactions-cmd-extensions = extensões
 # Opens the devtools web inspector
 quickactions-inspector = Abrir Inspetor
 quickactions-cmd-inspector = inspetor, devtools
 # Opens about:logins
 quickactions-logins = Ver credenciais
 quickactions-cmd-logins = credenciais, palavras-passe
+# Opens about:addons page in the plugins section
+quickactions-plugins = Gerir plugins
+quickactions-cmd-plugins = plugins
 # Opens the print dialog
 quickactions-print = Imprimir
 quickactions-cmd-print = imprimir
