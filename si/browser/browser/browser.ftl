@@ -375,6 +375,7 @@ identity-https-only-dropdown-off-temporarily =
     .label = තාවකාලිකව අක්‍රියයි
 identity-https-only-info-no-upgrade = HTTP වෙතින් සම්බන්ධතාව උත්ශ්‍රේණි කළ නොහැකිය.
 identity-permissions-storage-access-header = හරස් අඩවි දත්තකඩ
+identity-permissions-storage-access-hint = ඔබ මෙම අඩවියේ සිටින විට මෙම පාර්ශ්ව සඳහා හරස්-අඩවි දත්තකඩ සහ අඩවි දත්ත භාවිතා කළ හැකිය.
 identity-permissions-storage-access-learn-more = තව දැනගන්න
 identity-permissions-reload-hint = වෙනස්කම් යෙදීමට පිටුව යළි පූරණය කිරීමට සිදු වනු ඇත.
 identity-clear-site-data =
