@@ -62,6 +62,9 @@ appmenu-create-event =
 appmenu-create-task =
     .label = Tarea
     .accesskey = T
+appmenu-create-contact =
+    .label = Contacto
+    .accesskey = C
 
 ## View / Layout
 
@@ -125,6 +128,9 @@ appmenu-help-get-involved =
 appmenu-help-donation =
     .label = Haga una donación
     .accesskey = d
+appmenu-help-share-feedback =
+    .label = Compartir ideas y opiniones
+    .accesskey = S
 appmenu-help-enter-troubleshoot-mode2 =
     .label = Modo de resolución de problemas…
     .accesskey = r
