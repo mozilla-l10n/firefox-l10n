@@ -146,12 +146,14 @@ permissions-site-xr-disable-desc = ඉහත ලේඛනගත කර නැත
 
 ## Site Permissions - Camera
 
+permissions-site-camera-desc = පහත වියමන අඩවි ඔබගේ රූගත උපාංගයට ප්‍රවේශය ඉල්ලා ඇත. රූගත උපාංගය වෙත ප්‍රවේශ වීමට ඉඩ දිය යුතු අඩවි මොනවාදැයි ඔබට සඳහන් කළ හැකිය. ඔබගේ රූගත උපාංගයට ප්‍රවේශය විමසන නව ඉල්ලීම් ද අවහිර කළ හැකිය.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = සැකසුම් - ශබ්දවාහිනියේ අවසර
     .style = { permissions-window.style }
+permissions-site-microphone-desc = පහත වියමන අඩවි ඔබගේ ශබ්දවාහිනියට ප්‍රවේශය ඉල්ලා ඇත. ශබ්දවාහිනිය වෙත ප්‍රවේශ වීමට ඉඩ දිය යුතු අඩවි මොනවාදැයි ඔබට සඳහන් කළ හැකිය. ඔබගේ ශබ්දවාහිනියට ප්‍රවේශය විමසන නව ඉල්ලීම් ද අවහිර කළ හැකිය.
 permissions-site-microphone-disable-label =
     .label = ශබ්දවාහිනියට ප්‍රවේශය සඳහා නව ඉල්ලීම් අවහිර කරන්න
 permissions-site-microphone-disable-desc = ඉහත ලේඛනගත කර නැති අඩවි වලට ඔබගේ ශබ්දවාහිනිය වෙත ප්‍රවේශ වීමට අවසර නොදේ. මෙය අවහිර කිරීම නිසා ඇතැම් අඩවිවල විශේෂාංග නිසි අයුරින් ක්‍රියා නොකරනු ඇත.
