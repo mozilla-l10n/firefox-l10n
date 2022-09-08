@@ -124,6 +124,7 @@ about-processes-utility-actor-audio-decoder = Αποκωδικοποιητής �
 about-processes-utility-actor-audio-decoder-generic = Γενικός αποκωδικοποιητής ήχου
 about-processes-utility-actor-audio-decoder-applemedia = Αποκωδικοποιητής ήχου Apple Media
 about-processes-utility-actor-audio-decoder-wmf = Αποκωδικοποιητής ήχου Windows Media Framework
+about-processes-utility-actor-mf-media-engine = Windows Media Foundation Media Engine CDM
 
 ## Displaying CPU (percentage and total)
 ## Variables:
