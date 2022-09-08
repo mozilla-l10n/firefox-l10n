@@ -3,6 +3,69 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## New Account
+
+appmenu-new-account-panel-title =
+    .title = Nije account
+appmenu-new-account-panel =
+    .label = Nije account
+    .accesskey = N
+appmenu-create-new-mail-account =
+    .label = In nij e-mailadres krije
+    .accesskey = k
+appmenu-new-mail-account =
+    .label = Besteand e-mailadres
+    .accesskey = B
+appmenu-new-calendar =
+    .label = Aginda
+    .accesskey = A
+appmenu-new-chat-account =
+    .label = Chat
+    .accesskey = h
+appmenu-new-feed =
+    .label = Feed
+    .accesskey = F
+appmenu-new-newsgroup =
+    .label = Nijsgroep
+    .accesskey = N
+
+## New Account / Address Book
+
+appmenu-newab-panel-title =
+    .title = Nij adresboek
+appmenu-newab-panel =
+    .label = Nij adresboek
+    .accesskey = a
+appmenu-new-addressbook =
+    .label = Lokaal adresboek
+    .accesskey = d
+appmenu-new-carddav =
+    .label = CardDAV-adresboek
+    .accesskey = C
+appmenu-new-ldap =
+    .label = LDAP-adresboek
+    .accesskey = L
+
+## Create
+
+appmenu-create-panel-title =
+    .title = Oanmeitsje
+appmenu-create-panel =
+    .label = Oanmeitsje
+    .accesskey = m
+appmenu-create-message =
+    .label = Berjocht
+    .accesskey = r
+appmenu-create-event =
+    .label = Barren
+    .accesskey = B
+appmenu-create-task =
+    .label = Taak
+    .accesskey = T
+appmenu-create-contact =
+    .label = Kontakt
+    .accesskey = K
+
 ## View / Layout
 
 appmenu-font-size-value = Lettergrutte
@@ -65,9 +128,9 @@ appmenu-help-get-involved =
 appmenu-help-donation =
     .label = In donaasje dwaan
     .accesskey = d
-appmenu-help-feedback =
-    .label = Kommentaar en ideeën yntsjinje
-    .accesskey = K
+appmenu-help-share-feedback =
+    .label = Ideeën en kommentaar diele
+    .accesskey = l
 appmenu-help-enter-troubleshoot-mode2 =
     .label = Probleemoplossingsmodus…
     .accesskey = P
