@@ -3,6 +3,69 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## New Account
+
+appmenu-new-account-panel-title =
+    .title = 新增帳號
+appmenu-new-account-panel =
+    .label = 新增帳號
+    .accesskey = N
+appmenu-create-new-mail-account =
+    .label = 註冊新信箱
+    .accesskey = G
+appmenu-new-mail-account =
+    .label = 已有電子郵件信箱
+    .accesskey = E
+appmenu-new-calendar =
+    .label = 行事曆
+    .accesskey = C
+appmenu-new-chat-account =
+    .label = 聊天
+    .accesskey = h
+appmenu-new-feed =
+    .label = 消息來源
+    .accesskey = F
+appmenu-new-newsgroup =
+    .label = 新聞群組
+    .accesskey = N
+
+## New Account / Address Book
+
+appmenu-newab-panel-title =
+    .title = 新增通訊錄
+appmenu-newab-panel =
+    .label = 新增通訊錄
+    .accesskey = A
+appmenu-new-addressbook =
+    .label = 本機通訊錄
+    .accesskey = A
+appmenu-new-carddav =
+    .label = CardDav 通訊錄
+    .accesskey = C
+appmenu-new-ldap =
+    .label = LDAP 通訊錄
+    .accesskey = L
+
+## Create
+
+appmenu-create-panel-title =
+    .title = 建立
+appmenu-create-panel =
+    .label = 建立
+    .accesskey = C
+appmenu-create-message =
+    .label = 訊息
+    .accesskey = M
+appmenu-create-event =
+    .label = 事件
+    .accesskey = E
+appmenu-create-task =
+    .label = 工作
+    .accesskey = T
+appmenu-create-contact =
+    .label = 聯絡人
+    .accesskey = C
+
 ## View / Layout
 
 appmenu-font-size-value = 字型大小
@@ -65,8 +128,8 @@ appmenu-help-get-involved =
 appmenu-help-donation =
     .label = 捐款給我們
     .accesskey = D
-appmenu-help-feedback =
-    .label = 送出意見回饋與新點子
+appmenu-help-share-feedback =
+    .label = 分享想法與意見回饋
     .accesskey = S
 appmenu-help-enter-troubleshoot-mode2 =
     .label = 疑難排解模式…
