@@ -124,6 +124,7 @@ about-processes-utility-actor-audio-decoder = Ljudavkodare
 about-processes-utility-actor-audio-decoder-generic = Generisk ljudavkodare
 about-processes-utility-actor-audio-decoder-applemedia = Ljudavkodare för Apple Media
 about-processes-utility-actor-audio-decoder-wmf = Ljudavkodare för Windows Media Framework
+about-processes-utility-actor-mf-media-engine = Windows Media Foundation Media Engine CDM
 
 ## Displaying CPU (percentage and total)
 ## Variables:
