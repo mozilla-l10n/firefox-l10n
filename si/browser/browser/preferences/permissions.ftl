@@ -131,7 +131,7 @@ permissions-site-location-window =
     .style = { permissions-window.style }
 permissions-site-location-desc = පහත වියමන අඩවි ඔබගේ ස්ථානයට ප්‍රවේශ වීමට ඉල්ලා ඇත. ස්ථානයට ප්‍රවේශ වීමට ඉඩ දිය යුතු අඩවි මොනවාදැයි ඔබට සඳහන් කළ හැකිය. ඔබගේ ස්ථානයට ප්‍රවේශ වීමට විමසන නව ඉල්ලීම් ද අවහිර කළ හැකිය.
 permissions-site-location-disable-label =
-    .label = ස්ථානයට ප්‍රවේශ වීමට ඉල්ලන නව ඉල්ලීම් අවහිර කරන්න
+    .label = ස්ථානයට ප්‍රවේශ වීමට විමසන නව ඉල්ලීම් අවහිර කරන්න
 permissions-site-location-disable-desc = ඉහත ලේඛනගත කර නැති අඩවි වලට ඔබගේ ස්ථානය වෙත ප්‍රවේශ වීමට අවසර නොදේ. මෙය අවහිර කිරීම නිසා ඇතැම් අඩවිවල විශේෂාංග නිසි අයුරින් ක්‍රියා නොකරනු ඇත.
 
 ## Site Permissions - Virtual Reality
@@ -146,7 +146,13 @@ permissions-site-xr-disable-desc = ඉහත ලේඛනගත කර නැත
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = සැකසුම් - රූගතයට අවසර
+    .style = { permissions-window.style }
 permissions-site-camera-desc = පහත වියමන අඩවි ඔබගේ රූගත උපාංගයට ප්‍රවේශය ඉල්ලා ඇත. රූගත උපාංගය වෙත ප්‍රවේශ වීමට ඉඩ දිය යුතු අඩවි මොනවාදැයි ඔබට සඳහන් කළ හැකිය. ඔබගේ රූගත උපාංගයට ප්‍රවේශය විමසන නව ඉල්ලීම් ද අවහිර කළ හැකිය.
+permissions-site-camera-disable-label =
+    .label = රූගතයට ප්‍රවේශ වීමට විමසන නව ඉල්ලීම් අවහිර කරන්න
+permissions-site-camera-disable-desc = ඉහත ලේඛනගත කර නැති අඩවි වලට ඔබගේ රූගතය වෙත ප්‍රවේශ වීමට අවසර නොදේ. මෙය අවහිර කිරීම නිසා ඇතැම් අඩවිවල විශේෂාංග නිසි අයුරින් ක්‍රියා නොකරනු ඇත.
 
 ## Site Permissions - Microphone
 
