@@ -1000,7 +1000,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } දත්ත රැස් කිරීම හා භාවිතය
-collection-description = අපි බොහෝ විට ඔබට තෝරාගැනීම් ලබා දීමට වෙහෙසෙන අතර සැමට { -brand-short-name } වැඩිදියුණු කිරීමට හා සැපයීමට අවශ්‍ය දෑ පමණක් එක්කාසු කරන්නෙමු. පෞද්ගලික තොරතුරු ලැබීමට පෙර ද සැමවිට අවසර ඉල්ලා සිටින්නෙමු.
+collection-description = අපි බොහෝ විට ඔබට තෝරාගැනීම් ලබා දීමට වෙහෙසෙන අතර සැමට { -brand-short-name } වැඩිදියුණු කිරීමට හා සැපයීමට අවශ්‍ය දෑ පමණක් රැස් කරන්නෙමු. පෞද්ගලික තොරතුරු ලැබීමට පෙර ද සැමවිට අවසර ඉල්ලා සිටින්නෙමු.
 collection-privacy-notice = පෞද්ගලිකත්‍ව දැන්වීම
 collection-health-report-telemetry-disabled-link = තව දැනගන්න
 collection-health-report =
