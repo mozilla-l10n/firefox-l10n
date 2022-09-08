@@ -49,6 +49,7 @@ source-file-description = 请选择文件导入通讯录、日历或配置文件
 file-profile2 = 导入备份配置文件
 file-profile-description = 选择以前备份的 Thunderbird 配置文件 (.zip)
 file-calendar = 导入日历
+file-calendar-description = 请选择包含导出日历或事件（.ics）的文件
 file-addressbook = 导入通讯录
 
 ## Import from app profile steps
@@ -69,11 +70,13 @@ profile-file-picker-archive = 选择 <strong>ZIP</strong> 文件
 profile-file-picker-archive-description = ZIP 文件必须小于 2GB。
 profile-file-picker-archive-title = 选择 ZIP 文件（小于 2GB）
 items-pane-title2 = 选择要导入的内容：
+items-pane-directory = 目录：
 items-pane-profile-name = 配置文件名称：
 items-pane-checkbox-accounts = 账户和设置
 items-pane-checkbox-address-books = 通讯录
 items-pane-checkbox-calendars = 日历
 items-pane-checkbox-mail-messages = 邮件消息
+items-pane-override = 任何现有或相同的数据都不会被覆盖。
 
 ## Import from address book file steps
 
@@ -86,6 +89,8 @@ addr-book-file-picker = 选择通讯录文件
 addr-book-csv-field-map-title = 匹配字段名称
 addr-book-csv-field-map-desc = 选择与来源字段对应的通讯录字段，可取消勾选不想导入的字段。
 addr-book-directories-pane-source = 源文件：
+# $addressBookName (string) - name of the address book to import into
+addr-book-summary-title = 将所选数据导入“{ $addressBookName }”目录
 
 ## Import from calendar file steps
 
@@ -105,6 +110,7 @@ progress-pane-importing2 = 导入中... { $progressPercent }
 progress-pane-exporting2 = 导出中… { $progressPercent }
 progress-pane-finished-desc2 = 完成。
 error-pane-title = 错误
+error-message-zip-file-too-big2 = 选择的 ZIP 文件大于 2GB。请先解压缩，然后从提取的文件夹中导入。
 error-message-failed = 导入意外失败，错误控制台中可能提供有更多信息。
 error-failed-to-parse-ics-file = 文件中未找到可导入项目。
 error-export-failed = 导入意外失败，错误控制台中可能提供更多信息。

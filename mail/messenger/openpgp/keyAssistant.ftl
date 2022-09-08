@@ -10,6 +10,7 @@ openpgp-key-assistant-recipients-issue-header = 无法加密
 
 ## Resolve section
 
+openpgp-key-assistant-valid-description = 请选择您要接受的密钥
 openpgp-key-assistant-no-key-available = 无可用密钥。
 openpgp-key-assistant-multiple-keys = 多个密钥可用。
 # Variables:
@@ -26,6 +27,8 @@ openpgp-key-assistant-key-source =
        *[other] 来源
     }
 openpgp-key-assistant-key-collected-attachment = 邮件附件
+# Autocrypt is the name of a standard.
+openpgp-key-assistant-key-collected-autocrypt = 自动加密头
 openpgp-key-assistant-key-collected-keyserver = 密钥服务器
 
 ## Discovery section
