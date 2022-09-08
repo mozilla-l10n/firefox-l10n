@@ -81,3 +81,10 @@ bar-tooltip-social =
             [one] සමාජ මාධ්‍ය ලුහුබැඳීම් { $count } ({ $percentage }%)
            *[other] සමාජ මාධ්‍ය ලුහුබැඳීම් { $count } ({ $percentage }%)
         }
+bar-tooltip-cookie =
+    .title = හරස්-අඩවි ලුහුබඳින දත්තකඩ
+    .aria-label =
+        { $count ->
+            [one] හරස්-අඩවි ලුහුබඳින දත්තකඩ { $count } ({ $percentage }%)
+           *[other] හරස්-අඩවි ලුහුබඳින දත්තකඩ { $count } ({ $percentage }%)
+        }

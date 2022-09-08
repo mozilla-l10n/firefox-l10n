@@ -19,8 +19,17 @@ webrtc-microphone-unmuted =
     .title = ශබ්දවාහිනිය අක්‍රිය කරන්න
 webrtc-microphone-muted =
     .title = ශබ්දවාහිනිය සක්‍රිය කරන්න
+webrtc-camera-unmuted =
+    .title = රූගතය අක්‍රිය කරන්න
+webrtc-camera-muted =
+    .title = රූගතය සක්‍රිය කරන්න
 webrtc-minimize =
     .title = දර්ශකය හකුළන්න
+# This string will display as a tooltip on supported systems where we show
+# device sharing state in the OS notification area. We do not use these strings
+# on macOS, as global menu bar items do not have native tooltips.
+webrtc-camera-system-menu =
+    .label = ඔබගේ රූගතය බෙදා ගැනෙමින්. එය පාලනයට ඔබන්න.
 webrtc-microphone-system-menu =
     .label = ඔබගේ ශබ්දවාහිනිය බෙදා ගැනෙමින්. එය පාලනයට ඔබන්න.
 webrtc-screen-system-menu =

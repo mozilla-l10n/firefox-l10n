@@ -50,6 +50,10 @@ options-screenshot-label = තිරසේයාව හැසිරීම
 options-screenshot-clipboard-only-label = තිර සේයාව පසුරු පුවරුවට පමණි
 options-screenshot-clipboard-tooltip2 =
     .title = තිරසේයාව සෘජුව පසුරුපුවරුවට සුරකියි
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = රූගතයෙහි සේයාරූ ශබ්දය වාදනය
+options-screenshot-audio-tooltip =
+    .title = තිරසේයාවක් ගන්නා විට රූගතයෙහි සේයාරූ ශබ්දය සබල කරයි
 
 ## Editor section
 
