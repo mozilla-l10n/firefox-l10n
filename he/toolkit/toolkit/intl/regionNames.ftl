@@ -62,6 +62,7 @@ region-name-cw = קוראסאו
 region-name-cx = אי קריסמס
 region-name-cy = קפריסין
 region-name-cz = הרפובליקה הצ׳כית
+region-name-cz-2019 = צ׳כיה
 region-name-de = גרמניה
 region-name-dg = דייגו גרסיה
 region-name-dj = ג׳יבוטי
