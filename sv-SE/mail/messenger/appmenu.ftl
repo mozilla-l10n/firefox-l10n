@@ -3,6 +3,66 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## New Account
+
+appmenu-new-account-panel-title =
+    .title = Nytt konto
+appmenu-new-account-panel =
+    .label = Nytt konto
+    .accesskey = N
+appmenu-create-new-mail-account =
+    .label = Skaffa en ny e-postadress
+    .accesskey = S
+appmenu-new-mail-account =
+    .label = Befintlig e-postadress
+    .accesskey = B
+appmenu-new-calendar =
+    .label = Kalender
+    .accesskey = K
+appmenu-new-chat-account =
+    .label = Chatt
+    .accesskey = C
+appmenu-new-newsgroup =
+    .label = Nyhetsgrupp
+    .accesskey = N
+
+## New Account / Address Book
+
+appmenu-newab-panel-title =
+    .title = Ny adressbok
+appmenu-newab-panel =
+    .label = Ny adressbok
+    .accesskey = a
+appmenu-new-addressbook =
+    .label = Lokal adressbok
+    .accesskey = L
+appmenu-new-carddav =
+    .label = CardDav-adressbok
+    .accesskey = C
+appmenu-new-ldap =
+    .label = LDAP-adressbok
+    .accesskey = L
+
+## Create
+
+appmenu-create-panel-title =
+    .title = Skapa
+appmenu-create-panel =
+    .label = Skapa
+    .accesskey = S
+appmenu-create-message =
+    .label = Meddelande
+    .accesskey = M
+appmenu-create-event =
+    .label = Händelse
+    .accesskey = H
+appmenu-create-task =
+    .label = Uppgift
+    .accesskey = U
+appmenu-create-contact =
+    .label = Kontakt
+    .accesskey = K
+
 ## View / Layout
 
 appmenu-font-size-value = Textstorlek
@@ -65,9 +125,9 @@ appmenu-help-get-involved =
 appmenu-help-donation =
     .label = Gör en donation
     .accesskey = d
-appmenu-help-feedback =
-    .label = Skicka feedback och idéer
-    .accesskey = f
+appmenu-help-share-feedback =
+    .label = Dela idéer och feedback
+    .accesskey = D
 appmenu-help-enter-troubleshoot-mode2 =
     .label = Felsökningsläge…
     .accesskey = F
