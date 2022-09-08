@@ -66,3 +66,4 @@ experimental-features-text-recognition =
 experimental-features-text-recognition-description = Slå på funksjoner for å gjenkjenne tekst i bilder.
 experimental-features-accessibility-cache =
     .label = Tilgjengelighetshurtiglager
+experimental-features-accessibility-cache-description = Hurtiglagrer all tilgjengelighetsinformasjon fra alle dokumenter i { -brand-short-name }-hovedprosessen. Dette forbedrer ytelsen for skjermlesere og andre applikasjoner som bruker tilgjengelighets-APIer.

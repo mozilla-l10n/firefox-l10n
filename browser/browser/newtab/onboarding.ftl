@@ -261,6 +261,12 @@ mr2022-onboarding-secondary-skip-button-label = Hopp over dette trinnet
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Behold { -brand-short-name } i Dock
+       *[other] Fest { -brand-short-name } til oppgavelinjen
+    }
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -281,9 +287,40 @@ mr2022-onboarding-secondary-skip-button-label = Hopp over dette trinnet
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-primary-button-label = Velg fargesammensetting
+mr2022-onboarding-existing-colorway-checkbox-label = Gjør { -firefox-home-brand-name } til din fargerike startside
+mr2022-onboarding-colorway-label-default = Standard
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Standard
+mr2022-onboarding-colorway-label-playmaker = Spiller
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Spiller
+mr2022-onboarding-colorway-description-playmaker = <b>Du er en spiller.</b> Du skaper muligheter til å vinne og hjelper alle rundt deg med å heve spillet sitt.
+mr2022-onboarding-colorway-label-expressionist = Ekspresjonistisk
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Ekspresjonistisk
+mr2022-onboarding-colorway-description-expressionist = <b>Du er en ekspresjonist.</b> Du ser verden annerledes og kreasjonene dine vekker andres følelser.
+mr2022-onboarding-colorway-label-visionary = Visjonær
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Visjonær
+mr2022-onboarding-colorway-description-visionary = <b>Du er en visjonær.</b> Du stiller spørsmål ved status quo og får andre til å forestille seg en bedre fremtid.
+mr2022-onboarding-colorway-label-activist = Aktivist
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Aktivist
+mr2022-onboarding-colorway-description-activist = <b>Du er en aktivist.</b> Du engasjerer deg for å gjøre verden bedre, og du får andre med deg.
+mr2022-onboarding-colorway-label-dreamer = Drømmer
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Drømmer
+mr2022-onboarding-colorway-description-dreamer = <b>Du er en drømmer.</b> Du tror at formue favoriserer de dristige og inspirerer andre til å være modige.
+mr2022-onboarding-colorway-label-innovator = Innovatør
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Innovatør
+mr2022-onboarding-colorway-description-innovator = <b>Du er en innovatør.</b> Du ser muligheter overalt og påvirker livene til alle rundt deg.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-cta-text = Skann QR-koden for å få { -brand-product-name } for mobil eller <a data-l10n-name="download-label">send deg selv en nedlastingslenke.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Skann QR-koden for å få { -brand-product-name } for mobil
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -291,6 +328,11 @@ mr2022-onboarding-secondary-skip-button-label = Hopp over dette trinnet
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Vis detaljert informasjon
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Du hjelper oss med å bygge et bedre internett.
+mr2022-onboarding-gratitude-subtitle = Takk for at du bruker { -brand-short-name }, støttet av Mozilla Foundation. Med din støtte jobber vi for å gjøre internett mer åpent, tilgjengelig og bedre for alle.
+mr2022-onboarding-gratitude-primary-button-label = Se hva som er nytt
+mr2022-onboarding-gratitude-secondary-button-label = Begynn å surfe
