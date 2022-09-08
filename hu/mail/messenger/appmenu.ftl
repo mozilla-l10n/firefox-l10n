@@ -5,12 +5,66 @@
 
 ## New Account
 
+appmenu-new-account-panel-title =
+    .title = Új fiók
+appmenu-new-account-panel =
+    .label = Új fiók
+    .accesskey = j
+appmenu-create-new-mail-account =
+    .label = Új e-mail-cím szerzése
+    .accesskey = s
+appmenu-new-mail-account =
+    .label = Meglévő e-mail-cím
+    .accesskey = M
+appmenu-new-calendar =
+    .label = Naptár
+    .accesskey = N
+appmenu-new-chat-account =
+    .label = Csevegés
+    .accesskey = C
+appmenu-new-feed =
+    .label = Hírforrások
+    .accesskey = H
+appmenu-new-newsgroup =
+    .label = Hírcsoport
+    .accesskey = r
 
 ## New Account / Address Book
 
+appmenu-newab-panel-title =
+    .title = Új címjegyzék
+appmenu-newab-panel =
+    .label = Új címjegyzék
+    .accesskey = j
+appmenu-new-addressbook =
+    .label = Helyi címjegyzék
+    .accesskey = H
+appmenu-new-carddav =
+    .label = CardDav-címjegyzék
+    .accesskey = C
+appmenu-new-ldap =
+    .label = LDAP-címjegyzék
+    .accesskey = L
 
 ## Create
 
+appmenu-create-panel-title =
+    .title = Létrehozás
+appmenu-create-panel =
+    .label = Létrehozás
+    .accesskey = L
+appmenu-create-message =
+    .label = Üzenet
+    .accesskey = z
+appmenu-create-event =
+    .label = Esemény
+    .accesskey = E
+appmenu-create-task =
+    .label = Feladat
+    .accesskey = F
+appmenu-create-contact =
+    .label = Névjegy
+    .accesskey = N
 
 ## View / Layout
 
