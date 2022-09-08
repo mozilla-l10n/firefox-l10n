@@ -275,6 +275,8 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Näytä lisäosat
+quickactions-cmd-addons = lisäosat, laajennukset, teemat
+quickactions-cmd-addons2 = lisäosat
 # Opens the bookmarks library window
 quickactions-bookmarks = Näytä kirjanmerkit
 quickactions-cmd-bookmarks = kirjanmerkit
@@ -286,8 +288,14 @@ quickactions-downloads = Avaa lataukset
 quickactions-cmd-downloads = lataukset
 # Opens about:addons page in the extensions section
 quickactions-extensions = Hallitse laajennuksia
+quickactions-cmd-extensions = laajennukset
+quickactions-cmd-inspector = tarkastaja, inspector, devtools
 # Opens about:logins
 quickactions-logins = Näytä kirjautumistiedot
+quickactions-cmd-logins = käyttäjätunnukset, salasanat
+# Opens about:addons page in the plugins section
+quickactions-plugins = Hallitse liitännäisiä
+quickactions-cmd-plugins = liitännäiset
 # Opens the print dialog
 quickactions-print = Tulosta
 quickactions-cmd-print = tulosta
@@ -298,14 +306,18 @@ quickactions-cmd-private = yksityinen selaus
 quickactions-restart = Käynnistä { -brand-short-name } uudelleen
 # Opens the screenshot tool
 quickactions-screenshot2 = Ota kuvakaappaus
+quickactions-cmd-screenshot = kuvakaappaus
 # Opens about:preferences
 quickactions-settings = Avaa asetukset
+quickactions-cmd-settings = asetukset, valinnat
 # Opens about:addons page in the themes section
 quickactions-themes = Hallitse teemoja
+quickactions-cmd-themes = teemat
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Päivitä { -brand-short-name }
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Näytä lähdekoodi
+quickactions-cmd-viewsource = näytä lähde, lähdekoodi
 
 ## Bookmark Panel
 
