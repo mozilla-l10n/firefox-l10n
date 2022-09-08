@@ -3,6 +3,69 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## New Account
+
+appmenu-new-account-panel-title =
+    .title = Νέος λογαριασμός
+appmenu-new-account-panel =
+    .label = Νέος λογαριασμός
+    .accesskey = Ν
+appmenu-create-new-mail-account =
+    .label = Απόκτηση νέου email
+    .accesskey = Α
+appmenu-new-mail-account =
+    .label = Υπάρχον email
+    .accesskey = Υ
+appmenu-new-calendar =
+    .label = Ημερολόγιο
+    .accesskey = Η
+appmenu-new-chat-account =
+    .label = Συνομιλία
+    .accesskey = Σ
+appmenu-new-feed =
+    .label = Ροή
+    .accesskey = Ρ
+appmenu-new-newsgroup =
+    .label = Ομάδες συζητήσεων
+    .accesskey = Ο
+
+## New Account / Address Book
+
+appmenu-newab-panel-title =
+    .title = Νέο ευρετήριο
+appmenu-newab-panel =
+    .label = Νέο ευρετήριο
+    .accesskey = ε
+appmenu-new-addressbook =
+    .label = Τοπικό ευρετήριο
+    .accesskey = Τ
+appmenu-new-carddav =
+    .label = Ευρετήριο CardDav
+    .accesskey = C
+appmenu-new-ldap =
+    .label = Ευρετήριο LDAP
+    .accesskey = L
+
+## Create
+
+appmenu-create-panel-title =
+    .title = Δημιουργία
+appmenu-create-panel =
+    .label = Δημιουργία
+    .accesskey = Δ
+appmenu-create-message =
+    .label = Μήνυμα
+    .accesskey = Μ
+appmenu-create-event =
+    .label = Εκδήλωση
+    .accesskey = Ε
+appmenu-create-task =
+    .label = Εργασία
+    .accesskey = γ
+appmenu-create-contact =
+    .label = Επαφή
+    .accesskey = Ε
+
 ## View / Layout
 
 appmenu-font-size-value = Μέγεθος γραμματοσειράς
@@ -65,9 +128,9 @@ appmenu-help-get-involved =
 appmenu-help-donation =
     .label = Πραγματοποίηση δωρεάς
     .accesskey = γ
-appmenu-help-feedback =
-    .label = Υποβολή σχολίων και ιδεών
-    .accesskey = Υ
+appmenu-help-share-feedback =
+    .label = Κοινοποίηση ιδεών και σχολίων
+    .accesskey = Κ
 appmenu-help-enter-troubleshoot-mode2 =
     .label = Λειτουργία επίλυσης προβλημάτων…
     .accesskey = Λ
