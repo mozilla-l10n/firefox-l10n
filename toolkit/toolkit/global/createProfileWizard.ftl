@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 create-profile-window =
-    .title = පැතිකඩ පිහිටුවනය සාදන්න
+    .title = පැතිකඩ සංනයනයක් සාදන්න
     .style = width: 45em; height: 32em;
 
 ## First wizard page
@@ -27,7 +27,7 @@ profile-creation-explanation-4 =
 create-profile-last-page-header =
     { PLATFORM() ->
         [macos] අවසානය
-       *[other] { create-profile-window.title } අවසන් වෙමින් තිබේ
+       *[other] { create-profile-window.title } සම්පූර්ණ වෙමින් තිබේ
     }
 profile-creation-intro = ඔබ පැතිකඩ කිහිපයක් සාදන්නේ නම්, ඒවා පැතිකඩ නම් වලින් වෙන්කර හඳුනාගත හැකිය. ඔබට මෙහි සපයා ඇති නම හෝ ඔබගේම එකක් භාවිතා කිරීමට හැකිය.
 profile-prompt = නව පැතිකඩ නාමය යොදන්න:
