@@ -1095,6 +1095,12 @@ addon-recommendations-link = Les mer
 collection-health-report-disabled = Datarapportering er deaktivert for denne byggekonfigurasjonen
 collection-backlogged-crash-reports-with-link = Tillat { -brand-short-name } å sende etterslepne krasjrapporter på dine vegne <a data-l10n-name="crash-reports-link">Les mer</a>
     .accesskey = T
+privacy-segmentation-section-header = Nye funksjoner som forbedrer surfingen din
+privacy-segmentation-section-description = Når vi tilbyr funksjoner som bruker dine data for å gi deg en mer personlig opplevelse:
+privacy-segmentation-radio-off =
+    .label = Bruk { -brand-product-name }-anbefalinger
+privacy-segmentation-radio-on =
+    .label = Vis detaljert informasjon
 
 ## Privacy Section - Security
 ##
