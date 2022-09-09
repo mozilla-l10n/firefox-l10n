@@ -275,6 +275,11 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Conserver { -brand-short-name } dans le Dock
        *[other] Épingler { -brand-short-name } à la barre des tâches
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Commencez par un navigateur soutenu par une organisation à but non lucratif. Nous défendons votre vie privée pendant que vous naviguez sur le Web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -285,6 +290,7 @@ mr2022-onboarding-existing-pin-subtitle = Accédez à un Internet plus sain où 
 # Subtitle will be used on the welcome screen for existing users
 # when they already have Firefox pinned but not set as default
 mr2022-onboarding-existing-set-default-only-subtitle = Utilisez un navigateur qui défend votre vie privée pendant que vous naviguez sur le Web. Notre dernière mise à jour regorge de choses que vous allez adorer.
+mr2022-onboarding-existing-pin-checkbox-label = Ajoutez également la navigation privée { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
 
@@ -316,6 +322,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importer depuis u
 ## help creating a more inclusive translation.
 
 mr2022-onboarding-colorway-title = Choisissez la couleur qui vous inspire
+mr2022-onboarding-colorway-subtitle = Des voix indépendantes peuvent changer une culture.
 mr2022-onboarding-colorway-primary-button-label = Choisir ce coloris
 mr2022-onboarding-existing-colorway-checkbox-label = Faites de la { -firefox-home-brand-name } votre page d’accueil colorée
 mr2022-onboarding-colorway-label-default = Par défaut
@@ -357,6 +364,11 @@ mr2022-onboarding-no-mobile-download-cta-text = Scannez le code QR pour installe
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Conserver la navigation privée de { -brand-short-name } dans le Dock
+       *[other] Épingler la navigation privée de { -brand-short-name } à la barre des tâches
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
