@@ -4,22 +4,18 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
-
 copy =
     .key = C
 menu-copy =
     .label = কপি কৰক
     .accesskey = C
-
 select-all =
     .key = A
 menu-select-all =
     .label = সকলো বাছক
     .accesskey = A
-
 close-dialog =
     .key = w
-
 general-tab =
     .label = সাধাৰণ
     .accesskey = G
@@ -43,7 +39,6 @@ general-meta-name =
     .label = নাম
 general-meta-content =
     .label = বিষয়বস্তু
-
 media-tab =
     .label = মাধ্যম
     .accesskey = M
@@ -71,13 +66,11 @@ media-save-as =
 media-save-image-as =
     .label = এই ধৰণে সংৰক্ষণ কৰক…
     .accesskey = e
-
 perm-tab =
     .label = অনুমতিসমূহ
     .accesskey = P
 permissions-for =
     .value = চিহ্নিত কাৰ্য্যৰ বাবে অনুমতি:
-
 security-tab =
     .label = সুৰক্ষা
     .accesskey = S
@@ -98,22 +91,17 @@ security-view-identity-validity =
     .value = ম্যাদ উকলিব:
 security-view-privacy =
     .value = গোপনীয়তা আৰু ইতিহাস
-
 security-view-privacy-history-value = আজিৰ পূৰ্বে মই এই ৱেব ছাইটত আহিছো নে?
 security-view-privacy-sitedata-value = এই ৱেবছাইটটোৱে মোৰ কম্পিউটাৰত তথ্য সঞ্চয় কৰি আছে নেকি?
-
 security-view-privacy-clearsitedata =
-    .label = কুকিজ আৰু ছাইট ডাটা পৰিষ্কাৰ কৰক
+    .label = কুকীজ আৰু ছাইট ডাটা পৰিষ্কাৰ কৰক
     .accesskey = C
-
 security-view-privacy-passwords-value = এই ৱেব ছাইটৰ বাবে মই কোনো পাছৱৰ্ড সংৰক্ষণ কৰিছোঁ নে?
-
 security-view-privacy-viewpasswords =
     .label = সংৰক্ষিত পাছৱৰ্ড চাওক
     .accesskey = w
 security-view-technical =
     .value = কাৰিকৰী বিৱৰণসমূহ
-
 help-button =
     .label = সহায়
 
@@ -123,10 +111,9 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
-security-site-data-cookies = হয়, কুকিজ আৰু ছাইট ডাটাৰ { $value } { $unit }
+security-site-data-cookies = হয়, কুকীজ আৰু ছাইট ডাটাৰ { $value } { $unit }
 security-site-data-only = হয়, ছাইট ডাটাৰ { $value } { $unit }
-
-security-site-data-cookies-only = হয়, কুকিজ
+security-site-data-cookies-only = হয়, কুকীজ
 security-site-data-no = নহয়
 
 ##
@@ -149,7 +136,6 @@ media-video = ভিডিঅ'
 media-audio = অডিঅ'
 saved-passwords-yes = হয়
 saved-passwords-no = নহয়
-
 no-page-title =
     .value = নামহীন পৃষ্ঠা:
 general-quirks-mode =
@@ -164,7 +150,6 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = অবিকল্পিত ব্যৱহাৰ কৰক
 security-no-visits = নহয়
-
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -175,7 +160,6 @@ general-meta-tags =
             [one] মেটা (1টা টেগ)
            *[other] মেটা ({ $tags }টা টেগ)
         }
-
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -186,7 +170,6 @@ security-visits-number =
         [one] হয়, এবাৰ
        *[other] হয়, { $visits }বাৰ
     }
-
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -197,7 +180,6 @@ properties-general-size =
             [one] { $kb } KB ({ $bytes } বাইট)
            *[other] { $kb } KB ({ $bytes } বাইট)
         }
-
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -209,14 +191,12 @@ media-animated-image-type =
             [one] { $type } ছবি (এনিমেটেড, { $frames }টা ফ্ৰেম)
            *[other] { $type } ছবি (এনিমেটেড, { $frames }টা ফ্ৰেম)
         }
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } ছবি
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -226,20 +206,17 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px ({ $scaledx }px × { $scaledy }px লে স্কেইল্ড)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
-
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -247,11 +224,10 @@ media-file-size = { $size } KB
 media-block-image =
     .label = { $website } ৰ পৰা ছবি প্ৰতিৰোধ কৰক
     .accesskey = B
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
-#   $website (string) - The url of the website pageInfo is getting info for
+#   $website (string) — The url of the website pageInfo is getting info for
 page-info-page =
     .title = পৃষ্ঠাৰ তথ্য - { $website }
 page-info-frame =

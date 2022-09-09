@@ -10,15 +10,14 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-Cookies = ৱেবছাইটবোৰক কুকীজ ছেট কৰাৰ অনুমতি দিয়ক বা নাচক কৰক।
+
 ## Do not translate "SameSite", it's the name of a cookie attribute.
+
 
 ##
 
 policy-LocalFileLinks = নিৰ্দিষ্ট ৱেবছাইটসমূহক স্থানীয় ফাইললৈ লিংক কৰাৰ অনুমতি দিয়ক।
-
 policy-NetworkPrediction = নেটৱৰ্ক আগজাননী (DNS প্ৰিফেট্‌চিং) সক্ৰিয় বা নিষ্ক্ৰিয় কৰক।
-
 policy-NewTabPage = নতুন টেব পৃষ্ঠা সক্ৰিয় বা নিষ্ক্ৰিয় কৰক।
-
 policy-SupportMenu = সহায় মেন্যুত অনুকূল সমৰ্থন মেন্যু আইটেম যোগ কৰক।
-
