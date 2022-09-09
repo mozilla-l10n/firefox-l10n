@@ -12,3 +12,5 @@ colorway-collection-independent-voices-short-description = සංස්කෘත
 
 ## Colorway names and descriptions
 
+dreamer-colorway-name = සිහින දකින්නා
+innovator-colorway-name = නවෝත්පාදකයා
