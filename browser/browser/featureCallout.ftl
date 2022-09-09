@@ -12,3 +12,4 @@ callout-primary-complete-button-label = තේරුණා!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = පටිති ඇහිඳීම සමඟ උපාංග අතර පනින්න
+callout-firefox-view-colorways-title = වර්ණ කැලතීමක් යොදන්න
