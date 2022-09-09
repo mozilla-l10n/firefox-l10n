@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = উইজাৰ্ড ইমপোৰ্ট কৰক
-
 import-from =
     { PLATFORM() ->
         [windows] ইয়াৰ পৰা বিকল্প, পত্ৰচিহ্ন, ইতিহাস, পাছৱৰ্ড আৰু অন্য তথ্যৰ আমদানি কৰক:
        *[other] ইয়াৰ পৰা পছন্দ, পত্ৰচিহ্ন, ইতিহাস, পাছৱৰ্ড আৰু অন্য তথ্যৰ আমদানি কৰক:
     }
-
 import-from-bookmarks = ইয়াৰ পৰা পত্ৰচিহ্ন ইমপোৰ্ট কৰক:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -51,32 +49,20 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-
 no-migration-sources = পত্ৰচিহ্ন, ইতিহাস বা পাছৱৰ্ডৰ তথ্য থকা কোনো এপ্লিকেচন পোৱা ন'গ'ল।
-
 import-source-page-title = পছন্দ আৰু তথ্য ইমপোৰ্ট কৰক
 import-items-page-title = ইমপোৰ্ট কৰিব লগা বস্তু
-
 import-items-description = ইমপোৰ্ট কৰিব লগা বস্তু বাছক:
-
 import-permissions-page-title = অনুগ্ৰহ কৰি { -brand-short-name }-ক অনুমতি দিয়ক
-
 import-migrating-page-title = ইমপোৰ্ট কৰা হৈছে...
-
 import-migrating-description = নিম্নলিখিত বস্তু বৰ্ত্তমানে ইমপোৰ্ট কৰা হৈছে...
-
 import-select-profile-page-title = আলেখ্য বাছক
-
 import-select-profile-description = ৰ পৰা নিম্নলিখিত আলেখ্য ইমপোৰ্ট কৰিবলৈ পোৱা যায়:
-
 import-done-page-title = ইমপোৰ্ট সম্পূৰ্ণ হ'ল
-
 import-done-description = নিম্নলিখিত বস্তু সফলভাবে ইমপোৰ্ট কৰা হ'ল:
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-
 imported-safari-reading-list = পঢ়াৰ তালিকা (Safari ৰ পৰা)
 imported-edge-reading-list = পঢ়া তালিকা (Edge-ৰ)
 
@@ -95,10 +81,9 @@ imported-edge-reading-list = পঢ়া তালিকা (Edge-ৰ)
 ## normalized to just "edge" and "chrome" for these strings.
 
 browser-data-cookies-checkbox =
-    .label = কুকিজ
+    .label = কুকীজ
 browser-data-cookies-label =
-    .value = কুকিজ
-
+    .value = কুকীজ
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -111,12 +96,10 @@ browser-data-history-label =
             [firefox] ব্ৰাউজিঙৰ ইতিহাস আৰু বুকমাৰ্কসমূহ
            *[other] ব্ৰাউজিঙৰ ইতিহাস
         }
-
 browser-data-formdata-checkbox =
     .label = ইতিহাসৰ পৰা সাঁচি থোৱা
 browser-data-formdata-label =
     .value = ইতিহাসৰ পৰা সাঁচি থোৱা
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -125,12 +108,10 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = সাঁচি থোৱা লগইন আৰু পাছৱৰ্ডসমূহ
-
 browser-data-otherdata-checkbox =
     .label = অন্য ডেটা
 browser-data-otherdata-label =
     .label = অন্য ডেটা
-
 browser-data-session-checkbox =
     .label = উইণ্ড' আৰু টেববোৰ
 browser-data-session-label =

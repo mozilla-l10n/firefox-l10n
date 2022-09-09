@@ -26,6 +26,6 @@ panic-button-day =
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
 panic-button-action-desc = আগবাঢ়িলে নিম্নলিখিত কাৰ্য্য কৰা হব:
-panic-button-delete-cookies = শেহতীয়া <strong>কুকিজ</strong> মচি পেলাওক
+panic-button-delete-cookies = শেহতীয়া <strong>কুকীজ</strong> মচি পেলাওক
 panic-button-delete-history = শেহতীয়া <strong>ইতিহাস</strong> মচি পেলাওক
 panic-button-delete-tabs-and-windows = সকলো <strong>টেব</strong> আৰু <strong>উইণ্ড'</strong> বন্ধ কৰক
