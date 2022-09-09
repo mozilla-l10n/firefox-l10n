@@ -196,6 +196,7 @@ mr2-onboarding-default-theme-label = පෙරනිමි තේමා ගව�
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = අපිව තෝරා ගැනීමට තුති
+mr2-onboarding-thank-you-text = { -brand-short-name } යනු ලාභ නොලබන ස්වාධීන අතිරික්සුවකි. අපි වියමන ආරක්‍ෂිත, යහපත් හා වඩාත් පෞද්ගලික කරන්නෙමු.
 mr2-onboarding-start-browsing-button-label = පිරික්සුම අරඹන්න
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)
@@ -249,6 +250,8 @@ mr2022-onboarding-secondary-skip-button-label = පියවර මඟ හරි
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = තනි එබීමකින් ඕනෑම තැනක සිට { -brand-short-name } දියත් කරන්න. එම සෑම අවස්ථාවකම, ඔබ වඩාත් විවෘත සහ ස්වාධීන වියමනක් තෝරා ගනියි.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -283,6 +286,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = කලින් �
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-subtitle = ස්වාධීන හඬ සංස්කෘතියට බලපායි.
 mr2022-onboarding-colorway-primary-button-label = වර්ණ පරාසය සකසන්න
 mr2022-onboarding-colorway-label-default = පෙරනිමි
 mr2022-onboarding-colorway-tooltip-default =
