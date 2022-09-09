@@ -5,12 +5,60 @@
 
 ## New Account
 
+appmenu-new-account-panel-title =
+    .title = Nove conto
+appmenu-new-account-panel =
+    .label = Nove conto
+    .accesskey = N
+appmenu-new-calendar =
+    .label = Agenda
+    .accesskey = A
+appmenu-new-chat-account =
+    .label = Chat
+    .accesskey = h
+appmenu-new-feed =
+    .label = Fluxos
+    .accesskey = F
+appmenu-new-newsgroup =
+    .label = Gruppo de discussion
+    .accesskey = G
 
 ## New Account / Address Book
 
+appmenu-newab-panel-title =
+    .title = Nove libro del adresses
+appmenu-newab-panel =
+    .label = Nove libro del adresses
+    .accesskey = a
+appmenu-new-addressbook =
+    .label = Libro de adresses local
+    .accesskey = l
+appmenu-new-carddav =
+    .label = Libro del adresses CardDav
+    .accesskey = C
+appmenu-new-ldap =
+    .label = Libro del adresses LDAP
+    .accesskey = L
 
 ## Create
 
+appmenu-create-panel-title =
+    .title = Crear
+appmenu-create-panel =
+    .label = Crear
+    .accesskey = C
+appmenu-create-message =
+    .label = Message
+    .accesskey = M
+appmenu-create-event =
+    .label = Evento
+    .accesskey = E
+appmenu-create-task =
+    .label = Activitate
+    .accesskey = A
+appmenu-create-contact =
+    .label = Contacto
+    .accesskey = C
 
 ## View / Layout
 
