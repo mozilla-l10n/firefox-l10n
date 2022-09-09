@@ -71,13 +71,36 @@ info-known-breaches-resolved =
         [one] දන්නා දත්ත උල්ලංඝනය විසඳා ඇති බව යෙදිණි
        *[other] දන්නා දත්ත උල්ලංඝන විසඳා ඇති බව යෙදිණි
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] සියළුම උල්ලංඝන වලිින් නිරාවරණය වූ මුරපද
+       *[other] සියළුම උල්ලංඝන වලිින් නිරාවරණය වූ මුරපද
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] නොවිසඳුණු උල්ලංඝන වලිින් නිරාවරණය වූ මුරපද
+       *[other] නොවිසඳුණු උල්ලංඝන වලිින් නිරාවරණය වූ මුරපද
+    }
 monitor-no-breaches-title = ශුභාරංචියකි!
+monitor-no-breaches-description = ඔබ දන්නා උල්ලංඝන කිසිවක් නැත. වෙනස් වුවහොත්, අපි ඔබට දන්වන්නෙමු.
+monitor-view-report-link = වාර්තාව බලන්න
+    .title = { -monitor-brand-short-name } හි උල්ලංඝන විසඳන්න
+monitor-breaches-unresolved-title = ඔබගේ උල්ලංඝන විසඳන්න
+monitor-breaches-resolved-title = නියමයි! ඔබ දන්නා සියළුම උල්ලංඝන විසඳා ඇත.
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% සම්පූර්ණයි
 monitor-partial-breaches-motivation-title-start = නියම ආරම්භයක්!
 monitor-partial-breaches-motivation-title-middle = පවත්වා ගෙන යන්න!
 monitor-partial-breaches-motivation-title-end = බොහෝ දුරට නිමයි! ඉදිරියට.
+monitor-resolve-breaches-link = උල්ලංඝන විසඳන්න
+    .title = { -monitor-brand-short-name } හි උල්ලංඝන විසඳන්න
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
