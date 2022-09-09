@@ -169,6 +169,7 @@ confirm-discard-changes-dialog-confirm-button = ඉවතලන්න
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = අඩවියක් උල්ලංඝනයකි
 breach-alert-text = ඔබ අවසන් වරට පිවිසුම් තොරතුරු යාවත්කාල කළ දිනට පසු මෙම වියමන අඩවියෙන් මුරපද කාන්දු වී හෝ සොරකම් කර ඇත. ඔබගේ ගිණුම ආරක්‍ෂා කර ගැනීමට මුරපදය වෙනස් කරන්න.
 about-logins-breach-alert-date = මෙම උල්ලංඝනය සිදු වූයේ { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
