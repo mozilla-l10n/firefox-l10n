@@ -54,7 +54,7 @@ firefoxview-pickup-tabs-badge = අවසන සක්‍රිය
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = නව පටිත්තකින් { $targetURI } අරින්න
-firefoxview-try-colorways-button = වර්ණ පරාසය ගන්න
+firefoxview-try-colorways-button = වර්ණ පරාස ගන්න
 firefoxview-no-current-colorway-collection = නව වර්ණ පරාස පැමිණෙමින් තිබේ
 firefoxview-change-colorway-button = වර්ණ පරාසය සංශෝධනය
 # Variables:

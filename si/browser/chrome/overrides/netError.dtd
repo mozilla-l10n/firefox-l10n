@@ -83,6 +83,11 @@
 </ul>
 ">
 
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>මෙම ගැටළුව සමහර විට දත්තකඩ පිළිගැනීම අබල කිරීම හෝ අහක දැමීම නිසා විය හැකිය.</li>
+</ul>
+">
 
 
 <!ENTITY nssFailure2.longDesc2 "

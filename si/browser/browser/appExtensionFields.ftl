@@ -22,7 +22,7 @@ extension-firefox-alpenglow-description = බොත්තම්, වට්ටෝ
 ##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
 
 extension-colorways-soft-name = { $colorway-name } — මෘදු
-extension-colorways-balanced-name = { $colorway-name } — සමතුලිත
+extension-colorways-balanced-name = { $colorway-name } — සංතුලිත
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 extension-colorways-bold-name = { $colorway-name } — තද
