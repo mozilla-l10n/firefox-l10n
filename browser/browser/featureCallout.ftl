@@ -13,3 +13,5 @@ callout-primary-complete-button-label = තේරුණා!
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = පටිති ඇහිඳීම සමඟ උපාංග අතර පනින්න
 callout-firefox-view-colorways-title = වර්ණ කැලතීමක් යොදන්න
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = වර්ණ පරාස සමඟ ඔබට කතා කරන ඡායාව තෝරන්න. { -brand-product-name } හි පමණි.
