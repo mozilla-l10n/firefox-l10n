@@ -63,6 +63,14 @@ info-monitored-emails =
         [one] වි-තැපෑල නිරීක්‍ෂණය කෙරේ
        *[other] වි-තැපැල් ලිපින නිරීක්‍ෂණය කෙරේ
     }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] දන්නා දත්ත උල්ලංඝනය විසඳා ඇති බව යෙදිණි
+       *[other] දන්නා දත්ත උල්ලංඝන විසඳා ඇති බව යෙදිණි
+    }
 monitor-no-breaches-title = ශුභාරංචියකි!
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
