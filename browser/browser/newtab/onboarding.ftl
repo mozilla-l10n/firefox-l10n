@@ -10,7 +10,7 @@
 
 ## Welcome page strings
 
-onboarding-welcome-header = { -brand-short-name } වෙත සාදරයෙන් පිළිගනිමු
+onboarding-welcome-header = { -brand-short-name } වෙත පිළිගනිමු
 onboarding-start-browsing-button-label = පිරික්සීම අරඹන්න
 onboarding-not-now-button-label = දැන් නොවේ
 
@@ -71,7 +71,7 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = පටන් ගන්න
-mr1-onboarding-welcome-header = { -brand-short-name } වෙත සාදරයෙන් පිළිගනිමු
+mr1-onboarding-welcome-header = { -brand-short-name } වෙත පිළිගනිමු
 mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } ප්‍රාථමික අතිරික්සුව කරන්න
     .title = මූලික අතිරික්සුව ලෙස { -brand-short-name } සකසයි හා කාර්ය තීරුවට අමුණයි
 # This string will be used on welcome page primary button label

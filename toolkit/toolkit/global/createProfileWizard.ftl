@@ -11,7 +11,7 @@ create-profile-window =
 create-profile-first-page-header =
     { PLATFORM() ->
         [macos] හැඳින්වීම
-       *[other] { create-profile-window.title } වෙත සාදරයෙන් පිළිගනිමු
+       *[other] { create-profile-window.title } වෙත පිළිගනිමු
     }
 profile-creation-explanation-1 = ඔබගේ පෞද්ගලික පැතිකඩ තුළ { -brand-short-name } විසින් ඔබගේ සැකසුම් හා අභිප්‍රේත ගබඩා කෙරේ.
 profile-creation-explanation-2 = ඔබ මෙම { -brand-short-name } පිටපත තවත් අය සමඟ හවුලේ භාවිතා කරයි නම්, පරිශීලක තොරතුරු වෙන්ව තබා ගැනීම සඳහා ඔබට පැතිකඩ භාවිතා කළ හැකිය. ඒ සඳහා සෑම අයෙක්ම තමන්ගේ පැතිකඩක් සෑදිය යුතුය.
