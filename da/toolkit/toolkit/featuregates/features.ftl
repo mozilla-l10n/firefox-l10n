@@ -66,3 +66,4 @@ experimental-features-text-recognition =
 experimental-features-text-recognition-description = Aktiver funktioner til at genkende tekst i billeder.
 experimental-features-accessibility-cache =
     .label = Tilgængeligheds-cache
+experimental-features-accessibility-cache-description = Cachelagrer alle tilgængelighedsoplysninger fra alle dokumenter i { -brand-short-name }' hovedproces. Dette forbedrer ydelse for skærmlæsere og andre applikationer, der bruger tilgængeligheds-API'er.
