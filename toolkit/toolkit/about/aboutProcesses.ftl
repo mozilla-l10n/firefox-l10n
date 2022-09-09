@@ -122,6 +122,9 @@ about-processes-frame-name-many = Subframes ({ $number }): { $shortUrl }
 about-processes-utility-actor-unknown = Ukendt aktør
 about-processes-utility-actor-audio-decoder = Lyd-dekoder
 about-processes-utility-actor-audio-decoder-generic = Generisk lyd-dekoder
+about-processes-utility-actor-audio-decoder-applemedia = Apple Media-lyd-dekoder
+about-processes-utility-actor-audio-decoder-wmf = Windows Media Framework-lyd-dekoder
+about-processes-utility-actor-mf-media-engine = Windows Media Foundation Media Engine CDM
 
 ## Displaying CPU (percentage and total)
 ## Variables:
