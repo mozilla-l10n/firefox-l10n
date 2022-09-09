@@ -153,6 +153,11 @@ about-logins-confirm-remove-all-dialog-title =
         [one] පිවිසුම ඉවතලන්නද?
        *[other] පිවිසුම් { $count } ඉවතලන්නද?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] මෙය ඔබ { -brand-short-name } වෙත සුරකින ලද පිවිසුම සහ මෙහි දිස්වන සියළුම උල්ලංඝන ඇඟවීම් ඉවත් කරයි. මෙම ක්‍රියාමාර්ගය අප්‍රතිවර්ත්‍යයි.
+       *[other] මෙය ඔබ { -brand-short-name } වෙත සුරකින ලද පිවිසුම් සහ මෙහි දිස්වන සියළුම උල්ලංඝන ඇඟවීම් ඉවත් කරයි. මෙම ක්‍රියාමාර්ගය අප්‍රතිවර්ත්‍යයි.
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] සියළුම උපාංගවලින් පිවිසුම් { $count } ඉවත් කරන්නද?
@@ -179,6 +184,7 @@ about-logins-breach-alert-learn-more-link = තව දැනගන්න
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-text2 = මෙම මුරපදය දත්ත උල්ලංඝනයක දී විය හැකි වෙනත් ගිණුමක භාවිතා කර ඇත. අක්තපත්‍ර නැවත භාවිතා කිරීම ඔබගේ සියළුම ගිණුම් අවදානමට ලක් කරයි. මෙම මුරපදය වෙනස් කරන්න.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = { $hostname } වෙත යන්න
