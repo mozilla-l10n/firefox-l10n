@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## New Account
+
+
+## New Account / Address Book
+
+
+## Create
+
+
 ## View / Layout
 
 appmenu-font-size-value = Dimension del litteras
@@ -65,9 +74,9 @@ appmenu-help-get-involved =
 appmenu-help-donation =
     .label = Face un donation
     .accesskey = d
-appmenu-help-feedback =
-    .label = Invia commentarios e ideas
-    .accesskey = I
+appmenu-help-share-feedback =
+    .label = Comparti ideas e commentarios
+    .accesskey = C
 appmenu-help-enter-troubleshoot-mode2 =
     .label = Modo diagnostic…
     .accesskey = d
