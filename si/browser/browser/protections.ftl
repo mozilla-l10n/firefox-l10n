@@ -48,6 +48,8 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = එය වැඩ කරන අයුරු
 monitor-link = එය වැඩ කරන අයුරු
+monitor-sign-up-link = උල්ලංඝන ඇඟවීම් සඳහා ලියාපදිංචිය
+    .title = { -monitor-brand-name } උල්ලංඝන ඇඟවීම් සඳහා ලියාපදිංචි වන්න
 auto-scan = අද ස්වයංක්‍රීයව සුපිරික්සිණි
 monitor-emails-tooltip =
     .title = { -monitor-brand-short-name } හි නිරීක්‍ෂණය කළ වි-තැපැල් ලිපින බලන්න
@@ -61,11 +63,13 @@ info-monitored-emails =
         [one] වි-තැපෑල නිරීක්‍ෂණය කෙරේ
        *[other] වි-තැපැල් ලිපින නිරීක්‍ෂණය කෙරේ
     }
+monitor-no-breaches-title = ශුභාරංචියකි!
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% සම්පූර්ණයි
 monitor-partial-breaches-motivation-title-start = නියම ආරම්භයක්!
 monitor-partial-breaches-motivation-title-middle = පවත්වා ගෙන යන්න!
+monitor-partial-breaches-motivation-title-end = බොහෝ දුරට නිමයි! ඉදිරියට.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
