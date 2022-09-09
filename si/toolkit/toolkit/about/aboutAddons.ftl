@@ -255,6 +255,9 @@ theme-enabled-heading = සබල කර ඇත
 theme-disabled-heading = අබල කර ඇත
 theme-disabled-heading2 = සුරැකි තේමා
 theme-monochromatic-heading = වර්ණ පරාස
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+colorway-collection-expiry-label = ඉකුත් වීම { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = සබලයි
 plugin-disabled-heading = අබලයි
 dictionary-enabled-heading = සබලයි
