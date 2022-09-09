@@ -3,6 +3,54 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## New Account
+
+appmenu-new-account-panel-title =
+    .title = Nov račun
+appmenu-new-account-panel =
+    .label = Nov račun
+    .accesskey = N
+appmenu-new-calendar =
+    .label = Koledar
+    .accesskey = K
+appmenu-new-chat-account =
+    .label = Klepet
+    .accesskey = l
+appmenu-new-feed =
+    .label = Vir
+    .accesskey = V
+appmenu-new-newsgroup =
+    .label = Novičarska skupina
+    .accesskey = N
+
+## New Account / Address Book
+
+appmenu-newab-panel-title =
+    .title = Nov imenik
+appmenu-newab-panel =
+    .label = Nov imenik
+    .accesskey = i
+
+## Create
+
+appmenu-create-panel-title =
+    .title = Ustvari
+appmenu-create-panel =
+    .label = Ustvari
+    .accesskey = U
+appmenu-create-message =
+    .label = Sporočilo
+    .accesskey = S
+appmenu-create-event =
+    .label = Dogodek
+    .accesskey = g
+appmenu-create-task =
+    .label = Opravilo
+    .accesskey = O
+appmenu-create-contact =
+    .label = Stik
+    .accesskey = k
+
 ## View / Layout
 
 appmenu-font-size-value = Velikost pisave
@@ -62,8 +110,8 @@ appmenu-help-get-involved =
 appmenu-help-donation =
     .label = Donirajte
     .accesskey = D
-appmenu-help-feedback =
-    .label = Sporočite povratne informacije in zamisli
+appmenu-help-share-feedback =
+    .label = Sporočite ideje in povratne informacije
     .accesskey = S
 appmenu-help-enter-troubleshoot-mode2 =
     .label = Način za odpravljanje težav …
