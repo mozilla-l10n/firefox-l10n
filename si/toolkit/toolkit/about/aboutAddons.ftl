@@ -254,6 +254,7 @@ extension-disabled-heading = අබල කර ඇත
 theme-enabled-heading = සබල කර ඇත
 theme-disabled-heading = අබල කර ඇත
 theme-disabled-heading2 = සුරැකි තේමා
+theme-monochromatic-heading = වර්ණ පරාස
 plugin-enabled-heading = සබලයි
 plugin-disabled-heading = අබලයි
 dictionary-enabled-heading = සබලයි
