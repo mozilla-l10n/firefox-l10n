@@ -94,6 +94,7 @@ mr1-onboarding-default-primary-button-label = පෙරනිමි අතිර
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+mr1-onboarding-import-header = සියළු දෑ ඔබ සමඟම
 mr1-onboarding-import-subtitle = ඔබගේ මුරපද, <br/>පොත්යොමු හා තවත් දෑ ආයාත කරන්න.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
@@ -280,6 +281,7 @@ mr2022-onboarding-get-started-primary-button-label = තත්පර කිහ�
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-subtitle = ඔබ කැමති ආකාරයට { -brand-short-name } සකසන්න. ඔබගේ පරණ අතිරික්සුවෙන් පොත්යොමු, මුරපද සහ තවත් දෑ එක් කරන්න.
 mr2022-onboarding-import-primary-button-label-no-attribution = කලින් අතිරික්සුවෙන් ආයාත කරන්න
 
 ## If your language uses grammatical genders, in the description for the
