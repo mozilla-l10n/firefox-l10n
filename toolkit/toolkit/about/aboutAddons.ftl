@@ -255,6 +255,7 @@ theme-enabled-heading = සබල කර ඇත
 theme-disabled-heading = අබල කර ඇත
 theme-disabled-heading2 = සුරැකි තේමා
 theme-monochromatic-heading = වර්ණ පරාස
+theme-monochromatic-subheading = { -brand-product-name } වෙතින් උද්දීප්ත නව වර්ණ පරාස. සීමිත කාලයක් සඳහා තිබේ.
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = ඉකුත් වීම { DATETIME($expiryDate, month: "long", day: "numeric") }

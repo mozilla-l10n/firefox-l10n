@@ -102,7 +102,7 @@ appmenu-fxa-signed-in-label = පිවිසෙන්න
 appmenu-fxa-setup-sync =
     .label = සමමුහූර්තය සක්‍රිය කරන්න...
 appmenuitem-save-page =
-    .label = …ලෙස පිටුව සුරකින්න
+    .label = මෙලෙස පිටුව සුරකින්න
 
 ## What's New panel in App menu.
 

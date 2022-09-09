@@ -102,6 +102,7 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous } වෙත
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = කලින් අතිරික්සුවෙන් ආයාත කරන්න
 mr1-onboarding-import-secondary-button-label = දැන් නොවේ
+mr2-onboarding-colorway-subtitle = උද්දීප්ත නව වර්ණ පරාස. සීමිත කාලයක් සඳහා තිබේ.
 mr2-onboarding-colorway-primary-button-label = වර්ණ පරාසය සුරකින්න
 mr2-onboarding-colorway-secondary-button-label = දැන් නොවේ
 mr2-onboarding-colorway-label-soft = මෘදු
