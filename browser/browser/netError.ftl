@@ -9,4 +9,4 @@ dns-not-found-with-suggestion = Oliko tarkoituksesi vierailla <a data-l10n-name=
 dns-not-found-hint-header = <strong>Jos kirjoitit osoitteen oikein, voit:</strong>
 dns-not-found-hint-try-again = Yrittää myöhemmin uudelleen
 dns-not-found-hint-check-network = Tarkistaa verkkoyhteytesi
-dns-not-found-hint-firewall = Tarkista, että { -brand-short-name }illa on lupa asioida verkkoon (saatat olla yhteydessä, mutta palomuurin takana)
+dns-not-found-hint-firewall = Tarkistaa, että { -brand-short-name }illa on lupa asioida verkkoon (saatat olla yhteydessä, mutta palomuurin takana)
