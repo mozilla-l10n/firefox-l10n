@@ -12,8 +12,10 @@ colorway-collection-independent-voices-short-description = සංස්කෘත
 
 ## Colorway names and descriptions
 
+playmaker-colorway-name = තරඟකරුවෙකි
+playmaker-colorway-description = ඔබ ජයග්‍රහණය සඳහා අවස්ථා සාදන අතර ඔබ වටා සිටින සැමගේ ක්‍රීඩාව උසස් කිරීමට උපකාර කරයි.
 expressionist-colorway-name = විභාවනවාදියෙකි
-visionary-colorway-name = දූරදර්ශී
+visionary-colorway-name = දූරදර්ශියෙකි
 activist-colorway-name = ක්‍රියාකාරිකයෙකි
-dreamer-colorway-name = සිහින දකින්නා
-innovator-colorway-name = නවෝත්පාදකයා
+dreamer-colorway-name = සිහින දකින්නෙකි
+innovator-colorway-name = නවෝත්පාදකයෙකි
