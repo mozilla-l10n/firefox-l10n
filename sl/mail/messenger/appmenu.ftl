@@ -30,6 +30,15 @@ appmenu-newab-panel-title =
 appmenu-newab-panel =
     .label = Nov imenik
     .accesskey = i
+appmenu-new-addressbook =
+    .label = Krajevni imenik
+    .accesskey = K
+appmenu-new-carddav =
+    .label = Imenik CardDav
+    .accesskey = C
+appmenu-new-ldap =
+    .label = Imenik LDAP
+    .accesskey = L
 
 ## Create
 
