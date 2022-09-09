@@ -364,6 +364,7 @@ mr2022-onboarding-no-mobile-download-cta-text = Scannez le code QR pour installe
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = La liberté de la navigation privée en un clic
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
         [macos] Conserver la navigation privée de { -brand-short-name } dans le Dock
