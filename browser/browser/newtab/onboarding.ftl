@@ -115,7 +115,7 @@ mr2-onboarding-colorway-label-bold = තද
 mr2-onboarding-theme-label-auto = ස්වයං
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = පෙරනිමි
-mr1-onboarding-theme-header = එය ඔබගේම කරගන්න
+mr1-onboarding-theme-header = ඔබගේම කරගන්න
 mr1-onboarding-theme-subtitle = තේමාවකින් { -brand-short-name } පුද්ගලීකරණය කරන්න.
 mr1-onboarding-theme-primary-button-label = තේමාව සුරකින්න
 mr1-onboarding-theme-secondary-button-label = දැන් නොවේ
