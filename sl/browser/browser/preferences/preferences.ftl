@@ -190,12 +190,15 @@ preferences-web-appearance-header = Videz spletnih strani
 preferences-web-appearance-description = Nekatera spletna mesta lahko prilagodijo barvno shemo glede na vaše nastavitve. Izberite barvno shemo, ki jo želite uporabiti za ta spletna mesta.
 preferences-web-appearance-choice-browser = Tema { -brand-short-name(sklon: "rodilnik") }
 preferences-web-appearance-choice-system = Sistemska tema
+preferences-web-appearance-choice-auto = Samodejno
 preferences-web-appearance-choice-light = Svetla
 preferences-web-appearance-choice-dark = Temna
 preferences-web-appearance-choice-tooltip-browser =
     .title = Ozadja in vsebina spletnih strani naj se ujemajo z izbrano temo { -brand-short-name(sklon: "rodilnik") }.
 preferences-web-appearance-choice-tooltip-system =
     .title = Ozadja in vsebina spletnih strani naj se ujemajo s sistemsko temo.
+preferences-web-appearance-choice-tooltip-auto =
+    .title = Samodejno prilagodi ozadja in vsebino spletnih mest glede na nastavitve sistema in temo { -brand-short-name(sklon: "rodilnik") }.
 preferences-web-appearance-choice-tooltip-light =
     .title = Spletna mesta naj uporabljajo svetle barve ozadij in vsebine.
 preferences-web-appearance-choice-tooltip-dark =
@@ -204,6 +207,8 @@ preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
     .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
@@ -941,7 +946,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = iskalnike
     .accesskey = i
+addressbar-locbar-quickactions-option =
+    .label = Hitra dejanja
+    .accesskey = H
 addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
+addressbar-quickactions-learn-more = Več o tem
 
 ## Privacy Section - Content Blocking
 
@@ -1099,6 +1108,11 @@ addon-recommendations-link = Več o tem
 collection-health-report-disabled = Pošiljanje podatkov je onemogočeno za to nastavitev graditve
 collection-backlogged-crash-reports-with-link = { -brand-short-name(sklon: "dajalnik") } dovoli, da v vašem imenu pošilja poročila o sesutjih iz zaloge <a data-l10n-name="crash-reports-link">Več o tem</a>
     .accesskey = z
+privacy-segmentation-section-header = Nove zmožnosti, ki izboljšajo vaše brskanje
+privacy-segmentation-radio-off =
+    .label = Uporabi priporočila { -brand-product-name(sklon: "rodilnik") }
+privacy-segmentation-radio-on =
+    .label = Prikaži podrobne informacije
 
 ## Privacy Section - Security
 ##
