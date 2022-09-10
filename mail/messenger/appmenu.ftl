@@ -66,10 +66,35 @@ appmenu-create-contact =
     .label = Contatto
     .accesskey = C
 
+## Open
+
+appmenu-open-panel =
+    .label = Apri
+    .accesskey = A
+appmenu-open-panel-title =
+    .title = Apri
+appmenu-open-message =
+    .label = Messaggio…
+    .accesskey = M
+appmenu-open-calendar =
+    .label = Calendario…
+    .accesskey = C
+
 ## View / Layout
 
+appmenu-view-panel-title =
+    .title = Visualizza
+appmenu-view-panel =
+    .label = Visualizza
+    .accesskey = V
 appmenu-font-size-value = Dimensione carattere
 appmenu-mail-uidensity-value = Densità
+appmenu-uidensity-compact =
+    .tooltiptext = Compatta
+appmenu-uidensity-default =
+    .tooltiptext = Predefinita
+appmenu-uidensity-relaxed =
+    .tooltiptext = Rilassata
 appmenuitem-font-size-enlarge =
     .tooltiptext = Aumenta dimensione carattere
 appmenuitem-font-size-reduce =
