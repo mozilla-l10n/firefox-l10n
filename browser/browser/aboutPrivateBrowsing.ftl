@@ -59,3 +59,4 @@ about-private-browsing-pin-promo-link-text =
         [macos] Ajouter au Dock
        *[other] Épingler à la barre des tâches
     }
+about-private-browsing-pin-promo-title = Aucun cookie ni historique enregistré. Naviguez comme si personne ne vous regardait.
