@@ -66,6 +66,20 @@ appmenu-create-contact =
     .label = Kontakt
     .accesskey = K
 
+## Open
+
+appmenu-open-panel =
+    .label = Wočinić
+    .accesskey = o
+appmenu-open-panel-title =
+    .title = Wočinić
+appmenu-open-message =
+    .label = Powěsć…
+    .accesskey = P
+appmenu-open-calendar =
+    .label = Protyka…
+    .accesskey = r
+
 ## View / Layout
 
 appmenu-font-size-value = Pismowa wulkosć
