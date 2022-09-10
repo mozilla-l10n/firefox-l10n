@@ -63,8 +63,13 @@ vcard-tz-add = Προσθήκη ζώνης ώρας
 # IMPP vCard field
 
 vcard-impp-header = Λογαριασμοί συνομιλίας
+vcard-impp2-header = Άμεσα μηνύματα
 vcard-impp-add = Προσθήκη λογαριασμού συνομιλίας
 vcard-impp-label = Λογαριασμός συνομιλίας
+vcard-impp-select = Πρωτόκολλο
+vcard-impp-option-other = Άλλο
+vcard-impp-input-label = URI
+vcard-impp-input-title = URI για ανταλλαγή άμεσων μηνυμάτων
 
 # BDAY and ANNIVERSARY vCard field
 
@@ -82,8 +87,6 @@ vcard-adr-header = Διευθύνσεις
 vcard-adr-add = Προσθήκη διεύθυνσης
 vcard-adr-label = Διεύθυνση
 vcard-adr-delivery-label = Ετικέτα παράδοσης
-vcard-adr-pobox = Ταχυδρομική θυρίδα
-vcard-adr-ext = Εκτεταμένη διεύθυνση
 vcard-adr-street = Διεύθυνση
 # Or "Locality"
 vcard-adr-locality = Πόλη

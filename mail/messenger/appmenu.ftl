@@ -66,10 +66,35 @@ appmenu-create-contact =
     .label = Επαφή
     .accesskey = Ε
 
+## Open
+
+appmenu-open-panel =
+    .label = Άνοιγμα
+    .accesskey = Ά
+appmenu-open-panel-title =
+    .title = Άνοιγμα
+appmenu-open-message =
+    .label = Μήνυμα…
+    .accesskey = Μ
+appmenu-open-calendar =
+    .label = Ημερολόγιο…
+    .accesskey = Η
+
 ## View / Layout
 
+appmenu-view-panel-title =
+    .title = Προβολή
+appmenu-view-panel =
+    .label = Προβολή
+    .accesskey = Π
 appmenu-font-size-value = Μέγεθος γραμματοσειράς
 appmenu-mail-uidensity-value = Πυκνότητα
+appmenu-uidensity-compact =
+    .tooltiptext = Πολύ πυκνή
+appmenu-uidensity-default =
+    .tooltiptext = Προεπιλογή
+appmenu-uidensity-relaxed =
+    .tooltiptext = Άνετη
 appmenuitem-font-size-enlarge =
     .tooltiptext = Αύξηση μεγέθους γραμματοσειράς
 appmenuitem-font-size-reduce =
