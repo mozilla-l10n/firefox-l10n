@@ -232,6 +232,9 @@ newtab-pocket-load-more-stories-button = טעינת סיפורים נוספים
 newtab-pocket-last-card-title = אין יותר במה להתעדכן!
 newtab-pocket-last-card-image =
     .alt = אין יותר במה להתעדכן
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = שמירה
+newtab-pocket-saved = נשמר
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
