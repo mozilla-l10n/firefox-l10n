@@ -12,3 +12,9 @@ callout-primary-complete-button-label = OK
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Przełączaj się między urządzeniami za pomocą odbierania kart
+callout-firefox-view-tab-pickup-subtitle = Szybko odbieraj otwarte karty z telefonu i otwieraj je tutaj, aby nie tracić ani sekundy.
+callout-firefox-view-recently-closed-title = Odzyskaj zamknięte karty w mgnieniu oka
+callout-firefox-view-recently-closed-subtitle = Tutaj w magiczny sposób pojawią się wszystkie zamknięte karty. Nie musisz się już martwić, że przypadkowo zamkniesz jakąś stronę.
+callout-firefox-view-colorways-title = Dodaj odrobinę koloru
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Wybierz odcień kolorystyki, który do Ciebie pasuje. Tylko w przeglądarce { -brand-product-name }.
