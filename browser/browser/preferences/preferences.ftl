@@ -194,6 +194,8 @@ preferences-web-appearance-choice-tooltip-browser =
     .title = Применять настройки темы { -brand-short-name } к фону и содержимому веб-сайтов.
 preferences-web-appearance-choice-tooltip-system =
     .title = Применять системные настройки к фону и содержимому веб-сайтов.
+preferences-web-appearance-choice-tooltip-auto =
+    .title = Автоматически менять фон и содержимое веб-сайтов в зависимости от ваших системных настроек и темы { -brand-short-name }.
 preferences-web-appearance-choice-tooltip-light =
     .title = Использовать светлый вид для фона и содержимого веб-сайтов.
 preferences-web-appearance-choice-tooltip-dark =
@@ -1103,6 +1105,7 @@ collection-health-report-disabled = Для этой конфигурации с�
 collection-backlogged-crash-reports-with-link = Разрешить { -brand-short-name } отправлять от вашего имени накопившиеся сообщения о падениях <a data-l10n-name="crash-reports-link">Подробнее</a>
     .accesskey = ш
 privacy-segmentation-section-header = Новые функции, улучшающие ваш веб-сёрфинг
+privacy-segmentation-section-description = Когда мы предлагаем функции, которые используют ваши данные, чтобы улучшить персонализацию браузера:
 privacy-segmentation-radio-off =
     .label = Использовать рекомендации { -brand-product-name }
 privacy-segmentation-radio-on =
