@@ -30,6 +30,8 @@ toolbox-meatball-menu-noautohide-label = Onemogoči samodejno skrivanje pojavnih
 
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
+toolbox-mode-browser-toolbox-label = Način razvojnih orodij brskalnika
+toolbox-mode-browser-console-label = Način konzole brskalnika
 toolbox-mode-everything-label = Večprocesno
 toolbox-mode-everything-sub-label = (počasnejše)
 toolbox-mode-everything-container =
