@@ -284,9 +284,21 @@ mr2022-onboarding-set-default-only-subtitle = Пачніце з браўзер�
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Дзякуй за любоў да { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Запускайце здаравейшы Інтэрнэт з любога месца адным націскам мышы. Наша апошняе абнаўленне напоўнена новымі рэчамі, якія, як мы думаем, вам спадабаюцца.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Выкарыстоўвайце браўзер, які абараняе вашу прыватнасць, пакуль вы блукаеце па сеціве. У нашым апошнім абнаўленні шмат рэчаў, якія вам спадабаюцца.
+mr2022-onboarding-existing-pin-checkbox-label = Таксама дадайце прыватнае агляданне { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Зрабіце { -brand-short-name } сваім браўзерам
+mr2022-onboarding-set-default-primary-button-label = Усталяваць { -brand-short-name } як прадвызначаны браўзер
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Выкарыстоўвайце браўзер, які падтрымліваецца некамерцыйнай арганізацыяй. Мы абараняем вашу прыватнасць, пакуль вы вандруеце па сетцы.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -343,6 +355,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Вы — наватар.</
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Пераходзьце з ноўтбука на тэлефон і назад
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
