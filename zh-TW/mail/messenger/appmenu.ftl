@@ -66,10 +66,35 @@ appmenu-create-contact =
     .label = 聯絡人
     .accesskey = C
 
+## Open
+
+appmenu-open-panel =
+    .label = 開啟
+    .accesskey = O
+appmenu-open-panel-title =
+    .title = 開啟
+appmenu-open-message =
+    .label = 訊息…
+    .accesskey = M
+appmenu-open-calendar =
+    .label = 行事曆…
+    .accesskey = C
+
 ## View / Layout
 
+appmenu-view-panel-title =
+    .title = 檢視
+appmenu-view-panel =
+    .label = 檢視
+    .accesskey = V
 appmenu-font-size-value = 字型大小
 appmenu-mail-uidensity-value = 密度
+appmenu-uidensity-compact =
+    .tooltiptext = 緊密
+appmenu-uidensity-default =
+    .tooltiptext = 預設
+appmenu-uidensity-relaxed =
+    .tooltiptext = 放寬
 appmenuitem-font-size-enlarge =
     .tooltiptext = 放大文字
 appmenuitem-font-size-reduce =

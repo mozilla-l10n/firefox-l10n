@@ -63,8 +63,13 @@ vcard-tz-add = 新增時區
 # IMPP vCard field
 
 vcard-impp-header = 聊天帳號
+vcard-impp2-header = 即時訊息
 vcard-impp-add = 新增聊天帳號
 vcard-impp-label = 聊天帳號
+vcard-impp-select = 通訊協定
+vcard-impp-option-other = 其他
+vcard-impp-input-label = 網址
+vcard-impp-input-title = 即時訊息網址
 
 # BDAY and ANNIVERSARY vCard field
 
@@ -82,8 +87,6 @@ vcard-adr-header = 地址
 vcard-adr-add = 新增地址
 vcard-adr-label = 地址
 vcard-adr-delivery-label = 郵件標籤
-vcard-adr-pobox = 郵政信箱
-vcard-adr-ext = 完整地址
 vcard-adr-street = 街道地址
 # Or "Locality"
 vcard-adr-locality = 城市

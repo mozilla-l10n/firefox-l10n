@@ -177,10 +177,12 @@ about-addressbook-details-email-addresses-header = 電子郵件地址
 about-addressbook-details-phone-numbers-header = 電話號碼
 about-addressbook-details-addresses-header = 通訊錄
 about-addressbook-details-notes-header = 附註
+about-addressbook-details-impp-header = 即時訊息
 about-addressbook-details-other-info-header = 其他資訊
 about-addressbook-entry-type-work = 商務
 about-addressbook-entry-type-home = 住家
 about-addressbook-entry-type-fax = 傳真
+# Or "Mobile"
 about-addressbook-entry-type-cell = 手機
 about-addressbook-entry-type-pager = 呼叫器
 about-addressbook-entry-name-birthday = 生日
