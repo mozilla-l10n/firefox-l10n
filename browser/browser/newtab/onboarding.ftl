@@ -285,6 +285,11 @@ mr2022-onboarding-set-default-only-subtitle = ਗ਼ੈਰ-ਫਾਇਦੇ ਵ�
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = ਪਿਆਰੇ { -brand-product-name }  ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = ਇੱਕ ਕਲਿੱਕ ਨਾਲ ਕਿਸੋ ਵੀ ਮਜ਼ਬੂਤ ਇੰਟਰਨੈੱਟ ਸ਼ੁਰੂ ਕਰੋ। ਸਾਡੇ ਨਵੇਂ ਅੱਪਡੇਟ ਵਿੱਚ ਨਵੀਆਂ ਚੀਜ਼ਾਂ ਪਈਆਂ ਹਨ, ਜਿੰਨ੍ਹਾਂ ਦੇ ਤੁਸੀਂ ਪ੍ਰਸੰਸ਼ਕ ਬਣੋਗੇ।
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = ਅਜਿਹਾ ਬਰਾਊਜ਼ਰ ਵਰਤੋਂ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਵਲੋਂ ਵੈੱਬ ਦੁਆਲੇ ਭੌਣ ਦੌਰਾਨ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਬਚਾਉਂਦੇ ਹਨ। ਸਾਡੇ ਨਵੇਂ ਅੱਪਡੇਟ ਵਿੱਚ ਅਜਿਹੀਆਂ ਚੀਜ਼ਾਂ ਪਾਈਆਂ ਹਨ, ਜਿਹਨਾਂ ਦੇ ਤੁਸੀਂ ਪ੍ਰਸੰਸ਼ਕ ਬਣੋਗੇ।
 mr2022-onboarding-existing-pin-checkbox-label = { -brand-short-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਵੀ ਜੋੜੋ
 
 ## MR2022 New User Set Default screen strings
@@ -300,6 +305,9 @@ mr2022-onboarding-set-default-subtitle = ਗ਼ੈਰ-ਫਾਇਦੇ ਵਲੋ�
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = ਸਾਡਾ ਨਵਾਂ ਵਰਜ਼ਨ ਤੁਹਾਡੇ ਵਾਸਤੇ ਬਣਾਇਆ ਹੈ, ਜਿਸ ਨਾਲ ਤੁਹਾਨੂੰ ਵੈੱਬ ਉੱਤੇ ਭੌਣਾ ਪਹਿਲਾਂ ਤੋਂ ਸੁਖਾਲਾ ਹੋਇਆ ਹੈ। ਇਸ ਵਿੱਚ ਫ਼ੀਚਰ ਭਰੇ ਹਨ, ਸਾਨੂੰ ਆਸ ਹੈ ਕਿ ਜਿਹਨਾਂ ਦੀ ਤੁਸੀਂ ਪ੍ਰਸੰਸਾ ਕਰੋਗੇ।
 mr2022-onboarding-get-started-primary-button-label = ਸਕਿੰਟਾਂ ਵਿੱਚ ਸੈਟਅੱਪ ਕਰੋ
 
 ## MR2022 Import Settings screen strings
@@ -324,9 +332,15 @@ mr2022-onboarding-colorway-description-default = <b>ਮੇਰੇ ਮੌਜੂਦ
 mr2022-onboarding-colorway-label-playmaker = ਪਲੇਅਮੇਕਰ
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = ਪਲੇਅਮੇਕਰ
+mr2022-onboarding-colorway-description-playmaker = <b>ਤੁਸੀਂ ਪਲੇਅਮੇਕਰ ਹੋ।</b> ਤੁਸੀਂ ਜਿੱਤਣ ਦੇ ਮੌਕੇ ਬਣਾਉਂਦੇ ਹੋ ਅਤੇ ਆਪਣੇ ਆਲੇ-ਦੁਆਲੇ ਦੇ ਲੋਕਾਂ ਨੂੰ ਉਹਨਾਂ ਦੀ ਖੇਡ 'ਚ ਅੱਗੇ ਵਧਣ ਲਈ ਮਦਦ ਕਰਦੇ ਹੋ।
+mr2022-onboarding-colorway-label-expressionist = ਪਰਗਟਾਵਾਦੀ
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = ਪਰਗਟਾਵਾਦੀ
+mr2022-onboarding-colorway-description-expressionist = <b>ਤੁਸੀਂ ਪਰਗਟਾਵਾਦੀ ਹੋ। </b> ਤੁਸੀਂ ਸੰਸਾਰ ਨੂੰ ਵੱਖਰੇ ਢੰਗ ਨਾਲ ਵੇਖਦੇ ਹੋ ਅਤੇ ਤੁਹਾਡੀਆਂ ਰਚਨਾਵਾਂ ਹੋਰਾਂ ਦੇ ਜਜ਼ਬਾਤਾਂ ਨੂੰ ਟੁੰਬਦੀਆਂ ਹਨ।
 mr2022-onboarding-colorway-label-visionary = ਭਵਿੱਖਦਰਸ਼ੀ
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = ਭਵਿੱਖਦਰਸ਼ੀ
+mr2022-onboarding-colorway-description-visionary = <b>ਤੁਸੀਂ ਭਵਿੱਖਦਰਸ਼ੀ ਹੋ।</b> ਤੁਸੀਂ ਮੌਜੂਦਾ ਹਾਲਤਾਂ ਉੱਤੇ ਸਵਾਲ ਕਰਦੇ ਹੋ ਅਤੇ ਹੋਰਾਂ ਨੂੰ ਬੇਹਤਰ ਭਵਿੱਖ ਬਾਰੇ ਸੋਚਣ ਲਈ ਮਜ਼ਬੂਰ ਕਰਦੇ ਹੋ।
 mr2022-onboarding-colorway-label-activist = ਕਾਰਕੁੰਨ
 mr2022-onboarding-colorway-tooltip-activist =
     .title = ਕਾਰਕੁੰਨ
@@ -334,6 +348,7 @@ mr2022-onboarding-colorway-description-activist = <b>ਤੁਸੀਂ ਕਾਰ�
 mr2022-onboarding-colorway-label-dreamer = ਸੁਪਨਸਾਜ਼
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = ਸੁਪਨਸਾਜ਼
+mr2022-onboarding-colorway-description-dreamer = <b>ਤੁਸੀਂ ਸੁਪਨਸਾਜ਼ ਹੋ।</b> ਤੁਸੀਂ ਭਰੋਸਾ ਰੱਖਦੋ ਹੋ ਕਿ ਖੁਸ਼ਹਾਲੀ ਦੇ ਤਰਫ਼ਦਾਰੀਆਂ ਵੱਡੇ ਅਸਰ ਰੱਖਦੀਆਂ ਹਨ ਤੇ ਹੋਰਾਂ ਨੂੰ ਬਹਾਦਰ ਬਣਨ ਲਈ ਪ੍ਰੇਰਿਤ ਕਰਦੀਆਂ ਹਨ।
 mr2022-onboarding-colorway-label-innovator = ਖੋਜੀ
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = ਖੋਜੀ
