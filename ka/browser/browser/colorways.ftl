@@ -23,4 +23,4 @@ activist-colorway-description = სამყაროს ცვლით უკ�
 dreamer-colorway-name = მეოცნებე
 dreamer-colorway-description = გჯერათ, რომ უმართლებთ მხოლოდ ძლიერებს და ყველას შთააგონებთ, იყვნენ მეტად გაბედულნი.
 innovator-colorway-name = განმაახლებელი
-innovator-colorway-description = ყველაფრისადმი თქვენი ახლებური ხედვები უკეთესობისკენ ცვლის გარშემომყოფთა ცხოვრებას.
+innovator-colorway-description = ყველაფრისადმი თქვენი ახლებური ხედვა უკეთესობისკენ ცვლის გარშემომყოფთა ცხოვრებას.
