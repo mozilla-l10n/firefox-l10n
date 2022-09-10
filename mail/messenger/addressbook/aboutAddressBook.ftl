@@ -192,10 +192,12 @@ about-addressbook-details-email-addresses-header = E-mejlowe adresy
 about-addressbook-details-phone-numbers-header = Telefonowe čisła
 about-addressbook-details-addresses-header = Adresy
 about-addressbook-details-notes-header = Přispomnjenki
+about-addressbook-details-impp-header = Hnydomne posrědkowanje powěsćow
 about-addressbook-details-other-info-header = Druhe informacije
 about-addressbook-entry-type-work = Słužbny
 about-addressbook-entry-type-home = Startowa strona
 about-addressbook-entry-type-fax = Faks
+# Or "Mobile"
 about-addressbook-entry-type-cell = Mobilny telefon
 about-addressbook-entry-type-pager = Pager
 about-addressbook-entry-name-birthday = Narodniny

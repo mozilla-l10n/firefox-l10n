@@ -63,8 +63,13 @@ vcard-tz-add = Časowe pasmo přidać
 # IMPP vCard field
 
 vcard-impp-header = Chatowe konta
+vcard-impp2-header = Hnydomne posrědkowanje powěsćow
 vcard-impp-add = Chatowe konto přidać
 vcard-impp-label = Chatowe konto
+vcard-impp-select = Protokol
+vcard-impp-option-other = Druhe
+vcard-impp-input-label = URI
+vcard-impp-input-title = URI za hnydomne posrědkowanje powěsćow
 
 # BDAY and ANNIVERSARY vCard field
 
@@ -82,8 +87,6 @@ vcard-adr-header = Adresy
 vcard-adr-add = Adresu přidać
 vcard-adr-label = Adresa
 vcard-adr-delivery-label = Dodawanski etiket
-vcard-adr-pobox = Póstowy fach
-vcard-adr-ext = Rozšěrjena adresa
 vcard-adr-street = Dróhowa adresa
 # Or "Locality"
 vcard-adr-locality = Město
