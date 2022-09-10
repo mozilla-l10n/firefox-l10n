@@ -82,8 +82,19 @@ appmenu-open-calendar =
 
 ## View / Layout
 
+appmenu-view-panel-title =
+    .title = Napohlad
+appmenu-view-panel =
+    .label = Napohlad
+    .accesskey = N
 appmenu-font-size-value = Pismowa wulkosć
 appmenu-mail-uidensity-value = Hustosć
+appmenu-uidensity-compact =
+    .tooltiptext = Kompaktny
+appmenu-uidensity-default =
+    .tooltiptext = Standard
+appmenu-uidensity-relaxed =
+    .tooltiptext = Popušćeny
 appmenuitem-font-size-enlarge =
     .tooltiptext = Pismowu wulkosć powjetšić
 appmenuitem-font-size-reduce =
