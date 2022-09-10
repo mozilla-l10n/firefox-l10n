@@ -239,6 +239,9 @@ newtab-pocket-last-card-title = Þú hefur náð að klára!
 newtab-pocket-last-card-desc = Komdu aftur síðar til að fá meira.
 newtab-pocket-last-card-image =
     .alt = Þú hefur náð að klára
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Vista
+newtab-pocket-saved = Vistað
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
