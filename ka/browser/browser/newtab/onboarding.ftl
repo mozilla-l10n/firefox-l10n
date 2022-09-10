@@ -277,6 +277,11 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] განათავსეთ { -brand-short-name } Dock-ზე
        *[other] მიამაგრეთ { -brand-short-name } ამოცანათა ზოლზე
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = შეუდექით ბრაუზერის გამოყენებას, რომელსაც არამომგებიანი ორგანიზაცია ქმნის. ჩვენ ვიცავთ თქვენს პირად მონაცემებს, როცა ვებსივრცეში მოგზაურობთ.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
