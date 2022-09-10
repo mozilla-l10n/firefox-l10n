@@ -127,6 +127,7 @@ about-processes-utility-actor-audio-decoder = Аудиодекодер
 about-processes-utility-actor-audio-decoder-generic = Универсальный аудиодекодер
 about-processes-utility-actor-audio-decoder-applemedia = Аудиодекодер Apple Media
 about-processes-utility-actor-audio-decoder-wmf = Аудиодекодер Windows Media Framework
+about-processes-utility-actor-mf-media-engine = Windows Media Foundation Media Engine CDM
 
 ## Displaying CPU (percentage and total)
 ## Variables:
