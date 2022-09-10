@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-intro = { $hostname } ໃຊ້ໃບຢັ້ງຢືນຄວາມປອດໄພທີ່ບໍ່ຖືກຕ້ອງ.
+cert-error-trust-untrusted-issuer = ໃບຢັ້ງຢືນບໍ່ນ່າເຊື່ອຖືເພາະວ່າໃບຢັ້ງຢືນຜູ້ອອກບໍ່ສາມາດເຊື່ອຖືໄດ້.
 cert-error-details-cert-chain-label = ສາຍໃບຮັບຮອງ:
 open-in-new-window-for-csp-or-xfo-error = ເປີດໄຊທ໌ໃນວິນໂດໃຫມ່
 
