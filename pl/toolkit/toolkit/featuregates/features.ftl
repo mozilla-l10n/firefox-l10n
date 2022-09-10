@@ -64,3 +64,6 @@ experimental-features-ime-search-description = IME (edytor metody wprowadzania) 
 experimental-features-text-recognition =
     .label = Rozpoznawanie tekstu
 experimental-features-text-recognition-description = Włącza funkcje rozpoznawania tekstu na obrazach.
+experimental-features-accessibility-cache =
+    .label = Pamięć podręczna ułatwień dostępności
+experimental-features-accessibility-cache-description = Umieszcza wszystkie informacje dostępności ze wszystkich dokumentów w głównym procesie programu { -brand-short-name } w pamięci podręcznej. Zwiększa to wydajność czytników ekranowych i innych aplikacji korzystających z API ułatwień dostępu.
