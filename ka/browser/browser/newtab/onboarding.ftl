@@ -309,7 +309,7 @@ mr2022-onboarding-set-default-subtitle = შეუდექით ბრაუ�
 
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-get-started-primary-subtitle = ჩვენი უახლესი ვერსია შექმნილია თქვენი საჭიროებებისთვის, რომ მეტად გაგიადვილოთ ვებსივრცეში მოგზაურობა. აღჭურვილია შესაძლებლობებით, რომლებიც, ვფიქრობთ, მეტად მოგეწონებათ.
+mr2022-onboarding-get-started-primary-subtitle = ჩვენი უახლესი ვერსია შექმნილია თქვენი საჭიროებებისთვის, არნახულად გაგიადვილებთ ვებსივრცეში მოგზაურობას. აღჭურვილია შესაძლებლობებით, რომლებიც, ვფიქრობთ, მეტად მოგეწონებათ.
 mr2022-onboarding-get-started-primary-button-label = დაყენება წამებში
 
 ## MR2022 Import Settings screen strings
