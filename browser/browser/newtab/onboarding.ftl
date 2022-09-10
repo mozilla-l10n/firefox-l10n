@@ -307,7 +307,7 @@ mr2022-onboarding-set-default-subtitle = Используйте браузер, 
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Наша последняя версия создана специально для вас, что делает путешествия по Интернету проще, чем когда-либо. Она наполнена функциями, которые, как мы думаем, вам понравятся.
-mr2022-onboarding-get-started-primary-button-label = Настраивается за секунды
+mr2022-onboarding-get-started-primary-button-label = Настроить за считанные секунды
 
 ## MR2022 Import Settings screen strings
 
