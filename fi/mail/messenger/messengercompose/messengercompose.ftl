@@ -92,6 +92,20 @@ context-menuitem-attach-files =
     .label = Liitä tiedosto(t)…
     .accesskey = i
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = Oma vCard
+    .accesskey = C
+context-menuitem-attach-openpgp-key =
+    .label = Oma julkinen OpenPGP-avain
+    .accesskey = k
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } liite
+        [one] { $count } liitettä
+       *[other] { $count } liitettä
+    }
 attachment-area-show =
     .title = Näytä liitepaneeli ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -123,12 +137,43 @@ button-return-receipt =
 
 ## Encryption
 
+encryption-menu =
+    .label = Turvallisuus
+    .accesskey = c
+encryption-toggle =
+    .label = Salaa
+    .tooltiptext = Käytä päästä päähän -salausta tässä viestissä
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = Näytä tai muuta OpenPGP-salausasetuksia
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = Näytä tai muuta S/MIME-salausasetuksia
+signing-toggle =
+    .label = Allekirjoita
+    .tooltiptext = Käytä digitaalista allekirjoitusta tälle viestille
 menu-openpgp =
     .label = OpenPGP
     .accesskey = O
 menu-smime =
     .label = S/MIME
     .accesskey = S
+menu-encrypt =
+    .label = Salaa
+    .accesskey = E
+menu-encrypt-subject =
+    .label = Salaa aihe
+    .accesskey = B
+menu-sign =
+    .label = Allekirjoita digitaalisesti
+    .accesskey = i
+menu-view-certificates =
+    .label = Näytä vastaanottajien varmenteet
+    .accesskey = v
+key-notification-disable-encryption =
+    .label = Älä salaa
+    .accesskey = D
+    .tooltiptext = Poista päästä päähän -salaus käytöstä
 
 ## Addressing Area
 
