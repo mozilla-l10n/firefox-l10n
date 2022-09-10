@@ -63,11 +63,13 @@ vcard-tz-add = Ajouter un fuseau horaire
 # IMPP vCard field
 
 vcard-impp-header = Comptes de messagerie instantanée
+vcard-impp2-header = Messagerie instantanée
 vcard-impp-add = Ajouter un compte de messagerie instantanée
 vcard-impp-label = Compte de messagerie instantanée
 vcard-impp-select = Protocole
 vcard-impp-option-other = Autre
 vcard-impp-input-label = URI
+vcard-impp-input-title = URI pour la messagerie instantanée
 
 # BDAY and ANNIVERSARY vCard field
 
