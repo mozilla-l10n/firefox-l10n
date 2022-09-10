@@ -356,6 +356,9 @@ mr2022-onboarding-colorway-description-innovator = <b>Вы — наватар.</
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Пераходзьце з ноўтбука на тэлефон і назад
+mr2022-onboarding-mobile-download-subtitle = Бярыце карткі з адной прылады і працягвайце з таго месца, дзе спыніліся, на іншай. Плюс сінхранізуйце свае закладкі і паролі ўсюды, дзе карыстаецеся { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Сканіруйце QR-код, каб атрымаць { -brand-product-name } для мабільнага тэлефона, або <a data-l10n-name="download-label">адпраўце сабе спасылку для сцягвання.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Скануйце QR-код, каб атрымаць { -brand-product-name } на смартфон.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -371,11 +374,14 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Мы заўсёды паважаем вашу прыватнасць
+mr2022-onboarding-privacy-segmentation-subtitle = Мы ўвесь час працуем над стварэннем лепшага, больш індывідуальнага{ -brand-product-name }, ад інтэлектуальных прапаноў да больш разумнага пошуку.
+mr2022-onboarding-privacy-segmentation-text-cta = Што вы хочаце бачыць, калі мы прапануем новыя функцыі, якія выкарыстоўваюць вашы дадзеныя для паляпшэння аглядання?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Выкарыстоўваць рэкамендацыі { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Паказваць падрабязную інфармацыю
 
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Вы дапамагаеце нам ствараць лепшы Інтэрнэт.
+mr2022-onboarding-gratitude-subtitle = Дзякуй за выкарыстанне { -brand-short-name }, які падтрымліваецца Mozilla Foundation. З вашай падтрымкай мы працуем над тым, каб зрабіць Інтэрнэт больш адкрытым, даступным і лепшым для ўсіх.
 mr2022-onboarding-gratitude-primary-button-label = Што новага
 mr2022-onboarding-gratitude-secondary-button-label = Пачаць агляданне
