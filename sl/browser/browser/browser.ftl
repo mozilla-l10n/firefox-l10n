@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Prikaži dodatke
 quickactions-cmd-addons = dodatki, razširitve, teme
+quickactions-cmd-addons2 = dodatki
 # Opens the bookmarks library window
 quickactions-bookmarks = Prikaži zaznamke
 quickactions-cmd-bookmarks = zaznamki
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = počisti zgodovino
 # Opens about:downloads page
 quickactions-downloads = Odpri prenose
 quickactions-cmd-downloads = prenosi
+# Opens about:addons page in the extensions section
+quickactions-extensions = Upravljanje razširitev
+quickactions-cmd-extensions = razširitve
 # Opens the devtools web inspector
 quickactions-inspector = Odpri pregledovalnik
 quickactions-cmd-inspector = pregledovalnik, razvojna orodja
 # Opens about:logins
 quickactions-logins = Ogled prijav
 quickactions-cmd-logins = prijave, gesla
+# Opens about:addons page in the plugins section
+quickactions-plugins = Upravljanje vtičnikov
+quickactions-cmd-plugins = vtičniki
 # Opens the print dialog
 quickactions-print = Natisni
 quickactions-cmd-print = natisni, tiskanje, print
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = posnetek zaslona
 # Opens about:preferences
 quickactions-settings = Odpri nastavitve
 quickactions-cmd-settings = nastavitve, možnosti
+# Opens about:addons page in the themes section
+quickactions-themes = Upravljanje tem
+quickactions-cmd-themes = teme
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Posodobi { -brand-short-name }
 quickactions-cmd-update = posodobi
