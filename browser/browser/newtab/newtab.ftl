@@ -239,6 +239,9 @@ newtab-pocket-last-card-title = U bent helemaal bij!
 newtab-pocket-last-card-desc = Kom later terug voor meer.
 newtab-pocket-last-card-image =
     .alt = U bent helemaal bij
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Opslaan
+newtab-pocket-saved = Opgeslagen
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
