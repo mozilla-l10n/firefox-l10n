@@ -17,6 +17,27 @@ menu-addons-and-themes =
 
 ## Help Menu
 
+menu-help-help-title =
+    .label = Ohje
+    .accesskey = H
+menu-help-get-help =
+    .label = Tuki
+    .accesskey = H
+menu-help-explore-features =
+    .label = Tutustu ominaisuuksiin
+    .accesskey = F
+menu-help-shortcuts =
+    .label = Pikanäppäimet
+    .accesskey = k
+menu-help-get-involved =
+    .label = Tule mukaan
+    .accesskey = G
+menu-help-donation =
+    .label = Tee lahjoitus
+    .accesskey = D
+menu-help-share-feedback =
+    .label = Jaa ideoita ja palautetta
+    .accesskey = S
 menu-help-enter-troubleshoot-mode =
     .label = Ongelmanratkaisutila…
     .accesskey = O
@@ -26,6 +47,12 @@ menu-help-exit-troubleshoot-mode =
 menu-help-more-troubleshooting-info =
     .label = Lisää ongelmanratkaisutietoja
     .accesskey = s
+menu-help-troubleshooting-info =
+    .label = Tietoja ongelmatilanteisiin
+    .accesskey = l
+menu-help-about-product =
+    .label = Tietoja: { -brand-short-name }
+    .accesskey = A
 
 ## Mail Toolbar
 
@@ -74,6 +101,9 @@ mail-uidensity-normal =
 mail-uidensity-touch =
     .label = Kosketus
     .accesskey = k
+mail-uidensity-default =
+    .label = Oletus
+    .accesskey = D
 menu-spaces-toolbar-button =
     .label = Tilat-työkalupalkki
     .accesskey = T

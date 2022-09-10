@@ -7,10 +7,12 @@ openpgp-key-assistant-title = OpenPGP-avainavustin
 ## Encryption status
 
 openpgp-key-assistant-recipients-issue-header = Ei voi salata
+openpgp-key-assistant-recipients-description-no-issues = Tämä viesti voidaan salata. Sinulla on käyttökelpoiset ja hyväksytyt avaimet kaikille vastaanottajille.
 
 ## Resolve section
 
 openpgp-key-assistant-valid-description = Valitse avain, jonka haluat hyväksyä
+openpgp-key-assistant-no-key-available = Avainta ei ole saatavilla.
 openpgp-key-assistant-multiple-keys = Useita avaimia on saatavilla.
 # Variables:
 # $date (String) - The expiration date of the key.
