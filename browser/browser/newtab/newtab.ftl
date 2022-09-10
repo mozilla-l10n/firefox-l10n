@@ -241,6 +241,8 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } è parte della fami
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Salva in { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = Salvato in { -pocket-brand-name }
+newtab-pocket-save = Salva
+newtab-pocket-saved = Salvato
 
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Carica altre storie
