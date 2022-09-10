@@ -66,10 +66,35 @@ appmenu-create-contact =
     .label = Kontakt
     .accesskey = K
 
+## Open
+
+appmenu-open-panel =
+    .label = Wócyniś
+    .accesskey = c
+appmenu-open-panel-title =
+    .title = Wócyniś
+appmenu-open-message =
+    .label = Powěsć…
+    .accesskey = P
+appmenu-open-calendar =
+    .label = Kalender…
+    .accesskey = K
+
 ## View / Layout
 
+appmenu-view-panel-title =
+    .title = Naglěd
+appmenu-view-panel =
+    .label = Naglěd
+    .accesskey = N
 appmenu-font-size-value = Pismowe wjelikosć
 appmenu-mail-uidensity-value = Gustosć
+appmenu-uidensity-compact =
+    .tooltiptext = Kompaktny
+appmenu-uidensity-default =
+    .tooltiptext = Standard
+appmenu-uidensity-relaxed =
+    .tooltiptext = Njenapěty
 appmenuitem-font-size-enlarge =
     .tooltiptext = Pismowu wjelikosć pówětšyś
 appmenuitem-font-size-reduce =
