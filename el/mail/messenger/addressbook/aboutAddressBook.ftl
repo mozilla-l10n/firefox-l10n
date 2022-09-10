@@ -180,6 +180,7 @@ about-addressbook-details-email-addresses-header = Διευθύνσεις email
 about-addressbook-details-phone-numbers-header = Αριθμοί τηλεφώνου
 about-addressbook-details-addresses-header = Διευθύνσεις
 about-addressbook-details-notes-header = Σημειώσεις
+about-addressbook-details-impp-header = Άμεσα μηνύματα
 about-addressbook-details-other-info-header = Άλλες πληροφορίες
 about-addressbook-entry-type-work = Εργασία
 about-addressbook-entry-type-home = Οικία
