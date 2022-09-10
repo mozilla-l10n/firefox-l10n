@@ -65,6 +65,9 @@ vcard-tz-add = Adder fuso horari
 vcard-impp-header = Contos chat
 vcard-impp-add = Adder conto chat
 vcard-impp-label = Conto chat
+vcard-impp-select = Protocollo
+vcard-impp-option-other = Altere
+vcard-impp-input-label = URI
 
 # BDAY and ANNIVERSARY vCard field
 
@@ -82,8 +85,6 @@ vcard-adr-header = Adresses
 vcard-adr-add = Adder adresse
 vcard-adr-label = Adresse
 vcard-adr-delivery-label = Etiquetta de consignation
-vcard-adr-pobox = Boxa postal
-vcard-adr-ext = Adresse extendite
 vcard-adr-street = Adresse del strata
 # Or "Locality"
 vcard-adr-locality = Citate

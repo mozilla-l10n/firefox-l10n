@@ -66,10 +66,35 @@ appmenu-create-contact =
     .label = Contacto
     .accesskey = C
 
+## Open
+
+appmenu-open-panel =
+    .label = Aperir
+    .accesskey = A
+appmenu-open-panel-title =
+    .title = Aperir
+appmenu-open-message =
+    .label = Message…
+    .accesskey = M
+appmenu-open-calendar =
+    .label = Agenda…
+    .accesskey = A
+
 ## View / Layout
 
+appmenu-view-panel-title =
+    .title = Vider
+appmenu-view-panel =
+    .label = Vider
+    .accesskey = V
 appmenu-font-size-value = Dimension del litteras
 appmenu-mail-uidensity-value = Densitate
+appmenu-uidensity-compact =
+    .tooltiptext = Compacte
+appmenu-uidensity-default =
+    .tooltiptext = Predefinite
+appmenu-uidensity-relaxed =
+    .tooltiptext = Relaxate
 appmenuitem-font-size-enlarge =
     .tooltiptext = Augmentar le dimension del litteras
 appmenuitem-font-size-reduce =
