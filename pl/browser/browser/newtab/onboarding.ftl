@@ -263,6 +263,19 @@ mr2022-onboarding-secondary-skip-button-label = Pomiń ten krok
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Odkrywaj fantastyczny Internet
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Uruchamiaj przeglądarkę { -brand-short-name } gdziekolwiek jesteś jednym kliknięciem. Za każdym razem, gdy to robisz, wybierasz bardziej otwartą i niezależną sieć.
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Zatrzymaj przeglądarkę { -brand-short-name } w Docku
+       *[other] Przypnij przeglądarkę { -brand-short-name } do paska zadań
+    }
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
