@@ -184,6 +184,7 @@ preferences-web-appearance-header = საიტის იერსახე
 preferences-web-appearance-description = ზოგიერთი ვებსაიტი თავის ფერებს უხამებს თქვენი პარამეტრებით მითითებულს. აირჩიეთ ფერები ამგვარი საიტებისთვის.
 preferences-web-appearance-choice-browser = { -brand-short-name } გაფორმება
 preferences-web-appearance-choice-system = სისტემური გაფორმება
+preferences-web-appearance-choice-auto = თვითშერჩევა
 preferences-web-appearance-choice-light = ნათელი
 preferences-web-appearance-choice-dark = მუქი
 preferences-web-appearance-choice-tooltip-browser =
@@ -198,6 +199,8 @@ preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
     .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
@@ -933,7 +936,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = საძიებო სისტემები
     .accesskey = ე
+addressbar-locbar-quickactions-option =
+    .label = სწრაფი მოქმედებები
+    .accesskey = წ
 addressbar-suggestions-settings = საძიებო სისტემის შემოთავაზებების პარამეტრები
+addressbar-quickactions-learn-more = ვრცლად
 
 ## Privacy Section - Content Blocking
 
@@ -1093,6 +1100,8 @@ addon-recommendations-link = ვრცლად
 collection-health-report-disabled = მოხსენებები გამორთულია ანაწყობის ამ კონფიგურაციისთვის
 collection-backlogged-crash-reports-with-link = ნებართვა, რომ { -brand-short-name } შეძლებს გაგზავნოს უეცარი გათიშვების დაგროვილი მოხსენებები, თქვენს ნაცვლად <a data-l10n-name="crash-reports-link">ვრცლად</a>
     .accesskey = უ
+privacy-segmentation-radio-on =
+    .label = დაწვრილებით ჩვენება
 
 ## Privacy Section - Security
 ##
