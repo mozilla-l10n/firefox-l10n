@@ -235,6 +235,9 @@ newtab-pocket-last-card-title = Tu es toto al currente!
 newtab-pocket-last-card-desc = Reveni plus tarde pro leger plus.
 newtab-pocket-last-card-image =
     .alt = Tu es toto al currente
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Salvar
+newtab-pocket-saved = Salvate
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
