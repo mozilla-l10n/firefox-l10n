@@ -333,11 +333,13 @@ mr2022-onboarding-colorway-tooltip-dreamer =
 mr2022-onboarding-colorway-label-innovator = ਖੋਜੀ
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = ਖੋਜੀ
+mr2022-onboarding-colorway-description-innovator = <b>ਤੁਸੀਂ ਖੋਜੀ ਹੋ।</b> ਤੁਸੀਂ ਹਰ ਥਾਂ ਉੱਤੇ ਮੌਕੇ ਤਲਾਸ਼ਦੇ ਹੋ ਅਤੇ ਆਪਣੇ ਆਲੇ ਦੁਆਲੇ ਹਰ ਕਿਸੇ ਦੀ ਜ਼ਿੰਦਗੀ ਉੱਤੇ ਅਸਰ ਛੱਡਦੇ ਹੋ।
 
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = ਲੈਪਟਾਪ ਤੋਂ ਫ਼ੋਨ ਉੱਤੇ ਜਾਓ ਅਤੇ ਫੇਰ ਵਾਪਸ ਆਓ
 mr2022-onboarding-mobile-download-subtitle = ਕਿਸੇ ਡਿਵਾਈਸ ਤੋਂ ਟੈਬਾਂ ਲਵੋ ਅਤੇ ਜਿੱਥੇ ਤੁਸੀਂ ਹੋਰ ਉੱਤੇ ਕੰਮ ਕਰਦੇ ਸੀ, ਉਥੋਂ ਜਾਰੀ ਰੱਖੋ। { -brand-product-name } ਨੂੰ ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ ਵਰਤੋਂ, ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਅਤੇ ਪਾਸਵਰਡ ਸਿੰਕ ਵੀ ਕਰ ਲਵੋ।
+mr2022-onboarding-mobile-download-cta-text = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਲਈ QR ਕੋਡ ਸਕੈਨ ਕਰੋ ਜਾਂ <a data-l10n-name="download-label">ਖੁਦ ਨੂੰ ਡਾਊਨਲੋਡ ਲਿੰਕ ਭੇਜੋ।</a>
 mr2022-onboarding-no-mobile-download-cta-text = ਮੋਬਾਇਲ ਲਈ { -brand-product-name } ਲੈਣ ਲਈ QR ਕੋਡ ਸਕੈਨ ਕਰੋ।
 
 ## MR2022 Upgrade Dialog screens
