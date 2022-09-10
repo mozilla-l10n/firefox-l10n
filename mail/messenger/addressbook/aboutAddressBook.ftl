@@ -180,10 +180,12 @@ about-addressbook-details-email-addresses-header = E-mail-címek
 about-addressbook-details-phone-numbers-header = Telefonszámok
 about-addressbook-details-addresses-header = Címek
 about-addressbook-details-notes-header = Jegyzetek
+about-addressbook-details-impp-header = Azonnali üzenetküldés
 about-addressbook-details-other-info-header = Egyéb információk
 about-addressbook-entry-type-work = Munkahelyi
 about-addressbook-entry-type-home = Otthoni
 about-addressbook-entry-type-fax = Fax
+# Or "Mobile"
 about-addressbook-entry-type-cell = Mobil
 about-addressbook-entry-type-pager = Személyhívó
 about-addressbook-entry-name-birthday = Születésnap

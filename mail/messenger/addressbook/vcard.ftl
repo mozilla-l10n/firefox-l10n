@@ -63,8 +63,13 @@ vcard-tz-add = Időzóna hozzáadása
 # IMPP vCard field
 
 vcard-impp-header = Csevegőfiókok
+vcard-impp2-header = Azonnali üzenetküldés
 vcard-impp-add = Csevegőfiók hozzáadása
 vcard-impp-label = Csevegőfiók
+vcard-impp-select = Protokoll
+vcard-impp-option-other = Egyéb
+vcard-impp-input-label = URI
+vcard-impp-input-title = Azonnali üzenetküldés URI-ja
 
 # BDAY and ANNIVERSARY vCard field
 
@@ -82,8 +87,6 @@ vcard-adr-header = Címek
 vcard-adr-add = Cím hozzáadása
 vcard-adr-label = Cím
 vcard-adr-delivery-label = Szállítási címke
-vcard-adr-pobox = Postafiók
-vcard-adr-ext = Bővített cím
 vcard-adr-street = Utca, házszám
 # Or "Locality"
 vcard-adr-locality = Város
