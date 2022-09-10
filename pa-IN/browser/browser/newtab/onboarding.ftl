@@ -330,6 +330,9 @@ mr2022-onboarding-colorway-tooltip-visionary =
 mr2022-onboarding-colorway-label-dreamer = ਸੁਪਨਸਾਜ਼
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = ਸੁਪਨਸਾਜ਼
+mr2022-onboarding-colorway-label-innovator = ਖੋਜੀ
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = ਖੋਜੀ
 
 ## MR2022 Multistage Mobile Download screen strings
 
@@ -340,10 +343,19 @@ mr2022-onboarding-no-mobile-download-cta-text = ਮੋਬਾਇਲ ਲਈ { -bra
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਆਜ਼ਾਦੀ ਇੱਕ ਕਲਿੱਕ ਨਾਲ ਲਵੋ
+mr2022-upgrade-onboarding-pin-private-window-subtitle = ਕੋਈ ਵੀ ਸੰਭਾਲੇ ਕੂਕੀਜ਼ ਜਾਂ ਅਤੀਤ ਨਹੀਂ, ਸਿੱਧੇ ਤੁਹਾਡੇ ਡੈਸਕਟਾਪ ਤੋਂ। ਬਰਾਊਜ਼ ਇੰਞ ਕਰੋ ਕਿ ਕੋਈ ਨਿਗਰਾਨੀ ਨਹੀਂ ਕਰਦਾ।
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਡੌਕ ਵਿੱਚ ਰੱਖੋ
+       *[other] { -brand-short-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਟਾਸਕ-ਬਾਰ ਵਿੱਚ ਟੰਗੋ
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = ਅਸੀਂ ਹਮੇਸ਼ਾਂ ਤੁਹਾਡੀ ਪਰਰੇਦਾਰੀ ਦਾ ਸਤਿਕਾਰ ਕਰਦੇ ਹਾਂ
+mr2022-onboarding-privacy-segmentation-subtitle = ਮਾਹਰ ਸੁਝਾਆਵਾਂ ਤੋਂ ਚੁਸਤ ਖੋਜ ਲਈ, ਅਸੀਂ ਲਗਾਤਾਰ ਬੇਹਤਰ, ਵੱਧ ਨਿੱਜੀ { -brand-product-name } ਬਣਾਉਣ ਲਈ ਕੰਮ ਕਰ ਰਹੇ ਹਾਂ।
+mr2022-onboarding-privacy-segmentation-text-cta = ਜਦੋਂ ਅਸੀਂ ਤੁਹਾਡੀ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਸੁਧਾਰਨ ਲਈ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਵਰਤਣ ਵਾਲੇ ਨਵੇਂ ਫੀਚਰ ਦੇਈਏ ਤਾਂ ਤੁਸੀਂ ਕੀ ਵੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?
 mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name } ਸਿਫ਼ਾਰਸ਼ਾਂ ਨੂੰ ਵਰਤੋਂ
 mr2022-onboarding-privacy-segmentation-button-secondary-label = ਵੇਰਵੇ ਸਮੇਤ ਜਾਣਕਾਰੀ ਵੇਖਾਓ
 
