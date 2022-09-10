@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = Amsefrak n ukala
-
 # The Actions column
 about-processes-column-action =
     .title = Tigawin
@@ -15,7 +14,6 @@ about-processes-shutdown-process =
     .title = Sefsex asali n waccaren, rnu neɣ akala
 about-processes-shutdown-tab =
     .title = Mdel iccer
-
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -52,9 +50,7 @@ about-processes-socket-process = Azeṭṭa ({ $pid })
 about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Anɣal n uqeddac ({ $pid })
 about-processes-preallocated-process = Adeg uzwir ({ $pid })
-
 about-processes-utility-process = Tixxuteṛt ({ $pid })
-
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -89,7 +85,6 @@ about-processes-active-threads =
         [one] { $active } asqerdec yermed ɣef { $number }: { $list }
        *[other] { $active } isqerdcen remden ɣef { $number }: { $list }
     }
-
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -101,34 +96,32 @@ about-processes-inactive-threads =
         [one] { $number } n usqerdec ur nermid ara
        *[other] { $number } n yisqerdcen ur nermid ara
     }
-
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = Asulay n usqerdec: { $tid }
-
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Iccer: { $name }
 about-processes-preloaded-tab = Asali qbel n yiccer amaynut
-
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Akatar n ddaw: { $url }
-
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Ikataren n ddaw ({ $number }): { $shortUrl }
 
-# Utility process actor names
+## Utility process actor names
+
 about-processes-utility-actor-unknown = Amigaw arussin
 about-processes-utility-actor-audio-decoder = Amakkas n usettengel Ameslaw
+about-processes-utility-actor-audio-decoder-generic = Akestengal n umeslaw imcettel
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -142,15 +135,12 @@ about-processes-utility-actor-audio-decoder = Amakkas n usettengel Ameslaw
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Akud asemday  CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (askazel)
-
 # Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
 # This case only occurs on Windows where the precision of the CPU times is low.
 about-processes-cpu-almost-idle = < 0.1%
     .title = Akud asemday n CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = idle
     .title = Akud asemday n CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
@@ -169,7 +159,6 @@ about-processes-cpu-fully-idle = idle
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = Anerni: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
-
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
