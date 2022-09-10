@@ -66,3 +66,4 @@ experimental-features-text-recognition =
 experimental-features-text-recognition-description = სურათიდან წარწერის ამოკითხხვის შესაძლებლობა
 experimental-features-accessibility-cache =
     .label = Accessibility cache
+experimental-features-accessibility-cache-description = მოიმარაგებს ხელმისაწვდომობის ყველა მონაცემს ყველა დოკუმენტისას, რომელთაც { -brand-short-name } ამუშავებს მთავარ პროცესში. შედეგად, გაუმჯობესდება ეკრანის წამკითხველებისა და იმ პროგრამების წარმადობა, რომლებიც იყენებს ხელმისაწვდომობის მაკავშირებელ გარსებს (API).
