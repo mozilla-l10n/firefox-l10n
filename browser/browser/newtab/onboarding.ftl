@@ -358,13 +358,25 @@ mr2022-onboarding-colorway-description-innovator = <b>Innowatorka.</b> Wszędzie
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Przełączaj się z laptopa na telefon i z powrotem
+mr2022-onboarding-mobile-download-subtitle = Otwieraj karty z innego urządzenia i kontynuuj w tym samym miejscu, a także synchronizuj zakładki i hasła wszędzie, gdzie używasz przeglądarki { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Zeskanuj kod QR, aby pobrać przeglądarkę { -brand-product-name } na telefon lub <a data-l10n-name="download-label">wyślij sobie odnośnik do pobrania</a>.
+mr2022-onboarding-no-mobile-download-cta-text = Zeskanuj kod QR, aby pobrać przeglądarkę { -brand-product-name } na telefon.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Miej wolność trybu prywatnego pod jednym kliknięciem
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Żadnych zapisanych ciasteczek ani historii, prosto z pulpitu. Przeglądaj, jak gdyby nikt nie patrzył.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Zatrzymaj tryb prywatny przeglądarki { -brand-short-name } w Docku
+       *[other] Przypnij tryb prywatny przeglądarki { -brand-short-name } do paska zadań
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Zawsze szanujemy Twoją prywatność
+mr2022-onboarding-privacy-segmentation-subtitle = Od inteligentnych podpowiedzi po sprytniejsze wyszukiwanie, nieustannie pracujemy nad tworzeniem lepszej, bardziej spersonalizowanej przeglądarki { -brand-product-name }.
 
 ## MR2022 Multistage Gratitude screen strings
 
