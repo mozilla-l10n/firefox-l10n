@@ -239,6 +239,9 @@ newtab-pocket-last-card-title = Τελειώσατε!
 newtab-pocket-last-card-desc = Ελέγξτε ξανά αργότερα για περισσότερα.
 newtab-pocket-last-card-image =
     .alt = Τελειώσατε!
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Αποθήκευση
+newtab-pocket-saved = Αποθηκεύτηκε
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
