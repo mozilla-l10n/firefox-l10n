@@ -15,6 +15,6 @@ callout-firefox-view-tab-pickup-title = Переходите между устр
 callout-firefox-view-tab-pickup-subtitle = Быстро заберите открытые вкладки со своего телефона и открывайте их здесь для продолжения работы.
 callout-firefox-view-recently-closed-title = Быстро верните закрытые вкладки
 callout-firefox-view-recently-closed-subtitle = Все ваши закрытые вкладки волшебным образом появятся здесь. Больше никогда не беспокойтесь, что случайно закрыли сайт.
-callout-firefox-view-colorways-title = Добавьте всплеск цвета
+callout-firefox-view-colorways-title = Добавьте всплеск цветов
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Выберите цвет, подходящий именно вам, с помощью расцветок. Только в { -brand-product-name }.
