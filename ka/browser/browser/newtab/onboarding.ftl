@@ -268,7 +268,7 @@ mr2022-onboarding-secondary-skip-button-label = გამოტოვება
 # In this context, open up is synonymous with "Discover".
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
-mr2022-onboarding-welcome-pin-header = გახსენით ინტერნეტსამყაროს კარი
+mr2022-onboarding-welcome-pin-header = გახსენით საოცარი ინტერნეტსამყაროს კარი
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
 mr2022-onboarding-welcome-pin-subtitle = გაუშვით { -brand-short-name } ერთი შეხებით. ყოველ ჯერზე ამის გაკეთებისას, თქვენ ირჩევთ მეტად ღია და დამოუკიდებელ ინტერნეტს.
 # Primary button string used on welcome page for when Firefox is not pinned.
@@ -281,7 +281,7 @@ mr2022-onboarding-pin-primary-button-label =
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = შეუდექით ბრაუზერის გამოყენებას, რომელსაც არამომგებიანი ორგანიზაცია ქმნის. ჩვენ ვიცავთ თქვენს პირად მონაცემებს, როცა ვებსივრცეში მოგზაურობთ.
+mr2022-onboarding-set-default-only-subtitle = შეუდექით ბრაუზერის გამოყენებას, რომელიც არამომგებიანი ორგანიზაციისგანაა. ჩვენ ვიცავთ თქვენს პირად მონაცემებს, როცა ვებსივრცეში მოგზაურობთ.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -298,12 +298,16 @@ mr2022-onboarding-existing-pin-header = გმადლობთ, რომ გ�
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = ელვისებური გამართვა
+mr2022-onboarding-import-subtitle = მოაწყვეთ { -brand-short-name } სურვილისამებრ. გადმოიტანეთ თქვენი ძველი ბრაუზერიდან კუთვნილი სანიშნები, პაროლები და სხვ.
+mr2022-onboarding-import-primary-button-label-no-attribution = გადმოტანა წინა ბრაუზერიდან
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = აირჩიეთ შთამაგონებელი ფერები
 
 ## MR2022 Multistage Mobile Download screen strings
 
