@@ -225,9 +225,13 @@ mr2-onboarding-start-browsing-button-label = Začnite z brskanjem
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Izberite svoj jezik
+mr2022-onboarding-live-language-text = { -brand-short-name } govori vaš jezik
+mr2022-language-mismatch-subtitle = Zahvaljujoč naši skupnosti je { -brand-short-name } preveden v več kot 90 jezikov. Videti je, da vaš sistem uporablja jezik { $systemLanguage }, { -brand-short-name } pa jezik { $appLanguage }.
 onboarding-live-language-button-label-downloading = Prenašanje jezikovnega paketa za jezik { $negotiatedLanguage } …
 onboarding-live-language-waiting-button = Pridobivanje razpoložljivih jezikov …
 onboarding-live-language-installing = Nameščanje jezikovnega paketa za jezik { $negotiatedLanguage } …
+mr2022-onboarding-live-language-switch-to = Preklopi na jezik { $negotiatedLanguage }
+mr2022-onboarding-live-language-continue-in = Nadaljuj v jeziku { $appLanguage }
 onboarding-live-language-secondary-cancel-download = Prekliči
 onboarding-live-language-skip-button-label = Preskoči
 
@@ -259,6 +263,11 @@ mr2022-onboarding-secondary-skip-button-label = Preskoči ta korak
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Vstopite v neverjeten internet
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -268,9 +277,13 @@ mr2022-onboarding-pin-primary-button-label =
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Hvala, ker imate radi { -brand-product-name }
+mr2022-onboarding-existing-pin-checkbox-label = Dodaj tudi zasebno brskanje { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
 
+mr2022-onboarding-set-default-primary-button-label = Nastavi { -brand-short-name } kot privzeti brskalnik
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -279,12 +292,45 @@ mr2022-onboarding-pin-primary-button-label =
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-primary-button-label-no-attribution = Uvozi iz prejšnjega brskalnika
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Izberite barvo, ki vas navdihuje
+mr2022-onboarding-colorway-subtitle = Neodvisni glasovi lahko spreminjajo kulturo.
+mr2022-onboarding-colorway-primary-button-label = Nastavi barvno kombinacijo
+mr2022-onboarding-existing-colorway-checkbox-label = Naj bo { -firefox-home-brand-name } vaša barvita domača stran
+mr2022-onboarding-colorway-label-default = Privzeta
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Privzeta
+mr2022-onboarding-colorway-description-default = <b>Uporabi moje trenutne barve { -brand-short-name(sklon: "rodilnik") }.</b>
+mr2022-onboarding-colorway-label-playmaker = Organizator igre
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Organizator igre
+mr2022-onboarding-colorway-description-playmaker = <b>Ste organizator igre.</b> Ustvarjate priložnosti za zmago in vsem okoli sebe pomagate igrati bolje.
+mr2022-onboarding-colorway-label-expressionist = Ekspresionist
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Ekspresionist
+mr2022-onboarding-colorway-description-expressionist = <b>Ste ekspresionist.</b> Svet vidite drugače in vaše stvaritve pri drugih vzbujajo čustva.
+mr2022-onboarding-colorway-label-visionary = Vizionar
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Vizionar
+mr2022-onboarding-colorway-description-visionary = <b>Ste vizionar.</b> Ne sprijaznite se s statusom quo in drugim predstavljate boljšo prihodnost.
+mr2022-onboarding-colorway-label-activist = Aktivist
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Aktivist
+mr2022-onboarding-colorway-description-activist = <b>Ste aktivist.</b> Svet pustite boljši, kot ste ga našli, in prepričate druge, da verjamejo.
+mr2022-onboarding-colorway-label-dreamer = Sanjač
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Sanjač
+mr2022-onboarding-colorway-description-dreamer = <b>Ste sanjač.</b> Verjamete, da je sreča naklonjena hrabrim, in drugim vlivate pogum.
+mr2022-onboarding-colorway-label-innovator = Inovator
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Inovator
+mr2022-onboarding-colorway-description-innovator = <b>Ste inovator.</b> V vsem vidite priložnosti in vplivate na življenja vseh okoli sebe.
 
 ## MR2022 Multistage Mobile Download screen strings
 
