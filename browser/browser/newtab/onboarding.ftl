@@ -279,6 +279,11 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Kiinnitä { -brand-short-name } Dockiin
        *[other] Kiinnitä { -brand-short-name } tehtäväpalkkiin
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Aloita voittoa tavoittelemattoman säätiön tukemalla selaimella. Puolustamme yksityisyyttäsi, kun selaat verkkoa.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
