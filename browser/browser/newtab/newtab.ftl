@@ -235,6 +235,9 @@ newtab-pocket-last-card-title = 都讀完了！
 newtab-pocket-last-card-desc = 晚點再回來看看有沒有新文章。
 newtab-pocket-last-card-image =
     .alt = 都讀完了！
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = 儲存
+newtab-pocket-saved = 已儲存
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
