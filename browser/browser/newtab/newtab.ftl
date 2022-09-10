@@ -237,6 +237,7 @@ newtab-pocket-last-card-image =
     .alt = Vous avez fait le tour !
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Enregistrer
+newtab-pocket-saved = Enregistrée
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
