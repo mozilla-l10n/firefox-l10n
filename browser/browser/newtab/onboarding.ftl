@@ -276,29 +276,88 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Zatrzymaj przeglądarkę { -brand-short-name } w Docku
        *[other] Przypnij przeglądarkę { -brand-short-name } do paska zadań
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Zaczynaj od przeglądarki wspieranej przez organizację non-profit. Bronimy Twojej prywatności, kiedy śmigasz po sieci.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Dziękujemy za waszą miłość do przeglądarki { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Uruchamiaj zdrowszy Internet gdziekolwiek jesteś jednym kliknięciem. Nasza najnowsza aktualizacja jest wypełniona nowościami, które naszym zdaniem pokochasz.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Korzystaj z przeglądarki broniącej Twojej prywatności, kiedy śmigasz po sieci. Nasza najnowsza aktualizacja jest wypełniona rzeczami, które uwielbiasz.
+mr2022-onboarding-existing-pin-checkbox-label = Dodaj także tryb prywatny przeglądarki { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Używaj przeglądarki { -brand-short-name } za każdym razem
+mr2022-onboarding-set-default-primary-button-label = Ustaw przeglądarkę { -brand-short-name } jako domyślną
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Używaj przeglądarki wspieranej przez organizację non-profit. Bronimy Twojej prywatności, kiedy śmigasz po sieci.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Nasza najnowsza wersja jest tworzona z myślą o Tobie, dzięki czemu śmiganie po sieci jest łatwiejsze niż kiedykolwiek. Jest wypełniona funkcjami, które naszym zdaniem pokochasz.
+mr2022-onboarding-get-started-primary-button-label = Skonfiguruj w kilka sekund
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Błyskawiczna konfiguracja
+mr2022-onboarding-import-subtitle = Skonfiguruj przeglądarkę { -brand-short-name } tak, jak lubisz. Dodaj zakładki, hasła i nie tylko ze starej przeglądarki.
+mr2022-onboarding-import-primary-button-label-no-attribution = Importuj z poprzedniej przeglądarki
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Wybierz kolor, który Cię inspiruje
+mr2022-onboarding-colorway-subtitle = Niezależne głosy mogą zmieniać kulturę.
+mr2022-onboarding-colorway-primary-button-label = Ustaw kolorystykę
+mr2022-onboarding-existing-colorway-checkbox-label = Ustaw kolorową { -firefox-home-brand-name(case: "acc", capitalization: "lower") }
+mr2022-onboarding-colorway-label-default = Domyślna
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Domyślna
+mr2022-onboarding-colorway-description-default = <b>Używaj obecnych kolorów przeglądarki { -brand-short-name }.</b>
+mr2022-onboarding-colorway-label-playmaker = Rozgrywająca
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Rozgrywająca
+mr2022-onboarding-colorway-description-playmaker = <b>Rozgrywająca.</b> Stwarzasz szanse na wygraną i pomagasz wszystkim wokół siebie grać na wyższym poziomie.
+mr2022-onboarding-colorway-label-expressionist = Ekspresjonistka
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Ekspresjonistka
+mr2022-onboarding-colorway-description-expressionist = <b>Ekspresjonistka.</b> Widzisz świat inaczej, a Twoje dzieła budzą w innych emocje.
+mr2022-onboarding-colorway-label-visionary = Wizjonerka
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Wizjonerka
+mr2022-onboarding-colorway-description-visionary = <b>Wizjonerka.</b> Kwestionujesz status quo i skłaniasz innych do wyobrażenia sobie lepszej przyszłości.
+mr2022-onboarding-colorway-label-activist = Aktywistka
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Aktywistka
+mr2022-onboarding-colorway-description-activist = <b>Aktywistka.</b> Zostawiasz świat lepszym miejscem niż go zastałaś i wskazujesz innym drogę.
+mr2022-onboarding-colorway-label-dreamer = Marzycielka
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Marzycielka
+mr2022-onboarding-colorway-description-dreamer = <b>Marzycielka.</b> Wierzysz, że śmiałym szczęście sprzyja i inspirujesz innych do odwagi.
+mr2022-onboarding-colorway-label-innovator = Innowatorka
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Innowatorka
+mr2022-onboarding-colorway-description-innovator = <b>Innowatorka.</b> Wszędzie widzisz możliwości i wpływasz na życie wszystkich wokół siebie.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Przełączaj się z laptopa na telefon i z powrotem
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
