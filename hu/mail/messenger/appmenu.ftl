@@ -66,10 +66,35 @@ appmenu-create-contact =
     .label = Névjegy
     .accesskey = N
 
+## Open
+
+appmenu-open-panel =
+    .label = Megnyitás
+    .accesskey = M
+appmenu-open-panel-title =
+    .title = Megnyitás
+appmenu-open-message =
+    .label = Üzenet…
+    .accesskey = z
+appmenu-open-calendar =
+    .label = Naptár…
+    .accesskey = N
+
 ## View / Layout
 
+appmenu-view-panel-title =
+    .title = Nézet
+appmenu-view-panel =
+    .label = Nézet
+    .accesskey = N
 appmenu-font-size-value = Betűméret
 appmenu-mail-uidensity-value = Sűrűség
+appmenu-uidensity-compact =
+    .tooltiptext = Kompakt
+appmenu-uidensity-default =
+    .tooltiptext = Alapértelmezett
+appmenu-uidensity-relaxed =
+    .tooltiptext = Laza
 appmenuitem-font-size-enlarge =
     .tooltiptext = Betűméret növelése
 appmenuitem-font-size-reduce =
