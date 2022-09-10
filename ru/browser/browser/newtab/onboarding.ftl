@@ -293,6 +293,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Импортир�
 ## help creating a more inclusive translation.
 
 mr2022-onboarding-colorway-title = Выберите цвет, который вас вдохновляет
+mr2022-onboarding-colorway-subtitle = Независимые голоса могут изменить культуру.
 mr2022-onboarding-colorway-primary-button-label = Установить расцветку
 mr2022-onboarding-existing-colorway-checkbox-label = Сделайте { -firefox-home-brand-name(case: "accusative") } красочной домашней страницей
 mr2022-onboarding-colorway-label-default = По умолчанию
