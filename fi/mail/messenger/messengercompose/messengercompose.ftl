@@ -273,6 +273,11 @@ cloud-file-rename-not-supported = { $provider } ei tue jo ladattujen tiedostojen
 
 ## Link Preview
 
+link-preview-title = Linkin esikatselu
+link-preview-description = { -brand-short-name } voi lisätä upotetun esikatselun linkkien liittämisen yhteydessä.
+link-preview-autoadd = Lisää automaattisesti linkkien esikatselut, kun mahdollista
+link-preview-replace-now = Lisätäänkö linkin esikatselu tälle linkille?
+link-preview-yes-replace = Kyllä
 
 ## Dictionary selection popup
 
