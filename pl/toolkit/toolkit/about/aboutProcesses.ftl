@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = Menedżer procesów
-
 # The Actions column
 about-processes-column-action =
     .title = Działania
@@ -15,7 +14,6 @@ about-processes-shutdown-process =
     .title = Usuń karty z pamięci i zakończ proces
 about-processes-shutdown-tab =
     .title = Zamknij kartę
-
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -53,9 +51,7 @@ about-processes-socket-process = Sieć ({ $pid })
 about-processes-remote-sandbox-broker-process = Broker zdalnej piaskownicy ({ $pid })
 about-processes-fork-server-process = Serwer rozdzielania ({ $pid })
 about-processes-preallocated-process = Wstępnie przydzielony ({ $pid })
-
 about-processes-utility-process = Narzędziowy ({ $pid })
-
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -91,7 +87,6 @@ about-processes-active-threads =
         [few] { $active } aktywne wątki z { $number }: { $list }
        *[many] { $active } aktywnych wątków z { $number }: { $list }
     }
-
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -104,34 +99,35 @@ about-processes-inactive-threads =
         [few] { $number } nieaktywne wątki
        *[many] { $number } nieaktywnych wątków
     }
-
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = Identyfikator wątku: { $tid }
-
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Karta: { $name }
 about-processes-preloaded-tab = Wstępnie wczytana nowa karta
-
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Ramka podrzędna: { $url }
-
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Ramki podrzędne ({ $number }): { $shortUrl }
 
-# Utility process actor names
+## Utility process actor names
+
 about-processes-utility-actor-unknown = Nieznany aktor
 about-processes-utility-actor-audio-decoder = Dekoder dźwięku
+about-processes-utility-actor-audio-decoder-generic = Standardowy dekoder dźwięku
+about-processes-utility-actor-audio-decoder-applemedia = Dekoder dźwięku Apple Media
+about-processes-utility-actor-audio-decoder-wmf = Dekoder dźwięku Windows Media Framework
+about-processes-utility-actor-mf-media-engine = Moduł CDM mechanizmu Windows Media Foundation Media Engine
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -145,15 +141,12 @@ about-processes-utility-actor-audio-decoder = Dekoder dźwięku
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Całkowity czas procesora: { NUMBER($total, maximumFractionDigits: 0) } { $unit }
-
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (trwa mierzenie)
-
 # Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
 # This case only occurs on Windows where the precision of the CPU times is low.
 about-processes-cpu-almost-idle = < 0,1%
     .title = Całkowity czas procesora: { NUMBER($total, maximumFractionDigits: 0) } { $unit }
-
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = bezczynny
     .title = Całkowity czas procesora: { NUMBER($total, maximumFractionDigits: 0) } { $unit }
@@ -172,7 +165,6 @@ about-processes-cpu-fully-idle = bezczynny
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
     .title = Zmiana w czasie: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit }
-
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 
