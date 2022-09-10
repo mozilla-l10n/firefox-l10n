@@ -368,9 +368,19 @@ mr2022-onboarding-no-mobile-download-cta-text = წააკითხეთ QR-�
 
 mr2022-upgrade-onboarding-pin-private-window-header = პირადი თვალიერება ერთი დაწკაპებით
 mr2022-upgrade-onboarding-pin-private-window-subtitle = არანაირი კვალი და გვერდების ისტორია, პირდაპირ სამუშაო ეკრანიდან. მოინახულეთ საიტები მეთვალყურეობის გარეშე.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] განთავსდეს Dock-ზე { -brand-short-name } – პირადი
+       *[other] მიმაგრდეს ამოცანათა ზოლზე { -brand-short-name } – პირადი
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = ჩვენ ყოველთვის პატივს ვცემთ თქვენს პირადულობას
+mr2022-onboarding-privacy-segmentation-subtitle = საზრიანი შემოთავაზებებითა გონიერი საძიებოთი მუდამ ვცდილობთ, გავხადოთ { -brand-product-name } უკეთესი და მეტად პირადი.
+mr2022-onboarding-privacy-segmentation-text-cta = რისი ხილვა გსურთ თქვენი მონაცემების საფუძველზე ახალი შესაძლებლობების შემოთავაზებისას?
+mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name }-შემოთავაზებების გამოყენება
+mr2022-onboarding-privacy-segmentation-button-secondary-label = დაწვრილებით ჩვენება
 
 ## MR2022 Multistage Gratitude screen strings
 
