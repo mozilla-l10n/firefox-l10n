@@ -22,7 +22,7 @@ firefoxview-tabpickup-recenttabs-description = ბოლოდროინდე
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% შესრულებულია
 firefoxview-tabpickup-step-signin-header = მოქნილად გადაერთეთ მოწყობილობებს შორის
-firefoxview-tabpickup-step-signin-description = თქვენი ტელეფონიდან ჩანართების გადმოსატანად, ჯერ შექმენით ან შედით ანგარიშზე.
+firefoxview-tabpickup-step-signin-description = თქვენი ტელეფონიდან ჩანართების გადმოსატანად ჯერ შექმენით ან შედით ანგარიშზე.
 firefoxview-tabpickup-step-signin-primarybutton = განაგრძეთ
 firefoxview-tabpickup-adddevice-header = დაასინქრონეთ { -brand-product-name } თქვენს ტელეფონსა და პლანშეტზე
 firefoxview-tabpickup-adddevice-description = ჩამოტვირთეთ { -brand-product-name } მობილურზე და იქიდანაც შედით.
