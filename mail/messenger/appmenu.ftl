@@ -18,10 +18,17 @@ appmenu-newab-panel-title =
 appmenu-create-panel-title =
     .title = Créer
 
+## Open
+
+
 ## View / Layout
 
 appmenu-font-size-value = Taille de police
 appmenu-mail-uidensity-value = Densité
+appmenu-uidensity-compact =
+    .tooltiptext = Compacte
+appmenu-uidensity-default =
+    .tooltiptext = Par défaut
 appmenuitem-font-size-enlarge =
     .tooltiptext = Augmenter la taille de la police
 appmenuitem-font-size-reduce =
