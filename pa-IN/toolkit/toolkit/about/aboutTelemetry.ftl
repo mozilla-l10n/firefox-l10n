@@ -81,6 +81,8 @@ about-telemetry-no-search-results-all = ਅਫ਼ਸੋਸ! “{ $searchTerms }” 
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = ਅਫ਼ਸੋਸ! ਇਸ ਵੇਲੇ “{ $sectionName }” ਵਿੱਚ ਕੋਈ ਵੀ ਡਾਟਾ ਉਪਲਬਧ ਨਹੀਂ ਹੈ
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = ਮੌਜੂਦਾ ਡਾਟਾ
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = ਸਾਰੇ
 # button label to copy the histogram
@@ -111,6 +113,9 @@ about-telemetry-category-header = ਵਰਗ
 about-telemetry-method-header = ਢੰਗ
 about-telemetry-object-header = ਆਬਜੈਕਟ
 about-telemetry-extra-header = ਵਾਧੂ
+about-telemetry-origin-section = ਮੂਲ ਟੈਲੀਮੈਟਰੀ
+about-telemetry-origin-origin = ਮੂਲ
+about-telemetry-origin-count = ਗਿਣਤੀ
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } ਪਰੋਸੈਸ
