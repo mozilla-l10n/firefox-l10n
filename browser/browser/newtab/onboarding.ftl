@@ -377,7 +377,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = Zawsze szanujemy Twoją prywatność
 mr2022-onboarding-privacy-segmentation-subtitle = Od inteligentnych podpowiedzi po sprytniejsze wyszukiwanie, nieustannie pracujemy nad tworzeniem lepszej, bardziej spersonalizowanej przeglądarki { -brand-product-name }.
-mr2022-onboarding-privacy-segmentation-text-cta = Co chcesz zobaczysz, kiedy oferujemy nowe funkcje wykorzystujące Twoje dane do usprawniania przeglądania?
+mr2022-onboarding-privacy-segmentation-text-cta = Co chcesz zobaczyć, kiedy oferujemy nowe funkcje wykorzystujące Twoje dane do usprawniania przeglądania?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Używaj zaleceń przeglądarki { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Wyświetlaj szczegółowe informacje
 
