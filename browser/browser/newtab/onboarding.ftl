@@ -335,6 +335,7 @@ mr2022-onboarding-colorway-tooltip-dreamer =
 
 mr2022-onboarding-mobile-download-title = ਲੈਪਟਾਪ ਤੋਂ ਫ਼ੋਨ ਉੱਤੇ ਜਾਓ ਅਤੇ ਫੇਰ ਵਾਪਸ ਆਓ
 mr2022-onboarding-mobile-download-subtitle = ਕਿਸੇ ਡਿਵਾਈਸ ਤੋਂ ਟੈਬਾਂ ਲਵੋ ਅਤੇ ਜਿੱਥੇ ਤੁਸੀਂ ਹੋਰ ਉੱਤੇ ਕੰਮ ਕਰਦੇ ਸੀ, ਉਥੋਂ ਜਾਰੀ ਰੱਖੋ। { -brand-product-name } ਨੂੰ ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ ਵਰਤੋਂ, ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਅਤੇ ਪਾਸਵਰਡ ਸਿੰਕ ਵੀ ਕਰ ਲਵੋ।
+mr2022-onboarding-no-mobile-download-cta-text = ਮੋਬਾਇਲ ਲਈ { -brand-product-name } ਲੈਣ ਲਈ QR ਕੋਡ ਸਕੈਨ ਕਰੋ।
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
