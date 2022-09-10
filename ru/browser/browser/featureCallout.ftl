@@ -9,4 +9,12 @@ callout-primary-complete-button-label = Понятно!
 
 ## Firefox View feature tour strings
 
+# "Tab pickup" refers to the section in Firefox View that displays open
+# tabs from other devices
+callout-firefox-view-tab-pickup-title = Переходите между устройствами и забирайте вкладки
+callout-firefox-view-tab-pickup-subtitle = Быстро заберите открытые вкладки со своего телефона и открывайте их здесь для продолжения работы.
+callout-firefox-view-recently-closed-title = Быстро верните закрытые вкладки
+callout-firefox-view-recently-closed-subtitle = Все ваши закрытые вкладки волшебным образом появятся здесь. Больше никогда не беспокойтесь, что случайно закрыли сайт.
 callout-firefox-view-colorways-title = Добавьте всплеск цвета
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Выберите цвет, подходящий именно вам, с помощью расцветок. Только в { -brand-product-name }.

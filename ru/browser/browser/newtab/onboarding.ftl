@@ -356,6 +356,8 @@ mr2022-onboarding-colorway-description-innovator = <b>Вы — Новатор.</
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Переходите с ноутбука на телефон и обратно
+mr2022-onboarding-mobile-download-subtitle = Возьмите вкладки с одного устройства, и продолжайте с того места, на котором остановились, на другом. Также синхронизируйте свои закладки и пароли везде, где вы используете { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Отсканируйте QR-код, чтобы загрузить { -brand-product-name } для мобильных устройств, или <a data-l10n-name="download-label">отправьте себе ссылку для загрузки.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Отсканируйте QR-код, чтобы загрузить { -brand-product-name } на смартфон.
 
 ## MR2022 Upgrade Dialog screens
@@ -371,11 +373,15 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Мы всегда уважаем вашу приватность
+mr2022-onboarding-privacy-segmentation-subtitle = Мы постоянно работаем над созданием лучшего и более индивидуального { -brand-product-name }, от интеллектуальных предложений до более умного поиска.
+mr2022-onboarding-privacy-segmentation-text-cta = Что вы хотите видеть, когда мы предлагаем новые функции, которые используют ваши данные для улучшения веб-сёрфинга?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Использовать рекомендации { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Показать подробную информацию
 
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Вы помогаете нам сделать Интернет лучше.
+mr2022-onboarding-gratitude-subtitle = Благодарим вас за использование { -brand-short-name }, поддерживаемого Mozilla Foundation. С вашей поддержкой мы работаем над тем, чтобы сделать Интернет более открытым, доступным и лучшим для всех и каждого.
 mr2022-onboarding-gratitude-primary-button-label = Ознакомьтесь с новинками
 mr2022-onboarding-gratitude-secondary-button-label = Начать веб-сёрфинг
