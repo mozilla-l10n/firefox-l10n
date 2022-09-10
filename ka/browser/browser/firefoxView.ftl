@@ -66,3 +66,7 @@ firefoxview-change-colorway-button = შეფერილობის შეც
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder = <strong>ჯერ არაფერია სანახავი</strong><br/>შემდეგ ჯერზე გამოიყენეთ { -brand-product-name } სხვა მოწყობილობაზე გვერდის მონასახულებლად და ჯადოსნურად გადმოვა აქაც.
+firefoxview-collapse-button-show =
+    .title = სიის ჩვენება
+firefoxview-collapse-button-hide =
+    .title = სიის დამალვა

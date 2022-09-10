@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = დამატებების ნახვა
 quickactions-cmd-addons = დამატებები, გაფართოებები, თემები
+quickactions-cmd-addons2 = დამატებები
 # Opens the bookmarks library window
 quickactions-bookmarks = სანიშნების ნახვა
 quickactions-cmd-bookmarks = სანიშნები
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = ისტორიის გასუფთა�
 # Opens about:downloads page
 quickactions-downloads = ჩამოტვირთვების გახსნა
 quickactions-cmd-downloads = ჩამოტვირთვები
+# Opens about:addons page in the extensions section
+quickactions-extensions = გაფართოებების მართვა
+quickactions-cmd-extensions = გაფართოებები
 # Opens the devtools web inspector
 quickactions-inspector = გვერდის გამოკვლევა
 quickactions-cmd-inspector = გამოკვლევა, შემუშავება
 # Opens about:logins
 quickactions-logins = ანგარიშების ნახვა
 quickactions-cmd-logins = ანგარიშები და პაროლები
+# Opens about:addons page in the plugins section
+quickactions-plugins = მოდულების მართვა
+quickactions-cmd-plugins = მოდულები
 # Opens the print dialog
 quickactions-print = ამობეჭდვა
 quickactions-cmd-print = ამობეჭდვა
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = ეკრანის ანაბეჭდი
 # Opens about:preferences
 quickactions-settings = პარამეტრების გახსნა
 quickactions-cmd-settings = პარამეტრები, მახასიათებლები, გამართვა
+# Opens about:addons page in the themes section
+quickactions-themes = თემების მართვა
+quickactions-cmd-themes = თემები
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = განახლდეს { -brand-short-name }
 quickactions-cmd-update = განახლება
