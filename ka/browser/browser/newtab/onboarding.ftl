@@ -287,14 +287,30 @@ mr2022-onboarding-set-default-only-subtitle = შეუდექით ბრა
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = გმადლობთ, რომ გიყვართ { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = შეაბიჯეთ ჯანსაღ ინტერნეტსივრცეში ერთი დაწკაპებით. ჩვენი ბოლო განახლება აღჭურვილია შესაძლებლობებით, რომლებიც მეტად მოგეწონებათ.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = გამოიყენეთ ბრაუზერი, რომელიც დაიცავს თქვენს პირადულობას ინტერნეტში მოგზაურობის დროს. ჩვენი ბოლო განახლება აღჭურვილია იმ შესაძლებლობებით, რომლებიც მეტად მოგეწონებათ.
+mr2022-onboarding-existing-pin-checkbox-label = ამასთანავე, დაამატეთ { -brand-short-name } – პირადი რეჟიმი
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = აქციეთ { -brand-short-name } ყოველდღიურ ბრაუზერად
+mr2022-onboarding-set-default-primary-button-label = გახდეს { -brand-short-name } ნაგულისხმევი ბრაუზერი
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = შეუდექით ბრაუზერის გამოყენებას, რომელიც არამომგებიანი ორგანიზაციისგანაა. ჩვენ ვიცავთ თქვენს პირად მონაცემებს, როცა ვებსივრცეში მოგზაურობთ.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = ჩვენი უახლესი ვერსია შექმნილია თქვენი საჭიროებებისთვის, რომ მეტად გაგიადვილოთ ვებსივრცეში მოგზაურობა. აღჭურვილია შესაძლებლობებით, რომლებიც, ვფიქრობთ, მეტად მოგეწონებათ.
+mr2022-onboarding-get-started-primary-button-label = დაყენება წამებში
 
 ## MR2022 Import Settings screen strings
 
@@ -350,6 +366,8 @@ mr2022-onboarding-no-mobile-download-cta-text = წააკითხეთ QR-�
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = პირადი თვალიერება ერთი დაწკაპებით
+mr2022-upgrade-onboarding-pin-private-window-subtitle = არანაირი კვალი და გვერდების ისტორია, პირდაპირ სამუშაო ეკრანიდან. მოინახულეთ საიტები მეთვალყურეობის გარეშე.
 
 ## MR2022 Privacy Segmentation screen strings
 
