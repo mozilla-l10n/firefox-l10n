@@ -63,8 +63,13 @@ vcard-tz-add = Thêm múi giờ
 # IMPP vCard field
 
 vcard-impp-header = Tài khoản trò chuyện
+vcard-impp2-header = Thư nhanh
 vcard-impp-add = Thêm tài khoản trò chuyện
 vcard-impp-label = Tài khoản trò chuyện
+vcard-impp-select = Giao thức
+vcard-impp-option-other = Khác
+vcard-impp-input-label = URI
+vcard-impp-input-title = URI cho thư nhanh
 
 # BDAY and ANNIVERSARY vCard field
 
@@ -82,8 +87,6 @@ vcard-adr-header = Địa chỉ
 vcard-adr-add = Thêm địa chỉ
 vcard-adr-label = Địa chỉ
 vcard-adr-delivery-label = Nhãn giao hàng
-vcard-adr-pobox = Hộp thư văn phòng
-vcard-adr-ext = Địa chỉ đầy đủ
 vcard-adr-street = Địa chỉ đường phố
 # Or "Locality"
 vcard-adr-locality = Thành phố
