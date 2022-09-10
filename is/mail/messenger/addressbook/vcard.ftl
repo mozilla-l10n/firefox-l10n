@@ -63,8 +63,13 @@ vcard-tz-add = Bæta við tímabelti
 # IMPP vCard field
 
 vcard-impp-header = Spjallreikningar
+vcard-impp2-header = Snarskilaboð
 vcard-impp-add = Bæta við spjallreikningi
 vcard-impp-label = Spjallreikningur
+vcard-impp-select = Samskiptamáti
+vcard-impp-option-other = Annað
+vcard-impp-input-label = URI-slóð
+vcard-impp-input-title = URI-slóð fyrir snarskilaboð
 
 # BDAY and ANNIVERSARY vCard field
 
@@ -82,8 +87,6 @@ vcard-adr-header = Póstföng
 vcard-adr-add = Bæta við póstfangi
 vcard-adr-label = Póstfang
 vcard-adr-delivery-label = Afhendingarmerking
-vcard-adr-pobox = Pósthólf
-vcard-adr-ext = Lengra heimilisfang
 vcard-adr-street = Heimilisfang
 # Or "Locality"
 vcard-adr-locality = Borg

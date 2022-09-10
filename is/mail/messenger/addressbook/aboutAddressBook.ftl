@@ -180,10 +180,12 @@ about-addressbook-details-email-addresses-header = Tölvupóstfang
 about-addressbook-details-phone-numbers-header = Símanúmer
 about-addressbook-details-addresses-header = Tölvupóstföng
 about-addressbook-details-notes-header = Athugasemdir
+about-addressbook-details-impp-header = Snarskilaboð
 about-addressbook-details-other-info-header = Aðrar upplýsingar
 about-addressbook-entry-type-work = Vinna
 about-addressbook-entry-type-home = Heima
 about-addressbook-entry-type-fax = Fax
+# Or "Mobile"
 about-addressbook-entry-type-cell = Farsími
 about-addressbook-entry-type-pager = Símboði
 about-addressbook-entry-name-birthday = Fæðingardagur

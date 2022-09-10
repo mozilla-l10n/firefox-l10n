@@ -66,10 +66,35 @@ appmenu-create-contact =
     .label = Tengiliður
     .accesskey = g
 
+## Open
+
+appmenu-open-panel =
+    .label = Opna
+    .accesskey = O
+appmenu-open-panel-title =
+    .title = Opna
+appmenu-open-message =
+    .label = Skilaboð…
+    .accesskey = k
+appmenu-open-calendar =
+    .label = Dagatal…
+    .accesskey = D
+
 ## View / Layout
 
+appmenu-view-panel-title =
+    .title = Skoða
+appmenu-view-panel =
+    .label = Skoða
+    .accesskey = k
 appmenu-font-size-value = Leturstærð
 appmenu-mail-uidensity-value = Þéttleiki
+appmenu-uidensity-compact =
+    .tooltiptext = Þjappað
+appmenu-uidensity-default =
+    .tooltiptext = Sjálfgefið
+appmenu-uidensity-relaxed =
+    .tooltiptext = Afslappað
 appmenuitem-font-size-enlarge =
     .tooltiptext = Auka leturstærð
 appmenuitem-font-size-reduce =
