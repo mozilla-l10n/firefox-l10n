@@ -64,3 +64,5 @@ experimental-features-ime-search-description = IME (შეყვანის მ
 experimental-features-text-recognition =
     .label = ნაწერის ამოცნობა
 experimental-features-text-recognition-description = სურათიდან წარწერის ამოკითხხვის შესაძლებლობა
+experimental-features-accessibility-cache =
+    .label = Accessibility cache
