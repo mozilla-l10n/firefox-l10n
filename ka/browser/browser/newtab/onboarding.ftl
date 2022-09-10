@@ -308,6 +308,37 @@ mr2022-onboarding-import-primary-button-label-no-attribution = გადმო�
 ## help creating a more inclusive translation.
 
 mr2022-onboarding-colorway-title = აირჩიეთ შთამაგონებელი ფერები
+mr2022-onboarding-colorway-subtitle = დამოუკიდებელი ხმები ცვლის ღირებულებებს.
+mr2022-onboarding-colorway-primary-button-label = შეფერილობის დაყენება
+mr2022-onboarding-existing-colorway-checkbox-label = გამოიყენეთ { -firefox-home-brand-name } ფერადოვან საწყის გვერდად
+mr2022-onboarding-colorway-label-default = ნაგულისხმევი
+mr2022-onboarding-colorway-tooltip-default =
+    .title = ნაგულისხმევი
+mr2022-onboarding-colorway-description-default = <b>დარჩეს { -brand-short-name } ამ ფერებში.</b>
+mr2022-onboarding-colorway-label-playmaker = გამთამაშებელი
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = გამთამაშებელი
+mr2022-onboarding-colorway-description-playmaker = <b>გამთამაშებელი.</b> ქმნით გამარჯვების ახალ შესაძლებლობებს და ირგვლივ მყოფთაც ხელს უწყობთ, რომ უკეთ გამოავლინონ საკუთარი უნარები.
+mr2022-onboarding-colorway-label-expressionist = გამომსახველობითი
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = გამომსახველობითი
+mr2022-onboarding-colorway-description-expressionist = <b>გამომსახველობითი.</b> სამყაროს განსხვავებულად აღიქვამთ და თქვენი ნამუშევრები სხვებშიც ძლიერ განცდებს აღძრავს.
+mr2022-onboarding-colorway-label-visionary = შორსმჭვრეტელი
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = შორსმჭვრეტელი
+mr2022-onboarding-colorway-description-visionary = <b>შორსმჭრეტელი.</b> არ ეგუებით არსებულ მდგომარეობას და სხვებსაც უღვივებთ უკეთესი მომავლის იმედს.
+mr2022-onboarding-colorway-label-activist = მებრძოლი
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = მებრძოლი
+mr2022-onboarding-colorway-description-activist = <b>მებრძოლი.</b> სამყაროს ცვლით უკეთესობისკენ და სხვებსაც არწმუნებით ამის საჭიროებაში.
+mr2022-onboarding-colorway-label-dreamer = მეოცნებე
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = მეოცნებე
+mr2022-onboarding-colorway-description-dreamer = <b>მეოცნებე.</b> გჯერათ, რომ უმართლებთ მხოლოდ ძლიერებს და ყველას შთააგონებთ, იყვნენ მეტად გაბედულნი.
+mr2022-onboarding-colorway-label-innovator = განმაახლებელი
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = განმაახლებელი
+mr2022-onboarding-colorway-description-innovator = <b>სიხლის შემომტანი.</b> ყველაფრისადმი თქვენი ახლებური ხედვა უკეთესობისკენ ცვლის გარშემომყოფთა ცხოვრებას.
 
 ## MR2022 Multistage Mobile Download screen strings
 
