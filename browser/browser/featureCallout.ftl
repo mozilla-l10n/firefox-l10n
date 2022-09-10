@@ -10,3 +10,7 @@ callout-primary-complete-button-label = Razumem!
 ## Firefox View feature tour strings
 
 callout-firefox-view-recently-closed-title = V trenutku si povrnite zaprte zavihke
+callout-firefox-view-recently-closed-subtitle = Vsi zavihki, ki ste jih zaprli, se bodo prikazali tukaj. Nikoli več ne skrbite, da bi nenamerno zaprli spletno stran.
+callout-firefox-view-colorways-title = Dodajte kanček barve
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Izberite odtenek barvne kombinacije, ki vas nagovarja. Samo v { -brand-product-name(sklon: "mestnik") }.

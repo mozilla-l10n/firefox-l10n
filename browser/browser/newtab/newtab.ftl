@@ -238,6 +238,9 @@ newtab-pocket-last-card-title = Prebrali ste vse!
 newtab-pocket-last-card-desc = Preverite pozneje za svežo vsebino.
 newtab-pocket-last-card-image =
     .alt = Prebrali ste vse
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Shrani
+newtab-pocket-saved = Shranjeno
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
