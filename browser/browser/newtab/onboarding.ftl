@@ -342,6 +342,10 @@ mr2022-onboarding-colorway-description-innovator = <b>სიხლის შე�
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = მოქნილად გადაერთეთ ლეპტოპიდან ტელეფონზე და უკან
+mr2022-onboarding-mobile-download-subtitle = წაიყოლეთ ჩანართები სხვა მოწყობილობაზე და განაგრძეთ იქიდან, სადაც გაჩერდით. ამასთანავე, დაასინქრონეთ სანიშნები და პაროლები ყველგან, სადაც { -brand-product-name } გიყენიათ.
+mr2022-onboarding-mobile-download-cta-text = წააკითხეთ QR-კოდი, რომ გადმოწეროთ { -brand-product-name } მობილურზე ან <a data-l10n-name="download-label">გაგზავნეთ ჩამოსატვირთი ბმული.</a>
+mr2022-onboarding-no-mobile-download-cta-text = წააკითხეთ QR-კოდი, რომ გადმოწეროთ { -brand-product-name } მობილურზე.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -352,3 +356,7 @@ mr2022-onboarding-colorway-description-innovator = <b>სიხლის შე�
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = თქვენ გვეხმარებით უკეთესი ვებსამყაროს შექმნაში.
+mr2022-onboarding-gratitude-subtitle = გმადლობთ, რომ აირჩიეთ { -brand-short-name }, არამომგებიანი Mozilla-ფონდისგან. თქვენი მხარდაჭერით შევძლებთ, რომ ინტერნეტი გავხადოთ მეტად ღია, უკეთესი და საყოველთაოდ ხელმისაწვდომი.
+mr2022-onboarding-gratitude-primary-button-label = გაეცანით სიახლეებს
+mr2022-onboarding-gratitude-secondary-button-label = დაიწყეთ მოგზაურობა ინტერნეტში
