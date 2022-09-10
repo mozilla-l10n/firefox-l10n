@@ -235,6 +235,9 @@ newtab-pocket-last-card-title = Aql-ak·akem tezziḍ-d akk!
 newtab-pocket-last-card-desc = Uɣal-d ticki ad tesnimreḍ ugar n ugbur.
 newtab-pocket-last-card-image =
     .alt = Aql-ak·akem tezziḍ-d akk!
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Sekles
+newtab-pocket-saved = Yettwasekles
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
