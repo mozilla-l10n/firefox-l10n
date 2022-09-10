@@ -269,9 +269,19 @@ mr2022-onboarding-secondary-skip-button-label = გამოტოვება
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = გახსენით ინტერნეტსამყაროს კარი
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = გაუშვით { -brand-short-name } ერთი შეხებით. ყოველ ჯერზე ამის გაკეთებისას, თქვენ ირჩევთ მეტად ღია და დამოუკიდებელ ინტერნეტს.
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] განათავსეთ { -brand-short-name } Dock-ზე
+       *[other] მიამაგრეთ { -brand-short-name } ამოცანათა ზოლზე
+    }
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = გმადლობთ, რომ გიყვართ { -brand-product-name }
 
 ## MR2022 New User Set Default screen strings
 
