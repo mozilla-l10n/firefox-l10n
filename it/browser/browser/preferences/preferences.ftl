@@ -211,6 +211,7 @@ preferences-web-appearance-description = Alcuni siti web possono adattare il pro
 
 preferences-web-appearance-choice-browser = Tema di { -brand-short-name }
 preferences-web-appearance-choice-system = Tema di sistema
+preferences-web-appearance-choice-auto = Automatico
 preferences-web-appearance-choice-light = Chiaro
 preferences-web-appearance-choice-dark = Scuro
 
@@ -218,10 +219,15 @@ preferences-web-appearance-choice-tooltip-browser =
     .title = Segui il tema di { -brand-short-name } per lo sfondo e i contenuti dei siti.
 preferences-web-appearance-choice-tooltip-system =
     .title = Segui le impostazioni del sistema per lo sfondo e i contenuti dei siti.
+preferences-web-appearance-choice-tooltip-auto =
+  .title = Cambia automaticamente i colori dello sfondo e dei contenuti dei siti in base alle impostazioni del sistema e del tema di { -brand-short-name }.
 preferences-web-appearance-choice-tooltip-light =
     .title = Preferisci una combinazione di colori chiara per lo sfondo e i contenuti dei siti.
 preferences-web-appearance-choice-tooltip-dark =
     .title = Preferisci una combinazione di colori scura per lo sfondo e i contenuti dei siti.
+
+preferences-web-appearance-choice-input-auto =
+  .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 
 preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
