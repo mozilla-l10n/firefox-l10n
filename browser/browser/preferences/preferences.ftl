@@ -191,6 +191,8 @@ preferences-web-appearance-choice-tooltip-browser =
     .title = შეუსაბამეთ თქვენი { -brand-short-name } გაფორმების პარამეტრები ვებსაიტის ფონსა და შიგთავსს.
 preferences-web-appearance-choice-tooltip-system =
     .title = შეუსაბამეთ თქვენი სისტემის პარამეტრები ვებსაიტის ფონსა და შიგთავსს.
+preferences-web-appearance-choice-tooltip-auto =
+    .title = საიტის ფონი და შიგთავსი შეიცვლება სისტემის პარამეტრებისა და იმის მიხედვით, თუ რა გაფორმებას იყენებს { -brand-short-name }.
 preferences-web-appearance-choice-tooltip-light =
     .title = გამოიყენეთ ნათელი იერსახე ვებსაიტის ფონისა და შიგთავსისთვის.
 preferences-web-appearance-choice-tooltip-dark =
@@ -1098,8 +1100,12 @@ addon-recommendations-link = ვრცლად
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = მოხსენებები გამორთულია ანაწყობის ამ კონფიგურაციისთვის
-collection-backlogged-crash-reports-with-link = ნებართვა, რომ { -brand-short-name } შეძლებს გაგზავნოს უეცარი გათიშვების დაგროვილი მოხსენებები, თქვენს ნაცვლად <a data-l10n-name="crash-reports-link">ვრცლად</a>
+collection-backlogged-crash-reports-with-link = ნებართვა, რომ { -brand-short-name } შეძლებს გაგზავნოს უეცარი გათიშვების დაგროვილი მოხსენებები თქვენს ნაცვლად <a data-l10n-name="crash-reports-link">ვრცლად</a>
     .accesskey = უ
+privacy-segmentation-section-header = ახალი შესაძლებლობები მოხერხებულად სარგებლობისთვის
+privacy-segmentation-section-description = როცა გთზავაზობთ შესაძლებლობებს თქვენი მონაცემების საფუძველზე მეტად მორგებული მომსახურებისთვის:
+privacy-segmentation-radio-off =
+    .label = { -brand-product-name }-შემოთავაზებების გამოყენება
 privacy-segmentation-radio-on =
     .label = დაწვრილებით ჩვენება
 
