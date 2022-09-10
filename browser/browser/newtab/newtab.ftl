@@ -239,6 +239,9 @@ newtab-pocket-last-card-title = Bạn đã bắt kịp tất cả!
 newtab-pocket-last-card-desc = Kiểm tra lại sau để biết thêm.
 newtab-pocket-last-card-image =
     .alt = Bạn đã bắt kịp tất cả
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Lưu
+newtab-pocket-saved = Đã lưu
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
