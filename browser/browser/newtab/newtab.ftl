@@ -239,6 +239,9 @@ newtab-pocket-last-card-title = 모두 따라 잡았습니다!
 newtab-pocket-last-card-desc = 더 많은 이야기는 나중에 다시 확인해 보세요.
 newtab-pocket-last-card-image =
     .alt = 모두 따라 잡았습니다
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = 저장
+newtab-pocket-saved = 저장됨
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
