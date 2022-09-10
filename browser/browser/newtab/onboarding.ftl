@@ -334,6 +334,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Ste inovator.</b> V vsem v
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-no-mobile-download-cta-text = Skenirajte kodo QR za prenos { -brand-product-name(sklon: "rodilnik") } za mobilne naprave.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -348,6 +349,14 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Vedno spoštujemo vašo zasebnost
+mr2022-onboarding-privacy-segmentation-subtitle = Od pametnih predlogov do pametnejšega iskanja, nenehno se trudimo ustvariti boljši in bolj oseben { -brand-product-name }.
+mr2022-onboarding-privacy-segmentation-button-primary-label = Uporabi priporočila { -brand-product-name(sklon: "rodilnik") }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Prikaži podrobne informacije
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Pomagate nam graditi boljši splet.
+mr2022-onboarding-gratitude-subtitle = Hvala, ker uporabljate { -brand-short-name }, ki ga podpira Mozilla Foundation. Z vašo podporo si prizadevamo narediti internet bolj odprt, dostopen in boljši za vse.
+mr2022-onboarding-gratitude-primary-button-label = Oglejte si, kaj je novega
+mr2022-onboarding-gratitude-secondary-button-label = Začnite z brskanjem
