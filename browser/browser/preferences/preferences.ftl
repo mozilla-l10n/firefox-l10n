@@ -187,12 +187,15 @@ preferences-web-appearance-header = Wygląd witryn internetowych
 preferences-web-appearance-description = Część witryn dostosowuje swój schemat kolorów na podstawie preferencji użytkownika. Wybierz schemat kolorów używany na tych witrynach.
 preferences-web-appearance-choice-browser = Motyw przeglądarki { -brand-short-name }
 preferences-web-appearance-choice-system = Motyw systemu
+preferences-web-appearance-choice-auto = Automatyczny
 preferences-web-appearance-choice-light = Jasny
 preferences-web-appearance-choice-dark = Ciemny
 preferences-web-appearance-choice-tooltip-browser =
     .title = Używaj ustawień motywu przeglądarki { -brand-short-name } do teł i treści witryn.
 preferences-web-appearance-choice-tooltip-system =
     .title = Używaj ustawień systemu do teł i treści witryn.
+preferences-web-appearance-choice-tooltip-auto =
+    .title = Automatycznie zmieniaj tła i treści witryn na podstawie ustawień systemu i motywu przeglądarki { -brand-short-name }.
 preferences-web-appearance-choice-tooltip-light =
     .title = Używaj jasnego wyglądu teł i treści witryn.
 preferences-web-appearance-choice-tooltip-dark =
@@ -201,6 +204,8 @@ preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
     .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
@@ -937,7 +942,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = wyszukiwarkach
     .accesskey = w
+addressbar-locbar-quickactions-option =
+    .label = szybkich działaniach
+    .accesskey = d
 addressbar-suggestions-settings = Zmień preferencje podpowiedzi dostarczanych przez wyszukiwarki
+addressbar-quickactions-learn-more = Więcej informacji
 
 ## Privacy Section - Content Blocking
 
@@ -1095,6 +1104,12 @@ addon-recommendations-link = Więcej informacji
 collection-health-report-disabled = Przesyłanie danych jest wyłączone przy tej konfiguracji programu
 collection-backlogged-crash-reports-with-link = Przesyłanie zgromadzonych zgłoszeń awarii przeglądarki { -brand-short-name }. <a data-l10n-name="crash-reports-link">Więcej informacji</a>
     .accesskey = o
+privacy-segmentation-section-header = Nowe funkcje usprawniające przeglądanie
+privacy-segmentation-section-description = Kiedy oferujemy funkcje wykorzystujące Twoje dane do zapewniania bardziej spersonalizowanej przeglądarki:
+privacy-segmentation-radio-off =
+    .label = Używaj zaleceń przeglądarki { -brand-product-name }
+privacy-segmentation-radio-on =
+    .label = Wyświetlaj szczegółowe informacje
 
 ## Privacy Section - Security
 ##
