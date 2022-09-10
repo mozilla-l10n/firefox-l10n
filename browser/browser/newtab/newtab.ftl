@@ -239,6 +239,9 @@ newtab-pocket-last-card-title = Sće na běžnym!
 newtab-pocket-last-card-desc = Hladajće pozdźišo za wjace.
 newtab-pocket-last-card-image =
     .alt = Sće na běžnym
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Składować
+newtab-pocket-saved = Składowany
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
