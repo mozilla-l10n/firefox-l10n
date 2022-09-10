@@ -174,10 +174,12 @@ about-addressbook-details-email-addresses-header = Địa chỉ e-mail
 about-addressbook-details-phone-numbers-header = Số điện thoại
 about-addressbook-details-addresses-header = Địa chỉ
 about-addressbook-details-notes-header = Ghi chú
+about-addressbook-details-impp-header = Thư nhanh
 about-addressbook-details-other-info-header = Thông tin khác
 about-addressbook-entry-type-work = Công việc
 about-addressbook-entry-type-home = Nhà riêng
 about-addressbook-entry-type-fax = Fax
+# Or "Mobile"
 about-addressbook-entry-type-cell = Di động
 about-addressbook-entry-type-pager = Máy nhắn tin
 about-addressbook-entry-name-birthday = Ngày sinh
