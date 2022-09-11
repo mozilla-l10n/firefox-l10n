@@ -96,6 +96,8 @@ about-debugging-setup-usb-step-enable-dev-menu2 = ඇන්ඩ්‍රොයි
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = ඇන්ඩ්‍රොයිඩ් සංවර්ධක වට්ටෝරුවෙහි USB නිදොස්කරණය සබල කරන්න.
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = ඇන්ඩ්‍රොයිඩ් උපාංගයේ ෆයර්ෆොක්ස් හි USB නිදොස්කරණය සබල කරන්න.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = ඇන්ඩ්‍රොයිඩ් උපාංගය පරිගණකයට සම්බන්ධ කරන්න.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-to-a-remote-device
@@ -164,6 +166,9 @@ about-debugging-runtime-service-workers-not-compatible = ඔබගේ අති�
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = සම්බන්ධිත අතිරික්සුව පරණ අනුවාදයකි ({ $runtimeVersion }). සහාය දක්වන අවම අනුවාදය ({ $minVersion }) වේ. මෙය සහාය නොදක්වන පිහිටුවීමක් වන අතර සංවර්ධන මෙවලම් ගැටළු වලට හේතු විය හැකිය. සම්බන්ධිත අතිරික්සුව යාවත්කාල කරන්න. <a>දෝෂ සෙවීම</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = ෆයර්ෆොක්ස් හි මෙම අනුවාදයට, ඇන්ඩ්‍රොයිඩ් (68) සඳහා ෆයර්ෆොක්ස් නිදොස්කරණය කිරීමට නොහැකිය. අත්හදා බැලීම සඳහා ඔබගේ දුරකථනයෙහි ඇන්ඩ්‍රොයිඩ් සඳහා ෆයර්ෆොක්ස් ස්ථාපනය කිරීම නිර්දේශ කෙරේ. <a>වැඩිදුර විස්තර</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"

@@ -83,6 +83,12 @@ newtab-menu-section-tooltip =
 newtab-dismiss-button-tooltip =
     .title = ඉවත් කරන්න
     .aria-label = ඉවත් කරන්න
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = වට්ටෝරුව අරින්න
+    .aria-label = { $title } සඳහා සන්දර්භය අරින්න
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = අඩවිය සංස්කරණය
@@ -105,6 +111,8 @@ newtab-menu-show-privacy-info = අපගේ අනුග්‍රහකයි�
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = අහවරයි
+newtab-privacy-modal-button-manage = අනුග්‍රහය ලද අන්තර්ගත සැකසුම් කළමනාකරණය
+newtab-privacy-modal-header = ඔබගේ පෞද්ගලිකත්‍වය වැදගත්ය.
 newtab-privacy-modal-link = රහස්‍යතාව වැඩ කරන අයුරු නව පටිත්තකින් දැනගන්න
 
 ##
@@ -205,6 +213,9 @@ newtab-pocket-load-more-stories-button = තවත් කතා පූරණය
 ## This is for the final card in the Pocket grid.
 
 newtab-pocket-last-card-desc = තවත් දෑ සඳහා පසුව බලන්න.
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = සුරකින්න
+newtab-pocket-saved = සුරැකිණි
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -222,6 +233,7 @@ newtab-custom-row-selector =
        *[other] පේළි { $num }
     }
 newtab-custom-sponsored-sites = අනුග්‍රහය ලද කෙටිමං
+newtab-custom-pocket-title = { -pocket-brand-name } වෙතින් නිර්දේශිත
 newtab-custom-pocket-sponsored = අනුග්‍රහය ලද කතා
 newtab-custom-pocket-show-recent-saves = මෑත සුරැකීම් පෙන්වන්න
 newtab-custom-recent-title = මෑත ක්‍රියාකාරකම

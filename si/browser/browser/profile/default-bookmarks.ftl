@@ -25,3 +25,5 @@ default-bookmarks-firefox-about = අප ගැන
 default-bookmarks-mdn = මොසිල්ලා සංවර්ධක ජාලය
 # Nightly builds only, link title for about:crashes
 default-bookmarks-crashes = ඔබගේ සියළු බිඳවැටීම්
+# Nightly builds only, link title for https://planet.mozilla.org/
+default-bookmarks-planet = මොසිල්ලා ලෝකය

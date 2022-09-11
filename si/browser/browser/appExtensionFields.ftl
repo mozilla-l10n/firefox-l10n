@@ -7,7 +7,7 @@
 
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = පද්ධතියේ තේමාව - ස්වයං
-extension-default-theme-description = බොත්තම්, වට්ටෝරු හා කවුළු සඳහා මෙ. පද්. සැකසුම අනුගමනය කරන්න.
+extension-default-theme-description = බොත්තම්, වට්ටෝරු හා කවුළු සඳහා මෙ. පද්. සැකසුම අනුගමනය කරයි.
 extension-firefox-compact-light-name = දීප්ත
 extension-firefox-compact-light-description = දීප්තිමත් වර්ණ රටාවක් සහිත තේමාවකි.
 extension-firefox-compact-dark-name = අඳුරු
