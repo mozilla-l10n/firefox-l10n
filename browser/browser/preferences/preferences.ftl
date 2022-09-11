@@ -184,6 +184,7 @@ preferences-web-appearance-header = Веб-сайттың сыртқы түрі
 preferences-web-appearance-description = Кейбір веб-сайттар түс схемасын сіздің қалауыңызға қарай бейімдейді. Сол сайттар үшін қандай түс схемасын пайдаланғыңыз келетінін таңдаңыз.
 preferences-web-appearance-choice-browser = { -brand-short-name } темасы
 preferences-web-appearance-choice-system = Жүйелік тема
+preferences-web-appearance-choice-auto = Автоматты түрде
 preferences-web-appearance-choice-light = Ашық түсті
 preferences-web-appearance-choice-dark = Күңгірт түсті
 preferences-web-appearance-choice-tooltip-browser =
@@ -932,7 +933,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Іздеу жүйелері
     .accesskey = д
+addressbar-locbar-quickactions-option =
+    .label = Жылдам әрекеттер
+    .accesskey = к
 addressbar-suggestions-settings = Іздеу жүйесінің ұсыныстары үшін қалауларды өзгерту
+addressbar-quickactions-learn-more = Көбірек білу
 
 ## Privacy Section - Content Blocking
 
