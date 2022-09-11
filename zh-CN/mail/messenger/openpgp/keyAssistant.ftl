@@ -19,6 +19,9 @@ openpgp-key-assistant-key-accepted-expired = 一个接受的密钥已于 { $date
 openpgp-key-assistant-keys-accepted-expired = 多个接受的密钥已过期。
 # Variables:
 # $date (String) - The expiration date of the key.
+openpgp-key-assistant-this-key-accepted-expired = 之前接受过此密钥，但已于 { $date } 过期。
+# Variables:
+# $date (String) - The expiration date of the key.
 openpgp-key-assistant-key-unaccepted-expired-one = 密钥已于 { $date } 过期。
 openpgp-key-assistant-key-unaccepted-expired-many = 多个密钥已过期。
 openpgp-key-assistant-key-fingerprint = 指纹
@@ -30,6 +33,8 @@ openpgp-key-assistant-key-collected-attachment = 邮件附件
 # Autocrypt is the name of a standard.
 openpgp-key-assistant-key-collected-autocrypt = 自动加密头
 openpgp-key-assistant-key-collected-keyserver = 密钥服务器
+# Web Key Directory (WKD) is a concept.
+openpgp-key-assistant-key-collected-wkd = Web 密钥目录
 
 ## Discovery section
 

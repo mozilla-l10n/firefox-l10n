@@ -36,11 +36,15 @@ vcard-n-add-suffix =
 
 # Email vCard field
 
+vcard-email-header = 电子邮件地址
+vcard-email-add = 添加电子邮件地址
+vcard-email-label = 电子邮件地址
 vcard-primary-email-label = 默认
 
 # URL vCard field
 
 vcard-url-header = 网站
+vcard-url-add = 添加网站
 vcard-url-label = 网站
 
 # Tel vCard field
@@ -91,6 +95,7 @@ vcard-note-add = 添加备注
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
+vcard-org-title = 职位
 vcard-org-role = 角色
 
 # Custom properties

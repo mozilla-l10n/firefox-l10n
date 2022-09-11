@@ -11,6 +11,9 @@ appmenu-new-calendar =
 appmenu-new-chat-account =
     .label = 聊天
     .accesskey = h
+appmenu-new-feed =
+    .label = 收取点
+    .accesskey = F
 appmenu-new-newsgroup =
     .label = 新闻组
     .accesskey = N
@@ -54,11 +57,31 @@ appmenu-create-contact =
 
 ## Open
 
+appmenu-open-panel =
+    .label = 打开
+    .accesskey = O
+appmenu-open-panel-title =
+    .title = 打开
+appmenu-open-message =
+    .label = 消息…
+    .accesskey = M
+appmenu-open-calendar =
+    .label = 日历…
+    .accesskey = C
 
 ## View / Layout
 
+appmenu-view-panel-title =
+    .title = 查看
+appmenu-view-panel =
+    .label = 查看
+    .accesskey = V
 appmenu-font-size-value = 字号
 appmenu-mail-uidensity-value = 密度
+appmenu-uidensity-compact =
+    .tooltiptext = 紧凑
+appmenu-uidensity-default =
+    .tooltiptext = 默认
 appmenuitem-font-size-enlarge =
     .tooltiptext = 增大字号
 appmenuitem-font-size-reduce =
@@ -117,6 +140,9 @@ appmenu-help-get-involved =
 appmenu-help-donation =
     .label = 向我们捐款
     .accesskey = D
+appmenu-help-share-feedback =
+    .label = 分享想法和反馈
+    .accesskey = S
 appmenu-help-enter-troubleshoot-mode2 =
     .label = 排障模式…
     .accesskey = T
