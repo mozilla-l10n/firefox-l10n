@@ -27,5 +27,5 @@
 <!ENTITY accountInbox.accesskey "d">
 <!ENTITY deferToServer.label "Doručená pošta pre iný účet">
 <!ENTITY deferToServer.accesskey "r">
-<!ENTITY deferGetNewMail.label "Zahrnúť tento server pri preberaní novej pošty">
+<!ENTITY deferGetNewMail.label "Zahrnúť tento server pri prijímaní novej pošty">
 <!ENTITY deferGetNewMail.accesskey "Z">

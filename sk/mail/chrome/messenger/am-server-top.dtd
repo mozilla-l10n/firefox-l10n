@@ -33,7 +33,7 @@
 <!ENTITY authMethod.accesskey "t">
 <!ENTITY leaveOnServer.label "Nechávať správy na serveri">
 <!ENTITY leaveOnServer.accesskey "r">
-<!ENTITY headersOnly.label "Prevziať len hlavičky správ">
+<!ENTITY headersOnly.label "Stiahnuť len hlavičky správ">
 <!ENTITY headersOnly.accesskey "a">
 <!ENTITY deleteByAgeFromServer.label "najviac">
 <!ENTITY deleteByAgeFromServer.accesskey "n">
