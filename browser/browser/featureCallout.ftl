@@ -9,6 +9,9 @@ callout-primary-complete-button-label = Razumem!
 
 ## Firefox View feature tour strings
 
+# "Tab pickup" refers to the section in Firefox View that displays open
+# tabs from other devices
+callout-firefox-view-tab-pickup-title = Preskakujte med napravami s sinhroniziranimi zavihki
 callout-firefox-view-recently-closed-title = V trenutku si povrnite zaprte zavihke
 callout-firefox-view-recently-closed-subtitle = Vsi zavihki, ki ste jih zaprli, se bodo prikazali tukaj. Nikoli več ne skrbite, da bi nenamerno zaprli spletno stran.
 callout-firefox-view-colorways-title = Dodajte kanček barve
