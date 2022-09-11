@@ -59,3 +59,4 @@ about-private-browsing-pin-promo-link-text =
         [macos] Mantener en el Dock
        *[other] Fijar a la barra de tareas
     }
+about-private-browsing-pin-promo-title = Sin cookies guardadas ni historial, directamente desde su escritorio. Navegue como si nadie le estuviera mirando.
