@@ -329,6 +329,9 @@ addon-permissions-learnmore = අවසර ගැන තව දැනගන්�
 recommended-extensions-heading = නිර්දේශිත දිගු
 recommended-themes-heading = නිර්දේශිත තේමා
 addon-sitepermissions-required = <span data-l10n-name="hostname">{ $hostname }</span> වෙත පහත ශක්‍යතා ප්‍රදානය කරයි:
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = නිර්මාණශ්‍රීලී බවක් හැඟෙනවාද? <a data-l10n-name="link">ෆයර්ෆොක්ස් වර්ණ සමඟ ඔබගේම තේමාවක් තනන්න.</a>
 
 ## Page headings
 

@@ -383,6 +383,7 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = ඔබ මෙම අඩවියට ආරක්‍ෂිතව සම්බන්ධ වී නැත.
 identity-connection-verified = ඔබ මෙම අඩවියට ආරක්‍ෂිතව සම්බන්ධ වී ඇත.
 identity-ev-owner-label = සහතිකය නිකුත් වූයේ:
+identity-description-custom-root = මොසිල්ලා මෙම සහතික නිකුත් කරන්නා හඳුනා නොගනී. එය ඔබගේ මෙහෙයුම් පද්ධතියෙන් හෝ පරිපාලකයෙකු විසින් එක් කර ඇත. <label data-l10n-name="link">තව දැනගන්න</label>
 identity-remove-cert-exception =
     .label = හැරදැමීම ඉවත් කරන්න
     .accesskey = R
