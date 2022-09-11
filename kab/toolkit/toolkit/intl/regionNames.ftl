@@ -59,6 +59,7 @@ region-name-cp = Tigzirt n Klipirṭun
 region-name-cr = Kusta Rika
 region-name-cu = Kuba
 region-name-cv = Kap Vir
+region-name-cv-2020 = Iɣfakl Azegzaw
 region-name-cw = Kuṛaṣaw
 region-name-cx = Tigzrin n Kristmaṣ
 region-name-cy = Cipr
