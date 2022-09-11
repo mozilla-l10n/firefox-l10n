@@ -186,10 +186,12 @@ about-addressbook-details-email-addresses-header = E-mailové adresy
 about-addressbook-details-phone-numbers-header = Telefónne čísla
 about-addressbook-details-addresses-header = Adresy
 about-addressbook-details-notes-header = Poznámky
+about-addressbook-details-impp-header = Okamžité správy
 about-addressbook-details-other-info-header = Ďalšie informácie
 about-addressbook-entry-type-work = Práca
 about-addressbook-entry-type-home = Domov
 about-addressbook-entry-type-fax = Fax
+# Or "Mobile"
 about-addressbook-entry-type-cell = Telefón
 about-addressbook-entry-type-pager = Pager
 about-addressbook-entry-name-birthday = Narodeniny
