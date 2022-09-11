@@ -26,7 +26,6 @@
 <!ENTITY contextOutgoing.accesskey "d">
 <!ENTITY contextArchive.label "Archivácii">
 <!ENTITY contextArchive.accesskey "A">
-
 <!ENTITY contextPeriodic.accesskey "e">
 
 <!ENTITY filterActionDesc.label "Vykonať tieto akcie:">
@@ -48,7 +47,7 @@
 <!ENTITY setJunkScore.label "Nastaviť druh správy na">
 <!ENTITY deleteMessage.label "Odstrániť správu">
 <!ENTITY deleteFromPOP.label "Odstrániť zo servera POP">
-<!ENTITY fetchFromPOP.label "Prevziať telo správy zo servera POP">
+<!ENTITY fetchFromPOP.label "Stiahnuť telo správy zo servera POP">
 <!ENTITY ignoreThread.label "Ignorovať vlákno">
 <!ENTITY ignoreSubthread.label "Ignorovať podvlákno">
 <!ENTITY watchThread.label "Sledovať vlákno">
