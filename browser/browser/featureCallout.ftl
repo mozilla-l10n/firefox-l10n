@@ -24,3 +24,8 @@ callout-firefox-view-colorways-title = Aggiungi un tocco di colore
 
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Scegli la sfumatura più adatta a te con le nostre nuove tonalità. Solo in { -brand-product-name }.
+
+callout-firefox-view-colorways-reminder-title = Scopri le nostre nuove tonalità
+
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = Personalizza il tuo browser con queste iconiche combinazioni di colori, ispirate alle voci indipendenti. Solo in { -brand-product-name }.
