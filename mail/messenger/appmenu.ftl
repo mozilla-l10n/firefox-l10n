@@ -3,10 +3,96 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## New Account
+
+appmenu-new-account-panel-title =
+    .title = Nový účet
+appmenu-new-account-panel =
+    .label = Nový účet
+    .accesskey = N
+appmenu-create-new-mail-account =
+    .label = Založiť nový e-mail
+    .accesskey = Z
+appmenu-new-mail-account =
+    .label = Existujúci e-mail
+    .accesskey = E
+appmenu-new-calendar =
+    .label = Kalendár
+    .accesskey = K
+appmenu-new-chat-account =
+    .label = Konverzácie
+    .accesskey = r
+appmenu-new-feed =
+    .label = Kanály
+    .accesskey = n
+appmenu-new-newsgroup =
+    .label = Diskusná skupina
+    .accesskey = D
+
+## New Account / Address Book
+
+appmenu-newab-panel-title =
+    .title = Nový adresár
+appmenu-newab-panel =
+    .label = Nový adresár
+    .accesskey = N
+appmenu-new-addressbook =
+    .label = Lokálny adresár
+    .accesskey = L
+appmenu-new-carddav =
+    .label = Adresár CardDav
+    .accesskey = A
+appmenu-new-ldap =
+    .label = Adresár LDAP
+    .accesskey = d
+
+## Create
+
+appmenu-create-panel-title =
+    .title = Vytvoriť
+appmenu-create-panel =
+    .label = Vytvoriť
+    .accesskey = V
+appmenu-create-message =
+    .label = Správa
+    .accesskey = S
+appmenu-create-event =
+    .label = Udalosť
+    .accesskey = U
+appmenu-create-task =
+    .label = Úloha
+    .accesskey = h
+appmenu-create-contact =
+    .label = Kontakt
+    .accesskey = K
+
+## Open
+
+appmenu-open-panel =
+    .label = Otvoriť
+    .accesskey = O
+appmenu-open-panel-title =
+    .title = Otvoriť
+appmenu-open-message =
+    .label = Správa…
+    .accesskey = S
+appmenu-open-calendar =
+    .label = Kalendár…
+    .accesskey = K
+
 ## View / Layout
 
+appmenu-view-panel-title =
+    .title = Zobraziť
+appmenu-view-panel =
+    .label = Zobraziť
+    .accesskey = Z
 appmenu-font-size-value = Veľkosť písma
 appmenu-mail-uidensity-value = Hustota
+appmenu-uidensity-compact =
+    .tooltiptext = Kompaktná
+appmenu-uidensity-default =
+    .tooltiptext = Predvolená
 appmenuitem-font-size-enlarge =
     .tooltiptext = Zväčšiť veľkosť písma
 appmenuitem-font-size-reduce =
@@ -65,9 +151,9 @@ appmenu-help-get-involved =
 appmenu-help-donation =
     .label = Darovať príspevok
     .accesskey = D
-appmenu-help-feedback =
-    .label = Odoslať spätnú väzbu a nápady
-    .accesskey = n
+appmenu-help-share-feedback =
+    .label = Zdieľať nápady a spätnú väzbu…
+    .accesskey = e
 appmenu-help-enter-troubleshoot-mode2 =
     .label = Režim riešenia problémov…
     .accesskey = R
