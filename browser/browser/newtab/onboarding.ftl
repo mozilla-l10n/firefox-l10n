@@ -351,8 +351,8 @@ mr2022-upgrade-onboarding-pin-private-window-header = 一键进入隐私浏览�
 mr2022-upgrade-onboarding-pin-private-window-subtitle = 不保存任何 Cookie 和历史记录，隐私浏览不留痕迹。
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
-        [macos] 将 { -brand-short-name } 隐私浏览窗口固定到我的任务栏
-       *[other] 在您的程序坞中保留 { -brand-short-name } 隐私浏览窗口
+        [macos] 在程序坞中保留 { -brand-short-name } 隐私浏览窗口
+       *[other] 将 { -brand-short-name } 隐私浏览窗口固定到任务栏
     }
 
 ## MR2022 Privacy Segmentation screen strings
