@@ -3,6 +3,58 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## New Account
+
+appmenu-new-calendar =
+    .label = 日历
+    .accesskey = C
+appmenu-new-chat-account =
+    .label = 聊天
+    .accesskey = h
+appmenu-new-newsgroup =
+    .label = 新闻组
+    .accesskey = N
+
+## New Account / Address Book
+
+appmenu-newab-panel-title =
+    .title = 新建通讯录
+appmenu-newab-panel =
+    .label = 新建通讯录
+    .accesskey = A
+appmenu-new-addressbook =
+    .label = 本地通讯录
+    .accesskey = A
+appmenu-new-carddav =
+    .label = CardDAV 通讯录
+    .accesskey = C
+appmenu-new-ldap =
+    .label = LDAP 通讯录
+    .accesskey = L
+
+## Create
+
+appmenu-create-panel-title =
+    .title = 创建
+appmenu-create-panel =
+    .label = 创建
+    .accesskey = C
+appmenu-create-message =
+    .label = 消息
+    .accesskey = M
+appmenu-create-event =
+    .label = 事件
+    .accesskey = E
+appmenu-create-task =
+    .label = 任务
+    .accesskey = T
+appmenu-create-contact =
+    .label = 联系人
+    .accesskey = C
+
+## Open
+
+
 ## View / Layout
 
 appmenu-font-size-value = 字号
@@ -65,9 +117,6 @@ appmenu-help-get-involved =
 appmenu-help-donation =
     .label = 向我们捐款
     .accesskey = D
-appmenu-help-feedback =
-    .label = 提交反馈和想法
-    .accesskey = S
 appmenu-help-enter-troubleshoot-mode2 =
     .label = 排障模式…
     .accesskey = T
