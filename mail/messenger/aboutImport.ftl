@@ -16,6 +16,7 @@ export-profile = Eksporter
 
 button-back = Tilbake
 button-continue = Fortset
+button-export = Eksporter
 button-finish = Fullfør
 
 ## Import from app steps
@@ -31,6 +32,7 @@ app-name-apple-mail = Apple Mail
 
 ## Import from app profile steps
 
+profile-file-picker-directory = Vel ei profilmappe
 items-pane-profile-name = Profilnamn:
 items-pane-checkbox-accounts = Konto og innstillingar
 items-pane-checkbox-address-books = Adressebøker
@@ -39,13 +41,26 @@ items-pane-checkbox-mail-messages = E-postmeldingar
 
 ## Import from address book file steps
 
+addr-book-ldif-file = LDIF-fil (.ldif)
+addr-book-vcard-file = vCard-fil (.vcf, .vcard)
+addr-book-sqlite-file = SQLite-databasefil (.sqlite)
+addr-book-mab-file = Mork-databasefil (.mab)
+addr-book-file-picker = Vel ei adressebokfil
+addr-book-csv-field-map-title = Matche feltnamn
 addr-book-directories-pane-source = Kjeldefil:
 
 ## Import from calendar file steps
 
+calendar-items-loading = Lastar inn element…
+calendar-items-filter-input =
+    .placeholder = Filtrer element…
+calendar-select-all-items = Merk alle
+calendar-deselect-all-items = Merk ingen
 
 ## Import dialog
 
+# $progressPercent (string) - percent formatted progress (for example "10%")
+progress-pane-importing2 = Importerer… { $progressPercent }
 progress-pane-finished-desc2 = Fullført
 error-pane-title = Feil
 
@@ -70,3 +85,6 @@ footer-help = Treng du hjelp?
 ## Step navigation on top of the wizard pages
 
 step-confirm = Stadfest
+# Variables:
+# $number (number) - step number
+step-count = { $number }
