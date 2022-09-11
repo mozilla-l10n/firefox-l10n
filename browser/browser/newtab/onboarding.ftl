@@ -268,17 +268,29 @@ mr2022-onboarding-secondary-skip-button-label = Preskoči ta korak
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Vstopite v neverjeten internet
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Zaženite { -brand-short-name } od koder koli z enim klikom. Vsakič, ko to storite, izberete bolj odprt in neodvisen splet.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Obdrži { -brand-short-name } v Docku
        *[other] Pripni { -brand-short-name } v opravilno vrstico
     }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Začnite z brskalnikom, ki ga podpira neprofitna organizacija. Varujemo vašo zasebnost, medtem ko brskate po spletu.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Hvala, ker imate radi { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Zaženite bolj zdrav internet od koder koli z enim klikom. Naša zadnja posodobitev je polna novosti, ki jih boste oboževali.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Uporabite brskalnik, ki ščiti vašo zasebnost, medtem ko brskate po spletu. Naša zadnja posodobitev je polna novosti, ki jih obožujete.
 mr2022-onboarding-existing-pin-checkbox-label = Dodaj tudi zasebno brskanje { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
