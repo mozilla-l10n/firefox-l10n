@@ -188,10 +188,12 @@ about-addressbook-details-email-addresses-header = Adresy e-mail
 about-addressbook-details-phone-numbers-header = Numery telefonu
 about-addressbook-details-addresses-header = Adresy
 about-addressbook-details-notes-header = Notatki
+about-addressbook-details-impp-header = Komunikatory
 about-addressbook-details-other-info-header = Pozostałe informacje
 about-addressbook-entry-type-work = Praca
 about-addressbook-entry-type-home = Dom
 about-addressbook-entry-type-fax = Faks
+# Or "Mobile"
 about-addressbook-entry-type-cell = Telefon komórkowy
 about-addressbook-entry-type-pager = Pager
 about-addressbook-entry-name-birthday = Urodziny

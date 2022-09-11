@@ -63,8 +63,12 @@ vcard-tz-add = Dodaj strefę czasową
 # IMPP vCard field
 
 vcard-impp-header = Konta komunikatora
+vcard-impp2-header = Komunikatory
 vcard-impp-add = Dodaj konto komunikatora
 vcard-impp-label = Konto komunikatora
+vcard-impp-select = Protokół
+vcard-impp-option-other = Inne
+vcard-impp-input-label = Adres URI
 
 # BDAY and ANNIVERSARY vCard field
 
@@ -82,8 +86,6 @@ vcard-adr-header = Adresy
 vcard-adr-add = Dodaj adres
 vcard-adr-label = Adres
 vcard-adr-delivery-label = Etykieta dostawy
-vcard-adr-pobox = Skrytka pocztowa
-vcard-adr-ext = Rozszerzony adres
 vcard-adr-street = Adres
 # Or "Locality"
 vcard-adr-locality = Miasto
