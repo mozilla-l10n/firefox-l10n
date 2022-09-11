@@ -122,6 +122,9 @@ about-processes-frame-name-many = Ikataren n ddaw ({ $number }): { $shortUrl }
 about-processes-utility-actor-unknown = Amigaw arussin
 about-processes-utility-actor-audio-decoder = Amakkas n usettengel Ameslaw
 about-processes-utility-actor-audio-decoder-generic = Akestengal n umeslaw imcettel
+about-processes-utility-actor-audio-decoder-applemedia = Akestengal n umeslaw n umidyat Apple
+about-processes-utility-actor-audio-decoder-wmf = Akestengal n umeslaw Windows Media Framework
+about-processes-utility-actor-mf-media-engine = CDM n umsedday n unadi n umidyat n Windows Media Foundation
 
 ## Displaying CPU (percentage and total)
 ## Variables:
