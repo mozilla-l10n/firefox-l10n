@@ -114,16 +114,9 @@ perftools-tools-threads-input-label =
     .title = Aquestes noms de fil d’execucion son una lista separada per de virgulas utilizada per activar lo perfilatge dels fils dins lo perfilador. Lo nom fa sonque mestièr d’una correspondéncia parciala del nom del fil d’inclure. Es sensible als espacis.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Novetat</b> { -profiler-brand-name } es ara integ{ -profiler-brand-name }rat a las aisinas de desvolopaire. <a>Ne saber mai</a> a prepaus d’aquesta aisina novèla.
-# `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (Per una durada limitada, avètz accès al panèl original de performanças via <a>{ options-context-advanced-settings }</a>)
 perftools-onboarding-close-button =
     .aria-label = Tampar lo messatge d’acuèlh
 
@@ -144,6 +137,8 @@ perftools-presets-media-label = Multimèdia
 perftools-presets-media-description2 = Preconfiguracion per analisar los bugs àudio e vidèo dins { -brand-shorter-name }.
 perftools-presets-networking-label = Ret
 perftools-presets-networking-description = Preconfiguracion per analisar los bugs de ret { -brand-shorter-name }.
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Energia
 perftools-presets-custom-label = Personalizat
 
 ##
