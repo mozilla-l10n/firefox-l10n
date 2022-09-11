@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
+about-logins-page-title = ເຂົ້າສູ່ລະບົບ & ລະຫັດຜ່ານ
+login-filter =
+    .placeholder = ຄົ້ນຫາການລັອກອິນ
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -13,11 +16,15 @@ menu-menuitem-preferences =
         [windows] ການຕັ້ງຄ່າ
        *[other] ການຕັ້ງຄ່າ
     }
+about-logins-menu-menuitem-help = ຊ່ວຍເຫຼືອ
 
 ## Login List
 
 login-list-sort-label-text = ຈັດຮຽງຕາມ:
+login-list-name-reverse-option = ຊື່ (A-Z)
+about-logins-login-list-alerts-option = ແຈ້ງເຕືອນ
 login-list-last-used-option = ໃຊ້ຫຼ້າສຸດ
+login-list-item-title-new-login = ເຂົ້າສູ່ລະບົບໃໝ່
 
 ## Introduction screen
 
