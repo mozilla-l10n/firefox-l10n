@@ -358,6 +358,8 @@ mr2022-onboarding-colorway-description-innovator = <b>Ste inovator.</b> V vsem v
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Skok s prenosnika na telefon in nazaj
+mr2022-onboarding-mobile-download-subtitle = Zajemite zavihke iz ene naprave in nadaljujte, kjer ste končali, na drugi. Poleg tega sinhronizirajte svoje zaznamke in gesla povsod, kjer uporabljate { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Skenirajte kodo QR za prenos { -brand-product-name(sklon: "rodilnik") } za mobilne naprave ali <a data-l10n-name="download-label">si pošljite povezavo za prenos.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Skenirajte kodo QR za prenos { -brand-product-name(sklon: "rodilnik") } za mobilne naprave.
 
 ## MR2022 Upgrade Dialog screens
@@ -375,6 +377,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = Vedno spoštujemo vašo zasebnost
 mr2022-onboarding-privacy-segmentation-subtitle = Od pametnih predlogov do pametnejšega iskanja, nenehno se trudimo ustvariti boljši in bolj oseben { -brand-product-name }.
+mr2022-onboarding-privacy-segmentation-text-cta = Kaj naj storimo, ko ponudimo nove zmogljivosti, ki uporabljajo vaše podatke za izboljšanje vašega brskanja?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Uporabi priporočila { -brand-product-name(sklon: "rodilnik") }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Prikaži podrobne informacije
 
