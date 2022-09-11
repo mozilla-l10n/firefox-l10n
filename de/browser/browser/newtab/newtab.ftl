@@ -239,6 +239,9 @@ newtab-pocket-last-card-title = Alle Artikel gelesen
 newtab-pocket-last-card-desc = Öffnen Sie diese Seite später ein weiteres Mal, um mehr angezeigt zu bekommen.
 newtab-pocket-last-card-image =
     .alt = Alle Artikel gelesen
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Speichern
+newtab-pocket-saved = Gespeichert
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
