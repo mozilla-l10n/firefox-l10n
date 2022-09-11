@@ -35,6 +35,7 @@ region-name-bm = Bermuda
 region-name-bn = Brunei
 region-name-bo = Bolivien
 region-name-bq = Bonaire, Sint Eustatius und Saba
+region-name-bq-2018 = Karibische Niederlande
 region-name-br = Brasilien
 region-name-bs = Bahamas
 region-name-bt = Bhutan
