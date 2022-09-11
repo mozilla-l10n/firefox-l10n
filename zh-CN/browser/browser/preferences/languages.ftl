@@ -51,5 +51,5 @@ browser-languages-select-language =
     .label = 选择要添加的语言…
     .placeholder = 选择要添加的语言…
 browser-languages-installed-label = 已安装的语言
-browser-languages-available-label = 可用语言 (*所谓正體即繁体)
+browser-languages-available-label = 可用语言 (*正體=繁体)
 browser-languages-error = { -brand-short-name } 目前无法更新您的语言。请检查您是否已连接到互联网，然后重试。
