@@ -334,34 +334,57 @@ mr2022-onboarding-colorway-description-default = <b>Meine aktuellen { -brand-sho
 mr2022-onboarding-colorway-label-playmaker = Spielmacher
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Spielmacher
+mr2022-onboarding-colorway-description-playmaker = <b>Du bist Spielmacher.</b> Du schaffst Gewinnmöglichkeiten und hilfst allen um dich herum, ihr Spiel zu verbessern.
 mr2022-onboarding-colorway-label-expressionist = Expressionist
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = Expressionist
+mr2022-onboarding-colorway-description-expressionist = <b>Du bist Expressionist.</b> Du siehst die Welt anders, und deine Kreationen wecken die Emotionen anderer.
 mr2022-onboarding-colorway-label-visionary = Visionär
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Visionär
+mr2022-onboarding-colorway-description-visionary = <b>Du bist Visionär.</b> Du hinterfragst den Status quo und bewegst andere dazu, sich eine bessere Zukunft vorzustellen.
 mr2022-onboarding-colorway-label-activist = Aktivist
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Aktivist
+mr2022-onboarding-colorway-description-activist = <b>Du bist Aktivist.</b> Du hinterlässt die Welt als einen besseren Ort, als du ihn vorgefunden hast, und lässt andere an deine Sache glauben.
 mr2022-onboarding-colorway-label-dreamer = Träumer
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Träumer
+mr2022-onboarding-colorway-description-dreamer = <b>Du bist Träumer.</b> Du glaubst, dass das Glück den Mutigen hilft, und inspirierst andere dazu, tapfer zu sein.
 mr2022-onboarding-colorway-label-innovator = Innovator
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Innovator
+mr2022-onboarding-colorway-description-innovator = <b>Du bist Innovator.</b> Du siehst überall Möglichkeiten und beeinflusst das Leben aller um dich herum.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Wechsle vom Laptop zum Telefon und wieder zurück
+mr2022-onboarding-mobile-download-subtitle = Greife auf Tabs von einem Gerät zu und mache dort weiter, wo du auf einem anderen aufgehört hast. Außerdem kannst du deine Lesezeichen und Passwörter überall dort synchronisieren, wo du { -brand-product-name } verwendest.
+mr2022-onboarding-mobile-download-cta-text = Scanne den QR-Code, um { -brand-product-name } für Mobilgeräte zu erhalten, oder <a data-l10n-name="download-label">sende dir selbst einen Download-Link.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Scanne den QR-Code, um dir { -brand-product-name } für Mobilgeräte zu holen.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Hole dir die Freiheit des privaten Surfens mit einem Klick
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Keine gespeicherten Cookies oder Chronik, direkt von deinem Desktop. Surfe, als würde niemand zusehen.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } Privater Modus im Dock behalten
+       *[other] { -brand-short-name } Privater Modus an die Taskleiste anheften
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Wir respektieren immer deine Privatsphäre
+mr2022-onboarding-privacy-segmentation-subtitle = Von intelligenten Vorschlägen bis hin zu einer schlaueren Suche arbeiten wir ständig daran, einen besseren, persönlicheren { -brand-product-name } zu schaffen.
+mr2022-onboarding-privacy-segmentation-text-cta = Was soll passieren, wenn wir neue Funktionen anbieten, die deine Daten verwenden, um dein Surfen zu verbessern?
 mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name }-Empfehlungen verwenden
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Detaillierte Informationen anzeigen
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Du hilfst uns, ein besseres Web aufzubauen.
+mr2022-onboarding-gratitude-subtitle = Vielen Dank, dass du { -brand-short-name } verwendest, unterstützt von der Mozilla Foundation. Mit deiner Unterstützung arbeiten wir daran, das Internet für alle offener, zugänglicher und besser zu machen.
+mr2022-onboarding-gratitude-primary-button-label = Neue Funktionen und Änderungen anschauen
 mr2022-onboarding-gratitude-secondary-button-label = Lossurfen
