@@ -286,6 +286,28 @@ mr2022-onboarding-pin-primary-button-label =
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-primary-button-label = Vel fargesamansetjing
+mr2022-onboarding-colorway-label-default = Standard
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Standard
+mr2022-onboarding-colorway-label-playmaker = Spelar
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Spelar
+mr2022-onboarding-colorway-label-expressionist = Ekspresjonistisk
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Ekspresjonistisk
+mr2022-onboarding-colorway-label-visionary = Visjonær
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Visjonær
+mr2022-onboarding-colorway-label-activist = Aktivist
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Aktivist
+mr2022-onboarding-colorway-label-dreamer = Drøymar
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Drøymar
+mr2022-onboarding-colorway-label-innovator = Nyskapar
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Nyskapar
 
 ## MR2022 Multistage Mobile Download screen strings
 
