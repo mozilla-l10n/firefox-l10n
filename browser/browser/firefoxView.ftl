@@ -21,6 +21,8 @@ firefoxview-tabpickup-recenttabs-description = La lista dels onglets recents apr
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% acabat
+firefoxview-tabpickup-step-signin-header = Passatz d’un aparelh a l’autre de manièra transparenta
+firefoxview-tabpickup-step-signin-description = Per poder recuperar los onglets del mobil aicí, connectatz-vos o creatz un compte.
 firefoxview-tabpickup-step-signin-primarybutton = Contunhar
 firefoxview-tabpickup-adddevice-header = Sincronizatz { -brand-product-name } amb vòstre telefòn o vòstra tauleta
 firefoxview-tabpickup-adddevice-description = Telecargatz { -brand-product-name } per mobil e connectatz-vos enlai.
@@ -36,6 +38,8 @@ firefoxview-tabpickup-network-offline-primarybutton = Tornar ensajar
 firefoxview-tabpickup-sync-error-primarybutton = Tornar ensajar
 firefoxview-mobile-confirmation-header = 🎉 Tot es prèst !
 firefoxview-closed-tabs-title = Tampats recentament
+firefoxview-closed-tabs-description = Tornatz dobrir las paginas qu’avètz tampadas sus aqueste aparelh.
+firefoxview-closed-tabs-placeholder = <strong>Cap de pagina pas tampada recentament</strong><br/>Ajatz pas jamai paur de pèrdre una pagina tampada. La podètz totjorn recuperar d’aquí estant.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Darrièr actiu
 # Variables:

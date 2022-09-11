@@ -235,6 +235,9 @@ newtab-pocket-last-card-title = Sètz ja a jorn !
 newtab-pocket-last-card-desc = Tornatz mai tard per veire se i a mai d’articles.
 newtab-pocket-last-card-image =
     .alt = Sètz ja a jorn
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Enregistrar
+newtab-pocket-saved = Enregistrada
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
