@@ -295,12 +295,20 @@ mr2022-onboarding-existing-pin-checkbox-label = Dodaj tudi zasebno brskanje { -b
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Nastavite { -brand-short-name } za svoj priljubljeni brskalnik
 mr2022-onboarding-set-default-primary-button-label = Nastavi { -brand-short-name } kot privzeti brskalnik
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Uporabite brskalnik, ki ga podpira neprofitna organizacija. Varujemo vašo zasebnost, medtem ko brskate po spletu.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Naša najnovejša različica je zgrajena okoli vas, kar naredi brskanje po spletu la kot kdaj koli prej. Poln je funkcij, za katere menimo, da jih boste oboževali.
 
 ## MR2022 Import Settings screen strings
 
