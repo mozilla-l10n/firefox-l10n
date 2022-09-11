@@ -296,6 +296,8 @@ mr2022-onboarding-existing-pin-checkbox-label = { -brand-short-name } Privater M
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Mache { -brand-short-name } zu deinem bevorzugten Browser
 mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } als Standardbrowser festlegen
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
@@ -324,9 +326,11 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Aus vorherigem Br
 mr2022-onboarding-colorway-title = Wähle die Farbe, die dich inspiriert
 mr2022-onboarding-colorway-subtitle = Unabhängige Stimmen können die Kultur verändern.
 mr2022-onboarding-colorway-primary-button-label = Farbwelt festlegen
+mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } zu deiner farbenfrohen Startseite machen
 mr2022-onboarding-colorway-label-default = Standard
 mr2022-onboarding-colorway-tooltip-default =
     .title = Standard
+mr2022-onboarding-colorway-description-default = <b>Meine aktuellen { -brand-short-name }-Farben verwenden.</b>
 mr2022-onboarding-colorway-label-playmaker = Spielmacher
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Spielmacher
