@@ -235,6 +235,8 @@ newtab-pocket-last-card-title = Semua sudah terbaca!
 newtab-pocket-last-card-desc = Periksa lagi nanti untuk yang lainnya.
 newtab-pocket-last-card-image =
     .alt = Semua sudah terbaca
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Simpan
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
