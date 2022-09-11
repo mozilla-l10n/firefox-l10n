@@ -26,6 +26,7 @@ ssl-error-no-certificate = සත්‍යාපනය සඳහා අවශ්
 ssl-error-bad-client = අනුග්‍රාහකයේ නරක දත්ත සේවාදායකයට සමාසදය වී ඇත.
 ssl-error-bad-server = අනුග්‍රාහකයේ නරක දත්ත සේවාදායකයට සමාසදය වී ඇත.
 ssl-error-unsupported-certificate-type = සහාය නොදක්වන සහතික වර්ගයකි.
+ssl-error-unsupported-version = සහාය නොදක්වන ආරක්‍ෂණ කෙටුම්පතක අනුවාදයක් සාමානය භාවිතා කරයි.
 ssl-error-wrong-certificate = අනුග්‍රාහකය සත්‍යාපනයට අසමත් විය: ප්‍රධාන දත්ත ගබඩාවේ පෞද්ගලික යතුර සහතික දත්ත ගබඩාවේ පොදු යතුර සමඟ නොගැළපේ.
 ssl-error-post-warning = හඳුනා නොගත් SSL දෝෂ කේතයකි.
 ssl-error-bad-mac-read = SSL වෙත වැරදි පණිවිඩ සත්‍යාපන කේතයක් සහිත වාර්තාවක් ලැබුණි.

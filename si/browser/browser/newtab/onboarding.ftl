@@ -301,16 +301,38 @@ mr2022-onboarding-colorway-description-default = <b>මාගේ වත්මන
 mr2022-onboarding-colorway-label-playmaker = තරඟකරුවෙකි
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = තරඟකරුවෙකි
+mr2022-onboarding-colorway-description-playmaker = <b>ඔබ තරඟකරුවෙකි</b> ඔබ ජයග්‍රහණය සඳහා අවස්ථා සාදන අතර ඔබ වටා සිටින සැමගේ ක්‍රීඩාව උසස් කිරීමට උපකාර කරයි.
 mr2022-onboarding-colorway-label-expressionist = විභාවනවාදියෙකි
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = විභාවනවාදියෙකි
+mr2022-onboarding-colorway-description-expressionist = <b>ඔබ විභාවනවාදියෙකි</b> ඔබ ලෝකය යථාවාදීව දකින අතර ඔබගේ මාපන අන් අයගේ උනන්දුවට හේතු වේ.
+mr2022-onboarding-colorway-label-visionary = දූරදර්ශියෙකි
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = දූරදර්ශියෙකි
+mr2022-onboarding-colorway-description-visionary = <b>ඔබ දූරදර්ශියෙකි</b> ඔබ පවතින තත්‍වය ප්‍රශ්න කරන අතර වඩාත් ධර්මිෂ්ඨ අනාගතයක් ගැන සිතීමට අන් අයව පොලඹවයි.
+mr2022-onboarding-colorway-label-activist = ක්‍රියාකාරිකයෙකි
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = ක්‍රියාකාරිකයෙකි
+mr2022-onboarding-colorway-description-activist = <b>ඔබ ක්‍රියාකාරිකයෙකි</b> ලෝකයෙහි ඔබට හමු වූවාට වඩා යහපත් තත්‍වයක් විශ්වාස කිරීමට අන් අයව යොමු කරයි.
+mr2022-onboarding-colorway-label-dreamer = සිහින දකින්නෙකි
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = සිහින දකින්නෙකි
+mr2022-onboarding-colorway-description-dreamer = <b>ඔබ සිහින දකින්නෙකි</b> ධෛර්යය සම්පන්න අයට සෞභාග්‍යය ළඟා වන බව ඔබ විශ්වාස කරයි සහ අන් අයට නිර්භීත වීමට පොළඹවයි.
+mr2022-onboarding-colorway-label-innovator = නවෝත්පාදකයෙකි
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = නවෝත්පාදකයෙකි
+mr2022-onboarding-colorway-description-innovator = <b>ඔබ නවෝත්පාදකයෙකි</b> ඔබ සෑම තැනකම අවස්ථා දකින අතර ඔබ වටා සිටින සැමගේ ජීවිතවලට ප්‍රතිලාභ අත්කර දෙයි.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = පරිගණකයෙන් දුරකථනයට ගොස් නැවත ආපසු
 mr2022-onboarding-mobile-download-cta-text = ජංගම දුරකථන සඳහා { -brand-product-name } ලබා ගැනීමට QR කේතය සුපිරික්සන්න හෝ <a data-l10n-name="download-label">ඔබටම බාගැනීමේ සබැඳියක් යවන්න.</a>
 mr2022-onboarding-no-mobile-download-cta-text = දුරකථනයට { -brand-product-name } ගැනීමට QR කේතය සුපිරික්සන්න.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-subtitle = සුරකින ලද දත්තකඩ හෝ ඉතිහාස නැත. ඔබගේ වැඩතලය හරහා කිසිවෙකු නොබලන ලෙස පිරික්සන්න.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
         [macos] { -brand-short-name } පෞද්. පිරික්සුම තැටියෙහි තබාගන්න
