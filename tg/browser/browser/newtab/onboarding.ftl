@@ -290,7 +290,7 @@ mr2022-onboarding-existing-pin-subtitle = Интернети солимтарр�
 # Subtitle will be used on the welcome screen for existing users
 # when they already have Firefox pinned but not set as default
 mr2022-onboarding-existing-set-default-only-subtitle = Аз браузере истифода баред, ки махфияти шуморо ҳангоми сайру гашт дар Интернет муҳофизат мекунад. Навсозии охирини мо чизҳои наверо дар бар мегирад, ки ба назари мо ба шумо маъқул мешаванд.
-mr2022-onboarding-existing-pin-checkbox-label = Инчунин тамошокунии хусусии «{ -brand-short-name }»-ро илова кунед
+mr2022-onboarding-existing-pin-checkbox-label = Инчунин, тамошокунии хусусии «{ -brand-short-name }»-ро илова кунед
 
 ## MR2022 New User Set Default screen strings
 
