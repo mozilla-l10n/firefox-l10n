@@ -35,9 +35,23 @@ firefoxview-tabpickup-synctabs-primarybutton = Sincronizar pestañas abiertas
 firefoxview-tabpickup-fxa-admin-disabled-header = Su organización ha desactivado la sincronización
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } no puede sincronizar las pestañas entre dispositivos porque su administrador desactivó la sincronización.
 firefoxview-tabpickup-network-offline-header = Compruebe su conexión a internet
+firefoxview-tabpickup-network-offline-description = Si está utilizando un firewall o proxy, verifique que { -brand-short-name } tenga permiso para acceder a la web.
 firefoxview-tabpickup-network-offline-primarybutton = Reintentar
+firefoxview-tabpickup-sync-error-header = Tenemos problemas para sincronizar
+firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } no puede comunicarse con el servicio de sincronización en este momento. Vuelva a intentarlo en unos instantes.
 firefoxview-tabpickup-sync-error-primarybutton = Reintentar
+firefoxview-tabpickup-sync-disconnected-header = Activar la sincronización para continuar
+firefoxview-tabpickup-sync-disconnected-description = Para recuperar sus pestañas, deberá permitir la sincronización en { -brand-short-name }.
+firefoxview-tabpickup-sync-disconnected-primarybutton = Activar la sincronización en los ajustes
+firefoxview-tabpickup-syncing = Espere mientras sus pestañas se sincronizan. Será solo un momento.
+firefoxview-mobile-promo-header = Recuperar las pestañas desde su teléfono o tableta
+firefoxview-mobile-promo-description = Para ver sus últimas pestañas móviles, conéctese a { -brand-product-name } en iOS o Android.
+firefoxview-mobile-promo-primarybutton = Obtenga { -brand-product-name } para móviles
+firefoxview-mobile-confirmation-header = 🎉 ¡Todo preparado!
+firefoxview-mobile-confirmation-description = Ahora puede continuar con sus pestañas de { -brand-product-name } desde su tableta o teléfono.
 firefoxview-closed-tabs-title = Cerradas recientemente
+firefoxview-closed-tabs-description = Volver a abrir las páginas que cerró en este dispositivo.
+firefoxview-closed-tabs-placeholder = <strong>No hay páginas cerradas recientemente</strong><br/>Nunca tema perder una pestaña cerrada por error. Siempre puede recuperarla aquí.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Última activa
 # Variables:
@@ -51,6 +65,7 @@ firefoxview-change-colorway-button = Cambiar la combinación de colores
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>No hay nada que ver todavía</strong><br/>La próxima vez que abra una página en { -brand-product-name } en otro dispositivo, la verá aquí como por arte de magia.
 firefoxview-collapse-button-show =
     .title = Mostrar lista
 firefoxview-collapse-button-hide =
