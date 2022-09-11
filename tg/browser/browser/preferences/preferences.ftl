@@ -392,7 +392,7 @@ update-application-background-enabled =
     .accesskey = В
 update-application-warning-cross-user-setting = Ин танзимот ба ҳамаи ҳисобҳои Windows ва профилҳои { -brand-short-name } бо истифодаи насби ҷории { -brand-short-name } татбиқ карда мешавад.
 update-application-use-service =
-    .label = Истифодаи хизмати пасзамина барои насб кардани навсозиҳо
+    .label = Истифодаи хизмати заминаӣ барои насб кардани навсозиҳо
     .accesskey = И
 update-application-suppress-prompts =
     .label = Камтар нишон додани ёдовариҳои огоҳии навсозӣ
@@ -425,7 +425,7 @@ performance-allow-hw-accel =
     .accesskey = r
 performance-limit-content-process-option = Шумораи ҳадди аксари равандҳои муҳтаво
     .accesskey = Ш
-performance-limit-content-process-enabled-desc = Равандҳои иловагии муҳтаво ҳангоми кор бо варақаҳои сершумор метавонанд самаранокиро беҳтар кунанд, аммо инчунин ҳофизаи бештарро истифода мебаранд.
+performance-limit-content-process-enabled-desc = Равандҳои иловагии муҳтаво ҳангоми кор бо варақаҳои сершумор метавонанд самаранокиро беҳтар кунанд, аммо, инчунин, ҳофизаи бештарро истифода мебаранд.
 performance-limit-content-process-blocked-desc = Иваз кардани шумораи равандҳои муҳтаво танҳо бо { -brand-short-name }-и серраванд имконпазир аст. <a data-l10n-name="learn-more">Барои санҷидани фаъол ё ғайрифаъол будани серравандӣ маълумот гиред</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.

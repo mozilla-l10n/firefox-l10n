@@ -18,5 +18,5 @@ crashed-comment =
     .placeholder = Шарҳҳои ихтиёрӣ (шарҳҳо ба ҳама намоён мешаванд)
 crashed-include-URL-2 = Нишониҳои URL-и сомонаҳоеро, ки шумо ҳангоми вайроншавии { -brand-short-name } тамошо кардед, илова намоед
 crashed-report-sent = Гузориш дар бораи вайронӣ аллакай пешниҳод карда шуд. Барои дастгирии шумо дар беҳтаркунии { -brand-short-name } хеле миннатдорем!
-crashed-request-auto-submit-title = Гузориш дар бораи варақаҳои пасзаминаӣ
+crashed-request-auto-submit-title = Гузориш дар бораи варақаҳои заминаӣ
 crashed-auto-submit-checkbox-2 = Иваз кардани танзимот барои ба таври худкор фиристодани гузоришҳо ҳангоми вайроншавии { -brand-short-name }
