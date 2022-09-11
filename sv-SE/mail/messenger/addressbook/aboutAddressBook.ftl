@@ -180,10 +180,12 @@ about-addressbook-details-email-addresses-header = E-postadresser
 about-addressbook-details-phone-numbers-header = Telefonnummer
 about-addressbook-details-addresses-header = Adresser
 about-addressbook-details-notes-header = Anteckningar
+about-addressbook-details-impp-header = Snabbmeddelande
 about-addressbook-details-other-info-header = Annan information
 about-addressbook-entry-type-work = Arbete
 about-addressbook-entry-type-home = Hem
 about-addressbook-entry-type-fax = Fax
+# Or "Mobile"
 about-addressbook-entry-type-cell = Mobiltelefon
 about-addressbook-entry-type-pager = Personsökare
 about-addressbook-entry-name-birthday = Födelsedag

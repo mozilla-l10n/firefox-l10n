@@ -63,8 +63,13 @@ vcard-tz-add = Lägg till tidszon
 # IMPP vCard field
 
 vcard-impp-header = Chattkonton
+vcard-impp2-header = Snabbmeddelande
 vcard-impp-add = Lägg till chattkonto
 vcard-impp-label = Chattkonto
+vcard-impp-select = Protokoll
+vcard-impp-option-other = Annat
+vcard-impp-input-label = URI
+vcard-impp-input-title = URI för snabbmeddelande
 
 # BDAY and ANNIVERSARY vCard field
 
@@ -82,8 +87,6 @@ vcard-adr-header = Adresser
 vcard-adr-add = Lägg till adress
 vcard-adr-label = Adress
 vcard-adr-delivery-label = Leveransetikett
-vcard-adr-pobox = Postlåda
-vcard-adr-ext = Utökad adress
 vcard-adr-street = Gatuadress
 # Or "Locality"
 vcard-adr-locality = Postort

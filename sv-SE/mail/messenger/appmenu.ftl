@@ -66,10 +66,35 @@ appmenu-create-contact =
     .label = Kontakt
     .accesskey = K
 
+## Open
+
+appmenu-open-panel =
+    .label = Öppna
+    .accesskey = p
+appmenu-open-panel-title =
+    .title = Öppna
+appmenu-open-message =
+    .label = Meddelande…
+    .accesskey = M
+appmenu-open-calendar =
+    .label = Kalender…
+    .accesskey = K
+
 ## View / Layout
 
+appmenu-view-panel-title =
+    .title = Visa
+appmenu-view-panel =
+    .label = Visa
+    .accesskey = V
 appmenu-font-size-value = Textstorlek
 appmenu-mail-uidensity-value = Täthet
+appmenu-uidensity-compact =
+    .tooltiptext = Kompakt
+appmenu-uidensity-default =
+    .tooltiptext = Standard
+appmenu-uidensity-relaxed =
+    .tooltiptext = Avslappnad
 appmenuitem-font-size-enlarge =
     .tooltiptext = Öka textstorlek
 appmenuitem-font-size-reduce =
