@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Қосымшаларды қарау
 quickactions-cmd-addons = қосымшалар, кеңейтулер, темалар
+quickactions-cmd-addons2 = қосымшалар
 # Opens the bookmarks library window
 quickactions-bookmarks = Бетбелгілерді қарау
 quickactions-cmd-bookmarks = бетбелгілер
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = тарихты тазарту
 # Opens about:downloads page
 quickactions-downloads = Жүктемелерді ашу
 quickactions-cmd-downloads = жүктемелер
+# Opens about:addons page in the extensions section
+quickactions-extensions = Кеңейтулерді басқару
+quickactions-cmd-extensions = кеңейтулер
 # Opens the devtools web inspector
 quickactions-inspector = Инспекторды ашу
 quickactions-cmd-inspector = бақылаушы, әзірлеуші құралдары
 # Opens about:logins
 quickactions-logins = Логиндерді қарау
 quickactions-cmd-logins = логиндер, парольдер
+# Opens about:addons page in the plugins section
+quickactions-plugins = Плагиндерді басқару
+quickactions-cmd-plugins = плагиндер
 # Opens the print dialog
 quickactions-print = Баспаға шығару
 quickactions-cmd-print = баспаға шығару
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = скриншот
 # Opens about:preferences
 quickactions-settings = Баптауларды ашу
 quickactions-cmd-settings = баптаулар, қалаулар, опциялар
+# Opens about:addons page in the themes section
+quickactions-themes = Темаларды басқару
+quickactions-cmd-themes = темалар
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } жаңарту
 quickactions-cmd-update = жаңарту
@@ -699,6 +709,8 @@ bookmarks-tools =
     .label = Бетбелгілер құралдары
 bookmarks-bookmark-edit-panel =
     .label = Бетбелгіні түзету
+bookmarks-subview-edit-bookmark =
+    .label = Бетбелгіні түзету…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -715,6 +727,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Ағымдағы бетті бетбелгілерге қосу
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Ағымдағы бетті бетбелгілерге қосу…
 
 ## Library Panel items
 
