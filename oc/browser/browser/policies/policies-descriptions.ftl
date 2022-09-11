@@ -67,6 +67,7 @@ policy-Extensions = Installar, desinstallar o verrolhar las extensions. L’opci
 policy-ExtensionSettings = Gerir totes los aspècte de l’installacion d’extensions.
 policy-ExtensionUpdate = Activar o desactivar la mesa a jorn automatica de las extensions.
 policy-FirefoxHome = Configurar l’acuèlh de Firefox.
+policy-FirefoxHome2 = Configurar { -firefox-home-brand-name }.
 policy-FlashPlugin = Autoriza o pas l’utilizacion del plugin Flash.
 policy-Handlers = Configurar los gestionaris d’aplicacions per defaut.
 policy-HardwareAcceleration = Se fals, desactiva l’acceleracion materiala.

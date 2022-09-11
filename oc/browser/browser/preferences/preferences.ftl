@@ -184,6 +184,7 @@ preferences-web-appearance-header = Aparéncia dels sites web
 preferences-web-appearance-description = D’unes sites web adaptan lor jòc de colors segon vòstras preferéncias. Causissètz lo jòc de colors que volètz emplegar per aqueles sites.
 preferences-web-appearance-choice-browser = Tèma de { -brand-short-name }
 preferences-web-appearance-choice-system = Tèma del sistèma
+preferences-web-appearance-choice-auto = Automatic
 preferences-web-appearance-choice-light = Clar
 preferences-web-appearance-choice-dark = Escur
 preferences-web-appearance-choice-tooltip-browser =
@@ -1087,6 +1088,10 @@ addon-recommendations-link = Ne saber mai
 collection-health-report-disabled = Lo rapòrt de donadas es desactivat per aquela configuracion de compilacion
 collection-backlogged-crash-reports-with-link = Autorizar { -brand-short-name } a enviar de rapòrt de plantatge en espèra a vòstre nom <a data-l10n-name="crash-reports-link">Ne saber mai</a>
     .accesskey = A
+privacy-segmentation-radio-off =
+    .label = Utilizar las recomandacions { -brand-product-name }
+privacy-segmentation-radio-on =
+    .label = Mostrar las informacions detalhadas
 
 ## Privacy Section - Security
 ##

@@ -265,6 +265,8 @@ mr2022-onboarding-secondary-skip-button-label = Passar aquesta etapa
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Mercés d’apreciar { -brand-product-name }
 
 ## MR2022 New User Set Default screen strings
 
@@ -282,6 +284,9 @@ mr2022-onboarding-secondary-skip-button-label = Passar aquesta etapa
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Causissètz una color que vos inspira
+mr2022-onboarding-colorway-subtitle = Voses independentas pòdon cambiar una cultura.
+mr2022-onboarding-colorway-primary-button-label = Causir lo colorit
 mr2022-onboarding-colorway-label-default = Per defaut
 mr2022-onboarding-colorway-tooltip-default =
     .title = Per defaut
@@ -316,3 +321,5 @@ mr2022-onboarding-colorway-tooltip-innovator =
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-primary-button-label = Descobrissètz las novetats
+mr2022-onboarding-gratitude-secondary-button-label = Començar de navegar
