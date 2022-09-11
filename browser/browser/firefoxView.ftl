@@ -63,3 +63,7 @@ firefoxview-change-colorway-button = Endre fargesamansetjing
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-collapse-button-show =
+    .title = Vis liste
+firefoxview-collapse-button-hide =
+    .title = Skjul liste
