@@ -66,10 +66,35 @@ appmenu-create-contact =
     .label = Контакт
     .accesskey = К
 
+## Open
+
+appmenu-open-panel =
+    .label = Відкрити
+    .accesskey = В
+appmenu-open-panel-title =
+    .title = Відкрити
+appmenu-open-message =
+    .label = Повідомлення…
+    .accesskey = П
+appmenu-open-calendar =
+    .label = Календар…
+    .accesskey = К
+
 ## View / Layout
 
+appmenu-view-panel-title =
+    .title = Вигляд
+appmenu-view-panel =
+    .label = Вигляд
+    .accesskey = В
 appmenu-font-size-value = Розмір шрифту
 appmenu-mail-uidensity-value = Щільність
+appmenu-uidensity-compact =
+    .tooltiptext = Компактний
+appmenu-uidensity-default =
+    .tooltiptext = Типовий
+appmenu-uidensity-relaxed =
+    .tooltiptext = Вільний
 appmenuitem-font-size-enlarge =
     .tooltiptext = Збільшити розмір шрифту
 appmenuitem-font-size-reduce =
