@@ -268,6 +268,8 @@ mr2022-onboarding-existing-pin-header = { -brand-product-name } වෙත ආද
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = { -brand-short-name } දෛනික අතිරික්සුව කරන්න
 mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } පෙරනිමි අතිරික්සුව කරන්න
 
 ## MR2022 Get Started screen strings.
@@ -291,10 +293,15 @@ mr2022-onboarding-import-primary-button-label-no-attribution = කලින් �
 
 mr2022-onboarding-colorway-subtitle = ස්වාධීන හඬ සංස්කෘතියට බලපායි.
 mr2022-onboarding-colorway-primary-button-label = වර්ණ පරාසය සකසන්න
+mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } ඔබගේ වර්ණවත් මුල්පිටුව ලෙස යොදන්න
 mr2022-onboarding-colorway-label-default = පෙරනිමි
 mr2022-onboarding-colorway-tooltip-default =
     .title = පෙරනිමි
 mr2022-onboarding-colorway-description-default = <b>මාගේ වත්මන් { -brand-short-name } වර්ණ යොදා ගන්න.</b>
+mr2022-onboarding-colorway-label-playmaker = තරඟකරුවෙකි
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = තරඟකරුවෙකි
+mr2022-onboarding-colorway-label-expressionist = විභාවනවාදියෙකි
 
 ## MR2022 Multistage Mobile Download screen strings
 
