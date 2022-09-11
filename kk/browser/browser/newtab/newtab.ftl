@@ -239,6 +239,9 @@ newtab-pocket-last-card-title = Барлығын оқып шықтыңыз!
 newtab-pocket-last-card-desc = Көбірек көру үшін кейінірек кіріңіз.
 newtab-pocket-last-card-image =
     .alt = Барлығын оқып шықтыңыз
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Сақтау
+newtab-pocket-saved = Сақталған
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
