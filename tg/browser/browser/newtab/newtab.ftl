@@ -237,6 +237,9 @@ newtab-pocket-last-card-title = Шумо ҳамаро хондед!
 newtab-pocket-last-card-desc = Барои маълумоти бештар дертар баргардед.
 newtab-pocket-last-card-image =
     .alt = Шумо ҳамаро хондед
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Нигоҳ доштан
+newtab-pocket-saved = Нигоҳ дошта шуд
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
