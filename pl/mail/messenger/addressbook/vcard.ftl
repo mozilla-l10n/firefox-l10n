@@ -69,6 +69,7 @@ vcard-impp-label = Konto komunikatora
 vcard-impp-select = Protokół
 vcard-impp-option-other = Inne
 vcard-impp-input-label = Adres URI
+vcard-impp-input-title = Adres URI komunikatora
 
 # BDAY and ANNIVERSARY vCard field
 
