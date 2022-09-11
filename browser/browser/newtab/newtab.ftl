@@ -235,6 +235,9 @@ newtab-pocket-last-card-title = Hepsini bitirdiniz!
 newtab-pocket-last-card-desc = Daha fazlası için daha sonra yine gelin.
 newtab-pocket-last-card-image =
     .alt = Hepsini bitirdiniz
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Kaydet
+newtab-pocket-saved = Kaydedildi
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
