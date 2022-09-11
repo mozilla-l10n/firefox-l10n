@@ -53,7 +53,7 @@ about-private-browsing-promo-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
-about-private-browsing-pin-promo-header = Die Freiheits des privaten Surfens mit einem Klick
+about-private-browsing-pin-promo-header = Die Freiheit des privaten Surfens mit einem Klick
 about-private-browsing-pin-promo-link-text =
     { PLATFORM() ->
         [macos] Im Dock behalten
