@@ -184,6 +184,7 @@ preferences-web-appearance-header = Utsjånaden på nettstaden
 preferences-web-appearance-description = Nokre nettstadar tilpassar fargeskjemaet basert på innstillingane dine. Vel kva for fargeskjema du vil bruke for desse nettstadane.
 preferences-web-appearance-choice-browser = { -brand-short-name }-tema
 preferences-web-appearance-choice-system = Systemtema
+preferences-web-appearance-choice-auto = Automatisk
 preferences-web-appearance-choice-light = Lyst
 preferences-web-appearance-choice-dark = Mørkt
 preferences-web-appearance-choice-tooltip-browser =
@@ -932,7 +933,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Søkjemotorar
     .accesskey = k
+addressbar-locbar-quickactions-option =
+    .label = Snøgghandlingar
+    .accesskey = S
 addressbar-suggestions-settings = Endre innstillingar for søkjeforslag
+addressbar-quickactions-learn-more = Les meir
 
 ## Privacy Section - Content Blocking
 
