@@ -308,10 +308,13 @@ mr2022-onboarding-set-default-subtitle = Uporabite brskalnik, ki ga podpira nepr
 
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-get-started-primary-subtitle = Naša najnovejša različica je zgrajena okoli vas, kar naredi brskanje po spletu la kot kdaj koli prej. Poln je funkcij, za katere menimo, da jih boste oboževali.
+mr2022-onboarding-get-started-primary-subtitle = Naša najnovejša različica je zgrajena okoli vas, kar naredi brskanje po spletu lažje kot kdaj koli prej. Polna je novosti, ki jih boste oboževali.
+mr2022-onboarding-get-started-primary-button-label = Nastavite v nekaj sekundah
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Bliskovito hitra nastavitev
+mr2022-onboarding-import-subtitle = Nastavite { -brand-short-name } po svoji meri. Dodajte svoje zaznamke, gesla in druge podatke iz starega brskalnika.
 mr2022-onboarding-import-primary-button-label-no-attribution = Uvozi iz prejšnjega brskalnika
 
 ## If your language uses grammatical genders, in the description for the
@@ -354,6 +357,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Ste inovator.</b> V vsem v
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Skok s prenosnika na telefon in nazaj
 mr2022-onboarding-no-mobile-download-cta-text = Skenirajte kodo QR za prenos { -brand-product-name(sklon: "rodilnik") } za mobilne naprave.
 
 ## MR2022 Upgrade Dialog screens
