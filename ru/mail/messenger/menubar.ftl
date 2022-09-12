@@ -34,7 +34,7 @@ menu-help-get-involved =
     .accesskey = ч
 menu-help-donation =
     .label = Сделать пожертвование
-    .accesskey = ж
+    .accesskey = е
 menu-help-share-feedback =
     .label = Поделиться идеями или оставить отзыв
     .accesskey = д
@@ -106,10 +106,10 @@ mail-uidensity-default =
     .accesskey = м
 mail-uidensity-relaxed =
     .label = Комфортные
-    .accesskey = м
+    .accesskey = н
 menu-spaces-toolbar-button =
     .label = Панель мест
-    .accesskey = м
+    .accesskey = л
 
 ## File
 
