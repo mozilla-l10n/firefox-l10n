@@ -18,3 +18,8 @@ callout-firefox-view-recently-closed-subtitle = 您先前關閉的分頁都會�
 callout-firefox-view-colorways-title = 加上一抹色彩
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = 選擇有您風格的配色。僅在 { -brand-product-name } 提供。
+callout-firefox-view-colorways-reminder-title = 探索我們的最新配色
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = 開始使用
