@@ -19,6 +19,8 @@ callout-firefox-view-colorways-title = 加上一抹色彩
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = 選擇有您風格的配色。僅在 { -brand-product-name } 提供。
 callout-firefox-view-colorways-reminder-title = 探索我們的最新配色
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = 使用這些由獨立之聲激發的標誌性色調，來幫您的瀏覽器妝點色彩。僅在 { -brand-product-name } 提供。
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
