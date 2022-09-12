@@ -238,6 +238,9 @@ newtab-pocket-last-card-title = Du har lest alt!
 newtab-pocket-last-card-desc = Kom tilbake senere for mer.
 newtab-pocket-last-card-image =
     .alt = Du har lest alt
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Lagre
+newtab-pocket-saved = Lagret
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
