@@ -19,6 +19,8 @@ callout-firefox-view-colorways-title = Plusk barby
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Wubjerće wotsćin, kotryž so wam z barbowymi kombinacijemi spodoba. Jenož w { -brand-product-name }.
 callout-firefox-view-colorways-reminder-title = Wuslědźće naše najnowše barbowe kombinacije
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = Zabarbće swój wobhladowak z tutymi symbolowymi wotsćinami, inspirowany přez njewotwisne hłosy. Jenož w { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
