@@ -930,6 +930,7 @@ content-blocking-all-windows-tracking-content = Conținutul de urmărire în toa
 content-blocking-all-third-party-cookies = Toate cookie-urile de la terți
 content-blocking-cryptominers = Criptominerii
 content-blocking-fingerprinters = Detectoarele de amprente digitale
+content-blocking-etp-standard-tcp-title = Include protecția totală a cookie-urilor, cea mai puternică funcție de confidențialitate pe care am proiectat-o noi vreodată
 content-blocking-warning-title = Atenție!
 content-blocking-and-isolating-etp-warning-description-2 = Această setare poate poate determina unele site-uri web să nu afișeze conținut sau să nu funcționeze corect. Dacă un site pare să fie defect, ai posibilitatea de a dezactiva protecția de urmărire pentru acel site pentru a încărca tot conținutul.
 content-blocking-warning-learn-how = Află cum
