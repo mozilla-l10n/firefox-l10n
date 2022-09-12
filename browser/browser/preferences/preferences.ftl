@@ -1107,6 +1107,7 @@ collection-health-report-disabled = Datowe rozprawjenje je znjemóžnjene za tut
 collection-backlogged-crash-reports-with-link = { -brand-short-name } dowolić, zo bychu so njepósłane spadowe rozprawy we wašim mjenje pósłali <a data-l10n-name="crash-reports-link">Dalše informacije</a>
     .accesskey = d
 privacy-segmentation-section-header = Nowe funkcije, kotrež waše přehladowanje polěpšeja
+privacy-segmentation-section-description = Hdyž funkcije poskicámy, kotrež waše daty wužiwaja, zo bychmy wam bóle wosobinske dožiwjenje skićili:
 privacy-segmentation-radio-off =
     .label = Doporučenja { -brand-product-name } wužiwać
 privacy-segmentation-radio-on =

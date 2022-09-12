@@ -310,6 +310,7 @@ mr2022-onboarding-get-started-primary-button-label = Instalacija za sekundy
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = Błyskospěšna instalacija
+mr2022-onboarding-import-subtitle = Zarjadujće { -brand-short-name }, kak so wam spodoba. Přidajće swoje zapołožki, hesła a wjace ze swojeho stareho wobhladowaka.
 mr2022-onboarding-import-primary-button-label-no-attribution = Z předchadneho wobhladowaka importować
 
 ## If your language uses grammatical genders, in the description for the
@@ -353,6 +354,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Sće inowator.</b> Widźi�
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Skočće wot laptopa do šmóratka a zaso wróćo
+mr2022-onboarding-mobile-download-cta-text = Skennujće QR-kod, zo byšće { -brand-product-name } za swój mobilny grat dóstał abo <a data-l10n-name="download-label">sćelće sej sćehnjenski wotkaz.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Skenujće QR-kod, zo byšće sej { -brand-product-name } za mobilny grat wobstarał.
 
 ## MR2022 Upgrade Dialog screens
@@ -369,6 +371,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Wašu priwatnosć přeco respektujemy.
+mr2022-onboarding-privacy-segmentation-text-cta = Što chceće widźeć, hdyž nowe funkcije poskićamy, kotrež waše daty wužiwaja, zo by so waše přehladowanje polěpšiło?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Doporučenja { -brand-product-name } wužiwać
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Nadrobne informacije pokazać
 
