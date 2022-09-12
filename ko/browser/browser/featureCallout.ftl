@@ -19,6 +19,14 @@ callout-firefox-view-colorways-title = 다채로운 색상 넣기
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = 컬러웨이로 당신에게 어울리는 색상을 선택하세요. { -brand-product-name }에만 있습니다.
 callout-firefox-view-colorways-reminder-title = 최신 컬러웨이 살펴보기
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = 독립적인 목소리에서 영감을 받은 이 상징적인 색상들로 브라우저를 색칠하세요. { -brand-product-name }에만 있습니다.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = 탭 받기로 탐색 향상
+continuous-onboarding-firefox-view-tab-pickup-subtitle = 모든 기기에서 열린 탭에 접근하세요. 또한 북마크, 비밀번호 등을 동기화하세요.
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = 시작하기
