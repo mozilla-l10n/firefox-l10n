@@ -82,8 +82,6 @@ vcard-adr-header = Adressas
 vcard-adr-add = Agiuntar ina adressa
 vcard-adr-label = Adressa
 vcard-adr-delivery-label = Etichetta da spediziun
-vcard-adr-pobox = Chascha postala
-vcard-adr-ext = Adressa extendida
 vcard-adr-street = Adressa postala
 # Or "Locality"
 vcard-adr-locality = Lieu
@@ -105,3 +103,8 @@ vcard-org-add = Agiuntar infurmaziuns da l'organisaziun
 vcard-org-title = Titel
 vcard-org-role = Rolla
 vcard-org-org = Organisaziun
+
+# Custom properties
+
+vcard-custom-header = Caracteristicas persunalisadas
+vcard-custom-add = Agiuntar caracteristicas persunalisadas
