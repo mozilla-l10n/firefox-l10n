@@ -28,4 +28,5 @@ callout-firefox-view-colorways-reminder-subtitle = Zabarbće swój wobhladowak z
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Pospěšće swoje přehladowanje z lisćinu rajtarkow
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Mějće přistup k swojim wočinjenym rajtarkam z někajkehožkuli grata. A synchronizujće swoje zapołožki, hesła a wjace.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Prěnje kroki
