@@ -235,6 +235,9 @@ newtab-pocket-last-card-title = ¡Estás al día!
 newtab-pocket-last-card-desc = Revisa más tarde para ver más.
 newtab-pocket-last-card-image =
     .alt = Estás al día
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Guardar
+newtab-pocket-saved = Guardado
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
