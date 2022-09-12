@@ -890,6 +890,7 @@ addressbar-locbar-engines-option =
     .label = Motoare de căutare
     .accesskey = a
 addressbar-suggestions-settings = Schimbă preferințele pentru sugestiile motoarelor de căutare…
+addressbar-quickactions-learn-more = Află mai multe
 
 ## Privacy Section - Content Blocking
 
@@ -930,6 +931,14 @@ content-blocking-all-windows-tracking-content = Conținutul de urmărire în toa
 content-blocking-all-third-party-cookies = Toate cookie-urile de la terți
 content-blocking-cryptominers = Criptominerii
 content-blocking-fingerprinters = Detectoarele de amprente digitale
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Testează în avanpremieră cea mai puternică funcție de confidențialitate pe care am proiectat-o noi vreodată
+    .accesskey = T
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Protecția totală a cookie-urilor izolează cookie-urile către site-ul pe care te afli, astfel încât elementele de urmărire nu le pot folosi pentru a te urmări între site-uri.
+content-blocking-etp-standard-tcp-rollout-learn-more = Află mai multe
 content-blocking-etp-standard-tcp-title = Include protecția totală a cookie-urilor, cea mai puternică funcție de confidențialitate pe care am proiectat-o noi vreodată
 content-blocking-warning-title = Atenție!
 content-blocking-and-isolating-etp-warning-description-2 = Această setare poate poate determina unele site-uri web să nu afișeze conținut sau să nu funcționeze corect. Dacă un site pare să fie defect, ai posibilitatea de a dezactiva protecția de urmărire pentru acel site pentru a încărca tot conținutul.
