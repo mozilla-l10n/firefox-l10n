@@ -18,3 +18,12 @@ callout-firefox-view-recently-closed-subtitle = Wšykne waše zacynjone rejtarik
 callout-firefox-view-colorways-title = Pśidajśo chrapku barwy
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Wubjeŕśo barwowy ton, kótaryž se wam z barwowymi kombinacijami spódoba. Jano w { -brand-product-name }.
+callout-firefox-view-colorways-reminder-title = Wuslěźćo naše nejnowše barwowe kombinacije
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = Póspěšćo swóje pśeglědowanje z lisćinu rejtarikow
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Prědne kšace
