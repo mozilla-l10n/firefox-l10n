@@ -50,3 +50,23 @@ firefoxview-mobile-promo-primarybutton = Va per { -brand-product-name } per appa
 firefoxview-mobile-confirmation-header = 🎉 Tut pront!
 firefoxview-mobile-confirmation-description = Ussa pos ti ir per tes tabs da { -brand-product-name } da tes tablet u telefonin.
 firefoxview-closed-tabs-title = Serrà dacurt
+firefoxview-closed-tabs-description = Avra danovamain paginas che ti has serrà sin quest apparat.
+firefoxview-closed-tabs-placeholder = <strong>Naginas paginas serradas dacurt</strong><br/>Ti na stos mai pli temair da perder in tab serrà. Ti al chattas adina qua.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Ultim activ
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Avrir { $targetURI } en in nov tab
+firefoxview-try-colorways-button = Empruvar las cumbinaziuns da colurs
+firefoxview-no-current-colorway-collection = Novas cumbinaziuns da colurs èn prest disponiblas
+firefoxview-change-colorway-button = Midar la cumbinaziun da colurs
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Anc nagut da vesair</strong><br/>La proxima giada che ti avras ina pagina en { -brand-product-name } sin in auter apparat, la post ti era avrir qua – a moda quasi magica.
+firefoxview-collapse-button-show =
+    .title = Mussar la glista
+firefoxview-collapse-button-hide =
+    .title = Zuppentar la glista
