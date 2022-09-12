@@ -10,6 +10,12 @@ appmenu-new-account-panel-title =
 appmenu-new-account-panel =
     .label = Nov račun
     .accesskey = N
+appmenu-create-new-mail-account =
+    .label = Pridobite nov naslov
+    .accesskey = b
+appmenu-new-mail-account =
+    .label = Obstoječ e-poštni naslov
+    .accesskey = O
 appmenu-new-calendar =
     .label = Koledar
     .accesskey = K
@@ -60,10 +66,33 @@ appmenu-create-contact =
     .label = Stik
     .accesskey = k
 
+## Open
+
+appmenu-open-panel =
+    .label = Odpri
+    .accesskey = O
+appmenu-open-panel-title =
+    .title = Odpri
+appmenu-open-message =
+    .label = Sporočilo …
+    .accesskey = S
+appmenu-open-calendar =
+    .label = Koledar …
+    .accesskey = K
+
 ## View / Layout
 
+appmenu-view-panel-title =
+    .title = Pogled
+appmenu-view-panel =
+    .label = Pogled
+    .accesskey = P
 appmenu-font-size-value = Velikost pisave
 appmenu-mail-uidensity-value = Gostota
+appmenu-uidensity-compact =
+    .tooltiptext = Strnjeno
+appmenu-uidensity-default =
+    .tooltiptext = Privzeto
 appmenuitem-font-size-enlarge =
     .tooltiptext = Povečaj velikost pisave
 appmenuitem-font-size-reduce =
@@ -107,6 +136,9 @@ appmenu-tools-dev-tools =
 
 appmenu-help-panel-title =
     .title = Pomoč
+appmenu-help-get-help =
+    .label = Poiščite pomoč
+    .accesskey = P
 appmenu-help-explore-features =
     .label = Raziščite možnosti
     .accesskey = š
