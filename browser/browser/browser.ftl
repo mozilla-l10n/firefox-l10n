@@ -276,6 +276,7 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Ver Extras
 quickactions-cmd-addons = extras, extensões, temas
+quickactions-cmd-addons2 = extras
 # Opens the bookmarks library window
 quickactions-bookmarks = Ver marcadores
 quickactions-cmd-bookmarks = marcadores

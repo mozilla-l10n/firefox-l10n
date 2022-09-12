@@ -59,3 +59,4 @@ about-private-browsing-pin-promo-link-text =
         [macos] Fixar na Doca
        *[other] Fixar na barra de tarefas
     }
+about-private-browsing-pin-promo-title = Sem cookies ou histórico salvos, diretamente a partir do seu ambiente de trabalho. Navegue como se ninguém estivesse a ver.
