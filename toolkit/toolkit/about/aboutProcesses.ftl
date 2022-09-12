@@ -124,6 +124,7 @@ about-processes-utility-actor-audio-decoder = Decodificador de audio
 about-processes-utility-actor-audio-decoder-generic = Decodificador de audio genérico
 about-processes-utility-actor-audio-decoder-applemedia = Decodificador de audio de Apple
 about-processes-utility-actor-audio-decoder-wmf = Decodificador de audio de Windows
+about-processes-utility-actor-mf-media-engine = CDM del motor multimedia de Windows Media Foundation
 
 ## Displaying CPU (percentage and total)
 ## Variables:
