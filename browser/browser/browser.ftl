@@ -545,7 +545,7 @@ urlbar-placeholder-search-mode-other-actions =
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = Søk med { $name } eller skriv inn adresse
+    .placeholder = Søk med { $name } eller skriv inn ei adresse
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
