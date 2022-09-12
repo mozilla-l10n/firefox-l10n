@@ -18,3 +18,8 @@ callout-firefox-view-recently-closed-subtitle = Vsi zavihki, ki ste jih zaprli, 
 callout-firefox-view-colorways-title = Dodajte kanček barve
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Izberite odtenek barvne kombinacije, ki vas nagovarja. Samo v { -brand-product-name(sklon: "mestnik") }.
+callout-firefox-view-colorways-reminder-title = Raziščite najnovejše barvne kombinacije
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Začnite
