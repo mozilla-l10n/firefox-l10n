@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = కొత్త ట్యాబు
+    .accesskey = w
 reload-tab =
     .label = ట్యాబుని మళ్ళీ లోడుచేయి
     .accesskey = R
