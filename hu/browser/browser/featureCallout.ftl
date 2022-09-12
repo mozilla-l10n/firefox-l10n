@@ -18,3 +18,15 @@ callout-firefox-view-recently-closed-subtitle = Az összes bezárt lapja varázs
 callout-firefox-view-colorways-title = Adjon hozzá egy kis színt
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Válasszon egy Önhöz passzoló színvilágot. Csak a { -brand-product-name }ban.
+callout-firefox-view-colorways-reminder-title = Fedezze fel a legújabb színvilágainkat
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = Színezze böngészőjét ezekkel az ikonikus árnyalatokkal, amelyeket független hangok ihlettek. Csak a { -brand-product-name }ban.
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = Tuningolja fel a böngészését a lapok átvételével
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Érje el bármelyik eszközéről a nyitott lapjait. Továbbá szinkronizálja könyvjelzőit, jelszavait és egyebeit.
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Kezdő lépések
