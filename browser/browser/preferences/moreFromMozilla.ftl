@@ -5,4 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-title = { -rally-brand-name }
 more-from-moz-learn-more-link = ఇంకా తెలుసుకోండి
