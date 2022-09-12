@@ -18,3 +18,8 @@ callout-firefox-view-recently-closed-subtitle = Akk accaren-ik·im i imedlen ad 
 callout-firefox-view-colorways-title = Rnu ṛucc s yini
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Fren tiɣmi ara ak·am-d-yettmeslayen s ufran n yiniten. Yella kan deg { -brand-product-name }.
+callout-firefox-view-colorways-reminder-title = Snirem afran-nneɣ n yiniten aneggaru
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Bdu
