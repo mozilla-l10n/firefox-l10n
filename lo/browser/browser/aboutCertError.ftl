@@ -5,6 +5,8 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } ໃຊ້ໃບຢັ້ງຢືນຄວາມປອດໄພທີ່ບໍ່ຖືກຕ້ອງ.
+cert-error-mitm-intro = ເວັບໄຊທ໌ພິສູດຕົວຕົນຂອງເຂົາເຈົ້າໂດຍຜ່ານໃບຢັ້ງຢືນ, ເຊິ່ງອອກໃຫ້ໂດຍເຈົ້າຫນ້າທີ່ໃບຢັ້ງຢືນ.
+cert-error-mitm-mozilla = { -brand-short-name } ໄດ້ຮັບການສະໜັບສະໜູນໂດຍ Mozilla ທີ່ບໍ່ຫວັງຜົນກຳໄລ, ເຊິ່ງຄຸ້ມຄອງຮ້ານຂາຍໃບຮັບຮອງທີ່ເປີດຢ່າງຄົບຖ້ວນ (CA). ຮ້ານ CA ຊ່ວຍຮັບປະກັນວ່າເຈົ້າຫນ້າທີ່ໃບຢັ້ງຢືນກໍາລັງປະຕິບັດຕາມການປະຕິບັດທີ່ດີທີ່ສຸດສໍາລັບຄວາມປອດໄພຂອງຜູ້ໃຊ້.
 cert-error-trust-untrusted-issuer = ໃບຢັ້ງຢືນບໍ່ນ່າເຊື່ອຖືເພາະວ່າໃບຢັ້ງຢືນຜູ້ອອກບໍ່ສາມາດເຊື່ອຖືໄດ້.
 cert-error-details-cert-chain-label = ສາຍໃບຮັບຮອງ:
 open-in-new-window-for-csp-or-xfo-error = ເປີດໄຊທ໌ໃນວິນໂດໃຫມ່
