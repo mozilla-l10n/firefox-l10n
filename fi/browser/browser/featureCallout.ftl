@@ -18,3 +18,9 @@ callout-firefox-view-recently-closed-subtitle = Kaikki sulkemasi välilehdet nä
 callout-firefox-view-colorways-title = Lisää ripaus väriä
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Valitse värisävy, joka puhuttelee sinua. Vain { -brand-product-name }issa.
+callout-firefox-view-colorways-reminder-title = Tutustu uusimpiin väriteemoihin
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Käytä avoimia välilehtiä millä tahansa laitteella. Lisäksi synkronoi kirjanmerkkisi, salasanasi ja paljon muuta.
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Aloitetaan
