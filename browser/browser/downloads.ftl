@@ -37,6 +37,10 @@ downloads-cmd-cancel-panel =
 downloads-cmd-use-system-default =
     .label = Deschide în lectorul de sistem
     .accesskey = V
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = Deschide în { $handler }
+    .accesskey = I
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
@@ -77,6 +81,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Șterge descărcările
     .accesskey = d
+downloads-cmd-delete-file =
+    .label = Șterge
+    .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Permite descărcarea
@@ -157,3 +164,13 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Nicio descărcare pentru această sesiune.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] Încă { $count } fișier în descărcare
+        [few] Încă { $count } fișiere în descărcare
+       *[other] Încă { $count } de fișiere  în descărcare
+    }
