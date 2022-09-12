@@ -291,11 +291,8 @@ theme-disabled-heading = Deactivà
 theme-disabled-heading2 = Designs memorisads
 theme-monochromatic-heading = Cumbinaziun da colurs
 theme-monochromatic-subheading = Novas cumbinaziuns da colurs vivas da { -brand-product-name }. Disponiblas durant in temp limità.
+# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Empruvar las cumbinaziuns da colurs
-colorway-collection-independent-voices-subheading = Fa che { -brand-short-name } daventia tes.
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires.
-colorway-collection-expiry-date-span = Scroda ils { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Activà
 plugin-disabled-heading = Deactivà
 dictionary-enabled-heading = Activà
@@ -409,6 +406,7 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } n'è betg cumpatibel cun { -brand-short-name } { $version }.
+details-notification-incompatible-link = Ulteriuras infurmaziuns
 details-notification-unsigned-and-disabled = Impussibel da verifitgar { $name } per l'utilisaziun en { -brand-short-name }. Il suplement è vegnì deactivà.
 details-notification-unsigned-and-disabled-link = Ulteriuras infurmaziuns
 details-notification-unsigned = Impussibel da verifitgar { $name } per l'utilisaziun en { -brand-short-name }. Cuntinuar cun precauziun.

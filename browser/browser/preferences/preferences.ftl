@@ -1102,6 +1102,12 @@ addon-recommendations-link = Ulteriuras infurmaziuns
 collection-health-report-disabled = Rapports da datas èn deactivads per questa configuraziun da compilaziun
 collection-backlogged-crash-reports-with-link = Permetter a { -brand-short-name } da trametter tes rapports da collaps che spetgan <a data-l10n-name="crash-reports-link">Ulteriuras infurmaziuns</a>
     .accesskey = c
+privacy-segmentation-section-header = Novas funcziuns che megliereschan tia navigaziun
+privacy-segmentation-section-description = Cura che nus offrin funcziuns che utiliseschan tias datas per ta pussibilitar ina experientscha pli persunala:
+privacy-segmentation-radio-off =
+    .label = Utilisar recumandaziuns da { -brand-product-name }
+privacy-segmentation-radio-on =
+    .label = Mussar infurmaziuns detagliadas
 
 ## Privacy Section - Security
 ##
