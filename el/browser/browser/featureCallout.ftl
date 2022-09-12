@@ -18,6 +18,7 @@ callout-firefox-view-recently-closed-subtitle = Όλες οι κλειστές �
 callout-firefox-view-colorways-title = Προσθέστε μια πινελιά χρώματος
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Επιλέξτε την απόχρωση του χρωματικού συνδυασμού που σας ταιριάζει. Μόνο στο { -brand-product-name }.
+callout-firefox-view-colorways-reminder-title = Εξερευνήστε τους νεότερους χρωματικούς συνδυασμούς μας
 # “Shades” refers to the different color options in each colorways
 callout-firefox-view-colorways-reminder-subtitle = Χρωματίστε το πρόγραμμα περιήγησής σας με αυτές τις εμβληματικές αποχρώσεις, εμπνευσμένες από ανεξάρτητες φωνές. Μόνο στο { -brand-product-name }.
 
@@ -27,3 +28,5 @@ callout-firefox-view-colorways-reminder-subtitle = Χρωματίστε το π�
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Ενισχύστε την περιήγησή σας με τη μεταφορά καρτελών
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Αποκτήστε πρόσβαση στις ανοικτές καρτέλες σας από οποιαδήποτε συσκευή. Συγχρονίστε τους σελιδοδείκτες σας, τους κωδικούς πρόσβασης και πολλά άλλα.
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Έναρξη
