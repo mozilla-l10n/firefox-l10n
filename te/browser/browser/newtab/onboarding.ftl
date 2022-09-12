@@ -129,6 +129,10 @@ mr2022-onboarding-secondary-skip-button-label = ఈ అంచెను దాట
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-label-default = అప్రమేయం
+mr2022-onboarding-colorway-tooltip-default =
+    .title = అప్రమేయం
+mr2022-onboarding-colorway-description-default = <b>నా ప్రస్తుత { -brand-short-name } రంగులను వాడు.</b>
 
 ## MR2022 Multistage Mobile Download screen strings
 
@@ -142,3 +146,5 @@ mr2022-onboarding-secondary-skip-button-label = ఈ అంచెను దాట
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-primary-button-label = కొత్తవేమిటో చూడండి
+mr2022-onboarding-gratitude-secondary-button-label = విహరించడం మొదలుపెట్టండి

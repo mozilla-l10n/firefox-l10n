@@ -9,15 +9,17 @@
 
 default-bookmarks-title = ఇష్టాంశాలు
 default-bookmarks-heading = ఇష్టాంశాలు
-
 # link title for https://www.mozilla.org/firefox/central/
 default-bookmarks-getting-started = మొదలుపెట్టడం
-
 # link title for https://www.mozilla.org/firefox/help/
 default-bookmarks-firefox-get-help = సహాయం పొందండి
-
+# link title for https://www.mozilla.org/contribute/
+default-bookmarks-firefox-community = పాలుపంచుకోండి
 # link title for https://www.mozilla.org/about/
 default-bookmarks-firefox-about = మా గురించి
-
+# Firefox Nightly links folder name
+default-bookmarks-nightly-heading = Firefox Nightly వనరులు
+# Nightly builds only, link title for https://blog.nightly.mozilla.org/
+default-bookmarks-nightly-blog = Firefox Nightly బ్లాగు
 # Nightly builds only, link title for https://planet.mozilla.org/
 default-bookmarks-planet = ప్లానెట్ మొజిల్లా
