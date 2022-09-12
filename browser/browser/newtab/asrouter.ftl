@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Funcziunalitad recumandada
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pertge ves jau quai
-
 cfr-doorhanger-extension-cancel-button = Betg ussa
     .accesskey = B
-
 cfr-doorhanger-extension-ok-button = Agiuntar ussa
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Administrar ils parameters da recumandaziun
     .accesskey = A
-
 cfr-doorhanger-extension-never-show-recommendation = Betg ma mussar questa recumandaziun
     .accesskey = B
-
 cfr-doorhanger-extension-learn-more-link = Ulteriuras infurmaziuns
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = da { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recumandaziun
 cfr-doorhanger-extension-notification2 = Recumandaziun
     .tooltiptext = Recumandaziun dad extensiun
     .a11y-announcement = Ina recumandaziun per ina extensiun è disponibla
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recumandaziun
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = Ulteriuras infurmaziuns
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nova funcziunalitad:
-
 cfr-whatsnew-button =
     .label = Novaziuns
     .tooltiptext = Novaziuns
-
 cfr-whatsnew-release-notes-link-text = Leger las notizias davart la versiun
 
 ## Enhanced Tracking Protection Milestones
@@ -166,6 +156,10 @@ spotlight-total-cookie-protection-body = La protecziun totala cunter cookies imp
 spotlight-total-cookie-protection-expanded = { -brand-short-name } construescha ina saiv enturn cookies, cun als limitar a la website sin la quala ti ta chattas. Uschia na pon fastizaders betg als utilisar per ta suandar. Cun duvrar gia ussa questa funcziun gidas ti a l'optimar per che nus possian crear in meglier web per ina e mintgin.
 spotlight-total-cookie-protection-primary-button = Activar la protecziun totala cunter cookies
 spotlight-total-cookie-protection-secondary-button = Betg ussa
+cfr-total-cookie-protection-header = Grazia a tai è { -brand-short-name } pli discret e segir che mai
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = La protecziun totala cunter cookies è nossa mesira per la protecziun da datas la pli ferma d'enfin ussa – ed igl è entant ina configuraziun predefinida per tut las utilisadras e tut ils utilisaders da { -brand-short-name } en l'entir mund. Quai na fiss betg stà pussaivel senza participants ch'èn da la partida da bell'entschatta. Grazia pia per ans gidar da crear in meglier internet pli privat.
 
 ## Emotive Continuous Onboarding
 
