@@ -18,3 +18,7 @@ callout-firefox-view-recently-closed-subtitle = Tote tu schedas claudite apparer
 callout-firefox-view-colorways-title = Adde un tocco de color
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Elige le umbra que parla pro te con combinationes de colores. Solo in { -brand-product-name }.
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Que nos va
