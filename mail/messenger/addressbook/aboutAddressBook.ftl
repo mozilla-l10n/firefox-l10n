@@ -192,10 +192,12 @@ about-addressbook-details-email-addresses-header = E-poštni naslovi
 about-addressbook-details-phone-numbers-header = Telefonske številke
 about-addressbook-details-addresses-header = Naslovi
 about-addressbook-details-notes-header = Opombe
+about-addressbook-details-impp-header = Neposredno sporočanje
 about-addressbook-details-other-info-header = Drugi podatki
 about-addressbook-entry-type-work = Služba
 about-addressbook-entry-type-home = Doma
 about-addressbook-entry-type-fax = Faks
+# Or "Mobile"
 about-addressbook-entry-type-cell = Mobilni
 about-addressbook-entry-type-pager = Pozivnik
 about-addressbook-entry-name-birthday = Rojstni dan

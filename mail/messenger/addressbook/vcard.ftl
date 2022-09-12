@@ -63,11 +63,13 @@ vcard-tz-add = Dodaj časovni pas
 # IMPP vCard field
 
 vcard-impp-header = Računi za klepet
+vcard-impp2-header = Neposredno sporočanje
 vcard-impp-add = Dodaj račun za klepet
 vcard-impp-label = Račun za klepet
 vcard-impp-select = Protokol
 vcard-impp-option-other = Drugo
 vcard-impp-input-label = URI
+vcard-impp-input-title = URI za neposredno sporočanje
 
 # BDAY and ANNIVERSARY vCard field
 
