@@ -294,6 +294,9 @@ mr2022-onboarding-existing-pin-checkbox-label = Legg også til { -brand-short-na
 ## MR2022 New User Set Default screen strings
 
 mr2022-onboarding-set-default-primary-button-label = Gjør { -brand-short-name } til standardnettleser
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Bruk en nettleser støttet av en ideell organisasjon. Vi forsvarer personvernet ditt mens du surfer rundt på nettet.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
