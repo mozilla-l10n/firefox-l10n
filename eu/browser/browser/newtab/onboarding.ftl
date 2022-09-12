@@ -324,6 +324,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Inportatu aurreko
 mr2022-onboarding-colorway-title = Aukeratu inspiratzen zaituen kolorea
 mr2022-onboarding-colorway-subtitle = Ahots independenteek kultura alda dezakete.
 mr2022-onboarding-colorway-primary-button-label = Ezarri kolore-konbinazioa
+mr2022-onboarding-existing-colorway-checkbox-label = Egizu { -firefox-home-brand-name } zure hasiera-orri koloretsua
 mr2022-onboarding-colorway-label-default = Lehenetsia
 mr2022-onboarding-colorway-tooltip-default =
     .title = Lehenetsia

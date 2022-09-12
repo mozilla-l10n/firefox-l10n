@@ -238,6 +238,9 @@ newtab-pocket-last-card-title = Egunean zaude!
 newtab-pocket-last-card-desc = Itzuli geroago gehiago aurkitzeko.
 newtab-pocket-last-card-image =
     .alt = Egunean zaude!
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Gorde
+newtab-pocket-saved = Gordeta
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

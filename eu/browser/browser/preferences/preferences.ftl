@@ -184,6 +184,7 @@ preferences-web-appearance-header = Webgunearen itxura
 preferences-web-appearance-description = Zenbait webgunek beraiek kolore-eskema zure hobespenetara moldatzen dute. Aukeratu gune horietarako zein kolore-eskema erabili nahi duzun.
 preferences-web-appearance-choice-browser = { -brand-short-name } itxura
 preferences-web-appearance-choice-system = Sistemaren itxura
+preferences-web-appearance-choice-auto = Automatikoa
 preferences-web-appearance-choice-light = Argia
 preferences-web-appearance-choice-dark = Iluna
 preferences-web-appearance-choice-tooltip-browser =
