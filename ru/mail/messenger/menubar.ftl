@@ -17,6 +17,15 @@ menu-addons-and-themes =
 
 ## Help Menu
 
+menu-help-help-title =
+    .label = Справка
+    .accesskey = С
+menu-help-get-help =
+    .label = Получить помощь
+    .accesskey = л
+menu-help-explore-features =
+    .label = Узнать о возможностях
+    .accesskey = ж
 menu-help-enter-troubleshoot-mode =
     .label = Безопасный режим…
     .accesskey = п
