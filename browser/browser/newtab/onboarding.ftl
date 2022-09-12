@@ -285,33 +285,104 @@ mr2022-onboarding-set-default-only-subtitle = Cumenza cun in navigatur dad ina o
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Grazia per appreziar { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Aviescha in internet pli saun cun in singul clic – nua ch'i saja. Nossa actualisaziun la pli nova porta numerusas novaziuns che ti vegns ad adurar.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Utilisescha in navigatur che protegia tia sfera privata fertant che ti navigheschas en il web. Nossa actualisaziun la pli nova porta numerusas novaziuns che ti vegns ad adurar.
+mr2022-onboarding-existing-pin-checkbox-label = Era agiuntar il modus privat da { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Definir { -brand-short-name } sco navigatur preferì
+mr2022-onboarding-set-default-primary-button-label = Definir { -brand-short-name } sco navigatur da standard
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Utilisescha in navigatur dad ina organisaziun senza finamira da profit. Nus protegin tia sfera privata fertant che ti navigheschas en il web.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Nossa actualisaziun la pli nova è adattada a tes basegns e renda pli simpel che mai da navigar en il web. Ella porta numerusas funcziuns che ti vegns ad adurar.
+mr2022-onboarding-get-started-primary-button-label = Configurà en in pèr secundas
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Configuraziun sveltischma
+mr2022-onboarding-import-subtitle = Configurescha { -brand-short-name } tenor tes basegns. Agiuntescha segnapaginas, pleds-clav e dapli da tes navigatur vegl.
+mr2022-onboarding-import-primary-button-label-no-attribution = Importar dad in auter navigatur
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Tscherna la colur che inspirescha tai
+mr2022-onboarding-colorway-subtitle = Vuschs independentas pon midar la societad.
+mr2022-onboarding-colorway-primary-button-label = Definir la cumbinaziun da colurs
+mr2022-onboarding-existing-colorway-checkbox-label = Utilisescha { -firefox-home-brand-name } per ina pagina da partenza plain colurs
+mr2022-onboarding-colorway-label-default = Standard
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Standard
+mr2022-onboarding-colorway-description-default = <b>Utilisar mias colurs da { -brand-short-name } actualas.</b>
+mr2022-onboarding-colorway-label-playmaker = Capo
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Capo
+mr2022-onboarding-colorway-description-playmaker = <b>Ti es in capo.</b> Ti creeschas occasiuns per gudagnar e gidas mintgin enturn tai da giugar anc meglier.
+mr2022-onboarding-colorway-label-expressionist = Expressiunist
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Expressiunist
+mr2022-onboarding-colorway-description-expressionist = <b>Ti es in expressiunist.</b> Ti vesas il mund cun auters egls e tias creaziuns sveglian emoziuns.
+mr2022-onboarding-colorway-label-visionary = Visiunari
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Visiunari
+mr2022-onboarding-colorway-description-visionary = <b>Ti es in visiunari.</b> Ti mettas en dumonda il status quo ed animeschas auters da s'imaginar in meglier mund.
+mr2022-onboarding-colorway-label-activist = Activist
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Activist
+mr2022-onboarding-colorway-description-activist = <b>Ti es in activist.</b> Ti laschas enavos in meglier mund e mussas ad auters da crair en il futur.
+mr2022-onboarding-colorway-label-dreamer = Siemiader
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Siemiader
+mr2022-onboarding-colorway-description-dreamer = <b>Ti es ina siemiader.</b> Ti crais ch'il cletg gidia ils giagliards ed inspireschas auters dad esser curaschus.
+mr2022-onboarding-colorway-label-innovator = Innovatur
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Innovatur
+mr2022-onboarding-colorway-description-innovator = <b>Ti es in innovatur.</b> Ti vesas dapertut ina pussaivladad ed influenzeschas las vitas da las persunas enturn tai.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Mida dal laptop al telefonin e puspè enavos
+mr2022-onboarding-mobile-download-subtitle = Va per tabs dad in apparat e cuntinuescha là nua che ti has chalà sin in auter apparat. Sincronisescha ultra da quai tes segnapaginas e pleds-clav dapertut nua che ti utiliseschas { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Scannescha il code QR per ir per { -brand-product-name } per apparats mobils u <a data-l10n-name="download-label">ta trametta ina colliaziun a la telechargiada</a>.
+mr2022-onboarding-no-mobile-download-cta-text = Scannescha il code QR per telechargiar { -brand-product-name } per apparats mobils.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Va cun in clic per la libertad da la navigaziun privata
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Nagins cookies memorisads e nagina cronologia, ma gist sin tes desktop. Navighescha sco sche nagin guardass.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Fixar il modus privat da { -brand-short-name } en il dock
+       *[other] Fixar il modus privat da { -brand-short-name } en la taskbar
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Nus respectain adina tia sfera privata
+mr2022-onboarding-privacy-segmentation-subtitle = Da propostas intelligentas fin ad ina tschertga pli furbra – nus lavurain permanentamain per crear in meglier { -brand-product-name } pli persunal.
+mr2022-onboarding-privacy-segmentation-text-cta = Tge vuls ti vesair cura che nus purschain novas funcziuns che utiliseschan tias datas per meglierar la navigaziun?
+mr2022-onboarding-privacy-segmentation-button-primary-label = Utilisar recumandaziuns da { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Mussar infurmaziuns detagliadas
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Ti ans gidas da crear in meglier web.
+mr2022-onboarding-gratitude-subtitle = Grazia per utilisar { -brand-short-name } da la Mozilla Foundation. Cun tes agid lavurain nus per crear in internet pli avert, accessibel e meglier per mintgin.
+mr2022-onboarding-gratitude-primary-button-label = Scuvrir las novaziuns
+mr2022-onboarding-gratitude-secondary-button-label = Cumenzar a navigar
