@@ -18,3 +18,11 @@ callout-firefox-view-recently-closed-subtitle = Tous vos onglets fermés s’aff
 callout-firefox-view-colorways-title = Ajoutez une touche de couleur
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Choisissez la nuance qui vous correspond grâce aux coloris. Seulement dans { -brand-product-name }.
+callout-firefox-view-colorways-reminder-title = Découvrez nos derniers coloris
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = Améliorez votre navigation avec la récupération d’onglets
