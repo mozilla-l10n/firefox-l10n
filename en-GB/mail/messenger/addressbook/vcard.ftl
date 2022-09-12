@@ -63,8 +63,13 @@ vcard-tz-add = Add time zone
 # IMPP vCard field
 
 vcard-impp-header = Chat Accounts
+vcard-impp2-header = Instant Messaging
 vcard-impp-add = Add chat account
 vcard-impp-label = Chat account
+vcard-impp-select = Protocol
+vcard-impp-option-other = Other
+vcard-impp-input-label = URI
+vcard-impp-input-title = URI for instant messaging
 
 # BDAY and ANNIVERSARY vCard field
 
@@ -82,8 +87,6 @@ vcard-adr-header = Addresses
 vcard-adr-add = Add address
 vcard-adr-label = Address
 vcard-adr-delivery-label = Delivery label
-vcard-adr-pobox = Post office box
-vcard-adr-ext = Extended address
 vcard-adr-street = Street address
 # Or "Locality"
 vcard-adr-locality = City
