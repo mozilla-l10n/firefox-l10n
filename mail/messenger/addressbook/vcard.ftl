@@ -63,7 +63,7 @@ vcard-tz-add = Добавить часовой пояс
 # IMPP vCard field
 
 vcard-impp-header = Учётные записи чата
-vcard-impp2-header = Обмен мгновенными сообщениями
+vcard-impp2-header = Мгновенные сообщения
 vcard-impp-add = Добавить учётную запись чата
 vcard-impp-label = Учётная запись чата
 vcard-impp-select = Протокол
