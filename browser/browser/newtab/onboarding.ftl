@@ -261,6 +261,13 @@ mr2022-onboarding-secondary-skip-button-label = Hopp over dette trinnet
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Åpne opp for et fantastisk internett
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Start { -brand-short-name } fra hvor som helst med ett enkelt klikk. Hver gang du gjør det, velger du en mer åpen og uavhengig internett.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -277,9 +284,16 @@ mr2022-onboarding-set-default-only-subtitle = Start med en nettleser støttet av
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Takk for at du liker { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Start et sunnere internett fra hvor som helst med et enkelt klikk. Den siste oppdateringen vår er fullpakket med nye ting vi tror du vil elske.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Bruk en nettleser som beskytter personvernet ditt mens du beveger deg rundt på nettet. Den siste oppdateringen vår er fullpakket med ting du elsker.
+mr2022-onboarding-existing-pin-checkbox-label = Legg også til { -brand-short-name } privat nettlesing
 
 ## MR2022 New User Set Default screen strings
 
+mr2022-onboarding-set-default-primary-button-label = Gjør { -brand-short-name } til standardnettleser
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
