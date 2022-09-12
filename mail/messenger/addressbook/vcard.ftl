@@ -63,8 +63,13 @@ vcard-tz-add = Добавить часовой пояс
 # IMPP vCard field
 
 vcard-impp-header = Учётные записи чата
+vcard-impp2-header = Обмен мгновенными сообщениями
 vcard-impp-add = Добавить учётную запись чата
 vcard-impp-label = Учётная запись чата
+vcard-impp-select = Протокол
+vcard-impp-option-other = Другое
+vcard-impp-input-label = URI
+vcard-impp-input-title = URI для обмена мгновенными сообщениями
 
 # BDAY and ANNIVERSARY vCard field
 
@@ -82,8 +87,6 @@ vcard-adr-header = Адреса
 vcard-adr-add = Добавить адрес
 vcard-adr-label = Адрес
 vcard-adr-delivery-label = Метка для доставки
-vcard-adr-pobox = Почтовый ящик
-vcard-adr-ext = Расширенный адрес
 vcard-adr-street = Улица
 # Or "Locality"
 vcard-adr-locality = Город

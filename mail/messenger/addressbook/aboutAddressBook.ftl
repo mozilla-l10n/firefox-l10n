@@ -186,10 +186,12 @@ about-addressbook-details-email-addresses-header = Адреса электрон
 about-addressbook-details-phone-numbers-header = Номера телефонов
 about-addressbook-details-addresses-header = Адреса
 about-addressbook-details-notes-header = Заметки
+about-addressbook-details-impp-header = Обмен мгновенными сообщениями
 about-addressbook-details-other-info-header = Дополнительная информация
 about-addressbook-entry-type-work = Рабочий
 about-addressbook-entry-type-home = Домашний
 about-addressbook-entry-type-fax = Факс
+# Or "Mobile"
 about-addressbook-entry-type-cell = Мобильный телефон
 about-addressbook-entry-type-pager = Пейджер
 about-addressbook-entry-name-birthday = День рождения
