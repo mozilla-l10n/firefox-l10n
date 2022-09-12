@@ -3,9 +3,22 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## New Account
+
+
+## New Account / Address Book
+
+
+## Create
+
+
+## Open
+
+
 ## View / Layout
 
 appmenu-font-size-value = Grondezza da scrittira
+appmenu-mail-uidensity-value = Cumpactadad
 appmenuitem-font-size-enlarge =
     .tooltiptext = Engrondir la grondezza da la scrittira
 appmenuitem-font-size-reduce =
@@ -15,3 +28,9 @@ appmenuitem-font-size-reduce =
 appmenuitem-font-size-reset =
     .label = { $size }px
     .tooltiptext = Reinizialisar la grondezza da la scrittira
+
+## Tools
+
+
+## Help
+
