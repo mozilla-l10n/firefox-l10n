@@ -293,6 +293,8 @@ mr2022-onboarding-existing-pin-checkbox-label = Legg også til { -brand-short-na
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Gjør { -brand-short-name } til din standardnettleser?
 mr2022-onboarding-set-default-primary-button-label = Gjør { -brand-short-name } til standardnettleser
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
@@ -302,15 +304,24 @@ mr2022-onboarding-set-default-subtitle = Bruk en nettleser støttet av en ideell
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Vår nyeste versjon er laget for å møte dine behov og gjøre det enklere å navigere på nettet. Den er fullpakket med funksjoner vi tror du vil elske.
+mr2022-onboarding-get-started-primary-button-label = Hurtig konfigurering
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Lynrask konfigurering
+mr2022-onboarding-import-subtitle = Konfiguer { -brand-short-name } slik du liker det. Legg til bokmerker, passord og mer fra den gamle nettleseren din.
+mr2022-onboarding-import-primary-button-label-no-attribution = Importer fra tidligere nettleser
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Velg fargen som inspirerer deg
+mr2022-onboarding-colorway-subtitle = Uavhengige stemmer kan endre kultur.
 mr2022-onboarding-colorway-primary-button-label = Velg fargesammensetting
 mr2022-onboarding-existing-colorway-checkbox-label = Gjør { -firefox-home-brand-name } til din fargerike startside
 mr2022-onboarding-colorway-label-default = Standard
@@ -344,12 +355,16 @@ mr2022-onboarding-colorway-description-innovator = <b>Du er en innovatør.</b> D
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Bytt fra bærbar PC til telefon og tilbake igjen
+mr2022-onboarding-mobile-download-subtitle = Hent faner fra én enhet og fortsett der du slapp på en annen. Synkroniser også bokmerkene og passordene dine overalt hvor du bruker { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Skann QR-koden for å få { -brand-product-name } for mobil eller <a data-l10n-name="download-label">send deg selv en nedlastingslenke.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Skann QR-koden for å få { -brand-product-name } for mobil
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Få privat nettlesingsfrihet med ett klikk
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Ingen lagrede infokapsler eller historikk, rett fra skrivebordet. Surf som om ingen ser på.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
         [macos] Behold { -brand-short-name } privat nettlesing i Dock
@@ -358,6 +373,9 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Vi respekterer alltid ditt personvern
+mr2022-onboarding-privacy-segmentation-subtitle = Fra intelligente forslag til smartere søk. Vi jobber alltid med å gjøre { -brand-product-name } bedre og mer personlig.
+mr2022-onboarding-privacy-segmentation-text-cta = Hva vil du se når vi lager nye funksjoner som bruker dine data til å forbedre nettleseropplevelsen din?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Bruk { -brand-product-name }-anbefalinger
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Vis detaljert informasjon
 
