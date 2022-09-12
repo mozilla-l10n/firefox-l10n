@@ -458,6 +458,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Pagină de start Firefox (Implicit)
+home-mode-choice-default-fx =
+    .label = Pagina de { -firefox-home-brand-name } (Implicită)
 home-mode-choice-custom =
     .label = URL-uri personalizate…
 home-mode-choice-blank =
@@ -483,7 +485,8 @@ choose-bookmark =
 
 home-prefs-content-header = Conținutul paginii de start Firefox
 home-prefs-content-description = Alege ce conținut vrei pe ecranul de start Firefox.
-home-prefs-content-description2 = Alege ce conținut vrei pe ecranul { -firefox-home-brand-name }.
+home-prefs-content-header2 = Conținutul paginii de { -firefox-home-brand-name }
+home-prefs-content-description2 = Alege ce conținut vrei pe ecranul de { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Căutare web
 home-prefs-shortcuts-header =
@@ -916,6 +919,7 @@ content-blocking-etp-custom-desc = Alege ce elemente de urmărire și scripturi 
 content-blocking-etp-blocking-desc = { -brand-short-name } blochează următoarele:
 content-blocking-private-windows = Conținutul de urmărire în ferestre private
 content-blocking-cross-site-cookies-in-all-windows = Cookie-urile inter-site-uri în toate ferestrele (inclusiv cookie-urile de urmărire)
+content-blocking-cross-site-cookies-in-all-windows2 = Cookie-uri inter-site-uri în toate ferestrele
 content-blocking-cross-site-tracking-cookies = Cookie-uri de urmărire inter-site-uri
 content-blocking-all-cross-site-cookies-private-windows = Cookie-uri inter-site-uri în ferestrele private
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookie-uri de urmărire inter-site-uri și izolează restul cookie-urilor

@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Navigare privată)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Navigare privată)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navigare privată)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navigare privată)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -111,7 +109,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Scrii mai puțin, găsești mai multe: caută cu { $engineName } direct în bara de adrese.
 urlbar-search-tips-redirect-2 = Începe căutarea în bara de adrese ca să vezi sugestii de la { $engineName } și din istoricul tău de navigare.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Selectează această comandă rapidă pentru a găsi mai repede ceea ce ai nevoie.
@@ -121,6 +118,7 @@ urlbar-tabtosearch-onboard = Selectează această comandă rapidă pentru a găs
 urlbar-search-mode-bookmarks = Marcaje
 urlbar-search-mode-tabs = File
 urlbar-search-mode-history = Istoric
+urlbar-search-mode-actions = Acțiuni
 
 ##
 
@@ -148,12 +146,10 @@ urlbar-midi-blocked =
     .tooltiptext = Ai blocat accesul MIDI pentru acest site web.
 urlbar-install-blocked =
     .tooltiptext = Ai blocat suplimentele instalate pentru acest site web.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Editează acest marcaj ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -180,10 +176,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = De data aceasta, caută cu:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Schimbă setările de căutare
-
 search-one-offs-context-open-new-tab =
     .label = Caută într-o filă nouă
     .accesskey = T
@@ -193,14 +187,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Setează ca motor de căutare implicit în ferestre private
     .accesskey = P
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -227,6 +219,18 @@ search-one-offs-tabs =
     .tooltiptext = File ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Istoric ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Acțiuni ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = Vezi suplimentele
 
 ## Bookmark Panel
 
@@ -250,7 +254,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button =
     .label = Salvează
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -278,12 +281,10 @@ identity-passive-loaded = Unele părți din pagină nu sunt sigure (cum ar fi im
 identity-active-loaded = Ai dezactivat protecția pe această pagină.
 identity-weak-encryption = Această pagină folosește criptare slabă.
 identity-insecure-login-forms = Datele de autentificare introduse pe această pagină ar putea fi compromise.
-
 identity-https-only-label = Mod doar HTTPS
 identity-https-only-info-turn-on2 = Activează modul doar HTTPS pentru acest site dacă vrei ca { -brand-short-name } să actualizeze conexiunea atunci când este posibil.
-
+identity-permissions-storage-access-header = Cookie-uri inter-site-uri
 identity-permissions-storage-access-learn-more = Află mai multe
-
 identity-permissions-reload-hint = Ar putea fi nevoie să reîncarci pagina pentru a aplica modificările.
 identity-clear-site-data =
     .label = Șterge cookie-urile și datele site-urilor…
@@ -365,7 +366,6 @@ enable-devtools-popup-description = Pentru a folosi comanda rapidă F12, deschid
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Caută sau introdu adresa
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -374,7 +374,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Caută pe web
     .aria-label = Caută cu { $name }
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -383,36 +382,29 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Introdu termenii de căutare
     .aria-label = Caută { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Introdu termenii de căutare
     .aria-label = Caută în marcaje
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Introdu termenii de căutare
     .aria-label = Caută în istoric
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Introdu termenii de căutare
     .aria-label = Caută file
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Caută cu { $name } sau introdu adresa
-
 urlbar-permissions-granted =
     .tooltiptext = Ai acordat permisiuni suplimentare acestui site web.
 urlbar-switch-to-tab =
     .value = Comută pe filă:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensie:
-
 urlbar-go-button =
     .tooltiptext = Mergi la adresa din bara de adrese
 urlbar-page-action-button =
@@ -464,12 +456,9 @@ urlbar-result-action-search-tabs = Caută file
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> este acum în modul ecran complet
 fullscreen-warning-no-domain = Acest document este acum în ecran complet
-
-
 fullscreen-exit-button = Ieși din modul ecran complet (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Ieși din modul ecran complet (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -526,7 +515,6 @@ bookmarks-tools =
     .label = Instrumente pentru marcaje
 bookmarks-bookmark-edit-panel =
     .label = Editează acest marcaj
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -540,7 +528,6 @@ bookmarks-toolbar-placeholder =
     .title = Elemente pe bara de marcaje
 bookmarks-toolbar-placeholder-button =
     .label = Elemente pe bara de marcaje
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Marchează fila actuală
@@ -569,7 +556,6 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Suplimente și teme
     .tooltiptext = Gestionează-ți suplimentele și temele ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -579,33 +565,25 @@ toolbar-settings-button =
             [macos] Deschide setările ({ $shortcut })
            *[other] Deschide setările
         }
-
-## More items
-
 toolbar-overflow-customize-button =
     .label = Personalizează bara de instrumente…
     .accesskey = C
-
 toolbar-button-email-link =
     .label = Trimite e-mail cu linkul
     .tooltiptext = Trimite un e-mail cu linkul către acestă pagină
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Salvează pagina
     .tooltiptext = Salvează această pagină ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Deschide fișier
     .tooltiptext = Deschide un fișier ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = File sincronizate
     .tooltiptext = Afișează file de pe alte dispozitive
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -631,8 +609,6 @@ panel-save-update-password = Parolă
 addon-removal-title = Elimini { $name }?
 addon-removal-abuse-report-checkbox = Raportează această extensie la { -vendor-short-name }
 
-## Remote / Synced tabs
-
 ##
 
 ui-tour-info-panel-close =
@@ -644,7 +620,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Permite ferestre pop-up pentru { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Blochează ferestrele pop-up pentru { $uriHost }
     .accesskey = p
@@ -654,7 +629,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Nu afișa acest mesaj când sunt blocate ferestre pop-up
     .accesskey = D
-
 picture-in-picture-hide-toggle =
     .label = Ascunde comutatorul Picture-in-Picture
     .accesskey = H
@@ -673,42 +647,32 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Navigare
-
 navbar-downloads =
     .label = Descărcări
-
 navbar-overflow =
     .tooltiptext = Mai multe instrumente…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Tipărește
     .tooltiptext = Tipărește pagina… ({ $shortcut })
-
 navbar-home =
     .label = Pagină de start
     .tooltiptext = Pagina de start { -brand-short-name }
-
 navbar-library =
     .label = Bibliotecă
     .tooltiptext = Vezi istoricul, marcajele salvate și multe altele
-
 navbar-search =
     .title = Caută
-
 navbar-accessibility-indicator =
     .tooltiptext = Funcții de accesibilitate activate
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Filele browserului
-
 tabs-toolbar-new-tab =
     .label = Filă nouă
-
 tabs-toolbar-list-all-tabs =
     .label = Listează toate filele
     .tooltiptext = Listează toate filele
@@ -722,3 +686,6 @@ data-reporting-notification-message = { -brand-short-name } trimite automat anum
 data-reporting-notification-button =
     .label = Alege ce partajezi
     .accesskey = C
+
+## Unified extensions (toolbar) button
+
