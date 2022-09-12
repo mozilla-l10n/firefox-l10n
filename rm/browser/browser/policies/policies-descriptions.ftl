@@ -67,7 +67,9 @@ policy-Extensions = Installar, deinstallar u bloccar extensiuns. L'opziun «Inst
 policy-ExtensionSettings = Administrar tut ils aspects da l'installaziun dad extensiuns.
 policy-ExtensionUpdate = Activar u deactivar actualisaziuns automaticas dad extensiuns.
 policy-FirefoxHome = Configurar la pagina da partenza da Firefox.
+policy-FirefoxHome2 = Configurar { -firefox-home-brand-name }.
 policy-FlashPlugin = Permetter u scumandar l'utilisaziun dal plug-in Flash.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Sfurzar la navigaziun directa en la website da l'intranet empè da tschertgar, en cas che singuls pleds vegnan tippads en la trav d'adressas.
 policy-Handlers = Configurar la gestiun dad applicaziuns da standard.
 policy-HardwareAcceleration = Sche «false», deactivar l'acceleraziun cun agid da la hardware.
 # “lock” means that the user won’t be able to change this setting
