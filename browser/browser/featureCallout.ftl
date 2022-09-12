@@ -9,6 +9,20 @@ callout-primary-complete-button-label = Jeg forstår!
 
 ## Firefox View feature tour strings
 
+# "Tab pickup" refers to the section in Firefox View that displays open
+# tabs from other devices
+callout-firefox-view-tab-pickup-title = Bytt mellom enheter med synkroniserte faner
+callout-firefox-view-tab-pickup-subtitle = Hent hurtig åpne faner fra telefonen og åpne dem her.
+callout-firefox-view-recently-closed-title = Få tilbake de lukkede fanene på et øyeblikk
+callout-firefox-view-recently-closed-subtitle = Alle de lukkede fanene dine vil bli vist her. Så du behøver aldri å bekymre deg for å lukke et nettsted ved et uhell igjen.
 callout-firefox-view-colorways-title = Legg til en fargeklatt
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Velg nyansen som snakker til deg med fargesammensettinger. Bare i { -brand-product-name }.
+callout-firefox-view-colorways-reminder-title = Utforsk de nyeste fargesammensettingene våre
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = Farg nettleseren din med disse ikoniske nyansene, inspirert av uavhengige stemmer. Bare i { -brand-product-name }.
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Få tilgang til de åpne fanene dine fra hvilken som helst enhet. Synkroniser også bokmerker, passord med mer.
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Kom i gang
