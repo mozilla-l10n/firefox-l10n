@@ -63,6 +63,8 @@ vcard-tz-add = 添加时区
 vcard-impp-header = 聊天账户
 vcard-impp-add = 添加聊天账户
 vcard-impp-label = 聊天账户
+vcard-impp-select = 协议
+vcard-impp-option-other = 其他
 
 # BDAY and ANNIVERSARY vCard field
 

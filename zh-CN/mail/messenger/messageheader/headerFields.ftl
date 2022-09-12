@@ -33,4 +33,6 @@ message-header-address-not-in-address-book-icon2 =
     .alt = 不在通讯录中
 message-header-address-in-address-book-button =
     .title = 编辑联系人
+message-header-field-show-more = 更多
+    .title = 显示全部收件人
 message-ids-field-show-all = 显示全部

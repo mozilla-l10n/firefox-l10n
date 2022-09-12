@@ -149,6 +149,9 @@ encryption-options-openpgp =
 encryption-options-smime =
     .label = S/MIME
     .tooltiptext = 查看或更改 S/MIME 加密设置
+signing-toggle =
+    .label = 签名
+    .tooltiptext = 对消息进行数字签名
 menu-openpgp =
     .label = OpenPGP
     .accesskey = O
@@ -357,6 +360,7 @@ cloud-file-account-error = 由于文件快传已被删除，文件快传附件 {
 ## Link Preview
 
 link-preview-title = 链接预览
+link-preview-replace-now = 为此链接添加链接预览？
 link-preview-yes-replace = 好的
 
 ## Dictionary selection popup
