@@ -26,3 +26,5 @@ callout-firefox-view-colorways-reminder-title = Découvrez nos derniers coloris
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Améliorez votre navigation avec la récupération d’onglets
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Accédez à vos onglets ouverts depuis n’importe quel appareil. Synchronisez aussi marque-pages, mots de passe et bien plus encore.
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Lancez-vous
