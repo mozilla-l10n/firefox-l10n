@@ -180,10 +180,12 @@ about-addressbook-details-email-addresses-header = Endereços de email
 about-addressbook-details-phone-numbers-header = Números de telefone
 about-addressbook-details-addresses-header = Endereços
 about-addressbook-details-notes-header = Notas
+about-addressbook-details-impp-header = Mensagens instantâneas
 about-addressbook-details-other-info-header = Outras informações
 about-addressbook-entry-type-work = Trabalho
 about-addressbook-entry-type-home = Casa
 about-addressbook-entry-type-fax = Fax
+# Or "Mobile"
 about-addressbook-entry-type-cell = Celular
 about-addressbook-entry-type-pager = Pager
 about-addressbook-entry-name-birthday = Data de nascimento
