@@ -15,6 +15,10 @@ dateformat-long =
 #   $date (String) - the formatted example date
 dateformat-short =
     .label = Curt: { $date }
+use-system-timezone-radio-button =
+    .label = Utilisar la zona d'urari dal sistem
+set-timezone-manually-radio-button =
+    .label = Definir manualmain la zona d'urari
 timezone-label =
     .value = Zona d'urari:
 weekstart-label =
@@ -101,12 +105,6 @@ previous-weeks-label =
     .value = Emnas passadas per mussar:
     .accesskey = E
 todaypane-legend = Lastra dal di
-# Note: "Upcoming" is the name of a section and the translation must match the
-# translation of that section name (calendar.upcoming.button.label). Also,
-# it should be upper case (as a proper name) if the target language permits.
-soon-label =
-    .value = La secziun «Proximamain» mussa:
-    .accesskey = u
 agenda-days =
     .value = Il chalender mussa:
     .accesskey = h
