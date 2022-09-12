@@ -15,3 +15,4 @@ callout-firefox-view-tab-pickup-title = Byt mellom einingar med synkroniserte fa
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Kom i gang
