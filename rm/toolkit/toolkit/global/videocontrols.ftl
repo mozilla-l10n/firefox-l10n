@@ -12,7 +12,6 @@ videocontrols-volume-control =
     .aria-label = Volumen
 videocontrols-closed-caption-button =
     .aria-label = Suttitels
-
 videocontrols-play-button =
     .aria-label = Far ir
 videocontrols-pause-button =
@@ -29,20 +28,23 @@ videocontrols-casting-button-label =
     .aria-label = Trametter al monitur
 videocontrols-closed-caption-off =
     .offlabel = Deactivà
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Maletg-en-maletg
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label = Guardar sco maletg-en-maletg
-
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Far ir videos en il fund davant durant che ti fas anc insatge auter en { -brand-short-name }
-
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label2 = Statgar quest video
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer2 = Plirs visurs fan dapli plaschair. Fa ir quest video sco maletg-en-maletg durant che ti navigheschas.
 videocontrols-error-aborted = Fermà il chargiar dal video.
 videocontrols-error-network = La reproducziun dal video è interrutta pervia dad ina errur da rait.
 videocontrols-error-decode = Impussibel da far ir il video perquai che la datoteca è donnegiada.
@@ -50,7 +52,6 @@ videocontrols-error-src-not-supported = Il format dal video u tip da MIME na veg
 videocontrols-error-no-source = Betg chattà in video cun in format e tip da MIME sustegnì.
 videocontrols-error-generic = Interrut la reproducziun dal video pervia d'ina errur nunenconuschenta.
 videocontrols-status-picture-in-picture = Quest video vegn reproducì en il modus maletg-en-maletg.
-
 # This message shows the current position and total video duration
 #
 # Variables:
