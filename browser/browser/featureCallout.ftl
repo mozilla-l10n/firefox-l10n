@@ -18,3 +18,7 @@ callout-firefox-view-recently-closed-subtitle = 여기에 닫은 모든 탭들�
 callout-firefox-view-colorways-title = 다채로운 색상 넣기
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = 컬러웨이로 당신에게 어울리는 색상을 선택하세요. { -brand-product-name }에만 있습니다.
+callout-firefox-view-colorways-reminder-title = 최신 컬러웨이 살펴보기
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
