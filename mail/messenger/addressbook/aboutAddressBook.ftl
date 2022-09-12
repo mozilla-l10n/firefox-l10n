@@ -177,6 +177,7 @@ about-addressbook-details-email-addresses-header = 电子邮件地址
 about-addressbook-details-phone-numbers-header = 手机号码
 about-addressbook-details-addresses-header = 地址
 about-addressbook-details-notes-header = 备注
+about-addressbook-details-impp-header = 即时通讯
 about-addressbook-details-other-info-header = 其他信息
 about-addressbook-entry-type-fax = 传真
 # Or "Mobile"
