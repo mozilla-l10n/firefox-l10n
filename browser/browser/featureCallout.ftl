@@ -19,6 +19,8 @@ callout-firefox-view-colorways-title = Ajoutez une touche de couleur
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Choisissez la nuance qui vous correspond grâce aux coloris. Seulement dans { -brand-product-name }.
 callout-firefox-view-colorways-reminder-title = Découvrez nos derniers coloris
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = Donnez des couleurs à votre navigateur avec ces teintes emblématiques, inspirées par des voix indépendantes. Uniquement dans { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
