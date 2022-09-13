@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox 字樣與 Firefox 標誌為 Mozilla 基金會之註冊商標。
+-brand-shortcut-name = Firefox
+
