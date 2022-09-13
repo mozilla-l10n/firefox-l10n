@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox ngön logo Firefox nakeuh lambang meukat nibak Yayasan Mozilla.
+-brand-shortcut-name = Firefox
+
