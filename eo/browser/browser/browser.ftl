@@ -273,9 +273,10 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Vidi aldonaĵojn
 quickactions-cmd-addons = aldonaĵoj, etendaĵoj, etosoj
+quickactions-cmd-addons2 = aldonaĵoj
 # Opens the bookmarks library window
 quickactions-bookmarks = Vidi legosignojn
 quickactions-cmd-bookmarks = legosignojn
@@ -285,12 +286,18 @@ quickactions-cmd-clearhistory = viŝi historion
 # Opens about:downloads page
 quickactions-downloads = Malfermi elŝutojn
 quickactions-cmd-downloads = elŝutojn
+# Opens about:addons page in the extensions section
+quickactions-extensions = Administri etendaĵojn
+quickactions-cmd-extensions = etendaĵoj
 # Opens the devtools web inspector
 quickactions-inspector = Malfermi la inspektilon
 quickactions-cmd-inspector = inspektilo, iloj por programistoj
 # Opens about:logins
 quickactions-logins = Vidi legitimilojn
 quickactions-cmd-logins = legitimiloj, pasvortoj
+# Opens about:addons page in the plugins section
+quickactions-plugins = Administri kromprogramojn
+quickactions-cmd-plugins = kromprogramoj
 # Opens the print dialog
 quickactions-print = Presi
 quickactions-cmd-print = presi
@@ -309,6 +316,9 @@ quickactions-cmd-screenshot = ekrankopio
 # Opens about:preferences
 quickactions-settings = Malfermi agordojn
 quickactions-cmd-settings = agordoj, preferoj, elektebloj
+# Opens about:addons page in the themes section
+quickactions-themes = Administri etosojn
+quickactions-cmd-themes = etosojn
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Ĝisdatigi { -brand-short-name }
 quickactions-cmd-update = ĝisdatigi
