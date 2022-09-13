@@ -40,6 +40,9 @@ synced-tabs-context-open-in-tab =
 synced-tabs-context-open-in-container-tab =
     .label = Avrir en in nov tab da container
     .accesskey = i
+synced-tabs-context-open-in-window =
+    .label = Avrir en ina nova fanestra
+    .accesskey = n
 
 ##
 

@@ -267,15 +267,13 @@ search-one-offs-actions =
     .tooltiptext = Acziuns ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
-
-
-## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Mussar ils supplements
 quickactions-cmd-addons = supplements, extensiuns, designs
+quickactions-cmd-addons2 = supplements
 # Opens the bookmarks library window
 quickactions-bookmarks = Mussar ils segnapaginas
 quickactions-cmd-bookmarks = segnapaginas
