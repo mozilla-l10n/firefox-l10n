@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Nodau masnachu'r Mozilla Foundation yw Firefox a logos Firefox.
+-brand-shortcut-name = Firefox
+
