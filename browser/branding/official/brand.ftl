@@ -30,3 +30,5 @@
 -brand-full-name = Mozilla Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox û logoyên Firefoxê markayên tomarkirî yên Weqfa Mozillayê ne.
+-brand-shortcut-name = Firefox
+
