@@ -70,6 +70,7 @@ firefoxview-mobile-confirmation-description = Ora puoi recuperare le schede di {
 firefoxview-closed-tabs-title = Chiuse di recente
 
 firefoxview-closed-tabs-description = Riapri pagine che hai chiuso su questo dispositivo.
+firefoxview-closed-tabs-description2 = Riapri pagine che hai chiuso in questa finestra.
 firefoxview-closed-tabs-placeholder = <strong>Nessuna pagina chiusa di recente</strong><br/>Non avrai più paura di perdere una scheda chiusa per errore, potrai sempre riaprirla qui.
 
 # refers to the last tab that was used
