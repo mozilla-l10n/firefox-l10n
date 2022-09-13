@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox আৰু Firefox লগোসমূহ Mozilla সংঘঠনৰ প্ৰতিকচিহ্ন।
+-brand-shortcut-name = Firefox
+
