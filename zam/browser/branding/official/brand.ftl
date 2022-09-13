@@ -32,3 +32,5 @@
 -brand-full-name = Mozilla Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox nak chan Fundación Mozilla.
+-brand-shortcut-name = Firefox
+
