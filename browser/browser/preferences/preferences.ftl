@@ -184,12 +184,15 @@ preferences-web-appearance-header = Aspekto de retejoj
 preferences-web-appearance-description = Kelkaj retejoj adaptas siajn kolorarojn al viaj preferoj. Elektu la koloraron kiun vi ŝatus uzi por tiuj retejoj.
 preferences-web-appearance-choice-browser = Etoso de { -brand-short-name }
 preferences-web-appearance-choice-system = Sistema etoso
+preferences-web-appearance-choice-auto = Aŭtomate
 preferences-web-appearance-choice-light = Hela
 preferences-web-appearance-choice-dark = Malhela
 preferences-web-appearance-choice-tooltip-browser =
     .title = Kongruigi la etosajn agordojn de { -brand-short-name } kun la fono kaj enhavo de retejoj.
 preferences-web-appearance-choice-tooltip-system =
     .title = Kongruigi viajn sistemajn agordojn por fono kaj enhavo de retejoj.
+preferences-web-appearance-choice-tooltip-auto =
+    .title = Aŭtomate ŝanĝi enhavon kaj fonojn de retejoj laŭ viaj sistemaj agordoj kaj laŭ la etoso de { -brand-short-name }.
 preferences-web-appearance-choice-tooltip-light =
     .title = Uzi helan aspekton por fono enhavo de retejoj.
 preferences-web-appearance-choice-tooltip-dark =
@@ -198,6 +201,8 @@ preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
     .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
@@ -933,7 +938,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Serĉiloj
     .accesskey = S
+addressbar-locbar-quickactions-option =
+    .label = Rapidaj agoj
+    .accesskey = R
 addressbar-suggestions-settings = Ŝanĝi preferojn pri serĉilaj sugestoj
+addressbar-quickactions-learn-more = Pli da informo
 
 ## Privacy Section - Content Blocking
 
@@ -1091,6 +1100,12 @@ addon-recommendations-link = Pli da informo
 collection-health-report-disabled = La raporto de datumoj estas malŝaltita pro la agordoj de konstruo
 collection-backlogged-crash-reports-with-link = Permesi al { -brand-short-name } aŭtomate sendi ankoraŭ nesenditajn raportojn pri paneo. <a data-l10n-name="crash-reports-link">Pli da informo</a>
     .accesskey = A
+privacy-segmentation-section-header = Novaj trajtoj kiuj plibonigas vian retumon
+privacy-segmentation-section-description = Kiam ni proponas trajtojn kiuj uzas viajn datumojn por havi pli personan sperton:
+privacy-segmentation-radio-off =
+    .label = Uzi la rekomendojn de { -brand-product-name }
+privacy-segmentation-radio-on =
+    .label = Montri detalan informon
 
 ## Privacy Section - Security
 ##
