@@ -36,3 +36,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox ਅਤੇ Firefox ਲੋੋਗੋ Mozilla ਫਾਊਂਡੇਸ਼ਨ ਦੇ ਮਾਰਕੇ ਹਨ।
+-brand-shortcut-name = Firefox
+
