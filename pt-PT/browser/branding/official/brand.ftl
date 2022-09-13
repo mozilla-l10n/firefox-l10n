@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = O Firefox e os respetivos logótipos são marcas registadas da Fundação Mozilla.
+-brand-shortcut-name = Firefox
+
