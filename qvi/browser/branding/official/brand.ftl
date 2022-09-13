@@ -31,3 +31,5 @@
 -brand-short-name = Firefox
 -brand-full-name = Mozilla Firefox
 -vendor-short-name = Mozilla
+-brand-shortcut-name = Firefox
+
