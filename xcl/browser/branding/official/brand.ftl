@@ -36,3 +36,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox եւ Firefox տարբերանշանքն են ապրանանիշք Mozilla Foundation֊ի
+-brand-shortcut-name = Firefox
+
