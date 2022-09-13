@@ -37,6 +37,16 @@
         [inessive] Firefoxissa
     }
     .case-status = with-cases
+-brand-shortcut-name =
+    { $case ->
+       *[nominative] Firefox
+        [ablative] Firefoxilta
+        [elative] Firefoxista
+        [genitive] Firefoxin
+        [illative] Firefoxiin
+        [inessive] Firefoxissa
+    }
+    .case-status = with-cases
 -brand-full-name =
     { $case ->
        *[nominative] Mozilla Firefox
