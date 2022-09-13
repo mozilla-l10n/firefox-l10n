@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox e logotip firefox wiha paytum fundacion Mozilha wihan
+-brand-shortcut-name = Firefox
+
