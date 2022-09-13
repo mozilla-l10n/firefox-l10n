@@ -30,3 +30,5 @@
 -brand-full-name = Mozilla Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox уонна Firefox логотииптара Mozilla Foundation бас билиитэ буолаллар.
+-brand-shortcut-name = Firefox
+
