@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox tsi logotipo Firefox kui marca registrada ña Fundación Mozilla.
+-brand-shortcut-name = Firefox
+
