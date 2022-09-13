@@ -36,3 +36,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox ва тамғаҳои Firefox тамғаҳои тиҷории «Mozilla Foundation» мебошанд.
+-brand-shortcut-name = Firefox
+
