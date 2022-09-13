@@ -18,3 +18,7 @@ callout-firefox-view-recently-closed-subtitle = Opaite tendayke mbotypyre osẽt
 callout-firefox-view-colorways-title = Embojuaju sa’y sa’imi
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Eiporavo mba’etépa ohechauka sa’ykuéra ojueheguáva. { -brand-product-name }-pe añoite.
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Eñepyrũ
