@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Merkoù marilhet eus Diazezadenn Mozilla eo Firefox ha sielloù Firefox.
+-brand-shortcut-name = Firefox
+
