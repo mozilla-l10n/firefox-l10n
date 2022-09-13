@@ -355,13 +355,30 @@ mr2022-onboarding-colorway-description-innovator = <b>Vi estas novaĵkreemulo.</
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Iru tien kaj reen inter la komputilo kaj la telefono
+mr2022-onboarding-mobile-download-subtitle = Rehavu langetojn el unu aparato kaj daŭrigi en alia aparto el la loko kie vi haltis. Cetere, spegulu viajn legosignojn kaj pasvortojn ie ajn kie vi uzas { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Skanu la kodon QR por elŝuti { -brand-product-name } por poŝaparatoj, aŭ <a data-l10n-name="download-label">sendu elŝutan ligilon al vi mem.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Skanu la kodon QR por elŝuti { -brand-product-name } por poŝaparatoj.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Unualklaka privata retuma liberiĝo
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Sen konservitaj kuketoj aŭ historio, rekte el via skribotablo. Retumu kvazaŭ neniu vin vidus.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Gardi la privatan retumon de { -brand-short-name } en la Dock
+       *[other] Alpingli la privatan retumon de { -brand-short-name } al la taska ilaro
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Ni ĉiam respektos vian privatecon
+mr2022-onboarding-privacy-segmentation-subtitle = El saĝaj sugestoj al pli inteligenta serĉado, ni senĉese laboras por krei pli bonan, pli personan { -brand-product-name }.
+mr2022-onboarding-privacy-segmentation-text-cta = Kion vi ŝatus vidi kiam ni proponos novajn trajtojn, kiuj uzas viajn datumojn por plibonigi vian retumon?
+mr2022-onboarding-privacy-segmentation-button-primary-label = Uzi la rekomendojn de { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Montri detalan informon
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Vi helpas nin konstrui pli bonan interreton.
