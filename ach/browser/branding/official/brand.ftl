@@ -36,3 +36,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox ki cal me Firefox obedo alama cato wil pa guti Mozilla.
+-brand-shortcut-name = Firefox
+
