@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox-ը և Firefox-ի լոգոները Mozilla Foundation-ի ապրանքանշերն են:
+-brand-shortcut-name = Firefox
+
