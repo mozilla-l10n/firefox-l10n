@@ -32,3 +32,5 @@
 -brand-full-name = Mozilla Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox en die Firefox-logo's is handelsmerke van die Mozilla Stigting.
+-brand-shortcut-name = Firefox
+
