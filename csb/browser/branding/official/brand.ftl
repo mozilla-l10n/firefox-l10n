@@ -31,3 +31,5 @@
 -brand-full-name = Mozilla Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox i jegò loga są zastrzéżonyma znakama Fùndacje Mozilla.
+-brand-shortcut-name = Firefox
+
