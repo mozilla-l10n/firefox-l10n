@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox adı ve Firefox logoları, Mozilla Vakfı’nın tescilli markalarıdır.
+-brand-shortcut-name = Firefox
+
