@@ -6,9 +6,19 @@
 # $organizer (String) - The participant that created the original invitation.
 calendar-invitation-panel-intro = Ο/Η { $organizer } σάς προσκάλεσε στο:
 # Variables:
+# $organizer (String) - The participant that updated the original invitation.
+calendar-invitation-panel-intro-update = Ο/Η { $organizer } ενημέρωσε:
+# Variables:
+# $organizer (String) - The participant that cancelled the invitation.
+calendar-invitation-panel-intro-cancel = Ο/Η { $organizer } ακύρωσε:
+# Variables:
 # $summary (String) - A short summary or title of the event.
 calendar-invitation-panel-title = { $summary }
 calendar-invitation-panel-action-button = Αποθήκευση
+calendar-invitation-panel-save-button = Αποθήκευση
+calendar-invitation-panel-view-button = Προβολή
+calendar-invitation-panel-update-button = Ενημέρωση
+calendar-invitation-panel-delete-button = Διαγραφή
 calendar-invitation-panel-accept-button = Ναι
 calendar-invitation-panel-decline-button = Όχι
 calendar-invitation-panel-tentative-button = Ίσως
