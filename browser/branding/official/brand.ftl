@@ -30,3 +30,5 @@
 -brand-full-name = Mozilla Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox மற்றும் Firefox சின்னங்கள் Mozilla அறக்கொடை நிறுவகத்தின் வர்த்தகமுத்திரைகளாகும்.
+-brand-shortcut-name = Firefox
+
