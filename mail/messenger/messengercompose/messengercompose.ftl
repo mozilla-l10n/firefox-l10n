@@ -241,6 +241,7 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = Alıcılar herkese açık kalsın
     .accesskey = A
+many-public-recipients-prompt-title = Çok fazla ortak alıcı
 many-public-recipients-prompt-cancel = Göndermekten vazgeç
 many-public-recipients-prompt-send = Yine de gönder
 
@@ -261,6 +262,9 @@ compose-tool-button-remove-text-styling =
 
 ## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Bilinmeyen bir Filelink hesabına yüklendi.
 
 # Placeholder file
 
@@ -316,6 +320,11 @@ cloud-file-connection-error = { -brand-short-name } çevrimdışı. { $provider 
 cloud-file-rename-error-title = Yeniden adlandırma hatası
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } önceden yüklenmiş dosyaların yeniden adlandırılmasını desteklemiyor.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Filelink Ek Hatası
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Filelink Hesap Hatası
+cloud-file-account-error = Filelink hesabı silindiği için Filelink eki { $filename } güncellenemedi.
 
 ## Link Preview
 

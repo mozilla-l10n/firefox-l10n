@@ -3,10 +3,48 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## New Account
+
+appmenu-new-account-panel-title =
+    .title = Yeni hesap
+
+## New Account / Address Book
+
+appmenu-newab-panel-title =
+    .title = Yeni adres defteri
+
+## Create
+
+appmenu-create-panel-title =
+    .title = Oluştur
+appmenu-create-task =
+    .label = Görev
+    .accesskey = G
+appmenu-create-contact =
+    .label = Kişi
+    .accesskey = K
+
+## Open
+
+appmenu-open-panel-title =
+    .title = Aç
+appmenu-open-message =
+    .label = İleti…
+    .accesskey = İ
+appmenu-open-calendar =
+    .label = Takvim…
+    .accesskey = T
+
 ## View / Layout
 
+appmenu-view-panel-title =
+    .title = Görünüm
 appmenu-font-size-value = Yazı tipi boyutu
 appmenu-mail-uidensity-value = Yoğunluk
+appmenu-uidensity-compact =
+    .tooltiptext = Kompakt
+appmenu-uidensity-default =
+    .tooltiptext = Varsayılan
 appmenuitem-font-size-enlarge =
     .tooltiptext = Yazı tipi boyutunu büyüt
 appmenuitem-font-size-reduce =
@@ -65,9 +103,6 @@ appmenu-help-get-involved =
 appmenu-help-donation =
     .label = Bağış yapın
     .accesskey = B
-appmenu-help-feedback =
-    .label = Görüş ve fikir gönderin
-    .accesskey = f
 appmenu-help-enter-troubleshoot-mode2 =
     .label = Sorun giderme modu…
     .accesskey = o
