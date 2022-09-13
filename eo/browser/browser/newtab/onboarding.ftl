@@ -284,23 +284,74 @@ mr2022-onboarding-set-default-only-subtitle = Komencu per retumilo apogata de ne
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Dankon pro tio, ke vi ŝatas { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Startigu pli sanan interreton el ie ajn per unu alklako. Nia lasta ĝisdatigo pakas amason da novaj aferoj kaj  ni pensas ke vi amos ilin.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Uzu retumilon kiu defendas vian privatecon dum vi retumas. Nia lasta ĝisdatigo pakas amason da aferoj, kiujn vi amos.
+mr2022-onboarding-existing-pin-checkbox-label = Ankaŭ aldonu la privatan retumon de { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Igu { -brand-short-name } via norma retumilo
+mr2022-onboarding-set-default-primary-button-label = Igu { -brand-short-name } via norma retumilo
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Uzu retumilon apogatan de neprofitcela organizo. Ni defendas vian privatecon dum vi retumas.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Nia lasta versio estis fasonita por vi, kio faciligas retumon pli ol iam ajn antaŭe. Ĝi pakas amason da trajtoj, kaj ni pensas ke vi ilin ŝategos.
+mr2022-onboarding-get-started-primary-button-label = Agordi en sekundoj
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Fulmrapida agordo
+mr2022-onboarding-import-subtitle = Agordu { -brand-short-name } kiel vi ĝin ŝatas. Aldonu viajn legosignojn, pasvortojn kaj pli el via antaŭa retumilo.
+mr2022-onboarding-import-primary-button-label-no-attribution = Enporti el antaŭa retumilo
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Elektu koloron kiu inspiras vin
+mr2022-onboarding-colorway-subtitle = Sendependaj voĉoj povas ŝanĝi kulturon.
+mr2022-onboarding-colorway-primary-button-label = Elekti koloraron
+mr2022-onboarding-existing-colorway-checkbox-label = Igu { -firefox-home-brand-name } via kolorriĉa eka paĝo
+mr2022-onboarding-colorway-label-default = Norma
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Norma
+mr2022-onboarding-colorway-description-default = <b>Uzi miajn nunaj kolorojn de { -brand-short-name }.</b>
+mr2022-onboarding-colorway-label-playmaker = Iniciatanto
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Iniciatanto
+mr2022-onboarding-colorway-description-playmaker = <b>Vi estas iniciatanto.</b> Vi kreas eblojn por venki kaj helpi viajn samteamanojn plibonigi siajn kapablojn.
+mr2022-onboarding-colorway-label-expressionist = Artisto
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Artisto
+mr2022-onboarding-colorway-description-expressionist = <b>Vi estas artisto.</b>Vi vidas la mondon malsame kaj viaj kreaĵoj vekas emociojn ĉe la aliaj.
+mr2022-onboarding-colorway-label-visionary = Imagulo
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Imagulo
+mr2022-onboarding-colorway-description-visionary = <b>Vi estas imagulo.</b> Vi kontestas la nunan situacion kaj helpas la aliajn imagi pli bonan mondon.
+mr2022-onboarding-colorway-label-activist = Aktivulo
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Aktivulo
+mr2022-onboarding-colorway-description-activist = <b>Vi estas aktivulo.</b> Vi lasas la mondon pli bona ol vi ĝin trovis kaj helpas la aliajn kredi pri tiu eblo.
+mr2022-onboarding-colorway-label-dreamer = Revulo
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Revulo
+mr2022-onboarding-colorway-description-dreamer = <b>Vi estas revulo.</b> Vi kredas ke bonŝanco favoras kuraĝulojn kaj inspiras aliajn esti tiaj.
+mr2022-onboarding-colorway-label-innovator = Novaĵkreemulo
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Novaĵkreemulo
+mr2022-onboarding-colorway-description-innovator = <b>Vi estas novaĵkreemulo.</b> Vi vidas eblojn ĉie kaj lasas spurojn en la vivoj de ĉiuj, kiuj estas ĉirkaŭ vi.
 
 ## MR2022 Multistage Mobile Download screen strings
 
