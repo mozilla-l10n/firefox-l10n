@@ -48,6 +48,16 @@
         [loc] Firefox-у
     }
     .gender = masculine
+-brand-shortcut-name =
+    { $case ->
+       *[nom] Firefox
+        [gen] Firefox-а
+        [dat] Firefox-у
+        [acc] Firefox
+        [ins] Firefox-ом
+        [loc] Firefox-у
+    }
+    .gender = masculine
 -brand-full-name =
     { $case ->
        *[nom] Mozilla Firefox
