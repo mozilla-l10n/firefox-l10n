@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = „Firefox“ ir „Firefox“ logotipai yra bendrijos „Mozilla Foundation“ prekės ženklai.
+-brand-shortcut-name = Firefox
+
