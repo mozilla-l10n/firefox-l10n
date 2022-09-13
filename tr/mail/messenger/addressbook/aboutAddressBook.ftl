@@ -180,6 +180,7 @@ about-addressbook-details-email-addresses-header = E-posta adresleri
 about-addressbook-details-phone-numbers-header = Telefon numaraları
 about-addressbook-details-addresses-header = Adresler
 about-addressbook-details-notes-header = Notlar
+about-addressbook-details-impp-header = Anlık mesajlaşma
 about-addressbook-details-other-info-header = Diğer bilgiler
 about-addressbook-entry-type-work = İş
 about-addressbook-entry-type-home = Ev

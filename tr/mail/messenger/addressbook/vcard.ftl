@@ -63,8 +63,13 @@ vcard-tz-add = Saat dilimi ekle
 # IMPP vCard field
 
 vcard-impp-header = Sohbet hesapları
+vcard-impp2-header = Anlık mesajlaşma
 vcard-impp-add = Sohbet hesabı ekle
 vcard-impp-label = Sohbet hesabı
+vcard-impp-select = Protokol
+vcard-impp-option-other = Diğer
+vcard-impp-input-label = URI
+vcard-impp-input-title = Anlık mesajlaşma için URI
 
 # BDAY and ANNIVERSARY vCard field
 
