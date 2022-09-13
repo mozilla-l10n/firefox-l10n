@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 계속 진행!
 firefoxview-mobile-confirmation-description = 이제 태블릿이나 휴대폰에서 { -brand-product-name } 탭을 가져올 수 있습니다.
 firefoxview-closed-tabs-title = 최근에 닫음
 firefoxview-closed-tabs-description = 이 기기에서 닫은 페이지를 다시 엽니다.
+firefoxview-closed-tabs-description2 = 이 창에서 닫은 페이지를 다시 엽니다.
 firefoxview-closed-tabs-placeholder = <strong>최근에 닫은 페이지 없음</strong><br/>닫은 탭을 다시 잃어버릴 염려가 없습니다. 언제든지 여기서 검색할 수 있습니다.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = 마지막 활동
