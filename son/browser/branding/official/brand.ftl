@@ -32,3 +32,5 @@
 -brand-full-name = Mozilla Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox nda Firefox maabiyey ti teekaw tammaasayaŋ Mozilla Foundation se.
+-brand-shortcut-name = Firefox
+
