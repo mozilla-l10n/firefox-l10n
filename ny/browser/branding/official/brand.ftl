@@ -32,3 +32,5 @@
 -brand-full-name = Mozilla Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox ndi Firefox zizindikiro zopangira malonda pa maziko a Mozilla.
+-brand-shortcut-name = Firefox
+
