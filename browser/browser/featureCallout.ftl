@@ -18,3 +18,15 @@ callout-firefox-view-recently-closed-subtitle = Kapattığınız tüm sekmeler b
 callout-firefox-view-colorways-title = Renklendirin
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Size en çok hitap eden renk kuşağını seçin. Renk kuşakları yalnızca { -brand-product-name }’ta.
+callout-firefox-view-colorways-reminder-title = En yeni renk kuşaklarımızı keşfedin
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = Bağımsız seslerden ilham alan bu ikonik tonlarla tarayıcınızı renklendirin. Yalnızca { -brand-product-name }’ta.
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = Sekme taşıma ile gezintinizi iyileştirin
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Açık sekmelerinize istediğiniz cihazdan erişin. Ayrıca yer imlerinizi, parolalarınızı ve daha fazlasını eşitleyin.
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Başlayın
