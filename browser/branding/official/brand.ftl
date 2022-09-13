@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = O Firefox y os logotipos d'o Firefox son marcas rechistradas d'a Mozilla Foundation.
+-brand-shortcut-name = Firefox
+
