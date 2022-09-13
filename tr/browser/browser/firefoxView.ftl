@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 Her şey hazır!
 firefoxview-mobile-confirmation-description = Artık { -brand-product-name } sekmelerinize tabletinizden ve telefonunuzdan ulaşabilirsiniz.
 firefoxview-closed-tabs-title = Son kapatılanlar
 firefoxview-closed-tabs-description = Bu cihazda kapattığınız sayfaları yeniden açın.
+firefoxview-closed-tabs-description2 = Kapattığınız sayfaları bu pencereden geri açabilirsiniz.
 firefoxview-closed-tabs-placeholder = <strong>Yakın zamanda kapatılan sayfa yok</strong><br/>Kapattığınız sekmeleri kaybetmekten korkmayın. Kapattığınız sekmeleri istediğiniz zaman buradan tekrar açabilirsiniz.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Son bakılan
