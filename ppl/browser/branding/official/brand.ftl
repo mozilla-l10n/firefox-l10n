@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox wan ne Firefox-ishkamet kisat itech ne tiankismachiut pal ne Mozilla Foundation.
+-brand-shortcut-name = Firefox
+
