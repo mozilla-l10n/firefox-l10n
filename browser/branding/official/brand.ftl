@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Is trádmharcanna de chuid Fondúireacht Mozilla iad Firefox agus suaitheantais Firefox.
+-brand-shortcut-name = Firefox
+
