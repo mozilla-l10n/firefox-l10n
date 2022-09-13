@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Agiuntar in segnapagina per il tab
     .accesskey = A
+tab-context-bookmark-tab =
+    .label = Agiuntar in segnapagina per il tab…
+    .accesskey = b
 tab-context-open-in-new-container-tab =
     .label = Avrir en in nov tab da container
     .accesskey = e
@@ -101,7 +104,6 @@ tab-context-move-tabs =
            *[other] Spustar ils tabs
         }
     .accesskey = p
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

@@ -293,6 +293,11 @@ theme-monochromatic-heading = Cumbinaziun da colurs
 theme-monochromatic-subheading = Novas cumbinaziuns da colurs vivas da { -brand-product-name }. Disponiblas durant in temp limità.
 # Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Empruvar las cumbinaziuns da colurs
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Midar la cumbinaziun da colurs
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+colorway-collection-expiry-label = Scroda ils { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = Activà
 plugin-disabled-heading = Deactivà
 dictionary-enabled-heading = Activà
