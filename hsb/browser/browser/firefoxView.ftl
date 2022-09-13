@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 Wšitko hotowe!
 firefoxview-mobile-confirmation-description = Nětko móžeće swoje rajtarki { -brand-product-name } ze swojeho tableta abo šmóratka wobstarać.
 firefoxview-closed-tabs-title = Njedawno začinjene
 firefoxview-closed-tabs-description = Wočińće strony znowa, kotrež sće na tutym graće začinił.
+firefoxview-closed-tabs-description2 = Wočińće strony znowa, kotrež sće w tutym woknje začinił.
 firefoxview-closed-tabs-placeholder = <strong>Žane njedawno začinjene strony</strong><br/>Njebojće so ženje začinjeny rajtark zaso zhubić. Móžeće jón přeco tu zaso dóstać.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Posledni raz aktiwny
