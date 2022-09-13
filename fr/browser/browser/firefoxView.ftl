@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 C’est parti !
 firefoxview-mobile-confirmation-description = Vous pouvez maintenant récupérer les onglets du { -brand-product-name } de votre tablette ou votre téléphone.
 firefoxview-closed-tabs-title = Récemment fermés
 firefoxview-closed-tabs-description = Rouvrez des pages que vous avez fermées sur cet appareil.
+firefoxview-closed-tabs-description2 = Rouvrez des pages que vous avez fermées dans cette fenêtre.
 firefoxview-closed-tabs-placeholder = <strong>Aucune page fermée récemment</strong><br/>Ne craignez plus de perdre encore un onglet fermé. Vous pouvez toujours le retrouver ici.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Dernier onglet actif
