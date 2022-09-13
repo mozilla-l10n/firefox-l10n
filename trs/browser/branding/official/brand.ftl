@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Si da'nga Firefox dugumin yi'ni' gunaj Mozilla
+-brand-shortcut-name = Firefox
+
