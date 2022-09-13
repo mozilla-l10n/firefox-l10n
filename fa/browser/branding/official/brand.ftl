@@ -36,3 +36,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = فایرفاکس و نشان‌های فایرفاکس، علائم تجاری بنیاد موزیلا محسوب می‌شوند.
+-brand-shortcut-name = Firefox
+
