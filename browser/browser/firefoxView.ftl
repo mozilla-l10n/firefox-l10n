@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 Klar att användas!
 firefoxview-mobile-confirmation-description = Nu kan du hämta flikarna från { -brand-product-name } till din surfplatta eller telefon.
 firefoxview-closed-tabs-title = Nyligen stängda
 firefoxview-closed-tabs-description = Öppna sidor du har stängt på den här enheten igen.
+firefoxview-closed-tabs-description2 = Öppna åter sidor du har stängt i det här fönstret.
 firefoxview-closed-tabs-placeholder = <strong>Inga nyligen stängda sidor</strong><br/>Var aldrig rädd att förlora en stängd flik igen. Du kan alltid hämta den här.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Senast aktiv
