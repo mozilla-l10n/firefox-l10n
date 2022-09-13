@@ -9,6 +9,10 @@ calendar-invitation-panel-intro = { $organizer } vas vabi na:
 # $summary (String) - A short summary or title of the event.
 calendar-invitation-panel-title = { $summary }
 calendar-invitation-panel-action-button = Shrani
+calendar-invitation-panel-save-button = Shrani
+calendar-invitation-panel-view-button = Prikaži
+calendar-invitation-panel-update-button = Posodobi
+calendar-invitation-panel-delete-button = Izbriši
 calendar-invitation-panel-accept-button = Da
 calendar-invitation-panel-decline-button = Ne
 calendar-invitation-panel-tentative-button = Mogoče
