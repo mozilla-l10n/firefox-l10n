@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox chuqa' ri taq ruwachib'al rub'i' Firefox, etz'ib'an pa rub'i' ri Mozilla Moloj.
+-brand-shortcut-name = Firefox
+
