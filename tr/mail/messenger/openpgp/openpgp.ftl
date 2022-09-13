@@ -410,6 +410,8 @@ key-in-use-title = Şu anda kullanılan OpenPGP anahtarı
 key-error-not-accepted-as-personal = '{ $keySpec }' kimliğine sahip anahtarın kişisel anahtarınız olduğunu doğrulamadınız.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Seçtiğiniz işlev çevrimdışı modda kullanılamaz. Lütfen çevrimiçi olun ve tekrar deneyin.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found2 = Belirtilen arama ölçütleriyle eşleşen kullanılabilir bir anahtar bulamadık.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Hata - Anahtar çıkarma komutu başarısız oldu
 # Strings used in keyRing.jsm

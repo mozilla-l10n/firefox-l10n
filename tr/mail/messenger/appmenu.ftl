@@ -7,6 +7,27 @@
 
 appmenu-new-account-panel-title =
     .title = Yeni hesap
+appmenu-new-account-panel =
+    .label = Yeni hesap
+    .accesskey = h
+appmenu-create-new-mail-account =
+    .label = Yeni e-posta al
+    .accesskey = Y
+appmenu-new-mail-account =
+    .label = Mevcut e-posta
+    .accesskey = M
+appmenu-new-calendar =
+    .label = Takvim
+    .accesskey = T
+appmenu-new-chat-account =
+    .label = Sohbet
+    .accesskey = o
+appmenu-new-feed =
+    .label = Besleme
+    .accesskey = B
+appmenu-new-newsgroup =
+    .label = Haber grubu
+    .accesskey = u
 
 ## New Account / Address Book
 
@@ -17,6 +38,9 @@ appmenu-newab-panel-title =
 
 appmenu-create-panel-title =
     .title = Oluştur
+appmenu-create-event =
+    .label = Etkinlik
+    .accesskey = E
 appmenu-create-task =
     .label = Görev
     .accesskey = G
@@ -26,6 +50,9 @@ appmenu-create-contact =
 
 ## Open
 
+appmenu-open-panel =
+    .label = Aç
+    .accesskey = A
 appmenu-open-panel-title =
     .title = Aç
 appmenu-open-message =
@@ -39,6 +66,9 @@ appmenu-open-calendar =
 
 appmenu-view-panel-title =
     .title = Görünüm
+appmenu-view-panel =
+    .label = Görünüm
+    .accesskey = G
 appmenu-font-size-value = Yazı tipi boyutu
 appmenu-mail-uidensity-value = Yoğunluk
 appmenu-uidensity-compact =
@@ -103,6 +133,9 @@ appmenu-help-get-involved =
 appmenu-help-donation =
     .label = Bağış yapın
     .accesskey = B
+appmenu-help-share-feedback =
+    .label = Fikir ve görüş paylaş
+    .accesskey = F
 appmenu-help-enter-troubleshoot-mode2 =
     .label = Sorun giderme modu…
     .accesskey = o
