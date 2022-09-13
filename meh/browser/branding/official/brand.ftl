@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Kuaiyo da tutu nátava kuviji iin a nkuvi ke´ío chií a yósó nuu vetiñu Mozilla Foundation.
+-brand-shortcut-name = Firefox
+
