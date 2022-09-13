@@ -36,3 +36,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox ᱟᱨ Firefox ᱞᱚᱜᱚ ᱫᱚ Mozilla ᱯᱷᱟᱩᱱᱰᱮᱥᱚᱱ ᱨᱮᱭᱟᱜ ᱢᱤᱫᱴᱟᱹᱝ ᱴᱨᱮᱰᱢᱟᱨᱠ ᱠᱟᱱᱟ ᱾
+-brand-shortcut-name = Firefox
+
