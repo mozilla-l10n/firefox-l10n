@@ -18,6 +18,15 @@ callout-firefox-view-recently-closed-subtitle = Tut tes tabs serrads vegnan a cu
 callout-firefox-view-colorways-title = Dà in zic colur
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Tscherna il schema che correspunda a tai – grazia a las novas cumbinaziuns da colurs. Mo en { -brand-product-name }.
+callout-firefox-view-colorways-reminder-title = Explorescha nossas cumbinaziuns da colurs las pli novas
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = Colurescha tes navigatur cun questas cumbinaziuns da colurs legendaras, inspiradas da vuschs independentas. Mo en { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = Optimescha tia navigaziun cun la recuperaziun da tabs
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Acceda a tes tabs averts sin mintga apparat. Sincronisescha ultra da quai tes segnapaginas, pleds-clav e dapli.
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Emprims pass
