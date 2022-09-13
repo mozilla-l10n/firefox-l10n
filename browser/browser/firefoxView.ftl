@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 Όλα έτοιμα!
 firefoxview-mobile-confirmation-description = Μπορείτε πλέον να λάβετε τις καρτέλες σας από το { -brand-product-name } του tablet ή του τηλεφώνου σας.
 firefoxview-closed-tabs-title = Πρόσφατα κλεισμένες
 firefoxview-closed-tabs-description = Ανοίξτε ξανά τις σελίδες που κλείσατε σε αυτήν τη συσκευή.
+firefoxview-closed-tabs-description2 = Ανοίξτε ξανά τις σελίδες που κλείσατε σε αυτό το παράθυρο.
 firefoxview-closed-tabs-placeholder = <strong>Δεν έκλεισε καμία σελίδα πρόσφατα</strong><br/>Μην φοβάστε το ενδεχόμενο απώλειας καρτελών. Μπορείτε πάντα να τις ανακτήσετε εδώ.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Πρόσφατα ενεργή
