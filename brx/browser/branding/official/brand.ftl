@@ -35,3 +35,5 @@
 -brand-product-name = फायारफक्स
 -vendor-short-name = मजिला
 trademarkInfo = फायारफक्स आरो फायारफक्स ल'ग'फोरा मजिला फाउन्डेसननि ट्रेडमार्क।
+-brand-shortcut-name = Firefox
+
