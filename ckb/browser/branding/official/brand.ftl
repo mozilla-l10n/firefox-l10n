@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox و وێنۆچکەکانی هێمای بازرگانی دامەزراوەی Mozillaن
+-brand-shortcut-name = Firefox
+
