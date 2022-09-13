@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = She cowraghyn-keirdey Undinys Mozilla Firefox as jesheenys Firefox.
+-brand-shortcut-name = Firefox
+
