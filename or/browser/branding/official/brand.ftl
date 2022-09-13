@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox ଏବଂ Firefox ପ୍ରତୀକଗୁଡ଼ିକ Mozilla ଅନୁଷ୍ଠାନର ବାଣିଜ୍ୟିକ ଚିହ୍ନ ଅଟେ।
+-brand-shortcut-name = Firefox
+
