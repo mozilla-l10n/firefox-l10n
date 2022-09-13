@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = ഫയര്‍ഫോക്സും ഫയര്‍ഫോക്സ് ലോഗോകളും മോസില്ലാ ഫൌണ്ടേഷന്റെ ട്രേഡ്മാർക്കുകൾ ആണ്.
+-brand-shortcut-name = Firefox
+
