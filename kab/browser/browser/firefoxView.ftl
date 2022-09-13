@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 igerrez i beddu!
 firefoxview-mobile-confirmation-description = Tzemreḍ tura ad d-terreḍ accaren-ik·im { -brand-product-name } seg tfelwit n uselken neɣ seg tiliɣri
 firefoxview-closed-tabs-title = Melmi kan i yettwamdal
 firefoxview-closed-tabs-description = Ales tawaledyawt n yisebtar i tmedleḍ ɣef yibenk-a
+firefoxview-closed-tabs-description2 = Ales tawaledyawt n yisebtar i tmedleḍ deg usfaylu-a.
 firefoxview-closed-tabs-placeholder = <strong>Ulac isebtar yettwamedlen melmi kan</strong><br/>Ur ttaggad ara akk ad tesruḥeḍ iccer yeldin. Tzemreḍ ad t-id-terreḍ melmi i tebɣiḍ syagi.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Armud aneggaru
