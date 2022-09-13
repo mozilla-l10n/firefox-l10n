@@ -25,3 +25,5 @@
 -brand-product-name = Firefox nisqa
 -vendor-short-name = Mozilla nisqa
 trademarkInfo = Firefox chaymanta Firefox logotipokuna Mozilla Fundación kaqpa rantiqnin kanku.
+-brand-shortcut-name = Firefox
+
