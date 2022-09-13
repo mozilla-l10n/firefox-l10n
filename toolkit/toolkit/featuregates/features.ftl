@@ -73,11 +73,6 @@ experimental-features-ime-search =
     .label = Barra degli indirizzi: mostra risultati quando si usa la composizione IME
 experimental-features-ime-search-description = Un IME (Input Method Editor) è uno strumento che permette di inserire simboli complessi, come quelli utilizzati da lingue asiatiche o indiane, utilizzando una tastiera tradizionale. Attivando questo esperimento il pannello della barra degli indirizzi rimarrà aperto, mostrando risultati di ricerca e suggerimenti, anche quando si utilizza IME per inserire il testo. Alcuni IME utilizzano un pannello che potrebbe coprire i risultati della barra degli indirizzi, per cui si consiglia di attivare questa opzione solo per IME che non usano questo approccio.
 
-# Text recognition for images
-experimental-features-text-recognition =
-    .label = Riconoscimento del testo
-experimental-features-text-recognition-description = Attiva il riconoscimento del testo nelle immagini.
-
 experimental-features-accessibility-cache =
     .label = Cache per accessibilità
 experimental-features-accessibility-cache-description = Salva in una cache le informazioni relative all’accessibilità per tutti i documenti nel processo principale di { -brand-short-name }. Questa operazione migliora le prestazioni delle utilità per la lettura dello schermo e altre applicazioni che utilizzano API per l’accessibilità.
