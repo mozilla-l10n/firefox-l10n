@@ -64,3 +64,6 @@ experimental-features-ime-search-description = IME (redaktilo de eniga metodo) e
 experimental-features-text-recognition =
     .label = Rekono de teksto
 experimental-features-text-recognition-description = Aktivigi funkciojn por rekoni tekston en bildoj.
+experimental-features-accessibility-cache =
+    .label = Staplo de alirebleco
+experimental-features-accessibility-cache-description = Tio ĉi metas en staplon la alireblecajn informojn de ĉiuj dokumentoj en la ĉefa procezo de { -brand-short-name }. Tio plibonigas efikecon por ekranlegiloj kaj aliaj programoj, kiuj uzas la API de alirebleco.

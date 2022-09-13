@@ -116,9 +116,15 @@ about-processes-frame-name-one = Subkadro: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Subkadroj ({ $number }): { $shortUrl }
-# Utility process actor names
+
+## Utility process actor names
+
 about-processes-utility-actor-unknown = Nekonata agento
 about-processes-utility-actor-audio-decoder = Sona malkodilo
+about-processes-utility-actor-audio-decoder-generic = Nespecifa sona malkodilo
+about-processes-utility-actor-audio-decoder-applemedia = Sona malkodilo de Apple Media
+about-processes-utility-actor-audio-decoder-wmf = Sona malkodilo de Windows Media Framework
+about-processes-utility-actor-mf-media-engine = Windows Media Foundation Media Engine CDM
 
 ## Displaying CPU (percentage and total)
 ## Variables:
