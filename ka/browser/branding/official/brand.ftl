@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox და Firefox ლოგოები Mozilla-ს ფონდის სავაჭრო ნიშნებია. ყველა უფლება დაცულია.
+-brand-shortcut-name = Firefox
+
