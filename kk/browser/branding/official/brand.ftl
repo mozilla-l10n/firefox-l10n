@@ -35,3 +35,5 @@
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox және Firefox логотипі Mozilla Foundation ұйымының сауда белгілері болып табылады.
+-brand-shortcut-name = Firefox
+
