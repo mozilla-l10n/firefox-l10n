@@ -32,3 +32,5 @@
 -brand-full-name = Mozilla Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox এবং Firefox প্রতীক Mozilla ফাউন্ডেশনের রেজিস্ট্রিকৃত ট্রেডমার্ক।
+-brand-shortcut-name = Firefox
+
