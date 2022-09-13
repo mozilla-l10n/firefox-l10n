@@ -229,15 +229,14 @@ search-one-offs-tabs =
     .tooltiptext = แท็บ ({ $restrict })
 search-one-offs-history =
     .tooltiptext = ประวัติ ({ $restrict })
-
-## QuickActions are shown in the urlbar as the user types a matching string
-
+search-one-offs-actions =
+    .tooltiptext = การกระทำ ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
-# Opens the about:addons page
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = ดูส่วนเสริม
 # Opens the bookmarks library window
 quickactions-bookmarks = ดูที่คั่นหน้า

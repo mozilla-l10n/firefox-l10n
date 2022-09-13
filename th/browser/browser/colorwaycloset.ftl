@@ -6,3 +6,7 @@
 # emphasized text.
 colorway-intensity-bold = ตัวหนา
 colorway-closet-cancel-button = ยกเลิก
+colorway-homepage-reset-prompt = ทำให้ { -firefox-home-brand-name } เป็นหน้าแรกที่เต็มไปด้วยสีสันของคุณ
+colorway-homepage-reset-success-message = ตอนนี้ { -firefox-home-brand-name } เป็นหน้าแรกของคุณแล้ว
+colorway-homepage-reset-apply-button = นำไปใช้
+colorway-homepage-reset-undo-button = เลิกทำ
