@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉大功告成！
 firefoxview-mobile-confirmation-description = 您现在可以收到来自平板电脑或手机上的 { -brand-product-name } 标签页。
 firefoxview-closed-tabs-title = 最近关闭
 firefoxview-closed-tabs-description = 再次打开您在此设备上关闭的页面。
+firefoxview-closed-tabs-description2 = 再次打开您在此窗口关闭的页面。
 firefoxview-closed-tabs-placeholder = <strong>没有最近关闭的页面</strong><br/>无惧误关标签页，您可随时在此处找回。
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = 最后浏览
