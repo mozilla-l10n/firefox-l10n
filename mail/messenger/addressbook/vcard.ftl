@@ -63,8 +63,13 @@ vcard-tz-add = Tiidsône tafoegje
 # IMPP vCard field
 
 vcard-impp-header = Chataccounts
+vcard-impp2-header = Ynstant-berjochten
 vcard-impp-add = Chataccount tafoegje
 vcard-impp-label = Chataccount
+vcard-impp-select = Protokol
+vcard-impp-option-other = Oars
+vcard-impp-input-label = URI
+vcard-impp-input-title = URI foar ynstant-berjochten
 
 # BDAY and ANNIVERSARY vCard field
 
@@ -82,8 +87,6 @@ vcard-adr-header = Adressen
 vcard-adr-add = Adres tafoegje
 vcard-adr-label = Adres
 vcard-adr-delivery-label = Besoargingslabel
-vcard-adr-pobox = Brievebus
-vcard-adr-ext = Wiidweidich adres
 vcard-adr-street = Adres
 # Or "Locality"
 vcard-adr-locality = Stêd
