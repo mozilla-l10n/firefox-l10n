@@ -107,6 +107,10 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "ඔබට ඒ ගැන කුමක් කළ හැකිද?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>මෙය බොහෝ දුරට වියමන අඩවියෙහි ගැටළුවක් වන බැවින් ඔබට එය විසඳීමට නොහැකිය.</p>
+<p>ඔබ සංස්ථානික ජාලයක සිටියි නම් හෝ ප්‍රති-වෛරස මෘදුකාංග භාවිතා කරන්නේ නම්, සහායක් ලබා ගැනීමට හැකිදැයි බලන්න. දේශීය සේවාවක් නම් අඩවියෙහි පරිපාලකයාට දැනුම් දීමට හැකිය.</p>
+">
 
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
