@@ -77,6 +77,7 @@ browser-main-window-mac-window-titles =
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
 private-browsing-shortcut-text = { -brand-short-name } - Navegación privada
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } navegación privada
 
 ##
 
@@ -265,9 +266,6 @@ search-one-offs-history =
     .tooltiptext = Historial ({ $restrict })
 search-one-offs-actions =
     .tooltiptext = Acciones ({ $restrict })
-
-## QuickActions are shown in the urlbar as the user types a matching string
-
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
