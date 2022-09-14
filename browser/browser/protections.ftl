@@ -123,3 +123,17 @@ bar-tooltip-cookie =
             [one] හරස්-අඩවි ලුහුබඳින දත්තකඩ { $count } ({ $percentage }%)
            *[other] හරස්-අඩවි ලුහුබඳින දත්තකඩ { $count } ({ $percentage }%)
         }
+bar-tooltip-tracker =
+    .title = ලුහුබැඳීමේ අන්තර්ගතය
+    .aria-label =
+        { $count ->
+            [one] ලුහුබැඳීමේ අන්තර්ගත { $count } ({ $percentage }%)
+           *[other] ලුහුබැඳීමේ අන්තර්ගත { $count } ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = ඇඟිලි සටහන්
+    .aria-label =
+        { $count ->
+            [one] ඇඟිලි සටහන් { $count } ({ $percentage }%)
+           *[other] ඇඟිලි සටහන් { $count } ({ $percentage }%)
+        }
