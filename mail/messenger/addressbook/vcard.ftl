@@ -63,8 +63,13 @@ vcard-tz-add = Ychwanegu cylch amser
 # IMPP vCard field
 
 vcard-impp-header = Cyfrifon Sgwrsio
+vcard-impp2-header = Negesu Chwim
 vcard-impp-add = Ychwanegu cyfrif sgwrsio
 vcard-impp-label = Cyfrif sgwrsio
+vcard-impp-select = Protocol
+vcard-impp-option-other = Arall
+vcard-impp-input-label = URI
+vcard-impp-input-title = URI ar gyfer negeseuon chwim
 
 # BDAY and ANNIVERSARY vCard field
 
@@ -82,8 +87,6 @@ vcard-adr-header = Cyfeiriadau
 vcard-adr-add = Ychwanegu cyfeiriad
 vcard-adr-label = Cyfeiriadau
 vcard-adr-delivery-label = Label dosbarthu
-vcard-adr-pobox = Blwch swyddfa'r post
-vcard-adr-ext = Cyfeiriad estynedig
 vcard-adr-street = Cyfeiriad stryd
 # Or "Locality"
 vcard-adr-locality = Tref/Dinas

@@ -17,6 +17,27 @@ menu-addons-and-themes =
 
 ## Help Menu
 
+menu-help-help-title =
+    .label = Cymorth
+    .accesskey = C
+menu-help-get-help =
+    .label = Derbyn Cymorth
+    .accesskey = D
+menu-help-explore-features =
+    .label = Edrych ar y Nodweddion
+    .accesskey = E
+menu-help-shortcuts =
+    .label = Llwybrau Byr Bysellfwrdd
+    .accesskey = L
+menu-help-get-involved =
+    .label = Ymunwch
+    .accesskey = Y
+menu-help-donation =
+    .label = Gwnewch Rodd
+    .accesskey = G
+menu-help-share-feedback =
+    .label = Rhannwch Syniadau ac Adborth…
+    .accesskey = R
 menu-help-enter-troubleshoot-mode =
     .label = Y Modd Datrys Problemau…
     .accesskey = M
@@ -26,6 +47,12 @@ menu-help-exit-troubleshoot-mode =
 menu-help-more-troubleshooting-info =
     .label = Rhagor o Wybodaeth Datrys Problemau
     .accesskey = R
+menu-help-troubleshooting-info =
+    .label = Gwybodaeth am Ddatrys Problemau
+    .accesskey = G
+menu-help-about-product =
+    .label = Ynghylch { -brand-short-name }
+    .accesskey = Y
 
 ## Mail Toolbar
 
@@ -74,6 +101,12 @@ mail-uidensity-normal =
 mail-uidensity-touch =
     .label = Cyffwrdd
     .accesskey = y
+mail-uidensity-default =
+    .label = Rhagosodiad
+    .accesskey = R
+mail-uidensity-relaxed =
+    .label = Llaes
+    .accesskey = L
 menu-spaces-toolbar-button =
     .label = Bar Offer Mannau
     .accesskey = B

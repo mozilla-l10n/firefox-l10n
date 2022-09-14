@@ -204,10 +204,12 @@ about-addressbook-details-email-addresses-header = Cyfeiriadau E-bost
 about-addressbook-details-phone-numbers-header = Rhifau Ffôn
 about-addressbook-details-addresses-header = Cyfeiriadau
 about-addressbook-details-notes-header = Nodiadau
+about-addressbook-details-impp-header = Negesu Chwim
 about-addressbook-details-other-info-header = Manylion Eraill
 about-addressbook-entry-type-work = Gwaith
 about-addressbook-entry-type-home = Cartref
 about-addressbook-entry-type-fax = Ffacs
+# Or "Mobile"
 about-addressbook-entry-type-cell = Symudol
 about-addressbook-entry-type-pager = Swnyn
 about-addressbook-entry-name-birthday = Pen-blwydd
