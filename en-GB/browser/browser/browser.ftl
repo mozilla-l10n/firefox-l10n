@@ -323,6 +323,9 @@ quickactions-cmd-update = update
 # Opens the view-source UI with current pages source
 quickactions-viewsource = View Source
 quickactions-cmd-viewsource = view source, source
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Learn more about Quick actions
 
 ## Bookmark Panel
 
