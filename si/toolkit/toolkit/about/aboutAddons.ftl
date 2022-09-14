@@ -219,7 +219,7 @@ privacy-policy = රහස්‍යතා ප්‍රතිපත්තිය
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
 user-count = පරිශීලකයින්: { $dailyUsers }
-install-extension-button = { -brand-product-name } වෙත දමන්න
+install-extension-button = { -brand-product-name } වෙත යොදන්න
 install-theme-button = තේමාව ස්ථාපනය
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.

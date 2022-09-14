@@ -157,6 +157,7 @@ preferences-web-appearance-header = අඩවියේ පෙනුම
 preferences-web-appearance-description = ඔබගේ අභිප්‍රේත මත පදනම්ව ඇතැම් වියමන අඩවිවල වර්ණ රටාව සැකසෙයි. එම අඩවි සඳහා භාවිතා කිරීමට කැමති වර්ණ රටාව තෝරන්න.
 preferences-web-appearance-choice-browser = { -brand-short-name } තේමාව
 preferences-web-appearance-choice-system = පද්ධතියේ තේමාව
+preferences-web-appearance-choice-auto = ස්වයංක්‍රීය
 preferences-web-appearance-choice-light = දීප්ත
 preferences-web-appearance-choice-dark = අඳුරු
 preferences-web-appearance-choice-tooltip-browser =
