@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Adicionar separador aos marcadores
     .accesskey = m
+tab-context-bookmark-tab =
+    .label = Adicionar separador aos marcadores…
+    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = Abrir num novo separador contentor
     .accesskey = e
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Mover separadores
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
