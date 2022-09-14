@@ -293,6 +293,11 @@ theme-monochromatic-heading = ชุดรูปแบบสี
 theme-monochromatic-subheading = ชุดรูปแบบใหม่ที่สดใสจาก { -brand-product-name } มีให้ใช้ในช่วงเวลาจำกัด
 # Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = ลอง Colorways
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = เปลี่ยนชุดรูปแบบสี
+# Variables:
+#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
+colorway-collection-expiry-label = หมดอายุ { DATETIME($expiryDate, month: "long", day: "numeric") }
 plugin-enabled-heading = ถูกเปิดใช้งาน
 plugin-disabled-heading = ถูกปิดใช้งาน
 dictionary-enabled-heading = ถูกเปิดใช้งาน
