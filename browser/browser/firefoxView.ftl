@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 Kész is van.
 firefoxview-mobile-confirmation-description = Most már átveheti a { -brand-product-name } lapjait a táblagépéről vagy telefonjáról.
 firefoxview-closed-tabs-title = Nemrég bezárt
 firefoxview-closed-tabs-description = Nyissa meg újra az ezen az eszközön bezárt oldalakat.
+firefoxview-closed-tabs-description2 = Az ebben az ablakban bezárt oldalak újranyitása.
 firefoxview-closed-tabs-placeholder = <strong>Nincsenek nemrég bezárt oldalak</strong><br/>Soha többé ne féljen egy bezárt lap elvesztésétől. Itt bármikor visszakeresheti.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Utoljára aktív
