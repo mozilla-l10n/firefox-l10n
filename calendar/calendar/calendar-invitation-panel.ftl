@@ -9,6 +9,10 @@ calendar-invitation-panel-intro = { $organizer } sizi davet etti:
 # $summary (String) - A short summary or title of the event.
 calendar-invitation-panel-title = { $summary }
 calendar-invitation-panel-action-button = Kaydet
+calendar-invitation-panel-save-button = Kaydet
+calendar-invitation-panel-view-button = Göster
+calendar-invitation-panel-update-button = Güncelle
+calendar-invitation-panel-delete-button = Sil
 calendar-invitation-panel-accept-button = Evet
 calendar-invitation-panel-decline-button = Hayır
 calendar-invitation-panel-tentative-button = Belki
