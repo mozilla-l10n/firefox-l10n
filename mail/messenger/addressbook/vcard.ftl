@@ -63,8 +63,13 @@ vcard-tz-add = Tijdzone toevoegen
 # IMPP vCard field
 
 vcard-impp-header = Chataccounts
+vcard-impp2-header = Instant-berichten
 vcard-impp-add = Chataccount toevoegen
 vcard-impp-label = Chataccount
+vcard-impp-select = Protocol
+vcard-impp-option-other = Overig
+vcard-impp-input-label = URI
+vcard-impp-input-title = URI voor instant-berichten
 
 # BDAY and ANNIVERSARY vCard field
 
