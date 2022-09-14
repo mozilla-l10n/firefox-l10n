@@ -5,6 +5,8 @@
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = יפוג ב־{ DATETIME($expiryDate, month: "long", day: "numeric") }
+# Document title, not shown in the UI but exposed through accessibility APIs
+colorways-modal-title = בחירת ערכת הצבעים שלך
 # Label for the button to keep using the selected colorway in the browser
 colorway-closet-set-colorway-button = הגדרת ערכים הצבעים
 colorway-closet-cancel-button = ביטול
