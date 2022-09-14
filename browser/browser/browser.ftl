@@ -323,6 +323,9 @@ quickactions-cmd-update = 업데이트
 # Opens the view-source UI with current pages source
 quickactions-viewsource = 소스
 quickactions-cmd-viewsource = 소스 보기, 소스
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = 빠른 작업에 대해 더 알아보기
 
 ## Bookmark Panel
 
