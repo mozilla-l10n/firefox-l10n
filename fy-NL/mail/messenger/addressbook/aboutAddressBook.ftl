@@ -180,10 +180,12 @@ about-addressbook-details-email-addresses-header = E-mailadressen
 about-addressbook-details-phone-numbers-header = Telefoannûmers
 about-addressbook-details-addresses-header = Adressen
 about-addressbook-details-notes-header = Opmerkingen
+about-addressbook-details-impp-header = Ynstant-berjochten
 about-addressbook-details-other-info-header = Oare ynformaasje
 about-addressbook-entry-type-work = Wurk
 about-addressbook-entry-type-home = Thús
 about-addressbook-entry-type-fax = Faks
+# Or "Mobile"
 about-addressbook-entry-type-cell = Mobyl
 about-addressbook-entry-type-pager = Piper
 about-addressbook-entry-name-birthday = Jierdei
