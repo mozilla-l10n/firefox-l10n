@@ -188,6 +188,7 @@ newtab-section-header-pocket = { $provider } විසින් නිර්ද�
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = පිරික්සීම අරඹන්න, ඔබ මෑත දී ගොඩවැදුණු හෝ පොත්යොමු යෙදූ වැදගත් ලිපි, දෘශ්‍යක සහ වෙනත් පිටු කිහිපයක් මෙහි පෙන්වනු ඇත.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
