@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Ҷудо кардани ин в
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Кор бо экранҳои бештар шавқовартар аст. Ҳангоми тамошокунӣ дар Интернет, ин видеоро дар реҷаи «Расм-дар-расм» пахш кунед.
+videocontrols-picture-in-picture-explainer3 = Экранҳои сершумор шавқовартаранд. Ҳангоми иҷрои корҳои дигар, ин видеоро пахш кунед.
 videocontrols-error-aborted = Боркунии видео қатъ карда шуд.
 videocontrols-error-network = Пахши видео ба сабаби хатои шабака қатъ карда шуд.
 videocontrols-error-decode = Видео пахш карда намешавад, зеро ки файл вайрон аст.
