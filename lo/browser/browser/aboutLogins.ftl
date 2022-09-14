@@ -6,6 +6,9 @@
 about-logins-page-title = ເຂົ້າສູ່ລະບົບ & ລະຫັດຜ່ານ
 login-filter =
     .placeholder = ຄົ້ນຫາການລັອກອິນ
+create-login-button = ສ້າງການລັອກອິນໃຫມ່
+fxaccounts-avatar-button =
+    .title = ຈັດການບັນຊີ
 
 ## The ⋯ menu that is in the top corner of the page
 
