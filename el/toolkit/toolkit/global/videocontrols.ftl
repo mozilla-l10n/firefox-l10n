@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Απόσπαση βίντεο
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Περισσότερες οθόνες, περισσότερη διασκέδαση. Δείτε αυτό το βίντεο σε λειτουργία «Εικόνα εντός εικόνας» κατά την περιήγησή σας.
+videocontrols-picture-in-picture-explainer3 = Περισσότερες οθόνες, περισσότερη διασκέδαση. Παρακολουθήστε αυτό το βίντεο ενώ κάνετε άλλα πράγματα.
 videocontrols-error-aborted = Η φόρτωση του βίντεο διακόπηκε.
 videocontrols-error-network = Η αναπαραγωγή του βίντεο εγκαταλείφθηκε λόγω σφάλματος δικτύου.
 videocontrols-error-decode = Αδυναμία αναπαραγωγής βίντεο επειδή το αρχείο είναι κατεστραμμένο.
