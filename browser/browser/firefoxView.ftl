@@ -48,6 +48,7 @@ firefoxview-mobile-promo-primarybutton = קבלת { -brand-product-name } לני
 firefoxview-mobile-confirmation-description = כעת באפשרותך לקבל את הלשוניות שלך ב־{ -brand-product-name } ממחשב הלוח או הטלפון שלך.
 firefoxview-closed-tabs-title = לשוניות שנסגרו לאחרונה
 firefoxview-closed-tabs-description = פתיחה מחדש דפים שנסגרו במכשיר זה.
+firefoxview-closed-tabs-description2 = פתיחה מחדש דפים שנסגרו בחלון זה.
 firefoxview-closed-tabs-placeholder = <strong>אין דפים שנסגרו לאחרונה</strong><br/>לא צריך יותר לפחד לאבד לשונית שנסגרה. תמיד יהיה ניתן לקבל אותה כאן.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = הלשונית הפעילה האחרונה
