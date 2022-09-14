@@ -38,11 +38,9 @@ menu-quit =
             [windows] K
            *[other] K
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Kuitaat { -brand-shorter-name }
-
 menu-about =
     .label = A-zivout { -brand-shorter-name }
     .accesskey = A
@@ -228,6 +226,10 @@ menu-bookmark-current-tab =
     .label = Lakaat an ivinell vremanel er sinedoù
 menu-bookmark-edit =
     .label = Embann ar sined-mañ
+menu-bookmark-tab =
+    .label = Lakaat an ivinell a-vremañ er sinedoù…
+menu-edit-bookmark =
+    .label = Embann ar sined-mañ…
 menu-bookmarks-all-tabs =
     .label = Ouzhpennañ an holl ivinelloù d'ar sinedoù
 menu-bookmarks-toolbar =
