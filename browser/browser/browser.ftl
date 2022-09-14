@@ -289,6 +289,10 @@ quickactions-cmd-update = aggiorna
 quickactions-viewsource = Visualizza sorgente
 quickactions-cmd-viewsource = visualizza sorgente, sorgente
 
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Ulteriori informazioni sulle azioni rapide
+
 ## Bookmark Panel
 
 bookmarks-add-bookmark = Aggiungi segnalibro
