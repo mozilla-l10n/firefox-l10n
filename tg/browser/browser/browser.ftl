@@ -323,6 +323,9 @@ quickactions-cmd-update = навсозӣ кардан
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Дидани манбаъ
 quickactions-cmd-viewsource = намоиши манбаъ, манбаъ
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Маълумоти бештар дар бораи «Амалҳои зуд»
 
 ## Bookmark Panel
 
