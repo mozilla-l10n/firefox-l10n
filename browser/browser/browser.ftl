@@ -323,6 +323,9 @@ quickactions-cmd-update = güncelle
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Kaynağı göster
 quickactions-cmd-viewsource = kaynağı görüntüle, kaynak
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Hızlı eylemler hakkında daha fazla bilgi alın
 
 ## Bookmark Panel
 
