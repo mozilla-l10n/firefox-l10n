@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = 이 동영상을 창 분리
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = 더 많은 화면이 더 재미있습니다. 탐색하는 동안에 화면 속 화면으로 이 동영상을 재생하세요.
+videocontrols-picture-in-picture-explainer3 = 더 많은 화면이 더 재미있습니다. 다른 일을 하는 동안 이 동영상을 재생하세요.
 videocontrols-error-aborted = 동영상 로드가 중지되었습니다.
 videocontrols-error-network = 네트워크 오류로 인해 동영상 재생이 중단되었습니다.
 videocontrols-error-decode = 파일이 깨져서 동영상을 재생할 수 없습니다.
