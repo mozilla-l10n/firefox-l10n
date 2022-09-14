@@ -478,6 +478,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = หน้าแรก Firefox (ค่าเริ่มต้น)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (ค่าเริ่มต้น)
 home-mode-choice-custom =
     .label = URL ที่กำหนดเอง…
 home-mode-choice-blank =
@@ -503,6 +505,8 @@ choose-bookmark =
 
 home-prefs-content-header = เนื้อหาหน้าแรก Firefox
 home-prefs-content-description = เลือกเนื้อหาที่คุณต้องการในหน้าจอหน้าแรก Firefox ของคุณ
+home-prefs-content-header2 = เนื้อหา { -firefox-home-brand-name }
+home-prefs-content-description2 = เลือกเนื้อหาที่คุณต้องการบนหน้าจอ { -firefox-home-brand-name } ของคุณ
 home-prefs-search-header =
     .label = การค้นหาเว็บ
 home-prefs-shortcuts-header =
@@ -913,7 +917,11 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = เครื่องมือค้นหา
     .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = คำสั่งด่วน
+    .accesskey = ด
 addressbar-suggestions-settings = เปลี่ยนการกำหนดลักษณะสำหรับข้อเสนอแนะของเครื่องมือค้นหา
+addressbar-quickactions-learn-more = เรียนรู้เพิ่มเติม
 
 ## Privacy Section - Content Blocking
 
@@ -963,6 +971,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = การป้องกันคุกกี้ทั้งหมดประกอบด้วยคุกกี้สำหรับไซต์ที่คุณเยี่ยมชม ดังนั้นตัวติดตามจึงไม่สามารถใช้คุกกี้เหล่านี้เพื่อติดตามคุณบนไซต์ต่าง ๆ ได้
 content-blocking-etp-standard-tcp-rollout-learn-more = เรียนรู้เพิ่มเติม
+content-blocking-etp-standard-tcp-title = มาพร้อมกับการป้องกันคุกกี้แบบทั้งหมด คุณลักษณะความเป็นส่วนตัวที่ทรงพลังที่สุดของเรา
 content-blocking-warning-title = ระวัง!
 content-blocking-and-isolating-etp-warning-description-2 = การตั้งค่านี้อาจส่งผลให้บางเว็บไซต์ไม่แสดงผลเนื้อหาหรือไม่ทำงานอย่างถูกต้อง หากไซต์ดูเหมือนจะพัง คุณอาจต้องปิดการป้องกันการติดตามสำหรับไซต์นั้นเพื่อโหลดเนื้อหาทั้งหมด
 content-blocking-warning-learn-how = เรียนรู้วิธี
