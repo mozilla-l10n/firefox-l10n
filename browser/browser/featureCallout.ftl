@@ -15,3 +15,7 @@ callout-firefox-view-tab-pickup-title = පටිති ඇහිඳීම ස�
 callout-firefox-view-colorways-title = වර්ණ කැලතීමක් යොදන්න
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = වර්ණ පරාස සමඟ ඔබට කතා කරන ඡායාව තෝරන්න. { -brand-product-name } හි පමණි.
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
+continuous-onboarding-firefox-view-tab-pickup-subtitle = ඕනෑම උපාංගයකින් ඔබගේ විවෘත පටිති වෙත ප්‍රවේශ වන්න. තවද පොත්යොමු, මුරපද සහ තවත් දෑ සමමුහූර්ත කරන්න.
