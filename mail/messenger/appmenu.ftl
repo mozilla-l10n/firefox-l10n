@@ -66,10 +66,35 @@ appmenu-create-contact =
     .label = Kontakt
     .accesskey = K
 
+## Open
+
+appmenu-open-panel =
+    .label = Iepenje
+    .accesskey = I
+appmenu-open-panel-title =
+    .title = Iepenje
+appmenu-open-message =
+    .label = Berjocht…
+    .accesskey = B
+appmenu-open-calendar =
+    .label = Aginda…
+    .accesskey = A
+
 ## View / Layout
 
+appmenu-view-panel-title =
+    .title = Byld
+appmenu-view-panel =
+    .label = Byld
+    .accesskey = y
 appmenu-font-size-value = Lettergrutte
 appmenu-mail-uidensity-value = Tichtens
+appmenu-uidensity-compact =
+    .tooltiptext = Kompakt
+appmenu-uidensity-default =
+    .tooltiptext = Standert
+appmenu-uidensity-relaxed =
+    .tooltiptext = Untspand
 appmenuitem-font-size-enlarge =
     .tooltiptext = Lettergrutte fergrutsje
 appmenuitem-font-size-reduce =
