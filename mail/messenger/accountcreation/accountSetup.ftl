@@ -219,7 +219,7 @@ account-setup-confirm-advanced-description = To pogovorno okno se bo zaprlo in u
 ## Addon installation section
 
 account-setup-addon-install-title = Namesti
-account-setup-addon-install-intro = Dostop do e-poštnega računa na tem strežniku vam lahko omogoči dodatek tretjega ponudnika:
+account-setup-addon-install-intro = Dostop do e-poštnega računa na tem strežniku si lahko omogočite z dodatkom tretjega ponudnika:
 account-setup-addon-no-protocol = Ta e-poštni strežnik žal ne podpira odprtih protokolov. { account-setup-addon-install-intro }
 
 ## Success view
