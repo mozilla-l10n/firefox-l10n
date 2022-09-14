@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Sacar este video en ventana eme
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Más pantallas son más divertidas. Reproduzca este video en Picture-in-Picture mientras navega.
+videocontrols-picture-in-picture-explainer3 = Más pantallas es más divertido. Reproduzca este video mientras hace otras cosas.
 videocontrols-error-aborted = Carga de video detenida.
 videocontrols-error-network = Reproducción de video abortada debido a un error de red.
 videocontrols-error-decode = El video no puede reproducirse porque el archivo está corrupto.
