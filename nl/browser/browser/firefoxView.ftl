@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 U kunt van start!
 firefoxview-mobile-confirmation-description = U kunt nu uw { -brand-product-name }-tabbladen van uw tablet of telefoon ophalen.
 firefoxview-closed-tabs-title = Onlangs gesloten
 firefoxview-closed-tabs-description = Open pagina’s die u hebt gesloten opnieuw op dit apparaat.
+firefoxview-closed-tabs-description2 = Open pagina’s die u in dit venster hebt gesloten opnieuw.
 firefoxview-closed-tabs-placeholder = <strong>Geen onlangs gesloten pagina’s</strong><br/>Wees nooit meer bang een gesloten tabblad te verliezen. U kunt dit hier altijd ophalen.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Laatst actief
