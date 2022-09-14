@@ -6,9 +6,19 @@
 # $organizer (String) - The participant that created the original invitation.
 calendar-invitation-panel-intro = { $organizer } meghívta Önt a következőre:
 # Variables:
+# $organizer (String) - The participant that updated the original invitation.
+calendar-invitation-panel-intro-update = { $organizer } frissítette:
+# Variables:
+# $organizer (String) - The participant that cancelled the invitation.
+calendar-invitation-panel-intro-cancel = { $organizer } lemondta:
+# Variables:
 # $summary (String) - A short summary or title of the event.
 calendar-invitation-panel-title = { $summary }
 calendar-invitation-panel-action-button = Mentés
+calendar-invitation-panel-save-button = Mentés
+calendar-invitation-panel-view-button = Megtekintés
+calendar-invitation-panel-update-button = Frissítés
+calendar-invitation-panel-delete-button = Törlés
 calendar-invitation-panel-accept-button = Igen
 calendar-invitation-panel-decline-button = Nem
 calendar-invitation-panel-tentative-button = Talán
