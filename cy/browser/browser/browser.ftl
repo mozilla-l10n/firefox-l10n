@@ -77,6 +77,7 @@ browser-main-window-mac-window-titles =
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
 private-browsing-shortcut-text = Pori Preifat { -brand-short-name }
+private-browsing-shortcut-text-2 = Pori Preifat { -brand-shortcut-name }
 
 ##
 
@@ -265,9 +266,6 @@ search-one-offs-history =
     .tooltiptext = Hanes ({ $restrict })
 search-one-offs-actions =
     .tooltiptext = Gweithredoedd ( { $restrict } )
-
-## QuickActions are shown in the urlbar as the user types a matching string
-
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match

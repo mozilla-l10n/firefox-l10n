@@ -85,13 +85,13 @@ tab-context-share-url =
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
-            [1] Ail agor Tabiau wedi'u Cau
-            [zero] Ail agor Tabiau wedi'u Cau
-            [one] Ail agor Tab wedi'i Gau
-            [two] Ail agor Tabiau wedi'u Cau
-            [few] Ail agor Tabiau wedi'u Cau
-            [many] Ail agor Tabiau wedi'u Cau
-           *[other] Ail agor Tabiau wedi'u Cau
+            [1] Ailagor Tabiau wedi'u Cau
+            [zero] Ailagor Tabiau wedi'u Cau
+            [one] Ailagor Tab wedi'i Gau
+            [two] Ailagor Tabiau wedi'u Cau
+            [few] Ailagor Tabiau wedi'u Cau
+            [many] Ailagor Tabiau wedi'u Cau
+           *[other] Ailagor Tabiau wedi'u Cau
         }
     .accesskey = A
 tab-context-close-n-tabs =
