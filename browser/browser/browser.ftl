@@ -323,6 +323,9 @@ quickactions-cmd-update = ενημέρωση
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Προβολή πηγής
 quickactions-cmd-viewsource = προβολή πηγής, πηγαίος κώδικας
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Μάθετε περισσότερα για τις γρήγορες ενέργειες
 
 ## Bookmark Panel
 
