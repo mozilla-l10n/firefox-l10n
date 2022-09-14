@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = העברת הסרטון למצ�
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = כיף יותר עם יותר מסכים. ניתן להפעיל את הסרטון הזה במצב תמונה בתוך תמונה תוך כדי גלישה.
+videocontrols-picture-in-picture-explainer3 = יותר כיף עם יותר מסכים. ניתן להפעיל את הסרטון הזה תוך כדי התעסקות בדברים אחרים.
 videocontrols-error-aborted = טעינת הסרטון הופסקה.
 videocontrols-error-network = נגינת הוידאו הופסקה בעקבות שגיאת רשת.
 videocontrols-error-decode = לא ניתן לנגן את הוידאו מכיוון שהקובץ פגום.
