@@ -184,6 +184,7 @@ preferences-web-appearance-header = Aparência do site
 preferences-web-appearance-description = Alguns sites adaptam o seu esquema de cores com base nas suas preferências. Escolha qual o esquema de cores que gostaria de usar para esses sites.
 preferences-web-appearance-choice-browser = tema do { -brand-short-name }
 preferences-web-appearance-choice-system = Tema do sistema
+preferences-web-appearance-choice-auto = Automático
 preferences-web-appearance-choice-light = Claro
 preferences-web-appearance-choice-dark = Escuro
 preferences-web-appearance-choice-tooltip-browser =
@@ -933,6 +934,9 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Motores de pesquisa
     .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = Ações rápidas
+    .accesskey = Q
 addressbar-suggestions-settings = Alterar preferências para as sugestões dos motores de pesquisa
 addressbar-quickactions-learn-more = Saber mais
 
@@ -1094,6 +1098,10 @@ addon-recommendations-link = Saber mais
 collection-health-report-disabled = Relato de dados está desativado para a configuração desta compilação
 collection-backlogged-crash-reports-with-link = Permitir que a { -brand-short-name } envie relatórios de falhas acumuladas em seu nome. <a data-l10n-name="crash-reports-link">Saber mais</a>
     .accesskey = f
+privacy-segmentation-radio-off =
+    .label = Usar as recomendações do { -brand-product-name }
+privacy-segmentation-radio-on =
+    .label = Mostrar informações detalhadas
 
 ## Privacy Section - Security
 ##
