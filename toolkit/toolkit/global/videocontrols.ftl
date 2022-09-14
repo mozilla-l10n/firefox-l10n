@@ -44,6 +44,7 @@ videocontrols-picture-in-picture-toggle-label2 = Sgancia questo video
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer = Riproduci i video in primo piano mentre fai altre cose in { -brand-short-name }
 videocontrols-picture-in-picture-explainer2 = Più sono gli schermi, maggiore è il divertimento. Riproduci questo video in Picture-in-Picture mentre navighi.
+videocontrols-picture-in-picture-explainer3 = Più sono gli schermi, maggiore è il divertimento. Riproduci questo video mentre fai altro.
 
 videocontrols-error-aborted = Il caricamento del video è stato interrotto.
 videocontrols-error-network = La riproduzione del video è stata annullata a causa di un errore di rete.
