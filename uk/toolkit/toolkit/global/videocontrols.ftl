@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Відкріпити відео
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Більше екранів – цікавіше. Дивіться відео в режимі "Зображення в зображенні" під час перегляду.
+videocontrols-picture-in-picture-explainer3 = Більше екранів – веселіше. Дивіться це відео, займаючись іншими справами.
 videocontrols-error-aborted = Завантаження відео зупинилось.
 videocontrols-error-network = Відтворення відео зупинено через мережеву помилку.
 videocontrols-error-decode = Відео не може бути відтворене бо файл пошкоджений.

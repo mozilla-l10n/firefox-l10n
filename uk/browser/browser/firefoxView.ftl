@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 Усе готово!
 firefoxview-mobile-confirmation-description = Тепер ви можете отримати доступ до вкладок { -brand-product-name } зі свого планшета чи телефона.
 firefoxview-closed-tabs-title = Недавно закриті
 firefoxview-closed-tabs-description = Повторно відкрити сторінки, які ви закрили на цьому пристрої.
+firefoxview-closed-tabs-description2 = Повторно відкрити сторінки, які ви закрили в цьому вікні.
 firefoxview-closed-tabs-placeholder = <strong>Немає недавно закритих сторінок</strong><br/>Не бійтеся знову втратити закриту вкладку. Ви завжди можете відновити її тут.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Остання активна
