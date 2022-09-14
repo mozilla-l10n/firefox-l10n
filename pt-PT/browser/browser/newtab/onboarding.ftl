@@ -258,24 +258,41 @@ mr2022-onboarding-secondary-skip-button-label = Saltar este passo
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+mr2022-onboarding-existing-pin-checkbox-label = Adicione também a navegação privada do { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Tornar o { -brand-short-name } no seu navegador predefinido
+mr2022-onboarding-set-default-primary-button-label = Definir o { -brand-short-name } como o seu navegador predefinido
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = Configurar em segundos
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-primary-button-label-no-attribution = Importar do navegador anterior
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Escolha a cor que o(a) inspira
+mr2022-onboarding-colorway-primary-button-label = Definir esquema de cor
+mr2022-onboarding-existing-colorway-checkbox-label = Faça do { -firefox-home-brand-name } a sua página inicial colorida
 mr2022-onboarding-colorway-label-default = Predefinido
+mr2022-onboarding-colorway-tooltip-default =
+    .title = Predefinido
+mr2022-onboarding-colorway-label-expressionist = Expressionista
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = Expressionista
+mr2022-onboarding-colorway-label-visionary = Visionário(a)
+mr2022-onboarding-colorway-tooltip-visionary =
+    .title = Visionário(a)
 
 ## MR2022 Multistage Mobile Download screen strings
 
@@ -289,3 +306,5 @@ mr2022-onboarding-colorway-label-default = Predefinido
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-primary-button-label = Veja as novidades
+mr2022-onboarding-gratitude-secondary-button-label = Começar a navegar

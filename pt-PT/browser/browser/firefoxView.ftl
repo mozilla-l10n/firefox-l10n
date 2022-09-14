@@ -39,6 +39,7 @@ firefoxview-tabpickup-network-offline-description = Se está a utilizar uma fire
 firefoxview-tabpickup-network-offline-primarybutton = Tentar novamente
 firefoxview-tabpickup-sync-error-header = Estamos com problemas para sincronizar
 firefoxview-tabpickup-sync-error-primarybutton = Tentar novamente
+firefoxview-tabpickup-sync-disconnected-primarybutton = Ative a sincronização nas definições
 firefoxview-tabpickup-syncing = Aguarde enquanto os seus separadores estão a ser sincronizados. Será apenas um momento.
 firefoxview-mobile-promo-header = Obter separadores do seu telemóvel ou tablet
 firefoxview-mobile-promo-description = Para ver os seus separadores móveis mais recentes, inicie sessão no { -brand-product-name } para iOS ou Android.
