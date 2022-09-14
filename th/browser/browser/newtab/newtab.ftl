@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = ค้นหา
     .aria-label = ค้นหา
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = ค้นหาด้วย { $engine } หรือป้อนที่อยู่
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = ค้นหาหรือป้อนที่อยู่
     .title = ค้นหาหรือป้อนที่อยู่
     .aria-label = ค้นหาหรือป้อนที่อยู่
-
 newtab-search-box-text = ค้นหาเว็บ
 newtab-search-box-input =
     .placeholder = ค้นหาเว็บ
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = แก้ไขทางลัด
 newtab-topsites-title-label = ชื่อเรื่อง
 newtab-topsites-title-input =
     .placeholder = ป้อนชื่อเรื่อง
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = พิมพ์หรือวาง URL
 newtab-topsites-url-validation = ต้องการ URL ที่ถูกต้อง
-
 newtab-topsites-image-url-label = URL ภาพที่กำหนดเอง
 newtab-topsites-use-image-link = ใช้ภาพที่กำหนดเอง…
 newtab-topsites-image-validation = ไม่สามารถโหลดภาพ ลอง URL อื่น
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = ได้รับการสนับสนุน
 newtab-menu-section-tooltip =
     .title = เปิดเมนู
     .aria-label = เปิดเมนู
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = เอาออก
     .aria-label = เอาออก
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -162,17 +156,14 @@ newtab-label-removed-bookmark = เอาที่คั่นหน้าออ
 newtab-label-recommended = กำลังนิยม
 newtab-label-saved = บันทึกไปยัง { -pocket-brand-name } แล้ว
 newtab-label-download = ดาวน์โหลดแล้ว
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · ผู้สนับสนุน
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = สนับสนุนโดย { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -211,7 +202,6 @@ newtab-section-header-pocket = แนะนำโดย { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = เริ่มเรียกดูและเราจะแสดงบทความ วิดีโอ และหน้าอื่น ๆ บางส่วนที่ยอดเยี่ยมที่คุณได้เยี่ยมชมหรือเพิ่มที่คั่นหน้าไว้ล่าสุดที่นี่
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -236,11 +226,9 @@ newtab-pocket-learn-more = เรียนรู้เพิ่มเติม
 newtab-pocket-cta-button = รับ { -pocket-brand-name }
 newtab-pocket-cta-text = บันทึกเรื่องราวที่คุณรักลงใน { -pocket-brand-name } และเติมเต็มสมองของคุณด้วยบทความที่น่าหลงใหล
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } เป็นส่วนหนึ่งของตระกูล { -brand-product-name }
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = บันทึกไปยัง { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = บันทึกไปยัง { -pocket-brand-name } แล้ว
-
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = โหลดเรื่องราวเพิ่มเติม
 
@@ -270,6 +258,7 @@ newtab-custom-sponsored-sites = ทางลัดที่ได้รับก
 newtab-custom-pocket-title = แนะนำโดย { -pocket-brand-name }
 newtab-custom-pocket-subtitle = เนื้อหาสุดพิเศษที่คัดสรรโดย { -pocket-brand-name } ซึ่งเป็นส่วนหนึ่งของตระกูล { -brand-product-name }
 newtab-custom-pocket-sponsored = เรื่องราวที่ได้รับการสนับสนุน
+newtab-custom-pocket-show-recent-saves = แสดงบันทึกล่าสุด
 newtab-custom-recent-title = กิจกรรมล่าสุด
 newtab-custom-recent-subtitle = ไซต์และเนื้อหาล่าสุดที่คัดสรรมา
 newtab-custom-close-button = ปิด
