@@ -7,6 +7,9 @@
 cert-error-intro = { $hostname } සාවද්‍ය ආරක්‍ෂණ සහතිකයක් භාවිත කරයි.
 cert-error-mitm-intro = සහතික අධිකාරි විසින් නිකුත් කරනු ලබන සහතික හරහා වියමන අඩවි ඔවුන්ගේ අනන්‍යතාවය ඔප්පු කරයි.
 cert-error-trust-unknown-issuer-intro = යමෙක් වංචනිකව මෙම අඩවිය හසුරුවීමට තැත් කරනවා විය හැකි බැවින් ඔබ ඉදිරියට නොයා යුතුය.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-trust-unknown-issuer = සහතික මගින් වියමන අඩවි ඔවුන්ගේ අනන්‍යතාවය ඔප්පු කරයි. { $hostname } හි සහතිකය නිකුත් කරන්නා නොදන්නා නිසා, සහතිකය ස්වයං අත්සන් කර ඇති නිසා, හෝ සේවාදායකය නිවැරදි අතරමැදි සහතික එවන්නේ නැති නිසා { -brand-short-name } එය විශ්වාස නොකරයි.
 cert-error-trust-cert-invalid = සාවද්‍ය CA සහතිකයක් මඟින් නිකුත් කර ඇති නිසා සහතිකය විශ්වාස නැත.
 cert-error-trust-untrusted-issuer = නිකුත් කරන්නාගේ සහතිකය විශ්වාස නැති නිසා සහතිකය විශ්වාස නැත.
 cert-error-trust-expired-issuer = නිකුත් කරන්නාගේ සහතිකය කල් ඉකුත් වී ඇති නිසා සහතිකය විශ්වාස නැත.
