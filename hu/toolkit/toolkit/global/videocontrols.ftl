@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Videó kipattintása
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Több képernyő, több szórakozás. Játssza le ezt a videót Kép a képben módban böngészés közben.
+videocontrols-picture-in-picture-explainer3 = Több képernyő, több szórakozás. Játssza le ezt a videót, miközben mást csinál.
 videocontrols-error-aborted = A videó betöltése leállt.
 videocontrols-error-network = A videólejátszás leállt hálózati hiba miatt.
 videocontrols-error-decode = A videót nem lehet lejátszani, mert a fájl sérült.
