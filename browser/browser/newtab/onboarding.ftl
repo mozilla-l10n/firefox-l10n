@@ -372,6 +372,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Wašu priwatnosć pśecej respektěrujomy.
+mr2022-onboarding-privacy-segmentation-subtitle = Wót inteligentnych naraźenjow do mudrjejšego pytanja, źěłamy stawnje , aby lěpšy, wěcej wósobinski { -brand-product-name } napórali.
 mr2022-onboarding-privacy-segmentation-text-cta = Co cośo wiźeś, gaž nowe funkcije póbitujomy, kótarež waše daty wužywaju, aby se wašo pśeglědowanje pólěpšyło?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Dopórucenja { -brand-product-name } wužywaś
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Detailěrowane informacije pokazaś
