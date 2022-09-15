@@ -323,6 +323,9 @@ quickactions-cmd-update = aktualizować
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Žórłowy kod pokazać
 quickactions-cmd-viewsource = žórło pokazać, žórło
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Zhońće wjace wo spěšnych akcijach
 
 ## Bookmark Panel
 

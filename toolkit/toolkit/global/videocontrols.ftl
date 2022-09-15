@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Widejo wućahnyć
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Wjace wobrazowkow rěka wjace wjesela. Wothrajće tute widejo w modusu wobraz-we-wobrazu, mjeztym zo přehladujeće.
+videocontrols-picture-in-picture-explainer3 = Wjace wobrazowkow je wjace wjesela. Wothrajće tute widejo, hdyž druhe wěcy činiće.
 videocontrols-error-aborted = Začitowanje wideja je so zastajiło.
 videocontrols-error-network = Wothrawanje wideja je so syćoweho zmylka dla přetorhnyło.
 videocontrols-error-decode = Widejo njeda so wothrać, dokelž dataja je wobškodźena.
