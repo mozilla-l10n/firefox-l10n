@@ -326,6 +326,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = გადმო�
 mr2022-onboarding-colorway-title = აირჩიეთ შთამაგონებელი ფერები
 mr2022-onboarding-colorway-subtitle = დამოუკიდებელი ხმები ცვლის ღირებულებებს.
 mr2022-onboarding-colorway-primary-button-label = შეფერილობის დაყენება
+mr2022-onboarding-colorway-primary-button-label-continue = დააყენეთ და განაგრძეთ
 mr2022-onboarding-existing-colorway-checkbox-label = გამოიყენეთ { -firefox-home-brand-name } ფერადოვან საწყის გვერდად
 mr2022-onboarding-colorway-label-default = ნაგულისხმევი
 mr2022-onboarding-colorway-tooltip-default =
