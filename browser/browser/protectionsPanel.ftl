@@ -20,7 +20,7 @@ protections-popup-footer-protection-label-standard = ჩვეულებრი
 
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
-    .aria-label = ვრცლად, თვალთვალისგან გაძლიერებული დაცვის შესახებ
+    .aria-label = ვრცლად თვალთვალისგან გაძლიერებული დაცვის შესახებ
 protections-panel-etp-on-header = თვალთვალისგან დაცვა ჩართულია ამ საიტზე
 protections-panel-etp-off-header = თვალთვალისგან დაცვა გამორთულია ამ საიტზე
 # The link to be clicked to open the sub-panel view
