@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = 彈出這部影片
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = 越多畫面越有趣。在您上網時將這段影片放到子畫面中播放。
+videocontrols-picture-in-picture-explainer3 = 越多畫面越有趣。一邊做其他事情，一邊播放此影片。
 videocontrols-error-aborted = 已停止載入視訊。
 videocontrols-error-network = 因為網路錯誤，已中止視訊播放。
 videocontrols-error-decode = 因為檔案毀損，無法播放視訊。
