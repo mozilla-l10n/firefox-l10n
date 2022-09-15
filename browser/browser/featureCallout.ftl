@@ -22,4 +22,9 @@ callout-firefox-view-colorways-reminder-title = 探索我们的新配色
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = 通过“接收标签页”功能，享受无缝浏览体验
+continuous-onboarding-firefox-view-tab-pickup-subtitle = 从任意设备访问已打开的标签页，还可同步书签、密码等信息。
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = 开始使用
