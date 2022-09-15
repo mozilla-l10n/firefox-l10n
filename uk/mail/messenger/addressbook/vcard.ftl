@@ -113,3 +113,6 @@ vcard-org-org = Організація
 
 vcard-custom-header = Власні властивості
 vcard-custom-add = Додати власні властивості
+vcard-remove-button-title =
+    .title = Вилучити
+vcard-remove-button = Вилучити
