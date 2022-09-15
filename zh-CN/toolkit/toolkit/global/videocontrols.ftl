@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = 弹出此视频
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = 同屏多任务，在您浏览网页的同时画中画播放视频。
+videocontrols-picture-in-picture-explainer3 = 同屏多任务，在您做其他事的同时播放此视频。
 videocontrols-error-aborted = 视频载入已停止。
 videocontrols-error-network = 视频播放因网络错误中止。
 videocontrols-error-decode = 视频无法播放，因为该文件已损坏。
