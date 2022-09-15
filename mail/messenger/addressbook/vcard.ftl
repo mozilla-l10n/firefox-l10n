@@ -113,3 +113,6 @@ vcard-org-org = Organizacija
 
 vcard-custom-header = Swójske kakosći
 vcard-custom-add = Swójske kakosći pśidaś
+vcard-remove-button-title =
+    .title = Wótwónoźeś
+vcard-remove-button = Wótwónoźeś
