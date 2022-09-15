@@ -197,3 +197,13 @@ mr2022-background-update-toast-primary-button-label = Abrir agora o { -brand-sho
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Lembrar mais tarde
+
+## Firefox View CFR
+
+firefoxview-cfr-primarybutton = Experimentar
+    .accesskey = E
+firefoxview-cfr-secondarybutton = Agora não
+    .accesskey = A
+
+## Firefox View Spotlight
+
