@@ -113,3 +113,6 @@ vcard-org-org = Organizacija
 
 vcard-custom-header = Swójske kajkosće
 vcard-custom-add = Swójske kajkosće přidać
+vcard-remove-button-title =
+    .title = Wotstronić
+vcard-remove-button = Wotstronić
