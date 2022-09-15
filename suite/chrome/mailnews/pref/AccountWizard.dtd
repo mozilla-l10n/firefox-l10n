@@ -54,7 +54,7 @@
 <!ENTITY incomingServer.description "მიუთითეთ შემომავალი სერვერის სახელი (მაგალითად, &quot;mail.example.net&quot;).">
 <!ENTITY incomingServer.label "შემომავალი სერვერი:">
 <!ENTITY incomingServer.accesskey "შ">
-<!ENTITY leaveMsgsOnSrvr.label "წერილების სერვერზე დატოვება">
+<!ENTITY leaveMsgsOnSrvr.label "წერილების დატოვება სერვერზე">
 <!ENTITY leaveMsgsOnSrvr.accesskey "დ">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.description "მიუთითეთ პროვაიდერის მიერ თქვენთვის მონიჭებული სახელი (მაგალითად, &quot;jsmith&quot;).">
