@@ -197,6 +197,8 @@ preferences-web-appearance-choice-tooltip-browser =
     .title = Pśiměŕśo swóje drastwowe nastajenja { -brand-short-name } za slězyny a wopśimjeśe websedłow.
 preferences-web-appearance-choice-tooltip-system =
     .title = Pśiměŕśo swóje systemowe nastajenja za slězyny a wopśimjeśe websedłow.
+preferences-web-appearance-choice-tooltip-auto =
+    .title = Změńśo awtomatiski slězyny websedła a wopśimjeśe na zakłaźe swójich systemowych nastajenjow a drastwy { -brand-short-name }.
 preferences-web-appearance-choice-tooltip-light =
     .title = Swětły naglěd za slězyny websedłow a wopśimjeśe wužywaś.
 preferences-web-appearance-choice-tooltip-dark =
@@ -1107,6 +1109,7 @@ collection-health-report-disabled = Datowe rozpšawjenje jo znjemóžnjone za to
 collection-backlogged-crash-reports-with-link = { -brand-short-name } dowóliś, aby se njepósłane wowaleńske rozpšawy we wašom mjenju pósłali <a data-l10n-name="crash-reports-link">Dalšne informacije</a>
     .accesskey = d
 privacy-segmentation-section-header = Nowe funkcije, kótarež wašo pśeglědowanje pólěpšaju
+privacy-segmentation-section-description = Gaž funkcije póbitujomy, kótarež waše daty wužywaju, aby my wam wěcej wósobinske dožywjenje bitowali:
 privacy-segmentation-radio-off =
     .label = Dopórucenja { -brand-product-name } wužywaś
 privacy-segmentation-radio-on =

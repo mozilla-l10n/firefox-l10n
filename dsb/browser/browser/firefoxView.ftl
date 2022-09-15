@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 Wšykno gótowe!
 firefoxview-mobile-confirmation-description = Něnto móžośo swóje rejtariki { -brand-product-name } ze swójogo tableta abo telefona wobstaraś.
 firefoxview-closed-tabs-title = Njedawno zacynjone
 firefoxview-closed-tabs-description = Wócyńśo boki znowego, kótarež sćo zacynił na toś tom rěźe.
+firefoxview-closed-tabs-description2 = Wócyńśo boki znowego, kótarež sćo zacynił w toś tom woknje.
 firefoxview-closed-tabs-placeholder = <strong>Žedne njedawno zacynjone boki</strong><br/>Njebójśo se nigda zacynjeny rejtarik zasej zgubiś. Móžośo jen pśecej how zasej dostaś.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Slědny raz aktiwny
