@@ -113,3 +113,6 @@ vcard-org-org = Organisatie
 
 vcard-custom-header = Aangepaste eigenschappen
 vcard-custom-add = Aangepaste eigenschappen toevoegen
+vcard-remove-button-title =
+    .title = Verwijderen
+vcard-remove-button = Verwijderen
