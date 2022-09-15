@@ -323,6 +323,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importálás az e
 mr2022-onboarding-colorway-title = Válassza ki azt a színt, amelyik inspirálja
 mr2022-onboarding-colorway-subtitle = A független hangok megváltoztathatják a kultúrát.
 mr2022-onboarding-colorway-primary-button-label = Színvilág beállítása
+mr2022-onboarding-colorway-primary-button-label-continue = Beállítás és folytatás
 mr2022-onboarding-existing-colorway-checkbox-label = Legyen a { -firefox-home-brand-name } a színes kezdőlapja
 mr2022-onboarding-colorway-label-default = Alapértelmezett
 mr2022-onboarding-colorway-tooltip-default =

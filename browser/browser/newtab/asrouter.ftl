@@ -212,5 +212,7 @@ firefoxview-cfr-body = Ezenkívül zökkenőmentesen válthat az eszközök köz
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Köszöntse a { -firefoxview-brand-name }t
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Szeretné ezt a nyitott lapot a telefonján? Vegye át. Szüksége van arra az oldalra, amelyet most látogatott meg? Puff, vissza is jött a { -firefoxview-brand-name }sel.
 firefoxview-spotlight-promo-primarybutton = Nézze meg a működését
 firefoxview-spotlight-promo-secondarybutton = Kihagyás
