@@ -232,8 +232,6 @@ openpgp-key-man-select-all-key =
 openpgp-key-man-key-details-key =
     .key = I
 openpgp-ign-addr-intro = თქვენ ეთანხმებით ამ გასაღების გამოყენებას ელფოსტის შერჩეული მისამართებისთვის:
-openpgp-key-details-title =
-    .title = გასაღების თვისებები
 openpgp-key-details-doc-title = გასაღების თვისებები
 openpgp-key-details-signatures-tab =
     .label = სერტიფიკატები
@@ -242,7 +240,6 @@ openpgp-key-details-structure-tab =
 openpgp-key-details-uid-certified-col =
     .label = მომხმარებლის ID / გამცემი
 openpgp-key-details-key-id-label = გასაღების ID
-openpgp-key-details-user-id2-label = გასაღების სავარაუდო მფლობელი
 openpgp-key-details-user-id3-label = გასაღების მფლობელის მოთხოვნა
 openpgp-key-details-id-label =
     .label = ID
@@ -339,7 +336,7 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = გასაღების გაუქმება
 openpgp-key-edit-title = OpenPGP-გასაღების შეცვლა
 openpgp-key-edit-date-title = ვადის გახანგრძლივება
-openpgp-manager-description = გამოიყენეთ OpenPGP-გასაღების მმართველი მიმოწერის გასაღებების სანახავად და სამართავად და ასვე, ყველა სხვა გასაღებისთვის, რომელიც აქ არაა ჩამოწერილი.
+openpgp-manager-description = გამოიყენეთ OpenPGP-გასაღების მმართველი  იმ ხალხის საჯარო გასაღებების სანახავად და სამართავად, ვისთანაც მიმოწერა გაქვთ, გარდა ამისა ყველა სხვა გასაღებისაც, რომელიც ზემოთა სიაში არაა.
 openpgp-manager-button =
     .label = OpenPGP-გასაღების მმართველი
     .accesskey = ღ
@@ -505,8 +502,6 @@ key-error-key-id-not-found = გამართული გასაღებ�
 key-error-not-accepted-as-personal = თქვენ არ დაგიდასტურებიათ, რომ გასაღები ID ნომრით „{ $keySpec }“, თქვენი პირადი გასაღებია.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = შერჩეული შესაძლებლობა არაა ხელმისაწვდომი კავშირგარეშედ. გთხოვთ, ხაზზე გახვიდეთ და სცადოთ ხელახლა.
-# Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = ვერ მოიძებნა შესაბამისი გასაღები, ძიების მითითებული მოთხოვნით.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found2 = ვერ მოიძებნა შესაბამისი გამოსადეგი გასაღები, ძიების მითითებული მოთხოვნით.
 no-update-found = თქვენ უკვე გაქვთ გასაღებები, რომლებიც მოინახა ქსელიდან.
