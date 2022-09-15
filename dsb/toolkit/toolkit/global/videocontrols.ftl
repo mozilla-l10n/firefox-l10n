@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Wideo naprědk póraś
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Wěcej wobrazowkow groni wěcej wjasela. Wótgrajśo toś to wideo w modusu wobraz-we-wobrazu, mjaztym až pśeglědujośo.
+videocontrols-picture-in-picture-explainer3 = Wěcej wobrazowkow jo wěcej wjasela. Wótgrajśo toś to wideo, gaž druge wěcy gótujośo.
 videocontrols-error-aborted = Zacytowanje wideo jo se zastajiło.
 videocontrols-error-network = Wótgrawanje wideo jo se seśoweje zmólki dla pśetergnuło.
 videocontrols-error-decode = Wideo njedajo se wótgraś, dokulaž dataja jo wobškóźona.
