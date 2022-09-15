@@ -205,3 +205,19 @@ mr2022-background-update-toast-primary-button-label = { -brand-shorter-name } n�
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Pózdźej dopomnjeś
+
+## Firefox View CFR
+
+firefoxview-cfr-primarybutton = Wopytajśo jen
+    .accesskey = o
+firefoxview-cfr-secondarybutton = Nic něnto
+    .accesskey = N
+firefoxview-cfr-header = Wobstarajśo se zacynjone rejtariki z { -firefoxview-brand-name } slědk
+
+## Firefox View Spotlight
+
+firefoxview-spotlight-promo-title = Witajśo k { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Cośo ten wócynjony rejtark na swójom telefonje měś? Wobstarajśo se jen. Trjebaśo sedło, ku kótaremuž sćo rowno woglědał? Simsalabim, jo z { -firefoxview-brand-name } slědk.
+firefoxview-spotlight-promo-primarybutton = Glědajśo, kak to funkcioněrujo
+firefoxview-spotlight-promo-secondarybutton = Pśeskócyś
