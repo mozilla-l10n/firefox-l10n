@@ -323,6 +323,9 @@ quickactions-cmd-update = frissítés
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Forrás megtekintése
 quickactions-cmd-viewsource = forrás megtekintése, forrás, forráskód
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = További információ a gyors műveletekről
 
 ## Bookmark Panel
 
