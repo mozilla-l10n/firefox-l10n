@@ -194,3 +194,15 @@ mr2022-background-update-toast-primary-button-label = 立即開啟 { -brand-shor
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = 待會提醒我
+
+## Firefox View CFR
+
+firefoxview-cfr-primarybutton = 試試看
+    .accesskey = T
+firefoxview-cfr-secondarybutton = 現在不要
+    .accesskey = N
+
+## Firefox View Spotlight
+
+firefoxview-spotlight-promo-primarybutton = 看看原理是什麼
+firefoxview-spotlight-promo-secondarybutton = 略過
