@@ -203,3 +203,5 @@ firefoxview-cfr-secondarybutton = לא כעת
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = תגידו שלום ל־{ -firefoxview-brand-name }
+firefoxview-spotlight-promo-primarybutton = כיצד זה עובד
+firefoxview-spotlight-promo-secondarybutton = דילוג
