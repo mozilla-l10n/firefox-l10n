@@ -17,7 +17,7 @@ abuse-report-subtitle = რას ეხება საქმე?
 abuse-report-addon-authored-by = შემქმნელი <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore =
     ზუსტად არ იცით რა უნდა მიუთითოთ?
-    <a data-l10n-name="learnmore-link">იხილეთ ვრცლად, გაფართოებებისა და თემების შესახებ საჩივრის გაგზავნაზე</a>
+    <a data-l10n-name="learnmore-link">იხილეთ ვრცლად გაფართოებებისა და თემების შესახებ საჩივრის გაგზავნაზე</a>
 abuse-report-submit-description = აღწერეთ საკითხი (არასავალდებულო)
 abuse-report-textarea =
     .placeholder = დაწვრილებითი ინფორმაცია გვეხმარება ხარვეზის გამორკვევაში. გთხოვთ, აღწეროთ რა დაბრკოლებას გადააწყდით. გმადლობთ, რომ გვეხმარებით ვებსივრცის სიჯანსაღის შენარჩუნებაში.

@@ -408,7 +408,7 @@ main-context-menu-inspect =
 main-context-menu-inspect-a11y-properties =
     .label = დამხმარე საშუალებების გამოკვლევა
 main-context-menu-eme-learn-more =
-    .label = ვრცლად, DRM-ის შესახებ…
+    .label = ვრცლად DRM-ის შესახებ…
     .accesskey = D
 # Variables
 #   $containerName (String): The name of the current container
