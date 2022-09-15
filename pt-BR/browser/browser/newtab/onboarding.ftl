@@ -323,6 +323,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importar do naveg
 mr2022-onboarding-colorway-title = Escolha a cor que te inspira
 mr2022-onboarding-colorway-subtitle = Vozes independentes podem mudar a cultura.
 mr2022-onboarding-colorway-primary-button-label = Definir esquema de cores
+mr2022-onboarding-colorway-primary-button-label-continue = Definir e continuar
 mr2022-onboarding-existing-colorway-checkbox-label = Torne a { -firefox-home-brand-name } sua tela inicial colorida
 mr2022-onboarding-colorway-label-default = Padrão
 mr2022-onboarding-colorway-tooltip-default =
@@ -375,9 +376,6 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = Sempre respeitamos sua privacidade
 mr2022-onboarding-privacy-segmentation-subtitle = De sugestões inteligentes a pesquisas mais espertas, trabalhamos constantemente para criar um { -brand-product-name } melhor e mais pessoal.
-mr2022-onboarding-privacy-segmentation-cta-text = Quando oferecermos novos recursos que usam seus dados para aprimorar sua navegação, você quer que apareça:
-mr2022-onboarding-privacy-segmentation-primary-button-label = Recomendações do { -brand-product-name }
-mr2022-onboarding-privacy-segmentation-secondary-button-label = Informações detalhadas
 mr2022-onboarding-privacy-segmentation-text-cta = O que você quer que apareça quando oferecemos novos recursos que usam seus dados para aprimorar sua navegação?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Usar recomendações do { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostrar informações detalhadas

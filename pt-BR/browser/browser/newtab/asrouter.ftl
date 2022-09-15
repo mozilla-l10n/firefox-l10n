@@ -204,6 +204,9 @@ firefoxview-cfr-primarybutton = Experimentar
     .accesskey = E
 firefoxview-cfr-secondarybutton = Agora não
     .accesskey = A
+firefoxview-cfr-header = Recupere abas fechadas recentemente com o { -firefoxview-brand-name }
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Apresentamos o { -firefoxview-brand-name }
+firefoxview-spotlight-promo-secondarybutton = Pular
