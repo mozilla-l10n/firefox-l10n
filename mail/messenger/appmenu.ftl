@@ -70,7 +70,7 @@ appmenu-create-contact =
 
 appmenu-open-panel =
     .label = Abrir
-    .accesskey = O
+    .accesskey = A
 appmenu-open-panel-title =
     .title = Abrir
 appmenu-open-message =
