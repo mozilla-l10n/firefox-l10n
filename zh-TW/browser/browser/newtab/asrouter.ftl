@@ -207,5 +207,7 @@ firefoxview-cfr-body = 此外還可以於不同裝置間無縫跳轉，再為瀏
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = 跟 { -firefoxview-brand-name } 說嗨
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = 想要在手機上看到開啟的那個分頁嗎？可以直接開啟。需要再打開剛關閉的分頁嗎？點一下 { -firefoxview-brand-name } 馬上就回來。
 firefoxview-spotlight-promo-primarybutton = 看看原理是什麼
 firefoxview-spotlight-promo-secondarybutton = 略過
