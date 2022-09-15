@@ -323,6 +323,9 @@ quickactions-cmd-update = actualisar
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Vider le fonte
 quickactions-cmd-viewsource = vider fonte, fonte
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Saper plus re le actiones rapide
 
 ## Bookmark Panel
 
