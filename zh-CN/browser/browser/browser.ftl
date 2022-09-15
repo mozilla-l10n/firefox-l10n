@@ -323,6 +323,9 @@ quickactions-cmd-update = 更新, update
 # Opens the view-source UI with current pages source
 quickactions-viewsource = 查看源代码
 quickactions-cmd-viewsource = 查看源代码, 源代码, view source, source
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = 详细了解“快捷操作”
 
 ## Bookmark Panel
 
