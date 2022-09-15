@@ -323,6 +323,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = 이전 브라우�
 mr2022-onboarding-colorway-title = 영감을 주는 색상을 선택하세요
 mr2022-onboarding-colorway-subtitle = 독립적인 목소리가 문화를 바꿀 수 있습니다.
 mr2022-onboarding-colorway-primary-button-label = 컬러웨이 설정
+mr2022-onboarding-colorway-primary-button-label-continue = 설정하고 계속
 mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name }를 다채로운 홈페이지로 만드세요
 mr2022-onboarding-colorway-label-default = 기본
 mr2022-onboarding-colorway-tooltip-default =

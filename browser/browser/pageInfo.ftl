@@ -4,22 +4,18 @@
 
 page-info-window =
     .style = width: 600px; min-height: 500px;
-
 copy =
     .key = C
 menu-copy =
     .label = 복사
     .accesskey = C
-
 select-all =
     .key = A
 menu-select-all =
     .label = 모두 선택
     .accesskey = A
-
 close-dialog =
     .key = w
-
 general-tab =
     .label = 일반
     .accesskey = G
@@ -43,7 +39,6 @@ general-meta-name =
     .label = 이름
 general-meta-content =
     .label = 내용
-
 media-tab =
     .label = 미디어
     .accesskey = M
@@ -65,19 +60,20 @@ media-dimension =
     .value = 픽셀 크기:
 media-long-desc =
     .value = 설명:
+media-select-all =
+    .label = 모두 선택
+    .accesskey = e
 media-save-as =
     .label = 다른 이름으로 저장…
     .accesskey = A
 media-save-image-as =
     .label = 다른 이름으로 저장…
     .accesskey = e
-
 perm-tab =
     .label = 권한
     .accesskey = P
 permissions-for =
     .value = 권한 대상:
-
 security-tab =
     .label = 보안
     .accesskey = S
@@ -98,22 +94,17 @@ security-view-identity-validity =
     .value = 만료일:
 security-view-privacy =
     .value = 개인 정보 및 기록
-
 security-view-privacy-history-value = 이 웹 사이트를 이전에 방문한 적이 있습니까?
 security-view-privacy-sitedata-value = 이 웹 사이트가 내 컴퓨터에 정보를 저장합니까?
-
 security-view-privacy-clearsitedata =
     .label = 쿠키 및 사이트 데이터 지우기
     .accesskey = C
-
 security-view-privacy-passwords-value = 이 웹 사이트에 비밀번호를 저장한 적이 있습니까?
-
 security-view-privacy-viewpasswords =
     .label = 저장된 비밀번호 보기
     .accesskey = w
 security-view-technical =
     .value = 기술적 세부 사항
-
 help-button =
     .label = 도움말
 
@@ -125,7 +116,6 @@ help-button =
 
 security-site-data-cookies = 예, 쿠키와 { $value } { $unit }의 사이트 데이터
 security-site-data-only = 예, { $value } { $unit } 사이트 데이터
-
 security-site-data-cookies-only = 예, 쿠키
 security-site-data-no = 아니오
 
@@ -149,7 +139,6 @@ media-video = 동영상
 media-audio = 음성
 saved-passwords-yes = 예
 saved-passwords-no = 아니오
-
 no-page-title =
     .value = 페이지 제목 없음:
 general-quirks-mode =
@@ -164,7 +153,6 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = 기본 설정 사용
 security-no-visits = 아니오
-
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -174,7 +162,6 @@ general-meta-tags =
         { $tags ->
            *[other] 메타 ({ $tags }개 태그)
         }
-
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -184,7 +171,6 @@ security-visits-number =
         [0] 아니오
        *[other] 예, { $visits }회
     }
-
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -194,7 +180,6 @@ properties-general-size =
         { $bytes ->
            *[other] { $kb } KB ({ $bytes } 바이트)
         }
-
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -205,14 +190,12 @@ media-animated-image-type =
         { $frames ->
            *[other] { $type } 이미지 (애니메이션, { $frames } 프레임)
         }
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } 이미지
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -222,20 +205,17 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px ({ $scaledx }px × { $scaledy }px로 배율 조정됨)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
-
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -243,7 +223,6 @@ media-file-size = { $size } KB
 media-block-image =
     .label = { $website }에서 이미지 차단
     .accesskey = B
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
