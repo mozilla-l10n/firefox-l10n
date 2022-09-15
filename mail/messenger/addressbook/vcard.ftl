@@ -113,3 +113,6 @@ vcard-org-org = Société
 
 vcard-custom-header = Propriétés personnalisées
 vcard-custom-add = Ajouter des propriétés personnalisées
+vcard-remove-button-title =
+    .title = Supprimer
+vcard-remove-button = Supprimer
