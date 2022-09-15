@@ -42,4 +42,13 @@
     }
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
--firefoxview-brand-name = Firefox-ხედი
+-firefoxview-brand-name =
+    { $case ->
+       *[nom] Firefox-ხედი
+        [dat] Firefox-ხედს
+        [gen] Firefox-ხედის
+        [ben] Firefox-ხედისთვის
+        [loc] Firefox-ხედზე
+        [ins] Firefox-ხედით
+        [add] Firefox-ხედთან
+    }

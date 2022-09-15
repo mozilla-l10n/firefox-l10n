@@ -206,9 +206,13 @@ firefoxview-cfr-primarybutton = მოსინჯვა
     .accesskey = ჯ
 firefoxview-cfr-secondarybutton = ახლა არა
     .accesskey = ა
-firefoxview-cfr-header = ბოლოს დახურული ჩანართების დასაბრუნებლად გამოიყენეთ { -firefoxview-brand-name }
+firefoxview-cfr-header = დააბრუნეთ ბოლოს დახურული ჩანართები { -firefoxview-brand-name(case: "ins") }
 firefoxview-cfr-body = ამასთანავე, შეუფერხებლად გადაერთეთ მოწყობილობებს შორის და შეაფერადეთ თქვენი ბრაუზერი.
 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = გაიცანით { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = გსურთ ამ ჩანართის ტელეფონზე ხილვა? წაიყოლეთ თან. დაგჭირდათ ადრე მონახულებული გვერდი? ბუფ და უცებ გაჩნდება { -firefoxview-brand-name(case: "ins") }.
+firefoxview-spotlight-promo-primarybutton = ნახეთ, როგორ მუშაობს
+firefoxview-spotlight-promo-secondarybutton = გამოტოვება
