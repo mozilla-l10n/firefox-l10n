@@ -313,6 +313,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = 從先前使用�
 mr2022-onboarding-colorway-title = 選擇能激發您靈感的色彩
 mr2022-onboarding-colorway-subtitle = 獨立的聲音將改變文化。
 mr2022-onboarding-colorway-primary-button-label = 使用此配色
+mr2022-onboarding-colorway-primary-button-label-continue = 設定並繼續
 mr2022-onboarding-existing-colorway-checkbox-label = 將 { -firefox-home-brand-name } 設定為您色彩繽紛的首頁
 mr2022-onboarding-colorway-label-default = 預設
 mr2022-onboarding-colorway-tooltip-default =

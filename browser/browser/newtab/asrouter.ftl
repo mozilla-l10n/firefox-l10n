@@ -201,8 +201,11 @@ firefoxview-cfr-primarybutton = 試試看
     .accesskey = T
 firefoxview-cfr-secondarybutton = 現在不要
     .accesskey = N
+firefoxview-cfr-header = 使用 { -firefoxview-brand-name } 開回最近關閉的分頁
+firefoxview-cfr-body = 此外還可以於不同裝置間無縫跳轉，再為瀏覽器妝點一抹色彩。
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = 跟 { -firefoxview-brand-name } 說嗨
 firefoxview-spotlight-promo-primarybutton = 看看原理是什麼
 firefoxview-spotlight-promo-secondarybutton = 略過
