@@ -11,7 +11,7 @@
 <!ENTITY syncKey.keepItSafe2.description  " თქვენი კოდი არსად ინახება (ასეთ შემთხვევაში დაუცველი იქნებოდა!), ასე რომ, ">
 <!ENTITY syncKey.keepItSafe3.description  "ვერავინ დაგეხმარებათ მის აღდგენაში">
 <!ENTITY syncKey.keepItSafe4.description  " თი იგი დაკარგეთ. ამ კოდის მითითება მოგიწევთ ყოველთვის ახალი კომპიუტერის ან მოწყობილობის და &syncBrand.fullName.label; დაკავშირებისას.">
-<!ENTITY syncKey.findOutMore1.label       "ვრცლად, &syncBrand.fullName.label; და პირადი მონაცემების უსაფრთხოების შესახებ იხილეთ: ">
+<!ENTITY syncKey.findOutMore1.label       "ვრცლად &syncBrand.fullName.label; და პირადი მონაცემების უსაფრთხოების შესახებ იხილეთ: ">
 <!ENTITY syncKey.findOutMore2.label       ".">
 <!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; მომსახურების პირობები მისაწვდომია საიტზე: ">
 <!ENTITY syncKey.footer2.label            ". პირადი მონაცემების დაცვის შესახებ იხილეთ ბმული: ">
