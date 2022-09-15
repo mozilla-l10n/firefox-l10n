@@ -209,5 +209,7 @@ firefoxview-cfr-body = 또한 기기 간에 원활하게 전환하고 브라우�
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = { -firefoxview-brand-name }를 만나보세요
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = 휴대폰의 열린 탭을 원하세요? 가져오세요. 방금 방문한 사이트가 필요하세요? { -firefoxview-brand-name }로 돌아옵니다.
 firefoxview-spotlight-promo-primarybutton = 작동 방식 보기
 firefoxview-spotlight-promo-secondarybutton = 건너뛰기
