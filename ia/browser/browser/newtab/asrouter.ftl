@@ -187,6 +187,7 @@ spotlight-pin-secondary-button = Non ora
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-text = Prova ora le nove { -brand-short-name }, ancora promovite con nostre plus forte protection anti-traciamento.
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
