@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = ამოახტუნეთ 
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = რამდენიმე ეკრანი მეტად სახალისოა. თან უყურეთ ვიდეოს ეკრანი-ეკრანში რეჟიმით და თან განაგრძეთ გვერდების თვალიერება.
+videocontrols-picture-in-picture-explainer3 = მეტი ეკრანი მეტად გასართობია. უყურეთ ვიდეოს სხვა საქმეების კეთებისას.
 videocontrols-error-aborted = ვიდეოს ჩატვირთვა შეჩერებულია
 videocontrols-error-network = ვიდეოს გაშვება შეწყვეტილია, ქსელის ხარვეზის გამო.
 videocontrols-error-decode = ვიდეოს გაშვება ვერ მოხერხდა, რადგან ფაილი დაზიანებულია.
