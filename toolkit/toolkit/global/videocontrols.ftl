@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Destacar este vídeo
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Mais telas são mais divertidas. Reproduza este vídeo em picture-in-picture enquanto navega.
+videocontrols-picture-in-picture-explainer3 = Mais telas é mais diversão. Reproduza este vídeo enquanto faz outras coisas.
 videocontrols-error-aborted = Carregamento do vídeo interrompido.
 videocontrols-error-network = Execução do vídeo interrompida por um erro de rede.
 videocontrols-error-decode = O vídeo não pode ser executado porque o arquivo está corrompido.
