@@ -113,3 +113,6 @@ vcard-org-org = Organizacija
 
 vcard-custom-header = Lastnosti po meri
 vcard-custom-add = Dodaj lastnosti po meri
+vcard-remove-button-title =
+    .title = Odstrani
+vcard-remove-button = Odstrani
