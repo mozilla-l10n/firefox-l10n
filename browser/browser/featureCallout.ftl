@@ -19,7 +19,14 @@ callout-firefox-view-colorways-title = შეაფრქვიეთ ფერ�
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = შეარჩიეთ ელფერი ახალი შეფერილობით. გთავაზობთ მხოლოდ { -brand-product-name }.
 callout-firefox-view-colorways-reminder-title = გაეცანით ჩვენს ახალ შეფერილობებს
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = შეალამაზეთ თქვენი ბრაუზერი ამ გამორჩეული ფერებით, რომლებიც შთაგონებულია დამოუკიდებელი ხმებით. გთავაზობთ მხოლოდ { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = მოქნილად მოინახულეთ გვერდები ჩანართების თან წაღებით
+continuous-onboarding-firefox-view-tab-pickup-subtitle = იხილეთ გახსნილი ჩანართები ნებისმიერი მოწყობილობიდან. ამასთანავე, დაასინქრონეთ სანიშნები, პაროლები და სხვ.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = დაიწყეთ
