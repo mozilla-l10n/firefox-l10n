@@ -113,3 +113,6 @@ vcard-org-org = Szervezet
 
 vcard-custom-header = Egyéni tulajdonságok
 vcard-custom-add = Egyéni tulajdonságok hozzáadása
+vcard-remove-button-title =
+    .title = Eltávolítás
+vcard-remove-button = Eltávolítás
