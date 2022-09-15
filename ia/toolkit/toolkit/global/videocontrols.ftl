@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Distaccar iste video
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Plus paginas es plus amusante. Reproduce iste video in Imagine annidate durante que tu naviga.
+videocontrols-picture-in-picture-explainer3 = Altere schermos altere amusamento. Reproduce iste video dum tu face altere cosas.
 videocontrols-error-aborted = Cargamento de video stoppate.
 videocontrols-error-network = Reproduction del video abortate per un error de rete.
 videocontrols-error-decode = Le video non pote esser reproducite perque le file es corrumpite.
