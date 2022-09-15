@@ -199,3 +199,16 @@ mr2022-background-update-toast-primary-button-label = გახსენით {
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = მოგვიანებით შეხსენება
+
+## Firefox View CFR
+
+firefoxview-cfr-primarybutton = მოსინჯვა
+    .accesskey = ჯ
+firefoxview-cfr-secondarybutton = ახლა არა
+    .accesskey = ა
+firefoxview-cfr-header = ბოლოს დახურული ჩანართების დასაბრუნებლად გამოიყენეთ { -firefoxview-brand-name }
+firefoxview-cfr-body = ამასთანავე, შეუფერხებლად გადაერთეთ მოწყობილობებს შორის და შეაფერადეთ თქვენი ბრაუზერი.
+
+## Firefox View Spotlight
+
+firefoxview-spotlight-promo-title = გაიცანით { -firefoxview-brand-name }
