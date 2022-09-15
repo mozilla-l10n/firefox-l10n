@@ -321,6 +321,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Z pjerwjejšnego 
 mr2022-onboarding-colorway-title = Wubjeŕśo barwu, kótaraž was inspirěrujo
 mr2022-onboarding-colorway-subtitle = Njewótwisne głose mógu kulturu změniś.
 mr2022-onboarding-colorway-primary-button-label = Barwowu kombinaciju nastajiś
+mr2022-onboarding-colorway-primary-button-label-continue = Nastajiś a pókšacowaś
 mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } k wašomu barbnemu startowemu bokoju cyniś
 mr2022-onboarding-colorway-label-default = Standard
 mr2022-onboarding-colorway-tooltip-default =
