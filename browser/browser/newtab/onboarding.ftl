@@ -321,6 +321,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Z předchadneho w
 mr2022-onboarding-colorway-title = Wubjerće barbu, kotraž was inspiruje
 mr2022-onboarding-colorway-subtitle = Njewotwisne hłosy móža kulturu změnić.
 mr2022-onboarding-colorway-primary-button-label = Barbowu kombinaciju nastajić
+mr2022-onboarding-colorway-primary-button-label-continue = Nastajić a pokročować
 mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } k wašej barbnej startowej stronje činić
 mr2022-onboarding-colorway-label-default = Standard
 mr2022-onboarding-colorway-tooltip-default =

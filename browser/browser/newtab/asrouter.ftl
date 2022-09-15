@@ -205,3 +205,16 @@ mr2022-background-update-toast-primary-button-label = { -brand-shorter-name } n�
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Pozdźišo dopomnić
+
+## Firefox View CFR
+
+firefoxview-cfr-primarybutton = Wupruwujće jón
+    .accesskey = u
+firefoxview-cfr-secondarybutton = Nic nětko
+    .accesskey = N
+
+## Firefox View Spotlight
+
+firefoxview-spotlight-promo-title = Witajće k { -firefoxview-brand-name }
+firefoxview-spotlight-promo-primarybutton = Wobhladajće sej, kak to funguje
+firefoxview-spotlight-promo-secondarybutton = Přeskočić
