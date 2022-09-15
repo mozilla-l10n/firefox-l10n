@@ -323,6 +323,9 @@ quickactions-cmd-update = Leqqem
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Sken aɣbalu
 quickactions-cmd-viewsource = sken aɣbalu, aɣbalu
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Issin ugar ɣef tigawin tirurad
 
 ## Bookmark Panel
 
