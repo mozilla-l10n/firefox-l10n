@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Deze video naar voren halen
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Meer schermen is leuker. Speel deze video af in Picture-in-picture terwijl u navigeert.
+videocontrols-picture-in-picture-explainer3 = Meer schermen betekent meer plezier. Speel deze video af terwijl u andere dingen doet.
 videocontrols-error-aborted = Video laden gestopt.
 videocontrols-error-network = Video afspelen afgebroken vanwege een netwerkfout.
 videocontrols-error-decode = Video kan niet worden afgespeeld, omdat het bestand is beschadigd.
