@@ -323,6 +323,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importera från t
 mr2022-onboarding-colorway-title = Välj den färg som inspirerar dig
 mr2022-onboarding-colorway-subtitle = Oberoende röster kan förändra samhället.
 mr2022-onboarding-colorway-primary-button-label = Ange colorway
+mr2022-onboarding-colorway-primary-button-label-continue = Ställ in och fortsätt
 mr2022-onboarding-existing-colorway-checkbox-label = Gör { -firefox-home-brand-name } till din färgglada startsida
 mr2022-onboarding-colorway-label-default = Standard
 mr2022-onboarding-colorway-tooltip-default =

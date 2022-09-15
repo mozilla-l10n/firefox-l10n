@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Lyft ut den här videon
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Fler skärmar är roligare. Spela upp den här videon i bild-i-bild medan du surfar.
+videocontrols-picture-in-picture-explainer3 = Ju fler skärmar, desto roligare. Spela upp den här videon medan du gör något annat.
 videocontrols-error-aborted = Laddning av video stoppad.
 videocontrols-error-network = Avspelning av videon avbröts på grund av nätverksfel.
 videocontrols-error-decode = Video kan inte spelas eftersom filen är skadad.
