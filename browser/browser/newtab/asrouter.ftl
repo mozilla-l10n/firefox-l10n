@@ -196,3 +196,15 @@ mr2022-background-update-toast-primary-button-label = 지금 { -brand-shorter-na
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = 나중에 알림
+
+## Firefox View CFR
+
+firefoxview-cfr-primarybutton = 사용해 보기
+    .accesskey = T
+firefoxview-cfr-secondarybutton = 나중에
+    .accesskey = N
+firefoxview-cfr-header = { -firefoxview-brand-name }를 사용하여 최근에 닫은 탭을 다시 가져옵니다
+firefoxview-cfr-body = 또한 기기 간에 원활하게 전환하고 브라우저에 다채로운 색상 넣을 수 있습니다.
+
+## Firefox View Spotlight
+
