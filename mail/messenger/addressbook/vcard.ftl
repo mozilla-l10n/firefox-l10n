@@ -113,3 +113,6 @@ vcard-org-org = 組織單位資訊
 
 vcard-custom-header = 自訂屬性
 vcard-custom-add = 新增自訂屬性
+vcard-remove-button-title =
+    .title = 移除
+vcard-remove-button = 移除
