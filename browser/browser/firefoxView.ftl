@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 ყველაფერი მზ
 firefoxview-mobile-confirmation-description = ახლა კი შეგიძლიათ გადმოიტანოთ ის გვერდები, რომელთა გასახსნელადაც { -brand-product-name } გაქვთ გამოყენებული პლანშეტსა თუ ტელეფონზე.
 firefoxview-closed-tabs-title = ბოლოს დახურული
 firefoxview-closed-tabs-description = კვლავ გახსენით ამ მოწყობილობაზე დახურული გვერდები.
+firefoxview-closed-tabs-description2 = კვლავ გახსენით ამ ფანჯარაში დახურული გვერდები.
 firefoxview-closed-tabs-placeholder = <strong>ბოლოს დახურული ჩანართები არაა</strong><br/>ნუ შეგეშინდებათ დახურული ჩანართების დაკარგვის. ყოველთვის შეძლებთ აღადგინოთ აქედან.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = ბოლოს მოქმედი
