@@ -212,9 +212,12 @@ firefoxview-cfr-primarybutton = Wupruwujće jón
     .accesskey = u
 firefoxview-cfr-secondarybutton = Nic nětko
     .accesskey = N
+firefoxview-cfr-header = Wobstarajće sej začinjene rajtarki z { -firefoxview-brand-name } wróćo
 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Witajće k { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Chceće tón wočinjeny rajtark na swojim šmóratku měć? Wobstarajće sej jón. Trjebaće sydło, kotrež sće runje wopytał? Simsalabim, je z { -firefoxview-brand-name } wróćo.
 firefoxview-spotlight-promo-primarybutton = Wobhladajće sej, kak to funguje
 firefoxview-spotlight-promo-secondarybutton = Přeskočić
