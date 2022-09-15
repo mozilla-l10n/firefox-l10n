@@ -24,8 +24,10 @@ about-logins-menu-menuitem-help = ຊ່ວຍເຫຼືອ
 ## Login List
 
 login-list-sort-label-text = ຈັດຮຽງຕາມ:
+login-list-name-option = ຊື່ (A-Z)
 login-list-name-reverse-option = ຊື່ (A-Z)
 about-logins-login-list-alerts-option = ແຈ້ງເຕືອນ
+login-list-last-changed-option = ການແກ້ໄຂຄັ້ງຫລ້າສຸດ
 login-list-last-used-option = ໃຊ້ຫຼ້າສຸດ
 login-list-item-title-new-login = ເຂົ້າສູ່ລະບົບໃໝ່
 

@@ -19,6 +19,12 @@ cert-error-untrusted-default = ໃບຢັ້ງຢືນບໍ່ໄດ້ມ�
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = ລະຫັດຂໍ້ຜິດພາດ: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP ຄວາມປອດໄພການຂົນສົ່ງທີ່ເຂັ້ມງວດ: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = ສາຍໃບຮັບຮອງ:
 open-in-new-window-for-csp-or-xfo-error = ເປີດໄຊທ໌ໃນວິນໂດໃຫມ່
 

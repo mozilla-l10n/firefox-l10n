@@ -31,3 +31,9 @@ helpus = ຕ້ອງການການຊ່ວຍເຫລືອຍັງບ�
 bottomLinks-license = ຂໍ້ມູນກ່ຽວກັບລິຂະສິດ
 bottomLinks-rights = ສິດທິຂອງຜູ້ໃຊ້
 bottomLinks-privacy = ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ
+# Example of resulting string: 66.0a1 (2019-01-16) (64-bit)
+# Variables:
+#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $isodate (String): date in ISO format, e.g. 2019-01-16
+#   $bits (Number): bits of the architecture (32 or 64)
+aboutDialog-version-nightly = { $version } ({ $isodate }) ({ $bits }-bit)
