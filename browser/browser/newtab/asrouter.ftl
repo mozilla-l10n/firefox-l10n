@@ -198,3 +198,14 @@ mr2022-background-update-toast-primary-button-label = Άνοιγμα του { -b
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Υπενθύμιση αργότερα
+
+## Firefox View CFR
+
+firefoxview-cfr-primarybutton = Δοκιμή
+    .accesskey = Δ
+firefoxview-cfr-secondarybutton = Όχι τώρα
+    .accesskey = χ
+
+## Firefox View Spotlight
+
+firefoxview-spotlight-promo-secondarybutton = Παράλειψη

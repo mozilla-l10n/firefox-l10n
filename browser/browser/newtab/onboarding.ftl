@@ -325,6 +325,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Εισαγωγή 
 mr2022-onboarding-colorway-title = Επιλέξτε το χρώμα που σας εμπνέει
 mr2022-onboarding-colorway-subtitle = Οι ανεξάρτητες φωνές μπορούν να αλλάξουν τον πολιτισμό.
 mr2022-onboarding-colorway-primary-button-label = Ορισμός χρωματικού συνδυασμού
+mr2022-onboarding-colorway-primary-button-label-continue = Ορισμός και συνέχεια
 mr2022-onboarding-existing-colorway-checkbox-label = Κάντε την { -firefox-home-brand-name } σας μια πολύχρωμη αρχική σελίδα
 mr2022-onboarding-colorway-label-default = Προεπιλογή
 mr2022-onboarding-colorway-tooltip-default =
