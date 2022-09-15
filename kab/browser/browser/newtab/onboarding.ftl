@@ -324,6 +324,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Kter seg yiminig 
 mr2022-onboarding-colorway-title = Fren ini ara ak·akem-yerren deg usugnen
 mr2022-onboarding-colorway-subtitle = Tuɣac tilelliyen zemrent ad beddlent idles.
 mr2022-onboarding-colorway-primary-button-label = Sbadu afran n yini
+mr2022-onboarding-colorway-primary-button-label-continue = Sbadu syen kemmel
 mr2022-onboarding-existing-colorway-checkbox-label = Err { -firefox-home-brand-name } d asebter-ik·im agejdan s yiniten
 mr2022-onboarding-colorway-label-default = Amezwer
 mr2022-onboarding-colorway-tooltip-default =
