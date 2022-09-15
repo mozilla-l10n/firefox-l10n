@@ -4,7 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "ხელმოწერები არხზე">
-<!ENTITY learnMore.label             "იხილეთ ვრცლად, არხების შესახებ">
+<!ENTITY learnMore.label             "იხილეთ ვრცლად არხების შესახებ">
 
 <!ENTITY feedTitle.label             "სათაური:">
 <!ENTITY feedTitle.accesskey         "თ">
