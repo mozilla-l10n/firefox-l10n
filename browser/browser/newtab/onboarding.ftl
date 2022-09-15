@@ -361,6 +361,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importa dal brows
 mr2022-onboarding-colorway-title = Scegli il colore che ti ispira
 mr2022-onboarding-colorway-subtitle = Le voci indipendenti possono cambiare la società.
 mr2022-onboarding-colorway-primary-button-label = Imposta tonalità
+mr2022-onboarding-colorway-primary-button-label-continue = Imposta e continua
 mr2022-onboarding-existing-colorway-checkbox-label = Utilizza { -firefox-home-brand-name } per una pagina iniziale multicolore
 
 mr2022-onboarding-colorway-label-default = Predefinito
