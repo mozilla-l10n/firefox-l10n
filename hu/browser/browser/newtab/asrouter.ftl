@@ -211,4 +211,6 @@ firefoxview-cfr-body = Ezenkívül zökkenőmentesen válthat az eszközök köz
 
 ## Firefox View Spotlight
 
-firefoxview-spotlight-promo-title = Köszöntsd a következőt: { -firefoxview-brand-name }sel
+firefoxview-spotlight-promo-title = Köszöntse a { -firefoxview-brand-name }t
+firefoxview-spotlight-promo-primarybutton = Nézze meg a működését
+firefoxview-spotlight-promo-secondarybutton = Kihagyás
