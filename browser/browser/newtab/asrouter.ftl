@@ -235,3 +235,21 @@ mr2022-background-update-toast-primary-button-label = Apri { -brand-shorter-name
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Ricorda più tardi
+
+## Firefox View CFR
+
+firefoxview-cfr-primarybutton = Provalo
+  .accesskey = P
+firefoxview-cfr-secondarybutton = Non adesso
+  .accesskey = N
+firefoxview-cfr-header = Riprendi le schede chiuse di recente con { -firefoxview-brand-name }
+firefoxview-cfr-body = In più, passa velocemente da un dispositivo all’altro e aggiungi un tocco di colore al tuo browser.
+
+## Firefox View Spotlight
+
+firefoxview-spotlight-promo-title = Ti presentiamo { -firefoxview-brand-name }
+
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Ti serve proprio quella scheda aperta sul tuo telefono? Recuperala al volo. Hai bisogno di un sito che hai appena visitato? Lo trovi in { -firefoxview-brand-name }.
+firefoxview-spotlight-promo-primarybutton = Scopri come funziona
+firefoxview-spotlight-promo-secondarybutton = Salta
