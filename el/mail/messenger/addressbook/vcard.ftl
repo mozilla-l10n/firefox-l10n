@@ -113,3 +113,6 @@ vcard-org-org = Οργανισμός
 
 vcard-custom-header = Προσαρμοσμένες ιδιότητες
 vcard-custom-add = Προσθήκη προσαρμοσμένων ιδιοτήτων
+vcard-remove-button-title =
+    .title = Αφαίρεση
+vcard-remove-button = Αφαίρεση
