@@ -323,6 +323,9 @@ quickactions-cmd-update = atualizar
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Ver código-fonte
 quickactions-cmd-viewsource = ver fonte, fonte
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Saiba mais sobre ações rápidas
 
 ## Bookmark Panel
 
