@@ -173,3 +173,29 @@ spotlight-pin-primary-button =
        *[other] სამუშაო ზოლზე მიმაგრება
     }
 spotlight-pin-secondary-button = ახლა არა
+
+## MR2022 Background Update Windows native toast notification strings.
+##
+## These strings will be displayed by the Windows operating system in
+## a native toast, like:
+##
+## <b>multi-line title</b>
+## multi-line text
+## <img>
+## [ primary button ] [ secondary button ]
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+mr2022-background-update-toast-title = ახალი { -brand-short-name }. მეტად პირადი. ნაკლები მეთვალყურეები. არანაირი დათმობა.
+mr2022-background-update-toast-text = მოსინჯეთ უახლესი { -brand-short-name } დაუყოვნებლივ, თვალთვალისგან არნახულად მძლავრი დაცვით აღჭურვილი.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = გახსენით { -brand-shorter-name } ახლავე
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = მოგვიანებით შეხსენება

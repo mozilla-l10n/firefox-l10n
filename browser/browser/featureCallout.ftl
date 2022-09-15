@@ -18,3 +18,8 @@ callout-firefox-view-recently-closed-subtitle = ყველა თქვენ�
 callout-firefox-view-colorways-title = შეაფრქვიეთ ფერები
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = შეარჩიეთ ელფერი ახალი შეფერილობით. გთავაზობთ მხოლოდ { -brand-product-name }.
+callout-firefox-view-colorways-reminder-title = გაეცანით ჩვენს ახალ შეფერილობებს
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = დაიწყეთ
