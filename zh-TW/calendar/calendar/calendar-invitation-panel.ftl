@@ -6,9 +6,19 @@
 # $organizer (String) - The participant that created the original invitation.
 calendar-invitation-panel-intro = { $organizer } 已邀請您參加:
 # Variables:
+# $organizer (String) - The participant that updated the original invitation.
+calendar-invitation-panel-intro-update = { $organizer } 已更新:
+# Variables:
+# $organizer (String) - The participant that cancelled the invitation.
+calendar-invitation-panel-intro-cancel = { $organizer } 已取消:
+# Variables:
 # $summary (String) - A short summary or title of the event.
 calendar-invitation-panel-title = { $summary }
 calendar-invitation-panel-action-button = 儲存
+calendar-invitation-panel-save-button = 儲存
+calendar-invitation-panel-view-button = 檢視
+calendar-invitation-panel-update-button = 更新
+calendar-invitation-panel-delete-button = 刪除
 calendar-invitation-panel-accept-button = 參加
 calendar-invitation-panel-decline-button = 不參加
 calendar-invitation-panel-tentative-button = 也許會參加
