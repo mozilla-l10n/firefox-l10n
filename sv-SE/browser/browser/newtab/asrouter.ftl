@@ -173,3 +173,46 @@ spotlight-pin-primary-button =
        *[other] Fäst till aktivitetsfältet
     }
 spotlight-pin-secondary-button = Inte nu
+
+## MR2022 Background Update Windows native toast notification strings.
+##
+## These strings will be displayed by the Windows operating system in
+## a native toast, like:
+##
+## <b>multi-line title</b>
+## multi-line text
+## <img>
+## [ primary button ] [ secondary button ]
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+mr2022-background-update-toast-title = Nya { -brand-short-name }. Mer privat. Färre spårare. Inga kompromisser.
+mr2022-background-update-toast-text = Prova den senaste { -brand-short-name } nu, uppgraderad med vårt starkaste antispårningsskydd hittills.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Öppna { -brand-shorter-name } nu
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Påminn mig senare
+
+## Firefox View CFR
+
+firefoxview-cfr-primarybutton = Prova den
+    .accesskey = P
+firefoxview-cfr-secondarybutton = Inte nu
+    .accesskey = n
+firefoxview-cfr-header = Få tillbaka nyligen stängda flikar men { -firefoxview-brand-name }
+firefoxview-cfr-body = Byt dessutom snabbt mellan enheter och lägg till en färgklick i din webbläsare.
+
+## Firefox View Spotlight
+
+firefoxview-spotlight-promo-title = Säg hej till { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Vill du ha den öppna fliken på din telefon? Hämta den i farten. Behöver du en sida du just har besökt? Hitta den i { -firefoxview-brand-name }.
+firefoxview-spotlight-promo-primarybutton = Se hur det fungerar
+firefoxview-spotlight-promo-secondarybutton = Hoppa över

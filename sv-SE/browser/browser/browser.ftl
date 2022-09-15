@@ -323,6 +323,9 @@ quickactions-cmd-update = uppdatera
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Visa källa
 quickactions-cmd-viewsource = visa källa, källa
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Läs mer om snabbåtgärder
 
 ## Bookmark Panel
 
