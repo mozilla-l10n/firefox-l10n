@@ -161,6 +161,7 @@ cfr-total-cookie-protection-body = הגנת עוגיות מלאה היא הגנ�
 
 spotlight-better-internet-header = אינטרנט טוב יותר מתחיל בך
 spotlight-better-internet-body = הבחירה להשתמש ב־{ -brand-short-name } משמעה הצבעה עבור אינטרנט פתוח ונגיש שטוב יותר לכולם.
+spotlight-peace-mind-body = בכל חודש, { -brand-short-name } חוסם בממוצע למעלה מ־3,000 רכיבי מעקב למשתמש. כי שום דבר, במיוחד מטרדי פרטיות כמו רכיבי מעקב, לא צריך לעמוד בינך לבין האינטרנט הטוב.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] שמירה ב־Dock
@@ -193,3 +194,12 @@ mr2022-background-update-toast-primary-button-label = פתיחת { -brand-shorte
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = להזכיר לי מאוחר יותר
+
+## Firefox View CFR
+
+firefoxview-cfr-secondarybutton = לא כעת
+    .accesskey = ל
+
+## Firefox View Spotlight
+
+firefoxview-spotlight-promo-title = תגידו שלום ל־{ -firefoxview-brand-name }
