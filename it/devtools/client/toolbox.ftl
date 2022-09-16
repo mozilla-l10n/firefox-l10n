@@ -45,3 +45,8 @@ toolbox-mode-parent-process-label = Solo processo parent
 toolbox-mode-parent-process-sub-label = (veloce)
 toolbox-mode-parent-process-container =
   .title = Esamina solo le risorse dal processo parent.
+
+toolbox-always-on-top-enabled =
+  .title = Disattiva Sempre in primo piano (gli strumenti di sviluppo verranno riavviati)
+toolbox-always-on-top-disabled =
+  .title = Attiva Sempre in primo piano (gli strumenti di sviluppo verranno riavviati)
