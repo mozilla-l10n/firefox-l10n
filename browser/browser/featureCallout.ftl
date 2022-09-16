@@ -12,6 +12,8 @@ callout-primary-complete-button-label = තේරුණා!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = පටිති ඇහිඳීම සමඟ උපාංග අතර පනින්න
+callout-firefox-view-recently-closed-title = ඔබ වසා දැමූ පටිති වෙත සැණකින් ආපසු යන්න
+callout-firefox-view-recently-closed-subtitle = ඔබ වසා දැමූ පටිති සියල්ල මායාවක් මෙන් මෙහි දිස්වනු ඇත. අහම්බයෙන් අඩවි වැසී යාම පිළිබඳව තවදුරටත් කරදර නොවන්න.
 callout-firefox-view-colorways-title = වර්ණ කැලතීමක් යොදන්න
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = වර්ණ පරාස සමඟ ඔබට කතා කරන ඡායාව තෝරන්න. { -brand-product-name } හි පමණි.
@@ -19,3 +21,4 @@ callout-firefox-view-colorways-subtitle = වර්ණ පරාස සමඟ �
 ## Continuous Onboarding - Firefox View: Tab pick up
 
 continuous-onboarding-firefox-view-tab-pickup-subtitle = ඕනෑම උපාංගයකින් ඔබගේ විවෘත පටිති වෙත ප්‍රවේශ වන්න. තවද පොත්යොමු, මුරපද සහ තවත් දෑ සමමුහූර්ත කරන්න.
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = පටන් ගන්න
