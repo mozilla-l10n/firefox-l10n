@@ -187,8 +187,30 @@ spotlight-pin-secondary-button = Daha sonra
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = Yeni { -brand-short-name }. Daha çok gizlilik. Daha az izleyici.
+mr2022-background-update-toast-text = Bugüne kadarki en güçlü izlenme korumamızla güncellenen en yeni { -brand-short-name }’u şimdi deneyin.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = { -brand-shorter-name }’u açın
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Daha sonra hatırlat
+
+## Firefox View CFR
+
+firefoxview-cfr-primarybutton = Deneyin
+    .accesskey = D
+firefoxview-cfr-secondarybutton = Daha sonra
+    .accesskey = s
+firefoxview-cfr-header = { -firefoxview-brand-name } ile son kapattığınız sekmeleri kurtarın
+firefoxview-cfr-body = Ayrıca cihazlar arasında sorunsuzca geçiş yapın ve tarayıcınıza renk katın.
+
+## Firefox View Spotlight
+
+firefoxview-spotlight-promo-title = { -firefoxview-brand-name }’a merhaba deyin
+firefoxview-spotlight-promo-primarybutton = Nasıl çalıştığını görün
+firefoxview-spotlight-promo-secondarybutton = Geç
