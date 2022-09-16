@@ -42,3 +42,7 @@ toolbox-mode-parent-process-label = Alleen bovenliggend proces
 toolbox-mode-parent-process-sub-label = (Snel)
 toolbox-mode-parent-process-container =
     .title = Alleen focussen op bronnen uit het bovenliggende proces.
+toolbox-always-on-top-enabled =
+    .title = Altijd bovenaan uitschakelen (hiermee worden de Ontwikkelaarshulpmiddelen opnieuw gestart)
+toolbox-always-on-top-disabled =
+    .title = Altijd bovenaan inschakelen (hiermee worden de Ontwikkelaarshulpmiddelen opnieuw gestart)
