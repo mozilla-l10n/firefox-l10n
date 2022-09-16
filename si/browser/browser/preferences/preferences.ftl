@@ -155,6 +155,16 @@ browser-containers-settings =
     .label = සැකසුම්…
     .accesskey = i
 containers-disable-alert-title = සියළු පටිති අඩංගු වසන්නද?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] ඔබ දැන් පටිති අඩංගු අබල කළහොත්, පටිති අඩංගු { $tabCount } ක් වසා දමනු ඇත. ඔබට පටිති අඩංගු අබල කිරීමට වුවමනා ද?
+       *[other] ඔබ දැන් පටිති අඩංගු අබල කළහොත්, පටිති අඩංගු { $tabCount } ක් වසා දමනු ඇත. ඔබට පටිති අඩංගු අබල කිරීමට වුවමනා ද?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] පටිති අඩංගු { $tabCount } ක් වසන්න
+       *[other] පටිති අඩංගු { $tabCount } ක් වසන්න
+    }
 containers-disable-alert-cancel-button = සබලව තබන්න
 containers-remove-alert-title = මෙම අඩංගුව ඉවත් කරන්නද?
 containers-remove-ok-button = මෙම අඩංගුව ඉවත් කරන්න
