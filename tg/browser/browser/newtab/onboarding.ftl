@@ -324,6 +324,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Ворид кар
 mr2022-onboarding-colorway-title = Ранги илҳомбахши худро интихоб намоед
 mr2022-onboarding-colorway-subtitle = Овозҳои мустақил метавонанд фарҳанги браузерро тағйир диҳанд.
 mr2022-onboarding-colorway-primary-button-label = Татбиқи нақшу нигор
+mr2022-onboarding-colorway-primary-button-label-continue = Танзим кунед ва идома диҳед
 mr2022-onboarding-existing-colorway-checkbox-label = Бигузор { -firefox-home-brand-name } саҳифаи асосии рангини шумо шавад
 mr2022-onboarding-colorway-label-default = Пешфарз
 mr2022-onboarding-colorway-tooltip-default =

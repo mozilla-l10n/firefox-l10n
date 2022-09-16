@@ -198,3 +198,17 @@ mr2022-background-update-toast-primary-button-label = «{ -brand-shorter-name }�
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Баъдтар ёдоварӣ кунед
+
+## Firefox View CFR
+
+firefoxview-cfr-primarybutton = Озмоед
+    .accesskey = О
+firefoxview-cfr-secondarybutton = Ҳоло не
+    .accesskey = Ҳ
+firefoxview-cfr-header = Ҳамаи варақаҳои ба наздикӣ пушидашударо тавассути «{ -firefoxview-brand-name }» барқарор кунед
+
+## Firefox View Spotlight
+
+firefoxview-spotlight-promo-title = Ба «{ -firefoxview-brand-name }» салом гӯед
+firefoxview-spotlight-promo-primarybutton = Бинед, ки он чӣ тавр кор мекунад
+firefoxview-spotlight-promo-secondarybutton = Нодида гузарондан
