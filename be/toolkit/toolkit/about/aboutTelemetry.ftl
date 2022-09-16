@@ -5,7 +5,7 @@
 about-telemetry-ping-data-source = Крыніца дадзеных пінга:
 about-telemetry-show-current-data = Бягучыя дадзеныя
 about-telemetry-show-archived-ping-data = Дадзеныя архіўнага пінга
-about-telemetry-show-subsession-data = Адлюстроўваць дадзеныя падсесіі
+about-telemetry-show-subsession-data = Адлюстроўваць дадзеныя падсеанса
 about-telemetry-choose-ping = Выберыце пінг:
 about-telemetry-archive-ping-type = Тып пінгу
 about-telemetry-archive-ping-header = Пінг
@@ -25,7 +25,7 @@ about-telemetry-show-in-Firefox-json-viewer = Адкрыць у прагляда
 about-telemetry-home-section = Хатняя старонка
 about-telemetry-general-data-section = Агульныя дадзеныя
 about-telemetry-environment-data-section = Дадзеныя асяроддзя
-about-telemetry-session-info-section = Інфармацыя сесіі
+about-telemetry-session-info-section = Інфармацыя аб сеансе
 about-telemetry-scalar-section = Скаляры
 about-telemetry-keyed-scalar-section = Ключавыя скаляры
 about-telemetry-histograms-section = Гістаграмы
