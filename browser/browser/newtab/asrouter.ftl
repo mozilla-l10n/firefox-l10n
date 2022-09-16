@@ -170,3 +170,46 @@ spotlight-pin-primary-button =
        *[other] Sematkan ke bilah tugas
     }
 spotlight-pin-secondary-button = Jangan sekarang
+
+## MR2022 Background Update Windows native toast notification strings.
+##
+## These strings will be displayed by the Windows operating system in
+## a native toast, like:
+##
+## <b>multi-line title</b>
+## multi-line text
+## <img>
+## [ primary button ] [ secondary button ]
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+mr2022-background-update-toast-title = { -brand-short-name } baru. Lebih pribadi. Lebih sedikit pelacak. Tanpa kompromi.
+mr2022-background-update-toast-text = Coba { -brand-short-name } terbaru sekarang, dengan peningkatan atas perlindungan anti-pelacakan terkuat kami.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Buka { -brand-shorter-name } Sekarang
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Ingatkan Saya nanti
+
+## Firefox View CFR
+
+firefoxview-cfr-primarybutton = Coba sekarang
+    .accesskey = C
+firefoxview-cfr-secondarybutton = Jangan sekarang
+    .accesskey = J
+firefoxview-cfr-header = Dapatkan kembali tab yang baru saja ditutup dengan { -firefoxview-brand-name }
+firefoxview-cfr-body = Plus, berpindah perangkat dengan mulus dan tambahkan percikan warna ke peramban Anda.
+
+## Firefox View Spotlight
+
+firefoxview-spotlight-promo-title = Mari menyambut { -firefoxview-brand-name }.
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Ingin mendapatkan tab terbuka di ponsel Anda? Buka saja. Perlu situs yang baru saja dikunjungi? Tentu! Langsung kembali dengan { -firefoxview-brand-name }.
+firefoxview-spotlight-promo-primarybutton = Lihat cara kerjanya
+firefoxview-spotlight-promo-secondarybutton = Lewati

@@ -325,6 +325,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Impor dari peramb
 mr2022-onboarding-colorway-title = Pilih warna yang menginspirasi Anda
 mr2022-onboarding-colorway-subtitle = Suara independen dapat mengubah budaya.
 mr2022-onboarding-colorway-primary-button-label = Atur ragam warna
+mr2022-onboarding-colorway-primary-button-label-continue = Setel dan lanjutkan
 mr2022-onboarding-existing-colorway-checkbox-label = Jadikan { -firefox-home-brand-name } beranda penuh warna
 mr2022-onboarding-colorway-label-default = Bawaan
 mr2022-onboarding-colorway-tooltip-default =

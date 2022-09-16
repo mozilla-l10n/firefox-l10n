@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Munculkan video ini
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Lebih banyak layar lebih menyenangkan. Putar video ini dalam Gambar-dalam-Gambar saat menjelajah.
+videocontrols-picture-in-picture-explainer3 = Lebih banyak layar, lebih banyak kegembiraan. Putar video ini sambil melakukan hal lain.
 videocontrols-error-aborted = Pemuatan video dihentikan.
 videocontrols-error-network = Pemutaran video dibatalkan karena ada galat jaringan.
 videocontrols-error-decode = Video tidak dapat diputar karena berkasnya rusak.

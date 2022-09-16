@@ -17,8 +17,8 @@ callout-firefox-view-recently-closed-title = Dapatkan kembali tab tertutup Anda 
 callout-firefox-view-recently-closed-subtitle = Semua tab tertutup Anda akan secara ajaib muncul di sini. Tak perlu khawatir lagi akan menutup situs secara tidak sengaja.
 callout-firefox-view-colorways-title = Tambahkan percikan warna
 # "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Pilih warna yang berbicara dengan Anda dengan colorways. Hanya di { -brand-product-name }.
-callout-firefox-view-colorways-reminder-title = Jelajahi colorway terbaru kami
+callout-firefox-view-colorways-subtitle = Pilih warna yang berbicara dengan Anda dengan ragam warna. Hanya di { -brand-product-name }.
+callout-firefox-view-colorways-reminder-title = Jelajahi ragam warna terbaru kami
 # “Shades” refers to the different color options in each colorways
 callout-firefox-view-colorways-reminder-subtitle = Warnai peramban Anda dengan nuansa ikonik ini, terinspirasi oleh suara independen. Hanya di { -brand-product-name }.
 
