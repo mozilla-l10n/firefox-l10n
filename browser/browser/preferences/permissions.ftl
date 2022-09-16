@@ -5,69 +5,61 @@
 permissions-window =
     .title = మినహాయింపులు
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = వెబ్‌సైటు చిరునామా
     .accesskey = d
-
 permissions-block =
     .label = నిరోధించు
     .accesskey = B
-
 permissions-session =
     .label = ఈ సెషనుకి అనుమతించు
     .accesskey = S
-
 permissions-allow =
     .label = అనుమతించు
     .accesskey = A
-
+permissions-button-off =
+    .label = ఆపివేయి
+    .accesskey = O
+permissions-button-off-temporarily =
+    .label = తాత్కాలికంగా ఆపివేయి
+    .accesskey = T
 permissions-site-name =
     .label = వెబ్‌సైటు
-
 permissions-status =
     .label = స్థితి
-
 permissions-remove =
     .label = వెబ్‌సైటును తీసివేయి
     .accesskey = R
-
 permissions-remove-all =
     .label = వెబ్‌సైట్లన్నీ తీసివేయి
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = మార్పులను భద్రపరచు
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = వెబ్‌సైట్లన్నిటికీ అప్రమేయం:
-
 permissions-searchbox =
     .placeholder = వెబ్‌సైట్లను వెతకండి
-
 permissions-capabilities-autoplay-allow =
     .label = ఆడియో, వీడియోలను అనుమతించు
 permissions-capabilities-autoplay-block =
     .label = ఆడియోను నిరోధించు
 permissions-capabilities-autoplay-blockall =
     .label = ఆడియో, వీడియోలను నిరోధించు
-
 permissions-capabilities-allow =
     .label = అనుమతించు
 permissions-capabilities-block =
     .label = నిరోధించు
 permissions-capabilities-prompt =
     .label = ఎల్లప్పుడూ అడుగు
-
 permissions-capabilities-listitem-allow =
     .value = అనుమతించు
 permissions-capabilities-listitem-block =
     .value = నిరోధించు
 permissions-capabilities-listitem-allow-session =
     .value = సెషనుకి అనుమతించు
-
+permissions-capabilities-listitem-off =
+    .value = అచేతనం
 permissions-capabilities-listitem-off-temporarily =
     .value = తాత్కాలికంగా ఆపివేయి
 
