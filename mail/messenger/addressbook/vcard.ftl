@@ -108,8 +108,12 @@ vcard-org-add = Agregar propiedad de organización
 vcard-org-title = Título
 vcard-org-role = Rol
 vcard-org-org = Organización
+vcard-org-org-unit = Departamento
 
 # Custom properties
 
 vcard-custom-header = Propiedades personalizadas
 vcard-custom-add = Agregar propiedades personalizadas
+vcard-remove-button-title =
+    .title = Eliminar
+vcard-remove-button = Eliminar
