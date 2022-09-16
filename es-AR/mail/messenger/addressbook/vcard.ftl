@@ -106,10 +106,26 @@ vcard-note-add = Agregar nota
 vcard-org-header = Propiedades organizativas
 vcard-org-add = Agregar propiedades organizativas
 vcard-org-title = Título
+vcard-org-title-input =
+    .title = Puesto o trabajo
+    .placeholder = Título del puesto
 vcard-org-role = Rol
+vcard-org-role-input =
+    .title = Función o papel jugado en una situación particular
+    .placeholder = Rol en un proyecto
 vcard-org-org = Organización
+vcard-org-org-input =
+    .title = Nombre de la organización
+    .placeholder = Nombre de la compañía
+vcard-org-org-unit = Departamento
+vcard-org-org-unit-input =
+    .title = Nombre de la unidad de la Organización
+    .placeholder = Departamento
 
 # Custom properties
 
 vcard-custom-header = Propiedades personalizadas
 vcard-custom-add = Agregar propiedades personalizadas
+vcard-remove-button-title =
+    .title = Eliminar
+vcard-remove-button = Eliminar
