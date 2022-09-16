@@ -232,7 +232,7 @@ preferences-zoom-text-only =
     .label = පෙළ පමණක් විශාලනය
     .accesskey = t
 language-header = භාෂාව
-choose-language-description = පිටු පෙන්වීම සඳහා ඔබ කැමති භාෂාව තෝරන්න
+choose-language-description = පිටු පෙන්වීම සඳහා ඔබ කැමති භාෂාවක් තෝරන්න
 choose-button =
     .label = තෝරන්න…
     .accesskey = o
@@ -254,9 +254,9 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = දින, වේලා, අංක, සහ මිනුම් ආකෘතිකරණයට “{ $localeName }” සඳහා ඔබගේ මෙහෙයුම් පද්ධතියේ සැකසුම් භාවිතා කරන්න.
+    .label = “{ $localeName }” සඳහා මෙහෙයුම් පද්ධතියේ සැකසුම් යොදා ගන්න. (උදා. දින, වේලා, අංක, හා මිනුම්)
 check-user-spelling =
-    .label = ඔබ ලියන විට අකුරු වින්‍යාසය බලන්න
+    .label = ඔබ ලියන විට අකුරු වින්‍යාසය පරීක්‍ෂා කරන්න
     .accesskey = t
 
 ## General Section - Files and Applications
