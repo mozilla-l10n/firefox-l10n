@@ -106,8 +106,21 @@ vcard-note-add = Notitie toevoegen
 vcard-org-header = Organisatie-eigenschappen
 vcard-org-add = Organisatie-eigenschappen toevoegen
 vcard-org-title = Titel
+vcard-org-title-input =
+    .title = Positie of functie
+    .placeholder = Functietitel
 vcard-org-role = Rol
+vcard-org-role-input =
+    .title = Functie of rol in een bepaalde situatie
+    .placeholder = Projectrol
 vcard-org-org = Organisatie
+vcard-org-org-input =
+    .title = Organisatienaam
+    .placeholder = Bedrijfsnaam
+vcard-org-org-unit = Afdeling
+vcard-org-org-unit-input =
+    .title = Naam organisatorische eenheid
+    .placeholder = Afdeling
 
 # Custom properties
 
