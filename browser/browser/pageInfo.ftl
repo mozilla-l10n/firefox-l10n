@@ -4,22 +4,18 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
-
 copy =
     .key = C
 menu-copy =
     .label = 复制
     .accesskey = C
-
 select-all =
     .key = A
 menu-select-all =
     .label = 全选
     .accesskey = A
-
 close-dialog =
     .key = w
-
 general-tab =
     .label = 常规
     .accesskey = G
@@ -43,7 +39,6 @@ general-meta-name =
     .label = 名称
 general-meta-content =
     .label = 内容
-
 media-tab =
     .label = 媒体
     .accesskey = M
@@ -65,19 +60,20 @@ media-dimension =
     .value = 尺寸：
 media-long-desc =
     .value = 详细描述：
+media-select-all =
+    .label = 全选
+    .accesskey = e
 media-save-as =
     .label = 另存为…
     .accesskey = A
 media-save-image-as =
     .label = 另存为…
     .accesskey = e
-
 perm-tab =
     .label = 权限
     .accesskey = P
 permissions-for =
     .value = 权限，对于:
-
 security-tab =
     .label = 安全
     .accesskey = S
@@ -98,22 +94,17 @@ security-view-identity-validity =
     .value = 过期时间：
 security-view-privacy =
     .value = 隐私和历史记录
-
 security-view-privacy-history-value = 我之前访问过该网站吗？
 security-view-privacy-sitedata-value = 此网站在我的计算机上存储了信息吗？
-
 security-view-privacy-clearsitedata =
     .label = 清除 Cookie 和网站数据
     .accesskey = C
-
 security-view-privacy-passwords-value = 我保存过该网站的任何密码吗？
-
 security-view-privacy-viewpasswords =
     .label = 查看已保存的密码
     .accesskey = w
 security-view-technical =
     .value = 技术细节
-
 help-button =
     .label = 帮助
 
@@ -125,7 +116,6 @@ help-button =
 
 security-site-data-cookies = 有，Cookie 和 { $value } { $unit } 网站数据
 security-site-data-only = 有，{ $value } { $unit } 网站数据
-
 security-site-data-cookies-only = 有，Cookie
 security-site-data-no = 无
 
@@ -149,7 +139,6 @@ media-video = 视频
 media-audio = 音频
 saved-passwords-yes = 是
 saved-passwords-no = 否
-
 no-page-title =
     .value = 无标题页
 general-quirks-mode =
@@ -164,7 +153,6 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = 使用默认设置
 security-no-visits = 否
-
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -175,7 +163,6 @@ general-meta-tags =
             [one] 元信息（1 个标签）
            *[other] 元信息（{ $tags } 个标签）
         }
-
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -186,7 +173,6 @@ security-visits-number =
         [one] 是，1 次
        *[other] 是，{ $visits } 次
     }
-
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -197,7 +183,6 @@ properties-general-size =
             [one] { $kb } KB ({ $bytes } 字节)
            *[other] { $kb } KB ({ $bytes } 字节)
         }
-
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -209,14 +194,12 @@ media-animated-image-type =
             [one] { $type } 图像（动画，{ $frames } 帧）
            *[other] { $type } 图像（动画，{ $frames } 帧）
         }
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } 图像
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -226,20 +209,17 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (缩放至 { $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
-
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -247,7 +227,6 @@ media-file-size = { $size } KB
 media-block-image =
     .label = 拦截来自 { $website } 的图像
     .accesskey = B
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

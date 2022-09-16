@@ -307,6 +307,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = 从先前所用�
 mr2022-onboarding-colorway-title = 选择您心动的配色
 mr2022-onboarding-colorway-subtitle = 凡人之声，文化之根
 mr2022-onboarding-colorway-primary-button-label = 设置配色
+mr2022-onboarding-colorway-primary-button-label-continue = 设置并继续
 mr2022-onboarding-existing-colorway-checkbox-label = 将“{ -firefox-home-brand-name }”设为您的多彩主页
 mr2022-onboarding-colorway-label-default = 默认
 mr2022-onboarding-colorway-tooltip-default =
