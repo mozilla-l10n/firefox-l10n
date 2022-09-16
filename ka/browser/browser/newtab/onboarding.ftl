@@ -268,7 +268,7 @@ mr2022-onboarding-secondary-skip-button-label = გამოტოვება
 # In this context, open up is synonymous with "Discover".
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
-mr2022-onboarding-welcome-pin-header = გახსენით საოცარი ინტერნეტსამყაროს კარი
+mr2022-onboarding-welcome-pin-header = შეაღეთ საოცარი ინტერნეტსამყაროს კარი
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
 mr2022-onboarding-welcome-pin-subtitle = გაუშვით { -brand-short-name } ერთი შეხებით. ყოველ ჯერზე ამის გაკეთებისას, თქვენ ირჩევთ მეტად ღია და დამოუკიდებელ ინტერნეტს.
 # Primary button string used on welcome page for when Firefox is not pinned.
@@ -385,7 +385,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = დაწვრ�
 
 ## MR2022 Multistage Gratitude screen strings
 
-mr2022-onboarding-gratitude-title = თქვენ გვეხმარებით უკეთესი ვებსამყაროს შექმნაში.
+mr2022-onboarding-gratitude-title = თქვენ გვეხმარებით უკეთესი ვებსამყაროს შექმნაში
 mr2022-onboarding-gratitude-subtitle = გმადლობთ, რომ აირჩიეთ { -brand-short-name }, არამომგებიანი Mozilla-ფონდისგან. თქვენი მხარდაჭერით შევძლებთ, რომ ინტერნეტი გავხადოთ მეტად ღია, უკეთესი და საყოველთაოდ ხელმისაწვდომი.
 mr2022-onboarding-gratitude-primary-button-label = გაეცანით სიახლეებს
 mr2022-onboarding-gratitude-secondary-button-label = დაიწყეთ მოგზაურობა ინტერნეტში
