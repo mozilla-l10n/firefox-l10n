@@ -19,6 +19,7 @@ cert-error-untrusted-default = ໃບຢັ້ງຢືນບໍ່ໄດ້ມ�
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = ລະຫັດຂໍ້ຜິດພາດ: <a data-l10n-name="error-code-link">{ $error }</a>
+cert-error-symantec-distrust-admin = ທ່ານອາດຈະແຈ້ງໃຫ້ຜູ້ເບິ່ງແຍງຂອງເວັບໄຊທ໌ກ່ຽວກັບບັນຫານີ້.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP ຄວາມປອດໄພການຂົນສົ່ງທີ່ເຂັ້ມງວດ: { $hasHSTS }
