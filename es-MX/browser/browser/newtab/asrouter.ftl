@@ -189,6 +189,11 @@ spotlight-pin-secondary-button = Ahora no
 
 mr2022-background-update-toast-text = Prueba el nuevo { -brand-short-name } ahora, mejorado con nuestra protección anti-rastreo más fuerte hasta el momento.
 # This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Abrir { -brand-shorter-name } ahora
+# This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
