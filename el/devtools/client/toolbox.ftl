@@ -42,3 +42,7 @@ toolbox-mode-parent-process-label = Μόνο γονική διεργασία
 toolbox-mode-parent-process-sub-label = (Γρήγορο)
 toolbox-mode-parent-process-container =
     .title = Εστίαση μόνο σε πόρους από τη γονική διεργασία.
+toolbox-always-on-top-enabled =
+    .title = Απενεργοποίηση προβολής πάντα σε πρώτο πλάνο (Θα επανεκκινηθούν τα εργαλεία ανάπτυξης)
+toolbox-always-on-top-disabled =
+    .title = Ενεργοποίηση προβολής πάντα σε πρώτο πλάνο (Θα επανεκκινηθούν τα εργαλεία ανάπτυξης)
