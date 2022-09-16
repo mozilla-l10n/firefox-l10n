@@ -226,7 +226,7 @@ mr2-onboarding-start-browsing-button-label = გვერდების მო�
 
 onboarding-live-language-header = აირჩიეთ თქვენი ენა
 mr2022-onboarding-live-language-text = { -brand-short-name } თქვენს ენაზე ლაპარაკობს
-mr2022-language-mismatch-subtitle = ჩვენი ერთობის წევრების დამსახურებით, { -brand-short-name } ნათარგმნია 90-ზე მეტ ენაზე. როგორც ჩანს, თქვენი სისტემის ენად მითითებულია { $systemLanguage }, ხოლო { -brand-short-name } არის { $appLanguage }.
+mr2022-language-mismatch-subtitle = ჩვენი ერთობის წევრების დამსახურებით { -brand-short-name } ნათარგმნია 90-ზე მეტ ენაზე. როგორც ჩანს, თქვენი სისტემის ენად მითითებულია { $systemLanguage }, ხოლო { -brand-short-name } არის { $appLanguage }.
 onboarding-live-language-button-label-downloading = ჩამოიტვირთება ენის კრებულად { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = ხელმისაწვდომი ენების მოძიება…
 onboarding-live-language-installing = ჩაიდგმება ენის კრებულად { $negotiatedLanguage }…
@@ -270,7 +270,7 @@ mr2022-onboarding-secondary-skip-button-label = გამოტოვება
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = შეაღეთ საოცარი ინტერნეტსამყაროს კარი
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
-mr2022-onboarding-welcome-pin-subtitle = გაუშვით { -brand-short-name } ერთი შეხებით. ყოველ ჯერზე ამის გაკეთებისას, თქვენ ირჩევთ მეტად ღია და დამოუკიდებელ ინტერნეტს.
+mr2022-onboarding-welcome-pin-subtitle = გაუშვით { -brand-short-name } ერთი შეხებით. ყოველ ჯერზე ამის გაკეთებისას თქვენ ირჩევთ მეტად ღია და დამოუკიდებელ ინტერნეტს.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
