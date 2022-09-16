@@ -324,6 +324,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Önceki tarayıc�
 mr2022-onboarding-colorway-title = Size ilham veren rengi seçin
 mr2022-onboarding-colorway-subtitle = Bağımsız sesler kültürü değiştirebilir.
 mr2022-onboarding-colorway-primary-button-label = Renk kuşağını ayarla
+mr2022-onboarding-colorway-primary-button-label-continue = Ayarla ve devam et
 mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } renkli giriş sayfanız olsun
 mr2022-onboarding-colorway-label-default = Varsayılan
 mr2022-onboarding-colorway-tooltip-default =
