@@ -42,3 +42,7 @@ toolbox-mode-parent-process-label = 부모 프로세스만
 toolbox-mode-parent-process-sub-label = (빠름)
 toolbox-mode-parent-process-container =
     .title = 부모 프로세스의 리소스에만 집중하세요.
+toolbox-always-on-top-enabled =
+    .title = 항상 맨 위에 비활성화 (개발자 도구가 다시 시작됨)
+toolbox-always-on-top-disabled =
+    .title = 항상 맨 위에 활성화 (개발자 도구가 다시 시작됨)
