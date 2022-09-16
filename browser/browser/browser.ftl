@@ -232,15 +232,16 @@ search-one-offs-history =
     .tooltiptext = చరిత్ర ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
-
-
-## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the bookmarks library window
+quickactions-bookmarks = ఇష్టాంశాలను చూడండి
 quickactions-cmd-bookmarks = ఇష్టాంశాలు
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = చరిత్రను తుడిచివేయి
+# Opens about:downloads page
+quickactions-downloads = దింపుకోళ్ళను తెరువు
 quickactions-cmd-downloads = దింపుకోళ్ళు
 # Opens about:preferences
 quickactions-settings = అమరికలను తెరువు

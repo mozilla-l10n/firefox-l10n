@@ -229,6 +229,7 @@ about-logins-import-file-picker-tsv-filter-title =
 about-logins-import-dialog-title = దిగుమతి పూర్తయింది
 about-logins-import-dialog-done = పూర్తయింది
 about-logins-import-dialog-error-title = దిగుమతి లోపం
+about-logins-import-dialog-error-conflicting-values-description = ఉదాహరణకు: ఒకే ప్రవేశానికి పలు వాడుకరి పేర్లు, సంకేతపదాలు, చిరునామాలు, మొదలైనవి.
 about-logins-import-dialog-error-file-format-title = ఫైలు ఫార్మాటు సమస్య
 about-logins-import-dialog-error-file-permission-title = ఫైలును చదవలేకపోతున్నాం
 about-logins-import-dialog-error-no-logins-imported = ప్రవేశాలేమీ దిగుమతి కాలేదు

@@ -99,6 +99,7 @@ onboarding-theme-primary-button-label = పూర్తయింది
 ##   $systemLanguage (String) - The name of the system language, e.g "Español (ES)"
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
+onboarding-live-language-header = మీ భాషను ఎంచుకోండి
 mr2022-onboarding-live-language-text = { -brand-short-name } మీ భాష మాట్లాడుతుంది
 onboarding-live-language-secondary-cancel-download = రద్దుచేయి
 onboarding-live-language-skip-button-label = దాటవేయి
