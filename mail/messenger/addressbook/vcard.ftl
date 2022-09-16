@@ -106,8 +106,21 @@ vcard-note-add = Pśipisk pśidaś
 vcard-org-header = Organizaciske kakosći
 vcard-org-add = Organizaciske kakosći pśidaś
 vcard-org-title = Titel
+vcard-org-title-input =
+    .title = Pozicija abo job
+    .placeholder = Titel joba
 vcard-org-role = Rola
+vcard-org-role-input =
+    .title = Funkcija abo rola, kótaraž se we wěstej situaciji grajo
+    .placeholder = Rola w projekśe
 vcard-org-org = Organizacija
+vcard-org-org-input =
+    .title = Mě organizacije
+    .placeholder = Mě pśedewześa
+vcard-org-org-unit = Wótźělenje
+vcard-org-org-unit-input =
+    .title = Mě organizaciskeje jadnotki
+    .placeholder = Wótźělenje
 
 # Custom properties
 
