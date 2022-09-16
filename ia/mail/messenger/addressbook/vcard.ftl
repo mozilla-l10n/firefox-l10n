@@ -108,6 +108,7 @@ vcard-org-add = Adder proprietates organisative
 vcard-org-title = Titulo
 vcard-org-role = Rolo
 vcard-org-org = Organisation
+vcard-org-org-unit = Departimento
 
 # Custom properties
 
