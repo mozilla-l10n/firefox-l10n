@@ -79,6 +79,9 @@ extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> මෙම සැකසුම පාලනය කරයි.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> සඳහා පටිති අඩංගු අවශ්‍යයි.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> මෙම සැකසුම පාලනය කරයි.
@@ -144,10 +147,14 @@ switch-to-new-tabs =
 show-tabs-in-taskbar =
     .label = පටිති පෙරදසුන් වින්ඩෝස් කාර්ය තීරුවේ පෙන්වන්න
     .accesskey = k
+browser-containers-enabled =
+    .label = පටිති අඩංගුව සබල කරන්න
+    .accesskey = n
 browser-containers-learn-more = තව දැනගන්න
 browser-containers-settings =
     .label = සැකසුම්…
     .accesskey = i
+containers-disable-alert-title = සියළු පටිති අඩංගු වසන්නද?
 containers-disable-alert-cancel-button = සබලව තබන්න
 
 ## General Section - Language & Appearance

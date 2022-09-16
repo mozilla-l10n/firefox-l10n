@@ -13,6 +13,18 @@
 # $row (integer) - The row index
 # $column (integer) - The column index
 grid-row-column-positions = { $row } පේළිය / { $column } තීරුව
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a grid container.
+gridtype-container = ජාලක අඩංගුව
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is both a grid container and a grid item.
+gridtype-dual = ජාලක අඩංගුව/අථකය
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a flex container.
+flextype-container = ෆ්ලෙක්ස් අඩංගුව
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is both a flex container and a flex item.
+flextype-dual = ෆ්ලෙක්ස් අඩංගුව/අථකය
 # The text displayed in the button that is in the notice in the content page when the user
 # clicks on the "Pick an element from the page" in about:devtools-toolbox inspector panel,
 # when debugging a remote page.
