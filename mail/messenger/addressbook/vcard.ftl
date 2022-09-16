@@ -106,8 +106,21 @@ vcard-note-add = Přispomnjenku přidać
 vcard-org-header = Organizaciske kajkosće
 vcard-org-add = Organizaciske kajkosće přidać
 vcard-org-title = Titul
+vcard-org-title-input =
+    .title = Pozicija abo job
+    .placeholder = Titul joba
 vcard-org-role = Róla
+vcard-org-role-input =
+    .title = Funkcija abo róla, kotraž so we wěstej situaciji hraje
+    .placeholder = Róla w projekće
 vcard-org-org = Organizacija
+vcard-org-org-input =
+    .title = Mjeno organizacije
+    .placeholder = Mjeno předewzaća
+vcard-org-org-unit = Wotrjad
+vcard-org-org-unit-input =
+    .title = Mjeno organizaciskeje jednotki
+    .placeholder = Wotrjad
 
 # Custom properties
 
