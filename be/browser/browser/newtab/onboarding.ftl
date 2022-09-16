@@ -323,6 +323,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Імпартав�
 mr2022-onboarding-colorway-title = Выберыце колер, які вас натхняе
 mr2022-onboarding-colorway-subtitle = Незалежныя галасы могуць змяніць культуру.
 mr2022-onboarding-colorway-primary-button-label = Усталяваць расфарбоўку
+mr2022-onboarding-colorway-primary-button-label-continue = Усталяваць і працягваць
 mr2022-onboarding-existing-colorway-checkbox-label = Зрабіце { -firefox-home-brand-name } сваёй маляўнічай хатняй старонкай
 mr2022-onboarding-colorway-label-default = Прадвызначана
 mr2022-onboarding-colorway-tooltip-default =

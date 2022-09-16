@@ -77,6 +77,7 @@ browser-main-window-mac-window-titles =
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
 private-browsing-shortcut-text = Прыватнае агляданне { -brand-short-name }
+private-browsing-shortcut-text-2 = Прыватнае агляданне { -brand-shortcut-name }
 
 ##
 
@@ -267,9 +268,6 @@ search-one-offs-actions =
     .tooltiptext = Дзеянні ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
-
-
-## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
@@ -325,6 +323,9 @@ quickactions-cmd-update = абнавіць
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Праглядзець зыходнік
 quickactions-cmd-viewsource = прагляд зыходнага тэксту, код
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Даведацца больш пра хуткія дзеянні
 
 ## Bookmark Panel
 
