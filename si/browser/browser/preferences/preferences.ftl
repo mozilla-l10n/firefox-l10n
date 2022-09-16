@@ -956,9 +956,9 @@ content-blocking-fingerprinters = ඇඟිලි සටහන්
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = පූර්ණ දත්තකඩ ආරක්‍ෂණය ඔබ සිටින අඩවියෙහි දත්තකඩ හුදකලා කරන බැවින් ලුහුබඳින්නන්ට අඩවි අතරින් ඔබව හඹා යාමට ඒවා භාවිතා කළ නොහැකිය.
 content-blocking-etp-standard-tcp-rollout-learn-more = තව දැනගන්න
-content-blocking-etp-standard-tcp-title = අපගේ බලවත්ම රහස්‍යතා විශේෂාංගය වන පූර්ණ දත්තකඩ රැකවරණය ඇතුළත්ය
+content-blocking-etp-standard-tcp-title = බලවත්ම රහස්‍යතා විශේෂාංගය වන පූර්ණ දත්තකඩ රැකවරණය ඇතුළත්ය
 content-blocking-warning-title = අවධානය!
-content-blocking-and-isolating-etp-warning-description-2 = මෙම සැකසුම ඇතැම් අඩවිවල අන්තර්ගත දර්ශනය නොවීමට හෝ හරිහැටි වැඩ නොකිරීමට හේතු විය හැකිය. එසේ පෙනේ නම්, ඔබට එම අඩවියේ සියළුම අන්තර්ගත පූරණය කිරීම සඳහා ලුහුබැඳීමේ රැකවරණය අක්‍රිය කිරීමට සිදු වනු ඇත.
+content-blocking-and-isolating-etp-warning-description-2 = මෙම සැකසුම ඇතැම් අඩවිවල අන්තර්ගත දර්ශනය නොවීමට හෝ හරිහැටි වැඩ නොකිරීමට හේතු විය හැකිය. එසේ පෙනෙයි නම්, එම අඩවියේ සියළුම අන්තර්ගත පූරණය කිරීම සඳහා ලුහුබැඳීමේ රැකවරණය අක්‍රිය කිරීමට සිදු වනු ඇත.
 content-blocking-warning-learn-how = කෙසේදැයි දැනගන්න
 content-blocking-reload-description = මෙම වෙනස්කම් යෙදීමට ඔබගේ පටිති යළි පූරණය කළ යුතුය.
 content-blocking-reload-tabs-button =
