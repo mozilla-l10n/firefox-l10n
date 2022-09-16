@@ -167,6 +167,13 @@ containers-disable-alert-ok-button =
     }
 containers-disable-alert-cancel-button = සබලව තබන්න
 containers-remove-alert-title = මෙම අඩංගුව ඉවත් කරන්නද?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] ඔබ දැන් මෙම අඩංගුව ඉවත් කළහොත්, පටිති අඩංගු { $tabCount } ක් වසා දමනු ඇත. ඔබට අඩංගුව ඉවත් කිරීමට වුවමනා ද?
+       *[other] ඔබ දැන් මෙම අඩංගුව ඉවත් කළහොත්, පටිති අඩංගු { $tabCount } ක් වසා දමනු ඇත. ඔබට අඩංගුව ඉවත් කිරීමට වුවමනා ද?
+    }
 containers-remove-ok-button = මෙම අඩංගුව ඉවත් කරන්න
 containers-remove-cancel-button = මෙම අඩංගුව ඉවත් නොකරන්න
 
@@ -608,6 +615,9 @@ containers-header = පටිති අඩංගු
 containers-add-button =
     .label = නව අඩංගුවක් යොදන්න
     .accesskey = A
+containers-new-tab-check =
+    .label = එක් එක් නව පටිත්තක් සඳහා අඩංගුවක් තෝරන්න
+    .accesskey = S
 containers-settings-button =
     .label = සැකසුම්
 containers-remove-button =
