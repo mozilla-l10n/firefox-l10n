@@ -108,6 +108,13 @@ vcard-org-add = Dodaj podatke o organizaciji
 vcard-org-title = Naziv
 vcard-org-role = Funkcija
 vcard-org-org = Organizacija
+vcard-org-org-input =
+    .title = Ime organizacije
+    .placeholder = Ime podjetja
+vcard-org-org-unit = Oddelek
+vcard-org-org-unit-input =
+    .title = Ime organizacijske enote
+    .placeholder = Oddelek
 
 # Custom properties
 
