@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 Semua sudah siap!
 firefoxview-mobile-confirmation-description = Sekarang Anda dapat mengambil tab { -brand-product-name } dari tablet atau ponsel Anda.
 firefoxview-closed-tabs-title = Baru saja ditutup
 firefoxview-closed-tabs-description = Buka kembali laman yang telah Anda tutup pada perangkat ini.
+firefoxview-closed-tabs-description2 = Buka kembali laman yang Anda tutup pada jendela ini.
 firefoxview-closed-tabs-placeholder = <strong>Tidak ada laman yang tutup baru-baru ini</strong><br/>Jangan takut kehilangan tab yang tertutup lagi. Anda selalu bisa mengambilnya di sini.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Terakhir aktif
@@ -58,9 +59,9 @@ firefoxview-pickup-tabs-badge = Terakhir aktif
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Buka { $targetURI } di tab baru
-firefoxview-try-colorways-button = Coba colorways
-firefoxview-no-current-colorway-collection = Colorways baru akan segera hadir
-firefoxview-change-colorway-button = Ubah colorway
+firefoxview-try-colorways-button = Coba ragam warna
+firefoxview-no-current-colorway-collection = Ragam warna baru akan segera hadir
+firefoxview-change-colorway-button = Ubah ragam warna
 # Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
