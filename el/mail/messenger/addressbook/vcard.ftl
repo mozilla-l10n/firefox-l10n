@@ -106,8 +106,21 @@ vcard-note-add = Προσθήκη σημείωσης
 vcard-org-header = Ιδιότητες οργανισμού
 vcard-org-add = Προσθήκη ιδιοτήτων οργανισμού
 vcard-org-title = Τίτλος
+vcard-org-title-input =
+    .title = Θέση ή εργασία
+    .placeholder = Τίτλος εργασίας
 vcard-org-role = Ρόλος
+vcard-org-role-input =
+    .title = Λειτουργία ή ρόλος σε μια συγκεκριμένη κατάσταση
+    .placeholder = Ρόλος σε ένα έργο
 vcard-org-org = Οργανισμός
+vcard-org-org-input =
+    .title = Όνομα οργανισμού
+    .placeholder = Όνομα εταιρείας
+vcard-org-org-unit = Τμήμα
+vcard-org-org-unit-input =
+    .title = Όνομα μονάδας οργανισμού
+    .placeholder = Τμήμα
 
 # Custom properties
 
