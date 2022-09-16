@@ -358,6 +358,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox ముంగిలి (అప్రమేయం)
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (అప్రమేయం)
 home-mode-choice-custom =
     .label = అభిమత URLలు…
 home-mode-choice-blank =
