@@ -192,3 +192,15 @@ spotlight-pin-secondary-button = Ahora no
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Recordarme después
+
+## Firefox View CFR
+
+firefoxview-cfr-primarybutton = Intentalo
+    .accesskey = I
+firefoxview-cfr-secondarybutton = Ahora no
+    .accesskey = n
+firefoxview-cfr-header = Recupera las pestañas cerradas recientemente con { -firefoxview-brand-name }
+
+## Firefox View Spotlight
+
+firefoxview-spotlight-promo-primarybutton = Ver cómo funciona
