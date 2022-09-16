@@ -106,10 +106,20 @@ vcard-note-add = Thêm ghi chú
 vcard-org-header = Thuộc tính tổ chức
 vcard-org-add = Thêm thuộc tính tổ chức
 vcard-org-title = Tiêu đề
+vcard-org-title-input =
+    .title = Chức vụ hoặc công việc
+    .placeholder = Chức vụ
 vcard-org-role = Vai trò
 vcard-org-org = Tổ chức
+vcard-org-org-input =
+    .title = Tên tổ chức
+    .placeholder = Tên công ty
+vcard-org-org-unit = Bộ phận
 
 # Custom properties
 
 vcard-custom-header = Tùy chỉnh thuộc tính
 vcard-custom-add = Thêm thuộc tính tùy chỉnh
+vcard-remove-button-title =
+    .title = Xóa
+vcard-remove-button = Xóa
