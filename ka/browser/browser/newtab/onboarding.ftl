@@ -104,7 +104,7 @@ mr1-onboarding-import-subtitle = გადმოიტანეთ პარო�
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
-mr1-onboarding-import-primary-button-label-attribution = გადმოტანა { $previous }-(ი)დან
+mr1-onboarding-import-primary-button-label-attribution = გადმოტანა – { $previous }
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = გადმოტანა წინა ბრაუზერიდან
 mr1-onboarding-import-secondary-button-label = ახლა არა
@@ -152,17 +152,17 @@ mr1-onboarding-theme-description-system =
 mr1-onboarding-theme-tooltip-light =
     .title =
         ნათელი გაფორმება ღილაკებზე,
-        მენიუსა და ფანჯრებზე
+        მენიუსა და ფანჯრებზე.
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         ნათელი გაფორმება ღილაკებზე,
-        მენიუსა და ფანჯრებზე
+        მენიუსა და ფანჯრებზე.
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         მუქი გაფორმება ღილაკებზე,
-        მენიუსა და ფანჯრებზე
+        მენიუსა და ფანჯრებზე.
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
@@ -172,12 +172,12 @@ mr1-onboarding-theme-description-dark =
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         ცვალებადი, ფერადი გაფორმება ღილაკებზე,
-        მენიუსა და ფანჯრებზე
+        მენიუსა და ფანჯრებზე.
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         ცვალებადი, ფერადი გაფორმება ღილაკებზე,
-        მენიუსა და ფანჯრებზე
+        მენიუსა და ფანჯრებზე.
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
@@ -197,9 +197,9 @@ mr2-onboarding-colorway-tooltip =
 mr2-onboarding-colorway-label = მოსინჯეთ { $colorwayName } შეფერილობა.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
-    .title = მოსინჯეთ ნაგულისხმევი შეფერილობა.
+    .title = მოსინჯეთ ნაგულისხმევი იერსახე.
 # Selector description for default themes
-mr2-onboarding-default-theme-label = მოსინჯეთ ნაგულისხმევი შეფერილობა.
+mr2-onboarding-default-theme-label = მოსინჯეთ ნაგულისხმევი იერსახე.
 
 ## Strings for Thank You page
 
@@ -226,7 +226,7 @@ mr2-onboarding-start-browsing-button-label = გვერდების მო�
 
 onboarding-live-language-header = აირჩიეთ თქვენი ენა
 mr2022-onboarding-live-language-text = { -brand-short-name } თქვენს ენაზე ლაპარაკობს
-mr2022-language-mismatch-subtitle = ჩვენი ერთობის წევრების დამსახურებით, { -brand-short-name } ნათარგმნია 90-ზე მეტ ენაზე. როგორც ჩანს, თქვენი სისტემის ენად მითითებული { $systemLanguage }, ხოლო { -brand-short-name } არის { $appLanguage }.
+mr2022-language-mismatch-subtitle = ჩვენი ერთობის წევრების დამსახურებით, { -brand-short-name } ნათარგმნია 90-ზე მეტ ენაზე. როგორც ჩანს, თქვენი სისტემის ენად მითითებულია { $systemLanguage }, ხოლო { -brand-short-name } არის { $appLanguage }.
 onboarding-live-language-button-label-downloading = ჩამოიტვირთება ენის კრებულად { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = ხელმისაწვდომი ენების მოძიება…
 onboarding-live-language-installing = ჩაიდგმება ენის კრებულად { $negotiatedLanguage }…
