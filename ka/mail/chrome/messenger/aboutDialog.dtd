@@ -49,7 +49,7 @@
 <!ENTITY helpus.getInvolvedLink     "შემოგვიერთდით!">
 <!ENTITY helpus.end                 "">
 
-<!ENTITY releaseNotes.link          "ვერსიის მონაცემები">
+<!ENTITY releaseNotes.link          "გამოშვების მონაცემები">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "ლიცენზიის შესახებ">
