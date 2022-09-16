@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Marchează fila
     .accesskey = B
+tab-context-bookmark-tab =
+    .label = Marchează fila…
+    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = Deschide într-o filă container nouă
     .accesskey = e
@@ -106,7 +109,6 @@ tab-context-move-tabs =
            *[other] Mută filele
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

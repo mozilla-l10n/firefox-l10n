@@ -223,9 +223,6 @@ search-one-offs-actions =
     .tooltiptext = Acțiuni ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
-
-
-## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
@@ -531,6 +528,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Marchează fila actuală
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Marchează fila actuală…
 
 ## Library Panel items
 
@@ -629,6 +629,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Nu afișa acest mesaj când sunt blocate ferestre pop-up
     .accesskey = D
+edit-popup-settings =
+    .label = Gestionează setările ferestrelor pop-up…
+    .accesskey = M
 picture-in-picture-hide-toggle =
     .label = Ascunde comutatorul Picture-in-Picture
     .accesskey = H
