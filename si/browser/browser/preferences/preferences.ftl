@@ -156,6 +156,9 @@ browser-containers-settings =
     .accesskey = i
 containers-disable-alert-title = සියළු පටිති අඩංගු වසන්නද?
 containers-disable-alert-cancel-button = සබලව තබන්න
+containers-remove-alert-title = මෙම අඩංගුව ඉවත් කරන්නද?
+containers-remove-ok-button = මෙම අඩංගුව ඉවත් කරන්න
+containers-remove-cancel-button = මෙම අඩංගුව ඉවත් නොකරන්න
 
 ## General Section - Language & Appearance
 
@@ -591,6 +594,10 @@ search-keyword-warning-bookmark = ඔබ තෝරාගත් මූල පද�
 
 containers-back-button2 =
     .aria-label = සැකසුම් වෙත ආපසු
+containers-header = පටිති අඩංගු
+containers-add-button =
+    .label = නව අඩංගුවක් යොදන්න
+    .accesskey = A
 containers-settings-button =
     .label = සැකසුම්
 containers-remove-button =
