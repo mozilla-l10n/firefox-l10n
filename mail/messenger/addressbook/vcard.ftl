@@ -106,8 +106,21 @@ vcard-note-add = Add note
 vcard-org-header = Organisational Properties
 vcard-org-add = Add organisational properties
 vcard-org-title = Title
+vcard-org-title-input =
+    .title = Position or job
+    .placeholder = Job title
 vcard-org-role = Role
+vcard-org-role-input =
+    .title = Function or part played in a particular situation
+    .placeholder = Role in a project
 vcard-org-org = Organisation
+vcard-org-org-input =
+    .title = Organisational name
+    .placeholder = Company name
+vcard-org-org-unit = Department
+vcard-org-org-unit-input =
+    .title = Organisational unit name
+    .placeholder = Department
 
 # Custom properties
 
