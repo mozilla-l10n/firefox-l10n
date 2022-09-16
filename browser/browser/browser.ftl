@@ -77,6 +77,7 @@ browser-main-window-mac-window-titles =
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
 private-browsing-shortcut-text = { -brand-short-name } duyệt web riêng tư
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } duyệt web riêng tư
 
 ##
 
@@ -267,9 +268,6 @@ search-one-offs-actions =
     .tooltiptext = Hành động ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
-
-
-## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
@@ -325,6 +323,9 @@ quickactions-cmd-update = cập nhật, cap nhat
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Xem mã nguồn
 quickactions-cmd-viewsource = xem mã nguồn, xem nguồn, nguồn, xem ma nguon, xem nguon, nguon
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Tìm hiểu thêm về Hành động nhanh
 
 ## Bookmark Panel
 
