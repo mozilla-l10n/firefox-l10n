@@ -4,12 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = ప్రవేశాలు & సంకేతపదాలు
-
 login-filter =
     .placeholder = ప్రవేశాలను వెతకండి
-
 create-login-button = కొత్త ప్రవేశాన్ని సృష్టించు
-
 fxaccounts-sign-in-text = మీ సంకేతపదాలను ఇతర పరికరాల్లో పొందండి
 fxaccounts-sign-in-sync-button = Sync లోనికి ప్రవేశించండి
 fxaccounts-avatar-button =
@@ -68,6 +65,7 @@ about-logins-list-section-week = గత 7 రోజులు
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-out2 = మీరు భద్రపరచుకున్న ప్రవేశాల కోసం చూస్తున్నారా? వాటిని దిగుమతి చేసుకోండి లేదా సింక్‌ను చేతనం చేసుకోండి.
 about-logins-login-intro-heading-logged-in = సింక్రనిత ప్రవేశాలేమీ కనబడలేదు.
 login-intro-description = మరో పరికరంలో మీ ప్రవేశాలను { -brand-product-name }‌లో భద్రపరచుకొని ఉంటే, వాటిని ఇక్కడకు తెచ్చుకోవడం ఇలా:
 
@@ -77,6 +75,7 @@ login-item-new-login-title = కొత్త ప్రవేశాన్ని �
 login-item-edit-button = మార్చు
 about-logins-login-item-remove-button = తొలగించు
 login-item-origin-label = వెబ్‌సైటు చిరునామా
+login-item-tooltip-message = ఇది మీరు ప్రవేశించే వెబ్‌సైటు చిరునామాకి ఖచ్చితంగా సరిపోలుతుందని నిర్ధారించుకోండి.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = వాడుకరి పేరు
@@ -104,20 +103,19 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = మీ ప్రవేశ వివరాలను మార్చడానికి, మీ విండోస్ ప్రవేశ వివరాలను ఇవ్వండి. ఇది మా ఖాతాల భద్రతను కాపాడడంలో ఉపయోగపడుతుంది.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = భద్రపరచిన ప్రవేశాన్ని సవరించు
-
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = భద్రపరచిన సంకేతపదాన్ని చూపించడానికి
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = మీ సంకేతపదాన్ని కాపీ చేసుకోడానికి, మీ విండోస్ ప్రవేశ వివరాలను ఇవ్వండి. ఇది మీ ఖాతాల భద్రతను సంరక్షించడానికి తోడ్పడుతుంది.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = భద్రపరచిన సంకేతపదాన్ని కాపీచేయడానికి
-
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = భద్రపరచిన ప్రవేశాలను, సంకేతపదాలను ఎగుమతిచేయి
@@ -134,43 +132,35 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = రద్దుచేయి
 confirmation-dialog-dismiss-button =
     .title = రద్దుచేయి
-
 about-logins-confirm-remove-dialog-title = ఈ ప్రవేశాన్ని తొలగించాలా?
 confirm-delete-dialog-message = ఈ చర్యను రద్దు చేయలేరు.
 about-logins-confirm-remove-dialog-confirm-button = తొలగించు
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] తొలగించు
         [one] తొలగించు
        *[other] అన్నీ తొలగించు
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] అవును, ఈ ప్రవేశాన్ని తొలగించు
         [one] అవును, ఈ ప్రవేశాన్ని తొలగించు
        *[other] అవును, ఈ ప్రవేశాలను తొలగించు
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] ఒక { $count } ప్రవేశాన్ని తొలగించాలా?
        *[other] { $count } ప్రవేశాలనూ తొలగించాలా?
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] { $count } ప్రవేశాన్ని అన్ని పరికరాల నుండి తొలగించాలా?
        *[other] { $count } ప్రవేశాలనూ అన్ని పరికరాల నుండి తొలగించాలా?
     }
-
 about-logins-confirm-export-dialog-title = ప్రవేశాలను, సంకేతపదాలను ఎగుమతిచేయి
 about-logins-confirm-export-dialog-confirm-button = ఎగుమతించు…
-
 about-logins-alert-import-title = దిగుమతి పూర్తయింది
 about-logins-alert-import-message = వివరణాత్మక దిగుమతి సారాంశాన్ని చూడండి
-
 confirm-discard-changes-dialog-title = భద్రపరచని మార్పులను విస్మరించాలా?
 confirm-discard-changes-dialog-message = భద్రపరచని మార్పులన్నీ కోల్పోతారు.
 confirm-discard-changes-dialog-confirm-button = విస్మరించు
@@ -237,9 +227,7 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = దిగుమతి పూర్తయింది
-
 about-logins-import-dialog-done = పూర్తయింది
-
 about-logins-import-dialog-error-title = దిగుమతి లోపం
 about-logins-import-dialog-error-file-format-title = ఫైలు ఫార్మాటు సమస్య
 about-logins-import-dialog-error-file-permission-title = ఫైలును చదవలేకపోతున్నాం
@@ -247,9 +235,7 @@ about-logins-import-dialog-error-no-logins-imported = ప్రవేశాల�
 about-logins-import-dialog-error-learn-more = ఇంకా తెలుసుకోండి
 about-logins-import-dialog-error-try-import-again = దిగుమతిని మళ్ళీ ప్రయత్నించండి…
 about-logins-import-dialog-error-cancel = రద్దుచేయి
-
 about-logins-import-report-title = దిగుమతి సారాంశం
-
 #
 # Variables:
 #  $number (number) - The number of the row
