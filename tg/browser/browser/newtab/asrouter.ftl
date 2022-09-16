@@ -206,9 +206,12 @@ firefoxview-cfr-primarybutton = Озмоед
 firefoxview-cfr-secondarybutton = Ҳоло не
     .accesskey = Ҳ
 firefoxview-cfr-header = Ҳамаи варақаҳои ба наздикӣ пушидашударо тавассути «{ -firefoxview-brand-name }» барқарор кунед
+firefoxview-cfr-body = Илова бар ин, байни дастгоҳҳои худ бе халал гузаред ва ба браузери худ як ҷилои рангинро илова кунед.
 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Ба «{ -firefoxview-brand-name }» салом гӯед
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Шумо мехоҳед, ки варақаҳоро дар телефони худ кушоед? Онҳоро ба даст оред. Он сомонае, ки шумо як лаҳза пеш боздид кардед, лозим аст? Бемалол, онро тавассути «{ -firefoxview-brand-name }» барқарор кунед.
 firefoxview-spotlight-promo-primarybutton = Бинед, ки он чӣ тавр кор мекунад
 firefoxview-spotlight-promo-secondarybutton = Нодида гузарондан
