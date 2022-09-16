@@ -113,3 +113,6 @@ vcard-org-org = Organisation
 
 vcard-custom-header = Anpassade egenskaper
 vcard-custom-add = Lägg till anpassade egenskaper
+vcard-remove-button-title =
+    .title = Ta bort
+vcard-remove-button = Ta bort
