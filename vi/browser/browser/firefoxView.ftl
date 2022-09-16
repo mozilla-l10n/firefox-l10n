@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 Tất cả đã xong!
 firefoxview-mobile-confirmation-description = Giờ đây, bạn có thể nhận các thẻ { -brand-product-name } từ máy tính bảng hoặc điện thoại của mình.
 firefoxview-closed-tabs-title = Đã đóng gần đây
 firefoxview-closed-tabs-description = Mở lại các trang bạn đã đóng trên thiết bị này.
+firefoxview-closed-tabs-description2 = Mở lại các trang bạn đã đóng trong cửa sổ này.
 firefoxview-closed-tabs-placeholder = <strong>Không có trang nào đã đóng gần đây</strong><br/>Không bao giờ sợ mất một thẻ đã đóng nữa. Bạn luôn có thể thấy nó ở đây.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Hoạt động lần cuối

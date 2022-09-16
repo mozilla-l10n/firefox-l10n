@@ -323,6 +323,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Nhập từ trìn
 mr2022-onboarding-colorway-title = Chọn màu sắc truyền cảm hứng cho bạn
 mr2022-onboarding-colorway-subtitle = Tiếng nói độc lập có thể thay đổi văn hóa.
 mr2022-onboarding-colorway-primary-button-label = Đặt đường màu
+mr2022-onboarding-colorway-primary-button-label-continue = Đặt và tiếp tục
 mr2022-onboarding-existing-colorway-checkbox-label = Đặt { -firefox-home-brand-name } làm trang chủ đầy màu sắc của bạn
 mr2022-onboarding-colorway-label-default = Mặc định
 mr2022-onboarding-colorway-tooltip-default =

@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Mở video này ở cửa sổ 
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Nhiều màn hình hơn, vui hơn. Phát video này ở chế độ hình trong hình khi bạn duyệt.
+videocontrols-picture-in-picture-explainer3 = Nhiều màn hình, vui hơn. Phát video này trong khi bạn làm những việc khác.
 videocontrols-error-aborted = Đã dừng nạp video.
 videocontrols-error-network = Không thể xem video vì lỗi kết nối.
 videocontrols-error-decode = Không thể xem video vì tập tin bị hỏng.
