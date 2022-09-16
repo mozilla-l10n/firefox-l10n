@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+containers-window-new =
+    .title = නව අඩංගුවක් යොදන්න
+    .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings =
+    .title = { $name } අඩංගුවේ සැකසුම්
+    .style = width: 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
@@ -17,6 +25,8 @@ containers-window-close =
 containers-name-label = නම
     .accesskey = N
     .style = { -containers-labels-style }
+containers-name-text =
+    .placeholder = අඩංගුවට නමක් යොදන්න
 containers-icon-label = නිරූපකය
     .accesskey = I
     .style = { -containers-labels-style }
@@ -42,6 +52,8 @@ containers-color-pink =
     .label = රෝස
 containers-color-purple =
     .label = දම්
+containers-color-toolbar =
+    .label = මෙව. තීරුවට ගළපන්න
 containers-icon-fingerprint =
     .label = ඇඟිලි සලකුණ
 containers-icon-briefcase =
