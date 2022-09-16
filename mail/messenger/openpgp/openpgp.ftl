@@ -226,6 +226,9 @@ openpgp-key-details-id-label =
 openpgp-key-details-key-type-label = Türü
 openpgp-key-details-key-part-label =
     .label = Anahtar bölümü
+openpgp-key-details-attr-upgrade-sec = Güvenli olmayan özellikleri yükseltmelisiniz.
+openpgp-key-details-attr-upgrade-pub = Bu anahtarın sahibinden güvenli olmayan özellikleri yükseltmesini istemelisiniz.
+openpgp-key-details-upgrade-ok = Anahtar başarıyla yükseltildi. Yükseltilmiş ortak anahtarı yazıştığınız kişilerle paylaşmalısınız.
 openpgp-key-details-algorithm-label =
     .label = Algoritma
 openpgp-key-details-size-label =
@@ -239,6 +242,7 @@ openpgp-key-details-expiry-header = Süre sonu
 openpgp-key-details-usage-label =
     .label = Kullanım
 openpgp-key-details-fingerprint-label = Parmak izi
+openpgp-key-details-legend-secret-missing = (!) ile işaretlenmiş anahtarlar için gizli anahtar kullanılamaz.
 openpgp-key-details-sel-action =
     .label = Eylem seçin…
     .accesskey = E
@@ -266,6 +270,8 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name }, <b>{ $identity }</b> için kişisel OpenPGP anahtarına sahip değil
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Geçerli yapılandırmalarınızda <b>{ $key }</b> anahtar kimliği kullanılıyor
 #   $key (String) - the currently selected OpenPGP key

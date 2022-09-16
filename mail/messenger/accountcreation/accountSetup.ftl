@@ -204,6 +204,7 @@ exchange-dialog-cancel-button = Vazgeç
 ## Dismiss account creation dialog
 
 exit-dialog-title = Yapılandırılmış E-posta Hesabı Yok
+exit-dialog-description = Kurulumu iptal etmek istediğinizden emin misiniz? { -brand-short-name } bir e-posta hesabı olmadan da çalışır ama birçok özelliği kullanamazsınız.
 account-setup-no-account-checkbox = { -brand-short-name }’ü e-posta hesabı olmadan kullan
     .accesskey = k
 exit-dialog-cancel-button = Kuruluma devam et
