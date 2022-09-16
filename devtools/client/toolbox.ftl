@@ -42,3 +42,7 @@ toolbox-mode-parent-process-label = Csak a szülőfolyamatban
 toolbox-mode-parent-process-sub-label = (Gyors)
 toolbox-mode-parent-process-container =
     .title = Csak a szülőfolyamat erőforrásaira összpontosítson.
+toolbox-always-on-top-enabled =
+    .title = Mindig felül letiltása (Ez újraindítja a Fejlesztői eszközöket)
+toolbox-always-on-top-disabled =
+    .title = Mindig felül engedélyezése (Ez újraindítja a Fejlesztői eszközöket)
