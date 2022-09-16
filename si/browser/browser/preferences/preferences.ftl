@@ -171,8 +171,8 @@ containers-remove-alert-title = මෙම අඩංගුව ඉවත් කර
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] ඔබ දැන් මෙම අඩංගුව ඉවත් කළහොත්, පටිති අඩංගු { $tabCount } ක් වසා දමනු ඇත. ඔබට අඩංගුව ඉවත් කිරීමට වුවමනා ද?
-       *[other] ඔබ දැන් මෙම අඩංගුව ඉවත් කළහොත්, පටිති අඩංගු { $tabCount } ක් වසා දමනු ඇත. ඔබට අඩංගුව ඉවත් කිරීමට වුවමනා ද?
+        [one] ඔබ දැන් මෙම අඩංගුව ඉවත් කළහොත්, පටිති අඩංගු { $count } ක් වසා දමනු ඇත. ඔබට අඩංගුව ඉවත් කිරීමට වුවමනා ද?
+       *[other] ඔබ දැන් මෙම අඩංගුව ඉවත් කළහොත්, පටිති අඩංගු { $count } ක් වසා දමනු ඇත. ඔබට අඩංගුව ඉවත් කිරීමට වුවමනා ද?
     }
 containers-remove-ok-button = මෙම අඩංගුව ඉවත් කරන්න
 containers-remove-cancel-button = මෙම අඩංගුව ඉවත් නොකරන්න
