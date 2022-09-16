@@ -176,3 +176,41 @@ spotlight-pin-primary-button =
        *[other] Закрепить на панели задач
     }
 spotlight-pin-secondary-button = Не сейчас
+
+## MR2022 Background Update Windows native toast notification strings.
+##
+## These strings will be displayed by the Windows operating system in
+## a native toast, like:
+##
+## <b>multi-line title</b>
+## multi-line text
+## <img>
+## [ primary button ] [ secondary button ]
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Открыть { -brand-shorter-name } сейчас
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Напомнить позже
+
+## Firefox View CFR
+
+firefoxview-cfr-primarybutton = Попробовать его
+    .accesskey = б
+firefoxview-cfr-secondarybutton = Не сейчас
+    .accesskey = е
+firefoxview-cfr-header = Верните недавно закрытые вкладки с помощью { -firefoxview-brand-name }
+
+## Firefox View Spotlight
+
+firefoxview-spotlight-promo-title = Поздоровайтесь с { -firefoxview-brand-name }
+firefoxview-spotlight-promo-primarybutton = Посмотреть, как это работает
+firefoxview-spotlight-promo-secondarybutton = Пропустить

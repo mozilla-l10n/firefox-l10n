@@ -42,3 +42,7 @@ toolbox-mode-parent-process-label = Только родительский про
 toolbox-mode-parent-process-sub-label = (Быстро)
 toolbox-mode-parent-process-container =
     .title = Фокусироваться только на ресурсах родительского процесса.
+toolbox-always-on-top-enabled =
+    .title = Отключить «Всегда сверху» (это приведет к перезапуску Инструментов разработчика)
+toolbox-always-on-top-disabled =
+    .title = Включить «Всегда сверху» (это приведет к перезапуску Инструментов разработчика)
