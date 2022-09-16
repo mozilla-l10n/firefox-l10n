@@ -6,7 +6,7 @@
 all-tabs-menu-search-tabs =
     .label = පටිතිවල සොයන්න
 all-tabs-menu-new-user-context =
-    .label = නව අඩංගු පටිත්ත
+    .label = නව පටිති අඩංගුව
 all-tabs-menu-hidden-tabs =
     .label = සැඟවුණු පටිති
 all-tabs-menu-manage-user-context =
