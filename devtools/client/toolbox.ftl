@@ -42,3 +42,7 @@ toolbox-mode-parent-process-label = Толькі бацькоўскі працэ
 toolbox-mode-parent-process-sub-label = (Хутка)
 toolbox-mode-parent-process-container =
     .title = Засяродзьцеся толькі на рэсурсах з бацькоўскага працэсу.
+toolbox-always-on-top-enabled =
+    .title = Адключыць "заўсёды наверсе" (Гэта прывядзе да перазапуску інструментаў распрацоўшчыка)
+toolbox-always-on-top-disabled =
+    .title = Уключыць "заўсёды наверсе" (гэта прывядзе да перазапуску інструментаў распрацоўшчыка)
