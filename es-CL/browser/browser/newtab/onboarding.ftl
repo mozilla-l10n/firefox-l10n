@@ -378,16 +378,13 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = Siempre respetamos tu privacidad
 mr2022-onboarding-privacy-segmentation-subtitle = Desde sugerencias inteligentes hasta búsquedas más inteligentes, trabajamos constantemente para crear un { -brand-product-name } mejor y más personal.
-mr2022-onboarding-privacy-segmentation-cta-text = Cuando ofrezcamos nuevas funcionalidades que usen tus datos para mejorar la navegación, querrás ver:
-mr2022-onboarding-privacy-segmentation-primary-button-label = Recomendaciones de { -brand-product-name }
-mr2022-onboarding-privacy-segmentation-secondary-button-label = Información detallada
 mr2022-onboarding-privacy-segmentation-text-cta = ¿Qué quieres ver cuando ofrezcamos nuevas funcionalidades que utilicen tus datos para mejorar tu navegación?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Usar recomendaciones de { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostrar información detallada
 
 ## MR2022 Multistage Gratitude screen strings
 
-mr2022-onboarding-gratitude-title = Estas ayudándonos a crear un mejor internet.
+mr2022-onboarding-gratitude-title = Estas ayudándonos a crear un mejor internet
 mr2022-onboarding-gratitude-subtitle = Gracias por usar { -brand-short-name }, respaldado por la fundación Mozilla. Con tu ayuda, trabajamos para crear un internet más abierto, accesible y mejor para todos.
 mr2022-onboarding-gratitude-primary-button-label = Revisa que hay de nuevo
 mr2022-onboarding-gratitude-secondary-button-label = Empezar a navegar
