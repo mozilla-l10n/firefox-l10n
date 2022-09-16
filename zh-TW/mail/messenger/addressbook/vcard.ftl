@@ -106,8 +106,21 @@ vcard-note-add = 加入附註
 vcard-org-header = 組織單位資訊
 vcard-org-add = 加入組織單位資訊
 vcard-org-title = 頭銜
+vcard-org-title-input =
+    .title = 職位或工作
+    .placeholder = 工作頭銜
 vcard-org-role = 角色
+vcard-org-role-input =
+    .title = 特定狀態中的職位或扮演的角色
+    .placeholder = 專案角色
 vcard-org-org = 組織單位資訊
+vcard-org-org-input =
+    .title = 單位名稱
+    .placeholder = 公司名稱
+vcard-org-org-unit = 部門
+vcard-org-org-unit-input =
+    .title = 組織單位名稱
+    .placeholder = 部門
 
 # Custom properties
 
