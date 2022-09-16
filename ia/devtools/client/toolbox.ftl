@@ -42,3 +42,7 @@ toolbox-mode-parent-process-label = Solo processo parente
 toolbox-mode-parent-process-sub-label = (Rapide)
 toolbox-mode-parent-process-container =
     .title = Solo examinar ressources ab le processo parente.
+toolbox-always-on-top-enabled =
+    .title = Disactivar Sempre in prime plano (le utensiles de disveloppamento essera reinitialisate)
+toolbox-always-on-top-disabled =
+    .title = Activar Sempre in prime plano (Isto re-initiara le utensiles de disveloppamento)
