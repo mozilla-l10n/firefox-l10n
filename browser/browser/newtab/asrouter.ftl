@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Funcție recomandată
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = De ce văd asta
-
 cfr-doorhanger-extension-cancel-button = Nu acum
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Adaugă acum
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Gestionează setările pentru recomandări
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = Nu-mi afișa această recomandare
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = Află mai multe
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = de { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomandare
 cfr-doorhanger-extension-notification2 = Recomandare
     .tooltiptext = Recomandare extensie
     .a11y-announcement = Recomandare disponibilă pentru extensie
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recomandare
@@ -67,8 +59,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } de utilizatori
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincronizează-ți marcajele oriunde ai fi
@@ -89,49 +79,15 @@ cfr-protections-panel-link-text = Află mai multe
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Funcționalitate nouă:
-
 cfr-whatsnew-button =
     .label = Ce este nou
     .tooltiptext = Ce este nou
-
 cfr-whatsnew-release-notes-link-text = Citește notele privind versiunea
-
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
 cfr-doorhanger-milestone-ok-button = Afișează tot
     .accesskey = S
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Închide
     .accesskey = C
 
@@ -146,6 +102,7 @@ cfr-doorhanger-doh-secondary-button = Dezactivează
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = Intimitatea ta contează. { -brand-short-name } izolează acum site-urile web unele de altele sau le deschide în sandboxuri, lucru care îngreunează munca hackerilor de a fura parole, numere ale cardurilor de credit și alte informații sensibile.
 cfr-doorhanger-fission-primary-button = OK, am înțeles!
     .accesskey = K
 cfr-doorhanger-fission-secondary-button = Află mai multe
@@ -153,7 +110,9 @@ cfr-doorhanger-fission-secondary-button = Află mai multe
 
 ## Full Video Support CFR message
 
+
 ## Spotlight modal shared strings
+
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -161,7 +120,29 @@ cfr-doorhanger-fission-secondary-button = Află mai multe
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+
 ## Total Cookie Protection Rollout
 
+
 ## Emotive Continuous Onboarding
+
+
+## MR2022 Background Update Windows native toast notification strings.
+##
+## These strings will be displayed by the Windows operating system in
+## a native toast, like:
+##
+## <b>multi-line title</b>
+## multi-line text
+## <img>
+## [ primary button ] [ secondary button ]
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+
+## Firefox View CFR
+
+
+## Firefox View Spotlight
 
