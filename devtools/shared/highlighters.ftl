@@ -23,6 +23,9 @@ gridtype-dual = ජාලක අඩංගුව/අථකය
 # it is a flex container.
 flextype-container = ෆ්ලෙක්ස් අඩංගුව
 # The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a flex item.
+flextype-item = ෆ්ලෙක්ස් අථකය
+# The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is both a flex container and a flex item.
 flextype-dual = ෆ්ලෙක්ස් අඩංගුව/අථකය
 # The text displayed in the button that is in the notice in the content page when the user
