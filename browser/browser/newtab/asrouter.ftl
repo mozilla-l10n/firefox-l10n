@@ -202,3 +202,5 @@ mr2022-background-update-toast-secondary-button-label = Me le rappeler plus tard
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-primarybutton = Découvrir son fonctionnement
+firefoxview-spotlight-promo-secondarybutton = Ignorer
