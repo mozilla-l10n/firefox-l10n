@@ -106,8 +106,21 @@ vcard-note-add = Megjegyzés hozzáadása
 vcard-org-header = Szervezeti tulajdonságok
 vcard-org-add = Szervezeti tulajdonságok hozzáadása
 vcard-org-title = Cím
+vcard-org-title-input =
+    .title = Beosztás vagy munkakör
+    .placeholder = Munkakör neve
 vcard-org-role = Szerep
+vcard-org-role-input =
+    .title = Egy adott helyzetben játszott funkció vagy szerepkör
+    .placeholder = Szerepkör a projektben
 vcard-org-org = Szervezet
+vcard-org-org-input =
+    .title = Szervezet neve
+    .placeholder = Cégnév
+vcard-org-org-unit = Részleg
+vcard-org-org-unit-input =
+    .title = Szervezeti egység neve
+    .placeholder = Részleg
 
 # Custom properties
 
