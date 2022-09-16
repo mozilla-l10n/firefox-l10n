@@ -208,4 +208,6 @@ firefoxview-cfr-secondarybutton = Όχι τώρα
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Πείτε «γεια» στην { -firefoxview-brand-name }
+firefoxview-spotlight-promo-primarybutton = Δείτε πώς λειτουργεί
 firefoxview-spotlight-promo-secondarybutton = Παράλειψη
