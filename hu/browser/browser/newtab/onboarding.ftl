@@ -382,7 +382,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Részletes infor
 
 ## MR2022 Multistage Gratitude screen strings
 
-mr2022-onboarding-gratitude-title = Segít nekünk egy jobb világháló felépítésében.
+mr2022-onboarding-gratitude-title = Segít nekünk egy jobb világháló felépítésében
 mr2022-onboarding-gratitude-subtitle = Köszönjük, hogy a { -brand-short-name(case: "accusative") } használja, amelyet a Mozilla Alapítvány támogat. Az Ön támogatásával azon dolgozunk, hogy az internetet mindenki számára nyitottabbá, hozzáférhetőbbé és jobbá tegyük.
 mr2022-onboarding-gratitude-primary-button-label = Nézze meg az újdonságokat
 mr2022-onboarding-gratitude-secondary-button-label = Böngészés megkezdése
