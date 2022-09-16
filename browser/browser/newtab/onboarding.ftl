@@ -382,7 +382,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostrar informac
 
 ## MR2022 Multistage Gratitude screen strings
 
-mr2022-onboarding-gratitude-title = Nos está ayudando a construir una web mejor.
+mr2022-onboarding-gratitude-title = Nos está ayudando a construir una web mejor
 mr2022-onboarding-gratitude-subtitle = Gracias por usar { -brand-short-name }, respaldado por la Fundación Mozilla. Con su apoyo, estamos trabajando para que Internet sea más abierta, accesible y mejor para todos.
 mr2022-onboarding-gratitude-primary-button-label = Veamos que hay de nuevo
 mr2022-onboarding-gratitude-secondary-button-label = Empezar a navegar
