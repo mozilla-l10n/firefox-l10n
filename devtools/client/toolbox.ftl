@@ -42,3 +42,7 @@ toolbox-mode-parent-process-label = Jano nadrědowany proces
 toolbox-mode-parent-process-sub-label = (Malsny)
 toolbox-mode-parent-process-container =
     .title = Jano fokus na resurse z nadrědowanego procesa.
+toolbox-always-on-top-enabled =
+    .title = Pśecej górjejce znjemóžniś (To buźo wuwijaŕske rědy znowego startowaś)
+toolbox-always-on-top-disabled =
+    .title = Pśecej górjejce zmóžniś (To buźo wuwijaŕske rědy znowego startowaś)
