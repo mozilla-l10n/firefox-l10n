@@ -112,3 +112,6 @@ vcard-org-org = Şirket
 
 vcard-custom-header = Özel Özellikler
 vcard-custom-add = Özel özellik ekle
+vcard-remove-button-title =
+    .title = Kaldır
+vcard-remove-button = Kaldır

@@ -33,6 +33,12 @@ appmenu-new-newsgroup =
 
 appmenu-newab-panel-title =
     .title = Yeni adres defteri
+appmenu-new-carddav =
+    .label = CardDav adres defteri
+    .accesskey = C
+appmenu-new-ldap =
+    .label = LDAP adres defteri
+    .accesskey = L
 
 ## Create
 
