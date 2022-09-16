@@ -5,77 +5,59 @@
 permissions-window =
     .title = Выключэнні
     .style = width: 38em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Адрас вэб-сайта
     .accesskey = д
-
 permissions-block =
     .label = Блакаваць
     .accesskey = Б
-
 permissions-session =
-    .label = Дазволіць на час сесіі
+    .label = Дазволіць на сеанс
     .accesskey = с
-
 permissions-allow =
     .label = Дазволіць
     .accesskey = Д
-
 permissions-button-off =
     .label = Выключыць
     .accesskey = В
-
 permissions-button-off-temporarily =
     .label = Часова выключыць
     .accesskey = Ч
-
 permissions-site-name =
     .label = Вэб-сайт
-
 permissions-status =
     .label = Статус
-
 permissions-remove =
     .label = Выдаліць вэб-сайт
     .accesskey = В
-
 permissions-remove-all =
     .label = Выдаліць усе вэб-сайты
     .accesskey = ы
-
 permission-dialog =
     .buttonlabelaccept = Захаваць змены
     .buttonaccesskeyaccept = Ы
-
 permissions-autoplay-menu = Прадвызначана для ўсіх сайтаў:
-
 permissions-searchbox =
     .placeholder = Пошук сярод вэб-сайтаў
-
 permissions-capabilities-autoplay-allow =
     .label = Дазваляць гук і відэа
 permissions-capabilities-autoplay-block =
     .label = Блакаваць гук
 permissions-capabilities-autoplay-blockall =
     .label = Блакаваць гук і відэа
-
 permissions-capabilities-allow =
     .label = Дазволіць
 permissions-capabilities-block =
     .label = Блакаваць
 permissions-capabilities-prompt =
     .label = Заўсёды пытаць
-
 permissions-capabilities-listitem-allow =
     .value = Дазволіць
 permissions-capabilities-listitem-block =
     .value = Блакаваць
 permissions-capabilities-listitem-allow-session =
     .value = Дазволіць на час сэсіі
-
 permissions-capabilities-listitem-off =
     .value = Выкл.
 permissions-capabilities-listitem-off-temporarily =
