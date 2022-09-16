@@ -42,3 +42,7 @@ toolbox-mode-parent-process-label = 僅有父處理程序
 toolbox-mode-parent-process-sub-label = （快速）
 toolbox-mode-parent-process-container =
     .title = 謹聚焦於來自父處理程序的資源。
+toolbox-always-on-top-enabled =
+    .title = 停用「總是顯示在最上層」（將重新啟動開發者工具）
+toolbox-always-on-top-disabled =
+    .title = 啟用「總是顯示在最上層」（將重新啟動開發者工具）
