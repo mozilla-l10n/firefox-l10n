@@ -42,3 +42,7 @@ toolbox-mode-parent-process-label = Yalnızca üst işlem
 toolbox-mode-parent-process-sub-label = (Hızlı)
 toolbox-mode-parent-process-container =
     .title = Sadece üst işlemdeki kaynaklara odaklan.
+toolbox-always-on-top-enabled =
+    .title = Her zaman üstte modunu kapat (Geliştirici araçlarını yeniden başlatır)
+toolbox-always-on-top-disabled =
+    .title = Her zaman üstte modunu aç (Geliştirici araçlarını yeniden başlatır)
