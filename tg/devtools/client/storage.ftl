@@ -66,3 +66,7 @@ storage-tree-labels-cache = Захирагоҳи зерҳофиза
 storage-expires-session = Ҷаласа
 # Heading displayed over the item value in the sidebar
 storage-data = Иттилоот
+# Error notification when IndexedDB database could not be deleted.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-error = Пойгоҳи иттилоотии «{ $dbName }» нест карда намешавад.

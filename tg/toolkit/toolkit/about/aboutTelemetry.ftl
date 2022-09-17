@@ -30,6 +30,8 @@ about-telemetry-upload-type =
 #   $selectedTitle (String): the section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Ҷустуҷӯ дар { $selectedTitle }
+about-telemetry-filter-all-placeholder =
+    .placeholder = Ҷустуҷӯ дар ҳамаи қисматҳо
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = ҳама
 # button label to copy the histogram

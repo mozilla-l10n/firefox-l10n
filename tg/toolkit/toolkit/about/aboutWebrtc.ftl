@@ -76,6 +76,8 @@ about-webrtc-show-tab-label = Намоиш додани варақа
 ## Variables:
 ##  $path (String) - The path to which the file is saved.
 
+about-webrtc-save-page-msg = саҳифа ба масири зерин нигоҳ дошта шуд: { $path }
+about-webrtc-debug-mode-off-state-msg = сабти рӯйдодҳои пайгирӣ метавонад дар масири зерин пайдо шавад: { $path }
 
 ##
 
