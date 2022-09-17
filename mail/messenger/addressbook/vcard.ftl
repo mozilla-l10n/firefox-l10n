@@ -106,10 +106,26 @@ vcard-note-add = Добавить заметку
 vcard-org-header = Организация
 vcard-org-add = Добавить организацию
 vcard-org-title = Должность
+vcard-org-title-input =
+    .title = Должность или позиция
+    .placeholder = Должность
 vcard-org-role = Роль
+vcard-org-role-input =
+    .title = Функция или роль, выполняемая в конкретной ситуации
+    .placeholder = Роль в проекте
 vcard-org-org = Организация
+vcard-org-org-input =
+    .title = Наименование организации
+    .placeholder = Наименование компании
+vcard-org-org-unit = Департамент
+vcard-org-org-unit-input =
+    .title = Наименование подразделения организации
+    .placeholder = Департамент
 
 # Custom properties
 
 vcard-custom-header = Пользовательские свойства
 vcard-custom-add = Добавить пользовательские свойства
+vcard-remove-button-title =
+    .title = Удалить
+vcard-remove-button = Удалить
