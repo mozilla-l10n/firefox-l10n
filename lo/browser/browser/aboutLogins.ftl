@@ -34,12 +34,16 @@ login-list-count =
 login-list-sort-label-text = ຈັດຮຽງຕາມ:
 login-list-name-option = ຊື່ (A-Z)
 login-list-name-reverse-option = ຊື່ (A-Z)
+login-list-username-option = ຊື່ຜູ້ໃຊ້ (A-Z)
+login-list-username-reverse-option = ຊື່ຜູ້ໃຊ້ (Z-A)
 about-logins-login-list-alerts-option = ແຈ້ງເຕືອນ
 login-list-last-changed-option = ການແກ້ໄຂຄັ້ງຫລ້າສຸດ
 login-list-last-used-option = ໃຊ້ຫຼ້າສຸດ
 login-list-intro-title = ບໍ່ພົບການເຂົ້າສູ່ລະບົບ
+about-logins-login-list-empty-search-title = ບໍ່ພົບການເຂົ້າສູ່ລະບົບ
 login-list-item-title-new-login = ເຂົ້າສູ່ລະບົບໃໝ່
 login-list-item-subtitle-missing-username = (ບໍ່ມີຊື່ຜູ້ໃຊ້)
+about-logins-list-section-nothing = ບໍ່ມີການແຈ້ງເຕືອນ
 about-logins-list-section-today = ມື້ນີ້
 about-logins-list-section-yesterday = ມື້ວານ
 about-logins-list-section-week = 7 ມື້ກ່ອນ
@@ -55,15 +59,22 @@ about-logins-login-item-remove-button = ລຶບ
 login-item-origin-label = ທີ່ຢູ່ເວັບໄຊທ໌
 login-item-origin =
     .placeholder = https://www.example.com
+login-item-username-label = ຊື່ຜູ້ໃຊ້
 about-logins-login-item-username =
     .placeholder = (ບໍ່ມີຊື່ຜູ້ໃຊ້)
+login-item-copy-username-button-text = ສຳເນົາ
 login-item-copied-username-button-text = ສຳເນົາແລ້ວ!
 login-item-password-label = ລະຫັດຜ່ານ
+login-item-password-reveal-checkbox =
+    .aria-label = ສະແດງລະຫັດຜ່ານ
 login-item-copy-password-button-text = ສຳເນົາ
 login-item-copied-password-button-text = ສຳເນົາແລ້ວ!
 login-item-save-changes-button = ບັນທຶກການປ່ຽນແປງ
 login-item-save-new-button = ບັນທຶກ
+login-item-cancel-button = ຍົກເລີກ
 login-item-time-changed = ດັດແກ້ຫຼ້າສຸດ: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = ຖືກສ້າງ: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = ນຳໃຊ້ຫຼ້າສຸດ: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## OS Authentication dialog
 
@@ -76,6 +87,9 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ແກ້ໄຂການເຂົ້າສູ່ລະບົບທີ່ບັນທຶກໄວ້
+# This message can be seen when attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = ເປີດເຜີຍລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = ສຳເນົາລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
@@ -88,21 +102,52 @@ about-logins-copy-password-os-auth-dialog-message-macosx = ສຳເນົາລ
 confirmation-dialog-cancel-button = ຍົກເລີກ
 confirmation-dialog-dismiss-button =
     .title = ຍົກເລີກ
+about-logins-confirm-remove-dialog-confirm-button = ລຶບ
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] ລົບອອກ
+       *[other] ລົບອອກທັງໝົດ
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] ແມ່ນແລ້ວ, ລຶບການເຂົ້າສູ່ລະບົບ
+       *[other] ແມ່ນແລ້ວ, ລຶບການເຂົ້າສູ່ລະບົບເຫຼົ່ານີ້ອອກ
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+       *[other] ລຶບການເຂົ້າສູ່ລະບົບທັງໝົດ { $count } ອອກບໍ?
+    }
+about-logins-confirm-export-dialog-confirm-button = ສົ່ງອອກ...
+about-logins-alert-import-title = ນໍາເຂົ້າສໍາເລັດ
+confirm-discard-changes-dialog-confirm-button = ຖິ້ມ
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = ການຮົ່ວໄຫລຂອງເວັບໄຊທ
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = ໄປທີ່ { $hostname }
+about-logins-breach-alert-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 
 ## Vulnerable Password notification
 
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = ໄປທີ່ { $hostname }
+about-logins-vulnerable-alert-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 
 ## Error Messages
 
 
 ## Login Export Dialog
 
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
 
 ## Login Import Dialog
 
+about-logins-import-file-picker-import-button = ນຳເຂົ້າ
 
 ##
 ## Variables:
