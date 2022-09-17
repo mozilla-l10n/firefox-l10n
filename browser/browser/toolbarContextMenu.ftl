@@ -39,6 +39,12 @@ toolbar-context-menu-remove-extension =
 toolbar-context-menu-report-extension =
     .label = දිගුව වාර්තා කරන්න
     .accesskey = o
+# Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
+# ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
+# have different access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = පිටාර වට්ටෝරුවට අමුණන්න
+    .accesskey = P
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = හිස් විට බොත්තම සඟවන්න
     .accesskey = H

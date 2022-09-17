@@ -4,6 +4,8 @@
 
 customize-mode-restore-defaults =
     .label = පෙරනිමියට ප්‍රත්‍යර්පණය
+customize-mode-menu-and-toolbars-header = ඔබගේ ප්‍රියතම අථක මෙවලම් තීරුවට හෝ පිටාරයට ඇද දමන්න.
+customize-mode-overflow-list-title = පිටාර වට්ටෝරුව
 customize-mode-uidensity =
     .label = ඝනත්‍වය
 customize-mode-done =

@@ -5,9 +5,16 @@
 
 ## Customization Menu
 
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = පිටාර වට්ටෝරුවෙන් ගළවන්න
+    .accesskey = U
 customize-menu-add-to-toolbar =
     .label = මෙවලම් තීරුවට යොදන්න
     .accesskey = A
+customize-menu-add-to-overflowmenu =
+    .label = පිටාර වට්ටෝරුවට යොදන්න
+    .accesskey = M
 
 ## Forget Button
 
