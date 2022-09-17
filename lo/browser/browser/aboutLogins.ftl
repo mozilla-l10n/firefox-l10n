@@ -153,6 +153,14 @@ about-logins-import-file-picker-import-button = ນຳເຂົ້າ
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-done = ສຳເລັດ
+about-logins-import-dialog-error-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
+about-logins-import-dialog-error-cancel = ຍົກເລີກ
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = ແຖວ { $number }
+about-logins-import-report-row-description-added = ເພີ່ມການເຂົ້າສູ່ລະບົບໃໝ່ແລ້ວ
 
 ##
 ## Variables:

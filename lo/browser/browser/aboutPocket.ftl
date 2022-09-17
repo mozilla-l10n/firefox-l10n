@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ເພີ່ມແທັກ
-
 pocket-panel-saved-error-generic = ເກີດຂໍ້ຜິດພາດເມື່ອພະຍາຍາມຈະບັນທຶກລົງໃນ { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = ແທັກຕ້ອງບໍ່ເກີນ 25 ຕົວອັກສອນ
 pocket-panel-saved-error-only-links = ມີພຽງແຕ່ລີ້ງເທົ່ານັ້ນທີ່ສາມາດບັນທຶກໄດ້
@@ -26,6 +25,8 @@ pocket-panel-saved-saving-tags = ກຳລັງບັນທຶກ...
 pocket-panel-saved-suggested-tags = ແທັກທີ່ໄດ້ຮັບການແນະນຳ
 pocket-panel-saved-tags-saved = ໄດ້ເພີ່ມແທັກແລ້ວ
 pocket-panel-signup-view-list = ເບີ່ງລາຍການ
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = ເພີ່ມແທັກ:
 
 ## about:pocket-signup panel
 
@@ -41,7 +42,15 @@ pocket-panel-signup-tagline-story-two = ເບີ່ງໃນ { -pocket-brand-na
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = ລາຍການຂອງຂ້ອຍ
+pocket-panel-home-welcome-back = ຍິນ​ດີ​ຕ້ອນ​ຮັບ​ກັບ
+pocket-panel-home-discover-more = ຄົ້ນຫາເພີ່ມເຕີມ
+pocket-panel-home-explore-more = ສຳຫຼວດ
+
 ## Pocket panel header component
+
+pocket-panel-header-sign-in = ລົງຊື່ເຂົ້າໃຊ້
 
 ## Pocket panel buttons
 
+pocket-panel-button-show-all = ສະແດງທັງໝົດ
