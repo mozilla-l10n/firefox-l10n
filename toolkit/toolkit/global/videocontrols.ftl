@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Bu videoyu dışarı çıkar
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Daha fazla ekran, daha fazla eğlence. Bu videoyu görüntü içinde görüntü modunda izleyin.
+videocontrols-picture-in-picture-explainer3 = Daha çok ekran, daha çok eğlence. Başka şeyler yaparken bu videoyu da oynatın.
 videocontrols-error-aborted = Video yükleme durduruldu.
 videocontrols-error-network = Bir ağ hatası nedeniyle video oynatması iptal edildi.
 videocontrols-error-decode = Dosya hasarlı olduğu için video oynatılamıyor.
