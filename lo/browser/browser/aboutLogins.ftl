@@ -18,6 +18,8 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = ນຳເຂົ້າຂໍ້ມູນຈາກບຣາວເຊີອື່ນ…
 about-logins-menu-menuitem-import-from-a-file = ນຳເຂົ້າຈາກໄຟລ໌...
+about-logins-menu-menuitem-export-logins = ສົ່ງອອກການເຂົ້າສູ່ລະບົບ...
+about-logins-menu-menuitem-remove-all-logins = ລຶບການເຂົ້າສູ່ລະບົບທັງໝົດ...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ການຕັ້ງຄ່າ
@@ -43,6 +45,12 @@ login-list-intro-title = ບໍ່ພົບການເຂົ້າສູ່ລ�
 about-logins-login-list-empty-search-title = ບໍ່ພົບການເຂົ້າສູ່ລະບົບ
 login-list-item-title-new-login = ເຂົ້າສູ່ລະບົບໃໝ່
 login-list-item-subtitle-missing-username = (ບໍ່ມີຊື່ຜູ້ໃຊ້)
+about-logins-list-item-breach-icon =
+    .title = ເວັບໄຊທ໌ທີ່ມີການຮົ່ວໄຫລ
+about-logins-list-item-vulnerable-password-icon =
+    .title = ລະຫັດຜ່ານທີ່ມີຄວາມສ່ຽງ
+about-logins-list-section-breach = ເວັບໄຊທ໌ທີ່ມີການຮົ່ວໄຫລ
+about-logins-list-section-vulnerable = ລະຫັດຜ່ານທີ່ມີຄວາມສ່ຽງ
 about-logins-list-section-nothing = ບໍ່ມີການແຈ້ງເຕືອນ
 about-logins-list-section-today = ມື້ນີ້
 about-logins-list-section-yesterday = ມື້ວານ
@@ -50,6 +58,7 @@ about-logins-list-section-week = 7 ມື້ກ່ອນ
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-in = ບໍ່ພົບການເຂົ້າສູ່ລະບົບທີ່ຊິ້ງ.
 
 ## Login
 
@@ -96,12 +105,17 @@ about-logins-copy-password-os-auth-dialog-message-macosx = ສຳເນົາລ
 
 ## Primary Password notification
 
+master-password-reload-button =
+    .label = ເຂົ້າສູ່ລະບົບ
+    .accesskey = L
 
 ## Dialogs
 
 confirmation-dialog-cancel-button = ຍົກເລີກ
 confirmation-dialog-dismiss-button =
     .title = ຍົກເລີກ
+about-logins-confirm-remove-dialog-title = ລົບການເຂົ້າສູ່ລະບົບນີ້?
+confirm-delete-dialog-message = ການກະທຳນີ້ບໍ່ສາມາດຍົກເລີກໄດ້.
 about-logins-confirm-remove-dialog-confirm-button = ລຶບ
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
@@ -144,9 +158,19 @@ about-logins-vulnerable-alert-learn-more-link = ຮຽນຮູ້ເພີ່�
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = ສົ່ງອອກ...
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] ໄຟລ໌ CSV
+       *[other] ໄຟລ໌ CSV
+    }
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = ນໍາເຂົ້າໄຟລ໌ເຂົ້າສູ່ລະບົບ
 about-logins-import-file-picker-import-button = ນຳເຂົ້າ
 
 ##
@@ -154,7 +178,11 @@ about-logins-import-file-picker-import-button = ນຳເຂົ້າ
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-done = ສຳເລັດ
+about-logins-import-dialog-error-title = ມີຂໍ້ຜິດພາດໃນການນຳເຂົ້າ
+about-logins-import-dialog-error-file-permission-title = ບໍ່ສາມາດອ່ານໄຟລ໌ໄດ້
+about-logins-import-dialog-error-unable-to-read-title = ບໍ່ສາມາດວິເຄາະໄຟລ໌ໄດ້
 about-logins-import-dialog-error-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
+about-logins-import-dialog-error-try-import-again = ລອງນຳເຂົ້າອີກຄັ້ງ...
 about-logins-import-dialog-error-cancel = ຍົກເລີກ
 #
 # Variables:

@@ -39,6 +39,7 @@ pocket-panel-signup-signup-firefox = ລົງທະບຽນດ້ວຍ { -bra
 pocket-panel-signup-tagline = ບັນທືກບົດຄວາມ ແລະ ວີດີໂອຈາກ { -brand-product-name } ເພື່ອເບີ່ງໃນ { -pocket-brand-name } ເທີງອຼປະກອນຕ່າງໆ ທຼກເວລາ
 pocket-panel-signup-tagline-story-one = ຄິກປຸ່ມ { -pocket-brand-name } ເພື່ອບັນທຶກກະທູ້, ວີດີໂອ ຫຼຶ ໜ້າອື່ນໆຈາກ { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = ເບີ່ງໃນ { -pocket-brand-name } ເທີງອຸປະກອນຕ່າງໆ ທຸກເວລາ
+pocket-panel-signup-cta-c = ເບິ່ງລາຍຊື່ຂອງທ່ານໃນອຸປະກອນໃດກໍໄດ້, ທຸກເວລາ.
 
 ## about:pocket-home panel
 
@@ -49,8 +50,10 @@ pocket-panel-home-explore-more = ສຳຫຼວດ
 
 ## Pocket panel header component
 
+pocket-panel-header-my-list = ເບີ່ງລາຍການຂອງຂ້ອຍ
 pocket-panel-header-sign-in = ລົງຊື່ເຂົ້າໃຊ້
 
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = ສະແດງທັງໝົດ
+pocket-panel-button-remove = ລຶບ
