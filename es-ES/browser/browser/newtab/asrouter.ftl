@@ -206,6 +206,12 @@ firefoxview-cfr-primarybutton = Inténtelo
 firefoxview-cfr-secondarybutton = Ahora no
     .accesskey = n
 firefoxview-cfr-header = Recupere las pestañas cerradas recientemente con { -firefoxview-brand-name }
+firefoxview-cfr-body = Además, pase sin problemas de un dispositivo a otro y agregue un toque de color a tu navegador.
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Salude a { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = ¿Quiere esa pestaña abierta en su teléfono? Recupérela al vuelo. ¿Necesita ese sitio que acaba de visitar? Está en { -firefoxview-brand-name }.
+firefoxview-spotlight-promo-primarybutton = Ver cómo funciona
+firefoxview-spotlight-promo-secondarybutton = Saltar
