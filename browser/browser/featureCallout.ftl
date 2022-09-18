@@ -18,3 +18,15 @@ callout-firefox-view-recently-closed-subtitle = Todas las pestañas cerradas apa
 callout-firefox-view-colorways-title = Añade un toque de color
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Elija el tono que le represente con combinaciones de colores. Solo en { -brand-product-name }.
+callout-firefox-view-colorways-reminder-title = Explore nuestras últimas combinaciones de colores
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = Coloree su navegador con estos tonos icónicos, inspirados en voces independientes. Solo en { -brand-product-name }.
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = Mejore su navegación con la recuperación de pestañas
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Acceda a sus pestañas abiertas desde cualquier dispositivo. Además, sincronice sus marcadores, contraseñas y más.
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Comenzar

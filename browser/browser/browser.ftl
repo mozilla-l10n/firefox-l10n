@@ -77,6 +77,7 @@ browser-main-window-mac-window-titles =
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
 private-browsing-shortcut-text = { -brand-short-name } - Navegación privada
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } Navegación privada
 
 ##
 
@@ -267,9 +268,6 @@ search-one-offs-actions =
     .tooltiptext = Acciones ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
-
-
-## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
@@ -325,6 +323,9 @@ quickactions-cmd-update = actualizar
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Ver código fuente
 quickactions-cmd-viewsource = ver fuente, fuente
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Saber más sobre las acciones rápidas
 
 ## Bookmark Panel
 
