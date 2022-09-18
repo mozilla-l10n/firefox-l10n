@@ -77,6 +77,7 @@ browser-main-window-mac-window-titles =
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
 private-browsing-shortcut-text = Súkromné prehliadanie { -brand-short-name(case: "gen") }
+private-browsing-shortcut-text-2 = Súkromné prehliadanie { -brand-shortcut-name(case: "gen") }
 
 ##
 
@@ -86,7 +87,7 @@ urlbar-identity-button =
 ## Tooltips for images appearing in the address bar
 
 urlbar-services-notification-anchor =
-    .tooltiptext = Otvoriť inštalačný panel správ
+    .tooltiptext = Otvoriť panel správ pre inštalácie
 urlbar-web-notification-anchor =
     .tooltiptext = Zmení, či môžete zo stránky prijímať upozornenia
 urlbar-midi-notification-anchor =
@@ -96,29 +97,29 @@ urlbar-eme-notification-anchor =
 urlbar-web-authn-anchor =
     .tooltiptext = Otvorí kartu webovej autentifikácie
 urlbar-canvas-notification-anchor =
-    .tooltiptext = Správa povolení prístupu k informáciám canvasu
+    .tooltiptext = Spravovať povolenia prístupu k informáciám canvasu
 urlbar-web-rtc-share-microphone-notification-anchor =
     .tooltiptext = Spravovať zdieľanie mikrofónu so stránkou
 urlbar-default-notification-anchor =
-    .tooltiptext = Otvorí panel správ
+    .tooltiptext = Otvoriť panel správ
 urlbar-geolocation-notification-anchor =
-    .tooltiptext = Otvorí panel so žiadosťou o polohu
+    .tooltiptext = Otvoriť panel so žiadosťou o polohu
 urlbar-xr-notification-anchor =
-    .tooltiptext = Otvorí panel povolení pre virtuálnu realitu
+    .tooltiptext = Otvoriť panel povolení pre virtuálnu realitu
 urlbar-storage-access-anchor =
     .tooltiptext = Otvorí nastavenia prístupu k informáciám o vašom prehliadaní
 urlbar-translate-notification-anchor =
-    .tooltiptext = Preloží túto stránku
+    .tooltiptext = Preložiť túto stránku
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Spravovať zdieľanie vašich okien alebo obrazovky so stránkou
 urlbar-indexed-db-notification-anchor =
-    .tooltiptext = Otvorí panel správ offline úložiska
+    .tooltiptext = Otvoriť panel správ pre offline úložisko
 urlbar-password-notification-anchor =
-    .tooltiptext = Otvorí panel správ uloženia hesla
+    .tooltiptext = Otvoriť panel správ pre uloženie hesla
 urlbar-translated-notification-anchor =
     .tooltiptext = Spravovať preklad stránky
 urlbar-plugins-notification-anchor =
-    .tooltiptext = Správa používania zásuvných modulov
+    .tooltiptext = Spravovať používanie zásuvných modulov
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Spravovať zdieľanie webkamery a/alebo mikrofónu so stránkou
 # "Speakers" is used in a general sense that might include headphones or
@@ -126,11 +127,11 @@ urlbar-web-rtc-share-devices-notification-anchor =
 urlbar-web-rtc-share-speaker-notification-anchor =
     .tooltiptext = Spravovať zdieľanie zvukových zariadení so stránkou
 urlbar-autoplay-notification-anchor =
-    .tooltiptext = Otvorí panel automatického prehrávania
+    .tooltiptext = Otvoriť panel automatického prehrávania
 urlbar-persistent-storage-notification-anchor =
-    .tooltiptext = Uloží údaje do trvalého úložiska
+    .tooltiptext = Uložiť údaje do trvalého úložiska
 urlbar-addons-notification-anchor =
-    .tooltiptext = Otvorí panel správ inštalácie doplnkov
+    .tooltiptext = Otvoriť panel správ pre inštalácie doplnkov
 urlbar-tip-help-icon =
     .title = Získať pomoc
 urlbar-search-tips-confirm = Ok, rozumiem
@@ -267,9 +268,6 @@ search-one-offs-actions =
     .tooltiptext = Akcie ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
-
-
-## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
@@ -325,6 +323,9 @@ quickactions-cmd-update = aktualizovať
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Zobraziť zdrojový kód
 quickactions-cmd-viewsource = zobraziť zdrojový kód, zdrojový kód
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Ďalšie informácie o Rýchlych akciách
 
 ## Bookmark Panel
 
