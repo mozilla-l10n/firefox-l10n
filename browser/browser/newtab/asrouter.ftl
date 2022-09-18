@@ -202,3 +202,12 @@ mr2022-background-update-toast-primary-button-label = Відкрити { -brand-
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Нагадати пізніше
+
+## Firefox View CFR
+
+firefoxview-cfr-header = Поверніть нещодавно закриті вкладки за допомогою { -firefoxview-brand-name(case: "gen", capitalization: "lower") }
+
+## Firefox View Spotlight
+
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Ця відкрита вкладка потрібна на вашому телефоні? Перенесіть її. Потрібен щойно відвіданий сайт? Пуф, він повернувся за допомогою { -firefoxview-brand-name(case: "gen", capitalization: "lower") }
