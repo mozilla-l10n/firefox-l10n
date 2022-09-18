@@ -188,6 +188,11 @@ spotlight-pin-secondary-button = Mačči tura
 ## Windows and therefore must be as narrow as possible.
 
 # This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Ldi { -brand-shorter-name } tura
+# This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
@@ -198,5 +203,6 @@ mr2022-background-update-toast-secondary-button-label = Mekti-y-id ticki
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Ini azul i { -firefoxview-brand-name }
 firefoxview-spotlight-promo-primarybutton = Wali amek i itteddu
 firefoxview-spotlight-promo-secondarybutton = Suref
