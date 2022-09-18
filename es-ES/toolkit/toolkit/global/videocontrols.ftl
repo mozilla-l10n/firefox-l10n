@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Separar este vídeo
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Cuantas más pantallas, más diversión. Reproduzca este vídeo en Picture-in-Picture mientras navega.
+videocontrols-picture-in-picture-explainer3 = Cuantas más pantallas más diversión. Reproduzca este vídeo mientras hace otras cosas.
 videocontrols-error-aborted = Se ha detenido la carga del vídeo.
 videocontrols-error-network = La reproducción del vídeo se ha interrumpido por un error de red.
 videocontrols-error-decode = No se puede reproducir el vídeo porque el archivo está dañado.
