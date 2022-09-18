@@ -267,9 +267,6 @@ search-one-offs-actions =
     .tooltiptext = Accions ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
-
-
-## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
@@ -306,6 +303,8 @@ quickactions-cmd-screenshot = captura d’ecran
 # Opens about:preferences
 quickactions-settings = Dobrir los paramètres
 quickactions-cmd-settings = paramètres, preferéncias, opcions
+# Opens about:addons page in the themes section
+quickactions-themes = Gerir los tèmas
 quickactions-cmd-themes = tèmas
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Metre a jorn { -brand-short-name }
