@@ -106,8 +106,21 @@ vcard-note-add = Lägg till anteckning
 vcard-org-header = Organisatoriska egenskaper
 vcard-org-add = Lägg till organisatoriska egenskaper
 vcard-org-title = Titel
+vcard-org-title-input =
+    .title = Befattning eller jobb
+    .placeholder = Jobbtitel
 vcard-org-role = Roll
+vcard-org-role-input =
+    .title = Funktion eller roll i en viss situation
+    .placeholder = Roll i ett projekt
 vcard-org-org = Organisation
+vcard-org-org-input =
+    .title = Organisationsnamn
+    .placeholder = Företagsnamn
+vcard-org-org-unit = Avdelning
+vcard-org-org-unit-input =
+    .title = Organisationsenhetens namn
+    .placeholder = Avdelning
 
 # Custom properties
 
