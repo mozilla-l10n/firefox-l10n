@@ -42,3 +42,7 @@ toolbox-mode-parent-process-label = 仅父进程
 toolbox-mode-parent-process-sub-label = （快速）
 toolbox-mode-parent-process-container =
     .title = 仅聚焦于来自父进程的资源。
+toolbox-always-on-top-enabled =
+    .title = 禁用“总显示在最前端”（将重启开发者工具）
+toolbox-always-on-top-disabled =
+    .title = 启用“总显示在最前端”（将重启开发者工具）
