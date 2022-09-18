@@ -39,6 +39,7 @@ firefoxview-tabpickup-sync-error-primarybutton = Tornar ensajar
 firefoxview-mobile-confirmation-header = 🎉 Tot es prèst !
 firefoxview-closed-tabs-title = Tampats recentament
 firefoxview-closed-tabs-description = Tornatz dobrir las paginas qu’avètz tampadas sus aqueste aparelh.
+firefoxview-closed-tabs-description2 = Tornatz dobrir las paginas qu’avètz tampadas dins aquesta pagina.
 firefoxview-closed-tabs-placeholder = <strong>Cap de pagina pas tampada recentament</strong><br/>Ajatz pas jamai paur de pèrdre una pagina tampada. La podètz totjorn recuperar d’aquí estant.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Darrièr actiu
