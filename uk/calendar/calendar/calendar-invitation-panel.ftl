@@ -6,9 +6,19 @@
 # $organizer (String) - The participant that created the original invitation.
 calendar-invitation-panel-intro = { $organizer } запрошує вас:
 # Variables:
+# $organizer (String) - The participant that updated the original invitation.
+calendar-invitation-panel-intro-update = { $organizer } оновлює:
+# Variables:
+# $organizer (String) - The participant that cancelled the invitation.
+calendar-invitation-panel-intro-cancel = { $organizer } скасовує:
+# Variables:
 # $summary (String) - A short summary or title of the event.
 calendar-invitation-panel-title = { $summary }
 calendar-invitation-panel-action-button = Зберегти
+calendar-invitation-panel-save-button = Зберегти
+calendar-invitation-panel-view-button = Переглянути
+calendar-invitation-panel-update-button = Оновити
+calendar-invitation-panel-delete-button = Видалити
 calendar-invitation-panel-accept-button = Так
 calendar-invitation-panel-decline-button = Ні
 calendar-invitation-panel-tentative-button = Можливо
