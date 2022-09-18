@@ -107,7 +107,17 @@ vcard-org-header = Організаційні властивості
 vcard-org-add = Додати організаційні властивості
 vcard-org-title = Заголовок
 vcard-org-role = Роль
+vcard-org-role-input =
+    .title = Обов'язки або роль у певній ситуації
+    .placeholder = Роль у проєкті
 vcard-org-org = Організація
+vcard-org-org-input =
+    .title = Назва організації
+    .placeholder = Назва компанії
+vcard-org-org-unit = Відділ
+vcard-org-org-unit-input =
+    .title = Назва підрозділу організації
+    .placeholder = Відділ
 
 # Custom properties
 
