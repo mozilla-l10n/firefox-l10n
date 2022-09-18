@@ -7,6 +7,7 @@ about-logins-page-title = ເຂົ້າສູ່ລະບົບ & ລະຫັ
 login-filter =
     .placeholder = ຄົ້ນຫາການລັອກອິນ
 create-login-button = ສ້າງການລັອກອິນໃຫມ່
+fxaccounts-sign-in-text = ເອົາລະຫັດຜ່ານຂອງທ່ານໃນອຸປະກອນອື່ນຂອງທ່ານ
 fxaccounts-sign-in-sync-button = ເຂົ້າສູ່ລະບົບເພື່ອ Sync
 fxaccounts-avatar-button =
     .title = ຈັດການບັນຊີ
@@ -29,6 +30,8 @@ about-logins-menu-menuitem-help = ຊ່ວຍເຫຼືອ
 
 ## Login List
 
+login-list =
+    .aria-label = ການເຂົ້າສູ່ລະບົບກົງກັບຄໍາຖາມຄົ້ນຫາ
 login-list-count =
     { $count ->
        *[other] { $count } ເຂົ້າສູ່ລະບົບ
@@ -44,6 +47,7 @@ login-list-last-used-option = ໃຊ້ຫຼ້າສຸດ
 login-list-intro-title = ບໍ່ພົບການເຂົ້າສູ່ລະບົບ
 about-logins-login-list-empty-search-title = ບໍ່ພົບການເຂົ້າສູ່ລະບົບ
 login-list-item-title-new-login = ເຂົ້າສູ່ລະບົບໃໝ່
+login-list-item-subtitle-new-login = ໃສ່ຂໍ້ມູນການເຂົ້າສູ່ລະບົບຂອງທ່ານ
 login-list-item-subtitle-missing-username = (ບໍ່ມີຊື່ຜູ້ໃຊ້)
 about-logins-list-item-breach-icon =
     .title = ເວັບໄຊທ໌ທີ່ມີການຮົ່ວໄຫລ
@@ -102,6 +106,9 @@ about-logins-reveal-password-os-auth-dialog-message-macosx = ເປີດເຜ�
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = ສຳເນົາລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = ສົ່ງອອກການເຂົ້າສູ່ລະບົບແລະລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
 
 ## Primary Password notification
 
@@ -130,6 +137,10 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
        *[other] ລຶບການເຂົ້າສູ່ລະບົບທັງໝົດ { $count } ອອກບໍ?
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+       *[other] ລຶບການເຂົ້າສູ່ລະບົບທັງໝົດ { $count } ອອກຈາກທຸກອຸປະກອນບໍ?
     }
 about-logins-confirm-export-dialog-confirm-button = ສົ່ງອອກ...
 about-logins-alert-import-title = ນໍາເຂົ້າສໍາເລັດ
