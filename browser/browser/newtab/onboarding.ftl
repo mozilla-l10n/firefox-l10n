@@ -324,6 +324,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Імпортув�
 mr2022-onboarding-colorway-title = Оберіть колір, який вас надихає
 mr2022-onboarding-colorway-subtitle = Незалежні голоси можуть змінити культуру.
 mr2022-onboarding-colorway-primary-button-label = Встановити забарвлення
+mr2022-onboarding-colorway-primary-button-label-continue = Налаштувати та продовжити
 mr2022-onboarding-existing-colorway-checkbox-label = Зробіть { -firefox-home-brand-name(case: "acc", capitalization: "lower") } своєю яскравою домашньою сторінкою
 mr2022-onboarding-colorway-label-default = Типово
 mr2022-onboarding-colorway-tooltip-default =
