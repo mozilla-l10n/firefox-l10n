@@ -201,6 +201,7 @@ firefoxview-cfr-primarybutton = 试试看
     .accesskey = T
 firefoxview-cfr-secondarybutton = 暂时不要
     .accesskey = N
+firefoxview-cfr-header = 通过 { -firefoxview-brand-name } 找回最近关闭的标签页
 
 ## Firefox View Spotlight
 
