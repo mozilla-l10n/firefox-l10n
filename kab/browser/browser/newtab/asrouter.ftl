@@ -200,6 +200,8 @@ mr2022-background-update-toast-secondary-button-label = Mekti-y-id ticki
 
 ## Firefox View CFR
 
+firefoxview-cfr-secondarybutton = Mačči tura
+    .accesskey = M
 
 ## Firefox View Spotlight
 
