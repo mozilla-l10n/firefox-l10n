@@ -42,3 +42,7 @@ toolbox-mode-parent-process-label = Iba nadradený proces
 toolbox-mode-parent-process-sub-label = (rýchlejšie)
 toolbox-mode-parent-process-container =
     .title = Zamerať sa iba na zdroje z nadradeného procesu
+toolbox-always-on-top-enabled =
+    .title = Zakázať možnosť Vždy navrchu (týmto sa reštartujú nástroje pre vývojárov)
+toolbox-always-on-top-disabled =
+    .title = Povoliť možnosť Vždy navrchu (týmto sa reštartujú nástroje pre vývojárov)

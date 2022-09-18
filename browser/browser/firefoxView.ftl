@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 Výborne!
 firefoxview-mobile-confirmation-description = Teraz si môžete vziať karty z { -brand-product-name(case: "gen") } v tablete alebo telefóne.
 firefoxview-closed-tabs-title = Nedávno zatvorené
 firefoxview-closed-tabs-description = Otvorte si znova stránky, ktoré ste na tomto zariadení predtým zatvorili.
+firefoxview-closed-tabs-description2 = V tomto okne znova otvorte stránky, ktoré ste zatvorili.
 firefoxview-closed-tabs-placeholder = <strong>Žiadne nedávno zatvorené stránky</strong><br/>Už sa nemusíte báť, že stratíte zatvorenú kartu. Vždy ju môžete nájsť na tomto mieste.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Naposledy prezerané

@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Presunúť video do samostatné
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Viac okien znamená viac zábavy. Počas prehliadania si môžete toto video prehrať v režime Obraz v obraze.
+videocontrols-picture-in-picture-explainer3 = Viac obrazoviek znamená viac zábavy. Prehrajte si toto video, zatiaľ čo robíte iné veci.
 videocontrols-error-aborted = Načítavanie videa zastavené.
 videocontrols-error-network = Prehrávanie videa bolo prerušené kvôli chybe siete.
 videocontrols-error-decode = Video nemôže byť prehraté, pretože súbor je poškodený.

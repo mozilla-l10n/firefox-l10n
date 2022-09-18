@@ -323,6 +323,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importovať z pre
 mr2022-onboarding-colorway-title = Vyberte si farbu, ktorá vás inšpiruje
 mr2022-onboarding-colorway-subtitle = Nezávislé hlasy môžu zmeniť kultúru.
 mr2022-onboarding-colorway-primary-button-label = Použiť farebnú tému
+mr2022-onboarding-colorway-primary-button-label-continue = Nastaviť a pokračovať
 mr2022-onboarding-existing-colorway-checkbox-label = Urobte z { -firefox-home-brand-name(case: "gen") } svoju farebnú domovskú stránku
 mr2022-onboarding-colorway-label-default = Predvolená
 mr2022-onboarding-colorway-tooltip-default =
@@ -375,9 +376,6 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = Vždy rešpektujeme vaše súkromie
 mr2022-onboarding-privacy-segmentation-subtitle = Od inteligentných návrhov po inteligentnejšie vyhľadávanie, neustále pracujeme na vytvorení lepšieho a osobnejšieho { -brand-product-name(case: "gen") }.
-mr2022-onboarding-privacy-segmentation-cta-text = Keď ponúkame nové funkcie, ktoré využívajú vaše údaje na zlepšenie vášho prehliadania, chcete vidieť:
-mr2022-onboarding-privacy-segmentation-primary-button-label = Odporúčania { -brand-product-name(case: "gen") }
-mr2022-onboarding-privacy-segmentation-secondary-button-label = Detailné informácie
 mr2022-onboarding-privacy-segmentation-text-cta = Čo chcete vidieť, keď ponúkame nové funkcie, ktoré využívajú vaše údaje na zlepšenie vášho prehliadania?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Použiť odporúčania { -brand-product-name(case: "gen") }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Zobraziť podrobné informácie
