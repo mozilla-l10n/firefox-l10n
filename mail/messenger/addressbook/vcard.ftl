@@ -106,10 +106,26 @@ vcard-note-add = Pridať poznámku
 vcard-org-header = Pozícia vo firme
 vcard-org-add = Pridať pozíciu vo firme
 vcard-org-title = Titul
+vcard-org-title-input =
+    .title = Pozícia alebo práca
+    .placeholder = Funkcia
 vcard-org-role = Funkcia
+vcard-org-role-input =
+    .title = Funkcia alebo úloha v konkrétnej situácii
+    .placeholder = Úloha v projekte
 vcard-org-org = Organizácia
+vcard-org-org-input =
+    .title = Názov organizácie
+    .placeholder = Názov spoločnosti
+vcard-org-org-unit = Oddelenie
+vcard-org-org-unit-input =
+    .title = Názov organizačnej jednotky
+    .placeholder = Oddelenie
 
 # Custom properties
 
 vcard-custom-header = Vlastné údaje
 vcard-custom-add = Pridať vlastné údaje
+vcard-remove-button-title =
+    .title = Odstrániť
+vcard-remove-button = Odstrániť
