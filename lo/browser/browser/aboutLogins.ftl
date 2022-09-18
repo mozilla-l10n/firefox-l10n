@@ -142,8 +142,12 @@ about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
        *[other] ລຶບການເຂົ້າສູ່ລະບົບທັງໝົດ { $count } ອອກຈາກທຸກອຸປະກອນບໍ?
     }
+about-logins-confirm-export-dialog-title = ສົ່ງອອກເຂົ້າສູ່ລະບົບ ແລະລະຫັດຜ່ານ
 about-logins-confirm-export-dialog-confirm-button = ສົ່ງອອກ...
 about-logins-alert-import-title = ນໍາເຂົ້າສໍາເລັດ
+about-logins-alert-import-message = ເບິ່ງລາຍລະອຽດການນໍາເຂົ້າ
+confirm-discard-changes-dialog-title = ຍົກເລີກການປ່ຽນແປງທີ່ບໍ່ໄດ້ບັນທຶກໄວ້ບໍ?
+confirm-discard-changes-dialog-message = ການປ່ຽນແປງທີ່ບໍ່ໄດ້ບັນທຶກໄວ້ທັງໝົດຈະສູນເສຍໄປ.
 confirm-discard-changes-dialog-confirm-button = ຖິ້ມ
 
 ## Breach Alert notification
@@ -183,18 +187,35 @@ about-logins-export-file-picker-csv-filter-title =
 # Title of the file picker dialog
 about-logins-import-file-picker-title = ນໍາເຂົ້າໄຟລ໌ເຂົ້າສູ່ລະບົບ
 about-logins-import-file-picker-import-button = ນຳເຂົ້າ
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] ໄຟລ໌ CSV
+       *[other] ໄຟລ໌ CSV
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] ໄຟລ໌ CSV
+       *[other] ໄຟລ໌ CSV
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = ນໍາເຂົ້າສໍາເລັດ
 about-logins-import-dialog-done = ສຳເລັດ
 about-logins-import-dialog-error-title = ມີຂໍ້ຜິດພາດໃນການນຳເຂົ້າ
+about-logins-import-dialog-error-file-format-title = ບັນຫາຮູບແບບໄຟລ໌
 about-logins-import-dialog-error-file-permission-title = ບໍ່ສາມາດອ່ານໄຟລ໌ໄດ້
 about-logins-import-dialog-error-unable-to-read-title = ບໍ່ສາມາດວິເຄາະໄຟລ໌ໄດ້
 about-logins-import-dialog-error-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 about-logins-import-dialog-error-try-import-again = ລອງນຳເຂົ້າອີກຄັ້ງ...
 about-logins-import-dialog-error-cancel = ຍົກເລີກ
+about-logins-import-report-title = ສະຫຼຸບການນໍາເຂົ້າ
 #
 # Variables:
 #  $number (number) - The number of the row
