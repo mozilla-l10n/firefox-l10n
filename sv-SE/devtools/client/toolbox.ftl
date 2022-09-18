@@ -42,3 +42,7 @@ toolbox-mode-parent-process-label = Endast föräldraprocess
 toolbox-mode-parent-process-sub-label = (Snabb)
 toolbox-mode-parent-process-container =
     .title = Fokusera bara på resurser från föräldraprocessen.
+toolbox-always-on-top-enabled =
+    .title = Inaktivera alltid överst (Detta kommer att starta om utvecklarverktygen)
+toolbox-always-on-top-disabled =
+    .title = Aktivera alltid överst (Detta kommer att starta om utvecklarverktygen)
