@@ -181,6 +181,7 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับระบบเครือข่ายใน { -brand-shorter-name }
 profiler-popup-presets-networking-label =
     .label = ระบบเครือข่าย
+profiler-popup-presets-power-description = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับการใช้พลังงานใน { -brand-shorter-name } โดยมีโอเวอร์เฮดต่ำ
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = พลังงาน
