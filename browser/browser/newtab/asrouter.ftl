@@ -210,3 +210,4 @@ firefoxview-cfr-header = Recupera las pestañas cerradas recientemente con { -fi
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-primarybutton = Ver cómo funciona
+firefoxview-spotlight-promo-secondarybutton = Saltar
