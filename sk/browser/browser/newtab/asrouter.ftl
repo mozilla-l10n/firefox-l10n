@@ -176,3 +176,46 @@ spotlight-pin-primary-button =
        *[other] Pripnúť na panel úloh
     }
 spotlight-pin-secondary-button = Teraz nie
+
+## MR2022 Background Update Windows native toast notification strings.
+##
+## These strings will be displayed by the Windows operating system in
+## a native toast, like:
+##
+## <b>multi-line title</b>
+## multi-line text
+## <img>
+## [ primary button ] [ secondary button ]
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+mr2022-background-update-toast-title = Nový { -brand-short-name }. Ešte viac zameraný na súkromie. Menej sledovacích prvkov. Žiadne kompromisy.
+mr2022-background-update-toast-text = Vyskúšajte najnovší { -brand-short-name(case: "acc") }, inovovaný s našou doteraz najsilnejšou ochranou proti sledovaniu.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Spustiť { -brand-shorter-name(case: "acc") }
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Pripomenúť neskôr
+
+## Firefox View CFR
+
+firefoxview-cfr-primarybutton = Vyskúšajte ho
+    .accesskey = V
+firefoxview-cfr-secondarybutton = Teraz nie
+    .accesskey = T
+firefoxview-cfr-header = Získajte späť nedávno zatvorené karty vďaka { -firefoxview-brand-name(case: "dat") }
+firefoxview-cfr-body = Navyše plynulo preskakujte medzi zariadeniami a pridajte do svojho prehliadača nový farebný nádych.
+
+## Firefox View Spotlight
+
+firefoxview-spotlight-promo-title = Pozdravte { -firefoxview-brand-name(case: "acc") }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Chcete získať kartu otvorenú vo vašom telefóne? Vezmite si ju. Potrebujete opäť stránku, ktorú ste práve navštívili? Uf, sú späť vďaka funkcii { -firefoxview-brand-name }.
+firefoxview-spotlight-promo-primarybutton = Pozrite sa, ako to funguje
+firefoxview-spotlight-promo-secondarybutton = Preskočiť
