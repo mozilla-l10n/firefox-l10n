@@ -12,6 +12,8 @@ callout-primary-complete-button-label = Skjønar.
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Byt mellom einingar med synkroniserte faner
+callout-firefox-view-tab-pickup-subtitle = Hent snøgt opne faner frå telefonen og opne dei her.
+callout-firefox-view-recently-closed-title = Få tilbake dei attlatne fanene på ein augneblink
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
