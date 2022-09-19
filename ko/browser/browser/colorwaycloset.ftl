@@ -16,7 +16,7 @@ colorway-intensity-bold = 진하게
 # Label for the button to keep using the selected colorway in the browser
 colorway-closet-set-colorway-button = 컬러웨이 설정
 colorway-closet-cancel-button = 취소
-colorway-homepage-reset-prompt = { -firefox-home-brand-name }를 다채로운 홈페이지로 만드세요
+colorway-homepage-reset-prompt = { -firefox-home-brand-name }을 다채로운 홈페이지로 만드세요
 colorway-homepage-reset-success-message = { -firefox-home-brand-name }가 이제 홈페이지입니다
 colorway-homepage-reset-apply-button = 적용
 colorway-homepage-reset-undo-button = 실행 취소
