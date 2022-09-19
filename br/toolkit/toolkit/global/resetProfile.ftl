@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+refresh-profile-dialog-title = Resteurel { -brand-short-name } en e arventennoù dre ziouer ?
 refresh-profile-dialog-button =
     .label = Azbevaat { -brand-short-name }
 refresh-profile = Roit { -brand-short-name } un taol lañs nevez
