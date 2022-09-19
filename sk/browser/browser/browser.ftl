@@ -192,7 +192,7 @@ urlbar-star-edit-bookmark =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
-    .tooltiptext = Pridá stránku medzi záložky ({ $shortcut })
+    .tooltiptext = Pridať stránku medzi záložky ({ $shortcut })
 
 ## Page Action Context Menu
 
