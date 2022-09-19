@@ -18,6 +18,7 @@ pocket-panel-saved-error-not-saved = ໜ້ານີ້ບໍ່ໄດ້ຮັ�
 pocket-panel-saved-page-removed = ລຶບຫນ້ານີ້
 pocket-panel-saved-page-saved = ໄດ້ບັນທຶກລົງໄວ້ຢູ່ໃນ { -pocket-brand-name } ແລ້ວ
 pocket-panel-saved-processing-remove = ກຳລັງລຶບຫນ້ານີ້…
+pocket-panel-saved-removed = ໜ້າຖືກເອົາອອກຈາກລາຍການຂອງຂ້ອຍ
 pocket-panel-saved-processing-tags = ກຳລັງເພີ່ມແທັກ…
 pocket-panel-saved-remove-page = ລຶບຫນ້ານີ້
 pocket-panel-saved-save-tags = ບັນທຶກ

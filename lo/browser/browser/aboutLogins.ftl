@@ -112,6 +112,7 @@ about-logins-export-password-os-auth-dialog-message-macosx = ສົ່ງອອ�
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = ກະລຸນາໃສ່ລະຫັດຜ່ານຫຼັກຂອງທ່ານເພື່ອເບິ່ງການເຂົ້າສູ່ລະບົບ ແລະລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
 master-password-reload-button =
     .label = ເຂົ້າສູ່ລະບົບ
     .accesskey = L
@@ -153,6 +154,7 @@ confirm-discard-changes-dialog-confirm-button = ຖິ້ມ
 ## Breach Alert notification
 
 about-logins-breach-alert-title = ການຮົ່ວໄຫລຂອງເວັບໄຊທ
+about-logins-breach-alert-date = ການຮົ່ວໄຫຼນີ້ເກີດຂຶ້ນເມື່ອ { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = ໄປທີ່ { $hostname }
@@ -209,6 +211,7 @@ about-logins-import-file-picker-tsv-filter-title =
 about-logins-import-dialog-title = ນໍາເຂົ້າສໍາເລັດ
 about-logins-import-dialog-done = ສຳເລັດ
 about-logins-import-dialog-error-title = ມີຂໍ້ຜິດພາດໃນການນຳເຂົ້າ
+about-logins-import-dialog-error-conflicting-values-title = ມີຄ່າຂັດແຍ້ງຫຼາຍຄ່າສໍາລັບການເຂົ້າສູ່ລະບົບດຽວ
 about-logins-import-dialog-error-file-format-title = ບັນຫາຮູບແບບໄຟລ໌
 about-logins-import-dialog-error-file-permission-title = ບໍ່ສາມາດອ່ານໄຟລ໌ໄດ້
 about-logins-import-dialog-error-unable-to-read-title = ບໍ່ສາມາດວິເຄາະໄຟລ໌ໄດ້
@@ -221,6 +224,7 @@ about-logins-import-report-title = ສະຫຼຸບການນໍາເຂົ
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = ແຖວ { $number }
 about-logins-import-report-row-description-added = ເພີ່ມການເຂົ້າສູ່ລະບົບໃໝ່ແລ້ວ
+about-logins-import-report-row-description-error = ຜິດພາດ: ບໍ່ມີບາງຂໍ້ມູນ
 
 ##
 ## Variables:

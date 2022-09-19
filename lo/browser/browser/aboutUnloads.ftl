@@ -8,3 +8,4 @@
 
 about-unloads-column-priority = ຄວາມສຳຄັນ
 about-unloads-column-host = Host
+about-unloads-column-last-accessed = ເຂົ້າເຖິງຫຼ້າສຸດ

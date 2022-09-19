@@ -5,8 +5,12 @@
 privatebrowsingpage-open-private-window-label = ເປີດວິນໂດສ່ວນຕົວ
     .accesskey = ສ
 about-private-browsing-search-placeholder = ຄົ້ນຫາເວັບໄຊທ
+about-private-browsing-info-title = ທ່ານຢູ່ໃນໜ້າຕ່າງສ່ວນຕົວ
+about-private-browsing-search-btn =
+    .title = ຄົ້ນຫາເວັບໄຊທ
 about-private-browsing-handoff-no-engine =
     .title = ຊອກຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
+about-private-browsing-handoff-text-no-engine = ຊອກຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
 about-private-browsing-not-private = ປະຈຸບັນນີ້ທ່ານບໍ່ໄດ້ຢູ່ໃນວິນໂດສ່ວນຕົວ.
 about-private-browsing-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 about-private-browsing-focus-promo-cta = ດາວໂຫລດ { -focus-brand-name }

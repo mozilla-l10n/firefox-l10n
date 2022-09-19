@@ -58,16 +58,33 @@ appmenu-remote-tabs-connectdevice =
     .label = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ
 appmenu-remote-tabs-unverified = ບັນຊີຂອງທ່ານຕ້ອງໄດ້ຮັບການຢືນຢັນ.
 appmenuitem-fxa-toolbar-sync-now2 = Sync ຕອນນີ້
+appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
+appmenu-fxa-signed-in-label = ເຂົ້າ​ສູ່​ລະ​ບົບ
 appmenuitem-save-page =
     .label = ບັນທຶກຫນ້ານີ້ໄວ້ທີ່...
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = ມີ​ຫຍັງ​ໃຫມ່
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-learn-more-button =
+    .label = ຮຽນຮູ້ເພີ່ມເຕີມ
+profiler-popup-settings =
+    .value = ການຕັ້ງຄ່າ
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -77,6 +94,13 @@ appmenuitem-save-page =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-label =
+    .label = ກຣາບຟິກ
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = ພະລັງງານ
 
 ## History panel
 
