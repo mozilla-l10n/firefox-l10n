@@ -18,3 +18,15 @@ callout-firefox-view-recently-closed-subtitle = Al jo sletten ljepblêden sille 
 callout-firefox-view-colorways-title = Foegje wat kleur ta
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Kies it kleur dy’t jo oansprekt mei kleurstellingen. Allinnich yn { -brand-product-name }.
+callout-firefox-view-colorways-reminder-title = Untdek ús nijste kleurstellingen
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = Kleur jo browser mei dizze ikoanyske tinten, ynspirearre troch ûnôfhinklike stimmen. Allinnich yn { -brand-product-name }.
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = Jou jo navigaasje in boost mei it opheljen fan ljepblêden
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Tagong ta jo iepene ljepblêden fan elk apparaat ôf. En syngronisearje jo blêdwizers, wachtwurden en mear.
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Begjinne

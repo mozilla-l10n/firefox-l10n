@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 Jo binne ree!
 firefoxview-mobile-confirmation-description = No kinne jo jo { -brand-product-name }-ljepblêden fan jo tablet of telefoan iepenje.
 firefoxview-closed-tabs-title = Koartlyn sluten
 firefoxview-closed-tabs-description = Siden dy't jo sluten hawwe op dit apparaat opnij iepenje.
+firefoxview-closed-tabs-description2 = Iepenje siden opnij dy’t jo yn dit finster sluten hawwe.
 firefoxview-closed-tabs-placeholder = <strong>Gjin koartlyn sletten siden</strong><br/>Wês nea bang wer in sletten ljepblêd te ferliezen. Jo kinne it hjir altyd ophelje.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Lêst aktyf
