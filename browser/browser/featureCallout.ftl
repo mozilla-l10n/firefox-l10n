@@ -18,3 +18,15 @@ callout-firefox-view-recently-closed-subtitle = Alle dine lukkede faneblade vil 
 callout-firefox-view-colorways-title = Tilføj lidt farve
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Vælg din personlige nuance med farvekombinationer. Kun i { -brand-product-name }.
+callout-firefox-view-colorways-reminder-title = Udforsk vores nyeste farvekombinationer
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = Sæt farve på din browser med disse ikoniske nuancer, der er inspireret af uafhængige stemmer. Kun i { -brand-product-name }.
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = Få en bedre browsing-oplevelse med synkroniserede faneblade
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Hav adgang til åbne faneblade på alle dine enheder. Og synkroniser dine bogmærker og adgangskoder med mere.
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Kom i gang
