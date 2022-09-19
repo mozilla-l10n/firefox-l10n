@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Dizze fideo nei foaren helje
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Mear skermen is aardiger. Spylje dizze fideo ôf yn Picture-in-picture wylst jo navigearje.
+videocontrols-picture-in-picture-explainer3 = Mear skermen betsjut mear nocht. Spylje dizze fideo ôf wylst jo oare saken dogge.
 videocontrols-error-aborted = Fideo laden stopt.
 videocontrols-error-network = Fideo ôfspyljen ôfbrutsen fanwegen in netwurkflater.
 videocontrols-error-decode = Fideo kin net ôfspile wurde omdat it bestân korrupt is.

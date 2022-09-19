@@ -239,6 +239,9 @@ newtab-pocket-last-card-title = Jo binne folslein by!
 newtab-pocket-last-card-desc = Kom letter werom foar mear.
 newtab-pocket-last-card-image =
     .alt = Jo binne folslein by
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Bewarje
+newtab-pocket-saved = Bewarre
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
