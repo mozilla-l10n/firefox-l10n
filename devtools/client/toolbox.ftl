@@ -29,3 +29,8 @@ toolbox-meatball-menu-pseudo-locale-bidi = Activar lenga « bidireccionala �
 
 ##
 
+
+## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
+
+toolbox-mode-everything-sub-label = (Mai lent)
+toolbox-mode-parent-process-sub-label = (Rapid)
