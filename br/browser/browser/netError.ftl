@@ -9,3 +9,4 @@ dns-not-found-with-suggestion = Hag e felle deoc'h mont da <a data-l10n-name="we
 dns-not-found-hint-header = <strong>M'ho peus skrivet ar chomlec'h mat e c'hallit :</strong>
 dns-not-found-hint-try-again = Klask en-dro diwezhatoc'h
 dns-not-found-hint-check-network = Gweredekait oc'h kevreet mat ouzh ar rouedad
+dns-not-found-hint-firewall = Gweredekait en deus { -brand-short-name } an aotre da vont war ar web (kevreet e c'hallfec'h bezañ, met a-dreñv ur maltouter)
