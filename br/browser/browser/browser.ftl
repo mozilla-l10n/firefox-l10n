@@ -264,10 +264,20 @@ search-one-offs-history =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Gwelout an askouezhioù
+quickactions-cmd-addons = adskouezhioù, astennadoù, neuzioù
 quickactions-cmd-addons2 = askouezhioù
 # Opens the bookmarks library window
 quickactions-bookmarks = Gwelout ar sinedoù
 quickactions-cmd-bookmarks = sinedoù
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Skarzhañ ar roll istor
+quickactions-cmd-clearhistory = skarzhañ ar roll istor
+# Opens about:downloads page
+quickactions-downloads = Digeriñ ar pellgargadurioù
+quickactions-cmd-downloads = pellgargadurioù
+# Opens about:addons page in the extensions section
+quickactions-extensions = Merañ an askouezhioù
+quickactions-cmd-extensions = askouezhioù
 
 ## Bookmark Panel
 
