@@ -323,6 +323,9 @@ quickactions-cmd-update = oppdater
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Vis kjeldekode
 quickactions-cmd-viewsource = vis kjelde, kjelde
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Les meir om snøgghandlingar
 
 ## Bookmark Panel
 
