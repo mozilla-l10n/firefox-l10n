@@ -76,7 +76,8 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = { -brand-short-name } Privat nettleseing
+private-browsing-shortcut-text = { -brand-short-name } Privat nettlesing
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } Privat nettlesing
 
 ##
 
@@ -265,9 +266,6 @@ search-one-offs-history =
     .tooltiptext = Historikk ({ $restrict })
 search-one-offs-actions =
     .tooltiptext = Handlingar ({ $restrict })
-
-## QuickActions are shown in the urlbar as the user types a matching string
-
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
@@ -633,7 +631,7 @@ urlbar-group-search-suggestions =
     .label = { $engine }-forslag
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
-    .label = Hurtighandlingar
+    .label = Snøgghandlingar
 
 ## Full Screen and Pointer Lock UI
 
