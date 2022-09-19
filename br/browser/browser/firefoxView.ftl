@@ -56,3 +56,13 @@ firefoxview-closed-tabs-placeholder = <strong>N'eus ket a bajenn serret nevez zo
 firefoxview-tabs-list-tab-button =
     .title = Digeriñ { $targetURI } en un ivinell nevez
 firefoxview-try-colorways-button = Klask al livioù
+firefoxview-change-colorway-button = Cheñch liv
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>Netra da welout c'hoazh</strong><br/>Ar c'hentañ gwech e tigoroc'h un ivinell e { -brand-product-name } war un trevnad all, adtapit anezhi amañ dre vurzhud.
+firefoxview-collapse-button-show =
+    .title = Diskouez al listenn
+firefoxview-collapse-button-hide =
+    .title = Kuzhat al listenn
