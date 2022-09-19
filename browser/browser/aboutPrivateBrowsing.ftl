@@ -53,8 +53,10 @@ about-private-browsing-promo-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+about-private-browsing-pin-promo-header = อิสระในการเรียกดูแบบส่วนตัวในคลิกเดียว
 about-private-browsing-pin-promo-link-text =
     { PLATFORM() ->
         [macos] เก็บไว้ใน Dock
        *[other] ปักหมุดเข้ากับแถบงาน
     }
+about-private-browsing-pin-promo-title = ไม่เก็บคุกกี้หรือประวัติที่บันทึกไว้จากเดสก์ท็อปของคุณ ให้คุณเรียกดูโดยไม่มีใครแอบมอง
