@@ -173,3 +173,40 @@ spotlight-pin-primary-button =
        *[other] Oan taakbalke fêstsette
     }
 spotlight-pin-secondary-button = No net
+
+## MR2022 Background Update Windows native toast notification strings.
+##
+## These strings will be displayed by the Windows operating system in
+## a native toast, like:
+##
+## <b>multi-line title</b>
+## multi-line text
+## <img>
+## [ primary button ] [ secondary button ]
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+mr2022-background-update-toast-title = Nije { -brand-short-name }. Mear privee. Minder trackers. Gjin kompromissen.
+mr2022-background-update-toast-text = Probearje no de nijste { -brand-short-name }, opwurdearre mei ús krêftichste beskerming tsjin folgjen oant no ta.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = { -brand-shorter-name } no iepenje
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Werinnerje my letter
+
+## Firefox View CFR
+
+firefoxview-cfr-primarybutton = Utprobearje
+    .accesskey = U
+firefoxview-cfr-secondarybutton = No net
+    .accesskey = N
+firefoxview-cfr-header = Helje koartlyn sluten ljepblêden werom mei { -firefoxview-brand-name }
+
+## Firefox View Spotlight
+
