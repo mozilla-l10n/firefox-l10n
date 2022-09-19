@@ -194,6 +194,7 @@ spotlight-pin-secondary-button = Ne zdaj
 ## Windows and therefore must be as narrow as possible.
 
 mr2022-background-update-toast-title = Novi { -brand-short-name }. Več zasebnosti. Manj sledenja. Brez kompromisov.
+mr2022-background-update-toast-text = Preizkusite najnovejši { -brand-short-name }, nadgrajen z našo najmočnejšo zaščito pred sledenjem doslej.
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
@@ -204,3 +205,9 @@ mr2022-background-update-toast-primary-button-label = Odpri { -brand-shorter-nam
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Opomni me kasneje
+
+## Firefox View CFR
+
+
+## Firefox View Spotlight
+
