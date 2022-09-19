@@ -106,10 +106,26 @@ vcard-note-add = Opmerking tafoegje
 vcard-org-header = Organisaasjedetails
 vcard-org-add = Organisaasjedetails tafoegje
 vcard-org-title = Titel
+vcard-org-title-input =
+    .title = Posysje of funksje
+    .placeholder = Funksjetitel
 vcard-org-role = Rol
+vcard-org-role-input =
+    .title = Funksje of rol yn in bepaalde situaasje
+    .placeholder = Projektrol
 vcard-org-org = Organisaasje
+vcard-org-org-input =
+    .title = Organisaasjenamme
+    .placeholder = Bedriuwsnamme
+vcard-org-org-unit = Ofdieling
+vcard-org-org-unit-input =
+    .title = Namme organisatoaryske ienheid
+    .placeholder = Ofdieling
 
 # Custom properties
 
 vcard-custom-header = Oanpaste eigenskippen
 vcard-custom-add = Oanpaste eigenskippen tafoegje
+vcard-remove-button-title =
+    .title = Fuortsmite
+vcard-remove-button = Fuortsmite
