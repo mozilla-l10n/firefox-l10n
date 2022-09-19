@@ -262,6 +262,11 @@ mr2022-onboarding-secondary-skip-button-label = Passar aquesta etapa
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Descobrissètz un Internet de pas creire
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -278,6 +283,7 @@ mr2022-onboarding-existing-pin-header = Mercés d’apreciar { -brand-product-na
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-primary-button-label-no-attribution = Importar d’un autre navegador
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
@@ -287,9 +293,11 @@ mr2022-onboarding-existing-pin-header = Mercés d’apreciar { -brand-product-na
 mr2022-onboarding-colorway-title = Causissètz una color que vos inspira
 mr2022-onboarding-colorway-subtitle = Voses independentas pòdon cambiar una cultura.
 mr2022-onboarding-colorway-primary-button-label = Causir lo colorit
+mr2022-onboarding-colorway-primary-button-label-continue = Definir e contunhar
 mr2022-onboarding-colorway-label-default = Per defaut
 mr2022-onboarding-colorway-tooltip-default =
     .title = Per defaut
+mr2022-onboarding-colorway-description-default = <b>Utilizar mas colors actualas de { -brand-short-name }.</b>
 mr2022-onboarding-colorway-label-playmaker = Menatz
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Menatz
@@ -318,6 +326,7 @@ mr2022-onboarding-colorway-tooltip-innovator =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Respectam totjorn vòstra vida privada
 mr2022-onboarding-privacy-segmentation-button-primary-label = Utilizar las recomandacions { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostrar las informacions detalhadas
 

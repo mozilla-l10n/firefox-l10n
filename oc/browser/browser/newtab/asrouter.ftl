@@ -190,4 +190,6 @@ spotlight-pin-secondary-button = Pas ara
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Digatz bonjorn a { -firefoxview-brand-name }
+firefoxview-spotlight-promo-primarybutton = Veire coma fonciona
 firefoxview-spotlight-promo-secondarybutton = Passar
