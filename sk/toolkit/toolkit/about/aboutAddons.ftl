@@ -237,12 +237,12 @@ header-back-button =
 discopane-intro =
     Rozšírenia a témy vzhľadu sú ako aplikácie pre váš prehliadač. S nimi môžete
     chrániť svoje heslá, sťahovať videá, hľadať výhodné ponuky, blokovať reklamy,
-    meniť vzhľad prehliadača a omnoho viac. Tieto malé programy väčšinou vyrába
-    niekto iný ako my. Tu je výber <a data-l10n-name="learn-more-trigger">odporúčaných</a>
-    rozšírení pre { -brand-product-name }, ktoré majú jedinečnú bezpečnosť a funkcie.
+    meniť vzhľad prehliadača a omnoho viac. Tieto malé programy väčšinou vytvára
+    niekto iný ako my. Tu je výber <a data-l10n-name="learn-more-trigger">odporúčaných rozšírení</a>
+    pre { -brand-product-name }, ktoré majú jedinečnú bezpečnosť a funkcie.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
-    Niektoré z týchto odporúčaní sú vám prispôsobené. Sú založené na rozšíreniach, ktoré už
+    Niektoré z týchto odporúčaní sú prispôsobené. Sú založené na iných rozšíreniach, ktoré už
     máte nainštalované, nastaveniach profilu a štatistikách používania.
 discopane-notice-learn-more = Ďalšie informácie
 privacy-policy = Zásady ochrany súkromia
@@ -295,10 +295,6 @@ theme-monochromatic-heading = Farebné témy
 theme-monochromatic-subheading = Nové živé farebné témy { -brand-product-name(case: "gen") }. K dispozícii na obmedzený čas.
 # Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
 theme-colorways-button = Vyskúšajte farebné témy
-colorway-collection-independent-voices-subheading = Umožnite { -brand-short-name(case: "dat") } podobať sa na vás.
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires.
-colorway-collection-expiry-date-span = Dostupná do { DATETIME($expiryDate, month: "long", day: "numeric") }
 # Refers to the button label for the colorways card when a user has a colorway theme enabled.
 theme-colorways-button-colorway-enabled = Zmeniť farebnú tému
 # Variables:

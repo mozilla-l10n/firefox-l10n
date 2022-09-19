@@ -35,8 +35,8 @@ menu-quit =
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] k
-           *[other] k
+            [windows] U
+           *[other] U
         }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
@@ -152,7 +152,7 @@ menu-view-full-zoom-reduce =
     .accesskey = V
 menu-view-full-zoom-actual-size =
     .label = Skutočná veľkosť
-    .accesskey = v
+    .accesskey = S
 menu-view-full-zoom-toggle =
     .label = Meniť iba veľkosť textu
     .accesskey = M
