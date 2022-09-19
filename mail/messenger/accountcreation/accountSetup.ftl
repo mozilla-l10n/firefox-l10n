@@ -67,6 +67,8 @@ account-setup-getting-started = Kom i gang
 
 ## Results area
 
+account-setup-result-imap-description = Hald mapper og e-postar synkroniserte på serveren din
+account-setup-result-pop-description = Behald mapper og e-postar på datamaskina di
 account-setup-incoming-title = Innkomande
 account-setup-outgoing-title = Utgåande
 account-setup-username-title = Brukarnamn
@@ -82,6 +84,7 @@ account-setup-result-starttls = STARTTLS
 
 account-setup-incoming-server-legend = Innkomande tenar
 account-setup-protocol-label = Protokoll:
+account-setup-hostname-label = Vertsnamn:
 
 ## Incoming/Outgoing SSL Authentication options
 
