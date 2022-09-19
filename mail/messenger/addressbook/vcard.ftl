@@ -63,8 +63,10 @@ vcard-tz-add = Lisää aikavyöhyke
 # IMPP vCard field
 
 vcard-impp-header = Pikaviestitilit
+vcard-impp2-header = Pikaviestintä
 vcard-impp-add = Lisää pikaviestitili
 vcard-impp-label = Pikaviestitili
+vcard-impp-option-other = Muu
 
 # BDAY and ANNIVERSARY vCard field
 
@@ -81,7 +83,6 @@ vcard-date-year = Vuosi
 vcard-adr-header = Osoitteet
 vcard-adr-add = Lisää osoite
 vcard-adr-label = Osoite
-vcard-adr-ext = Laajennettu osoite
 vcard-adr-street = Katuosoite
 # Or "Locality"
 vcard-adr-locality = Kaupunki
@@ -99,3 +100,9 @@ vcard-note-header = Huomautuksia
 
 vcard-org-role = Rooli
 vcard-org-org = Organisaatio
+
+# Custom properties
+
+vcard-remove-button-title =
+    .title = Poista
+vcard-remove-button = Poista
