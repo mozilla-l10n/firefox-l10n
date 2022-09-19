@@ -154,6 +154,7 @@ account-setup-calendar-button = Kople til ein ekstern kalender
 account-setup-linked-services-title = Kople til dei tilknytte tenestene dine
 account-setup-button-finish = Fullfør
     .accesskey = F
+account-setup-looking-up-calendars = Søkjer etter kalendrar…
 account-setup-address-books-button = Adressebøker
 account-setup-calendars-button = Kalendrar
 account-setup-connect-link = Kople til
@@ -164,11 +165,21 @@ account-setup-existing-calendar = Tilkopla
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Kople til kalender
 calendar-dialog-cancel-button = Avbryt
     .accesskey = A
+calendar-dialog-confirm-button = Kople til
+    .accesskey = o
 account-setup-calendar-name-label = Namn
 account-setup-calendar-name-input =
     .placeholder = Min kalender
 account-setup-calendar-color-label = Farge
 account-setup-calendar-refresh-label = Oppdater
 account-setup-calendar-refresh-manual = Manuelt
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Kvart minutt
+       *[other] Kvart { $count } minutt
+    }
+account-setup-calendar-offline-support = Fråkopla støtte
+    .accesskey = F
