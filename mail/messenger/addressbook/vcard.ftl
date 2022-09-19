@@ -105,7 +105,7 @@ vcard-note-add = Megjegyzés hozzáadása
 
 vcard-org-header = Szervezeti tulajdonságok
 vcard-org-add = Szervezeti tulajdonságok hozzáadása
-vcard-org-title = Cím
+vcard-org-title = Beosztás
 vcard-org-title-input =
     .title = Beosztás vagy munkakör
     .placeholder = Munkakör neve
