@@ -77,6 +77,7 @@ browser-main-window-mac-window-titles =
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
 private-browsing-shortcut-text = Privat browsing med { -brand-short-name }
+private-browsing-shortcut-text-2 = Privat browsing med { -brand-shortcut-name }
 
 ##
 
