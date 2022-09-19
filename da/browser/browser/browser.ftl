@@ -267,9 +267,6 @@ search-one-offs-actions =
     .tooltiptext = Handlinger ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
-
-
-## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
@@ -325,6 +322,9 @@ quickactions-cmd-update = opdater
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Vis kildekode
 quickactions-cmd-viewsource = vis kildekode, kildekode
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Læs mere om Hurtige handlinger
 
 ## Bookmark Panel
 
