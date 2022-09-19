@@ -42,3 +42,17 @@ firefoxview-tabpickup-sync-error-primarybutton = Klask en-dro
 firefoxview-tabpickup-sync-disconnected-header = Gweredekaat ar c'houbredañ evit kenderc'hel
 firefoxview-tabpickup-sync-disconnected-description = Evit kaout hoc'h ivinelloù e vo dav deoc'h aotren ar c'houbredañ e { -brand-short-name }.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Gweredekaat ar c'houbredañ en arventennoù
+firefoxview-tabpickup-syncing = Gortozit e-pad ma vez goubredet hoc'h ivinelloù. Ne bado ket pell.
+firefoxview-mobile-promo-header = Adtapit ivinelloù ho pellgomz pe dablezenn
+firefoxview-mobile-promo-description = Evit gwelout ivinelloù diwezhañ ho pellgomz hezoug e rankit kevreañ ouzh { -brand-product-name } war iOS pe Android.
+firefoxview-mobile-promo-primarybutton = Ho pezet { -brand-product-name } evit pellgomz hezoug.
+firefoxview-mobile-confirmation-header = 🎉 Deomp de'i !
+firefoxview-closed-tabs-title = Ivinelloù serret nevez zo
+firefoxview-closed-tabs-description = Digeriñ en-dro ar pajennoù serret nevez zo war an trevnad-mañ.
+firefoxview-closed-tabs-description2 = Digeriñ en-dro ar pajennoù bet serret nevez zo er prenestr-mañ.
+firefoxview-closed-tabs-placeholder = <strong>N'eus ket a bajenn serret nevez zo</strong><br/>N'ho pezet ket aon rak koll un wech c'hoazh un ivinell digor. Amañ e c'hallit adkavout anezhi.
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Digeriñ { $targetURI } en un ivinell nevez
+firefoxview-try-colorways-button = Klask al livioù
