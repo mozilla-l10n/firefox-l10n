@@ -172,3 +172,46 @@ spotlight-pin-primary-button =
        *[other] Fest til oppgavelinjen
     }
 spotlight-pin-secondary-button = Ikke nå
+
+## MR2022 Background Update Windows native toast notification strings.
+##
+## These strings will be displayed by the Windows operating system in
+## a native toast, like:
+##
+## <b>multi-line title</b>
+## multi-line text
+## <img>
+## [ primary button ] [ secondary button ]
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+mr2022-background-update-toast-title = Ny { -brand-short-name }. Mer privat. Færre sporere. Ingen kompromisser.
+mr2022-background-update-toast-text = Prøv den nyeste { -brand-short-name } nå, oppgradert med vår sterkeste anti-sporingsbeskyttelse hittil.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Åpne { -brand-shorter-name } nå
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Påminn senere
+
+## Firefox View CFR
+
+firefoxview-cfr-primarybutton = Prøv det
+    .accesskey = t
+firefoxview-cfr-secondarybutton = Ikke nå
+    .accesskey = n
+firefoxview-cfr-header = Få tilbake nylig lukkede faner med { -firefoxview-brand-name }
+firefoxview-cfr-body = sømløst bytting mellom enheter og legg til en fargeklatt i nettleseren din.
+
+## Firefox View Spotlight
+
+firefoxview-spotlight-promo-title = Si hei til { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Vil du ha den åpne fanen på telefonen din? Hent den. Trenger du siden du nettopp har besøkt? Hent den tilbake med { -firefoxview-brand-name }.
+firefoxview-spotlight-promo-primarybutton = Se hvordan det virker
+firefoxview-spotlight-promo-secondarybutton = Hopp over

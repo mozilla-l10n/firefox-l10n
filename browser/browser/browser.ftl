@@ -49,9 +49,9 @@ browser-main-window-mac =
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Privat nettleseing
+    .data-title-private = { -brand-full-name } Privat nettlesing
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Privat nettleseing
+    .data-content-title-private = { $content-title } — { -brand-full-name } Privat nettlesing
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -68,15 +68,16 @@ browser-main-window-window-titles =
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Privat nettleseing
+    .data-title-private = { -brand-full-name } — Privat nettlesing
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Privat nettleseing
+    .data-content-title-private = { $content-title } — Privat nettlesing
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-private-browsing-shortcut-text = { -brand-short-name } Privat nettleseing
+private-browsing-shortcut-text = { -brand-short-name } Privat nettlesing
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } Privat nettlesing
 
 ##
 
@@ -267,9 +268,6 @@ search-one-offs-actions =
     .tooltiptext = Handlinger ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
-
-
-## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
@@ -325,6 +323,9 @@ quickactions-cmd-update = oppdater
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Vis kildekode
 quickactions-cmd-viewsource = se kilde, kilde
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Les mer om hurtige handlinger
 
 ## Bookmark Panel
 
