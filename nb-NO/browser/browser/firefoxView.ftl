@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 Alt klart!
 firefoxview-mobile-confirmation-description = Nå kan du hente { -brand-product-name }-fanene fra nettbrettet eller telefonen.
 firefoxview-closed-tabs-title = Nylig lukket
 firefoxview-closed-tabs-description = Åpne sider du har lukket på denne enheten på nytt.
+firefoxview-closed-tabs-description2 = Åpne på nytt sider du har lukket i dette vinduet.
 firefoxview-closed-tabs-placeholder = <strong>Ingen nylig lukkede sider</strong><br/>Frykt ikke å miste en lukket fane igjen. Du kan alltid hente den her.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Sist aktiv

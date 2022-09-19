@@ -323,6 +323,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importer fra tidl
 mr2022-onboarding-colorway-title = Velg fargen som inspirerer deg
 mr2022-onboarding-colorway-subtitle = Uavhengige stemmer kan endre kultur.
 mr2022-onboarding-colorway-primary-button-label = Velg fargesammensetting
+mr2022-onboarding-colorway-primary-button-label-continue = Still inn og fortsett
 mr2022-onboarding-existing-colorway-checkbox-label = Gjør { -firefox-home-brand-name } til din fargerike startside
 mr2022-onboarding-colorway-label-default = Standard
 mr2022-onboarding-colorway-tooltip-default =
