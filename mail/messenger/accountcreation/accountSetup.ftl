@@ -6,8 +6,11 @@ account-setup-tab-title = Kontoinnstillingar
 
 ## Header
 
+account-setup-title = Set opp den eksisterande e-postadressa di
+account-setup-description = For å bruke den gjeldande e-postadressa di, skriv inn opplysningane dine.
 account-setup-secondary-description = { -brand-product-name } vil automatiskt søkje etter ein fungerande og tilrådd serverkonfigurasjon.
 account-setup-success-title = Kontoen er oppretta
+account-setup-success-description = Du kan no bruke denne kontoen med { -brand-short-name }.
 
 ## Form fields
 
@@ -41,14 +44,24 @@ account-setup-remember-password = Hugs passord
     .accesskey = H
 account-setup-exchange-label = Di innlogging:
     .accesskey = D
+#   YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows.
+account-setup-exchange-input =
+    .placeholder = DITTDOMENE\dittbrukarnamn
+#   Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network.
+account-setup-exchange-info-icon =
+    .title = Domenepålogging
 
 ## Action buttons
 
 account-setup-button-cancel = Avbryt
     .accesskey = A
+account-setup-button-manual-config = Manuell konfigurering
+    .accesskey = M
 account-setup-button-stop = Stopp
     .accesskey = S
 account-setup-button-continue = Fortset
+    .accesskey = F
+account-setup-button-done = Ferdig
     .accesskey = F
 
 ## Notifications
@@ -85,9 +98,14 @@ account-setup-result-starttls = STARTTLS
 account-setup-incoming-server-legend = Innkomande tenar
 account-setup-protocol-label = Protokoll:
 account-setup-hostname-label = Vertsnamn:
+account-setup-port-label = Port:
+    .title = Still inn portnummeret til 0 för automatisk oppdaging
 
 ## Incoming/Outgoing SSL Authentication options
 
+ssl-autodetect-option = Oppdag automatisk
+ssl-no-authentication-option = Inga autentisering
+ssl-cleartext-password-option = Vanleg passord
 ssl-encrypted-password-option = Kryptert passord
 
 ## Incoming/Outgoing SSL options
