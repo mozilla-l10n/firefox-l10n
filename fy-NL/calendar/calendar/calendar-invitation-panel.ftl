@@ -6,9 +6,19 @@
 # $organizer (String) - The participant that created the original invitation.
 calendar-invitation-panel-intro = { $organizer } hat jo útnûge foar:
 # Variables:
+# $organizer (String) - The participant that updated the original invitation.
+calendar-invitation-panel-intro-update = { $organizer } hat bywurke:
+# Variables:
+# $organizer (String) - The participant that cancelled the invitation.
+calendar-invitation-panel-intro-cancel = { $organizer } hat annulearre:
+# Variables:
 # $summary (String) - A short summary or title of the event.
 calendar-invitation-panel-title = { $summary }
 calendar-invitation-panel-action-button = Bewarje
+calendar-invitation-panel-save-button = Bewarje
+calendar-invitation-panel-view-button = Werjaan
+calendar-invitation-panel-update-button = Bywurkje
+calendar-invitation-panel-delete-button = Fuortsmite
 calendar-invitation-panel-accept-button = Ja
 calendar-invitation-panel-decline-button = Nee
 calendar-invitation-panel-tentative-button = Miskien
