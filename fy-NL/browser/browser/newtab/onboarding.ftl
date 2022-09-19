@@ -324,6 +324,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Ymportearje út f
 mr2022-onboarding-colorway-title = Kies de kleur dy’t jo ynspirearret
 mr2022-onboarding-colorway-subtitle = Unôfhinklike stimmen kinne kultuer feroarje.
 mr2022-onboarding-colorway-primary-button-label = Kleurstelling ynstelle
+mr2022-onboarding-colorway-primary-button-label-continue = Ynstelle en trochgean
 mr2022-onboarding-existing-colorway-checkbox-label = Meitsje fan { -firefox-home-brand-name } jo kleurrike startside
 mr2022-onboarding-colorway-label-default = Standert
 mr2022-onboarding-colorway-tooltip-default =

@@ -215,3 +215,4 @@ firefoxview-spotlight-promo-title = Sis hallo tsjin { -firefoxview-brand-name }
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Wolle jo dat iepen ljepblêd op jo telefoan? Pak it. Need oan dy side dy’t jo krekt besocht hawwe? Poef, it is werom mei { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Sjen hoe't dit wurket
+firefoxview-spotlight-promo-secondarybutton = Oerslaan

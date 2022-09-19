@@ -42,3 +42,7 @@ toolbox-mode-parent-process-label = Allinnich boppelizzend proses
 toolbox-mode-parent-process-sub-label = (Fluch)
 toolbox-mode-parent-process-container =
     .title = Allinne rjochtsje op middels út it âlderproses.
+toolbox-always-on-top-enabled =
+    .title = Altyd boppe oan útskeakelje (hjirmei wurdt it Untwikkelersark opnij start)
+toolbox-always-on-top-disabled =
+    .title = Altyd boppe oan ynskeakelje (hjirmei wurdt it Untwikkelersark opnij start)
