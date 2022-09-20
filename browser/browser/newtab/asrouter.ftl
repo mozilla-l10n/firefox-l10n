@@ -203,7 +203,7 @@ mr2022-background-update-toast-secondary-button-label = Recordarme más tarde
 ## Firefox View CFR
 
 firefoxview-cfr-primarybutton = Pruébelo
-    .accesskey = T
+    .accesskey = u
 firefoxview-cfr-secondarybutton = Ahora no
     .accesskey = N
 firefoxview-cfr-header = Recupere las pestañas cerradas recientemente con { -firefoxview-brand-name }
