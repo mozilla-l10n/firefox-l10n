@@ -90,7 +90,7 @@
 <!ENTITY xfoBlocked.longDesc "<p>Prehliadač nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady X-Frame-Options, ktoré takéto načítanie neumožňujú.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Poškodený obsah stránky">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Stránka, ktorú sa pokúšate zobraziť sa nedá zobraziť, pretože nastala chyba pri prenose údajov.</p><ul><li>Kontaktujte prosím majiteľov webových stránok a informujte ich o tomto probléme.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Požadovanú stránku nemožno zobraziť, pretože pri prenose údajov došlo k chybe.</p><ul><li>Kontaktujte prosím vlastníkov webovej stránky a informujte ich o tomto probléme.</li></ul>">
 
 <!ENTITY inadequateSecurityError.title "Vaše pripojenie nie je zabezpečené">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
