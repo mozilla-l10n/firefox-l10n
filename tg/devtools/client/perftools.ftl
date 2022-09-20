@@ -15,6 +15,9 @@ perftools-heading-buffer = Танзимоти буфер
 perftools-heading-features = Хусусиятҳо
 perftools-heading-features-disabled = Хусусиятҳои ғайрифаъол
 perftools-heading-features-experimental = Таҷрибавӣ
+perftools-heading-threads = Ҷараёнҳо
+perftools-heading-threads-jvm = Ҷараёнҳои JVM
+perftools-heading-local-build = Сохти маҳаллӣ
 
 ##
 
