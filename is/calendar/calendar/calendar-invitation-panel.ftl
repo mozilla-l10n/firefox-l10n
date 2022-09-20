@@ -6,9 +6,19 @@
 # $organizer (String) - The participant that created the original invitation.
 calendar-invitation-panel-intro = { $organizer } hefur boðið þér að:
 # Variables:
+# $organizer (String) - The participant that updated the original invitation.
+calendar-invitation-panel-intro-update = { $organizer } hefur uppfært:
+# Variables:
+# $organizer (String) - The participant that cancelled the invitation.
+calendar-invitation-panel-intro-cancel = { $organizer } hefur hætt við:
+# Variables:
 # $summary (String) - A short summary or title of the event.
 calendar-invitation-panel-title = { $summary }
 calendar-invitation-panel-action-button = Vista
+calendar-invitation-panel-save-button = Vista
+calendar-invitation-panel-view-button = Skoða
+calendar-invitation-panel-update-button = Uppfæra
+calendar-invitation-panel-delete-button = Eyða
 calendar-invitation-panel-accept-button = Já
 calendar-invitation-panel-decline-button = Nei
 calendar-invitation-panel-tentative-button = Kannski
