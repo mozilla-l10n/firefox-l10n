@@ -284,7 +284,7 @@ mr2022-onboarding-set-default-only-subtitle = ਗ਼ੈਰ-ਫਾਇਦੇ ਵ�
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
-mr2022-onboarding-existing-pin-header = ਪਿਆਰੇ { -brand-product-name }  ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ
+mr2022-onboarding-existing-pin-header = { -brand-product-name } ਨੂੰ ਪਿਆਰ ਕਰਨ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ
 # Subtitle is used on onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-subtitle = ਇੱਕ ਕਲਿੱਕ ਨਾਲ ਕਿਸੋ ਵੀ ਮਜ਼ਬੂਤ ਇੰਟਰਨੈੱਟ ਸ਼ੁਰੂ ਕਰੋ। ਸਾਡੇ ਨਵੇਂ ਅੱਪਡੇਟ ਵਿੱਚ ਨਵੀਆਂ ਚੀਜ਼ਾਂ ਪਈਆਂ ਹਨ, ਜਿੰਨ੍ਹਾਂ ਦੇ ਤੁਸੀਂ ਪ੍ਰਸੰਸ਼ਕ ਬਣੋਗੇ।
 # Subtitle will be used on the welcome screen for existing users
