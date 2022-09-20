@@ -207,8 +207,10 @@ firefoxview-cfr-primarybutton = Prófaðu það
 firefoxview-cfr-secondarybutton = Ekki núna
     .accesskey = n
 firefoxview-cfr-header = Fáðu nýlega lokaða flipa aftur með { -firefoxview-brand-name }
+firefoxview-cfr-body = Auk þess geturðu hoppað hnökralaust á milli tækja og bætt litaskvettu í vafrann þinn.
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Segðu hæ við { -firefoxview-brand-name }
 firefoxview-spotlight-promo-primarybutton = Sjá hvernig þetta virkar
 firefoxview-spotlight-promo-secondarybutton = Sleppa
