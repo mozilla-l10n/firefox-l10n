@@ -18,7 +18,11 @@ callout-firefox-view-recently-closed-subtitle = Allir lokaðir flipar munu birta
 callout-firefox-view-colorways-title = Bættu við skvettu af lit
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Notaðu litasett til að velja tóna sem tala til þín. Aðeins í boði í { -brand-product-name }.
+callout-firefox-view-colorways-reminder-title = Skoðaðu nýjustu litasettin okkar
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = Litaðu vafrann þinn með þessum táknrænu tónum, innblásnum af sjálfstæðum raddbrigðum. Aðeins í { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Fáðu aðgang að opnum flipum þínum úr hvaða tæki sem er. Auk þess geturðu samstillt bókamerkin þín, lykilorð og fleira.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Hefjast handa
