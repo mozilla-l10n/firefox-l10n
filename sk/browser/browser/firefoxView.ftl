@@ -20,7 +20,7 @@ firefoxview-tabpickup-description = Otvorte si stránky z iných zariadení.
 firefoxview-tabpickup-recenttabs-description = Tu by bol zoznam nedávnych kariet
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = Hotovo na { $percentValue } %
+firefoxview-tabpickup-progress-label = Dokončené na { $percentValue } %
 firefoxview-tabpickup-step-signin-header = Plynule prepínajte medzi zariadeniami
 firefoxview-tabpickup-step-signin-description = Ak chcete získať karty z telefónu, najprv sa prihláste alebo si vytvorte účet.
 firefoxview-tabpickup-step-signin-primarybutton = Pokračovať
