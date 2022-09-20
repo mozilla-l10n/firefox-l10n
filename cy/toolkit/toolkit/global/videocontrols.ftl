@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Agor allan y fideo hwn
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Mae mwy o sgriniau yn fwy o hwyl. Chwaraewch y fideo hwn yn Llun-mewn-Llun wrth i chi bori.
+videocontrols-picture-in-picture-explainer3 = Mae rhagor o sgriniau'n fwy o hwyl. Chwaraewch y fideo hwn tra byddwch chi'n gwneud pethau eraill.
 videocontrols-error-aborted = Mae llwytho'r fideo wedi dod i ben.
 videocontrols-error-network = Mae chwarae'r fideo wedi dod i ben oherwydd gwall rhwydwaith.
 videocontrols-error-decode = Nid oedd modd chwarae'r fideo gan fod y ffeil yn llwgr.
