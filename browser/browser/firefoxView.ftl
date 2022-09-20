@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 Allt tilbúið!
 firefoxview-mobile-confirmation-description = Nú geturðu náð í { -brand-product-name }-flipana þína úr spjaldtölvunni eða símanum.
 firefoxview-closed-tabs-title = Nýlega lokað
 firefoxview-closed-tabs-description = Opnaðu aftur síður sem þú hefur lokað á þessu tæki.
+firefoxview-closed-tabs-description2 = Opnaðu aftur síður sem þú hefur lokað í þessum glugga.
 firefoxview-closed-tabs-placeholder = <strong>Engar nýlega lokaðar síður</strong><br/>Ekki hræðast að tapa lokuðum flipum. Þú getur alltaf sótt þá hér.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Síðasta virkni
