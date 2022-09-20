@@ -184,16 +184,16 @@ mr2-onboarding-theme-description =
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
-    .title = { $colorwayName } වර්ණ පරාස ගවේශණය.
+    .title = { $colorwayName } වර්ණ පරාස ගවේශනය.
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-label = { $colorwayName } වර්ණ පරාස ගවේශණය.
+mr2-onboarding-colorway-label = { $colorwayName } වර්ණ පරාස ගවේශනය.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
-    .title = පෙරනිමි තේමා ගවේශණය.
+    .title = පෙරනිමි තේමා ගවේශනය.
 # Selector description for default themes
-mr2-onboarding-default-theme-label = පෙරනිමි තේමා ගවේශණය.
+mr2-onboarding-default-theme-label = පෙරනිමි තේමා ගවේශනය.
 
 ## Strings for Thank You page
 
