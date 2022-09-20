@@ -269,6 +269,8 @@ mr2022-onboarding-pin-primary-button-label =
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Takk for at du likar { -brand-product-name }
 
 ## MR2022 New User Set Default screen strings
 
@@ -287,6 +289,7 @@ mr2022-onboarding-pin-primary-button-label =
 ## help creating a more inclusive translation.
 
 mr2022-onboarding-colorway-primary-button-label = Vel fargesamansetjing
+mr2022-onboarding-colorway-primary-button-label-continue = Still inn og hald fram
 mr2022-onboarding-colorway-label-default = Standard
 mr2022-onboarding-colorway-tooltip-default =
     .title = Standard
@@ -318,6 +321,9 @@ mr2022-onboarding-colorway-tooltip-innovator =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Vis detaljert informasjon
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-primary-button-label = Sjå kva som er nytt
+mr2022-onboarding-gratitude-secondary-button-label = Byrje å surfe
