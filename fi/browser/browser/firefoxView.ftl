@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 Kaikki valmista!
 firefoxview-mobile-confirmation-description = Nyt voit käyttää tablet-laitteesi tai puhelimesi { -brand-product-name }in välilehtiä.
 firefoxview-closed-tabs-title = Viimeksi suljetut
 firefoxview-closed-tabs-description = Avaa uudelleen sivut, jotka olet sulkenut tällä laitteella.
+firefoxview-closed-tabs-description2 = Avaa uudelleen tässä ikkunassa sulkemasi sivut.
 firefoxview-closed-tabs-placeholder = <strong>Ei äskettäin suljettuja sivuja</strong><br/>Älä pelkää suljetun välilehden menettämistä. Voit palauttaa sen täältä.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Viimeksi aktiivinen

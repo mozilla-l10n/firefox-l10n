@@ -4,22 +4,18 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
-
 copy =
     .key = C
 menu-copy =
     .label = Kopioi
     .accesskey = K
-
 select-all =
     .key = A
 menu-select-all =
     .label = Valitse kaikki
     .accesskey = V
-
 close-dialog =
     .key = w
-
 general-tab =
     .label = Yleiset
     .accesskey = Y
@@ -43,7 +39,6 @@ general-meta-name =
     .label = Nimi
 general-meta-content =
     .label = Sisältö
-
 media-tab =
     .label = Media
     .accesskey = M
@@ -65,19 +60,20 @@ media-dimension =
     .value = Mitat:
 media-long-desc =
     .value = Pitkä kuvaus:
+media-select-all =
+    .label = Valitse kaikki
+    .accesskey = e
 media-save-as =
     .label = Tallenna nimellä…
     .accesskey = a
 media-save-image-as =
     .label = Tallenna nimellä…
     .accesskey = l
-
 perm-tab =
     .label = Oikeudet
     .accesskey = O
 permissions-for =
     .value = Oikeudet sivustolle:
-
 security-tab =
     .label = Turvallisuus
     .accesskey = T
@@ -98,22 +94,17 @@ security-view-identity-validity =
     .value = Vanhenee:
 security-view-privacy =
     .value = Tietosuoja ja sivuhistoria
-
 security-view-privacy-history-value = Onko sivustolla käyty ennen tätä päivää?
 security-view-privacy-sitedata-value = Tallentaako tämä sivusto tietoja koneelleni?
-
 security-view-privacy-clearsitedata =
     .label = Tyhjennä evästeet ja sivustotiedot
     .accesskey = e
-
 security-view-privacy-passwords-value = Onko sivuston salasanoja tallennettu?
-
 security-view-privacy-viewpasswords =
     .label = Näytä tallennetut salasanat
     .accesskey = u
 security-view-technical =
     .value = Tekniset tiedot
-
 help-button =
     .label = Ohje
 
@@ -125,7 +116,6 @@ help-button =
 
 security-site-data-cookies = Kyllä, evästeitä ja { $value } { $unit } sivustotietoja
 security-site-data-only = Kyllä, { $value } { $unit } sivustotietoja
-
 security-site-data-cookies-only = Kyllä, evästeitä
 security-site-data-no = Ei
 
@@ -149,7 +139,6 @@ media-video = Video
 media-audio = Ääni
 saved-passwords-yes = Kyllä
 saved-passwords-no = Ei
-
 no-page-title =
     .value = Nimetön sivu
 general-quirks-mode =
@@ -164,7 +153,6 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Käytä oletusta
 security-no-visits = Ei
-
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -175,7 +163,6 @@ general-meta-tags =
             [one] Metatiedot (1 merkintä)
            *[other] Metatiedot ({ $tags } merkintää)
         }
-
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -186,7 +173,6 @@ security-visits-number =
         [one] Kyllä, kerran
        *[other] Kyllä, { $visits } kertaa
     }
-
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -197,7 +183,6 @@ properties-general-size =
             [one] { $kb } kt ({ $bytes } tavu)
            *[other] { $kb } kt ({ $bytes } tavua)
         }
-
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -209,14 +194,12 @@ media-animated-image-type =
             [one] { $type }-kuva (animoitu, { $frames } kuva)
            *[other] { $type }-kuva (animoitu, { $frames } kuvaa)
         }
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type }-kuva
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -226,20 +209,17 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (skaalattu kokoon { $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } kt
-
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -247,7 +227,6 @@ media-file-size = { $size } kt
 media-block-image =
     .label = Estä kuvat palvelimelta { $website }
     .accesskey = E
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
