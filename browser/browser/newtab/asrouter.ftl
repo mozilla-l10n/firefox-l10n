@@ -205,4 +205,5 @@ firefoxview-cfr-header = 通过 { -firefoxview-brand-name } 找回最近关闭�
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = 邂逅 { -firefoxview-brand-name }
 firefoxview-spotlight-promo-secondarybutton = 跳过
