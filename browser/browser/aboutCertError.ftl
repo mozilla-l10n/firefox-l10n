@@ -4,7 +4,8 @@
 
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-intro = { $hostname } ककरो अवैध सुरक्षा प्रमाणपत्र क प्रयोग करैत  अछि .
+cert-error-intro = { $hostname } एकटा अवैध सुरक्षा प्रमाणपत्रक प्रयोग करैत  अछि .
+cert-error-mitm-intro = वेबसाइट सर्टिफिकेट द्वारा हुनकर पहिचान बुझैत अछि, जे कि सर्टिफिकेट ऑथरेटी द्वारा जारी करल जाएत अछि.
 cert-error-trust-cert-invalid = प्रमाणपत्र भरोसेमंद नहि  अछि  किएकटाटा  एकटारा  ककरो अवैध CA प्रमाणपत्र क द्वारा निर्गत कएल गेल था.
 cert-error-trust-untrusted-issuer = प्रमाणपत्र भरोसेमंद नहि  अछि  किएकटाटा निर्गतकर्ता प्रमाणपत्र भरोसेमंद नहि  अछि .
 cert-error-trust-signature-algorithm-disabled = ई प्रमाणपत्र भरोसामंद नहि अथि किएकि ई हस्ताक्षर अलगोरिथमक उपयोग सँ हस्ताक्षरित कएल गेल अछि जे निष्क्रिय कएल गेल किएकि अलगोरिथम सुरक्षित नहि अछि.
@@ -56,3 +57,4 @@ clockSkewError-title = अहाँक कम्प्यूटर घड़ी 
 networkProtocolError-title = कनेक्शन प्रोटोकॉल त्रुटि
 nssBadCert-title = चेतावनी: आगाँ संभावित सुरक्षा रिस्क भ सकैत अछि
 nssBadCert-sts-title = कनेक्ट नहि करू: संभावित सुरक्षा संबंधित मामला
+certerror-mitm-title = सॉफ्टवेयर { -brand-short-name } सँ सुरक्षित रूप सँ जुड़ए मे आनाकानी क रहल अछि.
