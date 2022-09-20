@@ -106,10 +106,26 @@ vcard-note-add = Bæta við athugasemd
 vcard-org-header = Skipulagslegir eignleikar
 vcard-org-add = Bæta við skipulagslegum eignleikum
 vcard-org-title = Titill
+vcard-org-title-input =
+    .title = Staða eða starf
+    .placeholder = Starfstitill
 vcard-org-role = Hlutverk
+vcard-org-role-input =
+    .title = Hlutverk eða þátttaka í tilteknum aðstæðum
+    .placeholder = Hlutverk í verkefni
 vcard-org-org = Fyrirtæki/Stofnun
+vcard-org-org-input =
+    .title = Heiti skipulagsheildar
+    .placeholder = Nafn á fyrirtæki/stofnun/félagi
+vcard-org-org-unit = Deild
+vcard-org-org-unit-input =
+    .title = Heiti skipulagseiningar
+    .placeholder = Deild
 
 # Custom properties
 
 vcard-custom-header = Sérsniðnir eiginleikar
 vcard-custom-add = Bæta við sérsniðnum eiginleikum
+vcard-remove-button-title =
+    .title = Fjarlægja
+vcard-remove-button = Fjarlægja
