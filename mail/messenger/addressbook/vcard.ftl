@@ -106,10 +106,26 @@ vcard-note-add = Ychwanegu nodyn
 vcard-org-header = Adeiladau Sefydliadol
 vcard-org-add = Ychwanegu adeiladau sefydliadol
 vcard-org-title = Teitl
+vcard-org-title-input =
+    .title = Safle neu swydd
+    .placeholder = Tetl swydd
 vcard-org-role = Rôl
+vcard-org-role-input =
+    .title = Swyddogaeth neu ran yn cael ei chwarae mewn sefyllfa benodol
+    .placeholder = Rôl mewn project
 vcard-org-org = Corff
+vcard-org-org-input =
+    .title = Enw corfforaethol
+    .placeholder = Enw cwmni
+vcard-org-org-unit = Adran
+vcard-org-org-unit-input =
+    .title = Enw uned corfforaethol
+    .placeholder = Adran
 
 # Custom properties
 
 vcard-custom-header = Priodweddau Cyfaddas
 vcard-custom-add = Ychwanegu priodweddau cyfaddas
+vcard-remove-button-title =
+    .title = Tynnu
+vcard-remove-button = Tynnu
