@@ -326,6 +326,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Flytja inn úr fy
 mr2022-onboarding-colorway-title = Veldu litinn sem veitir þér innblástur
 mr2022-onboarding-colorway-subtitle = Óháðar raddir geta breytt menningunni.
 mr2022-onboarding-colorway-primary-button-label = Stilla litasett
+mr2022-onboarding-colorway-primary-button-label-continue = Stilla og halda áfram
 mr2022-onboarding-existing-colorway-checkbox-label = Gerðu { -firefox-home-brand-name } að litríku upphafssíðunni þinni
 mr2022-onboarding-colorway-label-default = Sjálfgefið
 mr2022-onboarding-colorway-tooltip-default =

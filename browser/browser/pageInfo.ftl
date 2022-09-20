@@ -4,22 +4,18 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
-
 copy =
     .key = C
 menu-copy =
     .label = Afrita
     .accesskey = A
-
 select-all =
     .key = A
 menu-select-all =
     .label = Velja allt
     .accesskey = j
-
 close-dialog =
     .key = w
-
 general-tab =
     .label = Almennt
     .accesskey = A
@@ -43,7 +39,6 @@ general-meta-name =
     .label = Nafn
 general-meta-content =
     .label = Innihald
-
 media-tab =
     .label = Gögn
     .accesskey = G
@@ -65,19 +60,20 @@ media-dimension =
     .value = Víddir:
 media-long-desc =
     .value = Löng lýsing:
+media-select-all =
+    .label = Velja allt
+    .accesskey = e
 media-save-as =
     .label = Vista sem…
     .accesskey = V
 media-save-image-as =
     .label = Vista sem…
     .accesskey = e
-
 perm-tab =
     .label = Heimildir
     .accesskey = H
 permissions-for =
     .value = Heimildir fyrir:
-
 security-tab =
     .label = Öryggi
     .accesskey = Ö
@@ -98,22 +94,17 @@ security-view-identity-validity =
     .value = Rennur út:
 security-view-privacy =
     .value = Friðhelgi og ferill
-
 security-view-privacy-history-value = Hef ég skoðað þetta vefsvæði áður?
 security-view-privacy-sitedata-value = Er þetta vefsvæði að geyma upplýsingar á tölvunni minni?
-
 security-view-privacy-clearsitedata =
     .label = Hreinsa vefkökur og gögn vefsvæðis
     .accesskey = H
-
 security-view-privacy-passwords-value = Hef ég vistað eitthvað lykilorð fyrir þetta vefsvæði?
-
 security-view-privacy-viewpasswords =
     .label = Skoða vistuð lykilorð
     .accesskey = S
 security-view-technical =
     .value = Tæknileg atriði
-
 help-button =
     .label = Help
 
@@ -125,7 +116,6 @@ help-button =
 
 security-site-data-cookies = Já, vefkökur og { $value } { $unit } af gögnum vefsvæðis
 security-site-data-only = Já, { $value } { $unit } af gögnum vefsvæðis
-
 security-site-data-cookies-only = Já, vefkökur
 security-site-data-no = Nei
 
@@ -149,7 +139,6 @@ media-video = Myndband
 media-audio = Hljóð
 saved-passwords-yes = Já
 saved-passwords-no = Nei
-
 no-page-title =
     .value = Ónefnt síða:
 general-quirks-mode =
@@ -164,7 +153,6 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Nota sjálfgefið
 security-no-visits = Nei
-
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -175,7 +163,6 @@ general-meta-tags =
             [one] Meta (1 merki)
            *[other] Meta ({ $tags } merki)
         }
-
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -186,7 +173,6 @@ security-visits-number =
         [one] Já, einu sinni
        *[other] Já, { $visits } sinnum
     }
-
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -197,7 +183,6 @@ properties-general-size =
             [one] { $kb } KB ({ $bytes } bæti)
            *[other] { $kb } KB ({ $bytes } bæti)
         }
-
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -209,14 +194,12 @@ media-animated-image-type =
             [one] { $type } Mynd (animated, { $frames } frame)
            *[other] { $type } Myndir (animated, { $frames } frames)
         }
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } Mynd
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -226,20 +209,17 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (kvarðað í { $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
-
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -247,7 +227,6 @@ media-file-size = { $size } KB
 media-block-image =
     .label = Loka á myndir frá { $website }
     .accesskey = L
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
