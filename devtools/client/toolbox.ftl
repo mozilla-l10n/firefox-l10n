@@ -42,3 +42,7 @@ toolbox-mode-parent-process-label = Proses rhiant yn unig
 toolbox-mode-parent-process-sub-label = (Cyflym)
 toolbox-mode-parent-process-container =
     .title = Canolbwyntio ar adnoddau o'r broses rhiant yn unig.
+toolbox-always-on-top-enabled =
+    .title = Analluogu bob amser ar y brig (Bydd hyn yn ailgychwyn yr Offer Datblygwr)
+toolbox-always-on-top-disabled =
+    .title = Galluogu bob amser ar y brig (Bydd hyn yn ailgychwyn yr Offer Datblygwr)

@@ -324,6 +324,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Mewnforiwch o'ch 
 mr2022-onboarding-colorway-title = Dewiswch y lliw sy'n eich ysbrydoli
 mr2022-onboarding-colorway-subtitle = Gall lleisiau annibynnol newid diwylliant.
 mr2022-onboarding-colorway-primary-button-label = Gosodwch lwybr lliw
+mr2022-onboarding-colorway-primary-button-label-continue = Gosod a pharhau
 mr2022-onboarding-existing-colorway-checkbox-label = Gwnewch { -firefox-home-brand-name } yn gartref liwgar i chi
 mr2022-onboarding-colorway-label-default = Rhagosodiad
 mr2022-onboarding-colorway-tooltip-default =
