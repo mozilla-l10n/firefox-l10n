@@ -230,7 +230,7 @@ choose-button =
     .accesskey = C
 choose-browser-language-description = Chọn ngôn ngữ được sử dụng để hiển thị bảng chọn, tin nhắn và thông báo từ { -brand-short-name }.
 manage-browser-languages-button =
-    .label = Đặt giải pháp thay thế…
+    .label = Đặt ngôn ngữ thay thế…
     .accesskey = I
 confirm-browser-language-change-description = Khởi động lại { -brand-short-name } để áp dụng các thay đổi này
 confirm-browser-language-change-button = Áp dụng và Khởi động lại
@@ -893,10 +893,10 @@ sitedata-clear =
     .label = Xóa dữ liệu...
     .accesskey = l
 sitedata-settings =
-    .label = Quản lí dữ liệu...
+    .label = Quản lý dữ liệu...
     .accesskey = M
 sitedata-cookies-exceptions =
-    .label = Quản lý các ngoại lệ…
+    .label = Quản lý ngoại lệ…
     .accesskey = x
 
 ## Privacy Section - Address Bar
@@ -1012,7 +1012,7 @@ content-blocking-fingerprinters-label =
 ## Privacy Section - Tracking
 
 tracking-manage-exceptions =
-    .label = Quản lý các ngoại lệ…
+    .label = Quản lý ngoại lệ…
     .accesskey = x
 
 ## Privacy Section - Permissions
