@@ -12,6 +12,9 @@ storage-table-empty-text = Барои мизбони интихобшуда яг
 # Placeholder for the searchbox that allows you to filter the table items
 storage-search-box =
     .placeholder = Ҷустуҷӯи унсурҳо
+# Placeholder text in the sidebar search box
+storage-variable-view-search-box =
+    .placeholder = Қиматҳои ҷустуҷӯ
 # Add Item button title
 storage-add-button =
     .title = Илова кардани унсур
