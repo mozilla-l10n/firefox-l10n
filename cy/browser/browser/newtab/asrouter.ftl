@@ -185,3 +185,42 @@ spotlight-pin-primary-button =
        *[other] Pinio i'r bar tasgau
     }
 spotlight-pin-secondary-button = Nid nawr
+
+## MR2022 Background Update Windows native toast notification strings.
+##
+## These strings will be displayed by the Windows operating system in
+## a native toast, like:
+##
+## <b>multi-line title</b>
+## multi-line text
+## <img>
+## [ primary button ] [ secondary button ]
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+mr2022-background-update-toast-title = { -brand-short-name } newydd. Yn fwy preifat. Llai o dracwyr. Dim cyfaddawdu.
+mr2022-background-update-toast-text = Rhowch gynnig ar y { -brand-short-name } mwyaf newydd nawr, wedi'i uwchraddio gyda'n diogelwch gwrth-dracio cryfaf eto.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Agorwch { -brand-shorter-name } Nawr
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Atgoffwch Fi Nes ymlaen
+
+## Firefox View CFR
+
+firefoxview-cfr-primarybutton = Rhowch gynnig arni
+    .accesskey = R
+firefoxview-cfr-secondarybutton = Nid nawr
+    .accesskey = N
+firefoxview-cfr-header = Cael tabiau a gaewyd yn ddiweddar nôl gyda { -firefoxview-brand-name }
+firefoxview-cfr-body = Hefyd symud yn ddi-dor rhwng dyfeisiau ac ychwanegu bach o liw i'ch porwr.
+
+## Firefox View Spotlight
+
+firefoxview-spotlight-promo-title = Dywedwch helo wrth { -firefoxview-brand-name }

@@ -323,6 +323,9 @@ quickactions-cmd-update = diweddaru
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Gweld y Ffynhonell
 quickactions-cmd-viewsource = gweld ffynhonnell, ffynhonnell
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Dysgu rhagor am weithredoedd Cyflym
 
 ## Bookmark Panel
 
