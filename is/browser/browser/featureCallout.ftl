@@ -24,5 +24,9 @@ callout-firefox-view-colorways-reminder-subtitle = Litaðu vafrann þinn með þ
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = Bættu vafrið þitt með samstillingu á flipum
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Fáðu aðgang að opnum flipum þínum úr hvaða tæki sem er. Auk þess geturðu samstillt bókamerkin þín, lykilorð og fleira.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Hefjast handa

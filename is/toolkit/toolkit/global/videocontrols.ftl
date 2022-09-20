@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Láttu þetta myndskeið njóta
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Fleiri skjáir eru skemmtilegri. Spilaðu þetta myndskeið sem mynd-í-mynd á meðan þú vafrar.
+videocontrols-picture-in-picture-explainer3 = Fleiri skjáir eru skemmtilegri. Spilaðu þetta myndskeið á meðan þú gerir eitthvað annað.
 videocontrols-error-aborted = Myndbandhleðsla stöðvuð.
 videocontrols-error-network = Ekki er hægt að spila myndband vegna villu í netkerfi.
 videocontrols-error-decode = Ekki er hægt að spila myndband vegna þess að skráin er brengluð.
