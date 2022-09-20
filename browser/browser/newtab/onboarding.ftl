@@ -70,7 +70,7 @@ mr1-onboarding-pin-header =
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->
-        [macos] Pridať do Docku
+        [macos] Ponechať v Docku
        *[other] Pripnúť na panel úloh
     }
 

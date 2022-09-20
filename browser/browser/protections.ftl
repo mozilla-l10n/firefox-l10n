@@ -161,7 +161,7 @@ monitor-partial-breaches-title =
     }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
-monitor-partial-breaches-percentage = { $percentageResolved }% hotovo
+monitor-partial-breaches-percentage = Dokončené na { $percentageResolved } %
 monitor-partial-breaches-motivation-title-start = Skvelý začiatok
 monitor-partial-breaches-motivation-title-middle = Len tak ďalej
 monitor-partial-breaches-motivation-title-end = Takmer hotové! Len tak ďalej.
