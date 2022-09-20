@@ -12,16 +12,32 @@ cert-error-trust-expired-issuer = प्रमाणपत्र भरोसे
 cert-error-trust-self-signed = प्रमाणपत्र भरोसेमंद नहि  अछि  किएकटाटा ई स्वहस्ताक्षरित  अछि .
 cert-error-untrusted-default = प्रमाणपत्र कोनो भरोसेमद स्रोत सँ नहि आएल अछि.
 cert-error-symantec-distrust-admin = अहाँ वेबसाइट प्रशासक केँ ई समस्या क जानकारी दिए सकैत छी
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP सख़्त ट्रांसपोर्ट सुरक्षा: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP सार्वजनिक गुड़किल्ली पिनिंग: { $hasHPKP }
+cert-error-details-cert-chain-label = प्रमाणपत्र श्रृंखला
+open-in-new-window-for-csp-or-xfo-error = नवीन विंडो में साइट खोलू
 
 ## Messages used for certificate error titles
 
 connectionFailure-title = कनेक्ट करबामे असमर्थ
 deniedPortAccess-title = ई पता प्रतिबंधित अछि
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = हम्मम. ई साइट खोजए मे हम दिक्कत पाबि रहल छी.
 fileNotFound-title = फाइल नहि भेटल
-generic-title = ओफ्फ.
+fileAccessDenied-title = फ़ाइल तक पहुँचनाय रद्द कएल गेल
+generic-title = ओह.
+captivePortal-title = कनेक्शन में लॉगइन करू
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = हम्मम. ओ पता सही नहि बुझाय पड़ैत अछि.
 netInterrupt-title = कनेक्शन बाधित कएल गेल छल
 notCached-title = दस्तावेजक समय खतम भेल
-netOffline-title = Offline mode
+netOffline-title = आफलाइन मोड
 contentEncodingError-title = अंतर्वस्तु ऐन्कोडिंग त्रुटि
 unsafeContentType-title = असुरक्षित फाइल प्रकार
 netReset-title = कनेक्शन रिसेट कएल गेल छल
