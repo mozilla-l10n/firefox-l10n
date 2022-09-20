@@ -46,6 +46,7 @@ login-list-last-changed-option = ການແກ້ໄຂຄັ້ງຫລ້�
 login-list-last-used-option = ໃຊ້ຫຼ້າສຸດ
 login-list-intro-title = ບໍ່ພົບການເຂົ້າສູ່ລະບົບ
 about-logins-login-list-empty-search-title = ບໍ່ພົບການເຂົ້າສູ່ລະບົບ
+about-logins-login-list-empty-search-description = ບໍ່ມີຜົນໄດ້ຮັບທີ່ກົງກັບການຄົ້ນຫາຂອງທ່ານ.
 login-list-item-title-new-login = ເຂົ້າສູ່ລະບົບໃໝ່
 login-list-item-subtitle-new-login = ໃສ່ຂໍ້ມູນການເຂົ້າສູ່ລະບົບຂອງທ່ານ
 login-list-item-subtitle-missing-username = (ບໍ່ມີຊື່ຜູ້ໃຊ້)
@@ -172,6 +173,8 @@ about-logins-vulnerable-alert-learn-more-link = ຮຽນຮູ້ເພີ່�
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = ສົ່ງອອກໄຟລ໌ເຂົ້າສູ່ລະບົບ
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
@@ -209,6 +212,10 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = ນໍາເຂົ້າສໍາເລັດ
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>ເພີ່ມການເຂົ້າສູ່ລະບົບໃໝ່:</span> <span data-l10n-name="count">{ $count }</span>
+    }
 about-logins-import-dialog-done = ສຳເລັດ
 about-logins-import-dialog-error-title = ມີຂໍ້ຜິດພາດໃນການນຳເຂົ້າ
 about-logins-import-dialog-error-conflicting-values-title = ມີຄ່າຂັດແຍ້ງຫຼາຍຄ່າສໍາລັບການເຂົ້າສູ່ລະບົບດຽວ

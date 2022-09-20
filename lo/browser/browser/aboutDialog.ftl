@@ -13,6 +13,7 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = ກຳລັງກວດສອບການອັບເດດ...
 update-downloading = <img data-l10n-name="icon"/>ກຳລັງດາວໂລດໂຕອັບເດດ —<label data-l10n-name="download-status"/>
+update-downloading-message = ກຳລັງດາວໂຫລດການອັບເດດ — <label data-l10n-name="download-status"/>
 update-applying = ກຳລັງນຳໃຊ້ການອັບເດດ...
 update-failed = ການອັບເດດລົ້ມເຫລວ.<label data-l10n-name="failed-link">ດາວໂຫລດລຸ້ນຫລ້າສຸດ</label>
 update-failed-main = ການອັບເດດລົ້ມເຫລວ.<a data-l10n-name="failed-link-main">ດາວໂຫລດລຸ້ນຫລ້າສຸດ</a>
