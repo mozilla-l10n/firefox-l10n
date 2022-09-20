@@ -306,8 +306,8 @@ mr2022-onboarding-set-default-subtitle = Použite prehliadač podporovaný nezis
 
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-get-started-primary-subtitle = Naša najnovšia verzia je postavená okolo vás, vďaka čomu je prehliadanie webu jednoduchšie ako kedykoľvek predtým. Je nabitý funkciami, o ktorých si myslíme, že si ich zamilujete.
-mr2022-onboarding-get-started-primary-button-label = Nastavenie za pár sekúnd
+mr2022-onboarding-get-started-primary-subtitle = Naša najnovšia verzia je postavená okolo vás, vďaka čomu je prehliadanie webu jednoduchšie ako kedykoľvek predtým. Je nabitá funkciami, o ktorých si myslíme, že si ich zamilujete.
+mr2022-onboarding-get-started-primary-button-label = Nastavujte si ju za pár sekúnd
 
 ## MR2022 Import Settings screen strings
 
