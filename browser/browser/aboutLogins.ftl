@@ -3,9 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
+about-logins-page-title = लॉगिन & गुड़किल्ली
+login-filter =
+    .placeholder = लॉगिन खोज
+create-login-button = नवीन लॉगिन बनाबू
+fxaccounts-sign-in-text = अपन गुड़किल्ली दोसर डिवाइस पर पाबू
+fxaccounts-sign-in-sync-button = सिंक करए कलेल साइन-इन करू
+fxaccounts-avatar-button =
+    .title = खाता प्रबंधित करू
 
 ## The ⋯ menu that is in the top corner of the page
 
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = दोसर ब्राउजर सँ आयात करू…
+about-logins-menu-menuitem-import-from-a-file = फाइल सँ आयात करू...
+about-logins-menu-menuitem-export-logins = लॉगिन आयात करू
 
 ## Login List
 
