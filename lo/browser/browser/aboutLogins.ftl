@@ -163,6 +163,7 @@ about-logins-breach-alert-learn-more-link = ຮຽນຮູ້ເພີ່ມເ
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = ລະຫັດຜ່ານທີ່ມີຄວາມສ່ຽງ
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = ໄປທີ່ { $hostname }
@@ -245,3 +246,4 @@ about-logins-import-report-row-description-error = ຜິດພາດ: ບໍ່
 
 ## Logins import report page
 
+about-logins-import-report-page-title = ລາຍງານສະຫຼຸບການນຳເຂົ້າ

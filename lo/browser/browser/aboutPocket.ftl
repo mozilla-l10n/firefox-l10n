@@ -46,8 +46,11 @@ pocket-panel-signup-cta-c = ເບິ່ງລາຍຊື່ຂອງທ່າ�
 
 pocket-panel-home-my-list = ລາຍການຂອງຂ້ອຍ
 pocket-panel-home-welcome-back = ຍິນ​ດີ​ຕ້ອນ​ຮັບ​ກັບ
+pocket-panel-home-explore-popular-topics = ສຳຫຼວດຫົວຂໍ້ຍອດນິຍົມ
 pocket-panel-home-discover-more = ຄົ້ນຫາເພີ່ມເຕີມ
 pocket-panel-home-explore-more = ສຳຫຼວດ
+pocket-panel-home-most-recent-saves-loading = ກຳລັງໂຫຼດຫຼາຍການບັນທືກຫຼ້າສຸດ…
+pocket-panel-home-new-user-message = ເບິ່ງບັນທຶກຫຼ້າສຸດຂອງທ່ານທີ່ນີ້.
 
 ## Pocket panel header component
 
