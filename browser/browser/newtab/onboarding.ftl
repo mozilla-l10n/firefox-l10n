@@ -296,7 +296,7 @@ mr2022-onboarding-set-default-subtitle = 使用由非營利組織在背後開發
 
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-get-started-primary-subtitle = 最新版本是圍繞您打造的。讓您更簡單就可在網路中探索，我們希望您也會喜歡我們推出的滿滿功能。
+mr2022-onboarding-get-started-primary-subtitle = 最新版本是圍繞您打造的。讓您更簡單就可在網路中探索，希望您也會喜歡我們推出的滿滿功能。
 mr2022-onboarding-get-started-primary-button-label = 幾秒鐘就能設定完成
 
 ## MR2022 Import Settings screen strings
@@ -314,7 +314,7 @@ mr2022-onboarding-colorway-title = 選擇能激發您靈感的色彩
 mr2022-onboarding-colorway-subtitle = 獨立的聲音將改變文化。
 mr2022-onboarding-colorway-primary-button-label = 使用此配色
 mr2022-onboarding-colorway-primary-button-label-continue = 設定並繼續
-mr2022-onboarding-existing-colorway-checkbox-label = 將 { -firefox-home-brand-name } 設定為您色彩繽紛的首頁
+mr2022-onboarding-existing-colorway-checkbox-label = 將 { -firefox-home-brand-name } 設定為色彩繽紛的首頁
 mr2022-onboarding-colorway-label-default = 預設
 mr2022-onboarding-colorway-tooltip-default =
     .title = 預設
