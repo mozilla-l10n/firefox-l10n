@@ -38,6 +38,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = රැකවරණය අ�
 protections-panel-no-trackers-found = මෙම පිටුවෙහි { -brand-short-name } දන්නා කිසිදු ලුහුබැඳීමක් අනාවරණය වී නැත.
 protections-panel-content-blocking-tracking-protection = ලුහුබැඳීමේ අන්තර්ගතය
 protections-panel-content-blocking-socialblock = සමාජ මාධ්‍ය ලුහුබැඳීම්
+protections-panel-content-blocking-fingerprinters-label = ඇඟිලි සටහන්
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,

@@ -6,4 +6,6 @@
 ## Text recognition works through a modal that presents the text that is found
 ## in an image, and copies the results to the clipboard.
 
+text-recognition-modal-searching-title = පෙළ සඳහා රූපය සොයමින්…
+text-recognition-modal-results-title = රූපයෙන් පෙළ පිටපත් විය
 text-recognition-modal-close-button = වසන්න
