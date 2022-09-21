@@ -92,6 +92,8 @@ monitor-no-breaches-description = ඔබ දන්නා උල්ලංඝන �
 monitor-view-report-link = වාර්තාව බලන්න
     .title = { -monitor-brand-short-name } හි උල්ලංඝන විසඳන්න
 monitor-breaches-unresolved-title = ඔබගේ උල්ලංඝන විසඳන්න
+monitor-manage-breaches-link = උල්ලංඝන කළමනාකරණය
+    .title = { -monitor-brand-short-name } හි උල්ලංඝන කළමනාකරණය
 monitor-breaches-resolved-title = නියමයි! ඔබ දන්නා සියළුම උල්ලංඝන විසඳා ඇත.
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
