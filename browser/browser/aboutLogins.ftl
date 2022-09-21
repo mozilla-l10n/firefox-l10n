@@ -142,6 +142,11 @@ about-logins-confirm-remove-all-dialog-title =
         [one] ल़गिन { $count } हटाउ?
        *[other] सभ लॉगिन { $count } हटाउ?
     }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] सभ डिवाइस सँ लॉगिन { $count } हटाउ?
+       *[other] सभ डिवाइस सँ सभ लॉगिन { $count } हटाउ?
+    }
 
 ## Breach Alert notification
 
