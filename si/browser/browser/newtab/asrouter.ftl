@@ -173,4 +173,6 @@ firefoxview-cfr-header = { -firefoxview-brand-name } සමඟ මෑත දී 
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = { -firefoxview-brand-name } අත්විඳින්න
+firefoxview-spotlight-promo-primarybutton = එය වැඩ කරන අයුරු බලන්න
 firefoxview-spotlight-promo-secondarybutton = මඟහරින්න

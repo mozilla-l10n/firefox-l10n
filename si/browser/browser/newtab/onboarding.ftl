@@ -103,6 +103,7 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous } වෙත
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = කලින් අතිරික්සුවෙන් ආයාත කරන්න
 mr1-onboarding-import-secondary-button-label = දැන් නොවේ
+mr2-onboarding-colorway-header = ජීවිතය වර්ණයෙන්
 mr2-onboarding-colorway-subtitle = උද්දීප්ත නව වර්ණ පරාස. සීමිත කාලයක් සඳහා තිබේ.
 mr2-onboarding-colorway-primary-button-label = වර්ණ පරාසය සුරකින්න
 mr2-onboarding-colorway-secondary-button-label = දැන් නොවේ
@@ -265,6 +266,7 @@ mr2022-onboarding-pin-primary-button-label =
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = { -brand-product-name } වෙත ආදරයට ස්තුතියි
+mr2022-onboarding-existing-pin-checkbox-label = එසේම { -brand-short-name } පෞද්. පිරික්සුමට යොදන්න
 
 ## MR2022 New User Set Default screen strings
 
@@ -293,6 +295,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = කලින් �
 
 mr2022-onboarding-colorway-subtitle = ස්වාධීන හඬ සංස්කෘතියට බලපායි.
 mr2022-onboarding-colorway-primary-button-label = වර්ණ පරාසය සකසන්න
+mr2022-onboarding-colorway-primary-button-label-continue = සකස් කර ඉදිරියට
 mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } ඔබගේ වර්ණවත් මුල්පිටුව ලෙස යොදන්න
 mr2022-onboarding-colorway-label-default = පෙරනිමි
 mr2022-onboarding-colorway-tooltip-default =
@@ -341,6 +344,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = අපි සැමවිට පෞද්ගලිකත්‍වයට ගරු කරන්නෙමු
 mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name } නිර්දේශ භාවිතා කරන්න
 mr2022-onboarding-privacy-segmentation-button-secondary-label = විස්තරාත්මක තොරතුරු පෙන්වන්න
 
