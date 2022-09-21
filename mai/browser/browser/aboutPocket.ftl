@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = टैग जोड़ू
+pocket-panel-saved-error-only-links = केवल लिंक सहेजल जाए सकत
 pocket-panel-saved-error-not-saved = पेज नहि सहेजल गेल
 pocket-panel-saved-page-removed = पेज हटाउ
 pocket-panel-saved-page-saved = { -pocket-brand-name } मे सहेजल
