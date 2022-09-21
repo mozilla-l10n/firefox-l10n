@@ -9,6 +9,17 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = ఎల్లప్పుడూ
 settings-page-title = అమరికలు
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = అమరికలలో వెతకండి
 managed-notice = మీ విహారిణి మీ సంస్థ ద్వారా నిర్వహించబడుతోంది.
 category-list =
     .aria-label = వర్గాలు
@@ -336,7 +347,7 @@ browsing-cfr-recommendations-learn-more = ఇంకా తెలుసుకో�
 ## General Section - Proxy
 
 network-settings-title = నెట్‌వర్క్ అమరికలు
-network-proxy-connection-description = { -brand-short-name } అంతర్జాలానికి ఎలా అనుసంధామవ్వాలో స్వరూపించండి.
+network-proxy-connection-description = { -brand-short-name } అంతర్జాలానికి ఎలా అనుసంధానమవ్వాలో స్వరూపించండి.
 network-proxy-connection-learn-more = ఇంకా తెలుసుకోండి
 network-proxy-connection-settings =
     .label = అమరికలు…
