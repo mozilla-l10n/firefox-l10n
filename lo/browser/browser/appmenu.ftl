@@ -58,6 +58,7 @@ appmenu-remote-tabs-connectdevice =
     .label = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ
 appmenu-remote-tabs-unverified = ບັນຊີຂອງທ່ານຕ້ອງໄດ້ຮັບການຢືນຢັນ.
 appmenuitem-fxa-toolbar-sync-now2 = Sync ຕອນນີ້
+appmenuitem-fxa-manage-account = ຈັດການບັນຊີ
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-fxa-signed-in-label = ເຂົ້າ​ສູ່​ລະ​ບົບ
 appmenuitem-save-page =

@@ -6,6 +6,9 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-page-title = ການເລີກໂຫຼດແຖບ
 about-unloads-column-priority = ຄວາມສຳຄັນ
 about-unloads-column-host = Host
 about-unloads-column-last-accessed = ເຂົ້າເຖິງຫຼ້າສຸດ
+about-unloads-column-memory = ຫນ່ວຍຄວາມຈຳ
+    .title = ການນຳໃຊ້ໜ່ວຍຄວາມຈຳຂອງແຖບໂດຍປະມານ
