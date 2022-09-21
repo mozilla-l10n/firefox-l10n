@@ -204,6 +204,7 @@ newtab-pocket-read-more = ජනප්‍රිය මාතෘකා:
 newtab-pocket-more-recommendations = තවත් නිර්දේශ
 newtab-pocket-learn-more = තව දැනගන්න
 newtab-pocket-cta-button = { -pocket-brand-name } ගන්න
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } යනු { -brand-product-name } පවුලේ කොටසකි
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = { -pocket-brand-name } වෙත සුරකින්න
 newtab-pocket-saved-to-pocket = { -pocket-brand-name } වෙත සුරකින්න

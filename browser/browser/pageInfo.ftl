@@ -54,6 +54,9 @@ media-dimension =
     .value = මාන:
 media-long-desc =
     .value = දිගු සවිස්තරය:
+media-select-all =
+    .label = සියල්ල තෝරන්න
+    .accesskey = e
 media-save-as =
     .label = …ලෙස සුරකින්න
     .accesskey = A
@@ -140,6 +143,16 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = පෙරනිමිය භාවිතය
 security-no-visits = නැහැ
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] පාර (අනන්‍යන 1)
+           *[other] පාර (අනන්‍යන { $tags })
+        }
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
