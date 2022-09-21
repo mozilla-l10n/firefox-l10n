@@ -51,6 +51,8 @@ pocket-panel-home-new-user-message = మీరు ఇటీవల భద్ర�
 
 ## Pocket panel header component
 
+pocket-panel-header-my-list = నా జాబితా చూపించు
+pocket-panel-header-sign-in = ప్రవేశించండి
 
 ## Pocket panel buttons
 
