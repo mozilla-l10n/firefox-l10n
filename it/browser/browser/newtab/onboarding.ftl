@@ -372,31 +372,43 @@ mr2022-onboarding-colorway-description-default = <b>Continua a utilizzare i colo
 mr2022-onboarding-colorway-label-playmaker = Regista
 mr2022-onboarding-colorway-tooltip-playmaker =
   .title = Regista
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+  .title = Regista (rossa)
 mr2022-onboarding-colorway-description-playmaker = <b>Regista:</b> crei opportunità per vincere e aiuti le persone intorno a te a migliorare il loro gioco.
 
 mr2022-onboarding-colorway-label-expressionist = Espressionista
 mr2022-onboarding-colorway-tooltip-expressionist =
   .title = Espressionista
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+  .title = Espressionista (gialla)
 mr2022-onboarding-colorway-description-expressionist = <b>Espressionista:</b> vedi il mondo in modo diverso e le tue creazioni suscitano emozioni negli altri.
 
 mr2022-onboarding-colorway-label-visionary = Visionaria
 mr2022-onboarding-colorway-tooltip-visionary =
   .title = Visionaria
+mr2022-onboarding-colorway-tooltip-visionary2 =
+  .title = Visionaria (verde)
 mr2022-onboarding-colorway-description-visionary = <b>Visionaria:</b> metti in dubbio lo status quo e spingi chi ti circonda a immaginare un mondo migliore.
 
 mr2022-onboarding-colorway-label-activist = Attivista
 mr2022-onboarding-colorway-tooltip-activist =
   .title = Attivista
+mr2022-onboarding-colorway-tooltip-activist2 =
+  .title = Attivista (blu)
 mr2022-onboarding-colorway-description-activist = <b>Attivista:</b> rendi il mondo migliore di come l’hai trovato e convinci le altre persone a credere nel cambiamento.
 
 mr2022-onboarding-colorway-label-dreamer = Sognatrice
 mr2022-onboarding-colorway-tooltip-dreamer =
   .title = Sognatrice
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+  .title = Sognatrice (viola)
 mr2022-onboarding-colorway-description-dreamer = <b>Sognatrice:</b> credi che la fortuna aiuti gli audaci e ispiri gli altri a essere coraggiosi.
 
 mr2022-onboarding-colorway-label-innovator = Innovatrice
 mr2022-onboarding-colorway-tooltip-innovator =
   .title = Innovatrice
+mr2022-onboarding-colorway-tooltip-innovator2 =
+  .title = Innovatrice (arancio)
 mr2022-onboarding-colorway-description-innovator = <b>Innovatrice:</b> vedi opportunità ovunque e lasci un segno nella vita di chi ti circonda.
 
 ## MR2022 Upgrade Dialog screens
