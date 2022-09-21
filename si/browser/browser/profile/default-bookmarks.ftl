@@ -9,6 +9,8 @@
 
 default-bookmarks-title = පොත්යොමු
 default-bookmarks-heading = පොත්යොමු
+default-bookmarks-toolbarfolder = පොත්යොමු මෙවලම් බහාලුම
+default-bookmarks-toolbarfolder-description = පොත්යොමු මෙවලම් තීරුවේ දිස් වීමට මෙම බහාලුමට පොත්යොමු එක් කරන්න
 # link title for https://www.mozilla.org/firefox/central/
 default-bookmarks-getting-started = පටන් ගන්න
 # Firefox links folder name
