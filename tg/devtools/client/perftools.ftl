@@ -73,6 +73,9 @@ perftools-presets-media-label = Расона
 perftools-presets-media-description2 = Танзимот барои тафтиши хатоҳои аудио ва видео дар { -brand-shorter-name }.
 perftools-presets-networking-label = Шабакасозӣ
 perftools-presets-networking-description = Танзимот барои тафтиши хатоҳои шабакасозӣ дар { -brand-shorter-name }.
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Қувва
+perftools-presets-power-description = Танзимот барои тафтиши хатоҳои истифодаи қувваи барқ дар { -brand-shorter-name }, бо хароҷоти паст.
 perftools-presets-custom-label = Фармоишӣ
 
 ##
