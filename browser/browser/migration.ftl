@@ -99,6 +99,10 @@ browser-data-history-label =
             [firefox] පිරික්සුම් ඉතිහාසය හා පොත්යොමු
            *[other] පිරික්සුම් ඉතිහාසය
         }
+browser-data-formdata-checkbox =
+    .label = සුරැකි ආකෘති ඉතිහාසය
+browser-data-formdata-label =
+    .value = සුරැකි ආකෘති ඉතිහාසය
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
