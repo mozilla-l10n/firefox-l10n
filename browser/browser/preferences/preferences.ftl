@@ -475,7 +475,7 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = ෆයර්ෆෝක්ස් මුල්පිටුව (පෙරනිමි)
+    .label = ෆයර්ෆොක්ස් මුල්පිටුව (පෙරනිමි)
 home-mode-choice-default-fx =
     .label = { -firefox-home-brand-name } (පෙරනිමි)
 home-mode-choice-custom =
@@ -501,8 +501,8 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header = ෆයර්ෆෝක්ස් මුල්පිටුවේ අන්තර්ගතය
-home-prefs-content-description = ෆයර්ෆෝක්ස් මුල් තිරයට වුවමනා අන්තර්ගත තෝරන්න.
+home-prefs-content-header = ෆයර්ෆොක්ස් මුල්පිටුවේ අන්තර්ගතය
+home-prefs-content-description = ෆයර්ෆොක්ස් මුල් තිරයට වුවමනා අන්තර්ගත තෝරන්න.
 home-prefs-content-header2 = { -firefox-home-brand-name } අන්තර්ගතය
 home-prefs-content-description2 = ඔබගේ { -firefox-home-brand-name } තිරයට අවශ්‍ය අන්තර්ගතය තෝරන්න.
 home-prefs-search-header =
@@ -639,7 +639,7 @@ sync-signedout-account-signin3 =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = ඔබගේ ජංගම උපාංගය සමඟ සමමුහූර්තයට <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">ඇන්ඩ්‍රොයිඩ්</a> හෝ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">අයිඕඑස්</a> සඳහා ෆයර්ෆෝක්ස් බාගන්න.
+sync-mobile-promo = ඔබගේ ජංගම උපාංගය සමඟ සමමුහූර්තයට <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">ඇන්ඩ්‍රොයිඩ්</a> හෝ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">අයිඕඑස්</a> සඳහා ෆයර්ෆොක්ස් බාගන්න.
 
 ## Firefox Account - Signed in
 
