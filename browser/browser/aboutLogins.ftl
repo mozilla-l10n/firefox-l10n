@@ -44,6 +44,22 @@ about-logins-login-list-alerts-option = चेतावनी
 login-list-last-changed-option = अंतिम रूपांतरण
 login-list-last-used-option = अंतिमबेर प्रयुक्त
 login-list-intro-title = कोनो लॉगिन नहि भेटल
+login-list-intro-description = जँ अहाँ { -brand-product-name } मे गुड़किल्ली सहेजए छी, ई एतय देखाय पड़त.
+about-logins-login-list-empty-search-title = कोनो लॉगिन नहि भेटल
+about-logins-login-list-empty-search-description = अहाँक जाँच सँ संबंधित कोनो परिणान नहि भेटल.
+login-list-item-title-new-login = नवीन लॉगिन
+login-list-item-subtitle-new-login = अपन लॉगिन बिसबसनीयता दाखिल करू
+login-list-item-subtitle-missing-username = (कोनो उपयोक्तानाम नहि)
+about-logins-list-item-breach-icon =
+    .title = अमान्य घोषित वेबसाइट
+about-logins-list-item-vulnerable-password-icon =
+    .title = कमजोर गुड़किल्ली
+about-logins-list-section-breach = अमान्य घोषित वेबसाइट
+about-logins-list-section-vulnerable = कमजोर गुड़किल्ली
+about-logins-list-section-nothing = कोनों अलर्ट नहि
+about-logins-list-section-today = आइ
+about-logins-list-section-yesterday = काल्हि
+about-logins-list-section-week = अंतिम 7 दिन
 
 ## Introduction screen
 
