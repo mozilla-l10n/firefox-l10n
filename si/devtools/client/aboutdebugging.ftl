@@ -230,6 +230,10 @@ about-debugging-extension-location =
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
     .label = දිගුවේ හැඳු.
+# Text displayed for extensions in "runtime" pages, before displaying the status of the
+# extension background script.
+about-debugging-extension-backgroundscript =
+    .label = පසුබිම් අත්පත
 # Displayed for extension using a non-persistent background page (either an event page or
 # background service worker) when the background script is currently running.
 about-debugging-extension-backgroundscript-status-running = ධාවනය වෙමින්
