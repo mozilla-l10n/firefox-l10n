@@ -63,10 +63,19 @@ about-logins-list-section-week = अंतिम 7 दिन
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-out2 = अपन सहेजल गुड़किल्ली खोजि रहल छी? सिंक कएनाय चालू करू या ओकरा आयात करू
+about-logins-login-intro-heading-logged-in = कोनो सिंक लॉगिन नहि भेटल
+login-intro-instructions-fxa-passwords-help = बेसी मदति कलेल<a data-l10n-name="passwords-help-link">गुड़किल्ली सहायता पर</a> जाउ.
 
 ## Login
 
-login-item-username-label = उपयोक्ता नाम
+login-item-new-login-title = नवीन लॉगिन बनाबू
+login-item-edit-button = संपादन
+about-logins-login-item-remove-button = हटाबू
+login-item-origin-label = वेबसाइट पता
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-username-label = प्रयोक्तानाम
 about-logins-login-item-username =
     .placeholder = (कोनो उपयोक्तानाम नहि)
 login-item-copy-username-button-text = कॉपी करू
@@ -100,12 +109,39 @@ about-logins-reveal-password-os-auth-dialog-message-macosx = सहेजल ग
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = सहेजल गुड़किल्ली कॉपी करू
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = सहेजल लॉगिन आओर गुड़किल्ली निर्यात करू
 
 ## Primary Password notification
 
+master-password-reload-button =
+    .label = लॉग इन
+    .accesskey = L
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = रद्द करू
+confirmation-dialog-dismiss-button =
+    .title = रद्द करू
+about-logins-confirm-remove-dialog-title = ई लॉगिन केँ हटाबू?
+confirm-delete-dialog-message = ई क्रिया घुराबल नहि जाए सकैत अछि.
+about-logins-confirm-remove-dialog-confirm-button = हटाउ
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] हटाउ
+       *[other] सभ हटाउ
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] हँ, ई लॉगिन हटाउ
+       *[other] हँ, सभ लॉगिन हटाउ
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] ल़गिन { $count } हटाउ?
+       *[other] सभ लॉगिन { $count } हटाउ?
+    }
 
 ## Breach Alert notification
 
