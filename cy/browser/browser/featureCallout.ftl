@@ -13,7 +13,7 @@ callout-primary-complete-button-label = Iawn!
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Symudwch rhwng dyfeisiau gyda chipio tabiau
 callout-firefox-view-tab-pickup-subtitle = Cipiwch dabiau agored yn gyflym o'ch ffôn a'u hagor yma i gael y llif gorau.
-callout-firefox-view-recently-closed-title = Ewch yn ôl eich tabiau caeedig mewn chwinciad
+callout-firefox-view-recently-closed-title = Ail-agorwch eich tabiau caeedig mewn chwinciad
 callout-firefox-view-recently-closed-subtitle = Bydd eich holl dabiau caeedig yn ymddangos yn hudol yma. Peidiwch byth â phoeni am gau gwefan ar ddamwain eto.
 callout-firefox-view-colorways-title = Ychwanegwch bach o liw
 # "Shade" refer to different color options in each colorway.
