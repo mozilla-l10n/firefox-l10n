@@ -256,7 +256,7 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = “{ $localeName }” සඳහා මෙහෙයුම් පද්ධතියේ සැකසුම් යොදා ගන්න. (උදා. දින, වේලා, අංක, හා මිනුම්)
+    .label = “{ $localeName }” සඳහා මෙ. පද්. සැකසුම් යොදා ගන්න. (උදා. දින, වේලා, අංක, හා මිනුම්)
 check-user-spelling =
     .label = ඔබ ලියන විට අකුරු වින්‍යාසය පරීක්‍ෂා කරන්න
     .accesskey = t
