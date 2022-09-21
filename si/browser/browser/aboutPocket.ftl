@@ -50,6 +50,7 @@ pocket-panel-signup-cta-c = ඕනෑම උපාංගයක, විටෙක 
 pocket-panel-home-my-list = මාගේ ලේඛනය
 pocket-panel-home-welcome-back = සාදරයෙන් පිළිගනිමු
 pocket-panel-home-explore-popular-topics = ජනප්‍රිය මාතෘකා ගවේශනය
+pocket-panel-home-discover-more = තව සොයා ගන්න
 pocket-panel-home-explore-more = ගවේශනය
 pocket-panel-home-most-recent-saves = ඔබගේ මෑත සුරැකුම් මෙතන:
 pocket-panel-home-most-recent-saves-loading = මෑත සුරැකුම් පූරණය වෙමින්...

@@ -118,6 +118,8 @@ urlbar-translated-notification-anchor =
     .tooltiptext = පිටු පරිවර්තනය කළමනාකරණය
 urlbar-plugins-notification-anchor =
     .tooltiptext = පේනු භාවිතය කළමනාකරණය
+urlbar-web-rtc-share-devices-notification-anchor =
+    .tooltiptext = අඩවිය සමඟ රූගතය හා/හෝ ශබ්දවාහිනිය බෙදා ගැනීම කළමනාකරණය
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 urlbar-web-rtc-share-speaker-notification-anchor =
@@ -163,6 +165,8 @@ urlbar-xr-blocked =
     .tooltiptext = ඔබ මෙම අඩවිය සඳහා අතථ්‍ය යථාර්ථ උපාංග ප්‍රවේශය අවහිර කර ඇත.
 urlbar-web-notifications-blocked =
     .tooltiptext = ඔබ මෙම අඩවිය සඳහා දැනුම්දීම් අවහිර කර ඇත.
+urlbar-camera-blocked =
+    .tooltiptext = ඔබ මෙම අඩවියට ඔබගේ රූගතය අවහිර කර ඇත.
 urlbar-microphone-blocked =
     .tooltiptext = ඔබ මෙම අඩවියට ඔබගේ ශබ්දවාහිනිය අවහිර කර ඇත.
 urlbar-screen-blocked =
@@ -281,6 +285,7 @@ quickactions-extensions = දිගු කළමනාකරණය
 quickactions-cmd-extensions = දිගු
 # Opens the devtools web inspector
 quickactions-inspector = සෝදිසිය අරින්න
+quickactions-cmd-inspector = සෝදිසිකරු, සං.මෙවලම්
 # Opens about:logins
 quickactions-logins = පිවිසුම් බලන්න
 quickactions-cmd-logins = පිවිසුම්, මුරපද
@@ -314,6 +319,9 @@ quickactions-cmd-update = යාවත්කාල
 # Opens the view-source UI with current pages source
 quickactions-viewsource = මූලාශ්‍රය පෙන්වන්න
 quickactions-cmd-viewsource = මූලාශ්‍රය බලන්න, මූලාශ්‍රය
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = ඉක්මන් ක්‍රියාමාර්ග ගැන තව දැනගන්න
 
 ## Bookmark Panel
 
