@@ -18,9 +18,32 @@ fxaccounts-avatar-button =
 about-logins-menu-menuitem-import-from-another-browser = दोसर ब्राउजर सँ आयात करू…
 about-logins-menu-menuitem-import-from-a-file = फाइल सँ आयात करू...
 about-logins-menu-menuitem-export-logins = लॉगिन आयात करू
+about-logins-menu-menuitem-remove-all-logins = सभ लॉगिन मेटाबू...
+menu-menuitem-preferences =
+    { PLATFORM() ->
+        [windows] बिकल्प
+       *[other] वरीयता
+    }
+about-logins-menu-menuitem-help = मदति
 
 ## Login List
 
+login-list =
+    .aria-label = लॉगिन मैच कए रहल जाँच
+login-list-count =
+    { $count ->
+        [one] { $count } लॉगिन
+       *[other] { $count } लॉगिन
+    }
+login-list-sort-label-text = द्वारा छाँटल:
+login-list-name-option = नाम (A-Z)
+login-list-name-reverse-option = नाम (Z-A)
+login-list-username-option = प्रयोक्तानाम (A-Z)
+login-list-username-reverse-option = प्रयोक्ता नाम (Z-A)
+about-logins-login-list-alerts-option = चेतावनी
+login-list-last-changed-option = अंतिम रूपांतरण
+login-list-last-used-option = अंतिमबेर प्रयुक्त
+login-list-intro-title = कोनो लॉगिन नहि भेटल
 
 ## Introduction screen
 
