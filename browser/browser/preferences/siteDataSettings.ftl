@@ -32,6 +32,8 @@ site-data-settings-dialog =
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-storage-usage =
     .value = { $unit } { $value }
+site-storage-persistent =
+    .value = { site-storage-usage.value } (අනවරත)
 site-data-remove-all =
     .label = සියල්ල ඉවත් කරන්න
     .accesskey = e

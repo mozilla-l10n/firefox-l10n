@@ -58,6 +58,8 @@ permissions-capabilities-listitem-block =
     .value = අවහිර
 permissions-capabilities-listitem-allow-session =
     .value = වාරයට ඉඩදෙන්න
+permissions-capabilities-listitem-off =
+    .value = අක්‍රිය
 permissions-capabilities-listitem-off-temporarily =
     .value = තාවකාලිකව අක්‍රියයි
 

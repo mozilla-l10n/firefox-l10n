@@ -199,6 +199,8 @@ preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
     .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
@@ -391,6 +393,7 @@ update-application-suppress-prompts =
     .label = යාවත්කාල දැනුම්දීම් ප්‍රේරක අඩුවෙන් පෙන්වන්න
     .accesskey = n
 update-setting-write-failure-title2 = යාවත්කාල සැකසුම් සුරැකීමේ දෝෂයකි
+update-in-progress-title = යාවත්කාලය සිදු වෙමින්
 update-in-progress-ok-button = &ඉවතලන්න
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -725,6 +728,10 @@ sync-engine-addons =
     .label = එක්කහු
     .tooltiptext = ෆයර්ෆොක්ස් වැඩතලය සඳහා එක්කහු හා තේමා
     .accesskey = A
+sync-engine-settings =
+    .label = සැකසුම්
+    .tooltiptext = ඔබ වෙනස් කළ සාමාන්‍ය, රහස්‍යතා, හා ආරක්‍ෂණ සැකසුම්
+    .accesskey = s
 
 ## The device name controls.
 
@@ -1059,6 +1066,7 @@ addon-recommendations-link = තව දැනගන්න
 collection-health-report-disabled = මෙම තැනීමේ වින්‍යාසය සඳහා දත්ත වාර්තාකරණය අබල කර ඇත
 collection-backlogged-crash-reports-with-link = ඔබට අතපසු වූ බිඳ වැටීම් වාර්තා යැවීමට { -brand-short-name } සඳහා ඉඩ දෙන්න <a data-l10n-name="crash-reports-link">තව දැනගන්න</a>
     .accesskey = c
+privacy-segmentation-section-header = ඔබගේ පිරික්සීම ඉහළ නංවන නව විශේෂාංග
 privacy-segmentation-radio-off =
     .label = { -brand-product-name } නිර්දේශ භාවිතා කරන්න
 privacy-segmentation-radio-on =
