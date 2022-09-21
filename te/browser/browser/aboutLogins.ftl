@@ -252,6 +252,10 @@ about-logins-import-report-row-description-added = కొత్త ప్రవ�
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">పొరపాట్లు</div> <div data-l10n-name="not-imported">(దిగుమతి చేయలేదు)</div>
+    }
 
 ## Logins import report page
 
