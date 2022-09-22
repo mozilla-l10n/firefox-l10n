@@ -320,6 +320,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Tuo edellisestä 
 mr2022-onboarding-colorway-title = Valitse väri, joka inspiroi sinua
 mr2022-onboarding-colorway-subtitle = Itsenäiset äänet voivat muuttaa kulttuuria.
 mr2022-onboarding-colorway-primary-button-label = Aseta väriteema
+mr2022-onboarding-colorway-primary-button-label-continue = Aseta ja jatka
 mr2022-onboarding-colorway-description-default = <b>Käytä nykyisiä { -brand-short-name }-värejä.</b>
 
 ## MR2022 Multistage Mobile Download screen strings
