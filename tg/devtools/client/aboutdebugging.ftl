@@ -169,6 +169,21 @@ about-debugging-runtime-profile-button2 = Самаранокии профил
 # target runtime is incompatible with service workers. "Learn more" points to:
 # https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#service-workers-not-compatible
 about-debugging-runtime-service-workers-not-compatible = Танзимоти браузери шумо ба коргузорони хизматрасонӣ мувофиқат намекунад. <a>Маълумоти бештар</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = Браузери пайвастшуда дорои версияи кӯҳна мебошад ({ $runtimeVersion }). Версияи ҳадди ақалли дастгиришаванда ({ $minVersion }) мебошад. Ин танзим дастгирӣ карда намешавад ва метавонад боиси вайроншавии абзорҳои барномарезии «DevTools» шавад. Лутфан, браузери пайвастшударо навсозӣ кунед. <a>Ислоҳи нуқсонҳо</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = Ин версияи «Firefox» наметавонад, ки хатоҳои браузери «Firefox барои Android (68)»-ро ислоҳ кунад. Мо тавсия медиҳем, ки шумо браузери «Firefox барои Android Nightly»-ро дар телефони худ барои санҷишҳо насб намоед. <a>Маълумоти муфассал</a>
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = Браузери пайвастшуда дорои версияи ({ $runtimeVersion }, buildID { $runtimeID }) мебошад, ки нисбат ба браузери ҷории { -brand-shorter-name } ({ $localVersion }, buildID { $localID }) насвтар аст. Ин танзим дастгирӣ карда намешавад ва метавонад боиси вайроншавии абзорҳои барномарезии «DevTools» шавад. Лутфан, браузери «Firefox»-ро навсозӣ кунед. <a>Ислоҳи нуқсонҳо</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
