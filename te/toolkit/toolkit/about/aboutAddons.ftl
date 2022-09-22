@@ -3,83 +3,61 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = పొడిగింతల నిర్వాహకి
-
 search-header =
     .placeholder = addons.mozilla.orgలో వెతకండి
     .searchbuttonlabel = వెతుకు
-
 search-header-shortcut =
     .key = f
-
 list-empty-installed =
     .value = మీ వద్ద ఈ రకమైన పొడిగింతలేమీ స్థాపించి లేవు
-
 list-empty-available-updates =
     .value = ఏ నవీకరణలు కనుగొనలేదు
-
 list-empty-recent-updates =
     .value = మీరు ఇటీవల ఏ పొడిగింతలు నవీకరించలేదు
-
 list-empty-find-updates =
     .label = నవీకరణల కొరకు పరిశీలించు
-
 list-empty-button =
     .label = పొడిగింతలు గురించి మరింత తెలుసుకొనండి
-
 show-unsigned-extensions-button =
     .label = కొన్ని పొడగింతలను తనిఖీ చేయలేకపోయాం
-
 show-all-extensions-button =
     .label = అన్ని పొడగింతలను చూపించు
-
 detail-version =
     .label = వెర్షను
-
 detail-last-updated =
     .label = చివరిగా నవీకరించింది
-
 detail-contributions-description = ఈ పొడిగింతను అభివృద్దికారి దాని తదుపరి అభివృద్ది కొనసాగింపు కొరకు మీ నుండి కొద్ది మొత్తంలో సహాయంను కోరుచున్నారు.
-
 detail-update-type =
     .value = స్వయంచాలక నవీకరణలు
-
 detail-update-default =
     .label = అప్రమేయం
     .tooltiptext = తాజాకరణలను స్థాపిచడం అప్రమేయమైతే వాటిని స్వయంచాలంకగా స్థాపించు
-
 detail-update-automatic =
     .label = ఆన్ చేయి
     .tooltiptext = తాజాకరణలను స్వయంచాలకంగా స్థాపించు
-
 detail-update-manual =
     .label = ఆఫ్ చేయి
     .tooltiptext = తాజాకరణలను స్వయంచాలకంగా స్థాపించవద్దు
-
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = అంతరంగిక కిటికీలలో నడుపు
 detail-private-browsing-on =
     .label = అనుమతించు
     .tooltiptext = అంతరంగిక విహరణలో చేతనంచేయి
-
 detail-private-browsing-off =
     .label = అనుమతించ వద్దు
     .tooltiptext = అంతరంగిక విహరణలో అచేతనించు
-
 detail-home =
     .label = ముంగిలిపేజీ
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = పొడిగింత పరిచయపత్రం
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = నవీకరణల కొరకు పరిశీలించు
     .accesskey = F
     .tooltiptext = ఈ పొడిగింత కొరకు నవీకరణలను పరిశీలించు
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -96,31 +74,20 @@ detail-show-preferences =
             [windows] ఈ పొడిగింత యొక్క ఎంపికలను మార్చు
            *[other] ఈ పొడిగింత యొక్క అభీష్టాలను మార్చు
         }
-
 detail-rating =
     .value = శ్రేష్టత
-
 addon-restart-now =
     .label = ఇప్పుడే పునఃప్రారంభించు
-
 disabled-unsigned-heading =
     .value = కొన్ని పొడిగింతలు అచేతనించబడ్డాయి
-
 disabled-unsigned-description = { -brand-short-name }‌లో వాడటానికి ఈ కింది పొడిగింతలు తనిఖీ చేయబడలేదు. మీరు <label data-l10n-name="find-addons">ప్రత్యామ్నాయాలు కనుగొను</label> లేదా డెవలపర్లను వాటిని తనిఖీ చేయించమని అడగవచ్చు.
-
 disabled-unsigned-learn-more = ఆన్‌లైన్లో మిమ్మల్ని సురక్షితంగా ఉంచడానికి మేం చేసే కృషి గురించి తెలుసుకోండి.
-
 disabled-unsigned-devinfo = తమ పొడిగింతలను తనిఖీ చేయించుకోవాలనుకునే డెవలపర్లు మా  చదివి కొనసాగించవచ్చు<label data-l10n-name="learn-more">మానవీయం</label>.
-
 plugin-deprecation-description = ఏదైనా లేదా? కొన్ని ప్లగిన్లకు { -brand-short-name } ఇకపై తోడ్పాటు లేదు. <label data-l10n-name="learn-more">ఇంకా తెలుసుకోండి.</label>
-
 legacy-warning-show-legacy = లెగసీ పొడగింతలను చూపించు
-
 legacy-extensions =
     .value = పాత పొడగింతలు
-
 legacy-extensions-description = ఈ పొడిగింతలు ప్రస్తుత { -brand-short-name } ప్రమాణాలను చేరుకోవు కాబట్టి అవి క్రియారహితం చేయబడ్డాయి. <label data-l10n-name="legacy-learn-more">పొడిగింతల మార్పుల గురించి తెలుసుకోండి</label>
-
 addon-category-discover = సిఫారసులు
 addon-category-discover-title =
     .title = సిఫారసులు
@@ -199,7 +166,6 @@ addon-open-about-debugging = పొడిగింతలను డీబగ్ �
 ## Extension shortcut management
 
 shortcuts-card-collapse-button = తక్కువ చూపించు
-
 header-back-button =
     .title = వెనుకకు వెళ్ళు
 
@@ -210,14 +176,12 @@ discopane-notice-recommendations =
     వీటిలో కొన్ని పొడగింతలు వ్యక్తిగతీకరించబడ్డాయి. అవి మీరు స్థాపించుకున్న
     ఇతర పొడగింతలు, ప్రొఫైలు అభిరుచులు, వాడుక గణాంకాలపై ఆధారపడినవి.
 discopane-notice-learn-more = ఇంకా తెలుసుకోండి
-
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
 user-count = వాడుకరులు: { $dailyUsers }
 install-theme-button = అలంకారాన్ని స్థాపించు
 find-more-addons = మరిన్ని పొడగింతలను కనుగొనండి
-
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -236,31 +200,23 @@ preferences-addon-button =
     }
 details-addon-button = వివరాలు
 permissions-addon-button = అనుమతులు
-
 extension-enabled-heading = చేతనం
 extension-disabled-heading = అచేతనం
-
 theme-enabled-heading = చేతనం
 theme-disabled-heading = అచేతనం
-
 plugin-enabled-heading = చేతనం
 plugin-disabled-heading = అచేతనం
-
 dictionary-enabled-heading = చేతనం
 dictionary-disabled-heading = అచేతనం
-
 locale-enabled-heading = చేతనం
 locale-disabled-heading = అచేతనం
-
 addon-detail-author-label = రచయిత
 addon-detail-version-label = వెర్షను
 addon-detail-homepage-label = ముంగిలిపేజీ
-
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (అచేతనం)
-
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -274,7 +230,6 @@ addon-detail-reviews-link =
 
 addon-detail-updates-radio-default = అప్రమేయం
 addon-detail-update-check-label = తాజాకరణలకై చూడు
-
 addon-detail-private-browsing-allow = అనుమతించు
 addon-detail-private-browsing-disallow = అనుమతించ వద్దు
 
@@ -293,11 +248,9 @@ extension-heading = మీ పొడగింతలను నిర్వహి�
 theme-heading = మీ అలంకారాలను నిర్వహించుకోండి
 plugin-heading = మీ చొప్పింతలను నిర్వహించుకోండి
 discover-heading = మీ { -brand-short-name }‌ను వ్యక్తిగతీకరించుకోండి
-
 default-heading-search-label = మరిన్ని పొడగింతలను కనుగొనండి
 addons-heading-search-input =
     .placeholder = addons.mozilla.orgలో వెతకండి
-
 addon-page-options-button =
     .title = అన్ని పొడిగింతలు కొరకు సాధనములు
 
@@ -308,17 +261,12 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } అనునది { -brand-short-name } { $version } తో సారూప్యంగా లేదు.
-
 details-notification-unsigned-and-disabled = { -brand-short-name }‌లో వాడుకకు { $name }‌ను తనిఖీ చేయలేకున్నాం కనుక అచేతనం చేసాం.
 details-notification-unsigned-and-disabled-link = మరింత సమాచారం
-
 details-notification-unsigned = { -brand-short-name }‌లో వాడుకకు { $name }‌ను తనిఖీ చేయబడలేదు. జాగ్రత్తతో కొనసాగండి.
 details-notification-unsigned-link = మరింత సమాచారం
-
 details-notification-blocked = రక్షణ లేదా స్థిరత్వ సమస్యల కారణంగా { $name } అచేతనపరచబడింది.
 details-notification-blocked-link = మరింత సమాచారం
-
 details-notification-softblocked = { $name } రక్షణ లేదా స్థిరత్వ సమస్యలకు కారణం.
 details-notification-softblocked-link = మరింత సమాచారం
-
 details-notification-gmp-pending = { $name } త్వరలో స్థాపించబడుతుంది.
