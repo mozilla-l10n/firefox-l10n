@@ -328,9 +328,9 @@ mr2022-onboarding-colorway-description-innovator = <b>ඔබ නවෝත්ප�
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = පරිගණකයෙන් දුරකථනයට ගොස් නැවත ආපසු
+mr2022-onboarding-mobile-download-title = පරිගණකය සහ දුරකථනය අතර පනින්න
 mr2022-onboarding-mobile-download-cta-text = ජංගම දුරකථන සඳහා { -brand-product-name } ලබා ගැනීමට QR කේතය සුපිරික්සන්න හෝ <a data-l10n-name="download-label">ඔබටම බාගැනීමේ සබැඳියක් යවන්න.</a>
-mr2022-onboarding-no-mobile-download-cta-text = දුරකථනයට { -brand-product-name } ගැනීමට QR කේතය සුපිරික්සන්න.
+mr2022-onboarding-no-mobile-download-cta-text = දුරකථනයට { -brand-product-name } ගැනීම සඳහා QR කේතය සුපිරික්සන්න.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -351,5 +351,6 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = විස්ත�
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = ඔබ යහපත් වියමනක් තැනීමට උපකාර කරයි
+mr2022-onboarding-gratitude-subtitle = මොසිල්ලා පදනම මගින් පිටුබලය ලබන { -brand-short-name } භාවිතා කිරීමට තුති. ඔබගේ සහාය ඇතිව, වඩාත් විවෘත, ප්‍රවේශ්‍ය සහ සැවොම සඳහා යහපත් අන්තර්ජාලයක් ගොඩනැගීමට කටයුතු කරමින් සිටින්නෙමු.
 mr2022-onboarding-gratitude-primary-button-label = අළුත් දෑ බලන්න
 mr2022-onboarding-gratitude-secondary-button-label = පිරික්සුම අරඹන්න
