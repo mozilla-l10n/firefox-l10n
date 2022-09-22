@@ -380,7 +380,7 @@ close-move-delete =
 display-name-label =
     .value = Görünen ad:
 condensed-addresses-label =
-    .label = Adres defterimdeki kişilerin sadece gösterilen adını göster
+    .label = Adres defterimdeki kişilerin sadece görünen adlarını göster
     .accesskey = d
 
 ## Compose Tab
