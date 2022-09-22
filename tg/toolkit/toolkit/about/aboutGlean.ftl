@@ -5,4 +5,5 @@
 
 ### "Glean" and "Glean SDK" should remain in English.
 
+about-glean-page-title = Дар бораи «Glean»
 controls-button-label = Татбиқ кардани танзимот

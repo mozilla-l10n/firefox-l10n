@@ -38,6 +38,7 @@ accessibility-text-label-issue-frame = Унсурҳои бо сифати <code>
 accessibility-text-label-issue-glyph = Аз сифати <code>alt</code> барои барчаспзании унсурҳои <span>mglyph</span> истифода баред. <a>Маълумоти бештар</a>
 accessibility-text-label-issue-heading = Унвонҳо бояд номгузорӣ карда шаванд. <a>Маълумоти бештар</a>
 accessibility-text-label-issue-heading-content = Унвонҳо бояд дорои тамғаҳои матнии намоён бошанд. <a>Маълумоти бештар</a>
+accessibility-text-label-issue-iframe = Аз сифати <code>title</code> барои тавсиф кардани муҳтавои <span>iframe</span> истифода баред. <a>Маълумоти бештар</a>
 accessibility-text-label-issue-image = Муҳтаво бо аксҳо бояд номгузорӣ карда шавад. <a>Маълумоти бештар</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section

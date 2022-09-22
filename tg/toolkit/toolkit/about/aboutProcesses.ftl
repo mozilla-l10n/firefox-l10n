@@ -42,13 +42,29 @@ about-processes-unknown-process = Дигар: { $type } ({ $pid })
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
 
+about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-isolated-process-private = { $origin } — Хусусӣ ({ $pid })
 
 ## Details within processes
 
+# Single-line summary of threads (idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#                     The process is idle so all threads are inactive.
+about-processes-inactive-threads =
+    { $number ->
+        [one] { $number } ҷараёни ғайрифаъол
+       *[other] { $number } ҷараёни ғайрифаъол
+    }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Варақа: { $name }
+
+## Utility process actor names
+
 
 ## Displaying CPU (percentage and total)
 ## Variables:
