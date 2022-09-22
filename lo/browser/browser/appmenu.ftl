@@ -19,8 +19,12 @@ appmenuitem-passwords =
     .label = ລະຫັດຜ່ານ
 appmenuitem-print =
     .label = ພິມ...
+appmenuitem-find-in-page =
+    .label = ຄົ້ນຫາໃນຫນ້າ…
 appmenuitem-zoom =
     .value = ຂະຫຍາຍ
+appmenuitem-more-tools =
+    .label = ເຄື່ອງມືເພີ່ມເຕີມ
 appmenuitem-help =
     .label = ວິທີໃຊ້
 appmenuitem-exit2 =
@@ -45,6 +49,8 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+appmenu-remote-tabs-turn-on-sync =
+    .label = ເປີດ Sync…
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = ບໍ່ມີແທັບທີ່ເປີດຢູ່
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -99,18 +105,30 @@ profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-label =
     .label = ກຣາບຟິກ
+profiler-popup-presets-media-label =
+    .label = ສື່
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = ພະລັງງານ
 
 ## History panel
 
+appmenu-recent-history-subheader = ປະຫວັດສາດທີ່ຜ່ານມາ
+appmenu-recently-closed-tabs =
+    .label = ແທັບທີ່ຫາກໍ່ປິດໄປມື້ກີ້ນີ້
+appmenu-recently-closed-windows =
+    .label = ວິນໂດທີ່ຫາກໍ່ປິດໄປມື້ກີ້ນີ້
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } ຊ່ວຍເຫລືອ
 appmenu-about =
     .label = About { -brand-shorter-name }
     .accesskey = A
+appmenu-get-help =
+    .label = ຂໍຄວາມຊ່ວຍເຫລືອ
+    .accesskey = h
 appmenu-help-report-site-issue =
     .label = ລາຍງານບັນຫາເວັບໄຊທ໌…
 
