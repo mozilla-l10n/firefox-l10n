@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 ¡Listo para llevar!
 firefoxview-mobile-confirmation-description = Ahora puedes tomar sus pestañas de { -brand-product-name } desde tu tableta o teléfono.
 firefoxview-closed-tabs-title = Cerradas recientemente
 firefoxview-closed-tabs-description = Vuelve a abrir las páginas que cerraste en este dispositivo.
+firefoxview-closed-tabs-description2 = Vuelve a abrir las páginas que has cerrado en esta ventana.
 firefoxview-closed-tabs-placeholder = <strong>Sin páginas cerradas recientemente</strong><br/>Nunca temas perder una pestaña cerrada de nuevo. Siempre puedes recuperarla aquí.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Última activa

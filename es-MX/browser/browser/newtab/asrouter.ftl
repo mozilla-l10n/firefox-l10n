@@ -187,6 +187,7 @@ spotlight-pin-secondary-button = Ahora no
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = Nuevo { -brand-short-name }. Más privado. Menos rastreadores. Sin compromisos.
 mr2022-background-update-toast-text = Prueba el nuevo { -brand-short-name } ahora, mejorado con nuestra protección anti-rastreo más fuerte hasta el momento.
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
@@ -206,8 +207,12 @@ firefoxview-cfr-primarybutton = Intentalo
 firefoxview-cfr-secondarybutton = Ahora no
     .accesskey = n
 firefoxview-cfr-header = Recupera las pestañas cerradas recientemente con { -firefoxview-brand-name }
+firefoxview-cfr-body = Además, cambia sin problemas entre dispositivos y agrega un toque de color a tu navegador.
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Saluda a { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = ¿Quieres esa pestaña abierta en tu teléfono? Tómala. ¿Necesitas ese sitio que acabas de visitar? Puf, ha vuelto con { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Ver cómo funciona
 firefoxview-spotlight-promo-secondarybutton = Saltar
