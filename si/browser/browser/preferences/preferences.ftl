@@ -1050,6 +1050,7 @@ permissions-addon-exceptions =
 collection-header = { -brand-short-name } දත්ත රැස් කිරීම හා භාවිතය
 collection-description = අපි බොහෝ විට ඔබට තෝරාගැනීම් ලබා දීමට වෙහෙසෙන අතර සැමට { -brand-short-name } වැඩිදියුණු කිරීමට හා සැපයීමට අවශ්‍ය දෑ පමණක් රැස් කරන්නෙමු. පෞද්ගලික තොරතුරු ලැබීමට පෙර ද සැමවිට අවසර ඉල්ලා සිටින්නෙමු.
 collection-privacy-notice = පෞද්ගලිකත්‍ව දැන්වීම
+collection-health-report-telemetry-disabled = ඔබ තවදුරටත් { -vendor-short-name } සඳහා තාක්‍ෂණික සහ අන්තර්ක්‍රියා දත්ත ග්‍රහණය කර ගැනීමට ඉඩ නොදේ. සියළුම අතීත දත්ත දවස් 30 ක් ඇතුළත මකා දැමෙනු ඇත.
 collection-health-report-telemetry-disabled-link = තව දැනගන්න
 collection-health-report =
     .label = තාක්‍ෂණික හා අන්තර්ක්‍රියා දත්ත { -vendor-short-name } වෙත යැවීමට ඉඩ දෙන්න
