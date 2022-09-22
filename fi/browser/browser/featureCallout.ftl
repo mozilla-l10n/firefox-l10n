@@ -19,8 +19,14 @@ callout-firefox-view-colorways-title = Lisää ripaus väriä
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Valitse värisävy, joka puhuttelee sinua. Vain { -brand-product-name }issa.
 callout-firefox-view-colorways-reminder-title = Tutustu uusimpiin väriteemoihin
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = Väritä selaimesi näillä ikonisilla sävyillä, jotka ovat saaneet vaikutteita itsenäisistä äänistä. Vain { -brand-product-name }issa.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = Tehosta selaamistasi välilehden poiminnalla
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Käytä avoimia välilehtiä millä tahansa laitteella. Lisäksi synkronoi kirjanmerkkisi, salasanasi ja paljon muuta.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Aloitetaan
