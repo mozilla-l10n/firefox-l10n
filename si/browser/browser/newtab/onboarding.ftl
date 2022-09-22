@@ -265,7 +265,7 @@ mr2022-onboarding-pin-primary-button-label =
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
-mr2022-onboarding-existing-pin-header = { -brand-product-name } වෙත ආදරයට ස්තුතියි
+mr2022-onboarding-existing-pin-header = { -brand-product-name } තෝරා ගැනීමට තුති!
 mr2022-onboarding-existing-pin-checkbox-label = එසේම { -brand-short-name } පෞද්. පිරික්සුමට යොදන්න
 
 ## MR2022 New User Set Default screen strings
@@ -293,6 +293,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = කලින් �
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = ප්‍රබෝධමත් වර්ණයක් තෝරන්න
 mr2022-onboarding-colorway-subtitle = ස්වාධීන හඬ සංස්කෘතියට බලපායි.
 mr2022-onboarding-colorway-primary-button-label = වර්ණ පරාසය සකසන්න
 mr2022-onboarding-colorway-primary-button-label-continue = සකස් කර ඉදිරියට
@@ -329,6 +330,7 @@ mr2022-onboarding-colorway-description-innovator = <b>ඔබ නවෝත්ප�
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = පරිගණකය සහ දුරකථනය අතර පනින්න
+mr2022-onboarding-mobile-download-subtitle = එක් උපාංගයකින් පටිති ඇහිඳගෙන තවත් උපාංගයක ඔබ නතර කළ තැනින් අතට ගන්න. තවද { -brand-product-name } භාවිතා කරන ඕනෑම තැනකට ඔබගේ පොත්යොමු සහ මුරපද සමමුහූර්ත කිරීමට හැකිය.
 mr2022-onboarding-mobile-download-cta-text = ජංගම දුරකථන සඳහා { -brand-product-name } ලබා ගැනීමට QR කේතය සුපිරික්සන්න හෝ <a data-l10n-name="download-label">ඔබටම බාගැනීමේ සබැඳියක් යවන්න.</a>
 mr2022-onboarding-no-mobile-download-cta-text = දුරකථනයට { -brand-product-name } ගැනීම සඳහා QR කේතය සුපිරික්සන්න.
 
