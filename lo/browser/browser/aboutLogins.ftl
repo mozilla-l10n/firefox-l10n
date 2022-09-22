@@ -223,6 +223,8 @@ about-logins-import-dialog-error-conflicting-values-title = ມີຄ່າຂ�
 about-logins-import-dialog-error-file-format-title = ບັນຫາຮູບແບບໄຟລ໌
 about-logins-import-dialog-error-file-permission-title = ບໍ່ສາມາດອ່ານໄຟລ໌ໄດ້
 about-logins-import-dialog-error-unable-to-read-title = ບໍ່ສາມາດວິເຄາະໄຟລ໌ໄດ້
+about-logins-import-dialog-error-unable-to-read-description = ໃຫ້ແນ່ໃຈວ່າທ່ານເລືອກໄຟລ໌ CSV ຫຼື TSV.
+about-logins-import-dialog-error-no-logins-imported = ບໍ່ມີການນໍາເຂົ້າການເຂົ້າສູ່ລະບົບ
 about-logins-import-dialog-error-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 about-logins-import-dialog-error-try-import-again = ລອງນຳເຂົ້າອີກຄັ້ງ...
 about-logins-import-dialog-error-cancel = ຍົກເລີກ
@@ -238,6 +240,7 @@ about-logins-import-report-row-description-error = ຜິດພາດ: ບໍ່
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-missing-field = ຜິດພາດ: ບໍ່ມີ { $field }
 
 ##
 ## Variables:
