@@ -103,14 +103,14 @@ vcard-note-add = Not ekle
 
 # TITLE, ROLE and ORGANIZATION vCard fields
 
-vcard-org-header = Kurum Özellikleri
+vcard-org-header = Kurum özellikleri
 vcard-org-title = Unvan
 vcard-org-role = Rol
 vcard-org-org = Şirket
 
 # Custom properties
 
-vcard-custom-header = Özel Özellikler
+vcard-custom-header = Özel özellikler
 vcard-custom-add = Özel özellik ekle
 vcard-remove-button-title =
     .title = Kaldır
