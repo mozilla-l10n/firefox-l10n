@@ -111,7 +111,13 @@ vcard-org-title-input =
     .placeholder = İş başlığı
 vcard-org-role = Rol
 vcard-org-org = Şirket
+vcard-org-org-input =
+    .title = Kurum adı
+    .placeholder = Firma adı
 vcard-org-org-unit = Departman
+vcard-org-org-unit-input =
+    .title = Kurumsal birim adı
+    .placeholder = Departman
 
 # Custom properties
 
