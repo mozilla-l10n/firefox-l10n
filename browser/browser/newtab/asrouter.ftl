@@ -202,8 +202,10 @@ firefoxview-cfr-primarybutton = 试试看
 firefoxview-cfr-secondarybutton = 暂时不要
     .accesskey = N
 firefoxview-cfr-header = 通过 { -firefoxview-brand-name } 找回最近关闭的标签页
+firefoxview-cfr-body = 享受设备间无缝切换，还能为浏览器添一分色彩。
 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = 邂逅 { -firefoxview-brand-name }
+firefoxview-spotlight-promo-primarybutton = 看看怎么用
 firefoxview-spotlight-promo-secondarybutton = 跳过
