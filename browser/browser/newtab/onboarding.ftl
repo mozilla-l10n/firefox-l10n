@@ -350,5 +350,6 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = විස්ත�
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = ඔබ යහපත් වියමනක් තැනීමට උපකාර කරයි
 mr2022-onboarding-gratitude-primary-button-label = අළුත් දෑ බලන්න
 mr2022-onboarding-gratitude-secondary-button-label = පිරික්සුම අරඹන්න
