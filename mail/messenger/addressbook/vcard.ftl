@@ -104,9 +104,14 @@ vcard-note-add = Not ekle
 # TITLE, ROLE and ORGANIZATION vCard fields
 
 vcard-org-header = Kurum özellikleri
+vcard-org-add = Kurum özellikleri ekle
 vcard-org-title = Unvan
+vcard-org-title-input =
+    .title = Pozisyon veya iş
+    .placeholder = İş başlığı
 vcard-org-role = Rol
 vcard-org-org = Şirket
+vcard-org-org-unit = Departman
 
 # Custom properties
 

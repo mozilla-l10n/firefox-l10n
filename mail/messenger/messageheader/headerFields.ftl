@@ -21,6 +21,8 @@ message-header-author-field = Yazar<span data-l10n-name="field-separator">:</spa
 message-header-organization-field = Kuruluş<span data-l10n-name="field-separator">:</span>
 message-header-subject-field = Konu<span data-l10n-name="field-separator">:</span>
 message-header-date-field = Tarih<span data-l10n-name="field-separator">:</span>
+message-header-user-agent-field = Kullanıcı istemcisi<span data-l10n-name="field-separator">:</span>
+message-header-references-field = Referanslar<span data-l10n-name="field-separator">:</span>
 message-header-message-id-field = İleti kimliği<span data-l10n-name="field-separator">:</span>
 message-header-website-field = Web sitesi<span data-l10n-name="field-separator">:</span>
 # An additional email header field that the user has chosen to display. Unlike
