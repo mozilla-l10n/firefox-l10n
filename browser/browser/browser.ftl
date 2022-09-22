@@ -243,9 +243,12 @@ quickactions-clearhistory = చరిత్రను తుడిచివేయ
 # Opens about:downloads page
 quickactions-downloads = దింపుకోళ్ళను తెరువు
 quickactions-cmd-downloads = దింపుకోళ్ళు
+quickactions-cmd-private = అంతరంగిక విహారణ
 # Opens about:preferences
 quickactions-settings = అమరికలను తెరువు
 quickactions-cmd-themes = అలంకారాలు
+# Opens the view-source UI with current pages source
+quickactions-viewsource = మూలాన్ని చూడండి
 
 ## Bookmark Panel
 
@@ -730,6 +733,8 @@ data-reporting-notification-message = { -brand-short-name } స్వయంచ�
 data-reporting-notification-button =
     .label = మీరు ఏమి పంచుకోవాలో ఎంచుకోండి
     .accesskey = C
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = అంతరంగిక విహారణ
 
 ## Unified extensions (toolbar) button
 
