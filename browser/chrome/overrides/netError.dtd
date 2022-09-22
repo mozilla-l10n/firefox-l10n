@@ -103,6 +103,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName; ආරක්‍ෂණ තර්ජනයක් හඳුනාගත් බැවින් <span class='hostname'/> වෙත නොයන ලදි. මෙම අඩවියට ඔබ ගොඩවදින්නේ නම්, ප්‍රහාරකයින්ට ඔබගේ මුරපද, වි-තැපැල්, හෝ ණයපත් විස්තර වැනි තොරතුරු සොරකම් කිරීමට හැකිය.">
 <!ENTITY certerror.sts.introPara "&brandShortName; ආරක්‍ෂණ තර්ජනයක් හඳුනාගෙන ඇත. මෙම අඩවියට ආරක්‍ෂිත සම්බන්ධතාවයක් අවශ්‍ය නිසා <span class='hostname'/> වෙත ගියේ නැත.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; සඳහා ගැටළුවක් අනාවරණය වූ නිසා <span class='hostname'/> වෙත නොයන ලදි. වියමන අඩවිය වැරදි ලෙස වින්‍යාස කර තිබේ හෝ ඔබගේ පරිගණකයෙහි ඔරලෝසුව වැරදි වේලාවකට සකසා ඇත.">
 <!ENTITY certerror.expiredCert.secondPara2 "&brandShortName; ආරක්‍ෂිතව සම්බන්ධ වීම වළක්වන්නේ පෙනෙන හැටියට අඩවියෙහි සහතිකය කල් ඉකුත් වී තිබෙන නිසා විය හැකිය. මෙම අඩවියට ඔබ ගොඩවදින්නේ නම්, ප්‍රහාරකයින්ට ඔබගේ මුරපද, වි-තැපැල්, හෝ ණයපත් විස්තර වැනි තොරතුරු සොරකම් කිරීමට හැකිය.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "ඔබට ඒ ගැන කුමක් කළ හැකිද?">
