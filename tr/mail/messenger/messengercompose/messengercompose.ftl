@@ -180,6 +180,8 @@ menu-view-certificates =
 menu-open-key-manager =
     .label = Anahtar yöneticisi
     .accesskey = n
+smime-cert-issue-notification-one = Uçtan uca şifreleme için { $addr } sertifika sorunlarını çözmeniz gerekiyor.
+smime-cert-issue-notification-many = Uçtan uca şifreleme için { $count } alıcının sertifika sorunlarının çözmeniz gerekiyor.
 can-encrypt-smime-notification = S/MIME uçtan uca şifreleme mümkün.
 can-encrypt-openpgp-notification = OpenPGP uçtan uca şifreleme mümkün.
 can-e2e-encrypt-button =
@@ -250,6 +252,7 @@ many-public-recipients-prompt-send = Yine de gönder
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Gönderen adresiyle eşleşen benzersiz kimlik bulunamadı. İleti, mevcut "Gönderen" alanı ve { $identity } kimliğine ait ayarlarla gönderilecek.
+encrypted-bcc-warning = Şifrelenmiş ileti gönderirken Bcc’deki alıcılar tamamen gizlenmez. Tüm alıcılar diğer alıcıları görebilir.
 encrypted-bcc-ignore-button = Anladım
 
 ## Editing
@@ -271,6 +274,10 @@ cloud-file-unknown-account-tooltip = Bilinmeyen bir Filelink hesabına yüklendi
 # Title for the html placeholder file.
 # $filename - name of the file
 cloud-file-placeholder-title = { $filename } - Filelink Eki
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = { $filename } dosyası Filelink olarak eklendi. Dosyayı aşağıdaki bağlantıdan indirebilirsiniz.
 
 # Template
 
@@ -322,6 +329,7 @@ cloud-file-rename-error-title = Yeniden adlandırma hatası
 cloud-file-rename-not-supported = { $provider } önceden yüklenmiş dosyaların yeniden adlandırılmasını desteklemiyor.
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-attachment-error-title = Filelink Ek Hatası
+cloud-file-attachment-error = Bilgisayarınızdaki dosya taşındığı veya silindiği için { $filename } Filelink eki güncellenemedi.
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Filelink Hesap Hatası
 cloud-file-account-error = Filelink hesabı silindiği için Filelink eki { $filename } güncellenemedi.

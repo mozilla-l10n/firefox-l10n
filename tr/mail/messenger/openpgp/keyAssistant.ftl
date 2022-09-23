@@ -27,6 +27,13 @@ openpgp-key-assistant-resolve-title =
        *[other] { -brand-short-name }, { $recipient } için aşağıdaki anahtarları buldu.
     }
 openpgp-key-assistant-valid-description = Kabul etmek istediğiniz anahtarı seçin
+# Variables:
+# $numKeys (Number) - The number of available keys.
+openpgp-key-assistant-invalid-title =
+    { $numKeys ->
+        [one] Güncelleme yapmadığınız sürece aşağıdaki anahtar kullanılamaz.
+       *[other] Güncelleme yapmadığınız sürece aşağıdaki anahtarlar kullanılamaz.
+    }
 openpgp-key-assistant-no-key-available = Hiç anahtar mevcut değil.
 openpgp-key-assistant-multiple-keys = Birden fazla anahtar mevcut.
 # Variables:
@@ -57,11 +64,28 @@ openpgp-key-assistant-key-collected-attachment = e-posta eki
 openpgp-key-assistant-key-collected-keyserver = anahtar sunucusu
 # Web Key Directory (WKD) is a concept.
 openpgp-key-assistant-key-collected-wkd = Web Anahtarı Dizini
+openpgp-key-assistant-keys-has-collected =
+    { $count ->
+        [one] Henüz kabul edilmemiş bir anahtar bulundu.
+       *[other] Henüz hiçbiri kabul edilmemiş birden fazla anahtar bulundu.
+    }
 openpgp-key-assistant-key-rejected = Bu anahtar daha önce reddedildi.
+openpgp-key-assistant-key-accepted-other = Bu anahtar daha önce farklı bir e-posta adresi için kabul edilmiş.
+# Variables:
+# $recipient (String) - The email address of the recipient needing resolution.
+openpgp-key-assistant-resolve-discover-info = { $recipient } için ek veya güncellenmiş anahtarları çevrimiçi keşfedin veya bir dosyadan içe aktarın.
 
 ## Discovery section
 
 openpgp-key-assistant-discover-title = Çevrimiçi keşif devam ediyor.
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-discover-keys = { $recipient } anahtarları keşfediliyor…
+# Variables:
+# $recipient (String) - The email address which we're discovering keys.
+openpgp-key-assistant-expired-key-update =
+    Önceden kabul ettiğiniz { $recipient } anahtarlarından biri için güncelleme bulundu.
+    Artık süresi dolmadığı için bu anahtar kullanılabilir.
 
 ## Dialog buttons
 

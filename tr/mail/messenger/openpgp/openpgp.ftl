@@ -4,6 +4,7 @@
 
 e2e-intro-description = Şifrelenmiş veya dijital olarak imzalanmış iletiler göndermek için OpenPGP veya S/MIME gibi bir şifreleme teknolojisini yapılandırmanız gerekir.
 e2e-intro-description-more = OpenPGP kullanımını etkinleştirmek için kişisel anahtarınızı veya S/MIME kullanımını etkinleştirmek için kişisel sertifikanızı seçin. Kişisel anahtar veya sertifikanın gizli anahtarına da sahip olmalısınız.
+e2e-signing-description = Dijital imza sayesinde alıcılar iletinin sizin tarafınızdan gönderildiğini ve içeriğinin değiştirilmediğini doğrulayabilir. Şifrelenmiş iletiler varsayılan olarak her zaman imzalanır.
 e2e-sign-message =
     .label = Şifrelenmemiş iletileri imzala
     .accesskey = f
@@ -273,6 +274,13 @@ openpgp-copy-cmd-label =
 
 #   $identity (String) - the email address of the currently selected identity
 openpgp-description-no-key = { -brand-short-name }, <b>{ $identity }</b> için kişisel OpenPGP anahtarına sahip değil
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-has-keys =
+    { $count ->
+        [one] { -brand-short-name }, <b>{ $identity }</b> ile ilişkili { $count } kişisel OpenPGP anahtarı buldu
+       *[other] { -brand-short-name }, <b>{ $identity }</b> ile ilişkili { $count } kişisel OpenPGP anahtarı buldu
+    }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Geçerli yapılandırmalarınızda <b>{ $key }</b> anahtar kimliği kullanılıyor
 #   $key (String) - the currently selected OpenPGP key
