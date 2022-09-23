@@ -315,6 +315,17 @@ addon-detail-private-browsing-disallow = ඉඩ නොදෙන්න
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+addon-badge-recommended2 =
+    .title = අපගේ ආරක්‍ෂණ හා කාර්ය සාධන ප්‍රමිතීන් සපුරාලන දිගු පමණක් { -brand-product-name } නිර්දේශ කරයි.
+    .aria-label = { addon-badge-recommended2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = මොසිල්ලා තනන ලද නිල එක්කහුවකි. ආරක්‍ෂණ හා කාර්ය සාධන ප්‍රමිතීන් සපුරාලයි.
+    .aria-label = { addon-badge-line3.title }
+addon-badge-verified2 =
+    .title = මෙම දිගුව අපගේ ආරක්‍ෂණ සහ කාර්ය සාධන  ප්‍රමිතීන් සපුරාලන්නේ දැයි සමාලෝචනය කර ඇත
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
