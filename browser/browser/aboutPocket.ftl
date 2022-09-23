@@ -43,7 +43,7 @@ pocket-panel-signup-signup-firefox = { -brand-product-name } සමඟ ලිය
 pocket-panel-signup-cta-a-fix = අන්තර්ජාලය සඳහා ඔබගේ සුරැකීමේ බොත්තම
 pocket-panel-signup-cta-b = ලිපි, දෘශ්‍යක, හා සබැඳි සුරැකීමට { -pocket-brand-name } බොත්තම ඔබන්න. ඕනෑම උපාංගයක, ඕනෑම වේලාවක ඔබගේ ලේඛනය බලන්න.
 pocket-panel-signup-cta-b-short = ලිපි, දෘශ්‍යක හා සබැඳි සුරැකීමට { -pocket-brand-name } බොත්තම ඔබන්න.
-pocket-panel-signup-cta-c = ඕනෑම උපාංගයක, විටෙක ලේඛනය බලන්න.
+pocket-panel-signup-cta-c = ඕනෑම උපාංගයක ඔබගේ ලේඛනය බලන්න.
 
 ## about:pocket-home panel
 
