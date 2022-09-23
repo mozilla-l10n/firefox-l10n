@@ -22,14 +22,33 @@ about-webrtc-auto-refresh-label = Навсозии худкор
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
 about-webrtc-sdp-heading = SDP
+about-webrtc-local-sdp-heading = SDP-и маҳаллӣ
+about-webrtc-local-sdp-heading-offer = SDP-и маҳаллӣ (Пешниҳод)
+about-webrtc-local-sdp-heading-answer = SDP-и маҳаллӣ (Ҷавоб)
+about-webrtc-remote-sdp-heading = SDP-и дурдаст
+about-webrtc-remote-sdp-heading-offer = SDP-и дурдаст (Пешниҳод)
+about-webrtc-remote-sdp-heading-answer = SDP-и дурдаст (Ҷавоб)
 about-webrtc-sdp-history-heading = Таърихи SDP
+about-webrtc-sdp-parsing-errors-heading = Хатоҳои таҷзияи SDP
 
 ##
 
+# "RTP" is an abbreviation for the Real-time Transport Protocol, an IETF
+# specification, and should not normally be translated. "Stats" is an
+# abbreviation for Statistics.
+about-webrtc-rtp-stats-heading = Омори RTP
 
 ## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
 ## is an IETF protocol, and should not normally be translated.
 
+about-webrtc-ice-state = Вазъияти ICE
+# "Stats" is an abbreviation for Statistics.
+about-webrtc-ice-stats-heading = Омори ICE
+about-webrtc-ice-restart-count-label = Оғозҳои дубораи ICE:
+about-webrtc-ice-rollback-count-label = Ақибгардҳои ICE:
+about-webrtc-ice-pair-bytes-sent = Байтҳои ирсолшуда:
+about-webrtc-ice-pair-bytes-received = Байтҳои қабулшуда:
+about-webrtc-ice-component-id = Рақами мушаххаси унсур
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
@@ -48,7 +67,10 @@ about-webrtc-save-page-label = Нигоҳ доштани саҳифа
 about-webrtc-debug-mode-msg-label = Реҷаи ислоҳи нуқсонҳо
 about-webrtc-debug-mode-off-state-label = Оғоз кардани реҷаи ислоҳи нуқсонҳо
 about-webrtc-debug-mode-on-state-label = Қатъ кардани реҷаи ислоҳи нуқсонҳо
+about-webrtc-stats-heading = Омори ҷаласа
 about-webrtc-stats-clear = Пок кардани таърих
+about-webrtc-log-heading = Сабти рӯйдодҳои пайваст
+about-webrtc-log-clear = Пок кардани сабти рӯйдодҳо
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -62,6 +84,11 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (пӯш�
 
 ##
 
+about-webrtc-local-candidate = Номзади маҳаллӣ
+about-webrtc-remote-candidate = Номзади дурдаст
+about-webrtc-raw-candidates-heading = Ҳамаи номзадҳои коркарднашуда
+about-webrtc-raw-local-candidate = Номзади коркарднашудаи маҳаллӣ
+about-webrtc-raw-remote-candidate = Номзади коркарднашудаи дурдаст
 about-webrtc-priority = Афзалият
 about-webrtc-show-tab-label = Намоиш додани варақа
 

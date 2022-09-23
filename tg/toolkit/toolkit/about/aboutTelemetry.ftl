@@ -8,12 +8,15 @@ about-telemetry-option-group-yesterday = Дирӯз
 about-telemetry-option-group-older = Пештар
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
+about-telemetry-page-title = Маълумоти санҷиши дурдаст
+about-telemetry-current-store = Захирагоҳи ҷорӣ:
 about-telemetry-more-information = Маълумоти бештар лозим аст?
 about-telemetry-home-section = Асосӣ
 about-telemetry-general-data-section = Маълумоти умумӣ
 about-telemetry-environment-data-section = Маълумоти муҳит
 about-telemetry-session-info-section = Маълумот дар бораи ҷаласа
 about-telemetry-events-section = Рӯйдодҳо
+about-telemetry-addon-details-section = Тафсилоти ҷузъи иловагӣ
 about-telemetry-late-writes-section = Сабтҳои дер
 # Selects the correct upload string
 # Variables:
@@ -32,10 +35,13 @@ about-telemetry-filter-placeholder =
     .placeholder = Ҷустуҷӯ дар { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Ҷустуҷӯ дар ҳамаи қисматҳо
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = маълумоти ҷорӣ
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = ҳама
 # button label to copy the histogram
 about-telemetry-histogram-copy = Нусха бардоштан
+about-telemetry-slow-sql-statement = Дастур
 about-telemetry-addon-table-details = Тафсилот
 # Variables:
 #   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
@@ -46,3 +52,4 @@ about-telemetry-values-header = Қимат
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Сабти дер #{ $lateWriteCount }
+about-telemetry-memory-map-title = Харитаи ҳофиза:
