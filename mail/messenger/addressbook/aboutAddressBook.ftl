@@ -221,3 +221,7 @@ about-addressbook-photo-filepicker-title = Izberi slikovno datoteko
 about-addressbook-photo-discard = Zavrzi obstoječo fotografijo
 about-addressbook-photo-cancel = Prekliči
 about-addressbook-photo-save = Shrani
+
+# Keyboard shortcuts
+
+about-addressbook-new-contact-key = N
