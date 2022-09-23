@@ -209,3 +209,7 @@ about-addressbook-photo-filepicker-title = Selecteer een afbeeldingsbestand
 about-addressbook-photo-discard = Bestaande foto verwijderen
 about-addressbook-photo-cancel = Annuleren
 about-addressbook-photo-save = Opslaan
+
+# Keyboard shortcuts
+
+about-addressbook-new-contact-key = N
