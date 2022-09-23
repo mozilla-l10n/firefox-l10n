@@ -238,6 +238,9 @@ newtab-pocket-last-card-title = ¡Pejejokopa piko!
 newtab-pocket-last-card-desc = Ejujey eñemomanduve hag̃ua.
 newtab-pocket-last-card-image =
     .alt = Ejujey eñemomanduve hag̃ua.
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Ñongatu
+newtab-pocket-saved = Ñongatupyre
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

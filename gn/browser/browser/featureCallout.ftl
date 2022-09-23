@@ -18,7 +18,12 @@ callout-firefox-view-recently-closed-subtitle = Opaite tendayke mbotypyre osẽt
 callout-firefox-view-colorways-title = Embojuaju sa’y sa’imi
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Eiporavo mba’etépa ohechauka sa’ykuéra ojueheguáva. { -brand-product-name }-pe añoite.
+callout-firefox-view-colorways-reminder-title = Eheka ore sa’y ojuehegua ipyahúva
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = Emyatyrõve ne ñeikundaha tendayke poravopyrã ndive
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Eñepyrũ
