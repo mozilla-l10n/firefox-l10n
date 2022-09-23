@@ -324,6 +324,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importer depuis u
 mr2022-onboarding-colorway-title = Choisissez la couleur qui vous inspire
 mr2022-onboarding-colorway-subtitle = Des voix indépendantes peuvent changer une culture.
 mr2022-onboarding-colorway-primary-button-label = Choisir ce coloris
+mr2022-onboarding-colorway-primary-button-label-continue = Configurer et continuer
 mr2022-onboarding-existing-colorway-checkbox-label = Faites de la { -firefox-home-brand-name } votre page d’accueil colorée
 mr2022-onboarding-colorway-label-default = Par défaut
 mr2022-onboarding-colorway-tooltip-default =

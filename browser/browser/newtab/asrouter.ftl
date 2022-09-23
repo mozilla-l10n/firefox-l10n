@@ -199,8 +199,17 @@ mr2022-background-update-toast-secondary-button-label = Me le rappeler plus tard
 
 ## Firefox View CFR
 
+firefoxview-cfr-primarybutton = Essayer
+    .accesskey = E
+firefoxview-cfr-secondarybutton = Plus tard
+    .accesskey = P
+firefoxview-cfr-header = Récupérez les onglets récemment fermés grâce à { -firefoxview-brand-name }
+firefoxview-cfr-body = Mais aussi, passez facilement d’un appareil à l’autre et ajoutez une touche de couleur à votre navigateur.
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Nous vous présentons { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Vous cherchez un onglet ouvert sur votre téléphone ? Récupérez-le à la volée. Vous avez besoin d’un site que vous venez de visiter ? Hop, il est dans { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Découvrir son fonctionnement
 firefoxview-spotlight-promo-secondarybutton = Ignorer
