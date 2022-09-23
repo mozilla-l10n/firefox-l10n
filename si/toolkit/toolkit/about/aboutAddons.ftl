@@ -324,7 +324,7 @@ addon-badge-line3 =
     .title = මොසිල්ලා තනන ලද නිල එක්කහුවකි. ආරක්‍ෂණ හා කාර්ය සාධන ප්‍රමිතීන් සපුරාලයි.
     .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
-    .title = මෙම දිගුව අපගේ ආරක්‍ෂණ සහ කාර්ය සාධන  ප්‍රමිතීන් සපුරාලන්නේ දැයි සමාලෝචනය කර ඇත
+    .title = මෙම දිගුව අපගේ ආරක්‍ෂණ සහ කාර්ය සාධන ප්‍රමිතීන් සපුරාලන්නේ දැයි සමාලෝචනය කර ඇත
     .aria-label = { addon-badge-verified2.title }
 
 ##
