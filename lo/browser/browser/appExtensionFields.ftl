@@ -7,6 +7,7 @@
 
 extension-firefox-compact-light-name = ແຈ້ງ
 extension-firefox-compact-dark-name = ມືດ
+extension-firefox-alpenglow-name = Firefox Alpenglow
 
 ## Colorway Themes
 ## These themes are variants of a colorway. The colorway is specified in the

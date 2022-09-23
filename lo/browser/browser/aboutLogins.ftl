@@ -63,6 +63,7 @@ about-logins-list-section-week = 7 ມື້ກ່ອນ
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-out2 = ຊອກຫາການເຂົ້າສູ່ລະບົບທີ່ບັນທຶກໄວ້ຂອງທ່ານບໍ? ເປີດການຊິງຄ໌ ຫຼືນໍາເຂົ້າ.
 about-logins-login-intro-heading-logged-in = ບໍ່ພົບການເຂົ້າສູ່ລະບົບທີ່ຊິ້ງ.
 
 ## Login
@@ -233,6 +234,7 @@ about-logins-import-report-title = ສະຫຼຸບການນໍາເຂົ
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = ແຖວ { $number }
+about-logins-import-report-row-description-modified = ອັບເດດການເຂົ້າສູ່ລະບົບທີ່ມີຢູ່ແລ້ວ
 about-logins-import-report-row-description-added = ເພີ່ມການເຂົ້າສູ່ລະບົບໃໝ່ແລ້ວ
 about-logins-import-report-row-description-error = ຜິດພາດ: ບໍ່ມີບາງຂໍ້ມູນ
 
