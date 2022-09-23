@@ -28,6 +28,7 @@ about-processes-column-cpu-total = CPU
 about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-file-process = Файлҳо ({ $pid })
 about-processes-extension-process = Васеъшавиҳо ({ $pid })
+about-processes-privilegedabout-process = Саҳифаҳои «About» ({ $pid })
 about-processes-plugin-process = Плагинҳо ({ $pid })
 about-processes-privilegedmozilla-process = Сомонаҳои { -vendor-short-name } ({ $pid })
 about-processes-gmp-plugin-process = Плагинҳои расонаи «Gecko» ({ $pid })
@@ -69,6 +70,8 @@ about-processes-tab-name = Варақа: { $name }
 
 ## Utility process actor names
 
+about-processes-utility-actor-unknown = Иштирокдори номаълум
+about-processes-utility-actor-audio-decoder = Рамзкушоии аудио
 
 ## Displaying CPU (percentage and total)
 ## Variables:
