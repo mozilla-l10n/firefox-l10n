@@ -262,7 +262,7 @@
 <!ENTITY reorderAttachments.accesskey "צ">
 <!ENTITY removeAllAttachments.label "הסרת כל הקבצים המצורפים">
 <!ENTITY removeAllAttachments.accesskey "כ">
-<!ENTITY selectAll.label "בחר הכול">
+<!ENTITY selectAll.label "בחירת הכול">
 <!ENTITY selectAll.accesskey "ב">
 <!ENTITY attachCloud.label "קישור קובץ…">
 <!ENTITY attachCloud.accesskey "ק">
