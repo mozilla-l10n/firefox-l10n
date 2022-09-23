@@ -37,6 +37,8 @@ serviceworker-worker-status-running = ධාවනය වෙමින්
 serviceworker-worker-status-stopped = නවතා ඇත
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = තව දැනගන්න
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro-link = ව්‍යක්තයක් එක් කරන අයුරු දැනගන්න
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = දෝෂ සහ අවවාද
 # Header for the Identity section of Manifest inspection displayed in the application panel.
