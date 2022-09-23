@@ -15,3 +15,4 @@ openpgp-recip-good = tamam
 openpgp-recip-missing = anahtar yok
 openpgp-recip-none-accepted = kabul edilmiş anahtar yok
 openpgp-compose-general-info-alias-learn-more = Daha fazla bilgi al
+openpgp-compose-alias-status-error = kullanılamaz/bulunamayan takma ad anahtarı
