@@ -186,6 +186,11 @@ spotlight-pin-secondary-button = Ani ko’ág̃a
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Chemomandu’a ag̃ave
 
 ## Firefox View CFR
 
