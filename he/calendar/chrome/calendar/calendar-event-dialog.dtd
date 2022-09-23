@@ -99,7 +99,7 @@
 <!ENTITY  event.menu.edit.copy.accesskey                  "ע">
 <!ENTITY  event.menu.edit.paste.label                     "הדבק">
 <!ENTITY  event.menu.edit.paste.accesskey                 "ד">
-<!ENTITY  event.menu.edit.select.all.label                "בחר הכול">
+<!ENTITY  event.menu.edit.select.all.label                "בחירת הכול">
 <!ENTITY  event.menu.edit.select.all.accesskey            "ב">
 
 <!ENTITY  event.menu.view.label                           "תצוגה">
