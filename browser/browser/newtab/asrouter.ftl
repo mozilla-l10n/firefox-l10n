@@ -177,6 +177,7 @@ firefoxview-cfr-primarybutton = බලන්න
 firefoxview-cfr-secondarybutton = දැන් නොවේ
     .accesskey = N
 firefoxview-cfr-header = { -firefoxview-brand-name } සමඟ මෑත දී වසා දැමූ පටිති ආපසු ගන්න
+firefoxview-cfr-body = තවද උපාංග අතර බාධාවකින් තොරව පනින්න හා අතිරික්සුවෙහි වර්ණ කලතන්න.
 
 ## Firefox View Spotlight
 
