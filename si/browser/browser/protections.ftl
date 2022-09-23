@@ -15,8 +15,8 @@ graph-week-summary =
 # earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
-        [one] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } සිට ලුහුබැඳීම් <b>{ $count }</b> අවහිර කර ඇත
-       *[other] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } සිට ලුහුබැඳීම් <b>{ $count }</b> අවහිර කර ඇත
+        [one] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } සිට ලුහුබැඳීම් <b>{ $count }</b> ක් අවහිර කර ඇත
+       *[other] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } සිට ලුහුබැඳීම් <b>{ $count }</b> ක් අවහිර කර ඇත
     }
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = මෙම සතියේදී { -brand-short-name } අවහිර කළ ලුහුබැඳීම්
