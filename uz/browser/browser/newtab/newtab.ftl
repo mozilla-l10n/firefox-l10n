@@ -72,6 +72,7 @@ newtab-confirm-delete-history-p2 = Bu amalni ortga qaytarib boʻlmaydi.
 
 ## Top Sites - Sponsored label
 
+newtab-topsite-sponsored = Homiylik qilgan
 
 ## Context Menu - Action Tooltips.
 
@@ -188,6 +189,7 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = Ommabop saytlar
+newtab-section-header-recent-activity = Soʻnggi faoliyat
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } tomonidan tavsiya qilingan
