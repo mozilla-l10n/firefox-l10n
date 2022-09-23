@@ -355,7 +355,7 @@ mr2022-onboarding-colorway-description-dreamer = <b>მეოცნებე.</b
 mr2022-onboarding-colorway-label-innovator = განმაახლებელი
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = განმაახლებელი
-mr2022-onboarding-colorway-description-innovator = <b>სიხლის შემომტანი.</b> ყველაფრისადმი თქვენი ახლებური ხედვა უკეთესობისკენ ცვლის გარშემომყოფთა ცხოვრებას.
+mr2022-onboarding-colorway-description-innovator = <b>სიახლის შემომტანი.</b> ყველაფრისადმი თქვენი ახლებური ხედვა უკეთესობისკენ ცვლის გარშემომყოფთა ცხოვრებას.
 
 ## MR2022 Multistage Mobile Download screen strings
 
