@@ -43,6 +43,7 @@ fingerprinter-tab-title = ඇඟිලි සටහන්
 protections-close-button2 =
     .aria-label = වසන්න
     .title = වසන්න
+mobile-app-title = තවත් උපාංගවල ලුහුබඳින දැන්වීම් අවහිර කරන්න
 mobile-app-card-content = දැන්වීම් ලුහුබැඳීමට එරෙහි තිළෑලි රැකවරණයක් සහිත ජංගම අතිරික්සුව භාවිතා කරන්න.
 mobile-app-links = <a data-l10n-name="android-mobile-inline-link">ඇන්ඩ්‍රොයිඩ්</a> හා <a data-l10n-name="ios-mobile-inline-link">අයිඕඑස්</a> සඳහා { -brand-product-name } අතිරික්සුව
 lockwise-title = නැවත මුරපද අමතක නොකරන්න
@@ -63,7 +64,9 @@ lockwise-scanned-text-no-breached-logins =
        *[other] ඔබගේ මුරපද ආරක්‍ෂිතව ගබඩා කර ඇත.
     }
 lockwise-how-it-works-link = එය වැඩ කරන අයුරු
+monitor-title = දත්ත උල්ලංඝන ගැන විමසිල්ලෙන් සිටින්න
 monitor-link = එය වැඩ කරන අයුරු
+monitor-header-content-no-account = ඔබ දන්නා දත්ත උල්ලංඝනයක කොටසක් වී ඇත්දැයි බැලීමට { -monitor-brand-name } පරීක්‍ෂා කරන්න, සහ නව උල්ලංඝන පිළිබඳව ඇඟවීම් ලබා ගන්න.
 monitor-sign-up-link = උල්ලංඝන ඇඟවීම් සඳහා ලියාපදිංචිය
     .title = { -monitor-brand-name } උල්ලංඝන ඇඟවීම් සඳහා ලියාපදිංචි වන්න
 auto-scan = අද ස්වයංක්‍රීයව සුපිරික්සිණි

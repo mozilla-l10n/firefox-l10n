@@ -9,7 +9,7 @@
 ### but well-known robots in movies and books. Be creative with translations!
 
 # Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
-page-title = යකුනේ! තොපිට අමු කැවිලද!
+page-title = යකුනේ! තොපිට අමු කැවිලද?
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
 error-title-text = මිනිසුන් සාදරයෙන් පිළිගනිමු!
 # TV: Battlestar Galactica (2004 series). From the opening text.
