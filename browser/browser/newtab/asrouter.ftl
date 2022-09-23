@@ -182,5 +182,7 @@ firefoxview-cfr-body = තවද උපාංග අතර බාධාවකි
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = { -firefoxview-brand-name } අත්විඳින්න
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = දුරකථනයෙහි විවෘත පටිත්ත වුවමනාද? එය ඇහිඳින්න. ඔබ දැන් ගොඩවැදුණු අඩවිය වුවමනාද? ඔන්න, එය { -firefoxview-brand-name } සමඟ ලැබෙණු ඇත.
 firefoxview-spotlight-promo-primarybutton = එය වැඩ කරන අයුරු බලන්න
 firefoxview-spotlight-promo-secondarybutton = මඟහරින්න
