@@ -2,14 +2,30 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+graph-week-summary =
+    { $count ->
+        [one] { -brand-short-name } මගින් පසුගිය සතිය පුරා ලුහුබැඳීම් { $count } ක් අවහිර කර ඇත
+       *[other] { -brand-short-name } මගින් පසුගිය සතිය පුරා ලුහුබැඳීම් { $count } ක් අවහිර කර ඇත
+    }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } සිට ලුහුබැඳීම් <b>{ $count }</b> අවහිර කර ඇත
+       *[other] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } සිට ලුහුබැඳීම් <b>{ $count }</b> අවහිර කර ඇත
+    }
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = මෙම සතියේදී { -brand-short-name } අවහිර කළ ලුහුබැඳීම්
 protection-report-webpage-title = රැකවරණ උපකරණ පුවරුව
 protection-report-page-content-title = රැකවරණ උපකරණ පුවරුව
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
-protection-report-page-summary = ඔබ පිරික්සන අතරතුර { -brand-short-name } මගින් පසුබිමින් ඔබගේ පෞද්ගලිකත්‍වය ආරක්‍ෂා කළ හැකිය. මෙය ඔබගේ මාර්ගගත ආරක්‍ෂාව පාලනය කිරීමට මෙවලම් මෙන්ම, එම ආරක්‍ෂාවන් පුද්ගලීකරණය කළ සාරාංශයකි.
+protection-report-page-summary = ඔබ පිරික්සන අතරතුර { -brand-short-name } සඳහා පසුබිමින් ඔබගේ පෞද්ගලිකත්‍වය ආරක්‍ෂා කළ හැකිය. මෙය ඔබගේ මාර්ගගත ආරක්‍ෂාව පාලනය කිරීමට මෙවලම් මෙන්ම, එම රැකවරණ පුද්ගලීකරණය කළ සාරාංශයකි.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
-protection-report-page-summary-default = ඔබ පිරික්සන අතරතුර { -brand-short-name } මගින් පසුබිමින් ඔබගේ පෞද්ගලිකත්‍වය ආරක්‍ෂා කළ හැකිය. මෙය ඔබගේ මාර්ගගත ආරක්‍ෂාව පාලනය කිරීමට මෙවලම් මෙන්ම, එම ආරක්‍ෂාවන් පුද්ගලීකරණය කළ සාරාංශයකි.
+protection-report-page-summary-default = ඔබ පිරික්සන අතරතුර { -brand-short-name } සඳහා පසුබිමින් ඔබගේ පෞද්ගලිකත්‍වය ආරක්‍ෂා කළ හැකිය. මෙය ඔබගේ මාර්ගගත ආරක්‍ෂාව පාලනය කිරීමට මෙවලම් මෙන්ම, එම රැකවරණ පුද්ගලීකරණය කළ සාරාංශයකි.
 protection-report-settings-link = පෞද්ගලිකත්‍ව හා ආරක්‍ෂණ සැකසුම් කළමනාකරණය
 etp-card-title-always = දියුණුකළ ලුහුබැඳීමේ රැකවරණය: සැමවිට සක්‍රියයි
 etp-card-title-custom-not-blocking = දියුණුකළ ලුහුබැඳීමේ රැකවරණය: අක්‍රියයි
