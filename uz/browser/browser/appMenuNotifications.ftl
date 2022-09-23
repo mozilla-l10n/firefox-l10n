@@ -36,12 +36,16 @@ appmenu-update-other-instance =
     .buttonaccesskey = U
     .secondarybuttonlabel = Hozir emas
     .secondarybuttonaccesskey = N
-
 appmenu-addon-post-install-message3 = Ilova menyusi orqali qoʻshimcha va mavzularingizni boshqaring.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Bu kengaytmani Maxfiy oynalarda ishga tushishiga ruxsat berish
     .accesskey = r
-
+appmenu-new-tab-controlled-changes =
+    .label = Yangi varaq oʻzgardi
+    .buttonlabel = Oʻzgarishlarni saqlash
+    .buttonaccesskey = K
+    .secondarybuttonlabel = Yangi varaqlarni boshqarish
+    .secondarybuttonaccesskey = M
 appmenu-tab-hide-controlled =
     .label = Yashirin varaqlarga kirish
     .buttonlabel = Varaqlarni yashirish

@@ -338,6 +338,8 @@ popup-all-windows-shared = Ekraningizdagi barcha ko‘rinadigan oynalar bo‘lis
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = { -brand-short-name }ni ulashyapsiz. Boshqa odamlar yangi varaqqa oʻtganingizda koʻra olishadi.
+sharing-warning-screen = Toʻliq ekranni ulashyapsiz. Boshqa odamlar yangi varaqqa oʻtganingizda koʻra olishadi.
 
 ## DevTools F12 popup
 
