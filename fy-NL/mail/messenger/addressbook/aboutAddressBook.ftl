@@ -209,3 +209,7 @@ about-addressbook-photo-filepicker-title = Ofbyldingsbestân selektearje
 about-addressbook-photo-discard = Besteande foto fuortsmite
 about-addressbook-photo-cancel = Annulearje
 about-addressbook-photo-save = Bewarje
+
+# Keyboard shortcuts
+
+about-addressbook-new-contact-key = N
