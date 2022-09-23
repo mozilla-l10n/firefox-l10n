@@ -199,6 +199,7 @@ mr2022-background-update-toast-secondary-button-label = להזכיר לי מאו
 
 firefoxview-cfr-secondarybutton = לא כעת
     .accesskey = ל
+firefoxview-cfr-header = לקבל בחזרה לשוניות שנסגרו לאחרונה עם { -firefoxview-brand-name }
 
 ## Firefox View Spotlight
 
