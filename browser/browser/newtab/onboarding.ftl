@@ -302,6 +302,8 @@ mr2022-onboarding-existing-colorway-checkbox-label = להפוך את { -firefox-
 mr2022-onboarding-colorway-label-default = ברירת מחדל
 mr2022-onboarding-colorway-tooltip-default =
     .title = ברירת מחדל
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = הצבעים הנוכחיים של { -brand-short-name }
 mr2022-onboarding-colorway-description-default = <b>שימוש בצבעי { -brand-short-name } הנוכחיים שלי.</b>
 
 ## MR2022 Multistage Mobile Download screen strings
