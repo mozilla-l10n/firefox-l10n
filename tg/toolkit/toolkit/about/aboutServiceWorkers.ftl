@@ -22,6 +22,10 @@ origin-title = Манбаъ: { $originTitle }
 ##  $url: the url of script specification and current worker.
 
 scope = <strong>Соҳа:</strong> { $name }
+script-spec = <strong>Хусусияти скрипт:</strong> <a data-l10n-name="link">{ $url }</a>
+current-worker-url = <strong>Нишонии URL-и коргузори ҷорӣ:</strong> <a data-l10n-name="link">{ $url }</a>
+active-cache-name = <strong>Номи зерҳофизаи фаъол:</strong> { $name }
+waiting-cache-name = <strong>Номи зерҳофизаи интизорӣ:</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = Навсозӣ кардан
 unregister-button = Аз қайд гирифтан

@@ -72,6 +72,10 @@ about-processes-tab-name = Варақа: { $name }
 
 about-processes-utility-actor-unknown = Иштирокдори номаълум
 about-processes-utility-actor-audio-decoder = Рамзкушоии аудио
+about-processes-utility-actor-audio-decoder-generic = Рамзкушоии умумии аудио
+about-processes-utility-actor-audio-decoder-applemedia = Рамзкушоии аудиоии «Apple Media»
+about-processes-utility-actor-audio-decoder-wmf = Рамзкушоии аудиоии «Windows Media Framework»
+about-processes-utility-actor-mf-media-engine = Windows Media Foundation Media Engine CDM
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -82,6 +86,18 @@ about-processes-utility-actor-audio-decoder = Рамзкушоии аудио
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = Вақти умумии CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (андозагирӣ)
+# Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
+# This case only occurs on Windows where the precision of the CPU times is low.
+about-processes-cpu-almost-idle = < 0.1%
+    .title = Вақти умумии CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+# Special case: process or thread is currently idle.
+about-processes-cpu-fully-idle = ғайрифаъол
+    .title = Вақти умумии CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -94,6 +110,11 @@ about-processes-utility-actor-audio-decoder = Рамзкушоии аудио
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+    .title = Вусъатдиҳӣ: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
 ## Duration units
 
