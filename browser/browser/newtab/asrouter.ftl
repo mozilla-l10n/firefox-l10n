@@ -79,6 +79,13 @@ cfr-whatsnew-release-notes-link-text = නිකුතු සටහන් කි
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] { DATETIME($date, month: "long", year: "numeric") } සිට { -brand-short-name } මගින් ලුහුබැඳීම් <b>{ $blockedCount }</b> කට වඩා අවහිර කර ඇත!
+    }
 cfr-doorhanger-milestone-ok-button = සියල්ල බලන්න
     .accesskey = S
 cfr-doorhanger-milestone-close-button = වසන්න
