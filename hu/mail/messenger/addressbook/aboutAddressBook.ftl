@@ -209,3 +209,7 @@ about-addressbook-photo-filepicker-title = Válasszon egy képfájlt
 about-addressbook-photo-discard = Meglévő fénykép elvetése
 about-addressbook-photo-cancel = Mégse
 about-addressbook-photo-save = Mentés
+
+# Keyboard shortcuts
+
+about-addressbook-new-contact-key = N
