@@ -9,6 +9,7 @@ about-performance-title = කාර්ය කළමනාකරු
 
 column-name = නම
 column-type = වර්ගය:
+column-energy-impact = බලශක්ති බලපෑම
 column-memory = මතකය
 
 ## Special values for the Name column
@@ -30,7 +31,9 @@ type-other = වෙනත්
 ##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
 ##                     5.38 (medium), 105.38 (high)
 
+energy-impact-high = ඉහළ ({ $value })
 energy-impact-medium = මධ්‍යම ({ $value })
+energy-impact-low = අඩු ({ $value })
 
 ## Values for the Memory column
 ##
