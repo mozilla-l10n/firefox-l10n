@@ -342,18 +342,26 @@ mr2022-onboarding-colorway-description-expressionist = <b>Eres un Expresionista.
 mr2022-onboarding-colorway-label-visionary = Visionario
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Visionario
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = Visionario (verde)
 mr2022-onboarding-colorway-description-visionary = <b>Eres un Visionario.</b> Cuestiones el status quo y mueves a otros a imaginar un futuro mejor.
 mr2022-onboarding-colorway-label-activist = Activista
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Activista
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = Activista (azul)
 mr2022-onboarding-colorway-description-activist = <b>Eres un Activista.</b> Dejar el mundo como un lugar mejor de lo que encontraste y llevas a otros a creer.
 mr2022-onboarding-colorway-label-dreamer = Soñador
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Soñador
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = Soñador (púrpura)
 mr2022-onboarding-colorway-description-dreamer = <b>Eres un soñador.</b> Crees que la fortuna favorece a los audaces e inspiras a otros a ser valientes.
 mr2022-onboarding-colorway-label-innovator = Innovador
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Innovador
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Innovador (naranja)
 mr2022-onboarding-colorway-description-innovator = <b>Eres un Innovador.</b> Ves oportunidades donde sea y creas un impacto en las vidas de quienes te rodean.
 
 ## MR2022 Multistage Mobile Download screen strings
