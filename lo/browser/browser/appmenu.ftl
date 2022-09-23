@@ -78,10 +78,14 @@ whatsnew-panel-header = ມີ​ຫຍັງ​ໃຫມ່
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-title =
+    .value = { -profiler-brand-name }
 profiler-popup-learn-more-button =
     .label = ຮຽນຮູ້ເພີ່ມເຕີມ
 profiler-popup-settings =
     .value = ການຕັ້ງຄ່າ
+profiler-popup-capture-button =
+    .label = ບັນທຶກຮູບ
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
@@ -101,6 +105,8 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = ນັກພັດທະນາເວັບ
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-label =
@@ -110,9 +116,12 @@ profiler-popup-presets-media-label =
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = ພະລັງງານ
+profiler-popup-presets-custom-label =
+    .label = ປັບແຕ່ງ
 
 ## History panel
 
+appmenu-reopen-all-tabs = ເປີດແຖບທັງໝົດຄືນໃໝ່
 appmenu-recent-history-subheader = ປະຫວັດສາດທີ່ຜ່ານມາ
 appmenu-recently-closed-tabs =
     .label = ແທັບທີ່ຫາກໍ່ປິດໄປມື້ກີ້ນີ້

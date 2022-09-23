@@ -119,6 +119,12 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = ຕັ້ງເປັນເຄື່ອງມືການຊອກຫາເລີ່ມຕົ້ນ
     .accesskey = D
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName }({ $alias })
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -133,12 +139,15 @@ search-one-offs-add-engine-menu =
 
 
 ## QuickActions are shown in the urlbar as the user types a matching string
-
-
-## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+quickactions-cmd-clearhistory = ລົບລ້າງປະຫວັດການໃຊ້ງານ
+# Opens about:downloads page
+quickactions-downloads = ເປີດການດາວໂຫຼດ
+quickactions-cmd-downloads = ດາວໂຫລດ
+quickactions-cmd-extensions = ສ່ວນເສີມ
+quickactions-cmd-update = ອັບເດດ
 
 ## Bookmark Panel
 

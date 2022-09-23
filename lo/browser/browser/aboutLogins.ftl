@@ -172,6 +172,8 @@ about-logins-vulnerable-alert-learn-more-link = ຮຽນຮູ້ເພີ່�
 
 ## Error Messages
 
+# This is a generic error message.
+about-logins-error-message-default = ເກີດຄວາມຜິດພາດຂຶ້ນໃນຂະນະທີ່ພະຍາຍາມບັນທຶກລະຫັດຜ່ານນີ້.
 
 ## Login Export Dialog
 
@@ -234,6 +236,7 @@ about-logins-import-report-title = ສະຫຼຸບການນໍາເຂົ
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = ແຖວ { $number }
+about-logins-import-report-row-description-no-change = ຊໍ້າກັນ: ກົງກັນທຸກຢ່າງຂອງການເຂົ້າສູ່ລະບົບທີ່ມີຢູ່ແລ້ວ
 about-logins-import-report-row-description-modified = ອັບເດດການເຂົ້າສູ່ລະບົບທີ່ມີຢູ່ແລ້ວ
 about-logins-import-report-row-description-added = ເພີ່ມການເຂົ້າສູ່ລະບົບໃໝ່ແລ້ວ
 about-logins-import-report-row-description-error = ຜິດພາດ: ບໍ່ມີບາງຂໍ້ມູນ
