@@ -367,6 +367,8 @@ mr2022-onboarding-existing-colorway-checkbox-label = Utilizza { -firefox-home-br
 mr2022-onboarding-colorway-label-default = Predefinito
 mr2022-onboarding-colorway-tooltip-default =
   .title = Predefinito
+mr2022-onboarding-colorway-tooltip-default2 =
+  .title = Colori correnti di { -brand-short-name }
 mr2022-onboarding-colorway-description-default = <b>Continua a utilizzare i colori correnti di { -brand-short-name }.</b>
 
 mr2022-onboarding-colorway-label-playmaker = Regista
