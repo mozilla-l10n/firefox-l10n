@@ -28,8 +28,12 @@ about-processes-column-cpu-total = CPU
 about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-file-process = Файлҳо ({ $pid })
 about-processes-extension-process = Васеъшавиҳо ({ $pid })
+about-processes-plugin-process = Плагинҳо ({ $pid })
+about-processes-privilegedmozilla-process = Сомонаҳои { -vendor-short-name } ({ $pid })
+about-processes-gmp-plugin-process = Плагинҳои расонаи «Gecko» ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Рамзёбии маълумот ({ $pid })
 about-processes-socket-process = Шабака ({ $pid })
 # Unknown process names
 # Variables:
