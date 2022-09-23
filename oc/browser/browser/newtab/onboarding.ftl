@@ -267,6 +267,17 @@ mr2022-onboarding-secondary-skip-button-label = Passar aquesta etapa
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Descobrissètz un Internet de pas creire
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Gardar { -brand-short-name } al Dock
+       *[other] Penjar { -brand-short-name } a la barra de prètzfaches
+    }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Començatz per utilizar un navegador sostengut per una organizacion sens but lucratiu. Defendèm vòstra vida privada pendent que navegatz pel web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -275,6 +286,7 @@ mr2022-onboarding-existing-pin-header = Mercés d’apreciar { -brand-product-na
 
 ## MR2022 New User Set Default screen strings
 
+mr2022-onboarding-set-default-primary-button-label = Definir { -brand-short-name } coma navegador per defaut
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -283,6 +295,8 @@ mr2022-onboarding-existing-pin-header = Mercés d’apreciar { -brand-product-na
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Configuracion dins un ais
+mr2022-onboarding-import-subtitle = Configuratz { -brand-short-name } coma volètz. Ajustatz vòstres marcapaginas, senhals e encara mai a partir de vòstre ancian navegador.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importar d’un autre navegador
 
 ## If your language uses grammatical genders, in the description for the
@@ -319,10 +333,17 @@ mr2022-onboarding-colorway-tooltip-innovator =
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Passatz d’un ordenador portatiu a un mobil e invèrsament
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = La libertat d’una navegacion privada en un clic
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Gardar la navegacion privada de { -brand-short-name } al Dock
+       *[other] Penjar la navegacion privada de { -brand-short-name } a la barra de prètzfaches
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
@@ -332,5 +353,6 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostrar las info
 
 ## MR2022 Multistage Gratitude screen strings
 
-mr2022-onboarding-gratitude-primary-button-label = Descobrissètz las novetats
+mr2022-onboarding-gratitude-title = Nos ajudatz a crear un Web melhor
+mr2022-onboarding-gratitude-primary-button-label = Descobrir las novetats
 mr2022-onboarding-gratitude-secondary-button-label = Començar de navegar

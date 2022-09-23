@@ -22,12 +22,10 @@ about-private-browsing-not-private = Pel moment, sètz pas dins una fenèstra de
 about-private-browsing-info-description-private-window = Fenèstra privada : { -brand-short-name } escafa l’istoric de vòstras recèrcas e de vòstra navegacion a la tampadura de las fenèstras privada. Mas vos fa pas venir anonim.
 about-private-browsing-info-description-simplified = { -brand-short-name } escafa l’istoric de vòstras recèrcas e de vòstra navegacion a la tampadura de las fenèstras privada, mas vos fa pas venir anonim.
 about-private-browsing-learn-more-link = Ne saber mai
-
 about-private-browsing-hide-activity = Amagatz vòstras activitats e vòstres emplaçaments, pertot ont navigatz
 about-private-browsing-get-privacy = Protegissètz vòstra vida privada pertot ont navegatz
 about-private-browsing-hide-activity-1 = Amagatz vòstre navegacion e vòstre emplaçament amb { -mozilla-vpn-brand-name }. D’un simple clic, creatz una connexion securizada, amai sus un ret Wi-Fi public.
 about-private-browsing-prominent-cta = Demoratz privat amb { -mozilla-vpn-brand-name }
-
 about-private-browsing-focus-promo-cta = Telecargar { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name } : navegacion privada sul pic
 about-private-browsing-focus-promo-text = Nòstra aplicacion dedicada a la navegacion privada escafa l’istoric e los cookies aprèp cada utilizacion.
@@ -40,7 +38,6 @@ about-private-browsing-focus-promo-text-b =
     pas veire sus vòstre navegador mobil principal.
 about-private-browsing-focus-promo-header-c = Nivèl seguent de la confidencialitat sus mobil
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } escafa l’istoric a cada blocatge de reclamas e traçadors.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -53,6 +50,14 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Tampar
-
 about-private-browsing-promo-close-button =
     .title = Tampar
+
+## Strings used in a “pin promotion” message, which prompts users to pin a private window
+
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] Penjar al Dock
+       *[other] Penjar a la barra de prètzfaches
+    }
+about-private-browsing-pin-promo-title = Cap de cookies o d’istoric pas enregistrat. Navegatz sens vos sentir observat.
