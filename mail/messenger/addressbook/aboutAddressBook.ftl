@@ -209,3 +209,7 @@ about-addressbook-photo-filepicker-title = Bir resim dosyası seçin
 about-addressbook-photo-discard = Mevcut fotoğrafı sil
 about-addressbook-photo-cancel = Vazgeç
 about-addressbook-photo-save = Kaydet
+
+# Keyboard shortcuts
+
+about-addressbook-new-contact-key = N
