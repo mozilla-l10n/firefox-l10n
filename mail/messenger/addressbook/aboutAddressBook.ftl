@@ -209,3 +209,7 @@ about-addressbook-photo-filepicker-title = Välj en bildfil
 about-addressbook-photo-discard = Ignorera befintligt foto
 about-addressbook-photo-cancel = Avbryt
 about-addressbook-photo-save = Spara
+
+# Keyboard shortcuts
+
+about-addressbook-new-contact-key = N
