@@ -12,7 +12,7 @@ colorway-collection-independent-voices-short-description = Кольори, що 
 
 ## Colorway names and descriptions
 
-playmaker-colorway-name = Гра
+playmaker-colorway-name = Тактичність
 playmaker-colorway-description = Ви створюєте можливості для перемоги та допомагаєте всім навколо покращити їхню гру.
 expressionist-colorway-name = Експресіонізм
 expressionist-colorway-description = Ви бачите світ інакше, а ваші витвори викликають в інших емоції.
