@@ -84,6 +84,8 @@ profiler-popup-learn-more-button =
     .label = ຮຽນຮູ້ເພີ່ມເຕີມ
 profiler-popup-settings =
     .value = ການຕັ້ງຄ່າ
+profiler-popup-discard-button =
+    .label = ຖິ້ມ
 profiler-popup-capture-button =
     .label = ບັນທຶກຮູບ
 profiler-popup-start-shortcut =
@@ -113,6 +115,8 @@ profiler-popup-presets-graphics-label =
     .label = ກຣາບຟິກ
 profiler-popup-presets-media-label =
     .label = ສື່
+profiler-popup-presets-networking-label =
+    .label = ເຄືອຂ່າຍ
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = ພະລັງງານ
@@ -121,7 +125,10 @@ profiler-popup-presets-custom-label =
 
 ## History panel
 
+appmenu-manage-history =
+    .label = ຈັດການປະຫວັດ
 appmenu-reopen-all-tabs = ເປີດແຖບທັງໝົດຄືນໃໝ່
+appmenu-reopen-all-windows = ເປີດແຖບທັງໝົດຄືນໃໝ່
 appmenu-recent-history-subheader = ປະຫວັດສາດທີ່ຜ່ານມາ
 appmenu-recently-closed-tabs =
     .label = ແທັບທີ່ຫາກໍ່ປິດໄປມື້ກີ້ນີ້

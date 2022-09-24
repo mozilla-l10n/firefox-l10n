@@ -65,6 +65,7 @@ about-logins-list-section-week = 7 ມື້ກ່ອນ
 
 about-logins-login-intro-heading-logged-out2 = ຊອກຫາການເຂົ້າສູ່ລະບົບທີ່ບັນທຶກໄວ້ຂອງທ່ານບໍ? ເປີດການຊິງຄ໌ ຫຼືນໍາເຂົ້າ.
 about-logins-login-intro-heading-logged-in = ບໍ່ພົບການເຂົ້າສູ່ລະບົບທີ່ຊິ້ງ.
+login-intro-instructions-fxa-passwords-help = ເຂົ້າເບິ່ງ <a data-l10n-name="passwords-help-link">ຊ່ອຍເຫຼືອລະຫັດຜ່ານ</a> ສໍາລັບການຊ່ວຍເຫຼືອເພີ່ມເຕີມ.
 
 ## Login
 
