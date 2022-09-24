@@ -221,3 +221,7 @@ about-addressbook-photo-filepicker-title = Wobrazowu dataju wubrać
 about-addressbook-photo-discard = Eksistowace foto zaćisnyć
 about-addressbook-photo-cancel = Přetorhnyć
 about-addressbook-photo-save = Składować
+
+# Keyboard shortcuts
+
+about-addressbook-new-contact-key = N
