@@ -23,6 +23,8 @@ firefoxview-tabpickup-sync-error-primarybutton = మళ్ళీ ప్రయత
 firefoxview-closed-tabs-title = ఇటీవల మూసినవి
 firefoxview-closed-tabs-description = ఈ పరికరంలో మూసివేసిన పేజీలను మళ్ళీ తెరవండి.
 firefoxview-closed-tabs-description2 = ఈ కిటికీలో మూసివేసిన పేజీలను మళ్ళీ తెరవండి.
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = చివరిగా చూసింది
 firefoxview-collapse-button-show =
     .title = జాబితా చూపించు
 firefoxview-collapse-button-hide =
