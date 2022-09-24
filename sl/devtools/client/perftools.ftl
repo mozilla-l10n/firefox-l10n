@@ -77,6 +77,8 @@ perftools-thread-jvm-nimbus =
     .title = Glavne niti za SDK poskusov Nimbus
 perftools-thread-jvm-glean =
     .title = Glavne niti za SDK telemetrije Glean
+perftools-thread-jvm-pool =
+    .title = Niti, ustvarjene v neimenovanem bazenu niti
 
 ##
 

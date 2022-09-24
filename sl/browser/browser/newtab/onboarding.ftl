@@ -325,6 +325,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Uvozi iz prejšnj
 mr2022-onboarding-colorway-title = Izberite barvo, ki vas navdihuje
 mr2022-onboarding-colorway-subtitle = Neodvisni glasovi lahko spreminjajo kulturo.
 mr2022-onboarding-colorway-primary-button-label = Nastavi barvno kombinacijo
+mr2022-onboarding-colorway-primary-button-label-continue = Nastavi in nadaljuj
 mr2022-onboarding-existing-colorway-checkbox-label = Naj bo { -firefox-home-brand-name } vaša barvita domača stran
 mr2022-onboarding-colorway-label-default = Privzeta
 mr2022-onboarding-colorway-tooltip-default =
