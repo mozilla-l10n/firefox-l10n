@@ -12,8 +12,12 @@ csp-error-illegal-keyword = Дастури «{ $directive }» дорои кал�
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
-csp-error-illegal-protocol = Дастури «{ $directive }» дорои манбаи протоколи манъшуда «{ $scheme }:» мебошад
+csp-error-illegal-protocol = Дастури «{ $directive }» дорои манбаи манъшудаи протоколи «{ $scheme }:» мебошад
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
 csp-error-missing-host = Протоколи «{ $scheme }:» дар дастурҳои «{ $directive }» мизбонро талаб мекунад
+# Variables:
+#   $directive (String): the name of a CSP directive, such as "script-src".
+#   $source (String): the name of a CSP source, usually 'self'.
+csp-error-missing-source = «{ $directive }» бояд манбаи «{ $source }»-ро дар бар гирад
