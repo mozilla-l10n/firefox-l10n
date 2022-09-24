@@ -209,3 +209,7 @@ about-addressbook-photo-filepicker-title = Επιλογή αρχείου εικ�
 about-addressbook-photo-discard = Απόρριψη υπάρχουσας φωτογραφίας
 about-addressbook-photo-cancel = Ακύρωση
 about-addressbook-photo-save = Αποθήκευση
+
+# Keyboard shortcuts
+
+about-addressbook-new-contact-key = Ν
