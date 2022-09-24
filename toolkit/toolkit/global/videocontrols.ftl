@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Prikaži videoposnetek v ločen
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Več zaslonov, več zabave. Predvajajte ta videoposnetek v načinu slike v sliki, medtem ko brskate.
+videocontrols-picture-in-picture-explainer3 = Več zaslonov, več zabave. Predvajajte ta video, medtem ko počnete druge stvari.
 videocontrols-error-aborted = Nalaganje videa ustavljeno.
 videocontrols-error-network = Predvajanje videa prekinjeno zaradi napake omrežja.
 videocontrols-error-decode = Videa ni mogoče predvajati, ker je datoteka pokvarjena.

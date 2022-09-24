@@ -208,6 +208,16 @@ mr2022-background-update-toast-secondary-button-label = Opomni me kasneje
 
 ## Firefox View CFR
 
+firefoxview-cfr-primarybutton = Preizkusite ga
+    .accesskey = P
+firefoxview-cfr-secondarybutton = Ne zdaj
+    .accesskey = N
+firefoxview-cfr-header = Povrnite si nedavno zaprte zavihke s { -firefoxview-brand-name }
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Spoznajte { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Želite zavihek, ki ga imate odprtega na telefonu? Na dosegu roke. Potrebujete zavihek, ki ste ga pravkar zaprli? Čaka vas v { -firefoxview-brand-name }.
+firefoxview-spotlight-promo-primarybutton = Oglejte si, kako deluje
+firefoxview-spotlight-promo-secondarybutton = Preskoči

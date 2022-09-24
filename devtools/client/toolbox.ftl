@@ -40,3 +40,7 @@ toolbox-mode-parent-process-label = Samo nadrejeni proces
 toolbox-mode-parent-process-sub-label = (hitro)
 toolbox-mode-parent-process-container =
     .title = Osredotoči se samo na vire iz nadrejenega procesa.
+toolbox-always-on-top-enabled =
+    .title = Onemogoči možnost "vedno na vrhu" (razvojna orodja se bodo znova zagnala)
+toolbox-always-on-top-disabled =
+    .title = Omogoči možnost "vedno na vrhu" (razvojna orodja se bodo znova zagnala)
