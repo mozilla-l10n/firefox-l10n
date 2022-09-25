@@ -144,6 +144,12 @@ main-context-menu-edit-bookmark =
     .aria-label = Бетбелгіні түзету…
     .accesskey = г
     .tooltiptext = Бетбелгіні түзету
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = Бетбелгіні түзету…
+    .accesskey = б
+    .tooltiptext = Бетбелгіні түзету ({ $shortcut })
 main-context-menu-open-link =
     .label = Сілтемені ашу
     .accesskey = С
