@@ -206,3 +206,7 @@ about-addressbook-photo-filepicker-title = 選擇圖檔
 about-addressbook-photo-discard = 捨棄現有照片
 about-addressbook-photo-cancel = 取消
 about-addressbook-photo-save = 儲存
+
+# Keyboard shortcuts
+
+about-addressbook-new-contact-key = N
