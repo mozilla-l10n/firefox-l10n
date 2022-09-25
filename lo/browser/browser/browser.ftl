@@ -82,7 +82,10 @@ urlbar-addons-notification-anchor =
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = ບຸກມາກ
 urlbar-search-mode-tabs = ແທັບ
+urlbar-search-mode-history = ປະຫວັດ
+urlbar-search-mode-actions = ການກະທຳ
 
 ##
 

@@ -7,6 +7,7 @@
 ### feature.
 
 about-unloads-page-title = ການເລີກໂຫຼດແຖບ
+about-unloads-last-updated = ອັບເດດຫຼ້າສຸດ: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-column-priority = ຄວາມສຳຄັນ
 about-unloads-column-host = Host
 about-unloads-column-last-accessed = ເຂົ້າເຖິງຫຼ້າສຸດ
