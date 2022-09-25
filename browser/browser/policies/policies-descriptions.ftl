@@ -67,6 +67,7 @@ policy-Extensions = Кеңейтулерді орнату, өшіру немес
 policy-ExtensionSettings = Кеңейту орнатылуының барлық жақтарын басқару.
 policy-ExtensionUpdate = Кеңейтулерді автожаңартуды іске қосу немесе сөндіру.
 policy-FirefoxHome = Firefox үй парағын баптау.
+policy-FirefoxHome2 = { -firefox-home-brand-name } баптау.
 policy-FlashPlugin = Flash плагинін қолдануды рұқсат ету немесе бұғаттау.
 policy-Handlers = Үнсіз келісім бойынша қолданба өңдеушілерін баптау.
 policy-HardwareAcceleration = Мәні false болса, құрылғылық үдетуді сөндіру.

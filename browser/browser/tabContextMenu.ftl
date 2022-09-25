@@ -57,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Бетті бетбелгілерге қосу
     .accesskey = б
+tab-context-bookmark-tab =
+    .label = Бетті бетбелгілерге қосу…
+    .accesskey = Б
 tab-context-open-in-new-container-tab =
     .label = Жаңа контейнерлік бетте ашу
     .accesskey = е
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] Беттерді жылжыту
         }
     .accesskey = ы
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
