@@ -38,11 +38,11 @@ category-privacy =
 pane-sync-title3 = Ҳамоҳангсозӣ
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
-pane-experimental-title = Озмоишҳои { -brand-short-name }
+pane-experimental-title = Озмоишҳои «{ -brand-short-name }»
 category-experimental =
-    .tooltiptext = Озмоишҳои { -brand-short-name }
+    .tooltiptext = Озмоишҳои «{ -brand-short-name }»
 pane-experimental-subtitle = Бо эҳтиёт идома диҳед
-pane-experimental-search-results-header = Озмоишҳои { -brand-short-name }: Бо эҳтиёт идома диҳед
+pane-experimental-search-results-header = Озмоишҳои «{ -brand-short-name }»: Бо эҳтиёт идома диҳед
 pane-experimental-description2 = Тағйир додани хусусиятҳо танзимоти иловагӣ метавонад ба кор ё амнияти { -brand-short-name } таъсир расонад.
 pane-experimental-reset =
     .label = Барқарор кардани пешфарзҳо
@@ -285,7 +285,7 @@ download-always-ask-where =
     .label = Ҳамеша аз шумо пурсида мешавад, ки файлҳо дар куҷо нигоҳ дошта мешаванд
     .accesskey = Ҳ
 applications-header = Барномаҳо
-applications-description = Интихоб кунед, ки чӣ тавр браузери { -brand-short-name } файлҳоеро, ки шумо аз сомонаҳо боргирӣ мекунед коркард менамояд ё барномаҳоеро, ки шумо ҳангоми тамошокунӣ истифода мебаред ба кор медарорад.
+applications-description = Интихоб кунед, ки чӣ тавр браузери «{ -brand-short-name }» файлҳоеро, ки шумо аз сомонаҳо боргирӣ мекунед коркард менамояд ё барномаҳоеро, ки шумо ҳангоми тамошокунӣ истифода мебаред ба кор медарорад.
 applications-filter =
     .placeholder = Ҷустуҷӯи навъи файлҳо ё барномаҳо
 applications-type-column =
@@ -879,7 +879,7 @@ sitedata-total-size-calculating = Ҳисобкунии ҳаҷми маълумо
 sitedata-total-size = Айни замон кукиҳои нигоҳдошташуда, маълумоти сомона ва зерҳофиза { $value } { $unit } фазои дискро истифода мебаранд.
 sitedata-learn-more = Маълумоти бештар
 sitedata-delete-on-close =
-    .label = Нест кардани кукиҳо ва маълумоти сомона ҳангоми пӯшидани браузери { -brand-short-name }
+    .label = Нест кардани кукиҳо ва маълумоти сомона ҳангоми пӯшидани браузери «{ -brand-short-name }»
     .accesskey = Н
 sitedata-delete-on-close-private-browsing = Дар реҷаи тамошокунии хусусии доимӣ, кукиҳо ва маълумоти сомона ҳангоми пӯшидани { -brand-short-name } ҳамеша пок карда мешаванд.
 sitedata-allow-cookies-option =
@@ -1085,19 +1085,19 @@ collection-privacy-notice = Огоҳиномаи махфият
 collection-health-report-telemetry-disabled = Шумо дигар ба { -vendor-short-name } барои ҷамъ кардани маълумоти техникӣ ва якҷояамалкунӣ иҷозат намедиҳед. Ҳамаи маълумот дар ҳудуди 30 рӯзи охир нест карда мешавад.
 collection-health-report-telemetry-disabled-link = Маълумоти бештар
 collection-health-report =
-    .label = Иҷозат додан ба { -brand-short-name } барои фиристодани маълумоти техникӣ ва якҷояамалкунӣ ба { -vendor-short-name }
+    .label = Иҷозат додан ба «{ -brand-short-name }» барои фиристодани маълумоти техникӣ ва якҷояамалкунӣ ба «{ -vendor-short-name }»
     .accesskey = r
 collection-health-report-link = Маълумоти бештар
 collection-studies =
-    .label = Иҷозат додан ба { -brand-short-name } барои насб ва иҷро кардани таҳқиқот
-collection-studies-link = Дидани таҳқиқоти { -brand-short-name }
+    .label = Иҷозат додан ба «{ -brand-short-name }» барои насб ва иҷро кардани таҳқиқот
+collection-studies-link = Дидани таҳқиқоти «{ -brand-short-name }»
 addon-recommendations =
-    .label = Иҷозат додан ба { -brand-short-name } барои пешниҳод кардани тавсияҳои шахсӣ оид ба васеъшавиҳо
+    .label = Иҷозат додан ба «{ -brand-short-name }» барои пешниҳод кардани тавсияҳои шахсӣ оид ба васеъшавиҳо
 addon-recommendations-link = Маълумоти бештар
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Гузоришдиҳии маълумот барои ин танзими сохт ғайрифаъол карда шуд
-collection-backlogged-crash-reports-with-link = Иҷозат додан ба { -brand-short-name } барои фиристодани аз номи шумо гузоришҳо бо сабтҳои вайроншавӣ ва корҳои иҷронашуда <a data-l10n-name="crash-reports-link">Маълумоти бештар</a>
+collection-backlogged-crash-reports-with-link = Иҷозат додан ба «{ -brand-short-name }» барои фиристодани аз номи шумо гузоришҳо бо сабтҳои вайроншавӣ ва корҳои иҷронашуда <a data-l10n-name="crash-reports-link">Маълумоти бештар</a>
     .accesskey = И
 privacy-segmentation-section-header = Хусусиятҳои нав, ки таҷрибаи тамошокунии шуморо беҳтар мекунанд
 privacy-segmentation-section-description = Вақте ки мо хусусиятҳоеро пешниҳод мекунем, ки барои таъмини таҷрибаи хусусии беҳтар аз маълумоти шумо истифода мебаранд:
@@ -1145,7 +1145,7 @@ space-alert-under-5gb-message2 = <strong>Фазои диски { -brand-short-na
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Реҷаи «Танҳо HTTPS»
-httpsonly-description = HTTPS байни { -brand-short-name } ва сомонаҳое, ки шумо истифода мебаред, пайвастшавии бехатар ва рамзгузоришударо таъмин менамояд. Бисёр сомонаҳо HTTPS-ро дастгирӣ менамоянд, ва агар Реҷаи «Танҳо HTTPS» фаъол шуда бошад, он гоҳ браузери { -brand-short-name } ҳамаи пайвастҳоро ба HTTPS такмил медиҳад.
+httpsonly-description = HTTPS байни «{ -brand-short-name }» ва сомонаҳое, ки шумо истифода мебаред, пайвастшавии бехатар ва рамзгузоришударо таъмин менамояд. Бисёр сомонаҳо HTTPS-ро дастгирӣ менамоянд, ва агар Реҷаи «Танҳо HTTPS» фаъол шуда бошад, он гоҳ браузери «{ -brand-short-name }» ҳамаи пайвастҳоро ба HTTPS такмил медиҳад.
 httpsonly-learn-more = Маълумоти бештар
 httpsonly-radio-enabled =
     .label = Фаъол кардани реҷаи «Танҳо HTTPS» дар ҳамаи равзанаҳо
