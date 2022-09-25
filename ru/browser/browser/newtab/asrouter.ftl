@@ -210,9 +210,12 @@ firefoxview-cfr-primarybutton = Попробовать его
 firefoxview-cfr-secondarybutton = Не сейчас
     .accesskey = е
 firefoxview-cfr-header = Верните недавно закрытые вкладки с помощью { -firefoxview-brand-name }
+firefoxview-cfr-body = Кроме того, вы можете легко переключаться между устройствами и добавить ярких красок в свой браузер.
 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Поздоровайтесь с { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Хотите вкладку открытую на своем телефоне? Возьмите её. Нужен сайт, который вы только что посетили? Пуф, и он вернулся через { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Посмотреть, как это работает
 firefoxview-spotlight-promo-secondarybutton = Пропустить
