@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Илова кардани барчаспҳо
-
 pocket-panel-saved-error-generic = Ҳангоми кӯшиши нигоҳдорӣ ба «{ -pocket-brand-name }» хато ба миён омад.
 pocket-panel-saved-error-tag-length = Дарози барчаспҳо бояд на зиёда аз 25 аломат бошад
 pocket-panel-saved-error-only-links = Танҳо пайвандҳо метавонанд нигоҳ дошта шаванд
@@ -30,7 +29,6 @@ pocket-panel-saved-saving-tags = Нигаҳдорӣ…
 pocket-panel-saved-suggested-tags = Барчаспҳои пешниҳодшуда
 pocket-panel-saved-tags-saved = Барчаспҳо илова карда шуданд
 pocket-panel-signup-view-list = Намоиш додани рӯйхат
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Илова кардани барчаспҳо:
 
@@ -43,9 +41,8 @@ pocket-panel-signup-signup-email = Ба воситаи почтаи электр
 pocket-panel-signup-signup-cta = Дар «{ -pocket-brand-name }» обуна шавед. Ройгон аст.
 pocket-panel-signup-signup-firefox = Ба воситаи «{ -brand-product-name }» обуна шавед
 pocket-panel-signup-tagline = Мақолаҳо ва видеоҳоро аз «{ -brand-product-name }» нигоҳ доред, то ки тавонед онҳоро дар «{ -pocket-brand-name }» аз дастгоҳи дилхоҳ, ҳар вақт ки бошад, тамошо кунед.
-pocket-panel-signup-tagline-story-one = Барои нигоҳ доштани ягон мақола, видео ё саҳифа аз браузери { -brand-product-name }, тугмаи «{ -pocket-brand-name }»-ро зер кунед.
+pocket-panel-signup-tagline-story-one = Барои нигоҳ доштани ягон мақола, видео ё саҳифа аз браузери «{ -brand-product-name }», тугмаи «{ -pocket-brand-name }»-ро зер кунед.
 pocket-panel-signup-tagline-story-two = Дар «{ -pocket-brand-name }» аз дастгоҳи дилхоҳ, ҳар вақт ки бошад, тамошо кунед.
-
 pocket-panel-signup-cta-a-fix = Тугмаи нигоҳдории маводи шумо дар Интернет
 pocket-panel-signup-cta-b = Барои нигоҳ доштани мақолаҳо, видеоҳо ва пайвандҳо, тугмаи «{ -pocket-brand-name }»-ро зер кунед. Рӯйхати маводи худро дар дастгоҳи дилхоҳ, ҳар вақт ки бошад, аз назар гузаронед.
 pocket-panel-signup-cta-b-short = Барои нигоҳ доштани мақолаҳо, видеоҳо ва пайвандҳо, тугмаи «{ -pocket-brand-name }»-ро зер кунед.
@@ -59,7 +56,6 @@ pocket-panel-home-paragraph = Шумо метавонед барои омӯхт�
 pocket-panel-home-explore-popular-topics = Омӯзиши мавзуъҳои маъмул
 pocket-panel-home-discover-more = Бештар омӯзед
 pocket-panel-home-explore-more = Омӯхтан
-
 pocket-panel-home-most-recent-saves = Маводи охирини шумо дар ин ҷо дастрас аст:
 pocket-panel-home-most-recent-saves-loading = Дар ҳоли боркунии маводҳои охирин…
 pocket-panel-home-new-user-cta = Барои нигоҳ доштани мақолаҳо, видеоҳо ва пайвандҳо, тугмаи «{ -pocket-brand-name }»-ро зер кунед.

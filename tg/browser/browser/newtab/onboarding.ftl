@@ -80,8 +80,8 @@ mr1-onboarding-pin-primary-button-label =
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Оғози кор
 mr1-onboarding-welcome-header = Хуш омадед ба «{ -brand-short-name }»
-mr1-onboarding-set-default-pin-primary-button-label = Таъин кардани { -brand-short-name } ҳамчун браузери асосии ман
-    .title = { -brand-short-name }-ро ҳамчун браузери асосӣ таъин мекунад ва ба навори вазифа мегузорад
+mr1-onboarding-set-default-pin-primary-button-label = Таъин кардани «{ -brand-short-name }» ҳамчун браузери асосии ман
+    .title = «{ -brand-short-name }»-ро ҳамчун браузери асосӣ таъин мекунад ва ба навори вазифа мегузорад
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Таъин кардани { -brand-short-name } ҳамчун браузери пешфарзи ман
@@ -91,7 +91,7 @@ mr1-onboarding-sign-in-button-label = Ворид шудан
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-header = Браузери { -brand-short-name }-ро ҳамчун браузери пешфарз таъин кунед
+mr1-onboarding-default-header = Браузери «{ -brand-short-name }»-ро ҳамчун браузери пешфарз таъин кунед
 mr1-onboarding-default-subtitle = Суръати баланд, бехатарӣ ва махфият ба идоракунии худкор вогузоред.
 mr1-onboarding-default-primary-button-label = Гузоштан ҳамчун браузери пешфарз
 
@@ -202,7 +202,7 @@ mr2-onboarding-default-theme-label = Мавзуъҳои пешфарзро оз�
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = Ташаккур барои интихоби мо
-mr2-onboarding-thank-you-text = { -brand-short-name } браузери мустақил аст, ки аз ҷониби ташкилоти ғайритиҷоратӣ дастгирӣ карда мешавад. Якҷоя, мо Интернетро бехатартар, солимтар ва бо хусусияти бештар мегардонем.
+mr2-onboarding-thank-you-text = «{ -brand-short-name }» браузери мустақил аст, ки аз ҷониби ташкилоти ғайритиҷоратӣ дастгирӣ карда мешавад. Якҷоя, мо Интернетро бехатартар, солимтар ва бо хусусияти бештар мегардонем.
 mr2-onboarding-start-browsing-button-label = Оғоз кардани тамошо
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)
