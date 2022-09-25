@@ -9,3 +9,8 @@ callout-primary-complete-button-label = Түсіндім!
 
 ## Firefox View feature tour strings
 
+callout-firefox-view-colorways-title = Түстер шашырауын қосыңыз
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Бастау
