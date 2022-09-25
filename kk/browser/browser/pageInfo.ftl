@@ -4,22 +4,18 @@
 
 page-info-window =
     .style = width: 620px; min-height: 600px;
-
 copy =
     .key = C
 menu-copy =
     .label = Көшіріп алу
     .accesskey = К
-
 select-all =
     .key = A
 menu-select-all =
     .label = Барлығын ерекшелеу
     .accesskey = Б
-
 close-dialog =
     .key = w
-
 general-tab =
     .label = Жалпы
     .accesskey = Ж
@@ -43,7 +39,6 @@ general-meta-name =
     .label = Аты
 general-meta-content =
     .label = Құрамасы
-
 media-tab =
     .label = Мультимедиа
     .accesskey = М
@@ -65,19 +60,20 @@ media-dimension =
     .value = Өлшемдер:
 media-long-desc =
     .value = Толық сипаттамасы:
+media-select-all =
+    .label = Барлығын таңдау
+    .accesskey = ы
 media-save-as =
     .label = Қалайша сақтау…
     .accesskey = с
 media-save-image-as =
     .label = Қалайша сақтау…
     .accesskey = а
-
 perm-tab =
     .label = Рұқсаттар
     .accesskey = Р
 permissions-for =
     .value = Келесі үшін рұқсаттар:
-
 security-tab =
     .label = Қауіпсіздік
     .accesskey = а
@@ -98,22 +94,17 @@ security-view-identity-validity =
     .value = Мерзімі аяқталады:
 security-view-privacy =
     .value = Жекелік және тарих
-
 security-view-privacy-history-value = Бұл сайтта бүгінге дейін болдым ба?
 security-view-privacy-sitedata-value = Бұл сайт компьютерімде ақпаратты сақтап отыр ма?
-
 security-view-privacy-clearsitedata =
     .label = Cookies файлдары және сайт деректерін тазарту
     .accesskey = з
-
 security-view-privacy-passwords-value = Осы веб-сайт үшін парольдерімді сақтадым ба?
-
 security-view-privacy-viewpasswords =
     .label = Сақталып тұрған парольдерді қарау
     .accesskey = т
 security-view-technical =
     .value = Техникалық ақпарат
-
 help-button =
     .label = Көмек
 
@@ -125,7 +116,6 @@ help-button =
 
 security-site-data-cookies = Иә, cookies файлдары және { $value } { $unit } сайт деректері
 security-site-data-only = Иә, { $value } { $unit } сайт деректері
-
 security-site-data-cookies-only = Иә, cookies файлдары
 security-site-data-no = Жоқ
 
@@ -149,7 +139,6 @@ media-video = Видео
 media-audio = Аудио
 saved-passwords-yes = Иә
 saved-passwords-no = Жоқ
-
 no-page-title =
     .value = Атаусыз парақ:
 general-quirks-mode =
@@ -164,7 +153,6 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Негізгісін қолдану
 security-no-visits = Жоқ
-
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -174,7 +162,6 @@ general-meta-tags =
         { $tags ->
            *[other] Мета ({ $tags } тег)
         }
-
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -184,7 +171,6 @@ security-visits-number =
         [0] Жоқ
        *[other] Yes, { $visits } рет
     }
-
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -194,7 +180,6 @@ properties-general-size =
         { $bytes ->
            *[other] { $kb } КБ ({ $bytes } байт)
         }
-
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -205,14 +190,12 @@ media-animated-image-type =
         { $frames ->
            *[other] { $type } Сурет (анимацияланған, { $frames } кадр)
         }
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } суреті
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -222,20 +205,17 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px ({ $scaledx }px × { $scaledy }px масштабында)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } Кб
-
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -243,7 +223,6 @@ media-file-size = { $size } Кб
 media-block-image =
     .label = { $website } адресінен суреттерді блоктау
     .accesskey = б
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
