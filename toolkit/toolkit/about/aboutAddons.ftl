@@ -24,9 +24,9 @@ list-empty-button =
 help-button = Podpora pre doplnky
 sidebar-help-button-title =
     .title = Podpora pre doplnky
-addons-settings-button = Nastavenia { -brand-short-name }u
+addons-settings-button = Nastavenia { -brand-short-name(case: "gen") }
 sidebar-settings-button-title =
-    .title = Nastavenia { -brand-short-name }u
+    .title = Nastavenia { -brand-short-name(case: "gen") }
 show-unsigned-extensions-button =
     .label = Niektoré rozšírenia nemohli byť overené
 show-all-extensions-button =
@@ -254,7 +254,7 @@ created-by-author = Autor: <a data-l10n-name="author">{ $author }</a>
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
 user-count = Počet používateľov: { $dailyUsers }
-install-extension-button = Pridať do { -brand-product-name }u
+install-extension-button = Pridať do { -brand-product-name(case: "gen") }
 install-theme-button = Nainštalovať tému vzhľadu
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
