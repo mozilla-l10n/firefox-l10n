@@ -7,6 +7,7 @@
 ### feature.
 
 about-unloads-last-updated = చివరి తాజాకరణ:  { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-no-unloadable-tab = అన్లోడ్ చేయదగ్గ ట్యాబులేమీ లేవు.
 about-unloads-column-priority = ప్రాధాన్యత
 about-unloads-column-host = ఆతిథేయి
 about-unloads-column-last-accessed = చివరిగా చూసినది
