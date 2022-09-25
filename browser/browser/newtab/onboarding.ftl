@@ -289,7 +289,7 @@ mr2022-onboarding-existing-pin-subtitle = Spustite zdravší internet odkiaľko�
 # Subtitle will be used on the welcome screen for existing users
 # when they already have Firefox pinned but not set as default
 mr2022-onboarding-existing-set-default-only-subtitle = Používajte prehliadač, ktorý chráni vaše súkromie, keď sa pohybujete po webe. Naša najnovšia aktualizácia je plná vecí, ktoré zbožňujete.
-mr2022-onboarding-existing-pin-checkbox-label = Pridajte si aj Súkromné prehliadanie { -brand-short-name(case: "gen") }
+mr2022-onboarding-existing-pin-checkbox-label = Pridať aj Súkromné prehliadanie { -brand-short-name(case: "gen") }
 
 ## MR2022 New User Set Default screen strings
 
