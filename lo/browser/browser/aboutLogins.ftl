@@ -73,6 +73,7 @@ login-item-new-login-title = ສ້າງການລັອກອິນໃຫມ
 login-item-edit-button = ແກ້ໄຂ
 about-logins-login-item-remove-button = ລຶບ
 login-item-origin-label = ທີ່ຢູ່ເວັບໄຊທ໌
+login-item-tooltip-message = ໃຫ້ແນ່ໃຈວ່ານີ້ກົງກັບທີ່ຢູ່ທີ່ແນ່ນອນຂອງເວັບໄຊທ໌ທີ່ທ່ານເຂົ້າສູ່ລະບົບ.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ຊື່ຜູ້ໃຊ້
