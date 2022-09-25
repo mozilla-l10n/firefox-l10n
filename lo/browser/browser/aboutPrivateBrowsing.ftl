@@ -27,6 +27,7 @@ about-private-browsing-focus-promo-cta = ດາວໂຫລດ { -focus-brand-na
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = ທ່ອງເວັບແບບສ່ວນຕົວເທິງໂທລະສັບຂອງທ່ານ
 about-private-browsing-focus-promo-header-c = ຄວາມເປັນສ່ວນຕົວລະດັບຕໍ່ໄປໃນມືຖື
 about-private-browsing-search-banner-close-button =
     .aria-label = ປິດ
