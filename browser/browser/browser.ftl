@@ -77,6 +77,7 @@ browser-main-window-mac-window-titles =
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
 private-browsing-shortcut-text = { -brand-short-name } жекелік шолу режимі
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } жекелік шолу режимі
 
 ##
 
@@ -267,9 +268,6 @@ search-one-offs-actions =
     .tooltiptext = Әрекеттер ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
-
-
-## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
@@ -325,6 +323,9 @@ quickactions-cmd-update = жаңарту
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Бастапқы кодын қарау
 quickactions-cmd-viewsource = бастапқы кодын қарау, бастапқы код
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Жылдам әрекеттер туралы көбірек біліңіз
 
 ## Bookmark Panel
 

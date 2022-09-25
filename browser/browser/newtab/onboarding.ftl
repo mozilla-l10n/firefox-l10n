@@ -226,6 +226,8 @@ onboarding-live-language-header = Өз тіліңізді таңдаңыз
 onboarding-live-language-button-label-downloading = { $negotiatedLanguage } тілдік дестесі жүктеліп алынуда…
 onboarding-live-language-waiting-button = Қолжетімді тілдер алынуда…
 onboarding-live-language-installing = { $negotiatedLanguage } тілдік дестесі орнатылуда…
+mr2022-onboarding-live-language-switch-to = { $negotiatedLanguage } тіліне ауысу
+mr2022-onboarding-live-language-continue-in = { $appLanguage } тілінде жалғастыру
 onboarding-live-language-secondary-cancel-download = Бас тарту
 onboarding-live-language-skip-button-label = Аттап кету
 
@@ -253,9 +255,15 @@ fx100-upgrade-thanks-header = 100 рахмет
 fx100-upgrade-thank-you-body = Бұл - біздің 100-ші { -brand-short-name } шығарылымымыз. Жақсырақ, сау интернет құруға көмектескеніңіз үшін <em>сізге</em> рахмет.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Бұл біздің 100-ші шығарылымымыз! Біздің қауымдастықтың бір бөлігі болғаныңыз үшін рахмет. Келесі 100 шығарылым үшін { -brand-short-name } жақын ұстаңыз.
+mr2022-onboarding-secondary-skip-button-label = Бұл қадамды аттап кету
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Ғажайып интернетті ашыңыз
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -267,15 +275,22 @@ fx100-upgrade-thanks-keep-body = Бұл біздің 100-ші шығарылым
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = Бірнеше секундта баптау
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Найзағайдай жылдам баптау
+mr2022-onboarding-import-primary-button-label-no-attribution = Бұрынғы браузерден импорттау
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Сізге шабыт беретін түсті таңдаңыз
+mr2022-onboarding-colorway-subtitle = Тәуелсіз дауыстар мәдениетті өзгерте алады.
+mr2022-onboarding-colorway-primary-button-label = Түстер схемасын орнату
+mr2022-onboarding-colorway-primary-button-label-continue = Орнатып, жалғастыру
 mr2022-onboarding-colorway-label-default = Бастапқы
 mr2022-onboarding-colorway-tooltip-default =
     .title = Бастапқы
@@ -310,3 +325,5 @@ mr2022-onboarding-colorway-tooltip-innovator =
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-primary-button-label = Жаңалықтарын біліңіз
+mr2022-onboarding-gratitude-secondary-button-label = Шолуды бастау

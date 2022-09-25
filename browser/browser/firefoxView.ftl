@@ -38,12 +38,21 @@ firefoxview-tabpickup-network-offline-header = Интернет байланыс
 firefoxview-tabpickup-network-offline-description = Брандмауэр немесе прокси қолданып жатсаңыз, { -brand-short-name } интернетке кіруге рұқсаты бар екенін тексеріңіз.
 firefoxview-tabpickup-network-offline-primarybutton = Қайтадан көру
 firefoxview-tabpickup-sync-error-header = Синхрондауда қиындықтар туындап жатыр
+firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } дәл қазір синхрондау қызметіне қол жеткізе алмайды. Бірнеше минуттан кейін әрекетті қайталаңыз.
 firefoxview-tabpickup-sync-error-primarybutton = Қайтадан көру
+firefoxview-tabpickup-sync-disconnected-header = Жалғастыру үшін синхрондауды іске қосыңыз
 firefoxview-tabpickup-syncing = Беттер синхрондалғанын күте тұрыңыз. Бұл жылдам болады.
 firefoxview-mobile-promo-header = Телефоннан немесе планшеттен беттерді алыңыз
 firefoxview-mobile-confirmation-header = 🎉 Ал, кеттік!
+firefoxview-closed-tabs-title = Жақында жабылған
+firefoxview-closed-tabs-description = Осы құрылғыда жабылған беттерді қайта ашыңыз.
+firefoxview-closed-tabs-description2 = Осы терезеде жабылған беттерді қайта ашыңыз.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Соңғы белсенді
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-collapse-button-show =
     .title = Тізімді көрсету
 firefoxview-collapse-button-hide =

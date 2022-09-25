@@ -38,11 +38,9 @@ menu-quit =
             [windows] ы
            *[other] Ш
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } жұмысын аяқтау
-
 menu-about =
     .label = { -brand-shorter-name } туралы
     .accesskey = а
@@ -224,6 +222,10 @@ menu-bookmark-current-tab =
     .label = Ағымдағы бетті бетбелгілерге қосу
 menu-bookmark-edit =
     .label = Бетбелгіні түзету
+menu-bookmark-tab =
+    .label = Ағымдағы бетті бетбелгілерге қосу…
+menu-edit-bookmark =
+    .label = Бұл бетбелгіні түзету…
 menu-bookmarks-all-tabs =
     .label = Барлық беттерді бетбелгілерге қосу…
 menu-bookmarks-toolbar =
