@@ -53,3 +53,6 @@ about-telemetry-values-header = Қимат
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Сабти дер #{ $lateWriteCount }
 about-telemetry-memory-map-title = Харитаи ҳофиза:
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = Раванди { $process }

@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+third-party-page-title = Маълумот дар бораи модулҳои тарафҳои сеюм
+third-party-section-title = Рӯйхати модулҳои тарафҳои сеюм дар { -brand-short-name }
 third-party-detail-version = Силсилаи файл
 third-party-detail-app = Барнома
 third-party-detail-publisher = Ношир
