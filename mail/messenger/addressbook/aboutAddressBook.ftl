@@ -233,3 +233,7 @@ about-addressbook-photo-filepicker-title = Dewiswch ffeil delwedd
 about-addressbook-photo-discard = Dileu'r llun presennol
 about-addressbook-photo-cancel = Diddymu
 about-addressbook-photo-save = Cadw
+
+# Keyboard shortcuts
+
+about-addressbook-new-contact-key = N
