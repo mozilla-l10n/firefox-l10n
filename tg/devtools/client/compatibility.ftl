@@ -28,5 +28,22 @@ compatibility-target-browsers-header = Браузерҳои мақсаднок
 
 ##
 
+# Text used as the label for the number of nodes where the issue occurred
+# Variables:
+#   $number (Number) - The number of nodes where the issue occurred
+compatibility-issue-occurrences =
+    { $number ->
+        [one] { $number } масъала
+       *[other] { $number } масъала
+    }
+compatibility-no-issues-found = Ягон мушкилии мувофиқат ёфт нашуд.
 compatibility-close-settings-button =
     .title = Пӯшидани танзимот
+# Text used in the element containing the browser icons for a given compatibility issue.
+# Line breaks are significant.
+# Variables:
+#   $browsers (String) - A line-separated list of browser information (e.g. Firefox 98\nChrome 99).
+compatibility-issue-browsers-list =
+    .title =
+        Мушкилоти мувофиқат дар:
+        { $browsers }
