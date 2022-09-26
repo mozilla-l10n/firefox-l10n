@@ -8,6 +8,8 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = Абзорҳои барномарезии пешфарз
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = Тугмаҳои қуттии абзорҳои дастрас
@@ -23,6 +25,7 @@ options-show-user-agent-styles-label = Намоиш додани услубҳо�
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = Воҳиди танзими ранг ба сурати пешфарз
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
@@ -52,3 +55,5 @@ options-context-advanced-settings = Танзимоти иловагӣ
 options-disable-http-cache-label = Ғайрифаъол кардани зерҳофизаи HTTP (вақте ки қуттии абзорҳо кушода аст)
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Ғайрифаъол кардани JavaScript *
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = Фаъол кардани харитаҳои манбаъ
