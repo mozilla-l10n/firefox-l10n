@@ -85,6 +85,12 @@ profiler-popup-learn-more-button =
     .label = ຮຽນຮູ້ເພີ່ມເຕີມ
 profiler-popup-settings =
     .value = ການຕັ້ງຄ່າ
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = ແກ້ໄຂການຕັ້ງຄ່າ...
+profiler-popup-recording-screen = ກຳລັງບັນທຶກ...
+profiler-popup-start-recording-button =
+    .label = ເລີ່ມການບັນທຶກ
 profiler-popup-discard-button =
     .label = ຖິ້ມ
 profiler-popup-capture-button =

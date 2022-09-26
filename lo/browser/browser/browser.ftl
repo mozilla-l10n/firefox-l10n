@@ -102,6 +102,11 @@ urlbar-star-add-bookmark =
 
 page-action-manage-extension =
     .label = ຈັດການສ່ວນຂະຫຍາຍ…
+page-action-remove-extension =
+    .label = ເອົາສ່ວນຂະຫຍາຍອອກ
+page-action-manage-extension2 =
+    .label = ຈັດການສ່ວນຂະຫຍາຍ...
+    .accesskey = E
 
 ## Auto-hide Context Menu
 
@@ -150,6 +155,12 @@ quickactions-cmd-clearhistory = ລົບລ້າງປະຫວັດການ
 quickactions-downloads = ເປີດການດາວໂຫຼດ
 quickactions-cmd-downloads = ດາວໂຫລດ
 quickactions-cmd-extensions = ສ່ວນເສີມ
+# Opens the print dialog
+quickactions-print = ພິມ
+quickactions-cmd-print = ພິມ
+quickactions-cmd-refresh = ໂຫຼດຄືນໃໝ່
+# Restarts the browser
+quickactions-restart = ເລີ່ມເຮັດວຽກ { -brand-short-name } ໃຫມ່
 quickactions-cmd-update = ອັບເດດ
 
 ## Bookmark Panel
@@ -162,6 +173,8 @@ bookmark-panel-cancel =
 bookmark-panel-remove =
     .label = ລຶບ { $count } ບຸກມາກ
     .accesskey = R
+bookmark-panel-save-button =
+    .label = ບັນທຶກ
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -173,6 +186,7 @@ bookmark-panel =
 identity-connection-internal = ນີ້ເປັນຫນ້າ { -brand-short-name } ທີ່ປອດໄພ.
 identity-passive-loaded = ເນື້ອຫາບາງສ່ວນໃນຫນ້ານີ້ບໍ່ມີຄວາມປອດໄພ (ເຊັ່ນວ່າຮູບພາບ)
 identity-insecure-login-forms = ການປ້ອນຂໍ້ມູນການລັອກອິນທີ່ໃສ່ໄວ້ເທິງຫນ້ານີ້ອາດຈະຖືກບຸກລຸກໄດ້.
+identity-https-only-label = ໂໝດ HTTPS ເທົ່ານັ້ນ
 identity-permissions-reload-hint = ທ່ານອາດຕ້ອງໂຫລດຫນ້າຄືນໃຫມ່ເພື່ອໃຫ້ການປ່ຽນແປງມີຜົນ.
 identity-clear-site-data =
     .label = ລ້າງຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊ…

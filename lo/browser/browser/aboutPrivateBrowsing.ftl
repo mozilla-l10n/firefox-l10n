@@ -36,6 +36,7 @@ about-private-browsing-promo-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+about-private-browsing-pin-promo-header = ອິດສະຫຼະໃນການເອື້ນໃຊ້ແບບສ່ວນຕົວໃນຄິກດຽວ
 about-private-browsing-pin-promo-link-text =
     { PLATFORM() ->
         [macos] ປັກໝຸດໃສ່ແຖບໜ້າວຽກ

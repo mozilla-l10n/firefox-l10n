@@ -45,6 +45,7 @@ about-logins-login-list-alerts-option = ແຈ້ງເຕືອນ
 login-list-last-changed-option = ການແກ້ໄຂຄັ້ງຫລ້າສຸດ
 login-list-last-used-option = ໃຊ້ຫຼ້າສຸດ
 login-list-intro-title = ບໍ່ພົບການເຂົ້າສູ່ລະບົບ
+login-list-intro-description = ເມື່ອທ່ານບັນທຶກລະຫັດຜ່ານໃນ { -brand-product-name }, ມັນຈະປາກົດຢູ່ບ່ອນນີ້.
 about-logins-login-list-empty-search-title = ບໍ່ພົບການເຂົ້າສູ່ລະບົບ
 about-logins-login-list-empty-search-description = ບໍ່ມີຜົນໄດ້ຮັບທີ່ກົງກັບການຄົ້ນຫາຂອງທ່ານ.
 login-list-item-title-new-login = ເຂົ້າສູ່ລະບົບໃໝ່
@@ -103,6 +104,8 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = ເພື່ອແກ້ໄຂການເຂົ້າສູ່ລະບົບຂອງທ່ານ, ກະລຸນາໃສ່ຂໍ້ມູນການເຂົ້າສູ່ລະບົບ Windows ຂອງທ່ານ. ນີ້ຊ່ວຍປົກປ້ອງຄວາມປອດໄພຂອງບັນຊີຂອງທ່ານ.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ແກ້ໄຂການເຂົ້າສູ່ລະບົບທີ່ບັນທຶກໄວ້
@@ -112,6 +115,8 @@ about-logins-reveal-password-os-auth-dialog-message-macosx = ເປີດເຜ�
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = ສຳເນົາລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = ເພື່ອສົ່ງອອກການເຂົ້າສູ່ລະບົບຂອງທ່ານ, ປ້ອນຂໍ້ມູນການເຂົ້າສູ່ລະບົບ Windows ຂອງທ່ານ. ນີ້ຊ່ວຍປົກປ້ອງຄວາມປອດໄພຂອງບັນຊີຂອງທ່ານ.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = ສົ່ງອອກການເຂົ້າສູ່ລະບົບແລະລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
@@ -255,6 +260,10 @@ about-logins-import-report-row-description-error-missing-field = ຜິດພາ
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">ຄວາມຜິດພາດ</div> <div data-l10n-name="not-imported" >(ບໍ່ໄດ້ນຳເຂົ້າ)</div>
+    }
 
 ## Logins import report page
 
