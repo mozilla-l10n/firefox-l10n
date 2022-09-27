@@ -10,3 +10,8 @@ callout-primary-complete-button-label = Plan comprés !
 ## Firefox View feature tour strings
 
 callout-firefox-view-colorways-title = Botatz de color
+callout-firefox-view-colorways-reminder-title = Descobrissètz nòstres darrièrs colorits
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Començatz
