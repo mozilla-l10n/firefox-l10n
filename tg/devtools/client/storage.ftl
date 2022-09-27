@@ -54,6 +54,7 @@ storage-table-headers-cookies-size = Андоза
 storage-table-headers-cookies-last-accessed = Дастрасии охирин
 storage-table-headers-cookies-creation-time = Санаи эҷод
 storage-table-headers-cache-status = Вазъият
+storage-table-headers-extension-storage-area = Минтақаи захирагоҳ
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
@@ -62,6 +63,7 @@ storage-tree-labels-local-storage = Захирагоҳи маҳаллӣ
 storage-tree-labels-session-storage = Захирагоҳи ҷаласа
 storage-tree-labels-indexed-db = Рӯйхати ПИ
 storage-tree-labels-cache = Захирагоҳи зерҳофиза
+storage-tree-labels-extension-storage = Захирагоҳи васеъшавиҳо
 
 ##
 
