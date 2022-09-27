@@ -12,6 +12,7 @@ callout-primary-complete-button-label = Plan comprés !
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Jonglatz entre vòstres aparelhs gràcia a la recuperacion d’onglets
+callout-firefox-view-tab-pickup-subtitle = Trapatz rapidament los onglets dobèrts sus vòstre mobil e tornatz-los dobrir dirèctament aquí.
 callout-firefox-view-colorways-title = Botatz de color
 callout-firefox-view-colorways-reminder-title = Descobrissètz nòstres darrièrs colorits
 
