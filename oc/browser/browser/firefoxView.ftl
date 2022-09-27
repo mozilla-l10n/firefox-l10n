@@ -36,6 +36,7 @@ firefoxview-tabpickup-fxa-admin-disabled-header = Vòstra organizacion a desacti
 firefoxview-tabpickup-network-offline-header = Verificatz la connexion Internet
 firefoxview-tabpickup-network-offline-primarybutton = Tornar ensajar
 firefoxview-tabpickup-sync-error-primarybutton = Tornar ensajar
+firefoxview-mobile-promo-primarybutton = Installatz { -brand-product-name } per mobil
 firefoxview-mobile-confirmation-header = 🎉 Tot es prèst !
 firefoxview-closed-tabs-title = Tampats recentament
 firefoxview-closed-tabs-description = Tornatz dobrir las paginas qu’avètz tampadas sus aqueste aparelh.
