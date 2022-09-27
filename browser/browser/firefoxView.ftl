@@ -35,6 +35,7 @@ firefoxview-tabpickup-synctabs-primarybutton = Sincronizar los onglets dobèrts
 firefoxview-tabpickup-fxa-admin-disabled-header = Vòstra organizacion a desactivat la sincronizacion
 firefoxview-tabpickup-network-offline-header = Verificatz la connexion Internet
 firefoxview-tabpickup-network-offline-primarybutton = Tornar ensajar
+firefoxview-tabpickup-sync-error-header = Rencontram problèmas de sincronizacion
 firefoxview-tabpickup-sync-error-primarybutton = Tornar ensajar
 firefoxview-mobile-promo-primarybutton = Installatz { -brand-product-name } per mobil
 firefoxview-mobile-confirmation-header = 🎉 Tot es prèst !
