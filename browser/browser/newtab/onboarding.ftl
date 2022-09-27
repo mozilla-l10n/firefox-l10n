@@ -292,6 +292,7 @@ mr2022-onboarding-set-default-primary-button-label = Definir { -brand-short-name
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = Configuracion dins un ais
 
 ## MR2022 Import Settings screen strings
 
@@ -308,28 +309,43 @@ mr2022-onboarding-colorway-title = Causissètz una color que vos inspira
 mr2022-onboarding-colorway-subtitle = Voses independentas pòdon cambiar una cultura.
 mr2022-onboarding-colorway-primary-button-label = Causir lo colorit
 mr2022-onboarding-colorway-primary-button-label-continue = Definir e contunhar
+mr2022-onboarding-existing-colorway-checkbox-label = Convertissètz { -firefox-home-brand-name } en vòstra pagina d’acuèlh acolorida
 mr2022-onboarding-colorway-label-default = Per defaut
 mr2022-onboarding-colorway-tooltip-default =
     .title = Per defaut
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = Colors actualas de { -brand-short-name }
 mr2022-onboarding-colorway-description-default = <b>Utilizar mas colors actualas de { -brand-short-name }.</b>
 mr2022-onboarding-colorway-label-playmaker = Menatz
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Menatz
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = Menaire/Menaira (roge)
 mr2022-onboarding-colorway-label-expressionist = Exprimissètz
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = Exprimissètz
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = Expressionista (jaune)
 mr2022-onboarding-colorway-label-visionary = Endevenissètz
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Endevenissètz
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = Visionari/ària (verd)
 mr2022-onboarding-colorway-label-activist = Militatz
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Militatz
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = Militant/Militanta (blau)
 mr2022-onboarding-colorway-label-dreamer = Somiatz
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Somiatz
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = Somiaire/somiaira  (violet)
 mr2022-onboarding-colorway-label-innovator = Innovatz
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Innovatz
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Innovador/Innovadora (irange)
 
 ## MR2022 Multistage Mobile Download screen strings
 

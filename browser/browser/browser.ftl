@@ -77,6 +77,7 @@ browser-main-window-mac-window-titles =
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
 private-browsing-shortcut-text = Navegacion privada de { -brand-short-name }
+private-browsing-shortcut-text-2 = Navegacion privada de { -brand-shortcut-name }
 
 ##
 
@@ -273,6 +274,7 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Veire los moduls
 quickactions-cmd-addons = moduls, extensions, tèmas
+quickactions-cmd-addons2 = Moduls complementaris
 # Opens the bookmarks library window
 quickactions-bookmarks = Veire los marcapaginas
 quickactions-cmd-bookmarks = marcapaginas
@@ -287,9 +289,16 @@ quickactions-extensions = Gerir las extensions
 quickactions-cmd-extensions = extensions
 # Opens the devtools web inspector
 quickactions-inspector = dobrir l’inspector
+# Opens about:logins
+quickactions-logins = Veire los identificants
+# Opens about:addons page in the plugins section
+quickactions-plugins = Gerir los plugins
+quickactions-cmd-plugins = plugins
 # Opens the print dialog
 quickactions-print = Imprimir
 quickactions-cmd-print = imprimir
+# Opens a new private browsing window
+quickactions-private = Dobrir una fenèstra de navegacion privada
 quickactions-cmd-private = navegacion privada
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Reïnicializar { -brand-short-name }
@@ -312,6 +321,9 @@ quickactions-cmd-update = mesa a jorn
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Afichar la font
 quickactions-cmd-viewsource = veire la font, font, sorga, còdi
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Ne saber mai sus las accions rapidas
 
 ## Bookmark Panel
 
@@ -607,6 +619,7 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Cercar dins los marcapaginas
 urlbar-result-action-search-history = Cercar dins l’istoric
 urlbar-result-action-search-tabs = Cercar pels onglets
+urlbar-result-action-search-actions = Accions de recèrca
 
 ## Labels shown above groups of urlbar results
 
