@@ -346,6 +346,9 @@ mr2022-onboarding-colorway-description-activist = <b>É um ativista.</b> Você d
 mr2022-onboarding-colorway-label-dreamer = Sonhador(a)
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Sonhador(a)
+mr2022-onboarding-colorway-label-innovator = Inovador(a)
+mr2022-onboarding-colorway-tooltip-innovator =
+    .title = Inovador(a)
 
 ## MR2022 Multistage Mobile Download screen strings
 
