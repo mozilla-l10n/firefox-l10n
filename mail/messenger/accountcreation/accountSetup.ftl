@@ -237,6 +237,7 @@ account-setup-address-book-ldap-button = Poveži z imenikom LDAP
 account-setup-calendar-button = Poveži z oddaljenim koledarjem
 account-setup-linked-services-title = Povežite povezane storitve
 account-setup-linked-services-description = { -brand-short-name } je zaznal druge storitve, povezane z vašim e-poštnim računom.
+account-setup-no-linked-description = Nastavite ostale storitve, da kar najbolje izkoristite { -brand-short-name }.
 # Variables:
 # $count (Number) - The number of address books found during autoconfig.
 account-setup-found-address-books-description =
