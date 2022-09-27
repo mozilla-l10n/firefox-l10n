@@ -32,7 +32,7 @@ about-private-browsing-focus-promo-text = A nossa app móvel dedicada a uma nave
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
-about-private-browsing-focus-promo-header-b = Leve a navegação privada para o seu telefone
+about-private-browsing-focus-promo-header-b = Leve a navegação privada para o seu telemóvel
 about-private-browsing-focus-promo-text-b = Use o { -focus-brand-name } para as pesquisas privadas que não deseja que o seu navegador principal para dispositivos móveis veja.
 about-private-browsing-focus-promo-header-c = Privacidade do próximo nível em dispositivos móveis
 about-private-browsing-focus-promo-text-c = O { -focus-brand-name } limpa o seu histórico todas as vezes enquanto bloqueia anúncios e rastreadores.
@@ -53,10 +53,10 @@ about-private-browsing-promo-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
-about-private-browsing-pin-promo-header = Liberdade de navegação privada num clique
+about-private-browsing-pin-promo-header = Liberdade da navegação privada num clique
 about-private-browsing-pin-promo-link-text =
     { PLATFORM() ->
-        [macos] Fixar na Doca
+        [macos] Manter na Doca
        *[other] Fixar na barra de tarefas
     }
 about-private-browsing-pin-promo-title = Sem cookies ou histórico salvos, diretamente a partir do seu ambiente de trabalho. Navegue como se ninguém estivesse a ver.
