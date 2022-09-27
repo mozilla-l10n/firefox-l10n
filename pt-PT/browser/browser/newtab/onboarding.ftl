@@ -280,6 +280,13 @@ mr2022-onboarding-set-default-only-subtitle = Comece com um navegador apoiado po
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Obrigado por gostar do { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Começe uma Internet mais saudável a partir de qualquer lugar, com um único clique. A nossa atualização mais recente está repleta de novidades que achamos que vai adorar.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Utilize um navegador que defende a sua privacidade enquanto navega pela Web. A nossa atualização mais recente está repleta de coisas que você adora.
 mr2022-onboarding-existing-pin-checkbox-label = Adicione também a navegação privada do { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
@@ -287,15 +294,23 @@ mr2022-onboarding-existing-pin-checkbox-label = Adicione também a navegação p
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = Tornar o { -brand-short-name } no seu navegador predefinido
 mr2022-onboarding-set-default-primary-button-label = Definir o { -brand-short-name } como o seu navegador predefinido
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Utilize um navegador apoiado por uma organização sem fins lucrativos. Nós defendemos a sua privacidade enquanto navega pela Web.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = A nossa versão mais recente foi desenvolvida para si, tornando mais fácil do que nunca a navegação na Web. Ela está repleta de funcionalidades que achamos que vai adorar.
 mr2022-onboarding-get-started-primary-button-label = Configurar em segundos
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Configuração ultra-rápida
+mr2022-onboarding-import-subtitle = Configure o { -brand-short-name } como preferir. Adicione os seus marcadores, palavras-passe e muito mais, do seu navegador antigo.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importar do navegador anterior
 
 ## If your language uses grammatical genders, in the description for the
@@ -304,17 +319,33 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Importar do naveg
 ## help creating a more inclusive translation.
 
 mr2022-onboarding-colorway-title = Escolha a cor que o(a) inspira
+mr2022-onboarding-colorway-subtitle = Vozes independentes podem mudar a cultura.
 mr2022-onboarding-colorway-primary-button-label = Definir esquema de cor
+mr2022-onboarding-colorway-primary-button-label-continue = Definir e continuar
 mr2022-onboarding-existing-colorway-checkbox-label = Faça do { -firefox-home-brand-name } a sua página inicial colorida
 mr2022-onboarding-colorway-label-default = Predefinido
 mr2022-onboarding-colorway-tooltip-default =
     .title = Predefinido
+mr2022-onboarding-colorway-description-default = <b>Utilizar as minhas cores atuais do { -brand-short-name }.</b>
+mr2022-onboarding-colorway-label-playmaker = Impulsionador(a)
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = Impulsionador(a)
+mr2022-onboarding-colorway-description-playmaker = <b>É um(a) impulsionador(a).</b> Você cria oportunidades para vencer e ajudar a todos à sua volta a melhorar as suas capacidades.
 mr2022-onboarding-colorway-label-expressionist = Expressionista
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = Expressionista
+mr2022-onboarding-colorway-description-expressionist = <b>É um(a) expressionista.</b> Você vê o mundo de maneira diferente e as suas criações despertam as emoções dos outros.
 mr2022-onboarding-colorway-label-visionary = Visionário(a)
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Visionário(a)
+mr2022-onboarding-colorway-description-visionary = <b>É um visionário(a).</b> Você questiona o status-quo e leva os outros a imaginar um futuro melhor.
+mr2022-onboarding-colorway-label-activist = Ativista
+mr2022-onboarding-colorway-tooltip-activist =
+    .title = Ativista
+mr2022-onboarding-colorway-description-activist = <b>É um ativista.</b> Você deixa o mundo um lugar melhor do que aquele que encontrou e leva os outros a acreditar.
+mr2022-onboarding-colorway-label-dreamer = Sonhador(a)
+mr2022-onboarding-colorway-tooltip-dreamer =
+    .title = Sonhador(a)
 
 ## MR2022 Multistage Mobile Download screen strings
 
