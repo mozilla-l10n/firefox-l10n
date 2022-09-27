@@ -10,6 +10,7 @@ chat-encryption-generic = Splošno
 chat-encryption-log =
     .label = Vključi od konca do konca šifrirana sporočila v dnevnike pogovorov
 chat-encryption-label = Avtohtono šifriranje od konca do konca
+chat-encryption-description = { $protocol } za sporočila v klepetu zagotavlja šifriranje od konca do konca, ki tretjim osebam preprečuje prisluškovanje pogovoru. Morda bo spodaj potrebna dodatna nastavitev, da bo šifriranje delovalo.
 chat-encryption-status = Stanje šifriranja
 chat-encryption-placeholder = Šifriranje ni inicializirano.
 chat-encryption-sessions = Seje
