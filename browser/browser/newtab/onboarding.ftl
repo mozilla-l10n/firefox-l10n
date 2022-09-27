@@ -223,9 +223,13 @@ mr2-onboarding-start-browsing-button-label = Começar a navegar
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Escolha o seu idioma
+mr2022-onboarding-live-language-text = O { -brand-short-name } fala o seu idioma
+mr2022-language-mismatch-subtitle = Graças à nossa comunidade, o { -brand-short-name } está traduzido em mais de 90 idiomas. Parece que seu sistema está a usar { $systemLanguage } e o { -brand-short-name } está a usar o { $appLanguage }.
 onboarding-live-language-button-label-downloading = A transferir o pacote de idioma para { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = A obter os idiomas disponíveis…
 onboarding-live-language-installing = A instalar o pacote de idioma para { $negotiatedLanguage }…
+mr2022-onboarding-live-language-switch-to = Alterar para { $negotiatedLanguage }
+mr2022-onboarding-live-language-continue-in = Continuar em { $appLanguage }
 onboarding-live-language-secondary-cancel-download = Cancelar
 onboarding-live-language-skip-button-label = Ignorar
 
@@ -255,6 +259,24 @@ mr2022-onboarding-secondary-skip-button-label = Saltar este passo
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Descubra uma Internet incrível
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Inicie o { -brand-short-name } de qualquer lugar com um único clique. Toda vez que faz isto, está a escolher uma Web mais aberta e independente.
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Manter o { -brand-short-name } na Doca
+       *[other] Fixar o { -brand-short-name } à barra de tarefas
+    }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Comece com um navegador apoiado por uma organização sem fins lucrativos. Nós defendemos a sua privacidade enquanto navega pela Web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
