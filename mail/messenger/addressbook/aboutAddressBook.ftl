@@ -209,3 +209,7 @@ about-addressbook-photo-filepicker-title = Veldu myndskrá
 about-addressbook-photo-discard = Henda fyrirliggjandi mynd
 about-addressbook-photo-cancel = Hætta við
 about-addressbook-photo-save = Vista
+
+# Keyboard shortcuts
+
+about-addressbook-new-contact-key = N
