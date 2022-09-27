@@ -159,7 +159,7 @@ spotlight-total-cookie-protection-secondary-button = Agora não
 cfr-total-cookie-protection-header = Graças a si, { -brand-short-name } está mais privado e seguro do que nunca
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = A Proteção Total de Cookies é a nossa proteção de privacidade mais forte até ao momento – e agora é uma predefinição para o { -brand-short-name } em todo o lado. Não teríamos conseguido fazer isto sem os participantes na versão de acesso antecipado, como você. Muito obrigado por nos ajudar a criar uma Internet melhor e mais privada.
+cfr-total-cookie-protection-body = A Proteção Total de Cookies é a nossa proteção de privacidade mais forte até ao momento – e agora passou a ser uma configuração predefinida para todos os utilizadores do { -brand-short-name }, em todo o lado. Não teríamos conseguido fazer isto sem os participantes da versão de acesso antecipado, como você. Muito obrigado por nos ajudar a criar uma Internet melhor e mais privada.
 
 ## Emotive Continuous Onboarding
 
@@ -173,3 +173,46 @@ spotlight-pin-primary-button =
        *[other] Fixar na barra de tarefas
     }
 spotlight-pin-secondary-button = Agora não
+
+## MR2022 Background Update Windows native toast notification strings.
+##
+## These strings will be displayed by the Windows operating system in
+## a native toast, like:
+##
+## <b>multi-line title</b>
+## multi-line text
+## <img>
+## [ primary button ] [ secondary button ]
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+mr2022-background-update-toast-title = Novo { -brand-short-name }. Mais privado. Menos rastreadores. Sem restrições.
+mr2022-background-update-toast-text = Experimente o mais novo { -brand-short-name } agora, atualizado com a nossa mais forte proteção anti-rastreamento, até o momento.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Abra o { -brand-shorter-name } agora
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Lembrar mais tarde
+
+## Firefox View CFR
+
+firefoxview-cfr-primarybutton = Experimentar
+    .accesskey = E
+firefoxview-cfr-secondarybutton = Agora não
+    .accesskey = n
+firefoxview-cfr-header = Recupere os separadores fechados recentemente com o { -firefoxview-brand-name }
+firefoxview-cfr-body = Além disso, alterne facilmente entre dispositivos e adicione um toque de cor ao seu navegador.
+
+## Firefox View Spotlight
+
+firefoxview-spotlight-promo-title = Diga olá ao { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Quer aquele separador aberto no seu telemóvel? Obtenha-o. Precisa daquele site que acabou de visitar? Poof, ele está de volta com o { -firefoxview-brand-name }.
+firefoxview-spotlight-promo-primarybutton = Ver como funciona
+firefoxview-spotlight-promo-secondarybutton = Ignorar
