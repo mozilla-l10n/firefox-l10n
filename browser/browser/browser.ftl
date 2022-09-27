@@ -77,6 +77,7 @@ browser-main-window-mac-window-titles =
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
 private-browsing-shortcut-text = { -brand-short-name } Navegação Privada
+private-browsing-shortcut-text-2 = Navegação Privada do { -brand-shortcut-name }
 
 ##
 
@@ -267,9 +268,6 @@ search-one-offs-actions =
     .tooltiptext = Ações ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
-
-
-## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
@@ -325,6 +323,9 @@ quickactions-cmd-update = atualizar
 # Opens the view-source UI with current pages source
 quickactions-viewsource = Ver fonte
 quickactions-cmd-viewsource = ver fonte, fonte
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Saber mais sobre as ações rápidas
 
 ## Bookmark Panel
 
@@ -712,6 +713,8 @@ bookmarks-tools =
     .label = Ferramentas de marcadores
 bookmarks-bookmark-edit-panel =
     .label = Editar este marcador
+bookmarks-subview-edit-bookmark =
+    .label = Editar este marcador…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -728,6 +731,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Adicionar separador aos marcadores
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Adicionar separador atual aos marcadores…
 
 ## Library Panel items
 
