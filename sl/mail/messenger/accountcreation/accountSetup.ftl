@@ -11,6 +11,7 @@ account-setup-description = Za uporabo svojega trenutnega e-poštnega naslova vn
 account-setup-secondary-description = { -brand-product-name } bo samodejno poiskal delujoče in priporočene nastavitve za strežnik.
 account-setup-success-title = Račun uspešno ustvarjen
 account-setup-success-description = Zdaj lahko uporabljate ta račun s { -brand-short-name(sklon: "orodnik") }.
+account-setup-success-secondary-description = Uporabniško izkušnjo si lahko še izboljšate s priključitvijo povezanih storitev in z nastavitvijo naprednih nastavitev računa.
 
 ## Form fields
 
@@ -47,6 +48,9 @@ account-setup-exchange-label = Vaša prijava
 #   YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows.
 account-setup-exchange-input =
     .placeholder = VAŠADOMENA\vašeuporabniškoime
+#   Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network.
+account-setup-exchange-info-icon =
+    .title = Domenska prijava
 
 ## Action buttons
 
