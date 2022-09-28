@@ -118,6 +118,32 @@ main-context-menu-bookmark-change-with-shortcut =
     .aria-label = Modificar aqueste marcapagina
     .accesskey = m
     .tooltiptext = Modificar aqueste marcapagina ({ $shortcut })
+main-context-menu-bookmark-page =
+    .aria-label = Apondre la pagina als marcapaginas…
+    .accesskey = m
+    .tooltiptext = Apondre la pagina als marcapaginas
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-page-mac =
+    .label = Apondre la pagina als marcapaginas…
+    .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
+# so should probably have the same access key if possible.
+main-context-menu-edit-bookmark-mac =
+    .label = Modificar lo marcapagina…
+    .accesskey = o
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = Apondre la pagina als marcapaginas…
+    .accesskey = m
+    .tooltiptext = Apondre la pagina als marcapaginas ({ $shortcut })
+main-context-menu-edit-bookmark =
+    .aria-label = Modificar lo marcapagina…
+    .accesskey = o
+    .tooltiptext = Modificar lo marcapagina
 main-context-menu-open-link =
     .label = Dobrir lo ligam
     .accesskey = o

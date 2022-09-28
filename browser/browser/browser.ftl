@@ -289,8 +289,10 @@ quickactions-extensions = Gerir las extensions
 quickactions-cmd-extensions = extensions
 # Opens the devtools web inspector
 quickactions-inspector = dobrir l’inspector
+quickactions-cmd-inspector = inspector, inspectar, examinar, devtools, aisinas, espleches, otisses, desvelopament, desvolopaires
 # Opens about:logins
 quickactions-logins = Veire los identificants
+quickactions-cmd-logins = identificants, identificacion, senhals, mot de passa, clau de santa, mot de gach
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gerir los plugins
 quickactions-cmd-plugins = plugins
