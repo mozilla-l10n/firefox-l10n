@@ -204,5 +204,7 @@ firefoxview-cfr-header = לקבל בחזרה לשוניות שנסגרו לאח�
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = תגידו שלום ל־{ -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = רוצה את הלשונית הפתוחה הזאת שבטלפון שלך? קיבלת. יש לך צורך באתר שבדיוק עכשיו ביקרת? פוף, הנה הוא כאן ב־{ -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = כיצד זה עובד
 firefoxview-spotlight-promo-secondarybutton = דילוג
