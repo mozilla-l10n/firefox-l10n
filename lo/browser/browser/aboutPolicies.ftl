@@ -7,6 +7,7 @@ about-policies-title = ນະໂຍບາຍອົງກອນ
 active-policies-tab = ມີການນຳໃຊ້
 errors-tab = ຂໍ້ຜິດພາດ
 documentation-tab = ເອກະສານປະກອບ
+no-specified-policies-message = ບໍລິການນະໂຍບາຍອົງກອນໃຊ້ຢູ່ແຕ່ບໍ່ໄດ້ເປີດໃຊ້ງານນະໂຍບາຍໃດໆ
 inactive-message = ບໍລິການນະໂຍບາຍອົງກອນບໍ່ໄດ້ໃຊ້ງານຢູ່.
 policy-name = ຊື່ນະໂຍບາຍ
 policy-value = ຄຸນຄ່ານະໂຍບາຍ

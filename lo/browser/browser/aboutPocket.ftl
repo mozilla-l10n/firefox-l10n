@@ -64,4 +64,5 @@ pocket-panel-header-sign-in = ລົງຊື່ເຂົ້າໃຊ້
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = ສະແດງທັງໝົດ
+pocket-panel-button-activate = ເປີດໃຊ້ { -pocket-brand-name } ໃນ { -brand-product-name }
 pocket-panel-button-remove = ລຶບ
