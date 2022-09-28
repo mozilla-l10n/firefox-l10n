@@ -66,9 +66,11 @@ about-logins-list-section-week = 7 ມື້ກ່ອນ
 
 about-logins-login-intro-heading-logged-out2 = ຊອກຫາການເຂົ້າສູ່ລະບົບທີ່ບັນທຶກໄວ້ຂອງທ່ານບໍ? ເປີດການຊິງຄ໌ ຫຼືນໍາເຂົ້າ.
 about-logins-login-intro-heading-logged-in = ບໍ່ພົບການເຂົ້າສູ່ລະບົບທີ່ຊິ້ງ.
+login-intro-description = ຖ້າທ່ານບັນທຶກການເຂົ້າສູ່ລະບົບຂອງທ່ານໄປທີ່ { -brand-product-name } ໃນອຸປະກອນອື່ນ, ທ່ານສາມາດນຳມາໃຊ້ໃນອຸປະກອນນີ້ໄດ້ດ້ວຍວິທີ່ດັ່ງນີ້:
 login-intro-instructions-fxa = ສ້າງ ຫຼື ເຂົ້າສູ່ລະບົບ { -fxaccount-brand-name(capitalization: "sentence") }ຂອງທ່ານຢູ່ໃນອຸປະກອນທີ່ບັນທຶກການເຂົ້າສູ່ລະບົບຂອງທ່ານ.
 login-intro-instructions-fxa-settings = ໄປ​ທີ່ ເມນູ ການຕັ້ງຄ່າ > Sync > ເປີດ​ການ​ຊິ້ງ​ຂໍ້​ມູນ… ເລືອກ​ເອົາ​ການ​ເຂົ້າ​ສູ່​ລະ​ບົບ​ແລະ​ລະ​ຫັດ​ຜ່ານ checkbox​.
 login-intro-instructions-fxa-passwords-help = ເຂົ້າເບິ່ງ <a data-l10n-name="passwords-help-link">ຊ່ອຍເຫຼືອລະຫັດຜ່ານ</a> ສໍາລັບການຊ່ວຍເຫຼືອເພີ່ມເຕີມ.
+about-logins-intro-browser-only-import = ຖ້າການເຂົ້າສູ່ລະບົບຂອງທ່ານຖືກບັນທຶກໄວ້ໃນບຣາວເຊີອື່ນ, ທ່ານສາມາດ <a data-l10n-name="import-link">ນຳພວກມັນເຂົ້າໄປໃນ { -brand-product-name }</a>
 
 ## Login
 
