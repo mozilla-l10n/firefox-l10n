@@ -555,7 +555,7 @@ urlbar-remote-control-notification-anchor2 =
 urlbar-permissions-granted =
     .tooltiptext = Você definiu permissões neste site.
 urlbar-switch-to-tab =
-    .value = Mudar para a aba:
+    .value = Mudar para aba:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensão:
@@ -581,7 +581,7 @@ urlbar-result-action-search-in-private = Pesquisar em uma janela privativa
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Pesquisar com { $engine }
 urlbar-result-action-sponsored = Patrocinado
-urlbar-result-action-switch-tab = Mudar para a aba
+urlbar-result-action-switch-tab = Mudar para aba
 urlbar-result-action-visit = Visitar
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
