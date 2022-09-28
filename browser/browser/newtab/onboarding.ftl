@@ -367,6 +367,8 @@ mr2022-onboarding-colorway-description-dreamer = <b>Þú ert draumóramaður.</b
 mr2022-onboarding-colorway-label-innovator = Frumkvöðull
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Frumkvöðull
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Frumkvöðull (appelsínugult)
 mr2022-onboarding-colorway-description-innovator = <b>Þú ert frumkvöðull.</b> Þú sérð tækifæri alls staðar og hefur áhrif á líf allra í kringum þig.
 
 ## MR2022 Multistage Mobile Download screen strings
