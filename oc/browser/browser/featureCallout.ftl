@@ -13,9 +13,17 @@ callout-primary-complete-button-label = Plan comprés !
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = Jonglatz entre vòstres aparelhs gràcia a la recuperacion d’onglets
 callout-firefox-view-tab-pickup-subtitle = Trapatz rapidament los onglets dobèrts sus vòstre mobil e tornatz-los dobrir dirèctament aquí.
+callout-firefox-view-recently-closed-title = Retrobatz lèu lèu los onglets qu’avètz tampats
+callout-firefox-view-recently-closed-subtitle = Totes los onglets tampats seràn mostrats aquí coma per magia. Pas mai de pensament tocant los onglets tampats per accident.
 callout-firefox-view-colorways-title = Botatz de color
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Causissètz la nuança que vos correspond via los colorits. Sonque dins { -brand-product-name }.
 callout-firefox-view-colorways-reminder-title = Descobrissètz nòstres darrièrs colorits
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = Melhoratz vòstra navegacion amb la recuperacion d’onglets
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Començatz
