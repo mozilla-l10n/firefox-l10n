@@ -173,3 +173,4 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-developer-tools-subheader = ເຄື່ອງມືຂອງຕົວທ່ອງເວັບ
