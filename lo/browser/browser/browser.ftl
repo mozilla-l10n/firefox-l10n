@@ -155,13 +155,18 @@ quickactions-cmd-clearhistory = ລົບລ້າງປະຫວັດການ
 quickactions-downloads = ເປີດການດາວໂຫຼດ
 quickactions-cmd-downloads = ດາວໂຫລດ
 quickactions-cmd-extensions = ສ່ວນເສີມ
+quickactions-cmd-plugins = ປລັກອິນ
 # Opens the print dialog
 quickactions-print = ພິມ
 quickactions-cmd-print = ພິມ
 quickactions-cmd-refresh = ໂຫຼດຄືນໃໝ່
 # Restarts the browser
 quickactions-restart = ເລີ່ມເຮັດວຽກ { -brand-short-name } ໃຫມ່
+quickactions-cmd-themes = ຊຸດຕົກແຕ່ງ
 quickactions-cmd-update = ອັບເດດ
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = ສຶກສາເພີ່ມເຕີມກ່ຽວກັບການດຳເນີນການດ່ວນ
 
 ## Bookmark Panel
 
@@ -183,10 +188,17 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-secure = ການເຊື່ອມຕໍ່ແມ່ນປອດໄພ
+identity-connection-failure = ການເຊື່ອມຕໍ່ລົ້ມເຫລວ
 identity-connection-internal = ນີ້ເປັນຫນ້າ { -brand-short-name } ທີ່ປອດໄພ.
 identity-passive-loaded = ເນື້ອຫາບາງສ່ວນໃນຫນ້ານີ້ບໍ່ມີຄວາມປອດໄພ (ເຊັ່ນວ່າຮູບພາບ)
 identity-insecure-login-forms = ການປ້ອນຂໍ້ມູນການລັອກອິນທີ່ໃສ່ໄວ້ເທິງຫນ້ານີ້ອາດຈະຖືກບຸກລຸກໄດ້.
 identity-https-only-label = ໂໝດ HTTPS ເທົ່ານັ້ນ
+identity-https-only-dropdown-on =
+    .label = ເປີດ
+identity-https-only-dropdown-off =
+    .label = ປິດ
+identity-permissions-storage-access-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 identity-permissions-reload-hint = ທ່ານອາດຕ້ອງໂຫລດຫນ້າຄືນໃຫມ່ເພື່ອໃຫ້ການປ່ຽນແປງມີຜົນ.
 identity-clear-site-data =
     .label = ລ້າງຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊ…
@@ -224,6 +236,18 @@ browser-window-close-button =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera-device =
+    .value = ກ້ອງຖ່າຍຮູບ
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = ກ້ອງຖ່າຍຮູບ
+popup-select-microphone-device =
+    .value = ໄມໂຄຣໂຟນ:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = ໄມໂຄຣໂຟນ
+popup-select-speaker-icon =
+    .tooltiptext = ລໍາໂພງ
 
 ## WebRTC window or screen share tab switch warning
 
@@ -269,6 +293,9 @@ urlbar-result-action-visit = ຢ້ຽມຢາມ
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = ຄຳສັ່ງດ່ວນ
 
 ## Full Screen and Pointer Lock UI
 
@@ -288,6 +315,8 @@ pointerlock-warning-no-domain = ເອກະສານນີ້ໄດ້ຄວບ
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore-link =
+    .value = ຮຽນຮູ້ເພີ່ມເຕີມ
 
 ## Bookmarks panels, menus and toolbar
 

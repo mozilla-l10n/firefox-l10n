@@ -292,3 +292,6 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ DRM…
     .accesskey = D
+main-context-menu-reveal-password =
+    .label = ເປີດເຜີຍລະຫັດຜ່ານ
+    .accesskey = v
