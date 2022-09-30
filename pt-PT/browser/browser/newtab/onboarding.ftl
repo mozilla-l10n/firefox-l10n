@@ -340,6 +340,8 @@ mr2022-onboarding-colorway-description-expressionist = <b>É um(a) expressionist
 mr2022-onboarding-colorway-label-visionary = Visionário(a)
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Visionário(a)
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = Visionário(a) (verde)
 mr2022-onboarding-colorway-description-visionary = <b>É um visionário(a).</b> Você questiona o status-quo e leva os outros a imaginar um futuro melhor.
 mr2022-onboarding-colorway-label-activist = Ativista
 mr2022-onboarding-colorway-tooltip-activist =
@@ -355,6 +357,8 @@ mr2022-onboarding-colorway-tooltip-dreamer2 =
 mr2022-onboarding-colorway-label-innovator = Inovador(a)
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Inovador(a)
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Inovador(a) (laranja)
 
 ## MR2022 Multistage Mobile Download screen strings
 
