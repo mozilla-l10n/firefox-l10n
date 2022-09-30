@@ -50,6 +50,11 @@ firefoxview-closed-tabs-description2 = Осы терезеде жабылған 
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Соңғы белсенді
 # Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = { $targetURI } жаңа бетте ашу
+firefoxview-try-colorways-button = Түстер схемаларын қолданып көріңіз
+# Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
