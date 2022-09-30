@@ -19,6 +19,8 @@ callout-firefox-view-colorways-title = 增光添彩
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = 选择最心动的配色，只在 { -brand-product-name }。
 callout-firefox-view-colorways-reminder-title = 探索我们的新配色
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = 你我皆凡人，纵横天地间。灵感来自于凡人之“声”的浏览器配色，由 { -brand-product-name } 独家提供。
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
