@@ -326,6 +326,8 @@ mr2022-onboarding-existing-colorway-checkbox-label = Faça do { -firefox-home-br
 mr2022-onboarding-colorway-label-default = Predefinido
 mr2022-onboarding-colorway-tooltip-default =
     .title = Predefinido
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = Cores atuais do { -brand-short-name }
 mr2022-onboarding-colorway-description-default = <b>Utilizar as minhas cores atuais do { -brand-short-name }.</b>
 mr2022-onboarding-colorway-label-playmaker = Impulsionador(a)
 mr2022-onboarding-colorway-tooltip-playmaker =
@@ -369,6 +371,7 @@ mr2022-onboarding-colorway-tooltip-innovator2 =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostrar informações detalhadas
 
 ## MR2022 Multistage Gratitude screen strings
 
