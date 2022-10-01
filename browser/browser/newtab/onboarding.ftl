@@ -322,6 +322,7 @@ mr2022-onboarding-colorway-tooltip-innovator =
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Бір рет басу арқылы жеке шолу еркіндігін алыңыз
 
 ## MR2022 Privacy Segmentation screen strings
 
