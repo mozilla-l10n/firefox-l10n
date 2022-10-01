@@ -287,6 +287,10 @@ theme-disabled-heading = Сөндірілген
 theme-disabled-heading2 = Сақталған темалар
 theme-monochromatic-heading = Түстер жинақтары
 theme-monochromatic-subheading = { -brand-product-name } ұсынған жаңа, жарқын түстер жинақтары. Шектеулі уақыт бойы қолжетімді.
+# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
+theme-colorways-button = Түстер схемаларын қолданып көріңіз
+# Refers to the button label for the colorways card when a user has a colorway theme enabled.
+theme-colorways-button-colorway-enabled = Түстер схемасын өзгерту
 # Variables:
 #   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
 colorway-collection-expiry-label = Мерзімі аяқталады { DATETIME($expiryDate, month: "long", day: "numeric") }
