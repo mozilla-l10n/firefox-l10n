@@ -12,3 +12,4 @@ callout-primary-complete-button-label = เข้าใจแล้ว!
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = เริ่มต้นใช้งาน

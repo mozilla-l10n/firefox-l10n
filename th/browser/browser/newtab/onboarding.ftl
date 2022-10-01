@@ -271,15 +271,33 @@ mr2022-onboarding-secondary-skip-button-label = ข้ามขั้นตอ�
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = ตั้งค่าในไม่กี่วินาที
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-primary-button-label-no-attribution = นำเข้าจากเบราว์เซอร์ก่อนหน้า
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = เลือกสีที่โดนใจคุณ
+mr2022-onboarding-colorway-primary-button-label-continue = ตั้งค่าและดำเนินการต่อ
+mr2022-onboarding-existing-colorway-checkbox-label = ทำให้ { -firefox-home-brand-name } เป็นหน้าแรกที่เต็มไปด้วยสีสันของคุณ
+mr2022-onboarding-colorway-label-default = ค่าเริ่มต้น
+mr2022-onboarding-colorway-tooltip-default =
+    .title = ค่าเริ่มต้น
+mr2022-onboarding-colorway-label-playmaker = เพลย์เมคเกอร์
+mr2022-onboarding-colorway-tooltip-playmaker =
+    .title = เพลย์เมคเกอร์
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = { "" }
+mr2022-onboarding-colorway-label-expressionist = นักแสดงออก
+mr2022-onboarding-colorway-tooltip-expressionist =
+    .title = นักแสดงออก
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = { "" }
 
 ## MR2022 Multistage Mobile Download screen strings
 
