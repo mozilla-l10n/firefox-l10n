@@ -187,6 +187,11 @@ about-logins-vulnerable-alert-learn-more-link = ຮຽນຮູ້ເພີ່�
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = ການປ້ອນຂໍ້ມູນສໍາລັບ { $loginTitle } ທີ່ມີຊື່ຜູ້ໃຊ້ນັ້ນມີຢູ່ແລ້ວ. <a data-l10n-name="duplicate-link">ໄປທີ່ລາຍການທີ່ມີຢູ່ແລ້ວບໍ?</a>
 # This is a generic error message.
 about-logins-error-message-default = ເກີດຄວາມຜິດພາດຂຶ້ນໃນຂະນະທີ່ພະຍາຍາມບັນທຶກລະຫັດຜ່ານນີ້.
 
@@ -251,6 +256,7 @@ about-logins-import-dialog-error-learn-more = ຮຽນຮູ້ເພີ່ມ�
 about-logins-import-dialog-error-try-import-again = ລອງນຳເຂົ້າອີກຄັ້ງ...
 about-logins-import-dialog-error-cancel = ຍົກເລີກ
 about-logins-import-report-title = ສະຫຼຸບການນໍາເຂົ້າ
+about-logins-import-report-description = ນໍາ​ເຂົ້າການເຂົ້າ​ສູ່​ລະ​ບົບ​ແລະ​ລະ​ຫັດ​ຜ່ານ​​ໄປຍັງ { -brand-short-name } ແລ້ວ.
 #
 # Variables:
 #  $number (number) - The number of the row
