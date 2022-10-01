@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 Alles startklar!
 firefoxview-mobile-confirmation-description = Jetzt können Sie Ihre { -brand-product-name }-Tabs von Ihrem Tablet oder Telefon holen.
 firefoxview-closed-tabs-title = Kürzlich geschlossen
 firefoxview-closed-tabs-description = Öffnen Sie Seiten erneut, die Sie auf diesem Gerät geschlossen haben.
+firefoxview-closed-tabs-description2 = Öffnen Sie Seiten erneut, die Sie in diesem Fenster geschlossen haben.
 firefoxview-closed-tabs-placeholder = <strong>Keine kürzlich geschlossenen Seiten</strong><br/>Sie werden nie wieder einen geschlossenen Tab verlieren. Sie können ihn hier jederzeit abrufen.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Zuletzt aktiv
