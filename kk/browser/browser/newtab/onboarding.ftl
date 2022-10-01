@@ -294,6 +294,9 @@ mr2022-onboarding-colorway-primary-button-label-continue = Орнатып, жа�
 mr2022-onboarding-colorway-label-default = Бастапқы
 mr2022-onboarding-colorway-tooltip-default =
     .title = Бастапқы
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = Ағымдағы { -brand-short-name } түстері
+mr2022-onboarding-colorway-description-default = <b>Менің ағымдағы { -brand-short-name } түстерін қолдану.</b>
 mr2022-onboarding-colorway-label-playmaker = Плеймейкер
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Плеймейкер
@@ -322,8 +325,12 @@ mr2022-onboarding-colorway-tooltip-innovator =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Біз әрқашан сіздің жекелігіңізді құрметтейміз
+mr2022-onboarding-privacy-segmentation-button-primary-label = { -brand-product-name } ұсыныстарын қолдану
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Көбірек ақпаратты көрсету
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Сіз бізге жақсырақ Интернетті жасауға көмектесіп жатырсыз
 mr2022-onboarding-gratitude-primary-button-label = Жаңалықтарын біліңіз
 mr2022-onboarding-gratitude-secondary-button-label = Шолуды бастау

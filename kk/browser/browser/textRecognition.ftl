@@ -6,4 +6,6 @@
 ## Text recognition works through a modal that presents the text that is found
 ## in an image, and copies the results to the clipboard.
 
+text-recognition-modal-searching-title = Суреттен мәтінді іздеу…
+text-recognition-modal-results-title = Мәтін суреттен көшірілді
 text-recognition-modal-close-button = Жабу
