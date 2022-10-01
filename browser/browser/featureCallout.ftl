@@ -18,3 +18,15 @@ callout-firefox-view-recently-closed-subtitle = Alle Ihre geschlossenen Tabs wer
 callout-firefox-view-colorways-title = Fügen Sie einen Farbtupfer hinzu
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = Wählen Sie mit Farbwelten den Farbton, der Sie anspricht. Nur in { -brand-product-name }.
+callout-firefox-view-colorways-reminder-title = Entdecken Sie unsere neuesten Farbwelten
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = Färben Sie Ihren Browser mit diesen ikonischen Farbtönen, inspiriert von unabhängigen Stimmen. Nur in { -brand-product-name }.
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = Verbessern Sie Ihr Surferlebnis mit synchronisierten Tabs
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Greifen Sie von jedem Gerät aus auf Ihre geöffneten Tabs zu. Synchronisieren Sie zusätzlich Ihre Lesezeichen, Passwörter und mehr.
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Erste Schritte
