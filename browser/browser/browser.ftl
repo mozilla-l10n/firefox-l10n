@@ -648,6 +648,11 @@ pointerlock-warning-no-domain = මෙම ලේඛනයට ඔබගේ ඊත
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>මෙම පිටුවේ කොටසක් බිඳ වැටුණි.</strong> මෙම ගැටළුව පිළිබඳව { -brand-product-name } වෙත වාර්තාවක් යොමු කිරීමෙන් ඉක්මනින් විසඳා ගැනීමට හැකිවනු ඇත.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = මෙම පිටුවේ කොටසක් බිඳ වැටුණි. මෙම ගැටළුව පිළිබඳව { -brand-product-name } වෙත වාර්තාවක් යොමු කිරීමෙන් ඉක්මනින් විසඳා ගැනීමට හැකිවනු ඇත.
 crashed-subframe-learnmore-link =
     .value = තව දැනගන්න
 crashed-subframe-submit =
@@ -736,6 +741,9 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = පෙළ ආකේතනය අලුත්වැඩියාව
+    .tooltiptext = පිටුවේ අන්තර්ගතයෙන් නිවරදි පෙළ ආකේතනය අනුමාන කරන්න
 
 ## Customize Toolbar Buttons
 
