@@ -240,6 +240,10 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>ເພີ່ມການເຂົ້າສູ່ລະບົບໃໝ່:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>ພົບການເຂົ້າສູ່ລະບົບຊໍ້າກັນ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ບໍ່ໄດ້ນຳເຂົ້າ)</span >
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>ຂໍ້ຜິດພາດ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ບໍ່ໄດ້ນໍາເຂົ້າ)</span>
