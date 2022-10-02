@@ -267,6 +267,8 @@ mr2022-onboarding-secondary-skip-button-label = Passar aquesta etapa
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Descobrissètz un Internet de pas creire
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Lançatz { -brand-short-name } d’ont volètz amb un sol clic. Cada còp qu’o fasètz, causissètz un Web mai dobèrt e independent.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -283,15 +285,21 @@ mr2022-onboarding-set-default-only-subtitle = Començatz per utilizar un navegad
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Mercés d’apreciar { -brand-product-name }
+mr2022-onboarding-existing-pin-checkbox-label = Ajustatz tanben la navegacion privada { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Fasètz de { -brand-short-name } vòstre navegador per defaut
 mr2022-onboarding-set-default-primary-button-label = Definir { -brand-short-name } coma navegador per defaut
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Nòstra darrièra version es concebuda per vos, per far venir mai simple la navegacion pel Web. Aquesta darrièra version es fargada de foncionalitats que vos agradarà.
 mr2022-onboarding-get-started-primary-button-label = Configuracion dins un ais
 
 ## MR2022 Import Settings screen strings
@@ -355,6 +363,7 @@ mr2022-onboarding-mobile-download-title = Passatz d’un ordenador portatiu a un
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
 mr2022-upgrade-onboarding-pin-private-window-header = La libertat d’una navegacion privada en un clic
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Cap de cookies o d’istoric pas enregistrat. Navegatz sens vos sentir observat.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
         [macos] Gardar la navegacion privada de { -brand-short-name } al Dock
