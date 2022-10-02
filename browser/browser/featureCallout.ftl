@@ -18,3 +18,15 @@ callout-firefox-view-recently-closed-subtitle = ਤੁਹਾਡੀਆਂ ਸਾ�
 callout-firefox-view-colorways-title = ਰੰਗ ਛਿੜਕੋ
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = ਉਹ ਰੰਗ ਚੁਣੋ, ਜੋ ਤੁਹਾਡੇ ਰੰਗ-ਢੰਗ ਮੁਤਾਬਕ ਹੋਵੇ। ਸਿਰਫ { -brand-product-name } ਵਿੱਚ ਹੀ।
+callout-firefox-view-colorways-reminder-title = ਸਾਡੇ ਨਵੇਂ ਰੰਗ-ਢੰਗ ਦੀ ਪੜਤਾਲ ਕਰੋ
+# “Shades” refers to the different color options in each colorways
+callout-firefox-view-colorways-reminder-subtitle = ਇਹ ਨਿਸ਼ਾਨ ਵਾਲੇ ਸ਼ੇਡਾਂ ਨਾਲ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਰੰਗੋ, ਜੋ ਕਿ ਆਜ਼ਾਦ ਆਵਾਜ਼ਾਂ ਤੋਂ ਪ੍ਰੇਰਿਤ ਹਨ। ਸਿਰਫ਼ { -brand-product-name } ਨਾਲ।
+
+## Continuous Onboarding - Firefox View: Tab pick up
+
+# “Boost your browsing” refers to the added benefit the user receives from having
+# access to the same browsing experience when moving from one browser to another.
+# Alternative: ”Improve your browsing experience with tab pickup”
+continuous-onboarding-firefox-view-tab-pickup-title = ਟੈਬ ਚੋਣ ਨਾਲ ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਵਿੱਚ ਵਾਧਾ ਕਰੋ
+continuous-onboarding-firefox-view-tab-pickup-subtitle = ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ ਤੋਂ ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਵੇਖੋ, ਨਾਲ ਹੀ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਪਾਸਵਰਡਾਂ ਤੇ ਹੋਰ ਨੂੰ ਸਿੰਕ ਵੀ ਕਰੋ।
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = ਸ਼ੁਰੂ ਕਰੀਏ
