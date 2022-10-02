@@ -298,6 +298,10 @@ about-logins-import-report-modified =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">පවතින පිවිසුමක් යාවත්කාල විය</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">පවතින පිවිසුම් යාවත්කාල විය</div>
     }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="details">පිවිසුම් අනුපිටපත්</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="not-imported ">(ආයාත නොකෙරිණි)</div>
+    }
 about-logins-import-report-error =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">දෝෂ</div> <div data-l10n-name="not-imported" >(ආයාත කර නැත)</div>
