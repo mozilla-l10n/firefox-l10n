@@ -329,31 +329,37 @@ mr2022-onboarding-colorway-tooltip-playmaker =
     .title = Menatz
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Menaire/Menaira (roge)
+mr2022-onboarding-colorway-description-playmaker = <b>Menaire/Menaira.</b> Creatz d’escasenças per ganhar e ajudar lo monde a l'entorn de vos a elevar lor jòc.
 mr2022-onboarding-colorway-label-expressionist = Exprimissètz
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = Exprimissètz
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Expressionista (jaune)
+mr2022-onboarding-colorway-description-expressionist = <b>Expressionista.</b> Vesètz lo monde diferentament e vòstras creacions provòcan l’admiracion.
 mr2022-onboarding-colorway-label-visionary = Endevenissètz
 mr2022-onboarding-colorway-tooltip-visionary =
     .title = Endevenissètz
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Visionari/ària (verd)
+mr2022-onboarding-colorway-description-visionary = <b>Visionari/Visionària.</b> Questionatz los estatuts quo e incitatz los autres a imaginar un futur melhor.
 mr2022-onboarding-colorway-label-activist = Militatz
 mr2022-onboarding-colorway-tooltip-activist =
     .title = Militatz
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Militant/Militanta (blau)
+mr2022-onboarding-colorway-description-activist = <b>Activista.</b> Rendètz lo monde melhor qu’èra quand lo trobèretz e menatz los autres a creire al cambiament.
 mr2022-onboarding-colorway-label-dreamer = Somiatz
 mr2022-onboarding-colorway-tooltip-dreamer =
     .title = Somiatz
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Somiaire/somiaira  (violet)
+mr2022-onboarding-colorway-description-dreamer = <b>Somiaire/somiaira.</b> Cresètz que la fortuna afavorís los audacioses e inspira los demai a èsser valents.
 mr2022-onboarding-colorway-label-innovator = Innovatz
 mr2022-onboarding-colorway-tooltip-innovator =
     .title = Innovatz
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Innovador/Innovadora (irange)
+mr2022-onboarding-colorway-description-innovator = <b>Inventor/Inventritz.</b>Vesètz d’oportunitats pertot e afectatz la vida de vòstre monde.
 
 ## MR2022 Multistage Mobile Download screen strings
 
