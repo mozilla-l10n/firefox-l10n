@@ -77,6 +77,7 @@ browser-main-window-mac-window-titles =
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
 private-browsing-shortcut-text = { -brand-short-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
 
 ##
 
@@ -322,6 +323,9 @@ quickactions-cmd-update = ਅੱਪਡੇਟ ਕਰੋ
 # Opens the view-source UI with current pages source
 quickactions-viewsource = ਸਰੋਤ ਵੇਖੋ
 quickactions-cmd-viewsource = ਸਰੋਤ ਵੇਖੋ, ਸਰੋਤ
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = ਫ਼ੌਰੀ ਕਾਰਵਾਈਆਂ ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ
 
 ## Bookmark Panel
 
