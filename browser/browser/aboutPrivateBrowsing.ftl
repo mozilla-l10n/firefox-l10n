@@ -23,8 +23,12 @@ about-private-browsing-info-description-private-window = පෞද්. කවු
 about-private-browsing-info-description-simplified = ඔබ සියළුම පෞද්. කවුළු වසා දැමූ විට { -brand-short-name } මගින් ඔබගේ සෙවුම් සහ පිරික්සුම් ඉතිහාසය හිස් කෙරේ, නමුත් මෙය ඔබව නිර්නාමික නොකරයි.
 about-private-browsing-learn-more-link = තව දැනගන්න
 about-private-browsing-hide-activity = පිරික්සන සෑම තැනකින්ම ඔබගේ ක්‍රියාකාරකම් හා ස්ථානය සඟවන්න
+about-private-browsing-get-privacy = පිරික්සන සැමතැනට පෞද්ගලිකත්‍ව රැකවරණය ලබා ගන්න
+about-private-browsing-hide-activity-1 = පිරික්සුම් ක්‍රියාකාරකම් සහ ස්ථානය { -mozilla-vpn-brand-name } මගින් සඟවන්න. තනි එබීමකින් පොදු වයි-ෆයි හරහා පවා ආරක්‍ෂිත සම්බන්ධතාවයක් සාදයි.
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } සමඟ රහසිගතව සිටින්න
 about-private-browsing-focus-promo-cta = { -focus-brand-name } බාගන්න
+about-private-browsing-focus-promo-header = { -focus-brand-name }: යන ගමන් රහසිගතව පිරික්සන්න
+about-private-browsing-focus-promo-text = අපගේ සපර්පිත පෞද්ගලික පිරික්සුම් ජංගම යෙදුම සැමවිට ඔබගේ ඉතිහාසය හා දත්තකඩ හිස් කරයි.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
@@ -49,8 +53,10 @@ about-private-browsing-promo-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+about-private-browsing-pin-promo-header = තනි එබීමකින් නිදහසේ රහසිගතව පිරික්සන්න
 about-private-browsing-pin-promo-link-text =
     { PLATFORM() ->
         [macos] තැටියේ තබා ගන්න
        *[other] කාර්ය තීරුවට අමුණන්න
     }
+about-private-browsing-pin-promo-title = සුරකින ලද දත්තකඩ හෝ ඉතිහාස නැත. ඔබගේ වැඩතලය හරහා කිසිවෙකු නොබලන ලෙස පිරික්සන්න.
