@@ -51,6 +51,7 @@ firefoxview-mobile-confirmation-header = 🎉 Preta!
 firefoxview-mobile-confirmation-description = Vi nun povas malfermi viajn langetojn de { -brand-product-name } el via tabulkomputilo aŭ telefono.
 firefoxview-closed-tabs-title = Ĵuse fermitaj
 firefoxview-closed-tabs-description = Malfermi paĝojn, kiujn vi estis ferminta en tiu ĉi aparato.
+firefoxview-closed-tabs-description2 = Malfermi paĝojn, kiujn vi estis ferminta en tiu ĉi fenestro.
 firefoxview-closed-tabs-placeholder = <strong>Neniu ĵusa fermita paĝo</strong><br/>Neniam timu denove perdi fermitan langeton, vi povos ĝin ĉiam rehavi ĉi tie.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Laste aktiva
