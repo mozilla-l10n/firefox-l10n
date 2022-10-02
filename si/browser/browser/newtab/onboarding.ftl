@@ -356,6 +356,7 @@ mr2022-onboarding-no-mobile-download-cta-text = දුරකථනයට { -bran
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = තනි එබීමකින් නිදහසේ රහසිගතව පිරික්සන්න
 mr2022-upgrade-onboarding-pin-private-window-subtitle = සුරකින ලද දත්තකඩ හෝ ඉතිහාස නැත. ඔබගේ වැඩතලය හරහා කිසිවෙකු නොබලන ලෙස පිරික්සන්න.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
