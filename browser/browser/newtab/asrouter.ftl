@@ -212,5 +212,7 @@ firefoxview-cfr-body = Passatz d’un aparelh a l’autre sens relambi e apondè
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Digatz bonjorn a { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Avètz enveja de trapar un onglet dobèrt sus vòstre mobil ? Recuperatz-lo. Vos fa mestièr aquel site ? Shtac, es dins { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Veire coma fonciona
 firefoxview-spotlight-promo-secondarybutton = Passar
