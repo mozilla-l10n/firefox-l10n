@@ -713,6 +713,8 @@ bookmarks-tools =
     .label = Aisinas dels marcapaginas
 bookmarks-bookmark-edit-panel =
     .label = Modificar aqueste marcapagina
+bookmarks-subview-edit-bookmark =
+    .label = Modificar aqueste marcapagina…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -729,6 +731,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Onglet marcapagina actual
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Marcar l’onglet actual…
 
 ## Library Panel items
 
