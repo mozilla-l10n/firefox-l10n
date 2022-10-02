@@ -35,6 +35,8 @@ detail-version =
     .label = Versione
 detail-last-updated =
     .label = Ùrtima atualizatzione
+addon-detail-description-expand = Ammustra·nde de prus
+addon-detail-description-collapse = Ammustra·nde prus pagu
 detail-contributions-button = Contribui
     .title = Contribui a s'isvilupu de custu cumplementu
     .accesskey = C
@@ -49,6 +51,8 @@ detail-update-automatic =
 detail-update-manual =
     .label = Disativadas
     .tooltiptext = No installes is atualizatziones in automàticu
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Imprea in is ventanas privadas
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Disativada in is ventanas privadas
@@ -244,11 +248,13 @@ preferences-addon-button =
        *[other] Preferèntzias
     }
 details-addon-button = Detàllios
+release-notes-addon-button = Notas de sa versione
 permissions-addon-button = Permissos
 extension-enabled-heading = Ativadas
 extension-disabled-heading = Disativadas
 theme-enabled-heading = Ativadu
 theme-disabled-heading = Disativados
+theme-disabled-heading2 = Temas sarvados
 plugin-enabled-heading = Ativados
 plugin-disabled-heading = Disativados
 dictionary-enabled-heading = Ativados
@@ -284,6 +290,13 @@ addon-detail-updates-radio-on = Eja
 addon-detail-updates-radio-off = Nono
 addon-detail-update-check-label = Controlla atualizatziones
 install-update-button = Agiorna
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Permìtida in is ventanas privadas
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
+addon-detail-private-browsing-allow = Permite
+addon-detail-private-browsing-disallow = Non permitas
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -291,6 +304,9 @@ install-update-button = Agiorna
 
 ##
 
+available-updates-heading = Atualizatziones a disponimentu
+recent-updates-heading = Atualizatziones reghentes
+release-notes-loading = Carrighende…
 addon-permissions-learnmore = Àteras informatziones subra de is permissos
 
 ## Page headings
