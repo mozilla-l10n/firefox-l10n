@@ -42,3 +42,7 @@ toolbox-mode-parent-process-label = Nur gepatra procezo
 toolbox-mode-parent-process-sub-label = (Rapida)
 toolbox-mode-parent-process-container =
     .title = Koncentriĝi nur sur aktivaj rimedoj el la gepatra procezo.
+toolbox-always-on-top-enabled =
+    .title = Malaktivigi 'ĉiam supre' (tio rekomencos la ilojn por programistoj)
+toolbox-always-on-top-disabled =
+    .title = Aktivigi 'ĉiam supre' (tio rekomencos la ilojn por programistoj)

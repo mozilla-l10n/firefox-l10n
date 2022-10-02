@@ -4,22 +4,18 @@
 
 page-info-window =
     .style = width: 600px; min-height: 500px;
-
 copy =
     .key = C
 menu-copy =
     .label = Kopii
     .accesskey = K
-
 select-all =
     .key = A
 menu-select-all =
     .label = Elekti ĉion
     .accesskey = E
-
 close-dialog =
     .key = w
-
 general-tab =
     .label = Ĝenerala
     .accesskey = e
@@ -43,7 +39,6 @@ general-meta-name =
     .label = Nomo
 general-meta-content =
     .label = Enhavo
-
 media-tab =
     .label = Komunikrimedoj
     .accesskey = K
@@ -65,19 +60,20 @@ media-dimension =
     .value = Dimensioj:
 media-long-desc =
     .value = Longa priskribo:
+media-select-all =
+    .label = Elekti ĉion
+    .accesskey = E
 media-save-as =
     .label = Konservi kiel…
     .accesskey = n
 media-save-image-as =
     .label = Konservi kiel…
     .accesskey = e
-
 perm-tab =
     .label = Permesoj
     .accesskey = P
 permissions-for =
     .value = Permesoj por:
-
 security-tab =
     .label = Sekureco
     .accesskey = S
@@ -98,22 +94,17 @@ security-view-identity-validity =
     .value = Eksvalidiĝas je:
 security-view-privacy =
     .value = Privateco kaj historio
-
 security-view-privacy-history-value = Ĉu mi vizitis tiun ĉi retejon antaŭ ol hodiaŭ?
 security-view-privacy-sitedata-value = Ĉu tiu ĉi retejo konservas informojn en mia komputilo?
-
 security-view-privacy-clearsitedata =
     .label = Viŝi kuketojn kaj retejajn datumojn
     .accesskey = V
-
 security-view-privacy-passwords-value = Ĉu mi konservis pasvortojn por tiu ĉi retejo?
-
 security-view-privacy-viewpasswords =
     .label = Vidi konservitajn pasvortojn
     .accesskey = v
 security-view-technical =
     .value = Teĥnikaj detaloj
-
 help-button =
     .label = Helpo
 
@@ -125,7 +116,6 @@ help-button =
 
 security-site-data-cookies = Jes, kuketojn kaj { $value } { $unit } da retejaj datumoj
 security-site-data-only = Jes, { $value } { $unit } da retejaj datumoj
-
 security-site-data-cookies-only = Jes, kuketojn
 security-site-data-no = Ne
 
@@ -149,7 +139,6 @@ media-video = Filmeto
 media-audio = Sono
 saved-passwords-yes = Jes
 saved-passwords-no = Ne
-
 no-page-title =
     .value = Paĝo sen titolo
 general-quirks-mode =
@@ -164,7 +153,6 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Uzi normon
 security-no-visits = Ne
-
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -175,7 +163,6 @@ general-meta-tags =
             [one] Meta (1 etikedo)
            *[other] Meta ({ $tags } etikedoj)
         }
-
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -186,7 +173,6 @@ security-visits-number =
         [one] Jes, unufoje
        *[other] Jes, { $visits } fojojn
     }
-
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -197,7 +183,6 @@ properties-general-size =
             [one] { $kb } KO ({ $bytes } okteto)
            *[other] { $kb } KO ({ $bytes } oktetoj)
         }
-
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -209,14 +194,12 @@ media-animated-image-type =
             [one] { $type } bildo (moviĝanta, { $frames } kadro)
            *[other] { $type } bildo (moviĝanta, { $frames } kadroj)
         }
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } bildo
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -226,20 +209,17 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (skaligita al { $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KO
-
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -247,11 +227,10 @@ media-file-size = { $size } KO
 media-block-image =
     .label = Bloki bildojn el { $website }
     .accesskey = B
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
-#   $website (string) - The url of the website pageInfo is getting info for
+#   $website (string) — The url of the website pageInfo is getting info for
 page-info-page =
     .title = Informo pri paĝo - { $website }
 page-info-frame =
