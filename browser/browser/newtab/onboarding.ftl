@@ -324,14 +324,18 @@ mr2022-onboarding-import-primary-button-label-no-attribution = Inportatu aurreko
 mr2022-onboarding-colorway-title = Aukeratu inspiratzen zaituen kolorea
 mr2022-onboarding-colorway-subtitle = Ahots independenteek kultura alda dezakete.
 mr2022-onboarding-colorway-primary-button-label = Ezarri kolore-konbinazioa
+mr2022-onboarding-colorway-primary-button-label-continue = Ezarri eta jarraitu
 mr2022-onboarding-existing-colorway-checkbox-label = Egizu { -firefox-home-brand-name } zure hasiera-orri koloretsua
 mr2022-onboarding-colorway-label-default = Lehenetsia
 mr2022-onboarding-colorway-tooltip-default =
     .title = Lehenetsia
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = Uneko { -brand-short-name } koloreak
 mr2022-onboarding-colorway-description-default = <b>Erabili uneko nire { -brand-short-name } koloreak.</b>
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Egin salto ordenagailu eramangarritik telefonora eta atzera
 mr2022-onboarding-mobile-download-cta-text = Eskaneatu QR kodea mugikorrerako { -brand-product-name } lortzeko edo <a data-l10n-name="download-label">bidal iezaiozu deskarga-lotura zure buruari.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Eskaneatu QR kodea mugikorrerako { -brand-product-name } lortzeko.
 
