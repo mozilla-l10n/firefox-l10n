@@ -160,6 +160,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = පිටුවේ මූලික ශෛලිය
     .accesskey = B
+menu-view-repair-text-encoding =
+    .label = පෙළ ආකේතනය අලුත්වැඩියාව
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -179,6 +182,9 @@ menu-view-full-screen =
 menu-view-show-all-tabs =
     .label = සියළු පටිති පෙන්වන්න
     .accesskey = A
+menu-view-bidi-switch-page-direction =
+    .label = පිටුවේ දිශාව මාරුව
+    .accesskey = D
 
 ## History Menu
 
