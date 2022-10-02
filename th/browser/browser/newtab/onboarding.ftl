@@ -291,13 +291,9 @@ mr2022-onboarding-colorway-tooltip-default =
 mr2022-onboarding-colorway-label-playmaker = เพลย์เมคเกอร์
 mr2022-onboarding-colorway-tooltip-playmaker =
     .title = เพลย์เมคเกอร์
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = { "" }
 mr2022-onboarding-colorway-label-expressionist = นักแสดงออก
 mr2022-onboarding-colorway-tooltip-expressionist =
     .title = นักแสดงออก
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = { "" }
 
 ## MR2022 Multistage Mobile Download screen strings
 
