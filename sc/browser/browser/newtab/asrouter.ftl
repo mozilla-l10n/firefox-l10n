@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Funtzionalidade cussigiada
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pro ite bido custu?
-
 cfr-doorhanger-extension-cancel-button = Immoe nono
     .accesskey = I
-
 cfr-doorhanger-extension-ok-button = Agiunghe immoe
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Gesti sa cunfiguratzione de is cussìgios
     .accesskey = G
-
 cfr-doorhanger-extension-never-show-recommendation = No m'ammustres prus custu cussìgiu
     .accesskey = o
-
 cfr-doorhanger-extension-learn-more-link = Àteras informatziones
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = dae { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Cussìgiu
 cfr-doorhanger-extension-notification2 = Cussìgiu
     .tooltiptext = Estensione cussigiada
     .a11y-announcement = Estensione cussigiada a disponimentu
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Cussìgiu
@@ -85,11 +77,9 @@ cfr-protections-panel-link-text = Àteras informatziones
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Funtzionalidade noa:
-
 cfr-whatsnew-button =
     .label = Novidades
     .tooltiptext = Novidades
-
 cfr-whatsnew-release-notes-link-text = Leghe is notas de sa versione
 
 ## Enhanced Tracking Protection Milestones
@@ -166,6 +156,7 @@ spotlight-total-cookie-protection-body = S'amparu totale contra is testimòngios
 spotlight-total-cookie-protection-expanded = { -brand-short-name } creat una cresura a inghìriu de is testimòngios, limitende·ddos a su situ in ue ses, in manera chi is sighidores non ddos potzant impreare pro ti sighire. Impreende custa funtzionalidade in antìtzipu, as a agiudare a dda megiorare, pro creare una rete megiore pro totus.
 spotlight-total-cookie-protection-primary-button = Ativa s'amparu totale contra is testimòngios
 spotlight-total-cookie-protection-secondary-button = Immoe nono
+cfr-total-cookie-protection-header = Gràtzias a tue, { -brand-short-name } est prus privadu e seguru comente chi mai!
 
 ## Emotive Continuous Onboarding
 
@@ -179,3 +170,23 @@ spotlight-pin-primary-button =
        *[other] Apica a sa barra de is tareas
     }
 spotlight-pin-secondary-button = Immoe nono
+
+## MR2022 Background Update Windows native toast notification strings.
+##
+## These strings will be displayed by the Windows operating system in
+## a native toast, like:
+##
+## <b>multi-line title</b>
+## multi-line text
+## <img>
+## [ primary button ] [ secondary button ]
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+
+## Firefox View CFR
+
+
+## Firefox View Spotlight
+

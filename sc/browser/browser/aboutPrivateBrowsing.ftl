@@ -22,12 +22,10 @@ about-private-browsing-not-private = Immoe non ses in una ventana privada.
 about-private-browsing-info-description-private-window = Ventana privada: { -brand-short-name } lìmpiat sa cronologia de chirca e de navigatzione cando serras totu is ventanas privadas. Non ti faghet abarrare in anònimu.
 about-private-browsing-info-description-simplified = { -brand-short-name } lìmpiat sa cronologia de chirca e de navigatzione cando serras totu is ventanas privadas, ma non ti faghet abarrare in anònimu.
 about-private-browsing-learn-more-link = Àteras informatziones
-
 about-private-browsing-hide-activity = Cua s'atividade e sa positzione tuas, in onni situ chi sias bisitende
 about-private-browsing-get-privacy = Ampara sa riservadesa tua in onni situ chi sias bisitende
 about-private-browsing-hide-activity-1 = Cua s'atividade e sa positzione tuas cun { -mozilla-vpn-brand-name }. Crea una connessione segura cun unu clic ebbia, fintzas in retes Wi-Fi pùblicas.
 about-private-browsing-prominent-cta = Ampara sa riservadesa tua cun { -mozilla-vpn-brand-name }
-
 about-private-browsing-focus-promo-cta = Iscàrriga { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: navigatzione privada in ònnia logu
 about-private-browsing-focus-promo-text = S'aplicatzione mòbile nostra progetada pro sa navigatzione anònima lìmpiat sa cronologia e is testimòngios ònnia borta.
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = Bati sa navigatzione privada a su 
 about-private-browsing-focus-promo-text-b = Imprea { -focus-brand-name } pro cuddas chircas privadas chi non boles a ddas bìdere su navigadore printzipale tuo.
 about-private-browsing-focus-promo-header-c = Riservadesa de livellu superiore pro dispositivos mòbiles
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } lìmpiat sa cronologia ònnia borta, blochende fintzas publitzidade e sighidores.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,6 +48,15 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Serra
-
 about-private-browsing-promo-close-button =
     .title = Serra
+
+## Strings used in a “pin promotion” message, which prompts users to pin a private window
+
+about-private-browsing-pin-promo-header = Sa libertade de sa navigatzione privada in un'incarcada
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] Apica in su Dock
+       *[other] Apica a sa barra de is tareas
+    }
+about-private-browsing-pin-promo-title = Nissunu testimòngiu nen cronologia, deretu dae s'iscrivania tua. Nàviga comente si nemos ti càstiet.
