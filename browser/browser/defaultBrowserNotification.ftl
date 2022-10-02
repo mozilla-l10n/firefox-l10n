@@ -14,6 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = { -brand-short-name } ප්‍රාථමික අතිරික්සුව කරන්න ද?
 default-browser-prompt-message-pin = { -brand-short-name } ඔබගේ ඇඟිලි තුඩුවල තබා ගන්න — එය පෙරනිමි අතිරික්සුව කර ඔබගේ කාර්ය තීරුවට අමුණන්න.
+default-browser-prompt-message-pin-mac = { -brand-short-name } ඔබගේ ඇඟිලි තුඩුවල තබා ගන්න — එය පෙරනිමි අතිරික්සුව කර ඔබගේ තැටියෙහි තබාගන්න.
 default-browser-prompt-button-primary-pin = ප්‍රාථමික අතිරික්සුව කරන්න
 default-browser-prompt-title-alt = { -brand-short-name } පෙරනිමි අතිරික්සුව කරන්න
 default-browser-prompt-message-alt = සැමවිට වේගයයෙන්, ආරක්‍ෂිතව සහ පෞද්ගලිකව පිරික්සන්න.

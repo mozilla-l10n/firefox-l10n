@@ -17,6 +17,7 @@ firefoxview-just-now-timestamp = මේ දැන්
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = පටිති ඇහිඳීම
 firefoxview-tabpickup-description = වෙනත් උපාංගවලින් පිටු බලන්න.
+firefoxview-tabpickup-recenttabs-description = මෑත පටිති ලේඛනය මෙතැනයි
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% සම්පූර්ණයි
@@ -62,6 +63,7 @@ firefoxview-change-colorway-button = වර්ණ පරාසය සංශෝ�
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>තවමත් දැකීමට කිසිවක් නැත</strong><br/> ඊළඟ වතාවේ වෙනත් උපාංගයකින් { -brand-product-name } හරහා පිටුවක් විවෘත කරන විට, එය විජ්ජාවක මෙන් මෙතැනින් ඇහිඳින්න.
 firefoxview-collapse-button-show =
     .title = ලේඛනය පෙන්වන්න
 firefoxview-collapse-button-hide =

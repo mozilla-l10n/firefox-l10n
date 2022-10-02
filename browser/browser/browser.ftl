@@ -785,6 +785,7 @@ toolbar-button-new-private-window =
 
 ## EME notification panel
 
+eme-notifications-drm-content-playing = මෙම වියමන අඩවියෙහි තිබෙන ඇතැම් හඬපට හෝ දෘශ්‍යක සඳහා DRM මෘදුකාංග භාවිතා කරන නිසා { -brand-short-name } හරහා ඔබට එය සමඟ කළ හැකි දෑ සීමා විය හැකිය.
 eme-notifications-drm-content-playing-manage = සැකසුම් අරින්න
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = ඉවතලන්න
