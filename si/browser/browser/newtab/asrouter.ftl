@@ -21,6 +21,10 @@ cfr-doorhanger-extension-manage-settings-button = නිර්දේශිත �
 cfr-doorhanger-extension-never-show-recommendation = මෙම නිර්දේශය යළි නොපෙන්වන්න
     .accesskey = S
 cfr-doorhanger-extension-learn-more-link = තව දැනගන්න
+# This string is used on a new line below the add-on name
+# Variables:
+#   $name (String) - Add-on author name
+cfr-doorhanger-extension-author = කර්තෘ: { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = නිර්දේශය
@@ -56,6 +60,7 @@ cfr-doorhanger-extension-total-users =
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = පොත්යොමු ඕනෑම තැනකට සමමුහූර්ත කරන්න.
+cfr-doorhanger-bookmark-fxa-body = කදිම සොයා ගැනීමක්! ඔබගේ ජංගම උපාංගවල මෙම පොත්යොමුව රහිතව නොසිටින්න. { -fxaccount-brand-name } සමඟ පටන් ගන්න.
 cfr-doorhanger-bookmark-fxa-link-text = පොත්යොමු දැන් සමමුහූර්ත කරන්න…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = බොත්තම වසන්න
