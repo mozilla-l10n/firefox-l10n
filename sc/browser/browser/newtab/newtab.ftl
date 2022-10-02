@@ -238,6 +238,9 @@ newtab-pocket-last-card-title = As giai bidu totu!
 newtab-pocket-last-card-desc = Torra·nde a chircare prus a tardu.
 newtab-pocket-last-card-image =
     .alt = As giai bidu totu
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Sarva
+newtab-pocket-saved = Sarvadu
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

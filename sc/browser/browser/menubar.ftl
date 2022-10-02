@@ -38,11 +38,9 @@ menu-quit =
             [windows] E
            *[other] E
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Essi de { -brand-shorter-name }
-
 menu-about =
     .label = Informatziones de { -brand-shorter-name }
     .accesskey = I
@@ -225,6 +223,10 @@ menu-bookmark-current-tab =
     .label = Pone s'ischeda atuale in is sinnalibros
 menu-bookmark-edit =
     .label = Modìfica custu sinnalibru
+menu-bookmark-tab =
+    .label = Pone s'ischeda atuale in is sinnalibros…
+menu-edit-bookmark =
+    .label = Modìfica custu sinnalibru…
 menu-bookmarks-all-tabs =
     .label = Pone totu is ischedas in is sinnalibros...
 menu-bookmarks-toolbar =
