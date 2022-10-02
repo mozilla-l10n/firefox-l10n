@@ -6,9 +6,14 @@
 ## Colorway collections
 
 colorway-collection-independent-voices = Boghes indipendentes
+colorway-collection-independent-voices-description = Su colore podet cambiare sa cultura. Is ùrtimas cumbinatziones de colores tzèlebrant is boghes chi faghent de su mundu unu logu mègius.
+# Used as a subheading for the colorway collection card in about:addons
+colorway-collection-independent-voices-short-description = Colores chi càmbiant sa cultura.
 
 ## Colorway names and descriptions
 
+playmaker-colorway-name = Regista
+playmaker-colorway-description = Creas oportunidades pro bìnchere e agiudare a chie tenes acanta a megiorare su giogu.
 expressionist-colorway-name = Espressionista
 expressionist-colorway-description = Bides su mundu in una manera diversa e is creatziones tuas iscidant is emotziones de àtere.
 visionary-colorway-name = Bisadora
