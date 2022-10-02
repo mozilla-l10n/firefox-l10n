@@ -46,6 +46,7 @@ firefoxview-mobile-promo-header = Recuperatz los onglets de vòstre mobil o vòs
 firefoxview-mobile-promo-description = Per veire los darrièrs onglets de vòstre aparelh mobil, connectatz-vos a { -brand-product-name } sus iOS o Android.
 firefoxview-mobile-promo-primarybutton = Installatz { -brand-product-name } per mobil
 firefoxview-mobile-confirmation-header = 🎉 Tot es prèst !
+firefoxview-mobile-confirmation-description = Podètz ara recuperar los onglets { -brand-product-name } de vòstra tauleta o mobil.
 firefoxview-closed-tabs-title = Tampats recentament
 firefoxview-closed-tabs-description = Tornatz dobrir las paginas qu’avètz tampadas sus aqueste aparelh.
 firefoxview-closed-tabs-description2 = Tornatz dobrir las paginas qu’avètz tampadas dins aquesta pagina.
@@ -63,6 +64,7 @@ firefoxview-change-colorway-button = Cambiar de colorits
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder = <strong>I a pas res pel moment</strong><br/>Lo còp que ven que dobrissètz una pagina dins { -brand-product-name } sus un autre aparelh, lo poiretz trapar aicí coma per magia.
 firefoxview-collapse-button-show =
     .title = Afichar la lista
 firefoxview-collapse-button-hide =

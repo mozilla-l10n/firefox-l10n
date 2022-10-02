@@ -157,6 +157,9 @@ spotlight-total-cookie-protection-expanded = { -brand-short-name } crèa una bar
 spotlight-total-cookie-protection-primary-button = Activar la proteccion totala contra los cookies
 spotlight-total-cookie-protection-secondary-button = Pas ara
 cfr-total-cookie-protection-header = Gràcia a vos, { -brand-short-name } es mai privat e segur que jamai
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch". Only those who received it and accepted are shown this message.
+cfr-total-cookie-protection-body = La Proteccion totala contra los cookies es la foncion de proteccion de la vida privada mai potenta actualament – e es ara per defaut lo parametratge pels utilizaires { -brand-short-name } de pertot. O auriam pas pogut realizar sens los provaires coma vos. Mercés de nos ajudar a crear un Internet melhor e mai privat.
 
 ## Emotive Continuous Onboarding
 
@@ -185,6 +188,7 @@ spotlight-pin-secondary-button = Pas ara
 ## Windows and therefore must be as narrow as possible.
 
 mr2022-background-update-toast-title = { -brand-short-name } novèl. Mai privat. Mens de traçadors. Cap de compromés.
+mr2022-background-update-toast-text = Ensajatz lo novèl { -brand-short-name } ara, mes a nivèl amb una proteccion fòrta contra lo seguiment.
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
@@ -203,6 +207,7 @@ firefoxview-cfr-primarybutton = Ensajar
 firefoxview-cfr-secondarybutton = Pas ara
     .accesskey = P
 firefoxview-cfr-header = Recuperatz los onglets recentament tampatz gràcia a { -firefoxview-brand-name }
+firefoxview-cfr-body = Passatz d’un aparelh a l’autre sens relambi e apondètz una tòca de color a vòstre navegador.
 
 ## Firefox View Spotlight
 
