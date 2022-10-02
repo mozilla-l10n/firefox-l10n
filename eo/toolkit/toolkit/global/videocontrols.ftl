@@ -45,6 +45,7 @@ videocontrols-picture-in-picture-toggle-label2 = Elstarigi tiun ĉi filmeton
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer2 = Pli da ekranoj signifas pli da ĝuo. Ludu tiun ĉi filmeton inkrustite dum vi retumas.
+videocontrols-picture-in-picture-explainer3 = Estas pli amuze per pli da ekranoj. Ludu tiun ĉi filmeton dum vi faras aliajn aferojn.
 videocontrols-error-aborted = Ŝargado de video haltigita.
 videocontrols-error-network = Ludado de video abortita pro eraro en la reto.
 videocontrols-error-decode = Ne eblas ludi la videon ĉar la dosiero estas difektita.
