@@ -5,77 +5,59 @@
 permissions-window =
     .title = חריגות
     .style = width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = כתובת אתר
     .accesskey = ת
-
 permissions-block =
     .label = חסום
     .accesskey = ח
-
 permissions-session =
     .label = הרשה למשך ההפעלה
     .accesskey = מ
-
 permissions-allow =
     .label = הרשה
     .accesskey = ש
-
 permissions-button-off =
     .label = כיבוי
     .accesskey = כ
-
 permissions-button-off-temporarily =
     .label = כיבוי באופן זמני
     .accesskey = ז
-
 permissions-site-name =
     .label = אתר
-
 permissions-status =
     .label = מצב
-
 permissions-remove =
     .label = הסרת אתר
     .accesskey = ה
-
 permissions-remove-all =
     .label = הסרת כל האתרים
     .accesskey = ס
-
 permission-dialog =
     .buttonlabelaccept = שמירת שינויים
     .buttonaccesskeyaccept = ש
-
 permissions-autoplay-menu = ברירת מחדל עבור כל האתרים:
-
 permissions-searchbox =
     .placeholder = חיפוש אתר
-
 permissions-capabilities-autoplay-allow =
     .label = הפעלת שמע ווידאו
 permissions-capabilities-autoplay-block =
     .label = חסימת שמע
 permissions-capabilities-autoplay-blockall =
     .label = חסימת שמע ווידאו
-
 permissions-capabilities-allow =
     .label = הרשה
 permissions-capabilities-block =
     .label = חסום
 permissions-capabilities-prompt =
     .label = לשאול תמיד
-
 permissions-capabilities-listitem-allow =
     .value = הרשה
 permissions-capabilities-listitem-block =
     .value = חסום
 permissions-capabilities-listitem-allow-session =
     .value = הרשה למשך ההפעלה
-
 permissions-capabilities-listitem-off =
     .value = כבוי
 permissions-capabilities-listitem-off-temporarily =
@@ -119,6 +101,9 @@ permissions-exceptions-popup-desc = באפשרותך לציין לאלו אתר�
 permissions-exceptions-saved-logins-window =
     .title = חריגות – פרטי כניסה שמורים
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = חריגות – פרטי כניסה שמורים
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = פרטי הכניסה לאתרים הבאים לא יישמרו
 
 ## Exceptions - Add-ons
