@@ -353,6 +353,9 @@ auto-mark-as-read =
 mark-read-no-delay =
     .label = Okamžite po zobrazení
     .accesskey = O
+view-attachments-inline =
+    .label = Zobrazovať prílohy ako súčasť textu
+    .accesskey = x
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
