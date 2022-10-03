@@ -113,6 +113,9 @@ permissions-exceptions-addons-desc = कुठल्या संकेतस्
 permissions-site-autoplay-window =
     .title = सेटिंग - ऑटोप्ले
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = सेटिंग - ऑटोप्ले
+    .style = { permissions-window2.style }
 
 ## Site Permissions - Notifications
 
