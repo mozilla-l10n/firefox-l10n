@@ -5,15 +5,15 @@
 app-manager-window =
     .title = Մանրամասն տեղեկություն
     .style = width: 35em; min-height: 25em;
-
+app-manager-window2 =
+    .title = Մանրամասն տեղեկություն
+    .style = min-width: 35em; min-height: 25em;
 app-manager-remove =
     .label = Հեռացնել
     .accesskey = Հ
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = { $type } հղումներ-ի հետ աշխատելու համար կարող են օգտագործվել հատևյալ ծրագրերը:
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = { $type }-ի բովանդակությունը-ի հետ աշխատելու համար կարող են օգտագործվել հատևյալ ծրագրերը:
