@@ -107,7 +107,7 @@ permissions-exceptions-popup-window =
     .title = Tillåtna webbplatser - popup-fönster
     .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
-    .title = Tillåtna webbplatser - popup-fönster
+    .title = Tillåtna webbplatser - Popup-fönster
     .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Du kan ange vilka webbplatser som får öppna popup-fönster. Skriv in adressen till platsen du vill godkänna och klicka på Tillåt.
 
