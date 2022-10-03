@@ -83,6 +83,9 @@ permissions-exceptions-etp-desc = آپ نے ان ویب سائٹوں پر تحف
 permissions-exceptions-cookie-window =
     .title = استثنیات - کوکیز اور سائٹ کا ڈیٹا
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = استثنیات - کوکیز اور سائٹ کا ڈیٹا
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = آپ اختصاص کر سکتے ہیں کی کس ویب سائٹس کو ہمیشہ یا کبھی کوکیز اور سائٹ کا ڈیٹا کو استعمال کرنے کی اجازت ہے۔ اس سائٹ کا پرا نام ٹائپ کرے جسکا آپ انتظام کرنا چاھتے ہے اور پھر کلک کریں بلاک، سیشن کے لئے اجازت دے، یا اجازت دے۔
 
 ## Exceptions - HTTPS-Only Mode
@@ -93,6 +96,9 @@ permissions-exceptions-cookie-desc = آپ اختصاص کر سکتے ہیں کی
 permissions-exceptions-popup-window =
     .title = اجازت دی ویب سائٹ - پاپ اپ
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = اجازت دی ویب سائٹ - پاپ اپ
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = آپ اختصاص کر سکتے ہیں کہ کونسی سائٹیں پاپ اپ کھولنے کے لیے اجازت دادہ ہیں۔ جس سائٹ کو اجازت دینا چاہتے ہیں اس کا ٹھیک ٹھیک پتہ ٹائپ کریں اور پھر اجازت دیں پر کلک کریں۔
 
 ## Exceptions - Saved Logins
