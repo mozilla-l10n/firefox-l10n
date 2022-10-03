@@ -5,16 +5,16 @@
 containers-window-new =
     .title = Yeni kapsayıcı ekle
     .style = width: 45em
-
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings =
     .title = { $name } Kapsayıcısı Ayarları
     .style = width: 45em
-
+containers-window-new2 =
+    .title = Yeni kapsayıcı ekle
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -25,26 +25,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Ad
     .accesskey = A
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Bir kapsayıcı ismi yazın
-
 containers-icon-label = Simge
     .accesskey = S
     .style = { -containers-labels-style }
-
 containers-color-label = Renk
     .accesskey = R
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = Tamam
     .buttonaccesskeyaccept = m
-
 containers-color-blue =
     .label = Mavi
 containers-color-turquoise =
@@ -63,7 +57,6 @@ containers-color-purple =
     .label = Mor
 containers-color-toolbar =
     .label = Araç çubuğunu eşleştir
-
 containers-icon-fence =
     .label = Çit
 containers-icon-fingerprint =
