@@ -99,8 +99,12 @@ vcard-note-add = 添加备注
 
 vcard-org-title = 职位
 vcard-org-role = 角色
+vcard-org-org-unit = 部门
 
 # Custom properties
 
 vcard-custom-header = 自定义属性
 vcard-custom-add = 添加自定义属性
+vcard-remove-button-title =
+    .title = 移除
+vcard-remove-button = 移除
