@@ -5,11 +5,9 @@
 pane-general-title = Nána
 category-general =
     .tooltiptext = { pane-general-title }
-
 pane-search-title = Jénode
 category-search =
     .tooltiptext = { pane-search-title }
-
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 
@@ -35,12 +33,9 @@ restart-later = Úire abɨdo taineye
 ## General Section
 
 startup-header = Táɨnia
-
 is-default = { -brand-short-name } ó makara ja beno íte
 is-not-default = { -brand-short-name } ó makara ja beno íte
-
 tabs-group-header = Úitɨraɨ
-
 show-tabs-in-taskbar =
     .label = Akatari úitɨraɨ radozi Windows íyano
     .accesskey = k
@@ -50,21 +45,16 @@ show-tabs-in-taskbar =
 advanced-fonts =
     .label = Árifene...
     .accesskey = Á
-
 choose-language-description = Ñúe úiado nɨze web jenoyena
-
 choose-button =
     .label = Nɨzede...
     .accesskey = z
-
 translate-web-pages =
     .label = Web íyano jɨaɨe úiaido jone
     .accesskey = W
-
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Jɨaɨe úiaido jonega bíedo <img data-l10n-name="logo"/> .
-
 translate-exceptions =
     .label = Jɨ́aɨmakɨ…
     .accesskey = a
@@ -72,14 +62,8 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = Yúnua
-
-download-save-to =
-    .label = Dáma jone bénomo
-    .accesskey = D
-
 download-save-where = Dáma jone bénomo
     .accesskey = D
-
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -91,33 +75,26 @@ download-choose-folder =
             [macos] N
            *[other] é
         }
-
 applications-type-column =
     .label = Ráa ofítaɨra ízoi
     .accesskey = í
-
 applications-action-column =
     .label = Fɨnoka
     .accesskey = F
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Fɨnoka { $app-name }
-
 applications-use-other =
     .label = Jɨaɨe fɨno...
-
 applications-manage-app =
     .label = Ráanɨ rafúe...
 applications-always-ask =
     .label = Jɨkánori
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -129,19 +106,14 @@ applications-use-plugin-in =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -155,7 +127,6 @@ play-drm-content-learn-more = Aiyo onóde
 ## General Section - Browsing
 
 browsing-title = Makara
-
 browsing-use-autoscroll =
     .label = Dama gɨgɨta jone
     .accesskey = g
@@ -182,7 +153,6 @@ use-current-pages =
            *[other] Bírui íte rabenɨaɨ fɨno
         }
     .accesskey = f
-
 choose-bookmark =
     .label = Rɨgɨnua fɨno…
     .accesskey = f
@@ -220,7 +190,6 @@ sync-mobile-promo = Firefox yunude nɨbai <img data-l10n-name="android-icon"/> <
 
 sync-profile-picture =
     .tooltiptext = Jɨaɨe jóreño ó náama mamekɨmo jóne
-
 sync-signedin-unverified = Fákara íyano... { $email } Naɨ éroñega.
 sync-signedin-login-failure = Ábɨno nitayena taɨne yuamo { $email } Ábɨno nitayena taɨne yuamo
 
@@ -235,7 +204,6 @@ sync-signedin-login-failure = Ábɨno nitayena taɨne yuamo { $email } Ábɨno n
 sync-engine-bookmarks =
     .label = Rɨgɨnua
     .accesskey = R
-
 sync-engine-history =
     .label = Jáganɨaɨ
     .accesskey = a
@@ -252,7 +220,6 @@ sync-device-name-header = Jóriaɨ mámekɨ
 forms-exceptions =
     .label = Jɨ́aɨmakɨ…
     .accesskey = a
-
 forms-saved-logins =
     .label = Taɨnede yuamo ñúe jonega…
     .accesskey = T
@@ -266,28 +233,22 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Jagaɨ
-
 history-remember-option-all =
     .label = Jágaɨ úibiri
 history-remember-option-never =
     .label = Jágaɨ úibiñeniri
 history-remember-option-custom =
     .label = Kúe dama ñúe fɨnoyena jagaɨ
-
 history-dontremember-description = { -brand-short-name } ó dama ñúe fɨnoye taɨjira, ó makara jagaɨ bemomo joneniye web íyano
-
 history-private-browsing-permanent =
     .label = Dama& ó makara benomo íri
     .accesskey = p
-
 history-remember-search-option =
     .label = Úibiri jagaɨmo rabe kúeyena ja jenoka
     .accesskey = f
-
 history-clear-on-close-option =
     .label = Jagaɨ ɨbaɨ íemei óni óno { -brand-short-name }
     .accesskey = J
-
 history-clear-on-close-settings =
     .label = Abɨdo  fɨnoka...
     .accesskey = A
@@ -320,11 +281,9 @@ addressbar-locbar-openpage-option =
 ## Privacy Section - Permissions
 
 permissions-notification = Ráfue yote
-
 permissions-block-popups =
     .label = Eroirafo zúiya ɨ́bai
     .accesskey = E
-
 permissions-addon-exceptions =
     .label = Jɨ́aɨmakɨ…
     .accesskey = J

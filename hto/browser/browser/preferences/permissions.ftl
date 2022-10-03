@@ -5,21 +5,19 @@
 permissions-window =
     .title = Kúena dama jananɨaɨ
     .style = width: 45em
-
+permissions-window2 =
+    .title = Kúena dama jananɨaɨ
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
-
 permissions-block =
     .label = Ɨ́baika
     .accesskey = Ɨ
-
 permissions-allow =
     .label = Jɨɨ
     .accesskey = J
-
 permissions-status =
     .label = Táɨnia
-
 permissions-capabilities-allow =
     .label = Jɨɨ
 permissions-capabilities-block =
@@ -36,6 +34,7 @@ permissions-capabilities-block =
 
 ## Exceptions - HTTPS-Only Mode
 
+
 ## Exceptions - Pop-ups
 
 
@@ -45,9 +44,8 @@ permissions-capabilities-block =
 ## Exceptions - Add-ons
 
 
-## Exceptions - Autoplay Media
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -56,6 +54,7 @@ permissions-capabilities-block =
 
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 
