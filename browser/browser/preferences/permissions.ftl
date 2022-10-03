@@ -76,6 +76,9 @@ permissions-invalid-uri-label = გთხოვთ მიუთითოთ ს�
 permissions-exceptions-etp-window =
     .title = გამონაკლისები, თვალთვალისგან გაძლიერებული დაცვის
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = გამონაკლისები, თვალთვალისგან გაძლიერებული დაცვის
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = ამ საიტებისთვის, დაცვა გამორთული გაქვთ
 
 ## Exceptions - Cookies
@@ -93,6 +96,9 @@ permissions-exceptions-cookie-desc = შეგიძლიათ მიუთი
 permissions-exceptions-https-only-window =
     .title = გამონაკლისები – მხოლოდ-HTTPS-რეჟიმი
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = გამონაკლისები – მხოლოდ-HTTPS-რეჟიმი
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = მხოლოდ-HTTPS-რეჟიმი შეგიძლიათ გამორთოთ ცალკეულ საიტებზე. { -brand-short-name } აღარ შეეცდება კავშირის გადაყვანას დაცულ HTTPS-ზე ამ საიტებისთვის. გამონაკლისები არ შეეხება პირად ფანჯრებს.
 
 ## Exceptions - Pop-ups
@@ -100,6 +106,9 @@ permissions-exceptions-https-only-desc = მხოლოდ-HTTPS-რეჟი�
 permissions-exceptions-popup-window =
     .title = ნებადართული საიტები – ამომხტომი ფანჯრები
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = ნებადართული საიტები – ამომხტომი ფანჯრები
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = შეგიძლიათ მიუთითოთ საიტები, რომელთაც ყოველთვის შეეძლება ამომხტომი ფანჯრების ჩვენება. აკრიფეთ საიტის ზუსტი მისამართი და დააწკაპეთ დაშვებას.
 
 ## Exceptions - Saved Logins
@@ -127,6 +136,9 @@ permissions-exceptions-addons-desc = შეგიძლიათ მიუთი
 permissions-site-autoplay-window =
     .title = პარამეტრები – თვითგაშვება
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = პარამეტრები – თვითგაშვება
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = აქ შეგიძლიათ მართოთ ის საიტები, რომლებიც თვითგაშვების ნაგულისხმევ პარამეტრებს არ მიჰყვება.
 
 ## Site Permissions - Notifications
@@ -147,6 +159,9 @@ permissions-site-notification-disable-desc = შედეგად, ყველ
 permissions-site-location-window =
     .title = პარამეტრები – მდებარეობასთან წვდომის ნებართვები
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = პარამეტრები – მდებარეობასთან წვდომის ნებართვები
+    .style = { permissions-window2.style }
 permissions-site-location-desc = მოცემული ვებსაიტები ითხოვს თქვენი მდებარეობის მონაცემებთან წვდომის ნებართვას. შეგიძლიათ მიუთითოთ ნებადართული საიტები. ამასთანავე შეგიძლიათ, საერთოდ შეზღუდოთ მდებარეობის მონაცემებთან წვდომის ახალი მოთხოვნები.
 permissions-site-location-disable-label =
     .label = მდებარეობის მონაცემებთან წვდომის ახალი მოთხოვნების შეზღუდვა
@@ -157,6 +172,9 @@ permissions-site-location-disable-desc = შედეგად, ყველა 
 permissions-site-xr-window =
     .title = პარამეტრები – წარმოსახვითი სინამდვილის ნებართვები
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = პარამეტრები – წარმოსახვითი სინამდვილის ნებართვები
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = მოცემული ვებსაიტები ითხოვს წარმოსახვითი სინამდვილის თქვენს მოწყობილობებთან წვდომის ნებართვას. შეგიძლიათ მიუთითოთ ნებადართული საიტები. ამასთანავე შეგიძლიათ, საერთოდ შეზღუდოთ წარმოსახვითი სინამდვილის მოწყობილობებთან წვდომის ახალი მოთხოვნები.
 permissions-site-xr-disable-label =
     .label = წარმოსახვითი სინამდვილის მოწყობილობებთან წვდომის ახალი მოთხოვნების შეზღუდვა
