@@ -5,77 +5,59 @@
 permissions-window =
     .title = Mga Exception
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Address ng website
     .accesskey = d
-
 permissions-block =
     .label = Harangin
     .accesskey = H
-
 permissions-session =
     .label = Payagan para sa Session
     .accesskey = S
-
 permissions-allow =
     .label = Payagan
     .accesskey = a
-
 permissions-button-off =
     .label = Patayin
     .accesskey = P
-
 permissions-button-off-temporarily =
     .label = Pansamantalang patayin
     .accesskey = P
-
 permissions-site-name =
     .label = Website
-
 permissions-status =
     .label = Kalagayan
-
 permissions-remove =
     .label = Alisin ang Website
     .accesskey = R
-
 permissions-remove-all =
     .label = Alisin ang Lahat ng mga Website
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = i-Save ang mga Pagbabago
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Ang default para sa lahat ng mga website:
-
 permissions-searchbox =
     .placeholder = Maghanap ng Website
-
 permissions-capabilities-autoplay-allow =
     .label = Payagan ang Audio at Video
 permissions-capabilities-autoplay-block =
     .label = Harangin ang Audio
 permissions-capabilities-autoplay-blockall =
     .label = Harangin ang Audio at Video
-
 permissions-capabilities-allow =
     .label = Payagan
 permissions-capabilities-block =
     .label = Harangin
 permissions-capabilities-prompt =
     .label = Palaging Magtanong
-
 permissions-capabilities-listitem-allow =
     .value = Payagan
 permissions-capabilities-listitem-block =
     .value = Harangin
 permissions-capabilities-listitem-allow-session =
     .value = Payagan ang Session
-
 permissions-capabilities-listitem-off =
     .value = Nakapatay
 permissions-capabilities-listitem-off-temporarily =
@@ -140,6 +122,9 @@ permissions-site-autoplay-desc = Maaari mong pamahalaan ang mga site na hindi su
 permissions-site-notification-window =
     .title = Mga Setting - Mga Pahintulot sa Pag-abiso
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Mga Setting - Mga Pahintulot sa Pag-abiso
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Ang mga sumusunod na website ay humiling na magpadala sa iyo ng mga notification. Maaari mong tukuyin kung aling mga website ang pinapayagang magpadala sa iyo ng mga notification. Maaari mo ring i-block ang bagong mga kahilingang humihingi na payagan ang mga notification.
 permissions-site-notification-disable-label =
     .label = I-block ang mga bagong kahilingang humihingi na payagan ang mga notification
@@ -150,6 +135,9 @@ permissions-site-notification-disable-desc = Pipigilan nito ang mga website na w
 permissions-site-location-window =
     .title = Mga Setting - Mga Pahintulot sa Lokasyon
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Mga Setting - Mga Pahintulot sa Lokasyon
+    .style = { permissions-window2.style }
 permissions-site-location-desc = Ang mga sumusunod na website ay humiling na ma-access ang iyong lokasyon. Maaari mong tukuyin kung aling mga website ang pinapayagan na ma-access ang iyong lokasyon. Maaari mo ring i-block ang mga bagong kahilingang humihingi ng access sa iyong lokasyon.
 permissions-site-location-disable-label =
     .label = I-block ang mga bagong kahilingang humihingi ng access sa iyong lokasyon
@@ -170,6 +158,9 @@ permissions-site-xr-disable-desc = Ito ang pipigil sa mga website na wala sa lis
 permissions-site-camera-window =
     .title = Mga Setting - Mga Pahintulot sa Camera
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = Mga Setting - Mga Pahintulot sa Camera
+    .style = { permissions-window2.style }
 permissions-site-camera-desc = Ang mga sumusunod na website ay humihingi ng pahintulot na i-access ang iyong camera.  Maaari mong tukuyin ang mga website na makakapag-access ng iyong camera o i-block ang mga ito.
 permissions-site-camera-disable-label =
     .label = I-block ang mga bagong kahilingan na humihiling na ma-access ang iyong camera
@@ -180,6 +171,9 @@ permissions-site-camera-disable-desc = Ito ang pipigil sa mga website na wala sa
 permissions-site-microphone-window =
     .title = Mga Setting - Mga Pahintulot sa Mikropono
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = Mga Setting - Mga Pahintulot sa Mikropono
+    .style = { permissions-window2.style }
 permissions-site-microphone-desc = Ang mga sumusunod na website ay humihingi ng pahintulot na i-access ang iyong microphone.  Maaari mong tukuyin ang mga website na makakapag-access ng iyong microphone o i-block ang mga ito.
 permissions-site-microphone-disable-label =
     .label = I-block ang mga humihingi ng pahintulot na i-access ang iyong microphone
