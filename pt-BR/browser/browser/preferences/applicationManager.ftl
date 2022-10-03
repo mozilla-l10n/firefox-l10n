@@ -5,15 +5,15 @@
 app-manager-window =
     .title = Detalhes do aplicativo
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = Detalhes do aplicativo
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = Remover
     .accesskey = R
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Os seguintes aplicativos podem ser usados para lidar com links { $type }.
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Estes aplicativos podem ser usados para gerenciar conteúdo { $type }.
