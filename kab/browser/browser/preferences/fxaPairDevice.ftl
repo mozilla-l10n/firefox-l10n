@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. Ldi <b>umuɣ</b> (<img data-l10n-name="ios-menu-ic
 fxa-qrcode-heading-step4 = 4. Siggez tangalt-a:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = Mtawi { -brand-product-name } ɣef tiliɣri-inek·inem neɣ ɣef tfelwit n uselken
 fxa-qrcode-pair-step1 = 1. Ldi { -brand-product-name } ɣef yibenk-ik·im aziraz.
 fxa-qrcode-pair-step2 = 2. Ldi <strong>umuɣ</strong> (<img data-l10n-name="ios-menu-icon"/> ɣef iOS neɣ <img data-l10n-name="android-menu-icon"/> ɣef Android) syen sit ɣef <strong>Qqen i umtawi</strong>

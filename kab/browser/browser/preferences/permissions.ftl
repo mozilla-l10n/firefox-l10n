@@ -96,6 +96,9 @@ permissions-exceptions-cookie-desc = Tzemreḍ ad temmleḍ ismal web yettwasirg
 permissions-exceptions-https-only-window =
     .title = Tisuraf - Askar HTTPS kan
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Tisuraf - Askar HTTPS kan
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Tzemreḍ ad tsenseḍ askar HTTPS kan i yismal web isdiden. { -brand-short-name } ur yettaεraḍ ara ad ileqqem tuqqna ɣer HTTPS aɣellsan i yismal-a. Tisuraf ur ttusnasent ara i yisfuyla usligen.
 
 ## Exceptions - Pop-ups
