@@ -263,9 +263,6 @@ check-user-spelling =
 
 files-and-applications-title = Fitxers i aplicacions
 download-header = Baixades
-download-save-to =
-    .label = Desa els fitxers a
-    .accesskey = s
 download-save-where = Desa els fitxers a
     .accesskey = s
 download-choose-folder =
@@ -1140,7 +1137,3 @@ httpsonly-radio-disabled =
 desktop-folder-name = Escriptori
 downloads-folder-name = Baixades
 choose-download-folder-title = Tria la carpeta de baixades:
-# Variables:
-#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
-save-files-to-cloud-storage =
-    .label = Desa els fitxers al { $service-name }
