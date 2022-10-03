@@ -5,6 +5,9 @@
 permissions-window =
     .title = 例外網站
     .style = width: 45em
+permissions-window2 =
+    .title = 例外網站
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = 網站網址
