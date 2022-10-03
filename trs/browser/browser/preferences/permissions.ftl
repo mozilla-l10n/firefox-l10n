@@ -66,6 +66,9 @@ permissions-invalid-uri-label = Gi'iaj 'ngo sunnuj u ni, gachrun hue'e si direcc
 permissions-exceptions-etp-window =
     .title = Sa nitaj si hua riña sa nará riña sa naga'naj sà' doj
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Sa nitaj si hua riña sa nará riña sa naga'naj sà' doj
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Ga'nejt nej sa narán nej sa naga'naj a riña nej sitiô nan.
 
 ## Exceptions - Cookies
@@ -116,6 +119,9 @@ permissions-exceptions-addons-desc = Ga'ue gatajt ahuin sitio web dugutuj comple
 permissions-site-autoplay-window =
     .title = Nej sa ga'ue nagi'iát - Sa nanûn man'an
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Nej sa ga'ue nagi'iát - Sa nanûn man'an
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Ga'ue nagi'iát nej sitiô nitaj si nikaj ni'ñanj ngà sa nanûn man'an hiuj nan.
 
 ## Site Permissions - Notifications
