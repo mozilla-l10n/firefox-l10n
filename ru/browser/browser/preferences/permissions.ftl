@@ -5,6 +5,9 @@
 permissions-window =
     .title = Исключения
     .style = width: 55em
+permissions-window2 =
+    .title = Исключения
+    .style = min-width: 55em
 permissions-close-key =
     .key = w
 permissions-address = Адрес веб-сайта
@@ -113,6 +116,9 @@ permissions-exceptions-popup-desc = Вы можете указать, каким
 permissions-exceptions-saved-logins-window =
     .title = Исключения — Сохранённые логины
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Исключения — Сохранённые логины
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Логины для следующих веб-сайтов не будут сохранены
 
 ## Exceptions - Add-ons

@@ -5,5 +5,7 @@
 select-bookmark-window =
     .title = Выбор домашней страницы
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = Выбор домашней страницы
+    .style = min-width: 32em;
 select-bookmark-desc = Выберите требуемую закладку в качестве домашней страницы. При выборе папки все содержащиеся в ней закладки будут открыты во вкладках.
