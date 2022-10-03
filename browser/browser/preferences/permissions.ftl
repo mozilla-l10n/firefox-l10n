@@ -5,6 +5,9 @@
 permissions-window =
     .title = Excepciones
     .style = width: 36em
+permissions-window2 =
+    .title = Excepciones
+    .style = min-width: 36em
 permissions-close-key =
     .key = w
 permissions-address = Dirección del sitio web
@@ -80,6 +83,9 @@ permissions-exceptions-etp-desc = Desactivó las protecciones en estos sitios we
 permissions-exceptions-cookie-window =
     .title = Excepciones - Cookies y datos del sitio
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Excepciones - Cookies y datos del sitio
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Puede especificar qué sitios web siempre o nunca pueden usar cookies y datos del sitio.  Escriba la dirección exacta del sitio que desea administrar y luego haga clic en Bloquear, Permitir sesión o Permitir.
 
 ## Exceptions - HTTPS-Only Mode
@@ -94,6 +100,9 @@ permissions-exceptions-https-only-desc = Puede desactivar el modo solo HTTPS par
 permissions-exceptions-popup-window =
     .title = Sitios permitidos - Ventanas emergentes
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Sitios permitidos - Ventanas emergentes
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Puede especificar qué sitios web podrán abrir ventanas emergentes. Ingrese la dirección exacta del sitio que desea habilitar y luego haga clic en Habilitar.
 
 ## Exceptions - Saved Logins
@@ -101,6 +110,9 @@ permissions-exceptions-popup-desc = Puede especificar qué sitios web podrán ab
 permissions-exceptions-saved-logins-window =
     .title = Excepciones - Ingresos guardados
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Excepciones - Ingresos guardados
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Los inicios de sesión para los siguientes sitios no se guardarán
 
 ## Exceptions - Add-ons
@@ -108,6 +120,9 @@ permissions-exceptions-saved-logins-desc = Los inicios de sesión para los sigui
 permissions-exceptions-addons-window =
     .title = Sitios permitidos - Instalación de complementos
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Sitios permitidos - Instalación de complementos
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Puede especificar qué sitios web podrán instalar complementos. Ingrese la dirección exacta del sitio que desea habilitar y luego haga clic en Habilitar.
 
 ## Site Permissions - Autoplay
@@ -135,6 +150,9 @@ permissions-site-notification-disable-desc = Esto evitará que los sitios web no
 permissions-site-location-window =
     .title = Configuración - Permisos de ubicación
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Configuración - Permisos de ubicación
+    .style = { permissions-window2.style }
 permissions-site-location-desc = Los siguientes sitios web solicitaron acceder a su ubicación. Puede especificar los sitios autorizados a acceder. También puede bloquear las nuevas solicitudes de acceso a su ubicación.
 permissions-site-location-disable-label =
     .label = Bloquear las nuevas solicitudes de acceso a su ubicación
@@ -155,6 +173,9 @@ permissions-site-xr-disable-desc = Esto evitará que los sitios web no incluidos
 permissions-site-camera-window =
     .title = Configuración - Permisos de cámara
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = Configuración - Permisos de cámara
+    .style = { permissions-window2.style }
 permissions-site-camera-desc = Los siguientes sitios web han pedido acceso a la cámara. Se puede especificar que sitios web tienen permiso de usar la cámara. También se pueden bloquear los nuevos pedidos de acceso a la cámara.
 permissions-site-camera-disable-label =
     .label = Bloquear nuevos pedidos de acceso a la cámara
@@ -165,6 +186,9 @@ permissions-site-camera-disable-desc = Esto evitará que los sitios web no lista
 permissions-site-microphone-window =
     .title = Configuración - Permisos de micrófono
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = Configuración - Permisos de micrófono
+    .style = { permissions-window2.style }
 permissions-site-microphone-desc = Los siguientes sitios web han pedido acceso al micrófono. Se puede especificar que sitios web tienen permiso de usar el micrófono. También se pueden bloquear los nuevos pedidos de acceso al micrófono.
 permissions-site-microphone-disable-label =
     .label = Bloquear nuevos pedidos de acceso al micrófono
