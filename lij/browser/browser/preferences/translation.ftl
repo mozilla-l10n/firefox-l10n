@@ -5,36 +5,29 @@
 translation-window =
     .title = Eceçioin - Traduçion
     .style = width: 38em
-
+translation-window2 =
+    .title = Eceçioin - Traduçion
+    .style = min-width: 38em
 translation-close-key =
     .key = w
-
 translation-languages-disabled-desc = No gh'é a traduçion in ste lengoe chi sotta
-
 translation-languages-column =
     .label = Lengoe
-
 translation-languages-button-remove =
     .label = Scancella lengoa
     .accesskey = R
-
 translation-languages-button-remove-all =
     .label = Scancella tutte e lengoe
     .accesskey = m
-
 translation-sites-disabled-desc = Pe sti sciti a no saiâ proposta a traduçion
-
 translation-sites-column =
     .label = Sciti
-
 translation-sites-button-remove =
     .label = Scancella scito
     .accesskey = s
-
 translation-sites-button-remove-all =
     .label = Scancella tutti i sciti
     .accesskey = u
-
 translation-dialog =
     .buttonlabelaccept = Særa
     .buttonaccesskeyaccept = r
