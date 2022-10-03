@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. Адкрыйце <b>меню</b> (<img data-l10n-n
 fxa-qrcode-heading-step4 = 4. Скануйце гэты код:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = Сінхранізуйце { -brand-product-name } на сваім тэлефоне або планшэце
 fxa-qrcode-pair-step1 = 1. Адкрыйце { -brand-product-name } на сваёй мабільнай прыладзе.
 fxa-qrcode-pair-step2 = 2. Адкрыйце <strong>меню</strong> (<img data-l10n-name="ios-menu-icon"/> на iOS або <img data-l10n-name="android-menu-icon"/> на Android) і націсніце <strong>Увайсці ў сінхранізацыю</strong>
