@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. Open het <b>menu</b> (<img data-l10n-name="ios-men
 fxa-qrcode-heading-step4 = 4. Scan deze code:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = { -brand-product-name } op uw telefoon of tablet synchroniseren
 fxa-qrcode-pair-step1 = 1. Open { -brand-product-name } op uw mobiele apparaat.
 fxa-qrcode-pair-step2 = 2. Open het <strong>menu</strong> (<img data-l10n-name="ios-menu-icon"/> op iOS of <img data-l10n-name="android-menu-icon"/> op Android) en tik op <strong>Aanmelden om te synchroniseren</strong>
