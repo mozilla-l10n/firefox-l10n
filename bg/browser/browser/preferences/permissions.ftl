@@ -5,6 +5,9 @@
 permissions-window =
     .title = Изключения
     .style = width: 52em
+permissions-window2 =
+    .title = Изключения
+    .style = min-width: 52em
 permissions-close-key =
     .key = w
 permissions-address = Адрес на страница
