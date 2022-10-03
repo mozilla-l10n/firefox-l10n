@@ -76,6 +76,9 @@ permissions-invalid-uri-label = โปรดป้อนชื่อโฮสต
 permissions-exceptions-etp-window =
     .title = ข้อยกเว้นสำหรับการป้องกันการติดตามที่มากขึ้น
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = ข้อยกเว้นสำหรับการป้องกันการติดตามที่มากขึ้น
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = คุณได้ปิดการป้องกันของเว็บไซต์เหล่านี้
 
 ## Exceptions - Cookies
