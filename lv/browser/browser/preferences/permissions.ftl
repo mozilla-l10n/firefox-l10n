@@ -5,6 +5,9 @@
 permissions-window =
     .title = Izņēmumi
     .style = width: 45em
+permissions-window2 =
+    .title = Izņēmumi
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = Mājas lapas adrese
