@@ -5,77 +5,62 @@
 permissions-window =
     .title = Administrador de imágenes
     .style = width: 49em
-
+permissions-window2 =
+    .title = Administrador de imágenes
+    .style = min-width: 49em
 permissions-close-key =
     .key = w
-
 permissions-address = Dirección del sitio web
     .accesskey = D
-
 permissions-block =
     .label = Bloquear
     .accesskey = B
-
 permissions-session =
     .label = Permitir en esta sesión
     .accesskey = S
-
 permissions-allow =
     .label = Permitir
     .accesskey = P
-
 permissions-button-off =
     .label = Desactivar
     .accesskey = D
-
 permissions-button-off-temporarily =
     .label = Desactivar temporalmente
     .accesskey = t
-
 permissions-site-name =
     .label = Sitio web
-
 permissions-status =
     .label = Estado
-
 permissions-remove =
     .label = Eliminar sitio web
     .accesskey = E
-
 permissions-remove-all =
     .label = Eliminar todos los sitios web
     .accesskey = a
-
 permission-dialog =
     .buttonlabelaccept = Guardar cambios
     .buttonaccesskeyaccept = G
-
 permissions-autoplay-menu = Predeterminado para todos los sitios web:
-
 permissions-searchbox =
     .placeholder = Buscar sitio web
-
 permissions-capabilities-autoplay-allow =
     .label = Permitir audio y video
 permissions-capabilities-autoplay-block =
     .label = Bloquear audio
 permissions-capabilities-autoplay-blockall =
     .label = Bloquear audio y video
-
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Bloquear
 permissions-capabilities-prompt =
     .label = Preguntar siempre
-
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Bloquear
 permissions-capabilities-listitem-allow-session =
     .value = Permitir en esta sesión
-
 permissions-capabilities-listitem-off =
     .value = Desactivado
 permissions-capabilities-listitem-off-temporarily =
