@@ -5,5 +5,7 @@
 select-bookmark-window =
     .title = གཙོ་ངོས་ལ་སྒྲིག་པ
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = གཙོ་ངོས་ལ་སྒྲིག་པ
+    .style = min-width: 32em;
 select-bookmark-desc = ཡིག་རྟགས་ཤིག་བདམས་ནས་ཁྱེད་ཀྱི་གཙོ་ངོས་ལ་སྒྲིག་པ། གལ་སྲིད་ཡིག་སྣོད་ཅིག་བདམས་ན་ཡིག་སྣོད་ནང་གི་ཡི་རྟགས་ཡན་ལག་ངོས་སུ་ཁ་ཕྱེ་ངེས།

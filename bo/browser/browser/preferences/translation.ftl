@@ -5,33 +5,26 @@
 translation-window =
     .title = དམིགས་བསལ་ཅན - ཡིག་སྒྱུར
     .style = width: 36em
-
+translation-window2 =
+    .title = དམིགས་བསལ་ཅན - ཡིག་སྒྱུར
+    .style = min-width: 36em
 translation-close-key =
     .key = w
-
 translation-languages-disabled-desc = འོག་གི་སྐད་ཡིག་ལ་ཡིག་སྒྱུར་མི་འདོན་པ།
-
 translation-languages-column =
     .label = སྐད་ཡིག
-
 translation-languages-button-remove =
     .label = སྐད་ཡིག་བསུབ་པ
     .accesskey = R
-
 translation-languages-button-remove-all =
     .label = སྐད་ཡིག་ཡོངས་བསུབ་པ
     .accesskey = e
-
 translation-sites-disabled-desc = འོག་གི་དྲ་ཚིགས་ལ་ཡིག་སྒྱུར་མི་འདོན་པ།
-
 translation-sites-column =
     .label = དྲ་ཚིགས
-
 translation-sites-button-remove =
     .label = དྲ་ཚིགས་བསུབ་པ
     .accesskey = S
-
 translation-sites-button-remove-all =
     .label = དྲ་ཚིགས་ཡོངས་བསུབ་པ
     .accesskey = i
-
