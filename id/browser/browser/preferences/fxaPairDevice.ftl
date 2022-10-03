@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. Buka <b>menu</b> (<img data-l10n-name="ios-menu-ic
 fxa-qrcode-heading-step4 = 4. Pindai kode ini:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = Sinkronkan { -brand-product-name } di ponsel atau tablet Anda
 fxa-qrcode-pair-step1 = 1. Buka { -brand-product-name } di perangkat seluler Anda.
 fxa-qrcode-pair-step2 = 2. Buka <strong>menu</strong> (<img data-l10n-name="ios-menu-icon"/> di iOS atau <img data-l10n-name="android-menu-icon"/> di Android) dan ketuk <strong>Masuk untuk sinkronisasi</strong>
