@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Maglagay ng wastong hostname
 permissions-exceptions-etp-window =
     .title = Mga Exception para sa Enhanced Tracking Protection
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Mga Exception para sa Enhanced Tracking Protection
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Isinara mo ang mga protection sa mga website na ito.
 
 ## Exceptions - Cookies
@@ -83,6 +86,9 @@ permissions-exceptions-etp-desc = Isinara mo ang mga protection sa mga website n
 permissions-exceptions-cookie-window =
     .title = Mga Exception - Mga Cookie at Site Data
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Mga Exception - Mga Cookie at Site Data
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Maaari mong tukuyin kung aling website ang lagi o hindi mo pahihintulutang gumamit ng mga cookie at site data. I-type ang mismong address ng site na gusto mong i-manage at pindutin ang Harangin, Payagan para sa Session, o Payagan.
 
 ## Exceptions - HTTPS-Only Mode
@@ -97,6 +103,9 @@ permissions-exceptions-https-only-desc = Maaari mong patayin ang HTTPS-Only Mode
 permissions-exceptions-popup-window =
     .title = Mga Website na Pinapayagan - Mga Pop-up
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Mga Website na Pinapayagan - Mga Pop-up
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Maaari mong tukuyin aling mga website ang pinapayagang magbukas ng mga pop-up window. I-type ang eksaktong address ng site na gusto mong payagan at pindutin ang Payagan.
 
 ## Exceptions - Saved Logins
@@ -104,6 +113,9 @@ permissions-exceptions-popup-desc = Maaari mong tukuyin aling mga website ang pi
 permissions-exceptions-saved-logins-window =
     .title = Mga Exception - Mga Naka-save na Login
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Mga Exception - Mga Naka-save na Login
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Ang mga login para sa mga sumusunod na website ay hindi ise-save
 
 ## Exceptions - Add-ons
@@ -111,6 +123,9 @@ permissions-exceptions-saved-logins-desc = Ang mga login para sa mga sumusunod n
 permissions-exceptions-addons-window =
     .title = Mga Website na Pinapayagan - Pagkabit ng mga Add-on
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Mga Website na Pinapayagan - Pagkabit ng mga Add-on
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Maaari mong tukuyin aling mga website ang pinapayagang magkabit ng mga add-on. I-type ang mismong address ng site na gusto mong payagan at pindutin ang Payagan.
 
 ## Site Permissions - Autoplay
@@ -118,6 +133,9 @@ permissions-exceptions-addons-desc = Maaari mong tukuyin aling mga website ang p
 permissions-site-autoplay-window =
     .title = Mga setting - Autoplay
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Mga setting - Autoplay
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Maaari mong pamahalaan ang mga site na hindi sumusunod sa iyong default na mga setting ng autoplay dito.
 
 ## Site Permissions - Notifications
@@ -151,6 +169,9 @@ permissions-site-location-disable-desc = Ito ang pipigil sa mga website na wala 
 permissions-site-xr-window =
     .title = Mga Setting - Mga Pahintulot sa Virtual Reality
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Mga Setting - Mga Pahintulot sa Virtual Reality
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Ang mga sumusunod na website ay humingi ng access sa iyong mga virtual reality device. Maaari mong tukuyin kung aling website ang puwedeng makapag-acccess ng mga ito. Maaari mo ring i-block ang mga bagong request na humihingi ng access sa mga virtual reality device mo.
 permissions-site-xr-disable-label =
     .label = I-block ang mga bagong request na humihingi ng access sa mga virtual reality device mo
