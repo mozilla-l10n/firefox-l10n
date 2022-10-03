@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. Abre el <b>menú</b> (<img data-l10n-name="ios-men
 fxa-qrcode-heading-step4 = 4. Escanea este código:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = Sincroniza { -brand-product-name } en tu teléfono o tablet
 fxa-qrcode-pair-step1 = 1. Abrir { -brand-product-name } en tu dispositivo móvil.
 fxa-qrcode-pair-step2 = 2. Abrir el <strong>menú</strong> (<img data-l10n-name="ios-menu-icon"/> en iOS o <img data-l10n-name="android-menu-icon"/>en Android) y presiona <strong>Inicia sesión para sincronizar</strong>
