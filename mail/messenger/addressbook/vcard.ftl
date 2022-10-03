@@ -108,6 +108,7 @@ vcard-org-add = Ajouter des propriétés organisationnelles
 vcard-org-title = Fonction
 vcard-org-role = Rôle
 vcard-org-org = Société
+vcard-org-org-unit = Service
 
 # Custom properties
 
