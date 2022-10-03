@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Ma ulac aɣilif, sekcem isem n usenneftaɣ ameɣ
 permissions-exceptions-etp-window =
     .title = Tisuraf i ummesten yettwaseǧhed mgal aḍfaṛ
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Tisuraf i ummesten yettwaseǧhed mgal aḍfaṛ
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Tsenseḍ ammesten ɣef yismal-a.
 
 ## Exceptions - Cookies
@@ -130,6 +133,9 @@ permissions-exceptions-addons-desc = Tzemreḍ ad d-tmuddeḍ ismal web ara teǧ
 permissions-site-autoplay-window =
     .title = Iɣewwaṛen - Taɣuṛi tawurmant
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Iɣewwaṛen - Taɣuṛi tawurmant
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Tzemreḍ ad tesferkeḍ dagi ismal ur neṭṭafaṛ ara iɣewwaṛen-ik n tɣuṛi tawurmant s wudem amezwer.
 
 ## Site Permissions - Notifications
@@ -163,6 +169,9 @@ permissions-site-location-disable-desc = Aya ad isewḥel asuter n tsirag n n un
 permissions-site-xr-window =
     .title = Iɣewwaṛen - Tisirag n tilawt tuhlist
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Iɣewwaṛen - Tisirag n tilawt tuhlist
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Ismal-agi web sutren-d anekcum ɣer yibenkan-ik n tilawt tuhlist. tzemreḍ ad tferneḍ anwa ismal ad ikecmen ɣer wyibenkan-ik n tilawt tulist. Tzemreḍ daɣen ad tesweḥleḍ asuter n unekcum amaynut ɣyibenkan-ik n tilawt tuhlist.
 permissions-site-xr-disable-label =
     .label = Sewḥel asuter amaynut n unekcum ɣer yibenkan-ik n tilawt tuhlist
