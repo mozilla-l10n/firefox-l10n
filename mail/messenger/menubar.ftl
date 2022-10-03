@@ -53,6 +53,23 @@ menu-help-troubleshooting-info =
 menu-help-about-product =
     .label = A { -brand-short-name } névjegye
     .accesskey = n
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Kilépés
+           *[other] Kilépés
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] K
+           *[other] K
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Kilépés a { -brand-shorter-name }ból
+quit-app-shortcut =
+    .key = K
 
 ## Mail Toolbar
 
