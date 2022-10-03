@@ -5,4 +5,6 @@
 select-bookmark-window =
     .title = முதன்மைப் பக்கமாக அமைக்க
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = முதன்மைப் பக்கமாக அமைக்க
+    .style = min-width: 32em;
