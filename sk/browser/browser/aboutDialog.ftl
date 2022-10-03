@@ -23,6 +23,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } sa práve aktualizuj
 update-manual = Aktualizácie sú dostupné na <label data-l10n-name="manual-link"/>
 update-unsupported = Ďalšie aktualizácie už nie sú na tomto systéme možné. <label data-l10n-name="unsupported-link">Ďalšie informácie</label>
 update-restarting = Reštartuje sa…
+update-internal-error = Nie je možné skontrolovať aktualizácie kvôli internej chybe. Aktualizácie sú k dispozícii na adrese <label data-l10n-name="manual-link"/>
 channel-description = Používate aktualizačný kanál <label data-l10n-name="current-channel"></label>.{ " " }
 warningDesc-version = Zostavenie { -brand-short-name } je experimentálne a môže byť nestabilné.
 aboutdialog-help-user = Pomocník prehliadača { -brand-product-name }
