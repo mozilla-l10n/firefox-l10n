@@ -16,6 +16,9 @@ callout-firefox-view-tab-pickup-subtitle = Hent snøgt opne faner frå telefonen
 callout-firefox-view-recently-closed-title = Få tilbake dei attlatne fanene på ein augneblink
 callout-firefox-view-recently-closed-subtitle = Alle dei attlatne fanene dine vil visast her. Du treng aldri å bekymre deg for å late att ein nettstad ved eit uhell igjen.
 callout-firefox-view-colorways-title = Legg til ein fargeklatt
+# "Shade" refer to different color options in each colorway.
+callout-firefox-view-colorways-subtitle = Vel nyansen som snakkar til deg med fargesamansetjingar. Berre i { -brand-product-name }.
+callout-firefox-view-colorways-reminder-title = Utforsk dei nyaste fargesamansetjingane våre
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
