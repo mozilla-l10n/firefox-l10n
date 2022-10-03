@@ -5,77 +5,59 @@
 permissions-window =
     .title = Ausnahmen
     .style = width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adresse der Website:
     .accesskey = d
-
 permissions-block =
     .label = Blockieren
     .accesskey = B
-
 permissions-session =
     .label = Für diese Sitzung erlauben
     .accesskey = F
-
 permissions-allow =
     .label = Erlauben
     .accesskey = E
-
 permissions-button-off =
     .label = Deaktivieren
     .accesskey = D
-
 permissions-button-off-temporarily =
     .label = Temporär deaktivieren
     .accesskey = T
-
 permissions-site-name =
     .label = Website
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Website entfernen
     .accesskey = n
-
 permissions-remove-all =
     .label = Alle Websites entfernen
     .accesskey = a
-
 permission-dialog =
     .buttonlabelaccept = Änderungen speichern
     .buttonaccesskeyaccept = s
-
 permissions-autoplay-menu = Standard für alle Websites:
-
 permissions-searchbox =
     .placeholder = Website suchen
-
 permissions-capabilities-autoplay-allow =
     .label = Audio und Video erlauben
 permissions-capabilities-autoplay-block =
     .label = Medien mit Audio blockieren
 permissions-capabilities-autoplay-blockall =
     .label = Audio und Video blockieren
-
 permissions-capabilities-allow =
     .label = Erlauben
 permissions-capabilities-block =
     .label = Blockieren
 permissions-capabilities-prompt =
     .label = Immer fragen
-
 permissions-capabilities-listitem-allow =
     .value = Erlauben
 permissions-capabilities-listitem-block =
     .value = Blockieren
 permissions-capabilities-listitem-allow-session =
     .value = Für diese Sitzung erlauben
-
 permissions-capabilities-listitem-off =
     .value = Deaktiviert
 permissions-capabilities-listitem-off-temporarily =
@@ -91,6 +73,9 @@ permissions-invalid-uri-label = Bitte tragen Sie einen gültigen Hostnamen ein
 permissions-exceptions-etp-window =
     .title = Ausnahmen - Verbesserter Schutz vor Aktivitätenverfolgung
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Ausnahmen - Verbesserter Schutz vor Aktivitätenverfolgung
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Sie haben die Schutzmaßnahmen für folgende Websites deaktiviert.
 
 ## Exceptions - Cookies
@@ -98,6 +83,9 @@ permissions-exceptions-etp-desc = Sie haben die Schutzmaßnahmen für folgende W
 permissions-exceptions-cookie-window =
     .title = Ausnahmen - Cookies und Website-Daten
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Ausnahmen - Cookies und Website-Daten
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Sie können festlegen, welchen Websites Sie immer oder niemals erlauben möchten, Cookies und Website-Daten zu verwenden. Geben Sie bitte die exakte Adresse der Website ein, die Sie verwalten möchten, und klicken Sie dann Blockieren, für diese Sitzung erlauben oder Erlauben.
 
 ## Exceptions - HTTPS-Only Mode
@@ -112,6 +100,9 @@ permissions-exceptions-https-only-desc = Sie können den Nur-HTTPS-Modus für be
 permissions-exceptions-popup-window =
     .title = Berechtigte Websites - Pop-ups
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Berechtigte Websites - Pop-ups
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Sie können festlegen, welchen Websites Sie erlauben möchten, Pop-up-Fenster zu öffnen. Geben Sie bitte die exakte Adresse der Website ein, der Sie das erlauben möchten, und klicken Sie dann auf Erlauben.
 
 ## Exceptions - Saved Logins
@@ -126,6 +117,9 @@ permissions-exceptions-saved-logins-desc = Zugangsdaten für die folgenden Websi
 permissions-exceptions-addons-window =
     .title = Berechtigte Websites - Add-ons-Installation
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Berechtigte Websites - Add-ons-Installation
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Sie können festlegen, welchen Websites Sie erlauben möchten, Add-ons zu installieren. Geben Sie bitte die exakte Adresse der Website ein, der Sie das erlauben möchten, und klicken Sie dann auf Erlauben.
 
 ## Site Permissions - Autoplay
@@ -133,6 +127,9 @@ permissions-exceptions-addons-desc = Sie können festlegen, welchen Websites Sie
 permissions-site-autoplay-window =
     .title = Einstellungen - Automatische Wiedergabe
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Einstellungen - Automatische Wiedergabe
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Hier können die Websites verwaltet werden, welche benutzerdefinierte Einstellungen für die automatische Wiedergabe verwenden.
 
 ## Site Permissions - Notifications
@@ -140,6 +137,9 @@ permissions-site-autoplay-desc = Hier können die Websites verwaltet werden, wel
 permissions-site-notification-window =
     .title = Einstellungen - Benachrichtigungsberechtigungen
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Einstellungen - Benachrichtigungsberechtigungen
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Die folgenden Websites haben um Erlaubnis angefragt, Ihnen Benachrichtigungen zu senden. Sie können festlegen, welche Websites Benachrichtigungen senden dürfen. Weiterhin können Sie alle zukünftigen Anfragen zum Anzeigen von Benachrichtigungen blockieren.
 permissions-site-notification-disable-label =
     .label = Neue Anfragen zum Anzeigen von Benachrichtigungen blockieren
@@ -150,6 +150,9 @@ permissions-site-notification-disable-desc = Dies wird alle nicht oben aufgefüh
 permissions-site-location-window =
     .title = Einstellungen - Standortzugriff
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Einstellungen - Standortzugriff
+    .style = { permissions-window2.style }
 permissions-site-location-desc = Die folgenden Websites haben um Erlaubnis angefragt, auf Ihren Standort zugreifen zu dürfen. Sie können festlegen, welche Websites auf Ihren Standort zugreifen dürfen. Weiterhin können Sie alle zukünftigen Anfragen für den Zugriff auf Ihren Standort blockieren.
 permissions-site-location-disable-label =
     .label = Neue Anfragen für den Zugriff auf Ihren Standort blockieren
@@ -170,6 +173,9 @@ permissions-site-xr-disable-desc = Dies wird alle nicht oben aufgeführten Websi
 permissions-site-camera-window =
     .title = Einstellungen - Kamerazugriff
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = Einstellungen - Kamerazugriff
+    .style = { permissions-window2.style }
 permissions-site-camera-desc = Die folgenden Websites haben um Erlaubnis angefragt, auf Ihre Kamera zugreifen zu dürfen. Sie können festlegen, welche Websites auf Ihre Kamera zugreifen dürfen. Weiterhin können Sie alle zukünftigen Anfragen für den Zugriff auf Ihre Kamera blockieren.
 permissions-site-camera-disable-label =
     .label = Neue Anfragen für den Zugriff auf Ihre Kamera blockieren
@@ -180,6 +186,9 @@ permissions-site-camera-disable-desc = Dies wird alle nicht oben aufgeführten W
 permissions-site-microphone-window =
     .title = Einstellungen - Mikrofonzugriff
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = Einstellungen - Mikrofonzugriff
+    .style = { permissions-window2.style }
 permissions-site-microphone-desc = Die folgenden Websites haben angefragt, auf Ihr Mikrofon zugreifen zu dürfen. Sie können festlegen, welche Websites auf Ihr Mikrofon zugreifen dürfen. Weiterhin können Sie alle zukünftigen Anfragen für den Zugriff auf Ihr Mikrofon blockieren.
 permissions-site-microphone-disable-label =
     .label = Neue Anfragen für den Zugriff auf Ihr Mikrofon blockieren
