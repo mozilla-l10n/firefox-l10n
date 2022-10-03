@@ -5,15 +5,15 @@
 app-manager-window =
     .title = جزئیات برنامه
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = جزئیات برنامه
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = حذف‌
     .accesskey = ح
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = برنامه‌های زیر می‌توانند پیوندهای { $type } را اجرا کنند.
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = برنامه‌های زیر می‌توانند محتوای { $type } را اجرا کنند.
