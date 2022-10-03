@@ -96,6 +96,9 @@ permissions-exceptions-cookie-desc = 您可以指定一律允许或不允许哪�
 permissions-exceptions-https-only-window =
     .title = 例外 - HTTPS-Only 模式
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = 例外 - HTTPS-Only 模式
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = 您可以关闭特定网站的 HTTPS-Only 模式。{ -brand-short-name } 将不再尝试将这些网站的连接升级为安全的 HTTPS。“例外”不会应用至隐私窗口。
 
 ## Exceptions - Pop-ups
