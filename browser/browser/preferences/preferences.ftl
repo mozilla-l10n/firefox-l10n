@@ -5,17 +5,13 @@
 pane-general-title = Giştî
 category-general =
     .tooltiptext = { pane-general-title }
-
 pane-search-title = Lêgerîn
 category-search =
     .tooltiptext = { pane-search-title }
-
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
 focus-search =
     .key = F
-
 close-button =
     .aria-label = Girtin
 
@@ -42,11 +38,8 @@ should-restart-title = Nûdestpêkirina { -brand-short-name }
 ## General Section
 
 startup-header = Destpêk
-
 is-default = { -brand-short-name } jixwe geroka te ya standard e
-
 tabs-group-header = Hilpekîn
-
 show-tabs-in-taskbar =
     .label = Di darikê amûran a Windowsê de pêşdîtina hilpekînê nîşan bide
     .accesskey = k
@@ -56,9 +49,7 @@ show-tabs-in-taskbar =
 advanced-fonts =
     .label = Pêşketî...
     .accesskey = P
-
 choose-language-description = Ji bo nîşandana rûpelan zimanekî hilbijêre
-
 choose-button =
     .label = Hilbijêre...
     .accesskey = H
@@ -66,14 +57,8 @@ choose-button =
 ## General Section - Files and Applications
 
 download-header = Jêbarkirî
-
-download-save-to =
-    .label = Pelan tomar bike li
-    .accesskey = t
-
 download-save-where = Pelan tomar bike li
     .accesskey = t
-
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -85,45 +70,36 @@ download-choose-folder =
             [macos] H
            *[other] g
         }
-
 applications-type-column =
     .label = Cureyê Naverokê
     .accesskey = C
-
 applications-action-column =
     .label = Çalakî
     .accesskey = a
-
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Pela { $extension }
 applications-action-save =
     .label = Di dîska pêdandî de tomar bike
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = { $app-name }'ê bi kar bîne
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name }'ê bi kar bîne (standard)
-
 applications-use-other =
     .label = Sepana din bi kar bîne…
 applications-select-helper = Sepana Alîkar Hilbijêre
-
 applications-manage-app =
     .label = Kitekitên Sepanan…
 applications-always-ask =
     .label = Her tim bipirse
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -135,19 +111,14 @@ applications-use-plugin-in =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -166,15 +137,12 @@ performance-allow-hw-accel =
 ## General Section - Browsing
 
 browsing-title = Digere
-
 browsing-use-autoscroll =
     .label = Şemitandina xweber bi kar bîne
     .accesskey = a
-
 browsing-use-smooth-scrolling =
     .label = Şemitandina nerm bikar bîne
     .accesskey = m
-
 browsing-use-cursor-navigation =
     .label = Ji bo veguhestina bi nava rûpelan ve, her tim peyvên ji rêzê bi kar bîne
     .accesskey = J
@@ -201,7 +169,6 @@ use-current-pages =
            *[other] Rûpelên Derbasdar Bi Kar Bîne
         }
     .accesskey = d
-
 choose-bookmark =
     .label = Bijareyê bi kar bîne...
     .accesskey = B
@@ -220,11 +187,9 @@ choose-bookmark =
 
 search-choose-keyword-column =
     .label = Peyva Kilît
-
 search-remove-engine =
     .label = Rake
     .accesskey = R
-
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Peyva Kilît Zêde Bike
@@ -254,7 +219,6 @@ search-keyword-warning-bookmark = Te peyveke kilît ku ji hêla bijareyê ve tê
 sync-engine-bookmarks =
     .label = Bijare
     .accesskey = B
-
 sync-engine-history =
     .label = Dîrok
     .accesskey = r
@@ -270,11 +234,9 @@ sync-engine-history =
 forms-exceptions =
     .label = Rewşên Taybet...
     .accesskey = R
-
 forms-master-pw-change =
     .label = Şîfreyeke Mafbilind Biguherîne...
     .accesskey = M
-
 forms-master-pw-fips-desc = Guherandina Nasnavê bi ser neket
 
 ## OS Authentication dialog
@@ -288,21 +250,16 @@ history-remember-option-never =
     .label = Mêjûyê qet bi bîr neyne
 history-remember-option-custom =
     .label = Ji bo mêjûyê mîhengên takekesî bi kar bîne
-
 history-dontremember-description = { -brand-short-name } dê heman mîhengê ji bo gera nepen jî bi kar bîne û dê ji gera te ya webê tu tiştî bi bîr neyne.
-
 history-private-browsing-permanent =
     .label = Her tim moda gera nepen bi kar bîne
     .accesskey = n
-
 history-remember-search-option =
     .label = Mêjûya lêgerîn û forman bi bîr bîne
     .accesskey = f
-
 history-clear-on-close-option =
     .label = Dema { -brand-short-name } hate girtin mêjûyê pakij bike
     .accesskey = D
-
 history-clear-on-close-settings =
     .label = Mîheng…
     .accesskey = M
@@ -331,7 +288,6 @@ history-clear-on-close-settings =
 permissions-block-popups =
     .label = Pencereyên bixweber vedibin asteng bike
     .accesskey = b
-
 permissions-addon-exceptions =
     .label = Rewşên Taybet...
     .accesskey = e
@@ -357,4 +313,3 @@ certs-header = Sertîfîka
 desktop-folder-name = Sermase
 downloads-folder-name = Jêbarkirî
 choose-download-folder-title = Peldanka jêbarkirinê hilbijêre:
-
