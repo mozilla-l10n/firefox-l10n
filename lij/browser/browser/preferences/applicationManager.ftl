@@ -5,15 +5,15 @@
 app-manager-window =
     .title = Detalli da aplicaçion
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = Detalli da aplicaçion
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = Scancella
     .accesskey = S
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Ste aplicaçioin peuan ese uzæ pe colegamenti de { $type }.
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Ste aplicaçioin peuan ese uzæ pe contegnuo de { $type }.

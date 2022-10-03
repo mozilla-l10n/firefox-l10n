@@ -5,6 +5,9 @@
 permissions-window =
     .title = Eceçioin…
     .style = width: 36em
+permissions-window2 =
+    .title = Eceçioin…
+    .style = min-width: 36em
 permissions-close-key =
     .key = w
 permissions-address = Indirisso do scito
