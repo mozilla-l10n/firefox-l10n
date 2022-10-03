@@ -5,5 +5,7 @@
 select-bookmark-window =
     .title = ನೆಲೆ ಪುಟವಾಗಿ ಹೊಂದಿಸು
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = ನೆಲೆ ಪುಟವಾಗಿ ಹೊಂದಿಸು
+    .style = min-width: 32em;
 select-bookmark-desc = ನಿಮ್ಮ ನೆಲೆ ಪುಟವಾಗಿಸಲು ಒಂದು ಬುಕ್‌ಮಾರ್ಕ್ ಅನ್ನು ಆರಿಸಿ. ನೀವು ಒಂದು ಕೋಶವನ್ನು ಆರಿಸಿದರೆ, ಅದರಲ್ಲಿನ ಬುಕ್‌ಮಾರ್ಕುಗಳು ಪ್ರತ್ಯೇಕ ಹಾಳೆಗಳಾಗಿ ತೆರೆಯಲ್ಪಡುತ್ತವೆ.
