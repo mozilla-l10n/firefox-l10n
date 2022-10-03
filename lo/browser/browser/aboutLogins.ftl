@@ -274,12 +274,17 @@ about-logins-import-report-row-description-error = ຜິດພາດ: ບໍ່
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = ຜິດພາດ: ມີຫຼາຍຄ່າສຳລັບ { $field }
 about-logins-import-report-row-description-error-missing-field = ຜິດພາດ: ບໍ່ມີ { $field }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">ເພີ່ມການເຂົ້າສູ່ລະບົບໃໝ່ແລ້ວ</div>
+    }
 about-logins-import-report-error =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">ຄວາມຜິດພາດ</div> <div data-l10n-name="not-imported" >(ບໍ່ໄດ້ນຳເຂົ້າ)</div>
