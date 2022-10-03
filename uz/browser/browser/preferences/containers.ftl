@@ -5,10 +5,11 @@
 containers-window-new =
     .title = Yangi konteyner qo‘shish
     .style = width: 45em
-
+containers-window-new2 =
+    .title = Yangi konteyner qo‘shish
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -19,22 +20,17 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Nomi
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Konteyner nomini kiriting
-
 containers-icon-label = Belgi
     .accesskey = B
     .style = { -containers-labels-style }
-
 containers-color-label = Rangi
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-color-blue =
     .label = Ko‘k
 containers-color-turquoise =
@@ -53,7 +49,6 @@ containers-color-purple =
     .label = Binafsha rang
 containers-color-toolbar =
     .label = Asboblar paneli sifatida
-
 containers-icon-fence =
     .label = Toʻsiq
 containers-icon-fingerprint =
