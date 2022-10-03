@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Roit un anv ostiz talvoudek, mar plij
 permissions-exceptions-etp-window =
     .title = Nemedennoù evit ar gwarez heuliañ araokaet.
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Nemedennoù evit ar gwarez heuliañ araokaet.
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Diweredekaet ho peus ar gwarez war al lec'hiennoù-mañ.
 
 ## Exceptions - Cookies
@@ -83,6 +86,9 @@ permissions-exceptions-etp-desc = Diweredekaet ho peus ar gwarez war al lec'hien
 permissions-exceptions-cookie-window =
     .title = Nemedennoù - Toupinoù ha roadennoù lec'hienn
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Nemedennoù - Toupinoù ha roadennoù lec'hienn
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Gallout a ri despizañ pe lec'hiennoù a vo aotreet pe difennet da arverañ toupinoù ha roadennoù lec'hienn. Biziatait chomlec'h al lec'hienn a fell deoc'h merañ ha klikit war "Stankañ", "Aotren evit an estez" pe "Aotren".
 
 ## Exceptions - HTTPS-Only Mode
@@ -127,6 +133,9 @@ permissions-exceptions-addons-desc = Posupl eo deoc'h erspizañ pe lec'hiennoù 
 permissions-site-autoplay-window =
     .title = Arventennoù - lenn emgefreek
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Arventennoù - lenn emgefreek
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Gallout a rit merañ al lec'hiennoù na heuliont ket hoc'h arventennoù lenn emgefreek dre ziouer amañ.
 
 ## Site Permissions - Notifications
@@ -160,6 +169,9 @@ permissions-site-location-disable-desc = Herzel a raio al lec'hiennoù ha n'int 
 permissions-site-xr-window =
     .title = Arventennoù - Aotreoù ar gwirvoud galloudel
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Arventennoù - Aotreoù ar gwirvoud galloudel
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Al lec'hiennoù da heul o deus goulennet haeziñ ho trevnadoù gwirvoud galloudel. Gallout a rit dibab pe lec'hiennoù a zo aotreet da haeziñ ho trevnadoù gwirvoud galloudel. Gallout a rit ivez stankañ ar goulennoù haeziñ nevez.
 permissions-site-xr-disable-label =
     .label = Stankañ ar goulennoù nevez evit haeziñ ho trevnadoù gwirvoud galloudel
@@ -183,6 +195,9 @@ permissions-site-camera-disable-desc = Herzel a raio al lec'hiennoù ha n'int ke
 permissions-site-microphone-window =
     .title = Arventennoù - Aotreoù ar glevell
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = Arventennoù - Aotreoù ar glevell
+    .style = { permissions-window2.style }
 permissions-site-microphone-desc = Al lec'hiennoù da heul o deus goulennet haeziñ ho mikro. Gallout a rit despizañ pe lec'hienn a zo aotreet da haeziñ ho mikro. Gallout a rit ivez stankañ goulennoù nevez a c'houlenn haeziñ ho klevell.
 permissions-site-microphone-disable-label =
     .label = Stankañ ar goulennoù nevez haeziñ ho klevell
