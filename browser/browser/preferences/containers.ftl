@@ -10,6 +10,9 @@ containers-window-new =
 containers-window-update-settings =
     .title = Paràmetres del contenidor { $name }
     .style = width: 45em
+containers-window-new2 =
+    .title = Afegeix un contenidor nou
+    .style = min-width: 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied

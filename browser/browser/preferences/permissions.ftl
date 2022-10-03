@@ -5,6 +5,9 @@
 permissions-window =
     .title = Excepcions
     .style = width: 48em
+permissions-window2 =
+    .title = Excepcions
+    .style = min-width: 48em
 permissions-close-key =
     .key = w
 permissions-address = Adreça del lloc web
@@ -94,6 +97,9 @@ permissions-exceptions-https-only-desc = Podeu desactivar el mode només HTTPS p
 permissions-exceptions-popup-window =
     .title = Llocs web permesos - Finestres emergents
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Llocs web permesos - Finestres emergents
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Podeu especificar quins llocs web poden obrir finestres emergents. Escriviu l'adreça exacta del lloc que vulgueu permetre i feu clic a Permet.
 
 ## Exceptions - Saved Logins
@@ -101,6 +107,9 @@ permissions-exceptions-popup-desc = Podeu especificar quins llocs web poden obri
 permissions-exceptions-saved-logins-window =
     .title = Excepcions - Inicis de sessió desats
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Excepcions - Inicis de sessió desats
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = No es desaran les dades d'inici de sessió dels llocs web següents:
 
 ## Exceptions - Add-ons
@@ -108,6 +117,9 @@ permissions-exceptions-saved-logins-desc = No es desaran les dades d'inici de se
 permissions-exceptions-addons-window =
     .title = Llocs web permesos - Instal·lació de complements
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Llocs web permesos - Instal·lació de complements
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Podeu especificar quins llocs web poden instal·lar complements. Escriviu l'adreça exacta del lloc que vulgueu permetre i feu clic a Permet.
 
 ## Site Permissions - Autoplay
