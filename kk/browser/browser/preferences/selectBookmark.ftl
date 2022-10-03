@@ -5,5 +5,7 @@
 select-bookmark-window =
     .title = Үй парағын таңдау
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = Үй парағын таңдау
+    .style = min-width: 32em;
 select-bookmark-desc = Үй парағы ретінде орнатылатын бетбелгіні таңдаңыз. Бума таңдалған кезде, оның ішіндегі бар бетбелгілер жаңа беттерде ашылады.
