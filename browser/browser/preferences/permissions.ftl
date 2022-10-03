@@ -5,77 +5,59 @@
 permissions-window =
     .title = Винятки
     .style = width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Адреса сайту
     .accesskey = д
-
 permissions-block =
     .label = Блокувати
     .accesskey = Б
-
 permissions-session =
     .label = Дозволити на сеанс
     .accesskey = о
-
 permissions-allow =
     .label = Дозволити
     .accesskey = Д
-
 permissions-button-off =
     .label = Вимкнути
     .accesskey = В
-
 permissions-button-off-temporarily =
     .label = Вимкнути тимчасово
     .accesskey = т
-
 permissions-site-name =
     .label = Вебсайт
-
 permissions-status =
     .label = Стан
-
 permissions-remove =
     .label = Вилучити вебсайт
     .accesskey = л
-
 permissions-remove-all =
     .label = Вилучити всі вебсайти
     .accesskey = с
-
 permission-dialog =
     .buttonlabelaccept = Зберегти зміни
     .buttonaccesskeyaccept = З
-
 permissions-autoplay-menu = Типово для всіх вебсайтів:
-
 permissions-searchbox =
     .placeholder = Пошук по сайту
-
 permissions-capabilities-autoplay-allow =
     .label = Дозволити аудіо та відео
 permissions-capabilities-autoplay-block =
     .label = Блокувати аудіо
 permissions-capabilities-autoplay-blockall =
     .label = Блокувати аудіо та відео
-
 permissions-capabilities-allow =
     .label = Дозволити
 permissions-capabilities-block =
     .label = Блокувати
 permissions-capabilities-prompt =
     .label = Завжди питати
-
 permissions-capabilities-listitem-allow =
     .value = Дозволити
 permissions-capabilities-listitem-block =
     .value = Блокувати
 permissions-capabilities-listitem-allow-session =
     .value = Дозволити на сеанс
-
 permissions-capabilities-listitem-off =
     .value = Вимкнено
 permissions-capabilities-listitem-off-temporarily =
@@ -112,6 +94,9 @@ permissions-exceptions-https-only-desc = Ви можете вимкнути HTTP
 permissions-exceptions-popup-window =
     .title = Дозволені вебсайти - Спливні вікна
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Дозволені вебсайти - Спливні вікна
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Ви можете вказати, яким сайтам дозволено відкривати спливні вікна. Введіть точну адресу для кожного сайту і натисніть кнопку Дозволити.
 
 ## Exceptions - Saved Logins
@@ -119,6 +104,9 @@ permissions-exceptions-popup-desc = Ви можете вказати, яким �
 permissions-exceptions-saved-logins-window =
     .title = Винятки - Збережені паролі
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Винятки - Збережені паролі
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Паролі для таких вебсайтів не зберігатимуться
 
 ## Exceptions - Add-ons
@@ -150,6 +138,9 @@ permissions-site-notification-disable-desc = Це не дозволить буд
 permissions-site-location-window =
     .title = Налаштування - Дозволи розташування
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Налаштування - Дозволи розташування
+    .style = { permissions-window2.style }
 permissions-site-location-desc = Зазначені тут вебсайти запитували дозвіл на доступ до вашого розташування. Ви можете вказати, яким вебсайтам дозволяється отримувати доступ до вашого розташування. Ви також можете блокувати нові запити на доступ до вашого розташування.
 permissions-site-location-disable-label =
     .label = Блокувати нові запити про отримання доступу до вашого розташування
@@ -160,6 +151,9 @@ permissions-site-location-disable-desc = Це не дозволить будь-�
 permissions-site-xr-window =
     .title = Налаштування - Дозволи віртуальної реальності
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Налаштування - Дозволи віртуальної реальності
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Наступні вебсайти запитували дозвіл на доступ до ваших пристроїв віртуальної реальності. Ви можете вказати, яким вебсайтам дозволяється отримувати доступ до ваших пристроїв віртуальної реальності. Ви також можете блокувати нові запити на доступ до ваших пристроїв віртуальної реальності.
 permissions-site-xr-disable-label =
     .label = Блокувати нові запити про отримання доступу до ваших пристроїв віртуальної реальності
@@ -170,6 +164,9 @@ permissions-site-xr-disable-desc = Це не дозволить будь-яки�
 permissions-site-camera-window =
     .title = Налаштування - Дозволи камери
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = Налаштування - Дозволи камери
+    .style = { permissions-window2.style }
 permissions-site-camera-desc = Зазначені тут вебсайти запитували дозвіл на доступ до вашої камери. Ви можете вказати, яким вебсайтам дозволяється отримувати доступ до вашої камери. Ви також можете блокувати нові запити на доступ до вашої камери.
 permissions-site-camera-disable-label =
     .label = Блокувати нові запити про отримання доступу до вашої камери
@@ -180,6 +177,9 @@ permissions-site-camera-disable-desc = Це не дозволить будь-я�
 permissions-site-microphone-window =
     .title = Налаштування - Дозволи мікрофону
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = Налаштування - Дозволи мікрофону
+    .style = { permissions-window2.style }
 permissions-site-microphone-desc = Зазначені тут вебсайти запитували дозвіл на доступ до вашого мікрофону. Ви можете вказати, яким вебсайтам дозволяється отримувати доступ до вашого мікрофону. Ви також можете блокувати нові запити на доступ до вашого мікрофону.
 permissions-site-microphone-disable-label =
     .label = Блокувати нові запити про отримання доступу до вашого мікрофону

@@ -5,16 +5,21 @@
 containers-window-new =
     .title = Додати новий контейнер
     .style = width: 45em
-
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings =
     .title = Налаштування контейнера { $name }
     .style = width: 45em
-
+containers-window-new2 =
+    .title = Додати новий контейнер
+    .style = min-width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings2 =
+    .title = Налаштування контейнера { $name }
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -25,26 +30,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Назва
     .accesskey = Н
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Введіть назву контейнера
-
 containers-icon-label = Піктограма
     .accesskey = П
     .style = { -containers-labels-style }
-
 containers-color-label = Колір
     .accesskey = К
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = Готово
     .buttonaccesskeyaccept = Г
-
 containers-color-blue =
     .label = Блакитний
 containers-color-turquoise =
@@ -63,7 +62,6 @@ containers-color-purple =
     .label = Бузковий
 containers-color-toolbar =
     .label = Як панель інструментів
-
 containers-icon-fence =
     .label = Відокремлення
 containers-icon-fingerprint =
