@@ -5,6 +5,9 @@
 permissions-window =
     .title = Undantag
     .style = width: 45em
+permissions-window2 =
+    .title = Undantag
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = Webbplatsens adress
@@ -107,6 +110,9 @@ permissions-exceptions-popup-desc = Du kan ange vilka webbplatser som får öppn
 permissions-exceptions-saved-logins-window =
     .title = Undantag - Sparade inloggningar
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Undantag - Sparade inloggningar
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Inloggningar för följande webbplatser kommer inte att sparas
 
 ## Exceptions - Add-ons
