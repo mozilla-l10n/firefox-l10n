@@ -5,15 +5,15 @@
 app-manager-window =
     .title = Detagls davart l'applicaziun
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = Detagls davart l'applicaziun
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = Allontanar
     .accesskey = A
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Las suandantas applicaziuns pon ins utilisar per elavurar Colliaziuns { $type }.
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Las suandantas applicaziuns pon ins utilisar per elavurar Cuntegns da { $type }.

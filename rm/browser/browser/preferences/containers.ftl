@@ -5,16 +5,16 @@
 containers-window-new =
     .title = Agiuntar in nov container
     .style = width: 45em
-
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings =
     .title = Parameters dal container «{ $name }»
     .style = width: 45em
-
+containers-window-new2 =
+    .title = Agiuntar in nov container
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -25,26 +25,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Num
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Endatar in num da container
-
 containers-icon-label = Simbol
     .accesskey = i
     .style = { -containers-labels-style }
-
 containers-color-label = Colur
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = Finì
     .buttonaccesskeyaccept = F
-
 containers-color-blue =
     .label = Blau
 containers-color-turquoise =
@@ -63,7 +57,6 @@ containers-color-purple =
     .label = Violet
 containers-color-toolbar =
     .label = Sco la trav d'utensils
-
 containers-icon-fence =
     .label = Saiv
 containers-icon-fingerprint =
