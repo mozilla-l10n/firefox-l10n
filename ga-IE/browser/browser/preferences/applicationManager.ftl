@@ -5,15 +5,15 @@
 app-manager-window =
     .title = Mionsonraí feidhmchláir
     .style = width: 36em; min-height: 24em;
-
+app-manager-window2 =
+    .title = Mionsonraí feidhmchláir
+    .style = min-width: 36em; min-height: 24em;
 app-manager-remove =
     .label = Bain
     .accesskey = B
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Is féidir na feidhmchláir seo a leanas a úsáid chun naisc { $type } a láimhseáil.
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Is féidir na feidhmchláir seo a leanas a úsáid chun ábhar { $type } a láimhseáil.
