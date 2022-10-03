@@ -5,6 +5,9 @@
 webpage-languages-window =
     .title = 웹 페이지 언어 설정
     .style = width: 40em
+webpage-languages-window2 =
+    .title = 웹 페이지 언어 설정
+    .style = min-width: 40em
 languages-close-key =
     .key = w
 languages-description = 웹 페이지는 여러 언어로 제공되는 경우가 있습니다. 이런 웹 페이지를 표시할 언어를 선호하는 순서대로 선택하세요
