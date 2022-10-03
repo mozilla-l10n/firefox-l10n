@@ -5,10 +5,11 @@
 containers-window-new =
     .title = لەخۆگرێکی نوێ زیاد بکە
     .style = width: 45em
-
+containers-window-new2 =
+    .title = لەخۆگرێکی نوێ زیاد بکە
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -19,22 +20,17 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = ناو
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = ناوی لەخۆگر بنووسە
-
 containers-icon-label = وێنۆچکە
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = ڕەنگ
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-color-blue =
     .label = شین
 containers-color-turquoise =
@@ -53,7 +49,6 @@ containers-color-purple =
     .label = مۆر
 containers-color-toolbar =
     .label = وەکو توڵامراز
-
 containers-icon-fence =
     .label = پەرژین
 containers-icon-fingerprint =

@@ -5,5 +5,7 @@
 select-bookmark-window =
     .title = پەڕەی سەرەکی دیاریبکە
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = پەڕەی سەرەکی دیاریبکە
+    .style = min-width: 32em;
 select-bookmark-desc = یەکێک لە دڵخوازەکان دیاریبکە بۆ ئەوەی ببێتە پەڕەی سەرەکی خۆت. ئەگەر بوخچەیەک دیاریبکەی، ئەوا دڵخوازی ناو بوخچەکە دەکرێتەوە لە بازدەرەکان.
