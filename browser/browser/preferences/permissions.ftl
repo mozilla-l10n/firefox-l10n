@@ -5,6 +5,9 @@
 permissions-window =
     .title = Výnimky
     .style = width: 45em
+permissions-window2 =
+    .title = Výnimky
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = Adresa webovej stránky
@@ -90,6 +93,9 @@ permissions-exceptions-cookie-desc = Na tomto mieste môžete určiť, ktoré st
 permissions-exceptions-https-only-window =
     .title = Výnimky z režimu Len HTTPS
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Výnimky z režimu Len HTTPS
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Pre konkrétne webové stránky môžete vypnúť režim "Len HTTPS". Pre tieto stránky sa { -brand-short-name } nebude snažiť inovovať pripojenie na zabezpečené HTTPS. Výnimky sa nevzťahujú na súkromné okná.
 
 ## Exceptions - Pop-ups

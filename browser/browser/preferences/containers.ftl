@@ -13,6 +13,11 @@ containers-window-update-settings =
 containers-window-new2 =
     .title = Pridať nový kontajner
     .style = min-width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings2 =
+    .title = Nastavenia kontajnera { $name }
+    .style = min-width: 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
