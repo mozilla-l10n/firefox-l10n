@@ -96,6 +96,9 @@ permissions-exceptions-cookie-desc = Ви можете вказати, яким 
 permissions-exceptions-https-only-window =
     .title = Винятки — HTTPS-режим
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Винятки — HTTPS-режим
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Ви можете вимкнути HTTPS-режим для певних вебсайтів. { -brand-short-name } не намагатиметься оновити з’єднання, щоб захистити ці сайти за допомогою HTTPS. Винятки не стосуються приватних вікон.
 
 ## Exceptions - Pop-ups
