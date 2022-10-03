@@ -5,10 +5,11 @@
 containers-window-new =
     .title = Nayonan ti Baro a Pangikabilan
     .style = width: 45em
-
+containers-window-new2 =
+    .title = Nayonan ti Baro a Pangikabilan
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -19,22 +20,17 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Nagan
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Panagananyo ti Pangikabilan
-
 containers-icon-label = Ikono
     .accesskey = n
     .style = { -containers-labels-style }
-
 containers-color-label = Maris
     .accesskey = M
     .style = { -containers-labels-style }
-
 containers-color-blue =
     .label = Asul
 containers-color-turquoise =
@@ -51,7 +47,6 @@ containers-color-pink =
     .label = Rosas
 containers-color-purple =
     .label = Lila
-
 containers-icon-fingerprint =
     .label = Lemma
 containers-icon-briefcase =
