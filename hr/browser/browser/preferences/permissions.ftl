@@ -83,6 +83,9 @@ permissions-exceptions-etp-desc = Zaštita je isključena na ovim web stranicama
 permissions-exceptions-cookie-window =
     .title = Iznimke - kolačići i podaci web stranice
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Iznimke - kolačići i podaci web stranice
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Možeš odrediti web stranice, koje smiju uvijek ili ne smiju nikada koristiti kolačiće i podatke web stranice. Upiši točnu adresu stranice koju želiš podesiti i klikni „Blokiraj”, „Dozvoli za sesiju” ili „Dozvoli”.
 
 ## Exceptions - HTTPS-Only Mode
