@@ -83,6 +83,9 @@ permissions-exceptions-etp-desc = Anda telah menonaktifkan perlindungan di situs
 permissions-exceptions-cookie-window =
     .title = Pengecualian - Kuki dan Data Situs
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Pengecualian - Kuki dan Data Situs
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Anda dapat menentukan situs web mana saja yang diizinkan atau tidak diizinkan untuk menggunakan kuki dan data situs. Ketik alamat situs secara persis yang ingin dikelola, kemudian klik Blokir, Izinkan untuk Sesi, atau Izinkan.
 
 ## Exceptions - HTTPS-Only Mode
