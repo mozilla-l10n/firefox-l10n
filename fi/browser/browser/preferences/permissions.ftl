@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Kirjoita kelvollinen palvelinnimi
 permissions-exceptions-etp-window =
     .title = Tehostetun seurannan suojauksen poikkeukset
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Tehostetun seurannan suojauksen poikkeukset
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Olet poistanut suojaukset käytöstä näillä sivustoilla.
 
 ## Exceptions - Cookies
@@ -93,6 +96,9 @@ permissions-exceptions-cookie-desc = Määrätyt sivustot saavat tai eivät saa 
 permissions-exceptions-https-only-window =
     .title = Poikkeukset - Vain HTTPS -tila
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Poikkeukset - Vain HTTPS -tila
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Voit poistaa Vain HTTPS -tilan käytöstä haluamiesi sivustojen kohdalla. { -brand-short-name } ei näin ollen yritä päivittää yhteyttä suojattuun HTTPS-tilaan kyseisten sivustojen kohdalla. Poikkeukset eivät päde yksityisiin ikkunoihin.
 
 ## Exceptions - Pop-ups
