@@ -54,7 +54,7 @@
 <!ENTITY col.progresstext.tooltip        "Napredek (&#37;)">
 <!ENTITY col.source.label                "Vir">
 <!ENTITY col.source.accesskey            "V">
-<!ENTITY col.source.tooltip              "Vit">
+<!ENTITY col.source.tooltip              "Vir">
 
 <!ENTITY view.columns.label              "Pokaži stolpce">
 <!ENTITY view.columns.accesskey          "ž">
