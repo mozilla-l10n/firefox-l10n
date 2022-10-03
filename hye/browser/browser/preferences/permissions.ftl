@@ -96,6 +96,9 @@ permissions-exceptions-cookie-desc = Կարող էք յատկորոշել, թե 
 permissions-exceptions-https-only-window =
     .title = Բացառութիւններ - HTTPS-Only Mode
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Բացառութիւններ - HTTPS-Only Mode
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Կարող էք անջատել HTTPS-Only Mode-ը որոշ կայքերի համար։ { -brand-short-name } -ը չի փորձի թարմացնել HTTPS կապը այս կայքերի համար: Բացառութիւնները չեն ազդում գաղտնի պատուհանների վրայ:
 
 ## Exceptions - Pop-ups
@@ -113,6 +116,9 @@ permissions-exceptions-popup-desc = Դուք կարող էք նշել, թե որ
 permissions-exceptions-saved-logins-window =
     .title = Բացառութիւններ՝ պահուած մտից անուններում
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Բացառութիւններ՝ պահուած մտից անուններում
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Հետեւեալ կայքերի համար մտից անունները չեն պահպանուի
 
 ## Exceptions - Add-ons
@@ -153,6 +159,9 @@ permissions-site-notification-disable-desc = Սա կը կանխի ցանկում
 permissions-site-location-window =
     .title = Կարգաւորումներ - Տեղակայման վայրի արտաւնութիւններ
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Կարգաւորումներ - Տեղակայման վայրի արտաւնութիւններ
+    .style = { permissions-window2.style }
 permissions-site-location-desc = Հետեւեալ կայքերը հայցել են ձեր տեղադրութիւնը: Դուք կարող եք հատկորոշել, թե որ կայքերը կարող են մատչել ձեր տեղադրութեանը: Նաեւ՝ կարող եք արգելափակել ձեր տեղադրութիւնը մատչելու նոր հարցումները:
 permissions-site-location-disable-label =
     .label = Արգելափակել ձեր տեղադրութիւնը մատչելու նոր հարցումները
