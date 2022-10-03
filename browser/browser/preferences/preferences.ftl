@@ -5,17 +5,13 @@
 pane-general-title = Ердийн
 category-general =
     .tooltiptext = { pane-general-title }
-
 pane-search-title = Хайх
 category-search =
     .tooltiptext = { pane-search-title }
-
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
 focus-search =
     .key = f
-
 close-button =
     .aria-label = Хаа
 
@@ -40,9 +36,7 @@ should-restart-title = { -brand-short-name }-г шинээр ачаал
 ## General Section
 
 startup-header = Эхлэл
-
 tabs-group-header = Самбар
-
 show-tabs-in-taskbar =
     .label = Виндовсийн табыг харуулах
     .accesskey = k
@@ -52,13 +46,10 @@ show-tabs-in-taskbar =
 advanced-fonts =
     .label = Нэмэлт…
     .accesskey = м
-
 choose-language-description = Хуудас харуулахад хэрэглэгдэх хэлээ сонгоно уу
-
 choose-button =
     .label = Сонго…
     .accesskey = н
-
 translate-exceptions =
     .label = Зөвшөөрөгдсөн хуудас
     .accesskey = д
@@ -66,14 +57,8 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = Файл татаж авах үед
-
-download-save-to =
-    .label = Файлыг энд хадгал
-    .accesskey = д
-
 download-save-where = Файлыг энд хадгал
     .accesskey = д
-
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -85,45 +70,36 @@ download-choose-folder =
             [macos] о
            *[other] ө
         }
-
 applications-type-column =
     .label = Файлын төрөл
     .accesskey = ө
-
 applications-action-column =
     .label = Хэрхэн хандах
     .accesskey = н
-
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = файл { $extension }
 applications-action-save =
     .label = Файлыг хадгал
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = { $app-name }-г хэрэглэ
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name }-г хэрэглэ (анхдагч)
-
 applications-use-other =
     .label = Өөр програмаар…
 applications-select-helper = Нээгч програмыг сонго
-
 applications-manage-app =
     .label = Програмын нарийвчилсан мэдээлэл…
 applications-always-ask =
     .label = Үргэлж асуу
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -135,19 +111,14 @@ applications-use-plugin-in =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -163,15 +134,12 @@ performance-allow-hw-accel =
 ## General Section - Browsing
 
 browsing-title = Вэбд зорчих
-
 browsing-use-autoscroll =
     .label = Хуудсанд автомат гулгуур хэрэглэ
     .accesskey = в
-
 browsing-use-smooth-scrolling =
     .label = Хуудсанд зөөлөн гулгуур хэрэглэ
     .accesskey = с
-
 browsing-use-cursor-navigation =
     .label = Хуудсанд зорчих үед үргэлж хулганы заагчийг хэрэглэ
     .accesskey = у
@@ -210,7 +178,6 @@ use-current-pages =
 
 search-choose-keyword-column =
     .label = Түлхүүр үг
-
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Түлхүүр үгийг хувил
@@ -249,7 +216,6 @@ search-keyword-warning-bookmark = Та одоогоор хаяганд хэрэ�
 forms-exceptions =
     .label = Зөвшөөрөгдсөн хуудас…
     .accesskey = ш
-
 forms-master-pw-change =
     .label = Мастер нууц үгийг өөрчил…
     .accesskey = с
@@ -265,9 +231,7 @@ history-remember-option-never =
     .label = Зорчсон түүхийг хадгалахгүй
 history-remember-option-custom =
     .label = Зорчсон түүхэнд дурын тохиргоо хэрэглэнэ
-
 history-dontremember-description = { -brand-short-name } хувийн зорчилттой ижил тохиргоо хэрэглэж вэбд зорчсон түүхийг хадгалахгүй байх болно.
-
 history-private-browsing-permanent =
     .label = Дандаа ашиглах & хувийн ачааллах загвар
     .accesskey = p
@@ -296,7 +260,6 @@ history-private-browsing-permanent =
 permissions-block-popups =
     .label = Дэлгэгдэх цонхуудыг хорих
     .accesskey = Д
-
 permissions-addon-exceptions =
     .label = Тодорхойлж өгөх…
     .accesskey = ж
@@ -322,4 +285,3 @@ certs-header = Гэрчилгээ
 desktop-folder-name = Ар дэвсгэр
 downloads-folder-name = Татаж авалтууд
 choose-download-folder-title = Татаж авалтын санг сонго:
-
