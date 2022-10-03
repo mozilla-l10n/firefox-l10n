@@ -5,6 +5,9 @@
 permissions-window =
     .title = Unntak
     .style = width: 36em
+permissions-window2 =
+    .title = Unntak
+    .style = min-width: 36em
 permissions-close-key =
     .key = w
 permissions-address = Adressa til nettstaden
