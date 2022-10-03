@@ -83,6 +83,9 @@ permissions-exceptions-etp-desc = Tu ha disactivate le protectiones sur iste sit
 permissions-exceptions-cookie-window =
     .title = Exceptiones - Cookies e Datos de sito
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Exceptiones - Cookies e Datos de sito
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Tu pote specificar qual sitos web sempre o nunquam pote usar cookies e datos de sito.  Scribe le adresse exacte del sito que tu vole gerer e pois clicca sur Blocar, Permitter pro le session, o Permitter.
 
 ## Exceptions - HTTPS-Only Mode
@@ -90,6 +93,9 @@ permissions-exceptions-cookie-desc = Tu pote specificar qual sitos web sempre o 
 permissions-exceptions-https-only-window =
     .title = Exceptiones - modo solo-HTTPS
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Exceptiones - modo solo-HTTPS
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Tu pote disactivar le modo solo HTTPS pro sitos web specific. { -brand-short-name } non tentara securisar le connexion a HTTPS pro ille sitos. Exceptiones non se applica a fenestras private.
 
 ## Exceptions - Pop-ups
