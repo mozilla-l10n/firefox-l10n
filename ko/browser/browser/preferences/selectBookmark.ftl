@@ -5,5 +5,7 @@
 select-bookmark-window =
     .title = 홈 페이지로 설정
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = 홈 페이지로 설정
+    .style = min-width: 32em;
 select-bookmark-desc = 북마크를 홈 페이지로 설정합니다. 만약 북마크 폴더를 선택하시면 시작할 때 포함 항목이 모두 탭으로 열립니다.
