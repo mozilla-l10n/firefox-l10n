@@ -110,6 +110,9 @@ permissions-exceptions-popup-desc = Anda dapat menentukan situs web mana saja ya
 permissions-exceptions-saved-logins-window =
     .title = Pengecualian - Info Masuk Tersimpan
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Pengecualian - Info Masuk Tersimpan
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Info masuk untuk situs berikut ini tidak akan disimpan
 
 ## Exceptions - Add-ons
