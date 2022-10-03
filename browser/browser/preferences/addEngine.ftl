@@ -5,18 +5,15 @@
 add-engine-window =
     .title = Gehitu bilaketa-motorra
     .style = width: 32em;
-
+add-engine-window2 =
+    .title = Gehitu bilaketa-motorra
+    .style = min-width: 32em;
 add-engine-button = Gehitu bilaketa-motor pertsonalizatua
-
 add-engine-name = Bilaketa-motorraren izena
-
 add-engine-alias = Aliasa
-
 add-engine-url = Bilaketa-motorraren URLa, erabili %s bilaketa-terminoaren tokian
-
 add-engine-dialog =
     .buttonlabelaccept = Gehitu bilaketa-motorra
     .buttonaccesskeyaccept = G
-
 engine-name-exists = Dagoeneko badago izen hori duen bilaketa-motor bat
 engine-alias-exists = Dagoeneko badago alias hori duen bilaketa-motor bat
