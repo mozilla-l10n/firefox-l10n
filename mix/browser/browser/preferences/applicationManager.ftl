@@ -5,7 +5,9 @@
 app-manager-window =
     .title = Tu'un aplicación
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = Tu'un aplicación
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = Xitaá
     .accesskey = X
