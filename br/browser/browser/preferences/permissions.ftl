@@ -5,6 +5,9 @@
 permissions-window =
     .title = Nemedennoù
     .style = width: 45em
+permissions-window2 =
+    .title = Nemedennoù
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = Chomlec'h al lec'hienn
@@ -104,6 +107,9 @@ permissions-exceptions-popup-desc = Gallout a rit erspizañ pe lec'hiennoù zo a
 permissions-exceptions-saved-logins-window =
     .title = Nemedennoù - Titouroù kennaskañ enrollet
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Nemedennoù - Titouroù kennaskañ enrollet
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Ne vo ket enrollet titouroù kennaskañ al lec'hiennoù da-heul
 
 ## Exceptions - Add-ons
