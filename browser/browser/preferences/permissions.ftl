@@ -5,6 +5,9 @@
 permissions-window =
     .title = ব্যতিক্রম
     .style = width: 45em
+permissions-window2 =
+    .title = ব্যতিক্রম
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = ওয়েবসাইটের ঠিকানা
@@ -76,6 +79,9 @@ permissions-exceptions-popup-desc = কোন ওয়েব-সাইটগুল
 permissions-exceptions-saved-logins-window =
     .title = ব্যতিক্রম - সংরক্ষিত লগইন
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = ব্যতিক্রম - সংরক্ষিত লগইন
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = নিম্নলিখিত ওয়েবসাইটগুলির জন্য লগইন সংক্রান্ত তথ্য সংরক্ষণ করা হবে না
 
 ## Exceptions - Add-ons
