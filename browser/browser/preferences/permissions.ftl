@@ -5,6 +5,9 @@
 permissions-window =
     .title = अपवाद
     .style = width: 45em
+permissions-window2 =
+    .title = अपवाद
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = वेब साइट पता
