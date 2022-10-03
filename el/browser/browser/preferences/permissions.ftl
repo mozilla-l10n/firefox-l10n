@@ -5,6 +5,9 @@
 permissions-window =
     .title = Εξαιρέσεις
     .style = width: 47em
+permissions-window2 =
+    .title = Εξαιρέσεις
+    .style = min-width: 47em
 permissions-close-key =
     .key = w
 permissions-address = Διεύθυνση ιστοτόπου
