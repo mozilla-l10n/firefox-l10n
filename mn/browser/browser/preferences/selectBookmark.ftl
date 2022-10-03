@@ -5,5 +5,7 @@
 select-bookmark-window =
     .title = Эхлэл хуудас болго
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = Эхлэл хуудас болго
+    .style = min-width: 32em;
 select-bookmark-desc = Эхлэл хуудас болгох хаягаа сонгоно уу. Хэрэв та сан сонгох юм бол уг санд буй хаягнууд самбарчлан харуулагдах болно.
