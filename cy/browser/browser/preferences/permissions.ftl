@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Rhoi cyfeiriad e-bost dilys
 permissions-exceptions-etp-window =
     .title = Eithriadau ar gyfer Diogelwch Uwch Rhag Tracio
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Eithriadau ar gyfer Diogelwch Uwch Rhag Tracio
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Rydych wedi diffodd y diogelu ar y gwefannau hyn.
 
 ## Exceptions - Cookies
@@ -93,6 +96,9 @@ permissions-exceptions-cookie-desc = Gallwch bennu pa wefannau sy'n cael defnydd
 permissions-exceptions-https-only-window =
     .title = Eithriadau - Modd HTTPS-yn-Unig
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Eithriadau - Modd HTTPS-yn-Unig
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Gallwch ddiffodd Modd HTTPS-yn-Unig ar gyfer gwefannau penodol. Ni fydd { -brand-short-name } yn ceisio uwchraddio'r cysylltiad i sicrhau HTTPS ar gyfer y gwefannau hynny. Nid oes eithriadau ar gyfer ffenestri preifat.
 
 ## Exceptions - Pop-ups
@@ -130,6 +136,9 @@ permissions-exceptions-addons-desc = Gallwch enwi pa wefannau sy'n cael gosod yc
 permissions-site-autoplay-window =
     .title = Gosodiadau - Autochwarae
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Gosodiadau - Autochwarae
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Gallwch reoli'r gwefannau nad ydynt yn eu dilyn eich gosodiadau awtochwarae rhagosodedig yma.
 
 ## Site Permissions - Notifications
@@ -163,6 +172,9 @@ permissions-site-location-disable-desc = Bydd hyn yn rhwystro unrhyw wefan sydd 
 permissions-site-xr-window =
     .title = Gosodiadau - Caniatâd Rhithrealaeth
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Gosodiadau - Caniatâd Rhithrealaeth
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Mae'r gwefannau canlynol wedi gofyn am gael mynediad at eich dyfeisiau rhithrealaeth. Gallwch chi nodi pa wefannau sy'n cael mynediad at eich dyfeisiau rhithrealaeth. Gallwch hefyd rwystro ceisiadau newydd sy'n gofyn am gael mynediad at eich dyfeisiau rhithrealaeth .
 permissions-site-xr-disable-label =
     .label = Rhwystro geisiadau newydd sy'n gofyn am gael mynediad at eich dyfeisiau rhithrealaeth
