@@ -5,77 +5,59 @@
 permissions-window =
     .title = Exceções
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Endereço do site
     .accesskey = d
-
 permissions-block =
     .label = Bloquear
     .accesskey = B
-
 permissions-session =
     .label = Permitir para a sessão
     .accesskey = e
-
 permissions-allow =
     .label = Permitir
     .accesskey = P
-
 permissions-button-off =
     .label = Desligar
     .accesskey = D
-
 permissions-button-off-temporarily =
     .label = Desligar temporariamente
     .accesskey = t
-
 permissions-site-name =
     .label = Site
-
 permissions-status =
     .label = Estado
-
 permissions-remove =
     .label = Remover site
     .accesskey = R
-
 permissions-remove-all =
     .label = Remover todos os sites
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Guardar alterações
     .buttonaccesskeyaccept = G
-
 permissions-autoplay-menu = Predefinição para todos os sites:
-
 permissions-searchbox =
     .placeholder = Pesquisar site
-
 permissions-capabilities-autoplay-allow =
     .label = Permitir áudio e vídeo
 permissions-capabilities-autoplay-block =
     .label = Bloquear áudio
 permissions-capabilities-autoplay-blockall =
     .label = Bloquear áudio e vídeo
-
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Bloquear
 permissions-capabilities-prompt =
     .label = Perguntar sempre
-
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Bloquear
 permissions-capabilities-listitem-allow-session =
     .value = Permitir para a sessão
-
 permissions-capabilities-listitem-off =
     .value = Desligado
 permissions-capabilities-listitem-off-temporarily =
@@ -119,6 +101,9 @@ permissions-exceptions-popup-desc = Pode especificar quais os sites que têm per
 permissions-exceptions-saved-logins-window =
     .title = Exceções - Credenciais guardadas
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Exceções - Credenciais guardadas
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Não serão guardadas as credenciais para os seguintes sites
 
 ## Exceptions - Add-ons
