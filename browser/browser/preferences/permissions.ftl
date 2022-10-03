@@ -124,6 +124,9 @@ permissions-exceptions-addons-desc = Þú getur skilgreint hvaða vefsvæði haf
 permissions-site-autoplay-window =
     .title = Stillingar - sjálfspillun
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Stillingar - sjálfspillun
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Hér getur þú getur stjórnað þeim síðum sem ekki fylgja sjálfgefnum stillingum sjálfspilunar.
 
 ## Site Permissions - Notifications
