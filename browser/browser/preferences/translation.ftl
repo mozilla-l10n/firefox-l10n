@@ -5,36 +5,29 @@
 translation-window =
     .title = 例外 - 翻译
     .style = width: 36em
-
+translation-window2 =
+    .title = 例外 - 翻译
+    .style = min-width: 36em
 translation-close-key =
     .key = w
-
 translation-languages-disabled-desc = 翻译不支持下列语言
-
 translation-languages-column =
     .label = 语言
-
 translation-languages-button-remove =
     .label = 移除语言
     .accesskey = R
-
 translation-languages-button-remove-all =
     .label = 移除所有语言
     .accesskey = e
-
 translation-sites-disabled-desc = 翻译不支持下列网站
-
 translation-sites-column =
     .label = 网站
-
 translation-sites-button-remove =
     .label = 移除此站点
     .accesskey = S
-
 translation-sites-button-remove-all =
     .label = 移除全部站点
     .accesskey = i
-
 translation-dialog =
     .buttonlabelaccept = 关闭
     .buttonaccesskeyaccept = C
