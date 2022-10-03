@@ -5,16 +5,21 @@
 containers-window-new =
     .title = Adder un nove contentor
     .style = width: 45em
-
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings =
     .title = Parametros del contentor { $name }
     .style = width: 45em
-
+containers-window-new2 =
+    .title = Adder un nove contentor
+    .style = min-width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings2 =
+    .title = Parametros del contentor { $name }
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -25,26 +30,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Nomine
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Scribe un nomine pro le contentor
-
 containers-icon-label = Icone
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = Color
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = Facite
     .buttonaccesskeyaccept = F
-
 containers-color-blue =
     .label = Blau
 containers-color-turquoise =
@@ -63,7 +62,6 @@ containers-color-purple =
     .label = Violette
 containers-color-toolbar =
     .label = Color del barra del instrumentos
-
 containers-icon-fence =
     .label = Barriera
 containers-icon-fingerprint =

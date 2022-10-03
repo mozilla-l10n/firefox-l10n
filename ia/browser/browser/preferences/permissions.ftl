@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Per favor insere un nomine de hoste valide
 permissions-exceptions-etp-window =
     .title = Exceptiones al protection antitraciamento reinfortiate
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Exceptiones al protection antitraciamento reinfortiate
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Tu ha disactivate le protectiones sur iste sitos web.
 
 ## Exceptions - Cookies
@@ -113,6 +116,9 @@ permissions-exceptions-popup-desc = Tu pote specificar qual sitos web ha le perm
 permissions-exceptions-saved-logins-window =
     .title = Exceptiones - Credentiales salvate
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Exceptiones - Credentiales salvate
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Le credentiales pro le sitos web sequente non essera salvate
 
 ## Exceptions - Add-ons
@@ -130,6 +136,9 @@ permissions-exceptions-addons-desc = Tu pote specificar qual sitos web ha le per
 permissions-site-autoplay-window =
     .title = Configuration - Autoreproduction
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Configuration - Autoreproduction
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Specifica hic le sitos web que non seque tu configuration predefinite de autoreproduction.
 
 ## Site Permissions - Notifications
@@ -163,6 +172,9 @@ permissions-site-location-disable-desc = Isto impedira qualcunque sitos web non 
 permissions-site-xr-window =
     .title = Parametros - Permissiones de realitate virtual
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Parametros - Permissiones de realitate virtual
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Le sitos web sequente ha requestate de acceder a tu apparatos de realitate virtual. Tu pote specificar qual sitos web pote acceder a iste apparatos. Tu pote etiam blocar nove requestas de accesso a istes.
 permissions-site-xr-disable-label =
     .label = Blocar nove requestas de acceder a tu apparatos de realitate virtual
