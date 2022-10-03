@@ -73,6 +73,9 @@ permissions-invalid-uri-label = Picatz un nom d'òste valid
 permissions-exceptions-etp-window =
     .title = Excepcions per la proteccion contra lo seguiment
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Excepcions per la proteccion contra lo seguiment
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Avètz desactivat las proteccions per aquestes sites web.
 
 ## Exceptions - Cookies
@@ -80,6 +83,9 @@ permissions-exceptions-etp-desc = Avètz desactivat las proteccions per aquestes
 permissions-exceptions-cookie-window =
     .title = Excepcions - Cookies e donadas de sites
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Excepcions - Cookies e donadas de sites
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Podètz especificar quines sites pòdon totjorn o jamai utilizar los cookies e las donadas. Picatz l’adreça del site que volètz gerir e clicar Blocar, Autorizar pendent la session, o Autorizar.
 
 ## Exceptions - HTTPS-Only Mode
@@ -87,6 +93,9 @@ permissions-exceptions-cookie-desc = Podètz especificar quines sites pòdon tot
 permissions-exceptions-https-only-window =
     .title = Excepcions - Mòde HTTPS solament
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Excepcions - Mòde HTTPS solament
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Podètz desactivar lo mòde HTTPS solament per de sites especifics. { -brand-short-name } ensajarà pas de passar a una connexion HTTPS segura per aqueles sites. Las excepcions s’aplican pas a las fenèstras de navegacion privada.
 
 ## Exceptions - Pop-ups
@@ -124,6 +133,9 @@ permissions-exceptions-addons-desc = Podètz indicar los sites web qu'autorizatz
 permissions-site-autoplay-window =
     .title = Paramètres - Lectura automatica
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Paramètres - Lectura automatica
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Podètz gerir aquí los sites que seguisson pas vòstres paramètres de lectura automatica per defaut.
 
 ## Site Permissions - Notifications
@@ -157,6 +169,9 @@ permissions-site-location-disable-desc = Aquò empacha quin site que siá pas li
 permissions-site-xr-window =
     .title = Paramètres - Permission de realitat virtuala
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Paramètres - Permission de realitat virtuala
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Los sites seguents an demandat l’accès a vòstre periferic de realitat virtuala. Podètz causir quines sites pòdon i accedir. Podètz tanben blocar de novèlas demandas d’accès a vòstre periferic de realitat virtuala.
 permissions-site-xr-disable-label =
     .label = Blocar las novèlas demandas d’accès a vòstre periferic de realitat virtuala
@@ -167,6 +182,9 @@ permissions-site-xr-disable-desc = Aquò empacha quin site que siá pas listat d
 permissions-site-camera-window =
     .title = Paramètres - Permission per la camèra
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = Paramètres - Permission per la camèra
+    .style = { permissions-window2.style }
 permissions-site-camera-desc = Los sites seguents an demandat l’accès a vòstra camèra. Podètz causir quines sites pòdon i accedir. Podètz tanben blocar de novèlas demandas d’accès a vòstra camèra.
 permissions-site-camera-disable-label =
     .label = Blocar las novèlas demandas d’accès a la camèra
