@@ -300,7 +300,7 @@ about-logins-import-report-modified =
     }
 about-logins-import-report-no-change =
     { $count ->
-       *[other] <div data-l10n-name="details">පිවිසුම් අනුපිටපත්</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="not-imported ">(ආයාත නොකෙරිණි)</div>
+       *[other] <div data-l10n-name="details">පිවිසුම් අනුපිටපත්</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="not-imported">(ආයාත නොකෙරිණි)</div>
     }
 about-logins-import-report-error =
     { $count ->
