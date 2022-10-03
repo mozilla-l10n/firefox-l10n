@@ -96,6 +96,9 @@ permissions-exceptions-cookie-desc = Maaari mong tukuyin kung aling website ang 
 permissions-exceptions-https-only-window =
     .title = Mga Exception - HTTPS-Only Mode
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Mga Exception - HTTPS-Only Mode
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Maaari mong patayin ang HTTPS-Only Mode para sa mga tukoy na website. Hindi susubukang i-upgrade ng { -brand-short-name } ang koneksyon upang ma-secure ang HTTPS para sa mga site na iyon. Ang mga exception ay hindi nalalapat sa mga pribadong bintana.
 
 ## Exceptions - Pop-ups
