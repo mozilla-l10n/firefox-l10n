@@ -80,6 +80,9 @@ permissions-exceptions-etp-desc = You’ve turned off protections on these websi
 permissions-exceptions-cookie-window =
     .title = Exceptions - Cookies and Site Data
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Exceptions - Cookies and Site Data
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = You can specify which websites are always or never allowed to use cookies and site data. Type the exact address of the site you want to manage and then click Block, Allow for Session, or Allow.
 
 ## Exceptions - HTTPS-Only Mode
