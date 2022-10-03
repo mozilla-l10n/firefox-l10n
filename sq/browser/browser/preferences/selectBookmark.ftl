@@ -5,5 +5,7 @@
 select-bookmark-window =
     .title = Caktojeni Krye
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = Caktojeni Krye
+    .style = min-width: 32em;
 select-bookmark-desc = Zgjidhni një Faqerojtës që të jetë Kreu për ju. Nëse zgjidhni një dosje, Faqerojtësit në atë dosje do të hapen në Skeda.
