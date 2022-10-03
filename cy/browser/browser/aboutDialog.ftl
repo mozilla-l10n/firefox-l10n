@@ -23,6 +23,7 @@ update-otherInstanceHandlingUpdates = Mae { -brand-short-name } yn cael ei ddiwe
 update-manual = Mae diweddariadau ar gael yn <label data-l10n-name="manual-link"/>
 update-unsupported = Nid oes modd i chi ddiweddaru'r system hon ymhellach. <label data-l10n-name="unsupported-link">Dysgu rhagor</label>
 update-restarting = Ailgychwyn…
+update-internal-error = Methu gwirio am ddiweddariadau oherwydd gwall mewnol. Mae diweddariadau ar gael yn <label data-l10n-name="manual-link">
 channel-description = Rydych ar sianel diweddaru <label data-l10n-name="current-channel"></label>.
 warningDesc-version = Mae { -brand-short-name } yn arbrofol a gall fod yn ansad.
 aboutdialog-help-user = Cymorth { -brand-product-name }
