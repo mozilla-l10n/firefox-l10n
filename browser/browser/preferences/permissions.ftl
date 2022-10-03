@@ -59,6 +59,9 @@ permissions-invalid-uri-label = कृपया वैध होस्टना�
 permissions-exceptions-cookie-window =
     .title = अपवादहरु - कुकिजहरु र साइट डाटा
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = अपवादहरु - कुकिजहरु र साइट डाटा
+    .style = { permissions-window2.style }
 
 ## Exceptions - HTTPS-Only Mode
 
