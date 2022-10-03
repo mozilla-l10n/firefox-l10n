@@ -62,6 +62,9 @@ permissions-invalid-uri-label = ஒரு சரியான புரவலன�
 permissions-exceptions-cookie-window =
     .title = விதிவிலக்குகள் - நினைவிகளும் தள தரவும்
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = விதிவிலக்குகள் - நினைவிகளும் தள தரவும்
+    .style = { permissions-window2.style }
 
 ## Exceptions - HTTPS-Only Mode
 
