@@ -5,53 +5,40 @@
 permissions-window =
     .title = Eceçioin…
     .style = width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Indirisso do scito
     .accesskey = d
-
 permissions-block =
     .label = Blòcco
     .accesskey = B
-
 permissions-session =
     .label = Permetti in sta sescion
     .accesskey = s
-
 permissions-allow =
     .label = Permetti
     .accesskey = P
-
 permissions-site-name =
     .label = Scito
-
 permissions-status =
     .label = Stato
-
 permissions-remove =
     .label = Scancella scito
     .accesskey = S
-
 permissions-remove-all =
     .label = Scancella tutti i sciti
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Sarva cangiamenti
     .buttonaccesskeyaccept = S
-
 permissions-searchbox =
     .placeholder = Çerca scito
-
 permissions-capabilities-allow =
     .label = Permetti
 permissions-capabilities-block =
     .label = Blòcco
 permissions-capabilities-prompt =
     .label = Domanda de longo
-
 permissions-capabilities-listitem-allow =
     .value = Permetti
 permissions-capabilities-listitem-block =
@@ -76,6 +63,7 @@ permissions-exceptions-cookie-desc = Ti peu anche decidde quali sciti peuan de l
 
 ## Exceptions - HTTPS-Only Mode
 
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
@@ -88,6 +76,9 @@ permissions-exceptions-popup-desc = Ti ti peu dî quæ sciti peuan arvî barcoin
 permissions-exceptions-saved-logins-window =
     .title = Eceçioin - Login sarvæ
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Eceçioin - Login sarvæ
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = I dæti d'acesso pe sti sciti no saian sarvæ
 
 ## Exceptions - Add-ons

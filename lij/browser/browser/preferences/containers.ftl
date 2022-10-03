@@ -5,10 +5,11 @@
 containers-window-new =
     .title = Azonzi neuvo contegnitô
     .style = width: 45em
-
+containers-window-new2 =
+    .title = Azonzi neuvo contegnitô
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -19,26 +20,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Nomme
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Scrivi o nomme do contegnitô
-
 containers-icon-label = Icöna
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = Cô
     .accesskey = C
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = Fæto
     .buttonaccesskeyaccept = F
-
 containers-color-blue =
     .label = Bleu
 containers-color-turquoise =
@@ -57,7 +52,6 @@ containers-color-purple =
     .label = Pórpoa
 containers-color-toolbar =
     .label = Cô da bara di atressi
-
 containers-icon-fence =
     .label = Recinto
 containers-icon-fingerprint =
