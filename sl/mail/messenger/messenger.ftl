@@ -127,8 +127,6 @@ other-action-redirect-msg =
 message-header-msg-flagged =
     .title = Označeno z zvezdico
     .aria-label = Označeno z zvezdico
-message-header-msg-not-flagged =
-    .title = Sporočilo, ki ni označeno z zvezdico
 # Variables:
 # $address (String) - The email address of the recipient this picture belongs to.
 message-header-recipient-avatar =
@@ -159,6 +157,9 @@ message-header-hide-label-column =
 message-header-large-subject =
     .label = Velika zadeva
     .accesskey = z
+message-header-all-headers =
+    .label = Prikaži vse glave
+    .accesskey = v
 
 ## Action Button Context Menu
 
@@ -242,18 +243,6 @@ settings-context-open-addons-item2 =
 
 spaces-toolbar-pinned-tab-button =
     .tooltiptext = Odpri meni s komponentami
-spaces-pinned-button-menuitem-mail =
-    .label = { spaces-toolbar-button-mail.title }
-spaces-pinned-button-menuitem-address-book =
-    .label = { spaces-toolbar-button-address-book.title }
-spaces-pinned-button-menuitem-calendar =
-    .label = { spaces-toolbar-button-calendar.title }
-spaces-pinned-button-menuitem-tasks =
-    .label = { spaces-toolbar-button-tasks.title }
-spaces-pinned-button-menuitem-chat =
-    .label = { spaces-toolbar-button-chat.title }
-spaces-pinned-button-menuitem-settings =
-    .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-mail2 =
     .label = { spaces-toolbar-button-mail2.title }
 spaces-pinned-button-menuitem-address-book2 =
