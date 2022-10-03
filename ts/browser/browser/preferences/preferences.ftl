@@ -4,13 +4,10 @@
 
 category-general =
     .tooltiptext = { pane-general-title }
-
 category-search =
     .tooltiptext = { pane-search-title }
-
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
 close-button =
     .aria-label = Pfala
 
@@ -44,14 +41,8 @@ advanced-fonts =
 ## General Section - Files and Applications
 
 download-header = Downloads
-
-download-save-to =
-    .label = Save files to
-    .accesskey = v
-
 download-save-where = Save files to
     .accesskey = v
-
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -63,13 +54,10 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
-
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Fayili { $extension }
-
 applications-select-helper = Hlawula Apulikhexini ya Mupfuni
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
@@ -81,19 +69,14 @@ applications-type-description-with-type = { $type-description } ({ $type })
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -106,15 +89,12 @@ applications-use-other-label =
 ## General Section - Browsing
 
 browsing-title = Secha
-
 browsing-use-autoscroll =
     .label = Use autoscrolling
     .accesskey = a
-
 browsing-use-smooth-scrolling =
     .label = Tirhisa xo secha xa othomethiki
     .accesskey = t
-
 browsing-use-cursor-navigation =
     .label = Always use the cursor keys to navigate within pages
     .accesskey = c
@@ -231,4 +211,3 @@ forms-master-pw-fips-desc = Ku cinca phasiwedi swi tsandzile
 
 desktop-folder-name = Desikithopo
 choose-download-folder-title = Hlawula Folidara yo Panga:
-

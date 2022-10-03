@@ -5,30 +5,26 @@
 permissions-window =
     .title = Swa le thlelo
     .style = width: 36em
-
+permissions-window2 =
+    .title = Swa le thlelo
+    .style = min-width: 36em
 permissions-close-key =
     .key = w
-
 permissions-block =
     .label = Block
     .accesskey = B
-
 permissions-session =
     .label = Allow for Session
     .accesskey = S
-
 permissions-allow =
     .label = Allow
     .accesskey = A
-
 permissions-status =
     .label = Xiyimo
-
 permissions-capabilities-allow =
     .label = Pfumelela
 permissions-capabilities-block =
     .label = Siva
-
 permissions-capabilities-listitem-allow =
     .value = Pfumelela
 permissions-capabilities-listitem-block =
@@ -49,6 +45,7 @@ permissions-invalid-uri-label = Nghenisa vito ra ntiyiso ro amukela
 
 ## Exceptions - HTTPS-Only Mode
 
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = U nga boxa masayiti ya web lama faneleke ku pfula mafasitere ya pop up. Thayipa adirese leyi nga fanela ya sayiti leri u ri lavaka ku ri pfumelela ivi u tshikelela Pfumelela.
@@ -60,10 +57,8 @@ permissions-exceptions-popup-desc = U nga boxa masayiti ya web lama faneleke ku 
 
 permissions-exceptions-addons-desc = You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
 
-## Exceptions - Autoplay Media
-
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -72,6 +67,7 @@ permissions-exceptions-addons-desc = You can specify which web sites are allowed
 
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 
