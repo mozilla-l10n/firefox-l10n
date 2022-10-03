@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Cuir a-steach ainm òstair dhligheach
 permissions-exceptions-etp-window =
     .title = Eisgeachdan air an dìon adhartach o thracadh
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Eisgeachdan air an dìon adhartach o thracadh
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Chuir thu dheth an dìon air na làraichean-lìn seo.
 
 ## Exceptions - Cookies
@@ -93,6 +96,9 @@ permissions-exceptions-cookie-desc = ’S urrainn dhut sònrachadh dè na làrai
 permissions-exceptions-https-only-window =
     .title = Eisgeachdan – Modh HTTPS a-mhàin
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Eisgeachdan – Modh HTTPS a-mhàin
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = ’S urrainn dhut am modh HTTPS a-mhàin a chur dheth do làraichean-lìn sònraichte. Chan fheuch { -brand-short-name } ris an ceangal àrdachadh gu HTTPS tèarainte dha na làraichean ud. Cha bhi na h-eisgeachdan an sàs air uinneagan prìobhaideach.
 
 ## Exceptions - Pop-ups
@@ -130,6 +136,9 @@ permissions-exceptions-addons-desc = 'S urrainn dhut sònrachadh dè na làraich
 permissions-site-autoplay-window =
     .title = Roghainnean – Fèin-chluich
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Roghainnean – Fèin-chluich
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = ’S urrainn dhut na làraichean nach cleachd na roghainnean fèin-chluich bunaiteach agad a stiùireadh an-seo.
 
 ## Site Permissions - Notifications
@@ -163,6 +172,9 @@ permissions-site-location-disable-desc = Cumaidh seo làrach-lìn sam bith nach 
 permissions-site-xr-window =
     .title = Roghainnean – Ceadan na fìorachd bhiortail
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Roghainnean – Ceadan na fìorachd bhiortail
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Dh’iarr na làraichean-lìn a leanas cead airson uidheaman na fìorachd bhiortail agad inntrigeadh. ’S urrainn dhut sònrachadh dè na làraichean-lìn aig a bheil cead air na h-uidheaman fìorachd bhiortail agad. ’S urrainn dhut iarrtasan ùra air na h-uidheaman fìorachd bhiortail agad a bhacadh cuideachd.
 permissions-site-xr-disable-label =
     .label = Bac iarrtasan ùra a dh’iarras cead air na h-uidheaman fìorachd bhiortail agad
