@@ -83,6 +83,9 @@ permissions-exceptions-etp-desc = ביטלת את ההגנות באתרים אל
 permissions-exceptions-cookie-window =
     .title = חריגות - עוגיות ונתוני אתרים
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = חריגות - עוגיות ונתוני אתרים
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = באפשרותך לציין לאלו אתרים מותר או אסור תמיד להשתמש בעוגיות ונתוני אתרים.  יש להקליד את הכתובת המדויקת של האתר שברצונך לנהל ואז ללחוץ על חסום, הרשה למשך ההפעלה, או הרשה.
 
 ## Exceptions - HTTPS-Only Mode
@@ -97,6 +100,9 @@ permissions-exceptions-https-only-desc = באפשרותך לכבות את מצב
 permissions-exceptions-popup-window =
     .title = אתרים מורשים - חלונות קופצים
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = אתרים מורשים - חלונות קופצים
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = באפשרותך לציין לאלו אתרים מותר לפתוח חלונות קופצים. הקלד את הכתובת המדויקת של האתר שברצונך להרשות ואז לחץ על הרשה.
 
 ## Exceptions - Saved Logins
@@ -114,6 +120,9 @@ permissions-exceptions-saved-logins-desc = פרטי הכניסה לאתרים ה
 permissions-exceptions-addons-window =
     .title = אתרים מורשים - התקנת תוספות
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = אתרים מורשים - התקנת תוספות
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = באפשרותך לציין לאלו אתרים מותר להתקין תוספות. הקלד את הכתובת המדויקת של האתר שברצונך להרשות ואז לחץ על הרשה.
 
 ## Site Permissions - Autoplay
@@ -121,12 +130,18 @@ permissions-exceptions-addons-desc = באפשרותך לציין לאלו אתר
 permissions-site-autoplay-window =
     .title = הגדרות - ניגון אוטומטי
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = הגדרות - ניגון אוטומטי
+    .style = { permissions-window2.style }
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
     .title = הגדרות - הרשאות להתרעות
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = הגדרות - הרשאות להתרעות
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = האתרים הבאים ביקשו לשלוח אליך התרעות. ניתן לציין לאילו אתרים מותר לשלוח אליך התרעות. ניתן גם לחסום בקשות חדשות לשליחת התרעות.
 permissions-site-notification-disable-label =
     .label = חסימת בקשות חדשות להפעלת התרעות
