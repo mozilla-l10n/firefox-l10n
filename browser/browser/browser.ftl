@@ -504,6 +504,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = For å bruke F12-snarveien, må du først åpne DevTools via menyen for Nettsideutvikling
+enable-devtools-popup-description2 = For å bruke F12-snarveien, må du først åpne DevTools via menyen Nettleserverktøy.
 
 ## URL Bar
 
