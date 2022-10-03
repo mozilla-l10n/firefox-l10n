@@ -5,26 +5,22 @@
 translation-window =
     .title = Izinxaxhi - Inguqulelo
     .style = width: 36em
-
+translation-window2 =
+    .title = Izinxaxhi - Inguqulelo
+    .style = min-width: 36em
 translation-close-key =
     .key = w
-
 translation-languages-column =
     .label = Iilwimi
-
 translation-languages-button-remove =
     .label = Shenxisa ulwimi
     .accesskey = S
-
 translation-languages-button-remove-all =
     .label = Shenxisa zonke iilwimi
     .accesskey = e
-
 translation-sites-button-remove =
     .label = Shenxisa isayithi
     .accesskey = i
-
 translation-sites-button-remove-all =
     .label = Shenxisa zonke iisayithi
     .accesskey = i
-
