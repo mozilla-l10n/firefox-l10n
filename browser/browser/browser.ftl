@@ -267,9 +267,6 @@ search-one-offs-actions =
     .tooltiptext = Actions ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
-
-
-## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
@@ -727,6 +724,9 @@ bookmarks-toolbar-placeholder-button =
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Bookmark current tab
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Bookmark current tab…
 
 ## Library Panel items
 
@@ -905,3 +905,6 @@ private-browsing-indicator-label = Private browsing
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Extensions
+    .tooltiptext = Extensions
