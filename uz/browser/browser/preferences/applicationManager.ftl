@@ -5,15 +5,15 @@
 app-manager-window =
     .title = Ilova dastur manbalari
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = Ilova dastur manbalari
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = Oʻchirish
     .accesskey = O
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = { $type } linklarga bogʻlash uchun quyidagi ilova dasturlardan foydalanish mumkin.
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = { $type } kontentga bogʻlash uchun quyidagi ilova dasturlardan foydalanish mumkin.
