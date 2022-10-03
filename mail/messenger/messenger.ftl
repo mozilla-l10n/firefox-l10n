@@ -153,6 +153,9 @@ message-header-hide-label-column =
 message-header-large-subject =
     .label = Stort ämne
     .accesskey = n
+message-header-all-headers =
+    .label = Visa alla rubriker
+    .accesskey = a
 
 ## Action Button Context Menu
 
