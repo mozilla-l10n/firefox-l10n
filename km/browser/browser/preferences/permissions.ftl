@@ -59,6 +59,9 @@ permissions-invalid-uri-label = សូម​បញ្ចូល​ឈ្មោះ
 permissions-exceptions-cookie-window =
     .title = ករណី​លើកលែង - ខូឃី និង​ទិន្នន័យ​គេហទំព័រ
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = ករណី​លើកលែង - ខូឃី និង​ទិន្នន័យ​គេហទំព័រ
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = អ្នក​អាច​បញ្ជាក់​តំបន់បណ្ដាញ​ណាមួយ​ដែល​តែងតែ ឬ​មិន​ដែល​អនុញ្ញាត​ឲ្យ​ប្រើ​ខូគី​និងទិន្នន័យសាយទាំងនេះ ។  វាយ​អាសយដ្ឋាន​ជាក់លាក់​របស់​តំបន់បណ្ដាញ​ដែល​អ្នក​ចង់​គ្រប់គ្រង បន្ទាប់មក​ចុច​ទប់ស្កាត់ អនុញ្ញាត​សម្រាប់​សម័យ ឬ​អនុញ្ញាត ។
 
 ## Exceptions - HTTPS-Only Mode
