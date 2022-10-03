@@ -5,28 +5,21 @@
 do-not-track-learn-more = Skua'a kuakaa
 do-not-track-option-always =
     .label = Ntikiì
-
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
-
 pane-home-title = Kitsàa
 category-home =
     .tooltiptext = { pane-home-title }
-
 pane-search-title = Nda tuku
 category-search =
     .tooltiptext = { pane-search-title }
-
 pane-privacy-title = Ña i'í tsi ña kunka vaa
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
 help-button-label = { -brand-short-name }Soporte
-
 focus-search =
     .key = f
-
 close-button =
     .aria-label = ndakasi
 
@@ -49,6 +42,7 @@ restart-later = Ndakitsa nunu ka
 ## Variables:
 ##   $name (String): name of the extension
 
+
 ## Preferences UI Search Results
 
 search-results-header = Nduku resultados
@@ -56,28 +50,21 @@ search-results-header = Nduku resultados
 ## General Section
 
 startup-header = Xina
-
 tabs-group-header = Xikua
-
 browser-containers-learn-more = Skua'a kuakaa
-
 browser-containers-settings =
     .label = Nda sama...
     .accesskey = n
-
 containers-disable-alert-title = ¿A kunu kasu ntii xikua?
 
 ## General Section - Language & Appearance
 
 default-font-size = Kua
     .accesskey = K
-
 advanced-fonts =
     .label = Nchichi
     .accesskey = n
-
 language-header = Tu'un
-
 choose-button =
     .label = Katsi…
     .accesskey = K
@@ -85,14 +72,8 @@ choose-button =
 ## General Section - Files and Applications
 
 download-header = Snuu
-
-download-save-to =
-    .label = Chika va'a tutu nu
-    .accesskey = C
-
 download-save-where = Chika va'a tutu nu
     .accesskey = C
-
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -104,7 +85,6 @@ download-choose-folder =
             [macos] E
            *[other] x
         }
-
 applications-header = Aplicaciones
 
 ## The strings in this group are used to populate
@@ -115,9 +95,7 @@ applications-header = Aplicaciones
 ##
 
 play-drm-content-learn-more = Skua'a kuakaa
-
 update-application-title = { -brand-short-name } ña tsaá
-
 update-application-version = Versión { $version } <a data-l10n-name="learn-more">Nchi yee</a>
 
 ## General Section - Performance
@@ -138,25 +116,19 @@ network-proxy-connection-learn-more = Skua'a kuakaa
 ## Home Section - Home Page Customization
 
 home-newtabs-mode-label = Xikua tsa'a
-
 home-restore-defaults =
     .label = Nchiko tana ntsikai
     .accesskey = N
-
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Kitsa Firefox (Tana xina)
-
 home-mode-choice-custom =
     .label = Nixi kunu URLs…
-
 home-mode-choice-blank =
     .label = Página yaa
-
 home-homepage-custom-url =
     .placeholder = Chistiín iin URL...
-
 choose-bookmark =
     .label = Kuachu'un  markador…
     .accesskey = m
@@ -172,17 +144,14 @@ choose-bookmark =
 
 home-prefs-highlights-option-visited-pages =
     .label = Páginas ntsinu
-
 home-prefs-sections-rows-option =
     .label = { $num } fila
 
 ## Search Section
 
 search-bar-header = Barra de búsqueda
-
 search-choose-keyword-column =
     .label = Tu'un xina
-
 search-remove-engine =
     .label = Xitaá
     .accesskey = x
@@ -201,7 +170,6 @@ containers-remove-button =
 sync-remove-account =
     .label = Stoó Kuenta
     .accesskey = S
-
 sync-sign-in =
     .label = Kitsaa
     .accesskey = K
@@ -217,16 +185,13 @@ sync-sign-in =
 sync-engine-bookmarks =
     .label = Marcadores
     .accesskey = m
-
 sync-engine-history =
     .label = Ña niya'a
     .accesskey = ñ
-
 sync-engine-tabs =
     .label = Kuna xikua
     .tooltiptext = Iin  ña nuna nu ntii kaa ndusu itaán
     .accesskey = t
-
 sync-engine-addons =
     .label = Add-ons
     .tooltiptext = Add-ons
@@ -237,7 +202,6 @@ sync-engine-addons =
 sync-device-name-cancel =
     .label = Kunchatu
     .accesskey = k
-
 sync-device-name-save =
     .label = Chika vaà
     .accesskey = g
@@ -254,7 +218,6 @@ sync-device-name-save =
 ## Privacy Section - History
 
 history-header = Ña niya'a
-
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
@@ -266,7 +229,6 @@ history-header = Ña niya'a
 #   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } A Kuú
     .accesskey = A
-
 history-clear-button =
     .label = Stoo ña ntsinu
     .accesskey = S
@@ -274,11 +236,9 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Skua'a kuakaa
-
 sitedata-clear =
     .label = Stoó tutu
     .accesskey = S
-
 sitedata-settings =
     .label = Katsi tutu…
     .accesskey = M
@@ -316,27 +276,22 @@ enhanced-tracking-protection-setting-custom =
 permissions-location-settings =
     .label = Sama...
     .accesskey = S
-
 permissions-camera = Kamara
 permissions-camera-settings =
     .label = Sama...
     .accesskey = S
-
 permissions-microphone = Micrófono
 permissions-microphone-settings =
     .label = Ndasama...
     .accesskey = t
-
 permissions-notification = Tu'un
 permissions-notification-settings =
     .label = Ndasama...
     .accesskey = d
 permissions-notification-link = Skua'a kuakaa
-
 permissions-block-popups =
     .label = Kasi ventanas ndatu
     .accesskey = K
-
 permissions-addon-exceptions =
     .label = Excepciones…
     .accesskey = e
@@ -363,8 +318,3 @@ security-enable-safe-browsing-link = Skua'a kuakaa
 desktop-folder-name = Escritorio
 downloads-folder-name = Snuù
 choose-download-folder-title = Katsi karpeta nu chikau ña Snuú:
-
-# Variables:
-#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
-save-files-to-cloud-storage =
-    .label = Chika va'a tutu nu { $service-name }
