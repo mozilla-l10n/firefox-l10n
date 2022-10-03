@@ -5,4 +5,6 @@
 select-bookmark-window =
     .title = Kaji tutu xina ñu'un
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = Kaji tutu xina ñu'un
+    .style = min-width: 32em;
