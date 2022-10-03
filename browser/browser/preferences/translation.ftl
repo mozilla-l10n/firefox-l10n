@@ -5,36 +5,29 @@
 translation-window =
     .title = మినహాయింపులు - అనువాదం
     .style = width: 36em
-
+translation-window2 =
+    .title = మినహాయింపులు - అనువాదం
+    .style = min-width: 36em
 translation-close-key =
     .key = w
-
 translation-languages-disabled-desc = ఈ క్రింది భాషలకు అనువాదం అందించబడదు
-
 translation-languages-column =
     .label = భాషలు
-
 translation-languages-button-remove =
     .label = భాషను తీసివేయి
     .accesskey = R
-
 translation-languages-button-remove-all =
     .label = అన్ని భాషలను తీసివేయి
     .accesskey = e
-
 translation-sites-disabled-desc = ఈ క్రింది సైట్లకు అనువాదం అందించబడదు
-
 translation-sites-column =
     .label = వెబ్‌సైట్లు
-
 translation-sites-button-remove =
     .label = సైటును తీసివేయి
     .accesskey = S
-
 translation-sites-button-remove-all =
     .label = అన్ని సైట్లను తీసివేయి
     .accesskey = i
-
 translation-dialog =
     .buttonlabelaccept = మూసివేయి
     .buttonaccesskeyaccept = C
