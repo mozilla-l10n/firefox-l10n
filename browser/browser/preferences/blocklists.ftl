@@ -5,19 +5,17 @@
 blocklist-window =
     .title = Blokkolási listák
     .style = width: 55em
-
+blocklist-window2 =
+    .title = Blokkolási listák
+    .style = min-width: 55em
 blocklist-description = Válassza ki a listát, amelyet a { -brand-short-name } az online nyomkövetők blokkolásához használjon. A listákat a <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a> biztosítja.
 blocklist-close-key =
     .key = w
-
 blocklist-treehead-list =
     .label = Listázás
-
 blocklist-dialog =
     .buttonlabelaccept = Változtatások mentése
     .buttonaccesskeyaccept = V
-
-
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."
@@ -26,7 +24,6 @@ blocklist-dialog =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-
 blocklist-item-moz-std-listName = 1. szintű blokkolási lista (ajánlott).
 blocklist-item-moz-std-description = Néhány követőt engedélyez, így kevesebb weboldal fog hibásan működni.
 blocklist-item-moz-full-listName = 2. szintű blokkolási lista.
