@@ -76,6 +76,9 @@ permissions-invalid-uri-label = 有効なホスト名を入力してください
 permissions-exceptions-etp-window =
     .title = 強化型トラッキング防止機能の例外
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = 強化型トラッキング防止機能の例外
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = これらのウェブサイトでは、保護をオフに設定しています。
 
 ## Exceptions - Cookies
@@ -83,6 +86,9 @@ permissions-exceptions-etp-desc = これらのウェブサイトでは、保護�
 permissions-exceptions-cookie-window =
     .title = Cookie とサイトデータのフィルター
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Cookie とサイトデータのフィルター
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Cookie とサイトデータの使用を許可するかどうかウェブサイトごとに指定できます。個別に設定するサイトの正確なアドレスを入力して [不許可]、[現在のセッションのみ]、[許可] のいずれかをクリックしてください。
 
 ## Exceptions - HTTPS-Only Mode
@@ -90,6 +96,9 @@ permissions-exceptions-cookie-desc = Cookie とサイトデータの使用を許
 permissions-exceptions-https-only-window =
     .title = 例外 - HTTPS-Only モード
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = 例外 - HTTPS-Only モード
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = HTTPS-Only モードをオフにするウェブサイトを指定できます。{ -brand-short-name } はこれらのサイトでは安全な接続にアップグレードしません。プライベートウィンドウではこの例外は適用されません。
 
 ## Exceptions - Pop-ups
@@ -163,6 +172,9 @@ permissions-site-location-disable-desc = 上記以外のウェブサイトは、
 permissions-site-xr-window =
     .title = 設定 - VR の使用許可
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = 設定 - VR の使用許可
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = 次のウェブサイトが VR デバイスへのアクセスを要求しています。VR デバイスへのアクセスを許可するウェブサイトを指定してください。これ以後の要求をブロックすることもできます。
 permissions-site-xr-disable-label =
     .label = VR デバイスへのアクセスの要求をブロックする
