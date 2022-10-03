@@ -76,6 +76,9 @@ permissions-invalid-uri-label = 유효한 호스트명을 입력하세요.
 permissions-exceptions-etp-window =
     .title = 향상된 추적 방지 기능에 대한 예외
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = 향상된 추적 방지 기능에 대한 예외
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = 다음 웹 사이트에서 보호 기능을 껐습니다.
 
 ## Exceptions - Cookies
@@ -124,6 +127,9 @@ permissions-exceptions-addons-desc = 부가 기능을 설치 가능하도록 웹
 permissions-site-autoplay-window =
     .title = 설정 - 자동 재생
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = 설정 - 자동 재생
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = 여기에서 자동 재생 기본 설정을 따르지 않는 사이트를 관리할 수 있습니다.
 
 ## Site Permissions - Notifications
@@ -157,6 +163,9 @@ permissions-site-location-disable-desc = 위 목록에 없는 사이트는 사�
 permissions-site-xr-window =
     .title = 설정 - 가상 현실 권한
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = 설정 - 가상 현실 권한
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = 다음 웹 사이트에서 가상 현실 기기에 대한 접근을 요청했습니다. 가상 현실 기기에 접근할 수 있는 웹 사이트를 지정할 수 있습니다. 가상 현실 기기에 접근하도록 요청하는 새 요청을 차단할 수도 있습니다.
 permissions-site-xr-disable-label =
     .label = 가상 현실 기기에 접근하도록 요청하는 새 요청을 차단
