@@ -9,15 +9,18 @@ connection-window =
             [macos] width: 44em
            *[other] width: 49em
         }
-
+connection-window2 =
+    .title = இணைப்பு அமைப்புகள்
+    .style =
+        { PLATFORM() ->
+            [macos] min-width: 44em
+           *[other] min-width: 49em
+        }
 connection-close-key =
     .key = w
-
 connection-disable-extension =
     .label = துணைநிரலை முடக்கவும்
-
 connection-proxy-configure = இணையத்தை அணுக பதிலாளை கட்டமைக்கவும்
-
 connection-proxy-option-no =
     .label = பதிலாள் இல்லை
     .accesskey = y
@@ -30,20 +33,16 @@ connection-proxy-option-auto =
 connection-proxy-option-manual =
     .label = கைமுறை பதிலாள் கட்டமைப்பு
     .accesskey = m
-
 connection-proxy-http = HTTP பதிலாள்
     .accesskey = x
 connection-proxy-http-port = முனையம்
     .accesskey = P
-
 connection-proxy-ssl-port = முனையம்
     .accesskey = o
-
 connection-proxy-socks = SOCKS புரவலன்
     .accesskey = C
 connection-proxy-socks-port = முனையம்
     .accesskey = t
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
@@ -52,32 +51,24 @@ connection-proxy-socks5 =
     .accesskey = v
 connection-proxy-noproxy = இதற்கு பதிலாள் இல்லை
     .accesskey = n
-
 connection-proxy-noproxy-desc = எடுத்துக்காட்டு: .mozilla.org, .net.nz, 192.168.1.0/24
-
 connection-proxy-autotype =
     .label = தானியக்க பதிலாள் கட்டமைப்பு URL
     .accesskey = A
-
 connection-proxy-reload =
     .label = மீளேற்று
     .accesskey = e
-
 connection-proxy-autologin =
     .label = கடவுச்சொல் சேமிக்கப்பட்டிருந்தால் அங்கீகரிப்புக்காக நினைவுப்படத்த வே்டாம்
     .accesskey = i
     .tooltip = நீங்கள் கடவுச்சொற்களை சேமித்திருந்தால் இந்த விருப்பத்தேர்வானது சத்தமில்லாமல் உங்களை ப்ராக்ஸியில் அங்கீகரிக்கும். நீங்கள் அங்கீகரிக்கப்படாமல் இருந்தால் நினைவூட்டப்பட்டிருக்கும்.
-
 connection-proxy-socks-remote-dns =
     .label = பதிலாள் DNS SOCKS V5 பயன்படுத்தும் போது
     .accesskey = d
-
 connection-dns-over-https-url-resolver = வழங்குநரைப் பயன்படுத்தவும்
     .accesskey = P
-
 connection-dns-over-https-url-custom =
     .label = தனிப்பயனாக்கு
     .accesskey = த
     .tooltiptext = HTTPS வழி DNS ஐ தீர்ப்பதற்கு உங்களின் விருப்ப URL ஐ உள்ளிடுக
-
 connection-dns-over-https-custom-label = தனிப்பயன்
