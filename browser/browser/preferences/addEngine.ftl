@@ -5,18 +5,15 @@
 add-engine-window =
     .title = Legg til søkjemotor
     .style = width: 32em;
-
+add-engine-window2 =
+    .title = Legg til søkjemotor
+    .style = min-width: 32em;
 add-engine-button = Legg til eigendefinert søkjemotor
-
 add-engine-name = Søkjemotornamn
-
 add-engine-alias = Alias
-
 add-engine-url = Søkjemotor-adresse, bruk %s i staden for søkeordet
-
 add-engine-dialog =
     .buttonlabelaccept = Legg til søkjemotor
     .buttonaccesskeyaccept = L
-
 engine-name-exists = Ein søkjemotor med det namnet finst allereie
 engine-alias-exists = Ein søkjemotor med det aliaset finst allereie
