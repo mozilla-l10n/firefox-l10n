@@ -113,6 +113,9 @@ permissions-exceptions-popup-desc = Sie können festlegen, welchen Websites Sie 
 permissions-exceptions-saved-logins-window =
     .title = Ausnahmen - Gespeicherte Zugangsdaten
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Ausnahmen - Gespeicherte Zugangsdaten
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Zugangsdaten für die folgenden Websites werden nicht gespeichert:
 
 ## Exceptions - Add-ons
