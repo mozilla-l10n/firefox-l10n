@@ -5,10 +5,11 @@
 containers-window-new =
     .title = Nuto' kontenedor nakàa
     .style = width: 45em
-
+containers-window-new2 =
+    .title = Nuto' kontenedor nakàa
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -19,26 +20,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = yuguit
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Gachun si yugui 'ngo markador
-
 containers-icon-label = Ikono
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = kolô
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = Dunahuij
     .buttonaccesskeyaccept = D
-
 containers-color-blue =
     .label = Sa kuàan
 containers-color-turquoise =
@@ -57,7 +52,6 @@ containers-color-purple =
     .label = Riña yakàa
 containers-color-toolbar =
     .label = RIña màn chrún rasuun
-
 containers-icon-fence =
     .label = Sa narán
 containers-icon-fingerprint =

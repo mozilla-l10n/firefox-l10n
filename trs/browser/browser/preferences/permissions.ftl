@@ -5,62 +5,50 @@
 permissions-window =
     .title = Sa huā gi'iát
     .style = width: 45em
-
+permissions-window2 =
+    .title = Sa huā gi'iát
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
-
 permissions-address = Si direksion sitio na
     .accesskey = d
-
 permissions-block =
     .label = Si ga'ni'
     .accesskey = S
-
 permissions-session =
     .label = Ga'ni' gi'iaj sun sesion
     .accesskey = S
-
 permissions-allow =
     .label = Ga'nin'
     .accesskey = A
-
 permissions-site-name =
     .label = Sitio web
-
 permissions-status =
     .label = Daj hua riñaj
-
 permissions-remove =
     .label = Guxun' sitio web
     .accesskey = G
-
 permissions-remove-all =
     .label = Guyun daran sitio web
     .accesskey = G
-
 permission-dialog =
     .buttonlabelaccept = Na’nïnj sà’ sa nadunat
     .buttonaccesskeyaccept = s
-
 permissions-autoplay-menu = Sa ngà hua niña guendâ nej sîtio:
-
 permissions-searchbox =
     .placeholder = Nana'ui' sitio web
-
 permissions-capabilities-autoplay-allow =
     .label = Ga'nïn sa gunïn' ngà sa ni'io'
 permissions-capabilities-autoplay-block =
     .label = Narán riña sa unïn'
 permissions-capabilities-autoplay-blockall =
     .label = Narán riña sa unïn' ngà sa ni'io'
-
 permissions-capabilities-allow =
     .label = Ga'nïn'
 permissions-capabilities-block =
     .label = Si ga'nïn'
 permissions-capabilities-prompt =
     .label = Gachinj na'anj yitïnj
-
 permissions-capabilities-listitem-allow =
     .value = Ga'nïn'
 permissions-capabilities-listitem-block =
@@ -85,15 +73,22 @@ permissions-exceptions-etp-desc = Ga'nejt nej sa narán nej sa naga'naj a riña 
 permissions-exceptions-cookie-window =
     .title = Së sa yakaj guano' - Cookies ni nej sa 'na' 'nga sitio
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Së sa yakaj guano' - Cookies ni nej sa 'na' 'nga sitio
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Ga'ue gatajt ahuin sitio web ga'ue garasun yitïnj kookies ni si dato sitio na. Gachun si direksion sitio ruhuat gini'iaj ni ga'uit 'ngo klik riñ taj garun'. Ga'nïn riña sesión na àsi ma ga'nïn.
 
 ## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
     .title = Nej sitio ga'ue garasunt - Ventana ra'ñanj an
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Nej sitio ga'ue garasunt - Ventana ra'ñanj an
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Ga'uè gatajt ahuin sitio web nanïn nej ventana ra'ñanj doj. Gachrūn direksion ni ga'uit klik riña taj ga'nïn.
 
 ## Exceptions - Saved Logins
@@ -101,6 +96,9 @@ permissions-exceptions-popup-desc = Ga'uè gatajt ahuin sitio web nanïn nej ven
 permissions-exceptions-saved-logins-window =
     .title = Exsepsion - Nej sesión na'nîn so'
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Exsepsion - Nej sesión na'nîn so'
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Nej sesión gayi'i ñuna nī nitaj si nu sa'aj guenda a'ngò nej sitio web
 
 ## Exceptions - Add-ons
@@ -108,6 +106,9 @@ permissions-exceptions-saved-logins-desc = Nej sesión gayi'i ñuna nī nitaj si
 permissions-exceptions-addons-window =
     .title = Sitios web ga'ue - Dugutu' komplementos
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Sitios web ga'ue - Dugutu' komplementos
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Ga'ue gatajt ahuin sitio web dugutuj complemento. Gachrūn direksion ni ga'ui't klik riña taj ga'nïn.
 
 ## Site Permissions - Autoplay
@@ -122,6 +123,9 @@ permissions-site-autoplay-desc = Ga'ue nagi'iát nej sitiô nitaj si nikaj ni'ñ
 permissions-site-notification-window =
     .title = Sa nagi'io' - Ga'ni' nej notifikasion
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Sa nagi'io' - Ga'ni' nej notifikasion
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Nej sitio na achín ni'iaj si ga'ninj ma notification rinant. Ga'uè gatajt ahuin sitio ga'ue ga'ninj notifikasion riña raj. Ga'uè garânt riña nej sa achín ni'iaj nej notifikasion.
 permissions-site-notification-disable-label =
     .label = Si ganin' a'ngo solisitut guenda nej notifikasion
@@ -132,6 +136,9 @@ permissions-site-notification-disable-desc = Na si ga'ninj da' ni nej sitio web 
 permissions-site-location-window =
     .title = Sa nagi'io' - ga'ni' dane' huin
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Sa nagi'io' - ga'ni' dane' huin
+    .style = { permissions-window2.style }
 permissions-site-location-desc = Nej sitio web na achín ni'iaj gatu riña aché nut. Ga'uè nahuit ahuin sitio ga'uè gatu riña aché nut. Ga'uè garânt riña nej solisitû achín ni'iaj gatu riña aché nut.
 permissions-site-location-disable-label =
     .label = Garun' riña nej solisitû achín ni'iaj gatu riña aché nut
@@ -145,6 +152,9 @@ permissions-site-location-disable-desc = Na gi'iaj da' nī daran' sitio nitaj si
 permissions-site-camera-window =
     .title = Nagi'io' - Daj garasun' kamara
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = Nagi'io' - Daj garasun' kamara
+    .style = { permissions-window2.style }
 permissions-site-camera-desc = Nej sitio na achín ni'iaj da' gatu ma riña si kamarat. So hui sa gataj gahuin sitio gi'iaj sun 'ngà si kamarat. Ga'ue garánt riña nej sitio na'uej ruhuat gi'iaj sun 'ngà si kamarat.
 permissions-site-camera-disable-label =
     .label = Garun' riña nej sa achín ni'iaj gatu riña si kamarat
@@ -155,6 +165,9 @@ permissions-site-camera-disable-desc = Na gi'iaj da' nī daran' sitio nitaj si t
 permissions-site-microphone-window =
     .title = Nagi'io' - Daj garasun' mikrofonu
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = Nagi'io' - Daj garasun' mikrofonu
+    .style = { permissions-window2.style }
 permissions-site-microphone-desc = Nej sitio na achín ni'iaj da' gatu ma riña si mikrofonot. So hui sa gataj gahuin sitio gi'iaj sun 'ngà si mikrofonot. Ga'ue garánt riña nej sitio na'uej ruhuat gi'iaj sun 'ngà si mikrofonot.
 permissions-site-microphone-disable-label =
     .label = Garun' riña nej sa achín ni'iaj gatu riña si microfonot
