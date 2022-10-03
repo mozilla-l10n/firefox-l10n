@@ -5,15 +5,15 @@
 app-manager-window =
     .title = Detalji o aplikaciji
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = Detalji o aplikaciji
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = Ukloni
     .accesskey = U
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Navedene aplikacije se mogu koristiti za upravljanje { $type } linkovi.
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Navedene aplikacije se mogu koristiti za upravljanje { $type } sadržaj.

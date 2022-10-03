@@ -5,6 +5,9 @@
 permissions-window =
     .title = Izuzeci
     .style = width: 36em
+permissions-window2 =
+    .title = Izuzeci
+    .style = min-width: 36em
 permissions-close-key =
     .key = w
 permissions-address = Adresa web stranice
