@@ -5,6 +5,9 @@
 permissions-window =
     .title = અપવાદો
     .style = width: 45em
+permissions-window2 =
+    .title = અપવાદો
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = વેબ સાઈટનું સરનામું
