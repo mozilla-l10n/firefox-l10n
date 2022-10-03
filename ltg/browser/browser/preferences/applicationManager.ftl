@@ -5,15 +5,15 @@
 app-manager-window =
     .title = Programaturys īstatiejumi
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = Programaturys īstatiejumi
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = Aizvuokt
     .accesskey = A
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Kab apstruoduotu { $type } saites, var izmantuot itaidys programys:
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Kab apstruoduotu { $type } saturs, var izmantuot itaidys programys:
