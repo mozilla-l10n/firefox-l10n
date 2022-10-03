@@ -5,15 +5,15 @@
 app-manager-window =
     .title = ລາຍລະອຽດຂອງໂປຼແກຼມ
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = ລາຍລະອຽດຂອງໂປຼແກຼມ
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = ລຶບ
     .accesskey = ລ
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = ໂປຼແກຣມລຸ່ມນີ້ສາມາດໃຊ້ເພື່ອຈັດການ { $type } ລີ້ງ.
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = ໂປຼແກຣມລຸ່ມນີ້ສາມາດໃຊ້ເພື່ອຈັດການ { $type } ເນື້ອໃນ.
