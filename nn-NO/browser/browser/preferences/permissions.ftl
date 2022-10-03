@@ -80,6 +80,9 @@ permissions-exceptions-etp-desc = Du har slått av vern på desse nettsidene.
 permissions-exceptions-cookie-window =
     .title = Unntak - Infokapslar og nettstaddata
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Unntak - Infokapslar og nettstaddata
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Du kan spesifisere kva for nettstadar som alltid eller aldri får bruke infokapslar og nettstaddata.  Skriv inn den eksakte adressa til nettstaden du vil administrere, og klikk deretter Blokker, Tillat for økt, eller Tillat.
 
 ## Exceptions - HTTPS-Only Mode
@@ -94,6 +97,9 @@ permissions-exceptions-https-only-desc = Du kan slå av berre-HTTPS-modus for be
 permissions-exceptions-popup-window =
     .title = Tillatne nettsider - Sprettoppvindauge
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Tillatne nettsider - Sprettoppvindauge
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Du kan velje kva for nettstadar som har løyve til å opne sprettoppvindauge. Skriv inn eksakt adresse til nettstaden du vil tillate, og trykk «Tillat».
 
 ## Exceptions - Saved Logins
@@ -101,6 +107,9 @@ permissions-exceptions-popup-desc = Du kan velje kva for nettstadar som har løy
 permissions-exceptions-saved-logins-window =
     .title = Unntak - Lagra innloggingar
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Unntak - Lagra innloggingar
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Innloggingar frå følgjande nettsteder vil ikkje bli lagra
 
 ## Exceptions - Add-ons
@@ -108,6 +117,9 @@ permissions-exceptions-saved-logins-desc = Innloggingar frå følgjande nettsted
 permissions-exceptions-addons-window =
     .title = Tillatne nettsider - Inatallering av tillegg
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Tillatne nettsider - Inatallering av tillegg
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Du kan velje kva for nettstadar som har løyve til å installere tillegg. Skriv inn eksakt adresse til nettstaden du vil tillate, og trykk «Tillat».
 
 ## Site Permissions - Autoplay
@@ -122,6 +134,9 @@ permissions-site-autoplay-desc = Du kan handsame nettstadar som ikkje følgjer s
 permissions-site-notification-window =
     .title = Innstillingar - Varslingsløyve
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Innstillingar - Varslingsløyve
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Følgjande nettsider har bedt om å få sende deg varsel. Du kan spesifisere kva for nettsider som har løyve til å sende deg varsel. Du kan også blokkere nye førespurnadar som ber om løyve til å sende varsel.
 permissions-site-notification-disable-label =
     .label = Blokkere nye førespurnadar som ber om løyve til å sende varsel
@@ -132,6 +147,9 @@ permissions-site-notification-disable-desc = Dette hindrar nettstadar som ikkje 
 permissions-site-location-window =
     .title = Innstillingar - Plasseringsløyve
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Innstillingar - Plasseringsløyve
+    .style = { permissions-window2.style }
 permissions-site-location-desc = Følgjande nettstadar har bedt om tilgang til plasseringa di. Du kan spesifisere kva for nettstadar som får tilgang til plasseringa di. Du kan også blokkere nye førespurnadar som ber om tilgang til plasseringa di.
 permissions-site-location-disable-label =
     .label = Blokker nye førespurnadar som ber om tilgang til plasseringa di
@@ -152,6 +170,9 @@ permissions-site-xr-disable-desc = Dette findrar nettstadar som ikkje er oppfør
 permissions-site-camera-window =
     .title = Innstillingar - Kameraløyve
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = Innstillingar - Kameraløyve
+    .style = { permissions-window2.style }
 permissions-site-camera-desc = Følgjande nettstadar har bedt om tilgang til kameraet ditt. Du kan spesifisere kva for nettstadar som får tilgang til kameraet ditt. Du kan også blokkere nye førespurnadar som ber om tilgang til kameraet ditt.
 permissions-site-camera-disable-label =
     .label = Blokker nye førespurnadar som ber om tilgang til kameraet ditt
@@ -162,6 +183,9 @@ permissions-site-camera-disable-desc = Dette hindrar nettstadar som ikkje er fø
 permissions-site-microphone-window =
     .title = Innstillingar - Mikrofonløyve
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = Innstillingar - Mikrofonløyve
+    .style = { permissions-window2.style }
 permissions-site-microphone-desc = Følgjande nettstadar har bedt om tilgang til mikrofonen din. Du kan spesifisere kva for nettstadar som får tilgang til mikrofonen din. Du kan også blokkere nye førespurnadar som ber om tilgang til mikrofonen din.
 permissions-site-microphone-disable-label =
     .label = Blokker nye førespurnadar som ber om tilgang til mikrofonen din
