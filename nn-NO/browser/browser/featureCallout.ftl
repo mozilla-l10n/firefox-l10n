@@ -14,6 +14,8 @@ callout-primary-complete-button-label = Skjønar.
 callout-firefox-view-tab-pickup-title = Byt mellom einingar med synkroniserte faner
 callout-firefox-view-tab-pickup-subtitle = Hent snøgt opne faner frå telefonen og opne dei her.
 callout-firefox-view-recently-closed-title = Få tilbake dei attlatne fanene på ein augneblink
+callout-firefox-view-recently-closed-subtitle = Alle dei attlatne fanene dine vil visast her. Du treng aldri å bekymre deg for å late att ein nettstad ved eit uhell igjen.
+callout-firefox-view-colorways-title = Legg til ein fargeklatt
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
