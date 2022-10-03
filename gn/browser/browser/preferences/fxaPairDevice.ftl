@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. Embojuruja <b>poravorã</b> (<img data-l10n-name="
 fxa-qrcode-heading-step4 = 4. Emoha’ãnga ko ayvu:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = Emoñondive { -brand-product-name } ne pumbyry ha tablétape
 fxa-qrcode-pair-step1 = 1. Embojuruja { -brand-product-name } ne pumbyry mba’e’okápe.
 fxa-qrcode-pair-step2 = 2. Embojuruja <strong>poravorã</strong> (<img data-l10n-name="ios-menu-icon"/>iOS-pe térã <img data-l10n-name="android-menu-icon"/>en Android) ha ejopy <strong>Emoñepyrũ tembiapo embojuehe hag̃ua</strong>
