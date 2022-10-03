@@ -5,6 +5,9 @@
 permissions-window =
     .title = Eisceachtaí
     .style = width: 49em
+permissions-window2 =
+    .title = Eisceachtaí
+    .style = min-width: 49em
 permissions-close-key =
     .key = w
 permissions-address = Seoladh an tsuímh Ghréasáin
