@@ -5,77 +5,59 @@
 permissions-window =
     .title = Изузеци
     .style = width: 46em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Адреса веб-сајта:
     .accesskey = А
-
 permissions-block =
     .label = Блокирај
     .accesskey = Б
-
 permissions-session =
     .label = Дозволи док траје сесија
     .accesskey = о
-
 permissions-allow =
     .label = Дозволи
     .accesskey = Д
-
 permissions-button-off =
     .label = Искључи
     .accesskey = И
-
 permissions-button-off-temporarily =
     .label = Привремено искључи
     .accesskey = П
-
 permissions-site-name =
     .label = Веб-сајт
-
 permissions-status =
     .label = Статус
-
 permissions-remove =
     .label = Уклони
     .accesskey = У
-
 permissions-remove-all =
     .label = Уклони све
     .accesskey = с
-
 permission-dialog =
     .buttonlabelaccept = Сачувај
     .buttonaccesskeyaccept = С
-
 permissions-autoplay-menu = Подразумевано за све веб-сајтове:
-
 permissions-searchbox =
     .placeholder = Претражите
-
 permissions-capabilities-autoplay-allow =
     .label = Дозволи звук и видео
 permissions-capabilities-autoplay-block =
     .label = Блокирај звук
 permissions-capabilities-autoplay-blockall =
     .label = Блокирај звук и видео
-
 permissions-capabilities-allow =
     .label = Дозволи
 permissions-capabilities-block =
     .label = Блокирај
 permissions-capabilities-prompt =
     .label = Увек питај
-
 permissions-capabilities-listitem-allow =
     .value = Дозволи
 permissions-capabilities-listitem-block =
     .value = Блокирај
 permissions-capabilities-listitem-allow-session =
     .value = Дозволи док траје сесија
-
 permissions-capabilities-listitem-off =
     .value = Искључено
 permissions-capabilities-listitem-off-temporarily =
@@ -140,6 +122,9 @@ permissions-site-autoplay-desc = Овде можете да управљате �
 permissions-site-notification-window =
     .title = Дозволе поставки и обавештења
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Дозволе поставки и обавештења
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Следећи веб-сајтови су затражили дозволу за слање обавештења. Можете да подесите којим веб-сајтовима је дозвољено да вам шаљу обавештења, као и да блокирате нове захтеве.
 permissions-site-notification-disable-label =
     .label = Блокирај нове захтеве за слање обавештења
@@ -150,6 +135,9 @@ permissions-site-notification-disable-desc = Овим ћете онемогућ�
 permissions-site-location-window =
     .title = Дозволе за локацију
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Дозволе за локацију
+    .style = { permissions-window2.style }
 permissions-site-location-desc = Следећи веб-сајтови су затражили дозволу за приступ локацији. Можете да подесите којим веб-сајтовима је дозвољен приступ локацији, као и да блокирате нове захтеве.
 permissions-site-location-disable-label =
     .label = Блокирај нове захтеве за приступ локацији
@@ -170,6 +158,9 @@ permissions-site-xr-disable-desc = Овим ћете онемогућити св
 permissions-site-camera-window =
     .title = Дозволе за камеру
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = Дозволе за камеру
+    .style = { permissions-window2.style }
 permissions-site-camera-desc = Следећи веб-сајтови су затражили дозволу за приступ камери. Можете да подесите којим веб-сајтовима је дозвољен приступ камери, као и да блокирате нове захтеве.
 permissions-site-camera-disable-label =
     .label = Блокирај нове захтеве за приступ вашој камери
@@ -180,6 +171,9 @@ permissions-site-camera-disable-desc = Овим ћете онемогућити 
 permissions-site-microphone-window =
     .title = Дозволе за микрофон
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = Дозволе за микрофон
+    .style = { permissions-window2.style }
 permissions-site-microphone-desc = Следећи веб-сајтови су затражили дозволу за приступ микрофону. Можете да подесите којим веб-сајтовима је дозвољен приступ микрофону, као и да блокирате нове захтеве.
 permissions-site-microphone-disable-label =
     .label = Блокирај нове захтеве за приступ вашем микрофону
