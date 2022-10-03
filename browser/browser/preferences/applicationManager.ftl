@@ -5,6 +5,9 @@
 app-manager-window =
     .title = Programdetaljar
     .style = width: 30em; min-height: 20em;
+app-manager-window2 =
+    .title = Programdetaljar
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = Fjern
     .accesskey = F
