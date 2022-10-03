@@ -104,6 +104,9 @@ permissions-exceptions-popup-desc = Bạn có thể chỉ định những trang 
 permissions-exceptions-saved-logins-window =
     .title = Ngoại lệ - Đăng nhập đã lưu
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Ngoại lệ - Đăng nhập đã lưu
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Đăng nhập các trang web sau sẽ không được lưu
 
 ## Exceptions - Add-ons
