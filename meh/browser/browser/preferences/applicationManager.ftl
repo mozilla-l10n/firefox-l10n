@@ -5,15 +5,15 @@
 app-manager-window =
     .title = Detalles ka̱a̱
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = Detalles ka̱a̱
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = Xita
     .accesskey = R
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Da ka̱a̱ ya´a kuvi ni´i tetiñu { $type } enlaces.
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Da ka̱a̱ ya´a kuvi ni´i tetiñu { $type } contenido.
