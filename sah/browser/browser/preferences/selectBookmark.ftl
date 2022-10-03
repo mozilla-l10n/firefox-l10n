@@ -5,5 +5,7 @@
 select-bookmark-window =
     .title = Дьиэ-сирэйи талыы
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = Дьиэ-сирэйи талыы
+    .style = min-width: 32em;
 select-bookmark-desc = Ханнык эмит кыбытыкка дьиэ-сирэй аатын иҥэр. Паапканы (бөлөҕү) таллаххына онно бэлиэтэммит сирэйдэр бары кыбытыктарга арыллар буолуохтара.

@@ -5,17 +5,13 @@
 pane-general-title = Сүрүн
 category-general =
     .tooltiptext = { pane-general-title }
-
 pane-search-title = Көрдөөһүн
 category-search =
     .tooltiptext = { pane-search-title }
-
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
 focus-search =
     .key = f
-
 close-button =
     .aria-label = Сап
 
@@ -42,11 +38,8 @@ should-restart-title = Маны { -brand-short-name } хат ыыт
 ## General Section
 
 startup-header = Саҥаттан
-
 is-default = Билигин куруук холбонор браузер - { -brand-short-name }
-
 tabs-group-header = Кыбытыктар
-
 show-tabs-in-taskbar =
     .label = Кыбытыктар эскиистэрин Windows садаачатын панелыгар көрдөрөр буол
     .accesskey = т
@@ -56,13 +49,10 @@ show-tabs-in-taskbar =
 advanced-fonts =
     .label = Эбии…
     .accesskey = Э
-
 choose-language-description = Ситим-сирэйдэри көрөргө ханнык тылы талаҕыный
-
 choose-button =
     .label = Тал…
     .accesskey = а
-
 translate-exceptions =
     .label = Туорааһыннар…
     .accesskey = Т
@@ -70,14 +60,8 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = Хачайдааһыннар
-
-download-save-to =
-    .label = Билэни угуу суола
-    .accesskey = л
-
 download-save-where = Билэни угуу суола
     .accesskey = л
-
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -89,45 +73,36 @@ download-choose-folder =
             [macos] а
            *[other] р
         }
-
 applications-type-column =
     .label = Иһинээҕитин көрүҥэ
     .accesskey = р
-
 applications-action-column =
     .label = Дьайыы
     .accesskey = Д
-
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } билэ
 applications-action-save =
     .label = Билэни харай
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Маны тутун { $app-name }
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Атыны этиллибэтэҕинэ маны тутун { $app-name }
-
 applications-use-other =
     .label = Атыны тутун...
 applications-select-helper = Көмөлөһөр приложениены тал
-
 applications-manage-app =
     .label = Приложение туһунан...
 applications-always-ask =
     .label = Куруук ыйытар буолаар
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -139,19 +114,14 @@ applications-use-plugin-in =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -170,15 +140,12 @@ performance-allow-hw-accel =
 ## General Section - Browsing
 
 browsing-title = Көрүү
-
 browsing-use-autoscroll =
     .label = Аптамаатынан прокрутканы туһан
     .accesskey = п
-
 browsing-use-smooth-scrolling =
     .label = Сүрүн прокрутканы туһан
     .accesskey = п
-
 browsing-use-cursor-navigation =
     .label = Курсор клавишаларын сирэйдэри көрөргө куруук туттарга
     .accesskey = к
@@ -205,7 +172,6 @@ use-current-pages =
            *[other] Аһыллыбыт сирэйдэри туһан
         }
     .accesskey = т
-
 choose-bookmark =
     .label = Бэлиэни тутун...
     .accesskey = т
@@ -224,7 +190,6 @@ choose-bookmark =
 
 search-choose-keyword-column =
     .label = Күлүүс тыл
-
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Маннык аат хайыы-үйэ баар эбит
@@ -254,7 +219,6 @@ search-keyword-warning-bookmark = Эн талбыт аатыҥ биир бэли
 sync-engine-bookmarks =
     .label = Бэлиэтээһиннэр
     .accesskey = т
-
 sync-engine-history =
     .label = Сурунаал
     .accesskey = а
@@ -270,11 +234,9 @@ sync-engine-history =
 forms-exceptions =
     .label = Туорааһыннар...
     .accesskey = у
-
 forms-master-pw-change =
     .label = Маастар киирии тылы уларытарга…
     .accesskey = М
-
 forms-master-pw-fips-desc = Киирии тыл уларыйбата
 
 ## OS Authentication dialog
@@ -288,21 +250,16 @@ history-remember-option-never =
     .label = устуоруйатын долоҕойоугар хатыа суоҕа
 history-remember-option-custom =
     .label = устуоруйаны харайыы туруорууларын туһаныа
-
 history-dontremember-description = { -brand-short-name } бүөмнээн көрүү туруорууларын туһаныа уонна ситим-сирдэри кытта үлэҕин долоҕойугар хаалларыа суоҕа.
-
 history-private-browsing-permanent =
     .label = Бүөмнээн көрүү эрэсиимигэр куруук үлэлииргэ
     .accesskey = ү
-
 history-remember-search-option =
     .label = Көрдөөбүппүн уонна формалары толорбуппун долоҕойугар өйдөөн хааллын
     .accesskey = д
-
 history-clear-on-close-option =
     .label = { -brand-short-name } сабылларыгар устуоруйатын сотон истин
     .accesskey = н
-
 history-clear-on-close-settings =
     .label = Туруоруулар...
     .accesskey = р
@@ -331,7 +288,6 @@ history-clear-on-close-settings =
 permissions-block-popups =
     .label = Ойон тахсар түннүктэри бүөлээ
     .accesskey = б
-
 permissions-addon-exceptions =
     .label = Туорааһыннар...
     .accesskey = у
@@ -357,4 +313,3 @@ certs-header = Сэртипикээттэр
 desktop-folder-name = Үлэлиир сирэй (рабочий стол)
 downloads-folder-name = Хачайдааһыннар
 choose-download-folder-title = Хачайдааһыннар паапкаларын тал:
-
