@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Upiši valjano ime glavnog računala
 permissions-exceptions-etp-window =
     .title = Iznimke za poboljšanu zaštitu od praćenja
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Iznimke za poboljšanu zaštitu od praćenja
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Zaštita je isključena na ovim web stranicama.
 
 ## Exceptions - Cookies
