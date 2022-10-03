@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Zadajte platný názov servera
 permissions-exceptions-etp-window =
     .title = Výnimky pre Rozšírenú ochranu pred sledovaním
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Výnimky pre Rozšírenú ochranu pred sledovaním
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Na týchto stránkach ste vypli ochranu pred sledovaním.
 
 ## Exceptions - Cookies
