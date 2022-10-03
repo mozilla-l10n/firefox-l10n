@@ -5,15 +5,15 @@
 app-manager-window =
     .title = अनुप्रयोग तपशील
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = अनुप्रयोग तपशील
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = काडात
     .accesskey = R
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = { $type }जोडण्योहाताळपाक मुखावयलो अनुप्रयोग वापरपाक शकता
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = { $type }आशयहाताळपाक मुखावयलो अनुप्रयोग वापरपाक शकता
