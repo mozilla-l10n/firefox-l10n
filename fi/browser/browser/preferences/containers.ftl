@@ -5,16 +5,21 @@
 containers-window-new =
     .title = Lisää uusi eristystila
     .style = width: 45em
-
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings =
     .title = { $name }-eristystilan asetukset
     .style = width: 45em
-
+containers-window-new2 =
+    .title = Lisää uusi eristystila
+    .style = min-width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings2 =
+    .title = { $name }-eristystilan asetukset
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -25,26 +30,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Nimi
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Kirjoita eristystilan nimi
-
 containers-icon-label = Kuvake
     .accesskey = K
     .style = { -containers-labels-style }
-
 containers-color-label = Väri
     .accesskey = r
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = Valmis
     .buttonaccesskeyaccept = V
-
 containers-color-blue =
     .label = Sininen
 containers-color-turquoise =
@@ -63,7 +62,6 @@ containers-color-purple =
     .label = Violetti
 containers-color-toolbar =
     .label = Sama kuin työkalupalkin
-
 containers-icon-fence =
     .label = Aita
 containers-icon-fingerprint =
