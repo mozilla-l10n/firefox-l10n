@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Voer een geldige hostnaam in
 permissions-exceptions-etp-window =
     .title = Uitzonderingen voor Verbeterde bescherming tegen volgen
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Uitzonderingen voor Verbeterde bescherming tegen volgen
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = U hebt beschermingen voor deze websites uitgeschakeld.
 
 ## Exceptions - Cookies
@@ -93,6 +96,9 @@ permissions-exceptions-cookie-desc = U kunt opgeven welke websites altijd of noo
 permissions-exceptions-https-only-window =
     .title = Uitzonderingen – Alleen-HTTPS-modus
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Uitzonderingen – Alleen-HTTPS-modus
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = U kunt de Alleen-HTTPS-modus voor specifieke websites uitschakelen. { -brand-short-name } zal voor die websites niet proberen de verbinding naar veilige HTTPS te upgraden. Uitzonderingen zijn niet van toepassing op privévensters.
 
 ## Exceptions - Pop-ups
@@ -163,6 +169,9 @@ permissions-site-location-disable-desc = Dit voorkomt dat websites die hierboven
 permissions-site-xr-window =
     .title = Instellingen - Toestemmingen voor virtual reality
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Instellingen - Toestemmingen voor virtual reality
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = De volgende websites hebben om toegang tot uw virtual-reality-apparaten gevraagd. U kunt opgeven welke websites uw virtual-reality-apparaten mogen benaderen. U kunt ook nieuwe verzoeken om toegang tot uw virtual-reality-apparaten blokkeren.
 permissions-site-xr-disable-label =
     .label = Nieuwe verzoeken om toegang tot uw virtual-reality-apparaten blokkeren
