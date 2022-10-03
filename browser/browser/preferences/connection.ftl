@@ -9,6 +9,13 @@ connection-window =
             [macos] width: 44em
            *[other] width: 49em
         }
+connection-window2 =
+    .title = සම්බන්ධතාවයේ සැකසුම්
+    .style =
+        { PLATFORM() ->
+            [macos] min-width: 44em
+           *[other] min-width: 49em
+        }
 connection-close-key =
     .key = w
 connection-disable-extension =
