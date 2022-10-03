@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. <b>메뉴</b> (<img data-l10n-name="ios-menu-icon"
 fxa-qrcode-heading-step4 = 4. 다음 코드를 스캔하세요:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = 휴대폰 또는 태블릿에서 { -brand-product-name } 동기화
 fxa-qrcode-pair-step1 = 1. 모바일 기기에서 { -brand-product-name }를 여세요.
 fxa-qrcode-pair-step2 = 2. <strong>메뉴</strong> (iOS에서 <img data-l10n-name="ios-menu-icon"/> 또는 Android에서 <img data-l10n-name="android-menu-icon"/>)를 열고 <strong>Sync에 로그인</strong>을 누르세요.

@@ -96,6 +96,9 @@ permissions-exceptions-cookie-desc = 웹 사이트별로 쿠키나 사이트 데
 permissions-exceptions-https-only-window =
     .title = 예외 - HTTPS 전용 모드
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = 예외 - HTTPS 전용 모드
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = 특정 웹 사이트에 대해 HTTPS 전용 모드를 끌 수 있습니다. { -brand-short-name }는 해당 사이트에 대해 연결을 보안 HTTPS로 업그레이드를 시도하지 않습니다. 사생활 보호 창에는 예외가 적용되지 않습니다.
 
 ## Exceptions - Pop-ups
@@ -103,6 +106,9 @@ permissions-exceptions-https-only-desc = 특정 웹 사이트에 대해 HTTPS �
 permissions-exceptions-popup-window =
     .title = 웹 사이트 허용 - 팝업
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = 웹 사이트 허용 - 팝업
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = 팝업 창을 열 수 있는 웹 사이트를 지정할 수 있습니다. 허용하려는 사이트의 정확한 주소를 입력한 후 허용을 누르세요.
 
 ## Exceptions - Saved Logins
@@ -120,6 +126,9 @@ permissions-exceptions-saved-logins-desc = 다음 웹 사이트의 로그인이 
 permissions-exceptions-addons-window =
     .title = 웹 사이트 허용 - 부가 기능 설치
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = 웹 사이트 허용 - 부가 기능 설치
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = 부가 기능을 설치 가능하도록 웹 사이트를 설정할 수 있습니다. 정확한 주소를 입력한 후 허용을 누르세요.
 
 ## Site Permissions - Autoplay
