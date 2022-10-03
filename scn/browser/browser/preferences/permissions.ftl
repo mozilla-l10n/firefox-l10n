@@ -63,6 +63,9 @@ permissions-invalid-uri-label = Metti nomu òspiti vàlidu
 permissions-exceptions-etp-window =
     .title = Eccizziuna pâ prutizziuni avanzata dû trazzamentu
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Eccizziuna pâ prutizziuni avanzata dû trazzamentu
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Disattivasti i prutizziuna pi sti siti.
 
 ## Exceptions - Cookies
@@ -113,6 +116,9 @@ permissions-exceptions-addons-desc = Po' spicificari quali siti ponnu nstallari 
 permissions-site-autoplay-window =
     .title = Mpustazziuna - Ripruduzziuni autumàtica
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Mpustazziuna - Ripruduzziuni autumàtica
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Cca po' spicificari i siti chi nun ànnu a rispittari i mpustazziuna pridifinuti pâ ripruduzziuni autumàtica.
 
 ## Site Permissions - Notifications
@@ -146,6 +152,9 @@ permissions-site-location-disable-desc = Chistu mpidisci ê siti ca nun cumparì
 permissions-site-xr-window =
     .title = Mpustazziuna - Pirmisi pâ rialtà virtuali
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Mpustazziuna - Pirmisi pâ rialtà virtuali
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Sti siti addumannaru accessu ê to dispusitivi pâ rialtà virtuali. Po' spicificari quali siti ànnu stu pirmisu, e po' macari bluccari i novi richiesti d'accessu ê to dispusitivi pâ rialtà virtuali.
 permissions-site-xr-disable-label =
     .label = Blocca i novi richiesti d'accessu ê to dispusitivi pâ rialtà virtuali.

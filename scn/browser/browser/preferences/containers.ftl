@@ -5,10 +5,11 @@
 containers-window-new =
     .title = Agghiunci un cuntinituri novu
     .style = width: 45em
-
+containers-window-new2 =
+    .title = Agghiunci un cuntinituri novu
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -19,22 +20,17 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Nomu
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Agghiunci nomu pû cuntinituri
-
 containers-icon-label = Cona
     .accesskey = C
     .style = { -containers-labels-style }
-
 containers-color-label = Culuri
     .accesskey = C
     .style = { -containers-labels-style }
-
 containers-color-blue =
     .label = Blu
 containers-color-turquoise =
@@ -53,7 +49,6 @@ containers-color-purple =
     .label = Viola
 containers-color-toolbar =
     .label = Abbina barra dî strumenti
-
 containers-icon-fence =
     .label = Sticcatu
 containers-icon-fingerprint =
