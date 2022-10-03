@@ -53,6 +53,23 @@ menu-help-troubleshooting-info =
 menu-help-about-product =
     .label = Σχετικά με το { -brand-short-name }
     .accesskey = χ
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Έξοδος
+           *[other] Τερματισμός
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ξ
+           *[other] Τ
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Έξοδος από το { -brand-shorter-name }{ -brand-shorter-name }
+quit-app-shortcut =
+    .key = Ε
 
 ## Mail Toolbar
 
