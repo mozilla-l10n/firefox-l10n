@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Írjon be egy érvényes gépnevet.
 permissions-exceptions-etp-window =
     .title = Kivételek a fokozott követés elleni védelemhez
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Kivételek a fokozott követés elleni védelemhez
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Ezeken a webhelyeken kikapcsolta a védelmeket.
 
 ## Exceptions - Cookies
@@ -93,6 +96,9 @@ permissions-exceptions-cookie-desc = Megadhatja mely webhelyek nem használhatna
 permissions-exceptions-https-only-window =
     .title = Kivételek – Csak HTTPS mód
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Kivételek – Csak HTTPS mód
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Az egyes webhelyeknél kikapcsolhatja a Csak HTTPS módot. A { -brand-short-name } nem próbálja meg biztonságos HTTPS-re frissíteni a kapcsolatot ezeknél a webhelyeknél. A kivételek nem vonatkoznak a privát ablakokra.
 
 ## Exceptions - Pop-ups

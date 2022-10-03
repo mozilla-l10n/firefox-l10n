@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. Nyissa meg a <b>menüt</b> (<img data-l10n-name="i
 fxa-qrcode-heading-step4 = 4. Olvassa le ezt a kódot:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = Szinkronizálja a telefonján vagy a táblagépén lévő { -brand-product-name(case: "accusative") }
 fxa-qrcode-pair-step1 = 1. Nyissa meg a { -brand-product-name(case: "accusative") } a mobileszközén.
 fxa-qrcode-pair-step2 = 2. Nyissa meg a <strong>menüt</strong> (<img data-l10n-name="ios-menu-icon"/> iOS-en vagy <img data-l10n-name="android-menu-icon"/> Androidon), és koppintson a <strong>Bejelentkezés a szinkronizáláshoz</strong> elemre
