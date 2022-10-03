@@ -5,14 +5,11 @@
 pane-general-title = Ka kakaretso
 category-general =
     .tooltiptext = { pane-general-title }
-
 pane-search-title = Batla
 category-search =
     .tooltiptext = { pane-search-title }
-
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
 close-button =
     .aria-label = Tswala
 
@@ -38,12 +35,9 @@ should-restart-title = Simolola { -brand-short-name } sešwa
 ## General Section
 
 startup-header = Tshimololosešwa
-
 is-default = { -brand-short-name } ga jaana ke sebatli sebatli sa gago sa thulaganyetsoruri
 is-not-default = { -brand-short-name } ga se sebatli sa gago sa thulaganyetsoruri
-
 tabs-group-header = Ditab
-
 show-tabs-in-taskbar =
     .label = Supa diponopele tsa thebe mo Baratiro ya di Window
     .accesskey = k
@@ -53,21 +47,16 @@ show-tabs-in-taskbar =
 advanced-fonts =
     .label = Maemogadi...
     .accesskey = M
-
 choose-language-description = Tlhopha puo e o dumelanang le yone go bontsha ditsebe.
-
 choose-button =
     .label = Tlhopha…
     .accesskey = o
-
 translate-web-pages =
     .label = Ranola diteng tsa webo
     .accesskey = R
-
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Dithanolo ka <img data-l10n-name="logo"/>
-
 translate-exceptions =
     .label = Ditlogelwantle...
     .accesskey = x
@@ -75,14 +64,8 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = Dikopololo
-
-download-save-to =
-    .label = Bolokela difaele ko
-    .accesskey = B
-
 download-save-where = Bolokela difaele ko
     .accesskey = B
-
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -94,19 +77,15 @@ download-choose-folder =
             [macos] e
            *[other] B
         }
-
 applications-action-column =
     .label = Kgato
     .accesskey = K
-
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = faele ya { $extension }
 applications-action-save =
     .label = Boloka Faele
-
 applications-select-helper = Tlhopha Serweboleta sa Mothusi
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
@@ -118,19 +97,14 @@ applications-type-description-with-type = { $type-description } ({ $type })
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -144,7 +118,6 @@ play-drm-content-learn-more = Ithute mo go tseneletseng
 ## General Section - Browsing
 
 browsing-title = Go batla
-
 browsing-use-smooth-scrolling =
     .label = Dirisa momenololo o o borethe
     .accesskey = m
@@ -168,7 +141,6 @@ use-current-pages =
            *[other] Dirisa Ditsebe tsa Ga jaana
         }
     .accesskey = T
-
 choose-bookmark =
     .label = Dirisa Letshwaotsebe…
     .accesskey = L
@@ -188,15 +160,12 @@ choose-bookmark =
 search-suggestions-option =
     .label = Neela batla ditshitshinyo
     .accesskey = b
-
 search-restore-default =
     .label = Busetsa Thulaganyetsoruri ya Dilaodisi kgolo Patlo
     .accesskey = T
-
 search-remove-engine =
     .label = Tlosa
     .accesskey = T
-
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Lefokopatlo le Ntsifetse
@@ -270,7 +239,6 @@ addressbar-locbar-openpage-option =
 ## Privacy Section - Permissions
 
 permissions-notification = Dikitsiso
-
 permissions-block-popups =
     .label = Thibela di Window tse di tlhagelelang
     .accesskey = T
@@ -295,4 +263,3 @@ certs-header = Ditifikeiti
 
 desktop-folder-name = Tesekopo
 choose-download-folder-title = Tlhopha setsholadifaele sa Kopololo:
-
