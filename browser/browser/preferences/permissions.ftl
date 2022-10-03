@@ -5,6 +5,9 @@
 permissions-window =
     .title = Eithriadau
     .style = width: 45em
+permissions-window2 =
+    .title = Eithriadau
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = Cyfeiriad y wefan
@@ -104,6 +107,9 @@ permissions-exceptions-popup-desc = Mae modd pennu pa wefannau sy'n cael agor ff
 permissions-exceptions-saved-logins-window =
     .title = Eithriadau - Mewngofnodion wedi eu Cadw
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Eithriadau - Mewngofnodion wedi eu Cadw
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Ni fydd mewngofnodion i'r gwefannau canlynol yn cael eu cadw
 
 ## Exceptions - Add-ons
