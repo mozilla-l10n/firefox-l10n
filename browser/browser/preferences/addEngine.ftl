@@ -5,18 +5,15 @@
 add-engine-window =
     .title = Додај претраживач
     .style = width: 32em;
-
+add-engine-window2 =
+    .title = Додај претраживач
+    .style = min-width: 32em;
 add-engine-button = Додај прилагођени претраживач
-
 add-engine-name = Назив претраживача
-
 add-engine-alias = Псеудоним
-
 add-engine-url = Адреса претраживача – термин за претрагу замените са „%s”
-
 add-engine-dialog =
     .buttonlabelaccept = Додај претраживач
     .buttonaccesskeyaccept = A
-
 engine-name-exists = Претраживач с тим називом већ постоји
 engine-alias-exists = Претраживач под тим псеудонимом већ постоји
