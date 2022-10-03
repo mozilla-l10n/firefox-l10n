@@ -5,6 +5,9 @@
 permissions-window =
     .title = 예외 사이트
     .style = width: 36em
+permissions-window2 =
+    .title = 예외 사이트
+    .style = min-width: 36em
 permissions-close-key =
     .key = w
 permissions-address = 웹 사이트 주소
