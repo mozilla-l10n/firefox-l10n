@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. <b>ਮੇਨੂ</b> (<img data-l10n-name="ios-menu
 fxa-qrcode-heading-step4 = 4. ਇਹ ਕੋਡ ਸਕੈਨ ਕਰੋ:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = { -brand-product-name } ਨੂੰ ਆਪਣੇ ਫ਼ੋਨ ਜਾਂ ਟੇਬਲੇਟ ਨਾਲ ਸਿੰਕ ਕਰੋ
 fxa-qrcode-pair-step1 = 1. ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਉੱਤੇ { -brand-product-name } ਖੋਲ੍ਹੋ।
 fxa-qrcode-pair-step2 = 2. <strong>ਮੇਨੂ</strong> ਖੋਲ੍ਹੋ (iOS ਉੱਤੇ <img data-l10n-name="ios-menu-icon"/> ਜਾਂ Android ਉੱਤੇ <img data-l10n-name="android-menu-icon"/>) ਅਤੇ <strong>ਸਿੰਕ ਲਈ ਸਾਈਨ-ਇਨ ਕਰੋ</strong> ਨੂੰ ਛੂਹੋ
