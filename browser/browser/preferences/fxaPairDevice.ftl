@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. Wočińće <b>menu</b> (<img data-l10n-name="ios-m
 fxa-qrcode-heading-step4 = Tutón kod skenować:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = Synchronizujće { -brand-product-name } na swojim telefonje abo tableće
 fxa-qrcode-pair-step1 = 1. Wočińće { -brand-product-name } na swojim mobilnym graće.
 fxa-qrcode-pair-step2 = 2. Wočińće <strong>meni</strong> (<img data-l10n-name="ios-menu-icon"/> na iOS abo <img data-l10n-name="android-menu-icon"/> na Android) a podótkńće so <strong>Pola Sync přizjewić</strong>
