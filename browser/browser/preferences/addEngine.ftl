@@ -5,18 +5,15 @@
 add-engine-window =
     .title = Arama motoru ekle
     .style = width: 32em;
-
+add-engine-window2 =
+    .title = Arama motoru ekle
+    .style = min-width: 32em;
 add-engine-button = Özel motor ekle
-
 add-engine-name = Arama motoru adı
-
 add-engine-alias = Takma ad
-
 add-engine-url = Motor adresi. Aranacak terim yerine %s koyun
-
 add-engine-dialog =
     .buttonlabelaccept = Motor ekle
     .buttonaccesskeyaccept = e
-
 engine-name-exists = Bu isimde bir motor zaten var
 engine-alias-exists = Bu takma ada sahip bir motor zaten var
