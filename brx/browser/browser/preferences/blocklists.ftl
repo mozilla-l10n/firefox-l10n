@@ -5,14 +5,13 @@
 blocklist-window =
     .title = ब्लक लिस्टफोर
     .style = width: 55em
-
+blocklist-window2 =
+    .title = ब्लक लिस्टफोर
+    .style = min-width: 55em
 blocklist-close-key =
     .key = w
-
 blocklist-treehead-list =
     .label = लिस्ट
-
-
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."
@@ -21,6 +20,5 @@ blocklist-treehead-list =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-
 blocklist-item-moz-std-listName = लेबेल 1 ब्लक नि फारिलाय (बसोन होनाइ).
 blocklist-item-moz-full-listName = लेबेल 2 ब्लक नि फारिलाय
