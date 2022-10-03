@@ -5,6 +5,9 @@
 clear-site-data-window =
     .title = Пок кардани маълумот
     .style = width: 35em
+clear-site-data-window2 =
+    .title = Пок кардани маълумот
+    .style = min-width: 35em
 clear-site-data-description = Амали поксозии ҳамаи кукиҳо ва маълумоти сомонаҳои нигоҳдошташудаи дохили браузери «{ -brand-short-name }» метавонад шуморо аз сомонаҳо барояд ва муҳтавои офлайни сомонаҳоро тоза намояд. Амали поксозии маълумоти зерҳофиза ба воридшавиҳои шумо таъсир намерасонад.
 clear-site-data-close-key =
     .key = w

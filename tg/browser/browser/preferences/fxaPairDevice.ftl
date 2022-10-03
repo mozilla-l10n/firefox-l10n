@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. <b>Меню</b>-ро кушоед (<img data-l10n-
 fxa-qrcode-heading-step4 = 4. Ин рамзро сканер кунед:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = Ҳамоҳангсозии { -brand-product-name } дар телефон ва планшет
 fxa-qrcode-pair-step1 = 1. Браузери «{ -brand-product-name }»-ро дар дастгоҳи мобилии худ кушоед.
 fxa-qrcode-pair-step2 = 2. <strong>Менюро</strong> (<img data-l10n-name="ios-menu-icon"/> дар iOS ё <img data-l10n-name="android-menu-icon"/> дар Android) ва <strong>Барои ҳамоҳангсозӣ ворид шавед</strong>-ро зер кунед
