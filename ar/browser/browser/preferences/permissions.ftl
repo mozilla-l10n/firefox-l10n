@@ -80,6 +80,9 @@ permissions-exceptions-etp-desc = عطّلت مزايا الحماية في هذ
 permissions-exceptions-cookie-window =
     .title = الاستثناءات - الكعكات و بيانات المواقع
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = الاستثناءات - الكعكات و بيانات المواقع
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = يمكنك تحديد المواقع التي يُسمح لها دائمًا أو لا يُسمح أبدًا باستخدام الكعكات و بيانات الموقع.  اكتب عنوان الموقع الذي تريد إدارته بدقة ثم انقر فوق ”احجب“، أو ”اسمح لهذه لجلسة“، أو ”اسمح“.
 
 ## Exceptions - HTTPS-Only Mode
