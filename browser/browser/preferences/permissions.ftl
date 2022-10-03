@@ -62,6 +62,9 @@ permissions-invalid-uri-label = Tiiɗno naatnu innde koɗol moƴƴol
 permissions-exceptions-cookie-window =
     .title = Paltooje - Kuukiije kam e Keɓe Lowre
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Paltooje - Kuukiije kam e Keɓe Lowre
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Aɗa waawi hollitde hol lowe geese jamiraaɗe daañaa huutoraade kuuke e keɓe lowre. Tappu ñiiɓirde lowre njiɗ-ɗaa toppitaade ndee, ndobo-ɗaa e Faddo, Yamir wonande rogere walla Yamir.
 
 ## Exceptions - HTTPS-Only Mode
