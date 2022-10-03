@@ -80,6 +80,9 @@ permissions-exceptions-etp-desc = 你已关闭对下列网站的保护。
 permissions-exceptions-cookie-window =
     .title = 例外 - Cookie 和网站数据
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = 例外 - Cookie 和网站数据
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = 您可以指定一律允许或不允许哪些网站使用 Cookie 和网站数据。请输入所要指定的完整网址，然后点击“阻止”、“在这次浏览期间允许”或“允许”。
 
 ## Exceptions - HTTPS-Only Mode
@@ -104,6 +107,9 @@ permissions-exceptions-popup-desc = 您可以指定哪些网站可以打开弹�
 permissions-exceptions-saved-logins-window =
     .title = 例外 - 已保存的登录信息
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = 例外 - 已保存的登录信息
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = 下列网站的登录信息将不被保存
 
 ## Exceptions - Add-ons
