@@ -96,6 +96,9 @@ permissions-exceptions-cookie-desc = You can specify which websites are always o
 permissions-exceptions-https-only-window =
     .title = Exceptions - HTTPS-Only Mode
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Exceptions - HTTPS-Only Mode
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = You can turn off HTTPS-Only Mode for specific websites. { -brand-short-name } won’t attempt to upgrade the connection to secure HTTPS for those sites. Exceptions do not apply to private windows.
 
 ## Exceptions - Pop-ups
