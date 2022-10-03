@@ -86,6 +86,9 @@ permissions-exceptions-etp-desc = Ha desactivado las protecciones en estos sitio
 permissions-exceptions-cookie-window =
     .title = Excepciones: Cookies y datos del sitio
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Excepciones: Cookies y datos del sitio
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Puede especificar qué sitios web pueden o no pueden utilizar siempre cookies y datos del sitio.  Escriba la dirección exacta del sitio que quiera gestionar y haga clic en Bloquear, Permitir en esta sesión o Permitir.
 
 ## Exceptions - HTTPS-Only Mode
@@ -133,6 +136,9 @@ permissions-exceptions-addons-desc = Puede especificar desde qué sitios web est
 permissions-site-autoplay-window =
     .title = Ajustes - Reproducción automática
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Ajustes - Reproducción automática
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Aquí puedes gestionar los sitios que no cumplen con tus ajustes de reproducción automática predeterminada.
 
 ## Site Permissions - Notifications
