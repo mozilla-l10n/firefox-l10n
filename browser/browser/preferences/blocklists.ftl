@@ -5,19 +5,17 @@
 blocklist-window =
     .title = Lista Bllokimesh
     .style = width: 50em
-
+blocklist-window2 =
+    .title = Lista Bllokimesh
+    .style = min-width: 50em
 blocklist-description = Zgjidhni listën që përdor { -brand-short-name } për të bllokuar gjurmues internetorë. Lista të furnizuara nga <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
-
 blocklist-treehead-list =
     .label = Listë
-
 blocklist-dialog =
     .buttonlabelaccept = Ruaji Ndryshimet
     .buttonaccesskeyaccept = R
-
-
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."
@@ -26,7 +24,6 @@ blocklist-dialog =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-
 blocklist-item-moz-std-listName = Listë bllokimesh e Shkallës 1 (E këshilluar).
 blocklist-item-moz-std-description = Lejon disa gjurmues, ndaj prish punë në më pak sajte.
 blocklist-item-moz-full-listName = Listë bllokimesh e Shkallës 2.
