@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Ingrese un nombre de host válido
 permissions-exceptions-etp-window =
     .title = Excepciones para la protección contra rastreo aumentada
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Excepciones para la protección contra rastreo aumentada
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Desactivó las protecciones en estos sitios web.
 
 ## Exceptions - Cookies
@@ -93,6 +96,9 @@ permissions-exceptions-cookie-desc = Puede especificar qué sitios web siempre o
 permissions-exceptions-https-only-window =
     .title = Excepciones Modo solo HTTPS
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Excepciones Modo solo HTTPS
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Puede desactivar el modo solo HTTPS para sitios web específicos. { -brand-short-name } no intentará actualizar la conexión a HTTPS seguro para esos sitios. Las excepciones no se aplican a las ventanas privadas.
 
 ## Exceptions - Pop-ups
@@ -130,6 +136,9 @@ permissions-exceptions-addons-desc = Puede especificar qué sitios web podrán i
 permissions-site-autoplay-window =
     .title = Configuración - Reproducción automática
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Configuración - Reproducción automática
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Aquí puede administrar los sitios que no siguen su configuración de reproducción automática predeterminada.
 
 ## Site Permissions - Notifications
@@ -163,6 +172,9 @@ permissions-site-location-disable-desc = Esto evitará que los sitios web no inc
 permissions-site-xr-window =
     .title = Ajustes - Permisos de realidad virtual
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Ajustes - Permisos de realidad virtual
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Los siguientes sitios web solicitaron permiso para acceder a tus dispositivos de realidad virtual. Podés especificar cuales son los sitios web que tienen permitido el acceso a tus dispositivos de realidad virtual. También podés bloquear futuras solicitudes de acceso a tus dispositivos de realidad virtual.
 permissions-site-xr-disable-label =
     .label = Bloquear nuevas solicitudes de acceso a tus dispositivos de realidad virtual
