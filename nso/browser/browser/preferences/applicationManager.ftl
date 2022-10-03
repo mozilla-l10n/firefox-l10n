@@ -5,15 +5,15 @@
 app-manager-window =
     .title = Dintlha tša tirišo
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = Dintlha tša tirišo
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = Tloša
     .accesskey = T
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Ditirišo tše latelago di ka dirišetšwa go swaragana le Dilomaganyo tša { $type }.
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Ditirišo tše latelago di ka dirišetšwa go swaragana le Diteng tša { $type }.
