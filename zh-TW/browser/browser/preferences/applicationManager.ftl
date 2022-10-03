@@ -5,15 +5,15 @@
 app-manager-window =
     .title = 程式詳細資訊
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = 程式詳細資訊
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = 移除
     .accesskey = R
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = 下列程式可用來處理 { $type } 鏈結。
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = 下列程式可用來處理 { $type } 內容。
