@@ -5,6 +5,9 @@
 permissions-window =
     .title = ਛੋਟ
     .style = width: 36em
+permissions-window2 =
+    .title = ਛੋਟ
+    .style = min-width: 36em
 permissions-close-key =
     .key = w
 permissions-address = ਵੈੱਬਸਾਈਟ ਦਾ ਸਿਰਨਾਵਾਂ
