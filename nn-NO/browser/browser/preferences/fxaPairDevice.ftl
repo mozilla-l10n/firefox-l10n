@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. Opne <b>menyen</b> (<img data-l10n-name="ios-menu-
 fxa-qrcode-heading-step4 = 4. Skann denne koden:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = Synkroniser { -brand-product-name } på telefonen eller nettbrettet ditt
 fxa-qrcode-pair-step1 = 1. Opne { -brand-product-name } på den mobile eininga di.
 fxa-qrcode-error-title = Mislykka paring.
