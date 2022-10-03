@@ -136,6 +136,9 @@ permissions-exceptions-addons-desc = Vous pouvez indiquer les sites web autoris�
 permissions-site-autoplay-window =
     .title = Paramètres - Lecture automatique
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Paramètres - Lecture automatique
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Vous pouvez gérer ici les sites qui ne suivent pas vos paramètres de lecture automatique par défaut.
 
 ## Site Permissions - Notifications
