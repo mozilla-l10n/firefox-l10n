@@ -5,77 +5,62 @@
 permissions-window =
     .title = Poikkeukset
     .style = width: 36em
-
+permissions-window2 =
+    .title = Poikkeukset
+    .style = min-width: 36em
 permissions-close-key =
     .key = w
-
 permissions-address = Sivuston osoite
     .accesskey = i
-
 permissions-block =
     .label = Estä
     .accesskey = E
-
 permissions-session =
     .label = Salli istunnon ajaksi
     .accesskey = i
-
 permissions-allow =
     .label = Salli
     .accesskey = a
-
 permissions-button-off =
     .label = Poista käytöstä
     .accesskey = P
-
 permissions-button-off-temporarily =
     .label = Poista käytöstä väliaikaisesti
     .accesskey = v
-
 permissions-site-name =
     .label = Sivusto
-
 permissions-status =
     .label = Tila
-
 permissions-remove =
     .label = Poista sivusto
     .accesskey = P
-
 permissions-remove-all =
     .label = Poista kaikki sivustot
     .accesskey = k
-
 permission-dialog =
     .buttonlabelaccept = Tallenna muutokset
     .buttonaccesskeyaccept = T
-
 permissions-autoplay-menu = Oletus kaikille sivustoille:
-
 permissions-searchbox =
     .placeholder = Etsi sivustoa
-
 permissions-capabilities-autoplay-allow =
     .label = Salli ääni ja video
 permissions-capabilities-autoplay-block =
     .label = Estä ääni
 permissions-capabilities-autoplay-blockall =
     .label = Estä ääni ja video
-
 permissions-capabilities-allow =
     .label = Salli
 permissions-capabilities-block =
     .label = Estä
 permissions-capabilities-prompt =
     .label = Kysy aina
-
 permissions-capabilities-listitem-allow =
     .value = Salli
 permissions-capabilities-listitem-block =
     .value = Estä
 permissions-capabilities-listitem-allow-session =
     .value = Salli istunnon ajaksi
-
 permissions-capabilities-listitem-off =
     .value = Pois
 permissions-capabilities-listitem-off-temporarily =
@@ -112,6 +97,9 @@ permissions-exceptions-https-only-desc = Voit poistaa Vain HTTPS -tilan käytös
 permissions-exceptions-popup-window =
     .title = Sallitut sivustot - Ponnahdusikkunat
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Sallitut sivustot - Ponnahdusikkunat
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Määrätyt sivustot saavat avata ponnahdusikkunoita. Kirjoita sivuston osoite ja napsauta Salli.
 
 ## Exceptions - Saved Logins
@@ -119,6 +107,9 @@ permissions-exceptions-popup-desc = Määrätyt sivustot saavat avata ponnahdusi
 permissions-exceptions-saved-logins-window =
     .title = Poikkeukset - Tallennetut kirjautumistiedot
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Poikkeukset - Tallennetut kirjautumistiedot
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Seuraavien sivustojen kirjautumistietoja ei tallenneta
 
 ## Exceptions - Add-ons
@@ -126,6 +117,9 @@ permissions-exceptions-saved-logins-desc = Seuraavien sivustojen kirjautumistiet
 permissions-exceptions-addons-window =
     .title = Sallitut sivustot - Lisäosien asentaminen
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Sallitut sivustot - Lisäosien asentaminen
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Lisäosia voidaan asentaa määrätyiltä sivustoilta. Kirjoita sivuston osoite ja napsauta Salli.
 
 ## Site Permissions - Autoplay
@@ -140,6 +134,9 @@ permissions-site-autoplay-desc = Tässä voit hallita sivustoja, jotka eivät no
 permissions-site-notification-window =
     .title = Asetukset - Ilmoitusten vastaanottaminen
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Asetukset - Ilmoitusten vastaanottaminen
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Seuraavat sivustot ovat pyytäneet lupaa lähettää ilmoituksia. Voit valita, mitkä sivustot saavat lähettää ilmoituksia sinulle. Voit myös estää uudet lupapyynnöt ilmoitusten lähettämiseksi.
 permissions-site-notification-disable-label =
     .label = Estä uudet lupapyynnöt ilmoitusten lähettämiseksi
@@ -150,6 +147,9 @@ permissions-site-notification-disable-desc = Tämä estää kaikki yllä mainits
 permissions-site-location-window =
     .title = Asetukset - Sijaintioikeudet
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Asetukset - Sijaintioikeudet
+    .style = { permissions-window2.style }
 permissions-site-location-desc = Seuraavat sivustot ovat pyytäneet lupaa käyttää sijaintiasi. Voit valita, mitkä sivustot saavat käyttää sijaintiasi. Voit myös estää uudet lupapyynnöt sijainnin käyttämiseksi.
 permissions-site-location-disable-label =
     .label = Estä uudet lupapyynnöt sijainnin käyttämiseksi
@@ -170,6 +170,9 @@ permissions-site-xr-disable-desc = Tämä estää kaikki yllä mainitsemattomat 
 permissions-site-camera-window =
     .title = Asetukset - Kameraoikeudet
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = Asetukset - Kameraoikeudet
+    .style = { permissions-window2.style }
 permissions-site-camera-desc = Seuraavat sivustot ovat pyytäneet lupaa käyttää kameraasi. Voit valita, mitkä sivustot saavat käyttää kameraasi. Voit myös estää uudet lupapyynnöt kameran käyttämiseksi.
 permissions-site-camera-disable-label =
     .label = Estä uudet lupapyynnöt kameran käyttämiseksi
@@ -180,6 +183,9 @@ permissions-site-camera-disable-desc = Tämä estää kaikki yllä mainitsematto
 permissions-site-microphone-window =
     .title = Asetukset - Mikrofonioikeudet
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = Asetukset - Mikrofonioikeudet
+    .style = { permissions-window2.style }
 permissions-site-microphone-desc = Seuraavat sivustot ovat pyytäneet lupaa käyttää mikrofoniasi. Voit valita, mitkä sivustot saavat käyttää mikrofoniasi. Voit myös estää uudet lupapyynnöt mikrofonin käyttämiseksi.
 permissions-site-microphone-disable-label =
     .label = Estä uudet lupapyynnöt mikrofonin käyttämiseksi
