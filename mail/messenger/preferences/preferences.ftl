@@ -353,6 +353,9 @@ auto-mark-as-read =
 mark-read-no-delay =
     .label = Сразу после открытия
     .accesskey = а
+view-attachments-inline =
+    .label = Показывать вложения в теле сообщения
+    .accesskey = ж
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
