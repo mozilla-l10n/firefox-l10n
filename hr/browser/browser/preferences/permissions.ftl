@@ -5,77 +5,62 @@
 permissions-window =
     .title = Iznimke
     .style = width: 41em
-
+permissions-window2 =
+    .title = Iznimke
+    .style = min-width: 41em
 permissions-close-key =
     .key = w
-
 permissions-address = Adresa web stranice
     .accesskey = d
-
 permissions-block =
     .label = Blokiraj
     .accesskey = B
-
 permissions-session =
     .label = Dozvoli za sesiju
     .accesskey = s
-
 permissions-allow =
     .label = Dozvoli
     .accesskey = D
-
 permissions-button-off =
     .label = Isključi
     .accesskey = s
-
 permissions-button-off-temporarily =
     .label = Isključi privremeno
     .accesskey = I
-
 permissions-site-name =
     .label = Web stranica
-
 permissions-status =
     .label = Stanje
-
 permissions-remove =
     .label = Ukloni stranicu
     .accesskey = U
-
 permissions-remove-all =
     .label = Ukloni sve stranice
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Spremi promjene
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Standardno za sve web-stranice:
-
 permissions-searchbox =
     .placeholder = Traži web stranicu
-
 permissions-capabilities-autoplay-allow =
     .label = Dozvoli zvuk i video
 permissions-capabilities-autoplay-block =
     .label = Blokiraj zvuk
 permissions-capabilities-autoplay-blockall =
     .label = Blokiraj zvuk i video
-
 permissions-capabilities-allow =
     .label = Dozvoli
 permissions-capabilities-block =
     .label = Blokiraj
 permissions-capabilities-prompt =
     .label = Uvijek pitaj
-
 permissions-capabilities-listitem-allow =
     .value = Dozvoli
 permissions-capabilities-listitem-block =
     .value = Blokiraj
 permissions-capabilities-listitem-allow-session =
     .value = Dozvoli za sesiju
-
 permissions-capabilities-listitem-off =
     .value = Isključeno
 permissions-capabilities-listitem-off-temporarily =
@@ -111,6 +96,9 @@ permissions-exceptions-https-only-window =
 permissions-exceptions-popup-window =
     .title = Dopuštene stranice - skočni prozori
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Dopuštene stranice - skočni prozori
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Možeš odrediti web-stranice, koje smiju prikazivati skočne prozore. Upiši točnu adresu web-stranice kojoj to želiš dozvoliti, te klikni na „Dozvoli”.
 
 ## Exceptions - Saved Logins
@@ -118,6 +106,9 @@ permissions-exceptions-popup-desc = Možeš odrediti web-stranice, koje smiju pr
 permissions-exceptions-saved-logins-window =
     .title = Iznimke - spremljene prijave
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Iznimke - spremljene prijave
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Prijave za sljedeće stranice neće biti spremljene
 
 ## Exceptions - Add-ons
@@ -125,6 +116,9 @@ permissions-exceptions-saved-logins-desc = Prijave za sljedeće stranice neće b
 permissions-exceptions-addons-window =
     .title = Dopuštene stranice - Instalacija dodataka
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Dopuštene stranice - Instalacija dodataka
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Možeš odrediti web-stranice, koje smiju instalirati dodatke. Upiši točnu adresu web-stranice kojoj to želiš dozvoliti, te klikni na „Dozvoli”.
 
 ## Site Permissions - Autoplay
@@ -139,6 +133,9 @@ permissions-site-autoplay-desc = Ovdje možeđ upravljati stranicama koje ne sli
 permissions-site-notification-window =
     .title = Postavke - dozvole za obavijesti
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Postavke - dozvole za obavijesti
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Sljedeće web stranice su te zatražile za odobrenje slanja obavijesti. Možeš navesti web stranice, kojima dopuštaš slanje obavijesti. Također možeš blokirati nove zahtjeve za slanje obavijesti.
 permissions-site-notification-disable-label =
     .label = Blokiraj nove zahtjeve koji traže dozvolu za obavijesti
