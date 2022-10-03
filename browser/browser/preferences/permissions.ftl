@@ -83,6 +83,9 @@ permissions-exceptions-etp-desc = Rydych wedi diffodd y diogelu ar y gwefannau h
 permissions-exceptions-cookie-window =
     .title = Eithriadau - Cwcis a Data Gwefan
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Eithriadau - Cwcis a Data Gwefan
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Gallwch bennu pa wefannau sy'n cael defnyddio cwcis a data gwefannau, neu beidio.  Teipiwch union gyfeiriad y wefan rydych am ei reoli ac yna clicio Rhwystro, Caniatáu am y Sesiwn neu Caniatáu.
 
 ## Exceptions - HTTPS-Only Mode
