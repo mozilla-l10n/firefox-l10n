@@ -106,6 +106,9 @@ permissions-exceptions-https-only-desc = Ye can turn aff HTTPS-Anely Mode fur sp
 permissions-exceptions-popup-window =
     .title = Allooed Wabsites - Lowp-ups
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Allooed Wabsites - Lowp-ups
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Ye can set oot whit wabsites are allooed tae open lowp-up windaes. Type the exact address o the site ye want tae alloo and then click Alloo.
 
 ## Exceptions - Saved Logins
@@ -123,6 +126,9 @@ permissions-exceptions-saved-logins-desc = Logins fur the follaein wabsites will
 permissions-exceptions-addons-window =
     .title = Allooed Websites - Eik-ons Instawment
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Allooed Websites - Eik-ons Instawment
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Ye can set oot whit wabsites are allooed tae instaw eik-ons. Type the exact address o the site ye want tae alloo and then click Alloo.
 
 ## Site Permissions - Autoplay
@@ -179,6 +185,9 @@ permissions-site-xr-disable-desc = This will stap onie wabsites no listit abuin 
 permissions-site-camera-window =
     .title = Settins - Camera Permeesions
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = Settins - Camera Permeesions
+    .style = { permissions-window2.style }
 permissions-site-camera-desc = The follaein wabsties hae speirt fur tae hae ingang tae yer camera. Ye can set oot whit wabsites are allooed tae hae ingang tae yer camera. Forby, ye can block new speirins fur tae hae ingang tae yer camera.
 permissions-site-camera-disable-label =
     .label = Block new speirins fur tae hae ingang tae yer camera
@@ -189,6 +198,9 @@ permissions-site-camera-disable-desc = This will stap onie wabsites no listit ab
 permissions-site-microphone-window =
     .title = Settins - Microphone Permeesions
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = Settins - Microphone Permeesions
+    .style = { permissions-window2.style }
 permissions-site-microphone-desc = The follaein wabsites hae speirt fur tae hae ingang tae yer microphone. Ye can set oot whit wabsites are allooed tae hae ingang tae yer microphone. Forby, ye can block new speirins fur tae hae ingang tae yer microphone.
 permissions-site-microphone-disable-label =
     .label = Block new speirins fur tae hae ingang tae yer microphone
