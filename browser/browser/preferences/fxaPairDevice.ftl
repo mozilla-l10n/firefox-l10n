@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. Fosgail an <b>clàr-taice</b> (<img data-l10n-name
 fxa-qrcode-heading-step4 = 4. Sganaich an còd seo:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = Sioncronaich { -brand-product-name } air an fhòn no tablaid agad
 fxa-qrcode-pair-step1 = 1. Fosgail { -brand-product-name } air an uidheam mobile agad.
 fxa-qrcode-pair-step2 = 2. Fosgail an <strong>clàr-taice</strong> (<img data-l10n-name="ios-menu-icon"/> air iOS no <img data-l10n-name="android-menu-icon"/> air Android) agus thoir gnogag air <strong>Clàraich a-steach airson sioncronachadh</strong>
