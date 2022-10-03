@@ -5,6 +5,9 @@
 permissions-window =
     .title = ခြွင်းချက်များ
     .style = width: 45em
+permissions-window2 =
+    .title = ခြွင်းချက်များ
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = ၀ဘ်ဆိုက်လိပ်စာ
