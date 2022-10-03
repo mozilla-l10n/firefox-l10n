@@ -5,15 +5,15 @@
 app-manager-window =
     .title = പ്രയോഗത്തിന്റെ വിശദാംശങ്ങള്‍
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = പ്രയോഗത്തിന്റെ വിശദാംശങ്ങള്‍
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = നീക്കം ചെയ്യുക
     .accesskey = R
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = { $type } ലിങ്കുകള്‍ കൈകാര്യം ചെയ്യുന്നതിനായി താഴെ പറഞ്ഞിരിക്കുന്ന പ്രയോഗങ്ങള്‍ ഉപയോഗിക്കാം.
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = { $type } ഉള്ളടക്കം കൈകാര്യം ചെയ്യുന്നതിനായി താഴെ പറഞ്ഞിരിക്കുന്ന പ്രയോഗങ്ങള്‍ ഉപയോഗിക്കാം.
