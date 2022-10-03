@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Te rugăm să introduci un nume de gazdă valid
 permissions-exceptions-etp-window =
     .title = Excepții pentru protecția îmbunătățită împotriva urmăririi
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Excepții pentru protecția îmbunătățită împotriva urmăririi
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Ai dezactivat protecțiile pe aceste site-uri web.
 
 ## Exceptions - Cookies
@@ -83,6 +86,9 @@ permissions-exceptions-etp-desc = Ai dezactivat protecțiile pe aceste site-uri 
 permissions-exceptions-cookie-window =
     .title = Excepții - Cookie-uri și date ale site-urilor
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Excepții - Cookie-uri și date ale site-urilor
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Poți specifica ce site-uri web au întotdeauna sau niciodată permisiunea de a folosi cookie-uri și date ale site-urilor.  Tastează adresa exactă a site-ului pe care vrei să-l gestionezi și apoi dă clic pe Blochează, Permite pentru sesiune sau Permite.
 
 ## Exceptions - HTTPS-Only Mode
@@ -107,6 +113,9 @@ permissions-exceptions-popup-desc = Poți specifica ce site-uri web au permisiun
 permissions-exceptions-saved-logins-window =
     .title = Excepții - Date de autentificare salvate
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Excepții - Date de autentificare salvate
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Nu vor fi salvate date de autentificare pentru următoarele site-uri web
 
 ## Exceptions - Add-ons
@@ -124,6 +133,9 @@ permissions-exceptions-addons-desc = Poți specifica ce site-uri web au permisiu
 permissions-site-autoplay-window =
     .title = Setări - Redare automată
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Setări - Redare automată
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Poți gestiona aici site-urile care nu respectă setările implicite de redare automată.
 
 ## Site Permissions - Notifications
@@ -157,6 +169,9 @@ permissions-site-location-disable-desc = Acest lucru va împiedica orice site we
 permissions-site-xr-window =
     .title = Setări - Permisiuni pentru realitate virtuală
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Setări - Permisiuni pentru realitate virtuală
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Următoarele site-uri web au solicitat să îți acceseze dispozitivele de realitate virtuală. Poți specifica ce site-uri web au permisiunea de a-ți accesa dispozitivele de realitate virtuală. De asemenea, poți bloca noile solicitări de accesare a dispozitivelor tale de realitate virtuală.
 permissions-site-xr-disable-label =
     .label = Blochează noile solicitări de accesare a dispozitivelor de realitate virtuală
