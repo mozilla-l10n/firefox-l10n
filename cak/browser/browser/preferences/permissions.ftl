@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Tatz'ib'aj ri okel rub'i' ruk'uxasamaj
 permissions-exceptions-etp-window =
     .title = Taq man relik ta richin ri utzirisan Chajinïk chuwäch Ojqanïk
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Taq man relik ta richin ri utzirisan Chajinïk chuwäch Ojqanïk
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Xe'achüp ri taq chajinïk pa re taq ajk'amaya'l re'.
 
 ## Exceptions - Cookies
@@ -93,6 +96,9 @@ permissions-exceptions-cookie-desc = Yatikïr naya' ketal ri taq ajk'amaya'l rux
 permissions-exceptions-https-only-window =
     .title = Taq cha'oj - Xa xe Rub'anikil-HTTPS
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Taq cha'oj - Xa xe Rub'anikil-HTTPS
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Yatikïr nachüp ri rub'anikil HTTPS-Only kichin cha'on ajk'amaya'l taq ruxaq. { -brand-short-name } man xtutojtob'ej ta xtuk'ëx ri okem richin nijikib'äx ri HTTPS pa ri taq ruxaq ri'. Ri taq cha'oj man nokisäx pa ichinan taq tzuwäch.
 
 ## Exceptions - Pop-ups
@@ -130,6 +136,9 @@ permissions-exceptions-addons-desc = Yatikïr naya' retal pan achike ruxaq k'ama
 permissions-site-autoplay-window =
     .title = Nuk'ulem - Ruyon Titzijtäj
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Nuk'ulem - Ruyon Titzijtäj
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Wawe' yatikïr ye'anuk'samajij ri taq ruxaq man  kojqan ta ri runuk'ulem k'o wi richin ri ruyonil nitzij.
 
 ## Site Permissions - Notifications
@@ -163,6 +172,9 @@ permissions-site-location-disable-desc = Re re' xtub'än chi ri taq ruxaq ajk'am
 permissions-site-xr-window =
     .title = Taq nuk'ulem - Ya'oj taq Ruq'ij ri achik'al K'ojlemal
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Taq nuk'ulem - Ya'oj taq Ruq'ij ri achik'al K'ojlemal
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Re taq ruxaq ajk'amaya'l re' xkik'utuj q'ij richin ye'ok pa ri awokisaxel richin achik'al ak'ojlemal. Yatikïr ye'ajikib'a' ri taq ruxaq ajk'amaya'l niya' q'ij chi ke richin ye'ok pa ri taq awokisaxel richin achik'al ak'ojlemal. Chuqa' yatikïr ye'aq'ät k'ak'a' taq k'utunïk richin ye'ok pa taq awokisaxel richin achik'al ak'ojemal.
 permissions-site-xr-disable-label =
     .label = Keq'at k'ak'a' taq k'utunïk richin ye'ok pan taq awokisaxel richin achik'al ak'ojlemal
