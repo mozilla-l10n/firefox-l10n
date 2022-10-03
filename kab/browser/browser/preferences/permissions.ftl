@@ -5,6 +5,9 @@
 permissions-window =
     .title = Tisuraf
     .style = width: 45em
+permissions-window2 =
+    .title = Tisuraf
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = Tansa n usmel web
@@ -107,6 +110,9 @@ permissions-exceptions-popup-desc = Tzemreḍ ad d-tmuddeḍ ismal web ara teǧ�
 permissions-exceptions-saved-logins-window =
     .title = Tisuraf - Inekcumen yettwakelsen
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Tisuraf - Inekcumen yettwakelsen
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Inekcumen n yismal-agi ur ttwaklasen ara
 
 ## Exceptions - Add-ons
