@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Skriv inn eit gyldig tenarnamn
 permissions-exceptions-etp-window =
     .title = Unntak for utvida sporingsvern
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Unntak for utvida sporingsvern
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Du har slått av vern på desse nettsidene.
 
 ## Exceptions - Cookies
@@ -93,6 +96,9 @@ permissions-exceptions-cookie-desc = Du kan spesifisere kva for nettstadar som a
 permissions-exceptions-https-only-window =
     .title = Unntak - Berre HTTPS-modus
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Unntak - Berre HTTPS-modus
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Du kan slå av berre-HTTPS-modus for bestemte nettstadar. { -brand-short-name } prøver ikkje å oppgradere tilkoplinga for å sikre HTTPS for desse nettstadane. Unntak gjeld ikkje private vindauge.
 
 ## Exceptions - Pop-ups
@@ -130,6 +136,9 @@ permissions-exceptions-addons-desc = Du kan velje kva for nettstadar som har lø
 permissions-site-autoplay-window =
     .title = Innstillingar - Automatisk avspeling
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Innstillingar - Automatisk avspeling
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Du kan handsame nettstadar som ikkje følgjer standardinnstillingane dine for automatisk avspeling her.
 
 ## Site Permissions - Notifications
@@ -163,6 +172,9 @@ permissions-site-location-disable-desc = Dette hindrar nettstadar som ikkje er f
 permissions-site-xr-window =
     .title = Innstillingar - Løyve for virtuell røyndom
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Innstillingar - Løyve for virtuell røyndom
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Følgjande nettstadar har bedt om tilgang til den virtuelle røyndomseininga di. Du kan spesifisere kva for nettstadar som får tilgang til den virtuelle røyndomseininga di. Du kan også blokkere nye førespurnadar som ber om tilgang til den virtuelle røyndomseininga di.
 permissions-site-xr-disable-label =
     .label = Blokker nye førespurnadar som ber om tilgang til den virtuelle røyndomseininga di.
