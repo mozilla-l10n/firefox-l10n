@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. 打开<b>菜单</b>（<img data-l10n-name="ios-men
 fxa-qrcode-heading-step4 = 4. 扫描此二维码：
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = 与您的手机或平板电脑同步 { -brand-product-name }
 fxa-qrcode-pair-step1 = 1. 打开您移动设备上的 { -brand-product-name }。
 fxa-qrcode-pair-step2 = 2. 打开<strong>菜单</strong>（iOS 上的 <img data-l10n-name="ios-menu-icon"/> 或 Android 上的 <img data-l10n-name="android-menu-icon"/>），点按<strong>登录同步服务</strong>
