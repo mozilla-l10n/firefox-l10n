@@ -76,6 +76,9 @@ permissions-invalid-uri-label = אנא הכנס שם מארח חוקי
 permissions-exceptions-etp-window =
     .title = חריגות עבור הגנת מעקב מתקדמת
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = חריגות עבור הגנת מעקב מתקדמת
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = ביטלת את ההגנות באתרים אלו.
 
 ## Exceptions - Cookies
@@ -93,6 +96,9 @@ permissions-exceptions-cookie-desc = באפשרותך לציין לאלו אתר
 permissions-exceptions-https-only-window =
     .title = חריגות - מצב HTTPS בלבד
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = חריגות - מצב HTTPS בלבד
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = באפשרותך לכבות את מצב HTTPS בלבד עבור אתרים מסוימים. { -brand-short-name } לא ינסה לשדרג את החיבור ל-HTTPS מאובטח עבור אתרים אלו. החריגות אינן חלות בחלונות פרטיים.
 
 ## Exceptions - Pop-ups
@@ -165,6 +171,9 @@ permissions-site-location-disable-desc = הגדרה זו תמנע מאתרים �
 permissions-site-xr-window =
     .title = הגדרות - הרשאות מציאות מדומה
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = הגדרות - הרשאות מציאות מדומה
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = האתרים הבאים ביקשו לגשת למכשירי המציאות המדומה שלך. באפשרותך לציין לאילו אתרים מותר לגשת למכשירי המציאות המדומה שלך. ניתן גם לחסום בקשות חדשות לגשת למכשירי המציאות המדומה שלך.
 permissions-site-xr-disable-label =
     .label = חסימת בקשות חדשות לגישה למכשירי המציאות המדומה שלך
