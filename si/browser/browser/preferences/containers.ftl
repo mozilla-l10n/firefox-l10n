@@ -10,6 +10,14 @@ containers-window-new =
 containers-window-update-settings =
     .title = { $name } අඩංගුවේ සැකසුම්
     .style = width: 45em
+containers-window-new2 =
+    .title = නව අඩංගුවක් යොදන්න
+    .style = min-width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings2 =
+    .title = { $name } අඩංගුවේ සැකසුම්
+    .style = min-width: 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied

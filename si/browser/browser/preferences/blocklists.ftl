@@ -5,6 +5,9 @@
 blocklist-window =
     .title = අවහිර ලේඛන
     .style = width: 55em
+blocklist-window2 =
+    .title = අවහිර ලේඛන
+    .style = min-width: 55em
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =

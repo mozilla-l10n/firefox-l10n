@@ -5,6 +5,9 @@
 translation-window =
     .title = හැරදැමීම් - පරිවර්තනය
     .style = width: 36em
+translation-window2 =
+    .title = හැරදැමීම් - පරිවර්තනය
+    .style = min-width: 36em
 translation-close-key =
     .key = w
 translation-languages-disabled-desc = පහත භාෂා සඳහා පරිවර්තනය ලබා නොදෙනු ඇත

@@ -5,6 +5,9 @@
 clear-site-data-window =
     .title = දත්ත මකන්න
     .style = width: 35em
+clear-site-data-window2 =
+    .title = දත්ත මකන්න
+    .style = min-width: 35em
 clear-site-data-description = { -brand-short-name } මගින් ගබඩා කර තිබෙන සියළුම දත්තකඩ සහ අඩවි දත්ත හිස් කිරීමෙන් ඔබව අඩවි වෙතින් නික්මවන අතර මාර්ගඅපගත වියමන අන්තර්ගත ද ඉවත් කෙරේ. නිහිතගත දත්ත පමණක් හිස් කිරීම ඔබගේ පිවිසුම් වලට බලපාන්නේ නැත.
 clear-site-data-close-key =
     .key = w
