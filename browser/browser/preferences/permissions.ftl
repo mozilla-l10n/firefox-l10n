@@ -136,6 +136,9 @@ permissions-exceptions-addons-desc = U kunt opgeven welke websites toestemming h
 permissions-site-autoplay-window =
     .title = Instellingen - Automatisch afspelen
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Instellingen - Automatisch afspelen
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = U kunt hier de websites beheren die uw standaardinstellingen voor automatisch afspelen niet volgen.
 
 ## Site Permissions - Notifications
