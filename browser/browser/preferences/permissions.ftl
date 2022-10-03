@@ -5,77 +5,59 @@
 permissions-window =
     .title = Izjeme
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Naslov spletne strani
     .accesskey = N
-
 permissions-block =
     .label = Prepovej
     .accesskey = r
-
 permissions-session =
     .label = Dovoli v tej seji
     .accesskey = S
-
 permissions-allow =
     .label = Dovoli
     .accesskey = D
-
 permissions-button-off =
     .label = Izključi
     .accesskey = I
-
 permissions-button-off-temporarily =
     .label = Začasno izključi
     .accesskey = Z
-
 permissions-site-name =
     .label = Spletna stran
-
 permissions-status =
     .label = Stanje
-
 permissions-remove =
     .label = Odstrani spletno stran
     .accesskey = O
-
 permissions-remove-all =
     .label = Odstrani vse spletne strani
     .accesskey = v
-
 permission-dialog =
     .buttonlabelaccept = Shrani spremembe
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Privzeto za vse spletne strani:
-
 permissions-searchbox =
     .placeholder = Išči po spletni strani
-
 permissions-capabilities-autoplay-allow =
     .label = Dovoli zvok in video
 permissions-capabilities-autoplay-block =
     .label = Zavrni zvok
 permissions-capabilities-autoplay-blockall =
     .label = Zavrni zvok in video
-
 permissions-capabilities-allow =
     .label = Dovoli
 permissions-capabilities-block =
     .label = Prepovej
 permissions-capabilities-prompt =
     .label = Vedno vprašaj
-
 permissions-capabilities-listitem-allow =
     .value = Dovoli
 permissions-capabilities-listitem-block =
     .value = Prepovej
 permissions-capabilities-listitem-allow-session =
     .value = Dovoli v tej seji
-
 permissions-capabilities-listitem-off =
     .value = Izključeno
 permissions-capabilities-listitem-off-temporarily =
@@ -98,6 +80,9 @@ permissions-exceptions-etp-desc = Za te spletne strani ste izklopili zaščito.
 permissions-exceptions-cookie-window =
     .title = Izjeme – Piškotki in podatki strani
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Izjeme – Piškotki in podatki strani
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Določite lahko, katere spletne strani lahko vedno ali ne smejo nikoli shranjevati piškotkov in podatkov strani. Vnesite točen naslov strani in nato kliknite gumb Prepovej, Dovoli v tej seji ali Dovoli.
 
 ## Exceptions - HTTPS-Only Mode
@@ -105,6 +90,9 @@ permissions-exceptions-cookie-desc = Določite lahko, katere spletne strani lahk
 permissions-exceptions-https-only-window =
     .title = Izjeme – Način samo HTTPS
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Izjeme – Način samo HTTPS
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Način "samo HTTPS" lahko izklopite za določena spletna mesta. Na teh spletnih mestih { -brand-short-name } ne bo poskušal nadgraditi povezave na zavarovani HTTPS. Izjeme ne bodo veljale v zasebnih oknih.
 
 ## Exceptions - Pop-ups
@@ -112,6 +100,9 @@ permissions-exceptions-https-only-desc = Način "samo HTTPS" lahko izklopite za 
 permissions-exceptions-popup-window =
     .title = Dovoljene spletne strani – Pojavna okna
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Dovoljene spletne strani – Pojavna okna
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Določite, katere strani smejo odpirati pojavna okna. Vnesite točen naslov strani, nato pa kliknite gumb Dovoli.
 
 ## Exceptions - Saved Logins
@@ -119,6 +110,9 @@ permissions-exceptions-popup-desc = Določite, katere strani smejo odpirati poja
 permissions-exceptions-saved-logins-window =
     .title = Izjeme – Shranjene prijave
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Izjeme – Shranjene prijave
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Prijave za naslednje spletne strani ne bodo shranjene
 
 ## Exceptions - Add-ons
@@ -126,6 +120,9 @@ permissions-exceptions-saved-logins-desc = Prijave za naslednje spletne strani n
 permissions-exceptions-addons-window =
     .title = Dovoljene spletne strani – Namestitev dodatkov
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Dovoljene spletne strani – Namestitev dodatkov
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Določite, katere strani smejo nameščati dodatke. Vnesite točen naslov strani, nato pa kliknite gumb Dovoli.
 
 ## Site Permissions - Autoplay
@@ -133,6 +130,9 @@ permissions-exceptions-addons-desc = Določite, katere strani smejo nameščati 
 permissions-site-autoplay-window =
     .title = Nastavitve – Samodejno predvajanje
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Nastavitve – Samodejno predvajanje
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Tukaj lahko upravljate spletne strani, za katere ne veljajo privzete nastavitve samodejnega predvajanja.
 
 ## Site Permissions - Notifications
@@ -140,6 +140,9 @@ permissions-site-autoplay-desc = Tukaj lahko upravljate spletne strani, za kater
 permissions-site-notification-window =
     .title = Nastavitve – Dovoljenja obvestil
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Nastavitve – Dovoljenja obvestil
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Naslednja spletna mesta so zahtevala, da vam pošiljajo obvestila. Določite lahko, katere spletne strani lahko pošljejo obvestila. Prav tako lahko blokirate nove zahteve, ki zahtevajo dovoljenje za obvestila.
 permissions-site-notification-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo dovoljenje za pošiljanje obvestil
@@ -150,6 +153,9 @@ permissions-site-notification-disable-desc = To bo preprečilo, da bi katera kol
 permissions-site-location-window =
     .title = Nastavitve – Dovoljenja lokacije
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Nastavitve – Dovoljenja lokacije
+    .style = { permissions-window2.style }
 permissions-site-location-desc = Naslednje spletne strani so zahtevale dostop do vaše lokacije. Določite lahko, katere spletne strani lahko dostopajo do vaše lokacije. Prav tako lahko zavrnete nove zahteve za dostop do vaše lokacije.
 permissions-site-location-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo informacijo o lokaciji
@@ -170,6 +176,9 @@ permissions-site-xr-disable-desc = To bo preprečilo, da bi katera koli spletna 
 permissions-site-camera-window =
     .title = Nastavitve – Dovoljenja kamere
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = Nastavitve – Dovoljenja kamere
+    .style = { permissions-window2.style }
 permissions-site-camera-desc = Te spletne strani so zahtevale dostop do kamere. Določite lahko, katere spletne strani lahko dostopajo do kamere. Prav tako lahko zavrnete nove zahteve za dostop do kamere.
 permissions-site-camera-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo dostop do kamere
@@ -180,6 +189,9 @@ permissions-site-camera-disable-desc = To bo preprečilo, da bi katera koli sple
 permissions-site-microphone-window =
     .title = Nastavitve – Dovoljenja mikrofona
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = Nastavitve – Dovoljenja mikrofona
+    .style = { permissions-window2.style }
 permissions-site-microphone-desc = Te spletne strani so zahtevale dostop do mikrofona. Določite lahko, katere spletne strani lahko dostopajo do mikrofona. Prav tako lahko zavrnete nove zahteve za dostop do mikrofona.
 permissions-site-microphone-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo dostop do mikrofona

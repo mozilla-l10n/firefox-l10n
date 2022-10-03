@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. Odprite <b>meni</b> (<img data-l10n-name="ios-menu
 fxa-qrcode-heading-step4 = 4. Skenirajte to kodo:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = Sinhronizirajte { -brand-product-name } s telefonom ali tablico
 fxa-qrcode-pair-step1 = 1. Odprite { -brand-product-name } na svoji mobilni napravi.
 fxa-qrcode-pair-step2 = 2. Odprite <strong>meni</strong> (<img data-l10n-name="ios-menu-icon"/> v iOS ali <img data-l10n-name="android-menu-icon"/> v Androidu) in tapnite <strong>Prijava v sinhronizacijo</strong>
