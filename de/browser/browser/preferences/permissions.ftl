@@ -96,6 +96,9 @@ permissions-exceptions-cookie-desc = Sie können festlegen, welchen Websites Sie
 permissions-exceptions-https-only-window =
     .title = Ausnahmen - Nur-HTTPS-Modus
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Ausnahmen - Nur-HTTPS-Modus
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Sie können den Nur-HTTPS-Modus für bestimmte Websites deaktivieren. { -brand-short-name } versucht dann nicht, die Verbindung zu ändern, um HTTPS für diese Websites sicherzustellen. Ausnahmen gelten nicht für private Fenster.
 
 ## Exceptions - Pop-ups
@@ -169,6 +172,9 @@ permissions-site-location-disable-desc = Dies wird alle nicht oben aufgeführten
 permissions-site-xr-window =
     .title = Einstellungen - VR-Berechtigungen
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Einstellungen - VR-Berechtigungen
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Die folgenden Websites haben um Erlaubnis angefragt, auf Ihre VR-Geräte zugreifen zu dürfen. Sie können festlegen, welche Websites auf Ihre VR-Geräte zugreifen dürfen. Weiterhin können Sie alle zukünftigen Anfragen für den Zugriff auf Ihre VR-Geräte blockieren.
 permissions-site-xr-disable-label =
     .label = Neue Anfragen für den Zugriff auf Ihre VR-Geräte blockieren
