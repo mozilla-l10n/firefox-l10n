@@ -5,5 +5,7 @@
 select-bookmark-window =
     .title = મુખ્ય પાનું સુયોજીત કરો
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = મુખ્ય પાનું સુયોજીત કરો
+    .style = min-width: 32em;
 select-bookmark-desc = તમારું મુખ્ય પાનું બનાવવા માટે બુકમાર્ક પસંદ કરો. જો તમે ફોલ્ડર પસંદ કરો, તો તે ફોલ્ડરમાંની બુકમાર્કો ટૅબ્સમાં ખૂલશે.
