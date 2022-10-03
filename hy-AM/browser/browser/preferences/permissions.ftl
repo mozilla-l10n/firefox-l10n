@@ -73,6 +73,9 @@ permissions-exceptions-etp-desc = Դուք անջատել եք այս կայքե
 permissions-exceptions-cookie-window =
     .title = Բացառություններ՝ Cookie-ներ և կայքի տվյալներ
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Բացառություններ՝ Cookie-ներ և կայքի տվյալներ
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Կարող եք հատկորոշել, թե որ կայքերին է թույլատրվում միշտ կամ երբեք օգտագործել cookie-ներ և կայքի տվյալները:  Մուտքագրեք կայքի կոնկրետ հասցե, որը ցանկանում եք կառավարել և սեղմեք Արգելափակել, Թույլատրել աշխատաշրջանի համար կամ Թույլատրել:
 
 ## Exceptions - HTTPS-Only Mode

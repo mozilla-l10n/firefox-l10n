@@ -5,12 +5,12 @@
 clear-site-data-window =
     .title = Մաքրել տվյալները
     .style = width: 35em
-
+clear-site-data-window2 =
+    .title = Մաքրել տվյալները
+    .style = min-width: 35em
 clear-site-data-description = Բոլոր cookie-երի և { -brand-short-name }-ի կողմից պահված տվյալների մաքրումը կարող է ձեզ դուրս գրել կայքերից և հեռացնել անցանց վեբ բովանդակությունը: Դա չի վերաբերի ձեր մուտքագրումներին:
-
 clear-site-data-close-key =
     .key = w
-
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cookies and Site Data (24 KB)"
 # Variables:
@@ -19,7 +19,6 @@ clear-site-data-close-key =
 clear-site-data-cookies-with-data =
     .label = Cookie-ներ և կայքի տվյալներ ({ $amount } { $unit })
     .accesskey = S
-
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cookies-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
@@ -28,9 +27,7 @@ clear-site-data-cookies-with-data =
 clear-site-data-cookies-empty =
     .label = Cookie-ներ և կայքի տվյալներ
     .accesskey = S
-
 clear-site-data-cookies-info = Մաքրելու դեպքում կարող եք դուրս գրվել կայքերից
-
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
 # Variables:
@@ -39,7 +36,6 @@ clear-site-data-cookies-info = Մաքրելու դեպքում կարող եք �
 clear-site-data-cache-with-data =
     .label = Շտեմված վեբ բովանդակություն ({ $amount } { $unit })
     .accesskey = W
-
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
@@ -48,9 +44,7 @@ clear-site-data-cache-with-data =
 clear-site-data-cache-empty =
     .label = Շտեմված վեբ բովանդակություն
     .accesskey = W
-
 clear-site-data-cache-info = Կպահանջի կայքերից կրկին բեռնել պատկերները և տվյալները
-
 clear-site-data-dialog =
     .buttonlabelaccept = Մաքրել
     .buttonaccesskeyaccept = l
