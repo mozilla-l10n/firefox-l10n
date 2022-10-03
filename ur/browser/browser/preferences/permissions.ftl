@@ -110,6 +110,9 @@ permissions-exceptions-saved-logins-desc = درج ذیل ویب سائٹس کے 
 permissions-exceptions-addons-window =
     .title = اجازت دار ویب سائٹیں - ایڈ اون انسٹالیشن
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = اجازت دار ویب سائٹیں - ایڈ اون انسٹالیشن
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = آپ اختصاص کر سکتے ہیں کہ کونسی سائٹیں وابستہ دریچے کھولنے کےلیے اجازت دادہ ہیں۔ جس سائٹ کو اجازت دینا چاہتے ہیں اس کا ٹھیک ٹھیک پتہ ٹائپ کریں اور پھر 'اجازت دیں' پر کلک کریں۔
 
 ## Site Permissions - Autoplay
