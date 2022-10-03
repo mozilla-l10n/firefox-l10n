@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Idatzi baliozko zerbitzari-izena
 permissions-exceptions-etp-window =
     .title = Jarraipenaren babes hobeturako salbuespenak
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Jarraipenaren babes hobeturako salbuespenak
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Babesak desaktibatu dituzu webgune hauetan.
 
 ## Exceptions - Cookies
@@ -93,6 +96,9 @@ permissions-exceptions-cookie-desc = Cookieak eta gunearen datuak beti edo inoiz
 permissions-exceptions-https-only-window =
     .title = Salbuespenak - HTTPS-Only modua
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Salbuespenak - HTTPS-Only modua
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = HTTPS-Only modua desgai dezakezu gune zehatzetarako. { -brand-short-name } ez da saiatuko konexioa HTTPS segurura bihurtzen gune horietarako. Salbuespenek ez dute eraginik leiho pribatuetan.
 
 ## Exceptions - Pop-ups
@@ -166,6 +172,9 @@ permissions-site-location-disable-desc = Aukera honekin, kokalekua ezagutzeko ba
 permissions-site-xr-window =
     .title = Ezarpenak - Errealitate birtualaren baimenak
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Ezarpenak - Errealitate birtualaren baimenak
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Ondorengo webguneek zure errealitate birtualeko gailuetarako sarbidea eskatu dute. Errealitate birtualeko gailuetarako sarbidea duten webguneak zehatz ditzakezu. Errealitate birtualeko gailuetarako sarbide-eskaerak ere blokea ditzakezu.
 permissions-site-xr-disable-label =
     .label = Blokeatu errealitate birtualeko gailuetarako sarbide-eskaera berriak

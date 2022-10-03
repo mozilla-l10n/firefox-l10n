@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. Ireki <b>menua</b> (<img data-l10n-name="ios-menu-
 fxa-qrcode-heading-step4 = 4. Eskaneatu kode hau:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = Sinkronizatu { -brand-product-name } zure telefono edo tabletan
 fxa-qrcode-pair-step1 = 1. Ireki { -brand-product-name } zure gailu mugikorrean.
 fxa-qrcode-pair-step2 = 2. Ireki <strong>menua</strong> (<img data-l10n-name="ios-menu-icon"/> iOS-en edo <img data-l10n-name="android-menu-icon"/> Android-en) eta sakatu <strong>Hasi saioa sinkronizatzeko</strong>
