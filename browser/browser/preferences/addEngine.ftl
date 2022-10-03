@@ -5,18 +5,15 @@
 add-engine-window =
     .title = Pridėti ieškyklę
     .style = width: 32em;
-
+add-engine-window2 =
+    .title = Pridėti ieškyklę
+    .style = min-width: 32em;
 add-engine-button = Pridėti tinkintą ieškyklę
-
 add-engine-name = Ieškyklės pavadinimas
-
 add-engine-alias = Pseudonimas
-
 add-engine-url = Ieškyklės URL, naudokite %s vietoje ieškomo teksto
-
 add-engine-dialog =
     .buttonlabelaccept = Pridėti ieškyklę
     .buttonaccesskeyaccept = P
-
 engine-name-exists = Ieškyklė tokiu pavadinimu jau yra
 engine-alias-exists = Ieškyklė tokiu pseudonimu jau yra
