@@ -86,6 +86,9 @@ permissions-exceptions-etp-desc = Você desativou proteções nestes sites.
 permissions-exceptions-cookie-window =
     .title = Exceções - Cookies e dados de sites
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Exceções - Cookies e dados de sites
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Você pode especificar alguns sites para sempre ou nunca ter permissão para armazenar cookies e dados no seu computador. Digite o endereço exato de um site e clique em Permitir, Bloquear ou Permitir nesta sessão.
 
 ## Exceptions - HTTPS-Only Mode
