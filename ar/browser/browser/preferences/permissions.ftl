@@ -5,69 +5,56 @@
 permissions-window =
     .title = الاستثناءات
     .style = width: 45em
-
+permissions-window2 =
+    .title = الاستثناءات
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
-
 permissions-address = عنوان موقع وِب
     .accesskey = و
-
 permissions-block =
     .label = احجب
     .accesskey = ح
-
 permissions-session =
     .label = اسمح لهذه الجلسة
     .accesskey = ج
-
 permissions-allow =
     .label = اسمح
     .accesskey = س
-
 permissions-site-name =
     .label = موقع الوِب
-
 permissions-status =
     .label = الحالة
-
 permissions-remove =
     .label = احذف موقع الوِب
     .accesskey = ح
-
 permissions-remove-all =
     .label = احذف كل مواقع الوِب
     .accesskey = ذ
-
 permission-dialog =
     .buttonlabelaccept = احفظ التغييرات
     .buttonaccesskeyaccept = ح
-
 permissions-autoplay-menu = المبدئي للمواقع كافة:
-
 permissions-searchbox =
     .placeholder = ابحث عن موقع
-
 permissions-capabilities-autoplay-allow =
     .label = اسمح بالصوت والڤِديو
 permissions-capabilities-autoplay-block =
     .label = احجب الصوت
 permissions-capabilities-autoplay-blockall =
     .label = احجب الصوت والڤِديو
-
 permissions-capabilities-allow =
     .label = اسمح
 permissions-capabilities-block =
     .label = احجب
 permissions-capabilities-prompt =
     .label = اسأل دائمًا
-
 permissions-capabilities-listitem-allow =
     .value = اسمح
 permissions-capabilities-listitem-block =
     .value = احجب
 permissions-capabilities-listitem-allow-session =
     .value = اسمح لهذه الجلسة
-
 permissions-capabilities-listitem-off =
     .value = معطّل
 permissions-capabilities-listitem-off-temporarily =
@@ -103,6 +90,9 @@ permissions-exceptions-https-only-window =
 permissions-exceptions-popup-window =
     .title = مواقع الوِب المسموح لها - نوافذ منبثقة
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = مواقع الوِب المسموح لها - نوافذ منبثقة
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = يمكنك تحديد أي مواقع يسمح لها بفتح نوافذ منبثقة . اكتب عنوان الموقع الذي تريد إدارته ثم انقر اسمح.
 
 ## Exceptions - Saved Logins
@@ -110,6 +100,9 @@ permissions-exceptions-popup-desc = يمكنك تحديد أي مواقع يسم
 permissions-exceptions-saved-logins-window =
     .title = الاستثناءات - جلسات الولوج المحفوظة
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = الاستثناءات - جلسات الولوج المحفوظة
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = لن تُحفظ جلسات الولوج لمواقع الوِب الآتية
 
 ## Exceptions - Add-ons
@@ -117,6 +110,9 @@ permissions-exceptions-saved-logins-desc = لن تُحفظ جلسات الولو
 permissions-exceptions-addons-window =
     .title = مواقع الوِب المسموح لها - تنصيب الإضافات
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = مواقع الوِب المسموح لها - تنصيب الإضافات
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = يمكنك تحديد أي مواقع يسمح لها بتنصيب إضافات. اكتب العنوان الكامل للموقع الذي تريد السماح له و اضغط اسمح.
 
 ## Site Permissions - Autoplay
