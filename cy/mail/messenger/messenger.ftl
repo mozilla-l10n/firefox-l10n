@@ -161,6 +161,9 @@ message-header-hide-label-column =
 message-header-large-subject =
     .label = Pwnc mawr
     .accesskey = P
+message-header-all-headers =
+    .label = Dangos pob pennyn
+    .accesskey = D
 
 ## Action Button Context Menu
 
