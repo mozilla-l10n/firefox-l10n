@@ -96,6 +96,9 @@ permissions-exceptions-cookie-desc = Vi povas specifi la retejojn kiuj ĉiam aŭ
 permissions-exceptions-https-only-window =
     .title = Esceptoj - HTTPS-nura reĝimo
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Esceptoj - HTTPS-nura reĝimo
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Vi povas malŝalti la HTTPS-nuran reĝimon por specifaj retejoj. { -brand-short-name } ne klopodos plibonigi la konekton pero uzo de HTTPS por tiuj retejoj. Esceptoj ne aplikeblas al privataj fenestroj.
 
 ## Exceptions - Pop-ups
@@ -169,6 +172,9 @@ permissions-site-location-disable-desc = Tio ĉi evitos ke retejoj, kiuj ne esta
 permissions-site-xr-window =
     .title = Agordoj - Permesoj por virtuala realo
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Agordoj - Permesoj por virtuala realo
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = La jenaj retejoj petis permeson aliri viajn aparatojn de virtuala realo. Vi povas decidi kiuj rajtas tion fari. Vi ankaŭ povas bloki novajn petojn pri permeso aliri viajn aparatojn de virtuala realo.
 permissions-site-xr-disable-label =
     .label = Bloki novajn petojn pri permeso aliri viajn aparatojn de virtuala realo

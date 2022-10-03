@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. Malfermu la <b>menuon</b> (<img data-l10n-name="io
 fxa-qrcode-heading-step4 = 4. Skanu tiun ĉi kodon:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = Speguli { -brand-product-name } en via telefono aŭ tabulkomputilo
 fxa-qrcode-pair-step1 = 1. Malfermi { -brand-product-name } en via poŝaparato.
 fxa-qrcode-pair-step2 = 2. Malfermi la <strong>menuon</strong> (<img data-l10n-name="ios-menu-icon"/> en iOS aŭ <img data-l10n-name="android-menu-icon"/> en Android) kaj tuŝetu <strong>Komenci seancon por speguli</strong>
