@@ -103,6 +103,9 @@ permissions-exceptions-https-only-desc = Du kan inaktivera Endast HTTPS-läge f�
 permissions-exceptions-popup-window =
     .title = Tillåtna webbplatser - popup-fönster
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Tillåtna webbplatser - popup-fönster
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Du kan ange vilka webbplatser som får öppna popup-fönster. Skriv in adressen till platsen du vill godkänna och klicka på Tillåt.
 
 ## Exceptions - Saved Logins
@@ -120,6 +123,9 @@ permissions-exceptions-saved-logins-desc = Inloggningar för följande webbplats
 permissions-exceptions-addons-window =
     .title = Tillåtna webbplatser - Installation av tillägg
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Tillåtna webbplatser - Installation av tillägg
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Du kan ange vilka webbplatser som får installera tillägg. Skriv in adressen till platsen du vill godkänna och klicka på Tillåt.
 
 ## Site Permissions - Autoplay
@@ -163,6 +169,9 @@ permissions-site-location-disable-desc = Detta kommer att förhindra att webbpla
 permissions-site-xr-window =
     .title = Inställningar - Rättigheter för virtuell verklighet
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Inställningar - Rättigheter för virtuell verklighet
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Följande webbplatser har begärt att få tillgång till dina enheter för virtuell verklighet. Du kan ange vilka webbplatser som får åtkomst till dina enheter för virtuell verklighet. Du kan också blockera nya förfrågningar som ber om åtkomst till dina enheter för virtuell verklighet.
 permissions-site-xr-disable-label =
     .label = Blockera nya förfrågningar som ber om åtkomst till dina enheter för virtuell verklighet
