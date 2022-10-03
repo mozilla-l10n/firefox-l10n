@@ -5,5 +5,7 @@
 select-bookmark-window =
     .title = मुख्य पृष्ठ निश्चित करा
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = मुख्य पृष्ठ निश्चित करा
+    .style = min-width: 32em;
 select-bookmark-desc = मुख्य पृष्ठा करीता वाचनखूण निवडा. संचयीका निवडल्यास, संचयीका मधिल वाचनखूण टॅब मध्ये उघडले जाईल.

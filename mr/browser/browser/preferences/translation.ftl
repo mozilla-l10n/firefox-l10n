@@ -5,36 +5,29 @@
 translation-window =
     .title = अपवाद - भाषांतरन
     .style = width: 36em
-
+translation-window2 =
+    .title = अपवाद - भाषांतरन
+    .style = min-width: 36em
 translation-close-key =
     .key = w
-
 translation-languages-disabled-desc = खालील भाषांकरिता भाषांतर पुरवले जाणार नाही
-
 translation-languages-column =
     .label = भाषा
-
 translation-languages-button-remove =
     .label = भाषा काढून टाका
     .accesskey = R
-
 translation-languages-button-remove-all =
     .label = सर्व भाषा काढून टाका
     .accesskey = e
-
 translation-sites-disabled-desc = खालील स्थळांकरिता भाषांतर पुवले जाणार नाही
-
 translation-sites-column =
     .label = संकेतस्थळे
-
 translation-sites-button-remove =
     .label = साईट काढून टाका
     .accesskey = S
-
 translation-sites-button-remove-all =
     .label = सर्व साईट्स काढून टाका
     .accesskey = i
-
 translation-dialog =
     .buttonlabelaccept = बंद करा
     .buttonaccesskeyaccept = C
