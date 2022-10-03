@@ -5,34 +5,28 @@
 webpage-languages-window =
     .title = Վեբ էջի լեզվի կարգավորումներ
     .style = width: 45em
-
+webpage-languages-window2 =
+    .title = Վեբ էջի լեզվի կարգավորումներ
+    .style = min-width: 45em
 languages-close-key =
     .key = w
-
 languages-description = Վեբ էջերը հաճախ լինում են մեկից ավելի լեզուներով: Ընտրեք լեզուներ՝ այդպիսի էջերը ցուցադրելու համար՝ համաձայն նախընտրույան
-
 languages-customize-spoof-english =
     .label = Ընդլայնված գանղտնիության համար հարցում կատարել վբ էջերի անգլերեն տարբերակները
-
 languages-customize-moveup =
     .label = Վեր
     .accesskey = Վ
-
 languages-customize-movedown =
     .label = Վար
     .accesskey = Վ
-
 languages-customize-remove =
     .label = Հեռացնել
     .accesskey = Հ
-
 languages-customize-select-language =
     .placeholder = Ընտրեք ավելացվելիք լեզուն…
-
 languages-customize-add =
     .label = Ավելացնել
     .accesskey = Ա
-
 # The pattern used to generate strings presented to the user in the
 # locale selection list.
 #
@@ -45,29 +39,23 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }       [{ $code }]
-
 languages-active-code-format =
     .value = { languages-code-format.label }
-
 browser-languages-window =
     .title = { -brand-short-name }-ի լեզվի կարգավորումներ
     .style = width: 45em
-
+browser-languages-window2 =
+    .title = { -brand-short-name }-ի լեզվի կարգավորումներ
+    .style = min-width: 45em
 browser-languages-description = { -brand-short-name }-ը կցուցադրի առաջին լեզուն որպես սկզբնադիր և կցուցադրի այլ լեզուներ, եթե անհրաժեշտ լինի:
-
 browser-languages-search = Որոնել այլ լեզուներ...
-
 browser-languages-searching =
     .label = Որոնում է լեզուներ...
-
 browser-languages-downloading =
     .label = Ներբեռնում է...
-
 browser-languages-select-language =
     .label = Ընտրեք լեզուն՝ ավելացնելու համար...
     .placeholder = Ընտրեք լեզուն՝ ավելացնելու համար...
-
 browser-languages-installed-label = Տեղադրված լեզուներ
 browser-languages-available-label = Մատչելի լեզուներ
-
 browser-languages-error = { -brand-short-name }-ը չի կարող արդիացնել ձեր լեզուները հիմա: Ստուգեք՝ արդյոք կապակցված եք համացանցին և կրկին փորձեք:
