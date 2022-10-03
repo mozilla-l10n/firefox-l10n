@@ -53,6 +53,23 @@ menu-help-troubleshooting-info =
 menu-help-about-product =
     .label = Informazioni su { -brand-short-name }
     .accesskey = m
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Esci
+           *[other] Esci
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] E
+           *[other] E
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Esci da { -brand-shorter-name }
+quit-app-shortcut =
+    .key = Q
 
 ## Mail Toolbar
 
