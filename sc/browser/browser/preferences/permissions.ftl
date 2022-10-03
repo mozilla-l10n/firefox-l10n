@@ -106,6 +106,9 @@ permissions-exceptions-https-only-desc = Podes disativare sa modalidade isceti H
 permissions-exceptions-popup-window =
     .title = Sitos permìtidos - Ventanas emergentes
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Sitos permìtidos - Ventanas emergentes
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Podes pretzisare a cales cales sitos web siat permìtidu de abèrrere is ventanas emergentes. Iscrie s'indiritzu esatu de su situ a su chi ddu boles permìtere e incarca Permite.
 
 ## Exceptions - Saved Logins
