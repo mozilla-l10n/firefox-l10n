@@ -5,10 +5,11 @@
 containers-window-new =
     .title = नयाँ कन्टेनर थप्नुहोस्
     .style = width: 45em
-
+containers-window-new2 =
+    .title = नयाँ कन्टेनर थप्नुहोस्
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -19,22 +20,17 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: ४rem
-
 containers-name-label = नाम
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = कन्टेनरको नाम प्रविस्ट गर्नुहोस्
-
 containers-icon-label = प्रतिमा
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = रङ
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-color-blue =
     .label = नीलो
 containers-color-turquoise =
@@ -51,7 +47,6 @@ containers-color-pink =
     .label = गुलाबी
 containers-color-purple =
     .label = बैजनी रङ
-
 containers-icon-fingerprint =
     .label = औँठा छाप
 containers-icon-briefcase =

@@ -5,6 +5,9 @@
 permissions-window =
     .title = अपवादहरू
     .style = width: 45em
+permissions-window2 =
+    .title = अपवादहरू
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = वेबसाइटको ठेगाना
@@ -75,6 +78,9 @@ permissions-exceptions-popup-desc = You can specify which web sites are allowed 
 permissions-exceptions-saved-logins-window =
     .title = अपवादहरू - सङ्ग्रहित लग-इनहरू
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = अपवादहरू - सङ्ग्रहित लग-इनहरू
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = निम्न वेबसाइटहरू को लागि लगइनहरू संग्रह गरिँदैन
 
 ## Exceptions - Add-ons

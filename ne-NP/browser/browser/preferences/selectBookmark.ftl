@@ -5,5 +5,7 @@
 select-bookmark-window =
     .title = गृह पृष्ठ चयन गर्नुहोस्
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = गृह पृष्ठ चयन गर्नुहोस्
+    .style = min-width: 32em;
 select-bookmark-desc = तपाईँ को गृहपृष्ठ बनाउन वेबसाइटको ठेगाना छान्नुहोस् । यदि तपाईँले फोल्डर छान्नु भयो भने ,त्यस भित्रको वेबसाइट ठेगानाहरू नयाँ ट्याबमा खुल्नेछन् ।
