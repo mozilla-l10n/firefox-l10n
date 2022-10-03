@@ -507,6 +507,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Til að nota F12 flýtileiðina skaltu fyrst opna DevTools í gegnum valmyndina fyrir vefhönnuði.
+enable-devtools-popup-description2 = Til að nota F12 flýtileiðina skaltu fyrst opna DevTools í gegnum valmyndina fyrir vafraverkfærin.
 
 ## URL Bar
 
