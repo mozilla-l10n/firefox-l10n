@@ -5,5 +5,7 @@
 select-bookmark-window =
     .title = హోం పేజీని అమర్చు
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = హోం పేజీని అమర్చు
+    .style = min-width: 32em;
 select-bookmark-desc = మీ ముంగిలి పేజీగా ఉండాల్సిన ఇష్టాంశాన్ని ఎంచుకోండి. మీరు సంచయాన్ని ఎంచుకుంటే గనక, ఆ సంచయంలోని ఇష్టాంశాలు ట్యాబులలో తెరవబడతాయి.
