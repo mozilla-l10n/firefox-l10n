@@ -5,6 +5,9 @@
 permissions-window =
     .title = ករណី​លើកលែង
     .style = width: 45em
+permissions-window2 =
+    .title = ករណី​លើកលែង
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = អាសយដ្ឋាន​គេហទំព័រ
