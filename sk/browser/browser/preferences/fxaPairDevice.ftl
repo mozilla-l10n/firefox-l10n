@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. Otvorte <b>ponuku</b> (<img data-l10n-name="ios-me
 fxa-qrcode-heading-step4 = 4. Naskenujte tento kód:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = Synchronizujte { -brand-product-name } na svojom telefóne alebo tablete
 fxa-qrcode-pair-step1 = 1. Otvorte { -brand-product-name } na svojom mobilnom zariadení.
 fxa-qrcode-pair-step2 = 2. Otvorte <strong>ponuku</strong> (<img data-l10n-name="ios-menu-icon"/> v systéme iOS alebo <img data-l10n-name="android-menu-icon"/> v systéme Android) a ťuknite na položku <strong>Prihlásiť sa a synchronizovať</strong>
