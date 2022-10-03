@@ -5,16 +5,16 @@
 containers-window-new =
     .title = Add New Container
     .style = width: 45em
-
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings =
     .title = { $name } Container Settings
     .style = width: 45em
-
+containers-window-new2 =
+    .title = Add New Container
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -25,26 +25,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Name
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Enter a container name
-
 containers-icon-label = Icon
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = Colour
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = Done
     .buttonaccesskeyaccept = D
-
 containers-color-blue =
     .label = Blue
 containers-color-turquoise =
@@ -63,7 +57,6 @@ containers-color-purple =
     .label = Purple
 containers-color-toolbar =
     .label = Match toolbar
-
 containers-icon-fence =
     .label = Fence
 containers-icon-fingerprint =

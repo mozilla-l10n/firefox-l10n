@@ -5,77 +5,59 @@
 permissions-window =
     .title = Exceptions
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Address of web site
     .accesskey = d
-
 permissions-block =
     .label = Block
     .accesskey = B
-
 permissions-session =
     .label = Allow for Session
     .accesskey = S
-
 permissions-allow =
     .label = Allow
     .accesskey = A
-
 permissions-button-off =
     .label = Turn Off
     .accesskey = O
-
 permissions-button-off-temporarily =
     .label = Turn Off Temporarily
     .accesskey = T
-
 permissions-site-name =
     .label = Web Site
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Remove Web Site
     .accesskey = R
-
 permissions-remove-all =
     .label = Remove All Web Sites
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Save Changes
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Default for all web sites:
-
 permissions-searchbox =
     .placeholder = Search Web Site
-
 permissions-capabilities-autoplay-allow =
     .label = Allow Audio and Video
 permissions-capabilities-autoplay-block =
     .label = Block Audio
 permissions-capabilities-autoplay-blockall =
     .label = Block Audio and Video
-
 permissions-capabilities-allow =
     .label = Allow
 permissions-capabilities-block =
     .label = Block
 permissions-capabilities-prompt =
     .label = Always Ask
-
 permissions-capabilities-listitem-allow =
     .value = Allow
 permissions-capabilities-listitem-block =
     .value = Block
 permissions-capabilities-listitem-allow-session =
     .value = Allow for Session
-
 permissions-capabilities-listitem-off =
     .value = Off
 permissions-capabilities-listitem-off-temporarily =
@@ -112,6 +94,9 @@ permissions-exceptions-https-only-desc = You can turn off HTTPS-Only Mode for sp
 permissions-exceptions-popup-window =
     .title = Allowed Web Sites - Pop-ups
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Allowed Web Sites - Pop-ups
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = You can specify which web sites are allowed to open pop-up windows. Type the exact address of the site you want to allow and then click Allow.
 
 ## Exceptions - Saved Logins
@@ -119,6 +104,9 @@ permissions-exceptions-popup-desc = You can specify which web sites are allowed 
 permissions-exceptions-saved-logins-window =
     .title = Exceptions - Saved Logins
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Exceptions - Saved Logins
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Logins for the following web sites will not be saved
 
 ## Exceptions - Add-ons
@@ -126,6 +114,9 @@ permissions-exceptions-saved-logins-desc = Logins for the following web sites wi
 permissions-exceptions-addons-window =
     .title = Allowed Web Sites - Add-ons Installation
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Allowed Web Sites - Add-ons Installation
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
 
 ## Site Permissions - Autoplay
@@ -140,6 +131,9 @@ permissions-site-autoplay-desc = You can manage the sites that do not follow you
 permissions-site-notification-window =
     .title = Settings - Notification Permissions
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Settings - Notification Permissions
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = The following web sites have requested to send you notifications. You can specify which web sites are allowed to send you notifications. You can also block new requests asking to allow notifications.
 permissions-site-notification-disable-label =
     .label = Block new requests asking to allow notifications
@@ -150,6 +144,9 @@ permissions-site-notification-disable-desc = This will prevent any web sites not
 permissions-site-location-window =
     .title = Settings - Location Permissions
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Settings - Location Permissions
+    .style = { permissions-window2.style }
 permissions-site-location-desc = The following web sites have requested to access your location. You can specify which web sites are allowed to access your location. You can also block new requests asking to access your location.
 permissions-site-location-disable-label =
     .label = Block new requests asking to access your location
@@ -170,6 +167,9 @@ permissions-site-xr-disable-desc = This will prevent any web sites not listed ab
 permissions-site-camera-window =
     .title = Settings - Camera Permissions
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = Settings - Camera Permissions
+    .style = { permissions-window2.style }
 permissions-site-camera-desc = The following web sites have requested to access your camera. You can specify which web sites are allowed to access your camera. You can also block new requests asking to access your camera.
 permissions-site-camera-disable-label =
     .label = Block new requests asking to access your camera
@@ -180,6 +180,9 @@ permissions-site-camera-disable-desc = This will prevent any web sites not liste
 permissions-site-microphone-window =
     .title = Settings - Microphone Permissions
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = Settings - Microphone Permissions
+    .style = { permissions-window2.style }
 permissions-site-microphone-desc = The following web sites have requested to access your microphone. You can specify which web sites are allowed to access your microphone. You can also block new requests asking to access your microphone.
 permissions-site-microphone-disable-label =
     .label = Block new requests asking to access your microphone
