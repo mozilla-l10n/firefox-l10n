@@ -5,77 +5,62 @@
 permissions-window =
     .title = استثناها
     .style = width: 45em
-
+permissions-window2 =
+    .title = استثناها
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
-
 permissions-address = آدرس وب‌سایت
     .accesskey = d
-
 permissions-block =
     .label = باز داشتن
     .accesskey = ب
-
 permissions-session =
     .label = اجازه دادن برای این نشست
     .accesskey = د
-
 permissions-allow =
     .label = اجازه دادن
     .accesskey = ج
-
 permissions-button-off =
     .label = خاموش کردن
     .accesskey = خ
-
 permissions-button-off-temporarily =
     .label = خاموش کردن موقت
     .accesskey = ا
-
 permissions-site-name =
     .label = وب‌سایت
-
 permissions-status =
     .label = وضعیت
-
 permissions-remove =
     .label = حذف وب‌سایت
     .accesskey = R
-
 permissions-remove-all =
     .label = حذف همه وب‌سایت‌ها
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = ذخیره تغییرات
     .buttonaccesskeyaccept = ذ
-
 permissions-autoplay-menu = پیش‌فرض برای تمام پایگاه‌ها:
-
 permissions-searchbox =
     .placeholder = جست‌وجو وب‌سایت
-
 permissions-capabilities-autoplay-allow =
     .label = اجازه دادن صوت و ویدئو
 permissions-capabilities-autoplay-block =
     .label = مسدود کردن صوت
 permissions-capabilities-autoplay-blockall =
     .label = مسدود کردن صوت و ویدئو
-
 permissions-capabilities-allow =
     .label = اجازه دادن
 permissions-capabilities-block =
     .label = باز داشتن
 permissions-capabilities-prompt =
     .label = همیشه پرسیده شود
-
 permissions-capabilities-listitem-allow =
     .value = اجازه دادن
 permissions-capabilities-listitem-block =
     .value = باز داشتن
 permissions-capabilities-listitem-allow-session =
     .value = اجازه دادن برای نشست
-
 permissions-capabilities-listitem-off =
     .value = خاموش
 permissions-capabilities-listitem-off-temporarily =
@@ -119,6 +104,9 @@ permissions-exceptions-popup-desc = شما می‌توانید مشخص کنید
 permissions-exceptions-saved-logins-window =
     .title = استثناها - ورودهای ذخیره شده
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = استثناها - ورودهای ذخیره شده
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = ورود برای دنبال کردن پایگاه‌های اینترنتی که ذخیره نشده اند
 
 ## Exceptions - Add-ons
