@@ -5,77 +5,62 @@
 permissions-window =
     .title = Wyjątki
     .style = width: 35em
-
+permissions-window2 =
+    .title = Wyjątki
+    .style = min-width: 35em
 permissions-close-key =
     .key = w
-
 permissions-address = Adres witryny:
     .accesskey = s
-
 permissions-block =
     .label = Blokuj
     .accesskey = B
-
 permissions-session =
     .label = Zezwalaj na czas sesji
     .accesskey = c
-
 permissions-allow =
     .label = Zezwalaj
     .accesskey = Z
-
 permissions-button-off =
     .label = Wyłącz
     .accesskey = W
-
 permissions-button-off-temporarily =
     .label = Wyłącz tymczasowo
     .accesskey = m
-
 permissions-site-name =
     .label = Witryna
-
 permissions-status =
     .label = Stan
-
 permissions-remove =
     .label = Usuń witrynę
     .accesskey = U
-
 permissions-remove-all =
     .label = Usuń wszystkie witryny
     .accesskey = w
-
 permission-dialog =
     .buttonlabelaccept = Zachowaj
     .buttonaccesskeyaccept = h
-
 permissions-autoplay-menu = Domyślne dla wszystkich witryn:
-
 permissions-searchbox =
     .placeholder = Szukaj witryn
-
 permissions-capabilities-autoplay-allow =
     .label = zezwalanie na dźwięk i wideo
 permissions-capabilities-autoplay-block =
     .label = blokowanie dźwięku
 permissions-capabilities-autoplay-blockall =
     .label = blokowanie dźwięku i wideo
-
 permissions-capabilities-allow =
     .label = zezwalaj
 permissions-capabilities-block =
     .label = blokuj
 permissions-capabilities-prompt =
     .label = zawsze pytaj
-
 permissions-capabilities-listitem-allow =
     .value = zezwalaj
 permissions-capabilities-listitem-block =
     .value = blokuj
 permissions-capabilities-listitem-allow-session =
     .value = zezwalaj na czas sesji
-
 permissions-capabilities-listitem-off =
     .value = wyłącz
 permissions-capabilities-listitem-off-temporarily =
@@ -91,6 +76,9 @@ permissions-invalid-uri-label = Podaj prawidłową nazwę hosta
 permissions-exceptions-etp-window =
     .title = Wzmocniona ochrona przed śledzeniem — wyjątki
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Wzmocniona ochrona przed śledzeniem — wyjątki
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Ochrona została wyłączona dla tych witryn.
 
 ## Exceptions - Cookies
@@ -98,6 +86,9 @@ permissions-exceptions-etp-desc = Ochrona została wyłączona dla tych witryn.
 permissions-exceptions-cookie-window =
     .title = Ciasteczka i dane witryn — wyjątki
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Ciasteczka i dane witryn — wyjątki
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Określ zasady akceptacji ciasteczek i danych witryn. Podaj dokładny adres witryny, której uprawnienia chcesz zmodyfikować, a następnie naciśnij Zezwalaj, Blokuj lub Zezwalaj na czas sesji.
 
 ## Exceptions - HTTPS-Only Mode
@@ -105,6 +96,9 @@ permissions-exceptions-cookie-desc = Określ zasady akceptacji ciasteczek i dan
 permissions-exceptions-https-only-window =
     .title = Tryb używania wyłącznie protokołu HTTPS — wyjątki
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Tryb używania wyłącznie protokołu HTTPS — wyjątki
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Określ, na których witrynach nie korzystać z trybu używania wyłącznie protokołu HTTPS. { -brand-short-name } nie będzie próbował przełączyć na zabezpieczone połączenie HTTPS na tych witrynach. Wyjątki nie są uwzględniane w oknach prywatnych.
 
 ## Exceptions - Pop-ups
@@ -112,6 +106,9 @@ permissions-exceptions-https-only-desc = Określ, na których witrynach nie korz
 permissions-exceptions-popup-window =
     .title = Wyskakujące okna — uprawnione witryny
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Wyskakujące okna — uprawnione witryny
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Określ, które witryny mogą otwierać wyskakujące okna. Podaj dokładny adres witryny, której chcesz na to zezwolić, i naciśnij Zezwalaj.
 
 ## Exceptions - Saved Logins
@@ -119,6 +116,9 @@ permissions-exceptions-popup-desc = Określ, które witryny mogą otwierać wysk
 permissions-exceptions-saved-logins-window =
     .title = Zachowywanie danych logowania — wyjątki
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Zachowywanie danych logowania — wyjątki
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Dane logowania dla następujących witryn nie będą zachowywane.
 
 ## Exceptions - Add-ons
@@ -126,6 +126,9 @@ permissions-exceptions-saved-logins-desc = Dane logowania dla następujących wi
 permissions-exceptions-addons-window =
     .title = Instalacja dodatków — uprawnione witryny
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Instalacja dodatków — uprawnione witryny
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Określ, które witryny mogą instalować dodatki. Podaj dokładny adres witryny, której chcesz na to zezwolić, i naciśnij Zezwalaj.
 
 ## Site Permissions - Autoplay
@@ -133,6 +136,9 @@ permissions-exceptions-addons-desc = Określ, które witryny mogą instalować d
 permissions-site-autoplay-window =
     .title = Automatyczne odtwarzanie — uprawnione witryny
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Automatyczne odtwarzanie — uprawnione witryny
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Zarządzaj witrynami, które nie korzystają z domyślnych ustawień automatycznego odtwarzania.
 
 ## Site Permissions - Notifications
@@ -140,6 +146,9 @@ permissions-site-autoplay-desc = Zarządzaj witrynami, które nie korzystają z�
 permissions-site-notification-window =
     .title = Wyświetlanie powiadomień — uprawnione witryny
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Wyświetlanie powiadomień — uprawnione witryny
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Następujące strony prosiły o możliwość wyświetlania powiadomień. Określ, które witryny mogą je wyświetlać. Można także zablokować nowe prośby.
 permissions-site-notification-disable-label =
     .label = Blokowanie nowych próśb o możliwość wyświetlania powiadomień
@@ -150,6 +159,9 @@ permissions-site-notification-disable-desc = Uniemożliwi to witrynom spoza list
 permissions-site-location-window =
     .title = Informowanie o położeniu — uprawnione witryny
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Informowanie o położeniu — uprawnione witryny
+    .style = { permissions-window2.style }
 permissions-site-location-desc = Następujące strony prosiły o możliwość uzyskiwania informacji o położeniu. Określ, które witryny mogą je uzyskiwać. Można także zablokować nowe prośby.
 permissions-site-location-disable-label =
     .label = Blokowanie nowych próśb o możliwość uzyskiwania informacji o położeniu
@@ -160,6 +172,9 @@ permissions-site-location-disable-desc = Uniemożliwi to witrynom spoza listy po
 permissions-site-xr-window =
     .title = Rzeczywistość wirtualna — uprawnione witryny
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Rzeczywistość wirtualna — uprawnione witryny
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Następujące strony prosiły o dostęp do urządzeń rzeczywistości wirtualnej. Określ, które witryny mogą uzyskiwać do nich dostęp. Można także zablokować nowe prośby.
 permissions-site-xr-disable-label =
     .label = Blokowanie nowych próśb o dostęp do urządzeń rzeczywistości wirtualnej
@@ -170,6 +185,9 @@ permissions-site-xr-disable-desc = Uniemożliwi to witrynom spoza listy powyżej
 permissions-site-camera-window =
     .title = Udostępnianie kamery — uprawnione witryny
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = Udostępnianie kamery — uprawnione witryny
+    .style = { permissions-window2.style }
 permissions-site-camera-desc = Następujące strony prosiły o dostęp do kamery. Określ, które witryny mogą uzyskiwać do niej dostęp. Można także zablokować nowe prośby.
 permissions-site-camera-disable-label =
     .label = Blokowanie nowych próśb o dostęp do kamery
@@ -180,6 +198,9 @@ permissions-site-camera-disable-desc = Uniemożliwi to witrynom spoza listy powy
 permissions-site-microphone-window =
     .title = Udostępnianie mikrofonu — uprawnione witryny
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = Udostępnianie mikrofonu — uprawnione witryny
+    .style = { permissions-window2.style }
 permissions-site-microphone-desc = Następujące strony prosiły o dostęp do mikrofonu. Określ, które witryny mogą uzyskiwać do niego dostęp. Można także zablokować nowe prośby.
 permissions-site-microphone-disable-label =
     .label = Blokowanie nowych próśb o dostęp do mikrofonu
