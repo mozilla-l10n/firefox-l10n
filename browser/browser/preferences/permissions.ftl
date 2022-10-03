@@ -94,6 +94,9 @@ permissions-exceptions-https-only-desc = Anda dapat mematikan Mode HTTPS-Saja un
 permissions-exceptions-popup-window =
     .title = Situs Web yang Diizinkan - Pop-up
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Situs Web yang Diizinkan - Pop-up
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Anda dapat menentukan situs web mana saja yang diizinkan untuk membuka jendela pop-up. Ketik alamat situs secara persis yang akan diizinkan, lalu klik Izinkan.
 
 ## Exceptions - Saved Logins
@@ -108,6 +111,9 @@ permissions-exceptions-saved-logins-desc = Info masuk untuk situs berikut ini ti
 permissions-exceptions-addons-window =
     .title = Situs Web yang Diizinkan - Pemasangan Pengaya
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Situs Web yang Diizinkan - Pemasangan Pengaya
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Anda dapat menentukan situs web mana saja yang diizinkan untuk memasang Pengaya. Ketik alamat situs secara persis yang akan diizinkan, lalu klik Izinkan.
 
 ## Site Permissions - Autoplay
@@ -145,6 +151,9 @@ permissions-site-location-disable-desc = Ini akan mencegah situs web apa pun yan
 permissions-site-xr-window =
     .title = Setelan - Izin Realitas Virtual
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Setelan - Izin Realitas Virtual
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Situs web berikut ini minta mengakses perangkat realitas virtual Anda. Anda dapat menentukan situs web apa saja yang diizinkan mengakses perangkat realitas virtual Anda. Anda juga dapat memblokir permintaan baru yang minta mengakses perangkat realitas virtual Anda.
 permissions-site-xr-disable-label =
     .label = Blokir permintaan baru untuk mengakses perangkat realitas virtual Anda
