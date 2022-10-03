@@ -23,6 +23,7 @@ update-otherInstanceHandlingUpdates = Оновлення { -brand-short-name } �
 update-manual = Оновлення доступне на <label data-l10n-name="manual-link"/>
 update-unsupported = Ви не можете виконувати подальші оновлення на цій системі. <label data-l10n-name="unsupported-link">Докладніше</label>
 update-restarting = Перезапуск…
+update-internal-error = Не вдалося перевірити наявність оновлень через внутрішню помилку. Оновлення доступні за посиланням <label data-l10n-name="manual-link"/>
 channel-description = Ви зараз на каналі оновлень <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } експериментальний і може бути нестабільним.
 aboutdialog-help-user = Довідка { -brand-product-name }
