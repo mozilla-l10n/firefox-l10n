@@ -5,6 +5,9 @@
 clear-site-data-window =
     .title = მონაცემების გასუფთავება
     .style = width: 35em
+clear-site-data-window2 =
+    .title = მონაცემების გასუფთავება
+    .style = min-width: 35em
 clear-site-data-description = თუ გაასუფთავებთ ყველა ფუნთუშასა და საიტის მონაცემს, რომელთაც { -brand-short-name } ინახავს, შესაძლოა, ვებსაიტებზე შესული ანგარიშებიდან გამოხვიდეთ. მომარაგებული დროებითი ფაილების წაშლა არ იმოქმედებს ანგარიშებზე.
 clear-site-data-close-key =
     .key = w

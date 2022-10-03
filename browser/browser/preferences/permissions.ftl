@@ -5,6 +5,9 @@
 permissions-window =
     .title = გამონაკლისები
     .style = width: 45em
+permissions-window2 =
+    .title = გამონაკლისები
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = საიტის მისამართი
@@ -80,6 +83,9 @@ permissions-exceptions-etp-desc = ამ საიტებისთვის, �
 permissions-exceptions-cookie-window =
     .title = გამონაკლისები – ფუნთუშები და საიტის მონაცემები
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = გამონაკლისები – ფუნთუშები და საიტის მონაცემები
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = შეგიძლიათ მიუთითოთ საიტები, რომელთაც ყოველთვის შეეძლება ფუნთუშებისა და საიტის მონაცემების გამოყენება.  აკრიფეთ საიტის ზუსტი მისამართი, შემდეგ კი დააწკაპეთ დაშვებას, სეანსზე დაშვებას ან აკრძალვას.
 
 ## Exceptions - HTTPS-Only Mode
@@ -101,6 +107,9 @@ permissions-exceptions-popup-desc = შეგიძლიათ მიუთი�
 permissions-exceptions-saved-logins-window =
     .title = გამონაკლისები – შენახული შესვლები
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = გამონაკლისები – შენახული შესვლები
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = მოცემულ საიტებზე ანგარიშზე შესვლის მონაცემები არ შეინახება
 
 ## Exceptions - Add-ons
@@ -108,6 +117,9 @@ permissions-exceptions-saved-logins-desc = მოცემულ საიტე
 permissions-exceptions-addons-window =
     .title = ნებადართული საიტები – დამატებების დაყენება
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = ნებადართული საიტები – დამატებების დაყენება
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = შეგიძლიათ მიუთითოთ საიტები, რომელთაც ყოველთვის შეეძლება დამატებების ჩადგმა. აკრიფეთ საიტის ზუსტი მისამართი, შემდეგ კი დააწკაპეთ დაშვებას.
 
 ## Site Permissions - Autoplay
@@ -122,6 +134,9 @@ permissions-site-autoplay-desc = აქ შეგიძლიათ მართ
 permissions-site-notification-window =
     .title = პარამეტრები – შეტყობინებების ჩვენება
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = პარამეტრები – შეტყობინებების ჩვენება
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = მოცემული ვებსაიტები ითხოვს შეტყობინებების ჩვენების ნებართვას. შეგიძლიათ მიუთითოთ ნებადართული საიტები. ამასთანავე შეგიძლიათ, საერთოდ შეზღუდოთ შეტყობინების ჩვენების ახალი მოთხოვნები.
 permissions-site-notification-disable-label =
     .label = შეტყობინებების ჩვენების ახალი მოთხოვნების შეზღუდვა
@@ -152,6 +167,9 @@ permissions-site-xr-disable-desc = შედეგად, ყველა ვე
 permissions-site-camera-window =
     .title = პარამეტრები – კამერასთან წვდომის ნებართვები
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = პარამეტრები – კამერასთან წვდომის ნებართვები
+    .style = { permissions-window2.style }
 permissions-site-camera-desc = მოცემული ვებსაიტები ითხოვს თქვენს კამერასთან წვდომას. შეგიძლიათ მიუთითოთ ნებადართული საიტები. ამასთანავე შეგიძლიათ, საერთოდ შეზღუდოთ კამერასთან წვდომის ახალი მოთხოვნები.
 permissions-site-camera-disable-label =
     .label = კამერასთან წვდომის ახალი მოთხოვნების შეზღუდვა
@@ -162,6 +180,9 @@ permissions-site-camera-disable-desc = შედეგად, ყველა �
 permissions-site-microphone-window =
     .title = პარამეტრები – მიკროფონთან წვდომის ნებართვები
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = პარამეტრები – მიკროფონთან წვდომის ნებართვები
+    .style = { permissions-window2.style }
 permissions-site-microphone-desc = მოცემული ვებსაიტები ითხოვს თქვენს მიკროფონთან წვდომას. შეგიძლიათ მიუთითოთ ნებადართული საიტები. ამასთანავე შეგიძლიათ, საერთოდ შეზღუდოთ მიკროფონთან წვდომის ახალი მოთხოვნები.
 permissions-site-microphone-disable-label =
     .label = მიკროფონთან წვდომის ახალი მოთხოვნების შეზღუდვა
