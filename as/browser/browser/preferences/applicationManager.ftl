@@ -5,15 +5,15 @@
 app-manager-window =
     .title = এপ্লিকেচনৰ বিৱৰণ
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = এপ্লিকেচনৰ বিৱৰণ
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = আঁতৰাওক
     .accesskey = R
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = { $type } সংযোগ ৰ পৰিচালনাৰ বাবে নিম্নলিখিত এপ্লিকেচন ব্যৱহাৰ কৰা হ'ব।
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = { $type } সমল ৰ পৰিচালনাৰ বাবে নিম্নলিখিত এপ্লিকেচন ব্যৱহাৰ কৰা হ'ব।
