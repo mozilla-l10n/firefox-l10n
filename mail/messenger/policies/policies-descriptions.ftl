@@ -55,7 +55,7 @@ policy-ExtensionSettings = Upravljaj vse vidike namestitve razširitve.
 policy-ExtensionUpdate = Omogoči ali onemogoči samodejno posodabljanje razširitev.
 policy-Handlers = Nastavi privzete upravljavce programov.
 policy-HardwareAcceleration = Če je "false", izklopi strojno pospeševanje.
-policy-InstallAddonsPermission = Določenim spletnim stranem dovoli nameščanje dodatkov.
+policy-InstallAddonsPermission = Določenim spletnim mestom dovoli nameščanje dodatkov.
 policy-LegacyProfiles = Onemogoči možnost ustvarjanja ločenega profila za vsako namestitev.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.

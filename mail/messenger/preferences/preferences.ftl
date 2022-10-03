@@ -38,7 +38,7 @@ composition-addressing-header = Naslavljanje
 privacy-main-header = Zasebnost
 privacy-passwords-header = Gesla
 privacy-junk-header = Neželeno
-collection-header = Zbiranje in uporaba podatkov { -brand-short-name }a
+collection-header = Zbiranje in uporaba podatkov { -brand-short-name(sklon: "rodilnik") }
 collection-description = Trudimo se, da vam ponudimo izbiro in da zbiramo samo tisto, kar potrebujemo za razvoj in izboljšave { -brand-short-name }a za vse uporabnike. Pred sprejemanjem osebnih podatkov vas vedno vprašamo za dovoljenje.
 collection-privacy-notice = Obvestilo o zasebnosti
 collection-health-report-telemetry-disabled = Organizaciji { -vendor-short-name } ne dovoljujete več zajemanja tehničnih podatkov in podatkov o uporabi. Vsi pretekli podatki bodo izbrisani v 30 dneh.
@@ -219,7 +219,7 @@ return-receipts-description = Določite, kako { -brand-short-name } obravnava po
 return-receipts-button =
     .label = Povratnice …
     .accesskey = P
-update-app-legend = Posodobitve { -brand-short-name }a
+update-app-legend = Posodobitve { -brand-short-name(sklon: "rodilnik") }
 # Variables:
 #   $version (String): version of Thunderbird, e.g. 68.0.1
 update-app-version = Različica { $version }
