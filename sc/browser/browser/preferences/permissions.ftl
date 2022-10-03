@@ -5,6 +5,9 @@
 permissions-window =
     .title = Etzetziones
     .style = width: 45em
+permissions-window2 =
+    .title = Etzetziones
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = Indiritzu de su situ web
@@ -73,6 +76,9 @@ permissions-invalid-uri-label = Inserta unu nòmine de ordinadore tzentrale vàl
 permissions-exceptions-etp-window =
     .title = Etzetziones pro s'amparu megioradu contra sa sighidura
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Etzetziones pro s'amparu megioradu contra sa sighidura
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = As disativadu is protetziones in custos sitos web.
 
 ## Exceptions - Cookies
