@@ -104,6 +104,9 @@ permissions-exceptions-popup-desc = ਤੁਸੀਂ ਦੱਸ ਸਕਦੇ ਹ�
 permissions-exceptions-saved-logins-window =
     .title = ਛੋਟਾਂ - ਸੰਭਾਲੇ ਲਾਗਇਨ
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = ਛੋਟਾਂ - ਸੰਭਾਲੇ ਲਾਗਇਨ
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = ਅੱਗੇ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਲਾਗਇਨਾਂ ਨੂੰ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾਵੇਗਾ
 
 ## Exceptions - Add-ons
