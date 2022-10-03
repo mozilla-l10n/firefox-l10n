@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. Avaa <b>valikko</b> (<img data-l10n-name="ios-menu
 fxa-qrcode-heading-step4 = 4. Skannaa tämä koodi:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = Synkronoi { -brand-product-name } puhelimellasi tai tablet-laitteellasi
 fxa-qrcode-pair-step1 = 1. Avaa { -brand-product-name } mobiililaitteellasi.
 fxa-qrcode-pair-step2 = 2. Avaa <strong>valikko</strong> (<img data-l10n-name="ios-menu-icon"/> iOS:llä tai <img data-l10n-name="android-menu-icon"/> Androidilla) ja napauta <strong>Kirjaudu sisään synkronoidaksesi</strong>
