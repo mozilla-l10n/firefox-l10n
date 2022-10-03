@@ -53,6 +53,23 @@ menu-help-troubleshooting-info =
 menu-help-about-product =
     .label = Ynghylch { -brand-short-name }
     .accesskey = Y
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Gadael
+           *[other] Gadael
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] G
+           *[other] G
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Gadael { -brand-shorter-name }
+quit-app-shortcut =
+    .key = G
 
 ## Mail Toolbar
 
