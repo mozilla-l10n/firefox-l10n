@@ -5,6 +5,9 @@
 clear-site-data-window =
     .title = Избриши податоци
     .style = width: 35em
+clear-site-data-window2 =
+    .title = Избриши податоци
+    .style = min-width: 35em
 clear-site-data-description = Бришењето на сите колачиња и податоци зачувани од { -brand-short-name } може да ве одјави од мрежни места и да отстрани содржини за пристап без Интернет. Бришењето на кешот нема да влијае на вашите најави.
 clear-site-data-close-key =
     .key = w

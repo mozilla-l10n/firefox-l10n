@@ -5,5 +5,7 @@
 select-bookmark-window =
     .title = Поставување на домашна страница
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = Поставување на домашна страница
+    .style = min-width: 32em;
 select-bookmark-desc = Изберете обележувач што ќе биде ваша почетна страница. Ако изберете папка, тогаш обележувачите од неа ќе бидат отворени во јазичиња.
