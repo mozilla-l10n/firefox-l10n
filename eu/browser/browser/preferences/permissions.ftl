@@ -83,6 +83,9 @@ permissions-exceptions-etp-desc = Babesak desaktibatu dituzu webgune hauetan.
 permissions-exceptions-cookie-window =
     .title = Salbuespenak - Cookieak eta guneen datuak
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Salbuespenak - Cookieak eta guneen datuak
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Cookieak eta gunearen datuak beti edo inoiz ez erabiltzeko baimena duten webguneak zehatz ditzakezu. Idatzi kudeatu nahi duzun gunearen helbide zehatza eta egin klik 'Blokeatu', 'Baimendu saiorako' edo 'Baimendu' botoian.
 
 ## Exceptions - HTTPS-Only Mode
@@ -127,6 +130,9 @@ permissions-exceptions-addons-desc = Gehigarriak instalatzeko baimena duten webg
 permissions-site-autoplay-window =
     .title = Ezarpenak - Erreprodukzio automatikoa
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Ezarpenak - Erreprodukzio automatikoa
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Erreprodukzio automatikoko ezarpen lehenetsiak jarraitzen ez dituzten guneak hemen kudea ditzakezu.
 
 ## Site Permissions - Notifications
