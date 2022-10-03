@@ -5,15 +5,15 @@
 app-manager-window =
     .title = Imininingwane yohlelo
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = Imininingwane yohlelo
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = Susa
     .accesskey = S
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Lezi zinhlelokusebenza ezilandelayo zingasetshenziselwa ukubamba i-izixhumanisi ze-{ $type }.
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Lezi zinhlelokusebenza ezilandelayo zingasetshenziselwa ukubamba i-okuqukethwe kwe-{ $type }.
