@@ -96,6 +96,9 @@ permissions-exceptions-cookie-desc = Poți specifica ce site-uri web au întotde
 permissions-exceptions-https-only-window =
     .title = Excepții - Mod doar HTTPS
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Excepții - Mod doar HTTPS
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Poți opri modul doar HTTPS pentru anumite site-uri web. { -brand-short-name } nu va încerca să actualizeze conexiunea la HTTPS securizat pentru aceste site-uri. Excepțiile nu se aplică ferestrelor private.
 
 ## Exceptions - Pop-ups
