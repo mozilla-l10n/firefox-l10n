@@ -5,6 +5,9 @@
 permissions-window =
     .title = İstisnalar
     .style = width: 45em
+permissions-window2 =
+    .title = İstisnalar
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = Site adresi
