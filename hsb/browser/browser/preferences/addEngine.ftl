@@ -5,18 +5,15 @@
 add-engine-window =
     .title = Pytawu přidać
     .style = width: 32em;
-
+add-engine-window2 =
+    .title = Pytawu přidać
+    .style = min-width: 32em;
 add-engine-button = Swójsku pytawu přidać
-
 add-engine-name = Mjeno pytawy
-
 add-engine-alias = Alias
-
 add-engine-url = URL pytawy, wužiwajće %s město pytanskeho wuraza
-
 add-engine-dialog =
     .buttonlabelaccept = Pytawu přidać
     .buttonaccesskeyaccept = P
-
 engine-name-exists = Pytawa z tym mjenom hižo eksistuje
 engine-alias-exists = Pytawa z tym aliasom hižo eksistuje

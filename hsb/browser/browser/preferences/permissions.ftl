@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Prošu zapodajće płaćiwe mjeno hosta
 permissions-exceptions-etp-window =
     .title = Wuwzaća za polěpšeny slědowanski škit
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Wuwzaća za polěpšeny slědowanski škit
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Sće škit na tutych websydłach znjemóžnił.
 
 ## Exceptions - Cookies
@@ -83,6 +86,9 @@ permissions-exceptions-etp-desc = Sće škit na tutych websydłach znjemóžnił
 permissions-exceptions-cookie-window =
     .title = Wuwzaća - placki a sydłowe daty
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Wuwzaća - placki a sydłowe daty
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Móžeće podać, kotre websydła smědźa přeco abo njesmědźa ženje placki a sydłowe daty wužiwać. Zapisajće eksaktnu adresu sydła, kotrež chceće rjadować a klikńće potom na Blokować, Za posedźenje dowolić abo Dowolić.
 
 ## Exceptions - HTTPS-Only Mode
@@ -90,6 +96,9 @@ permissions-exceptions-cookie-desc = Móžeće podać, kotre websydła smědźa 
 permissions-exceptions-https-only-window =
     .title = Wuwzaća - Modus Jenož-HTTPS
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Wuwzaća - Modus Jenož-HTTPS
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Móžeće modus Jenož-HTTPS za wěste websydła znjemóžnić. { -brand-short-name } njespyta, zwisk za te sydła na wěsty HTTPS aktualizować. Wuwzaća za priwatne wokna njepłaća.
 
 ## Exceptions - Pop-ups
@@ -127,6 +136,9 @@ permissions-exceptions-addons-desc = Móžeće podać, kotre websydła smědźa 
 permissions-site-autoplay-window =
     .title = Nastajenja - awtomatiske wothraće
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Nastajenja - awtomatiske wothraće
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Móžeće sydła rjadować, kotrež nimaja so tu po wašich standardnych nastajenjach awtomatiskeho wothraća.
 
 ## Site Permissions - Notifications
@@ -147,6 +159,9 @@ permissions-site-notification-disable-desc = To budźe websydła, kotrež horjek
 permissions-site-location-window =
     .title = Nastajenja - prawa stejnišća
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Nastajenja - prawa stejnišća
+    .style = { permissions-window2.style }
 permissions-site-location-desc = Slědowace websydła su přistup k wašemu stejnišću požadali. Móžeće podać, kotre websydła maja přistup k wašemu stejnišću. Móžeće tež žadanja za přistupom k wašemu stejnišću blokować.
 permissions-site-location-disable-label =
     .label = Nowe žadanja za přistupom na waše stejnišćo blokować
@@ -157,6 +172,9 @@ permissions-site-location-disable-desc = To budźe websydła, kotrež horjeka w 
 permissions-site-xr-window =
     .title = Nastajenja - prawa za wirtualnu realitu
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Nastajenja - prawa za wirtualnu realitu
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Slědowace websydła su přistup k wašim gratam wirtualneje reality požadali. Móžeće podać, kotre websydła maja přistup k wašim gratam wirtualneje reality. Móžeće tež nowe žadanja za přistupom k wašim gratam wirtualneje reality blokować.
 permissions-site-xr-disable-label =
     .label = Nowe žadanja za přistupom k wašim gratam wirtualneje reality
