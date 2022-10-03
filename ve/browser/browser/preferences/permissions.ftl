@@ -5,30 +5,26 @@
 permissions-window =
     .title = Zwi songo katelwaho
     .style = width: 36em
-
+permissions-window2 =
+    .title = Zwi songo katelwaho
+    .style = min-width: 36em
 permissions-close-key =
     .key = w
-
 permissions-block =
     .label = Block
     .accesskey = B
-
 permissions-session =
     .label = Allow for Session
     .accesskey = S
-
 permissions-allow =
     .label = Allow
     .accesskey = A
-
 permissions-status =
     .label = Maimo
-
 permissions-capabilities-allow =
     .label = Tendelani
 permissions-capabilities-block =
     .label = Thivhelani
-
 permissions-capabilities-listitem-allow =
     .value = Tendelani
 permissions-capabilities-listitem-block =
@@ -49,6 +45,7 @@ permissions-invalid-uri-label = Ni khou humbelwa uri ni dzhenise dzina ḽa tshi
 
 ## Exceptions - HTTPS-Only Mode
 
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Ni nga bula uri ndi webusaithi dzifhio dzo tendelwaho u vula mafisiṱere a u thuthuba. Thaiphani ḓiresi ya vhukuma ya saithi ine na khou ṱoḓa u i tendela u bva afho ni kiḽike Tendelani.
@@ -60,10 +57,8 @@ permissions-exceptions-popup-desc = Ni nga bula uri ndi webusaithi dzifhio dzo t
 
 permissions-exceptions-addons-desc = You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
 
-## Exceptions - Autoplay Media
-
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -72,6 +67,7 @@ permissions-exceptions-addons-desc = You can specify which web sites are allowed
 
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 
