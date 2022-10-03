@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Introduzca un nombre de servidor válido
 permissions-exceptions-etp-window =
     .title = Excepciones para la protección mejorada contra el rastreo
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Excepciones para la protección mejorada contra el rastreo
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Ha desactivado las protecciones en estos sitios web.
 
 ## Exceptions - Cookies
@@ -90,6 +93,9 @@ permissions-exceptions-cookie-desc = Puede especificar qué sitios web pueden o 
 permissions-exceptions-https-only-window =
     .title = Excepciones - Modo solo HTTPS
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Excepciones - Modo solo HTTPS
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Puede desactivar el modo solo HTTPS para sitios web específicos. { -brand-short-name } no intentará cambiar la conexión a HTTPS seguro para esos sitios. Las excepciones no se aplican a las ventanas privadas.
 
 ## Exceptions - Pop-ups
@@ -160,6 +166,9 @@ permissions-site-location-disable-desc = Esto evitará que cualquier sitio web n
 permissions-site-xr-window =
     .title = Ajustes - Permisos de realidad virtual
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Ajustes - Permisos de realidad virtual
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Los siguientes sitios web han solicitado permiso para acceder a sus dispositivos de realidad virtual. Puede especificar qué sitios web tienen acceso a sus dispositivos de realidad virtual. También puede bloquear futuras solicitudes de acceso a sus dispositivos de realidad virtual.
 permissions-site-xr-disable-label =
     .label = Bloquear nuevas solicitudes de acceso a sus dispositivos de realidad virtual
