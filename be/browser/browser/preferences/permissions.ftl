@@ -5,6 +5,9 @@
 permissions-window =
     .title = Выключэнні
     .style = width: 38em
+permissions-window2 =
+    .title = Выключэнні
+    .style = min-width: 38em
 permissions-close-key =
     .key = w
 permissions-address = Адрас вэб-сайта
