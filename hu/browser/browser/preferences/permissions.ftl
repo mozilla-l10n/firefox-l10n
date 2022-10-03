@@ -5,77 +5,62 @@
 permissions-window =
     .title = Kivételek
     .style = width: 55em
-
+permissions-window2 =
+    .title = Kivételek
+    .style = min-width: 55em
 permissions-close-key =
     .key = w
-
 permissions-address = Weboldal címe
     .accesskey = o
-
 permissions-block =
     .label = Tiltás
     .accesskey = T
-
 permissions-session =
     .label = Engedélyezés a munkamenetben
     .accesskey = m
-
 permissions-allow =
     .label = Engedélyezés
     .accesskey = E
-
 permissions-button-off =
     .label = Kikapcsolás
     .accesskey = K
-
 permissions-button-off-temporarily =
     .label = Ideiglenes kikapcsolás
     .accesskey = I
-
 permissions-site-name =
     .label = Weboldal
-
 permissions-status =
     .label = Állapot
-
 permissions-remove =
     .label = Weboldal eltávolítása
     .accesskey = v
-
 permissions-remove-all =
     .label = Minden weboldal eltávolítása
     .accesskey = M
-
 permission-dialog =
     .buttonlabelaccept = Változtatások mentése
     .buttonaccesskeyaccept = V
-
 permissions-autoplay-menu = Alapértelmezés az összes webhelyhez:
-
 permissions-searchbox =
     .placeholder = Weboldal keresése
-
 permissions-capabilities-autoplay-allow =
     .label = Hang és videó engedélyezése
 permissions-capabilities-autoplay-block =
     .label = Hang blokkolása
 permissions-capabilities-autoplay-blockall =
     .label = Hang és videó blokkolása
-
 permissions-capabilities-allow =
     .label = Engedélyezés
 permissions-capabilities-block =
     .label = Tiltás
 permissions-capabilities-prompt =
     .label = Rákérdezés mindig
-
 permissions-capabilities-listitem-allow =
     .value = Engedélyezés
 permissions-capabilities-listitem-block =
     .value = Tiltás
 permissions-capabilities-listitem-allow-session =
     .value = Engedélyezés a munkamenetben
-
 permissions-capabilities-listitem-off =
     .value = Ki
 permissions-capabilities-listitem-off-temporarily =
@@ -112,6 +97,9 @@ permissions-exceptions-https-only-desc = Az egyes webhelyeknél kikapcsolhatja a
 permissions-exceptions-popup-window =
     .title = Engedélyezett webhelyek – Felugró ablakok
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Engedélyezett webhelyek – Felugró ablakok
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Megadhatja azokat a webhelyeket, amelyek felugró ablakot nyithatnak. Írja be a kezelni kívánt webhely pontos nevét, majd kattintson az Engedélyezés gombra.
 
 ## Exceptions - Saved Logins
@@ -119,6 +107,9 @@ permissions-exceptions-popup-desc = Megadhatja azokat a webhelyeket, amelyek fel
 permissions-exceptions-saved-logins-window =
     .title = Kivételek – mentett bejelentkezések
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Kivételek – mentett bejelentkezések
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = A bejelentkezések a következő oldalakhoz nem lesznek mentve
 
 ## Exceptions - Add-ons
@@ -126,6 +117,9 @@ permissions-exceptions-saved-logins-desc = A bejelentkezések a következő olda
 permissions-exceptions-addons-window =
     .title = Engedélyezett webhelyek – Kiegészítők telepítése
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Engedélyezett webhelyek – Kiegészítők telepítése
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Megadhatja azokat a webhelyeket, amelyekről engedélyezett a kiegészítők telepítése. Írja be a kezelni kívánt webhely pontos nevét, majd kattintson az Engedélyezés gombra.
 
 ## Site Permissions - Autoplay
