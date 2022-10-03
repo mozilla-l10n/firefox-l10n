@@ -126,6 +126,9 @@ permissions-exceptions-saved-logins-desc = As contas de acesso dos seguintes sit
 permissions-exceptions-addons-window =
     .title = Sites permitidos - Instalação de extensões
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Sites permitidos - Instalação de extensões
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Você pode especificar que sites têm permissão para instalar extensões. Digite o endereço exato de um site e clique em Permitir.
 
 ## Site Permissions - Autoplay
