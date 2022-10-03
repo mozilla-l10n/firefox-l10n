@@ -13,6 +13,11 @@ containers-window-update-settings =
 containers-window-new2 =
     .title = ახალი სათავსის დამატება
     .style = min-width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings2 =
+    .title = { $name } სათავსის პარამეტრები
+    .style = min-width: 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied

@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. გახსენით <b>მენიუ</b> (<
 fxa-qrcode-heading-step4 = 4. წააკითხეთ ეს კოდი:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = დაასინქრონეთ { -brand-product-name } თქვენს ტელეფონსა და პლანშეტზე
 fxa-qrcode-pair-step1 = 1. გაუშვით { -brand-product-name } თქვენს მობილურზე.
 fxa-qrcode-pair-step2 = 2. გახსენით <strong>მენიუ</strong> (<img data-l10n-name="ios-menu-icon"/> iOS-ზე ან <img data-l10n-name="android-menu-icon"/> Android-ზე) და შეეხეთ <strong>სინქრონიზაციაში შესვლას</strong>
