@@ -5,6 +5,9 @@
 permissions-window =
     .title = Винятки
     .style = width: 36em
+permissions-window2 =
+    .title = Винятки
+    .style = min-width: 36em
 permissions-close-key =
     .key = w
 permissions-address = Адреса сайту
