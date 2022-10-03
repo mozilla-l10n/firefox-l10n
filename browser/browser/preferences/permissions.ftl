@@ -73,6 +73,9 @@ permissions-invalid-uri-label = Please enter a valid hostname
 permissions-exceptions-etp-window =
     .title = Exceptions for Enhanced Tracking Protection
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Exceptions for Enhanced Tracking Protection
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = You’ve turned off protections on these websites.
 
 ## Exceptions - Cookies
@@ -97,6 +100,9 @@ permissions-exceptions-https-only-desc = You can turn off HTTPS-Only Mode for sp
 permissions-exceptions-popup-window =
     .title = Allowed Websites - Pop-ups
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Allowed Websites - Pop-ups
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = You can specify which websites are allowed to open pop-up windows. Type the exact address of the site you want to allow and then click Allow.
 
 ## Exceptions - Saved Logins
@@ -114,6 +120,9 @@ permissions-exceptions-saved-logins-desc = Logins for the following websites wil
 permissions-exceptions-addons-window =
     .title = Allowed Websites - Add-ons Installation
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Allowed Websites - Add-ons Installation
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = You can specify which websites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
 
 ## Site Permissions - Autoplay
@@ -121,6 +130,9 @@ permissions-exceptions-addons-desc = You can specify which websites are allowed 
 permissions-site-autoplay-window =
     .title = Settings - Autoplay
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Settings - Autoplay
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = You can manage the sites that do not follow your default autoplay settings here.
 
 ## Site Permissions - Notifications
@@ -154,6 +166,9 @@ permissions-site-location-disable-desc = This will prevent any websites not list
 permissions-site-xr-window =
     .title = Settings - Virtual Reality Permissions
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Settings - Virtual Reality Permissions
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = The following websites have requested to access your virtual reality devices. You can specify which websites are allowed to access your virtual reality devices. You can also block new requests asking to access your virtual reality devices.
 permissions-site-xr-disable-label =
     .label = Block new requests asking to access your virtual reality devices
