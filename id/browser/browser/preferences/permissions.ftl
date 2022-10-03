@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Mohon masukkan nama host yang valid
 permissions-exceptions-etp-window =
     .title = Pengecualian untuk Perlindungan Pelacakan yang Ditingkatkan
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Pengecualian untuk Perlindungan Pelacakan yang Ditingkatkan
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Anda telah menonaktifkan perlindungan di situs web ini.
 
 ## Exceptions - Cookies
