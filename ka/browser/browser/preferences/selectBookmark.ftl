@@ -5,5 +5,7 @@
 select-bookmark-window =
     .title = საწყისი გვერდის მითითება
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = საწყისი გვერდის მითითება
+    .style = min-width: 32em;
 select-bookmark-desc = აირჩიეთ სანიშნი თქვენს საწყის გვერდად. საქაღალდის არჩევის შემთხვევაში ამ საქაღალდის სანიშნები ჩანართებში გაიხსნება.
