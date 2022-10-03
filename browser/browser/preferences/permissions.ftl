@@ -5,6 +5,9 @@
 permissions-window =
     .title = Administrador de imágenes
     .style = width: 45em
+permissions-window2 =
+    .title = Administrador de imágenes
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = Dirección del sitio web
