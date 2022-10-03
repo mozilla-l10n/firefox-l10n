@@ -17,6 +17,9 @@ menu-addons-and-themes =
 
 ## Help Menu
 
+menu-help-share-feedback =
+    .label = Del idear og tilbakemeldingar
+    .accesskey = D
 
 ## Mail Toolbar
 

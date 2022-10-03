@@ -3,6 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## New Account
+
+
+## New Account / Address Book
+
+
+## Create
+
+
+## Open
+
+
 ## View / Layout
 
 appmenu-font-size-value = Skriftstorleik
@@ -15,3 +27,12 @@ appmenuitem-font-size-reduce =
 appmenuitem-font-size-reset =
     .label = { $size }px
     .tooltiptext = Tilbakestill skriftstorleiken
+
+## Tools
+
+
+## Help
+
+appmenu-help-share-feedback =
+    .label = Del idear og tilbakemeldingar
+    .accesskey = D
