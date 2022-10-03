@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = <b>Menüyü</b> (<img data-l10n-name="ios-menu-icon"/
 fxa-qrcode-heading-step4 = 4. Bu kodu tarayın:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = { -brand-product-name } tarayıcınızı telefonunuz veya tabletinizle eşitleyin
 fxa-qrcode-pair-step1 = 1. Mobil cihazınızda { -brand-product-name } uygulamasını açın.
 fxa-qrcode-pair-step2 = <strong>Menüyü</strong> (iOS'te <img data-l10n-name="ios-menu-icon"/> veya Android'de <img data-l10n-name="android-menu-icon"/>) açıp <strong>Eşitlemek için giriş yap</strong>'a dokunun
