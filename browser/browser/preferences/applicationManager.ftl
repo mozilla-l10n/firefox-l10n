@@ -5,15 +5,15 @@
 app-manager-window =
     .title = Aplikazioaren xehetasunak
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = Aplikazioaren xehetasunak
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = Kendu
     .accesskey = K
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Hurrengo aplikazioak erabil daitezke { $type } loturak kudeatzeko
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Hurrengo aplikazioak erabil daitezke { $type } edukia kudeatzeko
