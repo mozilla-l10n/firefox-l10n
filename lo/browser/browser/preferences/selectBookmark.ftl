@@ -5,5 +5,7 @@
 select-bookmark-window =
     .title = ຕັ້ງໜ້າທຳອິດ
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = ຕັ້ງໜ້າທຳອິດ
+    .style = min-width: 32em;
 select-bookmark-desc = ເລືອກບຸກມາກທີ່ທ່ານຕ້ອງການຕັ້ງເປັນຫນ້າຫລັກ. ຖ້າທ່ານເລືອກໂຟນເດີ, ບຸກມາກທັງຫມົດໃນໂຟນເດີດັ່ງກ່າວຈະຖືກເປີດໃນແທັບ.

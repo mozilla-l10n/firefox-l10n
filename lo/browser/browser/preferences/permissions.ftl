@@ -5,49 +5,40 @@
 permissions-window =
     .title = ຂໍ້ຍົກເວັ້ນ
     .style = width: 45em
-
+permissions-window2 =
+    .title = ຂໍ້ຍົກເວັ້ນ
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
-
 permissions-address = ທີ່ຢູ່ຂອງເວັບໄຊທ໌
     .accesskey = ທ
-
 permissions-block =
     .label = ບັອກ
     .accesskey = ບ
-
 permissions-session =
     .label = ອະນຸຍາດສຳລັບເຊສຊັນ
     .accesskey = ຊ
-
 permissions-allow =
     .label = ອະນຸຍາດ
     .accesskey = ອ
-
 permissions-site-name =
     .label = ເວັບໄຊທ໌
-
 permissions-status =
     .label = ສະຖານະ
-
 permissions-remove =
     .label = ລຶບເວັບໄຊທ໌ອອກ
     .accesskey = ລ
-
 permissions-remove-all =
     .label = ລຶບເວັບໄຊທ໌ທັງຫມົດອອກ
     .accesskey = ມ
-
 permissions-searchbox =
     .placeholder = ຊອກຫາເວັບໄຊທ໌
-
 permissions-capabilities-allow =
     .label = ອະນຸຍາດ
 permissions-capabilities-block =
     .label = ບັອກ
 permissions-capabilities-prompt =
     .label = ຖາມທຸກຄັ້ງ
-
 permissions-capabilities-listitem-allow =
     .value = ອະນຸຍາດ
 permissions-capabilities-listitem-block =
@@ -62,6 +53,7 @@ permissions-invalid-uri-label = ກະລຸນາປ້ອນຊື່ໂຮສ
 
 ## Exceptions - Tracking Protection
 
+
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
@@ -70,6 +62,7 @@ permissions-exceptions-cookie-window =
 permissions-exceptions-cookie-desc = ທ່ານສາມາດລະບຸເວັບໄຊທີ່ອະນຸຍາດ ຫຼື ບໍ່ອະນຸຍາດໃຫ້ໃຊ້ຄຸກກີ້ ແລະ ຂໍ້ມູນໄຊສະເໝີ. ພີມທີ່ຢູ່ຂອງໄຊທີ່ທ່ານຕ້ອງການຈັດການແລ້ວຄິກ ລະງັບ, ອະນຸຍາດໃນເຊສຊັ່ນ ຫຼື ອະນຸຍາດ.
 
 ## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 
@@ -92,9 +85,8 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = ທ່ານສາມາດກຳນົດເວັບໃຊ້ໃດຫນຶ່ງຂອງທ່ານທີ່ໃດ້ເປີດອະນຸຍາດໃຫ້ມີການຕິດຕັ້ງໂປຼແກຣມເສີມ. ໃຫ້ຂຽນທີ່ຢູ່ແທ້ຈິງຂອງເວັບໃຊ້ທີ່ທ່ານເປີດອະນຸຍາດ ແລະ ຫລັງຈາກນັ້ນແມ່ນໃຫ້ຄິກໃສ່ອະນຸຍາດ (Allow).
 
-## Exceptions - Autoplay Media
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -117,6 +109,7 @@ permissions-site-location-disable-label =
 permissions-site-location-disable-desc = ນີ້ຈະປ່ອງກັນເວັບໄຊອື່ນໆ ທີ່ບໍ່ໄດ້ລະບຸໄວ້ດ້ານເທິງຈາກການຂໍອະນູຍາດເພື່ອເຂົ້າເຖິງຕຳແໜ່ງທີ່ຕັ້ງຂອງທ່ານ. ການລະງັບການເຂົ້າເຖິງຕຳແໜ່ງທີ່ຕັ້ງຂອງທ່ານອາດຈະເຮັດໃຫ້ຄຸນລັກສະນະບາງຢ່າງຂອງເວັບໄຊບໍ່ສົມບູນ.
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 

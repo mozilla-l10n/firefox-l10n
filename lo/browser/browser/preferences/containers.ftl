@@ -5,10 +5,11 @@
 containers-window-new =
     .title = ເພີ່ມການແຍກຂໍ້ມູນໃຫມ່
     .style = width: 45em
-
+containers-window-new2 =
+    .title = ເພີ່ມການແຍກຂໍ້ມູນໃຫມ່
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -19,22 +20,17 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = ຊື່
     .accesskey = ຊ
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = ໃສ່ຊື່ການແຍກຂໍ້ມູນ
-
 containers-icon-label = ໄອຄອນ
     .accesskey = ອ
     .style = { -containers-labels-style }
-
 containers-color-label = ສີ
     .accesskey = ສ
     .style = { -containers-labels-style }
-
 containers-color-blue =
     .label = ສີຟ້າ
 containers-color-turquoise =
@@ -51,7 +47,6 @@ containers-color-pink =
     .label = ສີບົວ
 containers-color-purple =
     .label = ສີມ່ວງ
-
 containers-icon-fingerprint =
     .label = ລາຍນິ້ວມື
 containers-icon-briefcase =
