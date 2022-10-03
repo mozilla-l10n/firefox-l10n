@@ -5,58 +5,47 @@
 permissions-window =
     .title = Ccizziuna
     .style = width: 45em
-
+permissions-window2 =
+    .title = Ccizziuna
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
-
 permissions-address = Nnirizzu dû situ
     .accesskey = d
-
 permissions-block =
     .label = Blocca
     .accesskey = B
-
 permissions-session =
     .label = Pirmetti sissiuni
     .accesskey = S
-
 permissions-allow =
     .label = Pirmetti
     .accesskey = P
-
 permissions-site-name =
     .label = Situ
-
 permissions-status =
     .label = Statu
-
 permissions-remove =
     .label = Leva situ
     .accesskey = L
-
 permissions-remove-all =
     .label = Leva tutti i siti
     .accesskey = e
-
 permissions-autoplay-menu = Pridifinutu pi tutti i siti:
-
 permissions-searchbox =
     .placeholder = Cerca situ
-
 permissions-capabilities-autoplay-allow =
     .label = Pirmetti audiu e vidiu
 permissions-capabilities-autoplay-block =
     .label = Blocca audiu
 permissions-capabilities-autoplay-blockall =
     .label = Blocca audiu e vidiu
-
 permissions-capabilities-allow =
     .label = Pirmetti
 permissions-capabilities-block =
     .label = Blocca
 permissions-capabilities-prompt =
     .label = Addumanna sempri
-
 permissions-capabilities-listitem-allow =
     .value = Pirmetti
 permissions-capabilities-listitem-block =
@@ -81,15 +70,22 @@ permissions-exceptions-etp-desc = Disattivasti i prutizziuna pi sti siti.
 permissions-exceptions-cookie-window =
     .title = Ccizziuna - Cookie e dati dû situ
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Ccizziuna - Cookie e dati dû situ
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Po' spicificari quali siti ponnu o nun ponnu mai usari cookie e dati dû situ. Dìggita u nnirizzu giustu dû situ ca vo' gistiri e poi ammacca Blocca, Pirmetti sissiuni o Pirmetti.
 
 ## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
     .title = Siti cunzintuti - Finestri autumàtichi
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Siti cunzintuti - Finestri autumàtichi
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Po' spicificari quali siti ponnu ràpiri finestri autumàtichi. Dìggita u nnirizzu giustu dû situ ô quali ci u vo' pirmèttiri e poi ammacca Pirmetti.
 
 ## Exceptions - Saved Logins
@@ -97,6 +93,9 @@ permissions-exceptions-popup-desc = Po' spicificari quali siti ponnu ràpiri fin
 permissions-exceptions-saved-logins-window =
     .title = Ccizziuna - Accessi sarbati
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Ccizziuna - Accessi sarbati
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = L'accessi pi i siti appressu nun vennu sarbati
 
 ## Exceptions - Add-ons
@@ -104,9 +103,10 @@ permissions-exceptions-saved-logins-desc = L'accessi pi i siti appressu nun venn
 permissions-exceptions-addons-window =
     .title = Siti cunzintuti - Nstallazziuni di agghiuncitini
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Siti cunzintuti - Nstallazziuni di agghiuncitini
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Po' spicificari quali siti ponnu nstallari agghiuncitini. Dìggita u nnirizzu giustu dû situ ô quali ci u vo' pirmèttiri e poi ammacca Pirmetti.
-
-## Exceptions - Autoplay Media
 
 ## Site Permissions - Autoplay
 
@@ -120,6 +120,9 @@ permissions-site-autoplay-desc = Cca po' spicificari i siti chi nun ànnu a risp
 permissions-site-notification-window =
     .title = Mpustazziuna - Pirmisi di nutìfica
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Mpustazziuna - Pirmisi di nutìfica
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = I siti appressu dumannaru di mannàriti nutìfichi. Po' spicificari quali siti ponnu mannari nutìfichi. Po' puru bluccari novi dumanni pû pirmisu di nutìfica.
 permissions-site-notification-disable-label =
     .label = Blocca i novi dumanni di pirmisu di nutìfica
@@ -130,6 +133,9 @@ permissions-site-notification-disable-desc = Chistu mpidisci ê siti ca nun cump
 permissions-site-location-window =
     .title = Mpustazziuna - Pirmisi di lucalizzazziuni
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Mpustazziuna - Pirmisi di lucalizzazziuni
+    .style = { permissions-window2.style }
 permissions-site-location-desc = I siti appressu dumannaru di accèdiri â to pusizziuni. Po' spicificari quali siti ponnu accèdiri â to pusizziuni. Po' puru bloccari i novi dumanni d'accessu â to pusizziuni.
 permissions-site-location-disable-label =
     .label = Blocca i novi dumanni d'accessu â to pusizziuni
@@ -150,6 +156,9 @@ permissions-site-xr-disable-desc = Chistu bluccarà tutti i siti ca nun sunnu el
 permissions-site-camera-window =
     .title = Mpustazziuna - Primisi fotucàmira
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = Mpustazziuna - Primisi fotucàmira
+    .style = { permissions-window2.style }
 permissions-site-camera-desc = I siti appressu dumannaru di accèdiri â fotucàmira. Po' spicificari quali siti ponnu accèdiri â fotucàmira. Po' puru bluccari i novi dumanni d'accessu â fotucàmira.
 permissions-site-camera-disable-label =
     .label = Blocca i novi dumanni d'accessu â fotucàmira
@@ -160,6 +169,9 @@ permissions-site-camera-disable-desc = Chistu mpidisci ê siti ca nun cumparìsc
 permissions-site-microphone-window =
     .title = Mpustazziuna - Pirmisi micròfunu
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = Mpustazziuna - Pirmisi micròfunu
+    .style = { permissions-window2.style }
 permissions-site-microphone-desc = I siti appressu dumannaru di accèdiri ô micròfunu. Po' spicificari quali siti ponnu accèdiri ô micròfunu. Po' puru bluccari i novi dumanni d'accessu ô micròfunu.
 permissions-site-microphone-disable-label =
     .label = Blocca i novi dumanni d'accessu ô micròfunu
