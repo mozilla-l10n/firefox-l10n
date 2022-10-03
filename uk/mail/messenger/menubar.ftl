@@ -53,6 +53,23 @@ menu-help-troubleshooting-info =
 menu-help-about-product =
     .label = Про { -brand-short-name }
     .accesskey = П
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Вийти
+           *[other] Вийти
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] В
+           *[other] В
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Вийти з { -brand-shorter-name }
+quit-app-shortcut =
+    .key = Q
 
 ## Mail Toolbar
 
