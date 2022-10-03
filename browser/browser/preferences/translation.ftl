@@ -5,26 +5,22 @@
 translation-window =
     .title = अपवाद - अनुवाद
     .style = width: 36em
-
+translation-window2 =
+    .title = अपवाद - अनुवाद
+    .style = min-width: 36em
 translation-close-key =
     .key = w
-
 translation-languages-column =
     .label = भाषा
-
 translation-languages-button-remove =
     .label = भाषा मेटाउ
     .accesskey = R
-
 translation-languages-button-remove-all =
     .label = सभ भाषा मेटाउ
     .accesskey = e
-
 translation-sites-button-remove =
     .label = साइट हटाउ
     .accesskey = S
-
 translation-sites-button-remove-all =
     .label = सभटा साइट हटाउ
     .accesskey = i
-
