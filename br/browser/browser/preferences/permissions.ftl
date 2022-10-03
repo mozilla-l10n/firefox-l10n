@@ -96,6 +96,9 @@ permissions-exceptions-cookie-desc = Gallout a ri despizañ pe lec'hiennoù a vo
 permissions-exceptions-https-only-window =
     .title = Nemedennoù - Mod HTTPS hepken
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Nemedennoù - Mod HTTPS hepken
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Gallout a rit diweredekaat ar mod HTTPS-hepken evit lec’hiennoù dibabet. { -brand-short-name } na glasko ket da wellaat ar c’hennask d'unan HTTPS diogel evit al lec’hiennoù-se. N’eo ket arloet an nemedennoù evit ar prenestroù prevez.
 
 ## Exceptions - Pop-ups
