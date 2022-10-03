@@ -5,18 +5,15 @@
 add-engine-window =
     .title = Іздеу жүйесін қосу
     .style = width: 32em;
-
+add-engine-window2 =
+    .title = Іздеу жүйесін қосу
+    .style = min-width: 32em;
 add-engine-button = Таңдауыңызша жүйені қосу
-
 add-engine-name = Іздеу жүйесінің аты
-
 add-engine-alias = Бүркеншік ат
-
 add-engine-url = Жүйенің URL адресі, ізделетін жолдың орнына %s қолданыңыз
-
 add-engine-dialog =
     .buttonlabelaccept = Жүйені қосу
     .buttonaccesskeyaccept = о
-
 engine-name-exists = Осылай аталатын іздеу жүйесі бар болып тұр
 engine-alias-exists = Бұл бүркеншік атымен іздеу жүйесі бар болып тұр
