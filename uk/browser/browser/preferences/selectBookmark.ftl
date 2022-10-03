@@ -5,5 +5,7 @@
 select-bookmark-window =
     .title = Встановити початкову сторінку
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = Встановити початкову сторінку
+    .style = min-width: 32em;
 select-bookmark-desc = Оберіть закладку для початкової сторінки. Якщо ви оберете теку, всі закладки в ній будуть відкриватись у вкладках.
