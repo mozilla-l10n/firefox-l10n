@@ -5,77 +5,62 @@
 permissions-window =
     .title = Išimtys
     .style = width: 45em
-
+permissions-window2 =
+    .title = Išimtys
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
-
 permissions-address = Svetainės adresas
     .accesskey = d
-
 permissions-block =
     .label = Neleisti
     .accesskey = N
-
 permissions-session =
     .label = Leisti vienam seansui
     .accesskey = s
-
 permissions-allow =
     .label = Leisti
     .accesskey = L
-
 permissions-button-off =
     .label = Išjungti
     .accesskey = g
-
 permissions-button-off-temporarily =
     .label = Išjungti laikinai
     .accesskey = k
-
 permissions-site-name =
     .label = Svetainė
-
 permissions-status =
     .label = Leidimas
-
 permissions-remove =
     .label = Pašalinti svetainę
     .accesskey = P
-
 permissions-remove-all =
     .label = Pašalinti visas svetaines
     .accesskey = v
-
 permission-dialog =
     .buttonlabelaccept = Įrašyti pakeitimus
     .buttonaccesskeyaccept = r
-
 permissions-autoplay-menu = Numatyta visoms svetainėms:
-
 permissions-searchbox =
     .placeholder = Ieškoti svetainėje
-
 permissions-capabilities-autoplay-allow =
     .label = Leisti garsus ir vaizdo įrašus
 permissions-capabilities-autoplay-block =
     .label = Blokuoti garsus
 permissions-capabilities-autoplay-blockall =
     .label = Blokuoti garsus ir vaizdo įrašus
-
 permissions-capabilities-allow =
     .label = Leisti
 permissions-capabilities-block =
     .label = Neleisti
 permissions-capabilities-prompt =
     .label = Visada klausti
-
 permissions-capabilities-listitem-allow =
     .value = Leisti
 permissions-capabilities-listitem-block =
     .value = Neleisti
 permissions-capabilities-listitem-allow-session =
     .value = Leisti vienam seansui
-
 permissions-capabilities-listitem-off =
     .value = Išjungta
 permissions-capabilities-listitem-off-temporarily =
@@ -112,6 +97,9 @@ permissions-exceptions-https-only-desc = Galite išjungti tik HTTPS veikseną ta
 permissions-exceptions-popup-window =
     .title = Leistinos svetainės – iškylantieji langai
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Leistinos svetainės – iškylantieji langai
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Čia galima nurodyti svetaines, kurioms bus leidžiama atverti iškylančiuosius langus. Surinkite tikslų svetainės adresą ir spustelėkite mygtuką „Leisti“.
 
 ## Exceptions - Saved Logins
@@ -119,6 +107,9 @@ permissions-exceptions-popup-desc = Čia galima nurodyti svetaines, kurioms bus 
 permissions-exceptions-saved-logins-window =
     .title = Išimtys – įrašyti prisijungimai
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Išimtys – įrašyti prisijungimai
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Prisijungimai prie šių svetainių nebus įrašomi
 
 ## Exceptions - Add-ons
@@ -126,6 +117,9 @@ permissions-exceptions-saved-logins-desc = Prisijungimai prie šių svetainių n
 permissions-exceptions-addons-window =
     .title = Leistinos svetainės – priedų diegimas
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Leistinos svetainės – priedų diegimas
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Čia galima nurodyti svetaines, kurioms bus leidžiama įdiegti priedus. Surinkite tikslų svetainės adresą ir spustelėkite mygtuką „Leisti“.
 
 ## Site Permissions - Autoplay
