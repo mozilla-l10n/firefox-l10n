@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Введіть правильне мережев
 permissions-exceptions-etp-window =
     .title = Винятки для розширеного захисту від стеження
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Винятки для розширеного захисту від стеження
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Ви вимкнули захист для цих вебсайтів.
 
 ## Exceptions - Cookies
@@ -83,6 +86,9 @@ permissions-exceptions-etp-desc = Ви вимкнули захист для ци
 permissions-exceptions-cookie-window =
     .title = Винятки - Куки і дані сайтів
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Винятки - Куки і дані сайтів
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Ви можете вказати, яким вебсайтам завжди дозволяти, а яким ніколи не дозволяти використовувати куки і дані сайтів.  Введіть точну адресу сайту, який ви хочете додати, після чого натисніть Блокувати, Дозволити на сеанс чи Дозволити.
 
 ## Exceptions - HTTPS-Only Mode
@@ -124,6 +130,9 @@ permissions-exceptions-addons-desc = Ви можете вказати, яким 
 permissions-site-autoplay-window =
     .title = Налаштування - Автовідтворення
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Налаштування - Автовідтворення
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Тут ви можете керувати сайтами, що не дотримуються ваших типових налаштувань автовідтворення.
 
 ## Site Permissions - Notifications
