@@ -11,5 +11,7 @@ fxa-qrcode-heading-step3 = 3. เปิด<b>เมนู</b> (<img data-l10n-na
 fxa-qrcode-heading-step4 = 4. สแกนรหัสนี้:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-error-title = การจับคู่ไม่สำเร็จ
 fxa-qrcode-error-body = ลองอีกครั้ง
