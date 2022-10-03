@@ -96,6 +96,9 @@ permissions-exceptions-cookie-desc = Vous pouvez indiquer les sites web qui sont
 permissions-exceptions-https-only-window =
     .title = Exceptions - Mode HTTPS uniquement
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Exceptions - Mode HTTPS uniquement
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Vous pouvez désactiver le mode HTTPS uniquement pour des sites web spécifiques. { -brand-short-name } n’essaiera pas de mettre à niveau vers une connexion HTTPS sécurisée pour ces sites. Les exceptions ne s’appliquent pas aux fenêtres privées.
 
 ## Exceptions - Pop-ups
@@ -166,6 +169,9 @@ permissions-site-location-disable-desc = Cela empêchera tous les sites web non 
 permissions-site-xr-window =
     .title = Paramètres - Autorisations de réalité virtuelle
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Paramètres - Autorisations de réalité virtuelle
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Les sites web suivants ont demandé l’accès à vos appareils de réalité virtuelle. Vous pouvez spécifier quels sites web sont autorisés à accéder à vos appareils de réalité virtuelle. Vous pouvez également bloquer les nouvelles demandes d’accès à vos appareils de réalité virtuelle.
 permissions-site-xr-disable-label =
     .label = Bloquer les nouvelles demandes d’accès à vos appareils de réalité virtuelle
