@@ -5,16 +5,18 @@
 containers-window-new =
     .title = Lägg till ny behållare
     .style = width: 45em
-
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings =
     .title = Behållarinställningar för { $name }
     .style = width: 45em
-
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings2 =
+    .title = Behållarinställningar för { $name }
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -25,26 +27,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Namn
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Ange ett behållarnamn
-
 containers-icon-label = Ikon
     .accesskey = k
     .style = { -containers-labels-style }
-
 containers-color-label = Färg
     .accesskey = F
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = Klar
     .buttonaccesskeyaccept = K
-
 containers-color-blue =
     .label = Blå
 containers-color-turquoise =
@@ -63,7 +59,6 @@ containers-color-purple =
     .label = Lila
 containers-color-toolbar =
     .label = Färgverktygsfält
-
 containers-icon-fence =
     .label = Staket
 containers-icon-fingerprint =
