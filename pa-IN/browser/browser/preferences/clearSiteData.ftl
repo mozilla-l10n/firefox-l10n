@@ -5,12 +5,12 @@
 clear-site-data-window =
     .title = ਡੇਟਾ ਸਾਫ਼ ਕਰੋ
     .style = width: 35em
-
+clear-site-data-window2 =
+    .title = ਡੇਟਾ ਸਾਫ਼ ਕਰੋ
+    .style = min-width: 35em
 clear-site-data-description = { -brand-short-name } ਵਲੋਂ ਸੰਭਾਲੇ ਗਏ ਸਾਰੇ ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕੀਤਾ ਜਾਵੇਗਾ, ਜਿਸ ਨਾਲ ਤੁਸੀਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਸਾਈਨ ਆਉਟ ਹੋ ਜਾਉਂਗੇ ਅਤੇ ਆਫ਼ਲਾਈਨ ਵੈੱਬ ਸਮੱਗਰੀ ਹਟਾਈ ਜਾਵੇਗੀ। ਕੈਸ਼ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰਨ ਨਾਲ ਤੁਹਾਡੇ ਲਾਗਇਨ ਉੱਤੇ ਕੋਈ ਫ਼ਰਕ ਨਹੀਂ ਪਵੇਗਾ।
-
 clear-site-data-close-key =
     .key = w
-
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cookies and Site Data (24 KB)"
 # Variables:
@@ -19,7 +19,6 @@ clear-site-data-close-key =
 clear-site-data-cookies-with-data =
     .label = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡੇਟਾ ({ $amount } { $unit })
     .accesskey = S
-
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cookies-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
@@ -28,9 +27,7 @@ clear-site-data-cookies-with-data =
 clear-site-data-cookies-empty =
     .label = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡੇਟਾ
     .accesskey = S
-
 clear-site-data-cookies-info = ਜੇ ਸਾਫ਼ ਕੀਤਾ ਤਾਂ ਤੁਸੀਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਸਾਈਨ ਆਉਟ ਹੋ ਸਕਦੇ ਹੋ
-
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
 # Variables:
@@ -39,7 +36,6 @@ clear-site-data-cookies-info = ਜੇ ਸਾਫ਼ ਕੀਤਾ ਤਾਂ ਤੁਸ
 clear-site-data-cache-with-data =
     .label = ਕੈਸ਼ ਕੀਤੀ ਵੈੱਬ ਸਮੱਗਰੀ ({ $amount } { $unit })
     .accesskey = W
-
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
@@ -48,9 +44,7 @@ clear-site-data-cache-with-data =
 clear-site-data-cache-empty =
     .label = ਕੈਸ਼ ਕੀਤੀ ਵੈੱਬ ਸਮੱਗਰੀ
     .accesskey = W
-
 clear-site-data-cache-info = ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਚਿੱਤਰ ਤੇ ਡਾਟਾ ਮੁੜ-ਲੋਡ ਕਰ ਦੀ ਲੋੜ ਹੋਵੇਗੀ
-
 clear-site-data-dialog =
     .buttonlabelaccept = ਸਾਫ਼ ਕਰੋ
     .buttonaccesskeyaccept = l
