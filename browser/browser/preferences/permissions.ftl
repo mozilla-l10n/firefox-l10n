@@ -72,6 +72,9 @@ permissions-exceptions-cookie-desc = អ្នក​អាច​បញ្ជា�
 permissions-exceptions-popup-window =
     .title = វេបសាយដែលអនុញ្ញាត - ការលេចឡើង
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = វេបសាយដែលអនុញ្ញាត - ការលេចឡើង
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = អ្នក​អាច​បញ្ជាក់​តំបន់បណ្ដាញ​ណាមួយ​ដែល​អនុញ្ញាត​ឲ្យ​បើក​បង្អួច​លេចឡើង ។ វាយ​អាសយដ្ឋាន​ជាក់លាក់​របស់​តំបន់បណ្ដាញ​ដែល​អ្នក​ចង់​អនុញ្ញាត បន្ទាប់មក ចុច​អនុញ្ញាត ។
 
 ## Exceptions - Saved Logins
@@ -89,6 +92,9 @@ permissions-exceptions-saved-logins-desc = ការចូលសម្រាប�
 permissions-exceptions-addons-window =
     .title = តំបន់បណ្ដាញដែលបានអនុញ្ញាត - ការដំឡើងកម្មវិធីបន្ថែម
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = តំបន់បណ្ដាញដែលបានអនុញ្ញាត - ការដំឡើងកម្មវិធីបន្ថែម
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = អ្នក​អាច​បញ្ជាក់​តំបន់បណ្ដាញ​ណាមួយ​ដែល​អនុញ្ញាត​ឲ្យ​ដំឡើង​កម្មវិធី​បន្ថែម ។ វាយ​អាសយដ្ឋាន​ជាក់លាក់​របស់​តំបន់បណ្ដាញ​ដែល​អ្នក​ចង់​អនុញ្ញាត បន្ទាប់មក ចុច​អនុញ្ញាត ។
 
 ## Site Permissions - Autoplay
@@ -99,6 +105,9 @@ permissions-exceptions-addons-desc = អ្នក​អាច​បញ្ជា�
 permissions-site-notification-window =
     .title = ការកំណត់ - ការអនុញ្ញាតការជូនដំណឹង
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = ការកំណត់ - ការអនុញ្ញាតការជូនដំណឹង
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = តំបន់បណ្ដាញខាងក្រោមនេះបានស្នើសុំផ្ញើការជូនដំណឹងដល់អ្នក ។ អ្នកអាចបញ្ជាក់តំបន់បណ្ដាញណាដែលត្រូវបានអនុញ្ញាតឲ្យផ្ញើការជូនដំណឹងដល់អ្នក ។ អ្នកក៏អាចរារាំងសំណើថ្មីដែលស្នើសុំអនុញ្ញាតការជូនដំណឹង ។
 permissions-site-notification-disable-label =
     .label = ទប់ស្កាត់សំណើថ្មីដែលស្នើសុំឲ្យអនុញ្ញាតការជូនដំណឹង
@@ -109,6 +118,9 @@ permissions-site-notification-disable-desc = វា​នឹងរារាំ�
 permissions-site-location-window =
     .title = ការកំណត់ - ការអនុញ្ញាតទីតាំង
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = ការកំណត់ - ការអនុញ្ញាតទីតាំង
+    .style = { permissions-window2.style }
 permissions-site-location-desc = គេហទំព័រ​ខាងក្រោមនេះបានស្នើសុំដើម្បីចូលប្រើទីតាំងរបស់អ្នក។ អ្នកអាចបញ្ជាក់​គេហទំព័រ​ណាដែលត្រូវបានអនុញ្ញាតឲ្យចូលប្រើទីតាំងរបស់អ្នក។ អ្នកក៏អាចរារាំងសំណើថ្មីដែលស្នើសុំដើម្បីចូលប្រើទីតាំងរបស់អ្នក។
 permissions-site-location-disable-label =
     .label = ទប់ស្កាត់សំណើថ្មីដែលស្នើសុំឲ្យចូលប្រើទីតាំងរបស់អ្នក
