@@ -50,6 +50,9 @@ permissions-invalid-uri-label = Neutulông pasoë nanhost (hostname) nyang beut�
 permissions-exceptions-cookie-window =
     .title = Keucuwali - Kukis ngön Data Situih
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Keucuwali - Kukis ngön Data Situih
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Droëneuh jeuët neupeuteuntèë situihwèb nyang toh sabé meupeuidin atawa hantom meupeuidin keu meungui kukis ngon data situih. Tuléh beubeutôi alamat situih nyang keuneuk atô lheuëhnyan neuklik bak Tham (Block), Peuidin keu Sési (Allow for Session) atawa Peudin.
 
 ## Exceptions - HTTPS-Only Mode
@@ -60,6 +63,9 @@ permissions-exceptions-cookie-desc = Droëneuh jeuët neupeuteuntèë situihwèb
 permissions-exceptions-popup-window =
     .title = Peuidin Situihwèb - Pop-up
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Peuidin Situihwèb - Pop-up
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Droëneuh jeuët neupeuteuntèë töh situihwèb nyang jipeuidin keu peuhah tingkap pop-up. Tuléh beubeutôi alamat situihwèb nyang keuneuk neupeuidin, lheuëhnyan klik Peuidin.
 
 ## Exceptions - Saved Logins
@@ -67,6 +73,9 @@ permissions-exceptions-popup-desc = Droëneuh jeuët neupeuteuntèë töh situih
 permissions-exceptions-saved-logins-window =
     .title = Keucuwali - Keubah Tamèng Log
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Keucuwali - Keubah Tamèng Log
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Tamèng log lam situihwèb dimiyub nyoë hana teukeubah
 
 ## Exceptions - Add-ons
@@ -74,6 +83,9 @@ permissions-exceptions-saved-logins-desc = Tamèng log lam situihwèb dimiyub ny
 permissions-exceptions-addons-window =
     .title = Peuidin Situihwèb - Pasang Add-on
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Peuidin Situihwèb - Pasang Add-on
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Droëneuh jeuët neupeuteuntèë toh situihwèb nyang meupeuidin keu pasang add-on. Tuléh beubeutôi alamat situih nyang neukeuneuk peuidin öh lheuëhnyan klik Peuidin (Allow).
 
 ## Site Permissions - Autoplay
@@ -84,6 +96,9 @@ permissions-exceptions-addons-desc = Droëneuh jeuët neupeuteuntèë toh situih
 permissions-site-notification-window =
     .title = Peuatô - Peuidin Notifikasi
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Peuatô - Peuidin Notifikasi
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Situihwèb dimiyub nyoë keuneuk lakèë kirém notifikasi keudroëneuh. Droëneuh jeuët neupeuteuntèë toh situihwèb nyang neupeuidin meukirém notifikasi keudroëneuh. Droëneuh jeuët neutham nyang barô meulakèë nyan keu peuidin notifikasi.
 permissions-site-notification-disable-label =
     .label = Tham nyang meulakèë barô untôk peuidin notifikasi
