@@ -5,6 +5,9 @@
 permissions-window =
     .title = İstisnalar
     .style = width: 45em
+permissions-window2 =
+    .title = İstisnalar
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = Sayt ünvanı
@@ -82,6 +85,9 @@ permissions-exceptions-popup-desc = Hansı saytların avtomatik açılan pəncə
 permissions-exceptions-saved-logins-window =
     .title = İstisnalar - Saxlanılmış Hesablar
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = İstisnalar - Saxlanılmış Hesablar
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Aşağıdakı saytlar üçün hesablar saxlanılmayacaq
 
 ## Exceptions - Add-ons
