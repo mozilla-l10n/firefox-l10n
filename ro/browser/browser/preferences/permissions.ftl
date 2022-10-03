@@ -5,77 +5,62 @@
 permissions-window =
     .title = Excepții
     .style = width: 50em
-
+permissions-window2 =
+    .title = Excepții
+    .style = min-width: 50em
 permissions-close-key =
     .key = w
-
 permissions-address = Adresa site-ului web
     .accesskey = d
-
 permissions-block =
     .label = Blochează
     .accesskey = B
-
 permissions-session =
     .label = Permite pentru sesiune
     .accesskey = s
-
 permissions-allow =
     .label = Permite
     .accesskey = A
-
 permissions-button-off =
     .label = Oprește
     .accesskey = O
-
 permissions-button-off-temporarily =
     .label = Oprește temporar
     .accesskey = T
-
 permissions-site-name =
     .label = Site web
-
 permissions-status =
     .label = Stare
-
 permissions-remove =
     .label = Elimină site-ul web
     .accesskey = R
-
 permissions-remove-all =
     .label = Elimină toate site-urile web
     .accesskey = E
-
 permission-dialog =
     .buttonlabelaccept = Salvează schimbările
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Implicit pentru toate site-urile web:
-
 permissions-searchbox =
     .placeholder = Caută site web
-
 permissions-capabilities-autoplay-allow =
     .label = Permite audio și video
 permissions-capabilities-autoplay-block =
     .label = Blochează audio
 permissions-capabilities-autoplay-blockall =
     .label = Blochează audio și video
-
 permissions-capabilities-allow =
     .label = Permite
 permissions-capabilities-block =
     .label = Blochează
 permissions-capabilities-prompt =
     .label = Întreabă întotdeauna
-
 permissions-capabilities-listitem-allow =
     .value = Permite
 permissions-capabilities-listitem-block =
     .value = Blochează
 permissions-capabilities-listitem-allow-session =
     .value = Permite pentru sesiune
-
 permissions-capabilities-listitem-off =
     .value = Dezactivat
 permissions-capabilities-listitem-off-temporarily =
@@ -112,6 +97,9 @@ permissions-exceptions-https-only-desc = Poți opri modul doar HTTPS pentru anum
 permissions-exceptions-popup-window =
     .title = Site-uri web permise - Ferestre pop-up
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Site-uri web permise - Ferestre pop-up
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Poți specifica ce site-uri web au permisiunea de a deschide ferestre pop-up. Tastează adresa exactă a site-ului căruia vrei să-i oferi permisiunea și apoi clic pe Permite.
 
 ## Exceptions - Saved Logins
@@ -126,6 +114,9 @@ permissions-exceptions-saved-logins-desc = Nu vor fi salvate date de autentifica
 permissions-exceptions-addons-window =
     .title = Site-uri web permise - Instalare de extensii
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Site-uri web permise - Instalare de extensii
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Poți specifica ce site-uri web au permisiunea de a instala suplimente. Tastează adresa exactă a site-ului căruia vrei să-i oferi permisiunea și apoi clic pe Permite.
 
 ## Site Permissions - Autoplay
@@ -140,6 +131,9 @@ permissions-site-autoplay-desc = Poți gestiona aici site-urile care nu respect�
 permissions-site-notification-window =
     .title = Setări - Permisiuni pentru notificări
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Setări - Permisiuni pentru notificări
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Următoarele site-uri web au solicitat să îți trimită notificări. Poți alege ce site-uri web au permisiunea de a-ți trimite notificări. De asemenea, poți bloca noile solicitări de permitere a notificărilor.
 permissions-site-notification-disable-label =
     .label = Blochează noile solicitări de permitere a notificărilor
@@ -150,6 +144,9 @@ permissions-site-notification-disable-desc = Acest lucru va împiedica orice sit
 permissions-site-location-window =
     .title = Setări - Permisiuni pentru locație
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Setări - Permisiuni pentru locație
+    .style = { permissions-window2.style }
 permissions-site-location-desc = Următoarele site-uri web au solicitat să îți acceseze locația. Poți specifica ce site-uri web au permisiunea de a-ți accesa locația. De asemenea, poți bloca noile solicitări de accesare a locației tale.
 permissions-site-location-disable-label =
     .label = Blochează noile solicitări de accesare a locației
@@ -170,6 +167,9 @@ permissions-site-xr-disable-desc = Acest lucru va împiedica orice site web care
 permissions-site-camera-window =
     .title = Setări - Permisiuni pentru cameră
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = Setări - Permisiuni pentru cameră
+    .style = { permissions-window2.style }
 permissions-site-camera-desc = Următoarele site-uri web au solicitat să îți acceseze camera. Poți specifica ce site-uri web au permisiunea de a-ți accesa camera. De asemenea, poți bloca noile solicitări de accesare a camerei tale.
 permissions-site-camera-disable-label =
     .label = Blochează noile solicitări de accesare a camerei
@@ -180,6 +180,9 @@ permissions-site-camera-disable-desc = Acest lucru va împiedica orice site web 
 permissions-site-microphone-window =
     .title = Setări - Permisiuni pentru microfon
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = Setări - Permisiuni pentru microfon
+    .style = { permissions-window2.style }
 permissions-site-microphone-desc = Următoarele site-uri web au solicitat să îți acceseze microfonul. Poți specifica ce site-uri web au permisiunea de a-ți accesa microfonul. De asemenea, poți bloca noile solicitări de accesare a microfonului tău.
 permissions-site-microphone-disable-label =
     .label = Blochează noile solicitări de accesare a microfonului
