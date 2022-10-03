@@ -507,6 +507,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Para usar el atajo F12, primero abra DevTools a través del menú de Desarrollador web
+enable-devtools-popup-description2 = Para usar el atajo F12, primero abra DevTools a través del menú de herramientas del navegador.
 
 ## URL Bar
 
