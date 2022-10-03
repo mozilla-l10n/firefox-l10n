@@ -5,48 +5,40 @@
 permissions-window =
     .title = Исклучоци
     .style = width: 36em
-
+permissions-window2 =
+    .title = Исклучоци
+    .style = min-width: 36em
 permissions-close-key =
     .key = w
-
 permissions-block =
     .label = Блокирај
     .accesskey = Б
-
 permissions-session =
     .label = Дозволи привремено
     .accesskey = п
-
 permissions-allow =
     .label = Дозволи
     .accesskey = о
-
 permissions-site-name =
     .label = Мрежно место
-
 permissions-status =
     .label = Статус
-
 permissions-remove =
     .label = Отстрани мрежно место
     .accesskey = О
-
 permissions-remove-all =
     .label = Отстрани ги сите мрежни места
     .accesskey = с
-
 permissions-capabilities-autoplay-block =
     .label = Блокирај аудио
 permissions-capabilities-autoplay-blockall =
     .label = Блокирај аудио и видео
-
 permissions-capabilities-allow =
     .label = Дозволи
 permissions-capabilities-block =
     .label = Блокирај
 permissions-capabilities-prompt =
     .label = Секогаш прашувај
-
 permissions-capabilities-listitem-allow =
     .value = Дозволи
 permissions-capabilities-listitem-block =
