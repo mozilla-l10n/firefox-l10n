@@ -5,15 +5,15 @@
 app-manager-window =
     .title = Lok matut ikom purugram
     .style = width: 40em; min-height: 30em;
-
+app-manager-window2 =
+    .title = Lok matut ikom purugram
+    .style = min-width: 40em; min-height: 30em;
 app-manager-remove =
     .label = Kwany
     .accesskey = K
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Purugram magi kitwero tic kwedgi me timo { $type } kakube.
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Purugram magi kitwero tic kwedgi me timo { $type } gin manonge iye.

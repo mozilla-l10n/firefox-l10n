@@ -5,62 +5,50 @@
 permissions-window =
     .title = Ma kiweko woko
     .style = width: 45em
-
+permissions-window2 =
+    .title = Ma kiweko woko
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
-
 permissions-address = Kanonge me kakube
     .accesskey = d
-
 permissions-block =
     .label = Geng
     .accesskey = G
-
 permissions-session =
     .label = Ye pi Kare
     .accesskey = K
-
 permissions-allow =
     .label = Ye
     .accesskey = Y
-
 permissions-site-name =
     .label = Kakube
-
 permissions-status =
     .label = Kit ma tye kwede
-
 permissions-remove =
     .label = Kwany kakube
     .accesskey = K
-
 permissions-remove-all =
     .label = Kwany kakube weng
     .accesskey = w
-
 permission-dialog =
     .buttonlabelaccept = Gwok alokaloka
     .buttonaccesskeyaccept = G
-
 permissions-autoplay-menu = Makwongo pi kakube weng:
-
 permissions-searchbox =
     .placeholder = Yeny kakube
-
 permissions-capabilities-autoplay-allow =
     .label = Yer Dwon ki Video
 permissions-capabilities-autoplay-block =
     .label = Geng Dwon
 permissions-capabilities-autoplay-blockall =
     .label = Geng Dwon ki Video
-
 permissions-capabilities-allow =
     .label = Ye
 permissions-capabilities-block =
     .label = Geng
 permissions-capabilities-prompt =
     .label = Peny jwijwi
-
 permissions-capabilities-listitem-allow =
     .value = Ye
 permissions-capabilities-listitem-block =
@@ -83,6 +71,7 @@ permissions-exceptions-cookie-desc = Itwero cimo kakube mene ma jwijwi onyo matw
 
 ## Exceptions - HTTPS-Only Mode
 
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = I twero cimo kakube mene ma kiye me yabo dirica ma pye-malo. Co kanonge kikome me kakube ma imito ye kadong i dii Ye.
@@ -92,6 +81,9 @@ permissions-exceptions-popup-desc = I twero cimo kakube mene ma kiye me yabo dir
 permissions-exceptions-saved-logins-window =
     .title = Ma pe gude - Donyo iyie ma kigwoko
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Ma pe gude - Donyo iyie ma kigwoko
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Donyo iyie pi kakube magi pe ki bigwoko gi
 
 ## Exceptions - Add-ons
