@@ -5,18 +5,15 @@
 add-engine-window =
     .title = أضِف محرك بحث
     .style = width: 32em;
-
+add-engine-window2 =
+    .title = أضِف محرك بحث
+    .style = min-width: 32em;
 add-engine-button = أضِف محركًا مخصصًا
-
 add-engine-name = اسم محرك البحث
-
 add-engine-alias = الاسم المختصر
-
 add-engine-url = مسار المحرّك، استعمل ”‎%s“ مكان عبارة البحث
-
 add-engine-dialog =
     .buttonlabelaccept = أضِف محركًا
     .buttonaccesskeyaccept = ض
-
 engine-name-exists = يوجد بالفعل محرك بهذا الاسم
 engine-alias-exists = يوجد بالفعل محرك بهذا الاسم المختصر
