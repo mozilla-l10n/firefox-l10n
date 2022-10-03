@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. Avra il <b>menu</b> (<img data-l10n-name="ios-menu
 fxa-qrcode-heading-step4 = 4. Scannescha quest code:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = Sincronisescha { -brand-product-name } cun tes telefonin u tablet
 fxa-qrcode-pair-step1 = 1. Avra { -brand-product-name } sin tes apparat mobil.
 fxa-qrcode-pair-step2 = 2. Avra il <strong>menu</strong> (<img data-l10n-name="ios-menu-icon"/> sin iOS u <img data-l10n-name="android-menu-icon"/> sin Android) e smatga sin <strong>S'annunziar per sincronisar</strong>
