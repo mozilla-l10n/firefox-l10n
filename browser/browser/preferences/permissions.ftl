@@ -5,30 +5,26 @@
 permissions-window =
     .title = Mekgelo
     .style = width: 36em
-
+permissions-window2 =
+    .title = Mekgelo
+    .style = min-width: 36em
 permissions-close-key =
     .key = w
-
 permissions-block =
     .label = Block
     .accesskey = B
-
 permissions-session =
     .label = Allow for Session
     .accesskey = S
-
 permissions-allow =
     .label = Allow
     .accesskey = A
-
 permissions-status =
     .label = Boemo
-
 permissions-capabilities-allow =
     .label = Dumella
 permissions-capabilities-block =
     .label = Thibela
-
 permissions-capabilities-listitem-allow =
     .value = Dumella
 permissions-capabilities-listitem-block =
@@ -49,6 +45,7 @@ permissions-invalid-uri-label = Ka kopo kenya lebitso la moamohedi le nepahetsen
 
 ## Exceptions - HTTPS-Only Mode
 
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = O ka hlalosa hore ke ditsha tsa inthanete dife tse dumeletsweng ho bula difenstere tsa di-popup. Thaepa aterese e nepahetseng ya setsha seo o batlang ho se dumella ebe o tlelika Dumella.
@@ -60,10 +57,8 @@ permissions-exceptions-popup-desc = O ka hlalosa hore ke ditsha tsa inthanete di
 
 permissions-exceptions-addons-desc = You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
 
-## Exceptions - Autoplay Media
-
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -72,6 +67,7 @@ permissions-exceptions-addons-desc = You can specify which web sites are allowed
 
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 
