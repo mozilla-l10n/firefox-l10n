@@ -5,30 +5,26 @@
 permissions-window =
     .title = Okungaphandle
     .style = width: 36em
-
+permissions-window2 =
+    .title = Okungaphandle
+    .style = min-width: 36em
 permissions-close-key =
     .key = w
-
 permissions-block =
     .label = Block
     .accesskey = B
-
 permissions-session =
     .label = Allow for Session
     .accesskey = S
-
 permissions-allow =
     .label = Allow
     .accesskey = A
-
 permissions-status =
     .label = Izinga
-
 permissions-capabilities-allow =
     .label = Vumela
 permissions-capabilities-block =
     .label = Vala
-
 permissions-capabilities-listitem-allow =
     .value = Vumela
 permissions-capabilities-listitem-block =
@@ -49,6 +45,7 @@ permissions-invalid-uri-label = Sibawa utlole igama elisebenzako likasokhaya
 
 ## Exceptions - HTTPS-Only Mode
 
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Unganqophisa bona ngiziphi iindawo ze web ezivumeleke ukuvula amafasidere weposo ewelako. Tlola ikheli ekungilo lendawo ofuna ukuyivumela bese uqhwarhaza Vumela.
@@ -60,10 +57,8 @@ permissions-exceptions-popup-desc = Unganqophisa bona ngiziphi iindawo ze web ez
 
 permissions-exceptions-addons-desc = You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
 
-## Exceptions - Autoplay Media
-
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -72,6 +67,7 @@ permissions-exceptions-addons-desc = You can specify which web sites are allowed
 
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 
