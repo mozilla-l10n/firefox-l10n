@@ -5,18 +5,16 @@
 blocklist-window =
     .title = தடை பட்டியல்
     .style = width: 55em
-
+blocklist-window2 =
+    .title = தடை பட்டியல்
+    .style = min-width: 55em
 blocklist-close-key =
     .key = w
-
 blocklist-treehead-list =
     .label = பட்டியல்
-
 blocklist-dialog =
     .buttonlabelaccept = மாற்றங்களைச் சேமிக்கவும்
     .buttonaccesskeyaccept = S
-
-
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."
@@ -25,4 +23,3 @@ blocklist-dialog =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-

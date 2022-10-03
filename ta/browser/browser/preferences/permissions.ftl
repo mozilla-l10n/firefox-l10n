@@ -5,53 +5,43 @@
 permissions-window =
     .title = விதிவிலக்குகள்
     .style = width: 45em
-
+permissions-window2 =
+    .title = விதிவிலக்குகள்
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
-
 permissions-address = வலைத்தளத்தின் முகவரி
     .accesskey = d
-
 permissions-block =
     .label = தடு
     .accesskey = B
-
 permissions-session =
     .label = அமர்வுக்கு அனுமதி
     .accesskey = S
-
 permissions-allow =
     .label = அனுமதி
     .accesskey = A
-
 permissions-site-name =
     .label = வலைத்தளம்
-
 permissions-status =
     .label = நிலை
-
 permissions-remove =
     .label = வலைத்தளத்தை நீக்கு
     .accesskey = R
-
 permissions-remove-all =
     .label = அனைத்து தளங்களையும் நீக்கு
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = மாற்றங்களைச் சேமிக்கவும்
     .buttonaccesskeyaccept = S
-
 permissions-searchbox =
     .placeholder = வலைத்தளத்தைத் தேடவும்
-
 permissions-capabilities-allow =
     .label = அனுமதி
 permissions-capabilities-block =
     .label = தடு
 permissions-capabilities-prompt =
     .label = எப்போதும் கேள்
-
 permissions-capabilities-listitem-allow =
     .value = அனுமதி
 permissions-capabilities-listitem-block =
@@ -75,11 +65,15 @@ permissions-exceptions-cookie-window =
 
 ## Exceptions - HTTPS-Only Mode
 
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
     .title = அனுமதிக்கப்பட்ட தளங்கள் - துள்ளல்கள்
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = அனுமதிக்கப்பட்ட தளங்கள் - துள்ளல்கள்
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = எந்த இணையதளங்கள் பாப்பப் சாளரங்களை திறக்க அனுமதிக்கும் என்பதைக் குறிப்பிடலாம். மேலாண்மை செய்ய வேண்டிய இணைய தளத்தின் சரியான முகவரியை தட்டச்சு செய்து பின் அனுமதி என்பதை சொடுக்கவும்.
 
 ## Exceptions - Saved Logins
@@ -87,6 +81,9 @@ permissions-exceptions-popup-desc = எந்த இணையதளங்கள�
 permissions-exceptions-saved-logins-window =
     .title = விதிவிலக்குகள் - சேமிக்கப்பட்ட புகுபதிகைகள்
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = விதிவிலக்குகள் - சேமிக்கப்பட்ட புகுபதிகைகள்
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = பின்வரும் தளங்களின் புகுபதிகைகள் சேமிக்கப்படாது
 
 ## Exceptions - Add-ons
@@ -94,6 +91,9 @@ permissions-exceptions-saved-logins-desc = பின்வரும் தளங
 permissions-exceptions-addons-window =
     .title = அனுமதிக்கப்பட்ட இணைய தளங்கள் - கூடுதல் இணைப்பு நிறுவல்
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = அனுமதிக்கப்பட்ட இணைய தளங்கள் - கூடுதல் இணைப்பு நிறுவல்
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = எந்த இணையதளங்கள் கூடுதல் இணைப்புகளை நிறுவ அனுமதிக்கும் என்பதைக் குறிப்பிடலாம். மேலாண்மை செய்ய வேண்டிய இணைய தளத்தின் சரியான முகவரியை தட்டச்சு செய்து பின் அனுமதி என்பதை சொடுக்கவும்.
 
 ## Site Permissions - Autoplay
