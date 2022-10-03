@@ -353,6 +353,9 @@ auto-mark-as-read =
 mark-read-no-delay =
     .label = 显示时立即
     .accesskey = o
+view-attachments-inline =
+    .label = 查看内联附件
+    .accesskey = V
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).

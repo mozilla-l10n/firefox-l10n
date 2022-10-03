@@ -175,6 +175,9 @@ openpgp-key-man-reload =
 openpgp-key-man-change-expiry =
     .label = 更改到期日
     .accesskey = E
+openpgp-key-man-refresh-online =
+    .label = 在线刷新
+    .accesskey = R
 openpgp-key-man-ignored-ids =
     .label = 电子邮件地址
 openpgp-key-man-del-key =
@@ -279,6 +282,8 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description-no-key = { -brand-short-name } 没有 <b>{ $identity }</b> 的个人 OpenPGP 密钥
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = 您当前配置使用 ID 为 <b>{ $key }</b> 的密钥
 #   $key (String) - the currently selected OpenPGP key

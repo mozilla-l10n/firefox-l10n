@@ -35,6 +35,7 @@ openpgp-key-assistant-key-collected-autocrypt = 自动加密头
 openpgp-key-assistant-key-collected-keyserver = 密钥服务器
 # Web Key Directory (WKD) is a concept.
 openpgp-key-assistant-key-collected-wkd = Web 密钥目录
+openpgp-key-assistant-key-rejected = 此密钥先前已被拒绝。
 
 ## Discovery section
 
