@@ -5,77 +5,59 @@
 permissions-window =
     .title = Nemedennoù
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Chomlec'h al lec'hienn
     .accesskey = C
-
 permissions-block =
     .label = Herzel
     .accesskey = H
-
 permissions-session =
     .label = Aotren evit an estez
     .accesskey = A
-
 permissions-allow =
     .label = Aotren
     .accesskey = A
-
 permissions-button-off =
     .label = Diweredekaat
     .accesskey = D
-
 permissions-button-off-temporarily =
     .label = Diweredekaat e-pad nebeut amzer
     .accesskey = n
-
 permissions-site-name =
     .label = Lec'hienn
-
 permissions-status =
     .label = Stad
-
 permissions-remove =
     .label = Lemel kuit al lec'hienn
     .accesskey = L
-
 permissions-remove-all =
     .label = Lemel kuit an holl lec'hiennoù
     .accesskey = h
-
 permission-dialog =
     .buttonlabelaccept = Enrollañ ar c'hemmoù
     .buttonaccesskeyaccept = E
-
 permissions-autoplay-menu = Dre ziouer evit an holl lec'hiennoù:
-
 permissions-searchbox =
     .placeholder = Klask lec'hiennoù
-
 permissions-capabilities-autoplay-allow =
     .label = Aotren aodio ha video
 permissions-capabilities-autoplay-block =
     .label = Stankañ an aodio
 permissions-capabilities-autoplay-blockall =
     .label = Stankañ an aodio ha video
-
 permissions-capabilities-allow =
     .label = Aotren
 permissions-capabilities-block =
     .label = Herzel
 permissions-capabilities-prompt =
     .label = Goulenn bewech
-
 permissions-capabilities-listitem-allow =
     .value = Aotren
 permissions-capabilities-listitem-block =
     .value = Herzel
 permissions-capabilities-listitem-allow-session =
     .value = Aotren evit an estez
-
 permissions-capabilities-listitem-off =
     .value = Diweredekaet
 permissions-capabilities-listitem-off-temporarily =
@@ -112,6 +94,9 @@ permissions-exceptions-https-only-desc = Gallout a rit diweredekaat ar mod HTTPS
 permissions-exceptions-popup-window =
     .title = Lec'hiennoù aotreet - diflugelloù
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Lec'hiennoù aotreet - diflugelloù
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Gallout a rit erspizañ pe lec'hiennoù zo aotreet da zigeriñ diflugelloù. Skrivit chomlec'h resis al lec'hienn a roit an aotre dezhi ha klikit war Aotren.
 
 ## Exceptions - Saved Logins
@@ -126,6 +111,9 @@ permissions-exceptions-saved-logins-desc = Ne vo ket enrollet titouroù kennaska
 permissions-exceptions-addons-window =
     .title = Lec'hiennoù aotreet - Staliadur askouezhioù
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Lec'hiennoù aotreet - Staliadur askouezhioù
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Posupl eo deoc'h erspizañ pe lec'hiennoù a vo aotreet da staliañ askouezhioù. Roit chomlec'h spis al lec'hienn da vezañ aotreet ha klikit war Aotren.
 
 ## Site Permissions - Autoplay
@@ -140,6 +128,9 @@ permissions-site-autoplay-desc = Gallout a rit merañ al lec'hiennoù na heulion
 permissions-site-notification-window =
     .title = Arventennoù - Aotreoù ar rebuzadurioù
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Arventennoù - Aotreoù ar rebuzadurioù
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Goulennet eo bet gant al lec'hiennoù da-heul kas rebuzadurioù deoc'h. Gallout a rit despizañ peseurt lec'hienn a zo aotreet da gas rebuzadurioù deoc'h. Gallout a rit ivez stankañ goulennoù aotren ar rebuzadurioù nevez.
 permissions-site-notification-disable-label =
     .label = Stankañ ar goulennoù aotren ar rebuzadurioù nevez
@@ -150,6 +141,9 @@ permissions-site-notification-disable-desc = Herzel a raio al lec'hiennoù ha n'
 permissions-site-location-window =
     .title = Arventennoù - Aotreoù al lec'hiadur
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Arventennoù - Aotreoù al lec'hiadur
+    .style = { permissions-window2.style }
 permissions-site-location-desc = Goulennet eo bet gant al lec'hiennoù da-heul gouzout ho lec'hiadur. Gallout a rit despizañ peseurt lec'hienn a zo aotreet da c'houzout ho lec'hiadur. Gallout a rit ivez stankañ goulennoù gouzout ho lec'hiadur nevez.
 permissions-site-location-disable-label =
     .label = Stankañ ar goulennoù gouzout ho lec'hiadur nevez
@@ -170,6 +164,9 @@ permissions-site-xr-disable-desc = Mirout a raio kement lec'hienn n'emañ ket er
 permissions-site-camera-window =
     .title = Arventennoù - Aotreoù ar c'hamera
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = Arventennoù - Aotreoù ar c'hamera
+    .style = { permissions-window2.style }
 permissions-site-camera-desc = Goulennet eo bet gant al lec'hiennoù da-heul haeziñ ho kamera. Gallout a rit despizañ peseurt lec'hienn a zo aotreet da haeziñ ho kamera. Gallout a rit ivez stankañ goulennoù haeziñ ho kamera nevez.
 permissions-site-camera-disable-label =
     .label = Stankañ ar goulennoù haeziñ ho kamera nevez
