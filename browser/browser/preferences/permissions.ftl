@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Pšosym zapódajśo płaśiwe mě hosta
 permissions-exceptions-etp-window =
     .title = Wuwześa za pólěpšony slědowański šćit
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Wuwześa za pólěpšony slědowański šćit
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Sćo znjemóžnił šćit na toś tych websedłach.
 
 ## Exceptions - Cookies
@@ -83,6 +86,9 @@ permissions-exceptions-etp-desc = Sćo znjemóžnił šćit na toś tych websed�
 permissions-exceptions-cookie-window =
     .title = Wuwześa - cookieje a sedłowe daty
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Wuwześa - cookieje a sedłowe daty
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Móžośo pódaś, kótare websedła směju pśecej abo njesměju nigda cookieje a sedłowe daty wužywaś. Zapišćo eksaktnu adresu sedła, kótarež cośo zastojaś a klikniśo pótom na Blokěrowaś, Za pósejźenje dowóliś abo Dowóliś.
 
 ## Exceptions - HTTPS-Only Mode
@@ -90,6 +96,9 @@ permissions-exceptions-cookie-desc = Móžośo pódaś, kótare websedła směju
 permissions-exceptions-https-only-window =
     .title = Wuwześa - Modus Jano-HTTPS
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Wuwześa - Modus Jano-HTTPS
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Móžóśo modus Jano-HTTPS za wěste websedła znjemóžniś. { -brand-short-name } njewopytajo, zwisk za te sedła na wěsty HTTPS aktualizěrowaś. Wuwześa za priwatne wokna njepłaśe.
 
 ## Exceptions - Pop-ups
@@ -127,6 +136,9 @@ permissions-exceptions-addons-desc = Móžośo pódaś, kótare websedła směju
 permissions-site-autoplay-window =
     .title = Nastajenja - awtomatiske wótgraśe
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Nastajenja - awtomatiske wótgraśe
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Móžośo sedła zastojaś, kótarež njamaju se how pó wašych standardnych nastajenjach awtomatiskego wótgraśa.
 
 ## Site Permissions - Notifications
@@ -147,6 +159,9 @@ permissions-site-notification-disable-desc = To buźo websedłam, kótarež gór
 permissions-site-location-window =
     .title = Nastajenja - pšawa stojnišća
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Nastajenja - pšawa stojnišća
+    .style = { permissions-window2.style }
 permissions-site-location-desc = Slědujuce websedła su pominali pśistup k wašomu městnoju. Móžośo pódaś, kótare websedła maju pśistup k wašomu městnoju. Móžośo teke nowe pominanja za pśistupom k wašomu městnoju blokěrowaś.
 permissions-site-location-disable-label =
     .label = Nowe pominanja za pśistupom na wašo městno blokěrowaś
@@ -157,6 +172,9 @@ permissions-site-location-disable-desc = To buźo websedłam, kótarež górjejc
 permissions-site-xr-window =
     .title = Nastajenja - pšawa za wirtuelnu realitu
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Nastajenja - pšawa za wirtuelnu realitu
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Slědujuce websedła su pominali pśistup k wašym rědam wirtuelneje reality. Móžośo pódaś, kótare websedła maju pśistup k wašym rědam wirtuelneje reality. Móžośo teke nowe napšašanja za pśistupom k wašym rědam wirtuelneje reality blokěrowaś.
 permissions-site-xr-disable-label =
     .label = Nowe napšašanja za pśistupom k wašym rědam wirtuelneje reality
