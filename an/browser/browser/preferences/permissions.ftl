@@ -5,77 +5,59 @@
 permissions-window =
     .title = Excepcions
     .style = width: 48em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adreza d'o puesto web
     .accesskey = a
-
 permissions-block =
     .label = Blocar
     .accesskey = B
-
 permissions-session =
     .label = Permitir por ista sesión
     .accesskey = s
-
 permissions-allow =
     .label = Permitir
     .accesskey = P
-
 permissions-button-off =
     .label = Desactivar
     .accesskey = D
-
 permissions-button-off-temporarily =
     .label = Desactivar temporalment
     .accesskey = t
-
 permissions-site-name =
     .label = Puesto web
-
 permissions-status =
     .label = Estau
-
 permissions-remove =
     .label = Borrar puesto web
     .accesskey = B
-
 permissions-remove-all =
     .label = Borrar totz los puestos web
     .accesskey = t
-
 permission-dialog =
     .buttonlabelaccept = Alzar os cambios
     .buttonaccesskeyaccept = A
-
 permissions-autoplay-menu = Per defecto pa totz los puestos web:
-
 permissions-searchbox =
     .placeholder = Mirar puesto web
-
 permissions-capabilities-autoplay-allow =
     .label = Permitir l'audio y lo video
 permissions-capabilities-autoplay-block =
     .label = Blocar l'audio
 permissions-capabilities-autoplay-blockall =
     .label = Blocar l'audio y lo video
-
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Blocar
 permissions-capabilities-prompt =
     .label = Preguntar-me-lo siempre
-
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Blocar
 permissions-capabilities-listitem-allow-session =
     .value = Permitir ta ista sesión
-
 permissions-capabilities-listitem-off =
     .value = Desactivau
 permissions-capabilities-listitem-off-temporarily =
@@ -91,6 +73,9 @@ permissions-invalid-uri-label = Introduzca un nombre de servidor valido
 permissions-exceptions-etp-window =
     .title = Excepcions pa la protección de seguimiento millorada
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Excepcions pa la protección de seguimiento millorada
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Has desactivau las proteccions d'estes puestos web.
 
 ## Exceptions - Cookies
@@ -98,6 +83,9 @@ permissions-exceptions-etp-desc = Has desactivau las proteccions d'estes puestos
 permissions-exceptions-cookie-window =
     .title = Excepcions - Cookies y datos d'o puesto
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Excepcions - Cookies y datos d'o puesto
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Puetz especificar los puestos web a qui se permite siempre u no se permite nunca usar cookies y datos d'o puesto.  Escribe l'adreza exacta d'o puesto que quiers chestionar y fe clic en Blocar, Permitir per esta sesión u Permitir.
 
 ## Exceptions - HTTPS-Only Mode
@@ -105,6 +93,9 @@ permissions-exceptions-cookie-desc = Puetz especificar los puestos web a qui se 
 permissions-exceptions-https-only-window =
     .title = Excepcions - Modo HTTPS nomás
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Excepcions - Modo HTTPS nomás
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Puetz desactivar lo modo "HTTPS nomás" en pachinas web especificas. { -brand-short-name } no mirará de cambiar a una connexión HTTPS segura en ixes puestos. Las excepcions no s'aplican en as finestras privadas.
 
 ## Exceptions - Pop-ups
@@ -112,6 +103,9 @@ permissions-exceptions-https-only-desc = Puetz desactivar lo modo "HTTPS nomás"
 permissions-exceptions-popup-window =
     .title = Pachinas web autorizadas- Pop-ups
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Pachinas web autorizadas- Pop-ups
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Puede especificar qué puestos web pueden ubrir finestras emerchents. Escriba l'adreza exacta d'o puesto que quiere permitir y prete Permitir.
 
 ## Exceptions - Saved Logins
@@ -126,6 +120,9 @@ permissions-exceptions-saved-logins-desc = No s'alzarán los datos d'inicio en o
 permissions-exceptions-addons-window =
     .title = Pachinas web autorizadas- Instalación de complementos
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Pachinas web autorizadas- Instalación de complementos
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Puede especificar qué puestos web pueden instalar complementos. Escriba l'adreza exacta d'o puesto que quiere permitir y prete Permitir.
 
 ## Site Permissions - Autoplay
@@ -133,6 +130,9 @@ permissions-exceptions-addons-desc = Puede especificar qué puestos web pueden i
 permissions-site-autoplay-window =
     .title = Achustes - Lectura automatica
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Achustes - Lectura automatica
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Puetz chestionar dende aquí los puestos que no siguen los parametros de reproducción automatica per defecto.
 
 ## Site Permissions - Notifications
@@ -140,6 +140,9 @@ permissions-site-autoplay-desc = Puetz chestionar dende aquí los puestos que no
 permissions-site-notification-window =
     .title = Achustes - Permisos de notificación
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Achustes - Permisos de notificación
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Los siguients puestos web han demandau ninviar-te notificacions. Puetz especificar a qué puestos web permites que te ninvien notificacions. Tamién puet blocar las nuevas demandas de notificacions.
 permissions-site-notification-disable-label =
     .label = Blocar nuevas demandas de notificacions
@@ -150,6 +153,9 @@ permissions-site-notification-disable-desc = Esto privará que garra puesto web 
 permissions-site-location-window =
     .title = Achustes - Permisos de localización
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Achustes - Permisos de localización
+    .style = { permissions-window2.style }
 permissions-site-location-desc = Los siguients puestos web han demanda acceso a la tuya ubicación. Puetz especificar qué puestos web pueden acceder a la tuya ubicación.
 permissions-site-location-disable-label =
     .label = Blocar nuevas demandas d'acceso a la tuya ubicación
@@ -160,6 +166,9 @@ permissions-site-location-disable-desc = Esto privará que garra puesto web no l
 permissions-site-xr-window =
     .title = Achustes - Permisos de realidat virtual
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Achustes - Permisos de realidat virtual
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Los puestos web siguients han demandau l'acceso a los tuyos dispositivos de realidat virutal. Puetz especificar qué puestos web son autorizaus a acceder a los dispositivos de realidat virtual. Tamién puetz blocar las nuevas demandas d'acceso a ixes dispositivos.
 permissions-site-xr-disable-label =
     .label = Blocar nuevas demandas d'accesos a los tuyos dispositivos de realidat virtual
@@ -170,6 +179,9 @@ permissions-site-xr-disable-desc = Esto privará a totz los puestos web que no s
 permissions-site-camera-window =
     .title = Achustes - Permisos d'acceso a camara
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = Achustes - Permisos d'acceso a camara
+    .style = { permissions-window2.style }
 permissions-site-camera-desc = Los siguients puestos web han demandau acceso a la camara. Puetz especificar qué puestos web tienen permiso pa acceder ta la tuya camera. Tamién puetz blocar nuevas demandas d'acceso a la camara.
 permissions-site-camera-disable-label =
     .label = Blocar nuevas demandas d'acceso a la camara
@@ -180,6 +192,9 @@ permissions-site-camera-disable-desc = Esto privará que garra puesto web no lis
 permissions-site-microphone-window =
     .title = Achustes - Permisos d'acceso a microfono
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = Achustes - Permisos d'acceso a microfono
+    .style = { permissions-window2.style }
 permissions-site-microphone-desc = Los siguients puestos web han demandau acceso ta lo tuyo microfono. Puetz especificar qué puestos web puede acceder ta lo tuyo microfono. Tamién puetz blocar nuevas demandas d'acceso a lo microfono.
 permissions-site-microphone-disable-label =
     .label = Blocar nuevas demandas d'acceso a lo microfono
