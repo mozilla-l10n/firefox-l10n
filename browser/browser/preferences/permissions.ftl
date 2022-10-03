@@ -107,6 +107,9 @@ permissions-exceptions-popup-desc = Вы можаце вызначыць, які
 permissions-exceptions-saved-logins-window =
     .title = Выключэнні - Запісаныя лагіны
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Выключэнні - Запісаныя лагіны
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Лагіны для наступных вэб-сайтаў не будуць захаваны
 
 ## Exceptions - Add-ons
