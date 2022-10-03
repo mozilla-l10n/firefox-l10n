@@ -5,18 +5,15 @@
 add-engine-window =
     .title = Добавить поисковую систему
     .style = width: 32em;
-
+add-engine-window2 =
+    .title = Добавить поисковую систему
+    .style = min-width: 32em;
 add-engine-button = Добавить персональную поисковую систему
-
 add-engine-name = Имя поисковой системы
-
 add-engine-alias = Краткое имя
-
 add-engine-url = URL-адрес системы с параметром %s вместо запроса
-
 add-engine-dialog =
     .buttonlabelaccept = Добавить систему
     .buttonaccesskeyaccept = и
-
 engine-name-exists = Система с таким именем уже существует
 engine-alias-exists = Система с таким кратким именем уже существует
