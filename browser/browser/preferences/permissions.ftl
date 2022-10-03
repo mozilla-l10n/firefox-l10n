@@ -5,6 +5,9 @@
 permissions-window =
     .title = Përjashtime
     .style = width: 36em
+permissions-window2 =
+    .title = Përjashtime
+    .style = min-width: 36em
 permissions-close-key =
     .key = w
 permissions-address = Adresë e sajtit
