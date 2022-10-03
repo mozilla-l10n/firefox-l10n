@@ -5,30 +5,26 @@
 permissions-window =
     .title = Hasarawey
     .style = width: 45em
-
+permissions-window2 =
+    .title = Hasarawey
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
-
 permissions-block =
     .label = Gagay
     .accesskey = G
-
 permissions-session =
     .label = Goywaati noo fondo
     .accesskey = G
-
 permissions-allow =
     .label = Noo fondo
     .accesskey = N
-
 permissions-status =
     .label = Assariya
-
 permissions-capabilities-allow =
     .label = Noo fondo
 permissions-capabilities-block =
     .label = Gagay
-
 permissions-capabilities-listitem-allow =
     .value = Noo fondo
 permissions-capabilities-listitem-block =
@@ -43,10 +39,12 @@ permissions-invalid-uri-label = Taare war ma zunbudoo maa boryo dam
 
 ## Exceptions - Tracking Protection
 
+
 ## Exceptions - Cookies
 
 
 ## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 
@@ -57,15 +55,16 @@ permissions-exceptions-popup-desc = War ga hin ka tabatandi Interneti nungey ka�
 permissions-exceptions-saved-logins-window =
     .title = Hasarawey - huruyan gaabuntey
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Hasarawey - huruyan gaabuntey
+    .style = { permissions-window2.style }
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = War ga hin ka tabatandi Interneti nungey kaŋ ga duu fondo ka tontoney sinji. Nungoo kaŋ war ga bag'a aderesu alhakiikaa hantum, de wa Noo fondo naagu.
 
-## Exceptions - Autoplay Media
-
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -74,6 +73,7 @@ permissions-exceptions-addons-desc = War ga hin ka tabatandi Interneti nungey ka
 
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 
