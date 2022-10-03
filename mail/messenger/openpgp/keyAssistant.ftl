@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 openpgp-key-assistant-title = Pomočnik za ključe OpenPGP
+openpgp-key-assistant-rogue-warning = Pazite, da ne sprejmete ponarejenega ključa. Da zagotovite, da je pridobljeni ključ pravi, ga morate preveriti. <a data-l10n-name="openpgp-link">Več o tem …</a>
 
 ## Encryption status
 
@@ -16,6 +17,7 @@ openpgp-key-assistant-recipients-issue-description =
         [few] Za šifriranje morate pridobiti in sprejeti uporaben ključ za { $count } prejemnike. <a data-l10n-name="openpgp-link">Več o tem …</a>
        *[other] Za šifriranje morate pridobiti in sprejeti uporaben ključ za { $count } prejemnikov. <a data-l10n-name="openpgp-link">Več o tem …</a>
     }
+openpgp-key-assistant-info-alias = { -brand-short-name } običajno zahteva, da prejemnikov javni ključ vsebuje ID uporabnika z ujemajočim se e-poštnim naslovom. To je mogoče preglasiti z uporabo pravil OpenPGP za vzdevek prejemnika. <a data-l10n-name="openpgp-link">Več o tem …</a>
 # Variables:
 # $count (Number) - The number of recipients that need attention.
 openpgp-key-assistant-recipients-description =
