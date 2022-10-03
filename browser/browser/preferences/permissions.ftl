@@ -73,6 +73,9 @@ permissions-invalid-uri-label = Please enter a valid hostname
 permissions-exceptions-etp-window =
     .title = Exceptions for Enhanced Tracking Protection
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Exceptions for Enhanced Tracking Protection
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = You’ve turned off protections on these web sites.
 
 ## Exceptions - Cookies
@@ -80,6 +83,9 @@ permissions-exceptions-etp-desc = You’ve turned off protections on these web s
 permissions-exceptions-cookie-window =
     .title = Exceptions - Cookies and Site Data
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Exceptions - Cookies and Site Data
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = You can specify which web sites are always or never allowed to use cookies and site data.  Type the exact address of the site you want to manage and then click Block, Allow for Session, or Allow.
 
 ## Exceptions - HTTPS-Only Mode
@@ -87,6 +93,9 @@ permissions-exceptions-cookie-desc = You can specify which web sites are always 
 permissions-exceptions-https-only-window =
     .title = Exceptions - HTTPS-Only Mode
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Exceptions - HTTPS-Only Mode
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = You can turn off HTTPS-Only Mode for specific websites. { -brand-short-name } won’t attempt to upgrade the connection to secure HTTPS for those sites. Exceptions do not apply to private windows.
 
 ## Exceptions - Pop-ups
@@ -157,6 +166,9 @@ permissions-site-location-disable-desc = This will prevent any web sites not lis
 permissions-site-xr-window =
     .title = Settings - Virtual Reality Permissions
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Settings - Virtual Reality Permissions
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = The following web sites have requested to access your virtual reality devices. You can specify which web sites are allowed to access your virtual reality devices. You can also block new requests asking to access your virtual reality devices.
 permissions-site-xr-disable-label =
     .label = Block new requests asking to access your virtual reality devices
