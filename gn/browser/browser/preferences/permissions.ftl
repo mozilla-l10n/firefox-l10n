@@ -5,77 +5,59 @@
 permissions-window =
     .title = Ta’ãnga ñangarekoha
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Ñanduti renda kundaharape
     .accesskey = d
-
 permissions-block =
     .label = Joko
     .accesskey = B
-
 permissions-session =
     .label = Emoneĩ Tembiapo ñepyrũ
     .accesskey = T
-
 permissions-allow =
     .label = Moneĩ
     .accesskey = A
-
 permissions-button-off =
     .label = Eipe’aite
     .accesskey = O
-
 permissions-button-off-temporarily =
     .label = Jepe’a sapy’agua
     .accesskey = T
-
 permissions-site-name =
     .label = Ñanduti renda
-
 permissions-status =
     .label = Tekotee
-
 permissions-remove =
     .label = Emboguete ñanduti renda
     .accesskey = R
-
 permissions-remove-all =
     .label = Emboguete opavave ñanduti renda
     .accesskey = E
-
 permission-dialog =
     .buttonlabelaccept = Moambue ñongatu
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Ijypykuéramo opaite ñanduti rendápe g̃uarã:
-
 permissions-searchbox =
     .placeholder = Ñandutirenda Jeheka
-
 permissions-capabilities-autoplay-allow =
     .label = Emoneĩ mba’epu ha ta’ãngamýi
 permissions-capabilities-autoplay-block =
     .label = Ejoko mba’epu
 permissions-capabilities-autoplay-blockall =
     .label = Ejoko mba’epu ha ta’ãngamýi
-
 permissions-capabilities-allow =
     .label = Moneĩ
 permissions-capabilities-block =
     .label = Jokoha
 permissions-capabilities-prompt =
     .label = Porandu Tapia
-
 permissions-capabilities-listitem-allow =
     .value = Moneĩ
 permissions-capabilities-listitem-block =
     .value = Jokoha
 permissions-capabilities-listitem-allow-session =
     .value = Tembiapópe g̃uarã moneĩ
-
 permissions-capabilities-listitem-off =
     .value = Mboguepyre
 permissions-capabilities-listitem-off-temporarily =
@@ -112,6 +94,9 @@ permissions-exceptions-https-only-desc = Ikatu eipe’a HTTPS ayvu añoite ñand
 permissions-exceptions-popup-window =
     .title = Tenda ñemoneĩmbyre - Ovetã apysẽ
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Tenda ñemoneĩmbyre - Ovetã apysẽ
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Ikatu rehechauka mba’e ñanduti renda guivépa ikatu reike ovetã apysẽme. Ehai kundaharape ha’etéva tenda remoneĩsévape ha ejopy Ñemoneĩ.
 
 ## Exceptions - Saved Logins
@@ -140,6 +125,9 @@ permissions-site-autoplay-desc = Ko’ápe ikatu eñangareko umi tenda ndohapyku
 permissions-site-notification-window =
     .title = Ñemboheko - Momarandu ñemoneĩ
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Ñemboheko - Momarandu ñemoneĩ
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Ko’ã ñanduti renda omba’ejerure ne momarandu hag̃ua. Ikatu emyesakã máva umi ñanduti renda ñemoneĩmbyre ne momarandukuaáva. Avéi ikatu ejoko mba’ejerure pyahu emoneĩ hag̃ua ñemomarandu.
 permissions-site-notification-disable-label =
     .label = Momarandu mba’ejerure pyahu rehegua jejoko

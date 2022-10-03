@@ -5,16 +5,16 @@
 containers-window-new =
     .title = Embojuaju guerekoha pyahu
     .style = width: 45em
-
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings =
     .title = { $name } Ñemboheko guerekoha
     .style = width: 45em
-
+containers-window-new2 =
+    .title = Embojuaju guerekoha pyahu
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -25,26 +25,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Téra
     .accesskey = T
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Emoinge guerekoha réra
-
 containers-icon-label = Ta’ãngachu’i
     .accesskey = T
     .style = { -containers-labels-style }
-
 containers-color-label = Sa’y
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = Apopyre
     .buttonaccesskeyaccept = A
-
 containers-color-blue =
     .label = Hovy
 containers-color-turquoise =
@@ -63,7 +57,6 @@ containers-color-purple =
     .label = Pytãũ
 containers-color-toolbar =
     .label = Embojoja tembipuru renda
-
 containers-icon-fence =
     .label = Korajere
 containers-icon-fingerprint =
