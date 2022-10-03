@@ -5,4 +5,6 @@
 select-bookmark-window =
     .title = Set Home Page
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = Set Home Page
+    .style = min-width: 32em;
