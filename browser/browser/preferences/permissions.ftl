@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Introduzca un nombre de servidor válido
 permissions-exceptions-etp-window =
     .title = Excepciones a la protección antirrastreo mejorada
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Excepciones a la protección antirrastreo mejorada
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Has desactivado las protecciones en estos sitios.
 
 ## Exceptions - Cookies
