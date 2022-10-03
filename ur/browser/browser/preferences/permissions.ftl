@@ -76,6 +76,9 @@ permissions-invalid-uri-label = کوئی جائز نام میزبان داخل �
 permissions-exceptions-etp-window =
     .title = بہتر ٹریکنگ سے حفاظت کے لئے استثنا
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = بہتر ٹریکنگ سے حفاظت کے لئے استثنا
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = آپ نے ان ویب سائٹوں پر تحفظات بند کردیئے ہیں۔
 
 ## Exceptions - Cookies
