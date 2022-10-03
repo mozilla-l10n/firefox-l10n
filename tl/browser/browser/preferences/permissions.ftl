@@ -5,6 +5,9 @@
 permissions-window =
     .title = Mga Exception
     .style = width: 45em
+permissions-window2 =
+    .title = Mga Exception
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = Address ng website
