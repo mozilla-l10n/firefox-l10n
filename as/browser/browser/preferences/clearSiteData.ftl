@@ -5,6 +5,9 @@
 clear-site-data-window =
     .title = ডাটা পৰিষ্কাৰ কৰক
     .style = width: 35em
+clear-site-data-window2 =
+    .title = ডাটা পৰিষ্কাৰ কৰক
+    .style = min-width: 35em
 clear-site-data-description = { -brand-short-name }-এ সঞ্চয় কৰা সকলো কুকীজ আৰু ছাইট ডাটা পৰিষ্কাৰ কৰাটোৱে আপোনাক ৱেবছাইটবোৰৰ পৰা ছাইন আউট কৰাই আৰু অফলাইন ৱেব সমল আঁতৰাই দিব পাৰে। কেশ্ব ডাটা পৰিষ্কাৰ কৰাটোৱে আপোনাৰ লগইনবোৰক প্ৰভাৱিত নকৰে।
 clear-site-data-close-key =
     .key = w
