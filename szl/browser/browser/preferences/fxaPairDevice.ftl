@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. Ôdewrzij <b>myni</b> (<img data-l10n-name="ios-me
 fxa-qrcode-heading-step4 = 4. Zeskanuj tyn kod:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = Synchrōnizuj aplikacyjo { -brand-product-name } na swojim telefōnie abo tablecie
 fxa-qrcode-pair-step1 = 1. Ôderzij aplikacyjo { -brand-product-name } na swojij mobilnyj maszinie.
 fxa-qrcode-pair-step2 = 2. Ôdewrzij <strong>myni</strong> (<img data-l10n-name="ios-menu-icon"/> na iOS abo <img data-l10n-name="android-menu-icon"/> na Androidzie) i tyknij <strong>Zaloguj sie do synchrōnizacyje</strong>
