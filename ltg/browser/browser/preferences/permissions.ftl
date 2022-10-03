@@ -82,6 +82,9 @@ permissions-exceptions-popup-desc = Jius varot nūruodeit, kurom lopom ir atļau
 permissions-exceptions-saved-logins-window =
     .title = Izjāmumi - Saglobuotuos paroles
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Izjāmumi - Saglobuotuos paroles
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Itū vītņu paroles natiks saglobuotys
 
 ## Exceptions - Add-ons
