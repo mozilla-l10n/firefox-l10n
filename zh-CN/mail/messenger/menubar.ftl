@@ -65,6 +65,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = 退出 { -brand-shorter-name }
 quit-app-shortcut =
     .key = Q
 
