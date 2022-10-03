@@ -116,6 +116,9 @@ permissions-exceptions-popup-desc = Puede especificar qué puestos web pueden ub
 permissions-exceptions-saved-logins-window =
     .title = Excepcions - Inicios de sesión alzaus
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Excepcions - Inicios de sesión alzaus
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = No s'alzarán los datos d'inicio en os siguients puestos web
 
 ## Exceptions - Add-ons
