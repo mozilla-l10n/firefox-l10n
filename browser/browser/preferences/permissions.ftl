@@ -66,6 +66,9 @@ permissions-invalid-uri-label = অনুগ্রহ করে কার্য�
 permissions-exceptions-etp-window =
     .title = বর্ধিত ট্র্যাকিং সুরক্ষার জন্য ব্যতিক্রম
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = বর্ধিত ট্র্যাকিং সুরক্ষার জন্য ব্যতিক্রম
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = আপনি এই ওয়েবসাইটে সুরক্ষা বন্ধ করেছেন।
 
 ## Exceptions - Cookies
