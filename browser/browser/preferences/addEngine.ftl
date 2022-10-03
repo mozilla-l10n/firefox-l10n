@@ -5,6 +5,9 @@
 add-engine-window =
     .title = සෙවුම් යන්ත්‍රය එක් කරන්න
     .style = width: 32em;
+add-engine-window2 =
+    .title = සෙවුම් යන්ත්‍රය එක් කරන්න
+    .style = min-width: 32em;
 add-engine-button = අභිරුචි යන්ත්‍රය එක් කරන්න
 add-engine-name = සෙවුම් යන්ත්‍රයේ නම
 add-engine-alias = අපනාමය

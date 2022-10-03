@@ -5,6 +5,9 @@
 app-manager-window =
     .title = යෙදුමේ විස්තර
     .style = width: 30em; min-height: 20em;
+app-manager-window2 =
+    .title = යෙදුමේ විස්තර
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = ඉවත් කරන්න
     .accesskey = R
