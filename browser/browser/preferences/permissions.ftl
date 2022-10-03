@@ -96,6 +96,9 @@ permissions-exceptions-cookie-desc = Anda dapat menentukan situs web mana saja y
 permissions-exceptions-https-only-window =
     .title = Pengecualian - Mode HTTPS-Only
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Pengecualian - Mode HTTPS-Only
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Anda dapat mematikan Mode HTTPS-Saja untuk situs web tertentu. { -brand-short-name } tidak akan mencoba meningkatkan sambungan ke HTTPS aman untuk situs-situs tersebut. Pengecualian tidak berlaku untuk jendela-jendela pribadi.
 
 ## Exceptions - Pop-ups
