@@ -5,6 +5,9 @@
 permissions-window =
     .title = ข้อยกเว้น
     .style = width: 45em
+permissions-window2 =
+    .title = ข้อยกเว้น
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = ที่อยู่เว็บไซต์
