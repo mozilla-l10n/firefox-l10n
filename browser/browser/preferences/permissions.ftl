@@ -5,6 +5,9 @@
 permissions-window =
     .title = Exceptions
     .style = width: 50em
+permissions-window2 =
+    .title = Exceptions
+    .style = min-width: 50em
 permissions-close-key =
     .key = w
 permissions-address = Adresse du site web
@@ -110,6 +113,9 @@ permissions-exceptions-popup-desc = Vous pouvez indiquer les sites web autorisé
 permissions-exceptions-saved-logins-window =
     .title = Exceptions - Enregistrement des identifiants
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Exceptions - Enregistrement des identifiants
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Les identifiants pour les sites suivants ne seront pas enregistrés
 
 ## Exceptions - Add-ons
