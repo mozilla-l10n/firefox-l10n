@@ -5,36 +5,29 @@
 translation-window =
     .title = Excepcións - Tradución
     .style = width: 36em
-
+translation-window2 =
+    .title = Excepcións - Tradución
+    .style = min-width: 36em
 translation-close-key =
     .key = w
-
 translation-languages-disabled-desc = Non se ofrecerá a tradución para os seguintes idiomas
-
 translation-languages-column =
     .label = Idiomas
-
 translation-languages-button-remove =
     .label = Retirar idioma
     .accesskey = R
-
 translation-languages-button-remove-all =
     .label = Retirar todos os idiomas
     .accesskey = e
-
 translation-sites-disabled-desc = Non se ofrecerá a tradución para os seguintes sitios
-
 translation-sites-column =
     .label = Sitios web
-
 translation-sites-button-remove =
     .label = Retirar sitio
     .accesskey = s
-
 translation-sites-button-remove-all =
     .label = Retirar todos os sitios
     .accesskey = i
-
 translation-dialog =
     .buttonlabelaccept = Pechar
     .buttonaccesskeyaccept = c

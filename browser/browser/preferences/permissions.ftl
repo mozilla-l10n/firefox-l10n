@@ -5,77 +5,62 @@
 permissions-window =
     .title = Excepcións
     .style = width: 45em
-
+permissions-window2 =
+    .title = Excepcións
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
-
 permissions-address = Enderezo do sitio web
     .accesskey = d
-
 permissions-block =
     .label = Bloquear
     .accesskey = B
-
 permissions-session =
     .label = Permitir nesta sesión
     .accesskey = s
-
 permissions-allow =
     .label = Permitir
     .accesskey = P
-
 permissions-button-off =
     .label = Apagar
     .accesskey = A
-
 permissions-button-off-temporarily =
     .label = Desactivar temporalmente
     .accesskey = t
-
 permissions-site-name =
     .label = Sitio web
-
 permissions-status =
     .label = Estado
-
 permissions-remove =
     .label = Retirar sitio web
     .accesskey = R
-
 permissions-remove-all =
     .label = Retirar todos os sitios web
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Gardar cambios
     .buttonaccesskeyaccept = b
-
 permissions-autoplay-menu = Por omisión, para todos os sitios web:
-
 permissions-searchbox =
     .placeholder = Buscar sitio web
-
 permissions-capabilities-autoplay-allow =
     .label = Permitir son e vídeo
 permissions-capabilities-autoplay-block =
     .label = Bloquear son
 permissions-capabilities-autoplay-blockall =
     .label = Bloquear son e vídeo
-
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Bloquear
 permissions-capabilities-prompt =
     .label = Preguntar sempre
-
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Bloquear
 permissions-capabilities-listitem-allow-session =
     .value = Permitir nesta sesión
-
 permissions-capabilities-listitem-off =
     .value = Desactivado
 permissions-capabilities-listitem-off-temporarily =
