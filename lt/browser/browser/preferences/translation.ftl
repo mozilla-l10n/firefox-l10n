@@ -5,36 +5,29 @@
 translation-window =
     .title = Tinklalapių vertimo išimtys
     .style = width: 36em
-
+translation-window2 =
+    .title = Tinklalapių vertimo išimtys
+    .style = min-width: 36em
 translation-close-key =
     .key = w
-
 translation-languages-disabled-desc = Nesiūlyti versti tinklalapių iš šių kalbų
-
 translation-languages-column =
     .label = Kalbos
-
 translation-languages-button-remove =
     .label = Pašalinti kalbą
     .accesskey = k
-
 translation-languages-button-remove-all =
     .label = Pašalinti visas kalbas
     .accesskey = a
-
 translation-sites-disabled-desc = Nesiūlyti versti tinklalapių šiose svetainėse
-
 translation-sites-column =
     .label = Svetainės
-
 translation-sites-button-remove =
     .label = Pašalinti svetainę
     .accesskey = s
-
 translation-sites-button-remove-all =
     .label = Pašalinti visas svetaines
     .accesskey = v
-
 translation-dialog =
     .buttonlabelaccept = Užverti
     .buttonaccesskeyaccept = U

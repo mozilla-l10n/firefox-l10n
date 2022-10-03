@@ -5,15 +5,15 @@
 app-manager-window =
     .title = Programų savybės
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = Programų savybės
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = Pašalinti
     .accesskey = š
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Su { $type } tipo saitais geba dirbti šios programos
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Su { $type } tipo failais geba dirbti šios programos
