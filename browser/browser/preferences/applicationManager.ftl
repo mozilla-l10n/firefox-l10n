@@ -5,15 +5,15 @@
 app-manager-window =
     .title = ਐਪਲੀਕੇਸ਼ਨ ਵੇਰਵੇ
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = ਐਪਲੀਕੇਸ਼ਨ ਵੇਰਵੇ
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = ਹਟਾਓ
     .accesskey = ਹ
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = ਅੱਗੇ ਦਿੱਤੀਆਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਨੂੰ { $type } ਲਿੰਕ ਹੈਂਡਲ ਕਰਨ ਲਈ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ।
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = ਅੱਗੇ ਦਿੱਤੀਆਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਨੂੰ { $type } ਸਮੱਗਰੀ ਹੈਂਡਲ ਕਰਨ ਲਈ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ।
