@@ -504,6 +504,7 @@ sharing-warning-disable-for-session =
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Pro usar le clave de accesso directe F12, aperi primo le instrumentos de disveloppamento per le menu “Disveloppamento Web”.
+enable-devtools-popup-description2 = Pro usar le via breve de claviero F12, aperi primo le DevTools per le “Menu del utensiles de navigator”.
 
 ## URL Bar
 
