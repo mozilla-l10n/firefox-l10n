@@ -5,36 +5,29 @@
 translation-window =
     .title = חריגות - תרגום
     .style = width: 36em
-
+translation-window2 =
+    .title = חריגות - תרגום
+    .style = min-width: 36em
 translation-close-key =
     .key = w
-
 translation-languages-disabled-desc = שירות התרגום לא יוצע עבור השפות הבאות
-
 translation-languages-column =
     .label = שפות
-
 translation-languages-button-remove =
     .label = הסרת שפה
     .accesskey = ס
-
 translation-languages-button-remove-all =
     .label = הסרת כל השפות
     .accesskey = כ
-
 translation-sites-disabled-desc = שירות התרגום לא יוצע עבור האתרים הבאים
-
 translation-sites-column =
     .label = אתרים
-
 translation-sites-button-remove =
     .label = הסרת אתר
     .accesskey = ר
-
 translation-sites-button-remove-all =
     .label = הסרת כל האתרים
     .accesskey = ל
-
 translation-dialog =
     .buttonlabelaccept = סגירה
     .buttonaccesskeyaccept = ג
