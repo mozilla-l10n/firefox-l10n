@@ -5,6 +5,9 @@
 clear-site-data-window =
     .title = Cancele i dâts
     .style = width: 35em
+clear-site-data-window2 =
+    .title = Cancele i dâts
+    .style = min-width: 35em
 clear-site-data-description = Se tu cancelis ducj i cookies e i dâts dal sît memorizâts in { -brand-short-name } tu podaressis cjatâti fûr dai sîts web dulà che tu ti jeris regjistrât. Ancje il contignût web fûr rêt al vignarà eliminât. La pulizie de cache no à nissune conseguence sui tiei acès.
 clear-site-data-close-key =
     .key = w

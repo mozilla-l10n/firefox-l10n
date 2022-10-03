@@ -10,6 +10,9 @@ containers-window-new =
 containers-window-update-settings =
     .title = Impostazions contignidôr { $name }
     .style = width: 45em
+containers-window-new2 =
+    .title = Zonte un gnûf contignidôr
+    .style = min-width: 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
