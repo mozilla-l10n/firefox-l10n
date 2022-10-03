@@ -5,36 +5,29 @@
 translation-window =
     .title = Pengecualian - Terjemahan
     .style = width: 36em
-
+translation-window2 =
+    .title = Pengecualian - Terjemahan
+    .style = min-width: 36em
 translation-close-key =
     .key = w
-
 translation-languages-disabled-desc = Terjemahan tidak akan disediakan untuk bahasa berikut
-
 translation-languages-column =
     .label = Bahasa
-
 translation-languages-button-remove =
     .label = Buang Bahasa
     .accesskey = B
-
 translation-languages-button-remove-all =
     .label = Buang Semua Bahasa
     .accesskey = u
-
 translation-sites-disabled-desc = Terjemahan tidak akan disediakan untuk laman berikut
-
 translation-sites-column =
     .label = Laman web
-
 translation-sites-button-remove =
     .label = Buang Laman
     .accesskey = L
-
 translation-sites-button-remove-all =
     .label = Buang Semua Laman
     .accesskey = u
-
 translation-dialog =
     .buttonlabelaccept = Tutup
     .buttonaccesskeyaccept = u
