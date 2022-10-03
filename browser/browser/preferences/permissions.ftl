@@ -5,6 +5,9 @@
 permissions-window =
     .title = Utsûnderingen
     .style = width: 45em
+permissions-window2 =
+    .title = Utsûnderingen
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = Adres fan de website
