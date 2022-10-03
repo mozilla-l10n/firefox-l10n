@@ -5,5 +5,7 @@
 select-bookmark-window =
     .title = Ορισμός αρχικής σελίδας
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = Ορισμός αρχικής σελίδας
+    .style = min-width: 32em;
 select-bookmark-desc = Επιλέξτε έναν σελιδοδείκτη για να γίνει η αρχική σας σελίδα. Αν επιλέξετε έναν φάκελο, οι σελιδοδείκτες που βρίσκονται σε αυτόν θα ανοίγουν σε καρτέλες.
