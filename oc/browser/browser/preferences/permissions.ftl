@@ -94,6 +94,9 @@ permissions-exceptions-https-only-desc = Podètz desactivar lo mòde HTTPS solam
 permissions-exceptions-popup-window =
     .title = Sites web autorizats - Fenèstras sorgissentas
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Sites web autorizats - Fenèstras sorgissentas
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Podètz indicar los sites web qu'autorizatz a dobrir de fenèstras sorgissentas. Picatz l'adreça exacta del site que volètz autorizar puèi clicatz sus Autorizar.
 
 ## Exceptions - Saved Logins
@@ -101,6 +104,9 @@ permissions-exceptions-popup-desc = Podètz indicar los sites web qu'autorizatz 
 permissions-exceptions-saved-logins-window =
     .title = Excepcions - Senhals salvats
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Excepcions - Senhals salvats
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Los senhals pels sites web seguents seràn pas salvats
 
 ## Exceptions - Add-ons
@@ -108,6 +114,9 @@ permissions-exceptions-saved-logins-desc = Los senhals pels sites web seguents s
 permissions-exceptions-addons-window =
     .title = Sites web autorizats - Moduls complementaris
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Sites web autorizats - Moduls complementaris
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Podètz indicar los sites web qu'autorizatz a installar de moduls complementaris. Picatz l'adreça exacta del site que volètz autorizar puèi clicatz sus Autorizar.
 
 ## Site Permissions - Autoplay
@@ -122,6 +131,9 @@ permissions-site-autoplay-desc = Podètz gerir aquí los sites que seguisson pas
 permissions-site-notification-window =
     .title = Paramètres - Permissions de notificacion
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Paramètres - Permissions de notificacion
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Los sites seguents an demandat a vos mandar de notificacion. Podètz causir quines sites pòdon vos en mandar. Podètz tanben blocar de novèlas demandas d’autorizacion.
 permissions-site-notification-disable-label =
     .label = Blocar las novèlas demandas de notificacions
@@ -132,6 +144,9 @@ permissions-site-notification-disable-desc = Aquò empacha quin site que siá pa
 permissions-site-location-window =
     .title = Paramètres - Permission de localizacion
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Paramètres - Permission de localizacion
+    .style = { permissions-window2.style }
 permissions-site-location-desc = Los sites seguents an demandat l’accès a vòstra adreça. Podètz causir quines sites pòdon i accedir. Podètz tanben blocar de novèlas demandas d’accès a vòstra adreça.
 permissions-site-location-disable-label =
     .label = Blocar las novèlas demandas d’accès a vòstra adreça
@@ -162,6 +177,9 @@ permissions-site-camera-disable-desc = Aquò empacha quin site que siá pas list
 permissions-site-microphone-window =
     .title = Paramètres - Permission pel microfòn
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = Paramètres - Permission pel microfòn
+    .style = { permissions-window2.style }
 permissions-site-microphone-desc = Los sites seguents an demandat l’accès a vòstre microfòn. Podètz causir quines sites pòdon i accedir. Podètz tanben blocar de novèlas demandas d’accès a vòstre microfòn.
 permissions-site-microphone-disable-label =
     .label = Blocar las novèlas demandas d’accès al microfòn
