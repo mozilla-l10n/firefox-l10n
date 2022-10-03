@@ -5,6 +5,9 @@
 webpage-languages-window =
     .title = ওয়েবপাতার ভাষা সেটিং
     .style = width: 40em
+webpage-languages-window2 =
+    .title = ওয়েবপাতার ভাষা সেটিং
+    .style = min-width: 40em
 languages-close-key =
     .key = w
 languages-description = অনেক ক্ষেত্রে ওয়েবপাতাগুলো একাধিক ভাষা সমর্থন করে। আপনার পছন্দ অনুসারে, ওয়েবপাতা প্রদর্শনের ভাষার ক্রম নির্বাচন করুন
