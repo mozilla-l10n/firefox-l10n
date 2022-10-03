@@ -5,6 +5,9 @@
 permissions-window =
     .title = Exceções
     .style = width: 45em
+permissions-window2 =
+    .title = Exceções
+    .style = min-width: 45em
 permissions-close-key =
     .key = W
 permissions-address = Endereço do site
