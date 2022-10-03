@@ -5,36 +5,29 @@
 translation-window =
     .title = Výjimky z překladů
     .style = width: 36em
-
+translation-window2 =
+    .title = Výjimky z překladů
+    .style = min-width: 36em
 translation-close-key =
     .key = w
-
 translation-languages-disabled-desc = Překlady nebudou nabízeny pro následující jazyky
-
 translation-languages-column =
     .label = Jazyky
-
 translation-languages-button-remove =
     .label = Odebrat jazyk
     .accesskey = r
-
 translation-languages-button-remove-all =
     .label = Odebrat všechny jazyky
     .accesskey = y
-
 translation-sites-disabled-desc = Překlady nebudou nabízeny pro následující servery
-
 translation-sites-column =
     .label = Server
-
 translation-sites-button-remove =
     .label = Odebrat server
     .accesskey = O
-
 translation-sites-button-remove-all =
     .label = Odebrat všechny servery
     .accesskey = e
-
 translation-dialog =
     .buttonlabelaccept = Zavřít
     .buttonaccesskeyaccept = Z

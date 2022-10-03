@@ -11,5 +11,7 @@ fxa-qrcode-heading-step3 = 3. Otevřete <b>nabídku</b> (<img data-l10n-name="io
 fxa-qrcode-heading-step4 = 4. Naskenujte tento kód:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-error-title = Párování se nezdařilo.
 fxa-qrcode-error-body = Zkuste to znovu.
