@@ -5,14 +5,13 @@
 blocklist-window =
     .title = ‌‍ನಿಬಂಧಿಸಿದ ಪಟ್ಟಿಗಳು
     .style = width: 55em
-
+blocklist-window2 =
+    .title = ‌‍ನಿಬಂಧಿಸಿದ ಪಟ್ಟಿಗಳು
+    .style = min-width: 55em
 blocklist-close-key =
     .key = w
-
 blocklist-treehead-list =
     .label = ಪಟ್ಟಿ
-
-
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."
@@ -21,4 +20,3 @@ blocklist-treehead-list =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-
