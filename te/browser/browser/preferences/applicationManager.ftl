@@ -5,15 +5,15 @@
 app-manager-window =
     .title = అనువర్తనపు వివరాలు
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = అనువర్తనపు వివరాలు
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = తీసివేయి
     .accesskey = R
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = { $type }లంకెలను సంభాళించుటకు ఈ క్రింది అనువర్తనాలను వాడవచ్చు.
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = { $type } సారము ను సంభాళించుటకు ఈ క్రింది అనువర్తనాలను ఉపయోగించవచ్చు.
