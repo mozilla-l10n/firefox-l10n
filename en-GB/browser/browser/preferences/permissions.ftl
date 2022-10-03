@@ -133,6 +133,9 @@ permissions-exceptions-addons-desc = You can specify which web sites are allowed
 permissions-site-autoplay-window =
     .title = Settings - Autoplay
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Settings - Autoplay
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = You can manage the sites that do not follow your default autoplay settings here.
 
 ## Site Permissions - Notifications
