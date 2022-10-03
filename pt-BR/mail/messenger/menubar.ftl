@@ -53,6 +53,23 @@ menu-help-troubleshooting-info =
 menu-help-about-product =
     .label = Sobre o { -brand-short-name }
     .accesskey = S
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Sair
+           *[other] Sair
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] S
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Sair do { -brand-shorter-name }
+quit-app-shortcut =
+    .key = S
 
 ## Mail Toolbar
 
