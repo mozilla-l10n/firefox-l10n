@@ -5,10 +5,11 @@
 containers-window-new =
     .title = નવું કન્ટેઈનર ઉમેરો
     .style = width: 45em
-
+containers-window-new2 =
+    .title = નવું કન્ટેઈનર ઉમેરો
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -19,26 +20,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = નામ
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = કન્ટેઈનરમાં નામ દાખલ કરો
-
 containers-icon-label = ચિહ્ન
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = રંગ
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = પૂર્ણ થયું
     .buttonaccesskeyaccept = D
-
 containers-color-blue =
     .label = ભૂરી
 containers-color-turquoise =
@@ -55,7 +50,6 @@ containers-color-pink =
     .label = ગુલાબી
 containers-color-purple =
     .label = જાંબલી
-
 containers-icon-fingerprint =
     .label = આંગળીની છાપ
 containers-icon-briefcase =
