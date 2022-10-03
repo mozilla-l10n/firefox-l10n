@@ -5,6 +5,9 @@
 translation-window =
     .title = Utsûnderingen – Oersetting
     .style = width: 36em
+translation-window2 =
+    .title = Utsûnderingen – Oersetting
+    .style = min-width: 36em
 translation-close-key =
     .key = w
 translation-languages-disabled-desc = Foar de folgjende talen sil gjin oersetting oanbean wurde
