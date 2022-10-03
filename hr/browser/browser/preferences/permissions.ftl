@@ -96,6 +96,9 @@ permissions-exceptions-cookie-desc = Možeš odrediti web stranice, koje smiju u
 permissions-exceptions-https-only-window =
     .title = Iznimke - način rada "samo HTTPS"
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Iznimke - način rada "samo HTTPS"
+    .style = { permissions-window2.style }
 
 ## Exceptions - Pop-ups
 
