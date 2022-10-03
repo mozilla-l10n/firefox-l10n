@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Prosim, vnesite veljaven naslov.
 permissions-exceptions-etp-window =
     .title = Izjeme za izboljšano zaščito pred sledenjem
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Izjeme za izboljšano zaščito pred sledenjem
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Za te spletne strani ste izklopili zaščito.
 
 ## Exceptions - Cookies
@@ -169,6 +172,9 @@ permissions-site-location-disable-desc = To bo preprečilo, da bi katera koli sp
 permissions-site-xr-window =
     .title = Nastavitve – Dovoljenja navidezne resničnosti
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Nastavitve – Dovoljenja navidezne resničnosti
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Naslednje spletne strani so zahtevale dostop do vaših naprav navidezne resničnosti. Določite lahko, katere spletne strani lahko dostopajo do vaših naprav navidezne resničnosti. Prav tako lahko zavrnete nove zahteve za dostop do vaših naprav navidezne resničnosti.
 permissions-site-xr-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo informacijo o napravah navidezne resničnosti
