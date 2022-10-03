@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. יש לפתוח את <b>התפריט</b> (<img dat
 fxa-qrcode-heading-step4 = 4. לבסוף, יש לסרוק את הקוד הזה:
 fxa-pair-device-dialog-sync =
     .style = width: 32em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 32em;
 fxa-qrcode-pair-title = סנכרון { -brand-product-name } בטלפון או במחשב לוח שלך
 fxa-qrcode-pair-step1 = 1. יש לפתוח את { -brand-product-name } במכשיר הנייד שלך.
 fxa-qrcode-pair-step2 = 2. יש לפתוח את <strong>התפריט</strong> (<img data-l10n-name="ios-menu-icon"/> ב־iOS או <img data-l10n-name="android-menu-icon"/> ב־Android) ולהקיש על <strong>כניסה כדי לסנכרן</strong>
