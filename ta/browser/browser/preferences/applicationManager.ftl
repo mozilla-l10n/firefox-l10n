@@ -5,15 +5,15 @@
 app-manager-window =
     .title = பயன்பாட்டு விவரங்கள்
     .style = width: 30em; min-height: 20em;
-
+app-manager-window2 =
+    .title = பயன்பாட்டு விவரங்கள்
+    .style = min-width: 30em; min-height: 20em;
 app-manager-remove =
     .label = நீக்கு
     .accesskey = ந
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = பின்வரும் பயன்பாடுகள் { $type } இணைப்புகள்-ஐ கையாள பயன்படுத்தப்படும்.
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = பின்வரும் பயன்பாடுகள் { $type } உள்ளடக்கம்-ஐ கையாள பயன்படுத்தப்படும்.
