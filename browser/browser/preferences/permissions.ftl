@@ -5,77 +5,62 @@
 permissions-window =
     .title = Excepciones
     .style = width: 36em
-
+permissions-window2 =
+    .title = Excepciones
+    .style = min-width: 36em
 permissions-close-key =
     .key = w
-
 permissions-address = Dirección del sitio web
     .accesskey = d
-
 permissions-block =
     .label = Bloquear
     .accesskey = B
-
 permissions-session =
     .label = Permitir por esta sesión
     .accesskey = s
-
 permissions-allow =
     .label = Permitir
     .accesskey = P
-
 permissions-button-off =
     .label = Desactivar
     .accesskey = O
-
 permissions-button-off-temporarily =
     .label = Desactivar temporalmente
     .accesskey = T
-
 permissions-site-name =
     .label = Sitio web
-
 permissions-status =
     .label = Estado
-
 permissions-remove =
     .label = Eliminar sitio web
     .accesskey = R
-
 permissions-remove-all =
     .label = Eliminar todos los sitios
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Guardar cambios
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Opción predeterminada para todos los sitios:
-
 permissions-searchbox =
     .placeholder = Buscar sitio web
-
 permissions-capabilities-autoplay-allow =
     .label = Permitir audio y video
 permissions-capabilities-autoplay-block =
     .label = Bloquear audio
 permissions-capabilities-autoplay-blockall =
     .label = Bloquear audio y video
-
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Bloquear
 permissions-capabilities-prompt =
     .label = Preguntar siempre
-
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Bloquear
 permissions-capabilities-listitem-allow-session =
     .value = Permitir por esta sesión
-
 permissions-capabilities-listitem-off =
     .value = Desactivado
 permissions-capabilities-listitem-off-temporarily =
@@ -91,6 +76,9 @@ permissions-invalid-uri-label = Por favor, introduce un nombre de servidor váli
 permissions-exceptions-etp-window =
     .title = Excepciones para la protección de seguimiento mejorada
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Excepciones para la protección de seguimiento mejorada
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Has desactivado la protección en estos sitios web.
 
 ## Exceptions - Cookies
@@ -98,6 +86,9 @@ permissions-exceptions-etp-desc = Has desactivado la protección en estos sitios
 permissions-exceptions-cookie-window =
     .title = Excepciones - Cookies y datos de sitio
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Excepciones - Cookies y datos de sitio
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Puedes especificar qué sitios siempre o nunca podrán usar cookies y datos de sitio. Escribe la dirección exacta del sitio que deseas gestionar y luego haz clic en Bloquear, Permitir por esta sesión o Permitir.
 
 ## Exceptions - HTTPS-Only Mode
@@ -105,6 +96,9 @@ permissions-exceptions-cookie-desc = Puedes especificar qué sitios siempre o nu
 permissions-exceptions-https-only-window =
     .title = Excepciones - Modo solo HTTPS
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Excepciones - Modo solo HTTPS
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Puedes desactivar el modo solo HTTPS para sitios web específicos. { -brand-short-name } no intentará actualizar la conexión para asegurar HTTPS en esos sitios. Las excepciones no se aplican a las ventanas privadas.
 
 ## Exceptions - Pop-ups
@@ -112,6 +106,9 @@ permissions-exceptions-https-only-desc = Puedes desactivar el modo solo HTTPS pa
 permissions-exceptions-popup-window =
     .title = Sitios web permitidos - Ventanas emergentes
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Sitios web permitidos - Ventanas emergentes
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Puedes especificar qué sitios web pueden abrir ventanas emergentes. Escribe la dirección exacta del sitio que deseas permitir y luego haz clic en Permitir.
 
 ## Exceptions - Saved Logins
@@ -119,6 +116,9 @@ permissions-exceptions-popup-desc = Puedes especificar qué sitios web pueden ab
 permissions-exceptions-saved-logins-window =
     .title = Excepciones - Credenciales guardadas
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Excepciones - Credenciales guardadas
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Las credenciales para los siguientes sitios no serán guardadas
 
 ## Exceptions - Add-ons
@@ -126,6 +126,9 @@ permissions-exceptions-saved-logins-desc = Las credenciales para los siguientes 
 permissions-exceptions-addons-window =
     .title = Sitios web permitidos - Instalación de complementos
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Sitios web permitidos - Instalación de complementos
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Puedes especificar qué sitios web pueden instalar complementos. Escribe la dirección exacta del sitio que deseas permitir y luego haz clic en Permitir.
 
 ## Site Permissions - Autoplay
@@ -133,6 +136,9 @@ permissions-exceptions-addons-desc = Puedes especificar qué sitios web pueden i
 permissions-site-autoplay-window =
     .title = Ajustes - Autoreproducción
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Ajustes - Autoreproducción
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Puedes gestionar sitios que no siguen tus ajustes de reproducción automática aquí.
 
 ## Site Permissions - Notifications
@@ -140,6 +146,9 @@ permissions-site-autoplay-desc = Puedes gestionar sitios que no siguen tus ajust
 permissions-site-notification-window =
     .title = Ajustes - Permisos de notificación
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Ajustes - Permisos de notificación
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Los siguientes sitios solicitaron enviarte notificaciones. Puedes especificar que sitios están autorizados para enviarte notificaciones. También puedes bloquear futuras solicitudes de envío de notificaciones.
 permissions-site-notification-disable-label =
     .label = Bloquear futuras solicitudes de envío de notificaciones
@@ -160,6 +169,9 @@ permissions-site-location-disable-desc = Esto evitará que los sitios web no lis
 permissions-site-xr-window =
     .title = Ajustes - Permisos de realidad virtual
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Ajustes - Permisos de realidad virtual
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Los siguientes sitios web han solicitado permiso para acceder a tus dispositivos de realidad virtual. Puedes especificar que sitios web tienen acceso a tus dispositivos de realidad virtual. También puedes bloquear futuras solicitudes de acceso a tus dispositivos de realidad virtual.
 permissions-site-xr-disable-label =
     .label = Bloquear futuras solicitudes de acceso a tus dispositivos de realidad virtual
