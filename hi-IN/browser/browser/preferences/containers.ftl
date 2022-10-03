@@ -5,10 +5,11 @@
 containers-window-new =
     .title = नया पात्र जोड़े
     .style = width: 45em
-
+containers-window-new2 =
+    .title = नया पात्र जोड़े
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -19,26 +20,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = नाम
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = एक पात्र का नाम प्रविष्ट करें
-
 containers-icon-label = प्रती‌क
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = रंग
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = कर दिया है
     .buttonaccesskeyaccept = D
-
 containers-color-blue =
     .label = नीला
 containers-color-turquoise =
@@ -57,7 +52,6 @@ containers-color-purple =
     .label = बैंगनी
 containers-color-toolbar =
     .label = टूलबार से मिलाएं
-
 containers-icon-fence =
     .label = घेरा
 containers-icon-fingerprint =
