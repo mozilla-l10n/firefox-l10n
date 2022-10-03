@@ -5,5 +5,7 @@
 select-bookmark-window =
     .title = Зрабіць хатняй старонкай
     .style = width: 32em;
-
+select-bookmark-window2 =
+    .title = Зрабіць хатняй старонкай
+    .style = min-width: 32em;
 select-bookmark-desc = Вылучыце закладку, якая будзе вашай хатняй старонкай. Калі вы выбераце папку, закладкі з гэтай папкі будуць адчыняцца ў устаўках.
