@@ -5,77 +5,62 @@
 permissions-window =
     .title = Осыдан бөлек
     .style = width: 55em
-
+permissions-window2 =
+    .title = Осыдан бөлек
+    .style = min-width: 55em
 permissions-close-key =
     .key = w
-
 permissions-address = Сайт адресі
     .accesskey = д
-
 permissions-block =
     .label = Блоктау
     .accesskey = Б
-
 permissions-session =
     .label = Тек осы сессияға рұқсат беру
     .accesskey = Т
-
 permissions-allow =
     .label = Рұқсат ету
     .accesskey = е
-
 permissions-button-off =
     .label = Сөндіру
     .accesskey = д
-
 permissions-button-off-temporarily =
     .label = Уақытша сөндіру
     .accesskey = т
-
 permissions-site-name =
     .label = Веб сайт
-
 permissions-status =
     .label = Қалып-күйі
-
 permissions-remove =
     .label = Вебсайтты өшіру
     .accesskey = ш
-
 permissions-remove-all =
     .label = Барлық вебсайттарды өшіру
     .accesskey = р
-
 permission-dialog =
     .buttonlabelaccept = Өзгерістерді сақтау
     .buttonaccesskeyaccept = с
-
 permissions-autoplay-menu = Барлық веб-сайттар үшін негізгі:
-
 permissions-searchbox =
     .placeholder = Вебсайттан іздеу
-
 permissions-capabilities-autoplay-allow =
     .label = Аудио және видеоны рұқсат ету
 permissions-capabilities-autoplay-block =
     .label = Аудионы бұғаттау
 permissions-capabilities-autoplay-blockall =
     .label = Аудио мен видеоны бұғаттау
-
 permissions-capabilities-allow =
     .label = Рұқсат ету
 permissions-capabilities-block =
     .label = Болдырмау
 permissions-capabilities-prompt =
     .label = Әрқашан сұрау
-
 permissions-capabilities-listitem-allow =
     .value = Рұқсат ету
 permissions-capabilities-listitem-block =
     .value = Болдырмау
 permissions-capabilities-listitem-allow-session =
     .value = Тек осы сессияға рұқсат ету
-
 permissions-capabilities-listitem-off =
     .value = Сөндіру
 permissions-capabilities-listitem-off-temporarily =
@@ -112,6 +97,9 @@ permissions-exceptions-https-only-desc = Белгілі бір веб-сайтт
 permissions-exceptions-popup-window =
     .title = Рұқсат етілген вебсайттар - "Атып шығатын" терезелер
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Рұқсат етілген вебсайттар - "Атып шығатын" терезелер
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Қай сайттан "атып шығатын" терезелерді қабылдауды осында көрсете аласыз. Сайттың тура адресін енгізіп, «Рұқсат ету» батырмасын басыңыз.
 
 ## Exceptions - Saved Logins
@@ -119,6 +107,9 @@ permissions-exceptions-popup-desc = Қай сайттан "атып шығаты
 permissions-exceptions-saved-logins-window =
     .title = Ережеден тыс - Сақталған логиндер
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Ережеден тыс - Сақталған логиндер
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Келесі сайттар үшін логиндер сақталмайды
 
 ## Exceptions - Add-ons
@@ -126,6 +117,9 @@ permissions-exceptions-saved-logins-desc = Келесі сайттар үшін 
 permissions-exceptions-addons-window =
     .title = Рұқсат етілген вебсайттар - Кеңейтулерді орнату
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Рұқсат етілген вебсайттар - Кеңейтулерді орнату
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Қай сайт кеңейтулерді орната алатынынды осында көрсете аласыз. Сайттың тура адресін енгізіп, «Рұқсат ету» батырмасын басыңыз.
 
 ## Site Permissions - Autoplay
@@ -140,6 +134,9 @@ permissions-site-autoplay-desc = Сіздің негізгі автоойнат�
 permissions-site-notification-window =
     .title = Баптаулар - Хабарламалар рұқсаттары
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Баптаулар - Хабарламалар рұқсаттары
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Келесі веб-сайттар сізге хабарламаларды жіберуді сұраған. Сіз қай веб-сайттарға сізге хабарламалар жібере алатынын таңдай аласыз. Сонымен қатар, хабарламаларды рұқсат етуге жаңа сұранымдарды блоктай аласыз.
 permissions-site-notification-disable-label =
     .label = Хабарламаларды рұқсат етуге жаңа сұранымдарды блоктау
@@ -150,6 +147,9 @@ permissions-site-notification-disable-desc = Бұл төменде тізілм�
 permissions-site-location-window =
     .title = Баптаулар - Орналасулар рұқсаттары
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Баптаулар - Орналасулар рұқсаттары
+    .style = { permissions-window2.style }
 permissions-site-location-desc = Келесі веб-сайттар орналасуыңызға қатынау құқығын сұраған. Сіз қай веб-сайттарға орналасуыңызға қатынауға болатынын таңдай аласыз. Сонымен қатар, орналасуыңызды білуге жаңа сұранымдарды блоктай аласыз.
 permissions-site-location-disable-label =
     .label = Орналасуыңызды білуге жаңа сұранымдарды блоктау
@@ -170,6 +170,9 @@ permissions-site-xr-disable-desc = Бұл төменде тізілмеген в
 permissions-site-camera-window =
     .title = Баптаулар - Камера рұқсаттары
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = Баптаулар - Камера рұқсаттары
+    .style = { permissions-window2.style }
 permissions-site-camera-desc = Келесі веб-сайттар камераңызға қатынау құқығын сұраған. Сіз қай веб-сайттарға камераңызға қатынауға болатынын таңдай аласыз. Сонымен қатар, камераңызға қатынауға жаңа сұранымдарды блоктай аласыз.
 permissions-site-camera-disable-label =
     .label = Камераңызға қатынауға жаңа сұранымдарды блоктау
@@ -180,6 +183,9 @@ permissions-site-camera-disable-desc = Бұл төменде тізілмеге�
 permissions-site-microphone-window =
     .title = Баптаулар - Микрофон рұқсаттары
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = Баптаулар - Микрофон рұқсаттары
+    .style = { permissions-window2.style }
 permissions-site-microphone-desc = Келесі веб-сайттар микрофоныңызға қатынау құқығын сұраған. Сіз қай веб-сайттарға микрофоныңызға қатынауға болатынын таңдай аласыз. Сонымен қатар, микрофоныңызға қатынауға жаңа сұранымдарды блоктай аласыз.
 permissions-site-microphone-disable-label =
     .label = Микрофоныңызға қатынауға жаңа сұранымдарды блоктау

@@ -5,36 +5,29 @@
 translation-window =
     .title = Ережеден тыс - Аударма
     .style = width: 36em
-
+translation-window2 =
+    .title = Ережеден тыс - Аударма
+    .style = min-width: 36em
 translation-close-key =
     .key = w
-
 translation-languages-disabled-desc = Келесі тілдер үшін аударма ұсынылмайтын болады
-
 translation-languages-column =
     .label = Тілдер
-
 translation-languages-button-remove =
     .label = Тілді өшіру
     .accesskey = ш
-
 translation-languages-button-remove-all =
     .label = Барлық тілдерді өшіру
     .accesskey = р
-
 translation-sites-disabled-desc = Келесі сайттар үшін аударма ұсынылмайтын болады
-
 translation-sites-column =
     .label = Вебсайттар
-
 translation-sites-button-remove =
     .label = Сайтты өшіру
     .accesskey = С
-
 translation-sites-button-remove-all =
     .label = Барлық сайттарды өшіру
     .accesskey = й
-
 translation-dialog =
     .buttonlabelaccept = Жабу
     .buttonaccesskeyaccept = Ж
