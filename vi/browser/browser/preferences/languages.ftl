@@ -5,6 +5,9 @@
 webpage-languages-window =
     .title = Cài đặt ngôn ngữ của trang web
     .style = width: 40em
+webpage-languages-window2 =
+    .title = Cài đặt ngôn ngữ của trang web
+    .style = min-width: 40em
 languages-close-key =
     .key = w
 languages-description = Một số trang web có thể cung cấp nhiều ngôn ngữ. Chọn ngôn ngữ để hiển thị các trang web này, theo thứ tự ưu tiên
