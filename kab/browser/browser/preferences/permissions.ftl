@@ -5,77 +5,59 @@
 permissions-window =
     .title = Tisuraf
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Tansa n usmel web
     .accesskey = d
-
 permissions-block =
     .label = Sewḥel
     .accesskey = S
-
 permissions-session =
     .label = Sireg i tɣimit
     .accesskey = S
-
 permissions-allow =
     .label = Sireg
     .accesskey = i
-
 permissions-button-off =
     .label = Sens
     .accesskey = S
-
 permissions-button-off-temporarily =
     .label = Sens i kra n wakud
     .accesskey = S
-
 permissions-site-name =
     .label = Asmel Web
-
 permissions-status =
     .label = Addad
-
 permissions-remove =
     .label = Kkes asmel web
     .accesskey = Z
-
 permissions-remove-all =
     .label = Kkes akk ismal web
     .accesskey = w
-
 permission-dialog =
     .buttonlabelaccept = Sekles asnifel
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = S wudem amezwer i yismal meṛṛa:
-
 permissions-searchbox =
     .placeholder = Nadi asmel web
-
 permissions-capabilities-autoplay-allow =
     .label = Sireg ameslaw d uvidyu
 permissions-capabilities-autoplay-block =
     .label = Sewḥel imesli
 permissions-capabilities-autoplay-blockall =
     .label = Sewḥel imesli d uvidyu
-
 permissions-capabilities-allow =
     .label = Sireg
 permissions-capabilities-block =
     .label = Sewḥel
 permissions-capabilities-prompt =
     .label = Sutur yal tikkelt
-
 permissions-capabilities-listitem-allow =
     .value = Sireg
 permissions-capabilities-listitem-block =
     .value = Sewḥel
 permissions-capabilities-listitem-allow-session =
     .value = Sireg i tɣimit
-
 permissions-capabilities-listitem-off =
     .value = Yensa
 permissions-capabilities-listitem-off-temporarily =
@@ -98,6 +80,9 @@ permissions-exceptions-etp-desc = Tsenseḍ ammesten ɣef yismal-a.
 permissions-exceptions-cookie-window =
     .title = Tisuraf - Inagan n tuqna akked isefka n usmel
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Tisuraf - Inagan n tuqna akked isefka n usmel
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Tzemreḍ ad temmleḍ ismal web yettwasirgen dima neɣ urǧin ttwasirgen ad sqedcen isefka n yismal. Sekcem tansa n usmel sakin sit ɣef Sewḥel, Sireg i tɣimit, neɣ Sireg.
 
 ## Exceptions - HTTPS-Only Mode
@@ -112,6 +97,9 @@ permissions-exceptions-https-only-desc = Tzemreḍ ad tsenseḍ askar HTTPS kan 
 permissions-exceptions-popup-window =
     .title = Ismal yettwasirgen - isfuyla udhimen
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Ismal yettwasirgen - isfuyla udhimen
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Tzemreḍ ad d-tmuddeḍ ismal web ara teǧǧeḍ ad ldin isfuyla udhimen. Sekcem tansa n usmel tebɣiḍ ad teǧǧeḍ sakin sit ɣef Sireg.
 
 ## Exceptions - Saved Logins
@@ -126,6 +114,9 @@ permissions-exceptions-saved-logins-desc = Inekcumen n yismal-agi ur ttwaklasen 
 permissions-exceptions-addons-window =
     .title = Ismal ittusirgen - Asebded n izegrar
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Ismal ittusirgen - Asebded n izegrar
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Tzemreḍ ad d-tmuddeḍ ismal web ara teǧǧeḍ ad sbedden izegrar. Sekcem tansa n usmel tebɣiḍ ad teǧǧeḍ u sit ɣef Sireg.
 
 ## Site Permissions - Autoplay
