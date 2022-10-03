@@ -62,6 +62,9 @@ permissions-invalid-uri-label = Lyudzu, īvodit dereigu resursdatora nūsaukumu
 permissions-exceptions-cookie-window =
     .title = Izjāmumi - seikdatnes un kešatmiņa
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Izjāmumi - seikdatnes un kešatmiņa
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Tu vari nūrōdēt, kurom lopom ir un kurom nav atļauts izmontōt seikdatnes un kešatmiņu. Īroksti precizu lopys adresi un mīdz uz Bloķēt, Atļaut iz seseji  voi Atļaut.
 
 ## Exceptions - HTTPS-Only Mode
