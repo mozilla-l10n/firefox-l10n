@@ -79,6 +79,9 @@ permissions-exceptions-popup-desc = Možete odrediti kojim web stranicama je doz
 permissions-exceptions-saved-logins-window =
     .title = Izuzeci - Spašene prijave
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Izuzeci - Spašene prijave
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Prijave za sljedeće stranice neće biti sačuvane
 
 ## Exceptions - Add-ons

@@ -5,36 +5,29 @@
 translation-window =
     .title = Izuzeci - Prijevod
     .style = width: 36em
-
+translation-window2 =
+    .title = Izuzeci - Prijevod
+    .style = min-width: 36em
 translation-close-key =
     .key = w
-
 translation-languages-disabled-desc = Prijevod neće biti ponuđen za sljedeće jezike
-
 translation-languages-column =
     .label = Jezici
-
 translation-languages-button-remove =
     .label = Ukloni jezik
     .accesskey = U
-
 translation-languages-button-remove-all =
     .label = Ukloni sve jezike
     .accesskey = e
-
 translation-sites-disabled-desc = Prijevod neće biti ponuđen za sljedeće stranice
-
 translation-sites-column =
     .label = Web stranice
-
 translation-sites-button-remove =
     .label = Ukloni stranicu
     .accesskey = s
-
 translation-sites-button-remove-all =
     .label = Ukloni sve stranice
     .accesskey = e
-
 translation-dialog =
     .buttonlabelaccept = Zatvori
     .buttonaccesskeyaccept = Z
