@@ -5,6 +5,9 @@
 permissions-window =
     .title = Unntak
     .style = width: 45em
+permissions-window2 =
+    .title = Unntak
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = Adressen til nettstedet
@@ -113,6 +116,9 @@ permissions-exceptions-popup-desc = Du kan oppgi hvilke nettsted som har tillate
 permissions-exceptions-saved-logins-window =
     .title = Unntak - lagrede innlogginger
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Unntak - lagrede innlogginger
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Innlogginger fra følgende nettsteder vil ikke bli lagret
 
 ## Exceptions - Add-ons
