@@ -76,6 +76,9 @@ permissions-invalid-uri-label = لطفاً نام میزبان معتبری را
 permissions-exceptions-etp-window =
     .title = استثناها برای سیستم محافظت پیشرفته در برابر ردگیری
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = استثناها برای سیستم محافظت پیشرفته در برابر ردگیری
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = شما محافظت از ردگیری را در پایگاه‌های زیر خاموش کرده‌اید.
 
 ## Exceptions - Cookies
@@ -83,6 +86,9 @@ permissions-exceptions-etp-desc = شما محافظت از ردگیری را د�
 permissions-exceptions-cookie-window =
     .title = استثناها - کوکی‌ها و اطلاعات پایگاه‌ها
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = استثناها - کوکی‌ها و اطلاعات پایگاه‌ها
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = می‌توانید تعیین که چه پایگاه‌هایی می‌توانند همیشه یا هرگز دسترسی به کوکی‌ها و اطلاعات پایگاه‌ها داشته باشند. آدرس دقیق سایتی که می‌خواهید مدیریت کنید را وارد کنید و سپس بر روی «مسدود کردن»، «اجازه دادن در این نشست»، یا «اجازه دادن» کلیک کنید.
 
 ## Exceptions - HTTPS-Only Mode
@@ -90,6 +96,9 @@ permissions-exceptions-cookie-desc = می‌توانید تعیین که چه پ
 permissions-exceptions-https-only-window =
     .title = موارد استثنا - حالتِ فقط-HTTPS
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = موارد استثنا - حالتِ فقط-HTTPS
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = شما می‌توانید حالت فقط-HTTPS را برای برخی از وب‌سایت‌ها غیرفعال کنید. { -brand-short-name } سعی به ارتقا اتصال در این وب‌سایت‌ها به HTTPS نخواهد کرد. موارد استثنا در پنجره‌های ناشناس تاثیر ندارند.
 
 ## Exceptions - Pop-ups
@@ -121,6 +130,9 @@ permissions-exceptions-addons-desc = شما می‌توانید مشخص کنی�
 permissions-site-autoplay-window =
     .title = تنظیمات - پخش خودکار
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = تنظیمات - پخش خودکار
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = شما می‌توانید پایگاه‌هایی که از تنظیمات پخش خودکار شما پیروی نمی‌کنند را اینجا مدیریت کنید.
 
 ## Site Permissions - Notifications
@@ -148,6 +160,9 @@ permissions-site-location-disable-desc = این امکان درخواست اجا
 permissions-site-xr-window =
     .title = تنظیمات - مجوزهای واقعیت مجازی
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = تنظیمات - مجوزهای واقعیت مجازی
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = وب‌سایت‌های مقابل درخواست استفاده از دستگاه‌های واقعیت مجازی شما را کرده‌اند. شما می‌توانید تعیین کنید کدام وب‌سایت‌ها امکان استفاده از دستگاه‌های واقعیت مجازی را دارند. شما همچین درخواست‌های جدید برای دسترسی به دستگاه‌های واقعیت مجازی را مسدود کنید.
 permissions-site-xr-disable-label =
     .label = مسدود کردن درخواست‌های جدید برای دسترسی به دستگاه‌های واقعیت مجازی
