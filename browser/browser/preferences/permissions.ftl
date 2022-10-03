@@ -76,6 +76,9 @@ permissions-invalid-uri-label = Sláðu inn löglegt vistfang
 permissions-exceptions-etp-window =
     .title = Undanþágur fyrir aukna rakningarvernd
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Undanþágur fyrir aukna rakningarvernd
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Þú hefur slökkt á vörnum á þessum vefsvæðum.
 
 ## Exceptions - Cookies
@@ -83,6 +86,9 @@ permissions-exceptions-etp-desc = Þú hefur slökkt á vörnum á þessum vefsv
 permissions-exceptions-cookie-window =
     .title = Undantekningar - Vefkökur og gögn vefsvæðis
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Undantekningar - Vefkökur og gögn vefsvæðis
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Þú getur skilgreint hvaða vefsvæði hafa leyfi eða ekki til að geyma vefkökur og gögn.  Settu inn nákvæma slóð fyrir það vefsvæði sem þú vilt sýsla með og smelltu svo á að loka, leyfa fyrir lotu eða leyfa.
 
 ## Exceptions - HTTPS-Only Mode
@@ -90,6 +96,9 @@ permissions-exceptions-cookie-desc = Þú getur skilgreint hvaða vefsvæði haf
 permissions-exceptions-https-only-window =
     .title = Undantekningar - Einungis-HTTPS-hamur
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Undantekningar - Einungis-HTTPS-hamur
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Þú getur slökkt á Einungis-HTTPS-ham fyrir tilteknar vefsíður. { -brand-short-name } mun ekki reyna að uppfæra tenginguna til að tryggja HTTPS fyrir þessar síður. Undantekningar eiga ekki við um huliðsglugga.
 
 ## Exceptions - Pop-ups
@@ -97,6 +106,9 @@ permissions-exceptions-https-only-desc = Þú getur slökkt á Einungis-HTTPS-ha
 permissions-exceptions-popup-window =
     .title = Leyfð vefsvæði - Sprettgluggar
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Leyfð vefsvæði - Sprettgluggar
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Þú getur skilgreint hvaða vefsvæði hafa leyfi til að opna sprettglugga. Settu inn nákvæma vefslóð fyrir vefsvæðið og smelltu svo á að leyfa.
 
 ## Exceptions - Saved Logins
@@ -160,6 +172,9 @@ permissions-site-location-disable-desc = Þetta kemur í veg fyrir að vefsvæð
 permissions-site-xr-window =
     .title = Stillingar - Heimildir fyrir sýndarveruleika
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Stillingar - Heimildir fyrir sýndarveruleika
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Eftirfarandi vefsvæði hafa beðið um að fá að aðgang að sýndarveruleikatækjum. Þú getur skilgreint hvaða vefsvæði hafa aðgang að sýndarveruleikatækjunum þínum. Þú getur einnig lokað á nýjar beiðnir um aðgang að sýndarveruleikatækjum.
 permissions-site-xr-disable-label =
     .label = Loka á nýjar beiðnir sem spyrja um aðgang að sýndarveruleikatækjum
