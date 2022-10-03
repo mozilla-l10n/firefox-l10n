@@ -181,6 +181,7 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = Preconfiguracion per analisar los bugs de ret { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Ret
+profiler-popup-presets-power-description = Preconfiguracion per analisar las avarias ligada a la consomacion energetica dins { -brand-shorter-name }, amb una subrecarga febla.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energia
