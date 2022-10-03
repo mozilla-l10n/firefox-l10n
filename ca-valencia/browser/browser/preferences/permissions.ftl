@@ -96,6 +96,9 @@ permissions-exceptions-cookie-desc = Podeu especificar quins llocs web poden uti
 permissions-exceptions-https-only-window =
     .title = Excepcions - Mode només HTTPS
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Excepcions - Mode només HTTPS
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Podeu desactivar el mode només HTTPS per a llocs web específics. El { -brand-short-name } no intentarà canviar a una connexió HTTPS segura actualitzar per a estos llocs. Les excepcions no s'apliquen a les finestres privades.
 
 ## Exceptions - Pop-ups
