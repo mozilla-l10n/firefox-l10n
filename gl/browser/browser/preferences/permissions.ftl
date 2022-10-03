@@ -83,6 +83,9 @@ permissions-exceptions-etp-desc = Desactivou as proteccións nestes sitios web.
 permissions-exceptions-cookie-window =
     .title = Excepcións - Cookies e datos do sitio
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Excepcións - Cookies e datos do sitio
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Pode especificar que sitios web teñen permiso ou non para usar cookies e datos do sitio. Escriba o enderezo exacto do sitio que quere xestionar e prema Bloquear, Permitir nesta sesión ou Permitir.
 
 ## Exceptions - HTTPS-Only Mode
@@ -97,6 +100,9 @@ permissions-exceptions-https-only-desc = Pode desactivar o modo só HTTPS para s
 permissions-exceptions-popup-window =
     .title = Sitios web permitidos - Xanelas emerxentes
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Sitios web permitidos - Xanelas emerxentes
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Pode especificar que sitios web teñen permiso para abrir xanelas emerxentes. Escriba o enderezo exacto do sitio e despois prema Permitir.
 
 ## Exceptions - Saved Logins
@@ -114,6 +120,9 @@ permissions-exceptions-saved-logins-desc = Non se gardarán as identificacións 
 permissions-exceptions-addons-window =
     .title = Sitios web permitidos - Instalación de complementos
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Sitios web permitidos - Instalación de complementos
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Pode especificar que sitios web teñen permiso para instalar complementos. Escriba o enderezo exacto do sitio e despois prema Permitir.
 
 ## Site Permissions - Autoplay
