@@ -5,36 +5,29 @@
 translation-window =
     .title = Ecezions - Traduzion
     .style = width: 36em
-
+translation-window2 =
+    .title = Ecezions - Traduzion
+    .style = min-width: 36em
 translation-close-key =
     .key = w
-
 translation-languages-disabled-desc = No si ufrirà la traduzion par chestis lenghis
-
 translation-languages-column =
     .label = Lenghis
-
 translation-languages-button-remove =
     .label = Gjave lenghe
     .accesskey = R
-
 translation-languages-button-remove-all =
     .label = Gjave dutis lis lenghis
     .accesskey = e
-
 translation-sites-disabled-desc = No si ufrirà la traduzion par chescj sîts
-
 translation-sites-column =
     .label = Sîts web
-
 translation-sites-button-remove =
     .label = Gjave sît
     .accesskey = s
-
 translation-sites-button-remove-all =
     .label = Gjave ducj i sîts
     .accesskey = î
-
 translation-dialog =
     .buttonlabelaccept = Siere
     .buttonaccesskeyaccept = i

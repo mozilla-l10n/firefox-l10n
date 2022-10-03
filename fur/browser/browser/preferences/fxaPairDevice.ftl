@@ -11,6 +11,8 @@ fxa-qrcode-heading-step3 = 3. Vierç il <b>menù</b> (<img data-l10n-name="ios-m
 fxa-qrcode-heading-step4 = 4. Scansione il codiç:
 fxa-pair-device-dialog-sync =
     .style = width: 37em;
+fxa-pair-device-dialog-sync2 =
+    .style = min-width: 37em;
 fxa-qrcode-pair-title = Sincronize { -brand-product-name } sul to telefon o taulete
 fxa-qrcode-pair-step1 = 1. Vierç { -brand-product-name } sul to dispositîf mobil.
 fxa-qrcode-pair-step2 = 2. Vierç il <strong>menù</strong> (<img data-l10n-name="ios-menu-icon"/> su iOS o <img data-l10n-name="android-menu-icon"/> su Android) e tocje <strong>Jentre par sincronizâ</strong>

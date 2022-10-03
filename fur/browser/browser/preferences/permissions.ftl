@@ -5,6 +5,9 @@
 permissions-window =
     .title = Ecezions
     .style = width: 45em
+permissions-window2 =
+    .title = Ecezions
+    .style = min-width: 45em
 permissions-close-key =
     .key = w
 permissions-address = Direzion dal sît web
@@ -73,6 +76,9 @@ permissions-invalid-uri-label = Inserìs par plasê un non di host valit
 permissions-exceptions-etp-window =
     .title = Ecezions pe protezion des spiis miorade
     .style = { permissions-window.style }
+permissions-exceptions-etp-window2 =
+    .title = Ecezions pe protezion des spiis miorade
+    .style = { permissions-window2.style }
 permissions-exceptions-etp-desc = Tu âs disativât lis protezions su chescj sîts web.
 
 ## Exceptions - Cookies
@@ -80,6 +86,9 @@ permissions-exceptions-etp-desc = Tu âs disativât lis protezions su chescj sî
 permissions-exceptions-cookie-window =
     .title = Ecezions - Cookies e dâts di sîts
     .style = { permissions-window.style }
+permissions-exceptions-cookie-window2 =
+    .title = Ecezions - Cookies e dâts di sîts
+    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Tu puedis specificâ cuai sîts web a puedin doprâ simpri, o mai, i cookies e i dâts di sîts.  Scrîf la direzion esate dal sît che tu desideris gjestî e dopo fâs clic su Bloche, Permet par cheste session opûr Permet.
 
 ## Exceptions - HTTPS-Only Mode
@@ -87,6 +96,9 @@ permissions-exceptions-cookie-desc = Tu puedis specificâ cuai sîts web a puedi
 permissions-exceptions-https-only-window =
     .title = Ecezions - Modalitât Dome-HTTPS
     .style = { permissions-window.style }
+permissions-exceptions-https-only-window2 =
+    .title = Ecezions - Modalitât Dome-HTTPS
+    .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Tu puedis disativâ la modalitât Dome-HTTPS par specifics sîts web. { -brand-short-name } nol cirarà di puartâ la conession par chei sîts su HTTPS sigûr. Lis ecezions no vegnin aplicadis ai barcons privâts.
 
 ## Exceptions - Pop-ups
@@ -94,6 +106,9 @@ permissions-exceptions-https-only-desc = Tu puedis disativâ la modalitât Dome-
 permissions-exceptions-popup-window =
     .title = Sîts web permetûts - Barcon a comparse
     .style = { permissions-window.style }
+permissions-exceptions-popup-window2 =
+    .title = Sîts web permetûts - Barcon a comparse
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Tu puedis specificâ cuâi che a son i sîts che a puedin vierzi barcons a comparse. Inserìs la direzion esate dal sît che tu vuelis dâi il permès e frache su Permet.
 
 ## Exceptions - Saved Logins
@@ -101,6 +116,9 @@ permissions-exceptions-popup-desc = Tu puedis specificâ cuâi che a son i sîts
 permissions-exceptions-saved-logins-window =
     .title = Ecezions - Credenziâls salvadis
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-window2 =
+    .title = Ecezions - Credenziâls salvadis
+    .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Lis credenziâls par chescj sîts web no vignaran salvadis
 
 ## Exceptions - Add-ons
@@ -108,6 +126,9 @@ permissions-exceptions-saved-logins-desc = Lis credenziâls par chescj sîts web
 permissions-exceptions-addons-window =
     .title = Sîts web permetûts - Instalazion zontis
     .style = { permissions-window.style }
+permissions-exceptions-addons-window2 =
+    .title = Sîts web permetûts - Instalazion zontis
+    .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = Tu puedis specificâ cuâi che a son i sîts che a puedin instalâ lis zontis. Inserìs la direzion esate dal sît che tu vuelis dâi il permès e frache Permet.
 
 ## Site Permissions - Autoplay
@@ -115,6 +136,9 @@ permissions-exceptions-addons-desc = Tu puedis specificâ cuâi che a son i sît
 permissions-site-autoplay-window =
     .title = Impostazions - Riproduzion automatiche
     .style = { permissions-window.style }
+permissions-site-autoplay-window2 =
+    .title = Impostazions - Riproduzion automatiche
+    .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Achì tu puedis gjestî i sîts che no van daûr des tôs impostazions predefinidis di riproduzion automatiche.
 
 ## Site Permissions - Notifications
@@ -122,6 +146,9 @@ permissions-site-autoplay-desc = Achì tu puedis gjestî i sîts che no van daû
 permissions-site-notification-window =
     .title = Impostazions - Permès di notifiche
     .style = { permissions-window.style }
+permissions-site-notification-window2 =
+    .title = Impostazions - Permès di notifiche
+    .style = { permissions-window2.style }
 permissions-site-notification-desc = Chescj sîts web a àn domandât di inviâti notifichis. Tu puedis specificâ chei che a puedin inviâti notifichis. Tu puedis ancje blocâ lis gnovis richiestis di permès pes notifichis.
 permissions-site-notification-disable-label =
     .label = Bloche lis gnovis richiestis di permès pes notifichis
@@ -132,6 +159,9 @@ permissions-site-notification-disable-desc = Chest al impedirà a ducj i sîts w
 permissions-site-location-window =
     .title = Impostazions - Permès pe posizion
     .style = { permissions-window.style }
+permissions-site-location-window2 =
+    .title = Impostazions - Permès pe posizion
+    .style = { permissions-window2.style }
 permissions-site-location-desc = Chescj sîts web a àn domandât di cognossi la tô posizion. Tu puedis specificâ cuai che a son i sîts web che a puedin savê la tô posizion. Tu puedis ancje blocâ lis gnovis richiestis che a domandin di cognossile.
 permissions-site-location-disable-label =
     .label = Bloche lis gnovis richiestis par cognossi la tô posizion
@@ -142,6 +172,9 @@ permissions-site-location-disable-desc = Chest al impedirà a ducj i sîts web c
 permissions-site-xr-window =
     .title = Impostazions - Permès pe realtât virtuâl
     .style = { permissions-window.style }
+permissions-site-xr-window2 =
+    .title = Impostazions - Permès pe realtât virtuâl
+    .style = { permissions-window2.style }
 permissions-site-xr-desc = Chescj sîts web a àn domandât di doprâ i tiei dispositîfs pe realtât virtuâl. Tu puedis specificâ cuai che a son i sîts web che a puedin acedi ai tiei dispositîfs di realtât virtuâl. Tu puedis ancje blocâ lis gnovis richiestis che a domandin di doprâju.
 permissions-site-xr-disable-label =
     .label = Bloche lis gnovis richiestis che a domandin di acedi ai tiei dispositîfs di realtât virtuâl
@@ -152,6 +185,9 @@ permissions-site-xr-disable-desc = Chest al impedirà a ducj i sîts web che no 
 permissions-site-camera-window =
     .title = Impostazions - Permès pe fotocjamare
     .style = { permissions-window.style }
+permissions-site-camera-window2 =
+    .title = Impostazions - Permès pe fotocjamare
+    .style = { permissions-window2.style }
 permissions-site-camera-desc = Chescj sîts web a àn domandât di doprâ la tô fotocjamare. Tu puedis specificâ cuai che a son i sîts web che a puedin acedi ae tô fotocjamare. Tu puedis ancje blocâ lis gnovis richiestis che a domandin di doprâle.
 permissions-site-camera-disable-label =
     .label = Bloche lis gnovis richiestis che a domandin di acedi ae tô fotocjamare
@@ -162,6 +198,9 @@ permissions-site-camera-disable-desc = Chest al impedirà a ducj i sîts web che
 permissions-site-microphone-window =
     .title = Impostazions - Permès pal microfon
     .style = { permissions-window.style }
+permissions-site-microphone-window2 =
+    .title = Impostazions - Permès pal microfon
+    .style = { permissions-window2.style }
 permissions-site-microphone-desc = Chescj sîts web a àn domandât di doprâ il to microfon. Tu puedis specificâ cuai che a son i sîts web che a puedin doprâ il to microfon. Tu puedis ancje blocâ lis gnovis richiestis che a domandin di doprâlu.
 permissions-site-microphone-disable-label =
     .label = Bloche lis gnovis richiestis che a domandi di doprâ il to microfon
