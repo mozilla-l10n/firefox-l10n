@@ -5,16 +5,16 @@
 containers-window-new =
     .title = Gehitu edukiontzi berria
     .style = width: 45em
-
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings =
     .title = { $name } edukiontziaren ezarpenak
     .style = width: 45em
-
+containers-window-new2 =
+    .title = Gehitu edukiontzi berria
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -25,26 +25,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Izena
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Idatzi edukiontziaren izena
-
 containers-icon-label = Ikonoa
     .accesskey = k
     .style = { -containers-labels-style }
-
 containers-color-label = Kolorea
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = Eginda
     .buttonaccesskeyaccept = E
-
 containers-color-blue =
     .label = Urdina
 containers-color-turquoise =
@@ -63,7 +57,6 @@ containers-color-purple =
     .label = Morea
 containers-color-toolbar =
     .label = Bat etorrarazi tresna-barra
-
 containers-icon-fence =
     .label = Hesia
 containers-icon-fingerprint =
